@@ -145,35 +145,33 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Python for data engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-for-data-engineering?u=76281980)
+#### [Python for data engineering](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-for-data-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-for-data-engineering?u=76281980&t=0)** - Do you want to become a data engineer?
 >
-> **[0:03](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-for-data-engineering?u=76281980&t=3)** Then Python is the most important skill to have.
+> **[0:03](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-for-data-engineering?u=76281980&t=3)** Then [[Python (Programming Language)|Python]] is the most important skill to have.
 >
 > **[0:07](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-for-data-engineering?u=76281980&t=7)** This course is designed to prepare you to develop the Python skill needed to become a successful data engineer.
 >
 > **[0:15](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-for-data-engineering?u=76281980&t=15)** You will learn Python basics, file handling, panda, NumPy, visualization, along with practical examples.
 >
-> **[0:24](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-for-data-engineering?u=76281980&t=24)** Hi, I'm Deepak Goyal, a Senior Certified Microsoft Solution Architect and Trainer.
+> **[0:24](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-for-data-engineering?u=76281980&t=24)** Hi, I'm Deepak Goyal, a Senior Certified [[Microsoft]] Solution Architect and Trainer.
 >
 > **[0:30](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-for-data-engineering?u=76281980&t=30)** Join me to accelerate your career in the data world.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Python (Programming Language)|Python]] (3), [[Microsoft]] (1), career (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Microsoft]] (1)
 > **CLI Commands:** python (3)
 > **Speakers:** - do (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-you-should-know?u=76281980&t=0)** - [Instructor] It is important to understand that what is the prerequisite knowledge needed to learn this Python for Data Engineering course?
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-you-should-know?u=76281980&t=0)** - [Instructor] It is important to understand that what is the prerequisite knowledge needed to learn this [[Python (Programming Language)|Python]] for [[Data Engineering]] course?
 >
 > **[0:09](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-you-should-know?u=76281980&t=9)** The good news is that we don't need any prerequisite knowledge as such, either about the Python or about the data engineering.
 >
@@ -183,20 +181,19 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-you-should-know?u=76281980&t=40)** From the data engineering side, also, we try to cover the basics of the data engineering, whenever and wherever needed throughout the course.
 >
-> **[0:50](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-you-should-know?u=76281980&t=50)** As this course is not just a theory, but a practical-driven course, so for this, we're going to need the Google Colab.
+> **[0:50](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-you-should-know?u=76281980&t=50)** As this course is not just a theory, but a practical-driven course, so for this, we're going to need the [[Google]] Colab.
 >
-> **[0:59](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-you-should-know?u=76281980&t=59)** If you have any idea about the Google Colab, it is fine, and if you are hearing this term in itself for the first time, then rest assured, we have covered how you can make your Google Colab account and we have a quick tour of explaining how you can use that tool for practicing your Python.
+> **[0:59](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-you-should-know?u=76281980&t=59)** If you have any idea about the Google Colab, it is fine, and if you are hearing this term in itself for the first time, then [[Representational State Transfer (REST)|rest]] assured, we have covered how you can make your Google Colab account and we have a quick tour of explaining how you can use that tool for practicing your Python.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Data Engineering]] (5), [[Google]] (3), [[Programming]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Data Engineering]] (5), [[Google]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** python (5), make (1)
 > **Tools:** colab (3)
 > **Prerequisites:** prerequisite (2)
 > **Speakers:** - [instructor] (1)
 
-#### CoderPad tour
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/coderpad-tour?u=76281980)
+#### [CoderPad tour](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/coderpad-tour?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -222,11 +219,11 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/coderpad-tour?u=76281980&t=95)** Once you finish each code challenges, you can return to the course table of content and click the next video to see my solution.
 >
-> **[1:48](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/coderpad-tour?u=76281980&t=108)** It is preferred to use the laptop for the code challenges, but if you have the challenge in using the laptop, you can use the LinkedIn Learning app on your mobile and you can try doing on that.
+> **[1:48](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/coderpad-tour?u=76281980&t=108)** It is preferred to use the laptop for the code challenges, but if you have the challenge in using the laptop, you can use the [[LinkedIn]] Learning app on your mobile and you can try doing on that.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
@@ -237,14 +234,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to Python and data engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/introduction-to-python-data-engineering?u=76281980)
+#### [Introduction to Python and data engineering](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/introduction-to-python-data-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/introduction-to-python-data-engineering?u=76281980&t=0)** - [Instructor] Have you ever wondered how Netflix knows exactly what movie you want to watch next, or how Amazon seems to read your mind and recommend the preferred product?
 >
-> **[0:15](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/introduction-to-python-data-engineering?u=76281980&t=15)** The secret lies in the data engineering and the magic wand that makes it possible is Python.
+> **[0:15](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/introduction-to-python-data-engineering?u=76281980&t=15)** The secret lies in the [[Data Engineering]] and the magic wand that makes it possible is [[Python (Programming Language)|Python]].
 >
 > **[0:23](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/introduction-to-python-data-engineering?u=76281980&t=23)** Welcome to the Python for Data Engineering.
 >
@@ -264,9 +260,9 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/introduction-to-python-data-engineering?u=76281980&t=75)** It's like a Swiss Army knife of programming language.
 >
-> **[1:20](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/introduction-to-python-data-engineering?u=76281980&t=80)** It's used in web development, game development, and yes, in data engineering too.
+> **[1:20](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/introduction-to-python-data-engineering?u=76281980&t=80)** It's used in [[Web Development]], [[Game Development]], and yes, in data engineering too.
 >
-> **[1:27](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/introduction-to-python-data-engineering?u=76281980&t=87)** Python is particularly popular in data engineering because of its powerful libraries, like pandas for data manipulations, NumPy for numerical computation, and Matplotlib for data visualization.
+> **[1:27](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/introduction-to-python-data-engineering?u=76281980&t=87)** Python is particularly popular in data engineering because of its powerful libraries, like [[Pandas (Software)|pandas]] for data manipulations, NumPy for numerical computation, and Matplotlib for data visualization.
 >
 > **[1:43](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/introduction-to-python-data-engineering?u=76281980&t=103)** Let's take a real-world example.
 >
@@ -278,7 +274,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/introduction-to-python-data-engineering?u=76281980&t=130)** Over the course of this series, we will dive deeper into the Python and data engineering.
 >
-> **[2:16](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/introduction-to-python-data-engineering?u=76281980&t=136)** We will explore Python's powerful libraries, learn how to clean and manipulate data, and we'll also cover a capstone project.
+> **[2:16](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/introduction-to-python-data-engineering?u=76281980&t=136)** We will explore Python's powerful libraries, learn how to clean and manipulate data, and we'll also cover a [[Capstone]] project.
 >
 > **[2:27](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/introduction-to-python-data-engineering?u=76281980&t=147)** By the end, you will have the skills you need to harness the power of data and make informed decisions.
 >
@@ -294,7 +290,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), data (8), [[Data Engineering]] (7), next (3), product (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[Data Engineering]] (7), [[Web Development]] (1), [[Game Development]] (1), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** python (10), make (3)
 > **Analogies:** think of it like (1), it's like (1), imagine (1)
 > **Cross-References:** next video (2)
@@ -302,8 +298,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up your Python environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/setting-up-your-python-environment?u=76281980)
+#### [Setting up your Python environment](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/setting-up-your-python-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -311,19 +306,19 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/setting-up-your-python-environment?u=76281980&t=13)** Sounds like a dream, right?
 >
-> **[0:15](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/setting-up-your-python-environment?u=76281980&t=15)** Well, with Google Colab, this dream becomes a reality.
+> **[0:15](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/setting-up-your-python-environment?u=76281980&t=15)** Well, with [[Google]] Colab, this dream becomes a reality.
 >
 > **[0:21](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/setting-up-your-python-environment?u=76281980&t=21)** First things first, let's understand what is Google Colab?
 >
 > **[0:25](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/setting-up-your-python-environment?u=76281980&t=25)** Think of it like a virtual notebook that lives in the cloud.
 >
-> **[0:30](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/setting-up-your-python-environment?u=76281980&t=30)** It allows you to write and execute Python right in your browser with zero configuration required.
+> **[0:30](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/setting-up-your-python-environment?u=76281980&t=30)** It allows you to write and execute [[Python (Programming Language)|Python]] right in your browser with zero configuration required.
 >
 > **[0:39](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/setting-up-your-python-environment?u=76281980&t=39)** It's like having a powerful Python machine that you can access from your phone, your tablet, or your 10 years old laptop.
 >
 > **[0:50](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/setting-up-your-python-environment?u=76281980&t=50)** Now, why use Google Colab? There are certain reasons.
 >
-> **[0:56](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/setting-up-your-python-environment?u=76281980&t=56)** For example, it is free, it is easy to use, and it comes filled with many of the libraries we will need for data engineering.
+> **[0:56](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/setting-up-your-python-environment?u=76281980&t=56)** For example, it is free, it is easy to use, and it comes filled with many of the libraries we will need for [[Data Engineering]].
 >
 > **[1:07](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/setting-up-your-python-environment?u=76281980&t=67)** And on top of it, it allows us to share our work easily, just like Google Docs.
 >
@@ -363,7 +358,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (10), [[Python (Programming Language)|Python]] (4), [[Data Engineering]] (4), cloud (1), next (1)
+> **Frameworks & Libraries:** [[Google]] (10), [[Python (Programming Language)|Python]] (4), [[Data Engineering]] (4)
 > **Tools:** colab (8)
 > **CLI Commands:** python (4), find (2)
 > **Analogies:** imagine (1), think of it like (1), it's like (1), for example (1), just like (1)
@@ -372,8 +367,7 @@ created: 2026-05-02
 > **URLs:** [google.com](https://google.com) (1)
 > **Env Vars:** url (1)
 
-#### Explore the Google Colab worksheet
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/explore-google-colab-worksheet?u=76281980)
+#### [Explore the Google Colab worksheet](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/explore-google-colab-worksheet?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -381,13 +375,13 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/explore-google-colab-worksheet?u=76281980&t=6)** You have all the tools and materials you need, but you need to know where everything is and how to use it.
 >
-> **[0:16](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/explore-google-colab-worksheet?u=76281980&t=16)** Google Colab is just like that studio.
+> **[0:16](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/explore-google-colab-worksheet?u=76281980&t=16)** [[Google]] Colab is just like that studio.
 >
 > **[0:19](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/explore-google-colab-worksheet?u=76281980&t=19)** And in this video, let's explore more about this Google Colab studio.
 >
 > **[0:26](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/explore-google-colab-worksheet?u=76281980&t=26)** Google Colab, short for Colaboratory, is a free Jupyter Notebook environment that requires no setup and runs entirely in the cloud.
 >
-> **[0:38](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/explore-google-colab-worksheet?u=76281980&t=38)** It's like a virtual notebook that you can use to write, run, and share Python code.
+> **[0:38](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/explore-google-colab-worksheet?u=76281980&t=38)** It's like a virtual notebook that you can use to write, run, and share [[Python (Programming Language)|Python]] code.
 >
 > **[0:46](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/explore-google-colab-worksheet?u=76281980&t=46)** Let's start by creating our new notebook.
 >
@@ -427,7 +421,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/explore-google-colab-worksheet?u=76281980&t=161)** So even if you forget the entire syntax, this auto suggestion feature will help you to guide in writing the right syntax.
 >
-> **[2:55](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/explore-google-colab-worksheet?u=76281980&t=175)** Another powerful feature of the Google Colab is its integration with the Google Drive and other Google service.
+> **[2:55](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/explore-google-colab-worksheet?u=76281980&t=175)** Another powerful feature of the Google Colab is its integration with the [[Google Drive]] and other Google service.
 >
 > **[3:04](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/explore-google-colab-worksheet?u=76281980&t=184)** For example, if you want to save this file into a Google Drive, you can click on the File icon, and here you will see an option, Save a copy in Drive.
 >
@@ -449,7 +443,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (8), [[Python (Programming Language)|Python]] (3), feature (3), [[Google Drive]] (3), cloud (1)
+> **Frameworks & Libraries:** [[Google]] (8), [[Python (Programming Language)|Python]] (3), [[Google Drive]] (3)
 > **Tools:** colab (7), jupyter (1)
 > **UI Navigation:** click on (6)
 > **CLI Commands:** python (3), find (2)
@@ -458,8 +452,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1), in the next (1)
 > **Prerequisites:** setup (1)
 
-#### Variables and data types
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/variables-and-data-types?u=76281980)
+#### [Variables and data types](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/variables-and-data-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -467,7 +460,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/variables-and-data-types?u=76281980&t=5)** You have your kitchen, your recipe, but what about your ingredients?
 >
-> **[0:11](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/variables-and-data-types?u=76281980&t=11)** In Python, variables and data types are the ingredients that make up your code.
+> **[0:11](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/variables-and-data-types?u=76281980&t=11)** In [[Python (Programming Language)|Python]], variables and data types are the ingredients that make up your code.
 >
 > **[0:17](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/variables-and-data-types?u=76281980&t=17)** Let's understand the variables and data types in Python.
 >
@@ -477,11 +470,11 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/variables-and-data-types?u=76281980&t=29)** Think of it like a jar where you can put anything you want.
 >
-> **[0:35](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/variables-and-data-types?u=76281980&t=35)** It could be a number, a word, a list of item, and so on.
+> **[0:35](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/variables-and-data-types?u=76281980&t=35)** It could be a number, a [[Microsoft Word|word]], a list of item, and so on.
 >
 > **[0:41](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/variables-and-data-types?u=76281980&t=41)** To create a variable, you just need to give it a name and assign it a value.
 >
-> **[0:49](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/variables-and-data-types?u=76281980&t=49)** For example, let's create a variable called greeting and assign it a value, Hello Data engineering.
+> **[0:49](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/variables-and-data-types?u=76281980&t=49)** For example, let's create a variable called greeting and assign it a value, Hello [[Data Engineering]].
 >
 > **[1:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/variables-and-data-types?u=76281980&t=60)** Now in this case, we can use this jar or a variable which we have created to print the value.
 >
@@ -515,7 +508,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/variables-and-data-types?u=76281980&t=165)** It could be true/false.
 >
-> **[2:49](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/variables-and-data-types?u=76281980&t=169)** Now let's go back to our Google Colab and see how we can create these different types of variables of these different data types.
+> **[2:49](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/variables-and-data-types?u=76281980&t=169)** Now let's go back to our [[Google]] Colab and see how we can create these different types of variables of these different data types.
 >
 > **[3:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/variables-and-data-types?u=76281980&t=180)** Now I'm writing the next piece of a code in another cell.
 >
@@ -535,7 +528,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/variables-and-data-types?u=76281980&t=228)** So that's how you can define the variable of any type in the Python.
 >
-> **[3:55](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/variables-and-data-types?u=76281980&t=235)** This is a little different from another programming languages, like Java or .NET, where you have been asked to specifically define the data type of the variable.
+> **[3:55](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/variables-and-data-types?u=76281980&t=235)** This is a little different from another programming languages, like [[Java]] or .NET, where you have been asked to specifically define the data type of the variable.
 >
 > **[4:07](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/variables-and-data-types?u=76281980&t=247)** In the Python, if you don't define the data type of the variable, it automatically takes it based on the value you are assigning.
 >
@@ -555,7 +548,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (11), data (9), [[Data Engineering]] (5), next (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (11), [[Data Engineering]] (5), [[Microsoft Word|Word]] (1), [[Google]] (1), [[Java]] (1)
 > **CLI Commands:** python (11), make (1)
 > **Analogies:** for example (5), imagine (1), think of it like (1)
 > **Code Identifiers:** int_var (2), float_var (1), string_var (1), bol_var (1)
@@ -564,8 +557,7 @@ created: 2026-05-02
 > **Env Vars:** net (1)
 > **Tools:** colab (1)
 
-#### Operators and expressions
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/operators-and-expressions?u=76281980)
+#### [Operators and expressions](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/operators-and-expressions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -573,7 +565,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/operators-and-expressions?u=76281980&t=5)** Each magician plays their part, but it's their job to control how they play together.
 >
-> **[0:13](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/operators-and-expressions?u=76281980&t=13)** In Python, operators are like the conductor's baton, controlling how different values interact with each other.
+> **[0:13](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/operators-and-expressions?u=76281980&t=13)** In [[Python (Programming Language)|Python]], operators are like the conductor's baton, controlling how different values interact with each other.
 >
 > **[0:22](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/operators-and-expressions?u=76281980&t=22)** Operators in Python are special symbol that performs operation on one or more values.
 >
@@ -581,7 +573,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/operators-and-expressions?u=76281980&t=45)** Arithmetic operators are used to perform mathematical operations, for example, plus, which is adding two numbers or two floating numbers, subtraction or minus, which used to subtract the two values, and we have another one, asterisk or division, which is used for multiplication and division.
 >
-> **[1:14](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/operators-and-expressions?u=76281980&t=74)** Let's go to our Google Colab and try these arithmetic operators.
+> **[1:14](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/operators-and-expressions?u=76281980&t=74)** Let's go to our [[Google]] Colab and try these arithmetic operators.
 >
 > **[1:19](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/operators-and-expressions?u=76281980&t=79)** Let me add one more cell.
 >
@@ -657,7 +649,7 @@ created: 2026-05-02
 >
 > **[5:54](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/operators-and-expressions?u=76281980&t=354)** So if you try to use the AND operator between True and False, it will definitely come out to be false because for AND operator, both the left-hand side and right-hand side need to be of true.
 >
-> **[6:10](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/operators-and-expressions?u=76281980&t=370)** Let's say if you want to use an OR operator, then you can use a variable or a Boolean type, and you will use the word called OR, and then you will use another Boolean variable or a value, something like this.
+> **[6:10](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/operators-and-expressions?u=76281980&t=370)** Let's say if you want to use an OR operator, then you can use a variable or a Boolean type, and you will use the [[Microsoft Word|word]] called OR, and then you will use another Boolean variable or a value, something like this.
 >
 > **[6:28](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/operators-and-expressions?u=76281980&t=388)** And if we try to run this, this time, you will see the result as True because for OR condition, any one of them could be a true.
 >
@@ -673,7 +665,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Google]] (2), next (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Google]] (2), [[Microsoft Word|Word]] (1)
 > **Analogies:** for example (7), imagine (1)
 > **CLI Commands:** python (5), make (1)
 > **Cross-References:** go back to (1), next video (1)
@@ -682,14 +674,13 @@ created: 2026-05-02
 > **Versions:** 1.4 (1)
 > **UI Navigation:** go to (1)
 
-#### Control structures
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/control-structures?u=76281980)
+#### [Control structures](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/control-structures?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/control-structures?u=76281980&t=0)** - [Instructor] Imagine you are directing a movie, you have actors, you have scripts, but how do you control what happens, and when?
 >
-> **[0:10](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/control-structures?u=76281980&t=10)** In Python, control structures are like the director's chair, guiding the flow of your code.
+> **[0:10](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/control-structures?u=76281980&t=10)** In [[Python (Programming Language)|Python]], control structures are like the director's chair, guiding the flow of your code.
 >
 > **[0:18](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/control-structures?u=76281980&t=18)** Let's learn control structures in Python.
 >
@@ -701,7 +692,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/control-structures?u=76281980&t=50)** It's like a fork in the road, if the condition is true, we go one way, and if it's not, we go another way.
 >
-> **[0:59](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/control-structures?u=76281980&t=59)** Let's try it out in our Google Colab Notebook.
+> **[0:59](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/control-structures?u=76281980&t=59)** Let's try it out in our [[Google]] Colab Notebook.
 >
 > **[1:04](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/control-structures?u=76281980&t=64)** Let me add another cell and declare a variable call, num = 7.
 >
@@ -721,7 +712,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/control-structures?u=76281980&t=116)** This is showing that, now, whatever I'm going to write belongs to that if-block.
 >
-> **[2:02](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/control-structures?u=76281980&t=122)** If you are coming from a Java, or a different background, there you have curly brackets.
+> **[2:02](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/control-structures?u=76281980&t=122)** If you are coming from a [[Java]], or a different background, there you have curly brackets.
 >
 > **[2:08](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/control-structures?u=76281980&t=128)** And here in Python, it's very shorthand, so you don't need to add those curly brackets, it automatically understand by your spaces.
 >
@@ -809,7 +800,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), next (3), [[Google]] (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[Google]] (1), [[Java]] (1)
 > **CLI Commands:** python (9), make (1)
 > **Analogies:** for example (3), imagine (1), it's like (1), similar to (1)
 > **Cross-References:** in the next (2)
@@ -817,8 +808,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/functions?u=76281980)
+#### [Functions](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -826,7 +816,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/functions?u=76281980&t=3)** You could build it brick by brick or you could use pre-made sections to speed up the process.
 >
-> **[0:10](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/functions?u=76281980&t=10)** In Python, functions are like these pre-made sections, reusable piece of code that make your program more efficient and easier to manage.
+> **[0:10](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/functions?u=76281980&t=10)** In [[Python (Programming Language)|Python]], functions are like these pre-made sections, reusable piece of code that make your program more efficient and easier to manage.
 >
 > **[0:22](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/functions?u=76281980&t=22)** Let's learn more about the functions in Python.
 >
@@ -864,7 +854,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/functions?u=76281980&t=120)** Now if somebody use this function, this function will always go and print Hello world.
 >
-> **[2:09](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/functions?u=76281980&t=129)** So congratulation, we have created our first function, which is doing nothing big but print, Hello word.
+> **[2:09](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/functions?u=76281980&t=129)** So congratulation, we have created our first function, which is doing nothing big but print, Hello [[Microsoft Word|word]].
 >
 > **[2:17](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/functions?u=76281980&t=137)** Now imagine that somebody want to run this function, how we can call that function?
 >
@@ -942,7 +932,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Microsoft Word|Word]] (2), hit (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Microsoft Word|Word]] (2)
 > **CLI Commands:** python (7), make (3)
 > **Analogies:** for example (5), imagine (2)
 > **UI Navigation:** click on (3), go to (1)
@@ -950,8 +940,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
 
-#### Modules and packages
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/modules-and-packages?u=76281980)
+#### [Modules and packages](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/modules-and-packages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -959,7 +948,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/modules-and-packages?u=76281980&t=3)** You could create every part from a scratch, or you could use pre-made parts to speed up the process.
 >
-> **[0:11](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/modules-and-packages?u=76281980&t=11)** In Python, modules and packages are like these pre-made parts, reusable pieces of code that make your program more efficient and manageable.
+> **[0:11](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/modules-and-packages?u=76281980&t=11)** In [[Python (Programming Language)|Python]], modules and packages are like these pre-made parts, reusable pieces of code that make your program more efficient and manageable.
 >
 > **[0:25](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/modules-and-packages?u=76281980&t=25)** Let's understand modules and packages in Python.
 >
@@ -975,7 +964,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/modules-and-packages?u=76281980&t=62)** Let's import our first module in Python, and see how it works.
 >
-> **[1:09](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/modules-and-packages?u=76281980&t=69)** For that, let's go to our Google workbook.
+> **[1:09](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/modules-and-packages?u=76281980&t=69)** For that, let's go to our [[Google]] workbook.
 >
 > **[1:14](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/modules-and-packages?u=76281980&t=74)** Click on this file, and let's have another file.
 >
@@ -1013,7 +1002,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/modules-and-packages?u=76281980&t=187)** Now let's again go back to our Google collab, and see how can we install our first package.
 >
-> **[3:16](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/modules-and-packages?u=76281980&t=196)** I'm going to use a example of a Pandas package to import in Workbook.
+> **[3:16](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/modules-and-packages?u=76281980&t=196)** I'm going to use a example of a [[Pandas (Software)|Pandas]] package to import in Workbook.
 >
 > **[3:23](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/modules-and-packages?u=76281980&t=203)** To import in Workbook, you have to use exclamation mark, and the command "pip install", and package name.
 >
@@ -1035,7 +1024,7 @@ created: 2026-05-02
 >
 > **[4:42](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/modules-and-packages?u=76281980&t=282)** That's how we have installed a external package that is pandas, and we have used it by importing it in our code.
 >
-> **[4:54](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/modules-and-packages?u=76281980&t=294)** Its strengths are one of the most frequently used pieces in data engineering transformation.
+> **[4:54](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/modules-and-packages?u=76281980&t=294)** Its strengths are one of the most frequently used pieces in [[Data Engineering]] transformation.
 >
 > **[5:01](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/modules-and-packages?u=76281980&t=301)** In our next video, we will explore string manipulations in Python.
 >
@@ -1043,7 +1032,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[Pandas (Software)|Pandas]] (6), data (6), [[Google]] (2), database (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[Pandas (Software)|Pandas]] (6), [[Google]] (2), [[Data Engineering]] (1)
 > **CLI Commands:** python (9), make (1), find (1), pip (1)
 > **Analogies:** it's like (3), for example (3), imagine (1)
 > **Prerequisites:** install (4)
@@ -1052,8 +1041,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Env Vars:** sqrt (1)
 
-#### String manipulation
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/string-manipulation?u=76281980)
+#### [String manipulation](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/string-manipulation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1063,7 +1051,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/string-manipulation?u=76281980&t=7)** You can shape it, carve it and polish it to create a beautiful statue.
 >
-> **[0:14](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/string-manipulation?u=76281980&t=14)** In Python, strings are like these block of marbles, and with the right tools, you can shape them to fit your needs.
+> **[0:14](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/string-manipulation?u=76281980&t=14)** In [[Python (Programming Language)|Python]], strings are like these block of marbles, and with the right tools, you can shape them to fit your needs.
 >
 > **[0:24](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/string-manipulation?u=76281980&t=24)** Let's explore string manipulations in the Python.
 >
@@ -1071,13 +1059,13 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/string-manipulation?u=76281980&t=32)** They include letters, numbers, symbols, and even spaces.
 >
-> **[0:39](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/string-manipulation?u=76281980&t=39)** You can think of string as a sentence or a word.
+> **[0:39](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/string-manipulation?u=76281980&t=39)** You can think of string as a sentence or a [[Microsoft Word|word]].
 >
 > **[0:43](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/string-manipulation?u=76281980&t=43)** In Python, we define a string by enclosing characters in single quotes or double quotes.
 >
-> **[0:52](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/string-manipulation?u=76281980&t=52)** Let's jump to our Google Colab and see how we can do it.
+> **[0:52](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/string-manipulation?u=76281980&t=52)** Let's jump to our [[Google]] Colab and see how we can do it.
 >
-> **[0:58](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/string-manipulation?u=76281980&t=58)** Let's create our first string, giving a variable name greeting = "Hello Data engineering!!"
+> **[0:58](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/string-manipulation?u=76281980&t=58)** Let's create our first string, giving a variable name greeting = "Hello [[Data Engineering]]!!"
 >
 > **[1:11](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/string-manipulation?u=76281980&t=71)** Now, if I want to use this variable to print it, I just use the statement, print(greetings) and that's it.
 >
@@ -1099,7 +1087,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/string-manipulation?u=76281980&t=119)** Expand a little more so that you can see it well, message = greeting + another message that is name.
 >
-> **[2:14](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/string-manipulation?u=76281980&t=134)** And now, if I try to check this message, it will print me, "Hello Data engineering!!John."
+> **[2:14](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/string-manipulation?u=76281980&t=134)** And now, if I try to check this message, it will print me, "Hello Data engineering!![[John the Ripper|John]]."
 >
 > **[2:23](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/string-manipulation?u=76281980&t=143)** So now you can see that that's how you can combine or concatenate two strings together.
 >
@@ -1199,7 +1187,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Microsoft Word|Word]] (5), [[Data Engineering]] (5), data (4), [[Google]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Microsoft Word|Word]] (5), [[Data Engineering]] (5), [[Google]] (1), [[John the Ripper|John]] (1)
 > **CLI Commands:** python (6), find (5)
 > **Analogies:** for example (6), it's like (3), picture (1)
 > **Exercise Files:** template (3)
@@ -1208,8 +1196,7 @@ created: 2026-05-02
 > **Tools:** colab (1)
 > **Definitions:** is a  (1)
 
-#### Error handling
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/error-handling?u=76281980)
+#### [Error handling](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/error-handling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1219,7 +1206,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/error-handling?u=76281980&t=6)** It's telling you there's a problem, but it's not stopping you from driving.
 >
-> **[0:13](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/error-handling?u=76281980&t=13)** In Python, errors are like these warning lights and with the right tools you can handle them gracefully.
+> **[0:13](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/error-handling?u=76281980&t=13)** In [[Python (Programming Language)|Python]], errors are like these warning lights and with the right tools you can handle them gracefully.
 >
 > **[0:22](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/error-handling?u=76281980&t=22)** Let's understand it in more detail.
 >
@@ -1229,7 +1216,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/error-handling?u=76281980&t=39)** Python provides tools to handle error gracefully, allowing your program to recover from the errors or even prevent them from happening in the first place.
 >
-> **[0:54](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/error-handling?u=76281980&t=54)** Let's start with an example in our Google Colab.
+> **[0:54](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/error-handling?u=76281980&t=54)** Let's start with an example in our [[Google]] Colab.
 >
 > **[1:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/error-handling?u=76281980&t=60)** Let's try to print(10/0).
 >
@@ -1297,7 +1284,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Google]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Google]] (1)
 > **CLI Commands:** python (7)
 > **Analogies:** imagine (1), for example (1)
 > **Warnings:** warning (2)
@@ -1305,8 +1292,7 @@ created: 2026-05-02
 > **Tools:** colab (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Conditions
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/solution-conditions?u=76281980)
+#### [Solution: Conditions](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/solution-conditions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1334,7 +1320,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
@@ -1346,8 +1331,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Collection overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/collection-overview?u=76281980)
+#### [Collection overview](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/collection-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1355,7 +1339,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/collection-overview?u=76281980&t=6)** You need to organize them by genre, author, and title so that readers can find what they are looking for.
 >
-> **[0:15](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/collection-overview?u=76281980&t=15)** In Python, collections are like this library, and with the right tools, you can organize and manipulate your data efficiently.
+> **[0:15](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/collection-overview?u=76281980&t=15)** In [[Python (Programming Language)|Python]], collections are like this library, and with the right tools, you can organize and manipulate your data efficiently.
 >
 > **[0:27](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/collection-overview?u=76281980&t=27)** In Python, a collection is a container that holds multiple items.
 >
@@ -1381,9 +1365,9 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/collection-overview?u=76281980&t=96)** Imagine a massive library where each book or a value can be quickly found by its unique title that is key.
 >
-> **[1:47](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/collection-overview?u=76281980&t=107)** In data engineering, choosing the right collection can make your operation faster, more efficient, and more intuitive.
+> **[1:47](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/collection-overview?u=76281980&t=107)** In [[Data Engineering]], choosing the right collection can make your operation faster, more efficient, and more intuitive.
 >
-> **[1:55](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/collection-overview?u=76281980&t=115)** Remember, while each collection has its strengths, its combination of them that gives Python its power in data manipulation and engineering.
+> **[1:55](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/collection-overview?u=76281980&t=115)** Remember, while each collection has its strengths, its combination of them that gives Python its power in [[Data Manipulation]] and engineering.
 >
 > **[2:08](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/collection-overview?u=76281980&t=128)** That's wrap up of our broad overview of Python collection.
 >
@@ -1393,15 +1377,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), data (3), [[Data Engineering]] (1), strengths (1), power (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Data Engineering]] (1), [[Data Manipulation]] (1)
 > **CLI Commands:** python (5), find (1), make (1)
 > **Analogies:** imagine (2)
 > **Documentation:** specification (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Python collections: Tuples
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-collections-tuples?u=76281980)
+#### [Python collections: Tuples](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-collections-tuples?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1409,7 +1392,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-collections-tuples?u=76281980&t=8)** But once you have set the coordinates, they can't be changed.
 >
-> **[0:14](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-collections-tuples?u=76281980&t=14)** This is pretty similar to tuples in the Python.
+> **[0:14](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-collections-tuples?u=76281980&t=14)** This is pretty similar to tuples in the [[Python (Programming Language)|Python]].
 >
 > **[0:18](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-collections-tuples?u=76281980&t=18)** Let's understand more.
 >
@@ -1477,7 +1460,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-collections-tuples?u=76281980&t=216)** So we will come here and we will just simply change the element in the list by saying new_emp[1] = 'Deepak Goyal'.
 >
-> **[3:50](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-collections-tuples?u=76281980&t=230)** And then I can reconvert word this list into the tuple.
+> **[3:50](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-collections-tuples?u=76281980&t=230)** And then I can reconvert [[Microsoft Word|word]] this list into the tuple.
 >
 > **[3:55](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-collections-tuples?u=76281980&t=235)** So I again say that employee = tuple new_emp.
 >
@@ -1515,7 +1498,7 @@ created: 2026-05-02
 >
 > **[5:52](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-collections-tuples?u=76281980&t=352)** Now it's time to understand another interesting collection in the Python that is list.
 >
-> **[5:59](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-collections-tuples?u=76281980&t=359)** List could be very useful in data manipulation.
+> **[5:59](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-collections-tuples?u=76281980&t=359)** List could be very useful in [[Data Manipulation]].
 >
 > **[6:03](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-collections-tuples?u=76281980&t=363)** See you there.
 
@@ -1528,8 +1511,7 @@ created: 2026-05-02
 > **Definitions:** means that (3)
 > **Speakers:** - [instructor] (1)
 
-#### Python collections: Lists
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-collections-lists?u=76281980)
+#### [Python collections: Lists](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-collections-lists?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1537,7 +1519,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-collections-lists?u=76281980&t=7)** As tasks get complete, new ones emerge.
 >
-> **[0:12](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-collections-lists?u=76281980&t=12)** Priorities shifts and some tasks get dropped and Python lists are like this ever evolving to-do list.
+> **[0:12](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-collections-lists?u=76281980&t=12)** Priorities shifts and some tasks get dropped and [[Python (Programming Language)|Python]] lists are like this ever evolving to-do list.
 >
 > **[0:20](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-collections-lists?u=76281980&t=20)** Let's understand more.
 >
@@ -1587,7 +1569,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-collections-lists?u=76281980&t=192)** In fact, you can also insert the element at a specific index also.
 >
-> **[3:19](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-collections-lists?u=76281980&t=199)** For example, I can say that tasks.insert, and then I can say that don't change the first position element, instead just add in another one at this position, for example, 'Unit testing'.
+> **[3:19](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-collections-lists?u=76281980&t=199)** For example, I can say that tasks.insert, and then I can say that don't change the first position element, instead just add in another one at this position, for example, '[[Unit Testing]]'.
 >
 > **[3:39](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-collections-lists?u=76281980&t=219)** Now, if I try to check my list again, you will find that it has now become five elements and this new element got added up at this index.
 >
@@ -1619,15 +1601,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Unit Testing]] (3), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Unit Testing]] (3)
 > **CLI Commands:** python (4), find (3)
 > **Analogies:** for example (6)
 > **Definitions:** means that (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Python collections: Sets
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-collections-sets?u=76281980)
+#### [Python collections: Sets](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-collections-sets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1637,11 +1618,11 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-collections-sets?u=76281980&t=14)** No duplicates.
 >
-> **[0:16](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-collections-sets?u=76281980&t=16)** In Python, sets are like this collection of unique clues.
+> **[0:16](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-collections-sets?u=76281980&t=16)** In [[Python (Programming Language)|Python]], sets are like this collection of unique clues.
 >
 > **[0:20](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-collections-sets?u=76281980&t=20)** Let's understand it more.
 >
-> **[0:23](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-collections-sets?u=76281980&t=23)** Let's start by creating a simple set of unique tasks in our Google Colab Notebook.
+> **[0:23](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-collections-sets?u=76281980&t=23)** Let's start by creating a simple set of unique tasks in our [[Google]] Colab Notebook.
 >
 > **[0:30](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-collections-sets?u=76281980&t=30)** Again, here, let task equal to curly brackets.
 >
@@ -1675,7 +1656,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-collections-sets?u=76281980&t=138)** How? Let's see here.
 >
-> **[2:21](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-collections-sets?u=76281980&t=141)** Let's say new task is equal to unit testing and SIT testing.
+> **[2:21](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-collections-sets?u=76281980&t=141)** Let's say new task is equal to [[Unit Testing]] and SIT testing.
 >
 > **[2:33](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-collections-sets?u=76281980&t=153)** Now, if I want to add this specific set on an existing set, I can use an update method and there I can pass this a new set.
 >
@@ -1709,7 +1690,7 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-collections-sets?u=76281980&t=256)** Sets a powerful tool for ensuring uniqueness in your data.
 >
-> **[4:21](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-collections-sets?u=76281980&t=261)** In the realm of data engineering where data activity and quality are paramount, sets can be invaluable.
+> **[4:21](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-collections-sets?u=76281980&t=261)** In the realm of [[Data Engineering]] where data activity and quality are paramount, sets can be invaluable.
 >
 > **[4:31](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-collections-sets?u=76281980&t=271)** In our next video, we'll continue our journey through Python collection, focusing on dictionaries.
 >
@@ -1717,7 +1698,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), data (2), [[Google]] (1), [[Unit Testing]] (1), [[Data Engineering]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Google]] (1), [[Unit Testing]] (1), [[Data Engineering]] (1)
 > **CLI Commands:** python (2), find (2), make (1)
 > **Analogies:** for example (5)
 > **Env Vars:** sit (1)
@@ -1725,14 +1706,13 @@ created: 2026-05-02
 > **Tools:** colab (1)
 > **Speakers:** - [instructor] (1)
 
-#### Python collections: Dictionaries
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-collections-dictionaries?u=76281980)
+#### [Python collections: Dictionaries](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-collections-dictionaries?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-collections-dictionaries?u=76281980&t=0)** - [Instructor] Imagine you are in a vast library where each book has a unique title that helps you find it among thousands of others.
 >
-> **[0:11](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-collections-dictionaries?u=76281980&t=11)** In Python, dictionaries work similarly where each piece of data has a unique key.
+> **[0:11](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-collections-dictionaries?u=76281980&t=11)** In [[Python (Programming Language)|Python]], dictionaries work similarly where each piece of data has a unique key.
 >
 > **[0:18](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-collections-dictionaries?u=76281980&t=18)** Let's understand it in more detail.
 >
@@ -1746,7 +1726,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-collections-dictionaries?u=76281980&t=47)** In Python 3.6 and earlier, dictionaries was unordered.
 >
-> **[0:54](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-collections-dictionaries?u=76281980&t=54)** Now, let's go back to our Google Colab and see how we can use dictionaries.
+> **[0:54](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-collections-dictionaries?u=76281980&t=54)** Now, let's go back to our [[Google]] Colab and see how we can use dictionaries.
 >
 > **[1:01](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-collections-dictionaries?u=76281980&t=61)** Dictionaries are written with curly bracket and have keys and values.
 >
@@ -1848,11 +1828,11 @@ created: 2026-05-02
 >
 > **[7:29](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-collections-dictionaries?u=76281980&t=449)** That's wrap up our exploration of dictionaries in Python.
 >
-> **[7:34](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-collections-dictionaries?u=76281980&t=454)** They are the condo store in data engineering, aligned for efficient data retrieval and manipulation.
+> **[7:34](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-collections-dictionaries?u=76281980&t=454)** They are the condo store in [[Data Engineering]], aligned for efficient data retrieval and manipulation.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), data (5), [[Google]] (1), [[Data Engineering]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Google]] (1), [[Data Engineering]] (1)
 > **Analogies:** for example (8), imagine (1)
 > **CLI Commands:** python (5), find (2), make (1)
 > **Code Identifiers:** new_user (4)
@@ -1861,8 +1841,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Tools:** colab (1)
 
-#### Solution: Collections
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/solution-collections?u=76281980)
+#### [Solution: Collections](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/solution-collections?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1888,7 +1867,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (2)
 > **Cross-References:** next video (1)
@@ -1901,8 +1879,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### File I/O overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/file-i-o-overview?u=76281980)
+#### [File I/O overview](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/file-i-o-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1914,19 +1891,19 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/file-i-o-overview?u=76281980&t=22)** Let's understand it in more detail.
 >
-> **[0:25](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/file-i-o-overview?u=76281980&t=25)** In data engineering, working with files is like handling data in the rawest form.
+> **[0:25](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/file-i-o-overview?u=76281980&t=25)** In [[Data Engineering]], working with files is like handling data in the rawest form.
 >
-> **[0:32](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/file-i-o-overview?u=76281980&t=32)** From logs and configuration to structured data and reports, files are at the core of data manipulation.
+> **[0:32](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/file-i-o-overview?u=76281980&t=32)** From logs and configuration to structured data and reports, files are at the core of [[Data Manipulation]].
 >
-> **[0:41](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/file-i-o-overview?u=76281980&t=41)** Python provides various ways to read and write files.
+> **[0:41](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/file-i-o-overview?u=76281980&t=41)** [[Python (Programming Language)|Python]] provides various ways to read and write files.
 >
-> **[0:47](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/file-i-o-overview?u=76281980&t=47)** As per the project need, many times, you might need to read the files of a specific format, for example, CSV, JSON, XML, Excel, and few others.
+> **[0:47](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/file-i-o-overview?u=76281980&t=47)** As per the project need, many times, you might need to read the files of a specific format, for example, CSV, [[JSON]], XML, [[Microsoft Excel|Excel]], and few others.
 >
 > **[1:02](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/file-i-o-overview?u=76281980&t=62)** However, from the data engineering perspective, CSV, JSON, XML, and Excel are most commonly used.
 >
 > **[1:11](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/file-i-o-overview?u=76281980&t=71)** In the real-world scenario, file reading/writing comes very handy.
 >
-> **[1:18](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/file-i-o-overview?u=76281980&t=78)** For example, you need it when you want to analyze the server logs, or maybe you want to analyze the data available in CSV, or you may have IoT device telemetry data available in JSON format that needs to be processed.
+> **[1:18](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/file-i-o-overview?u=76281980&t=78)** For example, you need it when you want to analyze the server logs, or maybe you want to analyze the data available in CSV, or you may have [[IoT]] device telemetry data available in JSON format that needs to be processed.
 >
 > **[1:38](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/file-i-o-overview?u=76281980&t=98)** One of the biggest challenges which generally comes while reading and writing the files in programmatic manner in Python is handling the bad data within the files, which might result in lot of errors.
 >
@@ -1940,15 +1917,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[JSON]] (4), [[Data Engineering]] (3), [[Python (Programming Language)|Python]] (2), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[JSON]] (4), [[Data Engineering]] (3), [[Python (Programming Language)|Python]] (2), [[Microsoft Excel|Excel]] (2), [[Data Manipulation]] (1)
 > **Env Vars:** csv (4), json (4), xml (2)
 > **CLI Commands:** python (2)
 > **Analogies:** for example (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with CSV files
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/working-with-csv-files?u=76281980)
+#### [Working with CSV files](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/working-with-csv-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1956,7 +1932,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/working-with-csv-files?u=76281980&t=3)** Who is looking to get treasure of hidden information, you have got data neatly organized in rows and columns like a spreadsheet.
 >
-> **[0:15](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/working-with-csv-files?u=76281980&t=15)** In the world of data engineering, this kind of a data can make your treasure dream come true.
+> **[0:15](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/working-with-csv-files?u=76281980&t=15)** In the world of [[Data Engineering]], this kind of a data can make your treasure dream come true.
 >
 > **[0:23](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/working-with-csv-files?u=76281980&t=23)** A CSV file is like a table with row and columns.
 >
@@ -1966,11 +1942,11 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/working-with-csv-files?u=76281980&t=39)** Hence that's why it is called comma separated.
 >
-> **[0:44](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/working-with-csv-files?u=76281980&t=44)** Python makes it easy to read CSV files.
+> **[0:44](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/working-with-csv-files?u=76281980&t=44)** [[Python (Programming Language)|Python]] makes it easy to read CSV files.
 >
 > **[0:48](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/working-with-csv-files?u=76281980&t=48)** You can use the CSV module to read the CSV file.
 >
-> **[0:53](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/working-with-csv-files?u=76281980&t=53)** Let's go to our Google Colab workbook and see how we can read the CSV file.
+> **[0:53](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/working-with-csv-files?u=76281980&t=53)** Let's go to our [[Google]] Colab workbook and see how we can read the CSV file.
 >
 > **[1:02](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/working-with-csv-files?u=76281980&t=62)** The first thing probably you need to read a CSV file that you need to have a CSV to read.
 >
@@ -2042,7 +2018,7 @@ created: 2026-05-02
 >
 > **[5:15](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/working-with-csv-files?u=76281980&t=315)** So that's how easy it is to read and write the data using CSV in Python.
 >
-> **[5:23](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/working-with-csv-files?u=76281980&t=323)** Beside this, there is another way of reading and writing the CSV file and that is using the Pandas library.
+> **[5:23](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/working-with-csv-files?u=76281980&t=323)** Beside this, there is another way of reading and writing the CSV file and that is using the [[Pandas (Software)|Pandas]] library.
 >
 > **[5:33](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/working-with-csv-files?u=76281980&t=333)** What we have seen for now is a classical way of dealing with CSV.
 >
@@ -2050,13 +2026,13 @@ created: 2026-05-02
 >
 > **[5:48](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/working-with-csv-files?u=76281980&t=348)** That's conclude our exploration of the working with CSV file.
 >
-> **[5:53](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/working-with-csv-files?u=76281980&t=353)** In the next video, we will see how to manage JSON files with the Python.
+> **[5:53](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/working-with-csv-files?u=76281980&t=353)** In the next video, we will see how to manage [[JSON]] files with the Python.
 >
 > **[5:58](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/working-with-csv-files?u=76281980&t=358)** See you there.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Python (Programming Language)|Python]] (3), [[Pandas (Software)|Pandas]] (2), [[Data Engineering]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Pandas (Software)|Pandas]] (2), [[Data Engineering]] (1), [[Google]] (1), [[JSON]] (1)
 > **Env Vars:** csv (27), json (1)
 > **CLI Commands:** python (3), make (1)
 > **UI Navigation:** click on (3), go to (1)
@@ -2065,8 +2041,7 @@ created: 2026-05-02
 > **Code Identifiers:** csv_writer (1)
 > **Cross-References:** in the next (1)
 
-#### Working with JSON files
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/working-with-json-files?u=76281980)
+#### [Working with JSON files](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/working-with-json-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2074,7 +2049,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/working-with-json-files?u=76281980&t=1)** You have a box filled with neatly organized information, like a collection of labeled folders.
 >
-> **[0:10](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/working-with-json-files?u=76281980&t=10)** In the data world, you can consider it as JSON files.
+> **[0:10](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/working-with-json-files?u=76281980&t=10)** In the data world, you can consider it as [[JSON]] files.
 >
 > **[0:15](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/working-with-json-files?u=76281980&t=15)** If you are someone who is new to the JSON, then let's quickly see what JSON files are.
 >
@@ -2084,11 +2059,11 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/working-with-json-files?u=76281980&t=34)** Think of it as a universal language of data exchange.
 >
-> **[0:40](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/working-with-json-files?u=76281980&t=40)** In Python, it's easy to read and manage the JSON files.
+> **[0:40](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/working-with-json-files?u=76281980&t=40)** In [[Python (Programming Language)|Python]], it's easy to read and manage the JSON files.
 >
 > **[0:45](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/working-with-json-files?u=76281980&t=45)** Similar to the CSV module, we have a separate module for the JSON.
 >
-> **[0:50](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/working-with-json-files?u=76281980&t=50)** Let's go back to our Google Colab sheet and see how we can read and write with JSON.
+> **[0:50](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/working-with-json-files?u=76281980&t=50)** Let's go back to our [[Google]] Colab sheet and see how we can read and write with JSON.
 >
 > **[1:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/working-with-json-files?u=76281980&t=60)** The first thing, like CSV, we need a file, which is of type JSON, to read.
 >
@@ -2134,15 +2109,15 @@ created: 2026-05-02
 >
 > **[4:18](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/working-with-json-files?u=76281980&t=258)** Let me click on that output2.json for you, and here, you can see that our output file got saved with the same data.
 >
-> **[4:29](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/working-with-json-files?u=76281980&t=269)** If we talk about the real-world application, JSON is the default data type for REST APIs.
+> **[4:29](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/working-with-json-files?u=76281980&t=269)** If we talk about the real-world application, JSON is the default data type for [[Representational State Transfer (REST)|REST]] APIs.
 >
-> **[4:36](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/working-with-json-files?u=76281980&t=276)** Beside this, the majority of the IoT-based telemetry data is also generated in the JSON format, hence, knowing how to handle the JSON data would be the key skill for any data engineer.
+> **[4:36](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/working-with-json-files?u=76281980&t=276)** Beside this, the majority of the [[IoT]]-based telemetry data is also generated in the JSON format, hence, knowing how to handle the JSON data would be the key skill for any data engineer.
 >
-> **[4:53](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/working-with-json-files?u=76281980&t=293)** In our next video, we will continue our data engineering journey by diving into one of the most popular library for data manipulation, that is, the pandas.
+> **[4:53](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/working-with-json-files?u=76281980&t=293)** In our next video, we will continue our [[Data Engineering]] journey by diving into one of the most popular library for [[Data Manipulation]], that is, the [[Pandas (Software)|pandas]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (25), data (22), next (2), [[Python (Programming Language)|Python]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[JSON]] (25), [[Python (Programming Language)|Python]] (1), [[Google]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[IoT]] (1)
 > **Env Vars:** json (21), csv (3), rest (1)
 > **UI Navigation:** click on (4)
 > **File Paths:** output2.json (3)
@@ -2151,8 +2126,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1), next video (1)
 > **Tools:** colab (1)
 
-#### Solution: File handling
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/solution-file-handling?u=76281980)
+#### [Solution: File handling](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/solution-file-handling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2210,7 +2184,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1)
 > **Env Vars:** tx3 (2)
 > **File Paths:** example.txt (1)
 > **Cross-References:** in the next (1)
@@ -2223,16 +2196,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to pandas
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/introduction-to-pandas?u=76281980)
+#### [Introduction to pandas](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/introduction-to-pandas?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/introduction-to-pandas?u=76281980&t=0)** - [Instructor] Imagine you have a magical van that can effortlessly transform heap of data into valuable insights.
 >
-> **[0:09](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/introduction-to-pandas?u=76281980&t=9)** Well, in the world of data engineering, that van is pandas.
+> **[0:09](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/introduction-to-pandas?u=76281980&t=9)** Well, in the world of [[Data Engineering]], that van is [[Pandas (Software)|pandas]].
 >
-> **[0:15](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/introduction-to-pandas?u=76281980&t=15)** Welcome to the world of data analytics using the most popular library, that is pandas Library in Python.
+> **[0:15](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/introduction-to-pandas?u=76281980&t=15)** Welcome to the world of data analytics using the most popular library, that is pandas Library in [[Python (Programming Language)|Python]].
 >
 > **[0:23](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/introduction-to-pandas?u=76281980&t=23)** pandas is a Python library used for working with data sets.
 >
@@ -2244,7 +2216,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/introduction-to-pandas?u=76281980&t=60)** pandas can open the data door for you.
 >
-> **[1:03](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/introduction-to-pandas?u=76281980&t=63)** pandas can open and read different types of data files like spreadsheets, CSV, JSON, XML, and many more.
+> **[1:03](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/introduction-to-pandas?u=76281980&t=63)** pandas can open and read different types of data files like spreadsheets, CSV, [[JSON]], XML, and many more.
 >
 > **[1:15](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/introduction-to-pandas?u=76281980&t=75)** You can sort and filter.
 >
@@ -2270,11 +2242,11 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/introduction-to-pandas?u=76281980&t=176)** Whether you are a data engineer, data scientist, analyst, or just someone who wants to play with numbers, pandas make working with data as easy as pie.
 >
-> **[3:08](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/introduction-to-pandas?u=76281980&t=188)** In our next video, we'll be delving deeper into pandas, exploring its powerful data manipulation techniques and handling real-world scenarios.
+> **[3:08](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/introduction-to-pandas?u=76281980&t=188)** In our next video, we'll be delving deeper into pandas, exploring its powerful [[Data Manipulation]] techniques and handling real-world scenarios.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Pandas (Software)|Pandas]] (13), [[Python (Programming Language)|Python]] (3), [[Analytics]] (2), [[Data Engineering]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (13), [[Python (Programming Language)|Python]] (3), [[Data Engineering]] (1), [[JSON]] (1), [[Data Manipulation]] (1)
 > **CLI Commands:** python (3), make (2), find (1)
 > **Analogies:** it's like (2), imagine (1), think of it as (1), just like (1)
 > **Env Vars:** csv (1), json (1), xml (1)
@@ -2283,12 +2255,11 @@ created: 2026-05-02
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Read files as DataFrames
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/read-files-as-dataframes?u=76281980)
+#### [Read files as DataFrames](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/read-files-as-dataframes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/read-files-as-dataframes?u=76281980&t=0)** - [Instructor] Picture Pandas as your data detective, a Schlock Holmes for spreadsheets.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/read-files-as-dataframes?u=76281980&t=0)** - [Instructor] Picture [[Pandas (Software)|Pandas]] as your data detective, a Schlock Holmes for spreadsheets.
 >
 > **[0:07](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/read-files-as-dataframes?u=76281980&t=7)** It can scan those files, gather the pieces, and assemble them into something called a DataFrame.
 >
@@ -2296,7 +2267,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/read-files-as-dataframes?u=76281980&t=22)** A Pandas DataFrame is a two dimensional data structure, like a two dimensional array or just like a table with rules and column.
 >
-> **[0:33](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/read-files-as-dataframes?u=76281980&t=33)** Now, without wasting any time, let's get down to our Google collab notebook and see how Pandas work in real time.
+> **[0:33](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/read-files-as-dataframes?u=76281980&t=33)** Now, without wasting any time, let's get down to our [[Google]] collab notebook and see how Pandas work in real time.
 >
 > **[0:44](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/read-files-as-dataframes?u=76281980&t=44)** Assume that we have a CSV file and we want to read it via Panda's library.
 >
@@ -2330,11 +2301,11 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/read-files-as-dataframes?u=76281980&t=150)** You can see that we have read the CSV file with just one line and that too in terms of rows and column.
 >
-> **[2:40](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/read-files-as-dataframes?u=76281980&t=160)** If you remember few sessions back, we read the CSV file using Python file input output method.
+> **[2:40](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/read-files-as-dataframes?u=76281980&t=160)** If you remember few sessions back, we read the CSV file using [[Python (Programming Language)|Python]] file input output method.
 >
 > **[2:48](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/read-files-as-dataframes?u=76281980&t=168)** That was a little cumbersome process.
 >
-> **[2:52](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/read-files-as-dataframes?u=76281980&t=172)** Now, there might be possibility that instead of having the CSV, you might be trying to analyze the IoT telemetry data and that might be in the form of JSON, so you can again use Pandas to read the JSON file as DataFrames and you can continue doing your operations.
+> **[2:52](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/read-files-as-dataframes?u=76281980&t=172)** Now, there might be possibility that instead of having the CSV, you might be trying to analyze the [[IoT]] telemetry data and that might be in the form of [[JSON]], so you can again use Pandas to read the JSON file as DataFrames and you can continue doing your operations.
 >
 > **[3:18](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/read-files-as-dataframes?u=76281980&t=198)** For that, again, the same thing is import pandas as pd.
 >
@@ -2350,7 +2321,7 @@ created: 2026-05-02
 >
 > **[4:23](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/read-files-as-dataframes?u=76281980&t=263)** That's how easy to read the JSON using the Pandas.
 >
-> **[4:28](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/read-files-as-dataframes?u=76281980&t=268)** Similarly, you can also read the Excel file.
+> **[4:28](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/read-files-as-dataframes?u=76281980&t=268)** Similarly, you can also read the [[Microsoft Excel|Excel]] file.
 >
 > **[4:34](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/read-files-as-dataframes?u=76281980&t=274)** For that, you have to just use df = pd.read_excel
 >
@@ -2368,11 +2339,11 @@ created: 2026-05-02
 >
 > **[5:23](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/read-files-as-dataframes?u=76281980&t=323)** Now, so far we have learned the easiest way of reading CSV, JSON, or Excel file using the Pandas.
 >
-> **[5:33](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/read-files-as-dataframes?u=76281980&t=333)** In the next video, we will learn how we can do data cleaning and its pre-processing for data analysis using the power of Pandas.
+> **[5:33](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/read-files-as-dataframes?u=76281980&t=333)** In the next video, we will learn how we can do [[Data Cleaning]] and its pre-processing for data analysis using the power of Pandas.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (13), [[JSON]] (7), data (6), [[Microsoft Excel|Excel]] (6), [[Google]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (13), [[JSON]] (7), [[Microsoft Excel|Excel]] (6), [[Google]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** csv (9), json (7)
 > **Code Identifiers:** to_string (2), read_csv (1), read_json (1), read_excel (1)
 > **UI Navigation:** click on (5)
@@ -2381,8 +2352,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 
-#### Data cleaning and preprocessing
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/data-cleaning-and-preprocessing?u=76281980)
+#### [Data cleaning and preprocessing](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/data-cleaning-and-preprocessing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2392,9 +2362,9 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/data-cleaning-and-preprocessing?u=76281980&t=23)** First thing probably you would need is to clean and pre-process this data.
 >
-> **[0:30](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/data-cleaning-and-preprocessing?u=76281980&t=30)** And the good news is with the help of pandas, all this tasks can be done in the most easiest manner.
+> **[0:30](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/data-cleaning-and-preprocessing?u=76281980&t=30)** And the good news is with the help of [[Pandas (Software)|pandas]], all this tasks can be done in the most easiest manner.
 >
-> **[0:39](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/data-cleaning-and-preprocessing?u=76281980&t=39)** Let's go back to our Google Colab and take an example of our Order.csv.
+> **[0:39](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/data-cleaning-and-preprocessing?u=76281980&t=39)** Let's go back to our [[Google]] Colab and take an example of our Order.csv.
 >
 > **[0:48](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/data-cleaning-and-preprocessing?u=76281980&t=48)** This file contains the data with lot of problems like null, wrong format, duplicate and few others.
 >
@@ -2492,7 +2462,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), business (2), [[Pandas (Software)|Pandas]] (2), [[Google]] (1), next (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (2), [[Google]] (1)
 > **Code Identifiers:** drop_duplicates (2), to_string (1), df_new (1), to_datetime (1), order_date (1)
 > **CLI Commands:** find (4), make (1)
 > **Analogies:** for example (4)
@@ -2501,14 +2471,13 @@ created: 2026-05-02
 > **Tools:** colab (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data manipulation and aggregation
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/data-manipulation-aggregation?u=76281980)
+#### [Data manipulation and aggregation](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/data-manipulation-aggregation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/data-manipulation-aggregation?u=76281980&t=0)** - [Instructor] As we already cleaned our data using data manipulation techniques, now it's time for analyzing it to get the hidden information from data.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/data-manipulation-aggregation?u=76281980&t=0)** - [Instructor] As we already cleaned our data using [[Data Manipulation]] techniques, now it's time for analyzing it to get the hidden information from data.
 >
-> **[0:13](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/data-manipulation-aggregation?u=76281980&t=13)** For this, we again going to use the Pandas library.
+> **[0:13](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/data-manipulation-aggregation?u=76281980&t=13)** For this, we again going to use the [[Pandas (Software)|Pandas]] library.
 >
 > **[0:18](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/data-manipulation-aggregation?u=76281980&t=18)** Let's go to our notebook and see how we can do it.
 >
@@ -2598,7 +2567,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Data Manipulation]] (3), [[Pandas (Software)|Pandas]] (3), product (3), business (1)
+> **Frameworks & Libraries:** [[Data Manipulation]] (3), [[Pandas (Software)|Pandas]] (3)
 > **CLI Commands:** find (6)
 > **Analogies:** for example (2), imagine (1)
 > **Env Vars:** csv (2)
@@ -2606,8 +2575,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data visualization
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/data-visualization?u=76281980)
+#### [Data visualization](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/data-visualization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2617,11 +2585,11 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/data-visualization?u=76281980&t=23)** And guess what?
 >
-> **[0:25](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/data-visualization?u=76281980&t=25)** Our trustee Python library is not just for data wrangling, it's got some impressive visualization tricks too.
+> **[0:25](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/data-visualization?u=76281980&t=25)** Our trustee [[Python (Programming Language)|Python]] library is not just for [[Data Wrangling]], it's got some impressive visualization tricks too.
 >
 > **[0:35](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/data-visualization?u=76281980&t=35)** Let's go back to our workbook and make our first basic line plot.
 >
-> **[0:43](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/data-visualization?u=76281980&t=43)** Let's import our pandas and then we have to import one more extra library for our matplot.
+> **[0:43](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/data-visualization?u=76281980&t=43)** Let's import our [[Pandas (Software)|pandas]] and then we have to import one more extra library for our matplot.
 >
 > **[0:56](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/data-visualization?u=76281980&t=56)** Now I'm taking a sample data like this, which is a date and have a price.
 >
@@ -2647,7 +2615,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/data-visualization?u=76281980&t=171)** So that's how you can make your first basic chart, that is the line chart.
 >
-> **[2:59](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/data-visualization?u=76281980&t=179)** Now, imagine that I have another dataset, which is something like this, which is having three items in the product and sales for those three products.
+> **[2:59](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/data-visualization?u=76281980&t=179)** Now, imagine that I have another dataset, which is something like this, which is having three items in the product and sales for those three [[Microsoft Products|products]].
 >
 > **[3:16](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/data-visualization?u=76281980&t=196)** And now let's make a bar chart for this.
 >
@@ -2689,7 +2657,7 @@ created: 2026-05-02
 >
 > **[5:41](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/data-visualization?u=76281980&t=341)** Now, if I just go and print this plot, this will look like this.
 >
-> **[5:50](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/data-visualization?u=76281980&t=350)** Remember, these visualizations are your windows into data insights that can drive decisions and actions.
+> **[5:50](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/data-visualization?u=76281980&t=350)** Remember, these visualizations are your [[Windows]] into data insights that can drive decisions and actions.
 >
 > **[6:01](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/data-visualization?u=76281980&t=361)** In the next video, we will dive into how to write data frame as files and save our analysis in a persistent manner.
 >
@@ -2697,7 +2665,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), product (3), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Data Wrangling]] (1), [[Pandas (Software)|Pandas]] (1), [[Microsoft Products|Products]] (1), [[Windows]] (1)
 > **CLI Commands:** make (5), python (1)
 > **Analogies:** imagine (2), for example (1), similar to (1)
 > **Code Identifiers:** dataframe (1), to_datetime (1)
@@ -2705,15 +2673,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Write a DataFrame to a file
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/write-dataframe-as-files?u=76281980)
+#### [Write a DataFrame to a file](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/write-dataframe-as-files?u=76281980)
 
-#### Solution: pandas
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/solution-pandas?u=76281980)
+#### [Solution: pandas](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/solution-pandas?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/solution-pandas?u=76281980&t=0)** - The problem statement says that we have a dataframe, which you can see in the bottom, data, which has the two columns, order_id and the price, and a Pandas dataframe has been created out of it.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/solution-pandas?u=76281980&t=0)** - The problem statement says that we have a dataframe, which you can see in the bottom, data, which has the two columns, order_id and the price, and a [[Pandas (Software)|Pandas]] dataframe has been created out of it.
 >
 > **[0:20](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/solution-pandas?u=76281980&t=20)** Now our goal is to find out the sum of all these prices.
 >
@@ -2745,7 +2711,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (3), data (1), next (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (3)
 > **Code Identifiers:** order_id (1), find_sum (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** next video (1)
@@ -2758,8 +2724,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to NumPy
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/introduction-to-numpy?u=76281980)
+#### [Introduction to NumPy](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/introduction-to-numpy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2771,9 +2736,9 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/introduction-to-numpy?u=76281980&t=12)** NumPy is your compass, your guiding light through the world of data.
 >
-> **[0:19](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/introduction-to-numpy?u=76281980&t=19)** In this section of the course, we are going to uncover the superpowers of the NumPy and learn how it seamlessly integrates with pandas to make your data analysis much faster and efficient.
+> **[0:19](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/introduction-to-numpy?u=76281980&t=19)** In this section of the course, we are going to uncover the superpowers of the NumPy and learn how it seamlessly integrates with [[Pandas (Software)|pandas]] to make your data analysis much faster and efficient.
 >
-> **[0:37](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/introduction-to-numpy?u=76281980&t=37)** NumPy, short for Numerical Python, is the backbone of numerical computing in Python.
+> **[0:37](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/introduction-to-numpy?u=76281980&t=37)** NumPy, short for Numerical [[Python (Programming Language)|Python]], is the backbone of numerical computing in Python.
 >
 > **[0:45](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/introduction-to-numpy?u=76281980&t=45)** It's like having a Swiss army knife tailored for numbers.
 >
@@ -2797,9 +2762,9 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/introduction-to-numpy?u=76281980&t=120)** Or imagine you want to add some specific number to every element of an array or perform operations on array for different shapes, NumPy broadcasting makes it feel like you're performing feats of arithmetic acrobatics.
 >
-> **[2:20](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/introduction-to-numpy?u=76281980&t=140)** Statistics and aggregations.
+> **[2:20](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/introduction-to-numpy?u=76281980&t=140)** [[Statistics]] and aggregations.
 >
-> **[2:22](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/introduction-to-numpy?u=76281980&t=142)** NumPy makes statistical analysis a walk in the park, calculation of a mean, median, the standard deviation, and many more other values all in a matter of seconds.
+> **[2:22](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/introduction-to-numpy?u=76281980&t=142)** NumPy makes [[Statistical Analysis]] a walk in the park, calculation of a mean, median, the standard deviation, and many more other values all in a matter of seconds.
 >
 > **[2:39](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/introduction-to-numpy?u=76281980&t=159)** And that is your sneak peek into the world of NumPy.
 >
@@ -2811,15 +2776,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Python (Programming Language)|Python]] (2), [[Pandas (Software)|Pandas]] (1), [[Statistics]] (1), [[Statistical Analysis]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Pandas (Software)|Pandas]] (1), [[Statistics]] (1), [[Statistical Analysis]] (1)
 > **Analogies:** imagine (2), it's like (1), just like (1)
 > **CLI Commands:** python (2), make (1)
 > **Cross-References:** next video (1)
 > **Definitions:** short for (1)
 > **Speakers:** - [instructor] (1)
 
-#### Array creation and attributes
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/array-creation-and-attributes?u=76281980)
+#### [Array creation and attributes](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/array-creation-and-attributes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2827,7 +2791,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/array-creation-and-attributes?u=76281980&t=6)** It's like having a blank canvas that you can fill with your data.
 >
-> **[0:12](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/array-creation-and-attributes?u=76281980&t=12)** Let's go back to our Google Colab and see variety of methods to create arrays.
+> **[0:12](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/array-creation-and-attributes?u=76281980&t=12)** Let's go back to our [[Google]] Colab and see variety of methods to create arrays.
 >
 > **[0:18](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/array-creation-and-attributes?u=76281980&t=18)** The first thing probably which needed to use the NumPy is to import the library using import import numpy as no.
 >
@@ -2927,7 +2891,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **Code Identifiers:** range_array (4), random_matrix (2), zero_array (1), random_array (1)
 > **Analogies:** for example (4), it's like (1)
 > **Cross-References:** in the next (2), go back to (1)
@@ -2936,8 +2900,7 @@ created: 2026-05-02
 > **Tools:** colab (1)
 > **Speakers:** - [instructor] (1)
 
-#### Array operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/array-operations?u=76281980)
+#### [Array operations](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/array-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2947,7 +2910,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/array-operations?u=76281980&t=17)** Whether you're a beginner, or experienced data wizard, the skills you acquire here will elevate your data analysis to new heights.
 >
-> **[0:27](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/array-operations?u=76281980&t=27)** Let's go back to our Google workbook and see all of them.
+> **[0:27](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/array-operations?u=76281980&t=27)** Let's go back to our [[Google]] workbook and see all of them.
 >
 > **[0:33](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/array-operations?u=76281980&t=33)** NumPy arrays can perform arithmetic operations elements wise.
 >
@@ -3073,7 +3036,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Google]] (1), feature (1), next (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **Analogies:** for example (6), it's like (1)
 > **CLI Commands:** find (4)
 > **Definitions:** is a  (3), is called (1)
@@ -3082,16 +3045,15 @@ created: 2026-05-02
 > **Versions:** 3.0 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Indexing and slicing
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/indexing-and-slicing?u=76281980)
+#### [Indexing and slicing](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/indexing-and-slicing?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/indexing-and-slicing?u=76281980&t=0)** - [Instructor] Let's dive right in and explore the magnificent world of indexing and slicing using NumPy.
 >
-> **[0:07](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/indexing-and-slicing?u=76281980&t=7)** Let's go to our Google Colab worksheets.
+> **[0:07](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/indexing-and-slicing?u=76281980&t=7)** Let's go to our [[Google]] Colab worksheets.
 >
-> **[0:11](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/indexing-and-slicing?u=76281980&t=11)** NumPy arrays can be indexed just like Python lists, but with some added powers.
+> **[0:11](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/indexing-and-slicing?u=76281980&t=11)** NumPy arrays can be indexed just like [[Python (Programming Language)|Python]] lists, but with some added powers.
 >
 > **[0:19](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/indexing-and-slicing?u=76281980&t=19)** You can also access individual element by their positions in the array.
 >
@@ -3187,7 +3149,7 @@ created: 2026-05-02
 >
 > **[5:50](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/indexing-and-slicing?u=76281980&t=350)** So, second column is [2 5 8], 2, 5, 8.
 >
-> **[5:55](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/indexing-and-slicing?u=76281980&t=355)** Beside this slicing and getting some index-based data, you can also do some of the missing data management in the NumPy.
+> **[5:55](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/indexing-and-slicing?u=76281980&t=355)** Beside this slicing and getting some index-based data, you can also do some of the missing [[Data Management]] in the NumPy.
 >
 > **[6:05](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/indexing-and-slicing?u=76281980&t=365)** Here, for example, let's say I have some data which is containing some null values.
 >
@@ -3219,7 +3181,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Python (Programming Language)|Python]] (2), [[Google]] (1), management (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Google]] (1), [[Data Management]] (1)
 > **CLI Commands:** find (5), python (2), make (1)
 > **Code Identifiers:** step_array (2), second_row (2), sliced_array (1), data_fill (1), nan_to_num (1)
 > **Analogies:** for example (6), just like (1)
@@ -3228,12 +3190,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 
-#### Linear algebra and statistics
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/linear-algebra-and-statistics?u=76281980)
+#### [Linear algebra and statistics](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/linear-algebra-and-statistics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/linear-algebra-and-statistics?u=76281980&t=0)** - [Instructors] NumPy provides an important methods around the linear algebra and statistics.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/linear-algebra-and-statistics?u=76281980&t=0)** - [Instructors] NumPy provides an important methods around the [[Linear Algebra]] and [[Statistics]].
 >
 > **[0:06](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/linear-algebra-and-statistics?u=76281980&t=6)** This could be very helpful when we do a lot of calculations needed for advanced mathematical purpose.
 >
@@ -3245,7 +3206,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/linear-algebra-and-statistics?u=76281980&t=39)** It also provide the statisticals methods to calculate the means, standard deviations, correlation coefficient, and all those statistics parameters.
 >
-> **[0:52](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/linear-algebra-and-statistics?u=76281980&t=52)** Let's just go back to our Google Colab and see all of them in a practical manner.
+> **[0:52](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/linear-algebra-and-statistics?u=76281980&t=52)** Let's just go back to our [[Google]] Colab and see all of them in a practical manner.
 >
 > **[0:57](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/linear-algebra-and-statistics?u=76281980&t=57)** For the metrics multiplication, let's just first create our two arrays.
 >
@@ -3279,7 +3240,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/linear-algebra-and-statistics?u=76281980&t=190)** and inside that, I can again pass my metrics to get those values.
 >
-> **[3:16](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/linear-algebra-and-statistics?u=76281980&t=196)** If you want to do some kind of statistical analysis, maybe you want to find out standard deviation, correlation coefficient, or some hypothesis testing, you can do that, as well.
+> **[3:16](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/linear-algebra-and-statistics?u=76281980&t=196)** If you want to do some kind of [[Statistical Analysis]], maybe you want to find out standard deviation, correlation coefficient, or some hypothesis testing, you can do that, as well.
 >
 > **[3:30](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/linear-algebra-and-statistics?u=76281980&t=210)** Let's create a one simple 1D array.
 >
@@ -3315,7 +3276,7 @@ created: 2026-05-02
 >
 > **[5:16](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/linear-algebra-and-statistics?u=76281980&t=316)** NumPy provides you the variety of this linear algebra and statistical functions.
 >
-> **[5:22](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/linear-algebra-and-statistics?u=76281980&t=322)** All this could play a major role in the data engineering and in the data science world.
+> **[5:22](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/linear-algebra-and-statistics?u=76281980&t=322)** All this could play a major role in the [[Data Engineering]] and in the [[Data Science]] world.
 >
 > **[5:28](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/linear-algebra-and-statistics?u=76281980&t=328)** We have done all these correlations, analysis and everything.
 >
@@ -3327,15 +3288,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linear Algebra]] (4), data (3), [[Statistics]] (2), [[Google]] (1), [[Statistical Analysis]] (1)
+> **Frameworks & Libraries:** [[Linear Algebra]] (4), [[Statistics]] (2), [[Google]] (1), [[Statistical Analysis]] (1), [[Data Engineering]] (1)
 > **CLI Commands:** find (5)
 > **Cross-References:** go back to (1), in the next (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Tools:** colab (1)
 > **Speakers:** - [instructors] (1)
 
-#### Write a NumPy array to a file
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/write-dataframe-as-files-21427430?u=76281980)
+#### [Write a NumPy array to a file](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/write-dataframe-as-files-21427430?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3345,13 +3305,13 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/write-dataframe-as-files-21427430?u=76281980&t=16)** Whether you are a data analyst, scientist, or just someone who loves numbers, these skills are your passport to sharing insights with the world.
 >
-> **[0:26](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/write-dataframe-as-files-21427430?u=76281980&t=26)** Let's just go back to a Google Colab and see it.
+> **[0:26](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/write-dataframe-as-files-21427430?u=76281980&t=26)** Let's just go back to a [[Google]] Colab and see it.
 >
 > **[0:30](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/write-dataframe-as-files-21427430?u=76281980&t=30)** Now, we have all our data that we have manipulated or calculated.
 >
 > **[0:38](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/write-dataframe-as-files-21427430?u=76281980&t=38)** Now, you can save all these information in terms of a CSV file or comma-separated files.
 >
-> **[0:46](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/write-dataframe-as-files-21427430?u=76281980&t=46)** Although we have learned to save the file using file input/output or through the pandas, similarly, you can save the CSV file using the NumPy as well.
+> **[0:46](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/write-dataframe-as-files-21427430?u=76281980&t=46)** Although we have learned to save the file using file input/output or through the [[Pandas (Software)|pandas]], similarly, you can save the CSV file using the NumPy as well.
 >
 > **[0:58](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/write-dataframe-as-files-21427430?u=76281980&t=58)** Let's see how you can do that.
 >
@@ -3391,7 +3351,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/write-dataframe-as-files-21427430?u=76281980&t=200)** So that's how using this NumPy binary format also you can save and load your data.
 >
-> **[3:28](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/write-dataframe-as-files-21427430?u=76281980&t=208)** You can also save your information in terms of an Excel.
+> **[3:28](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/write-dataframe-as-files-21427430?u=76281980&t=208)** You can also save your information in terms of an [[Microsoft Excel|Excel]].
 >
 > **[3:33](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/write-dataframe-as-files-21427430?u=76281980&t=213)** But for that, we going to use the pandas along with.
 >
@@ -3407,7 +3367,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Pandas (Software)|Pandas]] (3), [[Microsoft Excel|Excel]] (3), [[Google]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (3), [[Microsoft Excel|Excel]] (3), [[Google]] (1)
 > **Env Vars:** csv (3), npy (1)
 > **File Paths:** output.csv (2)
 > **Code Identifiers:** new_matrix (1), to_excel (1)
@@ -3416,8 +3376,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Solution: NumPy
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/solution-numpy?u=76281980)
+#### [Solution: NumPy](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/solution-numpy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3455,7 +3414,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** click on (1)
@@ -3467,12 +3425,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding classes and objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understanding-classes-obejct?u=76281980)
+#### [Understanding classes and objects](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understanding-classes-obejct?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understanding-classes-obejct?u=76281980&t=0)** - [Narrator] Ever wondered how applications like banking, online warehouse management, social media platforms are built?
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understanding-classes-obejct?u=76281980&t=0)** - [Narrator] Ever wondered how applications like [[Banking]], online warehouse management, social media platforms are built?
 >
 > **[0:09](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understanding-classes-obejct?u=76281980&t=9)** It all starts with classes and object.
 >
@@ -3484,11 +3441,11 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understanding-classes-obejct?u=76281980&t=40)** For example, car represents the class, while a specific car, like BMW, Mercedes, with specific name, color, and model number would be an object.
 >
-> **[0:54](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understanding-classes-obejct?u=76281980&t=54)** In real world, most of the complex software system build using the object-oriented programming design principles.
+> **[0:54](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understanding-classes-obejct?u=76281980&t=54)** In real world, most of the complex software system build using the [[Object-Oriented Programming (OOP)|object-oriented programming]] design principles.
 >
 > **[1:04](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understanding-classes-obejct?u=76281980&t=64)** That is, the breaking of things in terms of classes and object.
 >
-> **[1:08](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understanding-classes-obejct?u=76281980&t=68)** Another good example would be banking application, where account could be the class and an individual account for John could be an object.
+> **[1:08](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understanding-classes-obejct?u=76281980&t=68)** Another good example would be banking application, where account could be the class and an individual account for [[John the Ripper|John]] could be an object.
 >
 > **[1:20](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understanding-classes-obejct?u=76281980&t=80)** Classes are reusable in nature.
 >
@@ -3502,7 +3459,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Banking]] (2), management (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), application (1), next (1)
+> **Frameworks & Libraries:** [[Banking]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[John the Ripper|John]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** bmw (1)
@@ -3510,8 +3467,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Implementation: Classes and objects in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/implementation-classes-object-in-python?u=76281980)
+#### [Implementation: Classes and objects in Python](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/implementation-classes-object-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3525,7 +3481,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/implementation-classes-object-in-python?u=76281980&t=17)** Think of this like creating a template for employee records.
 >
-> **[0:21](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/implementation-classes-object-in-python?u=76281980&t=21)** Let's go back to our Google Colab sheet and see how we can create Employee class.
+> **[0:21](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/implementation-classes-object-in-python?u=76281980&t=21)** Let's go back to our [[Google]] Colab sheet and see how we can create Employee class.
 >
 > **[0:27](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/implementation-classes-object-in-python?u=76281980&t=27)** Here, we have our class Employee.
 >
@@ -3547,7 +3503,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/implementation-classes-object-in-python?u=76281980&t=102)** Now let's create the objects for this Employee class.
 >
-> **[1:48](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/implementation-classes-object-in-python?u=76281980&t=108)** Here, we have created two objects for the Employee class: employee1 by passing the values like John Doe, manager, and 75000 as a salary.
+> **[1:48](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/implementation-classes-object-in-python?u=76281980&t=108)** Here, we have created two objects for the Employee class: employee1 by passing the values like [[John the Ripper|John]] Doe, manager, and 75000 as a salary.
 >
 > **[2:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/implementation-classes-object-in-python?u=76281980&t=120)** Similarly, we have created another object employee2 with some specific values.
 >
@@ -3575,7 +3531,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (1), next (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[John the Ripper|John]] (1)
 > **Code Identifiers:** display_info (5)
 > **Cross-References:** go back to (1), next video (1)
 > **Definitions:** is a  (2)
@@ -3584,16 +3540,15 @@ created: 2026-05-02
 > **Tools:** colab (1)
 > **Exercise Files:** template (1)
 
-#### Understand OOP features: Abstraction, inheritance, and more
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-oop-features-abstraction-inheritance-and-more?u=76281980)
+#### [Understand OOP features: Abstraction, inheritance, and more](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-oop-features-abstraction-inheritance-and-more?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-oop-features-abstraction-inheritance-and-more?u=76281980&t=0)** - [Narrator] Ever wondered how big software applications like online banking system, online restaurant system, all these are built up?
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-oop-features-abstraction-inheritance-and-more?u=76281980&t=0)** - [Narrator] Ever wondered how big software applications like online [[Banking]] system, online restaurant system, all these are built up?
 >
 > **[0:10](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-oop-features-abstraction-inheritance-and-more?u=76281980&t=10)** It's all thanks to the incredible feature that OOPs offers.
 >
-> **[0:15](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-oop-features-abstraction-inheritance-and-more?u=76281980&t=15)** Object-oriented programming makes it possible to write code that is reusable, scalable, and reducing the overall development time, along with increasing the code efficiency.
+> **[0:15](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-oop-features-abstraction-inheritance-and-more?u=76281980&t=15)** [[Object-Oriented Programming (OOP)|Object-oriented programming]] makes it possible to write code that is reusable, scalable, and reducing the overall development time, along with increasing the code efficiency.
 >
 > **[0:29](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-oop-features-abstraction-inheritance-and-more?u=76281980&t=29)** There are certain powerful features of the OOPs.
 >
@@ -3633,7 +3588,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-oop-features-abstraction-inheritance-and-more?u=76281980&t=131)** There is a one more concept in the OOPs that is called polymorphism.
 >
-> **[2:18](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-oop-features-abstraction-inheritance-and-more?u=76281980&t=138)** Polymorphism, the word itself is made up of two words, poly and the morph.
+> **[2:18](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-oop-features-abstraction-inheritance-and-more?u=76281980&t=138)** Polymorphism, the [[Microsoft Word|word]] itself is made up of two words, poly and the morph.
 >
 > **[2:24](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-oop-features-abstraction-inheritance-and-more?u=76281980&t=144)** Poly means many, and morph means shape and form.
 >
@@ -3649,14 +3604,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Banking]] (1), feature (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Banking]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is called (3), is a  (1)
 > **Analogies:** just like (1), for example (1), it's like (1)
 > **Env Vars:** oops (1)
 > **Speakers:** - [narrator] (1)
 
-#### Solution: OOP
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/solution-oop?u=76281980)
+#### [Solution: OOP](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/solution-oop?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3704,7 +3658,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** get_balance (4), account_id (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** next video (1)
@@ -3717,8 +3670,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tips to write efficient Python code
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/tips-to-write-efficent-python-code?u=76281980)
+#### [Tips to write efficient Python code](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/tips-to-write-efficent-python-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3726,7 +3678,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/tips-to-write-efficent-python-code?u=76281980&t=5)** It saves time and resources.
 >
-> **[0:08](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/tips-to-write-efficent-python-code?u=76281980&t=8)** So we will explore different tips to write Python code that not only works, but works efficiently.
+> **[0:08](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/tips-to-write-efficent-python-code?u=76281980&t=8)** So we will explore different tips to write [[Python (Programming Language)|Python]] code that not only works, but works efficiently.
 >
 > **[0:17](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/tips-to-write-efficent-python-code?u=76281980&t=17)** Tip number one.
 >
@@ -3774,7 +3726,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/tips-to-write-efficent-python-code?u=76281980&t=164)** Reason being is that that function has been specifically designed by using all the best practices and has been tested over a large dataset.
 >
-> **[2:56](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/tips-to-write-efficent-python-code?u=76281980&t=176)** So when we use the built-in function, the probability is very high that they are more optimized and a better solution rather than writing the things right from the scratch.
+> **[2:56](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/tips-to-write-efficent-python-code?u=76281980&t=176)** So when we use the built-in function, the [[Probability]] is very high that they are more optimized and a better solution rather than writing the things right from the scratch.
 >
 > **[3:08](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/tips-to-write-efficent-python-code?u=76281980&t=188)** So wherever possible, use the built-in functions and libraries to improve the performance of your code.
 >
@@ -3784,15 +3736,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), data (1), [[Probability]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Probability]] (1)
 > **CLI Commands:** python (5), find (2)
 > **Analogies:** for example (2)
 > **Cross-References:** next video (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is ETL in the data engineering world?
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-is-etl-in-data-engineering-world?u=76281980)
+#### [What is ETL in the data engineering world?](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-is-etl-in-data-engineering-world?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3810,13 +3761,13 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-is-etl-in-data-engineering-world?u=76281980&t=31)** You get the data from various sources.
 >
-> **[0:34](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-is-etl-in-data-engineering-world?u=76281980&t=34)** It could be database spreadsheets, CSV, JSOD or any other type of files, or even a REST API.
+> **[0:34](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-is-etl-in-data-engineering-world?u=76281980&t=34)** It could be database spreadsheets, CSV, JSOD or any other type of files, or even a [[Representational State Transfer (REST)|REST]] API.
 >
 > **[0:44](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-is-etl-in-data-engineering-world?u=76281980&t=44)** It's like collecting all the elements you need for your recipe.
 >
 > **[0:50](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-is-etl-in-data-engineering-world?u=76281980&t=50)** For example, consider a retail chain expansion project where the retail chain is trying to gather all the data from their variety of sources.
 >
-> **[1:01](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-is-etl-in-data-engineering-world?u=76281980&t=61)** It could be their databases, it could be their competitor's data.
+> **[1:01](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-is-etl-in-data-engineering-world?u=76281980&t=61)** It could be their [[Databases]], it could be their competitor's data.
 >
 > **[1:05](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-is-etl-in-data-engineering-world?u=76281980&t=65)** It could be some data available freely over the internet to analyze.
 >
@@ -3858,33 +3809,32 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-is-etl-in-data-engineering-world?u=76281980&t=190)** That is OLAP via ETL process, and that's how your entire ETL process looks like.
 >
-> **[3:18](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-is-etl-in-data-engineering-world?u=76281980&t=198)** In the next video, we'll talk about another exciting framework that is Hadoop.
+> **[3:18](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-is-etl-in-data-engineering-world?u=76281980&t=198)** In the next video, we'll talk about another exciting framework that is [[Hadoop]].
 >
 > **[3:25](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-is-etl-in-data-engineering-world?u=76281980&t=205)** See you there.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), database (3), etl (3), [[Databases]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Databases]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Hadoop]] (1)
 > **Env Vars:** etl (3), oltp (2), csv (1), jsod (1), rest (1)
 > **Analogies:** it's like (2), imagine (1), for example (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understand PySpark for data engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-pyspark-for-data-engineering?u=76281980)
+#### [Understand PySpark for data engineering](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-pyspark-for-data-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-pyspark-for-data-engineering?u=76281980&t=0)** - [Instructor] Picture yourself as a traffic controller managing planes in a busy airport.
 >
-> **[0:07](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-pyspark-for-data-engineering?u=76281980&t=7)** You need speed, precision and scalability.
+> **[0:07](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-pyspark-for-data-engineering?u=76281980&t=7)** You need speed, precision and [[Scalability]].
 >
-> **[0:12](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-pyspark-for-data-engineering?u=76281980&t=12)** In the data world, PySpark provides just that, a high speed engine for processing vast amount of data.
+> **[0:12](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-pyspark-for-data-engineering?u=76281980&t=12)** In the data world, [[PySpark]] provides just that, a high speed engine for processing vast amount of data.
 >
-> **[0:23](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-pyspark-for-data-engineering?u=76281980&t=23)** In other words, or in a plain layman terms, PySpark is a distributed computing engine that is used for data processing.
+> **[0:23](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-pyspark-for-data-engineering?u=76281980&t=23)** In other words, or in a plain layman terms, PySpark is a distributed computing engine that is used for [[Data Processing]].
 >
-> **[0:35](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-pyspark-for-data-engineering?u=76281980&t=35)** It's a Python library that works with powerful framework like Apache Spark.
+> **[0:35](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-pyspark-for-data-engineering?u=76281980&t=35)** It's a [[Python (Programming Language)|Python]] library that works with powerful framework like [[Apache Spark]].
 >
 > **[0:43](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-pyspark-for-data-engineering?u=76281980&t=43)** The combination allows us to process huge amount of data with incredible speed.
 >
@@ -3892,7 +3842,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-pyspark-for-data-engineering?u=76281980&t=58)** The first reason is scalability and the speed.
 >
-> **[1:03](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-pyspark-for-data-engineering?u=76281980&t=63)** Apache Spark, the engine which is behind the PySpark, is designed to handle big data.
+> **[1:03](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-pyspark-for-data-engineering?u=76281980&t=63)** Apache Spark, the engine which is behind the PySpark, is designed to handle [[Big Data]].
 >
 > **[1:12](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-pyspark-for-data-engineering?u=76281980&t=72)** It can distribute the task across multiple machines, which makes it incredibly fast, and it also allows you to scale the solution.
 >
@@ -3900,7 +3850,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-pyspark-for-data-engineering?u=76281980&t=94)** Reason being is every time words get divided into number of tasks, and all those tasks can run in parallel on these nodes.
 >
-> **[1:45](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-pyspark-for-data-engineering?u=76281980&t=105)** This speed is even faster than the speed which you get into the Hadoop.
+> **[1:45](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-pyspark-for-data-engineering?u=76281980&t=105)** This speed is even faster than the speed which you get into the [[Hadoop]].
 >
 > **[1:51](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-pyspark-for-data-engineering?u=76281980&t=111)** Another benefit is distributed computing.
 >
@@ -3920,25 +3870,24 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-pyspark-for-data-engineering?u=76281980&t=192)** It also benefits in streamlining the ETL processes.
 >
-> **[3:17](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-pyspark-for-data-engineering?u=76281980&t=197)** ETL process are fundamental in data engineering.
+> **[3:17](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-pyspark-for-data-engineering?u=76281980&t=197)** ETL process are fundamental in [[Data Engineering]].
 >
 > **[3:22](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-pyspark-for-data-engineering?u=76281980&t=202)** PySpark streamlined this process by handling the extraction, transformation, and loading of a data at scale, reducing the time and efforts required.
 >
 > **[3:36](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-pyspark-for-data-engineering?u=76281980&t=216)** In natural, PySpark empowers data engineer to tackle the challenges posed by big data, real time processing, and complex computations.
 >
-> **[3:49](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-pyspark-for-data-engineering?u=76281980&t=229)** It's like having an high performance engine under the hood, which enable the data-driven decision making on a massive scale.
+> **[3:49](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-pyspark-for-data-engineering?u=76281980&t=229)** It's like having an high performance engine under the hood, which enable the [[Data-driven Decision Making]] on a massive scale.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PySpark]] (8), data (7), [[Scalability]] (2), [[Apache Spark]] (2), [[Big Data]] (2)
+> **Frameworks & Libraries:** [[PySpark]] (8), [[Scalability]] (2), [[Apache Spark]] (2), [[Big Data]] (2), [[Data Processing]] (1)
 > **CLI Commands:** apache (2), python (1), node (1), make (1)
 > **Env Vars:** etl (2)
 > **Definitions:** in other words (1), is a  (1)
 > **Analogies:** picture (1), it's like (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is Hadoop
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-is-hadoop?u=76281980)
+#### [What is Hadoop](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-is-hadoop?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3948,9 +3897,9 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-is-hadoop?u=76281980&t=14)** And let's say, if I ask you to analyze that trend by reading all that with, probably you don't have anything which can do that.
 >
-> **[0:25](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-is-hadoop?u=76281980&t=25)** The answer for such kind of an analysis is the Hadoop.
+> **[0:25](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-is-hadoop?u=76281980&t=25)** The answer for such kind of an analysis is the [[Hadoop]].
 >
-> **[0:29](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-is-hadoop?u=76281980&t=29)** Hadoop is the framework which can give you the superpower to analyze even and unstructured data, and that too in the form of a very huge data, which we call big data.
+> **[0:29](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-is-hadoop?u=76281980&t=29)** Hadoop is the framework which can give you the superpower to analyze even and [[Unstructured Data]], and that too in the form of a very huge data, which we call [[Big Data]].
 >
 > **[0:43](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-is-hadoop?u=76281980&t=43)** Hadoop is an engine for processing and analyzing the massive amount of a data.
 >
@@ -3966,13 +3915,13 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-is-hadoop?u=76281980&t=94)** But Hadoop handles that situation by using the fault tolerance mechanism, where it'll handle any abrupt failure of any of the node.
 >
-> **[1:46](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-is-hadoop?u=76281980&t=106)** It also have the scalability feature on.
+> **[1:46](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-is-hadoop?u=76281980&t=106)** It also have the [[Scalability]] feature on.
 >
 > **[1:50](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-is-hadoop?u=76281980&t=110)** That means that, today, if you have a 10-node cluster and tomorrow your data size grows like anything, you can easily add 10 machines more and you can double the computation power.
 >
 > **[2:04](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-is-hadoop?u=76281980&t=124)** So it has a very horizontal scalability option.
 >
-> **[2:08](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-is-hadoop?u=76281980&t=128)** And lastly, when you have the horizontal scalability option there, eventually it allows him to manage a huge amount of a data storage in an efficient manner as well.
+> **[2:08](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-is-hadoop?u=76281980&t=128)** And lastly, when you have the horizontal scalability option there, eventually it allows him to manage a huge amount of a [[Data Storage]] in an efficient manner as well.
 >
 > **[2:23](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-is-hadoop?u=76281980&t=143)** So overall, Hadoop is the framework which helps you to store a huge amount of data and that can help you to analyze such a massive data with very good performance.
 >
@@ -3982,21 +3931,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Hadoop]] (8), [[Scalability]] (3), power (2), parallel (2)
+> **Frameworks & Libraries:** [[Hadoop]] (8), [[Scalability]] (3), [[Unstructured Data]] (1), [[Big Data]] (1), [[Data Storage]] (1)
 > **CLI Commands:** node (2)
 > **Cross-References:** in the next (1), next video (1)
 > **Definitions:** is an  (1), means that (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Importance of visualization tools in data engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/importance-of-visualization-tools-in-de?u=76281980)
+#### [Importance of visualization tools in data engineering](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/importance-of-visualization-tools-in-de?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/importance-of-visualization-tools-in-de?u=76281980&t=0)** - [Instructor] You might have heard a statement, "Picture can be worth a thousand words."
 >
-> **[0:07](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/importance-of-visualization-tools-in-de?u=76281980&t=7)** That statement still true hold in the data engineering world as well.
+> **[0:07](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/importance-of-visualization-tools-in-de?u=76281980&t=7)** That statement still true hold in the [[Data Engineering]] world as well.
 >
 > **[0:12](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/importance-of-visualization-tools-in-de?u=76281980&t=12)** Visualization tools are like the magic ones of the data engineer.
 >
@@ -4008,7 +3956,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/importance-of-visualization-tools-in-de?u=76281980&t=47)** Same thing happens with the data as well.
 >
-> **[0:51](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/importance-of-visualization-tools-in-de?u=76281980&t=51)** Visualization tools turns complex data into a easy-to-understand visuals, providing you the instant insights without the need for extensive data mining.
+> **[0:51](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/importance-of-visualization-tools-in-de?u=76281980&t=51)** Visualization tools turns complex data into a easy-to-understand visuals, providing you the instant insights without the need for extensive [[Data Mining]].
 >
 > **[1:06](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/importance-of-visualization-tools-in-de?u=76281980&t=66)** For example, look at just a sales dashboard, a chart displaying of monthly revenue, probably can give you the complete idea in fraction of a second.
 >
@@ -4020,11 +3968,11 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/importance-of-visualization-tools-in-de?u=76281980&t=105)** Just by looking at that chart, you can get to know that whether it is an uptrend or it is a downtrend.
 >
-> **[1:52](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/importance-of-visualization-tools-in-de?u=76281980&t=112)** It also improves the data quality assessments because when you see the visualization of a data, you can identify something is missing, something might get duplicated, or something has an outlier values.
+> **[1:52](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/importance-of-visualization-tools-in-de?u=76281980&t=112)** It also improves the [[Data Quality]] assessments because when you see the visualization of a data, you can identify something is missing, something might get duplicated, or something has an outlier values.
 >
 > **[2:10](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/importance-of-visualization-tools-in-de?u=76281980&t=130)** So even by looking at the visual diagram of your data, you can identify the quality of your data.
 >
-> **[2:19](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/importance-of-visualization-tools-in-de?u=76281980&t=139)** Another benefit is the storytelling with the data.
+> **[2:19](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/importance-of-visualization-tools-in-de?u=76281980&t=139)** Another benefit is the [[Storytelling]] with the data.
 >
 > **[2:24](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/importance-of-visualization-tools-in-de?u=76281980&t=144)** Visualization allows data engineers to create narratives around the data, providing the context, and making it easier for the others to understand the significance.
 >
@@ -4044,19 +3992,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Data Engineering]] (1), business (1), [[Storytelling]] (1), management (1)
+> **Frameworks & Libraries:** [[Data Engineering]] (1), [[Data Mining]] (1), [[Data Quality]] (1), [[Storytelling]] (1)
 > **Analogies:** for example (3), picture (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** gps (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 
-#### On-premises vs. cloud data engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/onprem-vs-cloud-data-engineering?u=76281980)
+#### [On-premises vs. cloud data engineering](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/onprem-vs-cloud-data-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/onprem-vs-cloud-data-engineering?u=76281980&t=0)** - [Instructor] On-premises data engineering involves managing your data infrastructure within your own physical location.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/onprem-vs-cloud-data-engineering?u=76281980&t=0)** - [Instructor] On-premises [[Data Engineering]] involves managing your data infrastructure within your own physical location.
 >
 > **[0:09](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/onprem-vs-cloud-data-engineering?u=76281980&t=9)** This means owning and maintaining servers, storage, and networking equipments on your own.
 >
@@ -4084,7 +4031,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/onprem-vs-cloud-data-engineering?u=76281980&t=124)** So that is the advantage of the cloud data engineering, that it has lower upfront cost and you use it on a paper-use model.
 >
-> **[2:17](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/onprem-vs-cloud-data-engineering?u=76281980&t=137)** The strength of cloud data engineering lies in the scalability and the flexibility.
+> **[2:17](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/onprem-vs-cloud-data-engineering?u=76281980&t=137)** The strength of cloud data engineering lies in the [[Scalability]] and the flexibility.
 >
 > **[2:23](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/onprem-vs-cloud-data-engineering?u=76281980&t=143)** As you are taking the things on the rent in the cloud, so you have the opportunity or the facility, if at any point of a time, if you want to increase the number of services, you can increase it.
 >
@@ -4106,7 +4053,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), [[Data Engineering]] (6), data (4), [[Scalability]] (4), [[Security]] (3)
+> **Frameworks & Libraries:** [[Data Engineering]] (6), [[Scalability]] (4)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
@@ -4115,14 +4062,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### HTML basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/html-basics?u=76281980)
+#### [HTML basics](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/html-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/html-basics?u=76281980&t=0)** - [Instructor] Understanding HTML is crucial because it forms the backbone of web pages.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/html-basics?u=76281980&t=0)** - [Instructor] Understanding [[HTML]] is crucial because it [[Forms]] the backbone of web pages.
 >
-> **[0:06](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/html-basics?u=76281980&t=6)** And knowing how to navigate and extract information from it is a powerful skill in your data engineering toolkit.
+> **[0:06](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/html-basics?u=76281980&t=6)** And knowing how to navigate and extract information from it is a powerful skill in your [[Data Engineering]] toolkit.
 >
 > **[0:16](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/html-basics?u=76281980&t=16)** So, let's dive in and start decoding the structure of web pages.
 >
@@ -4194,7 +4140,7 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/html-basics?u=76281980&t=244)** Understanding these structures help you navigate and extract data when you do web scraping.
 >
-> **[4:12](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/html-basics?u=76281980&t=252)** Imagine you are working on a project where you need to gather product information from an e-commerce website.
+> **[4:12](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/html-basics?u=76281980&t=252)** Imagine you are working on a project where you need to gather product information from an [[E-Commerce]] website.
 >
 > **[4:19](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/html-basics?u=76281980&t=259)** The website's HTML structure will guide you on where to look for data like product name, prices, description, and few other details.
 >
@@ -4248,7 +4194,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (15), web (6), data (4), product (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[HTML]] (15), [[Forms]] (1), [[Data Engineering]] (1), [[E-Commerce]] (1)
 > **Env Vars:** html (15), url (2), f12 (1), htl (1)
 > **Definitions:** is an  (4), is a  (3), stands for (2)
 > **Analogies:** for example (4), such as (3), imagine (1)
@@ -4257,12 +4203,11 @@ created: 2026-05-02
 > **URLs:** [example.com](https://example.com) (2)
 > **Cross-References:** in the next (1)
 
-#### HTML parents, children, and descendants
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/html-parents-children-and-descendants?u=76281980)
+#### [HTML parents, children, and descendants](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/html-parents-children-and-descendants?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/html-parents-children-and-descendants?u=76281980&t=0)** - [Instructor] Understanding the relationships between the HTML tags, the parents, child, and descendant is crucial for effectively navigating and manipulating the HTML content.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/html-parents-children-and-descendants?u=76281980&t=0)** - [Instructor] Understanding the relationships between the [[HTML]] tags, the parents, child, and descendant is crucial for effectively navigating and manipulating the HTML content.
 >
 > **[0:15](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/html-parents-children-and-descendants?u=76281980&t=15)** Let's dive in and decode the hierarchical structure of HTML.
 >
@@ -4296,7 +4241,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/html-parents-children-and-descendants?u=76281980&t=150)** Imagine that we are on a product page and we are navigating it.
 >
-> **[2:37](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/html-parents-children-and-descendants?u=76281980&t=157)** So in this e-commerce product page, assume that the code snippet looks something like this, which is in front of you.
+> **[2:37](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/html-parents-children-and-descendants?u=76281980&t=157)** So in this [[E-Commerce]] product page, assume that the code snippet looks something like this, which is in front of you.
 >
 > **[2:45](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/html-parents-children-and-descendants?u=76281980&t=165)** Here, you need to extract the product details.
 >
@@ -4316,15 +4261,15 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/html-parents-children-and-descendants?u=76281980&t=219)** By using the parent, child, and descendant selectors, you can effectively navigate and manipulate the DOM.
 >
-> **[3:51](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/html-parents-children-and-descendants?u=76281980&t=231)** The DOM stands for document object model.
+> **[3:51](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/html-parents-children-and-descendants?u=76281980&t=231)** The DOM stands for [[Document Object Model (DOM)|document object model]].
 >
-> **[3:55](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/html-parents-children-and-descendants?u=76281980&t=235)** The whole idea is that whenever you do the web scrapping, if you are aware of this kind of a relationship, we have a lot of functionality there in the Python.
+> **[3:55](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/html-parents-children-and-descendants?u=76281980&t=235)** The whole idea is that whenever you do the web scrapping, if you are aware of this kind of a relationship, we have a lot of functionality there in the [[Python (Programming Language)|Python]].
 >
 > **[4:07](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/html-parents-children-and-descendants?u=76281980&t=247)** When we use that, you will find that you can traverse along these multiple tags using the multiple functions, which is available.
 >
 > **[4:18](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/html-parents-children-and-descendants?u=76281980&t=258)** Parent selector targets the parent of an element.
 >
-> **[4:22](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/html-parents-children-and-descendants?u=76281980&t=262)** For example, in this below JavaScript code, we try to find out the parent element of this child.
+> **[4:22](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/html-parents-children-and-descendants?u=76281980&t=262)** For example, in this below [[JavaScript]] code, we try to find out the parent element of this child.
 >
 > **[4:30](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/html-parents-children-and-descendants?u=76281980&t=270)** Similarly, the child selector targets the direct children of an element.
 >
@@ -4358,7 +4303,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (15), product (3), data (3), web (3), dom (2)
+> **Frameworks & Libraries:** [[HTML]] (15), [[E-Commerce]] (1), [[Document Object Model (DOM)|Document object model]] (1), [[Python (Programming Language)|Python]] (1), [[JavaScript]] (1)
 > **Env Vars:** html (15), dom (2)
 > **Definitions:** is a  (6), stands for (1)
 > **Analogies:** for example (4), similar to (1), imagine (1), picture (1)
@@ -4367,12 +4312,11 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understand web scraping
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-web-scraping?u=76281980)
+#### [Understand web scraping](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-web-scraping?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-web-scraping?u=76281980&t=0)** - [Instructor] Web scraping is a powerful technique for extracting data from websites, which is crucial for many data engineering tasks.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-web-scraping?u=76281980&t=0)** - [Instructor] Web scraping is a powerful technique for extracting data from websites, which is crucial for many [[Data Engineering]] tasks.
 >
 > **[0:10](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-web-scraping?u=76281980&t=10)** Let's dive in, and understand the fundamentals of web scraping.
 >
@@ -4382,9 +4326,9 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-web-scraping?u=76281980&t=28)** This techniques allows you to gather the data from websites and transform it into a structured format.
 >
-> **[0:39](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-web-scraping?u=76281980&t=39)** For example, it could be a CSV file, a Excel file, or a database, and you can use this information for the further analysis.
+> **[0:39](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-web-scraping?u=76281980&t=39)** For example, it could be a CSV file, a [[Microsoft Excel|Excel]] file, or a database, and you can use this information for the further analysis.
 >
-> **[0:51](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-web-scraping?u=76281980&t=51)** For example, imagine you want to analyze the prices of products on [amazon.com](https://amazon.com).
+> **[0:51](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-web-scraping?u=76281980&t=51)** For example, imagine you want to analyze the prices of [[Microsoft Products|products]] on [amazon.com](https://amazon.com).
 >
 > **[0:59](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-web-scraping?u=76281980&t=59)** What you can do is, instead of manually copying each prices, you can use the web scraping, and that will automatically pull out the prices of all the products from the webpage, which you are seeing there.
 >
@@ -4410,17 +4354,17 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-web-scraping?u=76281980&t=172)** The first step would be is to sending a request.
 >
-> **[2:55](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-web-scraping?u=76281980&t=175)** You send an HTTP request to the website server to retrieve the HTML content of the page.
+> **[2:55](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-web-scraping?u=76281980&t=175)** You send an HTTP request to the website server to retrieve the [[HTML]] content of the page.
 >
 > **[3:03](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-web-scraping?u=76281980&t=183)** The second step, which you do once you get the request, is parsing the HTML page.
 >
 > **[3:10](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-web-scraping?u=76281980&t=190)** Now, as you have received the HTML content for the request, which you have sent, now your work is to parse this HTML content to identify and locate the desired information.
 >
-> **[3:26](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-web-scraping?u=76281980&t=206)** Finally, the third step would be the data storage.
+> **[3:26](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-web-scraping?u=76281980&t=206)** Finally, the third step would be the [[Data Storage]].
 >
-> **[3:30](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-web-scraping?u=76281980&t=210)** You try to store the extracted information into a sum storage and in a specific structured format, that could be CSV, JSON, or a database.
+> **[3:30](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-web-scraping?u=76281980&t=210)** You try to store the extracted information into a sum storage and in a specific structured format, that could be CSV, [[JSON]], or a database.
 >
-> **[3:44](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-web-scraping?u=76281980&t=224)** Each of these steps can be implemented using various Python libraries, which we'll explore in further sessions.
+> **[3:44](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-web-scraping?u=76281980&t=224)** Each of these steps can be implemented using various [[Python (Programming Language)|Python]] libraries, which we'll explore in further sessions.
 >
 > **[3:54](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-web-scraping?u=76281980&t=234)** Now, as we know that we can do this web scraping using the Python, the next question come in the mind is how we can do that.
 >
@@ -4434,7 +4378,7 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-web-scraping?u=76281980&t=275)** Let's talk about a real-world use case.
 >
-> **[4:38](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-web-scraping?u=76281980&t=278)** Suppose you want to compare a price of smartphone across a different e-commerce websites.
+> **[4:38](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-web-scraping?u=76281980&t=278)** Suppose you want to compare a price of smartphone across a different [[E-Commerce]] websites.
 >
 > **[4:46](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-web-scraping?u=76281980&t=286)** Now, web scraping allows you to collect this data automatically and help you to build a comprehensive data set for analysis.
 >
@@ -4454,9 +4398,9 @@ created: 2026-05-02
 >
 > **[6:08](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-web-scraping?u=76281980&t=368)** Some websites load the content dynamically.
 >
-> **[6:13](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-web-scraping?u=76281980&t=373)** For loading the dynamic content, they are using some kind of a scripting, like Java scripting, that can make your scraping little bit complicated.
+> **[6:13](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-web-scraping?u=76281980&t=373)** For loading the dynamic content, they are using some kind of a scripting, like [[Java]] scripting, that can make your scraping little bit complicated.
 >
-> **[6:25](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-web-scraping?u=76281980&t=385)** But the good news is, there are tools like Selenium, can automate this interaction with such a websites.
+> **[6:25](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-web-scraping?u=76281980&t=385)** But the good news is, there are tools like [[Selenium]], can automate this interaction with such a websites.
 >
 > **[6:33](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understand-web-scraping?u=76281980&t=393)** By controlling a web browser, Selenium allows you to interact the web pages as if you are browsing them manually.
 >
@@ -4492,7 +4436,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (20), data (8), [[HTML]] (6), [[Python (Programming Language)|Python]] (3), next (3)
+> **Frameworks & Libraries:** [[HTML]] (6), [[Python (Programming Language)|Python]] (3), [[Microsoft Products|Products]] (2), [[Selenium]] (2), [[Data Engineering]] (1)
 > **Env Vars:** html (6), csv (3), http (2), url (2), json (1)
 > **CLI Commands:** python (3), make (2)
 > **Analogies:** for example (4), imagine (1)
@@ -4501,14 +4445,13 @@ created: 2026-05-02
 > **File Paths:** robots.txt (1)
 > **Cross-References:** in the next (1)
 
-#### BeautifulSoup basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/beautifulsoup-basics?u=76281980)
+#### [BeautifulSoup basics](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/beautifulsoup-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/beautifulsoup-basics?u=76281980&t=0)** - [Instructor] Now it's time to get into an understanding of the tools which can help you to retrieve web scraping, and we are focusing on a library that is Beautiful Soup.
 >
-> **[0:11](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/beautifulsoup-basics?u=76281980&t=11)** Beautiful Soup is a powerful library for parsing HTML and XML document, allowing you to navigate and manipulate the web content in an easiest manner.
+> **[0:11](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/beautifulsoup-basics?u=76281980&t=11)** Beautiful Soup is a powerful library for parsing [[HTML]] and XML document, allowing you to navigate and manipulate the web content in an easiest manner.
 >
 > **[0:25](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/beautifulsoup-basics?u=76281980&t=25)** Let's get started.
 >
@@ -4526,9 +4469,9 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/beautifulsoup-basics?u=76281980&t=76)** The library handles the intricacies of web scraping by allowing you to extract the data easily, even from a very poorly formatted HTML.
 >
-> **[1:30](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/beautifulsoup-basics?u=76281980&t=90)** This makes it an invaluable tool for data engineering and working with the web data.
+> **[1:30](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/beautifulsoup-basics?u=76281980&t=90)** This makes it an invaluable tool for [[Data Engineering]] and working with the web data.
 >
-> **[1:37](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/beautifulsoup-basics?u=76281980&t=97)** Beautiful Soup works by parsing HTML into a tree of Python objects, such as tags, navigablestrings, or the comments.
+> **[1:37](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/beautifulsoup-basics?u=76281980&t=97)** Beautiful Soup works by parsing HTML into a tree of [[Python (Programming Language)|Python]] objects, such as tags, navigablestrings, or the comments.
 >
 > **[1:49](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/beautifulsoup-basics?u=76281980&t=109)** These objects can be queried and manipulated.
 >
@@ -4580,7 +4523,7 @@ created: 2026-05-02
 >
 > **[4:38](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/beautifulsoup-basics?u=76281980&t=278)** Then, you extract the required data fields and store them in a structured format.
 >
-> **[4:45](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/beautifulsoup-basics?u=76281980&t=285)** This approach allows you to automate the data collection from multiple blog posts very efficiently.
+> **[4:45](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/beautifulsoup-basics?u=76281980&t=285)** This approach allows you to automate the [[Data Collection]] from multiple blog posts very efficiently.
 >
 > **[4:53](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/beautifulsoup-basics?u=76281980&t=293)** Once you have the parsed HTML document, navigating the parse tree is crucial for extracting the data.
 >
@@ -4606,11 +4549,11 @@ created: 2026-05-02
 >
 > **[6:01](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/beautifulsoup-basics?u=76281980&t=361)** Dynamic content, imagine you have a webpage which has some dynamic content.
 >
-> **[6:07](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/beautifulsoup-basics?u=76281980&t=367)** Then, it cannot directly scrap the content, which loaded dynamically by the JavaScript.
+> **[6:07](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/beautifulsoup-basics?u=76281980&t=367)** Then, it cannot directly scrap the content, which loaded dynamically by the [[JavaScript]].
 >
 > **[6:14](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/beautifulsoup-basics?u=76281980&t=374)** Performance, for very large document, the parsing can be very slow.
 >
-> **[6:21](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/beautifulsoup-basics?u=76281980&t=381)** To address these challenges, you may need to pre-process the HTML, use some tools like Selenium for dynamic content, and maybe optimize your parsing strategy.
+> **[6:21](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/beautifulsoup-basics?u=76281980&t=381)** To address these challenges, you may need to pre-process the HTML, use some tools like [[Selenium]] for dynamic content, and maybe optimize your parsing strategy.
 >
 > **[6:34](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/beautifulsoup-basics?u=76281980&t=394)** Great work.
 >
@@ -4622,7 +4565,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (16), data (11), web (5), [[Search]] (3), [[Data Engineering]] (1)
+> **Frameworks & Libraries:** [[HTML]] (16), [[Data Engineering]] (1), [[Python (Programming Language)|Python]] (1), [[Data Collection]] (1), [[JavaScript]] (1)
 > **Env Vars:** html (16), xml (2), css (1)
 > **CLI Commands:** find (7), python (1)
 > **Analogies:** for example (2), imagine (2), such as (1)
@@ -4631,8 +4574,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Installing BeautifulSoup
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/installing-beautifulsoup?u=76281980)
+#### [Installing BeautifulSoup](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/installing-beautifulsoup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4640,7 +4582,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/installing-beautifulsoup?u=76281980&t=6)** Now before just jump in and install the beautiful soup, understand why we need to do this.
 >
-> **[0:13](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/installing-beautifulsoup?u=76281980&t=13)** Imagine if you are using a normal Windows, not using the Google collab, then by default, in your normal Windows on a Mac machine where you are having your (indistinct), if you are trying to do the web scraping using the beautiful soup there, then you must need to install the beautiful soup.
+> **[0:13](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/installing-beautifulsoup?u=76281980&t=13)** Imagine if you are using a normal [[Windows]], not using the [[Google]] collab, then by default, in your normal Windows on a Mac machine where you are having your (indistinct), if you are trying to do the web scraping using the beautiful soup there, then you must need to install the beautiful soup.
 >
 > **[0:35](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/installing-beautifulsoup?u=76281980&t=35)** In Google collab, it is there, but we can go into the Google collab and run it, the installation there also, and check whether it is there or not.
 >
@@ -4700,11 +4642,11 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/installing-beautifulsoup?u=76281980&t=232)** Great, we explored the process of installing the beautiful soup, which is an essential tool for our web scraping.
 >
-> **[4:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/installing-beautifulsoup?u=76281980&t=240)** In the next video, we will dive into the practical implementation and start using it to pass our HTML and extract the data.
+> **[4:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/installing-beautifulsoup?u=76281980&t=240)** In the next video, we will dive into the practical implementation and start using it to pass our [[HTML]] and extract the data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (6), [[Windows]] (3), web (3), next (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Google]] (6), [[Windows]] (3), [[HTML]] (1)
 > **Prerequisites:** install (15)
 > **CLI Commands:** pip (7)
 > **Definitions:** means that (1), is a  (1), is an  (1)
@@ -4713,16 +4655,15 @@ created: 2026-05-02
 > **UI Navigation:** go to (1), click on (1)
 > **Env Vars:** html (1)
 
-#### Get HTML from a webpage
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/get-html-from-web-page?u=76281980)
+#### [Get HTML from a webpage](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/get-html-from-web-page?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/get-html-from-web-page?u=76281980&t=0)** - [Instructor] To scrap a webpage, first we need to learn how to get the HTML page from the website.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/get-html-from-web-page?u=76281980&t=0)** - [Instructor] To scrap a webpage, first we need to learn how to get the [[HTML]] page from the website.
 >
 > **[0:08](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/get-html-from-web-page?u=76281980&t=8)** This is a crucial part of a web scrapping as it allows us to retrieve the raw HTML content and we will later parse and analyze this.
 >
-> **[0:20](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/get-html-from-web-page?u=76281980&t=20)** So let's dive in and explore how to fetch HTML using Python, along with some real-world application.
+> **[0:20](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/get-html-from-web-page?u=76281980&t=20)** So let's dive in and explore how to [[Fetch]] HTML using [[Python (Programming Language)|Python]], along with some real-world application.
 >
 > **[0:29](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/get-html-from-web-page?u=76281980&t=29)** We can obtain the HTML content from the webpage.
 >
@@ -4762,7 +4703,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/get-html-from-web-page?u=76281980&t=176)** It could be HTML.
 >
-> **[2:58](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/get-html-from-web-page?u=76281980&t=178)** It could be JSON, and it could be XML.
+> **[2:58](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/get-html-from-web-page?u=76281980&t=178)** It could be [[JSON]], and it could be XML.
 >
 > **[3:01](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/get-html-from-web-page?u=76281980&t=181)** When scrapping, it's crucial to ensure you are fetching and parsing the correct type of the content.
 >
@@ -4808,7 +4749,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (16), web (3), data (3), [[JSON]] (3), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[HTML]] (16), [[JSON]] (3), [[Python (Programming Language)|Python]] (2), [[Fetch]] (1)
 > **Env Vars:** html (16), http (7), url (3), json (3), api (2)
 > **Analogies:** for example (3), such as (1)
 > **CLI Commands:** python (2)
@@ -4817,8 +4758,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Scrape the webpage
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/scrape-the-web-page?u=76281980)
+#### [Scrape the webpage](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/scrape-the-web-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4842,13 +4782,13 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/scrape-the-web-page?u=76281980&t=55)** Now we need a one URL to practice our web scrapping.
 >
-> **[1:03](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/scrape-the-web-page?u=76281980&t=63)** So right now I have a one URL, which I am using to fetch some data.
+> **[1:03](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/scrape-the-web-page?u=76281980&t=63)** So right now I have a one URL, which I am using to [[Fetch]] some data.
 >
 > **[1:09](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/scrape-the-web-page?u=76281980&t=69)** You can use anything of your own choice.
 >
 > **[1:13](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/scrape-the-web-page?u=76281980&t=73)** Now on this URL, what I'm going to say, I'll say response equal to request dot get URL.
 >
-> **[1:25](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/scrape-the-web-page?u=76281980&t=85)** Now when I execute this, this request dot get will send me the entire HTML content along with some other information.
+> **[1:25](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/scrape-the-web-page?u=76281980&t=85)** Now when I execute this, this request dot get will send me the entire [[HTML]] content along with some other information.
 >
 > **[1:36](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/scrape-the-web-page?u=76281980&t=96)** To get the HTML content from the response, I would say response dot content and that's it.
 >
@@ -4888,13 +4828,13 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/scrape-the-web-page?u=76281980&t=224)** and you can see that.
 >
-> **[3:46](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/scrape-the-web-page?u=76281980&t=226)** So in that webpage I have the header as Azure interview question and answer.
+> **[3:46](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/scrape-the-web-page?u=76281980&t=226)** So in that webpage I have the header as [[Microsoft Azure|Azure]] interview question and answer.
 >
 > **[3:54](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/scrape-the-web-page?u=76281980&t=234)** So that H1 tag is printed here.
 >
 > **[3:57](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/scrape-the-web-page?u=76281980&t=237)** If I go down to this website and if I try to show you this website, this website looks something like this.
 >
-> **[4:07](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/scrape-the-web-page?u=76281980&t=247)** So here you can see that we have this as a H1 tag and that is what we are able to get it from our Python code itself.
+> **[4:07](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/scrape-the-web-page?u=76281980&t=247)** So here you can see that we have this as a H1 tag and that is what we are able to get it from our [[Python (Programming Language)|Python]] code itself.
 >
 > **[4:20](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/scrape-the-web-page?u=76281980&t=260)** Great, let's do a little more.
 >
@@ -4954,7 +4894,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (9), web (4), data (4), hit (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[HTML]] (9), [[Fetch]] (1), [[Microsoft Azure|Azure]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** html (9), url (5), http (1), csv (1)
 > **CLI Commands:** find (13), python (1)
 > **Analogies:** for example (2)
@@ -4962,14 +4902,13 @@ created: 2026-05-02
 > **Tools:** command prompt (1)
 > **Speakers:** - [instructor] (1)
 
-#### Export data as a TXT file
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/export-data-as-txt-file?u=76281980)
+#### [Export data as a TXT file](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/export-data-as-txt-file?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/export-data-as-txt-file?u=76281980&t=0)** - [Instructor] Now it's time to store all our analysis for extraction which we have done from the webpages into a text file.
 >
-> **[0:09](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/export-data-as-txt-file?u=76281980&t=9)** This is crucial for data engineering.
+> **[0:09](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/export-data-as-txt-file?u=76281980&t=9)** This is crucial for [[Data Engineering]].
 >
 > **[0:13](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/export-data-as-txt-file?u=76281980&t=13)** The reason is you generate this data export it into the text files and you share it with the data analytics team so that they can do the further analysis on it, right?
 >
@@ -4981,9 +4920,9 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/export-data-as-txt-file?u=76281980&t=51)** They're also easy to parse and manipulate.
 >
-> **[0:55](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/export-data-as-txt-file?u=76281980&t=55)** This makes them one of the best choice for the data storage.
+> **[0:55](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/export-data-as-txt-file?u=76281980&t=55)** This makes them one of the best choice for the [[Data Storage]].
 >
-> **[1:01](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/export-data-as-txt-file?u=76281980&t=61)** Now let's go back to our Google Colab and see how we can extract the data into the text file.
+> **[1:01](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/export-data-as-txt-file?u=76281980&t=61)** Now let's go back to our [[Google]] Colab and see how we can extract the data into the text file.
 >
 > **[1:11](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/export-data-as-txt-file?u=76281980&t=71)** So in the previous file, we have got the list of all the items.
 >
@@ -5031,11 +4970,11 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/export-data-as-txt-file?u=76281980&t=237)** Great job.
 >
-> **[3:58](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/export-data-as-txt-file?u=76281980&t=238)** We have explored the process of fetching the HTML from the webpages, an essential step in web scraping.
+> **[3:58](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/export-data-as-txt-file?u=76281980&t=238)** We have explored the process of fetching the [[HTML]] from the webpages, an essential step in web scraping.
 >
 > **[4:08](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/export-data-as-txt-file?u=76281980&t=248)** We have also understood how you can pass this data and push it into the text file.
 >
-> **[4:15](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/export-data-as-txt-file?u=76281980&t=255)** So overall, this is how you can do the web scraping using the Python.
+> **[4:15](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/export-data-as-txt-file?u=76281980&t=255)** So overall, this is how you can do the web scraping using the [[Python (Programming Language)|Python]].
 >
 > **[4:20](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/export-data-as-txt-file?u=76281980&t=260)** Remember, this is an important skill to have as a data engineer.
 >
@@ -5045,7 +4984,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), web (6), [[Python (Programming Language)|Python]] (2), [[Data Engineering]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Data Engineering]] (1), [[Data Storage]] (1), [[Google]] (1), [[HTML]] (1)
 > **File Paths:** web-scrap.txt (2)
 > **CLI Commands:** python (2)
 > **Cross-References:** go back to (1), in the next (1)
@@ -5059,12 +4998,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Generators in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/generators-in-python?u=76281980)
+#### [Generators in Python](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/generators-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/generators-in-python?u=76281980&t=0)** - [Instructor] Generators are the powerful tools that can enable the efficient and memory-friendly data processing, which is crucial for handling the large datasets.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/generators-in-python?u=76281980&t=0)** - [Instructor] Generators are the powerful tools that can enable the efficient and memory-friendly [[Data Processing]], which is crucial for handling the large datasets.
 >
 > **[0:15](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/generators-in-python?u=76281980&t=15)** Let's explore how generators works, their benefits and their real-world applications.
 >
@@ -5114,7 +5052,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/generators-in-python?u=76281980&t=162)** For example, look at the code snippet in front of you.
 >
-> **[2:47](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/generators-in-python?u=76281980&t=167)** You need to generate a large sequence of number for a simulation.
+> **[2:47](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/generators-in-python?u=76281980&t=167)** You need to generate a large sequence of number for a [[Simulation]].
 >
 > **[2:53](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/generators-in-python?u=76281980&t=173)** Using a generator, you can yield each number one at a time.
 >
@@ -5134,13 +5072,13 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/generators-in-python?u=76281980&t=216)** We have understood the generator, which is a powerful tool that can help you write efficient and readable and memory-friendly code.
 >
-> **[3:47](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/generators-in-python?u=76281980&t=227)** In the next video, we will dive into the Python generator classes and iterators where you will learn more.
+> **[3:47](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/generators-in-python?u=76281980&t=227)** In the next video, we will dive into the [[Python (Programming Language)|Python]] generator classes and iterators where you will learn more.
 >
 > **[3:58](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/generators-in-python?u=76281980&t=238)** Let's jump in there.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Simulation]] (1), next (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Data Processing]] (2), [[Simulation]] (1), [[Python (Programming Language)|Python]] (1)
 > **Analogies:** for example (2), imagine (1)
 > **Best Practices:** best practice (2)
 > **CLI Commands:** python (1)
@@ -5149,12 +5087,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Python generator classes and iterators
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-generator-classes-and-iterators?u=76281980)
+#### [Python generator classes and iterators](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-generator-classes-and-iterators?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-generator-classes-and-iterators?u=76281980&t=0)** - [Instructor] Python generator classes and integrators are powerful ways to create custom iterators and manage complex data processing workflows.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-generator-classes-and-iterators?u=76281980&t=0)** - [Instructor] [[Python (Programming Language)|Python]] generator classes and integrators are powerful ways to create custom iterators and manage complex [[Data Processing]] workflows.
 >
 > **[0:13](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-generator-classes-and-iterators?u=76281980&t=13)** Let's understand how you can leverage these features in your projects.
 >
@@ -5164,7 +5101,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-generator-classes-and-iterators?u=76281980&t=52)** Using custom iterators, you can design a class that reads data in manageable pieces, making your processing pipeline more efficient.
 >
-> **[1:06](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-generator-classes-and-iterators?u=76281980&t=66)** Let's just go to our Google Collab and create our own custom iterator.
+> **[1:06](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-generator-classes-and-iterators?u=76281980&t=66)** Let's just go to our [[Google]] Collab and create our own custom iterator.
 >
 > **[1:13](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-generator-classes-and-iterators?u=76281980&t=73)** To create a custom iterator in Python, you need to define a class that implements two methods, underscore, underscore iterator method ETR, and another method is the next method.
 >
@@ -5314,7 +5251,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (10), [[Python (Programming Language)|Python]] (3), data (3), [[Google]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Data Processing]] (1), [[Google]] (1)
 > **CLI Commands:** python (3), find (2), make (1)
 > **Cross-References:** in the next (2)
 > **Env Vars:** etr (1)
@@ -5323,12 +5260,11 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Iterables in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/iterables-in-python?u=76281980)
+#### [Iterables in Python](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/iterables-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/iterables-in-python?u=76281980&t=0)** - [Instructor] Iterables are fundamental part of Python programming that enables you to loop through the data structures efficiently.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/iterables-in-python?u=76281980&t=0)** - [Instructor] Iterables are fundamental part of [[Python (Programming Language)|Python]] programming that enables you to loop through the [[Data Structures]] efficiently.
 >
 > **[0:09](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/iterables-in-python?u=76281980&t=9)** Let's explore what iterables are, how they work, and their real-world applications.
 >
@@ -5352,7 +5288,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/iterables-in-python?u=76281980&t=64)** For example, lists that is ordered collection of items; tuples, which is immutable ordered collection; dictionaries, which is collection of key-value pairs; sets, which is unordered collection of unique items; strings, which is collection of characters.
 >
-> **[1:26](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/iterables-in-python?u=76281980&t=86)** Let's just go to our Google Colab and see how we can do it practically.
+> **[1:26](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/iterables-in-python?u=76281980&t=86)** Let's just go to our [[Google]] Colab and see how we can do it practically.
 >
 > **[1:33](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/iterables-in-python?u=76281980&t=93)** Let's create a quick list.
 >
@@ -5440,7 +5376,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), next (4), data (3), [[Programming]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Data Structures]] (2), [[Google]] (1)
 > **CLI Commands:** python (4)
 > **Definitions:** is an  (4)
 > **Analogies:** imagine (2), for example (2)
@@ -5449,20 +5385,19 @@ created: 2026-05-02
 > **Tools:** colab (1)
 > **UI Navigation:** go to (1)
 
-#### filter() and map() functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/filter-map-functions?u=76281980)
+#### [filter() and map() functions](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/filter-map-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/filter-map-functions?u=76281980&t=0)** - [Instructor] There are two more powerful functions in the Python for data engineers.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/filter-map-functions?u=76281980&t=0)** - [Instructor] There are two more powerful functions in the [[Python (Programming Language)|Python]] for data engineers.
 >
 > **[0:07](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/filter-map-functions?u=76281980&t=7)** The filter and the map.
 >
-> **[0:09](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/filter-map-functions?u=76281980&t=9)** These functions are essential for transforming and filtering the data, making your data processing workflows more efficient and concise.
+> **[0:09](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/filter-map-functions?u=76281980&t=9)** These functions are essential for transforming and filtering the data, making your [[Data Processing]] workflows more efficient and concise.
 >
 > **[0:21](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/filter-map-functions?u=76281980&t=21)** Let's explore how they work and where you can use them.
 >
-> **[0:27](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/filter-map-functions?u=76281980&t=27)** The filter and the map functions are built-in Python functions that allow you to transform and filter the data in a functional programming style.
+> **[0:27](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/filter-map-functions?u=76281980&t=27)** The filter and the map functions are built-in Python functions that allow you to transform and filter the data in a [[Functional Programming]] style.
 >
 > **[0:39](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/filter-map-functions?u=76281980&t=39)** The filter function takes a function and an iterable as an argument.
 >
@@ -5474,7 +5409,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/filter-map-functions?u=76281980&t=67)** For example, imagine you have a list of numbers and if you want to double all this number values individually, you can think of using the map function and that map function, you can pass this iterable list and pass your function, which is like doubling the values, correct?
 >
-> **[1:31](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/filter-map-functions?u=76281980&t=91)** Let's just go to our Google Colab and see how we can do that.
+> **[1:31](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/filter-map-functions?u=76281980&t=91)** Let's just go to our [[Google]] Colab and see how we can do that.
 >
 > **[1:37](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/filter-map-functions?u=76281980&t=97)** Let's assume that we have a list of numbers.
 >
@@ -5536,7 +5471,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Python (Programming Language)|Python]] (2), [[Functional Programming]] (1), [[Google]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Data Processing]] (1), [[Functional Programming]] (1), [[Google]] (1)
 > **CLI Commands:** python (2), find (1), make (1)
 > **Analogies:** imagine (2), for example (1)
 > **Code Identifiers:** even_numbers (1), squared_list (1)
@@ -5545,8 +5480,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### any() and all() functions in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/any-all-function-in-python?u=76281980)
+#### [any() and all() functions in Python](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/any-all-function-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5556,7 +5490,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/any-all-function-in-python?u=76281980&t=23)** Let's explore how they work and their real world applications.
 >
-> **[0:28](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/any-all-function-in-python?u=76281980&t=28)** The any() and all() functions are builtin python functions that evaluate the truthfulness of element in the iterable.
+> **[0:28](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/any-all-function-in-python?u=76281980&t=28)** The any() and all() functions are builtin [[Python (Programming Language)|python]] functions that evaluate the truthfulness of element in the iterable.
 >
 > **[0:40](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/any-all-function-in-python?u=76281980&t=40)** Any() function returns true if at least one element in the iterable is true.
 >
@@ -5566,7 +5500,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/any-all-function-in-python?u=76281980&t=62)** You can use the function any() or if you want to know if all the student get passed, then you can use the function called, all().
 >
-> **[1:12](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/any-all-function-in-python?u=76281980&t=72)** Let's just go to our Google Colab and see how we can use these functions.
+> **[1:12](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/any-all-function-in-python?u=76281980&t=72)** Let's just go to our [[Google]] Colab and see how we can use these functions.
 >
 > **[1:18](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/any-all-function-in-python?u=76281980&t=78)** Imagine that we have a list of numbers, something like this, -1, 0, 1,
 >
@@ -5608,7 +5542,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Python (Programming Language)|Python]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Google]] (1)
 > **CLI Commands:** find (4), make (1), python (1)
 > **Analogies:** imagine (3), for example (1)
 > **Speakers:** - [instructor] (1), - 2 (1)
@@ -5620,14 +5554,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is logging?
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-is-logging?u=76281980)
+#### [What is logging?](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-is-logging?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-is-logging?u=76281980&t=0)** - [Instructor] Logging is an important aspect of software development that allows you to track events, debug issues, and understand the behavior of your applications.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-is-logging?u=76281980&t=0)** - [Instructor] Logging is an important aspect of [[Software Development]] that allows you to track events, debug issues, and understand the behavior of your applications.
 >
-> **[0:13](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-is-logging?u=76281980&t=13)** Let's explore what logging is, why it is important, and how you can effectively implement it in your Python projects.
+> **[0:13](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-is-logging?u=76281980&t=13)** Let's explore what logging is, why it is important, and how you can effectively implement it in your [[Python (Programming Language)|Python]] projects.
 >
 > **[0:24](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-is-logging?u=76281980&t=24)** What is logging?
 >
@@ -5677,7 +5610,7 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-is-logging?u=76281980&t=222)** CRITICAL level, a very serious error indicating that program itself may be unable to continue running.
 >
-> **[3:52](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-is-logging?u=76281980&t=232)** In a real world, think of an e-commerce application.
+> **[3:52](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-is-logging?u=76281980&t=232)** In a real world, think of an [[E-Commerce]] application.
 >
 > **[3:56](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-is-logging?u=76281980&t=236)** You might log an info message that a user logs in.
 >
@@ -5693,7 +5626,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), [[Python (Programming Language)|Python]] (5), [[Debugging]] (3), [[Software Development]] (1), web application (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Software Development]] (1), [[E-Commerce]] (1)
 > **CLI Commands:** python (5)
 > **Env Vars:** debug (1), info (1), warning (1), error (1), critical (1)
 > **Definitions:** is an  (2), is a  (2)
@@ -5702,8 +5635,7 @@ created: 2026-05-02
 > **Warnings:** warning (2)
 > **Speakers:** - [instructor] (1)
 
-#### Custom logging
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/custom-logging?u=76281980)
+#### [Custom logging](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/custom-logging?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5721,7 +5653,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/custom-logging?u=76281980&t=60)** Control different logging levels and format for different parts of your application you can set using the custom logging.
 >
-> **[1:10](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/custom-logging?u=76281980&t=70)** Having the custom logging is important when you want scalability, it's easier to manage and scale logging as your application grows.
+> **[1:10](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/custom-logging?u=76281980&t=70)** Having the custom logging is important when you want [[Scalability]], it's easier to manage and scale logging as your application grows.
 >
 > **[1:22](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/custom-logging?u=76281980&t=82)** For example, in a microservice architecture, IT services can have its own logger, making it easier to monitor.
 >
@@ -5731,7 +5663,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/custom-logging?u=76281980&t=105)** This allows you to create multiple loggers with different names.
 >
-> **[1:50](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/custom-logging?u=76281980&t=110)** Let's just go down to our Google Collab and see how we can create it.
+> **[1:50](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/custom-logging?u=76281980&t=110)** Let's just go down to our [[Google]] Collab and see how we can create it.
 >
 > **[1:56](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/custom-logging?u=76281980&t=116)** I have a piece of a code. Look at this code.
 >
@@ -5783,7 +5715,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[Scalability]] (1), [[Google]] (1), next (1)
+> **Frameworks & Libraries:** [[Scalability]] (1), [[Google]] (1)
 > **Code Identifiers:** getlogger (3), finance_module_logger (1)
 > **Analogies:** for example (2)
 > **Cross-References:** in the next (1)
@@ -5791,8 +5723,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Logging best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/logging-best-practices?u=76281980)
+#### [Logging best practices](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/logging-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5878,7 +5809,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[Debugging]] (3), data (3), [[Security]] (1), [[Search]] (1)
 > **Warnings:** warning (2), keep in mind (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
@@ -5892,18 +5822,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Final Project: Retail sales analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/captstone-project-retail-sales-analysis?u=76281980)
+#### [Final Project: Retail sales analysis](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/captstone-project-retail-sales-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/captstone-project-retail-sales-analysis?u=76281980&t=0)** - [Narrator] Now, this is a time where we are going to implement all the learnings which we have done throughout this school in the form of a small project.
 >
-> **[0:10](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/captstone-project-retail-sales-analysis?u=76281980&t=10)** And our topic for the project is "retail sales analysis."
+> **[0:10](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/captstone-project-retail-sales-analysis?u=76281980&t=10)** And our topic for the project is "retail [[Sales Analysis]]."
 >
-> **[0:15](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/captstone-project-retail-sales-analysis?u=76281980&t=15)** The objective of this project is to create a Python script, which will analyze your retail sales data, which is available to you in the form of CSV.
+> **[0:15](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/captstone-project-retail-sales-analysis?u=76281980&t=15)** The objective of this project is to create a [[Python (Programming Language)|Python]] script, which will analyze your retail sales data, which is available to you in the form of CSV.
 >
-> **[0:28](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/captstone-project-retail-sales-analysis?u=76281980&t=28)** And during the analysis we have to do data cleanup, data manipulations, using the pandas.
+> **[0:28](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/captstone-project-retail-sales-analysis?u=76281980&t=28)** And during the analysis we have to do data cleanup, data manipulations, using the [[Pandas (Software)|pandas]].
 >
 > **[0:37](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/captstone-project-retail-sales-analysis?u=76281980&t=37)** And finally, we want to see the result in terms of the graphs, so we can visualize the sales trends.
 >
@@ -5927,7 +5856,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/captstone-project-retail-sales-analysis?u=76281980&t=88)** There may be couple of rows where few columns are missing, so you have to remove all rows because that data is junk data.
 >
-> **[1:38](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/captstone-project-retail-sales-analysis?u=76281980&t=98)** Now, once you're done with the cleaning, you have to do the data manipulation and analysis.
+> **[1:38](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/captstone-project-retail-sales-analysis?u=76281980&t=98)** Now, once you're done with the cleaning, you have to do the [[Data Manipulation]] and analysis.
 >
 > **[1:44](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/captstone-project-retail-sales-analysis?u=76281980&t=104)** And, what is our target?
 >
@@ -5951,7 +5880,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/captstone-project-retail-sales-analysis?u=76281980&t=166)** And for every step which you are doing, you have to create a method.
 >
-> **[2:51](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/captstone-project-retail-sales-analysis?u=76281980&t=171)** For example, there's a method for loading the data, calculating the statistics, cleaning the data, and creating the visualization.
+> **[2:51](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/captstone-project-retail-sales-analysis?u=76281980&t=171)** For example, there's a method for loading the data, calculating the [[Statistics]], cleaning the data, and creating the visualization.
 >
 > **[2:59](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/captstone-project-retail-sales-analysis?u=76281980&t=179)** Once you create this class, finally you have to write a piece of a logic, which will create an instance of this class and cause all the method to display the result.
 >
@@ -5961,19 +5890,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), product (5), [[Python (Programming Language)|Python]] (2), [[Pandas (Software)|Pandas]] (2), [[Data Manipulation]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Pandas (Software)|Pandas]] (2), [[Data Manipulation]] (2), [[Sales Analysis]] (1), [[Statistics]] (1)
 > **Env Vars:** csv (4)
 > **CLI Commands:** python (2), find (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Solution: Final project
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/solution-captstone-project?u=76281980)
+#### [Solution: Final project](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/solution-captstone-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/solution-captstone-project?u=76281980&t=0)** - [Instructor] Let's just see how we can build this Capstone project to analyze our retail sales data.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/solution-captstone-project?u=76281980&t=0)** - [Instructor] Let's just see how we can build this [[Capstone]] project to analyze our retail sales data.
 >
 > **[0:12](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/solution-captstone-project?u=76281980&t=12)** The step number one would be, is first to import our data.
 >
@@ -6025,7 +5953,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/solution-captstone-project?u=76281980&t=124)** But here you see under that PD that there is some error.
 >
-> **[2:08](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/solution-captstone-project?u=76281980&t=128)** Reason is we have not imported our Pandas dataframe library.
+> **[2:08](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/solution-captstone-project?u=76281980&t=128)** Reason is we have not imported our [[Pandas (Software)|Pandas]] dataframe library.
 >
 > **[2:13](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/solution-captstone-project?u=76281980&t=133)** So how I can do it, I just say import pandas as pd.
 >
@@ -6049,7 +5977,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/solution-captstone-project?u=76281980&t=214)** Now what is the next thing we want to do?
 >
-> **[3:36](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/solution-captstone-project?u=76281980&t=216)** We wanted to do the data cleaning.
+> **[3:36](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/solution-captstone-project?u=76281980&t=216)** We wanted to do the [[Data Cleaning]].
 >
 > **[3:38](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/solution-captstone-project?u=76281980&t=218)** How we can do that.
 >
@@ -6067,7 +5995,7 @@ created: 2026-05-02
 >
 > **[4:25](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/solution-captstone-project?u=76281980&t=265)** So our step number two, that is data cleaning, check for and remove rules with missing values in any column, is done.
 >
-> **[4:33](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/solution-captstone-project?u=76281980&t=273)** Now the third step would be is to do the data manipulation.
+> **[4:33](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/solution-captstone-project?u=76281980&t=273)** Now the third step would be is to do the [[Data Manipulation]].
 >
 > **[4:37](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/solution-captstone-project?u=76281980&t=277)** Now under the data manipulation we have to find out multiple things.
 >
@@ -6215,7 +6143,7 @@ created: 2026-05-02
 >
 > **[12:17](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/solution-captstone-project?u=76281980&t=737)** It's a kind of bar.
 >
-> **[12:21](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/solution-captstone-project?u=76281980&t=741)** So this will become a bar chart, and then, rest remains the same.
+> **[12:21](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/solution-captstone-project?u=76281980&t=741)** So this will become a bar chart, and then, [[Representational State Transfer (REST)|rest]] remains the same.
 >
 > **[12:26](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/solution-captstone-project?u=76281980&t=746)** I will just say like plt.title and I give the title name as Sales Per Product, and then we'll say plt.xlabel, and our X label would be Product, and plt.ylabel, and that is Total Sales.
 >
@@ -6323,7 +6251,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (38), data (20), next (5), [[Pandas (Software)|Pandas]] (3), [[Data Manipulation]] (3)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (3), [[Data Manipulation]] (3), [[Capstone]] (2), [[Data Cleaning]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** total_sales_per_product (3), retail_sales (2), best_selling_product (2), average_daily_sales (2), plot_sales_trend (2)
 > **CLI Commands:** find (8)
 > **Env Vars:** csv (7), plt (1)
@@ -6337,20 +6265,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/next-steps?u=76281980&t=0)** - [Deepak] That brings us to the end of the course.
 >
-> **[0:03](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/next-steps?u=76281980&t=3)** You did great in understanding and learning Python for data engineering, but we have only scratched the surface of the data world, so by no means is this the end.
+> **[0:03](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/next-steps?u=76281980&t=3)** You did great in understanding and learning [[Python (Programming Language)|Python]] for [[Data Engineering]], but we have only scratched the surface of the data world, so by no means is this the end.
 >
 > **[0:16](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/next-steps?u=76281980&t=16)** I encourage you to keep moving forward in your learning journey.
 >
-> **[0:21](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/next-steps?u=76281980&t=21)** You can start by taking my live data engineering course, Mission 100 Azure Data Engineer.
+> **[0:21](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/next-steps?u=76281980&t=21)** You can start by taking my live data engineering course, Mission 100 [[Microsoft Azure|Azure]] Data Engineer.
 >
-> **[0:28](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/next-steps?u=76281980&t=28)** You can find the program on my LinkedIn profile page itself.
+> **[0:28](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/next-steps?u=76281980&t=28)** You can find the program on my [[LinkedIn]] profile page itself.
 >
 > **[0:32](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/next-steps?u=76281980&t=32)** Again, my name is Deepak Goyal, and it has been both my pleasure and honor to teach you the skill of Python for data engineering.
 >
@@ -6358,7 +6285,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Engineering]] (3), [[Python (Programming Language)|Python]] (2), data (2), [[Microsoft Azure|Azure]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Data Engineering]] (3), [[Python (Programming Language)|Python]] (2), [[Microsoft Azure|Azure]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** python (2), find (1)
 > **Speakers:** - [deepak] (1)
 

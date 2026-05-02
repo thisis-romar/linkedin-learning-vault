@@ -88,12 +88,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/welcome?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/welcome?u=76281980&t=0)** - [Scott] Much of a system administrator's job is to maintain systems that are already up and running, whether it's software upgrades, making sure the hardware is performing well, keeping an eye on security or automating regular tasks, administrators need to be prepared to complete a series of steps to keep their systems happy.
+> **[0:00](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/welcome?u=76281980&t=0)** - [Scott] Much of a system administrator's job is to maintain systems that are already up and running, whether it's software upgrades, making sure the [[Hardware]] is performing well, keeping an eye on security or automating regular tasks, administrators need to be prepared to complete a series of steps to keep their systems happy.
 >
 > **[0:18](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/welcome?u=76281980&t=18)** In this course, I'll show you how to work with a bootloader and how to upgrade the kernel.
 >
@@ -105,22 +104,21 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/welcome?u=76281980&t=42)** This course is the second in a series for aspiring system administrators.
 >
-> **[0:46](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/welcome?u=76281980&t=46)** Once the essentials are behind you, this course will help you become more familiar with the basics of operating a system running Ubuntu.
+> **[0:46](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/welcome?u=76281980&t=46)** Once the essentials are behind you, this course will help you become more familiar with the basics of operating a system running [[Ubuntu]].
 >
 > **[0:53](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/welcome?u=76281980&t=53)** Let's go.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (1), [[Security]] (1), [[Automation]] (1), [[Ubuntu]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (1), [[Ubuntu]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [scott] (1)
 
-#### Environment setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/environment-setup?u=76281980)
+#### [Environment setup](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/environment-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/environment-setup?u=76281980&t=0)** - [Instructor] In this course I'll be using an Ubuntu desktop system that's already installed and running.
+> **[0:00](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/environment-setup?u=76281980&t=0)** - [Instructor] In this course I'll be using an [[Ubuntu]] desktop system that's already installed and running.
 >
 > **[0:05](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/environment-setup?u=76281980&t=5)** I'm using Ubuntu with a known desktop, running in VirtualBox but you could use any version of Ubuntu you want.
 >
@@ -132,11 +130,11 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/environment-setup?u=76281980&t=34)** That's why I recommend you use a virtual machine.
 >
-> **[0:37](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/environment-setup?u=76281980&t=37)** But if for some reason you can't use a virtual machine on your computer, consider setting up an account with a cloud provider, like DigitalOcean, Azure, AWS, or many others that are out there.
+> **[0:37](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/environment-setup?u=76281980&t=37)** But if for some reason you can't use a virtual machine on your computer, consider setting up an account with a cloud provider, like DigitalOcean, [[Microsoft Azure|Azure]], AWS, or many others that are out there.
 >
 > **[0:48](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/environment-setup?u=76281980&t=48)** The important point is that you want an environment where you can change things and learn without disrupting others.
 >
-> **[0:53](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/environment-setup?u=76281980&t=53)** I do expect that you're somewhat familiar with Linux and especially the command line.
+> **[0:53](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/environment-setup?u=76281980&t=53)** I do expect that you're somewhat familiar with [[Linux]] and especially the command line.
 >
 > **[0:58](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/environment-setup?u=76281980&t=58)** If not, take a look at the previous course in this series on the essential commands.
 >
@@ -144,7 +142,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ubuntu]] (4), cloud (1), [[Microsoft Azure|Azure]] (1), aws (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (4), [[Microsoft Azure|Azure]] (1), [[Linux]] (1)
 > **Prerequisites:** install (1), set up (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
@@ -156,8 +154,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Booting the system
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/booting-the-system?u=76281980)
+#### [Booting the system](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/booting-the-system?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -231,7 +228,7 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/booting-the-system?u=76281980&t=248)** Five was a graphical mode, and six represented the system rebooting.
 >
-> **[4:13](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/booting-the-system?u=76281980&t=253)** In modern versions of Ubuntu, using the systemd service, we use what are called targets instead to talk about this kind of difference in operating modes.
+> **[4:13](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/booting-the-system?u=76281980&t=253)** In modern versions of [[Ubuntu]], using the systemd service, we use what are called targets instead to talk about this kind of difference in operating modes.
 >
 > **[4:21](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/booting-the-system?u=76281980&t=261)** You can see the mapping here in this table, inside the man page for the runlevel command.
 >
@@ -255,15 +252,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (6), data (3), [[Ubuntu]] (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (1)
 > **CLI Commands:** systemctl (4), sudo (3), make (1)
 > **Documentation:** man page (2)
 > **Tools:** command line (1), terminal (1)
 > **UI Navigation:** go to (1), switch to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Configuring and modifying the bootloader
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/configuring-and-modifying-the-bootloader?u=76281980)
+#### [Configuring and modifying the bootloader](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/configuring-and-modifying-the-bootloader?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -271,7 +267,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/configuring-and-modifying-the-bootloader?u=76281980&t=7)** You push the button, some stuff goes by on the screen and then, after a while, you can actually use the computer; but the process is a lot more complex than that.
 >
-> **[0:15](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/configuring-and-modifying-the-bootloader?u=76281980&t=15)** When a Linux system starts up, there are a few layers of activity that happen to get from a powered off state to a condition where you can use the computer.
+> **[0:15](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/configuring-and-modifying-the-bootloader?u=76281980&t=15)** When a [[Linux]] system starts up, there are a few layers of activity that happen to get from a powered off state to a condition where you can use the computer.
 >
 > **[0:23](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/configuring-and-modifying-the-bootloader?u=76281980&t=23)** At the very beginning, the system starts up and loads its firmware; and that software either knows where to find, or goes and looks for, a specially-designated area of storage where the bootloader for the system is stored.
 >
@@ -295,7 +291,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/configuring-and-modifying-the-bootloader?u=76281980&t=98)** From this menu, we can choose various options to start the system.
 >
-> **[1:42](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/configuring-and-modifying-the-bootloader?u=76281980&t=102)** The Ubuntu entry here is the default, and I have some other options as well, including advanced options.
+> **[1:42](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/configuring-and-modifying-the-bootloader?u=76281980&t=102)** The [[Ubuntu]] entry here is the default, and I have some other options as well, including advanced options.
 >
 > **[1:48](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/configuring-and-modifying-the-bootloader?u=76281980&t=108)** In here are recent versions of kernels, with a few startup options, including a recovery mode kernel in case anything goes wrong.
 >
@@ -368,8 +364,7 @@ created: 2026-05-02
 > **Documentation:** specification (1)
 > **UI Navigation:** go to (1)
 
-#### Manage the startup process
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/manage-the-startup-process?u=76281980)
+#### [Manage the startup process](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/manage-the-startup-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -451,7 +446,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1)
 > **CLI Commands:** systemctl (8), sudo (3), make (1)
 > **Env Vars:** ipa (1)
 > **Documentation:** the documentation (1)
@@ -459,12 +453,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Update the kernel
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/update-the-kernel?u=76281980)
+#### [Update the kernel](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/update-the-kernel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/update-the-kernel?u=76281980&t=0)** - [Narrator] The kernel is what makes Linux Linux and every now and again it gets updated to add new features and support for different hardware.
+> **[0:00](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/update-the-kernel?u=76281980&t=0)** - [Narrator] The kernel is what makes [[Linux]] Linux and every now and again it gets updated to add new features and support for different [[Hardware]].
 >
 > **[0:09](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/update-the-kernel?u=76281980&t=9)** On a modern system, upgrading the kernel is a fairly straightforward operation.
 >
@@ -474,7 +467,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/update-the-kernel?u=76281980&t=25)** To find out about that, be sure to check out Advanced Linux: The Linux Kernel.
 >
-> **[0:30](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/update-the-kernel?u=76281980&t=30)** In this video, we'll download an updated kernel from the Ubuntu kernel site.
+> **[0:30](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/update-the-kernel?u=76281980&t=30)** In this video, we'll download an updated kernel from the [[Ubuntu]] kernel site.
 >
 > **[0:34](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/update-the-kernel?u=76281980&t=34)** First, I'll check out what my current kernel version is using the uname - r command.
 >
@@ -504,7 +497,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/update-the-kernel?u=76281980&t=113)** Now that that's downloaded, I can use the depackaged tool to install this.
 >
-> **[1:57](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/update-the-kernel?u=76281980&t=117)** We'll see more about package management in the chapter about software and updates.
+> **[1:57](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/update-the-kernel?u=76281980&t=117)** We'll see more about [[Package Management]] in the chapter about software and updates.
 >
 > **[2:01](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/update-the-kernel?u=76281980&t=121)** I'll write sudo dpkg - i and the name of the package that I just downloaded.
 >
@@ -553,8 +546,7 @@ created: 2026-05-02
 > **Tools:** terminal (2)
 > **Definitions:** is a  (2)
 
-#### Change kernel parameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/change-kernel-parameters?u=76281980)
+#### [Change kernel parameters](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/change-kernel-parameters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -610,7 +602,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (1), management (1)
 > **CLI Commands:** sudo (3), make (2), cat (1)
 > **Code Identifiers:** ip_forward (3)
 > **Env Vars:** etc (2)
@@ -618,26 +609,26 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **UI Navigation:** scroll up (1)
 > **Best Practices:** recommended (1)
+> **Speakers:** - [instructor] (1)
 
 
 ### 2. Software and Updates
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Updating software
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/updating-software?u=76281980)
+#### [Updating software](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/updating-software?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/updating-software?u=76281980&t=0)** - [Instructor] In order to keep our systems patched and updated, we need to add new software to the system.
 >
-> **[0:06](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/updating-software?u=76281980&t=6)** Here on Ubuntu, we'll do that with A-P-T, or APT, the Advanced Package Tool, which offers an easy to use interface to the Debian package manager, dpkg.
+> **[0:06](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/updating-software?u=76281980&t=6)** Here on [[Ubuntu]], we'll do that with A-P-T, or APT, the Advanced Package Tool, which offers an easy to use interface to the Debian package manager, dpkg.
 >
 > **[0:16](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/updating-software?u=76281980&t=16)** APT acts as a front end to a collection of tools that have more specific roles, including apt-cache and apt-get.
 >
 > **[0:22](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/updating-software?u=76281980&t=22)** Occasionally, we need to use these tools directly, but for most tasks, using APT is sufficient.
 >
-> **[0:28](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/updating-software?u=76281980&t=28)** The package management system can either search repositories of software for updates and new tools, or it can install already downloaded package files, allowing you to patch offline machines or to deploy packages across many machines and install things locally, rather than having many machines download the same update from the online repositories.
+> **[0:28](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/updating-software?u=76281980&t=28)** The [[Package Management]] system can either search repositories of software for updates and new tools, or it can install already downloaded package files, allowing you to patch offline machines or to deploy packages across many machines and install things locally, rather than having many machines download the same update from the online repositories.
 >
 > **[0:47](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/updating-software?u=76281980&t=47)** Here at the command line, we'll take a look at updating software first.
 >
@@ -671,7 +662,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/updating-software?u=76281980&t=143)** Apt search searches the descriptions and names of software in the local repository cache, for whatever you specify, and then returns matching packages that may be of interest.
 >
-> **[2:33](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/updating-software?u=76281980&t=153)** I'll write apt search nmap, to search for a common network mapping tool.
+> **[2:33](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/updating-software?u=76281980&t=153)** I'll write apt search [[Nmap]], to search for a common network mapping tool.
 >
 > **[2:39](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/updating-software?u=76281980&t=159)** If I scroll up here, I can find the package that I'm looking for.
 >
@@ -733,7 +724,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (6), [[Ubuntu]] (2), [[Package Management]] (1), functional (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Nmap]] (4), [[Ubuntu]] (2), [[Package Management]] (1)
 > **CLI Commands:** apt (27), sudo (4), make (2), find (2), ls (1)
 > **Env Vars:** apt (9), iso (1)
 > **Prerequisites:** install (10)
@@ -742,8 +733,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1), means that (1)
 > **Tools:** command line (1)
 
-#### Installing from source
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/installing-from-source?u=76281980)
+#### [Installing from source](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/installing-from-source?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -777,7 +767,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/installing-from-source?u=76281980&t=93)** Let's take a look at how to install software this way.
 >
-> **[1:36](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/installing-from-source?u=76281980&t=96)** I'll visit the site for Nmap, a popular network scanner, and navigate to the download section.
+> **[1:36](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/installing-from-source?u=76281980&t=96)** I'll visit the site for [[Nmap]], a popular network scanner, and navigate to the download section.
 >
 > **[1:43](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/installing-from-source?u=76281980&t=103)** I'll scroll down and find the release file.
 >
@@ -823,7 +813,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cd (1)
+> **Frameworks & Libraries:** [[Nmap]] (6)
 > **CLI Commands:** make (8), sudo (3), apt (2), find (1), wget (1)
 > **Prerequisites:** install (7), configure (3)
 > **Exercise Files:** source code (7)
@@ -832,8 +822,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Versions:** 7.40 (1)
 
-#### Understanding shared libraries
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/understanding-shared-libraries?u=76281980)
+#### [Understanding shared libraries](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/understanding-shared-libraries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -853,7 +842,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/understanding-shared-libraries?u=76281980&t=57)** Here we can see the libraries or shared objects, .so, that a program needs and the path where it's expecting to find the library that it needs.
 >
-> **[1:08](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/understanding-shared-libraries?u=76281980&t=68)** This path here, in the /lib/x86_64-linux-gnu folder is often actually a symbolic link to a different file.
+> **[1:08](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/understanding-shared-libraries?u=76281980&t=68)** This path here, in the /lib/x86_64-[[Linux]]-gnu folder is often actually a symbolic link to a different file.
 >
 > **[1:16](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/understanding-shared-libraries?u=76281980&t=76)** We can take a look at that with ls -l and the path to the file.
 >
@@ -894,12 +883,11 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1)
 > **Prerequisites:** install (1)
 
-#### Explore AppArmor
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/explore-apparmor?u=76281980)
+#### [Explore AppArmor](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/explore-apparmor?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/explore-apparmor?u=76281980&t=0)** - [Instructor] AppArmor is a kernel module using the Linux security module's interface, it provides mandatory access control to be added to programs, determining which specific file paths and resources it can or cannot use.
+> **[0:00](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/explore-apparmor?u=76281980&t=0)** - [Instructor] AppArmor is a kernel module using the [[Linux]] security module's interface, it provides mandatory access control to be added to programs, determining which specific file paths and resources it can or cannot use.
 >
 > **[0:12](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/explore-apparmor?u=76281980&t=12)** Programs and services often have their own user in order to control what access they have to the system, to some degree; but many run as root and, as such, have access to anything on the system.
 >
@@ -955,7 +943,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), [[Linux]] (1), application (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **CLI Commands:** ls (2), make (2), cat (1), sudo (1), apt (1)
 > **Definitions:** is a  (2), stands for (1)
 > **Prerequisites:** install (2)
@@ -968,8 +956,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Examine resource utilization
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/examine-resource-utilization?u=76281980)
+#### [Examine resource utilization](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/examine-resource-utilization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1005,9 +992,9 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/examine-resource-utilization?u=76281980&t=98)** The second line gives us a summary of the tasks or processes that are running and if any are considered a zombie process, processes that have finished running but haven't been removed from the process table yet.
 >
-> **[1:49](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/examine-resource-utilization?u=76281980&t=109)** On the third line, we see processor usage broken down into what user processes are consuming, what system processes are consuming, what NIST processes are consuming, that is processes that have had their priority changed, and how much of the processor's time is spent idling.
+> **[1:49](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/examine-resource-utilization?u=76281980&t=109)** On the third line, we see processor usage broken down into what user processes are consuming, what system processes are consuming, what [[NIST]] processes are consuming, that is processes that have had their priority changed, and how much of the processor's time is spent idling.
 >
-> **[2:06](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/examine-resource-utilization?u=76281980&t=126)** We also see what amount of processor resources are being used on waiting for input/output operations, often that'll be from a slow disk and what percentage of the processor resources are being used for hardware and software interrupts.
+> **[2:06](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/examine-resource-utilization?u=76281980&t=126)** We also see what amount of processor resources are being used on waiting for input/output operations, often that'll be from a slow disk and what percentage of the processor resources are being used for [[Hardware]] and software interrupts.
 >
 > **[2:19](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/examine-resource-utilization?u=76281980&t=139)** And if you're using a virtual machine, what percentage of the processor time is being used or stolen by the hypervisor.
 >
@@ -1103,7 +1090,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), data (3), power (2), application (1), [[NIST]] (1)
+> **Frameworks & Libraries:** [[NIST]] (1), [[Hardware]] (1)
 > **Env Vars:** ram (2), res (2), shr (2), mem (2), nist (1)
 > **UI Navigation:** toggle (4)
 > **Versions:** 1.00 (1), 0.50 (1), 2.00 (1)
@@ -1112,8 +1099,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [narrator] (1)
 
-#### Working with processes
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/working-with-processes?u=76281980)
+#### [Working with processes](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/working-with-processes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1121,7 +1107,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/working-with-processes?u=76281980&t=3)** And in this video, we'll take a look at how to change process priority, and how to find and end a running process.
 >
-> **[0:10](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/working-with-processes?u=76281980&t=10)** Anything that happens on a Linux system, runs inside of a process.
+> **[0:10](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/working-with-processes?u=76281980&t=10)** Anything that happens on a [[Linux]] system, runs inside of a process.
 >
 > **[0:14](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/working-with-processes?u=76281980&t=14)** So, being able to control how processes operate, gives you a fundamental level of control over the system.
 >
@@ -1343,7 +1329,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Linux]] (1), power (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **CLI Commands:** find (4), make (4), sudo (2), grep (2)
 > **Tools:** terminal (8), bash (2)
 > **Definitions:** means that (3), is a  (2), is an  (2), is called (1)
@@ -1352,8 +1338,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Explore resource bottlenecks
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/explore-resource-bottlenecks?u=76281980)
+#### [Explore resource bottlenecks](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/explore-resource-bottlenecks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1369,7 +1354,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/explore-resource-bottlenecks?u=76281980&t=46)** But on a multi core machine, say a four core machine, 2.00 means the system is running at about half capacity so to read the system load correctly, you'll need to know how many cores your system has.
 >
-> **[0:58](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/explore-resource-bottlenecks?u=76281980&t=58)** System load often spikes up over 1.00 per core during normal operations, but if it's consistently close to the full capacity or if it's consistently over full capacity, it may be time to look at either adding more processor cores if your hardware allows or adding them through a VM hypervisor or it may be time to add more systems to spread tasks across more computers.
+> **[0:58](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/explore-resource-bottlenecks?u=76281980&t=58)** System load often spikes up over 1.00 per core during normal operations, but if it's consistently close to the full capacity or if it's consistently over full capacity, it may be time to look at either adding more processor cores if your [[Hardware]] allows or adding them through a VM hypervisor or it may be time to add more systems to spread tasks across more computers.
 >
 > **[1:19](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/explore-resource-bottlenecks?u=76281980&t=79)** I/O wait represents how much of the processor's time is spent waiting for input and output to happen which can often indicate a slow disk, which in turn can indicate either old hardware or a device that's having problems.
 >
@@ -1415,7 +1400,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (3), application (2), web (2), database (1)
+> **Frameworks & Libraries:** [[Hardware]] (3)
 > **Env Vars:** ram (7), ssd (1)
 > **Versions:** 1.00 (2), 2.00 (2), 0.50 (1)
 > **Definitions:** is a  (2), means that (1)
@@ -1424,12 +1409,11 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Explore system hardware
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/explore-system-hardware?u=76281980)
+#### [Explore system hardware](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/explore-system-hardware?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/explore-system-hardware?u=76281980&t=0)** - [Teacher] It's a good idea to test out hardware before you start to rely on it.
+> **[0:00](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/explore-system-hardware?u=76281980&t=0)** - [Teacher] It's a good idea to test out [[Hardware]] before you start to rely on it.
 >
 > **[0:04](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/explore-system-hardware?u=76281980&t=4)** And if your system starts to behave oddly, it could be a sign that the integrity of a piece of hardware is starting to break down.
 >
@@ -1447,7 +1431,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/explore-system-hardware?u=76281980&t=41)** memtest is a separate boot image from the kernel, so your system will be offline while this test is going on.
 >
-> **[0:47](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/explore-system-hardware?u=76281980&t=47)** Here I see some statistics about my cache and memory, which is a helpful reminder of just how much faster the processor cache is than the system memory.
+> **[0:47](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/explore-system-hardware?u=76281980&t=47)** Here I see some [[Statistics]] about my cache and memory, which is a helpful reminder of just how much faster the processor cache is than the system memory.
 >
 > **[0:55](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/explore-system-hardware?u=76281980&t=55)** And over on the right, I have some processor information, and then the progress and status information about the test.
 >
@@ -1513,7 +1497,7 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/explore-system-hardware?u=76281980&t=260)** So it's good to look at, search about, and decide which parameters of your disks are interesting to keep an eye on.
 >
-> **[4:27](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/explore-system-hardware?u=76281980&t=267)** Google has a really interesting research paper that goes over their observations about SMART information and disk failure, if you're curious to read about that sort of thing.
+> **[4:27](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/explore-system-hardware?u=76281980&t=267)** [[Google]] has a really interesting research paper that goes over their observations about SMART information and disk failure, if you're curious to read about that sort of thing.
 >
 > **[4:36](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/explore-system-hardware?u=76281980&t=276)** It can also be interesting to look at the speed of disks in your system.
 >
@@ -1541,7 +1525,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (7), [[Statistics]] (2), next (2), application (1), hit (1)
+> **Frameworks & Libraries:** [[Hardware]] (7), [[Statistics]] (2), [[Google]] (1)
 > **Env Vars:** smart (6), ram (2), grub (1), usb (1)
 > **CLI Commands:** sudo (5), apt (1)
 > **Definitions:** is a  (2), is called (1)
@@ -1550,18 +1534,17 @@ created: 2026-05-02
 > **Code Identifiers:** tt (1)
 > **Documentation:** man page (1)
 
-#### Upgrade or add hardware
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/upgrade-or-add-hardware?u=76281980)
+#### [Upgrade or add hardware](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/upgrade-or-add-hardware?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/upgrade-or-add-hardware?u=76281980&t=0)** - [Instructor] Sometimes, you need to upgrade hardware to provide more resources for a system.
+> **[0:00](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/upgrade-or-add-hardware?u=76281980&t=0)** - [Instructor] Sometimes, you need to upgrade [[Hardware]] to provide more resources for a system.
 >
 > **[0:05](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/upgrade-or-add-hardware?u=76281980&t=5)** Physical servers sometimes limit our ability to add new hardware and while we can often add more storage to a physical server, and sometimes we can add more RAM, it's difficult to add more process power for example.
 >
 > **[0:16](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/upgrade-or-add-hardware?u=76281980&t=16)** Sometimes, adding RAM is impractical if we're out of slots on the board.
 >
-> **[0:20](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/upgrade-or-add-hardware?u=76281980&t=20)** Small virtual machines are a lot more flexible in this regard, though if you're running a VM on a limited resource machine, like a laptop, there's no much you can do about hardware resources outside of giving the VM more systems resources.
+> **[0:20](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/upgrade-or-add-hardware?u=76281980&t=20)** Small [[Virtual Machines]] are a lot more flexible in this regard, though if you're running a VM on a limited resource machine, like a laptop, there's no much you can do about hardware resources outside of giving the VM more systems resources.
 >
 > **[0:33](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/upgrade-or-add-hardware?u=76281980&t=33)** It can't expand beyond the physical limitations of the system.
 >
@@ -1573,7 +1556,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/upgrade-or-add-hardware?u=76281980&t=68)** And of course, on a physical machine, we don't want to plug RAM or processors in while the board is powered on because it's unsafe and it can cause component damage.
 >
-> **[1:17](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/upgrade-or-add-hardware?u=76281980&t=77)** We may also need to add other hardware to add functionality like a webcam or microphone or wireless networking.
+> **[1:17](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/upgrade-or-add-hardware?u=76281980&t=77)** We may also need to add other hardware to add functionality like a webcam or microphone or [[Wireless Networking]].
 >
 > **[1:23](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/upgrade-or-add-hardware?u=76281980&t=83)** We may also need to add other hardware, to add other functionality like a webcam or a microphone or wireless networking.
 >
@@ -1581,7 +1564,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/upgrade-or-add-hardware?u=76281980&t=95)** There's a lot of native support for hardware built in nowadays so you can save yourself some troubleshooting and investigation just by seeing if there's a solution to your hardware needs that works out of the box.
 >
-> **[1:46](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/upgrade-or-add-hardware?u=76281980&t=106)** Usually, searching on the web for the hardware model number and the term Linux will give you a quick answer.
+> **[1:46](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/upgrade-or-add-hardware?u=76281980&t=106)** Usually, searching on the web for the hardware model number and the term [[Linux]] will give you a quick answer.
 >
 > **[1:52](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/upgrade-or-add-hardware?u=76281980&t=112)** If the hardware isn't directly supported sometimes, you'll need to install a driver to give the system the software and tools it needs to be able to communicate with your new hardware.
 >
@@ -1613,7 +1596,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (17), power (3), [[Wireless Networking]] (2), [[Virtual Machines]] (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (17), [[Wireless Networking]] (2), [[Virtual Machines]] (1), [[Linux]] (1)
 > **Env Vars:** ram (4), usb (1)
 > **Analogies:** for example (3)
 > **Prerequisites:** install (2), you'll need (1)
@@ -1621,8 +1604,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Explore system log files
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/explore-system-log-files?u=76281980)
+#### [Explore system log files](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/explore-system-log-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1634,7 +1616,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/explore-system-log-files?u=76281980&t=16)** System logs are stored in var/log.
 >
-> **[0:20](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/explore-system-log-files?u=76281980&t=20)** And here on Ubuntu, the system log is very cleverly named syslog.
+> **[0:20](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/explore-system-log-files?u=76281980&t=20)** And here on [[Ubuntu]], the system log is very cleverly named syslog.
 >
 > **[0:25](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/explore-system-log-files?u=76281980&t=25)** Let's take a look at that one first.
 >
@@ -1664,7 +1646,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/explore-system-log-files?u=76281980&t=91)** Then after the colon, there's the message that the software sent to the log.
 >
-> **[1:35](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/explore-system-log-files?u=76281980&t=95)** They'll often wrap, but you can zoom out if you want to make them fit on your screen.
+> **[1:35](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/explore-system-log-files?u=76281980&t=95)** They'll often wrap, but you can [[Zoom]] out if you want to make them fit on your screen.
 >
 > **[1:39](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/explore-system-log-files?u=76281980&t=99)** The format of what each process writes to the log, varies with what kind of information it logs, and how developers or the community need to use that information.
 >
@@ -1704,7 +1686,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/explore-system-log-files?u=76281980&t=219)** Another log that's interesting to look at, is the kernel log.
 >
-> **[3:43](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/explore-system-log-files?u=76281980&t=223)** Which contains messages that the kernel shares about the startup process and hardware information.
+> **[3:43](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/explore-system-log-files?u=76281980&t=223)** Which contains messages that the kernel shares about the startup process and [[Hardware]] information.
 >
 > **[3:48](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/explore-system-log-files?u=76281980&t=228)** This information appears in the syslog and in kern.log.
 >
@@ -1728,15 +1710,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2), [[Ubuntu]] (1), [[Zoom]] (1), application (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (1), [[Zoom]] (1), [[Hardware]] (1)
 > **CLI Commands:** cat (3), grep (3), make (1), find (1)
 > **Prerequisites:** set up (2), configure (1)
 > **UI Navigation:** scroll up (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Monitor security and audit the system
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/monitor-security-and-audit-the-system?u=76281980)
+#### [Monitor security and audit the system](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/monitor-security-and-audit-the-system?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1750,7 +1731,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/monitor-security-and-audit-the-system?u=76281980&t=23)** SSH login attempts, users making use of sudo, and so on.
 >
-> **[0:28](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/monitor-security-and-audit-the-system?u=76281980&t=28)** Here on Ubuntu, the log can be found in /var/log/auth.log.
+> **[0:28](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/monitor-security-and-audit-the-system?u=76281980&t=28)** Here on [[Ubuntu]], the log can be found in /var/log/auth.log.
 >
 > **[0:36](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/monitor-security-and-audit-the-system?u=76281980&t=36)** Let's use sudo for something here, and see what that looks like in the log.
 >
@@ -1790,7 +1771,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/monitor-security-and-audit-the-system?u=76281980&t=177)** This is especially important on virtualized clients, which can have a shaky sense of time, especially if they sleep.
 >
-> **[3:03](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/monitor-security-and-audit-the-system?u=76281980&t=183)** Configuration management tools can also be helpful, regardless of the size of your environment.
+> **[3:03](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/monitor-security-and-audit-the-system?u=76281980&t=183)** [[Configuration Management]] tools can also be helpful, regardless of the size of your environment.
 >
 > **[3:08](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/monitor-security-and-audit-the-system?u=76281980&t=188)** These tools can easily query information, or push new settings to machines all at once, reducing your overhead for monitoring or configuring various aspects of the systems.
 >
@@ -1798,7 +1779,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/monitor-security-and-audit-the-system?u=76281980&t=203)** You should be able to account for every opening in your system's security.
 >
-> **[3:27](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/monitor-security-and-audit-the-system?u=76281980&t=207)** You may also consider implementing intrusion detection software.
+> **[3:27](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/monitor-security-and-audit-the-system?u=76281980&t=207)** You may also consider implementing [[Intrusion Detection]] software.
 >
 > **[3:31](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/monitor-security-and-audit-the-system?u=76281980&t=211)** Security isn't a set-and-forget kind of thing.
 >
@@ -1816,7 +1797,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), [[Ubuntu]] (1), [[Configuration Management]] (1), [[Intrusion Detection]] (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (1), [[Configuration Management]] (1), [[Intrusion Detection]] (1)
 > **CLI Commands:** sudo (8), make (3), ls (2), cat (2), ssh (1)
 > **Env Vars:** etc (2), ssh (1)
 > **Best Practices:** good practice (1), make sure to (1)
@@ -1825,12 +1806,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### System usage reporting
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/system-usage-reporting?u=76281980)
+#### [System usage reporting](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/system-usage-reporting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/system-usage-reporting?u=76281980&t=0)** - [Narrator] A Linux system gives us a lot of tools to show various aspects of system usage.
+> **[0:00](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/system-usage-reporting?u=76281980&t=0)** - [Narrator] A [[Linux]] system gives us a lot of tools to show various aspects of system usage.
 >
 > **[0:05](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/system-usage-reporting?u=76281980&t=5)** But, to run these tools manually across many clients, to piece together a patchwork of how the systems are operating, is time consuming and prone to errors.
 >
@@ -1838,7 +1818,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/system-usage-reporting?u=76281980&t=19)** And give us a concise useful report of information that can be saved to a log, or sent to a monitoring system.
 >
-> **[0:26](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/system-usage-reporting?u=76281980&t=26)** There are many tools that give us various system statistics.
+> **[0:26](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/system-usage-reporting?u=76281980&t=26)** There are many tools that give us various system [[Statistics]].
 >
 > **[0:29](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/system-usage-reporting?u=76281980&t=29)** So in this video I'll just use a few of them, and focus on how to get specific pieces of information into a format that we define.
 >
@@ -1988,7 +1968,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (2), [[Linux]] (1), [[Scripting]] (1), next (1)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Linux]] (1)
 > **CLI Commands:** awk (12), find (1), cat (1)
 > **Env Vars:** awk (12)
 > **File Paths:** summary.sh (2)
@@ -2001,14 +1981,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Schedule and verify tasks
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/schedule-and-verify-tasks?u=76281980)
+#### [Schedule and verify tasks](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/schedule-and-verify-tasks?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/schedule-and-verify-tasks?u=76281980&t=0)** - [Tutor] Many system maintenance and reporting tasks should be run regularly, or at predefined times when they're unlikely to bother users.
 >
-> **[0:07](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/schedule-and-verify-tasks?u=76281980&t=7)** In order to schedule tasks on the Linux system, we can use Cron or Anacron.
+> **[0:07](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/schedule-and-verify-tasks?u=76281980&t=7)** In order to schedule tasks on the [[Linux]] system, we can use Cron or Anacron.
 >
 > **[0:13](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/schedule-and-verify-tasks?u=76281980&t=13)** Cron is a task scheduling system that's been part of Linux for a very long time.
 >
@@ -2038,7 +2017,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/schedule-and-verify-tasks?u=76281980&t=94)** Or, we can specify a number, to set a specific aspect of when we want a task to run.
 >
-> **[1:40](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/schedule-and-verify-tasks?u=76281980&t=100)** For example, here if we put a "1" in the minute column, and left the rest as asterisks a task would run at minute one of every hour: 12:01, 1:01, 2:01, and so on.
+> **[1:40](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/schedule-and-verify-tasks?u=76281980&t=100)** For example, here if we put a "1" in the minute column, and left the [[Representational State Transfer (REST)|rest]] as asterisks a task would run at minute one of every hour: 12:01, 1:01, 2:01, and so on.
 >
 > **[1:51](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/schedule-and-verify-tasks?u=76281980&t=111)** A "1" in the hour column with everything else being stars, would run for every minute of the hour of 1AM every day.
 >
@@ -2154,7 +2133,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (2), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[Linux]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Ports:** :01 (3), :15 (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Prerequisites:** setup (1), set up (1)
@@ -2163,14 +2142,13 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Analogies:** for example (1)
 
-#### Configuration management and automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/configuration-management-and-automation?u=76281980)
+#### [Configuration management and automation](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/configuration-management-and-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/configuration-management-and-automation?u=76281980&t=0)** - [Narrator] Whether you're administering 10,000 systems or just a handful of them, configuration management tools give you the ability to predefine and periodically verify your desired configuration.
+> **[0:00](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/configuration-management-and-automation?u=76281980&t=0)** - [Narrator] Whether you're administering 10,000 systems or just a handful of them, [[Configuration Management]] tools give you the ability to predefine and periodically verify your desired configuration.
 >
-> **[0:11](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/configuration-management-and-automation?u=76281980&t=11)** These tools such as Puppet, Salt, Chef and Ansible remove the need to log in to each machine you administer and make changes manually.
+> **[0:11](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/configuration-management-and-automation?u=76281980&t=11)** These tools such as Puppet, Salt, Chef and [[Ansible]] remove the need to log in to each machine you administer and make changes manually.
 >
 > **[0:19](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/configuration-management-and-automation?u=76281980&t=19)** Using these tools, an administration can define configurations, restrictions and any other parameter that can be set locally by writing a definition or description in the text-based configuration language and deploy it to client machines.
 >
@@ -2188,23 +2166,23 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/configuration-management-and-automation?u=76281980&t=89)** Other solutions use an agentless model where the server initiates a connection and makes changes directly on the clients.
 >
-> **[1:36](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/configuration-management-and-automation?u=76281980&t=96)** Configuration management isn't only for Linux machines either.
+> **[1:36](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/configuration-management-and-automation?u=76281980&t=96)** Configuration management isn't only for [[Linux]] machines either.
 >
-> **[1:39](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/configuration-management-and-automation?u=76281980&t=99)** Many solutions also support Windows and Unix-like operating systems such as macOS.
+> **[1:39](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/configuration-management-and-automation?u=76281980&t=99)** Many solutions also support [[Windows]] and Unix-like operating systems such as macOS.
 >
 > **[1:45](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/configuration-management-and-automation?u=76281980&t=105)** Outside of defining a specific state, many of these tools allow administrators to run individual commands across many systems at the same time, allowing an increase in speed and accuracy as compared to repetitive manual interaction.
 >
 > **[1:59](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/configuration-management-and-automation?u=76281980&t=119)** There are many configuration management tools out there and organizations will frequently decide on one versus another to use across their systems so it's helpful to know a little bit about the major tools and then specialize when you find out which tool you'll be using or you could go deep on one tool and use that expertise to guide your career.
 >
-> **[2:17](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/configuration-management-and-automation?u=76281980&t=137)** But the most important idea about configuration management is the ability to define an entire system architecture in text.
+> **[2:17](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/configuration-management-and-automation?u=76281980&t=137)** But the most important idea about configuration management is the ability to define an entire [[System Architecture]] in text.
 >
-> **[2:24](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/configuration-management-and-automation?u=76281980&t=144)** This ability to define how systems work in configuration files rather than with manual interaction is known as IaC or infrastructure as code and it's a very popular approach to building and managing cloud architecture.
+> **[2:24](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/configuration-management-and-automation?u=76281980&t=144)** This ability to define how systems work in configuration files rather than with manual interaction is known as IaC or [[Infrastructure as code (IaC)|infrastructure as code]] and it's a very popular approach to building and managing cloud architecture.
 >
 > **[2:36](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/configuration-management-and-automation?u=76281980&t=156)** Because the different solutions work differently, I won't go into the specifics of each here, but be sure to check out our courses on configuration management tools for more information.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Configuration Management]] (7), [[Ansible]] (1), management (1), [[Linux]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Configuration Management]] (7), [[Ansible]] (1), [[Linux]] (1), [[Windows]] (1), [[System Architecture]] (1)
 > **CLI Commands:** make (2), ansible (1), find (1)
 > **Analogies:** such as (2), for example (1)
 > **Code Identifiers:** macos (1)
@@ -2217,8 +2195,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Consider a disaster recovery plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/consider-a-disaster-recovery-plan?u=76281980)
+#### [Consider a disaster recovery plan](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/consider-a-disaster-recovery-plan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2238,7 +2215,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/consider-a-disaster-recovery-plan?u=76281980&t=46)** But if your ability to keep your systems up and going is the lifeline of your business, there are a few levels of protection you should consider.
 >
-> **[0:53](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/consider-a-disaster-recovery-plan?u=76281980&t=53)** At the absolute minimum, you should have backups of all of your critical information - databases, applications, configurations, documents, and documentation should be backed up regularly.
+> **[0:53](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/consider-a-disaster-recovery-plan?u=76281980&t=53)** At the absolute minimum, you should have backups of all of your critical information - [[Databases]], applications, configurations, documents, and documentation should be backed up regularly.
 >
 > **[1:05](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/consider-a-disaster-recovery-plan?u=76281980&t=65)** And your backups should be tested regularly as well.
 >
@@ -2256,7 +2233,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/consider-a-disaster-recovery-plan?u=76281980&t=103)** Many business will keep a local, online copy of backups and send offline backups to a remote storage facility to allow them to do minor recoveries quickly, and still have a safety layer of offsite backups, too.
 >
-> **[1:55](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/consider-a-disaster-recovery-plan?u=76281980&t=115)** Depending on the setup of your systems, and how critical they are to your business, you may not be able to tolerate a local hardware failure in the event of a disaster.
+> **[1:55](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/consider-a-disaster-recovery-plan?u=76281980&t=115)** Depending on the setup of your systems, and how critical they are to your business, you may not be able to tolerate a local [[Hardware]] failure in the event of a disaster.
 >
 > **[2:04](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/consider-a-disaster-recovery-plan?u=76281980&t=124)** You may need to setup a remote site that has a mirror, or enough of a mirror, of your system to operate your services temporarily.
 >
@@ -2264,7 +2241,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/consider-a-disaster-recovery-plan?u=76281980&t=140)** The extent to which this secondary system is online, up-to-date, and ready to go, will be a business decision your leadership team will need to make.
 >
-> **[2:28](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/consider-a-disaster-recovery-plan?u=76281980&t=148)** In perfect world, we'd just have a big button on the wall that would instantly switch traffic, app hosting, data management, and everything else to a secondary system that's powered on, configured, and up-to-date with the latest data.
+> **[2:28](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/consider-a-disaster-recovery-plan?u=76281980&t=148)** In perfect world, we'd just have a big button on the wall that would instantly switch traffic, app hosting, [[Data Management]], and everything else to a secondary system that's powered on, configured, and up-to-date with the latest data.
 >
 > **[2:40](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/consider-a-disaster-recovery-plan?u=76281980&t=160)** But for most organizations, that's impractical.
 >
@@ -2298,15 +2275,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), business (6), [[Hardware]] (3), power (2), leadership (2)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[Databases]] (1), [[Data Management]] (1)
 > **CLI Commands:** make (3)
 > **Best Practices:** good practice (1), recommended (1)
 > **Prerequisites:** setup (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Train team members and document changes
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/train-team-members-and-document-changes?u=76281980)
+#### [Train team members and document changes](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/train-team-members-and-document-changes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2334,7 +2310,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/train-team-members-and-document-changes?u=76281980&t=113)** In the technology field, it's critical to always be learning.
 >
-> **[1:57](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/train-team-members-and-document-changes?u=76281980&t=117)** System administration isn't something you learn once and that's it.
+> **[1:57](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/train-team-members-and-document-changes?u=76281980&t=117)** [[System Administration]] isn't something you learn once and that's it.
 >
 > **[2:01](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/train-team-members-and-document-changes?u=76281980&t=121)** Developments in technology, security and other areas mean that any system administrator worth their salt is constantly learning new things and exploring how they might benefit users and the system.
 >
@@ -2368,7 +2344,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), application (1), [[System Administration]] (1)
+> **Frameworks & Libraries:** [[System Administration]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Analogies:** for example (1), such as (1)
 > **UI Navigation:** go to (1)
@@ -2376,8 +2352,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
-#### Incident management
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/incident-management?u=76281980)
+#### [Incident management](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/incident-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2389,7 +2364,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/incident-management?u=76281980&t=14)** To facilitate communication, businesses usually have a cross-team communication platform already determined and set up for use.
 >
-> **[0:22](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/incident-management?u=76281980&t=22)** This can be RIC, Slack, Skype, or any number of other products.
+> **[0:22](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/incident-management?u=76281980&t=22)** This can be RIC, [[Slack]], Skype, or any number of other [[Microsoft Products|products]].
 >
 > **[0:26](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/incident-management?u=76281980&t=26)** Sometimes it's just an email thread.
 >
@@ -2397,7 +2372,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/incident-management?u=76281980&t=37)** Be sure to communicate with your team and with other teams about their expectations of you in terms of response time, the scope of your role, and who your points of contact will be in an outage.
 >
-> **[0:48](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/incident-management?u=76281980&t=48)** Incident response teams will have a defined leader and it's important that you follow their direction or the direction of their delegates in order to respond to an outage.
+> **[0:48](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/incident-management?u=76281980&t=48)** [[Incident Response]] teams will have a defined leader and it's important that you follow their direction or the direction of their delegates in order to respond to an outage.
 >
 > **[0:57](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/incident-management?u=76281980&t=57)** Working to resolve an outage is not the time to make unrelated changes or upgrades to systems and it's definitely not the time to bring up disagreements about policies or vendors.
 >
@@ -2409,7 +2384,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/incident-management?u=76281980&t=90)** Unless you're directed otherwise, prefer over-communication to under-communication.
 >
-> **[1:35](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/incident-management?u=76281980&t=95)** Make sure you're in sync with what the rest of the team is doing and that what you're doing at any time is what they need you to be working on.
+> **[1:35](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/incident-management?u=76281980&t=95)** Make sure you're in sync with what the [[Representational State Transfer (REST)|rest]] of the team is doing and that what you're doing at any time is what they need you to be working on.
 >
 > **[1:42](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/incident-management?u=76281980&t=102)** Keep notes of everything you do as well.
 >
@@ -2427,7 +2402,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (5), [[Incident Response]] (3), [[Representational State Transfer (REST)|Rest]] (2), [[Slack]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Incident Response]] (3), [[Representational State Transfer (REST)|Rest]] (2), [[Slack]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Prerequisites:** set up (2), you'll need (1)
 > **Env Vars:** ric (1)
@@ -2440,12 +2415,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Summary
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/summary?u=76281980)
+#### [Summary](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/summary?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/summary?u=76281980&t=0)** - [Scott] That's been a look at the basics of running a Linux system.
+> **[0:00](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/summary?u=76281980&t=0)** - [Scott] That's been a look at the basics of running a [[Linux]] system.
 >
 > **[0:03](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/summary?u=76281980&t=3)** As I mentioned at the beginning of the course, be sure to take time to explore what you've learned.
 >
@@ -2457,7 +2431,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (1), next (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **Speakers:** - [scott] (1)
 
 

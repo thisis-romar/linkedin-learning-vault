@@ -89,12 +89,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Moving from Excel to SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-excel-to-sql-26502092/moving-from-excel-to-sql?u=76281980)
+#### [Moving from Excel to SQL](https://www.linkedin.com/learning/from-excel-to-sql-26502092/moving-from-excel-to-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/from-excel-to-sql-26502092/moving-from-excel-to-sql?u=76281980&t=0)** - We can all agree that Microsoft Excel is a powerful tool for manipulating and visualizing data.
+> **[0:00](https://www.linkedin.com/learning/from-excel-to-sql-26502092/moving-from-excel-to-sql?u=76281980&t=0)** - We can all agree that [[Microsoft Excel]] is a powerful tool for manipulating and visualizing data.
 >
 > **[0:06](https://www.linkedin.com/learning/from-excel-to-sql-26502092/moving-from-excel-to-sql?u=76281980&t=6)** In fact, it's one of the most popular and important applications in business today.
 >
@@ -102,9 +101,9 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/from-excel-to-sql-26502092/moving-from-excel-to-sql?u=76281980&t=14)** Where can you turn?
 >
-> **[0:16](https://www.linkedin.com/learning/from-excel-to-sql-26502092/moving-from-excel-to-sql?u=76281980&t=16)** If your data is stored in a database, you're going to need SQL to unlock it and get back the information you want.
+> **[0:16](https://www.linkedin.com/learning/from-excel-to-sql-26502092/moving-from-excel-to-sql?u=76281980&t=16)** If your data is stored in a database, you're going to need [[SQL]] to unlock it and get back the information you want.
 >
-> **[0:22](https://www.linkedin.com/learning/from-excel-to-sql-26502092/moving-from-excel-to-sql?u=76281980&t=22)** And that's what we're going to look at in this course, how you can make the transition from Excel to SQL.
+> **[0:22](https://www.linkedin.com/learning/from-excel-to-sql-26502092/moving-from-excel-to-sql?u=76281980&t=22)** And that's what we're going to look at in this course, how you can make the transition from [[Microsoft Excel|Excel]] to SQL.
 >
 > **[0:28](https://www.linkedin.com/learning/from-excel-to-sql-26502092/moving-from-excel-to-sql?u=76281980&t=28)** My name is James Parkin and I'm a software engineer with over 20 years of development experience working with many different types of data.
 >
@@ -120,18 +119,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[SQL]] (6), [[Microsoft Excel|Excel]] (3), [[Microsoft Excel]] (1), business (1)
+> **Frameworks & Libraries:** [[SQL]] (6), [[Microsoft Excel|Excel]] (3), [[Microsoft Excel]] (1)
 > **Env Vars:** sql (6)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - we (1)
 
-#### Setting up your environment for SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-excel-to-sql-26502092/setting-up-your-environment-for-sql?u=76281980)
+#### [Setting up your environment for SQL](https://www.linkedin.com/learning/from-excel-to-sql-26502092/setting-up-your-environment-for-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/from-excel-to-sql-26502092/setting-up-your-environment-for-sql?u=76281980&t=0)** - [Instructor] So, before you can dive in and start learning how to write and run SQL queries, you're going to need to do a little bit of setup.
+> **[0:00](https://www.linkedin.com/learning/from-excel-to-sql-26502092/setting-up-your-environment-for-sql?u=76281980&t=0)** - [Instructor] So, before you can dive in and start learning how to write and run [[SQL]] queries, you're going to need to do a little bit of setup.
 >
 > **[0:07](https://www.linkedin.com/learning/from-excel-to-sql-26502092/setting-up-your-environment-for-sql?u=76281980&t=7)** Specifically, you'll need a tool that can interpret your SQL scripts and return results from a database.
 >
@@ -139,7 +137,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/from-excel-to-sql-26502092/setting-up-your-environment-for-sql?u=76281980&t=23)** DB Browser, as I refer to it throughout this course, is a free tool for working with the SQLite database engine and it works on all platforms.
 >
-> **[0:32](https://www.linkedin.com/learning/from-excel-to-sql-26502092/setting-up-your-environment-for-sql?u=76281980&t=32)** There are many different SQL database engines out there, including MySQL, Microsoft SQL Server, and Oracle Databases to name just a few.
+> **[0:32](https://www.linkedin.com/learning/from-excel-to-sql-26502092/setting-up-your-environment-for-sql?u=76281980&t=32)** There are many different SQL database engines out there, including [[MySQL]], [[Microsoft SQL Server]], and Oracle [[Databases]] to name just a few.
 >
 > **[0:42](https://www.linkedin.com/learning/from-excel-to-sql-26502092/setting-up-your-environment-for-sql?u=76281980&t=42)** For this beginner's course, I wanted something easy to set up and use out of the box.
 >
@@ -185,9 +183,9 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/from-excel-to-sql-26502092/setting-up-your-environment-for-sql?u=76281980&t=163)** Don't worry too much about it now, but it's important to know it's here.
 >
-> **[2:47](https://www.linkedin.com/learning/from-excel-to-sql-26502092/setting-up-your-environment-for-sql?u=76281980&t=167)** The exercise files also contains a sample Excel spreadsheet, which I'll refer to throughout the course.
+> **[2:47](https://www.linkedin.com/learning/from-excel-to-sql-26502092/setting-up-your-environment-for-sql?u=76281980&t=167)** The exercise files also contains a sample [[Microsoft Excel|Excel]] spreadsheet, which I'll refer to throughout the course.
 >
-> **[2:54](https://www.linkedin.com/learning/from-excel-to-sql-26502092/setting-up-your-environment-for-sql?u=76281980&t=174)** To be able to open the spreadsheet locally, make sure you have access to Microsoft Excel.
+> **[2:54](https://www.linkedin.com/learning/from-excel-to-sql-26502092/setting-up-your-environment-for-sql?u=76281980&t=174)** To be able to open the spreadsheet locally, make sure you have access to [[Microsoft Excel]].
 >
 > **[2:59](https://www.linkedin.com/learning/from-excel-to-sql-26502092/setting-up-your-environment-for-sql?u=76281980&t=179)** If you have DB Browser and Microsoft Excel set up on your machine, then you're ready to go.
 >
@@ -195,7 +193,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (12), [[SQL]] (6), next (3), data (3), [[Microsoft Excel]] (2)
+> **Frameworks & Libraries:** [[SQL]] (6), [[Microsoft Excel]] (2), [[MySQL]] (1), [[Microsoft SQL Server]] (1), [[Databases]] (1)
 > **Env Vars:** sql (7)
 > **Exercise Files:** exercise files (4), download the (2)
 > **Prerequisites:** set up (2), setup (1), you'll need (1), make sure you have (1)
@@ -209,14 +207,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Spreadsheets vs. databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-excel-to-sql-26502092/spreadsheets-vs-databases?u=76281980)
+#### [Spreadsheets vs. databases](https://www.linkedin.com/learning/from-excel-to-sql-26502092/spreadsheets-vs-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/from-excel-to-sql-26502092/spreadsheets-vs-databases?u=76281980&t=0)** - Now, I know you might want to jump right into SQL and start learning how to query a database, but before we do that, it's helpful to take a moment to understand what a database is and how it's different from a spreadsheet.
+> **[0:00](https://www.linkedin.com/learning/from-excel-to-sql-26502092/spreadsheets-vs-databases?u=76281980&t=0)** - Now, I know you might want to jump right into [[SQL]] and start learning how to query a database, but before we do that, it's helpful to take a moment to understand what a database is and how it's different from a spreadsheet.
 >
-> **[0:12](https://www.linkedin.com/learning/from-excel-to-sql-26502092/spreadsheets-vs-databases?u=76281980&t=12)** This way, you can make the transition from something you're familiar with, like spreadsheets in Excel, to the next step of databases in SQL.
+> **[0:12](https://www.linkedin.com/learning/from-excel-to-sql-26502092/spreadsheets-vs-databases?u=76281980&t=12)** This way, you can make the transition from something you're familiar with, like spreadsheets in [[Microsoft Excel|Excel]], to the next step of [[Databases]] in SQL.
 >
 > **[0:22](https://www.linkedin.com/learning/from-excel-to-sql-26502092/spreadsheets-vs-databases?u=76281980&t=22)** So let's start with how they're the same.
 >
@@ -280,7 +277,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), database (9), [[Databases]] (5), [[SQL]] (3), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Databases]] (5), [[SQL]] (3), [[Microsoft Excel|Excel]] (2)
 > **Env Vars:** sql (3)
 > **Definitions:** defined as (1), is a  (1)
 > **Analogies:** similar to (1), for example (1)
@@ -288,14 +285,13 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - now (1)
 
-#### What is SQL?
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-excel-to-sql-26502092/what-is-sql?u=76281980)
+#### [What is SQL?](https://www.linkedin.com/learning/from-excel-to-sql-26502092/what-is-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/from-excel-to-sql-26502092/what-is-sql?u=76281980&t=0)** - So before we start to use SQL, let's take a moment and spend some time looking at what SQL actually is.
+> **[0:00](https://www.linkedin.com/learning/from-excel-to-sql-26502092/what-is-sql?u=76281980&t=0)** - So before we start to use [[SQL]], let's take a moment and spend some time looking at what SQL actually is.
 >
-> **[0:06](https://www.linkedin.com/learning/from-excel-to-sql-26502092/what-is-sql?u=76281980&t=6)** Firstly, SQL is a language, and it's a language you can use to talk to databases.
+> **[0:06](https://www.linkedin.com/learning/from-excel-to-sql-26502092/what-is-sql?u=76281980&t=6)** Firstly, SQL is a language, and it's a language you can use to talk to [[Databases]].
 >
 > **[0:12](https://www.linkedin.com/learning/from-excel-to-sql-26502092/what-is-sql?u=76281980&t=12)** It gives you the ability to ask a database questions.
 >
@@ -355,7 +351,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/from-excel-to-sql-26502092/what-is-sql?u=76281980&t=152)** I'm going to use uppercase keywords throughout the course.
 >
-> **[2:35](https://www.linkedin.com/learning/from-excel-to-sql-26502092/what-is-sql?u=76281980&t=155)** It'll help differentiate keywords from the rest of the statement.
+> **[2:35](https://www.linkedin.com/learning/from-excel-to-sql-26502092/what-is-sql?u=76281980&t=155)** It'll help differentiate keywords from the [[Representational State Transfer (REST)|rest]] of the statement.
 >
 > **[2:38](https://www.linkedin.com/learning/from-excel-to-sql-26502092/what-is-sql?u=76281980&t=158)** Whew, that was a lot of theory.
 >
@@ -365,7 +361,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (14), database (10), data (3), [[Databases]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[SQL]] (14), [[Databases]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** sql (14), where (5), select (4), crud (1)
 > **SQL:** where (5), select (4)
 > **Definitions:** is a  (2), known as (2), stands for (1)
@@ -379,8 +375,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Viewing data in SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-excel-to-sql-26502092/viewing-data-in-sql?u=76281980)
+#### [Viewing data in SQL](https://www.linkedin.com/learning/from-excel-to-sql-26502092/viewing-data-in-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -392,7 +387,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/from-excel-to-sql-26502092/viewing-data-in-sql?u=76281980&t=13)** What are the different column headings, how many rows are there, how do they relate to each other, and what kind of data format are used within the individual cells.
 >
-> **[0:22](https://www.linkedin.com/learning/from-excel-to-sql-26502092/viewing-data-in-sql?u=76281980&t=22)** Essentially what you're doing is just exploring, and when you first start working with an SQL database, you can do the same thing.
+> **[0:22](https://www.linkedin.com/learning/from-excel-to-sql-26502092/viewing-data-in-sql?u=76281980&t=22)** Essentially what you're doing is just exploring, and when you first start working with an [[SQL]] database, you can do the same thing.
 >
 > **[0:30](https://www.linkedin.com/learning/from-excel-to-sql-26502092/viewing-data-in-sql?u=76281980&t=30)** One place you can start is by inspecting the database's structure and the data it contains.
 >
@@ -462,7 +457,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (13), data (11), [[SQL]] (6), next (3), hit (2)
+> **Frameworks & Libraries:** [[SQL]] (6)
 > **Env Vars:** sql (6)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** imagine (1), for instance (1)
@@ -470,18 +465,17 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - imagine (1)
 
-#### Identifying columns in SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-excel-to-sql-26502092/identifying-columns-in-sql?u=76281980)
+#### [Identifying columns in SQL](https://www.linkedin.com/learning/from-excel-to-sql-26502092/identifying-columns-in-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/from-excel-to-sql-26502092/identifying-columns-in-sql?u=76281980&t=0)** - So let's say you want to narrow down your data to focus on some specific information.
 >
-> **[0:05](https://www.linkedin.com/learning/from-excel-to-sql-26502092/identifying-columns-in-sql?u=76281980&t=5)** One of the things you can do is reduce the number of columns returned by your SQL query.
+> **[0:05](https://www.linkedin.com/learning/from-excel-to-sql-26502092/identifying-columns-in-sql?u=76281980&t=5)** One of the things you can do is reduce the number of columns returned by your [[SQL]] query.
 >
 > **[0:10](https://www.linkedin.com/learning/from-excel-to-sql-26502092/identifying-columns-in-sql?u=76281980&t=10)** So you're only looking at the data you want to see.
 >
-> **[0:13](https://www.linkedin.com/learning/from-excel-to-sql-26502092/identifying-columns-in-sql?u=76281980&t=13)** Now, if you were doing this in Excel, you might choose to hide a column of data to remove it from view.
+> **[0:13](https://www.linkedin.com/learning/from-excel-to-sql-26502092/identifying-columns-in-sql?u=76281980&t=13)** Now, if you were doing this in [[Microsoft Excel|Excel]], you might choose to hide a column of data to remove it from view.
 >
 > **[0:19](https://www.linkedin.com/learning/from-excel-to-sql-26502092/identifying-columns-in-sql?u=76281980&t=19)** You can perform a similar operation with your SELECT statement, but instead of hiding that column, what you're actually doing is not including that column in your query.
 >
@@ -543,7 +537,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[SQL]] (2), database (2), [[Microsoft Excel|Excel]] (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Microsoft Excel|Excel]] (1)
 > **Code Identifiers:** last_name (6), first_name (5), last_names (1)
 > **Env Vars:** select (4), sql (2)
 > **SQL:** select (4)
@@ -551,16 +545,15 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - so (1)
 
-#### Filtering rows in SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-excel-to-sql-26502092/filtering-rows-in-sql?u=76281980)
+#### [Filtering rows in SQL](https://www.linkedin.com/learning/from-excel-to-sql-26502092/filtering-rows-in-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/from-excel-to-sql-26502092/filtering-rows-in-sql?u=76281980&t=0)** - Say you're working with an Excel spreadsheet and it's filled with thousands of rows of data, the problem is you're only interested in a small amount of that data.
+> **[0:00](https://www.linkedin.com/learning/from-excel-to-sql-26502092/filtering-rows-in-sql?u=76281980&t=0)** - Say you're working with an [[Microsoft Excel|Excel]] spreadsheet and it's filled with thousands of rows of data, the problem is you're only interested in a small amount of that data.
 >
 > **[0:09](https://www.linkedin.com/learning/from-excel-to-sql-26502092/filtering-rows-in-sql?u=76281980&t=9)** So what you would probably do in that case is reduce down the size of the dataset by using a filter.
 >
-> **[0:14](https://www.linkedin.com/learning/from-excel-to-sql-26502092/filtering-rows-in-sql?u=76281980&t=14)** We can do the same thing in SQL to filter your data stored in the database.
+> **[0:14](https://www.linkedin.com/learning/from-excel-to-sql-26502092/filtering-rows-in-sql?u=76281980&t=14)** We can do the same thing in [[SQL]] to filter your data stored in the database.
 >
 > **[0:19](https://www.linkedin.com/learning/from-excel-to-sql-26502092/filtering-rows-in-sql?u=76281980&t=19)** What you're going to do is add a WHERE clause to your SELECT statement.
 >
@@ -592,7 +585,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/from-excel-to-sql-26502092/filtering-rows-in-sql?u=76281980&t=113)** One thing you might notice is the use of the = within the WHERE clause.
 >
-> **[1:58](https://www.linkedin.com/learning/from-excel-to-sql-26502092/filtering-rows-in-sql?u=76281980&t=118)** And this means the word within the quotes needs to match exactly with the word in the column, and so = is case sensitive.
+> **[1:58](https://www.linkedin.com/learning/from-excel-to-sql-26502092/filtering-rows-in-sql?u=76281980&t=118)** And this means the [[Microsoft Word|word]] within the quotes needs to match exactly with the word in the column, and so = is case sensitive.
 >
 > **[2:06](https://www.linkedin.com/learning/from-excel-to-sql-26502092/filtering-rows-in-sql?u=76281980&t=126)** So you need to make sure that what you enter exists within your database.
 >
@@ -622,7 +615,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/from-excel-to-sql-26502092/filtering-rows-in-sql?u=76281980&t=228)** So make sure you stick to SELECT first, FROM next and then WHERE.
 >
-> **[3:54](https://www.linkedin.com/learning/from-excel-to-sql-26502092/filtering-rows-in-sql?u=76281980&t=234)** So let's zoom out a little bit and consider the data for the whole company again.
+> **[3:54](https://www.linkedin.com/learning/from-excel-to-sql-26502092/filtering-rows-in-sql?u=76281980&t=234)** So let's [[Zoom]] out a little bit and consider the data for the whole company again.
 >
 > **[3:57](https://www.linkedin.com/learning/from-excel-to-sql-26502092/filtering-rows-in-sql?u=76281980&t=237)** Let's say you want to find out who wears a large T-shirt size.
 >
@@ -650,7 +643,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[SQL]] (3), [[Microsoft Excel|Excel]] (2), database (2), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Microsoft Excel|Excel]] (2), [[Microsoft Word|Word]] (2), [[Zoom]] (1)
 > **Env Vars:** where (10), select (9), sql (3)
 > **SQL:** where (10), select (9)
 > **Code Identifiers:** first_name (4), last_name (4), tshirt_size (2)
@@ -659,8 +652,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - say (1)
 
-#### Combining filters in SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-excel-to-sql-26502092/combining-filters-in-sql?u=76281980)
+#### [Combining filters in SQL](https://www.linkedin.com/learning/from-excel-to-sql-26502092/combining-filters-in-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -678,13 +670,13 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/from-excel-to-sql-26502092/combining-filters-in-sql?u=76281980&t=36)** This would be an example of combining filters using an OR operator.
 >
-> **[0:41](https://www.linkedin.com/learning/from-excel-to-sql-26502092/combining-filters-in-sql?u=76281980&t=41)** When working in Excel, you might choose to use a custom filter to do this.
+> **[0:41](https://www.linkedin.com/learning/from-excel-to-sql-26502092/combining-filters-in-sql?u=76281980&t=41)** When working in [[Microsoft Excel|Excel]], you might choose to use a custom filter to do this.
 >
 > **[0:45](https://www.linkedin.com/learning/from-excel-to-sql-26502092/combining-filters-in-sql?u=76281980&t=45)** So for instance, if I want to filter by marketing and sales in the department column, I might choose text filters, custom filter, and then enter marketing and then select all and equals sales and then click Okay.
 >
 > **[1:11](https://www.linkedin.com/learning/from-excel-to-sql-26502092/combining-filters-in-sql?u=76281980&t=71)** Now you can see that the department column only shows sales and marketing employees.
 >
-> **[1:17](https://www.linkedin.com/learning/from-excel-to-sql-26502092/combining-filters-in-sql?u=76281980&t=77)** SQL provides some similar options for filtering the rows that are returned by the database.
+> **[1:17](https://www.linkedin.com/learning/from-excel-to-sql-26502092/combining-filters-in-sql?u=76281980&t=77)** [[SQL]] provides some similar options for filtering the rows that are returned by the database.
 >
 > **[1:21](https://www.linkedin.com/learning/from-excel-to-sql-26502092/combining-filters-in-sql?u=76281980&t=81)** Let's see how this works in SQL.
 >
@@ -788,18 +780,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (7), data (5), [[Microsoft Excel|Excel]] (5), database (3), teams (2)
+> **Frameworks & Libraries:** [[SQL]] (7), [[Microsoft Excel|Excel]] (5)
 > **Env Vars:** sql (7)
 > **Analogies:** for instance (3), for example (2)
 > **CLI Commands:** find (3)
 > **Speakers:** - when (1)
 
-#### Limiting results in SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-excel-to-sql-26502092/limiting-results-in-sql?u=76281980)
+#### [Limiting results in SQL](https://www.linkedin.com/learning/from-excel-to-sql-26502092/limiting-results-in-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/from-excel-to-sql-26502092/limiting-results-in-sql?u=76281980&t=0)** - So, generally, when you first start executing SQL queries, it's pretty normal to let the database return all the rows of results that it has available.
+> **[0:00](https://www.linkedin.com/learning/from-excel-to-sql-26502092/limiting-results-in-sql?u=76281980&t=0)** - So, generally, when you first start executing [[SQL]] queries, it's pretty normal to let the database return all the rows of results that it has available.
 >
 > **[0:09](https://www.linkedin.com/learning/from-excel-to-sql-26502092/limiting-results-in-sql?u=76281980&t=9)** And when you're working with a small data set, like we have in these examples, then the database isn't going to have a problem returning a few 100 rows or even a few 1000.
 >
@@ -807,7 +798,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/from-excel-to-sql-26502092/limiting-results-in-sql?u=76281980&t=24)** Requesting all that data can have a performance impact on the database and how quickly your results are returned.
 >
-> **[0:31](https://www.linkedin.com/learning/from-excel-to-sql-26502092/limiting-results-in-sql?u=76281980&t=31)** Think of it this way, when you do a search on Google, it's only showing you the first 10 results, even though there are thousands of possible results, it could show you, it controls the number of results that you see.
+> **[0:31](https://www.linkedin.com/learning/from-excel-to-sql-26502092/limiting-results-in-sql?u=76281980&t=31)** Think of it this way, when you do a search on [[Google]], it's only showing you the first 10 results, even though there are thousands of possible results, it could show you, it controls the number of results that you see.
 >
 > **[0:43](https://www.linkedin.com/learning/from-excel-to-sql-26502092/limiting-results-in-sql?u=76281980&t=43)** So, to reduce the number of rows of data that's returned for your queries, you can use the limit keyword.
 >
@@ -833,7 +824,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/from-excel-to-sql-26502092/limiting-results-in-sql?u=76281980&t=111)** So, I'll add where, T-shirt size, (computer keys clacking) equals L. (computer keys clacking) Once again, we run the query and you can see we still got 10 results back, but this time they're all employees that wear a large T-shirt size.
 >
-> **[2:09](https://www.linkedin.com/learning/from-excel-to-sql-26502092/limiting-results-in-sql?u=76281980&t=129)** Now, you might be thinking it's great that you can see the first 10, but what about the rest?
+> **[2:09](https://www.linkedin.com/learning/from-excel-to-sql-26502092/limiting-results-in-sql?u=76281980&t=129)** Now, you might be thinking it's great that you can see the first 10, but what about the [[Representational State Transfer (REST)|rest]]?
 >
 > **[2:16](https://www.linkedin.com/learning/from-excel-to-sql-26502092/limiting-results-in-sql?u=76281980&t=136)** What if for some reason you need to see the 11th record and find out who that employee is?
 >
@@ -861,15 +852,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), data (4), [[Search]] (2), [[SQL]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[Google]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Non-Speech:** (computer mouse clicking) (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** sql (1)
 > **Analogies:** for example (1)
 > **Speakers:** - so (1)
 
-#### Comparison operators in SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-excel-to-sql-26502092/comparison-operators-in-sql?u=76281980)
+#### [Comparison operators in SQL](https://www.linkedin.com/learning/from-excel-to-sql-26502092/comparison-operators-in-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -911,19 +901,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** find (4), make (1)
 > **Env Vars:** where (2), is_not (1)
 > **SQL:** where (2)
 > **Code Identifiers:** vacation_taken (1)
 > **Speakers:** - [instructor] (1)
 
-#### The LIKE operator in SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-excel-to-sql-26502092/the-like-operator-in-sql?u=76281980)
+#### [The LIKE operator in SQL](https://www.linkedin.com/learning/from-excel-to-sql-26502092/the-like-operator-in-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/from-excel-to-sql-26502092/the-like-operator-in-sql?u=76281980&t=0)** - [Instructor] So, one operator you're going to find really useful when working with SQL is the LIKE operator.
+> **[0:00](https://www.linkedin.com/learning/from-excel-to-sql-26502092/the-like-operator-in-sql?u=76281980&t=0)** - [Instructor] So, one operator you're going to find really useful when working with [[SQL]] is the LIKE operator.
 >
 > **[0:05](https://www.linkedin.com/learning/from-excel-to-sql-26502092/the-like-operator-in-sql?u=76281980&t=5)** And the LIKE operator allows you to search for patterns within a column.
 >
@@ -961,7 +949,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2), [[SQL]] (1), power (1), next (1), data (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **CLI Commands:** find (5), make (1)
 > **Env Vars:** where (2), sql (1)
 > **SQL:** where (2)
@@ -975,12 +963,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using SUM in SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-excel-to-sql-26502092/using-sum-in-sql?u=76281980)
+#### [Using SUM in SQL](https://www.linkedin.com/learning/from-excel-to-sql-26502092/using-sum-in-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/from-excel-to-sql-26502092/using-sum-in-sql?u=76281980&t=0)** - One of the most popular functions in Excel is a Sum function.
+> **[0:00](https://www.linkedin.com/learning/from-excel-to-sql-26502092/using-sum-in-sql?u=76281980&t=0)** - One of the most popular functions in [[Microsoft Excel|Excel]] is a Sum function.
 >
 > **[0:03](https://www.linkedin.com/learning/from-excel-to-sql-26502092/using-sum-in-sql?u=76281980&t=3)** Chances are, if you have some experience with Excel, that you've probably used it to add up the contents of a column.
 >
@@ -994,7 +981,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/from-excel-to-sql-26502092/using-sum-in-sql?u=76281980&t=32)** And you can see the number of desks is 606.
 >
-> **[0:35](https://www.linkedin.com/learning/from-excel-to-sql-26502092/using-sum-in-sql?u=76281980&t=35)** Well, it just so happens that SQL has its own Sum function that can be used to add up the numbers of a column just like you would in Excel.
+> **[0:35](https://www.linkedin.com/learning/from-excel-to-sql-26502092/using-sum-in-sql?u=76281980&t=35)** Well, it just so happens that [[SQL]] has its own Sum function that can be used to add up the numbers of a column just like you would in Excel.
 >
 > **[0:43](https://www.linkedin.com/learning/from-excel-to-sql-26502092/using-sum-in-sql?u=76281980&t=43)** Let's open up DB Browser and take a look at how you can use the Sum function in SQL.
 >
@@ -1038,7 +1025,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (8), [[SQL]] (5), hit (2), next (2), data (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (8), [[SQL]] (5)
 > **Env Vars:** sql (5), sum (1), e11 (1)
 > **Code Identifiers:** num_desks (3)
 > **Definitions:** is a  (2)
@@ -1046,16 +1033,15 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - one (1)
 
-#### AVG, MIN, MAX, and COUNT in SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-excel-to-sql-26502092/average-min-max-and-count-in-sql?u=76281980)
+#### [AVG, MIN, MAX, and COUNT in SQL](https://www.linkedin.com/learning/from-excel-to-sql-26502092/average-min-max-and-count-in-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/from-excel-to-sql-26502092/average-min-max-and-count-in-sql?u=76281980&t=0)** - When working with numbers in a database, SQL provides some useful functions.
+> **[0:00](https://www.linkedin.com/learning/from-excel-to-sql-26502092/average-min-max-and-count-in-sql?u=76281980&t=0)** - When working with numbers in a database, [[SQL]] provides some useful functions.
 >
 > **[0:05](https://www.linkedin.com/learning/from-excel-to-sql-26502092/average-min-max-and-count-in-sql?u=76281980&t=5)** Let's take a look at a few of the most popular ones that might come in handy as you're analyzing your data.
 >
-> **[0:11](https://www.linkedin.com/learning/from-excel-to-sql-26502092/average-min-max-and-count-in-sql?u=76281980&t=11)** You've likely come across the average function in Excel.
+> **[0:11](https://www.linkedin.com/learning/from-excel-to-sql-26502092/average-min-max-and-count-in-sql?u=76281980&t=11)** You've likely come across the average function in [[Microsoft Excel|Excel]].
 >
 > **[0:14](https://www.linkedin.com/learning/from-excel-to-sql-26502092/average-min-max-and-count-in-sql?u=76281980&t=14)** This will calculate the numerical average of a collection of numbers.
 >
@@ -1137,7 +1123,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (4), data (3), [[Microsoft Excel|Excel]] (2), database (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Microsoft Excel|Excel]] (2)
 > **Env Vars:** sql (4), g101 (1), avg (1)
 > **CLI Commands:** find (3)
 > **Definitions:** is called (1), is a  (1)
@@ -1145,8 +1131,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - when (1)
 
-#### Finding unique values in SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-excel-to-sql-26502092/finding-unique-values-in-sql?u=76281980)
+#### [Finding unique values in SQL](https://www.linkedin.com/learning/from-excel-to-sql-26502092/finding-unique-values-in-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1160,7 +1145,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/from-excel-to-sql-26502092/finding-unique-values-in-sql?u=76281980&t=25)** You want to have an idea of the full range so that you can find a manufacturer that covers every size, but you don't necessarily want to scroll through and look at each employee individually.
 >
-> **[0:36](https://www.linkedin.com/learning/from-excel-to-sql-26502092/finding-unique-values-in-sql?u=76281980&t=36)** Now in Excel, there are multiple ways you can view the unique values within a column.
+> **[0:36](https://www.linkedin.com/learning/from-excel-to-sql-26502092/finding-unique-values-in-sql?u=76281980&t=36)** Now in [[Microsoft Excel|Excel]], there are multiple ways you can view the unique values within a column.
 >
 > **[0:41](https://www.linkedin.com/learning/from-excel-to-sql-26502092/finding-unique-values-in-sql?u=76281980&t=41)** One way you might choose is to use the advanced filter within the data section for Excel.
 >
@@ -1176,7 +1161,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/from-excel-to-sql-26502092/finding-unique-values-in-sql?u=76281980&t=91)** What we have here is now a list of the distinct values with all the duplicates removed.
 >
-> **[1:37](https://www.linkedin.com/learning/from-excel-to-sql-26502092/finding-unique-values-in-sql?u=76281980&t=97)** As we move over to SQL, we can find the unique values within a column by using the DISTINCT function.
+> **[1:37](https://www.linkedin.com/learning/from-excel-to-sql-26502092/finding-unique-values-in-sql?u=76281980&t=97)** As we move over to [[SQL]], we can find the unique values within a column by using the DISTINCT function.
 >
 > **[1:43](https://www.linkedin.com/learning/from-excel-to-sql-26502092/finding-unique-values-in-sql?u=76281980&t=103)** So let's take a look at how to use the DISTINCT function to list the unique T-shirt sizes for our company.
 >
@@ -1222,7 +1207,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[SQL]] (3), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Microsoft Excel|Excel]] (2)
 > **Env Vars:** null (6), distinct (4), sql (3), where (2), select (1)
 > **Code Identifiers:** tshirt_size (6)
 > **CLI Commands:** find (3), make (1)
@@ -1231,12 +1216,11 @@ created: 2026-05-02
 > **Analogies:** for instance (1), imagine (1)
 > **Speakers:** - so (1)
 
-#### UPPER, LOWER, and LENGTH in SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-excel-to-sql-26502092/upper-lower-and-length-in-sql?u=76281980)
+#### [UPPER, LOWER, and LENGTH in SQL](https://www.linkedin.com/learning/from-excel-to-sql-26502092/upper-lower-and-length-in-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/from-excel-to-sql-26502092/upper-lower-and-length-in-sql?u=76281980&t=0)** - [Instructor] So some functions you might find useful in SQL, especially when working with text data, are the UPPER, LOWER, and LENGTH functions.
+> **[0:00](https://www.linkedin.com/learning/from-excel-to-sql-26502092/upper-lower-and-length-in-sql?u=76281980&t=0)** - [Instructor] So some functions you might find useful in [[SQL]], especially when working with text data, are the UPPER, LOWER, and LENGTH functions.
 >
 > **[0:08](https://www.linkedin.com/learning/from-excel-to-sql-26502092/upper-lower-and-length-in-sql?u=76281980&t=8)** To demonstrate how these work, I've created a simple SQL statement, and we'll update the SELECT to include these functions, so let's first look at the UPPER function.
 >
@@ -1252,7 +1236,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[SQL]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[SQL]] (2)
 > **Env Vars:** length (6), upper (5), lower (4), sql (2), where (2)
 > **CLI Commands:** find (3), make (1)
 > **SQL:** where (2), select (1)
@@ -1265,8 +1249,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Sorting data
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-excel-to-sql-26502092/sorting-data?u=76281980)
+#### [Sorting data](https://www.linkedin.com/learning/from-excel-to-sql-26502092/sorting-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1274,7 +1257,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/from-excel-to-sql-26502092/sorting-data?u=76281980&t=7)** One of the ways we can better understand our data is by sorting it.
 >
-> **[0:12](https://www.linkedin.com/learning/from-excel-to-sql-26502092/sorting-data?u=76281980&t=12)** When it comes to sorting data in an Excel spreadsheet, it's pretty simple.
+> **[0:12](https://www.linkedin.com/learning/from-excel-to-sql-26502092/sorting-data?u=76281980&t=12)** When it comes to sorting data in an [[Microsoft Excel|Excel]] spreadsheet, it's pretty simple.
 >
 > **[0:16](https://www.linkedin.com/learning/from-excel-to-sql-26502092/sorting-data?u=76281980&t=16)** You just select a column you want to sort and then choose how you want to sort it.
 >
@@ -1284,7 +1267,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/from-excel-to-sql-26502092/sorting-data?u=76281980&t=38)** And here we can see that now the names are all sorted alphabetically from A to Z.
 >
-> **[0:43](https://www.linkedin.com/learning/from-excel-to-sql-26502092/sorting-data?u=76281980&t=43)** So how can you sort your results in SQL?
+> **[0:43](https://www.linkedin.com/learning/from-excel-to-sql-26502092/sorting-data?u=76281980&t=43)** So how can you sort your results in [[SQL]]?
 >
 > **[0:45](https://www.linkedin.com/learning/from-excel-to-sql-26502092/sorting-data?u=76281980&t=45)** Well, all you have to do is add an order by clause to your query.
 >
@@ -1356,7 +1339,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), database (4), [[Microsoft Excel|Excel]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[SQL]] (1)
 > **Env Vars:** order (6), desc (2), sql (1), asc (1)
 > **Code Identifiers:** first_name (5), tshirt_size (4)
 > **SQL:** order by (6)
@@ -1364,8 +1347,7 @@ created: 2026-05-02
 > **UI Navigation:** dropdown (1), scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Grouping data
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-excel-to-sql-26502092/grouping-data?u=76281980)
+#### [Grouping data](https://www.linkedin.com/learning/from-excel-to-sql-26502092/grouping-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1423,7 +1405,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/from-excel-to-sql-26502092/grouping-data?u=76281980&t=168)** And now you can see our results have been filtered to only include departments with a headcount less than 10.
 >
-> **[2:53](https://www.linkedin.com/learning/from-excel-to-sql-26502092/grouping-data?u=76281980&t=173)** Now there's one more step you can take to clean up this SQL query, and that's to remove the duplicate COUNT department condition here.
+> **[2:53](https://www.linkedin.com/learning/from-excel-to-sql-26502092/grouping-data?u=76281980&t=173)** Now there's one more step you can take to clean up this [[SQL]] query, and that's to remove the duplicate COUNT department condition here.
 >
 > **[3:01](https://www.linkedin.com/learning/from-excel-to-sql-26502092/grouping-data?u=76281980&t=181)** We can do that by using an alias in a SELECT statement.
 >
@@ -1445,7 +1427,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), power (2), [[SQL]] (2), database (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (2)
 > **Env Vars:** group (9), having (7), count (5), order (3), select (2)
 > **SQL:** group by (9), having (7), order by (3), select (2), where (1)
 > **Analogies:** imagine (2), similar to (1)
@@ -1453,16 +1435,15 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - now (1)
 
-#### Using a pivot table in SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-excel-to-sql-26502092/using-a-pivottable-in-sql?u=76281980)
+#### [Using a pivot table in SQL](https://www.linkedin.com/learning/from-excel-to-sql-26502092/using-a-pivottable-in-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/from-excel-to-sql-26502092/using-a-pivottable-in-sql?u=76281980&t=0)** - So let's imagine you want to find out how many t-shirts of each size you need to purchase for all the employees in your company.
 >
-> **[0:07](https://www.linkedin.com/learning/from-excel-to-sql-26502092/using-a-pivottable-in-sql?u=76281980&t=7)** In Excel, you could use a simple pivot table to put this kind of data together, and perhaps you already have some experience with pivot tables doing something similar.
+> **[0:07](https://www.linkedin.com/learning/from-excel-to-sql-26502092/using-a-pivottable-in-sql?u=76281980&t=7)** In [[Microsoft Excel|Excel]], you could use a simple pivot table to put this kind of data together, and perhaps you already have some experience with [[Pivot Tables]] doing something similar.
 >
-> **[0:16](https://www.linkedin.com/learning/from-excel-to-sql-26502092/using-a-pivottable-in-sql?u=76281980&t=16)** So what would this look like in SQL?
+> **[0:16](https://www.linkedin.com/learning/from-excel-to-sql-26502092/using-a-pivottable-in-sql?u=76281980&t=16)** So what would this look like in [[SQL]]?
 >
 > **[0:19](https://www.linkedin.com/learning/from-excel-to-sql-26502092/using-a-pivottable-in-sql?u=76281980&t=19)** In the sample spreadsheet, I provide an example of a pivot table under the pivot table Employees sheet.
 >
@@ -1522,7 +1503,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (6), database (2), [[Microsoft Excel|Excel]] (1), data (1), [[Pivot Tables]] (1)
+> **Frameworks & Libraries:** [[SQL]] (6), [[Microsoft Excel|Excel]] (1), [[Pivot Tables]] (1)
 > **Env Vars:** sql (6), group (3), count (2), having (2), select (1)
 > **SQL:** group by (3), having (2), select (1)
 > **Code Identifiers:** tshirt_size (3)
@@ -1531,8 +1512,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - so (1)
 
-#### Subqueries in SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-excel-to-sql-26502092/subqueries-in-sql?u=76281980)
+#### [Subqueries in SQL](https://www.linkedin.com/learning/from-excel-to-sql-26502092/subqueries-in-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1542,7 +1522,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/from-excel-to-sql-26502092/subqueries-in-sql?u=76281980&t=11)** So how can we do that?
 >
-> **[0:12](https://www.linkedin.com/learning/from-excel-to-sql-26502092/subqueries-in-sql?u=76281980&t=12)** What should our SQL statement look like?
+> **[0:12](https://www.linkedin.com/learning/from-excel-to-sql-26502092/subqueries-in-sql?u=76281980&t=12)** What should our [[SQL]] statement look like?
 >
 > **[0:15](https://www.linkedin.com/learning/from-excel-to-sql-26502092/subqueries-in-sql?u=76281980&t=15)** Let's head over to DB Browser and see what we might do.
 >
@@ -1608,21 +1588,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (2), data (2), next (1), database (1)
+> **Frameworks & Libraries:** [[SQL]] (2)
 > **CLI Commands:** find (4)
 > **Env Vars:** sql (2), desc (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - let (1)
 
-#### Advanced subqueries in SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-excel-to-sql-26502092/advanced-subqueries-in-sql?u=76281980)
+#### [Advanced subqueries in SQL](https://www.linkedin.com/learning/from-excel-to-sql-26502092/advanced-subqueries-in-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/from-excel-to-sql-26502092/advanced-subqueries-in-sql?u=76281980&t=0)** - So we know the subqueries let you drill down on specific results within a single table.
 >
-> **[0:06](https://www.linkedin.com/learning/from-excel-to-sql-26502092/advanced-subqueries-in-sql?u=76281980&t=6)** In the SQL query you can see here, I'm using a subquery to find the highest number of vacation days taken by any employee, and then returning those employees that match those many days.
+> **[0:06](https://www.linkedin.com/learning/from-excel-to-sql-26502092/advanced-subqueries-in-sql?u=76281980&t=6)** In the [[SQL]] query you can see here, I'm using a subquery to find the highest number of vacation days taken by any employee, and then returning those employees that match those many days.
 >
 > **[0:18](https://www.linkedin.com/learning/from-excel-to-sql-26502092/advanced-subqueries-in-sql?u=76281980&t=18)** Now we can take this a step further and make subqueries do even more by combining data from two or more tables.
 >
@@ -1660,7 +1639,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/from-excel-to-sql-26502092/advanced-subqueries-in-sql?u=76281980&t=150)** Now run the query.
 >
-> **[2:33](https://www.linkedin.com/learning/from-excel-to-sql-26502092/advanced-subqueries-in-sql?u=76281980&t=153)** All right, so now we have a list of all the employees who work in the business development department in California.
+> **[2:33](https://www.linkedin.com/learning/from-excel-to-sql-26502092/advanced-subqueries-in-sql?u=76281980&t=153)** All right, so now we have a list of all the employees who work in the [[Business Development]] department in California.
 >
 > **[2:42](https://www.linkedin.com/learning/from-excel-to-sql-26502092/advanced-subqueries-in-sql?u=76281980&t=162)** Let's verify that we're getting the right information by running the subquery on its own.
 >
@@ -1718,7 +1697,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[SQL]] (4), [[Business Development]] (2), [[Engineering]] (2), next (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Business Development]] (2)
 > **Env Vars:** sql (4), select (2), where (2), order (2)
 > **SQL:** select (2), where (2), order by (2)
 > **CLI Commands:** make (3), find (2)
@@ -1732,8 +1711,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using joins
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-excel-to-sql-26502092/using-joins?u=76281980)
+#### [Using joins](https://www.linkedin.com/learning/from-excel-to-sql-26502092/using-joins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1743,7 +1721,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/from-excel-to-sql-26502092/using-joins?u=76281980&t=13)** Let's open up DB browser and view the contents of the department's table using the Browse Data tab.
 >
-> **[0:21](https://www.linkedin.com/learning/from-excel-to-sql-26502092/using-joins?u=76281980&t=21)** You can see here that we have an office_manager Id, but what if we wanted to find out the names of the office managers for each department?
+> **[0:21](https://www.linkedin.com/learning/from-excel-to-sql-26502092/using-joins?u=76281980&t=21)** You can see here that we have an office_manager Id, but what if we wanted to find out the names of the [[Microsoft Office|office]] managers for each department?
 >
 > **[0:30](https://www.linkedin.com/learning/from-excel-to-sql-26502092/using-joins?u=76281980&t=30)** Names are stored in the Employees table.
 >
@@ -1751,7 +1729,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/from-excel-to-sql-26502092/using-joins?u=76281980&t=49)** And this is important because we can use this relationship to ask the database for the names of the office managers.
 >
-> **[0:55](https://www.linkedin.com/learning/from-excel-to-sql-26502092/using-joins?u=76281980&t=55)** Let's head over to the Execute SQL tab and start our query.
+> **[0:55](https://www.linkedin.com/learning/from-excel-to-sql-26502092/using-joins?u=76281980&t=55)** Let's head over to the Execute [[SQL]] tab and start our query.
 >
 > **[1:02](https://www.linkedin.com/learning/from-excel-to-sql-26502092/using-joins?u=76281980&t=62)** To start, we'll ask for the first and last names of each employee and ask for the department name.
 >
@@ -1791,21 +1769,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), [[Microsoft Office|Office]] (4), data (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (4), [[SQL]] (1)
 > **Env Vars:** join (6), sql (1), select (1)
 > **SQL:** join (6), select (1)
 > **Code Identifiers:** office_manager (3), first_name (1), last_name (1), office_manager_id (1)
 > **CLI Commands:** find (2)
 > **Speakers:** - when (1)
 
-#### The different types of joins
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-excel-to-sql-26502092/the-different-types-of-joins?u=76281980)
+#### [The different types of joins](https://www.linkedin.com/learning/from-excel-to-sql-26502092/the-different-types-of-joins?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/from-excel-to-sql-26502092/the-different-types-of-joins?u=76281980&t=0)** - So when you're working with data that's spread across multiple tables, you have some options for how to combine that data.
 >
-> **[0:07](https://www.linkedin.com/learning/from-excel-to-sql-26502092/the-different-types-of-joins?u=76281980&t=7)** Now, when we started with the basics on the join clause, we combined two tables to find the names of the company's office managers, and here's how we wrote that query.
+> **[0:07](https://www.linkedin.com/learning/from-excel-to-sql-26502092/the-different-types-of-joins?u=76281980&t=7)** Now, when we started with the basics on the join clause, we combined two tables to find the names of the company's [[Microsoft Office|office]] managers, and here's how we wrote that query.
 >
 > **[0:16](https://www.linkedin.com/learning/from-excel-to-sql-26502092/the-different-types-of-joins?u=76281980&t=16)** And now let's quickly run that query again.
 >
@@ -1843,7 +1820,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/from-excel-to-sql-26502092/the-different-types-of-joins?u=76281980&t=120)** To generate this report, we can use a left join.
 >
-> **[2:04](https://www.linkedin.com/learning/from-excel-to-sql-26502092/the-different-types-of-joins?u=76281980&t=124)** So let's head back to the XQ SQL tab and start a new query.
+> **[2:04](https://www.linkedin.com/learning/from-excel-to-sql-26502092/the-different-types-of-joins?u=76281980&t=124)** So let's head back to the XQ [[SQL]] tab and start a new query.
 >
 > **[2:10](https://www.linkedin.com/learning/from-excel-to-sql-26502092/the-different-types-of-joins?u=76281980&t=130)** And to start the query, I'll click close on the current query and then click discard.
 >
@@ -1891,7 +1868,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Microsoft Office|Office]] (2), database (2), next (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[SQL]] (1)
 > **Env Vars:** sql (1), select (1), left (1), join (1)
 > **Code Identifiers:** first_name (1), last_name (1), date_complete (1)
 > **SQL:** select (1), left join (1)
@@ -1900,12 +1877,11 @@ created: 2026-05-02
 > **Cross-References:** we covered (1)
 > **UI Navigation:** dropdown (1)
 
-#### Using VLOOKUP, HLOOKUP, and XLOOKUP in SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-excel-to-sql-26502092/using-vlookup-hlookup-xlookup-in-sql?u=76281980)
+#### [Using VLOOKUP, HLOOKUP, and XLOOKUP in SQL](https://www.linkedin.com/learning/from-excel-to-sql-26502092/using-vlookup-hlookup-xlookup-in-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/from-excel-to-sql-26502092/using-vlookup-hlookup-xlookup-in-sql?u=76281980&t=0)** - If you want to combine data from different tables and worksheets in Excel, chances are you've reached for one of the various lookup functions that Excel provides.
+> **[0:00](https://www.linkedin.com/learning/from-excel-to-sql-26502092/using-vlookup-hlookup-xlookup-in-sql?u=76281980&t=0)** - If you want to combine data from different tables and worksheets in [[Microsoft Excel|Excel]], chances are you've reached for one of the various lookup functions that Excel provides.
 >
 > **[0:08](https://www.linkedin.com/learning/from-excel-to-sql-26502092/using-vlookup-hlookup-xlookup-in-sql?u=76281980&t=8)** So, we're talking about VLOOKUP, HLOOKUP, or the newer XLOOKUP.
 >
@@ -1915,7 +1891,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/from-excel-to-sql-26502092/using-vlookup-hlookup-xlookup-in-sql?u=76281980&t=25)** And you might have done something similar to this before.
 >
-> **[0:28](https://www.linkedin.com/learning/from-excel-to-sql-26502092/using-vlookup-hlookup-xlookup-in-sql?u=76281980&t=28)** Now, the bad news is there is no function called VLOOKUP, HLOOKUP, or XLOOKUP in SQL.
+> **[0:28](https://www.linkedin.com/learning/from-excel-to-sql-26502092/using-vlookup-hlookup-xlookup-in-sql?u=76281980&t=28)** Now, the bad news is there is no function called VLOOKUP, HLOOKUP, or XLOOKUP in [[SQL]].
 >
 > **[0:35](https://www.linkedin.com/learning/from-excel-to-sql-26502092/using-vlookup-hlookup-xlookup-in-sql?u=76281980&t=35)** The good news is they can still combine data from multiple tables by using the JOIN clause.
 >
@@ -1953,7 +1929,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), data (4), [[SQL]] (4), power (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[SQL]] (4)
 > **Env Vars:** vlookup (6), sql (4), join (4), hlookup (3), xlookup (3)
 > **SQL:** join (4)
 > **Analogies:** similar to (1), just like (1)
@@ -1965,18 +1941,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Taking your SQL skills to the next level
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-excel-to-sql-26502092/taking-your-sql-skills-to-the-next-level?u=76281980)
+#### [Taking your SQL skills to the next level](https://www.linkedin.com/learning/from-excel-to-sql-26502092/taking-your-sql-skills-to-the-next-level?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/from-excel-to-sql-26502092/taking-your-sql-skills-to-the-next-level?u=76281980&t=0)** - Congratulations, you've reached the end of this course, but this is not the end of your SQL journey.
+> **[0:00](https://www.linkedin.com/learning/from-excel-to-sql-26502092/taking-your-sql-skills-to-the-next-level?u=76281980&t=0)** - Congratulations, you've reached the end of this course, but this is not the end of your [[SQL]] journey.
 >
 > **[0:06](https://www.linkedin.com/learning/from-excel-to-sql-26502092/taking-your-sql-skills-to-the-next-level?u=76281980&t=6)** The truth is, it's just the beginning.
 >
 > **[0:09](https://www.linkedin.com/learning/from-excel-to-sql-26502092/taking-your-sql-skills-to-the-next-level?u=76281980&t=9)** You can now take what you've learned about SQL and start writing queries for your own data.
 >
-> **[0:14](https://www.linkedin.com/learning/from-excel-to-sql-26502092/taking-your-sql-skills-to-the-next-level?u=76281980&t=14)** And if there's one thing I want you to take away from this course, it's that anything that you can do in Excel, you can also do with SQL.
+> **[0:14](https://www.linkedin.com/learning/from-excel-to-sql-26502092/taking-your-sql-skills-to-the-next-level?u=76281980&t=14)** And if there's one thing I want you to take away from this course, it's that anything that you can do in [[Microsoft Excel|Excel]], you can also do with SQL.
 >
 > **[0:22](https://www.linkedin.com/learning/from-excel-to-sql-26502092/taking-your-sql-skills-to-the-next-level?u=76281980&t=22)** It's simply a matter of knowing how.
 >
@@ -2006,7 +1981,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (10), data (3), [[Microsoft Excel|Excel]] (1), [[Programming]] (1), database (1)
+> **Frameworks & Libraries:** [[SQL]] (10), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** sql (10), sqr (2)
 > **URLs:** [w3schools.com](https://w3schools.com) (1)
 > **Speakers:** - congratulations (1)

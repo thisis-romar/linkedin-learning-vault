@@ -103,20 +103,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Capitalize on the power of Azure to craft your web app
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/capitalize-on-the-power-of-azure-to-craft-your-web-app?u=76281980)
+#### [Capitalize on the power of Azure to craft your web app](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/capitalize-on-the-power-of-azure-to-craft-your-web-app?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/capitalize-on-the-power-of-azure-to-craft-your-web-app?u=76281980&t=0)** - [Rodrigo] Need to create web applications in Azure?
+> **[0:00](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/capitalize-on-the-power-of-azure-to-craft-your-web-app?u=76281980&t=0)** - [Rodrigo] Need to create web applications in [[Microsoft Azure|Azure]]?
 >
 > **[0:03](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/capitalize-on-the-power-of-azure-to-craft-your-web-app?u=76281980&t=3)** Learn practical techniques to implement cloud native web applications.
 >
-> **[0:07](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/capitalize-on-the-power-of-azure-to-craft-your-web-app?u=76281980&t=7)** We'll create and employ the pet management application for the Wisdom Pet Medicine Company from start to finish by using Azure DevOps, App Services, SQL Database and Functions.
+> **[0:07](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/capitalize-on-the-power-of-azure-to-craft-your-web-app?u=76281980&t=7)** We'll create and employ the pet management application for the Wisdom Pet Medicine Company from start to finish by using Azure [[DevOps]], App Services, [[SQL]] Database and Functions.
 >
 > **[0:20](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/capitalize-on-the-power-of-azure-to-craft-your-web-app?u=76281980&t=20)** I'll show you the essential techniques and the most common features required to get your application up and running in no time.
 >
-> **[0:28](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/capitalize-on-the-power-of-azure-to-craft-your-web-app?u=76281980&t=28)** My name is Rodrigo Diaz Concha, and I'm a member of the Microsoft MVPs and Regional Directors.
+> **[0:28](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/capitalize-on-the-power-of-azure-to-craft-your-web-app?u=76281980&t=28)** My name is Rodrigo Diaz Concha, and I'm a member of the [[Microsoft]] MVPs and Regional Directors.
 >
 > **[0:34](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/capitalize-on-the-power-of-azure-to-craft-your-web-app?u=76281980&t=34)** Your learning journey is about to start.
 >
@@ -124,18 +123,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), [[Microsoft Azure|Azure]] (2), application (2), cloud (1), management (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[DevOps]] (1), [[SQL]] (1), [[Microsoft]] (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [rodrigo] (1)
 
-#### What you need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/what-you-need-to-know?u=76281980)
+#### [What you need to know](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/what-you-need-to-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/what-you-need-to-know?u=76281980&t=0)** - [Instructor] To get the most out of this training course, it's recommended that you have certain knowledge beforehand.
 >
-> **[0:06](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/what-you-need-to-know?u=76281980&t=6)** The first topic that I want to mention is Azure itself.
+> **[0:06](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/what-you-need-to-know?u=76281980&t=6)** The first topic that I want to mention is [[Microsoft Azure|Azure]] itself.
 >
 > **[0:10](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/what-you-need-to-know?u=76281980&t=10)** Things like what resource groups are, and a basic knowledge of how to use the Azure portal will be enough.
 >
@@ -147,13 +145,13 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/what-you-need-to-know?u=76281980&t=35)** Even though I use .NET and C# for the Wisdom Pet Medicine application, I'm not going to describe Azure concepts you couldn't use in your own programming language.
 >
-> **[0:47](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/what-you-need-to-know?u=76281980&t=47)** And finally, some Git knowledge should come in handy.
+> **[0:47](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/what-you-need-to-know?u=76281980&t=47)** And finally, some [[Git]] knowledge should come in handy.
 >
 > **[0:51](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/what-you-need-to-know?u=76281980&t=51)** In concrete, I'm going to use push/pull and pull requests.
 >
 > **[0:56](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/what-you-need-to-know?u=76281980&t=56)** Now, speaking of the tools, we're going to use, of course, .NET SDK.
 >
-> **[1:01](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/what-you-need-to-know?u=76281980&t=61)** It's the first one since this is an [ASP.NET](https://ASP.NET) core web application.
+> **[1:01](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/what-you-need-to-know?u=76281980&t=61)** It's the first one since this is an [[[ASP.NET]]](https://ASP.NET) core web application.
 >
 > **[1:06](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/what-you-need-to-know?u=76281980&t=66)** And you need an IDE.
 >
@@ -169,7 +167,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Programming]] (2), [[Git]] (2), application (1), [[ASP.NET Core]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Git]] (2), [[ASP.NET Core]] (1)
 > **Env Vars:** net (4), sdk (1), asp (1), ide (1)
 > **Tools:** visual studio (2), azure portal (1)
 > **CLI Commands:** git (2)
@@ -178,8 +176,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### What you are going to build
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/what-you-are-going-to-build?u=76281980)
+#### [What you are going to build](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/what-you-are-going-to-build?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -193,11 +190,11 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/what-you-are-going-to-build?u=76281980&t=35)** The company specifically focuses on caring for dogs, cats, and rabbits.
 >
-> **[0:41](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/what-you-are-going-to-build?u=76281980&t=41)** To begin, we'll use a code base created with [ASP.NET](https://ASP.NET) Core and the C# programming language.
+> **[0:41](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/what-you-are-going-to-build?u=76281980&t=41)** To begin, we'll use a code base created with [[[ASP.NET]]](https://ASP.NET) Core and the C# programming language.
 >
 > **[0:47](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/what-you-are-going-to-build?u=76281980&t=47)** This web application uses the Entity Framework Core and it's in-memory data provider.
 >
-> **[0:54](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/what-you-are-going-to-build?u=76281980&t=54)** We're going to store the code for this application centrally in Azure Repos, one of the Azure DevOps services.
+> **[0:54](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/what-you-are-going-to-build?u=76281980&t=54)** We're going to store the code for this application centrally in [[Microsoft Azure|Azure]] Repos, one of the [[Azure DevOps Services]].
 >
 > **[1:02](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/what-you-are-going-to-build?u=76281980&t=62)** Next, we're going to deploy an Azure App Service to host and run the application.
 >
@@ -205,7 +202,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/what-you-are-going-to-build?u=76281980&t=76)** The setup will ensure that any code changes are automatically deployed to the slot.
 >
-> **[1:23](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/what-you-are-going-to-build?u=76281980&t=83)** Then we'll stop using the memory data provider and set up an Azure SQL Database to store the data.
+> **[1:23](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/what-you-are-going-to-build?u=76281980&t=83)** Then we'll stop using the memory data provider and set up an Azure [[SQL]] Database to store the data.
 >
 > **[1:31](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/what-you-are-going-to-build?u=76281980&t=91)** The initial code base uses the images directly from the static wwwroot folder.
 >
@@ -219,7 +216,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/what-you-are-going-to-build?u=76281980&t=125)** Finally, we'll create an Azure Logic App for sending an email whenever there's a new role in the pet stable.
 >
-> **[2:13](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/what-you-are-going-to-build?u=76281980&t=133)** By the end of the course, you'll have developed a cloud native application using Microsoft Azure and some of its most notable services.
+> **[2:13](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/what-you-are-going-to-build?u=76281980&t=133)** By the end of the course, you'll have developed a cloud native application using [[Microsoft Azure]] and some of its most notable services.
 >
 > **[2:23](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/what-you-are-going-to-build?u=76281980&t=143)** Okay, fasten your seat belts since this is going to be fun.
 >
@@ -227,7 +224,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), application (5), data (3), next (2), management (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[ASP.NET Core]] (1), [[Azure DevOps Services]] (1), [[SQL]] (1), [[Microsoft Azure]] (1)
 > **Env Vars:** asp (1), net (1), sql (1)
 > **Prerequisites:** setup (1), set up (1)
 > **URLs:** [asp.net](https://asp.net) (1)
@@ -239,14 +236,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using Azure DevOps for storing your code
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/using-azure-devops-for-storing-your-code?u=76281980)
+#### [Using Azure DevOps for storing your code](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/using-azure-devops-for-storing-your-code?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/using-azure-devops-for-storing-your-code?u=76281980&t=0)** - [Instructor] After a few days of work, you have a functional first version of the path management application.
 >
-> **[0:06](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/using-azure-devops-for-storing-your-code?u=76281980&t=6)** You built it using [ASP.NET](https://ASP.NET) Core and the C# programming language.
+> **[0:06](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/using-azure-devops-for-storing-your-code?u=76281980&t=6)** You built it using [[[ASP.NET]]](https://ASP.NET) Core and the C# programming language.
 >
 > **[0:12](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/using-azure-devops-for-storing-your-code?u=76281980&t=12)** You're using Entity Framework Core within memory data provider for data access.
 >
@@ -254,20 +250,19 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/using-azure-devops-for-storing-your-code?u=76281980&t=22)** So you want to be sure your hard work is well-protected.
 >
-> **[0:27](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/using-azure-devops-for-storing-your-code?u=76281980&t=27)** That's why you wisely decided to utilize Azure DevOps, a platform that allows you to store your source code centrally and securely.
+> **[0:27](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/using-azure-devops-for-storing-your-code?u=76281980&t=27)** That's why you wisely decided to utilize [[Microsoft Azure|Azure]] [[DevOps]], a platform that allows you to store your source code centrally and securely.
 >
 > **[0:38](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/using-azure-devops-for-storing-your-code?u=76281980&t=38)** So stick with me in this chapter where we'll uncover just how straightforward it is to start with Azure DevOps.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft Azure|Azure]] (2), [[DevOps]] (2), functional (1), management (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[DevOps]] (2), [[ASP.NET Core]] (1)
 > **Env Vars:** asp (1), net (1)
 > **URLs:** [asp.net](https://asp.net) (1)
 > **Exercise Files:** source code (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring the Pet Management application base source code
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/exploring-the-pet-management-application-base-source-code?u=76281980)
+#### [Exploring the Pet Management application base source code](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/exploring-the-pet-management-application-base-source-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -327,7 +322,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/exploring-the-pet-management-application-base-source-code?u=76281980&t=151)** If you're not familiar with dot net, this is the configuration file for this project.
 >
-> **[2:37](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/exploring-the-pet-management-application-base-source-code?u=76281980&t=157)** So we can easily see that this is targeting dot net seven and I'm using a couple of packages that are the memory provider for the edited framework core and also the SQL Server provider.
+> **[2:37](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/exploring-the-pet-management-application-base-source-code?u=76281980&t=157)** So we can easily see that this is targeting dot net seven and I'm using a couple of packages that are the memory provider for the edited framework core and also the [[Microsoft SQL Server|SQL Server]] provider.
 >
 > **[2:53](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/exploring-the-pet-management-application-base-source-code?u=76281980&t=173)** In this case, I'm only using the memory provider.
 >
@@ -337,7 +332,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/exploring-the-pet-management-application-base-source-code?u=76281980&t=191)** In other words, I'm using an in memory database instead of using SQL server.
 >
-> **[3:18](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/exploring-the-pet-management-application-base-source-code?u=76281980&t=198)** In this course we're going to use Azure SQL, so eventually we're going to change this.
+> **[3:18](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/exploring-the-pet-management-application-base-source-code?u=76281980&t=198)** In this course we're going to use [[Microsoft Azure|Azure]] [[SQL]], so eventually we're going to change this.
 >
 > **[3:26](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/exploring-the-pet-management-application-base-source-code?u=76281980&t=206)** Here we are in Visual Studio.
 >
@@ -365,7 +360,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[Microsoft SQL Server|Sql server]] (4), database (4), web (2), management (2)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), [[Microsoft Azure|Azure]] (2), [[SQL]] (2)
 > **Env Vars:** sql (6)
 > **Tools:** visual studio (4), terminal (1)
 > **Definitions:** is a  (2), in other words (2)
@@ -374,12 +369,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a new Azure DevOps account and organization
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-a-new-azure-devops-account-and-organization?u=76281980)
+#### [Creating a new Azure DevOps account and organization](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-a-new-azure-devops-account-and-organization?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-a-new-azure-devops-account-and-organization?u=76281980&t=0)** - [Instructor] In this video, I'm going to show you how you can create a new Azure DevOps account.
+> **[0:00](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-a-new-azure-devops-account-and-organization?u=76281980&t=0)** - [Instructor] In this video, I'm going to show you how you can create a new [[Microsoft Azure|Azure]] [[DevOps]] account.
 >
 > **[0:08](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-a-new-azure-devops-account-and-organization?u=76281980&t=8)** So, the first thing that you need to do is navigate to dev.[azure.com](https://azure.com), and you're going to land in this webpage where you can read more information about all the different services included in Azure DevOps.
 >
@@ -389,7 +383,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-a-new-azure-devops-account-and-organization?u=76281980&t=44)** Okay, so let's scroll back here and click on the start free button.
 >
-> **[0:51](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-a-new-azure-devops-account-and-organization?u=76281980&t=51)** Then, I'm going to enter my Microsoft account credentials, which I did already to expedite this process.
+> **[0:51](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-a-new-azure-devops-account-and-organization?u=76281980&t=51)** Then, I'm going to enter my [[Microsoft]] account credentials, which I did already to expedite this process.
 >
 > **[1:00](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-a-new-azure-devops-account-and-organization?u=76281980&t=60)** So, now, I have to click on continue.
 >
@@ -415,15 +409,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[DevOps]] (4), [[Microsoft]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[DevOps]] (4), [[Microsoft]] (1)
 > **UI Navigation:** click on (2)
 > **URLs:** [azure.com](https://azure.com) (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** source code (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a new Azure DevOps project and adding existing code
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-a-new-azure-devops-project-and-adding-existing-code?u=76281980)
+#### [Creating a new Azure DevOps project and adding existing code](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-a-new-azure-devops-project-and-adding-existing-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -431,7 +424,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-a-new-azure-devops-project-and-adding-existing-code?u=76281980&t=12)** And we're going to use a private visibility.
 >
-> **[0:17](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-a-new-azure-devops-project-and-adding-existing-code?u=76281980&t=17)** And, finally, we're going to use Git as its version control technology.
+> **[0:17](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-a-new-azure-devops-project-and-adding-existing-code?u=76281980&t=17)** And, finally, we're going to use [[Git]] as its [[Version Control]] technology.
 >
 > **[0:23](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-a-new-azure-devops-project-and-adding-existing-code?u=76281980&t=23)** So, let's go ahead and click on the create project button.
 >
@@ -478,8 +471,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Definitions:** stands for (1)
 
-#### Creating and accepting a pull request in Azure Repos
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-and-accepting-a-pull-request-in-azure-repos?u=76281980)
+#### [Creating and accepting a pull request in Azure Repos](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-and-accepting-a-pull-request-in-azure-repos?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -517,7 +509,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-and-accepting-a-pull-request-in-azure-repos?u=76281980&t=89)** Let's open up the browser.
 >
-> **[1:32](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-and-accepting-a-pull-request-in-azure-repos?u=76281980&t=92)** Here in Azure DevOps.
+> **[1:32](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-and-accepting-a-pull-request-in-azure-repos?u=76281980&t=92)** Here in [[Microsoft Azure|Azure]] [[DevOps]].
 >
 > **[1:34](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-and-accepting-a-pull-request-in-azure-repos?u=76281980&t=94)** I navigated to the WPM project and then I navigated to the pull requests page.
 >
@@ -541,7 +533,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1), [[Microsoft Azure|Azure]] (1), [[DevOps]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1), [[DevOps]] (1)
 > **UI Navigation:** click on (4), navigate to (1)
 > **Env Vars:** wpm (1)
 > **Tools:** visual studio (1)
@@ -552,12 +544,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Hosting and running the web application in Azure App Service
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/hosting-and-running-the-web-application-in-azure-app-service?u=76281980)
+#### [Hosting and running the web application in Azure App Service](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/hosting-and-running-the-web-application-in-azure-app-service?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/hosting-and-running-the-web-application-in-azure-app-service?u=76281980&t=0)** - [Instructor] The company's confident its use of Azure DevOps will accelerate its development cycles and enable faster value delivery.
+> **[0:00](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/hosting-and-running-the-web-application-in-azure-app-service?u=76281980&t=0)** - [Instructor] The company's confident its use of [[Microsoft Azure|Azure]] [[DevOps]] will accelerate its development cycles and enable faster value delivery.
 >
 > **[0:10](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/hosting-and-running-the-web-application-in-azure-app-service?u=76281980&t=10)** They're looking forward to using the application to provide helpful feedback.
 >
@@ -573,15 +564,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), application (2), [[DevOps]] (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[DevOps]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Provisioning a new Azure App Service resource in the portal
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/provisioning-a-new-azure-app-service-resource-in-the-portal?u=76281980)
+#### [Provisioning a new Azure App Service resource in the portal](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/provisioning-a-new-azure-app-service-resource-in-the-portal?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/provisioning-a-new-azure-app-service-resource-in-the-portal?u=76281980&t=0)** - [Instructor] Now we're ready to create the Azure App Service that we're going to use to run our application.
+> **[0:00](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/provisioning-a-new-azure-app-service-resource-in-the-portal?u=76281980&t=0)** - [Instructor] Now we're ready to create the [[Microsoft Azure|Azure]] App Service that we're going to use to run our application.
 >
 > **[0:07](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/provisioning-a-new-azure-app-service-resource-in-the-portal?u=76281980&t=7)** So as you can see here, I already created this Wisdom Pet Medicine Resource Group.
 >
@@ -607,15 +597,15 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/provisioning-a-new-azure-app-service-resource-in-the-portal?u=76281980&t=79)** In this case, I'm going to choose code that is based on the .NET 7 runtime and you need to select the operating system.
 >
-> **[1:30](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/provisioning-a-new-azure-app-service-resource-in-the-portal?u=76281980&t=90)** In this case, I'm going to use Windows.
+> **[1:30](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/provisioning-a-new-azure-app-service-resource-in-the-portal?u=76281980&t=90)** In this case, I'm going to use [[Windows]].
 >
-> **[1:32](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/provisioning-a-new-azure-app-service-resource-in-the-portal?u=76281980&t=92)** However, Linux is another option that you can use for .NET applications because .NET is across platform technology.
+> **[1:32](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/provisioning-a-new-azure-app-service-resource-in-the-portal?u=76281980&t=92)** However, [[Linux]] is another option that you can use for .NET applications because .NET is across platform technology.
 >
 > **[1:42](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/provisioning-a-new-azure-app-service-resource-in-the-portal?u=76281980&t=102)** Okay, so now let me search for West US 3 which is the closest region that I have right now.
 >
 > **[1:52](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/provisioning-a-new-azure-app-service-resource-in-the-portal?u=76281980&t=112)** And now we need to specify the pricing plan.
 >
-> **[1:56](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/provisioning-a-new-azure-app-service-resource-in-the-portal?u=76281980&t=116)** In other words, we need to create a new app service plan resource that is the hardware configuration that we want to use.
+> **[1:56](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/provisioning-a-new-azure-app-service-resource-in-the-portal?u=76281980&t=116)** In other words, we need to create a new app service plan resource that is the [[Hardware]] configuration that we want to use.
 >
 > **[2:06](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/provisioning-a-new-azure-app-service-resource-in-the-portal?u=76281980&t=126)** So let's create a new one named wpmappserviceplan.
 >
@@ -627,7 +617,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/provisioning-a-new-azure-app-service-resource-in-the-portal?u=76281980&t=167)** Let's navigate to deployment.
 >
-> **[2:49](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/provisioning-a-new-azure-app-service-resource-in-the-portal?u=76281980&t=169)** In this other option, you can specify GitHub action settings.
+> **[2:49](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/provisioning-a-new-azure-app-service-resource-in-the-portal?u=76281980&t=169)** In this other option, you can specify [[GitHub]] action settings.
 >
 > **[2:54](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/provisioning-a-new-azure-app-service-resource-in-the-portal?u=76281980&t=174)** In this case, we're not going to use GitHub actions, that's why I want to navigate to networking.
 >
@@ -657,7 +647,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), web (4), application (2), [[Search]] (2), [[GitHub]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[GitHub]] (2), [[Windows]] (1), [[Linux]] (1), [[Hardware]] (1)
 > **UI Navigation:** click on (6), navigate to (5), select the (1)
 > **Env Vars:** net (3), p1v3 (1), url (1)
 > **Definitions:** is a  (1), in other words (1), means that (1)
@@ -666,12 +656,11 @@ created: 2026-05-02
 > **CLI Commands:** docker (1)
 > **Analogies:** just like (1)
 
-#### Creating a new deployment slot for development
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-a-new-deployment-slot-for-development?u=76281980)
+#### [Creating a new deployment slot for development](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-a-new-deployment-slot-for-development?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-a-new-deployment-slot-for-development?u=76281980&t=0)** - [Instructor] There are many different ways we can use to deploy the application to Azure App Service.
+> **[0:00](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-a-new-deployment-slot-for-development?u=76281980&t=0)** - [Instructor] There are many different ways we can use to deploy the application to [[Microsoft Azure|Azure]] App Service.
 >
 > **[0:06](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-a-new-deployment-slot-for-development?u=76281980&t=6)** For example, we can use Visual Studio, we can use Visual Studio Code, or we can even do it manually.
 >
@@ -709,14 +698,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Microsoft Azure|Azure]] (1), feature (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1)
 > **Tools:** visual studio (2)
 > **UI Navigation:** click on (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Connecting the deployment slot to Azure Repos
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/connecting-the-deployment-slot-to-azure-repos?u=76281980)
+#### [Connecting the deployment slot to Azure Repos](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/connecting-the-deployment-slot-to-azure-repos?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -724,13 +712,13 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/connecting-the-deployment-slot-to-azure-repos?u=76281980&t=6)** So, we can do that by navigating to the deployment center.
 >
-> **[0:10](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/connecting-the-deployment-slot-to-azure-repos?u=76281980&t=10)** And in the deployment center, I'm going to use the Azure repos source.
+> **[0:10](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/connecting-the-deployment-slot-to-azure-repos?u=76281980&t=10)** And in the deployment center, I'm going to use the [[Microsoft Azure|Azure]] repos source.
 >
 > **[0:17](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/connecting-the-deployment-slot-to-azure-repos?u=76281980&t=17)** So if I select this, you can see that in this Azure repos section, I can choose the organization, I can select the project, which is WPM, the repository, and finally, the branch that I want to use.
 >
 > **[0:34](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/connecting-the-deployment-slot-to-azure-repos?u=76281980&t=34)** In this case, it's the master branch.
 >
-> **[0:37](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/connecting-the-deployment-slot-to-azure-repos?u=76281980&t=37)** So this is working because I'm using the same Microsoft account for both the Azure portal and the Azure DevOps account that I created before.
+> **[0:37](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/connecting-the-deployment-slot-to-azure-repos?u=76281980&t=37)** So this is working because I'm using the same [[Microsoft]] account for both the Azure portal and the Azure [[DevOps]] account that I created before.
 >
 > **[0:47](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/connecting-the-deployment-slot-to-azure-repos?u=76281980&t=47)** Okay, so let's save this by clicking on the save button, and let's wait for this to be deployed.
 >
@@ -764,19 +752,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), [[Microsoft Azure|Azure]] (6), [[Microsoft]] (1), [[DevOps]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Microsoft]] (1), [[DevOps]] (1)
 > **UI Navigation:** navigate to (4), select the (1), click on (1)
 > **Env Vars:** wpm (1), url (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Tools:** azure portal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Modifying the source code to automatically publish the app
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-source-code-to-automatically-publish-the-app?u=76281980)
+#### [Modifying the source code to automatically publish the app](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-source-code-to-automatically-publish-the-app?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-source-code-to-automatically-publish-the-app?u=76281980&t=0)** - [Instructor] Now that we've connected Azure Repos to this deployment slot, why don't we make some changes to the source code, just to verify that application is automatically published to this slot, after we accept the pull request.
+> **[0:00](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-source-code-to-automatically-publish-the-app?u=76281980&t=0)** - [Instructor] Now that we've connected [[Microsoft Azure|Azure]] Repos to this deployment slot, why don't we make some changes to the source code, just to verify that application is automatically published to this slot, after we accept the pull request.
 >
 > **[0:15](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-source-code-to-automatically-publish-the-app?u=76281980&t=15)** So let's do that.
 >
@@ -786,7 +773,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-source-code-to-automatically-publish-the-app?u=76281980&t=22)** And I'm going to name it menu, since I want to make some changes in the menu items.
 >
-> **[0:28](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-source-code-to-automatically-publish-the-app?u=76281980&t=28)** And let's execute git checkout.
+> **[0:28](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-source-code-to-automatically-publish-the-app?u=76281980&t=28)** And let's execute [[Git]] checkout.
 >
 > **[0:31](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-source-code-to-automatically-publish-the-app?u=76281980&t=31)** And now, let's open up Visual Studio Code.
 >
@@ -834,7 +821,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[Microsoft Azure|Azure]] (1), [[Git]] (1), management (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1), [[Git]] (1)
 > **UI Navigation:** click on (6), navigate to (2), in the menu (1), go to (1)
 > **CLI Commands:** make (2), git (1), find (1)
 > **Tools:** terminal (1), visual studio (1)
@@ -843,8 +830,7 @@ created: 2026-05-02
 > **Exercise Files:** source code (1)
 > **Definitions:** is a  (1)
 
-#### Swapping the deployment slots
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/swapping-the-deployment-slots?u=76281980)
+#### [Swapping the deployment slots](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/swapping-the-deployment-slots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -886,7 +872,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), feature (1), management (1)
 > **UI Navigation:** click on (1), navigate to (1)
 > **Definitions:** in other words (2)
 > **Speakers:** - [instructor] (1)
@@ -896,8 +881,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using Azure SQL for your data storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/using-azure-sql-for-your-data-storage?u=76281980)
+#### [Using Azure SQL for your data storage](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/using-azure-sql-for-your-data-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -905,7 +889,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/using-azure-sql-for-your-data-storage?u=76281980&t=5)** However, we require a more reliable database to handle the company's workload and consistently store information.
 >
-> **[0:14](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/using-azure-sql-for-your-data-storage?u=76281980&t=14)** Azure SQL Database is the perfect choice for our relational database.
+> **[0:14](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/using-azure-sql-for-your-data-storage?u=76281980&t=14)** [[Microsoft Azure|Azure]] [[SQL]] Database is the perfect choice for our relational database.
 >
 > **[0:19](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/using-azure-sql-for-your-data-storage?u=76281980&t=19)** And with any framework core, making changes to the code is effortless.
 >
@@ -913,16 +897,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), application (1), data (1), [[Microsoft Azure|Azure]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1), [[SQL]] (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating the Azure SQL server and database
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-sql-server-and-database?u=76281980)
+#### [Creating the Azure SQL server and database](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-sql-server-and-database?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-sql-server-and-database?u=76281980&t=0)** - [Rodrigo] In this video, I'm going to show you how to deploy a new Azure SQL Database and its related server.
+> **[0:00](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-sql-server-and-database?u=76281980&t=0)** - [Rodrigo] In this video, I'm going to show you how to deploy a new [[Microsoft Azure|Azure]] [[SQL]] Database and its related server.
 >
 > **[0:06](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-sql-server-and-database?u=76281980&t=6)** So let's click on Create.
 >
@@ -930,7 +913,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-sql-server-and-database?u=76281980&t=11)** So let's search for this, and let's use this template, and let's click on Create.
 >
-> **[0:18](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-sql-server-and-database?u=76281980&t=18)** This template allows you to use SQL in different ways; however, the option that we're looking for is SQL databases.
+> **[0:18](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-sql-server-and-database?u=76281980&t=18)** This template allows you to use SQL in different ways; however, the option that we're looking for is SQL [[Databases]].
 >
 > **[0:24](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-sql-server-and-database?u=76281980&t=24)** So let's click onc Create again.
 >
@@ -944,13 +927,13 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-sql-server-and-database?u=76281980&t=43)** So let's click on Create New.
 >
-> **[0:45](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-sql-server-and-database?u=76281980&t=45)** And the name of the server is going to be WPM SQL Server.
+> **[0:45](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-sql-server-and-database?u=76281980&t=45)** And the name of the server is going to be WPM [[Microsoft SQL Server|SQL Server]].
 >
 > **[0:51](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-sql-server-and-database?u=76281980&t=51)** And my location is West US 3.
 >
 > **[0:56](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-sql-server-and-database?u=76281980&t=56)** So now, I'm ready to specify how can I connect to this server.
 >
-> **[1:01](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-sql-server-and-database?u=76281980&t=61)** In this case, I'm going to use both SQL Server authentication and Azure Active Directory authentication.
+> **[1:01](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-sql-server-and-database?u=76281980&t=61)** In this case, I'm going to use both SQL Server authentication and [[Microsoft Entra ID|Azure Active Directory]] authentication.
 >
 > **[1:09](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-sql-server-and-database?u=76281980&t=69)** So for the SQL Server authentication, I want to use this username and a password.
 >
@@ -970,7 +953,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-sql-server-and-database?u=76281980&t=110)** And I need to specify if I am going to create a development environment or a production environment.
 >
-> **[1:59](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-sql-server-and-database?u=76281980&t=119)** So this is related to the kind of hardware that you want to deploy.
+> **[1:59](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-sql-server-and-database?u=76281980&t=119)** So this is related to the kind of [[Hardware]] that you want to deploy.
 >
 > **[2:05](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-sql-server-and-database?u=76281980&t=125)** So in this case, I'm going to use development, which is related to the serverless option.
 >
@@ -1010,7 +993,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), [[SQL]] (6), [[Microsoft SQL Server|Sql server]] (4), [[Microsoft Azure|Azure]] (3), [[Microsoft Entra ID|Azure active directory]] (2)
+> **Frameworks & Libraries:** [[SQL]] (6), [[Microsoft SQL Server|Sql server]] (4), [[Microsoft Azure|Azure]] (3), [[Microsoft Entra ID|Azure active directory]] (2), [[Databases]] (1)
 > **Env Vars:** sql (10), wpm (3)
 > **UI Navigation:** click on (5), go to (2), navigate to (1)
 > **Exercise Files:** template (3), source code (1)
@@ -1019,8 +1002,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Prerequisites:** configure (1)
 
-#### Modifying the application to use the SQL EF provider
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-application-to-use-the-sql-ef-provider?u=76281980)
+#### [Modifying the application to use the SQL EF provider](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-application-to-use-the-sql-ef-provider?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1028,7 +1010,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-application-to-use-the-sql-ef-provider?u=76281980&t=5)** In other words, each time we execute the application, all the changes will be lost and that's not okay.
 >
-> **[0:15](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-application-to-use-the-sql-ef-provider?u=76281980&t=15)** That's why we need some kind of persistent storage such as Azure SQL database.
+> **[0:15](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-application-to-use-the-sql-ef-provider?u=76281980&t=15)** That's why we need some kind of persistent storage such as [[Microsoft Azure|Azure]] [[SQL]] database.
 >
 > **[0:21](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-application-to-use-the-sql-ef-provider?u=76281980&t=21)** That's why in this video we're going to change the code to use the SQL database that we just implemented.
 >
@@ -1040,7 +1022,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-application-to-use-the-sql-ef-provider?u=76281980&t=45)** So if I show you the code, you can see that this is using memory database that comes from the in-memory provider of the Entity Framework Core.
 >
-> **[0:58](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-application-to-use-the-sql-ef-provider?u=76281980&t=58)** So luckily we have this other method that is AddWpmDb, and this other method uses the SQL Server provider for Entity Framework Core.
+> **[0:58](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-application-to-use-the-sql-ef-provider?u=76281980&t=58)** So luckily we have this other method that is AddWpmDb, and this other method uses the [[Microsoft SQL Server|SQL Server]] provider for Entity Framework Core.
 >
 > **[1:11](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-application-to-use-the-sql-ef-provider?u=76281980&t=71)** However, this provider needs a connection string.
 >
@@ -1060,7 +1042,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-application-to-use-the-sql-ef-provider?u=76281980&t=112)** Here in the Azure portal, we are in the SQL Server overview page.
 >
-> **[1:57](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-application-to-use-the-sql-ef-provider?u=76281980&t=117)** And if we navigate to SQL Databases, we can see the entire list of databases implemented in this SQL Server.
+> **[1:57](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-application-to-use-the-sql-ef-provider?u=76281980&t=117)** And if we navigate to SQL [[Databases]], we can see the entire list of databases implemented in this SQL Server.
 >
 > **[2:07](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-application-to-use-the-sql-ef-provider?u=76281980&t=127)** So we have wpm, let's click on this.
 >
@@ -1076,7 +1058,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-application-to-use-the-sql-ef-provider?u=76281980&t=154)** There are many ways we can use to store that connection string.
 >
-> **[2:38](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-application-to-use-the-sql-ef-provider?u=76281980&t=158)** We can use appsettings.json We can use appsettings.development.json.
+> **[2:38](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-application-to-use-the-sql-ef-provider?u=76281980&t=158)** We can use appsettings.[[JSON]] We can use appsettings.development.json.
 >
 > **[2:45](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-application-to-use-the-sql-ef-provider?u=76281980&t=165)** However, let me show you a better option which is user secrets.
 >
@@ -1118,7 +1100,7 @@ created: 2026-05-02
 >
 > **[4:38](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-application-to-use-the-sql-ef-provider?u=76281980&t=278)** We can even verify this if we go back to the Azure portal.
 >
-> **[4:42](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-application-to-use-the-sql-ef-provider?u=76281980&t=282)** Here in the Azure portal, I'm going to open the query editor and I'm going to use Azure Active Directory authentication.
+> **[4:42](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-application-to-use-the-sql-ef-provider?u=76281980&t=282)** Here in the Azure portal, I'm going to open the query editor and I'm going to use [[Microsoft Entra ID|Azure Active Directory]] authentication.
 >
 > **[4:53](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-application-to-use-the-sql-ef-provider?u=76281980&t=293)** And here, I can expand the tables.
 >
@@ -1126,7 +1108,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), [[Microsoft Azure|Azure]] (6), [[SQL]] (6), [[JSON]] (5), application (4)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[SQL]] (6), [[JSON]] (5), [[Microsoft SQL Server|Sql server]] (3), [[Databases]] (2)
 > **Env Vars:** sql (7), net (1)
 > **Tools:** azure portal (4), visual studio (2)
 > **UI Navigation:** click on (3), navigate to (2), open the (1)
@@ -1135,8 +1117,7 @@ created: 2026-05-02
 > **Definitions:** in other words (1), is an  (1), is a  (1)
 > **CLI Commands:** make (1), find (1)
 
-#### Creating a pull request for publishing the changes
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-a-pull-request-for-publishing-the-changes?u=76281980)
+#### [Creating a pull request for publishing the changes](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-a-pull-request-for-publishing-the-changes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1144,9 +1125,9 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-a-pull-request-for-publishing-the-changes?u=76281980&t=3)** There's a reason why and I'm going to explain that to you in a little bit.
 >
-> **[0:08](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-a-pull-request-for-publishing-the-changes?u=76281980&t=8)** In this moment, I want to push the changes to the remote SQL branch.
+> **[0:08](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-a-pull-request-for-publishing-the-changes?u=76281980&t=8)** In this moment, I want to push the changes to the remote [[SQL]] branch.
 >
-> **[0:15](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-a-pull-request-for-publishing-the-changes?u=76281980&t=15)** So I'm going to use this git changes branch and let's type, Implemented the SQL Server provider.
+> **[0:15](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-a-pull-request-for-publishing-the-changes?u=76281980&t=15)** So I'm going to use this [[Git]] changes branch and let's type, Implemented the [[Microsoft SQL Server|SQL Server]] provider.
 >
 > **[0:25](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-a-pull-request-for-publishing-the-changes?u=76281980&t=25)** And let's click on Commit All and let's push those changes back to the remote branch.
 >
@@ -1154,7 +1135,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-a-pull-request-for-publishing-the-changes?u=76281980&t=36)** And this is done.
 >
-> **[0:40](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-a-pull-request-for-publishing-the-changes?u=76281980&t=40)** And now we're ready to go back to Azure DevOps.
+> **[0:40](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-a-pull-request-for-publishing-the-changes?u=76281980&t=40)** And now we're ready to go back to [[Microsoft Azure|Azure]] [[DevOps]].
 >
 > **[0:44](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-a-pull-request-for-publishing-the-changes?u=76281980&t=44)** So here in the Azure DevOps portal, I'm going to navigate to Repos and then Pull Requests.
 >
@@ -1214,7 +1195,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-a-pull-request-for-publishing-the-changes?u=76281980&t=213)** Or if you don't want to replace that connection string, then you should choose this option.
 >
-> **[3:42](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-a-pull-request-for-publishing-the-changes?u=76281980&t=222)** So it'll depend if you have different databases for production and development.
+> **[3:42](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-a-pull-request-for-publishing-the-changes?u=76281980&t=222)** So it'll depend if you have different [[Databases]] for production and development.
 >
 > **[3:50](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-a-pull-request-for-publishing-the-changes?u=76281980&t=230)** Okay, so let's click on this deployment slots setting because I only have one database so it actually won't make a difference right now.
 >
@@ -1234,7 +1215,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[SQL]] (4), application (3), [[Microsoft SQL Server|Sql server]] (2), [[DevOps]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[SQL]] (4), [[Microsoft SQL Server|Sql server]] (2), [[DevOps]] (2), [[Git]] (1)
 > **UI Navigation:** click on (6), navigate to (6)
 > **Env Vars:** sql (6)
 > **Cross-References:** go back to (2), previous video (1)
@@ -1247,8 +1228,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using Azure Storage for storing binary files
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/using-azure-storage-for-storing-binary-files?u=76281980)
+#### [Using Azure Storage for storing binary files](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/using-azure-storage-for-storing-binary-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1256,20 +1236,19 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/using-azure-storage-for-storing-binary-files?u=76281980&t=5)** One requirement is that the application must keep the pictures in a centralized and secure location.
 >
-> **[0:12](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/using-azure-storage-for-storing-binary-files?u=76281980&t=12)** To achieve this, you decide to use an Azure storage account which can store various types of data, including blobs, message queues, tables and shared files.
+> **[0:12](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/using-azure-storage-for-storing-binary-files?u=76281980&t=12)** To achieve this, you decide to use an [[Microsoft Azure|Azure]] storage account which can store various types of data, including blobs, message queues, tables and shared files.
 >
-> **[0:25](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/using-azure-storage-for-storing-binary-files?u=76281980&t=25)** The good news is that implementing this logic is quite easy thanks to the number of npm packages and SDKs available for Azure.
+> **[0:25](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/using-azure-storage-for-storing-binary-files?u=76281980&t=25)** The good news is that implementing this logic is quite easy thanks to the number of [[npm]] packages and SDKs available for Azure.
 >
 > **[0:34](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/using-azure-storage-for-storing-binary-files?u=76281980&t=34)** So without any delay, let's jump right in.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), feature (1), application (1), data (1), [[npm]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[npm]] (1)
 > **CLI Commands:** npm (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating the Storage account using the Azure portal
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-storage-account-using-the-azure-portal?u=76281980)
+#### [Creating the Storage account using the Azure portal](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-storage-account-using-the-azure-portal?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1281,7 +1260,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-storage-account-using-the-azure-portal?u=76281980&t=18)** So let's click on Create.
 >
-> **[0:20](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-storage-account-using-the-azure-portal?u=76281980&t=20)** And after specifying both the subscription and the resource group, we're ready to specify the name, which should be unique in the entire Azure Cloud.
+> **[0:20](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-storage-account-using-the-azure-portal?u=76281980&t=20)** And after specifying both the subscription and the resource group, we're ready to specify the name, which should be unique in the entire [[Microsoft Azure|Azure]] Cloud.
 >
 > **[0:33](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-storage-account-using-the-azure-portal?u=76281980&t=33)** So let's say with wisdompetmedicinestorage, and then the region, which is West US 3, in my case.
 >
@@ -1309,16 +1288,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1), [[Microsoft Azure|Azure]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1)
 > **UI Navigation:** click on (4), navigate to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating the Blob container in the Storage account
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-blob-container-in-the-storage-account?u=76281980)
+#### [Creating the Blob container in the Storage account](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-blob-container-in-the-storage-account?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-blob-container-in-the-storage-account?u=76281980&t=1)** - [Instructor] The Azure storage account is a versatile service since it allows me to store blobs, and file shares, and queues and tables.
+> **[0:01](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-blob-container-in-the-storage-account?u=76281980&t=1)** - [Instructor] The [[Microsoft Azure|Azure]] storage account is a versatile service since it allows me to store blobs, and file shares, and queues and tables.
 >
 > **[0:09](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-blob-container-in-the-storage-account?u=76281980&t=9)** However, let's focus on containers.
 >
@@ -1332,7 +1310,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-blob-container-in-the-storage-account?u=76281980&t=44)** So let's click on upload.
 >
-> **[0:46](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-blob-container-in-the-storage-account?u=76281980&t=46)** And here I'm going to use the Windows Explorer.
+> **[0:46](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-blob-container-in-the-storage-account?u=76281980&t=46)** And here I'm going to use the [[Windows]] Explorer.
 >
 > **[0:50](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-blob-container-in-the-storage-account?u=76281980&t=50)** As you can see, I already navigated to the images sub folder in the source code, and let's drag and drop those image files.
 >
@@ -1348,13 +1326,13 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-blob-container-in-the-storage-account?u=76281980&t=93)** So you can see that the fully qualified name of this picture is this one that we have on the screen.
 >
-> **[1:42](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-blob-container-in-the-storage-account?u=76281980&t=102)** In other words, we need to modify the seed data and also the database data that we have in Azure SQL to load those pictures from the blob storage.
+> **[1:42](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-blob-container-in-the-storage-account?u=76281980&t=102)** In other words, we need to modify the seed data and also the database data that we have in Azure [[SQL]] to load those pictures from the blob storage.
 >
 > **[1:55](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-blob-container-in-the-storage-account?u=76281980&t=115)** So we're going to do that next.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), data (2), [[Windows]] (1), database (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Windows]] (1), [[SQL]] (1)
 > **UI Navigation:** click on (4), navigate to (2), drag and drop (1)
 > **Analogies:** picture (2), similar to (1), for example (1)
 > **Definitions:** in other words (2), is a  (1)
@@ -1362,12 +1340,11 @@ created: 2026-05-02
 > **Exercise Files:** source code (1)
 > **Speakers:** - [instructor] (1)
 
-#### Modifying the seed data to read the photos from the container
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-seed-data-to-read-the-photos-from-the-container?u=76281980)
+#### [Modifying the seed data to read the photos from the container](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-seed-data-to-read-the-photos-from-the-container?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-seed-data-to-read-the-photos-from-the-container?u=76281980&t=1)** - [Instructor] We need to update the seed data and also the Azure SQL database data to reflect the new URL for the photos.
+> **[0:01](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-seed-data-to-read-the-photos-from-the-container?u=76281980&t=1)** - [Instructor] We need to update the seed data and also the [[Microsoft Azure|Azure]] [[SQL]] database data to reflect the new URL for the photos.
 >
 > **[0:10](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-seed-data-to-read-the-photos-from-the-container?u=76281980&t=10)** So there are different ways we can do this, however, I'm going to use the following technique.
 >
@@ -1387,7 +1364,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-seed-data-to-read-the-photos-from-the-container?u=76281980&t=79)** And now we're ready to save this file and let's save those changes.
 >
-> **[1:28](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-seed-data-to-read-the-photos-from-the-container?u=76281980&t=88)** Seed data updated, and let's commit all the changes, and let's push the changes back to the seed branch in the remote server, which is Azure DevOps.
+> **[1:28](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-seed-data-to-read-the-photos-from-the-container?u=76281980&t=88)** Seed data updated, and let's commit all the changes, and let's push the changes back to the seed branch in the remote server, which is Azure [[DevOps]].
 >
 > **[1:45](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-seed-data-to-read-the-photos-from-the-container?u=76281980&t=105)** Okay, so we're ready to go to Azure DevOps.
 >
@@ -1401,7 +1378,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-seed-data-to-read-the-photos-from-the-container?u=76281980&t=131)** Here in the Azure Portal.
 >
-> **[2:13](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-seed-data-to-read-the-photos-from-the-container?u=76281980&t=133)** I want to navigate to the Azure SQL database which is wpm, let's do this, and let's open up the query editor and let's use Azure Active Directory.
+> **[2:13](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-seed-data-to-read-the-photos-from-the-container?u=76281980&t=133)** I want to navigate to the Azure SQL database which is wpm, let's do this, and let's open up the query editor and let's use [[Microsoft Entra ID|Azure Active Directory]].
 >
 > **[2:28](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-seed-data-to-read-the-photos-from-the-container?u=76281980&t=148)** Since we used the serverless option, we need to wait a little bit for this to spin up and let's click again.
 >
@@ -1425,15 +1402,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), data (5), database (3), application (3), [[DevOps]] (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), [[DevOps]] (3), [[SQL]] (2), [[Microsoft Entra ID|Azure active directory]] (1)
 > **UI Navigation:** navigate to (7), click on (2), go to (2)
 > **Env Vars:** sql (2), url (2)
 > **Tools:** azure portal (3)
 > **Analogies:** picture (2)
 > **Speakers:** - [instructor] (1)
 
-#### Modifying the user interface to upload photos
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-user-interface-to-upload-photos?u=76281980)
+#### [Modifying the user interface to upload photos](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-user-interface-to-upload-photos?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1445,9 +1421,9 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-user-interface-to-upload-photos?u=76281980&t=25)** And that element is going to be input of type file.
 >
-> **[0:32](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-user-interface-to-upload-photos?u=76281980&t=32)** As you can see, this kind of pages are a combination of HTML and the Razor pages syntax.
+> **[0:32](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-user-interface-to-upload-photos?u=76281980&t=32)** As you can see, this kind of pages are a combination of [[HTML]] and the Razor pages syntax.
 >
-> **[0:39](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-user-interface-to-upload-photos?u=76281980&t=39)** If you're not familiar with Razor pages or the [asp.net](https://asp.net) core framework, don't worry, okay?
+> **[0:39](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-user-interface-to-upload-photos?u=76281980&t=39)** If you're not familiar with Razor pages or the [[[ASP.NET]]](https://asp.net) core framework, don't worry, okay?
 >
 > **[0:47](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-user-interface-to-upload-photos?u=76281980&t=47)** This is going to be easy.
 >
@@ -1485,24 +1461,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), feature (1), [[HTML]] (1), [[ASP.NET Core]] (1), data (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[ASP.NET Core]] (1)
 > **Env Vars:** html (1), css (1)
 > **URLs:** [asp.net](https://asp.net) (1)
 > **Analogies:** just like (1)
 > **Speakers:** - we (1)
 
-#### Implementing the StorageService class
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/implementing-the-storageservice-class?u=76281980)
+#### [Implementing the StorageService class](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/implementing-the-storageservice-class?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/implementing-the-storageservice-class?u=76281980&t=0)** - [Instructor] We're going to implement a new storage service class that encapsulates the logic for communicating to the Azure storage account.
+> **[0:00](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/implementing-the-storageservice-class?u=76281980&t=0)** - [Instructor] We're going to implement a new storage service class that encapsulates the logic for communicating to the [[Microsoft Azure|Azure]] storage account.
 >
 > **[0:08](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/implementing-the-storageservice-class?u=76281980&t=8)** In the .NET world, we use NuGet packages for reusing code.
 >
 > **[0:13](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/implementing-the-storageservice-class?u=76281980&t=13)** So in this project I'm going to add a new NuGet package reference that is Azure Storage Blobs.
 >
-> **[0:23](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/implementing-the-storageservice-class?u=76281980&t=23)** It was created by Microsoft and it contains all the required libraries for using storage accounts in your .NET code.
+> **[0:23](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/implementing-the-storageservice-class?u=76281980&t=23)** It was created by [[Microsoft]] and it contains all the required libraries for using storage accounts in your .NET code.
 >
 > **[0:33](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/implementing-the-storageservice-class?u=76281980&t=33)** So let's install this.
 >
@@ -1570,15 +1545,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Microsoft]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Microsoft]] (1)
 > **Code Identifiers:** blobclient (3), filename (2), containerclient (2), connectionstring (2)
 > **Env Vars:** net (2), url (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Invoking the StorageService from the Edit page
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/invoking-the-storageservice-from-the-edit-page?u=76281980)
+#### [Invoking the StorageService from the Edit page](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/invoking-the-storageservice-from-the-edit-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1616,19 +1590,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1)
 > **Code Identifiers:** filestream (2), fileupload (2), memorystream (1)
 > **Env Vars:** url (1)
 > **Speakers:** - [instructor] (1)
 
-#### Testing the web application locally
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/testing-the-web-application-locally?u=76281980)
+#### [Testing the web application locally](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/testing-the-web-application-locally?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/testing-the-web-application-locally?u=76281980&t=0)** - [Instructor] If we want to test the application, we need the connection string.
 >
-> **[0:05](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/testing-the-web-application-locally?u=76281980&t=5)** So here in the Azure portal I navigated to the storage account.
+> **[0:05](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/testing-the-web-application-locally?u=76281980&t=5)** So here in the [[Microsoft Azure|Azure]] portal I navigated to the storage account.
 >
 > **[0:11](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/testing-the-web-application-locally?u=76281980&t=11)** And under security and networking we can find access keys.
 >
@@ -1678,7 +1650,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), application (2), [[Security]] (1), [[Debugging]] (1), management (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6)
 > **Tools:** azure portal (4), visual studio (2)
 > **UI Navigation:** click on (4), navigate to (2)
 > **Analogies:** picture (5)
@@ -1687,16 +1659,15 @@ created: 2026-05-02
 > **Env Vars:** wpm (1)
 > **Speakers:** - [instructor] (1)
 
-#### Publishing the application to the deployment slot
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/publishing-the-application-to-the-deployment-slot?u=76281980)
+#### [Publishing the application to the deployment slot](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/publishing-the-application-to-the-deployment-slot?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/publishing-the-application-to-the-deployment-slot?u=76281980&t=0)** - [Instructor] With all of these changes in place, we're now ready to push them to the remote branch.
 >
-> **[0:06](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/publishing-the-application-to-the-deployment-slot?u=76281980&t=6)** You can click on push here in Visual Studio or you can open up a terminal and execute git push or you can use Visual Studio Code.
+> **[0:06](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/publishing-the-application-to-the-deployment-slot?u=76281980&t=6)** You can click on push here in Visual Studio or you can open up a terminal and execute [[Git]] push or you can use Visual Studio Code.
 >
-> **[0:17](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/publishing-the-application-to-the-deployment-slot?u=76281980&t=17)** Regardless of what technique you use, we need to open Azure DevOps and create a pull request.
+> **[0:17](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/publishing-the-application-to-the-deployment-slot?u=76281980&t=17)** Regardless of what technique you use, we need to open [[Microsoft Azure|Azure]] [[DevOps]] and create a pull request.
 >
 > **[0:24](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/publishing-the-application-to-the-deployment-slot?u=76281980&t=24)** Here we are in Azure DevOps and let's create this pull request and let's name it photos.
 >
@@ -1788,7 +1759,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[DevOps]] (2), application (2), [[Git]] (1), management (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[DevOps]] (2), [[Git]] (1)
 > **UI Navigation:** click on (8), navigate to (5)
 > **Env Vars:** wpm (6)
 > **Tools:** visual studio (2), terminal (1), azure portal (1)
@@ -1796,8 +1767,7 @@ created: 2026-05-02
 > **CLI Commands:** git (1)
 > **Speakers:** - [instructor] (1)
 
-#### Swapping the production and dev deployment slots
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/swapping-the-production-and-dev-deployment-slots?u=76281980)
+#### [Swapping the production and dev deployment slots](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/swapping-the-production-and-dev-deployment-slots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1853,7 +1823,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1)
 > **UI Navigation:** click on (3), navigate to (3)
 > **Env Vars:** wpm (5)
 > **Definitions:** in other words (1)
@@ -1865,8 +1834,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using Azure Functions to improve your web application
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/using-azure-functions-to-improve-your-web-application?u=76281980)
+#### [Using Azure Functions to improve your web application](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/using-azure-functions-to-improve-your-web-application?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1876,7 +1844,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/using-azure-functions-to-improve-your-web-application?u=76281980&t=14)** However, the company's worried about the potential negative impact of this feature on the page's performance due to the presence of some large and heavy images.
 >
-> **[0:25](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/using-azure-functions-to-improve-your-web-application?u=76281980&t=25)** You instinct is to check if Azure Functions with its powerful triggers and bindings could be the ideal solution for this requirement.
+> **[0:25](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/using-azure-functions-to-improve-your-web-application?u=76281980&t=25)** You instinct is to check if [[Microsoft Azure|Azure]] Functions with its powerful triggers and bindings could be the ideal solution for this requirement.
 >
 > **[0:35](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/using-azure-functions-to-improve-your-web-application?u=76281980&t=35)** Upon discovering that Azure Functions is a potent, multi-platform technology, you decide to use it in the project.
 >
@@ -1884,16 +1852,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), application (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating the Azure Functions project and repository
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-functions-project-and-repository?u=76281980)
+#### [Creating the Azure Functions project and repository](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-functions-project-and-repository?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-functions-project-and-repository?u=76281980&t=1)** - [Instructor] In this chapter, we're going to create a new Azure function for creating thumbnails.
+> **[0:01](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-functions-project-and-repository?u=76281980&t=1)** - [Instructor] In this chapter, we're going to create a new [[Microsoft Azure|Azure]] function for creating thumbnails.
 >
 > **[0:05](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-functions-project-and-repository?u=76281980&t=5)** I don't want to use the same repo since this one is already connected to a deployment slot in Azure.
 >
@@ -1905,7 +1872,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-functions-project-and-repository?u=76281980&t=22)** And the name is WPM Thumbnail Creator.
 >
-> **[0:29](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-functions-project-and-repository?u=76281980&t=29)** And let's add a read me file and also a git ignore file based on the Visual Studio template.
+> **[0:29](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-functions-project-and-repository?u=76281980&t=29)** And let's add a read me file and also a [[Git]] ignore file based on the Visual Studio template.
 >
 > **[0:37](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-functions-project-and-repository?u=76281980&t=37)** Okay, so let's click on create.
 >
@@ -1913,7 +1880,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-functions-project-and-repository?u=76281980&t=44)** So let's copy the URL, and let's open up the terminal.
 >
-> **[0:49](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-functions-project-and-repository?u=76281980&t=49)** Here we are in the Windows terminal, and let's execute git clone with this URL.
+> **[0:49](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-functions-project-and-repository?u=76281980&t=49)** Here we are in the [[Windows]] terminal, and let's execute git clone with this URL.
 >
 > **[0:56](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-functions-project-and-repository?u=76281980&t=56)** And this is going to create the wpm dash thumbnail creator folder.
 >
@@ -1971,11 +1938,11 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-functions-project-and-repository?u=76281980&t=216)** Excellent.
 >
-> **[3:37](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-functions-project-and-repository?u=76281980&t=217)** We also need to add the connection of strings in this local settings json file, and we're going to do that next.
+> **[3:37](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-functions-project-and-repository?u=76281980&t=217)** We also need to add the connection of strings in this local settings [[JSON]] file, and we're going to do that next.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Git]] (3), next (3), [[Windows]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Git]] (3), [[Windows]] (1), [[JSON]] (1)
 > **UI Navigation:** click on (6), navigate to (2)
 > **Env Vars:** wpm (4), url (2), net (1)
 > **CLI Commands:** git (3), find (1), make (1)
@@ -1983,12 +1950,11 @@ created: 2026-05-02
 > **Exercise Files:** template (3)
 > **Speakers:** - [instructor] (1)
 
-#### Testing the function by using the Azure Storage Explorer
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/testing-the-function-by-using-the-azure-storage-explorer?u=76281980)
+#### [Testing the function by using the Azure Storage Explorer](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/testing-the-function-by-using-the-azure-storage-explorer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/testing-the-function-by-using-the-azure-storage-explorer?u=76281980&t=0)** - [Instructor] We use triggers and bindings to build Azure functions.
+> **[0:00](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/testing-the-function-by-using-the-azure-storage-explorer?u=76281980&t=0)** - [Instructor] We use triggers and bindings to build [[Microsoft Azure|Azure]] functions.
 >
 > **[0:04](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/testing-the-function-by-using-the-azure-storage-explorer?u=76281980&t=4)** Triggers are components that specify how and when your function will be involved.
 >
@@ -2016,7 +1982,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/testing-the-function-by-using-the-azure-storage-explorer?u=76281980&t=77)** Of course, we need to set this connection string, and we have different options for doing that.
 >
-> **[1:25](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/testing-the-function-by-using-the-azure-storage-explorer?u=76281980&t=85)** The one that I'm going to use is I'm going to use this local settings JSON file, and I'm going to specify the connection string here.
+> **[1:25](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/testing-the-function-by-using-the-azure-storage-explorer?u=76281980&t=85)** The one that I'm going to use is I'm going to use this local settings [[JSON]] file, and I'm going to specify the connection string here.
 >
 > **[1:36](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/testing-the-function-by-using-the-azure-storage-explorer?u=76281980&t=96)** I already have it in the notepad, so I'm just adding this WPM storage setting in this JSON file.
 >
@@ -2064,7 +2030,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[JSON]] (2), application (2), next (2), data (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[JSON]] (2)
 > **UI Navigation:** click on (3), go to (1), drag and drop (1)
 > **Env Vars:** json (2), wpm (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -2072,8 +2038,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implementing the resize code and the output binding
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/implementing-the-resize-code-and-the-output-binding?u=76281980)
+#### [Implementing the resize code and the output binding](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/implementing-the-resize-code-and-the-output-binding?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2127,7 +2092,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/implementing-the-resize-code-and-the-output-binding?u=76281980&t=180)** So in this case, I don't want to use the same container, I want to use another container, which is going to be thumbnails.
 >
-> **[3:09](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/implementing-the-resize-code-and-the-output-binding?u=76281980&t=189)** Of course, we need to create the container in the Azure storage account.
+> **[3:09](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/implementing-the-resize-code-and-the-output-binding?u=76281980&t=189)** Of course, we need to create the container in the [[Microsoft Azure|Azure]] storage account.
 >
 > **[3:15](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/implementing-the-resize-code-and-the-output-binding?u=76281980&t=195)** And let's use the same name of the blob.
 >
@@ -2163,7 +2128,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), next (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4)
 > **UI Navigation:** click on (2), navigate to (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **Tools:** azure portal (2)
@@ -2172,14 +2137,13 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Env Vars:** jpeg (1)
 
-#### Modifying the web application to display the thumbnails
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-web-application-to-display-the-thumbnails?u=76281980)
+#### [Modifying the web application to display the thumbnails](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-web-application-to-display-the-thumbnails?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-web-application-to-display-the-thumbnails?u=76281980&t=0)** - We need to modify the [AESP.net](https://AESP.net) core web application since we need to show the thumbnails in the pets catalog.
 >
-> **[0:08](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-web-application-to-display-the-thumbnails?u=76281980&t=8)** So the pets catalog is implemented in this index.cs HTML file.
+> **[0:08](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-web-application-to-display-the-thumbnails?u=76281980&t=8)** So the pets catalog is implemented in this index.cs [[HTML]] file.
 >
 > **[0:14](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-web-application-to-display-the-thumbnails?u=76281980&t=14)** And we have this table.
 >
@@ -2223,7 +2187,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web application (2), [[HTML]] (1), css (1), management (1), application (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** url (2), aesp (1), html (1), css (1)
 > **Definitions:** in other words (2), is a  (1)
 > **Analogies:** picture (2)
@@ -2232,8 +2196,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **UI Navigation:** navigate to (1)
 
-#### Pushing all the changes to the remote repositories
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/pushing-all-the-changes-to-the-remote-repositories?u=76281980)
+#### [Pushing all the changes to the remote repositories](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/pushing-all-the-changes-to-the-remote-repositories?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2243,7 +2206,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/pushing-all-the-changes-to-the-remote-repositories?u=76281980&t=10)** Commit and then push.
 >
-> **[0:14](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/pushing-all-the-changes-to-the-remote-repositories?u=76281980&t=14)** Okay, so we're ready to go to Azure DevOps.
+> **[0:14](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/pushing-all-the-changes-to-the-remote-repositories?u=76281980&t=14)** Okay, so we're ready to go to [[Microsoft Azure|Azure]] [[DevOps]].
 >
 > **[0:19](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/pushing-all-the-changes-to-the-remote-repositories?u=76281980&t=19)** So here we just need to create a pull request and approve it.
 >
@@ -2263,20 +2226,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[DevOps]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[DevOps]] (2)
 > **Cross-References:** go back to (2), in the next (1)
 > **Tools:** visual studio (2), azure portal (1)
 > **UI Navigation:** go to (1), navigate to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Provisioning the Function App resource and testing the app
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/provisioning-the-function-app-resource-and-testing-the-app?u=76281980)
+#### [Provisioning the Function App resource and testing the app](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/provisioning-the-function-app-resource-and-testing-the-app?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/provisioning-the-function-app-resource-and-testing-the-app?u=76281980&t=0)** - [Instructor] Okay, let's create a function app.
 >
-> **[0:02](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/provisioning-the-function-app-resource-and-testing-the-app?u=76281980&t=2)** Let's click on Create and then search for function, the name of the template is Function App, and let's specify the name, Say, wpmfunctionapp should be unique in the entire Azure Cloud.
+> **[0:02](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/provisioning-the-function-app-resource-and-testing-the-app?u=76281980&t=2)** Let's click on Create and then search for function, the name of the template is Function App, and let's specify the name, Say, wpmfunctionapp should be unique in the entire [[Microsoft Azure|Azure]] Cloud.
 >
 > **[0:19](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/provisioning-the-function-app-resource-and-testing-the-app?u=76281980&t=19)** And we need to specify if we want to deploy code or a container image.
 >
@@ -2284,7 +2246,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/provisioning-the-function-app-resource-and-testing-the-app?u=76281980&t=28)** And .NET 6, and the region is, in this case, West US 3.
 >
-> **[0:37](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/provisioning-the-function-app-resource-and-testing-the-app?u=76281980&t=37)** Okay, now I need to specify if I want to use Linux or Windows, in this case, I'm going to use Windows.
+> **[0:37](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/provisioning-the-function-app-resource-and-testing-the-app?u=76281980&t=37)** Okay, now I need to specify if I want to use [[Linux]] or [[Windows]], in this case, I'm going to use Windows.
 >
 > **[0:46](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/provisioning-the-function-app-resource-and-testing-the-app?u=76281980&t=46)** And in this case, I want to use the Consumption plan, in other words, the serverless flavor of Azure Functions.
 >
@@ -2294,7 +2256,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/provisioning-the-function-app-resource-and-testing-the-app?u=76281980&t=71)** And I want to use Application Insights, and of course, I want to reuse the existing Application Insights resource.
 >
-> **[1:22](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/provisioning-the-function-app-resource-and-testing-the-app?u=76281980&t=82)** For deployment, we don't want to use GitHub Actions this time and we're ready to click on Review and create.
+> **[1:22](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/provisioning-the-function-app-resource-and-testing-the-app?u=76281980&t=82)** For deployment, we don't want to use [[GitHub]] Actions this time and we're ready to click on Review and create.
 >
 > **[1:30](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/provisioning-the-function-app-resource-and-testing-the-app?u=76281980&t=90)** So let's click on Create and wait for this process to finish.
 >
@@ -2366,7 +2328,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), application (6), [[Windows]] (2), management (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Windows]] (2), [[Linux]] (1), [[GitHub]] (1)
 > **UI Navigation:** click on (5), navigate to (5), go to (2)
 > **Env Vars:** net (1), wpm (1)
 > **Cross-References:** go back to (2)
@@ -2380,8 +2342,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Taking advantage of Azure Logic Apps for your web app
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/taking-advantage-of-azure-logic-apps-for-your-web-app?u=76281980)
+#### [Taking advantage of Azure Logic Apps for your web app](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/taking-advantage-of-azure-logic-apps-for-your-web-app?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2391,21 +2352,20 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/taking-advantage-of-azure-logic-apps-for-your-web-app?u=76281980&t=14)** You don't want to spend a lot of time on this email sending feature.
 >
-> **[0:18](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/taking-advantage-of-azure-logic-apps-for-your-web-app?u=76281980&t=18)** Luckily, you've discovered that implementing this logic quickly and efficiently is possible with Azure Logic Apps.
+> **[0:18](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/taking-advantage-of-azure-logic-apps-for-your-web-app?u=76281980&t=18)** Luckily, you've discovered that implementing this logic quickly and efficiently is possible with [[Microsoft Azure|Azure]] Logic Apps.
 >
 > **[0:26](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/taking-advantage-of-azure-logic-apps-for-your-web-app?u=76281980&t=26)** So without further delay, let's jump right in.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), feature (1), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating the Azure Logic App resource for sending an email
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-logic-app-resource-for-sending-an-email?u=76281980)
+#### [Creating the Azure Logic App resource for sending an email](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-logic-app-resource-for-sending-an-email?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-logic-app-resource-for-sending-an-email?u=76281980&t=0)** - [Instructor] In this video, we're going to create an Azure Logic app for sending emails whenever a new pet is added to the Wisdom Pet Medicine application.
+> **[0:00](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-logic-app-resource-for-sending-an-email?u=76281980&t=0)** - [Instructor] In this video, we're going to create an [[Microsoft Azure|Azure]] Logic app for sending emails whenever a new pet is added to the Wisdom Pet Medicine application.
 >
 > **[0:10](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-logic-app-resource-for-sending-an-email?u=76281980&t=10)** So let's click on create and the template that we're looking for is Logic App.
 >
@@ -2425,7 +2385,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-logic-app-resource-for-sending-an-email?u=76281980&t=62)** In this case, I want to use the blank Logic app template and then I need to specify the trigger that is going to execute this Logic app.
 >
-> **[1:12](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-logic-app-resource-for-sending-an-email?u=76281980&t=72)** In this case, I want to use the SQL Server trigger, particularly when an item is created.
+> **[1:12](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-logic-app-resource-for-sending-an-email?u=76281980&t=72)** In this case, I want to use the [[Microsoft SQL Server|SQL Server]] trigger, particularly when an item is created.
 >
 > **[1:17](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-logic-app-resource-for-sending-an-email?u=76281980&t=77)** So let's create this trigger.
 >
@@ -2451,7 +2411,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-logic-app-resource-for-sending-an-email?u=76281980&t=137)** In this case, let's use 10 seconds and we're ready to go.
 >
-> **[2:24](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-logic-app-resource-for-sending-an-email?u=76281980&t=144)** In this case, I want to use another step which is the [outlook.com](https://outlook.com) action.
+> **[2:24](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-logic-app-resource-for-sending-an-email?u=76281980&t=144)** In this case, I want to use another step which is the [[[Microsoft Outlook|outlook]].com](https://outlook.com) action.
 >
 > **[2:31](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-logic-app-resource-for-sending-an-email?u=76281980&t=151)** Specifically, I want to send an email.
 >
@@ -2463,7 +2423,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-logic-app-resource-for-sending-an-email?u=76281980&t=172)** So we're ready to configure this other step that allows me to send an email.
 >
-> **[2:59](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-logic-app-resource-for-sending-an-email?u=76281980&t=179)** So I'm going to use Melissa.linkedin.learning@[outlook.com](https://outlook.com)
+> **[2:59](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-logic-app-resource-for-sending-an-email?u=76281980&t=179)** So I'm going to use Melissa.[[LinkedIn]].learning@[outlook.com](https://outlook.com)
 >
 > **[3:07](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-logic-app-resource-for-sending-an-email?u=76281980&t=187)** which is Melissa's email account.
 >
@@ -2491,7 +2451,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (5), [[Microsoft Azure|Azure]] (2), database (2), [[Microsoft Outlook|Outlook]] (2), application (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (5), [[Microsoft Azure|Azure]] (2), [[Microsoft Outlook|Outlook]] (2), [[LinkedIn]] (1)
 > **UI Navigation:** click on (7), navigate to (1), select the (1)
 > **Env Vars:** sql (5), wpm (3)
 > **Prerequisites:** configure (3)
@@ -2500,8 +2460,7 @@ created: 2026-05-02
 > **Analogies:** such as (1), for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Testing the Logic App
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/testing-the-logic-app?u=76281980)
+#### [Testing the Logic App](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/testing-the-logic-app?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2509,7 +2468,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/testing-the-logic-app?u=76281980&t=4)** Here, I already have the web application.
 >
-> **[0:07](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/testing-the-logic-app?u=76281980&t=7)** Remember that we're using the java slot.
+> **[0:07](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/testing-the-logic-app?u=76281980&t=7)** Remember that we're using the [[Java]] slot.
 >
 > **[0:09](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/testing-the-logic-app?u=76281980&t=9)** This has the latest version of the pet management application.
 >
@@ -2531,17 +2490,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web application (2), [[Java]] (1), management (1), application (1), data (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **UI Navigation:** navigate to (1), click on (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Modifying the existing Logic App to add a custom SQL Query
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-existing-logic-app-to-add-a-custom-sql-query?u=76281980)
+#### [Modifying the existing Logic App to add a custom SQL Query](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-existing-logic-app-to-add-a-custom-sql-query?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-existing-logic-app-to-add-a-custom-sql-query?u=76281980&t=0)** - [Instructor] We need to modify this Azure Logic App to send the breed name to Melissa.
+> **[0:00](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-existing-logic-app-to-add-a-custom-sql-query?u=76281980&t=0)** - [Instructor] We need to modify this [[Microsoft Azure|Azure]] Logic App to send the breed name to Melissa.
 >
 > **[0:07](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-existing-logic-app-to-add-a-custom-sql-query?u=76281980&t=7)** So let's jump right in.
 >
@@ -2557,9 +2515,9 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-existing-logic-app-to-add-a-custom-sql-query?u=76281980&t=29)** So let's click on this command and then add an action.
 >
-> **[0:35](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-existing-logic-app-to-add-a-custom-sql-query?u=76281980&t=35)** And here, I want to select SQL Server.
+> **[0:35](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-existing-logic-app-to-add-a-custom-sql-query?u=76281980&t=35)** And here, I want to select [[Microsoft SQL Server|SQL Server]].
 >
-> **[0:39](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-existing-logic-app-to-add-a-custom-sql-query?u=76281980&t=39)** Specifically I want to use execute a SQL query, and let's select the SQL Server, the database, and finally the query.
+> **[0:39](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-existing-logic-app-to-add-a-custom-sql-query?u=76281980&t=39)** Specifically I want to use execute a [[SQL]] query, and let's select the SQL Server, the database, and finally the query.
 >
 > **[0:52](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-existing-logic-app-to-add-a-custom-sql-query?u=76281980&t=52)** So I can type the entire query here.
 >
@@ -2633,7 +2591,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3), [[SQL]] (2), application (2), [[Microsoft Azure|Azure]] (1), database (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3), [[SQL]] (2), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** sql (5), where (1), url (1)
 > **UI Navigation:** click on (4), select the (1), switch to (1), navigate to (1)
 > **Cross-References:** go back to (3)
@@ -2647,8 +2605,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2656,15 +2613,15 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/next-steps?u=76281980&t=1)** You finished this course.
 >
-> **[0:03](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/next-steps?u=76281980&t=3)** At this point, you should have a solid understanding of some of the essential services you can use to build web applications in Azure.
+> **[0:03](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/next-steps?u=76281980&t=3)** At this point, you should have a solid understanding of some of the essential services you can use to build web applications in [[Microsoft Azure|Azure]].
 >
-> **[0:11](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/next-steps?u=76281980&t=11)** I would like to recommend my Extend Web Application Functionality on Microsoft Azure training course as a continuation of your learning journey.
+> **[0:11](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/next-steps?u=76281980&t=11)** I would like to recommend my Extend Web Application Functionality on [[Microsoft Azure]] training course as a continuation of your learning journey.
 >
 > **[0:22](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/next-steps?u=76281980&t=22)** Moreover, if you are already familiar with Azure's fundamental concepts, why not consider becoming certified?
 >
-> **[0:30](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/next-steps?u=76281980&t=30)** The Microsoft AZ-900 exam is your gateway to obtaining the Azure Fundamental Certification, a highly respected industry recognition.
+> **[0:30](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/next-steps?u=76281980&t=30)** The [[Microsoft]] AZ-900 exam is your gateway to obtaining the Azure Fundamental Certification, a highly respected industry recognition.
 >
-> **[0:43](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/next-steps?u=76281980&t=43)** You can also find exam preparation courses here in the LinkedIn Learning Library.
+> **[0:43](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/next-steps?u=76281980&t=43)** You can also find exam preparation courses here in the [[LinkedIn]] Learning Library.
 >
 > **[0:50](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/next-steps?u=76281980&t=50)** I hope you've enjoyed this course as much as I've enjoyed creating it for you.
 >
@@ -2674,7 +2631,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), web (1), web application (1), [[Microsoft Azure]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Microsoft Azure]] (1), [[Microsoft]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** az (1), find (1)
 > **Speakers:** - [instructor] (1)
 

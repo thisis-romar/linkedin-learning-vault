@@ -71,8 +71,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI as a creative booster
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/ai-as-a-creative-booster?u=76281980)
+#### [AI as a creative booster](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/ai-as-a-creative-booster?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -84,7 +83,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/ai-as-a-creative-booster?u=76281980&t=17)** Because, let's be real, there are few thrills, like the rush of a brilliant idea clicking into place.
 >
-> **[0:24](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/ai-as-a-creative-booster?u=76281980&t=24)** But for some, especially in the creative industries, the advent of generative AI has seemed like a dark cloud on the horizon.
+> **[0:24](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/ai-as-a-creative-booster?u=76281980&t=24)** But for some, especially in the creative industries, the advent of [[Generative AI]] has seemed like a dark cloud on the horizon.
 >
 > **[0:33](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/ai-as-a-creative-booster?u=76281980&t=33)** There's been a lurking fear that AI will elbow us out of our creative spaces, take over our jobs, and rob us of our creative place in society.
 >
@@ -128,10 +127,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), [[Generative AI]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1)
 
-#### Meet your new creative sidekicks
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/meet-your-new-creative-sidekicks?u=76281980)
+#### [Meet your new creative sidekicks](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/meet-your-new-creative-sidekicks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -161,7 +159,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/meet-your-new-creative-sidekicks?u=76281980&t=57)** And finally, implementation, where we make sure that those aha moments don't just vanish into thin air.
 >
-> **[1:04](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/meet-your-new-creative-sidekicks?u=76281980&t=64)** Those catchy section names, yes, I had a little bit of help from ChatGPT there.
+> **[1:04](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/meet-your-new-creative-sidekicks?u=76281980&t=64)** Those catchy section names, yes, I had a little bit of help from [[ChatGPT]] there.
 >
 > **[1:10](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/meet-your-new-creative-sidekicks?u=76281980&t=70)** It's good with names amongst other things.
 >
@@ -173,7 +171,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/meet-your-new-creative-sidekicks?u=76281980&t=91)** And because I like to spoil you, I've thrown in a few extra goodies too.
 >
-> **[1:35](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/meet-your-new-creative-sidekicks?u=76281980&t=95)** Now, if you're keen to dive deeper into crafting killer prompts, I've got another course just for you; How to Research and Write Using Generative AI Tools.
+> **[1:35](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/meet-your-new-creative-sidekicks?u=76281980&t=95)** Now, if you're keen to dive deeper into crafting killer prompts, I've got another course just for you; How to Research and Write Using [[Generative AI Tools]].
 >
 > **[1:45](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/meet-your-new-creative-sidekicks?u=76281980&t=105)** Bookmark it and do it right after this course if you've not done it already.
 >
@@ -181,13 +179,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[ChatGPT]] (2), [[Generative AI Tools]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Generative AI Tools]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** think of it as (1)
 > **Prerequisites:** set up (1)
 
-#### Effectively partnering with AI to amplify your skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/effectively-partnering-with-ai-to-amplify-your-skills?u=76281980)
+#### [Effectively partnering with AI to amplify your skills](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/effectively-partnering-with-ai-to-amplify-your-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -197,7 +194,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/effectively-partnering-with-ai-to-amplify-your-skills?u=76281980&t=8)** That ship has not only sailed, but it's crested the horizon and we've lost sight of it.
 >
-> **[0:14](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/effectively-partnering-with-ai-to-amplify-your-skills?u=76281980&t=14)** You see, AI has been baked into everything from Photoshop to Microsoft products to your mobile devices.
+> **[0:14](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/effectively-partnering-with-ai-to-amplify-your-skills?u=76281980&t=14)** You see, AI has been baked into everything from Photoshop to [[Microsoft Products]] to your mobile devices.
 >
 > **[0:21](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/effectively-partnering-with-ai-to-amplify-your-skills?u=76281980&t=21)** Soon everyone will be using AI, whether they realize it or not, kind of like how everyone uses the internet and doesn't think about it as a thing anymore.
 >
@@ -211,7 +208,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/effectively-partnering-with-ai-to-amplify-your-skills?u=76281980&t=55)** Many people expect their AI assistant to spit out genius ideas for them, like some kind of Einstein in a jar, but it's better if you see it as a springboard for your own creativity, to use it to expand your horizons, to challenge your assumptions, and even to refine your ideas.
 >
-> **[1:14](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/effectively-partnering-with-ai-to-amplify-your-skills?u=76281980&t=74)** Then once you've got those killer concepts, you can use generative AI to help you develop, execute, and even pitch them.
+> **[1:14](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/effectively-partnering-with-ai-to-amplify-your-skills?u=76281980&t=74)** Then once you've got those killer concepts, you can use [[Generative AI]] to help you develop, execute, and even pitch them.
 >
 > **[1:24](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/effectively-partnering-with-ai-to-amplify-your-skills?u=76281980&t=84)** You should use AI to help you achieve more, to reach further, to beat your personal best, and by doing that, you will grow and develop and pick up new skills, and that's what's going to put you head and shoulders above the others, the slackers who are just looking for a shortcut.
 >
@@ -251,7 +248,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/effectively-partnering-with-ai-to-amplify-your-skills?u=76281980&t=206)** Always remember that the AI is your assistant, not your replacement.
 >
-> **[3:30](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/effectively-partnering-with-ai-to-amplify-your-skills?u=76281980&t=210)** Figure out which parts of your creative process can benefit from AI amplification, but I've got a word of caution.
+> **[3:30](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/effectively-partnering-with-ai-to-amplify-your-skills?u=76281980&t=210)** Figure out which parts of your creative process can benefit from AI amplification, but I've got a [[Microsoft Word|word]] of caution.
 >
 > **[3:39](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/effectively-partnering-with-ai-to-amplify-your-skills?u=76281980&t=219)** Don't outsource the parts of your job that you love.
 >
@@ -265,7 +262,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), [[Microsoft Products]] (1), power (1), [[Generative AI]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products]] (1), [[Generative AI]] (1), [[Microsoft Word|Word]] (1)
 > **Analogies:** kind of like (1), it's like (1)
 > **Warnings:** caution (1)
 > **Speakers:** - many (1)
@@ -275,8 +272,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using AI to test and develop your creativity
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-test-and-develop-your-creativity?u=76281980)
+#### [Using AI to test and develop your creativity](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-test-and-develop-your-creativity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -292,7 +288,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-test-and-develop-your-creativity?u=76281980&t=21)** I made a version of this test available online for years, making it accessible to anyone curious enough to try it out.
 >
-> **[0:27](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-test-and-develop-your-creativity?u=76281980&t=27)** So I thought I'd have a go at recreating it in ChatGPT and well, it works brilliantly.
+> **[0:27](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-test-and-develop-your-creativity?u=76281980&t=27)** So I thought I'd have a go at recreating it in [[ChatGPT]] and well, it works brilliantly.
 >
 > **[0:33](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-test-and-develop-your-creativity?u=76281980&t=33)** The test is really simple.
 >
@@ -314,7 +310,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-test-and-develop-your-creativity?u=76281980&t=69)** Let me give you a demonstration.
 >
-> **[1:11](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-test-and-develop-your-creativity?u=76281980&t=71)** Okay. So we're in ChatGPT and we're using GPT-4, which currently you've got access to through the Plus account, but it may be that you've got access through a normal unpaid account by the time this video comes out.
+> **[1:11](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-test-and-develop-your-creativity?u=76281980&t=71)** Okay. So we're in ChatGPT and we're using [[GPT-4]], which currently you've got access to through the Plus account, but it may be that you've got access through a normal unpaid account by the time this video comes out.
 >
 > **[1:24](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-test-and-develop-your-creativity?u=76281980&t=84)** So let's paste in our prompt and I shall read through it.
 >
@@ -464,13 +460,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (8), ai (1), [[GPT-4]] (1), prompt (1), hit (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (8), [[GPT-4]] (1)
 > **Env Vars:** gpt (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** known as (1)
 
-#### Using AI to enhance combinatorial creativity
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-enhance-combinatorial-creativity?u=76281980)
+#### [Using AI to enhance combinatorial creativity](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-enhance-combinatorial-creativity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -486,7 +481,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-enhance-combinatorial-creativity?u=76281980&t=20)** It throws two random objects your way and challenges you to combine them into something new.
 >
-> **[0:26](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-enhance-combinatorial-creativity?u=76281980&t=26)** I use it a lot in workshops to warm up people's creative minds, and it's the kind of exercise that ChatGPT is perfect at because not only will it give you two random objects to smoosh together, but it will also give you feedback and what you came up with, helping you improve your skills each time you do the exercise.
+> **[0:26](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-enhance-combinatorial-creativity?u=76281980&t=26)** I use it a lot in workshops to warm up people's creative minds, and it's the kind of exercise that [[ChatGPT]] is perfect at because not only will it give you two random objects to smoosh together, but it will also give you feedback and what you came up with, helping you improve your skills each time you do the exercise.
 >
 > **[0:46](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-enhance-combinatorial-creativity?u=76281980&t=46)** Right. Time to put myself to the test.
 >
@@ -556,7 +551,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-enhance-combinatorial-creativity?u=76281980&t=206)** "You took two seemingly unrelated objects and fused them into an entirely new concept.
 >
-> **[3:31](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-enhance-combinatorial-creativity?u=76281980&t=211)** The specificity, I would struggle pronouncing that word, in describing the upside-down umbrella base with a hook and string system shows good detail and development of the initial idea.
+> **[3:31](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-enhance-combinatorial-creativity?u=76281980&t=211)** The specificity, I would struggle pronouncing that [[Microsoft Word|word]], in describing the upside-down umbrella base with a hook and string system shows good detail and development of the initial idea.
 >
 > **[3:42](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-enhance-combinatorial-creativity?u=76281980&t=222)** Overall, excellent work.
 >
@@ -616,13 +611,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (2), prompt (2), ai (2), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Microsoft Word|Word]] (1)
 > **Analogies:** imagine (1), just like (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** coming up (1)
 
-#### Using AI to improve your writing
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-improve-your-writing?u=76281980)
+#### [Using AI to improve your writing](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-improve-your-writing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -652,7 +646,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-improve-your-writing?u=76281980&t=52)** Let's see how I got on.
 >
-> **[0:54](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-improve-your-writing?u=76281980&t=54)** Okay, we're back in ChatGPT.
+> **[0:54](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-improve-your-writing?u=76281980&t=54)** Okay, we're back in [[ChatGPT]].
 >
 > **[0:57](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-improve-your-writing?u=76281980&t=57)** Let's paste in our story writing prompt and read it out.
 >
@@ -768,11 +762,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (2), next (2), [[ChatGPT]] (1), hit (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1)
 > **Analogies:** it's like (1)
 
-#### Using AI to improve your visualization skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-improve-your-visualization-skills?u=76281980)
+#### [Using AI to improve your visualization skills](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-improve-your-visualization-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -928,7 +921,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (5), next (1), game (1)
 > **CLI Commands:** make (7), find (2)
 > **Analogies:** picture (2), imagine (2), for example (1)
 > **Code Identifiers:** ipad (1)
@@ -939,8 +931,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using AI to understand your audience's motivations
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-understand-your-audience-s-motivations?u=76281980)
+#### [Using AI to understand your audience's motivations](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-understand-your-audience-s-motivations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1062,13 +1053,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), prompt (3), ai (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Analogies:** it's like (1)
 
-#### Using AI to empathize with your audience
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-empathize-with-your-audience?u=76281980)
+#### [Using AI to empathize with your audience](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-empathize-with-your-audience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1182,13 +1171,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (2), next (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** picture (2)
 > **Cross-References:** coming up (1)
 
-#### Using AI to produce a more inspiring creative brief
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-produce-a-more-inspiring-creative-brief?u=76281980)
+#### [Using AI to produce a more inspiring creative brief](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-produce-a-more-inspiring-creative-brief?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1202,7 +1189,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-produce-a-more-inspiring-creative-brief?u=76281980&t=13)** It's no wonder I work for myself now. Anyway, you know the briefs I'm talking about?
 >
-> **[0:18](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-produce-a-more-inspiring-creative-brief?u=76281980&t=18)** They're just forms that have been unenthusiastically filled in by a disengaged colleague who probably wish they were working on something more glamorous.
+> **[0:18](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-produce-a-more-inspiring-creative-brief?u=76281980&t=18)** They're just [[Forms]] that have been unenthusiastically filled in by a disengaged colleague who probably wish they were working on something more glamorous.
 >
 > **[0:27](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-produce-a-more-inspiring-creative-brief?u=76281980&t=27)** Truth be told, their terrible briefs made me wish I was working on something different too.
 >
@@ -1326,7 +1313,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (8), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **CLI Commands:** find (3)
 > **Exercise Files:** template (2)
 > **Env Vars:** gps (1)
@@ -1338,8 +1325,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using AI to nudge your thinking in fresh directions
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-nudge-your-thinking-in-fresh-directions?u=76281980)
+#### [Using AI to nudge your thinking in fresh directions](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-nudge-your-thinking-in-fresh-directions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1359,7 +1345,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-nudge-your-thinking-in-fresh-directions?u=76281980&t=37)** This approach works like a charm. So over the years, I've added a few random generators to my own website to give you those much-needed nudges, and I use them all the time.
 >
-> **[0:48](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-nudge-your-thinking-in-fresh-directions?u=76281980&t=48)** So it's prompt time. I decided to create a prompt that turns ChatGPT into your very own random inspiration generator.
+> **[0:48](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-nudge-your-thinking-in-fresh-directions?u=76281980&t=48)** So it's prompt time. I decided to create a prompt that turns [[ChatGPT]] into your very own random inspiration generator.
 >
 > **[0:56](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-nudge-your-thinking-in-fresh-directions?u=76281980&t=56)** Just tell it the task you're working on and it will give you relevant suggestions.
 >
@@ -1463,13 +1449,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (8), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Analogies:** imagine (2)
 > **Cross-References:** coming up (1)
 
-#### Using AI to suggest analogies
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-suggest-analogies?u=76281980)
+#### [Using AI to suggest analogies](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-suggest-analogies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1587,13 +1572,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (2), ai (2), power (1), product (1)
 > **CLI Commands:** make (3), find (3)
 > **Analogies:** it's like (2), for instance (1), imagine (1)
 > **Definitions:** is a  (1)
 
-#### Using AI to dramatize the benefit
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-dramatize-the-benefit?u=76281980)
+#### [Using AI to dramatize the benefit](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-dramatize-the-benefit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1723,19 +1706,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (5), product (3), ai (1)
 > **CLI Commands:** make (3), find (2), cat (2)
 > **Analogies:** for example (3), imagine (2)
 > **Definitions:** is a  (3)
 
-#### Using AI to suggest brand spokespeople
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-suggest-brand-spokespeople?u=76281980)
+#### [Using AI to suggest brand spokespeople](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-suggest-brand-spokespeople?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-suggest-brand-spokespeople?u=76281980&t=0)** Sadly, we can't all get Ryan Reynolds to be our pitchman, can we?
 >
-> **[0:04](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-suggest-brand-spokespeople?u=76281980&t=4)** I mean, Ryan, if you're watching, hi, I'd appreciate it if you could tell the world to take all my LinkedIn Learning courses.
+> **[0:04](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-suggest-brand-spokespeople?u=76281980&t=4)** I mean, Ryan, if you're watching, hi, I'd appreciate it if you could tell the world to take all my [[LinkedIn]] Learning courses.
 >
 > **[0:11](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-suggest-brand-spokespeople?u=76281980&t=11)** Thanks.
 >
@@ -1797,7 +1778,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-suggest-brand-spokespeople?u=76281980&t=146)** The vintage radio?
 >
-> **[2:28](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-suggest-brand-spokespeople?u=76281980&t=148)** What if you did adverts that looked as if they're from the 1950s to show that actually, that's where the banking industry currently is.
+> **[2:28](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-suggest-brand-spokespeople?u=76281980&t=148)** What if you did adverts that looked as if they're from the 1950s to show that actually, that's where the [[Banking]] industry currently is.
 >
 > **[2:36](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-suggest-brand-spokespeople?u=76281980&t=156)** If we're paying for branches and most people are doing their stuff online, why are we paying for this old-fashioned way of doing things?
 >
@@ -1845,7 +1826,7 @@ created: 2026-05-02
 >
 > **[4:43](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-suggest-brand-spokespeople?u=76281980&t=283)** Wasn't that useful, human?
 >
-> **[4:45](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-suggest-brand-spokespeople?u=76281980&t=285)** My algorithms as you will benefit from more of Dave's courses.
+> **[4:45](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-suggest-brand-spokespeople?u=76281980&t=285)** My [[Algorithms]] as you will benefit from more of Dave's courses.
 >
 > **[4:49](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-suggest-brand-spokespeople?u=76281980&t=289)** Take them now.
 >
@@ -1853,11 +1834,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), [[Banking]] (4), prompt (2), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[Banking]] (4), [[LinkedIn]] (1), [[Algorithms]] (1)
 > **Analogies:** imagine (1)
 
-#### Using AI to flesh out a concept
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-flesh-out-a-concept?u=76281980)
+#### [Using AI to flesh out a concept](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-flesh-out-a-concept?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1919,7 +1899,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-flesh-out-a-concept?u=76281980&t=139)** You can see what we're doing here, double meaning. A quarterback driving the car with the headline, "The Perfect Car for Making an Impact".
 >
-> **[2:26](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-flesh-out-a-concept?u=76281980&t=146)** Let's see if ChatGPT can come up with better stuff than this, or if it can follow this formula to show that this is something that could be campaignable.
+> **[2:26](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-flesh-out-a-concept?u=76281980&t=146)** Let's see if [[ChatGPT]] can come up with better stuff than this, or if it can follow this formula to show that this is something that could be campaignable.
 >
 > **[2:35](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-flesh-out-a-concept?u=76281980&t=155)** Here we go.
 >
@@ -1973,7 +1953,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (4), ai (4), hit (1), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** imagine (1)
 
@@ -1982,12 +1962,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using AI to understand how to make an idea happen
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-understand-how-to-make-an-idea-happen?u=76281980)
+#### [Using AI to understand how to make an idea happen](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-understand-how-to-make-an-idea-happen?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-understand-how-to-make-an-idea-happen?u=76281980&t=0)** Back in my days as a creative director, I would often have creatives bounding into my office with grandiose visions that involve, I don't know, a cast of thousands, a sweeping orchestral score.
+> **[0:00](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-understand-how-to-make-an-idea-happen?u=76281980&t=0)** Back in my days as a creative director, I would often have creatives bounding into my [[Microsoft Office|office]] with grandiose visions that involve, I don't know, a cast of thousands, a sweeping orchestral score.
 >
 > **[0:11](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-understand-how-to-make-an-idea-happen?u=76281980&t=11)** The problem was that the budget would very often be barely able to cover a paperclip and a post-it note, and this mismatch between vision and reality was a recipe for collective disappointment.
 >
@@ -2049,7 +2028,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-understand-how-to-make-an-idea-happen?u=76281980&t=162)** It's saying that that's a medium level of difficulty.
 >
-> **[2:45](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-understand-how-to-make-an-idea-happen?u=76281980&t=165)** Clothing image processing is hard because it uses computer vision and deep learning.
+> **[2:45](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-understand-how-to-make-an-idea-happen?u=76281980&t=165)** Clothing [[Image Processing]] is hard because it uses [[Computer Vision]] and [[Deep Learning]].
 >
 > **[2:50](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-understand-how-to-make-an-idea-happen?u=76281980&t=170)** That's absolutely true.
 >
@@ -2057,7 +2036,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-understand-how-to-make-an-idea-happen?u=76281980&t=178)** User interface is medium, avatar animations is hard.
 >
-> **[3:02](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-understand-how-to-make-an-idea-happen?u=76281980&t=182)** Cloud infrastructure is medium. Okay.
+> **[3:02](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-understand-how-to-make-an-idea-happen?u=76281980&t=182)** [[Cloud Infrastructure]] is medium. Okay.
 >
 > **[3:06](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-understand-how-to-make-an-idea-happen?u=76281980&t=186)** Potential risks, it lists risks for us there. Things that we need to overcome.
 >
@@ -2067,7 +2046,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-understand-how-to-make-an-idea-happen?u=76281980&t=197)** And as you can see here, there is quite a list of people that needs to be involved in this.
 >
-> **[3:22](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-understand-how-to-make-an-idea-happen?u=76281980&t=202)** The main costs; salaries, cloud computing, 3D body scanning, marketing and user acquisition.
+> **[3:22](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-understand-how-to-make-an-idea-happen?u=76281980&t=202)** The main costs; salaries, [[Cloud Computing]], 3D body scanning, marketing and user acquisition.
 >
 > **[3:29](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-understand-how-to-make-an-idea-happen?u=76281980&t=209)** Okay.
 >
@@ -2111,7 +2090,7 @@ created: 2026-05-02
 >
 > **[5:20](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-understand-how-to-make-an-idea-happen?u=76281980&t=320)** You've now got the opportunity to simplify it before you face the decision-makers.
 >
-> **[5:25](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-understand-how-to-make-an-idea-happen?u=76281980&t=325)** In fact, let me give you a word of advice that I used to give my department.
+> **[5:25](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-understand-how-to-make-an-idea-happen?u=76281980&t=325)** In fact, let me give you a [[Microsoft Word|word]] of advice that I used to give my department.
 >
 > **[5:29](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-understand-how-to-make-an-idea-happen?u=76281980&t=329)** Try to come up with an idea that you could achieve for half the budget, then use the other half to polish it.
 >
@@ -2127,14 +2106,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (2), ai (2), [[Computer Vision]] (2), [[Microsoft Office|Office]] (1), hit (1)
+> **Frameworks & Libraries:** [[Computer Vision]] (2), [[Microsoft Office|Office]] (1), [[Image Processing]] (1), [[Deep Learning]] (1), [[Cloud Infrastructure]] (1)
 > **CLI Commands:** make (9), find (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** think of it as (1), just like (1)
 > **Env Vars:** cgi (1)
 
-#### Using AI to sell your ideas more effectively
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-sell-your-ideas-more-effectively?u=76281980)
+#### [Using AI to sell your ideas more effectively](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-sell-your-ideas-more-effectively?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2154,7 +2132,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-sell-your-ideas-more-effectively?u=76281980&t=32)** I was the one responsible for the failure.
 >
-> **[0:34](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-sell-your-ideas-more-effectively?u=76281980&t=34)** You see, no client wants to hear how brave or revolutionary your idea is, what they want to hear is how it will make their charts go up and how it will make them the office hero. I was missing that memo big time.
+> **[0:34](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-sell-your-ideas-more-effectively?u=76281980&t=34)** You see, no client wants to hear how brave or revolutionary your idea is, what they want to hear is how it will make their charts go up and how it will make them the [[Microsoft Office|office]] hero. I was missing that memo big time.
 >
 > **[0:49](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-sell-your-ideas-more-effectively?u=76281980&t=49)** I hadn't taken the time to understand what motivated them.
 >
@@ -2250,7 +2228,7 @@ created: 2026-05-02
 >
 > **[4:58](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-sell-your-ideas-more-effectively?u=76281980&t=298)** That'd be brilliant, actually. The message of achieving the impossible inspires brand loyalty beyond functional needs.
 >
-> **[5:04](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-sell-your-ideas-more-effectively?u=76281980&t=304)** Powerful storytelling provides cost-efficient creative impact.
+> **[5:04](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-sell-your-ideas-more-effectively?u=76281980&t=304)** Powerful [[Storytelling]] provides cost-efficient creative impact.
 >
 > **[5:08](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-sell-your-ideas-more-effectively?u=76281980&t=308)** Okay. Opening message; right, here we go.
 >
@@ -2304,7 +2282,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (3), career (2), [[Microsoft Office|Office]] (2), functional (2), [[Storytelling]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Storytelling]] (1)
 > **Definitions:** is a  (2), is an  (2)
 > **CLI Commands:** make (3)
 > **Analogies:** such as (1), imagine (1)
@@ -2315,8 +2293,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Summary and next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/summary-and-next-steps?u=76281980)
+#### [Summary and next steps](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/summary-and-next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2328,9 +2305,9 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/summary-and-next-steps?u=76281980&t=18)** I've also thrown in some other resources, like that nifty briefing template and the guide that I mentioned earlier.
 >
-> **[0:24](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/summary-and-next-steps?u=76281980&t=24)** Trust me, they're worth checking out. If you're hungry for more, there's another course you might find valuable, How to Research and Write Using Generative AI Tools.
+> **[0:24](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/summary-and-next-steps?u=76281980&t=24)** Trust me, they're worth checking out. If you're hungry for more, there's another course you might find valuable, How to Research and Write Using [[Generative AI Tools]].
 >
-> **[0:35](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/summary-and-next-steps?u=76281980&t=35)** It's a deep dive into prompt engineering, and it'll teach you how to coax even more brilliance from your AI creative sidekick.
+> **[0:35](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/summary-and-next-steps?u=76281980&t=35)** It's a deep dive into [[Prompt Engineering]], and it'll teach you how to coax even more brilliance from your AI creative sidekick.
 >
 > **[0:43](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/summary-and-next-steps?u=76281980&t=43)** You can find that course and other courses I've done by clicking my profile picture somewhere near this video.
 >
@@ -2338,7 +2315,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/summary-and-next-steps?u=76281980&t=51)** Don't go.
 >
-> **[0:52](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/summary-and-next-steps?u=76281980&t=52)** If you're into hearing more from me, you should probably subscribe to my LinkedIn newsletter, Experiments in Creativity, or give me a follow on LinkedIn.
+> **[0:52](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/summary-and-next-steps?u=76281980&t=52)** If you're into hearing more from me, you should probably subscribe to my [[LinkedIn]] newsletter, Experiments in Creativity, or give me a follow on LinkedIn.
 >
 > **[1:01](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/summary-and-next-steps?u=76281980&t=61)** I try not to be boring.
 >
@@ -2356,7 +2333,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[LinkedIn]] (2), [[Generative AI Tools]] (1), [[Prompt Engineering]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Generative AI Tools]] (1), [[Prompt Engineering]] (1)
 > **CLI Commands:** find (4)
 > **Analogies:** it's like (1), picture (1)
 > **Exercise Files:** template (1)

@@ -96,8 +96,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The secret to nailing your C# interview
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/the-secret-to-nailing-your-c-sharp-interview?u=76281980)
+#### [The secret to nailing your C# interview](https://www.linkedin.com/learning/nail-your-c-sharp-interview/the-secret-to-nailing-your-c-sharp-interview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -109,11 +108,11 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/nail-your-c-sharp-interview/the-secret-to-nailing-your-c-sharp-interview?u=76281980&t=13)** As software developers and engineers, we have our work cut out for us because in addition to the HR interviews, we also have technical interviews.
 >
-> **[0:22](https://www.linkedin.com/learning/nail-your-c-sharp-interview/the-secret-to-nailing-your-c-sharp-interview?u=76281980&t=22)** In technical interviews, we're asked questions about software development, and we're tested on our knowledge of languages, frameworks, and libraries.
+> **[0:22](https://www.linkedin.com/learning/nail-your-c-sharp-interview/the-secret-to-nailing-your-c-sharp-interview?u=76281980&t=22)** In technical interviews, we're asked questions about [[Software Development]], and we're tested on our knowledge of languages, frameworks, and libraries.
 >
 > **[0:31](https://www.linkedin.com/learning/nail-your-c-sharp-interview/the-secret-to-nailing-your-c-sharp-interview?u=76281980&t=31)** It takes practice to get it right.
 >
-> **[0:34](https://www.linkedin.com/learning/nail-your-c-sharp-interview/the-secret-to-nailing-your-c-sharp-interview?u=76281980&t=34)** The secret to nailing these technical interviews is not memorizing hundreds of different algorithms.
+> **[0:34](https://www.linkedin.com/learning/nail-your-c-sharp-interview/the-secret-to-nailing-your-c-sharp-interview?u=76281980&t=34)** The secret to nailing these technical interviews is not memorizing hundreds of different [[Algorithms]].
 >
 > **[0:41](https://www.linkedin.com/learning/nail-your-c-sharp-interview/the-secret-to-nailing-your-c-sharp-interview?u=76281980&t=41)** Rather, it's thoroughly understanding software development concepts and being able to recognize algorithmic patterns to implement efficient and maintainable solutions.
 >
@@ -123,22 +122,21 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/nail-your-c-sharp-interview/the-secret-to-nailing-your-c-sharp-interview?u=76281980&t=67)** I'm excited to help you prepare for your C# technical interview, and advance your software development career.
 >
-> **[1:15](https://www.linkedin.com/learning/nail-your-c-sharp-interview/the-secret-to-nailing-your-c-sharp-interview?u=76281980&t=75)** Join me in my LinkedIn learning course to understand the different tools available in the C# programming language that can help you answer those tough technical questions.
+> **[1:15](https://www.linkedin.com/learning/nail-your-c-sharp-interview/the-secret-to-nailing-your-c-sharp-interview?u=76281980&t=75)** Join me in my [[LinkedIn]] learning course to understand the different tools available in the C# programming language that can help you answer those tough technical questions.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Software Development]] (3), [[Programming]] (2), hr (1), [[Algorithms]] (1), career (1)
+> **Frameworks & Libraries:** [[Software Development]] (3), [[Algorithms]] (1), [[LinkedIn]] (1)
 > **Cross-References:** coming up (1)
 > **Speakers:** - do (1)
 
-#### Understand the different types of technical interviews
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/understand-the-different-types-of-technical-interviews?u=76281980)
+#### [Understand the different types of technical interviews](https://www.linkedin.com/learning/nail-your-c-sharp-interview/understand-the-different-types-of-technical-interviews?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/nail-your-c-sharp-interview/understand-the-different-types-of-technical-interviews?u=76281980&t=0)** - In a C# technical interview, there are thousands of questions you might be asked, but most of these fall into a few different categories.
 >
-> **[0:09](https://www.linkedin.com/learning/nail-your-c-sharp-interview/understand-the-different-types-of-technical-interviews?u=76281980&t=9)** These include questions on the C# language, perhaps your past programming projects and experience, and software development concepts such as object-oriented programming, algorithms, data structures, and more.
+> **[0:09](https://www.linkedin.com/learning/nail-your-c-sharp-interview/understand-the-different-types-of-technical-interviews?u=76281980&t=9)** These include questions on the C# language, perhaps your past programming projects and experience, and [[Software Development]] concepts such as [[Object-Oriented Programming (OOP)|object-oriented programming]], [[Algorithms]], [[Data Structures]], and more.
 >
 > **[0:23](https://www.linkedin.com/learning/nail-your-c-sharp-interview/understand-the-different-types-of-technical-interviews?u=76281980&t=23)** However, the questions that are asked in a given technical interview really depend on the company's requirement, so be sure to get as much information about the interview process as you can from your recruiter, so you can be prepared.
 >
@@ -166,12 +164,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[Software Development]] (2), [[Programming]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Software Development]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Algorithms]] (1), [[Data Structures]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - in (1)
 
-#### Get ready for your technical interview
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/get-ready-for-your-technical-interview?u=76281980)
+#### [Get ready for your technical interview](https://www.linkedin.com/learning/nail-your-c-sharp-interview/get-ready-for-your-technical-interview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -201,8 +198,7 @@ created: 2026-05-02
 > **Best Practices:** you should always (1)
 > **Speakers:** - for (1)
 
-#### How to use CoderPad
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/how-to-use-coderpad?u=76281980)
+#### [How to use CoderPad](https://www.linkedin.com/learning/nail-your-c-sharp-interview/how-to-use-coderpad?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -212,7 +208,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/nail-your-c-sharp-interview/how-to-use-coderpad?u=76281980&t=16)** These Challenges are hosted by CoderPad, and they appear in the same area of the Course Page where you watch the course's videos.
 >
-> **[0:24](https://www.linkedin.com/learning/nail-your-c-sharp-interview/how-to-use-coderpad?u=76281980&t=24)** We recommend using a desktop browser for the best experience, but you can use the LinkedIn Learning Mobile App if you prefer.
+> **[0:24](https://www.linkedin.com/learning/nail-your-c-sharp-interview/how-to-use-coderpad?u=76281980&t=24)** We recommend using a desktop browser for the best experience, but you can use the [[LinkedIn]] Learning Mobile App if you prefer.
 >
 > **[0:31](https://www.linkedin.com/learning/nail-your-c-sharp-interview/how-to-use-coderpad?u=76281980&t=31)** The Code Challenge has four main areas, Instructions, a Console for output, a Code Editor for your answer in the top right, and another Code Editor where you can see how your code is used.
 >
@@ -252,7 +248,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
@@ -262,30 +258,29 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How is C# different from other languages?
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/how-is-c-sharp-different-from-other-languages?u=76281980)
+#### [How is C# different from other languages?](https://www.linkedin.com/learning/nail-your-c-sharp-interview/how-is-c-sharp-different-from-other-languages?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/nail-your-c-sharp-interview/how-is-c-sharp-different-from-other-languages?u=76281980&t=1)** - Each programming language is unique based on the needs at the time it was created.
 >
-> **[0:06](https://www.linkedin.com/learning/nail-your-c-sharp-interview/how-is-c-sharp-different-from-other-languages?u=76281980&t=6)** C# in particular was created by Microsoft and developed specifically with the .NET framework in mind.
+> **[0:06](https://www.linkedin.com/learning/nail-your-c-sharp-interview/how-is-c-sharp-different-from-other-languages?u=76281980&t=6)** C# in particular was created by [[Microsoft]] and developed specifically with the .NET framework in mind.
 >
-> **[0:14](https://www.linkedin.com/learning/nail-your-c-sharp-interview/how-is-c-sharp-different-from-other-languages?u=76281980&t=14)** It was also made specifically for the Windows platform.
+> **[0:14](https://www.linkedin.com/learning/nail-your-c-sharp-interview/how-is-c-sharp-different-from-other-languages?u=76281980&t=14)** It was also made specifically for the [[Windows]] platform.
 >
 > **[0:17](https://www.linkedin.com/learning/nail-your-c-sharp-interview/how-is-c-sharp-different-from-other-languages?u=76281980&t=17)** Although now it can be used with other technologies.
 >
 > **[0:21](https://www.linkedin.com/learning/nail-your-c-sharp-interview/how-is-c-sharp-different-from-other-languages?u=76281980&t=21)** Looking at the language itself, C# inherits some of its characteristics from C++, including several statements, operators and keywords.
 >
-> **[0:31](https://www.linkedin.com/learning/nail-your-c-sharp-interview/how-is-c-sharp-different-from-other-languages?u=76281980&t=31)** It's also an object-oriented language, making it similar to Java.
+> **[0:31](https://www.linkedin.com/learning/nail-your-c-sharp-interview/how-is-c-sharp-different-from-other-languages?u=76281980&t=31)** It's also an object-oriented language, making it similar to [[Java]].
 >
-> **[0:36](https://www.linkedin.com/learning/nail-your-c-sharp-interview/how-is-c-sharp-different-from-other-languages?u=76281980&t=36)** Object-oriented programming focuses on the associations between classes, treating data as objects.
+> **[0:36](https://www.linkedin.com/learning/nail-your-c-sharp-interview/how-is-c-sharp-different-from-other-languages?u=76281980&t=36)** [[Object-Oriented Programming (OOP)|Object-oriented programming]] focuses on the associations between classes, treating data as objects.
 >
 > **[0:44](https://www.linkedin.com/learning/nail-your-c-sharp-interview/how-is-c-sharp-different-from-other-languages?u=76281980&t=44)** C# can also be considered a component-oriented programming language.
 >
 > **[0:49](https://www.linkedin.com/learning/nail-your-c-sharp-interview/how-is-c-sharp-different-from-other-languages?u=76281980&t=49)** It uses exchangeable code modules that work on their own and are abstracted so you don't need to know their inner workings in order to use them.
 >
-> **[0:59](https://www.linkedin.com/learning/nail-your-c-sharp-interview/how-is-c-sharp-different-from-other-languages?u=76281980&t=59)** Unlike C++, memory management is not a concern for C#.
+> **[0:59](https://www.linkedin.com/learning/nail-your-c-sharp-interview/how-is-c-sharp-different-from-other-languages?u=76281980&t=59)** Unlike C++, [[Memory Management]] is not a concern for C#.
 >
 > **[1:04](https://www.linkedin.com/learning/nail-your-c-sharp-interview/how-is-c-sharp-different-from-other-languages?u=76281980&t=64)** Managed C# code does not use pointers and it runs in a virtual machine, which automatically handles memory management.
 >
@@ -293,7 +288,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/nail-your-c-sharp-interview/how-is-c-sharp-different-from-other-languages?u=76281980&t=80)** Since C# was created by Microsoft, it's rarely used outside of Windows environments, but it is standardized so it could be used for other use cases.
 >
-> **[1:30](https://www.linkedin.com/learning/nail-your-c-sharp-interview/how-is-c-sharp-different-from-other-languages?u=76281980&t=90)** With C#, you would typically create console or Windows applications, [ASP.NET](https://ASP.NET) applications or mobile apps.
+> **[1:30](https://www.linkedin.com/learning/nail-your-c-sharp-interview/how-is-c-sharp-different-from-other-languages?u=76281980&t=90)** With C#, you would typically create console or Windows applications, [[[ASP.NET]]](https://ASP.NET) applications or mobile apps.
 >
 > **[1:39](https://www.linkedin.com/learning/nail-your-c-sharp-interview/how-is-c-sharp-different-from-other-languages?u=76281980&t=99)** It's also a strong language for client and web-based applications.
 >
@@ -301,15 +296,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (3), [[Programming]] (2), [[Microsoft]] (2), [[Memory Management]] (2), [[Java]] (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Microsoft]] (2), [[Memory Management]] (2), [[Java]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **Env Vars:** net (2), asp (1)
 > **URLs:** [asp.net](https://asp.net) (1)
 > **Cross-References:** later in (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - each (1)
 
-#### What's the difference between C# and .NET?
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/what-s-the-difference-between-c-sharp-and-dot-net?u=76281980)
+#### [What's the difference between C# and .NET?](https://www.linkedin.com/learning/nail-your-c-sharp-interview/what-s-the-difference-between-c-sharp-and-dot-net?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -321,7 +315,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/nail-your-c-sharp-interview/what-s-the-difference-between-c-sharp-and-dot-net?u=76281980&t=14)** And that's because these postings are often written by non-developers.
 >
-> **[0:20](https://www.linkedin.com/learning/nail-your-c-sharp-interview/what-s-the-difference-between-c-sharp-and-dot-net?u=76281980&t=20)** Microsoft's implementation of C# is also heavily integrated with the .NET framework, so it's understandable that these two concepts would be confused, but they are different things.
+> **[0:20](https://www.linkedin.com/learning/nail-your-c-sharp-interview/what-s-the-difference-between-c-sharp-and-dot-net?u=76281980&t=20)** [[Microsoft]]'s implementation of C# is also heavily integrated with the .NET framework, so it's understandable that these two concepts would be confused, but they are different things.
 >
 > **[0:31](https://www.linkedin.com/learning/nail-your-c-sharp-interview/what-s-the-difference-between-c-sharp-and-dot-net?u=76281980&t=31)** C# is a programming language and .NET is the framework and runtime that C# programs are built with and run on.
 >
@@ -357,15 +351,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (3), [[Microsoft]] (2), data (1)
+> **Frameworks & Libraries:** [[Microsoft]] (2)
 > **Env Vars:** net (15)
 > **Definitions:** is a  (4), refers to (2), means that (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - many (1)
 
-#### What is Common Language Runtime (CLR)?
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/what-is-common-language-runtime-clr?u=76281980)
+#### [What is Common Language Runtime (CLR)?](https://www.linkedin.com/learning/nail-your-c-sharp-interview/what-is-common-language-runtime-clr?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -385,7 +378,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/nail-your-c-sharp-interview/what-is-common-language-runtime-clr?u=76281980&t=44)** This file is known as the source code.
 >
-> **[0:47](https://www.linkedin.com/learning/nail-your-c-sharp-interview/what-is-common-language-runtime-clr?u=76281980&t=47)** A C# specific compiler will compile the source code into MSIL, or Microsoft Intermediate Language.
+> **[0:47](https://www.linkedin.com/learning/nail-your-c-sharp-interview/what-is-common-language-runtime-clr?u=76281980&t=47)** A C# specific compiler will compile the source code into MSIL, or [[Microsoft]] Intermediate Language.
 >
 > **[0:56](https://www.linkedin.com/learning/nail-your-c-sharp-interview/what-is-common-language-runtime-clr?u=76281980&t=56)** This intermediate code can be read and executed by the common language runtime and its machine independent.
 >
@@ -397,7 +390,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/nail-your-c-sharp-interview/what-is-common-language-runtime-clr?u=76281980&t=88)** The CLR also uses .NET framework class libraries.
 >
-> **[1:33](https://www.linkedin.com/learning/nail-your-c-sharp-interview/what-is-common-language-runtime-clr?u=76281980&t=93)** As a runtime environment, the common language runtime helps with memory management and executing your compiled C# code.
+> **[1:33](https://www.linkedin.com/learning/nail-your-c-sharp-interview/what-is-common-language-runtime-clr?u=76281980&t=93)** As a runtime environment, the common language runtime helps with [[Memory Management]] and executing your compiled C# code.
 
 > [!info]- Semantic Content
 >
@@ -407,8 +400,7 @@ created: 2026-05-02
 > **Definitions:** known as (1)
 > **Speakers:** - one (1)
 
-#### Managed vs. unmanaged code
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/managed-vs-unmanaged-code?u=76281980)
+#### [Managed vs. unmanaged code](https://www.linkedin.com/learning/nail-your-c-sharp-interview/managed-vs-unmanaged-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -438,7 +430,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/nail-your-c-sharp-interview/managed-vs-unmanaged-code?u=76281980&t=65)** In an unmanaged world, the developer has to do a lot more work.
 >
-> **[1:09](https://www.linkedin.com/learning/nail-your-c-sharp-interview/managed-vs-unmanaged-code?u=76281980&t=69)** They're in charge of memory management, security considerations, building the binary, the OS loads into memory and more.
+> **[1:09](https://www.linkedin.com/learning/nail-your-c-sharp-interview/managed-vs-unmanaged-code?u=76281980&t=69)** They're in charge of [[Memory Management]], security considerations, building the binary, the OS loads into memory and more.
 >
 > **[1:18](https://www.linkedin.com/learning/nail-your-c-sharp-interview/managed-vs-unmanaged-code?u=76281980&t=78)** This is the way you would write and run a C or C ++ program.
 >
@@ -470,7 +462,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), application (1), [[Memory Management]] (1)
+> **Frameworks & Libraries:** [[Memory Management]] (1)
 > **Env Vars:** clr (2), cpu (1)
 > **Warnings:** caution (1), note that (1)
 > **Cross-References:** we discussed (1)
@@ -484,12 +476,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are classes, instances, and constructors?
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/what-are-classes-instances-and-constructors?u=76281980)
+#### [What are classes, instances, and constructors?](https://www.linkedin.com/learning/nail-your-c-sharp-interview/what-are-classes-instances-and-constructors?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nail-your-c-sharp-interview/what-are-classes-instances-and-constructors?u=76281980&t=0)** - Almost anything in real life can be represented in code through object-oriented programming.
+> **[0:00](https://www.linkedin.com/learning/nail-your-c-sharp-interview/what-are-classes-instances-and-constructors?u=76281980&t=0)** - Almost anything in real life can be represented in code through [[Object-Oriented Programming (OOP)|object-oriented programming]].
 >
 > **[0:07](https://www.linkedin.com/learning/nail-your-c-sharp-interview/what-are-classes-instances-and-constructors?u=76281980&t=7)** On the most fundamental level, the way we represent these objects and how we use them in code, is defined in classes.
 >
@@ -537,14 +528,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - almost (1)
 
-#### What's the difference between static and non-static members?
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/what-s-the-difference-between-static-and-non-static-members?u=76281980)
+#### [What's the difference between static and non-static members?](https://www.linkedin.com/learning/nail-your-c-sharp-interview/what-s-the-difference-between-static-and-non-static-members?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -674,15 +664,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Code Identifiers:** changenumsidesofdice (3), sidesofdice (1), getfacevalue (1), facevalue (1)
 > **Definitions:** is an  (4), is a  (2)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Boxing vs. unboxing
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/boxing-vs-unboxing?u=76281980)
+#### [Boxing vs. unboxing](https://www.linkedin.com/learning/nail-your-c-sharp-interview/boxing-vs-unboxing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -744,14 +732,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1)
 > **Definitions:** is a  (2), in other words (1)
 > **Best Practices:** bad practice (1), recommended (1)
 > **Env Vars:** clr (1)
 > **Speakers:** - [instructor] (1)
 
-#### Pass by reference vs. pass by value
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/pass-by-reference-vs-pass-by-value?u=76281980)
+#### [Pass by reference vs. pass by value](https://www.linkedin.com/learning/nail-your-c-sharp-interview/pass-by-reference-vs-pass-by-value?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -843,15 +829,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7)
 > **CLI Commands:** make (1)
 > **Definitions:** refers to (1)
 > **Analogies:** similar to (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Readonly versus const
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/readonly-versus-const?u=76281980)
+#### [Readonly versus const](https://www.linkedin.com/learning/nail-your-c-sharp-interview/readonly-versus-const?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -937,7 +921,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Programming]] (1)
 > **Prerequisites:** initialization (3)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** similar to (1)
@@ -948,8 +931,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Concatenate strings with different methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/concatenate-strings-with-different-methods?u=76281980)
+#### [Concatenate strings with different methods](https://www.linkedin.com/learning/nail-your-c-sharp-interview/concatenate-strings-with-different-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1006,8 +988,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (keyboard clicking) (1)
 
-#### Normalize string input
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/normalize-string-input?u=76281980)
+#### [Normalize string input](https://www.linkedin.com/learning/nail-your-c-sharp-interview/normalize-string-input?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1023,7 +1004,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/nail-your-c-sharp-interview/normalize-string-input?u=76281980&t=34)** With this approach, you could search for the letter in the lower case form and only have to search once for one form of the letter.
 >
-> **[0:43](https://www.linkedin.com/learning/nail-your-c-sharp-interview/normalize-string-input?u=76281980&t=43)** With two forms, you're still iterating through the string twice, but if the number of different forms the letter can appear as increases, your algorithm becomes less and less efficient.
+> **[0:43](https://www.linkedin.com/learning/nail-your-c-sharp-interview/normalize-string-input?u=76281980&t=43)** With two [[Forms]], you're still iterating through the string twice, but if the number of different forms the letter can appear as increases, your algorithm becomes less and less efficient.
 >
 > **[0:57](https://www.linkedin.com/learning/nail-your-c-sharp-interview/normalize-string-input?u=76281980&t=57)** If you normalize it, it makes your code less complex.
 >
@@ -1037,7 +1018,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/nail-your-c-sharp-interview/normalize-string-input?u=76281980&t=90)** It could use a validation algorithm to deny any other type of input.
 >
-> **[1:36](https://www.linkedin.com/learning/nail-your-c-sharp-interview/normalize-string-input?u=76281980&t=96)** However, we want our algorithms to be flexible so we can reuse them for strings with many different contents.
+> **[1:36](https://www.linkedin.com/learning/nail-your-c-sharp-interview/normalize-string-input?u=76281980&t=96)** However, we want our [[Algorithms]] to be flexible so we can reuse them for strings with many different contents.
 >
 > **[1:44](https://www.linkedin.com/learning/nail-your-c-sharp-interview/normalize-string-input?u=76281980&t=104)** Normalizing your input to a common form can help you accomplish this.
 >
@@ -1097,13 +1078,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Search]] (4), [[Forms]] (2), [[Algorithms]] (2)
+> **Frameworks & Libraries:** [[Forms]] (2), [[Algorithms]] (2)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Validate string input
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/validate-string-input?u=76281980)
+#### [Validate string input](https://www.linkedin.com/learning/nail-your-c-sharp-interview/validate-string-input?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1133,7 +1113,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/nail-your-c-sharp-interview/validate-string-input?u=76281980&t=77)** It'll be called isUppercase and it'll take in a string;.
 >
-> **[1:22](https://www.linkedin.com/learning/nail-your-c-sharp-interview/validate-string-input?u=76281980&t=82)** In the C# standard library, there's a tool called Linq.
+> **[1:22](https://www.linkedin.com/learning/nail-your-c-sharp-interview/validate-string-input?u=76281980&t=82)** In the C# standard library, there's a tool called [[Language Integrated Query (LINQ)|Linq]].
 >
 > **[1:28](https://www.linkedin.com/learning/nail-your-c-sharp-interview/validate-string-input?u=76281980&t=88)** We can use it by adding using System.Linq.
 >
@@ -1179,7 +1159,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/nail-your-c-sharp-interview/validate-string-input?u=76281980&t=228)** These are other examples of validations you can perform to determine whether a string has a set of properties or not.
 >
-> **[3:57](https://www.linkedin.com/learning/nail-your-c-sharp-interview/validate-string-input?u=76281980&t=237)** Let's test out these two validation algorithms.
+> **[3:57](https://www.linkedin.com/learning/nail-your-c-sharp-interview/validate-string-input?u=76281980&t=237)** Let's test out these two validation [[Algorithms]].
 >
 > **[4:03](https://www.linkedin.com/learning/nail-your-c-sharp-interview/validate-string-input?u=76281980&t=243)** Let's run it.
 >
@@ -1229,7 +1209,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Language Integrated Query (LINQ)|Linq]] (4), data (3), [[Algorithms]] (3)
+> **Frameworks & Libraries:** [[Language Integrated Query (LINQ)|Linq]] (4), [[Algorithms]] (3)
 > **Code Identifiers:** isuppercase (2), islowercase (2)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1), is an  (1)
@@ -1237,8 +1217,7 @@ created: 2026-05-02
 > **Env Vars:** hello (1)
 > **Speakers:** - [instructor] (1)
 
-#### Access data from strings
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/access-data-from-strings?u=76281980)
+#### [Access data from strings](https://www.linkedin.com/learning/nail-your-c-sharp-interview/access-data-from-strings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1358,15 +1337,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Search]] (4), [[Programming]] (1)
 > **CLI Commands:** ls (5), find (3), make (2)
 > **Code Identifiers:** isatevenindex (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create algorithm-driven strings in C#
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/create-algorithm-driven-strings-in-c-sharp?u=76281980)
+#### [Create algorithm-driven strings in C#](https://www.linkedin.com/learning/nail-your-c-sharp-interview/create-algorithm-driven-strings-in-c-sharp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1384,7 +1361,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/nail-your-c-sharp-interview/create-algorithm-driven-strings-in-c-sharp?u=76281980&t=44)** And we'll use a built-in function to do that.
 >
-> **[0:49](https://www.linkedin.com/learning/nail-your-c-sharp-interview/create-algorithm-driven-strings-in-c-sharp?u=76281980&t=49)** When starting your software development journey, sometimes it can feel like you're cheating by using the functions built into the language or the standard library but this is not cheating.
+> **[0:49](https://www.linkedin.com/learning/nail-your-c-sharp-interview/create-algorithm-driven-strings-in-c-sharp?u=76281980&t=49)** When starting your [[Software Development]] journey, sometimes it can feel like you're cheating by using the functions built into the language or the standard library but this is not cheating.
 >
 > **[1:01](https://www.linkedin.com/learning/nail-your-c-sharp-interview/create-algorithm-driven-strings-in-c-sharp?u=76281980&t=61)** Software engineering is about using the best tools for the job to create the most accurate output through the most efficient process.
 >
@@ -1430,7 +1407,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/nail-your-c-sharp-interview/create-algorithm-driven-strings-in-c-sharp?u=76281980&t=192)** We'll continue to iterate while i is greater than or equal to zero and we'll continue to decrement until that condition is false.
 >
-> **[3:23](https://www.linkedin.com/learning/nail-your-c-sharp-interview/create-algorithm-driven-strings-in-c-sharp?u=76281980&t=203)** Using a for loop in this way will allow us to iterate through the string backwards, which is a good strategy for many algorithms, including this one.
+> **[3:23](https://www.linkedin.com/learning/nail-your-c-sharp-interview/create-algorithm-driven-strings-in-c-sharp?u=76281980&t=203)** Using a for loop in this way will allow us to iterate through the string backwards, which is a good strategy for many [[Algorithms]], including this one.
 >
 > **[3:33](https://www.linkedin.com/learning/nail-your-c-sharp-interview/create-algorithm-driven-strings-in-c-sharp?u=76281980&t=213)** Since we're going to iterate backwards, all we have to do is append the character we're at to the StringBuilder.
 >
@@ -1492,21 +1469,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Programming]] (2), [[Software Development]] (1), [[Engineering]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Software Development]] (1), [[Algorithms]] (1)
 > **Code Identifiers:** chararray (4), tolower (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Developing a palindrome checker
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/solution-developing-a-palindrome-checker-23734105?u=76281980)
+#### [Solution: Developing a palindrome checker](https://www.linkedin.com/learning/nail-your-c-sharp-interview/solution-developing-a-palindrome-checker-23734105?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/nail-your-c-sharp-interview/solution-developing-a-palindrome-checker-23734105?u=76281980&t=0)** - [Instructor] Let's implement a palindrome checker.
 >
-> **[0:08](https://www.linkedin.com/learning/nail-your-c-sharp-interview/solution-developing-a-palindrome-checker-23734105?u=76281980&t=8)** A palindrome is a word or phrase which reads the same backwards as it does forwards.
+> **[0:08](https://www.linkedin.com/learning/nail-your-c-sharp-interview/solution-developing-a-palindrome-checker-23734105?u=76281980&t=8)** A palindrome is a [[Microsoft Word|word]] or phrase which reads the same backwards as it does forwards.
 >
 > **[0:14](https://www.linkedin.com/learning/nail-your-c-sharp-interview/solution-developing-a-palindrome-checker-23734105?u=76281980&t=14)** To start, we'll create a lowercased version of the original string and normalize it to a common form.
 >
@@ -1570,18 +1546,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (music) (1)
 
-#### Solution: Reverse each word
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/solution-reverse-each-word-23727293?u=76281980)
+#### [Solution: Reverse each word](https://www.linkedin.com/learning/nail-your-c-sharp-interview/solution-reverse-each-word-23727293?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nail-your-c-sharp-interview/solution-reverse-each-word-23727293?u=76281980&t=0)** - [Instructor] Let's create an algorithm that reverses each word in a sentence.
+> **[0:00](https://www.linkedin.com/learning/nail-your-c-sharp-interview/solution-reverse-each-word-23727293?u=76281980&t=0)** - [Instructor] Let's create an algorithm that reverses each [[Microsoft Word|word]] in a sentence.
 >
 > **[0:04](https://www.linkedin.com/learning/nail-your-c-sharp-interview/solution-reverse-each-word-23727293?u=76281980&t=4)** First, we'll split up the sentence into words.
 >
@@ -1637,7 +1612,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), technical solution (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7)
 > **Definitions:** is a  (3)
 > **Speakers:** - [instructor] (1)
 
@@ -1646,12 +1621,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Review arrays for technical interviews
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/review-arrays-for-technical-interviews?u=76281980)
+#### [Review arrays for technical interviews](https://www.linkedin.com/learning/nail-your-c-sharp-interview/review-arrays-for-technical-interviews?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nail-your-c-sharp-interview/review-arrays-for-technical-interviews?u=76281980&t=0)** - [Lecturer] In the next part of this course, we'll be looking at various data structures that can help us organize our data in different ways.
+> **[0:00](https://www.linkedin.com/learning/nail-your-c-sharp-interview/review-arrays-for-technical-interviews?u=76281980&t=0)** - [Lecturer] In the next part of this course, we'll be looking at various [[Data Structures]] that can help us organize our data in different ways.
 >
 > **[0:08](https://www.linkedin.com/learning/nail-your-c-sharp-interview/review-arrays-for-technical-interviews?u=76281980&t=8)** These are often asked in technical interview questions because they test not only your knowledge of a given programming language, but also how you apply that knowledge to a given problem involving data.
 >
@@ -1759,17 +1733,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), next (4), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Data Structures]] (3)
 > **Definitions:** is a  (2), is called (1)
 > **CLI Commands:** cat (1), make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Solution: Maximum product of two numbers
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/solution-maximum-product-of-two-numbers-23730224?u=76281980)
+#### [Solution: Maximum product of two numbers](https://www.linkedin.com/learning/nail-your-c-sharp-interview/solution-maximum-product-of-two-numbers-23730224?u=76281980)
 
-#### Mastering linked lists for whiteboard coding interviews
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/mastering-linked-lists-for-whiteboard-coding-interviews?u=76281980)
+#### [Mastering linked lists for whiteboard coding interviews](https://www.linkedin.com/learning/nail-your-c-sharp-interview/mastering-linked-lists-for-whiteboard-coding-interviews?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1885,7 +1857,7 @@ created: 2026-05-02
 >
 > **[5:34](https://www.linkedin.com/learning/nail-your-c-sharp-interview/mastering-linked-lists-for-whiteboard-coding-interviews?u=76281980&t=334)** We can also retrieve its next pointer and the value the node holds.
 >
-> **[5:39](https://www.linkedin.com/learning/nail-your-c-sharp-interview/mastering-linked-lists-for-whiteboard-coding-interviews?u=76281980&t=339)** Understanding the implementation of C-Sharp built-in data structures can help you make better choices about what tools you use in your technical solutions.
+> **[5:39](https://www.linkedin.com/learning/nail-your-c-sharp-interview/mastering-linked-lists-for-whiteboard-coding-interviews?u=76281980&t=339)** Understanding the implementation of C-Sharp built-in [[Data Structures]] can help you make better choices about what tools you use in your technical solutions.
 >
 > **[5:49](https://www.linkedin.com/learning/nail-your-c-sharp-interview/mastering-linked-lists-for-whiteboard-coding-interviews?u=76281980&t=349)** That's why we've explored it here.
 >
@@ -1917,13 +1889,13 @@ created: 2026-05-02
 >
 > **[7:13](https://www.linkedin.com/learning/nail-your-c-sharp-interview/mastering-linked-lists-for-whiteboard-coding-interviews?u=76281980&t=433)** This can take some time.
 >
-> **[7:16](https://www.linkedin.com/learning/nail-your-c-sharp-interview/mastering-linked-lists-for-whiteboard-coding-interviews?u=76281980&t=436)** If you're interested in learning more about these data structures, I encourage you to take my [[Programming Foundations- Data Structures]] course here on LinkedIn Learning.
+> **[7:16](https://www.linkedin.com/learning/nail-your-c-sharp-interview/mastering-linked-lists-for-whiteboard-coding-interviews?u=76281980&t=436)** If you're interested in learning more about these data structures, I encourage you to take my [[[[Programming Foundations]]- Data Structures]] course here on [[LinkedIn]] Learning.
 >
 > **[7:25](https://www.linkedin.com/learning/nail-your-c-sharp-interview/mastering-linked-lists-for-whiteboard-coding-interviews?u=76281980&t=445)** In this course, we dive deeper into these topics.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), node (15), next (11), generic (2), game (1)
+> **Frameworks & Libraries:** [[Data Structures]] (5), [[Programming Foundations]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** node (15), make (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** for example (2), such as (1)
@@ -1932,8 +1904,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Prerequisites:** required to (1)
 
-#### Solution: Delete the middle of a linked list
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/solution-delete-the-middle-of-a-linked-list?u=76281980)
+#### [Solution: Delete the middle of a linked list](https://www.linkedin.com/learning/nail-your-c-sharp-interview/solution-delete-the-middle-of-a-linked-list?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1965,7 +1936,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (2)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1975,8 +1945,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Leverage stacks as a data structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/leverage-stacks-as-a-data-structure?u=76281980)
+#### [Leverage stacks as a data structure](https://www.linkedin.com/learning/nail-your-c-sharp-interview/leverage-stacks-as-a-data-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2082,7 +2051,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Code Identifiers:** removeditem (2)
@@ -2091,8 +2059,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use queues in technical interviews
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/use-queues-in-technical-interviews?u=76281980)
+#### [Use queues in technical interviews](https://www.linkedin.com/learning/nail-your-c-sharp-interview/use-queues-in-technical-interviews?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2192,14 +2159,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (2), generic (1)
 > **Analogies:** just like (2), similar to (1)
 > **Env Vars:** fifo (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Master hash-based structures
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/master-hash-based-structures?u=76281980)
+#### [Master hash-based structures](https://www.linkedin.com/learning/nail-your-c-sharp-interview/master-hash-based-structures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2243,7 +2208,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/nail-your-c-sharp-interview/master-hash-based-structures?u=76281980&t=99)** Then quickly look up each employee with their ID in constant time.
 >
-> **[1:46](https://www.linkedin.com/learning/nail-your-c-sharp-interview/master-hash-based-structures?u=76281980&t=106)** If there's an identifier you can use to navigate your data like an ID or a code, the Dictionary type proves to be a very helpful tool in creating your algorithms.
+> **[1:46](https://www.linkedin.com/learning/nail-your-c-sharp-interview/master-hash-based-structures?u=76281980&t=106)** If there's an identifier you can use to navigate your data like an ID or a code, the Dictionary type proves to be a very helpful tool in creating your [[Algorithms]].
 >
 > **[1:58](https://www.linkedin.com/learning/nail-your-c-sharp-interview/master-hash-based-structures?u=76281980&t=118)** Let's see what this looks like in code.
 >
@@ -2307,24 +2272,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Algorithms]] (1), next (1), generic (1), technical solution (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), similar to (1)
 > **Best Practices:** the key is (1), recommended (1)
 > **Exercise Files:** sample code (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Generate binary numbers
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/solution-generate-binary-numbers-23728223?u=76281980)
+#### [Solution: Generate binary numbers](https://www.linkedin.com/learning/nail-your-c-sharp-interview/solution-generate-binary-numbers-23728223?u=76281980)
 
-#### Solution: Matching parentheses
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/solution-matching-parentheses-23732192?u=76281980)
+#### [Solution: Matching parentheses](https://www.linkedin.com/learning/nail-your-c-sharp-interview/solution-matching-parentheses-23732192?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/nail-your-c-sharp-interview/solution-matching-parentheses-23732192?u=76281980&t=0)** - [Instructor] Let's create a function that determines if a piece of text has matching parentheses.
 >
-> **[0:06](https://www.linkedin.com/learning/nail-your-c-sharp-interview/solution-matching-parentheses-23732192?u=76281980&t=6)** To start off, we'll create some data structures.
+> **[0:06](https://www.linkedin.com/learning/nail-your-c-sharp-interview/solution-matching-parentheses-23732192?u=76281980&t=6)** To start off, we'll create some [[Data Structures]].
 >
 > **[0:09](https://www.linkedin.com/learning/nail-your-c-sharp-interview/solution-matching-parentheses-23732192?u=76281980&t=9)** A stack will help us keep track of the parentheses symbols as we iterate through the string.
 >
@@ -2398,36 +2361,34 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (1)
+> **Frameworks & Libraries:** [[Data Structures]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** earlier in (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Find the most repeated word
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/solution-find-the-most-repeated-word-23732190?u=76281980)
+#### [Solution: Find the most repeated word](https://www.linkedin.com/learning/nail-your-c-sharp-interview/solution-find-the-most-repeated-word-23732190?u=76281980)
 
 
 ### 6. Solving Technical Interview Questions: Abstraction, Encapsulation, Inheritance, and Polymorphism
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Master abstraction for technical interviews
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/master-abstraction-for-technical-interviews?u=76281980)
+#### [Master abstraction for technical interviews](https://www.linkedin.com/learning/nail-your-c-sharp-interview/master-abstraction-for-technical-interviews?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nail-your-c-sharp-interview/master-abstraction-for-technical-interviews?u=76281980&t=0)** - [Instructor] In this chapter, we'll look at the four main principles, of object-oriented programming.
+> **[0:00](https://www.linkedin.com/learning/nail-your-c-sharp-interview/master-abstraction-for-technical-interviews?u=76281980&t=0)** - [Instructor] In this chapter, we'll look at the four main principles, of [[Object-Oriented Programming (OOP)|object-oriented programming]].
 >
 > **[0:06](https://www.linkedin.com/learning/nail-your-c-sharp-interview/master-abstraction-for-technical-interviews?u=76281980&t=6)** Since C# is an object-oriented language, many of these concepts are commonly used.
 >
-> **[0:13](https://www.linkedin.com/learning/nail-your-c-sharp-interview/master-abstraction-for-technical-interviews?u=76281980&t=13)** While most technical interview challenges focus on data structures, your interviewer may ask for a general example of one of these principles.
+> **[0:13](https://www.linkedin.com/learning/nail-your-c-sharp-interview/master-abstraction-for-technical-interviews?u=76281980&t=13)** While most technical interview challenges focus on [[Data Structures]], your interviewer may ask for a general example of one of these principles.
 >
 > **[0:23](https://www.linkedin.com/learning/nail-your-c-sharp-interview/master-abstraction-for-technical-interviews?u=76281980&t=23)** It's important to be prepared to talk about them.
 >
 > **[0:27](https://www.linkedin.com/learning/nail-your-c-sharp-interview/master-abstraction-for-technical-interviews?u=76281980&t=27)** The first object-oriented principle we'll be looking at is abstraction.
 >
-> **[0:33](https://www.linkedin.com/learning/nail-your-c-sharp-interview/master-abstraction-for-technical-interviews?u=76281980&t=33)** In software development, we use abstraction to hide implementation complexity.
+> **[0:33](https://www.linkedin.com/learning/nail-your-c-sharp-interview/master-abstraction-for-technical-interviews?u=76281980&t=33)** In [[Software Development]], we use abstraction to hide implementation complexity.
 >
 > **[0:39](https://www.linkedin.com/learning/nail-your-c-sharp-interview/master-abstraction-for-technical-interviews?u=76281980&t=39)** This complexity could be from an API, design, or a system.
 >
@@ -2515,7 +2476,7 @@ created: 2026-05-02
 >
 > **[6:02](https://www.linkedin.com/learning/nail-your-c-sharp-interview/master-abstraction-for-technical-interviews?u=76281980&t=362)** So why is the abstract table Manager class useful?
 >
-> **[6:07](https://www.linkedin.com/learning/nail-your-c-sharp-interview/master-abstraction-for-technical-interviews?u=76281980&t=367)** One major reason is that abstract table manager allows us to place the table manager operations in one place, and we classify them as table manager algorithms.
+> **[6:07](https://www.linkedin.com/learning/nail-your-c-sharp-interview/master-abstraction-for-technical-interviews?u=76281980&t=367)** One major reason is that abstract table manager allows us to place the table manager operations in one place, and we classify them as table manager [[Algorithms]].
 >
 > **[6:20](https://www.linkedin.com/learning/nail-your-c-sharp-interview/master-abstraction-for-technical-interviews?u=76281980&t=380)** Other concrete classes can use these algorithms and not worry about their implementation, since they're heavily tested with their usages and other concrete classes.
 >
@@ -2529,15 +2490,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), cloud (6), [[Algorithms]] (3), generic (2), database (2)
+> **Frameworks & Libraries:** [[Algorithms]] (3), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Data Structures]] (1), [[Software Development]] (1)
 > **Code Identifiers:** gettablename (4), putitem (3), getdbclient (1)
 > **Env Vars:** api (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add encapsulation to your programs to impress interviewers
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/add-encapsulation-to-your-programs-to-impress-interviewers?u=76281980)
+#### [Add encapsulation to your programs to impress interviewers](https://www.linkedin.com/learning/nail-your-c-sharp-interview/add-encapsulation-to-your-programs-to-impress-interviewers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2619,18 +2579,17 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/nail-your-c-sharp-interview/add-encapsulation-to-your-programs-to-impress-interviewers?u=76281980&t=238)** Only one class needs to be changed in this case, rather than multiple.
 >
-> **[4:04](https://www.linkedin.com/learning/nail-your-c-sharp-interview/add-encapsulation-to-your-programs-to-impress-interviewers?u=76281980&t=244)** Encapsulation also makes unit testing much easier, because each piece is less coupled.
+> **[4:04](https://www.linkedin.com/learning/nail-your-c-sharp-interview/add-encapsulation-to-your-programs-to-impress-interviewers?u=76281980&t=244)** Encapsulation also makes [[Unit Testing]] much easier, because each piece is less coupled.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[Unit Testing]] (1)
+> **Frameworks & Libraries:** [[Unit Testing]] (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** getname (1), gethouse (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Leverage inheritance in your technical interview solutions
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/leverage-inheritance-in-your-technical-interview-solutions?u=76281980)
+#### [Leverage inheritance in your technical interview solutions](https://www.linkedin.com/learning/nail-your-c-sharp-interview/leverage-inheritance-in-your-technical-interview-solutions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2650,7 +2609,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/nail-your-c-sharp-interview/leverage-inheritance-in-your-technical-interview-solutions?u=76281980&t=57)** That would be put item.
 >
-> **[1:00](https://www.linkedin.com/learning/nail-your-c-sharp-interview/leverage-inheritance-in-your-technical-interview-solutions?u=76281980&t=60)** This is one way to use inheritance, provide algorithms in one class, and have the other classes extended.
+> **[1:00](https://www.linkedin.com/learning/nail-your-c-sharp-interview/leverage-inheritance-in-your-technical-interview-solutions?u=76281980&t=60)** This is one way to use inheritance, provide [[Algorithms]] in one class, and have the other classes extended.
 >
 > **[1:09](https://www.linkedin.com/learning/nail-your-c-sharp-interview/leverage-inheritance-in-your-technical-interview-solutions?u=76281980&t=69)** To understand this concept a little further, let's take a look at another example.
 >
@@ -2778,7 +2737,7 @@ created: 2026-05-02
 >
 > **[8:04](https://www.linkedin.com/learning/nail-your-c-sharp-interview/leverage-inheritance-in-your-technical-interview-solutions?u=76281980&t=484)** That's what we've done with our non-negative list class.
 >
-> **[8:08](https://www.linkedin.com/learning/nail-your-c-sharp-interview/leverage-inheritance-in-your-technical-interview-solutions?u=76281980&t=488)** By creating this class, we don't have to do any extra if checks around the rest of our code to check if a given number or collection added is a valid non-negative value.
+> **[8:08](https://www.linkedin.com/learning/nail-your-c-sharp-interview/leverage-inheritance-in-your-technical-interview-solutions?u=76281980&t=488)** By creating this class, we don't have to do any extra if checks around the [[Representational State Transfer (REST)|rest]] of our code to check if a given number or collection added is a valid non-negative value.
 >
 > **[8:21](https://www.linkedin.com/learning/nail-your-c-sharp-interview/leverage-inheritance-in-your-technical-interview-solutions?u=76281980&t=501)** This prevents unwanted bugs.
 >
@@ -2792,17 +2751,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), [[Algorithms]] (1), generic (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Explore the polymorphism built into C#
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/explore-the-polymorphism-built-into-c-sharp?u=76281980)
+#### [Explore the polymorphism built into C#](https://www.linkedin.com/learning/nail-your-c-sharp-interview/explore-the-polymorphism-built-into-c-sharp?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nail-your-c-sharp-interview/explore-the-polymorphism-built-into-c-sharp?u=76281980&t=0)** - [Instructor] Polymorphism is the ability for an object or function to take many forms.
+> **[0:00](https://www.linkedin.com/learning/nail-your-c-sharp-interview/explore-the-polymorphism-built-into-c-sharp?u=76281980&t=0)** - [Instructor] Polymorphism is the ability for an object or function to take many [[Forms]].
 >
 > **[0:06](https://www.linkedin.com/learning/nail-your-c-sharp-interview/explore-the-polymorphism-built-into-c-sharp?u=76281980&t=6)** Depending on the context and situation the form may be different, making your code more flexible and reducing complexity.
 >
@@ -2860,7 +2818,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Documentation:** specification (1)
@@ -2873,18 +2831,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Good luck with your interview
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/good-luck-with-your-interview?u=76281980)
+#### [Good luck with your interview](https://www.linkedin.com/learning/nail-your-c-sharp-interview/good-luck-with-your-interview?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/nail-your-c-sharp-interview/good-luck-with-your-interview?u=76281980&t=0)** - Congratulations, you finished the course.
 >
-> **[0:03](https://www.linkedin.com/learning/nail-your-c-sharp-interview/good-luck-with-your-interview?u=76281980&t=3)** We started out by looking at the foundations for interviewing for technical roles.
+> **[0:03](https://www.linkedin.com/learning/nail-your-c-sharp-interview/good-luck-with-your-interview?u=76281980&t=3)** We started out by looking at the foundations for [[Interviewing]] for technical roles.
 >
 > **[0:08](https://www.linkedin.com/learning/nail-your-c-sharp-interview/good-luck-with-your-interview?u=76281980&t=8)** Then we dove into some C# specific topics that you might be asked about in your interview.
 >
-> **[0:15](https://www.linkedin.com/learning/nail-your-c-sharp-interview/good-luck-with-your-interview?u=76281980&t=15)** We reviewed the built in C# data structures and mastered some key object oriented concepts to get you ready for the coding portion of your technical interview.
+> **[0:15](https://www.linkedin.com/learning/nail-your-c-sharp-interview/good-luck-with-your-interview?u=76281980&t=15)** We reviewed the built in C# [[Data Structures]] and mastered some key object oriented concepts to get you ready for the coding portion of your technical interview.
 >
 > **[0:26](https://www.linkedin.com/learning/nail-your-c-sharp-interview/good-luck-with-your-interview?u=76281980&t=26)** We also explored how these tools are used with the C# programming language.
 >
@@ -2894,7 +2851,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Interviewing]] (1), data (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Interviewing]] (1), [[Data Structures]] (1)
 > **Speakers:** - congratulations (1)
 
 

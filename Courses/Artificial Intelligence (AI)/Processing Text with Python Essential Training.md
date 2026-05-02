@@ -84,8 +84,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The need for text mining skills in data science
-> [LinkedIn Learning](https://www.linkedin.com/learning/processing-text-with-python-essential-training/the-need-for-text-mining-skills-in-data-science?u=76281980)
+#### [The need for text mining skills in data science](https://www.linkedin.com/learning/processing-text-with-python-essential-training/the-need-for-text-mining-skills-in-data-science?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -101,7 +100,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/processing-text-with-python-essential-training/the-need-for-text-mining-skills-in-data-science?u=76281980&t=31)** My name is Kumaran Ponnambalam.
 >
-> **[0:34](https://www.linkedin.com/learning/processing-text-with-python-essential-training/the-need-for-text-mining-skills-in-data-science?u=76281980&t=34)** In this course, I will show you the tools and techniques available for text processing in Python.
+> **[0:34](https://www.linkedin.com/learning/processing-text-with-python-essential-training/the-need-for-text-mining-skills-in-data-science?u=76281980&t=34)** In this course, I will show you the tools and techniques available for text processing in [[Python (Programming Language)|Python]].
 >
 > **[0:40](https://www.linkedin.com/learning/processing-text-with-python-essential-training/the-need-for-text-mining-skills-in-data-science?u=76281980&t=40)** We will use NLTK library to build use cases in Jupyter notebooks.
 >
@@ -111,7 +110,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), data (2), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3)
 > **CLI Commands:** python (3)
 > **Tools:** jupyter (2)
 > **Env Vars:** nltk (1)
@@ -124,8 +123,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Text mining today
-> [LinkedIn Learning](https://www.linkedin.com/learning/processing-text-with-python-essential-training/text-mining-today?u=76281980)
+#### [Text mining today](https://www.linkedin.com/learning/processing-text-with-python-essential-training/text-mining-today?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -155,20 +153,19 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/processing-text-with-python-essential-training/text-mining-today?u=76281980&t=76)** Also, text does not have a fixed structure or schema that makes understanding it difficult.
 >
-> **[1:23](https://www.linkedin.com/learning/processing-text-with-python-essential-training/text-mining-today?u=76281980&t=83)** In this course, we will look at tools and techniques offered in Python for processing text data.
+> **[1:23](https://www.linkedin.com/learning/processing-text-with-python-essential-training/text-mining-today?u=76281980&t=83)** In this course, we will look at tools and techniques offered in [[Python (Programming Language)|Python]] for processing text data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Analytics]] (2), business (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 
-#### Document concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/processing-text-with-python-essential-training/document-concepts?u=76281980)
+#### [Document concepts](https://www.linkedin.com/learning/processing-text-with-python-essential-training/document-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/processing-text-with-python-essential-training/document-concepts?u=76281980&t=0)** - [Instructor] A document is a key entity that is used in the text mining world.
+> **[0:00](https://www.linkedin.com/learning/processing-text-with-python-essential-training/document-concepts?u=76281980&t=0)** - [Instructor] A document is a key entity that is used in the [[Text Mining]] world.
 >
 > **[0:06](https://www.linkedin.com/learning/processing-text-with-python-essential-training/document-concepts?u=76281980&t=6)** Text processing software libraries receive and process documents.
 >
@@ -196,13 +193,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Text Mining]] (1), product (1), database (1), data (1)
+> **Frameworks & Libraries:** [[Text Mining]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** similar to (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Corpus concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/processing-text-with-python-essential-training/corpus-concepts?u=76281980)
+#### [Corpus concepts](https://www.linkedin.com/learning/processing-text-with-python-essential-training/corpus-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -210,7 +206,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/processing-text-with-python-essential-training/corpus-concepts?u=76281980&t=4)** The plural of a corpus is copora.
 >
-> **[0:08](https://www.linkedin.com/learning/processing-text-with-python-essential-training/corpus-concepts?u=76281980&t=8)** In text mining, a corpus is a collection of documents.
+> **[0:08](https://www.linkedin.com/learning/processing-text-with-python-essential-training/corpus-concepts?u=76281980&t=8)** In [[Text Mining]], a corpus is a collection of documents.
 >
 > **[0:12](https://www.linkedin.com/learning/processing-text-with-python-essential-training/corpus-concepts?u=76281980&t=12)** Documents inside a corpus are related to each other either by entity or by time periods.
 >
@@ -226,17 +222,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Text Mining]] (2), product (2), next (1), database (1), data (1)
+> **Frameworks & Libraries:** [[Text Mining]] (2)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to the NLTK library
-> [LinkedIn Learning](https://www.linkedin.com/learning/processing-text-with-python-essential-training/introduction-to-the-nltk-library?u=76281980)
+#### [Introduction to the NLTK library](https://www.linkedin.com/learning/processing-text-with-python-essential-training/introduction-to-the-nltk-library?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/processing-text-with-python-essential-training/introduction-to-the-nltk-library?u=76281980&t=0)** - [Instructor] Python supports a number of packages for natural language processing.
+> **[0:00](https://www.linkedin.com/learning/processing-text-with-python-essential-training/introduction-to-the-nltk-library?u=76281980&t=0)** - [Instructor] [[Python (Programming Language)|Python]] supports a number of packages for [[Natural Language Processing (NLP)|natural language processing]].
 >
 > **[0:05](https://www.linkedin.com/learning/processing-text-with-python-essential-training/introduction-to-the-nltk-library?u=76281980&t=5)** The most important among this is the natural language toolkit or NLTK.
 >
@@ -252,7 +247,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/processing-text-with-python-essential-training/introduction-to-the-nltk-library?u=76281980&t=45)** A developer can use these to experiment with the library.
 >
-> **[0:49](https://www.linkedin.com/learning/processing-text-with-python-essential-training/introduction-to-the-nltk-library?u=76281980&t=49)** It also supports a number of machine learning features, like classification and clustering algorithms.
+> **[0:49](https://www.linkedin.com/learning/processing-text-with-python-essential-training/introduction-to-the-nltk-library?u=76281980&t=49)** It also supports a number of machine learning features, like classification and clustering [[Algorithms]].
 >
 > **[0:56](https://www.linkedin.com/learning/processing-text-with-python-essential-training/introduction-to-the-nltk-library?u=76281980&t=56)** This makes NLTK an end to end library for text processing and analytics.
 >
@@ -262,7 +257,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Analytics]] (2), data (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Algorithms]] (1)
 > **Env Vars:** nltk (6)
 > **CLI Commands:** python (2)
 > **URLs:** [nltk.org](https://nltk.org) (1)
@@ -270,18 +265,17 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up the environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/processing-text-with-python-essential-training/setting-up-the-environment?u=76281980)
+#### [Setting up the environment](https://www.linkedin.com/learning/processing-text-with-python-essential-training/setting-up-the-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/processing-text-with-python-essential-training/setting-up-the-environment?u=76281980&t=0)** - [Instructor] This course uses Python 3.7 and Jupyter Notebooks.
+> **[0:00](https://www.linkedin.com/learning/processing-text-with-python-essential-training/setting-up-the-environment?u=76281980&t=0)** - [Instructor] This course uses [[Python (Programming Language)|Python]] 3.7 and Jupyter Notebooks.
 >
 > **[0:05](https://www.linkedin.com/learning/processing-text-with-python-essential-training/setting-up-the-environment?u=76281980&t=5)** If you do not have it already set up, you can set it up using the Anaconda Distribution.
 >
 > **[0:10](https://www.linkedin.com/learning/processing-text-with-python-essential-training/setting-up-the-environment?u=76281980&t=10)** You can download from this website, [anaconda.com/distribution](https://anaconda.com/distribution).
 >
-> **[0:17](https://www.linkedin.com/learning/processing-text-with-python-essential-training/setting-up-the-environment?u=76281980&t=17)** It contains executables for multiple operating systems, including Windows, macOS, and Linux.
+> **[0:17](https://www.linkedin.com/learning/processing-text-with-python-essential-training/setting-up-the-environment?u=76281980&t=17)** It contains executables for multiple operating systems, including [[Windows]], macOS, and [[Linux]].
 >
 > **[0:24](https://www.linkedin.com/learning/processing-text-with-python-essential-training/setting-up-the-environment?u=76281980&t=24)** Please download the one that is appropriate for you.
 >
@@ -311,7 +305,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Python (Programming Language)|Python]] (2), [[Windows]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Windows]] (1), [[Linux]] (1)
 > **Tools:** jupyter (7), anaconda (4)
 > **CLI Commands:** python (2), make (2)
 > **UI Navigation:** right-click (2), dropdown (1), go to (1)
@@ -325,8 +319,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Reading raw files
-> [LinkedIn Learning](https://www.linkedin.com/learning/processing-text-with-python-essential-training/reading-raw-files?u=76281980)
+#### [Reading raw files](https://www.linkedin.com/learning/processing-text-with-python-essential-training/reading-raw-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -340,11 +333,11 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/processing-text-with-python-essential-training/reading-raw-files?u=76281980&t=26)** Let us explore its content.
 >
-> **[0:29](https://www.linkedin.com/learning/processing-text-with-python-essential-training/reading-raw-files?u=76281980&t=29)** It contains description of a course on Apache Spark.
+> **[0:29](https://www.linkedin.com/learning/processing-text-with-python-essential-training/reading-raw-files?u=76281980&t=29)** It contains description of a course on [[Apache Spark]].
 >
 > **[0:34](https://www.linkedin.com/learning/processing-text-with-python-essential-training/reading-raw-files?u=76281980&t=34)** All text data needed for processing have to be acquired from a data source.
 >
-> **[0:40](https://www.linkedin.com/learning/processing-text-with-python-essential-training/reading-raw-files?u=76281980&t=40)** In this code example, we will read a text file into a python variable.
+> **[0:40](https://www.linkedin.com/learning/processing-text-with-python-essential-training/reading-raw-files?u=76281980&t=40)** In this code example, we will read a text file into a [[Python (Programming Language)|python]] variable.
 >
 > **[0:46](https://www.linkedin.com/learning/processing-text-with-python-essential-training/reading-raw-files?u=76281980&t=46)** This is standard python and does not use the NLTK library.
 >
@@ -352,7 +345,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/processing-text-with-python-essential-training/reading-raw-files?u=76281980&t=61)** Let us run the code now.
 >
-> **[1:04](https://www.linkedin.com/learning/processing-text-with-python-essential-training/reading-raw-files?u=76281980&t=64)** In general, data can be acquired from various sources, including files, databases, or strings.
+> **[1:04](https://www.linkedin.com/learning/processing-text-with-python-essential-training/reading-raw-files?u=76281980&t=64)** In general, data can be acquired from various sources, including files, [[Databases]], or strings.
 >
 > **[1:11](https://www.linkedin.com/learning/processing-text-with-python-essential-training/reading-raw-files?u=76281980&t=71)** There are several python packages and tools that help to get data from these sources.
 >
@@ -362,13 +355,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Python (Programming Language)|Python]] (3), [[Apache Spark]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Apache Spark]] (1), [[Databases]] (1)
 > **CLI Commands:** python (3), apache (1)
 > **Env Vars:** nltk (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reading files with corpus reader
-> [LinkedIn Learning](https://www.linkedin.com/learning/processing-text-with-python-essential-training/reading-files-with-corpus-reader?u=76281980)
+#### [Reading files with corpus reader](https://www.linkedin.com/learning/processing-text-with-python-essential-training/reading-files-with-corpus-reader?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -386,7 +378,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/processing-text-with-python-essential-training/reading-files-with-corpus-reader?u=76281980&t=37)** Each text file becomes a single file id but the contents of the file are (mumbles) together in to a single corpus.
 >
-> **[0:46](https://www.linkedin.com/learning/processing-text-with-python-essential-training/reading-files-with-corpus-reader?u=76281980&t=46)** Data is then split in to paragraphs, sentences, and tokens automatically, while the corpus is read.
+> **[0:46](https://www.linkedin.com/learning/processing-text-with-python-essential-training/reading-files-with-corpus-reader?u=76281980&t=46)** Data is then split in to paragraphs, sentences, and [[Tokens]] automatically, while the corpus is read.
 >
 > **[0:53](https://www.linkedin.com/learning/processing-text-with-python-essential-training/reading-files-with-corpus-reader?u=76281980&t=53)** In this example, we need the same "Spark-Course-Description.txt" file into the corpus.
 >
@@ -396,7 +388,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (1)
 > **Env Vars:** nltk (4)
 > **Prerequisites:** install (2)
 > **File Paths:** spark-course-description.txt (1)
@@ -405,8 +397,7 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Speakers:** - [narrator] (1)
 
-#### Exploring the corpus
-> [LinkedIn Learning](https://www.linkedin.com/learning/processing-text-with-python-essential-training/exploring-the-corpus?u=76281980)
+#### [Exploring the corpus](https://www.linkedin.com/learning/processing-text-with-python-essential-training/exploring-the-corpus?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -432,13 +423,13 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/processing-text-with-python-essential-training/exploring-the-corpus?u=76281980&t=51)** This actually gives you a list of lists.
 >
-> **[0:54](https://www.linkedin.com/learning/processing-text-with-python-essential-training/exploring-the-corpus?u=76281980&t=54)** Each sentence is made into a list of words, then those individual word lists make up the sentence list.
+> **[0:54](https://www.linkedin.com/learning/processing-text-with-python-essential-training/exploring-the-corpus?u=76281980&t=54)** Each sentence is made into a list of words, then those individual [[Microsoft Word|word]] lists make up the sentence list.
 >
 > **[1:02](https://www.linkedin.com/learning/processing-text-with-python-essential-training/exploring-the-corpus?u=76281980&t=62)** We first print the total number of sentences in the corpus, which gives a value of five.
 >
 > **[1:08](https://www.linkedin.com/learning/processing-text-with-python-essential-training/exploring-the-corpus?u=76281980&t=68)** We then just print the first sentence.
 >
-> **[1:10](https://www.linkedin.com/learning/processing-text-with-python-essential-training/exploring-the-corpus?u=76281980&t=70)** This should actually print the list of words that forms the first sentence in the corpus.
+> **[1:10](https://www.linkedin.com/learning/processing-text-with-python-essential-training/exploring-the-corpus?u=76281980&t=70)** This should actually print the list of words that [[Forms]] the first sentence in the corpus.
 >
 > **[1:17](https://www.linkedin.com/learning/processing-text-with-python-essential-training/exploring-the-corpus?u=76281980&t=77)** Finally, we print all the words in the corpus using the words (mumbles).
 >
@@ -458,15 +449,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1), [[Microsoft Word|Word]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Forms]] (1)
 > **Definitions:** is a  (2)
 > **File Paths:** description.txt (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Analyzing the corpus
-> [LinkedIn Learning](https://www.linkedin.com/learning/processing-text-with-python-essential-training/analyzing-the-corpus?u=76281980)
+#### [Analyzing the corpus](https://www.linkedin.com/learning/processing-text-with-python-essential-training/analyzing-the-corpus?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -480,7 +470,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/processing-text-with-python-essential-training/analyzing-the-corpus?u=76281980&t=25)** This is a list of couples.
 >
-> **[0:26](https://www.linkedin.com/learning/processing-text-with-python-essential-training/analyzing-the-corpus?u=76281980&t=26)** It prints out each word and the number of times it occurs in the corpus.
+> **[0:26](https://www.linkedin.com/learning/processing-text-with-python-essential-training/analyzing-the-corpus?u=76281980&t=26)** It prints out each [[Microsoft Word|word]] and the number of times it occurs in the corpus.
 >
 > **[0:31](https://www.linkedin.com/learning/processing-text-with-python-essential-training/analyzing-the-corpus?u=76281980&t=31)** We can also look up a specific word to see its distribution in the corpus.
 >
@@ -492,7 +482,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), data (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5)
 > **Env Vars:** nltk (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -502,8 +492,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tokenization
-> [LinkedIn Learning](https://www.linkedin.com/learning/processing-text-with-python-essential-training/tokenization?u=76281980)
+#### [Tokenization](https://www.linkedin.com/learning/processing-text-with-python-essential-training/tokenization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -511,7 +500,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/processing-text-with-python-essential-training/tokenization?u=76281980&t=7)** Tokenization is the process of breaking down a stream of textual content into its parts, words, terms, symbols, sentences, paragraphs, and other meaningful elements.
 >
-> **[0:21](https://www.linkedin.com/learning/processing-text-with-python-essential-training/tokenization?u=76281980&t=21)** Converting text into a set of tokens makes it easy for further cleansing of the corpus.
+> **[0:21](https://www.linkedin.com/learning/processing-text-with-python-essential-training/tokenization?u=76281980&t=21)** Converting text into a set of [[Tokens]] makes it easy for further cleansing of the corpus.
 >
 > **[0:28](https://www.linkedin.com/learning/processing-text-with-python-essential-training/tokenization?u=76281980&t=28)** The code for this chapter is available in the notebook named 03_XX Text Cleansing and Extraction.
 >
@@ -521,7 +510,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/processing-text-with-python-essential-training/tokenization?u=76281980&t=53)** We read the Spark-Course-Description.txt file into a raw text variable.
 >
-> **[0:58](https://www.linkedin.com/learning/processing-text-with-python-essential-training/tokenization?u=76281980&t=58)** We then use the word tokenize method to convert it into a token list.
+> **[0:58](https://www.linkedin.com/learning/processing-text-with-python-essential-training/tokenization?u=76281980&t=58)** We then use the [[Microsoft Word|word]] tokenize method to convert it into a token list.
 >
 > **[1:04](https://www.linkedin.com/learning/processing-text-with-python-essential-training/tokenization?u=76281980&t=64)** We then print the first 20 tokens.
 >
@@ -539,8 +528,7 @@ created: 2026-05-02
 > **Cross-References:** previous chapter (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cleansing text
-> [LinkedIn Learning](https://www.linkedin.com/learning/processing-text-with-python-essential-training/cleansing-text?u=76281980)
+#### [Cleansing text](https://www.linkedin.com/learning/processing-text-with-python-essential-training/cleansing-text?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -576,31 +564,30 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/processing-text-with-python-essential-training/cleansing-text?u=76281980&t=83)** Let us run this code now.
 >
-> **[1:26](https://www.linkedin.com/learning/processing-text-with-python-essential-training/cleansing-text?u=76281980&t=86)** The original list had 110 tokens.
+> **[1:26](https://www.linkedin.com/learning/processing-text-with-python-essential-training/cleansing-text?u=76281980&t=86)** The original list had 110 [[Tokens]].
 >
 > **[1:29](https://www.linkedin.com/learning/processing-text-with-python-essential-training/cleansing-text?u=76281980&t=89)** Now it only has 100 because the punctuations are removed from the list.
 >
-> **[1:34](https://www.linkedin.com/learning/processing-text-with-python-essential-training/cleansing-text?u=76281980&t=94)** Next, we convert each token to lowercase using a standard Python function for this purpose.
+> **[1:34](https://www.linkedin.com/learning/processing-text-with-python-essential-training/cleansing-text?u=76281980&t=94)** Next, we convert each token to lowercase using a standard [[Python (Programming Language)|Python]] function for this purpose.
 >
 > **[1:42](https://www.linkedin.com/learning/processing-text-with-python-essential-training/cleansing-text?u=76281980&t=102)** The results are again printed.
 >
 > **[1:44](https://www.linkedin.com/learning/processing-text-with-python-essential-training/cleansing-text?u=76281980&t=104)** Let us execute this code and see the results.
 >
-> **[1:48](https://www.linkedin.com/learning/processing-text-with-python-essential-training/cleansing-text?u=76281980&t=108)** We see a word like DevOps in the previous example now being converted to lowercase.
+> **[1:48](https://www.linkedin.com/learning/processing-text-with-python-essential-training/cleansing-text?u=76281980&t=108)** We see a [[Microsoft Word|word]] like [[DevOps]] in the previous example now being converted to lowercase.
 >
 > **[1:54](https://www.linkedin.com/learning/processing-text-with-python-essential-training/cleansing-text?u=76281980&t=114)** The number of tokens still remain the same at hundred.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (2), data (1), [[Analytics]] (1), next (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (2), [[Python (Programming Language)|Python]] (1), [[Microsoft Word|Word]] (1), [[DevOps]] (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** nltk (1)
 > **Cross-References:** previous video (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Stop word removal
-> [LinkedIn Learning](https://www.linkedin.com/learning/processing-text-with-python-essential-training/stop-word-removal?u=76281980)
+#### [Stop word removal](https://www.linkedin.com/learning/processing-text-with-python-essential-training/stop-word-removal?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -616,7 +603,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/processing-text-with-python-essential-training/stop-word-removal?u=76281980&t=30)** Hence, it is recommend to remove them.
 >
-> **[0:33](https://www.linkedin.com/learning/processing-text-with-python-essential-training/stop-word-removal?u=76281980&t=33)** A number of stop-word dictionaries are available by human language that contain the list of stop-words in that language.
+> **[0:33](https://www.linkedin.com/learning/processing-text-with-python-essential-training/stop-word-removal?u=76281980&t=33)** A number of stop-[[Microsoft Word|word]] dictionaries are available by human language that contain the list of stop-words in that language.
 >
 > **[0:41](https://www.linkedin.com/learning/processing-text-with-python-essential-training/stop-word-removal?u=76281980&t=41)** Those need to be used to identify and remove stop-words.
 >
@@ -628,7 +615,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/processing-text-with-python-essential-training/stop-word-removal?u=76281980&t=65)** If so, the stop-word is not sent to token_list4.
 >
-> **[1:10](https://www.linkedin.com/learning/processing-text-with-python-essential-training/stop-word-removal?u=76281980&t=70)** We finally print the remaining tokens and the count of tokens in the token list.
+> **[1:10](https://www.linkedin.com/learning/processing-text-with-python-essential-training/stop-word-removal?u=76281980&t=70)** We finally print the remaining [[Tokens]] and the count of tokens in the token list.
 >
 > **[1:16](https://www.linkedin.com/learning/processing-text-with-python-essential-training/stop-word-removal?u=76281980&t=76)** Let us execute this code.
 >
@@ -636,24 +623,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (4), [[Microsoft Word|Word]] (2), data (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (4), [[Microsoft Word|Word]] (2)
 > **Env Vars:** nltk (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Stemming
-> [LinkedIn Learning](https://www.linkedin.com/learning/processing-text-with-python-essential-training/stemming?u=76281980)
+#### [Stemming](https://www.linkedin.com/learning/processing-text-with-python-essential-training/stemming?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/processing-text-with-python-essential-training/stemming?u=76281980&t=0)** - [Instruction] In this video I will discuss stemming, a key processing step in text mining.
+> **[0:00](https://www.linkedin.com/learning/processing-text-with-python-essential-training/stemming?u=76281980&t=0)** - [Instruction] In this video I will discuss stemming, a key processing step in [[Text Mining]].
 >
 > **[0:06](https://www.linkedin.com/learning/processing-text-with-python-essential-training/stemming?u=76281980&t=6)** What is stemming?
 >
 > **[0:07](https://www.linkedin.com/learning/processing-text-with-python-essential-training/stemming?u=76281980&t=7)** To understand that we need to define a stem.
 >
-> **[0:11](https://www.linkedin.com/learning/processing-text-with-python-essential-training/stemming?u=76281980&t=11)** A stem is the base part of a word to which affixes can be attached for derivatives.
+> **[0:11](https://www.linkedin.com/learning/processing-text-with-python-essential-training/stemming?u=76281980&t=11)** A stem is the base part of a [[Microsoft Word|word]] to which affixes can be attached for derivatives.
 >
 > **[0:16](https://www.linkedin.com/learning/processing-text-with-python-essential-training/stemming?u=76281980&t=16)** For example, the word combine is the stem for combine, combining, and combined.
 >
@@ -683,23 +669,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), [[Text Mining]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), [[Text Mining]] (1)
 > **Env Vars:** nltk (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instruction] (1)
 
-#### Lemmatization
-> [LinkedIn Learning](https://www.linkedin.com/learning/processing-text-with-python-essential-training/lemmatization?u=76281980)
+#### [Lemmatization](https://www.linkedin.com/learning/processing-text-with-python-essential-training/lemmatization?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/processing-text-with-python-essential-training/lemmatization?u=76281980&t=0)** - [Instructor] Lemmatization is another important step in text mining.
+> **[0:00](https://www.linkedin.com/learning/processing-text-with-python-essential-training/lemmatization?u=76281980&t=0)** - [Instructor] Lemmatization is another important step in [[Text Mining]].
 >
 > **[0:05](https://www.linkedin.com/learning/processing-text-with-python-essential-training/lemmatization?u=76281980&t=5)** What is lemmatization?
 >
-> **[0:07](https://www.linkedin.com/learning/processing-text-with-python-essential-training/lemmatization?u=76281980&t=7)** Lemmetization is similar to stemming, but it produces a proper root word that belongs to the language.
+> **[0:07](https://www.linkedin.com/learning/processing-text-with-python-essential-training/lemmatization?u=76281980&t=7)** Lemmetization is similar to stemming, but it produces a proper root [[Microsoft Word|word]] that belongs to the language.
 >
 > **[0:14](https://www.linkedin.com/learning/processing-text-with-python-essential-training/lemmatization?u=76281980&t=14)** For example, combine is the lemmatized version of combine, combined, and combining.
 >
@@ -717,7 +702,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/processing-text-with-python-essential-training/lemmatization?u=76281980&t=56)** Let us execute the code and review the results.
 >
-> **[1:01](https://www.linkedin.com/learning/processing-text-with-python-essential-training/lemmatization?u=76281980&t=61)** You will notice that words like engine and devops are now complete as opposed to stemming, which produced incomplete word.
+> **[1:01](https://www.linkedin.com/learning/processing-text-with-python-essential-training/lemmatization?u=76281980&t=61)** You will notice that words like engine and [[DevOps]] are now complete as opposed to stemming, which produced incomplete word.
 >
 > **[1:09](https://www.linkedin.com/learning/processing-text-with-python-essential-training/lemmatization?u=76281980&t=69)** To review an example, we will compare the raw, stemmed, and lemmatized versions of the word technology.
 >
@@ -737,8 +722,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building n-grams
-> [LinkedIn Learning](https://www.linkedin.com/learning/processing-text-with-python-essential-training/building-n-grams?u=76281980)
+#### [Building n-grams](https://www.linkedin.com/learning/processing-text-with-python-essential-training/building-n-grams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -780,24 +764,23 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/processing-text-with-python-essential-training/building-n-grams?u=76281980&t=115)** Let's exclude this code now.
 >
-> **[1:58](https://www.linkedin.com/learning/processing-text-with-python-essential-training/building-n-grams?u=76281980&t=118)** From the results, we see that the most common bigram is "big" and "data" since this phrase "big data" appears multiple times in the corpus.
+> **[1:58](https://www.linkedin.com/learning/processing-text-with-python-essential-training/building-n-grams?u=76281980&t=118)** From the results, we see that the most common bigram is "big" and "data" since this phrase "[[Big Data]]" appears multiple times in the corpus.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (1), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[Big Data]] (1)
 > **Env Vars:** nldk (2)
 > **Definitions:** is a  (2)
 > **Cross-References:** previous chapter (1)
 > **Analogies:** for example (1)
 
-#### Tagging parts of speech
-> [LinkedIn Learning](https://www.linkedin.com/learning/processing-text-with-python-essential-training/tagging-parts-of-speech?u=76281980)
+#### [Tagging parts of speech](https://www.linkedin.com/learning/processing-text-with-python-essential-training/tagging-parts-of-speech?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/processing-text-with-python-essential-training/tagging-parts-of-speech?u=76281980&t=0)** - [Instructor] The next text mining technique we review in this video is parts of speech tagging.
+> **[0:00](https://www.linkedin.com/learning/processing-text-with-python-essential-training/tagging-parts-of-speech?u=76281980&t=0)** - [Instructor] The next [[Text Mining]] technique we review in this video is parts of speech tagging.
 >
-> **[0:07](https://www.linkedin.com/learning/processing-text-with-python-essential-training/tagging-parts-of-speech?u=76281980&t=7)** Parts of speech tagging involves identifying the part of speech for each word in a given corpus.
+> **[0:07](https://www.linkedin.com/learning/processing-text-with-python-essential-training/tagging-parts-of-speech?u=76281980&t=7)** Parts of speech tagging involves identifying the part of speech for each [[Microsoft Word|word]] in a given corpus.
 >
 > **[0:14](https://www.linkedin.com/learning/processing-text-with-python-essential-training/tagging-parts-of-speech?u=76281980&t=14)** POS tagging uses an NLTK package that classifies a given word.
 >
@@ -825,20 +808,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), next (1), [[Text Mining]] (1), data (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Text Mining]] (1)
 > **Env Vars:** pos (7), nltk (3), vbp (1)
 > **Code Identifiers:** averaged_perceptron_tagger (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Term frequency-inverse document frequency (TF-IDF)
-> [LinkedIn Learning](https://www.linkedin.com/learning/processing-text-with-python-essential-training/term-frequency-inverse-document-frequency-tf-idf?u=76281980)
+#### [Term frequency-inverse document frequency (TF-IDF)](https://www.linkedin.com/learning/processing-text-with-python-essential-training/term-frequency-inverse-document-frequency-tf-idf?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/processing-text-with-python-essential-training/term-frequency-inverse-document-frequency-tf-idf?u=76281980&t=0)** - In this video, we will look at a popular text-mining technique called term frequency-inverse document frequency, or TF-IDF.
 >
-> **[0:11](https://www.linkedin.com/learning/processing-text-with-python-essential-training/term-frequency-inverse-document-frequency-tf-idf?u=76281980&t=11)** A number of machine learning algorithms do not work on text values.
+> **[0:11](https://www.linkedin.com/learning/processing-text-with-python-essential-training/term-frequency-inverse-document-frequency-tf-idf?u=76281980&t=11)** A number of machine learning [[Algorithms]] do not work on text values.
 >
 > **[0:16](https://www.linkedin.com/learning/processing-text-with-python-essential-training/term-frequency-inverse-document-frequency-tf-idf?u=76281980&t=16)** They only work on numeric features.
 >
@@ -850,7 +832,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/processing-text-with-python-essential-training/term-frequency-inverse-document-frequency-tf-idf?u=76281980&t=36)** In this table, each row represents a document in the corpus.
 >
-> **[0:40](https://www.linkedin.com/learning/processing-text-with-python-essential-training/term-frequency-inverse-document-frequency-tf-idf?u=76281980&t=40)** Each column represents a word in the corpus.
+> **[0:40](https://www.linkedin.com/learning/processing-text-with-python-essential-training/term-frequency-inverse-document-frequency-tf-idf?u=76281980&t=40)** Each column represents a [[Microsoft Word|word]] in the corpus.
 >
 > **[0:44](https://www.linkedin.com/learning/processing-text-with-python-essential-training/term-frequency-inverse-document-frequency-tf-idf?u=76281980&t=44)** Each cell in the table provides a value that indicates the relative strength of the word with respect to the document.
 >
@@ -894,7 +876,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (10), next (4), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (10), [[Algorithms]] (1)
 > **Env Vars:** idf (10)
 > **Definitions:** is a  (4)
 > **CLI Commands:** find (3)
@@ -902,14 +884,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - in (1)
 
-#### Building a TF-IDF matrix
-> [LinkedIn Learning](https://www.linkedin.com/learning/processing-text-with-python-essential-training/building-a-tf-idf-matrix?u=76281980)
+#### [Building a TF-IDF matrix](https://www.linkedin.com/learning/processing-text-with-python-essential-training/building-a-tf-idf-matrix?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/processing-text-with-python-essential-training/building-a-tf-idf-matrix?u=76281980&t=0)** - [Instructor] In this video, we will look at code examples for building a TF-IDF matrix.
 >
-> **[0:06](https://www.linkedin.com/learning/processing-text-with-python-essential-training/building-a-tf-idf-matrix?u=76281980&t=6)** NLTK does not support a simple TF-IDF function, hence, for this purpose, we will use scikit-learn library in Python.
+> **[0:06](https://www.linkedin.com/learning/processing-text-with-python-essential-training/building-a-tf-idf-matrix?u=76281980&t=6)** NLTK does not support a simple TF-IDF function, hence, for this purpose, we will use scikit-learn library in [[Python (Programming Language)|Python]].
 >
 > **[0:17](https://www.linkedin.com/learning/processing-text-with-python-essential-training/building-a-tf-idf-matrix?u=76281980&t=17)** From scikit-learn we import the TF-IDF vectorizer package.
 >
@@ -919,7 +900,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/processing-text-with-python-essential-training/building-a-tf-idf-matrix?u=76281980&t=34)** Next, we initialize the TF-IDF vectorizer.
 >
-> **[0:38](https://www.linkedin.com/learning/processing-text-with-python-essential-training/building-a-tf-idf-matrix?u=76281980&t=38)** We also provide a stop-word dictionary setting so the vectorizer automatically removes stop-words from this corpus before building TF-IDF.
+> **[0:38](https://www.linkedin.com/learning/processing-text-with-python-essential-training/building-a-tf-idf-matrix?u=76281980&t=38)** We also provide a stop-[[Microsoft Word|word]] dictionary setting so the vectorizer automatically removes stop-words from this corpus before building TF-IDF.
 >
 > **[0:49](https://www.linkedin.com/learning/processing-text-with-python-essential-training/building-a-tf-idf-matrix?u=76281980&t=49)** To create the TF-IDF array, we simply call the fit_transform method.
 >
@@ -931,7 +912,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/processing-text-with-python-essential-training/building-a-tf-idf-matrix?u=76281980&t=66)** Let us execute this code and review the results.
 >
-> **[1:13](https://www.linkedin.com/learning/processing-text-with-python-essential-training/building-a-tf-idf-matrix?u=76281980&t=73)** We first see the list of tokens from the corpus.
+> **[1:13](https://www.linkedin.com/learning/processing-text-with-python-essential-training/building-a-tf-idf-matrix?u=76281980&t=73)** We first see the list of [[Tokens]] from the corpus.
 >
 > **[1:16](https://www.linkedin.com/learning/processing-text-with-python-essential-training/building-a-tf-idf-matrix?u=76281980&t=76)** There are only seven tokens and the stop-words are already been removed.
 >
@@ -951,7 +932,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (4), next (2), [[Python (Programming Language)|Python]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (4), [[Python (Programming Language)|Python]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** idf (8), nba (2), nltk (1)
 > **CLI Commands:** python (1)
 > **Code Identifiers:** fit_transform (1)
@@ -963,37 +944,35 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Storing text
-> [LinkedIn Learning](https://www.linkedin.com/learning/processing-text-with-python-essential-training/storing-text?u=76281980)
+#### [Storing text](https://www.linkedin.com/learning/processing-text-with-python-essential-training/storing-text?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/processing-text-with-python-essential-training/storing-text?u=76281980&t=0)** - [Instructor] Storing text data during and after the text mining process possesses unique challenges because of its size and lack of structure.
+> **[0:00](https://www.linkedin.com/learning/processing-text-with-python-essential-training/storing-text?u=76281980&t=0)** - [Instructor] Storing text data during and after the [[Text Mining]] process possesses unique challenges because of its size and lack of structure.
 >
 > **[0:10](https://www.linkedin.com/learning/processing-text-with-python-essential-training/storing-text?u=76281980&t=10)** So, what are the best practices to store text data?
 >
 > **[0:15](https://www.linkedin.com/learning/processing-text-with-python-essential-training/storing-text?u=76281980&t=15)** Do not try to cram text data into an RDBMS.
 >
-> **[0:19](https://www.linkedin.com/learning/processing-text-with-python-essential-training/storing-text?u=76281980&t=19)** Rather, use a suitable big data storage like HDFS, S3, or Google Cloud Storage to store text data.
+> **[0:19](https://www.linkedin.com/learning/processing-text-with-python-essential-training/storing-text?u=76281980&t=19)** Rather, use a suitable [[Big Data]] storage like HDFS, S3, or [[Google Cloud Platform (GCP)|Google Cloud]] Storage to store text data.
 >
 > **[0:29](https://www.linkedin.com/learning/processing-text-with-python-essential-training/storing-text?u=76281980&t=29)** References to the storage can then be stored in RDBMS records.
 >
 > **[0:35](https://www.linkedin.com/learning/processing-text-with-python-essential-training/storing-text?u=76281980&t=35)** It is important to be able to query and filter data in these object stores.
 >
-> **[0:41](https://www.linkedin.com/learning/processing-text-with-python-essential-training/storing-text?u=76281980&t=41)** Create indexes on key data elements or words either in a document database, like MongoDB, or a search engine, like Elasticsearch.
+> **[0:41](https://www.linkedin.com/learning/processing-text-with-python-essential-training/storing-text?u=76281980&t=41)** Create indexes on key data elements or words either in a document database, like [[MongoDB]], or a search engine, like [[Elasticsearch]].
 >
-> **[0:52](https://www.linkedin.com/learning/processing-text-with-python-essential-training/storing-text?u=76281980&t=52)** Another option is to store processed data, like tokens or TF-IDF arrays, for future consumption.
+> **[0:52](https://www.linkedin.com/learning/processing-text-with-python-essential-training/storing-text?u=76281980&t=52)** Another option is to store processed data, like [[Tokens]] or TF-IDF arrays, for future consumption.
 >
 > **[1:00](https://www.linkedin.com/learning/processing-text-with-python-essential-training/storing-text?u=76281980&t=60)** This reduces the need to process raw text again while also saving on storage costs.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Text Mining]] (1), [[Big Data]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), database (1)
+> **Frameworks & Libraries:** [[Text Mining]] (1), [[Big Data]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[MongoDB]] (1), [[Elasticsearch]] (1)
 > **Env Vars:** rdbms (2), hdfs (1), idf (1)
 > **Speakers:** - [instructor] (1)
 
-#### Processing text data
-> [LinkedIn Learning](https://www.linkedin.com/learning/processing-text-with-python-essential-training/processing-text-data?u=76281980)
+#### [Processing text data](https://www.linkedin.com/learning/processing-text-with-python-essential-training/processing-text-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1003,7 +982,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/processing-text-with-python-essential-training/processing-text-data?u=76281980&t=11)** Text data is heavy and the lighter we make it earlier, it is easier on resource consumption in the later stages.
 >
-> **[0:19](https://www.linkedin.com/learning/processing-text-with-python-essential-training/processing-text-data?u=76281980&t=19)** Use an exhaustive and context specific stop-word list to eliminate stop-words.
+> **[0:19](https://www.linkedin.com/learning/processing-text-with-python-essential-training/processing-text-data?u=76281980&t=19)** Use an exhaustive and context specific stop-[[Microsoft Word|word]] list to eliminate stop-words.
 >
 > **[0:25](https://www.linkedin.com/learning/processing-text-with-python-essential-training/processing-text-data?u=76281980&t=25)** Stop-words do not carry any insights, so eliminating most of them is important for efficiency.
 >
@@ -1013,7 +992,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/processing-text-with-python-essential-training/processing-text-data?u=76281980&t=40)** These special words mean a specific purpose for the text and can be used to index and classify them.
 >
-> **[0:48](https://www.linkedin.com/learning/processing-text-with-python-essential-training/processing-text-data?u=76281980&t=48)** While building TF-IDF matrices, eliminate tokens that occur rarely.
+> **[0:48](https://www.linkedin.com/learning/processing-text-with-python-essential-training/processing-text-data?u=76281980&t=48)** While building TF-IDF matrices, eliminate [[Tokens]] that occur rarely.
 >
 > **[0:53](https://www.linkedin.com/learning/processing-text-with-python-essential-training/processing-text-data?u=76281980&t=53)** They usually are not useful in classification or analysis.
 >
@@ -1021,25 +1000,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft Word|Word]] (1), product (1), [[Tokens]] (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Tokens]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** idf (1)
 > **Speakers:** - [instructor] (1)
 
-#### Scalable processing of text data
-> [LinkedIn Learning](https://www.linkedin.com/learning/processing-text-with-python-essential-training/scalable-processing-of-text-data?u=76281980)
+#### [Scalable processing of text data](https://www.linkedin.com/learning/processing-text-with-python-essential-training/scalable-processing-of-text-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/processing-text-with-python-essential-training/scalable-processing-of-text-data?u=76281980&t=0)** - [Instructor] How do we process large quantities of text data in a scalable manner?
 >
-> **[0:06](https://www.linkedin.com/learning/processing-text-with-python-essential-training/scalable-processing-of-text-data?u=76281980&t=6)** Big data is revolutionizing the way we process text.
+> **[0:06](https://www.linkedin.com/learning/processing-text-with-python-essential-training/scalable-processing-of-text-data?u=76281980&t=6)** [[Big Data]] is revolutionizing the way we process text.
 >
 > **[0:10](https://www.linkedin.com/learning/processing-text-with-python-essential-training/scalable-processing-of-text-data?u=76281980&t=10)** We should take advantage of big data technologies to process text.
 >
 > **[0:14](https://www.linkedin.com/learning/processing-text-with-python-essential-training/scalable-processing-of-text-data?u=76281980&t=14)** First, use technologies that allow for parallel access and storage of data.
 >
-> **[0:21](https://www.linkedin.com/learning/processing-text-with-python-essential-training/scalable-processing-of-text-data?u=76281980&t=21)** Technologies like Kafka, HDFS, and MongoDB support of a number of nodes and channels to allow for parallaxes, movement, and storage of data.
+> **[0:21](https://www.linkedin.com/learning/processing-text-with-python-essential-training/scalable-processing-of-text-data?u=76281980&t=21)** Technologies like Kafka, HDFS, and [[MongoDB]] support of a number of nodes and channels to allow for parallaxes, movement, and storage of data.
 >
 > **[0:32](https://www.linkedin.com/learning/processing-text-with-python-essential-training/scalable-processing-of-text-data?u=76281980&t=32)** Process each document independently with a map function.
 >
@@ -1055,7 +1033,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Big Data]] (2), parallel (2), [[MongoDB]] (1)
+> **Frameworks & Libraries:** [[Big Data]] (2), [[MongoDB]] (1)
 > **Env Vars:** hdfs (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1064,12 +1042,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/processing-text-with-python-essential-training/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/processing-text-with-python-essential-training/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/processing-text-with-python-essential-training/next-steps?u=76281980&t=0)** - [Kumaran] Now that you have taken this course, you can take your learning even further, learn in depth about analytics and machine learning techniques for text data, explore text processing at scale with big data technologies, build an end-to-end live project for text analytics in your organization.
+> **[0:00](https://www.linkedin.com/learning/processing-text-with-python-essential-training/next-steps?u=76281980&t=0)** - [Kumaran] Now that you have taken this course, you can take your learning even further, learn in depth about analytics and machine learning techniques for text data, explore text processing at scale with [[Big Data]] technologies, build an end-to-end live project for text analytics in your organization.
 >
 > **[0:20](https://www.linkedin.com/learning/processing-text-with-python-essential-training/next-steps?u=76281980&t=20)** Data always intrigues me.
 >
@@ -1077,7 +1054,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (2), data (2), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[Big Data]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [kumaran] (1)
 

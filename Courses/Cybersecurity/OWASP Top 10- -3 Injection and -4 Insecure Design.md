@@ -70,8 +70,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### 2021 OWASP Top 10
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/2021-owasp-top-10?u=76281980)
+#### [2021 OWASP Top 10](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/2021-owasp-top-10?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -81,7 +80,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/2021-owasp-top-10?u=76281980&t=9)** The best way to secure web applications is to find and fix security vulnerabilities.
 >
-> **[0:16](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/2021-owasp-top-10?u=76281980&t=16)** OWASP stands for Open Web Application Security Project.
+> **[0:16](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/2021-owasp-top-10?u=76281980&t=16)** [[OWASP]] stands for Open [[Web Application Security]] Project.
 >
 > **[0:19](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/2021-owasp-top-10?u=76281980&t=19)** And the Top 10 list is a resource for any and everyone who is involved in building web applications.
 >
@@ -95,7 +94,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/2021-owasp-top-10?u=76281980&t=52)** I'm Caroline Wong, Chief Strategy Officer at Cobalt.
 >
-> **[0:55](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/2021-owasp-top-10?u=76281980&t=55)** I've worked in the cybersecurity field since 2005.
+> **[0:55](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/2021-owasp-top-10?u=76281980&t=55)** I've worked in the [[Cybersecurity]] field since 2005.
 >
 > **[0:58](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/2021-owasp-top-10?u=76281980&t=58)** In my various roles as a security practitioner, a product manager, a management consultant, and a tech company executive, I've seen firsthand how security vulnerabilities get introduced into web applications.
 >
@@ -107,20 +106,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), [[Security]] (5), [[OWASP]] (2), web application (1), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[OWASP]] (2), [[Web Application Security]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** owasp (2)
 > **Definitions:** stands for (1), is a  (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [narrator] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/what-you-should-know?u=76281980&t=0)** - [Instructor] Here are a few things that may be helpful to know so that you can get the most out of this course.
 >
-> **[0:07](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/what-you-should-know?u=76281980&t=7)** First, this course covers the third and fourth categories in the 2021 OWASP Top 10.
+> **[0:07](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/what-you-should-know?u=76281980&t=7)** First, this course covers the third and fourth categories in the 2021 [[OWASP]] Top 10.
 >
 > **[0:14](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/what-you-should-know?u=76281980&t=14)** I recommend watching my previous course that covers the first and second categories.
 >
@@ -134,7 +132,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OWASP]] (2), web (1), product (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[OWASP]] (2)
 > **Env Vars:** owasp (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -144,8 +142,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is injection?
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/what-is-injection?u=76281980)
+#### [What is injection?](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/what-is-injection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -163,11 +160,11 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/what-is-injection?u=76281980&t=43)** If an attacker can delete information in a database, this compromises the availability of that information as it will no longer be available to the legitimate users who need to use it.
 >
-> **[0:55](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/what-is-injection?u=76281980&t=55)** These outcomes are possible, because web apps need to interact with databases and attackers can exploit vulnerabilities to direct that interaction and use it for their own malicious purposes.
+> **[0:55](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/what-is-injection?u=76281980&t=55)** These outcomes are possible, because web apps need to interact with [[Databases]] and attackers can exploit vulnerabilities to direct that interaction and use it for their own malicious purposes.
 >
 > **[1:09](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/what-is-injection?u=76281980&t=69)** Ultimately, injection attacks occur when web apps don't have proper boundaries set up.
 >
-> **[1:16](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/what-is-injection?u=76281980&t=76)** Intentionally secure coding practices are required to protect the sensitive information in a database from being accessed or manipulated by untrusted user input.
+> **[1:16](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/what-is-injection?u=76281980&t=76)** Intentionally [[Secure Coding]] practices are required to protect the sensitive information in a database from being accessed or manipulated by untrusted user input.
 >
 > **[1:28](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/what-is-injection?u=76281980&t=88)** It's completely normal for a web app to interact with a database.
 >
@@ -187,13 +184,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), web (7), data (4), web application (2), [[Databases]] (2)
+> **Frameworks & Libraries:** [[Databases]] (2), [[Secure Coding]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Prerequisites:** set up (1), required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Example #1: 2008 Heartland data breach
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/example-1-2008-heartland-data-breach?u=76281980)
+#### [Example #1: 2008 Heartland data breach](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/example-1-2008-heartland-data-breach?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -215,7 +211,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/example-1-2008-heartland-data-breach?u=76281980&t=44)** How did this happen?
 >
-> **[0:46](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/example-1-2008-heartland-data-breach?u=76281980&t=46)** Malicious hackers exploited a vulnerability using a SQL injection attack.
+> **[0:46](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/example-1-2008-heartland-data-breach?u=76281980&t=46)** Malicious hackers exploited a vulnerability using a [[SQL]] injection attack.
 >
 > **[0:51](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/example-1-2008-heartland-data-breach?u=76281980&t=51)** A blog on the Komodo website says the breach was discovered after Visa and MasterCard notified Heartland of suspicious transactions.
 >
@@ -229,31 +225,30 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/example-1-2008-heartland-data-breach?u=76281980&t=88)** They paid hundreds of millions of dollars to compensate for fraudulent payments and even lost their PCI compliance status for several months.
 >
-> **[1:36](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/example-1-2008-heartland-data-breach?u=76281980&t=96)** PCI, or the Payment Card Industry data security standard is required by credit card providers like visa and MasterCard in order to process payments.
+> **[1:36](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/example-1-2008-heartland-data-breach?u=76281980&t=96)** PCI, or the Payment Card Industry [[Data Security]] standard is required by credit card providers like visa and MasterCard in order to process payments.
 >
 > **[1:47](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/example-1-2008-heartland-data-breach?u=76281980&t=107)** The hacker behind the attack, Albert Gonzalez was eventually indicted for the breach and sentenced to 20 years in United States federal prison.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Security]] (2), [[SQL]] (2), database (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Data Security]] (1)
 > **Env Vars:** sql (2), pci (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Example #2: 2020 Accellion data breach
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/example-2-2020-accellion-data-breach?u=76281980)
+#### [Example #2: 2020 Accellion data breach](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/example-2-2020-accellion-data-breach?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/example-2-2020-accellion-data-breach?u=76281980&t=0)** - [Instructor] Kiteworks, formerly known as Accellion, is a security technology company that protects sensitive data on digital channels, like email, web forms, and APIs.
+> **[0:00](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/example-2-2020-accellion-data-breach?u=76281980&t=0)** - [Instructor] Kiteworks, formerly known as Accellion, is a security technology company that protects sensitive data on digital channels, like email, web [[Forms]], and APIs.
 >
-> **[0:11](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/example-2-2020-accellion-data-breach?u=76281980&t=11)** More than 3000 global companies use their products.
+> **[0:11](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/example-2-2020-accellion-data-breach?u=76281980&t=11)** More than 3000 global companies use their [[Microsoft Products|products]].
 >
 > **[0:15](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/example-2-2020-accellion-data-breach?u=76281980&t=15)** In 2020, Accellion rebranded as Kiteworks.
 >
 > **[0:19](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/example-2-2020-accellion-data-breach?u=76281980&t=19)** That same year, several vulnerabilities in their legacy product were exploited by malicious attackers, impacting hundreds of customers.
 >
-> **[0:28](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/example-2-2020-accellion-data-breach?u=76281980&t=28)** One of these vulnerabilities was SQL injection.
+> **[0:28](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/example-2-2020-accellion-data-breach?u=76281980&t=28)** One of these vulnerabilities was [[SQL]] injection.
 >
 > **[0:31](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/example-2-2020-accellion-data-breach?u=76281980&t=31)** Kiteworks has multiple product lines.
 >
@@ -269,7 +264,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/example-2-2020-accellion-data-breach?u=76281980&t=78)** "The SQL injection vulnerability "allows an attacker to use a web shell "to run arbitrary commands and extract data."
 >
-> **[1:27](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/example-2-2020-accellion-data-breach?u=76281980&t=87)** CISA, a United States government agency focused on cybersecurity and infrastructure security, describes the exploit as follows.
+> **[1:27](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/example-2-2020-accellion-data-breach?u=76281980&t=87)** CISA, a United States government agency focused on [[Cybersecurity]] and infrastructure security, describes the exploit as follows.
 >
 > **[1:35](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/example-2-2020-accellion-data-breach?u=76281980&t=95)** "One of the exploited vulnerabilities is a SQL injection "that allows an unauthenticated user "to run remote commands on targeted devices.
 >
@@ -279,19 +274,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Security]] (3), web (3), product (3), [[SQL]] (3)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Microsoft Products|Products]] (2), [[Forms]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** sql (3), cisa (1)
 > **Definitions:** is a  (2), known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prevention technique #1: Prepared statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-1-prepared-statements?u=76281980)
+#### [Prevention technique #1: Prepared statements](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-1-prepared-statements?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-1-prepared-statements?u=76281980&t=0)** - [Instructor] If you want to get information out of a database, you've got a couple of different options.
 >
-> **[0:05](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-1-prepared-statements?u=76281980&t=5)** Consider a SQL database.
+> **[0:05](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-1-prepared-statements?u=76281980&t=5)** Consider a [[SQL]] database.
 >
 > **[0:08](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-1-prepared-statements?u=76281980&t=8)** One way is to execute a SQL statement directly.
 >
@@ -311,13 +305,13 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-1-prepared-statements?u=76281980&t=59)** It's more efficient than baking a cake from scratch because most of the ingredients have already been put together.
 >
-> **[1:06](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-1-prepared-statements?u=76281980&t=66)** The OWASP SQL injection cheat sheet says, "Parameterized queries force the developer "to first define all the SQL code, "and then pass in each parameter to the query.
+> **[1:06](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-1-prepared-statements?u=76281980&t=66)** The [[OWASP]] SQL injection cheat sheet says, "Parameterized queries force the developer "to first define all the SQL code, "and then pass in each parameter to the query.
 >
 > **[1:20](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-1-prepared-statements?u=76281980&t=80)** "This coding style allows the database "to distinguish between code and data, "regardless of what user input is supplied."
 >
 > **[1:30](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-1-prepared-statements?u=76281980&t=90)** Different coding languages have different prepared statements.
 >
-> **[1:34](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-1-prepared-statements?u=76281980&t=94)** OWASP provides specific recommendations for Java Enterprise Edition, .NET, PHP, Hibernate and SQLite.
+> **[1:34](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-1-prepared-statements?u=76281980&t=94)** OWASP provides specific recommendations for [[Java]] Enterprise Edition, .NET, [[PHP]], Hibernate and SQLite.
 >
 > **[1:43](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-1-prepared-statements?u=76281980&t=103)** Prepared statements work to prevent injection attacks because they separate the code that specifies the action or the instruction from the code that represents the data.
 >
@@ -327,15 +321,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (5), database (4), [[OWASP]] (2), data (2), [[Java]] (1)
+> **Frameworks & Libraries:** [[SQL]] (5), [[OWASP]] (2), [[Java]] (1), [[PHP]] (1)
 > **Env Vars:** sql (5), owasp (2), net (1), php (1)
 > **CLI Commands:** php (1), make (1)
 > **Definitions:** is called (1), known as (1)
 > **Analogies:** kind of like (2)
 > **Speakers:** - [instructor] (1)
 
-#### Prevention technique #2: Input validation
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-2-input-validation?u=76281980)
+#### [Prevention technique #2: Input validation](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-2-input-validation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -363,7 +356,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-2-input-validation?u=76281980&t=90)** If the input matches the required format, the data will be accepted, otherwise it should be rejected.
 >
-> **[1:38](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-2-input-validation?u=76281980&t=98)** I am a huge fan of OWASP cheat sheets and the one they have on input validation is particularly good.
+> **[1:38](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-2-input-validation?u=76281980&t=98)** I am a huge fan of [[OWASP]] cheat sheets and the one they have on input validation is particularly good.
 >
 > **[1:45](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-2-input-validation?u=76281980&t=105)** This resource describes different input validation strategies and provides information on how to implement input validation.
 >
@@ -375,14 +368,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), web (2), application (2), web application (1), [[OWASP]] (1)
+> **Frameworks & Libraries:** [[OWASP]] (1)
 > **Analogies:** kind of like (1), for example (1), such as (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** owasp (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prevention technique #3: Escape special characters
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-3-escape-special-characters?u=76281980)
+#### [Prevention technique #3: Escape special characters](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-3-escape-special-characters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -406,11 +398,11 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-3-escape-special-characters?u=76281980&t=66)** Escaping a special character simply means telling the interpreter that it should be read as a normal character and not as a character with special meaning.
 >
-> **[1:17](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-3-escape-special-characters?u=76281980&t=77)** The OWASP Cheat Sheet Series includes a cheat sheet on SQL injection prevention, which provides specific actionable detail on how to escape user input before it gets put into a database query.
+> **[1:17](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-3-escape-special-characters?u=76281980&t=77)** The [[OWASP]] Cheat Sheet Series includes a cheat sheet on [[SQL]] injection prevention, which provides specific actionable detail on how to escape user input before it gets put into a database query.
 >
 > **[1:32](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-3-escape-special-characters?u=76281980&t=92)** These recommendations are specific to each database type.
 >
-> **[1:37](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-3-escape-special-characters?u=76281980&t=97)** Here, you can find database-specific escaping details for Oracle, SQL MySQL and Db2.
+> **[1:37](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-3-escape-special-characters?u=76281980&t=97)** Here, you can find database-specific escaping details for Oracle, SQL [[MySQL]] and Db2.
 >
 > **[1:44](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-3-escape-special-characters?u=76281980&t=104)** It's important to note that escaping special characters should be used as a last resort.
 >
@@ -418,7 +410,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), [[SQL]] (2), web application (1), data (1), [[OWASP]] (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[OWASP]] (1), [[MySQL]] (1)
 > **Env Vars:** sql (2), owasp (1)
 > **CLI Commands:** find (1), mysql (1)
 > **Warnings:** note that (1)
@@ -429,12 +421,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is insecure design?
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/what-is-insecure-design?u=76281980)
+#### [What is insecure design?](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/what-is-insecure-design?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/what-is-insecure-design?u=76281980&t=0)** - [Narrator] The fourth item in the 2021 OWASP top 10 is a new one, insecure design.
+> **[0:00](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/what-is-insecure-design?u=76281980&t=0)** - [Narrator] The fourth item in the 2021 [[OWASP]] top 10 is a new one, insecure design.
 >
 > **[0:07](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/what-is-insecure-design?u=76281980&t=7)** Historically, most OWASP top 10 items have focused on technical coding errors.
 >
@@ -456,25 +447,24 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/what-is-insecure-design?u=76281980&t=104)** Security is an emergent property and solving the problem of insecure design requires getting the right people to engage throughout the process.
 >
-> **[1:55](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/what-is-insecure-design?u=76281980&t=115)** Unlike other items in the OWASP top 10, which can be pinned down to one or maybe two different phases in the software development lifecycle, insecure design has implications across each and every single one.
+> **[1:55](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/what-is-insecure-design?u=76281980&t=115)** Unlike other items in the OWASP top 10, which can be pinned down to one or maybe two different phases in the [[Software Development]] lifecycle, insecure design has implications across each and every single one.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OWASP]] (4), teams (4), [[Security]] (3), web (2), data (1)
+> **Frameworks & Libraries:** [[OWASP]] (4), [[Software Development]] (1)
 > **Env Vars:** owasp (4)
 > **Definitions:** is a  (1), means that (1), is an  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Real-world example #1: G Suite accounts in 2018
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/real-world-example-1-g-suite-accounts-in-2018?u=76281980)
+#### [Real-world example #1: G Suite accounts in 2018](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/real-world-example-1-g-suite-accounts-in-2018?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/real-world-example-1-g-suite-accounts-in-2018?u=76281980&t=0)** - [Narrator] In 2018, security researcher Cameron Vincent discovered an insecure design vulnerability in Google Workspace, known at the time as Google G Suite.
+> **[0:00](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/real-world-example-1-g-suite-accounts-in-2018?u=76281980&t=0)** - [Narrator] In 2018, security researcher Cameron Vincent discovered an insecure design vulnerability in [[Google]] Workspace, known at the time as Google G Suite.
 >
 > **[0:12](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/real-world-example-1-g-suite-accounts-in-2018?u=76281980&t=12)** Vincent figured out a way for anyone to add a new super user to someone else's G Suite account.
 >
-> **[0:19](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/real-world-example-1-g-suite-accounts-in-2018?u=76281980&t=19)** Google Workspace includes Gmail, Google Calendar, and Google Drive.
+> **[0:19](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/real-world-example-1-g-suite-accounts-in-2018?u=76281980&t=19)** Google Workspace includes Gmail, Google Calendar, and [[Google Drive]].
 >
 > **[0:24](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/real-world-example-1-g-suite-accounts-in-2018?u=76281980&t=24)** I don't know about you, but I definitely don't want strangers accessing my email, calendar, and files.
 >
@@ -498,16 +488,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (5), [[Security]] (1), [[Google Drive]] (1)
+> **Frameworks & Libraries:** [[Google]] (5), [[Google Drive]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
-#### Real-world example #2: 2021 manufacturing data risk report
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/real-world-example-2-2021-manufacturing-data-risk-report?u=76281980)
+#### [Real-world example #2: 2021 manufacturing data risk report](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/real-world-example-2-2021-manufacturing-data-risk-report?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/real-world-example-2-2021-manufacturing-data-risk-report?u=76281980&t=0)** - [Presenter] A data protection company called Varonis released several research reports in 2021 highlighting data risk statistics in different industry sectors.
+> **[0:00](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/real-world-example-2-2021-manufacturing-data-risk-report?u=76281980&t=0)** - [Presenter] A data protection company called Varonis released several research reports in 2021 highlighting data risk [[Statistics]] in different industry sectors.
 >
 > **[0:11](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/real-world-example-2-2021-manufacturing-data-risk-report?u=76281980&t=11)** These are unfortunately textbook perfect examples of insecure design.
 >
@@ -557,16 +546,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Statistics]] (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (2)
 > **Analogies:** similar to (1)
 > **Speakers:** - [presenter] (1)
 
-#### Prevention technique #1: Threat modeling
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-1-threat-modeling?u=76281980)
+#### [Prevention technique #1: Threat modeling](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-1-threat-modeling?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-1-threat-modeling?u=76281980&t=0)** - [Narrator] Threat modeling is a fancy term that cybersecurity people use to describe the process of thinking through any and everything that could possibly go wrong.
+> **[0:00](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-1-threat-modeling?u=76281980&t=0)** - [Narrator] [[Threat Modeling]] is a fancy term that [[Cybersecurity]] people use to describe the process of thinking through any and everything that could possibly go wrong.
 >
 > **[0:10](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-1-threat-modeling?u=76281980&t=10)** And then implementing a plan to prevent the worst from happening.
 >
@@ -592,7 +580,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-1-threat-modeling?u=76281980&t=66)** As an example, I'm going to briefly describe the steps involved in using the STRIDE model.
 >
-> **[1:13](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-1-threat-modeling?u=76281980&t=73)** Each letter in the word STRIDE stands for a type of threat.
+> **[1:13](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-1-threat-modeling?u=76281980&t=73)** Each letter in the [[Microsoft Word|word]] STRIDE stands for a type of threat.
 >
 > **[1:18](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-1-threat-modeling?u=76281980&t=78)** S stands for spoofing.
 >
@@ -628,29 +616,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Threat Modeling]] (5), [[Cybersecurity]] (1), [[Microsoft Word|Word]] (1), data (1), application (1)
+> **Frameworks & Libraries:** [[Threat Modeling]] (5), [[Cybersecurity]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** stride (3), pasta (1), trike (1), vast (1), dread (1)
 > **Definitions:** stands for (4), is a  (1), means that (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Prevention technique #2: Secure design patterns and principles
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-2-secure-design-patterns-and-principles?u=76281980)
+#### [Prevention technique #2: Secure design patterns and principles](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-2-secure-design-patterns-and-principles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-2-secure-design-patterns-and-principles?u=76281980&t=0)** - [Instructor] When an engineer develops a secure way to do something, secure design patterns and principles allow their colleagues to basically copy and paste their code so that they can reuse the same method.
+> **[0:00](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-2-secure-design-patterns-and-principles?u=76281980&t=0)** - [Instructor] When an engineer develops a secure way to do something, secure [[Design Patterns]] and principles allow their colleagues to basically copy and paste their code so that they can reuse the same method.
 >
 > **[0:15](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-2-secure-design-patterns-and-principles?u=76281980&t=15)** You can think about it like not having to "reinvent the wheel" every time you want to use a function and do it securely.
 >
 > **[0:25](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-2-secure-design-patterns-and-principles?u=76281980&t=25)** There are many different opportunities to use secure design patterns when building web applications.
 >
-> **[0:32](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-2-secure-design-patterns-and-principles?u=76281980&t=32)** These include the following capabilities, authentication, role management, key management, logging, cryptography, protocols, defined configuration templates.
+> **[0:32](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-2-secure-design-patterns-and-principles?u=76281980&t=32)** These include the following capabilities, authentication, role management, key management, logging, [[Cryptography]], protocols, defined configuration templates.
 >
 > **[0:43](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-2-secure-design-patterns-and-principles?u=76281980&t=43)** Secure design patterns and principles applied both at the code level as well as at the design level.
 >
-> **[0:51](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-2-secure-design-patterns-and-principles?u=76281980&t=51)** Instead of starting from scratch every time one of these capabilities is needed, a software development team can leverage an already known secure version of the capability that's already been built.
+> **[0:51](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-2-secure-design-patterns-and-principles?u=76281980&t=51)** Instead of starting from scratch every time one of these capabilities is needed, a [[Software Development]] team can leverage an already known secure version of the capability that's already been built.
 >
 > **[1:05](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-2-secure-design-patterns-and-principles?u=76281980&t=65)** This is described well in the security features and design domain of the BSIMM Framework.
 >
@@ -674,17 +661,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (4), [[Security]] (3), management (2), web (1), [[Cryptography]] (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (4), [[Cryptography]] (1), [[Software Development]] (1)
 > **Env Vars:** bsimm (2)
 > **Definitions:** stands for (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prevention technique #3: Secure development lifecycle
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-3-secure-development-lifecycle?u=76281980)
+#### [Prevention technique #3: Secure development lifecycle](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-3-secure-development-lifecycle?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-3-secure-development-lifecycle?u=76281980&t=0)** - [Narrator] The only truly effective way to prevent insecure design for web apps is to integrate security activities into each phase of the software development life cycle.
+> **[0:00](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-3-secure-development-lifecycle?u=76281980&t=0)** - [Narrator] The only truly effective way to prevent insecure design for web apps is to integrate security activities into each phase of the [[Software Development]] life cycle.
 >
 > **[0:11](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-3-secure-development-lifecycle?u=76281980&t=11)** This is because every phase is an opportunity to introduce insecure design and it's much more efficient to remove vulnerabilities as soon as they are identified or even better to prevent them from being introduced in the first place.
 >
@@ -698,7 +684,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-3-secure-development-lifecycle?u=76281980&t=69)** When security is engaged at this earliest stage, they can apply misuse and abuse thinking to identify potential insecure design possibilities.
 >
-> **[1:20](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-3-secure-development-lifecycle?u=76281980&t=80)** During the design phase of web app development, the best security activity to accompany architecture discussions is threat modeling.
+> **[1:20](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-3-secure-development-lifecycle?u=76281980&t=80)** During the design phase of web app development, the best security activity to accompany architecture discussions is [[Threat Modeling]].
 >
 > **[1:30](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-3-secure-development-lifecycle?u=76281980&t=90)** Threat modeling involves analyzing a design to identify security flaws.
 >
@@ -706,7 +692,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-3-secure-development-lifecycle?u=76281980&t=109)** During the development phase of web app development, the typical security activity, which accompanies writing code is coder review.
 >
-> **[1:58](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-3-secure-development-lifecycle?u=76281980&t=118)** Code review tends to be more about bugs than about flaws.
+> **[1:58](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-3-secure-development-lifecycle?u=76281980&t=118)** [[Code Review]] tends to be more about bugs than about flaws.
 >
 > **[2:02](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-3-secure-development-lifecycle?u=76281980&t=122)** I generally think about security bugs as coding errors and flaws as logic and design problems.
 >
@@ -716,11 +702,11 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-3-secure-development-lifecycle?u=76281980&t=138)** The testing phase of web app development is particularly critical when it comes to identifying insecure design.
 >
-> **[2:27](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-3-secure-development-lifecycle?u=76281980&t=147)** Security testing must look beyond positive path, feature-based, check the box style testing.
+> **[2:27](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-3-secure-development-lifecycle?u=76281980&t=147)** [[Security Testing]] must look beyond positive path, feature-based, check the box style testing.
 >
 > **[2:34](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-3-secure-development-lifecycle?u=76281980&t=154)** It must evaluate the security of a system as a whole and not only as individual parts.
 >
-> **[2:41](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-3-secure-development-lifecycle?u=76281980&t=161)** Security is an emergent attribute that requires both automatic and manual testing in order to discover design flaws.
+> **[2:41](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-3-secure-development-lifecycle?u=76281980&t=161)** Security is an emergent attribute that requires both automatic and [[Manual Testing]] in order to discover design flaws.
 >
 > **[2:51](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/prevention-technique-3-secure-development-lifecycle?u=76281980&t=171)** Insecure design, in particular, can only be found by humans.
 >
@@ -732,7 +718,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (14), web (5), [[Software Development]] (2), [[Threat Modeling]] (2), web application (2)
+> **Frameworks & Libraries:** [[Software Development]] (2), [[Threat Modeling]] (2), [[Security Testing]] (2), [[Code Review]] (1), [[Manual Testing]] (1)
 > **Definitions:** is an  (3), is a  (1)
 > **Speakers:** - [narrator] (1)
 
@@ -741,14 +727,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/next-steps?u=76281980&t=0)** - [Instructor] And there you have it.
 >
-> **[0:01](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/next-steps?u=76281980&t=1)** Items number three and four in the OWASP Top 10.
+> **[0:01](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/next-steps?u=76281980&t=1)** Items number three and four in the [[OWASP]] Top 10.
 >
 > **[0:06](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/next-steps?u=76281980&t=6)** Both injection and insecure design have been key information security concepts for decades.
 >
@@ -766,7 +751,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), [[OWASP]] (2), data (1), web (1), next (1)
+> **Frameworks & Libraries:** [[OWASP]] (2)
 > **Env Vars:** owasp (2)
 > **CLI Commands:** find (1)
 > **Analogies:** similar to (1)

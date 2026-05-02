@@ -52,11 +52,11 @@ created: 2026-05-02
 > 19. [[Aws Essential Training For Developers]] — 6 mentions
 > 20. [[Spring Boot Observability- Deep Dive into Logging, Metrics, and Tracing]] — 6 mentions
 > 21. [[Learning Kubernetes]] — 5 mentions
-> 22. [[Introduction To Cloud Computing For It Pros]] — 5 mentions
-> 23. [[Data Integration And Api Development For Ai Applications]] — 5 mentions
-> 24. [[Agentic AI for Developers- Concepts and Application for Enterprises]] — 4 mentions
-> 25. [[Cloud Architecture- Design Decisions]] — 4 mentions
-> 26. [[Cybersecurity with Cloud Computing]] — 4 mentions
+> 22. [[Cybersecurity with Cloud Computing]] — 5 mentions
+> 23. [[Introduction To Cloud Computing For It Pros]] — 5 mentions
+> 24. [[Data Integration And Api Development For Ai Applications]] — 5 mentions
+> 25. [[Agentic AI for Developers- Concepts and Application for Enterprises]] — 4 mentions
+> 26. [[Cloud Architecture- Design Decisions]] — 4 mentions
 > 27. [[Advanced Data Processing- Batch, Real-Time, and Cloud Architectures for AI]] — 4 mentions
 > 28. [[Data Quality- Core Concepts]] — 4 mentions
 > 29. [[Google Cloud Digital Leader Cert Prep- 4 Modernize Infrastructure and Applications with Google Cloud]] — 4 mentions
@@ -65,16 +65,16 @@ created: 2026-05-02
 > 32. [[Developing Ci Cd Solutions With Azure Devops]] — 3 mentions
 > 33. [[Planning a Multicloud Solution (2022)]] — 3 mentions
 > 34. [[MLOps Essentials- Model Deployment and Monitoring]] — 3 mentions
-> 35. [[Azure Understanding The Big Picture]] — 3 mentions
-> 36. [[Microsoft Azure Essentials By Microsoft Press]] — 3 mentions
-> 37. [[Kubernetes- Essential Tools]] — 3 mentions
-> 38. [[Securing Containers and Kubernetes Ecosystem]] — 3 mentions
-> 39. [[Advanced Spring- Effective Integration Testing with Spring Boot]] — 3 mentions
-> 40. [[IoT Foundations- Fundamentals]] — 2 mentions
-> 41. [[Tech Career Skills- Getting Promoted]] — 2 mentions
-> 42. [[DevOps Foundations- Infrastructure as Code]] — 2 mentions
-> 43. [[Software Testing Tips Weekly]] — 2 mentions
-> 44. [[Rust for Data Engineering]] — 2 mentions
+> 35. [[Rust for Data Engineering]] — 3 mentions
+> 36. [[Azure Understanding The Big Picture]] — 3 mentions
+> 37. [[Microsoft Azure Essentials By Microsoft Press]] — 3 mentions
+> 38. [[Kubernetes- Essential Tools]] — 3 mentions
+> 39. [[Securing Containers and Kubernetes Ecosystem]] — 3 mentions
+> 40. [[Advanced Spring- Effective Integration Testing with Spring Boot]] — 3 mentions
+> 41. [[IoT Foundations- Fundamentals]] — 2 mentions
+> 42. [[Tech Career Skills- Getting Promoted]] — 2 mentions
+> 43. [[DevOps Foundations- Infrastructure as Code]] — 2 mentions
+> 44. [[Software Testing Tips Weekly]] — 2 mentions
 > 45. [[Azure Cloud Fundamentals- Explore Cloud Services]] — 2 mentions
 > 46. [[Threat Modeling- Spoofing In Depth]] — 2 mentions
 > 47. [[Building Serverless Apps with AI Services on AWS]] — 2 mentions

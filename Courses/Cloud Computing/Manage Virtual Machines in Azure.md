@@ -105,18 +105,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Azure VM management
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/azure-vm-management?u=76281980)
+#### [Azure VM management](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/azure-vm-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/azure-vm-management?u=76281980&t=0)** - [Instructor] Microsoft Azure is a great platform for hosting virtual machines.
+> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/azure-vm-management?u=76281980&t=0)** - [Instructor] [[Microsoft Azure]] is a great platform for hosting [[Virtual Machines]].
 >
-> **[0:04](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/azure-vm-management?u=76281980&t=4)** Even so, there are a dizzying array of options associated with Azure virtual machines.
+> **[0:04](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/azure-vm-management?u=76281980&t=4)** Even so, there are a dizzying array of options associated with [[Microsoft Azure|Azure]] virtual machines.
 >
-> **[0:09](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/azure-vm-management?u=76281980&t=9)** In this LinkedIn learning course, I'll cut through the complexity that is so often associated with Azure virtual machines and show you what you really need to know in order to use Azure VMs effectively.
+> **[0:09](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/azure-vm-management?u=76281980&t=9)** In this [[LinkedIn]] learning course, I'll cut through the complexity that is so often associated with Azure virtual machines and show you what you really need to know in order to use Azure VMs effectively.
 >
-> **[0:19](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/azure-vm-management?u=76281980&t=19)** I'm Brien Posey, a 21 time Microsoft MVP and I'll be your instructor for this course.
+> **[0:19](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/azure-vm-management?u=76281980&t=19)** I'm Brien Posey, a 21 time [[Microsoft]] MVP and I'll be your instructor for this course.
 >
 > **[0:25](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/azure-vm-management?u=76281980&t=25)** So if you're ready to learn all about Azure virtual machines, then I'll welcome you to join me in this LinkedIn Learning course.
 
@@ -126,18 +125,17 @@ created: 2026-05-02
 > **Env Vars:** mvp (1)
 > **Speakers:** - [instructor] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/what-you-should-know?u=76281980&t=0)** - [Instructor] For this course, it will be helpful for you to have a basic understanding of fundamental IT concepts, such as networking, cloud computing, and virtual machines.
+> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/what-you-should-know?u=76281980&t=0)** - [Instructor] For this course, it will be helpful for you to have a basic understanding of fundamental IT concepts, such as networking, [[Cloud Computing]], and [[Virtual Machines]].
 >
 > **[0:08](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/what-you-should-know?u=76281980&t=8)** But if you don't, that's okay.
 >
 > **[0:10](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/what-you-should-know?u=76281980&t=10)** The first four videos in this course are designed to get you started quickly.
 >
-> **[0:14](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/what-you-should-know?u=76281980&t=14)** In those videos, I explain how to create Azure virtual machines in the quickest and easiest way possible.
+> **[0:14](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/what-you-should-know?u=76281980&t=14)** In those videos, I explain how to create [[Microsoft Azure|Azure]] virtual machines in the quickest and easiest way possible.
 >
 > **[0:19](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/what-you-should-know?u=76281980&t=19)** I'll also be showing you how to log into those virtual machines.
 >
@@ -145,7 +143,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Virtual Machines]] (3), cloud (1), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[Virtual Machines]] (3), [[Cloud Computing]] (1), [[Microsoft Azure|Azure]] (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
@@ -154,12 +152,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create an Azure VM
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-an-azure-vm?u=76281980)
+#### [Create an Azure VM](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-an-azure-vm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-an-azure-vm?u=76281980&t=0)** - [Instructor] If you're brand new to Microsoft Azure virtual machines and you just want to get a virtual machine up and running in the easiest way possible without worrying about all of the underlying technical details then this video is for you.
+> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-an-azure-vm?u=76281980&t=0)** - [Instructor] If you're brand new to [[Microsoft Azure]] [[Virtual Machines]] and you just want to get a virtual machine up and running in the easiest way possible without worrying about all of the underlying technical details then this video is for you.
 >
 > **[0:11](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-an-azure-vm?u=76281980&t=11)** In this video, I'm going to show you the easiest way to create a virtual machine, and then I'll come back in some of the later videos and talk about some of the technical details.
 >
@@ -179,7 +176,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-an-azure-vm?u=76281980&t=59)** Next, we have to choose a resource group.
 >
-> **[1:01](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-an-azure-vm?u=76281980&t=61)** If you've already got a resource group you're free to use it, otherwise, Azure will create a resource group for you.
+> **[1:01](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-an-azure-vm?u=76281980&t=61)** If you've already got a resource group you're free to use it, otherwise, [[Microsoft Azure|Azure]] will create a resource group for you.
 >
 > **[1:06](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-an-azure-vm?u=76281980&t=66)** You can see that right now this is set to new resource group, so that's taken care of.
 >
@@ -187,7 +184,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-an-azure-vm?u=76281980&t=76)** You can call the virtual machine anything that you want, for the purposes of demonstration.
 >
-> **[1:20](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-an-azure-vm?u=76281980&t=80)** I'm just going to call this virtual machine Windows.
+> **[1:20](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-an-azure-vm?u=76281980&t=80)** I'm just going to call this virtual machine [[Windows]].
 >
 > **[1:23](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-an-azure-vm?u=76281980&t=83)** (keyboard clacking) Next, you'll want to select a region, or you can simply go with the defaults as I'm going to do here.
 >
@@ -195,11 +192,11 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-an-azure-vm?u=76281980&t=94)** The image pertains to the operating system that's going to be installed on the virtual machine.
 >
-> **[1:38](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-an-azure-vm?u=76281980&t=98)** As you can see, Azure defaults to using Linux, but we could make this a Windows virtual machine instead.
+> **[1:38](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-an-azure-vm?u=76281980&t=98)** As you can see, Azure defaults to using [[Linux]], but we could make this a Windows virtual machine instead.
 >
 > **[1:44](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-an-azure-vm?u=76281980&t=104)** So I'm going to click on the down arrow, and you can see the various operating systems that are available to us.
 >
-> **[1:49](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-an-azure-vm?u=76281980&t=109)** I'm going to choose Windows Server 2022 Data Center and then I'm going to scroll down a little bit more.
+> **[1:49](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-an-azure-vm?u=76281980&t=109)** I'm going to choose [[Windows Server]] 2022 Data Center and then I'm going to scroll down a little bit more.
 >
 > **[1:56](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-an-azure-vm?u=76281980&t=116)** And we have to provide an administrator, a username and password.
 >
@@ -233,14 +230,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Virtual Machines]] (5), [[Microsoft Azure|Azure]] (5), next (3), [[Windows]] (2), [[Microsoft Azure]] (1)
+> **Frameworks & Libraries:** [[Virtual Machines]] (5), [[Microsoft Azure|Azure]] (5), [[Windows]] (2), [[Microsoft Azure]] (1), [[Linux]] (1)
 > **UI Navigation:** click on (6), scroll down (2), select the (1)
 > **Prerequisites:** getting started (1), you'll need (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create an Azure VM with a preset configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-an-azure-vm-with-a-preset-configuration?u=76281980)
+#### [Create an Azure VM with a preset configuration](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-an-azure-vm-with-a-preset-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -252,9 +248,9 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-an-azure-vm-with-a-preset-configuration?u=76281980&t=15)** Some workloads require a lot of virtual machine resources, others maybe not so much.
 >
-> **[0:20](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-an-azure-vm-with-a-preset-configuration?u=76281980&t=20)** So, in order to accommodate the needs of various types of workloads, Microsoft Azure allows you to create virtual machines of different sizes.
+> **[0:20](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-an-azure-vm-with-a-preset-configuration?u=76281980&t=20)** So, in order to accommodate the needs of various types of workloads, [[Microsoft Azure]] allows you to create [[Virtual Machines]] of different sizes.
 >
-> **[0:28](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-an-azure-vm-with-a-preset-configuration?u=76281980&t=28)** A size refers to the hardware resources that are made available to the virtual machine.
+> **[0:28](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-an-azure-vm-with-a-preset-configuration?u=76281980&t=28)** A size refers to the [[Hardware]] resources that are made available to the virtual machine.
 >
 > **[0:33](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-an-azure-vm-with-a-preset-configuration?u=76281980&t=33)** And I'm going to be talking all about sizes in one of the later videos.
 >
@@ -262,7 +258,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-an-azure-vm-with-a-preset-configuration?u=76281980&t=46)** And if you want to align the size of the virtual machine to your workload but you still want to make the creation process as easy as possible, there's a shortcut that you can use, and I want to show you what that shortcut looks like right now.
 >
-> **[0:58](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-an-azure-vm-with-a-preset-configuration?u=76281980&t=58)** So right now I'm in the virtual machines console and I'm going to go to Create, and rather than choosing the Azure virtual machine option, I'm going to skip down to the next option, Azure virtual machine with preset configuration.
+> **[0:58](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-an-azure-vm-with-a-preset-configuration?u=76281980&t=58)** So right now I'm in the virtual machines console and I'm going to go to Create, and rather than choosing the [[Microsoft Azure|Azure]] virtual machine option, I'm going to skip down to the next option, Azure virtual machine with preset configuration.
 >
 > **[1:10](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-an-azure-vm-with-a-preset-configuration?u=76281980&t=70)** I'll click on that now.
 >
@@ -280,9 +276,9 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-an-azure-vm-with-a-preset-configuration?u=76281980&t=109)** Now, there are a few things that we have to do here of course, the first thing being entering a name for the virtual machine that we're creating.
 >
-> **[1:55](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-an-azure-vm-with-a-preset-configuration?u=76281980&t=115)** In the previous video, I created a Windows virtual machine.
+> **[1:55](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-an-azure-vm-with-a-preset-configuration?u=76281980&t=115)** In the previous video, I created a [[Windows]] virtual machine.
 >
-> **[1:58](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-an-azure-vm-with-a-preset-configuration?u=76281980&t=118)** So this time let's create a Linux virtual machine instead.
+> **[1:58](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-an-azure-vm-with-a-preset-configuration?u=76281980&t=118)** So this time let's create a [[Linux]] virtual machine instead.
 >
 > **[2:01](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-an-azure-vm-with-a-preset-configuration?u=76281980&t=121)** I'm just going to call this Linux.
 >
@@ -354,18 +350,17 @@ created: 2026-05-02
 > **Definitions:** refers to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Connect to a Windows virtual machine
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/connect-to-a-windows-virtual-machine?u=76281980)
+#### [Connect to a Windows virtual machine](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/connect-to-a-windows-virtual-machine?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/connect-to-a-windows-virtual-machine?u=76281980&t=0)** - [Instructor] In one of the earlier videos, I showed you how to create a Windows virtual machine in Azure.
+> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/connect-to-a-windows-virtual-machine?u=76281980&t=0)** - [Instructor] In one of the earlier videos, I showed you how to create a [[Windows]] virtual machine in [[Microsoft Azure|Azure]].
 >
 > **[0:05](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/connect-to-a-windows-virtual-machine?u=76281980&t=5)** So let's take a look at how to connect to that virtual machine.
 >
-> **[0:08](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/connect-to-a-windows-virtual-machine?u=76281980&t=8)** So right now, I'm signed into Azure in the Virtual Machines portal.
+> **[0:08](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/connect-to-a-windows-virtual-machine?u=76281980&t=8)** So right now, I'm signed into Azure in the [[Virtual Machines]] portal.
 >
-> **[0:12](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/connect-to-a-windows-virtual-machine?u=76281980&t=12)** And you can see that I have a Linux virtual machine and a Windows virtual machine.
+> **[0:12](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/connect-to-a-windows-virtual-machine?u=76281980&t=12)** And you can see that I have a [[Linux]] virtual machine and a Windows virtual machine.
 >
 > **[0:16](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/connect-to-a-windows-virtual-machine?u=76281980&t=16)** I'm going to go ahead and click on the Windows virtual machine.
 >
@@ -373,7 +368,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/connect-to-a-windows-virtual-machine?u=76281980&t=25)** Now, connection to a Windows virtual machine is generally done by way of the RDP protocol, that's the remote desktop protocol that's used by the remote desktop connection utility that comes with Windows.
 >
-> **[0:36](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/connect-to-a-windows-virtual-machine?u=76281980&t=36)** So as you can see, there's a quick validation check that occurs, and then Microsoft displays the port number and the IP address for this particular virtual machine.
+> **[0:36](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/connect-to-a-windows-virtual-machine?u=76281980&t=36)** So as you can see, there's a quick validation check that occurs, and then [[Microsoft]] displays the port number and the IP address for this particular virtual machine.
 >
 > **[0:45](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/connect-to-a-windows-virtual-machine?u=76281980&t=45)** Now, we could open up the Windows RDP client and manually connect to this virtual machine, that's certainly an option, but the easier option is to simply download an RDP file, and that's going to automate the connectivity process, so let's do that.
 >
@@ -421,18 +416,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (8), [[Microsoft Azure|Azure]] (5), next (2), [[Microsoft]] (2), [[Virtual Machines]] (1)
+> **Frameworks & Libraries:** [[Windows]] (8), [[Microsoft Azure|Azure]] (5), [[Microsoft]] (2), [[Virtual Machines]] (1), [[Linux]] (1)
 > **Env Vars:** rdp (7)
 > **UI Navigation:** click on (7)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Connect to a Linux virtual machine
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/connect-to-a-linux-virtual-machine?u=76281980)
+#### [Connect to a Linux virtual machine](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/connect-to-a-linux-virtual-machine?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/connect-to-a-linux-virtual-machine?u=76281980&t=0)** - [Instructor] In one of the earlier videos I showed you how to create a Linux virtual machine.
+> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/connect-to-a-linux-virtual-machine?u=76281980&t=0)** - [Instructor] In one of the earlier videos I showed you how to create a [[Linux]] virtual machine.
 >
 > **[0:04](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/connect-to-a-linux-virtual-machine?u=76281980&t=4)** Now I want to take a look at how to connect to that virtual machine.
 >
@@ -440,7 +434,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/connect-to-a-linux-virtual-machine?u=76281980&t=13)** And what that means is that you're going to have to have an SSH client in order to be able to connect to the virtual machine.
 >
-> **[0:18](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/connect-to-a-linux-virtual-machine?u=76281980&t=18)** Now, there are any number of third party clients that you can use, including some really good free ones such as PuTTY, but there's also an SSH client that's built into Windows.
+> **[0:18](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/connect-to-a-linux-virtual-machine?u=76281980&t=18)** Now, there are any number of third party clients that you can use, including some really good free ones such as PuTTY, but there's also an SSH client that's built into [[Windows]].
 >
 > **[0:27](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/connect-to-a-linux-virtual-machine?u=76281980&t=27)** Let's take a look at what that looks like.
 >
@@ -454,7 +448,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/connect-to-a-linux-virtual-machine?u=76281980&t=53)** So I'm going to go ahead and close this out.
 >
-> **[0:56](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/connect-to-a-linux-virtual-machine?u=76281980&t=56)** Now, the OpenSSH client that I'm going to be using is accessible through PowerShell.
+> **[0:56](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/connect-to-a-linux-virtual-machine?u=76281980&t=56)** Now, the OpenSSH client that I'm going to be using is accessible through [[Powershell]].
 >
 > **[1:01](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/connect-to-a-linux-virtual-machine?u=76281980&t=61)** So let me go ahead and open up PowerShell.
 >
@@ -470,7 +464,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/connect-to-a-linux-virtual-machine?u=76281980&t=87)** I'm going to go ahead and click on the Linux virtual machine and then I'm going to click Connect.
 >
-> **[1:35](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/connect-to-a-linux-virtual-machine?u=76281980&t=95)** So Azure does a quick status check and the next thing that we have to do is to provide the path and file name for our key file that we created when we created the virtual machine.
+> **[1:35](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/connect-to-a-linux-virtual-machine?u=76281980&t=95)** So [[Microsoft Azure|Azure]] does a quick status check and the next thing that we have to do is to provide the path and file name for our key file that we created when we created the virtual machine.
 >
 > **[1:45](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/connect-to-a-linux-virtual-machine?u=76281980&t=105)** So I saved the key file in the Documents folder on my machine.
 >
@@ -526,7 +520,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (6), [[Powershell]] (4), next (2), [[Microsoft Azure|Azure]] (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Linux]] (6), [[Powershell]] (4), [[Microsoft Azure|Azure]] (2), [[Windows]] (1)
 > **CLI Commands:** ssh (8), find (1)
 > **Env Vars:** ssh (7), cls (1)
 > **UI Navigation:** click on (3), go to (2), right-click (2)
@@ -540,18 +534,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand VM availability options
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/understand-vm-availability-options?u=76281980)
+#### [Understand VM availability options](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/understand-vm-availability-options?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/understand-vm-availability-options?u=76281980&t=0)** - [Instructor] In the previous section of this course, I spent quite a bit of time showing you the quickest and easiest way to create an Azure virtual machine instance.
+> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/understand-vm-availability-options?u=76281980&t=0)** - [Instructor] In the previous section of this course, I spent quite a bit of time showing you the quickest and easiest way to create an [[Microsoft Azure|Azure]] virtual machine instance.
 >
 > **[0:07](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/understand-vm-availability-options?u=76281980&t=7)** Now I want to take a step back and talk about some of the more commonly used configuration options that you're likely to see when you create a new virtual machine instance.
 >
 > **[0:16](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/understand-vm-availability-options?u=76281980&t=16)** And I want to start by talking about some of the availability options.
 >
-> **[0:19](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/understand-vm-availability-options?u=76281980&t=19)** So here we are on the virtual machine screen and as you can see, we don't have any virtual machines right now.
+> **[0:19](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/understand-vm-availability-options?u=76281980&t=19)** So here we are on the virtual machine screen and as you can see, we don't have any [[Virtual Machines]] right now.
 >
 > **[0:24](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/understand-vm-availability-options?u=76281980&t=24)** So I'm going to go ahead and click the Create button and I'll choose the Azure virtual machine option.
 >
@@ -609,7 +602,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Virtual Machines]] (7), [[Microsoft Azure|Azure]] (6), application (4), business (1), power (1)
+> **Frameworks & Libraries:** [[Virtual Machines]] (7), [[Microsoft Azure|Azure]] (6)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** sla (1)
@@ -618,12 +611,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** configure (1)
 
-#### Choose a VM's architecture and size
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/choose-a-vm-s-architecture-and-size?u=76281980)
+#### [Choose a VM's architecture and size](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/choose-a-vm-s-architecture-and-size?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/choose-a-vm-s-architecture-and-size?u=76281980&t=0)** - [Narrator] When you create a new Azure virtual machine, you're going to need to consider the architecture that you want to use and the virtual machine size.
+> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/choose-a-vm-s-architecture-and-size?u=76281980&t=0)** - [Narrator] When you create a new [[Microsoft Azure|Azure]] virtual machine, you're going to need to consider the architecture that you want to use and the virtual machine size.
 >
 > **[0:07](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/choose-a-vm-s-architecture-and-size?u=76281980&t=7)** So let's take a look at the options that exist.
 >
@@ -635,7 +627,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/choose-a-vm-s-architecture-and-size?u=76281980&t=24)** So I'm going to scroll down just a little bit and here you can see that we have an option called VM Architecture.
 >
-> **[0:31](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/choose-a-vm-s-architecture-and-size?u=76281980&t=31)** So this essentially determines what hardware platform the virtual machine is going to run on.
+> **[0:31](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/choose-a-vm-s-architecture-and-size?u=76281980&t=31)** So this essentially determines what [[Hardware]] platform the virtual machine is going to run on.
 >
 > **[0:36](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/choose-a-vm-s-architecture-and-size?u=76281980&t=36)** So as you can see, we have an option for ARM 64 and an option for X 64.
 >
@@ -643,9 +635,9 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/choose-a-vm-s-architecture-and-size?u=76281980&t=48)** The image controls the operating system that is going to be installed on the virtual machine.
 >
-> **[0:53](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/choose-a-vm-s-architecture-and-size?u=76281980&t=53)** By default, Azure Virtual machines defaults to a particular Linux server build but we do have other choices.
+> **[0:53](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/choose-a-vm-s-architecture-and-size?u=76281980&t=53)** By default, Azure [[Virtual Machines]] defaults to a particular [[Linux]] server build but we do have other choices.
 >
-> **[1:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/choose-a-vm-s-architecture-and-size?u=76281980&t=60)** So for example, I might select Windows Server 2022 Data Center edition.
+> **[1:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/choose-a-vm-s-architecture-and-size?u=76281980&t=60)** So for example, I might select [[Windows Server]] 2022 Data Center edition.
 >
 > **[1:06](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/choose-a-vm-s-architecture-and-size?u=76281980&t=66)** Now, occasionally you may find that when you choose a new operating system, you'll initially get some errors under VM architecture telling you that the image isn't available.
 >
@@ -673,7 +665,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/choose-a-vm-s-architecture-and-size?u=76281980&t=132)** You can also see the sizes that are recommended by the image publisher.
 >
-> **[2:16](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/choose-a-vm-s-architecture-and-size?u=76281980&t=136)** So in this case, I chose a Windows virtual machine instance, the publisher being Microsoft, because it is Windows.
+> **[2:16](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/choose-a-vm-s-architecture-and-size?u=76281980&t=136)** So in this case, I chose a [[Windows]] virtual machine instance, the publisher being [[Microsoft]], because it is Windows.
 >
 > **[2:23](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/choose-a-vm-s-architecture-and-size?u=76281980&t=143)** And so Microsoft is recommending these three instance sizes.
 >
@@ -699,7 +691,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Virtual Machines]] (3), [[Hardware]] (2), data (2), [[Windows]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Virtual Machines]] (3), [[Hardware]] (2), [[Windows]] (2), [[Microsoft]] (2)
 > **Env Vars:** arm (1), d2s (1), ram (1), iops (1)
 > **UI Navigation:** click on (2), scroll down (1), select the (1)
 > **CLI Commands:** find (1)
@@ -708,12 +700,11 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Warnings:** keep in mind (1)
 
-#### Work with spot instances
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/work-with-spot-instances?u=76281980)
+#### [Work with spot instances](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/work-with-spot-instances?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/work-with-spot-instances?u=76281980&t=0)** - [Instructor] Anytime that you create a virtual machine instance within Azure, there's going to be a cost that's associated with running that virtual machine instance.
+> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/work-with-spot-instances?u=76281980&t=0)** - [Instructor] Anytime that you create a virtual machine instance within [[Microsoft Azure|Azure]], there's going to be a cost that's associated with running that virtual machine instance.
 >
 > **[0:08](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/work-with-spot-instances?u=76281980&t=8)** Now, one way that you can bring that cost down is by creating a spot instance.
 >
@@ -731,11 +722,11 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/work-with-spot-instances?u=76281980&t=46)** So the idea behind this option is really simple.
 >
-> **[0:48](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/work-with-spot-instances?u=76281980&t=48)** The Microsoft Azure data center contains numerous physical servers, and those servers aren't being constantly used.
+> **[0:48](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/work-with-spot-instances?u=76281980&t=48)** The [[Microsoft Azure]] data center contains numerous physical servers, and those servers aren't being constantly used.
 >
-> **[0:56](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/work-with-spot-instances?u=76281980&t=56)** Workloads tend to fluctuate on those servers as people create and delete Azure virtual machines.
+> **[0:56](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/work-with-spot-instances?u=76281980&t=56)** Workloads tend to fluctuate on those servers as people create and delete Azure [[Virtual Machines]].
 >
-> **[1:02](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/work-with-spot-instances?u=76281980&t=62)** So at any given time, Microsoft has most likely got some compute resources that are setting idle, and they would rather not have those servers idle.
+> **[1:02](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/work-with-spot-instances?u=76281980&t=62)** So at any given time, [[Microsoft]] has most likely got some compute resources that are setting idle, and they would rather not have those servers idle.
 >
 > **[1:10](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/work-with-spot-instances?u=76281980&t=70)** They would rather allow you to use that unused capacity at a deep discount than to simply have those machines setting idle.
 >
@@ -783,7 +774,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/work-with-spot-instances?u=76281980&t=203)** And you would enter that price right here where my mouse pointer is.
 >
-> **[3:26](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/work-with-spot-instances?u=76281980&t=206)** And so once the actual cost of the hardware exceeds the price that you put in, then the virtual machine instance would be evicted.
+> **[3:26](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/work-with-spot-instances?u=76281980&t=206)** And so once the actual cost of the [[Hardware]] exceeds the price that you put in, then the virtual machine instance would be evicted.
 >
 > **[3:35](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/work-with-spot-instances?u=76281980&t=215)** So what happens when a virtual machine instance is evicted?
 >
@@ -809,19 +800,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (12), data (4), [[Microsoft]] (4), [[Virtual Machines]] (2), [[Microsoft Azure]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (12), [[Microsoft]] (4), [[Virtual Machines]] (2), [[Microsoft Azure]] (1), [[Hardware]] (1)
 > **UI Navigation:** scroll down (1), checkbox (1)
 > **Definitions:** is an  (1), in other words (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** sla (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reserve VM capacity
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/reserve-vm-capacity?u=76281980)
+#### [Reserve VM capacity](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/reserve-vm-capacity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/reserve-vm-capacity?u=76281980&t=0)** - [Instructor] Anytime that you create a virtual machine instance in Azure, there's going to be certain costs that are associated with that virtual machine instance.
+> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/reserve-vm-capacity?u=76281980&t=0)** - [Instructor] Anytime that you create a virtual machine instance in [[Microsoft Azure|Azure]], there's going to be certain costs that are associated with that virtual machine instance.
 >
 > **[0:07](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/reserve-vm-capacity?u=76281980&t=7)** In most cases, these costs are based on what's known as a pay-as-you-go plan.
 >
@@ -877,7 +867,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/reserve-vm-capacity?u=76281980&t=160)** The error message says that the subscription is not eligible for reservation benefit and cannot be used to purchase a reservation.
 >
-> **[2:47](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/reserve-vm-capacity?u=76281980&t=167)** And then it goes on to tell me that if I do want to purchase a reservation, then I would need one of these subscription types, those types being an enterprise agreement, a pay-as-you-go subscription, a CSP subscription, a Microsoft Customer Agreement subscription.
+> **[2:47](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/reserve-vm-capacity?u=76281980&t=167)** And then it goes on to tell me that if I do want to purchase a reservation, then I would need one of these subscription types, those types being an enterprise agreement, a pay-as-you-go subscription, a CSP subscription, a [[Microsoft]] Customer Agreement subscription.
 >
 > **[3:02](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/reserve-vm-capacity?u=76281980&t=182)** So those are the types of subscriptions that are eligible for purchasing reservations.
 >
@@ -899,7 +889,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), next (2), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Microsoft]] (2)
 > **UI Navigation:** click on (3), select the (2), dropdown (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** known as (1), in other words (1)
@@ -908,12 +898,11 @@ created: 2026-05-02
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create proximity placement groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-proximity-placement-groups?u=76281980)
+#### [Create proximity placement groups](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-proximity-placement-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-proximity-placement-groups?u=76281980&t=0)** - [Presenter] When you deploy a multi-tier application in Azure, it usually means that that application is going to span multiple virtual machine instances.
+> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-proximity-placement-groups?u=76281980&t=0)** - [Presenter] When you deploy a multi-tier application in [[Microsoft Azure|Azure]], it usually means that that application is going to span multiple virtual machine instances.
 >
 > **[0:07](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-proximity-placement-groups?u=76281980&t=7)** And in those types of situations, it's important to minimize latency between the virtual machine instances that make up the application.
 >
@@ -947,7 +936,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-proximity-placement-groups?u=76281980&t=114)** The basic idea behind the VM sizes option is that you can select the virtual machine sizes that are going to be used in conjunction with the placement group that you're creating.
 >
-> **[2:03](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-proximity-placement-groups?u=76281980&t=123)** Now, again, you don't have to do this, but if you do happen to know what sizes of virtual machines are going to be used in that proximity placement group, then you can greatly increase your chances of having the proximity placement group succeed.
+> **[2:03](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-proximity-placement-groups?u=76281980&t=123)** Now, again, you don't have to do this, but if you do happen to know what sizes of [[Virtual Machines]] are going to be used in that proximity placement group, then you can greatly increase your chances of having the proximity placement group succeed.
 >
 > **[2:16](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-proximity-placement-groups?u=76281980&t=136)** So I'm going to go ahead and click the down arrow.
 >
@@ -977,11 +966,11 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-proximity-placement-groups?u=76281980&t=225)** And incidentally, it is possible to add an existing virtual machine instance to a proximity placement group as well.
 >
-> **[3:52](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-proximity-placement-groups?u=76281980&t=232)** So that's how you create a proximity placement group in Microsoft Azure.
+> **[3:52](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-proximity-placement-groups?u=76281980&t=232)** So that's how you create a proximity placement group in [[Microsoft Azure]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), next (5), application (3), [[Virtual Machines]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Virtual Machines]] (2), [[Microsoft Azure]] (1)
 > **UI Navigation:** click on (6), select the (2), scroll down (1)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1), is a  (1)
@@ -995,14 +984,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Choose a VM's security type
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/choose-a-vm-s-security-type?u=76281980)
+#### [Choose a VM's security type](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/choose-a-vm-s-security-type?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/choose-a-vm-s-security-type?u=76281980&t=0)** - [Instructor] Anytime that you create a new Azure virtual machine, it's important to think about that virtual machine's security needs.
+> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/choose-a-vm-s-security-type?u=76281980&t=0)** - [Instructor] Anytime that you create a new [[Microsoft Azure|Azure]] virtual machine, it's important to think about that virtual machine's security needs.
 >
-> **[0:06](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/choose-a-vm-s-security-type?u=76281980&t=6)** When you create a new virtual machine, Microsoft allows you to choose from three different types of security.
+> **[0:06](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/choose-a-vm-s-security-type?u=76281980&t=6)** When you create a new virtual machine, [[Microsoft]] allows you to choose from three different types of security.
 >
 > **[0:11](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/choose-a-vm-s-security-type?u=76281980&t=11)** So let's take a look at those security types.
 >
@@ -1034,7 +1022,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/choose-a-vm-s-security-type?u=76281980&t=81)** And that will set the security type to Standard.
 >
-> **[1:25](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/choose-a-vm-s-security-type?u=76281980&t=85)** Now, the default option is what's known as Trusted launch virtual machines.
+> **[1:25](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/choose-a-vm-s-security-type?u=76281980&t=85)** Now, the default option is what's known as Trusted launch [[Virtual Machines]].
 >
 > **[1:30](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/choose-a-vm-s-security-type?u=76281980&t=90)** Trusted launch virtual machines gives you everything that you get with the Standard security type, but you get a few extra things.
 >
@@ -1050,9 +1038,9 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/choose-a-vm-s-security-type?u=76281980&t=121)** TPM stands for a Trusted Platform Module.
 >
-> **[2:03](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/choose-a-vm-s-security-type?u=76281980&t=123)** It refers to a hardware component called a TPM chip.
+> **[2:03](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/choose-a-vm-s-security-type?u=76281980&t=123)** It refers to a [[Hardware]] component called a TPM chip.
 >
-> **[2:07](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/choose-a-vm-s-security-type?u=76281980&t=127)** You may recall that when Microsoft released Windows 11, one of the requirements was a TPM 2.0 chip.
+> **[2:07](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/choose-a-vm-s-security-type?u=76281980&t=127)** You may recall that when Microsoft released [[Windows]] 11, one of the requirements was a TPM 2.0 chip.
 >
 > **[2:13](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/choose-a-vm-s-security-type?u=76281980&t=133)** So having access to a virtual TPM allows you to run those newer operating systems.
 >
@@ -1074,7 +1062,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (26), [[Virtual Machines]] (7), [[Microsoft Azure|Azure]] (3), [[Microsoft]] (3), feature (2)
+> **Frameworks & Libraries:** [[Virtual Machines]] (7), [[Microsoft Azure|Azure]] (3), [[Microsoft]] (3), [[Hardware]] (1), [[Windows]] (1)
 > **Env Vars:** tpm (6)
 > **UI Navigation:** click on (3), select the (1), checkbox (1)
 > **Definitions:** stands for (1), refers to (1)
@@ -1083,12 +1071,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Assign port rules to a VM
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/assign-port-rules-to-a-vm?u=76281980)
+#### [Assign port rules to a VM](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/assign-port-rules-to-a-vm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/assign-port-rules-to-a-vm?u=76281980&t=0)** - When you create a virtual machine in Azure, you need to think about the types of traffic that are going to come into and out of that virtual machine so that you can create the appropriate firewall rules or port rules as a Microsoft likes to call them.
+> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/assign-port-rules-to-a-vm?u=76281980&t=0)** - When you create a virtual machine in [[Microsoft Azure|Azure]], you need to think about the types of traffic that are going to come into and out of that virtual machine so that you can create the appropriate firewall rules or port rules as a [[Microsoft]] likes to call them.
 >
 > **[0:12](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/assign-port-rules-to-a-vm?u=76281980&t=12)** So in this video I want to show you how to create some port rules for an Azure virtual machine.
 >
@@ -1188,7 +1175,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), traffic (3), [[Microsoft]] (1), web (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Microsoft]] (1)
 > **UI Navigation:** click on (6)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** tcp (3)
@@ -1197,8 +1184,7 @@ created: 2026-05-02
 > **Definitions:** known as (1)
 > **Prerequisites:** configure (1)
 
-#### Create managed identities
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-managed-identities?u=76281980)
+#### [Create managed identities](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-managed-identities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1210,11 +1196,11 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-managed-identities?u=76281980&t=18)** For example, you don't have to worry about managing credentials, because the credentials aren't even accessible to you.
 >
-> **[0:24](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-managed-identities?u=76281980&t=24)** Another benefit is that you can use managed identities to authenticate any resource that supports Azure Active Directory authentication, and that includes your own applications.
+> **[0:24](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-managed-identities?u=76281980&t=24)** Another benefit is that you can use managed identities to authenticate any resource that supports [[Microsoft Entra ID|Azure Active Directory]] authentication, and that includes your own applications.
 >
 > **[0:33](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-managed-identities?u=76281980&t=33)** Another benefit is that there aren't any extra costs associated with using managed identities.
 >
-> **[0:38](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-managed-identities?u=76281980&t=38)** So in this video, I want to show you managed identities as they relate to Azure virtual machines.
+> **[0:38](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-managed-identities?u=76281980&t=38)** So in this video, I want to show you managed identities as they relate to [[Microsoft Azure|Azure]] [[Virtual Machines]].
 >
 > **[0:43](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-managed-identities?u=76281980&t=43)** Now the first thing that you need to know is that there are two different types of managed identities.
 >
@@ -1232,7 +1218,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-managed-identities?u=76281980&t=91)** When you create a system managed identity, Azure creates a service principle in Azure Active Directory.
 >
-> **[1:37](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-managed-identities?u=76281980&t=97)** And the service principle is the only one that the Azure resource can use to identify request tokens from Azure Active Directory.
+> **[1:37](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-managed-identities?u=76281980&t=97)** And the service principle is the only one that the Azure resource can use to identify request [[Tokens]] from Azure Active Directory.
 >
 > **[1:44](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-managed-identities?u=76281980&t=104)** And the service principle is tied directly to the lifecycle of that Azure resource.
 >
@@ -1280,7 +1266,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Microsoft Entra ID|Azure active directory]] (4), management (3), [[Virtual Machines]] (3), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Microsoft Entra ID|Azure active directory]] (4), [[Virtual Machines]] (3), [[Tokens]] (1)
 > **UI Navigation:** click on (6), checkbox (3)
 > **Definitions:** is an  (2)
 > **CLI Commands:** make (1)
@@ -1289,28 +1275,27 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Connect a VM to the AD
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/connect-a-vm-to-the-ad?u=76281980)
+#### [Connect a VM to the AD](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/connect-a-vm-to-the-ad?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/connect-a-vm-to-the-ad?u=76281980&t=0)** - [Instructor] When you're working in an on-premises environment, it's very common for Windows machines to be domain-joined.
+> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/connect-a-vm-to-the-ad?u=76281980&t=0)** - [Instructor] When you're working in an on-premises environment, it's very common for [[Windows]] machines to be domain-joined.
 >
-> **[0:06](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/connect-a-vm-to-the-ad?u=76281980&t=6)** Well, you can do the same thing in an Azure Cloud.
+> **[0:06](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/connect-a-vm-to-the-ad?u=76281980&t=6)** Well, you can do the same thing in an [[Microsoft Azure|Azure]] Cloud.
 >
-> **[0:08](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/connect-a-vm-to-the-ad?u=76281980&t=8)** You can deploy a virtual machine and promote that machine to a domain controller, and then domain-join other machines to the Active Directory by way of that virtualized domain controller.
+> **[0:08](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/connect-a-vm-to-the-ad?u=76281980&t=8)** You can deploy a virtual machine and promote that machine to a domain controller, and then domain-join other machines to the [[Active Directory]] by way of that virtualized domain controller.
 >
 > **[0:19](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/connect-a-vm-to-the-ad?u=76281980&t=19)** But as you can imagine, that involves a lot of work.
 >
 > **[0:22](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/connect-a-vm-to-the-ad?u=76281980&t=22)** And if your only goal is to allow Active Directory users to log into a particular virtual machine, then you don't have to go through all of that.
 >
-> **[0:30](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/connect-a-vm-to-the-ad?u=76281980&t=30)** What you can do instead is to simply enable an Azure virtual machine for Azure AD authentication.
+> **[0:30](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/connect-a-vm-to-the-ad?u=76281980&t=30)** What you can do instead is to simply enable an Azure virtual machine for [[Microsoft Entra ID|Azure AD]] authentication.
 >
 > **[0:35](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/connect-a-vm-to-the-ad?u=76281980&t=35)** So in this video, I'll show you how to do that.
 >
 > **[0:37](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/connect-a-vm-to-the-ad?u=76281980&t=37)** And to do that, we're going to create a brand new virtual machine.
 >
-> **[0:40](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/connect-a-vm-to-the-ad?u=76281980&t=40)** So as you can see, I've got the virtual machines console open and I'm going to click on create, and then I'll click Azure virtual machine.
+> **[0:40](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/connect-a-vm-to-the-ad?u=76281980&t=40)** So as you can see, I've got the [[Virtual Machines]] console open and I'm going to click on create, and then I'll click Azure virtual machine.
 >
 > **[0:49](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/connect-a-vm-to-the-ad?u=76281980&t=49)** And this is going to open up the same, create a virtual machine screen that we've seen several times throughout this course.
 >
@@ -1330,7 +1315,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/connect-a-vm-to-the-ad?u=76281980&t=99)** Next, we have to choose the image that we want to use.
 >
-> **[1:42](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/connect-a-vm-to-the-ad?u=76281980&t=102)** I'm going to go with Windows Server 2022 Data Center, and then we have to provide an admin username and password.
+> **[1:42](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/connect-a-vm-to-the-ad?u=76281980&t=102)** I'm going to go with [[Windows Server]] 2022 Data Center, and then we have to provide an admin username and password.
 >
 > **[1:49](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/connect-a-vm-to-the-ad?u=76281980&t=109)** So I'm going to set the username to AzureAdmin, and I'll enter my password.
 >
@@ -1364,7 +1349,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Microsoft Entra ID|Azure ad]] (5), [[Active Directory]] (4), [[Windows]] (3), next (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Microsoft Entra ID|Azure ad]] (5), [[Active Directory]] (4), [[Windows]] (3), [[Virtual Machines]] (1)
 > **UI Navigation:** click on (3), checkbox (3), scroll up (1), go to (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** next video (1)
@@ -1373,18 +1358,17 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (keyboard clicking) (1)
 
-#### Grant an Azure AD user logon permission
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/grant-an-azure-ad-user-logon-permission?u=76281980)
+#### [Grant an Azure AD user logon permission](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/grant-an-azure-ad-user-logon-permission?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/grant-an-azure-ad-user-logon-permission?u=76281980&t=0)** - [Instructor] In the previous video, I showed you how to create a virtual machine that is enabled for use by Azure AD users.
+> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/grant-an-azure-ad-user-logon-permission?u=76281980&t=0)** - [Instructor] In the previous video, I showed you how to create a virtual machine that is enabled for use by [[Microsoft Entra ID|Azure AD]] users.
 >
-> **[0:07](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/grant-an-azure-ad-user-logon-permission?u=76281980&t=7)** Now, before any Azure Active Directory user is going to be able to log into this virtual machine, you have to give them permission to do so.
+> **[0:07](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/grant-an-azure-ad-user-logon-permission?u=76281980&t=7)** Now, before any [[Microsoft Entra ID|Azure Active Directory]] user is going to be able to log into this virtual machine, you have to give them permission to do so.
 >
 > **[0:14](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/grant-an-azure-ad-user-logon-permission?u=76281980&t=14)** So in this video, I want to show you how to assign the necessary permission.
 >
-> **[0:18](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/grant-an-azure-ad-user-logon-permission?u=76281980&t=18)** So to get started, what I'm going to do is click on the Microsoft Azure logo in the upper left corner of the screen, and then I'm going to click on Resource Groups.
+> **[0:18](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/grant-an-azure-ad-user-logon-permission?u=76281980&t=18)** So to get started, what I'm going to do is click on the [[Microsoft Azure]] logo in the upper left corner of the screen, and then I'm going to click on Resource Groups.
 >
 > **[0:27](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/grant-an-azure-ad-user-logon-permission?u=76281980&t=27)** And if you don't have the Resource Groups shortcut, you can always go to More Services and then click it there.
 >
@@ -1438,11 +1422,11 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/grant-an-azure-ad-user-logon-permission?u=76281980&t=173)** So I'll click Review + Assign, and now the role assignment has been added.
 >
-> **[3:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/grant-an-azure-ad-user-logon-permission?u=76281980&t=180)** So that's how you grant a user or a group permission to sign into an Azure virtual machine using an Azure AD account.
+> **[3:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/grant-an-azure-ad-user-logon-permission?u=76281980&t=180)** So that's how you grant a user or a group permission to sign into an [[Microsoft Azure|Azure]] virtual machine using an Azure AD account.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (4), [[Microsoft Entra ID|Azure active directory]] (2), next (2), [[Microsoft Azure]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (4), [[Microsoft Entra ID|Azure active directory]] (2), [[Microsoft Azure]] (1), [[Microsoft Azure|Azure]] (1)
 > **UI Navigation:** click on (9), go to (1)
 > **Cross-References:** previous video (2)
 > **CLI Commands:** make (1)
@@ -1455,12 +1439,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create and attach a new disk
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-and-attach-a-new-disk?u=76281980)
+#### [Create and attach a new disk](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-and-attach-a-new-disk?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-and-attach-a-new-disk?u=76281980&t=0)** - [Instructor] When you create an Azure virtual machine, that virtual machine is automatically allocated a virtual hard disk.
+> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-and-attach-a-new-disk?u=76281980&t=0)** - [Instructor] When you create an [[Microsoft Azure|Azure]] virtual machine, that virtual machine is automatically allocated a virtual hard disk.
 >
 > **[0:05](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-and-attach-a-new-disk?u=76281980&t=5)** And that virtual hard disk accommodates the virtual machine's operating system.
 >
@@ -1470,7 +1453,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-and-attach-a-new-disk?u=76281980&t=21)** So to get started I'm going to go ahead and create a new virtual machine.
 >
-> **[0:25](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-and-attach-a-new-disk?u=76281980&t=25)** So here I am in the virtual machines console.
+> **[0:25](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-and-attach-a-new-disk?u=76281980&t=25)** So here I am in the [[Virtual Machines]] console.
 >
 > **[0:27](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-and-attach-a-new-disk?u=76281980&t=27)** I'm going to click on create and then I'll click on Azure Virtual Machine.
 >
@@ -1562,15 +1545,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), data (3), [[Microsoft Azure|Azure]] (2), [[Virtual Machines]] (2), application (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Virtual Machines]] (2)
 > **UI Navigation:** checkbox (7), click on (4), go to (3), scroll down (2), select the (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Attach an existing disk
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/attach-an-existing-disk?u=76281980)
+#### [Attach an existing disk](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/attach-an-existing-disk?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1590,11 +1572,11 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/attach-an-existing-disk?u=76281980&t=57)** So what I'm going to do is I'm going to click create.
 >
-> **[1:01](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/attach-an-existing-disk?u=76281980&t=61)** I'll choose Azure Virtual Machine, and then the next thing that I want to do is choose the same resource group as what that other virtual machine had been using.
+> **[1:01](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/attach-an-existing-disk?u=76281980&t=61)** I'll choose [[Microsoft Azure|Azure]] Virtual Machine, and then the next thing that I want to do is choose the same resource group as what that other virtual machine had been using.
 >
 > **[1:15](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/attach-an-existing-disk?u=76281980&t=75)** Now I'll provide a name for the virtual machine that I'm creating.
 >
-> **[1:18](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/attach-an-existing-disk?u=76281980&t=78)** I'll just call this one Windows.
+> **[1:18](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/attach-an-existing-disk?u=76281980&t=78)** I'll just call this one [[Windows]].
 >
 > **[1:21](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/attach-an-existing-disk?u=76281980&t=81)** I'll choose an image, and I need to enter a username and a password for the virtual machine.
 >
@@ -1622,7 +1604,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (3), [[Microsoft Azure|Azure]] (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Windows]] (1)
 > **UI Navigation:** click on (4), go to (3), select the (2), scroll down (1)
 > **Cross-References:** previous video (2), as you saw (1)
 > **Prerequisites:** configure (1)
@@ -1633,16 +1615,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Enable disaster recovery
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/enable-disaster-recovery?u=76281980)
+#### [Enable disaster recovery](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/enable-disaster-recovery?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/enable-disaster-recovery?u=76281980&t=0)** - [Instructor] Microsoft Azure will allow you to replicate a virtual machine to another region for the purposes of disaster recovery.
+> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/enable-disaster-recovery?u=76281980&t=0)** - [Instructor] [[Microsoft Azure]] will allow you to replicate a virtual machine to another region for the purposes of disaster recovery.
 >
-> **[0:06](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/enable-disaster-recovery?u=76281980&t=6)** Now in the past, setting up disaster recovery for an Azure virtual machine was somewhat of a tedious process because you had to configure a vault.
+> **[0:06](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/enable-disaster-recovery?u=76281980&t=6)** Now in the past, setting up disaster recovery for an [[Microsoft Azure|Azure]] virtual machine was somewhat of a tedious process because you had to configure a vault.
 >
-> **[0:14](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/enable-disaster-recovery?u=76281980&t=14)** But Microsoft has made some changes and the process now couldn't be easier.
+> **[0:14](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/enable-disaster-recovery?u=76281980&t=14)** But [[Microsoft]] has made some changes and the process now couldn't be easier.
 >
 > **[0:19](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/enable-disaster-recovery?u=76281980&t=19)** Now before I show you how to go about setting up disaster recovery, there is one very important thing that I need to show you.
 >
@@ -1658,7 +1639,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/enable-disaster-recovery?u=76281980&t=51)** The reason why I want to mention the security type is because when it comes to Azure, security is something of a trade-off, particularly when it comes to disaster recovery.
 >
-> **[1:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/enable-disaster-recovery?u=76281980&t=60)** Because the default security type is trusted launch virtual machines.
+> **[1:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/enable-disaster-recovery?u=76281980&t=60)** Because the default security type is trusted launch [[Virtual Machines]].
 >
 > **[1:05](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/enable-disaster-recovery?u=76281980&t=65)** However, trusted launch virtual machines are incompatible with disaster recovery.
 >
@@ -1708,7 +1689,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/enable-disaster-recovery?u=76281980&t=196)** Now interestingly, right now we're only replicating a single instance.
 >
-> **[3:20](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/enable-disaster-recovery?u=76281980&t=200)** And instance being another word for a virtual machine.
+> **[3:20](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/enable-disaster-recovery?u=76281980&t=200)** And instance being another [[Microsoft Word|word]] for a virtual machine.
 >
 > **[3:22](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/enable-disaster-recovery?u=76281980&t=202)** But we do have other options.
 >
@@ -1772,7 +1753,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (10), [[Microsoft Azure|Azure]] (7), [[Virtual Machines]] (2), next (2), [[Microsoft Azure]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Virtual Machines]] (2), [[Microsoft Azure]] (1), [[Microsoft]] (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** click on (6), scroll down (4), select the (1), dropdown (1)
 > **Prerequisites:** configure (3), setup (1)
 > **Cross-References:** earlier in (1), in the last (1)
@@ -1781,14 +1762,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Warnings:** warning (1)
 
-#### Virtual machine patching and hot patching
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/virtual-machine-patching-and-hot-patching?u=76281980)
+#### [Virtual machine patching and hot patching](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/virtual-machine-patching-and-hot-patching?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/virtual-machine-patching-and-hot-patching?u=76281980&t=0)** - [Instructor] Modern operating systems require periodic patching in order to remain healthy and secure.
 >
-> **[0:05](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/virtual-machine-patching-and-hot-patching?u=76281980&t=5)** And the operating systems that run on Azure virtual machines are no exception.
+> **[0:05](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/virtual-machine-patching-and-hot-patching?u=76281980&t=5)** And the operating systems that run on [[Microsoft Azure|Azure]] [[Virtual Machines]] are no exception.
 >
 > **[0:09](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/virtual-machine-patching-and-hot-patching?u=76281980&t=9)** They need to be periodically patched in order to stay up-to-date.
 >
@@ -1818,7 +1798,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/virtual-machine-patching-and-hot-patching?u=76281980&t=79)** The first option is automatic by OS.
 >
-> **[1:22](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/virtual-machine-patching-and-hot-patching?u=76281980&t=82)** So, the automatic by OS option is the default option for Windows virtual machines and you can only use this option on Windows virtual machines.
+> **[1:22](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/virtual-machine-patching-and-hot-patching?u=76281980&t=82)** So, the automatic by OS option is the default option for [[Windows]] virtual machines and you can only use this option on Windows virtual machines.
 >
 > **[1:30](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/virtual-machine-patching-and-hot-patching?u=76281980&t=90)** And it's worth noting that this particular mode doesn't support availability first patching.
 >
@@ -1826,7 +1806,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/virtual-machine-patching-and-hot-patching?u=76281980&t=105)** So, the next option is Azure orchestrated.
 >
-> **[1:48](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/virtual-machine-patching-and-hot-patching?u=76281980&t=108)** Now, Azure orchestrated patches are supported for use with both Linux and Windows virtual machines.
+> **[1:48](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/virtual-machine-patching-and-hot-patching?u=76281980&t=108)** Now, Azure orchestrated patches are supported for use with both [[Linux]] and Windows virtual machines.
 >
 > **[1:53](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/virtual-machine-patching-and-hot-patching?u=76281980&t=113)** And this is the type of patching that is going to be required if you're going to do availability first patching.
 >
@@ -1870,21 +1850,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Virtual Machines]] (11), [[Windows]] (11), management (9), [[Microsoft Azure|Azure]] (7), [[Orchestration]] (4)
+> **Frameworks & Libraries:** [[Virtual Machines]] (11), [[Windows]] (11), [[Microsoft Azure|Azure]] (7), [[Linux]] (4)
 > **UI Navigation:** scroll down (2), select the (1), checkbox (1)
 > **CLI Commands:** find (2)
 > **Prerequisites:** install (1), you need to have (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Shut down virtual machines automatically
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/shut-down-virtual-machines-automatically?u=76281980)
+#### [Shut down virtual machines automatically](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/shut-down-virtual-machines-automatically?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/shut-down-virtual-machines-automatically?u=76281980&t=0)** - [Instructor] Whenever you create an Azure virtual machine, that virtual machine is configured by default to automatically shut down at night.
+> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/shut-down-virtual-machines-automatically?u=76281980&t=0)** - [Instructor] Whenever you create an [[Microsoft Azure|Azure]] virtual machine, that virtual machine is configured by default to automatically shut down at night.
 >
-> **[0:07](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/shut-down-virtual-machines-automatically?u=76281980&t=7)** Now, in a way, this automatic shutdown is a good thing because remember, every virtual machine consumes certain resources, whether that's storage IOPS or compute resources or memory or what have you, and you're billed for the resources that your virtual machines consume, so shutting those virtual machines down at night stops the virtual machine from actively consuming resources, thereby saving you money.
+> **[0:07](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/shut-down-virtual-machines-automatically?u=76281980&t=7)** Now, in a way, this automatic shutdown is a good thing because remember, every virtual machine consumes certain resources, whether that's storage IOPS or compute resources or memory or what have you, and you're billed for the resources that your [[Virtual Machines]] consume, so shutting those virtual machines down at night stops the virtual machine from actively consuming resources, thereby saving you money.
 >
 > **[0:30](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/shut-down-virtual-machines-automatically?u=76281980&t=30)** On the other hand, though, there are certain workloads that need to remain running 24/7, so you don't want those virtual machines to be automatically shut down just because it's the end of the business day, so with that said, I want to show you how automatic shutdown works.
 >
@@ -1914,7 +1893,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Virtual Machines]] (9), [[Microsoft Azure|Azure]] (4), business (1), management (1)
+> **Frameworks & Libraries:** [[Virtual Machines]] (9), [[Microsoft Azure|Azure]] (4)
 > **UI Navigation:** click on (6), scroll down (2), checkbox (1), go to (1)
 > **Env Vars:** utc (2), iops (1)
 > **CLI Commands:** make (1)
@@ -1923,14 +1902,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 
-#### Boot diagnostics and alerting
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/boot-diagnostics-and-alerting?u=76281980)
+#### [Boot diagnostics and alerting](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/boot-diagnostics-and-alerting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/boot-diagnostics-and-alerting?u=76281980&t=0)** - [Instructor] When you create an Azure virtual machine, you need a way of keeping tabs on that virtual machine to make sure that it's working properly.
+> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/boot-diagnostics-and-alerting?u=76281980&t=0)** - [Instructor] When you create an [[Microsoft Azure|Azure]] virtual machine, you need a way of keeping tabs on that virtual machine to make sure that it's working properly.
 >
-> **[0:07](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/boot-diagnostics-and-alerting?u=76281980&t=7)** Fortunately, Microsoft provides numerous monitoring and alerting mechanisms that you can use to monitor your virtual machine.
+> **[0:07](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/boot-diagnostics-and-alerting?u=76281980&t=7)** Fortunately, [[Microsoft]] provides numerous monitoring and alerting mechanisms that you can use to monitor your virtual machine.
 >
 > **[0:14](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/boot-diagnostics-and-alerting?u=76281980&t=14)** So let's take a look at what's available.
 >
@@ -2012,7 +1990,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Microsoft]] (2), next (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Microsoft]] (2)
 > **UI Navigation:** checkbox (5), select the (3), dropdown (2), click on (2), scroll down (1)
 > **Prerequisites:** configure (5)
 > **Env Vars:** cpu (3)
@@ -2021,12 +1999,11 @@ created: 2026-05-02
 > **Definitions:** in other words (2)
 > **Best Practices:** recommended (2)
 
-#### VM tagging
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/vm-tagging?u=76281980)
+#### [VM tagging](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/vm-tagging?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/vm-tagging?u=76281980&t=0)** - [Instructor] As you work in the Azure Cloud, you're bound to accumulate a large number of resources.
+> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/vm-tagging?u=76281980&t=0)** - [Instructor] As you work in the [[Microsoft Azure|Azure]] Cloud, you're bound to accumulate a large number of resources.
 >
 > **[0:04](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/vm-tagging?u=76281980&t=4)** As you look at this screen, for example, you can see that there are quite a few resources that are associated with my Azure account even though this is just a lab account and this isn't even the full list of resources.
 >
@@ -2036,7 +2013,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/vm-tagging?u=76281980&t=31)** That's where tagging comes into play.
 >
-> **[0:33](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/vm-tagging?u=76281980&t=33)** Tagging is a mechanism that exists in Azure as a way of classifying resources and you can apply tags to just about any Azure resource, and this includes virtual machines.
+> **[0:33](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/vm-tagging?u=76281980&t=33)** Tagging is a mechanism that exists in Azure as a way of classifying resources and you can apply tags to just about any Azure resource, and this includes [[Virtual Machines]].
 >
 > **[0:43](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/vm-tagging?u=76281980&t=43)** So let's take a look at how to apply some tags to a virtual machine.
 >
@@ -2098,7 +2075,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Virtual Machines]] (6), [[Microsoft Azure|Azure]] (5), next (2), cloud (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Virtual Machines]] (6), [[Microsoft Azure|Azure]] (5)
 > **UI Navigation:** click on (3)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (2), imagine (1)
@@ -2111,18 +2088,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a virtual network
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-a-virtual-network?u=76281980)
+#### [Create a virtual network](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-a-virtual-network?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-a-virtual-network?u=76281980&t=0)** - [Narrator] In larger or more complex environments it's often necessary to create multiple virtual networks.
 >
-> **[0:05](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-a-virtual-network?u=76281980&t=5)** That way, you can provide a degree of isolation between some of your virtual machines that you create in the Azure Cloud.
+> **[0:05](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-a-virtual-network?u=76281980&t=5)** That way, you can provide a degree of isolation between some of your [[Virtual Machines]] that you create in the [[Microsoft Azure|Azure]] Cloud.
 >
 > **[0:11](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-a-virtual-network?u=76281980&t=11)** So let's take a look at how to create a virtual network.
 >
-> **[0:15](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-a-virtual-network?u=76281980&t=15)** As you can see, I'm on the main Microsoft Azure portal screen, and even though I've got a shortcut for virtual networks, I'm just going to go ahead and go up to the search box and type virtual networks, and then I'll click on virtual networks.
+> **[0:15](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-a-virtual-network?u=76281980&t=15)** As you can see, I'm on the main [[Microsoft Azure]] portal screen, and even though I've got a shortcut for virtual networks, I'm just going to go ahead and go up to the search box and type virtual networks, and then I'll click on virtual networks.
 >
 > **[0:30](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-a-virtual-network?u=76281980&t=30)** and that's going to take me to the virtual network screen.
 >
@@ -2192,7 +2168,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), [[Microsoft Azure]] (4), [[Security]] (4), [[Virtual Machines]] (2), [[Microsoft Azure|Azure]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure]] (4), [[Virtual Machines]] (2), [[Microsoft Azure|Azure]] (2)
 > **UI Navigation:** click on (3), go to (2), dropdown (1)
 > **Cross-References:** in the next (1), go back to (1)
 > **Tools:** azure portal (2)
@@ -2200,8 +2176,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Create a subnet
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-a-subnet?u=76281980)
+#### [Create a subnet](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-a-subnet?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2239,7 +2214,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-a-subnet?u=76281980&t=61)** We also have the option of adding an IPv6 address space.
 >
-> **[1:05](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-a-subnet?u=76281980&t=65)** And we can add a NAT gateway, a network security group or even a routing table if we want to.
+> **[1:05](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-a-subnet?u=76281980&t=65)** And we can add a NAT gateway, a [[Network Security]] group or even a [[Routing]] table if we want to.
 >
 > **[1:11](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-a-subnet?u=76281980&t=71)** Of course, none of that is necessary.
 >
@@ -2251,11 +2226,11 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-a-subnet?u=76281980&t=83)** So now let's take a look at how to put a new virtual machine onto this newly created subnet.
 >
-> **[1:28](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-a-subnet?u=76281980&t=88)** So to do that, I'm going to go back to the Microsoft Azure portal Home.
+> **[1:28](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-a-subnet?u=76281980&t=88)** So to do that, I'm going to go back to the [[Microsoft Azure]] portal Home.
 >
-> **[1:35](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-a-subnet?u=76281980&t=95)** I'll click on Virtual Machines.
+> **[1:35](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-a-subnet?u=76281980&t=95)** I'll click on [[Virtual Machines]].
 >
-> **[1:38](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-a-subnet?u=76281980&t=98)** And now I'm going to click on Create followed by Azure Virtual Machine.
+> **[1:38](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-a-subnet?u=76281980&t=98)** And now I'm going to click on Create followed by [[Microsoft Azure|Azure]] Virtual Machine.
 >
 > **[1:46](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-a-subnet?u=76281980&t=106)** And then I'm just going to select the Networking tab.
 >
@@ -2273,7 +2248,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Network Security]] (1), [[Routing]] (1), [[Microsoft Azure]] (1), [[Virtual Machines]] (1)
+> **Frameworks & Libraries:** [[Network Security]] (1), [[Routing]] (1), [[Microsoft Azure]] (1), [[Virtual Machines]] (1), [[Microsoft Azure|Azure]] (1)
 > **UI Navigation:** click on (6), select the (1), go to (1)
 > **Cross-References:** previous video (1), go back to (1)
 > **CLI Commands:** find (1)
@@ -2282,12 +2257,11 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Prerequisites:** configure (1)
 
-#### Create a public IP address
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-a-public-ip-address?u=76281980)
+#### [Create a public IP address](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-a-public-ip-address?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-a-public-ip-address?u=76281980&t=0)** - [Instructor] When you create a new virtual machine in Azure, that virtual machine will typically receive a public IP address.
+> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-a-public-ip-address?u=76281980&t=0)** - [Instructor] When you create a new virtual machine in [[Microsoft Azure|Azure]], that virtual machine will typically receive a public IP address.
 >
 > **[0:05](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-a-public-ip-address?u=76281980&t=5)** If you take a look at the screen you can see that I've got one virtual machine, and that virtual machine has indeed been assigned to public IP which you can see right here.
 >
@@ -2301,7 +2275,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-a-public-ip-address?u=76281980&t=30)** I'm going to choose a resource group, I'll enter a virtual machine name, I'll select an image and provide a username and password.
 >
-> **[0:54](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-a-public-ip-address?u=76281980&t=54)** From there, I'm going to click on the networking tab and if you take a look at the public IP field, you can see that it says, "New Windows IP."
+> **[0:54](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-a-public-ip-address?u=76281980&t=54)** From there, I'm going to click on the networking tab and if you take a look at the public IP field, you can see that it says, "New [[Windows]] IP."
 >
 > **[1:04](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-a-public-ip-address?u=76281980&t=64)** So in other words, Azure is going to create a new public IP address specifically for this virtual machine.
 >
@@ -2319,7 +2293,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-a-public-ip-address?u=76281980&t=100)** So let me show you how this works.
 >
-> **[1:42](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-a-public-ip-address?u=76281980&t=102)** I'm going to go out to the main Microsoft Azure portal screen and then I'm just going to type IP in the search box.
+> **[1:42](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-a-public-ip-address?u=76281980&t=102)** I'm going to go out to the main [[Microsoft Azure]] portal screen and then I'm just going to type IP in the search box.
 >
 > **[1:51](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-a-public-ip-address?u=76281980&t=111)** And then I'm going to click on public IP addresses.
 >
@@ -2335,7 +2309,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-a-public-ip-address?u=76281980&t=158)** If I go ahead and close this out and I go back to the list of IPs, you can see my newly created IP added to the list.
 >
-> **[2:49](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-a-public-ip-address?u=76281980&t=169)** So what does this do for me with regard to virtual machines?
+> **[2:49](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-a-public-ip-address?u=76281980&t=169)** So what does this do for me with regard to [[Virtual Machines]]?
 >
 > **[2:52](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-a-public-ip-address?u=76281980&t=172)** Well, let me click on Microsoft Azure to go back to the main portal screen and then I'll go into Azure Virtual Machines.
 >
@@ -2355,7 +2329,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Virtual Machines]] (3), [[Microsoft Azure]] (2), [[Windows]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Virtual Machines]] (3), [[Microsoft Azure]] (2), [[Windows]] (1)
 > **Cross-References:** go back to (3)
 > **UI Navigation:** click on (3)
 > **CLI Commands:** make (1)
@@ -2364,12 +2338,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a virtual network firewall
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-a-virtual-network-firewall?u=76281980)
+#### [Create a virtual network firewall](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-a-virtual-network-firewall?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-a-virtual-network-firewall?u=76281980&t=0)** - [Instructor] Anytime that you create an Azure virtual machine, that virtual machine is connected to a virtual network.
+> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-a-virtual-network-firewall?u=76281980&t=0)** - [Instructor] Anytime that you create an [[Microsoft Azure|Azure]] virtual machine, that virtual machine is connected to a virtual network.
 >
 > **[0:05](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-a-virtual-network-firewall?u=76281980&t=5)** Let me show you what I mean.
 >
@@ -2387,7 +2360,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-a-virtual-network-firewall?u=76281980&t=41)** So let's take a look at how to do that.
 >
-> **[0:43](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-a-virtual-network-firewall?u=76281980&t=43)** I'm going to go ahead and cancel out of this And then I'm going to click on the Microsoft Azure logo and then go to more services and then I'm going to click on Networking and then I'll click on virtual networks.
+> **[0:43](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-a-virtual-network-firewall?u=76281980&t=43)** I'm going to go ahead and cancel out of this And then I'm going to click on the [[Microsoft Azure]] logo and then go to more services and then I'm going to click on Networking and then I'll click on virtual networks.
 >
 > **[1:01](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-a-virtual-network-firewall?u=76281980&t=61)** And this is going to bring up a list of all of my virtual networks.
 >
@@ -2459,14 +2432,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Microsoft Azure]] (1), next (1), management (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Microsoft Azure]] (1)
 > **UI Navigation:** click on (5), select the (1), go to (1), scroll down (1)
 > **Definitions:** in other words (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create firewall rules
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-firewall-rules?u=76281980)
+#### [Create firewall rules](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-firewall-rules?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2540,7 +2512,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), next (2), web (2), traffic (2)
 > **Env Vars:** tcp (3), dnat (2)
 > **Ports:** port 80 (2)
 > **UI Navigation:** click on (2)
@@ -2554,18 +2525,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Deploy VM extensions
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/deploy-vm-extensions?u=76281980)
+#### [Deploy VM extensions](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/deploy-vm-extensions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/deploy-vm-extensions?u=76281980&t=0)** - [Instructor] When you create a new virtual machine it can sometimes be convenient to install an extension to go along with it.
 >
-> **[0:06](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/deploy-vm-extensions?u=76281980&t=6)** An extension is really just a software package that gets installed automatically and Microsoft bundles these software packages as extensions to make them easy to install.
+> **[0:06](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/deploy-vm-extensions?u=76281980&t=6)** An extension is really just a software package that gets installed automatically and [[Microsoft]] bundles these software packages as extensions to make them easy to install.
 >
 > **[0:15](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/deploy-vm-extensions?u=76281980&t=15)** So I want to show you how to go about installing an extension.
 >
-> **[0:19](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/deploy-vm-extensions?u=76281980&t=19)** As you can see, I'm signed into the Azure portal and I'm on the virtual machine screen.
+> **[0:19](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/deploy-vm-extensions?u=76281980&t=19)** As you can see, I'm signed into the [[Microsoft Azure|Azure]] portal and I'm on the virtual machine screen.
 >
 > **[0:23](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/deploy-vm-extensions?u=76281980&t=23)** I'm going to go ahead and click Create and then I'll choose the Azure virtual machine option.
 >
@@ -2579,13 +2549,13 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/deploy-vm-extensions?u=76281980&t=58)** That means that we're going to have to select an N-class size.
 >
-> **[1:03](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/deploy-vm-extensions?u=76281980&t=63)** Now, having said that, not every region offers N-class virtual machines.
+> **[1:03](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/deploy-vm-extensions?u=76281980&t=63)** Now, having said that, not every region offers N-class [[Virtual Machines]].
 >
 > **[1:07](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/deploy-vm-extensions?u=76281980&t=67)** So I need to pick a region where that particular virtual machine size is supported.
 >
 > **[1:11](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/deploy-vm-extensions?u=76281980&t=71)** So I'm going to go to Region and I'm going to set this to US West US.
 >
-> **[1:21](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/deploy-vm-extensions?u=76281980&t=81)** Next, I'm going to set the Image to a Windows image.
+> **[1:21](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/deploy-vm-extensions?u=76281980&t=81)** Next, I'm going to set the Image to a [[Windows]] image.
 >
 > **[1:26](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/deploy-vm-extensions?u=76281980&t=86)** And then I'll scroll down and choose a virtual machine size.
 >
@@ -2625,7 +2595,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/deploy-vm-extensions?u=76281980&t=177)** Now each extension has its own requirements.
 >
-> **[2:59](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/deploy-vm-extensions?u=76281980&t=179)** For example, if I were to click on Agent for Windows Server Monitoring, we get an entirely different overview and list of requirements.
+> **[2:59](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/deploy-vm-extensions?u=76281980&t=179)** For example, if I were to click on Agent for [[Windows Server]] Monitoring, we get an entirely different overview and list of requirements.
 >
 > **[3:07](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/deploy-vm-extensions?u=76281980&t=187)** I'm going to go back to the AMD GPU Driver Extension.
 >
@@ -2667,11 +2637,11 @@ created: 2026-05-02
 >
 > **[4:52](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/deploy-vm-extensions?u=76281980&t=292)** In fact, I talked all about it in one of the videos earlier in this course, but that would be a way of ensuring that you don't get this type of error.
 >
-> **[5:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/deploy-vm-extensions?u=76281980&t=300)** At any rate, that's how you go about creating a virtual machine with an extension in Microsoft Azure.
+> **[5:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/deploy-vm-extensions?u=76281980&t=300)** At any rate, that's how you go about creating a virtual machine with an extension in [[Microsoft Azure]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (3), [[Microsoft Azure|Azure]] (2), [[Virtual Machines]] (2), next (2), [[Windows]] (2)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Microsoft Azure|Azure]] (2), [[Virtual Machines]] (2), [[Windows]] (2), [[Windows Server]] (1)
 > **UI Navigation:** click on (3), scroll down (2), go to (1), scroll up (1)
 > **Prerequisites:** install (6), you'll need (1)
 > **Env Vars:** amd (2), gpu (2), url (1)
@@ -2680,12 +2650,11 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Versions:** version 4 (1)
 
-#### Instal applications on Azure VMs
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/instal-applications-on-azure-vms?u=76281980)
+#### [Instal applications on Azure VMs](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/instal-applications-on-azure-vms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/instal-applications-on-azure-vms?u=76281980&t=0)** - [Instructor] Microsoft allows you to install an application as a part of the Azure virtual machine deployment process.
+> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/instal-applications-on-azure-vms?u=76281980&t=0)** - [Instructor] [[Microsoft]] allows you to install an application as a part of the [[Microsoft Azure|Azure]] virtual machine deployment process.
 >
 > **[0:06](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/instal-applications-on-azure-vms?u=76281980&t=6)** Now, certainly you don't have to install an application in that way.
 >
@@ -2709,7 +2678,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/instal-applications-on-azure-vms?u=76281980&t=70)** I'm not going to create a gallery because I've already got one.
 >
-> **[1:13](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/instal-applications-on-azure-vms?u=76281980&t=73)** So with that said, I want to click on the Microsoft Azure link to go back to the main portal screen and then I'm going to come down here and click on Compute.
+> **[1:13](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/instal-applications-on-azure-vms?u=76281980&t=73)** So with that said, I want to click on the [[Microsoft Azure]] link to go back to the main portal screen and then I'm going to come down here and click on Compute.
 >
 > **[1:21](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/instal-applications-on-azure-vms?u=76281980&t=81)** This is my Azure Compute Gallery.
 >
@@ -2727,7 +2696,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/instal-applications-on-azure-vms?u=76281980&t=125)** Then you would choose the operating system.
 >
-> **[2:06](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/instal-applications-on-azure-vms?u=76281980&t=126)** You can choose from Windows or Linux and then you would make sure that the correct Azure Compute Gallery is selected.
+> **[2:06](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/instal-applications-on-azure-vms?u=76281980&t=126)** You can choose from [[Windows]] or [[Linux]] and then you would make sure that the correct Azure Compute Gallery is selected.
 >
 > **[2:12](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/instal-applications-on-azure-vms?u=76281980&t=132)** You'll notice that this is grayed out because I've already gone in and created an Azure Compute Gallery.
 >
@@ -2779,7 +2748,7 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/instal-applications-on-azure-vms?u=76281980&t=262)** So with that said, I want to go ahead and back out of all of this and go to the virtual machine side of things.
 >
-> **[4:27](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/instal-applications-on-azure-vms?u=76281980&t=267)** So I'm going to click on the Microsoft Azure logo and then I'm going to click on Virtual machines.
+> **[4:27](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/instal-applications-on-azure-vms?u=76281980&t=267)** So I'm going to click on the Microsoft Azure logo and then I'm going to click on [[Virtual Machines]].
 >
 > **[4:35](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/instal-applications-on-azure-vms?u=76281980&t=275)** Then from the Virtual machines screen I'm going to click Create and then I'm going to choose the Azure virtual machine option.
 >
@@ -2817,7 +2786,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (34), [[Microsoft Azure|Azure]] (13), [[Windows]] (3), next (2), [[Microsoft Azure]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (13), [[Windows]] (3), [[Microsoft Azure]] (2), [[Virtual Machines]] (2), [[Microsoft]] (1)
 > **UI Navigation:** click on (11), go to (2), scroll down (1), scroll up (1), select the (1)
 > **Prerequisites:** install (10), you'll need (3), set up (1), configure (1)
 > **CLI Commands:** make (4)
@@ -2831,18 +2800,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Start, stop, and restart VMs
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/start-stop-and-restart-vms?u=76281980)
+#### [Start, stop, and restart VMs](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/start-stop-and-restart-vms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/start-stop-and-restart-vms?u=76281980&t=0)** - [Instructor] Microsoft Azure makes it easy to start, stop and restart virtual machine instances.
+> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/start-stop-and-restart-vms?u=76281980&t=0)** - [Instructor] [[Microsoft Azure]] makes it easy to start, stop and restart virtual machine instances.
 >
 > **[0:05](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/start-stop-and-restart-vms?u=76281980&t=5)** So let's take a look at how this works.
 >
-> **[0:07](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/start-stop-and-restart-vms?u=76281980&t=7)** Right now I'm signed into Azure and I'm on the main portal screen.
+> **[0:07](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/start-stop-and-restart-vms?u=76281980&t=7)** Right now I'm signed into [[Microsoft Azure|Azure]] and I'm on the main portal screen.
 >
-> **[0:11](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/start-stop-and-restart-vms?u=76281980&t=11)** So I'm just going to click on virtual machines.
+> **[0:11](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/start-stop-and-restart-vms?u=76281980&t=11)** So I'm just going to click on [[Virtual Machines]].
 >
 > **[0:15](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/start-stop-and-restart-vms?u=76281980&t=15)** And when I do, you can see that I have a virtual machine called Example.
 >
@@ -2896,18 +2864,17 @@ created: 2026-05-02
 > **UI Navigation:** click on (4), select the (1), checkbox (1)
 > **Speakers:** - [instructor] (1)
 
-#### Make a configuration change to a VM
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/make-a-configuration-change-to-a-vm?u=76281980)
+#### [Make a configuration change to a VM](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/make-a-configuration-change-to-a-vm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/make-a-configuration-change-to-a-vm?u=76281980&t=0)** - [Instructor] You may occasionally discover that you need to change the configuration of an existing Azure virtual machine.
+> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/make-a-configuration-change-to-a-vm?u=76281980&t=0)** - [Instructor] You may occasionally discover that you need to change the configuration of an existing [[Microsoft Azure|Azure]] virtual machine.
 >
-> **[0:06](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/make-a-configuration-change-to-a-vm?u=76281980&t=6)** While Microsoft won't allow you to change every configuration option associated with the virtual machine in Azure, you can change a surprising number of options.
+> **[0:06](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/make-a-configuration-change-to-a-vm?u=76281980&t=6)** While [[Microsoft]] won't allow you to change every configuration option associated with the virtual machine in Azure, you can change a surprising number of options.
 >
 > **[0:14](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/make-a-configuration-change-to-a-vm?u=76281980&t=14)** So, let's take a look at a few examples.
 >
-> **[0:16](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/make-a-configuration-change-to-a-vm?u=76281980&t=16)** Right now I'm in the virtual machines console and I'm going to go ahead and click on the example virtual machine that I created earlier.
+> **[0:16](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/make-a-configuration-change-to-a-vm?u=76281980&t=16)** Right now I'm in the [[Virtual Machines]] console and I'm going to go ahead and click on the example virtual machine that I created earlier.
 >
 > **[0:26](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/make-a-configuration-change-to-a-vm?u=76281980&t=26)** When I click on the virtual machine, the console displays a details view of the virtual machine where we can see an overview of the way that the virtual machine is configured.
 >
@@ -2943,14 +2910,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Monitoring VM performance
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/monitoring-vm-performance?u=76281980)
+#### [Monitoring VM performance](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/monitoring-vm-performance?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/monitoring-vm-performance?u=76281980&t=0)** - [Instructor] If you've got a virtual machine that's running an important workload, then it's a good idea to periodically check and see how well that virtual machine is performing.
 >
-> **[0:07](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/monitoring-vm-performance?u=76281980&t=7)** So Azure gives you a few different options for monitoring your virtual machine's performance.
+> **[0:07](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/monitoring-vm-performance?u=76281980&t=7)** So [[Microsoft Azure|Azure]] gives you a few different options for monitoring your virtual machine's performance.
 >
 > **[0:12](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/monitoring-vm-performance?u=76281980&t=12)** So let's take a look at some of the things that you can do.
 >
@@ -2974,7 +2940,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/monitoring-vm-performance?u=76281980&t=44)** Now, health events aren't necessarily the same as performance events, but it can be helpful to take a look at the health events because it gives you an idea of what's going on with your virtual machine.
 >
-> **[0:54](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/monitoring-vm-performance?u=76281980&t=54)** So I'm going to go ahead and click on 10 events so that we can see what types of things Microsoft Azure considers to be health events.
+> **[0:54](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/monitoring-vm-performance?u=76281980&t=54)** So I'm going to go ahead and click on 10 events so that we can see what types of things [[Microsoft Azure]] considers to be health events.
 >
 > **[1:04](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/monitoring-vm-performance?u=76281980&t=64)** So right here, we have the health history.
 >
@@ -2986,7 +2952,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/monitoring-vm-performance?u=76281980&t=73)** I'll scroll down a little bit.
 >
-> **[1:15](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/monitoring-vm-performance?u=76281980&t=75)** So here we can see hardware resources were allocated to the virtual machine instance.
+> **[1:15](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/monitoring-vm-performance?u=76281980&t=75)** So here we can see [[Hardware]] resources were allocated to the virtual machine instance.
 >
 > **[1:20](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/monitoring-vm-performance?u=76281980&t=80)** Here we can see where the virtual machine was stopped and deallocated.
 >
@@ -3004,7 +2970,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/monitoring-vm-performance?u=76281980&t=106)** And here we have a Performance and utilization section.
 >
-> **[1:50](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/monitoring-vm-performance?u=76281980&t=110)** And there are various performance metrics that are listed for each virtual machine.
+> **[1:50](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/monitoring-vm-performance?u=76281980&t=110)** And there are various [[Performance Metrics]] that are listed for each virtual machine.
 >
 > **[1:54](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/monitoring-vm-performance?u=76281980&t=114)** So, for example, here we can see the VM Availability.
 >
@@ -3054,11 +3020,11 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/monitoring-vm-performance?u=76281980&t=223)** So if after reading that you decide you still want to configure Virtual Machine Insights, then all you have to do is click on Enable, and then Virtual Machine Insights will be enabled, and then you'll start to get that monitoring data.
 >
-> **[3:56](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/monitoring-vm-performance?u=76281980&t=236)** So that's how you monitor a virtual machines performance in Microsoft Azure.
+> **[3:56](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/monitoring-vm-performance?u=76281980&t=236)** So that's how you monitor a [[Virtual Machines]] performance in Microsoft Azure.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft Azure|Azure]] (2), [[Microsoft Azure]] (2), [[Hardware]] (1), [[Performance Metrics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Microsoft Azure]] (2), [[Hardware]] (1), [[Performance Metrics]] (1), [[Virtual Machines]] (1)
 > **UI Navigation:** click on (7), scroll down (5)
 > **Prerequisites:** configure (3)
 > **Env Vars:** cpu (1)
@@ -3067,16 +3033,15 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create alert rules
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-alert-rules?u=76281980)
+#### [Create alert rules](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-alert-rules?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-alert-rules?u=76281980&t=0)** - If you've got an Azure virtual machine that's running an important workload, you may find it necessary to be notified if there's a problem with that virtual machine.
+> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-alert-rules?u=76281980&t=0)** - If you've got an [[Microsoft Azure|Azure]] virtual machine that's running an important workload, you may find it necessary to be notified if there's a problem with that virtual machine.
 >
 > **[0:08](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-alert-rules?u=76281980&t=8)** So let's take a look at how to set up some alerts for an Azure virtual machine.
 >
-> **[0:13](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-alert-rules?u=76281980&t=13)** Right now I'm in the virtual machines console and I'm going to click on my example virtual machine.
+> **[0:13](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-alert-rules?u=76281980&t=13)** Right now I'm in the [[Virtual Machines]] console and I'm going to click on my example virtual machine.
 >
 > **[0:21](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-alert-rules?u=76281980&t=21)** This is going to bring up the virtual machine summary, and so the next thing that I'm going to do is I'm going to scroll down the column in the middle and locate the monitoring section.
 >
@@ -3090,7 +3055,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-alert-rules?u=76281980&t=51)** For right now, I'm going to click on enable recommended alert rules.
 >
-> **[0:56](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-alert-rules?u=76281980&t=56)** So the resulting screen provides us with Microsoft's recommended alert and rules for this particular virtual machine instance.
+> **[0:56](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-alert-rules?u=76281980&t=56)** So the resulting screen provides us with [[Microsoft]]'s recommended alert and rules for this particular virtual machine instance.
 >
 > **[1:02](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-alert-rules?u=76281980&t=62)** So let's take a look at what we've got.
 >
@@ -3218,11 +3183,11 @@ created: 2026-05-02
 >
 > **[6:03](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-alert-rules?u=76281980&t=363)** And of course right now the create button is grayed out because I didn't go through and configure everything associated with this rule.
 >
-> **[6:09](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-alert-rules?u=76281980&t=369)** But that's how you go about creating an alert rule in Microsoft Azure.
+> **[6:09](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-alert-rules?u=76281980&t=369)** But that's how you go about creating an alert rule in [[Microsoft Azure]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), next (2), [[Virtual Machines]] (1), [[Microsoft]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Virtual Machines]] (1), [[Microsoft]] (1), [[Microsoft Azure]] (1)
 > **Env Vars:** cpu (9), iops (2)
 > **UI Navigation:** click on (7), scroll down (1), go to (1)
 > **Prerequisites:** set up (6), configure (1)
@@ -3231,16 +3196,15 @@ created: 2026-05-02
 > **Best Practices:** recommended (3)
 > **Analogies:** for example (2)
 
-#### Back up a virtual machine
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/back-up-a-virtual-machine?u=76281980)
+#### [Back up a virtual machine](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/back-up-a-virtual-machine?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/back-up-a-virtual-machine?u=76281980&t=0)** - [Instructor] While you can use a third party backup application to back up an Azure virtual machine, Microsoft also provides native backup capabilities.
+> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/back-up-a-virtual-machine?u=76281980&t=0)** - [Instructor] While you can use a third party backup application to back up an [[Microsoft Azure|Azure]] virtual machine, [[Microsoft]] also provides native backup capabilities.
 >
 > **[0:07](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/back-up-a-virtual-machine?u=76281980&t=7)** So let's take a look at how to back up an Azure virtual machine using the native backup features.
 >
-> **[0:12](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/back-up-a-virtual-machine?u=76281980&t=12)** As you can see, right now I'm in the virtual machines console and I'm going to click on my example virtual machine.
+> **[0:12](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/back-up-a-virtual-machine?u=76281980&t=12)** As you can see, right now I'm in the [[Virtual Machines]] console and I'm going to click on my example virtual machine.
 >
 > **[0:19](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/back-up-a-virtual-machine?u=76281980&t=19)** Next, I'm going to scroll down to the Operations section and then I'm going to click on Backup.
 >
@@ -3270,7 +3234,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/back-up-a-virtual-machine?u=76281980&t=82)** I'm going to go ahead and click this.
 >
-> **[1:24](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/back-up-a-virtual-machine?u=76281980&t=84)** And when I do, I'm provided with various options for fine tuning the backup.
+> **[1:24](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/back-up-a-virtual-machine?u=76281980&t=84)** And when I do, I'm provided with various options for [[Fine Tuning]] the backup.
 >
 > **[1:29](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/back-up-a-virtual-machine?u=76281980&t=89)** So as you can see right now, the frequency is set to hourly.
 >
@@ -3316,25 +3280,24 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/back-up-a-virtual-machine?u=76281980&t=196)** And now, we get a message saying that the deployment has succeeded.
 >
-> **[3:20](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/back-up-a-virtual-machine?u=76281980&t=200)** So that's how you create your initial backup using Microsoft Azure.
+> **[3:20](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/back-up-a-virtual-machine?u=76281980&t=200)** So that's how you create your initial backup using [[Microsoft Azure]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Microsoft Azure|Azure]] (2), application (1), [[Microsoft]] (1), [[Virtual Machines]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Microsoft]] (1), [[Virtual Machines]] (1), [[Fine Tuning]] (1), [[Microsoft Azure]] (1)
 > **UI Navigation:** scroll down (3), click on (2)
 > **Ports:** :00 (1)
 > **Definitions:** means that (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Restore a VM backup
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/restore-a-vm-backup?u=76281980)
+#### [Restore a VM backup](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/restore-a-vm-backup?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/restore-a-vm-backup?u=76281980&t=0)** - [Instructor] Now that some time has passed, let's take a look at how you might recover a virtual machine that you've backed up.
 >
-> **[0:05](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/restore-a-vm-backup?u=76281980&t=5)** So here I am in the virtual machines console.
+> **[0:05](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/restore-a-vm-backup?u=76281980&t=5)** So here I am in the [[Virtual Machines]] console.
 >
 > **[0:07](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/restore-a-vm-backup?u=76281980&t=7)** I'm going to click on my example virtual machine, and then I'll scroll down to the operations section and click backup.
 >
@@ -3360,7 +3323,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/restore-a-vm-backup?u=76281980&t=62)** So I'm going to click Download Executable.
 >
-> **[1:04](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/restore-a-vm-backup?u=76281980&t=64)** And what this is going to do is download a PowerShell script that will allow us to mount the discs that are associated with the backup.
+> **[1:04](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/restore-a-vm-backup?u=76281980&t=64)** And what this is going to do is download a [[Powershell]] script that will allow us to mount the discs that are associated with the backup.
 >
 > **[1:11](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/restore-a-vm-backup?u=76281980&t=71)** And this process does take several minutes to complete.
 >
@@ -3398,7 +3361,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/restore-a-vm-backup?u=76281980&t=141)** So this is where our files reside.
 >
-> **[2:23](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/restore-a-vm-backup?u=76281980&t=143)** If I go into E, you can see the Windows folder, the user's folder, the temp folder.
+> **[2:23](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/restore-a-vm-backup?u=76281980&t=143)** If I go into E, you can see the [[Windows]] folder, the user's folder, the temp folder.
 >
 > **[2:29](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/restore-a-vm-backup?u=76281980&t=149)** So if I were performing an actual recovery, I could go into any of these folders and copy files out of them to my local machine.
 >
@@ -3448,23 +3411,22 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/restore-a-vm-backup?u=76281980&t=250)** And that would cause the virtual machine to be overwritten with the copy from the backup.
 >
-> **[4:14](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/restore-a-vm-backup?u=76281980&t=254)** So that's how you restore a backup in Microsoft Azure.
+> **[4:14](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/restore-a-vm-backup?u=76281980&t=254)** So that's how you restore a backup in [[Microsoft Azure]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Virtual Machines]] (2), application (1), next (1), [[Powershell]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Virtual Machines]] (2), [[Powershell]] (1), [[Windows]] (1), [[Microsoft Azure]] (1)
 > **UI Navigation:** go to (2), click on (1), scroll down (1)
 > **Cross-References:** go back to (1)
 > **Tools:** powershell (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Monitor VM patching
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/monitor-vm-patching?u=76281980)
+#### [Monitor VM patching](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/monitor-vm-patching?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/monitor-vm-patching?u=76281980&t=0)** - [Instructor] Microsoft Azure can be configured to automatically apply updates to Azure virtual machines.
+> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/monitor-vm-patching?u=76281980&t=0)** - [Instructor] [[Microsoft Azure]] can be configured to automatically apply updates to [[Microsoft Azure|Azure]] [[Virtual Machines]].
 >
 > **[0:05](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/monitor-vm-patching?u=76281980&t=5)** But how do you know that those updates are actually being applied?
 >
@@ -3498,7 +3460,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/monitor-vm-patching?u=76281980&t=90)** I'll go ahead and click okay and the assessment process takes several minutes to complete.
 >
-> **[1:35](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/monitor-vm-patching?u=76281980&t=95)** Essentially what's happening is the virtual machine is checking Windows Update to find out if there are any updates available for the operating system that's running on that virtual machine.
+> **[1:35](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/monitor-vm-patching?u=76281980&t=95)** Essentially what's happening is the virtual machine is checking [[Windows]] Update to find out if there are any updates available for the operating system that's running on that virtual machine.
 >
 > **[1:45](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/monitor-vm-patching?u=76281980&t=105)** And so the assessment process has completed and no updates were found.
 >
@@ -3580,7 +3542,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), [[Virtual Machines]] (4), [[Windows]] (4), [[Microsoft Azure|Azure]] (3), [[Microsoft Azure]] (1)
+> **Frameworks & Libraries:** [[Virtual Machines]] (4), [[Windows]] (4), [[Microsoft Azure|Azure]] (3), [[Microsoft Azure]] (1)
 > **UI Navigation:** click on (9), scroll down (2), go to (1)
 > **Prerequisites:** install (2), set up (1), configure (1)
 > **CLI Commands:** find (3)
@@ -3589,14 +3551,13 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use Azure Advisor to check best practice compliance
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/use-azure-advisor-to-check-best-practice-compliance?u=76281980)
+#### [Use Azure Advisor to check best practice compliance](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/use-azure-advisor-to-check-best-practice-compliance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/use-azure-advisor-to-check-best-practice-compliance?u=76281980&t=0)** - [Instructor] When you create a virtual machine in Microsoft Azure, it's important that the virtual machine be created based on Microsoft's recommendations.
+> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/use-azure-advisor-to-check-best-practice-compliance?u=76281980&t=0)** - [Instructor] When you create a virtual machine in [[Microsoft Azure]], it's important that the virtual machine be created based on [[Microsoft]]'s recommendations.
 >
-> **[0:07](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/use-azure-advisor-to-check-best-practice-compliance?u=76281980&t=7)** So Microsoft provides a tool called the Azure Advisor that you can use to check the virtual machine to make sure that it complies with all of Microsoft's recommendations for that virtual machine.
+> **[0:07](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/use-azure-advisor-to-check-best-practice-compliance?u=76281980&t=7)** So Microsoft provides a tool called the [[Microsoft Azure|Azure]] Advisor that you can use to check the virtual machine to make sure that it complies with all of Microsoft's recommendations for that virtual machine.
 >
 > **[0:17](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/use-azure-advisor-to-check-best-practice-compliance?u=76281980&t=17)** So let's take a look at how this works.
 >
@@ -3626,7 +3587,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/use-azure-advisor-to-check-best-practice-compliance?u=76281980&t=83)** And you can break down the score by category.
 >
-> **[1:25](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/use-azure-advisor-to-check-best-practice-compliance?u=76281980&t=85)** So you can see that I'm meeting 100% of the cost, reliability, operational excellence, and performance recommendations.
+> **[1:25](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/use-azure-advisor-to-check-best-practice-compliance?u=76281980&t=85)** So you can see that I'm meeting 100% of the cost, reliability, [[Operational Excellence]], and performance recommendations.
 >
 > **[1:32](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/use-azure-advisor-to-check-best-practice-compliance?u=76281980&t=92)** Right now, there's no data on security recommendations but that data will eventually be populated.
 >
@@ -3642,26 +3603,25 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/use-azure-advisor-to-check-best-practice-compliance?u=76281980&t=134)** So it's important to balance the benefit against the cost and then make a decision on whether or not you want to adopt that particular recommendation.
 >
-> **[2:23](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/use-azure-advisor-to-check-best-practice-compliance?u=76281980&t=143)** So that's how you can use Azure Advisor to find out if your virtual machines are adhering to Microsoft's recommendations.
+> **[2:23](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/use-azure-advisor-to-check-best-practice-compliance?u=76281980&t=143)** So that's how you can use Azure Advisor to find out if your [[Virtual Machines]] are adhering to Microsoft's recommendations.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (7), [[Microsoft Azure|Azure]] (5), data (2), [[Microsoft Azure]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft]] (7), [[Microsoft Azure|Azure]] (5), [[Microsoft Azure]] (1), [[Operational Excellence]] (1), [[Virtual Machines]] (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** click on (3)
 > **Definitions:** is a  (1), in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Examine the VM topology map
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/examine-the-vm-topology-map?u=76281980)
+#### [Examine the VM topology map](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/examine-the-vm-topology-map?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/examine-the-vm-topology-map?u=76281980&t=0)** - [Instructor] Microsoft provides a tool that allows you to see all of the various network resources that are connected to your virtual machine, and this information is displayed through a topology map.
+> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/examine-the-vm-topology-map?u=76281980&t=0)** - [Instructor] [[Microsoft]] provides a tool that allows you to see all of the various network resources that are connected to your virtual machine, and this information is displayed through a topology map.
 >
 > **[0:09](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/examine-the-vm-topology-map?u=76281980&t=9)** So let's take a look at how this works.
 >
-> **[0:12](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/examine-the-vm-topology-map?u=76281980&t=12)** Right now, I'm in the virtual machines console and I've got one virtual machine.
+> **[0:12](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/examine-the-vm-topology-map?u=76281980&t=12)** Right now, I'm in the [[Virtual Machines]] console and I've got one virtual machine.
 >
 > **[0:16](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/examine-the-vm-topology-map?u=76281980&t=16)** I'm going to go ahead and click on that virtual machine.
 >
@@ -3701,23 +3661,22 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/examine-the-vm-topology-map?u=76281980&t=101)** And then I get information on that resource and what it's connected to.
 >
-> **[1:45](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/examine-the-vm-topology-map?u=76281980&t=105)** So that's just a brief overview of how the topology map works in Microsoft Azure.
+> **[1:45](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/examine-the-vm-topology-map?u=76281980&t=105)** So that's just a brief overview of how the topology map works in [[Microsoft Azure]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Microsoft]] (1), [[Virtual Machines]] (1), [[Microsoft Azure]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Virtual Machines]] (1), [[Microsoft Azure]] (1)
 > **UI Navigation:** click on (5), navigate to (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Where to learn more
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/where-to-learn-more-22607314?u=76281980)
+#### [Where to learn more](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/where-to-learn-more-22607314?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/where-to-learn-more-22607314?u=76281980&t=0)** - [Presenter] If you need a little bit of extra help learning about Azure Virtual Machines, then you might check out the Quickstart Center.
+> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/where-to-learn-more-22607314?u=76281980&t=0)** - [Presenter] If you need a little bit of extra help learning about [[Microsoft Azure|Azure]] [[Virtual Machines]], then you might check out the Quickstart Center.
 >
-> **[0:05](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/where-to-learn-more-22607314?u=76281980&t=5)** The Quickstart Center is a utility that's built into Microsoft Azure that provides basic information on how to use the various Azure services.
+> **[0:05](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/where-to-learn-more-22607314?u=76281980&t=5)** The Quickstart Center is a utility that's built into [[Microsoft Azure]] that provides basic information on how to use the various Azure services.
 >
 > **[0:13](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/where-to-learn-more-22607314?u=76281980&t=13)** So let's go ahead and take a look.
 >
@@ -3751,19 +3710,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (14), [[Virtual Machines]] (5), [[Search]] (2), cloud (2), [[Microsoft Azure]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (14), [[Virtual Machines]] (5), [[Microsoft Azure]] (1)
 > **UI Navigation:** click on (2), open the (1)
 > **Analogies:** such as (1), for example (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [presenter] (1)
 
-#### Delete a VM
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/delete-a-vm?u=76281980)
+#### [Delete a VM](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/delete-a-vm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/delete-a-vm?u=76281980&t=0)** - [Instructor] When you finish using a virtual machine and that virtual machine is no longer needed, it's important to delete the virtual machine, because otherwise Microsoft will keep billing you for the resources that that virtual machine is consuming.
+> **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/delete-a-vm?u=76281980&t=0)** - [Instructor] When you finish using a virtual machine and that virtual machine is no longer needed, it's important to delete the virtual machine, because otherwise [[Microsoft]] will keep billing you for the resources that that virtual machine is consuming.
 >
 > **[0:11](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/delete-a-vm?u=76281980&t=11)** So let's take a look at how to delete a virtual machine.
 >
@@ -3771,7 +3729,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/delete-a-vm?u=76281980&t=23)** At this point, you're going to see a popup asking you if you want to delete the virtual machine.
 >
-> **[0:28](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/delete-a-vm?u=76281980&t=28)** It's a good idea to go ahead and select the checkbox that says, "Apply force delete for selected virtual machines and virtual machine scale sets."
+> **[0:28](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/delete-a-vm?u=76281980&t=28)** It's a good idea to go ahead and select the checkbox that says, "Apply force delete for selected [[Virtual Machines]] and virtual machine scale sets."
 >
 > **[0:36](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/delete-a-vm?u=76281980&t=36)** And then go ahead and enter a yes in the confirm delete box.
 >
@@ -3783,7 +3741,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/delete-a-vm?u=76281980&t=67)** And now the virtual machine has been deleted.
 >
-> **[1:09](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/delete-a-vm?u=76281980&t=69)** So that's how you delete a virtual machine in Azure.
+> **[1:09](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/delete-a-vm?u=76281980&t=69)** So that's how you delete a virtual machine in [[Microsoft Azure|Azure]].
 
 > [!info]- Semantic Content
 >
@@ -3797,18 +3755,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Where to learn more
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/where-to-learn-more?u=76281980)
+#### [Where to learn more](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/where-to-learn-more?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/where-to-learn-more?u=76281980&t=0)** - Thank you for watching my course.
 >
-> **[0:02](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/where-to-learn-more?u=76281980&t=2)** I truly hope that you enjoyed learning about Azure virtual machines as much as I enjoyed creating this course for you.
+> **[0:02](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/where-to-learn-more?u=76281980&t=2)** I truly hope that you enjoyed learning about [[Microsoft Azure|Azure]] [[Virtual Machines]] as much as I enjoyed creating this course for you.
 >
-> **[0:07](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/where-to-learn-more?u=76281980&t=7)** If you'd like to know more about Azure or about other Microsoft products, then I would encourage you to check out some of my other LinkedIn learning courses.
+> **[0:07](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/where-to-learn-more?u=76281980&t=7)** If you'd like to know more about Azure or about other [[Microsoft Products]], then I would encourage you to check out some of my other [[LinkedIn]] learning courses.
 >
-> **[0:15](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/where-to-learn-more?u=76281980&t=15)** I've created several other Windows courses, and I've also developed other courses on key topics such as cloud computing in Azure and AWS, and even Microsoft 365.
+> **[0:15](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/where-to-learn-more?u=76281980&t=15)** I've created several other [[Windows]] courses, and I've also developed other courses on key topics such as [[Cloud Computing]] in Azure and AWS, and even [[Microsoft 365]].
 >
 > **[0:25](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/where-to-learn-more?u=76281980&t=25)** I'm Brien Posey.
 >

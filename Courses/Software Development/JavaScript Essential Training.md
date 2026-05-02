@@ -182,12 +182,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### JavaScript: The soil from which the modern web grows
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/javascript-the-soil-from-which-the-modern-web-grows?u=76281980)
+#### [JavaScript: The soil from which the modern web grows](https://www.linkedin.com/learning/javascript-essential-training/javascript-the-soil-from-which-the-modern-web-grows?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/javascript-the-soil-from-which-the-modern-web-grows?u=76281980&t=1)** - JavaScript is the soil from which modern web applications grow.
+> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/javascript-the-soil-from-which-the-modern-web-grows?u=76281980&t=1)** - [[JavaScript]] is the soil from which modern web applications grow.
 >
 > **[0:06](https://www.linkedin.com/learning/javascript-essential-training/javascript-the-soil-from-which-the-modern-web-grows?u=76281980&t=6)** That may sound poetic or pompous, but it's also the truth.
 >
@@ -195,9 +194,9 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/javascript-essential-training/javascript-the-soil-from-which-the-modern-web-grows?u=76281980&t=18)** If you want to work on or with the web today, a solid understanding of JavaScript is both necessary and hugely valuable.
 >
-> **[0:26](https://www.linkedin.com/learning/javascript-essential-training/javascript-the-soil-from-which-the-modern-web-grows?u=76281980&t=26)** Know the foundational elements of JavaScript and you're well-equipped to build the web of tomorrow whether that's through vanilla JavaScript, a modern JavaScript framework, like React or View, in the JAMstack or a node based server environment or in JavaScript powered applications and environments we haven't even developed yet.
+> **[0:26](https://www.linkedin.com/learning/javascript-essential-training/javascript-the-soil-from-which-the-modern-web-grows?u=76281980&t=26)** Know the foundational elements of JavaScript and you're well-equipped to build the web of tomorrow whether that's through [[Vanilla]] JavaScript, a modern JavaScript framework, like [[React.js|React]] or View, in the JAMstack or a node based server environment or in JavaScript powered applications and environments we haven't even developed yet.
 >
-> **[0:46](https://www.linkedin.com/learning/javascript-essential-training/javascript-the-soil-from-which-the-modern-web-grows?u=76281980&t=46)** If HTML is the language of web content and CSS is the language of web style, JavaScript is the language of web applications that bring all of this together.
+> **[0:46](https://www.linkedin.com/learning/javascript-essential-training/javascript-the-soil-from-which-the-modern-web-grows?u=76281980&t=46)** If [[HTML]] is the language of web content and CSS is the language of web style, JavaScript is the language of web applications that bring all of this together.
 >
 > **[0:57](https://www.linkedin.com/learning/javascript-essential-training/javascript-the-soil-from-which-the-modern-web-grows?u=76281980&t=57)** And in this course, you'll get a deep and broad introduction to modern JavaScript and how to make sense of it.
 >
@@ -211,17 +210,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (11), web (8), [[Vanilla]] (1), [[React.js|React]] (1), node (1)
+> **Frameworks & Libraries:** [[JavaScript]] (11), [[Vanilla]] (1), [[React.js|React]] (1), [[HTML]] (1)
 > **CLI Commands:** make (3), node (1)
 > **Env Vars:** html (1), css (1)
 > **Speakers:** - javascript (1)
 
-#### How to use the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/how-to-use-the-exercise-files?u=76281980)
+#### [How to use the exercise files](https://www.linkedin.com/learning/javascript-essential-training/how-to-use-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/how-to-use-the-exercise-files?u=76281980&t=1)** - [Instructor] The exercise files for this course are available from GitHub.
+> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/how-to-use-the-exercise-files?u=76281980&t=1)** - [Instructor] The exercise files for this course are available from [[GitHub]].
 >
 > **[0:03](https://www.linkedin.com/learning/javascript-essential-training/how-to-use-the-exercise-files?u=76281980&t=3)** You can download the entire batch of exercise files from the GitHub repository for this course.
 >
@@ -251,7 +249,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/javascript-essential-training/how-to-use-the-exercise-files?u=76281980&t=86)** Finally, in many of the exercise files you'll find a link to the documentation or a code reference for the specific subject covered in that movie.
 >
-> **[1:35](https://www.linkedin.com/learning/javascript-essential-training/how-to-use-the-exercise-files?u=76281980&t=95)** For example, in this movie, we are looking at how to use object constructors, and here's a link to the JavaScript reference for the new operator.
+> **[1:35](https://www.linkedin.com/learning/javascript-essential-training/how-to-use-the-exercise-files?u=76281980&t=95)** For example, in this movie, we are looking at how to use object constructors, and here's a link to the [[JavaScript]] reference for the new operator.
 >
 > **[1:44](https://www.linkedin.com/learning/javascript-essential-training/how-to-use-the-exercise-files?u=76281980&t=104)** This link will sit in a comment at the top of the JavaScript file.
 >
@@ -259,7 +257,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (3), [[GitHub]] (2), web (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[GitHub]] (2)
 > **Exercise Files:** exercise files (7), download the (1)
 > **CLI Commands:** find (4), make (1)
 > **Env Vars:** pdf (2), mdn (1)
@@ -268,8 +266,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Exploring the lab environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/exploring-the-lab-environment?u=76281980)
+#### [Exploring the lab environment](https://www.linkedin.com/learning/javascript-essential-training/exploring-the-lab-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -279,7 +276,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/javascript-essential-training/exploring-the-lab-environment?u=76281980&t=13)** These challenges are hosted by CoderPad and they appear in the same area of your course page where you watch your courses' videos.
 >
-> **[0:20](https://www.linkedin.com/learning/javascript-essential-training/exploring-the-lab-environment?u=76281980&t=20)** We recommend using a desktop browser for the best experience with code challenges, but you can use the LinkedIn Learning mobile app if you prefer.
+> **[0:20](https://www.linkedin.com/learning/javascript-essential-training/exploring-the-lab-environment?u=76281980&t=20)** We recommend using a desktop browser for the best experience with code challenges, but you can use the [[LinkedIn]] Learning mobile app if you prefer.
 >
 > **[0:27](https://www.linkedin.com/learning/javascript-essential-training/exploring-the-lab-environment?u=76281980&t=27)** The code challenge has four areas: instructions in the top left, a code editor for your answers in the top right, another code editor where you see how your code is used in the bottom right, and a console for output in the bottom left.
 >
@@ -295,7 +292,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/javascript-essential-training/exploring-the-lab-environment?u=76281980&t=65)** When you click Test my code, you'll see a message in the console indicating whether your code returned the correct results.
 >
-> **[1:11](https://www.linkedin.com/learning/javascript-essential-training/exploring-the-lab-environment?u=76281980&t=71)** for JavaScript challenges you'll see what test passed, what tests failed, your correct output, and whether you need to do something else.
+> **[1:11](https://www.linkedin.com/learning/javascript-essential-training/exploring-the-lab-environment?u=76281980&t=71)** for [[JavaScript]] challenges you'll see what test passed, what tests failed, your correct output, and whether you need to do something else.
 >
 > **[1:19](https://www.linkedin.com/learning/javascript-essential-training/exploring-the-lab-environment?u=76281980&t=79)** If your code is not successful, for example, if I changed output here to just numbers and run my test code again, you'll get a different message.
 >
@@ -323,7 +320,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), [[JavaScript]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[JavaScript]] (1)
 > **Code Identifiers:** showexpectedresult (1), showhints (1)
 > **Analogies:** for example (2)
 > **Cross-References:** next video (1)
@@ -336,18 +333,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### JavaScript: First contact
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/javascript-first-contact?u=76281980)
+#### [JavaScript: First contact](https://www.linkedin.com/learning/javascript-essential-training/javascript-first-contact?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/javascript-first-contact?u=76281980&t=1)** - Let's say you're completely new to web development.
+> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/javascript-first-contact?u=76281980&t=1)** - Let's say you're completely new to [[Web Development]].
 >
-> **[0:04](https://www.linkedin.com/learning/javascript-essential-training/javascript-first-contact?u=76281980&t=4)** If you go on the web and look for tools, tutorials and code examples for building a website or application, there's a very good chance the first thing you'll come across is something built using a JavaScript framework like React or Vue, Angular, Svelte, or something like that.
+> **[0:04](https://www.linkedin.com/learning/javascript-essential-training/javascript-first-contact?u=76281980&t=4)** If you go on the web and look for tools, tutorials and code examples for building a website or application, there's a very good chance the first thing you'll come across is something built using a [[JavaScript]] framework like [[React.js|React]] or [[Vue.js|Vue]], [[Angular]], Svelte, or something like that.
 >
 > **[0:20](https://www.linkedin.com/learning/javascript-essential-training/javascript-first-contact?u=76281980&t=20)** We're in a new era of web development where JavaScript is becoming the primary language for everything both in the browser, on the server and even on your own computer.
 >
-> **[0:31](https://www.linkedin.com/learning/javascript-essential-training/javascript-first-contact?u=76281980&t=31)** Those good old days of building websites using HTML and CSS and just a sprinkling of JavaScript are well behind us, and the new technology stack is built around JavaScript and JavaScript frameworks.
+> **[0:31](https://www.linkedin.com/learning/javascript-essential-training/javascript-first-contact?u=76281980&t=31)** Those good old days of building websites using [[HTML]] and CSS and just a sprinkling of JavaScript are well behind us, and the new technology stack is built around JavaScript and JavaScript frameworks.
 >
 > **[0:44](https://www.linkedin.com/learning/javascript-essential-training/javascript-first-contact?u=76281980&t=44)** Today, learning JavaScript so you can go out and use it right now means learning modern JavaScript and modern JavaScript tooling and learning how to decipher and understand things like JSX and TypeScript so you're able to recognize and work with frameworks like React.
 >
@@ -387,21 +383,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (14), [[React.js|React]] (7), [[Web Development]] (2), web (2), application (1)
+> **Frameworks & Libraries:** [[JavaScript]] (14), [[React.js|React]] (7), [[Web Development]] (2), [[Vue.js|Vue]] (1), [[Angular]] (1)
 > **Env Vars:** jsx (6), html (1), css (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - let (1)
 
-#### Navigating the JS landscape
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/navigating-the-js-landscape?u=76281980)
+#### [Navigating the JS landscape](https://www.linkedin.com/learning/javascript-essential-training/navigating-the-js-landscape?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-essential-training/navigating-the-js-landscape?u=76281980&t=0)** - [Instructor] When you look around for information about JavaScript and feel a bit overwhelmed by all the different things with the label JavaScript associated with them, you're not alone.
+> **[0:00](https://www.linkedin.com/learning/javascript-essential-training/navigating-the-js-landscape?u=76281980&t=0)** - [Instructor] When you look around for information about [[JavaScript]] and feel a bit overwhelmed by all the different things with the label JavaScript associated with them, you're not alone.
 >
-> **[0:10](https://www.linkedin.com/learning/javascript-essential-training/navigating-the-js-landscape?u=76281980&t=10)** There's Vanilla JavaScript and then there's ECMAScript and ES6 and ES2015 and ES2017 and ES2020 and TypeScript and CoffeeScript, and then there's React and Vue and Angular and Gulp and Babel and WebPack and Node.js.
+> **[0:10](https://www.linkedin.com/learning/javascript-essential-training/navigating-the-js-landscape?u=76281980&t=10)** There's [[Vanilla]] JavaScript and then there's [[ECMAScript]] and ES6 and ES2015 and ES2017 and ES2020 and TypeScript and CoffeeScript, and then there's [[React.js|React]] and [[Vue.js|Vue]] and [[Angular]] and Gulp and Babel and WebPack and [[Node.js]].
 >
 > **[0:22](https://www.linkedin.com/learning/javascript-essential-training/navigating-the-js-landscape?u=76281980&t=22)** And somehow all of these things are related to or under the umbrella of JavaScript.
 >
@@ -447,11 +442,11 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/javascript-essential-training/navigating-the-js-landscape?u=76281980&t=174)** These are tools written in JavaScript to render content on the web in the form of applications.
 >
-> **[2:59](https://www.linkedin.com/learning/javascript-essential-training/navigating-the-js-landscape?u=76281980&t=179)** The most popular of these frameworks are React or React.js, Vue or Vue.js and Angular or AngularJS.
+> **[2:59](https://www.linkedin.com/learning/javascript-essential-training/navigating-the-js-landscape?u=76281980&t=179)** The most popular of these frameworks are React or [[React.js]], Vue or [[Vue.js]] and Angular or AngularJS.
 >
 > **[3:07](https://www.linkedin.com/learning/javascript-essential-training/navigating-the-js-landscape?u=76281980&t=187)** They all add an abstraction layer on top of JavaScript to do things in a more streamlined and efficient way.
 >
-> **[3:13](https://www.linkedin.com/learning/javascript-essential-training/navigating-the-js-landscape?u=76281980&t=193)** As an example, React uses JSX or JavaScript XML which simplifies how we mix JavaScript and HTML.
+> **[3:13](https://www.linkedin.com/learning/javascript-essential-training/navigating-the-js-landscape?u=76281980&t=193)** As an example, React uses JSX or JavaScript XML which simplifies how we mix JavaScript and [[HTML]].
 >
 > **[3:22](https://www.linkedin.com/learning/javascript-essential-training/navigating-the-js-landscape?u=76281980&t=202)** With JavaScript frameworks come build the tools.
 >
@@ -459,9 +454,9 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/javascript-essential-training/navigating-the-js-landscape?u=76281980&t=216)** I've already mentioned Babel.
 >
-> **[3:38](https://www.linkedin.com/learning/javascript-essential-training/navigating-the-js-landscape?u=76281980&t=218)** Other common tools include NPM, WebPack, Grunt, Gulp and so on.
+> **[3:38](https://www.linkedin.com/learning/javascript-essential-training/navigating-the-js-landscape?u=76281980&t=218)** Other common tools include [[npm]], WebPack, Grunt, Gulp and so on.
 >
-> **[3:42](https://www.linkedin.com/learning/javascript-essential-training/navigating-the-js-landscape?u=76281980&t=222)** Finally, in the last several years, JavaScript has migrated from the browser to the server, so we can now write Java JavaScript to run on the backend as well as the front end of our applications.
+> **[3:42](https://www.linkedin.com/learning/javascript-essential-training/navigating-the-js-landscape?u=76281980&t=222)** Finally, in the last several years, JavaScript has migrated from the browser to the server, so we can now write [[Java]] JavaScript to run on the backend as well as the front end of our applications.
 >
 > **[3:53](https://www.linkedin.com/learning/javascript-essential-training/navigating-the-js-landscape?u=76281980&t=233)** Node.js is the ubiquitous JavaScript server runtime used for this purpose.
 >
@@ -477,7 +472,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (41), [[ECMAScript]] (5), [[Vanilla]] (4), web (4), [[React.js|React]] (3)
+> **Frameworks & Libraries:** [[JavaScript]] (41), [[ECMAScript]] (5), [[Vanilla]] (4), [[React.js|React]] (3), [[Node.js]] (3)
 > **Env Vars:** es6 (2), npm (2), es2015 (1), es2017 (1), es2020 (1)
 > **CLI Commands:** node (4), npm (2), make (1)
 > **File Paths:** node.js (3), react.js (1), vue.js (1)
@@ -486,12 +481,11 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tools for working with JavaScript
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/tools-for-working-with-javascript?u=76281980)
+#### [Tools for working with JavaScript](https://www.linkedin.com/learning/javascript-essential-training/tools-for-working-with-javascript?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/tools-for-working-with-javascript?u=76281980&t=1)** - [Instructor] To work effectively with JavaScript, you need a couple of tools on hand on your computer.
+> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/tools-for-working-with-javascript?u=76281980&t=1)** - [Instructor] To work effectively with [[JavaScript]], you need a couple of tools on hand on your computer.
 >
 > **[0:06](https://www.linkedin.com/learning/javascript-essential-training/tools-for-working-with-javascript?u=76281980&t=6)** First of all, you need a modern browser and ideally you want to install all the browsers that are available for your operating system, but you should pick one as your primary browser.
 >
@@ -533,7 +527,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/javascript-essential-training/tools-for-working-with-javascript?u=76281980&t=94)** You can get it for free for any operating systems.
 >
-> **[1:37](https://www.linkedin.com/learning/javascript-essential-training/tools-for-working-with-javascript?u=76281980&t=97)** You can have it on Windows or Mac OS or Linux or whatever else you want.
+> **[1:37](https://www.linkedin.com/learning/javascript-essential-training/tools-for-working-with-javascript?u=76281980&t=97)** You can have it on [[Windows]] or Mac OS or [[Linux]] or whatever else you want.
 >
 > **[1:42](https://www.linkedin.com/learning/javascript-essential-training/tools-for-working-with-javascript?u=76281980&t=102)** Once you've installed Visual Studio Code or your preferred code editor, also make sure you have a live server extension to the code editor.
 >
@@ -573,7 +567,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), [[JavaScript]] (4), application (1), [[Windows]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[Windows]] (1), [[Linux]] (1)
 > **Tools:** visual studio (4), firefox (2), vs code (1)
 > **UI Navigation:** open the (3), go to (1), click on (1)
 > **Prerequisites:** install (3), make sure you have (2)
@@ -582,8 +576,7 @@ created: 2026-05-02
 > **Definitions:** essentially is (1)
 > **Analogies:** for instance (1)
 
-#### Linting and formatting
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/linting-and-formatting?u=76281980)
+#### [Linting and formatting](https://www.linkedin.com/learning/javascript-essential-training/linting-and-formatting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -603,7 +596,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/javascript-essential-training/linting-and-formatting?u=76281980&t=41)** In this example, we'll add in two new extensions.
 >
-> **[0:44](https://www.linkedin.com/learning/javascript-essential-training/linting-and-formatting?u=76281980&t=44)** ESLint and Prettier.
+> **[0:44](https://www.linkedin.com/learning/javascript-essential-training/linting-and-formatting?u=76281980&t=44)** [[ESLint]] and Prettier.
 >
 > **[0:46](https://www.linkedin.com/learning/javascript-essential-training/linting-and-formatting?u=76281980&t=46)** And you can install them both directly from Inside VS Code by going to the extensions option just searching for ESLint and installing it and then searching for Prettier and installing.
 >
@@ -617,7 +610,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/javascript-essential-training/linting-and-formatting?u=76281980&t=75)** It sounds really finicky to use a tool like this but the reality is it makes it easier to work with your code, especially if you're working with other people because all the code will be formatted the same way.
 >
-> **[1:26](https://www.linkedin.com/learning/javascript-essential-training/linting-and-formatting?u=76281980&t=86)** ESLint is sort of like a spellcheck but for JavaScript.
+> **[1:26](https://www.linkedin.com/learning/javascript-essential-training/linting-and-formatting?u=76281980&t=86)** ESLint is sort of like a spellcheck but for [[JavaScript]].
 >
 > **[1:31](https://www.linkedin.com/learning/javascript-essential-training/linting-and-formatting?u=76281980&t=91)** It lints, as in goes through your code and finds all the lint and takes it out.
 >
@@ -629,7 +622,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/javascript-essential-training/linting-and-formatting?u=76281980&t=113)** Now for these two tools to work, we need to install the necessary settings and the necessary automated background functions.
 >
-> **[2:01](https://www.linkedin.com/learning/javascript-essential-training/linting-and-formatting?u=76281980&t=121)** And that's done using Node.js.
+> **[2:01](https://www.linkedin.com/learning/javascript-essential-training/linting-and-formatting?u=76281980&t=121)** And that's done using [[Node.js]].
 >
 > **[2:04](https://www.linkedin.com/learning/javascript-essential-training/linting-and-formatting?u=76281980&t=124)** Now, remember how I said when you work with modern JavaScript, you end up working with Node.js, the JavaScript server runtime.
 >
@@ -647,7 +640,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/javascript-essential-training/linting-and-formatting?u=76281980&t=157)** If you're using Mac OS, you likely have Node already installed.
 >
-> **[2:41](https://www.linkedin.com/learning/javascript-essential-training/linting-and-formatting?u=76281980&t=161)** If you're on Windows, you likely need to install it.
+> **[2:41](https://www.linkedin.com/learning/javascript-essential-training/linting-and-formatting?u=76281980&t=161)** If you're on [[Windows]], you likely need to install it.
 >
 > **[2:44](https://www.linkedin.com/learning/javascript-essential-training/linting-and-formatting?u=76281980&t=164)** Node can be installed directly from [nodejs.org](https://nodejs.org), where you'll also find all the installation instructions for your operating system.
 >
@@ -665,7 +658,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/javascript-essential-training/linting-and-formatting?u=76281980&t=203)** So here you can do things like install new extensions.
 >
-> **[3:26](https://www.linkedin.com/learning/javascript-essential-training/linting-and-formatting?u=76281980&t=206)** The only thing you need to do from terminal is once you've navigated to the exercise files folder and you see what I'm seeing on my screen here, type in npm install.
+> **[3:26](https://www.linkedin.com/learning/javascript-essential-training/linting-and-formatting?u=76281980&t=206)** The only thing you need to do from terminal is once you've navigated to the exercise files folder and you see what I'm seeing on my screen here, type in [[npm]] install.
 >
 > **[3:38](https://www.linkedin.com/learning/javascript-essential-training/linting-and-formatting?u=76281980&t=218)** Now the Node package manager goes onto the internet, finds the dependencies necessary, pulls them into my computer through the internet and installs them in our current project.
 >
@@ -755,7 +748,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ESLint]] (8), node (7), [[JavaScript]] (5), [[Node.js]] (2), [[npm]] (2)
+> **Frameworks & Libraries:** [[ESLint]] (8), [[JavaScript]] (5), [[Node.js]] (2), [[npm]] (2), [[Windows]] (1)
 > **CLI Commands:** node (9), make (5), npm (2), find (1)
 > **Prerequisites:** install (9), required to (1), you need to have (1)
 > **Tools:** terminal (5), vs code (2), command line (1)
@@ -764,12 +757,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (3)
 > **URLs:** [nodejs.org](https://nodejs.org) (1)
 
-#### Get to know the browser console
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/get-to-know-the-browser-console?u=76281980)
+#### [Get to know the browser console](https://www.linkedin.com/learning/javascript-essential-training/get-to-know-the-browser-console?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/get-to-know-the-browser-console?u=76281980&t=1)** - [Instructor] The browser console is the JavaScript developers' best friend, alongside the code editor and linting tools and automation tools.
+> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/get-to-know-the-browser-console?u=76281980&t=1)** - [Instructor] The browser console is the [[JavaScript]] developers' best friend, alongside the code editor and linting tools and automation tools.
 >
 > **[0:08](https://www.linkedin.com/learning/javascript-essential-training/get-to-know-the-browser-console?u=76281980&t=8)** And, okay, so the JavaScript developer has a lot of best friends, and the browser console is one of them.
 >
@@ -781,9 +773,9 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/javascript-essential-training/get-to-know-the-browser-console?u=76281980&t=26)** And that's what the console is for.
 >
-> **[0:29](https://www.linkedin.com/learning/javascript-essential-training/get-to-know-the-browser-console?u=76281980&t=29)** Just like when you work with HTML and CSS, you can open the developer tools and mess with the HTML or change the CSS in some way, and see what happens right away in the browser.
+> **[0:29](https://www.linkedin.com/learning/javascript-essential-training/get-to-know-the-browser-console?u=76281980&t=29)** Just like when you work with [[HTML]] and CSS, you can open the developer tools and mess with the HTML or change the CSS in some way, and see what happens right away in the browser.
 >
-> **[0:38](https://www.linkedin.com/learning/javascript-essential-training/get-to-know-the-browser-console?u=76281980&t=38)** Console is the exact same thing, but for Java script.
+> **[0:38](https://www.linkedin.com/learning/javascript-essential-training/get-to-know-the-browser-console?u=76281980&t=38)** Console is the exact same thing, but for [[Java]] script.
 >
 > **[0:42](https://www.linkedin.com/learning/javascript-essential-training/get-to-know-the-browser-console?u=76281980&t=42)** Let me show you how it works.
 >
@@ -927,7 +919,7 @@ created: 2026-05-02
 >
 > **[6:00](https://www.linkedin.com/learning/javascript-essential-training/get-to-know-the-browser-console?u=76281980&t=360)** And this is where we can debug our code and figure out exactly what's going on.
 >
-> **[6:04](https://www.linkedin.com/learning/javascript-essential-training/get-to-know-the-browser-console?u=76281980&t=364)** We'll be using the console extensively throughout the rest of the course.
+> **[6:04](https://www.linkedin.com/learning/javascript-essential-training/get-to-know-the-browser-console?u=76281980&t=364)** We'll be using the console extensively throughout the [[Representational State Transfer (REST)|rest]] of the course.
 >
 > **[6:07](https://www.linkedin.com/learning/javascript-essential-training/get-to-know-the-browser-console?u=76281980&t=367)** So familiarize yourself with how to open it.
 >
@@ -937,7 +929,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (12), [[HTML]] (7), hit (5), css (2), [[Automation]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (12), [[HTML]] (7), [[Java]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** lidopen (5), togglelid (5), lidstatus (3), updatebackpack (2), innerhtml (1)
 > **UI Navigation:** open the (5), go to (5), toggle (1)
 > **Env Vars:** html (7), css (2)
@@ -946,12 +938,11 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Exercise Files:** exercise files (1)
 
-#### JavaScript language basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/javascript-language-basics?u=76281980)
+#### [JavaScript language basics](https://www.linkedin.com/learning/javascript-essential-training/javascript-language-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/javascript-language-basics?u=76281980&t=1)** - [Instructor] JavaScript has some very basic language basics worth knowing about.
+> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/javascript-language-basics?u=76281980&t=1)** - [Instructor] [[JavaScript]] has some very basic language basics worth knowing about.
 >
 > **[0:04](https://www.linkedin.com/learning/javascript-essential-training/javascript-language-basics?u=76281980&t=4)** First, write your JavaScript from top to bottom because that's how the browser will read it.
 >
@@ -987,7 +978,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/javascript-essential-training/javascript-language-basics?u=76281980&t=114)** And here you see the purpose of a comment.
 >
-> **[1:56](https://www.linkedin.com/learning/javascript-essential-training/javascript-language-basics?u=76281980&t=116)** Now, when I come back to the code I'll see there's a function here, it's called update backpack, it outputs HTML and it has a single parameter, it's a string and it's called the update.
+> **[1:56](https://www.linkedin.com/learning/javascript-essential-training/javascript-language-basics?u=76281980&t=116)** Now, when I come back to the code I'll see there's a function here, it's called update backpack, it outputs [[HTML]] and it has a single parameter, it's a string and it's called the update.
 >
 > **[2:05](https://www.linkedin.com/learning/javascript-essential-training/javascript-language-basics?u=76281980&t=125)** Comments are also often used to quickly activate or deactivate single or multiple lines of code for debugging purposes.
 >
@@ -1043,7 +1034,7 @@ created: 2026-05-02
 >
 > **[4:27](https://www.linkedin.com/learning/javascript-essential-training/javascript-language-basics?u=76281980&t=267)** In some coding standards, you are required to add coding, add the semicolons, in others, you aren't required to not add them.
 >
-> **[4:34](https://www.linkedin.com/learning/javascript-essential-training/javascript-language-basics?u=76281980&t=274)** The good news is, ESLint and Prettier will sort this out for you.
+> **[4:34](https://www.linkedin.com/learning/javascript-essential-training/javascript-language-basics?u=76281980&t=274)** The good news is, [[ESLint]] and Prettier will sort this out for you.
 >
 > **[4:38](https://www.linkedin.com/learning/javascript-essential-training/javascript-language-basics?u=76281980&t=278)** So, if you go look at code examples and you see either using or not using semicolons, know that this is just a preference.
 >
@@ -1061,13 +1052,13 @@ created: 2026-05-02
 >
 > **[5:12](https://www.linkedin.com/learning/javascript-essential-training/javascript-language-basics?u=76281980&t=312)** So, in some coding standards, single quotes will be enforced and apply of using ESLint and Prettier, in others you'll have double quotes and the same thing will happen.
 >
-> **[5:20](https://www.linkedin.com/learning/javascript-essential-training/javascript-language-basics?u=76281980&t=320)** So, just be consistent in what you're doing and the tools will figure out the rest for you.
+> **[5:20](https://www.linkedin.com/learning/javascript-essential-training/javascript-language-basics?u=76281980&t=320)** So, just be consistent in what you're doing and the tools will figure out the [[Representational State Transfer (REST)|rest]] for you.
 >
 > **[5:25](https://www.linkedin.com/learning/javascript-essential-training/javascript-language-basics?u=76281980&t=325)** The rule of thumb to all of this is, number one, be consistent and number two, use tools like ESLint and Prettier to automate this consistency.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (6), hit (4), [[ESLint]] (3), [[Debugging]] (2), css (1)
+> **Frameworks & Libraries:** [[JavaScript]] (6), [[ESLint]] (3), [[HTML]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Best Practices:** rule of thumb (2), best practice (1)
 > **Env Vars:** css (1), html (1)
 > **Tools:** vs code (2)
@@ -1076,14 +1067,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Learning JavaScript backward
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/learning-javascript-backward?u=76281980)
+#### [Learning JavaScript backward](https://www.linkedin.com/learning/javascript-essential-training/learning-javascript-backward?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/learning-javascript-backward?u=76281980&t=1)** - When you learn JavaScript for the first time you typically start with the basics, variables then functions, then more advanced subjects.
+> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/learning-javascript-backward?u=76281980&t=1)** - When you learn [[JavaScript]] for the first time you typically start with the basics, variables then functions, then more advanced subjects.
 >
-> **[0:09](https://www.linkedin.com/learning/javascript-essential-training/learning-javascript-backward?u=76281980&t=9)** But, due to the popularity of JavaScript frameworks, like React and View, today the first introduction people have to JavaScript is often through advanced objects and methods.
+> **[0:09](https://www.linkedin.com/learning/javascript-essential-training/learning-javascript-backward?u=76281980&t=9)** But, due to the popularity of JavaScript frameworks, like [[React.js|React]] and View, today the first introduction people have to JavaScript is often through advanced objects and methods.
 >
 > **[0:20](https://www.linkedin.com/learning/javascript-essential-training/learning-javascript-backward?u=76281980&t=20)** For this reason, I've chosen to turn our course on its head.
 >
@@ -1125,7 +1115,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (6), web (2), [[React.js|React]] (1), data (1), dom (1)
+> **Frameworks & Libraries:** [[JavaScript]] (6), [[React.js|React]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Env Vars:** mdn (3), dom (1)
 > **Documentation:** mdn (3)
@@ -1137,16 +1127,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### JavaScript in an HTML document
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/javascript-in-an-html-document?u=76281980)
+#### [JavaScript in an HTML document](https://www.linkedin.com/learning/javascript-essential-training/javascript-in-an-html-document?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/javascript-in-an-html-document?u=76281980&t=1)** - [Narrator] Let's start at the very beginning with the question, where does the JavaScript live?
+> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/javascript-in-an-html-document?u=76281980&t=1)** - [Narrator] Let's start at the very beginning with the question, where does the [[JavaScript]] live?
 >
 > **[0:05](https://www.linkedin.com/learning/javascript-essential-training/javascript-in-an-html-document?u=76281980&t=5)** Where do you actually write the JavaScript code?
 >
-> **[0:08](https://www.linkedin.com/learning/javascript-essential-training/javascript-in-an-html-document?u=76281980&t=8)** There are several different approaches to storing and serving JavaScript in an HTML document most prominently inline meaning the JavaScript itself is literally in line inside the document and as an external file.
+> **[0:08](https://www.linkedin.com/learning/javascript-essential-training/javascript-in-an-html-document?u=76281980&t=8)** There are several different approaches to storing and serving JavaScript in an [[HTML]] document most prominently inline meaning the JavaScript itself is literally in line inside the document and as an external file.
 >
 > **[0:21](https://www.linkedin.com/learning/javascript-essential-training/javascript-in-an-html-document?u=76281980&t=21)** In exercise files for this movie 02_01 you'll find index dot HTML and this is an entirely self-contained HTML document that has both styles and JavaScript inline.
 >
@@ -1189,12 +1178,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [narrator] (1)
 
-#### JavaScript as an external file
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/javascript-as-an-external-file?u=76281980)
+#### [JavaScript as an external file](https://www.linkedin.com/learning/javascript-essential-training/javascript-as-an-external-file?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/javascript-as-an-external-file?u=76281980&t=1)** - [Instructor] Writing JavaScript in line in an HTML document like this is a bit of an edge case, and it only really makes sense when you have just a little bit of JavaScript, and it only applies to the current document and nowhere else.
+> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/javascript-as-an-external-file?u=76281980&t=1)** - [Instructor] Writing [[JavaScript]] in line in an [[HTML]] document like this is a bit of an edge case, and it only really makes sense when you have just a little bit of JavaScript, and it only applies to the current document and nowhere else.
 >
 > **[0:13](https://www.linkedin.com/learning/javascript-essential-training/javascript-as-an-external-file?u=76281980&t=13)** In most cases, when you write JavaScript, you'll have a lot of script and you want to apply it to several different documents.
 >
@@ -1258,7 +1246,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (9), [[HTML]] (5), css (2)
+> **Frameworks & Libraries:** [[JavaScript]] (9), [[HTML]] (5)
 > **File Paths:** index.html (3), script.js (2)
 > **Env Vars:** html (2), css (2)
 > **UI Navigation:** go to (4)
@@ -1267,14 +1255,13 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (2)
 > **Definitions:** is a  (1)
 
-#### Modern JavaScript loading
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/modern-javascript-loading?u=76281980)
+#### [Modern JavaScript loading](https://www.linkedin.com/learning/javascript-essential-training/modern-javascript-loading?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-essential-training/modern-javascript-loading?u=76281980&t=0)** - [Narrator] When you open an HTML document in the browser, the browser will read that document, line by line from the top down and fetch and execute any elements, it encounters as necessary.
+> **[0:00](https://www.linkedin.com/learning/javascript-essential-training/modern-javascript-loading?u=76281980&t=0)** - [Narrator] When you open an [[HTML]] document in the browser, the browser will read that document, line by line from the top down and [[Fetch]] and execute any elements, it encounters as necessary.
 >
-> **[0:10](https://www.linkedin.com/learning/javascript-essential-training/modern-javascript-loading?u=76281980&t=10)** In a typical header for an HTML document, we may have references to external style sheets, and two JavaScript files.
+> **[0:10](https://www.linkedin.com/learning/javascript-essential-training/modern-javascript-loading?u=76281980&t=10)** In a typical header for an HTML document, we may have references to external style sheets, and two [[JavaScript]] files.
 >
 > **[0:17](https://www.linkedin.com/learning/javascript-essential-training/modern-javascript-loading?u=76281980&t=17)** And both of these are needed for the page to render properly.
 >
@@ -1353,12 +1340,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### JavaScript modules
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/javascript-modules?u=76281980)
+#### [JavaScript modules](https://www.linkedin.com/learning/javascript-essential-training/javascript-modules?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/javascript-modules?u=76281980&t=1)** - [Instructor] As you start working with JavaScript, you'll quickly notice these files tend to get really large and kind of hard to work with.
+> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/javascript-modules?u=76281980&t=1)** - [Instructor] As you start working with [[JavaScript]], you'll quickly notice these files tend to get really large and kind of hard to work with.
 >
 > **[0:07](https://www.linkedin.com/learning/javascript-essential-training/javascript-modules?u=76281980&t=7)** You can see here, this is a fairly straightforward script that isn't too much going on but you can already see it's getting really long.
 >
@@ -1392,7 +1378,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/javascript-essential-training/javascript-modules?u=76281980&t=109)** Now to get this to work in practice, you have to do one more thing.
 >
-> **[1:52](https://www.linkedin.com/learning/javascript-essential-training/javascript-modules?u=76281980&t=112)** Inside index.html, you need to tell the browser, first of all there are two files now.
+> **[1:52](https://www.linkedin.com/learning/javascript-essential-training/javascript-modules?u=76281980&t=112)** Inside index.[[HTML]], you need to tell the browser, first of all there are two files now.
 >
 > **[1:57](https://www.linkedin.com/learning/javascript-essential-training/javascript-modules?u=76281980&t=117)** And second of all, these two files on our modules, they may rely on each other and it's important that they're both loaded before things work properly.
 >
@@ -1402,7 +1388,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/javascript-essential-training/javascript-modules?u=76281980&t=138)** JavaScript modules is a fairly advanced and very new feature but there's a reason why I'm showing it to you.
 >
-> **[2:24](https://www.linkedin.com/learning/javascript-essential-training/javascript-modules?u=76281980&t=144)** If you work with react or view or anything else, this is standard practice.
+> **[2:24](https://www.linkedin.com/learning/javascript-essential-training/javascript-modules?u=76281980&t=144)** If you work with [[React.js|react]] or view or anything else, this is standard practice.
 >
 > **[2:29](https://www.linkedin.com/learning/javascript-essential-training/javascript-modules?u=76281980&t=149)** In fact, the module thinking came from these JavaScript frameworks.
 >
@@ -1410,7 +1396,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/javascript-essential-training/javascript-modules?u=76281980&t=158)** So now you know exactly what it is.
 >
-> **[2:40](https://www.linkedin.com/learning/javascript-essential-training/javascript-modules?u=76281980&t=160)** And you also know you can actually do this in straight up vanilla JavaScript.
+> **[2:40](https://www.linkedin.com/learning/javascript-essential-training/javascript-modules?u=76281980&t=160)** And you also know you can actually do this in straight up [[Vanilla]] JavaScript.
 >
 > **[2:45](https://www.linkedin.com/learning/javascript-essential-training/javascript-modules?u=76281980&t=165)** You don't have to have a JavaScript framework.
 >
@@ -1448,7 +1434,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (13), [[Vanilla]] (2), [[HTML]] (1), feature (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (13), [[Vanilla]] (2), [[HTML]] (1), [[React.js|React]] (1)
 > **File Paths:** script.js (8), backpack.js (3), index.html (1)
 > **Exercise Files:** exercise files (2), template (1)
 > **UI Navigation:** go to (2)
@@ -1462,12 +1448,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Objects: A practical introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/objects-a-practical-introduction?u=76281980)
+#### [Objects: A practical introduction](https://www.linkedin.com/learning/javascript-essential-training/objects-a-practical-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/objects-a-practical-introduction?u=76281980&t=1)** - JavaScript is a prototype based object oriented programming language.
+> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/objects-a-practical-introduction?u=76281980&t=1)** - [[JavaScript]] is a prototype based object oriented programming language.
 >
 > **[0:06](https://www.linkedin.com/learning/javascript-essential-training/objects-a-practical-introduction?u=76281980&t=6)** That means, at its core, when we work with JavaScript, we're working with objects, and these objects are based on prototype.
 >
@@ -1561,16 +1546,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (8), [[Programming]] (3)
+> **Frameworks & Libraries:** [[JavaScript]] (8)
 > **Definitions:** is a  (6), is an  (1)
 > **Speakers:** - javascript (1)
 
-#### JavaScript objects: The code version
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/javascript-objects-the-code-version?u=76281980)
+#### [JavaScript objects: The code version](https://www.linkedin.com/learning/javascript-essential-training/javascript-objects-the-code-version?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/javascript-objects-the-code-version?u=76281980&t=1)** - To describe our real world objects, the backpack in JavaScript, we can use a JavaScript object.
+> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/javascript-objects-the-code-version?u=76281980&t=1)** - To describe our real world objects, the backpack in [[JavaScript]], we can use a JavaScript object.
 >
 > **[0:07](https://www.linkedin.com/learning/javascript-essential-training/javascript-objects-the-code-version?u=76281980&t=7)** JavaScript objects are collections of data and functionality stored as properties and methods that describe the object and what it can do.
 >
@@ -1642,13 +1626,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (6), data (2)
+> **Frameworks & Libraries:** [[JavaScript]] (6)
 > **Code Identifiers:** lidstatus (4), lidopen (4), togglelid (1)
 > **Definitions:** is a  (4), refers to (1)
 > **Speakers:** - to (1)
 
-#### Object containers
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/object-containers?u=76281980)
+#### [Object containers](https://www.linkedin.com/learning/javascript-essential-training/object-containers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1716,15 +1699,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Definitions:** is a  (5)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
 > **Speakers:** - now (1)
 
-#### Object properties
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/object-properties?u=76281980)
+#### [Object properties](https://www.linkedin.com/learning/javascript-essential-training/object-properties?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1740,7 +1721,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/javascript-essential-training/object-properties?u=76281980&t=29)** And in JS the standard states, a property name can only contain letters, digits, dollar signs, and underscores.
 >
-> **[0:37](https://www.linkedin.com/learning/javascript-essential-training/object-properties?u=76281980&t=37)** If you add quotation marks or hyphens or other symbols the object will not function properly and JavaScript will crash because there'll be incorrect code inside the object definition.
+> **[0:37](https://www.linkedin.com/learning/javascript-essential-training/object-properties?u=76281980&t=37)** If you add quotation marks or hyphens or other symbols the object will not function properly and [[JavaScript]] will crash because there'll be incorrect code inside the object definition.
 >
 > **[0:48](https://www.linkedin.com/learning/javascript-essential-training/object-properties?u=76281980&t=48)** The rule of thumb here to make sure everything works properly is to simply use camel case for property names.
 
@@ -1751,8 +1732,7 @@ created: 2026-05-02
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - [instructor] (1)
 
-#### Accessing objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/accessing-objects?u=76281980)
+#### [Accessing objects](https://www.linkedin.com/learning/javascript-essential-training/accessing-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1760,7 +1740,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/javascript-essential-training/accessing-objects?u=76281980&t=5)** So you say, hey, can you hand me that backpack, please?
 >
-> **[0:08](https://www.linkedin.com/learning/javascript-essential-training/accessing-objects?u=76281980&t=8)** The same thing goes for JavaScript.
+> **[0:08](https://www.linkedin.com/learning/javascript-essential-training/accessing-objects?u=76281980&t=8)** The same thing goes for [[JavaScript]].
 >
 > **[0:10](https://www.linkedin.com/learning/javascript-essential-training/accessing-objects?u=76281980&t=10)** Anytime you want to access an object or anything else contained inside a variable you simply call it by its name and JavaScript will hand it to you.
 >
@@ -1816,15 +1796,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (5), hit (1)
+> **Frameworks & Libraries:** [[JavaScript]] (5)
 > **Definitions:** is an  (1), is called (1), is a  (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** open the (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [narrator] (1)
 
-#### Accessing object properties
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/accessing-object-properties?u=76281980)
+#### [Accessing object properties](https://www.linkedin.com/learning/javascript-essential-training/accessing-object-properties?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1916,7 +1895,7 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/javascript-essential-training/accessing-object-properties?u=76281980&t=242)** There's also one additional situation where you might need to use bracket notation.
 >
-> **[4:08](https://www.linkedin.com/learning/javascript-essential-training/accessing-object-properties?u=76281980&t=248)** In JavaScript, the standard states that a property name can only contain letters, digits, dollar signs, and underscores.
+> **[4:08](https://www.linkedin.com/learning/javascript-essential-training/accessing-object-properties?u=76281980&t=248)** In [[JavaScript]], the standard states that a property name can only contain letters, digits, dollar signs, and underscores.
 >
 > **[4:14](https://www.linkedin.com/learning/javascript-essential-training/accessing-object-properties?u=76281980&t=254)** However, nothing actively prevents you or a piece of software from creating property names that break these conventions.
 >
@@ -1942,7 +1921,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (5), data (3)
+> **Frameworks & Libraries:** [[JavaScript]] (5)
 > **Code Identifiers:** straplength (6), pocketnum (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
@@ -1951,12 +1930,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Practice: Build a new object
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/practice-build-a-new-object?u=76281980)
+#### [Practice: Build a new object](https://www.linkedin.com/learning/javascript-essential-training/practice-build-a-new-object?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/practice-build-a-new-object?u=76281980&t=1)** - Throughout this course, I've created rest areas for you to get hands on practice and immediately engage with and apply what you've learned.
+> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/practice-build-a-new-object?u=76281980&t=1)** - Throughout this course, I've created [[Representational State Transfer (REST)|rest]] areas for you to get hands on practice and immediately engage with and apply what you've learned.
 >
 > **[0:08](https://www.linkedin.com/learning/javascript-essential-training/practice-build-a-new-object?u=76281980&t=8)** Really, go ahead and pause this video to complete these practice assignments.
 >
@@ -1968,7 +1946,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/javascript-essential-training/practice-build-a-new-object?u=76281980&t=25)** This is your first practice assignment.
 >
-> **[0:27](https://www.linkedin.com/learning/javascript-essential-training/practice-build-a-new-object?u=76281980&t=27)** Based on what you've learned so far, I want you to take some objects from your life, anything within reach really, and turn them into JavaScript objects.
+> **[0:27](https://www.linkedin.com/learning/javascript-essential-training/practice-build-a-new-object?u=76281980&t=27)** Based on what you've learned so far, I want you to take some objects from your life, anything within reach really, and turn them into [[JavaScript]] objects.
 >
 > **[0:36](https://www.linkedin.com/learning/javascript-essential-training/practice-build-a-new-object?u=76281980&t=36)** Give each object an identifiable name, create properties that describe the objects and set their values.
 >
@@ -1989,8 +1967,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - throughout (1)
 
-#### Object methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/object-methods?u=76281980)
+#### [Object methods](https://www.linkedin.com/learning/javascript-essential-training/object-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2054,7 +2031,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/javascript-essential-training/object-methods?u=76281980&t=145)** To make a function run, we call it by stating its name and then adding two parentheses behind it.
 >
-> **[2:31](https://www.linkedin.com/learning/javascript-essential-training/object-methods?u=76281980&t=151)** This tells JavaScript this is a function and I want to run it.
+> **[2:31](https://www.linkedin.com/learning/javascript-essential-training/object-methods?u=76281980&t=151)** This tells [[JavaScript]] this is a function and I want to run it.
 >
 > **[2:35](https://www.linkedin.com/learning/javascript-essential-training/object-methods?u=76281980&t=155)** It's called a function call.
 >
@@ -2142,15 +2119,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (2), data (1), hit (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2)
 > **UI Navigation:** toggle (9)
 > **Definitions:** is a  (8), is called (1)
 > **File Paths:** script.js (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Practice: Build a new method
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/practice-build-a-new-method?u=76281980)
+#### [Practice: Build a new method](https://www.linkedin.com/learning/javascript-essential-training/practice-build-a-new-method?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2178,8 +2154,7 @@ created: 2026-05-02
 >
 > **Speakers:** - before (1)
 
-#### Classes: Object blueprints
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/classes-object-blueprints?u=76281980)
+#### [Classes: Object blueprints](https://www.linkedin.com/learning/javascript-essential-training/classes-object-blueprints?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2187,7 +2162,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/javascript-essential-training/classes-object-blueprints?u=76281980&t=3)** Creating objects blueprints or templates using classes.
 >
-> **[0:08](https://www.linkedin.com/learning/javascript-essential-training/classes-object-blueprints?u=76281980&t=8)** Side notes, classes are relatively new introduction to JavaScript but they've been around in other programming languages for a long time.
+> **[0:08](https://www.linkedin.com/learning/javascript-essential-training/classes-object-blueprints?u=76281980&t=8)** Side notes, classes are relatively new introduction to [[JavaScript]] but they've been around in other programming languages for a long time.
 >
 > **[0:14](https://www.linkedin.com/learning/javascript-essential-training/classes-object-blueprints?u=76281980&t=14)** So if you have previous experience with classes in other languages, this will all look very familiar to you.
 >
@@ -2221,7 +2196,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/javascript-essential-training/classes-object-blueprints?u=76281980&t=86)** And output the values of that object in the browser just like we have before.
 >
-> **[1:30](https://www.linkedin.com/learning/javascript-essential-training/classes-object-blueprints?u=76281980&t=90)** Finally, in index.html, I'm importing both of these JavaScript files, backpack.js and script.js and setting them up as modules.
+> **[1:30](https://www.linkedin.com/learning/javascript-essential-training/classes-object-blueprints?u=76281980&t=90)** Finally, in index.[[HTML]], I'm importing both of these JavaScript files, backpack.js and script.js and setting them up as modules.
 >
 > **[1:40](https://www.linkedin.com/learning/javascript-essential-training/classes-object-blueprints?u=76281980&t=100)** So remember from the beginning of the course that we talked about using modules to have files depend on each other, that's what we're doing here.
 >
@@ -2295,7 +2270,7 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/javascript-essential-training/classes-object-blueprints?u=76281980&t=261)** So this is how we use a class to create a new object.
 >
-> **[4:23](https://www.linkedin.com/learning/javascript-essential-training/classes-object-blueprints?u=76281980&t=263)** We say the word new, this is a keyword.
+> **[4:23](https://www.linkedin.com/learning/javascript-essential-training/classes-object-blueprints?u=76281980&t=263)** We say the [[Microsoft Word|word]] new, this is a keyword.
 >
 > **[4:25](https://www.linkedin.com/learning/javascript-essential-training/classes-object-blueprints?u=76281980&t=265)** And then we point out whatever constructor we want to use.
 >
@@ -2355,7 +2330,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (4), [[Programming]] (1), [[HTML]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[HTML]] (1), [[Microsoft Word|Word]] (1)
 > **File Paths:** backpack.js (3), script.js (2), index.html (1)
 > **Definitions:** is a  (5), is called (1)
 > **Exercise Files:** template (2), exercise files (1)
@@ -2364,8 +2339,7 @@ created: 2026-05-02
 > **Analogies:** just like (2)
 > **Cross-References:** we talked about (1)
 
-#### Object constructors
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/object-constructors?u=76281980)
+#### [Object constructors](https://www.linkedin.com/learning/javascript-essential-training/object-constructors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2421,12 +2395,11 @@ created: 2026-05-02
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - [instructor] (1)
 
-#### Practice: Build a new object with a constructor
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/practice-build-a-new-object-with-a-constructor?u=76281980)
+#### [Practice: Build a new object with a constructor](https://www.linkedin.com/learning/javascript-essential-training/practice-build-a-new-object-with-a-constructor?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/practice-build-a-new-object-with-a-constructor?u=76281980&t=1)** - Classes feature heavily in modern JavaScript frameworks and getting comfortable with writing and using them will be a huge asset to you as you started working with advanced JavaScript sites and applications.
+> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/practice-build-a-new-object-with-a-constructor?u=76281980&t=1)** - Classes feature heavily in modern [[JavaScript]] frameworks and getting comfortable with writing and using them will be a huge asset to you as you started working with advanced JavaScript sites and applications.
 >
 > **[0:12](https://www.linkedin.com/learning/javascript-essential-training/practice-build-a-new-object-with-a-constructor?u=76281980&t=12)** To help you solidify your understanding of classes right away here's a practice assignment for you.
 >
@@ -2446,12 +2419,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (2), feature (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2)
 > **CLI Commands:** make (2), find (1)
 > **Speakers:** - classes (1)
 
-#### Global objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/global-objects?u=76281980)
+#### [Global objects](https://www.linkedin.com/learning/javascript-essential-training/global-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2521,7 +2493,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1), [[Search]] (1)
 > **Code Identifiers:** dateacquired (4), rightnow (3), todatestring (3), backpackage (3), everydaypackpack (1)
 > **Prerequisites:** set up (5)
 > **Env Vars:** utc (2), mdn (1), pst (1)
@@ -2529,12 +2500,11 @@ created: 2026-05-02
 > **Ports:** :30 (1)
 > **Cross-References:** go back to (1)
 > **Documentation:** mdn (1)
+> **Definitions:** is a  (1)
 
-#### Challenge intro: Create a new object type
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/challenge-intro-create-a-new-object-type?u=76281980)
+#### [Challenge intro: Create a new object type](https://www.linkedin.com/learning/javascript-essential-training/challenge-intro-create-a-new-object-type?u=76281980)
 
-#### Solution: Create a new object type
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/solution-create-a-new-object-type-19267805?u=76281980)
+#### [Solution: Create a new object type](https://www.linkedin.com/learning/javascript-essential-training/solution-create-a-new-object-type-19267805?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2597,12 +2567,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Mix text and variables with template literals
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/mix-text-and-variables-with-template-literals?u=76281980)
+#### [Mix text and variables with template literals](https://www.linkedin.com/learning/javascript-essential-training/mix-text-and-variables-with-template-literals?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/mix-text-and-variables-with-template-literals?u=76281980&t=1)** - At this point we need to take a quick detour and talk about how to output content from JavaScript to an HTML document.
+> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/mix-text-and-variables-with-template-literals?u=76281980&t=1)** - At this point we need to take a quick detour and talk about how to output content from [[JavaScript]] to an [[HTML]] document.
 >
 > **[0:08](https://www.linkedin.com/learning/javascript-essential-training/mix-text-and-variables-with-template-literals?u=76281980&t=8)** I'm sure you're wondering why we've been spending so much time on the console, but nothing really happens in the browser.
 >
@@ -2614,7 +2583,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/javascript-essential-training/mix-text-and-variables-with-template-literals?u=76281980&t=33)** So from this perspective, it's useful to think of JavaScript as an interactive layer on top of the content, the HTML, and its presentation, the CSS.
 >
-> **[0:42](https://www.linkedin.com/learning/javascript-essential-training/mix-text-and-variables-with-template-literals?u=76281980&t=42)** And we can use Java scripts to manipulate the HTML and CSS to get the browser to do what we want.
+> **[0:42](https://www.linkedin.com/learning/javascript-essential-training/mix-text-and-variables-with-template-literals?u=76281980&t=42)** And we can use [[Java]] scripts to manipulate the HTML and CSS to get the browser to do what we want.
 >
 > **[0:49](https://www.linkedin.com/learning/javascript-essential-training/mix-text-and-variables-with-template-literals?u=76281980&t=49)** The most basic way of doing this is to use JavaScript to inject new HTML content into the document.
 >
@@ -2634,7 +2603,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/javascript-essential-training/mix-text-and-variables-with-template-literals?u=76281980&t=95)** And if I go over into index.HTML, these match exactly.
 >
-> **[1:40](https://www.linkedin.com/learning/javascript-essential-training/mix-text-and-variables-with-template-literals?u=76281980&t=100)** So what happens is when the browser renders a document, it creates a document object model of that document.
+> **[1:40](https://www.linkedin.com/learning/javascript-essential-training/mix-text-and-variables-with-template-literals?u=76281980&t=100)** So what happens is when the browser renders a document, it creates a [[Document Object Model (DOM)|document object model]] of that document.
 >
 > **[1:47](https://www.linkedin.com/learning/javascript-essential-training/mix-text-and-variables-with-template-literals?u=76281980&t=107)** And we can then access that document object using JavaScript.
 >
@@ -2750,13 +2719,13 @@ created: 2026-05-02
 >
 > **[7:00](https://www.linkedin.com/learning/javascript-essential-training/mix-text-and-variables-with-template-literals?u=76281980&t=420)** Thanks to this template literal, we can now create a string like this with formatting and everything else and co-mingle JavaScript into that string for generated output.
 >
-> **[7:08](https://www.linkedin.com/learning/javascript-essential-training/mix-text-and-variables-with-template-literals?u=76281980&t=428)** If you ever worked with template tags in another language like PHP, you'll recognize this pattern and moving forward, I'll use template literals to output my content whenever possible.
+> **[7:08](https://www.linkedin.com/learning/javascript-essential-training/mix-text-and-variables-with-template-literals?u=76281980&t=428)** If you ever worked with template tags in another language like [[PHP]], you'll recognize this pattern and moving forward, I'll use template literals to output my content whenever possible.
 >
 > **[7:18](https://www.linkedin.com/learning/javascript-essential-training/mix-text-and-variables-with-template-literals?u=76281980&t=438)** And I encourage you to do the same.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (22), [[JavaScript]] (18), [[Java]] (4), [[Document Object Model (DOM)|Document object model]] (3), css (2)
+> **Frameworks & Libraries:** [[HTML]] (22), [[JavaScript]] (18), [[Java]] (4), [[Document Object Model (DOM)|Document object model]] (3), [[PHP]] (1)
 > **Env Vars:** html (22), css (2), dot (1), php (1)
 > **Exercise Files:** template (13), exercise files (1)
 > **CLI Commands:** find (2), php (1)
@@ -2765,12 +2734,11 @@ created: 2026-05-02
 > **File Paths:** index.html (1)
 > **Cross-References:** in the next (1)
 
-#### Traditional string output
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/traditional-string-output?u=76281980)
+#### [Traditional string output](https://www.linkedin.com/learning/javascript-essential-training/traditional-string-output?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-essential-training/traditional-string-output?u=76281980&t=0)** - [Instructor] Template Literals are great for outputting HTML and other content mixed with JavaScript.
+> **[0:00](https://www.linkedin.com/learning/javascript-essential-training/traditional-string-output?u=76281980&t=0)** - [Instructor] Template Literals are great for outputting [[HTML]] and other content mixed with [[JavaScript]].
 >
 > **[0:05](https://www.linkedin.com/learning/javascript-essential-training/traditional-string-output?u=76281980&t=5)** However, this is a very new technology and chances are, you'll come across existing code and tutorials where Template Literals are never used, instead you'll see standard strings used.
 >
@@ -2843,14 +2811,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge intro: Create a template literal
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/x-19268770?u=76281980)
+#### [Challenge intro: Create a template literal](https://www.linkedin.com/learning/javascript-essential-training/x-19268770?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/javascript-essential-training/x-19268770?u=76281980&t=0)** (light upbeat music)
 >
-> **[0:05](https://www.linkedin.com/learning/javascript-essential-training/x-19268770?u=76281980&t=5)** - [Instructor] Template literals are both useful and in heavy use across JavaScript applications, so in this challenge, you'll create a new template literal to output information from an object as a String.
+> **[0:05](https://www.linkedin.com/learning/javascript-essential-training/x-19268770?u=76281980&t=5)** - [Instructor] Template literals are both useful and in heavy use across [[JavaScript]] applications, so in this challenge, you'll create a new template literal to output information from an object as a String.
 >
 > **[0:15](https://www.linkedin.com/learning/javascript-essential-training/x-19268770?u=76281980&t=15)** Your starting code contains a constructor for the Camera object, capturing information about cameras, and a function, cameraAge, to calculate the age of the camera based on the information in one of the Camera objects.
 >
@@ -2884,7 +2851,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (1), data (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Code Identifiers:** cameraage (2), mycamera (2), camerastory (2), getcurrentyear (1)
 > **Exercise Files:** template (4)
 > **CLI Commands:** make (1), find (1)
@@ -2893,8 +2860,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (light upbeat music) (1)
 
-#### Solution: Create a template literal
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/x-19266744?u=76281980)
+#### [Solution: Create a template literal](https://www.linkedin.com/learning/javascript-essential-training/x-19266744?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2914,7 +2880,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/javascript-essential-training/x-19266744?u=76281980&t=45)** And then brand, which is one of the properties, and click test code, I should see an output.
 >
-> **[0:52](https://www.linkedin.com/learning/javascript-essential-training/x-19266744?u=76281980&t=52)** Well, the test fails, but I should see the output down here and it is the correct word.
+> **[0:52](https://www.linkedin.com/learning/javascript-essential-training/x-19266744?u=76281980&t=52)** Well, the test fails, but I should see the output down here and it is the correct [[Microsoft Word|word]].
 >
 > **[0:57](https://www.linkedin.com/learning/javascript-essential-training/x-19266744?u=76281980&t=57)** So that means we are pulling information from down here up into the code and out into the output.
 >
@@ -2997,8 +2963,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### DOM: The Document Object Model
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/dom-the-document-object-model?u=76281980)
+#### [DOM: The Document Object Model](https://www.linkedin.com/learning/javascript-essential-training/dom-the-document-object-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3006,7 +2971,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/javascript-essential-training/dom-the-document-object-model?u=76281980&t=6)** Just think about it.
 >
-> **[0:08](https://www.linkedin.com/learning/javascript-essential-training/dom-the-document-object-model?u=76281980&t=8)** If I say the word backpack, you immediately have a prototypical model of a backpack in your mind.
+> **[0:08](https://www.linkedin.com/learning/javascript-essential-training/dom-the-document-object-model?u=76281980&t=8)** If I say the [[Microsoft Word|word]] backpack, you immediately have a prototypical model of a backpack in your mind.
 >
 > **[0:14](https://www.linkedin.com/learning/javascript-essential-training/dom-the-document-object-model?u=76281980&t=14)** What that backpack looks like and how it functions and what it contains will be different from each person, but the overall model is the same.
 >
@@ -3062,13 +3027,13 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/javascript-essential-training/dom-the-document-object-model?u=76281980&t=166)** What we have in the example of the bag and the example of the kitchen are hierarchical trees with a trunk, branches, finer branches, and eventually leads.
 >
-> **[2:56](https://www.linkedin.com/learning/javascript-essential-training/dom-the-document-object-model?u=76281980&t=176)** What on Earth does any of this have to do with JavaScript?
+> **[2:56](https://www.linkedin.com/learning/javascript-essential-training/dom-the-document-object-model?u=76281980&t=176)** What on Earth does any of this have to do with [[JavaScript]]?
 >
 > **[3:01](https://www.linkedin.com/learning/javascript-essential-training/dom-the-document-object-model?u=76281980&t=181)** Everything!
 >
-> **[3:02](https://www.linkedin.com/learning/javascript-essential-training/dom-the-document-object-model?u=76281980&t=182)** You see, when you present a web browser with an HTML document, the browser does the exact same thing we just did.
+> **[3:02](https://www.linkedin.com/learning/javascript-essential-training/dom-the-document-object-model?u=76281980&t=182)** You see, when you present a web browser with an [[HTML]] document, the browser does the exact same thing we just did.
 >
-> **[3:11](https://www.linkedin.com/learning/javascript-essential-training/dom-the-document-object-model?u=76281980&t=191)** It creates an object model for the document, a document object model, or DOM for short, and this DOM describes the hierarchical tree structure for that document, how the different elements in the document relate to each other and are nested.
+> **[3:11](https://www.linkedin.com/learning/javascript-essential-training/dom-the-document-object-model?u=76281980&t=191)** It creates an object model for the document, a [[Document Object Model (DOM)|document object model]], or DOM for short, and this DOM describes the hierarchical tree structure for that document, how the different elements in the document relate to each other and are nested.
 >
 > **[3:28](https://www.linkedin.com/learning/javascript-essential-training/dom-the-document-object-model?u=76281980&t=208)** It is so similar, in fact, I can make an HTML representation of this backpack, and then find the pig the exact same way we just did in the real world.
 >
@@ -3078,7 +3043,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (3), [[HTML]] (2), [[Document Object Model (DOM)|Document object model]] (2), dom (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[HTML]] (2), [[Document Object Model (DOM)|Document object model]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (7), make (2)
 > **Env Vars:** html (2), dom (2)
 > **UI Navigation:** open the (2), go to (1)
@@ -3086,16 +3051,15 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - when (1)
 
-#### Access elements with querySelector methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/access-elements-with-queryselector-methods?u=76281980)
+#### [Access elements with querySelector methods](https://www.linkedin.com/learning/javascript-essential-training/access-elements-with-queryselector-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/access-elements-with-queryselector-methods?u=76281980&t=1)** - [Instructor] Let's take a look at how to access elements in the DOM using JavaScript.
+> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/access-elements-with-queryselector-methods?u=76281980&t=1)** - [Instructor] Let's take a look at how to access elements in the DOM using [[JavaScript]].
 >
 > **[0:05](https://www.linkedin.com/learning/javascript-essential-training/access-elements-with-queryselector-methods?u=76281980&t=5)** In the exercise files for this movie, I've updated our examples so we have some actual content to work with.
 >
-> **[0:10](https://www.linkedin.com/learning/javascript-essential-training/access-elements-with-queryselector-methods?u=76281980&t=10)** I've added some basic HTML and a style sheet in index.html and I've also expanded the HTML output in the template literal a little bit to make it possible to style it.
+> **[0:10](https://www.linkedin.com/learning/javascript-essential-training/access-elements-with-queryselector-methods?u=76281980&t=10)** I've added some basic [[HTML]] and a style sheet in index.html and I've also expanded the HTML output in the template literal a little bit to make it possible to style it.
 >
 > **[0:20](https://www.linkedin.com/learning/javascript-essential-training/access-elements-with-queryselector-methods?u=76281980&t=20)** I've added some classes.
 >
@@ -3195,7 +3159,7 @@ created: 2026-05-02
 >
 > **[5:17](https://www.linkedin.com/learning/javascript-essential-training/access-elements-with-queryselector-methods?u=76281980&t=317)** And this is what makes these two methods so powerful.
 >
-> **[5:20](https://www.linkedin.com/learning/javascript-essential-training/access-elements-with-queryselector-methods?u=76281980&t=320)** I now have access to any element in the document object model and I can do whatever I want to any of those elements at any time using JavaScript.
+> **[5:20](https://www.linkedin.com/learning/javascript-essential-training/access-elements-with-queryselector-methods?u=76281980&t=320)** I now have access to any element in the [[Document Object Model (DOM)|document object model]] and I can do whatever I want to any of those elements at any time using JavaScript.
 >
 > **[5:30](https://www.linkedin.com/learning/javascript-essential-training/access-elements-with-queryselector-methods?u=76281980&t=330)** Before you continue, I urge you to play around with these two methods in the console right now.
 >
@@ -3211,7 +3175,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (10), [[JavaScript]] (9), dom (5), [[HTML]] (4), node (4)
+> **Frameworks & Libraries:** [[JavaScript]] (9), [[HTML]] (4), [[Document Object Model (DOM)|Document object model]] (1)
 > **Env Vars:** css (10), dom (5), html (3)
 > **CLI Commands:** node (4), find (2), make (1)
 > **Analogies:** just like (3)
@@ -3220,8 +3184,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 
-#### Access elements using older methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/access-elements-using-older-methods?u=76281980)
+#### [Access elements using older methods](https://www.linkedin.com/learning/javascript-essential-training/access-elements-using-older-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3253,11 +3216,11 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/javascript-essential-training/access-elements-using-older-methods?u=76281980&t=167)** Say document getelementsbyId and pass in the name of that id hit return and we get the document object this time of the id.
 >
-> **[2:59](https://www.linkedin.com/learning/javascript-essential-training/access-elements-using-older-methods?u=76281980&t=179)** Now that you see how these works you will also notice in older code, developers often used ids specifically to be able to target objects like this because like I said we used to only have these two methods and the class method gives us an htmlcollection that we then have to work with further to get to the object that means in some older code you will find html documents are full of ids simply so that we can target them using this particular method but now that we have the queryselector and queryselectorall methods we no longer need to comply with the restrictions of these two methods and we can do whatever we want using C S S query instead which is why we use queryselector and why these two older methods are relegated to the past.
+> **[2:59](https://www.linkedin.com/learning/javascript-essential-training/access-elements-using-older-methods?u=76281980&t=179)** Now that you see how these works you will also notice in older code, developers often used ids specifically to be able to target objects like this because like I said we used to only have these two methods and the class method gives us an htmlcollection that we then have to work with further to get to the object that means in some older code you will find [[HTML]] documents are full of ids simply so that we can target them using this particular method but now that we have the queryselector and queryselectorall methods we no longer need to comply with the restrictions of these two methods and we can do whatever we want using C S S query instead which is why we use queryselector and why these two older methods are relegated to the past.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), node (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Code Identifiers:** getelementsbyclassname (5), getelementbyid (1), getelementsbyid (1)
 > **CLI Commands:** find (3), node (1)
 > **UI Navigation:** open the (1)
@@ -3266,16 +3229,15 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Practice: Find an element
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/practice-find-an-element?u=76281980)
+#### [Practice: Find an element](https://www.linkedin.com/learning/javascript-essential-training/practice-find-an-element?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/practice-find-an-element?u=76281980&t=1)** - Traversing up and down the DOM tree to find one or more elements is going to be something you do all the time when working with JavaScript.
+> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/practice-find-an-element?u=76281980&t=1)** - Traversing up and down the DOM tree to find one or more elements is going to be something you do all the time when working with [[JavaScript]].
 >
 > **[0:09](https://www.linkedin.com/learning/javascript-essential-training/practice-find-an-element?u=76281980&t=9)** So I want this to become second nature to you.
 >
-> **[0:12](https://www.linkedin.com/learning/javascript-essential-training/practice-find-an-element?u=76281980&t=12)** Now that you're familiar with the main methods we use to find elements in the DOM, the querySelector and querySelectorAll methods, I want you to take some time to familiarize yourself with how powerful and exacting these methods are by finding elements in an HTML document.
+> **[0:12](https://www.linkedin.com/learning/javascript-essential-training/practice-find-an-element?u=76281980&t=12)** Now that you're familiar with the main methods we use to find elements in the DOM, the querySelector and querySelectorAll methods, I want you to take some time to familiarize yourself with how powerful and exacting these methods are by finding elements in an [[HTML]] document.
 >
 > **[0:29](https://www.linkedin.com/learning/javascript-essential-training/practice-find-an-element?u=76281980&t=29)** In the practice files, there's a standard HTML document with a bunch of different elements and classes.
 >
@@ -3297,7 +3259,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dom (3), [[HTML]] (2), [[JavaScript]] (1), css (1), data (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[JavaScript]] (1)
 > **Env Vars:** dom (3), html (2), css (1)
 > **CLI Commands:** find (4), make (1)
 > **Code Identifiers:** queryselector (3), queryselectorall (2)
@@ -3305,14 +3267,13 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - traversing (1)
 
-#### Modifying element classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/modifying-element-classes?u=76281980)
+#### [Modifying element classes](https://www.linkedin.com/learning/javascript-essential-training/modifying-element-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/modifying-element-classes?u=76281980&t=1)** - [Instructor] A common task in JavaScript is to modify the classes of an element in some way.
+> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/modifying-element-classes?u=76281980&t=1)** - [Instructor] A common task in [[JavaScript]] is to modify the classes of an element in some way.
 >
-> **[0:05](https://www.linkedin.com/learning/javascript-essential-training/modifying-element-classes?u=76281980&t=5)** This is a simple way of changing the appearance or behavior of an element without having to inject CSS into the HTML itself.
+> **[0:05](https://www.linkedin.com/learning/javascript-essential-training/modifying-element-classes?u=76281980&t=5)** This is a simple way of changing the appearance or behavior of an element without having to inject CSS into the [[HTML]] itself.
 >
 > **[0:12](https://www.linkedin.com/learning/javascript-essential-training/modifying-element-classes?u=76281980&t=12)** Instead, we just add a class or remove a class to make something happen.
 >
@@ -3352,7 +3313,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/javascript-essential-training/modifying-element-classes?u=76281980&t=122)** The other problem is even more serious.
 >
-> **[2:05](https://www.linkedin.com/learning/javascript-essential-training/modifying-element-classes?u=76281980&t=125)** In React and other JavaScript frameworks, the term class name is used in place of class in markup to avoid collisions with the JavaScript class keyword which is used to set up classes.
+> **[2:05](https://www.linkedin.com/learning/javascript-essential-training/modifying-element-classes?u=76281980&t=125)** In [[React.js|React]] and other JavaScript frameworks, the term class name is used in place of class in markup to avoid collisions with the JavaScript class keyword which is used to set up classes.
 >
 > **[2:18](https://www.linkedin.com/learning/javascript-essential-training/modifying-element-classes?u=76281980&t=138)** This means if you're trying to target the class name property, but you're inside a JavaScript framework, you're actually doing something else which can cause unexpected behavior and will not result in what you want.
 >
@@ -3406,7 +3367,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (5), dom (4), hit (4), css (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (5), [[HTML]] (1), [[React.js|React]] (1)
 > **UI Navigation:** toggle (3), go to (1)
 > **Env Vars:** css (1), html (1)
 > **Cross-References:** go back to (2)
@@ -3415,12 +3376,11 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise files (1)
 
-#### Attributes
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/attributes?u=76281980)
+#### [Attributes](https://www.linkedin.com/learning/javascript-essential-training/attributes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-essential-training/attributes?u=76281980&t=0)** - [Instructor] JavaScript can be used to modify the attributes of any elements.
+> **[0:00](https://www.linkedin.com/learning/javascript-essential-training/attributes?u=76281980&t=0)** - [Instructor] [[JavaScript]] can be used to modify the attributes of any elements.
 >
 > **[0:04](https://www.linkedin.com/learning/javascript-essential-training/attributes?u=76281980&t=4)** The attributes are stored in the attributes property, it can be accessed directly by calling it.
 >
@@ -3510,15 +3470,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), node (3), hit (3), [[JavaScript]] (2)
+> **Frameworks & Libraries:** [[JavaScript]] (2)
 > **Definitions:** is a  (3), is an  (3)
 > **CLI Commands:** node (3)
 > **Env Vars:** url (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Inline style
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/inline-style?u=76281980)
+#### [Inline style](https://www.linkedin.com/learning/javascript-essential-training/inline-style?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3592,7 +3551,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (14), hit (1)
 > **Env Vars:** css (14)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (2)
@@ -3600,9 +3558,9 @@ created: 2026-05-02
 > **Cross-References:** we talked about (1)
 > **Documentation:** specification (1)
 > **UI Navigation:** scroll down (1)
+> **Exercise Files:** exercise files (1)
 
-#### Practice: Modify classes and attributes, and styles
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/practice-modify-classes-and-attributes-and-styles?u=76281980)
+#### [Practice: Modify classes and attributes, and styles](https://www.linkedin.com/learning/javascript-essential-training/practice-modify-classes-and-attributes-and-styles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3644,18 +3602,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), dom (2), css (1)
 > **Env Vars:** dom (2), css (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - being (1)
 
-#### Add DOM elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/add-dom-elements?u=76281980)
+#### [Add DOM elements](https://www.linkedin.com/learning/javascript-essential-training/add-dom-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/add-dom-elements?u=76281980&t=1)** - [Instructor] In the example project, I used this template literal to create HTML and then added that HTML to the existing document by targeting an existing element and replacing its internal HTML using the inner HTML property.
+> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/add-dom-elements?u=76281980&t=1)** - [Instructor] In the example project, I used this template literal to create [[HTML]] and then added that HTML to the existing document by targeting an existing element and replacing its internal HTML using the inner HTML property.
 >
 > **[0:14](https://www.linkedin.com/learning/javascript-essential-training/add-dom-elements?u=76281980&t=14)** All that functionality is down here, and we've now covered all the features that make this possible.
 >
@@ -3671,7 +3627,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/javascript-essential-training/add-dom-elements?u=76281980&t=42)** This new text sits inside the main element.
 >
-> **[0:45](https://www.linkedin.com/learning/javascript-essential-training/add-dom-elements?u=76281980&t=45)** And the problem is when we inject the backpack content using JavaScript, we're replacing all the content inside the main element, so this new text disappears.
+> **[0:45](https://www.linkedin.com/learning/javascript-essential-training/add-dom-elements?u=76281980&t=45)** And the problem is when we inject the backpack content using [[JavaScript]], we're replacing all the content inside the main element, so this new text disappears.
 >
 > **[0:55](https://www.linkedin.com/learning/javascript-essential-training/add-dom-elements?u=76281980&t=55)** You can see that if you go to the browser the new text is nowhere to be found because we replaced it.
 >
@@ -3767,7 +3723,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (7), dom (4), node (4), [[JavaScript]] (2), next (1)
+> **Frameworks & Libraries:** [[HTML]] (7), [[JavaScript]] (2)
 > **Env Vars:** html (7), dom (4)
 > **CLI Commands:** node (4), make (1)
 > **Exercise Files:** template (4), exercise files (1)
@@ -3776,8 +3732,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Prerequisites:** set up (1)
 
-#### Challenge intro: Create elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/x-19268771?u=76281980)
+#### [Challenge intro: Create elements](https://www.linkedin.com/learning/javascript-essential-training/x-19268771?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3787,7 +3742,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/javascript-essential-training/x-19268771?u=76281980&t=15)** That DOM contains a header element with the class siteheader and that's where you'll append the new menu.
 >
-> **[0:21](https://www.linkedin.com/learning/javascript-essential-training/x-19268771?u=76281980&t=21)** You also have a JavaScript template literal containing list items that will be used in the navigation menu.
+> **[0:21](https://www.linkedin.com/learning/javascript-essential-training/x-19268771?u=76281980&t=21)** You also have a [[JavaScript]] template literal containing list items that will be used in the navigation menu.
 >
 > **[0:26](https://www.linkedin.com/learning/javascript-essential-training/x-19268771?u=76281980&t=26)** So you can just append this list of items into an unordered list as you go along.
 >
@@ -3795,7 +3750,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/javascript-essential-training/x-19268771?u=76281980&t=40)** Then give the nav container the class .main-navigation and finally append the new nav container to the existing element with the class .siteheader.
 >
-> **[0:48](https://www.linkedin.com/learning/javascript-essential-training/x-19268771?u=76281980&t=48)** The final HTML of your nav element should follow the structure you see here.
+> **[0:48](https://www.linkedin.com/learning/javascript-essential-training/x-19268771?u=76281980&t=48)** The final [[HTML]] of your nav element should follow the structure you see here.
 >
 > **[0:53](https://www.linkedin.com/learning/javascript-essential-training/x-19268771?u=76281980&t=53)** In the challenge environment, you can see the nav content template literal, but you can't see the DOM.
 >
@@ -3811,15 +3766,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dom (7), [[JavaScript]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1), [[HTML]] (1)
 > **Env Vars:** dom (7), html (1)
 > **Exercise Files:** template (2)
 > **Code Identifiers:** createnavmenu (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Create elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/x-19263929?u=76281980)
+#### [Solution: Create elements](https://www.linkedin.com/learning/javascript-essential-training/x-19263929?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3859,13 +3813,13 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/javascript-essential-training/x-19263929?u=76281980&t=86)** Now, in normal circumstances, this is not how I would do it.
 >
-> **[1:30](https://www.linkedin.com/learning/javascript-essential-training/x-19263929?u=76281980&t=90)** I would actually go and create a new list item for each of whatever links I wanted to create and then populate it using JavaScript.
+> **[1:30](https://www.linkedin.com/learning/javascript-essential-training/x-19263929?u=76281980&t=90)** I would actually go and create a new list item for each of whatever links I wanted to create and then populate it using [[JavaScript]].
 >
 > **[1:38](https://www.linkedin.com/learning/javascript-essential-training/x-19263929?u=76281980&t=98)** But that's more of the same process again and again and again and it would be very verbose and tricky to look at in this challenge.
 >
 > **[1:45](https://www.linkedin.com/learning/javascript-essential-training/x-19263929?u=76281980&t=105)** So therefore we're not doing it.
 >
-> **[1:47](https://www.linkedin.com/learning/javascript-essential-training/x-19263929?u=76281980&t=107)** Good best practice is never inject HTML like this.
+> **[1:47](https://www.linkedin.com/learning/javascript-essential-training/x-19263929?u=76281980&t=107)** Good best practice is never inject [[HTML]] like this.
 >
 > **[1:50](https://www.linkedin.com/learning/javascript-essential-training/x-19263929?u=76281980&t=110)** We're only doing it now because it serves our purposes in this test environment.
 >
@@ -3925,7 +3879,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dom (2), next (2), [[HTML]] (2), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[JavaScript]] (1)
 > **Code Identifiers:** mainnav (4), navlist (3), createelement (1), innerhtml (1), navcontent (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** html (2)
@@ -3939,8 +3893,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Variables: Containers for everything
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/variables-containers-for-everything?u=76281980)
+#### [Variables: Containers for everything](https://www.linkedin.com/learning/javascript-essential-training/variables-containers-for-everything?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3974,7 +3927,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/javascript-essential-training/variables-containers-for-everything?u=76281980&t=78)** It could even be a grouping of already defined and named objects like these different pens.
 >
-> **[1:25](https://www.linkedin.com/learning/javascript-essential-training/variables-containers-for-everything?u=76281980&t=85)** This process of creating containers and placing objects inside them is also the way JavaScript handles named objects.
+> **[1:25](https://www.linkedin.com/learning/javascript-essential-training/variables-containers-for-everything?u=76281980&t=85)** This process of creating containers and placing objects inside them is also the way [[JavaScript]] handles named objects.
 >
 > **[1:33](https://www.linkedin.com/learning/javascript-essential-training/variables-containers-for-everything?u=76281980&t=93)** Anytime we need to refer to some piece of data, we first create a container called a variable and then set its contents using the equals symbol.
 >
@@ -3992,17 +3945,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (3), data (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3)
 > **Speakers:** - being (1)
 
-#### Var
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/var?u=76281980)
+#### [Var](https://www.linkedin.com/learning/javascript-essential-training/var?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/var?u=76281980&t=1)** - [Instructor] In this chapter, we'll take a step back and look at some fundamentals of JavaScript including variables, data types, and various operators.
+> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/var?u=76281980&t=1)** - [Instructor] In this chapter, we'll take a step back and look at some fundamentals of [[JavaScript]] including variables, data types, and various operators.
 >
-> **[0:08](https://www.linkedin.com/learning/javascript-essential-training/var?u=76281980&t=8)** For this purpose, have created the most basic of exercise files, a blank HTML document calling in a single JavaScript file.
+> **[0:08](https://www.linkedin.com/learning/javascript-essential-training/var?u=76281980&t=8)** For this purpose, have created the most basic of exercise files, a blank [[HTML]] document calling in a single JavaScript file.
 >
 > **[0:15](https://www.linkedin.com/learning/javascript-essential-training/var?u=76281980&t=15)** This gives us a good playground to experiment in the console.
 >
@@ -4084,15 +4036,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (5), [[JavaScript]] (3), data (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[HTML]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** html (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Scope
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/scope?u=76281980)
+#### [Scope](https://www.linkedin.com/learning/javascript-essential-training/scope?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4106,7 +4057,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/javascript-essential-training/scope?u=76281980&t=26)** Let me show you a practical example of how this works.
 >
-> **[0:29](https://www.linkedin.com/learning/javascript-essential-training/scope?u=76281980&t=29)** In the exercise files, I've set up these two boxes, ah, the color and the text in here, is populated using JavaScript.
+> **[0:29](https://www.linkedin.com/learning/javascript-essential-training/scope?u=76281980&t=29)** In the exercise files, I've set up these two boxes, ah, the color and the text in here, is populated using [[JavaScript]].
 >
 > **[0:37](https://www.linkedin.com/learning/javascript-essential-training/scope?u=76281980&t=37)** Looking at the script, it's straightforward, We set up a VAR, with the name color, and then we populated with a color in this click case, purple.
 >
@@ -4116,7 +4067,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/javascript-essential-training/scope?u=76281980&t=49)** Then we use query selector, to find the left, and right boxes.
 >
-> **[0:53](https://www.linkedin.com/learning/javascript-essential-training/scope?u=76281980&t=53)** And we populate the style property and the background property with the color, and also the inner HTML, with the same color value.
+> **[0:53](https://www.linkedin.com/learning/javascript-essential-training/scope?u=76281980&t=53)** And we populate the style property and the background property with the color, and also the inner [[HTML]], with the same color value.
 >
 > **[0:59](https://www.linkedin.com/learning/javascript-essential-training/scope?u=76281980&t=59)** So we can see that on the front end.
 >
@@ -4190,7 +4141,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (4), web (1), css (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[HTML]] (1)
 > **Env Vars:** var (6), mdn (1), css (1), html (1)
 > **Definitions:** defined as (1), known as (1), is a  (1)
 > **Prerequisites:** set up (3)
@@ -4199,8 +4150,7 @@ created: 2026-05-02
 > **Documentation:** mdn (1)
 > **Exercise Files:** exercise files (1)
 
-#### Let
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/let?u=76281980)
+#### [Let](https://www.linkedin.com/learning/javascript-essential-training/let?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4268,7 +4218,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/javascript-essential-training/let?u=76281980&t=163)** First of all, the box up here on the right-hand side is now green.
 >
-> **[2:47](https://www.linkedin.com/learning/javascript-essential-training/let?u=76281980&t=167)** That's the default color that was supplied before JavaScript intervened.
+> **[2:47](https://www.linkedin.com/learning/javascript-essential-training/let?u=76281980&t=167)** That's the default color that was supplied before [[JavaScript]] intervened.
 >
 > **[2:51](https://www.linkedin.com/learning/javascript-essential-training/let?u=76281980&t=171)** Secondly, in the console, it tells us: Uncaught ReferenceError: titleColor is not defined at script.js line 21.
 >
@@ -4313,8 +4263,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Best Practices:** rule of thumb (1)
 
-#### Const
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/const?u=76281980)
+#### [Const](https://www.linkedin.com/learning/javascript-essential-training/const?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4384,7 +4333,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1), data (1)
 > **File Paths:** script.js (1)
 > **Tools:** vs code (1)
 > **Definitions:** is a  (1)
@@ -4392,8 +4340,7 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data types
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/data-types?u=76281980)
+#### [Data types](https://www.linkedin.com/learning/javascript-essential-training/data-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4401,7 +4348,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/javascript-essential-training/data-types?u=76281980&t=3)** The next question is what can be put inside those variables?
 >
-> **[0:07](https://www.linkedin.com/learning/javascript-essential-training/data-types?u=76281980&t=7)** In JavaScript, the answer is pretty much anything.
+> **[0:07](https://www.linkedin.com/learning/javascript-essential-training/data-types?u=76281980&t=7)** In [[JavaScript]], the answer is pretty much anything.
 >
 > **[0:10](https://www.linkedin.com/learning/javascript-essential-training/data-types?u=76281980&t=10)** JavaScript is a weekly typed language meaning you don't have to declare what type of data goes into your variables you just fill the variable with whatever data you want and then JavaScript will identify or at least try to identify that data type for you.
 >
@@ -4417,7 +4364,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/javascript-essential-training/data-types?u=76281980&t=55)** That's the floating point right there we have bullions that's a true or false value.
 >
-> **[1:01](https://www.linkedin.com/learning/javascript-essential-training/data-types?u=76281980&t=61)** There is a no value so nothing saying that this value contains nothing it's just a clarity using the word null.
+> **[1:01](https://www.linkedin.com/learning/javascript-essential-training/data-types?u=76281980&t=61)** There is a no value so nothing saying that this value contains nothing it's just a clarity using the [[Microsoft Word|word]] null.
 >
 > **[1:09](https://www.linkedin.com/learning/javascript-essential-training/data-types?u=76281980&t=69)** We have two types of undefined one is when you create a variable but don't assign anything to it it automatically becomes undefined or if you want to you can actively assign the word undefined to a variable and that means the variable again is undefined.
 >
@@ -4441,7 +4388,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[JavaScript]] (5), next (2), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[JavaScript]] (5), [[Microsoft Word|Word]] (2)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (2)
 > **Cross-References:** in the next (1)
@@ -4449,12 +4396,11 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Assignment vs. comparison
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/assignment-vs-comparison?u=76281980)
+#### [Assignment vs. comparison](https://www.linkedin.com/learning/javascript-essential-training/assignment-vs-comparison?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/assignment-vs-comparison?u=76281980&t=1)** - [Instructor] You've probably noticed in JavaScript, the equal symbol is not used the same way we use it in math.
+> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/assignment-vs-comparison?u=76281980&t=1)** - [Instructor] You've probably noticed in [[JavaScript]], the equal symbol is not used the same way we use it in math.
 >
 > **[0:06](https://www.linkedin.com/learning/javascript-essential-training/assignment-vs-comparison?u=76281980&t=6)** In JavaScript, the equal symbol means assignment.
 >
@@ -4572,19 +4518,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (3), next (1), data (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3)
 > **Definitions:** is a  (5)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Math operators
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/math-operators?u=76281980)
+#### [Math operators](https://www.linkedin.com/learning/javascript-essential-training/math-operators?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-essential-training/math-operators?u=76281980&t=0)** - [Instructor] Computers are really good at computing as in doing math and in JavaScript, you'll often have to do math to convert or combine or subtract or multiply or divide values or do other things.
+> **[0:00](https://www.linkedin.com/learning/javascript-essential-training/math-operators?u=76281980&t=0)** - [Instructor] Computers are really good at computing as in doing math and in [[JavaScript]], you'll often have to do math to convert or combine or subtract or multiply or divide values or do other things.
 >
 > **[0:13](https://www.linkedin.com/learning/javascript-essential-training/math-operators?u=76281980&t=13)** For all of this we have standard arithmetic math operators.
 >
@@ -4726,7 +4671,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (8), next (3), power (2)
+> **Frameworks & Libraries:** [[JavaScript]] (8)
 > **Versions:** 1.25 (1), 3.2 (1), 6.25 (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Prerequisites:** set up (2)
@@ -4734,8 +4679,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge intro: Calculate sales tax
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/x-19265780?u=76281980)
+#### [Challenge intro: Calculate sales tax](https://www.linkedin.com/learning/javascript-essential-training/x-19265780?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4743,7 +4687,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/javascript-essential-training/x-19265780?u=76281980&t=8)** That's why they're called computers.
 >
-> **[0:10](https://www.linkedin.com/learning/javascript-essential-training/x-19265780?u=76281980&t=10)** And working with JavaScript, you'll often use math formulas to accomplish tasks.
+> **[0:10](https://www.linkedin.com/learning/javascript-essential-training/x-19265780?u=76281980&t=10)** And working with [[JavaScript]], you'll often use math formulas to accomplish tasks.
 >
 > **[0:15](https://www.linkedin.com/learning/javascript-essential-training/x-19265780?u=76281980&t=15)** In this challenge, you'll get to try this for yourself by creating a basic sales tax calculator for a store.
 >
@@ -4774,8 +4718,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Calculate sales tax
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/x?u=76281980)
+#### [Solution: Calculate sales tax](https://www.linkedin.com/learning/javascript-essential-training/x?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4831,13 +4774,13 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/javascript-essential-training/x?u=76281980&t=190)** So if I run it again, you'll get a different set of answers, but the code still works.
 >
-> **[3:14](https://www.linkedin.com/learning/javascript-essential-training/x?u=76281980&t=194)** And this demonstrates why we use JavaScript for this and why JavaScript is so useful.
+> **[3:14](https://www.linkedin.com/learning/javascript-essential-training/x?u=76281980&t=194)** And this demonstrates why we use [[JavaScript]] for this and why JavaScript is so useful.
 >
-> **[3:18](https://www.linkedin.com/learning/javascript-essential-training/x?u=76281980&t=198)** You can imagine this would be part of a larger shopping cart application where people add in products, the prices get calculated, the taxes get calculated, and output as they change what's in the cart.
+> **[3:18](https://www.linkedin.com/learning/javascript-essential-training/x?u=76281980&t=198)** You can imagine this would be part of a larger shopping cart application where people add in [[Microsoft Products|products]], the prices get calculated, the taxes get calculated, and output as they change what's in the cart.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (2), application (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Microsoft Products|Products]] (1)
 > **Env Vars:** gst (10), pst (8)
 > **Code Identifiers:** showtotals (4), beforetax (4), calculatetotal (3), taxgst (2), randomprices (1)
 > **Versions:** 3.99 (1), 4.51 (1)
@@ -4851,8 +4794,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Arrays explained
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/arrays-explained?u=76281980)
+#### [Arrays explained](https://www.linkedin.com/learning/javascript-essential-training/arrays-explained?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4868,7 +4810,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/javascript-essential-training/arrays-explained?u=76281980&t=39)** And there are a whole array of functions and methods to help us work with and manipulate these arrays to add or remove objects, find objects, reorder objects, et cetera.
 >
-> **[0:51](https://www.linkedin.com/learning/javascript-essential-training/arrays-explained?u=76281980&t=51)** In JavaScript, these methods have names like pop and push and shift that at first glance seem a bit strange, at least when you think of them as code, but when you see them in action in real life, they actually make a lot of sense.
+> **[0:51](https://www.linkedin.com/learning/javascript-essential-training/arrays-explained?u=76281980&t=51)** In [[JavaScript]], these methods have names like pop and push and shift that at first glance seem a bit strange, at least when you think of them as code, but when you see them in action in real life, they actually make a lot of sense.
 >
 > **[1:06](https://www.linkedin.com/learning/javascript-essential-training/arrays-explained?u=76281980&t=66)** Here, let me show you.
 >
@@ -4902,14 +4844,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (3), data (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** picture (1)
 > **Speakers:** - in (1)
 
-#### Arrays in code
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/arrays-in-code?u=76281980)
+#### [Arrays in code](https://www.linkedin.com/learning/javascript-essential-training/arrays-in-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4949,7 +4890,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/javascript-essential-training/arrays-in-code?u=76281980&t=111)** So I'll put in camera, save, and now when I expand again you'll see the third item, index number two, is set to camera instead.
 >
-> **[2:01](https://www.linkedin.com/learning/javascript-essential-training/arrays-in-code?u=76281980&t=121)** So even though the original slot was a number, I can swap it out for a string or anything else at any time because Java Script does not care about the data type inside any of these slots.
+> **[2:01](https://www.linkedin.com/learning/javascript-essential-training/arrays-in-code?u=76281980&t=121)** So even though the original slot was a number, I can swap it out for a string or anything else at any time because [[Java]] Script does not care about the data type inside any of these slots.
 >
 > **[2:13](https://www.linkedin.com/learning/javascript-essential-training/arrays-in-code?u=76281980&t=133)** Just like you can place any data type inside a variable, you can place any data type inside any slot in an array.
 >
@@ -4991,7 +4932,7 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/javascript-essential-training/arrays-in-code?u=76281980&t=245)** There's nothing in there and we can't pull anything out, but we can assign new values to them at any time because, like I said, Java Script doesn't care if we mix data types, so we can swap out a undefined for anything else.
 >
-> **[4:17](https://www.linkedin.com/learning/javascript-essential-training/arrays-in-code?u=76281980&t=257)** What you see here is arrays are an extremely flexible data storage method.
+> **[4:17](https://www.linkedin.com/learning/javascript-essential-training/arrays-in-code?u=76281980&t=257)** What you see here is arrays are an extremely flexible [[Data Storage]] method.
 >
 > **[4:23](https://www.linkedin.com/learning/javascript-essential-training/arrays-in-code?u=76281980&t=263)** We can very quickly access content, we can add new content, we can replace content, and pretty much do whatever we want with it.
 >
@@ -4999,18 +4940,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Java]] (2), next (2)
+> **Frameworks & Libraries:** [[Java]] (2), [[Data Storage]] (1)
 > **Analogies:** just like (1), for example (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Array methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/array-methods?u=76281980)
+#### [Array methods](https://www.linkedin.com/learning/javascript-essential-training/array-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/array-methods?u=76281980&t=1)** - [Instructor] Arrays are used a lot in JavaScript.
+> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/array-methods?u=76281980&t=1)** - [Instructor] Arrays are used a lot in [[JavaScript]].
 >
 > **[0:03](https://www.linkedin.com/learning/javascript-essential-training/array-methods?u=76281980&t=3)** So there's a whole array of array methods to do things with arrays and their contents.
 >
@@ -5170,7 +5110,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Code Identifiers:** backpackcontents (5)
 > **CLI Commands:** find (2)
 > **Env Vars:** mdn (2)
@@ -5179,12 +5119,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
 
-#### Challenge intro: Array manipulation
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/x-19268772?u=76281980)
+#### [Challenge intro: Array manipulation](https://www.linkedin.com/learning/javascript-essential-training/x-19268772?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-essential-training/x-19268772?u=76281980&t=0)** - [Instructor] Arrays are used all the time in JavaScript and having a good handle on array manipulation gives you the capability to make arrays work for you.
+> **[0:00](https://www.linkedin.com/learning/javascript-essential-training/x-19268772?u=76281980&t=0)** - [Instructor] Arrays are used all the time in [[JavaScript]] and having a good handle on array manipulation gives you the capability to make arrays work for you.
 >
 > **[0:13](https://www.linkedin.com/learning/javascript-essential-training/x-19268772?u=76281980&t=13)** In this challenge, you're given an array called desk array that has a bunch of items.
 >
@@ -5220,7 +5159,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (2), next (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2)
 > **CLI Commands:** find (3), make (1)
 > **UI Navigation:** go to (1), scroll down (1)
 > **Env Vars:** usb (1)
@@ -5228,8 +5167,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Array manipulation
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/x-19267807?u=76281980)
+#### [Solution: Array manipulation](https://www.linkedin.com/learning/javascript-essential-training/x-19267807?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5307,7 +5245,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** newdeskarr (9), usbindex (3), indexof (2), laptopindex (2), processarray (1)
 > **CLI Commands:** find (5)
 > **Env Vars:** usb (3)
@@ -5315,14 +5252,14 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
+> **Non-Speech:** (upbeat music) (1)
 
 
 ### 8. Functions and Methods
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The real-world function
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/the-real-world-function?u=76281980)
+#### [The real-world function](https://www.linkedin.com/learning/javascript-essential-training/the-real-world-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5368,28 +5305,27 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/javascript-essential-training/the-real-world-function?u=76281980&t=146)** We have to explicitly explain what we mean by sort, what factors should be considered when creating an order for the items and what procedure to use to go through each of the items to get the actual sorting right.
 >
-> **[2:40](https://www.linkedin.com/learning/javascript-essential-training/the-real-world-function?u=76281980&t=160)** In this chapter, we'll dive deep into the world of functions and methods in JavaScript to figure out how they work and what we can do with them.
+> **[2:40](https://www.linkedin.com/learning/javascript-essential-training/the-real-world-function?u=76281980&t=160)** In this chapter, we'll dive deep into the world of functions and methods in [[JavaScript]] to figure out how they work and what we can do with them.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Programming]] (2), business (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - sorting (1)
 
-#### Functions and methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/functions-and-methods?u=76281980)
+#### [Functions and methods](https://www.linkedin.com/learning/javascript-essential-training/functions-and-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/javascript-essential-training/functions-and-methods?u=76281980&t=1)** - [Narrator] So far in the course, we've mainly looked at data and how to handle it through objects and variables and arrays.
 >
-> **[0:07](https://www.linkedin.com/learning/javascript-essential-training/functions-and-methods?u=76281980&t=7)** But the main use of JavaScript is as a scripting language, meaning we use it to write programs.
+> **[0:07](https://www.linkedin.com/learning/javascript-essential-training/functions-and-methods?u=76281980&t=7)** But the main use of [[JavaScript]] is as a scripting language, meaning we use it to write programs.
 >
 > **[0:12](https://www.linkedin.com/learning/javascript-essential-training/functions-and-methods?u=76281980&t=12)** And that's what functions are for.
 >
-> **[0:14](https://www.linkedin.com/learning/javascript-essential-training/functions-and-methods?u=76281980&t=14)** A word of note here.
+> **[0:14](https://www.linkedin.com/learning/javascript-essential-training/functions-and-methods?u=76281980&t=14)** A [[Microsoft Word|word]] of note here.
 >
 > **[0:15](https://www.linkedin.com/learning/javascript-essential-training/functions-and-methods?u=76281980&t=15)** The term function is typically used to refer to as a function that sits on itself whereas a method is a function that sits inside an object and acts on that object.
 >
@@ -5453,7 +5389,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/javascript-essential-training/functions-and-methods?u=76281980&t=175)** Instead, we place it inside a variable and then we call the variable.
 >
-> **[2:59](https://www.linkedin.com/learning/javascript-essential-training/functions-and-methods?u=76281980&t=179)** This pattern of using a function expression has become the preferred way of declaring functions in JavaScript frameworks like react.
+> **[2:59](https://www.linkedin.com/learning/javascript-essential-training/functions-and-methods?u=76281980&t=179)** This pattern of using a function expression has become the preferred way of declaring functions in JavaScript frameworks like [[React.js|react]].
 >
 > **[3:06](https://www.linkedin.com/learning/javascript-essential-training/functions-and-methods?u=76281980&t=186)** And the current best practice is to place function expressions inside a const.
 >
@@ -5531,7 +5467,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[JavaScript]] (3), [[Scripting]] (1), [[Microsoft Word|Word]] (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[Microsoft Word|Word]] (1), [[React.js|React]] (1)
 > **Definitions:** is a  (4)
 > **Env Vars:** var (1), nan (1), iife (1)
 > **CLI Commands:** make (1)
@@ -5540,8 +5476,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
-#### A standard function
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/a-standard-function?u=76281980)
+#### [A standard function](https://www.linkedin.com/learning/javascript-essential-training/a-standard-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5553,11 +5488,11 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/javascript-essential-training/a-standard-function?u=76281980&t=22)** At the top, there is a standard object named 'greenPack' with some basic properties.
 >
-> **[0:28](https://www.linkedin.com/learning/javascript-essential-training/a-standard-function?u=76281980&t=28)** Then towards the bottom, we have a constant called 'main,' containing the main element of the HTML document, and we use the append method to append some content to that main element.
+> **[0:28](https://www.linkedin.com/learning/javascript-essential-training/a-standard-function?u=76281980&t=28)** Then towards the bottom, we have a constant called 'main,' containing the main element of the [[HTML]] document, and we use the append method to append some content to that main element.
 >
 > **[0:40](https://www.linkedin.com/learning/javascript-essential-training/a-standard-function?u=76281980&t=40)** That content is displayed using this function expression called 'addPack.'
 >
-> **[0:45](https://www.linkedin.com/learning/javascript-essential-training/a-standard-function?u=76281980&t=45)** So now we can look at how the function interacts with the rest of the content.
+> **[0:45](https://www.linkedin.com/learning/javascript-essential-training/a-standard-function?u=76281980&t=45)** So now we can look at how the function interacts with the [[Representational State Transfer (REST)|rest]] of the content.
 >
 > **[0:49](https://www.linkedin.com/learning/javascript-essential-training/a-standard-function?u=76281980&t=49)** First off, this is a function expression, meaning we have set up a constant.
 >
@@ -5629,7 +5564,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), [[Representational State Transfer (REST)|Rest]] (1), generic (1), data (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** greenpack (3), addpack (2), currentpack (2), thearticle (2), createelement (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Prerequisites:** set up (3)
@@ -5637,12 +5572,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### The arrow function
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/the-arrow-function?u=76281980)
+#### [The arrow function](https://www.linkedin.com/learning/javascript-essential-training/the-arrow-function?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-essential-training/the-arrow-function?u=76281980&t=0)** - [Instructor] In modern JavaScript, it's more and more common to use arrow functions in place of regular function expressions.
+> **[0:00](https://www.linkedin.com/learning/javascript-essential-training/the-arrow-function?u=76281980&t=0)** - [Instructor] In modern [[JavaScript]], it's more and more common to use arrow functions in place of regular function expressions.
 >
 > **[0:07](https://www.linkedin.com/learning/javascript-essential-training/the-arrow-function?u=76281980&t=7)** Arrow functions are a shorter way of writing function expressions, and they also have some special properties, we can take advantage of.
 >
@@ -5746,7 +5680,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (2), web (2)
+> **Frameworks & Libraries:** [[JavaScript]] (2)
 > **Code Identifiers:** currentpack (2), addpack (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** mdn (2)
@@ -5754,8 +5688,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Arrow functions and "this"
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/arrow-functions-and-this?u=76281980)
+#### [Arrow functions and "this"](https://www.linkedin.com/learning/javascript-essential-training/arrow-functions-and-this?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5861,12 +5794,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Practice: Build a function
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/practice-build-a-function?u=76281980)
+#### [Practice: Build a function](https://www.linkedin.com/learning/javascript-essential-training/practice-build-a-function?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/practice-build-a-function?u=76281980&t=1)** - Functions are an integral part of JavaScript.
+> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/practice-build-a-function?u=76281980&t=1)** - Functions are an integral part of [[JavaScript]].
 >
 > **[0:04](https://www.linkedin.com/learning/javascript-essential-training/practice-build-a-function?u=76281980&t=4)** And as you've seen, there are several different ways of declaring a function.
 >
@@ -5900,13 +5832,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (1), dom (1), next (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** dom (1)
 > **Speakers:** - functions (1)
 
-#### Pass data to a function with parameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/pass-data-to-a-function-with-parameters?u=76281980)
+#### [Pass data to a function with parameters](https://www.linkedin.com/learning/javascript-essential-training/pass-data-to-a-function-with-parameters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6050,7 +5981,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5)
 > **CLI Commands:** make (3)
 > **Versions:** 29.95 (2)
 > **Exercise Files:** template (1)
@@ -6058,8 +5988,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Return values from a function
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/return-values-from-a-function?u=76281980)
+#### [Return values from a function](https://www.linkedin.com/learning/javascript-essential-training/return-values-from-a-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6085,7 +6014,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/javascript-essential-training/return-values-from-a-function?u=76281980&t=58)** In the exercise files for this movie, I've reduced our example down to the bare minimum again, because we don't need to pass in a currency symbol and then say before or after, instead we're going to have an automated function do that for us.
 >
-> **[1:14](https://www.linkedin.com/learning/javascript-essential-training/return-values-from-a-function?u=76281980&t=74)** Now, remember how I said, JavaScript has a bunch of global objects that we can use to perform common functions.
+> **[1:14](https://www.linkedin.com/learning/javascript-essential-training/return-values-from-a-function?u=76281980&t=74)** Now, remember how I said, [[JavaScript]] has a bunch of global objects that we can use to perform common functions.
 >
 > **[1:20](https://www.linkedin.com/learning/javascript-essential-training/return-values-from-a-function?u=76281980&t=80)** One of those functions is to transform a number into an internationalized number format.
 >
@@ -6216,16 +6145,15 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Practice: Pass values between functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/practice-pass-values-between-functions?u=76281980)
+#### [Practice: Pass values between functions](https://www.linkedin.com/learning/javascript-essential-training/practice-pass-values-between-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/practice-pass-values-between-functions?u=76281980&t=1)** - Passing data to and returning data from functions changes a function from a basic, single purpose tool to an entire factory for data manipulation.
+> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/practice-pass-values-between-functions?u=76281980&t=1)** - Passing data to and returning data from functions changes a function from a basic, single purpose tool to an entire factory for [[Data Manipulation]].
 >
 > **[0:10](https://www.linkedin.com/learning/javascript-essential-training/practice-pass-values-between-functions?u=76281980&t=10)** In this practice assignment, you'll get to play with passing data back and forth between functions to create more efficient and reusable code.
 >
-> **[0:18](https://www.linkedin.com/learning/javascript-essential-training/practice-pass-values-between-functions?u=76281980&t=18)** This is sort of a lead-up to how we work with components in JavaScript frameworks.
+> **[0:18](https://www.linkedin.com/learning/javascript-essential-training/practice-pass-values-between-functions?u=76281980&t=18)** This is sort of a lead-up to how we work with components in [[JavaScript]] frameworks.
 >
 > **[0:23](https://www.linkedin.com/learning/javascript-essential-training/practice-pass-values-between-functions?u=76281980&t=23)** So getting your mind on this track here and now will help you in the future as you continue on your learning journey.
 >
@@ -6233,7 +6161,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/javascript-essential-training/practice-pass-values-between-functions?u=76281980&t=31)** Writing markup for images quickly becomes clunky, especially if you wrap your images in a figure tag and add a figcaption or you use responsive images markup.
 >
-> **[0:41](https://www.linkedin.com/learning/javascript-essential-training/practice-pass-values-between-functions?u=76281980&t=41)** In the practice files, you'll find a basic html page with a main container.
+> **[0:41](https://www.linkedin.com/learning/javascript-essential-training/practice-pass-values-between-functions?u=76281980&t=41)** In the practice files, you'll find a basic [[HTML]] page with a main container.
 >
 > **[0:46](https://www.linkedin.com/learning/javascript-essential-training/practice-pass-values-between-functions?u=76281980&t=46)** Using everything you've learned so far, I want you to create two functions, one dependent on the other, to output some data from a custom object.
 >
@@ -6263,15 +6191,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[JavaScript]] (2), [[Data Manipulation]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Data Manipulation]] (1), [[HTML]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** uri (2)
 > **Definitions:** is a  (1), is called (1)
 > **Code Identifiers:** queryselector (1)
 > **Speakers:** - passing (1)
 
-#### Callbacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/callbacks?u=76281980)
+#### [Callbacks](https://www.linkedin.com/learning/javascript-essential-training/callbacks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6287,7 +6214,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/javascript-essential-training/callbacks?u=76281980&t=40)** This object uses the format or function we created previously to format the number values and nothing is new here, except for that object.
 >
-> **[0:50](https://www.linkedin.com/learning/javascript-essential-training/callbacks?u=76281980&t=50)** What is new is directly above here is this new callback function called print HTML that receives the final tip object.
+> **[0:50](https://www.linkedin.com/learning/javascript-essential-training/callbacks?u=76281980&t=50)** What is new is directly above here is this new callback function called print [[HTML]] that receives the final tip object.
 >
 > **[0:59](https://www.linkedin.com/learning/javascript-essential-training/callbacks?u=76281980&t=59)** The idea here is I want this print HTML callback function to output an HTML table that appends to the main and the document so we can see the results of the tip calculator in the browser over here.
 >
@@ -6343,7 +6270,7 @@ created: 2026-05-02
 >
 > **[4:36](https://www.linkedin.com/learning/javascript-essential-training/callbacks?u=76281980&t=276)** So we're effectively saying here is the precise function I want you to use once you're done processing your information right now but later it could be a different function.
 >
-> **[4:47](https://www.linkedin.com/learning/javascript-essential-training/callbacks?u=76281980&t=287)** Like I said callbacks are a traditional way of handling this and in modern code, we also have more modern tools like promises that can do something similar but you'll see this pattern all the time when you work with JavaScript where you call in a function or call back a function and then get a value.
+> **[4:47](https://www.linkedin.com/learning/javascript-essential-training/callbacks?u=76281980&t=287)** Like I said callbacks are a traditional way of handling this and in modern code, we also have more modern tools like promises that can do something similar but you'll see this pattern all the time when you work with [[JavaScript]] where you call in a function or call back a function and then get a value.
 >
 > **[5:04](https://www.linkedin.com/learning/javascript-essential-training/callbacks?u=76281980&t=304)** You'll also see this pattern and other types of features.
 >
@@ -6353,7 +6280,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (14), data (2), [[JavaScript]] (2)
+> **Frameworks & Libraries:** [[HTML]] (14), [[JavaScript]] (2)
 > **Env Vars:** html (14), nok (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -6362,8 +6289,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Conditional if...else statement
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/conditional-if-else-statement?u=76281980)
+#### [Conditional if...else statement](https://www.linkedin.com/learning/javascript-essential-training/conditional-if-else-statement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6373,7 +6299,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/javascript-essential-training/conditional-if-else-statement?u=76281980&t=7)** If not, then do the other thing.
 >
-> **[0:09](https://www.linkedin.com/learning/javascript-essential-training/conditional-if-else-statement?u=76281980&t=9)** The if else statement is the most basic and probably most used conditional statement in JavaScript and most other programming languages.
+> **[0:09](https://www.linkedin.com/learning/javascript-essential-training/conditional-if-else-statement?u=76281980&t=9)** The if else statement is the most basic and probably most used conditional statement in [[JavaScript]] and most other programming languages.
 >
 > **[0:17](https://www.linkedin.com/learning/javascript-essential-training/conditional-if-else-statement?u=76281980&t=17)** So let's take a closer look at how this works 'cause you'll use it all the time.
 >
@@ -6507,7 +6433,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2), [[JavaScript]] (1), express (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Exercise Files:** template (2), exercise files (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1), find (1)
@@ -6516,8 +6442,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
-#### Logical operators
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/logical-operators?u=76281980)
+#### [Logical operators](https://www.linkedin.com/learning/javascript-essential-training/logical-operators?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6587,8 +6512,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Conditional switch statement
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/conditional-switch-statement?u=76281980)
+#### [Conditional switch statement](https://www.linkedin.com/learning/javascript-essential-training/conditional-switch-statement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6634,7 +6558,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/javascript-essential-training/conditional-switch-statement?u=76281980&t=90)** As this example on MDN shows, switches typically used for literal matching.
 >
-> **[1:35](https://www.linkedin.com/learning/javascript-essential-training/conditional-switch-statement?u=76281980&t=95)** So here we're looking for the word papayas and then when we hit the word papayas, we output the content.
+> **[1:35](https://www.linkedin.com/learning/javascript-essential-training/conditional-switch-statement?u=76281980&t=95)** So here we're looking for the [[Microsoft Word|word]] papayas and then when we hit the word papayas, we output the content.
 >
 > **[1:42](https://www.linkedin.com/learning/javascript-essential-training/conditional-switch-statement?u=76281980&t=102)** But we can also use this same switch expression to test for ranges or testing for different conditions by coming at the problem from a slightly different angle.
 >
@@ -6726,7 +6650,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **Prerequisites:** set up (3)
 > **Env Vars:** mdn (1)
 > **Documentation:** mdn (1)
@@ -6735,12 +6659,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Looping through content
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/looping-through-content?u=76281980)
+#### [Looping through content](https://www.linkedin.com/learning/javascript-essential-training/looping-through-content?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/looping-through-content?u=76281980&t=1)** - [Instructor] JavaScript gives us several different statements and methods for repeating a process over and over or looping through arrays and nested objects.
+> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/looping-through-content?u=76281980&t=1)** - [Instructor] [[JavaScript]] gives us several different statements and methods for repeating a process over and over or looping through arrays and nested objects.
 >
 > **[0:09](https://www.linkedin.com/learning/javascript-essential-training/looping-through-content?u=76281980&t=9)** Common to all of them is we first specify under what conditions the loop or iteration should run in the statement declaration.
 >
@@ -6814,7 +6737,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/javascript-essential-training/looping-through-content?u=76281980&t=213)** So here we pass an actual function using the item as the parameter and then we can deal with the item inside that function.
 >
-> **[3:41](https://www.linkedin.com/learning/javascript-essential-training/looping-through-content?u=76281980&t=221)** The difference between using a for each method and using the for of statement is in the for each method we are actively working on the item itself in functional programming.
+> **[3:41](https://www.linkedin.com/learning/javascript-essential-training/looping-through-content?u=76281980&t=221)** The difference between using a for each method and using the for of statement is in the for each method we are actively working on the item itself in [[Functional Programming]].
 >
 > **[3:50](https://www.linkedin.com/learning/javascript-essential-training/looping-through-content?u=76281980&t=230)** We're using a function to do something with the item instead of just naming the item and then performing some actions around it.
 >
@@ -6856,19 +6779,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (3), hit (2), [[Functional Programming]] (1), next (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[Functional Programming]] (1)
 > **Env Vars:** url (3)
 > **Prerequisites:** set up (2)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the map() array method
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/using-the-map-array-method?u=76281980)
+#### [Using the map() array method](https://www.linkedin.com/learning/javascript-essential-training/using-the-map-array-method?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/using-the-map-array-method?u=76281980&t=1)** - [Instructor] The map method for arrays to serve special mention because it is heavily used when working with complex lists of data and when using frameworks like React.
+> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/using-the-map-array-method?u=76281980&t=1)** - [Instructor] The map method for arrays to serve special mention because it is heavily used when working with complex lists of data and when using frameworks like [[React.js|React]].
 >
 > **[0:10](https://www.linkedin.com/learning/javascript-essential-training/using-the-map-array-method?u=76281980&t=10)** The map method takes an existing array, then does something to each of the items in the array and returns each of those items into a new array.
 >
@@ -6948,7 +6870,7 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/javascript-essential-training/using-the-map-array-method?u=76281980&t=240)** Now that you know how to use the map method, a caveat.
 >
-> **[4:03](https://www.linkedin.com/learning/javascript-essential-training/using-the-map-array-method?u=76281980&t=243)** You'll see the map method used a lot in modern JavaScript especially in JavaScript frameworks.
+> **[4:03](https://www.linkedin.com/learning/javascript-essential-training/using-the-map-array-method?u=76281980&t=243)** You'll see the map method used a lot in modern [[JavaScript]] especially in JavaScript frameworks.
 >
 > **[4:09](https://www.linkedin.com/learning/javascript-essential-training/using-the-map-array-method?u=76281980&t=249)** And a lot of the time it's used to just iterate through an array just like we did with the foreach method.
 >
@@ -6970,7 +6892,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[JavaScript]] (2), [[React.js|React]] (1), dom (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[React.js|React]] (1)
 > **Code Identifiers:** stuffitems (5), listitem (1), indexhtml (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** dom (1)
@@ -6979,12 +6901,11 @@ created: 2026-05-02
 > **Warnings:** caveat (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge intro: Create a content factory
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/x-19264907?u=76281980)
+#### [Challenge intro: Create a content factory](https://www.linkedin.com/learning/javascript-essential-training/x-19264907?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-essential-training/x-19264907?u=76281980&t=0)** - [Instructor] When you build websites and applications, you'll often use JavaScript to pull data from a source in the form of structured objects and then use the data within those objects to populate HTML to be displayed in the browser.
+> **[0:00](https://www.linkedin.com/learning/javascript-essential-training/x-19264907?u=76281980&t=0)** - [Instructor] When you build websites and applications, you'll often use [[JavaScript]] to pull data from a source in the form of structured objects and then use the data within those objects to populate [[HTML]] to be displayed in the browser.
 >
 > **[0:17](https://www.linkedin.com/learning/javascript-essential-training/x-19264907?u=76281980&t=17)** This challenge lets you experiment with this scenario by creating a content factory function.
 >
@@ -7024,15 +6945,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[HTML]] (2), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[JavaScript]] (1)
 > **Code Identifiers:** everydaypack (3), frogpack (2), backpackobjectarray (1), backpackage (1), createbackupmarkup (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** html (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Create a content factory
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/x-19269748?u=76281980)
+#### [Solution: Create a content factory](https://www.linkedin.com/learning/javascript-essential-training/x-19269748?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7044,7 +6964,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/javascript-essential-training/x-19269748?u=76281980&t=13)** This will be our content factory.
 >
-> **[0:16](https://www.linkedin.com/learning/javascript-essential-training/x-19269748?u=76281980&t=16)** What we need to do is grab the backpack object array and then iterate through each of the items and generate HTML for the data within each of the items and then somehow return that.
+> **[0:16](https://www.linkedin.com/learning/javascript-essential-training/x-19269748?u=76281980&t=16)** What we need to do is grab the backpack object array and then iterate through each of the items and generate [[HTML]] for the data within each of the items and then somehow return that.
 >
 > **[0:26](https://www.linkedin.com/learning/javascript-essential-training/x-19269748?u=76281980&t=26)** And if we look inside create backpack markup right now, you'll notice we're sort of partway there already.
 >
@@ -7154,7 +7074,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (8), data (1)
+> **Frameworks & Libraries:** [[HTML]] (8)
 > **Env Vars:** html (8)
 > **Prerequisites:** set up (5)
 > **CLI Commands:** make (1), find (1)
@@ -7167,8 +7087,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### DOM events explained
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/dom-events-explained?u=76281980)
+#### [DOM events explained](https://www.linkedin.com/learning/javascript-essential-training/dom-events-explained?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7204,20 +7123,19 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/javascript-essential-training/dom-events-explained?u=76281980&t=78)** Each of these events and others like it can have their own custom functions attached to them specifying exactly what happens when the event is captured.
 >
-> **[1:27](https://www.linkedin.com/learning/javascript-essential-training/dom-events-explained?u=76281980&t=87)** This process is called event handling, and it is key to JavaScript interactivity.
+> **[1:27](https://www.linkedin.com/learning/javascript-essential-training/dom-events-explained?u=76281980&t=87)** This process is called event handling, and it is key to [[JavaScript]] interactivity.
 >
 > **[1:33](https://www.linkedin.com/learning/javascript-essential-training/dom-events-explained?u=76281980&t=93)** In this chapter, we'll look at event handling in JavaScript with a special focus on DOM events.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (2), dom (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2)
 > **Env Vars:** dom (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is called (1)
 > **Speakers:** - this (1)
 
-#### Typical DOM events
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/typical-dom-events?u=76281980)
+#### [Typical DOM events](https://www.linkedin.com/learning/javascript-essential-training/typical-dom-events?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7225,7 +7143,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/javascript-essential-training/typical-dom-events?u=76281980&t=4)** Opening the browser is an event, visiting a URL is an event, moving your mouse or clicking it or touching your screen is an event, scrolling is an event, clicking the back and forth buttons in the browser or reloading the document or hitting a key on your keyboard, anything and everything that happens in the browser is an event.
 >
-> **[0:21](https://www.linkedin.com/learning/javascript-essential-training/typical-dom-events?u=76281980&t=21)** And with JavaScript, we can listen for those events then capture them when they happen and do stuff when they are triggered.
+> **[0:21](https://www.linkedin.com/learning/javascript-essential-training/typical-dom-events?u=76281980&t=21)** And with [[JavaScript]], we can listen for those events then capture them when they happen and do stuff when they are triggered.
 >
 > **[0:29](https://www.linkedin.com/learning/javascript-essential-training/typical-dom-events?u=76281980&t=29)** You can get a full breakdown of all available events in the MDN Event reference.
 >
@@ -7257,7 +7175,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/javascript-essential-training/typical-dom-events?u=76281980&t=139)** That's why when I click this button here we are toggling a class on and off and that class changes the color of the button.
 >
-> **[2:26](https://www.linkedin.com/learning/javascript-essential-training/typical-dom-events?u=76281980&t=146)** An event listener can be appended to any element within the window or the Document Object Model.
+> **[2:26](https://www.linkedin.com/learning/javascript-essential-training/typical-dom-events?u=76281980&t=146)** An event listener can be appended to any element within the window or the [[Document Object Model (DOM)|Document Object Model]].
 >
 > **[2:32](https://www.linkedin.com/learning/javascript-essential-training/typical-dom-events?u=76281980&t=152)** So, down here I have appended an event listener to the window object itself, that means everything that is happening inside the browser window and then I say, "For this entire window, add an event listener and trigger it anytime the mouse moves."
 >
@@ -7305,7 +7223,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (1), web (1), functional (1), [[Document Object Model (DOM)|Document object model]] (1), dom (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1), [[Document Object Model (DOM)|Document object model]] (1)
 > **Code Identifiers:** pagex (2), pagey (2), classlist (1), posx (1), posy (1)
 > **Definitions:** is an  (7), is a  (3)
 > **Env Vars:** url (1), mdn (1), cla (1), dom (1)
@@ -7314,8 +7232,7 @@ created: 2026-05-02
 > **Documentation:** mdn (1)
 > **Exercise Files:** exercise files (1)
 
-#### Event listeners
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/event-listeners?u=76281980)
+#### [Event listeners](https://www.linkedin.com/learning/javascript-essential-training/event-listeners?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7423,7 +7340,7 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/javascript-essential-training/event-listeners?u=76281980&t=237)** So here we have the button.
 >
-> **[3:58](https://www.linkedin.com/learning/javascript-essential-training/event-listeners?u=76281980&t=238)** Then we have the article, main, body, HTML document.
+> **[3:58](https://www.linkedin.com/learning/javascript-essential-training/event-listeners?u=76281980&t=238)** Then we have the article, main, body, [[HTML]] document.
 >
 > **[4:01](https://www.linkedin.com/learning/javascript-essential-training/event-listeners?u=76281980&t=241)** What I'm looking for is this one here: articlepack1.
 >
@@ -7479,7 +7396,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dom (4), next (1), feature (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **UI Navigation:** click on (4), toggle (2), open the (2), scroll down (2), go to (1)
 > **Code Identifiers:** innertext (3), backpackarticle (2), queryselector (2), backpack_lid (2), addeventlistener (1)
 > **Prerequisites:** set up (5)
@@ -7488,8 +7405,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1), is an  (1)
 > **Cross-References:** previous chapter (1)
 
-#### Practice: Experiment with event listeners
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/practice-experiment-with-event-listeners?u=76281980)
+#### [Practice: Experiment with event listeners](https://www.linkedin.com/learning/javascript-essential-training/practice-experiment-with-event-listeners?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7519,15 +7435,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dom (1), css (1)
 > **Env Vars:** css (1), mdn (1)
 > **Documentation:** mdn (1)
 > **UI Navigation:** click on (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - there (1)
 
-#### Advanced event listeners and "this"
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/advanced-event-listeners-and-this?u=76281980)
+#### [Advanced event listeners and "this"](https://www.linkedin.com/learning/javascript-essential-training/advanced-event-listeners-and-this?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7695,7 +7609,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2)
 > **Code Identifiers:** innertext (7)
 > **CLI Commands:** find (5), make (1)
 > **UI Navigation:** toggle (3), click on (1), open the (1), scroll up (1)
@@ -7703,8 +7616,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Pass arguments through event listeners
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/pass-arguments-through-event-listeners?u=76281980)
+#### [Pass arguments through event listeners](https://www.linkedin.com/learning/javascript-essential-training/pass-arguments-through-event-listeners?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7801,12 +7713,11 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge intro: Create an event listener
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/x-19270173?u=76281980)
+#### [Challenge intro: Create an event listener](https://www.linkedin.com/learning/javascript-essential-training/x-19270173?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-essential-training/x-19270173?u=76281980&t=0)** - [Instructor] When a JavaScript application has interactive elements like buttons, or scroll events, or similar features, they're typically triggered using event listeners.
+> **[0:00](https://www.linkedin.com/learning/javascript-essential-training/x-19270173?u=76281980&t=0)** - [Instructor] When a [[JavaScript]] application has interactive elements like buttons, or scroll events, or similar features, they're typically triggered using event listeners.
 >
 > **[0:14](https://www.linkedin.com/learning/javascript-essential-training/x-19270173?u=76281980&t=14)** In this challenge, you'll add event listeners to a list of form elements to allow the user to update fields in the document.
 >
@@ -7820,7 +7731,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/javascript-essential-training/x-19270173?u=76281980&t=47)** Your challenge is to set up the code so that if someone fills in any one of these fields and clicks on the update button for that field, the text updates as well, but only for that field.
 >
-> **[1:00](https://www.linkedin.com/learning/javascript-essential-training/x-19270173?u=76281980&t=60)** Because you can't see the output HTML, I've added it into the instructions here so you can scroll down and see how everything is structured.
+> **[1:00](https://www.linkedin.com/learning/javascript-essential-training/x-19270173?u=76281980&t=60)** Because you can't see the output [[HTML]], I've added it into the instructions here so you can scroll down and see how everything is structured.
 >
 > **[1:09](https://www.linkedin.com/learning/javascript-essential-training/x-19270173?u=76281980&t=69)** This will be good as reference as you're working.
 >
@@ -7830,7 +7741,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/javascript-essential-training/x-19270173?u=76281980&t=87)** So your challenge is to build the functionality to capture that click and make sure the information goes to the right place.
 >
-> **[1:35](https://www.linkedin.com/learning/javascript-essential-training/x-19270173?u=76281980&t=95)** Your task is to add an event listener to each of the four forms in the dom.
+> **[1:35](https://www.linkedin.com/learning/javascript-essential-training/x-19270173?u=76281980&t=95)** Your task is to add an event listener to each of the four [[Forms]] in the dom.
 >
 > **[1:40](https://www.linkedin.com/learning/javascript-essential-training/x-19270173?u=76281980&t=100)** That event listener should listen for a submit event on the form the click button belongs to.
 >
@@ -7848,7 +7759,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dom (4), [[JavaScript]] (1), application (1), [[HTML]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1), [[HTML]] (1), [[Forms]] (1)
 > **Env Vars:** dom (3), html (1)
 > **UI Navigation:** click on (2), scroll down (1)
 > **CLI Commands:** find (1), make (1)
@@ -7857,8 +7768,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Create an event listener
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/x-19268773?u=76281980)
+#### [Solution: Create an event listener](https://www.linkedin.com/learning/javascript-essential-training/x-19268773?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7868,11 +7778,11 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/javascript-essential-training/x-19268773?u=76281980&t=18)** I'll show you why before I show you the solution.
 >
-> **[0:21](https://www.linkedin.com/learning/javascript-essential-training/x-19268773?u=76281980&t=21)** We're working with a series of forms here, and when the user interacts with any of these forms we need to not only detect which button was clicked but which input field is associated with that button and which external paragraph with a span inside it is associated with that button so that the value that's put in the input field gets passed up into the span with the class value for the associated paragraph.
+> **[0:21](https://www.linkedin.com/learning/javascript-essential-training/x-19268773?u=76281980&t=21)** We're working with a series of [[Forms]] here, and when the user interacts with any of these forms we need to not only detect which button was clicked but which input field is associated with that button and which external paragraph with a span inside it is associated with that button so that the value that's put in the input field gets passed up into the span with the class value for the associated paragraph.
 >
 > **[0:48](https://www.linkedin.com/learning/javascript-essential-training/x-19268773?u=76281980&t=48)** That is not straightforward.
 >
-> **[0:50](https://www.linkedin.com/learning/javascript-essential-training/x-19268773?u=76281980&t=50)** The reason I've created this challenge is because this is a fairly common problem you'll encounter on the web, and understanding the logic of how to solve this kind of problem will help you as you move forward into your future with JavaScript.
+> **[0:50](https://www.linkedin.com/learning/javascript-essential-training/x-19268773?u=76281980&t=50)** The reason I've created this challenge is because this is a fairly common problem you'll encounter on the web, and understanding the logic of how to solve this kind of problem will help you as you move forward into your future with [[JavaScript]].
 >
 > **[1:04](https://www.linkedin.com/learning/javascript-essential-training/x-19268773?u=76281980&t=64)** So, let's work on the solution together.
 >
@@ -7910,7 +7820,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/javascript-essential-training/x-19268773?u=76281980&t=172)** Now we can identify which elements we need to work with.
 >
-> **[2:55](https://www.linkedin.com/learning/javascript-essential-training/x-19268773?u=76281980&t=175)** Looking back at the HTML you'll notice the button has this data-target attribute with the value name in it.
+> **[2:55](https://www.linkedin.com/learning/javascript-essential-training/x-19268773?u=76281980&t=175)** Looking back at the [[HTML]] you'll notice the button has this data-target attribute with the value name in it.
 >
 > **[3:02](https://www.linkedin.com/learning/javascript-essential-training/x-19268773?u=76281980&t=182)** Looking at the input field it has an ID name-input, and up at the paragraph it has an ID just name.
 >
@@ -7964,7 +7874,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Forms]] (4), dom (2), web (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Forms]] (4), [[JavaScript]] (1), [[HTML]] (1)
 > **Code Identifiers:** foreach (3), updateform (2), inputelement (2), getelementbyid (2), targetelement (2)
 > **Env Vars:** dom (2), html (1)
 > **Prerequisites:** set up (3)
@@ -7978,12 +7888,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Troubleshooting JavaScript in the browser
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/troubleshooting-javascript-in-the-browser?u=76281980)
+#### [Troubleshooting JavaScript in the browser](https://www.linkedin.com/learning/javascript-essential-training/troubleshooting-javascript-in-the-browser?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/troubleshooting-javascript-in-the-browser?u=76281980&t=1)** - [Instructor] Writing JavaScript is one thing.
+> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/troubleshooting-javascript-in-the-browser?u=76281980&t=1)** - [Instructor] Writing [[JavaScript]] is one thing.
 >
 > **[0:02](https://www.linkedin.com/learning/javascript-essential-training/troubleshooting-javascript-in-the-browser?u=76281980&t=2)** Getting it to work properly is quite another.
 >
@@ -8105,7 +8014,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (4), [[Troubleshooting]] (3), next (2)
+> **Frameworks & Libraries:** [[JavaScript]] (4)
 > **Code Identifiers:** listelement (3), straparray (2), newstraplength (1), foreach (1)
 > **UI Navigation:** click on (3), open the (2), go to (1)
 > **File Paths:** script.js (3)
@@ -8114,12 +8023,11 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
 
-#### Making sense of a React component
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/making-sense-of-a-react-component?u=76281980)
+#### [Making sense of a React component](https://www.linkedin.com/learning/javascript-essential-training/making-sense-of-a-react-component?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/making-sense-of-a-react-component?u=76281980&t=1)** - [Instructor] At the very beginning of the course, I said for a lot of people today, their first interaction with JavaScript is through a JavaScript Framework like React or Vue and I said, if you understand the fundamentals of JavaScript itself, you'll be able to understand what is going on inside a JavaScript Framework like React even if you don't know the framework or the framework specific language.
+> **[0:01](https://www.linkedin.com/learning/javascript-essential-training/making-sense-of-a-react-component?u=76281980&t=1)** - [Instructor] At the very beginning of the course, I said for a lot of people today, their first interaction with [[JavaScript]] is through a JavaScript Framework like [[React.js|React]] or [[Vue.js|Vue]] and I said, if you understand the fundamentals of JavaScript itself, you'll be able to understand what is going on inside a JavaScript Framework like React even if you don't know the framework or the framework specific language.
 >
 > **[0:21](https://www.linkedin.com/learning/javascript-essential-training/making-sense-of-a-react-component?u=76281980&t=21)** We started out by looking at this React component and now that we're at the end of the course we can revisit the same component to see what is going on so that you can see how all the things you've learned, apply to React as well.
 >
@@ -8203,13 +8111,13 @@ created: 2026-05-02
 >
 > **[4:36](https://www.linkedin.com/learning/javascript-essential-training/making-sense-of-a-react-component?u=76281980&t=276)** My point with all this is now that we've gone through all these different things in the course you can recognize all the pieces of this component, even though you've never touched React before, even though you don't know JSX and even though you may have never had experience working With JavaScript at all.
 >
-> **[4:52](https://www.linkedin.com/learning/javascript-essential-training/making-sense-of-a-react-component?u=76281980&t=292)** Understanding the fundamentals of JavaScript gives you the tools and language you need to be able to understand what is going on in JavaScript frameworks because JavaScript frameworks are built on top of Vanilla JavaScript.
+> **[4:52](https://www.linkedin.com/learning/javascript-essential-training/making-sense-of-a-react-component?u=76281980&t=292)** Understanding the fundamentals of JavaScript gives you the tools and language you need to be able to understand what is going on in JavaScript frameworks because JavaScript frameworks are built on top of [[Vanilla]] JavaScript.
 >
 > **[5:03](https://www.linkedin.com/learning/javascript-essential-training/making-sense-of-a-react-component?u=76281980&t=303)** Now you have the tools and you are ready to get started on your learning journey to extend your knowledge into JavaScript Frameworks as well.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (17), [[JavaScript]] (14), data (2), [[Vue.js|Vue]] (1), css (1)
+> **Frameworks & Libraries:** [[React.js|React]] (17), [[JavaScript]] (14), [[Vue.js|Vue]] (1), [[Vanilla]] (1)
 > **Definitions:** is an  (2), we call this (1), known as (1), is a  (1)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** imgwithclick (1), imgstyle (1), photoproptype (1), proptypes (1)
@@ -8223,22 +8131,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps on your learning journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/next-steps-on-your-learning-journey?u=76281980)
+#### [Next steps on your learning journey](https://www.linkedin.com/learning/javascript-essential-training/next-steps-on-your-learning-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/javascript-essential-training/next-steps-on-your-learning-journey?u=76281980&t=1)** - Oh right, you're still here.
 >
-> **[0:03](https://www.linkedin.com/learning/javascript-essential-training/next-steps-on-your-learning-journey?u=76281980&t=3)** As we wrap up, I wanted to tell you a short story about my learning journey with JavaScript for some inspiration as you embark on your own learning journey.
+> **[0:03](https://www.linkedin.com/learning/javascript-essential-training/next-steps-on-your-learning-journey?u=76281980&t=3)** As we wrap up, I wanted to tell you a short story about my learning journey with [[JavaScript]] for some inspiration as you embark on your own learning journey.
 >
 > **[0:12](https://www.linkedin.com/learning/javascript-essential-training/next-steps-on-your-learning-journey?u=76281980&t=12)** All the way back when I started working on the web, JavaScript was something we really didn't use all that much, partially because it wasn't all that useful, and partially because it was very tricky to use.
 >
 > **[0:24](https://www.linkedin.com/learning/javascript-essential-training/next-steps-on-your-learning-journey?u=76281980&t=24)** When years later I did start adding JavaScript to my sites, it was usually through jQuery or some other helper library, and it was still limited to minor interactions and features.
 >
-> **[0:35](https://www.linkedin.com/learning/javascript-essential-training/next-steps-on-your-learning-journey?u=76281980&t=35)** To be honest, I was actively resisting JavaScript for a very long time because it seemed way too abstracted from what I thought of as the real work of the web, writing proper semantic HTML and CSS.
+> **[0:35](https://www.linkedin.com/learning/javascript-essential-training/next-steps-on-your-learning-journey?u=76281980&t=35)** To be honest, I was actively resisting JavaScript for a very long time because it seemed way too abstracted from what I thought of as the real work of the web, writing proper semantic [[HTML]] and CSS.
 >
-> **[0:49](https://www.linkedin.com/learning/javascript-essential-training/next-steps-on-your-learning-journey?u=76281980&t=49)** That all changed when I realized I could use JavaScript to do things that were very hard or even impossible to do using HTML and server side frameworks like PHP.
+> **[0:49](https://www.linkedin.com/learning/javascript-essential-training/next-steps-on-your-learning-journey?u=76281980&t=49)** That all changed when I realized I could use JavaScript to do things that were very hard or even impossible to do using HTML and server side frameworks like [[PHP]].
 >
 > **[1:00](https://www.linkedin.com/learning/javascript-essential-training/next-steps-on-your-learning-journey?u=76281980&t=60)** That big epiphany for me came when I realized JavaScript allowed me to pull content from any data source as an object, and then do whatever I wanted with that object.
 >
@@ -8254,7 +8161,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/javascript-essential-training/next-steps-on-your-learning-journey?u=76281980&t=107)** Now that you are at the end of this course, you have a solid foundation from which to start your own learning journey in the wild and wonderful world of JavaScript.
 >
-> **[1:55](https://www.linkedin.com/learning/javascript-essential-training/next-steps-on-your-learning-journey?u=76281980&t=115)** We have a long list of more advanced courses on Vanilla JavaScript, on JavaScript frameworks like React and Vue, on REST APIs and GraphQL, and all the other things JavaScript brings to the table, and they are all ready and waiting for you to take the next steps.
+> **[1:55](https://www.linkedin.com/learning/javascript-essential-training/next-steps-on-your-learning-journey?u=76281980&t=115)** We have a long list of more advanced courses on [[Vanilla]] JavaScript, on JavaScript frameworks like [[React.js|React]] and [[Vue.js|Vue]], on [[Representational State Transfer (REST)|REST]] APIs and [[GraphQL]], and all the other things JavaScript brings to the table, and they are all ready and waiting for you to take the next steps.
 >
 > **[2:12](https://www.linkedin.com/learning/javascript-essential-training/next-steps-on-your-learning-journey?u=76281980&t=132)** I want to leave you with two insights.
 >
@@ -8296,7 +8203,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (19), web (4), [[HTML]] (3), css (2), data (2)
+> **Frameworks & Libraries:** [[JavaScript]] (19), [[HTML]] (3), [[PHP]] (1), [[Vanilla]] (1), [[React.js|React]] (1)
 > **Env Vars:** html (3), css (2), php (1), rest (1), mdn (1)
 > **CLI Commands:** php (1), make (1), go build (1)
 > **Code Identifiers:** jquery (1)

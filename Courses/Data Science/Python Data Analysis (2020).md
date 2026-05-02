@@ -102,14 +102,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Get started in data analysis with Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/get-started-in-data-analysis-with-python?u=76281980)
+#### [Get started in data analysis with Python](https://www.linkedin.com/learning/python-data-analysis-2020/get-started-in-data-analysis-with-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-data-analysis-2020/get-started-in-data-analysis-with-python?u=76281980&t=0)** - Data science, it powers so much of modern life, the internet, social media, artificial intelligence.
+> **[0:00](https://www.linkedin.com/learning/python-data-analysis-2020/get-started-in-data-analysis-with-python?u=76281980&t=0)** - [[Data Science]], it powers so much of modern life, the internet, social media, [[Artificial Intelligence (AI)|artificial intelligence]].
 >
-> **[0:08](https://www.linkedin.com/learning/python-data-analysis-2020/get-started-in-data-analysis-with-python?u=76281980&t=8)** But also on a personal level, the statistics from your Fitbit or the next song recommended by Pandora.
+> **[0:08](https://www.linkedin.com/learning/python-data-analysis-2020/get-started-in-data-analysis-with-python?u=76281980&t=8)** But also on a personal level, the [[Statistics]] from your Fitbit or the next song recommended by Pandora.
 >
 > **[0:13](https://www.linkedin.com/learning/python-data-analysis-2020/get-started-in-data-analysis-with-python?u=76281980&t=13)** And, truly, data science is driving a personal and social evolution.
 >
@@ -129,7 +128,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/python-data-analysis-2020/get-started-in-data-analysis-with-python?u=76281980&t=41)** My name is Michele Vallisneri, and I'm a research scientist at NASA.
 >
-> **[0:46](https://www.linkedin.com/learning/python-data-analysis-2020/get-started-in-data-analysis-with-python?u=76281980&t=46)** I use data science concepts and tools every day to analyze astronomy datasets, and my tool of choice is Python.
+> **[0:46](https://www.linkedin.com/learning/python-data-analysis-2020/get-started-in-data-analysis-with-python?u=76281980&t=46)** I use data science concepts and tools every day to analyze astronomy datasets, and my tool of choice is [[Python (Programming Language)|Python]].
 >
 > **[0:53](https://www.linkedin.com/learning/python-data-analysis-2020/get-started-in-data-analysis-with-python?u=76281980&t=53)** It's an expressive and pragmatic computer language that has its own spirit and style.
 >
@@ -145,7 +144,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/python-data-analysis-2020/get-started-in-data-analysis-with-python?u=76281980&t=87)** I will take you through the foundations of doing data analysis with Python.
 >
-> **[1:31](https://www.linkedin.com/learning/python-data-analysis-2020/get-started-in-data-analysis-with-python?u=76281980&t=91)** We will look at the most important programming constructs, data structures, and third party packages.
+> **[1:31](https://www.linkedin.com/learning/python-data-analysis-2020/get-started-in-data-analysis-with-python?u=76281980&t=91)** We will look at the most important programming constructs, [[Data Structures]], and third party packages.
 >
 > **[1:37](https://www.linkedin.com/learning/python-data-analysis-2020/get-started-in-data-analysis-with-python?u=76281980&t=97)** With this, you will be able to complete simple data analysis tasks, and you will be ready to move on to more advanced topics.
 >
@@ -155,47 +154,45 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Python (Programming Language)|Python]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Statistics]] (1), next (1)
+> **Frameworks & Libraries:** [[Data Science]] (5), [[Python (Programming Language)|Python]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Statistics]] (1), [[Data Structures]] (1)
 > **CLI Commands:** python (4)
 > **Env Vars:** nasa (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - data (1)
 
-#### What you need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/what-you-need-to-know?u=76281980)
+#### [What you need to know](https://www.linkedin.com/learning/python-data-analysis-2020/what-you-need-to-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-data-analysis-2020/what-you-need-to-know?u=76281980&t=0)** - Before getting started with this course, you want to have a basic working knowledge of programming in Python.
+> **[0:00](https://www.linkedin.com/learning/python-data-analysis-2020/what-you-need-to-know?u=76281980&t=0)** - Before getting started with this course, you want to have a basic working knowledge of programming in [[Python (Programming Language)|Python]].
 >
 > **[0:07](https://www.linkedin.com/learning/python-data-analysis-2020/what-you-need-to-know?u=76281980&t=7)** Although we will review the aspects of the language that are essential to any data analysis task, I will not teach you about every feature of Python that we will meet.
 >
 > **[0:17](https://www.linkedin.com/learning/python-data-analysis-2020/what-you-need-to-know?u=76281980&t=17)** It will also be helpful to have an understanding of basic mathematical and statistical concepts, for example logical operations, functions, averages, minima and maxima.
 >
-> **[0:28](https://www.linkedin.com/learning/python-data-analysis-2020/what-you-need-to-know?u=76281980&t=28)** If you are familiar with these topics I recommend you start with beginner level Python and statistics courses in the library or with a textbook that suits your learning style.
+> **[0:28](https://www.linkedin.com/learning/python-data-analysis-2020/what-you-need-to-know?u=76281980&t=28)** If you are familiar with these topics I recommend you start with beginner level Python and [[Statistics]] courses in the library or with a textbook that suits your learning style.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Programming]] (1), data (1), feature (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Statistics]] (1)
 > **CLI Commands:** python (3)
 > **Analogies:** for example (1)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - before (1)
 
-#### What's new in this update
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/what-s-new-in-this-update?u=76281980)
+#### [What's new in this update](https://www.linkedin.com/learning/python-data-analysis-2020/what-s-new-in-this-update?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-data-analysis-2020/what-s-new-in-this-update?u=76281980&t=0)** - This is a new version of this course in which I have incorporated user feedback from many learners like you.
 >
-> **[0:07](https://www.linkedin.com/learning/python-data-analysis-2020/what-s-new-in-this-update?u=76281980&t=7)** Like the original version this course covers the foundations of data analysis with Python, data structures and the num pi, pandas, and map log packages using practical, real world examples.
+> **[0:07](https://www.linkedin.com/learning/python-data-analysis-2020/what-s-new-in-this-update?u=76281980&t=7)** Like the original version this course covers the foundations of data analysis with [[Python (Programming Language)|Python]], [[Data Structures]] and the num pi, [[Pandas (Software)|pandas]], and map log packages using practical, real world examples.
 >
 > **[0:19](https://www.linkedin.com/learning/python-data-analysis-2020/what-s-new-in-this-update?u=76281980&t=19)** I have also updated the course to reflect changes in those modules and new useful features in recent versions of Python 3.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Python (Programming Language)|Python]] (2), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Data Structures]] (1), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** python (2)
 > **Versions:** python 3 (1)
 > **Definitions:** is a  (1)
@@ -206,16 +203,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Install Anaconda Python on OS X
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/install-anaconda-python-on-os-x?u=76281980)
+#### [Install Anaconda Python on OS X](https://www.linkedin.com/learning/python-data-analysis-2020/install-anaconda-python-on-os-x?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-data-analysis-2020/install-anaconda-python-on-os-x?u=76281980&t=0)** - [Instructor] For this course, we need an up to date installation of Python 3, and a few third party packages including Jupyter, NumPy, Pandas, and Matplotlib.
+> **[0:00](https://www.linkedin.com/learning/python-data-analysis-2020/install-anaconda-python-on-os-x?u=76281980&t=0)** - [Instructor] For this course, we need an up to date installation of [[Python (Programming Language)|Python]] 3, and a few third party packages including Jupyter, NumPy, [[Pandas (Software)|Pandas]], and Matplotlib.
 >
 > **[0:11](https://www.linkedin.com/learning/python-data-analysis-2020/install-anaconda-python-on-os-x?u=76281980&t=11)** In this video I show you how to install everything you need on MacOS 10.
 >
-> **[0:15](https://www.linkedin.com/learning/python-data-analysis-2020/install-anaconda-python-on-os-x?u=76281980&t=15)** If you are a Windows user, feel free to jump to the next video.
+> **[0:15](https://www.linkedin.com/learning/python-data-analysis-2020/install-anaconda-python-on-os-x?u=76281980&t=15)** If you are a [[Windows]] user, feel free to jump to the next video.
 >
 > **[0:20](https://www.linkedin.com/learning/python-data-analysis-2020/install-anaconda-python-on-os-x?u=76281980&t=20)** Later I will also show you how to use Python in the cloud using only your web browser.
 >
@@ -259,7 +255,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[Pandas (Software)|Pandas]] (2), [[Windows]] (1), next (1), cloud (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[Pandas (Software)|Pandas]] (2), [[Windows]] (1)
 > **CLI Commands:** python (10), find (1)
 > **Tools:** anaconda (4), jupyter (1), pycharm (1), terminal (1)
 > **Prerequisites:** install (5)
@@ -268,18 +264,17 @@ created: 2026-05-02
 > **URLs:** [anaconda.com](https://anaconda.com) (1)
 > **Env Vars:** ide (1)
 
-#### Install Anaconda Python on Windows
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/install-anaconda-python-on-windows?u=76281980)
+#### [Install Anaconda Python on Windows](https://www.linkedin.com/learning/python-data-analysis-2020/install-anaconda-python-on-windows?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-data-analysis-2020/install-anaconda-python-on-windows?u=76281980&t=0)** - [Narrator] For this course, we need an up to date installation of python three.
+> **[0:00](https://www.linkedin.com/learning/python-data-analysis-2020/install-anaconda-python-on-windows?u=76281980&t=0)** - [Narrator] For this course, we need an up to date installation of [[Python (Programming Language)|python]] three.
 >
 > **[0:04](https://www.linkedin.com/learning/python-data-analysis-2020/install-anaconda-python-on-windows?u=76281980&t=4)** And a few third party packages.
 >
-> **[0:06](https://www.linkedin.com/learning/python-data-analysis-2020/install-anaconda-python-on-windows?u=76281980&t=6)** Including jupyter notebook, numpy, pandas, and matplotlib.
+> **[0:06](https://www.linkedin.com/learning/python-data-analysis-2020/install-anaconda-python-on-windows?u=76281980&t=6)** Including jupyter notebook, numpy, [[Pandas (Software)|pandas]], and matplotlib.
 >
-> **[0:12](https://www.linkedin.com/learning/python-data-analysis-2020/install-anaconda-python-on-windows?u=76281980&t=12)** In this video, I show you how to install everything you need on Windows.
+> **[0:12](https://www.linkedin.com/learning/python-data-analysis-2020/install-anaconda-python-on-windows?u=76281980&t=12)** In this video, I show you how to install everything you need on [[Windows]].
 >
 > **[0:17](https://www.linkedin.com/learning/python-data-analysis-2020/install-anaconda-python-on-windows?u=76281980&t=17)** However, you can also experiment with Python in the cloud from your web browser.
 >
@@ -331,7 +326,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (11), [[Pandas (Software)|Pandas]] (2), prompt (2), [[Windows]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (11), [[Pandas (Software)|Pandas]] (2), [[Windows]] (1)
 > **CLI Commands:** python (11), find (1)
 > **Tools:** anaconda (4), jupyter (1)
 > **Prerequisites:** install (4), setup (1)
@@ -340,8 +335,7 @@ created: 2026-05-02
 > **URLs:** [anaconda.com](https://anaconda.com) (1)
 > **Exercise Files:** download the (1)
 
-#### Working with Jupyter Notebooks
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/working-with-jupyter-notebooks?u=76281980)
+#### [Working with Jupyter Notebooks](https://www.linkedin.com/learning/python-data-analysis-2020/working-with-jupyter-notebooks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -349,7 +343,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/python-data-analysis-2020/working-with-jupyter-notebooks?u=76281980&t=10)** You can even write formatted text and equations.
 >
-> **[0:13](https://www.linkedin.com/learning/python-data-analysis-2020/working-with-jupyter-notebooks?u=76281980&t=13)** This is my favorite way of using Python, because it lets me experiment with data and code, document my work, and go back to it later.
+> **[0:13](https://www.linkedin.com/learning/python-data-analysis-2020/working-with-jupyter-notebooks?u=76281980&t=13)** This is my favorite way of using [[Python (Programming Language)|Python]], because it lets me experiment with data and code, document my work, and go back to it later.
 >
 > **[0:21](https://www.linkedin.com/learning/python-data-analysis-2020/working-with-jupyter-notebooks?u=76281980&t=21)** You start Jupiter notebook from the Anaconda navigator, by clicking on launch.
 >
@@ -409,7 +403,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), data (1), web (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4)
 > **Tools:** jupyter (7), anaconda (2), terminal (1)
 > **CLI Commands:** python (4), find (1)
 > **Non-Speech:** (keyboard typing) (4)
@@ -418,8 +412,7 @@ created: 2026-05-02
 > **Env Vars:** enter (1)
 > **Cross-References:** go back to (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/using-the-exercise-files?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/python-data-analysis-2020/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -441,7 +434,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/python-data-analysis-2020/using-the-exercise-files?u=76281980&t=46)** In Chapter Five, I have included a subfolder named Downloaded.
 >
-> **[0:52](https://www.linkedin.com/learning/python-data-analysis-2020/using-the-exercise-files?u=76281980&t=52)** These are files that we will download from the web using Python, but I am including them here in case something goes wrong with the download.
+> **[0:52](https://www.linkedin.com/learning/python-data-analysis-2020/using-the-exercise-files?u=76281980&t=52)** These are files that we will download from the web using [[Python (Programming Language)|Python]], but I am including them here in case something goes wrong with the download.
 >
 > **[1:02](https://www.linkedin.com/learning/python-data-analysis-2020/using-the-exercise-files?u=76281980&t=62)** We open a notebook by finding it within the Jupyter Notebook file browser and clicking on it.
 >
@@ -451,28 +444,27 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), web (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Tools:** jupyter (3)
 > **CLI Commands:** make (1), python (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using Python in the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/using-python-in-the-cloud?u=76281980)
+#### [Using Python in the cloud](https://www.linkedin.com/learning/python-data-analysis-2020/using-python-in-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-data-analysis-2020/using-python-in-the-cloud?u=76281980&t=0)** - [Instructor] An exciting, recent development in the Python ecosystem is that it has become possible to run notebooks in the cloud using services such as Google Colaboratory and Microsoft Azure Notebooks.
+> **[0:00](https://www.linkedin.com/learning/python-data-analysis-2020/using-python-in-the-cloud?u=76281980&t=0)** - [Instructor] An exciting, recent development in the [[Python (Programming Language)|Python]] ecosystem is that it has become possible to run notebooks in the cloud using services such as [[Google]] Colaboratory and [[Microsoft Azure]] Notebooks.
 >
 > **[0:14](https://www.linkedin.com/learning/python-data-analysis-2020/using-python-in-the-cloud?u=76281980&t=14)** With both, you get a rather functional environment for free.
 >
-> **[0:19](https://www.linkedin.com/learning/python-data-analysis-2020/using-python-in-the-cloud?u=76281980&t=19)** If you'd like to follow along with this course using Python in the cloud, I suggest you use Azure Notebooks.
+> **[0:19](https://www.linkedin.com/learning/python-data-analysis-2020/using-python-in-the-cloud?u=76281980&t=19)** If you'd like to follow along with this course using Python in the cloud, I suggest you use [[Microsoft Azure|Azure]] Notebooks.
 >
 > **[0:26](https://www.linkedin.com/learning/python-data-analysis-2020/using-python-in-the-cloud?u=76281980&t=26)** Let me show you how to.
 >
 > **[0:28](https://www.linkedin.com/learning/python-data-analysis-2020/using-python-in-the-cloud?u=76281980&t=28)** We start at notebooks.[azure.com](https://azure.com).
 >
-> **[0:32](https://www.linkedin.com/learning/python-data-analysis-2020/using-python-in-the-cloud?u=76281980&t=32)** We sign in, which you can do using an existing Microsoft account or creating one.
+> **[0:32](https://www.linkedin.com/learning/python-data-analysis-2020/using-python-in-the-cloud?u=76281980&t=32)** We sign in, which you can do using an existing [[Microsoft]] account or creating one.
 >
 > **[0:40](https://www.linkedin.com/learning/python-data-analysis-2020/using-python-in-the-cloud?u=76281980&t=40)** You may also be asked to create a user name for your profile.
 >
@@ -516,7 +508,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Microsoft Azure|Azure]] (6), cloud (3), [[Microsoft Azure]] (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Microsoft Azure|Azure]] (6), [[Microsoft Azure]] (2), [[Google]] (1), [[Microsoft]] (1)
 > **CLI Commands:** python (7), unzip (2), find (1), cd (1)
 > **Exercise Files:** exercise files (3), zip file (1)
 > **Versions:** python 3 (2), 3.5 (1)
@@ -530,18 +522,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Warmup with Python loops
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/warmup-with-python-loops?u=76281980)
+#### [Warmup with Python loops](https://www.linkedin.com/learning/python-data-analysis-2020/warmup-with-python-loops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-data-analysis-2020/warmup-with-python-loops?u=76281980&t=0)** - [Instructor] We will begin every video by importing a standard set of Python modules that we need.
+> **[0:00](https://www.linkedin.com/learning/python-data-analysis-2020/warmup-with-python-loops?u=76281980&t=0)** - [Instructor] We will begin every video by importing a standard set of [[Python (Programming Language)|Python]] modules that we need.
 >
 > **[0:05](https://www.linkedin.com/learning/python-data-analysis-2020/warmup-with-python-loops?u=76281980&t=5)** This is a typical list.
 >
 > **[0:08](https://www.linkedin.com/learning/python-data-analysis-2020/warmup-with-python-loops?u=76281980&t=8)** It's expedient to load often used modules by giving them a shorter alias.
 >
-> **[0:13](https://www.linkedin.com/learning/python-data-analysis-2020/warmup-with-python-loops?u=76281980&t=13)** NP is the community standard for NumPy, PD for pandas.
+> **[0:13](https://www.linkedin.com/learning/python-data-analysis-2020/warmup-with-python-loops?u=76281980&t=13)** NP is the community standard for NumPy, PD for [[Pandas (Software)|pandas]].
 >
 > **[0:19](https://www.linkedin.com/learning/python-data-analysis-2020/warmup-with-python-loops?u=76281980&t=19)** We also load this simple commander entity interface to matplotlib, pyplots, and finally, we ask the Jupyter notebook to keep the plots that we make in the notebook itself instead of opening a different window.
 >
@@ -689,7 +680,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), data (3), [[Pandas (Software)|Pandas]] (1), [[Programming]] (1), power (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** python (8), make (7), find (4)
 > **Definitions:** is a  (2), is an  (2), means that (2)
 > **Analogies:** for instance (4), think of it as (1), such as (1)
@@ -697,14 +688,13 @@ created: 2026-05-02
 > **Tools:** jupyter (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sequences: Lists, tuples, and the slicing syntax
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/sequences-lists-tuples-and-the-slicing-syntax?u=76281980)
+#### [Sequences: Lists, tuples, and the slicing syntax](https://www.linkedin.com/learning/python-data-analysis-2020/sequences-lists-tuples-and-the-slicing-syntax?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-data-analysis-2020/sequences-lists-tuples-and-the-slicing-syntax?u=76281980&t=0)** - [Instructor] In this movie, we are going to review lists.
 >
-> **[0:03](https://www.linkedin.com/learning/python-data-analysis-2020/sequences-lists-tuples-and-the-slicing-syntax?u=76281980&t=3)** They are the quintessential Python container.
+> **[0:03](https://www.linkedin.com/learning/python-data-analysis-2020/sequences-lists-tuples-and-the-slicing-syntax?u=76281980&t=3)** They are the quintessential [[Python (Programming Language)|Python]] container.
 >
 > **[0:06](https://www.linkedin.com/learning/python-data-analysis-2020/sequences-lists-tuples-and-the-slicing-syntax?u=76281980&t=6)** They provide a way to store an arbitrary number of Python objects such as strings, floating-point numbers, other lists, or any other object and to access them using a numerical index.
 >
@@ -826,20 +816,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), parallel (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10)
 > **CLI Commands:** python (10), make (2)
 > **Analogies:** such as (3), for instance (3), for example (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dictionaries and sets
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/dictionaries-and-sets?u=76281980)
+#### [Dictionaries and sets](https://www.linkedin.com/learning/python-data-analysis-2020/dictionaries-and-sets?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-data-analysis-2020/dictionaries-and-sets?u=76281980&t=0)** - [Instructor] While lists give us a way to retrieve values by their index.
 >
-> **[0:04](https://www.linkedin.com/learning/python-data-analysis-2020/dictionaries-and-sets?u=76281980&t=4)** Python dictionary or dicts associate keys with values.
+> **[0:04](https://www.linkedin.com/learning/python-data-analysis-2020/dictionaries-and-sets?u=76281980&t=4)** [[Python (Programming Language)|Python]] dictionary or dicts associate keys with values.
 >
 > **[0:10](https://www.linkedin.com/learning/python-data-analysis-2020/dictionaries-and-sets?u=76281980&t=10)** After my imports, let me write a simple dictionary.
 >
@@ -937,7 +926,7 @@ created: 2026-05-02
 >
 > **[4:54](https://www.linkedin.com/learning/python-data-analysis-2020/dictionaries-and-sets?u=76281980&t=294)** Sets and especially dicts are very important in Python, since they underlie many aspects of the language itself.
 >
-> **[5:02](https://www.linkedin.com/learning/python-data-analysis-2020/dictionaries-and-sets?u=76281980&t=302)** For instance, the methods and attributes of classes are stored internally in dicts, and a dict key based interface is also used in many third party packages, including pandas.
+> **[5:02](https://www.linkedin.com/learning/python-data-analysis-2020/dictionaries-and-sets?u=76281980&t=302)** For instance, the methods and attributes of classes are stored internally in dicts, and a dict key based interface is also used in many third party packages, including [[Pandas (Software)|pandas]].
 >
 > **[5:14](https://www.linkedin.com/learning/python-data-analysis-2020/dictionaries-and-sets?u=76281980&t=314)** So it's very good to become familiar with them.
 
@@ -951,12 +940,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Comprehensions
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/comprehensions?u=76281980)
+#### [Comprehensions](https://www.linkedin.com/learning/python-data-analysis-2020/comprehensions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-data-analysis-2020/comprehensions?u=76281980&t=0)** - [Instructor] In Python, especially when you're dealing with data, there are many cases where you want to iterate over a list or a dict performing operation on every element and then collect all the results in a new list, or dict.
+> **[0:00](https://www.linkedin.com/learning/python-data-analysis-2020/comprehensions?u=76281980&t=0)** - [Instructor] In [[Python (Programming Language)|Python]], especially when you're dealing with data, there are many cases where you want to iterate over a list or a dict performing operation on every element and then collect all the results in a new list, or dict.
 >
 > **[0:15](https://www.linkedin.com/learning/python-data-analysis-2020/comprehensions?u=76281980&t=15)** You can certainly do that with a loop.
 >
@@ -1038,14 +1026,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), data (3), feature (1), next (1), functional (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5)
 > **Analogies:** for instance (5), such as (1)
 > **CLI Commands:** python (5)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Advanced Python containers
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/advanced-python-containers?u=76281980)
+#### [Advanced Python containers](https://www.linkedin.com/learning/python-data-analysis-2020/advanced-python-containers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1071,7 +1058,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/python-data-analysis-2020/advanced-python-containers?u=76281980&t=58)** Field access by index means that we have to remember which is which, creating the potential for bugs, and certainly reducing the expressiveness of our code.
 >
-> **[1:09](https://www.linkedin.com/learning/python-data-analysis-2020/advanced-python-containers?u=76281980&t=69)** To help us out, the module Collections in the standard Python library offers a name tuple that lets you create a specialized object, a specialized tuple, that has a name and that associates labels with fields.
+> **[1:09](https://www.linkedin.com/learning/python-data-analysis-2020/advanced-python-containers?u=76281980&t=69)** To help us out, the module Collections in the standard [[Python (Programming Language)|Python]] library offers a name tuple that lets you create a specialized object, a specialized tuple, that has a name and that associates labels with fields.
 >
 > **[1:25](https://www.linkedin.com/learning/python-data-analysis-2020/advanced-python-containers?u=76281980&t=85)** For instance, a person type would be called Person and have fields first name, last name, and birthday.
 >
@@ -1129,7 +1116,7 @@ created: 2026-05-02
 >
 > **[4:31](https://www.linkedin.com/learning/python-data-analysis-2020/advanced-python-containers?u=76281980&t=271)** In contrast to name tuple, data classes are full Python classes, so we can define methods that operate on the fields, such as a method that returns a person's full name.
 >
-> **[4:43](https://www.linkedin.com/learning/python-data-analysis-2020/advanced-python-containers?u=76281980&t=283)** If you're not familiar with object-oriented programming in Python, do not worry.
+> **[4:43](https://www.linkedin.com/learning/python-data-analysis-2020/advanced-python-containers?u=76281980&t=283)** If you're not familiar with [[Object-Oriented Programming (OOP)|object-oriented programming]] in Python, do not worry.
 >
 > **[4:46](https://www.linkedin.com/learning/python-data-analysis-2020/advanced-python-containers?u=76281980&t=286)** We will not need this feature in what follows.
 >
@@ -1181,7 +1168,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Python (Programming Language)|Python]] (10), database (1), [[Search]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **CLI Commands:** python (10), make (2), find (1), pip (1)
 > **Analogies:** for instance (4), such as (2), similar to (1)
 > **Prerequisites:** install (2), set up (1)
@@ -1195,16 +1182,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Anagrams overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/anagrams-overview?u=76281980)
+#### [Anagrams overview](https://www.linkedin.com/learning/python-data-analysis-2020/anagrams-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-data-analysis-2020/anagrams-overview?u=76281980&t=0)** - [Instructor] In chapter two, we have reviewed Python loops, data containers, and comprehensions.
+> **[0:00](https://www.linkedin.com/learning/python-data-analysis-2020/anagrams-overview?u=76281980&t=0)** - [Instructor] In chapter two, we have reviewed [[Python (Programming Language)|Python]] loops, data containers, and comprehensions.
 >
 > **[0:06](https://www.linkedin.com/learning/python-data-analysis-2020/anagrams-overview?u=76281980&t=6)** Now we will set them to work in a simple, practical project, finding anagrams in the English dictionary.
 >
-> **[0:13](https://www.linkedin.com/learning/python-data-analysis-2020/anagrams-overview?u=76281980&t=13)** As you know, two words are anagrams of each other when their letters can be rearranged to turn one word into the other.
+> **[0:13](https://www.linkedin.com/learning/python-data-analysis-2020/anagrams-overview?u=76281980&t=13)** As you know, two words are anagrams of each other when their letters can be rearranged to turn one [[Microsoft Word|word]] into the other.
 >
 > **[0:20](https://www.linkedin.com/learning/python-data-analysis-2020/anagrams-overview?u=76281980&t=20)** For instance, elvis and lives.
 >
@@ -1224,13 +1210,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Python (Programming Language)|Python]] (2), data (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** find (3), python (2), make (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Loading a dictionary
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/loading-a-dictionary?u=76281980)
+#### [Loading a dictionary](https://www.linkedin.com/learning/python-data-analysis-2020/loading-a-dictionary?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1250,7 +1235,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/python-data-analysis-2020/loading-a-dictionary?u=76281980&t=23)** If you wish, you can find a better one and use that instead.
 >
-> **[0:29](https://www.linkedin.com/learning/python-data-analysis-2020/loading-a-dictionary?u=76281980&t=29)** Now in Python.
+> **[0:29](https://www.linkedin.com/learning/python-data-analysis-2020/loading-a-dictionary?u=76281980&t=29)** Now in [[Python (Programming Language)|Python]].
 >
 > **[0:30](https://www.linkedin.com/learning/python-data-analysis-2020/loading-a-dictionary?u=76281980&t=30)** We talk of idioms to refer to code constructs.
 >
@@ -1284,7 +1269,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/python-data-analysis-2020/loading-a-dictionary?u=76281980&t=79)** I see two problems though.
 >
-> **[1:21](https://www.linkedin.com/learning/python-data-analysis-2020/loading-a-dictionary?u=76281980&t=81)** Every word ends in the new line character.
+> **[1:21](https://www.linkedin.com/learning/python-data-analysis-2020/loading-a-dictionary?u=76281980&t=81)** Every [[Microsoft Word|word]] ends in the new line character.
 >
 > **[1:24](https://www.linkedin.com/learning/python-data-analysis-2020/loading-a-dictionary?u=76281980&t=84)** Denoted in "C" and in Python as backslash "n".
 >
@@ -1381,8 +1366,7 @@ created: 2026-05-02
 > **File Paths:** words.txt (1)
 > **Tools:** jupyter (1)
 
-#### Finding anagrams
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/finding-anagrams?u=76281980)
+#### [Finding anagrams](https://www.linkedin.com/learning/python-data-analysis-2020/finding-anagrams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1394,7 +1378,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/python-data-analysis-2020/finding-anagrams?u=76281980&t=11)** Now, remember our strategy of comparing signatures.
 >
-> **[0:14](https://www.linkedin.com/learning/python-data-analysis-2020/finding-anagrams?u=76281980&t=14)** Those are the sorted lists of the component letters of each word.
+> **[0:14](https://www.linkedin.com/learning/python-data-analysis-2020/finding-anagrams?u=76281980&t=14)** Those are the sorted lists of the component letters of each [[Microsoft Word|word]].
 >
 > **[0:19](https://www.linkedin.com/learning/python-data-analysis-2020/finding-anagrams?u=76281980&t=19)** We need a function to make them.
 >
@@ -1408,7 +1392,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/python-data-analysis-2020/finding-anagrams?u=76281980&t=43)** For convenience, we will collate the list of characters back into a single signature to string.
 >
-> **[0:49](https://www.linkedin.com/learning/python-data-analysis-2020/finding-anagrams?u=76281980&t=49)** The way this is achieved in Python looks a little strange, since we need to call the method join on a string that specifies the connector so to speak of the join.
+> **[0:49](https://www.linkedin.com/learning/python-data-analysis-2020/finding-anagrams?u=76281980&t=49)** The way this is achieved in [[Python (Programming Language)|Python]] looks a little strange, since we need to call the method join on a string that specifies the connector so to speak of the join.
 >
 > **[1:03](https://www.linkedin.com/learning/python-data-analysis-2020/finding-anagrams?u=76281980&t=63)** If it's a dash, we get a-a-n-o-r.
 >
@@ -1494,7 +1478,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), [[Python (Programming Language)|Python]] (4), [[Search]] (1), application (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), [[Python (Programming Language)|Python]] (4)
 > **CLI Commands:** python (4), make (2), find (2)
 > **Env Vars:** sig (2)
 > **Definitions:** is an  (2)
@@ -1502,8 +1486,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Palindromes
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/challenge-palindromes?u=76281980)
+#### [Challenge: Palindromes](https://www.linkedin.com/learning/python-data-analysis-2020/challenge-palindromes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1515,9 +1498,9 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/python-data-analysis-2020/challenge-palindromes?u=76281980&t=25)** For instance, reward and drawer.
 >
-> **[0:29](https://www.linkedin.com/learning/python-data-analysis-2020/challenge-palindromes?u=76281980&t=29)** That will also include true palindromes, such as radar, where the reverse of the word is the word itself.
+> **[0:29](https://www.linkedin.com/learning/python-data-analysis-2020/challenge-palindromes?u=76281980&t=29)** That will also include true palindromes, such as radar, where the reverse of the [[Microsoft Word|word]] is the word itself.
 >
-> **[0:37](https://www.linkedin.com/learning/python-data-analysis-2020/challenge-palindromes?u=76281980&t=37)** I'll give you a hint, to reverse a string, go back to what we learned about slicing sequences in Python.
+> **[0:37](https://www.linkedin.com/learning/python-data-analysis-2020/challenge-palindromes?u=76281980&t=37)** I'll give you a hint, to reverse a string, go back to what we learned about slicing sequences in [[Python (Programming Language)|Python]].
 >
 > **[0:45](https://www.linkedin.com/learning/python-data-analysis-2020/challenge-palindromes?u=76281980&t=45)** This challenge should take you 10 minutes.
 
@@ -1530,8 +1513,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright electronic music) (1)
 
-#### Solution: Palindromes
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/solution-palindromes?u=76281980)
+#### [Solution: Palindromes](https://www.linkedin.com/learning/python-data-analysis-2020/solution-palindromes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1545,7 +1527,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/python-data-analysis-2020/solution-palindromes?u=76281980&t=27)** We will also need the code we wrote in this chapter to compute signatures and to associate words to signatures.
 >
-> **[0:34](https://www.linkedin.com/learning/python-data-analysis-2020/solution-palindromes?u=76281980&t=34)** In Python, there is no built-in function or method to reverse a string, but we can achieve it easily by slicing.
+> **[0:34](https://www.linkedin.com/learning/python-data-analysis-2020/solution-palindromes?u=76281980&t=34)** In [[Python (Programming Language)|Python]], there is no built-in function or method to reverse a string, but we can achieve it easily by slicing.
 >
 > **[0:43](https://www.linkedin.com/learning/python-data-analysis-2020/solution-palindromes?u=76281980&t=43)** The slicing step will need to be negative backwards.
 >
@@ -1553,7 +1535,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/python-data-analysis-2020/solution-palindromes?u=76281980&t=52)** So for Mickela, we do a slice of colon, colon, minus one.
 >
-> **[0:58](https://www.linkedin.com/learning/python-data-analysis-2020/solution-palindromes?u=76281980&t=58)** We now look over all the word sets, one for each signature, and then overall pairs of words in the word set, checking if one of them equals the reverse of the other.
+> **[0:58](https://www.linkedin.com/learning/python-data-analysis-2020/solution-palindromes?u=76281980&t=58)** We now look over all the [[Microsoft Word|word]] sets, one for each signature, and then overall pairs of words in the word set, checking if one of them equals the reverse of the other.
 >
 > **[1:11](https://www.linkedin.com/learning/python-data-analysis-2020/solution-palindromes?u=76281980&t=71)** It's a little annoying to write the loops, so that we are only checking the same pair twice, in reversed orders.
 >
@@ -1589,12 +1571,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### NumPy overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/numpy-overview?u=76281980)
+#### [NumPy overview](https://www.linkedin.com/learning/python-data-analysis-2020/numpy-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-data-analysis-2020/numpy-overview?u=76281980&t=0)** - [Instructor] In this chapter, we introduce NumPy, a third-party package for Python that extends the language with multi-dimensional arrays that are fast, memory-efficient, and that can manage very large data sets.
+> **[0:00](https://www.linkedin.com/learning/python-data-analysis-2020/numpy-overview?u=76281980&t=0)** - [Instructor] In this chapter, we introduce NumPy, a third-party package for [[Python (Programming Language)|Python]] that extends the language with multi-dimensional arrays that are fast, memory-efficient, and that can manage very large data sets.
 >
 > **[0:14](https://www.linkedin.com/learning/python-data-analysis-2020/numpy-overview?u=76281980&t=14)** NumPy is an important part of the Python ecosystem.
 >
@@ -1650,14 +1631,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), data (7), application (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10)
 > **CLI Commands:** python (10)
 > **Analogies:** such as (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating NumPy arrays
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/creating-numpy-arrays?u=76281980)
+#### [Creating NumPy arrays](https://www.linkedin.com/learning/python-data-analysis-2020/creating-numpy-arrays?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1709,7 +1689,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/python-data-analysis-2020/creating-numpy-arrays?u=76281980&t=146)** How about making one ourselves?
 >
-> **[2:28](https://www.linkedin.com/learning/python-data-analysis-2020/creating-numpy-arrays?u=76281980&t=148)** The easiest way is to take a Python list or a nested list of lists and pass it to NumPy array.
+> **[2:28](https://www.linkedin.com/learning/python-data-analysis-2020/creating-numpy-arrays?u=76281980&t=148)** The easiest way is to take a [[Python (Programming Language)|Python]] list or a nested list of lists and pass it to NumPy array.
 >
 > **[2:36](https://www.linkedin.com/learning/python-data-analysis-2020/creating-numpy-arrays?u=76281980&t=156)** The data type is automatically set.
 >
@@ -1725,7 +1705,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/python-data-analysis-2020/creating-numpy-arrays?u=76281980&t=185)** We can do a two-dimensional array, a matrix.
 >
-> **[3:09](https://www.linkedin.com/learning/python-data-analysis-2020/creating-numpy-arrays?u=76281980&t=189)** And we can query these objects for their metadata, and plot them on the same line.
+> **[3:09](https://www.linkedin.com/learning/python-data-analysis-2020/creating-numpy-arrays?u=76281980&t=189)** And we can query these objects for their [[Metadata]], and plot them on the same line.
 >
 > **[3:16](https://www.linkedin.com/learning/python-data-analysis-2020/creating-numpy-arrays?u=76281980&t=196)** It is sometimes useful to make an array of zeros in the shape of another existing array.
 >
@@ -1769,7 +1749,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), data (2), [[Metadata]] (1), cross-platform (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Metadata]] (1)
 > **CLI Commands:** make (4), python (2)
 > **Definitions:** is a  (2), is called (1), refers to (1)
 > **Analogies:** for instance (2), such as (1)
@@ -1778,8 +1758,7 @@ created: 2026-05-02
 > **Code Identifiers:** zeroes_like (1)
 > **Env Vars:** ascii (1)
 
-#### Indexing NumPy arrays
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/indexing-numpy-arrays?u=76281980)
+#### [Indexing NumPy arrays](https://www.linkedin.com/learning/python-data-analysis-2020/indexing-numpy-arrays?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1793,7 +1772,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/python-data-analysis-2020/indexing-numpy-arrays?u=76281980&t=26)** Imgshow shows us the picture.
 >
-> **[0:30](https://www.linkedin.com/learning/python-data-analysis-2020/indexing-numpy-arrays?u=76281980&t=30)** The syntax to get that individual pixels is just an extension of Python list indexing, except that we can now include multiple indices among brackets.
+> **[0:30](https://www.linkedin.com/learning/python-data-analysis-2020/indexing-numpy-arrays?u=76281980&t=30)** The syntax to get that individual pixels is just an extension of [[Python (Programming Language)|Python]] list indexing, except that we can now include multiple indices among brackets.
 >
 > **[0:40](https://www.linkedin.com/learning/python-data-analysis-2020/indexing-numpy-arrays?u=76281980&t=40)** For instance, a point roughly in the middle would be on row 600, column 400 and we grabbed the red component.
 >
@@ -1889,7 +1868,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3)
 > **CLI Commands:** python (3), make (2)
 > **Definitions:** is a  (3), known as (1), means that (1)
 > **Analogies:** picture (2), for instance (2), such as (1)
@@ -1898,8 +1877,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Doing math with NumPy arrays
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/doing-math-with-numpy-arrays?u=76281980)
+#### [Doing math with NumPy arrays](https://www.linkedin.com/learning/python-data-analysis-2020/doing-math-with-numpy-arrays?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1993,13 +1971,13 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/python-data-analysis-2020/doing-math-with-numpy-arrays?u=76281980&t=268)** The result is the vertical gradient.
 >
-> **[4:32](https://www.linkedin.com/learning/python-data-analysis-2020/doing-math-with-numpy-arrays?u=76281980&t=272)** NumPy supports many other useful mathematical operations, including fast fully transforms, random numbers, statistics, interpolation, and linear algebra.
+> **[4:32](https://www.linkedin.com/learning/python-data-analysis-2020/doing-math-with-numpy-arrays?u=76281980&t=272)** NumPy supports many other useful mathematical operations, including fast fully transforms, random numbers, [[Statistics]], interpolation, and [[Linear Algebra]].
 >
 > **[4:43](https://www.linkedin.com/learning/python-data-analysis-2020/doing-math-with-numpy-arrays?u=76281980&t=283)** If you need any of them, you can go read the NumPy documentation.
 >
 > **[4:47](https://www.linkedin.com/learning/python-data-analysis-2020/doing-math-with-numpy-arrays?u=76281980&t=287)** There is one thing I want to show you here.
 >
-> **[4:49](https://www.linkedin.com/learning/python-data-analysis-2020/doing-math-with-numpy-arrays?u=76281980&t=289)** It's that since version 3.5, Python implements a special matrix multiplication operator.
+> **[4:49](https://www.linkedin.com/learning/python-data-analysis-2020/doing-math-with-numpy-arrays?u=76281980&t=289)** It's that since version 3.5, [[Python (Programming Language)|Python]] implements a special matrix multiplication operator.
 >
 > **[4:55](https://www.linkedin.com/learning/python-data-analysis-2020/doing-math-with-numpy-arrays?u=76281980&t=295)** The at symbol, which is put to good use by NumPy.
 >
@@ -2009,11 +1987,11 @@ created: 2026-05-02
 >
 > **[5:10](https://www.linkedin.com/learning/python-data-analysis-2020/doing-math-with-numpy-arrays?u=76281980&t=310)** This is the same as writing NumPy dot dot AB.
 >
-> **[5:16](https://www.linkedin.com/learning/python-data-analysis-2020/doing-math-with-numpy-arrays?u=76281980&t=316)** Or we could write the products of a three by three matrix in a three vector.
+> **[5:16](https://www.linkedin.com/learning/python-data-analysis-2020/doing-math-with-numpy-arrays?u=76281980&t=316)** Or we could write the [[Microsoft Products|products]] of a three by three matrix in a three vector.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (1), [[Linear Algebra]] (1), [[Python (Programming Language)|Python]] (1), product (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Linear Algebra]] (1), [[Python (Programming Language)|Python]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (4), python (1)
 > **Versions:** 1.5 (1), version 3 (1)
 > **Definitions:** is called (1), known as (1)
@@ -2022,8 +2000,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Prerequisites:** set up (1)
 
-#### Special arrays: Records and dates
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/special-arrays-records-and-dates?u=76281980)
+#### [Special arrays: Records and dates](https://www.linkedin.com/learning/python-data-analysis-2020/special-arrays-records-and-dates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2059,7 +2036,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/python-data-analysis-2020/special-arrays-records-and-dates?u=76281980&t=90)** So what can we do with a record array?
 >
-> **[1:32](https://www.linkedin.com/learning/python-data-analysis-2020/special-arrays-records-and-dates?u=76281980&t=92)** Each record looks like a Python tuple, and we can extract the elements as we would for a tuple but we can also modify them.
+> **[1:32](https://www.linkedin.com/learning/python-data-analysis-2020/special-arrays-records-and-dates?u=76281980&t=92)** Each record looks like a [[Python (Programming Language)|Python]] tuple, and we can extract the elements as we would for a tuple but we can also modify them.
 >
 > **[1:43](https://www.linkedin.com/learning/python-data-analysis-2020/special-arrays-records-and-dates?u=76281980&t=103)** We can also use a dict like interface using the field names in brackets.
 >
@@ -2101,7 +2078,7 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/python-data-analysis-2020/special-arrays-records-and-dates?u=76281980&t=241)** And we see that the last day is excluded consistently with the conventions of range and a range.
 >
-> **[4:08](https://www.linkedin.com/learning/python-data-analysis-2020/special-arrays-records-and-dates?u=76281980&t=248)** This functionality is extended even further in Pandas.
+> **[4:08](https://www.linkedin.com/learning/python-data-analysis-2020/special-arrays-records-and-dates?u=76281980&t=248)** This functionality is extended even further in [[Pandas (Software)|Pandas]].
 >
 > **[4:11](https://www.linkedin.com/learning/python-data-analysis-2020/special-arrays-records-and-dates?u=76281980&t=251)** And in fact, the whole idea of record arrays has a much stronger implementation in Pandas DataFrames.
 >
@@ -2109,7 +2086,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Pandas (Software)|Pandas]] (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (2), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (1), refers to (1), is an  (1), is called (1)
 > **Cross-References:** in the last (1), later in (1)
 > **CLI Commands:** python (1)
@@ -2122,8 +2099,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of use case
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/overview-of-use-case-2?u=76281980)
+#### [Overview of use case](https://www.linkedin.com/learning/python-data-analysis-2020/overview-of-use-case-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2145,14 +2121,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), database (1)
 > **Env Vars:** noaa (2), ghcn (1)
 > **Analogies:** for instance (1), such as (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Loading station and temperature data
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/loading-station-and-temperature-data?u=76281980)
+#### [Loading station and temperature data](https://www.linkedin.com/learning/python-data-analysis-2020/loading-station-and-temperature-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2164,7 +2138,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/python-data-analysis-2020/loading-station-and-temperature-data?u=76281980&t=23)** Browsing through the file listing at the NOAA website, we see a README file, and we start there.
 >
-> **[0:30](https://www.linkedin.com/learning/python-data-analysis-2020/loading-station-and-temperature-data?u=76281980&t=30)** Instead of clicking on that link in our browser, let's use Python to download the file.
+> **[0:30](https://www.linkedin.com/learning/python-data-analysis-2020/loading-station-and-temperature-data?u=76281980&t=30)** Instead of clicking on that link in our browser, let's use [[Python (Programming Language)|Python]] to download the file.
 >
 > **[0:35](https://www.linkedin.com/learning/python-data-analysis-2020/loading-station-and-temperature-data?u=76281980&t=35)** There are several Python modules we could use, but for a simple download, the standard library module, urllib, is quite appropriate.
 >
@@ -2256,7 +2230,7 @@ created: 2026-05-02
 >
 > **[5:10](https://www.linkedin.com/learning/python-data-analysis-2020/loading-station-and-temperature-data?u=76281980&t=310)** We could use genfromtxt again, but it's going to take us a while, so, I prepared a small module for you, getweather.py, that takes care of parsing the file and returning consecutive daily values for a year.
 >
-> **[5:23](https://www.linkedin.com/learning/python-data-analysis-2020/loading-station-and-temperature-data?u=76281980&t=323)** The module uses Pandas to clean and reformat data, but returns it as a pure NumPy array.
+> **[5:23](https://www.linkedin.com/learning/python-data-analysis-2020/loading-station-and-temperature-data?u=76281980&t=323)** The module uses [[Pandas (Software)|Pandas]] to clean and reformat data, but returns it as a pure NumPy array.
 >
 > **[5:30](https://www.linkedin.com/learning/python-data-analysis-2020/loading-station-and-temperature-data?u=76281980&t=330)** After you've learned about Pandas later in this course, I encourage you to go look at getweather.py and see what I did there.
 >
@@ -2274,7 +2248,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Python (Programming Language)|Python]] (2), next (2), [[Pandas (Software)|Pandas]] (2), web (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Pandas (Software)|Pandas]] (2)
 > **Env Vars:** readme (2), url (2), tmax (2), noaa (1), dly (1)
 > **CLI Commands:** python (2), find (2), make (1)
 > **Tools:** jupyter (3)
@@ -2283,8 +2257,7 @@ created: 2026-05-02
 > **Cross-References:** later in (1), in the next (1)
 > **Exercise Files:** exercise files (1), download the (1)
 
-#### Filling missing values
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/filling-missing-values?u=76281980)
+#### [Filling missing values](https://www.linkedin.com/learning/python-data-analysis-2020/filling-missing-values?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2310,7 +2283,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/python-data-analysis-2020/filling-missing-values?u=76281980&t=70)** We can then count the instances of true in this array by using a neat trick.
 >
-> **[1:16](https://www.linkedin.com/learning/python-data-analysis-2020/filling-missing-values?u=76281980&t=76)** If we do arithmetics with Booleans in Python, they are converted to integers with false counting as zero and true as one.
+> **[1:16](https://www.linkedin.com/learning/python-data-analysis-2020/filling-missing-values?u=76281980&t=76)** If we do arithmetics with Booleans in [[Python (Programming Language)|Python]], they are converted to integers with false counting as zero and true as one.
 >
 > **[1:25](https://www.linkedin.com/learning/python-data-analysis-2020/filling-missing-values?u=76281980&t=85)** So, for instance, false plus true plus true is two.
 >
@@ -2382,7 +2355,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Python (Programming Language)|Python]] (1), application (1), generic (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (2), python (1)
 > **Analogies:** for instance (2)
 > **Env Vars:** ghcn (1)
@@ -2390,8 +2363,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Smoothing time series
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/smoothing-time-series?u=76281980)
+#### [Smoothing time series](https://www.linkedin.com/learning/python-data-analysis-2020/smoothing-time-series?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2423,7 +2395,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/python-data-analysis-2020/smoothing-time-series?u=76281980&t=83)** Another common way to measure the range of variation of a time series is to compute the standard deviation defined at the square root of the values.
 >
-> **[1:32](https://www.linkedin.com/learning/python-data-analysis-2020/smoothing-time-series?u=76281980&t=92)** If you don't know about this you can go to statistics, text book, or to Wikipedia.
+> **[1:32](https://www.linkedin.com/learning/python-data-analysis-2020/smoothing-time-series?u=76281980&t=92)** If you don't know about this you can go to [[Statistics]], text book, or to Wikipedia.
 >
 > **[1:37](https://www.linkedin.com/learning/python-data-analysis-2020/smoothing-time-series?u=76281980&t=97)** Mean and variance are computed in NumPy with NP Mean and NP Var, we can plot the time series again using the mean and the mean minus and plus the standard deviation as references.
 >
@@ -2497,7 +2469,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), next (2), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1), for instance (1)
 > **Cross-References:** in the last (1)
@@ -2505,8 +2477,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Weather charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/weather-charts?u=76281980)
+#### [Weather charts](https://www.linkedin.com/learning/python-data-analysis-2020/weather-charts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2576,7 +2547,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/python-data-analysis-2020/weather-charts?u=76281980&t=194)** I'm going to put this average temperature in the title, so I need to build up a string for that.
 >
-> **[3:19](https://www.linkedin.com/learning/python-data-analysis-2020/weather-charts?u=76281980&t=199)** For that, I will use the very convenient formatted string literals introduced in Python 3.6.
+> **[3:19](https://www.linkedin.com/learning/python-data-analysis-2020/weather-charts?u=76281980&t=199)** For that, I will use the very convenient formatted string literals introduced in [[Python (Programming Language)|Python]] 3.6.
 >
 > **[3:25](https://www.linkedin.com/learning/python-data-analysis-2020/weather-charts?u=76281980&t=205)** If I start the string with an "F" before the quotes, I can include variable names in braces, which are then replaced by their values.
 >
@@ -2608,13 +2579,13 @@ created: 2026-05-02
 >
 > **[4:47](https://www.linkedin.com/learning/python-data-analysis-2020/weather-charts?u=76281980&t=287)** Coupled with Matplotlib it offers a direct route to beautiful and informative visualizations.
 >
-> **[4:53](https://www.linkedin.com/learning/python-data-analysis-2020/weather-charts?u=76281980&t=293)** In my course, [[Python Statistics Essential Training]], explores statistical plots in more detail and with more examples.
+> **[4:53](https://www.linkedin.com/learning/python-data-analysis-2020/weather-charts?u=76281980&t=293)** In my course, [[Python [[Statistics]] Essential Training]], explores statistical plots in more detail and with more examples.
 >
 > **[5:00](https://www.linkedin.com/learning/python-data-analysis-2020/weather-charts?u=76281980&t=300)** You are now ready for your challenge.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Python (Programming Language)|Python]] (2), power (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Statistics]] (1)
 > **Definitions:** means that (2), defined as (1)
 > **CLI Commands:** python (2)
 > **Env Vars:** noaa (1), libs (1)
@@ -2622,8 +2593,7 @@ created: 2026-05-02
 > **Analogies:** just like (1), for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Weather anomalies
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/challenge-weather-anomalies?u=76281980)
+#### [Challenge: Weather anomalies](https://www.linkedin.com/learning/python-data-analysis-2020/challenge-weather-anomalies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2644,8 +2614,7 @@ created: 2026-05-02
 > **Speakers:** - for (1)
 > **Non-Speech:** (upbeat chime) (1)
 
-#### Solution: Weather anomalies
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/solution-weather-anomalies?u=76281980)
+#### [Solution: Weather anomalies](https://www.linkedin.com/learning/python-data-analysis-2020/solution-weather-anomalies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2691,7 +2660,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (1)
 > **Env Vars:** tmin (1), tmax (1)
 > **Code Identifiers:** getweather (1)
 > **Versions:** 12.8 (1)
@@ -2703,12 +2671,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### pandas overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/pandas-overview?u=76281980)
+#### [pandas overview](https://www.linkedin.com/learning/python-data-analysis-2020/pandas-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-data-analysis-2020/pandas-overview?u=76281980&t=0)** - [Instructor] Pandas has gained broad acceptance in the Python community as the data analysis tool for Python.
+> **[0:00](https://www.linkedin.com/learning/python-data-analysis-2020/pandas-overview?u=76281980&t=0)** - [Instructor] [[Pandas (Software)|Pandas]] has gained broad acceptance in the [[Python (Programming Language)|Python]] community as the data analysis tool for Python.
 >
 > **[0:08](https://www.linkedin.com/learning/python-data-analysis-2020/pandas-overview?u=76281980&t=8)** As of January 2020, it should reach version 1.0 very soon, signaling the stability of its API, its programming interface.
 >
@@ -2728,23 +2695,22 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/python-data-analysis-2020/pandas-overview?u=76281980&t=54)** It implements database operations such as joins and it can even make plots.
 >
-> **[1:01](https://www.linkedin.com/learning/python-data-analysis-2020/pandas-overview?u=76281980&t=61)** So if you want to do data analysis or data science with Python, I really recommend that you learn Pandas.
+> **[1:01](https://www.linkedin.com/learning/python-data-analysis-2020/pandas-overview?u=76281980&t=61)** So if you want to do data analysis or [[Data Science]] with Python, I really recommend that you learn Pandas.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Pandas (Software)|Pandas]] (3), [[Python (Programming Language)|Python]] (3), api (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (3), [[Python (Programming Language)|Python]] (3), [[Data Science]] (1)
 > **CLI Commands:** python (3), make (1)
 > **Analogies:** for instance (1), such as (1)
 > **Env Vars:** api (1)
 > **Versions:** version 1 (1)
 > **Speakers:** - [instructor] (1)
 
-#### DataFrames and Series
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/dataframes-and-series?u=76281980)
+#### [DataFrames and Series](https://www.linkedin.com/learning/python-data-analysis-2020/dataframes-and-series?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-data-analysis-2020/dataframes-and-series?u=76281980&t=0)** - [Instructor] The two key objects in pandas are the DataFrame and the Series.
+> **[0:00](https://www.linkedin.com/learning/python-data-analysis-2020/dataframes-and-series?u=76281980&t=0)** - [Instructor] The two key objects in [[Pandas (Software)|pandas]] are the DataFrame and the Series.
 >
 > **[0:05](https://www.linkedin.com/learning/python-data-analysis-2020/dataframes-and-series?u=76281980&t=5)** A DataFrame is basically a table of data.
 >
@@ -2762,7 +2728,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/python-data-analysis-2020/dataframes-and-series?u=76281980&t=58)** Just as for NumPy arrays the easiest way to get a pandas DataFrame is to load it from a file.
 >
-> **[1:04](https://www.linkedin.com/learning/python-data-analysis-2020/dataframes-and-series?u=76281980&t=64)** And pandas can read and write an even larger variety of formats than NumPy These include ASCII tables, json, Excel, the hierarchical data format HDF using many scientific application, SAS, SAS, Strata, Big data storage formats, such as Apache Feather and Parquet SQL and even HTML tables, which is great if you want to scrape data from a website.
+> **[1:04](https://www.linkedin.com/learning/python-data-analysis-2020/dataframes-and-series?u=76281980&t=64)** And pandas can read and write an even larger variety of formats than NumPy These include ASCII tables, [[JSON]], [[Microsoft Excel|Excel]], the hierarchical data format HDF using many scientific application, SAS, SAS, Strata, [[Big Data]] storage formats, such as Apache Feather and Parquet [[SQL]] and even [[HTML]] tables, which is great if you want to scrape data from a website.
 >
 > **[1:35](https://www.linkedin.com/learning/python-data-analysis-2020/dataframes-and-series?u=76281980&t=95)** In this table, I show you the formats with the pandas functions that read and write them.
 >
@@ -2792,7 +2758,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/python-data-analysis-2020/dataframes-and-series?u=76281980&t=165)** And we see that indeed the columns are named year discipline and the Nobelist.
 >
-> **[2:50](https://www.linkedin.com/learning/python-data-analysis-2020/dataframes-and-series?u=76281980&t=170)** The data types are integer for the year and Python object for discipline and Nobelist.
+> **[2:50](https://www.linkedin.com/learning/python-data-analysis-2020/dataframes-and-series?u=76281980&t=170)** The data types are integer for the year and [[Python (Programming Language)|Python]] object for discipline and Nobelist.
 >
 > **[2:55](https://www.linkedin.com/learning/python-data-analysis-2020/dataframes-and-series?u=76281980&t=175)** That's an important observation while in NumPy, we represent strings as fixed with runs of characters.
 >
@@ -2860,7 +2826,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (8), data (7), [[Python (Programming Language)|Python]] (3), [[Security]] (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (8), [[Python (Programming Language)|Python]] (3), [[JSON]] (1), [[Microsoft Excel|Excel]] (1), [[Big Data]] (1)
 > **Env Vars:** csv (3), sas (2), ascii (1), hdf (1), sql (1)
 > **CLI Commands:** python (3), make (2), apache (1), find (1)
 > **Analogies:** for instance (4), such as (1)
@@ -2869,8 +2835,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Prerequisites:** install (1)
 
-#### Indexing in pandas
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/indexing-in-pandas?u=76281980)
+#### [Indexing in pandas](https://www.linkedin.com/learning/python-data-analysis-2020/indexing-in-pandas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2890,7 +2855,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/python-data-analysis-2020/indexing-in-pandas?u=76281980&t=51)** And here's the index itself.
 >
-> **[0:53](https://www.linkedin.com/learning/python-data-analysis-2020/indexing-in-pandas?u=76281980&t=53)** This shows that in Pandas, indices do not need to have unique values.
+> **[0:53](https://www.linkedin.com/learning/python-data-analysis-2020/indexing-in-pandas?u=76281980&t=53)** This shows that in [[Pandas (Software)|Pandas]], indices do not need to have unique values.
 >
 > **[0:58](https://www.linkedin.com/learning/python-data-analysis-2020/indexing-in-pandas?u=76281980&t=58)** That's a feature, not a bug.
 >
@@ -2910,7 +2875,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/python-data-analysis-2020/indexing-in-pandas?u=76281980&t=103)** In addition to selecting individual index values .loc allows for slices.
 >
-> **[1:49](https://www.linkedin.com/learning/python-data-analysis-2020/indexing-in-pandas?u=76281980&t=109)** But in a break from Python new search, the range is inclusive of its end value.
+> **[1:49](https://www.linkedin.com/learning/python-data-analysis-2020/indexing-in-pandas?u=76281980&t=109)** But in a break from [[Python (Programming Language)|Python]] new search, the range is inclusive of its end value.
 >
 > **[1:55](https://www.linkedin.com/learning/python-data-analysis-2020/indexing-in-pandas?u=76281980&t=115)** If we choose the years of the great war, 1914-1918, then 1918 appears in the selection.
 >
@@ -2992,7 +2957,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (5), [[Python (Programming Language)|Python]] (2), data (1), feature (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (5), [[Python (Programming Language)|Python]] (2)
 > **Analogies:** for instance (6)
 > **CLI Commands:** make (2), python (2)
 > **Definitions:** is a  (2), means that (1)
@@ -3000,8 +2965,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Plotting
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/plotting?u=76281980)
+#### [Plotting](https://www.linkedin.com/learning/python-data-analysis-2020/plotting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3009,13 +2973,13 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/python-data-analysis-2020/plotting?u=76281980&t=10)** In many data analysis tasks, you're interested in running computations with the columns and then making plots.
 >
-> **[0:17](https://www.linkedin.com/learning/python-data-analysis-2020/plotting?u=76281980&t=17)** Let's try that with Pandas.
+> **[0:17](https://www.linkedin.com/learning/python-data-analysis-2020/plotting?u=76281980&t=17)** Let's try that with [[Pandas (Software)|Pandas]].
 >
-> **[0:20](https://www.linkedin.com/learning/python-data-analysis-2020/plotting?u=76281980&t=20)** We'll load the data set consisting of global population health and wealth statistics, from the amazing Gapminder website.
+> **[0:20](https://www.linkedin.com/learning/python-data-analysis-2020/plotting?u=76281980&t=20)** We'll load the data set consisting of global population health and wealth [[Statistics]], from the amazing Gapminder website.
 >
 > **[0:29](https://www.linkedin.com/learning/python-data-analysis-2020/plotting?u=76281980&t=29)** Gapminder is a Swedish foundation created by the late Hans Rosling to promote a fact-based worldview and to fight misconceptions about global development.
 >
-> **[0:40](https://www.linkedin.com/learning/python-data-analysis-2020/plotting?u=76281980&t=40)** If you want to make plots in the Gapminder style internalize their data in some depth, you can try my LinkedIn learning course, [[Python Statistics Essential Training]].
+> **[0:40](https://www.linkedin.com/learning/python-data-analysis-2020/plotting?u=76281980&t=40)** If you want to make plots in the Gapminder style internalize their data in some depth, you can try my [[LinkedIn]] learning course, [[[[Python (Programming Language)|Python]] Statistics Essential Training]].
 >
 > **[0:51](https://www.linkedin.com/learning/python-data-analysis-2020/plotting?u=76281980&t=51)** In this video we'll do simpler things but still learn a lot.
 >
@@ -3061,7 +3025,7 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/python-data-analysis-2020/plotting?u=76281980&t=229)** We see that in going between 1960 and 2015, the dots flatten towards the top, towards higher life-expectancies.
 >
-> **[3:58](https://www.linkedin.com/learning/python-data-analysis-2020/plotting?u=76281980&t=238)** Thanks to significant progress in public health policy and practice.
+> **[3:58](https://www.linkedin.com/learning/python-data-analysis-2020/plotting?u=76281980&t=238)** Thanks to significant progress in [[Public Health]] policy and practice.
 >
 > **[4:03](https://www.linkedin.com/learning/python-data-analysis-2020/plotting?u=76281980&t=243)** The trend is the same for other statistical indicators such as survival by age five.
 >
@@ -3121,7 +3085,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Pandas (Software)|Pandas]] (11), [[Statistics]] (4), [[Python (Programming Language)|Python]] (3), product (2)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (11), [[Statistics]] (4), [[Python (Programming Language)|Python]] (3), [[LinkedIn]] (1), [[Public Health]] (1)
 > **CLI Commands:** make (3), python (3), find (1)
 > **Env Vars:** gdp (4)
 > **Definitions:** is a  (4)
@@ -3134,12 +3098,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of use case
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/overview-of-use-case?u=76281980)
+#### [Overview of use case](https://www.linkedin.com/learning/python-data-analysis-2020/overview-of-use-case?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-data-analysis-2020/overview-of-use-case?u=76281980&t=0)** - [Instructor] We are now going to apply pandas to an intriguing real world use case.
+> **[0:00](https://www.linkedin.com/learning/python-data-analysis-2020/overview-of-use-case?u=76281980&t=0)** - [Instructor] We are now going to apply [[Pandas (Software)|pandas]] to an intriguing real world use case.
 >
 > **[0:06](https://www.linkedin.com/learning/python-data-analysis-2020/overview-of-use-case?u=76281980&t=6)** We will analyze the U.S. Social Security Baby Name Catalog, which reports the names given to male and female newborns for every year since 1880.
 >
@@ -3151,12 +3114,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (1), [[Security]] (1), data (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Loading data sets
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/loading-data-sets?u=76281980)
+#### [Loading data sets](https://www.linkedin.com/learning/python-data-analysis-2020/loading-data-sets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3164,7 +3126,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/python-data-analysis-2020/loading-data-sets?u=76281980&t=5)** But I have also included the archive names.zip in your exercise files.
 >
-> **[0:11](https://www.linkedin.com/learning/python-data-analysis-2020/loading-data-sets?u=76281980&t=11)** We need to uncompress it, which we can do in Python using the ZipFile module.
+> **[0:11](https://www.linkedin.com/learning/python-data-analysis-2020/loading-data-sets?u=76281980&t=11)** We need to uncompress it, which we can do in [[Python (Programming Language)|Python]] using the ZipFile module.
 >
 > **[0:17](https://www.linkedin.com/learning/python-data-analysis-2020/loading-data-sets?u=76281980&t=17)** The interface is object oriented.
 >
@@ -3184,7 +3146,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/python-data-analysis-2020/loading-data-sets?u=76281980&t=53)** Name, sex, presumably F or M, and then the number of babies born that year with that name.
 >
-> **[1:01](https://www.linkedin.com/learning/python-data-analysis-2020/loading-data-sets?u=76281980&t=61)** Pandas read CSV shouldn't have any problems.
+> **[1:01](https://www.linkedin.com/learning/python-data-analysis-2020/loading-data-sets?u=76281980&t=61)** [[Pandas (Software)|Pandas]] read CSV shouldn't have any problems.
 >
 > **[1:06](https://www.linkedin.com/learning/python-data-analysis-2020/loading-data-sets?u=76281980&t=66)** But we did do something wrong.
 >
@@ -3234,14 +3196,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Pandas (Software)|Pandas]] (2), [[Security]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (2), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** csv (4)
 > **CLI Commands:** python (1), ls (1)
 > **Exercise Files:** download the (1), exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Comparing name popularity
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/comparing-name-popularity?u=76281980)
+#### [Comparing name popularity](https://www.linkedin.com/learning/python-data-analysis-2020/comparing-name-popularity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3289,7 +3250,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/python-data-analysis-2020/comparing-name-popularity?u=76281980&t=105)** We look over the list called plot name for each of them and then add a legend, which is always good.
 >
-> **[1:51](https://www.linkedin.com/learning/python-data-analysis-2020/comparing-name-popularity?u=76281980&t=111)** Let's for instance compare Michael, John, David and Martin.
+> **[1:51](https://www.linkedin.com/learning/python-data-analysis-2020/comparing-name-popularity?u=76281980&t=111)** Let's for instance compare Michael, [[John the Ripper|John]], David and Martin.
 >
 > **[1:57](https://www.linkedin.com/learning/python-data-analysis-2020/comparing-name-popularity?u=76281980&t=117)** Or for girls Emily, Anna, Claire and Elizabeth.
 >
@@ -3347,13 +3308,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), generic (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (1)
 > **CLI Commands:** make (6)
 > **Analogies:** for instance (3)
 > **Speakers:** - [instructor] (1)
 
-#### Yearly top ten names
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/yearly-top-ten-names?u=76281980)
+#### [Yearly top ten names](https://www.linkedin.com/learning/python-data-analysis-2020/yearly-top-ten-names?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3361,7 +3321,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/python-data-analysis-2020/yearly-top-ten-names?u=76281980&t=6)** We load the data, and this time, we index it slightly differently, by sex and year only since we will need to compare all the names in the database.
 >
-> **[0:17](https://www.linkedin.com/learning/python-data-analysis-2020/yearly-top-ten-names?u=76281980&t=17)** We now build up a query by chaining pandas methods.
+> **[0:17](https://www.linkedin.com/learning/python-data-analysis-2020/yearly-top-ten-names?u=76281980&t=17)** We now build up a query by chaining [[Pandas (Software)|pandas]] methods.
 >
 > **[0:22](https://www.linkedin.com/learning/python-data-analysis-2020/yearly-top-ten-names?u=76281980&t=22)** Getting males in 2018 is a simple matter of a multiindex.log.
 >
@@ -3437,14 +3397,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Pandas (Software)|Pandas]] (3), database (1), generic (1), next (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (3)
 > **CLI Commands:** make (2)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Unisex baby names
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/challenge-unisex-baby-names?u=76281980)
+#### [Challenge: Unisex baby names](https://www.linkedin.com/learning/python-data-analysis-2020/challenge-unisex-baby-names?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3456,7 +3415,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/python-data-analysis-2020/challenge-unisex-baby-names?u=76281980&t=28)** That means that you're going to compute the total number of boys, divide by the total number of girls, and verify that that's between 0.5 and two.
 >
-> **[0:37](https://www.linkedin.com/learning/python-data-analysis-2020/challenge-unisex-baby-names?u=76281980&t=37)** Given the technical nature of some Pandas computations, I have some hints for you.
+> **[0:37](https://www.linkedin.com/learning/python-data-analysis-2020/challenge-unisex-baby-names?u=76281980&t=37)** Given the technical nature of some [[Pandas (Software)|Pandas]] computations, I have some hints for you.
 >
 > **[0:43](https://www.linkedin.com/learning/python-data-analysis-2020/challenge-unisex-baby-names?u=76281980&t=43)** Try using DataFrame.groupby().
 >
@@ -3473,12 +3432,11 @@ created: 2026-05-02
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (playful music) (1)
 
-#### Solution: Unisex baby names
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/solution-unisex-baby-names?u=76281980)
+#### [Solution: Unisex baby names](https://www.linkedin.com/learning/python-data-analysis-2020/solution-unisex-baby-names?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-data-analysis-2020/solution-unisex-baby-names?u=76281980&t=0)** - As I mentioned already, in Pandas there are often several ways to get the same result.
+> **[0:00](https://www.linkedin.com/learning/python-data-analysis-2020/solution-unisex-baby-names?u=76281980&t=0)** - As I mentioned already, in [[Pandas (Software)|Pandas]] there are often several ways to get the same result.
 >
 > **[0:10](https://www.linkedin.com/learning/python-data-analysis-2020/solution-unisex-baby-names?u=76281980&t=10)** So if your results are similar to mine, but you get them in a different way, don't worry, your solution may even be better.
 >
@@ -3526,13 +3484,13 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/python-data-analysis-2020/solution-unisex-baby-names?u=76281980&t=170)** Reilly is ascendant, but not for boys anymore, and Casey, which peaked around 1990, may be the most unisex name of all, with the male usage of the name tracking the female usage very closely.
 >
-> **[3:05](https://www.linkedin.com/learning/python-data-analysis-2020/solution-unisex-baby-names?u=76281980&t=185)** Great, we've been through a lot in this course, and I hope you've gained an understanding of what is possible with NumPy and Pandas and matplotlib, and more generally, with Python as a language for data analysis.
+> **[3:05](https://www.linkedin.com/learning/python-data-analysis-2020/solution-unisex-baby-names?u=76281980&t=185)** Great, we've been through a lot in this course, and I hope you've gained an understanding of what is possible with NumPy and Pandas and matplotlib, and more generally, with [[Python (Programming Language)|Python]] as a language for data analysis.
 >
 > **[3:18](https://www.linkedin.com/learning/python-data-analysis-2020/solution-unisex-baby-names?u=76281980&t=198)** I hope you'll go out to discover and learn even more and that you use Python happily in your every day work.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Pandas (Software)|Pandas]] (3), [[Python (Programming Language)|Python]] (2), next (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (3), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2), find (1)
 > **Analogies:** similar to (1), for instance (1)
 > **UI Navigation:** select the (1)
@@ -3546,8 +3504,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/python-data-analysis-2020/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3557,13 +3514,13 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/python-data-analysis-2020/next-steps?u=76281980&t=5)** You are at the start of your road to mastery.
 >
-> **[0:08](https://www.linkedin.com/learning/python-data-analysis-2020/next-steps?u=76281980&t=8)** You can now move on to my more advanced courses on programming efficiently in Python and on statistics with Python.
+> **[0:08](https://www.linkedin.com/learning/python-data-analysis-2020/next-steps?u=76281980&t=8)** You can now move on to my more advanced courses on programming efficiently in [[Python (Programming Language)|Python]] and on [[Statistics]] with Python.
 >
 > **[0:15](https://www.linkedin.com/learning/python-data-analysis-2020/next-steps?u=76281980&t=15)** Back to the topic of this course, here are some resources that can help you learn more.
 >
-> **[0:21](https://www.linkedin.com/learning/python-data-analysis-2020/next-steps?u=76281980&t=21)** You can find the answer to any question about Python or about NumPy, Matploylib and pandas on the official websites.
+> **[0:21](https://www.linkedin.com/learning/python-data-analysis-2020/next-steps?u=76281980&t=21)** You can find the answer to any question about Python or about NumPy, Matploylib and [[Pandas (Software)|pandas]] on the official websites.
 >
-> **[0:29](https://www.linkedin.com/learning/python-data-analysis-2020/next-steps?u=76281980&t=29)** These packages are also discussed in "Python Data Science Handbook" by Jake Vanderplas, a very insightful and no-nonsense textbook.
+> **[0:29](https://www.linkedin.com/learning/python-data-analysis-2020/next-steps?u=76281980&t=29)** These packages are also discussed in "Python [[Data Science]] Handbook" by Jake Vanderplas, a very insightful and no-nonsense textbook.
 >
 > **[0:38](https://www.linkedin.com/learning/python-data-analysis-2020/next-steps?u=76281980&t=38)** If you get stuck, look for help in an internet forum such as Stack Overflow.
 >
@@ -3575,7 +3532,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Programming]] (1), [[Statistics]] (1), [[Pandas (Software)|Pandas]] (1), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Statistics]] (1), [[Pandas (Software)|Pandas]] (1), [[Data Science]] (1)
 > **CLI Commands:** python (6), find (2)
 > **Documentation:** stack overflow (1)
 > **Analogies:** such as (1)

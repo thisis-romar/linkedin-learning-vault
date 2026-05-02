@@ -110,8 +110,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overcome the limitations of LLMs with RAG
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/overcome-the-limitations-of-llms-with-rag?u=76281980)
+#### [Overcome the limitations of LLMs with RAG](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/overcome-the-limitations-of-llms-with-rag?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -123,7 +122,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/overcome-the-limitations-of-llms-with-rag?u=76281980&t=30)** This includes your private data sets.
 >
-> **[0:32](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/overcome-the-limitations-of-llms-with-rag?u=76281980&t=32)** Hi, I'm Harpreet Sahota, a deep learning practitioner specializing in generative AI and multimodal models.
+> **[0:32](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/overcome-the-limitations-of-llms-with-rag?u=76281980&t=32)** Hi, I'm Harpreet Sahota, a [[Deep Learning]] practitioner specializing in [[Generative AI]] and multimodal models.
 >
 > **[0:38](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/overcome-the-limitations-of-llms-with-rag?u=76281980&t=38)** If you're ready to take your generative AI skills to the next level and build more effective context or models, then join me in this comprehensive course on retrieval augmented generation using LAMA Index.
 >
@@ -131,16 +130,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Generative AI]] (2), rag (1), ai (1), [[Deep Learning]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Deep Learning]] (1)
 > **Env Vars:** rag (1), lama (1)
 > **Speakers:** - if (1)
 
-#### Limitations of LLMs
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/limitations-of-llms?u=76281980)
+#### [Limitations of LLMs](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/limitations-of-llms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/limitations-of-llms?u=76281980&t=0)** - [Instructor] Make no doubt about it, large language models are here to stay and they're only going to become more powerful and ingrained in our daily lives.
+> **[0:00](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/limitations-of-llms?u=76281980&t=0)** - [Instructor] Make no doubt about it, [[Large Language Models (LLM)|large language models]] are here to stay and they're only going to become more powerful and ingrained in our daily lives.
 >
 > **[0:10](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/limitations-of-llms?u=76281980&t=10)** But in their current form, they have a few glaring limitations, one of which is stale information.
 >
@@ -170,9 +168,9 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/limitations-of-llms?u=76281980&t=91)** These limitations are so problematic that the smartest among us have devised ways to mitigate them.
 >
-> **[1:38](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/limitations-of-llms?u=76281980&t=98)** But one method in particular is called retrieval-augmented generation, or RAG.
+> **[1:38](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/limitations-of-llms?u=76281980&t=98)** But one method in particular is called [[Retrieval-Augmented Generation (RAG)|retrieval-augmented generation]], or RAG.
 >
-> **[1:45](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/limitations-of-llms?u=76281980&t=105)** RAG helps overcome the limitations I've mentioned by combining a LLM's generative capabilities with the realtime information retrieval.
+> **[1:45](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/limitations-of-llms?u=76281980&t=105)** RAG helps overcome the limitations I've mentioned by combining a LLM's generative capabilities with the realtime [[Information Retrieval]].
 >
 > **[1:56](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/limitations-of-llms?u=76281980&t=116)** Here's how RAG addresses these limitations.
 >
@@ -208,15 +206,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (8), rag (8), data (3), [[Large Language Models (LLM)|Large language models]] (2), database (2)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (2), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1), [[Information Retrieval]] (1)
 > **Env Vars:** llm (8), rag (8)
 > **Definitions:** we call this (1), is called (1), means that (1)
 > **CLI Commands:** make (2)
 > **Analogies:** kind of like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use cases for retrieval-augmented generation (RAG)
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/use-cases-for-retrieval-augmented-generation-rag?u=76281980)
+#### [Use cases for retrieval-augmented generation (RAG)](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/use-cases-for-retrieval-augmented-generation-rag?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -240,11 +237,11 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/use-cases-for-retrieval-augmented-generation-rag?u=76281980&t=82)** You can use RAG to help an LLM generate more accurate and detailed answers to complex questions by retrieving relevant information from a large corpus of documents and using that context to generate responses.
 >
-> **[1:38](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/use-cases-for-retrieval-augmented-generation-rag?u=76281980&t=98)** Another classic use case and example is customer support chatbots.
+> **[1:38](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/use-cases-for-retrieval-augmented-generation-rag?u=76281980&t=98)** Another classic use case and example is [[Customer Support]] chatbots.
 >
 > **[1:44](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/use-cases-for-retrieval-augmented-generation-rag?u=76281980&t=104)** I've interacted with my fear of chatbots in my life, and all I'm left with after the interaction is a feeling that I've lost minutes of my life that I can never get back.
 >
-> **[1:56](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/use-cases-for-retrieval-augmented-generation-rag?u=76281980&t=116)** If you work at a company that develops customer-facing chatbots, you can delight your customers by using RAG-enabled customer support chatbots that have access to real-time, accurate information.
+> **[1:56](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/use-cases-for-retrieval-augmented-generation-rag?u=76281980&t=116)** If you work at a company that develops customer-facing chatbots, you can delight your customers by using RAG-enabled customer support chatbots that have access to [[Real-Time]], accurate information.
 >
 > **[2:11](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/use-cases-for-retrieval-augmented-generation-rag?u=76281980&t=131)** Chatbots can answer customer queries more efficiently by pulling data from updated data sources or live feeds.
 >
@@ -268,7 +265,7 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/use-cases-for-retrieval-augmented-generation-rag?u=76281980&t=236)** RAG is transforming how we interact with and parse through information via search engines with conversational interfaces like Perplexity AI.
 >
-> **[4:07](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/use-cases-for-retrieval-augmented-generation-rag?u=76281980&t=247)** Systems like Perplexity allow users to engage with the search results much more naturally and conversationally, and this simplifies information retrieval and makes it more accessible.
+> **[4:07](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/use-cases-for-retrieval-augmented-generation-rag?u=76281980&t=247)** Systems like Perplexity allow users to engage with the search results much more naturally and conversationally, and this simplifies [[Information Retrieval]] and makes it more accessible.
 >
 > **[4:20](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/use-cases-for-retrieval-augmented-generation-rag?u=76281980&t=260)** RAG is enhancing search results, accuracy, relevance, and depth by integrating retrieval mechanisms with these generative capabilities.
 >
@@ -296,7 +293,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rag (15), data (7), [[Search]] (6), llm (3), chatbot (3)
+> **Frameworks & Libraries:** [[Customer Support]] (2), [[Real-Time]] (2), [[Information Retrieval]] (1)
 > **Env Vars:** rag (15), llm (3)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
@@ -309,12 +306,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using GitHub Codespaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/using-github-codespaces?u=76281980)
+#### [Using GitHub Codespaces](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/using-github-codespaces?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/using-github-codespaces?u=76281980&t=0)** - [Instructor] In this course, we are going to make use of GitHub Codespaces, which is a cloud-based development environment that allows you to code directly from your web browser or a connected IDE without the need for complex local setup.
+> **[0:00](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/using-github-codespaces?u=76281980&t=0)** - [Instructor] In this course, we are going to make use of [[GitHub]] [[Codespaces]], which is a cloud-based development environment that allows you to code directly from your web browser or a connected IDE without the need for complex local setup.
 >
 > **[0:18](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/using-github-codespaces?u=76281980&t=18)** This allows you to save time because you don't need to worry about a local environment setup.
 >
@@ -356,7 +352,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/using-github-codespaces?u=76281980&t=151)** You can, of course, clone the repository, run it locally on your own machine if you'd like.
 >
-> **[2:37](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/using-github-codespaces?u=76281980&t=157)** You can also run the notebooks in Google Colab if you'd like.
+> **[2:37](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/using-github-codespaces?u=76281980&t=157)** You can also run the notebooks in [[Google]] Colab if you'd like.
 >
 > **[2:41](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/using-github-codespaces?u=76281980&t=161)** There are many options available to you, but for this course, I'm just going to make use of GitHub Codespaces.
 >
@@ -364,7 +360,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (4), [[Codespaces]] (4), cloud (3), web (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (4), [[Codespaces]] (4), [[Google]] (1)
 > **Tools:** github (4), vs code (1), colab (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** ram (2), ide (1)
@@ -373,18 +369,17 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
 
-#### Setting up your environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-your-environment?u=76281980)
+#### [Setting up your environment](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-your-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-your-environment?u=76281980&t=0)** - [Instructor] Now that we have a codespace instance spun up, it's time to set up a development environment.
 >
-> **[0:08](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-your-environment?u=76281980&t=8)** If you are following along on codespaces, then just do everything that I'm doing.
+> **[0:08](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-your-environment?u=76281980&t=8)** If you are following along on [[Codespaces]], then just do everything that I'm doing.
 >
 > **[0:14](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-your-environment?u=76281980&t=14)** If you're following along locally, you're also going to do everything that I'm doing as well.
 >
-> **[0:19](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-your-environment?u=76281980&t=19)** The only time you can skip this lesson is if you're choosing to run all of the notebooks in a Google Colab environment.
+> **[0:19](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-your-environment?u=76281980&t=19)** The only time you can skip this lesson is if you're choosing to run all of the notebooks in a [[Google]] Colab environment.
 >
 > **[0:27](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-your-environment?u=76281980&t=27)** If that's the case, then fear not as the first cell in every single Google Colab has the first cell of every single notebook that I've created has the necessary installs pin to the version that I'm using.
 >
@@ -418,9 +413,9 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-your-environment?u=76281980&t=128)** Now, let's go ahead and create a new Conda environment.
 >
-> **[2:12](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-your-environment?u=76281980&t=132)** This Conda environment, I'm going to call lil for LinkedIn Learning _llama_index.
+> **[2:12](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-your-environment?u=76281980&t=132)** This Conda environment, I'm going to call lil for [[LinkedIn]] Learning _llama_index.
 >
-> **[2:19](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-your-environment?u=76281980&t=139)** I'm going to use python==3.10 and also install python-dotenv.
+> **[2:19](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-your-environment?u=76281980&t=139)** I'm going to use [[Python (Programming Language)|python]]==3.10 and also install python-dotenv.
 >
 > **[2:24](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-your-environment?u=76281980&t=144)** If you want to choose to use Python 3.11 or Python 3.12, by all means, go ahead, go for it.
 >
@@ -442,7 +437,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-your-environment?u=76281980&t=199)** And we are good.
 >
-> **[3:21](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-your-environment?u=76281980&t=201)** We are now in our LinkedIn Learning LlamaIndex environment.
+> **[3:21](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-your-environment?u=76281980&t=201)** We are now in our LinkedIn Learning [[LlamaIndex]] environment.
 >
 > **[3:26](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-your-environment?u=76281980&t=206)** If you're running this locally and you don't have ipython kernel jupyter jupyterlab installed, you can go ahead and run this.
 >
@@ -488,7 +483,7 @@ created: 2026-05-02
 >
 > **[5:35](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-your-environment?u=76281980&t=335)** The reason LlamaIndex bumps up incrementally for the minor versions like that is because providers are pumping out new models all the time.
 >
-> **[5:45](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-your-environment?u=76281980&t=345)** New large language models, new embedding models, new techniques for vector search, so on and so forth.
+> **[5:45](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-your-environment?u=76281980&t=345)** New [[Large Language Models (LLM)|large language models]], new embedding models, new techniques for vector search, so on and so forth.
 >
 > **[5:51](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-your-environment?u=76281980&t=351)** And so since LlamaIndex is, you know, relying on these frameworks, it needs to grow with it.
 >
@@ -506,7 +501,7 @@ created: 2026-05-02
 >
 > **[6:24](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-your-environment?u=76281980&t=384)** And that's just right here, pip install qdrant to client and it's currently at version 1.9.1 and that's going to go ahead and get installed.
 >
-> **[6:34](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-your-environment?u=76281980&t=394)** And then, we are going to install the LlamaIndex dependencies for working with external files and for working with vector databases like Qdrant.
+> **[6:34](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-your-environment?u=76281980&t=394)** And then, we are going to install the LlamaIndex dependencies for working with external files and for working with [[Vector Databases]] like Qdrant.
 >
 > **[6:46](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-your-environment?u=76281980&t=406)** So, as I've mentioned, LlamaIndex is nicely decoupled, like it's got a number of smaller libraries that kind of feed into it.
 >
@@ -522,9 +517,9 @@ created: 2026-05-02
 >
 > **[7:25](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-your-environment?u=76281980&t=445)** They all kind of follow this general pattern, right?
 >
-> **[7:27](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-your-environment?u=76281980&t=447)** Like, let's say if you wanted to use Mistral, you do llama-index-llms-mistral.
+> **[7:27](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-your-environment?u=76281980&t=447)** Like, let's say if you wanted to use Mistral, you do [[LlamaIndex|llama-index]]-llms-mistral.
 >
-> **[7:34](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-your-environment?u=76281980&t=454)** And you know, if you wanted to use Hugging Face, it's something similar.
+> **[7:34](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-your-environment?u=76281980&t=454)** And you know, if you wanted to use [[Hugging Face]], it's something similar.
 >
 > **[7:38](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-your-environment?u=76281980&t=458)** So, a lot of these patterns are similar, and I'll talk about LlamaIndex and how it's organized and structured more in just a couple of videos.
 >
@@ -564,7 +559,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LlamaIndex]] (16), [[Python (Programming Language)|Python]] (8), [[Codespaces]] (3), llm (3), next (3)
+> **Frameworks & Libraries:** [[LlamaIndex]] (16), [[Python (Programming Language)|Python]] (8), [[Codespaces]] (3), [[Google]] (2), [[LinkedIn]] (2)
 > **Prerequisites:** install (18), set up (4)
 > **Versions:** python 3 (5), version 0 (2), 0.10.99 (2), 3.10 (1), 10.37 (1)
 > **CLI Commands:** python (8), make (2), pip (1)
@@ -573,8 +568,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (2), go to (1)
 > **Cross-References:** in the next (2)
 
-#### Choosing an LLM and embeddings provider
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/choosing-an-llm-and-embeddings-provider?u=76281980)
+#### [Choosing an LLM and embeddings provider](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/choosing-an-llm-and-embeddings-provider?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -582,15 +576,15 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/choosing-an-llm-and-embeddings-provider?u=76281980&t=4)** There are a ton of options available to you for choosing a provider.
 >
-> **[0:08](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/choosing-an-llm-and-embeddings-provider?u=76281980&t=8)** You could choose from companies that build and serve their own LLMs, like OpenAI, Cohere, Mistral, Google, or you could choose from companies that host and serve open source models via an API, for example, Fireworks, Together, Hugging Face, Replicate, so on and so forth.
+> **[0:08](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/choosing-an-llm-and-embeddings-provider?u=76281980&t=8)** You could choose from companies that build and serve their own LLMs, like OpenAI, Cohere, Mistral, [[Google]], or you could choose from companies that host and serve open source models via an API, for example, Fireworks, Together, [[Hugging Face]], Replicate, so on and so forth.
 >
 > **[0:26](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/choosing-an-llm-and-embeddings-provider?u=76281980&t=26)** It's up to you what it is that you want to choose.
 >
 > **[0:29](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/choosing-an-llm-and-embeddings-provider?u=76281980&t=29)** For this course, I'm sticking primarily with Cohere and with OpenAI.
 >
-> **[0:35](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/choosing-an-llm-and-embeddings-provider?u=76281980&t=35)** There's so many providers entering the market and trying to capture share, but luckily LlamaIndex has integrations with the vast majority of them and you can see all of them right here.
+> **[0:35](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/choosing-an-llm-and-embeddings-provider?u=76281980&t=35)** There's so many providers entering the market and trying to capture share, but luckily [[LlamaIndex]] has integrations with the vast majority of them and you can see all of them right here.
 >
-> **[0:48](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/choosing-an-llm-and-embeddings-provider?u=76281980&t=48)** And then, you know, if you look here, llama-index-llm, so this is in the LlamaIndex GitHub repository.
+> **[0:48](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/choosing-an-llm-and-embeddings-provider?u=76281980&t=48)** And then, you know, if you look here, [[LlamaIndex|llama-index]]-llm, so this is in the LlamaIndex [[GitHub]] repository.
 >
 > **[0:54](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/choosing-an-llm-and-embeddings-provider?u=76281980&t=54)** Look under integrations, look at LLMs, and then you can see all the different LLM providers that are available to you.
 >
@@ -674,11 +668,11 @@ created: 2026-05-02
 >
 > **[5:54](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/choosing-an-llm-and-embeddings-provider?u=76281980&t=354)** Last, you just want to also consider the language support and multilingual capabilities of a model as well.
 >
-> **[6:02](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/choosing-an-llm-and-embeddings-provider?u=76281980&t=362)** You also want to evaluate security and privacy compliance, so look for features like data encryption, secure data handling, and compliance with the relevant privacy regulations.
+> **[6:02](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/choosing-an-llm-and-embeddings-provider?u=76281980&t=362)** You also want to evaluate security and [[Privacy Compliance]], so look for features like data encryption, secure data handling, and compliance with the relevant [[Privacy]] regulations.
 >
 > **[6:14](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/choosing-an-llm-and-embeddings-provider?u=76281980&t=374)** Of course, cost is always a issue.
 >
-> **[6:18](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/choosing-an-llm-and-embeddings-provider?u=76281980&t=378)** So OpenAI for GPT-4o has a blended rate of about $10 per million tokens.
+> **[6:18](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/choosing-an-llm-and-embeddings-provider?u=76281980&t=378)** So OpenAI for GPT-4o has a blended rate of about $10 per million [[Tokens]].
 >
 > **[6:28](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/choosing-an-llm-and-embeddings-provider?u=76281980&t=388)** So for input tokens, it's $5 per million input tokens, and then I believe it is $15 per output token.
 >
@@ -694,11 +688,11 @@ created: 2026-05-02
 >
 > **[7:05](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/choosing-an-llm-and-embeddings-provider?u=76281980&t=425)** With everything I do in the dev tools space, I look for framers that have active communities.
 >
-> **[7:10](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/choosing-an-llm-and-embeddings-provider?u=76281980&t=430)** Generative AI is moving at a very, very fast pace, and it's hard to keep up with things on your own.
+> **[7:10](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/choosing-an-llm-and-embeddings-provider?u=76281980&t=430)** [[Generative AI]] is moving at a very, very fast pace, and it's hard to keep up with things on your own.
 >
 > **[7:17](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/choosing-an-llm-and-embeddings-provider?u=76281980&t=437)** You're inevitably going to run into issues or run into questions where you don't have the answers, and having a active community, a welcome community is super important.
 >
-> **[7:30](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/choosing-an-llm-and-embeddings-provider?u=76281980&t=450)** So OpenAI has got their OpenAI Slack channel, they've got the OpenAI Developer Forum.
+> **[7:30](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/choosing-an-llm-and-embeddings-provider?u=76281980&t=450)** So OpenAI has got their OpenAI [[Slack]] channel, they've got the OpenAI Developer Forum.
 >
 > **[7:34](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/choosing-an-llm-and-embeddings-provider?u=76281980&t=454)** Cohere has a Discord channel.
 >
@@ -714,7 +708,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (13), [[Tokens]] (5), api (4), [[LlamaIndex|Llama-index]] (4), [[Google]] (2)
+> **Frameworks & Libraries:** [[Tokens]] (5), [[LlamaIndex|Llama-index]] (4), [[Google]] (2), [[LlamaIndex]] (2), [[GitHub]] (2)
 > **Env Vars:** llm (12), api (4), rag (1), gpt (1)
 > **Tools:** github (2), discord (2), slack (1)
 > **CLI Commands:** make (2), pip (1)
@@ -723,8 +717,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
 
-#### Setting up LLM accounts
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-llm-accounts?u=76281980)
+#### [Setting up LLM accounts](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-llm-accounts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -732,7 +725,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-llm-accounts?u=76281980&t=5)** So if you just click on this link right here and go to either Log In or Sign Up, if you haven't already signed up for OpenAI, it's quite easy to do so.
 >
-> **[0:16](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-llm-accounts?u=76281980&t=16)** You can sign up with Google, Apple, Microsoft account, whatever you want.
+> **[0:16](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-llm-accounts?u=76281980&t=16)** You can sign up with [[Google]], Apple, [[Microsoft]] account, whatever you want.
 >
 > **[0:21](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-llm-accounts?u=76281980&t=21)** If you've already signed up for OpenAI, then this is just going to be a refresher for you.
 >
@@ -784,13 +777,13 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-llm-accounts?u=76281980&t=148)** And I have also an env_example, so you can copy this env_example and paste the appropriate ones in here.
 >
-> **[2:39](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-llm-accounts?u=76281980&t=159)** So for right now, let's just copy and paste our Cohere API keys and our OpenAI API keys.
+> **[2:39](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-llm-accounts?u=76281980&t=159)** So for right now, let's just copy and paste our Cohere API keys and our [[OpenAI API]] keys.
 >
-> **[2:51](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-llm-accounts?u=76281980&t=171)** You can disregard this LangChain thing 'cause we're not going to be using LangChain.
+> **[2:51](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-llm-accounts?u=76281980&t=171)** You can disregard this [[LangChain]] thing 'cause we're not going to be using LangChain.
 >
 > **[2:56](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-llm-accounts?u=76281980&t=176)** And in the environment variables, you can ahead and copy and paste the API keys like so.
 >
-> **[3:06](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-llm-accounts?u=76281980&t=186)** Just make sure you're not pushing any of these API keys to your GitHub repository because you don't want this information to be public.
+> **[3:06](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-llm-accounts?u=76281980&t=186)** Just make sure you're not pushing any of these API keys to your [[GitHub]] repository because you don't want this information to be public.
 >
 > **[3:14](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-llm-accounts?u=76281980&t=194)** So there we go, so we've got our .env file created and we've added a couple of environment variables.
 >
@@ -800,7 +793,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (10), [[Google]] (2), [[LangChain]] (2), next (2), database (2)
+> **Frameworks & Libraries:** [[Google]] (2), [[LangChain]] (2), [[Microsoft]] (1), [[OpenAI API]] (1), [[GitHub]] (1)
 > **Env Vars:** api (11)
 > **UI Navigation:** click on (3), go to (2)
 > **Code Identifiers:** lil_llama_index (2), env_example (2)
@@ -809,12 +802,11 @@ created: 2026-05-02
 > **Tools:** terminal (1), github (1)
 > **URLs:** [openai.com](https://openai.com) (1)
 
-#### Choosing a vector database
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/choosing-a-vector-database?u=76281980)
+#### [Choosing a vector database](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/choosing-a-vector-database?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/choosing-a-vector-database?u=76281980&t=0)** - [Instructor] Without a doubt, vector databases are an essential part of any Retrieval-Augmented Generation system.
+> **[0:00](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/choosing-a-vector-database?u=76281980&t=0)** - [Instructor] Without a doubt, [[Vector Databases]] are an essential part of any [[Retrieval-Augmented Generation (RAG)|Retrieval-Augmented Generation]] system.
 >
 > **[0:07](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/choosing-a-vector-database?u=76281980&t=7)** And as this image shows here, there's a lot to choose from.
 >
@@ -828,7 +820,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/choosing-a-vector-database?u=76281980&t=33)** The vector database that you choose should provide fast and accurate similarity search capabilities.
 >
-> **[0:40](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/choosing-a-vector-database?u=76281980&t=40)** Scalability is also a concern.
+> **[0:40](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/choosing-a-vector-database?u=76281980&t=40)** [[Scalability]] is also a concern.
 >
 > **[0:43](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/choosing-a-vector-database?u=76281980&t=43)** So as the amount of data grows, the vector database should be able to scale horizontally and handle large scale indexing and querying.
 >
@@ -846,7 +838,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/choosing-a-vector-database?u=76281980&t=105)** Retrieval flexibility is absolutely key.
 >
-> **[1:48](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/choosing-a-vector-database?u=76281980&t=108)** The vector database you choose should offer flexibility in retrieval options, for example, specifying the number of nearest neighbors to retrieve, setting similarity thresholds, or applying filters based on metadata, because without this flexibility, it's going to be hard to customize and fine-tune your retrieval process.
+> **[1:48](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/choosing-a-vector-database?u=76281980&t=108)** The vector database you choose should offer flexibility in retrieval options, for example, specifying the number of nearest neighbors to retrieve, setting similarity thresholds, or applying filters based on [[Metadata]], because without this flexibility, it's going to be hard to customize and fine-tune your retrieval process.
 >
 > **[2:09](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/choosing-a-vector-database?u=76281980&t=129)** Data persistence and reliability, of course, is super critical.
 >
@@ -866,7 +858,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/choosing-a-vector-database?u=76281980&t=186)** So as I mentioned before in this course, we are using Qdrant, for a number of reasons, for example, for all the reasons I mentioned above, but for some other reasons as well.
 >
-> **[3:16](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/choosing-a-vector-database?u=76281980&t=196)** So for one, Qdrant is one of the most popular vector databases on LlamaIndex Hub, So it's like the most popular vector database on LlamaIndex Hub.
+> **[3:16](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/choosing-a-vector-database?u=76281980&t=196)** So for one, Qdrant is one of the most popular vector databases on [[LlamaIndex]] Hub, So it's like the most popular vector database on LlamaIndex Hub.
 >
 > **[3:28](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/choosing-a-vector-database?u=76281980&t=208)** So that's one big reason for sure.
 >
@@ -884,9 +876,9 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/choosing-a-vector-database?u=76281980&t=239)** So for example, it's rumored that OpenAI uses Qdrant.
 >
-> **[4:03](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/choosing-a-vector-database?u=76281980&t=243)** It's also rumored that, behind the scenes, like Microsoft Azure, their AI search is backed by Qdrant.
+> **[4:03](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/choosing-a-vector-database?u=76281980&t=243)** It's also rumored that, behind the scenes, like [[Microsoft Azure]], their AI search is backed by Qdrant.
 >
-> **[4:11](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/choosing-a-vector-database?u=76281980&t=251)** Also xAI, you know, Elon Musk's thing, uses Qdrant and you can see that because they have forked Qdrant at their GitHub org.
+> **[4:11](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/choosing-a-vector-database?u=76281980&t=251)** Also xAI, you know, Elon Musk's thing, uses Qdrant and you can see that because they have forked Qdrant at their [[GitHub]] org.
 >
 > **[4:23](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/choosing-a-vector-database?u=76281980&t=263)** Not only that, just a lot of the people in the industry that I respect the most, mention that Qdrant is a excellent choice.
 >
@@ -904,7 +896,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (13), data (6), [[Search]] (4), rag (3), [[LlamaIndex]] (3)
+> **Frameworks & Libraries:** [[LlamaIndex]] (3), [[Vector Databases]] (2), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (2), [[Scalability]] (2), [[Metadata]] (1)
 > **Env Vars:** rag (3), llm (2), api (1), url (1)
 > **Analogies:** for example (4), it's like (1)
 > **Code Identifiers:** xai (1)
@@ -913,8 +905,7 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **Definitions:** is a  (1)
 
-#### Setting up a Qdrant account
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-qdrant-account?u=76281980)
+#### [Setting up a Qdrant account](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-qdrant-account?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -924,7 +915,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-qdrant-account?u=76281980&t=12)** And from here you can sign in a number of ways.
 >
-> **[0:15](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-qdrant-account?u=76281980&t=15)** You can sign in with GitHub or with Google or just use your email address.
+> **[0:15](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-qdrant-account?u=76281980&t=15)** You can sign in with [[GitHub]] or with [[Google]] or just use your email address.
 >
 > **[0:18](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-qdrant-account?u=76281980&t=18)** I'll go ahead and sign up with GitHub.
 >
@@ -974,7 +965,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-qdrant-account?u=76281980&t=157)** So I do hope that you saved your API key, put it into a text file somewhere, of course, because you're going to need it.
 >
-> **[2:46](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-qdrant-account?u=76281980&t=166)** All right, I'm not going to go too much in depth in this series about the inner workings of vector databases.
+> **[2:46](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-qdrant-account?u=76281980&t=166)** All right, I'm not going to go too much in depth in this series about the inner workings of [[Vector Databases]].
 >
 > **[2:55](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-qdrant-account?u=76281980&t=175)** So I am actually writing a book on retrieval augmented generation called "Practical Retrieval Augmented Generation", and accompany that book, I have a YouTube channel that I think you should check out.
 >
@@ -982,7 +973,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-qdrant-account?u=76281980&t=193)** So this playlist here is essentially me kind of building in public, creating some materials to accompany my book.
 >
-> **[3:22](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-qdrant-account?u=76281980&t=202)** If you're watching this and you want to go deep into vector search and vector databases and frankly learn how to do retrieve augmented generation without the use of LlamaIndex, definitely check out my YouTube course and this series of videos.
+> **[3:22](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-qdrant-account?u=76281980&t=202)** If you're watching this and you want to go deep into vector search and vector databases and frankly learn how to do retrieve augmented generation without the use of [[LlamaIndex]], definitely check out my YouTube course and this series of videos.
 >
 > **[3:36](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-qdrant-account?u=76281980&t=216)** Of course, a subscribe always is welcome.
 >
@@ -998,7 +989,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (9), hit (4), cloud (2), [[GitHub]] (2), [[Vector Databases]] (2)
+> **Frameworks & Libraries:** [[GitHub]] (2), [[Vector Databases]] (2), [[Google]] (1), [[LlamaIndex]] (1)
 > **Env Vars:** api (9), url (4), ram (1)
 > **CLI Commands:** make (3)
 > **Tools:** github (2), command line (1)
@@ -1007,8 +998,7 @@ created: 2026-05-02
 > **Code Identifiers:** lil_llama_index (1)
 > **Cross-References:** go back to (1)
 
-#### Downloading our data
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/downloading-our-data?u=76281980)
+#### [Downloading our data](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/downloading-our-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1092,17 +1082,17 @@ created: 2026-05-02
 >
 > **[4:18](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/downloading-our-data?u=76281980&t=258)** So it'll be a really good exercise on what real world RAG is like.
 >
-> **[4:24](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/downloading-our-data?u=76281980&t=264)** You'll notice that once you start doing RAG in the real world, that it is a lot of data cleaning involved.
+> **[4:24](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/downloading-our-data?u=76281980&t=264)** You'll notice that once you start doing RAG in the real world, that it is a lot of [[Data Cleaning]] involved.
 >
 > **[4:31](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/downloading-our-data?u=76281980&t=271)** But, we have our data and now we can actually start doing some RAG.
 >
 > **[4:35](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/downloading-our-data?u=76281980&t=275)** I've been talking about actually doing RAG over the last few videos, but now we are actually going to get to it.
 >
-> **[4:41](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/downloading-our-data?u=76281980&t=281)** So before we get to RAG, I must teach you about Llama Index and its core components, which is what we're going to talk about in the next module.
+> **[4:41](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/downloading-our-data?u=76281980&t=281)** So before we get to RAG, I must teach you about [[LLaMA]] Index and its core components, which is what we're going to talk about in the next module.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rag (6), data (6), next (4), chatbot (2), game (1)
+> **Frameworks & Libraries:** [[Data Cleaning]] (1), [[LLaMA]] (1)
 > **Env Vars:** rag (6), url (1)
 > **Definitions:** is a  (5)
 > **Analogies:** for example (2)
@@ -1116,12 +1106,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How LlamaIndex is organized
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-llamaindex-is-organized?u=76281980)
+#### [How LlamaIndex is organized](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-llamaindex-is-organized?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-llamaindex-is-organized?u=76281980&t=0)** - [Instructor] LlamaIndex is a data framework for LLM applications that makes integrating data into language models easy.
+> **[0:00](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-llamaindex-is-organized?u=76281980&t=0)** - [Instructor] [[LlamaIndex]] is a data framework for LLM applications that makes integrating data into language models easy.
 >
 > **[0:10](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-llamaindex-is-organized?u=76281980&t=10)** Essentially, it is a framework for building context augmented LLM applications.
 >
@@ -1131,7 +1120,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-llamaindex-is-organized?u=76281980&t=44)** And there's a suite of tools that LlamaIndex provides that makes it relatively easy to deploy production grade RAG systems.
 >
-> **[0:56](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-llamaindex-is-organized?u=76281980&t=56)** You get tools for connecting to data, to ingest data from their native source and format, which could be an API, PDF, SQL database, and so much more.
+> **[0:56](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-llamaindex-is-organized?u=76281980&t=56)** You get tools for connecting to data, to ingest data from their native source and format, which could be an API, PDF, [[SQL]] database, and so much more.
 >
 > **[1:06](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-llamaindex-is-organized?u=76281980&t=66)** There's also indexes that structure data in some intermediate representation that's easy and performant for a LLM to consume.
 >
@@ -1143,7 +1132,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-llamaindex-is-organized?u=76281980&t=96)** There's also, you know, chat engines that allow you to do conversational interfaces back and forth kind of dynamic with your data.
 >
-> **[1:45](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-llamaindex-is-organized?u=76281980&t=105)** There's also data agents, which are LLM powered knowledge workers that are augmented by tools, and LlamaIndex gives you all of this and helps you connect with the rest of your ecosystem through its hub.
+> **[1:45](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-llamaindex-is-organized?u=76281980&t=105)** There's also data agents, which are LLM powered knowledge workers that are augmented by tools, and LlamaIndex gives you all of this and helps you connect with the [[Representational State Transfer (REST)|rest]] of your ecosystem through its hub.
 >
 > **[2:02](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-llamaindex-is-organized?u=76281980&t=122)** So the LlamaHub has a wide range of integrations.
 >
@@ -1151,7 +1140,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-llamaindex-is-organized?u=76281980&t=134)** There's integrations that connect to different vector stores, different LLMs.
 >
-> **[2:19](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-llamaindex-is-organized?u=76281980&t=139)** There's also a lot of community contributed type of work that is available to you on the hub, that typically, you know, if a new paper comes out, showcasing some new methodology in RAG somebody from the community might write a Llama Pack for that research paper for that new methodology and submit it to the LlamaHub.
+> **[2:19](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-llamaindex-is-organized?u=76281980&t=139)** There's also a lot of community contributed type of work that is available to you on the hub, that typically, you know, if a new paper comes out, showcasing some new methodology in RAG somebody from the community might write a [[LLaMA]] Pack for that research paper for that new methodology and submit it to the LlamaHub.
 >
 > **[2:44](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-llamaindex-is-organized?u=76281980&t=164)** In general, LlamaIndex, it sits between your data, your embeddings, your language model, your vector store, and the different use cases.
 >
@@ -1159,7 +1148,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-llamaindex-is-organized?u=76281980&t=186)** There's two different SDKs available with LlamaIndex.
 >
-> **[3:10](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-llamaindex-is-organized?u=76281980&t=190)** There's the Python SDK, and the TypeScript SDK.
+> **[3:10](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-llamaindex-is-organized?u=76281980&t=190)** There's the [[Python (Programming Language)|Python]] SDK, and the TypeScript SDK.
 >
 > **[3:13](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-llamaindex-is-organized?u=76281980&t=193)** We are going to be using Python throughout this course.
 >
@@ -1207,7 +1196,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[LlamaIndex]] (12), llm (7), rag (7), [[LLaMA]] (4)
+> **Frameworks & Libraries:** [[LlamaIndex]] (12), [[LLaMA]] (4), [[Representational State Transfer (REST)|Rest]] (2), [[Python (Programming Language)|Python]] (2), [[SQL]] (1)
 > **Env Vars:** llm (7), rag (7), sdk (2), api (1), pdf (1)
 > **CLI Commands:** python (2), find (1)
 > **Documentation:** the docs (3)
@@ -1216,16 +1205,15 @@ created: 2026-05-02
 > **Versions:** 2.8 (1), 1.0 (1)
 > **Cross-References:** we discussed (1), in the next (1)
 
-#### Using LLMs
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/using-llms?u=76281980)
+#### [Using LLMs](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/using-llms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/using-llms?u=76281980&t=0)** - [Instructor] Let's begin our deep dive into the core components of LlamaIndex, starting with how to use a LLM.
+> **[0:00](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/using-llms?u=76281980&t=0)** - [Instructor] Let's begin our deep dive into the core components of [[LlamaIndex]], starting with how to use a LLM.
 >
-> **[0:11](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/using-llms?u=76281980&t=11)** So if you're running this on Codespaces, make sure you select the kernel and connect to the environment that we had set up.
+> **[0:11](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/using-llms?u=76281980&t=11)** So if you're running this on [[Codespaces]], make sure you select the kernel and connect to the environment that we had set up.
 >
-> **[0:20](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/using-llms?u=76281980&t=20)** If you are running this on Google Colab, make sure you run this cell to install the appropriate libraries.
+> **[0:20](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/using-llms?u=76281980&t=20)** If you are running this on [[Google]] Colab, make sure you run this cell to install the appropriate libraries.
 >
 > **[0:28](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/using-llms?u=76281980&t=28)** We'll go ahead and do a couple of imports here and we'll load our dotenv file.
 >
@@ -1251,7 +1239,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/using-llms?u=76281980&t=86)** During querying, an LLM is used for retrieval and response synthesis.
 >
-> **[1:32](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/using-llms?u=76281980&t=92)** So when it's used for retrieval, it's fetching data from the index, choosing the best data source from the options and maybe even using some tools to to fetch data.
+> **[1:32](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/using-llms?u=76281980&t=92)** So when it's used for retrieval, it's fetching data from the index, choosing the best data source from the options and maybe even using some tools to to [[Fetch]] data.
 >
 > **[1:43](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/using-llms?u=76281980&t=103)** So LlamaIndex gives us a nice single interface to connect to various LLMs.
 >
@@ -1259,7 +1247,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/using-llms?u=76281980&t=118)** In this course, we're primarily using, you know, OpenAI and Cohere.
 >
-> **[2:02](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/using-llms?u=76281980&t=122)** And again, remember that if you want to see the full list of integrations for LLMs, it's available in the docs as well as on the GitHub.
+> **[2:02](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/using-llms?u=76281980&t=122)** And again, remember that if you want to see the full list of integrations for LLMs, it's available in the docs as well as on the [[GitHub]].
 >
 > **[2:09](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/using-llms?u=76281980&t=129)** So you can check that out if you'd like.
 >
@@ -1275,7 +1263,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/using-llms?u=76281980&t=159)** So to see the different arguments, of course you go to the LlamaIndex GitHub, you can go down to the integrations, you can look at the LLM integrations, look at Cohere, click on Cohere, go to base, scroll down until you see the Coherent LLM class and you can see all the different arguments that you can pass to the language model.
 >
-> **[3:06](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/using-llms?u=76281980&t=186)** So for example, you could pass temperature max tokens and some other keyword arguments that are from the Cohere API.
+> **[3:06](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/using-llms?u=76281980&t=186)** So for example, you could pass temperature max [[Tokens]] and some other keyword arguments that are from the Cohere API.
 >
 > **[3:14](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/using-llms?u=76281980&t=194)** So if you go to the Cohere documentation, look under the models or the text generation, the API, and see what different arguments you can pass, I'm only ever really going to manipulate the temperature.
 >
@@ -1323,7 +1311,7 @@ created: 2026-05-02
 >
 > **[6:06](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/using-llms?u=76281980&t=366)** And you can see here, we get an answer.
 >
-> **[6:08](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/using-llms?u=76281980&t=368)** So sitting around waiting for the answer is not the best user experience.
+> **[6:08](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/using-llms?u=76281980&t=368)** So sitting around waiting for the answer is not the best [[User Experience (UX)|user experience]].
 >
 > **[6:12](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/using-llms?u=76281980&t=372)** Well LlamaIndex allows you to stream the response from the LLM provider as well.
 >
@@ -1371,7 +1359,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (12), [[LlamaIndex]] (11), prompt (10), data (6), hit (4)
+> **Frameworks & Libraries:** [[LlamaIndex]] (11), [[User Experience (UX)|User experience]] (3), [[GitHub]] (2), [[Codespaces]] (1), [[Google]] (1)
 > **Env Vars:** llm (11), api (3), rag (1)
 > **Exercise Files:** template (9)
 > **UI Navigation:** go to (2), select the (1), click on (1), scroll down (1)
@@ -1380,8 +1368,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (2), install (1)
 > **CLI Commands:** make (2)
 
-#### Loading data
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/loading-data?u=76281980)
+#### [Loading data](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/loading-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1395,21 +1382,21 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/loading-data?u=76281980&t=32)** So preparing data for an LLM involves creating kind of an ingestion pipeline.
 >
-> **[0:39](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/loading-data?u=76281980&t=39)** And this is similar to traditional ML, where we have data cleaning or an ETL process, and ingestion happens in three stages.
+> **[0:39](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/loading-data?u=76281980&t=39)** And this is similar to traditional ML, where we have [[Data Cleaning]] or an ETL process, and ingestion happens in three stages.
 >
 > **[0:48](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/loading-data?u=76281980&t=48)** There's loading the data, transforming the data, and then finally indexing and storing the data.
 >
 > **[0:54](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/loading-data?u=76281980&t=54)** So let's walk through how to load data.
 >
-> **[0:58](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/loading-data?u=76281980&t=58)** So to use data with an LLM, we load it using a data connector, which is known as a reader in Llamaindex.
+> **[0:58](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/loading-data?u=76281980&t=58)** So to use data with an LLM, we load it using a data connector, which is known as a reader in [[LlamaIndex]].
 >
-> **[1:08](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/loading-data?u=76281980&t=68)** A reader is going to format data, in this case a text document, into a Llamaindex document object that's going to contain the data and metadata.
+> **[1:08](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/loading-data?u=76281980&t=68)** A reader is going to format data, in this case a text document, into a Llamaindex document object that's going to contain the data and [[Metadata]].
 >
 > **[1:20](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/loading-data?u=76281980&t=80)** We're going to use a Simple Directory Reader, it's the most straightforward reader and loader that Llamaindex has.
 >
 > **[1:29](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/loading-data?u=76281980&t=89)** A Simple Directory Reader can read data in various formats.
 >
-> **[1:33](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/loading-data?u=76281980&t=93)** It could be markdown, PDF, word document, PowerPoint decks, images, audio, so on and so forth.
+> **[1:33](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/loading-data?u=76281980&t=93)** It could be markdown, PDF, [[Microsoft Word|word]] document, [[Microsoft PowerPoint|PowerPoint]] decks, images, audio, so on and so forth.
 >
 > **[1:39](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/loading-data?u=76281980&t=99)** And it does so for every file in a directory.
 >
@@ -1541,7 +1528,7 @@ created: 2026-05-02
 >
 > **[8:09](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/loading-data?u=76281980&t=489)** So what we're going to do here is just define a node parser, in this case, a sentence splitter.
 >
-> **[8:17](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/loading-data?u=76281980&t=497)** We'll talk a lot about splitting later, but just take it for granted that what we're doing is splitting a body of text, a string of text into chunks of 128 tokens, where each chunk has a 16 token overlap with the chunk before it.
+> **[8:17](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/loading-data?u=76281980&t=497)** We'll talk a lot about splitting later, but just take it for granted that what we're doing is splitting a body of text, a string of text into chunks of 128 [[Tokens]], where each chunk has a 16 token overlap with the chunk before it.
 >
 > **[8:36](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/loading-data?u=76281980&t=516)** And we're also defining a paragraph separator here, in this case, two line characters.
 >
@@ -1599,7 +1586,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (36), data (18), [[Metadata]] (15), [[LlamaIndex]] (12), hit (3)
+> **Frameworks & Libraries:** [[Metadata]] (15), [[LlamaIndex]] (12), [[Data Cleaning]] (1), [[Microsoft Word|Word]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **CLI Commands:** node (36), make (1)
 > **Env Vars:** pdf (6), llm (2), etl (1), api (1)
 > **Definitions:** is a  (8), known as (1)
@@ -1608,8 +1595,7 @@ created: 2026-05-02
 > **Prerequisites:** install (2)
 > **Code Identifiers:** from_documents (1)
 
-#### Indexing
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/indexing?u=76281980)
+#### [Indexing](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/indexing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1621,7 +1607,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/indexing?u=76281980&t=19)** So, what is an index?
 >
-> **[0:20](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/indexing?u=76281980&t=20)** So index is a data structure that allows you to quickly retrieve relevant context for a user's query, and it's the core foundation of retrieval-augmented generation use cases.
+> **[0:20](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/indexing?u=76281980&t=20)** So index is a data structure that allows you to quickly retrieve relevant context for a user's query, and it's the core foundation of [[Retrieval-Augmented Generation (RAG)|retrieval-augmented generation]] use cases.
 >
 > **[0:36](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/indexing?u=76281980&t=36)** In LAMA Index, a index is built from documents or nodes that are used to build retrievers, query engines, and chat engines.
 >
@@ -1641,7 +1627,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/indexing?u=76281980&t=113)** So, let's go ahead and instantiate these.
 >
-> **[1:55](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/indexing?u=76281980&t=115)** Now, if you wanted to, you can use a local embedding model from Hugging Face.
+> **[1:55](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/indexing?u=76281980&t=115)** Now, if you wanted to, you can use a local embedding model from [[Hugging Face]].
 >
 > **[2:00](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/indexing?u=76281980&t=120)** You can check out the massive text embedding leaderboard to see what is hot.
 >
@@ -1675,7 +1661,7 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/indexing?u=76281980&t=229)** And that's because what an embedding does is that it takes a chunk of text, and from that chunk of text it's creating a vector, a fixed-length vector that represents what that text means.
 >
-> **[4:02](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/indexing?u=76281980&t=242)** So, we're not going to get too much into the mathematics of embedding, but this part is crucial, it's important to know that it doesn't matter what the number of tokens of that input text is, when we pass it through our embedding model we're going to get a consistent fixed-length vector.
+> **[4:02](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/indexing?u=76281980&t=242)** So, we're not going to get too much into the mathematics of embedding, but this part is crucial, it's important to know that it doesn't matter what the number of [[Tokens]] of that input text is, when we pass it through our embedding model we're going to get a consistent fixed-length vector.
 >
 > **[4:22](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/indexing?u=76281980&t=262)** Now, once we have this embedding, we can do some interesting things like compute similarity between embeddings.
 >
@@ -1735,7 +1721,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), node (4), api (2), database (2), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1)
+> **Frameworks & Libraries:** [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1), [[Hugging Face]] (1), [[Tokens]] (1)
 > **Env Vars:** lama (3), api (2), cpu (2), llm (1), url (1)
 > **CLI Commands:** node (4), make (3)
 > **Definitions:** is an  (1), is a  (1)
@@ -1744,12 +1730,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Warnings:** note that (1)
 
-#### Storing and retrieving
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/storing-and-retrieving?u=76281980)
+#### [Storing and retrieving](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/storing-and-retrieving?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/storing-and-retrieving?u=76281980&t=0)** - [Instructor] Now that you know how to load and index data in LlamaIndex, I'm going to show you how we can now store our data.
+> **[0:00](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/storing-and-retrieving?u=76281980&t=0)** - [Instructor] Now that you know how to load and index data in [[LlamaIndex]], I'm going to show you how we can now store our data.
 >
 > **[0:10](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/storing-and-retrieving?u=76281980&t=10)** And in this lesson, I'm going to show you how to store data into Quadrant, which is going to be the vector database that we're going to use in this course.
 >
@@ -1843,7 +1828,7 @@ created: 2026-05-02
 >
 > **[4:38](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/storing-and-retrieving?u=76281980&t=278)** Click that carrot, hit open dashboard and see now that we have a collection, right?
 >
-> **[4:44](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/storing-and-retrieving?u=76281980&t=284)** So this collection has all the content of our node, so all the metadata and a bunch of other information here.
+> **[4:44](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/storing-and-retrieving?u=76281980&t=284)** So this collection has all the content of our node, so all the [[Metadata]] and a bunch of other information here.
 >
 > **[4:54](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/storing-and-retrieving?u=76281980&t=294)** Essentially they saw metadata and that it also has vectors.
 >
@@ -1879,7 +1864,7 @@ created: 2026-05-02
 >
 > **[6:21](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/storing-and-retrieving?u=76281980&t=381)** So a retriever is actually a interface that's exposed by the index.
 >
-> **[6:27](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/storing-and-retrieving?u=76281980&t=387)** So an index with its retriever is what we use to store and fetch data.
+> **[6:27](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/storing-and-retrieving?u=76281980&t=387)** So an index with its retriever is what we use to store and [[Fetch]] data.
 >
 > **[6:32](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/storing-and-retrieving?u=76281980&t=392)** And this retriever is actually part of the index.
 >
@@ -1933,7 +1918,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[LlamaIndex]] (6), node (4), api (3), hit (2)
+> **Frameworks & Libraries:** [[LlamaIndex]] (6), [[Metadata]] (2), [[Fetch]] (1)
 > **CLI Commands:** node (4), find (1), make (1)
 > **Env Vars:** api (3), url (2), rag (1)
 > **Cross-References:** later in (2), in the next (2)
@@ -1942,8 +1927,7 @@ created: 2026-05-02
 > **Versions:** 0.75 (1)
 > **Documentation:** the documentation (1)
 
-#### Querying
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/querying?u=76281980)
+#### [Querying](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/querying?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1977,7 +1961,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/querying?u=76281980&t=90)** So it's going to retrieve the relevant data and then inject this into the prompt that is going to be sent to an LLM to generate a response.
 >
-> **[1:42](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/querying?u=76281980&t=102)** So we're using a retriever to fetch the data and then on top of that doing some additional logic to generate a response.
+> **[1:42](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/querying?u=76281980&t=102)** So we're using a retriever to [[Fetch]] the data and then on top of that doing some additional logic to generate a response.
 >
 > **[1:50](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/querying?u=76281980&t=110)** So under the hood there's retrieval, post-processing, and response synthesis that happens.
 >
@@ -2071,7 +2055,7 @@ created: 2026-05-02
 >
 > **[6:23](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/querying?u=76281980&t=383)** You can do a condensed plus context, which just is going to condense the conversation and the history of user messages into a standalone question.
 >
-> **[6:34](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/querying?u=76281980&t=394)** You could do React, which is a type of agentic behavior or Best.
+> **[6:34](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/querying?u=76281980&t=394)** You could do [[React.js|React]], which is a type of agentic behavior or Best.
 >
 > **[6:39](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/querying?u=76281980&t=399)** So I've linked to the documentation here where you can learn more about the different chat modes.
 >
@@ -2083,7 +2067,7 @@ created: 2026-05-02
 >
 > **[7:03](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/querying?u=76281980&t=423)** So here we have a memory that's been instantiated.
 >
-> **[7:05](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/querying?u=76281980&t=425)** This is just saying keep in memory the last 1500 tokens of interaction.
+> **[7:05](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/querying?u=76281980&t=425)** This is just saying keep in memory the last 1500 [[Tokens]] of interaction.
 >
 > **[7:12](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/querying?u=76281980&t=432)** Then we can instantiate our chat engine with our LLM using the context mode memory that I'm adding a additional system prompt here saying that you know, you're a chat bot able to have normal interactions as well as talk about this book of poems.
 >
@@ -2121,7 +2105,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), prompt (4), llm (3), database (2), api (2)
+> **Frameworks & Libraries:** [[Fetch]] (1), [[React.js|React]] (1), [[Tokens]] (1)
 > **Env Vars:** lama (4), llm (3), api (2)
 > **Analogies:** for example (2), picture (1), imagine (1)
 > **CLI Commands:** make (2), node (1)
@@ -2130,12 +2114,11 @@ created: 2026-05-02
 > **Code Identifiers:** source_nodes (1)
 > **Versions:** 0.42 (1)
 
-#### Agents
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/agents?u=76281980)
+#### [Agents](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/agents?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/agents?u=76281980&t=0)** - [Instructor] In this module, we're going to talk about agents in LlamaIndex.
+> **[0:00](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/agents?u=76281980&t=0)** - [Instructor] In this module, we're going to talk about agents in [[LlamaIndex]].
 >
 > **[0:04](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/agents?u=76281980&t=4)** Now throughout this course, we're not going to be making much use of agents.
 >
@@ -2151,7 +2134,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/agents?u=76281980&t=49)** It's able to create a plan for how it's going to execute and then go ahead and do the thing.
 >
-> **[0:55](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/agents?u=76281980&t=55)** It's a pretty powerful capability that these large language models have, and a lot of it is some interesting reasoning that goes on under the hood, but it's essentially just a prompting strategy.
+> **[0:55](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/agents?u=76281980&t=55)** It's a pretty powerful capability that these [[Large Language Models (LLM)|large language models]] have, and a lot of it is some interesting reasoning that goes on under the hood, but it's essentially just a prompting strategy.
 >
 > **[1:10](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/agents?u=76281980&t=70)** So agents are a really complex, interesting prompting strategy, plus giving the language model access to tools.
 >
@@ -2161,7 +2144,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/agents?u=76281980&t=94)** You can see the usage pattern for agents and some different agentic strategies.
 >
-> **[1:40](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/agents?u=76281980&t=100)** So just a heads up, we'll be talking about routing and query transformations much later in the course.
+> **[1:40](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/agents?u=76281980&t=100)** So just a heads up, we'll be talking about [[Routing]] and query transformations much later in the course.
 >
 > **[1:44](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/agents?u=76281980&t=104)** And then you can also see the lower level API for creating an agent.
 >
@@ -2169,7 +2152,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/agents?u=76281980&t=116)** But for now, I'm just going to proceed with a simple example.
 >
-> **[2:00](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/agents?u=76281980&t=120)** And this simple example is just going to show you the React prompting strategy or the React agent strategy.
+> **[2:00](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/agents?u=76281980&t=120)** And this simple example is just going to show you the [[React.js|React]] prompting strategy or the React agent strategy.
 >
 > **[2:07](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/agents?u=76281980&t=127)** I'm going to use a calculator.
 >
@@ -2189,7 +2172,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/agents?u=76281980&t=169)** And so what we do is we define the functions like I've done here, and then we create a function tool, which is an abstraction in LlamaIndex that essentially indicates the language model, that this is the tool that you have at your disposal.
 >
-> **[3:04](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/agents?u=76281980&t=184)** So we create our tools and you can see the metadata for the tool.
+> **[3:04](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/agents?u=76281980&t=184)** So we create our tools and you can see the [[Metadata]] for the tool.
 >
 > **[3:12](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/agents?u=76281980&t=192)** So in this case, here's the metadata from the multiply tool.
 >
@@ -2251,7 +2234,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LlamaIndex]] (7), rag (3), [[React.js|React]] (3), prompt (3), api (2)
+> **Frameworks & Libraries:** [[LlamaIndex]] (7), [[React.js|React]] (3), [[Metadata]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Routing]] (1)
 > **Env Vars:** rag (3), api (2)
 > **Versions:** 1.25 (1), 0.42 (1), 19.58 (1)
 > **UI Navigation:** go to (2), click on (1)
@@ -2265,12 +2248,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Components of a RAG system
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/components-of-a-rag-system?u=76281980)
+#### [Components of a RAG system](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/components-of-a-rag-system?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/components-of-a-rag-system?u=76281980&t=0)** - [Instructor] In this module, we're going to get a introduction to retrieval-augmented generation.
+> **[0:00](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/components-of-a-rag-system?u=76281980&t=0)** - [Instructor] In this module, we're going to get a introduction to [[Retrieval-Augmented Generation (RAG)|retrieval-augmented generation]].
 >
 > **[0:06](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/components-of-a-rag-system?u=76281980&t=6)** Specifically, I'm going to teach you the concept of a Naive RAG pipeline, but we have a couple of modules to go before we get there.
 >
@@ -2288,9 +2270,9 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/components-of-a-rag-system?u=76281980&t=52)** So we're going to first talk about the components of a RAG system, talk about the ingestion pipeline, query pipeline.
 >
-> **[0:57](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/components-of-a-rag-system?u=76281980&t=57)** I'll touch on prompt engineering for RAG.
+> **[0:57](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/components-of-a-rag-system?u=76281980&t=57)** I'll touch on [[Prompt Engineering]] for RAG.
 >
-> **[1:01](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/components-of-a-rag-system?u=76281980&t=61)** And then, we'll talk about data preparation.
+> **[1:01](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/components-of-a-rag-system?u=76281980&t=61)** And then, we'll talk about [[Data Preparation]].
 >
 > **[1:03](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/components-of-a-rag-system?u=76281980&t=63)** And then finally, we'll put all of that together in a end-to-end pipeline, and this is going to be called the Naive RAG pipeline.
 >
@@ -2330,7 +2312,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/components-of-a-rag-system?u=76281980&t=165)** And we'll learn about how we can manipulate those components to define several different types of retrieval strategies.
 >
-> **[2:55](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/components-of-a-rag-system?u=76281980&t=175)** So now that you are familiar with the core concepts in LlamaIndex and the components that you need for RAG system, let's talk about how we put these together into several different subsystems.
+> **[2:55](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/components-of-a-rag-system?u=76281980&t=175)** So now that you are familiar with the core concepts in [[LlamaIndex]] and the components that you need for RAG system, let's talk about how we put these together into several different subsystems.
 >
 > **[3:10](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/components-of-a-rag-system?u=76281980&t=190)** And these subsystems, the index retrieval and augment subsystems work together kind of in a orchestrated matter.
 >
@@ -2358,7 +2340,7 @@ created: 2026-05-02
 >
 > **[4:31](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/components-of-a-rag-system?u=76281980&t=271)** We then, with that embedding, perform vector search, and we're going to look for embeddings that closely match the user's query.
 >
-> **[4:41](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/components-of-a-rag-system?u=76281980&t=281)** And then we fetch those, those get returned to us.
+> **[4:41](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/components-of-a-rag-system?u=76281980&t=281)** And then we [[Fetch]] those, those get returned to us.
 >
 > **[4:45](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/components-of-a-rag-system?u=76281980&t=285)** These returned snippets, these returned chunks of context are then sent to the augment system so that we can generate a response.
 >
@@ -2390,15 +2372,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rag (13), prompt (6), llm (5), data (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[LlamaIndex]] (2), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1), [[Prompt Engineering]] (1), [[Data Preparation]] (1), [[Fetch]] (1)
 > **Env Vars:** rag (13), llm (5)
 > **CLI Commands:** node (1), make (1)
 > **Cross-References:** previous chapter (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ingestion pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/ingestion-pipeline?u=76281980)
+#### [Ingestion pipeline](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/ingestion-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2408,7 +2389,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/ingestion-pipeline?u=76281980&t=17)** So, I want you to notice that we're doing something a little bit different here.
 >
-> **[0:20](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/ingestion-pipeline?u=76281980&t=20)** We're using the settings from LlamaIndex.
+> **[0:20](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/ingestion-pipeline?u=76281980&t=20)** We're using the settings from [[LlamaIndex]].
 >
 > **[0:23](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/ingestion-pipeline?u=76281980&t=23)** So, what are settings?
 >
@@ -2484,7 +2465,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/ingestion-pipeline?u=76281980&t=212)** And the transformations, I'm going to use in this case is a token text splitter, and then also pass in the embedding model.
 >
-> **[3:40](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/ingestion-pipeline?u=76281980&t=220)** So, what we're saying to the ingestion pipeline is split our text into chunks of 256 tokens, and then embed those.
+> **[3:40](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/ingestion-pipeline?u=76281980&t=220)** So, what we're saying to the ingestion pipeline is split our text into chunks of 256 [[Tokens]], and then embed those.
 >
 > **[3:49](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/ingestion-pipeline?u=76281980&t=229)** And then, here's just kind of for document management, just really illustrate how it works.
 >
@@ -2508,7 +2489,7 @@ created: 2026-05-02
 >
 > **[4:39](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/ingestion-pipeline?u=76281980&t=279)** And now, if we are curious to see what one of the nodes looks like, we can do so like this.
 >
-> **[4:43](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/ingestion-pipeline?u=76281980&t=283)** So, each node has essentially got all the metadata that we have seen before.
+> **[4:43](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/ingestion-pipeline?u=76281980&t=283)** So, each node has essentially got all the [[Metadata]] that we have seen before.
 >
 > **[4:49](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/ingestion-pipeline?u=76281980&t=289)** We can now instantiate a index, create a retriever,
 >
@@ -2542,7 +2523,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LlamaIndex]] (5), data (5), management (4), next (3), hit (3)
+> **Frameworks & Libraries:** [[LlamaIndex]] (5), [[Tokens]] (1), [[Metadata]] (1)
 > **UI Navigation:** go to (5), click on (1), open the (1)
 > **CLI Commands:** make (5), node (1)
 > **Cross-References:** go back to (1), in the next (1)
@@ -2551,14 +2532,13 @@ created: 2026-05-02
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
 
-#### Query pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/query-pipeline?u=76281980)
+#### [Query pipeline](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/query-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/query-pipeline?u=76281980&t=0)** - [Instructor] In this video, we are going to talk about the Query Pipeline.
 >
-> **[0:04](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/query-pipeline?u=76281980&t=4)** So the Query Pipeline in LlamaIndex is a declarative API that allows you to chain together different modules so that you can orchestrate workflows, whether they be simple workflows or advance and complicated workflows.
+> **[0:04](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/query-pipeline?u=76281980&t=4)** So the Query Pipeline in [[LlamaIndex]] is a declarative API that allows you to chain together different modules so that you can orchestrate workflows, whether they be simple workflows or advance and complicated workflows.
 >
 > **[0:20](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/query-pipeline?u=76281980&t=20)** This is all centered around this abstraction called the Query Pipeline.
 >
@@ -2618,7 +2598,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/query-pipeline?u=76281980&t=198)** And we'll build a prompt template from that.
 >
-> **[3:21](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/query-pipeline?u=76281980&t=201)** And then we're just going to use a retriever over our index and just fetch the five most similar chunks of text to the user query.
+> **[3:21](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/query-pipeline?u=76281980&t=201)** And then we're just going to use a retriever over our index and just [[Fetch]] the five most similar chunks of text to the user query.
 >
 > **[3:31](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/query-pipeline?u=76281980&t=211)** So we'll go ahead and run that cell and we can run this and we'll get a response.
 >
@@ -2662,7 +2642,7 @@ created: 2026-05-02
 >
 > **[5:39](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/query-pipeline?u=76281980&t=339)** And so what we do is define that with a input component here we're going to have a retriever over our index.
 >
-> **[5:45](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/query-pipeline?u=76281980&t=345)** I'm going to use a different LLM this time using GPT-4.O, and I'll use a tree summarizer.
+> **[5:45](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/query-pipeline?u=76281980&t=345)** I'm going to use a different LLM this time using [[GPT-4]].O, and I'll use a tree summarizer.
 >
 > **[5:52](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/query-pipeline?u=76281980&t=352)** If you're not familiar with what a tree summarizer is, don't worry about it too much.
 >
@@ -2692,7 +2672,7 @@ created: 2026-05-02
 >
 > **[7:02](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/query-pipeline?u=76281980&t=422)** And you can also view it a bit more granularly if you'd like.
 >
-> **[7:09](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/query-pipeline?u=76281980&t=429)** If and when you view it granularly, you'll see that you got nodes with scores, which will have the metadata as well as the actual text that was retrieved.
+> **[7:09](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/query-pipeline?u=76281980&t=429)** If and when you view it granularly, you'll see that you got nodes with scores, which will have the [[Metadata]] as well as the actual text that was retrieved.
 >
 > **[7:22](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/query-pipeline?u=76281980&t=442)** Throughout the course, you'll see me use both of the patterns I've shown here where we're explicitly adding modules and defining links in the Query Pipeline and the pattern that we saw up here where we're just simply passing everything into the chain argument.
 >
@@ -2700,7 +2680,7 @@ created: 2026-05-02
 >
 > **[7:46](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/query-pipeline?u=76281980&t=466)** So if you go to the top level of the repository, look for the helpers folder.
 >
-> **[7:51](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/query-pipeline?u=76281980&t=471)** In the helper's folder, you'll see a Python file called utils.
+> **[7:51](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/query-pipeline?u=76281980&t=471)** In the helper's folder, you'll see a [[Python (Programming Language)|Python]] file called utils.
 >
 > **[7:56](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/query-pipeline?u=76281980&t=476)** And in utils, you'll see that I've defined a lot of the code that you've seen over and over in previous notebooks and kind of just created wrappers around the LlamaIndex functions and classes and just kind of making it a bit more flexible.
 >
@@ -2738,15 +2718,15 @@ created: 2026-05-02
 >
 > **[10:03](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/query-pipeline?u=76281980&t=603)** So you'll see these wrappers and abstractions that I've written throughout the course.
 >
-> **[10:07](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/query-pipeline?u=76281980&t=607)** Just note that they're simple wrappers around the preexisting LangChain abstractions, and you can find that in the top level of the repository under helpers.
+> **[10:07](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/query-pipeline?u=76281980&t=607)** Just note that they're simple wrappers around the preexisting [[LangChain]] abstractions, and you can find that in the top level of the repository under helpers.
 >
-> **[10:19](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/query-pipeline?u=76281980&t=619)** I'll see you in the next video where we're going to talk a little bit about prompt engineering for RAG, really just how to manipulate and use prompt templates in Query Pipelines.
+> **[10:19](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/query-pipeline?u=76281980&t=619)** I'll see you in the next video where we're going to talk a little bit about [[Prompt Engineering]] for RAG, really just how to manipulate and use prompt templates in Query Pipelines.
 >
 > **[10:32](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/query-pipeline?u=76281980&t=632)** I'll see you in the next video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (10), rag (6), [[LlamaIndex]] (4), llm (4), next (2)
+> **Frameworks & Libraries:** [[LlamaIndex]] (4), [[Fetch]] (1), [[GPT-4]] (1), [[Metadata]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** rag (5), llm (4), api (1), dag (1), gpt (1)
 > **Exercise Files:** template (8), boilerplate (2)
 > **CLI Commands:** make (2), python (1), find (1)
@@ -2755,8 +2735,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (3)
 > **UI Navigation:** go to (2)
 
-#### Prompt engineering for RAG
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/prompt-engineering-for-rag?u=76281980)
+#### [Prompt engineering for RAG](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/prompt-engineering-for-rag?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2828,7 +2807,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/prompt-engineering-for-rag?u=76281980&t=235)** Let's go ahead and construct our query engine.
 >
-> **[3:59](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/prompt-engineering-for-rag?u=76281980&t=239)** We can run the pipeline, and here I'm just saying remix the Rudyard Kipling poem, "If," and we can see the output.
+> **[3:59](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/prompt-engineering-for-rag?u=76281980&t=239)** We can run the pipeline, and here I'm just saying [[Remix]] the Rudyard Kipling poem, "If," and we can see the output.
 >
 > **[4:07](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/prompt-engineering-for-rag?u=76281980&t=247)** Interestingly enough, it's a short haiku.
 >
@@ -2858,7 +2837,7 @@ created: 2026-05-02
 >
 > **[5:44](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/prompt-engineering-for-rag?u=76281980&t=344)** Now I want to talk about response synthesizers.
 >
-> **[5:48](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/prompt-engineering-for-rag?u=76281980&t=348)** So there's a ton of documentation in Llama Index about response synthesizers.
+> **[5:48](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/prompt-engineering-for-rag?u=76281980&t=348)** So there's a ton of documentation in [[LLaMA]] Index about response synthesizers.
 >
 > **[5:53](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/prompt-engineering-for-rag?u=76281980&t=353)** I've linked to it here.
 >
@@ -2910,7 +2889,7 @@ created: 2026-05-02
 >
 > **[8:04](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/prompt-engineering-for-rag?u=76281980&t=484)** So success and failure are relative concepts, and it's all about how we choose and perceive and interpret, so on and so forth.
 >
-> **[8:11](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/prompt-engineering-for-rag?u=76281980&t=491)** And this is just a glimpse into a little bit of prompt engineering.
+> **[8:11](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/prompt-engineering-for-rag?u=76281980&t=491)** And this is just a glimpse into a little bit of [[Prompt Engineering]].
 >
 > **[8:16](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/prompt-engineering-for-rag?u=76281980&t=496)** Really, it's just updating the prompt templates for the query engines.
 >
@@ -2920,7 +2899,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (8), prompt (5), ai (2), [[Prompt Engineering]] (2), rag (2)
+> **Frameworks & Libraries:** [[Prompt Engineering]] (2), [[Remix]] (1), [[LLaMA]] (1)
 > **Env Vars:** llm (5), rag (2), api (1), ctrl (1)
 > **Code Identifiers:** compact_accumulate (1), no_text (1), simple_summarize (1), tree_summarize (1)
 > **Prerequisites:** set up (3), install (1)
@@ -2929,14 +2908,13 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Warnings:** heads up (1), note that (1)
 
-#### Data preparation for RAG
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/data-preparation-for-rag?u=76281980)
+#### [Data preparation for RAG](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/data-preparation-for-rag?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/data-preparation-for-rag?u=76281980&t=0)** - [Instructor] We've covered a lot of ground in this course already.
 >
-> **[0:04](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/data-preparation-for-rag?u=76281980&t=4)** We've touched on the core components of LlamaIndex from both the low level APIs, and we saw how we can use the higher level abstractions like the ingestion pipeline and the query pipeline to help reduce the boilerplate code in our applications and to help make our code more readable.
+> **[0:04](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/data-preparation-for-rag?u=76281980&t=4)** We've touched on the core components of [[LlamaIndex]] from both the low level APIs, and we saw how we can use the higher level abstractions like the ingestion pipeline and the query pipeline to help reduce the boilerplate code in our applications and to help make our code more readable.
 >
 > **[0:26](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/data-preparation-for-rag?u=76281980&t=26)** So we've talked a lot about LlamaIndex and its core components.
 >
@@ -2984,7 +2962,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/data-preparation-for-rag?u=76281980&t=138)** They're all well documented.
 >
-> **[2:21](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/data-preparation-for-rag?u=76281980&t=141)** And, of course, if nothing is making sense to you, you can drop a question in the course and I'll try to answer it, or, of course, you can just drop this into ChatGPT and have it give you a answer.
+> **[2:21](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/data-preparation-for-rag?u=76281980&t=141)** And, of course, if nothing is making sense to you, you can drop a question in the course and I'll try to answer it, or, of course, you can just drop this into [[ChatGPT]] and have it give you a answer.
 >
 > **[2:33](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/data-preparation-for-rag?u=76281980&t=153)** But I'm not going to spend too much time going to the nitty gritty of the code here.
 >
@@ -2992,7 +2970,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/data-preparation-for-rag?u=76281980&t=158)** You can feel free to reach out to me if you got questions at all.
 >
-> **[2:42](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/data-preparation-for-rag?u=76281980&t=162)** That being said, let's go ahead and talk about data preparation and data cleaning.
+> **[2:42](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/data-preparation-for-rag?u=76281980&t=162)** That being said, let's go ahead and talk about [[Data Preparation]] and [[Data Cleaning]].
 >
 > **[2:46](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/data-preparation-for-rag?u=76281980&t=166)** So it should be no surprise that your RAG system is only as good as the data that you retrieve.
 >
@@ -3000,9 +2978,9 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/data-preparation-for-rag?u=76281980&t=178)** High quality results depends on high quality data.
 >
-> **[3:02](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/data-preparation-for-rag?u=76281980&t=182)** It's the same old trope from data science, from classical machine learning, from deep learning that carries over into generative AI and Retrieval Augmented Generation.
+> **[3:02](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/data-preparation-for-rag?u=76281980&t=182)** It's the same old trope from [[Data Science]], from classical machine learning, from [[Deep Learning]] that carries over into [[Generative AI]] and Retrieval Augmented Generation.
 >
-> **[3:15](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/data-preparation-for-rag?u=76281980&t=195)** Data quality is always going to be absolutely important for any high quality system, and it's no different in generative AI.
+> **[3:15](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/data-preparation-for-rag?u=76281980&t=195)** [[Data Quality]] is always going to be absolutely important for any high quality system, and it's no different in generative AI.
 >
 > **[3:25](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/data-preparation-for-rag?u=76281980&t=205)** I want you to realize though that this course is purposefully using simple PDF files, specifically books, and specifically books with just a bunch of text to demonstrate the process and patterns of Retrieval Augmented Generation.
 >
@@ -3024,7 +3002,7 @@ created: 2026-05-02
 >
 > **[4:39](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/data-preparation-for-rag?u=76281980&t=279)** It might be necessary for your case to break down the documents into parts like titles, narrative, list, tables, images, so on and so forth.
 >
-> **[4:49](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/data-preparation-for-rag?u=76281980&t=289)** There's also metadata that you might need to handle that will give additional details for each document.
+> **[4:49](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/data-preparation-for-rag?u=76281980&t=289)** There's also [[Metadata]] that you might need to handle that will give additional details for each document.
 >
 > **[4:56](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/data-preparation-for-rag?u=76281980&t=296)** And this is useful for hybrid search.
 >
@@ -3100,7 +3078,7 @@ created: 2026-05-02
 >
 > **[7:51](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/data-preparation-for-rag?u=76281980&t=471)** This should map to, I believe, the hundred and first page, right?
 >
-> **[7:56](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/data-preparation-for-rag?u=76281980&t=476)** Because that's just kind of how indexing works in Python.
+> **[7:56](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/data-preparation-for-rag?u=76281980&t=476)** Because that's just kind of how indexing works in [[Python (Programming Language)|Python]].
 >
 > **[8:00](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/data-preparation-for-rag?u=76281980&t=480)** And we can look here how this is being loaded.
 >
@@ -3168,7 +3146,7 @@ created: 2026-05-02
 >
 > **[10:31](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/data-preparation-for-rag?u=76281980&t=631)** So we load that in as fitz, fitz.
 >
-> **[10:35](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/data-preparation-for-rag?u=76281980&t=635)** So if you're curious, you can go to GitHub and type in PyMuPDF.
+> **[10:35](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/data-preparation-for-rag?u=76281980&t=635)** So if you're curious, you can go to [[GitHub]] and type in PyMuPDF.
 >
 > **[10:43](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/data-preparation-for-rag?u=76281980&t=643)** And you can see here all the documentation about it, what it's all about.
 >
@@ -3344,7 +3322,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), [[LlamaIndex]] (13), rag (5), [[Metadata]] (5), [[Python (Programming Language)|Python]] (3)
+> **Frameworks & Libraries:** [[LlamaIndex]] (13), [[Metadata]] (5), [[Data Preparation]] (3), [[Python (Programming Language)|Python]] (3), [[Data Cleaning]] (2)
 > **Env Vars:** pdf (8), rag (5), llmsherpa_api_url (1)
 > **CLI Commands:** make (5), python (3), find (1), apache (1)
 > **Definitions:** is a  (7)
@@ -3353,8 +3331,7 @@ created: 2026-05-02
 > **Prerequisites:** install (3), getting started (1)
 > **Cross-References:** in the next (2), later in (1)
 
-#### Putting it all together
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/putting-it-all-together?u=76281980)
+#### [Putting it all together](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/putting-it-all-together?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3386,7 +3363,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/putting-it-all-together?u=76281980&t=90)** So let's go ahead and load our documents from the document store.
 >
-> **[1:34](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/putting-it-all-together?u=76281980&t=94)** And you can see again it's just a regular Llama Index document object.
+> **[1:34](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/putting-it-all-together?u=76281980&t=94)** And you can see again it's just a regular [[LLaMA]] Index document object.
 >
 > **[1:40](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/putting-it-all-together?u=76281980&t=100)** Now we are going to ingest this into our vector database.
 >
@@ -3514,7 +3491,7 @@ created: 2026-05-02
 >
 > **[7:11](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/putting-it-all-together?u=76281980&t=431)** We can start optimizing chunk size, we can do different retrieval techniques, we can talk about different ways of chunking.
 >
-> **[7:18](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/putting-it-all-together?u=76281980&t=438)** We can talk about attaching metadata, so on and so forth.
+> **[7:18](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/putting-it-all-together?u=76281980&t=438)** We can talk about attaching [[Metadata]], so on and so forth.
 >
 > **[7:20](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/putting-it-all-together?u=76281980&t=440)** So we call this naive because it's the most absolute basic thing that you could do.
 >
@@ -3528,7 +3505,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (9), rag (6), hit (4), api (3), [[LLaMA]] (3)
+> **Frameworks & Libraries:** [[LLaMA]] (3), [[Metadata]] (1)
 > **Env Vars:** llm (9), rag (6), api (3), url (1), dir (1)
 > **Prerequisites:** set up (5), setup (1)
 > **Code Identifiers:** as_query_engine (3), vector_store (1)
@@ -3537,8 +3514,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 
-#### Drawbacks of Naive RAG
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/drawbacks-of-naive-rag?u=76281980)
+#### [Drawbacks of Naive RAG](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/drawbacks-of-naive-rag?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3556,7 +3532,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/drawbacks-of-naive-rag?u=76281980&t=28)** So in indexing, we're processing data into manageable, searchable chunks and then indexing them for efficient retrieval.
 >
-> **[0:35](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/drawbacks-of-naive-rag?u=76281980&t=35)** In retrieval, we're using the user's query to search the indexed data and then fetch the most relevant documents.
+> **[0:35](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/drawbacks-of-naive-rag?u=76281980&t=35)** In retrieval, we're using the user's query to search the indexed data and then [[Fetch]] the most relevant documents.
 >
 > **[0:42](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/drawbacks-of-naive-rag?u=76281980&t=42)** For generation, we're combining the user query with the retrieved context to generate a context aware response.
 >
@@ -3638,7 +3614,7 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/drawbacks-of-naive-rag?u=76281980&t=273)** I'd greatly appreciate that.
 >
-> **[4:35](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/drawbacks-of-naive-rag?u=76281980&t=275)** Feel free to hit me up on LinkedIn if you got any questions.
+> **[4:35](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/drawbacks-of-naive-rag?u=76281980&t=275)** Feel free to hit me up on [[LinkedIn]] if you got any questions.
 >
 > **[4:37](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/drawbacks-of-naive-rag?u=76281980&t=277)** I'm happy to help you.
 >
@@ -3650,7 +3626,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rag (11), data (7), [[Search]] (1), [[Fetch]] (1), express (1)
+> **Frameworks & Libraries:** [[Fetch]] (1), [[LinkedIn]] (1)
 > **Env Vars:** rag (11), llm (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -3663,8 +3639,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to RAG evaluation
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/introduction-to-rag-evaluation?u=76281980)
+#### [Introduction to RAG evaluation](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/introduction-to-rag-evaluation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3690,7 +3665,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/introduction-to-rag-evaluation?u=76281980&t=56)** Now, imagine that we have this RAG system set up for like a high stakes type of environment.
 >
-> **[1:02](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/introduction-to-rag-evaluation?u=76281980&t=62)** What if we have a RAG system that is used to answer questions for medical diagnosis support, or maybe to provide background knowledge for some type of policy decision-making?
+> **[1:02](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/introduction-to-rag-evaluation?u=76281980&t=62)** What if we have a RAG system that is used to answer questions for medical diagnosis support, or maybe to provide background knowledge for some type of policy [[Decision-Making]]?
 >
 > **[1:15](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/introduction-to-rag-evaluation?u=76281980&t=75)** In applications like this, generating outputs that are not just fluent but factually correct is absolutely essential.
 >
@@ -3698,7 +3673,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/introduction-to-rag-evaluation?u=76281980&t=90)** This means we need robust and insightful evaluation.
 >
-> **[1:35](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/introduction-to-rag-evaluation?u=76281980&t=95)** Now, evaluation is critical for pretty much everything in deep learning, in machine learning and classical machine learning.
+> **[1:35](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/introduction-to-rag-evaluation?u=76281980&t=95)** Now, evaluation is critical for pretty much everything in [[Deep Learning]], in machine learning and classical machine learning.
 >
 > **[1:42](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/introduction-to-rag-evaluation?u=76281980&t=102)** Without an evaluation system, you're not going to be able to compare different models, prompts, contexts, retrieval strategies to determine what's going to work best.
 >
@@ -3724,7 +3699,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/introduction-to-rag-evaluation?u=76281980&t=165)** So in indexing, the documents are being organized for retrieval.
 >
-> **[2:50](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/introduction-to-rag-evaluation?u=76281980&t=170)** In searching, the index is used to fetch relevant documents based on the user's query.
+> **[2:50](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/introduction-to-rag-evaluation?u=76281980&t=170)** In searching, the index is used to [[Fetch]] relevant documents based on the user's query.
 >
 > **[2:55](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/introduction-to-rag-evaluation?u=76281980&t=175)** And so here, we might run into some challenges.
 >
@@ -3780,7 +3755,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rag (12), data (3), prompt (2), database (1), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1), [[Deep Learning]] (1), [[Fetch]] (1)
 > **Env Vars:** rag (12), llm (1)
 > **Cross-References:** we mentioned (1), in the next (1)
 > **Exercise Files:** template (2)
@@ -3789,14 +3764,13 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Analogies:** imagine (1)
 
-#### Evaluation metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/evaluation-metrics?u=76281980)
+#### [Evaluation metrics](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/evaluation-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/evaluation-metrics?u=76281980&t=0)** - [Instructor] As we discussed in the previous lesson, there are several places where a RAG system can go wrong.
 >
-> **[0:06](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/evaluation-metrics?u=76281980&t=6)** One is the information retrieval, two is integrating relevant knowledge, and three is the language model reasoning over the context.
+> **[0:06](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/evaluation-metrics?u=76281980&t=6)** One is the [[Information Retrieval]], two is integrating relevant knowledge, and three is the language model reasoning over the context.
 >
 > **[0:15](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/evaluation-metrics?u=76281980&t=15)** The RAG system relies on relevant knowledge from a large corpus.
 >
@@ -3838,7 +3812,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/evaluation-metrics?u=76281980&t=150)** That means the answers must be consistent with the context information and not deviate or contradict it.
 >
-> **[2:37](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/evaluation-metrics?u=76281980&t=157)** This is really important for addressing these hallucinations in large language models.
+> **[2:37](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/evaluation-metrics?u=76281980&t=157)** This is really important for addressing these hallucinations in [[Large Language Models (LLM)|large language models]].
 >
 > **[2:44](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/evaluation-metrics?u=76281980&t=164)** Another bucket is called answer relevance.
 >
@@ -3852,7 +3826,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/evaluation-metrics?u=76281980&t=194)** And to measure the performance retrieval, we can use something called mean reciprocal rank.
 >
-> **[3:19](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/evaluation-metrics?u=76281980&t=199)** Mean reciprocal rank is just a statistical measure for evaluating processes that produce a list of possible responses to a sample of queries that are ordered by probability of correctness.
+> **[3:19](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/evaluation-metrics?u=76281980&t=199)** Mean reciprocal rank is just a statistical measure for evaluating processes that produce a list of possible responses to a sample of queries that are ordered by [[Probability]] of correctness.
 >
 > **[3:31](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/evaluation-metrics?u=76281980&t=211)** The reciprocal rank of a query response is just the multiplicative inverse of the rank of the first correct answer.
 >
@@ -3870,7 +3844,7 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/evaluation-metrics?u=76281980&t=275)** It makes benchmarking faster and shortens iteration cycles.
 >
-> **[4:40](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/evaluation-metrics?u=76281980&t=280)** And in this LLM-as-a-Judge paper, they present research, actually, that shows that strong models, such as GPT-4, have an agreement rate of over 80%, which is on par with the level of agreement amongst human experts.
+> **[4:40](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/evaluation-metrics?u=76281980&t=280)** And in this LLM-as-a-Judge paper, they present research, actually, that shows that strong models, such as [[GPT-4]], have an agreement rate of over 80%, which is on par with the level of agreement amongst human experts.
 >
 > **[4:56](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/evaluation-metrics?u=76281980&t=296)** So it's a really solid technique to use.
 >
@@ -3884,7 +3858,7 @@ created: 2026-05-02
 >
 > **[5:19](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/evaluation-metrics?u=76281980&t=319)** They also have limited reasoning capabilities for complex topics like math.
 >
-> **[5:24](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/evaluation-metrics?u=76281980&t=324)** But despite these challenges, with strong and proper prompt engineering, the LLM-as-a-Judge is a excellent complement for human evaluation, especially when assessing open-ended AI tasks at scale.
+> **[5:24](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/evaluation-metrics?u=76281980&t=324)** But despite these challenges, with strong and proper [[Prompt Engineering]], the LLM-as-a-Judge is a excellent complement for human evaluation, especially when assessing open-ended AI tasks at scale.
 >
 > **[5:39](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/evaluation-metrics?u=76281980&t=339)** Now, I'm not going to go into the nitty gritty details at all about RAG evaluation.
 >
@@ -3946,7 +3920,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rag (19), llm (9), [[Large Language Models (LLM)|Large language models]] (3), next (2), [[Information Retrieval]] (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (3), [[Information Retrieval]] (1), [[Probability]] (1), [[GPT-4]] (1), [[Prompt Engineering]] (1)
 > **Env Vars:** rag (19), llm (9), mrr (2), gpt (1)
 > **Definitions:** is a  (4), is called (1), is an  (1)
 > **Cross-References:** in the next (2), we discussed (1), coming up (1)
@@ -3954,8 +3928,7 @@ created: 2026-05-02
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to create an evaluation set
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-to-create-an-evaluation-set?u=76281980)
+#### [How to create an evaluation set](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-to-create-an-evaluation-set?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3981,7 +3954,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-to-create-an-evaluation-set?u=76281980&t=114)** Because of the free tier, you don't need to run all this code yourself.
 >
-> **[1:57](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-to-create-an-evaluation-set?u=76281980&t=117)** What I'm going to do is push this resulting data set to Hugging Face.
+> **[1:57](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-to-create-an-evaluation-set?u=76281980&t=117)** What I'm going to do is push this resulting data set to [[Hugging Face]].
 >
 > **[2:03](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-to-create-an-evaluation-set?u=76281980&t=123)** You can download it from the hub if you want, and hack around with it.
 >
@@ -4013,7 +3986,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-to-create-an-evaluation-set?u=76281980&t=193)** If a document doesn't list the author, we're going to skip adding it and we'll have just a warning note printout.
 >
-> **[3:19](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-to-create-an-evaluation-set?u=76281980&t=199)** So what we're going to do here is have a input, which will be a list of document objects, each with metadata that has the author field and the output here will be a dictionary that's going to group all documents by the respective authors.
+> **[3:19](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-to-create-an-evaluation-set?u=76281980&t=199)** So what we're going to do here is have a input, which will be a list of document objects, each with [[Metadata]] that has the author field and the output here will be a dictionary that's going to group all documents by the respective authors.
 >
 > **[3:31](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-to-create-an-evaluation-set?u=76281980&t=211)** And use some subset we're going to sample.
 >
@@ -4061,7 +4034,7 @@ created: 2026-05-02
 >
 > **[5:22](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-to-create-an-evaluation-set?u=76281980&t=322)** So here we have a question that has been generated from one random document from our evaluation set.
 >
-> **[5:30](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-to-create-an-evaluation-set?u=76281980&t=330)** How can I work my way to higher leverage, more accountability and specific knowledge without risking ruin?
+> **[5:30](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-to-create-an-evaluation-set?u=76281980&t=330)** How can I work my way to higher leverage, more [[Accountability]] and specific knowledge without risking ruin?
 >
 > **[5:36](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-to-create-an-evaluation-set?u=76281980&t=336)** Sounds exactly like the kind of question I'd want to ask someone like Naval Ravikant or Balaji or Nassim TaLeb.
 >
@@ -4087,7 +4060,7 @@ created: 2026-05-02
 >
 > **[6:33](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-to-create-an-evaluation-set?u=76281980&t=393)** Now that we have generated questions for each chunk of context, we need to generate an answer.
 >
-> **[6:40](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-to-create-an-evaluation-set?u=76281980&t=400)** So I will be using GPT-3.5 Turbo to keep costs down, but you should use GPT-4 Turbo or GPT-4.0 or the most powerful model that you possibly could for this entire task.
+> **[6:40](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-to-create-an-evaluation-set?u=76281980&t=400)** So I will be using GPT-3.5 Turbo to keep costs down, but you should use [[GPT-4]] Turbo or GPT-4.0 or the most powerful model that you possibly could for this entire task.
 >
 > **[6:54](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-to-create-an-evaluation-set?u=76281980&t=414)** I'm using 3.5 Turbo just to keep the cost down.
 >
@@ -4189,7 +4162,7 @@ created: 2026-05-02
 >
 > **[10:52](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-to-create-an-evaluation-set?u=76281980&t=652)** I've included it in this course just for the sake of completeness.
 >
-> **[10:55](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-to-create-an-evaluation-set?u=76281980&t=655)** We're not going to be using this evaluation data set at all throughout the rest of the course.
+> **[10:55](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-to-create-an-evaluation-set?u=76281980&t=655)** We're not going to be using this evaluation data set at all throughout the [[Representational State Transfer (REST)|rest]] of the course.
 >
 > **[10:59](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-to-create-an-evaluation-set?u=76281980&t=659)** We're not going to be touching on evaluation at all throughout the rest of the course.
 >
@@ -4203,7 +4176,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (30), llm (10), prompt (9), rag (4), [[Hugging Face]] (4)
+> **Frameworks & Libraries:** [[Hugging Face]] (4), [[GPT-4]] (3), [[Representational State Transfer (REST)|Rest]] (2), [[Metadata]] (1), [[Accountability]] (1)
 > **Env Vars:** llm (10), gpt (5), rag (4)
 > **CLI Commands:** make (6), find (1)
 > **Versions:** 3.5 (3), 4.0 (2)
@@ -4217,8 +4190,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How we can improve on Naive RAG
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-can-we-improve-on-naive-rag?u=76281980)
+#### [How we can improve on Naive RAG](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-can-we-improve-on-naive-rag?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4228,11 +4200,11 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-can-we-improve-on-naive-rag?u=76281980&t=14)** And a lot of the inspiration I've taken for the structure of this course and the topics I want to cover, come from this paper right here.
 >
-> **[0:20](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-can-we-improve-on-naive-rag?u=76281980&t=20)** "Retrieval-Augmented Generation for Large Language Models: A Survey."
+> **[0:20](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-can-we-improve-on-naive-rag?u=76281980&t=20)** "[[Retrieval-Augmented Generation (RAG)|Retrieval-Augmented Generation]] for [[Large Language Models (LLM)|Large Language Models]]: A Survey."
 >
 > **[0:24](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-can-we-improve-on-naive-rag?u=76281980&t=24)** And this is a awesome comprehensive review paper, and what it does is it looks at the progression of different RAG paradigms and it buckets them into three groups, the Naive RAG, Advanced Rag, and Modular RAG paradigms.
 >
-> **[0:40](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-can-we-improve-on-naive-rag?u=76281980&t=40)** And before we jump in to these paradigms and see it all played out in code with LlamaIndex, I want to give you a bit of an overview of them.
+> **[0:40](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-can-we-improve-on-naive-rag?u=76281980&t=40)** And before we jump in to these paradigms and see it all played out in code with [[LlamaIndex]], I want to give you a bit of an overview of them.
 >
 > **[0:49](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-can-we-improve-on-naive-rag?u=76281980&t=49)** So Naive RAG we should be familiar with.
 >
@@ -4250,11 +4222,11 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-can-we-improve-on-naive-rag?u=76281980&t=86)** Now, in pre-retrieval, there's a number of optimizations that we can make.
 >
-> **[1:30](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-can-we-improve-on-naive-rag?u=76281980&t=90)** We can optimize the way we index data, and we do that by enhancing the granularity, structure, metadata that we put into our vector database.
+> **[1:30](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-can-we-improve-on-naive-rag?u=76281980&t=90)** We can optimize the way we index data, and we do that by enhancing the granularity, structure, [[Metadata]] that we put into our vector database.
 >
 > **[1:37](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-can-we-improve-on-naive-rag?u=76281980&t=97)** We can also fine tune our embedding model for a domain-specific use case.
 >
-> **[1:42](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-can-we-improve-on-naive-rag?u=76281980&t=102)** Just a heads up, we are not going to be fine tuning an embedding model for this course, but it is something that is available to you.
+> **[1:42](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-can-we-improve-on-naive-rag?u=76281980&t=102)** Just a heads up, we are not going to be [[Fine Tuning]] an embedding model for this course, but it is something that is available to you.
 >
 > **[1:49](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-can-we-improve-on-naive-rag?u=76281980&t=109)** You can also look at using some type of dynamic embeddings.
 >
@@ -4298,7 +4270,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rag (17), data (5), database (3), prompt (3), [[LlamaIndex]] (2)
+> **Frameworks & Libraries:** [[LlamaIndex]] (2), [[Metadata]] (2), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[Fine Tuning]] (1)
 > **Env Vars:** rag (16), llm (1)
 > **Analogies:** for example (3)
 > **Definitions:** is a  (2)
@@ -4307,11 +4279,9 @@ created: 2026-05-02
 > **Warnings:** heads up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Optimizing chunk size
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/optimizing-chunk-size?u=76281980)
+#### [Optimizing chunk size](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/optimizing-chunk-size?u=76281980)
 
-#### Small to big retrieval
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/small-to-big-retrieval?u=76281980)
+#### [Small to big retrieval](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/small-to-big-retrieval?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4349,7 +4319,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/small-to-big-retrieval?u=76281980&t=84)** So let's go ahead and talk at a high level about small to big retrieval.
 >
-> **[1:28](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/small-to-big-retrieval?u=76281980&t=88)** This is also known as recursive retrieval and it's a awesome feature of LlamaIndex.
+> **[1:28](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/small-to-big-retrieval?u=76281980&t=88)** This is also known as recursive retrieval and it's a awesome feature of [[LlamaIndex]].
 >
 > **[1:34](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/small-to-big-retrieval?u=76281980&t=94)** The whole purpose of this is to efficiently retrieve relevant context for a query.
 >
@@ -4373,7 +4343,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/small-to-big-retrieval?u=76281980&t=162)** For each one of those sentence, we create a window of surrounding sentences.
 >
-> **[2:47](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/small-to-big-retrieval?u=76281980&t=167)** We then store this window into the nodes metadata.
+> **[2:47](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/small-to-big-retrieval?u=76281980&t=167)** We then store this window into the nodes [[Metadata]].
 >
 > **[2:50](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/small-to-big-retrieval?u=76281980&t=170)** That means we also need to undertake some metadata management.
 >
@@ -4573,7 +4543,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (9), [[Metadata]] (8), llm (8), prompt (3), data (2)
+> **Frameworks & Libraries:** [[Metadata]] (8), [[LlamaIndex]] (1)
 > **Code Identifiers:** window_size (3), original_text (3), excluded_embed_metadata_keys (2), excluded_llm_metadata_keys (2), node_postprocessor (2)
 > **CLI Commands:** node (9), find (3), make (1)
 > **Env Vars:** llm (8), rag (1), hype_answer_gen_prompt (1), hype (1)
@@ -4582,8 +4552,7 @@ created: 2026-05-02
 > **Definitions:** known as (1), is a  (1)
 > **Prerequisites:** set up (2)
 
-#### Semantic chunking
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/semantic-chunking?u=76281980)
+#### [Semantic chunking](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/semantic-chunking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4593,7 +4562,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/semantic-chunking?u=76281980&t=15)** In fact, I want to draw your attention to this tweet from just today.
 >
-> **[0:19](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/semantic-chunking?u=76281980&t=19)** Just earlier today, I saw this tweet from Anton and Anton's a hacker, generative AI hacker, and he posts a lot about LLMs and RAG and stuff like that.
+> **[0:19](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/semantic-chunking?u=76281980&t=19)** Just earlier today, I saw this tweet from Anton and Anton's a hacker, [[Generative AI]] hacker, and he posts a lot about LLMs and RAG and stuff like that.
 >
 > **[0:27](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/semantic-chunking?u=76281980&t=27)** But of course he says one of the most important things is proper chunking, right?
 >
@@ -4609,7 +4578,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/semantic-chunking?u=76281980&t=67)** We'll go ahead and set up our LLMs and embedding models.
 >
-> **[1:10](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/semantic-chunking?u=76281980&t=70)** And for this video and for the rest of the videos, we're going to switch it up and do something different.
+> **[1:10](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/semantic-chunking?u=76281980&t=70)** And for this video and for the [[Representational State Transfer (REST)|rest]] of the videos, we're going to switch it up and do something different.
 >
 > **[1:15](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/semantic-chunking?u=76281980&t=75)** I'm going to focus primarily on the techniques and the patterns.
 >
@@ -4633,7 +4602,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/semantic-chunking?u=76281980&t=126)** So what semantic chunking does is that we're using sentence embeddings to find natural break points based on semantic similarity.
 >
-> **[2:14](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/semantic-chunking?u=76281980&t=134)** So instead of a breaking the text at fixed intervals, for example, after N number of tokens, or after N number of sentences, or after a particular break point.
+> **[2:14](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/semantic-chunking?u=76281980&t=134)** So instead of a breaking the text at fixed intervals, for example, after N number of [[Tokens]], or after N number of sentences, or after a particular break point.
 >
 > **[2:26](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/semantic-chunking?u=76281980&t=146)** Instead, what this methodology does is that we are finding break points based on semantic similarity.
 >
@@ -4653,7 +4622,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/semantic-chunking?u=76281980&t=184)** Finally, what we're going to do is merge these groups based on a similarity threshold.
 >
-> **[3:12](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/semantic-chunking?u=76281980&t=192)** All of this is done through the semantic splitter node parser abstraction in LlamaIndex.
+> **[3:12](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/semantic-chunking?u=76281980&t=192)** All of this is done through the semantic splitter node parser abstraction in [[LlamaIndex]].
 >
 > **[3:18](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/semantic-chunking?u=76281980&t=198)** What this does is breaks down a document into semantically related chunks, which are called nodes, using semantic similarity, and these adaptive breakpoints and kind of a step-by-step under the hood.
 >
@@ -4689,7 +4658,7 @@ created: 2026-05-02
 >
 > **[4:49](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/semantic-chunking?u=76281980&t=289)** It might even just end up being a single sentence.
 >
-> **[4:53](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/semantic-chunking?u=76281980&t=293)** There's also going to be metadata attached to the node.
+> **[4:53](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/semantic-chunking?u=76281980&t=293)** There's also going to be [[Metadata]] attached to the node.
 >
 > **[4:57](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/semantic-chunking?u=76281980&t=297)** This metadata could be like the original text, and it'll also maintain relationships between nodes for a sequential order.
 >
@@ -4849,7 +4818,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (13), [[Metadata]] (4), rag (3), [[LlamaIndex]] (2), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (4), [[LlamaIndex]] (2), [[Generative AI]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Tokens]] (1)
 > **CLI Commands:** node (13), make (4), find (2)
 > **Env Vars:** rag (1), api (1), nltk (1), llm (1), gpt (1)
 > **Prerequisites:** set up (4)
@@ -4858,8 +4827,7 @@ created: 2026-05-02
 > **Versions:** 95.95 (1), 0.55 (1)
 > **Exercise Files:** source code (2)
 
-#### Metadata extraction
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/metadata-extraction?u=76281980)
+#### [Metadata extraction](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/metadata-extraction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4871,7 +4839,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/metadata-extraction?u=76281980&t=30)** To combat this, we can use a LLM to extract certain contextual information relevant to our document, relevant to our nodes, to better help the retrieval and the language model disambiguate similar looking passages of text.
 >
-> **[0:47](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/metadata-extraction?u=76281980&t=47)** One way to do this is by using metadata.
+> **[0:47](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/metadata-extraction?u=76281980&t=47)** One way to do this is by using [[Metadata]].
 >
 > **[0:51](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/metadata-extraction?u=76281980&t=51)** So let's go ahead and talk about metadata.
 >
@@ -4933,7 +4901,7 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/metadata-extraction?u=76281980&t=220)** This becomes really useful when we have a ton of documents where manually extracting metadata is really untenable and impractical just due to the volume of data that we have.
 >
-> **[3:54](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/metadata-extraction?u=76281980&t=234)** So LLAMA Index has some tools and abstractions that we can use to automatically identify and extract different types of metadata from a document.
+> **[3:54](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/metadata-extraction?u=76281980&t=234)** So [[LLaMA]] Index has some tools and abstractions that we can use to automatically identify and extract different types of metadata from a document.
 >
 > **[4:06](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/metadata-extraction?u=76281980&t=246)** So if we look at the source code, you'll see that there are a number of different extractors that we can use.
 >
@@ -4993,7 +4961,7 @@ created: 2026-05-02
 >
 > **[7:30](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/metadata-extraction?u=76281980&t=450)** So a node that I wrote here that we'll use GPT-3.5 turbo to generate the metadata.
 >
-> **[7:35](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/metadata-extraction?u=76281980&t=455)** I'm actually just going to use GPT-4.0.
+> **[7:35](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/metadata-extraction?u=76281980&t=455)** I'm actually just going to use [[GPT-4]].0.
 >
 > **[7:37](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/metadata-extraction?u=76281980&t=457)** If you wanted to use GPT-3.5 turbo, you can swap that out if you'd like.
 >
@@ -5035,7 +5003,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Metadata]] (24), node (8), prompt (4), rag (3), llm (3)
+> **Frameworks & Libraries:** [[Metadata]] (24), [[LLaMA]] (2), [[GPT-4]] (2)
 > **Env Vars:** gpt (4), rag (3), llm (3), llama (2), api (1)
 > **CLI Commands:** node (8), make (1)
 > **Code Identifiers:** known_for (2), page_number (1), file_name (1), llama_index (1), prompt_template (1)
@@ -5044,8 +5012,7 @@ created: 2026-05-02
 > **Versions:** 3.5 (2), 4.0 (2)
 > **Definitions:** is a  (1)
 
-#### Document summary index
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/document-summary-index?u=76281980)
+#### [Document summary index](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/document-summary-index?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5079,7 +5046,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/document-summary-index?u=76281980&t=121)** Also, the LLM can reason over summaries before accessing the full document, which will allow for optimal representations for retrieval and synthesis.
 >
-> **[2:14](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/document-summary-index?u=76281980&t=134)** At a high level, this approach will extract summaries for each document in the hopes of improving retrieval performance over the traditional kind of semantic search on the text chunk alone that we have grown accustomed to over the last several modules.
+> **[2:14](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/document-summary-index?u=76281980&t=134)** At a high level, this approach will extract summaries for each document in the hopes of improving retrieval performance over the traditional kind of [[Semantic Search]] on the text chunk alone that we have grown accustomed to over the last several modules.
 >
 > **[2:31](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/document-summary-index?u=76281980&t=151)** This will use a concise summary that will be generated by an LLM, which could use its reasoning capabilities to enhance retrieval before synthesizing over the referenced chunks.
 >
@@ -5099,7 +5066,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/document-summary-index?u=76281980&t=212)** Another advantage is that summaries provide a distilled view of the document's content, which can capture the essence and the key themes of that document.
 >
-> **[3:42](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/document-summary-index?u=76281980&t=222)** Finally, this document summary index technique could be combined with chunking and metadata based retrieval strategies, so you can create this kind of layered approach that will balance accuracy and performance.
+> **[3:42](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/document-summary-index?u=76281980&t=222)** Finally, this document summary index technique could be combined with chunking and [[Metadata]] based retrieval strategies, so you can create this kind of layered approach that will balance accuracy and performance.
 >
 > **[3:54](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/document-summary-index?u=76281980&t=234)** Let's see this all in action.
 >
@@ -5107,13 +5074,13 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/document-summary-index?u=76281980&t=244)** Again, we are using the in-memory vector store.
 >
-> **[4:08](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/document-summary-index?u=76281980&t=248)** We're also going to be using GPT-4, now GPT-4o as our language model.
+> **[4:08](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/document-summary-index?u=76281980&t=248)** We're also going to be using [[GPT-4]], now GPT-4o as our language model.
 >
 > **[4:15](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/document-summary-index?u=76281980&t=255)** And remember that we're only taking a subset of all our documents.
 >
 > **[4:20](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/document-summary-index?u=76281980&t=260)** Now, with all that in place, we can start to use the DocumentSummaryIndex.
 >
-> **[4:24](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/document-summary-index?u=76281980&t=264)** So the DocumentSummaryIndex is a abstraction in a Llama index that allows us to build an index from a set of documents, then generate a summary for each document using a response synthesizer, and then we're going to store the summaries and the corresponding document nodes into the index.
+> **[4:24](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/document-summary-index?u=76281980&t=264)** So the DocumentSummaryIndex is a abstraction in a [[LLaMA]] index that allows us to build an index from a set of documents, then generate a summary for each document using a response synthesizer, and then we're going to store the summaries and the corresponding document nodes into the index.
 >
 > **[4:46](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/document-summary-index?u=76281980&t=286)** This document summary index supports two retrieval modes, an embedding-based retrieval mode, and a LLM-based retrieval mode.
 >
@@ -5225,7 +5192,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (17), api (3), database (2), prompt (2), [[Semantic Search]] (1)
+> **Frameworks & Libraries:** [[Semantic Search]] (1), [[Metadata]] (1), [[GPT-4]] (1), [[LLaMA]] (1)
 > **Env Vars:** llm (17), api (3), gpt (2), lms (1), rag (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** find (2), make (1)
@@ -5234,8 +5201,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1), configure (1)
 > **Cross-References:** in the next (1)
 
-#### Query transformation
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/query-transformation?u=76281980)
+#### [Query transformation](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/query-transformation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5255,7 +5221,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/query-transformation?u=76281980&t=43)** So we'll start here by looking at some source code, right?
 >
-> **[0:46](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/query-transformation?u=76281980&t=46)** If you're curious about what is going on under the hood, for anything in LlamaIndex, for any library you're working on in general, you should always be reading the source code.
+> **[0:46](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/query-transformation?u=76281980&t=46)** If you're curious about what is going on under the hood, for anything in [[LlamaIndex]], for any library you're working on in general, you should always be reading the source code.
 >
 > **[0:55](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/query-transformation?u=76281980&t=55)** I can't stress that enough.
 >
@@ -5425,7 +5391,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (9), database (8), [[Search]] (5), llm (4), rag (4)
+> **Frameworks & Libraries:** [[LlamaIndex]] (2)
 > **Env Vars:** llm (4), rag (4), query_string (2), hype_anser_gen_prompt (1), gpt (1)
 > **Code Identifiers:** sub_question_query_engine (4), query_engine_tool (2), query_engine_tools (1), hyde_query_engine (1), hyde_query_pipeline (1)
 > **Definitions:** is a  (3), means that (2)
@@ -5439,8 +5405,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Node post-processing
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/node-post-processing?u=76281980)
+#### [Node post-processing](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/node-post-processing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5464,13 +5429,13 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/node-post-processing?u=76281980&t=60)** That's basically all they do.
 >
-> **[1:02](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/node-post-processing?u=76281980&t=62)** But there are so many different postprocessors in LlamaIndex, and I've linked to the source code here where you can take a look here and just see all the different types of postprocessors available to you: Keyword, similarity, previous next node, auto previous next node, the list goes on.
+> **[1:02](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/node-post-processing?u=76281980&t=62)** But there are so many different postprocessors in [[LlamaIndex]], and I've linked to the source code here where you can take a look here and just see all the different types of postprocessors available to you: Keyword, similarity, previous next node, auto previous next node, the list goes on.
 >
 > **[1:18](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/node-post-processing?u=76281980&t=78)** There's a lot of postprocessors.
 >
 > **[1:20](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/node-post-processing?u=76281980&t=80)** If you look into the source code, LlamaIndex core, and then postprocessors, you'll see all the types of postprocessors available to you.
 >
-> **[1:28](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/node-post-processing?u=76281980&t=88)** What I want to talk to you about specifically are the similarity postprocessors, keyword, metadata replacement, long context reordering, and sentence embedding.
+> **[1:28](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/node-post-processing?u=76281980&t=88)** What I want to talk to you about specifically are the similarity postprocessors, keyword, [[Metadata]] replacement, long context reordering, and sentence embedding.
 >
 > **[1:38](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/node-post-processing?u=76281980&t=98)** We've actually already seen the metadata replacement postprocessor in action in a previous lesson, but I'm going to go ahead and just cover it again here.
 >
@@ -5552,7 +5517,7 @@ created: 2026-05-02
 >
 > **[5:40](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/node-post-processing?u=76281980&t=340)** Under the hood, what's happening is that we're iterating over each node with score object in the input list.
 >
-> **[5:46](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/node-post-processing?u=76281980&t=346)** Then for each node we're retrieving the nodes content and processing it using a language model from the spacy library.
+> **[5:46](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/node-post-processing?u=76281980&t=346)** Then for each node we're retrieving the nodes content and processing it using a language model from the [[spaCy]] library.
 >
 > **[5:53](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/node-post-processing?u=76281980&t=353)** So if you look at the source code for the keyword node postprocessor, you'll see that it makes use of spacy's PhraseMatcher.
 >
@@ -5736,7 +5701,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (46), next (7), [[Metadata]] (7), rag (3), [[LlamaIndex]] (3)
+> **Frameworks & Libraries:** [[Metadata]] (7), [[LlamaIndex]] (3), [[spaCy]] (2)
 > **CLI Commands:** node (46), find (1), make (1)
 > **Code Identifiers:** reordered_nodes (3), as_retriever (2), as_query_engine (1), create_query_engine (1), llama_index (1)
 > **Env Vars:** rag (3), api (2), nltk (2)
@@ -5745,16 +5710,15 @@ created: 2026-05-02
 > **Versions:** 0.7 (2), 0.5 (1)
 > **Warnings:** note that (2), keep in mind (1)
 
-#### Re-ranking
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/re-ranking?u=76281980)
+#### [Re-ranking](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/re-ranking?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/re-ranking?u=76281980&t=0)** - [Instructor] Before jumping into re-ranking, I want to quickly recap the order of operations within LlamaIndex.
+> **[0:00](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/re-ranking?u=76281980&t=0)** - [Instructor] Before jumping into re-ranking, I want to quickly recap the order of operations within [[LlamaIndex]].
 >
-> **[0:09](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/re-ranking?u=76281980&t=9)** First is the data ingestion where we're pulling data from various sources.
+> **[0:09](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/re-ranking?u=76281980&t=9)** First is the [[Data Ingestion]] where we're pulling data from various sources.
 >
-> **[0:13](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/re-ranking?u=76281980&t=13)** It could be from API, PDF, SQL database, text files, so on and so forth.
+> **[0:13](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/re-ranking?u=76281980&t=13)** It could be from API, PDF, [[SQL]] database, text files, so on and so forth.
 >
 > **[0:18](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/re-ranking?u=76281980&t=18)** Next is the indexing of the data.
 >
@@ -5848,7 +5812,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (6), data (4), [[LlamaIndex]] (3), next (2), llm (2)
+> **Frameworks & Libraries:** [[LlamaIndex]] (3), [[Data Ingestion]] (1), [[SQL]] (1)
 > **Env Vars:** api (6), llm (2), pdf (1), sql (1), rag (1)
 > **Warnings:** keep in mind (2)
 > **CLI Commands:** node (1)
@@ -5857,8 +5821,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### FLARE
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/flare?u=76281980)
+#### [FLARE](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/flare?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5868,7 +5831,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/flare?u=76281980&t=16)** This is limiting for generating longer outputs where we need to continually gather relevant information throughout the generation process.
 >
-> **[0:25](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/flare?u=76281980&t=25)** As you know, large language models have a tendency to hallucinate and generate factually incorrect information, especially when it comes to longer outputs.
+> **[0:25](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/flare?u=76281980&t=25)** As you know, [[Large Language Models (LLM)|large language models]] have a tendency to hallucinate and generate factually incorrect information, especially when it comes to longer outputs.
 >
 > **[0:34](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/flare?u=76281980&t=34)** And so there's a need for the language model to kind of actively decide when and what to retrieve at each step of the generation process, rather than just retrieving once upfront.
 >
@@ -5902,7 +5865,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/flare?u=76281980&t=151)** So it helps keep the generated text grounded in actual factual information.
 >
-> **[2:37](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/flare?u=76281980&t=157)** So the way this actually mitigates against hallucinations is that we're regenerating sentences that contain low confidence tokens by leveraging the newly retrieved documents.
+> **[2:37](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/flare?u=76281980&t=157)** So the way this actually mitigates against hallucinations is that we're regenerating sentences that contain low confidence [[Tokens]] by leveraging the newly retrieved documents.
 >
 > **[2:46](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/flare?u=76281980&t=166)** So this way, we're enabling language model to kind of actively retrieve relevant information as needed during the multi-step generation process.
 >
@@ -5920,7 +5883,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/flare?u=76281980&t=202)** But let's go ahead and see this in action.
 >
-> **[3:23](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/flare?u=76281980&t=203)** First, I want to tell you about the two types of a FLARE= that are available to you in LlamaIndex.
+> **[3:23](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/flare?u=76281980&t=203)** First, I want to tell you about the two types of a FLARE= that are available to you in [[LlamaIndex]].
 >
 > **[3:28](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/flare?u=76281980&t=208)** There's FLAREinstruct, which is going to prompt the language model to generate retrieval queries when necessary using retrieval, encouraging instructions.
 >
@@ -5974,7 +5937,7 @@ created: 2026-05-02
 >
 > **[5:27](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/flare?u=76281980&t=327)** We're going to identify any query tasks, so just determine subqueries that are needed to complete the response.
 >
-> **[5:34](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/flare?u=76281980&t=334)** We'll retrieve information, so we'll use a underlying engine to fetch relevant data.
+> **[5:34](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/flare?u=76281980&t=334)** We'll retrieve information, so we'll use a underlying engine to [[Fetch]] relevant data.
 >
 > **[5:40](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/flare?u=76281980&t=340)** Then we'll incorporate the retrieved content.
 >
@@ -6038,7 +6001,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rag (4), prompt (4), [[Tokens]] (3), llm (2), [[LlamaIndex]] (2)
+> **Frameworks & Libraries:** [[Tokens]] (3), [[LlamaIndex]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Fetch]] (1)
 > **Env Vars:** flare (9), rag (4), llm (2)
 > **Definitions:** is a  (6)
 > **Code Identifiers:** lookahead_answer_inserter (1), llama_index (1), query_engine (1)
@@ -6047,8 +6010,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 
-#### Prompt compression
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/prompt-compression?u=76281980)
+#### [Prompt compression](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/prompt-compression?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6068,7 +6030,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/prompt-compression?u=76281980&t=53)** The key components of this technique of LongLLMLingua is question-aware, coarse-grained prompt compression, which means we're evaluating the relevance between the context and the question based on some measure called perplexity.
 >
-> **[1:09](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/prompt-compression?u=76281980&t=69)** We're also using a question-aware, fine-grained prompt compression, which uses contrastive perplexity to extract key tokens that are relevant to the question.
+> **[1:09](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/prompt-compression?u=76281980&t=69)** We're also using a question-aware, fine-grained prompt compression, which uses contrastive perplexity to extract key [[Tokens]] that are relevant to the question.
 >
 > **[1:20](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/prompt-compression?u=76281980&t=80)** And then, we also use something called adaptive granular control, which is dynamically allocating different compression ratios to different documents based on the rank information.
 >
@@ -6100,7 +6062,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/prompt-compression?u=76281980&t=167)** So, this is the pre-trained language model for compression.
 >
-> **[2:51](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/prompt-compression?u=76281980&t=171)** By default, it uses a open source model from Hugging Face, specifically a version of Llama-2-7B that was released by NousResearch.
+> **[2:51](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/prompt-compression?u=76281980&t=171)** By default, it uses a open source model from [[Hugging Face]], specifically a version of [[LLaMA]]-2-7B that was released by NousResearch.
 >
 > **[3:02](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/prompt-compression?u=76281980&t=182)** Now, we're not going to run this method here because we require a GPU.
 >
@@ -6108,9 +6070,9 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/prompt-compression?u=76281980&t=195)** There's additional model configurations that you need to pass as well.
 >
-> **[3:19](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/prompt-compression?u=76281980&t=199)** There's a configuration for the OpenAI API key if you choose to use that.
+> **[3:19](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/prompt-compression?u=76281980&t=199)** There's a configuration for the [[OpenAI API]] key if you choose to use that.
 >
-> **[3:23](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/prompt-compression?u=76281980&t=203)** There's Metadata mode that we have talked about before.
+> **[3:23](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/prompt-compression?u=76281980&t=203)** There's [[Metadata]] mode that we have talked about before.
 >
 > **[3:27](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/prompt-compression?u=76281980&t=207)** There's an instruction string, which is the instruction string for the context compression.
 >
@@ -6134,7 +6096,7 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/prompt-compression?u=76281980&t=261)** And then finally, we'll use the remaining compressed text to create a new optimized node.
 >
-> **[4:27](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/prompt-compression?u=76281980&t=267)** Note that of the two methods we talked about, the question-aware, fine-grained compression is not yet implemented in LlamaIndex.
+> **[4:27](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/prompt-compression?u=76281980&t=267)** Note that of the two methods we talked about, the question-aware, fine-grained compression is not yet implemented in [[LlamaIndex]].
 >
 > **[4:36](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/prompt-compression?u=76281980&t=276)** Compression at the current moment is primarily based on coarse-grained approach with the specified ranking method that you pass in.
 >
@@ -6164,7 +6126,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (11), rag (4), node (4), [[Tokens]] (2), [[Metadata]] (2)
+> **Frameworks & Libraries:** [[Tokens]] (2), [[Metadata]] (2), [[Hugging Face]] (1), [[LLaMA]] (1), [[OpenAI API]] (1)
 > **Env Vars:** rag (4), gpu (2), api (1)
 > **CLI Commands:** node (4)
 > **Cross-References:** we talked about (2), in the next (1)
@@ -6173,8 +6135,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Versions:** 21.4 (1)
 
-#### Self-correcting
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/self-correcting?u=76281980)
+#### [Self-correcting](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/self-correcting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6392,7 +6353,7 @@ created: 2026-05-02
 >
 > **[10:06](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/self-correcting?u=76281980&t=606)** Simple.
 >
-> **[10:07](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/self-correcting?u=76281980&t=607)** Just the response should fully answer the query, should not be vague and should be specific or use some number or statistics when possible.
+> **[10:07](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/self-correcting?u=76281980&t=607)** Just the response should fully answer the query, should not be vague and should be specific or use some number or [[Statistics]] when possible.
 >
 > **[10:15](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/self-correcting?u=76281980&t=615)** And so to that, we're also saying: don't make the response too long and then summarize it when possible.
 >
@@ -6402,7 +6363,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rag (2), node (2), next (2), llm (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **Code Identifiers:** max_retries (6), query_engine (4), base_query_engine (3), query_pipeline (3), retry_query_engine (2)
 > **Exercise Files:** source code (5), template (1)
 > **CLI Commands:** make (2), node (2)
@@ -6415,8 +6376,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Hybrid retrieval
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/hybrid-retrieval?u=76281980)
+#### [Hybrid retrieval](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/hybrid-retrieval?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6434,7 +6394,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/hybrid-retrieval?u=76281980&t=42)** We'll create our document store, but we're doing something a little bit different here.
 >
-> **[0:46](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/hybrid-retrieval?u=76281980&t=46)** We're actually instantiating the document store directly as well, so we're loading it from disc, bringing it into a Python variable, then with this Python variable that holds all the documents that we've brought in, we're creating a LlamaIndex simple document store object.
+> **[0:46](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/hybrid-retrieval?u=76281980&t=46)** We're actually instantiating the document store directly as well, so we're loading it from disc, bringing it into a [[Python (Programming Language)|Python]] variable, then with this Python variable that holds all the documents that we've brought in, we're creating a [[LlamaIndex]] simple document store object.
 >
 > **[1:04](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/hybrid-retrieval?u=76281980&t=64)** And now we'll go ahead and create our Quadrant Vector Store, and note that for this, we're actually making use of the storage context.
 >
@@ -6444,7 +6404,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/hybrid-retrieval?u=76281980&t=85)** So the vector index is great at retrieving documents based on similarity, semantic similarity using embeddings.
 >
-> **[1:33](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/hybrid-retrieval?u=76281980&t=93)** On the other hand, a document store can be used to get structured data by document like, you know, metadata like the author, date, so on and so forth.
+> **[1:33](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/hybrid-retrieval?u=76281980&t=93)** On the other hand, a document store can be used to get structured data by document like, you know, [[Metadata]] like the author, date, so on and so forth.
 >
 > **[1:40](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/hybrid-retrieval?u=76281980&t=100)** Or you can just use it for simple text-based search.
 >
@@ -6544,13 +6504,13 @@ created: 2026-05-02
 >
 > **[6:33](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/hybrid-retrieval?u=76281980&t=393)** It dates back to the 1970s and '80s.
 >
-> **[6:36](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/hybrid-retrieval?u=76281980&t=396)** It's been used in information retrieval for years.
+> **[6:36](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/hybrid-retrieval?u=76281980&t=396)** It's been used in [[Information Retrieval]] for years.
 >
 > **[6:40](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/hybrid-retrieval?u=76281980&t=400)** You can look through the equations here if you'd like.
 >
 > **[6:43](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/hybrid-retrieval?u=76281980&t=403)** I'm not going to explain them to you.
 >
-> **[6:45](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/hybrid-retrieval?u=76281980&t=405)** They're pretty straightforward, and if you know enough about probability, you should be able to understand them.
+> **[6:45](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/hybrid-retrieval?u=76281980&t=405)** They're pretty straightforward, and if you know enough about [[Probability]], you should be able to understand them.
 >
 > **[6:51](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/hybrid-retrieval?u=76281980&t=411)** Either way, you don't need to know the mathematics behind BM25 in order to make use of it so I'm not going to talk too much about that.
 >
@@ -6596,7 +6556,7 @@ created: 2026-05-02
 >
 > **[8:44](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/hybrid-retrieval?u=76281980&t=524)** So imagine you've got a bunch of different search engines.
 >
-> **[8:47](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/hybrid-retrieval?u=76281980&t=527)** For example, Google, Bing, DuckDuckGo, whatever.
+> **[8:47](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/hybrid-retrieval?u=76281980&t=527)** For example, [[Google]], Bing, DuckDuckGo, whatever.
 >
 > **[8:50](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/hybrid-retrieval?u=76281980&t=530)** And each one of these is ranking the search results in a different way when you type in a query.
 >
@@ -6716,7 +6676,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (30), rag (3), prompt (3), llm (2), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[LlamaIndex]] (2), [[Metadata]] (1), [[Information Retrieval]] (1), [[Probability]] (1)
 > **CLI Commands:** make (6), find (4), python (2), node (1)
 > **Env Vars:** bm25 (7), rag (3), llm (2)
 > **Exercise Files:** source code (6), template (1)
@@ -6725,8 +6685,7 @@ created: 2026-05-02
 > **Analogies:** for example (2), similar to (1), imagine (1)
 > **Warnings:** note that (3)
 
-#### Agentic RAG
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/agentic-rag?u=76281980)
+#### [Agentic RAG](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/agentic-rag?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6734,7 +6693,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/agentic-rag?u=76281980&t=7)** Let's go ahead and jump right into it.
 >
-> **[0:10](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/agentic-rag?u=76281980&t=10)** So in LlamaIndex, a data agent is kind of like a knowledge worker that's automated and powered by a large language model, and this knowledge worker, if you would, can perform a wide variety of tasks over different types of data, different types of data sources and it can also make use of tools.
+> **[0:10](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/agentic-rag?u=76281980&t=10)** So in [[LlamaIndex]], a data agent is kind of like a knowledge worker that's automated and powered by a large language model, and this knowledge worker, if you would, can perform a wide variety of tasks over different types of data, different types of data sources and it can also make use of tools.
 >
 > **[0:30](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/agentic-rag?u=76281980&t=30)** So one of the things that this agent can do is just handle data across various formats, whether that's structured, semi-structured, or completely unstructured.
 >
@@ -6764,7 +6723,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/agentic-rag?u=76281980&t=112)** We'll bring in our documents.
 >
-> **[1:54](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/agentic-rag?u=76281980&t=114)** We're going to make use of metadata in this lesson, so I'll manually attach some metadata.
+> **[1:54](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/agentic-rag?u=76281980&t=114)** We're going to make use of [[Metadata]] in this lesson, so I'll manually attach some metadata.
 >
 > **[2:00](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/agentic-rag?u=76281980&t=120)** We'll go ahead and create a document store, creating a document store because we're going to make use of hybrid retrieval.
 >
@@ -6854,7 +6813,7 @@ created: 2026-05-02
 >
 > **[7:50](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/agentic-rag?u=76281980&t=470)** Here, we're going to use the OpenAIAgent.
 >
-> **[7:54](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/agentic-rag?u=76281980&t=474)** This is a specialized type of agent that uses, of course, OpenAI models to perform tasks like using functions or calling APIs or answering a query or summarizing information, and they're built using the OpenAI API.
+> **[7:54](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/agentic-rag?u=76281980&t=474)** This is a specialized type of agent that uses, of course, OpenAI models to perform tasks like using functions or calling APIs or answering a query or summarizing information, and they're built using the [[OpenAI API]].
 >
 > **[8:10](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/agentic-rag?u=76281980&t=490)** And so we initialize our OpenAIAgent with a set of tools.
 >
@@ -6872,7 +6831,7 @@ created: 2026-05-02
 >
 > **[8:55](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/agentic-rag?u=76281980&t=535)** The vector store data is going to communicate with the OpenAI API, one is a language model that's going to kind of generate responses based on the query, another is the embedding model that's going to convert the query and the data into vector representations, then we have the vector store system.
 >
-> **[9:16](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/agentic-rag?u=76281980&t=556)** The vector store system, of course, will process what is sent to it and fetch the relevant vectors, but it's also going to filter using metadata filters and we'll get back a list of filtered nodes which represent the most relevant pieces of information to the query.
+> **[9:16](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/agentic-rag?u=76281980&t=556)** The vector store system, of course, will process what is sent to it and [[Fetch]] the relevant vectors, but it's also going to filter using metadata filters and we'll get back a list of filtered nodes which represent the most relevant pieces of information to the query.
 >
 > **[9:35](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/agentic-rag?u=76281980&t=575)** This is going to be sent back to the vector store data application, which will compile it for response, and send it back to the query engine application and then finally get response back.
 >
@@ -6890,7 +6849,7 @@ created: 2026-05-02
 >
 > **[10:55](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/agentic-rag?u=76281980&t=655)** And so I'll filter keywords to specific knowledge, luck, and success and then get the most relevant nodes."
 >
-> **[11:03](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/agentic-rag?u=76281980&t=663)** If I say to the agent, what would Nassim Taleb say about accountability and risk, the agent is able to say, "Okay, well, I should probably filter based on the author metadata tag where the author is Nassim Taleb and ask about these things."
+> **[11:03](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/agentic-rag?u=76281980&t=663)** If I say to the agent, what would Nassim Taleb say about [[Accountability]] and risk, the agent is able to say, "Okay, well, I should probably filter based on the author metadata tag where the author is Nassim Taleb and ask about these things."
 >
 > **[11:21](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/agentic-rag?u=76281980&t=681)** Here, we can send the agent a query, what would Bruce Lee say about adaptability and self-expression, again, it's able to say, "Okay, well, I should probably filter for Bruce Lee and, you know, do this query once those nodes have been filtered."
 >
@@ -6946,7 +6905,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Metadata]] (18), data (13), database (7), [[LlamaIndex]] (6), next (5)
+> **Frameworks & Libraries:** [[Metadata]] (18), [[LlamaIndex]] (6), [[OpenAI API]] (2), [[Fetch]] (1), [[Accountability]] (1)
 > **Env Vars:** api (4), rag (2), llm (2), bm25 (2)
 > **CLI Commands:** make (6), node (1), find (1)
 > **Code Identifiers:** sentence_splitter (1), qa_extractor (1), keyword_extractor (1), filter_key_list (1), auto_retrieve_fn (1)
@@ -6955,8 +6914,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (4)
 > **Analogies:** kind of like (1), such as (1), just like (1)
 
-#### Ensemble retrieval
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/ensemble-retrieval?u=76281980)
+#### [Ensemble retrieval](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/ensemble-retrieval?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7018,7 +6976,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/ensemble-retrieval?u=76281980&t=154)** We'll put all this together into a recursive retriever.
 >
-> **[2:38](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/ensemble-retrieval?u=76281980&t=158)** The recursive retriever is going to fetch all nodes from the summary index, and then recursively call the vector retriever for each chunk size.
+> **[2:38](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/ensemble-retrieval?u=76281980&t=158)** The recursive retriever is going to [[Fetch]] all nodes from the summary index, and then recursively call the vector retriever for each chunk size.
 >
 > **[2:46](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/ensemble-retrieval?u=76281980&t=166)** So we'll define all that here.
 >
@@ -7054,7 +7012,7 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/ensemble-retrieval?u=76281980&t=250)** This is going to evaluate the relative importance or relative difference of each chunk by analyzing the ranks in the list.
 >
-> **[4:18](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/ensemble-retrieval?u=76281980&t=258)** So a high MRR means that the metadata tends to appear earlier in the ranking, which means it's higher relevance or importance.
+> **[4:18](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/ensemble-retrieval?u=76281980&t=258)** So a high MRR means that the [[Metadata]] tends to appear earlier in the ranking, which means it's higher relevance or importance.
 >
 > **[4:25](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/ensemble-retrieval?u=76281980&t=265)** So we have some input parameters here, metadata value, metadata key, and the source nodes.
 >
@@ -7062,7 +7020,7 @@ created: 2026-05-02
 >
 > **[4:34](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/ensemble-retrieval?u=76281980&t=274)** What this code is going to do is for each metadata value, iterate through the ranked list of source nodes, identify the position of the first occurrence of the metadata value in the list, compute the reciprocal rank, and then store the reciprocal rank in a dictionary.
 >
-> **[4:50](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/ensemble-retrieval?u=76281980&t=290)** The output is going to convert the dictionary of MRR values into a Pandas data frame, and then we will display the Pandas data frame.
+> **[4:50](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/ensemble-retrieval?u=76281980&t=290)** The output is going to convert the dictionary of MRR values into a [[Pandas (Software)|Pandas]] data frame, and then we will display the Pandas data frame.
 >
 > **[5:02](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/ensemble-retrieval?u=76281980&t=302)** And here we'll go ahead and run that.
 >
@@ -7080,7 +7038,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Metadata]] (5), node (3), data (3), rag (2), next (2)
+> **Frameworks & Libraries:** [[Metadata]] (5), [[Pandas (Software)|Pandas]] (2), [[Fetch]] (1)
 > **Env Vars:** mrr (3), rag (2)
 > **CLI Commands:** node (3)
 > **Code Identifiers:** summary_index (1), mrr_all (1)
@@ -7089,8 +7047,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Prerequisites:** set up (1)
 
-#### Ensemble query engine
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/ensemble-query-engine?u=76281980)
+#### [Ensemble query engine](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/ensemble-query-engine?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7124,7 +7081,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/ensemble-query-engine?u=76281980&t=88)** Go ahead and create our storage context.
 >
-> **[1:31](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/ensemble-query-engine?u=76281980&t=91)** And what we're going to do is use a simple key word table index.
+> **[1:31](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/ensemble-query-engine?u=76281980&t=91)** And what we're going to do is use a simple key [[Microsoft Word|word]] table index.
 >
 > **[1:36](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/ensemble-query-engine?u=76281980&t=96)** This is just a simplified version of the keyword based indexing system.
 >
@@ -7234,7 +7191,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (9), rag (3), prompt (3), data (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Env Vars:** llm (9), rag (3), gpt (1)
 > **Prerequisites:** set up (3), configure (1)
 > **Definitions:** is a  (3)
@@ -7248,14 +7205,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### LlamaIndex evaluation
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/llamaindex-evaluation?u=76281980)
+#### [LlamaIndex evaluation](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/llamaindex-evaluation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/llamaindex-evaluation?u=76281980&t=0)** - [Instructor] I concluded the last section by talking to you about Ensemble Retrievals and Ensemble Query engines, and how you can use these to kind of evaluate responses, and kind of get a sense of how your RAG system is performing.
 >
-> **[0:15](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/llamaindex-evaluation?u=76281980&t=15)** Although we didn't cover it in this course, I do want to point you to a place where you can go and learn more about Evaluation within the Llamaindex framework.
+> **[0:15](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/llamaindex-evaluation?u=76281980&t=15)** Although we didn't cover it in this course, I do want to point you to a place where you can go and learn more about Evaluation within the [[LlamaIndex]] framework.
 >
 > **[0:24](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/llamaindex-evaluation?u=76281980&t=24)** So, if you go to docs.[llamaindex.ai](https://llamaindex.ai), and you go to Advanced Topics, scroll down to Evaluation, you'll see that Llamaindex actually has a module for Evaluation.
 >
@@ -7281,14 +7237,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LlamaIndex]] (5), rag (2), next (2), ai (1)
+> **Frameworks & Libraries:** [[LlamaIndex]] (5)
 > **UI Navigation:** go to (2), scroll down (1)
 > **Env Vars:** rag (2)
 > **URLs:** [llamaindex.ai](https://llamaindex.ai) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Comparative analysis of retrieval-augmented generation techniques
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/comparative-analysis-of-retrieval-augmented-generation-techniques?u=76281980)
+#### [Comparative analysis of retrieval-augmented generation techniques](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/comparative-analysis-of-retrieval-augmented-generation-techniques?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7316,19 +7271,19 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/comparative-analysis-of-retrieval-augmented-generation-techniques?u=76281980&t=56)** So the main purpose of this paper, what they're trying to do is evaluate different RAG techniques, measure their performance specifically with respect to retrieval precision and answer similarity, and they want to find the best performing methods, and then also provide some recommendations for how to go forward.
 >
-> **[1:15](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/comparative-analysis-of-retrieval-augmented-generation-techniques?u=76281980&t=75)** The first thing I want to talk about is actually their data collection and their dataset construction.
+> **[1:15](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/comparative-analysis-of-retrieval-augmented-generation-techniques?u=76281980&t=75)** The first thing I want to talk about is actually their [[Data Collection]] and their dataset construction.
 >
 > **[1:20](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/comparative-analysis-of-retrieval-augmented-generation-techniques?u=76281980&t=80)** So they looked at arXiv they focused on 423 research papers related to AI and LLMs.
 >
-> **[1:27](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/comparative-analysis-of-retrieval-augmented-generation-techniques?u=76281980&t=87)** With that, they generated 107 QA pairs using GPT-4, I believe, and they validated this with human reviewers.
+> **[1:27](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/comparative-analysis-of-retrieval-augmented-generation-techniques?u=76281980&t=87)** With that, they generated 107 QA pairs using [[GPT-4]], I believe, and they validated this with human reviewers.
 >
 > **[1:37](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/comparative-analysis-of-retrieval-augmented-generation-techniques?u=76281980&t=97)** They then selected 13 papers for a further detailed analysis.
 >
-> **[1:43](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/comparative-analysis-of-retrieval-augmented-generation-techniques?u=76281980&t=103)** They added more papers to be kind of like noisy so they can simulate a real world environment, and then they used a bunch of different chunking strategies to create vector databases.
+> **[1:43](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/comparative-analysis-of-retrieval-augmented-generation-techniques?u=76281980&t=103)** They added more papers to be kind of like noisy so they can simulate a real world environment, and then they used a bunch of different chunking strategies to create [[Vector Databases]].
 >
 > **[1:56](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/comparative-analysis-of-retrieval-augmented-generation-techniques?u=76281980&t=116)** And in this paper, the methods they evaluated were the sentence window retrieval, the document summary index, hypothetical document embeddings, a multi-query, max marginal relevance, cohere reranker, and then LLM-based reranking.
 >
-> **[2:12](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/comparative-analysis-of-retrieval-augmented-generation-techniques?u=76281980&t=132)** They used the LlamaIndex abstractions for all of these.
+> **[2:12](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/comparative-analysis-of-retrieval-augmented-generation-techniques?u=76281980&t=132)** They used the [[LlamaIndex]] abstractions for all of these.
 >
 > **[2:14](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/comparative-analysis-of-retrieval-augmented-generation-techniques?u=76281980&t=134)** So if you recall sentence-window retrieval is optimizing retrieval and generation by tailoring the text chunk size.
 >
@@ -7358,7 +7313,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/comparative-analysis-of-retrieval-augmented-generation-techniques?u=76281980&t=219)** They rightfully acknowledged that there is a need for further metrics specifically designed to assess retrieval precision and answer similarity beyond just these simple scoring metrics.
 >
-> **[3:51](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/comparative-analysis-of-retrieval-augmented-generation-techniques?u=76281980&t=231)** And so with these metrics, they then did a statistical analysis.
+> **[3:51](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/comparative-analysis-of-retrieval-augmented-generation-techniques?u=76281980&t=231)** And so with these metrics, they then did a [[Statistical Analysis]].
 >
 > **[3:57](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/comparative-analysis-of-retrieval-augmented-generation-techniques?u=76281980&t=237)** So they calculated the average scores for retrieval precision and answer similarity across the 10 runs for each of the techniques.
 >
@@ -7404,7 +7359,7 @@ created: 2026-05-02
 >
 > **[6:24](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/comparative-analysis-of-retrieval-augmented-generation-techniques?u=76281980&t=384)** The paper also highlights that answer similarity is influenced by various factors that are beyond retrieval because we're using a LLM to judge the answer.
 >
-> **[6:33](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/comparative-analysis-of-retrieval-augmented-generation-techniques?u=76281980&t=393)** So beyond just retrieval, we're influenced by the LLM's capabilities and also prompt engineering as well.
+> **[6:33](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/comparative-analysis-of-retrieval-augmented-generation-techniques?u=76281980&t=393)** So beyond just retrieval, we're influenced by the LLM's capabilities and also [[Prompt Engineering]] as well.
 >
 > **[6:39](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/comparative-analysis-of-retrieval-augmented-generation-techniques?u=76281980&t=399)** But overall, if we prioritize RAG methods with high retrieval precision like HyDE and LLM reranking, we'll be able to generate faithful and relevant answers.
 >
@@ -7418,7 +7373,7 @@ created: 2026-05-02
 >
 > **[7:13](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/comparative-analysis-of-retrieval-augmented-generation-techniques?u=76281980&t=433)** So although I can't tell you what the best methodology to use is for your specific use case, I have provided you with the tools, that is a toolkit of techniques that you can use, and a framework with which you can use to evaluate your responses.
 >
-> **[7:31](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/comparative-analysis-of-retrieval-augmented-generation-techniques?u=76281980&t=451)** Now, this "Advanced RAG Output Grading" does have a GitHub associated with it.
+> **[7:31](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/comparative-analysis-of-retrieval-augmented-generation-techniques?u=76281980&t=451)** Now, this "Advanced RAG Output Grading" does have a [[GitHub]] associated with it.
 >
 > **[7:36](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/comparative-analysis-of-retrieval-augmented-generation-techniques?u=76281980&t=456)** Find the GitHub here, it's under the predlico repo under ARAGOG.
 >
@@ -7428,7 +7383,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (11), rag (8), [[GitHub]] (2), data (1), ai (1)
+> **Frameworks & Libraries:** [[GitHub]] (2), [[Data Collection]] (1), [[GPT-4]] (1), [[Vector Databases]] (1), [[LlamaIndex]] (1)
 > **Env Vars:** llm (11), rag (8), mrr (3), anova (2), gpt (1)
 > **Definitions:** is a  (5)
 > **CLI Commands:** find (2)

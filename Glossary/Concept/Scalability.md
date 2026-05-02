@@ -35,7 +35,7 @@ created: 2026-05-02
 4. [[Azure Understanding The Big Picture]] — 15 mentions
 5. [[Understanding Generative AI in Cloud Computing- Services and Use Cases]] — 14 mentions
 6. [[Integrating AI into the Product Architecture]] — 14 mentions
-7. [[Scalable Data Storage and Processing for AI Workloads]] — 13 mentions
+7. [[Scalable Data Storage and Processing for AI Workloads]] — 14 mentions
 8. [[Apache Kafka Essential Training Building Scalable Applications]] — 12 mentions
 9. [[Cloud Computing Terms Every Beginner Should Know]] — 11 mentions
 10. [[AI Data Strategy- Data Procurement and Storage]] — 11 mentions
@@ -137,80 +137,80 @@ created: 2026-05-02
 > 104. [[Apache Spark Essential Training- Big Data Engineering]] — 2 mentions
 > 105. [[Mpls Foundations Getting Started With Mpls]] — 2 mentions
 > 106. [[Azure AI for Developers- LLMs and SLMs]] — 2 mentions
-> 107. [[Data Engineering- dbt for SQL]] — 2 mentions
-> 108. [[Nail Your DevOps Interview]] — 2 mentions
-> 109. [[Google Cloud Security for Beginners- Tools and Services]] — 2 mentions
-> 110. [[Azure Spark Databricks Essential Training]] — 2 mentions
-> 111. [[Big Data Analytics with Hadoop and Apache Spark]] — 2 mentions
-> 112. [[Windows Server 2019 Essential Training]] — 2 mentions
-> 113. [[Advanced Bitbucket Pipelines- Automating Deployments and Managing Third-Party Integrations]] — 2 mentions
-> 114. [[Hands-On AI- RAG using LlamaIndex]] — 2 mentions
-> 115. [[Marketing Analytics Foundations]] — 2 mentions
-> 116. [[Choosing A Cloud Platform For Developers Aws Azure And Gcp]] — 2 mentions
-> 117. [[Advanced SQL- Logical Query Processing, Part 1]] — 2 mentions
-> 118. [[Advanced SQL for Application Development]] — 2 mentions
-> 119. [[Leveraging Cloud Computing for IoT]] — 2 mentions
-> 120. [[Cloud Storage Concepts- Services, Cost Control, and Security]] — 1 mentions
-> 121. [[Cybersecurity Careers and Certifications]] — 1 mentions
-> 122. [[C- Refactoring Tips and Tricks]] — 1 mentions
-> 123. [[Generative AI for Business Leaders]] — 1 mentions
-> 124. [[Building a Generative AI Tech Strategy]] — 1 mentions
-> 125. [[AI Product Security- Secure Architecture, Deployment, and Infrastructure]] — 1 mentions
-> 126. [[Data-Driven Decisions in Business Operations]] — 1 mentions
-> 127. [[Sharpen Your Decision-Making with Nuanced Thinking Techniques]] — 1 mentions
-> 128. [[Cloud Computing Careers and Certifications]] — 1 mentions
-> 129. [[Introducing Robotic Process Automation]] — 1 mentions
-> 130. [[NetOps (DevOps for Network Engineers)- Automating Networks]] — 1 mentions
-> 131. [[Accelerate Your Developer Career]] — 1 mentions
-> 132. [[Executive Guide to Predictive Modeling Strategy at Scale]] — 1 mentions
-> 133. [[AI Product Development- Technical Feasibility and Prototyping]] — 1 mentions
-> 134. [[Design a Cloud Migration Strategy]] — 1 mentions
-> 135. [[Presenting Cloud Migration Benefits to the C-Suite]] — 1 mentions
-> 136. [[Manager's Guide to Building a Strategic Plan with ChatGPT (No Code Required)]] — 1 mentions
-> 137. [[Programming Foundations- Software Testing-QA]] — 1 mentions
-> 138. [[Data Science Team Lifecycle Management]] — 1 mentions
-> 139. [[Learning Voip And Unified Communications]] — 1 mentions
-> 140. [[Integrating Generative AI into Business Strategy]] — 1 mentions
-> 141. [[Cybersecurity with Cloud Computing]] — 1 mentions
-> 142. [[Learning Rest Apis]] — 1 mentions
-> 143. [[Designing RESTful APIs]] — 1 mentions
-> 144. [[Azure Data Lake for Developers]] — 1 mentions
-> 145. [[Deep Learning Fundamentals for Healthcare]] — 1 mentions
-> 146. [[Interaction Design- Design Patterns as Building Blocks]] — 1 mentions
-> 147. [[IoT Foundations- Standards and Ecosystems]] — 1 mentions
-> 148. [[Networking Foundations- Local Area Networks (LANs)]] — 1 mentions
-> 149. [[Networking Foundations- Wide Area Networks (WANs)]] — 1 mentions
-> 150. [[Performing a Sustainability Audit with Microsoft Sustainability Manager]] — 1 mentions
-> 151. [[UX Research- Being Flexible]] — 1 mentions
-> 152. [[Build an AI Application with React and AWS SageMaker]] — 1 mentions
-> 153. [[AI Orchestration- Planning and Orchestrating for Observability]] — 1 mentions
-> 154. [[Secure Data Management for AI Implementation]] — 1 mentions
-> 155. [[Generative AI and Predictive AI in the Cloud- Foundational Concepts and Scenarios]] — 1 mentions
-> 156. [[MLOps Essentials- Monitoring Model Drift and Bias]] — 1 mentions
-> 157. [[Learning Apache Airflow]] — 1 mentions
-> 158. [[XAI and Interpretability in Cybersecurity]] — 1 mentions
-> 159. [[Operating System Forensics]] — 1 mentions
-> 160. [[Node.js- Microservices]] — 1 mentions
-> 161. [[Delivering and Analyzing a Software Pilot- GitHub Copilot]] — 1 mentions
-> 162. [[Azure AI- The Big Picture]] — 1 mentions
-> 163. [[Amazon EC2 Essential Training]] — 1 mentions
-> 164. [[Complete Guide to AWS Security and Compliance Management]] — 1 mentions
-> 165. [[Python Data Analysis for Healthcare]] — 1 mentions
-> 166. [[Business Analysis for Project Managers]] — 1 mentions
-> 167. [[Leveraging Ai In Your Nonprofit Role By Microsoft And Nethope]] — 1 mentions
-> 168. [[React- Authentication]] — 1 mentions
-> 169. [[React- Server-Side Rendering]] — 1 mentions
-> 170. [[Azure Administration Essential Training]] — 1 mentions
-> 171. [[Microsoft Security Essentials Concepts Solutions And Ai Powered Protection]] — 1 mentions
-> 172. [[Aws Essential Training For Developers]] — 1 mentions
-> 173. [[Cybersecurity Outsourcing- Vendor Selection and Management]] — 1 mentions
-> 174. [[Windows Server 2022 Essential Training]] — 1 mentions
-> 175. [[OpenAI API- Working with Files]] — 1 mentions
-> 176. [[AI Accountability- Build Responsible and Transparent Systems]] — 1 mentions
-> 177. [[Learning Vertex AI- MLOps with Google Cloud]] — 1 mentions
-> 178. [[Introduction to Generative Adversarial Networks (GANs)]] — 1 mentions
-> 179. [[Azure for Developers- Retrieval-Augmented Generation (RAG) with Azure AI]] — 1 mentions
-> 180. [[Google Cloud Digital Leader Cert Prep- 2 Exploring Data Transformation with Google Cloud]] — 1 mentions
+> 107. [[Google Cloud Digital Leader Cert Prep- 2 Exploring Data Transformation with Google Cloud]] — 2 mentions
+> 108. [[Data Engineering- dbt for SQL]] — 2 mentions
+> 109. [[Nail Your DevOps Interview]] — 2 mentions
+> 110. [[Google Cloud Security for Beginners- Tools and Services]] — 2 mentions
+> 111. [[Azure Spark Databricks Essential Training]] — 2 mentions
+> 112. [[Big Data Analytics with Hadoop and Apache Spark]] — 2 mentions
+> 113. [[Windows Server 2019 Essential Training]] — 2 mentions
+> 114. [[Advanced Bitbucket Pipelines- Automating Deployments and Managing Third-Party Integrations]] — 2 mentions
+> 115. [[Hands-On AI- RAG using LlamaIndex]] — 2 mentions
+> 116. [[Marketing Analytics Foundations]] — 2 mentions
+> 117. [[Choosing A Cloud Platform For Developers Aws Azure And Gcp]] — 2 mentions
+> 118. [[Advanced SQL- Logical Query Processing, Part 1]] — 2 mentions
+> 119. [[Advanced SQL for Application Development]] — 2 mentions
+> 120. [[Leveraging Cloud Computing for IoT]] — 2 mentions
+> 121. [[Cloud Storage Concepts- Services, Cost Control, and Security]] — 1 mentions
+> 122. [[Cybersecurity Careers and Certifications]] — 1 mentions
+> 123. [[C- Refactoring Tips and Tricks]] — 1 mentions
+> 124. [[Generative AI for Business Leaders]] — 1 mentions
+> 125. [[Building a Generative AI Tech Strategy]] — 1 mentions
+> 126. [[AI Product Security- Secure Architecture, Deployment, and Infrastructure]] — 1 mentions
+> 127. [[Data-Driven Decisions in Business Operations]] — 1 mentions
+> 128. [[Sharpen Your Decision-Making with Nuanced Thinking Techniques]] — 1 mentions
+> 129. [[Cloud Computing Careers and Certifications]] — 1 mentions
+> 130. [[Introducing Robotic Process Automation]] — 1 mentions
+> 131. [[NetOps (DevOps for Network Engineers)- Automating Networks]] — 1 mentions
+> 132. [[Accelerate Your Developer Career]] — 1 mentions
+> 133. [[Executive Guide to Predictive Modeling Strategy at Scale]] — 1 mentions
+> 134. [[AI Product Development- Technical Feasibility and Prototyping]] — 1 mentions
+> 135. [[Design a Cloud Migration Strategy]] — 1 mentions
+> 136. [[Presenting Cloud Migration Benefits to the C-Suite]] — 1 mentions
+> 137. [[Manager's Guide to Building a Strategic Plan with ChatGPT (No Code Required)]] — 1 mentions
+> 138. [[Programming Foundations- Software Testing-QA]] — 1 mentions
+> 139. [[Data Science Team Lifecycle Management]] — 1 mentions
+> 140. [[Learning Voip And Unified Communications]] — 1 mentions
+> 141. [[Integrating Generative AI into Business Strategy]] — 1 mentions
+> 142. [[Cybersecurity with Cloud Computing]] — 1 mentions
+> 143. [[Learning Rest Apis]] — 1 mentions
+> 144. [[Designing RESTful APIs]] — 1 mentions
+> 145. [[Azure Data Lake for Developers]] — 1 mentions
+> 146. [[Deep Learning Fundamentals for Healthcare]] — 1 mentions
+> 147. [[Interaction Design- Design Patterns as Building Blocks]] — 1 mentions
+> 148. [[IoT Foundations- Standards and Ecosystems]] — 1 mentions
+> 149. [[Networking Foundations- Local Area Networks (LANs)]] — 1 mentions
+> 150. [[Networking Foundations- Wide Area Networks (WANs)]] — 1 mentions
+> 151. [[Performing a Sustainability Audit with Microsoft Sustainability Manager]] — 1 mentions
+> 152. [[UX Research- Being Flexible]] — 1 mentions
+> 153. [[Build an AI Application with React and AWS SageMaker]] — 1 mentions
+> 154. [[AI Orchestration- Planning and Orchestrating for Observability]] — 1 mentions
+> 155. [[Secure Data Management for AI Implementation]] — 1 mentions
+> 156. [[Generative AI and Predictive AI in the Cloud- Foundational Concepts and Scenarios]] — 1 mentions
+> 157. [[MLOps Essentials- Monitoring Model Drift and Bias]] — 1 mentions
+> 158. [[Learning Apache Airflow]] — 1 mentions
+> 159. [[XAI and Interpretability in Cybersecurity]] — 1 mentions
+> 160. [[Operating System Forensics]] — 1 mentions
+> 161. [[Node.js- Microservices]] — 1 mentions
+> 162. [[Delivering and Analyzing a Software Pilot- GitHub Copilot]] — 1 mentions
+> 163. [[Azure AI- The Big Picture]] — 1 mentions
+> 164. [[Amazon EC2 Essential Training]] — 1 mentions
+> 165. [[Complete Guide to AWS Security and Compliance Management]] — 1 mentions
+> 166. [[Python Data Analysis for Healthcare]] — 1 mentions
+> 167. [[Business Analysis for Project Managers]] — 1 mentions
+> 168. [[Leveraging Ai In Your Nonprofit Role By Microsoft And Nethope]] — 1 mentions
+> 169. [[React- Authentication]] — 1 mentions
+> 170. [[React- Server-Side Rendering]] — 1 mentions
+> 171. [[Azure Administration Essential Training]] — 1 mentions
+> 172. [[Microsoft Security Essentials Concepts Solutions And Ai Powered Protection]] — 1 mentions
+> 173. [[Aws Essential Training For Developers]] — 1 mentions
+> 174. [[Cybersecurity Outsourcing- Vendor Selection and Management]] — 1 mentions
+> 175. [[Windows Server 2022 Essential Training]] — 1 mentions
+> 176. [[OpenAI API- Working with Files]] — 1 mentions
+> 177. [[AI Accountability- Build Responsible and Transparent Systems]] — 1 mentions
+> 178. [[Learning Vertex AI- MLOps with Google Cloud]] — 1 mentions
+> 179. [[Introduction to Generative Adversarial Networks (GANs)]] — 1 mentions
+> 180. [[Azure for Developers- Retrieval-Augmented Generation (RAG) with Azure AI]] — 1 mentions
 > 181. [[Google Cloud Digital Leader Cert Prep- 6 Scaling with Google Cloud Operations]] — 1 mentions
 > 182. [[Troubleshooting and Debugging Kafka]] — 1 mentions
 > 183. [[DevOps Tips]] — 1 mentions
@@ -248,10 +248,10 @@ created: 2026-05-02
 3. [[ServiceNow IT Leadership Professional Certificate]] — 29 total mentions
 4. [[Become an AI Engineer]] — 27 total mentions
 5. [[Introduction to Fundamental Skills for Data Work- Data Storage]] — 27 total mentions
-6. [[Develop Your NoSQL Skills]] — 25 total mentions
-7. [[Mastering Multiprotocol Label Switching (MPLS)]] — 25 total mentions
-8. [[Azure Administration for Beginners- Management Tools, Services, and Security]] — 24 total mentions
-9. [[Working with Data- Collecting, Processing, and Storing Data for AI]] — 24 total mentions
+6. [[Working with Data- Collecting, Processing, and Storing Data for AI]] — 25 total mentions
+7. [[Develop Your NoSQL Skills]] — 25 total mentions
+8. [[Mastering Multiprotocol Label Switching (MPLS)]] — 25 total mentions
+9. [[Azure Administration for Beginners- Management Tools, Services, and Security]] — 24 total mentions
 10. [[Advance Your Data Engineering Skills]] — 24 total mentions
 
 ---

@@ -77,8 +77,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Environmental, social, and governance concerns
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/environmental-social-and-governance-concerns?u=76281980)
+#### [Environmental, social, and governance concerns](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/environmental-social-and-governance-concerns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -88,7 +87,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/environmental-social-and-governance-concerns?u=76281980&t=10)** In this course, I will introduce you to foundational ESG concepts, discuss why there is so much momentum around ESG commitments, reporting, and investing, and how you can specialize in this area and upscale your current role, and more.
 >
-> **[0:27](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/environmental-social-and-governance-concerns?u=76281980&t=27)** Hi, my name is Fulya Kocak, For over two decades, I have built and grown sustainability and ESG programs for multiple corporations, and, most recently, for the real estate investment trust industry.
+> **[0:27](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/environmental-social-and-governance-concerns?u=76281980&t=27)** Hi, my name is Fulya Kocak, For over two decades, I have built and grown [[Sustainability]] and ESG programs for multiple corporations, and, most recently, for the real estate investment trust industry.
 >
 > **[0:41](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/environmental-social-and-governance-concerns?u=76281980&t=41)** With that, let's go ahead and get started with an introduction to ESG.
 
@@ -103,8 +102,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is ESG?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/what-is-esg?u=76281980)
+#### [What is ESG?](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/what-is-esg?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -114,7 +112,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/what-is-esg?u=76281980&t=9)** ESG is a company's performance and risk exposure based on its environmental impact, social responsibility and how it is governed.
 >
-> **[0:18](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/what-is-esg?u=76281980&t=18)** Although the term ESG is sometimes used as the same thing as sustainability or corporate social responsibility there are a number of differences.
+> **[0:18](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/what-is-esg?u=76281980&t=18)** Although the term ESG is sometimes used as the same thing as [[Sustainability]] or corporate social responsibility there are a number of differences.
 >
 > **[0:27](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/what-is-esg?u=76281980&t=27)** The first difference is that ESG ties into financial decision making based on relevant environmental, social, and governance metrics and performance.
 >
@@ -136,18 +134,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (2), leadership (1), business (1), management (1), next (1)
+> **Frameworks & Libraries:** [[Sustainability]] (2)
 > **Env Vars:** esg (11), csr (1)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [host] (1)
 
-#### The demand for ESG
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/the-demand-for-esg?u=76281980)
+#### [The demand for ESG](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/the-demand-for-esg?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/the-demand-for-esg?u=76281980&t=0)** - [Instructor] Pandemics devastating impact on people, social unrest, climate change events and supply chain disruptions have become the living proof of environmental and social risks that have deeply impacted many businesses and individuals, almost overnight.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/the-demand-for-esg?u=76281980&t=0)** - [Instructor] Pandemics devastating impact on people, social unrest, [[Climate Change]] events and supply chain disruptions have become the living proof of environmental and social risks that have deeply impacted many businesses and individuals, almost overnight.
 >
 > **[0:15](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/the-demand-for-esg?u=76281980&t=15)** These disruptions increased demand for ESG more in the past two years than over the past two decades.
 >
@@ -175,15 +172,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Climate Change]] (2), management (2), data (1), next (1)
+> **Frameworks & Libraries:** [[Climate Change]] (2)
 > **Env Vars:** esg (6), sif (1), pwc (1)
 > **CLI Commands:** make (2)
 > **Versions:** 17.1 (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Benefits of a strong ESG program
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/benefits-of-a-strong-esg-program?u=76281980)
+#### [Benefits of a strong ESG program](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/benefits-of-a-strong-esg-program?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -191,7 +187,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/benefits-of-a-strong-esg-program?u=76281980&t=5)** This could be due to investor demand, workforce pressure, enterprise risk management, and or to create competitive advantage.
 >
-> **[0:14](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/benefits-of-a-strong-esg-program?u=76281980&t=14)** The New York university Stern Center for Sustainable Business reviewed a thousand research papers from 2015 and 2020.
+> **[0:14](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/benefits-of-a-strong-esg-program?u=76281980&t=14)** The New York university Stern Center for [[Sustainable Business]] reviewed a thousand research papers from 2015 and 2020.
 >
 > **[0:23](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/benefits-of-a-strong-esg-program?u=76281980&t=23)** They found a positive relationship between performance-based ESG measures and financial performance.
 >
@@ -201,15 +197,15 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/benefits-of-a-strong-esg-program?u=76281980&t=56)** Companies with strong ESG programs can also benefit from cost reduction through decreased or avoided resource use, minimize energy, water, and raw material consumption results in maximized savings while increasing ESG performance scores.
 >
-> **[1:13](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/benefits-of-a-strong-esg-program?u=76281980&t=73)** However, it is also important to note that ESG programs require resource allocation for full-time staff or service providers, and additional capital expenses for sustainability initiatives.
+> **[1:13](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/benefits-of-a-strong-esg-program?u=76281980&t=73)** However, it is also important to note that ESG programs require resource allocation for full-time staff or service providers, and additional capital expenses for [[Sustainability]] initiatives.
 >
 > **[1:27](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/benefits-of-a-strong-esg-program?u=76281980&t=87)** When making decisions, costs and benefits should be carefully analyzed.
 >
 > **[1:32](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/benefits-of-a-strong-esg-program?u=76281980&t=92)** The next benefit of integrating ESG into business practices is improved investor relations and attracting capital.
 >
-> **[1:41](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/benefits-of-a-strong-esg-program?u=76281980&t=101)** Increasingly, investors are looking for companies that are best prepared for transition to low carbon economy and climate change adaptation.
+> **[1:41](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/benefits-of-a-strong-esg-program?u=76281980&t=101)** Increasingly, investors are looking for companies that are best prepared for transition to low carbon economy and [[Climate Change]] adaptation.
 >
-> **[1:50](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/benefits-of-a-strong-esg-program?u=76281980&t=110)** Strong ESG practices and accountability measures also reduce risk exposure in environmental and social context.
+> **[1:50](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/benefits-of-a-strong-esg-program?u=76281980&t=110)** Strong ESG practices and [[Accountability]] measures also reduce risk exposure in environmental and social context.
 >
 > **[1:59](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/benefits-of-a-strong-esg-program?u=76281980&t=119)** Examples to these risks include supply chain disruptions and controversies, climate change risks, corruption and bribery, and in compliance related fines, as well as business reputation risks.
 >
@@ -217,14 +213,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Climate Change]] (2), management (1), [[Sustainable Business]] (1), [[Sustainability]] (1)
+> **Frameworks & Libraries:** [[Climate Change]] (2), [[Sustainable Business]] (1), [[Sustainability]] (1), [[Accountability]] (1)
 > **Env Vars:** esg (8)
 > **Analogies:** such as (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [narrator] (1)
 
-#### ESG risks
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-risks?u=76281980)
+#### [ESG risks](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-risks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -232,35 +227,34 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-risks?u=76281980&t=6)** ESG risks are those that are related to an organization's environmental or social impact as well as the environment's and the stakeholders' impact on the organization itself.
 >
-> **[0:18](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-risks?u=76281980&t=18)** Environmental risks relate to climate change, green energy transition, and environmental compliance.
+> **[0:18](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-risks?u=76281980&t=18)** Environmental risks relate to [[Climate Change]], green energy transition, and environmental compliance.
 >
 > **[0:25](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-risks?u=76281980&t=25)** Social risks relate to people, including the workforce, supply chain, customers, and communities.
 >
-> **[0:33](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-risks?u=76281980&t=33)** There are also governance-related risks that are relevant to a business' ethics and management, such as bribery and corruption.
+> **[0:33](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-risks?u=76281980&t=33)** There are also governance-related risks that are relevant to a business' [[Ethics]] and management, such as bribery and corruption.
 >
 > **[0:41](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-risks?u=76281980&t=41)** It is important to point that ESG risk is regular business risk.
 >
-> **[0:46](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-risks?u=76281980&t=46)** ESG risks vary depending on the sector, region, and business operations.
+> **[0:46](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-risks?u=76281980&t=46)** ESG risks vary depending on the sector, region, and [[Business Operations]].
 >
 > **[0:51](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-risks?u=76281980&t=51)** For example, the top ESG risk for the real state industry is physical climate change, including rising sea levels and increased frequency of climate events.
 >
 > **[1:02](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-risks?u=76281980&t=62)** For consumer goods, social risks rise to the top, especially human rights and labor conditions throughout the global supply chain.
 >
-> **[1:11](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-risks?u=76281980&t=71)** While privacy rises to the top for tech companies, and governance issues related to ethics and corruption is critical for the financial sector.
+> **[1:11](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-risks?u=76281980&t=71)** While [[Privacy]] rises to the top for tech companies, and governance issues related to ethics and corruption is critical for the financial sector.
 >
-> **[1:21](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-risks?u=76281980&t=81)** The most common ESG risks include physical climate risks, such as flooding, storm surges, wildfires, and hurricanes; transitional climate risks that include regulatory changes such as carbon tax, more stringent building codes, reputational risks associated with transitioning to a low-carbon economy; environmental management and compliance risks, including potential fines and stop-work orders; working safety conditions; human right violations; weak anti-bribery and corruption practices; increased cost or burdens due to existing and new laws and regulations; and cybersecurity and privacy-related risks.
+> **[1:21](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-risks?u=76281980&t=81)** The most common ESG risks include physical climate risks, such as flooding, storm surges, wildfires, and hurricanes; transitional climate risks that include regulatory changes such as carbon tax, more stringent building codes, reputational risks associated with transitioning to a low-carbon economy; environmental management and compliance risks, including potential fines and stop-work orders; working safety conditions; human right violations; weak anti-bribery and corruption practices; increased cost or burdens due to existing and new laws and regulations; and [[Cybersecurity]] and privacy-related risks.
 >
-> **[2:07](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-risks?u=76281980&t=127)** Of course, along with these risks, there are many opportunities for businesses that have very strong ESG programs, customer services, and products.
+> **[2:07](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-risks?u=76281980&t=127)** Of course, along with these risks, there are many opportunities for businesses that have very strong ESG programs, customer services, and [[Microsoft Products|products]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Climate Change]] (2), [[Ethics]] (2), management (2), [[Privacy]] (2)
+> **Frameworks & Libraries:** [[Climate Change]] (2), [[Ethics]] (2), [[Privacy]] (2), [[Business Operations]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** esg (6)
 > **Analogies:** such as (3), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sustainable investing
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/sustainable-investing?u=76281980)
+#### [Sustainable investing](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/sustainable-investing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -296,19 +290,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1), next (1)
 > **Env Vars:** esg (6), pri (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sustainable investing approaches
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/sustainable-investing-approaches?u=76281980)
+#### [Sustainable investing approaches](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/sustainable-investing-approaches?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/sustainable-investing-approaches?u=76281980&t=0)** - [Instructor] According to UNPRI, both positive and negative screening utilize a set of filters to determine which companies or sectors are eligible or ineligible for investment in a particular portfolio.
 >
-> **[0:12](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/sustainable-investing-approaches?u=76281980&t=12)** This criteria might be set according to an investor's values and ethics or simple preferences or based on the policy of an asset manager or owner.
+> **[0:12](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/sustainable-investing-approaches?u=76281980&t=12)** This criteria might be set according to an investor's values and [[Ethics]] or simple preferences or based on the policy of an asset manager or owner.
 >
 > **[0:21](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/sustainable-investing-approaches?u=76281980&t=21)** A screen might be used to exclude the highest greenhouse gas emitters from a portfolio, which is negative screening or to target only the lowest emitters, positive screening.
 >
@@ -354,7 +346,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), data (2), [[Ethics]] (1), power (1)
+> **Frameworks & Libraries:** [[Ethics]] (1)
 > **Env Vars:** esg (14), unpri (1)
 > **Definitions:** is a  (3), refers to (1)
 > **Analogies:** for example (2), such as (1)
@@ -366,8 +358,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The E of ESG
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/the-e-of-esg?u=76281980)
+#### [The E of ESG](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/the-e-of-esg?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -375,7 +366,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/the-e-of-esg?u=76281980&t=10)** The World Economic Forum has identified seven major themes of environmental topics across existing ESG reporting frameworks and standards.
 >
-> **[0:19](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/the-e-of-esg?u=76281980&t=19)** These include climate change, nature loss, freshwater availability, air pollution, water pollution, solid waste, and resource availability.
+> **[0:19](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/the-e-of-esg?u=76281980&t=19)** These include [[Climate Change]], nature loss, freshwater availability, air pollution, water pollution, solid waste, and resource availability.
 >
 > **[0:32](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/the-e-of-esg?u=76281980&t=32)** In addition to these broad environmental themes, some of the most commonly considered more specific environmental topics include the following.
 >
@@ -397,7 +388,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/the-e-of-esg?u=76281980&t=100)** This includes a company's exposure to both physical and transitional climate risks.
 >
-> **[1:46](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/the-e-of-esg?u=76281980&t=106)** The next major environmental consideration is biodiversity loss, and this refers to a decline in the number of species found in a particular area.
+> **[1:46](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/the-e-of-esg?u=76281980&t=106)** The next major environmental consideration is [[Biodiversity]] loss, and this refers to a decline in the number of species found in a particular area.
 >
 > **[1:55](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/the-e-of-esg?u=76281980&t=115)** Species extinction and loss of habitat can have cascading impacts in the ecology of a region and ultimately result in food scarcity among other many negative environmental impacts.
 >
@@ -405,11 +396,11 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/the-e-of-esg?u=76281980&t=136)** Waste management refers to disposal, reduction, reuse, and prevention of waste.
 >
-> **[2:22](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/the-e-of-esg?u=76281980&t=142)** You might have heard a relevant term, circularity, as a part of sustainability and ESG efforts by manufacturers.
+> **[2:22](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/the-e-of-esg?u=76281980&t=142)** You might have heard a relevant term, circularity, as a part of [[Sustainability]] and ESG efforts by manufacturers.
 >
 > **[2:29](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/the-e-of-esg?u=76281980&t=149)** A circular economy model goes beyond traditional waste management, focuses on efficient use of natural sources, reuse, recycling, and innovative manufacturing strategies supporting the development of new industries and jobs while reducing waste and emissions.
 >
-> **[2:46](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/the-e-of-esg?u=76281980&t=166)** Since businesses and industry sectors interact with the natural environment in unique ways, from operations to the supply chain management to products and services, the environmental issues and the level of their importance vary widely.
+> **[2:46](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/the-e-of-esg?u=76281980&t=166)** Since businesses and industry sectors interact with the natural environment in unique ways, from operations to the [[Supply Chain Management]] to [[Microsoft Products|products]] and services, the environmental issues and the level of their importance vary widely.
 >
 > **[3:02](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/the-e-of-esg?u=76281980&t=182)** Let's take a moment to put what you learned into practice.
 >
@@ -417,7 +408,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/the-e-of-esg?u=76281980&t=188)** It can be your favorite beverage, skincare product, maybe electronic device.
 >
-> **[3:14](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/the-e-of-esg?u=76281980&t=194)** Find the product's company's website and look for their corporate sustainability report.
+> **[3:14](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/the-e-of-esg?u=76281980&t=194)** Find the product's company's website and look for their [[Corporate Sustainability]] report.
 >
 > **[3:19](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/the-e-of-esg?u=76281980&t=199)** In the report, find out which environmental issues are highlighted as most relevant to their business.
 >
@@ -427,14 +418,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (4), next (4), [[Climate Change]] (2), [[Microsoft Products|Products]] (2), product (2)
+> **Frameworks & Libraries:** [[Climate Change]] (2), [[Microsoft Products|Products]] (2), [[Biodiversity]] (1), [[Sustainability]] (1), [[Supply Chain Management]] (1)
 > **Env Vars:** esg (3), ghg (2)
 > **CLI Commands:** find (4)
 > **Definitions:** refers to (3), known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### The S of ESG
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/the-s-of-esg?u=76281980)
+#### [The S of ESG](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/the-s-of-esg?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -446,7 +436,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/the-s-of-esg?u=76281980&t=33)** The World Economic Forum identified three themes among people-related topics across existing ESG reporting frameworks and standards, these include dignity and equality, health and well-being, and skills for the future.
 >
-> **[0:49](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/the-s-of-esg?u=76281980&t=49)** Unlike environmental issues, which vary widely depending on the business operations and environmental impact, there are common social factors that most companies address.
+> **[0:49](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/the-s-of-esg?u=76281980&t=49)** Unlike environmental issues, which vary widely depending on the [[Business Operations]] and environmental impact, there are common social factors that most companies address.
 >
 > **[0:59](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/the-s-of-esg?u=76281980&t=59)** For example, health and safety, human capital management, and community engagement and service are topics that are likely applicable to any organization.
 >
@@ -456,9 +446,9 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/the-s-of-esg?u=76281980&t=81)** It includes safety management plans, training, inspections and monitoring, and tracking and compliance.
 >
-> **[1:29](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/the-s-of-esg?u=76281980&t=89)** Human capital management addresses diversity, equity and inclusion, fair pay, employee retention, career development, and health and well-being.
+> **[1:29](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/the-s-of-esg?u=76281980&t=89)** Human capital management addresses diversity, equity and inclusion, fair pay, employee retention, [[Career Development]], and health and well-being.
 >
-> **[1:39](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/the-s-of-esg?u=76281980&t=99)** Supply chain management addresses the management of environmental, social, and governance of an organization's supply chain, including vendors, suppliers and contractors.
+> **[1:39](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/the-s-of-esg?u=76281980&t=99)** [[Supply Chain Management]] addresses the management of environmental, social, and governance of an organization's supply chain, including vendors, suppliers and contractors.
 >
 > **[1:50](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/the-s-of-esg?u=76281980&t=110)** For example, a company headquartered in the U.S.
 >
@@ -474,17 +464,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (4), [[Supply Chain Management]] (2), business (1), [[Career Development]] (1)
+> **Frameworks & Libraries:** [[Supply Chain Management]] (2), [[Business Operations]] (1), [[Career Development]] (1)
 > **Env Vars:** esg (3)
 > **Analogies:** for example (2)
 > **Speakers:** - [narrator] (1)
 
-#### The G of ESG
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/the-g-of-esg?u=76281980)
+#### [The G of ESG](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/the-g-of-esg?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/the-g-of-esg?u=76281980&t=0)** - [Narrator] Corporate governance policies and practices focus on accountability, fiduciary duty, and mechanisms of auditing and control.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/the-g-of-esg?u=76281980&t=0)** - [Narrator] Corporate governance policies and practices focus on [[Accountability]], fiduciary duty, and mechanisms of auditing and control.
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/the-g-of-esg?u=76281980&t=9)** A strong corporate governance also ensures that a corporation conduct its business ethically with honesty, trust, transparency, and fairness.
 >
@@ -502,7 +491,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/the-g-of-esg?u=76281980&t=72)** Negative screens can be used to rule out companies whose governance policies and practices expose them to unacceptable levels of risk.
 >
-> **[1:20](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/the-g-of-esg?u=76281980&t=80)** An example to this is excluding a company that is involved in legally or ethically questionable practices, or another one that doesn't address long term risks to its business, such as the risks presented by climate change.
+> **[1:20](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/the-g-of-esg?u=76281980&t=80)** An example to this is excluding a company that is involved in legally or ethically questionable practices, or another one that doesn't address long term risks to its business, such as the risks presented by [[Climate Change]].
 >
 > **[1:34](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/the-g-of-esg?u=76281980&t=94)** Positive screens can also be used to identify companies with strong and transparent governance policies and practices.
 >
@@ -510,13 +499,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Accountability]] (1), management (1), [[Security]] (1), [[Climate Change]] (1)
+> **Frameworks & Libraries:** [[Accountability]] (1), [[Climate Change]] (1)
 > **Env Vars:** esg (7)
 > **Analogies:** such as (2), for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### ESG factors and metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-factors-and-metrics?u=76281980)
+#### [ESG factors and metrics](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-factors-and-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -524,13 +512,13 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-factors-and-metrics?u=76281980&t=12)** Let's take a quick look at some of the most common E, S and G factors.
 >
-> **[0:17](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-factors-and-metrics?u=76281980&t=17)** Environmental factors' common foremost industries and business types include climate change risks and opportunities, greenhouse gas emissions, energy, water and other resource use reduction, and waste management.
+> **[0:17](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-factors-and-metrics?u=76281980&t=17)** Environmental factors' common foremost industries and business types include [[Climate Change]] risks and opportunities, greenhouse gas emissions, energy, water and other resource use reduction, and waste management.
 >
-> **[0:33](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-factors-and-metrics?u=76281980&t=33)** Under the social pillar, the most common factors include diversity, equity and inclusion, health and safety, human rights and working conditions, stakeholder engagement, and human capital management.
+> **[0:33](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-factors-and-metrics?u=76281980&t=33)** Under the social pillar, the most common factors include diversity, equity and inclusion, health and safety, human rights and working conditions, [[Stakeholder Engagement]], and human capital management.
 >
 > **[0:47](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-factors-and-metrics?u=76281980&t=47)** The governance pillar includes traditional governance factors, such as executive compensation, shareholder rights, various governance policies, as well as ESG governance-related factors, such as board-level ESG oversight.
 >
-> **[1:02](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-factors-and-metrics?u=76281980&t=62)** Each ESG factor is expected to have one or multiple associated metrics that provide consistent decision-making data points for investors and any other interested stakeholders, such as a government, customers or employees.
+> **[1:02](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-factors-and-metrics?u=76281980&t=62)** Each ESG factor is expected to have one or multiple associated metrics that provide consistent [[Decision-Making]] data points for investors and any other interested stakeholders, such as a government, customers or employees.
 >
 > **[1:17](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-factors-and-metrics?u=76281980&t=77)** The idea behind the metrics is that they are measurable, decision useful and verifiable.
 >
@@ -548,7 +536,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-factors-and-metrics?u=76281980&t=131)** Environmental factors typically include quantifiable metrics compared to the social and governance ones.
 >
-> **[2:17](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-factors-and-metrics?u=76281980&t=137)** For example, energy management disclosures cover metrics related to energy reduction, efficiency, and conservation of all company operations and products with emphasis on renewable energy use.
+> **[2:17](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-factors-and-metrics?u=76281980&t=137)** For example, energy management disclosures cover metrics related to energy reduction, efficiency, and conservation of all company operations and [[Microsoft Products|products]] with emphasis on renewable energy use.
 >
 > **[2:30](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-factors-and-metrics?u=76281980&t=150)** When it comes to social factors, it may be more challenging to identify tangible metrics but there are still numbers that can be used to measure performance.
 >
@@ -556,7 +544,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-factors-and-metrics?u=76281980&t=171)** Here are some of the human capital management metrics.
 >
-> **[2:54](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-factors-and-metrics?u=76281980&t=174)** Percentage of total employees receiving regular performance and career development reviews.
+> **[2:54](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-factors-and-metrics?u=76281980&t=174)** Percentage of total employees receiving regular performance and [[Career Development]] reviews.
 >
 > **[3:00](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-factors-and-metrics?u=76281980&t=180)** Total number and rate of new employee hires and turnover.
 >
@@ -568,7 +556,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (5), business (2), [[Decision-Making]] (2), data (2), [[Climate Change]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (2), [[Climate Change]] (1), [[Stakeholder Engagement]] (1), [[Microsoft Products|Products]] (1), [[Career Development]] (1)
 > **Env Vars:** esg (14)
 > **Analogies:** such as (3), for example (2)
 > **Speakers:** - [instructor] (1)
@@ -578,8 +566,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### ESG reporting
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-reporting?u=76281980)
+#### [ESG reporting](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-reporting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -587,7 +574,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-reporting?u=76281980&t=13)** In traditional financial reporting, public companies report revenues and expenses to inform investor decisions.
 >
-> **[0:21](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-reporting?u=76281980&t=21)** ESG reporting is also increasingly used by investors and include a wide variety of metrics for decision-making in addition to financial disclosures.
+> **[0:21](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-reporting?u=76281980&t=21)** ESG reporting is also increasingly used by investors and include a wide variety of metrics for [[Decision-Making]] in addition to financial disclosures.
 >
 > **[0:31](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-reporting?u=76281980&t=31)** ESG reporting is anything but a PR exercise.
 >
@@ -619,19 +606,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Decision-Making]] (2), data (1), next (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (2)
 > **Env Vars:** esg (12), gri (1), csr (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### ESG reporting types
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-reporting-types?u=76281980)
+#### [ESG reporting types](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-reporting-types?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-reporting-types?u=76281980&t=0)** - [Instructor] ESG reporting options are plenty for companies looking for ways to disclose on their ESG efforts.
 >
-> **[0:05](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-reporting-types?u=76281980&t=5)** Some of these may focus on a specific theme, such as climate change risk, or a set of targeted constituents, such as investors looking for ESG-based financial information.
+> **[0:05](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-reporting-types?u=76281980&t=5)** Some of these may focus on a specific theme, such as [[Climate Change]] risk, or a set of targeted constituents, such as investors looking for ESG-based financial information.
 >
 > **[0:16](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-reporting-types?u=76281980&t=16)** To make it simple, I'll discuss ESG reporting types into two general categories: ESG reporting standards and ESG reporting surveys or questionnaires.
 >
@@ -639,9 +625,9 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-reporting-types?u=76281980&t=35)** ESG reporting standards provide voluntary and standardized consistency to high-quality reporting on ESG issues.
 >
-> **[0:43](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-reporting-types?u=76281980&t=43)** For example, GRI Guidelines are global standards for corporate sustainability reporting based on multiple modules that a company can choose from based on what is material for the organization.
+> **[0:43](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-reporting-types?u=76281980&t=43)** For example, GRI Guidelines are global standards for [[Corporate Sustainability]] reporting based on multiple modules that a company can choose from based on what is material for the organization.
 >
-> **[0:56](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-reporting-types?u=76281980&t=56)** GRI Guidelines are used by thousands of companies around the world when they publish their standalone sustainability or social responsibility reports.
+> **[0:56](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-reporting-types?u=76281980&t=56)** GRI Guidelines are used by thousands of companies around the world when they publish their standalone [[Sustainability]] or social responsibility reports.
 >
 > **[1:05](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-reporting-types?u=76281980&t=65)** The Sustainability Accounting Standards Board, SASB, standards are industry-specific disclosure standards with a purpose to communicate financially material, decision-useful information across environmental, social, and governance topics between companies and investors.
 >
@@ -685,7 +671,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (5), [[Corporate Sustainability]] (2), management (2), [[Climate Change]] (1), next (1)
+> **Frameworks & Libraries:** [[Sustainability]] (5), [[Corporate Sustainability]] (2), [[Climate Change]] (1)
 > **Env Vars:** esg (19), tcfd (4), cdp (3), gri (2), sasb (2)
 > **Analogies:** such as (2), for example (2)
 > **CLI Commands:** make (1)
@@ -693,12 +679,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### ESG ratings
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-ratings?u=76281980)
+#### [ESG ratings](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-ratings?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-ratings?u=76281980&t=0)** - [Speaker] ESG ratings measure a company's ESG commitment, performance and accountability, as well as its exposure to environmental, social, and governance risks.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-ratings?u=76281980&t=0)** - [Speaker] ESG ratings measure a company's ESG commitment, performance and [[Accountability]], as well as its exposure to environmental, social, and governance risks.
 >
 > **[0:10](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-ratings?u=76281980&t=10)** Investors typically use ESG Ratings to gain a broader understanding of a company's performance beyond financial bottom line.
 >
@@ -718,7 +703,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-ratings?u=76281980&t=71)** The primary subscriber for ESG ratings are the investors who are looking for a way to screen and evaluate companies in their various funds and portfolios.
 >
-> **[1:21](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-ratings?u=76281980&t=81)** Investors use these ratings in various ways, including as a supplement of financial analysis for insights into environmental, social, and governance risks not covered in financial reporting, as a screen to identify companies that are good corporate citizens and environmental stewards while excluding low-scoring ones that don't meet investor standards, for monitoring owned companies.
+> **[1:21](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-ratings?u=76281980&t=81)** Investors use these ratings in various ways, including as a supplement of [[Financial Analysis]] for insights into environmental, social, and governance risks not covered in financial reporting, as a screen to identify companies that are good corporate citizens and environmental stewards while excluding low-scoring ones that don't meet investor standards, for monitoring owned companies.
 >
 > **[1:45](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-ratings?u=76281980&t=105)** For example, a low ESG score flags concerns for the investor so that they engage with the company to understand the issues and ask for improvement.
 >
@@ -728,14 +713,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Accountability]] (1), data (1), [[Financial Analysis]] (1)
+> **Frameworks & Libraries:** [[Accountability]] (1), [[Financial Analysis]] (1)
 > **Env Vars:** esg (18), msci (2), ccc (1), aaa (1), ftse (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [speaker] (1)
 
-#### Communicating ESG while avoiding greenwashing
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/communicating-esg-while-avoiding-greenwashing?u=76281980)
+#### [Communicating ESG while avoiding greenwashing](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/communicating-esg-while-avoiding-greenwashing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -771,9 +755,9 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/communicating-esg-while-avoiding-greenwashing?u=76281980&t=149)** Two, public statements should be clear, concise and data driven.
 >
-> **[2:33](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/communicating-esg-while-avoiding-greenwashing?u=76281980&t=153)** This includes websites and standalone sustainably reports, not just financial statements.
+> **[2:33](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/communicating-esg-while-avoiding-greenwashing?u=76281980&t=153)** This includes websites and standalone sustainably reports, not just [[Financial Statements]].
 >
-> **[2:41](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/communicating-esg-while-avoiding-greenwashing?u=76281980&t=161)** Three, coordinate written narrative around ESG efforts across all relevant departments, not just the sustainability department including legal, accounting and communications and marketing.
+> **[2:41](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/communicating-esg-while-avoiding-greenwashing?u=76281980&t=161)** Three, coordinate written narrative around ESG efforts across all relevant departments, not just the [[Sustainability]] department including legal, accounting and communications and marketing.
 >
 > **[2:53](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/communicating-esg-while-avoiding-greenwashing?u=76281980&t=173)** I wanted to cover greenwashing in this introductory course ESG because it's important to pay close attention to your actions and statements to avoid greenwashing on day one.
 >
@@ -781,7 +765,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), data (2), [[Financial Statements]] (1), [[Sustainability]] (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (1), [[Sustainability]] (1)
 > **Env Vars:** esg (7), pwc (1)
 > **Analogies:** for example (2), such as (2)
 > **CLI Commands:** make (2)
@@ -793,8 +777,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### ESG upskilling
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-upskilling?u=76281980)
+#### [ESG upskilling](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-upskilling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -804,7 +787,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-upskilling?u=76281980&t=16)** Strong ESG programs are almost always a result of involving all business units and the workforce in ESG integration with a clear distribution of roles and responsibilities.
 >
-> **[0:26](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-upskilling?u=76281980&t=26)** This approach aligns all employees around the common purpose and goals that goes beyond the sustainability or ESG department carrying the sole responsibility for ESG.
+> **[0:26](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-upskilling?u=76281980&t=26)** This approach aligns all employees around the common purpose and goals that goes beyond the [[Sustainability]] or ESG department carrying the sole responsibility for ESG.
 >
 > **[0:36](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-upskilling?u=76281980&t=36)** Let me give you an example.
 >
@@ -818,21 +801,21 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-upskilling?u=76281980&t=74)** Let's say that a company sets goals around diverse and inclusive workforce that pursues equity among the workforce.
 >
-> **[1:20](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-upskilling?u=76281980&t=80)** The upskilling will then be needed for the managers that are key to providing equitable opportunities to their team members, human resources in implementing just recruitment, career development and retention policies and ESG teams in key performance indicators and reporting.
+> **[1:20](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-upskilling?u=76281980&t=80)** The upskilling will then be needed for the managers that are key to providing equitable opportunities to their team members, [[Human Resources (HR)|human resources]] in implementing just recruitment, [[Career Development]] and retention policies and ESG teams in key performance indicators and reporting.
 >
-> **[1:39](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-upskilling?u=76281980&t=99)** This effort also brings a great opportunity for inclusive leadership and unconscious bias training for all employees.
+> **[1:39](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-upskilling?u=76281980&t=99)** This effort also brings a great opportunity for [[Inclusive Leadership]] and unconscious bias training for all employees.
 >
 > **[1:47](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-upskilling?u=76281980&t=107)** If you are not sure about where to start with your ESG upskilling and educational efforts, here's a list of foundational topics to gain expertise in ESG, regardless of your current discipline.
 >
 > **[1:59](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-upskilling?u=76281980&t=119)** Climate risk and opportunities, ESG reporting frameworks, standards and guidelines.
 >
-> **[2:05](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-upskilling?u=76281980&t=125)** You can start with GRI, CDP and TCFD, carbon, greenhouse gas accounting, UN sustainable development goals(SDGs), ESG or sustainable investing, sustainable finance specifically green, climate and social bonds, low carbon economy, environmental and social aspects of supply chain management, diversity equity and inclusion, human capital management and accounting and transition to net zero.
+> **[2:05](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-upskilling?u=76281980&t=125)** You can start with GRI, CDP and TCFD, carbon, greenhouse gas accounting, UN sustainable development goals(SDGs), ESG or sustainable investing, sustainable finance specifically green, climate and social bonds, low carbon economy, environmental and social aspects of [[Supply Chain Management]], diversity equity and inclusion, human capital management and accounting and transition to net zero.
 >
-> **[2:38](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-upskilling?u=76281980&t=158)** Please also check out my other LinkedIn learning courses on green buildings and sustainability.
+> **[2:38](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-upskilling?u=76281980&t=158)** Please also check out my other [[LinkedIn]] learning courses on green buildings and sustainability.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (2), business (1), [[Human Resources (HR)|Human resources]] (1), [[Career Development]] (1), teams (1)
+> **Frameworks & Libraries:** [[Sustainability]] (2), [[Human Resources (HR)|Human resources]] (1), [[Career Development]] (1), [[Inclusive Leadership]] (1), [[Supply Chain Management]] (1)
 > **Env Vars:** esg (13), gri (1), cdp (1), tcfd (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
@@ -843,8 +826,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/next-steps-23138038?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/next-steps-23138038?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -852,7 +834,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/next-steps-23138038?u=76281980&t=5)** You're equipped to deepen your skills in areas like implementation, reporting, or investing.
 >
-> **[0:11](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/next-steps-23138038?u=76281980&t=11)** To continue building on your expertise, check out my other LinkedIn learning courses, including, "How to Start an ESG Program," "Climate Change: A Top ESG Concern," and, "ESG Disclosures and Compliance."
+> **[0:11](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/next-steps-23138038?u=76281980&t=11)** To continue building on your expertise, check out my other [[LinkedIn]] learning courses, including, "How to Start an ESG Program," "[[Climate Change]]: A Top ESG Concern," and, "ESG Disclosures and Compliance."
 >
 > **[0:26](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/next-steps-23138038?u=76281980&t=26)** For more insights, visit my website at [fulyakocak.com](https://fulyakocak.com) where you can subscribe to my newsletter, "Impact Catalysts," with Fulya Kocak and follow me on LinkedIn.
 >
@@ -862,7 +844,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Climate Change]] (1), game (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Climate Change]] (1)
 > **Env Vars:** esg (5)
 > **URLs:** [fulyakocak.com](https://fulyakocak.com) (1)
 > **Speakers:** - great (1)

@@ -33,7 +33,7 @@ created: 2026-05-02
 ## Courses
 
 1. [[LLMOps in Practice- A Deep Dive]] — 99 mentions
-2. [[RAG for Cybersecurity- Use Cases and Implementation]] — 16 mentions
+2. [[RAG for Cybersecurity- Use Cases and Implementation]] — 17 mentions
 3. [[Complete Guide to Data Lakes and Lakehouses]] — 13 mentions
 4. [[Build AI Agents and Chatbots with LangGraph]] — 5 mentions
 5. [[Cloud NoSQL for SQL Professionals]] — 2 mentions
@@ -45,7 +45,7 @@ created: 2026-05-02
 ## Learning Paths
 
 1. [[Manage Your LLMs with LLMOps]] — 99 total mentions
-2. [[Leverage AI as a Cybersecurity Analyst]] — 16 total mentions
+2. [[Leverage AI as a Cybersecurity Analyst]] — 17 total mentions
 3. [[Introduction to Fundamental Skills for Data Work- Data Storage]] — 14 total mentions
 4. [[Advance Your Data Engineering Skills]] — 13 total mentions
 5. [[Building Agentic AI Systems for Developers]] — 6 total mentions

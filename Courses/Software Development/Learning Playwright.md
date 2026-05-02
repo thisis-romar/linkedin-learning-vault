@@ -86,12 +86,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Unlock the future of test automation with Playwright
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-playwright/unlock-the-future-of-test-automation-with-playwright?u=76281980)
+#### [Unlock the future of test automation with Playwright](https://www.linkedin.com/learning/learning-playwright/unlock-the-future-of-test-automation-with-playwright?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-playwright/unlock-the-future-of-test-automation-with-playwright?u=76281980&t=0)** - [Butch] Have you seen all the buzz using Playwright for test automation and feeling left out?
+> **[0:00](https://www.linkedin.com/learning/learning-playwright/unlock-the-future-of-test-automation-with-playwright?u=76281980&t=0)** - [Butch] Have you seen all the buzz using Playwright for [[Test Automation]] and feeling left out?
 >
 > **[0:06](https://www.linkedin.com/learning/learning-playwright/unlock-the-future-of-test-automation-with-playwright?u=76281980&t=6)** That's probably because Playwright is the test automation tool of the future.
 >
@@ -109,8 +108,7 @@ created: 2026-05-02
 > **URLs:** [playwrightsolutions.com](https://playwrightsolutions.com) (1)
 > **Speakers:** - [butch] (1)
 
-#### What is Playwright, and why choose it?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-playwright/what-is-playwright-why-choose-playwright?u=76281980)
+#### [What is Playwright, and why choose it?](https://www.linkedin.com/learning/learning-playwright/what-is-playwright-why-choose-playwright?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -122,9 +120,9 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/learning-playwright/what-is-playwright-why-choose-playwright?u=76281980&t=8)** Let's first begin by defining Playwright.
 >
-> **[0:12](https://www.linkedin.com/learning/learning-playwright/what-is-playwright-why-choose-playwright?u=76281980&t=12)** Playwright is an open-source tool built by Microsoft that enables reliable end-to-end UI and API automation testing for modern web apps.
+> **[0:12](https://www.linkedin.com/learning/learning-playwright/what-is-playwright-why-choose-playwright?u=76281980&t=12)** Playwright is an open-source tool built by [[Microsoft]] that enables reliable end-to-end UI and API automation testing for modern web apps.
 >
-> **[0:24](https://www.linkedin.com/learning/learning-playwright/what-is-playwright-why-choose-playwright?u=76281980&t=24)** This tool is gaining a lot of traction by providing a ton of value to companies as a leading choice within the test automation tooling.
+> **[0:24](https://www.linkedin.com/learning/learning-playwright/what-is-playwright-why-choose-playwright?u=76281980&t=24)** This tool is gaining a lot of traction by providing a ton of value to companies as a leading choice within the [[Test Automation]] tooling.
 >
 > **[0:33](https://www.linkedin.com/learning/learning-playwright/what-is-playwright-why-choose-playwright?u=76281980&t=33)** Playwright provides access to multiple browsers, which include Chromium, Chrome, Microsoft Edge, Firefox, Webkit, which is what Safari is built from.
 >
@@ -132,15 +130,15 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/learning-playwright/what-is-playwright-why-choose-playwright?u=76281980&t=53)** Let's take a look deeper into what makes Playwright special.
 >
-> **[0:57](https://www.linkedin.com/learning/learning-playwright/what-is-playwright-why-choose-playwright?u=76281980&t=57)** It's highly rated on GitHub, currently over 66,000 stars at the time of this recording.
+> **[0:57](https://www.linkedin.com/learning/learning-playwright/what-is-playwright-why-choose-playwright?u=76281980&t=57)** It's highly rated on [[GitHub]], currently over 66,000 stars at the time of this recording.
 >
 > **[1:05](https://www.linkedin.com/learning/learning-playwright/what-is-playwright-why-choose-playwright?u=76281980&t=65)** They release new features around once a month.
 >
-> **[1:09](https://www.linkedin.com/learning/learning-playwright/what-is-playwright-why-choose-playwright?u=76281980&t=69)** They support TypeScript, JavaScript, Python, .NET and Java officially, but there's also a Ruby and Go Community version.
+> **[1:09](https://www.linkedin.com/learning/learning-playwright/what-is-playwright-why-choose-playwright?u=76281980&t=69)** They support TypeScript, [[JavaScript]], [[Python (Programming Language)|Python]], .NET and [[Java]] officially, but there's also a Ruby and Go Community version.
 >
 > **[1:20](https://www.linkedin.com/learning/learning-playwright/what-is-playwright-why-choose-playwright?u=76281980&t=80)** TypeScript is where we will focus in this course.
 >
-> **[1:24](https://www.linkedin.com/learning/learning-playwright/what-is-playwright-why-choose-playwright?u=76281980&t=84)** Playwright is closer to Selenium WebDriver than Cypress.
+> **[1:24](https://www.linkedin.com/learning/learning-playwright/what-is-playwright-why-choose-playwright?u=76281980&t=84)** Playwright is closer to [[Selenium]] WebDriver than Cypress.
 >
 > **[1:29](https://www.linkedin.com/learning/learning-playwright/what-is-playwright-why-choose-playwright?u=76281980&t=89)** Why?
 >
@@ -198,7 +196,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (2), api (2), [[Automation]] (2), [[JavaScript]] (2), [[Selenium]] (2)
+> **Frameworks & Libraries:** [[Microsoft]] (2), [[JavaScript]] (2), [[Selenium]] (2), [[Test Automation]] (1), [[GitHub]] (1)
 > **Tools:** vs code (2), firefox (1), safari (1), github (1)
 > **Env Vars:** api (2), net (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -207,16 +205,15 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-playwright/using-the-exercise-files?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/learning-playwright/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-playwright/using-the-exercise-files?u=76281980&t=0)** - [Instructor] As a part of this course, we've provided a GitHub repository that you can use during each video.
+> **[0:00](https://www.linkedin.com/learning/learning-playwright/using-the-exercise-files?u=76281980&t=0)** - [Instructor] As a part of this course, we've provided a [[GitHub]] repository that you can use during each video.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-playwright/using-the-exercise-files?u=76281980&t=7)** The main README provides some guidelines on the branch-naming strategies, and provide some useful tips for getting through error messages.
 >
-> **[0:16](https://www.linkedin.com/learning/learning-playwright/using-the-exercise-files?u=76281980&t=16)** As you scroll down, there are also links to install Node, GIT or GitHub Desktop, VS Code, and the VS Code extension.
+> **[0:16](https://www.linkedin.com/learning/learning-playwright/using-the-exercise-files?u=76281980&t=16)** As you scroll down, there are also links to install Node, [[Git]] or GitHub Desktop, VS Code, and the VS Code extension.
 >
 > **[0:26](https://www.linkedin.com/learning/learning-playwright/using-the-exercise-files?u=76281980&t=26)** Within this repo, I've also included a RESOURCES.md.
 >
@@ -228,7 +225,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (4), node (1), [[Git]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (4), [[Git]] (1)
 > **Tools:** github (4), vs code (2)
 > **Env Vars:** readme (1), git (1), resources (1)
 > **CLI Commands:** node (1), git (1)
@@ -242,8 +239,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Installing Playwright
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-playwright/installing-playwright?u=76281980)
+#### [Installing Playwright](https://www.linkedin.com/learning/learning-playwright/installing-playwright?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -251,7 +247,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/learning-playwright/installing-playwright?u=76281980&t=7)** This will include installing Node, installing Playwright through the terminal commands, installing VS Code, and installing the Playwright VS Code extension.
 >
-> **[0:17](https://www.linkedin.com/learning/learning-playwright/installing-playwright?u=76281980&t=17)** If you're on a Mac or Linux machine, you're more than likely already have Node installed.
+> **[0:17](https://www.linkedin.com/learning/learning-playwright/installing-playwright?u=76281980&t=17)** If you're on a Mac or [[Linux]] machine, you're more than likely already have Node installed.
 >
 > **[0:23](https://www.linkedin.com/learning/learning-playwright/installing-playwright?u=76281980&t=23)** If not, you can follow the link and install it how you see fit.
 >
@@ -275,11 +271,11 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/learning-playwright/installing-playwright?u=76281980&t=96)** Once you have this branch checked out, we're going to go ahead and install Playwright at the root of this directory.
 >
-> **[1:42](https://www.linkedin.com/learning/learning-playwright/installing-playwright?u=76281980&t=102)** We're going to do that by using the command npm init playwright@latest.
+> **[1:42](https://www.linkedin.com/learning/learning-playwright/installing-playwright?u=76281980&t=102)** We're going to do that by using the command [[npm]] init playwright@latest.
 >
 > **[1:52](https://www.linkedin.com/learning/learning-playwright/installing-playwright?u=76281980&t=112)** When you hit enter, it's going to walk you through a step of questions.
 >
-> **[1:55](https://www.linkedin.com/learning/learning-playwright/installing-playwright?u=76281980&t=115)** You may have to hit yes to first get things started, but the first question here is, do you want to install TypeScript or JavaScript?
+> **[1:55](https://www.linkedin.com/learning/learning-playwright/installing-playwright?u=76281980&t=115)** You may have to hit yes to first get things started, but the first question here is, do you want to install TypeScript or [[JavaScript]]?
 >
 > **[2:02](https://www.linkedin.com/learning/learning-playwright/installing-playwright?u=76281980&t=122)** We're going to hit enter and choose the default TypeScript.
 >
@@ -287,7 +283,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/learning-playwright/installing-playwright?u=76281980&t=127)** I'm going to hit enter and choose the test folder.
 >
-> **[2:12](https://www.linkedin.com/learning/learning-playwright/installing-playwright?u=76281980&t=132)** Do you want to add a GitHub Actions workflow?
+> **[2:12](https://www.linkedin.com/learning/learning-playwright/installing-playwright?u=76281980&t=132)** Do you want to add a [[GitHub]] Actions workflow?
 >
 > **[2:14](https://www.linkedin.com/learning/learning-playwright/installing-playwright?u=76281980&t=134)** For this, I'm going to leave this as false as well, so I'm going to hit enter.
 >
@@ -337,7 +333,7 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/learning-playwright/installing-playwright?u=76281980&t=245)** I would recommend you go ahead and install those extensions.
 >
-> **[4:08](https://www.linkedin.com/learning/learning-playwright/installing-playwright?u=76281980&t=248)** That should install ESLint, the GitHub Theme, the Playwright Test extension, and the Prettier Code formatter.
+> **[4:08](https://www.linkedin.com/learning/learning-playwright/installing-playwright?u=76281980&t=248)** That should install [[ESLint]], the GitHub Theme, the Playwright Test extension, and the Prettier Code formatter.
 >
 > **[4:16](https://www.linkedin.com/learning/learning-playwright/installing-playwright?u=76281980&t=256)** These extensions will help you as you're building out your Playwright Tests.
 >
@@ -351,7 +347,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (7), node (6), next (2), [[GitHub]] (2), [[Linux]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (2), [[Linux]] (1), [[npm]] (1), [[JavaScript]] (1), [[ESLint]] (1)
 > **CLI Commands:** node (6), npx (2), npm (1), make (1), find (1)
 > **Tools:** vs code (6), terminal (2), github (2)
 > **Prerequisites:** install (10)
@@ -360,8 +356,7 @@ created: 2026-05-02
 > **Definitions:** stands for (1)
 > **Best Practices:** recommended (1)
 
-#### Updating the Playwright config
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-playwright/updating-the-playwright-config?u=76281980)
+#### [Updating the Playwright config](https://www.linkedin.com/learning/learning-playwright/updating-the-playwright-config?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -399,7 +394,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/learning-playwright/updating-the-playwright-config?u=76281980&t=90)** If it's false, it's going to use the second value, zero.
 >
-> **[1:33](https://www.linkedin.com/learning/learning-playwright/updating-the-playwright-config?u=76281980&t=93)** By default, anything run in a CI environment such as GitHub Actions with that environment variable set, we'll have two retry attempts, but anything run on a local machine will have zero retry attempts.
+> **[1:33](https://www.linkedin.com/learning/learning-playwright/updating-the-playwright-config?u=76281980&t=93)** By default, anything run in a CI environment such as [[GitHub]] Actions with that environment variable set, we'll have two retry attempts, but anything run on a local machine will have zero retry attempts.
 >
 > **[1:47](https://www.linkedin.com/learning/learning-playwright/updating-the-playwright-config?u=76281980&t=107)** Let's go ahead and refactor this to have one retry when we're running on our local machine from changing the value from a zero to a one.
 >
@@ -413,7 +408,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/learning-playwright/updating-the-playwright-config?u=76281980&t=140)** A list of different options on this level can be found within the Playwright docs under the testconfig class.
 >
-> **[2:28](https://www.linkedin.com/learning/learning-playwright/updating-the-playwright-config?u=76281980&t=148)** We also have reporters. HTML is by default.
+> **[2:28](https://www.linkedin.com/learning/learning-playwright/updating-the-playwright-config?u=76281980&t=148)** We also have reporters. [[HTML]] is by default.
 >
 > **[2:33](https://www.linkedin.com/learning/learning-playwright/updating-the-playwright-config?u=76281980&t=153)** We're not going to dive into that here, but we will in a later video.
 >
@@ -477,7 +472,7 @@ created: 2026-05-02
 >
 > **[5:55](https://www.linkedin.com/learning/learning-playwright/updating-the-playwright-config?u=76281980&t=355)** I don't want my browser popping up and interrupting my flow when I want to run a test from my command line.
 >
-> **[6:02](https://www.linkedin.com/learning/learning-playwright/updating-the-playwright-config?u=76281980&t=362)** There are ways to enable this through the CLI, which we'll look at a little later, but it's always best to set this as true.
+> **[6:02](https://www.linkedin.com/learning/learning-playwright/updating-the-playwright-config?u=76281980&t=362)** There are ways to enable this through the [[CLI]], which we'll look at a little later, but it's always best to set this as true.
 >
 > **[6:09](https://www.linkedin.com/learning/learning-playwright/updating-the-playwright-config?u=76281980&t=369)** The last thing we're going to look at is this baseURL.
 >
@@ -505,7 +500,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ci (4), parallel (1), [[GitHub]] (1), [[HTML]] (1), hit (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[HTML]] (1), [[CLI]] (1)
 > **Code Identifiers:** defineconfig (3), baseurl (3), globaltimeout (2), fullyparallel (1), actiontimeout (1)
 > **Env Vars:** url (3), html (1), cli (1)
 > **File Paths:** process.env (2), playwright.config.ts (1)
@@ -514,8 +509,7 @@ created: 2026-05-02
 > **Analogies:** such as (2)
 > **URLs:** [https://practicesoftwaretesting.com](https://practicesoftwaretesting.com) (1)
 
-#### Playwright config browsers and projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-playwright/playwright-config-browsers-and-projects?u=76281980)
+#### [Playwright config browsers and projects](https://www.linkedin.com/learning/learning-playwright/playwright-config-browsers-and-projects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -603,7 +597,7 @@ created: 2026-05-02
 >
 > **[4:42](https://www.linkedin.com/learning/learning-playwright/playwright-config-browsers-and-projects?u=76281980&t=282)** That's what that is doing.
 >
-> **[4:44](https://www.linkedin.com/learning/learning-playwright/playwright-config-browsers-and-projects?u=76281980&t=284)** This means that JavaScript or TypeScript files with .test or .spec will get picked up by default.
+> **[4:44](https://www.linkedin.com/learning/learning-playwright/playwright-config-browsers-and-projects?u=76281980&t=284)** This means that [[JavaScript]] or TypeScript files with .test or .spec will get picked up by default.
 >
 > **[4:51](https://www.linkedin.com/learning/learning-playwright/playwright-config-browsers-and-projects?u=76281980&t=291)** This default setting will be applied to the projects unless we overwrite it.
 >
@@ -653,7 +647,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Prerequisites:** setup (8), configure (1), set up (1)
 > **CLI Commands:** make (3), find (2), grep (1)
 > **Documentation:** spec (5), the docs (1)
@@ -662,12 +656,11 @@ created: 2026-05-02
 > **File Paths:** name.spec.ts (2), name.setup.ts (1)
 > **Versions:** 1.46 (2), version 1 (1)
 
-#### Exploring the test runner command line interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-playwright/exploring-the-test-runner-command-line-interface?u=76281980)
+#### [Exploring the test runner command line interface](https://www.linkedin.com/learning/learning-playwright/exploring-the-test-runner-command-line-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-playwright/exploring-the-test-runner-command-line-interface?u=76281980&t=0)** - [Instructor] One of the main ways that Playwright tests are run is through the command line interface, or as I'll refer to it in this video, the CLI.
+> **[0:00](https://www.linkedin.com/learning/learning-playwright/exploring-the-test-runner-command-line-interface?u=76281980&t=0)** - [Instructor] One of the main ways that Playwright tests are run is through the command line interface, or as I'll refer to it in this video, the [[CLI]].
 >
 > **[0:09](https://www.linkedin.com/learning/learning-playwright/exploring-the-test-runner-command-line-interface?u=76281980&t=9)** To run commands within VS Code this way, you can select the Terminal dropdown, and select New Terminal.
 >
@@ -801,7 +794,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (4), [[CLI]] (3), ci (1), cd (1), feature (1)
+> **Frameworks & Libraries:** [[CLI]] (3)
 > **CLI Commands:** npx (4), grep (4), make (3), cd (1)
 > **Tools:** firefox (4), terminal (3), command line (2), vs code (1)
 > **Env Vars:** cli (3)
@@ -810,12 +803,11 @@ created: 2026-05-02
 > **File Paths:** playwright.config (1), example.spec.ts (1)
 > **Non-Speech:** (keys clicking) (2)
 
-#### Overview of package.json
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-playwright/overview-of-package-json?u=76281980)
+#### [Overview of package.json](https://www.linkedin.com/learning/learning-playwright/overview-of-package-json?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-playwright/overview-of-package-json?u=76281980&t=0)** - [Instructor] Now that we have a good understanding of the different ways we can run our Playwright tests from the command line, let's take a look at the package.json file.
+> **[0:00](https://www.linkedin.com/learning/learning-playwright/overview-of-package-json?u=76281980&t=0)** - [Instructor] Now that we have a good understanding of the different ways we can run our Playwright tests from the command line, let's take a look at the package.[[JSON]] file.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-playwright/overview-of-package-json?u=76281980&t=10)** We'll start by, what is it?
 >
@@ -839,13 +831,13 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/learning-playwright/overview-of-package-json?u=76281980&t=55)** So what are some of the features?
 >
-> **[0:56](https://www.linkedin.com/learning/learning-playwright/overview-of-package-json?u=76281980&t=56)** You know, all the NPM commands that you've run from the command line, those are commands that use the NPM CLI command line interface.
+> **[0:56](https://www.linkedin.com/learning/learning-playwright/overview-of-package-json?u=76281980&t=56)** You know, all the [[npm]] commands that you've run from the command line, those are commands that use the NPM [[CLI]] command line interface.
 >
 > **[1:07](https://www.linkedin.com/learning/learning-playwright/overview-of-package-json?u=76281980&t=67)** npm install, for example, is one of the most common commands.
 >
 > **[1:11](https://www.linkedin.com/learning/learning-playwright/overview-of-package-json?u=76281980&t=71)** What that does is it creates and updates this package-lock.json file, and it installs all the different libraries in this node_modules folder.
 >
-> **[1:24](https://www.linkedin.com/learning/learning-playwright/overview-of-package-json?u=76281980&t=84)** For this course and test automation projects in general, there are only two areas in the package.json that matter most.
+> **[1:24](https://www.linkedin.com/learning/learning-playwright/overview-of-package-json?u=76281980&t=84)** For this course and [[Test Automation]] projects in general, there are only two areas in the package.json that matter most.
 >
 > **[1:31](https://www.linkedin.com/learning/learning-playwright/overview-of-package-json?u=76281980&t=91)** This dependencies, this is where new packages will get installed and you can manage the version of these packages.
 >
@@ -919,7 +911,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (6), [[npm]] (6), node (1), [[CLI]] (1), [[Test Automation]] (1)
+> **Frameworks & Libraries:** [[JSON]] (6), [[npm]] (6), [[CLI]] (1), [[Test Automation]] (1)
 > **CLI Commands:** npm (6), npx (5), node (1), grep (1)
 > **Env Vars:** base_url (3), npm (2), json (1), cli (1), npx (1)
 > **File Paths:** package.json (4), package-lock.json (1)
@@ -928,14 +920,13 @@ created: 2026-05-02
 > **Prerequisites:** install (3), initialization (1)
 > **Definitions:** is a  (3)
 
-#### Exploring the VS Code extension
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-playwright/exploring-the-vs-code-extension?u=76281980)
+#### [Exploring the VS Code extension](https://www.linkedin.com/learning/learning-playwright/exploring-the-vs-code-extension?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-playwright/exploring-the-vs-code-extension?u=76281980&t=0)** - [Instructor] Another tool you'll find useful while in your Playwright journey is the Playwright Test VS code extension.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-playwright/exploring-the-vs-code-extension?u=76281980&t=7)** This can be installed via the URL and the resources handout, or in the extensions tab, you can type in Playwright test and look for the extension that's released by Microsoft.
+> **[0:07](https://www.linkedin.com/learning/learning-playwright/exploring-the-vs-code-extension?u=76281980&t=7)** This can be installed via the URL and the resources handout, or in the extensions tab, you can type in Playwright test and look for the extension that's released by [[Microsoft]].
 >
 > **[0:19](https://www.linkedin.com/learning/learning-playwright/exploring-the-vs-code-extension?u=76281980&t=19)** Once this is installed, which you may have to reboot your VS code, you'll have access to this test speaker.
 >
@@ -1115,7 +1106,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Debugging]] (3), next (3), web (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1)
 > **Documentation:** spec (4)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** click on (3)
@@ -1124,14 +1115,13 @@ created: 2026-05-02
 > **Tools:** vs code (2)
 > **Prerequisites:** set up (2)
 
-#### Exploring the Playwright UI Mode
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-playwright/exploring-playwright-ui-mode?u=76281980)
+#### [Exploring the Playwright UI Mode](https://www.linkedin.com/learning/learning-playwright/exploring-playwright-ui-mode?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-playwright/exploring-playwright-ui-mode?u=76281980&t=0)** - [Instructor] For those times when you want to create and update Playwright test on your local machine and get immediate feedback anytime a test is changed, Playwright UI mode is the tool to do it.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-playwright/exploring-playwright-ui-mode?u=76281980&t=11)** To start playwright UI mode, we can use the MPM run script that we created from the previous videos, "npm run rest:ui".
+> **[0:11](https://www.linkedin.com/learning/learning-playwright/exploring-playwright-ui-mode?u=76281980&t=11)** To start playwright UI mode, we can use the MPM run script that we created from the previous videos, "[[npm]] run [[Representational State Transfer (REST)|rest]]:ui".
 >
 > **[0:22](https://www.linkedin.com/learning/learning-playwright/exploring-playwright-ui-mode?u=76281980&t=22)** This is going to run the NPX Playwright test UI command, and you can see it is loaded.
 >
@@ -1227,7 +1217,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[npm]] (1), [[Representational State Transfer (REST)|Rest]] (1), dom (1), web (1), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[npm]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** npm (1), npx (1), find (1)
 > **UI Navigation:** click on (2), in the sidebar (1)
 > **Env Vars:** mpm (1), npx (1)
@@ -1241,14 +1231,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of the website under test
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-playwright/overview-of-the-website-under-test?u=76281980)
+#### [Overview of the website under test](https://www.linkedin.com/learning/learning-playwright/overview-of-the-website-under-test?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-playwright/overview-of-the-website-under-test?u=76281980&t=0)** - [Instructor] From here on out, we'll be using a dedicated site to test against, [practicesoftwaretesting.com](https://practicesoftwaretesting.com).
 >
-> **[0:08](https://www.linkedin.com/learning/learning-playwright/overview-of-the-website-under-test?u=76281980&t=8)** This is a site built by Roy de Kleijn and is useful for practicing software testing, hence the name.
+> **[0:08](https://www.linkedin.com/learning/learning-playwright/overview-of-the-website-under-test?u=76281980&t=8)** This is a site built by Roy de Kleijn and is useful for practicing [[Software Testing]], hence the name.
 >
 > **[0:15](https://www.linkedin.com/learning/learning-playwright/overview-of-the-website-under-test?u=76281980&t=15)** It's always a good idea to take some time and explore the website you plan to automate, so let's do that now.
 >
@@ -1256,7 +1245,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/learning-playwright/overview-of-the-website-under-test?u=76281980&t=23)** The first thing I notice when I visit the site is there's a lot of images that are tools.
 >
-> **[0:28](https://www.linkedin.com/learning/learning-playwright/overview-of-the-website-under-test?u=76281980&t=28)** It almost looks like it's a shop, maybe an e-commerce store.
+> **[0:28](https://www.linkedin.com/learning/learning-playwright/overview-of-the-website-under-test?u=76281980&t=28)** It almost looks like it's a shop, maybe an [[E-Commerce]] store.
 >
 > **[0:32](https://www.linkedin.com/learning/learning-playwright/overview-of-the-website-under-test?u=76281980&t=32)** On the left hand side, I do notice there's a lot of different ways to filter things.
 >
@@ -1278,7 +1267,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/learning-playwright/overview-of-the-website-under-test?u=76281980&t=71)** Let's take a look a little deeper and see on the network tab.
 >
-> **[1:17](https://www.linkedin.com/learning/learning-playwright/overview-of-the-website-under-test?u=76281980&t=77)** So I right clicked, I clicked inspect, I opened up the network tab and I clicked this fetch XHR.
+> **[1:17](https://www.linkedin.com/learning/learning-playwright/overview-of-the-website-under-test?u=76281980&t=77)** So I right clicked, I clicked inspect, I opened up the network tab and I clicked this [[Fetch]] XHR.
 >
 > **[1:27](https://www.linkedin.com/learning/learning-playwright/overview-of-the-website-under-test?u=76281980&t=87)** This filters down any request only to API calls.
 >
@@ -1286,7 +1275,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/learning-playwright/overview-of-the-website-under-test?u=76281980&t=96)** I see there's a new call down here and I see it's actually hitting an API.
 >
-> **[1:40](https://www.linkedin.com/learning/learning-playwright/overview-of-the-website-under-test?u=76281980&t=100)** So api.[practicesoftwaretesting.com/products](https://practicesoftwaretesting.com/products) and then that has some query parameters with a price and some other stuff.
+> **[1:40](https://www.linkedin.com/learning/learning-playwright/overview-of-the-website-under-test?u=76281980&t=100)** So api.[practicesoftwaretesting.com/[[Microsoft Products|products]]](https://practicesoftwaretesting.com/products) and then that has some query parameters with a price and some other stuff.
 >
 > **[1:50](https://www.linkedin.com/learning/learning-playwright/overview-of-the-website-under-test?u=76281980&t=110)** And I can actually see the data that's actually returned matches up with what's on the screen.
 >
@@ -1306,13 +1295,13 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/learning-playwright/overview-of-the-website-under-test?u=76281980&t=142)** And we need a login.
 >
-> **[2:25](https://www.linkedin.com/learning/learning-playwright/overview-of-the-website-under-test?u=76281980&t=145)** Good thing Mr. Roy has built a nice little GitHub repo page, which actually has some provided logins.
+> **[2:25](https://www.linkedin.com/learning/learning-playwright/overview-of-the-website-under-test?u=76281980&t=145)** Good thing Mr. Roy has built a nice little [[GitHub]] repo page, which actually has some provided logins.
 >
 > **[2:33](https://www.linkedin.com/learning/learning-playwright/overview-of-the-website-under-test?u=76281980&t=153)** So this is another companion that's in your resource page to go check out the GitHub repo that this site lives in.
 >
 > **[2:42](https://www.linkedin.com/learning/learning-playwright/overview-of-the-website-under-test?u=76281980&t=162)** If I scroll down, I can see we've got some default accounts.
 >
-> **[2:45](https://www.linkedin.com/learning/learning-playwright/overview-of-the-website-under-test?u=76281980&t=165)** We've got John Doe, Jane Doe with an email address and a password.
+> **[2:45](https://www.linkedin.com/learning/learning-playwright/overview-of-the-website-under-test?u=76281980&t=165)** We've got [[John the Ripper|John]] Doe, Jane Doe with an email address and a password.
 >
 > **[2:49](https://www.linkedin.com/learning/learning-playwright/overview-of-the-website-under-test?u=76281980&t=169)** This is going to be helpful for testing different scenarios.
 >
@@ -1376,7 +1365,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (3), data (2), [[GitHub]] (2), [[Software Testing]] (1), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (2), [[Software Testing]] (1), [[E-Commerce]] (1), [[Fetch]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** url (3), api (2), xhr (1)
 > **URLs:** [practicesoftwaretesting.com](https://practicesoftwaretesting.com) (3)
 > **Tools:** github (2)
@@ -1385,8 +1374,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Cross-References:** next video (1)
 
-#### Generating tests with codegen
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-playwright/generating-tests-with-codegen?u=76281980)
+#### [Generating tests with codegen](https://www.linkedin.com/learning/learning-playwright/generating-tests-with-codegen?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1400,7 +1388,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/learning-playwright/generating-tests-with-codegen?u=76281980&t=25)** So let's go ahead and run that.
 >
-> **[0:27](https://www.linkedin.com/learning/learning-playwright/generating-tests-with-codegen?u=76281980&t=27)** (keyboard clacking) Upon hitting enter, you'll notice two windows pop up.
+> **[0:27](https://www.linkedin.com/learning/learning-playwright/generating-tests-with-codegen?u=76281980&t=27)** (keyboard clacking) Upon hitting enter, you'll notice two [[Windows]] pop up.
 >
 > **[0:33](https://www.linkedin.com/learning/learning-playwright/generating-tests-with-codegen?u=76281980&t=33)** You've got the Playwright inspector.
 >
@@ -1516,7 +1504,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (2), next (2), hit (1), data (1)
+> **Frameworks & Libraries:** [[Windows]] (2)
 > **CLI Commands:** make (3), find (2)
 > **URLs:** [practicesoftwaretesting.com](https://practicesoftwaretesting.com) (2)
 > **Env Vars:** mpx (1), url (1)
@@ -1525,18 +1513,17 @@ created: 2026-05-02
 > **Documentation:** spec (1)
 > **Tools:** terminal (1)
 
-#### Overview of locator strategies in Playwright
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-playwright/overview-of-locator-strategies-in-playwright?u=76281980)
+#### [Overview of locator strategies in Playwright](https://www.linkedin.com/learning/learning-playwright/overview-of-locator-strategies-in-playwright?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-playwright/overview-of-locator-strategies-in-playwright?u=76281980&t=0)** - [Instructor] Much like other test-automation tools, Playwright is able to interact with the DOM, which stands for Document Object Model.
+> **[0:00](https://www.linkedin.com/learning/learning-playwright/overview-of-locator-strategies-in-playwright?u=76281980&t=0)** - [Instructor] Much like other test-automation tools, Playwright is able to interact with the DOM, which stands for [[Document Object Model (DOM)|Document Object Model]].
 >
-> **[0:09](https://www.linkedin.com/learning/learning-playwright/overview-of-locator-strategies-in-playwright?u=76281980&t=9)** In many cases today, the DOM will look different than the original HTML as the DOM includes any JavaScript modifications.
+> **[0:09](https://www.linkedin.com/learning/learning-playwright/overview-of-locator-strategies-in-playwright?u=76281980&t=9)** In many cases today, the DOM will look different than the original [[HTML]] as the DOM includes any [[JavaScript]] modifications.
 >
 > **[0:18](https://www.linkedin.com/learning/learning-playwright/overview-of-locator-strategies-in-playwright?u=76281980&t=18)** The DOM is what is viewable when you use Chrome DevTools and look in the elements tab.
 >
-> **[0:24](https://www.linkedin.com/learning/learning-playwright/overview-of-locator-strategies-in-playwright?u=76281980&t=24)** Playwright interacts with a DOM using two types of locators, the recommended built-in locators and the legacy locators, which include things like CSS selectors and XPATH, that you may be familiar with if you've done test automation before.
+> **[0:24](https://www.linkedin.com/learning/learning-playwright/overview-of-locator-strategies-in-playwright?u=76281980&t=24)** Playwright interacts with a DOM using two types of locators, the recommended built-in locators and the legacy locators, which include things like CSS selectors and XPATH, that you may be familiar with if you've done [[Test Automation]] before.
 >
 > **[0:39](https://www.linkedin.com/learning/learning-playwright/overview-of-locator-strategies-in-playwright?u=76281980&t=39)** We will dive into different types of locators, along with some examples in this video.
 >
@@ -1586,7 +1573,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/learning-playwright/overview-of-locator-strategies-in-playwright?u=76281980&t=188)** (keyboard keys clicking) We're going to set it to string data-test.
 >
-> **[3:16](https://www.linkedin.com/learning/learning-playwright/overview-of-locator-strategies-in-playwright?u=76281980&t=196)** We'll have to add a comma here because this is a JSON file.
+> **[3:16](https://www.linkedin.com/learning/learning-playwright/overview-of-locator-strategies-in-playwright?u=76281980&t=196)** We'll have to add a comma here because this is a [[JSON]] file.
 >
 > **[3:22](https://www.linkedin.com/learning/learning-playwright/overview-of-locator-strategies-in-playwright?u=76281980&t=202)** With that change in place against our test site, we can see the code getByTestId nav-sign-in.click.
 >
@@ -1628,7 +1615,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dom (9), css (4), data (3), [[JavaScript]] (2), next (2)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Document Object Model (DOM)|Document object model]] (1), [[HTML]] (1), [[Test Automation]] (1), [[JSON]] (1)
 > **Env Vars:** dom (9), css (4), html (1), xpath (1), json (1)
 > **Code Identifiers:** getbyrole (1), getbylabel (1), testidattribute (1), getbytestid (1)
 > **Definitions:** is a  (3), stands for (1)
@@ -1637,12 +1624,11 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Overview of assertions in Playwright
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-playwright/overview-of-assertions-in-playwright?u=76281980)
+#### [Overview of assertions in Playwright](https://www.linkedin.com/learning/learning-playwright/overview-of-assertions-in-playwright?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-playwright/overview-of-assertions-in-playwright?u=76281980&t=0)** - [Presenter] Assertions are an essential part of building out your test automation framework.
+> **[0:00](https://www.linkedin.com/learning/learning-playwright/overview-of-assertions-in-playwright?u=76281980&t=0)** - [Presenter] Assertions are an essential part of building out your [[Test Automation]] framework.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-playwright/overview-of-assertions-in-playwright?u=76281980&t=5)** Without an assertion to validate what you're expecting, are you really even testing?
 >
@@ -1764,7 +1750,7 @@ created: 2026-05-02
 >
 > **[7:05](https://www.linkedin.com/learning/learning-playwright/overview-of-assertions-in-playwright?u=76281980&t=425)** Let's go ahead and check the title of the page.
 >
-> **[7:08](https://www.linkedin.com/learning/learning-playwright/overview-of-assertions-in-playwright?u=76281980&t=428)** What this is going to look like is this is going to be an await, we're going to do an expect, and we're going to pass in page and we're going to expect the page or the browser context that Playwright knows about toHaveTitle, and it's actually going to be Practice Software Testing - Tool Shop - v.0 It's going to be this right here.
+> **[7:08](https://www.linkedin.com/learning/learning-playwright/overview-of-assertions-in-playwright?u=76281980&t=428)** What this is going to look like is this is going to be an await, we're going to do an expect, and we're going to pass in page and we're going to expect the page or the browser context that Playwright knows about toHaveTitle, and it's actually going to be Practice [[Software Testing]] - Tool Shop - v.0 It's going to be this right here.
 >
 > **[7:34](https://www.linkedin.com/learning/learning-playwright/overview-of-assertions-in-playwright?u=76281980&t=454)** So this information can be gettable.
 >
@@ -1854,7 +1840,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), dom (2), [[Search]] (2), [[Software Testing]] (2), next (2)
+> **Frameworks & Libraries:** [[Software Testing]] (2), [[Test Automation]] (1)
 > **Code Identifiers:** productgrid (7), tohaveurl (1), getbytestid (1), tohavetext (1), tohavetitle (1)
 > **CLI Commands:** make (10), find (2)
 > **Env Vars:** url (4), dom (2)
@@ -1863,8 +1849,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (2), in the next (1)
 > **Documentation:** the docs (1), spec (1)
 
-#### Structuring Playwright tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-playwright/structuring-playwright-tests?u=76281980)
+#### [Structuring Playwright tests](https://www.linkedin.com/learning/learning-playwright/structuring-playwright-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2066,15 +2051,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (10), hit (5), product (3), next (2), data (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** picture (2), for example (1), think of it like (1)
 > **Definitions:** is a  (2), stands for (1)
 > **Env Vars:** dry (2)
 > **Speakers:** - [instructor] (1)
 
-#### Handling cookie authentication in Playwright
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-playwright/handling-cookie-authentication-in-playwright?u=76281980)
+#### [Handling cookie authentication in Playwright](https://www.linkedin.com/learning/learning-playwright/handling-cookie-authentication-in-playwright?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2130,7 +2113,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/learning-playwright/handling-cookie-authentication-in-playwright?u=76281980&t=162)** In this scenario, I'm going to create a new folder, a .auth folder.
 >
-> **[2:47](https://www.linkedin.com/learning/learning-playwright/handling-cookie-authentication-in-playwright?u=76281980&t=167)** Within that folder we're going to create a customer01.json file that will be saved, and this is where the credentials or the cookies will be saved for customer 01.
+> **[2:47](https://www.linkedin.com/learning/learning-playwright/handling-cookie-authentication-in-playwright?u=76281980&t=167)** Within that folder we're going to create a customer01.[[JSON]] file that will be saved, and this is where the credentials or the cookies will be saved for customer 01.
 >
 > **[3:01](https://www.linkedin.com/learning/learning-playwright/handling-cookie-authentication-in-playwright?u=76281980&t=181)** Let's go ahead and write the code to go log in to the site.
 >
@@ -2234,7 +2217,7 @@ created: 2026-05-02
 >
 > **[6:54](https://www.linkedin.com/learning/learning-playwright/handling-cookie-authentication-in-playwright?u=76281980&t=414)** Let's go ahead and add .auth/, here.
 >
-> **[6:59](https://www.linkedin.com/learning/learning-playwright/handling-cookie-authentication-in-playwright?u=76281980&t=419)** so this doesn't get picked up and sent to GitHub or any of your repositories.
+> **[6:59](https://www.linkedin.com/learning/learning-playwright/handling-cookie-authentication-in-playwright?u=76281980&t=419)** so this doesn't get picked up and sent to [[GitHub]] or any of your repositories.
 >
 > **[7:04](https://www.linkedin.com/learning/learning-playwright/handling-cookie-authentication-in-playwright?u=76281980&t=424)** 'Cause this is going to get updated and changed every single test run.
 >
@@ -2244,7 +2227,7 @@ created: 2026-05-02
 >
 > **[7:20](https://www.linkedin.com/learning/learning-playwright/handling-cookie-authentication-in-playwright?u=76281980&t=440)** And the Chromium project has a dependency on setup.
 >
-> **[7:24](https://www.linkedin.com/learning/learning-playwright/handling-cookie-authentication-in-playwright?u=76281980&t=444)** Anytime we run new test, you'll notice that the setup project is going to run first and then the rest of the test will follow.
+> **[7:24](https://www.linkedin.com/learning/learning-playwright/handling-cookie-authentication-in-playwright?u=76281980&t=444)** Anytime we run new test, you'll notice that the setup project is going to run first and then the [[Representational State Transfer (REST)|rest]] of the test will follow.
 >
 > **[7:36](https://www.linkedin.com/learning/learning-playwright/handling-cookie-authentication-in-playwright?u=76281980&t=456)** Now, we've been able to save browser context, but how do we use that in a test?
 >
@@ -2346,7 +2329,7 @@ created: 2026-05-02
 >
 > **[11:29](https://www.linkedin.com/learning/learning-playwright/handling-cookie-authentication-in-playwright?u=76281980&t=689)** Now, if we wanted to run all these together, one way to do that would be npx playwright test.
 >
-> **[11:37](https://www.linkedin.com/learning/learning-playwright/handling-cookie-authentication-in-playwright?u=76281980&t=697)** And if you remember back to our CLI command, we can just pass in home.spec.
+> **[11:37](https://www.linkedin.com/learning/learning-playwright/handling-cookie-authentication-in-playwright?u=76281980&t=697)** And if you remember back to our [[CLI]] command, we can just pass in home.spec.
 >
 > **[11:42](https://www.linkedin.com/learning/learning-playwright/handling-cookie-authentication-in-playwright?u=76281980&t=702)** And this is going to run all the tests together in the same file.
 >
@@ -2358,7 +2341,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (2), data (1), [[GitHub]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[CLI]] (1)
+> **Frameworks & Libraries:** [[JSON]] (2), [[GitHub]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[CLI]] (1)
 > **Prerequisites:** setup (16)
 > **Code Identifiers:** getbytestid (5), customer01authfile (2), storagestate (2), beforeeach (2), tobebisible (1)
 > **CLI Commands:** make (2), find (1), npx (1)
@@ -2367,8 +2350,7 @@ created: 2026-05-02
 > **File Paths:** auth.setup.ts (1), customer01.json (1), auth/customer01.json (1)
 > **URLs:** [practicesoftwaretesting.com](https://practicesoftwaretesting.com) (2)
 
-#### Visual testing in Playwright
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-playwright/visual-testing-in-playwright?u=76281980)
+#### [Visual testing in Playwright](https://www.linkedin.com/learning/learning-playwright/visual-testing-in-playwright?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2504,7 +2486,7 @@ created: 2026-05-02
 >
 > **[8:09](https://www.linkedin.com/learning/learning-playwright/visual-testing-in-playwright?u=76281980&t=489)** So let's go find what the locator is in this thing.
 >
-> **[8:13](https://www.linkedin.com/learning/learning-playwright/visual-testing-in-playwright?u=76281980&t=493)** So it looks like there is a title of practice software testing -tool shop.
+> **[8:13](https://www.linkedin.com/learning/learning-playwright/visual-testing-in-playwright?u=76281980&t=493)** So it looks like there is a title of practice [[Software Testing]] -tool shop.
 >
 > **[8:20](https://www.linkedin.com/learning/learning-playwright/visual-testing-in-playwright?u=76281980&t=500)** So if you all can see that this title is what I want to work off of.
 >
@@ -2560,7 +2542,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ci (2), web (1), application (1), [[Software Testing]] (1), next (1)
+> **Frameworks & Libraries:** [[Software Testing]] (1)
 > **CLI Commands:** npx (3), find (3), docker (1)
 > **Code Identifiers:** tohavescreenshot (3), getbytitle (1), waitforloadstate (1)
 > **Documentation:** spec (5)
@@ -2569,8 +2551,7 @@ created: 2026-05-02
 > **Warnings:** note that (2), caveat (1)
 > **Tools:** command line (2)
 
-#### API testing in Playwright
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-playwright/api-testing-in-playwright?u=76281980)
+#### [API testing in Playwright](https://www.linkedin.com/learning/learning-playwright/api-testing-in-playwright?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2594,7 +2575,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/learning-playwright/api-testing-in-playwright?u=76281980&t=69)** This looks familiar.
 >
-> **[1:10](https://www.linkedin.com/learning/learning-playwright/api-testing-in-playwright?u=76281980&t=70)** Now we're going to go ahead and create a test block, and we're going to make a test to get the products endpoint.
+> **[1:10](https://www.linkedin.com/learning/learning-playwright/api-testing-in-playwright?u=76281980&t=70)** Now we're going to go ahead and create a test block, and we're going to make a test to get the [[Microsoft Products|products]] endpoint.
 >
 > **[1:20](https://www.linkedin.com/learning/learning-playwright/api-testing-in-playwright?u=76281980&t=80)** It's going to be async.
 >
@@ -2614,7 +2595,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/learning-playwright/api-testing-in-playwright?u=76281980&t=115)** I've moved to the Network tab, and I've gone ahead and cleared any previous network requests.
 >
-> **[2:01](https://www.linkedin.com/learning/learning-playwright/api-testing-in-playwright?u=76281980&t=121)** And I'm just going to refresh this homepage, and with our request filter down to XHR or Fetch/XHR, there's only a few requests in here, and I'm going to be looking for products.
+> **[2:01](https://www.linkedin.com/learning/learning-playwright/api-testing-in-playwright?u=76281980&t=121)** And I'm just going to refresh this homepage, and with our request filter down to XHR or [[Fetch]]/XHR, there's only a few requests in here, and I'm going to be looking for products.
 >
 > **[2:18](https://www.linkedin.com/learning/learning-playwright/api-testing-in-playwright?u=76281980&t=138)** So this is an API call made to api.[practicesoftwaretesting.com/products](https://practicesoftwaretesting.com/products).
 >
@@ -2640,7 +2621,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/learning-playwright/api-testing-in-playwright?u=76281980&t=195)** The Preview lets you kind of click through and you get to open up the things you want to look at.
 >
-> **[3:21](https://www.linkedin.com/learning/learning-playwright/api-testing-in-playwright?u=76281980&t=201)** Whereas Response is just a big giant JSON object.
+> **[3:21](https://www.linkedin.com/learning/learning-playwright/api-testing-in-playwright?u=76281980&t=201)** Whereas Response is just a big giant [[JSON]] object.
 >
 > **[3:25](https://www.linkedin.com/learning/learning-playwright/api-testing-in-playwright?u=76281980&t=205)** So let's go ahead and codify this example and make a GET request to this URL.
 >
@@ -2880,7 +2861,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (17), data (8), [[JSON]] (5), [[Microsoft Products|Products]] (4), [[Fetch]] (2)
+> **Frameworks & Libraries:** [[JSON]] (5), [[Microsoft Products|Products]] (4), [[Fetch]] (2)
 > **Env Vars:** api (12), url (8), post (6), xhr (3), json (3)
 > **CLI Commands:** make (16)
 > **Code Identifiers:** apiurl (3), tobe (2), access_token (2), expires_in (1), token_type (1)
@@ -2890,8 +2871,7 @@ created: 2026-05-02
 > **URLs:** [practicesoftwaretesting.com](https://practicesoftwaretesting.com) (5)
 > **File Paths:** response.json (2), api.spec.ts (1)
 
-#### Automating the right things with Playwright
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-playwright/automating-the-right-things-with-playwright?u=76281980)
+#### [Automating the right things with Playwright](https://www.linkedin.com/learning/learning-playwright/automating-the-right-things-with-playwright?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2903,7 +2883,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/learning-playwright/automating-the-right-things-with-playwright?u=76281980&t=15)** When I say all the right things, I mean to utilize Playwright for its strengths and utilize other tooling for their strengths.
 >
-> **[0:24](https://www.linkedin.com/learning/learning-playwright/automating-the-right-things-with-playwright?u=76281980&t=24)** Let's take a look at some of the different types of test automation that can be done.
+> **[0:24](https://www.linkedin.com/learning/learning-playwright/automating-the-right-things-with-playwright?u=76281980&t=24)** Let's take a look at some of the different types of [[Test Automation]] that can be done.
 >
 > **[0:28](https://www.linkedin.com/learning/learning-playwright/automating-the-right-things-with-playwright?u=76281980&t=28)** You've got unit or component tests, you've got API regression tests, you've got UI regression tests, smoke tests, performance tests, and security tests.
 >
@@ -2917,7 +2897,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/learning-playwright/automating-the-right-things-with-playwright?u=76281980&t=70)** From the highest level, you're interacting with the UI, entering the username and password.
 >
-> **[1:16](https://www.linkedin.com/learning/learning-playwright/automating-the-right-things-with-playwright?u=76281980&t=76)** JavaScript on the page fires when you click submit.
+> **[1:16](https://www.linkedin.com/learning/learning-playwright/automating-the-right-things-with-playwright?u=76281980&t=76)** [[JavaScript]] on the page fires when you click submit.
 >
 > **[1:20](https://www.linkedin.com/learning/learning-playwright/automating-the-right-things-with-playwright?u=76281980&t=80)** This will send an API request to the API server, potentially with a CSFR token.
 >
@@ -2935,23 +2915,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (7), database (4), strengths (2), [[Security]] (2), [[JavaScript]] (2)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Test Automation]] (1)
 > **Env Vars:** api (7), csfr (2), dom (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Create three automated tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-playwright/challenge-create-3-automated-tests?u=76281980)
+#### [Challenge: Create three automated tests](https://www.linkedin.com/learning/learning-playwright/challenge-create-3-automated-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/learning-playwright/challenge-create-3-automated-tests?u=76281980&t=5)** - [Instructor] Now that we've covered a lot of the basics with Playwright test automation, now it's your turn to write some code.
+> **[0:05](https://www.linkedin.com/learning/learning-playwright/challenge-create-3-automated-tests?u=76281980&t=5)** - [Instructor] Now that we've covered a lot of the basics with Playwright [[Test Automation]], now it's your turn to write some code.
 >
 > **[0:12](https://www.linkedin.com/learning/learning-playwright/challenge-create-3-automated-tests?u=76281980&t=12)** For this challenge, I want you to create an automated test that adds an item to the shopping cart, goes through the checkout process, and when paying, selects buy now, pay later.
 >
 > **[0:25](https://www.linkedin.com/learning/learning-playwright/challenge-create-3-automated-tests?u=76281980&t=25)** I also want you to create a visual test to the checkout flow to validate the final payment screen.
 >
-> **[0:32](https://www.linkedin.com/learning/learning-playwright/challenge-create-3-automated-tests?u=76281980&t=32)** And lastly, create an API test against the endpoint slash products slash unique ID, ensuring the correct product details are returned in the API response.
+> **[0:32](https://www.linkedin.com/learning/learning-playwright/challenge-create-3-automated-tests?u=76281980&t=32)** And lastly, create an API test against the endpoint slash [[Microsoft Products|products]] slash unique ID, ensuring the correct product details are returned in the API response.
 >
 > **[0:45](https://www.linkedin.com/learning/learning-playwright/challenge-create-3-automated-tests?u=76281980&t=45)** I'll leave you with a few hints to help you get started.
 >
@@ -2969,7 +2948,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), product (3), [[Test Automation]] (1), [[Microsoft Products|Products]] (1), database (1)
+> **Frameworks & Libraries:** [[Test Automation]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** api (4)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** in the next (1)
@@ -2977,8 +2956,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Create three automated tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-playwright/solution-create-3-automated-tests?u=76281980)
+#### [Solution: Create three automated tests](https://www.linkedin.com/learning/learning-playwright/solution-create-3-automated-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3012,7 +2990,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/learning-playwright/solution-create-3-automated-tests?u=76281980&t=81)** I'm adding it to cart by clicking it, and then I go ahead and make an assertion to validate that the cart quantity is 1.
 >
-> **[1:31](https://www.linkedin.com/learning/learning-playwright/solution-create-3-automated-tests?u=76281980&t=91)** So I'm going to go ahead and run this, debug this, so we can see it, and we'll walk through the rest of it in debug mode.
+> **[1:31](https://www.linkedin.com/learning/learning-playwright/solution-create-3-automated-tests?u=76281980&t=91)** So I'm going to go ahead and run this, debug this, so we can see it, and we'll walk through the [[Representational State Transfer (REST)|rest]] of it in debug mode.
 >
 > **[1:41](https://www.linkedin.com/learning/learning-playwright/solution-create-3-automated-tests?u=76281980&t=101)** So there's my setup file.
 >
@@ -3128,7 +3106,7 @@ created: 2026-05-02
 >
 > **[7:28](https://www.linkedin.com/learning/learning-playwright/solution-create-3-automated-tests?u=76281980&t=448)** And I wanted to get this ID and go directly so that there's another API request that happens when you click specifically on an item.
 >
-> **[7:39](https://www.linkedin.com/learning/learning-playwright/solution-create-3-automated-tests?u=76281980&t=459)** It makes this request, which is APIpracticesoftwaretesting/products/id.
+> **[7:39](https://www.linkedin.com/learning/learning-playwright/solution-create-3-automated-tests?u=76281980&t=459)** It makes this request, which is APIpracticesoftwaretesting/[[Microsoft Products|products]]/id.
 >
 > **[7:47](https://www.linkedin.com/learning/learning-playwright/solution-create-3-automated-tests?u=76281980&t=467)** So I'm going to make two API calls in my test.
 >
@@ -3184,7 +3162,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (12), next (6), data (3), [[Search]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** api (12), css (1), url (1)
 > **Code Identifiers:** productbody (2), productid (2), storagestate (1), beforeeach (1), selectoption (1)
 > **CLI Commands:** make (6), find (1)
@@ -3198,8 +3176,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to maintaining tests with Playwright
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-playwright/introduction-to-maintaining-tests-with-playwright?u=76281980)
+#### [Introduction to maintaining tests with Playwright](https://www.linkedin.com/learning/learning-playwright/introduction-to-maintaining-tests-with-playwright?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3259,11 +3236,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (3), web (1), data (1), database (1), feature (1)
 > **Speakers:** - [instructor] (1)
 
-#### Playwright screenshots, videos, and reporters
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-playwright/playwright-screenshots-videos-and-reporters?u=76281980)
+#### [Playwright screenshots, videos, and reporters](https://www.linkedin.com/learning/learning-playwright/playwright-screenshots-videos-and-reporters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3287,9 +3262,9 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/learning-playwright/playwright-screenshots-videos-and-reporters?u=76281980&t=62)** We'll save our previous settings back at the end of the video.
 >
-> **[1:05](https://www.linkedin.com/learning/learning-playwright/playwright-screenshots-videos-and-reporters?u=76281980&t=65)** Once the config is saved, let's run npm run test. (keyboard clicks) Let's hope there's no failures.
+> **[1:05](https://www.linkedin.com/learning/learning-playwright/playwright-screenshots-videos-and-reporters?u=76281980&t=65)** Once the config is saved, let's run [[npm]] run test. (keyboard clicks) Let's hope there's no failures.
 >
-> **[1:15](https://www.linkedin.com/learning/learning-playwright/playwright-screenshots-videos-and-reporters?u=76281980&t=75)** Their test run is complete and I have this command, npx playwright show-report to view the HTML Reporter. (keyboard clicks) So let's run that command.
+> **[1:15](https://www.linkedin.com/learning/learning-playwright/playwright-screenshots-videos-and-reporters?u=76281980&t=75)** Their test run is complete and I have this command, npx playwright show-report to view the [[HTML]] Reporter. (keyboard clicks) So let's run that command.
 >
 > **[1:29](https://www.linkedin.com/learning/learning-playwright/playwright-screenshots-videos-and-reporters?u=76281980&t=89)** You'll notice this opens up a HDP server, and I am able to quickly view any of the tests.
 >
@@ -3339,7 +3314,7 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/learning-playwright/playwright-screenshots-videos-and-reporters?u=76281980&t=220)** This Reporter can be really useful when debugging tests locally or running tests in CI.
 >
-> **[3:46](https://www.linkedin.com/learning/learning-playwright/playwright-screenshots-videos-and-reporters?u=76281980&t=226)** You can watch the progress in real-time.
+> **[3:46](https://www.linkedin.com/learning/learning-playwright/playwright-screenshots-videos-and-reporters?u=76281980&t=226)** You can watch the progress in [[Real-Time]].
 >
 > **[3:49](https://www.linkedin.com/learning/learning-playwright/playwright-screenshots-videos-and-reporters?u=76281980&t=229)** Let's open up the Test Reporters Documentation and look at a few of these other Reporters.
 >
@@ -3347,11 +3322,11 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/learning-playwright/playwright-screenshots-videos-and-reporters?u=76281980&t=238)** This Reporter allows you to easily manage parallel runs when running in a CI environment and combine the Reports back together.
 >
-> **[4:07](https://www.linkedin.com/learning/learning-playwright/playwright-screenshots-videos-and-reporters?u=76281980&t=247)** There's also the JSON Reporter.
+> **[4:07](https://www.linkedin.com/learning/learning-playwright/playwright-screenshots-videos-and-reporters?u=76281980&t=247)** There's also the [[JSON]] Reporter.
 >
 > **[4:10](https://www.linkedin.com/learning/learning-playwright/playwright-screenshots-videos-and-reporters?u=76281980&t=250)** This Reporter provides JSON output of the test run.
 >
-> **[4:14](https://www.linkedin.com/learning/learning-playwright/playwright-screenshots-videos-and-reporters?u=76281980&t=254)** Another popular option is the JUnit Reporter.
+> **[4:14](https://www.linkedin.com/learning/learning-playwright/playwright-screenshots-videos-and-reporters?u=76281980&t=254)** Another popular option is the [[JUnit]] Reporter.
 >
 > **[4:18](https://www.linkedin.com/learning/learning-playwright/playwright-screenshots-videos-and-reporters?u=76281980&t=258)** This is one of the most Standardized Test Reporter Formats in the testing industry.
 >
@@ -3373,7 +3348,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (3), ci (3), [[npm]] (2), [[Debugging]] (2), parallel (2)
+> **Frameworks & Libraries:** [[HTML]] (3), [[npm]] (2), [[JSON]] (2), [[Real-Time]] (1), [[JUnit]] (1)
 > **Env Vars:** html (3), json (2), hdp (1)
 > **CLI Commands:** npm (2), find (2), npx (1)
 > **File Paths:** playwright.config (1)
@@ -3382,12 +3357,11 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Playwright trace viewer
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-playwright/playwright-trace-viewer?u=76281980)
+#### [Playwright trace viewer](https://www.linkedin.com/learning/learning-playwright/playwright-trace-viewer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-playwright/playwright-trace-viewer?u=76281980&t=0)** - [Instructor] In the previous video, we showed off the HTML reporter.
+> **[0:00](https://www.linkedin.com/learning/learning-playwright/playwright-trace-viewer?u=76281980&t=0)** - [Instructor] In the previous video, we showed off the [[HTML]] reporter.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-playwright/playwright-trace-viewer?u=76281980&t=4)** This next session will be somewhat of a review from what we saw when we discussed the Playwright UI mode.
 >
@@ -3409,9 +3383,9 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/learning-playwright/playwright-trace-viewer?u=76281980&t=64)** This information can be really useful.
 >
-> **[1:06](https://www.linkedin.com/learning/learning-playwright/playwright-trace-viewer?u=76281980&t=66)** For some reason, you're getting a JavaScript error in the code as this error will be persisted as long as the HTML test report exists.
+> **[1:06](https://www.linkedin.com/learning/learning-playwright/playwright-trace-viewer?u=76281980&t=66)** For some reason, you're getting a [[JavaScript]] error in the code as this error will be persisted as long as the HTML test report exists.
 >
-> **[1:17](https://www.linkedin.com/learning/learning-playwright/playwright-trace-viewer?u=76281980&t=77)** Let's back out of this test and go look at one of the API tests, the GET/products test.
+> **[1:17](https://www.linkedin.com/learning/learning-playwright/playwright-trace-viewer?u=76281980&t=77)** Let's back out of this test and go look at one of the API tests, the GET/[[Microsoft Products|products]] test.
 >
 > **[1:25](https://www.linkedin.com/learning/learning-playwright/playwright-trace-viewer?u=76281980&t=85)** Let's go look at the trace, and here I want us to view the network tab.
 >
@@ -3421,7 +3395,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/learning-playwright/playwright-trace-viewer?u=76281980&t=109)** Having access to this after a test has run to be able to go inspect the state of what the system was in while the test was running is a crucial tool.
 >
-> **[2:00](https://www.linkedin.com/learning/learning-playwright/playwright-trace-viewer?u=76281980&t=120)** It's going to give us a ton of observability into our test automation.
+> **[2:00](https://www.linkedin.com/learning/learning-playwright/playwright-trace-viewer?u=76281980&t=120)** It's going to give us a ton of observability into our [[Test Automation]].
 >
 > **[2:05](https://www.linkedin.com/learning/learning-playwright/playwright-trace-viewer?u=76281980&t=125)** What's nice about this network tab as well is that it shows all the HTTP requests that were made from within a Playwright test, not just the URL that you're testing against, but any third parties that may have requests as well.
 >
@@ -3445,7 +3419,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (3), dom (2), next (1), [[JavaScript]] (1), api (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[JavaScript]] (1), [[Microsoft Products|Products]] (1), [[Test Automation]] (1)
 > **Env Vars:** html (3), dom (2), api (1), http (1), url (1)
 > **UI Navigation:** click on (2), scroll down (1), open the (1)
 > **Cross-References:** previous video (1), we discussed (1)
@@ -3454,12 +3428,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 
-#### Scaling Playwright tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-playwright/scaling-playwright-tests?u=76281980)
+#### [Scaling Playwright tests](https://www.linkedin.com/learning/learning-playwright/scaling-playwright-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-playwright/scaling-playwright-tests?u=76281980&t=0)** - [Instructor] As your Playwright test automation suite grows, you'll find the need for greater organization and maintainability as needed within your test.
+> **[0:00](https://www.linkedin.com/learning/learning-playwright/scaling-playwright-tests?u=76281980&t=0)** - [Instructor] As your Playwright [[Test Automation]] suite grows, you'll find the need for greater organization and maintainability as needed within your test.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-playwright/scaling-playwright-tests?u=76281980&t=10)** You'll also need to have some strategies on hand in order to abstract away duplicate code and simplify your code as much as possible.
 >
@@ -3549,7 +3522,7 @@ created: 2026-05-02
 >
 > **[4:37](https://www.linkedin.com/learning/learning-playwright/scaling-playwright-tests?u=76281980&t=277)** So I've got a go-to and a login using the different locators.
 >
-> **[4:42](https://www.linkedin.com/learning/learning-playwright/scaling-playwright-tests?u=76281980&t=282)** For example, this go-to function will navigate, it will do a page, do go to, and it will go to practice software testing, plus off login.
+> **[4:42](https://www.linkedin.com/learning/learning-playwright/scaling-playwright-tests?u=76281980&t=282)** For example, this go-to function will navigate, it will do a page, do go to, and it will go to practice [[Software Testing]], plus off login.
 >
 > **[4:55](https://www.linkedin.com/learning/learning-playwright/scaling-playwright-tests?u=76281980&t=295)** The login function, when calling that, I can pass in an email and a password, and it will input the email in the email field, the password and the password input field, and it'll go ahead and click the login button for us.
 >
@@ -3603,7 +3576,7 @@ created: 2026-05-02
 >
 > **[7:32](https://www.linkedin.com/learning/learning-playwright/scaling-playwright-tests?u=76281980&t=452)** So the first thing I would want to do is go to the playwright.config, and you can see at the top of the playwright.config, I've got three lines commented out.
 >
-> **[7:43](https://www.linkedin.com/learning/learning-playwright/scaling-playwright-tests?u=76281980&t=463)** This is importing the dotenv node package and the path from JavaScript.
+> **[7:43](https://www.linkedin.com/learning/learning-playwright/scaling-playwright-tests?u=76281980&t=463)** This is importing the dotenv node package and the path from [[JavaScript]].
 >
 > **[7:49](https://www.linkedin.com/learning/learning-playwright/scaling-playwright-tests?u=76281980&t=469)** And then it's initializing the dotenv, looking for an .env file within our file directory.
 >
@@ -3615,11 +3588,11 @@ created: 2026-05-02
 >
 > **[8:07](https://www.linkedin.com/learning/learning-playwright/scaling-playwright-tests?u=76281980&t=487)** So I'm going to go to my terminal.
 >
-> **[8:09](https://www.linkedin.com/learning/learning-playwright/scaling-playwright-tests?u=76281980&t=489)** I'm going to type in npm install dotenv --save.
+> **[8:09](https://www.linkedin.com/learning/learning-playwright/scaling-playwright-tests?u=76281980&t=489)** I'm going to type in [[npm]] install dotenv --save.
 >
 > **[8:16](https://www.linkedin.com/learning/learning-playwright/scaling-playwright-tests?u=76281980&t=496)** What this is going to do is install the dotenv plugin.
 >
-> **[8:21](https://www.linkedin.com/learning/learning-playwright/scaling-playwright-tests?u=76281980&t=501)** It's going to update my package.json file.
+> **[8:21](https://www.linkedin.com/learning/learning-playwright/scaling-playwright-tests?u=76281980&t=501)** It's going to update my package.[[JSON]] file.
 >
 > **[8:25](https://www.linkedin.com/learning/learning-playwright/scaling-playwright-tests?u=76281980&t=505)** So you're going to see a new dependency added.
 >
@@ -3653,7 +3626,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (5), [[Test Automation]] (3), [[npm]] (2), [[Software Testing]] (1), node (1)
+> **Frameworks & Libraries:** [[Test Automation]] (3), [[npm]] (2), [[Software Testing]] (1), [[JavaScript]] (1), [[JSON]] (1)
 > **CLI Commands:** find (3), npm (2), npx (1), node (1), go run (1)
 > **Env Vars:** api (5), url (4)
 > **UI Navigation:** go to (8)
@@ -3667,8 +3640,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-playwright/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/learning-playwright/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3688,7 +3660,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/learning-playwright/next-steps?u=76281980&t=54)** You can also join the Playwright Discord, connect with others, ask questions, find articles and video content, and eventually, you'll be able to help others with their problems.
 >
-> **[1:07](https://www.linkedin.com/learning/learning-playwright/next-steps?u=76281980&t=67)** You can also check out the Playwright GitHub repo.
+> **[1:07](https://www.linkedin.com/learning/learning-playwright/next-steps?u=76281980&t=67)** You can also check out the Playwright [[GitHub]] repo.
 >
 > **[1:10](https://www.linkedin.com/learning/learning-playwright/next-steps?u=76281980&t=70)** Here, you can subscribe to releases, report bugs, or even request features, or vote on feature requests.
 >
@@ -3700,7 +3672,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/learning-playwright/next-steps?u=76281980&t=89)** As I write, I am trying to always provide actionable solutions, things that you can replicate with a test repo, or with test code on your own machine.
 >
-> **[1:41](https://www.linkedin.com/learning/learning-playwright/next-steps?u=76281980&t=101)** You can also connect with me on LinkedIn.
+> **[1:41](https://www.linkedin.com/learning/learning-playwright/next-steps?u=76281980&t=101)** You can also connect with me on [[LinkedIn]].
 >
 > **[1:43](https://www.linkedin.com/learning/learning-playwright/next-steps?u=76281980&t=103)** I love hearing stories about people learning and growing, so please do reach out, and let me know if this course was helpful to you.
 >
@@ -3710,7 +3682,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (1), feature (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (2)
 > **Tools:** discord (1), github (1)
 > **URLs:** [playwrightsolutions.com](https://playwrightsolutions.com) (1)

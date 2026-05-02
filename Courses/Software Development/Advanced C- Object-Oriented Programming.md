@@ -83,14 +83,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next-level C# OOP
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/next-level-c-sharp-oop?u=76281980)
+#### [Next-level C# OOP](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/next-level-c-sharp-oop?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/next-level-c-sharp-oop?u=76281980&t=0)** - .NET has emerged as one of the premier development platforms over the past 20 years.
 >
-> **[0:05](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/next-level-c-sharp-oop?u=76281980&t=5)** It was one of the first comprehensive platforms to make object-oriented programming a core part of its foundation.
+> **[0:05](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/next-level-c-sharp-oop?u=76281980&t=5)** It was one of the first comprehensive platforms to make [[Object-Oriented Programming (OOP)|object-oriented programming]] a core part of its foundation.
 >
 > **[0:11](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/next-level-c-sharp-oop?u=76281980&t=11)** Over time, .NET pioneered new features to make object-oriented programming easier, safer, and more efficient.
 >
@@ -104,23 +103,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (3), data (1)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (3)
 > **Env Vars:** net (5)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1)
 
-#### Getting set up
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/getting-set-up?u=76281980)
+#### [Getting set up](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/getting-set-up?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/getting-set-up?u=76281980&t=0)** - This course is intended for developers who are already familiar with C# And want to learn about some of the more advanced object-oriented programming features of the language.
+> **[0:00](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/getting-set-up?u=76281980&t=0)** - This course is intended for developers who are already familiar with C# And want to learn about some of the more advanced [[Object-Oriented Programming (OOP)|object-oriented programming]] features of the language.
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/getting-set-up?u=76281980&t=9)** You don't need to be a deep expert on C# or .NET but you do need to have an understanding of the basics Such as how to write functions, use variables, and so on.
 >
 > **[0:19](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/getting-set-up?u=76281980&t=19)** There are a couple of different ways you can work with the example code In this course.
 >
-> **[0:24](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/getting-set-up?u=76281980&t=24)** I've set up a GitHub repository with the examples, and you can find it at this link.
+> **[0:24](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/getting-set-up?u=76281980&t=24)** I've set up a [[GitHub]] repository with the examples, and you can find it at this link.
 >
 > **[0:29](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/getting-set-up?u=76281980&t=29)** The course content is organized into two separate folders.
 >
@@ -142,7 +140,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/getting-set-up?u=76281980&t=84)** All you need to do is fork a copy of the repository in your own GitHub account and then fire up a Codespace.
 >
-> **[1:30](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/getting-set-up?u=76281980&t=90)** And you do that by going here to the Code menu clicking on the Codespaces tab and then clicking on this + button.
+> **[1:30](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/getting-set-up?u=76281980&t=90)** And you do that by going here to the Code menu clicking on the [[Codespaces]] tab and then clicking on this + button.
 >
 > **[1:37](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/getting-set-up?u=76281980&t=97)** Now you can see I've already done that, right?
 >
@@ -186,7 +184,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (3), prompt (2), [[Programming]] (1), [[Codespaces]] (1), feature (1)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Codespaces]] (1)
 > **Tools:** terminal (4), github (3), vs code (2), visual studio (1)
 > **Prerequisites:** set up (3), install (3), you'll need (1)
 > **CLI Commands:** make (3), find (1), dotnet (1)
@@ -200,12 +198,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/defining-classes?u=76281980)
+#### [Defining classes](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/defining-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/defining-classes?u=76281980&t=0)** - [Instructor] In this chapter, we're going to review some of the basics of object-oriented programming as they apply to C#.
+> **[0:00](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/defining-classes?u=76281980&t=0)** - [Instructor] In this chapter, we're going to review some of the basics of [[Object-Oriented Programming (OOP)|object-oriented programming]] as they apply to C#.
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/defining-classes?u=76281980&t=7)** If you're already familiar with the basic concepts of object-oriented programming in C# and .NET, then you can feel free to skip over or skim this chapter or come back to it as you need to if you want a refresher.
 >
@@ -329,7 +326,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), data (1)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2)
 > **CLI Commands:** make (7), dotnet (2)
 > **Cross-References:** later in (2), go back to (2)
 > **Tools:** terminal (2), visual studio (1)
@@ -338,8 +335,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
 
-#### Properties
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/properties?u=76281980)
+#### [Properties](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/properties?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -351,7 +347,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/properties?u=76281980&t=15)** In C#, we use properties and methods to accomplish this.
 >
-> **[0:19](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/properties?u=76281980&t=19)** And the word method is a fancy object-oriented way of referring to a function that's part of a class.
+> **[0:19](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/properties?u=76281980&t=19)** And the [[Microsoft Word|word]] method is a fancy object-oriented way of referring to a function that's part of a class.
 >
 > **[0:25](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/properties?u=76281980&t=25)** In fact, we've already seen how to define and use a method in the previous example where we created a function named get area to calculate the area of a rectangle.
 >
@@ -461,7 +457,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (3), dotnet (1)
 > **Cross-References:** go back to (1)
 > **Tools:** terminal (1)
@@ -469,12 +465,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Inheritance
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/inheritance?u=76281980)
+#### [Inheritance](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/inheritance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/inheritance?u=76281980&t=0)** - [Instructor] One of the foundations of object-oriented programming is the concept of inheritance.
+> **[0:00](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/inheritance?u=76281980&t=0)** - [Instructor] One of the foundations of [[Object-Oriented Programming (OOP)|object-oriented programming]] is the concept of inheritance.
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/inheritance?u=76281980&t=5)** And this is the process of defining classes that inherit their properties and methods from parent classes, so that you can reuse and customize the features and logic that they already have, without having to duplicate a whole lot of code.
 >
@@ -500,7 +495,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/inheritance?u=76281980&t=70)** In dotnet, every class automatically derives from the base object class.
 >
-> **[1:16](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/inheritance?u=76281980&t=76)** And let's take a quick look at that here in the Microsoft documentation.
+> **[1:16](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/inheritance?u=76281980&t=76)** And let's take a quick look at that here in the [[Microsoft]] documentation.
 >
 > **[1:20](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/inheritance?u=76281980&t=80)** So if we scroll down a little bit and we get to the methods part.
 >
@@ -665,8 +660,7 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Versions:** 3.14 (1)
 
-#### Access modifiers
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/access-modifiers?u=76281980)
+#### [Access modifiers](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/access-modifiers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -764,7 +758,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7)
 > **Cross-References:** go back to (3)
 > **Tools:** terminal (2), vs code (1)
 > **UI Navigation:** open the (1), scroll up (1)
@@ -772,16 +765,15 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Anonymous types
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/anonymous-types?u=76281980)
+#### [Anonymous types](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/anonymous-types?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/anonymous-types?u=76281980&t=0)** - [Instructor] Some languages like JavaScript and Python make it really easy to define collections of names and values without first having to define an explicit type.
+> **[0:00](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/anonymous-types?u=76281980&t=0)** - [Instructor] Some languages like [[JavaScript]] and [[Python (Programming Language)|Python]] make it really easy to define collections of names and values without first having to define an explicit type.
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/anonymous-types?u=76281980&t=9)** And C# also has this capability which we refer to as anonymous types.
 >
-> **[0:15](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/anonymous-types?u=76281980&t=15)** You'll see these used in a variety of scenarios, usually with link or language integrated query, for example, but they can also just be a convenient way of having a collection of read-only properties.
+> **[0:15](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/anonymous-types?u=76281980&t=15)** You'll see these used in a variety of scenarios, usually with link or [[Language Integrated Query (LINQ)|language integrated query]], for example, but they can also just be a convenient way of having a collection of read-only properties.
 >
 > **[0:27](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/anonymous-types?u=76281980&t=27)** So let's open up our code here in AnonTypes under the Chapter1 folder, and I'll open my program code.
 >
@@ -883,7 +875,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[JavaScript]] (1), [[Python (Programming Language)|Python]] (1), [[Language Integrated Query (LINQ)|Language integrated query]] (1), next (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1), [[Python (Programming Language)|Python]] (1), [[Language Integrated Query (LINQ)|Language integrated query]] (1)
 > **CLI Commands:** make (2), python (1), find (1)
 > **Analogies:** for example (3)
 > **Definitions:** is a  (1), is an  (1)
@@ -895,8 +887,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using object initializers
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/using-object-initializers?u=76281980)
+#### [Using object initializers](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/using-object-initializers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1034,8 +1025,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Read-only members
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/read-only-members?u=76281980)
+#### [Read-only members](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/read-only-members?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1099,15 +1089,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Env Vars:** isbn (3)
 > **CLI Commands:** make (2)
 > **Cross-References:** later in (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Init-only properties
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/init-only-properties?u=76281980)
+#### [Init-only properties](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/init-only-properties?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1189,7 +1177,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), feature (2)
 > **CLI Commands:** make (5)
 > **Cross-References:** go back to (2), previous video (1)
 > **Versions:** version 9 (1)
@@ -1197,9 +1184,9 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
+> **Speakers:** - [instructor] (1)
 
-#### Required properties
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/required-properties?u=76281980)
+#### [Required properties](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/required-properties?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1313,8 +1300,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Build an employee class
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/challenge-build-an-employee-class?u=76281980)
+#### [Challenge: Build an employee class](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/challenge-build-an-employee-class?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1362,15 +1348,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), business (1), next (1)
 > **Prerequisites:** you'll need (2)
 > **Cross-References:** in the next (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Build an employee class
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/solution-build-an-employee-class?u=76281980)
+#### [Solution: Build an employee class](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/solution-build-an-employee-class?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1422,7 +1406,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1)
 > **Tools:** terminal (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1434,8 +1417,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Static members
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/static-members?u=76281980)
+#### [Static members](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/static-members?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1587,7 +1569,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1)
 > **Code Identifiers:** isroomtemp (9), ftoc (2), isfreezing (1), writeline (1), ctof (1)
 > **Tools:** terminal (3)
 > **CLI Commands:** make (2)
@@ -1595,9 +1576,9 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **UI Navigation:** go to (1)
 > **Definitions:** in other words (1)
+> **Warnings:** be aware (1)
 
-#### Static classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/static-classes?u=76281980)
+#### [Static classes](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/static-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1683,7 +1664,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Versions:** 2.54 (1), 12.7 (1), 1.97 (1)
 > **UI Navigation:** scroll down (2), click on (1)
 > **Definitions:** defined as (2)
@@ -1691,9 +1671,9 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Tools:** terminal (1)
+> **Speakers:** - [instructor] (1)
 
-#### Static constructors
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/static-constructors?u=76281980)
+#### [Static constructors](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/static-constructors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1729,7 +1709,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/static-constructors?u=76281980&t=95)** So let's go ahead and add our static constructor.
 >
-> **[1:39](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/static-constructors?u=76281980&t=99)** And to do that, I'm going to write the word static and then MyClass and that's it.
+> **[1:39](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/static-constructors?u=76281980&t=99)** And to do that, I'm going to write the [[Microsoft Word|word]] static and then MyClass and that's it.
 >
 > **[1:46](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/static-constructors?u=76281980&t=106)** Don't need to make it public.
 >
@@ -1757,11 +1737,11 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/static-constructors?u=76281980&t=191)** And sure enough, the last method to be called was MethodB.
 >
-> **[3:15](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/static-constructors?u=76281980&t=195)** Now, you may not need to use static constructors very often but when you have static class members that you need to make sure are initialized a certain way before the rest of the class logic runs, then the static constructor is the way to do it.
+> **[3:15](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/static-constructors?u=76281980&t=195)** Now, you may not need to use static constructors very often but when you have static class members that you need to make sure are initialized a certain way before the [[Representational State Transfer (REST)|rest]] of the class logic runs, then the static constructor is the way to do it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** net (1)
@@ -1770,8 +1750,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Add static members to employee
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/challenge-add-static-members-to-employee?u=76281980)
+#### [Challenge: Add static members to employee](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/challenge-add-static-members-to-employee?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1809,15 +1788,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** ied (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Add static members to employee
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/solution-add-static-members-to-employee?u=76281980)
+#### [Solution: Add static members to employee](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/solution-add-static-members-to-employee?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1859,7 +1836,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Definitions:** is a  (3)
 > **Code Identifiers:** empcount (2)
 > **Warnings:** note that (1)
@@ -1871,8 +1847,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of abstract classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/overview-of-abstract-classes?u=76281980)
+#### [Overview of abstract classes](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/overview-of-abstract-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1918,14 +1893,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Defining an abstract class
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/defining-an-abstract-class?u=76281980)
+#### [Defining an abstract class](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/defining-an-abstract-class?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2000,8 +1973,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - now (1)
 
-#### Abstract methods and properties
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/abstract-methods-and-properties?u=76281980)
+#### [Abstract methods and properties](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/abstract-methods-and-properties?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2096,8 +2068,7 @@ created: 2026-05-02
 > **Cross-References:** previous video (1), go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sealed classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/sealed-classes?u=76281980)
+#### [Sealed classes](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/sealed-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2181,13 +2152,13 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/sealed-classes?u=76281980&t=236)** This can be for security reasons or just for general class design reasons.
 >
-> **[4:01](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/sealed-classes?u=76281980&t=241)** In the case of the string class, Microsoft sealed the class because a string is an immutable object, and there really isn't any good reason for other classes to subclass the string object.
+> **[4:01](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/sealed-classes?u=76281980&t=241)** In the case of the string class, [[Microsoft]] sealed the class because a string is an immutable object, and there really isn't any good reason for other classes to subclass the string object.
 >
 > **[4:12](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/sealed-classes?u=76281980&t=252)** So if you have such code in your application system, then it might be a good idea to seal the class unless you have a good reason to let the object be modifiable by subclasses.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1), [[Microsoft]] (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** net (1)
@@ -2195,8 +2166,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Abstract employee class
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/challenge-abstract-employee-class?u=76281980)
+#### [Challenge: Abstract employee class](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/challenge-abstract-employee-class?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2220,14 +2190,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Programming]] (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Abstract employee class
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/solution-abstract-employee-class?u=76281980)
+#### [Solution: Abstract employee class](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/solution-abstract-employee-class?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2299,7 +2267,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (7)
 > **Tools:** terminal (1)
 > **UI Navigation:** go to (1)
@@ -2312,14 +2279,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/next-steps?u=76281980&t=0)** - Congratulations on finishing the course.
 >
-> **[0:02](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/next-steps?u=76281980&t=2)** I hope you enjoyed learning along with me about .NET Object-Oriented Programming, and that you now have a good understanding of how to apply what we've covered in some of your own projects.
+> **[0:02](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/next-steps?u=76281980&t=2)** I hope you enjoyed learning along with me about .NET [[Object-Oriented Programming (OOP)|Object-Oriented Programming]], and that you now have a good understanding of how to apply what we've covered in some of your own projects.
 >
 > **[0:11](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/next-steps?u=76281980&t=11)** We saw how to define classes, apply access controls to your logic, make use of properties, and use of advanced features, like static members and abstract and sealed classes.
 >
@@ -2333,7 +2299,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **Env Vars:** net (4)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)

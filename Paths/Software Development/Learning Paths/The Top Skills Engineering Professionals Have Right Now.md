@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/the-top-skills-engineering-professi
 course_count: 9
 linkedin_topics:
   - Software Development
-louvain_cluster: 14
+louvain_cluster: 12
 tags:
   - learning-path
   - topic/software-development

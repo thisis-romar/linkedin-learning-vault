@@ -83,8 +83,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Be an API testing and validation MVP
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/be-an-api-testing-and-validation-mvp?u=76281980)
+#### [Be an API testing and validation MVP](https://www.linkedin.com/learning/api-testing-and-validation-22610641/be-an-api-testing-and-validation-mvp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -110,13 +109,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (5)
 > **Env Vars:** api (5), bdd (1)
 > **Tools:** postman (1)
 > **Speakers:** - most (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/api-testing-and-validation-22610641/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -130,9 +127,9 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/api-testing-and-validation-22610641/what-you-should-know?u=76281980&t=22)** If you do want to get deep into API design, check out my course on that.
 >
-> **[0:26](https://www.linkedin.com/learning/api-testing-and-validation-22610641/what-you-should-know?u=76281980&t=26)** On the tooling side, you'll need a GitHub account.
+> **[0:26](https://www.linkedin.com/learning/api-testing-and-validation-22610641/what-you-should-know?u=76281980&t=26)** On the tooling side, you'll need a [[GitHub]] account.
 >
-> **[0:28](https://www.linkedin.com/learning/api-testing-and-validation-22610641/what-you-should-know?u=76281980&t=28)** Not only will you need to have some basic vocabulary around repositories, but will generate access tokens and use them constantly.
+> **[0:28](https://www.linkedin.com/learning/api-testing-and-validation-22610641/what-you-should-know?u=76281980&t=28)** Not only will you need to have some basic vocabulary around repositories, but will generate access [[Tokens]] and use them constantly.
 >
 > **[0:35](https://www.linkedin.com/learning/api-testing-and-validation-22610641/what-you-should-know?u=76281980&t=35)** Then you'll want an IDE or some other way to keep your code organized.
 >
@@ -150,7 +147,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/api-testing-and-validation-22610641/what-you-should-know?u=76281980&t=69)** Next, you'll need a development environment.
 >
-> **[1:11](https://www.linkedin.com/learning/api-testing-and-validation-22610641/what-you-should-know?u=76281980&t=71)** In this course, we'll be using PHP 8.2, so all the code, examples, and explanation target that.
+> **[1:11](https://www.linkedin.com/learning/api-testing-and-validation-22610641/what-you-should-know?u=76281980&t=71)** In this course, we'll be using [[PHP]] 8.2, so all the code, examples, and explanation target that.
 >
 > **[1:17](https://www.linkedin.com/learning/api-testing-and-validation-22610641/what-you-should-know?u=76281980&t=77)** Alternatively, the Gherkin Syntax which we'll talk about in a moment, that tooling supports any modern language, so you can dig in with your language of choice if you prefer.
 >
@@ -162,7 +159,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[PHP]] (2), api (1), [[GitHub]] (1), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[PHP]] (2), [[GitHub]] (1), [[Tokens]] (1)
 > **Prerequisites:** you'll need (5), you need to have (1), set up (1), install (1)
 > **Env Vars:** http (2), php (2), api (1), ide (1), bdd (1)
 > **Tools:** command line (1), github (1), sublime (1), vs code (1), postman (1)
@@ -170,12 +167,11 @@ created: 2026-05-02
 > **Versions:** php 8 (1), 3.12 (1)
 > **Speakers:** - [instructor] (1)
 
-#### API overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/api-overview?u=76281980)
+#### [API overview](https://www.linkedin.com/learning/api-testing-and-validation-22610641/api-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/api-testing-and-validation-22610641/api-overview?u=76281980&t=0)** - [Instructor] The GitHub API is our testing target for this course.
+> **[0:00](https://www.linkedin.com/learning/api-testing-and-validation-22610641/api-overview?u=76281980&t=0)** - [Instructor] The [[GitHub]] API is our testing target for this course.
 >
 > **[0:03](https://www.linkedin.com/learning/api-testing-and-validation-22610641/api-overview?u=76281980&t=3)** Their API isn't perfect.
 >
@@ -207,13 +203,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (8), [[GitHub]] (3), power (1)
+> **Frameworks & Libraries:** [[GitHub]] (3)
 > **Env Vars:** api (8), sdk (1)
 > **Tools:** github (3)
 > **Speakers:** - [instructor] (1)
 
-#### Exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/exercise-files?u=76281980)
+#### [Exercise files](https://www.linkedin.com/learning/api-testing-and-validation-22610641/exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -229,7 +224,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/api-testing-and-validation-22610641/exercise-files?u=76281980&t=15)** This will always have the latest and greatest.
 >
-> **[0:18](https://www.linkedin.com/learning/api-testing-and-validation-22610641/exercise-files?u=76281980&t=18)** You can either download a zip file here or open it in GitHub Desktop.
+> **[0:18](https://www.linkedin.com/learning/api-testing-and-validation-22610641/exercise-files?u=76281980&t=18)** You can either download a zip file here or open it in [[GitHub]] Desktop.
 >
 > **[0:22](https://www.linkedin.com/learning/api-testing-and-validation-22610641/exercise-files?u=76281980&t=22)** I'll be using GitHub Desktop for this.
 >
@@ -239,11 +234,11 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/api-testing-and-validation-22610641/exercise-files?u=76281980&t=33)** Now we need to go to the command line to run our setup scripts.
 >
-> **[0:37](https://www.linkedin.com/learning/api-testing-and-validation-22610641/exercise-files?u=76281980&t=37)** So go into our API testing and validation folder and we'll go into our API testing workspace.
+> **[0:37](https://www.linkedin.com/learning/api-testing-and-validation-22610641/exercise-files?u=76281980&t=37)** So go into our [[API Testing]] and validation folder and we'll go into our API testing workspace.
 >
 > **[0:45](https://www.linkedin.com/learning/api-testing-and-validation-22610641/exercise-files?u=76281980&t=45)** There's also the API testing course folder.
 >
-> **[0:48](https://www.linkedin.com/learning/api-testing-and-validation-22610641/exercise-files?u=76281980&t=48)** That's where all the examples for the rest of this course will be.
+> **[0:48](https://www.linkedin.com/learning/api-testing-and-validation-22610641/exercise-files?u=76281980&t=48)** That's where all the examples for the [[Representational State Transfer (REST)|rest]] of this course will be.
 >
 > **[0:50](https://www.linkedin.com/learning/api-testing-and-validation-22610641/exercise-files?u=76281980&t=50)** Those are all the completed samples and code, not where we'll be working on a regular basis.
 >
@@ -297,7 +292,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (6), [[GitHub]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[API Testing]] (6), [[GitHub]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Prerequisites:** set up (7), setup (3), install (1), configure (1)
 > **Env Vars:** api (6)
 > **Tools:** github (2), command line (2), sublime (1)
@@ -311,8 +306,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Acceptance testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/acceptance-testing?u=76281980)
+#### [Acceptance testing](https://www.linkedin.com/learning/api-testing-and-validation-22610641/acceptance-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -332,7 +326,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/api-testing-and-validation-22610641/acceptance-testing?u=76281980&t=24)** More likely it's a downstream app or integration dependent on that API.
 >
-> **[0:29](https://www.linkedin.com/learning/api-testing-and-validation-22610641/acceptance-testing?u=76281980&t=29)** Acceptance or behavioral testing is different than unit testing.
+> **[0:29](https://www.linkedin.com/learning/api-testing-and-validation-22610641/acceptance-testing?u=76281980&t=29)** Acceptance or behavioral testing is different than [[Unit Testing]].
 >
 > **[0:33](https://www.linkedin.com/learning/api-testing-and-validation-22610641/acceptance-testing?u=76281980&t=33)** In unit testing, you work with small, discrete chunks of code, usually a method or function to confirm it is working as expected.
 >
@@ -362,15 +356,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unit Testing]] (4), hit (2), database (2), api (1)
+> **Frameworks & Libraries:** [[Unit Testing]] (4)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** api (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [narrator] (1)
 
-#### Explanation of Gherkin
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/explanation-of-gherkin?u=76281980)
+#### [Explanation of Gherkin](https://www.linkedin.com/learning/api-testing-and-validation-22610641/explanation-of-gherkin?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -384,7 +377,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/api-testing-and-validation-22610641/explanation-of-gherkin?u=76281980&t=16)** Because we're talking about behavior or an external view of the system instead of an internal view, we could be language agnostic.
 >
-> **[0:22](https://www.linkedin.com/learning/api-testing-and-validation-22610641/explanation-of-gherkin?u=76281980&t=22)** After all, your API users don't care if you used Python, Go, or .NET behind the scenes.
+> **[0:22](https://www.linkedin.com/learning/api-testing-and-validation-22610641/explanation-of-gherkin?u=76281980&t=22)** After all, your API users don't care if you used [[Python (Programming Language)|Python]], Go, or .NET behind the scenes.
 >
 > **[0:27](https://www.linkedin.com/learning/api-testing-and-validation-22610641/explanation-of-gherkin?u=76281980&t=27)** It's irrelevant to them.
 >
@@ -410,17 +403,16 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/api-testing-and-validation-22610641/explanation-of-gherkin?u=76281980&t=105)** And the final keywords, and and but, add color and clarity to the behavior and draw some boundaries around it.
 >
-> **[1:51](https://www.linkedin.com/learning/api-testing-and-validation-22610641/explanation-of-gherkin?u=76281980&t=111)** When used with BDD frameworks like Cucumber, Gherkin scenarios are translating to executable code, making it easier to implement test automation and ensure that the software behaves exactly as expected.
+> **[1:51](https://www.linkedin.com/learning/api-testing-and-validation-22610641/explanation-of-gherkin?u=76281980&t=111)** When used with BDD frameworks like Cucumber, Gherkin scenarios are translating to executable code, making it easier to implement [[Test Automation]] and ensure that the software behaves exactly as expected.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (1), [[Python (Programming Language)|Python]] (1), feature (1), [[Test Automation]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Test Automation]] (1)
 > **Env Vars:** api (1), net (1), bdd (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set up your test environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/set-up-your-test-environment-29775512?u=76281980)
+#### [Set up your test environment](https://www.linkedin.com/learning/api-testing-and-validation-22610641/set-up-your-test-environment-29775512?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -428,7 +420,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/api-testing-and-validation-22610641/set-up-your-test-environment-29775512?u=76281980&t=1)** Now let's get your environment set up.
 >
-> **[0:02](https://www.linkedin.com/learning/api-testing-and-validation-22610641/set-up-your-test-environment-29775512?u=76281980&t=2)** I'm going to start from the assumption that you have PHP installed successfully.
+> **[0:02](https://www.linkedin.com/learning/api-testing-and-validation-22610641/set-up-your-test-environment-29775512?u=76281980&t=2)** I'm going to start from the assumption that you have [[PHP]] installed successfully.
 >
 > **[0:06](https://www.linkedin.com/learning/api-testing-and-validation-22610641/set-up-your-test-environment-29775512?u=76281980&t=6)** If not, go back and set that up before you proceed.
 >
@@ -442,7 +434,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/api-testing-and-validation-22610641/set-up-your-test-environment-29775512?u=76281980&t=26)** Now, let's start with this code specific to this course.
 >
-> **[0:30](https://www.linkedin.com/learning/api-testing-and-validation-22610641/set-up-your-test-environment-29775512?u=76281980&t=30)** From the command line, move into the API testing course folder, and from there, run composer install.
+> **[0:30](https://www.linkedin.com/learning/api-testing-and-validation-22610641/set-up-your-test-environment-29775512?u=76281980&t=30)** From the command line, move into the [[API Testing]] course folder, and from there, run composer install.
 >
 > **[0:42](https://www.linkedin.com/learning/api-testing-and-validation-22610641/set-up-your-test-environment-29775512?u=76281980&t=42)** Your specific composer path may vary just a little bit based on your configuration, so double check yours before you just run it.
 >
@@ -452,7 +444,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/api-testing-and-validation-22610641/set-up-your-test-environment-29775512?u=76281980&t=75)** If you see a few of each color, you're in good shape and you may have to scroll up to see some of those.
 >
-> **[1:20](https://www.linkedin.com/learning/api-testing-and-validation-22610641/set-up-your-test-environment-29775512?u=76281980&t=80)** It's quite possible in your configuration, you'll see an error that says "Undefined reiki GitHub token."
+> **[1:20](https://www.linkedin.com/learning/api-testing-and-validation-22610641/set-up-your-test-environment-29775512?u=76281980&t=80)** It's quite possible in your configuration, you'll see an error that says "Undefined reiki [[GitHub]] token."
 >
 > **[1:25](https://www.linkedin.com/learning/api-testing-and-validation-22610641/set-up-your-test-environment-29775512?u=76281980&t=85)** That's expected at the moment.
 >
@@ -462,7 +454,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (2), api (1), [[GitHub]] (1), next (1)
+> **Frameworks & Libraries:** [[PHP]] (2), [[API Testing]] (1), [[GitHub]] (1)
 > **CLI Commands:** composer (3), php (2), make (1)
 > **Prerequisites:** set up (2), make sure you have (1), install (1), setup (1)
 > **Env Vars:** php (2), mamp (1), api (1)
@@ -471,8 +463,7 @@ created: 2026-05-02
 > **Tools:** command line (1), github (1)
 > **URLs:** [getcomposer.org](https://getcomposer.org) (1)
 
-#### Create your first feature description
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/create-your-first-feature-description?u=76281980)
+#### [Create your first feature description](https://www.linkedin.com/learning/api-testing-and-validation-22610641/create-your-first-feature-description?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -482,7 +473,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/api-testing-and-validation-22610641/create-your-first-feature-description?u=76281980&t=12)** We don't want a lot of complexity or other things outside our control right now.
 >
-> **[0:16](https://www.linkedin.com/learning/api-testing-and-validation-22610641/create-your-first-feature-description?u=76281980&t=16)** Once we prove our environment is working, we'll add HTTP requests, JSON responses and more later on.
+> **[0:16](https://www.linkedin.com/learning/api-testing-and-validation-22610641/create-your-first-feature-description?u=76281980&t=16)** Once we prove our environment is working, we'll add HTTP requests, [[JSON]] responses and more later on.
 >
 > **[0:23](https://www.linkedin.com/learning/api-testing-and-validation-22610641/create-your-first-feature-description?u=76281980&t=23)** This is how we'll approach building tests throughout this course, one step or component at a time.
 >
@@ -518,7 +509,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/api-testing-and-validation-22610641/create-your-first-feature-description?u=76281980&t=89)** First, you must start it with given, so our tools will recognize this as the context.
 >
-> **[1:34](https://www.linkedin.com/learning/api-testing-and-validation-22610641/create-your-first-feature-description?u=76281980&t=94)** Second, notice that I use the number 2 and not the word two.
+> **[1:34](https://www.linkedin.com/learning/api-testing-and-validation-22610641/create-your-first-feature-description?u=76281980&t=94)** Second, notice that I use the number 2 and not the [[Microsoft Word|word]] two.
 >
 > **[1:38](https://www.linkedin.com/learning/api-testing-and-validation-22610641/create-your-first-feature-description?u=76281980&t=98)** This is because our tools are smart enough to see a number as a variable, and we'll automatically interpret that as a parameter for the code behind the scenes.
 >
@@ -556,15 +547,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), [[Microsoft Word|Word]] (2), [[JSON]] (1), [[Programming]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[JSON]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** http (1), json (1)
 > **Prerequisites:** set up (1), setup (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Write your first test
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/write-your-first-test?u=76281980)
+#### [Write your first test](https://www.linkedin.com/learning/api-testing-and-validation-22610641/write-your-first-test?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -616,7 +606,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/api-testing-and-validation-22610641/write-your-first-test?u=76281980&t=142)** We're just adding this new group of monkeys to our previous group of monkeys and now we need to check to see how many monkeys we have.
 >
-> **[2:31](https://www.linkedin.com/learning/api-testing-and-validation-22610641/write-your-first-test?u=76281980&t=151)** So we can use a PHP function called assert and let's make sure our monkeyCount is equal to our line.
+> **[2:31](https://www.linkedin.com/learning/api-testing-and-validation-22610641/write-your-first-test?u=76281980&t=151)** So we can use a [[PHP]] function called assert and let's make sure our monkeyCount is equal to our line.
 >
 > **[2:43](https://www.linkedin.com/learning/api-testing-and-validation-22610641/write-your-first-test?u=76281980&t=163)** And then we should put a useful error message here.
 >
@@ -652,7 +642,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (5), [[PHP]] (1), api (1)
+> **Frameworks & Libraries:** [[PHP]] (1)
 > **CLI Commands:** make (4), php (1)
 > **Code Identifiers:** monkeycount (4)
 > **Cross-References:** go back to (4)
@@ -666,8 +656,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Make your first request
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/make-your-first-request?u=76281980)
+#### [Make your first request](https://www.linkedin.com/learning/api-testing-and-validation-22610641/make-your-first-request?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -685,7 +674,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/api-testing-and-validation-22610641/make-your-first-request?u=76281980&t=30)** And finally, we refactor one or both while running the test continuously.
 >
-> **[0:35](https://www.linkedin.com/learning/api-testing-and-validation-22610641/make-your-first-request?u=76281980&t=35)** Since we only want to confirm that we can successfully request data from GitHub, we're going to keep this as simple as possible, skipping authentication, authorization, testing read write access, and many other things.
+> **[0:35](https://www.linkedin.com/learning/api-testing-and-validation-22610641/make-your-first-request?u=76281980&t=35)** Since we only want to confirm that we can successfully request data from [[GitHub]], we're going to keep this as simple as possible, skipping authentication, authorization, testing read write access, and many other things.
 >
 > **[0:49](https://www.linkedin.com/learning/api-testing-and-validation-22610641/make-your-first-request?u=76281980&t=49)** Therefore, the easiest thing to test is to see if we can read the issues from a public repository.
 >
@@ -701,7 +690,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/api-testing-and-validation-22610641/make-your-first-request?u=76281980&t=79)** The feature writeup could use a little bit of work but we'll get to that later.
 >
-> **[1:23](https://www.linkedin.com/learning/api-testing-and-validation-22610641/make-your-first-request?u=76281980&t=83)** On the PHP side of things we run the same command that we did before, vendor bin behat.
+> **[1:23](https://www.linkedin.com/learning/api-testing-and-validation-22610641/make-your-first-request?u=76281980&t=83)** On the [[PHP]] side of things we run the same command that we did before, vendor bin behat.
 >
 > **[1:31](https://www.linkedin.com/learning/api-testing-and-validation-22610641/make-your-first-request?u=76281980&t=91)** This will generate the same sort of test that we saw before where our first scenario, establish my environment, continues to work.
 >
@@ -783,7 +772,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (5), api (3), feature (3), data (1), [[PHP]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (5), [[PHP]] (1)
 > **Tools:** github (5), command line (3)
 > **CLI Commands:** make (4), find (1), php (1)
 > **Env Vars:** api (3), php (1)
@@ -792,8 +781,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Analogies:** just like (1)
 
-#### Introduce variables in requests
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/introduce-variables-in-requests?u=76281980)
+#### [Introduce variables in requests](https://www.linkedin.com/learning/api-testing-and-validation-22610641/introduce-variables-in-requests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -839,7 +827,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/api-testing-and-validation-22610641/introduce-variables-in-requests?u=76281980&t=82)** So that's not the important part.
 >
-> **[1:24](https://www.linkedin.com/learning/api-testing-and-validation-22610641/introduce-variables-in-requests?u=76281980&t=84)** But now let's jump into the test behind the scenes on the PHP side of things, we run our normal command And you can see this time it did stop once it hit our second well technically our third test here and we generated a new missing undefined function notice.
+> **[1:24](https://www.linkedin.com/learning/api-testing-and-validation-22610641/introduce-variables-in-requests?u=76281980&t=84)** But now let's jump into the test behind the scenes on the [[PHP]] side of things, we run our normal command And you can see this time it did stop once it hit our second well technically our third test here and we generated a new missing undefined function notice.
 >
 > **[1:46](https://www.linkedin.com/learning/api-testing-and-validation-22610641/introduce-variables-in-requests?u=76281980&t=106)** So we can go ahead and automatically generate that and we copy and paste that function back into our class just like we had before.
 >
@@ -871,7 +859,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (1), hit (1), api (1)
+> **Frameworks & Libraries:** [[PHP]] (1)
 > **CLI Commands:** make (4), php (1)
 > **Analogies:** just like (2), imagine (1)
 > **Env Vars:** php (1), api (1)
@@ -879,8 +867,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Validate responses
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/validate-responses-18993807?u=76281980)
+#### [Validate responses](https://www.linkedin.com/learning/api-testing-and-validation-22610641/validate-responses-18993807?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -898,7 +885,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/api-testing-and-validation-22610641/validate-responses-18993807?u=76281980&t=31)** Instead, let's think about what's happening behind the scenes.
 >
-> **[0:34](https://www.linkedin.com/learning/api-testing-and-validation-22610641/validate-responses-18993807?u=76281980&t=34)** And the line that begins when I request a list of issues, our app is using some sort of HTTP connection, connecting to GitHub, and requesting issues from a repository.
+> **[0:34](https://www.linkedin.com/learning/api-testing-and-validation-22610641/validate-responses-18993807?u=76281980&t=34)** And the line that begins when I request a list of issues, our app is using some sort of HTTP connection, connecting to [[GitHub]], and requesting issues from a repository.
 >
 > **[0:46](https://www.linkedin.com/learning/api-testing-and-validation-22610641/validate-responses-18993807?u=76281980&t=46)** What if we had a typo, and instead of pointing at a valid user, valid repository, we point an invalid one?
 >
@@ -948,7 +935,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), [[GitHub]] (2)
+> **Frameworks & Libraries:** [[GitHub]] (2)
 > **CLI Commands:** make (5)
 > **Env Vars:** http (3)
 > **Code Identifiers:** statuscode (2)
@@ -961,8 +948,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Expand your testing environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/expand-your-testing-environment?u=76281980)
+#### [Expand your testing environment](https://www.linkedin.com/learning/api-testing-and-validation-22610641/expand-your-testing-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1004,7 +990,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/api-testing-and-validation-22610641/expand-your-testing-environment?u=76281980&t=74)** Now, let's try it out.
 >
-> **[1:16](https://www.linkedin.com/learning/api-testing-and-validation-22610641/expand-your-testing-environment?u=76281980&t=76)** On the PHP side of things, I've included in a file called behat.dist.yml.
+> **[1:16](https://www.linkedin.com/learning/api-testing-and-validation-22610641/expand-your-testing-environment?u=76281980&t=76)** On the [[PHP]] side of things, I've included in a file called behat.dist.yml.
 >
 > **[1:21](https://www.linkedin.com/learning/api-testing-and-validation-22610641/expand-your-testing-environment?u=76281980&t=81)** It's available right here in your directory.
 >
@@ -1014,11 +1000,11 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/api-testing-and-validation-22610641/expand-your-testing-environment?u=76281980&t=89)** This is where we're going to put our credential in just a moment.
 >
-> **[1:33](https://www.linkedin.com/learning/api-testing-and-validation-22610641/expand-your-testing-environment?u=76281980&t=93)** Now we need to go over to [github.com](https://github.com) to get that credential.
+> **[1:33](https://www.linkedin.com/learning/api-testing-and-validation-22610641/expand-your-testing-environment?u=76281980&t=93)** Now we need to go over to [[[GitHub]].com](https://github.com) to get that credential.
 >
 > **[1:36](https://www.linkedin.com/learning/api-testing-and-validation-22610641/expand-your-testing-environment?u=76281980&t=96)** When you visit GitHub, I've included the link to go to in your behat.dist.yml file.
 >
-> **[1:42](https://www.linkedin.com/learning/api-testing-and-validation-22610641/expand-your-testing-environment?u=76281980&t=102)** But if you want to navigate it to it directly, you can go to your Profile, Settings, all the way down on the left-hand side, Developer Settings, Personal Access Token, Fine-grained Tokens.
+> **[1:42](https://www.linkedin.com/learning/api-testing-and-validation-22610641/expand-your-testing-environment?u=76281980&t=102)** But if you want to navigate it to it directly, you can go to your Profile, Settings, all the way down on the left-hand side, Developer Settings, Personal Access Token, Fine-grained [[Tokens]].
 >
 > **[1:56](https://www.linkedin.com/learning/api-testing-and-validation-22610641/expand-your-testing-environment?u=76281980&t=116)** Now, unfortunately, these permissions, these authorizations that we're going to set up here is one of the hardest things in this course.
 >
@@ -1084,7 +1070,7 @@ created: 2026-05-02
 >
 > **[4:29](https://www.linkedin.com/learning/api-testing-and-validation-22610641/expand-your-testing-environment?u=76281980&t=269)** In fact, if we want to see exactly what it looks like, if you've properly configured your access token this is what it'll look like after.
 >
-> **[4:39](https://www.linkedin.com/learning/api-testing-and-validation-22610641/expand-your-testing-environment?u=76281980&t=279)** These are the user permissions and the repository permissions we'll need for the rest of this course.
+> **[4:39](https://www.linkedin.com/learning/api-testing-and-validation-22610641/expand-your-testing-environment?u=76281980&t=279)** These are the user permissions and the repository permissions we'll need for the [[Representational State Transfer (REST)|rest]] of this course.
 >
 > **[4:44](https://www.linkedin.com/learning/api-testing-and-validation-22610641/expand-your-testing-environment?u=76281980&t=284)** Now, the permissions here are very simple.
 >
@@ -1102,7 +1088,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (6), [[GitHub]] (6), data (2), [[PHP]] (2), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (6), [[PHP]] (2), [[Tokens]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (6), php (1)
 > **CLI Commands:** make (4), php (2)
 > **Tools:** github (6)
@@ -1111,8 +1097,7 @@ created: 2026-05-02
 > **URLs:** [github.com](https://github.com) (1)
 > **UI Navigation:** go to (1)
 
-#### Making an authenticated request
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/making-an-authenticated-request?u=76281980)
+#### [Making an authenticated request](https://www.linkedin.com/learning/api-testing-and-validation-22610641/making-an-authenticated-request?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1138,7 +1123,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/api-testing-and-validation-22610641/making-an-authenticated-request?u=76281980&t=45)** Now that we know our goal, let's go ahead and dive in.
 >
-> **[0:48](https://www.linkedin.com/learning/api-testing-and-validation-22610641/making-an-authenticated-request?u=76281980&t=48)** Before we implement this test, let's go back to our GitHub account and make sure this could pass.
+> **[0:48](https://www.linkedin.com/learning/api-testing-and-validation-22610641/making-an-authenticated-request?u=76281980&t=48)** Before we implement this test, let's go back to our [[GitHub]] account and make sure this could pass.
 >
 > **[0:53](https://www.linkedin.com/learning/api-testing-and-validation-22610641/making-an-authenticated-request?u=76281980&t=53)** So within GitHub, we go ahead and come over to our repository list.
 >
@@ -1292,13 +1277,13 @@ created: 2026-05-02
 >
 > **[6:44](https://www.linkedin.com/learning/api-testing-and-validation-22610641/making-an-authenticated-request?u=76281980&t=404)** We proved that we could authenticate with our API test by retrieving information that an anonymous user couldn't access.
 >
-> **[6:51](https://www.linkedin.com/learning/api-testing-and-validation-22610641/making-an-authenticated-request?u=76281980&t=411)** That's a huge accomplishment and a fundamental part of API testing.
+> **[6:51](https://www.linkedin.com/learning/api-testing-and-validation-22610641/making-an-authenticated-request?u=76281980&t=411)** That's a huge accomplishment and a fundamental part of [[API Testing]].
 >
 > **[6:55](https://www.linkedin.com/learning/api-testing-and-validation-22610641/making-an-authenticated-request?u=76281980&t=415)** So in the next lesson, let's go ahead and take the next step and write to our API.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (6), [[GitHub]] (5), next (3), feature (1)
+> **Frameworks & Libraries:** [[GitHub]] (5), [[API Testing]] (1)
 > **CLI Commands:** make (7), find (3)
 > **Tools:** github (5), command line (5)
 > **Cross-References:** go back to (5), in the last (1), in the next (1)
@@ -1307,8 +1292,7 @@ created: 2026-05-02
 > **Code Identifiers:** iamanauthenticateduser (1), irequestalistofmyrepositories (1)
 > **Documentation:** spec (1)
 
-#### Changing your API and target via your requests
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/changing-your-api-and-target-via-your-requests?u=76281980)
+#### [Changing your API and target via your requests](https://www.linkedin.com/learning/api-testing-and-validation-22610641/changing-your-api-and-target-via-your-requests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1362,7 +1346,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/api-testing-and-validation-22610641/changing-your-api-and-target-via-your-requests?u=76281980&t=129)** Now we need to go ahead and implement this function just as we have before.
 >
-> **[2:14](https://www.linkedin.com/learning/api-testing-and-validation-22610641/changing-your-api-and-target-via-your-requests?u=76281980&t=134)** So let's do GitHub user equals, we'll say this, we'll use the client that we've been using all along.
+> **[2:14](https://www.linkedin.com/learning/api-testing-and-validation-22610641/changing-your-api-and-target-via-your-requests?u=76281980&t=134)** So let's do [[GitHub]] user equals, we'll say this, we'll use the client that we've been using all along.
 >
 > **[2:22](https://www.linkedin.com/learning/api-testing-and-validation-22610641/changing-your-api-and-target-via-your-requests?u=76281980&t=142)** We'll use the API under the current user context, and we'll get the information of that user.
 >
@@ -1454,7 +1438,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (11), [[GitHub]] (8), hit (2), next (2), data (1)
+> **Frameworks & Libraries:** [[GitHub]] (8)
 > **Env Vars:** api (11)
 > **Tools:** github (8), command line (2)
 > **CLI Commands:** make (4), find (1)
@@ -1463,8 +1447,7 @@ created: 2026-05-02
 > **Warnings:** be careful (2)
 > **Definitions:** is a  (1)
 
-#### Validate responses
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/validate-responses?u=76281980)
+#### [Validate responses](https://www.linkedin.com/learning/api-testing-and-validation-22610641/validate-responses?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1544,7 +1527,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/api-testing-and-validation-22610641/validate-responses?u=76281980&t=150)** In fact, we should change this error message, because right now it's not correct.
 >
-> **[2:35](https://www.linkedin.com/learning/api-testing-and-validation-22610641/validate-responses?u=76281980&t=155)** So expected GitHub user to not be a stargazer, but they were.
+> **[2:35](https://www.linkedin.com/learning/api-testing-and-validation-22610641/validate-responses?u=76281980&t=155)** So expected [[GitHub]] user to not be a stargazer, but they were.
 >
 > **[2:44](https://www.linkedin.com/learning/api-testing-and-validation-22610641/validate-responses?u=76281980&t=164)** Now, if you don't remember to update that, you're going to get a really odd error message.
 >
@@ -1578,7 +1561,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (3), next (2), feature (1)
+> **Frameworks & Libraries:** [[GitHub]] (3)
 > **Tools:** github (3), command line (2)
 > **Cross-References:** go back to (2), in the next (1), in the last (1)
 > **CLI Commands:** make (2)
@@ -1587,8 +1570,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 
-#### Refactor the tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/refactor-the-tests?u=76281980)
+#### [Refactor the tests](https://www.linkedin.com/learning/api-testing-and-validation-22610641/refactor-the-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1644,7 +1626,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/api-testing-and-validation-22610641/refactor-the-tests?u=76281980&t=116)** for that particular repository on that particular user.
 >
-> **[2:00](https://www.linkedin.com/learning/api-testing-and-validation-22610641/refactor-the-tests?u=76281980&t=120)** Then we're going to use a little bit of PHP trickery here to simplify some of our logic.
+> **[2:00](https://www.linkedin.com/learning/api-testing-and-validation-22610641/refactor-the-tests?u=76281980&t=120)** Then we're going to use a little bit of [[PHP]] trickery here to simplify some of our logic.
 >
 > **[2:06](https://www.linkedin.com/learning/api-testing-and-validation-22610641/refactor-the-tests?u=76281980&t=126)** So we'll use, create a new stargazers array and we'll use the array column function.
 >
@@ -1670,7 +1652,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/api-testing-and-validation-22610641/refactor-the-tests?u=76281980&t=196)** 'cause remember in this particular function we're checking to see if we've been removed as a stargazer, so the error is if we haven't been removed.
 >
-> **[3:24](https://www.linkedin.com/learning/api-testing-and-validation-22610641/refactor-the-tests?u=76281980&t=204)** So check our GitHub user for that particular repository.
+> **[3:24](https://www.linkedin.com/learning/api-testing-and-validation-22610641/refactor-the-tests?u=76281980&t=204)** So check our [[GitHub]] user for that particular repository.
 >
 > **[3:30](https://www.linkedin.com/learning/api-testing-and-validation-22610641/refactor-the-tests?u=76281980&t=210)** And if we find a match, we'll throw in exception.
 >
@@ -1742,7 +1724,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (1), hit (1), [[PHP]] (1), [[GitHub]] (1), next (1)
+> **Frameworks & Libraries:** [[PHP]] (1), [[GitHub]] (1)
 > **CLI Commands:** make (3), php (1), find (1)
 > **Cross-References:** go back to (3), next chapter (1)
 > **Code Identifiers:** myrepositorywilllistmeasastargazer (1), myrepositorywillnotlistmeasastargazer (1), isastargazer (1)
@@ -1756,8 +1738,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Writing to the API
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/writing-to-the-api?u=76281980)
+#### [Writing to the API](https://www.linkedin.com/learning/api-testing-and-validation-22610641/writing-to-the-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1797,7 +1778,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/api-testing-and-validation-22610641/writing-to-the-api?u=76281980&t=71)** We run the exact same command that we've run a number of times.
 >
-> **[1:14](https://www.linkedin.com/learning/api-testing-and-validation-22610641/writing-to-the-api?u=76281980&t=74)** And by the way, if you get an error that says resource non-accessible by personal access token, go back to the first lesson, the previous chapter to get your GitHub access token set up correctly.
+> **[1:14](https://www.linkedin.com/learning/api-testing-and-validation-22610641/writing-to-the-api?u=76281980&t=74)** And by the way, if you get an error that says resource non-accessible by personal access token, go back to the first lesson, the previous chapter to get your [[GitHub]] access token set up correctly.
 >
 > **[1:25](https://www.linkedin.com/learning/api-testing-and-validation-22610641/writing-to-the-api?u=76281980&t=85)** So just as before, Bhat detected that this function didn't exist and generated a template for us.
 >
@@ -1835,7 +1816,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/api-testing-and-validation-22610641/writing-to-the-api?u=76281980&t=177)** Then we want to provide a sample URL.
 >
-> **[2:58](https://www.linkedin.com/learning/api-testing-and-validation-22610641/writing-to-the-api?u=76281980&t=178)** So we'll say [http://linkedin.com](http://linkedin.com).
+> **[2:58](https://www.linkedin.com/learning/api-testing-and-validation-22610641/writing-to-the-api?u=76281980&t=178)** So we'll say [http://[[LinkedIn]].com](http://linkedin.com).
 >
 > **[3:07](https://www.linkedin.com/learning/api-testing-and-validation-22610641/writing-to-the-api?u=76281980&t=187)** We need one parameter of true.
 >
@@ -1907,7 +1888,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (4), api (3), feature (2), next (2), hit (1)
+> **Frameworks & Libraries:** [[GitHub]] (4), [[LinkedIn]] (1)
 > **Tools:** command line (4), github (4)
 > **Env Vars:** api (3), bdd (1), url (1)
 > **Cross-References:** go back to (4), previous chapter (1)
@@ -1916,12 +1897,11 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Code Identifiers:** statuscode (1)
 
-#### Establishing a system state for tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/establishing-a-system-state-for-tests?u=76281980)
+#### [Establishing a system state for tests](https://www.linkedin.com/learning/api-testing-and-validation-22610641/establishing-a-system-state-for-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/api-testing-and-validation-22610641/establishing-a-system-state-for-tests?u=76281980&t=0)** - [Instructor] In the last lesson, we not only changed the underlying state of the system, or specifically our GitHub account but we left our system in a state where running the test again will fail unless we manually go in and delete the repository ourselves.
+> **[0:00](https://www.linkedin.com/learning/api-testing-and-validation-22610641/establishing-a-system-state-for-tests?u=76281980&t=0)** - [Instructor] In the last lesson, we not only changed the underlying state of the system, or specifically our [[GitHub]] account but we left our system in a state where running the test again will fail unless we manually go in and delete the repository ourselves.
 >
 > **[0:13](https://www.linkedin.com/learning/api-testing-and-validation-22610641/establishing-a-system-state-for-tests?u=76281980&t=13)** That's no good.
 >
@@ -2089,7 +2069,7 @@ created: 2026-05-02
 >
 > **[6:26](https://www.linkedin.com/learning/api-testing-and-validation-22610641/establishing-a-system-state-for-tests?u=76281980&t=386)** I'd recommend a new method, have that one called Repository Exists that takes two input parameters.
 >
-> **[6:33](https://www.linkedin.com/learning/api-testing-and-validation-22610641/establishing-a-system-state-for-tests?u=76281980&t=393)** I'll leave it to you to figure out the rest of the details.
+> **[6:33](https://www.linkedin.com/learning/api-testing-and-validation-22610641/establishing-a-system-state-for-tests?u=76281980&t=393)** I'll leave it to you to figure out the [[Representational State Transfer (REST)|rest]] of the details.
 >
 > **[6:35](https://www.linkedin.com/learning/api-testing-and-validation-22610641/establishing-a-system-state-for-tests?u=76281980&t=395)** If you need inspiration, check out our previous is a Stargazer method for a little bit of detail and some thought process around that.
 >
@@ -2097,7 +2077,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (4), feature (1), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[GitHub]] (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (4), make (3)
 > **Tools:** github (4), command line (3)
 > **UI Navigation:** go to (3)
@@ -2106,8 +2086,7 @@ created: 2026-05-02
 > **Analogies:** just like (2)
 > **Definitions:** is a  (1)
 
-#### Solution: Validating system state
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/solution-validating-system-state?u=76281980)
+#### [Solution: Validating system state](https://www.linkedin.com/learning/api-testing-and-validation-22610641/solution-validating-system-state?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2157,7 +2136,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/api-testing-and-validation-22610641/solution-validating-system-state?u=76281980&t=127)** We'll go ahead and make sure we've got some curly braces there and we'll drop this into the body of that method
 >
-> **[2:19](https://www.linkedin.com/learning/api-testing-and-validation-22610641/solution-validating-system-state?u=76281980&t=139)** and we can delete the rest of this function.
+> **[2:19](https://www.linkedin.com/learning/api-testing-and-validation-22610641/solution-validating-system-state?u=76281980&t=139)** and we can delete the [[Representational State Transfer (REST)|rest]] of this function.
 >
 > **[2:23](https://www.linkedin.com/learning/api-testing-and-validation-22610641/solution-validating-system-state?u=76281980&t=143)** And now we'll do the exact same thing for the results, should include a repository named function.
 >
@@ -2195,7 +2174,7 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/api-testing-and-validation-22610641/solution-validating-system-state?u=76281980&t=252)** Now, there are other numerous places we may want to refactor right now.
 >
-> **[4:16](https://www.linkedin.com/learning/api-testing-and-validation-22610641/solution-validating-system-state?u=76281980&t=256)** For example, every place we have the word "me" or "mine," or method names.
+> **[4:16](https://www.linkedin.com/learning/api-testing-and-validation-22610641/solution-validating-system-state?u=76281980&t=256)** For example, every place we have the [[Microsoft Word|word]] "me" or "mine," or method names.
 >
 > **[4:20](https://www.linkedin.com/learning/api-testing-and-validation-22610641/solution-validating-system-state?u=76281980&t=260)** Odds are you want to replace those with a more generic user you can specify in a feature description.
 >
@@ -2203,7 +2182,7 @@ created: 2026-05-02
 >
 > **[4:27](https://www.linkedin.com/learning/api-testing-and-validation-22610641/solution-validating-system-state?u=76281980&t=267)** It's important to remember that as you build these tests and use the API, you can only act as yourself.
 >
-> **[4:33](https://www.linkedin.com/learning/api-testing-and-validation-22610641/solution-validating-system-state?u=76281980&t=273)** After all, your GitHub token is tied to your account.
+> **[4:33](https://www.linkedin.com/learning/api-testing-and-validation-22610641/solution-validating-system-state?u=76281980&t=273)** After all, your [[GitHub]] token is tied to your account.
 >
 > **[4:36](https://www.linkedin.com/learning/api-testing-and-validation-22610641/solution-validating-system-state?u=76281980&t=276)** If you abstract out the user, it may make the function more reusable for other tests, or it may just require you to pass in more information for each of those tests.
 >
@@ -2211,7 +2190,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1), generic (1), feature (1), api (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1), [[GitHub]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Cross-References:** go back to (2), in the next (1)
 > **Tools:** command line (1), github (1)
@@ -2220,8 +2199,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Handling response codes
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/handling-response-codes?u=76281980)
+#### [Handling response codes](https://www.linkedin.com/learning/api-testing-and-validation-22610641/handling-response-codes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2337,14 +2315,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using extensions
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/using-extensions?u=76281980)
+#### [Using extensions](https://www.linkedin.com/learning/api-testing-and-validation-22610641/using-extensions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/api-testing-and-validation-22610641/using-extensions?u=76281980&t=0)** - Now that we understand the basics of Behat, there are a ton of directions we can go.
 >
-> **[0:04](https://www.linkedin.com/learning/api-testing-and-validation-22610641/using-extensions?u=76281980&t=4)** If we want to stay with Behat within the PHP ecosystem, we can use extensions to build arrays and loop through requests and compare collections of data coming back.
+> **[0:04](https://www.linkedin.com/learning/api-testing-and-validation-22610641/using-extensions?u=76281980&t=4)** If we want to stay with Behat within the [[PHP]] ecosystem, we can use extensions to build arrays and loop through requests and compare collections of data coming back.
 >
 > **[0:14](https://www.linkedin.com/learning/api-testing-and-validation-22610641/using-extensions?u=76281980&t=14)** It's probably something we'd only want to use for batch operations, but it's useful nonetheless.
 >
@@ -2352,15 +2329,15 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/api-testing-and-validation-22610641/using-extensions?u=76281980&t=22)** On the internal side, we can tightly integrate with the PHP frameworks we're using, while on the external side, we can extend to use specific websites and APIs more easily.
 >
-> **[0:31](https://www.linkedin.com/learning/api-testing-and-validation-22610641/using-extensions?u=76281980&t=31)** Check out their GitHub page for more details and projects.
+> **[0:31](https://www.linkedin.com/learning/api-testing-and-validation-22610641/using-extensions?u=76281980&t=31)** Check out their [[GitHub]] page for more details and projects.
 >
 > **[0:34](https://www.linkedin.com/learning/api-testing-and-validation-22610641/using-extensions?u=76281980&t=34)** But more importantly, while we've been using Behat, remember that underneath those tools, we're using Gherkin to do behavioral testing of the API.
 >
-> **[0:42](https://www.linkedin.com/learning/api-testing-and-validation-22610641/using-extensions?u=76281980&t=42)** Gherkin is supported in numerous languages and use cases, so you can use it internally, like for unit testing, or externally, as we've done.
+> **[0:42](https://www.linkedin.com/learning/api-testing-and-validation-22610641/using-extensions?u=76281980&t=42)** Gherkin is supported in numerous languages and use cases, so you can use it internally, like for [[Unit Testing]], or externally, as we've done.
 >
-> **[0:50](https://www.linkedin.com/learning/api-testing-and-validation-22610641/using-extensions?u=76281980&t=50)** One of the most powerful areas are the JavaScript extensions that test our UI.
+> **[0:50](https://www.linkedin.com/learning/api-testing-and-validation-22610641/using-extensions?u=76281980&t=50)** One of the most powerful areas are the [[JavaScript]] extensions that test our UI.
 >
-> **[0:54](https://www.linkedin.com/learning/api-testing-and-validation-22610641/using-extensions?u=76281980&t=54)** Just like we pulled individual fields out of our JSON payloads, you can use those extensions to retrieve individual elements out of your HTML DOM.
+> **[0:54](https://www.linkedin.com/learning/api-testing-and-validation-22610641/using-extensions?u=76281980&t=54)** Just like we pulled individual fields out of our [[JSON]] payloads, you can use those extensions to retrieve individual elements out of your [[HTML]] DOM.
 >
 > **[1:02](https://www.linkedin.com/learning/api-testing-and-validation-22610641/using-extensions?u=76281980&t=62)** If you can describe an activity in specific, concrete steps, you can probably test it.
 >
@@ -2374,7 +2351,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/api-testing-and-validation-22610641/using-extensions?u=76281980&t=87)** Turns out, we don't have to guess.
 >
-> **[1:29](https://www.linkedin.com/learning/api-testing-and-validation-22610641/using-extensions?u=76281980&t=89)** We can take our existing feature files and bring them to another language, Ruby, Python, or Java, and see what capabilities our libraries wouldn't have to support.
+> **[1:29](https://www.linkedin.com/learning/api-testing-and-validation-22610641/using-extensions?u=76281980&t=89)** We can take our existing feature files and bring them to another language, Ruby, [[Python (Programming Language)|Python]], or [[Java]], and see what capabilities our libraries wouldn't have to support.
 >
 > **[1:38](https://www.linkedin.com/learning/api-testing-and-validation-22610641/using-extensions?u=76281980&t=98)** We'd run the test command, see which of our methods failed, and start building them step by step, just as we've done so far.
 >
@@ -2388,23 +2365,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (3), [[GitHub]] (3), data (1), api (1), [[Unit Testing]] (1)
+> **Frameworks & Libraries:** [[PHP]] (3), [[GitHub]] (3), [[Unit Testing]] (1), [[JavaScript]] (1), [[JSON]] (1)
 > **Env Vars:** php (3), sdk (2), api (1), json (1), html (1)
 > **CLI Commands:** php (3), ruby (1), python (1)
 > **Tools:** github (3)
 > **Analogies:** just like (1), imagine (1)
 > **Speakers:** - now (1)
 
-#### Starting with GraphQL testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/starting-with-graphql-testing?u=76281980)
+#### [Starting with GraphQL testing](https://www.linkedin.com/learning/api-testing-and-validation-22610641/starting-with-graphql-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/api-testing-and-validation-22610641/starting-with-graphql-testing?u=76281980&t=0)** - [Instructor] So far in this course, we've tested pretty straightforward REST-style patterns.
+> **[0:00](https://www.linkedin.com/learning/api-testing-and-validation-22610641/starting-with-graphql-testing?u=76281980&t=0)** - [Instructor] So far in this course, we've tested pretty straightforward [[Representational State Transfer (REST)|REST]]-style patterns.
 >
-> **[0:04](https://www.linkedin.com/learning/api-testing-and-validation-22610641/starting-with-graphql-testing?u=76281980&t=4)** These are great and will take us a long way with most APIs, but there's another pattern that we need to tackle, GraphQL.
+> **[0:04](https://www.linkedin.com/learning/api-testing-and-validation-22610641/starting-with-graphql-testing?u=76281980&t=4)** These are great and will take us a long way with most APIs, but there's another pattern that we need to tackle, [[GraphQL]].
 >
-> **[0:11](https://www.linkedin.com/learning/api-testing-and-validation-22610641/starting-with-graphql-testing?u=76281980&t=11)** Now, personally, I'm not a fan of GraphQL because while it gives us full data structures with fewer requests, all of which are great, by the way, it also gives us a variable response format all coming from a single endpoint.
+> **[0:11](https://www.linkedin.com/learning/api-testing-and-validation-22610641/starting-with-graphql-testing?u=76281980&t=11)** Now, personally, I'm not a fan of GraphQL because while it gives us full [[Data Structures]] with fewer requests, all of which are great, by the way, it also gives us a variable response format all coming from a single endpoint.
 >
 > **[0:22](https://www.linkedin.com/learning/api-testing-and-validation-22610641/starting-with-graphql-testing?u=76281980&t=22)** Specifically, that means that every request goes to the same URL, but the response data structure will be variable based on the request parameters we gave it.
 >
@@ -2424,7 +2400,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/api-testing-and-validation-22610641/starting-with-graphql-testing?u=76281980&t=82)** Now, over in our IDE, we have to write the function, but the cool thing is with Visual Studio and a properly configured B hat library, it's going to handle some pieces for us.
 >
-> **[1:39](https://www.linkedin.com/learning/api-testing-and-validation-22610641/starting-with-graphql-testing?u=76281980&t=99)** In our IDE, we now need to write the function, but the cool thing is that with Visual Studio and our GitHub PHP library loaded, it suggests the function content for us.
+> **[1:39](https://www.linkedin.com/learning/api-testing-and-validation-22610641/starting-with-graphql-testing?u=76281980&t=99)** In our IDE, we now need to write the function, but the cool thing is that with Visual Studio and our [[GitHub]] [[PHP]] library loaded, it suggests the function content for us.
 >
 > **[1:49](https://www.linkedin.com/learning/api-testing-and-validation-22610641/starting-with-graphql-testing?u=76281980&t=109)** Pretty cool, except for one tweak.
 >
@@ -2446,7 +2422,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[GraphQL]] (4), [[Representational State Transfer (REST)|Rest]] (1), [[GitHub]] (1), [[PHP]] (1)
+> **Frameworks & Libraries:** [[GraphQL]] (4), [[Representational State Transfer (REST)|Rest]] (1), [[Data Structures]] (1), [[GitHub]] (1), [[PHP]] (1)
 > **CLI Commands:** make (4), php (1)
 > **Env Vars:** ide (2), rest (1), url (1), php (1)
 > **Tools:** visual studio (2), github (1)
@@ -2455,18 +2431,17 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Testing GraphQL mutations
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/testing-graphql-mutations?u=76281980)
+#### [Testing GraphQL mutations](https://www.linkedin.com/learning/api-testing-and-validation-22610641/testing-graphql-mutations?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/api-testing-and-validation-22610641/testing-graphql-mutations?u=76281980&t=0)** - [Speaker] Now that we know we can retrieve data, let's make sure we can modify it.
 >
-> **[0:04](https://www.linkedin.com/learning/api-testing-and-validation-22610641/testing-graphql-mutations?u=76281980&t=4)** In the GraphQL world, these are called mutations.
+> **[0:04](https://www.linkedin.com/learning/api-testing-and-validation-22610641/testing-graphql-mutations?u=76281980&t=4)** In the [[GraphQL]] world, these are called mutations.
 >
 > **[0:06](https://www.linkedin.com/learning/api-testing-and-validation-22610641/testing-graphql-mutations?u=76281980&t=6)** We retrieve an object, modify it in some way, and then we write it back to our API.
 >
-> **[0:11](https://www.linkedin.com/learning/api-testing-and-validation-22610641/testing-graphql-mutations?u=76281980&t=11)** For the GitHub API to form a mutation, we have to specify three things.
+> **[0:11](https://www.linkedin.com/learning/api-testing-and-validation-22610641/testing-graphql-mutations?u=76281980&t=11)** For the [[GitHub]] API to form a mutation, we have to specify three things.
 >
 > **[0:15](https://www.linkedin.com/learning/api-testing-and-validation-22610641/testing-graphql-mutations?u=76281980&t=15)** First, the mutation name.
 >
@@ -2476,7 +2451,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/api-testing-and-validation-22610641/testing-graphql-mutations?u=76281980&t=26)** Finally, the payload object or what you expect as a response.
 >
-> **[0:30](https://www.linkedin.com/learning/api-testing-and-validation-22610641/testing-graphql-mutations?u=76281980&t=30)** Since before we start a repository via the rest API, let's do it again, but in GraphQL.
+> **[0:30](https://www.linkedin.com/learning/api-testing-and-validation-22610641/testing-graphql-mutations?u=76281980&t=30)** Since before we start a repository via the [[Representational State Transfer (REST)|rest]] API, let's do it again, but in GraphQL.
 >
 > **[0:36](https://www.linkedin.com/learning/api-testing-and-validation-22610641/testing-graphql-mutations?u=76281980&t=36)** Once again, we start by copying the feature file from the earlier lesson that we had last time around.
 >
@@ -2486,7 +2461,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/api-testing-and-validation-22610641/testing-graphql-mutations?u=76281980&t=60)** So we can go ahead and we can grab this from the command line itself, and then we'll go over to our editor.
 >
-> **[1:09](https://www.linkedin.com/learning/api-testing-and-validation-22610641/testing-graphql-mutations?u=76281980&t=69)** And once again, with Visual Studio code in our GitHub PHP library loaded, it suggests the function content for us.
+> **[1:09](https://www.linkedin.com/learning/api-testing-and-validation-22610641/testing-graphql-mutations?u=76281980&t=69)** And once again, with Visual Studio code in our GitHub [[PHP]] library loaded, it suggests the function content for us.
 >
 > **[1:17](https://www.linkedin.com/learning/api-testing-and-validation-22610641/testing-graphql-mutations?u=76281980&t=77)** We just hit the little check box here and it goes ahead and accepts everything.
 >
@@ -2514,7 +2489,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (4), api (3), feature (3), [[GitHub]] (2), data (1)
+> **Frameworks & Libraries:** [[GraphQL]] (4), [[GitHub]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[PHP]] (1)
 > **Env Vars:** api (3), php (1)
 > **Tools:** github (2), visual studio (1), command line (1)
 > **CLI Commands:** make (2), php (1)
@@ -2528,8 +2503,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Mapping your API
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/mapping-your-api?u=76281980)
+#### [Mapping your API](https://www.linkedin.com/learning/api-testing-and-validation-22610641/mapping-your-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2537,7 +2511,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/api-testing-and-validation-22610641/mapping-your-api?u=76281980&t=10)** Those two scenarios are the best by far.
 >
-> **[0:12](https://www.linkedin.com/learning/api-testing-and-validation-22610641/mapping-your-api?u=76281980&t=12)** In fact, if you have one of those, you can skip the rest of this video and go onto the next one, and go directly to prioritizing your endpoints.
+> **[0:12](https://www.linkedin.com/learning/api-testing-and-validation-22610641/mapping-your-api?u=76281980&t=12)** In fact, if you have one of those, you can skip the [[Representational State Transfer (REST)|rest]] of this video and go onto the next one, and go directly to prioritizing your endpoints.
 >
 > **[0:19](https://www.linkedin.com/learning/api-testing-and-validation-22610641/mapping-your-api?u=76281980&t=19)** But for the rest of us, keep watching.
 >
@@ -2581,7 +2555,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/api-testing-and-validation-22610641/mapping-your-api?u=76281980&t=124)** Now we can review the endpoints and see which ones we use, and what data they actually take in return.
 >
-> **[2:09](https://www.linkedin.com/learning/api-testing-and-validation-22610641/mapping-your-api?u=76281980&t=129)** Alternatively, there is some magic you can work with DNS, IP address routing, and proxies that's well beyond the scope of this course.
+> **[2:09](https://www.linkedin.com/learning/api-testing-and-validation-22610641/mapping-your-api?u=76281980&t=129)** Alternatively, there is some magic you can work with DNS, IP address [[Routing]], and proxies that's well beyond the scope of this course.
 >
 > **[2:16](https://www.linkedin.com/learning/api-testing-and-validation-22610641/mapping-your-api?u=76281980&t=136)** But getting into the flow of the API requests gives you a huge amount of power and insight.
 >
@@ -2605,15 +2579,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (17), [[Representational State Transfer (REST)|Rest]] (2), next (2), [[Search]] (2), business (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Routing]] (1)
 > **Env Vars:** api (17), url (2), dns (1)
 > **CLI Commands:** find (1), make (1)
 > **Exercise Files:** source code (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Documenting your API
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/documenting-your-api?u=76281980)
+#### [Documenting your API](https://www.linkedin.com/learning/api-testing-and-validation-22610641/documenting-your-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2685,7 +2658,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), api (2), next (1)
 > **Env Vars:** post (4), api (2), url (2), put (1), delete (1)
 > **API Endpoints:** post  (3), get  (2), put  (1), delete  (1)
 > **Cross-References:** previous video (1), in the last (1)
@@ -2694,8 +2666,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prioritizing your endpoints
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/prioritizing-your-endpoints?u=76281980)
+#### [Prioritizing your endpoints](https://www.linkedin.com/learning/api-testing-and-validation-22610641/prioritizing-your-endpoints?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2753,14 +2724,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (5)
 > **Env Vars:** api (5)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Structuring your tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/structuring-your-tests?u=76281980)
+#### [Structuring your tests](https://www.linkedin.com/learning/api-testing-and-validation-22610641/structuring-your-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2774,7 +2743,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/api-testing-and-validation-22610641/structuring-your-tests?u=76281980&t=15)** The bad news is there's not a single right approach.
 >
-> **[0:17](https://www.linkedin.com/learning/api-testing-and-validation-22610641/structuring-your-tests?u=76281980&t=17)** What seems logical and predictable to you may not be for the rest of your team, or even to yourself when you come back to this project in six months.
+> **[0:17](https://www.linkedin.com/learning/api-testing-and-validation-22610641/structuring-your-tests?u=76281980&t=17)** What seems logical and predictable to you may not be for the [[Representational State Transfer (REST)|rest]] of your team, or even to yourself when you come back to this project in six months.
 >
 > **[0:26](https://www.linkedin.com/learning/api-testing-and-validation-22610641/structuring-your-tests?u=76281980&t=26)** Each BDD tool is a little bit different so if you depend on the tooling, it'll vary based on your specific tool, configuration, et cetera.
 >
@@ -2784,7 +2753,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/api-testing-and-validation-22610641/structuring-your-tests?u=76281980&t=43)** I lean towards what's called the single-responsibility principle.
 >
-> **[0:46](https://www.linkedin.com/learning/api-testing-and-validation-22610641/structuring-your-tests?u=76281980&t=46)** The single-responsibility principle, or SRP, comes from the object-oriented programming method.
+> **[0:46](https://www.linkedin.com/learning/api-testing-and-validation-22610641/structuring-your-tests?u=76281980&t=46)** The single-responsibility principle, or SRP, comes from the [[Object-Oriented Programming (OOP)|object-oriented programming]] method.
 >
 > **[0:51](https://www.linkedin.com/learning/api-testing-and-validation-22610641/structuring-your-tests?u=76281980&t=51)** It's the idea that every class covers one, and only one area of the system.
 >
@@ -2794,7 +2763,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/api-testing-and-validation-22610641/structuring-your-tests?u=76281980&t=64)** We need to do the same here.
 >
-> **[1:07](https://www.linkedin.com/learning/api-testing-and-validation-22610641/structuring-your-tests?u=76281980&t=67)** For example, for restructuring the GitHub API tests from this course, I'd likely separate my tests by the endpoints they cover.
+> **[1:07](https://www.linkedin.com/learning/api-testing-and-validation-22610641/structuring-your-tests?u=76281980&t=67)** For example, for restructuring the [[GitHub]] API tests from this course, I'd likely separate my tests by the endpoints they cover.
 >
 > **[1:15](https://www.linkedin.com/learning/api-testing-and-validation-22610641/structuring-your-tests?u=76281980&t=75)** There should be one set of tests for the repository endpoint, that includes reading, writing, editing, cleanup, whatever.
 >
@@ -2828,15 +2797,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2), [[GitHub]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **Env Vars:** api (2), srp (2), bdd (1)
 > **Tools:** github (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generating your tests from OpenAPI
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/generating-your-tests-from-openapi?u=76281980)
+#### [Generating your tests from OpenAPI](https://www.linkedin.com/learning/api-testing-and-validation-22610641/generating-your-tests-from-openapi?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2846,7 +2814,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/api-testing-and-validation-22610641/generating-your-tests-from-openapi?u=76281980&t=7)** No, the hardest point is the sheer number of different tests you may need.
 >
-> **[0:11](https://www.linkedin.com/learning/api-testing-and-validation-22610641/generating-your-tests-from-openapi?u=76281980&t=11)** Remember in a rest API, for every resource you could have a get, put, post and delete.
+> **[0:11](https://www.linkedin.com/learning/api-testing-and-validation-22610641/generating-your-tests-from-openapi?u=76281980&t=11)** Remember in a [[Representational State Transfer (REST)|rest]] API, for every resource you could have a get, put, post and delete.
 >
 > **[0:17](https://www.linkedin.com/learning/api-testing-and-validation-22610641/generating-your-tests-from-openapi?u=76281980&t=17)** Then when you go deeper into collections, you can have filters, pagination, and even complex query structures, including numerous parameters and even different ranges for those parameters.
 >
@@ -2856,7 +2824,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/api-testing-and-validation-22610641/generating-your-tests-from-openapi?u=76281980&t=35)** Either way, in order to get better coverage of our API, we need to operate with both speed and scale.
 >
-> **[0:42](https://www.linkedin.com/learning/api-testing-and-validation-22610641/generating-your-tests-from-openapi?u=76281980&t=42)** In that case, I start to lean on generative AI.
+> **[0:42](https://www.linkedin.com/learning/api-testing-and-validation-22610641/generating-your-tests-from-openapi?u=76281980&t=42)** In that case, I start to lean on [[Generative AI]].
 >
 > **[0:44](https://www.linkedin.com/learning/api-testing-and-validation-22610641/generating-your-tests-from-openapi?u=76281980&t=44)** In my course creating better SDKs with Generative AI, I go into it in detail, but let's get some of the basics out of the way here.
 >
@@ -2916,15 +2884,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (12), [[Generative AI]] (5), [[Representational State Transfer (REST)|Rest]] (1), ai (1)
+> **Frameworks & Libraries:** [[Generative AI]] (5), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (12), bdd (2)
 > **Documentation:** spec (4)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Refining your BDD tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/refining-your-bdd-tests?u=76281980)
+#### [Refining your BDD tests](https://www.linkedin.com/learning/api-testing-and-validation-22610641/refining-your-bdd-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2976,7 +2943,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2985,8 +2951,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/api-testing-and-validation-22610641/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2996,7 +2961,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/api-testing-and-validation-22610641/next-steps?u=76281980&t=3)** So I'll close this out with a few tips and ideas for you to explore.
 >
-> **[0:07](https://www.linkedin.com/learning/api-testing-and-validation-22610641/next-steps?u=76281980&t=7)** First, while this course has pushed the idea of testing your API, remember that we tested against GitHub.
+> **[0:07](https://www.linkedin.com/learning/api-testing-and-validation-22610641/next-steps?u=76281980&t=7)** First, while this course has pushed the idea of testing your API, remember that we tested against [[GitHub]].
 >
 > **[0:13](https://www.linkedin.com/learning/api-testing-and-validation-22610641/next-steps?u=76281980&t=13)** That means you can test any API.
 >
@@ -3004,7 +2969,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/api-testing-and-validation-22610641/next-steps?u=76281980&t=21)** After all, something is going wrong in your app, it's great to know where the problem is and isn't.
 >
-> **[0:27](https://www.linkedin.com/learning/api-testing-and-validation-22610641/next-steps?u=76281980&t=27)** Next, as you write test, remember that you'll discover better ways of doing things, that's the nature of software development.
+> **[0:27](https://www.linkedin.com/learning/api-testing-and-validation-22610641/next-steps?u=76281980&t=27)** Next, as you write test, remember that you'll discover better ways of doing things, that's the nature of [[Software Development]].
 >
 > **[0:32](https://www.linkedin.com/learning/api-testing-and-validation-22610641/next-steps?u=76281980&t=32)** When you figure out a better approach, don't hesitate to refactor and improve your approach.
 >
@@ -3020,7 +2985,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/api-testing-and-validation-22610641/next-steps?u=76281980&t=56)** While I co-authored a book on API design, I'm proud to say my co-author has since gone on and published as a part of the Addison Wesley signature series along such writers of Martin Fowler and many others.
 >
-> **[1:07](https://www.linkedin.com/learning/api-testing-and-validation-22610641/next-steps?u=76281980&t=67)** And finally, check out Nordic APIs and the Postman blog for great articles on API testing, security and best practices in general.
+> **[1:07](https://www.linkedin.com/learning/api-testing-and-validation-22610641/next-steps?u=76281980&t=67)** And finally, check out Nordic APIs and the Postman blog for great articles on [[API Testing]], security and best practices in general.
 >
 > **[1:15](https://www.linkedin.com/learning/api-testing-and-validation-22610641/next-steps?u=76281980&t=75)** Finally, remember to enjoy this.
 >
@@ -3030,7 +2995,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (6), next (2), [[GitHub]] (1), [[Software Development]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[Software Development]] (1), [[API Testing]] (1)
 > **Env Vars:** api (6)
 > **Tools:** github (1), postman (1)
 > **Best Practices:** remember to (2)

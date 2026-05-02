@@ -90,25 +90,25 @@ created: 2026-05-02
 > 57. [[Securing ASP.NET Core Apps- Advanced Techniques for Web Application Security]] — 2 mentions
 > 58. [[Outlook Essential Training (Microsoft 365)]] — 2 mentions
 > 59. [[Network Forensics]] — 2 mentions
-> 60. [[Threat Modeling- Spoofing In Depth]] — 2 mentions
-> 61. [[Cisco Network Security- Secure Access]] — 2 mentions
-> 62. [[Semantic Search and Information Retrieval using GenAI]] — 2 mentions
-> 63. [[Privacy in the New World of Work]] — 2 mentions
-> 64. [[OWASP Top 10- -9 Security Logging and Monitoring Failures and -10 Server-Side Request Forgery]] — 2 mentions
-> 65. [[AI Product Security- Secure Architecture, Deployment, and Infrastructure]] — 1 mentions
-> 66. [[Cybersecurity Careers- Become an Identity and Access Management Manager]] — 1 mentions
-> 67. [[Outlook on the Web Essential Training]] — 1 mentions
-> 68. [[Generative Ai Skills For Creative Content Opportunities Issues And Ethics]] — 1 mentions
-> 69. [[Leveraging AI for Small and Medium Business Growth]] — 1 mentions
-> 70. [[Programming Foundations- Secure Coding (2018)]] — 1 mentions
-> 71. [[IT Security Foundations- Network Security]] — 1 mentions
-> 72. [[Vulnerability Management in Cybersecurity- The Basics]] — 1 mentions
-> 73. [[Interaction Design for Ecommerce]] — 1 mentions
-> 74. [[Effectively Leading Digital Transformation]] — 1 mentions
-> 75. [[Cybersecurity Awareness- IoT Devices]] — 1 mentions
-> 76. [[XAI and Interpretability in Cybersecurity]] — 1 mentions
-> 77. [[Azure Cloud Fundamentals- Explore Cloud Services]] — 1 mentions
-> 78. [[Azure Networking and Security for Beginners- Tools and Services]] — 1 mentions
+> 60. [[Azure Networking and Security for Beginners- Tools and Services]] — 2 mentions
+> 61. [[Threat Modeling- Spoofing In Depth]] — 2 mentions
+> 62. [[Cisco Network Security- Secure Access]] — 2 mentions
+> 63. [[Semantic Search and Information Retrieval using GenAI]] — 2 mentions
+> 64. [[Privacy in the New World of Work]] — 2 mentions
+> 65. [[OWASP Top 10- -9 Security Logging and Monitoring Failures and -10 Server-Side Request Forgery]] — 2 mentions
+> 66. [[AI Product Security- Secure Architecture, Deployment, and Infrastructure]] — 1 mentions
+> 67. [[Cybersecurity Careers- Become an Identity and Access Management Manager]] — 1 mentions
+> 68. [[Outlook on the Web Essential Training]] — 1 mentions
+> 69. [[Generative Ai Skills For Creative Content Opportunities Issues And Ethics]] — 1 mentions
+> 70. [[Leveraging AI for Small and Medium Business Growth]] — 1 mentions
+> 71. [[Programming Foundations- Secure Coding (2018)]] — 1 mentions
+> 72. [[IT Security Foundations- Network Security]] — 1 mentions
+> 73. [[Vulnerability Management in Cybersecurity- The Basics]] — 1 mentions
+> 74. [[Interaction Design for Ecommerce]] — 1 mentions
+> 75. [[Effectively Leading Digital Transformation]] — 1 mentions
+> 76. [[Cybersecurity Awareness- IoT Devices]] — 1 mentions
+> 77. [[XAI and Interpretability in Cybersecurity]] — 1 mentions
+> 78. [[Azure Cloud Fundamentals- Explore Cloud Services]] — 1 mentions
 > 79. [[Understanding and Prioritizing Data Privacy]] — 1 mentions
 > 80. [[Building a Privacy Program in the Age of GenAI]] — 1 mentions
 > 81. [[Threat Modeling- Information Disclosure in Depth]] — 1 mentions

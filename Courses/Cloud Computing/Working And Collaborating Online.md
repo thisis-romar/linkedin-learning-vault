@@ -92,8 +92,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Computing with confidence, getting job skills, and staying safe online
-> [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/computing-with-confidence-getting-job-skills-and-staying-safe-online?u=76281980)
+#### [Computing with confidence, getting job skills, and staying safe online](https://www.linkedin.com/learning/working-and-collaborating-online/computing-with-confidence-getting-job-skills-and-staying-safe-online?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -125,7 +124,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1)
 > **Speakers:** - computers (1)
 
 
@@ -133,8 +131,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Methods of connecting to the internet
-> [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/methods-of-connecting-to-the-internet?u=76281980)
+#### [Methods of connecting to the internet](https://www.linkedin.com/learning/working-and-collaborating-online/methods-of-connecting-to-the-internet?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -186,21 +183,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Definitions:** is a  (2), known as (1)
 > **Prerequisites:** set up (3)
 > **Env Vars:** isp (2)
 > **Analogies:** for example (2)
 > **Speakers:** - to (1)
 
-#### Connect a Windows 10 device to the internet using Wi-Fi
-> [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/connect-a-windows-10-device-to-the-internet-using-wi-fi?u=76281980)
+#### [Connect a Windows 10 device to the internet using Wi-Fi](https://www.linkedin.com/learning/working-and-collaborating-online/connect-a-windows-10-device-to-the-internet-using-wi-fi?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/working-and-collaborating-online/connect-a-windows-10-device-to-the-internet-using-wi-fi?u=76281980&t=0)** - [Instructor] Wi-Fi networks allow you to get online without the use of a wired ethernet connection in places like your home or office, or in hotels, restaurants, shopping malls, and so on.
+> **[0:00](https://www.linkedin.com/learning/working-and-collaborating-online/connect-a-windows-10-device-to-the-internet-using-wi-fi?u=76281980&t=0)** - [Instructor] Wi-Fi networks allow you to get online without the use of a wired ethernet connection in places like your home or [[Microsoft Office|office]], or in hotels, restaurants, shopping malls, and so on.
 >
-> **[0:11](https://www.linkedin.com/learning/working-and-collaborating-online/connect-a-windows-10-device-to-the-internet-using-wi-fi?u=76281980&t=11)** Let's take a look at how to connect to a Wi-Fi network on a Windows 10 computer.
+> **[0:11](https://www.linkedin.com/learning/working-and-collaborating-online/connect-a-windows-10-device-to-the-internet-using-wi-fi?u=76281980&t=11)** Let's take a look at how to connect to a Wi-Fi network on a [[Windows 10]] computer.
 >
 > **[0:15](https://www.linkedin.com/learning/working-and-collaborating-online/connect-a-windows-10-device-to-the-internet-using-wi-fi?u=76281980&t=15)** The first step is to check your Wi-Fi status, which you can see in the right hand side of the task bar at the bottom of your screen.
 >
@@ -232,7 +227,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/working-and-collaborating-online/connect-a-windows-10-device-to-the-internet-using-wi-fi?u=76281980&t=73)** This might be your home or office network or a network in the coffee shop you're sitting in.
 >
-> **[1:18](https://www.linkedin.com/learning/working-and-collaborating-online/connect-a-windows-10-device-to-the-internet-using-wi-fi?u=76281980&t=78)** You'll also usually see the word secured under the Wi-Fi network name, indicating that the network is password protected.
+> **[1:18](https://www.linkedin.com/learning/working-and-collaborating-online/connect-a-windows-10-device-to-the-internet-using-wi-fi?u=76281980&t=78)** You'll also usually see the [[Microsoft Word|word]] secured under the Wi-Fi network name, indicating that the network is password protected.
 >
 > **[1:24](https://www.linkedin.com/learning/working-and-collaborating-online/connect-a-windows-10-device-to-the-internet-using-wi-fi?u=76281980&t=84)** You can connect to networks that are labeled open, but they'll often be set up with other security measures that require you to validate your identity before allowing you to fully connect.
 >
@@ -270,7 +265,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), [[Security]] (3), next (2), [[Windows 10]] (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), [[Windows 10]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** means that (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -278,8 +273,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is the World Wide Web?
-> [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/what-is-the-world-wide-web?u=76281980)
+#### [What is the World Wide Web?](https://www.linkedin.com/learning/working-and-collaborating-online/what-is-the-world-wide-web?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -303,15 +297,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (11)
 > **Env Vars:** url (3)
 > **Definitions:** known as (1), is a  (1), stands for (1)
 > **Analogies:** similar to (1), just like (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Browse the web with Microsoft Edge
-> [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/browse-the-web-with-microsoft-edge?u=76281980)
+#### [Browse the web with Microsoft Edge](https://www.linkedin.com/learning/working-and-collaborating-online/browse-the-web-with-microsoft-edge?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -319,7 +311,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/working-and-collaborating-online/browse-the-web-with-microsoft-edge?u=76281980&t=7)** Most operating systems come with at least one built in web browser application.
 >
-> **[0:11](https://www.linkedin.com/learning/working-and-collaborating-online/browse-the-web-with-microsoft-edge?u=76281980&t=11)** For example, Mac OS computers include the Safari browser and Windows 10 includes Microsoft Edge but there are several other browsers on the market to choose from including Google Chrome and Mozilla Firefox.
+> **[0:11](https://www.linkedin.com/learning/working-and-collaborating-online/browse-the-web-with-microsoft-edge?u=76281980&t=11)** For example, Mac OS computers include the Safari browser and [[Windows 10]] includes [[Microsoft]] Edge but there are several other browsers on the market to choose from including [[Google]] Chrome and Mozilla Firefox.
 >
 > **[0:22](https://www.linkedin.com/learning/working-and-collaborating-online/browse-the-web-with-microsoft-edge?u=76281980&t=22)** At the most basic level, all browsers allow you to access websites, download files, images, and videos on websites and so on.
 >
@@ -369,7 +361,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/working-and-collaborating-online/browse-the-web-with-microsoft-edge?u=76281980&t=171)** And once I've done that I can now switch among all the tabs to do my research.
 >
-> **[2:57](https://www.linkedin.com/learning/working-and-collaborating-online/browse-the-web-with-microsoft-edge?u=76281980&t=177)** You can also open the web pages in new windows by right clicking and choosing open link in new window.
+> **[2:57](https://www.linkedin.com/learning/working-and-collaborating-online/browse-the-web-with-microsoft-edge?u=76281980&t=177)** You can also open the web pages in new [[Windows]] by right clicking and choosing open link in new window.
 >
 > **[3:03](https://www.linkedin.com/learning/working-and-collaborating-online/browse-the-web-with-microsoft-edge?u=76281980&t=183)** Opening links in new windows can help you stay organized by grouping related tabs in their own window and opening unrelated tabs in other windows, but that's a matter of personal preference.
 >
@@ -389,7 +381,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (11), [[Microsoft]] (5), [[Windows]] (4), feature (2), application (1)
+> **Frameworks & Libraries:** [[Microsoft]] (5), [[Windows]] (4), [[Windows 10]] (1), [[Google]] (1)
 > **UI Navigation:** click on (2), scroll down (1), go to (1), open the (1), switch to (1)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** go back to (2)
@@ -398,8 +390,7 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Env Vars:** url (1)
 
-#### Understand accessibility options in Microsoft Edge
-> [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/understand-accessibility-options-in-microsoft-edge?u=76281980)
+#### [Understand accessibility options in Microsoft Edge](https://www.linkedin.com/learning/working-and-collaborating-online/understand-accessibility-options-in-microsoft-edge?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -407,9 +398,9 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/working-and-collaborating-online/understand-accessibility-options-in-microsoft-edge?u=76281980&t=6)** That's why both modern websites and modern web browsers include accessibility features and options to help people browse the web in the way that best suits their needs.
 >
-> **[0:16](https://www.linkedin.com/learning/working-and-collaborating-online/understand-accessibility-options-in-microsoft-edge?u=76281980&t=16)** For example, the Microsoft Edge browser includes options to assist people who may have vision or motor impairments better navigate the web pages they visit.
+> **[0:16](https://www.linkedin.com/learning/working-and-collaborating-online/understand-accessibility-options-in-microsoft-edge?u=76281980&t=16)** For example, the [[Microsoft]] Edge browser includes options to assist people who may have vision or motor impairments better navigate the web pages they visit.
 >
-> **[0:23](https://www.linkedin.com/learning/working-and-collaborating-online/understand-accessibility-options-in-microsoft-edge?u=76281980&t=23)** You can zoom into a webpage by pressing the Control button and the plus sign on your keyboard.
+> **[0:23](https://www.linkedin.com/learning/working-and-collaborating-online/understand-accessibility-options-in-microsoft-edge?u=76281980&t=23)** You can [[Zoom]] into a webpage by pressing the Control button and the plus sign on your keyboard.
 >
 > **[0:29](https://www.linkedin.com/learning/working-and-collaborating-online/understand-accessibility-options-in-microsoft-edge?u=76281980&t=29)** And that can make it easier to read the text and to see the images on the page.
 >
@@ -465,7 +456,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/working-and-collaborating-online/understand-accessibility-options-in-microsoft-edge?u=76281980&t=157)** Pressing the Tab key lets you move forward through the elements on the page.
 >
-> **[2:41](https://www.linkedin.com/learning/working-and-collaborating-online/understand-accessibility-options-in-microsoft-edge?u=76281980&t=161)** That includes links, text fields on forms, and the address bar.
+> **[2:41](https://www.linkedin.com/learning/working-and-collaborating-online/understand-accessibility-options-in-microsoft-edge?u=76281980&t=161)** That includes links, text fields on [[Forms]], and the address bar.
 >
 > **[2:44](https://www.linkedin.com/learning/working-and-collaborating-online/understand-accessibility-options-in-microsoft-edge?u=76281980&t=164)** And Shift-Tab lets you move backwards.
 >
@@ -475,19 +466,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (7), [[Zoom]] (4), [[Microsoft]] (2), feature (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (4), [[Microsoft]] (2), [[Forms]] (1)
 > **CLI Commands:** make (5), find (1)
 > **Analogies:** for example (3)
 > **Speakers:** - [instructor] (2), - [edge] (1)
 > **UI Navigation:** click on (1), right-click (1)
 > **Env Vars:** f10 (1)
 
-#### Safely shop online
-> [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/safely-shop-online?u=76281980)
+#### [Safely shop online](https://www.linkedin.com/learning/working-and-collaborating-online/safely-shop-online?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/working-and-collaborating-online/safely-shop-online?u=76281980&t=0)** - [Instructor] These days, buying products and services online is pretty easy in most cases but it can be a little tricky or even scary if you haven't done it before or very often.
+> **[0:00](https://www.linkedin.com/learning/working-and-collaborating-online/safely-shop-online?u=76281980&t=0)** - [Instructor] These days, buying [[Microsoft Products|products]] and services online is pretty easy in most cases but it can be a little tricky or even scary if you haven't done it before or very often.
 >
 > **[0:09](https://www.linkedin.com/learning/working-and-collaborating-online/safely-shop-online?u=76281980&t=9)** There are lots of reasons to make online purchases.
 >
@@ -499,9 +489,9 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/working-and-collaborating-online/safely-shop-online?u=76281980&t=36)** It can help to do some online research to find content that can help you decide where to purchase the product you're looking for.
 >
-> **[0:42](https://www.linkedin.com/learning/working-and-collaborating-online/safely-shop-online?u=76281980&t=42)** You can do this by typing the product's name into the browser search bar, followed by the word review.
+> **[0:42](https://www.linkedin.com/learning/working-and-collaborating-online/safely-shop-online?u=76281980&t=42)** You can do this by typing the product's name into the browser search bar, followed by the [[Microsoft Word|word]] review.
 >
-> **[0:47](https://www.linkedin.com/learning/working-and-collaborating-online/safely-shop-online?u=76281980&t=47)** So for example, maybe I'm interested in finding out about the Microsoft Surface tablet.
+> **[0:47](https://www.linkedin.com/learning/working-and-collaborating-online/safely-shop-online?u=76281980&t=47)** So for example, maybe I'm interested in finding out about the [[Microsoft]] Surface tablet.
 >
 > **[0:51](https://www.linkedin.com/learning/working-and-collaborating-online/safely-shop-online?u=76281980&t=51)** So I could type Surface tablet review.
 >
@@ -511,7 +501,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/working-and-collaborating-online/safely-shop-online?u=76281980&t=70)** Once you've determined the product you want to buy and identified a reliable seller, it's time to make the purchase.
 >
-> **[1:15](https://www.linkedin.com/learning/working-and-collaborating-online/safely-shop-online?u=76281980&t=75)** Many e-commerce websites make it easy to browse products using categories or to search for specific products using a search bar or to compare similar items.
+> **[1:15](https://www.linkedin.com/learning/working-and-collaborating-online/safely-shop-online?u=76281980&t=75)** Many [[E-Commerce]] websites make it easy to browse products using categories or to search for specific products using a search bar or to compare similar items.
 >
 > **[1:24](https://www.linkedin.com/learning/working-and-collaborating-online/safely-shop-online?u=76281980&t=84)** If the product you're looking for has available options like different configurations, colors, or features, you'll find links to manage your preferences.
 >
@@ -565,15 +555,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (8), [[Microsoft Products|Products]] (7), [[Search]] (3), [[Microsoft Word|Word]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7), [[Microsoft Word|Word]] (1), [[Microsoft]] (1), [[E-Commerce]] (1)
 > **CLI Commands:** make (9), find (3)
 > **Analogies:** for example (2), just like (1)
 > **Prerequisites:** required to (2)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Perform a basic search using Bing
-> [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/perform-a-basic-search-using-bing?u=76281980)
+#### [Perform a basic search using Bing](https://www.linkedin.com/learning/working-and-collaborating-online/perform-a-basic-search-using-bing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -583,7 +572,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/working-and-collaborating-online/perform-a-basic-search-using-bing?u=76281980&t=12)** A search engine is an online resource that systematically catalogs the contents of the web so that when you perform a search, you can bring up webpages matching the words or terms you're looking for.
 >
-> **[0:23](https://www.linkedin.com/learning/working-and-collaborating-online/perform-a-basic-search-using-bing?u=76281980&t=23)** There are many search engines out there, and you've probably heard of at least a few of them, like Google, Yahoo, Microsoft Bing, or DuckDuckGo.
+> **[0:23](https://www.linkedin.com/learning/working-and-collaborating-online/perform-a-basic-search-using-bing?u=76281980&t=23)** There are many search engines out there, and you've probably heard of at least a few of them, like [[Google]], Yahoo, [[Microsoft]] Bing, or DuckDuckGo.
 >
 > **[0:32](https://www.linkedin.com/learning/working-and-collaborating-online/perform-a-basic-search-using-bing?u=76281980&t=32)** Searching is such an integral part of being on the web that all modern web browsers have web searching built in.
 >
@@ -617,7 +606,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/working-and-collaborating-online/perform-a-basic-search-using-bing?u=76281980&t=121)** And as you saw when I scrolled down, we can find news and photos related to Yosemite.
 >
-> **[2:06](https://www.linkedin.com/learning/working-and-collaborating-online/perform-a-basic-search-using-bing?u=76281980&t=126)** If I scroll back up, I'll find categories that allow me to narrow my search to just images of Yosemite or videos of Yosemite, as well as maps, news, and even shopping pages where I could find products related to Yosemite that I can purchase.
+> **[2:06](https://www.linkedin.com/learning/working-and-collaborating-online/perform-a-basic-search-using-bing?u=76281980&t=126)** If I scroll back up, I'll find categories that allow me to narrow my search to just images of Yosemite or videos of Yosemite, as well as maps, news, and even shopping pages where I could find [[Microsoft Products|products]] related to Yosemite that I can purchase.
 >
 > **[2:20](https://www.linkedin.com/learning/working-and-collaborating-online/perform-a-basic-search-using-bing?u=76281980&t=140)** Let's say I'm looking for photos right now.
 >
@@ -643,7 +632,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (17), web (6), [[Microsoft]] (2), [[Google]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (2), [[Google]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (5), make (1)
 > **Analogies:** for example (3), just like (1)
 > **URLs:** [bing.com](https://bing.com) (2)
@@ -652,16 +641,15 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Search more effectively in Bing
-> [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/search-more-effectively-in-bing?u=76281980)
+#### [Search more effectively in Bing](https://www.linkedin.com/learning/working-and-collaborating-online/search-more-effectively-in-bing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/working-and-collaborating-online/search-more-effectively-in-bing?u=76281980&t=0)** - [Instructor] Search engines are designed to provide you with the best results that are most likely relevant to your search word or phrase.
+> **[0:00](https://www.linkedin.com/learning/working-and-collaborating-online/search-more-effectively-in-bing?u=76281980&t=0)** - [Instructor] Search engines are designed to provide you with the best results that are most likely relevant to your search [[Microsoft Word|word]] or phrase.
 >
 > **[0:06](https://www.linkedin.com/learning/working-and-collaborating-online/search-more-effectively-in-bing?u=76281980&t=6)** They can't always accurately predict what you're looking for but there are some techniques you can use to make it more likely you'll find what you need in the search results.
 >
-> **[0:14](https://www.linkedin.com/learning/working-and-collaborating-online/search-more-effectively-in-bing?u=76281980&t=14)** I'm using the Bing search engine, which is the default search engine here in Microsoft Edge but these rules apply for nearly all search engines.
+> **[0:14](https://www.linkedin.com/learning/working-and-collaborating-online/search-more-effectively-in-bing?u=76281980&t=14)** I'm using the Bing search engine, which is the default search engine here in [[Microsoft]] Edge but these rules apply for nearly all search engines.
 >
 > **[0:21](https://www.linkedin.com/learning/working-and-collaborating-online/search-more-effectively-in-bing?u=76281980&t=21)** First of all, there's no need to enter long sentences or phrases for your search.
 >
@@ -679,7 +667,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/working-and-collaborating-online/search-more-effectively-in-bing?u=76281980&t=54)** And as I type, several search suggestions appear below the search field.
 >
-> **[0:58](https://www.linkedin.com/learning/working-and-collaborating-online/search-more-effectively-in-bing?u=76281980&t=58)** If you see the search term you want to use, instead of typing out the rest of it, just use your mouse to click the suggestion.
+> **[0:58](https://www.linkedin.com/learning/working-and-collaborating-online/search-more-effectively-in-bing?u=76281980&t=58)** If you see the search term you want to use, instead of typing out the [[Representational State Transfer (REST)|rest]] of it, just use your mouse to click the suggestion.
 >
 > **[1:04](https://www.linkedin.com/learning/working-and-collaborating-online/search-more-effectively-in-bing?u=76281980&t=64)** And that quickly shows me the forecast for San Francisco as the top search result.
 >
@@ -723,14 +711,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (16), [[Microsoft Word|Word]] (2), [[Microsoft]] (1), [[Representational State Transfer (REST)|Rest]] (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Microsoft]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (4), make (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Evaluate online information
-> [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/evaluate-online-information?u=76281980)
+#### [Evaluate online information](https://www.linkedin.com/learning/working-and-collaborating-online/evaluate-online-information?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -774,20 +761,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (6), data (1), next (1)
 > **CLI Commands:** find (3), make (2)
 > **Warnings:** keep in mind (2), be aware (1)
 > **Analogies:** for example (1)
 > **Speakers:** - the (1)
 
-#### Develop media literacy
-> [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/develop-media-literacy?u=76281980)
+#### [Develop media literacy](https://www.linkedin.com/learning/working-and-collaborating-online/develop-media-literacy?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/working-and-collaborating-online/develop-media-literacy?u=76281980&t=0)** - [Instructor] There are several types of media that many of us come across on a daily basis.
 >
-> **[0:04](https://www.linkedin.com/learning/working-and-collaborating-online/develop-media-literacy?u=76281980&t=4)** These include traditional media like newspapers, magazines, books, TV, and radio, but also relatively newer forms of media, like email, web articles, social media posts, and a lot more.
+> **[0:04](https://www.linkedin.com/learning/working-and-collaborating-online/develop-media-literacy?u=76281980&t=4)** These include traditional media like newspapers, magazines, books, TV, and radio, but also relatively newer [[Forms]] of media, like email, web articles, social media posts, and a lot more.
 >
 > **[0:16](https://www.linkedin.com/learning/working-and-collaborating-online/develop-media-literacy?u=76281980&t=16)** We're constantly being inundated by media that wants our attention.
 >
@@ -843,7 +828,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (2), web (1)
+> **Frameworks & Libraries:** [[Forms]] (2)
 > **Speakers:** - [instructor] (1)
 
 
@@ -851,8 +836,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Methods of communicating online
-> [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/methods-of-communicating-online?u=76281980)
+#### [Methods of communicating online](https://www.linkedin.com/learning/working-and-collaborating-online/methods-of-communicating-online?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -864,9 +848,9 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/working-and-collaborating-online/methods-of-communicating-online?u=76281980&t=22)** For example, if you need to ask a coworker a question that requires a time sensitive reply, email might not be the best choice as not everyone checks their email regularly throughout the day.
 >
-> **[0:32](https://www.linkedin.com/learning/working-and-collaborating-online/methods-of-communicating-online?u=76281980&t=32)** Instead, your company may use an instant messaging service, like Skype or Google Hangouts or Slack, and sending a text-based message through that service may get you a quicker reply.
+> **[0:32](https://www.linkedin.com/learning/working-and-collaborating-online/methods-of-communicating-online?u=76281980&t=32)** Instead, your company may use an instant messaging service, like Skype or [[Google]] Hangouts or [[Slack]], and sending a text-based message through that service may get you a quicker reply.
 >
-> **[0:42](https://www.linkedin.com/learning/working-and-collaborating-online/methods-of-communicating-online?u=76281980&t=42)** In situations where you can wait a reasonable amount of time for a reply, email is a better choice as the general expectation is that email is not for back and forth conversation in real-time, but instead lets each person be a little more thoughtful about their words and the information they're sharing.
+> **[0:42](https://www.linkedin.com/learning/working-and-collaborating-online/methods-of-communicating-online?u=76281980&t=42)** In situations where you can wait a reasonable amount of time for a reply, email is a better choice as the general expectation is that email is not for back and forth conversation in [[Real-Time]], but instead lets each person be a little more thoughtful about their words and the information they're sharing.
 >
 > **[0:56](https://www.linkedin.com/learning/working-and-collaborating-online/methods-of-communicating-online?u=76281980&t=56)** Email is also useful to have a written record of your conversations.
 >
@@ -885,8 +869,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - the (1)
 
-#### Protect yourself from phishing and online scams
-> [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/protect-yourself-from-phishing-and-online-scams?u=76281980)
+#### [Protect yourself from phishing and online scams](https://www.linkedin.com/learning/working-and-collaborating-online/protect-yourself-from-phishing-and-online-scams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -898,7 +881,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/working-and-collaborating-online/protect-yourself-from-phishing-and-online-scams?u=76281980&t=13)** There are always inherent risks in being active online, so it's important to be aware of the common scams that are out there.
 >
-> **[0:19](https://www.linkedin.com/learning/working-and-collaborating-online/protect-yourself-from-phishing-and-online-scams?u=76281980&t=19)** One such scam is phishing.
+> **[0:19](https://www.linkedin.com/learning/working-and-collaborating-online/protect-yourself-from-phishing-and-online-scams?u=76281980&t=19)** One such scam is [[Phishing]].
 >
 > **[0:21](https://www.linkedin.com/learning/working-and-collaborating-online/protect-yourself-from-phishing-and-online-scams?u=76281980&t=21)** Your personal information is a valuable asset to people who want to steal it in order to sell it to others or to impersonate you online in order to access your various accounts.
 >
@@ -960,7 +943,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (2), data (2), web (2), business (1), game (1)
+> **Frameworks & Libraries:** [[Phishing]] (2)
 > **CLI Commands:** make (8)
 > **Env Vars:** https (2), http (1)
 > **UI Navigation:** go to (1)
@@ -969,8 +952,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Prerequisites:** set up (1)
 
-#### Communicate safely online
-> [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/communicate-safely-online?u=76281980)
+#### [Communicate safely online](https://www.linkedin.com/learning/working-and-collaborating-online/communicate-safely-online?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1011,8 +993,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [presenter] (1)
 
-#### Create strong passwords
-> [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/create-strong-passwords?u=76281980)
+#### [Create strong passwords](https://www.linkedin.com/learning/working-and-collaborating-online/create-strong-passwords?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1036,7 +1017,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/working-and-collaborating-online/create-strong-passwords?u=76281980&t=49)** So a unique combination of characters and numbers creates a stronger password.
 >
-> **[0:53](https://www.linkedin.com/learning/working-and-collaborating-online/create-strong-passwords?u=76281980&t=53)** For example, let's say I wanted to use the word penguin as my password.
+> **[0:53](https://www.linkedin.com/learning/working-and-collaborating-online/create-strong-passwords?u=76281980&t=53)** For example, let's say I wanted to use the [[Microsoft Word|word]] penguin as my password.
 >
 > **[0:57](https://www.linkedin.com/learning/working-and-collaborating-online/create-strong-passwords?u=76281980&t=57)** That's way too common a word.
 >
@@ -1054,7 +1035,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/working-and-collaborating-online/create-strong-passwords?u=76281980&t=95)** Now, with that said, don't use the same password for multiple sites.
 >
-> **[1:40](https://www.linkedin.com/learning/working-and-collaborating-online/create-strong-passwords?u=76281980&t=100)** Instead use different passwords for different accounts, because if someone guesses your email password, your safety and privacy may be in trouble if you use the same password for your bank account.
+> **[1:40](https://www.linkedin.com/learning/working-and-collaborating-online/create-strong-passwords?u=76281980&t=100)** Instead use different passwords for different accounts, because if someone guesses your email password, your safety and [[Privacy]] may be in trouble if you use the same password for your bank account.
 >
 > **[1:50](https://www.linkedin.com/learning/working-and-collaborating-online/create-strong-passwords?u=76281980&t=110)** Be sure to use different passwords for each online account you have.
 >
@@ -1074,14 +1055,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Privacy]] (2), business (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Privacy]] (2)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (1), similar to (1)
 > **Best Practices:** general rule (1), avoid doing (1)
 > **Speakers:** - [instructor] (1)
 
-#### Avoid oversharing online
-> [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/avoid-oversharing-online?u=76281980)
+#### [Avoid oversharing online](https://www.linkedin.com/learning/working-and-collaborating-online/avoid-oversharing-online?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1107,7 +1087,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/working-and-collaborating-online/avoid-oversharing-online?u=76281980&t=50)** These might seem like minor things, but the more you share, or inadvertently share, the easier it is for someone to learn information about you and build a profile about you, your likes and dislikes, where you work, how much you earn and so on.
 >
-> **[1:03](https://www.linkedin.com/learning/working-and-collaborating-online/avoid-oversharing-online?u=76281980&t=63)** Now, this doesn't mean you should never post or share anything to social media, but it's important to keep safety and privacy as a top concern when you share things online.
+> **[1:03](https://www.linkedin.com/learning/working-and-collaborating-online/avoid-oversharing-online?u=76281980&t=63)** Now, this doesn't mean you should never post or share anything to social media, but it's important to keep safety and [[Privacy]] as a top concern when you share things online.
 >
 > **[1:11](https://www.linkedin.com/learning/working-and-collaborating-online/avoid-oversharing-online?u=76281980&t=71)** Be sure to review the privacy settings of your social media accounts.
 >
@@ -1141,14 +1121,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (2), web (1)
+> **Frameworks & Libraries:** [[Privacy]] (2)
 > **CLI Commands:** make (5)
 > **Analogies:** picture (2), for example (1), imagine (1)
 > **Best Practices:** you should never (1), general rule (1), remember to (1)
 > **Speakers:** - [presenter] (1)
 
-#### Manage your digital footprint
-> [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/manage-your-digital-footprint?u=76281980)
+#### [Manage your digital footprint](https://www.linkedin.com/learning/working-and-collaborating-online/manage-your-digital-footprint?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1190,7 +1169,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/working-and-collaborating-online/manage-your-digital-footprint?u=76281980&t=98)** If these results don't show you what you want, think about what you share online and what information you allow other people to see.
 >
-> **[1:45](https://www.linkedin.com/learning/working-and-collaborating-online/manage-your-digital-footprint?u=76281980&t=105)** Secondly, actively manage your privacy settings.
+> **[1:45](https://www.linkedin.com/learning/working-and-collaborating-online/manage-your-digital-footprint?u=76281980&t=105)** Secondly, actively manage your [[Privacy]] settings.
 >
 > **[1:48](https://www.linkedin.com/learning/working-and-collaborating-online/manage-your-digital-footprint?u=76281980&t=108)** You can modify the privacy settings of most of the social media sites and online applications you use.
 >
@@ -1218,14 +1197,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), web (3), [[Privacy]] (2), data (1)
+> **Frameworks & Libraries:** [[Privacy]] (2)
 > **CLI Commands:** make (4), find (1)
 > **Warnings:** be aware (1), keep in mind (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Responsibly use content you find online
-> [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/responsibly-use-content-you-find-online?u=76281980)
+#### [Responsibly use content you find online](https://www.linkedin.com/learning/working-and-collaborating-online/responsibly-use-content-you-find-online?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1255,14 +1233,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2), web (1), product (1)
 > **CLI Commands:** find (4), make (1)
 > **Analogies:** for example (2)
 > **Best Practices:** you should always (1), make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Treat others respectfully online
-> [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/treat-others-respectfully-online?u=76281980)
+#### [Treat others respectfully online](https://www.linkedin.com/learning/working-and-collaborating-online/treat-others-respectfully-online?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1318,8 +1294,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Collaborate via email and calendars
-> [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/collaborate-via-email-and-calendars?u=76281980)
+#### [Collaborate via email and calendars](https://www.linkedin.com/learning/working-and-collaborating-online/collaborate-via-email-and-calendars?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1327,17 +1302,16 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/working-and-collaborating-online/collaborate-via-email-and-calendars?u=76281980&t=8)** Unlike traditional paper calendars or date books, digital calendar software makes it easy to keep your schedule synced with other people, so if you schedule, reschedule, or cancel meetings or appointments, everyone's calendar is updated to reflect that information.
 >
-> **[0:23](https://www.linkedin.com/learning/working-and-collaborating-online/collaborate-via-email-and-calendars?u=76281980&t=23)** There are lots of popular calendar apps used across multiple platforms, including Google Calendar, Apple Calendar, and Microsoft Outlook.
+> **[0:23](https://www.linkedin.com/learning/working-and-collaborating-online/collaborate-via-email-and-calendars?u=76281980&t=23)** There are lots of popular calendar apps used across multiple platforms, including [[Google]] Calendar, Apple Calendar, and [[Microsoft Outlook]].
 >
-> **[0:31](https://www.linkedin.com/learning/working-and-collaborating-online/collaborate-via-email-and-calendars?u=76281980&t=31)** In this chapter, we'll be focusing on Outlook because in addition to it being a professional calendar application, it's also a full fledged email application and contact manager, so you can easily keep your appointments and other tasks synced between yourself and others in one place.
+> **[0:31](https://www.linkedin.com/learning/working-and-collaborating-online/collaborate-via-email-and-calendars?u=76281980&t=31)** In this chapter, we'll be focusing on [[Microsoft Outlook|Outlook]] because in addition to it being a professional calendar application, it's also a full fledged email application and contact manager, so you can easily keep your appointments and other tasks synced between yourself and others in one place.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Google]] (1), [[Microsoft Outlook]] (1), [[Microsoft Outlook|Outlook]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Microsoft Outlook]] (1), [[Microsoft Outlook|Outlook]] (1)
 > **Speakers:** - digital (1)
 
-#### Add a contact
-> [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/add-a-contact?u=76281980)
+#### [Add a contact](https://www.linkedin.com/learning/working-and-collaborating-online/add-a-contact?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1347,9 +1321,9 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/working-and-collaborating-online/add-a-contact?u=76281980&t=16)** A contact can be as basic as a name and email address or include information like a street address, multiple phone numbers, a photo, or any other relevant notes.
 >
-> **[0:26](https://www.linkedin.com/learning/working-and-collaborating-online/add-a-contact?u=76281980&t=26)** Here in Microsoft Outlook, you can add contacts in a couple of different ways.
+> **[0:26](https://www.linkedin.com/learning/working-and-collaborating-online/add-a-contact?u=76281980&t=26)** Here in [[Microsoft Outlook]], you can add contacts in a couple of different ways.
 >
-> **[0:30](https://www.linkedin.com/learning/working-and-collaborating-online/add-a-contact?u=76281980&t=30)** If you received an email message from someone and you want to add them to your contacts, right-click on their email address and choose Add to Outlook Contacts.
+> **[0:30](https://www.linkedin.com/learning/working-and-collaborating-online/add-a-contact?u=76281980&t=30)** If you received an email message from someone and you want to add them to your contacts, right-click on their email address and choose Add to [[Microsoft Outlook|Outlook]] Contacts.
 >
 > **[0:39](https://www.linkedin.com/learning/working-and-collaborating-online/add-a-contact?u=76281980&t=39)** In the window that opens, you'll see any details that Outlook was able to pull from the email already filled in here.
 >
@@ -1385,26 +1359,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (4), [[Microsoft Outlook]] (2), next (2), web (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (4), [[Microsoft Outlook]] (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
 > **UI Navigation:** right-click (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create and email a group
-> [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/create-and-email-a-group?u=76281980)
+#### [Create and email a group](https://www.linkedin.com/learning/working-and-collaborating-online/create-and-email-a-group?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/working-and-collaborating-online/create-and-email-a-group?u=76281980&t=0)** - [Instructor] If you often email the same group of people, for example, your team at work, instead of having to create an email and adding each person as a recipient individually each time, you can create a contact group, so you'll only need to type the group's name, to email everyone in that group.
 >
-> **[0:16](https://www.linkedin.com/learning/working-and-collaborating-online/create-and-email-a-group?u=76281980&t=16)** To do this in Microsoft Outlook, start by going to your contacts by clicking the People button here in the navigation bar and with the Home tab selected, click the arrow next to New Contact and choose Contact Group.
+> **[0:16](https://www.linkedin.com/learning/working-and-collaborating-online/create-and-email-a-group?u=76281980&t=16)** To do this in [[Microsoft Outlook]], start by going to your contacts by clicking the People button here in the navigation bar and with the Home tab selected, click the arrow next to New Contact and choose Contact Group.
 >
 > **[0:28](https://www.linkedin.com/learning/working-and-collaborating-online/create-and-email-a-group?u=76281980&t=28)** In this window that opens, enter a name for the group.
 >
 > **[0:31](https://www.linkedin.com/learning/working-and-collaborating-online/create-and-email-a-group?u=76281980&t=31)** I'll call this staff instructors to include everyone on my team, then click Add Members.
 >
-> **[0:36](https://www.linkedin.com/learning/working-and-collaborating-online/create-and-email-a-group?u=76281980&t=36)** From here you can choose to add existing contacts, you have an Outlook from your address book, or you can choose New Email Contact to manually enter contact information.
+> **[0:36](https://www.linkedin.com/learning/working-and-collaborating-online/create-and-email-a-group?u=76281980&t=36)** From here you can choose to add existing contacts, you have an [[Microsoft Outlook|Outlook]] from your address book, or you can choose New Email Contact to manually enter contact information.
 >
 > **[0:44](https://www.linkedin.com/learning/working-and-collaborating-online/create-and-email-a-group?u=76281980&t=44)** For this example, I'll choose From Outlook Contacts.
 >
@@ -1418,16 +1391,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (2), [[Microsoft Outlook]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (2), [[Microsoft Outlook]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create appointments and meetings
-> [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/create-appointments-and-meetings?u=76281980)
+#### [Create appointments and meetings](https://www.linkedin.com/learning/working-and-collaborating-online/create-appointments-and-meetings?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/working-and-collaborating-online/create-appointments-and-meetings?u=76281980&t=0)** - [Instructor] You can use Outlook to keep track of your personal appointments as well as schedule meetings with other people.
+> **[0:00](https://www.linkedin.com/learning/working-and-collaborating-online/create-appointments-and-meetings?u=76281980&t=0)** - [Instructor] You can use [[Microsoft Outlook|Outlook]] to keep track of your personal appointments as well as schedule meetings with other people.
 >
 > **[0:05](https://www.linkedin.com/learning/working-and-collaborating-online/create-appointments-and-meetings?u=76281980&t=5)** In Outlook, switch to the calendar view by clicking this icon in the navigation area at the bottom of the window.
 >
@@ -1485,22 +1457,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Collaborate on Word documents
-> [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/collaborate-on-word-documents?u=76281980)
+#### [Collaborate on Word documents](https://www.linkedin.com/learning/working-and-collaborating-online/collaborate-on-word-documents?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/working-and-collaborating-online/collaborate-on-word-documents?u=76281980&t=1)** - With the way a lot of work gets done today, it's important to know how to collaborate with others using digital tools online.
 >
-> **[0:07](https://www.linkedin.com/learning/working-and-collaborating-online/collaborate-on-word-documents?u=76281980&t=7)** With Microsoft Word, you can share your document with others so they can view, comment on, or coauthor the contents with you.
+> **[0:07](https://www.linkedin.com/learning/working-and-collaborating-online/collaborate-on-word-documents?u=76281980&t=7)** With [[Microsoft Word]], you can share your document with others so they can view, comment on, or coauthor the contents with you.
 >
 > **[0:15](https://www.linkedin.com/learning/working-and-collaborating-online/collaborate-on-word-documents?u=76281980&t=15)** This allows everyone to work on the same document instead of multiple copies of the document, so you never have to worry about changes or edits appearing in some copies, but not in others.
 >
-> **[0:25](https://www.linkedin.com/learning/working-and-collaborating-online/collaborate-on-word-documents?u=76281980&t=25)** When you share a Word document for collaboration, everyone can work on and see changes at the same time.
+> **[0:25](https://www.linkedin.com/learning/working-and-collaborating-online/collaborate-on-word-documents?u=76281980&t=25)** When you share a [[Microsoft Word|Word]] document for collaboration, everyone can work on and see changes at the same time.
 >
 > **[0:31](https://www.linkedin.com/learning/working-and-collaborating-online/collaborate-on-word-documents?u=76281980&t=31)** To share a document, open it in Word, and then click the Share button.
 >
-> **[0:36](https://www.linkedin.com/learning/working-and-collaborating-online/collaborate-on-word-documents?u=76281980&t=36)** From here, you'll save it to your OneDrive account.
+> **[0:36](https://www.linkedin.com/learning/working-and-collaborating-online/collaborate-on-word-documents?u=76281980&t=36)** From here, you'll save it to your [[Microsoft OneDrive|OneDrive]] account.
 >
 > **[0:38](https://www.linkedin.com/learning/working-and-collaborating-online/collaborate-on-word-documents?u=76281980&t=38)** This places the document in the cloud so it can be easily accessed by everyone who needs to work on it.
 >
@@ -1526,7 +1497,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/working-and-collaborating-online/collaborate-on-word-documents?u=76281980&t=87)** Then click Send.
 >
-> **[1:29](https://www.linkedin.com/learning/working-and-collaborating-online/collaborate-on-word-documents?u=76281980&t=89)** Microsoft will send an email that includes a link to the document to your recipients.
+> **[1:29](https://www.linkedin.com/learning/working-and-collaborating-online/collaborate-on-word-documents?u=76281980&t=89)** [[Microsoft]] will send an email that includes a link to the document to your recipients.
 >
 > **[1:34](https://www.linkedin.com/learning/working-and-collaborating-online/collaborate-on-word-documents?u=76281980&t=94)** Let's see what this looks like from the perspective of someone receiving the email.
 >
@@ -1554,18 +1525,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), next (2), [[Microsoft]] (2), [[Microsoft Word]] (1), [[Microsoft OneDrive|Onedrive]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), [[Microsoft]] (2), [[Microsoft Word]] (1), [[Microsoft OneDrive|Onedrive]] (1)
 > **UI Navigation:** open the (2)
 > **Speakers:** - with (1)
 
-#### Add comments
-> [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/add-comments?u=76281980)
+#### [Add comments](https://www.linkedin.com/learning/working-and-collaborating-online/add-comments?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/working-and-collaborating-online/add-comments?u=76281980&t=0)** - [Instructor] When working on a document with your team, you don't have to call a meeting every time you need to share notes or comments with each other.
 >
-> **[0:06](https://www.linkedin.com/learning/working-and-collaborating-online/add-comments?u=76281980&t=6)** With Microsoft Word, you and your team members can add comments directly to the document for everyone to see and review.
+> **[0:06](https://www.linkedin.com/learning/working-and-collaborating-online/add-comments?u=76281980&t=6)** With [[Microsoft Word]], you and your team members can add comments directly to the document for everyone to see and review.
 >
 > **[0:12](https://www.linkedin.com/learning/working-and-collaborating-online/add-comments?u=76281980&t=12)** This allows everyone to share feedback and collaborate in one place, the document itself.
 >
@@ -1615,22 +1585,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word]] (1)
 > **UI Navigation:** go to (1), right-click (1), scroll down (1), toggle (1), click on (1)
 > **Analogies:** for example (2), just like (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Track and manage changes
-> [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/track-and-manage-changes?u=76281980)
+#### [Track and manage changes](https://www.linkedin.com/learning/working-and-collaborating-online/track-and-manage-changes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/working-and-collaborating-online/track-and-manage-changes?u=76281980&t=0)** - [Instructor] Microsoft Word's ability to track changes allows you to freely make edits to a document and your collaborators will be able to see exactly what changes you made.
+> **[0:00](https://www.linkedin.com/learning/working-and-collaborating-online/track-and-manage-changes?u=76281980&t=0)** - [Instructor] [[Microsoft Word]]'s ability to track changes allows you to freely make edits to a document and your collaborators will be able to see exactly what changes you made.
 >
 > **[0:09](https://www.linkedin.com/learning/working-and-collaborating-online/track-and-manage-changes?u=76281980&t=9)** Start by going to the Review tab and here click Track Changes.
 >
-> **[0:13](https://www.linkedin.com/learning/working-and-collaborating-online/track-and-manage-changes?u=76281980&t=13)** With that enabled, Word will track any changes you or anyone else makes to the document.
+> **[0:13](https://www.linkedin.com/learning/working-and-collaborating-online/track-and-manage-changes?u=76281980&t=13)** With that enabled, [[Microsoft Word|Word]] will track any changes you or anyone else makes to the document.
 >
 > **[0:17](https://www.linkedin.com/learning/working-and-collaborating-online/track-and-manage-changes?u=76281980&t=17)** So for example, I might highlight some text here and make that bold.
 >
@@ -1678,8 +1647,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand cloud-based services
-> [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/understand-cloud-based-services?u=76281980)
+#### [Understand cloud-based services](https://www.linkedin.com/learning/working-and-collaborating-online/understand-cloud-based-services?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1691,9 +1659,9 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/working-and-collaborating-online/understand-cloud-based-services?u=76281980&t=20)** That means that storing content in the cloud, makes it easy to access your information from any device in any location where you have internet access.
 >
-> **[0:29](https://www.linkedin.com/learning/working-and-collaborating-online/understand-cloud-based-services?u=76281980&t=29)** Some cloud-based services you might've heard of include Dropbox, Apple's iCloud drive, Google Drive, and Microsoft OneDrive.
+> **[0:29](https://www.linkedin.com/learning/working-and-collaborating-online/understand-cloud-based-services?u=76281980&t=29)** Some cloud-based services you might've heard of include Dropbox, Apple's iCloud drive, [[Google Drive]], and [[Microsoft OneDrive]].
 >
-> **[0:37](https://www.linkedin.com/learning/working-and-collaborating-online/understand-cloud-based-services?u=76281980&t=37)** So for example, instead of saving your important documents and other files to your computer, you can save them to OneDrive, which will allow you to get to them from anywhere.
+> **[0:37](https://www.linkedin.com/learning/working-and-collaborating-online/understand-cloud-based-services?u=76281980&t=37)** So for example, instead of saving your important documents and other files to your computer, you can save them to [[Microsoft OneDrive|OneDrive]], which will allow you to get to them from anywhere.
 >
 > **[0:46](https://www.linkedin.com/learning/working-and-collaborating-online/understand-cloud-based-services?u=76281980&t=46)** This means that if you're working on a file on your home computer and save it to OneDrive, and later you're on the road with only your mobile phone, you can still access and download that file through OneDrive on your phone.
 >
@@ -1701,19 +1669,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), [[Microsoft OneDrive|Onedrive]] (4), [[Google Drive]] (1), [[Microsoft OneDrive]] (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (4), [[Google Drive]] (1), [[Microsoft OneDrive]] (1)
 > **Definitions:** means that (2)
 > **Analogies:** for example (1), similar to (1)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** icloud (1)
 > **Speakers:** - thanks (1)
 
-#### Creating a OneDrive account
-> [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/creating-a-onedrive-account?u=76281980)
+#### [Creating a OneDrive account](https://www.linkedin.com/learning/working-and-collaborating-online/creating-a-onedrive-account?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/working-and-collaborating-online/creating-a-onedrive-account?u=76281980&t=0)** - Part of your paid or free Microsoft account, you can save your documents and other files to OneDrive and then work with them from any device.
+> **[0:00](https://www.linkedin.com/learning/working-and-collaborating-online/creating-a-onedrive-account?u=76281980&t=0)** - Part of your paid or free [[Microsoft]] account, you can save your documents and other files to [[Microsoft OneDrive|OneDrive]] and then work with them from any device.
 >
 > **[0:08](https://www.linkedin.com/learning/working-and-collaborating-online/creating-a-onedrive-account?u=76281980&t=8)** Start by going to [onedrive.com](https://onedrive.com).
 >
@@ -1721,9 +1688,9 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/working-and-collaborating-online/creating-a-onedrive-account?u=76281980&t=17)** Be aware that you may already have an account.
 >
-> **[0:19](https://www.linkedin.com/learning/working-and-collaborating-online/creating-a-onedrive-account?u=76281980&t=19)** Some ways you may have already created an account include if you have a subscription to Microsoft 365, if you have Hotmail or [Outlook.com](https://Outlook.com) email address, if you have a Skype account, or if you have an Xbox Live account.
+> **[0:19](https://www.linkedin.com/learning/working-and-collaborating-online/creating-a-onedrive-account?u=76281980&t=19)** Some ways you may have already created an account include if you have a subscription to [[Microsoft 365]], if you have Hotmail or [[[Microsoft Outlook|Outlook]].com](https://Outlook.com) email address, if you have a Skype account, or if you have an Xbox Live account.
 >
-> **[0:31](https://www.linkedin.com/learning/working-and-collaborating-online/creating-a-onedrive-account?u=76281980&t=31)** You can use any of these methods to sign in to and access your OneDrive Cloud storage space.
+> **[0:31](https://www.linkedin.com/learning/working-and-collaborating-online/creating-a-onedrive-account?u=76281980&t=31)** You can use any of these methods to sign in to and access your OneDrive [[Cloud Storage]] space.
 >
 > **[0:36](https://www.linkedin.com/learning/working-and-collaborating-online/creating-a-onedrive-account?u=76281980&t=36)** If you do think you have an account just enter your username here, click next, and enter your password.
 >
@@ -1747,18 +1714,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (7), [[Microsoft]] (4), next (3), [[Microsoft Outlook|Outlook]] (2), [[Microsoft 365]] (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (7), [[Microsoft]] (4), [[Microsoft Outlook|Outlook]] (2), [[Microsoft 365]] (1), [[Cloud Storage]] (1)
 > **URLs:** [onedrive.com](https://onedrive.com) (3), [outlook.com](https://outlook.com) (2)
 > **UI Navigation:** go to (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - part (1)
 
-#### Manage files
-> [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/manage-files?u=76281980)
+#### [Manage files](https://www.linkedin.com/learning/working-and-collaborating-online/manage-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/working-and-collaborating-online/manage-files?u=76281980&t=0)** - [Instructor] In the OneDrive web interface, there are three main areas for helping you view, work with, and manage your files.
+> **[0:00](https://www.linkedin.com/learning/working-and-collaborating-online/manage-files?u=76281980&t=0)** - [Instructor] In the [[Microsoft OneDrive|OneDrive]] web interface, there are three main areas for helping you view, work with, and manage your files.
 >
 > **[0:06](https://www.linkedin.com/learning/working-and-collaborating-online/manage-files?u=76281980&t=6)** We have the navigation pane over here on the left, the toolbar across the top, and the file list, which takes up the majority of the window.
 >
@@ -1790,18 +1756,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (6), [[Search]] (2), web (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (6)
 > **UI Navigation:** in the toolbar (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Share a document
-> [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/share-a-document?u=76281980)
+#### [Share a document](https://www.linkedin.com/learning/working-and-collaborating-online/share-a-document?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/working-and-collaborating-online/share-a-document?u=76281980&t=0)** - [Instructor] OneDrive is a useful resource for storing files that you want to share or distribute to others.
+> **[0:00](https://www.linkedin.com/learning/working-and-collaborating-online/share-a-document?u=76281980&t=0)** - [Instructor] [[Microsoft OneDrive|OneDrive]] is a useful resource for storing files that you want to share or distribute to others.
 >
 > **[0:05](https://www.linkedin.com/learning/working-and-collaborating-online/share-a-document?u=76281980&t=5)** Even with the default amount of storage space you get with a free OneDrive account, you can share much larger files than you could by sending them over e-mail.
 >
@@ -1809,13 +1774,13 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/working-and-collaborating-online/share-a-document?u=76281980&t=19)** Start by selecting the file you want to share from your file list, then in the toolbar, click the Share button.
 >
-> **[0:25](https://www.linkedin.com/learning/working-and-collaborating-online/share-a-document?u=76281980&t=25)** In this Send link area that opens, you can enter the e-mail addresses of the people you want to share the file with, to have Microsoft automatically send an e-mail with a link to that file when you click Send.
+> **[0:25](https://www.linkedin.com/learning/working-and-collaborating-online/share-a-document?u=76281980&t=25)** In this Send link area that opens, you can enter the e-mail addresses of the people you want to share the file with, to have [[Microsoft]] automatically send an e-mail with a link to that file when you click Send.
 >
 > **[0:35](https://www.linkedin.com/learning/working-and-collaborating-online/share-a-document?u=76281980&t=35)** Alternately, you can generate a link by clicking Copy Link, and that creates a link you can copy it to your clipboard by clicking Copy.
 >
 > **[0:42](https://www.linkedin.com/learning/working-and-collaborating-online/share-a-document?u=76281980&t=42)** And then you're free to paste that address into an e-mail you're composing yourself or into an instant messaging program or a webpage you're publishing, and so on.
 >
-> **[0:50](https://www.linkedin.com/learning/working-and-collaborating-online/share-a-document?u=76281980&t=50)** For example, I've already started composing an e-mail message in Microsoft Outlook, and here I'll just right click and choose Paste to paste in that address.
+> **[0:50](https://www.linkedin.com/learning/working-and-collaborating-online/share-a-document?u=76281980&t=50)** For example, I've already started composing an e-mail message in [[Microsoft Outlook]], and here I'll just right click and choose Paste to paste in that address.
 >
 > **[1:01](https://www.linkedin.com/learning/working-and-collaborating-online/share-a-document?u=76281980&t=61)** And once I'm done, I can click Send to send the e-mail containing this link, and my recipient will be able to click that link to download the file to her own computer.
 >
@@ -1830,12 +1795,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Upload and create files and folders
-> [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/upload-and-create-files-and-folders?u=76281980)
+#### [Upload and create files and folders](https://www.linkedin.com/learning/working-and-collaborating-online/upload-and-create-files-and-folders?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/working-and-collaborating-online/upload-and-create-files-and-folders?u=76281980&t=0)** - [Instructor] When you upload files to OneDrive, you can securely access, update and share them from anywhere you have an internet connection.
+> **[0:00](https://www.linkedin.com/learning/working-and-collaborating-online/upload-and-create-files-and-folders?u=76281980&t=0)** - [Instructor] When you upload files to [[Microsoft OneDrive|OneDrive]], you can securely access, update and share them from anywhere you have an internet connection.
 >
 > **[0:07](https://www.linkedin.com/learning/working-and-collaborating-online/upload-and-create-files-and-folders?u=76281980&t=7)** There's several ways to upload files to OneDrive.
 >
@@ -1855,7 +1819,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/working-and-collaborating-online/upload-and-create-files-and-folders?u=76281980&t=47)** You can see they're uploading and there they are.
 >
-> **[0:52](https://www.linkedin.com/learning/working-and-collaborating-online/upload-and-create-files-and-folders?u=76281980&t=52)** If you're using the Google Chrome or Microsoft Edge browser, you can upload folders of files instead of individual files.
+> **[0:52](https://www.linkedin.com/learning/working-and-collaborating-online/upload-and-create-files-and-folders?u=76281980&t=52)** If you're using the [[Google]] Chrome or [[Microsoft]] Edge browser, you can upload folders of files instead of individual files.
 >
 > **[0:58](https://www.linkedin.com/learning/working-and-collaborating-online/upload-and-create-files-and-folders?u=76281980&t=58)** This can make it easier to keep your files organized.
 >
@@ -1883,14 +1847,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand instant messaging, voice, and video chat
-> [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/understand-instant-messaging-voice-and-video-chat?u=76281980)
+#### [Understand instant messaging, voice, and video chat](https://www.linkedin.com/learning/working-and-collaborating-online/understand-instant-messaging-voice-and-video-chat?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/working-and-collaborating-online/understand-instant-messaging-voice-and-video-chat?u=76281980&t=1)** - The internet makes it possible for us to stay in touch with our friends, family, and colleagues online.
 >
-> **[0:06](https://www.linkedin.com/learning/working-and-collaborating-online/understand-instant-messaging-voice-and-video-chat?u=76281980&t=6)** Communication can happen in real-time with apps and services that make it easy to chat through instant messaging, voice calling and video calls.
+> **[0:06](https://www.linkedin.com/learning/working-and-collaborating-online/understand-instant-messaging-voice-and-video-chat?u=76281980&t=6)** Communication can happen in [[Real-Time]] with apps and services that make it easy to chat through instant messaging, voice calling and video calls.
 >
 > **[0:15](https://www.linkedin.com/learning/working-and-collaborating-online/understand-instant-messaging-voice-and-video-chat?u=76281980&t=15)** Instant messaging is a text-based form of communication, where you can type messages on your computer or mobile device to send to people who can then instantly read and respond to your messages on their devices.
 >
@@ -1898,7 +1861,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/working-and-collaborating-online/understand-instant-messaging-voice-and-video-chat?u=76281980&t=37)** And video calling is like a voice call, but where you and the people you're calling can hear and see each other.
 >
-> **[0:44](https://www.linkedin.com/learning/working-and-collaborating-online/understand-instant-messaging-voice-and-video-chat?u=76281980&t=44)** Which of these three forms of communication you use depends on what you determine is appropriate at the time.
+> **[0:44](https://www.linkedin.com/learning/working-and-collaborating-online/understand-instant-messaging-voice-and-video-chat?u=76281980&t=44)** Which of these three [[Forms]] of communication you use depends on what you determine is appropriate at the time.
 >
 > **[0:50](https://www.linkedin.com/learning/working-and-collaborating-online/understand-instant-messaging-voice-and-video-chat?u=76281980&t=50)** If you just need to ask a quick question, but don't necessarily need an immediate response, you can send an instant message.
 >
@@ -1927,8 +1890,7 @@ created: 2026-05-02
 > **Code Identifiers:** imessage (1)
 > **Speakers:** - the (1)
 
-#### Sign into Skype
-> [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/sign-into-skype?u=76281980)
+#### [Sign into Skype](https://www.linkedin.com/learning/working-and-collaborating-online/sign-into-skype?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1936,19 +1898,19 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/working-and-collaborating-online/sign-into-skype?u=76281980&t=10)** The site should automatically detect the operating system you're using.
 >
-> **[0:13](https://www.linkedin.com/learning/working-and-collaborating-online/sign-into-skype?u=76281980&t=13)** For example, here I see Get Skype for Windows, so I could click that to download the version for the computer that I'm using.
+> **[0:13](https://www.linkedin.com/learning/working-and-collaborating-online/sign-into-skype?u=76281980&t=13)** For example, here I see Get Skype for [[Windows]], so I could click that to download the version for the computer that I'm using.
 >
 > **[0:19](https://www.linkedin.com/learning/working-and-collaborating-online/sign-into-skype?u=76281980&t=19)** If you're on a Mac, you'll see Get Skype for Mac.
 >
-> **[0:22](https://www.linkedin.com/learning/working-and-collaborating-online/sign-into-skype?u=76281980&t=22)** If you want to install Skype on your phone or tablet, visit the App Store on Apple iOS devices or the Google Play store for Android devices, and then you can search for and download the Skype app.
+> **[0:22](https://www.linkedin.com/learning/working-and-collaborating-online/sign-into-skype?u=76281980&t=22)** If you want to install Skype on your phone or tablet, visit the App Store on Apple iOS devices or the [[Google]] Play store for [[Android]] devices, and then you can search for and download the Skype app.
 >
 > **[0:33](https://www.linkedin.com/learning/working-and-collaborating-online/sign-into-skype?u=76281980&t=33)** I've already downloaded and installed Skype here on my Windows computer, and I've pinned it to the taskbar, so I can start it up right from here.
 >
 > **[0:42](https://www.linkedin.com/learning/working-and-collaborating-online/sign-into-skype?u=76281980&t=42)** So to use Skype, you'll need to log in with your account.
 >
-> **[0:45](https://www.linkedin.com/learning/working-and-collaborating-online/sign-into-skype?u=76281980&t=45)** If you already have a Microsoft account, you can use that same account to log into Skype.
+> **[0:45](https://www.linkedin.com/learning/working-and-collaborating-online/sign-into-skype?u=76281980&t=45)** If you already have a [[Microsoft]] account, you can use that same account to log into Skype.
 >
-> **[0:49](https://www.linkedin.com/learning/working-and-collaborating-online/sign-into-skype?u=76281980&t=49)** Some ways you might have already created an account are if you have a subscription to Microsoft 365, if you have a Hotmail or [Outlook.com](https://Outlook.com) email address, or if you have an Xbox Live account.
+> **[0:49](https://www.linkedin.com/learning/working-and-collaborating-online/sign-into-skype?u=76281980&t=49)** Some ways you might have already created an account are if you have a subscription to [[Microsoft 365]], if you have a Hotmail or [[[Microsoft Outlook|Outlook]].com](https://Outlook.com) email address, or if you have an Xbox Live account.
 >
 > **[1:00](https://www.linkedin.com/learning/working-and-collaborating-online/sign-into-skype?u=76281980&t=60)** You can use any of these methods to sign into Skype.
 >
@@ -1982,7 +1944,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (2), [[Search]] (2), [[Microsoft]] (2), [[Google]] (1), [[Android]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Microsoft]] (2), [[Google]] (1), [[Android]] (1), [[Microsoft 365]] (1)
 > **Exercise Files:** download the (3)
 > **Prerequisites:** you'll need (2), install (1)
 > **URLs:** [skype.com](https://skype.com) (1), [outlook.com](https://outlook.com) (1)
@@ -1991,8 +1953,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Add contacts
-> [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/add-contacts?u=76281980)
+#### [Add contacts](https://www.linkedin.com/learning/working-and-collaborating-online/add-contacts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2022,12 +1983,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (5)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set up audio and video
-> [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/set-up-audio-and-video?u=76281980)
+#### [Set up audio and video](https://www.linkedin.com/learning/working-and-collaborating-online/set-up-audio-and-video?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2125,7 +2084,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Speakers:** - no (3), - so (2), - before (1), - hello (1), - thanks (1)
 > **CLI Commands:** make (8)
 > **Prerequisites:** make sure you have (1), set up (1)
@@ -2133,8 +2091,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Best Practices:** you should always (1)
 
-#### Send text messages
-> [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/send-text-messages?u=76281980)
+#### [Send text messages](https://www.linkedin.com/learning/working-and-collaborating-online/send-text-messages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2170,12 +2127,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Make a call
-> [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/make-a-call?u=76281980)
+#### [Make a call](https://www.linkedin.com/learning/working-and-collaborating-online/make-a-call?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2215,7 +2170,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1)
 > **CLI Commands:** make (2), find (1)
 > **Speakers:** - [instructor] (2), - [operator] (1)
 > **URLs:** [skype.com](https://skype.com) (1)

@@ -94,12 +94,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learn calculus, a foundation for machine learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-calculus/learn-calculus-a-foundation-for-machine-learning?u=76281980)
+#### [Learn calculus, a foundation for machine learning](https://www.linkedin.com/learning/machine-learning-foundations-calculus/learn-calculus-a-foundation-for-machine-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-calculus/learn-calculus-a-foundation-for-machine-learning?u=76281980&t=0)** - Understanding the foundations of calculus will help you design and implement machine learning algorithms.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-calculus/learn-calculus-a-foundation-for-machine-learning?u=76281980&t=0)** - Understanding the foundations of [[Calculus]] will help you design and implement machine learning [[Algorithms]].
 >
 > **[0:07](https://www.linkedin.com/learning/machine-learning-foundations-calculus/learn-calculus-a-foundation-for-machine-learning?u=76281980&t=7)** Without a solid foundation in calculus, your work in machine learning can quickly become overwhelming.
 >
@@ -111,19 +110,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Calculus]] (4), [[Algorithms]] (1), ai (1)
+> **Frameworks & Libraries:** [[Calculus]] (4), [[Algorithms]] (1)
 > **Speakers:** - understanding (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-calculus/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/machine-learning-foundations-calculus/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-calculus/what-you-should-know?u=76281980&t=0)** - [Instructor] Before you get started with this course, there are few things you should know.
 >
-> **[0:04](https://www.linkedin.com/learning/machine-learning-foundations-calculus/what-you-should-know?u=76281980&t=4)** You should be familiar with the key concepts of algebra and pre-calculus.
+> **[0:04](https://www.linkedin.com/learning/machine-learning-foundations-calculus/what-you-should-know?u=76281980&t=4)** You should be familiar with the key concepts of algebra and pre-[[Calculus]].
 >
-> **[0:10](https://www.linkedin.com/learning/machine-learning-foundations-calculus/what-you-should-know?u=76281980&t=10)** You should have a basic Python programming knowledge.
+> **[0:10](https://www.linkedin.com/learning/machine-learning-foundations-calculus/what-you-should-know?u=76281980&t=10)** You should have a basic [[Python (Programming Language)|Python]] programming knowledge.
 >
 > **[0:14](https://www.linkedin.com/learning/machine-learning-foundations-calculus/what-you-should-know?u=76281980&t=14)** We'll focus on calculus capabilities, and its applications in Python code.
 >
@@ -139,7 +137,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Calculus]] (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Calculus]] (2)
 > **Tools:** jupyter (4), anaconda (2)
 > **CLI Commands:** python (4), make (1)
 > **Versions:** python 3 (1)
@@ -150,16 +148,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining calculus
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-calculus/defining-calculus?u=76281980)
+#### [Defining calculus](https://www.linkedin.com/learning/machine-learning-foundations-calculus/defining-calculus?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-calculus/defining-calculus?u=76281980&t=0)** - [Instructor] Machine learning can be challenging without mastering the basic mathematical building blocks, linear algebra, calculus, probability, and statistics.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-calculus/defining-calculus?u=76281980&t=0)** - [Instructor] Machine learning can be challenging without mastering the basic mathematical building blocks, [[Linear Algebra]], [[Calculus]], [[Probability]], and [[Statistics]].
 >
 > **[0:12](https://www.linkedin.com/learning/machine-learning-foundations-calculus/defining-calculus?u=76281980&t=12)** It's like creating a really big tower made of Lego bricks without having a Lego base plate and the foundations of the house.
 >
-> **[0:22](https://www.linkedin.com/learning/machine-learning-foundations-calculus/defining-calculus?u=76281980&t=22)** Learning calculus usually involves doing lots of complex calculations by hand, but we have the power of Python on our side so the process will be a light relief.
+> **[0:22](https://www.linkedin.com/learning/machine-learning-foundations-calculus/defining-calculus?u=76281980&t=22)** Learning calculus usually involves doing lots of complex calculations by hand, but we have the power of [[Python (Programming Language)|Python]] on our side so the process will be a light relief.
 >
 > **[0:33](https://www.linkedin.com/learning/machine-learning-foundations-calculus/defining-calculus?u=76281980&t=33)** You don't need to learn all the theorems and formulas so we'll focus on understanding the practical applications of machine learning through calculus during model building.
 >
@@ -197,14 +194,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Calculus]] (16), [[Linear Algebra]] (1), [[Probability]] (1), [[Statistics]] (1), power (1)
+> **Frameworks & Libraries:** [[Calculus]] (16), [[Linear Algebra]] (1), [[Probability]] (1), [[Statistics]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (3), python (1)
 > **Definitions:** is an  (1), known as (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Applications of calculus in ML
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-calculus/applications-of-calculus-in-ml?u=76281980)
+#### [Applications of calculus in ML](https://www.linkedin.com/learning/machine-learning-foundations-calculus/applications-of-calculus-in-ml?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -230,26 +226,25 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/machine-learning-foundations-calculus/applications-of-calculus-in-ml?u=76281980&t=85)** By increasing or decreasing the weights, we can maximize or minimize the model's accuracy or error function.
 >
-> **[1:34](https://www.linkedin.com/learning/machine-learning-foundations-calculus/applications-of-calculus-in-ml?u=76281980&t=94)** Integrals are used in Bayesian methods using probability density functions to perform the desired Bayesian computations.
+> **[1:34](https://www.linkedin.com/learning/machine-learning-foundations-calculus/applications-of-calculus-in-ml?u=76281980&t=94)** Integrals are used in Bayesian methods using [[Probability]] density functions to perform the desired Bayesian computations.
 >
-> **[1:43](https://www.linkedin.com/learning/machine-learning-foundations-calculus/applications-of-calculus-in-ml?u=76281980&t=103)** We have mentioned just a few machine learning applications that heavily depend on calculus.
+> **[1:43](https://www.linkedin.com/learning/machine-learning-foundations-calculus/applications-of-calculus-in-ml?u=76281980&t=103)** We have mentioned just a few machine learning applications that heavily depend on [[Calculus]].
 >
 > **[1:49](https://www.linkedin.com/learning/machine-learning-foundations-calculus/applications-of-calculus-in-ml?u=76281980&t=109)** There are many more from calculating eigenvectors and eigenvalues, to backpropagation that you can discover on your own.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), node (2), application (1), next (1), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Probability]] (1), [[Calculus]] (1)
 > **CLI Commands:** node (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-calculus/functions-25657747?u=76281980)
+#### [Functions](https://www.linkedin.com/learning/machine-learning-foundations-calculus/functions-25657747?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-calculus/functions-25657747?u=76281980&t=0)** - [Instructor] At the center of calculus, there is a study of relationships and change.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-calculus/functions-25657747?u=76281980&t=0)** - [Instructor] At the center of [[Calculus]], there is a study of relationships and change.
 >
 > **[0:05](https://www.linkedin.com/learning/machine-learning-foundations-calculus/functions-25657747?u=76281980&t=5)** We'll begin our adventure with calculus by exploring single variable calculus.
 >
@@ -319,19 +314,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Calculus]] (4), next (2)
+> **Frameworks & Libraries:** [[Calculus]] (4)
 > **Definitions:** is a  (5), is called (1)
 > **CLI Commands:** find (3)
 > **Analogies:** imagine (2), for example (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Limits
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-calculus/limits?u=76281980)
+#### [Limits](https://www.linkedin.com/learning/machine-learning-foundations-calculus/limits?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-calculus/limits?u=76281980&t=0)** - Limits are crucial for both differential and integral calculus as both derivatives and integrals are built on limits.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-calculus/limits?u=76281980&t=0)** - Limits are crucial for both differential and integral [[Calculus]] as both derivatives and integrals are built on limits.
 >
 > **[0:09](https://www.linkedin.com/learning/machine-learning-foundations-calculus/limits?u=76281980&t=9)** The logic behind using limits is that they help us know the value of a function even in the case when the function is undefined.
 >
@@ -413,13 +407,13 @@ created: 2026-05-02
 >
 > **[4:51](https://www.linkedin.com/learning/machine-learning-foundations-calculus/limits?u=76281980&t=291)** A two-sided limit will exist only if the corresponding one-sided limits both exist and are equal.
 >
-> **[5:00](https://www.linkedin.com/learning/machine-learning-foundations-calculus/limits?u=76281980&t=300)** In Python, we can easily calculate the limits by importing the SymPy module that has a function called limit.
+> **[5:00](https://www.linkedin.com/learning/machine-learning-foundations-calculus/limits?u=76281980&t=300)** In [[Python (Programming Language)|Python]], we can easily calculate the limits by importing the SymPy module that has a function called limit.
 >
 > **[5:08](https://www.linkedin.com/learning/machine-learning-foundations-calculus/limits?u=76281980&t=308)** Now keep in mind we have just scratched the surface of learning the basics of limits and that there is much more to learn.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Calculus]] (1), functional (1), express (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Calculus]] (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** defined as (2), we call this (1), is a  (1)
 > **CLI Commands:** make (2), python (1)
 > **Warnings:** keep in mind (1)
@@ -430,8 +424,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to derivatives
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-calculus/introduction-to-derivatives?u=76281980)
+#### [Introduction to derivatives](https://www.linkedin.com/learning/machine-learning-foundations-calculus/introduction-to-derivatives?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -491,7 +484,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/machine-learning-foundations-calculus/introduction-to-derivatives?u=76281980&t=183)** The optimization technique based on derivatives and iteration that is used to minimize or maximize a set of parameters against an objective.
 >
-> **[3:15](https://www.linkedin.com/learning/machine-learning-foundations-calculus/introduction-to-derivatives?u=76281980&t=195)** Other applications of derivatives are linear regression, logistic regression, and neural networks.
+> **[3:15](https://www.linkedin.com/learning/machine-learning-foundations-calculus/introduction-to-derivatives?u=76281980&t=195)** Other applications of derivatives are [[Linear Regression]], [[Logistic Regression]], and [[Neural Networks]].
 >
 > **[3:23](https://www.linkedin.com/learning/machine-learning-foundations-calculus/introduction-to-derivatives?u=76281980&t=203)** For example, imagine trying to identify objects in hundreds of thousands of images, or processing words in audio without using neural networks.
 >
@@ -517,15 +510,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Neural Networks]] (3), [[Linear Regression]] (1), [[Logistic Regression]] (1), next (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (3), [[Linear Regression]] (1), [[Logistic Regression]] (1)
 > **Definitions:** is a  (4), is called (1), we call this (1)
 > **Analogies:** imagine (2), for example (1)
 > **Versions:** 0.2 (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### The derivative of a constant and the power rule
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-calculus/the-derivative-of-a-constant-and-the-power-rule?u=76281980)
+#### [The derivative of a constant and the power rule](https://www.linkedin.com/learning/machine-learning-foundations-calculus/the-derivative-of-a-constant-and-the-power-rule?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -579,14 +571,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (14)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### The constant multiple rule
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-calculus/the-constant-multiple-rule?u=76281980)
+#### [The constant multiple rule](https://www.linkedin.com/learning/machine-learning-foundations-calculus/the-constant-multiple-rule?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -630,14 +620,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (5), product (2)
 > **Definitions:** defined as (1), is a  (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
 
-#### The sum rule
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-calculus/the-sum-rule-25657748?u=76281980)
+#### [The sum rule](https://www.linkedin.com/learning/machine-learning-foundations-calculus/the-sum-rule-25657748?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -669,7 +657,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/machine-learning-foundations-calculus/the-sum-rule-25657748?u=76281980&t=125)** What if we have a more complicated example?
 >
-> **[2:08](https://www.linkedin.com/learning/machine-learning-foundations-calculus/the-sum-rule-25657748?u=76281980&t=128)** Fortunately, we can use Python and its library SciPy and NumPy.
+> **[2:08](https://www.linkedin.com/learning/machine-learning-foundations-calculus/the-sum-rule-25657748?u=76281980&t=128)** Fortunately, we can use [[Python (Programming Language)|Python]] and its library SciPy and NumPy.
 >
 > **[2:14](https://www.linkedin.com/learning/machine-learning-foundations-calculus/the-sum-rule-25657748?u=76281980&t=134)** NumPy does not provide a robust function to compute the derivatives of different polynomials.
 >
@@ -703,14 +691,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1), find (1)
 > **Tools:** jupyter (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [person] (1)
 
-#### The product rule
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-calculus/the-product-rule-25655815?u=76281980)
+#### [The product rule](https://www.linkedin.com/learning/machine-learning-foundations-calculus/the-product-rule-25655815?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -746,12 +733,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), power (6)
 > **Definitions:** defined as (1)
 > **Speakers:** - [instructor] (1)
 
-#### The quotient rule
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-calculus/the-quotient-rule?u=76281980)
+#### [The quotient rule](https://www.linkedin.com/learning/machine-learning-foundations-calculus/the-quotient-rule?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -803,13 +788,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), power (2)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### The chain rule
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-calculus/the-chain-rule?u=76281980)
+#### [The chain rule](https://www.linkedin.com/learning/machine-learning-foundations-calculus/the-chain-rule?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -829,7 +812,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/machine-learning-foundations-calculus/the-chain-rule?u=76281980&t=49)** So we're still ultimately relating money to productivity but via the concept of coffee.
 >
-> **[0:56](https://www.linkedin.com/learning/machine-learning-foundations-calculus/the-chain-rule?u=76281980&t=56)** This nested function scenario comes up a whole lot in software development as you relate chains of concepts together.
+> **[0:56](https://www.linkedin.com/learning/machine-learning-foundations-calculus/the-chain-rule?u=76281980&t=56)** This nested function scenario comes up a whole lot in [[Software Development]] as you relate chains of concepts together.
 >
 > **[1:06](https://www.linkedin.com/learning/machine-learning-foundations-calculus/the-chain-rule?u=76281980&t=66)** In programming, a nested function is a function that is defined inside another function.
 >
@@ -897,15 +880,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), product (2), [[Software Development]] (1), [[Programming]] (1), next (1)
+> **Frameworks & Libraries:** [[Software Development]] (1)
 > **Definitions:** is called (2), is a  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### The power rule on a function chain
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-calculus/the-power-rule-on-a-function-chain?u=76281980)
+#### [The power rule on a function chain](https://www.linkedin.com/learning/machine-learning-foundations-calculus/the-power-rule-on-a-function-chain?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -933,11 +915,11 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/machine-learning-foundations-calculus/the-power-rule-on-a-function-chain?u=76281980&t=87)** So our final result is 12 multiplied by 4X minus 1 squared.
 >
-> **[1:34](https://www.linkedin.com/learning/machine-learning-foundations-calculus/the-power-rule-on-a-function-chain?u=76281980&t=94)** With the last rule, we have made it to the end of the single variable calculus, and in our next lesson, we'll start to explore multivarial calculus.
+> **[1:34](https://www.linkedin.com/learning/machine-learning-foundations-calculus/the-power-rule-on-a-function-chain?u=76281980&t=94)** With the last rule, we have made it to the end of the single variable [[Calculus]], and in our next lesson, we'll start to explore multivarial calculus.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (6), [[Calculus]] (2), next (1)
+> **Frameworks & Libraries:** [[Calculus]] (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -946,8 +928,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Partial derivatives
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-calculus/partial-derivatives?u=76281980)
+#### [Partial derivatives](https://www.linkedin.com/learning/machine-learning-foundations-calculus/partial-derivatives?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -999,15 +980,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), next (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - in (1)
 
-#### Calculating partial derivatives
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-calculus/calculating-partial-derivatives?u=76281980)
+#### [Calculating partial derivatives](https://www.linkedin.com/learning/machine-learning-foundations-calculus/calculating-partial-derivatives?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1081,14 +1060,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (5), next (1)
 > **CLI Commands:** find (4)
 > **Cross-References:** next video (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Higher-order partial derivatives
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-calculus/higher-order-partial-derivatives?u=76281980)
+#### [Higher-order partial derivatives](https://www.linkedin.com/learning/machine-learning-foundations-calculus/higher-order-partial-derivatives?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1166,15 +1143,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), next (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** earlier in (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat jazz music) (1)
 
-#### The chain rule for partial derivatives
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-calculus/the-chain-rule-for-partial-derivatives-25653816?u=76281980)
+#### [The chain rule for partial derivatives](https://www.linkedin.com/learning/machine-learning-foundations-calculus/the-chain-rule-for-partial-derivatives-25653816?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1238,7 +1213,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1)
 > **CLI Commands:** find (3)
 > **Cross-References:** earlier in (1)
 > **Definitions:** is a  (1)
@@ -1249,8 +1223,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Single-point regression gradient
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-calculus/single-point-regression-gradient?u=76281980)
+#### [Single-point regression gradient](https://www.linkedin.com/learning/machine-learning-foundations-calculus/single-point-regression-gradient?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1312,14 +1285,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1), product (1), next (1)
 > **CLI Commands:** find (4)
 > **Definitions:** is a  (2), is called (2)
 > **Versions:** 14.42 (2)
 > **Speakers:** - [instructor] (1)
 
-#### The partial derivatives of quadratic cost
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-calculus/the-partial-derivatives-of-quadratic-cost?u=76281980)
+#### [The partial derivatives of quadratic cost](https://www.linkedin.com/learning/machine-learning-foundations-calculus/the-partial-derivatives-of-quadratic-cost?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1363,20 +1334,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), data (2)
 > **CLI Commands:** find (4), make (1)
 > **Definitions:** is called (2), is a  (1)
 > **Env Vars:** mse (2)
 > **Speakers:** - [instructor] (1)
 
-#### Connecting partial derivatives with backpropagation
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-calculus/connecting-partial-derivatives-with-backpropagation?u=76281980)
+#### [Connecting partial derivatives with backpropagation](https://www.linkedin.com/learning/machine-learning-foundations-calculus/connecting-partial-derivatives-with-backpropagation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-calculus/connecting-partial-derivatives-with-backpropagation?u=76281980&t=0)** - [Instructor] In simplified terms, we can think of a neural network as a collection of neurons in which each neuron is doing its calculation and exchanging that result with other neurons.
 >
-> **[0:12](https://www.linkedin.com/learning/machine-learning-foundations-calculus/connecting-partial-derivatives-with-backpropagation?u=76281980&t=12)** Some neural networks can employ supervised learning which uses a training set to teach the model to yield the desired output.
+> **[0:12](https://www.linkedin.com/learning/machine-learning-foundations-calculus/connecting-partial-derivatives-with-backpropagation?u=76281980&t=12)** Some [[Neural Networks]] can employ [[Supervised Learning]] which uses a training set to teach the model to yield the desired output.
 >
 > **[0:21](https://www.linkedin.com/learning/machine-learning-foundations-calculus/connecting-partial-derivatives-with-backpropagation?u=76281980&t=21)** In a process of designing a neural network, at the start, weights are initialized with some random values and obviously in that case a model output is completely different than the desired output, so the error is huge.
 >
@@ -1422,7 +1391,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/machine-learning-foundations-calculus/connecting-partial-derivatives-with-backpropagation?u=76281980&t=177)** Backpropagation is extremely useful for training neural networks because it's simple, fast, and easy to implement.
 >
-> **[3:06](https://www.linkedin.com/learning/machine-learning-foundations-calculus/connecting-partial-derivatives-with-backpropagation?u=76281980&t=186)** It's important to understand it as every modern deep learning library provides an implementation of it.
+> **[3:06](https://www.linkedin.com/learning/machine-learning-foundations-calculus/connecting-partial-derivatives-with-backpropagation?u=76281980&t=186)** It's important to understand it as every modern [[Deep Learning]] library provides an implementation of it.
 
 > [!info]- Semantic Content
 >
@@ -1431,8 +1400,7 @@ created: 2026-05-02
 > **Prerequisites:** initialization (1)
 > **Speakers:** - [instructor] (1)
 
-#### Finding minima and maxima
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-calculus/finding-minima-and-maxima?u=76281980)
+#### [Finding minima and maxima](https://www.linkedin.com/learning/machine-learning-foundations-calculus/finding-minima-and-maxima?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1522,7 +1490,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** find (5)
 > **Definitions:** is a  (3), is called (1)
 > **Analogies:** for example (1)
@@ -1533,12 +1500,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining integral calculus
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-calculus/defining-integral-calculus?u=76281980)
+#### [Defining integral calculus](https://www.linkedin.com/learning/machine-learning-foundations-calculus/defining-integral-calculus?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-calculus/defining-integral-calculus?u=76281980&t=0)** - [Instructor] If you have traveled and explored the land of calculus with me, then you recall that we have two major territories in calculus, differential calculus, and integral calculus.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-calculus/defining-integral-calculus?u=76281980&t=0)** - [Instructor] If you have traveled and explored the land of [[Calculus]] with me, then you recall that we have two major territories in calculus, differential calculus, and integral calculus.
 >
 > **[0:12](https://www.linkedin.com/learning/machine-learning-foundations-calculus/defining-integral-calculus?u=76281980&t=12)** In differential calculus, we began our exploration with two concepts, the rate, and the slope of the curve.
 >
@@ -1596,8 +1562,7 @@ created: 2026-05-02
 > **Definitions:** defined as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Integration rules
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-calculus/integration-rules?u=76281980)
+#### [Integration rules](https://www.linkedin.com/learning/machine-learning-foundations-calculus/integration-rules?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1673,13 +1638,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (17), express (1)
 > **Definitions:** is called (1), known as (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [lecturer] (1)
 
-#### Indefinite integrals
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-calculus/indefinite-integrals?u=76281980)
+#### [Indefinite integrals](https://www.linkedin.com/learning/machine-learning-foundations-calculus/indefinite-integrals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1711,7 +1674,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/machine-learning-foundations-calculus/indefinite-integrals?u=76281980&t=123)** There is a table of indefinite integrals for some common functions that come in handy for solving many basic integral problems.
 >
-> **[2:12](https://www.linkedin.com/learning/machine-learning-foundations-calculus/indefinite-integrals?u=76281980&t=132)** You can easily find it by typing table of indefinite integrals in Google or some other search engine and then using it when needed.
+> **[2:12](https://www.linkedin.com/learning/machine-learning-foundations-calculus/indefinite-integrals?u=76281980&t=132)** You can easily find it by typing table of indefinite integrals in [[Google]] or some other search engine and then using it when needed.
 >
 > **[2:23](https://www.linkedin.com/learning/machine-learning-foundations-calculus/indefinite-integrals?u=76281980&t=143)** The great thing about indefinite integrals is that you can easily check if you have solved the indefinite integral correctly by applying differentiation to your answer.
 >
@@ -1733,15 +1696,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (19), [[Google]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** previous video (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Definite integrals
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-calculus/definite-integrals?u=76281980)
+#### [Definite integrals](https://www.linkedin.com/learning/machine-learning-foundations-calculus/definite-integrals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1755,7 +1717,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/machine-learning-foundations-calculus/definite-integrals?u=76281980&t=27)** Now, let's find out the formula how to calculate it.
 >
-> **[0:31](https://www.linkedin.com/learning/machine-learning-foundations-calculus/definite-integrals?u=76281980&t=31)** There is a specific and important theorem called the fundamental theorem of calculus that says let F be any antiderivative of the function F, then integral of F of X D X from A to B, is equal F of B minus F of A.
+> **[0:31](https://www.linkedin.com/learning/machine-learning-foundations-calculus/definite-integrals?u=76281980&t=31)** There is a specific and important theorem called the fundamental theorem of [[Calculus]] that says let F be any antiderivative of the function F, then integral of F of X D X from A to B, is equal F of B minus F of A.
 >
 > **[0:52](https://www.linkedin.com/learning/machine-learning-foundations-calculus/definite-integrals?u=76281980&t=52)** The function F of X is called the integrand, and the points A and B are called the limits of integration.
 >
@@ -1815,7 +1777,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (7), [[Calculus]] (1)
+> **Frameworks & Libraries:** [[Calculus]] (1)
 > **Versions:** 0.25 (1), 60.75 (1)
 > **Definitions:** is a  (1), is called (1)
 > **CLI Commands:** find (1)
@@ -1827,14 +1789,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-calculus/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/machine-learning-foundations-calculus/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-calculus/next-steps?u=76281980&t=0)** - [Terezija] I hope you enjoyed the course and now have a solid foundation in calculus so you can continue your machine learning journey.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-calculus/next-steps?u=76281980&t=0)** - [Terezija] I hope you enjoyed the course and now have a solid foundation in [[Calculus]] so you can continue your machine learning journey.
 >
-> **[0:08](https://www.linkedin.com/learning/machine-learning-foundations-calculus/next-steps?u=76281980&t=8)** A good next step would be to look in our library for my [[Machine Learning Foundations- Linear Algebra]] course and other machine learning courses.
+> **[0:08](https://www.linkedin.com/learning/machine-learning-foundations-calculus/next-steps?u=76281980&t=8)** A good next step would be to look in our library for my [[Machine Learning Foundations- [[Linear Algebra]]]] course and other machine learning courses.
 >
 > **[0:18](https://www.linkedin.com/learning/machine-learning-foundations-calculus/next-steps?u=76281980&t=18)** I want to wrap up by saying thank you.
 >
@@ -1842,7 +1803,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/machine-learning-foundations-calculus/next-steps?u=76281980&t=28)** I really do appreciate your engagement as well as your feedback on this course.
 >
-> **[0:34](https://www.linkedin.com/learning/machine-learning-foundations-calculus/next-steps?u=76281980&t=34)** If you have any questions, please feel free to get in touch over LinkedIn and on Twitter.
+> **[0:34](https://www.linkedin.com/learning/machine-learning-foundations-calculus/next-steps?u=76281980&t=34)** If you have any questions, please feel free to get in touch over [[LinkedIn]] and on Twitter.
 >
 > **[0:40](https://www.linkedin.com/learning/machine-learning-foundations-calculus/next-steps?u=76281980&t=40)** Thanks again for watching, and I hope to see you again in one of my other courses or resources.
 >
@@ -1850,7 +1811,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Calculus]] (1), next (1), [[Linear Algebra]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Calculus]] (1), [[Linear Algebra]] (1), [[LinkedIn]] (1)
 > **Speakers:** - [terezija] (1)
 
 

@@ -88,14 +88,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/welcome?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/welcome?u=76281980&t=0)** (light orchestral music)
 >
-> **[0:04](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/welcome?u=76281980&t=4)** - [Voiceover] Hi, I'm Morten Rand-Hendriksen, staff author here at [lynda.com](https://lynda.com), and this is Advanced Responsive Layouts with CSS Flexbox.
+> **[0:04](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/welcome?u=76281980&t=4)** - [Voiceover] Hi, I'm Morten Rand-Hendriksen, staff author here at [lynda.com](https://lynda.com), and this is Advanced Responsive Layouts with [[CSS Flexbox]].
 >
 > **[0:12](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/welcome?u=76281980&t=12)** The CSS Flexible Box layout module or Flexbox, for short, is a new CSS module that will change the way we think about and lay out content on our websites forever.
 >
@@ -119,15 +118,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (5)
+> **Frameworks & Libraries:** [[CSS Flexbox]] (2)
 > **Env Vars:** css (5)
 > **URLs:** [lynda.com](https://lynda.com) (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [voiceover] (1)
 > **Non-Speech:** (light orchestral music) (1)
 
-#### How to use the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/how-to-use-the-exercise-files?u=76281980)
+#### [How to use the exercise files](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/how-to-use-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -165,7 +163,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/how-to-use-the-exercise-files?u=76281980&t=99)** There's one more thing I want to draw your attention to, and that is the structure of the content within the exercise files.
 >
-> **[1:45](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/how-to-use-the-exercise-files?u=76281980&t=105)** You'll notice that for each of the exercise file, we have at least one html file.
+> **[1:45](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/how-to-use-the-exercise-files?u=76281980&t=105)** You'll notice that for each of the exercise file, we have at least one [[HTML]] file.
 >
 > **[1:49](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/how-to-use-the-exercise-files?u=76281980&t=109)** That is the markup that we're gonna be working with.
 >
@@ -193,7 +191,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), next (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Exercise Files:** exercise files (5), exercise file (1)
 > **Env Vars:** css (3)
 > **Analogies:** for example (2)
@@ -207,8 +205,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Flexbox?
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/what-is-flexbox?u=76281980)
+#### [What is Flexbox?](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/what-is-flexbox?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -220,7 +217,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/what-is-flexbox?u=76281980&t=29)** That means you can create things like equal height columns and you can create layouts where the individual boxes within a flexbox will scale or contract individually in the same way so that you can create much more advanced layouts.
 >
-> **[0:43](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/what-is-flexbox?u=76281980&t=43)** If you need a primer on Flexbox I urge you to go check out James Williamson's course CSS Flexbox First Look, right here in the [lynda.com](https://lynda.com) library.
+> **[0:43](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/what-is-flexbox?u=76281980&t=43)** If you need a primer on Flexbox I urge you to go check out James Williamson's course [[CSS Flexbox]] First Look, right here in the [lynda.com](https://lynda.com) library.
 >
 > **[0:51](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/what-is-flexbox?u=76281980&t=51)** James does a great job of explaining what Flexbox is, why it's exciting, and how to use it right now.
 >
@@ -240,7 +237,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/what-is-flexbox?u=76281980&t=95)** In addition I've added some extra interactive features like the ability to quickly switch the position of the sidebar, position the sidebar either below or above the content, and even collapse the sidebar when necessary.
 >
-> **[1:47](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/what-is-flexbox?u=76281980&t=107)** All of these things I'm showing you used to be quite complex to do in CSS and often required JavaScript.
+> **[1:47](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/what-is-flexbox?u=76281980&t=107)** All of these things I'm showing you used to be quite complex to do in CSS and often required [[JavaScript]].
 >
 > **[1:53](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/what-is-flexbox?u=76281980&t=113)** But thanks to Flexbox all these things are fully possible within your browser using only CSS and some very trivial JavaScript just to add or remove some clauses.
 >
@@ -248,15 +245,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (6), [[JavaScript]] (2), next (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[CSS Flexbox]] (1)
 > **Env Vars:** css (6)
 > **Definitions:** is a  (2), known as (1)
 > **URLs:** [lynda.com](https://lynda.com) (1)
 > **Documentation:** specification (1)
 > **Speakers:** - if (1)
 
-#### Caveats when using Flexbox today
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/caveats-when-using-flexbox-today?u=76281980)
+#### [Caveats when using Flexbox today](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/caveats-when-using-flexbox-today?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -294,7 +290,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/caveats-when-using-flexbox-today?u=76281980&t=100)** You also want to use Modernizr.
 >
-> **[1:42](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/caveats-when-using-flexbox-today?u=76281980&t=102)** Now Modernizr is a clever JavaScript that sits at the top of your page.
+> **[1:42](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/caveats-when-using-flexbox-today?u=76281980&t=102)** Now Modernizr is a clever [[JavaScript]] that sits at the top of your page.
 >
 > **[1:46](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/caveats-when-using-flexbox-today?u=76281980&t=106)** And all it does is track whether or not certain features are supported by the current browser that the page is opened in.
 >
@@ -302,7 +298,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/caveats-when-using-flexbox-today?u=76281980&t=123)** Using Modernizr, you can then create whole stacks of CSS that will only be called in either if Flexbox is supported, or if Flexbox is not supported by a certain browser.
 >
-> **[2:13](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/caveats-when-using-flexbox-today?u=76281980&t=133)** And you can build functional, modularized CSS, that targets individual browser types, and provide a good user experience for all visitors.
+> **[2:13](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/caveats-when-using-flexbox-today?u=76281980&t=133)** And you can build functional, modularized CSS, that targets individual browser types, and provide a good [[User Experience (UX)|user experience]] for all visitors.
 >
 > **[2:21](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/caveats-when-using-flexbox-today?u=76281980&t=141)** So as we're diving into this, make sure you'll always remember that what we're looking at right now is cutting edge CSS that may not work in all browsers.
 >
@@ -314,7 +310,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (5), [[User Experience (UX)|User experience]] (2), web (1), [[JavaScript]] (1), feature (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2), [[JavaScript]] (1)
 > **Env Vars:** css (5)
 > **CLI Commands:** make (3)
 > **Definitions:** is called (1), is a  (1)
@@ -328,14 +324,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Exploring common menu layouts
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/exploring-common-menu-layouts?u=76281980)
+#### [Exploring common menu layouts](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/exploring-common-menu-layouts?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/exploring-common-menu-layouts?u=76281980&t=0)** - One of the places where the advantages of the flexible box model become immediately obvious is in the design and layout of menus.
 >
-> **[0:07](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/exploring-common-menu-layouts?u=76281980&t=7)** If you've ever built a menu using HTML and CSS you know it can be a royal pain, even something as simple as a horizontal menu with evenly spaced items can be surprisingly tricky and if you want to create a centered or right aligned menu, well, you'll have to bring out your book on CSS Alchemy.
+> **[0:07](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/exploring-common-menu-layouts?u=76281980&t=7)** If you've ever built a menu using [[HTML]] and CSS you know it can be a royal pain, even something as simple as a horizontal menu with evenly spaced items can be surprisingly tricky and if you want to create a centered or right aligned menu, well, you'll have to bring out your book on CSS Alchemy.
 >
 > **[0:24](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/exploring-common-menu-layouts?u=76281980&t=24)** With Flexbox however, laying out menus in pretty much any configuration you want becomes almost trivial.
 >
@@ -351,13 +346,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2), [[HTML]] (1), power (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** css (2), html (1)
 > **Speakers:** - one (1)
 
-#### Marking up five types of menus
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/marking-up-five-types-of-menus?u=76281980)
+#### [Marking up five types of menus](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/marking-up-five-types-of-menus?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -369,7 +363,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/marking-up-five-types-of-menus?u=76281980&t=22)** To get started, it's important to know how these layouts were put together in the markup.
 >
-> **[0:26](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/marking-up-five-types-of-menus?u=76281980&t=26)** So, go to your code editor, navigate to your Exercise Files, Chapter_02 and then movie 02_02 and open menus.html.
+> **[0:26](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/marking-up-five-types-of-menus?u=76281980&t=26)** So, go to your code editor, navigate to your Exercise Files, Chapter_02 and then movie 02_02 and open menus.[[HTML]].
 >
 > **[0:36](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/marking-up-five-types-of-menus?u=76281980&t=36)** When you look at this document, you'll see it's a pretty standard HTML5 document.
 >
@@ -433,7 +427,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/marking-up-five-types-of-menus?u=76281980&t=216)** If you look at the current stylesheet which is call style-menus.css, you'll see it's actually just a list of links to other stylesheet.
 >
-> **[3:45](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/marking-up-five-types-of-menus?u=76281980&t=225)** And when we look at this list, you'll see here we have a stylesheet for reset, a stylesheet for accessibility, one for layout, one for typography, one for masthead, and so on and so on.
+> **[3:45](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/marking-up-five-types-of-menus?u=76281980&t=225)** And when we look at this list, you'll see here we have a stylesheet for reset, a stylesheet for accessibility, one for layout, one for [[Typography]], one for masthead, and so on and so on.
 >
 > **[3:54](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/marking-up-five-types-of-menus?u=76281980&t=234)** And as we start building up the styles for the different menus, we'll start building them out with individual stylesheets.
 >
@@ -453,7 +447,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (8), [[HTML]] (1), web (1), [[Typography]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[Typography]] (1)
 > **UI Navigation:** scroll down (2), dropdown (2), toggle (2), open the (1), go to (1)
 > **Env Vars:** css (5), html5 (1)
 > **File Paths:** menus.html (1), style-menus.css (1), nav-single-level.css (1), nav-base.css (1)
@@ -462,8 +456,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - as (1)
 
-#### Using Flexbox to control single-level menu layout
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/using-flexbox-to-control-single-level-menu-layout?u=76281980)
+#### [Using Flexbox to control single-level menu layout](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/using-flexbox-to-control-single-level-menu-layout?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -491,7 +484,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/using-flexbox-to-control-single-level-menu-layout?u=76281980&t=58)** Then we're going to use media queries to target only wider screens and change the display property of the container that holds all our elements and make that display property into flex so that it becomes a Flexbox.
 >
-> **[1:10](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/using-flexbox-to-control-single-level-menu-layout?u=76281980&t=70)** Before I continue, just note that I'm currently looking at the menus.html file from Chapter_02, Movie 02_03 and that's what you should be looking at too.
+> **[1:10](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/using-flexbox-to-control-single-level-menu-layout?u=76281980&t=70)** Before I continue, just note that I'm currently looking at the menus.[[HTML]] file from Chapter_02, Movie 02_03 and that's what you should be looking at too.
 >
 > **[1:20](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/using-flexbox-to-control-single-level-menu-layout?u=76281980&t=80)** In my code editor, I have the same file open.
 >
@@ -617,7 +610,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (5), web (1), next (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **CLI Commands:** find (4), make (3)
 > **Env Vars:** css (5)
 > **UI Navigation:** click on (2), scroll down (1)
@@ -626,8 +619,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Warnings:** note that (1)
 
-#### Using Flexbox to control advanced menus
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/using-flexbox-to-control-advanced-menus?u=76281980)
+#### [Using Flexbox to control advanced menus](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/using-flexbox-to-control-advanced-menus?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -637,13 +629,13 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/using-flexbox-to-control-advanced-menus?u=76281980&t=13)** They each have an icon followed by a sentence.
 >
-> **[0:16](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/using-flexbox-to-control-advanced-menus?u=76281980&t=16)** But the design calls for the icon to be displayed in a large format on the left with the first word from each of the sentences, so Home, Food, Recipes, and News displayed equally sized on the right and then the rest of the words displayed below the first word in cursive and smaller font.
+> **[0:16](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/using-flexbox-to-control-advanced-menus?u=76281980&t=16)** But the design calls for the icon to be displayed in a large format on the left with the first [[Microsoft Word|word]] from each of the sentences, so Home, Food, Recipes, and News displayed equally sized on the right and then the [[Representational State Transfer (REST)|rest]] of the words displayed below the first word in cursive and smaller font.
 >
 > **[0:34](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/using-flexbox-to-control-advanced-menus?u=76281980&t=34)** We could do this using positioning and negative margins but it would be really clunky.
 >
 > **[0:38](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/using-flexbox-to-control-advanced-menus?u=76281980&t=38)** So instead we're gonna use Flexbox to change this display.
 >
-> **[0:41](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/using-flexbox-to-control-advanced-menus?u=76281980&t=41)** In the Code Editor I go to the Exercise Files movie 02_04 and find menus.html.
+> **[0:41](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/using-flexbox-to-control-advanced-menus?u=76281980&t=41)** In the Code Editor I go to the Exercise Files movie 02_04 and find menus.[[HTML]].
 >
 > **[0:47](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/using-flexbox-to-control-advanced-menus?u=76281980&t=47)** And here I'm gonna scroll down until I find the advanced menu.
 >
@@ -775,7 +767,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Representational State Transfer (REST)|Rest]] (3), next (3), css (3), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Representational State Transfer (REST)|Rest]] (3), [[HTML]] (1)
 > **CLI Commands:** make (4), find (2)
 > **Versions:** 1.5 (3), 1.8 (1)
 > **UI Navigation:** go to (2), scroll down (2)
@@ -784,12 +776,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Exercise Files:** exercise files (1)
 
-#### Using Flexbox to control multilevel menus with dropdowns
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/using-flexbox-to-control-multilevel-menus-with-dropdowns?u=76281980)
+#### [Using Flexbox to control multilevel menus with dropdowns](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/using-flexbox-to-control-multilevel-menus-with-dropdowns?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/using-flexbox-to-control-multilevel-menus-with-dropdowns?u=76281980&t=0)** - If you go out today and talk to industry experts on user experience or design or accessibility or mobile, you'll quickly discover a strong resistance to the traditional drop-down menu.
+> **[0:00](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/using-flexbox-to-control-multilevel-menus-with-dropdowns?u=76281980&t=0)** - If you go out today and talk to industry experts on [[User Experience (UX)|user experience]] or design or accessibility or mobile, you'll quickly discover a strong resistance to the traditional drop-down menu.
 >
 > **[0:12](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/using-flexbox-to-control-multilevel-menus-with-dropdowns?u=76281980&t=12)** Now there are several reasons for this, most notably that drop-down menus are not accessible, they're not easy to use if you use keyboard navigation or voice navigation and also because drop-down menus are not accessible if you use touchscreen devices.
 >
@@ -797,7 +788,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/using-flexbox-to-control-multilevel-menus-with-dropdowns?u=76281980&t=30)** Even so, there are certain situations where you need to have a drop-down menu and in those cases, we can use Flexbox to change the behavior of the drop-down menu and style it the way we want but before we get to the Flexbox part, I need to explain how my drop-down menu works because it's a bit different from what you're used to.
 >
-> **[0:47](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/using-flexbox-to-control-multilevel-menus-with-dropdowns?u=76281980&t=47)** If you go to the Exercise Files for 02_05 and you go to menus.html in your browser, you will see the drop-down menu and if you look at the regular menu items, you'll see they work as expected except for the two that have drop-down menus.
+> **[0:47](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/using-flexbox-to-control-multilevel-menus-with-dropdowns?u=76281980&t=47)** If you go to the Exercise Files for 02_05 and you go to menus.[[HTML]] in your browser, you will see the drop-down menu and if you look at the regular menu items, you'll see they work as expected except for the two that have drop-down menus.
 >
 > **[1:01](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/using-flexbox-to-control-multilevel-menus-with-dropdowns?u=76281980&t=61)** You see that simply hovering over them doesn't trigger the drop-down to appear.
 >
@@ -821,11 +812,11 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/using-flexbox-to-control-multilevel-menus-with-dropdowns?u=76281980&t=100)** That means this menu is fully accessible across all devices.
 >
-> **[1:44](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/using-flexbox-to-control-multilevel-menus-with-dropdowns?u=76281980&t=104)** Now all these works thanks to a simple JavaScript and some CSS.
+> **[1:44](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/using-flexbox-to-control-multilevel-menus-with-dropdowns?u=76281980&t=104)** Now all these works thanks to a simple [[JavaScript]] and some CSS.
 >
 > **[1:49](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/using-flexbox-to-control-multilevel-menus-with-dropdowns?u=76281980&t=109)** So if you go to menus.html and you scroll to the bottom, you'll see I have queued up jQuery and then a file called menu-toggle.js under the JS folder.
 >
-> **[1:59](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/using-flexbox-to-control-multilevel-menus-with-dropdowns?u=76281980&t=119)** And menu-toggle.js contains a modified function from the WordPress theme called Twenty Fifteen that's been modified to work in any site.
+> **[1:59](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/using-flexbox-to-control-multilevel-menus-with-dropdowns?u=76281980&t=119)** And menu-toggle.js contains a modified function from the [[WordPress]] theme called Twenty Fifteen that's been modified to work in any site.
 >
 > **[2:08](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/using-flexbox-to-control-multilevel-menus-with-dropdowns?u=76281980&t=128)** So if you add this code in and then you used a markup that you see in menus.html for this type of menu, you'll automatically get that open and close behavior.
 >
@@ -879,7 +870,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (3), css (3), [[JavaScript]] (2), [[User Experience (UX)|User experience]] (1), [[WordPress]] (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[JavaScript]] (2), [[User Experience (UX)|User experience]] (1), [[WordPress]] (1)
 > **UI Navigation:** go to (3), click on (3), toggle (2), scroll down (1), open the (1)
 > **File Paths:** menus.html (3), menu-toggle.js (2), nav-multi-level.css (1)
 > **CLI Commands:** make (2), find (1)
@@ -888,8 +879,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Analogies:** just like (1)
 
-#### Creating a social media menu
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/creating-a-social-media-menu?u=76281980)
+#### [Creating a social media menu](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/creating-a-social-media-menu?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -907,7 +897,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/creating-a-social-media-menu?u=76281980&t=31)** We're not seeing any text and the social media icons are being generated automatically.
 >
-> **[0:35](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/creating-a-social-media-menu?u=76281980&t=35)** If we look at the HTML for this page you'll see that within each list item there is an anchor with an href that points at a social media network using the standard URL.
+> **[0:35](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/creating-a-social-media-menu?u=76281980&t=35)** If we look at the [[HTML]] for this page you'll see that within each list item there is an anchor with an href that points at a social media network using the standard URL.
 >
 > **[0:45](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/creating-a-social-media-menu?u=76281980&t=45)** Now we could of course append something to this and it would still work the same way it does now.
 >
@@ -953,7 +943,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (4), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** url (2), css (2), html (1)
 > **URLs:** [dribble.com](https://dribble.com) (2), [facebook.com](https://facebook.com) (1)
 > **File Paths:** accessibility.css (1), nav-social.css (1)
@@ -962,8 +952,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - the (1)
 
-#### Using Flexbox to control multiple menus
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/using-flexbox-to-control-multiple-menus?u=76281980)
+#### [Using Flexbox to control multiple menus](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/using-flexbox-to-control-multiple-menus?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -997,7 +986,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/using-flexbox-to-control-multiple-menus?u=76281980&t=80)** So if we wrap the two block level elements in the container, let's say a DIV, and then set that DIVs display property to Flex they should automatically flex and appear next to one another.
 >
-> **[1:32](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/using-flexbox-to-control-multiple-menus?u=76281980&t=92)** Just to explain what I've done here, if you look at menus.html under 02_07 you'll see at the bottom you find the mixed menu section.
+> **[1:32](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/using-flexbox-to-control-multiple-menus?u=76281980&t=92)** Just to explain what I've done here, if you look at menus.[[HTML]] under 02_07 you'll see at the bottom you find the mixed menu section.
 >
 > **[1:40](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/using-flexbox-to-control-multiple-menus?u=76281980&t=100)** And within the mixed menu section I've just set up a DIV with a class nav-mixed and then just copied the multi-level nav and the social nav into that new DIV.
 >
@@ -1061,7 +1050,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (7), next (2), web (1), [[HTML]] (1), functional (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** css (7), div (3)
 > **CLI Commands:** make (3), find (1)
 > **File Paths:** menus.html (1)
@@ -1075,8 +1064,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Challenges with card layouts
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/challenges-with-card-layouts?u=76281980)
+#### [Challenges with card layouts](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/challenges-with-card-layouts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1112,7 +1100,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/challenges-with-card-layouts?u=76281980&t=122)** So we end up with all this extra space, and the layout becomes really odd.
 >
-> **[2:06](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/challenges-with-card-layouts?u=76281980&t=126)** In pre-Flexbox CSS, there's no way to solve this, so people have turned to JavaScript to fix this problem.
+> **[2:06](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/challenges-with-card-layouts?u=76281980&t=126)** In pre-Flexbox CSS, there's no way to solve this, so people have turned to [[JavaScript]] to fix this problem.
 >
 > **[2:13](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/challenges-with-card-layouts?u=76281980&t=133)** The most common JavaScript used is the one called Masonry, it's the one that allows us to create these tiled displays that you see on sites like Pinterest.
 >
@@ -1140,7 +1128,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (5), next (4), web (3), [[JavaScript]] (2)
+> **Frameworks & Libraries:** [[JavaScript]] (2)
 > **Env Vars:** css (5)
 > **CLI Commands:** make (3)
 > **UI Navigation:** scroll down (2)
@@ -1149,14 +1137,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - card (1)
 
-#### Marking up typical cards
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/marking-up-typical-cards?u=76281980)
+#### [Marking up typical cards](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/marking-up-typical-cards?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/marking-up-typical-cards?u=76281980&t=0)** - We have now moved on to Chapter Three, which has its own set of exercise files found under the Chapter Three folder, and in this movie, 03_02.
 >
-> **[0:08](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/marking-up-typical-cards?u=76281980&t=8)** In here, you will find the card-layout.html document that has all the markup for the example we're going to be working with.
+> **[0:08](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/marking-up-typical-cards?u=76281980&t=8)** In here, you will find the card-layout.[[HTML]] document that has all the markup for the example we're going to be working with.
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/marking-up-typical-cards?u=76281980&t=15)** When you look at this markup, you'll see it looks a lot like the markup from our previous Menus example.
 >
@@ -1186,7 +1173,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2), next (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **File Paths:** card-layout.html (1), card-styles.css (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** css (1)
@@ -1194,8 +1181,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - we (1)
 
-#### Using Flexbox to create a grid of cards
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/using-flexbox-to-create-a-grid-of-cards?u=76281980)
+#### [Using Flexbox to create a grid of cards](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/using-flexbox-to-create-a-grid-of-cards?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1221,7 +1207,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/using-flexbox-to-create-a-grid-of-cards?u=76281980&t=78)** So flexbox in the browser is trying to figure out what is the smallest default width possible for each of these items.
 >
-> **[1:25](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/using-flexbox-to-create-a-grid-of-cards?u=76281980&t=85)** And because of word lengths and other attributes, you end up with these different sized boxes.
+> **[1:25](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/using-flexbox-to-create-a-grid-of-cards?u=76281980&t=85)** And because of [[Microsoft Word|word]] lengths and other attributes, you end up with these different sized boxes.
 >
 > **[1:30](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/using-flexbox-to-create-a-grid-of-cards?u=76281980&t=90)** So this is not working and I need to fix it.
 >
@@ -1275,7 +1261,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2), next (2), [[Microsoft Word|Word]] (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (6)
 > **File Paths:** cardstyles.css (1)
 > **Env Vars:** css (1)
@@ -1284,14 +1270,13 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - to (1)
 
-#### Adding responsive breakpoints
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/adding-responsive-breakpoints?u=76281980)
+#### [Adding responsive breakpoints](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/adding-responsive-breakpoints?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/adding-responsive-breakpoints?u=76281980&t=0)** - As you saw in the previous movie, Flexbox allows you to create advanced grid patterns, like this card pattern you see here, really effectively and simply.
 >
-> **[0:09](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/adding-responsive-breakpoints?u=76281980&t=9)** The problem is, as I was applying this new code, I broke a cardinal rule of responsive web design: I did this without accounting for smaller screens.
+> **[0:09](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/adding-responsive-breakpoints?u=76281980&t=9)** The problem is, as I was applying this new code, I broke a cardinal rule of [[Responsive Web Design]]: I did this without accounting for smaller screens.
 >
 > **[0:17](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/adding-responsive-breakpoints?u=76281980&t=17)** Because, as I've said before, you should always design and write your code mobile first.
 >
@@ -1373,7 +1358,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Responsive Web Design]] (1)
+> **Frameworks & Libraries:** [[Responsive Web Design]] (1)
 > **Cross-References:** as you saw (1), go back to (1)
 > **Code Identifiers:** iphone (1)
 > **UI Navigation:** go to (1)
@@ -1381,8 +1366,7 @@ created: 2026-05-02
 > **Best Practices:** you should always (1)
 > **Speakers:** - as (1)
 
-#### Solving the common "anchor doesn't fill the card" problem
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/solving-the-common-anchor-doesn-t-fill-the-card-problem?u=76281980)
+#### [Solving the common "anchor doesn't fill the card" problem](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/solving-the-common-anchor-doesn-t-fill-the-card-problem?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1457,12 +1441,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is the holy grail layout?
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/what-is-the-holy-grail-layout?u=76281980)
+#### [What is the holy grail layout?](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/what-is-the-holy-grail-layout?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/what-is-the-holy-grail-layout?u=76281980&t=0)** - In web design, there's this layout that's referred to as the Holy Grail.
+> **[0:00](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/what-is-the-holy-grail-layout?u=76281980&t=0)** - In [[Web Design]], there's this layout that's referred to as the Holy Grail.
 >
 > **[0:04](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/what-is-the-holy-grail-layout?u=76281980&t=4)** It's called the Holy Grail because it's a great idea, but up until now, it's been pretty much impossible to actually attain.
 >
@@ -1476,7 +1459,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/what-is-the-holy-grail-layout?u=76281980&t=41)** Now, if you've ever worked with CSS columns before, you know that it's almost impossible to get columns to have equal heights using only CSS.
 >
-> **[0:49](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/what-is-the-holy-grail-layout?u=76281980&t=49)** To make the Holy Grail layout happen, you would either have to use JavaScript, or use some really convoluted CSS to get this all to work.
+> **[0:49](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/what-is-the-holy-grail-layout?u=76281980&t=49)** To make the Holy Grail layout happen, you would either have to use [[JavaScript]], or use some really convoluted CSS to get this all to work.
 >
 > **[0:58](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/what-is-the-holy-grail-layout?u=76281980&t=58)** In 2006, an article was published in A List Apart called In Search of the Holy Grail that laid out a series of different approaches for creating a Holy Grail layout with CSS.
 >
@@ -1524,7 +1507,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (5), [[JavaScript]] (4), web (1), [[Search]] (1), functional (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[Web Design]] (1)
 > **Env Vars:** css (5)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
@@ -1532,12 +1515,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
-#### Marking up the holy grail layout in HTML
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/marking-up-the-holy-grail-layout-in-html?u=76281980)
+#### [Marking up the holy grail layout in HTML](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/marking-up-the-holy-grail-layout-in-html?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/marking-up-the-holy-grail-layout-in-html?u=76281980&t=0)** - In the exercise files for Chapter 4, under 04_02, you will find holy-grail.html, and holy-grail.css.
+> **[0:00](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/marking-up-the-holy-grail-layout-in-html?u=76281980&t=0)** - In the exercise files for Chapter 4, under 04_02, you will find holy-grail.[[HTML]], and holy-grail.css.
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/marking-up-the-holy-grail-layout-in-html?u=76281980&t=8)** These are the two files we will be working with to create our Flexbox based Holy Grail layout.
 >
@@ -1585,7 +1567,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (3), css (2), next (1)
+> **Frameworks & Libraries:** [[HTML]] (3)
 > **File Paths:** holy-grail.html (3), holy-grail.css (2)
 > **UI Navigation:** go to (2), scroll down (1)
 > **Analogies:** just like (2), for instance (1)
@@ -1594,8 +1576,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
-#### Styling the holy grail layout with Flexbox
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/styling-the-holy-grail-layout-with-flexbox?u=76281980)
+#### [Styling the holy grail layout with Flexbox](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/styling-the-holy-grail-layout-with-flexbox?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1641,7 +1622,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/styling-the-holy-grail-layout-with-flexbox?u=76281980&t=142)** I'm going to use Flexbox for that too.
 >
-> **[2:24](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/styling-the-holy-grail-layout-with-flexbox?u=76281980&t=144)** Looking back at holy grail dot html you'll remember that the main content area and the sidebar are both contained within the div of the class content.
+> **[2:24](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/styling-the-holy-grail-layout-with-flexbox?u=76281980&t=144)** Looking back at holy grail dot [[HTML]] you'll remember that the main content area and the sidebar are both contained within the div of the class content.
 >
 > **[2:34](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/styling-the-holy-grail-layout-with-flexbox?u=76281980&t=154)** So here I need to create a rule for contents.
 >
@@ -1691,7 +1672,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), next (3), power (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** css (3)
 > **Definitions:** is a  (1), means that (1)
@@ -1700,8 +1681,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Prerequisites:** set up (1)
 
-#### Changing the layout with Flexbox
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/changing-the-layout-with-flexbox?u=76281980)
+#### [Changing the layout with Flexbox](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/changing-the-layout-with-flexbox?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1763,7 +1743,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (4)
 > **Env Vars:** css (3)
 > **Analogies:** for example (2), just like (1)
 > **CLI Commands:** make (1), find (1)
@@ -1771,14 +1750,14 @@ created: 2026-05-02
 > **File Paths:** holy-grail.css (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
+> **Speakers:** - at (1)
 
 
 ### 5. Handing Control to the User
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Handing control to the user
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/handing-control-to-the-user?u=76281980)
+#### [Handing control to the user](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/handing-control-to-the-user?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1798,11 +1777,11 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/handing-control-to-the-user?u=76281980&t=66)** Now, in this chapter we're not just gonna talk about Flexbox.
 >
-> **[1:10](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/handing-control-to-the-user?u=76281980&t=70)** We're gonna use Flexbox to change the layouts on the page, then we're gonna use JavaScript and integrate it with these buttons that I've added up here in the top right-hand corner and the JavaScript will add classes or remove classes from specific objects on the page so that we can get them to appear or disappear or move around on the page dynamically in the browser.
+> **[1:10](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/handing-control-to-the-user?u=76281980&t=70)** We're gonna use Flexbox to change the layouts on the page, then we're gonna use [[JavaScript]] and integrate it with these buttons that I've added up here in the top right-hand corner and the JavaScript will add classes or remove classes from specific objects on the page so that we can get them to appear or disappear or move around on the page dynamically in the browser.
 >
 > **[1:30](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/handing-control-to-the-user?u=76281980&t=90)** Then finally, we'll use some CSS animations to make those transitions appear like animations on the page.
 >
-> **[1:37](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/handing-control-to-the-user?u=76281980&t=97)** So, we're using a lot of different modern web technologies here and tying everything together to create a much more interesting user experience for the visitors.
+> **[1:37](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/handing-control-to-the-user?u=76281980&t=97)** So, we're using a lot of different modern web technologies here and tying everything together to create a much more interesting [[User Experience (UX)|user experience]] for the visitors.
 >
 > **[1:46](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/handing-control-to-the-user?u=76281980&t=106)** Now it's worth noting that in this example I'm tying all of these behaviors to the buttons in the top-hand corner here.
 >
@@ -1818,14 +1797,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (4), [[JavaScript]] (2), web (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** css (4)
 > **CLI Commands:** make (2)
 > **UI Navigation:** scroll up (1), in the sidebar (1)
 > **Speakers:** - one (1)
 
-#### Sidebar position switching
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/sidebar-position-switching?u=76281980)
+#### [Sidebar position switching](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/sidebar-position-switching?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1837,7 +1815,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/sidebar-position-switching?u=76281980&t=27)** Now I'm going to tie that behavior to the button up here on the top right-hand corner.
 >
-> **[0:31](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/sidebar-position-switching?u=76281980&t=31)** In the exercise files for chapter five 05.02, you'll find an emended version of holy-grail.html.
+> **[0:31](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/sidebar-position-switching?u=76281980&t=31)** In the exercise files for chapter five 05.02, you'll find an emended version of holy-grail.[[HTML]].
 >
 > **[0:39](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/sidebar-position-switching?u=76281980&t=39)** If you scroll down a bit you'll see I've added a new piece of content here inside the masthead.
 >
@@ -1919,11 +1897,11 @@ created: 2026-05-02
 >
 > **[4:13](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/sidebar-position-switching?u=76281980&t=253)** So here you have it.
 >
-> **[4:14](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/sidebar-position-switching?u=76281980&t=254)** With some simple JavaScript and some very simple CSS, we now have a really interactive experience right in the browser thank to Flexbox.
+> **[4:14](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/sidebar-position-switching?u=76281980&t=254)** With some simple [[JavaScript]] and some very simple CSS, we now have a really interactive experience right in the browser thank to Flexbox.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), [[HTML]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[JavaScript]] (1)
 > **UI Navigation:** toggle (7), go to (3), scroll down (2)
 > **File Paths:** holy-grail.html (1), sidebar-switcher.js (1), holy-grail.css (1), sidbear-switcher.js (1)
 > **CLI Commands:** find (3), make (1)
@@ -1932,8 +1910,7 @@ created: 2026-05-02
 > **Code Identifiers:** hasclass (1)
 > **Versions:** 05.02 (1)
 
-#### Changing from holy grail to vertical display
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/changing-from-holy-grail-to-vertical-display?u=76281980)
+#### [Changing from holy grail to vertical display](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/changing-from-holy-grail-to-vertical-display?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1947,9 +1924,9 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/changing-from-holy-grail-to-vertical-display?u=76281980&t=44)** This can all be achieved using the same exact procedure we used in the previous movie.
 >
-> **[0:48](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/changing-from-holy-grail-to-vertical-display?u=76281980&t=48)** We need three components: First, we need a button to trigger the event, then we need a JavaScript that finds the container with the correct class, checks whether or not that container already has the appended class on it, and if not, appends a new class to it, and, finally, we need the CSS that changes the behavior of that property.
+> **[0:48](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/changing-from-holy-grail-to-vertical-display?u=76281980&t=48)** We need three components: First, we need a button to trigger the event, then we need a [[JavaScript]] that finds the container with the correct class, checks whether or not that container already has the appended class on it, and if not, appends a new class to it, and, finally, we need the CSS that changes the behavior of that property.
 >
-> **[1:07](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/changing-from-holy-grail-to-vertical-display?u=76281980&t=67)** Scrolling down from the top in my html page, I again find this div with the class "sidebar-switcher."
+> **[1:07](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/changing-from-holy-grail-to-vertical-display?u=76281980&t=67)** Scrolling down from the top in my [[HTML]] page, I again find this div with the class "sidebar-switcher."
 >
 > **[1:13](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/changing-from-holy-grail-to-vertical-display?u=76281980&t=73)** And what I'm looking for here, is the name of the button.
 >
@@ -1987,7 +1964,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (4), css (2), next (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[HTML]] (1)
 > **UI Navigation:** toggle (4), go to (3), click on (1)
 > **CLI Commands:** find (2), make (1)
 > **File Paths:** sidebar-switcher.js (1), holy-grail.css (1)
@@ -1995,8 +1972,7 @@ created: 2026-05-02
 > **Env Vars:** css (1)
 > **Speakers:** - switching (1)
 
-#### Hiding and showing the sidebar
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/hiding-and-showing-the-sidebar?u=76281980)
+#### [Hiding and showing the sidebar](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/hiding-and-showing-the-sidebar?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2012,7 +1988,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/hiding-and-showing-the-sidebar?u=76281980&t=40)** But that's kinda crude because the sidebar would just go (snaps), and then it would be gone, and then you click on the button, and then (snaps) the sidebar would come back.
 >
-> **[0:48](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/hiding-and-showing-the-sidebar?u=76281980&t=48)** What I want to do is use a CSS transition in conjunction with Flexbox to have the sidebar slide out of view and the rest of the content fill in the available space, and then when you click on the button again, the sidebar will slide back into view and the rest of the content will veer to the side to leave space for the sidebar.
+> **[0:48](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/hiding-and-showing-the-sidebar?u=76281980&t=48)** What I want to do is use a CSS transition in conjunction with Flexbox to have the sidebar slide out of view and the [[Representational State Transfer (REST)|rest]] of the content fill in the available space, and then when you click on the button again, the sidebar will slide back into view and the rest of the content will veer to the side to leave space for the sidebar.
 >
 > **[1:06](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/hiding-and-showing-the-sidebar?u=76281980&t=66)** We can make this really smooth and nice transition that looks more like what you would expect in an app than what you would expect in a website.
 >
@@ -2090,7 +2066,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), [[Representational State Transfer (REST)|Rest]] (2), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2)
 > **UI Navigation:** toggle (5), click on (2), scroll down (1), scroll up (1)
 > **CLI Commands:** make (2), find (2)
 > **File Paths:** sidebar-switcher.js (1), holy-grail.css (1)
@@ -2098,12 +2074,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - changing (1)
 
-#### Animating content
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/animating-content?u=76281980)
+#### [Animating content](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/animating-content?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/animating-content?u=76281980&t=0)** - CSS 3 has introduced a lot of cool new features to CSS that were previously only available through JavaScript and one of these features is transitions.
+> **[0:00](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/animating-content?u=76281980&t=0)** - CSS 3 has introduced a lot of cool new features to CSS that were previously only available through [[JavaScript]] and one of these features is transitions.
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/animating-content?u=76281980&t=9)** A CSS transition allows us to tell the browser to animate over time a transition between one state and another state in the browser.
 >
@@ -2217,11 +2192,11 @@ created: 2026-05-02
 >
 > **[5:49](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/animating-content?u=76281980&t=349)** Of course, it does.
 >
-> **[5:51](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/animating-content?u=76281980&t=351)** So now thanks to Flexbox, a bit of JavaScript, and CSS transitions, we have a highly interactive user experience that is far different from what you're used to when you see a regular website.
+> **[5:51](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/animating-content?u=76281980&t=351)** So now thanks to Flexbox, a bit of JavaScript, and CSS transitions, we have a highly interactive [[User Experience (UX)|user experience]] that is far different from what you're used to when you see a regular website.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (5), [[JavaScript]] (3), next (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** css (5), hsla (1)
 > **UI Navigation:** click on (2), scroll down (1), in the sidebar (1), switch to (1)
 > **CLI Commands:** make (2), snap (1)
@@ -2235,8 +2210,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Putting it all together
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/putting-it-all-together?u=76281980)
+#### [Putting it all together](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/putting-it-all-together?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2254,7 +2228,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/putting-it-all-together?u=76281980&t=63)** Here we have card-layout, holy-grail and menus.
 >
-> **[1:06](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/putting-it-all-together?u=76281980&t=66)** We have that master stylesheets for each of them, the individual component stylesheets for all the different components we have created, the images for our card-layout, and also the two JavaScript files that control the menu and control the sidebar-switcher.
+> **[1:06](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/putting-it-all-together?u=76281980&t=66)** We have that master stylesheets for each of them, the individual component stylesheets for all the different components we have created, the images for our card-layout, and also the two [[JavaScript]] files that control the menu and control the sidebar-switcher.
 >
 > **[1:20](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/putting-it-all-together?u=76281980&t=80)** In preparing the exercise files for this course, I made sure to make everything we've built into individual components so that we now can use them as building blocks as we've put together the completed site.
 >
@@ -2264,7 +2238,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/putting-it-all-together?u=76281980&t=96)** This is going to be the file where everything is put together.
 >
-> **[1:38](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/putting-it-all-together?u=76281980&t=98)** I'll call it all-together.html.
+> **[1:38](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/putting-it-all-together?u=76281980&t=98)** I'll call it all-together.[[HTML]].
 >
 > **[1:43](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/putting-it-all-together?u=76281980&t=103)** And then the baseline markup I'm going to use is the markup from holy-grail.html.
 >
@@ -2398,7 +2372,7 @@ created: 2026-05-02
 >
 > **[7:45](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/putting-it-all-together?u=76281980&t=465)** Save that, reload the page, and now, everything looks the way it's supposed to.
 >
-> **[7:49](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/putting-it-all-together?u=76281980&t=469)** We have a functioning sidebar, we can hide and show it, and you see, because of Flexbox, when we hide and show it, the rest of the content automatically scales and flexes to size to make it work.
+> **[7:49](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/putting-it-all-together?u=76281980&t=469)** We have a functioning sidebar, we can hide and show it, and you see, because of Flexbox, when we hide and show it, the [[Representational State Transfer (REST)|rest]] of the content automatically scales and flexes to size to make it work.
 >
 > **[7:59](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/putting-it-all-together?u=76281980&t=479)** Everything is response, everything works the way I expect it to, and we've basically created a new type of layout that you cannot create without Flexbox.
 >
@@ -2406,7 +2380,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (7), css (7), [[JavaScript]] (3), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[HTML]] (7), [[JavaScript]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **File Paths:** all-together.html (4), style-all-together.css (2), holy-grail.html (1), menu.html (1), menus.html (1)
 > **CLI Commands:** find (5), make (3)
 > **UI Navigation:** go to (6), scroll down (2)
@@ -2420,8 +2394,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Thank you
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/thank-you?u=76281980)
+#### [Thank you](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/thank-you?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2431,11 +2404,11 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/thank-you?u=76281980&t=10)** And now that you have seen what we've done in this course, I urge you to check out Flexbox and figure out how you can incorporate it into your projects.
 >
-> **[0:18](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/thank-you?u=76281980&t=18)** If this is the first time you're using Flexbox and you wanted to get a deeper insight into how Flexbox works, you should go check out James Williamson's course, CSS Flexbox First Look In the course, James goes into great detail to explain how Flexbox works, what the different properties are for Flexbox and how we can use it to modify content in many different ways to create different layouts and different designs.
+> **[0:18](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/thank-you?u=76281980&t=18)** If this is the first time you're using Flexbox and you wanted to get a deeper insight into how Flexbox works, you should go check out James Williamson's course, [[CSS Flexbox]] First Look In the course, James goes into great detail to explain how Flexbox works, what the different properties are for Flexbox and how we can use it to modify content in many different ways to create different layouts and different designs.
 >
 > **[0:41](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/thank-you?u=76281980&t=41)** In the beginning of the course, I also mentioned that it's a good idea to use the autoprefixer for your process.
 >
-> **[0:46](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/thank-you?u=76281980&t=46)** If you haven't used an autoprefixer or a task runner before, it might be a good idea to go check out my course WordPress: Developing with Sass and Grunt.js.
+> **[0:46](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/thank-you?u=76281980&t=46)** If you haven't used an autoprefixer or a task runner before, it might be a good idea to go check out my course [[WordPress]]: Developing with Sass and Grunt.js.
 >
 > **[0:55](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/thank-you?u=76281980&t=55)** This course looks at how to use Grunt, a task runner, to compile Sass and also to use the autoprefixer.
 >
@@ -2443,13 +2416,13 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/thank-you?u=76281980&t=74)** Finally, I love hearing from you about how you are using what you've learned in my courses.
 >
-> **[1:18](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/thank-you?u=76281980&t=78)** You can always find me on Twitter where I rant and rave about everything web design and WordPress, and whatever else I can come up with and if you want to get in touch with me, tell me what you're doing, give me an example of how you are using Flexbox, or ask a question, you can do all of that directly on Twitter, and I will respond to you.
+> **[1:18](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/thank-you?u=76281980&t=78)** You can always find me on Twitter where I rant and rave about everything [[Web Design]] and WordPress, and whatever else I can come up with and if you want to get in touch with me, tell me what you're doing, give me an example of how you are using Flexbox, or ask a question, you can do all of that directly on Twitter, and I will respond to you.
 >
 > **[1:36](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/thank-you?u=76281980&t=96)** Now all that's left for me to say is, go out and build some great websites with advanced Flexbox layout, (speaking foreign language) and I'll see you next course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (4), css (2), web (1), next (1)
+> **Frameworks & Libraries:** [[WordPress]] (4), [[CSS Flexbox]] (1), [[Web Design]] (1)
 > **Env Vars:** css (2)
 > **File Paths:** grunt.js (1)
 > **CLI Commands:** find (1)

@@ -74,14 +74,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### RAG, fine-tuning, and the enterprise
-> [LinkedIn Learning](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/rag-fine-tuning-and-the-enterprise?u=76281980)
+#### [RAG, fine-tuning, and the enterprise](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/rag-fine-tuning-and-the-enterprise?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/rag-fine-tuning-and-the-enterprise?u=76281980&t=0)** - What does this rag and some fine-tuning screwdrivers have to do with AI?
 >
-> **[0:04](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/rag-fine-tuning-and-the-enterprise?u=76281980&t=4)** Well, nothing directly, but they effectively illustrate both one of the biggest challenges with large language models and how RAG, retrieval-augmented generation, and fine-tuning of LLMs can help address it.
+> **[0:04](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/rag-fine-tuning-and-the-enterprise?u=76281980&t=4)** Well, nothing directly, but they effectively illustrate both one of the biggest challenges with [[Large Language Models (LLM)|large language models]] and how RAG, [[Retrieval-Augmented Generation (RAG)|retrieval-augmented generation]], and fine-tuning of LLMs can help address it.
 >
 > **[0:16](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/rag-fine-tuning-and-the-enterprise?u=76281980&t=16)** The challenge before us as we start implementing AI in the form of LLMs into enterprise applications is how to first ground the LLM in real-world enterprise data, and second, ensure it provides the right data in return.
 >
@@ -93,7 +92,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rag (5), ai (3), data (2), [[Large Language Models (LLM)|Large language models]] (1), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (1), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1)
 > **Env Vars:** rag (3), llm (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - what (1)
@@ -103,16 +102,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How LLMs work
-> [LinkedIn Learning](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/how-llms-work?u=76281980)
+#### [How LLMs work](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/how-llms-work?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/how-llms-work?u=76281980&t=0)** - To understand rag and fine tuning.
+> **[0:00](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/how-llms-work?u=76281980&t=0)** - To understand rag and [[Fine Tuning]].
 >
 > **[0:02](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/how-llms-work?u=76281980&t=2)** It's important to understand where these concepts came from, and that starts with understanding how LLMs work at a practical level.
 >
-> **[0:08](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/how-llms-work?u=76281980&t=8)** When you interact with an LLM through an app like ChatGPT, it feels as if you're chatting with a real person.
+> **[0:08](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/how-llms-work?u=76281980&t=8)** When you interact with an LLM through an app like [[ChatGPT]], it feels as if you're chatting with a real person.
 >
 > **[0:14](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/how-llms-work?u=76281980&t=14)** You ask a question, it responds, then you carry on a conversation.
 >
@@ -124,13 +122,13 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/how-llms-work?u=76281980&t=45)** So, let's start over.
 >
-> **[0:47](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/how-llms-work?u=76281980&t=47)** Large language models implemented as chat applications are advanced, spicy auto-complete systems.
+> **[0:47](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/how-llms-work?u=76281980&t=47)** [[Large Language Models (LLM)|Large language models]] implemented as chat applications are advanced, spicy auto-complete systems.
 >
 > **[0:53](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/how-llms-work?u=76281980&t=53)** When you open a new chat, the LLM already has a starting message to work off, a so-called system message.
 >
 > **[1:00](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/how-llms-work?u=76281980&t=60)** This is effectively the start of a document you'll work on with the LLM.
 >
-> **[1:05](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/how-llms-work?u=76281980&t=65)** When I put in a prompt, for example, "What ingredients do I need to bake a cake?", the LLM reads the system message, then my message, and then auto completes the rest.
+> **[1:05](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/how-llms-work?u=76281980&t=65)** When I put in a prompt, for example, "What ingredients do I need to bake a cake?", the LLM reads the system message, then my message, and then auto completes the [[Representational State Transfer (REST)|rest]].
 >
 > **[1:15](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/how-llms-work?u=76281980&t=75)** In return, I get what looks like an ingredient list for a cake, but it's actually, a probabilistic auto completion of the entire document so far.
 >
@@ -144,14 +142,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (7), rag (1), [[Fine Tuning]] (1), [[ChatGPT]] (1), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[Fine Tuning]] (1), [[ChatGPT]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** llm (7)
 > **Definitions:** in other words (1)
 > **Analogies:** for example (1)
 > **Speakers:** - to (1)
 
-#### Context makes all the difference
-> [LinkedIn Learning](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/context-makes-all-the-difference?u=76281980)
+#### [Context makes all the difference](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/context-makes-all-the-difference?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -169,9 +166,9 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/context-makes-all-the-difference?u=76281980&t=35)** The carrot is the key context here.
 >
-> **[0:38](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/context-makes-all-the-difference?u=76281980&t=38)** When I add that context to ChatGPT, the LLM rereads everything, from the system message through my initial request and the response all the way down to this new context, and responds with a list of carrot cake ingredients.
+> **[0:38](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/context-makes-all-the-difference?u=76281980&t=38)** When I add that context to [[ChatGPT]], the LLM rereads everything, from the system message through my initial request and the response all the way down to this new context, and responds with a list of carrot cake ingredients.
 >
-> **[0:51](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/context-makes-all-the-difference?u=76281980&t=51)** This is why so-called "prompt engineering" works.
+> **[0:51](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/context-makes-all-the-difference?u=76281980&t=51)** This is why so-called "[[Prompt Engineering]]" works.
 >
 > **[0:55](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/context-makes-all-the-difference?u=76281980&t=55)** The more context we provide to the LLM, the more likely it is to auto complete the chat with something in context.
 >
@@ -181,12 +178,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (5), [[ChatGPT]] (1), [[Prompt Engineering]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1), [[Prompt Engineering]] (1)
 > **Env Vars:** llm (5)
 > **Speakers:** - the (1)
 
-#### RAG: Retrieval Augmented Generation
-> [LinkedIn Learning](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/rag-retrieval-augmented-generation?u=76281980)
+#### [RAG: Retrieval Augmented Generation](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/rag-retrieval-augmented-generation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -222,14 +218,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (4), data (4), ai (3), [[Search]] (2), web (1)
 > **Env Vars:** llm (4)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - people (1)
 
-#### The RAG flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/the-rag-flow?u=76281980)
+#### [The RAG flow](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/the-rag-flow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -249,7 +243,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/the-rag-flow?u=76281980&t=50)** To reduce this risk, it's become fairly standard to add an additional verification loop here by returning the generated response along with the retrieved data to the LLM and asking it to make sure the generated response contains only information from the retrieved data.
 >
-> **[1:05](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/the-rag-flow?u=76281980&t=65)** This loop, which can be repeated as many times as necessary, increases the probability of the LLM producing a more accurate response.
+> **[1:05](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/the-rag-flow?u=76281980&t=65)** This loop, which can be repeated as many times as necessary, increases the [[Probability]] of the LLM producing a more accurate response.
 >
 > **[1:13](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/the-rag-flow?u=76281980&t=73)** So in practical terms, RAG is me giving the LLM a cookbook to reference when I ask for my carrot cake ingredients.
 >
@@ -259,14 +253,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (8), data (6), rag (2), database (2), api (1)
+> **Frameworks & Libraries:** [[Probability]] (1)
 > **Env Vars:** llm (8), rag (2), api (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - as (1)
 
-#### Embeddings: Helping AI understand data
-> [LinkedIn Learning](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/embeddings-helping-ai-understand-data?u=76281980)
+#### [Embeddings: Helping AI understand data](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/embeddings-helping-ai-understand-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -290,7 +283,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/embeddings-helping-ai-understand-data?u=76281980&t=61)** But that's neither practical nor scalable.
 >
-> **[1:03](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/embeddings-helping-ai-understand-data?u=76281980&t=63)** Instead, we need some way of getting the LLM and the grounded truth retrieval system to retrieve only relevant information and ignore the rest.
+> **[1:03](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/embeddings-helping-ai-understand-data?u=76281980&t=63)** Instead, we need some way of getting the LLM and the grounded truth retrieval system to retrieve only relevant information and ignore the [[Representational State Transfer (REST)|rest]].
 >
 > **[1:12](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/embeddings-helping-ai-understand-data?u=76281980&t=72)** One way to do this is by turning the original data and the request into embeddings, and then compare them to find the matching pairs.
 >
@@ -326,14 +319,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), llm (4), rag (2), data (2), database (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** llm (4), rag (2)
 > **CLI Commands:** find (3), make (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - there (1)
 
-#### Knowledge graphs
-> [LinkedIn Learning](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/knowledge-graphs?u=76281980)
+#### [Knowledge graphs](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/knowledge-graphs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -343,7 +335,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/knowledge-graphs?u=76281980&t=17)** This passes a significant challenge for embeddings because our language is semantically, syntactically, and lexically ambiguous.
 >
-> **[0:25](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/knowledge-graphs?u=76281980&t=25)** For example, the same word can mean different things in different contexts.
+> **[0:25](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/knowledge-graphs?u=76281980&t=25)** For example, the same [[Microsoft Word|word]] can mean different things in different contexts.
 >
 > **[0:30](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/knowledge-graphs?u=76281980&t=30)** Let me show you, let's say we have one embedding for use, tomato, paste, and another embedding for use, tooth, paste.
 >
@@ -361,7 +353,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/knowledge-graphs?u=76281980&t=92)** Both toothpaste and tomato paste are pastes, but they have very different uses.
 >
-> **[1:39](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/knowledge-graphs?u=76281980&t=99)** To address this problem, we can lean on an ancient AI technology called knowledge graphs.
+> **[1:39](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/knowledge-graphs?u=76281980&t=99)** To address this problem, we can lean on an ancient AI technology called [[Knowledge Graphs]].
 >
 > **[1:44](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/knowledge-graphs?u=76281980&t=104)** Originally invented for search, knowledge graphs add direction and semantic meaning to the vectors connecting the dots in an embeddings map.
 >
@@ -375,7 +367,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/knowledge-graphs?u=76281980&t=153)** Now seeing this, you may rightfully conclude that we should just use knowledge graphs for RAG all the time, and in practical reality, that's not always possible.
 >
-> **[2:43](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/knowledge-graphs?u=76281980&t=163)** In real-world environments, AI systems using RAG draw from a variety of sources, including traditional databases, APIs, embeddings, and advanced knowledge graph vectors.
+> **[2:43](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/knowledge-graphs?u=76281980&t=163)** In real-world environments, AI systems using RAG draw from a variety of sources, including traditional [[Databases]], APIs, embeddings, and advanced knowledge graph vectors.
 >
 > **[2:53](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/knowledge-graphs?u=76281980&t=173)** The best option for a particular use case comes down to many variables, including what type of data it is, how much work is involved in transforming the data into, for example, vector embeddings, how often the data updates, et cetera.
 >
@@ -383,14 +375,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft Word|Word]] (5), [[Knowledge Graphs]] (4), ai (3), rag (3)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), [[Knowledge Graphs]] (4), [[Databases]] (1)
 > **Env Vars:** rag (3), api (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (3)
 > **Speakers:** - okay (1)
 
-#### Fine-tuning
-> [LinkedIn Learning](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/fine-tuning?u=76281980)
+#### [Fine-tuning](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/fine-tuning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -412,17 +403,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (3), rag (1), prompt (1), chatbot (1), database (1)
 > **Env Vars:** llm (3), rag (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - rag (1)
 
-#### RAFT: RAG with fine-tuning
-> [LinkedIn Learning](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/raft-rag-with-fine-tuning?u=76281980)
+#### [RAFT: RAG with fine-tuning](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/raft-rag-with-fine-tuning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/raft-rag-with-fine-tuning?u=76281980&t=0)** - Based on what I've said about RAG and fine tuning so far, you may already intuit that there is a connection here.
+> **[0:00](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/raft-rag-with-fine-tuning?u=76281980&t=0)** - Based on what I've said about RAG and [[Fine Tuning]] so far, you may already intuit that there is a connection here.
 >
 > **[0:05](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/raft-rag-with-fine-tuning?u=76281980&t=5)** And that connection has been proven through experimentation and research, so much so that it now has a name, RAFT, Retrieval Augmented Fine-Tuning.
 >
@@ -450,7 +439,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), rag (5), llm (4), ai (2), [[Fine Tuning]] (1)
+> **Frameworks & Libraries:** [[Fine Tuning]] (1)
 > **Env Vars:** rag (5), raft (4), llm (4)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - based (1)
@@ -460,8 +449,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tying it all together
-> [LinkedIn Learning](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/tying-it-all-together?u=76281980)
+#### [Tying it all together](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/tying-it-all-together?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -477,7 +465,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/tying-it-all-together?u=76281980&t=43)** In some cases, like an online store, a simple product database API may be sufficient to build a RAG system.
 >
-> **[0:49](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/tying-it-all-together?u=76281980&t=49)** In others, it may be necessary to build an embedding space vector database, or even leverage knowledge graphs to get the best results.
+> **[0:49](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/tying-it-all-together?u=76281980&t=49)** In others, it may be necessary to build an embedding space vector database, or even leverage [[Knowledge Graphs]] to get the best results.
 >
 > **[0:57](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/tying-it-all-together?u=76281980&t=57)** In either case, combining RAG with a fine-tuned model can significantly improve the responses from the LLM and ensure they conform with company language policies and user patterns.
 >
@@ -491,7 +479,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/tying-it-all-together?u=76281980&t=105)** And all of this is possible thanks to the concepts presented in this course.
 >
-> **[1:50](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/tying-it-all-together?u=76281980&t=110)** All right, I've given you a lot to think about, and now it's your turn to figure out how all of this impacts your business and its AI strategy.
+> **[1:50](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/tying-it-all-together?u=76281980&t=110)** All right, I've given you a lot to think about, and now it's your turn to figure out how all of this impacts your business and its [[AI Strategy]].
 >
 > **[1:57](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/tying-it-all-together?u=76281980&t=117)** My best advice to you is to take the next step on this journey slowly and be willing to experiment, fail, and try again.
 >
@@ -505,7 +493,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (5), rag (5), ai (4), data (3), database (2)
+> **Frameworks & Libraries:** [[Knowledge Graphs]] (1), [[AI Strategy]] (1)
 > **Env Vars:** llm (5), rag (5), api (1), raft (1)
 > **CLI Commands:** find (1), go build (1)
 > **Cross-References:** in the next (1)

@@ -67,8 +67,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Intro
-> [LinkedIn Learning](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/intro-14781673?u=76281980)
+#### [Intro](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/intro-14781673?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -124,7 +123,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/intro-14781673?u=76281980&t=131)** And I found that in Monash University here in Melbourne, Australia.
 >
-> **[2:16](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/intro-14781673?u=76281980&t=136)** So I started that in 2016 and basically, at first it was a program for mainly finance, but I started to learning a little bit more about like tools like Excel, Python, R, SQL, stuff like that.
+> **[2:16](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/intro-14781673?u=76281980&t=136)** So I started that in 2016 and basically, at first it was a program for mainly finance, but I started to learning a little bit more about like tools like [[Microsoft Excel|Excel]], [[Python (Programming Language)|Python]], R, [[SQL]], stuff like that.
 >
 > **[2:31](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/intro-14781673?u=76281980&t=151)** And I was really interested on that part of data analytics and basically how to use data in order to help finance professionals.
 >
@@ -146,7 +145,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Analytics]] (4), business (2), [[Automation]] (2), career (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Python (Programming Language)|Python]] (1), [[SQL]] (1)
 > **Speakers:** - [christian] (2), - [narrator] (1), - [instructor] (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** sql (1)
@@ -154,8 +153,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Christian's backstory and living in Australia
-> [LinkedIn Learning](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/christian-s-backstory-and-living-in-australia?u=76281980)
+#### [Christian's backstory and living in Australia](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/christian-s-backstory-and-living-in-australia?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -223,8 +221,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (2)
 > **Env Vars:** covid (1)
 
-#### The Financial Fox backstory
-> [LinkedIn Learning](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/the-financial-fox-backstory?u=76281980)
+#### [The Financial Fox backstory](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/the-financial-fox-backstory?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -290,12 +287,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), business (1)
 > **Speakers:** - yeah (3), - that (1), - oh (1)
 > **Cross-References:** coming up (1)
 
-#### Key lessons for financial analysts
-> [LinkedIn Learning](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/key-lessons-for-financial-analysts?u=76281980)
+#### [Key lessons for financial analysts](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/key-lessons-for-financial-analysts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -305,7 +300,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/key-lessons-for-financial-analysts?u=76281980&t=20)** So could you break it down for me?
 >
-> **[0:22](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/key-lessons-for-financial-analysts?u=76281980&t=22)** Let's say I'm a data person, I know Excel, I know maybe some Tableau or Power BI, some data visualization stuff, but I'm not in finance.
+> **[0:22](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/key-lessons-for-financial-analysts?u=76281980&t=22)** Let's say I'm a data person, I know [[Microsoft Excel|Excel]], I know maybe some [[Tableau]] or [[Microsoft Power BI|Power BI]], some data visualization stuff, but I'm not in finance.
 >
 > **[0:29](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/key-lessons-for-financial-analysts?u=76281980&t=29)** What are like the key things, a finance analyst, if that's the right term, should know if they want to get into that field.
 >
@@ -313,7 +308,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/key-lessons-for-financial-analysts?u=76281980&t=38)** I'll say there are different types of finance so it really depends on which one people will want to get into.
 >
-> **[0:45](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/key-lessons-for-financial-analysts?u=76281980&t=45)** Let's say the type of finance I normally do is corporate finance.
+> **[0:45](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/key-lessons-for-financial-analysts?u=76281980&t=45)** Let's say the type of finance I normally do is [[Corporate Finance]].
 >
 > **[0:49](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/key-lessons-for-financial-analysts?u=76281980&t=49)** For that, the main thing that you need to know is the basics of accounting.
 >
@@ -333,18 +328,17 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/key-lessons-for-financial-analysts?u=76281980&t=108)** And even like the new, one of the newest fields it's FinTech that is also part of finance.
 >
-> **[1:54](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/key-lessons-for-financial-analysts?u=76281980&t=114)** So it's like, if you, if people will be interested in that, then again, learning a little bit of the basics of the like, blockchain technology, the central life finance, even like cryptocurrencies and the fees, some of that.
+> **[1:54](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/key-lessons-for-financial-analysts?u=76281980&t=114)** So it's like, if you, if people will be interested in that, then again, learning a little bit of the basics of the like, [[Blockchain]] technology, the central life finance, even like cryptocurrencies and the fees, some of that.
 >
 > **[2:08](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/key-lessons-for-financial-analysts?u=76281980&t=128)** And again, like leverage the automation analytics knowledge that people will have in order to get into the, into the field.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Analytics]] (2), teams (1), hr (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Tableau]] (1), [[Microsoft Power BI|Power bi]] (1), [[Corporate Finance]] (1), [[Blockchain]] (1)
 > **Analogies:** for example (1), it's like (1)
 > **Speakers:** - the (1), - yeah (1)
 
-#### Finance vs. accounting
-> [LinkedIn Learning](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/finance-vs-accounting?u=76281980)
+#### [Finance vs. accounting](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/finance-vs-accounting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -362,7 +356,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/finance-vs-accounting?u=76281980&t=23)** That's a very fair assessment.
 >
-> **[0:26](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/finance-vs-accounting?u=76281980&t=26)** I guess like it's sometimes the terms are just interchangeably of like corporate finance.
+> **[0:26](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/finance-vs-accounting?u=76281980&t=26)** I guess like it's sometimes the terms are just interchangeably of like [[Corporate Finance]].
 >
 > **[0:30](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/finance-vs-accounting?u=76281980&t=30)** It's still just in the accounting side of things like the past in order to determine the future.
 >
@@ -378,8 +372,7 @@ created: 2026-05-02
 > **Speakers:** - [host] (2), - [guest] (1)
 > **Definitions:** is a  (1)
 
-#### What is finance automation?
-> [LinkedIn Learning](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-is-finance-automation?u=76281980)
+#### [What is finance automation?](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-is-finance-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -397,19 +390,18 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-is-finance-automation?u=76281980&t=26)** And at the same time, it's not just financial information I focus on, but also lot of finance analytics.
 >
-> **[0:33](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-is-finance-automation?u=76281980&t=33)** So it's also the usage of tools like Tableau, Power BBot, and Altrics, and different things that we use in crowd finance in order to improve the performance of the company using those finances analytics tools.
+> **[0:33](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-is-finance-automation?u=76281980&t=33)** So it's also the usage of tools like [[Tableau]], Power BBot, and Altrics, and different things that we use in crowd finance in order to improve the performance of the company using those finances analytics tools.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (3), [[Analytics]] (2), business (1), [[Tableau]] (1), power (1)
+> **Frameworks & Libraries:** [[Tableau]] (1)
 > **Speakers:** - [interviewer] (1), - [guest] (1)
 
-#### What tools are good for finance analysts?
-> [LinkedIn Learning](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-tools-are-good-for-finance-analysts?u=76281980)
+#### [What tools are good for finance analysts?](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-tools-are-good-for-finance-analysts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-tools-are-good-for-finance-analysts?u=76281980&t=0)** - [Interviewer] So if I'm starting out and I say, know Excel, fairly well, and I want to at get to your level or follow that same path and who knows where it may lead.
+> **[0:00](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-tools-are-good-for-finance-analysts?u=76281980&t=0)** - [Interviewer] So if I'm starting out and I say, know [[Microsoft Excel|Excel]], fairly well, and I want to at get to your level or follow that same path and who knows where it may lead.
 >
 > **[0:12](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-tools-are-good-for-finance-analysts?u=76281980&t=12)** If I want to do that, what are some other tools that you would recommend I learn?
 >
@@ -427,17 +419,17 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-tools-are-good-for-finance-analysts?u=76281980&t=41)** The second one is some type of tool to transform data, and the last one is a tool to visualize data.
 >
-> **[0:49](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-tools-are-good-for-finance-analysts?u=76281980&t=49)** On the first part, on extraction, I normally tell people to learn SQL or SQL because it's a very robust tool that you can use in order to extract data especially in finance.
+> **[0:49](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-tools-are-good-for-finance-analysts?u=76281980&t=49)** On the first part, on extraction, I normally tell people to learn [[SQL]] or SQL because it's a very robust tool that you can use in order to extract data especially in finance.
 >
-> **[1:03](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-tools-are-good-for-finance-analysts?u=76281980&t=63)** In order to transform it, I always tell people to start learning, if they know Excel, to start learning Power Query and Power Pivot in order to transform the data.
+> **[1:03](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-tools-are-good-for-finance-analysts?u=76281980&t=63)** In order to transform it, I always tell people to start learning, if they know Excel, to start learning [[Microsoft Power Query|Power Query]] and Power Pivot in order to transform the data.
 >
 > **[1:16](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-tools-are-good-for-finance-analysts?u=76281980&t=76)** And then after you learn that, maybe go to a programing language.
 >
-> **[1:20](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-tools-are-good-for-finance-analysts?u=76281980&t=80)** So you can choose either Python or R, that they basically do the same thing.
+> **[1:20](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-tools-are-good-for-finance-analysts?u=76281980&t=80)** So you can choose either [[Python (Programming Language)|Python]] or R, that they basically do the same thing.
 >
 > **[1:24](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-tools-are-good-for-finance-analysts?u=76281980&t=84)** After that, if you want to improve that, basically what I recommend is Alteryx, that basically do whatever Python and R can do, it's just so much more easier to learn.
 >
-> **[1:38](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-tools-are-good-for-finance-analysts?u=76281980&t=98)** And the last said one, that visualization part, then I'll recommend either Tableau or Power BI.
+> **[1:38](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-tools-are-good-for-finance-analysts?u=76281980&t=98)** And the last said one, that visualization part, then I'll recommend either [[Tableau]] or [[Microsoft Power BI|Power BI]].
 >
 > **[1:46](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-tools-are-good-for-finance-analysts?u=76281980&t=106)** - [Interviewer] And I know with a lot of people, Power BI has really come on.
 >
@@ -447,11 +439,11 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-tools-are-good-for-finance-analysts?u=76281980&t=116)** It couldn't do much.
 >
-> **[1:57](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-tools-are-good-for-finance-analysts?u=76281980&t=117)** But recently I got reintroduced to it and it's a part of the Office Suite.
+> **[1:57](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-tools-are-good-for-finance-analysts?u=76281980&t=117)** But recently I got reintroduced to it and it's a part of the [[Microsoft Office|Office]] Suite.
 >
 > **[2:03](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-tools-are-good-for-finance-analysts?u=76281980&t=123)** So it's not like Tableau where you have to buy some multiple hundred thousand-dollar license.
 >
-> **[2:09](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-tools-are-good-for-finance-analysts?u=76281980&t=129)** It's just, if you have Microsoft stuff, you probably have access to it and so go do it.
+> **[2:09](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-tools-are-good-for-finance-analysts?u=76281980&t=129)** It's just, if you have [[Microsoft]] stuff, you probably have access to it and so go do it.
 >
 > **[2:16](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-tools-are-good-for-finance-analysts?u=76281980&t=136)** Which one of those would you say that you use more between Tableau and Power BI?
 >
@@ -501,7 +493,7 @@ created: 2026-05-02
 >
 > **[4:19](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-tools-are-good-for-finance-analysts?u=76281980&t=259)** - [Interviewee] Yeah, definitely.
 >
-> **[4:20](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-tools-are-good-for-finance-analysts?u=76281980&t=260)** I started learning and using Jupyter Notebooks quite a bit but then I think like a couple of years ago, I started learning about Google Colab, which is the one that I normally use now a bit more.
+> **[4:20](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-tools-are-good-for-finance-analysts?u=76281980&t=260)** I started learning and using Jupyter Notebooks quite a bit but then I think like a couple of years ago, I started learning about [[Google]] Colab, which is the one that I normally use now a bit more.
 >
 > **[4:34](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-tools-are-good-for-finance-analysts?u=76281980&t=274)** Because it's just like Google Docs, but for like programming languages.
 >
@@ -511,7 +503,7 @@ created: 2026-05-02
 >
 > **[4:46](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-tools-are-good-for-finance-analysts?u=76281980&t=286)** Now having said that, I still think as you are, that I wouldn't go to a meeting with C-suite or executives and then show the notebooks.
 >
-> **[4:56](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-tools-are-good-for-finance-analysts?u=76281980&t=296)** It's normally everything that we show, we can show them in Tableau, just because it's very very easy to show and use, but mainly still we're showing them in PowerPoint slides.
+> **[4:56](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-tools-are-good-for-finance-analysts?u=76281980&t=296)** It's normally everything that we show, we can show them in Tableau, just because it's very very easy to show and use, but mainly still we're showing them in [[Microsoft PowerPoint|PowerPoint]] slides.
 >
 > **[5:09](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-tools-are-good-for-finance-analysts?u=76281980&t=309)** - [Interviewer] Yeah.
 >
@@ -521,7 +513,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (11), power (9), bi (8), data (5), [[Microsoft Excel|Excel]] (4)
+> **Frameworks & Libraries:** [[Tableau]] (11), [[Microsoft Power BI|Power bi]] (8), [[Microsoft Excel|Excel]] (4), [[Python (Programming Language)|Python]] (4), [[Microsoft PowerPoint|Powerpoint]] (3)
 > **Speakers:** - [interviewer] (4), - [interviewee] (3)
 > **CLI Commands:** python (4)
 > **Tools:** jupyter (3), colab (1)
@@ -530,8 +522,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1), just like (1)
 > **Definitions:** is a  (1)
 
-#### Day in the life of a financial analyst
-> [LinkedIn Learning](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/day-in-the-life-of-a-financial-analyst?u=76281980)
+#### [Day in the life of a financial analyst](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/day-in-the-life-of-a-financial-analyst?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -561,7 +552,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/day-in-the-life-of-a-financial-analyst?u=76281980&t=59)** And again, I try to do basically the whole end process is either I give to someone else in the team to do it, or if I do it, it's basically understand the business request and there's on the business side of things of why that is needed, and then leverage the tool that will be needed to actually do the thing.
 >
-> **[1:18](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/day-in-the-life-of-a-financial-analyst?u=76281980&t=78)** It's going to be from Excel, for example, it can be Altrix, Python, Tableau, whatever.
+> **[1:18](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/day-in-the-life-of-a-financial-analyst?u=76281980&t=78)** It's going to be from [[Microsoft Excel|Excel]], for example, it can be Altrix, [[Python (Programming Language)|Python]], [[Tableau]], whatever.
 >
 > **[1:24](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/day-in-the-life-of-a-financial-analyst?u=76281980&t=84)** And then afterwards, it's basically either sending it to people if it's easy enough to understand or presenting it in either meetings, presentations, trainings, conferences, or whatever in order to help people basically use the insights that I got through all of these automation analytics from.
 >
@@ -569,13 +560,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), data (1), [[Microsoft Excel|Excel]] (1), [[Python (Programming Language)|Python]] (1), [[Tableau]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Python (Programming Language)|Python]] (1), [[Tableau]] (1)
 > **Speakers:** - [man (3)
 > **Analogies:** just like (1), for example (1)
 > **CLI Commands:** python (1)
 
-#### Presentation musts for financial analysts
-> [LinkedIn Learning](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/presentation-musts-for-financial-analysts?u=76281980)
+#### [Presentation musts for financial analysts](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/presentation-musts-for-financial-analysts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -601,9 +591,9 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/presentation-musts-for-financial-analysts?u=76281980&t=36)** Couple of years ago, even when I was working let's say in Switzerland, it was as you described.
 >
-> **[0:40](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/presentation-musts-for-financial-analysts?u=76281980&t=40)** I wear full-on suit and tie, I would come dressed up to go to the, the WTO, the office, to the UN, and then present some insights, present some data, something, in a room full of executives, like a big table.
+> **[0:40](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/presentation-musts-for-financial-analysts?u=76281980&t=40)** I wear full-on suit and tie, I would come dressed up to go to the, the WTO, the [[Microsoft Office|office]], to the UN, and then present some insights, present some data, something, in a room full of executives, like a big table.
 >
-> **[0:57](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/presentation-musts-for-financial-analysts?u=76281980&t=57)** And then it was a little bit intimidating, as you said, daunting, and basically present everything in PowerPoint.
+> **[0:57](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/presentation-musts-for-financial-analysts?u=76281980&t=57)** And then it was a little bit intimidating, as you said, daunting, and basically present everything in [[Microsoft PowerPoint|PowerPoint]].
 >
 > **[1:05](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/presentation-musts-for-financial-analysts?u=76281980&t=65)** Nowadays the presentation part is still very similar.
 >
@@ -615,7 +605,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/presentation-musts-for-financial-analysts?u=76281980&t=89)** Things also became more collaborative, I would say.
 >
-> **[1:32](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/presentation-musts-for-financial-analysts?u=76281980&t=92)** Because we mainly use Teams from Microsoft.
+> **[1:32](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/presentation-musts-for-financial-analysts?u=76281980&t=92)** Because we mainly use Teams from [[Microsoft]].
 >
 > **[1:37](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/presentation-musts-for-financial-analysts?u=76281980&t=97)** So basically like in there is really just like, okay, you can start presenting, but then they can take charge of the actual presentation and then modify things.
 >
@@ -623,7 +613,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/presentation-musts-for-financial-analysts?u=76281980&t=111)** And then like messaging on your monitor and start doing something else at the same time.
 >
-> **[1:58](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/presentation-musts-for-financial-analysts?u=76281980&t=118)** So things are more agile, I would say, right now.
+> **[1:58](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/presentation-musts-for-financial-analysts?u=76281980&t=118)** So things are more [[Agile Development|agile]], I would say, right now.
 >
 > **[2:01](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/presentation-musts-for-financial-analysts?u=76281980&t=121)** And obviously like also the part of like the the whole like suit, tie, going to the office.
 >
@@ -633,7 +623,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/presentation-musts-for-financial-analysts?u=76281980&t=132)** - So things are so much more different in that area as well.
 >
-> **[2:15](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/presentation-musts-for-financial-analysts?u=76281980&t=135)** - [Interviewer] I wonder if people in Paris, when they're doing zoom calls still dress up because I feel like it's a thing you do when you're in Paris.
+> **[2:15](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/presentation-musts-for-financial-analysts?u=76281980&t=135)** - [Interviewer] I wonder if people in Paris, when they're doing [[Zoom]] calls still dress up because I feel like it's a thing you do when you're in Paris.
 >
 > **[2:23](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/presentation-musts-for-financial-analysts?u=76281980&t=143)** It's just, you want to go take the trash out?
 >
@@ -647,26 +637,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Microsoft PowerPoint|Powerpoint]] (2), data (1), teams (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Microsoft PowerPoint|Powerpoint]] (2), [[Microsoft]] (1), [[Agile Development|Agile]] (1), [[Zoom]] (1)
 > **Speakers:** - [interviewer] (3), - yeah (2), - and (1), - so (1)
 > **Analogies:** just like (2), picture (1)
 > **Env Vars:** wto (1), covid (1)
 > **UI Navigation:** go to (1)
 
-#### How important are soft skills for financial analysts?
-> [LinkedIn Learning](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/how-important-are-soft-skills-for-financial-analysts?u=76281980)
+#### [How important are soft skills for financial analysts?](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/how-important-are-soft-skills-for-financial-analysts?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/how-important-are-soft-skills-for-financial-analysts?u=76281980&t=0)** - [Interviewer] You do some mentoring as well, and so, I'm curious, again, we're talking to that person that's thinking about getting into finance.
 >
-> **[0:08](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/how-important-are-soft-skills-for-financial-analysts?u=76281980&t=8)** What are some things, maybe, not the tools or the things they need to learn, but the other qualities, the other soft skills, that a person might need or want to develop to be successful in this field?
+> **[0:08](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/how-important-are-soft-skills-for-financial-analysts?u=76281980&t=8)** What are some things, maybe, not the tools or the things they need to learn, but the other qualities, the other [[Soft Skills]], that a person might need or want to develop to be successful in this field?
 >
 > **[0:22](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/how-important-are-soft-skills-for-financial-analysts?u=76281980&t=22)** - [Interviewee] Yeah. Definitely.
 >
 > **[0:23](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/how-important-are-soft-skills-for-financial-analysts?u=76281980&t=23)** I would say that there are two main ones.
 >
-> **[0:25](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/how-important-are-soft-skills-for-financial-analysts?u=76281980&t=25)** One is stakeholder engagement.
+> **[0:25](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/how-important-are-soft-skills-for-financial-analysts?u=76281980&t=25)** One is [[Stakeholder Engagement]].
 >
 > **[0:28](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/how-important-are-soft-skills-for-financial-analysts?u=76281980&t=28)** So basically like how to talk to them, how to understand what they need, like what's the business side of things, in order to understand what you actually need to do.
 >
@@ -688,7 +677,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/how-important-are-soft-skills-for-financial-analysts?u=76281980&t=77)** So I would say people to do three things.
 >
-> **[1:20](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/how-important-are-soft-skills-for-financial-analysts?u=76281980&t=80)** One, go to LinkedIn Learning and then type communication skills, presenting to executives, presentation tips and techniques, stuff like that.
+> **[1:20](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/how-important-are-soft-skills-for-financial-analysts?u=76281980&t=80)** One, go to [[LinkedIn]] Learning and then type communication skills, presenting to executives, presentation tips and techniques, stuff like that.
 >
 > **[1:30](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/how-important-are-soft-skills-for-financial-analysts?u=76281980&t=90)** Do a couple of courses in there in order to actually know the basics of what do you need to do.
 >
@@ -714,18 +703,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Soft Skills]] (2), [[Stakeholder Engagement]] (1), business (1), data (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Soft Skills]] (2), [[Stakeholder Engagement]] (1), [[LinkedIn]] (1)
 > **Speakers:** - [interviewer] (3), - [interviewee] (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 
-#### Should I learn crypto as a financial analyst?
-> [LinkedIn Learning](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/should-i-learn-crypto-as-a-financial-analyst?u=76281980)
+#### [Should I learn crypto as a financial analyst?](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/should-i-learn-crypto-as-a-financial-analyst?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/should-i-learn-crypto-as-a-financial-analyst?u=76281980&t=0)** - [Interviewer] And then, I also see that you do some stuff, and you mentioned it earlier, around cryptocurrencies, cryptocurrency markets and all that.
+> **[0:00](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/should-i-learn-crypto-as-a-financial-analyst?u=76281980&t=0)** - [Interviewer] And then, I also see that you do some stuff, and you mentioned it earlier, around cryptocurrencies, [[Cryptocurrency]] markets and all that.
 >
 > **[0:08](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/should-i-learn-crypto-as-a-financial-analyst?u=76281980&t=8)** Is this something that someone should pay attention to, in terms of a job?
 >
@@ -739,7 +727,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/should-i-learn-crypto-as-a-financial-analyst?u=76281980&t=26)** I mean, where do you stand on all that?
 >
-> **[0:29](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/should-i-learn-crypto-as-a-financial-analyst?u=76281980&t=29)** - [Interviewee] Yeah I know, I would say, not just with cryptocurrencies and blockchain, but with all of the new technologies, I would say, even if you don't want to invest on it or even if you don't want to become like a blockchain mogul or something that,
+> **[0:29](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/should-i-learn-crypto-as-a-financial-analyst?u=76281980&t=29)** - [Interviewee] Yeah I know, I would say, not just with cryptocurrencies and [[Blockchain]], but with all of the new technologies, I would say, even if you don't want to invest on it or even if you don't want to become like a blockchain mogul or something that,
 >
 > **[0:43](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/should-i-learn-crypto-as-a-financial-analyst?u=76281980&t=43)** - [Interviewer] Mh hmm.
 >
@@ -753,23 +741,22 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/should-i-learn-crypto-as-a-financial-analyst?u=76281980&t=68)** - [Interviewee] So, that's what I give.
 >
-> **[1:10](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/should-i-learn-crypto-as-a-financial-analyst?u=76281980&t=70)** If people don't know anything about like cryptocurrencies or blockchain right now, I would recommend them again, just quickly to go Google, go to Medium and then some learning a little bit of it and at the same time, try to research on what are the new technologies, that will happen in the next couple of years.
+> **[1:10](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/should-i-learn-crypto-as-a-financial-analyst?u=76281980&t=70)** If people don't know anything about like cryptocurrencies or blockchain right now, I would recommend them again, just quickly to go [[Google]], go to Medium and then some learning a little bit of it and at the same time, try to research on what are the new technologies, that will happen in the next couple of years.
 >
 > **[1:28](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/should-i-learn-crypto-as-a-financial-analyst?u=76281980&t=88)** - [Interviewer] Mh hmm.
 >
-> **[1:29](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/should-i-learn-crypto-as-a-financial-analyst?u=76281980&t=89)** - [Interviewee] Such as artificial intelligence, machine learning or quantum computing.
+> **[1:29](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/should-i-learn-crypto-as-a-financial-analyst?u=76281980&t=89)** - [Interviewee] Such as [[Artificial Intelligence (AI)|artificial intelligence]], machine learning or [[Quantum Computing]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (4), [[Cryptocurrency]] (1), [[Google]] (1), next (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Blockchain]] (4), [[Cryptocurrency]] (1), [[Google]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Quantum Computing]] (1)
 > **Speakers:** - [interviewer] (4), - [interviewee] (4)
 > **Analogies:** for example (1), just like (1), such as (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** you'll need (1)
 
-#### Will quantum computing change everything?
-> [LinkedIn Learning](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/will-quantum-computing-change-everything?u=76281980)
+#### [Will quantum computing change everything?](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/will-quantum-computing-change-everything?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -781,7 +768,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/will-quantum-computing-change-everything?u=76281980&t=10)** And if so, what do you think is going to change?
 >
-> **[0:13](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/will-quantum-computing-change-everything?u=76281980&t=13)** - Yeah, I know, I would say like on, let's say the 2020s on this decade, the main three things that we'll see in terms of technology would be quantum computing, Artificial Intelligence, and space exploration.
+> **[0:13](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/will-quantum-computing-change-everything?u=76281980&t=13)** - Yeah, I know, I would say like on, let's say the 2020s on this decade, the main three things that we'll see in terms of technology would be [[Quantum Computing]], [[Artificial Intelligence (AI)|Artificial Intelligence]], and space exploration.
 >
 > **[0:27](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/will-quantum-computing-change-everything?u=76281980&t=27)** - Aaah Okay.
 >
@@ -797,7 +784,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/will-quantum-computing-change-everything?u=76281980&t=56)** And they're like, oh, why don't we have robots in here that do other jobs.
 >
-> **[1:00](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/will-quantum-computing-change-everything?u=76281980&t=60)** But we have some machine learning algorithms that recommend you which movie or which TV show to watch every night in Netflix or your favorite (indistinct).
+> **[1:00](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/will-quantum-computing-change-everything?u=76281980&t=60)** But we have some machine learning [[Algorithms]] that recommend you which movie or which TV show to watch every night in Netflix or your favorite (indistinct).
 >
 > **[1:12](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/will-quantum-computing-change-everything?u=76281980&t=72)** So those technologies are already here, but then I would think that they'll be developing so much more in this upcoming eight years.
 >
@@ -811,19 +798,18 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/will-quantum-computing-change-everything?u=76281980&t=111)** That the AI stuff is here.
 >
-> **[1:52](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/will-quantum-computing-change-everything?u=76281980&t=112)** It's in many ways, you know computer vision is actually a great way where, you know Google photos is a great example where it just automatically knows who's in a photo and what's in a photo, you know, all those kind of things.
+> **[1:52](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/will-quantum-computing-change-everything?u=76281980&t=112)** It's in many ways, you know [[Computer Vision]] is actually a great way where, you know [[Google]] photos is a great example where it just automatically knows who's in a photo and what's in a photo, you know, all those kind of things.
 >
 > **[2:04](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/will-quantum-computing-change-everything?u=76281980&t=124)** That's fascinating.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Quantum Computing]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), ai (2), [[Algorithms]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Quantum Computing]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Algorithms]] (1), [[Computer Vision]] (1), [[Google]] (1)
 > **Speakers:** - yeah (2), - and (1), - aaah (1), - so (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Analogies:** such as (1)
 
-#### What machine learning skills should I learn for finance?
-> [LinkedIn Learning](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-machine-learning-skills-should-i-learn-for-finance?u=76281980)
+#### [What machine learning skills should I learn for finance?](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-machine-learning-skills-should-i-learn-for-finance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -845,7 +831,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-machine-learning-skills-should-i-learn-for-finance?u=76281980&t=23)** The first one, machine learning is very useful to predict the future.
 >
-> **[0:27](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-machine-learning-skills-should-i-learn-for-finance?u=76281980&t=27)** So if people are doing any type of forecasting in finance some of them are already being done with machine learning in order how to improve those forecasts.
+> **[0:27](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-machine-learning-skills-should-i-learn-for-finance?u=76281980&t=27)** So if people are doing any type of [[Forecasting]] in finance some of them are already being done with machine learning in order how to improve those forecasts.
 >
 > **[0:40](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-machine-learning-skills-should-i-learn-for-finance?u=76281980&t=40)** [Interviewer] Yeah.
 >
@@ -857,13 +843,13 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-machine-learning-skills-should-i-learn-for-finance?u=76281980&t=57)** Now in terms of learning about it, I also think that people will need to be learning about old finance professionals because in the upcoming years it will be very very vast changes.
 >
-> **[1:12](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-machine-learning-skills-should-i-learn-for-finance?u=76281980&t=72)** You don't need to learn, let's say like the most complex math part of things on how those algorithms work, but you can learn how to apply them.
+> **[1:12](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-machine-learning-skills-should-i-learn-for-finance?u=76281980&t=72)** You don't need to learn, let's say like the most complex math part of things on how those [[Algorithms]] work, but you can learn how to apply them.
 >
-> **[1:24](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-machine-learning-skills-should-i-learn-for-finance?u=76281980&t=84)** Even in Excel, you can apply one of those algorithms, that is linear regression.
+> **[1:24](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-machine-learning-skills-should-i-learn-for-finance?u=76281980&t=84)** Even in [[Microsoft Excel|Excel]], you can apply one of those algorithms, that is [[Linear Regression]].
 >
 > **[1:29](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-machine-learning-skills-should-i-learn-for-finance?u=76281980&t=89)** And it's very, very easy.
 >
-> **[1:31](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-machine-learning-skills-should-i-learn-for-finance?u=76281980&t=91)** But if you want to jump a little bit further then you can learn how to use them in let's say like Python or R or as I was saying, even if it's like in a more easier way, you can use either Altrix or Microsoft Azure to use those algorithms already in there.
+> **[1:31](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-machine-learning-skills-should-i-learn-for-finance?u=76281980&t=91)** But if you want to jump a little bit further then you can learn how to use them in let's say like [[Python (Programming Language)|Python]] or R or as I was saying, even if it's like in a more easier way, you can use either Altrix or [[Microsoft Azure]] to use those algorithms already in there.
 >
 > **[1:49](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-machine-learning-skills-should-i-learn-for-finance?u=76281980&t=109)** And basically there are drag and drop tools in order to use machine learning already in your day to day job.
 >
@@ -921,7 +907,7 @@ created: 2026-05-02
 >
 > **[4:11](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-machine-learning-skills-should-i-learn-for-finance?u=76281980&t=251)** So in machine learning, there are like multiple algorithms, but for predicting the future the easiest one is linear regression.
 >
-> **[4:20](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-machine-learning-skills-should-i-learn-for-finance?u=76281980&t=260)** And you can also use, then let's say like logistic regression, or there are a little bit some others that are a bit fancier like there's one called random forest, for example.
+> **[4:20](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-machine-learning-skills-should-i-learn-for-finance?u=76281980&t=260)** And you can also use, then let's say like [[Logistic Regression]], or there are a little bit some others that are a bit fancier like there's one called random forest, for example.
 >
 > **[4:30](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-machine-learning-skills-should-i-learn-for-finance?u=76281980&t=270)** But again, just to identify which algorithm to use.
 >
@@ -951,7 +937,7 @@ created: 2026-05-02
 >
 > **[5:45](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-machine-learning-skills-should-i-learn-for-finance?u=76281980&t=345)** This isn't catch up on Mars.
 >
-> **[5:47](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-machine-learning-skills-should-i-learn-for-finance?u=76281980&t=347)** This is like real, day to day somebody in an office somewhere is doing this in Excel or some other tool.
+> **[5:47](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-machine-learning-skills-should-i-learn-for-finance?u=76281980&t=347)** This is like real, day to day somebody in an [[Microsoft Office|office]] somewhere is doing this in Excel or some other tool.
 >
 > **[5:53](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-machine-learning-skills-should-i-learn-for-finance?u=76281980&t=353)** - [Interviewee] Yep, yeah, exactly.
 >
@@ -961,15 +947,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Algorithms]] (4), [[Linear Regression]] (3), [[Microsoft Excel|Excel]] (2), next (2)
+> **Frameworks & Libraries:** [[Algorithms]] (4), [[Linear Regression]] (3), [[Microsoft Excel|Excel]] (2), [[Forecasting]] (1), [[Python (Programming Language)|Python]] (1)
 > **Speakers:** - [interviewer] (5), - [interviewee] (4), - [interviwer] (1), - [interviwee] (1)
 > **Analogies:** for example (2), it's like (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** python (1)
 > **UI Navigation:** drag and drop (1)
 
-#### Benefits of becoming a financial analyst
-> [LinkedIn Learning](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/benefits-of-becoming-a-financial-analyst?u=76281980)
+#### [Benefits of becoming a financial analyst](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/benefits-of-becoming-a-financial-analyst?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -991,7 +976,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/benefits-of-becoming-a-financial-analyst?u=76281980&t=52)** In order to, okay, make people happier at their jobs and increase their engagement so that they don't leave.
 >
-> **[0:59](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/benefits-of-becoming-a-financial-analyst?u=76281980&t=59)** Those different things, improve the quality of our products.
+> **[0:59](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/benefits-of-becoming-a-financial-analyst?u=76281980&t=59)** Those different things, improve the quality of our [[Microsoft Products|products]].
 >
 > **[1:02](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/benefits-of-becoming-a-financial-analyst?u=76281980&t=62)** For example, then you will be adding value to the organization.
 >
@@ -1019,13 +1004,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (2), [[Analytics]] (2), [[Microsoft Products|Products]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Speakers:** - [man (3)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 
-#### Skills you need to level up your finance career
-> [LinkedIn Learning](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/skills-you-need-to-level-up-your-finance-career?u=76281980)
+#### [Skills you need to level up your finance career](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/skills-you-need-to-level-up-your-finance-career?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1059,7 +1043,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/skills-you-need-to-level-up-your-finance-career?u=76281980&t=106)** Now in terms of more hard skills, I would say that there are a lot of people that know how to do one thing in one specific tool, like going back to the analytics, in one specific tool and they always use that tool to do everything.
 >
-> **[2:03](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/skills-you-need-to-level-up-your-finance-career?u=76281980&t=123)** Now, the ones that try to diversify the tool and even if it's exactly the same and it has a 1% improvement to use, let's say, Python instead of Excel, then for that task, it'll be just 1% improvement.
+> **[2:03](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/skills-you-need-to-level-up-your-finance-career?u=76281980&t=123)** Now, the ones that try to diversify the tool and even if it's exactly the same and it has a 1% improvement to use, let's say, [[Python (Programming Language)|Python]] instead of [[Microsoft Excel|Excel]], then for that task, it'll be just 1% improvement.
 >
 > **[2:16](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/skills-you-need-to-level-up-your-finance-career?u=76281980&t=136)** But then that will open to a new world of way of seeing things and to solve problems.
 >
@@ -1081,24 +1065,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (3), next (1), [[Python (Programming Language)|Python]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Microsoft Excel|Excel]] (1)
 > **Speakers:** - now (1), - [interviewee] (1), - [interviewer] (1)
 > **CLI Commands:** python (1)
 > **UI Navigation:** go to (1)
 > **Best Practices:** rule of thumb (1)
 
-#### What the future holds for financial analysts
-> [LinkedIn Learning](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-the-future-holds-for-financial-analysts?u=76281980)
+#### [What the future holds for financial analysts](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-the-future-holds-for-financial-analysts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-the-future-holds-for-financial-analysts?u=76281980&t=0)** - [Interviewer] Now, what kind of things are you most excited about right now in the world of finance, in the world of cryptocurrency all this stuff we talked about here, you know what projects do you have that you're... I mean, obviously moving to Amsterdam, we talked about, but what else do you see out there where you're like, oh that is going to be a thing that I'm really excited about coming up in this kind of space here?
+> **[0:00](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-the-future-holds-for-financial-analysts?u=76281980&t=0)** - [Interviewer] Now, what kind of things are you most excited about right now in the world of finance, in the world of [[Cryptocurrency]] all this stuff we talked about here, you know what projects do you have that you're... I mean, obviously moving to Amsterdam, we talked about, but what else do you see out there where you're like, oh that is going to be a thing that I'm really excited about coming up in this kind of space here?
 >
 > **[0:23](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-the-future-holds-for-financial-analysts?u=76281980&t=23)** - [Man] Yeah, definitely.
 >
 > **[0:24](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-the-future-holds-for-financial-analysts?u=76281980&t=24)** So one of the things that I'm most excited about is auto machine learning.
 >
-> **[0:29](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-the-future-holds-for-financial-analysts?u=76281980&t=29)** That is basically using machine learning to improve machine learning algorithms, in a very easy way.
+> **[0:29](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-the-future-holds-for-financial-analysts?u=76281980&t=29)** That is basically using machine learning to improve machine learning [[Algorithms]], in a very easy way.
 >
 > **[0:37](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-the-future-holds-for-financial-analysts?u=76281980&t=37)** So one of the projects I will start this year.
 >
@@ -1110,7 +1093,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-the-future-holds-for-financial-analysts?u=76281980&t=75)** So that's one of the newest things that I'm like more excited about.
 >
-> **[1:19](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-the-future-holds-for-financial-analysts?u=76281980&t=79)** And the second one is not that new, but I like from last year, I have been really excited about all of the improvements that Tableau is doing for its software.
+> **[1:19](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-the-future-holds-for-financial-analysts?u=76281980&t=79)** And the second one is not that new, but I like from last year, I have been really excited about all of the improvements that [[Tableau]] is doing for its software.
 >
 > **[1:32](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-the-future-holds-for-financial-analysts?u=76281980&t=92)** So one of the other things that I'll be doing that this year is to basically teach people how to use Tableau and how to perform more like data visualizations in a better way to communicate the insights.
 >
@@ -1126,18 +1109,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (3), [[Algorithms]] (2), data (2), [[Cryptocurrency]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (3), [[Algorithms]] (2), [[Cryptocurrency]] (1)
 > **Cross-References:** we talked about (2), coming up (1)
 > **Speakers:** - [interviewer] (2), - [man] (1)
 
-#### What is AutoML?
-> [LinkedIn Learning](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-is-automl?u=76281980)
+#### [What is AutoML?](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-is-automl?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-is-automl?u=76281980&t=0)** - Tell me more about this auto ML.
 >
-> **[0:01](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-is-automl?u=76281980&t=1)** I mean, I've seen stuff in the past Tableau kind of has some of these skills, right?
+> **[0:01](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-is-automl?u=76281980&t=1)** I mean, I've seen stuff in the past [[Tableau]] kind of has some of these skills, right?
 >
 > **[0:05](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-is-automl?u=76281980&t=5)** You have some data and you say give me some clusters bink, and here's your clusters.
 >
@@ -1157,9 +1139,9 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-is-automl?u=76281980&t=22)** So there are like multiple ways that you can use it as you were saying, Tableau already has some capabilities that use that technology in order to show you your clusters or predictions.
 >
-> **[0:34](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-is-automl?u=76281980&t=34)** The one that I was talking about is these companies like Amazon, Microsoft, and Google they all have a different let's say like suite to do things.
+> **[0:34](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-is-automl?u=76281980&t=34)** The one that I was talking about is these companies like Amazon, [[Microsoft]], and [[Google]] they all have a different let's say like suite to do things.
 >
-> **[0:45](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-is-automl?u=76281980&t=45)** So Amazon has like AWS Microsoft has Azure that is the one that I'm like starting to use nowadays.
+> **[0:45](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-is-automl?u=76281980&t=45)** So Amazon has like AWS Microsoft has [[Microsoft Azure|Azure]] that is the one that I'm like starting to use nowadays.
 >
 > **[0:52](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-is-automl?u=76281980&t=52)** And it's basically, you put the data in then you select which algorithm you want to use.
 >
@@ -1167,7 +1149,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-is-automl?u=76281980&t=63)** And then the results are there.
 >
-> **[1:05](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-is-automl?u=76281980&t=65)** And it's not even like just one algorithm because one of the things with machine learning is that you need to test multiple algorithms to see which ones fit the data best.
+> **[1:05](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-is-automl?u=76281980&t=65)** And it's not even like just one algorithm because one of the things with machine learning is that you need to test multiple [[Algorithms]] to see which ones fit the data best.
 >
 > **[1:15](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-is-automl?u=76281980&t=75)** And that's the part of like, if you know the mask behind it then it's really useful.
 >
@@ -1185,11 +1167,11 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-is-automl?u=76281980&t=105)** - Which is the one that I believe that finance professionals will be using in the upcoming year.
 >
-> **[1:50](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-is-automl?u=76281980&t=110)** - Yeah. So it sounds like if I'm looking to get into this to recap here, I want to, I got to know some basics in Excel, possibly SQL, And if I want to go further maybe some Python or R, Tableau, Power BI, those kind of things.
+> **[1:50](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-is-automl?u=76281980&t=110)** - Yeah. So it sounds like if I'm looking to get into this to recap here, I want to, I got to know some basics in [[Microsoft Excel|Excel]], possibly [[SQL]], And if I want to go further maybe some [[Python (Programming Language)|Python]] or R, Tableau, [[Microsoft Power BI|Power BI]], those kind of things.
 >
 > **[2:05](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-is-automl?u=76281980&t=125)** Communication skills are key, understanding that your audience, your stakeholders is key.
 >
-> **[2:11](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-is-automl?u=76281980&t=131)** And if I want to add in some more fun stuff some machine learning here is kind of a new, another way to kind of take it to the next level and then cryptocurrency stuff.
+> **[2:11](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-is-automl?u=76281980&t=131)** And if I want to add in some more fun stuff some machine learning here is kind of a new, another way to kind of take it to the next level and then [[Cryptocurrency]] stuff.
 >
 > **[2:20](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-is-automl?u=76281980&t=140)** We kind of think just, it's related to finance, so we should be aware of what's going on.
 >
@@ -1201,7 +1183,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (3), data (3), [[Microsoft]] (2), [[Microsoft Azure|Azure]] (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (3), [[Microsoft]] (2), [[Microsoft Azure|Azure]] (2), [[Google]] (1), [[Algorithms]] (1)
 > **Speakers:** - yeah (2), - tell (1), - got (1), - which (1), - yes (1)
 > **CLI Commands:** aws (1), python (1)
 > **Env Vars:** aws (1), sql (1)
@@ -1209,12 +1191,11 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Warnings:** be aware (1)
 
-#### What is blockchain?
-> [LinkedIn Learning](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-is-blockchain?u=76281980)
+#### [What is blockchain?](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-is-blockchain?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-is-blockchain?u=76281980&t=0)** - [Interviewer] Yeah, and you mentioned blockchain.
+> **[0:00](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-is-blockchain?u=76281980&t=0)** - [Interviewer] Yeah, and you mentioned [[Blockchain]].
 >
 > **[0:04](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/what-is-blockchain?u=76281980&t=4)** So give me your 30 seconds on what is the blockchain for anyone that has heard it, but doesn't really know, 'cause I feel like we all hear a lot of these terms, AI and whatever, but what is it really, and how do you think about blockchain here?
 >
@@ -1248,14 +1229,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (6), ai (1), node (1)
+> **Frameworks & Libraries:** [[Blockchain]] (6)
 > **Speakers:** - [interviewer] (3), - [respondent] (2)
 > **Analogies:** it's like (2), for example (1)
 > **CLI Commands:** make (1), node (1)
 > **Definitions:** is a  (1)
 
-#### Outro
-> [LinkedIn Learning](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/outro?u=76281980)
+#### [Outro](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/outro?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1265,7 +1245,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Speakers:** - [narrator] (1)
 
 

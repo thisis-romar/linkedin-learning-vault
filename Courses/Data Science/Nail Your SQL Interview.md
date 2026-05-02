@@ -76,12 +76,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Build confidence for your SQL interview
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-sql-interview/build-confidence-for-your-sql-interview?u=76281980)
+#### [Build confidence for your SQL interview](https://www.linkedin.com/learning/nail-your-sql-interview/build-confidence-for-your-sql-interview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nail-your-sql-interview/build-confidence-for-your-sql-interview?u=76281980&t=0)** - Whether you've just landed that first SQL interview or you're just starting out, I want to extend a heartfelt congratulations and let you know, you've got this.
+> **[0:00](https://www.linkedin.com/learning/nail-your-sql-interview/build-confidence-for-your-sql-interview?u=76281980&t=0)** - Whether you've just landed that first [[SQL]] interview or you're just starting out, I want to extend a heartfelt congratulations and let you know, you've got this.
 >
 > **[0:08](https://www.linkedin.com/learning/nail-your-sql-interview/build-confidence-for-your-sql-interview?u=76281980&t=8)** We're going to expand on your background and what you already know, and get you ready for your first SQL interview.
 >
@@ -109,12 +108,11 @@ created: 2026-05-02
 > **Env Vars:** sql (6)
 > **Speakers:** - whether (1)
 
-#### Common SQL terminology
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-sql-interview/common-sql-terminology?u=76281980)
+#### [Common SQL terminology](https://www.linkedin.com/learning/nail-your-sql-interview/common-sql-terminology?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nail-your-sql-interview/common-sql-terminology?u=76281980&t=0)** - Hello, and welcome to SQL Terminology and Concepts.
+> **[0:00](https://www.linkedin.com/learning/nail-your-sql-interview/common-sql-terminology?u=76281980&t=0)** - Hello, and welcome to [[SQL]] Terminology and Concepts.
 >
 > **[0:04](https://www.linkedin.com/learning/nail-your-sql-interview/common-sql-terminology?u=76281980&t=4)** During your SQL interview, it's likely that you'll be asked some basic questions about terminology or concepts related to SQL.
 >
@@ -280,7 +278,7 @@ created: 2026-05-02
 >
 > **[6:07](https://www.linkedin.com/learning/nail-your-sql-interview/common-sql-terminology?u=76281980&t=367)** When we execute these commands, we are altering the way the table exists, or if it exists.
 >
-> **[6:12](https://www.linkedin.com/learning/nail-your-sql-interview/common-sql-terminology?u=76281980&t=372)** Data manipulation language is the way in which we modify or manipulate the data within a table.
+> **[6:12](https://www.linkedin.com/learning/nail-your-sql-interview/common-sql-terminology?u=76281980&t=372)** [[Data Manipulation]] language is the way in which we modify or manipulate the data within a table.
 >
 > **[6:17](https://www.linkedin.com/learning/nail-your-sql-interview/common-sql-terminology?u=76281980&t=377)** When we insert, update, or delete, we are modifying the table or manipulating it.
 >
@@ -308,7 +306,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[SQL]] (11), next (4), [[Data Manipulation]] (2), database (1)
+> **Frameworks & Libraries:** [[SQL]] (11), [[Data Manipulation]] (2)
 > **Env Vars:** sql (11), select (3), where (3), order (3), having (3)
 > **SQL:** select (3), where (3), order by (3), having (3), group by (3)
 > **Non-Speech:** (upbeat music) (8)
@@ -317,12 +315,11 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise files (1)
 
-#### What an SQL interview is like
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-sql-interview/what-an-sql-interview-is-like?u=76281980)
+#### [What an SQL interview is like](https://www.linkedin.com/learning/nail-your-sql-interview/what-an-sql-interview-is-like?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nail-your-sql-interview/what-an-sql-interview-is-like?u=76281980&t=0)** - [Instructor] So you've been studying and working with databases using your preferred server, whether it's MySQL or Microsoft SQL Server, and you feel pretty confident walking into the interview.
+> **[0:00](https://www.linkedin.com/learning/nail-your-sql-interview/what-an-sql-interview-is-like?u=76281980&t=0)** - [Instructor] So you've been studying and working with [[Databases]] using your preferred server, whether it's [[MySQL]] or [[Microsoft SQL Server]], and you feel pretty confident walking into the interview.
 >
 > **[0:10](https://www.linkedin.com/learning/nail-your-sql-interview/what-an-sql-interview-is-like?u=76281980&t=10)** Your code is solid. You've practiced.
 >
@@ -330,7 +327,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/nail-your-sql-interview/what-an-sql-interview-is-like?u=76281980&t=16)** What do you do?
 >
-> **[0:17](https://www.linkedin.com/learning/nail-your-sql-interview/what-an-sql-interview-is-like?u=76281980&t=17)** This may seem odd, but most SQL interviews I've had have been paper and pen or an interviewer asking me questions.
+> **[0:17](https://www.linkedin.com/learning/nail-your-sql-interview/what-an-sql-interview-is-like?u=76281980&t=17)** This may seem odd, but most [[SQL]] interviews I've had have been paper and pen or an interviewer asking me questions.
 >
 > **[0:23](https://www.linkedin.com/learning/nail-your-sql-interview/what-an-sql-interview-is-like?u=76281980&t=23)** It can catch you off guard, even if you prepared and reviewed thoroughly.
 >
@@ -433,18 +430,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create and seed a table with data
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-sql-interview/create-and-seed-a-table-with-data?u=76281980)
+#### [Create and seed a table with data](https://www.linkedin.com/learning/nail-your-sql-interview/create-and-seed-a-table-with-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nail-your-sql-interview/create-and-seed-a-table-with-data?u=76281980&t=0)** - [Instructor] When starting your journey with SQL, you get used to having the ID supplying hints and error messaging to give you insight into syntax and typos.
+> **[0:00](https://www.linkedin.com/learning/nail-your-sql-interview/create-and-seed-a-table-with-data?u=76281980&t=0)** - [Instructor] When starting your journey with [[SQL]], you get used to having the ID supplying hints and error messaging to give you insight into syntax and typos.
 >
 > **[0:09](https://www.linkedin.com/learning/nail-your-sql-interview/create-and-seed-a-table-with-data?u=76281980&t=9)** Since some SQL interviews are actually written, most that I've encountered actually, you may not have the ability to use intelligence when answering specific questions in your interview.
 >
 > **[0:18](https://www.linkedin.com/learning/nail-your-sql-interview/create-and-seed-a-table-with-data?u=76281980&t=18)** Because of this, let's look at some techniques.
 >
-> **[0:21](https://www.linkedin.com/learning/nail-your-sql-interview/create-and-seed-a-table-with-data?u=76281980&t=21)** As a reminder, you use two dashes in Microsoft SQL server for comments.
+> **[0:21](https://www.linkedin.com/learning/nail-your-sql-interview/create-and-seed-a-table-with-data?u=76281980&t=21)** As a reminder, you use two dashes in [[Microsoft SQL Server]] for comments.
 >
 > **[0:26](https://www.linkedin.com/learning/nail-your-sql-interview/create-and-seed-a-table-with-data?u=76281980&t=26)** Comments are a good way to keep track of what you need to do and when.
 >
@@ -528,7 +524,7 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/nail-your-sql-interview/create-and-seed-a-table-with-data?u=76281980&t=236)** And I like to put in all of my quotation marks at the very beginning and go back and just input the data.
 >
-> **[4:06](https://www.linkedin.com/learning/nail-your-sql-interview/create-and-seed-a-table-with-data?u=76281980&t=246)** The very first, go with John Arthur.
+> **[4:06](https://www.linkedin.com/learning/nail-your-sql-interview/create-and-seed-a-table-with-data?u=76281980&t=246)** The very first, go with [[John the Ripper|John]] Arthur.
 >
 > **[4:16](https://www.linkedin.com/learning/nail-your-sql-interview/create-and-seed-a-table-with-data?u=76281980&t=256)** Let's give him an email address.
 >
@@ -556,7 +552,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[SQL]] (2), [[Microsoft SQL Server]] (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Microsoft SQL Server]] (1), [[John the Ripper|John]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** sql (3)
 > **Code Identifiers:** employee_info (1)
@@ -564,12 +560,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Modify existing tables with ALTER
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-sql-interview/modify-existing-tables-with-alter?u=76281980)
+#### [Modify existing tables with ALTER](https://www.linkedin.com/learning/nail-your-sql-interview/modify-existing-tables-with-alter?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nail-your-sql-interview/modify-existing-tables-with-alter?u=76281980&t=0)** - [Instructor] In SQL, as in life, we don't always get it right the first time.
+> **[0:00](https://www.linkedin.com/learning/nail-your-sql-interview/modify-existing-tables-with-alter?u=76281980&t=0)** - [Instructor] In [[SQL]], as in life, we don't always get it right the first time.
 >
 > **[0:04](https://www.linkedin.com/learning/nail-your-sql-interview/modify-existing-tables-with-alter?u=76281980&t=4)** Perhaps you didn't create a column you meant to create or you gave it the wrong data type.
 >
@@ -647,15 +642,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), next (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** alter (7), sql (1), drop (1)
 > **Code Identifiers:** employee_info (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Working with the TRUNCATE and DROP command
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-sql-interview/working-with-the-truncate-and-drop-command?u=76281980)
+#### [Working with the TRUNCATE and DROP command](https://www.linkedin.com/learning/nail-your-sql-interview/working-with-the-truncate-and-drop-command?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -781,7 +775,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), database (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is called (1)
 > **Warnings:** keep in mind (1)
@@ -792,8 +785,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Querying the table with logical operator LIKE
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-sql-interview/querying-the-table-with-logical-operator-like?u=76281980)
+#### [Querying the table with logical operator LIKE](https://www.linkedin.com/learning/nail-your-sql-interview/querying-the-table-with-logical-operator-like?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -935,7 +927,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), next (1)
 > **Env Vars:** between (2), null (1), exists (1), ames (1)
 > **UI Navigation:** select the (3), scroll down (1)
 > **Non-Speech:** (upbeat music) (3)
@@ -943,9 +934,9 @@ created: 2026-05-02
 > **URLs:** [gmail.com](https://gmail.com) (2)
 > **Definitions:** is a  (2)
 > **Analogies:** similar to (1)
+> **Speakers:** - [instructor] (1)
 
-#### Querying the table with logical operators IN and BETWEEN
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-sql-interview/querying-the-table-with-logical-operators-in-and-between?u=76281980)
+#### [Querying the table with logical operators IN and BETWEEN](https://www.linkedin.com/learning/nail-your-sql-interview/querying-the-table-with-logical-operators-in-and-between?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1011,7 +1002,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/nail-your-sql-interview/querying-the-table-with-logical-operators-in-and-between?u=76281980&t=171)** And if you've never worked with the DATENAME function, you can use it to convert a date to any interval of your choosing pretty much, you can use month, day, year, even weekday.
 >
-> **[3:02](https://www.linkedin.com/learning/nail-your-sql-interview/querying-the-table-with-logical-operators-in-and-between?u=76281980&t=182)** And finally, I want to pull out data for the dress size between two and 16, where their pant size, they have a wildcard here, as something before the word, or before the letter L.
+> **[3:02](https://www.linkedin.com/learning/nail-your-sql-interview/querying-the-table-with-logical-operators-in-and-between?u=76281980&t=182)** And finally, I want to pull out data for the dress size between two and 16, where their pant size, they have a wildcard here, as something before the [[Microsoft Word|word]], or before the letter L.
 >
 > **[3:17](https://www.linkedin.com/learning/nail-your-sql-interview/querying-the-table-with-logical-operators-in-and-between?u=76281980&t=197)** And I'm going to order by birth month.
 >
@@ -1051,7 +1042,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Env Vars:** between (2), xxl (2), datename (2)
 > **Non-Speech:** (upbeat music) (3)
 > **UI Navigation:** select the (2)
@@ -1059,8 +1050,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with the COALESCE command
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-sql-interview/working-with-the-coalesce-command?u=76281980)
+#### [Working with the COALESCE command](https://www.linkedin.com/learning/nail-your-sql-interview/working-with-the-coalesce-command?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1084,7 +1074,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/nail-your-sql-interview/working-with-the-coalesce-command?u=76281980&t=37)** So it looks like we have a new employee and they've only given us their first name and their favorite color.
 >
-> **[0:42](https://www.linkedin.com/learning/nail-your-sql-interview/working-with-the-coalesce-command?u=76281980&t=42)** So we're just are going to put that information into our table and figure out the rest when we need to.
+> **[0:42](https://www.linkedin.com/learning/nail-your-sql-interview/working-with-the-coalesce-command?u=76281980&t=42)** So we're just are going to put that information into our table and figure out the [[Representational State Transfer (REST)|rest]] when we need to.
 >
 > **[0:47](https://www.linkedin.com/learning/nail-your-sql-interview/working-with-the-coalesce-command?u=76281980&t=47)** And let's select this and insert Jenny into our table.
 >
@@ -1140,14 +1130,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** analogous to (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - welcome (1)
 
-#### Challenge: End of year raises with COALESCE
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-sql-interview/challenge-end-of-year-raises-with-coalesce?u=76281980)
+#### [Challenge: End of year raises with COALESCE](https://www.linkedin.com/learning/nail-your-sql-interview/challenge-end-of-year-raises-with-coalesce?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1179,11 +1168,11 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/nail-your-sql-interview/challenge-end-of-year-raises-with-coalesce?u=76281980&t=63)** If they don't have a current salary, AKA the new hires, then their starting salary should be in the new salary column.
 >
-> **[1:10](https://www.linkedin.com/learning/nail-your-sql-interview/challenge-end-of-year-raises-with-coalesce?u=76281980&t=70)** Depending on your previous experience with SQL, this can take you anywhere from 10 to 30 minutes to complete.
+> **[1:10](https://www.linkedin.com/learning/nail-your-sql-interview/challenge-end-of-year-raises-with-coalesce?u=76281980&t=70)** Depending on your previous experience with [[SQL]], this can take you anywhere from 10 to 30 minutes to complete.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** coalesce (3), aka (1), sql (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -1191,8 +1180,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: End of year raises with COALESCE
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-sql-interview/solution-end-of-year-raises-with-coalesce?u=76281980)
+#### [Solution: End of year raises with COALESCE](https://www.linkedin.com/learning/nail-your-sql-interview/solution-end-of-year-raises-with-coalesce?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1268,7 +1256,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1278,8 +1265,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Update the table with UPDATE or ALTER
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-sql-interview/update-the-table-with-update-or-alter?u=76281980)
+#### [Update the table with UPDATE or ALTER](https://www.linkedin.com/learning/nail-your-sql-interview/update-the-table-with-update-or-alter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1383,7 +1369,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4)
 > **Non-Speech:** (jazzy piano music) (2), (jazzy upbeat music) (1), (jazzy music) (1)
 > **Env Vars:** usa (3)
 > **CLI Commands:** make (1)
@@ -1391,12 +1376,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Delete data using transactions
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-sql-interview/delete-data-using-transactions?u=76281980)
+#### [Delete data using transactions](https://www.linkedin.com/learning/nail-your-sql-interview/delete-data-using-transactions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nail-your-sql-interview/delete-data-using-transactions?u=76281980&t=0)** - [Instructor] There's a fear in SQL that's in life that will make a mistake that we can't recover from.
+> **[0:00](https://www.linkedin.com/learning/nail-your-sql-interview/delete-data-using-transactions?u=76281980&t=0)** - [Instructor] There's a fear in [[SQL]] that's in life that will make a mistake that we can't recover from.
 >
 > **[0:05](https://www.linkedin.com/learning/nail-your-sql-interview/delete-data-using-transactions?u=76281980&t=5)** We'll delete something that we weren't meant to delete.
 >
@@ -1424,11 +1408,11 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/nail-your-sql-interview/delete-data-using-transactions?u=76281980&t=50)** Give it a try.
 >
-> **[0:51](https://www.linkedin.com/learning/nail-your-sql-interview/delete-data-using-transactions?u=76281980&t=51)** (cheerful music) I'm using Microsoft SQL server.
+> **[0:51](https://www.linkedin.com/learning/nail-your-sql-interview/delete-data-using-transactions?u=76281980&t=51)** (cheerful music) I'm using [[Microsoft SQL Server]].
 >
 > **[0:58](https://www.linkedin.com/learning/nail-your-sql-interview/delete-data-using-transactions?u=76281980&t=58)** So I'm using, begin transaction.
 >
-> **[1:01](https://www.linkedin.com/learning/nail-your-sql-interview/delete-data-using-transactions?u=76281980&t=61)** Your syntax may be a little bit it different, if you're using something else, like MySQL for example.
+> **[1:01](https://www.linkedin.com/learning/nail-your-sql-interview/delete-data-using-transactions?u=76281980&t=61)** Your syntax may be a little bit it different, if you're using something else, like [[MySQL]] for example.
 >
 > **[1:06](https://www.linkedin.com/learning/nail-your-sql-interview/delete-data-using-transactions?u=76281980&t=66)** We're going to select all from the employee salary table where the last name is like lm or ei.
 >
@@ -1486,7 +1470,7 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/nail-your-sql-interview/delete-data-using-transactions?u=76281980&t=233)** And finally, I'm going to roll back my changes were at the table for the last time.
 >
-> **[4:00](https://www.linkedin.com/learning/nail-your-sql-interview/delete-data-using-transactions?u=76281980&t=240)** So the main takeaways for this video are to make sure that you know the syntax for your Relational Database Management System to start a transaction.
+> **[4:00](https://www.linkedin.com/learning/nail-your-sql-interview/delete-data-using-transactions?u=76281980&t=240)** So the main takeaways for this video are to make sure that you know the syntax for your Relational [[Database Management]] System to start a transaction.
 >
 > **[4:08](https://www.linkedin.com/learning/nail-your-sql-interview/delete-data-using-transactions?u=76281980&t=248)** The syntax may vary.
 >
@@ -1496,7 +1480,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (2), database (2), next (2), [[Microsoft SQL Server]] (1), [[MySQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Microsoft SQL Server]] (1), [[MySQL]] (1), [[Database Management]] (1)
 > **CLI Commands:** make (7), find (1), mysql (1)
 > **Non-Speech:** (cheerful music) (3), (keyboard clicking) (3)
 > **Env Vars:** sql (3), select (2)
@@ -1510,8 +1494,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating savepoints and commits in SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-sql-interview/creating-savepoints-and-commits-in-sql?u=76281980)
+#### [Creating savepoints and commits in SQL](https://www.linkedin.com/learning/nail-your-sql-interview/creating-savepoints-and-commits-in-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1585,7 +1568,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/nail-your-sql-interview/creating-savepoints-and-commits-in-sql?u=76281980&t=219)** If you've been here since the beginning, or if this was your first video, I appreciate you being here.
 >
-> **[3:44](https://www.linkedin.com/learning/nail-your-sql-interview/creating-savepoints-and-commits-in-sql?u=76281980&t=224)** I hope that you were able to take away some useful information that will aid you in your SQL interview.
+> **[3:44](https://www.linkedin.com/learning/nail-your-sql-interview/creating-savepoints-and-commits-in-sql?u=76281980&t=224)** I hope that you were able to take away some useful information that will aid you in your [[SQL]] interview.
 
 > [!info]- Semantic Content
 >
@@ -1600,8 +1583,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Be prepared for your interview
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-sql-interview/be-prepared-for-your-interview?u=76281980)
+#### [Be prepared for your interview](https://www.linkedin.com/learning/nail-your-sql-interview/be-prepared-for-your-interview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1617,9 +1599,9 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/nail-your-sql-interview/be-prepared-for-your-interview?u=76281980&t=17)** We've covered a lot in our time together, but there is more still to learn.
 >
-> **[0:20](https://www.linkedin.com/learning/nail-your-sql-interview/be-prepared-for-your-interview?u=76281980&t=20)** I encourage you to take a look around LinkedIn Learning to explore some other courses that may pique your interest.
+> **[0:20](https://www.linkedin.com/learning/nail-your-sql-interview/be-prepared-for-your-interview?u=76281980&t=20)** I encourage you to take a look around [[LinkedIn]] Learning to explore some other courses that may pique your interest.
 >
-> **[0:26](https://www.linkedin.com/learning/nail-your-sql-interview/be-prepared-for-your-interview?u=76281980&t=26)** In addition to that, there are myriad videos, books and other mediums of information regarding SQL that'll help you along your way.
+> **[0:26](https://www.linkedin.com/learning/nail-your-sql-interview/be-prepared-for-your-interview?u=76281980&t=26)** In addition to that, there are myriad videos, books and other mediums of information regarding [[SQL]] that'll help you along your way.
 >
 > **[0:33](https://www.linkedin.com/learning/nail-your-sql-interview/be-prepared-for-your-interview?u=76281980&t=33)** You don't need to learn it all today, but never stop acquiring knowledge.
 >
@@ -1637,9 +1619,9 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/nail-your-sql-interview/be-prepared-for-your-interview?u=76281980&t=60)** I highly recommend this book.
 >
-> **[1:02](https://www.linkedin.com/learning/nail-your-sql-interview/be-prepared-for-your-interview?u=76281980&t=62)** And last in terms of books is the "Database Design for Mere Mortals."
+> **[1:02](https://www.linkedin.com/learning/nail-your-sql-interview/be-prepared-for-your-interview?u=76281980&t=62)** And last in terms of books is the "[[Database Design]] for Mere Mortals."
 >
-> **[1:07](https://www.linkedin.com/learning/nail-your-sql-interview/be-prepared-for-your-interview?u=76281980&t=67)** This will give you a really good primer on how databases are constructed, why they're useful, and a lot of other background information that'll be really, really helpful to you as you go about your daily life in SQL.
+> **[1:07](https://www.linkedin.com/learning/nail-your-sql-interview/be-prepared-for-your-interview?u=76281980&t=67)** This will give you a really good primer on how [[Databases]] are constructed, why they're useful, and a lot of other background information that'll be really, really helpful to you as you go about your daily life in SQL.
 >
 > **[1:21](https://www.linkedin.com/learning/nail-your-sql-interview/be-prepared-for-your-interview?u=76281980&t=81)** And lastly, I love W3Schools.
 >
@@ -1651,7 +1633,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (6), [[LinkedIn]] (1), database (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[SQL]] (6), [[LinkedIn]] (1), [[Database Design]] (1), [[Databases]] (1)
 > **Env Vars:** sql (6)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)

@@ -95,8 +95,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Refactoring with the GitHub Copilot AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-with-github-copilot-ai?u=76281980)
+#### [Refactoring with the GitHub Copilot AI](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-with-github-copilot-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -108,7 +107,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-with-github-copilot-ai?u=76281980&t=16)** I'm Gary Kovar and I've shipped code for some of the largest websites on this planet and beyond.
 >
-> **[0:21](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-with-github-copilot-ai?u=76281980&t=21)** I was blown away by the GitHub Copilot technical preview.
+> **[0:21](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-with-github-copilot-ai?u=76281980&t=21)** I was blown away by the [[GitHub Copilot]] technical preview.
 >
 > **[0:25](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-with-github-copilot-ai?u=76281980&t=25)** It changed how I think about my code.
 >
@@ -121,8 +120,7 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[GitHub Copilot]] (1)
 > **Tools:** github (1)
 
-#### Prerequisites
-> [LinkedIn Learning](https://www.linkedin.com/learning/refactoring-with-github-copilot/prerequisites-24291832?u=76281980)
+#### [Prerequisites](https://www.linkedin.com/learning/refactoring-with-github-copilot/prerequisites-24291832?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -130,30 +128,29 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/refactoring-with-github-copilot/prerequisites-24291832?u=76281980&t=5)** You need to be a developer in any language with an interest in refactoring.
 >
-> **[0:09](https://www.linkedin.com/learning/refactoring-with-github-copilot/prerequisites-24291832?u=76281980&t=9)** My examples will be in PHP and JavaScript, but feel free to work in whatever language you prefer.
+> **[0:09](https://www.linkedin.com/learning/refactoring-with-github-copilot/prerequisites-24291832?u=76281980&t=9)** My examples will be in [[PHP]] and [[JavaScript]], but feel free to work in whatever language you prefer.
 >
 > **[0:15](https://www.linkedin.com/learning/refactoring-with-github-copilot/prerequisites-24291832?u=76281980&t=15)** Familiarity with writing AI prompts might also help, but it's definitely not a requirement.
 >
-> **[0:20](https://www.linkedin.com/learning/refactoring-with-github-copilot/prerequisites-24291832?u=76281980&t=20)** The LinkedIn Learning library of AI courses is always expanding, and programming fundamentals is a great way to get started as a developer.
+> **[0:20](https://www.linkedin.com/learning/refactoring-with-github-copilot/prerequisites-24291832?u=76281980&t=20)** The [[LinkedIn]] Learning library of AI courses is always expanding, and programming fundamentals is a great way to get started as a developer.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[PHP]] (1), [[JavaScript]] (1), [[LinkedIn]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[PHP]] (1), [[JavaScript]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** php (1)
 > **Env Vars:** php (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 
-#### How to use Codespaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/refactoring-with-github-copilot/how-to-use-codespaces-24291831?u=76281980)
+#### [How to use Codespaces](https://www.linkedin.com/learning/refactoring-with-github-copilot/how-to-use-codespaces-24291831?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/refactoring-with-github-copilot/how-to-use-codespaces-24291831?u=76281980&t=0)** The files I use for this course are stored on GitHub.
+> **[0:00](https://www.linkedin.com/learning/refactoring-with-github-copilot/how-to-use-codespaces-24291831?u=76281980&t=0)** The files I use for this course are stored on [[GitHub]].
 >
 > **[0:04](https://www.linkedin.com/learning/refactoring-with-github-copilot/how-to-use-codespaces-24291831?u=76281980&t=4)** There are branches for most videos in the format of chapter_video_b or _e, b for beginning state and e for end state.
 >
-> **[0:15](https://www.linkedin.com/learning/refactoring-with-github-copilot/how-to-use-codespaces-24291831?u=76281980&t=15)** This course uses Codespaces.
+> **[0:15](https://www.linkedin.com/learning/refactoring-with-github-copilot/how-to-use-codespaces-24291831?u=76281980&t=15)** This course uses [[Codespaces]].
 >
 > **[0:18](https://www.linkedin.com/learning/refactoring-with-github-copilot/how-to-use-codespaces-24291831?u=76281980&t=18)** If you aren't familiar with Codespaces, it's a game changer and a great way to work in your browser.
 >
@@ -165,7 +162,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (4), [[GitHub]] (1), game (1)
+> **Frameworks & Libraries:** [[Codespaces]] (4), [[GitHub]] (1)
 > **Code Identifiers:** chapter_video_b (1)
 > **Tools:** github (1)
 > **UI Navigation:** click on (1)
@@ -175,16 +172,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is GitHub Copilot?
-> [LinkedIn Learning](https://www.linkedin.com/learning/refactoring-with-github-copilot/what-is-github-copilot-24295480?u=76281980)
+#### [What is GitHub Copilot?](https://www.linkedin.com/learning/refactoring-with-github-copilot/what-is-github-copilot-24295480?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/refactoring-with-github-copilot/what-is-github-copilot-24295480?u=76281980&t=0)** GitHub Copilot is an AI coding assistant.
+> **[0:00](https://www.linkedin.com/learning/refactoring-with-github-copilot/what-is-github-copilot-24295480?u=76281980&t=0)** [[GitHub Copilot]] is an AI coding assistant.
 >
 > **[0:03](https://www.linkedin.com/learning/refactoring-with-github-copilot/what-is-github-copilot-24295480?u=76281980&t=3)** By limiting scope to code, this AI is most useful for code completion, identifying bugs, and understanding code.
 >
-> **[0:10](https://www.linkedin.com/learning/refactoring-with-github-copilot/what-is-github-copilot-24295480?u=76281980&t=10)** This is the [GitHub.com](https://GitHub.com) Copilot features page.
+> **[0:10](https://www.linkedin.com/learning/refactoring-with-github-copilot/what-is-github-copilot-24295480?u=76281980&t=10)** This is the [[[GitHub]].com](https://GitHub.com) [[Microsoft Copilot|Copilot]] features page.
 >
 > **[0:13](https://www.linkedin.com/learning/refactoring-with-github-copilot/what-is-github-copilot-24295480?u=76281980&t=13)** There are some interesting screenshots, tons of stats, and examples on how amazing Copilot is.
 >
@@ -198,7 +194,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/refactoring-with-github-copilot/what-is-github-copilot-24295480?u=76281980&t=42)** Once you've signed up for Copilot, you need to enable it in your IDE.
 >
-> **[0:46](https://www.linkedin.com/learning/refactoring-with-github-copilot/what-is-github-copilot-24295480?u=76281980&t=46)** This course is using Codespaces and enabling Copilot only requires adding the Copilot extension.
+> **[0:46](https://www.linkedin.com/learning/refactoring-with-github-copilot/what-is-github-copilot-24295480?u=76281980&t=46)** This course is using [[Codespaces]] and enabling Copilot only requires adding the Copilot extension.
 >
 > **[0:52](https://www.linkedin.com/learning/refactoring-with-github-copilot/what-is-github-copilot-24295480?u=76281980&t=52)** The same holds true for the desktop version of VS Code.
 >
@@ -222,9 +218,9 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/refactoring-with-github-copilot/what-is-github-copilot-24295480?u=76281980&t=99)** In your IDE, you can ask Copilot to do things like explain this code or change the snippet to another language.
 >
-> **[1:48](https://www.linkedin.com/learning/refactoring-with-github-copilot/what-is-github-copilot-24295480?u=76281980&t=108)** Even things like create a DTO class from this JSON.
+> **[1:48](https://www.linkedin.com/learning/refactoring-with-github-copilot/what-is-github-copilot-24295480?u=76281980&t=108)** Even things like create a DTO class from this [[JSON]].
 >
-> **[1:52](https://www.linkedin.com/learning/refactoring-with-github-copilot/what-is-github-copilot-24295480?u=76281980&t=112)** One bonus that I really enjoy, GitHub CLI has a Copilot extension available.
+> **[1:52](https://www.linkedin.com/learning/refactoring-with-github-copilot/what-is-github-copilot-24295480?u=76281980&t=112)** One bonus that I really enjoy, GitHub [[CLI]] has a Copilot extension available.
 >
 > **[1:58](https://www.linkedin.com/learning/refactoring-with-github-copilot/what-is-github-copilot-24295480?u=76281980&t=118)** This allows you to create complex shell commands with the help of Copilot.
 >
@@ -236,7 +232,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (19), ai (4), [[GitHub]] (4), [[GitHub Copilot]] (2), [[Codespaces]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (19), [[GitHub]] (4), [[GitHub Copilot]] (2), [[Codespaces]] (1), [[JSON]] (1)
 > **Tools:** github (6), command line (1), vs code (1)
 > **Env Vars:** ide (4), dto (1), json (1), cli (1)
 > **Definitions:** is an  (2), is a  (1)
@@ -244,12 +240,11 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **URLs:** [github.com](https://github.com) (1)
 
-#### Chatting with Copilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/refactoring-with-github-copilot/chatting-with-copilot-24295482?u=76281980)
+#### [Chatting with Copilot](https://www.linkedin.com/learning/refactoring-with-github-copilot/chatting-with-copilot-24295482?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/refactoring-with-github-copilot/chatting-with-copilot-24295482?u=76281980&t=0)** Copilot Chat is a powerful feature for code explanation, generation, and insights.
+> **[0:00](https://www.linkedin.com/learning/refactoring-with-github-copilot/chatting-with-copilot-24295482?u=76281980&t=0)** [[Microsoft Copilot|Copilot]] Chat is a powerful feature for code explanation, generation, and insights.
 >
 > **[0:06](https://www.linkedin.com/learning/refactoring-with-github-copilot/chatting-with-copilot-24295482?u=76281980&t=6)** It allows you to harness Copilot in places external to the codebase.
 >
@@ -277,11 +272,11 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/refactoring-with-github-copilot/chatting-with-copilot-24295482?u=76281980&t=63)** With Copilot, I don't need to leave my IDE.
 >
-> **[1:06](https://www.linkedin.com/learning/refactoring-with-github-copilot/chatting-with-copilot-24295482?u=76281980&t=66)** For example, I can ask, what is the Git command to select a single commit from another branch?
+> **[1:06](https://www.linkedin.com/learning/refactoring-with-github-copilot/chatting-with-copilot-24295482?u=76281980&t=66)** For example, I can ask, what is the [[Git]] command to select a single commit from another branch?
 >
-> **[1:18](https://www.linkedin.com/learning/refactoring-with-github-copilot/chatting-with-copilot-24295482?u=76281980&t=78)** Now, Google may or may not have answered that for me, but not only does Copilot remind me that it's called cherry-picking, but it also provides the syntax for it.
+> **[1:18](https://www.linkedin.com/learning/refactoring-with-github-copilot/chatting-with-copilot-24295482?u=76281980&t=78)** Now, [[Google]] may or may not have answered that for me, but not only does Copilot remind me that it's called cherry-picking, but it also provides the syntax for it.
 >
-> **[1:26](https://www.linkedin.com/learning/refactoring-with-github-copilot/chatting-with-copilot-24295482?u=76281980&t=86)** I'm going to use a lot of PHP in this course, so it would be logical to have to create a class in PHP, and pending the PHP version that can be somewhat verbose.
+> **[1:26](https://www.linkedin.com/learning/refactoring-with-github-copilot/chatting-with-copilot-24295482?u=76281980&t=86)** I'm going to use a lot of [[PHP]] in this course, so it would be logical to have to create a class in PHP, and pending the PHP version that can be somewhat verbose.
 >
 > **[1:35](https://www.linkedin.com/learning/refactoring-with-github-copilot/chatting-with-copilot-24295482?u=76281980&t=95)** So I'll ask Copilot to create a class that looks like a person.
 >
@@ -301,7 +296,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/refactoring-with-github-copilot/chatting-with-copilot-24295482?u=76281980&t=152)** And this should unlock a new line of thinking.
 >
-> **[2:34](https://www.linkedin.com/learning/refactoring-with-github-copilot/chatting-with-copilot-24295482?u=76281980&t=154)** How would I rewrite the highlighted code in Python, or in Ruby, in Ada 83, in COBOL?
+> **[2:34](https://www.linkedin.com/learning/refactoring-with-github-copilot/chatting-with-copilot-24295482?u=76281980&t=154)** How would I rewrite the highlighted code in [[Python (Programming Language)|Python]], or in Ruby, in Ada 83, in COBOL?
 >
 > **[2:47](https://www.linkedin.com/learning/refactoring-with-github-copilot/chatting-with-copilot-24295482?u=76281980&t=167)** I don't really know those last two, so I can't confirm.
 >
@@ -333,15 +328,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (19), [[PHP]] (6), feature (1), prompt (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (19), [[PHP]] (6), [[Git]] (1), [[Google]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** php (6), git (1), python (1), ruby (1)
 > **Env Vars:** php (6), ide (1), cobol (1)
 > **Versions:** php 8 (3), 8.3 (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Refactoring explained
-> [LinkedIn Learning](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-explained-9708449?u=76281980)
+#### [Refactoring explained](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-explained-9708449?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -353,7 +347,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-explained-9708449?u=76281980&t=11)** I want to start with some simple examples of refactoring.
 >
-> **[0:14](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-explained-9708449?u=76281980&t=14)** I'll add two functions, function foo, thanks, Copilot, and I'll add function bar.
+> **[0:14](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-explained-9708449?u=76281980&t=14)** I'll add two functions, function foo, thanks, [[Microsoft Copilot|Copilot]], and I'll add function bar.
 >
 > **[0:25](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-explained-9708449?u=76281980&t=25)** One console logs foo, one console logs bar.
 >
@@ -381,7 +375,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-explained-9708449?u=76281980&t=95)** First, I'm going to create a new file called add code to work in, and I'm going to type out a function that returns a discounted price on a product.
 >
-> **[1:46](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-explained-9708449?u=76281980&t=106)** Imagine this in an e-commerce situation.
+> **[1:46](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-explained-9708449?u=76281980&t=106)** Imagine this in an [[E-Commerce]] situation.
 >
 > **[1:48](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-explained-9708449?u=76281980&t=108)** So function apply_discount().
 >
@@ -429,15 +423,15 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-explained-9708449?u=76281980&t=250)** Now, the behavior of those functions didn't change from when I created them until now, but their source is no longer hard-coded.
 >
-> **[4:17](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-explained-9708449?u=76281980&t=257)** And that means the get_discount_for_product_type is ready for me to connect to an external data source or a JSON file instead of hard-coding it.
+> **[4:17](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-explained-9708449?u=76281980&t=257)** And that means the get_discount_for_product_type is ready for me to connect to an external data source or a [[JSON]] file instead of hard-coding it.
 >
 > **[4:27](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-explained-9708449?u=76281980&t=267)** Now, these were both simple examples in this video, but the key takeaway is that refactoring is for the benefit of developers.
 >
-> **[4:34](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-explained-9708449?u=76281980&t=274)** The user experience should not change.
+> **[4:34](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-explained-9708449?u=76281980&t=274)** The [[User Experience (UX)|user experience]] should not change.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), product (4), [[E-Commerce]] (1), prompt (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), [[E-Commerce]] (1), [[JSON]] (1), [[User Experience (UX)|User experience]] (1)
 > **Code Identifiers:** apply_discount (3), get_discount_for_product_type (2), display_discount_percent_for_product (1), get_discount_by_product_type (1), display_discount (1)
 > **Definitions:** means that (1), is a  (1)
 > **Env Vars:** json (1)
@@ -445,8 +439,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Warnings:** note that (1)
 
-#### Code smells
-> [LinkedIn Learning](https://www.linkedin.com/learning/refactoring-with-github-copilot/code-smells-9708448?u=76281980)
+#### [Code smells](https://www.linkedin.com/learning/refactoring-with-github-copilot/code-smells-9708448?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -480,7 +473,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/refactoring-with-github-copilot/code-smells-9708448?u=76281980&t=66)** Then you'd have to update all calls to it.
 >
-> **[1:08](https://www.linkedin.com/learning/refactoring-with-github-copilot/code-smells-9708448?u=76281980&t=68)** Okay, I'm going to jump over to PHP for a moment.
+> **[1:08](https://www.linkedin.com/learning/refactoring-with-github-copilot/code-smells-9708448?u=76281980&t=68)** Okay, I'm going to jump over to [[PHP]] for a moment.
 >
 > **[1:11](https://www.linkedin.com/learning/refactoring-with-github-copilot/code-smells-9708448?u=76281980&t=71)** There are three classes in here: checkout, invoice, and report.
 >
@@ -518,19 +511,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), business (1), [[PHP]] (1), feature (1)
+> **Frameworks & Libraries:** [[PHP]] (1)
 > **Analogies:** imagine (3)
 > **CLI Commands:** php (1)
 > **Code Identifiers:** createuser (1)
 > **Env Vars:** php (1)
 > **Definitions:** is an  (1)
 
-#### Refactoring strategies
-> [LinkedIn Learning](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-strategies-24291830?u=76281980)
+#### [Refactoring strategies](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-strategies-24291830?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-strategies-24291830?u=76281980&t=0)** Before I dive into using Copilot to aid in refactoring, I want to high-level some ways to think about refactoring.
+> **[0:00](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-strategies-24291830?u=76281980&t=0)** Before I dive into using [[Microsoft Copilot|Copilot]] to aid in refactoring, I want to high-level some ways to think about refactoring.
 >
 > **[0:07](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-strategies-24291830?u=76281980&t=7)** One of my favorite sites on the internet is refactoring.guru.
 >
@@ -552,7 +544,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-strategies-24291830?u=76281980&t=54)** Scrolling down, there's moving features between objects.
 >
-> **[0:56](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-strategies-24291830?u=76281980&t=56)** The next portion is about organizing data, and it hits one of my biggest flags in PHP.
+> **[0:56](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-strategies-24291830?u=76281980&t=56)** The next portion is about organizing data, and it hits one of my biggest flags in [[PHP]].
 >
 > **[1:02](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-strategies-24291830?u=76281980&t=62)** If you're using an associative array, replace it with a small class.
 >
@@ -606,20 +598,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), data (3), [[Microsoft Copilot|Copilot]] (1), [[PHP]] (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (1), [[PHP]] (1)
 > **CLI Commands:** make (2), php (1), find (1)
 > **Env Vars:** php (1)
 > **Versions:** 0.1 (1)
 > **Warnings:** note that (1)
 
-#### Refactoring with Copilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-with-copilot-24295484?u=76281980)
+#### [Refactoring with Copilot](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-with-copilot-24295484?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-with-copilot-24295484?u=76281980&t=0)** If you're taking the time to refactor, it can be easy to just jump in, but taking a couple minutes to understand the code might uncover hidden things to refactor.
 >
-> **[0:08](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-with-copilot-24295484?u=76281980&t=8)** And this is where Copilot can be super useful.
+> **[0:08](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-with-copilot-24295484?u=76281980&t=8)** And this is where [[Microsoft Copilot|Copilot]] can be super useful.
 >
 > **[0:11](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-with-copilot-24295484?u=76281980&t=11)** This is an example of code smells.
 >
@@ -707,8 +698,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Simplifying functionality
-> [LinkedIn Learning](https://www.linkedin.com/learning/refactoring-with-github-copilot/simplifying-functionality-24296434?u=76281980)
+#### [Simplifying functionality](https://www.linkedin.com/learning/refactoring-with-github-copilot/simplifying-functionality-24296434?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -718,7 +708,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/refactoring-with-github-copilot/simplifying-functionality-24296434?u=76281980&t=7)** What this simplification looks like can vary greatly based on business logic.
 >
-> **[0:12](https://www.linkedin.com/learning/refactoring-with-github-copilot/simplifying-functionality-24296434?u=76281980&t=12)** Here are two example PHP classes, obviously incomplete: author and blog post.
+> **[0:12](https://www.linkedin.com/learning/refactoring-with-github-copilot/simplifying-functionality-24296434?u=76281980&t=12)** Here are two example [[PHP]] classes, obviously incomplete: author and blog post.
 >
 > **[0:18](https://www.linkedin.com/learning/refactoring-with-github-copilot/simplifying-functionality-24296434?u=76281980&t=18)** Note the comment on line 82 that indicates this method is too interested in the author class properties.
 >
@@ -740,7 +730,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/refactoring-with-github-copilot/simplifying-functionality-24296434?u=76281980&t=59)** And then I can call that on line 87.
 >
-> **[1:04](https://www.linkedin.com/learning/refactoring-with-github-copilot/simplifying-functionality-24296434?u=76281980&t=64)** Thanks, Copilot.
+> **[1:04](https://www.linkedin.com/learning/refactoring-with-github-copilot/simplifying-functionality-24296434?u=76281980&t=64)** Thanks, [[Microsoft Copilot|Copilot]].
 >
 > **[1:06](https://www.linkedin.com/learning/refactoring-with-github-copilot/simplifying-functionality-24296434?u=76281980&t=66)** That solves what was identified as feature envy.
 >
@@ -748,7 +738,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/refactoring-with-github-copilot/simplifying-functionality-24296434?u=76281980&t=72)** Well, maybe.
 >
-> **[1:13](https://www.linkedin.com/learning/refactoring-with-github-copilot/simplifying-functionality-24296434?u=76281980&t=73)** It depends how complex the rest of the codebase is.
+> **[1:13](https://www.linkedin.com/learning/refactoring-with-github-copilot/simplifying-functionality-24296434?u=76281980&t=73)** It depends how complex the [[Representational State Transfer (REST)|rest]] of the codebase is.
 >
 > **[1:16](https://www.linkedin.com/learning/refactoring-with-github-copilot/simplifying-functionality-24296434?u=76281980&t=76)** This might be okay, but if there is a situation where I need to display author details in different contexts, I can approach this another way.
 >
@@ -768,11 +758,11 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/refactoring-with-github-copilot/simplifying-functionality-24296434?u=76281980&t=122)** So now I actually need this interface.
 >
-> **[2:05](https://www.linkedin.com/learning/refactoring-with-github-copilot/simplifying-functionality-24296434?u=76281980&t=125)** This is a common idea in most object-oriented programming languages.
+> **[2:05](https://www.linkedin.com/learning/refactoring-with-github-copilot/simplifying-functionality-24296434?u=76281980&t=125)** This is a common idea in most [[Object-Oriented Programming (OOP)|object-oriented programming]] languages.
 >
-> **[2:09](https://www.linkedin.com/learning/refactoring-with-github-copilot/simplifying-functionality-24296434?u=76281980&t=129)** In Swift, it's called a protocol.
+> **[2:09](https://www.linkedin.com/learning/refactoring-with-github-copilot/simplifying-functionality-24296434?u=76281980&t=129)** In [[Swift (Programming Language)|Swift]], it's called a protocol.
 >
-> **[2:11](https://www.linkedin.com/learning/refactoring-with-github-copilot/simplifying-functionality-24296434?u=76281980&t=131)** But in C#, Java, TypeScript, and a few others, it's an interface.
+> **[2:11](https://www.linkedin.com/learning/refactoring-with-github-copilot/simplifying-functionality-24296434?u=76281980&t=131)** But in C#, [[Java]], TypeScript, and a few others, it's an interface.
 >
 > **[2:15](https://www.linkedin.com/learning/refactoring-with-github-copilot/simplifying-functionality-24296434?u=76281980&t=135)** This is a contract.
 >
@@ -830,21 +820,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), [[PHP]] (2), business (1), feature (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), [[PHP]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Swift (Programming Language)|Swift]] (1)
 > **Code Identifiers:** getauthordetails (3), displayauthordetails (2), texturizeauthor (2), formatted_author (2), authordisplay (1)
 > **CLI Commands:** php (2), make (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** php (2)
 > **Versions:** php 8 (1), 8.1 (1)
 
-#### Enhancing naming and readability
-> [LinkedIn Learning](https://www.linkedin.com/learning/refactoring-with-github-copilot/enhancing-naming-and-readability-24294567?u=76281980)
+#### [Enhancing naming and readability](https://www.linkedin.com/learning/refactoring-with-github-copilot/enhancing-naming-and-readability-24294567?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/refactoring-with-github-copilot/enhancing-naming-and-readability-24294567?u=76281980&t=0)** Have you ever started working in an existing codebase and felt like you had to learn a different language?
 >
-> **[0:05](https://www.linkedin.com/learning/refactoring-with-github-copilot/enhancing-naming-and-readability-24294567?u=76281980&t=5)** One way to avoid that is with Copilot AI.
+> **[0:05](https://www.linkedin.com/learning/refactoring-with-github-copilot/enhancing-naming-and-readability-24294567?u=76281980&t=5)** One way to avoid that is with [[Microsoft Copilot|Copilot]] AI.
 >
 > **[0:08](https://www.linkedin.com/learning/refactoring-with-github-copilot/enhancing-naming-and-readability-24294567?u=76281980&t=8)** This is code I worked on when talking about simplifying.
 >
@@ -868,9 +857,9 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/refactoring-with-github-copilot/enhancing-naming-and-readability-24294567?u=76281980&t=60)** And then it shows what the updated snippet would be like.
 >
-> **[1:03](https://www.linkedin.com/learning/refactoring-with-github-copilot/enhancing-naming-and-readability-24294567?u=76281980&t=63)** And the warning at the bottom, make sure to update the rest of your codebase to reflect these new class names.
+> **[1:03](https://www.linkedin.com/learning/refactoring-with-github-copilot/enhancing-naming-and-readability-24294567?u=76281980&t=63)** And the warning at the bottom, make sure to update the [[Representational State Transfer (REST)|rest]] of your codebase to reflect these new class names.
 >
-> **[1:07](https://www.linkedin.com/learning/refactoring-with-github-copilot/enhancing-naming-and-readability-24294567?u=76281980&t=67)** Now, because we're using Codespaces, if I were to refactor this, it would just work.
+> **[1:07](https://www.linkedin.com/learning/refactoring-with-github-copilot/enhancing-naming-and-readability-24294567?u=76281980&t=67)** Now, because we're using [[Codespaces]], if I were to refactor this, it would just work.
 >
 > **[1:12](https://www.linkedin.com/learning/refactoring-with-github-copilot/enhancing-naming-and-readability-24294567?u=76281980&t=72)** Let's do that.
 >
@@ -900,14 +889,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), ai (3), [[Representational State Transfer (REST)|Rest]] (1), [[Codespaces]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), [[Representational State Transfer (REST)|Rest]] (1), [[Codespaces]] (1)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** getauthordetails (1)
 > **Best Practices:** make sure to (1)
 > **Warnings:** warning (1)
 
-#### Removing dead code
-> [LinkedIn Learning](https://www.linkedin.com/learning/refactoring-with-github-copilot/removing-dead-code-24291833?u=76281980)
+#### [Removing dead code](https://www.linkedin.com/learning/refactoring-with-github-copilot/removing-dead-code-24291833?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -927,7 +915,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/refactoring-with-github-copilot/removing-dead-code-24291833?u=76281980&t=29)** Okay. So it's a dumb example, but it will work here.
 >
-> **[0:32](https://www.linkedin.com/learning/refactoring-with-github-copilot/removing-dead-code-24291833?u=76281980&t=32)** I'll ask Copilot, is there dead code here?
+> **[0:32](https://www.linkedin.com/learning/refactoring-with-github-copilot/removing-dead-code-24291833?u=76281980&t=32)** I'll ask [[Microsoft Copilot|Copilot]], is there dead code here?
 >
 > **[0:39](https://www.linkedin.com/learning/refactoring-with-github-copilot/removing-dead-code-24291833?u=76281980&t=39)** Now this is cool.
 >
@@ -971,20 +959,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), ai (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (3)
 > **Versions:** 0.1 (1)
 > **Analogies:** just like (1)
 
-#### Optimizing conditionals and loops
-> [LinkedIn Learning](https://www.linkedin.com/learning/refactoring-with-github-copilot/optimizing-condtionals-and-loops-24298068?u=76281980)
+#### [Optimizing conditionals and loops](https://www.linkedin.com/learning/refactoring-with-github-copilot/optimizing-condtionals-and-loops-24298068?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/refactoring-with-github-copilot/optimizing-condtionals-and-loops-24298068?u=76281980&t=0)** Two areas ripe for refactoring are conditionals and loops.
 >
-> **[0:04](https://www.linkedin.com/learning/refactoring-with-github-copilot/optimizing-condtionals-and-loops-24298068?u=76281980&t=4)** And, of course, Copilot can help guide the way.
+> **[0:04](https://www.linkedin.com/learning/refactoring-with-github-copilot/optimizing-condtionals-and-loops-24298068?u=76281980&t=4)** And, of course, [[Microsoft Copilot|Copilot]] can help guide the way.
 >
 > **[0:07](https://www.linkedin.com/learning/refactoring-with-github-copilot/optimizing-condtionals-and-loops-24298068?u=76281980&t=7)** Here's an example of a function that calculates a discount.
 >
@@ -1068,24 +1055,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), data (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7)
 > **Env Vars:** vip (2), csv (2)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** isholiday (1)
 > **Definitions:** is a  (1)
 
-#### Refactoring data structures
-> [LinkedIn Learning](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-data-structures-24290991?u=76281980)
+#### [Refactoring data structures](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-data-structures-24290991?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-data-structures-24290991?u=76281980&t=0)** Behind all your code are data structures.
+> **[0:00](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-data-structures-24290991?u=76281980&t=0)** Behind all your code are [[Data Structures]].
 >
 > **[0:03](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-data-structures-24290991?u=76281980&t=3)** Some are simple, some are complex.
 >
 > **[0:05](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-data-structures-24290991?u=76281980&t=5)** Sometimes these tend to get out of hand.
 >
-> **[0:08](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-data-structures-24290991?u=76281980&t=8)** I'm going to walk through how I've dealt with these using Copilot.
+> **[0:08](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-data-structures-24290991?u=76281980&t=8)** I'm going to walk through how I've dealt with these using [[Microsoft Copilot|Copilot]].
 >
 > **[0:11](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-data-structures-24290991?u=76281980&t=11)** This is a sample data structure.
 >
@@ -1123,7 +1109,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-data-structures-24290991?u=76281980&t=83)** I asked it to change the array and it gave me the same function again.
 >
-> **[1:28](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-data-structures-24290991?u=76281980&t=88)** Well, one way to deal with this, because it wants to execute code, is I can rename the file to JSON, and then I can do that.
+> **[1:28](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-data-structures-24290991?u=76281980&t=88)** Well, one way to deal with this, because it wants to execute code, is I can rename the file to [[JSON]], and then I can do that.
 >
 > **[1:44](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-data-structures-24290991?u=76281980&t=104)** And I'll say make this valid JSON so I can copy and paste.
 >
@@ -1151,7 +1137,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-data-structures-24290991?u=76281980&t=156)** So I can ask it to do, remove tags that duplicate category.
 >
-> **[2:45](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-data-structures-24290991?u=76281980&t=165)** And so, electronics is gone and clothing and apparel would work.
+> **[2:45](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-data-structures-24290991?u=76281980&t=165)** And so, [[Electronics]] is gone and clothing and apparel would work.
 >
 > **[2:50](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-data-structures-24290991?u=76281980&t=170)** When I have to deal with data shape conversion which is what would happen here, we would have changed the data shape of the original product to this new product.
 >
@@ -1159,7 +1145,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-data-structures-24290991?u=76281980&t=181)** And then the second time I have to do it on a project, not only do I write a converter, I also create a versioned definition.
 >
-> **[3:07](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-data-structures-24290991?u=76281980&t=187)** So I'm going to ask Copilot to do the same, which is what it suggested when this file was previously a JavaScript file and not a JSON file.
+> **[3:07](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-data-structures-24290991?u=76281980&t=187)** So I'm going to ask Copilot to do the same, which is what it suggested when this file was previously a [[JavaScript]] file and not a JSON file.
 >
 > **[3:14](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-data-structures-24290991?u=76281980&t=194)** Can you create a converter function to move from the original format to this form?
 >
@@ -1179,7 +1165,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (8), data (6), product (5), [[JSON]] (4), [[Electronics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (8), [[JSON]] (4), [[Data Structures]] (1), [[Electronics]] (1), [[JavaScript]] (1)
 > **Env Vars:** json (4)
 > **Warnings:** note that (2), be careful (1)
 > **CLI Commands:** make (1)
@@ -1190,8 +1176,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Dealing with legacy code
-> [LinkedIn Learning](https://www.linkedin.com/learning/refactoring-with-github-copilot/dealing-with-legacy-code-24298067?u=76281980)
+#### [Dealing with legacy code](https://www.linkedin.com/learning/refactoring-with-github-copilot/dealing-with-legacy-code-24298067?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1201,7 +1186,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/refactoring-with-github-copilot/dealing-with-legacy-code-24298067?u=76281980&t=12)** One of the first indicators to me is the language features in use.
 >
-> **[0:16](https://www.linkedin.com/learning/refactoring-with-github-copilot/dealing-with-legacy-code-24298067?u=76281980&t=16)** I'm going to start by asking Copilot what has changed in JavaScript in the last 12 years?
+> **[0:16](https://www.linkedin.com/learning/refactoring-with-github-copilot/dealing-with-legacy-code-24298067?u=76281980&t=16)** I'm going to start by asking [[Microsoft Copilot|Copilot]] what has changed in [[JavaScript]] in the last 12 years?
 >
 > **[0:25](https://www.linkedin.com/learning/refactoring-with-github-copilot/dealing-with-legacy-code-24298067?u=76281980&t=25)** Knowing what features were introduced and when can help indicate the age of a project, but that doesn't necessarily make them legacy.
 >
@@ -1209,19 +1194,19 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/refactoring-with-github-copilot/dealing-with-legacy-code-24298067?u=76281980&t=36)** Or how about async await?
 >
-> **[0:38](https://www.linkedin.com/learning/refactoring-with-github-copilot/dealing-with-legacy-code-24298067?u=76281980&t=38)** One area that often seems to be in a state of decay is dependency management.
+> **[0:38](https://www.linkedin.com/learning/refactoring-with-github-copilot/dealing-with-legacy-code-24298067?u=76281980&t=38)** One area that often seems to be in a state of decay is [[Dependency Management]].
 >
-> **[0:43](https://www.linkedin.com/learning/refactoring-with-github-copilot/dealing-with-legacy-code-24298067?u=76281980&t=43)** This is a package.json file used for handling dependencies.
+> **[0:43](https://www.linkedin.com/learning/refactoring-with-github-copilot/dealing-with-legacy-code-24298067?u=76281980&t=43)** This is a package.[[JSON]] file used for handling dependencies.
 >
 > **[0:47](https://www.linkedin.com/learning/refactoring-with-github-copilot/dealing-with-legacy-code-24298067?u=76281980&t=47)** When I try to install it, it tells me I have an issue.
 >
 > **[0:52](https://www.linkedin.com/learning/refactoring-with-github-copilot/dealing-with-legacy-code-24298067?u=76281980&t=52)** I can just paste this into Copilot and it tells me how to fix it.
 >
-> **[1:03](https://www.linkedin.com/learning/refactoring-with-github-copilot/dealing-with-legacy-code-24298067?u=76281980&t=63)** Now, this case was somewhat obvious, I had a mismatched dependency on React and ReactDOM, mismatched versions.
+> **[1:03](https://www.linkedin.com/learning/refactoring-with-github-copilot/dealing-with-legacy-code-24298067?u=76281980&t=63)** Now, this case was somewhat obvious, I had a mismatched dependency on [[React.js|React]] and ReactDOM, mismatched versions.
 >
 > **[1:10](https://www.linkedin.com/learning/refactoring-with-github-copilot/dealing-with-legacy-code-24298067?u=76281980&t=70)** So what I'm going to do is I'm going to accept what Copilot has here, and run another install.
 >
-> **[1:17](https://www.linkedin.com/learning/refactoring-with-github-copilot/dealing-with-legacy-code-24298067?u=76281980&t=77)** Often in larger package management systems, this becomes a cascading process.
+> **[1:17](https://www.linkedin.com/learning/refactoring-with-github-copilot/dealing-with-legacy-code-24298067?u=76281980&t=77)** Often in larger [[Package Management]] systems, this becomes a cascading process.
 >
 > **[1:23](https://www.linkedin.com/learning/refactoring-with-github-copilot/dealing-with-legacy-code-24298067?u=76281980&t=83)** One update causes another, which causes another.
 >
@@ -1247,7 +1232,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), [[JavaScript]] (2), teams (1), [[Dependency Management]] (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), [[JavaScript]] (2), [[Dependency Management]] (1), [[JSON]] (1), [[React.js|React]] (1)
 > **Prerequisites:** install (2)
 > **File Paths:** package.json (1)
 > **CLI Commands:** make (1)
@@ -1256,12 +1241,11 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Warnings:** keep in mind (1)
 
-#### Refactoring for performance
-> [LinkedIn Learning](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-for-performance-24295481?u=76281980)
+#### [Refactoring for performance](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-for-performance-24295481?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-for-performance-24295481?u=76281980&t=0)** By now you've probably noticed a pattern; identify an issue in code and ask Copilot about it.
+> **[0:00](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-for-performance-24295481?u=76281980&t=0)** By now you've probably noticed a pattern; identify an issue in code and ask [[Microsoft Copilot|Copilot]] about it.
 >
 > **[0:06](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-for-performance-24295481?u=76281980&t=6)** Here's a check for duplicates in an array.
 >
@@ -1293,7 +1277,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-for-performance-24295481?u=76281980&t=60)** What can we do about application-level performance?
 >
-> **[1:03](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-for-performance-24295481?u=76281980&t=63)** Well, one of the first things we do in web development is turn to caching.
+> **[1:03](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-for-performance-24295481?u=76281980&t=63)** Well, one of the first things we do in [[Web Development]] is turn to caching.
 >
 > **[1:08](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-for-performance-24295481?u=76281980&t=68)** If this set or any other data needs to be accessed multiple times during a request or on subsequent requests, so I'll ask, how could I cache the findDuplicates result set?
 >
@@ -1313,13 +1297,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), application (3), [[Web Development]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), [[Web Development]] (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** findduplicates (1)
 > **Prerequisites:** you'll need (1)
 
-#### Considerations refactoring large code bases
-> [LinkedIn Learning](https://www.linkedin.com/learning/refactoring-with-github-copilot/considerations-refactoring-large-code-bases-24294568?u=76281980)
+#### [Considerations refactoring large code bases](https://www.linkedin.com/learning/refactoring-with-github-copilot/considerations-refactoring-large-code-bases-24294568?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1331,7 +1314,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/refactoring-with-github-copilot/considerations-refactoring-large-code-bases-24294568?u=76281980&t=12)** How do you approach refactoring then?
 >
-> **[0:14](https://www.linkedin.com/learning/refactoring-with-github-copilot/considerations-refactoring-large-code-bases-24294568?u=76281980&t=14)** I'm going to download a large legacy project, WordPress.
+> **[0:14](https://www.linkedin.com/learning/refactoring-with-github-copilot/considerations-refactoring-large-code-bases-24294568?u=76281980&t=14)** I'm going to download a large legacy project, [[WordPress]].
 >
 > **[0:17](https://www.linkedin.com/learning/refactoring-with-github-copilot/considerations-refactoring-large-code-bases-24294568?u=76281980&t=17)** I want to be clear that I'm not picking on WordPress, it's a long-lived codebase and perfect for the example here. And I'll unzip.
 >
@@ -1341,7 +1324,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/refactoring-with-github-copilot/considerations-refactoring-large-code-bases-24294568?u=76281980&t=43)** Hmm. This isn't helpful.
 >
-> **[0:46](https://www.linkedin.com/learning/refactoring-with-github-copilot/considerations-refactoring-large-code-bases-24294568?u=76281980&t=46)** Copilot is answering questions for a closed file.
+> **[0:46](https://www.linkedin.com/learning/refactoring-with-github-copilot/considerations-refactoring-large-code-bases-24294568?u=76281980&t=46)** [[Microsoft Copilot|Copilot]] is answering questions for a closed file.
 >
 > **[0:52](https://www.linkedin.com/learning/refactoring-with-github-copilot/considerations-refactoring-large-code-bases-24294568?u=76281980&t=52)** I'm going to rephrase my prompt.
 >
@@ -1359,7 +1342,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/refactoring-with-github-copilot/considerations-refactoring-large-code-bases-24294568?u=76281980&t=86)** Let me show you one trick I like to use.
 >
-> **[1:29](https://www.linkedin.com/learning/refactoring-with-github-copilot/considerations-refactoring-large-code-bases-24294568?u=76281980&t=89)** I'm going to open the WP_Query class, and I ask what design patterns could be used to improve the code.
+> **[1:29](https://www.linkedin.com/learning/refactoring-with-github-copilot/considerations-refactoring-large-code-bases-24294568?u=76281980&t=89)** I'm going to open the WP_Query class, and I ask what [[Design Patterns]] could be used to improve the code.
 >
 > **[1:40](https://www.linkedin.com/learning/refactoring-with-github-copilot/considerations-refactoring-large-code-bases-24294568?u=76281980&t=100)** And no surprise, Copilot has opinions.
 >
@@ -1391,15 +1374,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (8), [[WordPress]] (5), [[Design Patterns]] (3), prompt (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (8), [[WordPress]] (5), [[Design Patterns]] (3)
 > **Env Vars:** dry (3), ide (1)
 > **Definitions:** is a  (3), stands for (1)
 > **CLI Commands:** unzip (1)
 > **UI Navigation:** open the (1)
 > **Warnings:** gotcha (1)
 
-#### Refactoring and automated testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-and-automated-testing-24296435?u=76281980)
+#### [Refactoring and automated testing](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-and-automated-testing-24296435?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1407,7 +1389,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-and-automated-testing-24296435?u=76281980&t=4)** Most people don't.
 >
-> **[0:05](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-and-automated-testing-24296435?u=76281980&t=5)** But Copilot can help.
+> **[0:05](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-and-automated-testing-24296435?u=76281980&t=5)** But [[Microsoft Copilot|Copilot]] can help.
 >
 > **[0:07](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-and-automated-testing-24296435?u=76281980&t=7)** To be clear, this is about using AI to support traditional automated testing.
 >
@@ -1485,7 +1467,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), ai (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7)
 > **Code Identifiers:** asserttrue (1), alphabetized_by_name (1), testadd (1), testsub (1)
 > **Definitions:** is a  (3)
 > **Prerequisites:** install (1), set up (1)
@@ -1496,12 +1478,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to convince your team to refactor
-> [LinkedIn Learning](https://www.linkedin.com/learning/refactoring-with-github-copilot/how-to-convince-your-team-to-refactor-24290992?u=76281980)
+#### [How to convince your team to refactor](https://www.linkedin.com/learning/refactoring-with-github-copilot/how-to-convince-your-team-to-refactor-24290992?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/refactoring-with-github-copilot/how-to-convince-your-team-to-refactor-24290992?u=76281980&t=0)** By now, you're convinced, not only do you want to refactor your codebase but you want to use Copilot to do it.
+> **[0:00](https://www.linkedin.com/learning/refactoring-with-github-copilot/how-to-convince-your-team-to-refactor-24290992?u=76281980&t=0)** By now, you're convinced, not only do you want to refactor your codebase but you want to use [[Microsoft Copilot|Copilot]] to do it.
 >
 > **[0:06](https://www.linkedin.com/learning/refactoring-with-github-copilot/how-to-convince-your-team-to-refactor-24290992?u=76281980&t=6)** The only problem is your team might not see it as productive work.
 >
@@ -1535,7 +1516,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/refactoring-with-github-copilot/how-to-convince-your-team-to-refactor-24290992?u=76281980&t=79)** Start small and build.
 >
-> **[1:21](https://www.linkedin.com/learning/refactoring-with-github-copilot/how-to-convince-your-team-to-refactor-24290992?u=76281980&t=81)** On some projects, I've never been able to convince the team to spend the time implementing test automation.
+> **[1:21](https://www.linkedin.com/learning/refactoring-with-github-copilot/how-to-convince-your-team-to-refactor-24290992?u=76281980&t=81)** On some projects, I've never been able to convince the team to spend the time implementing [[Test Automation]].
 >
 > **[1:27](https://www.linkedin.com/learning/refactoring-with-github-copilot/how-to-convince-your-team-to-refactor-24290992?u=76281980&t=87)** Even if the tests are a separate repo that are only on your local, you've left the code in a better place than you found it, and you can confirm with each change you make that you introduce no regressions.
 >
@@ -1545,16 +1526,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (2), ci (1), cd (1), [[Test Automation]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (2), [[Test Automation]] (1)
 > **CLI Commands:** cd (1), make (1)
 > **Definitions:** is a  (1)
 
-#### Pay down technical debt
-> [LinkedIn Learning](https://www.linkedin.com/learning/refactoring-with-github-copilot/pay-down-technical-debt-24291835?u=76281980)
+#### [Pay down technical debt](https://www.linkedin.com/learning/refactoring-with-github-copilot/pay-down-technical-debt-24291835?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/refactoring-with-github-copilot/pay-down-technical-debt-24291835?u=76281980&t=0)** Refactoring is a scary word to managers.
+> **[0:00](https://www.linkedin.com/learning/refactoring-with-github-copilot/pay-down-technical-debt-24291835?u=76281980&t=0)** Refactoring is a scary [[Microsoft Word|word]] to managers.
 >
 > **[0:03](https://www.linkedin.com/learning/refactoring-with-github-copilot/pay-down-technical-debt-24291835?u=76281980&t=3)** It sounds like labor that has no appreciable improvement to the product.
 >
@@ -1572,13 +1552,13 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/refactoring-with-github-copilot/pay-down-technical-debt-24291835?u=76281980&t=41)** And start tracking them.
 >
-> **[0:44](https://www.linkedin.com/learning/refactoring-with-github-copilot/pay-down-technical-debt-24291835?u=76281980&t=44)** In my course on advanced PHP debugging, I suggest a few ways to capture that data.
+> **[0:44](https://www.linkedin.com/learning/refactoring-with-github-copilot/pay-down-technical-debt-24291835?u=76281980&t=44)** In my course on advanced [[PHP]] debugging, I suggest a few ways to capture that data.
 >
 > **[0:49](https://www.linkedin.com/learning/refactoring-with-github-copilot/pay-down-technical-debt-24291835?u=76281980&t=49)** You and your team can keep track of regressions after releases.
 >
 > **[0:52](https://www.linkedin.com/learning/refactoring-with-github-copilot/pay-down-technical-debt-24291835?u=76281980&t=52)** See if adding tests and incremental refactoring influences the trend.
 >
-> **[0:57](https://www.linkedin.com/learning/refactoring-with-github-copilot/pay-down-technical-debt-24291835?u=76281980&t=57)** One metric that is used in DevOps is deploy frequency.
+> **[0:57](https://www.linkedin.com/learning/refactoring-with-github-copilot/pay-down-technical-debt-24291835?u=76281980&t=57)** One metric that is used in [[DevOps]] is deploy frequency.
 >
 > **[1:01](https://www.linkedin.com/learning/refactoring-with-github-copilot/pay-down-technical-debt-24291835?u=76281980&t=61)** This is one blog article in the topic, but there are tons out there.
 >
@@ -1594,14 +1574,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (2), teams (2), [[Microsoft Word|Word]] (1), product (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[PHP]] (1), [[DevOps]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** php (1), make (1)
 > **Env Vars:** tdd (1), php (1)
 > **Documentation:** stack overflow (1)
 
-#### Keep devs happy
-> [LinkedIn Learning](https://www.linkedin.com/learning/refactoring-with-github-copilot/keep-devs-happy-24290990?u=76281980)
+#### [Keep devs happy](https://www.linkedin.com/learning/refactoring-with-github-copilot/keep-devs-happy-24290990?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1615,9 +1594,9 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/refactoring-with-github-copilot/keep-devs-happy-24290990?u=76281980&t=12)** It just grew that way, and no time was spent refactoring along the way.
 >
-> **[0:17](https://www.linkedin.com/learning/refactoring-with-github-copilot/keep-devs-happy-24290990?u=76281980&t=17)** This is the app directory from a Laravel project.
+> **[0:17](https://www.linkedin.com/learning/refactoring-with-github-copilot/keep-devs-happy-24290990?u=76281980&t=17)** This is the app directory from a [[Laravel]] project.
 >
-> **[0:19](https://www.linkedin.com/learning/refactoring-with-github-copilot/keep-devs-happy-24290990?u=76281980&t=19)** The purpose of this project was to be a dashboard for sales information from multiple e-commerce sites.
+> **[0:19](https://www.linkedin.com/learning/refactoring-with-github-copilot/keep-devs-happy-24290990?u=76281980&t=19)** The purpose of this project was to be a dashboard for sales information from multiple [[E-Commerce]] sites.
 >
 > **[0:25](https://www.linkedin.com/learning/refactoring-with-github-copilot/keep-devs-happy-24290990?u=76281980&t=25)** This is code I wrote several years ago for a client; the site is no longer online.
 >
@@ -1625,13 +1604,13 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/refactoring-with-github-copilot/keep-devs-happy-24290990?u=76281980&t=38)** But the problematic part was in need to calculate averages on sales for different ranges of time.
 >
-> **[0:47](https://www.linkedin.com/learning/refactoring-with-github-copilot/keep-devs-happy-24290990?u=76281980&t=47)** This CLI command was responsible for that.
+> **[0:47](https://www.linkedin.com/learning/refactoring-with-github-copilot/keep-devs-happy-24290990?u=76281980&t=47)** This [[CLI]] command was responsible for that.
 >
 > **[0:50](https://www.linkedin.com/learning/refactoring-with-github-copilot/keep-devs-happy-24290990?u=76281980&t=50)** It's a cool to do, output might be nice.
 >
 > **[0:53](https://www.linkedin.com/learning/refactoring-with-github-copilot/keep-devs-happy-24290990?u=76281980&t=53)** The generate_averages method is really interesting to me in hindsight.
 >
-> **[0:57](https://www.linkedin.com/learning/refactoring-with-github-copilot/keep-devs-happy-24290990?u=76281980&t=57)** Specifically, line 44, iterating through each of the ranges to run some raw database queries.
+> **[0:57](https://www.linkedin.com/learning/refactoring-with-github-copilot/keep-devs-happy-24290990?u=76281980&t=57)** Specifically, line 44, iterating through each of the ranges to run some raw [[Database Queries]].
 >
 > **[1:02](https://www.linkedin.com/learning/refactoring-with-github-copilot/keep-devs-happy-24290990?u=76281980&t=62)** This is very brittle.
 >
@@ -1651,7 +1630,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/refactoring-with-github-copilot/keep-devs-happy-24290990?u=76281980&t=108)** I don't know where it should live, but it's definitely not where it is now.
 >
-> **[1:52](https://www.linkedin.com/learning/refactoring-with-github-copilot/keep-devs-happy-24290990?u=76281980&t=112)** And I do that by asking Copilot for help.
+> **[1:52](https://www.linkedin.com/learning/refactoring-with-github-copilot/keep-devs-happy-24290990?u=76281980&t=112)** And I do that by asking [[Microsoft Copilot|Copilot]] for help.
 >
 > **[1:54](https://www.linkedin.com/learning/refactoring-with-github-copilot/keep-devs-happy-24290990?u=76281980&t=114)** Remember, one of the things we want to do is create seams in the code.
 >
@@ -1673,14 +1652,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[CLI]] (4), [[Laravel]] (2), [[E-Commerce]] (2), api (1), data (1)
+> **Frameworks & Libraries:** [[CLI]] (4), [[Laravel]] (2), [[E-Commerce]] (2), [[Database Queries]] (1), [[Microsoft Copilot|Copilot]] (1)
 > **Env Vars:** cli (4), api (1)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** generate_averages (1)
 > **Analogies:** imagine (1)
 
-#### Lower TCO on the project
-> [LinkedIn Learning](https://www.linkedin.com/learning/refactoring-with-github-copilot/lower-tco-on-the-project-24295483?u=76281980)
+#### [Lower TCO on the project](https://www.linkedin.com/learning/refactoring-with-github-copilot/lower-tco-on-the-project-24295483?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1698,7 +1676,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/refactoring-with-github-copilot/lower-tco-on-the-project-24295483?u=76281980&t=30)** In the video about refactoring performance, I showed this example.
 >
-> **[0:33](https://www.linkedin.com/learning/refactoring-with-github-copilot/lower-tco-on-the-project-24295483?u=76281980&t=33)** One of the things I suggested was asking Copilot how to refactor for performance.
+> **[0:33](https://www.linkedin.com/learning/refactoring-with-github-copilot/lower-tco-on-the-project-24295483?u=76281980&t=33)** One of the things I suggested was asking [[Microsoft Copilot|Copilot]] how to refactor for performance.
 >
 > **[0:38](https://www.linkedin.com/learning/refactoring-with-github-copilot/lower-tco-on-the-project-24295483?u=76281980&t=38)** If you have a slow script, command, or task, I'd start there, asking how to make it faster.
 >
@@ -1722,7 +1700,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/refactoring-with-github-copilot/lower-tco-on-the-project-24295483?u=76281980&t=76)** Now check out this implementation.
 >
-> **[1:18](https://www.linkedin.com/learning/refactoring-with-github-copilot/lower-tco-on-the-project-24295483?u=76281980&t=78)** This uses the core PHP function you sort.
+> **[1:18](https://www.linkedin.com/learning/refactoring-with-github-copilot/lower-tco-on-the-project-24295483?u=76281980&t=78)** This uses the core [[PHP]] function you sort.
 >
 > **[1:22](https://www.linkedin.com/learning/refactoring-with-github-copilot/lower-tco-on-the-project-24295483?u=76281980&t=82)** This implements quick sort.
 >
@@ -1736,13 +1714,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), database (1), [[Microsoft Copilot|Copilot]] (1), management (1), [[PHP]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (1), [[PHP]] (1)
 > **Env Vars:** cpu (3), php (1)
 > **CLI Commands:** make (1), php (1)
 > **Definitions:** is a  (1)
 
-#### The impact of ai on refactoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/refactoring-with-github-copilot/the-impact-of-ai-on-refactoring-24290989?u=76281980)
+#### [The impact of ai on refactoring](https://www.linkedin.com/learning/refactoring-with-github-copilot/the-impact-of-ai-on-refactoring-24290989?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1762,7 +1739,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/refactoring-with-github-copilot/the-impact-of-ai-on-refactoring-24290989?u=76281980&t=41)** Another thing you can ask, am I mixing abstraction layers?
 >
-> **[0:48](https://www.linkedin.com/learning/refactoring-with-github-copilot/the-impact-of-ai-on-refactoring-24290989?u=76281980&t=48)** There will be an inherent bias Copilot will look for in the context, something that justifies a positive response here.
+> **[0:48](https://www.linkedin.com/learning/refactoring-with-github-copilot/the-impact-of-ai-on-refactoring-24290989?u=76281980&t=48)** There will be an inherent bias [[Microsoft Copilot|Copilot]] will look for in the context, something that justifies a positive response here.
 >
 > **[0:57](https://www.linkedin.com/learning/refactoring-with-github-copilot/the-impact-of-ai-on-refactoring-24290989?u=76281980&t=57)** Regardless, it may give you something to think about.
 >
@@ -1774,11 +1751,11 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/refactoring-with-github-copilot/the-impact-of-ai-on-refactoring-24290989?u=76281980&t=78)** I might also ask things like is this code secure when it deals with transactions of any sort?
 >
-> **[1:23](https://www.linkedin.com/learning/refactoring-with-github-copilot/the-impact-of-ai-on-refactoring-24290989?u=76281980&t=83)** Another thing I like to do is ask for a code review.
+> **[1:23](https://www.linkedin.com/learning/refactoring-with-github-copilot/the-impact-of-ai-on-refactoring-24290989?u=76281980&t=83)** Another thing I like to do is ask for a [[Code Review]].
 >
 > **[1:26](https://www.linkedin.com/learning/refactoring-with-github-copilot/the-impact-of-ai-on-refactoring-24290989?u=76281980&t=86)** Of course, it will only review the open file and not everything in your PR.
 >
-> **[1:30](https://www.linkedin.com/learning/refactoring-with-github-copilot/the-impact-of-ai-on-refactoring-24290989?u=76281980&t=90)** At the time of writing, there's a waitlist for Copilot to review entire PRs on GitHub.
+> **[1:30](https://www.linkedin.com/learning/refactoring-with-github-copilot/the-impact-of-ai-on-refactoring-24290989?u=76281980&t=90)** At the time of writing, there's a waitlist for Copilot to review entire PRs on [[GitHub]].
 >
 > **[1:35](https://www.linkedin.com/learning/refactoring-with-github-copilot/the-impact-of-ai-on-refactoring-24290989?u=76281980&t=95)** It'll be interesting to see how that impacts my PRs and my reviews.
 >
@@ -1788,7 +1765,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Microsoft Copilot|Copilot]] (2), [[Code Review]] (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (2), [[Code Review]] (1), [[GitHub]] (1)
 > **Env Vars:** dry (1)
 > **Tools:** github (1)
 > **Definitions:** is a  (1)
@@ -1799,26 +1776,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/refactoring-with-github-copilot/next-steps-24290988?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/refactoring-with-github-copilot/next-steps-24290988?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/refactoring-with-github-copilot/next-steps-24290988?u=76281980&t=0)** You did it! Way to go.
 >
-> **[0:02](https://www.linkedin.com/learning/refactoring-with-github-copilot/next-steps-24290988?u=76281980&t=2)** If you haven't already, install Copilot in your IDE and start refactoring with the help of AI.
+> **[0:02](https://www.linkedin.com/learning/refactoring-with-github-copilot/next-steps-24290988?u=76281980&t=2)** If you haven't already, install [[Microsoft Copilot|Copilot]] in your IDE and start refactoring with the help of AI.
 >
 > **[0:08](https://www.linkedin.com/learning/refactoring-with-github-copilot/next-steps-24290988?u=76281980&t=8)** Better yet, ask Copilot what it thinks you should refactor then write some code.
 >
-> **[0:12](https://www.linkedin.com/learning/refactoring-with-github-copilot/next-steps-24290988?u=76281980&t=12)** If PHP is your language of choice, check out my course, Writing and Refactoring Testable PHP.
+> **[0:12](https://www.linkedin.com/learning/refactoring-with-github-copilot/next-steps-24290988?u=76281980&t=12)** If [[PHP]] is your language of choice, check out my course, Writing and Refactoring Testable PHP.
 >
-> **[0:18](https://www.linkedin.com/learning/refactoring-with-github-copilot/next-steps-24290988?u=76281980&t=18)** And if you like this course, have a look at my course on AI-Aided Test-Driven Development.
+> **[0:18](https://www.linkedin.com/learning/refactoring-with-github-copilot/next-steps-24290988?u=76281980&t=18)** And if you like this course, have a look at my course on AI-Aided [[Test-Driven Development]].
 >
-> **[0:24](https://www.linkedin.com/learning/refactoring-with-github-copilot/next-steps-24290988?u=76281980&t=24)** Follow me on LinkedIn and let me know what cool stuff you are building.
+> **[0:24](https://www.linkedin.com/learning/refactoring-with-github-copilot/next-steps-24290988?u=76281980&t=24)** Follow me on [[LinkedIn]] and let me know what cool stuff you are building.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (2), ai (2), [[PHP]] (2), [[Test-Driven Development]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (2), [[PHP]] (2), [[Test-Driven Development]] (1), [[LinkedIn]] (1)
 > **Env Vars:** php (2), ide (1)
 > **CLI Commands:** php (2)
 > **Prerequisites:** install (1)

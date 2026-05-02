@@ -74,8 +74,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Taking the customer's perspective
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/taking-the-customer-s-perspective?u=76281980)
+#### [Taking the customer's perspective](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/taking-the-customer-s-perspective?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -95,7 +94,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/taking-the-customer-s-perspective?u=76281980&t=43)** We'll discuss how to create a buyer persona of your most important customers.
 >
-> **[0:49](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/taking-the-customer-s-perspective?u=76281980&t=49)** Determine customer decision journey stages to understand how they progress through their decision-making process.
+> **[0:49](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/taking-the-customer-s-perspective?u=76281980&t=49)** Determine customer decision journey stages to understand how they progress through their [[Decision-Making]] process.
 >
 > **[0:56](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/taking-the-customer-s-perspective?u=76281980&t=56)** Choose strategic touch points to connect with customers at key moments of influence, and develop relevant messaging that's customized for each touch point and creates an emotional relationship with your brand.
 >
@@ -105,7 +104,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), career (1), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1)
 > **Speakers:** - if (1)
 
 
@@ -113,8 +112,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Importance of the decision journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/importance-of-the-decision-journey-13926968?u=76281980)
+#### [Importance of the decision journey](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/importance-of-the-decision-journey-13926968?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -144,7 +142,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/importance-of-the-decision-journey-13926968?u=76281980&t=77)** To reach customers at the moments that most influenced their decisions.
 >
-> **[1:22](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/importance-of-the-decision-journey-13926968?u=76281980&t=82)** It identifies micro moments, which Google defines as intent-rich moments when a customer wants to learn, go, do, or buy.
+> **[1:22](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/importance-of-the-decision-journey-13926968?u=76281980&t=82)** It identifies micro moments, which [[Google]] defines as intent-rich moments when a customer wants to learn, go, do, or buy.
 >
 > **[1:30](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/importance-of-the-decision-journey-13926968?u=76281980&t=90)** With this insight, you'll know which marketing touch points to use such as search, a website, online banners, or a magazine ad.
 >
@@ -184,15 +182,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), business (2), [[Google]] (1), [[Search]] (1), data (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Versions:** 8.5 (1)
 > **Speakers:** - a (1)
 
-#### How the decision journey has evolved
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/how-the-decision-journey-has-evolved-13933034?u=76281980)
+#### [How the decision journey has evolved](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/how-the-decision-journey-has-evolved-13933034?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -200,13 +197,13 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/how-the-decision-journey-has-evolved-13933034?u=76281980&t=5)** You're a customer for lots of brands.
 >
-> **[0:07](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/how-the-decision-journey-has-evolved-13933034?u=76281980&t=7)** Just think about how your own decision-making behavior has changed.
+> **[0:07](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/how-the-decision-journey-has-evolved-13933034?u=76281980&t=7)** Just think about how your own [[Decision-Making]] behavior has changed.
 >
 > **[0:10](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/how-the-decision-journey-has-evolved-13933034?u=76281980&t=10)** We've all bought laundry detergent, right?
 >
 > **[0:13](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/how-the-decision-journey-has-evolved-13933034?u=76281980&t=13)** Well, in the past, you'd probably just go to the store and pick a brand off the shelf.
 >
-> **[0:17](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/how-the-decision-journey-has-evolved-13933034?u=76281980&t=17)** Now you can research which company makes that brand of laundry detergent and read about their corporate practices, such as sustainability or diversity.
+> **[0:17](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/how-the-decision-journey-has-evolved-13933034?u=76281980&t=17)** Now you can research which company makes that brand of laundry detergent and read about their corporate practices, such as [[Sustainability]] or diversity.
 >
 > **[0:26](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/how-the-decision-journey-has-evolved-13933034?u=76281980&t=26)** You can research and compare specific product ingredients easily online.
 >
@@ -226,7 +223,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/how-the-decision-journey-has-evolved-13933034?u=76281980&t=77)** Take, for example, the travel agency business.
 >
-> **[1:20](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/how-the-decision-journey-has-evolved-13933034?u=76281980&t=80)** Years ago, when you wanted to book a trip, you'd visit a travel agent's office and speak with a person.
+> **[1:20](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/how-the-decision-journey-has-evolved-13933034?u=76281980&t=80)** Years ago, when you wanted to book a trip, you'd visit a travel agent's [[Microsoft Office|office]] and speak with a person.
 >
 > **[1:25](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/how-the-decision-journey-has-evolved-13933034?u=76281980&t=85)** But what do you do today?
 >
@@ -252,14 +249,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Decision-Making]] (2), product (2), [[Search]] (2), [[Sustainability]] (1), business (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (2), [[Sustainability]] (1), [[Microsoft Office|Office]] (1)
 > **Analogies:** such as (5), for example (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** means that (1)
 > **Speakers:** - the (1)
 
-#### Insights are the foundation
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/insights-are-the-foundation-13930655?u=76281980)
+#### [Insights are the foundation](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/insights-are-the-foundation-13930655?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -273,7 +269,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/insights-are-the-foundation-13930655?u=76281980&t=30)** If a customer has an immediate unexpected need, such as cold medicine for a child, they might be motivated by a brand recommended by the pharmacist in the store, or feel the need to spend more time evaluating options before they choose a brand to purchase.
 >
-> **[0:44](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/insights-are-the-foundation-13930655?u=76281980&t=44)** Or let's say a customer wants to buy products for a specific event, such as a summer barbecue to celebrate a holiday.
+> **[0:44](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/insights-are-the-foundation-13930655?u=76281980&t=44)** Or let's say a customer wants to buy [[Microsoft Products|products]] for a specific event, such as a summer barbecue to celebrate a holiday.
 >
 > **[0:51](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/insights-are-the-foundation-13930655?u=76281980&t=51)** The customer may need to buy barbecue products on sale 'cause the holiday barbecue isn't included in their usual budget.
 >
@@ -305,7 +301,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), product (2), business (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3)
 > **Analogies:** such as (4), for example (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
@@ -318,8 +314,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Define buyer persona
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/define-buyer-persona-13929683?u=76281980)
+#### [Define buyer persona](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/define-buyer-persona-13929683?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -367,15 +362,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), teams (2), hit (1), [[Search]] (1), data (1)
 > **CLI Commands:** make (2)
 > **Exercise Files:** exercise file (1), template (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
 > **Speakers:** - did (1)
 
-#### Profile your buyers
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/profile-your-buyers-13931272?u=76281980)
+#### [Profile your buyers](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/profile-your-buyers-13931272?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -385,7 +378,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/profile-your-buyers-13931272?u=76281980&t=13)** Probably not.
 >
-> **[0:15](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/profile-your-buyers-13931272?u=76281980&t=15)** For someone else to envision your friend, you'd need to describe lots of information, like maybe where they grew up, where they live, what type of job they have and their attitudes and behaviors, such as what types of products they like or their favorite flavors.
+> **[0:15](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/profile-your-buyers-13931272?u=76281980&t=15)** For someone else to envision your friend, you'd need to describe lots of information, like maybe where they grew up, where they live, what type of job they have and their attitudes and behaviors, such as what types of [[Microsoft Products|products]] they like or their favorite flavors.
 >
 > **[0:29](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/profile-your-buyers-13931272?u=76281980&t=29)** So how do you uncover these types of insights to create or what some people call to profile your buyer personas?
 >
@@ -397,7 +390,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/profile-your-buyers-13931272?u=76281980&t=55)** It provides insights, such as customer attitudes or how they speak about your brand to friends or family.
 >
-> **[1:02](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/profile-your-buyers-13931272?u=76281980&t=62)** Quantitative research provides statistics, data, numbers about a larger representative sample of your customers.
+> **[1:02](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/profile-your-buyers-13931272?u=76281980&t=62)** Quantitative research provides [[Statistics]], data, numbers about a larger representative sample of your customers.
 >
 > **[1:10](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/profile-your-buyers-13931272?u=76281980&t=70)** It can be conducted by phone or online surveys or collected through website analytics or social media listening reports.
 >
@@ -423,7 +416,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/profile-your-buyers-13931272?u=76281980&t=149)** Understand previous interactions, such as which brands customers have used before, how they view those experiences and what product or service needs must be met so they'll choose your brand over competition.
 >
-> **[2:42](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/profile-your-buyers-13931272?u=76281980&t=162)** For example, if you work in banking and know that people are frustrated because they don't understand the differences between the three checking products you offer, you'll learn that your marketing messaging needs to communicate the checking product differences and which benefits are relevant for which type of customer.
+> **[2:42](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/profile-your-buyers-13931272?u=76281980&t=162)** For example, if you work in [[Banking]] and know that people are frustrated because they don't understand the differences between the three checking products you offer, you'll learn that your marketing messaging needs to communicate the checking product differences and which benefits are relevant for which type of customer.
 >
 > **[2:59](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/profile-your-buyers-13931272?u=76281980&t=179)** Research should inform what, when, how and where customers buy.
 >
@@ -453,13 +446,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), product (3), [[Microsoft Products|Products]] (2), data (2), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Statistics]] (1), [[Banking]] (1)
 > **Analogies:** such as (11), for example (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - how (1)
 
-#### Use your buyer personas
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/use-your-buyer-personas-13929682?u=76281980)
+#### [Use your buyer personas](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/use-your-buyer-personas-13929682?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -505,7 +497,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/use-your-buyer-personas-13929682?u=76281980&t=142)** Review your database to uncover trends and insights about how people find and engage with your brand and messaging.
 >
-> **[2:29](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/use-your-buyer-personas-13929682?u=76281980&t=149)** If you use forms to capture information about visitors when they download information from your website, monitor that information for any changes.
+> **[2:29](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/use-your-buyer-personas-13929682?u=76281980&t=149)** If you use [[Forms]] to capture information about visitors when they download information from your website, monitor that information for any changes.
 >
 > **[2:38](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/use-your-buyer-personas-13929682?u=76281980&t=158)** Stay close to whoever in your company is close to customers.
 >
@@ -517,7 +509,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), data (1), database (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** such as (2)
 > **Best Practices:** remember to (1)
@@ -529,8 +521,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Define journey stages
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/define-journey-stages-13932233?u=76281980)
+#### [Define journey stages](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/define-journey-stages-13932233?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -540,7 +531,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/define-journey-stages-13932233?u=76281980&t=11)** That's a deep understanding of your customer's point of view, how they approach making a decision about what to buy.
 >
-> **[0:18](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/define-journey-stages-13932233?u=76281980&t=18)** Customers have different decision journeys for different products and services.
+> **[0:18](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/define-journey-stages-13932233?u=76281980&t=18)** Customers have different decision journeys for different [[Microsoft Products|products]] and services.
 >
 > **[0:22](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/define-journey-stages-13932233?u=76281980&t=22)** The decision stages for a big purchase, like a car, would be really different than for a small purchase, like a candy bar.
 >
@@ -566,13 +557,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - a (1)
 
-#### Develop the journey map
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/develop-the-journey-map-13929685?u=76281980)
+#### [Develop the journey map](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/develop-the-journey-map-13929685?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -588,7 +578,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/develop-the-journey-map-13929685?u=76281980&t=27)** The maps should be insight-driven based on research like surveys and analytics to help you understand their mindset and behavior.
 >
-> **[0:34](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/develop-the-journey-map-13929685?u=76281980&t=34)** For example, one major airline does research to monitor people's heart rates to determine where they face the most stress in the travel experience so they can develop products and services to address those moments.
+> **[0:34](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/develop-the-journey-map-13929685?u=76281980&t=34)** For example, one major airline does research to monitor people's heart rates to determine where they face the most stress in the travel experience so they can develop [[Microsoft Products|products]] and services to address those moments.
 >
 > **[0:47](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/develop-the-journey-map-13929685?u=76281980&t=47)** In this example, you'll see how it captures both the positive and negative aspects of the customer's experience with the brand.
 >
@@ -616,14 +606,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Analytics]] (1), [[Microsoft Products|Products]] (1), teams (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (2)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - ever (1)
 
-#### Common journey stages
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/common-journey-stages-13928685?u=76281980)
+#### [Common journey stages](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/common-journey-stages-13928685?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -691,13 +680,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), next (1), [[Security]] (1)
 > **CLI Commands:** make (3)
 > **Warnings:** common mistake (1)
 > **Speakers:** - there (1)
 
-#### Think through the stages
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/think-through-the-stages-13930656?u=76281980)
+#### [Think through the stages](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/think-through-the-stages-13930656?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -748,8 +735,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Define touch points
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/define-touch-points-13931273?u=76281980)
+#### [Define touch points](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/define-touch-points-13931273?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -791,13 +777,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1), business (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - now (1)
 
-#### Engage across touch points
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/engage-across-touch-points-13928687?u=76281980)
+#### [Engage across touch points](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/engage-across-touch-points-13928687?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -853,11 +837,11 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/engage-across-touch-points-13928687?u=76281980&t=163)** 94% of people would buy a product after speaking with someone they know, so you need to monitor and engage with customers where they seek referrals or read reviews.
 >
-> **[2:53](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/engage-across-touch-points-13928687?u=76281980&t=173)** You can learn more about search, referral marketing, and peer reviews in my Lead Generation Fundamentals course.
+> **[2:53](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/engage-across-touch-points-13928687?u=76281980&t=173)** You can learn more about search, referral marketing, and peer reviews in my [[Lead Generation]] Fundamentals course.
 >
 > **[3:01](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/engage-across-touch-points-13928687?u=76281980&t=181)** While customers continue to increase their use of digital touchpoints, the importance varies based on the decision stage and mindset of the customer.
 >
-> **[3:09](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/engage-across-touch-points-13928687?u=76281980&t=189)** Studies show that the majority of the sales process often occurs before a prospect meets a sales person, and in many cases, the majority of customers use multiple social media sources, especially early on in the decision journey, as they seek information, peer reviews, and thought leadership published by brands.
+> **[3:09](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/engage-across-touch-points-13928687?u=76281980&t=189)** Studies show that the majority of the sales process often occurs before a prospect meets a sales person, and in many cases, the majority of customers use multiple social media sources, especially early on in the decision journey, as they seek information, peer reviews, and [[Thought Leadership]] published by brands.
 >
 > **[3:30](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/engage-across-touch-points-13928687?u=76281980&t=210)** Focus your resources on touch points that your customers want to use to engage with your brand.
 >
@@ -865,15 +849,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (5), product (2), [[Lead Generation]] (1), [[Thought Leadership]] (1)
+> **Frameworks & Libraries:** [[Lead Generation]] (1), [[Thought Leadership]] (1)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - to (1)
 
-#### Determine touch points
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/determine-touch-points-13927744?u=76281980)
+#### [Determine touch points](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/determine-touch-points-13927744?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -919,7 +902,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), next (2), data (1), business (1)
 > **CLI Commands:** find (3), make (1)
 > **Analogies:** such as (2), for example (1)
 > **Prerequisites:** you'll need (1)
@@ -930,8 +912,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Messaging versus content
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/messaging-versus-content?u=76281980)
+#### [Messaging versus content](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/messaging-versus-content?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -967,7 +948,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/messaging-versus-content?u=76281980&t=90)** For example, perhaps early on in a customer's journey, they may be evaluating options between competitive brands.
 >
-> **[1:37](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/messaging-versus-content?u=76281980&t=97)** So credible, accurate information on a company's website or thought leadership content, marketing, and blogs would be relevant.
+> **[1:37](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/messaging-versus-content?u=76281980&t=97)** So credible, accurate information on a company's website or [[Thought Leadership]] content, marketing, and blogs would be relevant.
 >
 > **[1:46](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/messaging-versus-content?u=76281980&t=106)** Customers also tend to consult reviews at early stages in their journey, so excellent reviews by previous customers will be important.
 >
@@ -985,19 +966,18 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/messaging-versus-content?u=76281980&t=151)** People most often consult family and friends before making a purchase.
 >
-> **[2:35](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/messaging-versus-content?u=76281980&t=155)** The power of word of mouth and peer reviews.
+> **[2:35](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/messaging-versus-content?u=76281980&t=155)** The power of [[Microsoft Word|word]] of mouth and peer reviews.
 >
 > **[2:39](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/messaging-versus-content?u=76281980&t=159)** The right combination of messaging created by the company or brand, and content, or responses, to create a two-way dialogue will engage customers and drive loyalty and advocacy.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), [[Thought Leadership]] (1), data (1), power (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Thought Leadership]] (1), [[Microsoft Word|Word]] (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - you (1)
 
-#### Align across touch points
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/align-across-touch-points-13928686?u=76281980)
+#### [Align across touch points](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/align-across-touch-points-13928686?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1046,8 +1026,7 @@ created: 2026-05-02
 > **Analogies:** imagine (2), such as (1), kind of like (1)
 > **Speakers:** - lots (1)
 
-#### Emotional versus rational
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/emotional-versus-rational-13931269?u=76281980)
+#### [Emotional versus rational](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/emotional-versus-rational-13931269?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1109,7 +1088,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), [[Search]] (1), data (1)
 > **Code Identifiers:** iphone (4)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
@@ -1120,8 +1098,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The journey continues
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/the-journey-continues?u=76281980)
+#### [The journey continues](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/the-journey-continues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1131,19 +1108,19 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/the-journey-continues?u=76281980&t=12)** While we've covered a lot in this course, I want you to remember that customers, brands and businesses evolve and so must your customer decision journey.
 >
-> **[0:21](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/the-journey-continues?u=76281980&t=21)** If you're interested in gaining more insights about the customer decision journey, I recommend signing up for email alerts to receive thought leadership from McKinsey, BCG or Harvard Business Review, and researching Microsoft and Google customer decision journey studies and articles.
+> **[0:21](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/the-journey-continues?u=76281980&t=21)** If you're interested in gaining more insights about the customer decision journey, I recommend signing up for email alerts to receive [[Thought Leadership]] from McKinsey, BCG or Harvard Business Review, and researching [[Microsoft]] and [[Google]] customer decision journey studies and articles.
 >
-> **[0:42](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/the-journey-continues?u=76281980&t=42)** You can also subscribe to Path to Purchase Institute newsletters.
+> **[0:42](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/the-journey-continues?u=76281980&t=42)** You can also subscribe to Path to Purchase Institute [[Newsletters]].
 >
 > **[0:48](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/the-journey-continues?u=76281980&t=48)** These are great ways to stay on top of customer decision journey, best practices and new content.
 >
-> **[0:54](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/the-journey-continues?u=76281980&t=54)** Lastly, I encourage you to stay in touch, follow or connect with me on LinkedIn, and visit my website to opt into my newsletter so you can read more about customer focused marketing best practices.
+> **[0:54](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/the-journey-continues?u=76281980&t=54)** Lastly, I encourage you to stay in touch, follow or connect with me on [[LinkedIn]], and visit my website to opt into my newsletter so you can read more about customer focused marketing best practices.
 >
 > **[1:07](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/the-journey-continues?u=76281980&t=67)** Thanks for watching and I wish you all the best of success.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Thought Leadership]] (1), business (1), [[Microsoft]] (1), [[Google]] (1), [[Newsletters]] (1)
+> **Frameworks & Libraries:** [[Thought Leadership]] (1), [[Microsoft]] (1), [[Google]] (1), [[Newsletters]] (1), [[LinkedIn]] (1)
 > **Env Vars:** bcg (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - congratulations (1)

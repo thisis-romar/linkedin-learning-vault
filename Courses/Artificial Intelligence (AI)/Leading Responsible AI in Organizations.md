@@ -62,18 +62,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Leading responsible AI in organizations
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/leading-responsible-ai-in-organizations?u=76281980)
+#### [Leading responsible AI in organizations](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/leading-responsible-ai-in-organizations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/leading-responsible-ai-in-organizations?u=76281980&t=0)** - Business needs are changing quickly and understanding how to support responsible AI initiatives is more important than ever.
+> **[0:00](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/leading-responsible-ai-in-organizations?u=76281980&t=0)** - Business needs are changing quickly and understanding how to support [[Responsible AI]] initiatives is more important than ever.
 >
 > **[0:09](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/leading-responsible-ai-in-organizations?u=76281980&t=9)** In my work with leaders, they're excited about taking action to implement ethical practices because they see the benefit within their organizations.
 >
 > **[0:19](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/leading-responsible-ai-in-organizations?u=76281980&t=19)** This is not only vital to an organization's success, but contributes to the greater good.
 >
-> **[0:25](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/leading-responsible-ai-in-organizations?u=76281980&t=25)** Hi, I'm Elizabeth M. Adams and for over 20 years, I've been studying how technology impacts leadership and this includes the emerging discipline of responsible AI, stakeholder collaboration, data governance and security are essential considerations, and we'll cover these topics and so much more.
+> **[0:25](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/leading-responsible-ai-in-organizations?u=76281980&t=25)** Hi, I'm Elizabeth M. Adams and for over 20 years, I've been studying how technology impacts leadership and this includes the emerging discipline of responsible AI, stakeholder collaboration, [[Data Governance]] and security are essential considerations, and we'll cover these topics and so much more.
 >
 > **[0:46](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/leading-responsible-ai-in-organizations?u=76281980&t=46)** My hope is to encourage you to lead responsible AI in your organization.
 >
@@ -81,7 +80,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Responsible AI]] (3), business (1), leadership (1), data (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (3), [[Data Governance]] (1)
 > **Speakers:** - business (1)
 
 
@@ -89,12 +88,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Leading responsible AI with ethics as core values
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/leading-responsible-ai-with-ethics-as-core-values?u=76281980)
+#### [Leading responsible AI with ethics as core values](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/leading-responsible-ai-with-ethics-as-core-values?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/leading-responsible-ai-with-ethics-as-core-values?u=76281980&t=0)** - Are you working in the space of responsible AI as a leader?
+> **[0:00](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/leading-responsible-ai-with-ethics-as-core-values?u=76281980&t=0)** - Are you working in the space of [[Responsible AI]] as a leader?
 >
 > **[0:04](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/leading-responsible-ai-with-ethics-as-core-values?u=76281980&t=4)** Great, because this is a top priority for many of us and for good reason.
 >
@@ -102,13 +100,13 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/leading-responsible-ai-with-ethics-as-core-values?u=76281980&t=18)** When you establish a strong, responsible AI vision as a leader, you can ensure AI development in your organization leads to responsible and unbiased systems.
 >
-> **[0:31](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/leading-responsible-ai-with-ethics-as-core-values?u=76281980&t=31)** In my consulting work, leaders have shared with me that having a strong ethical vision helps to establish trust, mitigate risks, meet customer expectations, and ensure regulatory compliance.
+> **[0:31](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/leading-responsible-ai-with-ethics-as-core-values?u=76281980&t=31)** In my consulting work, leaders have shared with me that having a strong ethical vision helps to establish trust, mitigate risks, meet customer expectations, and ensure [[Regulatory Compliance]].
 >
 > **[0:45](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/leading-responsible-ai-with-ethics-as-core-values?u=76281980&t=45)** It can also set your organization apart as a pioneer in global innovation.
 >
 > **[0:51](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/leading-responsible-ai-with-ethics-as-core-values?u=76281980&t=51)** So, how might you begin to adopt ethical practices?
 >
-> **[0:56](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/leading-responsible-ai-with-ethics-as-core-values?u=76281980&t=56)** Well, as I mentioned, it starts with firmly setting a vision and making AI ethics a living example within your organization.
+> **[0:56](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/leading-responsible-ai-with-ethics-as-core-values?u=76281980&t=56)** Well, as I mentioned, it starts with firmly setting a vision and making AI [[Ethics]] a living example within your organization.
 >
 > **[1:05](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/leading-responsible-ai-with-ethics-as-core-values?u=76281980&t=65)** A responsible AI vision fosters a culture where ethics and integrity meet, and these are two powerful driving forces.
 >
@@ -116,13 +114,13 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/leading-responsible-ai-with-ethics-as-core-values?u=76281980&t=90)** So let's talk about what this might mean for your organization.
 >
-> **[1:34](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/leading-responsible-ai-with-ethics-as-core-values?u=76281980&t=94)** Here are three reasons why setting a responsible AI vision supports an overall responsible AI organizational culture.
+> **[1:34](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/leading-responsible-ai-with-ethics-as-core-values?u=76281980&t=94)** Here are three reasons why setting a responsible AI vision supports an overall responsible AI [[Organizational Culture]].
 >
 > **[1:44](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/leading-responsible-ai-with-ethics-as-core-values?u=76281980&t=104)** First, leadership commitment.
 >
 > **[1:47](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/leading-responsible-ai-with-ethics-as-core-values?u=76281980&t=107)** Leaders are happy to support their organization's responsible AI vision and do so through the development of policies and principles that guide the organization toward ethical AI adoption.
 >
-> **[2:00](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/leading-responsible-ai-with-ethics-as-core-values?u=76281980&t=120)** They adopt accountability as a leadership principle, which helps to strengthen the organization's commitment to responsible AI practices.
+> **[2:00](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/leading-responsible-ai-with-ethics-as-core-values?u=76281980&t=120)** They adopt [[Accountability]] as a leadership principle, which helps to strengthen the organization's commitment to responsible AI practices.
 >
 > **[2:09](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/leading-responsible-ai-with-ethics-as-core-values?u=76281980&t=129)** And second, education and training.
 >
@@ -150,18 +148,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Responsible AI]] (14), ai (6), [[Ethics]] (5), leadership (3), [[Regulatory Compliance]] (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (14), [[Ethics]] (5), [[Regulatory Compliance]] (1), [[Organizational Culture]] (1), [[Accountability]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - are (1)
 
-#### Ensuring data governance as responsible leadership
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/ensuring-data-governance-as-responsible-leadership?u=76281980)
+#### [Ensuring data governance as responsible leadership](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/ensuring-data-governance-as-responsible-leadership?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/ensuring-data-governance-as-responsible-leadership?u=76281980&t=0)** - As a leader, one of the most important components of responsible AI is knowing what is happening with the data that belongs to your organization.
+> **[0:00](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/ensuring-data-governance-as-responsible-leadership?u=76281980&t=0)** - As a leader, one of the most important components of [[Responsible AI]] is knowing what is happening with the data that belongs to your organization.
 >
-> **[0:11](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/ensuring-data-governance-as-responsible-leadership?u=76281980&t=11)** This is because responsible AI and data governance go hand in hand.
+> **[0:11](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/ensuring-data-governance-as-responsible-leadership?u=76281980&t=11)** This is because responsible AI and [[Data Governance]] go hand in hand.
 >
 > **[0:16](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/ensuring-data-governance-as-responsible-leadership?u=76281980&t=16)** As a responsible AI leader, one of your greatest responsibilities is to ensure that ethical, transparent, and accountable use of data.
 >
@@ -209,13 +206,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), [[Responsible AI]] (9), business (1), ai (1)
+> **Frameworks & Libraries:** [[Data Governance]] (12), [[Responsible AI]] (9)
 > **Definitions:** is a  (3), means that (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - as (1)
 
-#### Transparency and explainability to cultivate trust
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/transparency-and-explainability-to-cultivate-trust?u=76281980)
+#### [Transparency and explainability to cultivate trust](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/transparency-and-explainability-to-cultivate-trust?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -233,7 +229,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/transparency-and-explainability-to-cultivate-trust?u=76281980&t=47)** Let's say your AI system is trained to automate decision making, such as deciding whether or not to approve a credit card for a potential customer.
 >
-> **[0:57](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/transparency-and-explainability-to-cultivate-trust?u=76281980&t=57)** Are you confident that your customer-facing employees understand why and how algorithms make these decisions?
+> **[0:57](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/transparency-and-explainability-to-cultivate-trust?u=76281980&t=57)** Are you confident that your customer-facing employees understand why and how [[Algorithms]] make these decisions?
 >
 > **[1:05](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/transparency-and-explainability-to-cultivate-trust?u=76281980&t=65)** Because I guarantee you, your customers want to know, and in my research, employees who are unable to answer these questions feel inadequately prepared to do their jobs.
 >
@@ -257,7 +253,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/transparency-and-explainability-to-cultivate-trust?u=76281980&t=133)** This opportunity helps to establish a longer term plan for ensuring transparency can be integrated into business practices.
 >
-> **[2:22](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/transparency-and-explainability-to-cultivate-trust?u=76281980&t=142)** And third, allow employees to lead as responsible AI champions.
+> **[2:22](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/transparency-and-explainability-to-cultivate-trust?u=76281980&t=142)** And third, allow employees to lead as [[Responsible AI]] champions.
 >
 > **[2:27](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/transparency-and-explainability-to-cultivate-trust?u=76281980&t=147)** This could mean establishing formal channels, and to find the best solutions to enhance your overall responsible AI culture.
 >
@@ -275,21 +271,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[Responsible AI]] (2), [[Algorithms]] (1), leadership (1), business (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (2), [[Algorithms]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** such as (1)
 > **Speakers:** - over (1)
 
-#### Regulatory compliance as a standard of integrity
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/regulatory-compliance-as-a-standard-of-integrity?u=76281980)
+#### [Regulatory compliance as a standard of integrity](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/regulatory-compliance-as-a-standard-of-integrity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/regulatory-compliance-as-a-standard-of-integrity?u=76281980&t=0)** - As a leader, it's essential to understand the importance of responsible AI compliance.
+> **[0:00](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/regulatory-compliance-as-a-standard-of-integrity?u=76281980&t=0)** - As a leader, it's essential to understand the importance of [[Responsible AI]] compliance.
 >
-> **[0:06](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/regulatory-compliance-as-a-standard-of-integrity?u=76281980&t=6)** Establishing regulatory compliance not only helps to maintain integrity, but it's fundamental for ethical operations, and avoiding legal repercussions.
+> **[0:06](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/regulatory-compliance-as-a-standard-of-integrity?u=76281980&t=6)** Establishing [[Regulatory Compliance]] not only helps to maintain integrity, but it's fundamental for ethical operations, and avoiding legal repercussions.
 >
-> **[0:16](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/regulatory-compliance-as-a-standard-of-integrity?u=76281980&t=16)** A robust responsible AI compliance program includes a number of important elements that ensure AI is developed, and used ethically and legally, and it's up to you as a leader to ensure your organization develops proactive approaches that help build a culture of legal awareness and accountability.
+> **[0:16](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/regulatory-compliance-as-a-standard-of-integrity?u=76281980&t=16)** A robust responsible AI compliance program includes a number of important elements that ensure AI is developed, and used ethically and legally, and it's up to you as a leader to ensure your organization develops proactive approaches that help build a culture of legal awareness and [[Accountability]].
 >
 > **[0:37](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/regulatory-compliance-as-a-standard-of-integrity?u=76281980&t=37)** Now, let's walk through a few ways you as a leader can drive these efforts.
 >
@@ -333,12 +328,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Responsible AI]] (7), ai (5), leadership (3), [[Accountability]] (2), data (2)
+> **Frameworks & Libraries:** [[Responsible AI]] (7), [[Accountability]] (2), [[Regulatory Compliance]] (1)
 > **Definitions:** is an  (2)
 > **Speakers:** - as (1)
 
-#### Creating a responsible AI hub of excellence
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/creating-a-responsible-ai-hub-of-excellence?u=76281980)
+#### [Creating a responsible AI hub of excellence](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/creating-a-responsible-ai-hub-of-excellence?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -356,7 +350,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/creating-a-responsible-ai-hub-of-excellence?u=76281980&t=41)** So, let's walk through some key elements of what this might look like.
 >
-> **[0:46](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/creating-a-responsible-ai-hub-of-excellence?u=76281980&t=46)** A responsible AI hub of excellence is a streamlined digital space that incorporates at least three things.
+> **[0:46](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/creating-a-responsible-ai-hub-of-excellence?u=76281980&t=46)** A [[Responsible AI]] hub of excellence is a streamlined digital space that incorporates at least three things.
 >
 > **[0:54](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/creating-a-responsible-ai-hub-of-excellence?u=76281980&t=54)** Collaboration, a collaboration space that allows a community of enthusiasts to share insights, tips, and tricks, and work together to support the organization's responsible AI goals.
 >
@@ -386,18 +380,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Responsible AI]] (5), ai (2)
+> **Frameworks & Libraries:** [[Responsible AI]] (5)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (1)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - many (1)
 
-#### Accountability and security as a fundamental practice
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/accountability-and-security-as-a-fundamental-practice?u=76281980)
+#### [Accountability and security as a fundamental practice](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/accountability-and-security-as-a-fundamental-practice?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/accountability-and-security-as-a-fundamental-practice?u=76281980&t=0)** - Are you able to describe your organization's responsible AI security posture?
+> **[0:00](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/accountability-and-security-as-a-fundamental-practice?u=76281980&t=0)** - Are you able to describe your organization's [[Responsible AI]] security posture?
 >
 > **[0:06](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/accountability-and-security-as-a-fundamental-practice?u=76281980&t=6)** What about the policies that guide how to keep your AI systems safe?
 >
@@ -419,7 +412,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/accountability-and-security-as-a-fundamental-practice?u=76281980&t=72)** This stance can help keep your AI systems safe from unauthorized access, data breaches, and other threats that could compromise the integrity of your AI systems.
 >
-> **[1:24](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/accountability-and-security-as-a-fundamental-practice?u=76281980&t=84)** Also, as AI becomes increasingly integrated into your business operations, make sure that your systems work accurately and reliably.
+> **[1:24](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/accountability-and-security-as-a-fundamental-practice?u=76281980&t=84)** Also, as AI becomes increasingly integrated into your [[Business Operations]], make sure that your systems work accurately and reliably.
 >
 > **[1:34](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/accountability-and-security-as-a-fundamental-practice?u=76281980&t=94)** Potential disruptions could have significant operational or reputational consequences.
 >
@@ -445,16 +438,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), [[Security]] (6), [[Responsible AI]] (3), data (1), business (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (3), [[Business Operations]] (1)
 > **CLI Commands:** make (4)
 > **Speakers:** - are (1)
 
-#### Inclusive collaboration in AI development
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/inclusive-collaboration-in-ai-development?u=76281980)
+#### [Inclusive collaboration in AI development](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/inclusive-collaboration-in-ai-development?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/inclusive-collaboration-in-ai-development?u=76281980&t=0)** - Promoting inclusive collaboration in your responsible AI lifecycle can ensure a more fair and equitable user experience.
+> **[0:00](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/inclusive-collaboration-in-ai-development?u=76281980&t=0)** - Promoting inclusive collaboration in your [[Responsible AI]] lifecycle can ensure a more fair and equitable [[User Experience (UX)|user experience]].
 >
 > **[0:09](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/inclusive-collaboration-in-ai-development?u=76281980&t=9)** Inclusive collaboration involves bringing stakeholders with different perspectives into the process, and this in turn helps them feel more connected to your responsible AI vision, especially when collaboration encourages connection with people from various backgrounds.
 >
@@ -470,7 +462,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/inclusive-collaboration-in-ai-development?u=76281980&t=70)** This involves addressing a number of key considerations, and I'd like to highlight a few.
 >
-> **[1:16](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/inclusive-collaboration-in-ai-development?u=76281980&t=76)** Stakeholder engagement.
+> **[1:16](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/inclusive-collaboration-in-ai-development?u=76281980&t=76)** [[Stakeholder Engagement]].
 >
 > **[1:18](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/inclusive-collaboration-in-ai-development?u=76281980&t=78)** Engaging with relevant stakeholders, both internal and external, helps you to tap into expertise you might not have considered before.
 >
@@ -484,7 +476,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/inclusive-collaboration-in-ai-development?u=76281980&t=106)** Multidisciplinary approaches can broaden your team's understanding of AI, and help teams understand how responsible AI fits in with other efforts across the organization.
 >
-> **[1:58](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/inclusive-collaboration-in-ai-development?u=76281980&t=118)** Data Collection.
+> **[1:58](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/inclusive-collaboration-in-ai-development?u=76281980&t=118)** [[Data Collection]].
 >
 > **[2:00](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/inclusive-collaboration-in-ai-development?u=76281980&t=120)** By encouraging collaboration, teams can help ensure data sets are diverse and representative, which can help you avoid perpetuating data bias.
 >
@@ -508,13 +500,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Responsible AI]] (8), teams (5), ai (3), data (3), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (8), [[User Experience (UX)|User experience]] (1), [[Stakeholder Engagement]] (1), [[Data Collection]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** such as (1)
 > **Speakers:** - promoting (1)
 
-#### Employee stakeholder collaboration as a partnership model
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/employee-stakeholder-collaboration-as-a-partnership-model?u=76281980)
+#### [Employee stakeholder collaboration as a partnership model](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/employee-stakeholder-collaboration-as-a-partnership-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -528,7 +519,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/employee-stakeholder-collaboration-as-a-partnership-model?u=76281980&t=41)** I've had the opportunity to meet with thousands of employees working in the AI space, and I've learned some very interesting insights about how to build broader employee stakeholder partnerships.
 >
-> **[0:53](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/employee-stakeholder-collaboration-as-a-partnership-model?u=76281980&t=53)** They've shared that when responsible AI is an integral part of their organizational culture, they're more comfortable sharing what they're learning, even if the results aren't always positive.
+> **[0:53](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/employee-stakeholder-collaboration-as-a-partnership-model?u=76281980&t=53)** They've shared that when [[Responsible AI]] is an integral part of their [[Organizational Culture]], they're more comfortable sharing what they're learning, even if the results aren't always positive.
 >
 > **[1:04](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/employee-stakeholder-collaboration-as-a-partnership-model?u=76281980&t=64)** This partnership helps leaders lead more effectively because they can trust that their teams have a watchful eye out for any potential risks.
 >
@@ -564,12 +555,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Responsible AI]] (6), teams (2), ai (1), [[Organizational Culture]] (1), leadership (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (6), [[Organizational Culture]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - stakeholders (1)
 
-#### Cultivating continuous responsible AI learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/cultivating-continuous-responsible-ai-learning?u=76281980)
+#### [Cultivating continuous responsible AI learning](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/cultivating-continuous-responsible-ai-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -579,7 +569,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/cultivating-continuous-responsible-ai-learning?u=76281980&t=12)** This is an important part of shaping your organization's approach to AI design and development.
 >
-> **[0:19](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/cultivating-continuous-responsible-ai-learning?u=76281980&t=19)** Learning programs help build a mindset and culture of accountability and continuous improvement.
+> **[0:19](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/cultivating-continuous-responsible-ai-learning?u=76281980&t=19)** Learning programs help build a mindset and culture of [[Accountability]] and continuous improvement.
 >
 > **[0:27](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/cultivating-continuous-responsible-ai-learning?u=76281980&t=27)** Because the field of AI is constantly changing, every level and every role in your organization could benefit from learning how to incorporate new information into organizational practices.
 >
@@ -591,7 +581,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/cultivating-continuous-responsible-ai-learning?u=76281980&t=54)** Think about how this might lead to a transformative shift in your technology practices.
 >
-> **[1:01](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/cultivating-continuous-responsible-ai-learning?u=76281980&t=61)** Committing to a learning and development program may position your executives as responsible AI influencers, increasing their ability to navigate emerging AI complexities.
+> **[1:01](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/cultivating-continuous-responsible-ai-learning?u=76281980&t=61)** Committing to a learning and development program may position your executives as [[Responsible AI]] influencers, increasing their ability to navigate emerging AI complexities.
 >
 > **[1:13](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/cultivating-continuous-responsible-ai-learning?u=76281980&t=73)** For your leaders, a learning and development program may include offering them an opportunity to attend conferences, to participate in in-depth discussions, knowledge-sharing, and networking with other decision-makers.
 >
@@ -615,25 +605,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), [[Responsible AI]] (4), [[Accountability]] (1), teams (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (4), [[Accountability]] (1)
 > **Definitions:** is an  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - in (1)
 
-#### Organizational responsiveness in AI ethics
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/organizational-responsiveness-in-ai-ethics?u=76281980)
+#### [Organizational responsiveness in AI ethics](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/organizational-responsiveness-in-ai-ethics?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/organizational-responsiveness-in-ai-ethics?u=76281980&t=0)** - You know, it seems like every day we find new opportunities and challenges in the AI space.
 >
-> **[0:06](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/organizational-responsiveness-in-ai-ethics?u=76281980&t=6)** So it's always important to think about new regulations and new standards, and how these might impact your business operations.
+> **[0:06](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/organizational-responsiveness-in-ai-ethics?u=76281980&t=6)** So it's always important to think about new regulations and new standards, and how these might impact your [[Business Operations]].
 >
-> **[0:15](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/organizational-responsiveness-in-ai-ethics?u=76281980&t=15)** You see, the role of leaders and responsible AI is to help figure out what is most important for your organization.
+> **[0:15](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/organizational-responsiveness-in-ai-ethics?u=76281980&t=15)** You see, the role of leaders and [[Responsible AI]] is to help figure out what is most important for your organization.
 >
 > **[0:23](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/organizational-responsiveness-in-ai-ethics?u=76281980&t=23)** So by adopting responsiveness as a leadership principle, you can help ensure that your organization is prepared as new ethical issues come up.
 >
-> **[0:33](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/organizational-responsiveness-in-ai-ethics?u=76281980&t=33)** For leaders, a responsive organizational culture and mindset encourages adaptability.
+> **[0:33](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/organizational-responsiveness-in-ai-ethics?u=76281980&t=33)** For leaders, a responsive [[Organizational Culture]] and mindset encourages adaptability.
 >
 > **[0:39](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/organizational-responsiveness-in-ai-ethics?u=76281980&t=39)** Responsiveness as a mindset helps leaders stay ahead of the curve.
 >
@@ -671,18 +660,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[Responsible AI]] (4), business (2), leadership (1), [[Organizational Culture]] (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (4), [[Business Operations]] (1), [[Organizational Culture]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - you (1)
 
-#### External engagement as a responsible leadership approach
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/external-engagement-as-a-responsible-leadership-approach?u=76281980)
+#### [External engagement as a responsible leadership approach](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/external-engagement-as-a-responsible-leadership-approach?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/external-engagement-as-a-responsible-leadership-approach?u=76281980&t=0)** - Many responsible AI standards stress the importance of having an external advisory board.
+> **[0:00](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/external-engagement-as-a-responsible-leadership-approach?u=76281980&t=0)** - Many [[Responsible AI]] standards stress the importance of having an external advisory board.
 >
-> **[0:07](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/external-engagement-as-a-responsible-leadership-approach?u=76281980&t=7)** An external advisory board can help bring new insights, drive accountability, and help uphold responsible leadership principles.
+> **[0:07](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/external-engagement-as-a-responsible-leadership-approach?u=76281980&t=7)** An external advisory board can help bring new insights, drive [[Accountability]], and help uphold responsible leadership principles.
 >
 > **[0:16](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/external-engagement-as-a-responsible-leadership-approach?u=76281980&t=16)** Creating an external advisory board is good business.
 >
@@ -732,16 +720,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Responsible AI]] (3), business (3), [[Accountability]] (1), leadership (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (3), [[Accountability]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - many (1)
 
-#### Sustainability as an ethical obligation
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/sustainability-as-an-ethical-obligation?u=76281980)
+#### [Sustainability as an ethical obligation](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/sustainability-as-an-ethical-obligation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/sustainability-as-an-ethical-obligation?u=76281980&t=0)** - Responsible AI is about helping organizations embrace the transformative power of AI and respond to emerging sustainability challenges.
+> **[0:00](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/sustainability-as-an-ethical-obligation?u=76281980&t=0)** - [[Responsible AI]] is about helping organizations embrace the transformative power of AI and respond to emerging [[Sustainability]] challenges.
 >
 > **[0:11](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/sustainability-as-an-ethical-obligation?u=76281980&t=11)** Many organizations are being asked by responsible AI advocates to develop robust solutions to address issues where our environment and social considerations intersect.
 >
@@ -763,7 +750,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/sustainability-as-an-ethical-obligation?u=76281980&t=86)** I'd like to share three steps leaders can take to address sustainability challenges.
 >
-> **[1:32](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/sustainability-as-an-ethical-obligation?u=76281980&t=92)** First, implement robust ethics and sustainability policies.
+> **[1:32](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/sustainability-as-an-ethical-obligation?u=76281980&t=92)** First, implement robust [[Ethics]] and sustainability policies.
 >
 > **[1:37](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/sustainability-as-an-ethical-obligation?u=76281980&t=97)** These policies should outline your organization's commitment to responsible AI and sustainable practices.
 >
@@ -795,7 +782,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (8), [[Responsible AI]] (6), ai (6), data (3), power (2)
+> **Frameworks & Libraries:** [[Sustainability]] (8), [[Responsible AI]] (6), [[Ethics]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)

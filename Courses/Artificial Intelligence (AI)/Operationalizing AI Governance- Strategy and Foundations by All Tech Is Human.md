@@ -58,12 +58,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Strategy and foundations
-> [LinkedIn Learning](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/strategy-and-foundations?u=76281980)
+#### [Strategy and foundations](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/strategy-and-foundations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/strategy-and-foundations?u=76281980&t=0)** Welcome to Operationalizing AI Governance, Strategy and Foundations from Alltechishuman.
+> **[0:00](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/strategy-and-foundations?u=76281980&t=0)** Welcome to Operationalizing [[AI Governance]], Strategy and Foundations from Alltechishuman.
 >
 > **[0:07](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/strategy-and-foundations?u=76281980&t=7)** I'm your instructor, Rebecca Tweed, Executive Director of Alltechishuman, and I will be guiding you through this course.
 >
@@ -77,7 +76,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/strategy-and-foundations?u=76281980&t=29)** It's the framework that lets teams shift faster with confidence.
 >
-> **[0:34](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/strategy-and-foundations?u=76281980&t=34)** Second, we'll look at professional roles, the common responsible AI roles and where they sit.
+> **[0:34](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/strategy-and-foundations?u=76281980&t=34)** Second, we'll look at professional roles, the common [[Responsible AI]] roles and where they sit.
 >
 > **[0:41](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/strategy-and-foundations?u=76281980&t=41)** Third, the responsibilities of AI governance professionals day-to-day.
 >
@@ -89,7 +88,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/strategy-and-foundations?u=76281980&t=66)** How can we ensure responsible, secure, and effective use of these powerful technologies without slowing innovation?
 >
-> **[1:13](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/strategy-and-foundations?u=76281980&t=73)** AI assurance serves as a proactive safeguard and practical mechanism for mitigating risk, demonstrating accountability, and enabling confident innovation.
+> **[1:13](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/strategy-and-foundations?u=76281980&t=73)** AI assurance serves as a proactive safeguard and practical mechanism for mitigating risk, demonstrating [[Accountability]], and enabling confident innovation.
 >
 > **[1:23](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/strategy-and-foundations?u=76281980&t=83)** Rather than acting as a brake on progress, a well-structured AI assurance program can function as an enabler of speed and scale.
 >
@@ -111,7 +110,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/strategy-and-foundations?u=76281980&t=142)** Gathering tangible evidence of how AI systems are operating.
 >
-> **[2:26](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/strategy-and-foundations?u=76281980&t=146)** This evidence enables better decision-making, justifies investment, and supports scale-up or course correction.
+> **[2:26](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/strategy-and-foundations?u=76281980&t=146)** This evidence enables better [[Decision-Making]], justifies investment, and supports scale-up or course correction.
 >
 > **[2:34](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/strategy-and-foundations?u=76281980&t=154)** AI Assurance helps organizations stop guessing and start knowing, replacing ambiguity with evidence and enabling leadership teams to act with greater clarity and confidence.
 >
@@ -121,11 +120,11 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/strategy-and-foundations?u=76281980&t=174)** Pair each deployment with a business KPI and an assurance KPI.
 >
-> **[3:00](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/strategy-and-foundations?u=76281980&t=180)** Offer an assurance evidence pack with a model card, evaluation results, red team summary, privacy and security controls, and a monitoring plan.
+> **[3:00](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/strategy-and-foundations?u=76281980&t=180)** Offer an assurance evidence pack with a model card, evaluation results, red team summary, [[Privacy]] and security controls, and a monitoring plan.
 >
 > **[3:10](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/strategy-and-foundations?u=76281980&t=190)** Communicate with evidence, not slogans.
 >
-> **[3:13](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/strategy-and-foundations?u=76281980&t=193)** Large customers, especially in finance, health, and the public sector now ask for evidence, intended use, evaluations across subpopulations, robustness and security testing, privacy posture, incident processes.
+> **[3:13](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/strategy-and-foundations?u=76281980&t=193)** Large customers, especially in finance, health, and the public sector now ask for evidence, intended use, evaluations across subpopulations, robustness and [[Security Testing]], privacy posture, incident processes.
 >
 > **[3:29](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/strategy-and-foundations?u=76281980&t=209)** If you can show assurance, you shorten security and legal reviews and move to signature faster.
 >
@@ -191,7 +190,7 @@ created: 2026-05-02
 >
 > **[6:42](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/strategy-and-foundations?u=76281980&t=402)** Next, we'll look at the algorithmic auditor.
 >
-> **[6:45](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/strategy-and-foundations?u=76281980&t=405)** They usually sit in internal audit or an independent assurance function, sometimes partnered with compliance or ethics, and they must be empowered to report findings to senior leadership and the board.
+> **[6:45](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/strategy-and-foundations?u=76281980&t=405)** They usually sit in internal audit or an independent assurance function, sometimes partnered with compliance or [[Ethics]], and they must be empowered to report findings to senior leadership and the board.
 >
 > **[6:57](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/strategy-and-foundations?u=76281980&t=417)** Their mission is to verify that what the organization claims to do is actually being done.
 >
@@ -257,7 +256,7 @@ created: 2026-05-02
 >
 > **[10:15](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/strategy-and-foundations?u=76281980&t=615)** For independent challenge and audit readiness, coordinate with model risk management for independent validation, and with internal audit and algorithmic audit to ensure evidence trails are inspection ready.
 >
-> **[10:27](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/strategy-and-foundations?u=76281980&t=627)** Own the AI incident response process in partnership with security and privacy and product ops.
+> **[10:27](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/strategy-and-foundations?u=76281980&t=627)** Own the AI [[Incident Response]] process in partnership with security and privacy and product ops.
 >
 > **[10:33](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/strategy-and-foundations?u=76281980&t=633)** Triage severity, coordinate containment, ensure user redress and communications, and report to management or regulators when criteria are met.
 >
@@ -283,20 +282,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (35), [[Security]] (8), [[Privacy]] (7), business (6), product (6)
+> **Frameworks & Libraries:** [[AI Governance]] (9), [[Privacy]] (7), [[Accountability]] (4), [[Responsible AI]] (3), [[Decision-Making]] (1)
 > **Env Vars:** mrm (4), kpi (2), llm (1), rai (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** set up (1)
 
-#### Execution and scaling
-> [LinkedIn Learning](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/execution-and-scaling?u=76281980)
+#### [Execution and scaling](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/execution-and-scaling?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/execution-and-scaling?u=76281980&t=1)** Welcome to Operationalizing AI Governance, Execution and Scaling from All Tech is Human.
+> **[0:01](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/execution-and-scaling?u=76281980&t=1)** Welcome to Operationalizing [[AI Governance]], Execution and Scaling from All Tech is Human.
 >
-> **[0:08](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/execution-and-scaling?u=76281980&t=8)** I'm your instructor, Renee Cummings, a data science professor of practice at the University of Virginia's School of Data Science.
+> **[0:08](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/execution-and-scaling?u=76281980&t=8)** I'm your instructor, Renee Cummings, a [[Data Science]] professor of practice at the University of Virginia's School of Data Science.
 >
 > **[0:16](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/execution-and-scaling?u=76281980&t=16)** And I will be guiding you through this course, where we'll focus on two things, in-house best practices your AI governance team can deploy right now, and the common pain points that slow programs down and how to get unstuck.
 >
@@ -304,7 +302,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/execution-and-scaling?u=76281980&t=39)** To ground us, I'm going to quote from the All Tech is Human Tech UK and Trilligent AI Assurance Ecosystem Workshop Summary, because it captures the spirit of what we're building.
 >
-> **[0:53](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/execution-and-scaling?u=76281980&t=53)** AI governance involves AI assurance practices incorporating a dynamic range of interlinked practices, risk frameworks, and methodologies.
+> **[0:53](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/execution-and-scaling?u=76281980&t=53)** AI governance involves AI assurance practices incorporating a dynamic range of interlinked practices, [[Risk Frameworks]], and methodologies.
 >
 > **[1:05](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/execution-and-scaling?u=76281980&t=65)** Yet these various tools and standards are being used to help industry achieve ethical principles.
 >
@@ -320,7 +318,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/execution-and-scaling?u=76281980&t=110)** Second, assessment against frameworks.
 >
-> **[1:54](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/execution-and-scaling?u=76281980&t=114)** AI assurance conclude assessments based on frameworks like the NIST AI RMF, identify gaps and prioritize action across AI lifecycle stage, run a quarterly RMF self-assessment across the govern, map, measure, manage framework.
+> **[1:54](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/execution-and-scaling?u=76281980&t=114)** AI assurance conclude assessments based on frameworks like the [[NIST]] AI RMF, identify gaps and prioritize action across AI lifecycle stage, run a quarterly RMF self-assessment across the govern, map, measure, manage framework.
 >
 > **[2:17](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/execution-and-scaling?u=76281980&t=137)** Third, TEVV, testing, evaluation, verification, and validation.
 >
@@ -328,7 +326,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/execution-and-scaling?u=76281980&t=157)** Make evaluations continuous.
 >
-> **[2:40](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/execution-and-scaling?u=76281980&t=160)** Pair TEVV with red teaming, both manual and automated probes, and both internal and external, and verify mitigations before launch.
+> **[2:40](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/execution-and-scaling?u=76281980&t=160)** Pair TEVV with [[Red Teaming]], both manual and automated probes, and both internal and external, and verify mitigations before launch.
 >
 > **[2:52](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/execution-and-scaling?u=76281980&t=172)** Fourth, audit and corporate governance.
 >
@@ -336,13 +334,13 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/execution-and-scaling?u=76281980&t=184)** Align with internal audit on scope and embed AI oversight into board committees with a quarterly governance report.
 >
-> **[3:13](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/execution-and-scaling?u=76281980&t=193)** Fifth, AI literacy and workforce enablement.
+> **[3:13](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/execution-and-scaling?u=76281980&t=193)** Fifth, [[AI Literacy]] and workforce enablement.
 >
 > **[3:17](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/execution-and-scaling?u=76281980&t=197)** Assurance also relies on human competence.
 >
 > **[3:21](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/execution-and-scaling?u=76281980&t=201)** Organizations need robust support tailored to various levels of AI literacy to train and upskill their teams.
 >
-> **[3:30](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/execution-and-scaling?u=76281980&t=210)** It's also helpful to form a champions network to decentralize expertise, provide office hours, and host a repository of pre-approved patterns and sanctioned tools to reduce shadow AI.
+> **[3:30](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/execution-and-scaling?u=76281980&t=210)** It's also helpful to form a champions network to decentralize expertise, provide [[Microsoft Office|office]] hours, and host a repository of pre-approved patterns and sanctioned tools to reduce shadow AI.
 >
 > **[3:47](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/execution-and-scaling?u=76281980&t=227)** String these pillars into your life cycle, Requirements and standards define the rules.
 >
@@ -376,11 +374,11 @@ created: 2026-05-02
 >
 > **[5:25](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/execution-and-scaling?u=76281980&t=325)** Tie each to pass, fail thresholds by risk tier of low, medium, high, or critical.
 >
-> **[5:34](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/execution-and-scaling?u=76281980&t=334)** For accountability, findings don't change decisions.
+> **[5:34](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/execution-and-scaling?u=76281980&t=334)** For [[Accountability]], findings don't change decisions.
 >
 > **[5:39](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/execution-and-scaling?u=76281980&t=339)** Even when evaluations are conducted, There is often no clear mechanism to act on the results.
 >
-> **[5:47](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/execution-and-scaling?u=76281980&t=347)** A more effective assurance model must close the loop, linking assessments to real-world decision-making with thresholds that must be met before deployment.
+> **[5:47](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/execution-and-scaling?u=76281980&t=347)** A more effective assurance model must close the loop, linking assessments to real-world [[Decision-Making]] with thresholds that must be met before deployment.
 >
 > **[6:00](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/execution-and-scaling?u=76281980&t=360)** Pre-declare decision rights with RACI to determine who is responsible, accountable, consulted and informed, Who can approve go, no, go?
 >
@@ -402,7 +400,7 @@ created: 2026-05-02
 >
 > **[6:54](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/execution-and-scaling?u=76281980&t=414)** A change management approach could be beneficial with milestones, role definitions, and measurable indicators of success, including safety by design.
 >
-> **[7:07](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/execution-and-scaling?u=76281980&t=427)** provide role clarity for the AI governance team, each with owned artifacts, upskill fast with role-based training, office hours, and a responsible AI champions network, publish a pre-approved pattern library and an approved tools catalog to reduce shadow AI.
+> **[7:07](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/execution-and-scaling?u=76281980&t=427)** provide role clarity for the AI governance team, each with owned artifacts, upskill fast with role-based training, office hours, and a [[Responsible AI]] champions network, publish a pre-approved pattern library and an approved tools catalog to reduce shadow AI.
 >
 > **[7:31](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/execution-and-scaling?u=76281980&t=451)** For collective solutions, the field urgently needs cross-sector, interdisciplinary collaboration spaces where civil society, regulators, technologists, industry leaders, and affected communities engage in peer-to-peer learning, join or host forums with civil society and standards bodies, share red team scenarios and evaluation methods where feasible.
 >
@@ -438,7 +436,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (28), teams (3), data (2), [[NIST]] (2), rmf (2)
+> **Frameworks & Libraries:** [[AI Governance]] (10), [[AI Literacy]] (3), [[NIST]] (2), [[Microsoft Office|Office]] (2), [[Decision-Making]] (2)
 > **Env Vars:** tevv (3), nist (2), rmf (2), raci (1), iso (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)

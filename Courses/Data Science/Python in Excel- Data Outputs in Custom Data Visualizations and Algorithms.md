@@ -95,14 +95,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing the power of Python in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/introducing-the-power-of-python-in-excel?u=76281980)
+#### [Introducing the power of Python in Excel](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/introducing-the-power-of-python-in-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/introducing-the-power-of-python-in-excel?u=76281980&t=0)** - Excel is a super powerful tool, but it can't do everything.
+> **[0:00](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/introducing-the-power-of-python-in-excel?u=76281980&t=0)** - [[Microsoft Excel|Excel]] is a super powerful tool, but it can't do everything.
 >
-> **[0:05](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/introducing-the-power-of-python-in-excel?u=76281980&t=5)** You've probably seen some of the cool things Python can do, like creating visuals, running prediction models, and fixing data, but maybe it's a little intimidating or you don't want to open up the command line.
+> **[0:05](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/introducing-the-power-of-python-in-excel?u=76281980&t=5)** You've probably seen some of the cool things [[Python (Programming Language)|Python]] can do, like creating visuals, running prediction models, and fixing data, but maybe it's a little intimidating or you don't want to open up the command line.
 >
 > **[0:17](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/introducing-the-power-of-python-in-excel?u=76281980&t=17)** The good news is that you don't have to be a full Python developer to use Python.
 >
@@ -114,41 +113,39 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Microsoft Excel|Excel]] (3), data (2), business (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Microsoft Excel|Excel]] (3)
 > **CLI Commands:** python (5)
 > **Tools:** command line (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - excel (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/what-you-should-know?u=76281980&t=0)** - [Instructor] In order to get the most out of this course, you should be proficient at Excel, including Power Query.
+> **[0:00](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/what-you-should-know?u=76281980&t=0)** - [Instructor] In order to get the most out of this course, you should be proficient at [[Microsoft Excel|Excel]], including [[Microsoft Power Query|Power Query]].
 >
-> **[0:05](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/what-you-should-know?u=76281980&t=5)** You should also be proficient with the Python programming language, especially its data science libraries.
+> **[0:05](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/what-you-should-know?u=76281980&t=5)** You should also be proficient with the [[Python (Programming Language)|Python]] programming language, especially its [[Data Science]] libraries.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Microsoft Power Query|Power query]] (1), [[Python (Programming Language)|Python]] (1), [[Programming]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Microsoft Power Query|Power query]] (1), [[Python (Programming Language)|Python]] (1), [[Data Science]] (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enabling Python in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/enabling-python-in-excel?u=76281980)
+#### [Enabling Python in Excel](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/enabling-python-in-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/enabling-python-in-excel?u=76281980&t=0)** - [Instructor] As of filming for this course, in May, 2024, the Python and Excel feature is currently in development mode, and it's not generally available.
+> **[0:00](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/enabling-python-in-excel?u=76281980&t=0)** - [Instructor] As of filming for this course, in May, 2024, the [[Python (Programming Language)|Python]] and [[Microsoft Excel|Excel]] feature is currently in development mode, and it's not generally available.
 >
 > **[0:09](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/enabling-python-in-excel?u=76281980&t=9)** This means it's not automatically available in Excel even if you have the most recent version of the application.
 >
 > **[0:17](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/enabling-python-in-excel?u=76281980&t=17)** Instead, you need to do a few things to enable it.
 >
-> **[0:20](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/enabling-python-in-excel?u=76281980&t=20)** First, you need to sign up for the Microsoft Beta Channel from the 365 account that you're using Excel with.
+> **[0:20](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/enabling-python-in-excel?u=76281980&t=20)** First, you need to sign up for the [[Microsoft]] Beta Channel from the 365 account that you're using Excel with.
 >
-> **[0:27](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/enabling-python-in-excel?u=76281980&t=27)** Second, you need to use a Windows computer and the desktop version of Excel.
+> **[0:27](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/enabling-python-in-excel?u=76281980&t=27)** Second, you need to use a [[Windows]] computer and the desktop version of Excel.
 >
 > **[0:31](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/enabling-python-in-excel?u=76281980&t=31)** It currently doesn't work on either Mac or Excel online.
 >
@@ -166,7 +163,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (12), [[Python (Programming Language)|Python]] (4), application (2), [[Windows]] (2), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (12), [[Python (Programming Language)|Python]] (4), [[Windows]] (2), [[Microsoft]] (1)
 > **CLI Commands:** python (4)
 > **Speakers:** - [instructor] (1)
 
@@ -175,12 +172,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Breaking down Excel and Python processes
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/breaking-down-excel-and-python-processes?u=76281980)
+#### [Breaking down Excel and Python processes](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/breaking-down-excel-and-python-processes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/breaking-down-excel-and-python-processes?u=76281980&t=0)** - The idea behind Python in Excel is that Python extends the capabilities of Excel rather than replacing it.
+> **[0:00](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/breaking-down-excel-and-python-processes?u=76281980&t=0)** - The idea behind [[Python (Programming Language)|Python]] in [[Microsoft Excel|Excel]] is that Python extends the capabilities of Excel rather than replacing it.
 >
 > **[0:07](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/breaking-down-excel-and-python-processes?u=76281980&t=7)** Just because we can use Python, that doesn't necessarily mean we should.
 >
@@ -190,7 +186,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/breaking-down-excel-and-python-processes?u=76281980&t=29)** Excel can perform a lot of these steps, Python can also perform a lot of these steps.
 >
-> **[0:35](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/breaking-down-excel-and-python-processes?u=76281980&t=35)** However, there are some parts of the process that Python is much better suited for, because as a data science programming language, it's built for working with data.
+> **[0:35](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/breaking-down-excel-and-python-processes?u=76281980&t=35)** However, there are some parts of the process that Python is much better suited for, because as a [[Data Science]] programming language, it's built for working with data.
 >
 > **[0:45](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/breaking-down-excel-and-python-processes?u=76281980&t=45)** It's much more efficient and scalable for running these models like anomaly detection and clustering.
 >
@@ -206,30 +202,29 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/breaking-down-excel-and-python-processes?u=76281980&t=85)** A question that I get all the time is, "Is the cloud secure?"
 >
-> **[1:29](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/breaking-down-excel-and-python-processes?u=76281980&t=89)** The cloud for running Python in Excel is hosted and built by Microsoft, so the answer is yes as it's supported by Azure.
+> **[1:29](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/breaking-down-excel-and-python-processes?u=76281980&t=89)** The cloud for running Python in Excel is hosted and built by [[Microsoft]], so the answer is yes as it's supported by [[Microsoft Azure|Azure]].
 >
 > **[1:37](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/breaking-down-excel-and-python-processes?u=76281980&t=97)** Now we know a little bit more about both Python and Excel.
 >
-> **[1:42](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/breaking-down-excel-and-python-processes?u=76281980&t=102)** Let's start talking about how to extract, transform, and load data in Power Query.
+> **[1:42](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/breaking-down-excel-and-python-processes?u=76281980&t=102)** Let's start talking about how to extract, transform, and load data in [[Microsoft Power Query|Power Query]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (14), [[Microsoft Excel|Excel]] (9), data (5), business (2), cloud (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (14), [[Microsoft Excel|Excel]] (9), [[Data Science]] (1), [[Microsoft]] (1), [[Microsoft Azure|Azure]] (1)
 > **CLI Commands:** python (14)
 > **Speakers:** - the (1)
 
-#### Leveraging Power Query
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/leveraging-power-query?u=76281980)
+#### [Leveraging Power Query](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/leveraging-power-query?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/leveraging-power-query?u=76281980&t=0)** - [Instructor] To get our data into Excel, we can either start with our data already in the model or connect to external data sources.
+> **[0:00](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/leveraging-power-query?u=76281980&t=0)** - [Instructor] To get our data into [[Microsoft Excel|Excel]], we can either start with our data already in the model or connect to external data sources.
 >
-> **[0:09](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/leveraging-power-query?u=76281980&t=9)** It's important to emphasize that we cannot connect directly to a database or API within Python code in Excel.
+> **[0:09](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/leveraging-power-query?u=76281980&t=9)** It's important to emphasize that we cannot connect directly to a database or API within [[Python (Programming Language)|Python]] code in Excel.
 >
-> **[0:16](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/leveraging-power-query?u=76281980&t=16)** Instead, we want to leverage the power of Power Query to bring our data into the Excel model.
+> **[0:16](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/leveraging-power-query?u=76281980&t=16)** Instead, we want to leverage the power of [[Microsoft Power Query|Power Query]] to bring our data into the Excel model.
 >
-> **[0:21](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/leveraging-power-query?u=76281980&t=21)** Power Query is a built-in part of Power BI in Excel that enables us to easily set up ETL frameworks to read the data into our Excel models.
+> **[0:21](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/leveraging-power-query?u=76281980&t=21)** Power Query is a built-in part of [[Microsoft Power BI|Power BI]] in Excel that enables us to easily set up ETL frameworks to read the data into our Excel models.
 >
 > **[0:30](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/leveraging-power-query?u=76281980&t=30)** It enables us to efficiently replicate and update our queries to create data tables.
 >
@@ -331,7 +326,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (38), [[Microsoft Excel|Excel]] (10), [[Microsoft Power Query|Power query]] (8), etl (3), web (3)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (10), [[Microsoft Power Query|Power query]] (8), [[Python (Programming Language)|Python]] (2), [[Microsoft Power BI|Power bi]] (1)
 > **Env Vars:** etl (3), noaa (3), csv (3), url (2), api (1)
 > **CLI Commands:** make (4), python (2)
 > **UI Navigation:** click on (4), dropdown (1), select the (1)
@@ -340,12 +335,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the PY Excel function
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/using-py-excel-function?u=76281980)
+#### [Using the PY Excel function](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/using-py-excel-function?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/using-py-excel-function?u=76281980&t=0)** - [Instructor] To write Python code directly in Excel cell will leverage the PY or PY function, which creates output from running Python code.
+> **[0:00](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/using-py-excel-function?u=76281980&t=0)** - [Instructor] To write [[Python (Programming Language)|Python]] code directly in [[Microsoft Excel|Excel]] cell will leverage the PY or PY function, which creates output from running Python code.
 >
 > **[0:09](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/using-py-excel-function?u=76281980&t=9)** This function is two parameters, the Python code we want to run in the selected cell and the return type of the Python output.
 >
@@ -411,7 +405,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (21), [[Microsoft Excel|Excel]] (9), next (2), hit (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (21), [[Microsoft Excel|Excel]] (9)
 > **CLI Commands:** python (21)
 > **UI Navigation:** toggle (2), open the (1), dropdown (1)
 > **Env Vars:** formulatext (3)
@@ -419,12 +413,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the XL Excel function and Python variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/using-xl-excel-function-and-python-variables?u=76281980)
+#### [Using the XL Excel function and Python variables](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/using-xl-excel-function-and-python-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/using-xl-excel-function-and-python-variables?u=76281980&t=0)** - [Instructor] If we want to use Excel objects like worksheet cells within our Python in Excel code blocks, we can use the Excel function within the Python function PY to reference these input parameters.
+> **[0:00](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/using-xl-excel-function-and-python-variables?u=76281980&t=0)** - [Instructor] If we want to use [[Microsoft Excel|Excel]] objects like worksheet cells within our [[Python (Programming Language)|Python]] in Excel code blocks, we can use the Excel function within the Python function PY to reference these input parameters.
 >
 > **[0:13](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/using-xl-excel-function-and-python-variables?u=76281980&t=13)** Within our Python code in Excel, we can set variables in the same way we would for Python code run in another IDE.
 >
@@ -492,7 +485,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (20), [[Microsoft Excel|Excel]] (12), hit (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (20), [[Microsoft Excel|Excel]] (12)
 > **CLI Commands:** python (20), make (2)
 > **UI Navigation:** dropdown (1), navigate to (1)
 > **Env Vars:** ide (1)
@@ -501,12 +494,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Determining calculation order
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/determining-calculation-order?u=76281980)
+#### [Determining calculation order](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/determining-calculation-order?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/determining-calculation-order?u=76281980&t=0)** - [Instructor] When we write Python code in our Excel cells, we want to be careful about where we place our code and, subsequently, the cells that reference other pieces of Python code.
+> **[0:00](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/determining-calculation-order?u=76281980&t=0)** - [Instructor] When we write [[Python (Programming Language)|Python]] code in our [[Microsoft Excel|Excel]] cells, we want to be careful about where we place our code and, subsequently, the cells that reference other pieces of Python code.
 >
 > **[0:10](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/determining-calculation-order?u=76281980&t=10)** These Python code cells need to execute in an order where they go across and down from the previous references in a Z shape.
 >
@@ -544,7 +536,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/determining-calculation-order?u=76281980&t=139)** We get a circular message here because we're trying to reference another Python cell from this position, which violates the calculation order rules for Python cells.
 >
-> **[2:29](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/determining-calculation-order?u=76281980&t=149)** We're going to click okay to commit this formula, and we're going to come back to it after we fill out the rest of the table.
+> **[2:29](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/determining-calculation-order?u=76281980&t=149)** We're going to click okay to commit this formula, and we're going to come back to it after we fill out the [[Representational State Transfer (REST)|rest]] of the table.
 >
 > **[2:38](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/determining-calculation-order?u=76281980&t=158)** This blue line here indicates a circular reference.
 >
@@ -574,25 +566,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (18), [[Microsoft Excel|Excel]] (12), data (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (18), [[Microsoft Excel|Excel]] (12), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** python (18)
 > **Definitions:** is an  (2), is a  (2)
 > **Prerequisites:** set up (2)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Importing Python libraries into Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/importing-python-libraries-into-excel?u=76281980)
+#### [Importing Python libraries into Excel](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/importing-python-libraries-into-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/importing-python-libraries-into-excel?u=76281980&t=0)** - [Instructor] Python has existing functions that we can tap into for writing and running Python code.
+> **[0:00](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/importing-python-libraries-into-excel?u=76281980&t=0)** - [Instructor] [[Python (Programming Language)|Python]] has existing functions that we can tap into for writing and running Python code.
 >
 > **[0:05](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/importing-python-libraries-into-excel?u=76281980&t=5)** However, in order to maximize what the language should do, we want to tap into Python packages and libraries and their functions.
 >
 > **[0:13](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/importing-python-libraries-into-excel?u=76281980&t=13)** There's some debate about what's a library and what's a package, but I'm just going to call them all libraries for simplicity.
 >
-> **[0:20](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/importing-python-libraries-into-excel?u=76281980&t=20)** This includes functionalities for data science and data visualization like pandas, numpy scipy, sklearn, and matplotlib.
+> **[0:20](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/importing-python-libraries-into-excel?u=76281980&t=20)** This includes functionalities for [[Data Science]] and data visualization like [[Pandas (Software)|pandas]], numpy scipy, sklearn, and matplotlib.
 >
 > **[0:29](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/importing-python-libraries-into-excel?u=76281980&t=29)** We find them in commonly used Python IDs and notebook environments, so they're already vetted quite well for general use.
 >
@@ -600,7 +591,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/importing-python-libraries-into-excel?u=76281980&t=43)** I've already divided them based on how we're going to use them in the course.
 >
-> **[0:47](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/importing-python-libraries-into-excel?u=76281980&t=47)** We'll copy all these imported libraries from the text file and the Excel file, we'll navigate to the libraries tab and let's import our libraries in C4 in this page.
+> **[0:47](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/importing-python-libraries-into-excel?u=76281980&t=47)** We'll copy all these imported libraries from the text file and the [[Microsoft Excel|Excel]] file, we'll navigate to the libraries tab and let's import our libraries in C4 in this page.
 >
 > **[0:59](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/importing-python-libraries-into-excel?u=76281980&t=59)** We can import our Python libraries on each worksheet or altogether in a consolidated code cell on one worksheet.
 >
@@ -636,21 +627,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), [[Pandas (Software)|Pandas]] (3), [[Microsoft Excel|Excel]] (3), data (2), hit (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), [[Pandas (Software)|Pandas]] (3), [[Microsoft Excel|Excel]] (3), [[Data Science]] (1)
 > **CLI Commands:** python (12), find (1), make (1)
 > **Prerequisites:** initialization (2), setup (1)
 > **UI Navigation:** navigate to (2)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/managing-errors?u=76281980)
+#### [Managing errors](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/managing-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/managing-errors?u=76281980&t=0)** - [Instructor] In Excel, we run into error messages frequently if there's an issue with our formulas.
+> **[0:00](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/managing-errors?u=76281980&t=0)** - [Instructor] In [[Microsoft Excel|Excel]], we run into error messages frequently if there's an issue with our formulas.
 >
-> **[0:05](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/managing-errors?u=76281980&t=5)** Similarly, we can encounter additional errors specifically when we write Python code in Excel.
+> **[0:05](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/managing-errors?u=76281980&t=5)** Similarly, we can encounter additional errors specifically when we write [[Python (Programming Language)|Python]] code in Excel.
 >
 > **[0:11](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/managing-errors?u=76281980&t=11)** There's a diagnostics pane to show errors.
 >
@@ -666,7 +656,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/managing-errors?u=76281980&t=46)** To cancel this Python execution, let's just delete it.
 >
-> **[0:51](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/managing-errors?u=76281980&t=51)** If we're not able to connect to the Microsoft server that runs Python, we'll see a #CONNECT! error, like we see and cell B four.
+> **[0:51](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/managing-errors?u=76281980&t=51)** If we're not able to connect to the [[Microsoft]] server that runs Python, we'll see a #CONNECT! error, like we see and cell B four.
 >
 > **[1:00](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/managing-errors?u=76281980&t=60)** If a Python integration isn't set up to run in our version of Excel, we'll conversely see a value or unknown error message.
 >
@@ -694,7 +684,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/managing-errors?u=76281980&t=167)** This appears when there's data in the cells we want to expand our output into.
 >
-> **[2:52](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/managing-errors?u=76281980&t=172)** Let's create Python code that represents the values for the X labels in our logistic regression table.
+> **[2:52](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/managing-errors?u=76281980&t=172)** Let's create Python code that represents the values for the X labels in our [[Logistic Regression]] table.
 >
 > **[2:58](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/managing-errors?u=76281980&t=178)** We'll highlight all these values directly.
 >
@@ -722,7 +712,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (17), [[Microsoft Excel|Excel]] (10), data (2), feature (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (17), [[Microsoft Excel|Excel]] (10), [[Microsoft]] (1), [[Logistic Regression]] (1)
 > **CLI Commands:** python (17)
 > **Env Vars:** calc (2), spill (2), connect (1)
 > **UI Navigation:** select the (1), checkbox (1), go to (1), dropdown (1)
@@ -731,8 +721,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
 
-#### Working with Python objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/working-with-python-objects?u=76281980)
+#### [Working with Python objects](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/working-with-python-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -742,15 +731,15 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/working-with-python-objects?u=76281980&t=9)** We can create objects manually or from other objects.
 >
-> **[0:14](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/working-with-python-objects?u=76281980&t=14)** Examples of Excel objects include cells, ranges, array, and tables.
+> **[0:14](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/working-with-python-objects?u=76281980&t=14)** Examples of [[Microsoft Excel|Excel]] objects include cells, ranges, array, and tables.
 >
-> **[0:20](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/working-with-python-objects?u=76281980&t=20)** In Python, everything is technically an object, including strings and integers, as well as lists, tuples, arrays, data frames, series and functions to name a few.
+> **[0:20](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/working-with-python-objects?u=76281980&t=20)** In [[Python (Programming Language)|Python]], everything is technically an object, including strings and integers, as well as lists, tuples, arrays, data frames, series and functions to name a few.
 >
 > **[0:31](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/working-with-python-objects?u=76281980&t=31)** Let's say we create a new Python object.
 >
 > **[0:34](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/working-with-python-objects?u=76281980&t=34)** Once we create this object, we can then call methods or functions on it.
 >
-> **[0:40](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/working-with-python-objects?u=76281980&t=40)** We're going to be using GitHub Codespaces in this course.
+> **[0:40](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/working-with-python-objects?u=76281980&t=40)** We're going to be using [[GitHub]] [[Codespaces]] in this course.
 >
 > **[0:43](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/working-with-python-objects?u=76281980&t=43)** When you see Codespaces on the screen, it will correspond to a branch within Codespaces itself.
 >
@@ -758,9 +747,9 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/working-with-python-objects?u=76281980&t=55)** We're here in the Creating Objects file within our Codespace.
 >
-> **[0:59](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/working-with-python-objects?u=76281980&t=59)** We can see how to create an ETL framework that uses Python Code with functions from the Pandas Library to get this data.
+> **[0:59](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/working-with-python-objects?u=76281980&t=59)** We can see how to create an ETL framework that uses Python Code with functions from the [[Pandas (Software)|Pandas]] Library to get this data.
 >
-> **[1:06](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/working-with-python-objects?u=76281980&t=66)** However, when we're using Python Excel, extracting and transforming the data is a task that we use Power Query for instead.
+> **[1:06](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/working-with-python-objects?u=76281980&t=66)** However, when we're using Python Excel, extracting and transforming the data is a task that we use [[Microsoft Power Query|Power Query]] for instead.
 >
 > **[1:15](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/working-with-python-objects?u=76281980&t=75)** This Python code returns daily temperature data for Santa Barbara as well.
 >
@@ -848,7 +837,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (35), [[Python (Programming Language)|Python]] (18), [[Microsoft Excel|Excel]] (14), [[Codespaces]] (4), [[Microsoft Power Query|Power query]] (4)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (18), [[Microsoft Excel|Excel]] (14), [[Codespaces]] (4), [[Microsoft Power Query|Power query]] (4), [[Pandas (Software)|Pandas]] (2)
 > **CLI Commands:** python (18), make (1), find (1)
 > **Env Vars:** etl (2)
 > **Tools:** github (1)
@@ -857,8 +846,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Transforming DataFrame objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/transforming-dataframe-objects?u=76281980)
+#### [Transforming DataFrame objects](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/transforming-dataframe-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -868,7 +856,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/transforming-dataframe-objects?u=76281980&t=12)** This includes extracting a column from the DataFrame as a series object.
 >
-> **[0:16](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/transforming-dataframe-objects?u=76281980&t=16)** Each column represents a series object that we can use within Python code.
+> **[0:16](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/transforming-dataframe-objects?u=76281980&t=16)** Each column represents a series object that we can use within [[Python (Programming Language)|Python]] code.
 >
 > **[0:22](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/transforming-dataframe-objects?u=76281980&t=22)** The index of a DataFrame refers to an index column starting at zero to N minus 1 number of rows in the DataFrame unless we otherwise specify.
 >
@@ -880,7 +868,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/transforming-dataframe-objects?u=76281980&t=55)** We'll then put the name of the column to reference Average Temperature inside square brackets to reference this column.
 >
-> **[1:02](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/transforming-dataframe-objects?u=76281980&t=62)** We'll add this to the end of our Excel reference.
+> **[1:02](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/transforming-dataframe-objects?u=76281980&t=62)** We'll add this to the end of our [[Microsoft Excel|Excel]] reference.
 >
 > **[1:12](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/transforming-dataframe-objects?u=76281980&t=72)** This returns a series object representing the average temperature values for that particular column.
 >
@@ -894,7 +882,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/transforming-dataframe-objects?u=76281980&t=101)** In the previous video, we connected to Daily Weather for Santa Barbara from an online FTP folder.
 >
-> **[1:47](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/transforming-dataframe-objects?u=76281980&t=107)** This mirrors the daily weather data for Santa Barbara that we've downloaded into Excel through Power Query.
+> **[1:47](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/transforming-dataframe-objects?u=76281980&t=107)** This mirrors the daily weather data for Santa Barbara that we've downloaded into Excel through [[Microsoft Power Query|Power Query]].
 >
 > **[1:55](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/transforming-dataframe-objects?u=76281980&t=115)** We can see the steps for extracting and transforming this data.
 >
@@ -926,7 +914,7 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/transforming-dataframe-objects?u=76281980&t=226)** This returns a Python error like we learned about earlier in this chapter.
 >
-> **[3:51](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/transforming-dataframe-objects?u=76281980&t=231)** The reason this occurs is because of the version of pandas that we're using in the Excel application.
+> **[3:51](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/transforming-dataframe-objects?u=76281980&t=231)** The reason this occurs is because of the version of [[Pandas (Software)|pandas]] that we're using in the Excel application.
 >
 > **[3:58](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/transforming-dataframe-objects?u=76281980&t=238)** To fix this, we can change the frequency of ME, which represents month end, to just M and run the code block again.
 >
@@ -976,11 +964,11 @@ created: 2026-05-02
 >
 > **[7:20](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/transforming-dataframe-objects?u=76281980&t=440)** This video, as well as the previous one, are incredibly important to reference as we work with Python and Excel.
 >
-> **[7:28](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/transforming-dataframe-objects?u=76281980&t=448)** The concept of the DataFrame object is a cornerstone to working effectively with Python and Excel because it creates an object that we can further transform and use in our modeling and visuals as we build out the rest of our model.
+> **[7:28](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/transforming-dataframe-objects?u=76281980&t=448)** The concept of the DataFrame object is a cornerstone to working effectively with Python and Excel because it creates an object that we can further transform and use in our modeling and visuals as we build out the [[Representational State Transfer (REST)|rest]] of our model.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (14), data (11), [[Python (Programming Language)|Python]] (10), [[Microsoft Power Query|Power query]] (3), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (14), [[Python (Programming Language)|Python]] (10), [[Microsoft Power Query|Power query]] (3), [[Pandas (Software)|Pandas]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** python (10)
 > **Cross-References:** previous video (1), earlier in (1), later in (1)
 > **Definitions:** refers to (1), in other words (1), is a  (1)
@@ -989,8 +977,7 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **UI Navigation:** select the (1)
 
-#### Challenge: Creating table objects in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/challenge-creating-table-objects-in-excel?u=76281980)
+#### [Challenge: Creating table objects in Excel](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/challenge-creating-table-objects-in-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1002,7 +989,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/challenge-creating-table-objects-in-excel?u=76281980&t=25)** They have an API that we can explore and use without even having to sign up for an API token or key.
 >
-> **[0:32](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/challenge-creating-table-objects-in-excel?u=76281980&t=32)** I already set up an Excel file to include a template for getting this hourly weather data.
+> **[0:32](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/challenge-creating-table-objects-in-excel?u=76281980&t=32)** I already set up an [[Microsoft Excel|Excel]] file to include a template for getting this hourly weather data.
 >
 > **[0:36](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/challenge-creating-table-objects-in-excel?u=76281980&t=36)** You can use the query for the data table in your own challenge problem.
 >
@@ -1010,13 +997,13 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/challenge-creating-table-objects-in-excel?u=76281980&t=50)** Alternatively in the text file, this is the API query that I use to get the data.
 >
-> **[0:56](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/challenge-creating-table-objects-in-excel?u=76281980&t=56)** You can use this query directly in Power Query to get the data if you want an additional challenge of importing the data into the model yourself.
+> **[0:56](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/challenge-creating-table-objects-in-excel?u=76281980&t=56)** You can use this query directly in [[Microsoft Power Query|Power Query]] to get the data if you want an additional challenge of importing the data into the model yourself.
 >
 > **[1:05](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/challenge-creating-table-objects-in-excel?u=76281980&t=65)** This is the API query from the NWS API page that we just saw.
 >
 > **[1:11](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/challenge-creating-table-objects-in-excel?u=76281980&t=71)** Your task once you connect to this data and load it into Excel is to create a data frame object to store the results from the table.
 >
-> **[1:18](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/challenge-creating-table-objects-in-excel?u=76281980&t=78)** You'll then want to use the PANDAS methods that we can apply to data frame objects to get the dimensions of the new data frame object storing this data.
+> **[1:18](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/challenge-creating-table-objects-in-excel?u=76281980&t=78)** You'll then want to use the [[Pandas (Software)|PANDAS]] methods that we can apply to data frame objects to get the dimensions of the new data frame object storing this data.
 >
 > **[1:27](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/challenge-creating-table-objects-in-excel?u=76281980&t=87)** You can store your outputs in the analysis tab of the Excel file, or you can create a file of your own that looks similar to this one.
 >
@@ -1030,7 +1017,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), api (5), [[Microsoft Excel|Excel]] (3), [[Microsoft Power Query|Power query]] (1), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Microsoft Power Query|Power query]] (1), [[Pandas (Software)|Pandas]] (1)
 > **Env Vars:** api (5), nws (1), pandas (1), utc (1)
 > **Prerequisites:** set up (1), you'll need (1)
 > **Versions:** 1.8 (1)
@@ -1039,8 +1026,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Warnings:** note that (1)
 
-#### Solution: Creating table objects in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/solution-creating-table-objects-in-excel?u=76281980)
+#### [Solution: Creating table objects in Excel](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/solution-creating-table-objects-in-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1050,7 +1036,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/solution-creating-table-objects-in-excel?u=76281980&t=15)** In the source step, I input the API URL string by setting up a web data connector and referring to the API connection we found in the text file.
 >
-> **[0:26](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/solution-creating-table-objects-in-excel?u=76281980&t=26)** Because we're connecting to data stored in a JSON structure, it returns a power query list of record objects.
+> **[0:26](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/solution-creating-table-objects-in-excel?u=76281980&t=26)** Because we're connecting to data stored in a [[JSON]] structure, it returns a [[Microsoft Power Query|power query]] list of record objects.
 >
 > **[0:34](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/solution-creating-table-objects-in-excel?u=76281980&t=34)** You don't have to worry about what power query objects mean, but we do want to transform this into a table object and then expand all the rows in the table into their own rows.
 >
@@ -1066,13 +1052,13 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/solution-creating-table-objects-in-excel?u=76281980&t=88)** The query then changes these two new fields into date time and numeric values respectively, and deletes the original columns to avoid confusion.
 >
-> **[1:37](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/solution-creating-table-objects-in-excel?u=76281980&t=97)** After transforming this hourly weather data, we'll then load it from Power Query into Excel.
+> **[1:37](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/solution-creating-table-objects-in-excel?u=76281980&t=97)** After transforming this hourly weather data, we'll then load it from Power Query into [[Microsoft Excel|Excel]].
 >
 > **[1:44](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/solution-creating-table-objects-in-excel?u=76281980&t=104)** In the analysis tablets, use the PY function to reference all the data on the tab containing Santa Barbara weather.
 >
-> **[1:56](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/solution-creating-table-objects-in-excel?u=76281980&t=116)** Notice that we can create a data frame object from the Pandas Library directly in Excel even though we haven't imported the Pandas library.
+> **[1:56](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/solution-creating-table-objects-in-excel?u=76281980&t=116)** Notice that we can create a data frame object from the [[Pandas (Software)|Pandas]] Library directly in Excel even though we haven't imported the Pandas library.
 >
-> **[2:05](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/solution-creating-table-objects-in-excel?u=76281980&t=125)** This is because pandas is preloaded into the Python and Excel functionality.
+> **[2:05](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/solution-creating-table-objects-in-excel?u=76281980&t=125)** This is because pandas is preloaded into the [[Python (Programming Language)|Python]] and Excel functionality.
 >
 > **[2:10](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/solution-creating-table-objects-in-excel?u=76281980&t=130)** However, we'll later add libraries in future challenges.
 >
@@ -1092,7 +1078,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Microsoft Excel|Excel]] (5), [[Microsoft Power Query|Power query]] (4), [[Python (Programming Language)|Python]] (4), [[Pandas (Software)|Pandas]] (3)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Microsoft Power Query|Power query]] (4), [[Python (Programming Language)|Python]] (4), [[Pandas (Software)|Pandas]] (3), [[JSON]] (1)
 > **Env Vars:** api (2), url (1), json (1), ucc (1), utc (1)
 > **CLI Commands:** python (4)
 > **Speakers:** - [instructor] (1)
@@ -1103,8 +1089,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing AI and machine learning algorithms
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/introducing-ai-and-machine-learning-algorithms?u=76281980)
+#### [Introducing AI and machine learning algorithms](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/introducing-ai-and-machine-learning-algorithms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1120,7 +1105,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/introducing-ai-and-machine-learning-algorithms?u=76281980&t=26)** Much like a recipe, an algorithm's a series of steps to solve a problem.
 >
-> **[0:31](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/introducing-ai-and-machine-learning-algorithms?u=76281980&t=31)** You probably use algorithms all the time in your own work, regardless of whether that's in Excel, Python, or any other tool.
+> **[0:31](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/introducing-ai-and-machine-learning-algorithms?u=76281980&t=31)** You probably use [[Algorithms]] all the time in your own work, regardless of whether that's in [[Microsoft Excel|Excel]], [[Python (Programming Language)|Python]], or any other tool.
 >
 > **[0:38](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/introducing-ai-and-machine-learning-algorithms?u=76281980&t=38)** An algorithm could be as simple as converting a temperature value from degrees Fahrenheit to degrees Celsius and vice versa.
 >
@@ -1156,14 +1141,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (8), [[Microsoft Excel|Excel]] (7), [[Python (Programming Language)|Python]] (5), ai (2), data (2)
+> **Frameworks & Libraries:** [[Algorithms]] (8), [[Microsoft Excel|Excel]] (7), [[Python (Programming Language)|Python]] (5)
 > **CLI Commands:** python (5), make (2), find (1)
 > **Analogies:** for example (2)
 > **UI Navigation:** select the (1)
 > **Speakers:** - let (1)
 
-#### Determining trends for linear regression with Excel functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/determing-trends-for-linear-regression-with-excel-functions?u=76281980)
+#### [Determining trends for linear regression with Excel functions](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/determing-trends-for-linear-regression-with-excel-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1171,9 +1155,9 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/determing-trends-for-linear-regression-with-excel-functions?u=76281980&t=4)** For example, if we have data points on a scatterplot, we can use these regression models to fit a line that best predicts future data points.
 >
-> **[0:13](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/determing-trends-for-linear-regression-with-excel-functions?u=76281980&t=13)** Linear regression is when we run a straight line that fits these data points.
+> **[0:13](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/determing-trends-for-linear-regression-with-excel-functions?u=76281980&t=13)** [[Linear Regression]] is when we run a straight line that fits these data points.
 >
-> **[0:19](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/determing-trends-for-linear-regression-with-excel-functions?u=76281980&t=19)** The good news is that while we can calculate linear regression model coefficients in Python, we can also set them up directly in Excel.
+> **[0:19](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/determing-trends-for-linear-regression-with-excel-functions?u=76281980&t=19)** The good news is that while we can calculate linear regression model coefficients in [[Python (Programming Language)|Python]], we can also set them up directly in [[Microsoft Excel|Excel]].
 >
 > **[0:27](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/determing-trends-for-linear-regression-with-excel-functions?u=76281980&t=27)** Especially from an Excel perspective, it's more efficient to use built-in Excel functions and functionalities to do this.
 >
@@ -1187,7 +1171,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/determing-trends-for-linear-regression-with-excel-functions?u=76281980&t=67)** We'll reference the high temperatures as our Y values and the low temperatures as our X values.
 >
-> **[1:13](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/determing-trends-for-linear-regression-with-excel-functions?u=76281980&t=73)** We'll then navigate to our Daily Temperatures data that we imported via Power Query and reference these analogous fields.
+> **[1:13](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/determing-trends-for-linear-regression-with-excel-functions?u=76281980&t=73)** We'll then navigate to our Daily Temperatures data that we imported via [[Microsoft Power Query|Power Query]] and reference these analogous fields.
 >
 > **[1:28](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/determing-trends-for-linear-regression-with-excel-functions?u=76281980&t=88)** Once we calculate the intercept, let's use the analogous eponymous Excel function to calculate the slope for this one-dimensional model.
 >
@@ -1249,7 +1233,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Microsoft Excel|Excel]] (11), [[Linear Regression]] (8), [[Python (Programming Language)|Python]] (2), hit (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (11), [[Linear Regression]] (8), [[Python (Programming Language)|Python]] (2), [[Microsoft Power Query|Power query]] (1)
 > **UI Navigation:** select the (3), navigate to (1)
 > **CLI Commands:** python (2), find (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -1258,16 +1242,15 @@ created: 2026-05-02
 > **Versions:** 0.5 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Leveraging Excel Solver for logistic regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/leveraging-excel-solver-for-logistic-regression?u=76281980)
+#### [Leveraging Excel Solver for logistic regression](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/leveraging-excel-solver-for-logistic-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/leveraging-excel-solver-for-logistic-regression?u=76281980&t=0)** - [Instructor] As we saw in the previous lesson, regression models enable us to find trends in data.
 >
-> **[0:05](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/leveraging-excel-solver-for-logistic-regression?u=76281980&t=5)** Sometimes a linear regression model is a good fit for data points, and sometimes it isn't, like what we see in this scatterplot.
+> **[0:05](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/leveraging-excel-solver-for-logistic-regression?u=76281980&t=5)** Sometimes a [[Linear Regression]] model is a good fit for data points, and sometimes it isn't, like what we see in this scatterplot.
 >
-> **[0:13](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/leveraging-excel-solver-for-logistic-regression?u=76281980&t=13)** Logistic regression models display best fit lines as S shaped curves instead.
+> **[0:13](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/leveraging-excel-solver-for-logistic-regression?u=76281980&t=13)** [[Logistic Regression]] models display best fit lines as S shaped curves instead.
 >
 > **[0:18](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/leveraging-excel-solver-for-logistic-regression?u=76281980&t=18)** Classic binomial logistic regression models have two possible actual outcomes.
 >
@@ -1277,7 +1260,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/leveraging-excel-solver-for-logistic-regression?u=76281980&t=32)** The orange line we see on this logistic regression chart represents the predicted probabilities for each X value.
 >
-> **[0:40](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/leveraging-excel-solver-for-logistic-regression?u=76281980&t=40)** Unfortunately, in Excel, we can't directly predict the outcomes in the same way we would for linear regression by calculating the regression coefficients directly through formulas or the data analysis added.
+> **[0:40](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/leveraging-excel-solver-for-logistic-regression?u=76281980&t=40)** Unfortunately, in [[Microsoft Excel|Excel]], we can't directly predict the outcomes in the same way we would for linear regression by calculating the regression coefficients directly through formulas or the data analysis added.
 >
 > **[0:51](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/leveraging-excel-solver-for-logistic-regression?u=76281980&t=51)** In the logistic regression tab, we see the predicted probabilities in column G, which range from zero to one as an open interval.
 >
@@ -1307,11 +1290,11 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/leveraging-excel-solver-for-logistic-regression?u=76281980&t=153)** This is the top of the three dimensional curve if we have a one dimensional model like we have here.
 >
-> **[2:39](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/leveraging-excel-solver-for-logistic-regression?u=76281980&t=159)** This approach is a great way to understand the intricacies of the model under the hood, but we can streamline this modeling process by using Python code instead.
+> **[2:39](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/leveraging-excel-solver-for-logistic-regression?u=76281980&t=159)** This approach is a great way to understand the intricacies of the model under the hood, but we can streamline this modeling process by using [[Python (Programming Language)|Python]] code instead.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Logistic Regression]] (10), data (6), [[Microsoft Excel|Excel]] (3), [[Linear Regression]] (2), next (1)
+> **Frameworks & Libraries:** [[Logistic Regression]] (10), [[Microsoft Excel|Excel]] (3), [[Linear Regression]] (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (3), python (1)
 > **UI Navigation:** navigate to (1), open the (1)
 > **Definitions:** is a  (2)
@@ -1319,26 +1302,25 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Determining trends for logistic regression with Python code
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/determining-trends-for-logistic-regression-with-python-code?u=76281980)
+#### [Determining trends for logistic regression with Python code](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/determining-trends-for-logistic-regression-with-python-code?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/determining-trends-for-logistic-regression-with-python-code?u=76281980&t=0)** - [Instructor] We are going to use the logistic regression function from the linear model section of SK Learn and the standard scaler function from the pre-processing section of the same library in addition to Pandas and NumPy.
+> **[0:00](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/determining-trends-for-logistic-regression-with-python-code?u=76281980&t=0)** - [Instructor] We are going to use the [[Logistic Regression]] function from the linear model section of SK Learn and the standard scaler function from the pre-processing section of the same library in addition to [[Pandas (Software)|Pandas]] and NumPy.
 >
-> **[0:16](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/determining-trends-for-logistic-regression-with-python-code?u=76281980&t=16)** In Excel, we already imported all the libraries we're using in this course at once through the libraries sheet.
+> **[0:16](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/determining-trends-for-logistic-regression-with-python-code?u=76281980&t=16)** In [[Microsoft Excel|Excel]], we already imported all the libraries we're using in this course at once through the libraries sheet.
 >
 > **[0:22](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/determining-trends-for-logistic-regression-with-python-code?u=76281980&t=22)** Let's note in the blue cell the libraries we're using specifically for logistic regression.
 >
 > **[0:30](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/determining-trends-for-logistic-regression-with-python-code?u=76281980&t=30)** In Codespace, we create a data frame object stored in variable df that's exactly the same as the data table referenced in the logistic regression model in Excel.
 >
-> **[0:41](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/determining-trends-for-logistic-regression-with-python-code?u=76281980&t=41)** In Excel, let's create a Python code cell for the data frame object to reference the cells B2 through C12 directly on the same sheet.
+> **[0:41](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/determining-trends-for-logistic-regression-with-python-code?u=76281980&t=41)** In Excel, let's create a [[Python (Programming Language)|Python]] code cell for the data frame object to reference the cells B2 through C12 directly on the same sheet.
 >
 > **[0:51](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/determining-trends-for-logistic-regression-with-python-code?u=76281980&t=51)** Now let's create our logistic regression model in Python.
 >
 > **[0:57](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/determining-trends-for-logistic-regression-with-python-code?u=76281980&t=57)** We'll create a logit variable and instead it equal to the logistic regression function, where we'll set the fit intercept penalty and class weight parameters inside it.
 >
-> **[1:10](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/determining-trends-for-logistic-regression-with-python-code?u=76281980&t=70)** Now let's scale the X values in our logistic regression model to ultimately return predicted probability results that are very close to our solver results.
+> **[1:10](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/determining-trends-for-logistic-regression-with-python-code?u=76281980&t=70)** Now let's scale the X values in our logistic regression model to ultimately return predicted [[Probability]] results that are very close to our solver results.
 >
 > **[1:19](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/determining-trends-for-logistic-regression-with-python-code?u=76281980&t=79)** We'll use the standard scaler function we imported through the SK Learn library.
 >
@@ -1356,7 +1338,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/determining-trends-for-logistic-regression-with-python-code?u=76281980&t=144)** We'll set up Python code for running each of the sections within Excel.
 >
-> **[2:30](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/determining-trends-for-logistic-regression-with-python-code?u=76281980&t=150)** We'll need to modify these formulas to reference Excel cells instead of Python variables inherited from the Codespaces code.
+> **[2:30](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/determining-trends-for-logistic-regression-with-python-code?u=76281980&t=150)** We'll need to modify these formulas to reference Excel cells instead of Python variables inherited from the [[Codespaces]] code.
 >
 > **[2:38](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/determining-trends-for-logistic-regression-with-python-code?u=76281980&t=158)** The log variable only sets the logistic regression parameters and it doesn't reference any other variables, so it remains the same as we saw in Codespaces.
 >
@@ -1382,7 +1364,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Logistic Regression]] (8), [[Python (Programming Language)|Python]] (8), [[Microsoft Excel|Excel]] (7), [[Probability]] (6)
+> **Frameworks & Libraries:** [[Logistic Regression]] (8), [[Python (Programming Language)|Python]] (8), [[Microsoft Excel|Excel]] (7), [[Probability]] (6), [[Codespaces]] (2)
 > **CLI Commands:** python (8), make (1)
 > **Env Vars:** c19 (2), c21 (2), c12 (1), c20 (1), c22 (1)
 > **Cross-References:** as we saw (1)
@@ -1390,22 +1372,21 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Grouping data with hierarchical clustering
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/grouping-data-with-hierarchical-clustering?u=76281980)
+#### [Grouping data with hierarchical clustering](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/grouping-data-with-hierarchical-clustering?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/grouping-data-with-hierarchical-clustering?u=76281980&t=0)** - [Instructor] When we run algorithms, we're looking for outcomes like how data points group together.
+> **[0:00](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/grouping-data-with-hierarchical-clustering?u=76281980&t=0)** - [Instructor] When we run [[Algorithms]], we're looking for outcomes like how data points group together.
 >
 > **[0:05](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/grouping-data-with-hierarchical-clustering?u=76281980&t=5)** One way we can group data is by using clustering algorithms.
 >
 > **[0:10](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/grouping-data-with-hierarchical-clustering?u=76281980&t=10)** Hierarchical clustering algorithms pair up the closest data points or existing clusters with each iteration to create essentially a matrix of distance calculations.
 >
-> **[0:20](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/grouping-data-with-hierarchical-clustering?u=76281980&t=20)** K-Means clustering algorithms, group data to K clusters by minimizing the total distance between each data point and their assigned centroid.
+> **[0:20](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/grouping-data-with-hierarchical-clustering?u=76281980&t=20)** [[k-means clustering]] algorithms, group data to K clusters by minimizing the total distance between each data point and their assigned centroid.
 >
-> **[0:31](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/grouping-data-with-hierarchical-clustering?u=76281980&t=31)** Let's first explore hierarchical clustering and code spaces and then translate the Python code into Excel Python code cells.
+> **[0:31](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/grouping-data-with-hierarchical-clustering?u=76281980&t=31)** Let's first explore hierarchical clustering and code spaces and then translate the [[Python (Programming Language)|Python]] code into [[Microsoft Excel|Excel]] Python code cells.
 >
-> **[0:38](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/grouping-data-with-hierarchical-clustering?u=76281980&t=38)** In addition to the Pandas library, we're also using the linkage function from the cluster hierarchy part of the SciPy library.
+> **[0:38](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/grouping-data-with-hierarchical-clustering?u=76281980&t=38)** In addition to the [[Pandas (Software)|Pandas]] library, we're also using the linkage function from the cluster hierarchy part of the SciPy library.
 >
 > **[0:46](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/grouping-data-with-hierarchical-clustering?u=76281980&t=46)** We already have code to create a data frame that stores the average temperature for several cities in California.
 >
@@ -1445,7 +1426,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/grouping-data-with-hierarchical-clustering?u=76281980&t=177)** We'll then put the data from the variable data 1D into the dendrograms tab.
 >
-> **[3:03](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/grouping-data-with-hierarchical-clustering?u=76281980&t=183)** Let's adjust our formula to reference cell C6 in our code instead of referencing the data frame like we did in Codespaces.
+> **[3:03](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/grouping-data-with-hierarchical-clustering?u=76281980&t=183)** Let's adjust our formula to reference cell C6 in our code instead of referencing the data frame like we did in [[Codespaces]].
 >
 > **[3:14](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/grouping-data-with-hierarchical-clustering?u=76281980&t=194)** And actually we're referencing cell C7, we will reference the average temperature as our single field.
 >
@@ -1467,29 +1448,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), [[Python (Programming Language)|Python]] (6), [[Algorithms]] (4), [[Microsoft Excel|Excel]] (4), [[Pandas (Software)|Pandas]] (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Algorithms]] (4), [[Microsoft Excel|Excel]] (4), [[Pandas (Software)|Pandas]] (3), [[Codespaces]] (2)
 > **CLI Commands:** python (6)
 > **Env Vars:** c20 (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Grouping data with the K-Means algorithm
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/grouping-data-with-kmeans-algorithm?u=76281980)
+#### [Grouping data with the K-Means algorithm](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/grouping-data-with-kmeans-algorithm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/grouping-data-with-kmeans-algorithm?u=76281980&t=0)** - [Instructor] The scikit-learn, or sklearn library, is a data science AI machine learning library for running models.
+> **[0:00](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/grouping-data-with-kmeans-algorithm?u=76281980&t=0)** - [Instructor] The scikit-learn, or sklearn library, is a [[Data Science]] AI machine learning library for running models.
 >
 > **[0:06](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/grouping-data-with-kmeans-algorithm?u=76281980&t=6)** To make our modeling more efficient, we'll just import the k-means function from the clusters section of the sklearn library.
 >
-> **[0:14](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/grouping-data-with-kmeans-algorithm?u=76281980&t=14)** We'll import this along with Pandas and NumPy.
+> **[0:14](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/grouping-data-with-kmeans-algorithm?u=76281980&t=14)** We'll import this along with [[Pandas (Software)|Pandas]] and NumPy.
 >
 > **[0:18](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/grouping-data-with-kmeans-algorithm?u=76281980&t=18)** We already have an ETL framework in this file to create a data frame object storing the daily temperatures for Santa Barbara.
 >
 > **[0:26](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/grouping-data-with-kmeans-algorithm?u=76281980&t=26)** We'll run this code to create the data frame.
 >
-> **[0:34](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/grouping-data-with-kmeans-algorithm?u=76281980&t=34)** Now, let's translate our Python code into Python Excel code.
+> **[0:34](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/grouping-data-with-kmeans-algorithm?u=76281980&t=34)** Now, let's translate our [[Python (Programming Language)|Python]] code into Python [[Microsoft Excel|Excel]] code.
 >
 > **[0:40](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/grouping-data-with-kmeans-algorithm?u=76281980&t=40)** We'll note in the k-means tab that we're using the k-means function from the sklearn library.
 >
@@ -1501,7 +1481,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/grouping-data-with-kmeans-algorithm?u=76281980&t=71)** We also need to create a data list object to use in our k-means algorithm within Excel.
 >
-> **[1:17](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/grouping-data-with-kmeans-algorithm?u=76281980&t=77)** We'll do so using the Python function, then list and zip, and we'll create this zip object in the same way that we did in Codespaces.
+> **[1:17](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/grouping-data-with-kmeans-algorithm?u=76281980&t=77)** We'll do so using the Python function, then list and zip, and we'll create this zip object in the same way that we did in [[Codespaces]].
 >
 > **[1:32](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/grouping-data-with-kmeans-algorithm?u=76281980&t=92)** And we'll swap out the reference to the data frame in Excel with our DF variable that we saw earlier.
 >
@@ -1523,15 +1503,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Python (Programming Language)|Python]] (3), [[Microsoft Excel|Excel]] (3), ai (1), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Microsoft Excel|Excel]] (3), [[Data Science]] (1), [[Pandas (Software)|Pandas]] (1), [[Codespaces]] (1)
 > **CLI Commands:** make (3), python (3)
 > **Env Vars:** etl (1), c11 (1), c13 (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Determining anomalies with anomaly detection algorithms
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/determining-anomalies-with-anomaly-detection-algorithms?u=76281980)
+#### [Determining anomalies with anomaly detection algorithms](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/determining-anomalies-with-anomaly-detection-algorithms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1547,7 +1526,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/determining-anomalies-with-anomaly-detection-algorithms?u=76281980&t=53)** These outliers represent anomalies as temperatures.
 >
-> **[0:58](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/determining-anomalies-with-anomaly-detection-algorithms?u=76281980&t=58)** Let's check out how to run anomaly detection algorithms using Python code and Codespaces first.
+> **[0:58](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/determining-anomalies-with-anomaly-detection-algorithms?u=76281980&t=58)** Let's check out how to run anomaly detection [[Algorithms]] using [[Python (Programming Language)|Python]] code and [[Codespaces]] first.
 >
 > **[1:05](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/determining-anomalies-with-anomaly-detection-algorithms?u=76281980&t=65)** We'll use the DBSCAN section of the SK-Learn library to run the anomaly detection algorithm.
 >
@@ -1555,7 +1534,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/determining-anomalies-with-anomaly-detection-algorithms?u=76281980&t=79)** We can then run the ETL framework to get the daily temperatures into the anomaly detection model.
 >
-> **[1:26](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/determining-anomalies-with-anomaly-detection-algorithms?u=76281980&t=86)** We'll only use the last 1000 days of data to match the output that we're using in our data frame object within Excel to calculate things like outliers.
+> **[1:26](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/determining-anomalies-with-anomaly-detection-algorithms?u=76281980&t=86)** We'll only use the last 1000 days of data to match the output that we're using in our data frame object within [[Microsoft Excel|Excel]] to calculate things like outliers.
 >
 > **[1:38](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/determining-anomalies-with-anomaly-detection-algorithms?u=76281980&t=98)** Next, we create a NumPy array to store our average temperatures from the data frame that we want to determine our anomalies over.
 >
@@ -1621,13 +1600,13 @@ created: 2026-05-02
 >
 > **[6:19](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/determining-anomalies-with-anomaly-detection-algorithms?u=76281980&t=379)** We can also make adjustments to the inputs of this algorithm.
 >
-> **[6:23](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/determining-anomalies-with-anomaly-detection-algorithms?u=76281980&t=383)** For example, we can set this equal to 1, and then the rest of our outputs will update, as well.
+> **[6:23](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/determining-anomalies-with-anomaly-detection-algorithms?u=76281980&t=383)** For example, we can set this equal to 1, and then the [[Representational State Transfer (REST)|rest]] of our outputs will update, as well.
 >
 > **[6:33](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/determining-anomalies-with-anomaly-detection-algorithms?u=76281980&t=393)** Anomaly detections are very helpful in modeling because they enable us to determine if a data point should be included or excluded in our analysis.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Algorithms]] (4), [[Microsoft Excel|Excel]] (4), [[Python (Programming Language)|Python]] (2), [[Codespaces]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (4), [[Microsoft Excel|Excel]] (4), [[Python (Programming Language)|Python]] (2), [[Codespaces]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** dbscan (3), etl (1), c12 (1), eps (1)
 > **CLI Commands:** python (2), make (2)
 > **Analogies:** for example (4)
@@ -1636,8 +1615,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is a  (1)
 
-#### Challenge: Running algorithms with Python in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/challenge-running-algorithms-with-python-in-excel?u=76281980)
+#### [Challenge: Running algorithms with Python in Excel](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/challenge-running-algorithms-with-python-in-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1647,19 +1625,19 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/challenge-running-algorithms-with-python-in-excel?u=76281980&t=7)** We're going to continue to work with our hourly weather data for the Santa Barbara airport to find anomalies for the temperatures.
 >
-> **[0:14](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/challenge-running-algorithms-with-python-in-excel?u=76281980&t=14)** Your objective for this chapter's challenge is to run the anomaly detection algorithm that we explored earlier in this chapter using the DBSCAN function from the Python sklearn.cluster library.
+> **[0:14](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/challenge-running-algorithms-with-python-in-excel?u=76281980&t=14)** Your objective for this chapter's challenge is to run the anomaly detection algorithm that we explored earlier in this chapter using the DBSCAN function from the [[Python (Programming Language)|Python]] sklearn.cluster library.
 >
 > **[0:26](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/challenge-running-algorithms-with-python-in-excel?u=76281980&t=26)** I encourage you to experiment with the parameters and the function to see how this changes the model results.
 >
 > **[0:31](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/challenge-running-algorithms-with-python-in-excel?u=76281980&t=31)** The weather data spans back 15 days relative from whatever date today is for you, so your data and results will look slightly different than mine.
 >
-> **[0:41](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/challenge-running-algorithms-with-python-in-excel?u=76281980&t=41)** You can use it as a comparison to run the code both in Codespaces and Excel if you refresh the underlying data at the same time.
+> **[0:41](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/challenge-running-algorithms-with-python-in-excel?u=76281980&t=41)** You can use it as a comparison to run the code both in [[Codespaces]] and [[Microsoft Excel|Excel]] if you refresh the underlying data at the same time.
 >
 > **[0:49](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/challenge-running-algorithms-with-python-in-excel?u=76281980&t=49)** In Codespaces, I set up the ECL framework to get the data from the National Weather Service API for weather data, if you want to start there and run your anomaly detection on this data, or you can input it directly in Excel to see how it works in that environment, good luck.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Codespaces]] (2), [[Microsoft Excel|Excel]] (2), [[Python (Programming Language)|Python]] (1), api (1)
+> **Frameworks & Libraries:** [[Codespaces]] (2), [[Microsoft Excel|Excel]] (2), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** dbscan (1), ecl (1), api (1)
 > **CLI Commands:** find (1), python (1)
 > **Cross-References:** earlier in (1)
@@ -1667,16 +1645,15 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (lively upbeat music) (1)
 
-#### Solution: Running algorithms with Python in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/solution-running-algorithms-with-python-in-excel?u=76281980)
+#### [Solution: Running algorithms with Python in Excel](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/solution-running-algorithms-with-python-in-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/solution-running-algorithms-with-python-in-excel?u=76281980&t=0)** (bright music)
 >
-> **[0:05](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/solution-running-algorithms-with-python-in-excel?u=76281980&t=5)** - [Instructor] In codespaces, I already set up the ETL framework to get the weather data from the National Weather Service API.
+> **[0:05](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/solution-running-algorithms-with-python-in-excel?u=76281980&t=5)** - [Instructor] In [[Codespaces]], I already set up the ETL framework to get the weather data from the National Weather Service API.
 >
-> **[0:12](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/solution-running-algorithms-with-python-in-excel?u=76281980&t=12)** We discussed earlier that for security concerns, we want to get data into Excel via the web data connector and Power Query instead of directly within Python code.
+> **[0:12](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/solution-running-algorithms-with-python-in-excel?u=76281980&t=12)** We discussed earlier that for security concerns, we want to get data into [[Microsoft Excel|Excel]] via the web data connector and [[Microsoft Power Query|Power Query]] instead of directly within [[Python (Programming Language)|Python]] code.
 >
 > **[0:22](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/solution-running-algorithms-with-python-in-excel?u=76281980&t=22)** However, in ids like this one, we'll make the request directly in our Python code through the request library.
 >
@@ -1716,7 +1693,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/solution-running-algorithms-with-python-in-excel?u=76281980&t=173)** We first need to import the libraries into Excel that we're going to use.
 >
-> **[2:57](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/solution-running-algorithms-with-python-in-excel?u=76281980&t=177)** Even though Pandas and NumPy are preloaded, let's import those along with the DBSCAN function from the sklearn library.
+> **[2:57](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/solution-running-algorithms-with-python-in-excel?u=76281980&t=177)** Even though [[Pandas (Software)|Pandas]] and NumPy are preloaded, let's import those along with the DBSCAN function from the sklearn library.
 >
 > **[3:04](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/solution-running-algorithms-with-python-in-excel?u=76281980&t=184)** We'll use all the libraries we saw in codespaces except the request library, because we already use Power Query to bring the data in.
 >
@@ -1748,7 +1725,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Python (Programming Language)|Python]] (11), [[Microsoft Excel|Excel]] (8), [[Codespaces]] (4), next (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (11), [[Microsoft Excel|Excel]] (8), [[Codespaces]] (4), [[Microsoft Power Query|Power query]] (2), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** python (11), make (2)
 > **Env Vars:** dbscan (4), utc (3), etl (1), api (1)
 > **Prerequisites:** set up (2)
@@ -1762,14 +1739,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Visualizing data
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/visualizing-data?u=76281980)
+#### [Visualizing data](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/visualizing-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/visualizing-data?u=76281980&t=0)** - Data visualizations enable us to visually communicate trends, groups, and key outliers or anomalies in data, much like the intended outputs for algorithms for machine learning and AI.
+> **[0:00](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/visualizing-data?u=76281980&t=0)** - Data visualizations enable us to visually communicate trends, groups, and key outliers or anomalies in data, much like the intended outputs for [[Algorithms]] for machine learning and AI.
 >
-> **[0:13](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/visualizing-data?u=76281980&t=13)** But remember, just because you can do it in Python doesn't mean you should.
+> **[0:13](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/visualizing-data?u=76281980&t=13)** But remember, just because you can do it in [[Python (Programming Language)|Python]] doesn't mean you should.
 >
 > **[0:18](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/visualizing-data?u=76281980&t=18)** Visuals are a great way to better understand algorithm outputs, which include finding trends, groups, or anomalies and outliers.
 >
@@ -1781,7 +1757,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/visualizing-data?u=76281980&t=57)** When we create visuals, we can use the outputs, whether they involve using Python or not, to build visuals.
 >
-> **[1:04](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/visualizing-data?u=76281980&t=64)** My own general guideline is to use the built-in Excel chart options when I can, and to tap into Python code to build visuals when Excel doesn't offer the visuals that we need.
+> **[1:04](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/visualizing-data?u=76281980&t=64)** My own general guideline is to use the built-in [[Microsoft Excel|Excel]] chart options when I can, and to tap into Python code to build visuals when Excel doesn't offer the visuals that we need.
 >
 > **[1:16](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/visualizing-data?u=76281980&t=76)** Visuals can help us understand more about the data.
 >
@@ -1791,17 +1767,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Python (Programming Language)|Python]] (3), [[Microsoft Excel|Excel]] (2), [[Algorithms]] (1), ai (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Microsoft Excel|Excel]] (2), [[Algorithms]] (1)
 > **CLI Commands:** python (3), find (1)
 > **Analogies:** for example (2)
 > **Speakers:** - data (1)
 
-#### Leveraging Excel line charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/leveraging-excel-line-charts?u=76281980)
+#### [Leveraging Excel line charts](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/leveraging-excel-line-charts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/leveraging-excel-line-charts?u=76281980&t=0)** - [Instructor] When we're working with Excel charts, there are a few key peculiarities to keep in mind to make these workflows easier.
+> **[0:00](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/leveraging-excel-line-charts?u=76281980&t=0)** - [Instructor] When we're working with [[Microsoft Excel|Excel]] charts, there are a few key peculiarities to keep in mind to make these workflows easier.
 >
 > **[0:07](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/leveraging-excel-line-charts?u=76281980&t=7)** In line charts and scatterplots, for example, the x-axis is categorical and not numerical.
 >
@@ -1829,7 +1804,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/leveraging-excel-line-charts?u=76281980&t=95)** We'll highlight the columns for the date and temperature, and then hold down the Control key and arrows to select the Label column we just created for this table.
 >
-> **[1:45](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/leveraging-excel-line-charts?u=76281980&t=105)** The Label column is what we'll use to label the anomalies, not the anomaly flag column we created with the help of Python code.
+> **[1:45](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/leveraging-excel-line-charts?u=76281980&t=105)** The Label column is what we'll use to label the anomalies, not the anomaly flag column we created with the help of [[Python (Programming Language)|Python]] code.
 >
 > **[1:52](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/leveraging-excel-line-charts?u=76281980&t=112)** This is because we want to display the anomaly at the temperature at which it occurs on the y-axis.
 >
@@ -1867,7 +1842,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (8), data (7), [[Python (Programming Language)|Python]] (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (8), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (4), python (1)
 > **UI Navigation:** select the (2), dropdown (1)
 > **Analogies:** for example (2)
@@ -1876,8 +1851,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Leveraging Excel scatter plots
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/leveraging-excel-scatter-plots?u=76281980)
+#### [Leveraging Excel scatter plots](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/leveraging-excel-scatter-plots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1887,7 +1861,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/leveraging-excel-scatter-plots?u=76281980&t=18)** We ran the KMeans algorithm with two clusters, which return cluster labels of either zero or one.
 >
-> **[0:26](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/leveraging-excel-scatter-plots?u=76281980&t=26)** We'll first create a new column called "cluster zero" to say that if the result in column F has a value of zero, then it will return the high temperature value in column E, otherwise, it will return the NA Excel function.
+> **[0:26](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/leveraging-excel-scatter-plots?u=76281980&t=26)** We'll first create a new column called "cluster zero" to say that if the result in column F has a value of zero, then it will return the high temperature value in column E, otherwise, it will return the NA [[Microsoft Excel|Excel]] function.
 >
 > **[0:41](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/leveraging-excel-scatter-plots?u=76281980&t=41)** And because this cluster is one, I'm actually going to copy this one over as an example to reference cluster one.
 >
@@ -1919,7 +1893,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/leveraging-excel-scatter-plots?u=76281980&t=188)** This is because we need to add the value function around our text extraction function to get the cluster number so that it matches the numeric values for the clusters in column F.
 >
-> **[3:25](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/leveraging-excel-scatter-plots?u=76281980&t=205)** Once we confirm this formula works, let's copy it to the rest of the columns in this row, and we should see that only column H returns values.
+> **[3:25](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/leveraging-excel-scatter-plots?u=76281980&t=205)** Once we confirm this formula works, let's copy it to the [[Representational State Transfer (REST)|rest]] of the columns in this row, and we should see that only column H returns values.
 >
 > **[3:38](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/leveraging-excel-scatter-plots?u=76281980&t=218)** We'll then copy this formula down to the remainder of the rows in the table.
 >
@@ -1949,19 +1923,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), next (1), [[Representational State Transfer (REST)|Rest]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (7)
 > **Env Vars:** g17 (1), f17 (1)
 > **UI Navigation:** select the (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring Python in Excel with dynamic parameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/configuring-python-in-excel-with-dynamic-parameters?u=76281980)
+#### [Configuring Python in Excel with dynamic parameters](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/configuring-python-in-excel-with-dynamic-parameters?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/configuring-python-in-excel-with-dynamic-parameters?u=76281980&t=0)** - [Instructor] Now let's have some fun in the Python and Excel sandbox environment by making our algorithms and visuals dynamic.
+> **[0:00](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/configuring-python-in-excel-with-dynamic-parameters?u=76281980&t=0)** - [Instructor] Now let's have some fun in the [[Python (Programming Language)|Python]] and [[Microsoft Excel|Excel]] sandbox environment by making our [[Algorithms]] and visuals dynamic.
 >
 > **[0:06](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/configuring-python-in-excel-with-dynamic-parameters?u=76281980&t=6)** The K means clustering model currently sets the number of clusters to two.
 >
@@ -2035,7 +2008,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (7), [[Python (Programming Language)|Python]] (3), [[Algorithms]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (7), [[Python (Programming Language)|Python]] (3), [[Algorithms]] (1)
 > **CLI Commands:** python (3), make (2)
 > **Env Vars:** eps (3), c10 (1), c13 (1)
 > **Analogies:** for example (2), similar to (1)
@@ -2044,14 +2017,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating Python visuals
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/creating-python-visuals?u=76281980)
+#### [Creating Python visuals](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/creating-python-visuals?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/creating-python-visuals?u=76281980&t=0)** - Common libraries for creating Python Visuals include maplotlib and seaborn.
+> **[0:00](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/creating-python-visuals?u=76281980&t=0)** - Common libraries for creating [[Python (Programming Language)|Python]] Visuals include maplotlib and seaborn.
 >
-> **[0:05](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/creating-python-visuals?u=76281980&t=5)** There are also libraries that include functions for creating data visualizations like scipy and pandas.
+> **[0:05](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/creating-python-visuals?u=76281980&t=5)** There are also libraries that include functions for creating data visualizations like scipy and [[Pandas (Software)|pandas]].
 >
 > **[0:11](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/creating-python-visuals?u=76281980&t=11)** Let's explore a few of them.
 >
@@ -2083,7 +2055,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/creating-python-visuals?u=76281980&t=94)** This returns a bar chart to tell us that Burbank has the warmest temperatures of the cities we're looking at, and San Francisco has the coolest.
 >
-> **[1:43](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/creating-python-visuals?u=76281980&t=103)** As we saw earlier in this chapter, Excel offers a lot of powerful visualization options just from the charts that are built into the application.
+> **[1:43](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/creating-python-visuals?u=76281980&t=103)** As we saw earlier in this chapter, [[Microsoft Excel|Excel]] offers a lot of powerful visualization options just from the charts that are built into the application.
 >
 > **[1:51](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/creating-python-visuals?u=76281980&t=111)** I think that out of the box, Excel visuals are better than the matplotlib ones because we have more flexibility with the formatting and they're already built into Excel to start with.
 >
@@ -2093,19 +2065,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), data (4), [[Microsoft Excel|Excel]] (4), [[Pandas (Software)|Pandas]] (2), etl (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Microsoft Excel|Excel]] (4), [[Pandas (Software)|Pandas]] (2)
 > **CLI Commands:** python (5), make (1)
 > **Env Vars:** etl (1), matlab (1)
 > **Cross-References:** as we saw (1), earlier in (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - common (1)
 
-#### Visualizing hierarchical clustering with dendrograms
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/visualizing-hierarchical-clustering-with-dendrograms?u=76281980)
+#### [Visualizing hierarchical clustering with dendrograms](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/visualizing-hierarchical-clustering-with-dendrograms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/visualizing-hierarchical-clustering-with-dendrograms?u=76281980&t=0)** - [Instructor] One of the benefits of using Python visuals is that it enables us to tap into visuals that we wouldn't otherwise be able to natively create in Excel.
+> **[0:00](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/visualizing-hierarchical-clustering-with-dendrograms?u=76281980&t=0)** - [Instructor] One of the benefits of using [[Python (Programming Language)|Python]] visuals is that it enables us to tap into visuals that we wouldn't otherwise be able to natively create in [[Microsoft Excel|Excel]].
 >
 > **[0:09](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/visualizing-hierarchical-clustering-with-dendrograms?u=76281980&t=9)** Dendrograms are a great example of these visuals.
 >
@@ -2115,7 +2086,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/visualizing-hierarchical-clustering-with-dendrograms?u=76281980&t=25)** While we expect cooler cities like San Francisco, Santa Barbara, and Sacramento would be grouped together at the other end.
 >
-> **[0:32](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/visualizing-hierarchical-clustering-with-dendrograms?u=76281980&t=32)** We already calculated the distances as output for one and two dimensional data in the previous chapter for clustering algorithms.
+> **[0:32](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/visualizing-hierarchical-clustering-with-dendrograms?u=76281980&t=32)** We already calculated the distances as output for one and two dimensional data in the previous chapter for clustering [[Algorithms]].
 >
 > **[0:41](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/visualizing-hierarchical-clustering-with-dendrograms?u=76281980&t=41)** Let's then call the dendrogram function on these distance objects.
 >
@@ -2149,13 +2120,13 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/visualizing-hierarchical-clustering-with-dendrograms?u=76281980&t=150)** To do so, we'll create a dendrogram through the Seaborn library using the clustermap function.
 >
-> **[2:37](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/visualizing-hierarchical-clustering-with-dendrograms?u=76281980&t=157)** Let's zoom out a bit to see the entire chart.
+> **[2:37](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/visualizing-hierarchical-clustering-with-dendrograms?u=76281980&t=157)** Let's [[Zoom]] out a bit to see the entire chart.
 >
 > **[2:41](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/visualizing-hierarchical-clustering-with-dendrograms?u=76281980&t=161)** Running this visual creates a visual that's really similar to the dendrogram that we created using the dendrogram function from the SciPy library.
 >
 > **[2:50](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/visualizing-hierarchical-clustering-with-dendrograms?u=76281980&t=170)** It also adds the element of a color gradient to distinguish the magnitude of temperature differences between the individual cities for the low average and high temperatures for each city.
 >
-> **[3:04](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/visualizing-hierarchical-clustering-with-dendrograms?u=76281980&t=184)** Let's copy the Python code from the one dimensional dendrogram in Codespaces so that we can paste it into Excel.
+> **[3:04](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/visualizing-hierarchical-clustering-with-dendrograms?u=76281980&t=184)** Let's copy the Python code from the one dimensional dendrogram in [[Codespaces]] so that we can paste it into Excel.
 >
 > **[3:16](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/visualizing-hierarchical-clustering-with-dendrograms?u=76281980&t=196)** Let's first note in the dendrogram's tab that we're using the Seaborn Matplotlib and SciPy libraries for these visuals.
 >
@@ -2213,7 +2184,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[Microsoft Excel|Excel]] (7), data (6), [[Codespaces]] (2), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[Microsoft Excel|Excel]] (7), [[Codespaces]] (2), [[Algorithms]] (1), [[Zoom]] (1)
 > **CLI Commands:** python (8), find (1), make (1)
 > **Env Vars:** c29 (1), c17 (1), i40 (1), i29 (1)
 > **UI Navigation:** click on (2)
@@ -2222,8 +2193,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Breaking down time series models into components
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/breaking-down-time-series-models-into-components?u=76281980)
+#### [Breaking down time series models into components](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/breaking-down-time-series-models-into-components?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2231,9 +2201,9 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/breaking-down-time-series-models-into-components?u=76281980&t=5)** We can also break them down into separate components for trends, seasonality, and anomalies and outliers.
 >
-> **[0:13](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/breaking-down-time-series-models-into-components?u=76281980&t=13)** Python has libraries like stats models that enables to break down the components of time series models through functions like seasonal_decompose.
+> **[0:13](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/breaking-down-time-series-models-into-components?u=76281980&t=13)** [[Python (Programming Language)|Python]] has libraries like stats models that enables to break down the components of time series models through functions like seasonal_decompose.
 >
-> **[0:21](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/breaking-down-time-series-models-into-components?u=76281980&t=21)** Let's import this library, as well as Matplotlib into our model, in addition to the Pandas and NumPy libraries we're already using.
+> **[0:21](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/breaking-down-time-series-models-into-components?u=76281980&t=21)** Let's import this library, as well as Matplotlib into our model, in addition to the [[Pandas (Software)|Pandas]] and NumPy libraries we're already using.
 >
 > **[0:29](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/breaking-down-time-series-models-into-components?u=76281980&t=29)** I already ran all the steps in the ETL framework section to create a daily data frame object DF, and a monthly data frame object called monthly that we can use in our time series models.
 >
@@ -2269,9 +2239,9 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/breaking-down-time-series-models-into-components?u=76281980&t=154)** The residuals can help us identify outliers or anomalies over this time period.
 >
-> **[2:40](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/breaking-down-time-series-models-into-components?u=76281980&t=160)** Finally, we see the overall trends over time, which aren't a straight line like linear regression, but rather what remains from the original data time series once we remove seasonalities and anomalies and account for them in the context of our analysis.
+> **[2:40](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/breaking-down-time-series-models-into-components?u=76281980&t=160)** Finally, we see the overall trends over time, which aren't a straight line like [[Linear Regression]], but rather what remains from the original data time series once we remove seasonalities and anomalies and account for them in the context of our analysis.
 >
-> **[2:57](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/breaking-down-time-series-models-into-components?u=76281980&t=177)** In Excel, let's revisit our time series decomposition tab to learn more about these options.
+> **[2:57](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/breaking-down-time-series-models-into-components?u=76281980&t=177)** In [[Microsoft Excel|Excel]], let's revisit our time series decomposition tab to learn more about these options.
 >
 > **[3:03](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/breaking-down-time-series-models-into-components?u=76281980&t=183)** We already have a data frame storing the daily and monthly temperatures for Santa Barbara.
 >
@@ -2313,7 +2283,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Python (Programming Language)|Python]] (5), [[Microsoft Excel|Excel]] (4), [[Pandas (Software)|Pandas]] (1), etl (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Microsoft Excel|Excel]] (4), [[Pandas (Software)|Pandas]] (1), [[Linear Regression]] (1)
 > **CLI Commands:** python (5), find (1)
 > **Code Identifiers:** seasonal_decompose (2)
 > **Env Vars:** etl (1), plt (1)
@@ -2322,8 +2292,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Prerequisites:** set up (1)
 
-#### Challenge: Comparing time series components to anomalies
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/challenge-comparing-time-series-components-to-anomalies?u=76281980)
+#### [Challenge: Comparing time series components to anomalies](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/challenge-comparing-time-series-components-to-anomalies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2343,19 +2312,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **Cross-References:** in the last (1), as we saw (1), previous chapter (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Comparing time series components to anomalies
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/solution-comparing-time-series-components-to-anomalies?u=76281980)
+#### [Solution: Comparing time series components to anomalies](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/solution-comparing-time-series-components-to-anomalies?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/solution-comparing-time-series-components-to-anomalies?u=76281980&t=0)** - [Instructor] So how did it go?
 >
-> **[0:07](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/solution-comparing-time-series-components-to-anomalies?u=76281980&t=7)** Let's explore how to create this output in code spaces first before translating it into Python and Excel code.
+> **[0:07](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/solution-comparing-time-series-components-to-anomalies?u=76281980&t=7)** Let's explore how to create this output in code spaces first before translating it into [[Python (Programming Language)|Python]] and [[Microsoft Excel|Excel]] code.
 >
 > **[0:13](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/solution-comparing-time-series-components-to-anomalies?u=76281980&t=13)** Let's first import the parts of the statsmodel library, as well as the matplotlib library into our model that we want to use in addition to the libraries we already imported into our solution.
 >
@@ -2413,15 +2380,15 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/solution-comparing-time-series-components-to-anomalies?u=76281980&t=262)** Your line chart will likely look totally different, and that's as expected, because as we get newer weather data, the anomaly detection algorithm will update to reflect the most recent 15 days instead of the 15 days that you see here.
 >
-> **[4:38](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/solution-comparing-time-series-components-to-anomalies?u=76281980&t=278)** Now we see how we can fit these different components of the algorithms and the visuals together in an impactful way directly within Excel using Python code.
+> **[4:38](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/solution-comparing-time-series-components-to-anomalies?u=76281980&t=278)** Now we see how we can fit these different components of the [[Algorithms]] and the visuals together in an impactful way directly within Excel using Python code.
 >
-> **[4:48](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/solution-comparing-time-series-components-to-anomalies?u=76281980&t=288)** It's a powerful functionality that enables us to extend Excel into the data science space.
+> **[4:48](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/solution-comparing-time-series-components-to-anomalies?u=76281980&t=288)** It's a powerful functionality that enables us to extend Excel into the [[Data Science]] space.
 >
 > **[4:55](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/solution-comparing-time-series-components-to-anomalies?u=76281980&t=295)** Well done.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (6), [[Python (Programming Language)|Python]] (2), next (2), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), [[Python (Programming Language)|Python]] (2), [[Algorithms]] (1), [[Data Science]] (1)
 > **CLI Commands:** python (2)
 > **Analogies:** kind of like (1), for example (1)
 > **Env Vars:** utc (1)
@@ -2435,26 +2402,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing on with Python in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/continuing-on-with-python-in-excel?u=76281980)
+#### [Continuing on with Python in Excel](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/continuing-on-with-python-in-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/continuing-on-with-python-in-excel?u=76281980&t=0)** - Now that you've seen how to use Python in Excel, it's time to try it out on your own.
+> **[0:00](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/continuing-on-with-python-in-excel?u=76281980&t=0)** - Now that you've seen how to use [[Python (Programming Language)|Python]] in [[Microsoft Excel|Excel]], it's time to try it out on your own.
 >
-> **[0:06](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/continuing-on-with-python-in-excel?u=76281980&t=6)** You can use this functionality to create amazing custom visuals with Python code, run algorithms to make predictions, and fix frustratingly messy data.
+> **[0:06](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/continuing-on-with-python-in-excel?u=76281980&t=6)** You can use this functionality to create amazing custom visuals with Python code, run [[Algorithms]] to make predictions, and fix frustratingly messy data.
 >
 > **[0:16](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/continuing-on-with-python-in-excel?u=76281980&t=16)** It's a great sandbox environment for learning more about Python.
 >
 > **[0:20](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/continuing-on-with-python-in-excel?u=76281980&t=20)** And if you want to learn even more, check out other courses in the library too.
 >
-> **[0:26](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/continuing-on-with-python-in-excel?u=76281980&t=26)** Don't forget to follow me on LinkedIn for more content on Python, Excel, and other tools, languages, and topics.
+> **[0:26](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/continuing-on-with-python-in-excel?u=76281980&t=26)** Don't forget to follow me on [[LinkedIn]] for more content on Python, Excel, and other tools, languages, and topics.
 >
 > **[0:33](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/continuing-on-with-python-in-excel?u=76281980&t=33)** and check out my other courses in the LinkedIn Learning library.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Microsoft Excel|Excel]] (2), [[LinkedIn]] (2), [[Algorithms]] (1), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Microsoft Excel|Excel]] (2), [[LinkedIn]] (2), [[Algorithms]] (1)
 > **CLI Commands:** python (4), make (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - now (1)

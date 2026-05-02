@@ -81,20 +81,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-testing-legacy-applications/welcome?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/php-testing-legacy-applications/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/php-testing-legacy-applications/welcome?u=76281980&t=1)** - [Chris] Imagine this scenario.
 >
-> **[0:03](https://www.linkedin.com/learning/php-testing-legacy-applications/welcome?u=76281980&t=3)** You're a PHP developer who has an old legacy code base that you need to fix bugs and add new features to.
+> **[0:03](https://www.linkedin.com/learning/php-testing-legacy-applications/welcome?u=76281980&t=3)** You're a [[PHP]] developer who has an old legacy code base that you need to fix bugs and add new features to.
 >
 > **[0:09](https://www.linkedin.com/learning/php-testing-legacy-applications/welcome?u=76281980&t=9)** This code is old and crufty, and you are often afraid to change anything out of fear of breaking it.
 >
-> **[0:15](https://www.linkedin.com/learning/php-testing-legacy-applications/welcome?u=76281980&t=15)** You also know that you should be writing tests for this application, because you've heard so many other people talk about unit testing, but have no idea where to start.
+> **[0:15](https://www.linkedin.com/learning/php-testing-legacy-applications/welcome?u=76281980&t=15)** You also know that you should be writing tests for this application, because you've heard so many other people talk about [[Unit Testing]], but have no idea where to start.
 >
-> **[0:25](https://www.linkedin.com/learning/php-testing-legacy-applications/welcome?u=76281980&t=25)** Test-driven development sounds great, but you have all this existing code to worry about.
+> **[0:25](https://www.linkedin.com/learning/php-testing-legacy-applications/welcome?u=76281980&t=25)** [[Test-Driven Development]] sounds great, but you have all this existing code to worry about.
 >
 > **[0:30](https://www.linkedin.com/learning/php-testing-legacy-applications/welcome?u=76281980&t=30)** Wouldn't it be great if you knew someone who could guide you through all the concepts you need to understand, and show you how to actually build these testing scenarios and then turn them into working tests?
 >
@@ -110,7 +109,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/php-testing-legacy-applications/welcome?u=76281980&t=77)** Next, I'm going to talk about why legacy code bases can be so difficult to wrap tests around.
 >
-> **[1:23](https://www.linkedin.com/learning/php-testing-legacy-applications/welcome?u=76281980&t=83)** Difficult people, weird bootstrapping sequences, hard-coded dependencies, challenging deployments, and poor package management can really derail your attempts to get automated tests in place.
+> **[1:23](https://www.linkedin.com/learning/php-testing-legacy-applications/welcome?u=76281980&t=83)** Difficult people, weird bootstrapping sequences, hard-coded dependencies, challenging deployments, and poor [[Package Management]] can really derail your attempts to get automated tests in place.
 >
 > **[1:37](https://www.linkedin.com/learning/php-testing-legacy-applications/welcome?u=76281980&t=97)** Then I lay the foundation by introducing you to the concepts that make up the backbone of your testing skillset.
 >
@@ -124,20 +123,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (3), application (2), [[Test-Driven Development]] (2), [[Unit Testing]] (1), next (1)
+> **Frameworks & Libraries:** [[PHP]] (3), [[Test-Driven Development]] (2), [[Unit Testing]] (1), [[Package Management]] (1)
 > **CLI Commands:** php (3), make (2)
 > **Env Vars:** php (3)
 > **Analogies:** imagine (1)
 > **Speakers:** - [chris] (1)
 
-#### What you need you to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-testing-legacy-applications/what-you-need-you-to-know?u=76281980)
+#### [What you need you to know](https://www.linkedin.com/learning/php-testing-legacy-applications/what-you-need-you-to-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/php-testing-legacy-applications/what-you-need-you-to-know?u=76281980&t=1)** - [Instructor] To get the most out of this course, I feel like you need to have the following skills.
 >
-> **[0:05](https://www.linkedin.com/learning/php-testing-legacy-applications/what-you-need-you-to-know?u=76281980&t=5)** First, be an experienced PHP developer.
+> **[0:05](https://www.linkedin.com/learning/php-testing-legacy-applications/what-you-need-you-to-know?u=76281980&t=5)** First, be an experienced [[PHP]] developer.
 >
 > **[0:08](https://www.linkedin.com/learning/php-testing-legacy-applications/what-you-need-you-to-know?u=76281980&t=8)** Next, have experience working on a team writing code for an application.
 >
@@ -157,7 +155,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (2), application (2), next (1)
+> **Frameworks & Libraries:** [[PHP]] (2)
 > **CLI Commands:** php (2), composer (1)
 > **Tools:** command line (2), bash (1)
 > **Env Vars:** php (2)
@@ -165,8 +163,7 @@ created: 2026-05-02
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-testing-legacy-applications/exercise-files?u=76281980)
+#### [Exercise files](https://www.linkedin.com/learning/php-testing-legacy-applications/exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -182,7 +179,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2)
 > **CLI Commands:** find (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
@@ -192,8 +188,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### TDD vs. test after
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-testing-legacy-applications/tdd-vs-test-after?u=76281980)
+#### [TDD vs. test after](https://www.linkedin.com/learning/php-testing-legacy-applications/tdd-vs-test-after?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -235,12 +230,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), power (1)
 > **Env Vars:** tdd (3)
 > **Speakers:** - [instructor] (1)
 
-#### How the tools change
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-testing-legacy-applications/how-the-tools-change?u=76281980)
+#### [How the tools change](https://www.linkedin.com/learning/php-testing-legacy-applications/how-the-tools-change?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -278,13 +271,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), web (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Quick primer on test doubles
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-testing-legacy-applications/quick-primer-on-test-doubles?u=76281980)
+#### [Quick primer on test doubles](https://www.linkedin.com/learning/php-testing-legacy-applications/quick-primer-on-test-doubles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -342,7 +333,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/php-testing-legacy-applications/quick-primer-on-test-doubles?u=76281980&t=124)** If you go by the definition that is given on Wikipedia, it says there are five types of doubles; dummies, fakes, spies, stubs and mocks.
 >
-> **[2:16](https://www.linkedin.com/learning/php-testing-legacy-applications/quick-primer-on-test-doubles?u=76281980&t=136)** Due to some limitations of the language itself in PHP, we can't create what would be considered canonical spies, because we lack the ability to easily introspect objects at runtime, meaning look inside them at their properties, which is what spies rely on.
+> **[2:16](https://www.linkedin.com/learning/php-testing-legacy-applications/quick-primer-on-test-doubles?u=76281980&t=136)** Due to some limitations of the language itself in [[PHP]], we can't create what would be considered canonical spies, because we lack the ability to easily introspect objects at runtime, meaning look inside them at their properties, which is what spies rely on.
 >
 > **[2:31](https://www.linkedin.com/learning/php-testing-legacy-applications/quick-primer-on-test-doubles?u=76281980&t=151)** So let's take a look at how I define the remaining four types of test doubles.
 >
@@ -398,21 +389,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (3), next (2), database (1), api (1)
+> **Frameworks & Libraries:** [[PHP]] (3)
 > **Env Vars:** php (3), tdd (1), api (1)
 > **Definitions:** is a  (5)
 > **CLI Commands:** php (3), find (1)
 > **Code Identifiers:** getmock (1), getmockbuilder (1)
 > **Speakers:** - [instructor] (1)
 
-#### Code coverage and confidence levels
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-testing-legacy-applications/code-coverage-and-confidence-levels?u=76281980)
+#### [Code coverage and confidence levels](https://www.linkedin.com/learning/php-testing-legacy-applications/code-coverage-and-confidence-levels?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/php-testing-legacy-applications/code-coverage-and-confidence-levels?u=76281980&t=0)** - [Instructor] Code coverage is a measurement of what parts of your code are executed when your tests are run.
 >
-> **[0:05](https://www.linkedin.com/learning/php-testing-legacy-applications/code-coverage-and-confidence-levels?u=76281980&t=5)** To generate this information, you'll need to install the Xdebug extension for PHP.
+> **[0:05](https://www.linkedin.com/learning/php-testing-legacy-applications/code-coverage-and-confidence-levels?u=76281980&t=5)** To generate this information, you'll need to install the Xdebug extension for [[PHP]].
 >
 > **[0:11](https://www.linkedin.com/learning/php-testing-legacy-applications/code-coverage-and-confidence-levels?u=76281980&t=11)** Many times code coverage metrics are used as a way to indicate the success or failure of a test suite.
 >
@@ -522,7 +512,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[PHP]] (1), next (1)
+> **Frameworks & Libraries:** [[PHP]] (1)
 > **CLI Commands:** make (7), php (1), find (1)
 > **Definitions:** is a  (2)
 > **Analogies:** picture (2)
@@ -531,12 +521,11 @@ created: 2026-05-02
 > **Env Vars:** php (1)
 > **Warnings:** caution (1)
 
-#### Difficult people
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-testing-legacy-applications/difficult-people?u=76281980)
+#### [Difficult people](https://www.linkedin.com/learning/php-testing-legacy-applications/difficult-people?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-testing-legacy-applications/difficult-people?u=76281980&t=0)** - [Narrator] For a very long time, I was convinced that all you needed to know in order to be a good tester like me, was to master the basic concept surrounding writing tests, learn how to use the tools, and the rest would take care of itself.
+> **[0:00](https://www.linkedin.com/learning/php-testing-legacy-applications/difficult-people?u=76281980&t=0)** - [Narrator] For a very long time, I was convinced that all you needed to know in order to be a good tester like me, was to master the basic concept surrounding writing tests, learn how to use the tools, and the [[Representational State Transfer (REST)|rest]] would take care of itself.
 >
 > **[0:12](https://www.linkedin.com/learning/php-testing-legacy-applications/difficult-people?u=76281980&t=12)** Many programmers think of ourselves as beings of pure logic.
 >
@@ -552,7 +541,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/php-testing-legacy-applications/difficult-people?u=76281980&t=31)** I want to share with you some thoughts based on my own experiences in the hope that you can come to this realization quicker than I did.
 >
-> **[0:37](https://www.linkedin.com/learning/php-testing-legacy-applications/difficult-people?u=76281980&t=37)** The first obstacle is that when people are learning PHP, tests are so far out of mind they might as well be in a different dimension.
+> **[0:37](https://www.linkedin.com/learning/php-testing-legacy-applications/difficult-people?u=76281980&t=37)** The first obstacle is that when people are learning [[PHP]], tests are so far out of mind they might as well be in a different dimension.
 >
 > **[0:44](https://www.linkedin.com/learning/php-testing-legacy-applications/difficult-people?u=76281980&t=44)** When asked what skill level is expected for my workshops, I recommend people with a firm grasp of PHP.
 >
@@ -590,7 +579,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/php-testing-legacy-applications/difficult-people?u=76281980&t=125)** I want to devote a little time to explaining how to deal with these issues.
 >
-> **[2:10](https://www.linkedin.com/learning/php-testing-legacy-applications/difficult-people?u=76281980&t=130)** When it comes to 'we don't have enough time for tests', I show people that in many cases writing tests is about moving the time you spend finding and fixing bugs, to the part of the software development lifecycle that is the cheapest and least stressful part.
+> **[2:10](https://www.linkedin.com/learning/php-testing-legacy-applications/difficult-people?u=76281980&t=130)** When it comes to 'we don't have enough time for tests', I show people that in many cases writing tests is about moving the time you spend finding and fixing bugs, to the part of the [[Software Development]] lifecycle that is the cheapest and least stressful part.
 >
 > **[2:23](https://www.linkedin.com/learning/php-testing-legacy-applications/difficult-people?u=76281980&t=143)** When a developer has their editor and other tools available to them, and the ability to focus on solving a problem.
 >
@@ -696,7 +685,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Software Development]] (1), [[Programming]] (1), business (1)
+> **Frameworks & Libraries:** [[PHP]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Software Development]] (1)
 > **CLI Commands:** find (4), php (3), make (1)
 > **Env Vars:** php (3)
 > **Definitions:** is a  (2)
@@ -708,14 +697,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Bootstrap sequences, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-testing-legacy-applications/bootstrap-sequences-part-1?u=76281980)
+#### [Bootstrap sequences, part 1](https://www.linkedin.com/learning/php-testing-legacy-applications/bootstrap-sequences-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/php-testing-legacy-applications/bootstrap-sequences-part-1?u=76281980&t=1)** - Okay, so I wanted to talk about here about bootstrapping sequences and what they have to do with testing.
 >
-> **[0:06](https://www.linkedin.com/learning/php-testing-legacy-applications/bootstrap-sequences-part-1?u=76281980&t=6)** In this current era of PHP frameworks, we tend to use ones that support what is known as the front controller design pattern.
+> **[0:06](https://www.linkedin.com/learning/php-testing-legacy-applications/bootstrap-sequences-part-1?u=76281980&t=6)** In this current era of [[PHP]] frameworks, we tend to use ones that support what is known as the front controller design pattern.
 >
 > **[0:13](https://www.linkedin.com/learning/php-testing-legacy-applications/bootstrap-sequences-part-1?u=76281980&t=13)** As a quick aside, a design pattern is like recommendations on if you're trying to solve specific tasks.
 >
@@ -737,7 +725,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/php-testing-legacy-applications/bootstrap-sequences-part-1?u=76281980&t=73)** But in this case, it is a Symfony application, a Symfony four application to be exact.
 >
-> **[1:18](https://www.linkedin.com/learning/php-testing-legacy-applications/bootstrap-sequences-part-1?u=76281980&t=78)** And, like pretty much every other PHP framework out there, whether it's Symfony, it's Laravel, you're using some version this end framework, they all use this front controller pattern.
+> **[1:18](https://www.linkedin.com/learning/php-testing-legacy-applications/bootstrap-sequences-part-1?u=76281980&t=78)** And, like pretty much every other PHP framework out there, whether it's Symfony, it's [[Laravel]], you're using some version this end framework, they all use this front controller pattern.
 >
 > **[1:28](https://www.linkedin.com/learning/php-testing-legacy-applications/bootstrap-sequences-part-1?u=76281980&t=88)** So, as you can see this file right here is the index dot PHP file that's all the way, I will show you, is in our little web directory here.
 >
@@ -827,7 +815,7 @@ created: 2026-05-02
 >
 > **[5:27](https://www.linkedin.com/learning/php-testing-legacy-applications/bootstrap-sequences-part-1?u=76281980&t=327)** But as you can see, look at all these dependencies that we have to worry about just to get our application working.
 >
-> **[5:32](https://www.linkedin.com/learning/php-testing-legacy-applications/bootstrap-sequences-part-1?u=76281980&t=332)** We have a controller, we have an action, we have several forms where we've forgotten our password, or we need to reset our password.
+> **[5:32](https://www.linkedin.com/learning/php-testing-legacy-applications/bootstrap-sequences-part-1?u=76281980&t=332)** We have a controller, we have an action, we have several [[Forms]] where we've forgotten our password, or we need to reset our password.
 >
 > **[5:38](https://www.linkedin.com/learning/php-testing-legacy-applications/bootstrap-sequences-part-1?u=76281980&t=338)** We have some helpers for templates.
 >
@@ -839,7 +827,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (17), [[PHP]] (7), web (3), generic (2), [[Debugging]] (2)
+> **Frameworks & Libraries:** [[PHP]] (7), [[Laravel]] (1), [[Forms]] (1)
 > **CLI Commands:** php (7), find (2)
 > **Env Vars:** php (7), cfp (1)
 > **Definitions:** is a  (3), known as (1), means that (1)
@@ -847,8 +835,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - okay (1)
 
-#### Bootstrap sequences, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-testing-legacy-applications/bootstrap-sequences-part-2?u=76281980)
+#### [Bootstrap sequences, part 2](https://www.linkedin.com/learning/php-testing-legacy-applications/bootstrap-sequences-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -878,7 +865,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/php-testing-legacy-applications/bootstrap-sequences-part-2?u=76281980&t=95)** So for example, let's look at this first test where I try to name things very, very descriptively.
 >
-> **[1:41](https://www.linkedin.com/learning/php-testing-legacy-applications/bootstrap-sequences-part-2?u=76281980&t=101)** PHP itself doesn't care how long function names are, there's obviously probably an internal limit, I don't know what it is 'cause I've never hit it, but you want your test names to be as verbose as possible.
+> **[1:41](https://www.linkedin.com/learning/php-testing-legacy-applications/bootstrap-sequences-part-2?u=76281980&t=101)** [[PHP]] itself doesn't care how long function names are, there's obviously probably an internal limit, I don't know what it is 'cause I've never hit it, but you want your test names to be as verbose as possible.
 >
 > **[1:52](https://www.linkedin.com/learning/php-testing-legacy-applications/bootstrap-sequences-part-2?u=76281980&t=112)** So if you notice on line 35, we have the name of the first test that we want to run.
 >
@@ -954,7 +941,7 @@ created: 2026-05-02
 >
 > **[5:51](https://www.linkedin.com/learning/php-testing-legacy-applications/bootstrap-sequences-part-2?u=76281980&t=351)** One of the challenges you have, the application the exists over time, is that the data that uses on the application submit can change over time and we don't want our tests breaking because the users have decided to send us different data.
 >
-> **[6:03](https://www.linkedin.com/learning/php-testing-legacy-applications/bootstrap-sequences-part-2?u=76281980&t=363)** You want to be filtering things, you want to be displaying things correctly and escaping values so that people can't stick weird Java Script in form fields and break your web page and leak information out that people can use.
+> **[6:03](https://www.linkedin.com/learning/php-testing-legacy-applications/bootstrap-sequences-part-2?u=76281980&t=363)** You want to be filtering things, you want to be displaying things correctly and escaping values so that people can't stick weird [[Java]] Script in form fields and break your web page and leak information out that people can use.
 >
 > **[6:15](https://www.linkedin.com/learning/php-testing-legacy-applications/bootstrap-sequences-part-2?u=76281980&t=375)** Trust me when I say using tools like this to generate random email addresses and random sentences will go a long way towards making your application a lot more robust.
 >
@@ -978,7 +965,7 @@ created: 2026-05-02
 >
 > **[7:02](https://www.linkedin.com/learning/php-testing-legacy-applications/bootstrap-sequences-part-2?u=76281980&t=422)** We have to deal with that call for papers object that we created before.
 >
-> **[7:06](https://www.linkedin.com/learning/php-testing-legacy-applications/bootstrap-sequences-part-2?u=76281980&t=426)** We're adding in things for our mailer, we're adding in things for filtering out HTML to remove weird characters.
+> **[7:06](https://www.linkedin.com/learning/php-testing-legacy-applications/bootstrap-sequences-part-2?u=76281980&t=426)** We're adding in things for our mailer, we're adding in things for filtering out [[HTML]] to remove weird characters.
 >
 > **[7:12](https://www.linkedin.com/learning/php-testing-legacy-applications/bootstrap-sequences-part-2?u=76281980&t=432)** We have to send it information about the templating engine, which is Twig, some information about that.
 >
@@ -1034,7 +1021,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), web (2), data (2), [[PHP]] (1), hit (1)
+> **Frameworks & Libraries:** [[PHP]] (1), [[Java]] (1), [[HTML]] (1)
 > **Env Vars:** url (6), http (2), php (1), html (1)
 > **CLI Commands:** make (5), php (1)
 > **UI Navigation:** scroll down (3), scroll up (1)
@@ -1043,8 +1030,7 @@ created: 2026-05-02
 > **Cross-References:** we talked about (1)
 > **Exercise Files:** template (1)
 
-#### Hard-coded dependencies
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-testing-legacy-applications/hard-coded-dependencies?u=76281980)
+#### [Hard-coded dependencies](https://www.linkedin.com/learning/php-testing-legacy-applications/hard-coded-dependencies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1054,7 +1040,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/php-testing-legacy-applications/hard-coded-dependencies?u=76281980&t=7)** Well many tests will require you to use dependencies that are set to a specific state, usually in the form of this particular method call on this particular object, needs to return this specific value.
 >
-> **[0:18](https://www.linkedin.com/learning/php-testing-legacy-applications/hard-coded-dependencies?u=76281980&t=18)** To look at it from a different point of view, consider this little code snippet from a controller class in another application that is used to track results for a simulation baseball league I have been a member of for more than 20 years.
+> **[0:18](https://www.linkedin.com/learning/php-testing-legacy-applications/hard-coded-dependencies?u=76281980&t=18)** To look at it from a different point of view, consider this little code snippet from a controller class in another application that is used to track results for a [[Simulation]] baseball league I have been a member of for more than 20 years.
 >
 > **[0:30](https://www.linkedin.com/learning/php-testing-legacy-applications/hard-coded-dependencies?u=76281980&t=30)** Yes, I have some really weird and nerdy hobbies.
 >
@@ -1076,7 +1062,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/php-testing-legacy-applications/hard-coded-dependencies?u=76281980&t=87)** So what can we do here to make this a lot easier to test?
 >
-> **[1:30](https://www.linkedin.com/learning/php-testing-legacy-applications/hard-coded-dependencies?u=76281980&t=90)** In a lot of cases it will require some code refactoring so we can set that value at runtime.
+> **[1:30](https://www.linkedin.com/learning/php-testing-legacy-applications/hard-coded-dependencies?u=76281980&t=90)** In a lot of cases it will require some [[Code Refactoring]] so we can set that value at runtime.
 >
 > **[1:36](https://www.linkedin.com/learning/php-testing-legacy-applications/hard-coded-dependencies?u=76281980&t=96)** In this instance we have it a little easier because we are assigning a value to a publicly scoped class attribute.
 >
@@ -1088,7 +1074,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/php-testing-legacy-applications/hard-coded-dependencies?u=76281980&t=115)** Then we're going to override the value that's in that class attribute with the double that we created.
 >
-> **[2:00](https://www.linkedin.com/learning/php-testing-legacy-applications/hard-coded-dependencies?u=76281980&t=120)** And then what, of course, you're not seeing is the rest of the arrange step that would follow.
+> **[2:00](https://www.linkedin.com/learning/php-testing-legacy-applications/hard-coded-dependencies?u=76281980&t=120)** And then what, of course, you're not seeing is the [[Representational State Transfer (REST)|rest]] of the arrange step that would follow.
 >
 > **[2:04](https://www.linkedin.com/learning/php-testing-legacy-applications/hard-coded-dependencies?u=76281980&t=124)** So that was a relatively easy problem to solve.
 >
@@ -1140,13 +1126,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[Representational State Transfer (REST)|Rest]] (2), [[Simulation]] (1), [[Code Refactoring]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Simulation]] (1), [[Code Refactoring]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Difficult deployments
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-testing-legacy-applications/difficult-deployments?u=76281980)
+#### [Difficult deployments](https://www.linkedin.com/learning/php-testing-legacy-applications/difficult-deployments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1182,7 +1167,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/php-testing-legacy-applications/difficult-deployments?u=76281980&t=83)** So what are some other things we need to worry about?
 >
-> **[1:26](https://www.linkedin.com/learning/php-testing-legacy-applications/difficult-deployments?u=76281980&t=86)** Well we need to worry about package management.
+> **[1:26](https://www.linkedin.com/learning/php-testing-legacy-applications/difficult-deployments?u=76281980&t=86)** Well we need to worry about [[Package Management]].
 >
 > **[1:28](https://www.linkedin.com/learning/php-testing-legacy-applications/difficult-deployments?u=76281980&t=88)** Composer is a tool that solve package management issues by giving you the ability to install packages of code locally, just for your application, instead of having to install them globally, where everything could find them.
 >
@@ -1190,7 +1175,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/php-testing-legacy-applications/difficult-deployments?u=76281980&t=111)** And Packagist is the complementary tool for Composer that allows you to search for packages of code that you can install using Composer.
 >
-> **[1:58](https://www.linkedin.com/learning/php-testing-legacy-applications/difficult-deployments?u=76281980&t=118)** The steps involved in publishing a package are very easy and the open source community gets the benefit from having one centralized location to look for packages to build your PHP applications with.
+> **[1:58](https://www.linkedin.com/learning/php-testing-legacy-applications/difficult-deployments?u=76281980&t=118)** The steps involved in publishing a package are very easy and the open source community gets the benefit from having one centralized location to look for packages to build your [[PHP]] applications with.
 >
 > **[2:09](https://www.linkedin.com/learning/php-testing-legacy-applications/difficult-deployments?u=76281980&t=129)** I think at this point, it is a highly recommended noncontroversial practice to install your PHP libraries using Composer.
 >
@@ -1218,7 +1203,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/php-testing-legacy-applications/difficult-deployments?u=76281980&t=203)** So finally, I wanted to briefly talk about what people refer to as sight assets.
 >
-> **[3:28](https://www.linkedin.com/learning/php-testing-legacy-applications/difficult-deployments?u=76281980&t=208)** Now, the days of just throwing JavaScript and CSS files into a directory and calling it a day are over.
+> **[3:28](https://www.linkedin.com/learning/php-testing-legacy-applications/difficult-deployments?u=76281980&t=208)** Now, the days of just throwing [[JavaScript]] and CSS files into a directory and calling it a day are over.
 >
 > **[3:33](https://www.linkedin.com/learning/php-testing-legacy-applications/difficult-deployments?u=76281980&t=213)** People are using asset management tools like Gulp and Grunt to package up all the assets your application needs.
 >
@@ -1236,7 +1221,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (12), data (7), [[Package Management]] (2), [[PHP]] (2), [[JavaScript]] (2)
+> **Frameworks & Libraries:** [[Package Management]] (2), [[PHP]] (2), [[JavaScript]] (2)
 > **CLI Commands:** composer (5), make (2), php (2), find (1)
 > **Prerequisites:** install (7), make sure you have (1)
 > **Env Vars:** php (2), css (2)
@@ -1244,8 +1229,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Poor package management practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-testing-legacy-applications/poor-package-management-practices?u=76281980)
+#### [Poor package management practices](https://www.linkedin.com/learning/php-testing-legacy-applications/poor-package-management-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1257,7 +1241,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/php-testing-legacy-applications/poor-package-management-practices?u=76281980&t=16)** How do we package up libraries of code in such a way that they can be easily distributed and easily installed?
 >
-> **[0:22](https://www.linkedin.com/learning/php-testing-legacy-applications/poor-package-management-practices?u=76281980&t=22)** Before Composer, your choices were things like PEAR, the PHP Extension and Application Repository, or copying them to a location on the file system somewhere in PHP's load path.
+> **[0:22](https://www.linkedin.com/learning/php-testing-legacy-applications/poor-package-management-practices?u=76281980&t=22)** Before Composer, your choices were things like PEAR, the [[PHP]] Extension and Application Repository, or copying them to a location on the file system somewhere in PHP's load path.
 >
 > **[0:33](https://www.linkedin.com/learning/php-testing-legacy-applications/poor-package-management-practices?u=76281980&t=33)** I don't think it's any kind of hyperbole to say that Composer changed the way PHP developers build their applications.
 >
@@ -1267,7 +1251,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/php-testing-legacy-applications/poor-package-management-practices?u=76281980&t=58)** Hey, sometimes we're just not allowed to share.
 >
-> **[1:01](https://www.linkedin.com/learning/php-testing-legacy-applications/poor-package-management-practices?u=76281980&t=61)** Now, if you look at package management in the context of testing, you'll quickly understand why Composer is so powerful and what problem it is solving.
+> **[1:01](https://www.linkedin.com/learning/php-testing-legacy-applications/poor-package-management-practices?u=76281980&t=61)** Now, if you look at [[Package Management]] in the context of testing, you'll quickly understand why Composer is so powerful and what problem it is solving.
 >
 > **[1:09](https://www.linkedin.com/learning/php-testing-legacy-applications/poor-package-management-practices?u=76281980&t=69)** Imagine if instead of being installed right in the same directory as your application's code, all your third-party dependencies are installed somewhere else on the file system.
 >
@@ -1277,7 +1261,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/php-testing-legacy-applications/poor-package-management-practices?u=76281980&t=96)** This will allow you to do the easiest ever deployment technique for your code.
 >
-> **[1:41](https://www.linkedin.com/learning/php-testing-legacy-applications/poor-package-management-practices?u=76281980&t=101)** Create an archive of your codebase using your preferred tool like ZIP or the built-in archiving tool for Macintosh or whatever you're using if you're using a Linux-based system.
+> **[1:41](https://www.linkedin.com/learning/php-testing-legacy-applications/poor-package-management-practices?u=76281980&t=101)** Create an archive of your codebase using your preferred tool like ZIP or the built-in archiving tool for Macintosh or whatever you're using if you're using a [[Linux]]-based system.
 >
 > **[1:50](https://www.linkedin.com/learning/php-testing-legacy-applications/poor-package-management-practices?u=76281980&t=110)** Send that archive to someone else.
 >
@@ -1293,7 +1277,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/php-testing-legacy-applications/poor-package-management-practices?u=76281980&t=146)** It allows us to no longer have to use a require statement for every single class that we wish to include in our code.
 >
-> **[2:32](https://www.linkedin.com/learning/php-testing-legacy-applications/poor-package-management-practices?u=76281980&t=152)** Instead, we just load our autoloader script, and then PHP handles the rest.
+> **[2:32](https://www.linkedin.com/learning/php-testing-legacy-applications/poor-package-management-practices?u=76281980&t=152)** Instead, we just load our autoloader script, and then PHP handles the [[Representational State Transfer (REST)|rest]].
 >
 > **[2:37](https://www.linkedin.com/learning/php-testing-legacy-applications/poor-package-management-practices?u=76281980&t=157)** Again, I cannot emphasize enough how helpful Composer is when you are trying to deploy code in a different environment for testing purposes.
 >
@@ -1311,7 +1295,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (9), [[PHP]] (7), [[Package Management]] (2), open-source (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[PHP]] (7), [[Package Management]] (2), [[Linux]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** composer (14), php (7), find (2), make (2)
 > **Env Vars:** php (7), pear (1), zip (1), ftp (1)
 > **Prerequisites:** install (2)
@@ -1325,8 +1309,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Just how many tests do we need?
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-testing-legacy-applications/just-how-many-tests-do-we-need?u=76281980)
+#### [Just how many tests do we need?](https://www.linkedin.com/learning/php-testing-legacy-applications/just-how-many-tests-do-we-need?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1348,13 +1331,13 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/php-testing-legacy-applications/just-how-many-tests-do-we-need?u=76281980&t=39)** Also it made total sense that the whole team needed to be around in case something broke.
 >
-> **[0:43](https://www.linkedin.com/learning/php-testing-legacy-applications/just-how-many-tests-do-we-need?u=76281980&t=43)** This was in 2003, before the tools and concepts I talk about were being widely promoted in the PHP world.
+> **[0:43](https://www.linkedin.com/learning/php-testing-legacy-applications/just-how-many-tests-do-we-need?u=76281980&t=43)** This was in 2003, before the tools and concepts I talk about were being widely promoted in the [[PHP]] world.
 >
 > **[0:49](https://www.linkedin.com/learning/php-testing-legacy-applications/just-how-many-tests-do-we-need?u=76281980&t=49)** We literally weren't aware there was a better way.
 >
 > **[0:53](https://www.linkedin.com/learning/php-testing-legacy-applications/just-how-many-tests-do-we-need?u=76281980&t=53)** It still was wrong to make us all stay instead of identifying who had code that was going up in the latest release.
 >
-> **[0:57](https://www.linkedin.com/learning/php-testing-legacy-applications/just-how-many-tests-do-we-need?u=76281980&t=57)** We did have version control back in those dark days, so it would have been easy to figure out, but nobody cared.
+> **[0:57](https://www.linkedin.com/learning/php-testing-legacy-applications/just-how-many-tests-do-we-need?u=76281980&t=57)** We did have [[Version Control]] back in those dark days, so it would have been easy to figure out, but nobody cared.
 >
 > **[1:03](https://www.linkedin.com/learning/php-testing-legacy-applications/just-how-many-tests-do-we-need?u=76281980&t=63)** Still, this doesn't provide some kind of metric to aim for.
 >
@@ -1398,13 +1381,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[PHP]] (1), [[Version Control]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[PHP]] (1), [[Version Control]] (1)
 > **CLI Commands:** make (2), php (1)
 > **Env Vars:** php (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tests as questions
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-testing-legacy-applications/tests-as-questions?u=76281980)
+#### [Tests as questions](https://www.linkedin.com/learning/php-testing-legacy-applications/tests-as-questions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1444,7 +1426,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/php-testing-legacy-applications/tests-as-questions?u=76281980&t=90)** I want to expand on this idea a little bit more.
 >
-> **[1:33](https://www.linkedin.com/learning/php-testing-legacy-applications/tests-as-questions?u=76281980&t=93)** I have told many, many people that test-driven development is a design tool and the tests are just part of the design.
+> **[1:33](https://www.linkedin.com/learning/php-testing-legacy-applications/tests-as-questions?u=76281980&t=93)** I have told many, many people that [[Test-Driven Development]] is a design tool and the tests are just part of the design.
 >
 > **[1:39](https://www.linkedin.com/learning/php-testing-legacy-applications/tests-as-questions?u=76281980&t=99)** But this doesn't mean that TDD automatically ensures the design of the code will be perfect.
 >
@@ -1484,14 +1466,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Test-Driven Development]] (2), data (2), database (1), next (1)
+> **Frameworks & Libraries:** [[Test-Driven Development]] (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** tdd (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### How we decide what to test?
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-testing-legacy-applications/how-we-decide-what-to-test?u=76281980)
+#### [How we decide what to test?](https://www.linkedin.com/learning/php-testing-legacy-applications/how-we-decide-what-to-test?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1567,13 +1548,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), next (2), functional (1)
 > **Definitions:** means that (2), is a  (1), known as (1), in other words (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Real vs. monkey patch vs. double
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-testing-legacy-applications/real-vs-monkey-patch-vs-double?u=76281980)
+#### [Real vs. monkey patch vs. double](https://www.linkedin.com/learning/php-testing-legacy-applications/real-vs-monkey-patch-vs-double?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1585,7 +1564,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/php-testing-legacy-applications/real-vs-monkey-patch-vs-double?u=76281980&t=32)** It could be perfectly logical to use a real dependency for one test and a double for the other.
 >
-> **[0:37](https://www.linkedin.com/learning/php-testing-legacy-applications/real-vs-monkey-patch-vs-double?u=76281980&t=37)** So what do I look for when deciding what version, for lack of a better word of a dependency to use?
+> **[0:37](https://www.linkedin.com/learning/php-testing-legacy-applications/real-vs-monkey-patch-vs-double?u=76281980&t=37)** So what do I look for when deciding what version, for lack of a better [[Microsoft Word|word]] of a dependency to use?
 >
 > **[0:41](https://www.linkedin.com/learning/php-testing-legacy-applications/real-vs-monkey-patch-vs-double?u=76281980&t=41)** Does it write data to a data store of some sort?
 >
@@ -1597,7 +1576,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/php-testing-legacy-applications/real-vs-monkey-patch-vs-double?u=76281980&t=55)** In other videos I have talked about test doubles, but I want to introduce another concept that can be used to create dependencies in our tests.
 >
-> **[1:02](https://www.linkedin.com/learning/php-testing-legacy-applications/real-vs-monkey-patch-vs-double?u=76281980&t=62)** Monkey patching is a dependency substitution technique that is quite common with Ruby developers, but not that common for people working with PHP code.
+> **[1:02](https://www.linkedin.com/learning/php-testing-legacy-applications/real-vs-monkey-patch-vs-double?u=76281980&t=62)** Monkey patching is a dependency substitution technique that is quite common with Ruby developers, but not that common for people working with [[PHP]] code.
 >
 > **[1:08](https://www.linkedin.com/learning/php-testing-legacy-applications/real-vs-monkey-patch-vs-double?u=76281980&t=68)** I have no idea where the name came from, but developers like funny sounding names for things.
 >
@@ -1629,7 +1608,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/php-testing-legacy-applications/real-vs-monkey-patch-vs-double?u=76281980&t=142)** You can clearly see the arranged act assert pattern in play.
 >
-> **[2:25](https://www.linkedin.com/learning/php-testing-legacy-applications/real-vs-monkey-patch-vs-double?u=76281980&t=145)** We tell the test framework that we want to override any calls using prepare and fetch all that are using PDO to instead return this array of results we need for our test.
+> **[2:25](https://www.linkedin.com/learning/php-testing-legacy-applications/real-vs-monkey-patch-vs-double?u=76281980&t=145)** We tell the test framework that we want to override any calls using prepare and [[Fetch]] all that are using PDO to instead return this array of results we need for our test.
 >
 > **[2:35](https://www.linkedin.com/learning/php-testing-legacy-applications/real-vs-monkey-patch-vs-double?u=76281980&t=155)** The act and assert steps are basically the same as if we were using PHP unit.
 >
@@ -1637,7 +1616,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/php-testing-legacy-applications/real-vs-monkey-patch-vs-double?u=76281980&t=161)** You will find out as you explore other testing frameworks, the concepts I am teaching you in this course are transferrable.
 >
-> **[2:47](https://www.linkedin.com/learning/php-testing-legacy-applications/real-vs-monkey-patch-vs-double?u=76281980&t=167)** I also spent a lot of time writing tests using Python, and their testing tools have their own weird syntax.
+> **[2:47](https://www.linkedin.com/learning/php-testing-legacy-applications/real-vs-monkey-patch-vs-double?u=76281980&t=167)** I also spent a lot of time writing tests using [[Python (Programming Language)|Python]], and their testing tools have their own weird syntax.
 >
 > **[2:53](https://www.linkedin.com/learning/php-testing-legacy-applications/real-vs-monkey-patch-vs-double?u=76281980&t=173)** But at the end of the day I am still able to use the familiar arrange act assert pattern.
 >
@@ -1665,7 +1644,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (5), data (2), database (2), [[Microsoft Word|Word]] (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[PHP]] (5), [[Microsoft Word|Word]] (1), [[Fetch]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** php (5), make (4), ruby (1), find (1), python (1)
 > **Env Vars:** php (5), pdo (2), http (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -1678,8 +1657,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why test a legacy application?
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-testing-legacy-applications/why-test-a-legacy-application?u=76281980)
+#### [Why test a legacy application?](https://www.linkedin.com/learning/php-testing-legacy-applications/why-test-a-legacy-application?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1691,7 +1669,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/php-testing-legacy-applications/why-test-a-legacy-application?u=76281980&t=20)** It's about 12 years old.
 >
-> **[0:21](https://www.linkedin.com/learning/php-testing-legacy-applications/why-test-a-legacy-application?u=76281980&t=21)** It is used by the simulation baseball league that I've been a member of for 21 years, which is a really long time to be doing a hobby, to maintain rosters and trade information, and anything to do with players moving around between teams.
+> **[0:21](https://www.linkedin.com/learning/php-testing-legacy-applications/why-test-a-legacy-application?u=76281980&t=21)** It is used by the [[Simulation]] baseball league that I've been a member of for 21 years, which is a really long time to be doing a hobby, to maintain rosters and trade information, and anything to do with players moving around between teams.
 >
 > **[0:36](https://www.linkedin.com/learning/php-testing-legacy-applications/why-test-a-legacy-application?u=76281980&t=36)** So recently I was asked to modify some existing behavior of this application.
 >
@@ -1699,7 +1677,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/php-testing-legacy-applications/why-test-a-legacy-application?u=76281980&t=45)** We're trying to make sure the application behaves the way that we expected.
 >
-> **[0:49](https://www.linkedin.com/learning/php-testing-legacy-applications/why-test-a-legacy-application?u=76281980&t=49)** So I was recently asked to change this Git by nickname, not that that you see starting on line 24.
+> **[0:49](https://www.linkedin.com/learning/php-testing-legacy-applications/why-test-a-legacy-application?u=76281980&t=49)** So I was recently asked to change this [[Git]] by nickname, not that that you see starting on line 24.
 >
 > **[0:55](https://www.linkedin.com/learning/php-testing-legacy-applications/why-test-a-legacy-application?u=76281980&t=55)** What it does as a super quick summary, you pass at the three character short name for a franchise in the league, it talks to the database a few times to get a list of players and draft picks and sorts them in a specific way where we want batters first, organized by a major league baseball team, then pitchers organized by major league baseball team and then finally, draft picks organized by a custom sort that consists of what you would call natural sorting of numbers where, normally when you do comparisons of strings one and 10, sometimes end up coming before two.
 >
@@ -1723,13 +1701,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), [[Simulation]] (1), teams (1), [[Git]] (1), database (1)
+> **Frameworks & Libraries:** [[Simulation]] (1), [[Git]] (1)
 > **CLI Commands:** make (2), git (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identifying dependencies
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-testing-legacy-applications/identifying-dependencies?u=76281980)
+#### [Identifying dependencies](https://www.linkedin.com/learning/php-testing-legacy-applications/identifying-dependencies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1741,9 +1718,9 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/php-testing-legacy-applications/identifying-dependencies?u=76281980&t=18)** The first one is if we look at the code in question on line 12 we have the constructor for our roster model object.
 >
-> **[0:26](https://www.linkedin.com/learning/php-testing-legacy-applications/identifying-dependencies?u=76281980&t=26)** So the first thing we're doing is we're passing in from outside, so passing it in at runtime, a query factory object that the rest of the code needs.
+> **[0:26](https://www.linkedin.com/learning/php-testing-legacy-applications/identifying-dependencies?u=76281980&t=26)** So the first thing we're doing is we're passing in from outside, so passing it in at runtime, a query factory object that the [[Representational State Transfer (REST)|rest]] of the code needs.
 >
-> **[0:34](https://www.linkedin.com/learning/php-testing-legacy-applications/identifying-dependencies?u=76281980&t=34)** And that's stored in a property of the class called _db and then we're also using PHP's PDO library to create another database connection.
+> **[0:34](https://www.linkedin.com/learning/php-testing-legacy-applications/identifying-dependencies?u=76281980&t=34)** And that's stored in a property of the class called _db and then we're also using [[PHP]]'s PDO library to create another database connection.
 >
 > **[0:42](https://www.linkedin.com/learning/php-testing-legacy-applications/identifying-dependencies?u=76281980&t=42)** Obviously over time this code changes and we just add layer upon layer and sometimes I was in a hurry and just added code in without really going and refactoring.
 >
@@ -1753,7 +1730,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/php-testing-legacy-applications/identifying-dependencies?u=76281980&t=57)** As you can see, we're using PDO.
 >
-> **[0:59](https://www.linkedin.com/learning/php-testing-legacy-applications/identifying-dependencies?u=76281980&t=59)** We need Postgres.
+> **[0:59](https://www.linkedin.com/learning/php-testing-legacy-applications/identifying-dependencies?u=76281980&t=59)** We need [[PostgreSQL|Postgres]].
 >
 > **[1:00](https://www.linkedin.com/learning/php-testing-legacy-applications/identifying-dependencies?u=76281980&t=60)** So if you're going to follow along with this sample code, you need to make sure you have Postgres installed on the computer where you're doing the work.
 >
@@ -1795,7 +1772,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), [[PostgreSQL|Postgres]] (4), data (3), [[PHP]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (4), [[PHP]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** pdo (3), php (2)
 > **Prerequisites:** install (2), make sure you have (1), set up (1)
 > **CLI Commands:** php (2), make (1)
@@ -1804,8 +1781,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Best Practices:** you should always (1)
 
-#### Planning a scenario
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-testing-legacy-applications/planning-a-scenario?u=76281980)
+#### [Planning a scenario](https://www.linkedin.com/learning/php-testing-legacy-applications/planning-a-scenario?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1879,7 +1855,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/php-testing-legacy-applications/planning-a-scenario?u=76281980&t=163)** We'll see the version of PHPUnit that we're using, which in this case is 6.5.6.
 >
-> **[2:49](https://www.linkedin.com/learning/php-testing-legacy-applications/planning-a-scenario?u=76281980&t=169)** We're running PHP 7.1.
+> **[2:49](https://www.linkedin.com/learning/php-testing-legacy-applications/planning-a-scenario?u=76281980&t=169)** We're running [[PHP]] 7.1.
 >
 > **[2:51](https://www.linkedin.com/learning/php-testing-legacy-applications/planning-a-scenario?u=76281980&t=171)** I highly recommend people always use the latest stable version that's available for your operating system.
 >
@@ -1933,11 +1909,11 @@ created: 2026-05-02
 >
 > **[4:17](https://www.linkedin.com/learning/php-testing-legacy-applications/planning-a-scenario?u=76281980&t=257)** So we're going to need to create a QueryFactory object, because that is a dependency.
 >
-> **[4:24](https://www.linkedin.com/learning/php-testing-legacy-applications/planning-a-scenario?u=76281980&t=264)** We need to make sure we have a Postgres database running.
+> **[4:24](https://www.linkedin.com/learning/php-testing-legacy-applications/planning-a-scenario?u=76281980&t=264)** We need to make sure we have a [[PostgreSQL|Postgres]] database running.
 >
 > **[4:33](https://www.linkedin.com/learning/php-testing-legacy-applications/planning-a-scenario?u=76281980&t=273)** Remember in the video where we were identifying dependencies, I showed how I added some lines into the code that I am testing that are now commented out.
 >
-> **[4:41](https://www.linkedin.com/learning/php-testing-legacy-applications/planning-a-scenario?u=76281980&t=281)** That write the results of database queries to disk so we can read them later.
+> **[4:41](https://www.linkedin.com/learning/php-testing-legacy-applications/planning-a-scenario?u=76281980&t=281)** That write the results of [[Database Queries]] to disk so we can read them later.
 >
 > **[4:45](https://www.linkedin.com/learning/php-testing-legacy-applications/planning-a-scenario?u=76281980&t=285)** I need to make a note that I need to read those in.
 >
@@ -1957,7 +1933,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[PHP]] (2), next (2), database (2), functional (1)
+> **Frameworks & Libraries:** [[PHP]] (2), [[PostgreSQL|Postgres]] (1), [[Database Queries]] (1)
 > **CLI Commands:** make (3), composer (2), php (2)
 > **Definitions:** is a  (4)
 > **Code Identifiers:** sortorderworksasexpected (1), asserttrue (1), getbynickname (1)
@@ -1966,8 +1942,7 @@ created: 2026-05-02
 > **Env Vars:** php (2)
 > **Cross-References:** go back to (1), in the next (1)
 
-#### Building a scenario
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-testing-legacy-applications/building-a-scenario?u=76281980)
+#### [Building a scenario](https://www.linkedin.com/learning/php-testing-legacy-applications/building-a-scenario?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1999,7 +1974,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/php-testing-legacy-applications/building-a-scenario?u=76281980&t=92)** Now how do I include that for use in this test?
 >
-> **[1:35](https://www.linkedin.com/learning/php-testing-legacy-applications/building-a-scenario?u=76281980&t=95)** In the db_config file we have a use line here that tells PHP, I want to use this particular object.
+> **[1:35](https://www.linkedin.com/learning/php-testing-legacy-applications/building-a-scenario?u=76281980&t=95)** In the db_config file we have a use line here that tells [[PHP]], I want to use this particular object.
 >
 > **[1:43](https://www.linkedin.com/learning/php-testing-legacy-applications/building-a-scenario?u=76281980&t=103)** So I go back to my test, add the Query Factory into it, save it, and let's go back to the terminal.
 >
@@ -2069,7 +2044,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (4), [[PHP]] (1)
+> **Frameworks & Libraries:** [[PHP]] (1)
 > **Cross-References:** go back to (10), previous video (2)
 > **Code Identifiers:** db_config (2), file_get_contents (2), rostermodel (2), expectedroster (1), mad_roster (1)
 > **CLI Commands:** make (3), find (3), php (1), go run (1)
@@ -2078,8 +2053,7 @@ created: 2026-05-02
 > **File Paths:** mad_roster.txt (1)
 > **Env Vars:** php (1)
 
-#### Planning real to doubles
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-testing-legacy-applications/planning-real-to-doubles?u=76281980)
+#### [Planning real to doubles](https://www.linkedin.com/learning/php-testing-legacy-applications/planning-real-to-doubles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2097,7 +2071,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/php-testing-legacy-applications/planning-real-to-doubles?u=76281980&t=55)** So if we go over what we have here already on lines 14 through 19, where I'm describing the test, I'm going to now describe as if we're using doubles, so as before, we had a QueryFactory object, I'm going to need to create a QueryFactory double.
 >
-> **[1:14](https://www.linkedin.com/learning/php-testing-legacy-applications/planning-real-to-doubles?u=76281980&t=74)** The next step was make sure we have a Postgres database running.
+> **[1:14](https://www.linkedin.com/learning/php-testing-legacy-applications/planning-real-to-doubles?u=76281980&t=74)** The next step was make sure we have a [[PostgreSQL|Postgres]] database running.
 >
 > **[1:17](https://www.linkedin.com/learning/php-testing-legacy-applications/planning-real-to-doubles?u=76281980&t=77)** Well, we're not going to be using the database in this test at all, so now we have to think about how the dependencies change, so for that, we need to go back into our code and take a quick look at what we can do here.
 >
@@ -2149,7 +2123,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), next (4), data (3), [[PostgreSQL|Postgres]] (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** pdo (5)
 > **Code Identifiers:** sortorderworksasexpectedwithdoubles (1), getbynickname (1)
@@ -2158,8 +2132,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
 
-#### Building real to doubles
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-testing-legacy-applications/building-real-to-doubles?u=76281980)
+#### [Building real to doubles](https://www.linkedin.com/learning/php-testing-legacy-applications/building-real-to-doubles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2193,7 +2166,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/php-testing-legacy-applications/building-real-to-doubles?u=76281980&t=93)** The authors of Mockery recommend that you add some code to the teardown statement for your test case that clears out any memory associated with creating our test doubles so that our tests don't run out of memory.
 >
-> **[1:45](https://www.linkedin.com/learning/php-testing-legacy-applications/building-real-to-doubles?u=76281980&t=105)** PHP can be limited in how much memory you use at once so it's better to release these things so future tests that aren't relying on doubles are okay and won't cause the interpreter to crash.
+> **[1:45](https://www.linkedin.com/learning/php-testing-legacy-applications/building-real-to-doubles?u=76281980&t=105)** [[PHP]] can be limited in how much memory you use at once so it's better to release these things so future tests that aren't relying on doubles are okay and won't cause the interpreter to crash.
 >
 > **[1:56](https://www.linkedin.com/learning/php-testing-legacy-applications/building-real-to-doubles?u=76281980&t=116)** So in order to release the memory that Mockery uses we need to add a teardown statement to our test case here.
 >
@@ -2221,7 +2194,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/php-testing-legacy-applications/building-real-to-doubles?u=76281980&t=223)** Next I need to get the data that I wrote previously, that's supposed to be returned from the database column, unserialize it and put it into variables that we can then use later.
 >
-> **[3:53](https://www.linkedin.com/learning/php-testing-legacy-applications/building-real-to-doubles?u=76281980&t=233)** On line 62 through 64, and 67 through 69 I'm creating PDO statements, where I'm telling it I'm expecting to see an execute method called, I'm expecting to see one fetch all call, and then I want to return the raw roster information, then I'm expecting to see another fetch all call that's going to be called once that will return the raw picks.
+> **[3:53](https://www.linkedin.com/learning/php-testing-legacy-applications/building-real-to-doubles?u=76281980&t=233)** On line 62 through 64, and 67 through 69 I'm creating PDO statements, where I'm telling it I'm expecting to see an execute method called, I'm expecting to see one [[Fetch]] all call, and then I want to return the raw roster information, then I'm expecting to see another fetch all call that's going to be called once that will return the raw picks.
 >
 > **[4:17](https://www.linkedin.com/learning/php-testing-legacy-applications/building-real-to-doubles?u=76281980&t=257)** Then I need to create a double of the PDO object the code is using that will return the PDO statement that I created on the lines above it.
 >
@@ -2257,7 +2230,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Fetch]] (2), application (1), [[PHP]] (1), data (1)
+> **Frameworks & Libraries:** [[Fetch]] (2), [[PHP]] (1)
 > **Env Vars:** pdo (4), php (1), todo (1)
 > **CLI Commands:** make (2), composer (1), php (1)
 > **Definitions:** is a  (3)
@@ -2266,8 +2239,7 @@ created: 2026-05-02
 > **Tools:** terminal (2)
 > **Speakers:** - [narrator] (1)
 
-#### Refactor your tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-testing-legacy-applications/refactor-your-tests?u=76281980)
+#### [Refactor your tests](https://www.linkedin.com/learning/php-testing-legacy-applications/refactor-your-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2353,7 +2325,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1), application (1), generic (1)
 > **Tools:** terminal (4)
 > **CLI Commands:** make (2), find (1)
 > **Code Identifiers:** createnewselectmock (2), newselect (1)
@@ -2361,8 +2332,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Add getters and setters
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-testing-legacy-applications/add-getters-and-setters?u=76281980)
+#### [Add getters and setters](https://www.linkedin.com/learning/php-testing-legacy-applications/add-getters-and-setters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2384,7 +2354,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/php-testing-legacy-applications/add-getters-and-setters?u=76281980&t=51)** So right below our constructor, I'm just going to add method called getPdo and all it's going to do is just return the internal PDO attributes.
 >
-> **[1:04](https://www.linkedin.com/learning/php-testing-legacy-applications/add-getters-and-setters?u=76281980&t=64)** If you've done any work with Java then this sort of pattern of using getters and setters will be very familiar to you.
+> **[1:04](https://www.linkedin.com/learning/php-testing-legacy-applications/add-getters-and-setters?u=76281980&t=64)** If you've done any work with [[Java]] then this sort of pattern of using getters and setters will be very familiar to you.
 >
 > **[1:10](https://www.linkedin.com/learning/php-testing-legacy-applications/add-getters-and-setters?u=76281980&t=70)** And then we need to create the other complimentary function to it where we will add public function setPdo pass in a value ($value) and then we go $this->pdo = value; Let's save that.
 >
@@ -2456,7 +2426,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **CLI Commands:** make (5), find (1)
 > **Env Vars:** pdo (5)
 > **Tools:** terminal (5)
@@ -2470,8 +2440,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-testing-legacy-applications/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/php-testing-legacy-applications/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2501,7 +2470,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1)
 > **URLs:** [grumpy-learning.com](https://grumpy-learning.com) (1)
 > **Speakers:** - [chris] (1)
 

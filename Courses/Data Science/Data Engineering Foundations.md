@@ -86,26 +86,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is data engineering?
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-foundations/what-is-data-engineering?u=76281980)
+#### [What is data engineering?](https://www.linkedin.com/learning/data-engineering-foundations/what-is-data-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-engineering-foundations/what-is-data-engineering?u=76281980&t=0)** - [Harshit] There's so many appealing buzzwords in tech these days.
 >
-> **[0:03](https://www.linkedin.com/learning/data-engineering-foundations/what-is-data-engineering?u=76281980&t=3)** Knowing your way around machine learning, artificial intelligence, neural networks, et cetera, and while writing algorithms to make predictions is a hot new skill, ot is not the only one you need to get started in this business.
+> **[0:03](https://www.linkedin.com/learning/data-engineering-foundations/what-is-data-engineering?u=76281980&t=3)** Knowing your way around machine learning, [[Artificial Intelligence (AI)|artificial intelligence]], [[Neural Networks]], et cetera, and while writing [[Algorithms]] to make predictions is a hot new skill, ot is not the only one you need to get started in this business.
 >
-> **[0:16](https://www.linkedin.com/learning/data-engineering-foundations/what-is-data-engineering?u=76281980&t=16)** In the modern big data system, the person who writes algorithms is not the one who cleans the data.
+> **[0:16](https://www.linkedin.com/learning/data-engineering-foundations/what-is-data-engineering?u=76281980&t=16)** In the modern [[Big Data]] system, the person who writes algorithms is not the one who cleans the data.
 >
 > **[0:22](https://www.linkedin.com/learning/data-engineering-foundations/what-is-data-engineering?u=76281980&t=22)** Now laying out data for scientists and researchers has become a complex problem in itself.
 >
 > **[0:28](https://www.linkedin.com/learning/data-engineering-foundations/what-is-data-engineering?u=76281980&t=28)** This is where data engineers step in and find their role in this ecosystem.
 >
-> **[0:33](https://www.linkedin.com/learning/data-engineering-foundations/what-is-data-engineering?u=76281980&t=33)** Hi, I am Harshit Tyagi and in this course we are going to learn the foundations of data engineering.
+> **[0:33](https://www.linkedin.com/learning/data-engineering-foundations/what-is-data-engineering?u=76281980&t=33)** Hi, I am Harshit Tyagi and in this course we are going to learn the foundations of [[Data Engineering]].
 >
-> **[0:39](https://www.linkedin.com/learning/data-engineering-foundations/what-is-data-engineering?u=76281980&t=39)** We'll start by understanding the meaning of data engineering, how it is different from data science, and what tools you should master in order to develop data pipelines.
+> **[0:39](https://www.linkedin.com/learning/data-engineering-foundations/what-is-data-engineering?u=76281980&t=39)** We'll start by understanding the meaning of data engineering, how it is different from [[Data Science]], and what tools you should master in order to develop [[Data Pipelines]].
 >
-> **[0:48](https://www.linkedin.com/learning/data-engineering-foundations/what-is-data-engineering?u=76281980&t=48)** Then we'll study the foundations of a big data system, like databases and distributed computing.
+> **[0:48](https://www.linkedin.com/learning/data-engineering-foundations/what-is-data-engineering?u=76281980&t=48)** Then we'll study the foundations of a big data system, like [[Databases]] and distributed computing.
 >
 > **[0:55](https://www.linkedin.com/learning/data-engineering-foundations/what-is-data-engineering?u=76281980&t=55)** Further on, we'll learn about the tools that would come in handy to address each type of problem while developing an ETL data pipeline.
 >
@@ -117,7 +116,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Algorithms]] (2), [[Big Data]] (2), [[Data Engineering]] (2), etl (2)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Big Data]] (2), [[Data Engineering]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Neural Networks]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** etl (2)
 > **Cross-References:** in the last (1)
@@ -129,14 +128,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to data engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-foundations/introduction-to-data-engineering?u=76281980)
+#### [Introduction to data engineering](https://www.linkedin.com/learning/data-engineering-foundations/introduction-to-data-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-engineering-foundations/introduction-to-data-engineering?u=76281980&t=0)** - [Instructor] If you have ever heard of the data science, there's a good chance you have heard of data engineering as well.
+> **[0:00](https://www.linkedin.com/learning/data-engineering-foundations/introduction-to-data-engineering?u=76281980&t=0)** - [Instructor] If you have ever heard of the [[Data Science]], there's a good chance you have heard of [[Data Engineering]] as well.
 >
-> **[0:06](https://www.linkedin.com/learning/data-engineering-foundations/introduction-to-data-engineering?u=76281980&t=6)** As the data space has matured, data engineering has emerged as a separate role to help organizations solve the problem of laying out data in efficient, big data systems.
+> **[0:06](https://www.linkedin.com/learning/data-engineering-foundations/introduction-to-data-engineering?u=76281980&t=6)** As the data space has matured, data engineering has emerged as a separate role to help organizations solve the problem of laying out data in efficient, [[Big Data]] systems.
 >
 > **[0:15](https://www.linkedin.com/learning/data-engineering-foundations/introduction-to-data-engineering?u=76281980&t=15)** And this video, we will try to understand what data engineering means at a data-driven organization.
 >
@@ -146,7 +144,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/data-engineering-foundations/introduction-to-data-engineering?u=76281980&t=30)** You want to use a fancy machine learning technique that you have been honing for years.
 >
-> **[0:34](https://www.linkedin.com/learning/data-engineering-foundations/introduction-to-data-engineering?u=76281980&t=34)** However, after digging around for a couple of hours, you realize all of your data is scattered around many databases.
+> **[0:34](https://www.linkedin.com/learning/data-engineering-foundations/introduction-to-data-engineering?u=76281980&t=34)** However, after digging around for a couple of hours, you realize all of your data is scattered around many [[Databases]].
 >
 > **[0:40](https://www.linkedin.com/learning/data-engineering-foundations/introduction-to-data-engineering?u=76281980&t=40)** Additionally, the data resides in tables that are optimized for applications to run, not for carrying out analysis.
 >
@@ -162,7 +160,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/data-engineering-foundations/introduction-to-data-engineering?u=76281980&t=79)** At the same time, they will optimize the database schema so it becomes faster to query.
 >
-> **[1:25](https://www.linkedin.com/learning/data-engineering-foundations/introduction-to-data-engineering?u=76281980&t=85)** They also monitor the data pipelines to make sure that there is no corrupt data.
+> **[1:25](https://www.linkedin.com/learning/data-engineering-foundations/introduction-to-data-engineering?u=76281980&t=85)** They also monitor the [[Data Pipelines]] to make sure that there is no corrupt data.
 >
 > **[1:29](https://www.linkedin.com/learning/data-engineering-foundations/introduction-to-data-engineering?u=76281980&t=89)** They repair the pipeline whenever there's an issue, they schedule or automate tasks to avoid any errors during manual work.
 >
@@ -170,13 +168,13 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/data-engineering-foundations/introduction-to-data-engineering?u=76281980&t=112)** Now, data engineers should have the following skills and knowledge.
 >
-> **[1:57](https://www.linkedin.com/learning/data-engineering-foundations/introduction-to-data-engineering?u=76281980&t=117)** They need to know Linux.
+> **[1:57](https://www.linkedin.com/learning/data-engineering-foundations/introduction-to-data-engineering?u=76281980&t=117)** They need to know [[Linux]].
 >
 > **[1:59](https://www.linkedin.com/learning/data-engineering-foundations/introduction-to-data-engineering?u=76281980&t=119)** They should be comfortable using the command line.
 >
-> **[2:01](https://www.linkedin.com/learning/data-engineering-foundations/introduction-to-data-engineering?u=76281980&t=121)** They should have expedience programming in at least one of the programming languages, such as Python or Scala or Java.
+> **[2:01](https://www.linkedin.com/learning/data-engineering-foundations/introduction-to-data-engineering?u=76281980&t=121)** They should have expedience programming in at least one of the programming languages, such as [[Python (Programming Language)|Python]] or [[Scala]] or [[Java]].
 >
-> **[2:09](https://www.linkedin.com/learning/data-engineering-foundations/introduction-to-data-engineering?u=76281980&t=129)** They should know SQL, how to write queries, how to extract data, how to create database schema.
+> **[2:09](https://www.linkedin.com/learning/data-engineering-foundations/introduction-to-data-engineering?u=76281980&t=129)** They should know [[SQL]], how to write queries, how to extract data, how to create database schema.
 >
 > **[2:15](https://www.linkedin.com/learning/data-engineering-foundations/introduction-to-data-engineering?u=76281980&t=135)** They need some understanding of distributed systems in general and how they are different from traditional storage and processing systems.
 >
@@ -190,7 +188,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), [[Data Engineering]] (4), database (3), [[Databases]] (2), [[Programming]] (2)
+> **Frameworks & Libraries:** [[Data Engineering]] (4), [[Databases]] (2), [[Data Science]] (1), [[Big Data]] (1), [[Data Pipelines]] (1)
 > **CLI Commands:** make (3), python (1)
 > **Analogies:** such as (2), imagine (1)
 > **Env Vars:** sql (1)
@@ -198,8 +196,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data engineer vs. data scientist
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-foundations/data-engineer-vs-data-scientist?u=76281980)
+#### [Data engineer vs. data scientist](https://www.linkedin.com/learning/data-engineering-foundations/data-engineer-vs-data-scientist?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -207,19 +204,19 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/data-engineering-foundations/data-engineer-vs-data-scientist?u=76281980&t=9)** Let's try to understand how responsibilities of a data engineer differ from that of a data scientist.
 >
-> **[0:15](https://www.linkedin.com/learning/data-engineering-foundations/data-engineer-vs-data-scientist?u=76281980&t=15)** Typically, the tasks of a data engineer consists of developing a scalable data architecture, streamlining data acquisition, setting up processes that bring data together from several sources, and safeguarding data quality by cleaning up corrupt data.
+> **[0:15](https://www.linkedin.com/learning/data-engineering-foundations/data-engineer-vs-data-scientist?u=76281980&t=15)** Typically, the tasks of a data engineer consists of developing a scalable [[Data Architecture]], streamlining [[Data Acquisition]], setting up processes that bring data together from several sources, and safeguarding [[Data Quality]] by cleaning up corrupt data.
 >
 > **[0:33](https://www.linkedin.com/learning/data-engineering-foundations/data-engineer-vs-data-scientist?u=76281980&t=33)** Now typically, they also have a deep understanding of cloud technology.
 >
-> **[0:38](https://www.linkedin.com/learning/data-engineering-foundations/data-engineer-vs-data-scientist?u=76281980&t=38)** They are experienced using cloud service providers, like AWS, Azure, or Google Cloud Platform.
+> **[0:38](https://www.linkedin.com/learning/data-engineering-foundations/data-engineer-vs-data-scientist?u=76281980&t=38)** They are experienced using cloud service providers, like AWS, [[Microsoft Azure|Azure]], or [[Google Cloud Platform (GCP)|Google Cloud Platform]].
 >
 > **[0:47](https://www.linkedin.com/learning/data-engineering-foundations/data-engineer-vs-data-scientist?u=76281980&t=47)** On the other hand, data scientists spend most of their time mining for patterns in data, deriving insights, applying statistical models on large datasets, or building predictive models using machine learning.
 >
 > **[1:02](https://www.linkedin.com/learning/data-engineering-foundations/data-engineer-vs-data-scientist?u=76281980&t=62)** They develop tools to monitor essential business processes or cleaning data by removing statistical outliers.
 >
-> **[1:11](https://www.linkedin.com/learning/data-engineering-foundations/data-engineer-vs-data-scientist?u=76281980&t=71)** Data scientists typically have a deep understanding of the business and they influence the decision-making through their findings.
+> **[1:11](https://www.linkedin.com/learning/data-engineering-foundations/data-engineer-vs-data-scientist?u=76281980&t=71)** Data scientists typically have a deep understanding of the business and they influence the [[Decision-Making]] through their findings.
 >
-> **[1:20](https://www.linkedin.com/learning/data-engineering-foundations/data-engineer-vs-data-scientist?u=76281980&t=80)** While there is some overlap in terms of data cleaning and manipulation skills, these roles are not interchangeable.
+> **[1:20](https://www.linkedin.com/learning/data-engineering-foundations/data-engineer-vs-data-scientist?u=76281980&t=80)** While there is some overlap in terms of [[Data Cleaning]] and manipulation skills, these roles are not interchangeable.
 >
 > **[1:28](https://www.linkedin.com/learning/data-engineering-foundations/data-engineer-vs-data-scientist?u=76281980&t=88)** Data engineers compliment the output of data scientists by providing clean, formatted, and aggregated data in an efficient manner.
 >
@@ -229,13 +226,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), business (3), cloud (2), [[Decision-Making]] (2), [[Data Architecture]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (2), [[Data Architecture]] (1), [[Data Acquisition]] (1), [[Data Quality]] (1), [[Microsoft Azure|Azure]] (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 > **Speakers:** - [instructor] (1)
 
-#### Essential tools for data engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-foundations/essential-tools-for-data-engineering?u=76281980)
+#### [Essential tools for data engineering](https://www.linkedin.com/learning/data-engineering-foundations/essential-tools-for-data-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -245,9 +241,9 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/data-engineering-foundations/essential-tools-for-data-engineering?u=76281980&t=11)** This video will give you an overview of how data engineers fulfill their tasks using these tools.
 >
-> **[0:17](https://www.linkedin.com/learning/data-engineering-foundations/essential-tools-for-data-engineering?u=76281980&t=17)** Now, data engineering tools can be broadly classified into three categories.
+> **[0:17](https://www.linkedin.com/learning/data-engineering-foundations/essential-tools-for-data-engineering?u=76281980&t=17)** Now, [[Data Engineering]] tools can be broadly classified into three categories.
 >
-> **[0:21](https://www.linkedin.com/learning/data-engineering-foundations/essential-tools-for-data-engineering?u=76281980&t=21)** First is storage, that is databases.
+> **[0:21](https://www.linkedin.com/learning/data-engineering-foundations/essential-tools-for-data-engineering?u=76281980&t=21)** First is storage, that is [[Databases]].
 >
 > **[0:24](https://www.linkedin.com/learning/data-engineering-foundations/essential-tools-for-data-engineering?u=76281980&t=24)** Second is processing frameworks.
 >
@@ -257,21 +253,21 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/data-engineering-foundations/essential-tools-for-data-engineering?u=76281980&t=33)** First one, we have databases.
 >
-> **[0:35](https://www.linkedin.com/learning/data-engineering-foundations/essential-tools-for-data-engineering?u=76281980&t=35)** So Data Engineers are expert users of database systems.
+> **[0:35](https://www.linkedin.com/learning/data-engineering-foundations/essential-tools-for-data-engineering?u=76281980&t=35)** So Data Engineers are expert users of [[Database Systems]].
 >
 > **[0:39](https://www.linkedin.com/learning/data-engineering-foundations/essential-tools-for-data-engineering?u=76281980&t=39)** Roughly speaking, database is a computer system that holds large amount of data.
 >
-> **[0:45](https://www.linkedin.com/learning/data-engineering-foundations/essential-tools-for-data-engineering?u=76281980&t=45)** You might have heard of SQL or NoSQL databases.
+> **[0:45](https://www.linkedin.com/learning/data-engineering-foundations/essential-tools-for-data-engineering?u=76281980&t=45)** You might have heard of [[SQL]] or [[NoSQL]] databases.
 >
 > **[0:49](https://www.linkedin.com/learning/data-engineering-foundations/essential-tools-for-data-engineering?u=76281980&t=49)** Most applications rely on databases to provide certain functionality.
 >
-> **[0:54](https://www.linkedin.com/learning/data-engineering-foundations/essential-tools-for-data-engineering?u=76281980&t=54)** For example, in an e-commerce application, a database holds product data like description, prices, or amount in stock.
+> **[0:54](https://www.linkedin.com/learning/data-engineering-foundations/essential-tools-for-data-engineering?u=76281980&t=54)** For example, in an [[E-Commerce]] application, a database holds product data like description, prices, or amount in stock.
 >
 > **[1:04](https://www.linkedin.com/learning/data-engineering-foundations/essential-tools-for-data-engineering?u=76281980&t=64)** On the other hand, other databases hold data specifically for analysis.
 >
 > **[1:09](https://www.linkedin.com/learning/data-engineering-foundations/essential-tools-for-data-engineering?u=76281980&t=69)** To summarize, it is essential to understand that, the Data Engineer's task begins and ends at databases.
 >
-> **[1:19](https://www.linkedin.com/learning/data-engineering-foundations/essential-tools-for-data-engineering?u=76281980&t=79)** Some of the database management systems that are frequently used are MySQL, PostgreSQL and MongoDB for NoSQL.
+> **[1:19](https://www.linkedin.com/learning/data-engineering-foundations/essential-tools-for-data-engineering?u=76281980&t=79)** Some of the [[Database Management]] systems that are frequently used are [[MySQL]], [[PostgreSQL]] and [[MongoDB]] for NoSQL.
 >
 > **[1:28](https://www.linkedin.com/learning/data-engineering-foundations/essential-tools-for-data-engineering?u=76281980&t=88)** Talking about processing frameworks, Data Engineers, use tools that can help them quickly process data.
 >
@@ -321,7 +317,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), [[Databases]] (7), database (6), [[Data Engineering]] (2), [[NoSQL]] (2)
+> **Frameworks & Libraries:** [[Databases]] (7), [[Data Engineering]] (2), [[NoSQL]] (2), [[Database Systems]] (1), [[SQL]] (1)
 > **CLI Commands:** make (4), apache (2), mysql (1)
 > **Env Vars:** sql (1), api (1)
 > **Analogies:** for example (2)
@@ -333,12 +329,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Intro to databases and their types
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-foundations/intro-to-databases-and-their-types?u=76281980)
+#### [Intro to databases and their types](https://www.linkedin.com/learning/data-engineering-foundations/intro-to-databases-and-their-types?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-engineering-foundations/intro-to-databases-and-their-types?u=76281980&t=0)** - [Instructor] Before we get down to creating databases, let's try to understand what databases are and the differences between their types.
+> **[0:00](https://www.linkedin.com/learning/data-engineering-foundations/intro-to-databases-and-their-types?u=76281980&t=0)** - [Instructor] Before we get down to creating [[Databases]], let's try to understand what databases are and the differences between their types.
 >
 > **[0:08](https://www.linkedin.com/learning/data-engineering-foundations/intro-to-databases-and-their-types?u=76281980&t=8)** Databases are an essential tool for the data engineer.
 >
@@ -358,7 +353,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/data-engineering-foundations/intro-to-databases-and-their-types?u=76281980&t=43)** Lastly, databases help us quickly retrieve or search for data.
 >
-> **[0:48](https://www.linkedin.com/learning/data-engineering-foundations/intro-to-databases-and-their-types?u=76281980&t=48)** And the database management system or DBMS, is usually in charge of this task.
+> **[0:48](https://www.linkedin.com/learning/data-engineering-foundations/intro-to-databases-and-their-types?u=76281980&t=48)** And the [[Database Management]] system or DBMS, is usually in charge of this task.
 >
 > **[0:55](https://www.linkedin.com/learning/data-engineering-foundations/intro-to-databases-and-their-types?u=76281980&t=55)** The main difference between databases and simple storage systems, like file systems, is the level of organization, and the fact that databases, or database management systems extrapolate a lot of complicated data operations like search, replication, indexing, et cetera.
 >
@@ -370,7 +365,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/data-engineering-foundations/intro-to-databases-and-their-types?u=76281980&t=84)** Among databases, there is a big difference in the level of organization.
 >
-> **[1:29](https://www.linkedin.com/learning/data-engineering-foundations/intro-to-databases-and-their-types?u=76281980&t=89)** To understand these differences, we have to make a distinction between structured, semi-structured, and unstructured data.
+> **[1:29](https://www.linkedin.com/learning/data-engineering-foundations/intro-to-databases-and-their-types?u=76281980&t=89)** To understand these differences, we have to make a distinction between structured, semi-structured, and [[Unstructured Data]].
 >
 > **[1:37](https://www.linkedin.com/learning/data-engineering-foundations/intro-to-databases-and-their-types?u=76281980&t=97)** On one hand, structured data is coherent to a well-defined structure.
 >
@@ -378,9 +373,9 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/data-engineering-foundations/intro-to-databases-and-their-types?u=76281980&t=105)** An example of structured data is tabular data in a relational database.
 >
-> **[1:49](https://www.linkedin.com/learning/data-engineering-foundations/intro-to-databases-and-their-types?u=76281980&t=109)** Semi-structured data is a form of structured data, but it does not follow the tabular structure of data models associated with relational databases, or other forms of data tables, but nonetheless, contains tags or other markers like key-value pairs to separate semantic elements and enforce hierarchies of records and feeds within the data.
+> **[1:49](https://www.linkedin.com/learning/data-engineering-foundations/intro-to-databases-and-their-types?u=76281980&t=109)** Semi-structured data is a form of structured data, but it does not follow the tabular structure of data models associated with [[Relational Databases]], or other [[Forms]] of data tables, but nonetheless, contains tags or other markers like key-value pairs to separate semantic elements and enforce hierarchies of records and feeds within the data.
 >
-> **[2:14](https://www.linkedin.com/learning/data-engineering-foundations/intro-to-databases-and-their-types?u=76281980&t=134)** An example of semi-structured data is JSON data.
+> **[2:14](https://www.linkedin.com/learning/data-engineering-foundations/intro-to-databases-and-their-types?u=76281980&t=134)** An example of semi-structured data is [[JSON]] data.
 >
 > **[2:19](https://www.linkedin.com/learning/data-engineering-foundations/intro-to-databases-and-their-types?u=76281980&t=139)** Unstructured data, on the other hand, is schema-less.
 >
@@ -390,7 +385,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/data-engineering-foundations/intro-to-databases-and-their-types?u=76281980&t=149)** So structured and unstructured data define outer boundaries, and there is a whole lot of semi-structured data in between.
 >
-> **[2:39](https://www.linkedin.com/learning/data-engineering-foundations/intro-to-databases-and-their-types?u=76281980&t=159)** Another distinction we can make is the one between SQL and NoSQL.
+> **[2:39](https://www.linkedin.com/learning/data-engineering-foundations/intro-to-databases-and-their-types?u=76281980&t=159)** Another distinction we can make is the one between [[SQL]] and [[NoSQL]].
 >
 > **[2:44](https://www.linkedin.com/learning/data-engineering-foundations/intro-to-databases-and-their-types?u=76281980&t=164)** Generally speaking, in SQL databases, tables form the data.
 >
@@ -398,13 +393,13 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/data-engineering-foundations/intro-to-databases-and-their-types?u=76281980&t=172)** Because SQL database is relational, the database schema defines the relationships and properties.
 >
-> **[2:59](https://www.linkedin.com/learning/data-engineering-foundations/intro-to-databases-and-their-types?u=76281980&t=179)** Typical SQL databases are MySQL and PostgreSQL.
+> **[2:59](https://www.linkedin.com/learning/data-engineering-foundations/intro-to-databases-and-their-types?u=76281980&t=179)** Typical SQL databases are [[MySQL]] and [[PostgreSQL]].
 >
 > **[3:04](https://www.linkedin.com/learning/data-engineering-foundations/intro-to-databases-and-their-types?u=76281980&t=184)** On the other hand, NoSQL databases are called non-relational and they are often associated with unstructured, schema-less data.
 >
 > **[3:12](https://www.linkedin.com/learning/data-engineering-foundations/intro-to-databases-and-their-types?u=76281980&t=192)** Now that's a misconception, as there are several types of NoSQL databases, and they are not all unstructured.
 >
-> **[3:20](https://www.linkedin.com/learning/data-engineering-foundations/intro-to-databases-and-their-types?u=76281980&t=200)** Two highly-used NoSQL databases types are key-value tools, like Reddis or document databases like MongoDB.
+> **[3:20](https://www.linkedin.com/learning/data-engineering-foundations/intro-to-databases-and-their-types?u=76281980&t=200)** Two highly-used NoSQL databases types are key-value tools, like Reddis or document databases like [[MongoDB]].
 >
 > **[3:30](https://www.linkedin.com/learning/data-engineering-foundations/intro-to-databases-and-their-types?u=76281980&t=210)** In key-value's tools, the values are simple.
 >
@@ -422,19 +417,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), [[Databases]] (17), database (10), [[Unstructured Data]] (4), [[SQL]] (4)
+> **Frameworks & Libraries:** [[Databases]] (17), [[Unstructured Data]] (4), [[SQL]] (4), [[NoSQL]] (4), [[Database Management]] (2)
 > **Env Vars:** sql (4), json (2), dbms (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (2), mysql (1)
 > **Analogies:** for example (1), picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding database schema
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-foundations/understanding-database-schema?u=76281980)
+#### [Understanding database schema](https://www.linkedin.com/learning/data-engineering-foundations/understanding-database-schema?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-engineering-foundations/understanding-database-schema?u=76281980&t=0)** - [Instructor] The next step is to understand how to design and develop databases.
+> **[0:00](https://www.linkedin.com/learning/data-engineering-foundations/understanding-database-schema?u=76281980&t=0)** - [Instructor] The next step is to understand how to design and develop [[Databases]].
 >
 > **[0:04](https://www.linkedin.com/learning/data-engineering-foundations/understanding-database-schema?u=76281980&t=4)** To do that, we need to learn about database schema.
 >
@@ -452,7 +446,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/data-engineering-foundations/understanding-database-schema?u=76281980&t=44)** We call this kind of column or field a foreign key, as it refers to another table.
 >
-> **[0:50](https://www.linkedin.com/learning/data-engineering-foundations/understanding-database-schema?u=76281980&t=50)** Let's see how we can create such a schema in a database using SQL.
+> **[0:50](https://www.linkedin.com/learning/data-engineering-foundations/understanding-database-schema?u=76281980&t=50)** Let's see how we can create such a schema in a database using [[SQL]].
 >
 > **[0:54](https://www.linkedin.com/learning/data-engineering-foundations/understanding-database-schema?u=76281980&t=54)** If you want to get a SQL primary, you can refer to courses in our library that can help you master SQL.
 >
@@ -494,14 +488,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), [[SQL]] (5), data (4), [[Databases]] (3), next (1)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Databases]] (3)
 > **Env Vars:** sql (5)
 > **Definitions:** is a  (1), we call this (1), refers to (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Distributive computing
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-foundations/distributive-computing?u=76281980)
+#### [Distributive computing](https://www.linkedin.com/learning/data-engineering-foundations/distributive-computing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -511,9 +504,9 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/data-engineering-foundations/distributive-computing?u=76281980&t=7)** In any data pipeline, we have to collect data from various sources, join them together, clean them and aggregate them.
 >
-> **[0:16](https://www.linkedin.com/learning/data-engineering-foundations/distributive-computing?u=76281980&t=16)** Parallel computing forms the basis of almost all modern data processing tools.
+> **[0:16](https://www.linkedin.com/learning/data-engineering-foundations/distributive-computing?u=76281980&t=16)** Parallel computing [[Forms]] the basis of almost all modern [[Data Processing]] tools.
 >
-> **[0:21](https://www.linkedin.com/learning/data-engineering-foundations/distributive-computing?u=76281980&t=21)** However, why has it become so important in the world of big data?
+> **[0:21](https://www.linkedin.com/learning/data-engineering-foundations/distributive-computing?u=76281980&t=21)** However, why has it become so important in the world of [[Big Data]]?
 >
 > **[0:25](https://www.linkedin.com/learning/data-engineering-foundations/distributive-computing?u=76281980&t=25)** The main reason is memory and processing power.
 >
@@ -567,7 +560,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/data-engineering-foundations/distributive-computing?u=76281980&t=181)** Then we distribute all of the subtasks over four processing units.
 >
-> **[3:05](https://www.linkedin.com/learning/data-engineering-foundations/distributive-computing?u=76281980&t=185)** This example illustrates roughly how, forced distributed algorithms like Hadoop may not reduce work.
+> **[3:05](https://www.linkedin.com/learning/data-engineering-foundations/distributive-computing?u=76281980&t=185)** This example illustrates roughly how, forced distributed [[Algorithms]] like [[Hadoop]] may not reduce work.
 >
 > **[3:12](https://www.linkedin.com/learning/data-engineering-foundations/distributive-computing?u=76281980&t=192)** The difference being the processing units are distributed over several machines.
 >
@@ -601,7 +594,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), parallel (6), [[Big Data]] (2), power (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Big Data]] (2), [[Forms]] (1), [[Data Processing]] (1), [[Algorithms]] (1), [[Hadoop]] (1)
 > **Code Identifiers:** athlete_avg_age (1), grouped_data (1)
 > **Env Vars:** ram (1), api (1)
 > **Definitions:** in other words (1), is a  (1)
@@ -615,16 +608,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### MapReduce and Hadoop
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-foundations/mapreduce-and-hadoop?u=76281980)
+#### [MapReduce and Hadoop](https://www.linkedin.com/learning/data-engineering-foundations/mapreduce-and-hadoop?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-engineering-foundations/mapreduce-and-hadoop?u=76281980&t=0)** - [Instructor] It's time to talk about specific parallel computing frameworks.
 >
-> **[0:03](https://www.linkedin.com/learning/data-engineering-foundations/mapreduce-and-hadoop?u=76281980&t=3)** We'll focus on frameworks that are currently hot in the data engineering world.
+> **[0:03](https://www.linkedin.com/learning/data-engineering-foundations/mapreduce-and-hadoop?u=76281980&t=3)** We'll focus on frameworks that are currently hot in the [[Data Engineering]] world.
 >
-> **[0:07](https://www.linkedin.com/learning/data-engineering-foundations/mapreduce-and-hadoop?u=76281980&t=7)** When it comes to big data systems, Hadoop is the most popular and used frameworks.
+> **[0:07](https://www.linkedin.com/learning/data-engineering-foundations/mapreduce-and-hadoop?u=76281980&t=7)** When it comes to [[Big Data]] systems, [[Hadoop]] is the most popular and used frameworks.
 >
 > **[0:12](https://www.linkedin.com/learning/data-engineering-foundations/mapreduce-and-hadoop?u=76281980&t=12)** And MapReduce was one of the most popular processing techniques.
 >
@@ -652,7 +644,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/data-engineering-foundations/mapreduce-and-hadoop?u=76281980&t=64)** HDFS has been essential in the big data world and for parallel computing by extension.
 >
-> **[1:10](https://www.linkedin.com/learning/data-engineering-foundations/mapreduce-and-hadoop?u=76281980&t=70)** Nowadays, cloud-managed storage systems like Amazon S3 or Google Cloud Storage often replace HDFS.
+> **[1:10](https://www.linkedin.com/learning/data-engineering-foundations/mapreduce-and-hadoop?u=76281980&t=70)** Nowadays, cloud-managed storage systems like Amazon S3 or [[Google Cloud Platform (GCP)|Google Cloud]] Storage often replace HDFS.
 >
 > **[1:20](https://www.linkedin.com/learning/data-engineering-foundations/mapreduce-and-hadoop?u=76281980&t=80)** Second, MapReduce.
 >
@@ -672,7 +664,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hadoop]] (4), [[Big Data]] (3), parallel (2), open-source (2), data (2)
+> **Frameworks & Libraries:** [[Hadoop]] (4), [[Big Data]] (3), [[Data Engineering]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Env Vars:** hdfs (4), etl (2)
 > **Definitions:** stands for (1), is a  (1)
 > **Analogies:** similar to (2)
@@ -680,26 +672,25 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hive
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-foundations/hive?u=76281980)
+#### [Hive](https://www.linkedin.com/learning/data-engineering-foundations/hive?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-engineering-foundations/hive?u=76281980&t=0)** - [Instructor] First up in the software programs that are under the Hadoop umbrella is Hive.
+> **[0:00](https://www.linkedin.com/learning/data-engineering-foundations/hive?u=76281980&t=0)** - [Instructor] First up in the software programs that are under the [[Hadoop]] umbrella is Hive.
 >
 > **[0:05](https://www.linkedin.com/learning/data-engineering-foundations/hive?u=76281980&t=5)** It offers features that help in the extraction part of the ETL data pipeline.
 >
-> **[0:10](https://www.linkedin.com/learning/data-engineering-foundations/hive?u=76281980&t=10)** Hive is a layer on top of the Hadoop ecosystem that makes data from several sources queryable in a structured way using Hive's SQL variant, which is called Hive SQL.
+> **[0:10](https://www.linkedin.com/learning/data-engineering-foundations/hive?u=76281980&t=10)** Hive is a layer on top of the Hadoop ecosystem that makes data from several sources queryable in a structured way using Hive's [[SQL]] variant, which is called Hive SQL.
 >
 > **[0:22](https://www.linkedin.com/learning/data-engineering-foundations/hive?u=76281980&t=22)** It provides an SQL-like interface to query data.
 >
-> **[0:26](https://www.linkedin.com/learning/data-engineering-foundations/hive?u=76281980&t=26)** We can also extract data from databases and file systems that integrate with Hadoop.
+> **[0:26](https://www.linkedin.com/learning/data-engineering-foundations/hive?u=76281980&t=26)** We can also extract data from [[Databases]] and file systems that integrate with Hadoop.
 >
-> **[0:33](https://www.linkedin.com/learning/data-engineering-foundations/hive?u=76281980&t=33)** Back when there were no choice of tools, developers had to implement queries in MapReduce Java API, which was pretty hard.
+> **[0:33](https://www.linkedin.com/learning/data-engineering-foundations/hive?u=76281980&t=33)** Back when there were no choice of tools, developers had to implement queries in MapReduce [[Java]] API, which was pretty hard.
 >
 > **[0:42](https://www.linkedin.com/learning/data-engineering-foundations/hive?u=76281980&t=42)** Facebook initially developed Hive, but the Apache Software Foundation now maintains the project.
 >
-> **[0:47](https://www.linkedin.com/learning/data-engineering-foundations/hive?u=76281980&t=47)** Although MapReduce was initially responsible for running the Hive jobs, it now integrates well with several other data processing tools.
+> **[0:47](https://www.linkedin.com/learning/data-engineering-foundations/hive?u=76281980&t=47)** Although MapReduce was initially responsible for running the Hive jobs, it now integrates well with several other [[Data Processing]] tools.
 >
 > **[0:56](https://www.linkedin.com/learning/data-engineering-foundations/hive?u=76281980&t=56)** Let's look at this example where we are using the same Olympic events dataset as we saw earlier.
 >
@@ -707,29 +698,28 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/data-engineering-foundations/hive?u=76281980&t=68)** As you would expect, this coding looks indistinguishable from a regular SQL query.
 >
-> **[1:13](https://www.linkedin.com/learning/data-engineering-foundations/hive?u=76281980&t=73)** However, behind the curtains this query is transformed into a job that can operate on a cluster of computers using the MapReduce algorithms.
+> **[1:13](https://www.linkedin.com/learning/data-engineering-foundations/hive?u=76281980&t=73)** However, behind the curtains this query is transformed into a job that can operate on a cluster of computers using the MapReduce [[Algorithms]].
 >
 > **[1:25](https://www.linkedin.com/learning/data-engineering-foundations/hive?u=76281980&t=85)** This is just one of the ways to collect data and there are many other tools that you can use or integrate with Hive.
 >
-> **[1:34](https://www.linkedin.com/learning/data-engineering-foundations/hive?u=76281980&t=94)** So, after the extraction of data is complete, it's now time to learn about a data transformation tool.
+> **[1:34](https://www.linkedin.com/learning/data-engineering-foundations/hive?u=76281980&t=94)** So, after the extraction of data is complete, it's now time to learn about a [[Data Transformation]] tool.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[SQL]] (4), [[Hadoop]] (3), etl (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Hadoop]] (3), [[Databases]] (1), [[Java]] (1), [[Data Processing]] (1)
 > **Env Vars:** sql (4), etl (1), api (1)
 > **Definitions:** is a  (1), is called (1)
 > **CLI Commands:** apache (1)
 > **Cross-References:** as we saw (1)
 > **Speakers:** - [instructor] (1)
 
-#### Spark
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-foundations/spark?u=76281980)
+#### [Spark](https://www.linkedin.com/learning/data-engineering-foundations/spark?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-engineering-foundations/spark?u=76281980&t=0)** - [Instructor] The other parallel computation framework we'll introduce is called Spark.
 >
-> **[0:04](https://www.linkedin.com/learning/data-engineering-foundations/spark?u=76281980&t=4)** Spark distributes data processing tasks between clusters of computers.
+> **[0:04](https://www.linkedin.com/learning/data-engineering-foundations/spark?u=76281980&t=4)** Spark distributes [[Data Processing]] tasks between clusters of computers.
 >
 > **[0:09](https://www.linkedin.com/learning/data-engineering-foundations/spark?u=76281980&t=9)** But why did we need a tool like Spark?
 >
@@ -751,7 +741,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/data-engineering-foundations/spark?u=76281980&t=63)** From a conceptual perspective, you can think of RDDs as a list of topples.
 >
-> **[1:09](https://www.linkedin.com/learning/data-engineering-foundations/spark?u=76281980&t=69)** We can do two types of operations on these data structures, transformations and actions.
+> **[1:09](https://www.linkedin.com/learning/data-engineering-foundations/spark?u=76281980&t=69)** We can do two types of operations on these [[Data Structures]], transformations and actions.
 >
 > **[1:14](https://www.linkedin.com/learning/data-engineering-foundations/spark?u=76281980&t=74)** So when we talk about transformations, we're talking about functions like filter, map, groupByKey, union.
 >
@@ -761,13 +751,13 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/data-engineering-foundations/spark?u=76281980&t=94)** While actions result in a single result.
 >
-> **[1:36](https://www.linkedin.com/learning/data-engineering-foundations/spark?u=76281980&t=96)** When working with Spark, people typically use a programming language interface like PySpark.
+> **[1:36](https://www.linkedin.com/learning/data-engineering-foundations/spark?u=76281980&t=96)** When working with Spark, people typically use a programming language interface like [[PySpark]].
 >
-> **[1:42](https://www.linkedin.com/learning/data-engineering-foundations/spark?u=76281980&t=102)** A PySpark is a Python interface to Spark.
+> **[1:42](https://www.linkedin.com/learning/data-engineering-foundations/spark?u=76281980&t=102)** A PySpark is a [[Python (Programming Language)|Python]] interface to Spark.
 >
-> **[1:45](https://www.linkedin.com/learning/data-engineering-foundations/spark?u=76281980&t=105)** There are interfaces to Spark in other languages like R or Scala as well.
+> **[1:45](https://www.linkedin.com/learning/data-engineering-foundations/spark?u=76281980&t=105)** There are interfaces to Spark in other languages like R or [[Scala]] as well.
 >
-> **[1:51](https://www.linkedin.com/learning/data-engineering-foundations/spark?u=76281980&t=111)** PySpark holds a DataFrame abstraction which means that you can do operations very similar to pandas DataFrames.
+> **[1:51](https://www.linkedin.com/learning/data-engineering-foundations/spark?u=76281980&t=111)** PySpark holds a DataFrame abstraction which means that you can do operations very similar to [[Pandas (Software)|pandas]] DataFrames.
 >
 > **[1:57](https://www.linkedin.com/learning/data-engineering-foundations/spark?u=76281980&t=117)** And PySpark and Spark take care of all the complex parallel computation operations.
 >
@@ -779,7 +769,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/data-engineering-foundations/spark?u=76281980&t=145)** So this is how we can actually write a PySpark Analogous of Sequel which is using the DataFrame abstraction.
 >
-> **[2:32](https://www.linkedin.com/learning/data-engineering-foundations/spark?u=76281980&t=152)** So engineered from the bottom of performance Spark can be 100 X faster than Hadoop for large scale data processing.
+> **[2:32](https://www.linkedin.com/learning/data-engineering-foundations/spark?u=76281980&t=152)** So engineered from the bottom of performance Spark can be 100 X faster than [[Hadoop]] for large scale data processing.
 >
 > **[2:40](https://www.linkedin.com/learning/data-engineering-foundations/spark?u=76281980&t=160)** This covers the transformation part of the ETL pipeline.
 >
@@ -787,7 +777,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[PySpark]] (6), parallel (2), [[Programming]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[PySpark]] (6), [[Data Processing]] (2), [[Data Structures]] (1), [[Python (Programming Language)|Python]] (1), [[Scala]] (1)
 > **Definitions:** is a  (2), is called (1), means that (1)
 > **CLI Commands:** apache (1), python (1)
 > **Code Identifiers:** groupbykey (1)
@@ -795,8 +785,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Airflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-foundations/airflow?u=76281980)
+#### [Airflow](https://www.linkedin.com/learning/data-engineering-foundations/airflow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -804,7 +793,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/data-engineering-foundations/airflow?u=76281980&t=6)** Let's take an example.
 >
-> **[0:08](https://www.linkedin.com/learning/data-engineering-foundations/airflow?u=76281980&t=8)** You can write a Spark job that pulls data from a CSV file, filters out some corrupt records, and loads the data into a SQL database ready for analysis.
+> **[0:08](https://www.linkedin.com/learning/data-engineering-foundations/airflow?u=76281980&t=8)** You can write a Spark job that pulls data from a CSV file, filters out some corrupt records, and loads the data into a [[SQL]] database ready for analysis.
 >
 > **[0:19](https://www.linkedin.com/learning/data-engineering-foundations/airflow?u=76281980&t=19)** However, let's say you need to do this job every day.
 >
@@ -812,7 +801,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/data-engineering-foundations/airflow?u=76281980&t=27)** What about the weekends?
 >
-> **[0:28](https://www.linkedin.com/learning/data-engineering-foundations/airflow?u=76281980&t=28)** Now for this, there are simple tools that could solve this problem, like cron, which is a Linux tool.
+> **[0:28](https://www.linkedin.com/learning/data-engineering-foundations/airflow?u=76281980&t=28)** Now for this, there are simple tools that could solve this problem, like cron, which is a [[Linux]] tool.
 >
 > **[0:34](https://www.linkedin.com/learning/data-engineering-foundations/airflow?u=76281980&t=34)** However, let's say you have one job for the CSV file and another job that will clean the data from an API, and a third job that joins the data from the CSV and the API together.
 >
@@ -844,15 +833,15 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/data-engineering-foundations/airflow?u=76281980&t=127)** There's Spotify's Luigi, which allows for definitions of DAGs for complex pipelines.
 >
-> **[2:13](https://www.linkedin.com/learning/data-engineering-foundations/airflow?u=76281980&t=133)** However, for the remainder of this video we'll focus on Apache Airflow.
+> **[2:13](https://www.linkedin.com/learning/data-engineering-foundations/airflow?u=76281980&t=133)** However, for the remainder of this video we'll focus on [[Apache Airflow]].
 >
 > **[2:17](https://www.linkedin.com/learning/data-engineering-foundations/airflow?u=76281980&t=137)** Airflow is growing out to be the defacto workflow scheduling framework.
 >
-> **[2:22](https://www.linkedin.com/learning/data-engineering-foundations/airflow?u=76281980&t=142)** Now, Airbnb created Airflow as an internal tool for workflow management.
+> **[2:22](https://www.linkedin.com/learning/data-engineering-foundations/airflow?u=76281980&t=142)** Now, Airbnb created Airflow as an internal tool for [[Workflow Management]].
 >
 > **[2:28](https://www.linkedin.com/learning/data-engineering-foundations/airflow?u=76281980&t=148)** They opened sourced Airflow in 2015, and it later joined the Apache software foundation in 2016.
 >
-> **[2:34](https://www.linkedin.com/learning/data-engineering-foundations/airflow?u=76281980&t=154)** They built Airflow around the concept of DAGs, and using Python, developers can create and test these DAGs that build up complex data pipelines.
+> **[2:34](https://www.linkedin.com/learning/data-engineering-foundations/airflow?u=76281980&t=154)** They built Airflow around the concept of DAGs, and using [[Python (Programming Language)|Python]], developers can create and test these DAGs that build up complex [[Data Pipelines]].
 >
 > **[2:44](https://www.linkedin.com/learning/data-engineering-foundations/airflow?u=76281980&t=164)** So let's look at the Olympic events example in the DAG, which is shown here.
 >
@@ -888,7 +877,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Python (Programming Language)|Python]] (3), [[Linux]] (2), api (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Linux]] (2), [[SQL]] (1), [[Apache Airflow]] (1), [[Workflow Management]] (1)
 > **Env Vars:** dag (7), csv (3), api (2), sql (1), etl (1)
 > **CLI Commands:** python (3), apache (2), node (1)
 > **Definitions:** is a  (3), means that (1)
@@ -902,8 +891,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Sources of data extraction
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-foundations/sources-of-data-extraction?u=76281980)
+#### [Sources of data extraction](https://www.linkedin.com/learning/data-engineering-foundations/sources-of-data-extraction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -915,7 +903,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/data-engineering-foundations/sources-of-data-extraction?u=76281980&t=12)** Very roughly, this means extracting data from persistent storage into memory.
 >
-> **[0:17](https://www.linkedin.com/learning/data-engineering-foundations/sources-of-data-extraction?u=76281980&t=17)** This persistent storage could be a file on Amazon S3, for example, or a SQL database, or a web API.
+> **[0:17](https://www.linkedin.com/learning/data-engineering-foundations/sources-of-data-extraction?u=76281980&t=17)** This persistent storage could be a file on Amazon S3, for example, or a [[SQL]] database, or a web API.
 >
 > **[0:24](https://www.linkedin.com/learning/data-engineering-foundations/sources-of-data-extraction?u=76281980&t=24)** It is the necessary stage before we can start transforming the data, and the sources here may vary.
 >
@@ -933,7 +921,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/data-engineering-foundations/sources-of-data-extraction?u=76281980&t=60)** They use comma or tabs respectively to separate columns.
 >
-> **[1:04](https://www.linkedin.com/learning/data-engineering-foundations/sources-of-data-extraction?u=76281980&t=64)** Another widespread data format is called JSON, or JavaScript Object Notation.
+> **[1:04](https://www.linkedin.com/learning/data-engineering-foundations/sources-of-data-extraction?u=76281980&t=64)** Another widespread data format is called [[JSON]], or [[JavaScript]] Object Notation.
 >
 > **[1:09](https://www.linkedin.com/learning/data-engineering-foundations/sources-of-data-extraction?u=76281980&t=69)** JSON files hold information in a semi-structured way.
 >
@@ -941,7 +929,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/data-engineering-foundations/sources-of-data-extraction?u=76281980&t=78)** There are two composite data types as well, array and object.
 >
-> **[1:23](https://www.linkedin.com/learning/data-engineering-foundations/sources-of-data-extraction?u=76281980&t=83)** You could compare it to a dictionary in Python.
+> **[1:23](https://www.linkedin.com/learning/data-engineering-foundations/sources-of-data-extraction?u=76281980&t=83)** You could compare it to a dictionary in [[Python (Programming Language)|Python]].
 >
 > **[1:25](https://www.linkedin.com/learning/data-engineering-foundations/sources-of-data-extraction?u=76281980&t=85)** Now, JSON objects can be very nested, like in this particular example on the right.
 >
@@ -957,13 +945,13 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/data-engineering-foundations/sources-of-data-extraction?u=76281980&t=119)** A request basically gets a response.
 >
-> **[2:02](https://www.linkedin.com/learning/data-engineering-foundations/sources-of-data-extraction?u=76281980&t=122)** For example, if you browse Google in your web browser, your browser requests the content of the Google homepage.
+> **[2:02](https://www.linkedin.com/learning/data-engineering-foundations/sources-of-data-extraction?u=76281980&t=122)** For example, if you browse [[Google]] in your web browser, your browser requests the content of the Google homepage.
 >
 > **[2:08](https://www.linkedin.com/learning/data-engineering-foundations/sources-of-data-extraction?u=76281980&t=128)** Google servers, on the other hand, respond with the data that makes up the page.
 >
-> **[2:13](https://www.linkedin.com/learning/data-engineering-foundations/sources-of-data-extraction?u=76281980&t=133)** However, some web servers serve data in a JSON data format instead of web pages.
+> **[2:13](https://www.linkedin.com/learning/data-engineering-foundations/sources-of-data-extraction?u=76281980&t=133)** However, some [[Web Servers]] serve data in a JSON data format instead of web pages.
 >
-> **[2:19](https://www.linkedin.com/learning/data-engineering-foundations/sources-of-data-extraction?u=76281980&t=139)** We called these servers APIs, or application programming interfaces.
+> **[2:19](https://www.linkedin.com/learning/data-engineering-foundations/sources-of-data-extraction?u=76281980&t=139)** We called these servers APIs, or [[Application Programming Interfaces (API)|application programming interfaces]].
 >
 > **[2:24](https://www.linkedin.com/learning/data-engineering-foundations/sources-of-data-extraction?u=76281980&t=144)** The popular social media tools, let's say Twitter, Twitter hosts an API that provides us with information on tweets in JSON format.
 >
@@ -979,7 +967,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/data-engineering-foundations/sources-of-data-extraction?u=76281980&t=185)** And to pass the incoming JSON and transform it into another Python object, we can use this json method.
 >
-> **[3:14](https://www.linkedin.com/learning/data-engineering-foundations/sources-of-data-extraction?u=76281980&t=194)** Finally, we have to talk about databases.
+> **[3:14](https://www.linkedin.com/learning/data-engineering-foundations/sources-of-data-extraction?u=76281980&t=194)** Finally, we have to talk about [[Databases]].
 >
 > **[3:17](https://www.linkedin.com/learning/data-engineering-foundations/sources-of-data-extraction?u=76281980&t=197)** Now the most common way of data extraction is extraction from existing application databases.
 >
@@ -1009,11 +997,11 @@ created: 2026-05-02
 >
 > **[4:38](https://www.linkedin.com/learning/data-engineering-foundations/sources-of-data-extraction?u=76281980&t=278)** It's in the upcoming videos.
 >
-> **[4:40](https://www.linkedin.com/learning/data-engineering-foundations/sources-of-data-extraction?u=76281980&t=280)** We will learn to extract and load data into a PostgreSQL database using Python.
+> **[4:40](https://www.linkedin.com/learning/data-engineering-foundations/sources-of-data-extraction?u=76281980&t=280)** We will learn to extract and load data into a [[PostgreSQL]] database using Python.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), [[JSON]] (12), [[Databases]] (12), web (7), api (7)
+> **Frameworks & Libraries:** [[JSON]] (12), [[Databases]] (12), [[Python (Programming Language)|Python]] (4), [[Google]] (3), [[SQL]] (1)
 > **Env Vars:** json (9), api (7), etl (2), oltp (2), olap (2)
 > **CLI Commands:** python (4), make (1)
 > **Definitions:** stands for (1), is a  (1), is an  (1), is called (1)
@@ -1021,8 +1009,7 @@ created: 2026-05-02
 > **Cross-References:** we mentioned (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data extraction from a PostgreSQL database
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-foundations/data-extraction-from-a-postgresql-database-24091687?u=76281980)
+#### [Data extraction from a PostgreSQL database](https://www.linkedin.com/learning/data-engineering-foundations/data-extraction-from-a-postgresql-database-24091687?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1044,9 +1031,9 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/data-engineering-foundations/data-extraction-from-a-postgresql-database-24091687?u=76281980&t=40)** So let's quickly do that.
 >
-> **[0:42](https://www.linkedin.com/learning/data-engineering-foundations/data-extraction-from-a-postgresql-database-24091687?u=76281980&t=42)** The installation process is already provided in the Resources, so you can defer to that document, in order to download and install PostgreSQL onto your systems.
+> **[0:42](https://www.linkedin.com/learning/data-engineering-foundations/data-extraction-from-a-postgresql-database-24091687?u=76281980&t=42)** The installation process is already provided in the Resources, so you can defer to that document, in order to download and install [[PostgreSQL]] onto your systems.
 >
-> **[0:53](https://www.linkedin.com/learning/data-engineering-foundations/data-extraction-from-a-postgresql-database-24091687?u=76281980&t=53)** Now the first step is to start your Postgres Server.
+> **[0:53](https://www.linkedin.com/learning/data-engineering-foundations/data-extraction-from-a-postgresql-database-24091687?u=76281980&t=53)** Now the first step is to start your [[PostgreSQL|Postgres]] Server.
 >
 > **[0:58](https://www.linkedin.com/learning/data-engineering-foundations/data-extraction-from-a-postgresql-database-24091687?u=76281980&t=58)** The command for that is psql postgres.
 >
@@ -1104,17 +1091,17 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/data-engineering-foundations/data-extraction-from-a-postgresql-database-24091687?u=76281980&t=237)** Now your data is present in your database tables.
 >
-> **[4:02](https://www.linkedin.com/learning/data-engineering-foundations/data-extraction-from-a-postgresql-database-24091687?u=76281980&t=242)** The next step is to connect this database with our Python Script using Spark.
+> **[4:02](https://www.linkedin.com/learning/data-engineering-foundations/data-extraction-from-a-postgresql-database-24091687?u=76281980&t=242)** The next step is to connect this database with our [[Python (Programming Language)|Python]] Script using Spark.
 >
 > **[4:09](https://www.linkedin.com/learning/data-engineering-foundations/data-extraction-from-a-postgresql-database-24091687?u=76281980&t=249)** So that we can transform this data to extract aggregated insights.
 >
 > **[4:16](https://www.linkedin.com/learning/data-engineering-foundations/data-extraction-from-a-postgresql-database-24091687?u=76281980&t=256)** Now, in order to do that, you should have a bunch of things installed already.
 >
-> **[4:21](https://www.linkedin.com/learning/data-engineering-foundations/data-extraction-from-a-postgresql-database-24091687?u=76281980&t=261)** First of all, you'll have to install PySpark Package in your virtual environment.
+> **[4:21](https://www.linkedin.com/learning/data-engineering-foundations/data-extraction-from-a-postgresql-database-24091687?u=76281980&t=261)** First of all, you'll have to install [[PySpark]] Package in your virtual environment.
 >
-> **[4:26](https://www.linkedin.com/learning/data-engineering-foundations/data-extraction-from-a-postgresql-database-24091687?u=76281980&t=266)** The second thing that you'll have to have is this PostgreSQL JDBC Drivers.
+> **[4:26](https://www.linkedin.com/learning/data-engineering-foundations/data-extraction-from-a-postgresql-database-24091687?u=76281980&t=266)** The second thing that you'll have to have is this PostgreSQL [[Java Database Connectivity (JDBC)|JDBC]] Drivers.
 >
-> **[4:35](https://www.linkedin.com/learning/data-engineering-foundations/data-extraction-from-a-postgresql-database-24091687?u=76281980&t=275)** To connect your PySpark's Script with the database, you will need these JDBC drivers along with Java installed.
+> **[4:35](https://www.linkedin.com/learning/data-engineering-foundations/data-extraction-from-a-postgresql-database-24091687?u=76281980&t=275)** To connect your PySpark's Script with the database, you will need these JDBC drivers along with [[Java]] installed.
 >
 > **[4:43](https://www.linkedin.com/learning/data-engineering-foundations/data-extraction-from-a-postgresql-database-24091687?u=76281980&t=283)** So need PySpark, Java and this JDBC Driver downloaded onto your system.
 >
@@ -1126,7 +1113,7 @@ created: 2026-05-02
 >
 > **[5:01](https://www.linkedin.com/learning/data-engineering-foundations/data-extraction-from-a-postgresql-database-24091687?u=76281980&t=301)** If you already have one, it'll get it for us, otherwise it will create.
 >
-> **[5:05](https://www.linkedin.com/learning/data-engineering-foundations/data-extraction-from-a-postgresql-database-24091687?u=76281980&t=305)** So first is creation of a SparkSession using this builder mode, and then I have to provide the app name, which is, Python Sparks SQL basic example, in my case.
+> **[5:05](https://www.linkedin.com/learning/data-engineering-foundations/data-extraction-from-a-postgresql-database-24091687?u=76281980&t=305)** So first is creation of a SparkSession using this builder mode, and then I have to provide the app name, which is, Python Sparks [[SQL]] basic example, in my case.
 >
 > **[5:17](https://www.linkedin.com/learning/data-engineering-foundations/data-extraction-from-a-postgresql-database-24091687?u=76281980&t=317)** Then provide the configuration.
 >
@@ -1166,7 +1153,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (18), data (9), hit (7), [[PostgreSQL|Postgres]] (5), [[Java Database Connectivity (JDBC)|Jdbc]] (5)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (5), [[Java Database Connectivity (JDBC)|Jdbc]] (5), [[PySpark]] (4), [[PostgreSQL]] (3), [[Python (Programming Language)|Python]] (3)
 > **Env Vars:** jdbc (5), csv (3), create (2), database (1), table (1)
 > **Code Identifiers:** etl_pipeline (3), movies_df (2), getorcreate (1)
 > **File Paths:** movies.csv (3), users.csv (1), 04_02.py (1)
@@ -1175,14 +1162,13 @@ created: 2026-05-02
 > **Prerequisites:** install (2), set up (1)
 > **Analogies:** for example (1), just like (1)
 
-#### Challenge: Data extraction
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-foundations/challenge-data-extraction?u=76281980)
+#### [Challenge: Data extraction](https://www.linkedin.com/learning/data-engineering-foundations/challenge-data-extraction?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-engineering-foundations/challenge-data-extraction?u=76281980&t=0)** (bright music)
 >
-> **[0:07](https://www.linkedin.com/learning/data-engineering-foundations/challenge-data-extraction?u=76281980&t=7)** - [Instructor] So you've seen how we can extract data from a PostgreSQL database.
+> **[0:07](https://www.linkedin.com/learning/data-engineering-foundations/challenge-data-extraction?u=76281980&t=7)** - [Instructor] So you've seen how we can extract data from a [[PostgreSQL]] database.
 >
 > **[0:11](https://www.linkedin.com/learning/data-engineering-foundations/challenge-data-extraction?u=76281980&t=11)** We saw how we could extract data from the movies table inside our ETL_pipeline using the PostgreSQL driver as well.
 >
@@ -1196,12 +1182,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[PostgreSQL]] (2), database (2)
+> **Frameworks & Libraries:** [[PostgreSQL]] (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Data extraction
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-foundations/solution-data-extraction?u=76281980)
+#### [Solution: Data extraction](https://www.linkedin.com/learning/data-engineering-foundations/solution-data-extraction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1213,7 +1198,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/data-engineering-foundations/solution-data-extraction?u=76281980&t=16)** Then add the username, the password.
 >
-> **[0:18](https://www.linkedin.com/learning/data-engineering-foundations/solution-data-extraction?u=76281980&t=18)** The driver that we had to provide was the postgresql drivers, since we're using the postgresql database.
+> **[0:18](https://www.linkedin.com/learning/data-engineering-foundations/solution-data-extraction?u=76281980&t=18)** The driver that we had to provide was the [[PostgreSQL]] drivers, since we're using the postgresql database.
 >
 > **[0:24](https://www.linkedin.com/learning/data-engineering-foundations/solution-data-extraction?u=76281980&t=24)** So we could simply use the one that we used to extract movies table data.
 >
@@ -1227,18 +1212,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[PostgreSQL]] (2), database (1)
+> **Frameworks & Libraries:** [[PostgreSQL]] (2)
 > **Speakers:** - [tutor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Transforming data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-foundations/transforming-data?u=76281980)
+#### [Transforming data](https://www.linkedin.com/learning/data-engineering-foundations/transforming-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-engineering-foundations/transforming-data?u=76281980&t=0)** - [Instructor] So after the successful extraction of the data from the two tables, we are now going to add a simple transformation to this extracted data.
 >
-> **[0:08](https://www.linkedin.com/learning/data-engineering-foundations/transforming-data?u=76281980&t=8)** Now we know analytical databases are optimized for creating aggregated data.
+> **[0:08](https://www.linkedin.com/learning/data-engineering-foundations/transforming-data?u=76281980&t=8)** Now we know analytical [[Databases]] are optimized for creating aggregated data.
 >
 > **[0:13](https://www.linkedin.com/learning/data-engineering-foundations/transforming-data?u=76281980&t=13)** So here we are going to merge the two data frames so that we can have the average rating corresponding to the movie itself.
 >
@@ -1272,12 +1256,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Databases]] (1), next (1), etl (1), database (1)
+> **Frameworks & Libraries:** [[Databases]] (1)
 > **Env Vars:** etl (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Transforming data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-foundations/challenge-transforming-data?u=76281980)
+#### [Challenge: Transforming data](https://www.linkedin.com/learning/data-engineering-foundations/challenge-transforming-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1295,12 +1278,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Transforming data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-foundations/solution-transforming-data?u=76281980)
+#### [Solution: Transforming data](https://www.linkedin.com/learning/data-engineering-foundations/solution-transforming-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1328,12 +1309,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6)
 > **Speakers:** - [tutor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Loading data into a DB
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-foundations/loading-data-into-a-db?u=76281980)
+#### [Loading data into a DB](https://www.linkedin.com/learning/data-engineering-foundations/loading-data-into-a-db?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1357,7 +1336,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/data-engineering-foundations/loading-data-into-a-db?u=76281980&t=85)** So here, this is the code snippet for transformation, and then I am returning the final data frame which would be the output of our transformation function which I have called transform average ratings.
 >
-> **[1:38](https://www.linkedin.com/learning/data-engineering-foundations/loading-data-into-a-db?u=76281980&t=98)** Now, in order to load this transform data or this data frame back to the PostgreSQL database, this is how we would do it.
+> **[1:38](https://www.linkedin.com/learning/data-engineering-foundations/loading-data-into-a-db?u=76281980&t=98)** Now, in order to load this transform data or this data frame back to the [[PostgreSQL]] database, this is how we would do it.
 >
 > **[1:48](https://www.linkedin.com/learning/data-engineering-foundations/loading-data-into-a-db?u=76281980&t=108)** First of all we'd have to define the mode which is overwrite over here, so if the table already exists, we would override it then provide the URL to connect with your database which is called etl_pipeline, and the PostgreSQL server is actually running on local host called 5432.
 >
@@ -1373,7 +1352,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/data-engineering-foundations/loading-data-into-a-db?u=76281980&t=189)** And then finally we are calling the load df to db function, which is actually loading the transformed data frames back to the database.
 >
-> **[3:21](https://www.linkedin.com/learning/data-engineering-foundations/loading-data-into-a-db?u=76281980&t=201)** So let's quickly run this script, so python 04,08.py, run it, it'll take a few seconds.
+> **[3:21](https://www.linkedin.com/learning/data-engineering-foundations/loading-data-into-a-db?u=76281980&t=201)** So let's quickly run this script, so [[Python (Programming Language)|python]] 04,08.py, run it, it'll take a few seconds.
 >
 > **[3:30](https://www.linkedin.com/learning/data-engineering-foundations/loading-data-into-a-db?u=76281980&t=210)** So earlier we saw that we had only two tables in our database, and now let's go and check how many tables we have in our etl_pipeline database.
 >
@@ -1383,7 +1362,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), database (8), [[PostgreSQL]] (2), [[Automation]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[PostgreSQL]] (2), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** etl_pipeline (2), users_df (2), user_dataframe (1), underscore_df (1), ratings_df (1)
 > **Env Vars:** url (2)
 > **Definitions:** is called (1), we call this (1)
@@ -1392,8 +1371,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [tutor] (1)
 
-#### Challenge: Loading data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-foundations/challenge-loading-data?u=76281980)
+#### [Challenge: Loading data](https://www.linkedin.com/learning/data-engineering-foundations/challenge-loading-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1415,13 +1393,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), database (4)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Loading data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-foundations/solution-loading-data?u=76281980)
+#### [Solution: Loading data](https://www.linkedin.com/learning/data-engineering-foundations/solution-loading-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1447,19 +1423,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), database (3)
 > **Code Identifiers:** movies_data (1), user_dataframe (1), ratings_df (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Scheduling ETL pipeline using Airflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-foundations/scheduling-etl-pipeline-using-airflow?u=76281980)
+#### [Scheduling ETL pipeline using Airflow](https://www.linkedin.com/learning/data-engineering-foundations/scheduling-etl-pipeline-using-airflow?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-engineering-foundations/scheduling-etl-pipeline-using-airflow?u=76281980&t=0)** - [Instructor] It's time to put everything together and schedule the jobs that we have defined so far.
 >
-> **[0:05](https://www.linkedin.com/learning/data-engineering-foundations/scheduling-etl-pipeline-using-airflow?u=76281980&t=5)** As discussed, we'll have to use a scheduling tool for this, and the most commonly used scheduling tool is Apache Airflow.
+> **[0:05](https://www.linkedin.com/learning/data-engineering-foundations/scheduling-etl-pipeline-using-airflow?u=76281980&t=5)** As discussed, we'll have to use a scheduling tool for this, and the most commonly used scheduling tool is [[Apache Airflow]].
 >
 > **[0:12](https://www.linkedin.com/learning/data-engineering-foundations/scheduling-etl-pipeline-using-airflow?u=76281980&t=12)** We'll be using the code written so far, and then we'll define a directed acyclic graph using Apache Airflow.
 >
@@ -1523,11 +1497,11 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/data-engineering-foundations/scheduling-etl-pipeline-using-airflow?u=76281980&t=152)** So I've copied all of the functions, the extraction functions, the transformation functions, the loading function, all of the ETL pipeline, the entire ETL behavior is actually inside this transformation model that I'm going to be using inside my dags script, the Airflow script.
 >
-> **[2:49](https://www.linkedin.com/learning/data-engineering-foundations/scheduling-etl-pipeline-using-airflow?u=76281980&t=169)** So one thing that you should be very clear about here is that Airflow python script is really just a configuration file.
+> **[2:49](https://www.linkedin.com/learning/data-engineering-foundations/scheduling-etl-pipeline-using-airflow?u=76281980&t=169)** So one thing that you should be very clear about here is that Airflow [[Python (Programming Language)|python]] script is really just a configuration file.
 >
 > **[2:57](https://www.linkedin.com/learning/data-engineering-foundations/scheduling-etl-pipeline-using-airflow?u=76281980&t=177)** There's no processing happening here.
 >
-> **[2:59](https://www.linkedin.com/learning/data-engineering-foundations/scheduling-etl-pipeline-using-airflow?u=76281980&t=179)** Everything that is related to data processing is happening inside the transformation module.
+> **[2:59](https://www.linkedin.com/learning/data-engineering-foundations/scheduling-etl-pipeline-using-airflow?u=76281980&t=179)** Everything that is related to [[Data Processing]] is happening inside the transformation module.
 >
 > **[3:04](https://www.linkedin.com/learning/data-engineering-foundations/scheduling-etl-pipeline-using-airflow?u=76281980&t=184)** Now the dags.py is all about a configuration file for our dag structure as code.
 >
@@ -1693,15 +1667,15 @@ created: 2026-05-02
 >
 > **[8:25](https://www.linkedin.com/learning/data-engineering-foundations/scheduling-etl-pipeline-using-airflow?u=76281980&t=505)** If you have like many other tasks or you have like separate tasks to extract transform load it would show you the graph over here.
 >
-> **[8:33](https://www.linkedin.com/learning/data-engineering-foundations/scheduling-etl-pipeline-using-airflow?u=76281980&t=513)** So this is probably how you can use, or you can create an end to end data pipeline using different tools, like Apache Spark, Apache Airflow, different databases like PostgreSQL, mySQL or Mongo DB.
+> **[8:33](https://www.linkedin.com/learning/data-engineering-foundations/scheduling-etl-pipeline-using-airflow?u=76281980&t=513)** So this is probably how you can use, or you can create an end to end data pipeline using different tools, like [[Apache Spark]], Apache Airflow, different [[Databases]] like [[PostgreSQL]], [[MySQL]] or Mongo DB.
 >
 > **[8:49](https://www.linkedin.com/learning/data-engineering-foundations/scheduling-etl-pipeline-using-airflow?u=76281980&t=529)** So that's how you can go about creating an ETL pipeline end to end.
 >
-> **[8:55](https://www.linkedin.com/learning/data-engineering-foundations/scheduling-etl-pipeline-using-airflow?u=76281980&t=535)** And this would basically pave the way for to create further, more complex data pipelines.
+> **[8:55](https://www.linkedin.com/learning/data-engineering-foundations/scheduling-etl-pipeline-using-airflow?u=76281980&t=535)** And this would basically pave the way for to create further, more complex [[Data Pipelines]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** etl (10), next (7), web (5), [[Python (Programming Language)|Python]] (5), data (5)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Apache Airflow]] (4), [[Data Processing]] (1), [[Apache Spark]] (1), [[Databases]] (1)
 > **CLI Commands:** apache (6), python (5), mkdir (1), sudo (1), pip (1)
 > **Env Vars:** etl (10), airflow_home (2), edl (1), url (1)
 > **Prerequisites:** set up (2), install (2), initialization (1)
@@ -1715,12 +1689,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-foundations/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/data-engineering-foundations/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-engineering-foundations/next-steps?u=76281980&t=0)** - [Harshit] You have just learned a wide range of tools and concepts, from extracting data from various sources to transforming data frames, to loading it into databases, and even scheduling the task in the pipeline using Airflow.
+> **[0:00](https://www.linkedin.com/learning/data-engineering-foundations/next-steps?u=76281980&t=0)** - [Harshit] You have just learned a wide range of tools and concepts, from extracting data from various sources to transforming data frames, to loading it into [[Databases]], and even scheduling the task in the pipeline using Airflow.
 >
 > **[0:14](https://www.linkedin.com/learning/data-engineering-foundations/next-steps?u=76281980&t=14)** The journey has just begun.
 >
@@ -1728,13 +1701,13 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/data-engineering-foundations/next-steps?u=76281980&t=18)** With the skills learned here, you are well on your way to becoming a competent data engineer.
 >
-> **[0:24](https://www.linkedin.com/learning/data-engineering-foundations/next-steps?u=76281980&t=24)** Feel free to connect with me on LinkedIn or you can subscribe to my YouTube channel, Data Science with Harshit, where we discuss anything and everything about data.
+> **[0:24](https://www.linkedin.com/learning/data-engineering-foundations/next-steps?u=76281980&t=24)** Feel free to connect with me on [[LinkedIn]] or you can subscribe to my YouTube channel, [[Data Science]] with Harshit, where we discuss anything and everything about data.
 >
 > **[0:34](https://www.linkedin.com/learning/data-engineering-foundations/next-steps?u=76281980&t=34)** Thanks for watching and I'll catch you guys next time.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Databases]] (1), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[LinkedIn]] (1), [[Data Science]] (1)
 > **Speakers:** - [harshit] (1)
 
 

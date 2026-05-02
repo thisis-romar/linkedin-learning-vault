@@ -105,32 +105,30 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prevent GenAI apps from hallucinating
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/prevent-genai-apps-from-hallucinating?u=76281980)
+#### [Prevent GenAI apps from hallucinating](https://www.linkedin.com/learning/graphrag-essential-training/prevent-genai-apps-from-hallucinating?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/graphrag-essential-training/prevent-genai-apps-from-hallucinating?u=76281980&t=0)** - Have you ever wondered how to keep your generative AI applications from hallucinating so much?
+> **[0:00](https://www.linkedin.com/learning/graphrag-essential-training/prevent-genai-apps-from-hallucinating?u=76281980&t=0)** - Have you ever wondered how to keep your [[Generative AI]] applications from hallucinating so much?
 >
 > **[0:06](https://www.linkedin.com/learning/graphrag-essential-training/prevent-genai-apps-from-hallucinating?u=76281980&t=6)** Let me show you how to create a knowledge graph that you can use in retrieval augmented generation or RAG to deal with those annoying hallucinations.
 >
 > **[0:15](https://www.linkedin.com/learning/graphrag-essential-training/prevent-genai-apps-from-hallucinating?u=76281980&t=15)** Even if you know nothing about graphs, I'll show you how to create a knowledge graph in a graph database from unstructured text.
 >
-> **[0:23](https://www.linkedin.com/learning/graphrag-essential-training/prevent-genai-apps-from-hallucinating?u=76281980&t=23)** Then you can use it with common gen AI tools in Python to create a graph RAG that will power a real application all in a single afternoon.
+> **[0:23](https://www.linkedin.com/learning/graphrag-essential-training/prevent-genai-apps-from-hallucinating?u=76281980&t=23)** Then you can use it with common gen AI tools in [[Python (Programming Language)|Python]] to create a graph RAG that will power a real application all in a single afternoon.
 >
-> **[0:33](https://www.linkedin.com/learning/graphrag-essential-training/prevent-genai-apps-from-hallucinating?u=76281980&t=33)** I'm Claire Sullivan and I've been working in data science for more than two decades.
+> **[0:33](https://www.linkedin.com/learning/graphrag-essential-training/prevent-genai-apps-from-hallucinating?u=76281980&t=33)** I'm Claire Sullivan and I've been working in [[Data Science]] for more than two decades.
 >
 > **[0:37](https://www.linkedin.com/learning/graphrag-essential-training/prevent-genai-apps-from-hallucinating?u=76281980&t=37)** If you're ready to apply this powerful approach to your data, then let's get this graph party started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rag (2), data (2), [[Generative AI]] (1), database (1), ai (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[Python (Programming Language)|Python]] (1), [[Data Science]] (1)
 > **Env Vars:** rag (2)
 > **CLI Commands:** python (1)
 > **Speakers:** - have (1)
 
-#### An example of knowledge graphs at work in AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/an-example-of-knowledge-graphs-at-work-in-ai?u=76281980)
+#### [An example of knowledge graphs at work in AI](https://www.linkedin.com/learning/graphrag-essential-training/an-example-of-knowledge-graphs-at-work-in-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -144,7 +142,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/graphrag-essential-training/an-example-of-knowledge-graphs-at-work-in-ai?u=76281980&t=15)** But the answer depends on when you asked.
 >
-> **[0:18](https://www.linkedin.com/learning/graphrag-essential-training/an-example-of-knowledge-graphs-at-work-in-ai?u=76281980&t=18)** Large language models, or LLMs, that power chatbots have access to a limited set of facts, and those facts can be outdated, and new moons are being discovered around Jupiter all the time.
+> **[0:18](https://www.linkedin.com/learning/graphrag-essential-training/an-example-of-knowledge-graphs-at-work-in-ai?u=76281980&t=18)** [[Large Language Models (LLM)|Large language models]], or LLMs, that power chatbots have access to a limited set of facts, and those facts can be outdated, and new moons are being discovered around Jupiter all the time.
 >
 > **[0:32](https://www.linkedin.com/learning/graphrag-essential-training/an-example-of-knowledge-graphs-at-work-in-ai?u=76281980&t=32)** So the answer you get back from the chatbot depends on when the LLM was trained.
 >
@@ -158,7 +156,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/graphrag-essential-training/an-example-of-knowledge-graphs-at-work-in-ai?u=76281980&t=53)** If you ask why the number keeps changing or who discovered the latest moons, a simple document search might not be enough.
 >
-> **[1:02](https://www.linkedin.com/learning/graphrag-essential-training/an-example-of-knowledge-graphs-at-work-in-ai?u=76281980&t=62)** That's where knowledge graphs shine.
+> **[1:02](https://www.linkedin.com/learning/graphrag-essential-training/an-example-of-knowledge-graphs-at-work-in-ai?u=76281980&t=62)** That's where [[Knowledge Graphs]] shine.
 >
 > **[1:04](https://www.linkedin.com/learning/graphrag-essential-training/an-example-of-knowledge-graphs-at-work-in-ai?u=76281980&t=64)** They don't just store facts, they link them together, like who discovered which moon, when, using which telescope, or during which mission.
 >
@@ -184,23 +182,22 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/graphrag-essential-training/an-example-of-knowledge-graphs-at-work-in-ai?u=76281980&t=126)** And you don't even need to be an expert in astronomy or medicine.
 >
-> **[2:10](https://www.linkedin.com/learning/graphrag-essential-training/an-example-of-knowledge-graphs-at-work-in-ai?u=76281980&t=130)** We will use some basic Python and a simple graph database to make it happen.
+> **[2:10](https://www.linkedin.com/learning/graphrag-essential-training/an-example-of-knowledge-graphs-at-work-in-ai?u=76281980&t=130)** We will use some basic [[Python (Programming Language)|Python]] and a simple graph database to make it happen.
 >
 > **[2:15](https://www.linkedin.com/learning/graphrag-essential-training/an-example-of-knowledge-graphs-at-work-in-ai?u=76281980&t=135)** Let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), chatbot (4), llm (2), rag (2), [[Knowledge Graphs]] (2)
+> **Frameworks & Libraries:** [[Knowledge Graphs]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** llm (2), rag (2)
 > **CLI Commands:** python (1), make (1)
 > **Speakers:** - have (1)
 
-#### Codespaces explainer video
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/codespaces-explainer-video?u=76281980)
+#### [Codespaces explainer video](https://www.linkedin.com/learning/graphrag-essential-training/codespaces-explainer-video?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/graphrag-essential-training/codespaces-explainer-video?u=76281980&t=0)** - [Instructor] In this course, we'll be using GitHub Codespaces as our coding platform.
+> **[0:00](https://www.linkedin.com/learning/graphrag-essential-training/codespaces-explainer-video?u=76281980&t=0)** - [Instructor] In this course, we'll be using [[GitHub]] [[Codespaces]] as our coding platform.
 >
 > **[0:05](https://www.linkedin.com/learning/graphrag-essential-training/codespaces-explainer-video?u=76281980&t=5)** To get started with it, navigate to the course GitHub repository in your browser.
 >
@@ -208,13 +205,13 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/graphrag-essential-training/codespaces-explainer-video?u=76281980&t=24)** After a short period of time, you'll get something that looks like VS Code pop up in a tab in your browser.
 >
-> **[0:30](https://www.linkedin.com/learning/graphrag-essential-training/codespaces-explainer-video?u=76281980&t=30)** It has all of the code from the repository, plus is loaded with all of the Python packages we'll use for the course.
+> **[0:30](https://www.linkedin.com/learning/graphrag-essential-training/codespaces-explainer-video?u=76281980&t=30)** It has all of the code from the repository, plus is loaded with all of the [[Python (Programming Language)|Python]] packages we'll use for the course.
 >
 > **[0:36](https://www.linkedin.com/learning/graphrag-essential-training/codespaces-explainer-video?u=76281980&t=36)** While Codespaces is building, we can create our API key for our favorite LLM.
 >
-> **[0:42](https://www.linkedin.com/learning/graphrag-essential-training/codespaces-explainer-video?u=76281980&t=42)** I'll use OpenAI's ChatGPT, but you can use whatever LLM you like.
+> **[0:42](https://www.linkedin.com/learning/graphrag-essential-training/codespaces-explainer-video?u=76281980&t=42)** I'll use OpenAI's [[ChatGPT]], but you can use whatever LLM you like.
 >
-> **[0:47](https://www.linkedin.com/learning/graphrag-essential-training/codespaces-explainer-video?u=76281980&t=47)** To create an OpenAI API key, go to platform.[openai.com](https://openai.com) and either log in or create a new account.
+> **[0:47](https://www.linkedin.com/learning/graphrag-essential-training/codespaces-explainer-video?u=76281980&t=47)** To create an [[OpenAI API]] key, go to platform.[openai.com](https://openai.com) and either log in or create a new account.
 >
 > **[0:58](https://www.linkedin.com/learning/graphrag-essential-training/codespaces-explainer-video?u=76281980&t=58)** Once you're here, in the search tab, type api key.
 >
@@ -228,7 +225,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (4), [[GitHub]] (2), api (2), llm (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Codespaces]] (4), [[GitHub]] (2), [[Python (Programming Language)|Python]] (1), [[ChatGPT]] (1), [[OpenAI API]] (1)
 > **UI Navigation:** select the (2), navigate to (1), click on (1), go to (1)
 > **Env Vars:** api (2), llm (2)
 > **Tools:** github (2), vs code (1)
@@ -241,8 +238,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a graph?
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/what-is-a-graph?u=76281980)
+#### [What is a graph?](https://www.linkedin.com/learning/graphrag-essential-training/what-is-a-graph?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -284,9 +280,9 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/graphrag-essential-training/what-is-a-graph?u=76281980&t=96)** And third, do I care about those connections?
 >
-> **[1:41](https://www.linkedin.com/learning/graphrag-essential-training/what-is-a-graph?u=76281980&t=101)** In Gen AI, graphs help provide context to your large language models, or LLMs, because they show how different concepts relate.
+> **[1:41](https://www.linkedin.com/learning/graphrag-essential-training/what-is-a-graph?u=76281980&t=101)** In Gen AI, graphs help provide context to your [[Large Language Models (LLM)|large language models]], or LLMs, because they show how different concepts relate.
 >
-> **[1:50](https://www.linkedin.com/learning/graphrag-essential-training/what-is-a-graph?u=76281980&t=110)** I'm going to show you how using graphs through an approach called graph retrieval augmented generation, or GraphRAG, can reduce LLM hallucinations.
+> **[1:50](https://www.linkedin.com/learning/graphrag-essential-training/what-is-a-graph?u=76281980&t=110)** I'm going to show you how using graphs through an approach called graph retrieval augmented generation, or [[GraphRAG]], can reduce LLM hallucinations.
 >
 > **[1:59](https://www.linkedin.com/learning/graphrag-essential-training/what-is-a-graph?u=76281980&t=119)** That's when it just makes up answers.
 >
@@ -296,7 +292,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), ai (2), power (1), [[Search]] (1), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (1), [[GraphRAG]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1), such as (1)
 > **Env Vars:** llm (1)
@@ -304,8 +300,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - those (1)
 
-#### Recognizing graphs in everyday life
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/recognizing-graphs-in-everyday-life?u=76281980)
+#### [Recognizing graphs in everyday life](https://www.linkedin.com/learning/graphrag-essential-training/recognizing-graphs-in-everyday-life?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -313,9 +308,9 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/graphrag-essential-training/recognizing-graphs-in-everyday-life?u=76281980&t=5)** Every time you scroll through social media, get directions on your phone or binge watch Netflix, there's a graph working behind the scenes.
 >
-> **[0:14](https://www.linkedin.com/learning/graphrag-essential-training/recognizing-graphs-in-everyday-life?u=76281980&t=14)** Think about your social networks like LinkedIn.
+> **[0:14](https://www.linkedin.com/learning/graphrag-essential-training/recognizing-graphs-in-everyday-life?u=76281980&t=14)** Think about your social networks like [[LinkedIn]].
 >
-> **[0:17](https://www.linkedin.com/learning/graphrag-essential-training/recognizing-graphs-in-everyday-life?u=76281980&t=17)** The very use of the word network is a hint that you're interacting with a graph.
+> **[0:17](https://www.linkedin.com/learning/graphrag-essential-training/recognizing-graphs-in-everyday-life?u=76281980&t=17)** The very use of the [[Microsoft Word|word]] network is a hint that you're interacting with a graph.
 >
 > **[0:22](https://www.linkedin.com/learning/graphrag-essential-training/recognizing-graphs-in-everyday-life?u=76281980&t=22)** On social media, you're connected to your friends, they're connected to their friends, and it just keeps going.
 >
@@ -353,19 +348,18 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/graphrag-essential-training/recognizing-graphs-in-everyday-life?u=76281980&t=109)** Language models and AI chatbots use graphs to understand the relationship between words, which helps them predict and generate text that makes sense.
 >
-> **[1:58](https://www.linkedin.com/learning/graphrag-essential-training/recognizing-graphs-in-everyday-life?u=76281980&t=118)** As we get deeper into the course, we're going to talk a lot about that as we learn to create our own graphs of language that will be used for GraphRAG.
+> **[1:58](https://www.linkedin.com/learning/graphrag-essential-training/recognizing-graphs-in-everyday-life?u=76281980&t=118)** As we get deeper into the course, we're going to talk a lot about that as we learn to create our own graphs of language that will be used for [[GraphRAG]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), [[Microsoft Word|Word]] (2), [[LinkedIn]] (1), [[Search]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[LinkedIn]] (1), [[GraphRAG]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** gps (1)
 > **Definitions:** is a  (1)
 > **Analogies:** kind of like (1)
 > **Speakers:** - [narrator] (1)
 
-#### Why are graphs useful?
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/why-are-graphs-useful?u=76281980)
+#### [Why are graphs useful?](https://www.linkedin.com/learning/graphrag-essential-training/why-are-graphs-useful?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -383,7 +377,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/graphrag-essential-training/why-are-graphs-useful?u=76281980&t=38)** One of the great things about graphs is how easily they adapt to change.
 >
-> **[0:44](https://www.linkedin.com/learning/graphrag-essential-training/why-are-graphs-useful?u=76281980&t=44)** Traditional databases, like SQL, store data in fixed tables with rigid relationships.
+> **[0:44](https://www.linkedin.com/learning/graphrag-essential-training/why-are-graphs-useful?u=76281980&t=44)** Traditional [[Databases]], like [[SQL]], store data in fixed tables with rigid relationships.
 >
 > **[0:51](https://www.linkedin.com/learning/graphrag-essential-training/why-are-graphs-useful?u=76281980&t=51)** If you need to add a new connection, say, linking customer reviews to your product manuals, you might have to redesign the schema, update queries, and migrate data.
 >
@@ -415,7 +409,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/graphrag-essential-training/why-are-graphs-useful?u=76281980&t=127)** This means that they can easily hallucinate, making up information that sounds real but isn't.
 >
-> **[2:14](https://www.linkedin.com/learning/graphrag-essential-training/why-are-graphs-useful?u=76281980&t=134)** That's where GraphRAG comes in.
+> **[2:14](https://www.linkedin.com/learning/graphrag-essential-training/why-are-graphs-useful?u=76281980&t=134)** That's where [[GraphRAG]] comes in.
 >
 > **[2:16](https://www.linkedin.com/learning/graphrag-essential-training/why-are-graphs-useful?u=76281980&t=136)** Instead of relying on the model's built-in knowledge, we use a graph to provide structured, fact-based information.
 >
@@ -427,13 +421,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), product (2), [[Databases]] (1), [[SQL]] (1), [[GraphRAG]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[SQL]] (1), [[GraphRAG]] (1)
 > **Env Vars:** sql (1), llm (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Nodes, relationships, and properties
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/nodes-relationships-and-properties?u=76281980)
+#### [Nodes, relationships, and properties](https://www.linkedin.com/learning/graphrag-essential-training/nodes-relationships-and-properties?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -475,25 +468,24 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/graphrag-essential-training/nodes-relationships-and-properties?u=76281980&t=155)** They can provide the context and tell the LLM why something is the way it is.
 >
-> **[2:40](https://www.linkedin.com/learning/graphrag-essential-training/nodes-relationships-and-properties?u=76281980&t=160)** As we move forward, we're going to create graphs of concepts called knowledge graphs from raw text.
+> **[2:40](https://www.linkedin.com/learning/graphrag-essential-training/nodes-relationships-and-properties?u=76281980&t=160)** As we move forward, we're going to create graphs of concepts called [[Knowledge Graphs]] from raw text.
 >
 > **[2:47](https://www.linkedin.com/learning/graphrag-essential-training/nodes-relationships-and-properties?u=76281980&t=167)** In this case, our nouns will be our nodes and our verbs will be our relationships.
 >
 > **[2:53](https://www.linkedin.com/learning/graphrag-essential-training/nodes-relationships-and-properties?u=76281980&t=173)** The adjectives and adverbs become our properties.
 >
-> **[2:56](https://www.linkedin.com/learning/graphrag-essential-training/nodes-relationships-and-properties?u=76281980&t=176)** These knowledge graphs will be the basis for our GraphRAG moving forward and allow us to build smarter GenAI applications.
+> **[2:56](https://www.linkedin.com/learning/graphrag-essential-training/nodes-relationships-and-properties?u=76281980&t=176)** These knowledge graphs will be the basis for our [[GraphRAG]] moving forward and allow us to build smarter GenAI applications.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (5), [[Knowledge Graphs]] (2), generic (1), llm (1), [[GraphRAG]] (1)
+> **Frameworks & Libraries:** [[Knowledge Graphs]] (2), [[GraphRAG]] (1)
 > **CLI Commands:** node (5), make (4)
 > **Env Vars:** ceo (1), xyz (1), llm (1)
 > **Analogies:** for example (3)
 > **UI Navigation:** click on (1)
 > **Speakers:** - up (1)
 
-#### Graphs vs. traditional data structures
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/graphs-versus-traditional-data-structures?u=76281980)
+#### [Graphs vs. traditional data structures](https://www.linkedin.com/learning/graphrag-essential-training/graphs-versus-traditional-data-structures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -503,7 +495,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/graphrag-essential-training/graphs-versus-traditional-data-structures?u=76281980&t=12)** What makes a graph so special?
 >
-> **[0:16](https://www.linkedin.com/learning/graphrag-essential-training/graphs-versus-traditional-data-structures?u=76281980&t=16)** Let's start our discussion about data structures with a list, such as a linked list or an array.
+> **[0:16](https://www.linkedin.com/learning/graphrag-essential-training/graphs-versus-traditional-data-structures?u=76281980&t=16)** Let's start our discussion about [[Data Structures]] with a list, such as a linked list or an array.
 >
 > **[0:22](https://www.linkedin.com/learning/graphrag-essential-training/graphs-versus-traditional-data-structures?u=76281980&t=22)** Lists store items sequentially, which makes them efficient if you're dealing with data that follows some sort of ordered access or storing sequences.
 >
@@ -527,7 +519,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/graphrag-essential-training/graphs-versus-traditional-data-structures?u=76281980&t=100)** This means that they can support more complex relationships than a hierarchy.
 >
-> **[1:46](https://www.linkedin.com/learning/graphrag-essential-training/graphs-versus-traditional-data-structures?u=76281980&t=106)** Finally, what about tables, such as relational databases like SQL?
+> **[1:46](https://www.linkedin.com/learning/graphrag-essential-training/graphs-versus-traditional-data-structures?u=76281980&t=106)** Finally, what about tables, such as [[Relational Databases]] like [[SQL]]?
 >
 > **[1:51](https://www.linkedin.com/learning/graphrag-essential-training/graphs-versus-traditional-data-structures?u=76281980&t=111)** Tables store their data in rows and columns with a predefined schema, making them great for working with structured data.
 >
@@ -545,19 +537,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[SQL]] (4), [[Relational Databases]] (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Data Structures]] (2), [[Relational Databases]] (1)
 > **Env Vars:** sql (4)
 > **Definitions:** means that (2)
 > **Analogies:** such as (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Knowledge graphs: Connecting information
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/knowledge-graphs-connecting-information?u=76281980)
+#### [Knowledge graphs: Connecting information](https://www.linkedin.com/learning/graphrag-essential-training/knowledge-graphs-connecting-information?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/graphrag-essential-training/knowledge-graphs-connecting-information?u=76281980&t=0)** - [Instructor] Up until now, we've discussed knowledge graphs as a type of graph, but we haven't yet talked much about what they really are.
+> **[0:00](https://www.linkedin.com/learning/graphrag-essential-training/knowledge-graphs-connecting-information?u=76281980&t=0)** - [Instructor] Up until now, we've discussed [[Knowledge Graphs]] as a type of graph, but we haven't yet talked much about what they really are.
 >
 > **[0:09](https://www.linkedin.com/learning/graphrag-essential-training/knowledge-graphs-connecting-information?u=76281980&t=9)** A knowledge graph is a graph where each node in the graph represents a concept such as a person, place, or event.
 >
@@ -585,26 +576,25 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/graphrag-essential-training/knowledge-graphs-connecting-information?u=76281980&t=73)** GenAI systems are made better by using knowledge graphs to ground their answers in structured knowledge when done right, combining LLMs with knowledge graphs can help you assign meaning to different terms by considering the contextual relationships of the words.
 >
-> **[1:31](https://www.linkedin.com/learning/graphrag-essential-training/knowledge-graphs-connecting-information?u=76281980&t=91)** For example, if I were talking about the word apple, I could be referring to the computer, like in number one as you see on screen, or the fruit, like in number two.
+> **[1:31](https://www.linkedin.com/learning/graphrag-essential-training/knowledge-graphs-connecting-information?u=76281980&t=91)** For example, if I were talking about the [[Microsoft Word|word]] apple, I could be referring to the computer, like in number one as you see on screen, or the fruit, like in number two.
 >
 > **[1:42](https://www.linkedin.com/learning/graphrag-essential-training/knowledge-graphs-connecting-information?u=76281980&t=102)** By using a knowledge graph, your GenAI application will be able to understand the difference and provide you with relevant answers.
 >
-> **[1:50](https://www.linkedin.com/learning/graphrag-essential-training/knowledge-graphs-connecting-information?u=76281980&t=110)** In GraphRAG, knowledge graphs help improve the accuracy of your results and reduce hallucinations by making sure the retrieved facts are logically connected.
+> **[1:50](https://www.linkedin.com/learning/graphrag-essential-training/knowledge-graphs-connecting-information?u=76281980&t=110)** In [[GraphRAG]], knowledge graphs help improve the accuracy of your results and reduce hallucinations by making sure the retrieved facts are logically connected.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Knowledge Graphs]] (4), node (1), [[Microsoft Word|Word]] (1), application (1), [[GraphRAG]] (1)
+> **Frameworks & Libraries:** [[Knowledge Graphs]] (4), [[Microsoft Word|Word]] (1), [[GraphRAG]] (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** node (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### How graphs power AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/how-graphs-power-ai?u=76281980)
+#### [How graphs power AI](https://www.linkedin.com/learning/graphrag-essential-training/how-graphs-power-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/graphrag-essential-training/how-graphs-power-ai?u=76281980&t=0)** - In the same way that maps and GPS help us navigate cities, knowledge graphs help gen AI organize and retrieve information efficiently.
+> **[0:00](https://www.linkedin.com/learning/graphrag-essential-training/how-graphs-power-ai?u=76281980&t=0)** - In the same way that maps and GPS help us navigate cities, [[Knowledge Graphs]] help gen AI organize and retrieve information efficiently.
 >
 > **[0:09](https://www.linkedin.com/learning/graphrag-essential-training/how-graphs-power-ai?u=76281980&t=9)** Instead of treating text as isolated words, graphs provide structured pathways between concepts, helping gen AI understand relationships between things.
 >
@@ -618,7 +608,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/graphrag-essential-training/how-graphs-power-ai?u=76281980&t=44)** It's hard to tell when your friend is doing that because they're so confident, but graphs act like GPS, ensuring that AI sticks to verified paths rather than guessing based on incomplete information.
 >
-> **[0:58](https://www.linkedin.com/learning/graphrag-essential-training/how-graphs-power-ai?u=76281980&t=58)** When we use additional information to augment an LLM's knowledge to minimize hallucinations, we call this retrieval-augmented generation, or RAG, and it turns out that graphs are really great for RAG.
+> **[0:58](https://www.linkedin.com/learning/graphrag-essential-training/how-graphs-power-ai?u=76281980&t=58)** When we use additional information to augment an LLM's knowledge to minimize hallucinations, we call this [[Retrieval-Augmented Generation (RAG)|retrieval-augmented generation]], or RAG, and it turns out that graphs are really great for RAG.
 >
 > **[1:11](https://www.linkedin.com/learning/graphrag-essential-training/how-graphs-power-ai?u=76281980&t=71)** There are a few common ways you can do RAG.
 >
@@ -640,13 +630,13 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/graphrag-essential-training/how-graphs-power-ai?u=76281980&t=138)** Graphs don't just store facts, they also help AI reason, allowing it to infer new information from existing connections.
 >
-> **[2:26](https://www.linkedin.com/learning/graphrag-essential-training/how-graphs-power-ai?u=76281980&t=146)** By linking related concepts, graphs enable AI to make connections that might not be obvious in traditional databases, improving overall contextual awareness of your AI applications.
+> **[2:26](https://www.linkedin.com/learning/graphrag-essential-training/how-graphs-power-ai?u=76281980&t=146)** By linking related concepts, graphs enable AI to make connections that might not be obvious in traditional [[Databases]], improving overall contextual awareness of your AI applications.
 >
 > **[2:38](https://www.linkedin.com/learning/graphrag-essential-training/how-graphs-power-ai?u=76281980&t=158)** This structure makes graphs an essential tool for making AI not only more accurate but also more interpretable and reliable.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), rag (4), llm (2), [[Knowledge Graphs]] (1), data (1)
+> **Frameworks & Libraries:** [[Knowledge Graphs]] (1), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1), [[Databases]] (1)
 > **Env Vars:** rag (4), gps (2), llm (2)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** we call this (1), is a  (1)
@@ -659,8 +649,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a graph database?
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/what-is-a-graph-database?u=76281980)
+#### [What is a graph database?](https://www.linkedin.com/learning/graphrag-essential-training/what-is-a-graph-database?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -668,9 +657,9 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/graphrag-essential-training/what-is-a-graph-database?u=76281980&t=3)** It's a type of database designed to store and work with relationships between data in a natural way.
 >
-> **[0:10](https://www.linkedin.com/learning/graphrag-essential-training/what-is-a-graph-database?u=76281980&t=10)** Unlike traditional databases which focus on storing data in rows and columns, graph databases focus on how things are connected.
+> **[0:10](https://www.linkedin.com/learning/graphrag-essential-training/what-is-a-graph-database?u=76281980&t=10)** Unlike traditional [[Databases]] which focus on storing data in rows and columns, graph databases focus on how things are connected.
 >
-> **[0:19](https://www.linkedin.com/learning/graphrag-essential-training/what-is-a-graph-database?u=76281980&t=19)** In a relational database like SQL, you store data in tables and define connections.
+> **[0:19](https://www.linkedin.com/learning/graphrag-essential-training/what-is-a-graph-database?u=76281980&t=19)** In a relational database like [[SQL]], you store data in tables and define connections.
 >
 > **[0:25](https://www.linkedin.com/learning/graphrag-essential-training/what-is-a-graph-database?u=76281980&t=25)** You often need joins, which can slow things down as your data grows.
 >
@@ -682,7 +671,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/graphrag-essential-training/what-is-a-graph-database?u=76281980&t=54)** In a graph database, you just follow the connections, like tracing a path on a map, which is much faster and easier.
 >
-> **[1:03](https://www.linkedin.com/learning/graphrag-essential-training/what-is-a-graph-database?u=76281980&t=63)** Unlike relational databases where connections are inferred through foreign keys and joins, graph databases store relationships directly as part of the data.
+> **[1:03](https://www.linkedin.com/learning/graphrag-essential-training/what-is-a-graph-database?u=76281980&t=63)** Unlike [[Relational Databases]] where connections are inferred through foreign keys and joins, graph databases store relationships directly as part of the data.
 >
 > **[1:12](https://www.linkedin.com/learning/graphrag-essential-training/what-is-a-graph-database?u=76281980&t=72)** This really speeds up your queries because the database doesn't have to compute connections.
 >
@@ -700,18 +689,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Databases]] (8), database (7), node (3), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Databases]] (8), [[SQL]] (1), [[Relational Databases]] (1)
 > **CLI Commands:** node (3), find (2), make (1)
 > **Env Vars:** sql (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Introduction to Neo4j
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/introduction-to-neo4j?u=76281980)
+#### [Introduction to Neo4j](https://www.linkedin.com/learning/graphrag-essential-training/introduction-to-neo4j?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/graphrag-essential-training/introduction-to-neo4j?u=76281980&t=0)** - [Instructor] In this course, we'll be using the Neo4j Graph Database for our GraphRAG.
+> **[0:00](https://www.linkedin.com/learning/graphrag-essential-training/introduction-to-neo4j?u=76281980&t=0)** - [Instructor] In this course, we'll be using the [[Neo4j]] Graph Database for our [[GraphRAG]].
 >
 > **[0:05](https://www.linkedin.com/learning/graphrag-essential-training/introduction-to-neo4j?u=76281980&t=5)** Neo4j is a native graph database, which means it stores the data as nodes and relationships instead of rows and columns.
 >
@@ -721,7 +709,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/graphrag-essential-training/introduction-to-neo4j?u=76281980&t=35)** You'll mostly interact with Neo4j using Cypher, a graph query language.
 >
-> **[0:40](https://www.linkedin.com/learning/graphrag-essential-training/introduction-to-neo4j?u=76281980&t=40)** Cypher is a bit like SQL, but optimized for graph data.
+> **[0:40](https://www.linkedin.com/learning/graphrag-essential-training/introduction-to-neo4j?u=76281980&t=40)** Cypher is a bit like [[SQL]], but optimized for graph data.
 >
 > **[0:44](https://www.linkedin.com/learning/graphrag-essential-training/introduction-to-neo4j?u=76281980&t=44)** Instead of writing complex joins, you'll use a pattern-matching approach that feels more intuitive for working with connected data.
 >
@@ -733,25 +721,24 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/graphrag-essential-training/introduction-to-neo4j?u=76281980&t=79)** We'll use the easiest way, which is Neo4j AuraDB, a fully managed cloud service.
 >
-> **[1:25](https://www.linkedin.com/learning/graphrag-essential-training/introduction-to-neo4j?u=76281980&t=85)** As we get started, we'll be interfacing with AuraDB in the web browser through the Neo4j Browser, but once we get started writing our own applications, we'll be connecting to the database programmatically with the Python driver through the Bolt protocol.
+> **[1:25](https://www.linkedin.com/learning/graphrag-essential-training/introduction-to-neo4j?u=76281980&t=85)** As we get started, we'll be interfacing with AuraDB in the web browser through the Neo4j Browser, but once we get started writing our own applications, we'll be connecting to the database programmatically with the [[Python (Programming Language)|Python]] driver through the Bolt protocol.
 >
 > **[1:41](https://www.linkedin.com/learning/graphrag-essential-training/introduction-to-neo4j?u=76281980&t=101)** By the end of this course, we'll have created a fully functioning Gen AI application using LLMs and GraphRAG, written in Python, connecting to Neo4j AuraDB.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Neo4j]] (11), database (4), [[GraphRAG]] (3), data (3), ai (2)
+> **Frameworks & Libraries:** [[Neo4j]] (11), [[GraphRAG]] (3), [[Python (Programming Language)|Python]] (2), [[SQL]] (1)
 > **CLI Commands:** python (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** sql (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up Neo4j
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/setting-up-neo4j?u=76281980)
+#### [Setting up Neo4j](https://www.linkedin.com/learning/graphrag-essential-training/setting-up-neo4j?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/graphrag-essential-training/setting-up-neo4j?u=76281980&t=0)** - [Instructor] Let's start by using our web browser to navigate to login.[neo4j.com](https://neo4j.com).
+> **[0:00](https://www.linkedin.com/learning/graphrag-essential-training/setting-up-neo4j?u=76281980&t=0)** - [Instructor] Let's start by using our web browser to navigate to login.[[[Neo4j]].com](https://neo4j.com).
 >
 > **[0:07](https://www.linkedin.com/learning/graphrag-essential-training/setting-up-neo4j?u=76281980&t=7)** Here, you'll create a free account and log into Aura.
 >
@@ -785,21 +772,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), [[Neo4j]] (4), web (1), next (1)
+> **Frameworks & Libraries:** [[Neo4j]] (4)
 > **UI Navigation:** click on (2), navigate to (1)
 > **URLs:** [neo4j.com](https://neo4j.com) (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring the Neo4j browser
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/exploring-the-neo4j-browser?u=76281980)
+#### [Exploring the Neo4j browser](https://www.linkedin.com/learning/graphrag-essential-training/exploring-the-neo4j-browser?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/graphrag-essential-training/exploring-the-neo4j-browser?u=76281980&t=0)** - [Instructor] In order to really start using the browser, we need to have some data loaded into it.
 >
-> **[0:05](https://www.linkedin.com/learning/graphrag-essential-training/exploring-the-neo4j-browser?u=76281980&t=5)** So let's use one of the data sets associated with the welcome guide to get familiar with neo4j.
+> **[0:05](https://www.linkedin.com/learning/graphrag-essential-training/exploring-the-neo4j-browser?u=76281980&t=5)** So let's use one of the data sets associated with the welcome guide to get familiar with [[Neo4j]].
 >
 > **[0:12](https://www.linkedin.com/learning/graphrag-essential-training/exploring-the-neo4j-browser?u=76281980&t=12)** In the welcome guide, click on the query fundamentals guide.
 >
@@ -829,7 +815,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/graphrag-essential-training/exploring-the-neo4j-browser?u=76281980&t=86)** This will pull up a visualization of the data we just loaded.
 >
-> **[1:29](https://www.linkedin.com/learning/graphrag-essential-training/exploring-the-neo4j-browser?u=76281980&t=89)** We can zoom in on parts of the graph using the buttons on the lower right and see the nodes and relationships easily.
+> **[1:29](https://www.linkedin.com/learning/graphrag-essential-training/exploring-the-neo4j-browser?u=76281980&t=89)** We can [[Zoom]] in on parts of the graph using the buttons on the lower right and see the nodes and relationships easily.
 >
 > **[1:39](https://www.linkedin.com/learning/graphrag-essential-training/exploring-the-neo4j-browser?u=76281980&t=99)** On the right, we can tell that there are different types of nodes, like category, customer, and employee, and each node is represented in Bloom by a different color.
 >
@@ -851,11 +837,11 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/graphrag-essential-training/exploring-the-neo4j-browser?u=76281980&t=160)** I encourage you to spend some time with Bloom exploring this graph a little bit before we learn how to query it.
 >
-> **[2:46](https://www.linkedin.com/learning/graphrag-essential-training/exploring-the-neo4j-browser?u=76281980&t=166)** I'll meet you in the next video where we'll learn Cypher, the query language of graph databases.
+> **[2:46](https://www.linkedin.com/learning/graphrag-essential-training/exploring-the-neo4j-browser?u=76281980&t=166)** I'll meet you in the next video where we'll learn Cypher, the query language of graph [[Databases]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), node (4), [[Neo4j]] (2), next (2), [[Zoom]] (2)
+> **Frameworks & Libraries:** [[Neo4j]] (2), [[Zoom]] (2), [[Databases]] (1)
 > **UI Navigation:** click on (4), select the (1)
 > **CLI Commands:** node (4)
 > **Env Vars:** csv (1)
@@ -863,18 +849,17 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cypher basics: Writing your first queries
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/cypher-basics-writing-your-first-queries?u=76281980)
+#### [Cypher basics: Writing your first queries](https://www.linkedin.com/learning/graphrag-essential-training/cypher-basics-writing-your-first-queries?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/graphrag-essential-training/cypher-basics-writing-your-first-queries?u=76281980&t=0)** - [Instructor] While being able to visualize a graph is very helpful, we need to learn how to query it.
 >
-> **[0:05](https://www.linkedin.com/learning/graphrag-essential-training/cypher-basics-writing-your-first-queries?u=76281980&t=5)** Let's start by learning this in the browser and then we'll learn how to do it from Python.
+> **[0:05](https://www.linkedin.com/learning/graphrag-essential-training/cypher-basics-writing-your-first-queries?u=76281980&t=5)** Let's start by learning this in the browser and then we'll learn how to do it from [[Python (Programming Language)|Python]].
 >
-> **[0:11](https://www.linkedin.com/learning/graphrag-essential-training/cypher-basics-writing-your-first-queries?u=76281980&t=11)** Graph databases like Neo4j have their own query languages.
+> **[0:11](https://www.linkedin.com/learning/graphrag-essential-training/cypher-basics-writing-your-first-queries?u=76281980&t=11)** Graph [[Databases]] like [[Neo4j]] have their own query languages.
 >
-> **[0:15](https://www.linkedin.com/learning/graphrag-essential-training/cypher-basics-writing-your-first-queries?u=76281980&t=15)** Neo4j uses a language called Cypher, which has a lot of similarities to SQL.
+> **[0:15](https://www.linkedin.com/learning/graphrag-essential-training/cypher-basics-writing-your-first-queries?u=76281980&t=15)** Neo4j uses a language called Cypher, which has a lot of similarities to [[SQL]].
 >
 > **[0:20](https://www.linkedin.com/learning/graphrag-essential-training/cypher-basics-writing-your-first-queries?u=76281980&t=20)** Don't worry, you'll see plenty in this course to pick up the basics.
 >
@@ -930,7 +915,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Neo4j]] (4), node (4), [[SQL]] (3), [[Python (Programming Language)|Python]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Neo4j]] (4), [[SQL]] (3), [[Python (Programming Language)|Python]] (1), [[Databases]] (1)
 > **CLI Commands:** node (4), python (1), make (1)
 > **Env Vars:** sql (3), ascii (1)
 > **Analogies:** for example (3), such as (1)
@@ -938,8 +923,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### More cypher: Retrieving nodes and relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/more-cypher-retrieving-nodes-and-relationships?u=76281980)
+#### [More cypher: Retrieving nodes and relationships](https://www.linkedin.com/learning/graphrag-essential-training/more-cypher-retrieving-nodes-and-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -979,7 +963,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/graphrag-essential-training/more-cypher-retrieving-nodes-and-relationships?u=76281980&t=108)** You might find that using where statements is helpful when you start having multiple properties you're searching over.
 >
-> **[1:54](https://www.linkedin.com/learning/graphrag-essential-training/more-cypher-retrieving-nodes-and-relationships?u=76281980&t=114)** In this case, you can combine a where statement with an and just like you can in SQL to create a more sophisticated query.
+> **[1:54](https://www.linkedin.com/learning/graphrag-essential-training/more-cypher-retrieving-nodes-and-relationships?u=76281980&t=114)** In this case, you can combine a where statement with an and just like you can in [[SQL]] to create a more sophisticated query.
 >
 > **[2:03](https://www.linkedin.com/learning/graphrag-essential-training/more-cypher-retrieving-nodes-and-relationships?u=76281980&t=123)** Up until this point, we've been searching for single relationships between nodes, but Cypher is capable of much more than that, especially when we take advantage of the fact that it's a graphical language.
 >
@@ -993,23 +977,22 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/graphrag-essential-training/more-cypher-retrieving-nodes-and-relationships?u=76281980&t=165)** Cool, so we've learned how to find specific nodes and relationships in our graph.
 >
-> **[2:51](https://www.linkedin.com/learning/graphrag-essential-training/more-cypher-retrieving-nodes-and-relationships?u=76281980&t=171)** While Cypher is capable of doing much more than this, what we've learned in these simple commands is enough to get us started in creating our GraphRAG applications.
+> **[2:51](https://www.linkedin.com/learning/graphrag-essential-training/more-cypher-retrieving-nodes-and-relationships?u=76281980&t=171)** While Cypher is capable of doing much more than this, what we've learned in these simple commands is enough to get us started in creating our [[GraphRAG]] applications.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (4), [[SQL]] (1), [[GraphRAG]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[GraphRAG]] (1)
 > **CLI Commands:** find (6), node (4)
 > **Env Vars:** ascii (2), sql (1)
 > **UI Navigation:** click on (1), in the tab (1)
 > **Analogies:** just like (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Connecting Python to Neo4j
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/connecting-python-to-neo4j?u=76281980)
+#### [Connecting Python to Neo4j](https://www.linkedin.com/learning/graphrag-essential-training/connecting-python-to-neo4j?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/graphrag-essential-training/connecting-python-to-neo4j?u=76281980&t=0)** - [Instructor] Up until this point, we've been using the Neo4j browser to query the database, but in order to create GenAI applications based on Graphrag, we're going to want to do this in Python.
+> **[0:00](https://www.linkedin.com/learning/graphrag-essential-training/connecting-python-to-neo4j?u=76281980&t=0)** - [Instructor] Up until this point, we've been using the [[Neo4j]] browser to query the database, but in order to create GenAI applications based on [[GraphRAG]], we're going to want to do this in [[Python (Programming Language)|Python]].
 >
 > **[0:12](https://www.linkedin.com/learning/graphrag-essential-training/connecting-python-to-neo4j?u=76281980&t=12)** Fortunately, there's a Python driver for Neo4j that makes this easy for us.
 >
@@ -1055,23 +1038,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Neo4j]] (5), database (3), next (2), [[GraphRAG]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Neo4j]] (5), [[GraphRAG]] (1)
 > **CLI Commands:** python (6), make (1)
 > **Env Vars:** url (2), o207 (1), env (1)
 > **UI Navigation:** navigate to (1), select the (1), switch to (1)
 > **Versions:** python 3 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Testing your setup with Cypher queries
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/testing-your-setup-with-cypher-queries?u=76281980)
+#### [Testing your setup with Cypher queries](https://www.linkedin.com/learning/graphrag-essential-training/testing-your-setup-with-cypher-queries?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/graphrag-essential-training/testing-your-setup-with-cypher-queries?u=76281980&t=0)** - [Narrator] We've seen that we can query the database from Python.
+> **[0:00](https://www.linkedin.com/learning/graphrag-essential-training/testing-your-setup-with-cypher-queries?u=76281980&t=0)** - [Narrator] We've seen that we can query the database from [[Python (Programming Language)|Python]].
 >
-> **[0:03](https://www.linkedin.com/learning/graphrag-essential-training/testing-your-setup-with-cypher-queries?u=76281980&t=3)** Now let's talk about how to get the results of those queries into more Pythonic data structures.
+> **[0:03](https://www.linkedin.com/learning/graphrag-essential-training/testing-your-setup-with-cypher-queries?u=76281980&t=3)** Now let's talk about how to get the results of those queries into more Pythonic [[Data Structures]].
 >
-> **[0:11](https://www.linkedin.com/learning/graphrag-essential-training/testing-your-setup-with-cypher-queries?u=76281980&t=11)** Just a quick note that I've moved that Neo4j connection class into a utilities file, so we can just start right on in the querying.
+> **[0:11](https://www.linkedin.com/learning/graphrag-essential-training/testing-your-setup-with-cypher-queries?u=76281980&t=11)** Just a quick note that I've moved that [[Neo4j]] connection class into a utilities file, so we can just start right on in the querying.
 >
 > **[0:20](https://www.linkedin.com/learning/graphrag-essential-training/testing-your-setup-with-cypher-queries?u=76281980&t=20)** Let's start by looking at what our connection class is returning.
 >
@@ -1083,7 +1065,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/graphrag-essential-training/testing-your-setup-with-cypher-queries?u=76281980&t=55)** In fact, I find this way of looking at the data in Neo4j more helpful than Cipher because it's easy to see the properties fully shown on the screen.
 >
-> **[1:05](https://www.linkedin.com/learning/graphrag-essential-training/testing-your-setup-with-cypher-queries?u=76281980&t=65)** We can easily get these results into a Pandas data frame using this command.
+> **[1:05](https://www.linkedin.com/learning/graphrag-essential-training/testing-your-setup-with-cypher-queries?u=76281980&t=65)** We can easily get these results into a [[Pandas (Software)|Pandas]] data frame using this command.
 >
 > **[1:11](https://www.linkedin.com/learning/graphrag-essential-training/testing-your-setup-with-cypher-queries?u=76281980&t=71)** Let's look at a bit more sophisticated query as an example of how to pass variables from Python into Neo4j.
 >
@@ -1097,7 +1079,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/graphrag-essential-training/testing-your-setup-with-cypher-queries?u=76281980&t=112)** What this means is that the immediate category might already have the category name of beverages, but if not, it will traverse upwards through parent categories, like going from a subcategory to a parent category until it reaches a category with the category name of beverages.
 >
-> **[2:12](https://www.linkedin.com/learning/graphrag-essential-training/testing-your-setup-with-cypher-queries?u=76281980&t=132)** And then, we're just going to return a list of those products.
+> **[2:12](https://www.linkedin.com/learning/graphrag-essential-training/testing-your-setup-with-cypher-queries?u=76281980&t=132)** And then, we're just going to return a list of those [[Microsoft Products|products]].
 >
 > **[2:17](https://www.linkedin.com/learning/graphrag-essential-training/testing-your-setup-with-cypher-queries?u=76281980&t=137)** More specifically, we'll take the product name property and rename it as product.
 >
@@ -1107,11 +1089,11 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/graphrag-essential-training/testing-your-setup-with-cypher-queries?u=76281980&t=158)** We now have the ability to run cipher queries on our Neo4j database without ever leaving Python.
 >
-> **[2:45](https://www.linkedin.com/learning/graphrag-essential-training/testing-your-setup-with-cypher-queries?u=76281980&t=165)** Now that we know how to work with Neo4j and Cipher in Python, we have everything we need to start building cool gen AI apps using graphrag.
+> **[2:45](https://www.linkedin.com/learning/graphrag-essential-training/testing-your-setup-with-cypher-queries?u=76281980&t=165)** Now that we know how to work with Neo4j and Cipher in Python, we have everything we need to start building cool gen AI apps using [[GraphRAG]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Neo4j]] (5), product (5), data (3), database (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Neo4j]] (5), [[Microsoft Products|Products]] (2), [[Data Structures]] (1), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** python (6), find (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [narrator] (1)
@@ -1121,8 +1103,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to Retrieval-Augmented Generation (RAG)
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/introduction-to-retrieval-augmented-generation-rag?u=76281980)
+#### [Introduction to Retrieval-Augmented Generation (RAG)](https://www.linkedin.com/learning/graphrag-essential-training/introduction-to-retrieval-augmented-generation-rag?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1134,31 +1115,30 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/graphrag-essential-training/introduction-to-retrieval-augmented-generation-rag?u=76281980&t=14)** There's practically no limit to the data you can use for RAG.
 >
-> **[0:18](https://www.linkedin.com/learning/graphrag-essential-training/introduction-to-retrieval-augmented-generation-rag?u=76281980&t=18)** This data can come from PDFs, websites, structured databases, or even real-time APIs.
+> **[0:18](https://www.linkedin.com/learning/graphrag-essential-training/introduction-to-retrieval-augmented-generation-rag?u=76281980&t=18)** This data can come from PDFs, websites, structured [[Databases]], or even [[Real-Time]] APIs.
 >
 > **[0:24](https://www.linkedin.com/learning/graphrag-essential-training/introduction-to-retrieval-augmented-generation-rag?u=76281980&t=24)** Basically any source that holds the truth AI needs.
 >
-> **[0:29](https://www.linkedin.com/learning/graphrag-essential-training/introduction-to-retrieval-augmented-generation-rag?u=76281980&t=29)** For example, in this course, we're going to work with graphs as our RAG, and we'll be creating those graphs from unstructured data, like PDF documents.
+> **[0:29](https://www.linkedin.com/learning/graphrag-essential-training/introduction-to-retrieval-augmented-generation-rag?u=76281980&t=29)** For example, in this course, we're going to work with graphs as our RAG, and we'll be creating those graphs from [[Unstructured Data]], like PDF documents.
 >
 > **[0:38](https://www.linkedin.com/learning/graphrag-essential-training/introduction-to-retrieval-augmented-generation-rag?u=76281980&t=38)** I hope you will see that RAG isn't just cool, it's practical.
 >
-> **[0:42](https://www.linkedin.com/learning/graphrag-essential-training/introduction-to-retrieval-augmented-generation-rag?u=76281980&t=42)** It makes AI more reliable for things like customer support, research, medical advice, and even coding help.
+> **[0:42](https://www.linkedin.com/learning/graphrag-essential-training/introduction-to-retrieval-augmented-generation-rag?u=76281980&t=42)** It makes AI more reliable for things like [[Customer Support]], research, medical advice, and even coding help.
 >
 > **[0:52](https://www.linkedin.com/learning/graphrag-essential-training/introduction-to-retrieval-augmented-generation-rag?u=76281980&t=52)** Whenever you need facts plus AI-generated insights, RAG is the way to go.
 >
-> **[0:58](https://www.linkedin.com/learning/graphrag-essential-training/introduction-to-retrieval-augmented-generation-rag?u=76281980&t=58)** Now that you know what RAG is, we'll explore how to build it using Python, and of course, graphs.
+> **[0:58](https://www.linkedin.com/learning/graphrag-essential-training/introduction-to-retrieval-augmented-generation-rag?u=76281980&t=58)** Now that you know what RAG is, we'll explore how to build it using [[Python (Programming Language)|Python]], and of course, graphs.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rag (6), ai (4), data (2), [[Databases]] (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[Real-Time]] (1), [[Unstructured Data]] (1), [[Customer Support]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** rag (6), pdf (1)
 > **CLI Commands:** python (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### How RAG works with vector embeddings
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/how-rag-works-with-vector-embeddings?u=76281980)
+#### [How RAG works with vector embeddings](https://www.linkedin.com/learning/graphrag-essential-training/how-rag-works-with-vector-embeddings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1172,7 +1152,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/graphrag-essential-training/how-rag-works-with-vector-embeddings?u=76281980&t=22)** Traditional keyword searches aren't great for this, because they're too rigid.
 >
-> **[0:26](https://www.linkedin.com/learning/graphrag-essential-training/how-rag-works-with-vector-embeddings?u=76281980&t=26)** Remember our example with the word apple?
+> **[0:26](https://www.linkedin.com/learning/graphrag-essential-training/how-rag-works-with-vector-embeddings?u=76281980&t=26)** Remember our example with the [[Microsoft Word|word]] apple?
 >
 > **[0:28](https://www.linkedin.com/learning/graphrag-essential-training/how-rag-works-with-vector-embeddings?u=76281980&t=28)** If you just do a keyword search, you're likely to come up with the wrong answer.
 >
@@ -1198,7 +1178,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/graphrag-essential-training/how-rag-works-with-vector-embeddings?u=76281980&t=105)** So the process is this.
 >
-> **[1:47](https://www.linkedin.com/learning/graphrag-essential-training/how-rag-works-with-vector-embeddings?u=76281980&t=107)** First, you convert your sources of truth, like documents, articles, and databases, into vectors, which are stored in a vector database.
+> **[1:47](https://www.linkedin.com/learning/graphrag-essential-training/how-rag-works-with-vector-embeddings?u=76281980&t=107)** First, you convert your sources of truth, like documents, articles, and [[Databases]], into vectors, which are stored in a vector database.
 >
 > **[1:57](https://www.linkedin.com/learning/graphrag-essential-training/how-rag-works-with-vector-embeddings?u=76281980&t=117)** Next, you convert your input question into a vector.
 >
@@ -1212,20 +1192,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rag (5), ai (4), next (3), llm (3), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Databases]] (1)
 > **Env Vars:** rag (5), llm (3)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Improving your RAG with graphs: GraphRAG
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/improving-your-rag-with-graphs-graphrag?u=76281980)
+#### [Improving your RAG with graphs: GraphRAG](https://www.linkedin.com/learning/graphrag-essential-training/improving-your-rag-with-graphs-graphrag?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/graphrag-essential-training/improving-your-rag-with-graphs-graphrag?u=76281980&t=0)** - So you already know that retrieval augmented generation or RAG helps gen AI pull in relevant facts before generating responses.
 >
-> **[0:09](https://www.linkedin.com/learning/graphrag-essential-training/improving-your-rag-with-graphs-graphrag?u=76281980&t=9)** But let's talk about why GraphRAG is often a better choice than just using vector search.
+> **[0:09](https://www.linkedin.com/learning/graphrag-essential-training/improving-your-rag-with-graphs-graphrag?u=76281980&t=9)** But let's talk about why [[GraphRAG]] is often a better choice than just using vector search.
 >
 > **[0:15](https://www.linkedin.com/learning/graphrag-essential-training/improving-your-rag-with-graphs-graphrag?u=76281980&t=15)** As we saw in the last video, vector search is powerful.
 >
@@ -1259,7 +1238,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/graphrag-essential-training/improving-your-rag-with-graphs-graphrag?u=76281980&t=84)** Graphs also help with disambiguation.
 >
-> **[1:27](https://www.linkedin.com/learning/graphrag-essential-training/improving-your-rag-with-graphs-graphrag?u=76281980&t=87)** Say you ask about Python.
+> **[1:27](https://www.linkedin.com/learning/graphrag-essential-training/improving-your-rag-with-graphs-graphrag?u=76281980&t=87)** Say you ask about [[Python (Programming Language)|Python]].
 >
 > **[1:29](https://www.linkedin.com/learning/graphrag-essential-training/improving-your-rag-with-graphs-graphrag?u=76281980&t=89)** A vector search might return results about both the programming language and the snake.
 >
@@ -1291,21 +1270,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (6), [[GraphRAG]] (4), ai (3), rag (2), data (1)
+> **Frameworks & Libraries:** [[GraphRAG]] (4), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (1), find (1), python (1)
 > **Env Vars:** rag (2)
 > **Cross-References:** as we saw (1), in the last (1)
 > **Analogies:** for example (1)
 > **Speakers:** - so (1)
 
-#### Overview of LangChain
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/overview-of-langchain?u=76281980)
+#### [Overview of LangChain](https://www.linkedin.com/learning/graphrag-essential-training/overview-of-langchain?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/graphrag-essential-training/overview-of-langchain?u=76281980&t=0)** - [Instructor] Once we start programming GenAI applications in this course, we're going to be using a Python package called LangChain.
+> **[0:00](https://www.linkedin.com/learning/graphrag-essential-training/overview-of-langchain?u=76281980&t=0)** - [Instructor] Once we start programming GenAI applications in this course, we're going to be using a [[Python (Programming Language)|Python]] package called [[LangChain]].
 >
-> **[0:08](https://www.linkedin.com/learning/graphrag-essential-training/overview-of-langchain?u=76281980&t=8)** LangChain is a developer framework for working with large language models.
+> **[0:08](https://www.linkedin.com/learning/graphrag-essential-training/overview-of-langchain?u=76281980&t=8)** LangChain is a developer framework for working with [[Large Language Models (LLM)|large language models]].
 >
 > **[0:12](https://www.linkedin.com/learning/graphrag-essential-training/overview-of-langchain?u=76281980&t=12)** It's designed to make building AI applications easier and more flexible.
 >
@@ -1319,7 +1297,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/graphrag-essential-training/overview-of-langchain?u=76281980&t=48)** One great thing about it is that it supports a wide range of integrations, making it easy to connect your code to your data.
 >
-> **[0:55](https://www.linkedin.com/learning/graphrag-essential-training/overview-of-langchain?u=76281980&t=55)** It works with all of the popular LLMs, like those from OpenAI and Anthropic, databases like Neo4j and cloud services like AWS Azure and GCP.
+> **[0:55](https://www.linkedin.com/learning/graphrag-essential-training/overview-of-langchain?u=76281980&t=55)** It works with all of the popular LLMs, like those from OpenAI and Anthropic, [[Databases]] like [[Neo4j]] and [[Cloud Services]] like AWS [[Microsoft Azure|Azure]] and GCP.
 >
 > **[1:08](https://www.linkedin.com/learning/graphrag-essential-training/overview-of-langchain?u=76281980&t=68)** In just a minute, we'll actually begin programming with LangChain.
 >
@@ -1349,7 +1327,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/graphrag-essential-training/overview-of-langchain?u=76281980&t=140)** Once we have the prompt, we need to pass it to the LLM.
 >
-> **[2:23](https://www.linkedin.com/learning/graphrag-essential-training/overview-of-langchain?u=76281980&t=143)** Again, LangChain provides a convenient way to do that, like I'm showing here for ChatGPT-4o.
+> **[2:23](https://www.linkedin.com/learning/graphrag-essential-training/overview-of-langchain?u=76281980&t=143)** Again, LangChain provides a convenient way to do that, like I'm showing here for [[ChatGPT]]-4o.
 >
 > **[2:32](https://www.linkedin.com/learning/graphrag-essential-training/overview-of-langchain?u=76281980&t=152)** Finally, we represent the action of the prompt passing its information to the LLM as a chain using L cell.
 >
@@ -1371,29 +1349,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LangChain]] (10), prompt (8), llm (6), data (4), [[Programming]] (2)
+> **Frameworks & Libraries:** [[LangChain]] (10), [[Python (Programming Language)|Python]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[Databases]] (1), [[Neo4j]] (1)
 > **Env Vars:** llm (6), aws (1), gcp (1)
 > **CLI Commands:** make (2), python (1), aws (1)
 > **Definitions:** is a  (2)
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
 
-#### Key concepts in LangChain for graph workflows
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/key-concepts-in-langchain-for-graph-workflows?u=76281980)
+#### [Key concepts in LangChain for graph workflows](https://www.linkedin.com/learning/graphrag-essential-training/key-concepts-in-langchain-for-graph-workflows?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/graphrag-essential-training/key-concepts-in-langchain-for-graph-workflows?u=76281980&t=0)** - [Instructor] We've seen the basics of how to create chains in LangChain to take user input through a prompt and run it through an LLM.
+> **[0:00](https://www.linkedin.com/learning/graphrag-essential-training/key-concepts-in-langchain-for-graph-workflows?u=76281980&t=0)** - [Instructor] We've seen the basics of how to create chains in [[LangChain]] to take user input through a prompt and run it through an LLM.
 >
 > **[0:08](https://www.linkedin.com/learning/graphrag-essential-training/key-concepts-in-langchain-for-graph-workflows?u=76281980&t=8)** But how does this apply to graphs?
 >
-> **[0:10](https://www.linkedin.com/learning/graphrag-essential-training/key-concepts-in-langchain-for-graph-workflows?u=76281980&t=10)** It turns out that LangChain has its own integration of Neo4j and other graph tools.
+> **[0:10](https://www.linkedin.com/learning/graphrag-essential-training/key-concepts-in-langchain-for-graph-workflows?u=76281980&t=10)** It turns out that LangChain has its own integration of [[Neo4j]] and other graph tools.
 >
 > **[0:15](https://www.linkedin.com/learning/graphrag-essential-training/key-concepts-in-langchain-for-graph-workflows?u=76281980&t=15)** I guess they realize the importance of graphs to gen AI.
 >
-> **[0:19](https://www.linkedin.com/learning/graphrag-essential-training/key-concepts-in-langchain-for-graph-workflows?u=76281980&t=19)** This is going to help us in many ways as we set up to do GraphRAG.
+> **[0:19](https://www.linkedin.com/learning/graphrag-essential-training/key-concepts-in-langchain-for-graph-workflows?u=76281980&t=19)** This is going to help us in many ways as we set up to do [[GraphRAG]].
 >
-> **[0:23](https://www.linkedin.com/learning/graphrag-essential-training/key-concepts-in-langchain-for-graph-workflows?u=76281980&t=23)** Using the LangChain Neo4j integration, we can do a lot of things like establish a connection to the database, replace our Cypher queries with natural language queries, and even create our own knowledge graphs, all from within one ecosystem.
+> **[0:23](https://www.linkedin.com/learning/graphrag-essential-training/key-concepts-in-langchain-for-graph-workflows?u=76281980&t=23)** Using the LangChain Neo4j integration, we can do a lot of things like establish a connection to the database, replace our Cypher queries with natural language queries, and even create our own [[Knowledge Graphs]], all from within one ecosystem.
 >
 > **[0:39](https://www.linkedin.com/learning/graphrag-essential-training/key-concepts-in-langchain-for-graph-workflows?u=76281980&t=39)** In order to work with this integration, we need to make sure we have the LangChain Neo4j package installed.
 >
@@ -1429,19 +1406,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LangChain]] (6), llm (4), [[Neo4j]] (4), database (4), prompt (1)
+> **Frameworks & Libraries:** [[LangChain]] (6), [[Neo4j]] (4), [[GraphRAG]] (1), [[Knowledge Graphs]] (1)
 > **Env Vars:** llm (4)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** allow_dangerous_requests (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Populating a knowledge graph into Neo4j using LangChain
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/populating-a-knowledge-graph-into-neo4j-using-langchain?u=76281980)
+#### [Populating a knowledge graph into Neo4j using LangChain](https://www.linkedin.com/learning/graphrag-essential-training/populating-a-knowledge-graph-into-neo4j-using-langchain?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/graphrag-essential-training/populating-a-knowledge-graph-into-neo4j-using-langchain?u=76281980&t=0)** - [Instructor] Up until now, we've been working with a graph that's pre-populated in Neo4j, but now it's time to start creating our own knowledge graphs.
+> **[0:00](https://www.linkedin.com/learning/graphrag-essential-training/populating-a-knowledge-graph-into-neo4j-using-langchain?u=76281980&t=0)** - [Instructor] Up until now, we've been working with a graph that's pre-populated in [[Neo4j]], but now it's time to start creating our own [[Knowledge Graphs]].
 >
 > **[0:09](https://www.linkedin.com/learning/graphrag-essential-training/populating-a-knowledge-graph-into-neo4j-using-langchain?u=76281980&t=9)** There are a ton of different ways you can do this, but I'm going to show you a quick and simple way to convert raw text into a graph using some tools and Lang Chain.
 >
@@ -1465,7 +1441,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/graphrag-essential-training/populating-a-knowledge-graph-into-neo4j-using-langchain?u=76281980&t=77)** So let's start with that text here.
 >
-> **[1:21](https://www.linkedin.com/learning/graphrag-essential-training/populating-a-knowledge-graph-into-neo4j-using-langchain?u=76281980&t=81)** Before Gen AI, if we wanted to turn this into a graph, we'd have to do some fancy, complicated natural language processing by getting our subjects, verbs and objects and uploading them into the graph.
+> **[1:21](https://www.linkedin.com/learning/graphrag-essential-training/populating-a-knowledge-graph-into-neo4j-using-langchain?u=76281980&t=81)** Before Gen AI, if we wanted to turn this into a graph, we'd have to do some fancy, complicated [[Natural Language Processing (NLP)|natural language processing]] by getting our subjects, verbs and objects and uploading them into the graph.
 >
 > **[1:34](https://www.linkedin.com/learning/graphrag-essential-training/populating-a-knowledge-graph-into-neo4j-using-langchain?u=76281980&t=94)** It was ugly, but fortunately, Lang Chain has this LLM graph transformer tool to do it for us.
 >
@@ -1507,7 +1483,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), [[Neo4j]] (5), [[Knowledge Graphs]] (2), llm (2), node (2)
+> **Frameworks & Libraries:** [[Neo4j]] (5), [[Knowledge Graphs]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **CLI Commands:** make (3), node (2)
 > **Env Vars:** llm (2), env (1)
 > **Cross-References:** earlier in (1), go back to (1)
@@ -1516,8 +1492,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Analogies:** just like (1)
 
-#### Challenge: Query your knowledge graph with Cypher
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/challenge-query-your-knowledge-graph-with-cypher?u=76281980)
+#### [Challenge: Query your knowledge graph with Cypher](https://www.linkedin.com/learning/graphrag-essential-training/challenge-query-your-knowledge-graph-with-cypher?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1527,7 +1502,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/graphrag-essential-training/challenge-query-your-knowledge-graph-with-cypher?u=76281980&t=8)** You're going to take what we've learned to this point and create your own knowledge graph.
 >
-> **[0:13](https://www.linkedin.com/learning/graphrag-essential-training/challenge-query-your-knowledge-graph-with-cypher?u=76281980&t=13)** I recommend starting with another new Neo4j AuraDB instance, since you can only have one free instance running at a time.
+> **[0:13](https://www.linkedin.com/learning/graphrag-essential-training/challenge-query-your-knowledge-graph-with-cypher?u=76281980&t=13)** I recommend starting with another new [[Neo4j]] AuraDB instance, since you can only have one free instance running at a time.
 >
 > **[0:21](https://www.linkedin.com/learning/graphrag-essential-training/challenge-query-your-knowledge-graph-with-cypher?u=76281980&t=21)** While you're waiting for your new database to be created, think about what topic you'd like to create a knowledge graph around.
 >
@@ -1539,20 +1514,19 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/graphrag-essential-training/challenge-query-your-knowledge-graph-with-cypher?u=76281980&t=41)** So, go find some text and copy and paste it into the notebook to create your own knowledge graph.
 >
-> **[0:47](https://www.linkedin.com/learning/graphrag-essential-training/challenge-query-your-knowledge-graph-with-cypher?u=76281980&t=47)** Once your graph is created, be sure to explore it with either the Neo4j browser or in Python or both.
+> **[0:47](https://www.linkedin.com/learning/graphrag-essential-training/challenge-query-your-knowledge-graph-with-cypher?u=76281980&t=47)** Once your graph is created, be sure to explore it with either the Neo4j browser or in [[Python (Programming Language)|Python]] or both.
 >
 > **[0:54](https://www.linkedin.com/learning/graphrag-essential-training/challenge-query-your-knowledge-graph-with-cypher?u=76281980&t=54)** Then, come back for the next video where I'll show you how I created mine.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Neo4j]] (2), database (1), [[Python (Programming Language)|Python]] (1), next (1)
+> **Frameworks & Libraries:** [[Neo4j]] (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (2), python (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright upbeat music) (1)
 
-#### Solution: Query your knowledge graph with Cypher
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/solution-query-your-knowledge-graph-with-cypher?u=76281980)
+#### [Solution: Query your knowledge graph with Cypher](https://www.linkedin.com/learning/graphrag-essential-training/solution-query-your-knowledge-graph-with-cypher?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1560,7 +1534,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/graphrag-essential-training/solution-query-your-knowledge-graph-with-cypher?u=76281980&t=11)** Let me show you how I created and queried mine.
 >
-> **[0:15](https://www.linkedin.com/learning/graphrag-essential-training/solution-query-your-knowledge-graph-with-cypher?u=76281980&t=15)** To find my solutions, use Git to check out the solutions branch in the repo.
+> **[0:15](https://www.linkedin.com/learning/graphrag-essential-training/solution-query-your-knowledge-graph-with-cypher?u=76281980&t=15)** To find my solutions, use [[Git]] to check out the solutions branch in the repo.
 >
 > **[0:20](https://www.linkedin.com/learning/graphrag-essential-training/solution-query-your-knowledge-graph-with-cypher?u=76281980&t=20)** Then go to the notebooks directory and navigate to the solutions subdirectory, where you will then open the 03_08 notebook.
 >
@@ -1568,7 +1542,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/graphrag-essential-training/solution-query-your-knowledge-graph-with-cypher?u=76281980&t=34)** For my knowledge graph, I picked a subject near and dear to my heart that I know a fair bit about, skiing.
 >
-> **[0:41](https://www.linkedin.com/learning/graphrag-essential-training/solution-query-your-knowledge-graph-with-cypher?u=76281980&t=41)** One way you could get this information on your topic is to go copy and paste the text off of Wikipedia, but in my case, I decided to use this Wikipedia loader abstraction built into LangChain.
+> **[0:41](https://www.linkedin.com/learning/graphrag-essential-training/solution-query-your-knowledge-graph-with-cypher?u=76281980&t=41)** One way you could get this information on your topic is to go copy and paste the text off of Wikipedia, but in my case, I decided to use this Wikipedia loader abstraction built into [[LangChain]].
 >
 > **[0:54](https://www.linkedin.com/learning/graphrag-essential-training/solution-query-your-knowledge-graph-with-cypher?u=76281980&t=54)** You give it a keyword and it goes and finds the Wikipedia pages associated with it.
 >
@@ -1578,13 +1552,13 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/graphrag-essential-training/solution-query-your-knowledge-graph-with-cypher?u=76281980&t=85)** This will take several minutes to run, depending on the length of your text.
 >
-> **[1:30](https://www.linkedin.com/learning/graphrag-essential-training/solution-query-your-knowledge-graph-with-cypher?u=76281980&t=90)** Like we did in an earlier video, I used the LangChain LLM Graph Transformer to extract the nodes and relationships from the list of documents, and then use the add graph documents method to populate my Neo4j database.
+> **[1:30](https://www.linkedin.com/learning/graphrag-essential-training/solution-query-your-knowledge-graph-with-cypher?u=76281980&t=90)** Like we did in an earlier video, I used the LangChain LLM Graph Transformer to extract the nodes and relationships from the list of documents, and then use the add graph documents method to populate my [[Neo4j]] database.
 >
 > **[1:45](https://www.linkedin.com/learning/graphrag-essential-training/solution-query-your-knowledge-graph-with-cypher?u=76281980&t=105)** And just a quick note, if you see an error message like this one talking about a timeout error, that is telling you that the previous block of code took a bit too long to run, so you need to reestablish the connection.
 >
 > **[1:57](https://www.linkedin.com/learning/graphrag-essential-training/solution-query-your-knowledge-graph-with-cypher?u=76281980&t=117)** If you just rerun this cell, it should take care of it.
 >
-> **[2:02](https://www.linkedin.com/learning/graphrag-essential-training/solution-query-your-knowledge-graph-with-cypher?u=76281980&t=122)** Here's a tip, knowledge graphs are only as good as the nodes and relationships you can put in them.
+> **[2:02](https://www.linkedin.com/learning/graphrag-essential-training/solution-query-your-knowledge-graph-with-cypher?u=76281980&t=122)** Here's a tip, [[Knowledge Graphs]] are only as good as the nodes and relationships you can put in them.
 >
 > **[2:08](https://www.linkedin.com/learning/graphrag-essential-training/solution-query-your-knowledge-graph-with-cypher?u=76281980&t=128)** So check to be sure your graph has enough information in it.
 >
@@ -1602,11 +1576,11 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/graphrag-essential-training/solution-query-your-knowledge-graph-with-cypher?u=76281980&t=173)** Awesome, now you've seen how to create a knowledge graph of raw text using some very simple methods.
 >
-> **[3:00](https://www.linkedin.com/learning/graphrag-essential-training/solution-query-your-knowledge-graph-with-cypher?u=76281980&t=180)** Moving forward, we'll use this knowledge graph to create a GraphRAG question answering application.
+> **[3:00](https://www.linkedin.com/learning/graphrag-essential-training/solution-query-your-knowledge-graph-with-cypher?u=76281980&t=180)** Moving forward, we'll use this knowledge graph to create a [[GraphRAG]] question answering application.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LangChain]] (3), [[Neo4j]] (2), [[Git]] (1), llm (1), database (1)
+> **Frameworks & Libraries:** [[LangChain]] (3), [[Neo4j]] (2), [[Git]] (1), [[Knowledge Graphs]] (1), [[GraphRAG]] (1)
 > **CLI Commands:** find (2), make (2), git (1)
 > **UI Navigation:** go to (1), navigate to (1), open the (1)
 > **Env Vars:** env (1), llm (1)
@@ -1617,14 +1591,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating a GraphRAG pipeline with LangChain to query your data
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/creating-a-graphrag-pipeline-with-langchain-to-query-your-data?u=76281980)
+#### [Creating a GraphRAG pipeline with LangChain to query your data](https://www.linkedin.com/learning/graphrag-essential-training/creating-a-graphrag-pipeline-with-langchain-to-query-your-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/graphrag-essential-training/creating-a-graphrag-pipeline-with-langchain-to-query-your-data?u=76281980&t=0)** - [Instructor] Now that you've created your own knowledge graph, we're going to learn how to create a GraphRAG pipeline of that graph with LangChain.
+> **[0:00](https://www.linkedin.com/learning/graphrag-essential-training/creating-a-graphrag-pipeline-with-langchain-to-query-your-data?u=76281980&t=0)** - [Instructor] Now that you've created your own knowledge graph, we're going to learn how to create a [[GraphRAG]] pipeline of that graph with [[LangChain]].
 >
-> **[0:08](https://www.linkedin.com/learning/graphrag-essential-training/creating-a-graphrag-pipeline-with-langchain-to-query-your-data?u=76281980&t=8)** As usual, we'll make our connection to our graph with the Neo4j graph method shown before.
+> **[0:08](https://www.linkedin.com/learning/graphrag-essential-training/creating-a-graphrag-pipeline-with-langchain-to-query-your-data?u=76281980&t=8)** As usual, we'll make our connection to our graph with the [[Neo4j]] graph method shown before.
 >
 > **[0:15](https://www.linkedin.com/learning/graphrag-essential-training/creating-a-graphrag-pipeline-with-langchain-to-query-your-data?u=76281980&t=15)** I always like to verify that I'm really connected by doing a quick, simple query like counting nodes.
 >
@@ -1704,7 +1677,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (11), llm (10), node (3), [[LangChain]] (2), [[Neo4j]] (2)
+> **Frameworks & Libraries:** [[LangChain]] (2), [[Neo4j]] (2), [[GraphRAG]] (1)
 > **Env Vars:** llm (10)
 > **CLI Commands:** node (3), make (1)
 > **Exercise Files:** template (2)
@@ -1712,8 +1685,7 @@ created: 2026-05-02
 > **Warnings:** gotcha (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enhancing your knowledge graph with richer data
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/enhancing-your-knowledge-graph-with-richer-data?u=76281980)
+#### [Enhancing your knowledge graph with richer data](https://www.linkedin.com/learning/graphrag-essential-training/enhancing-your-knowledge-graph-with-richer-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1733,11 +1705,11 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/graphrag-essential-training/enhancing-your-knowledge-graph-with-richer-data?u=76281980&t=35)** It's helpful to find PDFs about subtopics that your graph might be lacking to provide additional information.
 >
-> **[0:42](https://www.linkedin.com/learning/graphrag-essential-training/enhancing-your-knowledge-graph-with-richer-data?u=76281980&t=42)** I'm going to load it in using a built-in LangChain tool for importing PDF files and extracting the text from them called PyPDFLoader.
+> **[0:42](https://www.linkedin.com/learning/graphrag-essential-training/enhancing-your-knowledge-graph-with-richer-data?u=76281980&t=42)** I'm going to load it in using a built-in [[LangChain]] tool for importing PDF files and extracting the text from them called PyPDFLoader.
 >
 > **[0:57](https://www.linkedin.com/learning/graphrag-essential-training/enhancing-your-knowledge-graph-with-richer-data?u=76281980&t=57)** When I do that, I get back a list of LangChain documents.
 >
-> **[1:01](https://www.linkedin.com/learning/graphrag-essential-training/enhancing-your-knowledge-graph-with-richer-data?u=76281980&t=61)** In LangChain, a document is a class that represents a chunk of content, typically from a file or external source, and it's used throughout LangChain to pass around text and metadata.
+> **[1:01](https://www.linkedin.com/learning/graphrag-essential-training/enhancing-your-knowledge-graph-with-richer-data?u=76281980&t=61)** In LangChain, a document is a class that represents a chunk of content, typically from a file or external source, and it's used throughout LangChain to pass around text and [[Metadata]].
 >
 > **[1:14](https://www.linkedin.com/learning/graphrag-essential-training/enhancing-your-knowledge-graph-with-richer-data?u=76281980&t=74)** But if I look at how many documents we have, there are 11 of them, which correspond to the number of pages in this PDF file.
 >
@@ -1797,21 +1769,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LangChain]] (8), data (4), llm (3), web (2), rag (2)
+> **Frameworks & Libraries:** [[LangChain]] (8), [[Metadata]] (1)
 > **Env Vars:** pdf (6), llm (3), rag (2), api (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using knowledge graphs in a GraphRAG pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/using-knowledge-graphs-in-a-graphrag-pipeline?u=76281980)
+#### [Using knowledge graphs in a GraphRAG pipeline](https://www.linkedin.com/learning/graphrag-essential-training/using-knowledge-graphs-in-a-graphrag-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/graphrag-essential-training/using-knowledge-graphs-in-a-graphrag-pipeline?u=76281980&t=0)** - [Instructor] So, we've seen how we can run queries against our Knowledge Graph using the GraphCipherQAChain functionality.
 >
-> **[0:08](https://www.linkedin.com/learning/graphrag-essential-training/using-knowledge-graphs-in-a-graphrag-pipeline?u=76281980&t=8)** This will be the basis of all of your GraphRag applications.
+> **[0:08](https://www.linkedin.com/learning/graphrag-essential-training/using-knowledge-graphs-in-a-graphrag-pipeline?u=76281980&t=8)** This will be the basis of all of your [[GraphRAG]] applications.
 >
 > **[0:12](https://www.linkedin.com/learning/graphrag-essential-training/using-knowledge-graphs-in-a-graphrag-pipeline?u=76281980&t=12)** At this point, you might have come across problems as you've run this with the LLM, not entirely working well with your graph.
 >
@@ -1833,15 +1804,15 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/graphrag-essential-training/using-knowledge-graphs-in-a-graphrag-pipeline?u=76281980&t=58)** Like any other database, schema refers to how the data is organized.
 >
-> **[1:03](https://www.linkedin.com/learning/graphrag-essential-training/using-knowledge-graphs-in-a-graphrag-pipeline?u=76281980&t=63)** In SQL, the schema shows the tables that exist, which columns are in each table, and which columns are in common among each table.
+> **[1:03](https://www.linkedin.com/learning/graphrag-essential-training/using-knowledge-graphs-in-a-graphrag-pipeline?u=76281980&t=63)** In [[SQL]], the schema shows the tables that exist, which columns are in each table, and which columns are in common among each table.
 >
 > **[1:12](https://www.linkedin.com/learning/graphrag-essential-training/using-knowledge-graphs-in-a-graphrag-pipeline?u=76281980&t=72)** For graphs, the schema describes which type of nodes are connected to which other types of nodes.
 >
-> **[1:19](https://www.linkedin.com/learning/graphrag-essential-training/using-knowledge-graphs-in-a-graphrag-pipeline?u=76281980&t=79)** We can get the graph schema in the Neo4j browser, using the CALL DB.schema.visualization procedure.
+> **[1:19](https://www.linkedin.com/learning/graphrag-essential-training/using-knowledge-graphs-in-a-graphrag-pipeline?u=76281980&t=79)** We can get the graph schema in the [[Neo4j]] browser, using the CALL DB.schema.visualization procedure.
 >
-> **[1:27](https://www.linkedin.com/learning/graphrag-essential-training/using-knowledge-graphs-in-a-graphrag-pipeline?u=76281980&t=87)** Another way to do this, and one that's going to be more helpful as we program our GraphRag applications, is by allowing LangChain to tell us what the schema is.
+> **[1:27](https://www.linkedin.com/learning/graphrag-essential-training/using-knowledge-graphs-in-a-graphrag-pipeline?u=76281980&t=87)** Another way to do this, and one that's going to be more helpful as we program our GraphRag applications, is by allowing [[LangChain]] to tell us what the schema is.
 >
-> **[1:38](https://www.linkedin.com/learning/graphrag-essential-training/using-knowledge-graphs-in-a-graphrag-pipeline?u=76281980&t=98)** In our earlier video, the schema was automatically passed into the query, but we can also inspect it from within Python, using the graph object like this.
+> **[1:38](https://www.linkedin.com/learning/graphrag-essential-training/using-knowledge-graphs-in-a-graphrag-pipeline?u=76281980&t=98)** In our earlier video, the schema was automatically passed into the query, but we can also inspect it from within [[Python (Programming Language)|Python]], using the graph object like this.
 >
 > **[1:51](https://www.linkedin.com/learning/graphrag-essential-training/using-knowledge-graphs-in-a-graphrag-pipeline?u=76281980&t=111)** You can also get an enhanced schema by passing this additional keyword into the creation of the graph object.
 >
@@ -1867,18 +1838,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (10), llm (6), [[GraphRAG]] (3), database (3), data (3)
+> **Frameworks & Libraries:** [[GraphRAG]] (3), [[SQL]] (1), [[Neo4j]] (1), [[LangChain]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** llm (6), sql (1), call (1)
 > **CLI Commands:** python (1), node (1)
 > **Definitions:** refers to (1), is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Comparing the GraphRAG results to a traditional vector-based RAG
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/comparing-the-graphrag-results-to-a-traditional-vector-based-rag?u=76281980)
+#### [Comparing the GraphRAG results to a traditional vector-based RAG](https://www.linkedin.com/learning/graphrag-essential-training/comparing-the-graphrag-results-to-a-traditional-vector-based-rag?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/graphrag-essential-training/comparing-the-graphrag-results-to-a-traditional-vector-based-rag?u=76281980&t=0)** - [Instructor] We've now seen how we can create a knowledge graph and implement it into our GraphRAG pipeline.
+> **[0:00](https://www.linkedin.com/learning/graphrag-essential-training/comparing-the-graphrag-results-to-a-traditional-vector-based-rag?u=76281980&t=0)** - [Instructor] We've now seen how we can create a knowledge graph and implement it into our [[GraphRAG]] pipeline.
 >
 > **[0:06](https://www.linkedin.com/learning/graphrag-essential-training/comparing-the-graphrag-results-to-a-traditional-vector-based-rag?u=76281980&t=6)** But you might be asking yourself, is it really worth it?
 >
@@ -1910,14 +1880,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphRAG]] (4), rag (3), database (3), data (2), application (1)
+> **Frameworks & Libraries:** [[GraphRAG]] (4)
 > **Env Vars:** rag (3), llm (1)
 > **Definitions:** means that (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Evaluating your GraphRAG pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/evaluating-your-graphrag-pipeline?u=76281980)
+#### [Evaluating your GraphRAG pipeline](https://www.linkedin.com/learning/graphrag-essential-training/evaluating-your-graphrag-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1947,7 +1916,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/graphrag-essential-training/evaluating-your-graphrag-pipeline?u=76281980&t=67)** So let's code that up.
 >
-> **[1:09](https://www.linkedin.com/learning/graphrag-essential-training/evaluating-your-graphrag-pipeline?u=76281980&t=69)** There are a lot of different packages out there for evaluating GenAI performance, including the popular LangSmith package from LangChain.
+> **[1:09](https://www.linkedin.com/learning/graphrag-essential-training/evaluating-your-graphrag-pipeline?u=76281980&t=69)** There are a lot of different packages out there for evaluating GenAI performance, including the popular LangSmith package from [[LangChain]].
 >
 > **[1:17](https://www.linkedin.com/learning/graphrag-essential-training/evaluating-your-graphrag-pipeline?u=76281980&t=77)** However, we are going to use this very simple class in LangChain called QAEvalChain.
 >
@@ -1971,13 +1940,13 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/graphrag-essential-training/evaluating-your-graphrag-pipeline?u=76281980&t=158)** So this simple approach gives you a basic accuracy score or how many answers matched what you expected.
 >
-> **[2:44](https://www.linkedin.com/learning/graphrag-essential-training/evaluating-your-graphrag-pipeline?u=76281980&t=164)** Remember, there are many different metrics you can use to evaluate your GraphRAG applications, such as helpfulness, relevance, or even traceability in the graph.
+> **[2:44](https://www.linkedin.com/learning/graphrag-essential-training/evaluating-your-graphrag-pipeline?u=76281980&t=164)** Remember, there are many different metrics you can use to evaluate your [[GraphRAG]] applications, such as helpfulness, relevance, or even traceability in the graph.
 >
 > **[2:53](https://www.linkedin.com/learning/graphrag-essential-training/evaluating-your-graphrag-pipeline?u=76281980&t=173)** But for quick testing and evaluation, accuracy is your friend.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (2), [[LangChain]] (2), application (1), rag (1), next (1)
+> **Frameworks & Libraries:** [[LangChain]] (2), [[GraphRAG]] (1)
 > **Env Vars:** llm (2), rag (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1)
@@ -1985,8 +1954,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Evaluate your GraphRAG application
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/challenge-evaluate-your-graphrag-application?u=76281980)
+#### [Challenge: Evaluate your GraphRAG application](https://www.linkedin.com/learning/graphrag-essential-training/challenge-evaluate-your-graphrag-application?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1994,7 +1962,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/graphrag-essential-training/challenge-evaluate-your-graphrag-application?u=76281980&t=5)** - [Instructor] Now it's your turn.
 >
-> **[0:06](https://www.linkedin.com/learning/graphrag-essential-training/challenge-evaluate-your-graphrag-application?u=76281980&t=6)** You've created a knowledge graph in Neo4j and a QA pipeline with LangChain.
+> **[0:06](https://www.linkedin.com/learning/graphrag-essential-training/challenge-evaluate-your-graphrag-application?u=76281980&t=6)** You've created a knowledge graph in [[Neo4j]] and a QA pipeline with [[LangChain]].
 >
 > **[0:11](https://www.linkedin.com/learning/graphrag-essential-training/challenge-evaluate-your-graphrag-application?u=76281980&t=11)** But how well does it work?
 >
@@ -2020,7 +1988,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (3), application (2), [[Neo4j]] (1), [[LangChain]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Neo4j]] (1), [[LangChain]] (1)
 > **CLI Commands:** find (4), make (1)
 > **Env Vars:** llm (3)
 > **Cross-References:** in the next (1)
@@ -2028,12 +1996,11 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat electronic music) (1)
 
-#### Solution: Evaluate your GraphRAG application
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/solution-evaluate-your-graphrag-application?u=76281980)
+#### [Solution: Evaluate your GraphRAG application](https://www.linkedin.com/learning/graphrag-essential-training/solution-evaluate-your-graphrag-application?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/graphrag-essential-training/solution-evaluate-your-graphrag-application?u=76281980&t=5)** - So hopefully at this point, you've had a chance to create some test questions for your graph and see how your GraphRAG application does at answering them.
+> **[0:05](https://www.linkedin.com/learning/graphrag-essential-training/solution-evaluate-your-graphrag-application?u=76281980&t=5)** - So hopefully at this point, you've had a chance to create some test questions for your graph and see how your [[GraphRAG]] application does at answering them.
 >
 > **[0:13](https://www.linkedin.com/learning/graphrag-essential-training/solution-evaluate-your-graphrag-application?u=76281980&t=13)** And if you're like most of us, you probably found out you had to tweak things quite a bit as you discovered how the evaluation responded.
 >
@@ -2041,7 +2008,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/graphrag-essential-training/solution-evaluate-your-graphrag-application?u=76281980&t=27)** So as you worked with it more, hopefully you played around with both of those in an attempt to create a better evaluation.
 >
-> **[0:34](https://www.linkedin.com/learning/graphrag-essential-training/solution-evaluate-your-graphrag-application?u=76281980&t=34)** Remember to use GIT in order to check out the solutions branch instead of the main branch if you want to see my code.
+> **[0:34](https://www.linkedin.com/learning/graphrag-essential-training/solution-evaluate-your-graphrag-application?u=76281980&t=34)** Remember to use [[Git]] in order to check out the solutions branch instead of the main branch if you want to see my code.
 >
 > **[0:42](https://www.linkedin.com/learning/graphrag-essential-training/solution-evaluate-your-graphrag-application?u=76281980&t=42)** I also want to tell you that crafting good QA pairs for evaluation of your GraphRAG can be really tricky and take a lot of trial and error.
 >
@@ -2059,7 +2026,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/graphrag-essential-training/solution-evaluate-your-graphrag-application?u=76281980&t=87)** As you can see for some of the questions, my app performed pretty well, but let's look at this query about ski poles.
 >
-> **[1:34](https://www.linkedin.com/learning/graphrag-essential-training/solution-evaluate-your-graphrag-application?u=76281980&t=94)** We'll copy that and run it in the Neo4j browser.
+> **[1:34](https://www.linkedin.com/learning/graphrag-essential-training/solution-evaluate-your-graphrag-application?u=76281980&t=94)** We'll copy that and run it in the [[Neo4j]] browser.
 >
 > **[1:44](https://www.linkedin.com/learning/graphrag-essential-training/solution-evaluate-your-graphrag-application?u=76281980&t=104)** Notice that there are a lot of nodes returned.
 >
@@ -2067,7 +2034,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/graphrag-essential-training/solution-evaluate-your-graphrag-application?u=76281980&t=113)** Also, remember that this question asked which activity does not use polls.
 >
-> **[1:59](https://www.linkedin.com/learning/graphrag-essential-training/solution-evaluate-your-graphrag-application?u=76281980&t=119)** I would recommend that you avoid queries with the word not since they can lead to confusion like here.
+> **[1:59](https://www.linkedin.com/learning/graphrag-essential-training/solution-evaluate-your-graphrag-application?u=76281980&t=119)** I would recommend that you avoid queries with the [[Microsoft Word|word]] not since they can lead to confusion like here.
 >
 > **[2:07](https://www.linkedin.com/learning/graphrag-essential-training/solution-evaluate-your-graphrag-application?u=76281980&t=127)** Up until now, we've only looked at nodes directly connected to other nodes in our evaluation.
 >
@@ -2127,7 +2094,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphRAG]] (5), prompt (4), llm (4), node (3), application (2)
+> **Frameworks & Libraries:** [[GraphRAG]] (5), [[Neo4j]] (2), [[Git]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** llm (4), fis (2), git (1)
 > **CLI Commands:** node (3), make (2), git (1)
 > **UI Navigation:** go to (1)
@@ -2140,8 +2107,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to capstone project
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/introduction-to-capstone-project?u=76281980)
+#### [Introduction to capstone project](https://www.linkedin.com/learning/graphrag-essential-training/introduction-to-capstone-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2151,7 +2117,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/graphrag-essential-training/introduction-to-capstone-project?u=76281980&t=12)** So now you have the building blocks to create one complete application.
 >
-> **[0:16](https://www.linkedin.com/learning/graphrag-essential-training/introduction-to-capstone-project?u=76281980&t=16)** In this final project, we'll go start to finish, creating a brand new graph and a fully packaged GraphRAG application.
+> **[0:16](https://www.linkedin.com/learning/graphrag-essential-training/introduction-to-capstone-project?u=76281980&t=16)** In this final project, we'll go start to finish, creating a brand new graph and a fully packaged [[GraphRAG]] application.
 >
 > **[0:24](https://www.linkedin.com/learning/graphrag-essential-training/introduction-to-capstone-project?u=76281980&t=24)** To do so, let's take all the bits and pieces we've learned so far and combine them into one unified piece of software.
 >
@@ -2177,19 +2143,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[GraphRAG]] (3), web (1), prompt (1), llm (1)
+> **Frameworks & Libraries:** [[GraphRAG]] (3)
 > **CLI Commands:** find (2)
 > **Env Vars:** pdf (1), llm (1)
 > **Analogies:** such as (1)
 > **Speakers:** - we (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Walkthrough of capstone solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/walkthrough-of-capstone-solution?u=76281980)
+#### [Walkthrough of capstone solution](https://www.linkedin.com/learning/graphrag-essential-training/walkthrough-of-capstone-solution?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/graphrag-essential-training/walkthrough-of-capstone-solution?u=76281980&t=0)** - [Instructor] Hopefully at this point, you have created your complete GraphRAG QA bot on a new Neo4j or a DB instance.
+> **[0:00](https://www.linkedin.com/learning/graphrag-essential-training/walkthrough-of-capstone-solution?u=76281980&t=0)** - [Instructor] Hopefully at this point, you have created your complete [[GraphRAG]] QA bot on a new [[Neo4j]] or a DB instance.
 >
 > **[0:13](https://www.linkedin.com/learning/graphrag-essential-training/walkthrough-of-capstone-solution?u=76281980&t=13)** I'm going to show you how I built mine from start to finish.
 >
@@ -2199,7 +2164,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/graphrag-essential-training/walkthrough-of-capstone-solution?u=76281980&t=31)** For my graph this time, I decided that I would create a knowledge graph around the subject of one of my favorite places to visit, Portugal.
 >
-> **[0:39](https://www.linkedin.com/learning/graphrag-essential-training/walkthrough-of-capstone-solution?u=76281980&t=39)** So like before, I used the LangChain Wikipedia loader to get a bunch of texts about Portugal.
+> **[0:39](https://www.linkedin.com/learning/graphrag-essential-training/walkthrough-of-capstone-solution?u=76281980&t=39)** So like before, I used the [[LangChain]] Wikipedia loader to get a bunch of texts about Portugal.
 >
 > **[0:45](https://www.linkedin.com/learning/graphrag-essential-training/walkthrough-of-capstone-solution?u=76281980&t=45)** And it's okay if you see that warning message.
 >
@@ -2241,7 +2206,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/graphrag-essential-training/walkthrough-of-capstone-solution?u=76281980&t=175)** Let's ask our first question.
 >
-> **[2:59](https://www.linkedin.com/learning/graphrag-essential-training/walkthrough-of-capstone-solution?u=76281980&t=179)** What I found when I ran this was that sometimes the conversion from text to cipher was getting confused by the use of the word "the" in front of my entity ID.
+> **[2:59](https://www.linkedin.com/learning/graphrag-essential-training/walkthrough-of-capstone-solution?u=76281980&t=179)** What I found when I ran this was that sometimes the conversion from text to cipher was getting confused by the use of the [[Microsoft Word|word]] "the" in front of my entity ID.
 >
 > **[3:09](https://www.linkedin.com/learning/graphrag-essential-training/walkthrough-of-capstone-solution?u=76281980&t=189)** So I updated my prompt to try and address that.
 >
@@ -2289,7 +2254,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (6), [[GraphRAG]] (4), next (4), [[Neo4j]] (3), [[LangChain]] (2)
+> **Frameworks & Libraries:** [[GraphRAG]] (4), [[Neo4j]] (3), [[LangChain]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** pdf (3), rag (1), llm (1)
 > **CLI Commands:** make (2), find (1)
 > **Best Practices:** don't forget (1), it's best to (1)
@@ -2303,12 +2268,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing on with knowledge graphs, GraphRAG, and GenAI
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/continuing-on-with-knowledge-graphs-graphrag-and-genai?u=76281980)
+#### [Continuing on with knowledge graphs, GraphRAG, and GenAI](https://www.linkedin.com/learning/graphrag-essential-training/continuing-on-with-knowledge-graphs-graphrag-and-genai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/graphrag-essential-training/continuing-on-with-knowledge-graphs-graphrag-and-genai?u=76281980&t=0)** - Congratulations on completing this LinkedIn learning course on GraphRAG.
+> **[0:00](https://www.linkedin.com/learning/graphrag-essential-training/continuing-on-with-knowledge-graphs-graphrag-and-genai?u=76281980&t=0)** - Congratulations on completing this [[LinkedIn]] learning course on [[GraphRAG]].
 >
 > **[0:05](https://www.linkedin.com/learning/graphrag-essential-training/continuing-on-with-knowledge-graphs-graphrag-and-genai?u=76281980&t=5)** Now that you understand the basics, keep practicing by building small projects with your own data or based on your own interests.
 >
@@ -2318,7 +2282,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/graphrag-essential-training/continuing-on-with-knowledge-graphs-graphrag-and-genai?u=76281980&t=23)** If you have questions or want to engage with others on their graph journeys, I encourage you to come chat with us on the Graph Geeks Discord server.
 >
-> **[0:32](https://www.linkedin.com/learning/graphrag-essential-training/continuing-on-with-knowledge-graphs-graphrag-and-genai?u=76281980&t=32)** Here, you can ask me and many other graphistas questions about GraphRAG, graph databases, and Gen AI.
+> **[0:32](https://www.linkedin.com/learning/graphrag-essential-training/continuing-on-with-knowledge-graphs-graphrag-and-genai?u=76281980&t=32)** Here, you can ask me and many other graphistas questions about GraphRAG, graph [[Databases]], and Gen AI.
 >
 > **[0:39](https://www.linkedin.com/learning/graphrag-essential-training/continuing-on-with-knowledge-graphs-graphrag-and-genai?u=76281980&t=39)** You've now got the graph tools.
 >
@@ -2326,7 +2290,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphRAG]] (3), ai (2), [[LinkedIn]] (1), data (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[GraphRAG]] (3), [[LinkedIn]] (1), [[Databases]] (1)
 > **CLI Commands:** find (1)
 > **Tools:** discord (1)
 > **Speakers:** - congratulations (1)

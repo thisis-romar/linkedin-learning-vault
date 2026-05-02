@@ -87,8 +87,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### So, you want to be a developer?
-> [LinkedIn Learning](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/so-you-want-to-be-a-developer?u=76281980)
+#### [So, you want to be a developer?](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/so-you-want-to-be-a-developer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -112,7 +111,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (6), [[Search]] (1)
 > **Speakers:** - when (1)
 
 
@@ -120,8 +118,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What types of developers are there?
-> [LinkedIn Learning](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-types-of-developers-are-there?u=76281980)
+#### [What types of developers are there?](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-types-of-developers-are-there?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -139,25 +136,25 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-types-of-developers-are-there?u=76281980&t=38)** The combination of these is known as the full-stack developer.
 >
-> **[0:42](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-types-of-developers-are-there?u=76281980&t=42)** The languages, most common for developers are HTML, CSS and JavaScript.
+> **[0:42](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-types-of-developers-are-there?u=76281980&t=42)** The languages, most common for developers are [[HTML]], CSS and [[JavaScript]].
 >
-> **[0:48](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-types-of-developers-are-there?u=76281980&t=48)** Desktop developers create software for personal computers so their thinking revolves around user interfaces plus connecting to hardware and services using languages like C-sharp and Java.
+> **[0:48](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-types-of-developers-are-there?u=76281980&t=48)** Desktop developers create software for personal computers so their thinking revolves around user interfaces plus connecting to [[Hardware]] and services using languages like C-sharp and [[Java]].
 >
-> **[1:02](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-types-of-developers-are-there?u=76281980&t=62)** Mobile developers work on Apple's iOS and Android operating systems which use specialized languages like Swift and Kotlin.
+> **[1:02](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-types-of-developers-are-there?u=76281980&t=62)** Mobile developers work on Apple's iOS and [[Android]] operating systems which use specialized languages like [[Swift (Programming Language)|Swift]] and [[Kotlin]].
 >
 > **[1:11](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-types-of-developers-are-there?u=76281980&t=71)** They give developer access to the features of each device like location, and the many sensors that come with mobile devices.
 >
-> **[1:20](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-types-of-developers-are-there?u=76281980&t=80)** Game developers focus on the types of interactions that are unique to games such as playability, artificial intelligence or multi-player networking.
+> **[1:20](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-types-of-developers-are-there?u=76281980&t=80)** Game developers focus on the types of interactions that are unique to games such as playability, [[Artificial Intelligence (AI)|artificial intelligence]] or multi-player networking.
 >
-> **[1:30](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-types-of-developers-are-there?u=76281980&t=90)** A lot of game developers use frameworks like Unity, Unreal game Engine or regular programming languages like Java and C++.
+> **[1:30](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-types-of-developers-are-there?u=76281980&t=90)** A lot of game developers use frameworks like [[Unity]], Unreal game Engine or regular programming languages like Java and C++.
 >
 > **[1:40](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-types-of-developers-are-there?u=76281980&t=100)** The data scientist is one of the newer and fastest growing developer types.
 >
 > **[1:44](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-types-of-developers-are-there?u=76281980&t=104)** They specialize in creating software to analyze large data sets.
 >
-> **[1:49](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-types-of-developers-are-there?u=76281980&t=109)** Data scientists use languages like Python and R to provide unique insights that can provide solutions to big problems.
+> **[1:49](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-types-of-developers-are-there?u=76281980&t=109)** Data scientists use languages like [[Python (Programming Language)|Python]] and R to provide unique insights that can provide solutions to big problems.
 >
-> **[1:58](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-types-of-developers-are-there?u=76281980&t=118)** Embedded developers work to create applications that run on specialized hardware using languages like Rust, Java, and Python.
+> **[1:58](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-types-of-developers-are-there?u=76281980&t=118)** Embedded developers work to create applications that run on specialized hardware using languages like [[Rust (Programming Language)|Rust]], Java, and Python.
 >
 > **[2:07](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-types-of-developers-are-there?u=76281980&t=127)** You probably noticed that languages like C, Python and Java come up often.
 >
@@ -167,7 +164,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (4), game (3), data (3), [[Python (Programming Language)|Python]] (3), [[Hardware]] (2)
+> **Frameworks & Libraries:** [[Java]] (4), [[Python (Programming Language)|Python]] (3), [[Hardware]] (2), [[HTML]] (1), [[JavaScript]] (1)
 > **CLI Commands:** python (3)
 > **Env Vars:** html (1), css (1)
 > **Code Identifiers:** ios (1)
@@ -175,8 +172,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - over (1)
 
-#### Which developer type should you pick?
-> [LinkedIn Learning](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/which-developer-type-should-you-pick?u=76281980)
+#### [Which developer type should you pick?](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/which-developer-type-should-you-pick?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -202,11 +198,11 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/which-developer-type-should-you-pick?u=76281980&t=57)** Start with an organized plan to get going.
 >
-> **[1:00](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/which-developer-type-should-you-pick?u=76281980&t=60)** On LinkedIn learning we have learning paths, which are an organized series of courses to get your proficiency in an industry.
+> **[1:00](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/which-developer-type-should-you-pick?u=76281980&t=60)** On [[LinkedIn]] learning we have learning paths, which are an organized series of courses to get your proficiency in an industry.
 >
 > **[1:09](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/which-developer-type-should-you-pick?u=76281980&t=69)** You can also use online sites like Free Code Camp that have organized ways to get you started.
 >
-> **[1:15](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/which-developer-type-should-you-pick?u=76281980&t=75)** Some developers start by taking a computer science class, which is an overview of programming concepts.
+> **[1:15](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/which-developer-type-should-you-pick?u=76281980&t=75)** Some developers start by taking a computer science class, which is an overview of [[Programming Concepts]].
 >
 > **[1:22](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/which-developer-type-should-you-pick?u=76281980&t=82)** If you're looking for a degree, college lets you choose a variety of electives.
 >
@@ -228,13 +224,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2), career (1), [[Programming]] (1), [[Programming Concepts]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Programming Concepts]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1), is an  (1)
 > **Speakers:** - i (1)
 
-#### What is a typical career path?
-> [LinkedIn Learning](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-is-a-typical-career-path?u=76281980)
+#### [What is a typical career path?](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-is-a-typical-career-path?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -242,7 +237,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-is-a-typical-career-path?u=76281980&t=4)** So every three years, I had to start from scratch, making new friends, joining new sports teams, and adjusting to new teachers.
 >
-> **[0:14](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-is-a-typical-career-path?u=76281980&t=14)** Now, the path to software development, especially if you're switching careers, is like that.
+> **[0:14](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-is-a-typical-career-path?u=76281980&t=14)** Now, the path to [[Software Development]], especially if you're switching careers, is like that.
 >
 > **[0:19](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-is-a-typical-career-path?u=76281980&t=19)** You have to start from scratch.
 >
@@ -278,9 +273,9 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-is-a-typical-career-path?u=76281980&t=103)** They are in charge of the bigger picture, organizing or leading teams to take care of business opportunities.
 >
-> **[1:51](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-is-a-typical-career-path?u=76281980&t=111)** You might also develop skills as a specialist who understands complex concepts like machine learning or artificial intelligence.
+> **[1:51](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-is-a-typical-career-path?u=76281980&t=111)** You might also develop skills as a specialist who understands complex concepts like machine learning or [[Artificial Intelligence (AI)|artificial intelligence]].
 >
-> **[2:00](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-is-a-typical-career-path?u=76281980&t=120)** Now, this is like a pitch hitter in baseball who might go on loan to solve special projects, like streaming and big data deployments.
+> **[2:00](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-is-a-typical-career-path?u=76281980&t=120)** Now, this is like a pitch hitter in baseball who might go on loan to solve special projects, like streaming and [[Big Data]] deployments.
 >
 > **[2:08](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-is-a-typical-career-path?u=76281980&t=128)** At some point, you may have the opportunity to migrate from being an individual contributor and become a manager of developers.
 >
@@ -300,15 +295,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (4), management (2), [[Software Development]] (1), next (1), business (1)
+> **Frameworks & Libraries:** [[Software Development]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Big Data]] (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** switch to (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 > **Speakers:** - my (1)
 
-#### How much will you make?
-> [LinkedIn Learning](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-much-will-you-make?u=76281980)
+#### [How much will you make?](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-much-will-you-make?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -320,7 +314,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-much-will-you-make?u=76281980&t=23)** There are lots of different ways to find out what developers are worth.
 >
-> **[0:26](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-much-will-you-make?u=76281980&t=26)** One place is the LinkedIn salary calculator.
+> **[0:26](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-much-will-you-make?u=76281980&t=26)** One place is the [[LinkedIn]] salary calculator.
 >
 > **[0:30](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-much-will-you-make?u=76281980&t=30)** Now, this is nice because it provides localized data on what specific job titles pay.
 >
@@ -340,7 +334,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-much-will-you-make?u=76281980&t=77)** Let's take a look at how the industry pays versus other jobs.
 >
-> **[1:21](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-much-will-you-make?u=76281980&t=81)** According to the Bureau of labor statistics, the median wage for all workers in the US in the first quarter of 2020 was $49,764 a year.
+> **[1:21](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-much-will-you-make?u=76281980&t=81)** According to the Bureau of labor [[Statistics]], the median wage for all workers in the US in the first quarter of 2020 was $49,764 a year.
 >
 > **[1:32](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-much-will-you-make?u=76281980&t=92)** And you can clearly see that most of our jobs are twice as lucrative as what a typical US employee makes.
 >
@@ -348,11 +342,11 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-much-will-you-make?u=76281980&t=108)** That can be a big factor, engaging how much you actually make.
 >
-> **[1:53](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-much-will-you-make?u=76281980&t=113)** Also, you should never take a job purely based on compensation, but whether or not you feel challenged and are motivated to pursue software development as a career.
+> **[1:53](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-much-will-you-make?u=76281980&t=113)** Also, you should never take a job purely based on compensation, but whether or not you feel challenged and are motivated to pursue [[Software Development]] as a career.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[LinkedIn]] (1), [[Search]] (1), [[Statistics]] (1), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Statistics]] (1), [[Software Development]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Versions:** 1.6 (1)
 > **Best Practices:** you should never (1)
@@ -364,8 +358,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Do you need a college degree?
-> [LinkedIn Learning](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/do-you-need-a-college-degree?u=76281980)
+#### [Do you need a college degree?](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/do-you-need-a-college-degree?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -383,7 +376,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/do-you-need-a-college-degree?u=76281980&t=28)** And the average cost of tuition in 2019 to 2020 was $41,426 at private colleges.
 >
-> **[0:38](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/do-you-need-a-college-degree?u=76281980&t=38)** Companies like Uber, Facebook, Microsoft, Apple and Twitter, were all started by founders without college degrees, therefore more and more companies, including alphabet ,which is Google's parent company IBM and others no longer require college degrees.
+> **[0:38](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/do-you-need-a-college-degree?u=76281980&t=38)** Companies like Uber, Facebook, [[Microsoft]], Apple and Twitter, were all started by founders without college degrees, therefore more and more companies, including alphabet ,which is [[Google]]'s parent company IBM and others no longer require college degrees.
 >
 > **[0:56](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/do-you-need-a-college-degree?u=76281980&t=56)** And stack Overflow's annual survey, 75% of developers completed the equivalent of a bachelor's degree.
 >
@@ -391,7 +384,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/do-you-need-a-college-degree?u=76281980&t=69)** And 85% of their respondents felt that a formal education was somewhat important.
 >
-> **[1:15](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/do-you-need-a-college-degree?u=76281980&t=75)** In talking to hiring managers, recruiters, and other professionals, I found that college credentials are part of the story that can help you stand out from the rest.
+> **[1:15](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/do-you-need-a-college-degree?u=76281980&t=75)** In talking to hiring managers, recruiters, and other professionals, I found that college credentials are part of the story that can help you stand out from the [[Representational State Transfer (REST)|rest]].
 >
 > **[1:25](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/do-you-need-a-college-degree?u=76281980&t=85)** Getting a degree shows that you're capable of completing a structure curriculum and that can be a positive thing, but it doesn't speak to your level of competence.
 >
@@ -413,17 +406,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (1), [[Microsoft]] (1), [[Google]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Google]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** ibm (1), gpa (1)
 > **Documentation:** stack overflow (1)
 > **Speakers:** - my (1)
 
-#### What should your education plan include?
-> [LinkedIn Learning](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-should-your-education-plan-include?u=76281980)
+#### [What should your education plan include?](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-should-your-education-plan-include?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-should-your-education-plan-include?u=76281980&t=0)** - When I was in high school soccer, our water fountain was next to our room where I could hear strange noises through the windows.
+> **[0:00](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-should-your-education-plan-include?u=76281980&t=0)** - When I was in high school soccer, our water fountain was next to our room where I could hear strange noises through the [[Windows]].
 >
 > **[0:07](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-should-your-education-plan-include?u=76281980&t=7)** When I asked one of my friends, what was in that room, he told me that it was the computer lab.
 >
@@ -463,21 +455,21 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-should-your-education-plan-include?u=76281980&t=94)** Here's the topics that you should look for when planning out your education.
 >
-> **[1:38](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-should-your-education-plan-include?u=76281980&t=98)** First is algorithms, which show you how to solve specific data problems.
+> **[1:38](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-should-your-education-plan-include?u=76281980&t=98)** First is [[Algorithms]], which show you how to solve specific data problems.
 >
 > **[1:43](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-should-your-education-plan-include?u=76281980&t=103)** You should also get good at a core language that's most important in your field.
 >
-> **[1:48](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-should-your-education-plan-include?u=76281980&t=108)** That's JavaScript for example, if you're a web developer.
+> **[1:48](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-should-your-education-plan-include?u=76281980&t=108)** That's [[JavaScript]] for example, if you're a web developer.
 >
-> **[1:51](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-should-your-education-plan-include?u=76281980&t=111)** Now make sure you study database languages like SQL, and NOSQL.
+> **[1:51](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-should-your-education-plan-include?u=76281980&t=111)** Now make sure you study database languages like [[SQL]], and [[NoSQL]].
 >
 > **[1:56](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-should-your-education-plan-include?u=76281980&t=116)** And that you have a solid amount of experience working with them.
 >
 > **[2:00](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-should-your-education-plan-include?u=76281980&t=120)** One thing that is often overlooked is learning to work with other developers.
 >
-> **[2:04](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-should-your-education-plan-include?u=76281980&t=124)** So courses on good or [[Agile Software Development]] are fantastic.
+> **[2:04](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-should-your-education-plan-include?u=76281980&t=124)** So courses on good or [[[[Agile Software Development]]]] are fantastic.
 >
-> **[2:10](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-should-your-education-plan-include?u=76281980&t=130)** You should be comfortable working with APIs, application programming interfaces that let you communicate with other services.
+> **[2:10](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-should-your-education-plan-include?u=76281980&t=130)** You should be comfortable working with APIs, [[Application Programming Interfaces (API)|application programming interfaces]] that let you communicate with other services.
 >
 > **[2:18](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-should-your-education-plan-include?u=76281980&t=138)** Contributing to open source can give you a practical experience working with others, and solving real problems.
 >
@@ -489,20 +481,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2), next (1), [[Windows]] (1), [[Algorithms]] (1), data (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Algorithms]] (1), [[JavaScript]] (1), [[SQL]] (1), [[NoSQL]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** sql (1), nosql (1)
 > **Analogies:** for example (1)
 > **Speakers:** - when (1)
 
-#### Can you switch from a different career?
-> [LinkedIn Learning](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/can-you-switch-from-a-different-career?u=76281980)
+#### [Can you switch from a different career?](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/can-you-switch-from-a-different-career?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/can-you-switch-from-a-different-career?u=76281980&t=0)** - I'm proof that you can switch to a career as a developer from another field.
 >
-> **[0:05](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/can-you-switch-from-a-different-career?u=76281980&t=5)** My bachelor's degree was in journalism with a focus on graphic design.
+> **[0:05](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/can-you-switch-from-a-different-career?u=76281980&t=5)** My bachelor's degree was in journalism with a focus on [[Graphic Design]].
 >
 > **[0:10](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/can-you-switch-from-a-different-career?u=76281980&t=10)** And so I worked as a graphic artist for years.
 >
@@ -516,7 +507,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/can-you-switch-from-a-different-career?u=76281980&t=27)** I started by reading the manuals of the software I bought cover to cover, and then online documentation.
 >
-> **[0:34](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/can-you-switch-from-a-different-career?u=76281980&t=34)** I also bought a subscription to [lynda.com](https://lynda.com), the predecessor to LinkedIn Learning.
+> **[0:34](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/can-you-switch-from-a-different-career?u=76281980&t=34)** I also bought a subscription to [lynda.com](https://lynda.com), the predecessor to [[LinkedIn]] Learning.
 >
 > **[0:39](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/can-you-switch-from-a-different-career?u=76281980&t=39)** I found that video training worked well for me, but that wasn't enough.
 >
@@ -560,14 +551,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (2), [[LinkedIn]] (2), [[Graphic Design]] (1), hr (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Graphic Design]] (1)
 > **CLI Commands:** find (1)
 > **URLs:** [lynda.com](https://lynda.com) (1)
 > **UI Navigation:** switch to (1)
 > **Speakers:** - i (1)
 
-#### How do you choose what to learn?
-> [LinkedIn Learning](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-you-choose-what-to-learn?u=76281980)
+#### [How do you choose what to learn?](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-you-choose-what-to-learn?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -597,7 +587,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-you-choose-what-to-learn?u=76281980&t=76)** Now, those are the signs of a healthy project.
 >
-> **[1:19](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-you-choose-what-to-learn?u=76281980&t=79)** Look for how many GitHub stars, as well as forks the project gets.
+> **[1:19](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-you-choose-what-to-learn?u=76281980&t=79)** Look for how many [[GitHub]] stars, as well as forks the project gets.
 >
 > **[1:25](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-you-choose-what-to-learn?u=76281980&t=85)** The more popular the project, the easier it will be finding help on sites like Stack Overflow.
 >
@@ -607,17 +597,17 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-you-choose-what-to-learn?u=76281980&t=99)** If you look at technologies that have succeeded, you can see that they brought something unique to the table.
 >
-> **[1:44](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-you-choose-what-to-learn?u=76281980&t=104)** AngularJS, for example, had the Model-View-Controller architecture; React brought the virtual DOM plus the component-based architecture; Svelte got rid of the virtual DOM in favor of compiled source code.
+> **[1:44](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-you-choose-what-to-learn?u=76281980&t=104)** AngularJS, for example, had the Model-View-Controller architecture; [[React.js|React]] brought the virtual DOM plus the component-based architecture; Svelte got rid of the virtual DOM in favor of compiled source code.
 >
 > **[2:01](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-you-choose-what-to-learn?u=76281980&t=121)** The other things to look for are technologies that make life easier.
 >
-> **[2:05](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-you-choose-what-to-learn?u=76281980&t=125)** WordPress changed blogging with it's five-minute install; VueJS brought back the simplicity of a script install; and GraphQL made multiple requests to APIs obsolete; finally, Firebase makes building multiuser applications simple.
+> **[2:05](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-you-choose-what-to-learn?u=76281980&t=125)** [[WordPress]] changed blogging with it's five-minute install; VueJS brought back the simplicity of a script install; and [[GraphQL]] made multiple requests to APIs obsolete; finally, [[Firebase]] makes building multiuser applications simple.
 >
 > **[2:24](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-you-choose-what-to-learn?u=76281980&t=144)** Learning new things is great, but before you spend your valuable time, make sure new technologies are proven and well established.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), dom (2), game (1), [[GitHub]] (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[React.js|React]] (1), [[WordPress]] (1), [[GraphQL]] (1), [[Firebase]] (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** dom (2)
 > **Prerequisites:** install (2)
@@ -626,8 +616,7 @@ created: 2026-05-02
 > **Exercise Files:** source code (1)
 > **Analogies:** for example (1)
 
-#### Are certifications required?
-> [LinkedIn Learning](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/are-certifications-required?u=76281980)
+#### [Are certifications required?](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/are-certifications-required?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -641,7 +630,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/are-certifications-required?u=76281980&t=28)** The tests are standardized across the topic and industry, plus focus on practical knowledge.
 >
-> **[0:34](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/are-certifications-required?u=76281980&t=34)** Some certifications focus on specific business and operational skills, like learning the agile methodology or project management.
+> **[0:34](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/are-certifications-required?u=76281980&t=34)** Some certifications focus on specific business and operational skills, like learning the [[Agile Development|agile]] methodology or project management.
 >
 > **[0:43](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/are-certifications-required?u=76281980&t=43)** Some focus on specific skills related to technical jobs.
 >
@@ -651,7 +640,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/are-certifications-required?u=76281980&t=55)** Now, is it worth it?
 >
-> **[0:56](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/are-certifications-required?u=76281980&t=56)** According to a study from Pearson, upon earning a certification 23% of Microsoft certified technologists reported receiving up to a 20% salary increase.
+> **[0:56](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/are-certifications-required?u=76281980&t=56)** According to a study from Pearson, upon earning a certification 23% of [[Microsoft]] certified technologists reported receiving up to a 20% salary increase.
 >
 > **[1:08](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/are-certifications-required?u=76281980&t=68)** So it can definitely help.
 >
@@ -669,7 +658,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1), business (1), [[Agile Development|Agile]] (1), management (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), [[Microsoft]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - certifications (1)
 
@@ -678,12 +667,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How do developers find jobs?
-> [LinkedIn Learning](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-developers-find-jobs?u=76281980)
+#### [How do developers find jobs?](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-developers-find-jobs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-developers-find-jobs?u=76281980&t=0)** - When I switched my career, I didn't know much about the Web, but I had a solid graphic design portfolio.
+> **[0:00](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-developers-find-jobs?u=76281980&t=0)** - When I switched my career, I didn't know much about the Web, but I had a solid [[Graphic Design]] portfolio.
 >
 > **[0:06](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-developers-find-jobs?u=76281980&t=6)** So I joined a local advertising Meetup and volunteered to do their website.
 >
@@ -723,17 +711,16 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-developers-find-jobs?u=76281980&t=115)** Although applying for a job through a job board is less effective, you'll want to make sure you're constantly updating your profile, customizing it for the jobs that you're applying for.
 >
-> **[2:06](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-developers-find-jobs?u=76281980&t=126)** Hiring managers I talk to mention that the most important thing is for your profile to tell a great story that helps you stand out from the rest.
+> **[2:06](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-developers-find-jobs?u=76281980&t=126)** Hiring managers I talk to mention that the most important thing is for your profile to tell a great story that helps you stand out from the [[Representational State Transfer (REST)|rest]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), career (1), [[Graphic Design]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Graphic Design]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (3), make (2)
 > **Documentation:** stack overflow (1)
 > **Speakers:** - when (1)
 
-#### Should you use a recruiter?
-> [LinkedIn Learning](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/should-you-use-a-recruiter?u=76281980)
+#### [Should you use a recruiter?](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/should-you-use-a-recruiter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -777,7 +764,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/should-you-use-a-recruiter?u=76281980&t=89)** How did the contributions you made affect the bottom line of the company you worked at?
 >
-> **[1:34](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/should-you-use-a-recruiter?u=76281980&t=94)** Second is GitHub history since it shows your activity and the quantity of contributions.
+> **[1:34](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/should-you-use-a-recruiter?u=76281980&t=94)** Second is [[GitHub]] history since it shows your activity and the quantity of contributions.
 >
 > **[1:41](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/should-you-use-a-recruiter?u=76281980&t=101)** Finally, open-source contribution can show a level of maturity and deeper knowledge on specific topics.
 >
@@ -789,13 +776,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (2), career (2), [[GitHub]] (1), open-source (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (1)
 > **CLI Commands:** make (1)
 > **Tools:** github (1)
 > **Speakers:** - some (1)
 
-#### What should your resume/profile include?
-> [LinkedIn Learning](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-should-your-resume-profile-include?u=76281980)
+#### [What should your resume/profile include?](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-should-your-resume-profile-include?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -811,11 +797,11 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-should-your-resume-profile-include?u=76281980&t=30)** You can add longer statements in an about section that spells out the larger story of who you are.
 >
-> **[0:38](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-should-your-resume-profile-include?u=76281980&t=38)** Remember that your activity on LinkedIn is also part of your profile.
+> **[0:38](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-should-your-resume-profile-include?u=76281980&t=38)** Remember that your activity on [[LinkedIn]] is also part of your profile.
 >
 > **[0:42](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-should-your-resume-profile-include?u=76281980&t=42)** So, your comments, posts, articles, and other activity can also be highlighted in the features section.
 >
-> **[0:50](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-should-your-resume-profile-include?u=76281980&t=50)** Recruiters and employers will definitely look at your activity on multiple social networks, like LinkedIn, GitHub, and Stack Overflow.
+> **[0:50](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-should-your-resume-profile-include?u=76281980&t=50)** Recruiters and employers will definitely look at your activity on multiple social networks, like LinkedIn, [[GitHub]], and Stack Overflow.
 >
 > **[0:59](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-should-your-resume-profile-include?u=76281980&t=59)** Make sure your conversations are constructive, positive, and helpful.
 >
@@ -831,15 +817,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2), [[GitHub]] (1), traffic (1), business (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[GitHub]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** gpa (1)
 > **Documentation:** stack overflow (1)
 > **Tools:** github (1)
 > **Speakers:** - your (1)
 
-#### What do you need besides a resume/profile?
-> [LinkedIn Learning](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-do-you-need-besides-a-resume-profile?u=76281980)
+#### [What do you need besides a resume/profile?](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-do-you-need-besides-a-resume-profile?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -847,7 +832,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-do-you-need-besides-a-resume-profile?u=76281980&t=3)** Now, one thing I heard over and over from hiring managers is that showing your work is really important.
 >
-> **[0:10](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-do-you-need-besides-a-resume-profile?u=76281980&t=10)** One place to do that is through a GitHub profile.
+> **[0:10](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-do-you-need-besides-a-resume-profile?u=76281980&t=10)** One place to do that is through a [[GitHub]] profile.
 >
 > **[0:13](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-do-you-need-besides-a-resume-profile?u=76281980&t=13)** Now GitHub is a social network for coding, that lets you store your projects and provides analytics on the work that you do.
 >
@@ -901,7 +886,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (6), web (2), [[Analytics]] (1), data (1), feature (1)
+> **Frameworks & Libraries:** [[GitHub]] (6)
 > **Tools:** github (6)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** readme (3)
@@ -913,8 +898,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Submitting an application
-> [LinkedIn Learning](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/submitting-an-application?u=76281980)
+#### [Submitting an application](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/submitting-an-application?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -930,11 +914,11 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/submitting-an-application?u=76281980&t=31)** Sometimes having a related experience with a similar technology will work.
 >
-> **[0:36](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/submitting-an-application?u=76281980&t=36)** For example, if you're great at React, you might be able to apply for a job that requires Vue.js.
+> **[0:36](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/submitting-an-application?u=76281980&t=36)** For example, if you're great at [[React.js|React]], you might be able to apply for a job that requires [[Vue.js]].
 >
 > **[0:42](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/submitting-an-application?u=76281980&t=42)** Companies understand that some training will need to happen, especially in more entry-level positions.
 >
-> **[0:48](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/submitting-an-application?u=76281980&t=48)** LinkedIn can be a great resource because you can find people who are in the company with the same job title you're applying for.
+> **[0:48](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/submitting-an-application?u=76281980&t=48)** [[LinkedIn]] can be a great resource because you can find people who are in the company with the same job title you're applying for.
 >
 > **[0:56](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/submitting-an-application?u=76281980&t=56)** And you can look at their profile.
 >
@@ -946,14 +930,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[React.js|React]] (1), [[Vue.js]] (1), [[LinkedIn]] (1), hit (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1), [[Vue.js]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2), find (1)
 > **File Paths:** vue.js (1)
 > **Analogies:** for example (1)
 > **Speakers:** - submitting (1)
 
-#### The phone interview
-> [LinkedIn Learning](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/the-phone-interview?u=76281980)
+#### [The phone interview](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/the-phone-interview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -967,7 +950,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/the-phone-interview?u=76281980&t=23)** First, proving you can do the job.
 >
-> **[0:26](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/the-phone-interview?u=76281980&t=26)** Second, standing out from the rest of the applicants and third, making it to the next interview.
+> **[0:26](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/the-phone-interview?u=76281980&t=26)** Second, standing out from the [[Representational State Transfer (REST)|rest]] of the applicants and third, making it to the next interview.
 >
 > **[0:33](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/the-phone-interview?u=76281980&t=33)** Remember that a recruiter's job is to provide qualified applicants.
 >
@@ -985,9 +968,9 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/the-phone-interview?u=76281980&t=80)** Have paper and pencil at the ready to take notes during the interview.
 >
-> **[1:25](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/the-phone-interview?u=76281980&t=85)** Now, it takes some time to practice interviewing with someone to make sure you're comfortable answering questions.
+> **[1:25](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/the-phone-interview?u=76281980&t=85)** Now, it takes some time to practice [[Interviewing]] with someone to make sure you're comfortable answering questions.
 >
-> **[1:30](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/the-phone-interview?u=76281980&t=90)** LinkedIn has a new job prep section, where you can see common questions asked during interviews.
+> **[1:30](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/the-phone-interview?u=76281980&t=90)** [[LinkedIn]] has a new job prep section, where you can see common questions asked during interviews.
 >
 > **[1:37](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/the-phone-interview?u=76281980&t=97)** You should also send interviewers thank you, letters.
 >
@@ -1005,14 +988,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Interviewing]] (2), [[Representational State Transfer (REST)|Rest]] (1), next (1), job description (1)
+> **Frameworks & Libraries:** [[Interviewing]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - congratulations (1)
 
-#### How do you prepare for coding challenges?
-> [LinkedIn Learning](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-you-prepare-for-coding-challenges?u=76281980)
+#### [How do you prepare for coding challenges?](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-you-prepare-for-coding-challenges?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1028,7 +1010,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-you-prepare-for-coding-challenges?u=76281980&t=34)** We have interview prep courses, as well as quizzes on a variety of technology topics.
 >
-> **[0:40](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-you-prepare-for-coding-challenges?u=76281980&t=40)** That can help you practice and test your skills right here on LinkedIn Learning.
+> **[0:40](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-you-prepare-for-coding-challenges?u=76281980&t=40)** That can help you practice and test your skills right here on [[LinkedIn]] Learning.
 >
 > **[0:45](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-you-prepare-for-coding-challenges?u=76281980&t=45)** There are also companies that specialize on interview prep, like Interview Cake, LeetCode, and HackerRank.
 >
@@ -1050,7 +1032,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-you-prepare-for-coding-challenges?u=76281980&t=92)** Interviewers are trying to figure out how you think.
 >
-> **[1:36](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-you-prepare-for-coding-challenges?u=76281980&t=96)** They also want to test how you react to questions or challenges about your thinking.
+> **[1:36](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-you-prepare-for-coding-challenges?u=76281980&t=96)** They also want to test how you [[React.js|react]] to questions or challenges about your thinking.
 >
 > **[1:41](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-you-prepare-for-coding-challenges?u=76281980&t=101)** Be polite and watch your reactions.
 >
@@ -1064,13 +1046,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), [[LinkedIn]] (1), generic (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[React.js|React]] (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### The best interview questions
-> [LinkedIn Learning](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/the-best-interview-questions?u=76281980)
+#### [The best interview questions](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/the-best-interview-questions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1112,8 +1093,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How do you know what you're worth?
-> [LinkedIn Learning](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-you-know-what-you-re-worth?u=76281980)
+#### [How do you know what you're worth?](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-you-know-what-you-re-worth?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1145,7 +1125,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-you-know-what-you-re-worth?u=76281980&t=74)** You may want to see if the job is listed on different sites or look for other companies with similar jobs.
 >
-> **[1:21](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-you-know-what-you-re-worth?u=76281980&t=81)** Sites like LinkedIn or Glassdoor will also have a salary calculator that you can use to get an idea of what different job titles are worth.
+> **[1:21](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-you-know-what-you-re-worth?u=76281980&t=81)** Sites like [[LinkedIn]] or Glassdoor will also have a salary calculator that you can use to get an idea of what different job titles are worth.
 >
 > **[1:31](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-you-know-what-you-re-worth?u=76281980&t=91)** The annual developer survey from Stack Overflow is also a good place to get an idea.
 >
@@ -1157,15 +1137,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** find (3)
 > **Versions:** 2.3 (1)
 > **Documentation:** stack overflow (1)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - before (1)
 
-#### How do you negotiate your best deal?
-> [LinkedIn Learning](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-you-negotiate-your-best-deal?u=76281980)
+#### [How do you negotiate your best deal?](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-you-negotiate-your-best-deal?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1203,13 +1182,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hr (1)
 > **CLI Commands:** make (6)
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - you (1)
 
-#### Compensation vs. salary
-> [LinkedIn Learning](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/compensation-vs-salary?u=76281980)
+#### [Compensation vs. salary](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/compensation-vs-salary?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1265,7 +1242,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (3)
 > **Definitions:** means that (1)
 > **Speakers:** - most (1)
@@ -1275,8 +1251,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How do you prepare for your new job?
-> [LinkedIn Learning](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-you-prepare-for-your-new-job?u=76281980)
+#### [How do you prepare for your new job?](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-you-prepare-for-your-new-job?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1316,14 +1291,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Search]] (1)
 > **CLI Commands:** make (2)
 > **Documentation:** stack overflow (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### What should you do after you get the job?
-> [LinkedIn Learning](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-should-you-do-after-you-get-the-job?u=76281980)
+#### [What should you do after you get the job?](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-should-you-do-after-you-get-the-job?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1357,16 +1330,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), career (1), [[Programming]] (1), management (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - it (1)
 
-#### How do you plan your next play?
-> [LinkedIn Learning](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-you-plan-your-next-play?u=76281980)
+#### [How do you plan your next play?](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-you-plan-your-next-play?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-you-plan-your-next-play?u=76281980&t=0)** - One of the things I learned about LinkedIn is that they view work relationships as a tour of duty.
+> **[0:00](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-you-plan-your-next-play?u=76281980&t=0)** - One of the things I learned about [[LinkedIn]] is that they view work relationships as a tour of duty.
 >
 > **[0:06](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-you-plan-your-next-play?u=76281980&t=6)** When people move on to other work, they call that their Next play.
 >
@@ -1398,7 +1369,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2), next (2), leadership (1), career (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2)
 > **Best Practices:** don't forget (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - one (1)

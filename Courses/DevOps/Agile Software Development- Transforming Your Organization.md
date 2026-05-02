@@ -85,8 +85,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Ignite your teams with agile
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/ignite-your-teams-with-agile?u=76281980)
+#### [Ignite your teams with agile](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/ignite-your-teams-with-agile?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -94,13 +93,13 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/ignite-your-teams-with-agile?u=76281980&t=5)** If you do, I designed this course for you.
 >
-> **[0:10](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/ignite-your-teams-with-agile?u=76281980&t=10)** We'll cover the essential ingredients to successful agile transformations, from teams and scaling models, all the way to clearing up agile myths and applying proven techniques to help maintain an agile mindset.
+> **[0:10](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/ignite-your-teams-with-agile?u=76281980&t=10)** We'll cover the essential ingredients to successful [[Agile Development|agile]] transformations, from teams and scaling models, all the way to clearing up agile myths and applying proven techniques to help maintain an agile mindset.
 >
 > **[0:24](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/ignite-your-teams-with-agile?u=76281980&t=24)** You'll be able to apply what you learned right away, so join me to get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), teams (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (3)
 > **Speakers:** - do (1)
 
 
@@ -108,12 +107,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Your current state
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/your-current-state?u=76281980)
+#### [Your current state](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/your-current-state?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/your-current-state?u=76281980&t=0)** - [Instructor] If you've already adopted some Agile practices, are you seeing the great benefits everyone is talking about?
+> **[0:00](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/your-current-state?u=76281980&t=0)** - [Instructor] If you've already adopted some [[Agile Development|Agile]] practices, are you seeing the great benefits everyone is talking about?
 >
 > **[0:08](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/your-current-state?u=76281980&t=8)** If you're not, I promise you you're not alone.
 >
@@ -185,13 +183,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (17), next (1), management (1), teams (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (17)
 > **Prerequisites:** you'll need (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Troubleshooting transformation
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/troubleshooting-transformation?u=76281980)
+#### [Troubleshooting transformation](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/troubleshooting-transformation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -247,7 +244,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/troubleshooting-transformation?u=76281980&t=139)** This will need to be modified to get the most out of your transformation.
 >
-> **[2:24](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/troubleshooting-transformation?u=76281980&t=144)** Then you'll need to determine which agile practices you'll implement.
+> **[2:24](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/troubleshooting-transformation?u=76281980&t=144)** Then you'll need to determine which [[Agile Development|agile]] practices you'll implement.
 >
 > **[2:29](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/troubleshooting-transformation?u=76281980&t=149)** There should be organizational guardrails on what's being used and a consistent framework for measurement and delivery.
 >
@@ -271,7 +268,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), business (1), [[Agile Development|Agile]] (1), management (1), teams (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (4)
 > **Prerequisites:** you'll need (4)
 > **Speakers:** - [narrator] (1)
@@ -281,12 +278,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Internal customer engagement
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/internal-customer-engagement?u=76281980)
+#### [Internal customer engagement](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/internal-customer-engagement?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/internal-customer-engagement?u=76281980&t=0)** - [Instructor] When you're preparing to undergo an agile transformation, it's essential to understand who will be affected by the changes you're introducing.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/internal-customer-engagement?u=76281980&t=0)** - [Instructor] When you're preparing to undergo an [[Agile Development|agile]] transformation, it's essential to understand who will be affected by the changes you're introducing.
 >
 > **[0:08](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/internal-customer-engagement?u=76281980&t=8)** Identifying these key areas and leaders can ultimately spell success or failure for your transformation.
 >
@@ -338,25 +334,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), data (2)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2)
 > **Env Vars:** cio (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### External customer guidance
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/external-customer-guidance?u=76281980)
+#### [External customer guidance](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/external-customer-guidance?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/external-customer-guidance?u=76281980&t=0)** - [Instructor] While you are transforming your organization, it's not enough to partner with internal customers.
 >
-> **[0:07](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/external-customer-guidance?u=76281980&t=7)** You also need to leverage your external customers to ensure you're building the right products.
+> **[0:07](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/external-customer-guidance?u=76281980&t=7)** You also need to leverage your external customers to ensure you're building the right [[Microsoft Products|products]].
 >
 > **[0:13](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/external-customer-guidance?u=76281980&t=13)** This is something the IT department can rarely manage on their own.
 >
-> **[0:17](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/external-customer-guidance?u=76281980&t=17)** This calls for additional deep partnership with your product development and marketing organizations.
+> **[0:17](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/external-customer-guidance?u=76281980&t=17)** This calls for additional deep partnership with your [[Product Development]] and marketing organizations.
 >
 > **[0:25](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/external-customer-guidance?u=76281980&t=25)** Start by understanding how external customers are currently being engaged.
 >
@@ -406,13 +401,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (8), [[Microsoft Products|Products]] (3), [[Product Development]] (1), teams (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Product Development]] (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Customer needs drive change
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/customer-needs-drive-change?u=76281980)
+#### [Customer needs drive change](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/customer-needs-drive-change?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -434,11 +428,11 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/customer-needs-drive-change?u=76281980&t=49)** Here's how it works.
 >
-> **[0:51](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/customer-needs-drive-change?u=76281980&t=51)** First, schedule a prioritization meeting with your business leadership team.
+> **[0:51](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/customer-needs-drive-change?u=76281980&t=51)** First, schedule a prioritization meeting with your [[Business Leadership]] team.
 >
 > **[0:56](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/customer-needs-drive-change?u=76281980&t=56)** This group will represent the business voice and speak strictly to the business value they see in each idea.
 >
-> **[1:04](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/customer-needs-drive-change?u=76281980&t=64)** You'll also need your technical leadership team.
+> **[1:04](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/customer-needs-drive-change?u=76281980&t=64)** You'll also need your [[Technical Leadership]] team.
 >
 > **[1:07](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/customer-needs-drive-change?u=76281980&t=67)** This group represents the technical voice and speaks strictly to the effort involved in executing on each idea.
 >
@@ -488,7 +482,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (11), leadership (1), [[Technical Leadership]] (1), next (1), teams (1)
+> **Frameworks & Libraries:** [[Business Leadership]] (1), [[Technical Leadership]] (1)
 > **Env Vars:** pace (5), roi (2)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (2)
@@ -501,8 +495,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Your portfolio today
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/your-portfolio-today?u=76281980)
+#### [Your portfolio today](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/your-portfolio-today?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -564,17 +557,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (12), teams (2), next (1)
 > **Env Vars:** wsjf (2), pace (1)
 > **Definitions:** is an  (1), known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Portfolio management: Case study
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/portfolio-management-case-study?u=76281980)
+#### [Portfolio management: Case study](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/portfolio-management-case-study?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/portfolio-management-case-study?u=76281980&t=0)** - [Narrator] When you introduce Agile methods at the team level you'll definitely see some great benefits.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/portfolio-management-case-study?u=76281980&t=0)** - [Narrator] When you introduce [[Agile Development|Agile]] methods at the team level you'll definitely see some great benefits.
 >
 > **[0:06](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/portfolio-management-case-study?u=76281980&t=6)** It won't, however, solve every problem you're facing as an organization.
 >
@@ -582,7 +573,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/portfolio-management-case-study?u=76281980&t=17)** Elekta is a high tech organization focused on solutions for treating cancer and brain disorders.
 >
-> **[0:25](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/portfolio-management-case-study?u=76281980&t=25)** ELekta started by applying Agile, specifically Scrum, for three teams that were distributed globally.
+> **[0:25](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/portfolio-management-case-study?u=76281980&t=25)** ELekta started by applying Agile, specifically [[Scrum]], for three teams that were distributed globally.
 >
 > **[0:31](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/portfolio-management-case-study?u=76281980&t=31)** Each of the teams was working on the same product.
 >
@@ -628,14 +619,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (8), product (4), [[Agile Development|Agile]] (3), [[Scrum]] (2), business (2)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), [[Scrum]] (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Apply portfolio management
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/apply-portfolio-management?u=76281980)
+#### [Apply portfolio management](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/apply-portfolio-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -645,7 +635,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/apply-portfolio-management?u=76281980&t=13)** Without clear direction, teams can only succeed on a small scale.
 >
-> **[0:18](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/apply-portfolio-management?u=76281980&t=18)** The largest benefits of agile can only be realized with a healthy portfolio.
+> **[0:18](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/apply-portfolio-management?u=76281980&t=18)** The largest benefits of [[Agile Development|agile]] can only be realized with a healthy portfolio.
 >
 > **[0:25](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/apply-portfolio-management?u=76281980&t=25)** So, how to begin?
 >
@@ -671,7 +661,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/apply-portfolio-management?u=76281980&t=70)** Stay lean and minimize the upfront work.
 >
-> **[1:14](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/apply-portfolio-management?u=76281980&t=74)** Next, move on to your products.
+> **[1:14](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/apply-portfolio-management?u=76281980&t=74)** Next, move on to your [[Microsoft Products|products]].
 >
 > **[1:18](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/apply-portfolio-management?u=76281980&t=78)** Make sure there's a strong vision for each product.
 >
@@ -717,7 +707,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (7), [[Agile Development|Agile]] (3), next (3), teams (2), business (2)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), [[Microsoft Products|Products]] (2)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** pace (2)
 > **Definitions:** is a  (1), known as (1)
@@ -728,12 +718,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### It's a mindset
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/it-s-a-mindset?u=76281980)
+#### [It's a mindset](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/it-s-a-mindset?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/it-s-a-mindset?u=76281980&t=0)** - [Instructor] As you set out to transform your organization to agile, the most important first step is understanding what it means to be agile versus simply doing agile.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/it-s-a-mindset?u=76281980&t=0)** - [Instructor] As you set out to transform your organization to [[Agile Development|agile]], the most important first step is understanding what it means to be agile versus simply doing agile.
 >
 > **[0:12](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/it-s-a-mindset?u=76281980&t=12)** Executing agile, the actual process of delivering work through an agile framework, is fairly simple.
 >
@@ -755,7 +744,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/it-s-a-mindset?u=76281980&t=66)** Everyone in the organization can use them to guide their behaviors and habits.
 >
-> **[1:12](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/it-s-a-mindset?u=76281980&t=72)** Scrum has a defined set of values that are a great starting point for every team and for your organization, as well.
+> **[1:12](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/it-s-a-mindset?u=76281980&t=72)** [[Scrum]] has a defined set of values that are a great starting point for every team and for your organization, as well.
 >
 > **[1:21](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/it-s-a-mindset?u=76281980&t=81)** The Scrum values are, first, focus.
 >
@@ -795,17 +784,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (9), [[Scrum]] (2), next (1), leadership (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (9), [[Scrum]] (2)
 > **Definitions:** means that (2), known as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Overview of agile methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/overview-of-agile-methods?u=76281980)
+#### [Overview of agile methods](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/overview-of-agile-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/overview-of-agile-methods?u=76281980&t=0)** - [Presenter] Agile is a broad term that applies to a family of practice frameworks that are all based on the Agile Manifesto.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/overview-of-agile-methods?u=76281980&t=0)** - [Presenter] [[Agile Development|Agile]] is a broad term that applies to a family of practice frameworks that are all based on the Agile Manifesto.
 >
 > **[0:08](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/overview-of-agile-methods?u=76281980&t=8)** The Agile Manifesto says we are uncovering better ways of developing software by doing it and helping others do it.
 >
@@ -823,7 +811,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/overview-of-agile-methods?u=76281980&t=50)** Not all practices will be a good fit for each situation so let's take a look at where these might work best.
 >
-> **[0:58](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/overview-of-agile-methods?u=76281980&t=58)** First, let's talk about Scrum.
+> **[0:58](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/overview-of-agile-methods?u=76281980&t=58)** First, let's talk about [[Scrum]].
 >
 > **[1:01](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/overview-of-agile-methods?u=76281980&t=61)** Scrum is by far the most common Agile method used.
 >
@@ -835,7 +823,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/overview-of-agile-methods?u=76281980&t=86)** The PO prioritizes all of the work and the cross-functional team of developers, analysts, and testers work to complete the backlog through a series of sprints of two to four weeks in length.
 >
-> **[1:39](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/overview-of-agile-methods?u=76281980&t=99)** Scrum is most commonly used for software development projects where ongoing changes are common.
+> **[1:39](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/overview-of-agile-methods?u=76281980&t=99)** Scrum is most commonly used for [[Software Development]] projects where ongoing changes are common.
 >
 > **[1:45](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/overview-of-agile-methods?u=76281980&t=105)** Scrum is a good fit for distributed teams and requires close business collaboration.
 >
@@ -871,20 +859,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (8), [[Scrum]] (6), business (3), product (2), functional (2)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (8), [[Scrum]] (6), [[Software Development]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Speakers:** - [presenter] (1)
 
-#### Selecting a framework that fits
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/selecting-a-framework-that-fits?u=76281980)
+#### [Selecting a framework that fits](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/selecting-a-framework-that-fits?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/selecting-a-framework-that-fits?u=76281980&t=0)** - [Educator] With so many great Agile frameworks available, it can be challenging to know which one to apply to your team.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/selecting-a-framework-that-fits?u=76281980&t=0)** - [Educator] With so many great [[Agile Development|Agile]] frameworks available, it can be challenging to know which one to apply to your team.
 >
 > **[0:07](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/selecting-a-framework-that-fits?u=76281980&t=7)** So let's take a few minutes to talk about which of the most popular frameworks is best for each type of work.
 >
-> **[0:13](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/selecting-a-framework-that-fits?u=76281980&t=13)** Generally speaking, IT work falls into the broad categories of software development, support, and infrastructure.
+> **[0:13](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/selecting-a-framework-that-fits?u=76281980&t=13)** Generally speaking, IT work falls into the broad categories of [[Software Development]], support, and infrastructure.
 >
 > **[0:20](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/selecting-a-framework-that-fits?u=76281980&t=20)** There is no rule that they are separate and have no overlaps because they can.
 >
@@ -892,11 +879,11 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/selecting-a-framework-that-fits?u=76281980&t=33)** Let's start with infrastructure.
 >
-> **[0:35](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/selecting-a-framework-that-fits?u=76281980&t=35)** This includes things like telecommunications, network support, and security.
+> **[0:35](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/selecting-a-framework-that-fits?u=76281980&t=35)** This includes things like [[Telecommunications]], network support, and security.
 >
 > **[0:40](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/selecting-a-framework-that-fits?u=76281980&t=40)** Infrastructure work tends to be time boxed.
 >
-> **[0:42](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/selecting-a-framework-that-fits?u=76281980&t=42)** There are usually hardware purchase considerations, external vendor dependencies, and defined processes for completing work.
+> **[0:42](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/selecting-a-framework-that-fits?u=76281980&t=42)** There are usually [[Hardware]] purchase considerations, external vendor dependencies, and defined processes for completing work.
 >
 > **[0:51](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/selecting-a-framework-that-fits?u=76281980&t=51)** In cases like these, the teams can only control so much, but they need visibility into everything that's happened, everything that's in process, and what's coming.
 >
@@ -918,9 +905,9 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/selecting-a-framework-that-fits?u=76281980&t=109)** While there are time constraints, usually these teams have a longer period of time to complete the work.
 >
-> **[1:55](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/selecting-a-framework-that-fits?u=76281980&t=115)** They generally focus on enhancement projects in support of a single product or building new products entirely.
+> **[1:55](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/selecting-a-framework-that-fits?u=76281980&t=115)** They generally focus on enhancement projects in support of a single product or building new [[Microsoft Products|products]] entirely.
 >
-> **[2:03](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/selecting-a-framework-that-fits?u=76281980&t=123)** For these teams, Scrum is a good fit.
+> **[2:03](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/selecting-a-framework-that-fits?u=76281980&t=123)** For these teams, [[Scrum]] is a good fit.
 >
 > **[2:06](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/selecting-a-framework-that-fits?u=76281980&t=126)** Scrum is designed to handle volatility and focuses on short sprints of work, so teams can prove out their design theories quickly and efficiently.
 >
@@ -934,7 +921,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (9), [[Agile Development|Agile]] (3), [[Scrum]] (3), [[Software Development]] (2), [[Telecommunications]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), [[Scrum]] (3), [[Software Development]] (2), [[Telecommunications]] (1), [[Hardware]] (1)
 > **Definitions:** is a  (3)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [educator] (1)
@@ -944,12 +931,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Changing leaders' mindset
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/changing-leaders-mindset?u=76281980)
+#### [Changing leaders' mindset](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/changing-leaders-mindset?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/changing-leaders-mindset?u=76281980&t=0)** - [Narrator] As you start transforming your organization to a more Agile environment, it's essential to remember that you can't do it alone.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/changing-leaders-mindset?u=76281980&t=0)** - [Narrator] As you start transforming your organization to a more [[Agile Development|Agile]] environment, it's essential to remember that you can't do it alone.
 >
 > **[0:09](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/changing-leaders-mindset?u=76281980&t=9)** You know that you need to reach out to your business peers and leaders, but even that isn't enough.
 >
@@ -1007,13 +993,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (10), leadership (5), next (3), teams (2), business (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (10)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Partner with human resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/partner-with-human-resources?u=76281980)
+#### [Partner with human resources](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/partner-with-human-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1021,7 +1006,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/partner-with-human-resources?u=76281980&t=12)** This is true for every organizational change you make.
 >
-> **[0:16](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/partner-with-human-resources?u=76281980&t=16)** When you're planning a full transformation, it pays to engage your human resources team or HR.
+> **[0:16](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/partner-with-human-resources?u=76281980&t=16)** When you're planning a full transformation, it pays to engage your [[Human Resources (HR)|human resources]] team or HR.
 >
 > **[0:23](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/partner-with-human-resources?u=76281980&t=23)** Let's take a look at a case study about Volvo and their realization that HR could have helped them through the transformation.
 >
@@ -1041,7 +1026,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/partner-with-human-resources?u=76281980&t=73)** Further, HR is essential in helping leadership create transition plans for people to grow into new responsibilities.
 >
-> **[1:22](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/partner-with-human-resources?u=76281980&t=82)** As the older structures of the organization shift to the new agile reality, HR's help in defining new career paths could also ease the fears of the employees.
+> **[1:22](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/partner-with-human-resources?u=76281980&t=82)** As the older structures of the organization shift to the new [[Agile Development|agile]] reality, HR's help in defining new career paths could also ease the fears of the employees.
 >
 > **[1:33](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/partner-with-human-resources?u=76281980&t=93)** Volvo noted that this encouraged employees to feel safe and valued in this dynamic environment.
 >
@@ -1067,13 +1052,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hr (15), [[Agile Development|Agile]] (3), [[Human Resources (HR)|Human resources]] (1), management (1), leadership (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), [[Human Resources (HR)|Human resources]] (1)
 > **Definitions:** is an  (1), means that (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
-#### Start with your teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/start-with-your-teams?u=76281980)
+#### [Start with your teams](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/start-with-your-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1087,7 +1071,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/start-with-your-teams?u=76281980&t=19)** When projects arise, you've probably pulled individuals from those specialty areas to form cross-functional teams until the project is completed.
 >
-> **[0:29](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/start-with-your-teams?u=76281980&t=29)** When you're transitioning to an Agile environment, all this needs to change.
+> **[0:29](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/start-with-your-teams?u=76281980&t=29)** When you're transitioning to an [[Agile Development|Agile]] environment, all this needs to change.
 >
 > **[0:33](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/start-with-your-teams?u=76281980&t=33)** The speed of Agile relies on establishing cross-functional teams that stay together or persist.
 >
@@ -1117,7 +1101,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/start-with-your-teams?u=76281980&t=123)** Don't try to value stream map your whole department, just pick one product or application to start with.
 >
-> **[2:09](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/start-with-your-teams?u=76281980&t=129)** You can then systematically target the other products and applications.
+> **[2:09](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/start-with-your-teams?u=76281980&t=129)** You can then systematically target the other [[Microsoft Products|products]] and applications.
 >
 > **[2:14](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/start-with-your-teams?u=76281980&t=134)** Your goal is to truly understand how things currently exist.
 >
@@ -1143,7 +1127,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (9), functional (4), product (4), [[Agile Development|Agile]] (2), management (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** dba (1)
@@ -1155,12 +1139,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is "scaling agile"?
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/what-is-scaling-agile?u=76281980)
+#### [What is "scaling agile"?](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/what-is-scaling-agile?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/what-is-scaling-agile?u=76281980&t=0)** - [Instructor] As organizations transition to adopting more agile frameworks, they run into challenges.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/what-is-scaling-agile?u=76281980&t=0)** - [Instructor] As organizations transition to adopting more [[Agile Development|agile]] frameworks, they run into challenges.
 >
 > **[0:06](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/what-is-scaling-agile?u=76281980&t=6)** The concept of scaling agile comes from the need to solve these issues.
 >
@@ -1204,18 +1187,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (16), teams (6), product (3), feature (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (16)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Scrum@Scale (S@S)
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/scrum-scale-s-s?u=76281980)
+#### [Scrum@Scale (S@S)](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/scrum-scale-s-s?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/scrum-scale-s-s?u=76281980&t=0)** - [Instructor] Scrum@Scale has one of the fastest growing rates of adoption.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/scrum-scale-s-s?u=76281980&t=0)** - [Instructor] [[Scrum]]@Scale has one of the fastest growing rates of adoption.
 >
 > **[0:04](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/scrum-scale-s-s?u=76281980&t=4)** This framework shares that you should not scale unless you have to, and when you do need to scale, keep it as simple and lean as possible.
 >
@@ -1231,7 +1213,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/scrum-scale-s-s?u=76281980&t=52)** The second cycle on the right is the product owner cycle.
 >
-> **[0:56](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/scrum-scale-s-s?u=76281980&t=56)** It's focused entirely on the products, the enterprise portfolio, and release planning.
+> **[0:56](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/scrum-scale-s-s?u=76281980&t=56)** It's focused entirely on the [[Microsoft Products|products]], the enterprise portfolio, and release planning.
 >
 > **[1:02](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/scrum-scale-s-s?u=76281980&t=62)** At the center of this cycle is the executive meta scrum which is a scrum team of chief product owners, executives, and key stakeholders.
 >
@@ -1249,7 +1231,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/scrum-scale-s-s?u=76281980&t=126)** One of the cons of this framework is the level of dedication to scrum that's needed.
 >
-> **[2:11](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/scrum-scale-s-s?u=76281980&t=131)** Yes, teams can use other agile frameworks at the team level, but the scaling events are all scrum based.
+> **[2:11](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/scrum-scale-s-s?u=76281980&t=131)** Yes, teams can use other [[Agile Development|agile]] frameworks at the team level, but the scaling events are all scrum based.
 >
 > **[2:18](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/scrum-scale-s-s?u=76281980&t=138)** Additionally, all members of leadership, especially the executive team, also need to understand and practice scrum.
 >
@@ -1259,16 +1241,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (15), teams (5), product (3), [[Microsoft Products|Products]] (1), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Scrum]] (15), [[Microsoft Products|Products]] (1), [[Agile Development|Agile]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Scaled Agile Framework (SAFe)
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/scaled-agile-framework-safe?u=76281980)
+#### [Scaled Agile Framework (SAFe)](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/scaled-agile-framework-safe?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/scaled-agile-framework-safe?u=76281980&t=0)** - [Instructor] Let's take a look at the Scaled Agile Framework, SAFe, for short, and why an arm of the US government, Fannie Mae, has chosen it.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/scaled-agile-framework-safe?u=76281980&t=0)** - [Instructor] Let's take a look at the Scaled [[Agile Development|Agile]] Framework, SAFe, for short, and why an arm of the US government, Fannie Mae, has chosen it.
 >
 > **[0:10](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/scaled-agile-framework-safe?u=76281980&t=10)** Fannie Mae is the largest provider of mortgage financing in the US.
 >
@@ -1280,7 +1261,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/scaled-agile-framework-safe?u=76281980&t=29)** The SAFe model is all about alignment and collaboration across large numbers of Agile teams.
 >
-> **[0:36](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/scaled-agile-framework-safe?u=76281980&t=36)** It relies heavily on [[Agile Software Development]], lean product management, and systems thinking.
+> **[0:36](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/scaled-agile-framework-safe?u=76281980&t=36)** It relies heavily on [[[[Agile Software Development]]]], lean product management, and systems thinking.
 >
 > **[0:43](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/scaled-agile-framework-safe?u=76281980&t=43)** Groups of teams working together at the program level are formed into Agile Release Trains, or ARTs.
 >
@@ -1288,7 +1269,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/scaled-agile-framework-safe?u=76281980&t=56)** In SAFe, the PIs are on a cadence or a schedule that releases in unison.
 >
-> **[1:03](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/scaled-agile-framework-safe?u=76281980&t=63)** Fannie Mae chose the SAFe model because it focuses on continuous integration and early testing.
+> **[1:03](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/scaled-agile-framework-safe?u=76281980&t=63)** Fannie Mae chose the SAFe model because it focuses on [[Continuous Integration (CI)|continuous integration]] and early testing.
 >
 > **[1:10](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/scaled-agile-framework-safe?u=76281980&t=70)** And adopting Agile and SAFe allowed them to mitigate risk.
 >
@@ -1322,15 +1303,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (5), teams (4), product (2), [[Continuous Integration (CI)|Continuous integration]] (2), [[Agile Software Development]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (5), [[Continuous Integration (CI)|Continuous integration]] (2), [[Agile Software Development]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** art (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Selecting unFix
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/selecting-unfix-30153312?u=76281980)
+#### [Selecting unFix](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/selecting-unfix-30153312?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1340,9 +1320,9 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/selecting-unfix-30153312?u=76281980&t=10)** This model promotes modular design instead of a one size fits all implementation.
 >
-> **[0:16](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/selecting-unfix-30153312?u=76281980&t=16)** It also focuses on the agile mindset and building a culture of experiment then scale.
+> **[0:16](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/selecting-unfix-30153312?u=76281980&t=16)** It also focuses on the [[Agile Development|agile]] mindset and building a culture of experiment then scale.
 >
-> **[0:25](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/selecting-unfix-30153312?u=76281980&t=25)** Let's examine a case study of the Dutch e-commerce company, Cool Blue, with 7,000 employees and over 2 billion in revenue, they're a great example of unFIX in practice.
+> **[0:25](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/selecting-unfix-30153312?u=76281980&t=25)** Let's examine a case study of the Dutch [[E-Commerce]] company, Cool Blue, with 7,000 employees and over 2 billion in revenue, they're a great example of unFIX in practice.
 >
 > **[0:39](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/selecting-unfix-30153312?u=76281980&t=39)** First, let's start by defining what unFIX is.
 >
@@ -1380,7 +1360,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/selecting-unfix-30153312?u=76281980&t=188)** It's especially useful where customer experience and rapid experimentation are strategic advantages.
 >
-> **[3:16](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/selecting-unfix-30153312?u=76281980&t=196)** A note of caution on unFIX though, leaders must understand organizational design, they're also expected to compose patterns and monitor them for appropriateness and usability.
+> **[3:16](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/selecting-unfix-30153312?u=76281980&t=196)** A note of caution on unFIX though, leaders must understand organizational design, they're also expected to [[Jetpack Compose|compose]] patterns and monitor them for appropriateness and usability.
 >
 > **[3:29](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/selecting-unfix-30153312?u=76281980&t=209)** Finally, dependencies need explicit structures designed to manage them.
 >
@@ -1388,7 +1368,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), [[Agile Development|Agile]] (2), product (2), [[E-Commerce]] (1), functional (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), [[E-Commerce]] (1), [[Jetpack Compose|Compose]] (1)
 > **Code Identifiers:** unfix (5)
 > **Definitions:** is a  (1)
 > **Warnings:** caution (1)
@@ -1399,12 +1379,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Technical architecture and your portfolio
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/technical-architecture-and-your-portfolio?u=76281980)
+#### [Technical architecture and your portfolio](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/technical-architecture-and-your-portfolio?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/technical-architecture-and-your-portfolio?u=76281980&t=0)** - [Instructor] In many organizations I've worked with, IT architects have been resistant to agile.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/technical-architecture-and-your-portfolio?u=76281980&t=0)** - [Instructor] In many organizations I've worked with, IT architects have been resistant to [[Agile Development|agile]].
 >
 > **[0:06](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/technical-architecture-and-your-portfolio?u=76281980&t=6)** Usually, they believe that the teams will be designing solutions for their product in a silo and won't take the larger ecosystem into account.
 >
@@ -1458,17 +1437,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (9), teams (7), product (6), management (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (9)
 > **CLI Commands:** make (3)
 > **Definitions:** means that (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Unlock DevOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/unlock-devops?u=76281980)
+#### [Unlock DevOps](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/unlock-devops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/unlock-devops?u=76281980&t=0)** - [Instructor] You can transform your organization to Agile practices without implementing any changes to the underlying systems and processes teams use.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/unlock-devops?u=76281980&t=0)** - [Instructor] You can transform your organization to [[Agile Development|Agile]] practices without implementing any changes to the underlying systems and processes teams use.
 >
 > **[0:09](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/unlock-devops?u=76281980&t=9)** These underlying systems and processes are things that the teams use to test and deploy code into the production environment.
 >
@@ -1478,15 +1456,15 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/unlock-devops?u=76281980&t=29)** Your teams will be doing Agile development.
 >
-> **[0:32](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/unlock-devops?u=76281980&t=32)** That means that they'll be following Scrum Kanbon or any of the other frameworks.
+> **[0:32](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/unlock-devops?u=76281980&t=32)** That means that they'll be following [[Scrum]] Kanbon or any of the other frameworks.
 >
 > **[0:37](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/unlock-devops?u=76281980&t=37)** The teams will unlock the advantages of speed and quality code that come with that change.
 >
-> **[0:43](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/unlock-devops?u=76281980&t=43)** However, organizational agility is something else entirely and that's what DevOps provides.
+> **[0:43](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/unlock-devops?u=76281980&t=43)** However, organizational agility is something else entirely and that's what [[DevOps]] provides.
 >
-> **[0:50](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/unlock-devops?u=76281980&t=50)** DevOps is the practice of partnership between software development and operations engineers throughout the entire value stream.
+> **[0:50](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/unlock-devops?u=76281980&t=50)** DevOps is the practice of partnership between [[Software Development]] and operations engineers throughout the entire value stream.
 >
-> **[0:59](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/unlock-devops?u=76281980&t=59)** From design all the way through production support for the products being released, the engineers work together to ensure the quality and stability of the product.
+> **[0:59](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/unlock-devops?u=76281980&t=59)** From design all the way through production support for the [[Microsoft Products|products]] being released, the engineers work together to ensure the quality and stability of the product.
 >
 > **[1:10](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/unlock-devops?u=76281980&t=70)** DevOps focuses on automating the processes between software development teams and IT infrastructure teams.
 >
@@ -1496,7 +1474,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/unlock-devops?u=76281980&t=95)** DevOps seeks tighter integration between software and operations.
 >
-> **[1:40](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/unlock-devops?u=76281980&t=100)** It's a framework for continuous delivery, continuous integration, and automated testing.
+> **[1:40](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/unlock-devops?u=76281980&t=100)** It's a framework for [[Continuous Delivery (CD)|continuous delivery]], [[Continuous Integration (CI)|continuous integration]], and automated testing.
 >
 > **[1:45](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/unlock-devops?u=76281980&t=105)** I've worked with organizations that transform to Agile without having a plan or roadmap in place for DevOps transformation.
 >
@@ -1516,18 +1494,17 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/unlock-devops?u=76281980&t=157)** As you plan out your Agile transformation, take the time to include DevOps changes into your plan.
 >
-> **[2:43](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/unlock-devops?u=76281980&t=163)** To help you get started, check out the LinkedIn Learning course, DevOps Foundation's Lean and Agile.
+> **[2:43](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/unlock-devops?u=76281980&t=163)** To help you get started, check out the [[LinkedIn]] Learning course, DevOps Foundation's Lean and Agile.
 >
 > **[2:50](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/unlock-devops?u=76281980&t=170)** When you do, you'll be on your way to full organizational agility.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (9), teams (8), [[DevOps]] (8), [[Software Development]] (2), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (9), [[DevOps]] (8), [[Software Development]] (2), [[Microsoft Products|Products]] (2), [[Scrum]] (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Connect IT silos
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/connect-it-silos?u=76281980)
+#### [Connect IT silos](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/connect-it-silos?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1545,9 +1522,9 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/connect-it-silos?u=76281980&t=22)** For example, you usually see divisions along specialty.
 >
-> **[0:26](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/connect-it-silos?u=76281980&t=26)** Software development may be one of your silos.
+> **[0:26](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/connect-it-silos?u=76281980&t=26)** [[Software Development]] may be one of your silos.
 >
-> **[0:28](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/connect-it-silos?u=76281980&t=28)** Even that can be subdivided further into silos like .NET or Java.
+> **[0:28](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/connect-it-silos?u=76281980&t=28)** Even that can be subdivided further into silos like .NET or [[Java]].
 >
 > **[0:33](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/connect-it-silos?u=76281980&t=33)** While it's good to have the breadth and depth of knowledge to effectively run your organization, it can cause problems.
 >
@@ -1567,9 +1544,9 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/connect-it-silos?u=76281980&t=81)** That conflict distracts everyone from focusing on the mission.
 >
-> **[1:25](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/connect-it-silos?u=76281980&t=85)** As you move through your agile journey, you'll need to address the silos in your organization.
+> **[1:25](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/connect-it-silos?u=76281980&t=85)** As you move through your [[Agile Development|agile]] journey, you'll need to address the silos in your organization.
 >
-> **[1:30](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/connect-it-silos?u=76281980&t=90)** Creating cross-functional teams and getting started on DevOps will help.
+> **[1:30](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/connect-it-silos?u=76281980&t=90)** Creating cross-functional teams and getting started on [[DevOps]] will help.
 >
 > **[1:34](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/connect-it-silos?u=76281980&t=94)** There's still more to do though.
 >
@@ -1607,7 +1584,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Software Development]] (2), [[Java]] (1), [[Agile Development|Agile]] (1), functional (1), teams (1)
+> **Frameworks & Libraries:** [[Software Development]] (2), [[Java]] (1), [[Agile Development|Agile]] (1), [[DevOps]] (1)
 > **Prerequisites:** you'll need (2), getting started (1)
 > **Env Vars:** net (1), kpi (1)
 > **Definitions:** is a  (1), known as (1)
@@ -1620,8 +1597,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Measure your transformation
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/measure-your-transformation?u=76281980)
+#### [Measure your transformation](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/measure-your-transformation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1631,7 +1607,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/measure-your-transformation?u=76281980&t=12)** Speaking of goals, do you know who tracks metrics in your organization?
 >
-> **[0:16](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/measure-your-transformation?u=76281980&t=16)** If you don't, I suggest starting with your agile transformation team to find out.
+> **[0:16](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/measure-your-transformation?u=76281980&t=16)** If you don't, I suggest starting with your [[Agile Development|agile]] transformation team to find out.
 >
 > **[0:22](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/measure-your-transformation?u=76281980&t=22)** In my experience, the most common goals for agile implementations are faster delivery, or speed, and higher quality.
 >
@@ -1689,19 +1665,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (5), teams (4)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (5)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Analogies:** for example (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Measure portfolio agility
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/measure-portfolio-agility?u=76281980)
+#### [Measure portfolio agility](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/measure-portfolio-agility?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/measure-portfolio-agility?u=76281980&t=0)** - [Narrator] We know that an agile transformation will impact every area of the organization.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/measure-portfolio-agility?u=76281980&t=0)** - [Narrator] We know that an [[Agile Development|agile]] transformation will impact every area of the organization.
 >
 > **[0:06](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/measure-portfolio-agility?u=76281980&t=6)** You'll be applying metrics at the team and organization level to see the health of the transformation.
 >
@@ -1737,7 +1712,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/measure-portfolio-agility?u=76281980&t=81)** Run features are related to keeping the business going as is.
 >
-> **[1:25](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/measure-portfolio-agility?u=76281980&t=85)** Grow features are those that will expand the footprint of existing products and services.
+> **[1:25](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/measure-portfolio-agility?u=76281980&t=85)** Grow features are those that will expand the footprint of existing [[Microsoft Products|products]] and services.
 >
 > **[1:31](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/measure-portfolio-agility?u=76281980&t=91)** Transform features are related to creating completely new products or services.
 >
@@ -1771,17 +1746,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (4), business (2), [[Microsoft Products|Products]] (2), [[Agile Development|Agile]] (1), teams (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Agile Development|Agile]] (1)
 > **Env Vars:** nps (4)
 > **Definitions:** is a  (2), known as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Measure team agility
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/measure-team-agility?u=76281980)
+#### [Measure team agility](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/measure-team-agility?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/measure-team-agility?u=76281980&t=0)** - [Instructor] As you establish your agile teams, you'll want to measure their growth in agile practices.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/measure-team-agility?u=76281980&t=0)** - [Instructor] As you establish your [[Agile Development|agile]] teams, you'll want to measure their growth in agile practices.
 >
 > **[0:06](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/measure-team-agility?u=76281980&t=6)** This can help you understand the areas where you must provide additional training or support to the teams.
 >
@@ -1855,7 +1829,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (6), [[Agile Development|Agile]] (3), next (2), hit (1), product (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (3)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -1866,8 +1840,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Resources for your agile journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/resources-for-your-agile-journey?u=76281980)
+#### [Resources for your agile journey](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/resources-for-your-agile-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1877,9 +1850,9 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/resources-for-your-agile-journey?u=76281980&t=10)** To continue your transformation journey, check out the handouts I've supplied to help you.
 >
-> **[0:15](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/resources-for-your-agile-journey?u=76281980&t=15)** And if you haven't already, it might be a good time to find an agile coach with whom you can partner to plan your transformation roadmap.
+> **[0:15](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/resources-for-your-agile-journey?u=76281980&t=15)** And if you haven't already, it might be a good time to find an [[Agile Development|agile]] coach with whom you can partner to plan your transformation roadmap.
 >
-> **[0:23](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/resources-for-your-agile-journey?u=76281980&t=23)** Please reach out to me on LinkedIn.
+> **[0:23](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/resources-for-your-agile-journey?u=76281980&t=23)** Please reach out to me on [[LinkedIn]].
 >
 > **[0:25](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/resources-for-your-agile-journey?u=76281980&t=25)** I'd love to hear from you and learn about your transformation questions.
 >
@@ -1887,7 +1860,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), [[LinkedIn]] (1), teams (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - thank (1)
 

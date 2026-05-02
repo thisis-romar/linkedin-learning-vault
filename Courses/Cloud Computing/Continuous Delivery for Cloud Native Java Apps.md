@@ -114,41 +114,39 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Delivering modern Java applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/delivering-modern-java-applications?u=76281980)
+#### [Delivering modern Java applications](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/delivering-modern-java-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/delivering-modern-java-applications?u=76281980&t=0)** - [Instructor] The evolution of Java applications over the past 25 years is extraordinary.
+> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/delivering-modern-java-applications?u=76281980&t=0)** - [Instructor] The evolution of [[Java]] applications over the past 25 years is extraordinary.
 >
-> **[0:06](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/delivering-modern-java-applications?u=76281980&t=6)** The language and its surrounding technologies have adapted to embrace new innovations like cloud, containers and microservices.
+> **[0:06](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/delivering-modern-java-applications?u=76281980&t=6)** The language and its surrounding technologies have adapted to embrace new innovations like cloud, containers and [[Microservices]].
 >
 > **[0:15](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/delivering-modern-java-applications?u=76281980&t=15)** If you haven't followed every twist and turn in this journey, it can be overwhelming when you start to explore these new tools and techniques for delivering software.
 >
 > **[0:24](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/delivering-modern-java-applications?u=76281980&t=24)** Hi, I'm Kevin Bowersox.
 >
-> **[0:26](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/delivering-modern-java-applications?u=76281980&t=26)** Using continuous delivery practices, I've automated the release processes for many applications that run inside containers on Kubernetes.
+> **[0:26](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/delivering-modern-java-applications?u=76281980&t=26)** Using [[Continuous Delivery (CD)|continuous delivery]] practices, I've automated the release processes for many applications that run inside containers on [[Kubernetes]].
 >
-> **[0:36](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/delivering-modern-java-applications?u=76281980&t=36)** In this course, I'll show you how tools like Maven, Jenkins and Docker work together to build and package modern Java apps.
+> **[0:36](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/delivering-modern-java-applications?u=76281980&t=36)** In this course, I'll show you how tools like Maven, [[Jenkins]] and Docker work together to build and package modern Java apps.
 >
-> **[0:45](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/delivering-modern-java-applications?u=76281980&t=45)** You'll also learn how emerging tools like Kustomize and Argo CD are used to automate their deployments.
+> **[0:45](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/delivering-modern-java-applications?u=76281980&t=45)** You'll also learn how emerging tools like Kustomize and [[Argo CD]] are used to automate their deployments.
 >
 > **[0:52](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/delivering-modern-java-applications?u=76281980&t=52)** After watching this course, you'll have a new toolset that will accelerate your team's release cadence without sacrificing the stability of your application.
 >
-> **[1:02](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/delivering-modern-java-applications?u=76281980&t=62)** So if you're ready, join me on my LinkedIn Learning course to learn how continuous delivery can help you deliver cloud native Java applications.
+> **[1:02](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/delivering-modern-java-applications?u=76281980&t=62)** So if you're ready, join me on my [[LinkedIn]] Learning course to learn how continuous delivery can help you deliver cloud native Java applications.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (3), cloud (2), [[Continuous Delivery (CD)|Continuous delivery]] (2), [[Microservices]] (1), [[Kubernetes]] (1)
+> **Frameworks & Libraries:** [[Java]] (3), [[Continuous Delivery (CD)|Continuous delivery]] (2), [[Microservices]] (1), [[Kubernetes]] (1), [[Jenkins]] (1)
 > **CLI Commands:** docker (1), cd (1)
 > **Speakers:** - [instructor] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/what-you-should-know?u=76281980&t=0)** - [Instructor] Before we take a closer look at how to build and deliver Java apps, let's talk a bit about who this course is for and what you should know ahead of time.
+> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/what-you-should-know?u=76281980&t=0)** - [Instructor] Before we take a closer look at how to build and deliver [[Java]] apps, let's talk a bit about who this course is for and what you should know ahead of time.
 >
 > **[0:10](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/what-you-should-know?u=76281980&t=10)** The course is designed for Java developers and operations engineers that are responsible for delivering changes to Java applications.
 >
@@ -160,11 +158,11 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/what-you-should-know?u=76281980&t=46)** And that brings me to my next point.
 >
-> **[0:48](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/what-you-should-know?u=76281980&t=48)** If you're just beginning to learn Java, or you're not familiar with tools like Git, there might be better courses for you at this point.
+> **[0:48](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/what-you-should-know?u=76281980&t=48)** If you're just beginning to learn Java, or you're not familiar with tools like [[Git]], there might be better courses for you at this point.
 >
 > **[0:56](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/what-you-should-know?u=76281980&t=56)** To help us work with these technologies.
 >
-> **[0:59](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/what-you-should-know?u=76281980&t=59)** I've created a lab environment within an Ubuntu virtual machine.
+> **[0:59](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/what-you-should-know?u=76281980&t=59)** I've created a lab environment within an [[Ubuntu]] virtual machine.
 >
 > **[1:03](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/what-you-should-know?u=76281980&t=63)** To run the lab you'll need Virtual Box, Vagrant, and the Vagrant virtual box plugin installed on your workstation.
 >
@@ -184,14 +182,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (5), next (1), [[Git]] (1), [[Ubuntu]] (1)
+> **Frameworks & Libraries:** [[Java]] (5), [[Git]] (1), [[Ubuntu]] (1)
 > **Prerequisites:** you'll need (2)
 > **CLI Commands:** git (1)
 > **Env Vars:** ram (1)
 > **Speakers:** - [instructor] (1)
 
-#### Lab setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/lab-setup?u=76281980)
+#### [Lab setup](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/lab-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -201,7 +198,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/lab-setup?u=76281980&t=9)** The first one is VirtualBox.
 >
-> **[0:11](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/lab-setup?u=76281980&t=11)** We'll use it to launch our Ubuntu virtual machine, that contains the lab.
+> **[0:11](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/lab-setup?u=76281980&t=11)** We'll use it to launch our [[Ubuntu]] virtual machine, that contains the lab.
 >
 > **[0:16](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/lab-setup?u=76281980&t=16)** To get started with the VirtualBox install, just click on the downloads link, on the VirtualBox homepage.
 >
@@ -211,7 +208,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/lab-setup?u=76281980&t=36)** Go ahead and select the right operating system for you.
 >
-> **[0:39](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/lab-setup?u=76281980&t=39)** I'm going to choose Windows, and that will start to download the software.
+> **[0:39](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/lab-setup?u=76281980&t=39)** I'm going to choose [[Windows]], and that will start to download the software.
 >
 > **[0:44](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/lab-setup?u=76281980&t=44)** While that's downloading, let's take a look at our next piece of software.
 >
@@ -237,7 +234,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/lab-setup?u=76281980&t=90)** Now let's talk about these files some.
 >
-> **[1:33](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/lab-setup?u=76281980&t=93)** Here you'll see the source code, for each of the microservices, within our course project.
+> **[1:33](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/lab-setup?u=76281980&t=93)** Here you'll see the source code, for each of the [[Microservices]], within our course project.
 >
 > **[1:39](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/lab-setup?u=76281980&t=99)** Now one thing that you need to know, is that the lab environment contains, the initial copy of these exercise files.
 >
@@ -287,7 +284,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (2), [[Ubuntu]] (1), next (1), [[Microservices]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Ubuntu]] (1), [[Microservices]] (1)
 > **UI Navigation:** click on (2), scroll down (2), select the (2)
 > **Prerequisites:** install (3), you'll need (1), set up (1), setup (1)
 > **Exercise Files:** exercise files (3), download the (1), source code (1)
@@ -301,16 +298,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is continuous delivery?
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/what-is-continuous-delivery?u=76281980)
+#### [What is continuous delivery?](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/what-is-continuous-delivery?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/what-is-continuous-delivery?u=76281980&t=0)** - [Instructor] Before diving into the techniques and technologies used to deliver Java applications, let's discuss the big picture of what we're trying to achieve by practicing continuous delivery.
+> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/what-is-continuous-delivery?u=76281980&t=0)** - [Instructor] Before diving into the techniques and technologies used to deliver [[Java]] applications, let's discuss the big picture of what we're trying to achieve by practicing [[Continuous Delivery (CD)|continuous delivery]].
 >
 > **[0:13](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/what-is-continuous-delivery?u=76281980&t=13)** Continuous delivery is a bit of a mindset shift from what you might've learned about delivering software early in your career.
 >
-> **[0:21](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/what-is-continuous-delivery?u=76281980&t=21)** In my college coursework, I was taught the five sequential phases of the software development lifecycle.
+> **[0:21](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/what-is-continuous-delivery?u=76281980&t=21)** In my college coursework, I was taught the five sequential phases of the [[Software Development]] lifecycle.
 >
 > **[0:27](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/what-is-continuous-delivery?u=76281980&t=27)** The first three phases focused on building the entire product and then the final two phases would test and deploy everything that was built.
 >
@@ -340,7 +336,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/what-is-continuous-delivery?u=76281980&t=131)** The cycle time is extended, so we're tempted to cram a bunch of changes into the iteration and release them all at once.
 >
-> **[2:20](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/what-is-continuous-delivery?u=76281980&t=140)** This increases the probability that something will go wrong at deployment time.
+> **[2:20](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/what-is-continuous-delivery?u=76281980&t=140)** This increases the [[Probability]] that something will go wrong at deployment time.
 >
 > **[2:26](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/what-is-continuous-delivery?u=76281980&t=146)** Also, the feedback that we receive about the software from acceptance testers and users is limited because the changes only become visible towards the end of the cycle right before we release everything.
 >
@@ -370,19 +366,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Continuous Delivery (CD)|Continuous delivery]] (6), teams (5), product (3), [[Automation]] (2), [[Java]] (1)
+> **Frameworks & Libraries:** [[Continuous Delivery (CD)|Continuous delivery]] (6), [[Java]] (1), [[Software Development]] (1), [[Probability]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** later in (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Principles of continuous delivery
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/principles-of-continuous-delivery?u=76281980)
+#### [Principles of continuous delivery](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/principles-of-continuous-delivery?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/principles-of-continuous-delivery?u=76281980&t=0)** - [Presenter] There are several principles that a successful continuous delivery approach is built upon.
+> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/principles-of-continuous-delivery?u=76281980&t=0)** - [Presenter] There are several principles that a successful [[Continuous Delivery (CD)|continuous delivery]] approach is built upon.
 >
 > **[0:05](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/principles-of-continuous-delivery?u=76281980&t=5)** Let's explore them to learn how they influence the practices teams use to deliver software.
 >
@@ -398,7 +393,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/principles-of-continuous-delivery?u=76281980&t=53)** It just frees them up to focus on more valuable work.
 >
-> **[0:57](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/principles-of-continuous-delivery?u=76281980&t=57)** That takes us to version control, which is the single source of truth for project artifacts like source code, scripts and configuration files.
+> **[0:57](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/principles-of-continuous-delivery?u=76281980&t=57)** That takes us to [[Version Control]], which is the single source of truth for project artifacts like source code, scripts and configuration files.
 >
 > **[1:07](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/principles-of-continuous-delivery?u=76281980&t=67)** Placing these artifacts in diversion control allows the team and automation to collaborate better because everything related to the project is in one managed location that is accessible to everyone.
 >
@@ -436,16 +431,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Continuous Delivery (CD)|Continuous delivery]] (3), teams (1), feature (1), [[Version Control]] (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Continuous Delivery (CD)|Continuous delivery]] (3), [[Version Control]] (1)
 > **Exercise Files:** source code (1)
 > **Speakers:** - [presenter] (1)
 
-#### Continuous integration, delivery, and deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-integration-delivery-and-deployment?u=76281980)
+#### [Continuous integration, delivery, and deployment](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-integration-delivery-and-deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-integration-delivery-and-deployment?u=76281980&t=0)** - [Presenter] Continuous delivery is closely related to the practices of continuous integration and continuous deployment.
+> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-integration-delivery-and-deployment?u=76281980&t=0)** - [Presenter] [[Continuous Delivery (CD)|Continuous delivery]] is closely related to the practices of [[Continuous Integration (CI)|continuous integration]] and continuous deployment.
 >
 > **[0:07](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-integration-delivery-and-deployment?u=76281980&t=7)** These three concepts commonly fall under the umbrella of the term CICD.
 >
@@ -497,14 +491,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Continuous Delivery (CD)|Continuous delivery]] (8), [[Continuous Integration (CI)|Continuous integration]] (5), teams (3), ci (2), [[Automation]] (2)
+> **Frameworks & Libraries:** [[Continuous Delivery (CD)|Continuous delivery]] (8), [[Continuous Integration (CI)|Continuous integration]] (5)
 > **Env Vars:** cicd (3)
 > **Analogies:** picture (2)
 > **Exercise Files:** source code (1)
 > **Speakers:** - [presenter] (1)
 
-#### Delivery pipelines
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/delivery-pipelines?u=76281980)
+#### [Delivery pipelines](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/delivery-pipelines?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -516,7 +509,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/delivery-pipelines?u=76281980&t=30)** This tedious process prolongs the delivery of new features, and it becomes a scramble to make the release state.
 >
-> **[0:37](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/delivery-pipelines?u=76281980&t=37)** In continuous delivery, a pipeline is used to accelerate and remove waste from the process that takes new code from version control and makes it available as a new feature for end users.
+> **[0:37](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/delivery-pipelines?u=76281980&t=37)** In [[Continuous Delivery (CD)|continuous delivery]], a pipeline is used to accelerate and remove waste from the process that takes new code from [[Version Control]] and makes it available as a new feature for end users.
 >
 > **[0:49](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/delivery-pipelines?u=76281980&t=49)** The pipeline models each step in the delivery process and automates them to create a rapid, repeatable and reliable mechanism for releasing changes to software.
 >
@@ -530,7 +523,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/delivery-pipelines?u=76281980&t=85)** In this process, we have three phases.
 >
-> **[1:28](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/delivery-pipelines?u=76281980&t=88)** One for the developer workflow, another for continuous integration, and finally, one for continuous delivery or deployment.
+> **[1:28](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/delivery-pipelines?u=76281980&t=88)** One for the developer workflow, another for [[Continuous Integration (CI)|continuous integration]], and finally, one for continuous delivery or deployment.
 >
 > **[1:36](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/delivery-pipelines?u=76281980&t=96)** A change enters the pipeline after a developer has written and committed the code for a new feature into the source code repository.
 >
@@ -552,17 +545,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (4), [[Continuous Delivery (CD)|Continuous delivery]] (3), [[Automation]] (2), [[Continuous Integration (CI)|Continuous integration]] (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Continuous Delivery (CD)|Continuous delivery]] (3), [[Continuous Integration (CI)|Continuous integration]] (2), [[Version Control]] (1)
 > **Exercise Files:** source code (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Modern Java applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/modern-java-applications?u=76281980)
+#### [Modern Java applications](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/modern-java-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/modern-java-applications?u=76281980&t=0)** - [Instructor] Since the inception of Java, a number of shifts in technology have influenced the way that we build, deliver, and operate modern Java applications.
+> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/modern-java-applications?u=76281980&t=0)** - [Instructor] Since the inception of [[Java]], a number of shifts in technology have influenced the way that we build, deliver, and operate modern Java applications.
 >
 > **[0:10](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/modern-java-applications?u=76281980&t=10)** These shifts are best summarized by the term "cloud native", which is used to describe software that is highly distributed, modular, and resilient.
 >
@@ -580,15 +572,15 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/modern-java-applications?u=76281980&t=62)** So at the end of the project you ran the risk of delivering the wrong product.
 >
-> **[1:08](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/modern-java-applications?u=76281980&t=68)** This led teams to adopt new ways of delivering software like Agile and DevOps.
+> **[1:08](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/modern-java-applications?u=76281980&t=68)** This led teams to adopt new ways of delivering software like [[Agile Development|Agile]] and [[DevOps]].
 >
-> **[1:13](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/modern-java-applications?u=76281980&t=73)** Agile complements continuous delivery very well because the idea is to develop in iterations where work is broken down into smaller pieces.
+> **[1:13](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/modern-java-applications?u=76281980&t=73)** Agile complements [[Continuous Delivery (CD)|continuous delivery]] very well because the idea is to develop in iterations where work is broken down into smaller pieces.
 >
 > **[1:23](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/modern-java-applications?u=76281980&t=83)** So it naturally produces the small changes that we want to deliver through a CI/CD pipeline.
 >
 > **[1:30](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/modern-java-applications?u=76281980&t=90)** DevOps also emerged slightly after Agile.
 >
-> **[1:34](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/modern-java-applications?u=76281980&t=94)** It advocated for best practices like early collaboration between development, quality assurance, and operations teams.
+> **[1:34](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/modern-java-applications?u=76281980&t=94)** It advocated for best practices like early collaboration between development, [[Quality Assurance]], and operations teams.
 >
 > **[1:42](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/modern-java-applications?u=76281980&t=102)** In fact, one of the key practices in a DevOps approach is to automate common testing and operations tasks into a CI/CD pipeline so you can deliver faster.
 >
@@ -598,7 +590,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/modern-java-applications?u=76281980&t=134)** The emergence of cloud platforms changed this equation.
 >
-> **[2:18](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/modern-java-applications?u=76281980&t=138)** Now virtual machines can be provisioned in seconds and easily scaled up if they require more resources.
+> **[2:18](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/modern-java-applications?u=76281980&t=138)** Now [[Virtual Machines]] can be provisioned in seconds and easily scaled up if they require more resources.
 >
 > **[2:25](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/modern-java-applications?u=76281980&t=145)** The cloud also made many capabilities like networking and security available as easy to use services that operate at a global scale.
 >
@@ -608,7 +600,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/modern-java-applications?u=76281980&t=174)** Often these platforms were not configured the same in different environments and the one-off configurations could cause a release to fail.
 >
-> **[3:03](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/modern-java-applications?u=76281980&t=183)** The introduction of container-based technologies like Docker and Kubernetes changed how we package Java applications.
+> **[3:03](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/modern-java-applications?u=76281980&t=183)** The introduction of container-based technologies like Docker and [[Kubernetes]] changed how we package Java applications.
 >
 > **[3:11](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/modern-java-applications?u=76281980&t=191)** Using containers, we can package applications and their environments together, which simplifies how we deploy and run them.
 >
@@ -616,7 +608,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/modern-java-applications?u=76281980&t=208)** Monoliths are still a valid architecture in many scenarios, but their bulkiness doesn't promote the rapid delivery of changes that we hope to achieve with continuous delivery.
 >
-> **[3:40](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/modern-java-applications?u=76281980&t=220)** Highly de-coupled microservices have emerged as the best approach for teams that want to deploy small portions of their system frequently.
+> **[3:40](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/modern-java-applications?u=76281980&t=220)** Highly de-coupled [[Microservices]] have emerged as the best approach for teams that want to deploy small portions of their system frequently.
 >
 > **[3:49](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/modern-java-applications?u=76281980&t=229)** Microservice architectures consists of small services that can be developed and deployed independently of one another, which allows our systems to be changed more easily.
 >
@@ -626,7 +618,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (6), cloud (5), teams (4), [[Agile Development|Agile]] (3), [[DevOps]] (3)
+> **Frameworks & Libraries:** [[Java]] (6), [[Agile Development|Agile]] (3), [[DevOps]] (3), [[Continuous Delivery (CD)|Continuous delivery]] (2), [[Quality Assurance]] (1)
 > **CLI Commands:** cd (2), docker (1)
 > **Speakers:** - [instructor] (1)
 
@@ -635,8 +627,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Developer workflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/developer-workflow?u=76281980)
+#### [Developer workflow](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/developer-workflow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -646,33 +637,33 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/developer-workflow?u=76281980&t=14)** Although it's technically not part of the pipeline, a developer's workflow plays an important role in the delivery process because within it, we can build in some practices that improve the quality of code before it ever enters the pipeline.
 >
-> **[0:30](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/developer-workflow?u=76281980&t=30)** The changes a developer introduces into the pipeline start off as small stories for new features, which are planned with Agile project management tools like Jira or Version One.
+> **[0:30](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/developer-workflow?u=76281980&t=30)** The changes a developer introduces into the pipeline start off as small stories for new features, which are planned with [[Agile Development|Agile]] project management tools like [[Jira]] or Version One.
 >
 > **[0:42](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/developer-workflow?u=76281980&t=42)** After being assigned a story, a developer begins writing the code for it in an IDE like Eclipse or IntelliJ.
 >
 > **[0:49](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/developer-workflow?u=76281980&t=49)** IDEs make writing code more efficient by providing features like auto-complete and tools for refactoring.
 >
-> **[0:56](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/developer-workflow?u=76281980&t=56)** At this point in the process, developers are frequently compiling and running the application locally as they perform their work with the help of build tools like Gradle or Maven.
+> **[0:56](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/developer-workflow?u=76281980&t=56)** At this point in the process, developers are frequently compiling and running the application locally as they perform their work with the help of build tools like [[Gradle]] or Maven.
 >
-> **[1:08](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/developer-workflow?u=76281980&t=68)** Here, the dependency management features within these build tools are used to pull in other libraries through their integration with the IDE.
+> **[1:08](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/developer-workflow?u=76281980&t=68)** Here, the [[Dependency Management]] features within these build tools are used to pull in other libraries through their integration with the IDE.
 >
 > **[1:17](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/developer-workflow?u=76281980&t=77)** Within their IDE, developers can also add plugins to analyze their source code as it's being written.
 >
 > **[1:24](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/developer-workflow?u=76281980&t=84)** These tools can enforce style guidelines or detect common programming errors, which help improve code quality.
 >
-> **[1:31](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/developer-workflow?u=76281980&t=91)** Most Java IDEs will also provide support for JUnit, which is a unit testing framework that developers can use to ensure their new code functions properly.
+> **[1:31](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/developer-workflow?u=76281980&t=91)** Most [[Java]] IDEs will also provide support for [[JUnit]], which is a [[Unit Testing]] framework that developers can use to ensure their new code functions properly.
 >
 > **[1:42](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/developer-workflow?u=76281980&t=102)** Before checking into source control, developers should scan their code and run the unit test suite to prevent any problems from making their way into the repository.
 >
 > **[1:52](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/developer-workflow?u=76281980&t=112)** After validating their changes, developers should submit a pull request so that it can be reviewed by their team before it's merged into a shared branch in the repository.
 >
-> **[2:03](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/developer-workflow?u=76281980&t=123)** When practicing continuous delivery, developers are cycling through this workflow multiple times per day to deliver small changes to the code base, which helps avoid complicated merges towards the end of a project.
+> **[2:03](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/developer-workflow?u=76281980&t=123)** When practicing [[Continuous Delivery (CD)|continuous delivery]], developers are cycling through this workflow multiple times per day to deliver small changes to the code base, which helps avoid complicated merges towards the end of a project.
 >
 > **[2:16](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/developer-workflow?u=76281980&t=136)** By following these best practices in their workflow, developers can improve the quality of their code before it ever enters the pipeline.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), management (1), [[Jira]] (1), application (1), [[Gradle]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), [[Jira]] (1), [[Gradle]] (1), [[Dependency Management]] (1), [[Java]] (1)
 > **Env Vars:** ide (3)
 > **Tools:** jira (1), intellij (1)
 > **CLI Commands:** make (1)
@@ -681,16 +672,15 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Course project overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/course-project-overview?u=76281980)
+#### [Course project overview](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/course-project-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/course-project-overview?u=76281980&t=0)** - [Instructor] Throughout the course, we'll be taking a small application for the Landon Hotel through the end-to-end continuous delivery process.
+> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/course-project-overview?u=76281980&t=0)** - [Instructor] Throughout the course, we'll be taking a small application for the Landon Hotel through the end-to-end [[Continuous Delivery (CD)|continuous delivery]] process.
 >
 > **[0:08](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/course-project-overview?u=76281980&t=8)** Landon Hotel is a fictional hotel, and the application will be used by the hotel to view bookings that guests make for rooms.
 >
-> **[0:17](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/course-project-overview?u=76281980&t=17)** The application is designed with several features used in modern Java applications that you should be aware of when working with it.
+> **[0:17](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/course-project-overview?u=76281980&t=17)** The application is designed with several features used in modern [[Java]] applications that you should be aware of when working with it.
 >
 > **[0:25](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/course-project-overview?u=76281980&t=25)** First, it's a distributed system built with a microservice architecture.
 >
@@ -698,7 +688,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/course-project-overview?u=76281980&t=40)** Microservice architectures break systems down into small services that run in separate processes, but they're able to communicate with each other through API calls over a network.
 >
-> **[0:52](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/course-project-overview?u=76281980&t=52)** This network of loosely coupled services forms the larger system.
+> **[0:52](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/course-project-overview?u=76281980&t=52)** This network of loosely coupled services [[Forms]] the larger system.
 >
 > **[0:57](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/course-project-overview?u=76281980&t=57)** Since the services run independently, we can develop and release them separately from each other, which is very helpful for decoupling delivery times.
 >
@@ -714,11 +704,11 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/course-project-overview?u=76281980&t=98)** Between these services, there's a little bit of east-west traffic because the booking API fetches some information about rooms, and guess from those other services.
 >
-> **[1:49](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/course-project-overview?u=76281980&t=109)** Each microservice is a separate Spring Boot project that uses either Spring's web flux or web framework to build a restful API.
+> **[1:49](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/course-project-overview?u=76281980&t=109)** Each microservice is a separate [[Spring Boot]] project that uses either Spring's web [[Flux]] or web framework to build a restful API.
 >
 > **[1:58](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/course-project-overview?u=76281980&t=118)** Spring Boot makes it much easier to include Spring projects and their dependencies within an application by using starter dependencies.
 >
-> **[2:07](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/course-project-overview?u=76281980&t=127)** These help pull all of the libraries that you'll need through build tools like Maven or Gradle.
+> **[2:07](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/course-project-overview?u=76281980&t=127)** These help pull all of the libraries that you'll need through build tools like Maven or [[Gradle]].
 >
 > **[2:13](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/course-project-overview?u=76281980&t=133)** Spring Boot also automatically configures different spring components for you right out of the box.
 >
@@ -756,7 +746,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (11), web (8), [[Java]] (6), [[Spring Boot]] (5), api (4)
+> **Frameworks & Libraries:** [[Java]] (6), [[Spring Boot]] (5), [[Gradle]] (3), [[Forms]] (1), [[Flux]] (1)
 > **Env Vars:** api (4), war (2)
 > **Definitions:** is a  (4), known as (1)
 > **CLI Commands:** make (1), docker (1)
@@ -765,8 +755,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Local workstation setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/local-workstation-setup?u=76281980)
+#### [Local workstation setup](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/local-workstation-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -778,7 +767,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/local-workstation-setup?u=76281980&t=15)** Inside of the lab, you'll find that the exercise files for the course have been placed on the desktop.
 >
-> **[0:22](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/local-workstation-setup?u=76281980&t=22)** This directory contains the source code for each of the microservices that we'll use within the Landon Hotel app.
+> **[0:22](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/local-workstation-setup?u=76281980&t=22)** This directory contains the source code for each of the [[Microservices]] that we'll use within the Landon Hotel app.
 >
 > **[0:29](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/local-workstation-setup?u=76281980&t=29)** Let's go ahead and import these projects into Eclipse, which is also included on the desktop.
 >
@@ -810,11 +799,11 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/local-workstation-setup?u=76281980&t=109)** Let's take a peek at their configuration and open up the POM.
 >
-> **[1:55](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/local-workstation-setup?u=76281980&t=115)** The first thing I'll point out about the project is that it uses Spring, and I can tell that by the Spring Boot starter parent POM, which is used by Spring Boot to quickly get us up and running with the Spring framework.
+> **[1:55](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/local-workstation-setup?u=76281980&t=115)** The first thing I'll point out about the project is that it uses Spring, and I can tell that by the [[Spring Boot]] starter parent POM, which is used by Spring Boot to quickly get us up and running with the [[Spring Framework]].
 >
 > **[2:10](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/local-workstation-setup?u=76281980&t=130)** If we navigate to the dependency hierarchy, we can see some of the other Spring projects that are included in this project.
 >
-> **[2:18](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/local-workstation-setup?u=76281980&t=138)** So there you see Spring Data and Spring Webflux.
+> **[2:18](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/local-workstation-setup?u=76281980&t=138)** So there you see [[Spring Data]] and Spring Webflux.
 >
 > **[2:22](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/local-workstation-setup?u=76281980&t=142)** You'll also notice that an embedded Tomcat servlet container is included.
 >
@@ -846,7 +835,7 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/local-workstation-setup?u=76281980&t=242)** By default, Spring Boot packages our applications into an executable JAR that uses an embedded server.
 >
-> **[4:10](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/local-workstation-setup?u=76281980&t=250)** If we take a look at our hotel web app application class, located in the com.linkedin.javacd package, we can see a little bit about how this works.
+> **[4:10](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/local-workstation-setup?u=76281980&t=250)** If we take a look at our hotel web app application class, located in the com.[[LinkedIn]].javacd package, we can see a little bit about how this works.
 >
 > **[4:20](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/local-workstation-setup?u=76281980&t=260)** You'll notice the Spring Boot application annotation on this class.
 >
@@ -856,7 +845,7 @@ created: 2026-05-02
 >
 > **[4:31](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/local-workstation-setup?u=76281980&t=271)** And this spins up the web server.
 >
-> **[4:34](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/local-workstation-setup?u=76281980&t=274)** It's just a plain old Java class, so we can right click on it, go to Run as, and then, Java application to start it.
+> **[4:34](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/local-workstation-setup?u=76281980&t=274)** It's just a plain old [[Java]] class, so we can right click on it, go to Run as, and then, Java application to start it.
 >
 > **[4:42](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/local-workstation-setup?u=76281980&t=282)** This will cause Eclipse to start to launch the app.
 >
@@ -922,7 +911,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Boot]] (13), application (13), hit (3), web (3), [[Java]] (3)
+> **Frameworks & Libraries:** [[Spring Boot]] (13), [[Java]] (3), [[Spring Data]] (2), [[LinkedIn]] (2), [[Microservices]] (1)
 > **UI Navigation:** click on (10), go to (3), navigate to (2), double-click (1), scroll down (1)
 > **Env Vars:** pom (6), ide (1), jar (1), url (1)
 > **Exercise Files:** exercise files (3), source code (1)
@@ -931,16 +920,15 @@ created: 2026-05-02
 > **Prerequisites:** set up (1), configure (1)
 > **File Paths:** pom.xml (1)
 
-#### Monorepo vs. polyrepo
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/monorepo-vs-polyrepo?u=76281980)
+#### [Monorepo vs. polyrepo](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/monorepo-vs-polyrepo?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/monorepo-vs-polyrepo?u=76281980&t=0)** - [Instructor] The source code repository is a key component within our continuous delivery process because it's where team members integrate code that the pipeline retrieves when it kicks off the build.
+> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/monorepo-vs-polyrepo?u=76281980&t=0)** - [Instructor] The source code repository is a key component within our [[Continuous Delivery (CD)|continuous delivery]] process because it's where team members integrate code that the pipeline retrieves when it kicks off the build.
 >
 > **[0:12](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/monorepo-vs-polyrepo?u=76281980&t=12)** To function well in a pipeline, the code repository must be hosted in a central location that provides other features like security, pull requests, and code reviews.
 >
-> **[0:23](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/monorepo-vs-polyrepo?u=76281980&t=23)** These features are commonly found in hosting platforms like GitHub, which we'll be using to manage our course project.
+> **[0:23](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/monorepo-vs-polyrepo?u=76281980&t=23)** These features are commonly found in hosting platforms like [[GitHub]], which we'll be using to manage our course project.
 >
 > **[0:30](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/monorepo-vs-polyrepo?u=76281980&t=30)** Since we're using a microservice architecture, we now have four separate code bases, one for each of the services.
 >
@@ -972,13 +960,13 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/monorepo-vs-polyrepo?u=76281980&t=128)** That's because it's stored across many repositories, which might require permissions to access.
 >
-> **[2:14](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/monorepo-vs-polyrepo?u=76281980&t=134)** In our project, we'll be using the multirepo approach because it's more straightforward to work with our CI tool, Jenkins.
+> **[2:14](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/monorepo-vs-polyrepo?u=76281980&t=134)** In our project, we'll be using the multirepo approach because it's more straightforward to work with our CI tool, [[Jenkins]].
 >
 > **[2:22](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/monorepo-vs-polyrepo?u=76281980&t=142)** So let's dive into our next lesson to set up our repos for each service inside of GitHub.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (2), ci (2), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Security]] (1), [[Jenkins]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Jenkins]] (1)
 > **Tools:** github (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -986,12 +974,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating polyrepos in GitHub
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/creating-polyrepos-in-github?u=76281980)
+#### [Creating polyrepos in GitHub](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/creating-polyrepos-in-github?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/creating-polyrepos-in-github?u=76281980&t=0)** - [Instructor] Let's set up our poly repo within GitHub to store the source code for each of our microservices.
+> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/creating-polyrepos-in-github?u=76281980&t=0)** - [Instructor] Let's set up our poly repo within [[GitHub]] to store the source code for each of our [[Microservices]].
 >
 > **[0:06](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/creating-polyrepos-in-github?u=76281980&t=6)** To help with that, we're going to use a GitHub organization, which will have a repository for each service.
 >
@@ -1083,7 +1070,7 @@ created: 2026-05-02
 >
 > **[4:43](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/creating-polyrepos-in-github?u=76281980&t=283)** It's used to adjust some YAML files and also it's used in this line that creates a new repository within our GitHub organization.
 >
-> **[4:55](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/creating-polyrepos-in-github?u=76281980&t=295)** Now, to do that, it uses the GitHub CLI.
+> **[4:55](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/creating-polyrepos-in-github?u=76281980&t=295)** Now, to do that, it uses the GitHub [[CLI]].
 >
 > **[4:59](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/creating-polyrepos-in-github?u=76281980&t=299)** This is a tool that we can use to work with GitHub from the command line.
 >
@@ -1131,7 +1118,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (18), next (7), [[Microservices]] (4), [[Security]] (1), [[CLI]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (18), [[Microservices]] (4), [[CLI]] (1)
 > **Tools:** github (18), command line (1)
 > **UI Navigation:** click on (12), select the (2)
 > **Env Vars:** ssh (7), rsa (3), gpg (1), yaml (1), cli (1)
@@ -1145,12 +1132,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Build tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/build-tools?u=76281980)
+#### [Build tools](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/build-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/build-tools?u=76281980&t=0)** - [Narrator] In the next two chapters of the course, we're going to explore Maven and Gradle, which are two popular build tools used with Java.
+> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/build-tools?u=76281980&t=0)** - [Narrator] In the next two chapters of the course, we're going to explore Maven and [[Gradle]], which are two popular build tools used with [[Java]].
 >
 > **[0:08](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/build-tools?u=76281980&t=8)** Before diving in to those specific technologies, let's take a high-level look at what we can expect from a build tool and how they're used.
 >
@@ -1162,13 +1148,13 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/build-tools?u=76281980&t=53)** Most build tools have an ecosystem of plugins that can be included within our configuration file to easily perform different actions during our build lifecycle.
 >
-> **[1:03](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/build-tools?u=76281980&t=63)** Another great feature of some build tools, like Gradle and Maven, is their dependency management systems.
+> **[1:03](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/build-tools?u=76281980&t=63)** Another great feature of some build tools, like Gradle and Maven, is their [[Dependency Management]] systems.
 >
 > **[1:10](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/build-tools?u=76281980&t=70)** These make it much easier to include external libraries within our projects.
 >
 > **[1:16](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/build-tools?u=76281980&t=76)** Here's how dependency management works at a high level.
 >
-> **[1:19](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/build-tools?u=76281980&t=79)** Imagine that we wanted to use Selenium for some testing within our project.
+> **[1:19](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/build-tools?u=76281980&t=79)** Imagine that we wanted to use [[Selenium]] for some testing within our project.
 >
 > **[1:23](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/build-tools?u=76281980&t=83)** We would just add its dependency information within the configuration file for our build tool.
 >
@@ -1180,7 +1166,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/build-tools?u=76281980&t=120)** A build tool makes that easy.
 >
-> **[2:03](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/build-tools?u=76281980&t=123)** It walks the dependency graph for you and automatically pulls in the transitive dependencies based on metadata each dependency declares in its own configuration.
+> **[2:03](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/build-tools?u=76281980&t=123)** It walks the dependency graph for you and automatically pulls in the transitive dependencies based on [[Metadata]] each dependency declares in its own configuration.
 >
 > **[2:15](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/build-tools?u=76281980&t=135)** So at a high level, it kind of looks like this.
 >
@@ -1200,7 +1186,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/build-tools?u=76281980&t=194)** Build tools also play an important role in the CI process, where they compile and package our source code for each check-in on an isolated server.
 >
-> **[3:24](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/build-tools?u=76281980&t=204)** This is typically triggered by an automation server, like Jenkins.
+> **[3:24](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/build-tools?u=76281980&t=204)** This is typically triggered by an automation server, like [[Jenkins]].
 >
 > **[3:29](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/build-tools?u=76281980&t=209)** The isolated server provides us a clean environment to build the software without any influence from one-off configurations that might exist on a developer workstation.
 >
@@ -1208,7 +1194,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gradle]] (3), [[Selenium]] (3), [[Dependency Management]] (2), next (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Gradle]] (3), [[Selenium]] (3), [[Dependency Management]] (2), [[Java]] (1), [[Metadata]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Exercise Files:** source code (2)
 > **Env Vars:** ide (1)
@@ -1217,12 +1203,11 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [narrator] (1)
 
-#### Getting started with Gradle
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-gradle?u=76281980)
+#### [Getting started with Gradle](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-gradle?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-gradle?u=76281980&t=0)** - [Instructor] One of the most popular build tools used with Java is Gradle.
+> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-gradle?u=76281980&t=0)** - [Instructor] One of the most popular build tools used with [[Java]] is [[Gradle]].
 >
 > **[0:04](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-gradle?u=76281980&t=4)** I find the best way to get started with Gradle is to just dive right in.
 >
@@ -1232,9 +1217,9 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-gradle?u=76281980&t=20)** Here we'll find the instructions to install Gradle on several different operating systems.
 >
-> **[0:25](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-gradle?u=76281980&t=25)** If you are installing Gradle on Windows, you would select the link to install manually and then follow those instructions.
+> **[0:25](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-gradle?u=76281980&t=25)** If you are installing Gradle on [[Windows]], you would select the link to install manually and then follow those instructions.
 >
-> **[0:32](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-gradle?u=76281980&t=32)** But since our lab is using Linux, we can click on the option to install with a package manager.
+> **[0:32](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-gradle?u=76281980&t=32)** But since our lab is using [[Linux]], we can click on the option to install with a package manager.
 >
 > **[0:39](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-gradle?u=76281980&t=39)** You'll notice that within the instructions, it recommends installing Gradle using SDKMAN!.
 >
@@ -1302,13 +1287,13 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-gradle?u=76281980&t=214)** A DSL is a domain specific language which, in this case, is a small language built specifically for using Gradle.
 >
-> **[3:42](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-gradle?u=76281980&t=222)** Gradle has a DSL for both Groovy and Kotlin.
+> **[3:42](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-gradle?u=76281980&t=222)** Gradle has a DSL for both Groovy and [[Kotlin]].
 >
 > **[3:46](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-gradle?u=76281980&t=226)** Let's go ahead and we'll use the Groovy DSL for our project, so I'll select option one.
 >
 > **[3:52](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-gradle?u=76281980&t=232)** Next, it's going to ask us to identify our testing framework.
 >
-> **[3:56](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-gradle?u=76281980&t=236)** I'm going to use JUnit Jupiter, which is option four.
+> **[3:56](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-gradle?u=76281980&t=236)** I'm going to use [[JUnit]] Jupiter, which is option four.
 >
 > **[4:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-gradle?u=76281980&t=240)** Then it will need the name of our project.
 >
@@ -1316,7 +1301,7 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-gradle?u=76281980&t=249)** Finally, it's going to ask us the package name where our source code will be placed.
 >
-> **[4:15](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-gradle?u=76281980&t=255)** For that, I'm going to use com.linkedin.javacd.
+> **[4:15](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-gradle?u=76281980&t=255)** For that, I'm going to use com.[[LinkedIn]].javacd.
 >
 > **[4:20](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-gradle?u=76281980&t=260)** Once I've entered that value, I'll hit enter, and Gradle builds out our new project.
 >
@@ -1338,7 +1323,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gradle]] (27), [[Java]] (3), hit (3), [[Linux]] (2), next (2)
+> **Frameworks & Libraries:** [[Gradle]] (27), [[Java]] (3), [[Linux]] (2), [[Windows]] (1), [[Kotlin]] (1)
 > **Env Vars:** sdkman (6), dsl (4)
 > **Prerequisites:** install (8), set up (1)
 > **UI Navigation:** click on (3), select the (3), in the menu (1)
@@ -1347,12 +1332,11 @@ created: 2026-05-02
 > **CLI Commands:** find (3)
 > **Definitions:** is a  (3)
 
-#### Gradle build structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/gradle-build-structure?u=76281980)
+#### [Gradle build structure](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/gradle-build-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/gradle-build-structure?u=76281980&t=0)** - Let's take a closer look at the structure and key files within our new Gradle build.
+> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/gradle-build-structure?u=76281980&t=0)** - Let's take a closer look at the structure and key files within our new [[Gradle]] build.
 >
 > **[0:08](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/gradle-build-structure?u=76281980&t=8)** When we configured our build with Gradle's init plugin, it created a multi-project build, and here we can see its layout.
 >
@@ -1388,7 +1372,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/gradle-build-structure?u=76281980&t=126)** For now, let's return to our project and take a closer look at the structure of our app sub project.
 >
-> **[2:13](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/gradle-build-structure?u=76281980&t=133)** The Gradle Java plugins define a default structure for where the different source files are located within this directory.
+> **[2:13](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/gradle-build-structure?u=76281980&t=133)** The Gradle [[Java]] plugins define a default structure for where the different source files are located within this directory.
 >
 > **[2:21](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/gradle-build-structure?u=76281980&t=141)** They expect us to place the source code and configuration files for the application and its tests within the source directory.
 >
@@ -1406,7 +1390,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gradle]] (11), [[Java]] (3), application (3), next (1)
+> **Frameworks & Libraries:** [[Gradle]] (11), [[Java]] (3)
 > **Exercise Files:** source code (4)
 > **CLI Commands:** find (2)
 > **Env Vars:** dsl (1)
@@ -1414,12 +1398,11 @@ created: 2026-05-02
 > **Best Practices:** it's best to (1)
 > **Speakers:** - let (1)
 
-#### Gradle Wrapper
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/gradle-wrapper?u=76281980)
+#### [Gradle Wrapper](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/gradle-wrapper?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/gradle-wrapper?u=76281980&t=0)** - When executing builds with Gradle, there are two options to choose from.
+> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/gradle-wrapper?u=76281980&t=0)** - When executing builds with [[Gradle]], there are two options to choose from.
 >
 > **[0:05](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/gradle-wrapper?u=76281980&t=5)** One option is to use the Gradle build command, like we've already seen.
 >
@@ -1433,7 +1416,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/gradle-wrapper?u=76281980&t=34)** You can see the script for the Gradle Wrapper here, right within the root of our project.
 >
-> **[0:39](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/gradle-wrapper?u=76281980&t=39)** There's also a batch script, if you're working with windows.
+> **[0:39](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/gradle-wrapper?u=76281980&t=39)** There's also a batch script, if you're working with [[Windows]].
 >
 > **[0:43](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/gradle-wrapper?u=76281980&t=43)** These scripts were placed inside the project by default, when we created it with the Gradle in it task.
 >
@@ -1479,7 +1462,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/gradle-wrapper?u=76281980&t=172)** So here you can see that report.
 >
-> **[2:54](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/gradle-wrapper?u=76281980&t=174)** It's within the index study HTML file.
+> **[2:54](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/gradle-wrapper?u=76281980&t=174)** It's within the index study [[HTML]] file.
 >
 > **[2:57](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/gradle-wrapper?u=76281980&t=177)** I'm going to go ahead and that up on Firefox.
 >
@@ -1525,7 +1508,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gradle]] (22), application (4), [[Windows]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Gradle]] (22), [[Windows]] (1), [[HTML]] (1)
 > **Tools:** firefox (1), terminal (1)
 > **Exercise Files:** source code (2)
 > **Definitions:** is a  (2)
@@ -1534,12 +1517,11 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Prerequisites:** install (1)
 
-#### Gradle tasks and plug-ins
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/gradle-tasks-and-plug-ins?u=76281980)
+#### [Gradle tasks and plug-ins](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/gradle-tasks-and-plug-ins?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/gradle-tasks-and-plug-ins?u=76281980&t=0)** - [Instructor] Now that we've explored the structure of a Gradle project and the Gradle wrapper, let's focus on the build script.
+> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/gradle-tasks-and-plug-ins?u=76281980&t=0)** - [Instructor] Now that we've explored the structure of a [[Gradle]] project and the Gradle wrapper, let's focus on the build script.
 >
 > **[0:08](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/gradle-tasks-and-plug-ins?u=76281980&t=8)** To help us with that, I'm going to import our project into Eclipse.
 >
@@ -1559,7 +1541,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/gradle-tasks-and-plug-ins?u=76281980&t=56)** Most tasks come from plugins that we include within the build script, like the application plugin that you see here.
 >
-> **[1:04](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/gradle-tasks-and-plug-ins?u=76281980&t=64)** By default, this plugin adds the Java plugin into the build, which provides tasks that help with things like compilation, testing, and packaging of our Java application.
+> **[1:04](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/gradle-tasks-and-plug-ins?u=76281980&t=64)** By default, this plugin adds the [[Java]] plugin into the build, which provides tasks that help with things like compilation, testing, and packaging of our Java application.
 >
 > **[1:15](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/gradle-tasks-and-plug-ins?u=76281980&t=75)** This functionality comes right out of the box with the plugin, so it's kind of hard to see all of the tasks just by looking at our build script.
 >
@@ -1633,7 +1615,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gradle]] (15), application (5), [[Java]] (5), hit (2), next (1)
+> **Frameworks & Libraries:** [[Gradle]] (15), [[Java]] (5)
 > **UI Navigation:** go to (1), navigate to (1), click on (1), scroll up (1), scroll down (1)
 > **CLI Commands:** find (4)
 > **Tools:** terminal (3)
@@ -1642,12 +1624,11 @@ created: 2026-05-02
 > **Env Vars:** dsl (1)
 > **Cross-References:** we talked about (1)
 
-#### Gradle task graph
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/gradle-task-graph?u=76281980)
+#### [Gradle task graph](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/gradle-task-graph?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/gradle-task-graph?u=76281980&t=0)** - [Instructor] There's a little bit more that you need to understand about how the tasks in a Gradle build work.
+> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/gradle-task-graph?u=76281980&t=0)** - [Instructor] There's a little bit more that you need to understand about how the tasks in a [[Gradle]] build work.
 >
 > **[0:06](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/gradle-task-graph?u=76281980&t=6)** I'll use our new task info plugin to help explain it.
 >
@@ -1693,7 +1674,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/gradle-task-graph?u=76281980&t=140)** Inside of this action, I'm going to go ahead and print out some console output.
 >
-> **[2:26](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/gradle-task-graph?u=76281980&t=146)** Here, I'll just say hello LinkedIn learning.
+> **[2:26](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/gradle-task-graph?u=76281980&t=146)** Here, I'll just say hello [[LinkedIn]] learning.
 >
 > **[2:30](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/gradle-task-graph?u=76281980&t=150)** Then I'm going to go ahead and copy this action and then I'll just paste it right below the first one.
 >
@@ -1727,21 +1708,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gradle]] (8), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[Gradle]] (8), [[LinkedIn]] (1)
 > **Tools:** terminal (3)
 > **Definitions:** known as (1), is a  (1)
 > **File Paths:** build.gradle (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing dependencies with Gradle
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/managing-dependencies-with-gradle?u=76281980)
+#### [Managing dependencies with Gradle](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/managing-dependencies-with-gradle?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/managing-dependencies-with-gradle?u=76281980&t=0)** - [Tutor] Modern Java applications are frequently developed with the help of third-party libraries like the Spring Framework or Hibernate.
+> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/managing-dependencies-with-gradle?u=76281980&t=0)** - [Tutor] Modern [[Java]] applications are frequently developed with the help of third-party libraries like the [[Spring Framework]] or Hibernate.
 >
-> **[0:08](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/managing-dependencies-with-gradle?u=76281980&t=8)** Build tools like Gradle provide dependency management features that can help us include these libraries and their dependencies within our projects.
+> **[0:08](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/managing-dependencies-with-gradle?u=76281980&t=8)** Build tools like [[Gradle]] provide [[Dependency Management]] features that can help us include these libraries and their dependencies within our projects.
 >
 > **[0:18](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/managing-dependencies-with-gradle?u=76281980&t=18)** If we scroll down inside of our build script, you'll notice that we already have a few dependencies declared within the dependencies section of the build.
 >
@@ -1753,7 +1733,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/managing-dependencies-with-gradle?u=76281980&t=49)** This indicates that Guava is a compile time and a runtime dependency for our project.
 >
-> **[0:55](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/managing-dependencies-with-gradle?u=76281980&t=55)** On the other hand, you'll notice that the Junit dependency is declared with a scope of test implementation.
+> **[0:55](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/managing-dependencies-with-gradle?u=76281980&t=55)** On the other hand, you'll notice that the [[JUnit]] dependency is declared with a scope of test implementation.
 >
 > **[1:02](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/managing-dependencies-with-gradle?u=76281980&t=62)** This tells Gradle that it's only used for compiling and running the source code for the project's test.
 >
@@ -1826,12 +1806,11 @@ created: 2026-05-02
 > **Exercise Files:** source code (1)
 > **Definitions:** is a  (1)
 
-#### Building Spring Boot applications with Gradle
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-spring-boot-applications-with-gradle?u=76281980)
+#### [Building Spring Boot applications with Gradle](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-spring-boot-applications-with-gradle?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-spring-boot-applications-with-gradle?u=76281980&t=0)** - [Instructor] Now that we've covered some of the main concepts behind Gradle, let's use it to build the room service project in our land and hotel application.
+> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-spring-boot-applications-with-gradle?u=76281980&t=0)** - [Instructor] Now that we've covered some of the main concepts behind [[Gradle]], let's use it to build the room service project in our land and hotel application.
 >
 > **[0:10](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-spring-boot-applications-with-gradle?u=76281980&t=10)** We currently have the source code for the project, but it's not set up to build with a tool like Gradle.
 >
@@ -1843,7 +1822,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-spring-boot-applications-with-gradle?u=76281980&t=34)** So I'm going to indicate that we'll be using Gradle to build our project.
 >
-> **[0:39](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-spring-boot-applications-with-gradle?u=76281980&t=39)** And then I'm going to provide a group ID of com.linkedin.javacd.
+> **[0:39](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-spring-boot-applications-with-gradle?u=76281980&t=39)** And then I'm going to provide a group ID of com.[[LinkedIn]].javacd.
 >
 > **[0:45](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-spring-boot-applications-with-gradle?u=76281980&t=45)** Next, for the artifact ID, I'm going to type room-service, and then I'm going to go down here and adjust the package name to remove the room service suffix, so it will just be com.linkedin.javacd.
 >
@@ -1853,7 +1832,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-spring-boot-applications-with-gradle?u=76281980&t=73)** We'll also need the actuator, which will provide us some metrics about our project.
 >
-> **[1:19](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-spring-boot-applications-with-gradle?u=76281980&t=79)** And then we can include Spring Data JPA.
+> **[1:19](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-spring-boot-applications-with-gradle?u=76281980&t=79)** And then we can include [[Spring Data]] JPA.
 >
 > **[1:22](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-spring-boot-applications-with-gradle?u=76281980&t=82)** And then finally, the H2 embedded database.
 >
@@ -1881,11 +1860,11 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-spring-boot-applications-with-gradle?u=76281980&t=164)** You'll notice that the build script includes a few plugins.
 >
-> **[2:48](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-spring-boot-applications-with-gradle?u=76281980&t=168)** The first is the spring boot plugin, which will provide some tasks for packaging our spring application.
+> **[2:48](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-spring-boot-applications-with-gradle?u=76281980&t=168)** The first is the [[Spring Boot]] plugin, which will provide some tasks for packaging our spring application.
 >
-> **[2:55](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-spring-boot-applications-with-gradle?u=76281980&t=175)** The dependency management plugin will help us get the right versions of our library so we can keep them all aligned.
+> **[2:55](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-spring-boot-applications-with-gradle?u=76281980&t=175)** The [[Dependency Management]] plugin will help us get the right versions of our library so we can keep them all aligned.
 >
-> **[3:02](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-spring-boot-applications-with-gradle?u=76281980&t=182)** And then finally, the Java plugin is going to help us with things like compiling our source code for the project.
+> **[3:02](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-spring-boot-applications-with-gradle?u=76281980&t=182)** And then finally, the [[Java]] plugin is going to help us with things like compiling our source code for the project.
 >
 > **[3:10](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-spring-boot-applications-with-gradle?u=76281980&t=190)** Within the dependency section, you'll also notice that some starter dependencies were added that aligned to those we entered on the Spring Initializer.
 >
@@ -1937,7 +1916,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gradle]] (9), application (7), [[Java]] (4), web (3), next (3)
+> **Frameworks & Libraries:** [[Gradle]] (9), [[Java]] (4), [[Spring Boot]] (3), [[LinkedIn]] (2), [[Spring Data]] (1)
 > **UI Navigation:** click on (3), navigate to (1), scroll up (1)
 > **Exercise Files:** source code (2), zip file (2), exercise files (1)
 > **File Paths:** build.gradle (1)
@@ -1951,12 +1930,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting started with Maven
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-maven?u=76281980)
+#### [Getting started with Maven](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-maven?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-maven?u=76281980&t=0)** - [Instructor] Cradle isn't the only choice for building Java applications.
+> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-maven?u=76281980&t=0)** - [Instructor] Cradle isn't the only choice for building [[Java]] applications.
 >
 > **[0:04](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-maven?u=76281980&t=4)** Many Java developers prefer to use Maven instead.
 >
@@ -1964,11 +1942,11 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-maven?u=76281980&t=15)** So let's take a closer look at Maven.
 >
-> **[0:19](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-maven?u=76281980&t=19)** Ubuntu makes it very simple to install Maven on a Linux workstation through the package manager.
+> **[0:19](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-maven?u=76281980&t=19)** [[Ubuntu]] makes it very simple to install Maven on a [[Linux]] workstation through the package manager.
 >
 > **[0:26](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-maven?u=76281980&t=26)** Just type the command sudo apt install, then Maven.
 >
-> **[0:31](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-maven?u=76281980&t=31)** Now, if this were a Maven installation on windows, we would need to follow the instructions at the link below.
+> **[0:31](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-maven?u=76281980&t=31)** Now, if this were a Maven installation on [[Windows]], we would need to follow the instructions at the link below.
 >
 > **[0:38](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-maven?u=76281980&t=38)** Once we execute the command, it will begin to download and install Maven on our workstations.
 >
@@ -1996,7 +1974,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-maven?u=76281980&t=96)** The first thing we'll need to specify is the group ID.
 >
-> **[1:39](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-maven?u=76281980&t=99)** So I'm going to use com.linkedin.javacd.
+> **[1:39](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-maven?u=76281980&t=99)** So I'm going to use com.[[LinkedIn]].javacd.
 >
 > **[1:43](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-maven?u=76281980&t=103)** Then for the artifact ID, I'm just going to call our project "Playground," and we'll leave the version as is.
 >
@@ -2014,7 +1992,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-maven?u=76281980&t=152)** Directories like src/main/java, src/main/resources, src/test/java, and so on.
 >
-> **[2:38](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-maven?u=76281980&t=158)** We saw these in Gradle, and actually this is something Gradle borrowed from Maven.
+> **[2:38](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-maven?u=76281980&t=158)** We saw these in [[Gradle]], and actually this is something Gradle borrowed from Maven.
 >
 > **[2:45](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-maven?u=76281980&t=165)** By default, Maven defines these directories as the conventional locations where it expects to find things like our tests or our source code or different configuration files.
 >
@@ -2032,7 +2010,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-maven?u=76281980&t=210)** So in the future, if you are using Maven four, the installation we're about to walk through wouldn't be necessary.
 >
-> **[3:35](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-maven?u=76281980&t=215)** Here's the github page for that plugin.
+> **[3:35](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-maven?u=76281980&t=215)** Here's the [[GitHub]] page for that plugin.
 >
 > **[3:38](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-maven?u=76281980&t=218)** If we scroll down on it, we'll find the command that we can use to install the wrapper within our Maven project.
 >
@@ -2068,7 +2046,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (4), [[Gradle]] (3), hit (2), next (2), [[Ubuntu]] (1)
+> **Frameworks & Libraries:** [[Java]] (4), [[Gradle]] (3), [[Ubuntu]] (1), [[Linux]] (1), [[Windows]] (1)
 > **CLI Commands:** find (4), mvn (2), sudo (1), apt (1), make (1)
 > **Prerequisites:** install (5)
 > **Tools:** terminal (2), github (1)
@@ -2077,14 +2055,13 @@ created: 2026-05-02
 > **Versions:** 3.6.3 (1)
 > **Exercise Files:** source code (1)
 
-#### Maven Java configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/maven-java-configuration?u=76281980)
+#### [Maven Java configuration](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/maven-java-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/maven-java-configuration?u=76281980&t=0)** - If we take a closer look at our Maven project, you'll notice one big problem.
 >
-> **[0:05](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/maven-java-configuration?u=76281980&t=5)** By default, the project is configured to use Java five.
+> **[0:05](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/maven-java-configuration?u=76281980&t=5)** By default, the project is configured to use [[Java]] five.
 >
 > **[0:09](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/maven-java-configuration?u=76281980&t=9)** That's not what I'd recommend for a modern Java application.
 >
@@ -2114,7 +2091,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/maven-java-configuration?u=76281980&t=98)** That change is a little bit harder because we'll need to adjust one of the plugins within our Palm.
 >
-> **[1:44](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/maven-java-configuration?u=76281980&t=104)** Like Gradle, Maven also uses plugins.
+> **[1:44](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/maven-java-configuration?u=76281980&t=104)** Like [[Gradle]], Maven also uses plugins.
 >
 > **[1:47](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/maven-java-configuration?u=76281980&t=107)** Some of them like the compiler or the jar plugin are included in a project by default.
 >
@@ -2168,7 +2145,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (12), hit (2), application (1), [[Gradle]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Java]] (12), [[Gradle]] (1)
 > **Versions:** java 11 (5), version 3 (3), 1.8 (2), java 1 (1), 3.5 (1)
 > **UI Navigation:** click on (3), go to (2), switch to (1)
 > **Env Vars:** xml (4)
@@ -2177,8 +2154,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - if (1)
 
-#### Maven plug-ins
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/maven-plug-ins?u=76281980)
+#### [Maven plug-ins](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/maven-plug-ins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2190,11 +2166,11 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/maven-plug-ins?u=76281980&t=19)** It scans our application for known security vulnerabilities when we execute a build.
 >
-> **[0:25](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/maven-plug-ins?u=76281980&t=25)** Here on Maven central, which is the repository where Maven will fetch the plugin from, you can see information about the plugin.
+> **[0:25](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/maven-plug-ins?u=76281980&t=25)** Here on Maven central, which is the repository where Maven will [[Fetch]] the plugin from, you can see information about the plugin.
 >
 > **[0:34](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/maven-plug-ins?u=76281980&t=34)** Now, when we use a third party plugin, typically we'll need to do a little bit of research about how to use it.
 >
-> **[0:40](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/maven-plug-ins?u=76281980&t=40)** So let's navigate to the source code for the plugin on GitHub.
+> **[0:40](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/maven-plug-ins?u=76281980&t=40)** So let's navigate to the source code for the plugin on [[GitHub]].
 >
 > **[0:45](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/maven-plug-ins?u=76281980&t=45)** Inside of the source code, we'll find the read me file.
 >
@@ -2224,7 +2200,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/maven-plug-ins?u=76281980&t=113)** All we need to do is pass it the plugin flag and then provide the name of our plugin.
 >
-> **[1:59](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/maven-plug-ins?u=76281980&t=119)** So first I'll write the group ID or .owasp and then I'll need to provide the name of the plugin, dependency-check-maven.
+> **[1:59](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/maven-plug-ins?u=76281980&t=119)** So first I'll write the group ID or .[[OWASP]] and then I'll need to provide the name of the plugin, dependency-check-maven.
 >
 > **[2:11](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/maven-plug-ins?u=76281980&t=131)** All right, let's go ahead and we'll execute this command and there we can see that information about the Dependency Check plugin has been provided.
 >
@@ -2232,7 +2208,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/maven-plug-ins?u=76281980&t=145)** A goal is like an action the plugin can perform.
 >
-> **[2:28](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/maven-plug-ins?u=76281980&t=148)** It's very similar to a task in Gradle.
+> **[2:28](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/maven-plug-ins?u=76281980&t=148)** It's very similar to a task in [[Gradle]].
 >
 > **[2:31](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/maven-plug-ins?u=76281980&t=151)** In my mind, I think of it like a method on a class.
 >
@@ -2270,7 +2246,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), [[GitHub]] (2), application (1), [[Fetch]] (1), [[OWASP]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (2), [[Fetch]] (1), [[OWASP]] (1), [[Gradle]] (1)
 > **Tools:** github (2), terminal (1), command line (1), firefox (1)
 > **UI Navigation:** navigate to (1), scroll down (1), open the (1)
 > **Exercise Files:** source code (2)
@@ -2279,8 +2255,7 @@ created: 2026-05-02
 > **Env Vars:** xml (1)
 > **Documentation:** the documentation (1)
 
-#### Maven life cycle and phases
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/maven-life-cycle-and-phases?u=76281980)
+#### [Maven life cycle and phases](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/maven-life-cycle-and-phases?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2386,18 +2361,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), application (1)
 > **Definitions:** known as (2), is a  (1)
 > **Analogies:** imagine (1), just like (1)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - [tutor] (1)
 
-#### Adding dependencies with Maven
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/adding-dependencies-with-maven?u=76281980)
+#### [Adding dependencies with Maven](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/adding-dependencies-with-maven?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/adding-dependencies-with-maven?u=76281980&t=0)** - [Instructor] The dependency management system is one of Mavens, most powerful features.
+> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/adding-dependencies-with-maven?u=76281980&t=0)** - [Instructor] The [[Dependency Management]] system is one of Mavens, most powerful features.
 >
 > **[0:05](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/adding-dependencies-with-maven?u=76281980&t=5)** By default, it pulls dependencies from Maven Central.
 >
@@ -2445,7 +2418,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/adding-dependencies-with-maven?u=76281980&t=120)** Let's go ahead and we'll create a class that uses some of the code found within Apache Commons.
 >
-> **[2:07](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/adding-dependencies-with-maven?u=76281980&t=127)** So here in the new class dialogue, I'm going to package the class within the com.linkedin.JavaCD package.
+> **[2:07](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/adding-dependencies-with-maven?u=76281980&t=127)** So here in the new class dialogue, I'm going to package the class within the com.[[LinkedIn]].JavaCD package.
 >
 > **[2:17](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/adding-dependencies-with-maven?u=76281980&t=137)** And then I'll just keep it simple and name it application.
 >
@@ -2489,21 +2462,20 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/adding-dependencies-with-maven?u=76281980&t=233)** However, just packaging our code in a regular jar made running an application very tricky because we needed all of this to handle the classpath.
 >
-> **[4:03](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/adding-dependencies-with-maven?u=76281980&t=243)** Spring Boot can help us by packaging those application dependencies inside of an executable jar.
+> **[4:03](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/adding-dependencies-with-maven?u=76281980&t=243)** [[Spring Boot]] can help us by packaging those application dependencies inside of an executable jar.
 >
 > **[4:10](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/adding-dependencies-with-maven?u=76281980&t=250)** Let's move on to our next lesson and I'll show you how with Maven.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), [[Dependency Management]] (2), [[LinkedIn]] (1), [[Spring Boot]] (1), next (1)
+> **Frameworks & Libraries:** [[Dependency Management]] (2), [[LinkedIn]] (1), [[Spring Boot]] (1)
 > **Env Vars:** xml (4), url (1)
 > **Prerequisites:** you'll need (3), set up (1), configure (1)
 > **CLI Commands:** apache (4)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building Spring Boot applications with Maven
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-spring-boot-applications-with-maven?u=76281980)
+#### [Building Spring Boot applications with Maven](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-spring-boot-applications-with-maven?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2513,7 +2485,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-spring-boot-applications-with-maven?u=76281980&t=20)** Let's use the Spring Initializer to get those things in place.
 >
-> **[0:25](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-spring-boot-applications-with-maven?u=76281980&t=25)** So, on the Maven Initializer, I'm going to indicate that we're using a Maven project, then we'll need to provide a package name, which will once again, become .linkedin.javacd.
+> **[0:25](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-spring-boot-applications-with-maven?u=76281980&t=25)** So, on the Maven Initializer, I'm going to indicate that we're using a Maven project, then we'll need to provide a package name, which will once again, become .[[LinkedIn]].javacd.
 >
 > **[0:37](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-spring-boot-applications-with-maven?u=76281980&t=37)** Then for the name of the artifact, I'm going to use guest dash service.
 >
@@ -2521,7 +2493,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-spring-boot-applications-with-maven?u=76281980&t=48)** Okay, now let's go ahead, we'll add the dependencies in.
 >
-> **[0:52](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-spring-boot-applications-with-maven?u=76281980&t=52)** We need Spring Web, we also need Spring Data JPA.
+> **[0:52](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-spring-boot-applications-with-maven?u=76281980&t=52)** We need Spring Web, we also need [[Spring Data]] JPA.
 >
 > **[0:57](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-spring-boot-applications-with-maven?u=76281980&t=57)** Then we're going to include the actuator and then finally H2.
 >
@@ -2533,7 +2505,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-spring-boot-applications-with-maven?u=76281980&t=82)** Then I'm going to take that over to our exercise files directory and I'm going to overlay our existing guest service folder.
 >
-> **[1:30](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-spring-boot-applications-with-maven?u=76281980&t=90)** So, here I'll merge so that we get the new files, then I'll overwrite our Git ignore file, and then I'll skip overriding the source since we already have it.
+> **[1:30](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-spring-boot-applications-with-maven?u=76281980&t=90)** So, here I'll merge so that we get the new files, then I'll overwrite our [[Git]] ignore file, and then I'll skip overriding the source since we already have it.
 >
 > **[1:41](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-spring-boot-applications-with-maven?u=76281980&t=101)** Okay, let's head to the terminal and we can see what's within that directory.
 >
@@ -2545,7 +2517,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-spring-boot-applications-with-maven?u=76281980&t=117)** If you look closely at this POM, you'll recall that it's very similar to what we saw earlier in the course.
 >
-> **[2:04](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-spring-boot-applications-with-maven?u=76281980&t=124)** There's the Spring Boot Starter parent POM, there's some of the Starter dependencies we talked about for quickly getting up and running with Spring projects.
+> **[2:04](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-spring-boot-applications-with-maven?u=76281980&t=124)** There's the [[Spring Boot]] Starter parent POM, there's some of the Starter dependencies we talked about for quickly getting up and running with Spring projects.
 >
 > **[2:13](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-spring-boot-applications-with-maven?u=76281980&t=133)** And here at the bottom you'll see the Spring Boot Maven plugin.
 >
@@ -2567,7 +2539,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-spring-boot-applications-with-maven?u=76281980&t=197)** I'm going to go ahead and I'll navigate into the target directory.
 >
-> **[3:21](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-spring-boot-applications-with-maven?u=76281980&t=201)** And from here, we're going to launch our executable jar using plain old Java.
+> **[3:21](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-spring-boot-applications-with-maven?u=76281980&t=201)** And from here, we're going to launch our executable jar using plain old [[Java]].
 >
 > **[3:26](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-spring-boot-applications-with-maven?u=76281980&t=206)** So I'll use the Java jar command, then I'll add the profile for Spring.
 >
@@ -2589,15 +2561,15 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-spring-boot-applications-with-maven?u=76281980&t=261)** This time we use Maven.
 >
-> **[4:23](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-spring-boot-applications-with-maven?u=76281980&t=263)** So, at this point we should probably standardize on a single build tool for all the microservices within our application.
+> **[4:23](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-spring-boot-applications-with-maven?u=76281980&t=263)** So, at this point we should probably standardize on a single build tool for all the [[Microservices]] within our application.
 >
-> **[4:31](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-spring-boot-applications-with-maven?u=76281980&t=271)** So, let's go forward using Maven throughout the rest of the course.
+> **[4:31](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-spring-boot-applications-with-maven?u=76281980&t=271)** So, let's go forward using Maven throughout the [[Representational State Transfer (REST)|rest]] of the course.
 >
-> **[4:35](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-spring-boot-applications-with-maven?u=76281980&t=275)** If you would like go back and try to switch over the room service from Gradle to Maven, or you can just pick up with the exercise files in our next lesson.
+> **[4:35](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-spring-boot-applications-with-maven?u=76281980&t=275)** If you would like go back and try to switch over the room service from [[Gradle]] to Maven, or you can just pick up with the exercise files in our next lesson.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), [[Spring Boot]] (3), [[Java]] (2), [[LinkedIn]] (1), web (1)
+> **Frameworks & Libraries:** [[Spring Boot]] (3), [[Java]] (2), [[LinkedIn]] (1), [[Spring Data]] (1), [[Git]] (1)
 > **Env Vars:** pom (4), jpa (1), api (1)
 > **Exercise Files:** zip file (2), exercise files (2), source code (1)
 > **CLI Commands:** find (1), git (1)
@@ -2611,14 +2583,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuous integration overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-integration-overview?u=76281980)
+#### [Continuous integration overview](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-integration-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-integration-overview?u=76281980&t=0)** - [Instructor] Continuous integration or CI, helps teams increase the quality of their code and keeps their code base in a working state that's always deployable.
+> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-integration-overview?u=76281980&t=0)** - [Instructor] [[Continuous Integration (CI)|Continuous integration]] or CI, helps teams increase the quality of their code and keeps their code base in a working state that's always deployable.
 >
-> **[0:10](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-integration-overview?u=76281980&t=10)** Within our continuous delivery process, the CI phase is triggered each time code is merged into the repository.
+> **[0:10](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-integration-overview?u=76281980&t=10)** Within our [[Continuous Delivery (CD)|continuous delivery]] process, the CI phase is triggered each time code is merged into the repository.
 >
 > **[0:18](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-integration-overview?u=76281980&t=18)** For teams experienced with the practice, this might occur many times per day or several times each hour.
 >
@@ -2630,11 +2601,11 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-integration-overview?u=76281980&t=39)** The continuous integration process is often modeled as a separate pipeline that has the goal of producing an artifact.
 >
-> **[0:48](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-integration-overview?u=76281980&t=48)** For modern Java applications, this is a container image that gets stored within a registry where it can be retrieved for deployment.
+> **[0:48](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-integration-overview?u=76281980&t=48)** For modern [[Java]] applications, this is a container image that gets stored within a registry where it can be retrieved for deployment.
 >
 > **[0:57](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-integration-overview?u=76281980&t=57)** The CI pipeline is executed by a platform known as a continuous integration server, but sometimes you'll hear it referred to as a build server or an automation server.
 >
-> **[1:07](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-integration-overview?u=76281980&t=67)** In our course, we'll be using Jenkins.
+> **[1:07](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-integration-overview?u=76281980&t=67)** In our course, we'll be using [[Jenkins]].
 >
 > **[1:10](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-integration-overview?u=76281980&t=70)** It automates and orchestrates the execution of a pipeline script that declares the tasks necessary to build, verify, and package our software.
 >
@@ -2654,7 +2625,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-integration-overview?u=76281980&t=126)** Since the build occurs on a neutral server, it can detect any problems that might not appear on a local workstation.
 >
-> **[2:13](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-integration-overview?u=76281980&t=133)** So if you forget to check a file into Git, it's going to break your build.
+> **[2:13](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-integration-overview?u=76281980&t=133)** So if you forget to check a file into [[Git]], it's going to break your build.
 >
 > **[2:18](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-integration-overview?u=76281980&t=138)** After the code is built, automated tests are executed against the binaries to ensure they function as expected.
 >
@@ -2670,18 +2641,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ci (6), [[Continuous Integration (CI)|Continuous integration]] (3), teams (3), [[Automation]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (1)
+> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (3), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Java]] (1), [[Jenkins]] (1), [[Git]] (1)
 > **CLI Commands:** find (2), git (1)
 > **Definitions:** is a  (1), known as (1)
 > **Exercise Files:** source code (1)
 > **Speakers:** - [instructor] (1)
 
-#### Getting started with Jenkins
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-jenkins?u=76281980)
+#### [Getting started with Jenkins](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-jenkins?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-jenkins?u=76281980&t=0)** - [Narrator] Within the lab environment, there's a Jenkins server that we can use to automate the continuous integration process for our microservices.
+> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-jenkins?u=76281980&t=0)** - [Narrator] Within the lab environment, there's a [[Jenkins]] server that we can use to automate the [[Continuous Integration (CI)|continuous integration]] process for our [[Microservices]].
 >
 > **[0:09](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-jenkins?u=76281980&t=9)** To access Jenkins, click this link on the bookmarks bar.
 >
@@ -2713,9 +2683,9 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-jenkins?u=76281980&t=83)** This plugin allows us to script Jenkins builds as code inside of a Jenkins file.
 >
-> **[1:29](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-jenkins?u=76281980&t=89)** This is an alternative to building out Jenkins jobs, using the forms on the user interface.
+> **[1:29](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-jenkins?u=76281980&t=89)** This is an alternative to building out Jenkins jobs, using the [[Forms]] on the user interface.
 >
-> **[1:37](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-jenkins?u=76281980&t=97)** Next we're going to scroll up and I'll highlight the GitHub Branch Source plugin.
+> **[1:37](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-jenkins?u=76281980&t=97)** Next we're going to scroll up and I'll highlight the [[GitHub]] Branch Source plugin.
 >
 > **[1:43](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-jenkins?u=76281980&t=103)** This is a plugin that we'll use heavily throughout the course.
 >
@@ -2739,7 +2709,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-jenkins?u=76281980&t=168)** One is going to be for our GitHub Personal Access Token and the other for our SSH key.
 >
-> **[2:56](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-jenkins?u=76281980&t=176)** When setting up our personal access token, the first thing we'll need to do is provide our GitHub username, and then we'll need to fetch our personal access token.
+> **[2:56](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-jenkins?u=76281980&t=176)** When setting up our personal access token, the first thing we'll need to do is provide our GitHub username, and then we'll need to [[Fetch]] our personal access token.
 >
 > **[3:06](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-jenkins?u=76281980&t=186)** You'll recall that earlier in the course, I placed mine within a PAT file in my home directory.
 >
@@ -2783,7 +2753,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (21), [[GitHub]] (11), hit (2), next (2), [[Continuous Integration (CI)|Continuous integration]] (1)
+> **Frameworks & Libraries:** [[Jenkins]] (21), [[GitHub]] (11), [[Continuous Integration (CI)|Continuous integration]] (1), [[Microservices]] (1), [[Forms]] (1)
 > **Tools:** github (11), terminal (1)
 > **CLI Commands:** ssh (5), docker (2), make (2), find (2)
 > **UI Navigation:** click on (4), navigate to (1), scroll down (1), scroll up (1)
@@ -2792,12 +2762,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1), is a  (1)
 > **Prerequisites:** set up (2)
 
-#### Creating a Jenkins pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/creating-a-jenkins-pipeline?u=76281980)
+#### [Creating a Jenkins pipeline](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/creating-a-jenkins-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/creating-a-jenkins-pipeline?u=76281980&t=0)** - [Instructor] Let's start building our first Jenkins pipeline.
+> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/creating-a-jenkins-pipeline?u=76281980&t=0)** - [Instructor] Let's start building our first [[Jenkins]] pipeline.
 >
 > **[0:04](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/creating-a-jenkins-pipeline?u=76281980&t=4)** We'll create it within the room service project, which you'll notice I've switched over to use Maven.
 >
@@ -2861,7 +2830,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (20), node (4), hit (2), generic (1), next (1)
+> **Frameworks & Libraries:** [[Jenkins]] (20)
 > **CLI Commands:** node (4), make (2), docker (2), find (1)
 > **UI Navigation:** click on (5), go to (1)
 > **Env Vars:** dsl (1)
@@ -2869,12 +2838,11 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Pipeline stages
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/pipeline-stages?u=76281980)
+#### [Pipeline stages](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/pipeline-stages?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/pipeline-stages?u=76281980&t=0)** - [Instructor] Within our Jenkins pipeline, we'll need to define the different stages and steps that will execute the CI process.
+> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/pipeline-stages?u=76281980&t=0)** - [Instructor] Within our [[Jenkins]] pipeline, we'll need to define the different stages and steps that will execute the CI process.
 >
 > **[0:07](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/pipeline-stages?u=76281980&t=7)** This starts by adding a stages block inside the pipeline section of the script.
 >
@@ -2928,14 +2896,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), ci (3), [[Jenkins]] (1), generic (1), next (1)
+> **Frameworks & Libraries:** [[Jenkins]] (1)
 > **Code Identifiers:** withmaven (1)
 > **Exercise Files:** source code (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Environment variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/environment-variables?u=76281980)
+#### [Environment variables](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/environment-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2947,13 +2914,13 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/environment-variables?u=76281980&t=13)** Here we can define and assign variables that are accessible by all the pipeline stages.
 >
-> **[0:19](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/environment-variables?u=76281980&t=19)** So let's start out by creating a variable that will store our GitHub organization name.
+> **[0:19](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/environment-variables?u=76281980&t=19)** So let's start out by creating a variable that will store our [[GitHub]] organization name.
 >
 > **[0:25](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/environment-variables?u=76281980&t=25)** We first declare the variable name, and then we assign it a value.
 >
 > **[0:29](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/environment-variables?u=76281980&t=29)** I'm going to use single quotes for our first variable.
 >
-> **[0:32](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/environment-variables?u=76281980&t=32)** This is like creating a string literal in Java.
+> **[0:32](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/environment-variables?u=76281980&t=32)** This is like creating a string literal in [[Java]].
 >
 > **[0:35](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/environment-variables?u=76281980&t=35)** So inside of the single quotes, I'm just going to type the name of my GitHub organization.
 >
@@ -2977,7 +2944,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/environment-variables?u=76281980&t=108)** Now let's create another variable that will store the artifactId from our POM.xml file.
 >
-> **[1:56](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/environment-variables?u=76281980&t=116)** Within Jenkins we can use a pipeline utility step to retrieve that information from the POM.
+> **[1:56](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/environment-variables?u=76281980&t=116)** Within [[Jenkins]] we can use a pipeline utility step to retrieve that information from the POM.
 >
 > **[2:02](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/environment-variables?u=76281980&t=122)** So here we'll just say, "read Maven POM", and then we'll invoke the getArtifactId method on that utility method.
 >
@@ -3025,11 +2992,11 @@ created: 2026-05-02
 >
 > **[4:26](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/environment-variables?u=76281980&t=266)** Okay, so now we're making use of these variables inside our pipeline stages, and this helps us avoid hard coding values that we might need for each specific microservice.
 >
-> **[4:37](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/environment-variables?u=76281980&t=277)** And that's going to make our pipeline generic enough that we can reuse it across multiple microservices in our application.
+> **[4:37](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/environment-variables?u=76281980&t=277)** And that's going to make our pipeline generic enough that we can reuse it across multiple [[Microservices]] in our application.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (4), [[Jenkins]] (3), application (2), [[Java]] (1), next (1)
+> **Frameworks & Libraries:** [[GitHub]] (4), [[Jenkins]] (3), [[Java]] (1), [[Microservices]] (1)
 > **Code Identifiers:** artifactid (6), getartifactid (1)
 > **Env Vars:** pom (4), jar (3)
 > **Tools:** github (4)
@@ -3038,18 +3005,17 @@ created: 2026-05-02
 > **URLs:** [ghcr.io](https://ghcr.io) (1)
 > **Documentation:** the documentation (1)
 
-#### Jenkins projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/jenkins-projects?u=76281980)
+#### [Jenkins projects](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/jenkins-projects?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/jenkins-projects?u=76281980&t=0)** - [Instructor] Now that we have a basic pipeline script, let's see how it gets executed within Jenkins.
+> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/jenkins-projects?u=76281980&t=0)** - [Instructor] Now that we have a basic pipeline script, let's see how it gets executed within [[Jenkins]].
 >
-> **[0:07](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/jenkins-projects?u=76281980&t=7)** In Jenkins, we have the option to create a GitHub organization project thanks to the Branch Source plugin that we talked about earlier.
+> **[0:07](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/jenkins-projects?u=76281980&t=7)** In Jenkins, we have the option to create a [[GitHub]] organization project thanks to the Branch Source plugin that we talked about earlier.
 >
 > **[0:16](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/jenkins-projects?u=76281980&t=16)** This project type will scan the repositories in our GitHub organization and create a new pipeline job for each branch within the repository where it finds a Jenkins file.
 >
-> **[0:28](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/jenkins-projects?u=76281980&t=28)** It's a perfect fit for when your microservices are stored in a poly repo, but there's a bit of configuration first.
+> **[0:28](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/jenkins-projects?u=76281980&t=28)** It's a perfect fit for when your [[Microservices]] are stored in a poly repo, but there's a bit of configuration first.
 >
 > **[0:34](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/jenkins-projects?u=76281980&t=34)** So let's go put that in place.
 >
@@ -3163,11 +3129,11 @@ created: 2026-05-02
 >
 > **[6:08](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/jenkins-projects?u=76281980&t=368)** And then, finally, the output from the stage that publishes the container image.
 >
-> **[6:14](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/jenkins-projects?u=76281980&t=374)** Excellent, so we executed our first pipeline, but we will need to do some more work to actually build the application as part of our continuous integration process, and to get those containers built and published.
+> **[6:14](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/jenkins-projects?u=76281980&t=374)** Excellent, so we executed our first pipeline, but we will need to do some more work to actually build the application as part of our [[Continuous Integration (CI)|continuous integration]] process, and to get those containers built and published.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (18), [[Jenkins]] (11), application (3), [[Microservices]] (2), api (2)
+> **Frameworks & Libraries:** [[GitHub]] (18), [[Jenkins]] (11), [[Microservices]] (2), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **Tools:** github (18), terminal (1)
 > **UI Navigation:** click on (9), scroll down (4)
 > **Prerequisites:** set up (3), configure (2)
@@ -3176,28 +3142,27 @@ created: 2026-05-02
 > **URLs:** [https://api.github.com](https://api.github.com) (1)
 > **Env Vars:** api (1)
 
-#### Maven builds in Jenkins
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/maven-builds-in-jenkins?u=76281980)
+#### [Maven builds in Jenkins](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/maven-builds-in-jenkins?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/maven-builds-in-jenkins?u=76281980&t=0)** - [Instructor] One of the best practices for continuous integration is to build your software on a neutral server.
+> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/maven-builds-in-jenkins?u=76281980&t=0)** - [Instructor] One of the best practices for [[Continuous Integration (CI)|continuous integration]] is to build your software on a neutral server.
 >
 > **[0:07](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/maven-builds-in-jenkins?u=76281980&t=7)** So we're going to update our Jenkinsfile to include a Maven build, kind of like what we did on our local workstation, except this time it's going to be automated, and performed on a cleaned server.
 >
-> **[0:20](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/maven-builds-in-jenkins?u=76281980&t=20)** To build our Java application with Maven inside of our Pipeline, we're going to add a new step into the Build Application stage.
+> **[0:20](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/maven-builds-in-jenkins?u=76281980&t=20)** To build our [[Java]] application with Maven inside of our Pipeline, we're going to add a new step into the Build Application stage.
 >
 > **[0:28](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/maven-builds-in-jenkins?u=76281980&t=28)** So inside the steps block, I'm going to add a new shell step, and here I'll use the Maven Wrapper to execute the clean and verify phases of the Maven lifecycle.
 >
 > **[0:40](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/maven-builds-in-jenkins?u=76281980&t=40)** Now, you might be asking, where did the Maven Wrapper come from?
 >
-> **[0:44](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/maven-builds-in-jenkins?u=76281980&t=44)** Well, when Jenkins executes a Pipeline, it pulls all the source code from the repository containing the Jenkinsfile.
+> **[0:44](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/maven-builds-in-jenkins?u=76281980&t=44)** Well, when [[Jenkins]] executes a Pipeline, it pulls all the source code from the repository containing the Jenkinsfile.
 >
 > **[0:53](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/maven-builds-in-jenkins?u=76281980&t=53)** And you'll remember that we added the Maven Wrapper to our room-service project.
 >
 > **[0:58](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/maven-builds-in-jenkins?u=76281980&t=58)** So that makes it available to our Pipeline to execute Maven commands.
 >
-> **[1:04](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/maven-builds-in-jenkins?u=76281980&t=64)** Now, the next thing we'll do, we'll make our Pipeline generic enough so we can reuse it across different microservices.
+> **[1:04](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/maven-builds-in-jenkins?u=76281980&t=64)** Now, the next thing we'll do, we'll make our Pipeline generic enough so we can reuse it across different [[Microservices]].
 >
 > **[1:12](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/maven-builds-in-jenkins?u=76281980&t=72)** The change starts in the pom.xml file.
 >
@@ -3261,7 +3226,7 @@ created: 2026-05-02
 >
 > **[4:11](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/maven-builds-in-jenkins?u=76281980&t=251)** Now, (indistinct) Lab already has Docker, so we're set up there.
 >
-> **[4:15](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/maven-builds-in-jenkins?u=76281980&t=255)** Okay, let's go ahead, we'll save all of our changes, then we'll head over to the terminal, and we can start to push these over to GitHub.
+> **[4:15](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/maven-builds-in-jenkins?u=76281980&t=255)** Okay, let's go ahead, we'll save all of our changes, then we'll head over to the terminal, and we can start to push these over to [[GitHub]].
 >
 > **[4:25](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/maven-builds-in-jenkins?u=76281980&t=265)** So first, I'll add the changes to the stage, then we'll go ahead and we'll create a new commit, here, I'll say adding Maven and Docker, and then we'll push these changes over to GitHub, to trigger Jenkins to start executing our Pipeline.
 >
@@ -3287,7 +3252,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[Jenkins]] (3), [[GitHub]] (2), [[Continuous Integration (CI)|Continuous integration]] (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Jenkins]] (3), [[GitHub]] (2), [[Continuous Integration (CI)|Continuous integration]] (1), [[Java]] (1), [[Microservices]] (1)
 > **CLI Commands:** docker (11), make (1), node (1)
 > **Tools:** github (2), terminal (1)
 > **UI Navigation:** scroll down (1), go to (1), scroll up (1)
@@ -3296,12 +3261,11 @@ created: 2026-05-02
 > **File Paths:** pom.xml (1)
 > **Ports:** :11 (1)
 
-#### Containers
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/containers?u=76281980)
+#### [Containers](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/containers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/containers?u=76281980&t=0)** - [Instructor] Packaging modern Java applications within containers has become a popular practice because it's a consistent and portable way to run your software.
+> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/containers?u=76281980&t=0)** - [Instructor] Packaging modern [[Java]] applications within containers has become a popular practice because it's a consistent and portable way to run your software.
 >
 > **[0:10](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/containers?u=76281980&t=10)** Let's take a closer look at containers and how they impact the way we build and run modern Java applications.
 >
@@ -3337,7 +3301,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/containers?u=76281980&t=123)** The first is Docker, which includes build kit for building our container images and container D as the runtime that will run the image as a container.
 >
-> **[2:13](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/containers?u=76281980&t=133)** The next platform we'll use is GitHub Packages.
+> **[2:13](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/containers?u=76281980&t=133)** The next platform we'll use is [[GitHub]] Packages.
 >
 > **[2:16](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/containers?u=76281980&t=136)** It's a container registry within GitHub where we'll store the container images that we build.
 >
@@ -3351,7 +3315,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), [[Java]] (4), [[GitHub]] (4), next (2), ci (1)
+> **Frameworks & Libraries:** [[Java]] (4), [[GitHub]] (4)
 > **Tools:** github (4)
 > **CLI Commands:** make (1), docker (1)
 > **Env Vars:** jvm (1)
@@ -3359,14 +3323,13 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a Dockerfile
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/creating-a-dockerfile?u=76281980)
+#### [Creating a Dockerfile](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/creating-a-dockerfile?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/creating-a-dockerfile?u=76281980&t=0)** - [Instructor] To package our application within a container that runs on Docker, we'll first need to create a Docker file.
 >
-> **[0:07](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/creating-a-dockerfile?u=76281980&t=7)** A Docker file contains all of the commands necessary to assemble the container image that we'll package our Java application into.
+> **[0:07](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/creating-a-dockerfile?u=76281980&t=7)** A Docker file contains all of the commands necessary to assemble the container image that we'll package our [[Java]] application into.
 >
 > **[0:15](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/creating-a-dockerfile?u=76281980&t=15)** Within Eclipse, we can begin to create the file by right clicking on our project, going to new, and then coming down here to file.
 >
@@ -3426,11 +3389,11 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/creating-a-dockerfile?u=76281980&t=174)** And then the file we want to launch is app.jar.
 >
-> **[3:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/creating-a-dockerfile?u=76281980&t=180)** Okay, that's everything we need for the Docker file, which will be used to build our container image that runs our microservices.
+> **[3:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/creating-a-dockerfile?u=76281980&t=180)** Okay, that's everything we need for the Docker file, which will be used to build our container image that runs our [[Microservices]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), [[Java]] (3), next (2), traffic (2), hit (1)
+> **Frameworks & Libraries:** [[Java]] (3), [[Microservices]] (1)
 > **CLI Commands:** docker (11), make (2)
 > **Env Vars:** jdk (2), jar_file (2), tcp (1)
 > **Ports:** port 8080 (2)
@@ -3439,8 +3402,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building container images in Jenkins
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-container-images-in-jenkins?u=76281980)
+#### [Building container images in Jenkins](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-container-images-in-jenkins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3476,7 +3438,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-container-images-in-jenkins?u=76281980&t=84)** Yep, right there it is.
 >
-> **[1:28](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-container-images-in-jenkins?u=76281980&t=88)** Now that we know our container image builds, let's update our Pipeline so we can build the container image using Jenkins.
+> **[1:28](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-container-images-in-jenkins?u=76281980&t=88)** Now that we know our container image builds, let's update our Pipeline so we can build the container image using [[Jenkins]].
 >
 > **[1:36](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/building-container-images-in-jenkins?u=76281980&t=96)** So I'm going to go ahead and start out by copying the command that we use to build the container.
 >
@@ -3516,17 +3478,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (2), application (1), next (1)
+> **Frameworks & Libraries:** [[Jenkins]] (2)
 > **CLI Commands:** docker (6), make (3), find (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [tutor] (1)
 
-#### Publishing container images to GitHub packages
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/publishing-container-images-to-github-packages?u=76281980)
+#### [Publishing container images to GitHub packages](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/publishing-container-images-to-github-packages?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/publishing-container-images-to-github-packages?u=76281980&t=0)** - [Instructor] The final step in our continuous integration pipeline, we'll publish the container image to the organization's container registry on GitHub.
+> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/publishing-container-images-to-github-packages?u=76281980&t=0)** - [Instructor] The final step in our [[Continuous Integration (CI)|continuous integration]] pipeline, we'll publish the container image to the organization's container registry on [[GitHub]].
 >
 > **[0:10](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/publishing-container-images-to-github-packages?u=76281980&t=10)** To get started, we'll need to add another environment variable into our pipeline.
 >
@@ -3554,7 +3515,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/publishing-container-images-to-github-packages?u=76281980&t=94)** The second parameter that's required are the credentials that we'll use to authenticate with the container registry.
 >
-> **[1:41](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/publishing-container-images-to-github-packages?u=76281980&t=101)** Now you'll recall that earlier in the course, we created a Jenkins credential named github-pat, that stored our personal access token.
+> **[1:41](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/publishing-container-images-to-github-packages?u=76281980&t=101)** Now you'll recall that earlier in the course, we created a [[Jenkins]] credential named github-pat, that stored our personal access token.
 >
 > **[1:52](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/publishing-container-images-to-github-packages?u=76281980&t=112)** We're going to provide that here.
 >
@@ -3598,11 +3559,11 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/publishing-container-images-to-github-packages?u=76281980&t=219)** So that wraps things up for the continuous integration phase of our delivery process.
 >
-> **[3:44](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/publishing-container-images-to-github-packages?u=76281980&t=224)** We're going to move on now to the next chapter where we'll take a look at continuous delivery and continuous deployment.
+> **[3:44](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/publishing-container-images-to-github-packages?u=76281980&t=224)** We're going to move on now to the next chapter where we'll take a look at [[Continuous Delivery (CD)|continuous delivery]] and continuous deployment.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (5), [[Jenkins]] (4), [[Continuous Integration (CI)|Continuous integration]] (2), next (1), [[Continuous Delivery (CD)|Continuous delivery]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (5), [[Jenkins]] (4), [[Continuous Integration (CI)|Continuous integration]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (1)
 > **CLI Commands:** docker (6)
 > **Tools:** github (5), terminal (1)
 > **Env Vars:** url (3)
@@ -3616,12 +3577,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuous delivery overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-delivery-overview?u=76281980)
+#### [Continuous delivery overview](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-delivery-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-delivery-overview?u=76281980&t=0)** - [Instructor] Continuous delivery and continuous deployment are the last pieces of the end-to-end delivery process.
+> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-delivery-overview?u=76281980&t=0)** - [Instructor] [[Continuous Delivery (CD)|Continuous delivery]] and continuous deployment are the last pieces of the end-to-end delivery process.
 >
 > **[0:07](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-delivery-overview?u=76281980&t=7)** At a basic level, these are a set of automated steps that takes packaged software from an artifact repository, deploys it for testing, and then releases it to the environment where it runs live for end-users to access.
 >
@@ -3635,7 +3595,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-delivery-overview?u=76281980&t=52)** The technology stack will also heavily influence the tools and steps within a CD pipeline.
 >
-> **[0:58](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-delivery-overview?u=76281980&t=58)** For modern Java applications like ours, our pipeline will leverage specialized tools for working with Kubernetes.
+> **[0:58](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-delivery-overview?u=76281980&t=58)** For modern [[Java]] applications like ours, our pipeline will leverage specialized tools for working with [[Kubernetes]].
 >
 > **[1:06](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-delivery-overview?u=76281980&t=66)** That's the platform where we'll run our containers.
 >
@@ -3645,7 +3605,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-delivery-overview?u=76281980&t=87)** Once triggered, the CD pipeline will automatically deploy the container image into a non-production environment, which in our case is a Kubernetes cluster.
 >
-> **[1:37](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-delivery-overview?u=76281980&t=97)** To automate deployments into both the non-production and production environments, we'll be using two tools, Argo CD and Customize.
+> **[1:37](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-delivery-overview?u=76281980&t=97)** To automate deployments into both the non-production and production environments, we'll be using two tools, [[Argo CD]] and Customize.
 >
 > **[1:46](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-delivery-overview?u=76281980&t=106)** Once the container is running in the non-production environment, additional tests can be ran against the deployed container.
 >
@@ -3671,11 +3631,11 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-delivery-overview?u=76281980&t=178)** However, they can get much more complex.
 >
-> **[3:01](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-delivery-overview?u=76281980&t=181)** For our purposes, we'll keep it simple by sticking to a pipeline that uses Jenkins, Customize, Argo CD, and a little bit of Bash.
+> **[3:01](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-delivery-overview?u=76281980&t=181)** For our purposes, we'll keep it simple by sticking to a pipeline that uses [[Jenkins]], Customize, Argo CD, and a little bit of Bash.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Continuous Delivery (CD)|Continuous delivery]] (5), cd (4), next (2), [[Kubernetes]] (2), [[Argo CD]] (2)
+> **Frameworks & Libraries:** [[Continuous Delivery (CD)|Continuous delivery]] (5), [[Kubernetes]] (2), [[Argo CD]] (2), [[Java]] (1), [[Jenkins]] (1)
 > **CLI Commands:** cd (6)
 > **Cross-References:** later in (1)
 > **Tools:** bash (1)
@@ -3683,14 +3643,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Container orchestration
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/container-orchestration?u=76281980)
+#### [Container orchestration](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/container-orchestration?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/container-orchestration?u=76281980&t=0)** - [Instructor] Large organizations may run hundreds or even thousands of containers.
 >
-> **[0:06](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/container-orchestration?u=76281980&t=6)** This is a scale that's impossible to manage without the help of a container orchestration platform like Kubernetes.
+> **[0:06](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/container-orchestration?u=76281980&t=6)** This is a scale that's impossible to manage without the help of a container orchestration platform like [[Kubernetes]].
 >
 > **[0:14](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/container-orchestration?u=76281980&t=14)** A container orchestration platform manages a group of hosts known as nodes that form a cluster.
 >
@@ -3724,29 +3683,28 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/container-orchestration?u=76281980&t=127)** Just think of the manifest as a configuration file that describes a resource that we want to run on the cluster.
 >
-> **[2:15](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/container-orchestration?u=76281980&t=135)** Managing these YAML resource definitions can become quite the task when you consider how many microservices an application might have, and then add on top of that, the different environments you might want to deploy to.
+> **[2:15](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/container-orchestration?u=76281980&t=135)** Managing these YAML resource definitions can become quite the task when you consider how many [[Microservices]] an application might have, and then add on top of that, the different environments you might want to deploy to.
 >
 > **[2:28](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/container-orchestration?u=76281980&t=148)** In our next lesson, I'll show you how Kustomize can help us manage this complexity.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (7), application (3), api (3), [[Orchestration]] (2), node (2)
+> **Frameworks & Libraries:** [[Kubernetes]] (7), [[Microservices]] (1)
 > **Env Vars:** api (3), yaml (2), ctl (1)
 > **Definitions:** known as (3), is a  (1)
 > **CLI Commands:** node (2)
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing Kubernetes resources with Kustomize
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/managing-kubernetes-resources-with-kustomize?u=76281980)
+#### [Managing Kubernetes resources with Kustomize](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/managing-kubernetes-resources-with-kustomize?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/managing-kubernetes-resources-with-kustomize?u=76281980&t=0)** - We'll be using Kustomize to manage the YAML configuration files for the Kubernetes resources in our application.
+> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/managing-kubernetes-resources-with-kustomize?u=76281980&t=0)** - We'll be using Kustomize to manage the YAML configuration files for the [[Kubernetes]] resources in our application.
 >
 > **[0:08](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/managing-kubernetes-resources-with-kustomize?u=76281980&t=8)** Those manifests are located inside the deploy project within our exercise files.
 >
-> **[0:14](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/managing-kubernetes-resources-with-kustomize?u=76281980&t=14)** These files are also stored in the deploy repository over on GitHub.
+> **[0:14](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/managing-kubernetes-resources-with-kustomize?u=76281980&t=14)** These files are also stored in the deploy repository over on [[GitHub]].
 >
 > **[0:19](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/managing-kubernetes-resources-with-kustomize?u=76281980&t=19)** Let's open up this directory inside a terminal to explore Kustomize.
 >
@@ -3754,7 +3712,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/managing-kubernetes-resources-with-kustomize?u=76281980&t=35)** For example, in this manifest, which defines Ingress routes that direct traffic coming into the cluster, we need to use different values for the host property for staging and production.
 >
-> **[0:48](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/managing-kubernetes-resources-with-kustomize?u=76281980&t=48)** The staging cluster we'll use staging.landon.[linkedin.io](https://linkedin.io), and the production cluster, we'll use the value that we see here, landon.[linkedin.io](https://linkedin.io).
+> **[0:48](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/managing-kubernetes-resources-with-kustomize?u=76281980&t=48)** The staging cluster we'll use staging.landon.[[[LinkedIn]].io](https://linkedin.io), and the production cluster, we'll use the value that we see here, landon.[linkedin.io](https://linkedin.io).
 >
 > **[0:59](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/managing-kubernetes-resources-with-kustomize?u=76281980&t=59)** Kustomize allows us to use the same YAML configuration files for these environments.
 >
@@ -3824,17 +3782,17 @@ created: 2026-05-02
 >
 > **[4:50](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/managing-kubernetes-resources-with-kustomize?u=76281980&t=290)** Now let's go ahead and we'll use Kustomize to build our base.
 >
-> **[4:55](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/managing-kubernetes-resources-with-kustomize?u=76281980&t=295)** If we take a look at the generated YAML, you'll notice that our container image has been updated to 22 for our room service deployment.
+> **[4:55](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/managing-kubernetes-resources-with-kustomize?u=76281980&t=295)** If we take a look at the generated YAML, you'll notice that our container image has been updated to 22 for our room [[Service Deployment]].
 >
 > **[5:05](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/managing-kubernetes-resources-with-kustomize?u=76281980&t=305)** It's much easier to manage all these resource configuration files for our different environments using Kustomize.
 >
-> **[5:13](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/managing-kubernetes-resources-with-kustomize?u=76281980&t=313)** And as an added bonus, Argo CD works with it right out of the box.
+> **[5:13](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/managing-kubernetes-resources-with-kustomize?u=76281980&t=313)** And as an added bonus, [[Argo CD]] works with it right out of the box.
 >
 > **[5:18](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/managing-kubernetes-resources-with-kustomize?u=76281980&t=318)** We'll be using it as part of our CD pipeline to help manage the container images that are defined within our YAML configuration files for each cluster.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Kubernetes]] (2), application (2), [[GitHub]] (1), traffic (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Kubernetes]] (2), [[GitHub]] (1), [[Service Deployment]] (1), [[Argo CD]] (1)
 > **CLI Commands:** find (2), make (2), cd (2)
 > **File Paths:** kustomization.yaml (4), app-ingress.yaml (1)
 > **Env Vars:** yaml (5)
@@ -3843,16 +3801,15 @@ created: 2026-05-02
 > **Tools:** github (1), terminal (1)
 > **Exercise Files:** exercise files (1)
 
-#### Creating a CD pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/creating-a-cd-pipeline?u=76281980)
+#### [Creating a CD pipeline](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/creating-a-cd-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/creating-a-cd-pipeline?u=76281980&t=0)** - [Narrator] To deploy the correct versions of our microservices onto our Kubernetes cluster.
+> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/creating-a-cd-pipeline?u=76281980&t=0)** - [Narrator] To deploy the correct versions of our [[Microservices]] onto our [[Kubernetes]] cluster.
 >
 > **[0:05](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/creating-a-cd-pipeline?u=76281980&t=5)** We'll need to update our resource manifests with the latest container images built by the CI pipeline.
 >
-> **[0:12](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/creating-a-cd-pipeline?u=76281980&t=12)** To automate this, we'll use another Jenkins pipeline that's found within the deploy project, inside the exercise files for this lesson.
+> **[0:12](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/creating-a-cd-pipeline?u=76281980&t=12)** To automate this, we'll use another [[Jenkins]] pipeline that's found within the deploy project, inside the exercise files for this lesson.
 >
 > **[0:22](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/creating-a-cd-pipeline?u=76281980&t=22)** This pipeline will be shared by each of the microservices inside of our application and used to deploy them.
 >
@@ -3876,7 +3833,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/creating-a-cd-pipeline?u=76281980&t=83)** These parameters are used to update the manifests with the latest container image.
 >
-> **[1:29](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/creating-a-cd-pipeline?u=76281980&t=89)** The parameters received by the pipeline include, the GitHub organization name, the image name, and its version.
+> **[1:29](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/creating-a-cd-pipeline?u=76281980&t=89)** The parameters received by the pipeline include, the [[GitHub]] organization name, the image name, and its version.
 >
 > **[1:36](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/creating-a-cd-pipeline?u=76281980&t=96)** These are all provided by the jobs that trigger the pipeline.
 >
@@ -3888,7 +3845,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/creating-a-cd-pipeline?u=76281980&t=125)** The first step in the stage uses the get plugin to pull the main branch from the deploy repository where all of our manifests are found.
 >
-> **[2:15](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/creating-a-cd-pipeline?u=76281980&t=135)** The git plugin requires us to provide the URL of the deploy repository and an SSH key that's used to authenticate with GitHub when all the files are pulled from the repo.
+> **[2:15](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/creating-a-cd-pipeline?u=76281980&t=135)** The [[Git]] plugin requires us to provide the URL of the deploy repository and an SSH key that's used to authenticate with GitHub when all the files are pulled from the repo.
 >
 > **[2:29](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/creating-a-cd-pipeline?u=76281980&t=149)** After we've pulled the manifests from the repository, we then configure git to identify the pipeline as the committer.
 >
@@ -3944,7 +3901,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (8), ci (4), [[Jenkins]] (3), [[Microservices]] (2), next (2)
+> **Frameworks & Libraries:** [[GitHub]] (8), [[Jenkins]] (3), [[Microservices]] (2), [[Git]] (2), [[Kubernetes]] (1)
 > **Tools:** github (8), terminal (1)
 > **Env Vars:** ssh (4), url (3)
 > **CLI Commands:** ssh (4), git (2)
@@ -3953,12 +3910,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [narrator] (1)
 
-#### Triggering the CD pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/triggering-the-cd-pipeline?u=76281980)
+#### [Triggering the CD pipeline](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/triggering-the-cd-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/triggering-the-cd-pipeline?u=76281980&t=0)** - [Instructor] After the continuous integration pipeline creates a new container image, we'll need to trigger our CD pipeline so that it can update our Kubernetes manifest with the new container image.
+> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/triggering-the-cd-pipeline?u=76281980&t=0)** - [Instructor] After the [[Continuous Integration (CI)|continuous integration]] pipeline creates a new container image, we'll need to trigger our CD pipeline so that it can update our [[Kubernetes]] manifest with the new container image.
 >
 > **[0:11](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/triggering-the-cd-pipeline?u=76281980&t=11)** To do this, we'll add another stage at the end of our CI pipeline.
 >
@@ -3976,7 +3932,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/triggering-the-cd-pipeline?u=76281980&t=54)** You'll notice the parameters are passed as an array.
 >
-> **[0:59](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/triggering-the-cd-pipeline?u=76281980&t=59)** The easiest way to find the name of the job you'd like to execute is to just go into Jenkins itself.
+> **[0:59](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/triggering-the-cd-pipeline?u=76281980&t=59)** The easiest way to find the name of the job you'd like to execute is to just go into [[Jenkins]] itself.
 >
 > **[1:06](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/triggering-the-cd-pipeline?u=76281980&t=66)** So here on the page for our deployment pipeline, you can find the name of the job right here.
 >
@@ -3996,7 +3952,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/triggering-the-cd-pipeline?u=76281980&t=117)** Okay, so now we have the parameters we're going to provide, but we need to add a value property.
 >
-> **[2:03](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/triggering-the-cd-pipeline?u=76281980&t=123)** So here I'll go ahead and add that property, and then for the first property we'll add a placeholder to our GitHub org environment variable.
+> **[2:03](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/triggering-the-cd-pipeline?u=76281980&t=123)** So here I'll go ahead and add that property, and then for the first property we'll add a placeholder to our [[GitHub]] org environment variable.
 >
 > **[2:13](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/triggering-the-cd-pipeline?u=76281980&t=133)** Now let's go ahead and we'll copy this syntax and we'll paste it in for each of the other parameters.
 >
@@ -4040,7 +3996,7 @@ created: 2026-05-02
 >
 > **[4:26](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/triggering-the-cd-pipeline?u=76281980&t=266)** And if we navigate to the deploy pipeline, we can watch as they trigger it.
 >
-> **[4:32](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/triggering-the-cd-pipeline?u=76281980&t=272)** There you can see the continuous integration pipelines running for several of the microservices.
+> **[4:32](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/triggering-the-cd-pipeline?u=76281980&t=272)** There you can see the continuous integration pipelines running for several of the [[Microservices]].
 >
 > **[4:38](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/triggering-the-cd-pipeline?u=76281980&t=278)** Let's head into our main folder and here we'll start to see the CD pipeline get triggered.
 >
@@ -4064,7 +4020,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (6), cd (4), [[Continuous Integration (CI)|Continuous integration]] (2), ci (2), [[Jenkins]] (2)
+> **Frameworks & Libraries:** [[GitHub]] (6), [[Continuous Integration (CI)|Continuous integration]] (2), [[Jenkins]] (2), [[Microservices]] (2), [[Kubernetes]] (1)
 > **CLI Commands:** cd (4), find (2), make (1)
 > **Tools:** github (6), terminal (1)
 > **UI Navigation:** open the (1), select the (1), navigate to (1)
@@ -4073,18 +4029,17 @@ created: 2026-05-02
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Automated deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/automated-deployment?u=76281980)
+#### [Automated deployment](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/automated-deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/automated-deployment?u=76281980&t=0)** - [Narrator] To automate deployments to our Kubernetes cluster, we're going to use Argo CD.
+> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/automated-deployment?u=76281980&t=0)** - [Narrator] To automate deployments to our [[Kubernetes]] cluster, we're going to use [[Argo CD]].
 >
 > **[0:05](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/automated-deployment?u=76281980&t=5)** It's a continuous deployment tool built for Kubernetes that uses a GitOps approach.
 >
 > **[0:11](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/automated-deployment?u=76281980&t=11)** To perform deployments, Argo CD places a controller inside the cluster.
 >
-> **[0:16](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/automated-deployment?u=76281980&t=16)** The controller continuously monitors a set of Kubernetes manifests stored inside of a Git repository.
+> **[0:16](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/automated-deployment?u=76281980&t=16)** The controller continuously monitors a set of Kubernetes manifests stored inside of a [[Git]] repository.
 >
 > **[0:24](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/automated-deployment?u=76281980&t=24)** So, in a manifest, inside of Git, we might identify a container image that contains our microservice inside the specification for a pod.
 >
@@ -4100,7 +4055,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/automated-deployment?u=76281980&t=73)** One for staging and one for production.
 >
-> **[1:17](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/automated-deployment?u=76281980&t=77)** We'll configure Argo CD to monitor the deploy repository that was created earlier in the course when we established our GitHub organization.
+> **[1:17](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/automated-deployment?u=76281980&t=77)** We'll configure Argo CD to monitor the deploy repository that was created earlier in the course when we established our [[GitHub]] organization.
 >
 > **[1:26](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/automated-deployment?u=76281980&t=86)** During the setup for Argo CD, we'll configure it to monitor specific Git branches and the respect of customize overlay for each cluster.
 >
@@ -4116,9 +4071,9 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/automated-deployment?u=76281980&t=134)** Either way, Argo CD will detect the changes and release them to the production cluster.
 >
-> **[2:20](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/automated-deployment?u=76281980&t=140)** As you've probably noticed, running microservices within containers introduces quite a bit of complexity into our continuous delivery process.
+> **[2:20](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/automated-deployment?u=76281980&t=140)** As you've probably noticed, running [[Microservices]] within containers introduces quite a bit of complexity into our [[Continuous Delivery (CD)|continuous delivery]] process.
 >
-> **[2:28](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/automated-deployment?u=76281980&t=148)** There certainly a lot of work upfront, but once you've established your pipeline, it significantly increases the velocity at which you can deliver changes to your modern Java applications.
+> **[2:28](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/automated-deployment?u=76281980&t=148)** There certainly a lot of work upfront, but once you've established your pipeline, it significantly increases the velocity at which you can deliver changes to your modern [[Java]] applications.
 
 > [!info]- Semantic Content
 >
@@ -4130,12 +4085,11 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **Speakers:** - [narrator] (1)
 
-#### Configuring Kubernetes security
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/configuring-kubernetes-security?u=76281980)
+#### [Configuring Kubernetes security](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/configuring-kubernetes-security?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/configuring-kubernetes-security?u=76281980&t=0)** - [Instructor] To automate the deployment of our microservices on the Kubernetes cluster, we'll need to set up the security configuration that allows the cluster to pull images from the container registry.
+> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/configuring-kubernetes-security?u=76281980&t=0)** - [Instructor] To automate the deployment of our [[Microservices]] on the [[Kubernetes]] cluster, we'll need to set up the security configuration that allows the cluster to pull images from the container registry.
 >
 > **[0:12](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/configuring-kubernetes-security?u=76281980&t=12)** To see how this works, let's take a closer look at one of our deployments.
 >
@@ -4143,7 +4097,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/configuring-kubernetes-security?u=76281980&t=21)** It indicates the container image that will run inside of our pod.
 >
-> **[0:25](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/configuring-kubernetes-security?u=76281980&t=25)** And you'll notice that the container image is found on the GitHub Container registry.
+> **[0:25](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/configuring-kubernetes-security?u=76281980&t=25)** And you'll notice that the container image is found on the [[GitHub]] Container registry.
 >
 > **[0:30](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/configuring-kubernetes-security?u=76281980&t=30)** So in order for the cluster to pull that image, it will need to authenticate with GitHub.
 >
@@ -4199,7 +4153,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (4), [[Security]] (2), [[Microservices]] (1), [[Kubernetes]] (1), next (1)
+> **Frameworks & Libraries:** [[GitHub]] (4), [[Microservices]] (1), [[Kubernetes]] (1)
 > **CLI Commands:** kubectl (4), docker (1)
 > **Tools:** github (4), terminal (1)
 > **Prerequisites:** set up (3)
@@ -4207,12 +4161,11 @@ created: 2026-05-02
 > **Documentation:** spec (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deploying microservices with Argo CD
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/deploying-microservices-with-argo-cd?u=76281980)
+#### [Deploying microservices with Argo CD](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/deploying-microservices-with-argo-cd?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/deploying-microservices-with-argo-cd?u=76281980&t=0)** - [Instructor] Inside of our lab, ArgoCD is already running on our staging and production clusters.
+> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/deploying-microservices-with-argo-cd?u=76281980&t=0)** - [Instructor] Inside of our lab, [[Argo CD|ArgoCD]] is already running on our staging and production clusters.
 >
 > **[0:06](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/deploying-microservices-with-argo-cd?u=76281980&t=6)** However, there's a little bit of configuration we'll need to do in order to get Argo to deploy our application on those clusters.
 >
@@ -4238,7 +4191,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/deploying-microservices-with-argo-cd?u=76281980&t=67)** And then here we'll need to provide a link to the repository that holds our manifest.
 >
-> **[1:13](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/deploying-microservices-with-argo-cd?u=76281980&t=73)** So let's head over to GitHub into our deploy repository.
+> **[1:13](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/deploying-microservices-with-argo-cd?u=76281980&t=73)** So let's head over to [[GitHub]] into our deploy repository.
 >
 > **[1:17](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/deploying-microservices-with-argo-cd?u=76281980&t=77)** And here I'm going to go ahead and copy the SSH URL to the repo.
 >
@@ -4272,7 +4225,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/deploying-microservices-with-argo-cd?u=76281980&t=154)** And then we'll need to configure the sync policy.
 >
-> **[2:37](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/deploying-microservices-with-argo-cd?u=76281980&t=157)** So I'm going to select automatic here, and this will allow ArgoCD to automatically apply the configuration that it reads from our Git repository on the cluster.
+> **[2:37](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/deploying-microservices-with-argo-cd?u=76281980&t=157)** So I'm going to select automatic here, and this will allow ArgoCD to automatically apply the configuration that it reads from our [[Git]] repository on the cluster.
 >
 > **[2:48](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/deploying-microservices-with-argo-cd?u=76281980&t=168)** If we selected manual, we'd have to click a button for it to sync.
 >
@@ -4344,7 +4297,7 @@ created: 2026-05-02
 >
 > **[5:30](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/deploying-microservices-with-argo-cd?u=76281980&t=330)** And then we'll go back to GitHub and we can create that branch.
 >
-> **[5:34](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/deploying-microservices-with-argo-cd?u=76281980&t=334)** All we need to do is click on this dropdown and then type the word release.
+> **[5:34](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/deploying-microservices-with-argo-cd?u=76281980&t=334)** All we need to do is click on this dropdown and then type the [[Microsoft Word|word]] release.
 >
 > **[5:41](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/deploying-microservices-with-argo-cd?u=76281980&t=341)** And then we can click on this option to create the release branch.
 >
@@ -4384,7 +4337,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Argo CD|Argocd]] (17), application (8), [[Git]] (3), [[GitHub]] (2), hit (2)
+> **Frameworks & Libraries:** [[Argo CD|Argocd]] (17), [[Git]] (3), [[GitHub]] (2), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** click on (9), select the (6), scroll down (5), dropdown (1)
 > **Env Vars:** ssh (4), url (4)
 > **CLI Commands:** ssh (4), git (3)
@@ -4393,8 +4346,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (3), set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Continuous delivery with Argo CD
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-delivery-with-argo-cd?u=76281980)
+#### [Continuous delivery with Argo CD](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-delivery-with-argo-cd?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4404,7 +4356,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-delivery-with-argo-cd?u=76281980&t=10)** We're just going to update this bookings header to say recent bookings.
 >
-> **[0:15](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-delivery-with-argo-cd?u=76281980&t=15)** So let's head over to Eclipse, and within the hotel web app project, we can open the booking.HTML file.
+> **[0:15](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-delivery-with-argo-cd?u=76281980&t=15)** So let's head over to Eclipse, and within the hotel web app project, we can open the booking.[[HTML]] file.
 >
 > **[0:23](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-delivery-with-argo-cd?u=76281980&t=23)** And here's where we can make the change.
 >
@@ -4414,13 +4366,13 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-delivery-with-argo-cd?u=76281980&t=34)** Now, with that change in place, let's go over to the terminal and inside the hotel web app directory, I'm going to stage the changes, then I'll go ahead and add a commit, we'll say, updating the header.
 >
-> **[0:49](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-delivery-with-argo-cd?u=76281980&t=49)** And then we'll go ahead and push this over to GitHub.
+> **[0:49](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-delivery-with-argo-cd?u=76281980&t=49)** And then we'll go ahead and push this over to [[GitHub]].
 >
-> **[0:53](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-delivery-with-argo-cd?u=76281980&t=53)** That push is going to kick off our continuous delivery pipeline.
+> **[0:53](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-delivery-with-argo-cd?u=76281980&t=53)** That push is going to kick off our [[Continuous Delivery (CD)|continuous delivery]] pipeline.
 >
-> **[0:58](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-delivery-with-argo-cd?u=76281980&t=58)** So once we issue the command, let's go over to Jenkins, and we can start to watch it execute.
+> **[0:58](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-delivery-with-argo-cd?u=76281980&t=58)** So once we issue the command, let's go over to [[Jenkins]], and we can start to watch it execute.
 >
-> **[1:06](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-delivery-with-argo-cd?u=76281980&t=66)** Okay, Jenkins just picked up the change, and that's going to kick off our continuous integration pipeline for the web app.
+> **[1:06](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-delivery-with-argo-cd?u=76281980&t=66)** Okay, Jenkins just picked up the change, and that's going to kick off our [[Continuous Integration (CI)|continuous integration]] pipeline for the web app.
 >
 > **[1:14](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-delivery-with-argo-cd?u=76281980&t=74)** Let's go check it out.
 >
@@ -4436,11 +4388,11 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-delivery-with-argo-cd?u=76281980&t=107)** All right, it looks like the changes are in place.
 >
-> **[1:50](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-delivery-with-argo-cd?u=76281980&t=110)** Now let's go over to Argo CD.
+> **[1:50](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-delivery-with-argo-cd?u=76281980&t=110)** Now let's go over to [[Argo CD]].
 >
 > **[1:53](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-delivery-with-argo-cd?u=76281980&t=113)** Then we'll head into our application and we can wait for it to pick up the change.
 >
-> **[2:01](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-delivery-with-argo-cd?u=76281980&t=121)** Okay, Argo CD just realized it's out of sync and now it's reading our manifests and applying those changes to our Kubernetes cluster.
+> **[2:01](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-delivery-with-argo-cd?u=76281980&t=121)** Okay, Argo CD just realized it's out of sync and now it's reading our manifests and applying those changes to our [[Kubernetes]] cluster.
 >
 > **[2:12](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-delivery-with-argo-cd?u=76281980&t=132)** All right, it's all synced up, and our new container image is deployed and running on Kubernetes.
 >
@@ -4488,7 +4440,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Argo CD]] (6), application (5), web (4), [[GitHub]] (4), [[Continuous Delivery (CD)|Continuous delivery]] (3)
+> **Frameworks & Libraries:** [[Argo CD]] (6), [[GitHub]] (4), [[Continuous Delivery (CD)|Continuous delivery]] (3), [[Jenkins]] (2), [[Kubernetes]] (2)
 > **CLI Commands:** cd (6), make (2), find (1)
 > **UI Navigation:** click on (3), scroll down (2), open the (1)
 > **Tools:** github (4), terminal (1)
@@ -4497,12 +4449,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Prerequisites:** set up (1)
 
-#### Continuous deployment with Argo CD
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-deployment-with-argo-cd?u=76281980)
+#### [Continuous deployment with Argo CD](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-deployment-with-argo-cd?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-deployment-with-argo-cd?u=76281980&t=0)** - [Instructor] Once you become comfortable with continuous delivery, you might decide to automate production deployments.
+> **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-deployment-with-argo-cd?u=76281980&t=0)** - [Instructor] Once you become comfortable with [[Continuous Delivery (CD)|continuous delivery]], you might decide to automate production deployments.
 >
 > **[0:07](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-deployment-with-argo-cd?u=76281980&t=7)** To switch to continuous deployment, we'll need to extend the automation a bit in the script for our deployment pipeline.
 >
@@ -4518,7 +4469,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-deployment-with-argo-cd?u=76281980&t=38)** Now it's just going to take a few tweaks to automate our production deployments.
 >
-> **[0:43](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-deployment-with-argo-cd?u=76281980&t=43)** In this first step, which uses git to pull the manifests from the main branch into the workspace, we'll need to change the branch that it pulls from.
+> **[0:43](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-deployment-with-argo-cd?u=76281980&t=43)** In this first step, which uses [[Git]] to pull the manifests from the main branch into the workspace, we'll need to change the branch that it pulls from.
 >
 > **[0:53](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-deployment-with-argo-cd?u=76281980&t=53)** Instead, we're going to pull from the release branch and those are the manifests that will get applied on our production cluster.
 >
@@ -4532,13 +4483,13 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-deployment-with-argo-cd?u=76281980&t=86)** So we'll say, git merge main.
 >
-> **[1:29](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-deployment-with-argo-cd?u=76281980&t=89)** And this will cause the changes in the main branch, which are currently applied to the staging environment, to be merged into the release branch where Argo CD will build the production overlay and apply the changes to the production cluster.
+> **[1:29](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-deployment-with-argo-cd?u=76281980&t=89)** And this will cause the changes in the main branch, which are currently applied to the staging environment, to be merged into the release branch where [[Argo CD]] will build the production overlay and apply the changes to the production cluster.
 >
 > **[1:45](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-deployment-with-argo-cd?u=76281980&t=105)** Okay.
 >
 > **[1:45](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-deployment-with-argo-cd?u=76281980&t=105)** There's one last thing.
 >
-> **[1:47](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-deployment-with-argo-cd?u=76281980&t=107)** Here, you can see that we're pushing the changes to the main branch to GitHub.
+> **[1:47](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-deployment-with-argo-cd?u=76281980&t=107)** Here, you can see that we're pushing the changes to the main branch to [[GitHub]].
 >
 > **[1:52](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-deployment-with-argo-cd?u=76281980&t=112)** Instead, we need to push the changes in the release branch to GitHub.
 >
@@ -4558,7 +4509,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-deployment-with-argo-cd?u=76281980&t=154)** Then we'll push those changes over to GitHub.
 >
-> **[2:37](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-deployment-with-argo-cd?u=76281980&t=157)** And that will cause Jenkins to pick them up.
+> **[2:37](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-deployment-with-argo-cd?u=76281980&t=157)** And that will cause [[Jenkins]] to pick them up.
 >
 > **[2:39](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-deployment-with-argo-cd?u=76281980&t=159)** And our deployment pipeline will have the final stage within it that automates the deployment to production.
 >
@@ -4568,7 +4519,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-deployment-with-argo-cd?u=76281980&t=175)** So back in Eclipse, you'll notice I have three other files open.
 >
-> **[2:59](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-deployment-with-argo-cd?u=76281980&t=179)** These are part of the hotel-webapp project, and we've seen the bookings.html file before, but there's also two other pages, guests and rooms.
+> **[2:59](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-deployment-with-argo-cd?u=76281980&t=179)** These are part of the hotel-webapp project, and we've seen the bookings.[[HTML]] file before, but there's also two other pages, guests and rooms.
 >
 > **[3:11](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-deployment-with-argo-cd?u=76281980&t=191)** And these provide information about the different guests staying at the hotel and the rooms that are available.
 >
@@ -4616,11 +4567,11 @@ created: 2026-05-02
 >
 > **[4:43](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-deployment-with-argo-cd?u=76281980&t=283)** Okay.
 >
-> **[4:44](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-deployment-with-argo-cd?u=76281980&t=284)** There, we can see the links to the new pages and we can hit them, which we'll call back to the different microservices that provide the information displayed on the page.
+> **[4:44](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-deployment-with-argo-cd?u=76281980&t=284)** There, we can see the links to the new pages and we can hit them, which we'll call back to the different [[Microservices]] that provide the information displayed on the page.
 >
 > **[4:54](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-deployment-with-argo-cd?u=76281980&t=294)** Now, let's see, how the automated deployment to production is doing There we see the links, and it looks like the release has been performed to production.
 >
-> **[5:05](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-deployment-with-argo-cd?u=76281980&t=305)** So now we've built an end-to-end delivery pipeline for a modern Java application that is architected to use microservices.
+> **[5:05](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-deployment-with-argo-cd?u=76281980&t=305)** So now we've built an end-to-end delivery pipeline for a modern [[Java]] application that is architected to use microservices.
 >
 > **[5:13](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-deployment-with-argo-cd?u=76281980&t=313)** The mechanics of our delivery process are now automated, and we can consistently and safely repeat them.
 >
@@ -4628,7 +4579,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (4), application (3), [[Jenkins]] (3), [[Git]] (2), [[HTML]] (2)
+> **Frameworks & Libraries:** [[GitHub]] (4), [[Jenkins]] (3), [[Git]] (2), [[HTML]] (2), [[Microservices]] (2)
 > **CLI Commands:** make (3), git (2), cd (1)
 > **Tools:** github (4), terminal (2)
 > **File Paths:** bookings.html (2)
@@ -4641,14 +4592,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Course wrap-up
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/course-wrap-up?u=76281980)
+#### [Course wrap-up](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/course-wrap-up?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/course-wrap-up?u=76281980&t=0)** - [Kevin] Before we conclude the course, I want to highlight some other topics you might explore and provide you with information about my other courses.
 >
-> **[0:09](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/course-wrap-up?u=76281980&t=9)** Now that you've seen the power of continuous delivery, I would recommend checking out some of the quality assurance tools that can be included in the pipeline.
+> **[0:09](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/course-wrap-up?u=76281980&t=9)** Now that you've seen the power of [[Continuous Delivery (CD)|continuous delivery]], I would recommend checking out some of the [[Quality Assurance]] tools that can be included in the pipeline.
 >
 > **[0:18](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/course-wrap-up?u=76281980&t=18)** We focus mainly on the mechanics of how the pipeline can deliver changes, but there's a huge ecosystem of tools that it can use to test and verify our software.
 >
@@ -4656,9 +4606,9 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/course-wrap-up?u=76281980&t=33)** It introduces some advanced techniques for how we continuously deploy our applications.
 >
-> **[0:39](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/course-wrap-up?u=76281980&t=39)** If you like my teaching style, I have a few other courses on the LinkedIn Learning platform that might interest you.
+> **[0:39](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/course-wrap-up?u=76281980&t=39)** If you like my teaching style, I have a few other courses on the [[LinkedIn]] Learning platform that might interest you.
 >
-> **[0:46](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/course-wrap-up?u=76281980&t=46)** I can teach you about other topics like microservices, APIs, Java Collections, Spring, or Git.
+> **[0:46](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/course-wrap-up?u=76281980&t=46)** I can teach you about other topics like [[Microservices]], APIs, [[Java]] Collections, Spring, or [[Git]].
 >
 > **[0:53](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/course-wrap-up?u=76281980&t=53)** If you found the GitOps approach we used in the course interesting, I also have an entire course on that as well.
 >
@@ -4676,7 +4626,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Quality Assurance]] (1), [[LinkedIn]] (1), [[Microservices]] (1)
+> **Frameworks & Libraries:** [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Quality Assurance]] (1), [[LinkedIn]] (1), [[Microservices]] (1), [[Java]] (1)
 > **CLI Commands:** git (1)
 > **Speakers:** - [kevin] (1)
 

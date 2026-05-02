@@ -75,8 +75,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why identify your bias?
-> [LinkedIn Learning](https://www.linkedin.com/learning/unconscious-bias-14822310/why-identify-your-bias?u=76281980)
+#### [Why identify your bias?](https://www.linkedin.com/learning/unconscious-bias-14822310/why-identify-your-bias?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -90,7 +89,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/unconscious-bias-14822310/why-identify-your-bias?u=76281980&t=33)** I'm an executive advisor to senior leaders in the field of diversity, equity, inclusion, and belonging.
 >
-> **[0:38](https://www.linkedin.com/learning/unconscious-bias-14822310/why-identify-your-bias?u=76281980&t=38)** I spent years working in Fortune 500 companies and nonprofit organizations, specializing in diversity and inclusion.
+> **[0:38](https://www.linkedin.com/learning/unconscious-bias-14822310/why-identify-your-bias?u=76281980&t=38)** I spent years working in Fortune 500 companies and [[Nonprofit Organizations]], specializing in [[Diversity and Inclusion]].
 >
 > **[0:45](https://www.linkedin.com/learning/unconscious-bias-14822310/why-identify-your-bias?u=76281980&t=45)** And today I hope to bring awareness to the topic of unconscious bias.
 >
@@ -110,7 +109,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Nonprofit Organizations]] (1), [[Diversity and Inclusion]] (1), business (1)
+> **Frameworks & Libraries:** [[Nonprofit Organizations]] (1), [[Diversity and Inclusion]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
@@ -121,8 +120,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is unconscious bias?
-> [LinkedIn Learning](https://www.linkedin.com/learning/unconscious-bias-14822310/what-is-unconscious-bias?u=76281980)
+#### [What is unconscious bias?](https://www.linkedin.com/learning/unconscious-bias-14822310/what-is-unconscious-bias?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -164,7 +162,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/unconscious-bias-14822310/what-is-unconscious-bias?u=76281980&t=120)** Each of us holds a set of perspectives that help us navigate a complex world efficiently.
 >
-> **[2:07](https://www.linkedin.com/learning/unconscious-bias-14822310/what-is-unconscious-bias?u=76281980&t=127)** And the word by immediately make some people feel as though they're being attacked.
+> **[2:07](https://www.linkedin.com/learning/unconscious-bias-14822310/what-is-unconscious-bias?u=76281980&t=127)** And the [[Microsoft Word|word]] by immediately make some people feel as though they're being attacked.
 >
 > **[2:12](https://www.linkedin.com/learning/unconscious-bias-14822310/what-is-unconscious-bias?u=76281980&t=132)** So I'd like to put you at ease while watching this course.
 >
@@ -182,15 +180,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), data (1), leadership (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2)
 > **Versions:** 50.4 (1), 49.6 (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - look (1)
 
-#### The impact of a 1% bias
-> [LinkedIn Learning](https://www.linkedin.com/learning/unconscious-bias-14822310/the-impact-of-a-1-bias?u=76281980)
+#### [The impact of a 1% bias](https://www.linkedin.com/learning/unconscious-bias-14822310/the-impact-of-a-1-bias?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -200,7 +197,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/unconscious-bias-14822310/the-impact-of-a-1-bias?u=76281980&t=7)** The long answer, still yes.
 >
-> **[0:10](https://www.linkedin.com/learning/unconscious-bias-14822310/the-impact-of-a-1-bias?u=76281980&t=10)** Researchers from three universities collaborated to create a computer simulation that showed a 1% bias in favor of promoting men in the workplace.
+> **[0:10](https://www.linkedin.com/learning/unconscious-bias-14822310/the-impact-of-a-1-bias?u=76281980&t=10)** Researchers from three universities collaborated to create a computer [[Simulation]] that showed a 1% bias in favor of promoting men in the workplace.
 >
 > **[0:20](https://www.linkedin.com/learning/unconscious-bias-14822310/the-impact-of-a-1-bias?u=76281980&t=20)** Now, you might think that beginning with the same number of men and women in entry level positions and applying a 1% bias in promotion wouldn't change the expected 50-50 outcome.
 >
@@ -240,13 +237,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation]] (2), job description (1), management (1), next (1)
+> **Frameworks & Libraries:** [[Simulation]] (2)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - is (1)
 
-#### The basis of unconscious bias
-> [LinkedIn Learning](https://www.linkedin.com/learning/unconscious-bias-14822310/the-basis-of-unconscious-bias?u=76281980)
+#### [The basis of unconscious bias](https://www.linkedin.com/learning/unconscious-bias-14822310/the-basis-of-unconscious-bias?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -282,7 +278,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/unconscious-bias-14822310/the-basis-of-unconscious-bias?u=76281980&t=129)** So pinpointing bias is hard, but not impossible.
 >
-> **[2:14](https://www.linkedin.com/learning/unconscious-bias-14822310/the-basis-of-unconscious-bias?u=76281980&t=134)** According to the Cognitive Bias Codex created by John Manoogian III and Buster Benson, there are an estimated 180 cognitive biases, and the list is frequently updated.
+> **[2:14](https://www.linkedin.com/learning/unconscious-bias-14822310/the-basis-of-unconscious-bias?u=76281980&t=134)** According to the Cognitive Bias Codex created by [[John the Ripper|John]] Manoogian III and Buster Benson, there are an estimated 180 cognitive biases, and the list is frequently updated.
 >
 > **[2:26](https://www.linkedin.com/learning/unconscious-bias-14822310/the-basis-of-unconscious-bias?u=76281980&t=146)** This codex is a useful tool for visually representing all of the known biases that exist to date.
 >
@@ -316,14 +312,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (1)
 > **CLI Commands:** make (5), find (1)
 > **Env Vars:** lgbtq (1), iii (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
-#### Unconscious bias at work
-> [LinkedIn Learning](https://www.linkedin.com/learning/unconscious-bias-14822310/unconscious-bias-at-work?u=76281980)
+#### [Unconscious bias at work](https://www.linkedin.com/learning/unconscious-bias-14822310/unconscious-bias-at-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -373,7 +368,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hr (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - when (1)
@@ -383,8 +377,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Affinity bias
-> [LinkedIn Learning](https://www.linkedin.com/learning/unconscious-bias-14822310/affinity-bias?u=76281980)
+#### [Affinity bias](https://www.linkedin.com/learning/unconscious-bias-14822310/affinity-bias?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -410,9 +403,9 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/unconscious-bias-14822310/affinity-bias?u=76281980&t=51)** Unconsciously, the person with whom you have a perceived affinity will automatically have an edge over the others, and whether they deserve it or not.
 >
-> **[1:01](https://www.linkedin.com/learning/unconscious-bias-14822310/affinity-bias?u=76281980&t=61)** Reducing our unconscious bias as we interact with others at work can be accomplished by creating standard processes that will help you to pause before you react in favor of or to the detriment of someone in a review process.
+> **[1:01](https://www.linkedin.com/learning/unconscious-bias-14822310/affinity-bias?u=76281980&t=61)** Reducing our unconscious bias as we interact with others at work can be accomplished by creating standard processes that will help you to pause before you [[React.js|react]] in favor of or to the detriment of someone in a review process.
 >
-> **[1:16](https://www.linkedin.com/learning/unconscious-bias-14822310/affinity-bias?u=76281980&t=76)** Working off a structure that you can apply to everyone will help to lesser the influence of bias in your decision-making processes.
+> **[1:16](https://www.linkedin.com/learning/unconscious-bias-14822310/affinity-bias?u=76281980&t=76)** Working off a structure that you can apply to everyone will help to lesser the influence of bias in your [[Decision-Making]] processes.
 >
 > **[1:23](https://www.linkedin.com/learning/unconscious-bias-14822310/affinity-bias?u=76281980&t=83)** Standardization also slows down the process so that your automatic and unconscious gut reaction can be replaced with methodical and deliberate action.
 >
@@ -432,8 +425,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - parenting (1)
 
-#### Halo bias
-> [LinkedIn Learning](https://www.linkedin.com/learning/unconscious-bias-14822310/halo-bias?u=76281980)
+#### [Halo bias](https://www.linkedin.com/learning/unconscious-bias-14822310/halo-bias?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -498,8 +490,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - first (1)
 
-#### Perception bias
-> [LinkedIn Learning](https://www.linkedin.com/learning/unconscious-bias-14822310/perception-bias?u=76281980)
+#### [Perception bias](https://www.linkedin.com/learning/unconscious-bias-14822310/perception-bias?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -545,14 +536,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1), seo (1), data (1), next (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** seo (1)
 > **Speakers:** - [woman] (1)
 
-#### Confirmation bias
-> [LinkedIn Learning](https://www.linkedin.com/learning/unconscious-bias-14822310/confirmation-bias?u=76281980)
+#### [Confirmation bias](https://www.linkedin.com/learning/unconscious-bias-14822310/confirmation-bias?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -572,7 +561,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/unconscious-bias-14822310/confirmation-bias?u=76281980&t=46)** For example, let's say Bob has an idea for a new product that he believes will be well received by the public.
 >
-> **[0:52](https://www.linkedin.com/learning/unconscious-bias-14822310/confirmation-bias?u=76281980&t=52)** He does market research and presents findings that support his initial idea.
+> **[0:52](https://www.linkedin.com/learning/unconscious-bias-14822310/confirmation-bias?u=76281980&t=52)** He does [[Market Research]] and presents findings that support his initial idea.
 >
 > **[0:57](https://www.linkedin.com/learning/unconscious-bias-14822310/confirmation-bias?u=76281980&t=57)** When his coworker presents data that shows the product won't be profitable, bob discounts it.
 >
@@ -592,7 +581,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/unconscious-bias-14822310/confirmation-bias?u=76281980&t=95)** The best way to get over confirmation bias is to find someone who is unbiased that you can present both sides to.
 >
-> **[1:42](https://www.linkedin.com/learning/unconscious-bias-14822310/confirmation-bias?u=76281980&t=102)** If you develop a standard system of evaluation for all new products, you'll be better positioned to make the right decision.
+> **[1:42](https://www.linkedin.com/learning/unconscious-bias-14822310/confirmation-bias?u=76281980&t=102)** If you develop a standard system of evaluation for all new [[Microsoft Products|products]], you'll be better positioned to make the right decision.
 >
 > **[1:49](https://www.linkedin.com/learning/unconscious-bias-14822310/confirmation-bias?u=76281980&t=109)** The confirmation bias isn't limited to new products.
 >
@@ -618,13 +607,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), product (3), [[Microsoft Products|Products]] (2), [[Market Research]] (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Market Research]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Analogies:** for example (1)
 > **Speakers:** - confirmation (1)
 
-#### Groupthink
-> [LinkedIn Learning](https://www.linkedin.com/learning/unconscious-bias-14822310/groupthink?u=76281980)
+#### [Groupthink](https://www.linkedin.com/learning/unconscious-bias-14822310/groupthink?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -650,7 +638,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/unconscious-bias-14822310/groupthink?u=76281980&t=59)** It happens in smaller groups, between coworkers and even among family members.
 >
-> **[1:05](https://www.linkedin.com/learning/unconscious-bias-14822310/groupthink?u=76281980&t=65)** In the 1950s, in a series of psychological experiments, researchers found that people were willing to go as far as giving a wrong answer in order to conform to the rest of the group.
+> **[1:05](https://www.linkedin.com/learning/unconscious-bias-14822310/groupthink?u=76281980&t=65)** In the 1950s, in a series of psychological experiments, researchers found that people were willing to go as far as giving a wrong answer in order to conform to the [[Representational State Transfer (REST)|rest]] of the group.
 >
 > **[1:16](https://www.linkedin.com/learning/unconscious-bias-14822310/groupthink?u=76281980&t=76)** What does this mean for organizations like yours?
 >
@@ -688,7 +676,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), product (1), game (1), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1), means that (1)
 > **Speakers:** - was (1)
@@ -698,8 +686,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Practice what you've learned
-> [LinkedIn Learning](https://www.linkedin.com/learning/unconscious-bias-14822310/practice-what-you-ve-learned?u=76281980)
+#### [Practice what you've learned](https://www.linkedin.com/learning/unconscious-bias-14822310/practice-what-you-ve-learned?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -725,7 +712,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/unconscious-bias-14822310/practice-what-you-ve-learned?u=76281980&t=49)** You have so many options before you.
 >
-> **[0:51](https://www.linkedin.com/learning/unconscious-bias-14822310/practice-what-you-ve-learned?u=76281980&t=51)** There are many more courses in the LinkedIn Learning Library, some of which are from me, so if you liked this course, check out my course on diversity recruiting.
+> **[0:51](https://www.linkedin.com/learning/unconscious-bias-14822310/practice-what-you-ve-learned?u=76281980&t=51)** There are many more courses in the [[LinkedIn]] Learning Library, some of which are from me, so if you liked this course, check out my course on diversity recruiting.
 >
 > **[1:00](https://www.linkedin.com/learning/unconscious-bias-14822310/practice-what-you-ve-learned?u=76281980&t=60)** If you visit my website, you can purchase my book, "UNBIAS: Addressing Unconscious Bias at Work."
 >
@@ -741,7 +728,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** unbias (1), deib (1)
 > **Definitions:** is a  (1)

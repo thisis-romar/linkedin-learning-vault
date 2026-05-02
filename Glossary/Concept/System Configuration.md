@@ -17,7 +17,7 @@ tags:
   - topic/security
   - topic/software-development
   - topic/data-science
-course_count: 31
+course_count: 32
 created: 2026-05-02
 ---
 
@@ -25,7 +25,7 @@ created: 2026-05-02
 
 # System Configuration
 
-> **Type:** Concept | **Courses:** 31 | **Topics:** [[DevOps]], [[Network and System Administration]], [[Cybersecurity]], [[Software Development]], [[Data Science]]
+> **Type:** Concept | **Courses:** 32 | **Topics:** [[DevOps]], [[Network and System Administration]], [[Cybersecurity]], [[Software Development]], [[Data Science]]
 
 ## Courses
 
@@ -40,7 +40,7 @@ created: 2026-05-02
 9. [[Security Testing Essential Training (2022)]] — 1 mentions
 10. [[Ethical Hacking- Vulnerability Analysis]] — 1 mentions
 
-> [!note]- See all 31 courses
+> [!note]- See all 32 courses
 > 11. [[Windows 10 for IT Support- Troubleshooting Basics]] — 1 mentions
 > 12. [[Practical Cybersecurity for IT Professionals]] — 1 mentions
 > 13. [[Artificial Intelligence for Cybersecurity]] — 1 mentions
@@ -55,13 +55,14 @@ created: 2026-05-02
 > 22. [[Learning Linux Command Line]] — 1 mentions
 > 23. [[Google Cloud Professional Machine Learning Engineer Cert Prep]] — 1 mentions
 > 24. [[GDPR Compliance- Essential Training]] — 1 mentions
-> 25. [[SQL Server 2022 Administration]] — 1 mentions
-> 26. [[Red Hat Certified System Administrator Ex200 Cert Prep 1 Deploy Configure And Manage]] — 1 mentions
-> 27. [[Red Hat Certified System Administrator (EX200) Cert Prep- 2 File Access, Storage, and Security]] — 1 mentions
-> 28. [[IT Service Management Foundations- Change Management]] — 1 mentions
-> 29. [[Windows Server 2019 Essential Training]] — 1 mentions
-> 30. [[Linux- Overview and Installation]] — 1 mentions
-> 31. [[Software Testing- Planning Tests for Mobile]] — 1 mentions
+> 25. [[DevOps Tips]] — 1 mentions
+> 26. [[SQL Server 2022 Administration]] — 1 mentions
+> 27. [[Red Hat Certified System Administrator Ex200 Cert Prep 1 Deploy Configure And Manage]] — 1 mentions
+> 28. [[Red Hat Certified System Administrator (EX200) Cert Prep- 2 File Access, Storage, and Security]] — 1 mentions
+> 29. [[IT Service Management Foundations- Change Management]] — 1 mentions
+> 30. [[Windows Server 2019 Essential Training]] — 1 mentions
+> 31. [[Linux- Overview and Installation]] — 1 mentions
+> 32. [[Software Testing- Planning Tests for Mobile]] — 1 mentions
 
 ## Learning Paths
 

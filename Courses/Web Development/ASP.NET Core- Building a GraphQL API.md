@@ -89,12 +89,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using GraphQL API
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/using-graphql-api?u=76281980)
+#### [Using GraphQL API](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/using-graphql-api?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/using-graphql-api?u=76281980&t=0)** - With GraphQL, you can query your API and get exactly what you need.
+> **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/using-graphql-api?u=76281980&t=0)** - With [[GraphQL]], you can query your API and get exactly what you need.
 >
 > **[0:05](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/using-graphql-api?u=76281980&t=5)** Nothing more and nothing less.
 >
@@ -108,25 +107,24 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/using-graphql-api?u=76281980&t=58)** Hi, I am Ervis Trupja and I'm a full [stack.NET](https://stack.NET) Web Developer and trainer.
 >
-> **[1:04](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/using-graphql-api?u=76281980&t=64)** Join me in my LinkedIn learning course, as we explore GraphQL in an [ASP.NET](https://ASP.NET) web API application.
+> **[1:04](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/using-graphql-api?u=76281980&t=64)** Join me in my [[LinkedIn]] learning course, as we explore GraphQL in an [[[ASP.NET]]](https://ASP.NET) web API application.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (7), data (6), api (2), application (2), next (1)
+> **Frameworks & Libraries:** [[GraphQL]] (7), [[LinkedIn]] (1), [[ASP.NET Web API]] (1)
 > **Env Vars:** api (3), net (2), asp (1)
 > **URLs:** [stack.net](https://stack.net) (1), [asp.net](https://asp.net) (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - with (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/what-you-should-know?u=76281980&t=0)** - [Instructor] Now, let us talk about a couple of things that you need to know to get the most out of this course.
 >
-> **[0:06](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/what-you-should-know?u=76281980&t=6)** On this course, we are going to add GraphQL to an existing [ASP.NET](https://ASP.NET) Web API project.
+> **[0:06](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/what-you-should-know?u=76281980&t=6)** On this course, we are going to add [[GraphQL]] to an existing [[[ASP.NET]]](https://ASP.NET) Web API project.
 >
 > **[0:13](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/what-you-should-know?u=76281980&t=13)** So having a basic understanding of how Web API projects work is recommended, but it is not required.
 >
@@ -138,7 +136,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (1), [[ASP.NET Web API]] (1), web (1), api (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[GraphQL]] (1), [[ASP.NET Web API]] (1)
 > **Env Vars:** net (2), api (2), asp (1), net5 (1)
 > **Tools:** visual studio (2)
 > **URLs:** [asp.net](https://asp.net) (1)
@@ -150,14 +148,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is GraphQL?
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/what-is-graphql?u=76281980)
+#### [What is GraphQL?](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/what-is-graphql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/what-is-graphql?u=76281980&t=0)** - [Instructor] Per definition, GraphQL is a query language for your APIs.
+> **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/what-is-graphql?u=76281980&t=0)** - [Instructor] Per definition, [[GraphQL]] is a query language for your APIs.
 >
-> **[0:05](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/what-is-graphql?u=76281980&t=5)** But why do we need GraphQL if we already have the REST APIs, which have been around for years and years?
+> **[0:05](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/what-is-graphql?u=76281980&t=5)** But why do we need GraphQL if we already have the [[Representational State Transfer (REST)|REST]] APIs, which have been around for years and years?
 >
 > **[0:13](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/what-is-graphql?u=76281980&t=13)** In traditional REST APIs, when you want to get specific data, you need to create specific API endpoints, or create specific return type DTOs.
 >
@@ -197,19 +194,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), api (11), [[GraphQL]] (6), [[Representational State Transfer (REST)|Rest]] (2), web (2)
+> **Frameworks & Libraries:** [[GraphQL]] (6), [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** api (11), rest (2), httpget (1), dto (1), net (1)
 > **Definitions:** is a  (1), is called (1)
 > **Prerequisites:** you need to have (1), before we start (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### GraphQL vs. REST
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/graphql-vs-rest?u=76281980)
+#### [GraphQL vs. REST](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/graphql-vs-rest?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/graphql-vs-rest?u=76281980&t=0)** - [Instructor] First of all, it's important to know that REST and GraphQL are two API design approaches that fulfill the same function.
+> **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/graphql-vs-rest?u=76281980&t=0)** - [Instructor] First of all, it's important to know that [[Representational State Transfer (REST)|REST]] and [[GraphQL]] are two API design approaches that fulfill the same function.
 >
 > **[0:10](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/graphql-vs-rest?u=76281980&t=10)** The data transmission over internet protocols, such as the HTTP.
 >
@@ -231,7 +227,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/graphql-vs-rest?u=76281980&t=64)** A downside of GraphQL is that in GraphQL you do not have automatic caching mechanism or API versioning, but the REST uses caching automatically, and also supports multiple API versioning methods.
 >
-> **[1:20](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/graphql-vs-rest?u=76281980&t=80)** In GraphQL, you only get to see data in JSON format, but REST supports multiple data formats.
+> **[1:20](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/graphql-vs-rest?u=76281980&t=80)** In GraphQL, you only get to see data in [[JSON]] format, but REST supports multiple data formats.
 >
 > **[1:29](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/graphql-vs-rest?u=76281980&t=89)** In GraphQL, we do not have HTTP status code, but in REST we can use the HTTP status codes to identify the errors easily.
 >
@@ -241,18 +237,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (10), [[Representational State Transfer (REST)|Rest]] (7), api (6), data (6), [[JSON]] (1)
+> **Frameworks & Libraries:** [[GraphQL]] (10), [[Representational State Transfer (REST)|Rest]] (7), [[JSON]] (1)
 > **Env Vars:** rest (6), api (6), http (3), json (1)
 > **Analogies:** for example (2), such as (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Open-source GraphQL projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/open-source-graphql-projects?u=76281980)
+#### [Open-source GraphQL projects](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/open-source-graphql-projects?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/open-source-graphql-projects?u=76281980&t=0)** - [Instructor] Before we start building our GraphQL project, let us first have a look at some libraries that can be used in different programming languages to integrate GraphQL with the programming language of your choice.
+> **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/open-source-graphql-projects?u=76281980&t=0)** - [Instructor] Before we start building our [[GraphQL]] project, let us first have a look at some libraries that can be used in different programming languages to integrate GraphQL with the programming language of your choice.
 >
 > **[0:14](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/open-source-graphql-projects?u=76281980&t=14)** Then, we are going to check some of the open source projects that are public and available for you to test and create a general idea on how the GraphQL works.
 >
@@ -264,7 +259,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/open-source-graphql-projects?u=76281980&t=46)** Then you could go to tools and services.
 >
-> **[0:50](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/open-source-graphql-projects?u=76281980&t=50)** Now here you can see that the GraphQL is supported in multiple languages like the PHP. Java, C#, Python, the C or C++ and other programming languages.
+> **[0:50](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/open-source-graphql-projects?u=76281980&t=50)** Now here you can see that the GraphQL is supported in multiple languages like the [[PHP]]. [[Java]], C#, [[Python (Programming Language)|Python]], the C or C++ and other programming languages.
 >
 > **[1:03](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/open-source-graphql-projects?u=76281980&t=63)** Now in this course as I go into work with an existing .NET Web API project, We are going to use the C#.NET.
 >
@@ -282,9 +277,9 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/open-source-graphql-projects?u=76281980&t=114)** And as the name already indicates, this an API provided by SpaceX and you can check all the information related to this company by using the GraphQL.
 >
-> **[2:05](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/open-source-graphql-projects?u=76281980&t=125)** Then you have the Countries API and the GitHub API.
+> **[2:05](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/open-source-graphql-projects?u=76281980&t=125)** Then you have the Countries API and the [[GitHub]] API.
 >
-> **[2:10](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/open-source-graphql-projects?u=76281980&t=130)** You also have other APIs but I just thought that these three APIs are interesting ones but you can just Google search for other APIs and you'll get lots of results.
+> **[2:10](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/open-source-graphql-projects?u=76281980&t=130)** You also have other APIs but I just thought that these three APIs are interesting ones but you can just [[Google]] search for other APIs and you'll get lots of results.
 >
 > **[2:22](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/open-source-graphql-projects?u=76281980&t=142)** So here let us go to the SpaceX API.
 >
@@ -348,7 +343,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (14), api (14), web (4), [[Programming]] (3), data (3)
+> **Frameworks & Libraries:** [[GraphQL]] (14), [[PHP]] (1), [[Java]] (1), [[Python (Programming Language)|Python]] (1), [[GitHub]] (1)
 > **Env Vars:** api (14), net (3), ceo (2), url (1), php (1)
 > **UI Navigation:** go to (4), scroll down (3), scroll up (2), navigate to (1), open the (1)
 > **CLI Commands:** php (1), python (1), dotnet (1)
@@ -357,14 +352,13 @@ created: 2026-05-02
 > **URLs:** [ql.org](https://ql.org) (1)
 > **Cross-References:** as we saw (1)
 
-#### .NET Web API project overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/dot-net-web-api-project-overview?u=76281980)
+#### [.NET Web API project overview](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/dot-net-web-api-project-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/dot-net-web-api-project-overview?u=76281980&t=0)** - We have said that throughout this course we're going to use a .NET web API project.
 >
-> **[0:04](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/dot-net-web-api-project-overview?u=76281980&t=4)** So before we type any code that is related to the GraphQL, let us have a look at this project.
+> **[0:04](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/dot-net-web-api-project-overview?u=76281980&t=4)** So before we type any code that is related to the [[GraphQL]], let us have a look at this project.
 >
 > **[0:10](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/dot-net-web-api-project-overview?u=76281980&t=10)** This is a simple .NET API project and in here we have just a single API end point.
 >
@@ -392,7 +386,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/dot-net-web-api-project-overview?u=76281980&t=86)** In the startup.CS, If you scroll down, you have just configured in here, the application Db context.
 >
-> **[1:32](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/dot-net-web-api-project-overview?u=76281980&t=92)** And here we have defined that we want to use an SQL server database.
+> **[1:32](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/dot-net-web-api-project-overview?u=76281980&t=92)** And here we have defined that we want to use an [[Microsoft SQL Server|SQL server]] database.
 >
 > **[1:37](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/dot-net-web-api-project-overview?u=76281980&t=97)** And then down here we have also added, or we have also configured the courses repository.
 >
@@ -460,19 +454,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (11), database (5), [[GraphQL]] (4), web (2), data (2)
+> **Frameworks & Libraries:** [[GraphQL]] (4), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** api (11), net (2), sql (1), dtr (1)
 > **UI Navigation:** go to (2), scroll down (1), scroll up (1)
 > **Analogies:** for example (2), just like (1), imagine (1)
 > **Definitions:** is a  (3)
 > **Speakers:** - we (1)
 
-#### Setting up GraphQL in Web API
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/setting-up-graphql-in-web-api?u=76281980)
+#### [Setting up GraphQL in Web API](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/setting-up-graphql-in-web-api?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/setting-up-graphql-in-web-api?u=76281980&t=0)** - [Tutor] Now that you know what GraphQL is all about and also had an overview of the Web API project, it is time to get our hands dirty, and start working on the actual project.
+> **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/setting-up-graphql-in-web-api?u=76281980&t=0)** - [Tutor] Now that you know what [[GraphQL]] is all about and also had an overview of the Web API project, it is time to get our hands dirty, and start working on the actual project.
 >
 > **[0:12](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/setting-up-graphql-in-web-api?u=76281980&t=12)** On this part, we are going to install all the necessary packages, and also partially set up the GraphQL in the startup.csclass.
 >
@@ -490,7 +483,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/setting-up-graphql-in-web-api?u=76281980&t=65)** Then you later search for graphiql.
 >
-> **[1:09](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/setting-up-graphql-in-web-api?u=76281980&t=69)** This is the package and it says in here that the GraphiQL is available as a middleware for [ASP.NET](https://ASP.NET) Core.
+> **[1:09](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/setting-up-graphql-in-web-api?u=76281980&t=69)** This is the package and it says in here that the GraphiQL is available as a middleware for [[[ASP.NET]]](https://ASP.NET) Core.
 >
 > **[1:16](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/setting-up-graphql-in-web-api?u=76281980&t=76)** And then you click install.
 >
@@ -534,7 +527,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/setting-up-graphql-in-web-api?u=76281980&t=213)** Now let us import namespace for this one.
 >
-> **[3:37](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/setting-up-graphql-in-web-api?u=76281980&t=217)** And then is going to be the GraphQL.Server and we need this method so the GraphQL is able to compose a JSON response so now we can see the response, in our result.
+> **[3:37](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/setting-up-graphql-in-web-api?u=76281980&t=217)** And then is going to be the GraphQL.Server and we need this method so the GraphQL is able to [[Jetpack Compose|compose]] a [[JSON]] response so now we can see the response, in our result.
 >
 > **[3:48](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/setting-up-graphql-in-web-api?u=76281980&t=228)** And if you hover on this method, you can see that this returns a GraphQLBuilder.
 >
@@ -564,7 +557,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (13), [[Search]] (3), web (1), api (1), [[ASP.NET Core]] (1)
+> **Frameworks & Libraries:** [[GraphQL]] (13), [[ASP.NET Core]] (1), [[Jetpack Compose|Compose]] (1), [[JSON]] (1)
 > **UI Navigation:** go to (10), scroll down (2), select the (1)
 > **Prerequisites:** install (8), configure (3), set up (1)
 > **Env Vars:** net (3), api (1), asp (1), http (1), json (1)
@@ -578,8 +571,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Operations in GraphQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/operations-in-graphql?u=76281980)
+#### [Operations in GraphQL](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/operations-in-graphql?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -591,7 +583,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/operations-in-graphql?u=76281980&t=17)** And you have already seen the swagger visualization of our API, that I have already created.
 >
-> **[0:24](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/operations-in-graphql?u=76281980&t=24)** In GraphQL to work with data, we have two main types of operations.
+> **[0:24](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/operations-in-graphql?u=76281980&t=24)** In [[GraphQL]] to work with data, we have two main types of operations.
 >
 > **[0:31](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/operations-in-graphql?u=76281980&t=31)** We do have a vQuery type and as the name already indicates, the query type is used to query data.
 >
@@ -611,19 +603,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), api (4), [[GraphQL]] (3), database (2)
+> **Frameworks & Libraries:** [[GraphQL]] (3)
 > **Env Vars:** api (4), http (3), delete (1)
 > **API Endpoints:** get  (1), delete  (1)
 > **Code Identifiers:** vquery (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - when (1)
 
-#### Types in GraphQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/types-in-graphql?u=76281980)
+#### [Types in GraphQL](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/types-in-graphql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/types-in-graphql?u=76281980&t=0)** - [Instructor] We have said that GraphQL is a strongly typed language.
+> **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/types-in-graphql?u=76281980&t=0)** - [Instructor] We have said that [[GraphQL]] is a strongly typed language.
 >
 > **[0:04](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/types-in-graphql?u=76281980&t=4)** The type system is used to define different data types that can be used in a GraphQL application.
 >
@@ -675,15 +666,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (17), data (2), application (2)
+> **Frameworks & Libraries:** [[GraphQL]] (17)
 > **Env Vars:** net (9)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding your first object graph type (course entity)
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/adding-your-first-object-graph-type-course-entity?u=76281980)
+#### [Adding your first object graph type (course entity)](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/adding-your-first-object-graph-type-course-entity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -697,7 +687,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/adding-your-first-object-graph-type-course-entity?u=76281980&t=16)** So add and then new folder.
 >
-> **[0:20](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/adding-your-first-object-graph-type-course-entity?u=76281980&t=20)** I'm going to name GraphQL because in here I'm going to put all the GraphQL related code for GraphQL.
+> **[0:20](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/adding-your-first-object-graph-type-course-entity?u=76281980&t=20)** I'm going to name [[GraphQL]] because in here I'm going to put all the GraphQL related code for GraphQL.
 >
 > **[0:28](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/adding-your-first-object-graph-type-course-entity?u=76281980&t=28)** And then inside here we are going to have types, so I'll just right-click then go to new folder.
 >
@@ -825,20 +815,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (7), data (2), database (1), next (1), application (1)
+> **Frameworks & Libraries:** [[GraphQL]] (7)
 > **UI Navigation:** go to (5), right-click (2)
 > **Env Vars:** net (1)
 > **Tools:** visual studio (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding your first query: All courses
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/adding-your-first-query-all-courses?u=76281980)
+#### [Adding your first query: All courses](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/adding-your-first-query-all-courses?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/adding-your-first-query-all-courses?u=76281980&t=0)** - [Instructor] So, in the last part, we created a custom object type of GraphQL, we named that type the CourseType, and in here, we defined all the fields, so all the properties.
+> **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/adding-your-first-query-all-courses?u=76281980&t=0)** - [Instructor] So, in the last part, we created a custom object type of [[GraphQL]], we named that type the CourseType, and in here, we defined all the fields, so all the properties.
 >
-> **[0:11](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/adding-your-first-query-all-courses?u=76281980&t=11)** Now we have said that to get data from a data source, and in our case, we're going to use an SQL Server Database, we're going to create, or we have to create a Query, and that is what we're going to do on this part.
+> **[0:11](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/adding-your-first-query-all-courses?u=76281980&t=11)** Now we have said that to get data from a data source, and in our case, we're going to use an [[Microsoft SQL Server|SQL Server]] Database, we're going to create, or we have to create a Query, and that is what we're going to do on this part.
 >
 > **[0:24](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/adding-your-first-query-all-courses?u=76281980&t=24)** So let us go to the Solution Explorer, and then in here go to GraphQL.
 >
@@ -902,7 +891,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[GraphQL]] (5), database (3), [[Microsoft SQL Server|Sql server]] (1), application (1)
+> **Frameworks & Libraries:** [[GraphQL]] (5), [[Microsoft SQL Server|Sql server]] (1)
 > **UI Navigation:** go to (5)
 > **Definitions:** is a  (2)
 > **URLs:** [graphql.net](https://graphql.net) (1)
@@ -911,8 +900,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Add query to get single course
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/challenge-add-query-to-get-single-course?u=76281980)
+#### [Challenge: Add query to get single course](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/challenge-add-query-to-get-single-course?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -930,12 +918,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Add query to get single course
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/solution-add-query-to-get-single-course?u=76281980)
+#### [Solution: Add query to get single course](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/solution-add-query-to-get-single-course?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -949,7 +935,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/solution-add-query-to-get-single-course?u=76281980&t=24)** The return type will not be a list graph type but just a course type, so "CourseType."
 >
-> **[0:33](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/solution-add-query-to-get-single-course?u=76281980&t=33)** Then inside here, we said that we need to define the key word or the name.
+> **[0:33](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/solution-add-query-to-get-single-course?u=76281980&t=33)** Then inside here, we said that we need to define the key [[Microsoft Word|word]] or the name.
 >
 > **[0:40](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/solution-add-query-to-get-single-course?u=76281980&t=40)** So for that, I'll just type in here, "course."
 >
@@ -961,7 +947,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/solution-add-query-to-get-single-course?u=76281980&t=57)** "This returns a single course by ID."
 >
-> **[1:06](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/solution-add-query-to-get-single-course?u=76281980&t=66)** And then down here, we are going to define the rest of the code.
+> **[1:06](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/solution-add-query-to-get-single-course?u=76281980&t=66)** And then down here, we are going to define the [[Representational State Transfer (REST)|rest]] of the code.
 >
 > **[1:10](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/solution-add-query-to-get-single-course?u=76281980&t=70)** Now, as you can see in here, the third one is the query arguments.
 >
@@ -1011,7 +997,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/solution-add-query-to-get-single-course?u=76281980&t=225)** And here, let us import the namespace for the get argument.
 >
-> **[3:48](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/solution-add-query-to-get-single-course?u=76281980&t=228)** And that is going to be the GraphQL.
+> **[3:48](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/solution-add-query-to-get-single-course?u=76281980&t=228)** And that is going to be the [[GraphQL]].
 >
 > **[3:53](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/solution-add-query-to-get-single-course?u=76281980&t=233)** And this is all you need to do in here.
 >
@@ -1029,14 +1015,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - on (1)
 
-#### Adding your GraphQL schema file
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/adding-your-graphql-schema-file?u=76281980)
+#### [Adding your GraphQL schema file](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/adding-your-graphql-schema-file?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/adding-your-graphql-schema-file?u=76281980&t=0)** - [Trainer] On this part, we are going to create the last piece of the puzzle to get data from the database.
 >
-> **[0:07](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/adding-your-graphql-schema-file?u=76281980&t=7)** That is the schema of the GraphQL.
+> **[0:07](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/adding-your-graphql-schema-file?u=76281980&t=7)** That is the schema of the [[GraphQL]].
 >
 > **[0:10](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/adding-your-graphql-schema-file?u=76281980&t=10)** The GraphQL schema is used to define which data is available for the users.
 >
@@ -1072,18 +1057,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (5), data (2), database (1), application (1), next (1)
+> **Frameworks & Libraries:** [[GraphQL]] (5)
 > **UI Navigation:** go to (3)
 > **Tools:** visual studio (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [trainer] (1)
 
-#### Testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/testing?u=76281980)
+#### [Testing](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/testing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/testing?u=76281980&t=0)** - [Instructor] So now that we have created all we need to create to set up the GraphQL in our web API application, we are going to start our app and test what we have created so far.
+> **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/testing?u=76281980&t=0)** - [Instructor] So now that we have created all we need to create to set up the [[GraphQL]] in our web API application, we are going to start our app and test what we have created so far.
 >
 > **[0:11](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/testing?u=76281980&t=11)** But before we do that, we need to add one more line.
 >
@@ -1193,7 +1177,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (8), application (3), data (2), web (1), api (1)
+> **Frameworks & Libraries:** [[GraphQL]] (8)
 > **UI Navigation:** go to (7), scroll down (1), scroll up (1)
 > **Tools:** visual studio (3)
 > **Prerequisites:** set up (1), configure (1)
@@ -1207,12 +1191,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a mutation?
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/what-is-a-mutation?u=76281980)
+#### [What is a mutation?](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/what-is-a-mutation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/what-is-a-mutation?u=76281980&t=0)** - [Instructor] We have previously mentioned that any operation that involves data manipulation is done by mutation.
+> **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/what-is-a-mutation?u=76281980&t=0)** - [Instructor] We have previously mentioned that any operation that involves [[Data Manipulation]] is done by mutation.
 >
 > **[0:07](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/what-is-a-mutation?u=76281980&t=7)** To add data, you need a mutation.
 >
@@ -1222,9 +1205,9 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/what-is-a-mutation?u=76281980&t=18)** So basically, mutations are used to modify data in a data store and return a value.
 >
-> **[0:25](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/what-is-a-mutation?u=76281980&t=25)** In our case, the data store is the SQL server database.
+> **[0:25](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/what-is-a-mutation?u=76281980&t=25)** In our case, the data store is the [[Microsoft SQL Server|SQL server]] database.
 >
-> **[0:30](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/what-is-a-mutation?u=76281980&t=30)** A query in comparison to REST APIs is like the GET request.
+> **[0:30](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/what-is-a-mutation?u=76281980&t=30)** A query in comparison to [[Representational State Transfer (REST)|REST]] APIs is like the GET request.
 >
 > **[0:35](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/what-is-a-mutation?u=76281980&t=35)** And the mutations are like the state changing methods, which for example, are the POST, the DELETE, the PUT, et cetera.
 >
@@ -1232,14 +1215,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), database (2), [[Data Manipulation]] (1), [[Microsoft SQL Server|Sql server]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Data Manipulation]] (1), [[Microsoft SQL Server|Sql server]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** sql (1), rest (1), post (1), delete (1), put (1)
 > **API Endpoints:** get  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding your first mutation: Add data
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/adding-your-first-mutation-add-data?u=76281980)
+#### [Adding your first mutation: Add data](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/adding-your-first-mutation-add-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1251,7 +1233,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/adding-your-first-mutation-add-data?u=76281980&t=16)** So for that, let us go to Visual Studio and see connection.
 >
-> **[0:20](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/adding-your-first-mutation-add-data?u=76281980&t=20)** In here, I'll just go to the Solution Explorer, and then you go to the GraphQL.
+> **[0:20](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/adding-your-first-mutation-add-data?u=76281980&t=20)** In here, I'll just go to the Solution Explorer, and then you go to the [[GraphQL]].
 >
 > **[0:26](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/adding-your-first-mutation-add-data?u=76281980&t=26)** And here since we're going to add our first mutation, let us just right-click and then add a new folder.
 >
@@ -1429,7 +1411,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), data (5), [[GraphQL]] (4)
+> **Frameworks & Libraries:** [[GraphQL]] (4)
 > **UI Navigation:** go to (9), right-click (3)
 > **Analogies:** for example (2)
 > **Code Identifiers:** addcourse (1)
@@ -1437,8 +1419,7 @@ created: 2026-05-02
 > **Tools:** visual studio (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add data: Testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/add-data-testing?u=76281980)
+#### [Add data: Testing](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/add-data-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1454,7 +1435,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/add-data-testing?u=76281980&t=30)** So services.AddScoped, and then you are going to add the CourseMutation.
 >
-> **[0:42](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/add-data-testing?u=76281980&t=42)** Now, let us just import the name space for the CourseMutation and that is the GraphQL.Mutations.
+> **[0:42](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/add-data-testing?u=76281980&t=42)** Now, let us just import the name space for the CourseMutation and that is the [[GraphQL]].Mutations.
 >
 > **[0:50](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/add-data-testing?u=76281980&t=50)** Then next, let us just go to the AppSchema.
 >
@@ -1530,7 +1511,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), [[GraphQL]] (3), next (1), data (1)
+> **Frameworks & Libraries:** [[GraphQL]] (3)
 > **UI Navigation:** go to (6), scroll down (1)
 > **Code Identifiers:** addcourse (2)
 > **Prerequisites:** configure (2)
@@ -1538,8 +1519,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Mutation to update data
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/challenge-mutation-to-update-data?u=76281980)
+#### [Challenge: Mutation to update data](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/challenge-mutation-to-update-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1551,12 +1531,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), database (2), next (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Mutation to update data
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/solution-mutation-to-update-data?u=76281980)
+#### [Solution: Mutation to update data](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/solution-mutation-to-update-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1564,7 +1542,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/solution-mutation-to-update-data?u=76281980&t=9)** So now let us go to Visual Studio and check how I solved this challenge.
 >
-> **[0:15](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/solution-mutation-to-update-data?u=76281980&t=15)** In here I'll just go to the Solution Explorer, and then you go to GraphQL, then mutations, and then Course Mutation.
+> **[0:15](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/solution-mutation-to-update-data?u=76281980&t=15)** In here I'll just go to the Solution Explorer, and then you go to [[GraphQL]], then mutations, and then Course Mutation.
 >
 > **[0:25](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/solution-mutation-to-update-data?u=76281980&t=25)** Just after the current field course type, we are going to create a new one.
 >
@@ -1606,7 +1584,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/solution-mutation-to-update-data?u=76281980&t=200)** The argument is going to be of type integer.
 >
-> **[3:23](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/solution-mutation-to-update-data?u=76281980&t=203)** And we're going to use the ID key word.
+> **[3:23](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/solution-mutation-to-update-data?u=76281980&t=203)** And we're going to use the ID key [[Microsoft Word|word]].
 >
 > **[3:26](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/solution-mutation-to-update-data?u=76281980&t=206)** Now let us import the namespace for the get argument.
 >
@@ -1634,14 +1612,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), [[GraphQL]] (1), next (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[GraphQL]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** var (2), ctrl (2)
 > **UI Navigation:** go to (3)
 > **Tools:** visual studio (1)
 > **Speakers:** - [tutor] (1)
 
-#### Update data: Testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/update-data-testing?u=76281980)
+#### [Update data: Testing](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/update-data-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1721,13 +1698,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - so (1)
 
-#### Mutation to delete data
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/mutation-to-delete-data?u=76281980)
+#### [Mutation to delete data](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/mutation-to-delete-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1763,7 +1738,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/mutation-to-delete-data?u=76281980&t=171)** Now let us save all the changes and run this project.
 >
-> **[2:59](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/mutation-to-delete-data?u=76281980&t=179)** Now here, I'll just go to ui and then graphql, and I'm going to use a mutation, instead I'm just going to pass the query so we can see the data, and then courses, and just id and name, and then click the play button.
+> **[2:59](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/mutation-to-delete-data?u=76281980&t=179)** Now here, I'll just go to ui and then [[GraphQL]], and I'm going to use a mutation, instead I'm just going to pass the query so we can see the data, and then courses, and just id and name, and then click the play button.
 >
 > **[3:18](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/mutation-to-delete-data?u=76281980&t=198)** So we do have two courses in our database.
 >
@@ -1775,7 +1750,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), data (2), next (1), [[GraphQL]] (1)
+> **Frameworks & Libraries:** [[GraphQL]] (1)
 > **Code Identifiers:** deletecourse (5)
 > **UI Navigation:** go to (3)
 > **Tools:** visual studio (2)
@@ -1786,8 +1761,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Adding relationship data
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/adding-relationship-data?u=76281980)
+#### [Adding relationship data](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/adding-relationship-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1883,9 +1857,9 @@ created: 2026-05-02
 >
 > **[4:58](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/adding-relationship-data?u=76281980&t=298)** Then here if you just go to the server explorer and then here connect to your database, so just right click, add a connection, and the server name is ETR and then sqlexpress.
 >
-> **[5:21](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/adding-relationship-data?u=76281980&t=321)** I'll use windows authentication and then here sqlserver.
+> **[5:21](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/adding-relationship-data?u=76281980&t=321)** I'll use [[Windows]] authentication and then here sqlserver.
 >
-> **[5:33](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/adding-relationship-data?u=76281980&t=333)** And then using your windows authentication you'll search for the database, that is this database and if you do not know your database name you can just go to the Solution Explorer then go to appsettings.json file and in here you have the data source, this is my database.
+> **[5:33](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/adding-relationship-data?u=76281980&t=333)** And then using your windows authentication you'll search for the database, that is this database and if you do not know your database name you can just go to the Solution Explorer then go to appsettings.[[JSON]] file and in here you have the data source, this is my database.
 >
 > **[5:55](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/adding-relationship-data?u=76281980&t=355)** So let me just go back to the Server Explorer and we have this connection here, just refresh, and you can that we have two tables.
 >
@@ -1903,7 +1877,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (11), data (9), [[Windows]] (2), [[Search]] (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[JSON]] (1)
 > **UI Navigation:** go to (12), click on (1)
 > **File Paths:** appsettings.json (1)
 > **Env Vars:** etr (1)
@@ -1911,8 +1885,7 @@ created: 2026-05-02
 > **Tools:** visual studio (1)
 > **Speakers:** - [instructor] (1)
 
-#### Query to get relational data
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/query-to-get-relational-data?u=76281980)
+#### [Query to get relational data](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/query-to-get-relational-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1928,7 +1901,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/query-to-get-relational-data?u=76281980&t=20)** We need to create a new type in the Graph QL section.
 >
-> **[0:24](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/query-to-get-relational-data?u=76281980&t=24)** So, in the Solution Explorer, I'll just go in here to GraphQL, and then in the Types we have in here, the CourseType that I'll just actually copy paste these file.
+> **[0:24](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/query-to-get-relational-data?u=76281980&t=24)** So, in the Solution Explorer, I'll just go in here to [[GraphQL]], and then in the Types we have in here, the CourseType that I'll just actually copy paste these file.
 >
 > **[0:37](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/query-to-get-relational-data?u=76281980&t=37)** So control + C, control + V, and this is going to be the ReviewType.
 >
@@ -1982,7 +1955,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/query-to-get-relational-data?u=76281980&t=213)** In here we're going to have courses that include, they're going to also include the reviews.
 >
-> **[3:40](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/query-to-get-relational-data?u=76281980&t=220)** So let us import the namespace for the Include() that is going to be the Microsoft.EntityFrameworkCore Then your n that goes to n.Reviews.
+> **[3:40](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/query-to-get-relational-data?u=76281980&t=220)** So let us import the namespace for the Include() that is going to be the [[Microsoft]].EntityFrameworkCore Then your n that goes to n.Reviews.
 >
 > **[3:53](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/query-to-get-relational-data?u=76281980&t=233)** Now let us save all the changes and this is all you need to do on this part.
 >
@@ -1990,14 +1963,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), database (2), next (2), [[GraphQL]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[GraphQL]] (1), [[Microsoft]] (1)
 > **UI Navigation:** go to (3), scroll down (1)
 > **Tools:** visual studio (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Get relational data: Testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/get-relational-data-testing?u=76281980)
+#### [Get relational data: Testing](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/get-relational-data-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2007,7 +1979,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/get-relational-data-testing?u=76281980&t=10)** And then in here, start this project.
 >
-> **[0:13](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/get-relational-data-testing?u=76281980&t=13)** Then here, let us go to UI, then graphql.
+> **[0:13](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/get-relational-data-testing?u=76281980&t=13)** Then here, let us go to UI, then [[GraphQL]].
 >
 > **[0:21](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/get-relational-data-testing?u=76281980&t=21)** Then you are going to write a query.
 >
@@ -2031,13 +2003,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (2), database (2)
+> **Frameworks & Libraries:** [[GraphQL]] (2)
 > **UI Navigation:** go to (2)
 > **Tools:** visual studio (1)
 > **Speakers:** - [instructor] (1)
 
-#### Mutation to add relational data
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/mutation-to-add-relational-data?u=76281980)
+#### [Mutation to add relational data](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/mutation-to-add-relational-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2045,7 +2016,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/mutation-to-add-relational-data?u=76281980&t=5)** For that, let us go to Visual Studio.
 >
-> **[0:08](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/mutation-to-add-relational-data?u=76281980&t=8)** In Visual Studio, the first thing that we need to do is that we need to add a new input type so that I'll just go in here to GraphQL, and then, in here, inside the Types folder, we do have the CourseInputType.
+> **[0:08](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/mutation-to-add-relational-data?u=76281980&t=8)** In Visual Studio, the first thing that we need to do is that we need to add a new input type so that I'll just go in here to [[GraphQL]], and then, in here, inside the Types folder, we do have the CourseInputType.
 >
 > **[0:21](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/mutation-to-add-relational-data?u=76281980&t=21)** So let us also add a new one, so Control + C, Control + V to just create a copy.
 >
@@ -2125,15 +2096,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), data (3), [[GraphQL]] (3), next (1)
+> **Frameworks & Libraries:** [[GraphQL]] (3)
 > **Code Identifiers:** newcourse (7), newreview (2)
 > **UI Navigation:** go to (3)
 > **CLI Commands:** find (1), make (1)
 > **Tools:** visual studio (2)
 > **Speakers:** - [instructor] (1)
 
-#### Add relational data: Testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/add-relational-data-testing?u=76281980)
+#### [Add relational data: Testing](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/add-relational-data-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2141,7 +2111,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/add-relational-data-testing?u=76281980&t=6)** So let us go to Visual Studio, and then in here, let us run this project.
 >
-> **[0:17](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/add-relational-data-testing?u=76281980&t=17)** Then it will let us go to UI and then GraphQL.
+> **[0:17](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/add-relational-data-testing?u=76281980&t=17)** Then it will let us go to UI and then [[GraphQL]].
 >
 > **[0:20](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/add-relational-data-testing?u=76281980&t=20)** Now, instead of a query, we are going to execute the mutation.
 >
@@ -2227,7 +2197,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), data (1), [[GraphQL]] (1)
+> **Frameworks & Libraries:** [[GraphQL]] (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
 > **Tools:** visual studio (1)
@@ -2238,14 +2208,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps for learning more about GraphQL API
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/next-steps-for-learning-more-about-graphql-api?u=76281980)
+#### [Next steps for learning more about GraphQL API](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/next-steps-for-learning-more-about-graphql-api?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/next-steps-for-learning-more-about-graphql-api?u=76281980&t=0)** - [Ervis] If you have made it so far, I want to thank you and congratulate you for watching this course.
 >
-> **[0:07](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/next-steps-for-learning-more-about-graphql-api?u=76281980&t=7)** Through out this course you learned about GraphQL, and you started by having an introduction into concepts, data manipulation types, et cetera.
+> **[0:07](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/next-steps-for-learning-more-about-graphql-api?u=76281980&t=7)** Through out this course you learned about [[GraphQL]], and you started by having an introduction into concepts, [[Data Manipulation]] types, et cetera.
 >
 > **[0:17](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/next-steps-for-learning-more-about-graphql-api?u=76281980&t=17)** The next you learned how to query data in GraphQL, where you build a query with two fields to get all the courses and a single course by IT.
 >
@@ -2261,7 +2230,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/next-steps-for-learning-more-about-graphql-api?u=76281980&t=58)** So for example, you can try to update relational data with GraphQL, or delete relational data with GraphQL.
 >
-> **[1:06](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/next-steps-for-learning-more-about-graphql-api?u=76281980&t=66)** In any case, if you have any questions about this course or .NET Technologies in general, feel free to get in touch with me via Twitter or LinkedIn.
+> **[1:06](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/next-steps-for-learning-more-about-graphql-api?u=76281980&t=66)** In any case, if you have any questions about this course or .NET Technologies in general, feel free to get in touch with me via Twitter or [[LinkedIn]].
 >
 > **[1:17](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/next-steps-for-learning-more-about-graphql-api?u=76281980&t=77)** And if you want to learn more about .NET Technologies, check out my other courses here.
 >
@@ -2269,7 +2238,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[GraphQL]] (5), next (4), [[LinkedIn]] (2), [[Data Manipulation]] (1)
+> **Frameworks & Libraries:** [[GraphQL]] (5), [[LinkedIn]] (2), [[Data Manipulation]] (1)
 > **Env Vars:** net (3)
 > **Analogies:** for example (1)
 > **Speakers:** - [ervis] (1)

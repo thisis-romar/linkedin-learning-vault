@@ -72,12 +72,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-sql/introduction-to-sql?u=76281980)
+#### [Introduction to SQL](https://www.linkedin.com/learning/hands-on-introduction-sql/introduction-to-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-sql/introduction-to-sql?u=76281980&t=0)** - [Deepa] You've probably heard of databases since you were in grade school, and maybe you already know databases are used to store data.
+> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-sql/introduction-to-sql?u=76281980&t=0)** - [Deepa] You've probably heard of [[Databases]] since you were in grade school, and maybe you already know databases are used to store data.
 >
 > **[0:09](https://www.linkedin.com/learning/hands-on-introduction-sql/introduction-to-sql?u=76281980&t=9)** But how does the data get there?
 >
@@ -89,7 +88,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/hands-on-introduction-sql/introduction-to-sql?u=76281980&t=23)** I'm a database developer.
 >
-> **[0:25](https://www.linkedin.com/learning/hands-on-introduction-sql/introduction-to-sql?u=76281980&t=25)** I've designed this course to get you up and running with database tables using the SQL language.
+> **[0:25](https://www.linkedin.com/learning/hands-on-introduction-sql/introduction-to-sql?u=76281980&t=25)** I've designed this course to get you up and running with database tables using the [[SQL]] language.
 >
 > **[0:32](https://www.linkedin.com/learning/hands-on-introduction-sql/introduction-to-sql?u=76281980&t=32)** I'll show you how to use the common statements in order to manipulate data within tables.
 >
@@ -101,16 +100,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Databases]] (3), database (2), [[SQL]] (2)
+> **Frameworks & Libraries:** [[Databases]] (3), [[SQL]] (2)
 > **Env Vars:** sql (2)
 > **Speakers:** - [deepa] (1)
 
-#### Using GitHub Codespaces with this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-sql/using-github-codespaces-with-this-course-23832714?u=76281980)
+#### [Using GitHub Codespaces with this course](https://www.linkedin.com/learning/hands-on-introduction-sql/using-github-codespaces-with-this-course-23832714?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-sql/using-github-codespaces-with-this-course-23832714?u=76281980&t=0)** - [Instructor] On your course interface, find the GitHub Codespaces Open button.
+> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-sql/using-github-codespaces-with-this-course-23832714?u=76281980&t=0)** - [Instructor] On your course interface, find the [[GitHub]] [[Codespaces]] Open button.
 >
 > **[0:05](https://www.linkedin.com/learning/hands-on-introduction-sql/using-github-codespaces-with-this-course-23832714?u=76281980&t=5)** Click on it to go to GitHub.
 >
@@ -126,7 +124,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/hands-on-introduction-sql/using-github-codespaces-with-this-course-23832714?u=76281980&t=32)** This is where we have all the files that are needed for our project.
 >
-> **[0:37](https://www.linkedin.com/learning/hands-on-introduction-sql/using-github-codespaces-with-this-course-23832714?u=76281980&t=37)** I will be adding all the SQL queries here under the queries folder.
+> **[0:37](https://www.linkedin.com/learning/hands-on-introduction-sql/using-github-codespaces-with-this-course-23832714?u=76281980&t=37)** I will be adding all the [[SQL]] queries here under the queries folder.
 >
 > **[0:43](https://www.linkedin.com/learning/hands-on-introduction-sql/using-github-codespaces-with-this-course-23832714?u=76281980&t=43)** These three are example SQL statements.
 >
@@ -152,7 +150,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (3), [[GitHub]] (2), [[Codespaces]] (1), database (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[GitHub]] (2), [[Codespaces]] (1)
 > **UI Navigation:** click on (6), navigate to (2), go to (1)
 > **Env Vars:** sql (3)
 > **CLI Commands:** find (2)
@@ -165,12 +163,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Fetch data
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-sql/fetch-data?u=76281980)
+#### [Fetch data](https://www.linkedin.com/learning/hands-on-introduction-sql/fetch-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-sql/fetch-data?u=76281980&t=0)** - [Facilitator] The first thing we need to learn is how to fetch data from different tables in our database.
+> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-sql/fetch-data?u=76281980&t=0)** - [Facilitator] The first thing we need to learn is how to [[Fetch]] data from different tables in our database.
 >
 > **[0:06](https://www.linkedin.com/learning/hands-on-introduction-sql/fetch-data?u=76281980&t=6)** We use the SELECT statement to fetch data from the tables.
 >
@@ -182,7 +179,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/hands-on-introduction-sql/fetch-data?u=76281980&t=25)** We can also fetch data from one or multiple tables by using joints, which we learn later.
 >
-> **[0:32](https://www.linkedin.com/learning/hands-on-introduction-sql/fetch-data?u=76281980&t=32)** SQL statements are not case sensitive, but the best practice is to write the keywords in uppercase and the table names, column names, and all others in lowercase.
+> **[0:32](https://www.linkedin.com/learning/hands-on-introduction-sql/fetch-data?u=76281980&t=32)** [[SQL]] statements are not case sensitive, but the best practice is to write the keywords in uppercase and the table names, column names, and all others in lowercase.
 >
 > **[0:44](https://www.linkedin.com/learning/hands-on-introduction-sql/fetch-data?u=76281980&t=44)** Keywords cannot be abbreviated or cannot be split across lines.
 >
@@ -208,7 +205,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/hands-on-introduction-sql/fetch-data?u=76281980&t=99)** So now let's look at a few examples in codespace.
 >
-> **[1:43](https://www.linkedin.com/learning/hands-on-introduction-sql/fetch-data?u=76281980&t=103)** On your codes interface, find the GitHub codespace's open button.
+> **[1:43](https://www.linkedin.com/learning/hands-on-introduction-sql/fetch-data?u=76281980&t=103)** On your codes interface, find the [[GitHub]] codespace's open button.
 >
 > **[1:49](https://www.linkedin.com/learning/hands-on-introduction-sql/fetch-data?u=76281980&t=109)** Click on it to go to GitHub.
 >
@@ -300,7 +297,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fetch]] (11), data (7), [[SQL]] (7), database (2), [[GitHub]] (2)
+> **Frameworks & Libraries:** [[Fetch]] (11), [[SQL]] (7), [[GitHub]] (2)
 > **Env Vars:** select (7), sql (7), emp (4), distinct (1)
 > **UI Navigation:** click on (8), go to (2), navigate to (2)
 > **SQL:** select (7)
@@ -309,8 +306,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1), means that (1)
 > **Best Practices:** best practice (1)
 
-#### Filtering data
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-sql/filtering-data?u=76281980)
+#### [Filtering data](https://www.linkedin.com/learning/hands-on-introduction-sql/filtering-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -366,7 +362,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/hands-on-introduction-sql/filtering-data?u=76281980&t=135)** Now that we are on chapter 1 video 2, we will have to navigate to the corresponding branch.
 >
-> **[2:23](https://www.linkedin.com/learning/hands-on-introduction-sql/filtering-data?u=76281980&t=143)** We will have to do this step once we start a new video so that we have the appropriate SQL statements.
+> **[2:23](https://www.linkedin.com/learning/hands-on-introduction-sql/filtering-data?u=76281980&t=143)** We will have to do this step once we start a new video so that we have the appropriate [[SQL]] statements.
 >
 > **[2:30](https://www.linkedin.com/learning/hands-on-introduction-sql/filtering-data?u=76281980&t=150)** So let's navigate to 01_02 Branch.
 >
@@ -516,7 +512,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[SQL]] (3)
+> **Frameworks & Libraries:** [[SQL]] (3)
 > **Env Vars:** where (8), select (4), king (3), sql (3), between (2)
 > **SQL:** where (8), select (4), order by (1)
 > **UI Navigation:** go to (5), navigate to (3), click on (2)
@@ -525,8 +521,7 @@ created: 2026-05-02
 > **Code Identifiers:** emp_tab (1)
 > **Prerequisites:** before we start (1)
 
-#### Types of functions, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-sql/types-of-functions-part-1?u=76281980)
+#### [Types of functions, part 1](https://www.linkedin.com/learning/hands-on-introduction-sql/types-of-functions-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -562,7 +557,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/hands-on-introduction-sql/types-of-functions-part-1?u=76281980&t=92)** Let's go to conditional functions and here, we are trying to change the salary based on the job of an employee.
 >
-> **[1:42](https://www.linkedin.com/learning/hands-on-introduction-sql/types-of-functions-part-1?u=76281980&t=102)** So here what we did is, select and we are trying to fetch name, job, salary and the fourth column would be revised salary because that is being given as the alias name here and what content would be there in that column is we are trying to check for the job of the employee that is whether he's a manager, analyst, clerk or something else and then calculating the revised salary for every employee and displaying that in the fourth column.
+> **[1:42](https://www.linkedin.com/learning/hands-on-introduction-sql/types-of-functions-part-1?u=76281980&t=102)** So here what we did is, select and we are trying to [[Fetch]] name, job, salary and the fourth column would be revised salary because that is being given as the alias name here and what content would be there in that column is we are trying to check for the job of the employee that is whether he's a manager, analyst, clerk or something else and then calculating the revised salary for every employee and displaying that in the fourth column.
 >
 > **[2:22](https://www.linkedin.com/learning/hands-on-introduction-sql/types-of-functions-part-1?u=76281980&t=142)** So let me run this.
 >
@@ -604,7 +599,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Fetch]] (2), data (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (2)
 > **Env Vars:** upper (2), lower (2), substr (2), select (1), round (1)
 > **Versions:** 92.43 (2), 92.427 (1), 92.423 (1), 92.42 (1)
 > **UI Navigation:** go to (3)
@@ -612,8 +607,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - now (1)
 
-#### Types of functions, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-sql/types-of-functions-part-2?u=76281980)
+#### [Types of functions, part 2](https://www.linkedin.com/learning/hands-on-introduction-sql/types-of-functions-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -741,7 +735,7 @@ created: 2026-05-02
 >
 > **[7:13](https://www.linkedin.com/learning/hands-on-introduction-sql/types-of-functions-part-2?u=76281980&t=433)** So instead of giving this condition here in the WHERE condition, we have something called HAVING clause, which we can use to give these group functions conditions.
 >
-> **[7:27](https://www.linkedin.com/learning/hands-on-introduction-sql/types-of-functions-part-2?u=76281980&t=447)** So first of all, let's try to fetch the highest salary in every department.
+> **[7:27](https://www.linkedin.com/learning/hands-on-introduction-sql/types-of-functions-part-2?u=76281980&t=447)** So first of all, let's try to [[Fetch]] the highest salary in every department.
 >
 > **[7:32](https://www.linkedin.com/learning/hands-on-introduction-sql/types-of-functions-part-2?u=76281980&t=452)** So for that, I give SELECT department number, MAX salary from emp_tab, GROUP BY department number because I want the highest salary in every department.
 >
@@ -765,7 +759,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (1)
 > **Env Vars:** group (15), where (8), select (7), max (7), having (6)
 > **SQL:** group by (14), where (8), select (7), having (6), order by (3)
 > **Code Identifiers:** emp_tab (6), group_conditions (1)
@@ -773,14 +767,13 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using multiple tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-sql/using-multiple-tables?u=76281980)
+#### [Using multiple tables](https://www.linkedin.com/learning/hands-on-introduction-sql/using-multiple-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/hands-on-introduction-sql/using-multiple-tables?u=76281980&t=0)** - [Instructor] Now let's learn about the different kinds of joins and subqueries.
 >
-> **[0:04](https://www.linkedin.com/learning/hands-on-introduction-sql/using-multiple-tables?u=76281980&t=4)** Joins are used to fetch data from one or more tables at a time.
+> **[0:04](https://www.linkedin.com/learning/hands-on-introduction-sql/using-multiple-tables?u=76281980&t=4)** Joins are used to [[Fetch]] data from one or more tables at a time.
 >
 > **[0:08](https://www.linkedin.com/learning/hands-on-introduction-sql/using-multiple-tables?u=76281980&t=8)** Based on the data we need, joins are categorized into four types: inner, right, left and full outer join.
 >
@@ -850,7 +843,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/hands-on-introduction-sql/using-multiple-tables?u=76281980&t=163)** Now let's go take a look at the other outer joins.
 >
-> **[2:48](https://www.linkedin.com/learning/hands-on-introduction-sql/using-multiple-tables?u=76281980&t=168)** Now, SQL supports three kinds of outer joins, that is left, right and full outer joins.
+> **[2:48](https://www.linkedin.com/learning/hands-on-introduction-sql/using-multiple-tables?u=76281980&t=168)** Now, [[SQL]] supports three kinds of outer joins, that is left, right and full outer joins.
 >
 > **[2:55](https://www.linkedin.com/learning/hands-on-introduction-sql/using-multiple-tables?u=76281980&t=175)** But SQLite supports only left join, so we will take a look at that first, and then I'm going to explain how the right and full outer join would work like.
 >
@@ -988,7 +981,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fetch]] (6), data (4), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (6), [[SQL]] (1)
 > **Code Identifiers:** country_tab (10), states_tab (9), country_id (8), country_ids (3), emp_tab (2)
 > **Env Vars:** select (14), usa (4), join (3), inner (1), sql (1)
 > **SQL:** select (14), join (2), inner join (1)
@@ -1002,12 +995,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create new tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-sql/create-new-tables?u=76281980)
+#### [Create new tables](https://www.linkedin.com/learning/hands-on-introduction-sql/create-new-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-sql/create-new-tables?u=76281980&t=0)** - [Instructor] Now that we have learned how to fetch and filter data from existing tables, let's learn how to create new tables.
+> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-sql/create-new-tables?u=76281980&t=0)** - [Instructor] Now that we have learned how to [[Fetch]] and filter data from existing tables, let's learn how to create new tables.
 >
 > **[0:08](https://www.linkedin.com/learning/hands-on-introduction-sql/create-new-tables?u=76281980&t=8)** For this, we use the create statement.
 >
@@ -1025,7 +1017,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/hands-on-introduction-sql/create-new-tables?u=76281980&t=55)** We use this method when we want to create a table by using another table's data.
 >
-> **[1:01](https://www.linkedin.com/learning/hands-on-introduction-sql/create-new-tables?u=76281980&t=61)** But this feature is available in a few databases like Oracle.
+> **[1:01](https://www.linkedin.com/learning/hands-on-introduction-sql/create-new-tables?u=76281980&t=61)** But this feature is available in a few [[Databases]] like Oracle.
 >
 > **[1:05](https://www.linkedin.com/learning/hands-on-introduction-sql/create-new-tables?u=76281980&t=65)** If column specifications are given, then number of column specifications and number of columns in the sub query must be equal.
 >
@@ -1105,15 +1097,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Fetch]] (1), feature (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (1), [[Databases]] (1)
 > **Definitions:** is a  (6), means that (2), stands for (1)
 > **Env Vars:** ddl (3)
 > **Documentation:** specification (3)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Change table structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-sql/change-table-structure?u=76281980)
+#### [Change table structure](https://www.linkedin.com/learning/hands-on-introduction-sql/change-table-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1163,7 +1154,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/hands-on-introduction-sql/change-table-structure?u=76281980&t=133)** Let's go to the database and if we take a look over here, we can see that the table name has changed to "new states."
 >
-> **[2:25](https://www.linkedin.com/learning/hands-on-introduction-sql/change-table-structure?u=76281980&t=145)** Let's go back to our SQL file.
+> **[2:25](https://www.linkedin.com/learning/hands-on-introduction-sql/change-table-structure?u=76281980&t=145)** Let's go back to our [[SQL]] file.
 >
 > **[2:29](https://www.linkedin.com/learning/hands-on-introduction-sql/change-table-structure?u=76281980&t=149)** Now, if I want to rename the column name, I have to ALTER TABLE, and since we have modified the table name to "new states" I give that name, RENAME COLUMN.
 >
@@ -1177,7 +1168,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/hands-on-introduction-sql/change-table-structure?u=76281980&t=189)** And under "new states," the column name has been renamed to "testing."
 >
-> **[3:17](https://www.linkedin.com/learning/hands-on-introduction-sql/change-table-structure?u=76281980&t=197)** The drop feature is not supported in SQLite but we can use the syntax to use with other databases.
+> **[3:17](https://www.linkedin.com/learning/hands-on-introduction-sql/change-table-structure?u=76281980&t=197)** The drop feature is not supported in SQLite but we can use the syntax to use with other [[Databases]].
 >
 > **[3:26](https://www.linkedin.com/learning/hands-on-introduction-sql/change-table-structure?u=76281980&t=206)** So this is the syntax, it's ALTER TABLE, table name, DROP, and the column name.
 >
@@ -1185,7 +1176,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), data (1), [[SQL]] (1), feature (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[Databases]] (1)
 > **Env Vars:** alter (8), table (4), column (2), rename (2), ddl (1)
 > **UI Navigation:** go to (6)
 > **SQL:** alter table (4)
@@ -1193,8 +1184,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - let (1)
 
-#### Add new rows to a table
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-sql/add-new-rows-to-a-table?u=76281980)
+#### [Add new rows to a table](https://www.linkedin.com/learning/hands-on-introduction-sql/add-new-rows-to-a-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1284,7 +1274,7 @@ created: 2026-05-02
 >
 > **[5:07](https://www.linkedin.com/learning/hands-on-introduction-sql/add-new-rows-to-a-table?u=76281980&t=307)** The other way to do so is by creating a script file.
 >
-> **[5:11](https://www.linkedin.com/learning/hands-on-introduction-sql/add-new-rows-to-a-table?u=76281980&t=311)** A script file is nothing but a collection of SQL statements put together and stored in a file.
+> **[5:11](https://www.linkedin.com/learning/hands-on-introduction-sql/add-new-rows-to-a-table?u=76281980&t=311)** A script file is nothing but a collection of [[SQL]] statements put together and stored in a file.
 >
 > **[5:18](https://www.linkedin.com/learning/hands-on-introduction-sql/add-new-rows-to-a-table?u=76281980&t=318)** And that file is executed whenever it's needed.
 >
@@ -1302,7 +1292,7 @@ created: 2026-05-02
 >
 > **[6:05](https://www.linkedin.com/learning/hands-on-introduction-sql/add-new-rows-to-a-table?u=76281980&t=365)** But if a condition is specified, only those rows which satisfy that criteria will be copied to the new table.
 >
-> **[6:12](https://www.linkedin.com/learning/hands-on-introduction-sql/add-new-rows-to-a-table?u=76281980&t=372)** INSERT statement is a Data Manipulation Language statement, also known as a DML statement.
+> **[6:12](https://www.linkedin.com/learning/hands-on-introduction-sql/add-new-rows-to-a-table?u=76281980&t=372)** INSERT statement is a [[Data Manipulation]] Language statement, also known as a DML statement.
 >
 > **[6:20](https://www.linkedin.com/learning/hands-on-introduction-sql/add-new-rows-to-a-table?u=76281980&t=380)** We need to commit the INSERT statement changes to make them permanent.
 >
@@ -1310,7 +1300,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (2), next (1), [[SQL]] (1), [[Data Manipulation]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[Data Manipulation]] (1)
 > **Env Vars:** insert (15), into (3), values (3), where (3), select (2)
 > **SQL:** insert into (3), where (3), select (2)
 > **Code Identifiers:** table_name (2), location_id (2), new_table (1), old_table_name (1)
@@ -1319,8 +1309,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 
-#### Delete rows in a table
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-sql/delete-rows-in-a-table?u=76281980)
+#### [Delete rows in a table](https://www.linkedin.com/learning/hands-on-introduction-sql/delete-rows-in-a-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1350,7 +1339,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/hands-on-introduction-sql/delete-rows-in-a-table?u=76281980&t=50)** So let's take a look at few examples for this.
 >
-> **[0:53](https://www.linkedin.com/learning/hands-on-introduction-sql/delete-rows-in-a-table?u=76281980&t=53)** Let's go to chapter 02, video 04, Delete.sql.
+> **[0:53](https://www.linkedin.com/learning/hands-on-introduction-sql/delete-rows-in-a-table?u=76281980&t=53)** Let's go to chapter 02, video 04, Delete.[[SQL]].
 >
 > **[1:01](https://www.linkedin.com/learning/hands-on-introduction-sql/delete-rows-in-a-table?u=76281980&t=61)** Click here and run the SELECT statement.
 >
@@ -1405,8 +1394,7 @@ created: 2026-05-02
 > **File Paths:** delete.sql (1)
 > **UI Navigation:** go to (1)
 
-#### Commit and rollback
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-sql/commit-and-rollback?u=76281980)
+#### [Commit and rollback](https://www.linkedin.com/learning/hands-on-introduction-sql/commit-and-rollback?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1490,7 +1478,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), next (1), database (1)
 > **Env Vars:** dml (4), tcl (3), ddl (2), dcl (2), select (2)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (3)
@@ -1503,8 +1490,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Modify rows and columns in tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-sql/modify-rows-and-columns-in-tables?u=76281980)
+#### [Modify rows and columns in tables](https://www.linkedin.com/learning/hands-on-introduction-sql/modify-rows-and-columns-in-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1612,7 +1598,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1)
 > **Code Identifiers:** emp_tab (10), old_emp_tab (5), table_name (1), column_name (1), ept_tab (1)
 > **Env Vars:** update (7), set (3), where (3), dml (2), select (2)
 > **SQL:** update (7), where (3), select (2)
@@ -1620,9 +1605,9 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** go to (1)
+> **Speakers:** - [instructor] (1)
 
-#### Merge rows in a table
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-sql/merge-rows-in-a-table?u=76281980)
+#### [Merge rows in a table](https://www.linkedin.com/learning/hands-on-introduction-sql/merge-rows-in-a-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1658,13 +1643,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4)
 > **Env Vars:** dml (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Drop or truncate a table
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-sql/drop-or-truncate-a-table?u=76281980)
+#### [Drop or truncate a table](https://www.linkedin.com/learning/hands-on-introduction-sql/drop-or-truncate-a-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1712,15 +1695,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), data (1), next (1)
 > **Env Vars:** truncate (5), delete (4), ddl (2), drop (2)
 > **Code Identifiers:** dept_copy_tab (3)
 > **API Endpoints:** delete  (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Rename a table
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-sql/rename-a-table?u=76281980)
+#### [Rename a table](https://www.linkedin.com/learning/hands-on-introduction-sql/rename-a-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1746,14 +1727,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-sql/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/hands-on-introduction-sql/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/hands-on-introduction-sql/next-steps?u=76281980&t=0)** - [Instructor] Thank you so much for joining me for this course.
 >
-> **[0:03](https://www.linkedin.com/learning/hands-on-introduction-sql/next-steps?u=76281980&t=3)** I hope you enjoyed learning about SQL statements and how they can be used to create, edit and retrieve information from databases.
+> **[0:03](https://www.linkedin.com/learning/hands-on-introduction-sql/next-steps?u=76281980&t=3)** I hope you enjoyed learning about [[SQL]] statements and how they can be used to create, edit and retrieve information from [[Databases]].
 >
 > **[0:13](https://www.linkedin.com/learning/hands-on-introduction-sql/next-steps?u=76281980&t=13)** If you wish to continue your database journey, I suggest you learn a bit more about database objects other than tables, such as views, synonyms, index, et cetera.
 >
@@ -1765,7 +1745,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (3), database (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Databases]] (1)
 > **Env Vars:** sql (3)
 > **Analogies:** such as (1)
 > **Prerequisites:** getting started (1)

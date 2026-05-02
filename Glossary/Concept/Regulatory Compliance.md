@@ -17,7 +17,7 @@ tags:
   - topic/network-and-system-administration
   - topic/artificial-intelligence
   - topic/data-science
-course_count: 84
+course_count: 85
 created: 2026-05-02
 ---
 
@@ -25,7 +25,7 @@ created: 2026-05-02
 
 # Regulatory Compliance
 
-> **Type:** Concept | **Courses:** 84 | **Topics:** [[Cloud Computing]], [[Cybersecurity]], [[Network and System Administration]], [[Artificial Intelligence (AI)]], [[Data Science]]
+> **Type:** Concept | **Courses:** 85 | **Topics:** [[Cloud Computing]], [[Cybersecurity]], [[Network and System Administration]], [[Artificial Intelligence (AI)]], [[Data Science]]
 
 ## Courses
 
@@ -40,7 +40,7 @@ created: 2026-05-02
 9. [[Microsoft Azure- Security Concepts]] — 3 mentions
 10. [[Microsoft Azure Essentials By Microsoft Press]] — 3 mentions
 
-> [!note]- See all 84 courses
+> [!note]- See all 85 courses
 > 11. [[Data Versioning, Lineage, and Quality Monitoring for AI]] — 3 mentions
 > 12. [[Putting Itil Into Practice Applying Itil 4 Foundation Concepts]] — 3 mentions
 > 13. [[Transition from Data Science to Data Engineering]] — 3 mentions
@@ -93,34 +93,35 @@ created: 2026-05-02
 > 60. [[Ethical Data Collection for AI Implementation]] — 1 mentions
 > 61. [[AWS- Storage and Data Management]] — 1 mentions
 > 62. [[The AI Ecosystem for Developers- Models, Datasets, and APIs]] — 1 mentions
-> 63. [[Privacy, Governance, and Compliance- Data Classification and Inventory]] — 1 mentions
-> 64. [[Azure Administration Essential Training]] — 1 mentions
-> 65. [[Manage Storage in Azure]] — 1 mentions
-> 66. [[Microsoft Azure Ai Essentials Workloads And Machine Learning On Azure]] — 1 mentions
-> 67. [[Cisco Network Security- Secure Access]] — 1 mentions
-> 68. [[Building Your Cybersecurity Talent Pipeline]] — 1 mentions
-> 69. [[AWS Essential Training for Architects]] — 1 mentions
-> 70. [[Wireshark Essential Training]] — 1 mentions
-> 71. [[Azure AI for Developers- Content Safety and Responsible AI]] — 1 mentions
-> 72. [[Google Cloud Digital Leader Cert Prep 1 Digital Transformation With Google Cloud]] — 1 mentions
-> 73. [[Google Cloud Digital Leader Cert Prep- 2 Exploring Data Transformation with Google Cloud]] — 1 mentions
-> 74. [[Google Cloud Digital Leader Cert Prep- 6 Scaling with Google Cloud Operations]] — 1 mentions
-> 75. [[Putting ITIL® into Practice- Change Enablement]] — 1 mentions
-> 76. [[Securing Containers and Kubernetes Ecosystem]] — 1 mentions
-> 77. [[AI Pricing and ROI- A Technical Breakdown]] — 1 mentions
-> 78. [[Top Ten AI Prompts]] — 1 mentions
-> 79. [[OWASP Top 10- -1 Broken Access Control and -2 Cryptographic Failures]] — 1 mentions
-> 80. [[OWASP Top 10- -9 Security Logging and Monitoring Failures and -10 Server-Side Request Forgery]] — 1 mentions
-> 81. [[Blockchain for Developers- Hyperledger Fabric on Azure]] — 1 mentions
-> 82. [[Complete Guide to AWS Software Deployment]] — 1 mentions
-> 83. [[Cybersecurity Awareness- Cloud Security (2022)]] — 1 mentions
-> 84. [[AI Product Development- Secure by Design]] — 1 mentions
+> 63. [[Azure Networking and Security for Beginners- Tools and Services]] — 1 mentions
+> 64. [[Privacy, Governance, and Compliance- Data Classification and Inventory]] — 1 mentions
+> 65. [[Azure Administration Essential Training]] — 1 mentions
+> 66. [[Manage Storage in Azure]] — 1 mentions
+> 67. [[Microsoft Azure Ai Essentials Workloads And Machine Learning On Azure]] — 1 mentions
+> 68. [[Cisco Network Security- Secure Access]] — 1 mentions
+> 69. [[Building Your Cybersecurity Talent Pipeline]] — 1 mentions
+> 70. [[AWS Essential Training for Architects]] — 1 mentions
+> 71. [[Wireshark Essential Training]] — 1 mentions
+> 72. [[Azure AI for Developers- Content Safety and Responsible AI]] — 1 mentions
+> 73. [[Google Cloud Digital Leader Cert Prep 1 Digital Transformation With Google Cloud]] — 1 mentions
+> 74. [[Google Cloud Digital Leader Cert Prep- 2 Exploring Data Transformation with Google Cloud]] — 1 mentions
+> 75. [[Google Cloud Digital Leader Cert Prep- 6 Scaling with Google Cloud Operations]] — 1 mentions
+> 76. [[Putting ITIL® into Practice- Change Enablement]] — 1 mentions
+> 77. [[Securing Containers and Kubernetes Ecosystem]] — 1 mentions
+> 78. [[AI Pricing and ROI- A Technical Breakdown]] — 1 mentions
+> 79. [[Top Ten AI Prompts]] — 1 mentions
+> 80. [[OWASP Top 10- -1 Broken Access Control and -2 Cryptographic Failures]] — 1 mentions
+> 81. [[OWASP Top 10- -9 Security Logging and Monitoring Failures and -10 Server-Side Request Forgery]] — 1 mentions
+> 82. [[Blockchain for Developers- Hyperledger Fabric on Azure]] — 1 mentions
+> 83. [[Complete Guide to AWS Software Deployment]] — 1 mentions
+> 84. [[Cybersecurity Awareness- Cloud Security (2022)]] — 1 mentions
+> 85. [[AI Product Development- Secure by Design]] — 1 mentions
 
 ## Learning Paths
 
 1. [[Optimizing Enterprise Security and Productivity Using Microsoft 365]] — 20 total mentions
-2. [[Understanding Generative AI for Tech Leaders]] — 7 total mentions
-3. [[Azure Administration for Beginners- Management Tools, Services, and Security]] — 6 total mentions
+2. [[Azure Administration for Beginners- Management Tools, Services, and Security]] — 7 total mentions
+3. [[Understanding Generative AI for Tech Leaders]] — 7 total mentions
 4. [[The Top Skills IT Professionals Have Right Now]] — 6 total mentions
 5. [[Introduction to Fundamental Skills for Data Work- Data Management]] — 6 total mentions
 6. [[Mastering Data Governance and Ethics]] — 6 total mentions

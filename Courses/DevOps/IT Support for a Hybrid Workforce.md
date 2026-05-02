@@ -69,14 +69,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding the needs of a hybrid team
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/understanding-the-needs-of-a-hybrid-team?u=76281980)
+#### [Understanding the needs of a hybrid team](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/understanding-the-needs-of-a-hybrid-team?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/understanding-the-needs-of-a-hybrid-team?u=76281980&t=0)** - Your organization has a problem.
 >
-> **[0:02](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/understanding-the-needs-of-a-hybrid-team?u=76281980&t=2)** You have employees working from home, employees working at the office, and now employees who work at both locations.
+> **[0:02](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/understanding-the-needs-of-a-hybrid-team?u=76281980&t=2)** You have employees working from home, employees working at the [[Microsoft Office|office]], and now employees who work at both locations.
 >
 > **[0:09](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/understanding-the-needs-of-a-hybrid-team?u=76281980&t=9)** How do you set up your employees for success in this type of situation?
 >
@@ -86,7 +85,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/understanding-the-needs-of-a-hybrid-team?u=76281980&t=21)** My name is Robert McMillan.
 >
-> **[0:23](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/understanding-the-needs-of-a-hybrid-team?u=76281980&t=23)** I'm a college was professor in Information Systems and a Microsoft certified trainer.
+> **[0:23](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/understanding-the-needs-of-a-hybrid-team?u=76281980&t=23)** I'm a college was professor in Information Systems and a [[Microsoft]] certified trainer.
 >
 > **[0:28](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/understanding-the-needs-of-a-hybrid-team?u=76281980&t=28)** I have over 20 years experience working in information technology and I have been a part of all these different scenarios.
 >
@@ -106,7 +105,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), data (1), [[Microsoft]] (1), vpn (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Microsoft]] (1)
 > **Prerequisites:** set up (2)
 > **Env Vars:** vpn (1)
 > **Warnings:** troubleshoot (1)
@@ -117,14 +116,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are the workforce types that exist today?
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/what-are-the-workforce-types-that-exist-today?u=76281980)
+#### [What are the workforce types that exist today?](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/what-are-the-workforce-types-that-exist-today?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/what-are-the-workforce-types-that-exist-today?u=76281980&t=0)** - The new world we live in today isn't the one we had just a few years ago.
 >
-> **[0:05](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/what-are-the-workforce-types-that-exist-today?u=76281980&t=5)** We've had remote workers connecting to the office since the 1990s, but this was always a small group of typically very mobile people.
+> **[0:05](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/what-are-the-workforce-types-that-exist-today?u=76281980&t=5)** We've had remote workers connecting to the [[Microsoft Office|office]] since the 1990s, but this was always a small group of typically very mobile people.
 >
 > **[0:13](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/what-are-the-workforce-types-that-exist-today?u=76281980&t=13)** We used to call them road warriors, but now we have a new reality.
 >
@@ -154,13 +152,13 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/what-are-the-workforce-types-that-exist-today?u=76281980&t=94)** They'll work from both locations, depending on the need to meet with staff or clients, and they'll need to be quite mobile and may require an office in both locations.
 >
-> **[1:45](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/what-are-the-workforce-types-that-exist-today?u=76281980&t=105)** This is going to create some interesting challenges for the data security team.
+> **[1:45](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/what-are-the-workforce-types-that-exist-today?u=76281980&t=105)** This is going to create some interesting challenges for the [[Data Security]] team.
 >
 > **[1:50](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/what-are-the-workforce-types-that-exist-today?u=76281980&t=110)** You'll need to devise a strategy that not only allows remote and hybrid workers to be able to seamlessly access data, but they'll need to do it in a secure manner.
 >
 > **[2:00](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/what-are-the-workforce-types-that-exist-today?u=76281980&t=120)** Having secure data is only the beginning, however, because much of this can be circumvented by the user without proper training when confronted with socially engineered attacks.
 >
-> **[2:10](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/what-are-the-workforce-types-that-exist-today?u=76281980&t=130)** This has been known to happen with spoofed emails from colleagues, phone calls from supposed employees, and internet of things hacking of low security devices, such as cameras and Bluetooth to attain sensitive information.
+> **[2:10](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/what-are-the-workforce-types-that-exist-today?u=76281980&t=130)** This has been known to happen with spoofed emails from colleagues, phone calls from supposed employees, and [[IoT|internet of things]] hacking of low security devices, such as cameras and Bluetooth to attain sensitive information.
 >
 > **[2:24](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/what-are-the-workforce-types-that-exist-today?u=76281980&t=144)** The IT staff will have their hands full and will always need to stay focused in our world of electronic data piracy.
 >
@@ -168,13 +166,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (6), data (4), [[Security]] (2), business (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (6), [[Data Security]] (1), [[IoT|Internet of things]] (1)
 > **Prerequisites:** you'll need (2)
 > **Analogies:** such as (1)
 > **Speakers:** - the (1)
 
-#### What are my risks in a hybrid environment?
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/what-are-my-risks-in-a-hybrid-environment?u=76281980)
+#### [What are my risks in a hybrid environment?](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/what-are-my-risks-in-a-hybrid-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -198,7 +195,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/what-are-my-risks-in-a-hybrid-environment?u=76281980&t=58)** He knew the state laws requiring companies to inform clients when their data was stolen.
 >
-> **[1:05](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/what-are-my-risks-in-a-hybrid-environment?u=76281980&t=65)** He went back to his office, fired his IT staff and sent a letter to all of their clients.
+> **[1:05](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/what-are-my-risks-in-a-hybrid-environment?u=76281980&t=65)** He went back to his [[Microsoft Office|office]], fired his IT staff and sent a letter to all of their clients.
 >
 > **[1:10](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/what-are-my-risks-in-a-hybrid-environment?u=76281980&t=70)** This was a multimillion dollar accounting firm.
 >
@@ -228,15 +225,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Microsoft Office|Office]] (2), business (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2)
 > **Definitions:** is a  (1), stands for (1)
 > **CLI Commands:** find (1)
 > **URLs:** [tessian.com](https://tessian.com) (1)
 > **Env Vars:** tpm (1)
 > **Speakers:** - according (1)
 
-#### Create a security plan for a hybrid workforce
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/create-a-security-plan-for-a-hybrid-workforce?u=76281980)
+#### [Create a security plan for a hybrid workforce](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/create-a-security-plan-for-a-hybrid-workforce?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -250,7 +246,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/create-a-security-plan-for-a-hybrid-workforce?u=76281980&t=25)** You can bring in outside consultants and state officials to explain what can and should be done to protect your data in a legal and responsible manner.
 >
-> **[0:35](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/create-a-security-plan-for-a-hybrid-workforce?u=76281980&t=35)** Do educate your staff by having them do a video review and short test on an annual basis to keep them sharp and on the lookout for scams and phishing attempts.
+> **[0:35](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/create-a-security-plan-for-a-hybrid-workforce?u=76281980&t=35)** Do educate your staff by having them do a video review and short test on an annual basis to keep them sharp and on the lookout for scams and [[Phishing]] attempts.
 >
 > **[0:46](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/create-a-security-plan-for-a-hybrid-workforce?u=76281980&t=46)** You can add them to the list of your compliance videos, such as sexual harassment and treating others equally.
 >
@@ -264,21 +260,21 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/create-a-security-plan-for-a-hybrid-workforce?u=76281980&t=89)** Do provide necessary tools and connectivity.
 >
-> **[1:33](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/create-a-security-plan-for-a-hybrid-workforce?u=76281980&t=93)** For instance, provide devices that allow for multi-factor authentication, device tracking and encryption.
+> **[1:33](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/create-a-security-plan-for-a-hybrid-workforce?u=76281980&t=93)** For instance, provide devices that allow for [[Multi-factor Authentication]], device tracking and encryption.
 >
-> **[1:42](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/create-a-security-plan-for-a-hybrid-workforce?u=76281980&t=102)** Give them a secure way to connect to the company using an encrypted stream, such as a virtual private network or certificate based authentication.
+> **[1:42](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/create-a-security-plan-for-a-hybrid-workforce?u=76281980&t=102)** Give them a secure way to connect to the company using an encrypted stream, such as a [[Virtual Private Network (VPN)|virtual private network]] or certificate based authentication.
 >
 > **[1:52](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/create-a-security-plan-for-a-hybrid-workforce?u=76281980&t=112)** Now, for the don'ts, don't allow users to have administrator access to their devices that may allow them too many rights that could introduce malware.
 >
 > **[2:04](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/create-a-security-plan-for-a-hybrid-workforce?u=76281980&t=124)** Don't allow any unapproved applications to be installed on their devices.
 >
-> **[2:09](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/create-a-security-plan-for-a-hybrid-workforce?u=76281980&t=129)** For Windows computers, you can use group policy.
+> **[2:09](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/create-a-security-plan-for-a-hybrid-workforce?u=76281980&t=129)** For [[Windows]] computers, you can use group policy.
 >
-> **[2:12](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/create-a-security-plan-for-a-hybrid-workforce?u=76281980&t=132)** But for mobile devices, you can sign up for cloud products like Microsoft Endpoint Manager.
+> **[2:12](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/create-a-security-plan-for-a-hybrid-workforce?u=76281980&t=132)** But for mobile devices, you can sign up for cloud [[Microsoft Products|products]] like [[Microsoft]] Endpoint Manager.
 >
 > **[2:18](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/create-a-security-plan-for-a-hybrid-workforce?u=76281980&t=138)** That not only protects and encrypts mobile devices but can also separate work from personal applications for bring your own device scenarios.
 >
-> **[2:28](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/create-a-security-plan-for-a-hybrid-workforce?u=76281980&t=148)** Don't allow users to connect to open or public wifi connections, man in the middle attacks can steal data as it travels from their computer to the office even if you're using VPN.
+> **[2:28](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/create-a-security-plan-for-a-hybrid-workforce?u=76281980&t=148)** Don't allow users to connect to open or public wifi connections, man in the middle attacks can steal data as it travels from their computer to the [[Microsoft Office|office]] even if you're using VPN.
 >
 > **[2:42](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/create-a-security-plan-for-a-hybrid-workforce?u=76281980&t=162)** They do this by creating a fake access point that users connect to you and the data is taken before the encryption portion of the stream is even formed.
 >
@@ -290,7 +286,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Security]] (2), [[Phishing]] (2), [[Multi-factor Authentication]] (1), [[Virtual Private Network (VPN)|Virtual private network]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (2), [[Multi-factor Authentication]] (1), [[Virtual Private Network (VPN)|Virtual private network]] (1), [[Windows]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** such as (3), for instance (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** vpn (1)
@@ -302,8 +298,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How do users need to connect?
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-do-users-need-to-connect?u=76281980)
+#### [How do users need to connect?](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-do-users-need-to-connect?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -323,7 +318,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-do-users-need-to-connect?u=76281980&t=30)** VPN setup has come a long way since then, and the security has increased over the years as well.
 >
-> **[0:36](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-do-users-need-to-connect?u=76281980&t=36)** Of all the VPN options out there, SSL VPN is likely the best option for Windows users and L2TP using a certificate is best for Apple Macintosh.
+> **[0:36](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-do-users-need-to-connect?u=76281980&t=36)** Of all the VPN options out there, SSL VPN is likely the best option for [[Windows]] users and L2TP using a certificate is best for Apple Macintosh.
 >
 > **[0:48](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-do-users-need-to-connect?u=76281980&t=48)** There are others, but they all seem to have issues.
 >
@@ -343,7 +338,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-do-users-need-to-connect?u=76281980&t=89)** It's mainly used just for file access.
 >
-> **[1:32](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-do-users-need-to-connect?u=76281980&t=92)** Remote desktop application and web configuration using a Windows server can also be very useful for hybrid users.
+> **[1:32](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-do-users-need-to-connect?u=76281980&t=92)** Remote desktop application and web configuration using a [[Windows Server]] can also be very useful for hybrid users.
 >
 > **[1:40](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-do-users-need-to-connect?u=76281980&t=100)** They connect using an encrypted stream tied to a certificate, and it isn't usually blocked by hotels or restaurants.
 >
@@ -371,7 +366,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** vpn (10), [[Security]] (3), web (2), data (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Windows Server]] (1)
 > **Env Vars:** vpn (10), ssl (3), l2tp (1)
 > **CLI Commands:** find (1)
 > **Ports:** :00 (1)
@@ -379,30 +374,29 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - in (1)
 
-#### Cloud vs. on-premises access
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/cloud-vs-on-premises-access?u=76281980)
+#### [Cloud vs. on-premises access](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/cloud-vs-on-premises-access?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/cloud-vs-on-premises-access?u=76281980&t=0)** - Many companies have decided to stick with on-premises servers and applications for now but there are many cloud only or hybrid configurations companies are using that include cloud products and services for their staff data needs.
+> **[0:00](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/cloud-vs-on-premises-access?u=76281980&t=0)** - Many companies have decided to stick with on-premises servers and applications for now but there are many cloud only or hybrid configurations companies are using that include cloud [[Microsoft Products|products]] and services for their staff data needs.
 >
 > **[0:16](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/cloud-vs-on-premises-access?u=76281980&t=16)** How does the security plan change when using cloud?
 >
 > **[0:20](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/cloud-vs-on-premises-access?u=76281980&t=20)** Well not as much as you might think.
 >
-> **[0:22](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/cloud-vs-on-premises-access?u=76281980&t=22)** You still need to secure your users computers and devices the same way using encryption, multi-factor authentication and an encrypted stream for data communication.
+> **[0:22](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/cloud-vs-on-premises-access?u=76281980&t=22)** You still need to secure your users computers and devices the same way using encryption, [[Multi-factor Authentication]] and an encrypted stream for data communication.
 >
 > **[0:32](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/cloud-vs-on-premises-access?u=76281980&t=32)** It will just connect to a different location.
 >
-> **[0:35](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/cloud-vs-on-premises-access?u=76281980&t=35)** You may also choose to use VPN to office and then connect to the cloud using the connection from the office to the cloud.
+> **[0:35](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/cloud-vs-on-premises-access?u=76281980&t=35)** You may also choose to use VPN to [[Microsoft Office|office]] and then connect to the cloud using the connection from the office to the cloud.
 >
-> **[0:44](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/cloud-vs-on-premises-access?u=76281980&t=44)** This allows for better IT controls to be put in place and more traditional Active Directory and group policies to continue to be in use.
+> **[0:44](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/cloud-vs-on-premises-access?u=76281980&t=44)** This allows for better IT controls to be put in place and more traditional [[Active Directory]] and group policies to continue to be in use.
 >
 > **[0:52](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/cloud-vs-on-premises-access?u=76281980&t=52)** The connection from the office to the cloud can be a VPN tunnel or a direct connection using lock-down IP configurations.
 >
-> **[1:00](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/cloud-vs-on-premises-access?u=76281980&t=60)** It is inevitable that many companies will use the cloud one day for email, data storage, backup, artificial intelligence, virtual machines and more.
+> **[1:00](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/cloud-vs-on-premises-access?u=76281980&t=60)** It is inevitable that many companies will use the cloud one day for email, [[Data Storage]], backup, [[Artificial Intelligence (AI)|artificial intelligence]], [[Virtual Machines]] and more.
 >
-> **[1:09](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/cloud-vs-on-premises-access?u=76281980&t=69)** There's internet as a service, software as a service, storage as a service and many more services.
+> **[1:09](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/cloud-vs-on-premises-access?u=76281980&t=69)** There's internet as a service, [[SaaS|software as a service]], storage as a service and many more services.
 >
 > **[1:15](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/cloud-vs-on-premises-access?u=76281980&t=75)** The risk to cloud is higher than on-premises for the IT department because the IT staff have little control over data breaches and mitigation as they would for on-premises.
 >
@@ -424,23 +418,22 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/cloud-vs-on-premises-access?u=76281980&t=143)** This gives you an additional fallback position from a ransomware attack.
 >
-> **[2:28](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/cloud-vs-on-premises-access?u=76281980&t=148)** Email is also a good idea for smaller companies since Microsoft has pulled Exchange from the small business versions, and has raised the price for an Exchange Server license.
+> **[2:28](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/cloud-vs-on-premises-access?u=76281980&t=148)** Email is also a good idea for smaller companies since [[Microsoft]] has pulled Exchange from the small business versions, and has raised the price for an Exchange Server license.
 >
-> **[2:39](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/cloud-vs-on-premises-access?u=76281980&t=159)** There will be other cloud options that may be a good idea for smaller companies but be sure to get good advice before moving your data into the cloud and connecting your users to cloud services.
+> **[2:39](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/cloud-vs-on-premises-access?u=76281980&t=159)** There will be other cloud options that may be a good idea for smaller companies but be sure to get good advice before moving your data into the cloud and connecting your users to [[Cloud Services]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (15), data (8), [[Microsoft Office|Office]] (3), vpn (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), [[Microsoft Products|Products]] (1), [[Multi-factor Authentication]] (1), [[Active Directory]] (1), [[Data Storage]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** vpn (2)
 > **Speakers:** - many (1)
 
-#### VPN risks
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/vpn-risks?u=76281980)
+#### [VPN risks](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/vpn-risks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/vpn-risks?u=76281980&t=0)** - Virtual private networks encrypt data from a user's computer to the office, or cloud resources.
+> **[0:00](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/vpn-risks?u=76281980&t=0)** - Virtual private networks encrypt data from a user's computer to the [[Microsoft Office|office]], or cloud resources.
 >
 > **[0:06](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/vpn-risks?u=76281980&t=6)** I had an experience with a client that allowed many users to connect using VPN to their large distribution office.
 >
@@ -458,19 +451,19 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/vpn-risks?u=76281980&t=51)** This allowed malware to be introduced when the user allowed a non-compliant application to be installed.
 >
-> **[0:57](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/vpn-risks?u=76281980&t=57)** You can use windows applocker, or some other utility to keep this from happening.
+> **[0:57](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/vpn-risks?u=76281980&t=57)** You can use [[Windows]] applocker, or some other utility to keep this from happening.
 >
 > **[1:02](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/vpn-risks?u=76281980&t=62)** If you do need to give users some admin access, applocker allows only approved applications to be installed by the user.
 >
-> **[1:11](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/vpn-risks?u=76281980&t=71)** System Center.Configuration Manager and group policy can also be used to install approved applications and updates from Microsoft, and third-party vendors.
+> **[1:11](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/vpn-risks?u=76281980&t=71)** System Center.Configuration Manager and group policy can also be used to install approved applications and updates from [[Microsoft]], and third-party vendors.
 >
 > **[1:21](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/vpn-risks?u=76281980&t=81)** You can also lock down VPN access to only specific computers the staff needs, instead of the entire network.
 >
 > **[1:29](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/vpn-risks?u=76281980&t=89)** This can be done in the VPN server or concentrator, or by segmenting networks into virtual local areas networks known as VLAN.
 >
-> **[1:37](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/vpn-risks?u=76281980&t=97)** In cloud offerings this is referred to as software defined networking, because routing is done using software configurations, instead of hardware devices.
+> **[1:37](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/vpn-risks?u=76281980&t=97)** In cloud offerings this is referred to as software defined networking, because [[Routing]] is done using software configurations, instead of [[Hardware]] devices.
 >
-> **[1:47](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/vpn-risks?u=76281980&t=107)** VPNs can be further protected using multi-factor authentication.
+> **[1:47](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/vpn-risks?u=76281980&t=107)** VPNs can be further protected using [[Multi-factor Authentication]].
 >
 > **[1:52](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/vpn-risks?u=76281980&t=112)** This means that you offer them more than just a username and password.
 >
@@ -486,13 +479,13 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/vpn-risks?u=76281980&t=157)** Be sure to have the latest anti-malware signatures installed on the user's devices, and control those devices using a mobile device and mobile application management service such as Microsoft Intune or Endpoint Manager.
 >
-> **[2:52](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/vpn-risks?u=76281980&t=172)** Virtual private network connections are great ways to send and receive encrypted data across trusted networks.
+> **[2:52](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/vpn-risks?u=76281980&t=172)** [[Virtual Private Network (VPN)|Virtual private network]] connections are great ways to send and receive encrypted data across trusted networks.
 >
 > **[3:00](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/vpn-risks?u=76281980&t=180)** Be sure to use these and other security methods, to keep your users and computers safe.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** vpn (5), data (3), [[Microsoft Office|Office]] (2), cloud (2), application (2)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Microsoft]] (2), [[Windows]] (1), [[Routing]] (1), [[Hardware]] (1)
 > **Env Vars:** vpn (5), vlan (1), ssl (1)
 > **Definitions:** known as (1), means that (1)
 > **Analogies:** such as (2)
@@ -500,8 +493,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - virtual (1)
 
-#### Circumventing malware and ransomware
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/circumventing-malware-and-ransomware?u=76281980)
+#### [Circumventing malware and ransomware](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/circumventing-malware-and-ransomware?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -535,7 +527,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/circumventing-malware-and-ransomware?u=76281980&t=80)** You can filter your email through your online email service or by a third party company for on-premises email.
 >
-> **[1:28](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/circumventing-malware-and-ransomware?u=76281980&t=88)** This will take out the majority of phishing attacks but not all of them.
+> **[1:28](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/circumventing-malware-and-ransomware?u=76281980&t=88)** This will take out the majority of [[Phishing]] attacks but not all of them.
 >
 > **[1:33](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/circumventing-malware-and-ransomware?u=76281980&t=93)** The next big delivery of malware comes from web browsing.
 >
@@ -567,7 +559,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), data (1), [[Phishing]] (1), next (1), dns (1)
+> **Frameworks & Libraries:** [[Phishing]] (1)
 > **Env Vars:** usb (2), dns (1), vpn (1)
 > **Definitions:** is a  (2), known as (1)
 > **Analogies:** imagine (1), such as (1)
@@ -575,8 +567,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - malware (1)
 
-#### Testing security
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/testing-security?u=76281980)
+#### [Testing security](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/testing-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -600,11 +591,11 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/testing-security?u=76281980&t=58)** Testing your network before an outbreak of malware or a physical emergency like an earthquake can mean all the difference between panic and calm resolve during a crisis.
 >
-> **[1:09](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/testing-security?u=76281980&t=69)** You'll need to create two teams, an incident response team and an emergency response team.
+> **[1:09](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/testing-security?u=76281980&t=69)** You'll need to create two teams, an [[Incident Response]] team and an emergency response team.
 >
 > **[1:17](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/testing-security?u=76281980&t=77)** The incident response team would deal with malware, ransomware, and other data driven incidents.
 >
-> **[1:24](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/testing-security?u=76281980&t=84)** It would even cover some physical aspects such as access card violations to secure rooms, and reviewing video and intrusion detection logs.
+> **[1:24](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/testing-security?u=76281980&t=84)** It would even cover some physical aspects such as access card violations to secure rooms, and reviewing video and [[Intrusion Detection]] logs.
 >
 > **[1:33](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/testing-security?u=76281980&t=93)** Your emergency response team will deal with earthquakes, floods, power outages, or anything else that could create an emergency situation for you and the staff.
 >
@@ -630,7 +621,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Security]] (2), next (2), [[Incident Response]] (2), power (2)
+> **Frameworks & Libraries:** [[Incident Response]] (2), [[Intrusion Detection]] (1)
 > **Analogies:** such as (3)
 > **Env Vars:** cissp (1), isc (1)
 > **CLI Commands:** find (1)
@@ -644,8 +635,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What devices will cause the biggest headaches?
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/what-devices-will-cause-the-biggest-headaches?u=76281980)
+#### [What devices will cause the biggest headaches?](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/what-devices-will-cause-the-biggest-headaches?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -669,11 +659,11 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/what-devices-will-cause-the-biggest-headaches?u=76281980&t=57)** You may get a network printer to work, but it isn't going to be supported.
 >
-> **[1:01](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/what-devices-will-cause-the-biggest-headaches?u=76281980&t=61)** This becomes even more difficult with another operating system such as Macintosh, Linux desktop, or mobile devices.
+> **[1:01](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/what-devices-will-cause-the-biggest-headaches?u=76281980&t=61)** This becomes even more difficult with another operating system such as Macintosh, [[Linux]] desktop, or mobile devices.
 >
 > **[1:10](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/what-devices-will-cause-the-biggest-headaches?u=76281980&t=70)** Name resolution is another issue that will constantly pop up.
 >
-> **[1:14](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/what-devices-will-cause-the-biggest-headaches?u=76281980&t=74)** When you use VPN to connect to the office or direct connection to a cloud service, resolving names to map to drives can be a constant struggle especially for overtaxed systems.
+> **[1:14](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/what-devices-will-cause-the-biggest-headaches?u=76281980&t=74)** When you use VPN to connect to the [[Microsoft Office|office]] or direct connection to a cloud service, resolving names to map to drives can be a constant struggle especially for overtaxed systems.
 >
 > **[1:26](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/what-devices-will-cause-the-biggest-headaches?u=76281980&t=86)** You may have connectivity by IP address, but not necessarily by file share name, which is what we all use.
 >
@@ -701,34 +691,33 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** vpn (4), [[Microsoft Office|Office]] (3), dns (1), parallel (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), [[Linux]] (1)
 > **Env Vars:** vpn (4), nat (2), dns (1), usb (1), sip (1)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
-#### How do we get files out to remote users?
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-do-we-get-files-out-to-remote-users?u=76281980)
+#### [How do we get files out to remote users?](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-do-we-get-files-out-to-remote-users?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-do-we-get-files-out-to-remote-users?u=76281980&t=0)** - One of the struggles for hybrid workers is how to get application and operating system updates out to users when they're working remotely.
 >
-> **[0:08](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-do-we-get-files-out-to-remote-users?u=76281980&t=8)** Group policies and Windows software update servers just don't work well in that fashion.
+> **[0:08](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-do-we-get-files-out-to-remote-users?u=76281980&t=8)** Group policies and [[Windows]] software update servers just don't work well in that fashion.
 >
 > **[0:15](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-do-we-get-files-out-to-remote-users?u=76281980&t=15)** Update files can be so large that emailing the executables can be difficult and cause security issues.
 >
-> **[0:22](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-do-we-get-files-out-to-remote-users?u=76281980&t=22)** Microsoft has a few options.
+> **[0:22](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-do-we-get-files-out-to-remote-users?u=76281980&t=22)** [[Microsoft]] has a few options.
 >
 > **[0:24](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-do-we-get-files-out-to-remote-users?u=76281980&t=24)** Windows Autopilot can assist new computer users by using this cloud service to tell computers what needs to be installed ahead of time.
 >
-> **[0:33](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-do-we-get-files-out-to-remote-users?u=76281980&t=33)** The way it works is that the administrator registers the hardware ID and pushes the needed software up to the cloud.
+> **[0:33](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-do-we-get-files-out-to-remote-users?u=76281980&t=33)** The way it works is that the administrator registers the [[Hardware]] ID and pushes the needed software up to the cloud.
 >
 > **[0:40](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-do-we-get-files-out-to-remote-users?u=76281980&t=40)** The user obtains the new computer in shipping, logs in, and all that needed software gets pushed down to the computer from the cloud service and the user is ready to connect.
 >
 > **[0:51](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-do-we-get-files-out-to-remote-users?u=76281980&t=51)** After that, you can use the same type of software push using Microsoft Intune and Endpoint Manager.
 >
-> **[0:57](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-do-we-get-files-out-to-remote-users?u=76281980&t=57)** Intune software push and approval also works for mobile devices using Android, Apple iOS, and Macintosh.
+> **[0:57](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-do-we-get-files-out-to-remote-users?u=76281980&t=57)** Intune software push and approval also works for mobile devices using [[Android]], Apple iOS, and Macintosh.
 >
 > **[1:06](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-do-we-get-files-out-to-remote-users?u=76281980&t=66)** For onsite and VPN users, you can do the same type of push using an on-premises product called System Center Configuration Manager.
 >
@@ -742,7 +731,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-do-we-get-files-out-to-remote-users?u=76281980&t=108)** A secure hash also needs to be compared to ensure the download matches the expected software.
 >
-> **[1:54](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-do-we-get-files-out-to-remote-users?u=76281980&t=114)** A third-party option that organizations use is the software push capabilities from either anti-malware programs such as Kaspersky Endpoint Security or computer management programs provided by Kasaya or ConnectWise.
+> **[1:54](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-do-we-get-files-out-to-remote-users?u=76281980&t=114)** A third-party option that organizations use is the software push capabilities from either anti-malware programs such as Kaspersky [[Endpoint Security]] or computer management programs provided by Kasaya or ConnectWise.
 >
 > **[2:08](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-do-we-get-files-out-to-remote-users?u=76281980&t=128)** This has the added benefit of being able to remote into the computers and then installing the updates for the user.
 >
@@ -750,21 +739,20 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-do-we-get-files-out-to-remote-users?u=76281980&t=144)** Whatever you decide to use to push out applications and updates, be sure it's a secure option.
 >
-> **[2:30](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-do-we-get-files-out-to-remote-users?u=76281980&t=150)** There are many different security standards such as HIPAA, SOX, NIST, FIPS, and others.
+> **[2:30](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-do-we-get-files-out-to-remote-users?u=76281980&t=150)** There are many different security standards such as HIPAA, SOX, [[NIST]], FIPS, and others.
 >
 > **[2:39](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-do-we-get-files-out-to-remote-users?u=76281980&t=159)** Each vendor will provide what industry standards they comply with that may apply to your organization.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (3), cloud (3), [[Windows]] (2), [[Security]] (2), application (1)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Windows]] (2), [[Hardware]] (1), [[Android]] (1), [[Endpoint Security]] (1)
 > **Env Vars:** vpn (1), ftp (1), radius (1), hipaa (1), sox (1)
 > **Analogies:** such as (2)
 > **Prerequisites:** install (1), set up (1)
 > **Code Identifiers:** ios (1)
 > **Speakers:** - one (1)
 
-#### Wi-Fi at home and in the office
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/wi-fi-at-home-and-in-the-office-29518519?u=76281980)
+#### [Wi-Fi at home and in the office](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/wi-fi-at-home-and-in-the-office-29518519?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -784,7 +772,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/wi-fi-at-home-and-in-the-office-29518519?u=76281980&t=55)** The next thing to consider is using the best authentication and encryption.
 >
-> **[1:01](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/wi-fi-at-home-and-in-the-office-29518519?u=76281980&t=61)** Now, in an office, this means using RADIUS to Active Directory enterprise authentication using a network policy server, such as one built into a Windows server.
+> **[1:01](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/wi-fi-at-home-and-in-the-office-29518519?u=76281980&t=61)** Now, in an [[Microsoft Office|office]], this means using RADIUS to [[Active Directory]] enterprise authentication using a network policy server, such as one built into a [[Windows Server]].
 >
 > **[1:11](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/wi-fi-at-home-and-in-the-office-29518519?u=76281980&t=71)** It ties the user's Active Directory credentials to log in, so there's no shared passwords.
 >
@@ -792,7 +780,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/wi-fi-at-home-and-in-the-office-29518519?u=76281980&t=80)** Make sure you use AES, or Advanced Encryption Service encryption and a long WPA3 password.
 >
-> **[1:28](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/wi-fi-at-home-and-in-the-office-29518519?u=76281980&t=88)** Staff shouldn't use the same Wi-Fi network as the rest of the family or friends.
+> **[1:28](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/wi-fi-at-home-and-in-the-office-29518519?u=76281980&t=88)** Staff shouldn't use the same Wi-Fi network as the [[Representational State Transfer (REST)|rest]] of the family or friends.
 >
 > **[1:34](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/wi-fi-at-home-and-in-the-office-29518519?u=76281980&t=94)** Instead, provide the home staff worker with a Wi-Fi system that offers guest access.
 >
@@ -804,7 +792,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/wi-fi-at-home-and-in-the-office-29518519?u=76281980&t=125)** At the corporate office, you can use VLANs to separate the networks using high-end switches to protect the production network from the wireless guest.
 >
-> **[2:14](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/wi-fi-at-home-and-in-the-office-29518519?u=76281980&t=134)** A central management system for enterprise users is essential for control and for intrusion detection.
+> **[2:14](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/wi-fi-at-home-and-in-the-office-29518519?u=76281980&t=134)** A central management system for enterprise users is essential for control and for [[Intrusion Detection]].
 >
 > **[2:21](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/wi-fi-at-home-and-in-the-office-29518519?u=76281980&t=141)** You could consider using a vendor-managed system, such as one from Cisco, Ubiquiti, or Aruba from HPE.
 >
@@ -876,7 +864,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (10), [[Microsoft Office|Office]] (3), [[Active Directory]] (2), next (1), [[Windows Server]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), [[Active Directory]] (2), [[Windows Server]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Intrusion Detection]] (1)
 > **Env Vars:** wpa3 (4), ssid (4), mac (4), wpa2 (2), radius (1)
 > **Analogies:** such as (5), for instance (1)
 > **Prerequisites:** set up (3)
@@ -890,8 +878,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How will users communicate with each other?
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-will-users-communicate-with-each-other-29518520?u=76281980)
+#### [How will users communicate with each other?](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-will-users-communicate-with-each-other-29518520?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -899,11 +886,11 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-will-users-communicate-with-each-other-29518520?u=76281980&t=9)** Staff have many options when communicating with each other.
 >
-> **[0:12](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-will-users-communicate-with-each-other-29518520?u=76281980&t=12)** Some programs offer more privacy than others.
+> **[0:12](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-will-users-communicate-with-each-other-29518520?u=76281980&t=12)** Some programs offer more [[Privacy]] than others.
 >
 > **[0:16](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-will-users-communicate-with-each-other-29518520?u=76281980&t=16)** Sending email to another employee is typically considered safe, especially if using a closed email system like Exchange.
 >
-> **[0:23](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-will-users-communicate-with-each-other-29518520?u=76281980&t=23)** It does become a bit more tricky and more of a security risk, however, if you're using sensitive data outside your internal email system.
+> **[0:23](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-will-users-communicate-with-each-other-29518520?u=76281980&t=23)** It does become a bit more tricky and more of a [[Security Risk]], however, if you're using sensitive data outside your internal email system.
 >
 > **[0:32](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-will-users-communicate-with-each-other-29518520?u=76281980&t=32)** There's a chance of it being intercepted at multiple points along the way and at the final destination.
 >
@@ -911,9 +898,9 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-will-users-communicate-with-each-other-29518520?u=76281980&t=46)** The users send each other keys, which are then used for encryption and decryption, but it has to be installed on both the sender and receiver's computer.
 >
-> **[0:55](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-will-users-communicate-with-each-other-29518520?u=76281980&t=55)** Now, if you are using Exchange or Exchange Online, you can implement Azure Information Protection, which includes encryption security built in.
+> **[0:55](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-will-users-communicate-with-each-other-29518520?u=76281980&t=55)** Now, if you are using Exchange or Exchange Online, you can implement [[Microsoft Azure|Azure]] Information Protection, which includes encryption security built in.
 >
-> **[1:03](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-will-users-communicate-with-each-other-29518520?u=76281980&t=63)** It also has data loss prevention, labels for sensitive information, and that keeps data from leaking to people outside the organization, and a protection for high value targets, such as executives, and that keeps their email from appearing to be sent or received when phishing emails occur.
+> **[1:03](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-will-users-communicate-with-each-other-29518520?u=76281980&t=63)** It also has data loss prevention, labels for sensitive information, and that keeps data from leaking to people outside the organization, and a protection for high value targets, such as executives, and that keeps their email from appearing to be sent or received when [[Phishing]] emails occur.
 >
 > **[1:23](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-will-users-communicate-with-each-other-29518520?u=76281980&t=83)** For example, someone in the finance department receives an email that appears to be coming from an executive that needs to spend money by sending email electronically.
 >
@@ -929,7 +916,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-will-users-communicate-with-each-other-29518520?u=76281980&t=132)** The SMS protocol has been vulnerable for years due to a lack of encryption and sim card cloning where a hacker can see all texts coming and going.
 >
-> **[2:21](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-will-users-communicate-with-each-other-29518520?u=76281980&t=141)** One mitigation technique for this is to use a program such as Teams or Zoom for chatting using the app or for face-to-face.
+> **[2:21](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-will-users-communicate-with-each-other-29518520?u=76281980&t=141)** One mitigation technique for this is to use a program such as Teams or [[Zoom]] for chatting using the app or for face-to-face.
 >
 > **[2:29](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-will-users-communicate-with-each-other-29518520?u=76281980&t=149)** There are mobile and desktop versions that can sync up with each other to send and receive securely.
 >
@@ -941,7 +928,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-will-users-communicate-with-each-other-29518520?u=76281980&t=169)** Anyone sitting on a hill can point a listening device at passing by cars and pick up their conversations.
 >
-> **[2:56](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-will-users-communicate-with-each-other-29518520?u=76281980&t=176)** To counteract this, you can use a newer technology such as VoBP or Voice over Blockchain Protocol.
+> **[2:56](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-will-users-communicate-with-each-other-29518520?u=76281980&t=176)** To counteract this, you can use a newer technology such as VoBP or Voice over [[Blockchain]] Protocol.
 >
 > **[3:03](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-will-users-communicate-with-each-other-29518520?u=76281980&t=183)** Both the sender and receiver will need to utilize this technology in order to be completely protected.
 >
@@ -957,14 +944,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), data (3), [[Privacy]] (2), teams (2), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (2), [[Security Risk]] (1), [[Microsoft Azure|Azure]] (1), [[Phishing]] (1), [[Zoom]] (1)
 > **Analogies:** such as (6), for example (1)
 > **Env Vars:** pgp (1), sms (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Audio and video conferencing applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/audio-and-video-conferencing-applications-29525170?u=76281980)
+#### [Audio and video conferencing applications](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/audio-and-video-conferencing-applications-29525170?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -972,7 +958,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/audio-and-video-conferencing-applications-29525170?u=76281980&t=4)** Traditionally, we've had phones, cell phones, VoIP phones, emails, instant messaging, texts and others.
 >
-> **[0:10](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/audio-and-video-conferencing-applications-29525170?u=76281980&t=10)** But I want to focus on some other technology of application communication, such as using these conferencing applications for Teams and Zoom.
+> **[0:10](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/audio-and-video-conferencing-applications-29525170?u=76281980&t=10)** But I want to focus on some other technology of application communication, such as using these conferencing applications for Teams and [[Zoom]].
 >
 > **[0:22](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/audio-and-video-conferencing-applications-29525170?u=76281980&t=22)** Teams and Zoom can do what all the traditional applications can do, but in just a single program, and there's many others out there, but these two have the majority of the market share, so I'm going to focus on them.
 >
@@ -990,25 +976,25 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/audio-and-video-conferencing-applications-29525170?u=76281980&t=76)** Teams has come a long way.
 >
-> **[1:18](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/audio-and-video-conferencing-applications-29525170?u=76281980&t=78)** It started out as Skype by another company many years ago, and then it was purchased by Microsoft and renamed Skype for Business, and now it's rebranded as Teams.
+> **[1:18](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/audio-and-video-conferencing-applications-29525170?u=76281980&t=78)** It started out as Skype by another company many years ago, and then it was purchased by [[Microsoft]] and renamed Skype for Business, and now it's rebranded as Teams.
 >
-> **[1:28](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/audio-and-video-conferencing-applications-29525170?u=76281980&t=88)** Teams is part of the Office 365 Cloud suite of products and can be licensed with a subscription.
+> **[1:28](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/audio-and-video-conferencing-applications-29525170?u=76281980&t=88)** Teams is part of the [[Microsoft Office|Office]] 365 Cloud suite of [[Microsoft Products|products]] and can be licensed with a subscription.
 >
 > **[1:34](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/audio-and-video-conferencing-applications-29525170?u=76281980&t=94)** The advantage for Teams over Zoom for security and functionality is like night and day, which I'll show you here shortly.
 >
-> **[1:40](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/audio-and-video-conferencing-applications-29525170?u=76281980&t=100)** There are dozens of applications supported by Teams such as office products like Word, Excel, and Outlook, but also many third party applications like Box, Ignite, ShareFile, Google Drive, among others.
+> **[1:40](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/audio-and-video-conferencing-applications-29525170?u=76281980&t=100)** There are dozens of applications supported by Teams such as office products like [[Microsoft Word|Word]], [[Microsoft Excel|Excel]], and [[Microsoft Outlook|Outlook]], but also many third party applications like Box, Ignite, ShareFile, [[Google Drive]], among others.
 >
 > **[1:55](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/audio-and-video-conferencing-applications-29525170?u=76281980&t=115)** These can be linked directly into Teams and used to collaborate with others no matter where they work.
 >
 > **[2:01](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/audio-and-video-conferencing-applications-29525170?u=76281980&t=121)** Applications can be approved or denied by the admin.
 >
-> **[2:05](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/audio-and-video-conferencing-applications-29525170?u=76281980&t=125)** The admin can also put limits on who can join a team or be a guest, who you can call, what features can be used, and active directory integration.
+> **[2:05](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/audio-and-video-conferencing-applications-29525170?u=76281980&t=125)** The admin can also put limits on who can join a team or be a guest, who you can call, what features can be used, and [[Active Directory]] integration.
 >
 > **[2:14](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/audio-and-video-conferencing-applications-29525170?u=76281980&t=134)** Teams is more complex than Zoom, but it is getting better due to customer complaints.
 >
 > **[2:19](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/audio-and-video-conferencing-applications-29525170?u=76281980&t=139)** There's now only one Teams app instead of two, and the interface is getting simpler to use.
 >
-> **[2:25](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/audio-and-video-conferencing-applications-29525170?u=76281980&t=145)** Other products that may fit your needs with most of these criteria could be Slack, WebEx, GoTo Meeting, Google Meet, and Blackboard.
+> **[2:25](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/audio-and-video-conferencing-applications-29525170?u=76281980&t=145)** Other products that may fit your needs with most of these criteria could be [[Slack]], WebEx, GoTo Meeting, [[Google]] Meet, and Blackboard.
 >
 > **[2:33](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/audio-and-video-conferencing-applications-29525170?u=76281980&t=153)** Here's an example of the various different types of security that are included with Zoom in the Zoom admin.
 >
@@ -1058,7 +1044,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (19), [[Security]] (11), [[Zoom]] (10), [[Microsoft Products|Products]] (3), application (2)
+> **Frameworks & Libraries:** [[Zoom]] (10), [[Microsoft Products|Products]] (3), [[Microsoft Office|Office]] (2), [[Microsoft]] (1), [[Microsoft Word|Word]] (1)
 > **Analogies:** such as (3), for instance (1)
 > **UI Navigation:** scroll down (1), click on (1)
 > **Prerequisites:** set up (2)
@@ -1067,14 +1053,13 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
 
-#### Managing mobile devices and bring your own device (BYOD)
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/managing-mobile-devices-and-bring-your-own-device-29520413?u=76281980)
+#### [Managing mobile devices and bring your own device (BYOD)](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/managing-mobile-devices-and-bring-your-own-device-29520413?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/managing-mobile-devices-and-bring-your-own-device-29520413?u=76281980&t=0)** - [Instructor] Mobile devices make up an ever-growing number of network devices in our corporate networks.
 >
-> **[0:06](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/managing-mobile-devices-and-bring-your-own-device-29520413?u=76281980&t=6)** The problem is, is that they aren't managed the same way that Windows or Macintosh computers are managed.
+> **[0:06](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/managing-mobile-devices-and-bring-your-own-device-29520413?u=76281980&t=6)** The problem is, is that they aren't managed the same way that [[Windows]] or Macintosh computers are managed.
 >
 > **[0:11](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/managing-mobile-devices-and-bring-your-own-device-29520413?u=76281980&t=11)** They have lightweight operating systems with apps that are downloaded through their respective stores.
 >
@@ -1094,13 +1079,13 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/managing-mobile-devices-and-bring-your-own-device-29520413?u=76281980&t=66)** Bringing your own device will save the company money on purchases, repairs, and replacements.
 >
-> **[1:11](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/managing-mobile-devices-and-bring-your-own-device-29520413?u=76281980&t=71)** but there are other costs to consider, Is it a privacy violation to require your staff's mobile devices to be controlled by the company?
+> **[1:11](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/managing-mobile-devices-and-bring-your-own-device-29520413?u=76281980&t=71)** but there are other costs to consider, Is it a [[Privacy]] violation to require your staff's mobile devices to be controlled by the company?
 >
 > **[1:20](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/managing-mobile-devices-and-bring-your-own-device-29520413?u=76281980&t=80)** In some cases, it might be.
 >
 > **[1:21](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/managing-mobile-devices-and-bring-your-own-device-29520413?u=76281980&t=81)** If you provide the devices for them, you have to consider the overall cost and pain of staff carrying around two phones, one for business and one for personal, and it won't be popular.
 >
-> **[1:34](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/managing-mobile-devices-and-bring-your-own-device-29520413?u=76281980&t=94)** One possible solution is to use a product such as Microsoft Intune.
+> **[1:34](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/managing-mobile-devices-and-bring-your-own-device-29520413?u=76281980&t=94)** One possible solution is to use a product such as [[Microsoft]] Intune.
 >
 > **[1:39](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/managing-mobile-devices-and-bring-your-own-device-29520413?u=76281980&t=99)** You can allow staff to bring their own mobile devices, but IT staff can manage those devices by taking control of just the business portion of the device.
 >
@@ -1124,11 +1109,11 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/managing-mobile-devices-and-bring-your-own-device-29520413?u=76281980&t=159)** Now, mobile devices isn't just going to be for phones or tablets.
 >
-> **[2:44](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/managing-mobile-devices-and-bring-your-own-device-29520413?u=76281980&t=164)** It's also going to be for laptops running Windows operating systems or even Linux.
+> **[2:44](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/managing-mobile-devices-and-bring-your-own-device-29520413?u=76281980&t=164)** It's also going to be for laptops running Windows operating systems or even [[Linux]].
 >
 > **[2:49](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/managing-mobile-devices-and-bring-your-own-device-29520413?u=76281980&t=169)** Let's start by going over to Devices on the left-hand side, and here, you can see five different types of devices.
 >
-> **[2:55](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/managing-mobile-devices-and-bring-your-own-device-29520413?u=76281980&t=175)** You see Windows, as well as Apple products, such as iOS and Mac, and Android and Linux.
+> **[2:55](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/managing-mobile-devices-and-bring-your-own-device-29520413?u=76281980&t=175)** You see Windows, as well as Apple [[Microsoft Products|products]], such as iOS and Mac, and [[Android]] and Linux.
 >
 > **[3:03](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/managing-mobile-devices-and-bring-your-own-device-29520413?u=76281980&t=183)** I'm going to choose the Android option just to give you an idea of what you can do.
 >
@@ -1160,7 +1145,7 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/managing-mobile-devices-and-bring-your-own-device-29520413?u=76281980&t=247)** Now I can choose the Wi-Fi type.
 >
-> **[4:09](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/managing-mobile-devices-and-bring-your-own-device-29520413?u=76281980&t=249)** Is this going to be Basic, which is a pre-shared key type of setup, or is this is going to be Enterprise where it's going to link into Active Directory?
+> **[4:09](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/managing-mobile-devices-and-bring-your-own-device-29520413?u=76281980&t=249)** Is this going to be Basic, which is a pre-shared key type of setup, or is this is going to be Enterprise where it's going to link into [[Active Directory]]?
 >
 > **[4:17](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/managing-mobile-devices-and-bring-your-own-device-29520413?u=76281980&t=257)** So I'm going to choose Enterprise.
 >
@@ -1182,7 +1167,7 @@ created: 2026-05-02
 >
 > **[4:48](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/managing-mobile-devices-and-bring-your-own-device-29520413?u=76281980&t=288)** Now, you can put in the Radius server name.
 >
-> **[4:50](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/managing-mobile-devices-and-bring-your-own-device-29520413?u=76281980&t=290)** This is going to be the Windows server running the Network Policy Service.
+> **[4:50](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/managing-mobile-devices-and-bring-your-own-device-29520413?u=76281980&t=290)** This is going to be the [[Windows Server]] running the Network Policy Service.
 >
 > **[4:55](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/managing-mobile-devices-and-bring-your-own-device-29520413?u=76281980&t=295)** Microsoft renamed their Radius server application the NPS or Network Policy Service.
 >
@@ -1204,7 +1189,7 @@ created: 2026-05-02
 >
 > **[6:01](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/managing-mobile-devices-and-bring-your-own-device-29520413?u=76281980&t=361)** And here, I've created a policy that will allow for certain types of applications to be able to be used.
 >
-> **[6:09](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/managing-mobile-devices-and-bring-your-own-device-29520413?u=76281980&t=369)** In this case, I've allowed Microsoft 365 Apps to be used for Windows 10 or later.
+> **[6:09](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/managing-mobile-devices-and-bring-your-own-device-29520413?u=76281980&t=369)** In this case, I've allowed [[Microsoft 365]] Apps to be used for [[Windows 10]] or later.
 >
 > **[6:15](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/managing-mobile-devices-and-bring-your-own-device-29520413?u=76281980&t=375)** Going to close that and choose Configuration, and I'll choose to Create, Managed apps.
 >
@@ -1226,7 +1211,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (6), [[Windows]] (5), management (4), [[Security]] (3), business (3)
+> **Frameworks & Libraries:** [[Android]] (6), [[Windows]] (5), [[Privacy]] (2), [[Microsoft]] (2), [[Linux]] (2)
 > **Env Vars:** sim (4), eap (3), tls (2), dc1 (2), ssid (1)
 > **CLI Commands:** make (5), find (1)
 > **Prerequisites:** install (3), set up (1), setup (1)
@@ -1235,16 +1220,15 @@ created: 2026-05-02
 > **UI Navigation:** select the (1), go to (1)
 > **Code Identifiers:** ios (1)
 
-#### Securing IOT for users
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/securing-iot-for-users?u=76281980)
+#### [Securing IOT for users](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/securing-iot-for-users?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/securing-iot-for-users?u=76281980&t=0)** - Ever since Cisco came out with the term Internet of things about a decade ago, we have been wondering what this is going to look like.
+> **[0:00](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/securing-iot-for-users?u=76281980&t=0)** - Ever since Cisco came out with the term [[IoT|Internet of things]] about a decade ago, we have been wondering what this is going to look like.
 >
 > **[0:08](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/securing-iot-for-users?u=76281980&t=8)** It is slowly taking shape and gathering steam.
 >
-> **[0:11](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/securing-iot-for-users?u=76281980&t=11)** Basically IOT is any electronic device that could potentially connect to the internet.
+> **[0:11](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/securing-iot-for-users?u=76281980&t=11)** Basically [[IoT]] is any electronic device that could potentially connect to the internet.
 >
 > **[0:17](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/securing-iot-for-users?u=76281980&t=17)** That includes TVs, smart speakers, and light bulbs, but also fans, microwave, dishwashers, washing machines and anything that may be electric.
 >
@@ -1264,7 +1248,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/securing-iot-for-users?u=76281980&t=61)** There's multiple issues with the Internet of things devices.
 >
-> **[1:05](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/securing-iot-for-users?u=76281980&t=65)** The first is the version of IP addressing.
+> **[1:05](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/securing-iot-for-users?u=76281980&t=65)** The first is the version of [[IP Addressing]].
 >
 > **[1:08](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/securing-iot-for-users?u=76281980&t=68)** As of now, most of us use IPv4 internally to our organization.
 >
@@ -1282,7 +1266,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/securing-iot-for-users?u=76281980&t=108)** There's already been a tremendous amount of breaches into things like IP cameras and IP phone systems due to poor security.
 >
-> **[1:56](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/securing-iot-for-users?u=76281980&t=116)** Since they use a simple Linux operating system It's no problem for the hackers to create a shell into the network where the hacking can begin.
+> **[1:56](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/securing-iot-for-users?u=76281980&t=116)** Since they use a simple [[Linux]] operating system It's no problem for the hackers to create a shell into the network where the hacking can begin.
 >
 > **[2:04](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/securing-iot-for-users?u=76281980&t=124)** Therefore, we need to not only secure the devices by limiting their network access, but also locked down their IP addresses using access control lists to not be able to reverse shell out to the network or perform other nefarious acts like implanting malware.
 >
@@ -1300,7 +1284,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (5), [[Security]] (4), [[Internet of Things (IoT)|Internet of things]] (2), [[IP Addressing]] (1), functional (1)
+> **Frameworks & Libraries:** [[IoT]] (5), [[IoT|Internet of things]] (2), [[IP Addressing]] (1), [[Linux]] (1)
 > **Env Vars:** iot (5), nat (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** install (1), you'll need (1)
@@ -1312,8 +1296,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Protecting data and remote users
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/protecting-data-and-remote-users?u=76281980)
+#### [Protecting data and remote users](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/protecting-data-and-remote-users?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1339,7 +1322,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Security]] (3), cloud (2), [[Troubleshooting]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** sis (1)
 > **Cross-References:** we talked about (1)

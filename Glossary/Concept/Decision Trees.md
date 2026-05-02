@@ -55,17 +55,17 @@ created: 2026-05-02
 > 22. [[Artificial Intelligence Foundations- Machine Learning]] — 4 mentions
 > 23. [[Machine Learning & AI Foundations- Linear Regression]] — 4 mentions
 > 24. [[Python- Working with Predictive Analytics (2019)]] — 4 mentions
-> 25. [[Using AI for Data-Driven Insights]] — 3 mentions
-> 26. [[The Data Science Of Healthcare Medicine And Public Health]] — 3 mentions
-> 27. [[Python Statistics Essential Training]] — 3 mentions
-> 28. [[Advanced Python in Excel- Machine Learning]] — 3 mentions
-> 29. [[Spss Wrangling Visualizing And Modeling Data]] — 3 mentions
-> 30. [[Predictive Analytics Essential Training- Data Mining]] — 2 mentions
-> 31. [[Executive Guide to AutoML]] — 2 mentions
-> 32. [[AI Fundamentals for Data Professionals]] — 2 mentions
-> 33. [[Artificial Intelligence for Cybersecurity]] — 2 mentions
-> 34. [[Coding Exercises- Scala]] — 2 mentions
-> 35. [[Scalable Data Storage and Processing for AI Workloads]] — 2 mentions
+> 25. [[Scalable Data Storage and Processing for AI Workloads]] — 3 mentions
+> 26. [[Using AI for Data-Driven Insights]] — 3 mentions
+> 27. [[The Data Science Of Healthcare Medicine And Public Health]] — 3 mentions
+> 28. [[Python Statistics Essential Training]] — 3 mentions
+> 29. [[Advanced Python in Excel- Machine Learning]] — 3 mentions
+> 30. [[Spss Wrangling Visualizing And Modeling Data]] — 3 mentions
+> 31. [[Predictive Analytics Essential Training- Data Mining]] — 2 mentions
+> 32. [[Executive Guide to AutoML]] — 2 mentions
+> 33. [[AI Fundamentals for Data Professionals]] — 2 mentions
+> 34. [[Artificial Intelligence for Cybersecurity]] — 2 mentions
+> 35. [[Coding Exercises- Scala]] — 2 mentions
 > 36. [[Training Neural Networks in Python]] — 2 mentions
 > 37. [[The Data Science Of Economics Banking And Finance]] — 2 mentions
 > 38. [[Advanced Python Projects- Build AI Applications]] — 2 mentions

@@ -53,8 +53,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why business analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/what-is-business-analysis/why-business-analysis?u=76281980)
+#### [Why business analysis](https://www.linkedin.com/learning/what-is-business-analysis/why-business-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -78,13 +77,13 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/what-is-business-analysis/why-business-analysis?u=76281980&t=63)** Business analysis is a skillset all professionals can and should adopt.
 >
-> **[1:08](https://www.linkedin.com/learning/what-is-business-analysis/why-business-analysis?u=76281980&t=68)** Developing analysis skills can provide many benefits, including bringing clarity to decision-making.
+> **[1:08](https://www.linkedin.com/learning/what-is-business-analysis/why-business-analysis?u=76281980&t=68)** Developing analysis skills can provide many benefits, including bringing clarity to [[Decision-Making]].
 >
 > **[1:14](https://www.linkedin.com/learning/what-is-business-analysis/why-business-analysis?u=76281980&t=74)** Ready? Let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (9), management (1), teams (1), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - are (1)
@@ -94,8 +93,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is business analysis?
-> [LinkedIn Learning](https://www.linkedin.com/learning/what-is-business-analysis/what-is-business-analysis?u=76281980)
+#### [What is business analysis?](https://www.linkedin.com/learning/what-is-business-analysis/what-is-business-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -111,9 +109,9 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/what-is-business-analysis/what-is-business-analysis?u=76281980&t=45)** It is.
 >
-> **[0:46](https://www.linkedin.com/learning/what-is-business-analysis/what-is-business-analysis?u=76281980&t=46)** When we're talking about the profession of business analysis, we're referring to a vocation that consists of individuals who have experience helping organizations implement various forms of organizational change.
+> **[0:46](https://www.linkedin.com/learning/what-is-business-analysis/what-is-business-analysis?u=76281980&t=46)** When we're talking about the profession of business analysis, we're referring to a vocation that consists of individuals who have experience helping organizations implement various [[Forms]] of organizational change.
 >
-> **[1:01](https://www.linkedin.com/learning/what-is-business-analysis/what-is-business-analysis?u=76281980&t=61)** Individuals who choose a profession in business analysis are called business analysts, but they can be called systems analysts or technical analyst, agile analyst, or a host of other job titles depending on their organization's preferences.
+> **[1:01](https://www.linkedin.com/learning/what-is-business-analysis/what-is-business-analysis?u=76281980&t=61)** Individuals who choose a profession in business analysis are called business analysts, but they can be called systems analysts or technical analyst, [[Agile Development|agile]] analyst, or a host of other job titles depending on their organization's preferences.
 >
 > **[1:17](https://www.linkedin.com/learning/what-is-business-analysis/what-is-business-analysis?u=76281980&t=77)** While each of these job titles may introduce slight variations in job responsibilities, those who perform business analysis in this context consider themselves working in the business analysis profession, but not everyone who performs business analysis identifies as a business analyst or sees themselves working within the profession.
 >
@@ -133,14 +131,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (27), [[Forms]] (1), [[Agile Development|Agile]] (1), next (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Agile Development|Agile]] (1)
 > **Definitions:** is a  (2), defined as (1)
 > **Analogies:** such as (2)
 > **Env Vars:** iiba (1)
 > **Speakers:** - according (1)
 
-#### Business analysis as a profession
-> [LinkedIn Learning](https://www.linkedin.com/learning/what-is-business-analysis/business-analysis-as-a-profession?u=76281980)
+#### [Business analysis as a profession](https://www.linkedin.com/learning/what-is-business-analysis/business-analysis-as-a-profession?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -176,7 +173,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/what-is-business-analysis/business-analysis-as-a-profession?u=76281980&t=126)** A significant change was the graphical user interface, or GUI for short.
 >
-> **[2:12](https://www.linkedin.com/learning/what-is-business-analysis/business-analysis-as-a-profession?u=76281980&t=132)** Eliciting requirements for software applications now involved feature requirements, as well as focus on the user experience.
+> **[2:12](https://www.linkedin.com/learning/what-is-business-analysis/business-analysis-as-a-profession?u=76281980&t=132)** Eliciting requirements for software applications now involved feature requirements, as well as focus on the [[User Experience (UX)|user experience]].
 >
 > **[2:21](https://www.linkedin.com/learning/what-is-business-analysis/business-analysis-as-a-profession?u=76281980&t=141)** We began to see users who are also evaluating an application on its front-end look and feel, as well as the back-end processing.
 >
@@ -190,7 +187,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/what-is-business-analysis/business-analysis-as-a-profession?u=76281980&t=189)** Now business analysis as a profession was on the rise, as software was everywhere.
 >
-> **[3:16](https://www.linkedin.com/learning/what-is-business-analysis/business-analysis-as-a-profession?u=76281980&t=196)** We needed effective business analysis to ensure the right products were being built and built correctly.
+> **[3:16](https://www.linkedin.com/learning/what-is-business-analysis/business-analysis-as-a-profession?u=76281980&t=196)** We needed effective business analysis to ensure the right [[Microsoft Products|products]] were being built and built correctly.
 >
 > **[3:24](https://www.linkedin.com/learning/what-is-business-analysis/business-analysis-as-a-profession?u=76281980&t=204)** In the 2000s, business analysis was formalized as a profession with its own body of knowledge and professional certification developed by International Institute of Business Analysis, or IIBA.
 >
@@ -198,7 +195,7 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/what-is-business-analysis/business-analysis-as-a-profession?u=76281980&t=229)** Where business analysis was used to identify process improvement opportunities, we now had business process analysts.
 >
-> **[3:56](https://www.linkedin.com/learning/what-is-business-analysis/business-analysis-as-a-profession?u=76281980&t=236)** And where business analysis was used to understand business data, to support data-driven business decisions, we had data analysts and business intelligence analysts.
+> **[3:56](https://www.linkedin.com/learning/what-is-business-analysis/business-analysis-as-a-profession?u=76281980&t=236)** And where business analysis was used to understand business data, to support data-driven business decisions, we had data analysts and [[Business Intelligence (BI)|business intelligence]] analysts.
 >
 > **[4:06](https://www.linkedin.com/learning/what-is-business-analysis/business-analysis-as-a-profession?u=76281980&t=246)** And that brings us to today.
 >
@@ -206,12 +203,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (20), data (5), power (3), [[Engineering]] (2), [[User Experience (UX)|User experience]] (2)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2), [[Microsoft Products|Products]] (1), [[Business Intelligence (BI)|Business intelligence]] (1)
 > **Env Vars:** gui (1), iiba (1)
 > **Speakers:** - for (1)
 
-#### Business analysis as a set of competencies
-> [LinkedIn Learning](https://www.linkedin.com/learning/what-is-business-analysis/business-analysis-as-a-set-of-competencies?u=76281980)
+#### [Business analysis as a set of competencies](https://www.linkedin.com/learning/what-is-business-analysis/business-analysis-as-a-set-of-competencies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -249,7 +245,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/what-is-business-analysis/business-analysis-as-a-set-of-competencies?u=76281980&t=167)** She has developed skills to lead challenging discussions calmly without taking sides.
 >
-> **[2:54](https://www.linkedin.com/learning/what-is-business-analysis/business-analysis-as-a-set-of-competencies?u=76281980&t=174)** And she's quite good at removing the emotion from the decision-making process.
+> **[2:54](https://www.linkedin.com/learning/what-is-business-analysis/business-analysis-as-a-set-of-competencies?u=76281980&t=174)** And she's quite good at removing the emotion from the [[Decision-Making]] process.
 >
 > **[3:00](https://www.linkedin.com/learning/what-is-business-analysis/business-analysis-as-a-set-of-competencies?u=76281980&t=180)** When her stakeholders can't agree on a set of requirements, she could host a meeting, the task, and let the opposing sides passionately disagree until someone gives in but this will break down good working relationships.
 >
@@ -265,7 +261,7 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/what-is-business-analysis/business-analysis-as-a-set-of-competencies?u=76281980&t=236)** In business analysis, you can have little knowledge about the industry or organization and still develop requirements, the task.
 >
-> **[4:05](https://www.linkedin.com/learning/what-is-business-analysis/business-analysis-as-a-set-of-competencies?u=76281980&t=245)** However, perform the same task by layering in strong knowledge about the industry and organization, the competency, and the analyst is more apt to ask more challenging questions, probe deeper, and overall being able to better maneuver the organizational culture when working with stakeholders.
+> **[4:05](https://www.linkedin.com/learning/what-is-business-analysis/business-analysis-as-a-set-of-competencies?u=76281980&t=245)** However, perform the same task by layering in strong knowledge about the industry and organization, the competency, and the analyst is more apt to ask more challenging questions, probe deeper, and overall being able to better maneuver the [[Organizational Culture]] when working with stakeholders.
 >
 > **[4:27](https://www.linkedin.com/learning/what-is-business-analysis/business-analysis-as-a-set-of-competencies?u=76281980&t=267)** Which of these competencies do you notice in the business analyst you work with?
 >
@@ -273,14 +269,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (9), management (1), [[Decision-Making]] (1), [[Organizational Culture]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1), [[Organizational Culture]] (1)
 > **CLI Commands:** apt (1), find (1)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - competencies (1)
 
-#### Business analysis as a research discipline
-> [LinkedIn Learning](https://www.linkedin.com/learning/what-is-business-analysis/business-analysis-as-a-research-discipline?u=76281980)
+#### [Business analysis as a research discipline](https://www.linkedin.com/learning/what-is-business-analysis/business-analysis-as-a-research-discipline?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -288,7 +283,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/what-is-business-analysis/business-analysis-as-a-research-discipline?u=76281980&t=5)** But this approach is much like a game of chance, like throwing darts at a dartboard.
 >
-> **[0:11](https://www.linkedin.com/learning/what-is-business-analysis/business-analysis-as-a-research-discipline?u=76281980&t=11)** Business analysis, on the other hand, provides a structured approach to decision-making.
+> **[0:11](https://www.linkedin.com/learning/what-is-business-analysis/business-analysis-as-a-research-discipline?u=76281980&t=11)** Business analysis, on the other hand, provides a structured approach to [[Decision-Making]].
 >
 > **[0:17](https://www.linkedin.com/learning/what-is-business-analysis/business-analysis-as-a-research-discipline?u=76281980&t=17)** It provides a framework to guide analysis efforts, producing the information that enables informed decision-making.
 >
@@ -356,14 +351,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (9), [[Decision-Making]] (2), game (1), management (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - business (1)
 
-#### The career path into business analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/what-is-business-analysis/the-career-path-into-business-analysis?u=76281980)
+#### [The career path into business analysis](https://www.linkedin.com/learning/what-is-business-analysis/the-career-path-into-business-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -391,9 +385,9 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/what-is-business-analysis/the-career-path-into-business-analysis?u=76281980&t=100)** Another career path involves transitioning from a role in information technology, or IT.
 >
-> **[1:48](https://www.linkedin.com/learning/what-is-business-analysis/the-career-path-into-business-analysis?u=76281980&t=108)** We often see individuals in product support roles, technical writers, or quality assurance positions interested in transitioning into business analysis.
+> **[1:48](https://www.linkedin.com/learning/what-is-business-analysis/the-career-path-into-business-analysis?u=76281980&t=108)** We often see individuals in product support roles, technical writers, or [[Quality Assurance]] positions interested in transitioning into business analysis.
 >
-> **[1:58](https://www.linkedin.com/learning/what-is-business-analysis/the-career-path-into-business-analysis?u=76281980&t=118)** Professionals in these roles bring knowledge of existing products to the business analysis position.
+> **[1:58](https://www.linkedin.com/learning/what-is-business-analysis/the-career-path-into-business-analysis?u=76281980&t=118)** Professionals in these roles bring knowledge of existing [[Microsoft Products|products]] to the business analysis position.
 >
 > **[2:04](https://www.linkedin.com/learning/what-is-business-analysis/the-career-path-into-business-analysis?u=76281980&t=124)** Product knowledge, like business knowledge, provides important context to frame business analysis activities.
 >
@@ -429,7 +423,7 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/what-is-business-analysis/the-career-path-into-business-analysis?u=76281980&t=238)** It's been a pleasure having you as part of this course.
 >
-> **[4:01](https://www.linkedin.com/learning/what-is-business-analysis/the-career-path-into-business-analysis?u=76281980&t=241)** If you're interested in learning more, check out another LinkedIn Learning course, [[Business Analysis Foundations]] by Greta Blash.
+> **[4:01](https://www.linkedin.com/learning/what-is-business-analysis/the-career-path-into-business-analysis?u=76281980&t=241)** If you're interested in learning more, check out another [[LinkedIn]] Learning course, [[Business Analysis Foundations]] by Greta Blash.
 >
 > **[4:10](https://www.linkedin.com/learning/what-is-business-analysis/the-career-path-into-business-analysis?u=76281980&t=250)** You could also visit [iiba.org](https://iiba.org), International Institute of Business Analysis, and [pmi.org](https://pmi.org), Project Management Institute.
 >
@@ -441,7 +435,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (25), product (9), career (6), functional (1), [[Quality Assurance]] (1)
+> **Frameworks & Libraries:** [[Quality Assurance]] (1), [[Microsoft Products|Products]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (3)
 > **URLs:** [iiba.org](https://iiba.org) (1), [pmi.org](https://pmi.org) (1)
 > **Definitions:** is a  (1), is an  (1)

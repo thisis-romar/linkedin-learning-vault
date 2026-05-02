@@ -109,8 +109,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Django?
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/what-is-django?u=76281980)
+#### [What is Django?](https://www.linkedin.com/learning/django-essential-training-25094632/what-is-django?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -118,7 +117,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/django-essential-training-25094632/what-is-django?u=76281980&t=6)** We also need phenomenal security and user authentication built in to make sure we have a reliable system.
 >
-> **[0:12](https://www.linkedin.com/learning/django-essential-training-25094632/what-is-django?u=76281980&t=12)** One of the best frameworks for doing this is Django.
+> **[0:12](https://www.linkedin.com/learning/django-essential-training-25094632/what-is-django?u=76281980&t=12)** One of the best frameworks for doing this is [[Django]].
 >
 > **[0:16](https://www.linkedin.com/learning/django-essential-training-25094632/what-is-django?u=76281980&t=16)** Django is an open source framework for building web apps quickly and with very little code.
 >
@@ -130,23 +129,22 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/django-essential-training-25094632/what-is-django?u=76281980&t=36)** I'm an oceanographer that fell in love with programming and after teaching myself how to program, I've been working as a software engineer for many years.
 >
-> **[0:45](https://www.linkedin.com/learning/django-essential-training-25094632/what-is-django?u=76281980&t=45)** Join me in this LinkedIn Learning course as we dive into Django and start building your first application.
+> **[0:45](https://www.linkedin.com/learning/django-essential-training-25094632/what-is-django?u=76281980&t=45)** Join me in this [[LinkedIn]] Learning course as we dive into Django and start building your first application.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (3), application (2), [[Security]] (1), web (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Django]] (3), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### What you need to start a Django project
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/what-you-will-need-to-start-a-django-project?u=76281980)
+#### [What you need to start a Django project](https://www.linkedin.com/learning/django-essential-training-25094632/what-you-will-need-to-start-a-django-project?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/django-essential-training-25094632/what-you-will-need-to-start-a-django-project?u=76281980&t=0)** - [Leticia] There are a few things you need to get the most out of this course.
 >
-> **[0:04](https://www.linkedin.com/learning/django-essential-training-25094632/what-you-will-need-to-start-a-django-project?u=76281980&t=4)** You will need a Python 3.8 virtualenv, and you must install Django 3.2, but should also work with later versions of Django.
+> **[0:04](https://www.linkedin.com/learning/django-essential-training-25094632/what-you-will-need-to-start-a-django-project?u=76281980&t=4)** You will need a [[Python (Programming Language)|Python]] 3.8 virtualenv, and you must install [[Django]] 3.2, but should also work with later versions of Django.
 >
 > **[0:13](https://www.linkedin.com/learning/django-essential-training-25094632/what-you-will-need-to-start-a-django-project?u=76281980&t=13)** This is a simple install.
 >
@@ -160,7 +158,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/django-essential-training-25094632/what-you-will-need-to-start-a-django-project?u=76281980&t=34)** This will help you have a solid foundation and understand everything even better.
 >
-> **[0:40](https://www.linkedin.com/learning/django-essential-training-25094632/what-you-will-need-to-start-a-django-project?u=76281980&t=40)** And finally, we're going to host our exercises on GitHub, so you can check it out.
+> **[0:40](https://www.linkedin.com/learning/django-essential-training-25094632/what-you-will-need-to-start-a-django-project?u=76281980&t=40)** And finally, we're going to host our exercises on [[GitHub]], so you can check it out.
 >
 > **[0:45](https://www.linkedin.com/learning/django-essential-training-25094632/what-you-will-need-to-start-a-django-project?u=76281980&t=45)** If you need a refresher on any of this, check out some courses here in the library.
 
@@ -175,12 +173,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [leticia] (1)
 
-#### Utilizing the Django documentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/utilizing-the-django-documentation?u=76281980)
+#### [Utilizing the Django documentation](https://www.linkedin.com/learning/django-essential-training-25094632/utilizing-the-django-documentation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/django-essential-training-25094632/utilizing-the-django-documentation?u=76281980&t=0)** - [Instructor] Django has one of my favorite features a framework can have, it has an extensive and impressive documentation.
+> **[0:00](https://www.linkedin.com/learning/django-essential-training-25094632/utilizing-the-django-documentation?u=76281980&t=0)** - [Instructor] [[Django]] has one of my favorite features a framework can have, it has an extensive and impressive documentation.
 >
 > **[0:08](https://www.linkedin.com/learning/django-essential-training-25094632/utilizing-the-django-documentation?u=76281980&t=8)** Django was created within a newspaper, so from the get go, their documentation was a major focus of its developers.
 >
@@ -202,17 +199,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (4), [[Programming]] (1), career (1)
+> **Frameworks & Libraries:** [[Django]] (4)
 > **CLI Commands:** find (1)
 > **Documentation:** the docs (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using Codespaces in this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/using-codespaces-in-this-course?u=76281980)
+#### [Using Codespaces in this course](https://www.linkedin.com/learning/django-essential-training-25094632/using-codespaces-in-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/django-essential-training-25094632/using-codespaces-in-this-course?u=76281980&t=0)** - [Instructor] You can choose where you want to do this course, but one cool feature we have available now is that you can do our entire course in your browser using GitHub Codespaces.
+> **[0:00](https://www.linkedin.com/learning/django-essential-training-25094632/using-codespaces-in-this-course?u=76281980&t=0)** - [Instructor] You can choose where you want to do this course, but one cool feature we have available now is that you can do our entire course in your browser using [[GitHub]] [[Codespaces]].
 >
 > **[0:11](https://www.linkedin.com/learning/django-essential-training-25094632/using-codespaces-in-this-course?u=76281980&t=11)** To do that, you can access the link of the course on GitHub.
 >
@@ -226,11 +222,11 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/django-essential-training-25094632/using-codespaces-in-this-course?u=76281980&t=61)** Let's make sure our environment is installed correctly.
 >
-> **[1:04](https://www.linkedin.com/learning/django-essential-training-25094632/using-codespaces-in-this-course?u=76281980&t=64)** If we type python --version, we'll see here that we have Python installed with version 3.10.
+> **[1:04](https://www.linkedin.com/learning/django-essential-training-25094632/using-codespaces-in-this-course?u=76281980&t=64)** If we type [[Python (Programming Language)|python]] --version, we'll see here that we have Python installed with version 3.10.
 >
 > **[1:14](https://www.linkedin.com/learning/django-essential-training-25094632/using-codespaces-in-this-course?u=76281980&t=74)** We can also use pip freeze to see which packages are installed.
 >
-> **[1:20](https://www.linkedin.com/learning/django-essential-training-25094632/using-codespaces-in-this-course?u=76281980&t=80)** In my case here, you can see that I don't have Django installed, so I can use pip to install it.
+> **[1:20](https://www.linkedin.com/learning/django-essential-training-25094632/using-codespaces-in-this-course?u=76281980&t=80)** In my case here, you can see that I don't have [[Django]] installed, so I can use pip to install it.
 >
 > **[1:26](https://www.linkedin.com/learning/django-essential-training-25094632/using-codespaces-in-this-course?u=76281980&t=86)** So pip install Django.
 >
@@ -242,7 +238,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (3), [[Django]] (3), [[Codespaces]] (2), [[Python (Programming Language)|Python]] (2), feature (1)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Django]] (3), [[Codespaces]] (2), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** pip (3), python (2), make (1)
 > **Tools:** github (3), vs code (1), terminal (1)
 > **Prerequisites:** install (4)
@@ -255,12 +251,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating a new Django project
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/creating-a-new-django-project?u=76281980)
+#### [Creating a new Django project](https://www.linkedin.com/learning/django-essential-training-25094632/creating-a-new-django-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/django-essential-training-25094632/creating-a-new-django-project?u=76281980&t=0)** - [Instructor] With Django, we can have a whole project working in a matter of minutes.
+> **[0:00](https://www.linkedin.com/learning/django-essential-training-25094632/creating-a-new-django-project?u=76281980&t=0)** - [Instructor] With [[Django]], we can have a whole project working in a matter of minutes.
 >
 > **[0:05](https://www.linkedin.com/learning/django-essential-training-25094632/creating-a-new-django-project?u=76281980&t=5)** We can start our project by using a Django command called django-admin, and then a sub-command, startproject, then the name of our project, smartnotes, and then . to indicate we want to create the project in this folder.
 >
@@ -290,7 +285,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/django-essential-training-25094632/creating-a-new-django-project?u=76281980&t=107)** As magic as this sounds, you already have everything you need to run your project.
 >
-> **[1:53](https://www.linkedin.com/learning/django-essential-training-25094632/creating-a-new-django-project?u=76281980&t=113)** You can use python, then the file manage.py, and the command runserver to create a server using the default configurations we have right here.
+> **[1:53](https://www.linkedin.com/learning/django-essential-training-25094632/creating-a-new-django-project?u=76281980&t=113)** You can use [[Python (Programming Language)|python]], then the file manage.py, and the command runserver to create a server using the default configurations we have right here.
 >
 > **[2:07](https://www.linkedin.com/learning/django-essential-training-25094632/creating-a-new-django-project?u=76281980&t=127)** We can see here that there is some warnings in red, but you don't have to worry about it for now.
 >
@@ -312,7 +307,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (6), database (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Django]] (6), [[Python (Programming Language)|Python]] (1)
 > **File Paths:** manage.py (3), settings.py (3), urls.py (1)
 > **Definitions:** means that (3), is a  (1)
 > **CLI Commands:** python (1)
@@ -321,16 +316,15 @@ created: 2026-05-02
 > **Versions:** version 3 (1)
 > **Analogies:** for instance (1)
 
-#### The model view template
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/the-model-view-template?u=76281980)
+#### [The model view template](https://www.linkedin.com/learning/django-essential-training-25094632/the-model-view-template?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/django-essential-training-25094632/the-model-view-template?u=76281980&t=0)** - [Instructor] When dealing with big software projects, we need to make sure we are not creating a mess.
+> **[0:00](https://www.linkedin.com/learning/django-essential-training-25094632/the-model-view-template?u=76281980&t=0)** - [Instructor] When dealing with big [[Software Projects]], we need to make sure we are not creating a mess.
 >
 > **[0:06](https://www.linkedin.com/learning/django-essential-training-25094632/the-model-view-template?u=76281980&t=6)** The way we do this is to compartmentalize our project into smaller sections that have clear boundaries from day one.
 >
-> **[0:14](https://www.linkedin.com/learning/django-essential-training-25094632/the-model-view-template?u=76281980&t=14)** That's why Django created the concept of apps.
+> **[0:14](https://www.linkedin.com/learning/django-essential-training-25094632/the-model-view-template?u=76281980&t=14)** That's why [[Django]] created the concept of apps.
 >
 > **[0:18](https://www.linkedin.com/learning/django-essential-training-25094632/the-model-view-template?u=76281980&t=18)** Let's create one to understand it better.
 >
@@ -404,11 +398,11 @@ created: 2026-05-02
 >
 > **[4:39](https://www.linkedin.com/learning/django-essential-training-25094632/the-model-view-template?u=76281980&t=279)** The model Layer handles the data and how it's stored, and we'll see more about it in Chapter 3.
 >
-> **[4:47](https://www.linkedin.com/learning/django-essential-training-25094632/the-model-view-template?u=76281980&t=287)** The template layer allow us to render the information coming from the database into lovely HTML pages.
+> **[4:47](https://www.linkedin.com/learning/django-essential-training-25094632/the-model-view-template?u=76281980&t=287)** The template layer allow us to render the information coming from the database into lovely [[HTML]] pages.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (7), [[Software Projects]] (1), data (1), database (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Django]] (7), [[Software Projects]] (1), [[HTML]] (1)
 > **UI Navigation:** go to (5), open the (1)
 > **File Paths:** urls.py (3), settings.py (1)
 > **Env Vars:** http (1), mvt (1), html (1)
@@ -417,12 +411,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Minimum working page
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/minimum-working-page?u=76281980)
+#### [Minimum working page](https://www.linkedin.com/learning/django-essential-training-25094632/minimum-working-page?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/django-essential-training-25094632/minimum-working-page?u=76281980&t=0)** - [Instructor] Okay, it's time to learn how to return HTML pages by using the amazing Django template language.
+> **[0:00](https://www.linkedin.com/learning/django-essential-training-25094632/minimum-working-page?u=76281980&t=0)** - [Instructor] Okay, it's time to learn how to return [[HTML]] pages by using the amazing [[Django]] template language.
 >
 > **[0:08](https://www.linkedin.com/learning/django-essential-training-25094632/minimum-working-page?u=76281980&t=8)** Let's start by creating a folder called templates inside our app folder.
 >
@@ -480,7 +473,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (10), [[Django]] (5), [[Programming]] (1)
+> **Frameworks & Libraries:** [[HTML]] (10), [[Django]] (5)
 > **Env Vars:** html (8), dtl (3)
 > **Exercise Files:** template (8)
 > **Definitions:** is a  (2)
@@ -489,8 +482,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Warnings:** warning (1)
 
-#### Creating your first Django template
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/creating-your-first-django-template?u=76281980)
+#### [Creating your first Django template](https://www.linkedin.com/learning/django-essential-training-25094632/creating-your-first-django-template?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -498,7 +490,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/django-essential-training-25094632/creating-your-first-django-template?u=76281980&t=5)** Let's take a minute to understand a bit more why this type of modularization is such an important concept.
 >
-> **[0:13](https://www.linkedin.com/learning/django-essential-training-25094632/creating-your-first-django-template?u=76281980&t=13)** As you've seen, an app is a small library that is contained inside your Django project.
+> **[0:13](https://www.linkedin.com/learning/django-essential-training-25094632/creating-your-first-django-template?u=76281980&t=13)** As you've seen, an app is a small library that is contained inside your [[Django]] project.
 >
 > **[0:20](https://www.linkedin.com/learning/django-essential-training-25094632/creating-your-first-django-template?u=76281980&t=20)** We can have as many apps as we want.
 >
@@ -506,7 +498,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/django-essential-training-25094632/creating-your-first-django-template?u=76281980&t=32)** That's why we need to understand what we need to do to make good Django apps.
 >
-> **[0:38](https://www.linkedin.com/learning/django-essential-training-25094632/creating-your-first-django-template?u=76281980&t=38)** Good software projects should be well modularized, and your Django project should be no different.
+> **[0:38](https://www.linkedin.com/learning/django-essential-training-25094632/creating-your-first-django-template?u=76281980&t=38)** Good [[Software Projects]] should be well modularized, and your Django project should be no different.
 >
 > **[0:45](https://www.linkedin.com/learning/django-essential-training-25094632/creating-your-first-django-template?u=76281980&t=45)** That's why each app should be self-contained, which means that everything you need for that app should live inside it.
 >
@@ -562,12 +554,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Django admin: Easily visualizing and creating data
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/django-admin-easily-visualizing-and-creating-data?u=76281980)
+#### [Django admin: Easily visualizing and creating data](https://www.linkedin.com/learning/django-essential-training-25094632/django-admin-easily-visualizing-and-creating-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/django-essential-training-25094632/django-admin-easily-visualizing-and-creating-data?u=76281980&t=0)** - [Instructor] Even though Django is typically known for the easy in which we can create endpoints, one of the most powerful features is the Django Admin Interface.
+> **[0:00](https://www.linkedin.com/learning/django-essential-training-25094632/django-admin-easily-visualizing-and-creating-data?u=76281980&t=0)** - [Instructor] Even though [[Django]] is typically known for the easy in which we can create endpoints, one of the most powerful features is the Django Admin Interface.
 >
 > **[0:11](https://www.linkedin.com/learning/django-essential-training-25094632/django-admin-easily-visualizing-and-creating-data?u=76281980&t=11)** It provides an interface so that site administrators, like you and me, can easily view and manipulate data.
 >
@@ -649,7 +640,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (11), database (8), data (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Django]] (11)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (2)
 > **UI Navigation:** open the (1)
@@ -657,12 +648,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Migrations: Making database changes easy
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/migrations-making-database-changes-easy?u=76281980)
+#### [Migrations: Making database changes easy](https://www.linkedin.com/learning/django-essential-training-25094632/migrations-making-database-changes-easy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/django-essential-training-25094632/migrations-making-database-changes-easy?u=76281980&t=0)** - [Instructor] The Django admin interface allow us to quickly and easily access data that exists in the database.
+> **[0:00](https://www.linkedin.com/learning/django-essential-training-25094632/migrations-making-database-changes-easy?u=76281980&t=0)** - [Instructor] The [[Django]] admin interface allow us to quickly and easily access data that exists in the database.
 >
 > **[0:07](https://www.linkedin.com/learning/django-essential-training-25094632/migrations-making-database-changes-easy?u=76281980&t=7)** This means that Users and Groups, you can see here, are actually tables in our database.
 >
@@ -716,19 +706,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Django]] (4), database (3), [[Search]] (3)
+> **Frameworks & Libraries:** [[Django]] (4)
 > **Analogies:** such as (2), for instance (1)
 > **Cross-References:** go back to (2)
 > **Definitions:** means that (1), is a  (1)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
-#### User authentication in two simple steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/user-authentication-in-two-simple-steps?u=76281980)
+#### [User authentication in two simple steps](https://www.linkedin.com/learning/django-essential-training-25094632/user-authentication-in-two-simple-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/django-essential-training-25094632/user-authentication-in-two-simple-steps?u=76281980&t=0)** - [Instructor] So far, you've learned that Django comes with a powerful authentication system already ready to be used.
+> **[0:00](https://www.linkedin.com/learning/django-essential-training-25094632/user-authentication-in-two-simple-steps?u=76281980&t=0)** - [Instructor] So far, you've learned that [[Django]] comes with a powerful authentication system already ready to be used.
 >
 > **[0:07](https://www.linkedin.com/learning/django-essential-training-25094632/user-authentication-in-two-simple-steps?u=76281980&t=7)** Now let's learn how to use it.
 >
@@ -736,7 +725,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/django-essential-training-25094632/user-authentication-in-two-simple-steps?u=76281980&t=16)** Let's call it authorized.
 >
-> **[0:20](https://www.linkedin.com/learning/django-essential-training-25094632/user-authentication-in-two-simple-steps?u=76281980&t=20)** And in here, let's create a simple HTML that has a title, you are in a restricted area.
+> **[0:20](https://www.linkedin.com/learning/django-essential-training-25094632/user-authentication-in-two-simple-steps?u=76281980&t=20)** And in here, let's create a simple [[HTML]] that has a title, you are in a restricted area.
 >
 > **[0:31](https://www.linkedin.com/learning/django-essential-training-25094632/user-authentication-in-two-simple-steps?u=76281980&t=31)** Now we can go back to the views file and create a very similar function to home.
 >
@@ -812,12 +801,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to ORMs
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/introduction-to-orms?u=76281980)
+#### [Introduction to ORMs](https://www.linkedin.com/learning/django-essential-training-25094632/introduction-to-orms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/django-essential-training-25094632/introduction-to-orms?u=76281980&t=0)** - [Instructor] So far, you've gotten familiarized with the user models, which were completely defined by Django.
+> **[0:00](https://www.linkedin.com/learning/django-essential-training-25094632/introduction-to-orms?u=76281980&t=0)** - [Instructor] So far, you've gotten familiarized with the user models, which were completely defined by [[Django]].
 >
 > **[0:06](https://www.linkedin.com/learning/django-essential-training-25094632/introduction-to-orms?u=76281980&t=6)** Now, it's time to understand how to create your own models and how the structure of creating models work.
 >
@@ -835,22 +823,21 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/django-essential-training-25094632/introduction-to-orms?u=76281980&t=57)** Similarly, we can use the command MakeMigrations to create migrations based on the current code.
 >
-> **[1:04](https://www.linkedin.com/learning/django-essential-training-25094632/introduction-to-orms?u=76281980&t=64)** The process of using a class, defining a model, creating a migration, and applying the migration and the changes to the database is the ORM's job, and Django's ORM is known for being one of the best ORMs for Python and SQL databases.
+> **[1:04](https://www.linkedin.com/learning/django-essential-training-25094632/introduction-to-orms?u=76281980&t=64)** The process of using a class, defining a model, creating a migration, and applying the migration and the changes to the database is the ORM's job, and Django's ORM is known for being one of the best ORMs for [[Python (Programming Language)|Python]] and [[SQL]] [[Databases]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), [[Django]] (3), [[Python (Programming Language)|Python]] (1), [[SQL]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Django]] (3), [[Python (Programming Language)|Python]] (1), [[SQL]] (1), [[Databases]] (1)
 > **Env Vars:** orm (3), sql (1)
 > **Definitions:** is a  (2), known as (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating your first model
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/creating-your-first-model?u=76281980)
+#### [Creating your first model](https://www.linkedin.com/learning/django-essential-training-25094632/creating-your-first-model?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/django-essential-training-25094632/creating-your-first-model?u=76281980&t=0)** - [Instructor] It is time for us to learn how to create a new model using Django ORM.
+> **[0:00](https://www.linkedin.com/learning/django-essential-training-25094632/creating-your-first-model?u=76281980&t=0)** - [Instructor] It is time for us to learn how to create a new model using [[Django]] ORM.
 >
 > **[0:05](https://www.linkedin.com/learning/django-essential-training-25094632/creating-your-first-model?u=76281980&t=5)** Let's create a new app specifically for our notes.
 >
@@ -908,7 +895,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/django-essential-training-25094632/creating-your-first-model?u=76281980&t=139)** Luckily, this is super easy to do.
 >
-> **[2:21](https://www.linkedin.com/learning/django-essential-training-25094632/creating-your-first-model?u=76281980&t=141)** Let's type python manage.py makemigrations.
+> **[2:21](https://www.linkedin.com/learning/django-essential-training-25094632/creating-your-first-model?u=76281980&t=141)** Let's type [[Python (Programming Language)|python]] manage.py makemigrations.
 >
 > **[2:28](https://www.linkedin.com/learning/django-essential-training-25094632/creating-your-first-model?u=76281980&t=148)** Let's see what happened here.
 >
@@ -930,7 +917,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), [[Django]] (3), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Django]] (3), [[Python (Programming Language)|Python]] (2)
 > **Definitions:** is a  (4), means that (2)
 > **File Paths:** manage.py (2), models.py (1)
 > **CLI Commands:** python (2), make (1)
@@ -939,12 +926,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1), open the (1)
 > **Cross-References:** go back to (1)
 
-#### Using admin for data creation and manipulation
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/using-admin-for-data-creation-and-manipulation?u=76281980)
+#### [Using admin for data creation and manipulation](https://www.linkedin.com/learning/django-essential-training-25094632/using-admin-for-data-creation-and-manipulation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/django-essential-training-25094632/using-admin-for-data-creation-and-manipulation?u=76281980&t=0)** - [Instructor] We've already created a table for notes, but if you're curious enough to go to the Django admin interface, you'll notice that nothing really changed.
+> **[0:00](https://www.linkedin.com/learning/django-essential-training-25094632/using-admin-for-data-creation-and-manipulation?u=76281980&t=0)** - [Instructor] We've already created a table for notes, but if you're curious enough to go to the [[Django]] admin interface, you'll notice that nothing really changed.
 >
 > **[0:09](https://www.linkedin.com/learning/django-essential-training-25094632/using-admin-for-data-creation-and-manipulation?u=76281980&t=9)** Why is that?
 >
@@ -1020,16 +1006,15 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using Django shell for creating and querying data
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/using-django-shell-for-creating-and-querying-data?u=76281980)
+#### [Using Django shell for creating and querying data](https://www.linkedin.com/learning/django-essential-training-25094632/using-django-shell-for-creating-and-querying-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/django-essential-training-25094632/using-django-shell-for-creating-and-querying-data?u=76281980&t=0)** - [Instructor] We've already learned how to do things via Django admin, but it's time to learn how to handle models through code.
+> **[0:00](https://www.linkedin.com/learning/django-essential-training-25094632/using-django-shell-for-creating-and-querying-data?u=76281980&t=0)** - [Instructor] We've already learned how to do things via [[Django]] admin, but it's time to learn how to handle models through code.
 >
 > **[0:07](https://www.linkedin.com/learning/django-essential-training-25094632/using-django-shell-for-creating-and-querying-data?u=76281980&t=7)** Django has a tool we can use to check the content of a database, which will make our lives so much easier, the Django shell.
 >
-> **[0:16](https://www.linkedin.com/learning/django-essential-training-25094632/using-django-shell-for-creating-and-querying-data?u=76281980&t=16)** Let's go to the terminal and type python manage.py shell.
+> **[0:16](https://www.linkedin.com/learning/django-essential-training-25094632/using-django-shell-for-creating-and-querying-data?u=76281980&t=16)** Let's go to the terminal and type [[Python (Programming Language)|python]] manage.py shell.
 >
 > **[0:23](https://www.linkedin.com/learning/django-essential-training-25094632/using-django-shell-for-creating-and-querying-data?u=76281980&t=23)** You can see here that we have a Python interpreter.
 >
@@ -1069,7 +1054,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/django-essential-training-25094632/using-django-shell-for-creating-and-querying-data?u=76281980&t=152)** We can also filter notes that we want.
 >
-> **[2:35](https://www.linkedin.com/learning/django-essential-training-25094632/using-django-shell-for-creating-and-querying-data?u=76281980&t=155)** For instance, we can query for notes that have titles starting with the word my, Notes.objects.filter, where the title__startswith the word My.
+> **[2:35](https://www.linkedin.com/learning/django-essential-training-25094632/using-django-shell-for-creating-and-querying-data?u=76281980&t=155)** For instance, we can query for notes that have titles starting with the [[Microsoft Word|word]] my, Notes.objects.filter, where the title__startswith the word My.
 >
 > **[2:53](https://www.linkedin.com/learning/django-essential-training-25094632/using-django-shell-for-creating-and-querying-data?u=76281980&t=173)** Yeah, the filter also returns a query set, which, in this case, returns the first object.
 >
@@ -1109,7 +1094,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (12), [[Microsoft Word|Word]] (9), database (5), [[Python (Programming Language)|Python]] (2), data (2)
+> **Frameworks & Libraries:** [[Django]] (12), [[Microsoft Word|Word]] (9), [[Python (Programming Language)|Python]] (2)
 > **Analogies:** for instance (4), think of it as (1), imagine (1)
 > **CLI Commands:** python (2), make (1), find (1)
 > **Code Identifiers:** new_note (1), title__startswith (1), text__icontains (1), text__contains (1)
@@ -1118,8 +1103,7 @@ created: 2026-05-02
 > **File Paths:** manage.py (1)
 > **Env Vars:** orm (1)
 
-#### </> Code challenge: Adding likes to notes
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/code-challenge-adding-likes-to-notes?u=76281980)
+#### [</> Code challenge: Adding likes to notes](https://www.linkedin.com/learning/django-essential-training-25094632/code-challenge-adding-likes-to-notes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1151,15 +1135,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), feature (1), next (1)
 > **Prerequisites:** you'll need (2)
 > **Cross-References:** next video (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat electronic music) (1)
 
-#### Solution: Adding likes to notes
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/solution-adding-likes-to-notes?u=76281980)
+#### [Solution: Adding likes to notes](https://www.linkedin.com/learning/django-essential-training-25094632/solution-adding-likes-to-notes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1209,11 +1191,11 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/django-essential-training-25094632/solution-adding-likes-to-notes?u=76281980&t=135)** The command is exactly the same as the one we used before.
 >
-> **[2:19](https://www.linkedin.com/learning/django-essential-training-25094632/solution-adding-likes-to-notes?u=76281980&t=139)** python manage.py makemigrations.
+> **[2:19](https://www.linkedin.com/learning/django-essential-training-25094632/solution-adding-likes-to-notes?u=76281980&t=139)** [[Python (Programming Language)|python]] manage.py makemigrations.
 >
 > **[2:24](https://www.linkedin.com/learning/django-essential-training-25094632/solution-adding-likes-to-notes?u=76281980&t=144)** Okay. We have a new migration.
 >
-> **[2:26](https://www.linkedin.com/learning/django-essential-training-25094632/solution-adding-likes-to-notes?u=76281980&t=146)** We can see here that Django will create a second migration starting with the number 0002.
+> **[2:26](https://www.linkedin.com/learning/django-essential-training-25094632/solution-adding-likes-to-notes?u=76281980&t=146)** We can see here that [[Django]] will create a second migration starting with the number 0002.
 >
 > **[2:34](https://www.linkedin.com/learning/django-essential-training-25094632/solution-adding-likes-to-notes?u=76281980&t=154)** If we open the migration, we can see that this is a set of instructions.
 >
@@ -1235,7 +1217,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), [[Python (Programming Language)|Python]] (2), [[Django]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Django]] (2)
 > **Definitions:** means that (2), is a  (2)
 > **CLI Commands:** python (2), make (1)
 > **File Paths:** manage.py (2)
@@ -1249,8 +1231,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating a dynamic template
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/creating-a-dynamic-template?u=76281980)
+#### [Creating a dynamic template](https://www.linkedin.com/learning/django-essential-training-25094632/creating-a-dynamic-template?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1262,7 +1243,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/django-essential-training-25094632/creating-a-dynamic-template?u=76281980&t=21)** Okay, now let's create a function call list that receives a request and then a variable, all_notes that stores all the notes that we have in our database.
 >
-> **[0:38](https://www.linkedin.com/learning/django-essential-training-25094632/creating-a-dynamic-template?u=76281980&t=38)** Now, let's return the render function again, request a template that we're going to create a little bit later, notes/notes_list.html.
+> **[0:38](https://www.linkedin.com/learning/django-essential-training-25094632/creating-a-dynamic-template?u=76281980&t=38)** Now, let's return the render function again, request a template that we're going to create a little bit later, notes/notes_list.[[HTML]].
 >
 > **[0:51](https://www.linkedin.com/learning/django-essential-training-25094632/creating-a-dynamic-template?u=76281980&t=51)** And now the brackets with notes are equal to all_notes.
 >
@@ -1274,7 +1255,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/django-essential-training-25094632/creating-a-dynamic-template?u=76281980&t=80)** So let's create a new URLs file here and that's going to have the same format.
 >
-> **[1:28](https://www.linkedin.com/learning/django-essential-training-25094632/creating-a-dynamic-template?u=76281980&t=88)** So from django.urls import path.
+> **[1:28](https://www.linkedin.com/learning/django-essential-training-25094632/creating-a-dynamic-template?u=76281980&t=88)** So from [[Django]].urls import path.
 >
 > **[1:33](https://www.linkedin.com/learning/django-essential-training-25094632/creating-a-dynamic-template?u=76281980&t=93)** Then let's import the views here, and then the urlpatterns that has a list.
 >
@@ -1348,7 +1329,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), [[HTML]] (4), [[Django]] (2), data (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[Django]] (2)
 > **Exercise Files:** template (10)
 > **File Paths:** views.py (1), notes/notes_list.html (1), urls.py (1), notes_list.html (1)
 > **Code Identifiers:** all_notes (2), notes_list (1)
@@ -1357,8 +1338,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating your first Django dynamic webpage
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/creating-your-first-django-dynamic-webpage?u=76281980)
+#### [Creating your first Django dynamic webpage](https://www.linkedin.com/learning/django-essential-training-25094632/creating-your-first-django-dynamic-webpage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1376,7 +1356,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/django-essential-training-25094632/creating-your-first-django-dynamic-webpage?u=76281980&t=47)** Okay, and the common response, return render the request.
 >
-> **[0:54](https://www.linkedin.com/learning/django-essential-training-25094632/creating-your-first-django-dynamic-webpage?u=76281980&t=54)** Let's keep the pattern here, so notes/notes_detail.html, and then let's pass note inside the brackets.
+> **[0:54](https://www.linkedin.com/learning/django-essential-training-25094632/creating-your-first-django-dynamic-webpage?u=76281980&t=54)** Let's keep the pattern here, so notes/notes_detail.[[HTML]], and then let's pass note inside the brackets.
 >
 > **[1:06](https://www.linkedin.com/learning/django-essential-training-25094632/creating-your-first-django-dynamic-webpage?u=76281980&t=66)** Okay, now, what we need to do is create the template.
 >
@@ -1412,7 +1392,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/django-essential-training-25094632/creating-your-first-django-dynamic-webpage?u=76281980&t=198)** We can also see here that there is a message with the exception saying, "Notes matching query does not exist."
 >
-> **[3:27](https://www.linkedin.com/learning/django-essential-training-25094632/creating-your-first-django-dynamic-webpage?u=76281980&t=207)** Django has an amazing traceback for us to understand where exactly the error happened.
+> **[3:27](https://www.linkedin.com/learning/django-essential-training-25094632/creating-your-first-django-dynamic-webpage?u=76281980&t=207)** [[Django]] has an amazing traceback for us to understand where exactly the error happened.
 >
 > **[3:34](https://www.linkedin.com/learning/django-essential-training-25094632/creating-your-first-django-dynamic-webpage?u=76281980&t=214)** You can see right here that the problem is started in line 11 on the notes views.py file, which is exactly where we defined the query.
 >
@@ -1442,7 +1422,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (3), database (2), [[Django]] (2)
+> **Frameworks & Libraries:** [[HTML]] (3), [[Django]] (2)
 > **File Paths:** views.py (2), notes/notes_detail.html (1), notes_detail.html (1)
 > **Env Vars:** url (4)
 > **Exercise Files:** template (3)
@@ -1451,14 +1431,13 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **CLI Commands:** make (1)
 
-#### How can Django can list data with just some small changes
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/how-can-django-can-list-data-with-just-some-small-changes?u=76281980)
+#### [How can Django can list data with just some small changes](https://www.linkedin.com/learning/django-essential-training-25094632/how-can-django-can-list-data-with-just-some-small-changes?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/django-essential-training-25094632/how-can-django-can-list-data-with-just-some-small-changes?u=76281980&t=0)** - [Instructor] So far, you've learned how to create views using functions.
 >
-> **[0:05](https://www.linkedin.com/learning/django-essential-training-25094632/how-can-django-can-list-data-with-just-some-small-changes?u=76281980&t=5)** However, Django has a couple more features that we can leverage to get things even simpler.
+> **[0:05](https://www.linkedin.com/learning/django-essential-training-25094632/how-can-django-can-list-data-with-just-some-small-changes?u=76281980&t=5)** However, [[Django]] has a couple more features that we can leverage to get things even simpler.
 >
 > **[0:13](https://www.linkedin.com/learning/django-essential-training-25094632/how-can-django-can-list-data-with-just-some-small-changes?u=76281980&t=13)** Welcome to Class-Based Views.
 >
@@ -1550,7 +1529,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (3), generic (1)
+> **Frameworks & Libraries:** [[Django]] (3)
 > **Code Identifiers:** as_view (2), extra_context (1), template_name (1), login_url (1)
 > **Exercise Files:** template (5)
 > **CLI Commands:** make (2)
@@ -1559,8 +1538,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 
-#### Introduction to Django class-based views: A few classes have the power to change the world
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/introduction-django-class-basd-views-few-classes-have-the-power-to-change-the-world?u=76281980)
+#### [Introduction to Django class-based views: A few classes have the power to change the world](https://www.linkedin.com/learning/django-essential-training-25094632/introduction-django-class-basd-views-few-classes-have-the-power-to-change-the-world?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1570,7 +1548,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/django-essential-training-25094632/introduction-django-class-basd-views-few-classes-have-the-power-to-change-the-world?u=76281980&t=8)** On the notes, let's go to views.py file.
 >
-> **[0:12](https://www.linkedin.com/learning/django-essential-training-25094632/introduction-django-class-basd-views-few-classes-have-the-power-to-change-the-world?u=76281980&t=12)** And in here, let's import from Django.views.generic import ListView.
+> **[0:12](https://www.linkedin.com/learning/django-essential-training-25094632/introduction-django-class-basd-views-few-classes-have-the-power-to-change-the-world?u=76281980&t=12)** And in here, let's import from [[Django]].views.generic import ListView.
 >
 > **[0:21](https://www.linkedin.com/learning/django-essential-training-25094632/introduction-django-class-basd-views-few-classes-have-the-power-to-change-the-world?u=76281980&t=21)** Okay, now we can start our class-based view.
 >
@@ -1614,7 +1592,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/django-essential-training-25094632/introduction-django-class-basd-views-few-classes-have-the-power-to-change-the-world?u=76281980&t=121)** You guessed it correctly.
 >
-> **[2:03](https://www.linkedin.com/learning/django-essential-training-25094632/introduction-django-class-basd-views-few-classes-have-the-power-to-change-the-world?u=76281980&t=123)** So we can say here, notes notes_list.html.
+> **[2:03](https://www.linkedin.com/learning/django-essential-training-25094632/introduction-django-class-basd-views-few-classes-have-the-power-to-change-the-world?u=76281980&t=123)** So we can say here, notes notes_list.[[HTML]].
 >
 > **[2:11](https://www.linkedin.com/learning/django-essential-training-25094632/introduction-django-class-basd-views-few-classes-have-the-power-to-change-the-world?u=76281980&t=131)** Yeah, that's all we have to do for the list endpoint.
 >
@@ -1658,7 +1636,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (2), generic (1), [[HTML]] (1), feature (1)
+> **Frameworks & Libraries:** [[Django]] (2), [[HTML]] (1)
 > **UI Navigation:** go to (5)
 > **Exercise Files:** template (4)
 > **Code Identifiers:** notes_list (1), context_object_name (1), as_view (1)
@@ -1666,8 +1644,7 @@ created: 2026-05-02
 > **Env Vars:** url (2)
 > **Speakers:** - [instructor] (1)
 
-#### </> Code challenge: Showing just popular notes
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/code-challenge-showing-just-popular-notes?u=76281980)
+#### [</> Code challenge: Showing just popular notes](https://www.linkedin.com/learning/django-essential-training-25094632/code-challenge-showing-just-popular-notes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1691,7 +1668,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/django-essential-training-25094632/code-challenge-showing-just-popular-notes?u=76281980&t=60)** And third, you need to change how to query for notes that have more than one like, so how to actually implement that future.
 >
-> **[1:09](https://www.linkedin.com/learning/django-essential-training-25094632/code-challenge-showing-just-popular-notes?u=76281980&t=69)** Although you can use the main documentation from Django, for class-based views, I particularly like the website [ccbv.co](https://ccbv.co).uk.
+> **[1:09](https://www.linkedin.com/learning/django-essential-training-25094632/code-challenge-showing-just-popular-notes?u=76281980&t=69)** Although you can use the main documentation from [[Django]], for class-based views, I particularly like the website [ccbv.co](https://ccbv.co).uk.
 >
 > **[1:19](https://www.linkedin.com/learning/django-essential-training-25094632/code-challenge-showing-just-popular-notes?u=76281980&t=79)** So Classy Class-Based Views.
 >
@@ -1699,18 +1676,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Django]] (1)
+> **Frameworks & Libraries:** [[Django]] (1)
 > **URLs:** [ccbv.co](https://ccbv.co) (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Showing just popular notes
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/solution-showing-just-popular-notes?u=76281980)
+#### [Solution: Showing just popular notes](https://www.linkedin.com/learning/django-essential-training-25094632/solution-showing-just-popular-notes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/django-essential-training-25094632/solution-showing-just-popular-notes?u=76281980&t=0)** - [Instructor] As I said, for class-based views, my go-to tool is the CCBV website, even more than the Django docs.
+> **[0:00](https://www.linkedin.com/learning/django-essential-training-25094632/solution-showing-just-popular-notes?u=76281980&t=0)** - [Instructor] As I said, for class-based views, my go-to tool is the CCBV website, even more than the [[Django]] docs.
 >
 > **[0:13](https://www.linkedin.com/learning/django-essential-training-25094632/solution-showing-just-popular-notes?u=76281980&t=13)** We can go to the website and dig into ListView.
 >
@@ -1780,8 +1756,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Static files in Django
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/static-files-in-django?u=76281980)
+#### [Static files in Django](https://www.linkedin.com/learning/django-essential-training-25094632/static-files-in-django?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1789,11 +1764,11 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/django-essential-training-25094632/static-files-in-django?u=76281980&t=3)** Our templates are too simple with just ATML on them, so let's add some colors!
 >
-> **[0:10](https://www.linkedin.com/learning/django-essential-training-25094632/static-files-in-django?u=76281980&t=10)** The first thing we need to do is create a folder where we're going to store all the static files, such as the CSS and JavaScript files, images, videos, et cetera.
+> **[0:10](https://www.linkedin.com/learning/django-essential-training-25094632/static-files-in-django?u=76281980&t=10)** The first thing we need to do is create a folder where we're going to store all the static files, such as the CSS and [[JavaScript]] files, images, videos, et cetera.
 >
 > **[0:22](https://www.linkedin.com/learning/django-essential-training-25094632/static-files-in-django?u=76281980&t=22)** So let's go here, and create new folder, static.
 >
-> **[0:28](https://www.linkedin.com/learning/django-essential-training-25094632/static-files-in-django?u=76281980&t=28)** Now we need to tell Django that this is the folder it needs to look into when searching for static files.
+> **[0:28](https://www.linkedin.com/learning/django-essential-training-25094632/static-files-in-django?u=76281980&t=28)** Now we need to tell [[Django]] that this is the folder it needs to look into when searching for static files.
 >
 > **[0:35](https://www.linkedin.com/learning/django-essential-training-25094632/static-files-in-django?u=76281980&t=35)** To do that, let's go to the smartnotes, then settings.
 >
@@ -1819,7 +1794,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/django-essential-training-25094632/static-files-in-django?u=76281980&t=98)** So let's go to the notes, and let's try the notes list file.
 >
-> **[1:43](https://www.linkedin.com/learning/django-essential-training-25094632/static-files-in-django?u=76281980&t=103)** Okay, in here, the first thing we need to do is actually tell Django that this HTML is going to use the static files.
+> **[1:43](https://www.linkedin.com/learning/django-essential-training-25094632/static-files-in-django?u=76281980&t=103)** Okay, in here, the first thing we need to do is actually tell Django that this [[HTML]] is going to use the static files.
 >
 > **[1:53](https://www.linkedin.com/learning/django-essential-training-25094632/static-files-in-django?u=76281980&t=113)** So let's go curly brackets, percentages, and load static.
 >
@@ -1871,7 +1846,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (12), [[Django]] (6), [[HTML]] (2), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Django]] (6), [[HTML]] (2), [[JavaScript]] (1)
 > **Env Vars:** css (12), url (2), html (2), atml (1)
 > **UI Navigation:** go to (2), scroll down (1), open the (1)
 > **Exercise Files:** template (2)
@@ -1880,18 +1855,17 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 
-#### An HTML skeleton: How to set up a base structure to every Django template
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/an-html-skeleton-how-to-set-up-a-base-structure-to-every-django-template?u=76281980)
+#### [An HTML skeleton: How to set up a base structure to every Django template](https://www.linkedin.com/learning/django-essential-training-25094632/an-html-skeleton-how-to-set-up-a-base-structure-to-every-django-template?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/django-essential-training-25094632/an-html-skeleton-how-to-set-up-a-base-structure-to-every-django-template?u=76281980&t=0)** - [Instructor] As we've seen, it's pretty easy to add CSS files into Django template, but it would be quite exhaustive to need to always remember to add the CSS link to all templates we have in all our apps.
+> **[0:00](https://www.linkedin.com/learning/django-essential-training-25094632/an-html-skeleton-how-to-set-up-a-base-structure-to-every-django-template?u=76281980&t=0)** - [Instructor] As we've seen, it's pretty easy to add CSS files into [[Django]] template, but it would be quite exhaustive to need to always remember to add the CSS link to all templates we have in all our apps.
 >
 > **[0:14](https://www.linkedin.com/learning/django-essential-training-25094632/an-html-skeleton-how-to-set-up-a-base-structure-to-every-django-template?u=76281980&t=14)** If you're thinking that there must be a better way of doing this, you're absolutely right.
 >
 > **[0:20](https://www.linkedin.com/learning/django-essential-training-25094632/an-html-skeleton-how-to-set-up-a-base-structure-to-every-django-template?u=76281980&t=20)** What we need now is a base template.
 >
-> **[0:23](https://www.linkedin.com/learning/django-essential-training-25094632/an-html-skeleton-how-to-set-up-a-base-structure-to-every-django-template?u=76281980&t=23)** Let's create a templates folder in the static folder and a base.html template in it.
+> **[0:23](https://www.linkedin.com/learning/django-essential-training-25094632/an-html-skeleton-how-to-set-up-a-base-structure-to-every-django-template?u=76281980&t=23)** Let's create a templates folder in the static folder and a base.[[HTML]] template in it.
 >
 > **[0:32](https://www.linkedin.com/learning/django-essential-training-25094632/an-html-skeleton-how-to-set-up-a-base-structure-to-every-django-template?u=76281980&t=32)** Okay, so in here, we can create a normal HTML file, so html, then head, then in here, we can have link (keyboard clacks) type's going to be text/css, then href, it's going to be the same loading of a static file that we had, css/style.css, okay?
 >
@@ -1955,7 +1929,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (8), css (6), [[Django]] (4), [[Search]] (1), power (1)
+> **Frameworks & Libraries:** [[HTML]] (8), [[Django]] (4)
 > **Exercise Files:** template (15)
 > **Env Vars:** html (4), css (3), base_dir (1)
 > **File Paths:** base.html (3), css/style.css (1)
@@ -1964,8 +1938,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1), such as (1)
 > **Best Practices:** remember to (2)
 
-#### It's time to add some style
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/let-s-add-some-style?u=76281980)
+#### [It's time to add some style](https://www.linkedin.com/learning/django-essential-training-25094632/let-s-add-some-style?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2015,7 +1988,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/django-essential-training-25094632/let-s-add-some-style?u=76281980&t=132)** Not so good.
 >
-> **[2:14](https://www.linkedin.com/learning/django-essential-training-25094632/let-s-add-some-style?u=76281980&t=134)** Thankfully, the Django template language has a function for that.
+> **[2:14](https://www.linkedin.com/learning/django-essential-training-25094632/let-s-add-some-style?u=76281980&t=134)** Thankfully, the [[Django]] template language has a function for that.
 >
 > **[2:18](https://www.linkedin.com/learning/django-essential-training-25094632/let-s-add-some-style?u=76281980&t=138)** What we need to do is the following.
 >
@@ -2139,7 +2112,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (4), css (3), node (1)
+> **Frameworks & Libraries:** [[Django]] (4)
 > **Env Vars:** css (3), btn (2), url (1)
 > **CLI Commands:** make (2), find (1), node (1)
 > **UI Navigation:** go to (3)
@@ -2148,14 +2121,13 @@ created: 2026-05-02
 > **File Paths:** url.py (1)
 > **Analogies:** imagine (1)
 
-#### </> Code challenge: Dividing a template into smaller parts
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/code-challenge-dividing-a-template-into-smaller-parts?u=76281980)
+#### [</> Code challenge: Dividing a template into smaller parts](https://www.linkedin.com/learning/django-essential-training-25094632/code-challenge-dividing-a-template-into-smaller-parts?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/django-essential-training-25094632/code-challenge-dividing-a-template-into-smaller-parts?u=76281980&t=0)** - [Instructor] In this chapter, we learn how to create a base template and then use it throughout our project.
 >
-> **[0:11](https://www.linkedin.com/learning/django-essential-training-25094632/code-challenge-dividing-a-template-into-smaller-parts?u=76281980&t=11)** However, even after doing that, sometimes the size of an HTML page can become bigger and bigger, and we might want to organize it a little bit.
+> **[0:11](https://www.linkedin.com/learning/django-essential-training-25094632/code-challenge-dividing-a-template-into-smaller-parts?u=76281980&t=11)** However, even after doing that, sometimes the size of an [[HTML]] page can become bigger and bigger, and we might want to organize it a little bit.
 >
 > **[0:21](https://www.linkedin.com/learning/django-essential-training-25094632/code-challenge-dividing-a-template-into-smaller-parts?u=76281980&t=21)** In this challenge, you should add a new section into welcome.html template that lists the benefits of using this app.
 >
@@ -2178,12 +2150,11 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Dividing a template into smaller parts
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/solution-dividing-a-template-into-smaller-parts?u=76281980)
+#### [Solution: Dividing a template into smaller parts](https://www.linkedin.com/learning/django-essential-training-25094632/solution-dividing-a-template-into-smaller-parts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/django-essential-training-25094632/solution-dividing-a-template-into-smaller-parts?u=76281980&t=0)** - [Instructor] To insert and HTML page inside another one we can check the template's documentation.
+> **[0:00](https://www.linkedin.com/learning/django-essential-training-25094632/solution-dividing-a-template-into-smaller-parts?u=76281980&t=0)** - [Instructor] To insert and [[HTML]] page inside another one we can check the template's documentation.
 >
 > **[0:11](https://www.linkedin.com/learning/django-essential-training-25094632/solution-dividing-a-template-into-smaller-parts?u=76281980&t=11)** Although it might take you a couple of tries to find it there is a list built in things that you can do with templates and one of them is the function include.
 >
@@ -2227,8 +2198,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a webpage
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/create-a-webpage?u=76281980)
+#### [Create a webpage](https://www.linkedin.com/learning/django-essential-training-25094632/create-a-webpage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2286,7 +2256,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/django-essential-training-25094632/create-a-webpage?u=76281980&t=159)** So let's create it.
 >
-> **[2:41](https://www.linkedin.com/learning/django-essential-training-25094632/create-a-webpage?u=76281980&t=161)** Let's call it notes_form.html.
+> **[2:41](https://www.linkedin.com/learning/django-essential-training-25094632/create-a-webpage?u=76281980&t=161)** Let's call it notes_form.[[HTML]].
 >
 > **[2:46](https://www.linkedin.com/learning/django-essential-training-25094632/create-a-webpage?u=76281980&t=166)** Okay, so let's use the default template.
 >
@@ -2316,7 +2286,7 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/django-essential-training-25094632/create-a-webpage?u=76281980&t=252)** And you can see here that in the body we have a form, and the form is actually passed down to the HTML as two label tags, and one input tag and one text area.
 >
-> **[4:27](https://www.linkedin.com/learning/django-essential-training-25094632/create-a-webpage?u=76281980&t=267)** This is because Django already knows which type of data each attribute expects.
+> **[4:27](https://www.linkedin.com/learning/django-essential-training-25094632/create-a-webpage?u=76281980&t=267)** This is because [[Django]] already knows which type of data each attribute expects.
 >
 > **[4:33](https://www.linkedin.com/learning/django-essential-training-25094632/create-a-webpage?u=76281980&t=273)** Thus it creates an appropriate HTML tag to receive it.
 >
@@ -2334,7 +2304,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (5), [[Django]] (1), data (1)
+> **Frameworks & Libraries:** [[HTML]] (5), [[Django]] (1)
 > **Env Vars:** html (3), crud (1), post (1)
 > **File Paths:** views.py (1), urls.py (1), notes_form.html (1), base.html (1)
 > **Code Identifiers:** success_url (2), as_view (1), notes_form (1)
@@ -2344,8 +2314,7 @@ created: 2026-05-02
  (1)
 > **UI Navigation:** open the (1)
 
-#### Understanding how Django handles security in POSTs
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/understanding-how-django-handles-security-in-posts?u=76281980)
+#### [Understanding how Django handles security in POSTs](https://www.linkedin.com/learning/django-essential-training-25094632/understanding-how-django-handles-security-in-posts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2379,7 +2348,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/django-essential-training-25094632/understanding-how-django-handles-security-in-posts?u=76281980&t=51)** That stands for Cross-Site Requests Forgery.
 >
-> **[0:55](https://www.linkedin.com/learning/django-essential-training-25094632/understanding-how-django-handles-security-in-posts?u=76281980&t=55)** What happens here is that every time a browser requests a webpage that has a form, Django will send a unique token to that browser.
+> **[0:55](https://www.linkedin.com/learning/django-essential-training-25094632/understanding-how-django-handles-security-in-posts?u=76281980&t=55)** What happens here is that every time a browser requests a webpage that has a form, [[Django]] will send a unique token to that browser.
 >
 > **[1:05](https://www.linkedin.com/learning/django-essential-training-25094632/understanding-how-django-handles-security-in-posts?u=76281980&t=65)** This token will be securely kept and no other website can access it.
 >
@@ -2397,21 +2366,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (6), [[Security]] (2)
+> **Frameworks & Libraries:** [[Django]] (6)
 > **Definitions:** is a  (2), stands for (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** csrf_token (1)
 > **Env Vars:** csrf (1)
 > **Speakers:** - [instructor] (1)
 
-#### Django forms: Powerful validation with minimal work
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/django-forms-powerful-validation-with-minimal-work?u=76281980)
+#### [Django forms: Powerful validation with minimal work](https://www.linkedin.com/learning/django-essential-training-25094632/django-forms-powerful-validation-with-minimal-work?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/django-essential-training-25094632/django-forms-powerful-validation-with-minimal-work?u=76281980&t=0)** - [Instructor] Adding a new endpoint was nice and easy, but now it's time to consider more complex scenarios.
 >
-> **[0:06](https://www.linkedin.com/learning/django-essential-training-25094632/django-forms-powerful-validation-with-minimal-work?u=76281980&t=6)** Model forms are the best way of doing this in Django.
+> **[0:06](https://www.linkedin.com/learning/django-essential-training-25094632/django-forms-powerful-validation-with-minimal-work?u=76281980&t=6)** Model [[Forms]] are the best way of doing this in [[Django]].
 >
 > **[0:10](https://www.linkedin.com/learning/django-essential-training-25094632/django-forms-powerful-validation-with-minimal-work?u=76281980&t=10)** Let's check it out.
 >
@@ -2439,7 +2407,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/django-essential-training-25094632/django-forms-powerful-validation-with-minimal-work?u=76281980&t=82)** So far what we did will result in exactly the same behavior as we have so far, but the form will give us power to do much more.
 >
-> **[1:32](https://www.linkedin.com/learning/django-essential-training-25094632/django-forms-powerful-validation-with-minimal-work?u=76281980&t=92)** For instance, let's say that we want to add a specific behavior that just allow us to add notes that contains the word Django in the title.
+> **[1:32](https://www.linkedin.com/learning/django-essential-training-25094632/django-forms-powerful-validation-with-minimal-work?u=76281980&t=92)** For instance, let's say that we want to add a specific behavior that just allow us to add notes that contains the [[Microsoft Word|word]] Django in the title.
 >
 > **[1:41](https://www.linkedin.com/learning/django-essential-training-25094632/django-forms-powerful-validation-with-minimal-work?u=76281980&t=101)** Let's go back to the forms.
 >
@@ -2473,7 +2441,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/django-essential-training-25094632/django-forms-powerful-validation-with-minimal-work?u=76281980&t=185)** Okay, so this is pretty cool.
 >
-> **[3:07](https://www.linkedin.com/learning/django-essential-training-25094632/django-forms-powerful-validation-with-minimal-work?u=76281980&t=187)** Django already injects the validation errors directly to our HTML.
+> **[3:07](https://www.linkedin.com/learning/django-essential-training-25094632/django-forms-powerful-validation-with-minimal-work?u=76281980&t=187)** Django already injects the validation errors directly to our [[HTML]].
 >
 > **[3:13](https://www.linkedin.com/learning/django-essential-training-25094632/django-forms-powerful-validation-with-minimal-work?u=76281980&t=193)** You can see here we have a ul that has a class errorList and a list of errors.
 >
@@ -2505,7 +2473,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (7), [[Forms]] (6), power (1), [[Microsoft Word|Word]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Django]] (7), [[Forms]] (6), [[Microsoft Word|Word]] (1), [[HTML]] (1)
 > **Code Identifiers:** cleaned_data (2), form_class (1), errorlist (1), as_text (1)
 > **Definitions:** is a  (4)
 > **Analogies:** for instance (2), just like (1)
@@ -2514,8 +2482,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Env Vars:** html (1)
 
-#### Django forms are useful for layout as well
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/django-forms-are-useful-for-layout-as-well?u=76281980)
+#### [Django forms are useful for layout as well](https://www.linkedin.com/learning/django-essential-training-25094632/django-forms-are-useful-for-layout-as-well?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2527,7 +2494,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/django-essential-training-25094632/django-forms-are-useful-for-layout-as-well?u=76281980&t=16)** As you can see, this is not such a fun activity once you have a form already laid out for you, right?
 >
-> **[0:23](https://www.linkedin.com/learning/django-essential-training-25094632/django-forms-are-useful-for-layout-as-well?u=76281980&t=23)** Forms are amazing because not only they add validation, but also because you can quickly add styles to it.
+> **[0:23](https://www.linkedin.com/learning/django-essential-training-25094632/django-forms-are-useful-for-layout-as-well?u=76281980&t=23)** [[Forms]] are amazing because not only they add validation, but also because you can quickly add styles to it.
 >
 > **[0:31](https://www.linkedin.com/learning/django-essential-training-25094632/django-forms-are-useful-for-layout-as-well?u=76281980&t=31)** First, let's say that we want to change the labels of our form.
 >
@@ -2575,17 +2542,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (3), ux (1), css (1)
+> **Frameworks & Libraries:** [[Forms]] (3)
 > **Env Vars:** css (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Codespaces error and the solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/codespaces-error-and-the-solution?u=76281980)
+#### [Codespaces error and the solution](https://www.linkedin.com/learning/django-essential-training-25094632/codespaces-error-and-the-solution?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/django-essential-training-25094632/codespaces-error-and-the-solution?u=76281980&t=0)** - [Instructor] If you're using GitHub Codespaces, there is a chance you still run into trouble even after adding the CSFR token to your form.
+> **[0:00](https://www.linkedin.com/learning/django-essential-training-25094632/codespaces-error-and-the-solution?u=76281980&t=0)** - [Instructor] If you're using [[GitHub]] [[Codespaces]], there is a chance you still run into trouble even after adding the CSFR token to your form.
 >
 > **[0:09](https://www.linkedin.com/learning/django-essential-training-25094632/codespaces-error-and-the-solution?u=76281980&t=9)** So in my case here I have the token, but if I try to create a new note, I'm still getting the CSRF verification failed.
 >
@@ -2647,8 +2613,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The U in the CRUD: Updating data
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/the-u-in-the-crud-updating-data?u=76281980)
+#### [The U in the CRUD: Updating data](https://www.linkedin.com/learning/django-essential-training-25094632/the-u-in-the-crud-updating-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2730,15 +2695,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Cross-References:** go back to (4)
 > **Env Vars:** url (3)
 > **UI Navigation:** go to (3)
 > **Exercise Files:** template (2)
 > **Speakers:** - [instructor] (1)
 
-#### The D in the CRUD: Deleting data
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/the-d-in-the-crud-deleting-data?u=76281980)
+#### [The D in the CRUD: Deleting data](https://www.linkedin.com/learning/django-essential-training-25094632/the-d-in-the-crud-deleting-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2748,7 +2711,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/django-essential-training-25094632/the-d-in-the-crud-deleting-data?u=76281980&t=9)** Let's go back to the views.
 >
-> **[0:11](https://www.linkedin.com/learning/django-essential-training-25094632/the-d-in-the-crud-deleting-data?u=76281980&t=11)** And from here, we're going to add actually from django.views.generic.edit.
+> **[0:11](https://www.linkedin.com/learning/django-essential-training-25094632/the-d-in-the-crud-deleting-data?u=76281980&t=11)** And from here, we're going to add actually from [[Django]].views.generic.edit.
 >
 > **[0:21](https://www.linkedin.com/learning/django-essential-training-25094632/the-d-in-the-crud-deleting-data?u=76281980&t=21)** Let's import DeleteView.
 >
@@ -2766,7 +2729,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/django-essential-training-25094632/the-d-in-the-crud-deleting-data?u=76281980&t=70)** Now, we need to create a template to confirm if the user wants to delete a particular note.
 >
-> **[1:16](https://www.linkedin.com/learning/django-essential-training-25094632/the-d-in-the-crud-deleting-data?u=76281980&t=76)** Let's go here and add a new one called notes_delete.html.
+> **[1:16](https://www.linkedin.com/learning/django-essential-training-25094632/the-d-in-the-crud-deleting-data?u=76281980&t=76)** Let's go here and add a new one called notes_delete.[[HTML]].
 >
 > **[1:24](https://www.linkedin.com/learning/django-essential-training-25094632/the-d-in-the-crud-deleting-data?u=76281980&t=84)** So let's start with the basics.
 >
@@ -2830,7 +2793,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (2), [[HTML]] (2), data (1), generic (1)
+> **Frameworks & Libraries:** [[Django]] (2), [[HTML]] (2)
 > **Exercise Files:** template (8)
 > **Code Identifiers:** template_name (2), success_url (1), notes_delete (1), csrf_token (1), notes_confirm_delete (1)
 > **Cross-References:** go back to (3)
@@ -2839,8 +2802,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 
-#### </> Code challenge: A button to add a like to a note
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/code-challenge-a-button-to-add-a-like-to-a-note?u=76281980)
+#### [</> Code challenge: A button to add a like to a note](https://www.linkedin.com/learning/django-essential-training-25094632/code-challenge-a-button-to-add-a-like-to-a-note?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2865,8 +2827,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
 
-#### Solution: A button to add a like to a note
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/solution-a-button-to-add-a-like-to-a-note?u=76281980)
+#### [Solution: A button to add a like to a note](https://www.linkedin.com/learning/django-essential-training-25094632/solution-a-button-to-add-a-like-to-a-note?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2882,7 +2843,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/django-essential-training-25094632/solution-a-button-to-add-a-like-to-a-note?u=76281980&t=24)** No input data needed, no validation needed. Quite simple.
 >
-> **[0:29](https://www.linkedin.com/learning/django-essential-training-25094632/solution-a-button-to-add-a-like-to-a-note?u=76281980&t=29)** So we could use a class-based view, but we could also leverage the simplicity of Django using a function-based view.
+> **[0:29](https://www.linkedin.com/learning/django-essential-training-25094632/solution-a-button-to-add-a-like-to-a-note?u=76281980&t=29)** So we could use a class-based view, but we could also leverage the simplicity of [[Django]] using a function-based view.
 >
 > **[0:36](https://www.linkedin.com/learning/django-essential-training-25094632/solution-a-button-to-add-a-like-to-a-note?u=76281980&t=36)** Let's go into the views file and add a new function, call add like view.
 >
@@ -2958,7 +2919,7 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/django-essential-training-25094632/solution-a-button-to-add-a-like-to-a-note?u=76281980&t=234)** We have an additional like. It works.
 >
-> **[3:56](https://www.linkedin.com/learning/django-essential-training-25094632/solution-a-button-to-add-a-like-to-a-note?u=76281980&t=236)** Now, we need to have a word of caution.
+> **[3:56](https://www.linkedin.com/learning/django-essential-training-25094632/solution-a-button-to-add-a-like-to-a-note?u=76281980&t=236)** Now, we need to have a [[Microsoft Word|word]] of caution.
 >
 > **[4:00](https://www.linkedin.com/learning/django-essential-training-25094632/solution-a-button-to-add-a-like-to-a-note?u=76281980&t=240)** If you notice, we don't have a form, meaning that this is working when we do a get request to this URL.
 >
@@ -3014,13 +2975,13 @@ created: 2026-05-02
 >
 > **[6:29](https://www.linkedin.com/learning/django-essential-training-25094632/solution-a-button-to-add-a-like-to-a-note?u=76281980&t=389)** If we come here to the URL and try to go directly to the link, it's going to return a 404.
 >
-> **[6:36](https://www.linkedin.com/learning/django-essential-training-25094632/solution-a-button-to-add-a-like-to-a-note?u=76281980&t=396)** Remember, good practices make your code better and the user experience much more reliable.
+> **[6:36](https://www.linkedin.com/learning/django-essential-training-25094632/solution-a-button-to-add-a-like-to-a-note?u=76281980&t=396)** Remember, good practices make your code better and the [[User Experience (UX)|user experience]] much more reliable.
 >
 > **[6:43](https://www.linkedin.com/learning/django-essential-training-25094632/solution-a-button-to-add-a-like-to-a-note?u=76281980&t=403)** Keep attention to all of these details, and your code and system will be amazing.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (2), data (1), node (1), database (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Django]] (2), [[Microsoft Word|Word]] (1), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** url (8), hcp (1), csrf (1)
 > **CLI Commands:** make (7), node (1)
 > **Definitions:** is a  (5), is an  (1), means that (1)
@@ -3034,8 +2995,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to update data stored in your database
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/how-to-update-data-stored-in-your-database?u=76281980)
+#### [How to update data stored in your database](https://www.linkedin.com/learning/django-essential-training-25094632/how-to-update-data-stored-in-your-database?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3051,7 +3011,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/django-essential-training-25094632/how-to-update-data-stored-in-your-database?u=76281980&t=34)** This is what we call a foreign key.
 >
-> **[0:38](https://www.linkedin.com/learning/django-essential-training-25094632/how-to-update-data-stored-in-your-database?u=76281980&t=38)** Let's go back to our model and import the user model that comes with Django by default.
+> **[0:38](https://www.linkedin.com/learning/django-essential-training-25094632/how-to-update-data-stored-in-your-database?u=76281980&t=38)** Let's go back to our model and import the user model that comes with [[Django]] by default.
 >
 > **[0:44](https://www.linkedin.com/learning/django-essential-training-25094632/how-to-update-data-stored-in-your-database?u=76281980&t=44)** So from Django.contrib.auth.models import User.
 >
@@ -3077,7 +3037,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/django-essential-training-25094632/how-to-update-data-stored-in-your-database?u=76281980&t=114)** Okay, now that we change the model, we need to create a migration.
 >
-> **[1:58](https://www.linkedin.com/learning/django-essential-training-25094632/how-to-update-data-stored-in-your-database?u=76281980&t=118)** Let's go and type python, manage.py make migrations,
+> **[1:58](https://www.linkedin.com/learning/django-essential-training-25094632/how-to-update-data-stored-in-your-database?u=76281980&t=118)** Let's go and type [[Python (Programming Language)|python]], manage.py make migrations,
 >
 > **[2:07](https://www.linkedin.com/learning/django-essential-training-25094632/how-to-update-data-stored-in-your-database?u=76281980&t=127)** and we're getting an error.
 >
@@ -3127,7 +3087,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), [[Django]] (3), [[Python (Programming Language)|Python]] (3), node (2)
+> **Frameworks & Libraries:** [[Django]] (3), [[Python (Programming Language)|Python]] (3)
 > **CLI Commands:** python (3), node (2), make (2)
 > **File Paths:** manage.py (3)
 > **Code Identifiers:** foreignkey (1), on_delete (1)
@@ -3136,8 +3096,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
 
-#### Template for update
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/template-for-update?u=76281980)
+#### [Template for update](https://www.linkedin.com/learning/django-essential-training-25094632/template-for-update?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3145,9 +3104,9 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/django-essential-training-25094632/template-for-update?u=76281980&t=9)** We also didn't add any authentication.
 >
-> **[0:11](https://www.linkedin.com/learning/django-essential-training-25094632/template-for-update?u=76281980&t=11)** So in order to keep privacy, we need to fix that.
+> **[0:11](https://www.linkedin.com/learning/django-essential-training-25094632/template-for-update?u=76281980&t=11)** So in order to keep [[Privacy]], we need to fix that.
 >
-> **[0:15](https://www.linkedin.com/learning/django-essential-training-25094632/template-for-update?u=76281980&t=15)** So let's go back here on the notes, views dot pi, and import from django dot contrib dot auth dot mixins (indistinct) import, login required mixin.
+> **[0:15](https://www.linkedin.com/learning/django-essential-training-25094632/template-for-update?u=76281980&t=15)** So let's go back here on the notes, views dot pi, and import from [[Django]] dot contrib dot auth dot mixins (indistinct) import, login required mixin.
 >
 > **[0:31](https://www.linkedin.com/learning/django-essential-training-25094632/template-for-update?u=76281980&t=31)** Then on the list view, we need to add the login require mixin, and don't forget, oops, required mixin.
 >
@@ -3205,7 +3164,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (2), node (1), [[Privacy]] (1), generic (1), database (1)
+> **Frameworks & Libraries:** [[Django]] (2), [[Privacy]] (1)
 > **Env Vars:** url (2), ccbv (1), attp (1)
 > **UI Navigation:** go to (3)
 > **Definitions:** is a  (2), means that (1)
@@ -3214,8 +3173,7 @@ created: 2026-05-02
 > **Cross-References:** we discussed (1), go back to (1)
 > **Best Practices:** don't forget (1)
 
-#### Endpoint and template for deleting
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/endoint-and-template-for-deleting?u=76281980)
+#### [Endpoint and template for deleting](https://www.linkedin.com/learning/django-essential-training-25094632/endoint-and-template-for-deleting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3247,7 +3205,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/django-essential-training-25094632/endoint-and-template-for-deleting?u=76281980&t=84)** And then this is going to get self.get_success_url.
 >
-> **[1:31](https://www.linkedin.com/learning/django-essential-training-25094632/endoint-and-template-for-deleting?u=76281980&t=91)** Let's see, the HttpResponseRedirect is already being imported from django.http.response.
+> **[1:31](https://www.linkedin.com/learning/django-essential-training-25094632/endoint-and-template-for-deleting?u=76281980&t=91)** Let's see, the HttpResponseRedirect is already being imported from [[Django]].http.response.
 >
 > **[1:40](https://www.linkedin.com/learning/django-essential-training-25094632/endoint-and-template-for-deleting?u=76281980&t=100)** And that's it.
 >
@@ -3297,14 +3255,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), data (4), [[Django]] (1), node (1)
+> **Frameworks & Libraries:** [[Django]] (1)
 > **Code Identifiers:** isvalid (3), form_valid (1), get_success_url (1), cleaned_data (1), formvalid (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** node (1)
 > **Speakers:** - [instructor] (1)
 
-#### </> Code challenge: Mark a note as public or private
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/code-challenge-mark-a-note-as-public-or-private?u=76281980)
+#### [</> Code challenge: Mark a note as public or private](https://www.linkedin.com/learning/django-essential-training-25094632/code-challenge-mark-a-note-as-public-or-private?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3323,8 +3280,7 @@ created: 2026-05-02
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Mark a note as public or private
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/solution-mark-a-note-as-public-or-private?u=76281980)
+#### [Solution: Mark a note as public or private](https://www.linkedin.com/learning/django-essential-training-25094632/solution-mark-a-note-as-public-or-private?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3354,7 +3310,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/django-essential-training-25094632/solution-mark-a-note-as-public-or-private?u=76281980&t=77)** We need another migration so let's do that.
 >
-> **[1:20](https://www.linkedin.com/learning/django-essential-training-25094632/solution-mark-a-note-as-public-or-private?u=76281980&t=80)** Python manage.py makemigrations.
+> **[1:20](https://www.linkedin.com/learning/django-essential-training-25094632/solution-mark-a-note-as-public-or-private?u=76281980&t=80)** [[Python (Programming Language)|Python]] manage.py makemigrations.
 >
 > **[1:25](https://www.linkedin.com/learning/django-essential-training-25094632/solution-mark-a-note-as-public-or-private?u=76281980&t=85)** Now we can actually migrate, manage.py migrate.
 >
@@ -3424,7 +3380,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), [[Python (Programming Language)|Python]] (1), database (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (13), python (1)
 > **Code Identifiers:** change_visibility (2), change_visibility_view (1)
 > **Warnings:** warning (2), keep in mind (1)
@@ -3438,8 +3394,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Adding login and logout pages
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/adding-login-and-logout-pages?u=76281980)
+#### [Adding login and logout pages](https://www.linkedin.com/learning/django-essential-training-25094632/adding-login-and-logout-pages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3453,13 +3408,13 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/django-essential-training-25094632/adding-login-and-logout-pages?u=76281980&t=16)** Let's do this.
 >
-> **[0:18](https://www.linkedin.com/learning/django-essential-training-25094632/adding-login-and-logout-pages?u=76281980&t=18)** So first let's go to home, then views, and then let's import here from django.contrib.auth.views, import loginview.
+> **[0:18](https://www.linkedin.com/learning/django-essential-training-25094632/adding-login-and-logout-pages?u=76281980&t=18)** So first let's go to home, then views, and then let's import here from [[Django]].contrib.auth.views, import loginview.
 >
 > **[0:37](https://www.linkedin.com/learning/django-essential-training-25094632/adding-login-and-logout-pages?u=76281980&t=37)** And then let's create a class called logininterfaceview that inherits from login view.
 >
 > **[0:45](https://www.linkedin.com/learning/django-essential-training-25094632/adding-login-and-logout-pages?u=76281980&t=45)** And in here, we only need to define really one thing, the template name.
 >
-> **[0:50](https://www.linkedin.com/learning/django-essential-training-25094632/adding-login-and-logout-pages?u=76281980&t=50)** So let's go call it home/login.html.
+> **[0:50](https://www.linkedin.com/learning/django-essential-training-25094632/adding-login-and-logout-pages?u=76281980&t=50)** So let's go call it home/login.[[HTML]].
 >
 > **[0:57](https://www.linkedin.com/learning/django-essential-training-25094632/adding-login-and-logout-pages?u=76281980&t=57)** Okay, so we can forget about the URLs. So let's do this now.
 >
@@ -3574,8 +3529,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Code Identifiers:** csrf_token (1)
 
-#### Adding a signup page
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/adding-a-signup-page?u=76281980)
+#### [Adding a signup page](https://www.linkedin.com/learning/django-essential-training-25094632/adding-a-signup-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3583,7 +3537,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/django-essential-training-25094632/adding-a-signup-page?u=76281980&t=2)** It's time to add it all together.
 >
-> **[0:04](https://www.linkedin.com/learning/django-essential-training-25094632/adding-a-signup-page?u=76281980&t=4)** So let's go to the base.html template and add a couple of things.
+> **[0:04](https://www.linkedin.com/learning/django-essential-training-25094632/adding-a-signup-page?u=76281980&t=4)** So let's go to the base.[[HTML]] template and add a couple of things.
 >
 > **[0:09](https://www.linkedin.com/learning/django-essential-training-25094632/adding-a-signup-page?u=76281980&t=9)** Bear with me for a second.
 >
@@ -3631,7 +3585,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/django-essential-training-25094632/adding-a-signup-page?u=76281980&t=116)** Finally, we can end our if.
 >
-> **[2:01](https://www.linkedin.com/learning/django-essential-training-25094632/adding-a-signup-page?u=76281980&t=121)** Okay, so the way we add a logout logic here will depend on the version of Django that you are running.
+> **[2:01](https://www.linkedin.com/learning/django-essential-training-25094632/adding-a-signup-page?u=76281980&t=121)** Okay, so the way we add a logout logic here will depend on the version of [[Django]] that you are running.
 >
 > **[2:08](https://www.linkedin.com/learning/django-essential-training-25094632/adding-a-signup-page?u=76281980&t=128)** On versions 4.x or below, it's very simple.
 >
@@ -3701,7 +3655,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (2), [[HTML]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Django]] (2), [[HTML]] (1)
 > **Env Vars:** url (7), post (5)
 > **API Endpoints:** post  (5)
 > **CLI Commands:** make (3)
@@ -3710,8 +3664,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
 
-#### Finishing touches
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/finishing-touches?u=76281980)
+#### [Finishing touches](https://www.linkedin.com/learning/django-essential-training-25094632/finishing-touches?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3719,7 +3672,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/django-essential-training-25094632/finishing-touches?u=76281980&t=2)** It is time to add it all together.
 >
-> **[0:05](https://www.linkedin.com/learning/django-essential-training-25094632/finishing-touches?u=76281980&t=5)** So let's go to static, templates, base.html.
+> **[0:05](https://www.linkedin.com/learning/django-essential-training-25094632/finishing-touches?u=76281980&t=5)** So let's go to static, templates, base.[[HTML]].
 >
 > **[0:10](https://www.linkedin.com/learning/django-essential-training-25094632/finishing-touches?u=76281980&t=10)** And then in here what we're going to do is add a nav, so a navigation bar.
 >
@@ -3807,7 +3760,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/django-essential-training-25094632/finishing-touches?u=76281980&t=204)** So let's try something different.
 >
-> **[3:26](https://www.linkedin.com/learning/django-essential-training-25094632/finishing-touches?u=76281980&t=206)** I'm going to add a username, django.
+> **[3:26](https://www.linkedin.com/learning/django-essential-training-25094632/finishing-touches?u=76281980&t=206)** I'm going to add a username, [[Django]].
 >
 > **[3:31](https://www.linkedin.com/learning/django-essential-training-25094632/finishing-touches?u=76281980&t=211)** Let's add some passwords here. Let's submit.
 >
@@ -3828,8 +3781,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### </> Code challenge: Create a share link for a public note
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/code-challenge-create-a-share-link-for-a-public-note?u=76281980)
+#### [</> Code challenge: Create a share link for a public note](https://www.linkedin.com/learning/django-essential-training-25094632/code-challenge-create-a-share-link-for-a-public-note?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3854,8 +3806,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Solution: Create a share link for a public note
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/solution-create-a-share-link-for-a-public-note?u=76281980)
+#### [Solution: Create a share link for a public note](https://www.linkedin.com/learning/django-essential-training-25094632/solution-create-a-share-link-for-a-public-note?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3913,7 +3864,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/django-essential-training-25094632/solution-create-a-share-link-for-a-public-note?u=76281980&t=120)** I hope you have enjoyed the challenges and learned a lot on the way.
 >
-> **[2:04](https://www.linkedin.com/learning/django-essential-training-25094632/solution-create-a-share-link-for-a-public-note?u=76281980&t=124)** And I hope also that you fell in love with the Django documentation as much as I do.
+> **[2:04](https://www.linkedin.com/learning/django-essential-training-25094632/solution-create-a-share-link-for-a-public-note?u=76281980&t=124)** And I hope also that you fell in love with the [[Django]] documentation as much as I do.
 
 > [!info]- Semantic Content
 >
@@ -3931,14 +3882,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/django-essential-training-25094632/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/django-essential-training-25094632/next-steps?u=76281980&t=0)** - [Leticia] We've reached the end of our course.
 >
-> **[0:03](https://www.linkedin.com/learning/django-essential-training-25094632/next-steps?u=76281980&t=3)** Now you're ready to build complex systems with Django and you can do it with full authentication flows.
+> **[0:03](https://www.linkedin.com/learning/django-essential-training-25094632/next-steps?u=76281980&t=3)** Now you're ready to build complex systems with [[Django]] and you can do it with full authentication flows.
 >
 > **[0:10](https://www.linkedin.com/learning/django-essential-training-25094632/next-steps?u=76281980&t=10)** This is a huge deal!
 >
@@ -3946,21 +3896,21 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/django-essential-training-25094632/next-steps?u=76281980&t=18)** If you want to continue on Django, here's a few things I recommend.
 >
-> **[0:23](https://www.linkedin.com/learning/django-essential-training-25094632/next-steps?u=76281980&t=23)** I created a second course here on LinkedIn Learning called, "Unit Testing in Django."
+> **[0:23](https://www.linkedin.com/learning/django-essential-training-25094632/next-steps?u=76281980&t=23)** I created a second course here on [[LinkedIn]] Learning called, "[[Unit Testing]] in Django."
 >
 > **[0:28](https://www.linkedin.com/learning/django-essential-training-25094632/next-steps?u=76281980&t=28)** This course will use the system you've created on this course to learn how to create unit tests, making your system more reliable.
 >
 > **[0:37](https://www.linkedin.com/learning/django-essential-training-25094632/next-steps?u=76281980&t=37)** Being able to test software systems properly is a major skill that all developers should learn, so I highly recommend you to check it out.
 >
-> **[0:47](https://www.linkedin.com/learning/django-essential-training-25094632/next-steps?u=76281980&t=47)** Next, if you're interested in incorporating APIs into your applications, I'd look at Django REST framework.
+> **[0:47](https://www.linkedin.com/learning/django-essential-training-25094632/next-steps?u=76281980&t=47)** Next, if you're interested in incorporating APIs into your applications, I'd look at Django [[Representational State Transfer (REST)|REST]] framework.
 >
-> **[0:56](https://www.linkedin.com/learning/django-essential-training-25094632/next-steps?u=76281980&t=56)** And finally, if you want to expand your knowledge, there are some other great courses on Django and Python here in LinkedIn Learning Library.
+> **[0:56](https://www.linkedin.com/learning/django-essential-training-25094632/next-steps?u=76281980&t=56)** And finally, if you want to expand your knowledge, there are some other great courses on Django and [[Python (Programming Language)|Python]] here in LinkedIn Learning Library.
 >
 > **[1:05](https://www.linkedin.com/learning/django-essential-training-25094632/next-steps?u=76281980&t=65)** Take a look through and watch a few more, cheers!
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (6), [[LinkedIn]] (2), [[Unit Testing]] (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Django]] (6), [[LinkedIn]] (2), [[Unit Testing]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** python (1)
 > **Env Vars:** rest (1)

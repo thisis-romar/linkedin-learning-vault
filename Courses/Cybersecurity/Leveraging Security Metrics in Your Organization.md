@@ -76,18 +76,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why are security metrics important?
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/why-are-security-metrics-important-24395248?u=76281980)
+#### [Why are security metrics important?](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/why-are-security-metrics-important-24395248?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/why-are-security-metrics-important-24395248?u=76281980&t=0)** - It can be really hard to understand how things are going in cybersecurity, let alone communicate how things are going to others.
+> **[0:00](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/why-are-security-metrics-important-24395248?u=76281980&t=0)** - It can be really hard to understand how things are going in [[Cybersecurity]], let alone communicate how things are going to others.
 >
 > **[0:09](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/why-are-security-metrics-important-24395248?u=76281980&t=9)** How do you get the funding and stakeholder buy-in that you need for your team and your program?
 >
 > **[0:15](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/why-are-security-metrics-important-24395248?u=76281980&t=15)** I'm going to tell you exactly how to do it.
 >
-> **[0:18](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/why-are-security-metrics-important-24395248?u=76281980&t=18)** In 2011, I published a textbook on security metrics that remains popular among the strongest practitioners in our field.
+> **[0:18](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/why-are-security-metrics-important-24395248?u=76281980&t=18)** In 2011, I published a textbook on [[Security Metrics]] that remains popular among the strongest practitioners in our field.
 >
 > **[0:26](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/why-are-security-metrics-important-24395248?u=76281980&t=26)** This course includes the same concepts and a decade's worth of lessons learned that you won't find anywhere else.
 >
@@ -103,7 +102,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), [[Cybersecurity]] (2), career (1)
+> **Frameworks & Libraries:** [[Security Metrics]] (3), [[Cybersecurity]] (2)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - it (1)
 
@@ -112,8 +111,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cybersecurity is hard to measure
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/cybersecurity-is-hard-to-measure?u=76281980)
+#### [Cybersecurity is hard to measure](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/cybersecurity-is-hard-to-measure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -125,7 +123,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/cybersecurity-is-hard-to-measure?u=76281980&t=22)** Often these types of businesses invest money and resources to convert prospects into newly acquired customers.
 >
-> **[0:30](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/cybersecurity-is-hard-to-measure?u=76281980&t=30)** Standard metrics for a SaaS business, for example, might include things like customer churn, SQLs, and CAC to LTV ratio.
+> **[0:30](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/cybersecurity-is-hard-to-measure?u=76281980&t=30)** Standard metrics for a [[SaaS]] business, for example, might include things like customer churn, SQLs, and CAC to LTV ratio.
 >
 > **[0:38](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/cybersecurity-is-hard-to-measure?u=76281980&t=38)** Every SaaS business has prospects that are valuable to the marketing and to the sales team.
 >
@@ -133,7 +131,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/cybersecurity-is-hard-to-measure?u=76281980&t=48)** And pretty much every SaaS business invests money into acquiring customers and can estimate the lifetime value of those customers.
 >
-> **[0:56](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/cybersecurity-is-hard-to-measure?u=76281980&t=56)** But why aren't there similarly defined metrics for cybersecurity?
+> **[0:56](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/cybersecurity-is-hard-to-measure?u=76281980&t=56)** But why aren't there similarly defined metrics for [[Cybersecurity]]?
 >
 > **[1:01](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/cybersecurity-is-hard-to-measure?u=76281980&t=61)** It's because whereas a business measures in concrete units like dollars and number of customers, cybersecurity is about measuring risk and that's much more difficult to define.
 >
@@ -169,18 +167,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), [[SaaS]] (4), [[Cybersecurity]] (4), product (2), management (2)
+> **Frameworks & Libraries:** [[SaaS]] (4), [[Cybersecurity]] (4)
 > **CLI Commands:** make (2)
 > **Env Vars:** cac (1), ltv (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [narrator] (1)
 
-#### Cybersecurity investment
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/cybersecurity-investment?u=76281980)
+#### [Cybersecurity investment](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/cybersecurity-investment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/cybersecurity-investment?u=76281980&t=0)** - [Instructor] I want to talk about investment in a cybersecurity program.
+> **[0:00](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/cybersecurity-investment?u=76281980&t=0)** - [Instructor] I want to talk about investment in a [[Cybersecurity]] program.
 >
 > **[0:04](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/cybersecurity-investment?u=76281980&t=4)** I usually think of cybersecurity investment as being a combination of head count or salaried full-time employees and expenses.
 >
@@ -190,7 +187,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/cybersecurity-investment?u=76281980&t=27)** Many organizations go through an annual process to determine the budgets of each department and in this context, the security team is one of several that are competing for an allocation of what's ultimately a limited budget.
 >
-> **[0:39](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/cybersecurity-investment?u=76281980&t=39)** Consider your typical SaaS company.
+> **[0:39](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/cybersecurity-investment?u=76281980&t=39)** Consider your typical [[SaaS]] company.
 >
 > **[0:42](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/cybersecurity-investment?u=76281980&t=42)** In this case, finance leadership might work with department executives to determine high-level allocations, maybe distributing the amount that the entire organization intends to spend across three broad areas.
 >
@@ -202,7 +199,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/cybersecurity-investment?u=76281980&t=67)** This can be calculated based on projected revenue goals for the year.
 >
-> **[1:11](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/cybersecurity-investment?u=76281980&t=71)** Research and development has to do with product development, such as building new features.
+> **[1:11](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/cybersecurity-investment?u=76281980&t=71)** Research and development has to do with [[Product Development]], such as building new features.
 >
 > **[1:16](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/cybersecurity-investment?u=76281980&t=76)** General and administrative covers day-to-day business necessities, such as insurance and legal fees.
 >
@@ -258,23 +255,22 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/cybersecurity-investment?u=76281980&t=242)** During these sessions, it is often the responsibility of a chief information security officer to lay out the cybersecurity risks posed to the company and to describe a strategy for addressing them.
 >
-> **[4:13](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/cybersecurity-investment?u=76281980&t=253)** Remember, security metrics can be very helpful in these types of conversations.
+> **[4:13](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/cybersecurity-investment?u=76281980&t=253)** Remember, [[Security Metrics]] can be very helpful in these types of conversations.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (11), [[Security]] (5), business (3), [[SaaS]] (1), leadership (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (11), [[SaaS]] (1), [[Product Development]] (1), [[Security Metrics]] (1)
 > **Analogies:** such as (2), for example (1), just like (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Define success for a cybersecurity program
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/define-success-for-a-cybersecurity-program?u=76281980)
+#### [Define success for a cybersecurity program](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/define-success-for-a-cybersecurity-program?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/define-success-for-a-cybersecurity-program?u=76281980&t=0)** - [Instructor] There's a saying in the information security industry, that it doesn't make sense to put a $200 fence around a $5 asset.
 >
-> **[0:09](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/define-success-for-a-cybersecurity-program?u=76281980&t=9)** Fundamentally the purpose of a cybersecurity program is to protect value.
+> **[0:09](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/define-success-for-a-cybersecurity-program?u=76281980&t=9)** Fundamentally the purpose of a [[Cybersecurity]] program is to protect value.
 >
 > **[0:15](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/define-success-for-a-cybersecurity-program?u=76281980&t=15)** I believe that one of the most important things a security leader can do is understand how the greater organization creates and retains value.
 >
@@ -322,18 +318,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (19), [[Cybersecurity]] (3), business (1), next (1), data (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3)
 > **Warnings:** pitfall (3)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cybersecurity program maturity
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/cybersecurity-program-maturity?u=76281980)
+#### [Cybersecurity program maturity](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/cybersecurity-program-maturity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/cybersecurity-program-maturity?u=76281980&t=0)** - [Presenter] Cybersecurity programs have different maturity levels, we'll use different metrics.
+> **[0:00](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/cybersecurity-program-maturity?u=76281980&t=0)** - [Presenter] [[Cybersecurity]] programs have different maturity levels, we'll use different metrics.
 >
 > **[0:06](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/cybersecurity-program-maturity?u=76281980&t=6)** One of the most impactful benefits that metrics can provide for a cybersecurity program is visibility.
 >
@@ -391,7 +386,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (3), data (3), [[Security]] (3), functional (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -402,12 +397,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The executive mindset
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/the-executive-mindset?u=76281980)
+#### [The executive mindset](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/the-executive-mindset?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/the-executive-mindset?u=76281980&t=0)** - [Narrator] Cybersecurity practitioners usually have a complicated relationship with company executives.
+> **[0:00](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/the-executive-mindset?u=76281980&t=0)** - [Narrator] [[Cybersecurity]] practitioners usually have a complicated relationship with company executives.
 >
 > **[0:05](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/the-executive-mindset?u=76281980&t=5)** On one hand, executives naturally want to protect the digital value that their organization manages.
 >
@@ -415,7 +409,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/the-executive-mindset?u=76281980&t=22)** The relationship we characterized as disconnected or fraught with misunderstanding.
 >
-> **[0:27](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/the-executive-mindset?u=76281980&t=27)** This is because of a lack of effective security metrics.
+> **[0:27](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/the-executive-mindset?u=76281980&t=27)** This is because of a lack of effective [[Security Metrics]].
 >
 > **[0:32](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/the-executive-mindset?u=76281980&t=32)** For cybersecurity teams and executives to see eye to eye on the value of cybersecurity activities, there's got to be a common understanding of a desired state, what it takes to get there and the trade-offs involved in moving faster or slower toward a shared goal.
 >
@@ -453,7 +447,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/the-executive-mindset?u=76281980&t=165)** Number two, how it happened, number three, the impact of the business, and number four, how it may have been prevented or managed.
 >
-> **[2:54](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/the-executive-mindset?u=76281980&t=174)** Ideally you're using some kind of a framework, whether it's ISO 27001, the NIST cybersecurity framework, the SANS 20 Critical Security Controls or something else, and can show how the breach of the week occurred due to a weakness in a standard control set, might be able to use its information to explain your plan for making sure that the same thing is less likely to happen at your organization.
+> **[2:54](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/the-executive-mindset?u=76281980&t=174)** Ideally you're using some kind of a framework, whether it's ISO 27001, the [[NIST]] cybersecurity framework, the SANS 20 Critical Security Controls or something else, and can show how the breach of the week occurred due to a weakness in a standard control set, might be able to use its information to explain your plan for making sure that the same thing is less likely to happen at your organization.
 >
 > **[3:20](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/the-executive-mindset?u=76281980&t=200)** Sometimes cybersecurity practitioners with no finance or accounting background will attempt to frame cybersecurity program investment in terms of dollars, when dollars is simply not their strong suit.
 >
@@ -469,13 +463,13 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/the-executive-mindset?u=76281980&t=243)** We just need to try and bridge the gap and communicate honestly and clearly about what we do know about.
 >
-> **[4:10](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/the-executive-mindset?u=76281980&t=250)** The other thing that great executives excel at is strategy.
+> **[4:10](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/the-executive-mindset?u=76281980&t=250)** The other thing that great executives [[Microsoft Excel|excel]] at is strategy.
 >
 > **[4:14](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/the-executive-mindset?u=76281980&t=254)** A conversation with an executive is an opportunity to learn about their strategy and use that information to frame your conversations.
 >
 > **[4:21](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/the-executive-mindset?u=76281980&t=261)** In the next three to five years, is the company going to expand globally?
 >
-> **[4:25](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/the-executive-mindset?u=76281980&t=265)** How about attempt a digital transformation?
+> **[4:25](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/the-executive-mindset?u=76281980&t=265)** How about attempt a [[Digital Transformation]]?
 >
 > **[4:28](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/the-executive-mindset?u=76281980&t=268)** Target new customer segments?
 >
@@ -485,21 +479,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (17), [[Security]] (2), business (2), teams (1), strengths (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (17), [[Security Metrics]] (1), [[NIST]] (1), [[Microsoft Excel|Excel]] (1), [[Digital Transformation]] (1)
 > **Env Vars:** iso (1), nist (1), sans (1)
 > **Definitions:** means that (1), is an  (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [narrator] (1)
 
-#### The business mindset
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/the-business-mindset?u=76281980)
+#### [The business mindset](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/the-business-mindset?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/the-business-mindset?u=76281980&t=0)** - [Instructor] Let's talk go to market for an organization.
 >
-> **[0:03](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/the-business-mindset?u=76281980&t=3)** I'll focus on marketing and sales to share a perspective on the leaders of these functions and how cybersecurity folks can use this information to improve communication with these groups.
+> **[0:03](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/the-business-mindset?u=76281980&t=3)** I'll focus on marketing and sales to share a perspective on the leaders of these functions and how [[Cybersecurity]] folks can use this information to improve communication with these groups.
 >
 > **[0:14](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/the-business-mindset?u=76281980&t=14)** First, marketing.
 >
@@ -511,7 +504,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/the-business-mindset?u=76281980&t=27)** Marketing tends to work with a lot of third parties.
 >
-> **[0:30](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/the-business-mindset?u=76281980&t=30)** This might mean automation and analytics software, team collaboration and work-management software, and many others.
+> **[0:30](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/the-business-mindset?u=76281980&t=30)** This might mean automation and analytics software, [[Team Collaboration]] and work-management software, and many others.
 >
 > **[0:38](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/the-business-mindset?u=76281980&t=38)** While marketing may not have direct access to an organization's crown jewels, they very likely have customer information and integrations with various data repositories.
 >
@@ -523,7 +516,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/the-business-mindset?u=76281980&t=75)** Ideally, when they want to engage with a third party, you find out ahead of time and can conduct your review in a way that doesn't hold the marketing team back and also doesn't become a last-minute emergency for you and your team.
 >
-> **[1:28](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/the-business-mindset?u=76281980&t=88)** Another place where you can partner with marketing is on privacy initiatives.
+> **[1:28](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/the-business-mindset?u=76281980&t=88)** Another place where you can partner with marketing is on [[Privacy]] initiatives.
 >
 > **[1:32](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/the-business-mindset?u=76281980&t=92)** Your marketing team might be reaching out to prospects that aren't interested in hearing about your company.
 >
@@ -567,19 +560,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), [[Cybersecurity]] (4), [[Privacy]] (2), leadership (2), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[Privacy]] (2), [[Team Collaboration]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** iso (1), soc2 (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### The technical leadership mindset
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/the-technical-leadership-mindset?u=76281980)
+#### [The technical leadership mindset](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/the-technical-leadership-mindset?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/the-technical-leadership-mindset?u=76281980&t=0)** - [Narrator] Contrary to what you might think, cybersecurity is not solely the responsibility of security professionals.
+> **[0:00](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/the-technical-leadership-mindset?u=76281980&t=0)** - [Narrator] Contrary to what you might think, [[Cybersecurity]] is not solely the responsibility of security professionals.
 >
 > **[0:06](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/the-technical-leadership-mindset?u=76281980&t=6)** It comes about as a result of the actions between many different people, including technical folks who are building the technology that's got to be protected.
 >
@@ -629,7 +621,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/the-technical-leadership-mindset?u=76281980&t=134)** My recommendation is to focus on conveying the why and the what, and then step back so engineering leaders can jump in on the how.
 >
-> **[2:21](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/the-technical-leadership-mindset?u=76281980&t=141)** This means you've got to engage with engineering teams to get their input on initiatives like secure coding training.
+> **[2:21](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/the-technical-leadership-mindset?u=76281980&t=141)** This means you've got to engage with engineering teams to get their input on initiatives like [[Secure Coding]] training.
 >
 > **[2:27](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/the-technical-leadership-mindset?u=76281980&t=147)** It means asking for input on security technology decisions.
 >
@@ -663,7 +655,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (9), [[Security]] (6), teams (4), [[Cybersecurity]] (2), management (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Secure Coding]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** don't forget (1)
@@ -674,8 +666,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining a risk management objective
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/defining-a-risk-management-objective?u=76281980)
+#### [Defining a risk management objective](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/defining-a-risk-management-objective?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -689,13 +680,13 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/defining-a-risk-management-objective?u=76281980&t=15)** I like to use an approach that I call Risk Management Objectives.
 >
-> **[0:19](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/defining-a-risk-management-objective?u=76281980&t=19)** Many years ago I worked with one of the greatest thinkers in cybersecurity, my super good friends (indistinct) Together, we made a framework for software security metrics and risk management objectives.
+> **[0:19](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/defining-a-risk-management-objective?u=76281980&t=19)** Many years ago I worked with one of the greatest thinkers in [[Cybersecurity]], my super good friends (indistinct) Together, we made a framework for software [[Security Metrics]] and risk management objectives.
 >
 > **[0:31](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/defining-a-risk-management-objective?u=76281980&t=31)** Here's the most successful methodology.
 >
 > **[0:33](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/defining-a-risk-management-objective?u=76281980&t=33)** I've outlined these in a PDF that you can download and use when you're creating your cybersecurity strategy plan and budget.
 >
-> **[0:41](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/defining-a-risk-management-objective?u=76281980&t=41)** Along with risk management objectives, I'll also suggest a few questions that you can use to determine if it's relevant to your business operations and security posture.
+> **[0:41](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/defining-a-risk-management-objective?u=76281980&t=41)** Along with risk management objectives, I'll also suggest a few questions that you can use to determine if it's relevant to your [[Business Operations]] and security posture.
 >
 > **[0:51](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/defining-a-risk-management-objective?u=76281980&t=51)** Number one, use cybersecurity as a competitive differentiator.
 >
@@ -739,7 +730,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/defining-a-risk-management-objective?u=76281980&t=150)** If you're learning about more security issues externally than internally, then your program isn't mature enough to focus on this particular risk management objective.
 >
-> **[2:40](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/defining-a-risk-management-objective?u=76281980&t=160)** Number five, reduce the probability that malicious attackers can stop critical systems and applications from functioning.
+> **[2:40](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/defining-a-risk-management-objective?u=76281980&t=160)** Number five, reduce the [[Probability]] that malicious attackers can stop critical systems and applications from functioning.
 >
 > **[2:47](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/defining-a-risk-management-objective?u=76281980&t=167)** Do you know and understand which systems and processes are critical to your organization?
 >
@@ -775,7 +766,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (15), management (6), [[Cybersecurity]] (6), business (5), data (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[Security Metrics]] (1), [[Probability]] (1)
 > **CLI Commands:** make (4), find (2)
 > **Analogies:** similar to (2)
 > **Env Vars:** pdf (1)
@@ -783,8 +774,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to use a risk management objective
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/how-to-use-a-risk-management-objective?u=76281980)
+#### [How to use a risk management objective](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/how-to-use-a-risk-management-objective?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -794,7 +784,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/how-to-use-a-risk-management-objective?u=76281980&t=10)** Let's take objective number five.
 >
-> **[0:12](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/how-to-use-a-risk-management-objective?u=76281980&t=12)** Reduce the probability that malicious attackers can stop critical systems and applications from functioning.
+> **[0:12](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/how-to-use-a-risk-management-objective?u=76281980&t=12)** Reduce the [[Probability]] that malicious attackers can stop critical systems and applications from functioning.
 >
 > **[0:17](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/how-to-use-a-risk-management-objective?u=76281980&t=17)** When you use this risk management objective, it shows your stakeholders that you understand how the business works.
 >
@@ -804,7 +794,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/how-to-use-a-risk-management-objective?u=76281980&t=32)** You'll need to make a detailed inventory of the various components so that you can keep track of which components have been tested and which have not.
 >
-> **[0:39](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/how-to-use-a-risk-management-objective?u=76281980&t=39)** The second step is to do security testing on each critical component.
+> **[0:39](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/how-to-use-a-risk-management-objective?u=76281980&t=39)** The second step is to do [[Security Testing]] on each critical component.
 >
 > **[0:43](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/how-to-use-a-risk-management-objective?u=76281980&t=43)** You'll want a defense in-depth approach to ensure that each layer of the technology stack is addressed.
 >
@@ -830,14 +820,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), [[Security]] (3), management (2), [[Probability]] (1), next (1)
+> **Frameworks & Libraries:** [[Security Testing]] (2), [[Probability]] (1)
 > **Prerequisites:** you'll need (3)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Examples of risk management objectives
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/examples-of-risk-management-objectives?u=76281980)
+#### [Examples of risk management objectives](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/examples-of-risk-management-objectives?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -855,7 +844,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/examples-of-risk-management-objectives?u=76281980&t=27)** An intentional approach to securing software must be in place for business to avoid malicious attacks and data breaches.
 >
-> **[0:35](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/examples-of-risk-management-objectives?u=76281980&t=35)** The critical thing about cybersecurity is that it can't happen unless there's a proactive investment.
+> **[0:35](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/examples-of-risk-management-objectives?u=76281980&t=35)** The critical thing about [[Cybersecurity]] is that it can't happen unless there's a proactive investment.
 >
 > **[0:40](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/examples-of-risk-management-objectives?u=76281980&t=40)** And any headcount or budget that is allocated to the cybersecurity program becomes unavailable to other investments needed by the business.
 >
@@ -867,7 +856,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/examples-of-risk-management-objectives?u=76281980&t=69)** It had several beautiful custom window panes.
 >
-> **[1:12](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/examples-of-risk-management-objectives?u=76281980&t=72)** The problem with these super old windows was they didn't do a great job of insulating the house.
+> **[1:12](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/examples-of-risk-management-objectives?u=76281980&t=72)** The problem with these super old [[Windows]] was they didn't do a great job of insulating the house.
 >
 > **[1:17](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/examples-of-risk-management-objectives?u=76281980&t=77)** So when it was cold and we turn on the heat, it would just flow out of the leaky windows.
 >
@@ -911,7 +900,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (7), [[Cybersecurity]] (5), business (3), [[Windows]] (3), [[Security]] (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (5), [[Windows]] (3)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** cio (2)
@@ -922,12 +911,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Incidents detected internally vs. externally
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/incidents-detected-internally-vs-externally?u=76281980)
+#### [Incidents detected internally vs. externally](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/incidents-detected-internally-vs-externally?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/incidents-detected-internally-vs-externally?u=76281980&t=0)** - [Narrator] Let me tell you about something I've learned from over a decade of studying security metrics.
+> **[0:00](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/incidents-detected-internally-vs-externally?u=76281980&t=0)** - [Narrator] Let me tell you about something I've learned from over a decade of studying [[Security Metrics]].
 >
 > **[0:05](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/incidents-detected-internally-vs-externally?u=76281980&t=5)** If the whole point of measuring something and then sharing that measurement with someone else is to increase visibility and make better decisions then one number by itself is not enough.
 >
@@ -985,14 +973,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (14), teams (3)
+> **Frameworks & Libraries:** [[Security Metrics]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Security NPS
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/security-nps?u=76281980)
+#### [Security NPS](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/security-nps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1042,7 +1029,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/security-nps?u=76281980&t=120)** I understand the digital threats I am likely to face while working for Cobalt.
 >
-> **[2:05](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/security-nps?u=76281980&t=125)** I am confident that I can identify a phishing message.
+> **[2:05](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/security-nps?u=76281980&t=125)** I am confident that I can identify a [[Phishing]] message.
 >
 > **[2:08](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/security-nps?u=76281980&t=128)** I know what to do if I suspect a potential security incident is occurring.
 >
@@ -1072,7 +1059,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (17), business (2), product (1), [[Phishing]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (1)
 > **Env Vars:** nps (9), sas (1)
 > **Definitions:** is a  (2), known as (1), is an  (1)
 > **CLI Commands:** find (1)
@@ -1080,8 +1067,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Fixes implemented within SLA
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/fixes-implemented-within-sla?u=76281980)
+#### [Fixes implemented within SLA](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/fixes-implemented-within-sla?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1135,7 +1121,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), management (2)
 > **Env Vars:** sla (5), cvss (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1146,12 +1131,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Apply security metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/apply-security-metrics?u=76281980)
+#### [Apply security metrics](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/apply-security-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/apply-security-metrics?u=76281980&t=0)** - [Caroline] Security metrics has been a passion and profession of mine for more than a decade.
+> **[0:00](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/apply-security-metrics?u=76281980&t=0)** - [Caroline] [[Security Metrics]] has been a passion and profession of mine for more than a decade.
 >
 > **[0:04](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/apply-security-metrics?u=76281980&t=4)** I actually love how complicated it is.
 >
@@ -1159,7 +1143,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/apply-security-metrics?u=76281980&t=18)** It happens as a result of the decisions and actions of many different people, and because of that, it's unpredictable and constantly changing.
 >
-> **[0:26](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/apply-security-metrics?u=76281980&t=26)** So security metrics are less about bringing order to chaos than about recognizing the inherent and essential thread of truth and improvement that I believe is the core of cybersecurity programs and teams.
+> **[0:26](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/apply-security-metrics?u=76281980&t=26)** So security metrics are less about bringing order to chaos than about recognizing the inherent and essential thread of truth and improvement that I believe is the core of [[Cybersecurity]] programs and teams.
 >
 > **[0:38](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/apply-security-metrics?u=76281980&t=38)** At this point, your learning journey is just getting started.
 >
@@ -1167,13 +1151,13 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/apply-security-metrics?u=76281980&t=50)** This includes the full list of risk management objectives, the security NPS survey questions, and a list of resources where you can learn more.
 >
-> **[0:58](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/apply-security-metrics?u=76281980&t=58)** Also, feel free to connect with me on LinkedIn.
+> **[0:58](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/apply-security-metrics?u=76281980&t=58)** Also, feel free to connect with me on [[LinkedIn]].
 >
 > **[1:00](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/apply-security-metrics?u=76281980&t=60)** I would love to hear about your experience applying security metrics and celebrate the results with you.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), [[Cybersecurity]] (1), teams (1), next (1), management (1)
+> **Frameworks & Libraries:** [[Security Metrics]] (3), [[Cybersecurity]] (1), [[LinkedIn]] (1)
 > **Env Vars:** nps (1)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [caroline] (1)

@@ -98,12 +98,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learn to build AI-enhanced applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/learn-to-build-ai-enhanced-applications?u=76281980)
+#### [Learn to build AI-enhanced applications](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/learn-to-build-ai-enhanced-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/learn-to-build-ai-enhanced-applications?u=76281980&t=0)** - [Eve] As JavaScript developers, user experience is always at the top of our minds.
+> **[0:00](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/learn-to-build-ai-enhanced-applications?u=76281980&t=0)** - [Eve] As [[JavaScript]] developers, [[User Experience (UX)|user experience]] is always at the top of our minds.
 >
 > **[0:05](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/learn-to-build-ai-enhanced-applications?u=76281980&t=5)** AI can help us tremendously with this.
 >
@@ -117,28 +116,27 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[JavaScript]] (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [eve] (1)
 
-#### Understanding AI in the JavaScript ecosystem
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/understanding-ai-in-the-javascript-ecosystem?u=76281980)
+#### [Understanding AI in the JavaScript ecosystem](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/understanding-ai-in-the-javascript-ecosystem?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/understanding-ai-in-the-javascript-ecosystem?u=76281980&t=0)** - [Eve] A lot of our first interactions with AI come from a screen that looks like this.
 >
-> **[0:05](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/understanding-ai-in-the-javascript-ecosystem?u=76281980&t=5)** We stare deeply into the eyes of ChatGPT and ask it questions and it returns some data for us.
+> **[0:05](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/understanding-ai-in-the-javascript-ecosystem?u=76281980&t=5)** We stare deeply into the eyes of [[ChatGPT]] and ask it questions and it returns some data for us.
 >
-> **[0:12](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/understanding-ai-in-the-javascript-ecosystem?u=76281980&t=12)** So ChatGPT is using these large language models so that we can ask questions, and then the response will be content that's generated.
+> **[0:12](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/understanding-ai-in-the-javascript-ecosystem?u=76281980&t=12)** So ChatGPT is using these [[Large Language Models (LLM)|large language models]] so that we can ask questions, and then the response will be content that's generated.
 >
 > **[0:21](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/understanding-ai-in-the-javascript-ecosystem?u=76281980&t=21)** We can use it to help us edit, to generate images, all sorts of different things.
 >
-> **[0:27](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/understanding-ai-in-the-javascript-ecosystem?u=76281980&t=27)** But our interactions with AI don't have to stop here, we can also make use of the OpenAI APIs and integrate this information with our JavaScript applications.
+> **[0:27](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/understanding-ai-in-the-javascript-ecosystem?u=76281980&t=27)** But our interactions with AI don't have to stop here, we can also make use of the OpenAI APIs and integrate this information with our [[JavaScript]] applications.
 >
 > **[0:40](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/understanding-ai-in-the-javascript-ecosystem?u=76281980&t=40)** We're going to come here to [openai.com](https://openai.com) and log in.
 >
-> **[0:45](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/understanding-ai-in-the-javascript-ecosystem?u=76281980&t=45)** This will take us to this screen that's asking us to log in with either email address or continue with Google, all these different things.
+> **[0:45](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/understanding-ai-in-the-javascript-ecosystem?u=76281980&t=45)** This will take us to this screen that's asking us to log in with either email address or continue with [[Google]], all these different things.
 >
 > **[0:54](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/understanding-ai-in-the-javascript-ecosystem?u=76281980&t=54)** If you've never created an account before, you can do so here.
 >
@@ -162,7 +160,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/understanding-ai-in-the-javascript-ecosystem?u=76281980&t=111)** As your applications get bigger, your usage will go up and you'll start having to pay for OpenAI's developer platform, but for now you can just get started here.
 >
-> **[2:04](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/understanding-ai-in-the-javascript-ecosystem?u=76281980&t=124)** So here in the OpenAI API keys section, you may have to verify your phone number to get started here.
+> **[2:04](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/understanding-ai-in-the-javascript-ecosystem?u=76281980&t=124)** So here in the [[OpenAI API]] keys section, you may have to verify your phone number to get started here.
 >
 > **[2:11](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/understanding-ai-in-the-javascript-ecosystem?u=76281980&t=131)** So I'm going to do that on a second screen.
 >
@@ -174,25 +172,24 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/understanding-ai-in-the-javascript-ecosystem?u=76281980&t=160)** So this is really everything that you need to get started on an OpenAI API project.
 >
-> **[2:46](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/understanding-ai-in-the-javascript-ecosystem?u=76281980&t=166)** From here, we're going to incorporate Node.js and put all of these cool features together in our own applications.
+> **[2:46](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/understanding-ai-in-the-javascript-ecosystem?u=76281980&t=166)** From here, we're going to incorporate [[Node.js]] and put all of these cool features together in our own applications.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), [[ChatGPT]] (3), ai (2), [[OpenAI API]] (2), data (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[OpenAI API]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[JavaScript]] (1), [[Google]] (1)
 > **Env Vars:** api (6)
 > **CLI Commands:** make (1), node (1)
 > **URLs:** [openai.com](https://openai.com) (1), [gmail.com](https://gmail.com) (1)
 > **File Paths:** node.js (1)
 > **Speakers:** - [eve] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/what-you-should-know?u=76281980&t=0)** - [Instructor] I wanted to share a few things about my setup before we get into it.
 >
-> **[0:04](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/what-you-should-know?u=76281980&t=4)** We are going to be using Node.js in this class, so, make sure that you have Node installed.
+> **[0:04](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/what-you-should-know?u=76281980&t=4)** We are going to be using [[Node.js]] in this class, so, make sure that you have Node installed.
 >
 > **[0:10](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/what-you-should-know?u=76281980&t=10)** The quickest way to find out if you have it installed is to type node -v into your terminal or command prompt.
 >
@@ -226,7 +223,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (3), [[Node.js]] (2), prompt (1)
+> **Frameworks & Libraries:** [[Node.js]] (2)
 > **CLI Commands:** node (5), make (2), find (1)
 > **Tools:** vs code (2), terminal (1), command prompt (1), visual studio (1)
 > **Prerequisites:** setup (2), set up (1)
@@ -240,16 +237,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Installing OpenAI with npm
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/installing-openai-with-npm?u=76281980)
+#### [Installing OpenAI with npm](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/installing-openai-with-npm?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/installing-openai-with-npm?u=76281980&t=0)** - [Instructor] The place we'll get started with this project is we want to make sure we have our node project initialized.
 >
-> **[0:06](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/installing-openai-with-npm?u=76281980&t=6)** So inside of this 01-01b folder, type npm init -y.
+> **[0:06](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/installing-openai-with-npm?u=76281980&t=6)** So inside of this 01-01b folder, type [[npm]] init -y.
 >
-> **[0:12](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/installing-openai-with-npm?u=76281980&t=12)** This is going to create a package JSON file that's going to help us manage our projects dependencies.
+> **[0:12](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/installing-openai-with-npm?u=76281980&t=12)** This is going to create a package [[JSON]] file that's going to help us manage our projects dependencies.
 >
 > **[0:20](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/installing-openai-with-npm?u=76281980&t=20)** The next thing that I'm going to do is I'm going to run npm install --save openai.
 >
@@ -287,7 +283,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (4), [[JSON]] (3), [[npm]] (2), next (2), ai (1)
+> **Frameworks & Libraries:** [[JSON]] (3), [[npm]] (2)
 > **CLI Commands:** node (4), make (2), npm (2)
 > **File Paths:** package.json (2), index.js (1)
 > **Env Vars:** json (1), api (1)
@@ -296,8 +292,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
 
-#### Generating an API key
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/generating-an-api-key?u=76281980)
+#### [Generating an API key](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/generating-an-api-key?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -307,7 +302,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/generating-an-api-key?u=76281980&t=11)** We're going to log in.
 >
-> **[0:13](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/generating-an-api-key?u=76281980&t=13)** We're going to log in with whatever method we have set this up with where if you need to do this now you can, I'm going to log in with my Google account here and then I'll select API.
+> **[0:13](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/generating-an-api-key?u=76281980&t=13)** We're going to log in with whatever method we have set this up with where if you need to do this now you can, I'm going to log in with my [[Google]] account here and then I'll select API.
 >
 > **[0:26](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/generating-an-api-key?u=76281980&t=26)** This will take me to this page here where I can find in the left nav API Keys.
 >
@@ -361,7 +356,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/generating-an-api-key?u=76281980&t=132)** If you ever get stuck with your environment variables, you can always come over here to the docs platform, [Openai.com](https://Openai.com) Docs quickstart, and this will take you through the process of setting up your API key.
 >
-> **[2:25](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/generating-an-api-key?u=76281980&t=145)** Now, they also have instructions for Mac and for Windows.
+> **[2:25](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/generating-an-api-key?u=76281980&t=145)** Now, they also have instructions for Mac and for [[Windows]].
 >
 > **[2:30](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/generating-an-api-key?u=76281980&t=150)** So if you're using a Windows machine, and that doesn't work because you have to use the set X command, just follow these instructions here.
 >
@@ -369,7 +364,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (7), node (3), [[Windows]] (2), ai (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Google]] (1)
 > **Env Vars:** api (7)
 > **CLI Commands:** node (3), find (1)
 > **URLs:** [openai.com](https://openai.com) (2)
@@ -378,8 +373,7 @@ created: 2026-05-02
 > **Documentation:** the docs (1)
 > **Speakers:** - [instructor] (1)
 
-#### Choosing and setting a language model
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/choosing-and-setting-a-language-model?u=76281980)
+#### [Choosing and setting a language model](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/choosing-and-setting-a-language-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -413,7 +407,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/choosing-and-setting-a-language-model?u=76281980&t=83)** You can find all of these in the OpenAI documentation, and they all do slightly different things.
 >
-> **[1:29](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/choosing-and-setting-a-language-model?u=76281980&t=89)** So ChatGPT of course, DALL-E, which is all about images, and there's a few others that you can check into as well.
+> **[1:29](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/choosing-and-setting-a-language-model?u=76281980&t=89)** So [[ChatGPT]] of course, [[DALL-E]], which is all about images, and there's a few others that you can check into as well.
 >
 > **[1:37](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/choosing-and-setting-a-language-model?u=76281980&t=97)** So it's just up to you what you're trying to create.
 >
@@ -447,7 +441,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (2), [[ChatGPT]] (2), api (1), hit (1), next (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[DALL-E]] (1)
 > **Env Vars:** openai_api (2), openai_api_key (1), api (1), dall (1), gpt (1)
 > **CLI Commands:** make (2), node (2), find (1)
 > **Versions:** 3.5 (2)
@@ -456,8 +450,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to use CoderPad
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/how-to-use-coderpad?u=76281980)
+#### [How to use CoderPad](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/how-to-use-coderpad?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -467,7 +460,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/how-to-use-coderpad?u=76281980&t=16)** These challenges are hosted by Coder Pad, and they appear in the same area of the course page where you watch the course's videos.
 >
-> **[0:24](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/how-to-use-coderpad?u=76281980&t=24)** We recommend using a desktop browser for the best experience with the code challenges, but you can use the LinkedIn learning mobile app if you prefer.
+> **[0:24](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/how-to-use-coderpad?u=76281980&t=24)** We recommend using a desktop browser for the best experience with the code challenges, but you can use the [[LinkedIn]] learning mobile app if you prefer.
 >
 > **[0:33](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/how-to-use-coderpad?u=76281980&t=33)** The code challenge has four areas.
 >
@@ -513,7 +506,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** cat (1)
 > **Cross-References:** next video (1)
@@ -521,8 +514,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (instructor typing) (1)
 
-#### Solution: Configuring AI Inputs
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-configuring-ai-inputs?u=76281980)
+#### [Solution: Configuring AI Inputs](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-configuring-ai-inputs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -548,7 +540,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-configuring-ai-inputs?u=76281980&t=71)** So if I test the code, it looks like I did it correctly, awesome.
 >
-> **[1:16](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-configuring-ai-inputs?u=76281980&t=76)** So we've successfully set up our OpenAI API client.
+> **[1:16](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-configuring-ai-inputs?u=76281980&t=76)** So we've successfully set up our [[OpenAI API]] client.
 >
 > **[1:21](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-configuring-ai-inputs?u=76281980&t=81)** This is exactly what it looks like, even though we still are mocking the model here, we're going to be able to connect by passing all of the right variables to it.
 >
@@ -556,7 +548,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), next (2), [[OpenAI API]] (1)
+> **Frameworks & Libraries:** [[OpenAI API]] (1)
 > **Env Vars:** api (5), gpt (1)
 > **Prerequisites:** set up (2), configure (1)
 > **Versions:** 3.5 (1), 0.7 (1)
@@ -568,14 +560,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Writing functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/writing-functions?u=76281980)
+#### [Writing functions](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/writing-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/writing-functions?u=76281980&t=0)** - [Instructor] Let's take a closer look at this hello function, so that we understand all of the components of it.
 >
-> **[0:06](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/writing-functions?u=76281980&t=6)** The first thing I want to remind you is that whenever we're sending a request to the OpenAI API, we make the request and then we receive a response.
+> **[0:06](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/writing-functions?u=76281980&t=6)** The first thing I want to remind you is that whenever we're sending a request to the [[OpenAI API]], we make the request and then we receive a response.
 >
 > **[0:15](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/writing-functions?u=76281980&t=15)** So this is an asynchronous call.
 >
@@ -613,19 +604,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OpenAI API]] (2), data (2), api (1), node (1)
+> **Frameworks & Libraries:** [[OpenAI API]] (2)
 > **CLI Commands:** make (2), find (1), node (1)
 > **Env Vars:** api (3)
 > **Tools:** terminal (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with streams
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/working-with-streams?u=76281980)
+#### [Working with streams](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/working-with-streams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/working-with-streams?u=76281980&t=0)** - [Narrator] Our hello function here is making a request to the OpenAI API, and then it's returning all of the data at once.
+> **[0:00](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/working-with-streams?u=76281980&t=0)** - [Narrator] Our hello function here is making a request to the [[OpenAI API]], and then it's returning all of the data at once.
 >
 > **[0:08](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/working-with-streams?u=76281980&t=8)** So if I type node index, we're going to see it waits until that data is available and then it passes it all back to us in a chunk.
 >
@@ -661,29 +651,28 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/working-with-streams?u=76281980&t=124)** And then once we're done, we're going to just jump right out of that process.
 >
-> **[2:09](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/working-with-streams?u=76281980&t=129)** So this is a slightly different approach, a slightly different pattern, but it probably mirrors what you see in a lot of your ChatGPT apps that you might use, that's going to just write that data as it comes versus having to wait until all of it is ready to display.
+> **[2:09](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/working-with-streams?u=76281980&t=129)** So this is a slightly different approach, a slightly different pattern, but it probably mirrors what you see in a lot of your [[ChatGPT]] apps that you might use, that's going to just write that data as it comes versus having to wait until all of it is ready to display.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[OpenAI API]] (2), node (2), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[OpenAI API]] (2), [[ChatGPT]] (1)
 > **CLI Commands:** make (3), node (2)
 > **Env Vars:** api (2)
 > **Tools:** terminal (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Creating a prompt
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/creating-a-prompt?u=76281980)
+#### [Creating a prompt](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/creating-a-prompt?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/creating-a-prompt?u=76281980&t=0)** - [Presenter] We're going to use our message roles to create more of a customized prompt to use with ChatGPT.
+> **[0:00](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/creating-a-prompt?u=76281980&t=0)** - [Presenter] We're going to use our message roles to create more of a customized prompt to use with [[ChatGPT]].
 >
 > **[0:07](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/creating-a-prompt?u=76281980&t=7)** So the way that I'm going to do that is here.
 >
 > **[0:09](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/creating-a-prompt?u=76281980&t=9)** So the question I want to ask here is to have ChatGPT, be a hype man, a motivational speaker for me, so that I can continue to code.
 >
-> **[0:21](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/creating-a-prompt?u=76281980&t=21)** So here in our content section here, we're going to say you are a motivational speaker who is encouraging me as a JavaScript developer to keep studying and doing the hard work necessary for success.
+> **[0:21](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/creating-a-prompt?u=76281980&t=21)** So here in our content section here, we're going to say you are a motivational speaker who is encouraging me as a [[JavaScript]] developer to keep studying and doing the hard work necessary for success.
 >
 > **[0:49](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/creating-a-prompt?u=76281980&t=49)** All right, cool.
 >
@@ -735,7 +724,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (3), [[ChatGPT]] (2), [[JavaScript]] (2), api (2), ai (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[JavaScript]] (2)
 > **Env Vars:** pep (3), api (2)
 > **CLI Commands:** make (3), node (1)
 > **Tools:** terminal (2)
@@ -744,14 +733,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
 
-#### Refactoring functions with code prompts
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/refactoring-functions-with-code-prompts?u=76281980)
+#### [Refactoring functions with code prompts](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/refactoring-functions-with-code-prompts?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/refactoring-functions-with-code-prompts?u=76281980&t=0)** - [Presenter] Let's take a look at the system role and we're going to adjust this to handle code as an input.
 >
-> **[0:09](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/refactoring-functions-with-code-prompts?u=76281980&t=9)** So for the system role in this case, I'm going to say you are an amazing JavaScript developer.
+> **[0:09](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/refactoring-functions-with-code-prompts?u=76281980&t=9)** So for the system role in this case, I'm going to say you are an amazing [[JavaScript]] developer.
 >
 > **[0:21](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/refactoring-functions-with-code-prompts?u=76281980&t=21)** When I send a codeblock of JavaScript, you will return a more reusable and better written version of this code.
 >
@@ -801,7 +789,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/refactoring-functions-with-code-prompts?u=76281980&t=171)** So this is just going to return x plus y.
 >
-> **[2:54](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/refactoring-functions-with-code-prompts?u=76281980&t=174)** Every time we're using this system role, we're prompting the ChatGPT API to understand the context a little bit more.
+> **[2:54](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/refactoring-functions-with-code-prompts?u=76281980&t=174)** Every time we're using this system role, we're prompting the [[ChatGPT]] API to understand the context a little bit more.
 >
 > **[3:04](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/refactoring-functions-with-code-prompts?u=76281980&t=184)** We're telling it that when it receives a code block returns something better.
 >
@@ -809,14 +797,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (4), [[JavaScript]] (2), api (2), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[ChatGPT]] (1)
 > **CLI Commands:** node (4), make (2)
 > **Env Vars:** api (2), var (1)
 > **File Paths:** script.js (1)
 > **Speakers:** - [presenter] (1)
 
-#### Setting templates
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/setting-templates?u=76281980)
+#### [Setting templates](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/setting-templates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -824,7 +811,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/setting-templates?u=76281980&t=6)** So let's go ahead and make some adjustments to this.
 >
-> **[0:08](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/setting-templates?u=76281980&t=8)** The first thing we'll do is we'll get rid of this long instruction that we're giving to our system, and instead of adding that, we're going to say after we zoom in a little bit, you are a world renowned author.
+> **[0:08](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/setting-templates?u=76281980&t=8)** The first thing we'll do is we'll get rid of this long instruction that we're giving to our system, and instead of adding that, we're going to say after we [[Zoom]] in a little bit, you are a world renowned author.
 >
 > **[0:30](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/setting-templates?u=76281980&t=30)** Then we're going to replace this content with a couple of back ticks.
 >
@@ -838,7 +825,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/setting-templates?u=76281980&t=70)** We will say, okay, so that's my text.
 >
-> **[1:19](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/setting-templates?u=76281980&t=79)** I want to inject it into the function and I want ChatGPT-3 to process it and return it in the style of Shakespeare.
+> **[1:19](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/setting-templates?u=76281980&t=79)** I want to inject it into the function and I want [[ChatGPT]]-3 to process it and return it in the style of Shakespeare.
 >
 > **[1:30](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/setting-templates?u=76281980&t=90)** If we try to run this with Node Index, we should see that our text comes back in the style of Shakespeare.
 >
@@ -868,21 +855,20 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/setting-templates?u=76281980&t=179)** Very cool, so all of these different templates are just being injected into the user role, into this list.
 >
-> **[3:08](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/setting-templates?u=76281980&t=188)** We're going to process them like we would any other JavaScript arguments, JavaScript parameters that we're going to send, and then ChatGPT is going to be able to handle them here on line 28.
+> **[3:08](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/setting-templates?u=76281980&t=188)** We're going to process them like we would any other [[JavaScript]] arguments, JavaScript parameters that we're going to send, and then ChatGPT is going to be able to handle them here on line 28.
 >
 > **[3:19](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/setting-templates?u=76281980&t=199)** Pass them in and we'll get back a different style every time we send a different author.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (3), [[ChatGPT]] (2), [[JavaScript]] (2), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[JavaScript]] (2), [[Zoom]] (1)
 > **CLI Commands:** make (4), node (3)
 > **Exercise Files:** template (4)
 > **Tools:** terminal (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [narrator] (1)
 
-#### Challenge: Customizing questions
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/challenge-customizing-questions?u=76281980)
+#### [Challenge: Customizing questions](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/challenge-customizing-questions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -892,23 +878,22 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/challenge-customizing-questions?u=76281980&t=7)** What I'd like you to do is create a prompt that's going to generate some questions for a job interview.
 >
-> **[0:14](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/challenge-customizing-questions?u=76281980&t=14)** This will be a job interview that you'll give and you want to get at least three interview questions for a JavaScript developer. For extra credit, you could also make this a template to make it dynamic for any kind of developer.
+> **[0:14](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/challenge-customizing-questions?u=76281980&t=14)** This will be a job interview that you'll give and you want to get at least three interview questions for a [[JavaScript]] developer. For extra credit, you could also make this a template to make it dynamic for any kind of developer.
 >
-> **[0:27](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/challenge-customizing-questions?u=76281980&t=27)** So whenever you need to generate three interview questions for developers, you can use them for C++, JavaScript, Java, rust, whatever the language might be.
+> **[0:27](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/challenge-customizing-questions?u=76281980&t=27)** So whenever you need to generate three interview questions for developers, you can use them for C++, JavaScript, [[Java]], [[Rust (Programming Language)|rust]], whatever the language might be.
 >
 > **[0:39](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/challenge-customizing-questions?u=76281980&t=39)** So give it a try, and in the next video, I will go over the solution.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (2), prompt (1), [[Java]] (1), [[Rust (Programming Language)|Rust]] (1), next (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Java]] (1), [[Rust (Programming Language)|Rust]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (cool music) (1)
 
-#### Solution: Customizing questions
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-customizing-questions?u=76281980)
+#### [Solution: Customizing questions](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-customizing-questions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -928,7 +913,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-customizing-questions?u=76281980&t=55)** Then we're going to handle the question.
 >
-> **[1:03](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-customizing-questions?u=76281980&t=63)** So we'll say inside of a string, give me three interview questions for a JavaScript developer.
+> **[1:03](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-customizing-questions?u=76281980&t=63)** So we'll say inside of a string, give me three interview questions for a [[JavaScript]] developer.
 >
 > **[1:16](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-customizing-questions?u=76281980&t=76)** We need to specify the model as well.
 >
@@ -944,7 +929,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-customizing-questions?u=76281980&t=108)** I'm going to right click over where it says terminal.
 >
-> **[1:51](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-customizing-questions?u=76281980&t=111)** And I'm going to say panel position right just so that we can see this a little more clearly, Zoom out a teeny bit and we'll type node index.
+> **[1:51](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-customizing-questions?u=76281980&t=111)** And I'm going to say panel position right just so that we can see this a little more clearly, [[Zoom]] out a teeny bit and we'll type node index.
 >
 > **[2:07](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-customizing-questions?u=76281980&t=127)** Now it's going to go make that request and this is going to return the entire object.
 >
@@ -982,7 +967,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-customizing-questions?u=76281980&t=211)** And then we also need to pass that in down here.
 >
-> **[3:33](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-customizing-questions?u=76281980&t=213)** So why don't we use Python?
+> **[3:33](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-customizing-questions?u=76281980&t=213)** So why don't we use [[Python (Programming Language)|Python]]?
 >
 > **[3:37](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-customizing-questions?u=76281980&t=217)** All right, so injecting it here, plugging it into the string here, and then calling the function with Python at the bottom.
 >
@@ -990,7 +975,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-customizing-questions?u=76281980&t=232)** Nice. So there's Python.
 >
-> **[3:55](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-customizing-questions?u=76281980&t=235)** We could also use rust and that's giving us questions every time.
+> **[3:55](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-customizing-questions?u=76281980&t=235)** We could also use [[Rust (Programming Language)|rust]] and that's giving us questions every time.
 >
 > **[4:03](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-customizing-questions?u=76281980&t=243)** And we're always plugging in that dynamic value.
 >
@@ -1002,7 +987,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), prompt (1), [[JavaScript]] (1), [[Zoom]] (1), node (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[JavaScript]] (1), [[Zoom]] (1), [[Rust (Programming Language)|Rust]] (1)
 > **CLI Commands:** make (6), python (4), node (1)
 > **Env Vars:** api (1)
 > **Versions:** 4.0 (1)
@@ -1011,8 +996,7 @@ created: 2026-05-02
 > **Speakers:** - all (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Building OpenAI prompts
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-building-openai-prompts?u=76281980)
+#### [Solution: Building OpenAI prompts](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-building-openai-prompts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1058,13 +1042,13 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-building-openai-prompts?u=76281980&t=119)** So we'll click Test the code and our prompt structure is perfect, looking solid.
 >
-> **[2:05](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-building-openai-prompts?u=76281980&t=125)** So this is a really important part of working with the OpenAI API.
+> **[2:05](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-building-openai-prompts?u=76281980&t=125)** So this is a really important part of working with the [[OpenAI API]].
 >
 > **[2:10](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-building-openai-prompts?u=76281980&t=130)** We have these different roles that allow for our prompts to have a little bit more context before they start to run additional questions.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (1), [[OpenAI API]] (1)
+> **Frameworks & Libraries:** [[OpenAI API]] (1)
 > **Code Identifiers:** usercontent (2)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
@@ -1077,12 +1061,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Accepting user input with readline
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/accepting-user-input-with-readline?u=76281980)
+#### [Accepting user input with readline](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/accepting-user-input-with-readline?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/accepting-user-input-with-readline?u=76281980&t=0)** - [Instructor] It's also possible to integrate with some of Node.js's packages in order to create kind of a little CLI chat application using Readline.
+> **[0:00](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/accepting-user-input-with-readline?u=76281980&t=0)** - [Instructor] It's also possible to integrate with some of [[Node.js]]'s packages in order to create kind of a little [[CLI]] chat application using Readline.
 >
 > **[0:11](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/accepting-user-input-with-readline?u=76281980&t=11)** So from Node.js, I'm going to import readline, and that's just from Node.js's standard library.
 >
@@ -1110,7 +1093,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/accepting-user-input-with-readline?u=76281980&t=84)** The arguments are going to be the question itself as well as a callback function.
 >
-> **[1:30](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/accepting-user-input-with-readline?u=76281980&t=90)** This is going to be an asynchronous function that's going to make that request to the OpenAI API.
+> **[1:30](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/accepting-user-input-with-readline?u=76281980&t=90)** This is going to be an asynchronous function that's going to make that request to the [[OpenAI API]].
 >
 > **[1:36](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/accepting-user-input-with-readline?u=76281980&t=96)** So this'll look a lot like it did before.
 >
@@ -1168,7 +1151,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (4), [[CLI]] (2), application (2), next (1), [[OpenAI API]] (1)
+> **Frameworks & Libraries:** [[Node.js]] (4), [[CLI]] (2), [[OpenAI API]] (1)
 > **CLI Commands:** node (5), make (2)
 > **File Paths:** node.js (4)
 > **Env Vars:** cli (2), api (1)
@@ -1177,14 +1160,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Creating image descriptions based on a URL
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/creating-image-descriptions-based-on-a-url?u=76281980)
+#### [Creating image descriptions based on a URL](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/creating-image-descriptions-based-on-a-url?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/creating-image-descriptions-based-on-a-url?u=76281980&t=0)** - [Instructor] This is a beautiful image of some mountaintops in snow that I want to describe using the OpenAI API.
+> **[0:00](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/creating-image-descriptions-based-on-a-url?u=76281980&t=0)** - [Instructor] This is a beautiful image of some mountaintops in snow that I want to describe using the [[OpenAI API]].
 >
-> **[0:10](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/creating-image-descriptions-based-on-a-url?u=76281980&t=10)** So, luckily, I have this ChatGPT-4 Vision API, and this is going to help me describe it using a little node application.
+> **[0:10](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/creating-image-descriptions-based-on-a-url?u=76281980&t=10)** So, luckily, I have this [[ChatGPT]]-4 Vision API, and this is going to help me describe it using a little node application.
 >
 > **[0:19](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/creating-image-descriptions-based-on-a-url?u=76281980&t=19)** This is really cool.
 >
@@ -1224,9 +1206,9 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/creating-image-descriptions-based-on-a-url?u=76281980&t=118)** So, we'll go ahead and place that into here.
 >
-> **[2:04](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/creating-image-descriptions-based-on-a-url?u=76281980&t=124)** So, moonhighway, articles/incorporating-rest-data/images/skiing.jpeg.
+> **[2:04](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/creating-image-descriptions-based-on-a-url?u=76281980&t=124)** So, moonhighway, articles/incorporating-[[Representational State Transfer (REST)|rest]]-data/images/skiing.jpeg.
 >
-> **[2:10](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/creating-image-descriptions-based-on-a-url?u=76281980&t=130)** Okay, then outside of the messages array, but still inside of our Chat Completions create call, we want to define the model, which is going to be gpt-4-vision.preview.
+> **[2:10](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/creating-image-descriptions-based-on-a-url?u=76281980&t=130)** Okay, then outside of the messages array, but still inside of our Chat Completions create call, we want to define the model, which is going to be [[GPT-4]]-vision.preview.
 >
 > **[2:30](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/creating-image-descriptions-based-on-a-url?u=76281980&t=150)** Now that I have that, we can console.log response.choices, 0.message.
 >
@@ -1274,7 +1256,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2), node (2), application (2), [[GPT-4]] (2), [[OpenAI API]] (1)
+> **Frameworks & Libraries:** [[GPT-4]] (2), [[OpenAI API]] (1), [[ChatGPT]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** url (4), api (3), gpt (1)
 > **Code Identifiers:** imagedescription (3), image_url (1), max_tokens (1)
 > **CLI Commands:** node (2), make (2)
@@ -1283,8 +1265,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Tools:** terminal (1)
 
-#### Transcribing audio files with OpenAI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/transcribing-audio-files-with-openai?u=76281980)
+#### [Transcribing audio files with OpenAI](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/transcribing-audio-files-with-openai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1360,7 +1341,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (7), next (4), ai (2), hit (2), data (1)
 > **Env Vars:** api (7), mp3 (3), http (2), url (1), eve (1)
 > **CLI Commands:** curl (4), make (2), node (1)
 > **Cross-References:** go back to (1), in the next (1)
@@ -1368,9 +1348,9 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 > **Warnings:** heads up (1)
+> **Speakers:** - another (1)
 
-#### Building a Node app to transcribe audio
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/building-a-node-app-to-transcribe-audio?u=76281980)
+#### [Building a Node app to transcribe audio](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/building-a-node-app-to-transcribe-audio?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1416,7 +1396,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/building-a-node-app-to-transcribe-audio?u=76281980&t=127)** And then finally we'll import this thing called form data from form data.
 >
-> **[2:13](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/building-a-node-app-to-transcribe-audio?u=76281980&t=133)** This is just a NPM that helps us to process these form elements.
+> **[2:13](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/building-a-node-app-to-transcribe-audio?u=76281980&t=133)** This is just a [[npm]] that helps us to process these form elements.
 >
 > **[2:19](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/building-a-node-app-to-transcribe-audio?u=76281980&t=139)** Now, in order for Node to grab this recording, read from it, and then send it along as a form element, we need to read it from underscore, underscore, dirname, so the place we'll find that is path dot dirname, and we'll use this function called file URL to Path.
 >
@@ -1500,7 +1480,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), node (8), api (5), ai (4), next (2)
+> **Frameworks & Libraries:** [[npm]] (1)
 > **Env Vars:** api (5), url (4), http (1), npm (1), https (1)
 > **CLI Commands:** node (8), npm (1), find (1), curl (1)
 > **Prerequisites:** install (4), set up (3), setup (1)
@@ -1509,14 +1489,13 @@ created: 2026-05-02
 > **Exercise Files:** template (2)
 > **Analogies:** imagine (2)
 
-#### Using DALL-E 3 for image generation
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/using-dall-e-3-for-image-generation?u=76281980)
+#### [Using DALL-E 3 for image generation](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/using-dall-e-3-for-image-generation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/using-dall-e-3-for-image-generation?u=76281980&t=0)** - [Instructor] Another one of these endpoints we can make use of is for image generation.
 >
-> **[0:05](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/using-dall-e-3-for-image-generation?u=76281980&t=5)** So if you go here to the platform.[openai.com](https://openai.com) API docs, you can find information about how you send a request to use the DALL-E models to generate an image.
+> **[0:05](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/using-dall-e-3-for-image-generation?u=76281980&t=5)** So if you go here to the platform.[openai.com](https://openai.com) API docs, you can find information about how you send a request to use the [[DALL-E]] models to generate an image.
 >
 > **[0:18](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/using-dall-e-3-for-image-generation?u=76281980&t=18)** So let's go ahead and do it.
 >
@@ -1554,7 +1533,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/using-dall-e-3-for-image-generation?u=76281980&t=114)** And we're going to continue to pull from our .env file OPENAI_API_KEY.
 >
-> **[2:01](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/using-dall-e-3-for-image-generation?u=76281980&t=121)** This isn't form data, so this time we're going to say "Content-Type": 'application/json.
+> **[2:01](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/using-dall-e-3-for-image-generation?u=76281980&t=121)** This isn't form data, so this time we're going to say "Content-Type": 'application/[[JSON]].
 >
 > **[2:11](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/using-dall-e-3-for-image-generation?u=76281980&t=131)** Json, not son. There we go.
 >
@@ -1608,11 +1587,11 @@ created: 2026-05-02
 >
 > **[4:11](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/using-dall-e-3-for-image-generation?u=76281980&t=251)** What a majestic horse.
 >
-> **[4:13](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/using-dall-e-3-for-image-generation?u=76281980&t=253)** So DALL-E is helping us to create a whole stable full of horses using this generative AI model.
+> **[4:13](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/using-dall-e-3-for-image-generation?u=76281980&t=253)** So DALL-E is helping us to create a whole stable full of horses using this [[Generative AI]] model.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (8), [[DALL-E]] (4), api (3), data (3), [[JSON]] (2)
+> **Frameworks & Libraries:** [[DALL-E]] (4), [[JSON]] (2), [[Generative AI]] (1)
 > **Env Vars:** dall (3), url (3), api (2), openai_api_key (1)
 > **CLI Commands:** make (3), node (2), find (1)
 > **URLs:** [openai.com](https://openai.com) (2)
@@ -1621,8 +1600,7 @@ created: 2026-05-02
 > **API Endpoints:** /v1/images/generations (1)
 > **Exercise Files:** template (1)
 
-#### Solution: Connecting with APIs
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-connecting-with-apis?u=76281980)
+#### [Solution: Connecting with APIs](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-connecting-with-apis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1636,7 +1614,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-connecting-with-apis?u=76281980&t=35)** This will take in the imageUrl, and this imageUrl is going to be used inside of this prompt function.
 >
-> **[0:48](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-connecting-with-apis?u=76281980&t=48)** We set a model: "gpt-4-vision preview".
+> **[0:48](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-connecting-with-apis?u=76281980&t=48)** We set a model: "[[GPT-4]]-vision preview".
 >
 > **[0:55](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-connecting-with-apis?u=76281980&t=55)** These are always fun, messages.
 >
@@ -1682,7 +1660,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-connecting-with-apis?u=76281980&t=213)** And then response_format
 >
-> **[3:42](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-connecting-with-apis?u=76281980&t=222)** is json, okay?
+> **[3:42](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-connecting-with-apis?u=76281980&t=222)** is [[JSON]], okay?
 >
 > **[3:44](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-connecting-with-apis?u=76281980&t=224)** Okay, with our two functions in place, let's test it.
 >
@@ -1700,7 +1678,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (2), [[GPT-4]] (1), next (1), [[JSON]] (1), data (1)
+> **Frameworks & Libraries:** [[GPT-4]] (1), [[JSON]] (1)
 > **Code Identifiers:** image_url (3), imageurl (2), prepareaudiotranscription (2), createimagedescription (1), max_tokens (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** previous video (1)
@@ -1713,8 +1691,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using the Assistants API playground
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/using-the-assistants-api-playground?u=76281980)
+#### [Using the Assistants API playground](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/using-the-assistants-api-playground?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1726,7 +1703,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/using-the-assistants-api-playground?u=76281980&t=31)** So just so we understand what's going on here, I'm going to create a new assistant, and I'm going to call this Janice, the tough but friendly computer science professor.
 >
-> **[0:48](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/using-the-assistants-api-playground?u=76281980&t=48)** You are a computer science professor who is an expert at JavaScript and can help refactor code for maximum efficiency and re-usability.
+> **[0:48](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/using-the-assistants-api-playground?u=76281980&t=48)** You are a computer science professor who is an expert at [[JavaScript]] and can help refactor code for maximum efficiency and re-usability.
 >
 > **[1:12](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/using-the-assistants-api-playground?u=76281980&t=72)** Okay.
 >
@@ -1842,7 +1819,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), data (3), ai (2), node (2), application (2)
+> **Frameworks & Libraries:** [[JavaScript]] (2)
 > **CLI Commands:** make (4), node (2)
 > **Env Vars:** api (4), post (1)
 > **File Paths:** index.js (1)
@@ -1851,8 +1828,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Warnings:** note that (1)
 
-#### Creating an assistant in a Node application
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/creating-an-assistant-in-a-node-application?u=76281980)
+#### [Creating an assistant in a Node application](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/creating-an-assistant-in-a-node-application?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1862,7 +1838,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/creating-an-assistant-in-a-node-application?u=76281980&t=13)** We're not going to be making those fetches with Axios.
 >
-> **[0:17](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/creating-an-assistant-in-a-node-application?u=76281980&t=17)** Instead, we're going to use some of these functions that are part of the OpenAI API.
+> **[0:17](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/creating-an-assistant-in-a-node-application?u=76281980&t=17)** Instead, we're going to use some of these functions that are part of the [[OpenAI API]].
 >
 > **[0:24](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/creating-an-assistant-in-a-node-application?u=76281980&t=24)** So we do need dotenv so that we can use our API key, of course, and we need to wrap that in quotes.
 >
@@ -1874,7 +1850,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/creating-an-assistant-in-a-node-application?u=76281980&t=67)** Maybe it's a chatbot that you're putting on your website so that customers can ask questions.
 >
-> **[1:13](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/creating-an-assistant-in-a-node-application?u=76281980&t=73)** Maybe it is something that you use for your own health and wellness to give you nutritional information or exercise information.
+> **[1:13](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/creating-an-assistant-in-a-node-application?u=76281980&t=73)** Maybe it is something that you use for your own health and [[Wellness]] to give you nutritional information or exercise information.
 >
 > **[1:23](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/creating-an-assistant-in-a-node-application?u=76281980&t=83)** I'm going to create here a betterSpeaker function, and this is going to help me create an assistant that's going to help me be a better speaker and presenter.
 >
@@ -1898,7 +1874,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/creating-an-assistant-in-a-node-application?u=76281980&t=152)** Cool. So that's our instructions.
 >
-> **[2:35](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/creating-an-assistant-in-a-node-application?u=76281980&t=155)** We're also going to add our model here, which we'll just use gpt-4.
+> **[2:35](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/creating-an-assistant-in-a-node-application?u=76281980&t=155)** We're also going to add our model here, which we'll just use [[GPT-4]].
 >
 > **[2:42](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/creating-an-assistant-in-a-node-application?u=76281980&t=162)** And then here at the bottom we're going to console.log our assistant just to see that this is working.
 >
@@ -1920,7 +1896,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (2), application (1), [[OpenAI API]] (1), api (1), chatbot (1)
+> **Frameworks & Libraries:** [[OpenAI API]] (1), [[Wellness]] (1), [[GPT-4]] (1)
 > **CLI Commands:** node (2), make (1)
 > **Code Identifiers:** betterspeaker (2), apikey (1)
 > **Env Vars:** api (2)
@@ -1928,8 +1904,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding messages to threads
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/adding-messages-to-threads?u=76281980)
+#### [Adding messages to threads](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/adding-messages-to-threads?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1939,7 +1914,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/adding-messages-to-threads?u=76281980&t=8)** That way our assistant will have context about all of the questions that have been asked.
 >
-> **[0:14](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/adding-messages-to-threads?u=76281980&t=14)** So, we're going to incorporate the Readline package from Node.js.
+> **[0:14](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/adding-messages-to-threads?u=76281980&t=14)** So, we're going to incorporate the Readline package from [[Node.js]].
 >
 > **[0:22](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/adding-messages-to-threads?u=76281980&t=22)** We're also going to create an interface as we did before.
 >
@@ -1995,7 +1970,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (1), node (1), api (1)
+> **Frameworks & Libraries:** [[Node.js]] (1)
 > **CLI Commands:** node (2), make (1)
 > **File Paths:** node.js (1)
 > **Env Vars:** api (1)
@@ -2004,8 +1979,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Running and parsing the assistant response
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/running-and-parsing-the-assistant-response?u=76281980)
+#### [Running and parsing the assistant response](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/running-and-parsing-the-assistant-response?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2091,7 +2065,7 @@ created: 2026-05-02
 >
 > **[5:09](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/running-and-parsing-the-assistant-response?u=76281980&t=309)** And I'm going to type node index, "share your opening paragraph with the speaker coach!"
 >
-> **[5:15](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/running-and-parsing-the-assistant-response?u=76281980&t=315)** "Hello everyone and welcome to this amazing JavaScript event!"
+> **[5:15](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/running-and-parsing-the-assistant-response?u=76281980&t=315)** "Hello everyone and welcome to this amazing [[JavaScript]] event!"
 >
 > **[5:23](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/running-and-parsing-the-assistant-response?u=76281980&t=323)** So we will let that do its thing, and if all goes well, which it did, we should see our speaker coach punch up that it did on our opening line.
 >
@@ -2113,7 +2087,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2), [[JavaScript]] (2), prompt (1), data (1), node (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2)
 > **Code Identifiers:** thread_id (3), assistant_id (2), checkstatus (2), settimeout (2), createandrun (1)
 > **CLI Commands:** make (4), find (1), node (1)
 > **Env Vars:** api (2)
@@ -2122,8 +2096,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is a  (1)
 
-#### Solution: Working with the Assistants API
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-working-with-the-assistants-api?u=76281980)
+#### [Solution: Working with the Assistants API](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-working-with-the-assistants-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2163,7 +2136,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-working-with-the-assistants-api?u=76281980&t=125)** Then we'll set a timeout and we'll call resolve here, pass in an object where our generate random ID function... Man, this thing is flexible, it's helping us out.
 >
-> **[2:26](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-working-with-the-assistants-api?u=76281980&t=146)** So we have our message here, a role which is assistant and content, which will read JavaScript is a programming language that allows you to implement complex features...
+> **[2:26](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-working-with-the-assistants-api?u=76281980&t=146)** So we have our message here, a role which is assistant and content, which will read [[JavaScript]] is a programming language that allows you to implement complex features...
 >
 > **[2:50](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-working-with-the-assistants-api?u=76281980&t=170)** To implement complex features on web pages.
 >
@@ -2185,7 +2158,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), [[JavaScript]] (2), next (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -2196,18 +2169,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting up a LangChain project
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/setting-up-a-langchain-project?u=76281980)
+#### [Setting up a LangChain project](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/setting-up-a-langchain-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/setting-up-a-langchain-project?u=76281980&t=0)** - [Instructor] Another powerful tool that's part of the AI ecosystem is LangChain.
+> **[0:00](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/setting-up-a-langchain-project?u=76281980&t=0)** - [Instructor] Another powerful tool that's part of the AI ecosystem is [[LangChain]].
 >
 > **[0:05](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/setting-up-a-langchain-project?u=76281980&t=5)** So LangChain gives us a whole suite of tools that we can use to develop apps that are powered by these different language models.
 >
-> **[0:13](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/setting-up-a-langchain-project?u=76281980&t=13)** So if you're ever looking for the documentation for LangChain, something to keep in mind is the default will take you generally to the Python version of these docs.
+> **[0:13](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/setting-up-a-langchain-project?u=76281980&t=13)** So if you're ever looking for the documentation for LangChain, something to keep in mind is the default will take you generally to the [[Python (Programming Language)|Python]] version of these docs.
 >
-> **[0:25](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/setting-up-a-langchain-project?u=76281980&t=25)** So if you're ever on a page and you think, hey, why is this all Python all the time, you can come up to this little parrot and link and then select JavaScript/TypeScript Docs and this will take you to where you need to go.
+> **[0:25](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/setting-up-a-langchain-project?u=76281980&t=25)** So if you're ever on a page and you think, hey, why is this all Python all the time, you can come up to this little parrot and link and then select [[JavaScript]]/TypeScript Docs and this will take you to where you need to go.
 >
 > **[0:39](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/setting-up-a-langchain-project?u=76281980&t=39)** Excellent.
 >
@@ -2257,7 +2229,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LangChain]] (6), [[Python (Programming Language)|Python]] (2), ai (1), [[JavaScript]] (1), api (1)
+> **Frameworks & Libraries:** [[LangChain]] (6), [[Python (Programming Language)|Python]] (2), [[JavaScript]] (1)
 > **CLI Commands:** make (3), python (2), node (1)
 > **Code Identifiers:** chatmodel (2)
 > **Env Vars:** api (1), openai_api_key (1)
@@ -2266,14 +2238,13 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **UI Navigation:** go to (1)
 
-#### Creating a chat template
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/creating-a-chat-template?u=76281980)
+#### [Creating a chat template](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/creating-a-chat-template?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/creating-a-chat-template?u=76281980&t=0)** - [Instructor] In our previous example, we took a look at how to just send some simple questions to the OpenAI API.
+> **[0:00](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/creating-a-chat-template?u=76281980&t=0)** - [Instructor] In our previous example, we took a look at how to just send some simple questions to the [[OpenAI API]].
 >
-> **[0:07](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/creating-a-chat-template?u=76281980&t=7)** Let's make our LangChain example a little better by incorporating some prompts.
+> **[0:07](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/creating-a-chat-template?u=76281980&t=7)** Let's make our [[LangChain]] example a little better by incorporating some prompts.
 >
 > **[0:14](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/creating-a-chat-template?u=76281980&t=14)** So, this will start to show us some of the benefits of using something like LangChain so that we don't have to do everything by hand or from scratch.
 >
@@ -2341,7 +2312,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LangChain]] (6), prompt (3), [[OpenAI API]] (1), data (1), node (1)
+> **Frameworks & Libraries:** [[LangChain]] (6), [[OpenAI API]] (1)
 > **Code Identifiers:** output_parsers (1), frommessages (1), const_parser (1), chatmodel (1)
 > **CLI Commands:** make (2), node (1)
 > **Env Vars:** api (2)
@@ -2349,8 +2320,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using runnable sequences
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/using-runnable-sequences?u=76281980)
+#### [Using runnable sequences](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/using-runnable-sequences?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2364,7 +2334,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/using-runnable-sequences?u=76281980&t=13)** We're going to use the prompt template instead of the chat prompt template.
 >
-> **[0:19](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/using-runnable-sequences?u=76281980&t=19)** And we're also going to import runnable sequence from LangChain core runnables.
+> **[0:19](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/using-runnable-sequences?u=76281980&t=19)** And we're also going to import runnable sequence from [[LangChain]] core runnables.
 >
 > **[0:32](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/using-runnable-sequences?u=76281980&t=32)** Then let's move the chat model up a little bit.
 >
@@ -2396,14 +2366,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (6), [[LangChain]] (1), node (1)
+> **Frameworks & Libraries:** [[LangChain]] (1)
 > **Exercise Files:** template (5)
 > **CLI Commands:** make (3), node (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Combining multiple chains
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/combining-multiple-chains?u=76281980)
+#### [Combining multiple chains](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/combining-multiple-chains?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2481,7 +2450,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (2), node (1), data (1), next (1)
 > **Code Identifiers:** bigchain (3), chatmodel (2), fromtemplate (1)
 > **UI Navigation:** scroll down (2)
 > **CLI Commands:** node (1)
@@ -2489,12 +2457,11 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Building a conversation pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-building-a-conversation-pipeline?u=76281980)
+#### [Solution: Building a conversation pipeline](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-building-a-conversation-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-building-a-conversation-pipeline?u=76281980&t=0)** - [Instructor] Now let's take a look at the solution for this LangChain challenge.
+> **[0:00](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-building-a-conversation-pipeline?u=76281980&t=0)** - [Instructor] Now let's take a look at the solution for this [[LangChain]] challenge.
 >
 > **[0:10](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-building-a-conversation-pipeline?u=76281980&t=10)** We're going to create a chat template here and here, we will get rid of that on line 12.
 >
@@ -2546,7 +2513,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-building-a-conversation-pipeline?u=76281980&t=198)** So those quotation marks are just for formatting there.
 >
-> **[3:22](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-building-a-conversation-pipeline?u=76281980&t=202)** I'll answer your question userMessage Async/await is a way to handle promises in JavaScript.
+> **[3:22](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-building-a-conversation-pipeline?u=76281980&t=202)** I'll answer your question userMessage Async/await is a way to handle promises in [[JavaScript]].
 >
 > **[3:45](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-building-a-conversation-pipeline?u=76281980&t=225)** Use the async keyword before a function declaration and await to pause until a promise resolves.
 >
@@ -2556,7 +2523,7 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-building-a-conversation-pipeline?u=76281980&t=250)** Let's add a comma.
 >
-> **[4:13](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-building-a-conversation-pipeline?u=76281980&t=253)** Then we will add some metadata.
+> **[4:13](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-building-a-conversation-pipeline?u=76281980&t=253)** Then we will add some [[Metadata]].
 >
 > **[4:16](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/solution-building-a-conversation-pipeline?u=76281980&t=256)** So the metadata looks like this.
 >
@@ -2586,7 +2553,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (5), [[LangChain]] (2), data (2), [[Metadata]] (2), next (1)
+> **Frameworks & Libraries:** [[LangChain]] (2), [[Metadata]] (2), [[JavaScript]] (1)
 > **Code Identifiers:** systemprompt (4), modelname (4), llm_config (2), usermessage (2), chat_template (1)
 > **CLI Commands:** make (3)
 > **Exercise Files:** template (3)
@@ -2600,12 +2567,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/next-steps?u=76281980&t=0)** - [Instructor] Now that we understand some of the vocabulary and some of the features of our AI projects that we can start to build with JavaScript, the question then becomes, where do we go from here?
+> **[0:00](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/next-steps?u=76281980&t=0)** - [Instructor] Now that we understand some of the vocabulary and some of the features of our AI projects that we can start to build with [[JavaScript]], the question then becomes, where do we go from here?
 >
 > **[0:12](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/next-steps?u=76281980&t=12)** Well, I would encourage you to continue to look through the OpenAI developer platform.
 >
@@ -2613,19 +2579,19 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/next-steps?u=76281980&t=25)** So I would just try to think through the types of apps that you want to build, and you can start to incorporate some of these.
 >
-> **[0:34](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/next-steps?u=76281980&t=34)** If you scroll down here on the homepage, in the GUIDES section, I think they're prompt engineering, production best practices, safety, rate limiting, error codes.
+> **[0:34](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/next-steps?u=76281980&t=34)** If you scroll down here on the homepage, in the GUIDES section, I think they're [[Prompt Engineering]], production best practices, safety, rate limiting, error codes.
 >
 > **[0:44](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/next-steps?u=76281980&t=44)** These are great next steps that you can take a look at as you continue to build your apps.
 >
-> **[0:50](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/next-steps?u=76281980&t=50)** I would also encourage you to check out the LangChain documentation.
+> **[0:50](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/next-steps?u=76281980&t=50)** I would also encourage you to check out the [[LangChain]] documentation.
 >
 > **[0:54](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/next-steps?u=76281980&t=54)** There are several cookbooks that you can use to do all sorts of different things.
 >
-> **[0:59](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/next-steps?u=76281980&t=59)** If you wanted to connect to a database, if you wanted to create different types of agents and memory management, that can happen here as well.
+> **[0:59](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/next-steps?u=76281980&t=59)** If you wanted to connect to a database, if you wanted to create different types of agents and [[Memory Management]], that can happen here as well.
 >
 > **[1:08](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/next-steps?u=76281980&t=68)** I would also encourage you to check out Vercel.
 >
-> **[1:10](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/next-steps?u=76281980&t=70)** Vercel is famously the company that creates Next.js, and many of their folks are part of the React team, but they have a ton of AI stuff that's really cool too.
+> **[1:10](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/next-steps?u=76281980&t=70)** Vercel is famously the company that creates [[Next.js]], and many of their folks are part of the [[React.js|React]] team, but they have a ton of AI stuff that's really cool too.
 >
 > **[1:23](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/next-steps?u=76281980&t=83)** So they have this tool called v0.
 >
@@ -2649,7 +2615,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[JavaScript]] (4), [[React.js|React]] (4), api (1), [[Prompt Engineering]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[React.js|React]] (4), [[Prompt Engineering]] (1), [[LangChain]] (1), [[Memory Management]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** api (1), guides (1)
 > **File Paths:** next.js (1)

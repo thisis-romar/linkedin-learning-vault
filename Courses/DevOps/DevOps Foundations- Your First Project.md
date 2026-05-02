@@ -106,8 +106,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Your first project, DevOps-ified!
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/your-first-project-devopsified-24080523?u=76281980)
+#### [Your first project, DevOps-ified!](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/your-first-project-devopsified-24080523?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -119,7 +118,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/your-first-project-devopsified-24080523?u=76281980&t=16)** That's a lot.
 >
-> **[0:17](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/your-first-project-devopsified-24080523?u=76281980&t=17)** Applying a little bit of DevOps to any project goes a long way towards solving these problems.
+> **[0:17](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/your-first-project-devopsified-24080523?u=76281980&t=17)** Applying a little bit of [[DevOps]] to any project goes a long way towards solving these problems.
 >
 > **[0:23](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/your-first-project-devopsified-24080523?u=76281980&t=23)** My name is Carlos Nuñez.
 >
@@ -129,7 +128,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/your-first-project-devopsified-24080523?u=76281980&t=30)** In this course, I'll teach you how to apply technical DevOps principles to a website.
 >
-> **[0:35](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/your-first-project-devopsified-24080523?u=76281980&t=35)** Together we'll use Docker, Git, automated tests, CI, CD and Infrastructure as Code to take this website all the way into the cloud.
+> **[0:35](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/your-first-project-devopsified-24080523?u=76281980&t=35)** Together we'll use Docker, [[Git]], automated tests, CI, CD and [[Infrastructure as code (IaC)|Infrastructure as Code]] to take this website all the way into the cloud.
 >
 > **[0:45](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/your-first-project-devopsified-24080523?u=76281980&t=45)** Ready to go on your first DevOps journey?
 >
@@ -137,17 +136,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (4), [[Git]] (1), ci (1), cd (1), [[Infrastructure as code (IaC)|Infrastructure as code]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (4), [[Git]] (1), [[Infrastructure as code (IaC)|Infrastructure as code]] (1)
 > **CLI Commands:** docker (1), git (1), cd (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/what-you-should-know-24079507?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/what-you-should-know-24079507?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/what-you-should-know-24079507?u=76281980&t=0)** Here's what you should know to be successful in this course.
 >
-> **[0:03](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/what-you-should-know-24079507?u=76281980&t=3)** Being comfortable with the Linux shell, such as Bash, Ash or Zsh, will help you get the most out of this course.
+> **[0:03](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/what-you-should-know-24079507?u=76281980&t=3)** Being comfortable with the [[Linux]] shell, such as Bash, Ash or Zsh, will help you get the most out of this course.
 >
 > **[0:10](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/what-you-should-know-24079507?u=76281980&t=10)** Having basic programming experience will help as well, but it is not required.
 >
@@ -157,7 +155,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/what-you-should-know-24079507?u=76281980&t=29)** For each demo, there's a beginning and an end state.
 >
-> **[0:33](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/what-you-should-know-24079507?u=76281980&t=33)** We're also going to host Explore California in AWS or Amazon Web Services, so you'll need an AWS account if you would like to do this with us.
+> **[0:33](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/what-you-should-know-24079507?u=76281980&t=33)** We're also going to host Explore California in AWS or [[Amazon Web Services (AWS)|Amazon Web Services]], so you'll need an AWS account if you would like to do this with us.
 >
 > **[0:42](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/what-you-should-know-24079507?u=76281980&t=42)** Note that this will cost some money.
 >
@@ -167,7 +165,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (5), [[Linux]] (1), [[Programming]] (1), web (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **CLI Commands:** aws (5)
 > **Env Vars:** aws (4), ide (1)
 > **Tools:** bash (1), zsh (1), vim (1)
@@ -176,12 +174,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Warnings:** note that (1)
 
-#### Configuring AWS
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/configuring-aws-24080513?u=76281980)
+#### [Configuring AWS](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/configuring-aws-24080513?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/configuring-aws-24080513?u=76281980&t=0)** We're going to be doing some things with Amazon Web Services in this course.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/configuring-aws-24080513?u=76281980&t=0)** We're going to be doing some things with [[Amazon Web Services (AWS)|Amazon Web Services]] in this course.
 >
 > **[0:04](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/configuring-aws-24080513?u=76281980&t=4)** But before we do that, let's learn how to create temporary administrator AWS credentials both in the browser and in our terminal.
 >
@@ -203,7 +200,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/configuring-aws-24080513?u=76281980&t=54)** Save this code somewhere, as we're going to be using it later.
 >
-> **[0:58](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/configuring-aws-24080513?u=76281980&t=58)** The next thing we're going to do is create a user that we can log in with in the AWS CLI, which we'll download and install later.
+> **[0:58](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/configuring-aws-24080513?u=76281980&t=58)** The next thing we're going to do is create a user that we can log in with in the AWS [[CLI]], which we'll download and install later.
 >
 > **[1:06](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/configuring-aws-24080513?u=76281980&t=66)** So let's go ahead and click on the search text box up here and type in "IAM."
 >
@@ -301,7 +298,7 @@ created: 2026-05-02
 >
 > **[4:11](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/configuring-aws-24080513?u=76281980&t=251)** Since I'm on a Mac, what I'm going to do is I'm going to type Command + Space, type in "Terminal" and hit Enter.
 >
-> **[4:17](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/configuring-aws-24080513?u=76281980&t=257)** If you're on Windows, you can just click the Start button, type in "Terminal" and then click on the result.
+> **[4:17](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/configuring-aws-24080513?u=76281980&t=257)** If you're on [[Windows]], you can just click the Start button, type in "Terminal" and then click on the result.
 >
 > **[4:25](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/configuring-aws-24080513?u=76281980&t=265)** Before beginning, make sure that you have the AWS CLI installed.
 >
@@ -331,7 +328,7 @@ created: 2026-05-02
 >
 > **[5:26](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/configuring-aws-24080513?u=76281980&t=326)** And then I'm going to hit Enter.
 >
-> **[5:28](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/configuring-aws-24080513?u=76281980&t=328)** Finally I'm going to provide JSON for the output format.
+> **[5:28](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/configuring-aws-24080513?u=76281980&t=328)** Finally I'm going to provide [[JSON]] for the output format.
 >
 > **[5:31](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/configuring-aws-24080513?u=76281980&t=331)** And then I'm going to hit Enter.
 >
@@ -405,7 +402,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (17), aws (16), hit (7), [[CLI]] (4), [[JSON]] (4)
+> **Frameworks & Libraries:** [[CLI]] (4), [[JSON]] (4), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Windows]] (1)
 > **Env Vars:** aws (11), iam (7), cli (4), json (4), sts (2)
 > **UI Navigation:** click on (26), scroll down (2), checkbox (1)
 > **CLI Commands:** aws (16), make (3)
@@ -419,8 +416,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### So what is this DevOps thing anyway?
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/so-what-is-this-devops-thing-anyway-24082449?u=76281980)
+#### [So what is this DevOps thing anyway?](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/so-what-is-this-devops-thing-anyway-24082449?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -492,7 +488,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/so-what-is-this-devops-thing-anyway-24082449?u=76281980&t=212)** What if they could feed off of each other through this increased knowledge and increase collaboration to do their jobs better?
 >
-> **[3:41](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/so-what-is-this-devops-thing-anyway-24082449?u=76281980&t=221)** That's what the DevOps ethos is all about.
+> **[3:41](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/so-what-is-this-devops-thing-anyway-24082449?u=76281980&t=221)** That's what the [[DevOps]] ethos is all about.
 >
 > **[3:45](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/so-what-is-this-devops-thing-anyway-24082449?u=76281980&t=225)** DevOps is all about bringing engineers together by removing silos, improving communication, and documenting everything as code.
 >
@@ -508,11 +504,11 @@ created: 2026-05-02
 >
 > **[4:19](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/so-what-is-this-devops-thing-anyway-24082449?u=76281980&t=259)** Here are some common examples of implementations of this.
 >
-> **[4:23](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/so-what-is-this-devops-thing-anyway-24082449?u=76281980&t=263)** There's been lots of talk over the years about bringing DevOps to security in the form of DevSecOps.
+> **[4:23](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/so-what-is-this-devops-thing-anyway-24082449?u=76281980&t=263)** There's been lots of talk over the years about bringing DevOps to security in the form of [[DevSecOps]].
 >
 > **[4:29](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/so-what-is-this-devops-thing-anyway-24082449?u=76281980&t=269)** There's also been lots of talk about bringing DevOps to product management through ProdOps or finance through FinOps.
 >
-> **[4:37](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/so-what-is-this-devops-thing-anyway-24082449?u=76281980&t=277)** We've even seen the DevOps culture be embraced by business development in the form of BizOps.
+> **[4:37](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/so-what-is-this-devops-thing-anyway-24082449?u=76281980&t=277)** We've even seen the DevOps culture be embraced by [[Business Development]] in the form of BizOps.
 >
 > **[4:44](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/so-what-is-this-devops-thing-anyway-24082449?u=76281980&t=284)** Everyone can benefit from working together.
 >
@@ -534,12 +530,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (12), next (3), business (3), [[Engineering]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (12), [[DevSecOps]] (1)
 > **CLI Commands:** find (3), make (2)
 > **Cross-References:** in the next (1)
 
-#### Your application, pre-DevOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/your-application-pre-devops-24080516?u=76281980)
+#### [Your application, pre-DevOps](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/your-application-pre-devops-24080516?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -551,13 +546,13 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/your-application-pre-devops-24080516?u=76281980&t=27)** That is no easy feat.
 >
-> **[0:28](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/your-application-pre-devops-24080516?u=76281980&t=28)** Before Explore California, embraced DevOps, changes to the website were very painful. In 2021 alone, all of the downtime experienced by the website was enough to send 40% of their users flocking to explore Texas.
+> **[0:28](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/your-application-pre-devops-24080516?u=76281980&t=28)** Before Explore California, embraced [[DevOps]], changes to the website were very painful. In 2021 alone, all of the downtime experienced by the website was enough to send 40% of their users flocking to explore Texas.
 >
 > **[0:42](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/your-application-pre-devops-24080516?u=76281980&t=42)** Consequently, any changes made to production required lots of coordination, largely through lots of paperwork and process.
 >
 > **[0:50](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/your-application-pre-devops-24080516?u=76281980&t=50)** This was horrible for engineering.
 >
-> **[0:53](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/your-application-pre-devops-24080516?u=76281980&t=53)** No one except production engineers were allowed to deploy changes into the production infrastructure, and because production releases only happened once per month, teams spent a lot of time working on merge conflicts across hundreds of branches across many Git repositories.
+> **[0:53](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/your-application-pre-devops-24080516?u=76281980&t=53)** No one except production engineers were allowed to deploy changes into the production infrastructure, and because production releases only happened once per month, teams spent a lot of time working on merge conflicts across hundreds of branches across many [[Git]] repositories.
 >
 > **[1:09](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/your-application-pre-devops-24080516?u=76281980&t=69)** Explore California had environmental differences as well.
 >
@@ -569,11 +564,11 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/your-application-pre-devops-24080516?u=76281980&t=88)** Many teams spent a lot of time waiting on other teams to fix their stuff as a result of this.
 >
-> **[1:33](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/your-application-pre-devops-24080516?u=76281980&t=93)** It's no surprise that someone says some variant of "It worked in Dev, not sure why it doesn't work in Production" every day in slack.
+> **[1:33](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/your-application-pre-devops-24080516?u=76281980&t=93)** It's no surprise that someone says some variant of "It worked in Dev, not sure why it doesn't work in Production" every day in [[Slack]].
 >
 > **[1:41](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/your-application-pre-devops-24080516?u=76281980&t=101)** Unfortunately, testing Explore California locally isn't any better.
 >
-> **[1:46](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/your-application-pre-devops-24080516?u=76281980&t=106)** Laptops issued to productions here run Windows 10, which is very different from the versions of Ubuntu they run in production.
+> **[1:46](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/your-application-pre-devops-24080516?u=76281980&t=106)** Laptops issued to productions here run [[Windows 10]], which is very different from the versions of [[Ubuntu]] they run in production.
 >
 > **[1:52](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/your-application-pre-devops-24080516?u=76281980&t=112)** Furthermore, every developer set up their machine differently, so Explore California looked very different from machine to machine.
 >
@@ -589,15 +584,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), [[DevOps]] (2), [[Engineering]] (1), [[Git]] (1), [[Slack]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (2), [[Git]] (1), [[Slack]] (1), [[Windows 10]] (1), [[Ubuntu]] (1)
 > **CLI Commands:** git (1), find (1)
 > **Env Vars:** uat (1)
 > **Cross-References:** next video (1)
 > **Tools:** slack (1)
 > **Prerequisites:** set up (1)
 
-#### Your application, post-DevOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/your-application-post-devops-24081429?u=76281980)
+#### [Your application, post-DevOps](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/your-application-post-devops-24081429?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -615,11 +609,11 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/your-application-post-devops-24081429?u=76281980&t=41)** Devs learned about how Docker containers make it easy to test Prod-like instances of Explore on their own machines.
 >
-> **[0:47](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/your-application-post-devops-24081429?u=76281980&t=47)** After seeing how much faster containers made things, every dev team tripled down on it. By moving Explore California to Docker container images and using Docker Compose to create entire test environments of the website, the engineering team was able to shave off weeks of time from their release cycles.
+> **[0:47](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/your-application-post-devops-24081429?u=76281980&t=47)** After seeing how much faster containers made things, every dev team tripled down on it. By moving Explore California to Docker container images and using Docker [[Jetpack Compose|Compose]] to create entire test environments of the website, the engineering team was able to shave off weeks of time from their release cycles.
 >
 > **[1:05](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/your-application-post-devops-24081429?u=76281980&t=65)** Engineering also realized that talking through tickets and waiting around for people to help wasn't working.
 >
-> **[1:11](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/your-application-post-devops-24081429?u=76281980&t=71)** After going all in on Git for version control, they thought, "We already have GitLab.
+> **[1:11](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/your-application-post-devops-24081429?u=76281980&t=71)** After going all in on [[Git]] for [[Version Control]], they thought, "We already have GitLab.
 >
 > **[1:17](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/your-application-post-devops-24081429?u=76281980&t=77)** Why not use issues to track changes to the site and use merge requests to coordinate releases?"
 >
@@ -629,7 +623,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/your-application-post-devops-24081429?u=76281980&t=90)** Engineers were happy that they could communicate in the same place they could see changes to the code.
 >
-> **[1:35](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/your-application-post-devops-24081429?u=76281980&t=95)** Some teams even added automation to get notifications and updates on slack automatically.
+> **[1:35](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/your-application-post-devops-24081429?u=76281980&t=95)** Some teams even added automation to get notifications and updates on [[Slack]] automatically.
 >
 > **[1:40](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/your-application-post-devops-24081429?u=76281980&t=100)** The first release coordinated through merge requests was 20 times faster than before, and they only got faster after that.
 >
@@ -637,7 +631,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/your-application-post-devops-24081429?u=76281980&t=115)** They paused new features for a month and had teams focus hard on building and automating their tests.
 >
-> **[2:01](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/your-application-post-devops-24081429?u=76281980&t=121)** Engineering teams also embraced continuous integration to add automated testing to their release process.
+> **[2:01](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/your-application-post-devops-24081429?u=76281980&t=121)** Engineering teams also embraced [[Continuous Integration (CI)|continuous integration]] to add automated testing to their release process.
 >
 > **[2:07](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/your-application-post-devops-24081429?u=76281980&t=127)** This paid off in a big way.
 >
@@ -649,17 +643,17 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/your-application-post-devops-24081429?u=76281980&t=156)** These days they release several times per day.
 >
-> **[2:39](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/your-application-post-devops-24081429?u=76281980&t=159)** They even have an award-winning mobile app on iOS and Android.
+> **[2:39](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/your-application-post-devops-24081429?u=76281980&t=159)** They even have an award-winning mobile app on iOS and [[Android]].
 >
 > **[2:42](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/your-application-post-devops-24081429?u=76281980&t=162)** They've gotten so good at building and releasing software several travelers have left reviews saying something like, "I thought of something that Explore California could have done better, and their website was updated the next day.
 >
 > **[2:54](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/your-application-post-devops-24081429?u=76281980&t=174)** That was wild."
 >
-> **[2:55](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/your-application-post-devops-24081429?u=76281980&t=175)** Doubling down on DevOps pays off.
+> **[2:55](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/your-application-post-devops-24081429?u=76281980&t=175)** Doubling down on [[DevOps]] pays off.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (9), teams (3), leadership (2), traffic (1), product (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (1), [[Git]] (1), [[Version Control]] (1), [[Slack]] (1), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **CLI Commands:** docker (3), make (1), git (1)
 > **Tools:** gitlab (2), slack (1)
 > **Env Vars:** cto (2)
@@ -670,14 +664,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Bring production to your laptop with Docker
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/bring-production-to-your-laptop-with-docker-24078552?u=76281980)
+#### [Bring production to your laptop with Docker](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/bring-production-to-your-laptop-with-docker-24078552?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/bring-production-to-your-laptop-with-docker-24078552?u=76281980&t=0)** We learned earlier that engineering at Explore California struggles with their website behaving differently depending on the environment that it's in.
 >
-> **[0:07](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/bring-production-to-your-laptop-with-docker-24078552?u=76281980&t=7)** This is a common problem in the world of software development.
+> **[0:07](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/bring-production-to-your-laptop-with-docker-24078552?u=76281980&t=7)** This is a common problem in the world of [[Software Development]].
 >
 > **[0:11](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/bring-production-to-your-laptop-with-docker-24078552?u=76281980&t=11)** So common, in fact, that it's often called the "it works on my machine" problem in books, conference talks, and one particularly famous meme.
 >
@@ -687,11 +680,11 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/bring-production-to-your-laptop-with-docker-24078552?u=76281980&t=28)** Other times, configuration for your app might come from different places depending on where it is.
 >
-> **[0:33](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/bring-production-to-your-laptop-with-docker-24078552?u=76281980&t=33)** Maybe a block of source code in your app depends on files or hardware on your computer that other computers don't have.
+> **[0:33](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/bring-production-to-your-laptop-with-docker-24078552?u=76281980&t=33)** Maybe a block of source code in your app depends on files or [[Hardware]] on your computer that other computers don't have.
 >
-> **[0:40](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/bring-production-to-your-laptop-with-docker-24078552?u=76281980&t=40)** Configuration management tools like Chef, Ansible and Puppet solve it by allowing you to write code in markup languages to describe what machines need to have in order to run your app.
+> **[0:40](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/bring-production-to-your-laptop-with-docker-24078552?u=76281980&t=40)** [[Configuration Management]] tools like Chef, [[Ansible]] and Puppet solve it by allowing you to write code in markup languages to describe what machines need to have in order to run your app.
 >
-> **[0:50](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/bring-production-to-your-laptop-with-docker-24078552?u=76281980&t=50)** Other tools like HashiCorp's Vagrant let you write code to create entire virtual machines to run your app in.
+> **[0:50](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/bring-production-to-your-laptop-with-docker-24078552?u=76281980&t=50)** Other tools like HashiCorp's Vagrant let you write code to create entire [[Virtual Machines]] to run your app in.
 >
 > **[0:56](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/bring-production-to-your-laptop-with-docker-24078552?u=76281980&t=56)** However, these tools can be cumbersome for developers who just want to run their code in other places safely.
 >
@@ -713,7 +706,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/bring-production-to-your-laptop-with-docker-24078552?u=76281980&t=119)** In this chapter, we'll install Docker and see how easy Explore California can move their website into a container.
 >
-> **[2:05](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/bring-production-to-your-laptop-with-docker-24078552?u=76281980&t=125)** In later chapters, we'll take that a step further by using Docker Compose to automate tests and deploy our site to the greater internet.
+> **[2:05](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/bring-production-to-your-laptop-with-docker-24078552?u=76281980&t=125)** In later chapters, we'll take that a step further by using Docker [[Jetpack Compose|Compose]] to automate tests and deploy our site to the greater internet.
 >
 > **[2:14](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/bring-production-to-your-laptop-with-docker-24078552?u=76281980&t=134)** I'm super excited!
 >
@@ -721,30 +714,29 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (2), [[Configuration Management]] (2), [[Virtual Machines]] (2), [[Engineering]] (1), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Configuration Management]] (2), [[Virtual Machines]] (2), [[Software Development]] (1), [[Ansible]] (1)
 > **CLI Commands:** docker (5), ansible (1)
 > **Prerequisites:** configure (1), install (1)
 > **Exercise Files:** source code (1)
 > **Definitions:** is a  (1)
 
-#### Installing Docker
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/installing-docker-24077621?u=76281980)
+#### [Installing Docker](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/installing-docker-24077621?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/installing-docker-24077621?u=76281980&t=0)** Installing Docker is easy.
 >
-> **[0:02](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/installing-docker-24077621?u=76281980&t=2)** Let's learn how to do that on Windows and the Mac.
+> **[0:02](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/installing-docker-24077621?u=76281980&t=2)** Let's learn how to do that on [[Windows]] and the Mac.
 >
 > **[0:06](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/installing-docker-24077621?u=76281980&t=6)** We will be installing Docker Desktop.
 >
 > **[0:09](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/installing-docker-24077621?u=76281980&t=9)** Docker Desktop provides a really convenient front end for interacting with containers.
 >
-> **[0:14](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/installing-docker-24077621?u=76281980&t=14)** Since Docker technically only works on Linux machines, Docker Desktop also handles creating a high performance Linux VM behind the scenes and makes using it easy and seamless.
+> **[0:14](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/installing-docker-24077621?u=76281980&t=14)** Since Docker technically only works on [[Linux]] machines, Docker Desktop also handles creating a high performance Linux VM behind the scenes and makes using it easy and seamless.
 >
 > **[0:24](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/installing-docker-24077621?u=76281980&t=24)** Let's go over a few requirements that you'll need to have in order to install Docker Desktop. On the Mac, you'll need to be running at least macOS 10.15 or newer.
 >
-> **[0:35](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/installing-docker-24077621?u=76281980&t=35)** On Windows, you need to be running Windows 10 or above.
+> **[0:35](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/installing-docker-24077621?u=76281980&t=35)** On Windows, you need to be running [[Windows 10]] or above.
 >
 > **[0:38](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/installing-docker-24077621?u=76281980&t=38)** Regardless of whether you'll be using Mac or Windows, you'll need to have at least 4 gigabytes of free RAM on both.
 >
@@ -752,11 +744,11 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/installing-docker-24077621?u=76281980&t=47)** What I'm going to do is open a browser.
 >
-> **[0:50](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/installing-docker-24077621?u=76281980&t=50)** I'm using Safari in this case, however Google Chrome, Brave, Edge, Firefox, whatever you like to use is totally fine.
+> **[0:50](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/installing-docker-24077621?u=76281980&t=50)** I'm using Safari in this case, however [[Google]] Chrome, Brave, Edge, Firefox, whatever you like to use is totally fine.
 >
 > **[0:58](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/installing-docker-24077621?u=76281980&t=58)** What I'm going to do from here is click on the address bar and visit [docker.com](https://docker.com).
 >
-> **[1:03](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/installing-docker-24077621?u=76281980&t=63)** On this page I'm going to hover over Products, then click on Docker Desktop.
+> **[1:03](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/installing-docker-24077621?u=76281980&t=63)** On this page I'm going to hover over [[Microsoft Products|Products]], then click on Docker Desktop.
 >
 > **[1:08](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/installing-docker-24077621?u=76281980&t=68)** Once I'm here, you'll see a big blue button that says "Download for your operating system".
 >
@@ -868,7 +860,7 @@ created: 2026-05-02
 >
 > **[5:35](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/installing-docker-24077621?u=76281980&t=335)** First, I'm going to open a browser.
 >
-> **[5:37](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/installing-docker-24077621?u=76281980&t=337)** I'm going to use Microsoft Edge in this case, but again, Chrome, Brave, Firefox, whatever you use is totally fine.
+> **[5:37](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/installing-docker-24077621?u=76281980&t=337)** I'm going to use [[Microsoft]] Edge in this case, but again, Chrome, Brave, Firefox, whatever you use is totally fine.
 >
 > **[5:45](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/installing-docker-24077621?u=76281980&t=345)** From here I'm going to click on the address bar and then visit [docker.com](https://docker.com).
 >
@@ -946,7 +938,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (6), [[Linux]] (3), next (3), [[Microsoft Products|Products]] (2), [[Windows 10]] (1)
+> **Frameworks & Libraries:** [[Windows]] (6), [[Linux]] (3), [[Microsoft Products|Products]] (2), [[Windows 10]] (1), [[Google]] (1)
 > **CLI Commands:** docker (45), rm (2)
 > **Tools:** docker desktop (21), terminal (4), firefox (2), safari (1)
 > **UI Navigation:** click on (13), select the (1)
@@ -955,8 +947,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (3)
 > **URLs:** [docker.com](https://docker.com) (2)
 
-#### Writing your first Dockerfile
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-your-first-dockerfile-24080512?u=76281980)
+#### [Writing your first Dockerfile](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-your-first-dockerfile-24080512?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -968,13 +959,13 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-your-first-dockerfile-24080512?u=76281980&t=18)** First, it will read and parse the Dockerfile.
 >
-> **[0:21](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-your-first-dockerfile-24080512?u=76281980&t=21)** Second, it will fetch the parent image that the Dockerfile requested or the scratch base image if you're starting from a blank slate.
+> **[0:21](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-your-first-dockerfile-24080512?u=76281980&t=21)** Second, it will [[Fetch]] the parent image that the Dockerfile requested or the scratch base image if you're starting from a blank slate.
 >
 > **[0:28](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-your-first-dockerfile-24080512?u=76281980&t=28)** Third, it will run any commands that are defined within the Dockerfile on top of that base image or parent image.
 >
 > **[0:35](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-your-first-dockerfile-24080512?u=76281980&t=35)** And finally, if defined, Docker will set the image's entry point or the process that will run when this container runs, along with any arguments provided to it.
 >
-> **[0:45](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-your-first-dockerfile-24080512?u=76281980&t=45)** Now, unlike traditional configuration management tools like Chef, Puppet or Ansible, all of the configuration, dependencies and other environment settings that your application needs to run itself can be defined within the Dockerfile.
+> **[0:45](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-your-first-dockerfile-24080512?u=76281980&t=45)** Now, unlike traditional [[Configuration Management]] tools like Chef, Puppet or [[Ansible]], all of the configuration, dependencies and other environment settings that your application needs to run itself can be defined within the Dockerfile.
 >
 > **[0:59](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-your-first-dockerfile-24080512?u=76281980&t=59)** Additionally, while you can write scripts that perform the installation steps that are going to be noted within the Dockerfile, those are not required.
 >
@@ -1034,7 +1025,7 @@ created: 2026-05-02
 >
 > **[4:24](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-your-first-dockerfile-24080512?u=76281980&t=264)** All Dockerfiles start with a "FROM" command. "FROM" tells Docker which image to use as a base for the commands that we're about to run.
 >
-> **[4:33](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-your-first-dockerfile-24080512?u=76281980&t=273)** While most Dockerfiles will probably use a pre-existing image, like Ubuntu or Debian, you don't always have to.
+> **[4:33](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-your-first-dockerfile-24080512?u=76281980&t=273)** While most Dockerfiles will probably use a pre-existing image, like [[Ubuntu]] or Debian, you don't always have to.
 >
 > **[4:42](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-your-first-dockerfile-24080512?u=76281980&t=282)** If you want to start from a completely blank slate, you'll want to use from scratch here.
 >
@@ -1140,7 +1131,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cd (2), hit (2), next (2), [[Fetch]] (1), [[Configuration Management]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (1), [[Configuration Management]] (1), [[Ansible]] (1), [[Ubuntu]] (1)
 > **CLI Commands:** docker (24), make (3), cd (2), cp (2), find (2)
 > **Tools:** terminal (6), vim (2), visual studio (1), intellij (1)
 > **Env Vars:** copy (2), label (1)
@@ -1149,8 +1140,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1), configure (1)
 > **Code Identifiers:** exercise_files (1)
 
-#### Writing your first Docker Compose manifest
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-your-first-docker-compose-manifest-24075618?u=76281980)
+#### [Writing your first Docker Compose manifest](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-your-first-docker-compose-manifest-24075618?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1182,7 +1172,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-your-first-docker-compose-manifest-24075618?u=76281980&t=79)** It gets tricky.
 >
-> **[1:21](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-your-first-docker-compose-manifest-24075618?u=76281980&t=81)** Enter Docker Compose.
+> **[1:21](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-your-first-docker-compose-manifest-24075618?u=76281980&t=81)** Enter Docker [[Jetpack Compose|Compose]].
 >
 > **[1:23](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-your-first-docker-compose-manifest-24075618?u=76281980&t=83)** Docker Compose is a simple and lightweight platform for running and linking multiple containerized apps together.
 >
@@ -1194,7 +1184,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-your-first-docker-compose-manifest-24075618?u=76281980&t=115)** So let's write a Compose manifest to run our Explore California website within Docker Compose.
 >
-> **[2:01](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-your-first-docker-compose-manifest-24075618?u=76281980&t=121)** We will then use the Docker Compose CLI tool to run that manifest and, like we did for docker run, we'll confirm that the container image for our website starts and that everything works as expected.
+> **[2:01](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-your-first-docker-compose-manifest-24075618?u=76281980&t=121)** We will then use the Docker Compose [[CLI]] tool to run that manifest and, like we did for docker run, we'll confirm that the container image for our website starts and that everything works as expected.
 >
 > **[2:15](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-your-first-docker-compose-manifest-24075618?u=76281980&t=135)** Cool.
 >
@@ -1238,7 +1228,7 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-your-first-docker-compose-manifest-24075618?u=76281980&t=248)** Why an object?
 >
-> **[4:10](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-your-first-docker-compose-manifest-24075618?u=76281980&t=250)** Well, I could probably spend three courses explaining the fine nuances of YAML and JSON, but no one wants to see those, and LinkedIn won't hire me to record them, so just trust me on this one.
+> **[4:10](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-your-first-docker-compose-manifest-24075618?u=76281980&t=250)** Well, I could probably spend three courses explaining the fine nuances of YAML and [[JSON]], but no one wants to see those, and [[LinkedIn]] won't hire me to record them, so just trust me on this one.
 >
 > **[4:20](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-your-first-docker-compose-manifest-24075618?u=76281980&t=260)** Image tells Docker the name of the image to use for the service.
 >
@@ -1296,7 +1286,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (33), [[LinkedIn]] (2), [[CLI]] (1), cd (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (33), [[LinkedIn]] (2), [[CLI]] (1), [[JSON]] (1)
 > **CLI Commands:** docker (33), make (1), cd (1)
 > **Env Vars:** yaml (3), cli (1), json (1)
 > **Code Identifiers:** service_name (2), image_name (1)
@@ -1310,8 +1300,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Version control: The secret weapon of DevOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/version-control-the-secret-weapon-of-devops-24078553?u=76281980)
+#### [Version control: The secret weapon of DevOps](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/version-control-the-secret-weapon-of-devops-24078553?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1327,7 +1316,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/version-control-the-secret-weapon-of-devops-24078553?u=76281980&t=21)** How can Explore California easily maintain different versions of their recommendation service, for example, that helps travelers choose awesome activities based on their preferences.
 >
-> **[0:31](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/version-control-the-secret-weapon-of-devops-24078553?u=76281980&t=31)** Version control systems were built to solve these exact problems and more.
+> **[0:31](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/version-control-the-secret-weapon-of-devops-24078553?u=76281980&t=31)** [[Version Control]] systems were built to solve these exact problems and more.
 >
 > **[0:37](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/version-control-the-secret-weapon-of-devops-24078553?u=76281980&t=37)** VCSs, for short, are tools that make it easy for teams to write software together safely.
 >
@@ -1351,7 +1340,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/version-control-the-secret-weapon-of-devops-24078553?u=76281980&t=120)** While this works really well for ensuring that developers everywhere can contribute to projects, you never really know which version of a repository is the "true version" in a decentralized model. Ensuring that source code history is correct becomes challenging as well, since there can be many different versions of a codebase that have different sets of changes applied onto them.
 >
-> **[2:21](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/version-control-the-secret-weapon-of-devops-24078553?u=76281980&t=141)** Mercurial, Fossil, and Explore California's favorite, Git, are some examples of these version control systems.
+> **[2:21](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/version-control-the-secret-weapon-of-devops-24078553?u=76281980&t=141)** Mercurial, Fossil, and Explore California's favorite, [[Git]], are some examples of these version control systems.
 >
 > **[2:29](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/version-control-the-secret-weapon-of-devops-24078553?u=76281980&t=149)** Explore tried many of these systems, they really favored Git, though.
 >
@@ -1401,7 +1390,7 @@ created: 2026-05-02
 >
 > **[4:34](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/version-control-the-secret-weapon-of-devops-24078553?u=76281980&t=274)** However, I want to get something controversial out of the way now.
 >
-> **[4:38](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/version-control-the-secret-weapon-of-devops-24078553?u=76281980&t=278)** We are going to use Git's command-line client, or the Git CLI for short, in this course.
+> **[4:38](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/version-control-the-secret-weapon-of-devops-24078553?u=76281980&t=278)** We are going to use Git's command-line client, or the Git [[CLI]] for short, in this course.
 >
 > **[4:44](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/version-control-the-secret-weapon-of-devops-24078553?u=76281980&t=284)** Now, I'm not going to lie, there are definitely thorny areas within the Git command-line client.
 >
@@ -1427,7 +1416,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (20), [[CLI]] (5), feature (2), [[Version Control]] (2), teams (2)
+> **Frameworks & Libraries:** [[Git]] (20), [[CLI]] (5), [[Version Control]] (2)
 > **CLI Commands:** git (20), make (3)
 > **Env Vars:** cli (5), svn (1), cvs (1)
 > **Exercise Files:** source code (6)
@@ -1436,12 +1425,11 @@ created: 2026-05-02
 > **Tools:** terminal (1), vs code (1)
 > **Prerequisites:** install (2)
 
-#### Installing Git
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/installing-git-24078551?u=76281980)
+#### [Installing Git](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/installing-git-24078551?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/installing-git-24078551?u=76281980&t=0)** Before we get going with Git, let's learn how to install it on Windows and the Mac.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/installing-git-24078551?u=76281980&t=0)** Before we get going with [[Git]], let's learn how to install it on [[Windows]] and the Mac.
 >
 > **[0:05](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/installing-git-24078551?u=76281980&t=5)** Let's start with the Mac.
 >
@@ -1507,7 +1495,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/installing-git-24078551?u=76281980&t=136)** This allows you to use Git from either Git Bash, which is the terminal that Git comes with, or any other third-party software like the terminal application that we were using earlier.
 >
-> **[2:29](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/installing-git-24078551?u=76281980&t=149)** I'm going to leave this option checked and then click Next to continue. This window allows you to select the SSH client that Git uses to fetch remote repositories.
+> **[2:29](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/installing-git-24078551?u=76281980&t=149)** I'm going to leave this option checked and then click Next to continue. This window allows you to select the SSH client that Git uses to [[Fetch]] remote repositories.
 >
 > **[2:41](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/installing-git-24078551?u=76281980&t=161)** I recommend using the Bundled OpenSSH option, as the other option will require you to install SSH yourself, which you don't want to do and neither do I.
 >
@@ -1569,7 +1557,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (28), next (13), [[Windows]] (4), hit (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Git]] (28), [[Windows]] (4), [[Fetch]] (1)
 > **CLI Commands:** git (28), ssh (2), make (1)
 > **UI Navigation:** select the (6), click on (4), double-click (1)
 > **Prerequisites:** install (8)
@@ -1578,12 +1566,11 @@ created: 2026-05-02
 > **Env Vars:** ssh (2)
 > **Analogies:** similar to (1), just like (1)
 
-#### Initializing your first Git repository
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/initializing-your-first-git-repository-24080518?u=76281980)
+#### [Initializing your first Git repository](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/initializing-your-first-git-repository-24080518?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/initializing-your-first-git-repository-24080518?u=76281980&t=0)** Now that we've installed Git, let's initialize our first Git repository.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/initializing-your-first-git-repository-24080518?u=76281980&t=0)** Now that we've installed [[Git]], let's initialize our first Git repository.
 >
 > **[0:04](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/initializing-your-first-git-repository-24080518?u=76281980&t=4)** To begin, let's make sure that we're in the Explore California website directory.
 >
@@ -1613,17 +1600,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (7), cd (1), next (1)
+> **Frameworks & Libraries:** [[Git]] (7)
 > **CLI Commands:** git (7), make (1), cd (1), ls (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise files (1)
 
-#### Getting familiar with the Git workflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/getting-familiar-with-the-git-workflow-24079509?u=76281980)
+#### [Getting familiar with the Git workflow](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/getting-familiar-with-the-git-workflow-24079509?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/getting-familiar-with-the-git-workflow-24079509?u=76281980&t=0)** Just because you initialized this directory as a Git repository doesn't mean that Git is automatically tracking your work.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/getting-familiar-with-the-git-workflow-24079509?u=76281980&t=0)** Just because you initialized this directory as a [[Git]] repository doesn't mean that Git is automatically tracking your work.
 >
 > **[0:06](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/getting-familiar-with-the-git-workflow-24079509?u=76281980&t=6)** We'll need to run a few more commands to tell Git about the files that we want to version with it.
 >
@@ -1675,7 +1661,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/getting-familiar-with-the-git-workflow-24079509?u=76281980&t=138)** As we can see, there is a lot that gate is tracking.
 >
-> **[2:21](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/getting-familiar-with-the-git-workflow-24079509?u=76281980&t=141)** It's tracking our entire website and it's tracking our Dockerfile and our docker-compose.yaml manifest. What it isn't tracking is this ".git" directory. That is a private directory that is just for your local Git client.
+> **[2:21](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/getting-familiar-with-the-git-workflow-24079509?u=76281980&t=141)** It's tracking our entire website and it's tracking our Dockerfile and our docker-[[Jetpack Compose|compose]].yaml manifest. What it isn't tracking is this ".git" directory. That is a private directory that is just for your local Git client.
 >
 > **[2:37](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/getting-familiar-with-the-git-workflow-24079509?u=76281980&t=157)** This will never get tracked.
 >
@@ -1713,7 +1699,7 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/getting-familiar-with-the-git-workflow-24079509?u=76281980&t=250)** I've seen commit messages that had enough paragraphs to create a short novel.
 >
-> **[4:14](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/getting-familiar-with-the-git-workflow-24079509?u=76281980&t=254)** The nice thing about the setup is that the only message fellow Explore California engineers will see when they're working in GitHub or GitLab or something like that, is the summary, which is our first line at the top.
+> **[4:14](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/getting-familiar-with-the-git-workflow-24079509?u=76281980&t=254)** The nice thing about the setup is that the only message fellow Explore California engineers will see when they're working in [[GitHub]] or GitLab or something like that, is the summary, which is our first line at the top.
 >
 > **[4:25](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/getting-familiar-with-the-git-workflow-24079509?u=76281980&t=265)** It's quick and easy.
 >
@@ -1739,7 +1725,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (26), [[Jetpack Compose|Compose]] (2), hit (2), business (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Git]] (26), [[Jetpack Compose|Compose]] (2), [[GitHub]] (1)
 > **CLI Commands:** git (26), docker (2), make (2), ls (1)
 > **Tools:** vim (3), gitlab (2), terminal (1), visual studio (1), github (1)
 > **Definitions:** means that (2), is a  (2), we call this (1), is called (1)
@@ -1753,12 +1739,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Beyond local repositories
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/beyond-local-repositories-24079510?u=76281980)
+#### [Beyond local repositories](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/beyond-local-repositories-24079510?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/beyond-local-repositories-24079510?u=76281980&t=0)** Earlier, we learned that Git is a decentralized version control system, or a DVCS.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/beyond-local-repositories-24079510?u=76281980&t=0)** Earlier, we learned that [[Git]] is a decentralized [[Version Control]] system, or a DVCS.
 >
 > **[0:05](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/beyond-local-repositories-24079510?u=76281980&t=5)** This allows you to develop your code locally without having to push your changes to a centralized server.
 >
@@ -1772,11 +1757,11 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/beyond-local-repositories-24079510?u=76281980&t=29)** This was slow and very cumbersome. However, and surprisingly, Git actually still supports merging changes this way.
 >
-> **[0:37](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/beyond-local-repositories-24079510?u=76281980&t=37)** This is because Git was actually built by Linus Torvalds, who was the founder of Linux, and emailing or posting diffs was a big part of how Linux was built.
+> **[0:37](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/beyond-local-repositories-24079510?u=76281980&t=37)** This is because Git was actually built by Linus Torvalds, who was the founder of [[Linux]], and emailing or posting diffs was a big part of how Linux was built.
 >
 > **[0:48](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/beyond-local-repositories-24079510?u=76281980&t=48)** You could also email an entire repository to other people in compressed format, but this is also very slow.
 >
-> **[0:55](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/beyond-local-repositories-24079510?u=76281980&t=55)** Finally, you could use the Git CLI to push changes to a remote repository and then use commands like "git merge" or "git rebase" to merge in all of these changes.
+> **[0:55](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/beyond-local-repositories-24079510?u=76281980&t=55)** Finally, you could use the Git [[CLI]] to push changes to a remote repository and then use commands like "git merge" or "git rebase" to merge in all of these changes.
 >
 > **[1:07](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/beyond-local-repositories-24079510?u=76281980&t=67)** But just saying all of that is crazy complex, and it does require a lot of commands, and it does get complicated very quickly.
 >
@@ -1794,7 +1779,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/beyond-local-repositories-24079510?u=76281980&t=107)** However, and in my opinion, by far the biggest benefit that development platforms provide is the idea of a "pull" or a "merge request."
 >
-> **[1:57](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/beyond-local-repositories-24079510?u=76281980&t=117)** Pull or merge requests allow developers to perform just-in-time code review.
+> **[1:57](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/beyond-local-repositories-24079510?u=76281980&t=117)** Pull or merge requests allow developers to perform just-in-time [[Code Review]].
 >
 > **[2:01](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/beyond-local-repositories-24079510?u=76281980&t=121)** This is really nice because developers could gather together and review a change together before they push those changes into a trunk branch like main.
 >
@@ -1808,7 +1793,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/beyond-local-repositories-24079510?u=76281980&t=153)** This can be really helpful for keeping track of changes that occurred during software releases.
 >
-> **[2:40](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/beyond-local-repositories-24079510?u=76281980&t=160)** Many of these tools also come with a ton of additional features like project tracking, static webpage hosting, and my favorite, built-in CI/CD, or continuous integration and continuous delivery.
+> **[2:40](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/beyond-local-repositories-24079510?u=76281980&t=160)** Many of these tools also come with a ton of additional features like [[Project Tracking]], static webpage hosting, and my favorite, built-in CI/CD, or [[Continuous Integration (CI)|continuous integration]] and [[Continuous Delivery (CD)|continuous delivery]].
 >
 > **[2:52](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/beyond-local-repositories-24079510?u=76281980&t=172)** We'll learn about both of those things later in this course.
 >
@@ -1822,21 +1807,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (6), [[Version Control]] (2), [[Linux]] (2), [[Search]] (2), [[Code Review]] (2)
+> **Frameworks & Libraries:** [[Git]] (6), [[Version Control]] (2), [[Linux]] (2), [[Code Review]] (2), [[CLI]] (1)
 > **CLI Commands:** git (6), make (3), find (1), cd (1)
 > **Definitions:** is a  (1), means that (1), is an  (1)
 > **Env Vars:** dvcs (1), cli (1)
 > **Cross-References:** later in (1), in the next (1)
 > **Exercise Files:** source code (1)
 
-#### Introducing GitLab
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/introducing-gitlab-24080514?u=76281980)
+#### [Introducing GitLab](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/introducing-gitlab-24080514?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/introducing-gitlab-24080514?u=76281980&t=0)** In the last course, we learned about development platforms that make version control and team-wide collaboration easy.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/introducing-gitlab-24080514?u=76281980&t=0)** In the last course, we learned about development platforms that make [[Version Control]] and team-wide collaboration easy.
 >
-> **[0:06](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/introducing-gitlab-24080514?u=76281980&t=6)** GitHub, Bitbucket, and GitLab were some of the examples provided.
+> **[0:06](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/introducing-gitlab-24080514?u=76281980&t=6)** [[GitHub]], [[Bitbucket]], and GitLab were some of the examples provided.
 >
 > **[0:10](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/introducing-gitlab-24080514?u=76281980&t=10)** In this course, we're going to be using the open-source version of GitLab.
 >
@@ -1844,9 +1828,9 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/introducing-gitlab-24080514?u=76281980&t=20)** GitLab was created as an open-source alternative to platforms like GitHub that you can install on your own systems.
 >
-> **[0:26](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/introducing-gitlab-24080514?u=76281980&t=26)** Like the development platforms that we saw in the last video, GitLab provides Git for version control, of course, but it also provides a lot of other neat tools, like its own build system called GitLab CI, project management tools, webpage hosting, and more.
+> **[0:26](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/introducing-gitlab-24080514?u=76281980&t=26)** Like the development platforms that we saw in the last video, GitLab provides [[Git]] for version control, of course, but it also provides a lot of other neat tools, like its own build system called GitLab CI, project management tools, webpage hosting, and more.
 >
-> **[0:41](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/introducing-gitlab-24080514?u=76281980&t=41)** You can install GitLab on just about anything, from Raspberry Pis to extremely large Kubernetes clusters on your cloud provider of choice.
+> **[0:41](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/introducing-gitlab-24080514?u=76281980&t=41)** You can install GitLab on just about anything, from Raspberry Pis to extremely large [[Kubernetes]] clusters on your cloud provider of choice.
 >
 > **[0:50](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/introducing-gitlab-24080514?u=76281980&t=50)** GitLab is also very popular.
 >
@@ -1860,18 +1844,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Version Control]] (3), open-source (3), [[GitHub]] (2), [[Git]] (2), ci (2)
+> **Frameworks & Libraries:** [[Version Control]] (3), [[GitHub]] (2), [[Git]] (2), [[Bitbucket]] (1), [[Kubernetes]] (1)
 > **Tools:** gitlab (10), github (2), bitbucket (1)
 > **CLI Commands:** git (2), make (1)
 > **Cross-References:** in the last (2), later in (1)
 > **Prerequisites:** install (2)
 
-#### Creating the GitLab Docker Compose service
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/creating-the-gitlab-docker-compose-service-24077626?u=76281980)
+#### [Creating the GitLab Docker Compose service](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/creating-the-gitlab-docker-compose-service-24077626?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/creating-the-gitlab-docker-compose-service-24077626?u=76281980&t=0)** In this video, we're going to learn how to run GitLab on our computer locally with Docker Compose.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/creating-the-gitlab-docker-compose-service-24077626?u=76281980&t=0)** In this video, we're going to learn how to run GitLab on our computer locally with Docker [[Jetpack Compose|Compose]].
 >
 > **[0:06](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/creating-the-gitlab-docker-compose-service-24077626?u=76281980&t=6)** This will help Explore California host GitLab on their own servers.
 >
@@ -1891,7 +1874,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/creating-the-gitlab-docker-compose-service-24077626?u=76281980&t=65)** Now, note that this will overwrite the Docker Compose manifest that we created earlier.
 >
-> **[1:12](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/creating-the-gitlab-docker-compose-service-24077626?u=76281980&t=72)** However, the one that we're about to copy into our working directory is the one that we're going to be using for the rest of the course, so you're not missing anything by doing this.
+> **[1:12](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/creating-the-gitlab-docker-compose-service-24077626?u=76281980&t=72)** However, the one that we're about to copy into our working directory is the one that we're going to be using for the [[Representational State Transfer (REST)|rest]] of the course, so you're not missing anything by doing this.
 >
 > **[1:21](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/creating-the-gitlab-docker-compose-service-24077626?u=76281980&t=81)** Alright, once you're done with that, go ahead and open docker-compose.yaml in your editor.
 >
@@ -1919,7 +1902,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/creating-the-gitlab-docker-compose-service-24077626?u=76281980&t=157)** That will select the Intel version of GitLab.
 >
-> **[2:42](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/creating-the-gitlab-docker-compose-service-24077626?u=76281980&t=162)** If you're using an Apple-Silicon-based Mac or you're using an Arm-based Windows machine, you can leave the Docker Compose file as is.
+> **[2:42](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/creating-the-gitlab-docker-compose-service-24077626?u=76281980&t=162)** If you're using an Apple-Silicon-based Mac or you're using an Arm-based [[Windows]] machine, you can leave the Docker Compose file as is.
 >
 > **[2:51](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/creating-the-gitlab-docker-compose-service-24077626?u=76281980&t=171)** The next property to look at is the host name.
 >
@@ -1959,7 +1942,7 @@ created: 2026-05-02
 >
 > **[4:43](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/creating-the-gitlab-docker-compose-service-24077626?u=76281980&t=283)** All you have to do is open a browser and visit docs.[docker.com/compose](https://docker.com/compose).
 >
-> **[4:53](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/creating-the-gitlab-docker-compose-service-24077626?u=76281980&t=293)** You can also view one of the many courses on LinkedIn learning that go super in-depth into Docker Compose.
+> **[4:53](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/creating-the-gitlab-docker-compose-service-24077626?u=76281980&t=293)** You can also view one of the many courses on [[LinkedIn]] learning that go super in-depth into Docker Compose.
 >
 > **[5:00](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/creating-the-gitlab-docker-compose-service-24077626?u=76281980&t=300)** Alright, now that our Compose service for GitLab is ready to go, it's time to start it.
 >
@@ -1969,7 +1952,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (14), next (3), cd (1), [[Representational State Transfer (REST)|Rest]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (14), [[Representational State Transfer (REST)|Rest]] (1), [[Windows]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** docker (13), make (3), ssh (2), cd (1), cp (1)
 > **Tools:** gitlab (12), terminal (1)
 > **Ports:** port 22 (3), port 2222 (2), :102 (1)
@@ -1978,8 +1961,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (3)
 > **URLs:** [example.com](https://example.com) (1), [docker.com](https://docker.com) (1)
 
-#### Starting the GitLab Compose service
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/starting-the-gitlab-compose-service-24080519?u=76281980)
+#### [Starting the GitLab Compose service](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/starting-the-gitlab-compose-service-24080519?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2029,7 +2011,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/starting-the-gitlab-compose-service-24080519?u=76281980&t=126)** And you're also going to make sure that you have "echo" spelled out twice like we have here.
 >
-> **[2:12](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/starting-the-gitlab-compose-service-24080519?u=76281980&t=132)** So what this command is going to do is it's going to use echo to write an entry into our /etc/hosts file that basically tells our system, "Look, I don't care what Google says, I don't care what my ISP says.
+> **[2:12](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/starting-the-gitlab-compose-service-24080519?u=76281980&t=132)** So what this command is going to do is it's going to use echo to write an entry into our /etc/hosts file that basically tells our system, "Look, I don't care what [[Google]] says, I don't care what my ISP says.
 >
 > **[2:25](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/starting-the-gitlab-compose-service-24080519?u=76281980&t=145)** Gitlab.[example.com](https://example.com) is and always will be on our own machine no matter what."
 >
@@ -2075,7 +2057,7 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/starting-the-gitlab-compose-service-24080519?u=76281980&t=262)** We haven't started it yet, so let's go back into our terminal to fix that.
 >
-> **[4:27](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/starting-the-gitlab-compose-service-24080519?u=76281980&t=267)** To start GitLab, all we need to do is —let's clear our screen to organize— "docker compose up gitlab".
+> **[4:27](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/starting-the-gitlab-compose-service-24080519?u=76281980&t=267)** To start GitLab, all we need to do is —let's clear our screen to organize— "docker [[Jetpack Compose|compose]] up gitlab".
 >
 > **[4:36](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/starting-the-gitlab-compose-service-24080519?u=76281980&t=276)** We can see that a lot of stuff is happening here.
 >
@@ -2167,11 +2149,11 @@ created: 2026-05-02
 >
 > **[7:57](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/starting-the-gitlab-compose-service-24080519?u=76281980&t=477)** Boom, we're in. Nice!
 >
-> **[8:00](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/starting-the-gitlab-compose-service-24080519?u=76281980&t=480)** In the next video, we'll create our first project and repository in GitLab, and then we'll make sure that our local Git repository can talk to GitLab.
+> **[8:00](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/starting-the-gitlab-compose-service-24080519?u=76281980&t=480)** In the next video, we'll create our first project and repository in GitLab, and then we'll make sure that our local [[Git]] repository can talk to GitLab.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), [[Jetpack Compose|Compose]] (3), next (2), dns (2), application (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (3), [[Google]] (1), [[Git]] (1)
 > **Tools:** gitlab (36), terminal (4), safari (1)
 > **CLI Commands:** make (13), docker (6), sudo (1), cat (1), ls (1)
 > **URLs:** [example.com](https://example.com) (8), [gitlab.com](https://gitlab.com) (1), [https://gitlab](https://gitlab) (1)
@@ -2180,8 +2162,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (2), in the next (1)
 > **Definitions:** is a  (2), means that (1)
 
-#### Creating our first GitLab project
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/creating-our-first-gitlab-project-24080517?u=76281980)
+#### [Creating our first GitLab project](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/creating-our-first-gitlab-project-24080517?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2223,7 +2204,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/creating-our-first-gitlab-project-24080517?u=76281980&t=80)** Next I'm going to uncheck Initialize Repository with a Readme.
 >
-> **[1:23](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/creating-our-first-gitlab-project-24080517?u=76281980&t=83)** Since we created a Git repository locally already, we'll get an error when we push our changes if we were to leave this checked due to a merge conflict.
+> **[1:23](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/creating-our-first-gitlab-project-24080517?u=76281980&t=83)** Since we created a [[Git]] repository locally already, we'll get an error when we push our changes if we were to leave this checked due to a merge conflict.
 >
 > **[1:33](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/creating-our-first-gitlab-project-24080517?u=76281980&t=93)** So let's go ahead and make sure that that's unchecked.
 >
@@ -2317,7 +2298,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[Git]] (4), hit (2)
+> **Frameworks & Libraries:** [[Git]] (4)
 > **CLI Commands:** ssh (11), git (4), make (3), cat (2), find (1)
 > **Tools:** gitlab (12), terminal (2)
 > **Env Vars:** ssh (10)
@@ -2326,12 +2307,11 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Best Practices:** the key is (1)
 
-#### Connecting Git to GitLab
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/connecting-git-to-gitlab-24081431?u=76281980)
+#### [Connecting Git to GitLab](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/connecting-git-to-gitlab-24081431?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/connecting-git-to-gitlab-24081431?u=76281980&t=0)** Now that we've created our project and added our SSH key to our GitLab account, it's time to get Git and GitLab talking to each other.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/connecting-git-to-gitlab-24081431?u=76281980&t=0)** Now that we've created our project and added our SSH key to our GitLab account, it's time to get [[Git]] and GitLab talking to each other.
 >
 > **[0:07](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/connecting-git-to-gitlab-24081431?u=76281980&t=7)** Click on the GitLab logo on the upper left-hand corner to go back to your home dashboard.
 >
@@ -2371,7 +2351,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/connecting-git-to-gitlab-24081431?u=76281980&t=102)** Before we continue, let's run "git status" to make sure that we've committed all of the changes that we've made thus far.
 >
-> **[1:49](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/connecting-git-to-gitlab-24081431?u=76281980&t=109)** As you can see, it looks like we forgot to commit the docker-compose.yaml file that we created earlier.
+> **[1:49](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/connecting-git-to-gitlab-24081431?u=76281980&t=109)** As you can see, it looks like we forgot to commit the docker-[[Jetpack Compose|compose]].yaml file that we created earlier.
 >
 > **[1:55](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/connecting-git-to-gitlab-24081431?u=76281980&t=115)** So let's go ahead and fix that.
 >
@@ -2399,7 +2379,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/connecting-git-to-gitlab-24081431?u=76281980&t=185)** Now we're going to do the same thing but for our email address.
 >
-> **[3:09](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/connecting-git-to-gitlab-24081431?u=76281980&t=189)** Like I said earlier, Git was used by Linux contributors to contribute patches and changes to Linux.
+> **[3:09](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/connecting-git-to-gitlab-24081431?u=76281980&t=189)** Like I said earlier, Git was used by [[Linux]] contributors to contribute patches and changes to Linux.
 >
 > **[3:15](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/connecting-git-to-gitlab-24081431?u=76281980&t=195)** So because all of this was done super distributed all over the world, having emails attached to those commits was really important, and it's still important today.
 >
@@ -2435,7 +2415,7 @@ created: 2026-05-02
 >
 > **[4:51](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/connecting-git-to-gitlab-24081431?u=76281980&t=291)** As you can see, the difference is pretty obvious.
 >
-> **[4:54](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/connecting-git-to-gitlab-24081431?u=76281980&t=294)** Our first commit just had this generic LinkedIn user information that was on the system.
+> **[4:54](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/connecting-git-to-gitlab-24081431?u=76281980&t=294)** Our first commit just had this generic [[LinkedIn]] user information that was on the system.
 >
 > **[5:01](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/connecting-git-to-gitlab-24081431?u=76281980&t=301)** But after making those configurations, it now has my name and my email on it, which looks a little bit more professional.
 >
@@ -2459,7 +2439,7 @@ created: 2026-05-02
 >
 > **[6:02](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/connecting-git-to-gitlab-24081431?u=76281980&t=362)** However, just because we created this key doesn't mean that SSH now knows about it.
 >
-> **[6:07](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/connecting-git-to-gitlab-24081431?u=76281980&t=367)** Because Git uses SSH behind the scenes to fetch this repo, what we basically did by doing this was, to go back to our house analogy from earlier, trying to unlock a house without any keys.
+> **[6:07](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/connecting-git-to-gitlab-24081431?u=76281980&t=367)** Because Git uses SSH behind the scenes to [[Fetch]] this repo, what we basically did by doing this was, to go back to our house analogy from earlier, trying to unlock a house without any keys.
 >
 > **[6:20](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/connecting-git-to-gitlab-24081431?u=76281980&t=380)** That would be one really unsafe house.
 >
@@ -2553,7 +2533,7 @@ created: 2026-05-02
 >
 > **[9:40](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/connecting-git-to-gitlab-24081431?u=76281980&t=580)** So in the next few videos we're going to be doing some really exciting stuff.
 >
-> **[9:45](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/connecting-git-to-gitlab-24081431?u=76281980&t=585)** We're going to be adding some tests to our website so that we can actually flex our DevOps muscles a little bit, and then we're going to start exploring the worlds of Infrastructure as Code and CI/CD.
+> **[9:45](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/connecting-git-to-gitlab-24081431?u=76281980&t=585)** We're going to be adding some tests to our website so that we can actually flex our [[DevOps]] muscles a little bit, and then we're going to start exploring the worlds of [[Infrastructure as code (IaC)|Infrastructure as Code]] and CI/CD.
 >
 > **[9:58](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/connecting-git-to-gitlab-24081431?u=76281980&t=598)** Very exciting!
 >
@@ -2561,7 +2541,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (28), [[Jetpack Compose|Compose]] (3), next (3), [[Linux]] (2), generic (1)
+> **Frameworks & Libraries:** [[Git]] (28), [[Jetpack Compose|Compose]] (3), [[Linux]] (2), [[LinkedIn]] (1), [[Fetch]] (1)
 > **CLI Commands:** git (28), ssh (9), make (3), docker (3), cd (1)
 > **Tools:** gitlab (24), vim (2), terminal (1)
 > **Env Vars:** ssh (8)
@@ -2575,20 +2555,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Test often, ship often
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/test-often-ship-often-24081427?u=76281980)
+#### [Test often, ship often](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/test-often-ship-often-24081427?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/test-often-ship-often-24081427?u=76281980&t=0)** Let's review what we've accomplished so far.
 >
-> **[0:02](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/test-often-ship-often-24081427?u=76281980&t=2)** We've installed Docker and Docker Compose onto our machine.
+> **[0:02](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/test-often-ship-often-24081427?u=76281980&t=2)** We've installed Docker and Docker [[Jetpack Compose|Compose]] onto our machine.
 >
 > **[0:06](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/test-often-ship-often-24081427?u=76281980&t=6)** We've also confirmed that we can build container images from Dockerfiles and create containers from them.
 >
-> **[0:11](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/test-often-ship-often-24081427?u=76281980&t=11)** We also learned about version control systems and how they make developing software as a team awesome.
+> **[0:11](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/test-often-ship-often-24081427?u=76281980&t=11)** We also learned about [[Version Control]] systems and how they make developing software as a team awesome.
 >
-> **[0:17](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/test-often-ship-often-24081427?u=76281980&t=17)** From there, we've created a Git repository, used Docker Compose to stand up an instance of GitLab, and pushed our repository along with the Explore California website into it.
+> **[0:17](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/test-often-ship-often-24081427?u=76281980&t=17)** From there, we've created a [[Git]] repository, used Docker Compose to stand up an instance of GitLab, and pushed our repository along with the Explore California website into it.
 >
 > **[0:27](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/test-often-ship-often-24081427?u=76281980&t=27)** This is some serious progress.
 >
@@ -2604,7 +2583,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/test-often-ship-often-24081427?u=76281980&t=46)** And then once here we're going to change text and r... Hang on a second.
 >
-> **[0:51](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/test-often-ship-often-24081427?u=76281980&t=51)** Let's get DevOps here for a little bit.
+> **[0:51](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/test-often-ship-often-24081427?u=76281980&t=51)** Let's get [[DevOps]] here for a little bit.
 >
 > **[0:53](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/test-often-ship-often-24081427?u=76281980&t=53)** How do we know that the change we're about to make actually works?
 >
@@ -2622,7 +2601,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/test-often-ship-often-24081427?u=76281980&t=84)** We can solve all of these problems and more by writing tests.
 >
-> **[1:28](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/test-often-ship-often-24081427?u=76281980&t=88)** Software testing is exactly what the name implies: using software to test our software.
+> **[1:28](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/test-often-ship-often-24081427?u=76281980&t=88)** [[Software Testing]] is exactly what the name implies: using software to test our software.
 >
 > **[1:36](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/test-often-ship-often-24081427?u=76281980&t=96)** We use changes to verify that our software works in all sorts of conditions.
 >
@@ -2636,34 +2615,33 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/test-often-ship-often-24081427?u=76281980&t=128)** The more tests your software has, the better guarantees you can make about how the software will behave in the real world.
 >
-> **[2:16](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/test-often-ship-often-24081427?u=76281980&t=136)** SQLite, one of the most popular databases in the world, has over 92 million lines of test code, despite the code itself only being roughly 156,000 lines large. SQLite, being as well tested as it is, is one of the biggest reasons why it is so popular. Their maintainers test SQLite in just about every condition it finds itself in, and any new bugs that people submit against the project turns into, you guessed it, more tests.
+> **[2:16](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/test-often-ship-often-24081427?u=76281980&t=136)** SQLite, one of the most popular [[Databases]] in the world, has over 92 million lines of test code, despite the code itself only being roughly 156,000 lines large. SQLite, being as well tested as it is, is one of the biggest reasons why it is so popular. Their maintainers test SQLite in just about every condition it finds itself in, and any new bugs that people submit against the project turns into, you guessed it, more tests.
 >
 > **[2:47](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/test-often-ship-often-24081427?u=76281980&t=167)** Now we're definitely going to update Explore California in this course, but before we do that, we're going to add two different kinds of tests to verify that our change will work as expected. A unit test that tests the single change we're going to add, and an integration test that verifies that the entire website works after making that change.
 >
-> **[3:06](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/test-often-ship-often-24081427?u=76281980&t=186)** Since we need a test framework to run these tests with, we'll also add three popular testing tools to our Compose manifest: RSpec, a very popular Ruby-based test framework; Capybara, a Ruby library that makes it easier to connect RSpec with Selenium; and finally, Selenium, a tool that automates testing websites in real browsers.
+> **[3:06](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/test-often-ship-often-24081427?u=76281980&t=186)** Since we need a test framework to run these tests with, we'll also add three popular testing tools to our Compose manifest: RSpec, a very popular Ruby-based test framework; Capybara, a Ruby library that makes it easier to connect RSpec with [[Selenium]]; and finally, Selenium, a tool that automates testing websites in real browsers.
 >
 > **[3:28](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/test-often-ship-often-24081427?u=76281980&t=208)** This course only scratches the surface of testing software.
 >
-> **[3:31](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/test-often-ship-often-24081427?u=76281980&t=211)** There are lots of great courses right here on LinkedIn learning that I would recommend checking out if you want to go deeper into this topic.
+> **[3:31](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/test-often-ship-often-24081427?u=76281980&t=211)** There are lots of great courses right here on [[LinkedIn]] learning that I would recommend checking out if you want to go deeper into this topic.
 >
-> **[3:39](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/test-often-ship-often-24081427?u=76281980&t=219)** Richard Wells's "Unit Testing and Test Driven Development in Python" or Meaghan Lewis's "[[Test Automation Foundations]]" are some pretty good courses to get started with.
+> **[3:39](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/test-often-ship-often-24081427?u=76281980&t=219)** Richard Wells's "[[Unit Testing]] and Test Driven Development in [[Python (Programming Language)|Python]]" or Meaghan Lewis's "[[[[Test Automation]] Foundations]]" are some pretty good courses to get started with.
 >
 > **[3:49](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/test-often-ship-often-24081427?u=76281980&t=229)** So let's grab ourselves a coffee, tea, or whatever your favorite drink is, fire up that terminal and get into it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (3), [[Selenium]] (2), [[Version Control]] (1), [[Git]] (1), cd (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (3), [[Selenium]] (2), [[Version Control]] (1), [[Git]] (1), [[DevOps]] (1)
 > **CLI Commands:** make (4), docker (3), ruby (2), git (1), cd (1)
 > **Tools:** gitlab (1), terminal (1)
 
-#### Setting up your test
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/setting-up-your-test-24076580?u=76281980)
+#### [Setting up your test](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/setting-up-your-test-24076580?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/setting-up-your-test-24076580?u=76281980&t=0)** In this video, we will write a few simple unit tests for our web app with Rspec, Capybara and Selenium.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/setting-up-your-test-24076580?u=76281980&t=0)** In this video, we will write a few simple unit tests for our web app with Rspec, Capybara and [[Selenium]].
 >
-> **[0:06](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/setting-up-your-test-24076580?u=76281980&t=6)** After that, we'll use our newfound Docker Compose knowledge to run those tests within Docker Compose.
+> **[0:06](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/setting-up-your-test-24076580?u=76281980&t=6)** After that, we'll use our newfound Docker [[Jetpack Compose|Compose]] knowledge to run those tests within Docker Compose.
 >
 > **[0:12](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/setting-up-your-test-24076580?u=76281980&t=12)** Let's get started.
 >
@@ -2689,7 +2667,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/setting-up-your-test-24076580?u=76281980&t=56)** I like using it because its domain-specific language, or DSL, makes writing readable tests really easy to do.
 >
-> **[1:03](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/setting-up-your-test-24076580?u=76281980&t=63)** Since we're testing a mostly static website, we'll need something that works well with HTML and maybe some computed CSS.
+> **[1:03](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/setting-up-your-test-24076580?u=76281980&t=63)** Since we're testing a mostly static website, we'll need something that works well with [[HTML]] and maybe some computed CSS.
 >
 > **[1:10](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/setting-up-your-test-24076580?u=76281980&t=70)** We could use something that requests raw HTML and parses the response, but that will quickly grow cumbersome.
 >
@@ -2701,7 +2679,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/setting-up-your-test-24076580?u=76281980&t=90)** It interacts with websites called drivers.
 >
-> **[1:33](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/setting-up-your-test-24076580?u=76281980&t=93)** Speaking of drivers, while Capybara comes with a super simple Ruby-based web driver called rack test that fetches and parses HTML output, it does not support computing JavaScript or CSS at all.
+> **[1:33](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/setting-up-your-test-24076580?u=76281980&t=93)** Speaking of drivers, while Capybara comes with a super simple Ruby-based web driver called rack test that fetches and parses HTML output, it does not support computing [[JavaScript]] or CSS at all.
 >
 > **[1:45](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/setting-up-your-test-24076580?u=76281980&t=105)** This makes testing things like, "Do we have the right background on this page?" impossible to do.
 >
@@ -2799,7 +2777,7 @@ created: 2026-05-02
 >
 > **[5:50](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/setting-up-your-test-24076580?u=76281980&t=350)** But before we do that, let's go ahead and commit our changes.
 >
-> **[5:54](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/setting-up-your-test-24076580?u=76281980&t=354)** So, remember, our workflow is going to be "git add", "git commit" and "git push".
+> **[5:54](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/setting-up-your-test-24076580?u=76281980&t=354)** So, remember, our workflow is going to be "[[Git]] add", "git commit" and "git push".
 >
 > **[6:00](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/setting-up-your-test-24076580?u=76281980&t=360)** We're going to be doing this more rapidly than we've done it before.
 >
@@ -2837,7 +2815,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (9), [[Selenium]] (7), web (5), [[Jetpack Compose|Compose]] (5), [[HTML]] (3)
+> **Frameworks & Libraries:** [[Git]] (9), [[Selenium]] (7), [[Jetpack Compose|Compose]] (5), [[HTML]] (3), [[JavaScript]] (1)
 > **CLI Commands:** git (9), docker (5), make (5), ruby (2), cd (1)
 > **Tools:** gitlab (11), firefox (2), terminal (2)
 > **Documentation:** spec (8)
@@ -2846,12 +2824,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (1), set up (1)
 > **File Paths:** spec/unit/page_spec.rb (1)
 
-#### Viewing our test harness in Docker Compose
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/viewing-our-test-harness-in-docker-compose-24080522?u=76281980)
+#### [Viewing our test harness in Docker Compose](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/viewing-our-test-harness-in-docker-compose-24080522?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/viewing-our-test-harness-in-docker-compose-24080522?u=76281980&t=0)** Now that we have a skeleton for our tests, we're ready to run our tests within Docker Compose.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/viewing-our-test-harness-in-docker-compose-24080522?u=76281980&t=0)** Now that we have a skeleton for our tests, we're ready to run our tests within Docker [[Jetpack Compose|Compose]].
 >
 > **[0:05](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/viewing-our-test-harness-in-docker-compose-24080522?u=76281980&t=5)** As always, before going any further, make sure that you're in the Explore California website working directory that we've been using or run "cd ~/explore- california-website" to go back into it.
 >
@@ -2883,7 +2860,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/viewing-our-test-harness-in-docker-compose-24080522?u=76281980&t=100)** First, we can see that unit test creates a custom Docker image using the "build" keyword down here.
 >
-> **[1:47](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/viewing-our-test-harness-in-docker-compose-24080522?u=76281980&t=107)** We're doing this because in this case, it's easier to create a custom image that has Rspec, Selenium and Capybara baked into it than to find one on the Docker Hub.
+> **[1:47](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/viewing-our-test-harness-in-docker-compose-24080522?u=76281980&t=107)** We're doing this because in this case, it's easier to create a custom image that has Rspec, [[Selenium]] and Capybara baked into it than to find one on the Docker Hub.
 >
 > **[1:55](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/viewing-our-test-harness-in-docker-compose-24080522?u=76281980&t=115)** Second, we can see that our unit test service has two "depend on" clauses, one on the website service and another on the Selenium service.
 >
@@ -2959,7 +2936,7 @@ created: 2026-05-02
 >
 > **[5:23](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/viewing-our-test-harness-in-docker-compose-24080522?u=76281980&t=323)** Let's go ahead and do that now.
 >
-> **[5:25](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/viewing-our-test-harness-in-docker-compose-24080522?u=76281980&t=325)** We'll use "git status" to see what's changed.
+> **[5:25](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/viewing-our-test-harness-in-docker-compose-24080522?u=76281980&t=325)** We'll use "[[Git]] status" to see what's changed.
 >
 > **[5:27](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/viewing-our-test-harness-in-docker-compose-24080522?u=76281980&t=327)** As you can see, we introduced a new Dockerfile.
 >
@@ -2973,7 +2950,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (7), [[Selenium]] (3), next (2), cd (1), feature (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (7), [[Selenium]] (3), [[Git]] (1)
 > **CLI Commands:** docker (15), curl (4), make (3), find (2), nginx (2)
 > **Cross-References:** in the next (2), we talked about (1), in the last (1)
 > **Tools:** gitlab (3), vim (1)
@@ -2982,8 +2959,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1), scroll up (1)
 > **Exercise Files:** exercise file (1), exercise files (1)
 
-#### Updating the Dockerfile
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/updating-the-dockerfile-24082448?u=76281980)
+#### [Updating the Dockerfile](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/updating-the-dockerfile-24082448?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3003,7 +2979,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/updating-the-dockerfile-24082448?u=76281980&t=43)** And we also have a "COPY" line that copies the spec directory into a folder within the Docker image, called "/tests".
 >
-> **[0:50](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/updating-the-dockerfile-24082448?u=76281980&t=50)** This is why in Docker Compose we're starting our unit tests from "/tests" instead of "/spec" or something similar.
+> **[0:50](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/updating-the-dockerfile-24082448?u=76281980&t=50)** This is why in Docker [[Jetpack Compose|Compose]] we're starting our unit tests from "/tests" instead of "/spec" or something similar.
 >
 > **[0:59](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/updating-the-dockerfile-24082448?u=76281980&t=59)** However, we have two new things inside of this Dockerfile that we haven't seen before.
 >
@@ -3021,7 +2997,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/updating-the-dockerfile-24082448?u=76281980&t=100)** Now this "gem install" command is a Ruby adjacent command that installs various libraries or executables into your environment.
 >
-> **[1:49](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/updating-the-dockerfile-24082448?u=76281980&t=109)** So in this case, we're using gem install to install RSpec, Capybara and Selenium WebDriver.
+> **[1:49](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/updating-the-dockerfile-24082448?u=76281980&t=109)** So in this case, we're using gem install to install RSpec, Capybara and [[Selenium]] WebDriver.
 >
 > **[1:56](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/updating-the-dockerfile-24082448?u=76281980&t=116)** This one requires some explaining.
 >
@@ -3059,7 +3035,7 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/updating-the-dockerfile-24082448?u=76281980&t=247)** If you're interested in learning more about the differences between command form and shell form, I highly recommend checking out my course "Learning Docker", where I go into it in much more detail.
 >
-> **[4:17](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/updating-the-dockerfile-24082448?u=76281980&t=257)** You can also check out my follow-up course, "Docker Essentials Training", which really drills into the differences between these forms and also gives you some examples of how you can write your entrypoint in other ways.
+> **[4:17](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/updating-the-dockerfile-24082448?u=76281980&t=257)** You can also check out my follow-up course, "Docker Essentials Training", which really drills into the differences between these [[Forms]] and also gives you some examples of how you can write your entrypoint in other ways.
 >
 > **[4:29](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/updating-the-dockerfile-24082448?u=76281980&t=269)** Alright, we're done here.
 >
@@ -3067,7 +3043,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Selenium]] (8), [[Jetpack Compose|Compose]] (4), data (1), web (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Selenium]] (8), [[Jetpack Compose|Compose]] (4), [[Forms]] (1)
 > **CLI Commands:** docker (12), ruby (2)
 > **Env Vars:** label (2), run (2), entrypoint (2), copy (1)
 > **Prerequisites:** install (4), configure (2)
@@ -3076,8 +3052,7 @@ created: 2026-05-02
 > **Analogies:** for example (1), kind of like (1)
 > **Versions:** version 3 (1)
 
-#### Running the test
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/running-the-test-24081428?u=76281980)
+#### [Running the test](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/running-the-test-24081428?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3085,7 +3060,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/running-the-test-24081428?u=76281980&t=1)** Time to run our tests, that is.
 >
-> **[0:04](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/running-the-test-24081428?u=76281980&t=4)** To begin, we're going to use "docker compose run --rm unit-tests".
+> **[0:04](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/running-the-test-24081428?u=76281980&t=4)** To begin, we're going to use "docker [[Jetpack Compose|compose]] run --rm unit-tests".
 >
 > **[0:11](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/running-the-test-24081428?u=76281980&t=11)** Now, if we use "docker compose up" here, it would run our tests along with all of the other services in our Compose file, like GitLab, the website, etc.
 >
@@ -3117,18 +3092,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (4), next (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (4)
 > **CLI Commands:** docker (3), rm (1), make (1)
 > **Definitions:** means that (2)
 > **Cross-References:** in the next (1)
 > **Tools:** gitlab (1)
 
-#### Finding criteria for a unit test
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/finding-criteria-for-our-unit-test-24076579?u=76281980)
+#### [Finding criteria for a unit test](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/finding-criteria-for-our-unit-test-24076579?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/finding-criteria-for-our-unit-test-24076579?u=76281980&t=0)** So far we were able to get Rspec working in Docker Compose.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/finding-criteria-for-our-unit-test-24076579?u=76281980&t=0)** So far we were able to get Rspec working in Docker [[Jetpack Compose|Compose]].
 >
 > **[0:03](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/finding-criteria-for-our-unit-test-24076579?u=76281980&t=3)** However, it's not testing very much like we saw before, so let's fix that by writing an actual test against our actual Explore California website.
 >
@@ -3138,7 +3112,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/finding-criteria-for-our-unit-test-24076579?u=76281980&t=25)** Now, if we were developing Explore California from scratch, I would have probably started with the test verifying that the site had a logo and that the logo was in the right place.
 >
-> **[0:34](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/finding-criteria-for-our-unit-test-24076579?u=76281980&t=34)** However, since we're DevOps to find an existing website that doesn't have very much in the way of tests, we're going to write a simpler test that just checks that the logo exists.
+> **[0:34](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/finding-criteria-for-our-unit-test-24076579?u=76281980&t=34)** However, since we're [[DevOps]] to find an existing website that doesn't have very much in the way of tests, we're going to write a simpler test that just checks that the logo exists.
 >
 > **[0:46](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/finding-criteria-for-our-unit-test-24076579?u=76281980&t=46)** So let's begin by using our browser to see what the existing source code for the page looks like.
 >
@@ -3164,7 +3138,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/finding-criteria-for-our-unit-test-24076579?u=76281980&t=131)** Once you do that, it'll take you right there.
 >
-> **[2:14](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/finding-criteria-for-our-unit-test-24076579?u=76281980&t=134)** So as you can see, there are several interesting properties about this logo's HTML object here.
+> **[2:14](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/finding-criteria-for-our-unit-test-24076579?u=76281980&t=134)** So as you can see, there are several interesting properties about this logo's [[HTML]] object here.
 >
 > **[2:19](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/finding-criteria-for-our-unit-test-24076579?u=76281980&t=139)** First, this "a" element tells us that the logo is also a logo that you can click on.
 >
@@ -3186,7 +3160,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (2), [[DevOps]] (1), [[HTML]] (1), web (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (2), [[DevOps]] (1), [[HTML]] (1)
 > **CLI Commands:** docker (3), find (2), make (1)
 > **UI Navigation:** click on (2), in the menu (1), right-click (1)
 > **Cross-References:** in the last (1), go back to (1)
@@ -3195,8 +3169,7 @@ created: 2026-05-02
 > **Analogies:** just like (1), for example (1)
 > **File Paths:** spec/unit/page_spec.rb (1)
 
-#### Writing the unit test
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-the-unit-test-24080515?u=76281980)
+#### [Writing the unit test](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-the-unit-test-24080515?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3236,7 +3209,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-the-unit-test-24080515?u=76281980&t=95)** Let's take a look at its documentation to see.
 >
-> **[1:38](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-the-unit-test-24080515?u=76281980&t=98)** To do that, I'm going to go to my browser and visit [https://github.com](https://github.com)/ teamcapybara/capybara.
+> **[1:38](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-the-unit-test-24080515?u=76281980&t=98)** To do that, I'm going to go to my browser and visit [https://[[GitHub]].com](https://github.com)/ teamcapybara/capybara.
 >
 > **[1:49](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-the-unit-test-24080515?u=76281980&t=109)** That will take us right to Capybara's source code on GitHub, which also happens to be its documentation.
 >
@@ -3256,7 +3229,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-the-unit-test-24080515?u=76281980&t=162)** I'm going to go ahead and get rid of the comment also.
 >
-> **[2:45](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-the-unit-test-24080515?u=76281980&t=165)** Now let's go back and see if we can find that "a" element that we were looking for earlier. In HTML land, we could use something called a "selector" to find a specific element on a page.
+> **[2:45](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-the-unit-test-24080515?u=76281980&t=165)** Now let's go back and see if we can find that "a" element that we were looking for earlier. In [[HTML]] land, we could use something called a "selector" to find a specific element on a page.
 >
 > **[2:55](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-the-unit-test-24080515?u=76281980&t=175)** So let's see what happens when we search for "selector."
 >
@@ -3286,7 +3259,7 @@ created: 2026-05-02
 >
 > **[4:18](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-the-unit-test-24080515?u=76281980&t=258)** If you're not you can just type "cd ~/explore-california-website" to go right back in there.
 >
-> **[4:24](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-the-unit-test-24080515?u=76281980&t=264)** And then I'm going to type "docker compose run --rm unit-tests".
+> **[4:24](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-the-unit-test-24080515?u=76281980&t=264)** And then I'm going to type "docker [[Jetpack Compose|compose]] run --rm unit-tests".
 >
 > **[4:29](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-the-unit-test-24080515?u=76281980&t=269)** But I'm not going to hit Enter just yet. If you recall from a previous video, our Dockerfile copies our tests into the container image.
 >
@@ -3346,7 +3319,7 @@ created: 2026-05-02
 >
 > **[7:12](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-the-unit-test-24080515?u=76281980&t=432)** It's also written in Ruby and it is very fast, we just haven't configured it yet.
 >
-> **[7:16](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-the-unit-test-24080515?u=76281980&t=436)** So let's go back to Capybara's documentation and search for "racktest," one word, to figure out how to configure it.
+> **[7:16](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-the-unit-test-24080515?u=76281980&t=436)** So let's go back to Capybara's documentation and search for "racktest," one [[Microsoft Word|word]], to figure out how to configure it.
 >
 > **[7:25](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-the-unit-test-24080515?u=76281980&t=445)** We get a link there, I just clicked it and there it is.
 >
@@ -3364,7 +3337,7 @@ created: 2026-05-02
 >
 > **[8:11](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-the-unit-test-24080515?u=76281980&t=491)** So what do we do?
 >
-> **[8:12](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-the-unit-test-24080515?u=76281980&t=492)** This is where Selenium comes in.
+> **[8:12](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-the-unit-test-24080515?u=76281980&t=492)** This is where [[Selenium]] comes in.
 >
 > **[8:14](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-the-unit-test-24080515?u=76281980&t=494)** Here's how we're going to fix this... ...in the next video. We're going to stand up a Selenium server, in Docker of course, that spins up instances of Chrome on demand.
 >
@@ -3374,7 +3347,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Selenium]] (4), [[Search]] (3), [[Jetpack Compose|Compose]] (3), application (3), web (2)
+> **Frameworks & Libraries:** [[Selenium]] (4), [[Jetpack Compose|Compose]] (3), [[GitHub]] (2), [[HTML]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (7), docker (5), rm (3), make (2), ruby (2)
 > **Cross-References:** go back to (6), previous video (1), in the last (1), in the next (1)
 > **Exercise Files:** source code (6)
@@ -3383,14 +3356,13 @@ created: 2026-05-02
 > **Env Vars:** dsl (2), url (1), html (1)
 > **URLs:** [localhost:8080](https://localhost:8080) (1), [http://localhost:8080](http://localhost:8080) (1), [https://github.com](https://github.com) (1)
 
-#### Setting up Selenium
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/setting-up-selenium-24075622?u=76281980)
+#### [Setting up Selenium](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/setting-up-selenium-24075622?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/setting-up-selenium-24075622?u=76281980&t=0)** Alright, let's jump right into setting up Selenium.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/setting-up-selenium-24075622?u=76281980&t=0)** Alright, let's jump right into setting up [[Selenium]].
 >
-> **[0:03](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/setting-up-selenium-24075622?u=76281980&t=3)** We need to set this up in two places, our test and our Compose file.
+> **[0:03](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/setting-up-selenium-24075622?u=76281980&t=3)** We need to set this up in two places, our test and our [[Jetpack Compose|Compose]] file.
 >
 > **[0:07](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/setting-up-selenium-24075622?u=76281980&t=7)** Let's start with our test.
 >
@@ -3478,7 +3450,7 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/setting-up-selenium-24075622?u=76281980&t=268)** However, this is a good time to commit and push our changes, so let's go ahead and do that before moving on.
 >
-> **[4:33](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/setting-up-selenium-24075622?u=76281980&t=273)** Again, I'm going to use "git status" to see what's changed.
+> **[4:33](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/setting-up-selenium-24075622?u=76281980&t=273)** Again, I'm going to use "[[Git]] status" to see what's changed.
 >
 > **[4:38](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/setting-up-selenium-24075622?u=76281980&t=278)** I'm using "git add" to add my changes and then I'm using "git commit" to add my changes.
 >
@@ -3496,7 +3468,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Selenium]] (15), [[Jetpack Compose|Compose]] (6), [[Git]] (3), next (1), web (1)
+> **Frameworks & Libraries:** [[Selenium]] (15), [[Jetpack Compose|Compose]] (6), [[Git]] (3)
 > **CLI Commands:** docker (6), git (3), find (1), cp (1), curl (1)
 > **Tools:** vim (3), visual studio (1), gitlab (1)
 > **Code Identifiers:** page_spec (2), exercise_files (1), default_driver (1)
@@ -3505,14 +3477,13 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (3)
 > **Env Vars:** url (2)
 
-#### Running your test with Selenium
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/running-your-test-with-selenium-24079511?u=76281980)
+#### [Running your test with Selenium](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/running-your-test-with-selenium-24079511?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/running-your-test-with-selenium-24079511?u=76281980&t=0)** Right on!
 >
-> **[0:01](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/running-your-test-with-selenium-24079511?u=76281980&t=1)** Let's use our "docker compose run" command from earlier to see what's changed.
+> **[0:01](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/running-your-test-with-selenium-24079511?u=76281980&t=1)** Let's use our "docker [[Jetpack Compose|compose]] run" command from earlier to see what's changed.
 >
 > **[0:05](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/running-your-test-with-selenium-24079511?u=76281980&t=5)** Remember, if you get this error, that means that you need to rebuild your container image before running our unit test.
 >
@@ -3520,7 +3491,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/running-your-test-with-selenium-24079511?u=76281980&t=20)** And boom! Our tests are passing again.
 >
-> **[0:25](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/running-your-test-with-selenium-24079511?u=76281980&t=25)** Here's a sweet trick. The Selenium service we created exposes something called a VNC server.
+> **[0:25](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/running-your-test-with-selenium-24079511?u=76281980&t=25)** Here's a sweet trick. The [[Selenium]] service we created exposes something called a VNC server.
 >
 > **[0:31](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/running-your-test-with-selenium-24079511?u=76281980&t=31)** You can think of VNC as a way of being able to drive or use a computer remotely, very similar to Remote Desktop, if you've used that before.
 >
@@ -3530,13 +3501,13 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/running-your-test-with-selenium-24079511?u=76281980&t=49)** Now, since I'm on a Mac, I can use the screen sharing application which supports VNC.
 >
-> **[0:55](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/running-your-test-with-selenium-24079511?u=76281980&t=55)** If you're on Windows, there are two VNC clients that I recommend in particular. Let's take a look at them.
+> **[0:55](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/running-your-test-with-selenium-24079511?u=76281980&t=55)** If you're on [[Windows]], there are two VNC clients that I recommend in particular. Let's take a look at them.
 >
 > **[1:01](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/running-your-test-with-selenium-24079511?u=76281980&t=61)** The first client that I'd recommend is called RealVNC, and you can get to it by typing "[realvnc.com](https://realvnc.com)" in the address bar.
 >
 > **[1:09](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/running-your-test-with-selenium-24079511?u=76281980&t=69)** While this looks like a much more "enterprisey" VNC client, it's actually free to use.
 >
-> **[1:15](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/running-your-test-with-selenium-24079511?u=76281980&t=75)** So what you can do is you can click on Products and then click on Download Now.
+> **[1:15](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/running-your-test-with-selenium-24079511?u=76281980&t=75)** So what you can do is you can click on [[Microsoft Products|Products]] and then click on Download Now.
 >
 > **[1:19](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/running-your-test-with-selenium-24079511?u=76281980&t=79)** Then you can look for RealVNC Connect for Windows and then just click on Download for Windows.
 >
@@ -3608,11 +3579,11 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/running-your-test-with-selenium-24079511?u=76281980&t=229)** In the next set of videos, we'll upload our website into AWS and then use Rspec again to test against that with integration tests to test our site on the actual internet.
 >
-> **[4:02](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/running-your-test-with-selenium-24079511?u=76281980&t=242)** Prepare yourself for more DevOps!
+> **[4:02](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/running-your-test-with-selenium-24079511?u=76281980&t=242)** Prepare yourself for more [[DevOps]]!
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Selenium]] (6), [[Windows]] (4), [[Jetpack Compose|Compose]] (3), hit (3), application (1)
+> **Frameworks & Libraries:** [[Selenium]] (6), [[Windows]] (4), [[Jetpack Compose|Compose]] (3), [[Microsoft Products|Products]] (1), [[DevOps]] (1)
 > **Env Vars:** vnc (8), url (1), aws (1)
 > **UI Navigation:** click on (6), go to (1)
 > **CLI Commands:** docker (4), rm (1), aws (1)
@@ -3626,24 +3597,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Deploy with confidence with infrastructure as code
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/deploy-with-confidence-with-infrastructure-as-code-24075620?u=76281980)
+#### [Deploy with confidence with infrastructure as code](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/deploy-with-confidence-with-infrastructure-as-code-24075620?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/deploy-with-confidence-with-infrastructure-as-code-24075620?u=76281980&t=0)** Thanks to you, Explore California now has a simple test suite that they can use to confidently change the website with ease.
 >
-> **[0:07](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/deploy-with-confidence-with-infrastructure-as-code-24075620?u=76281980&t=7)** Because our tests run in Docker, we can rest assured that the site and its tests will behave the same no matter where they are.
+> **[0:07](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/deploy-with-confidence-with-infrastructure-as-code-24075620?u=76281980&t=7)** Because our tests run in Docker, we can [[Representational State Transfer (REST)|rest]] assured that the site and its tests will behave the same no matter where they are.
 >
 > **[0:14](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/deploy-with-confidence-with-infrastructure-as-code-24075620?u=76281980&t=14)** However, we have one big task left. We need to put our site somewhere.
 >
-> **[0:19](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/deploy-with-confidence-with-infrastructure-as-code-24075620?u=76281980&t=19)** Explore California has chosen to use Amazon Web Services, or AWS, as its platform of choice.
+> **[0:19](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/deploy-with-confidence-with-infrastructure-as-code-24075620?u=76281980&t=19)** Explore California has chosen to use [[Amazon Web Services (AWS)|Amazon Web Services]], or AWS, as its platform of choice.
 >
 > **[0:25](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/deploy-with-confidence-with-infrastructure-as-code-24075620?u=76281980&t=25)** There are lots of ways that we can do this.
 >
 > **[0:27](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/deploy-with-confidence-with-infrastructure-as-code-24075620?u=76281980&t=27)** Let's take a look at them now. We could use the web GUIs for each AWS service we choose to use.
 >
-> **[0:33](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/deploy-with-confidence-with-infrastructure-as-code-24075620?u=76281980&t=33)** They are well designed and make doing complex things easy, like uploading websites, creating virtual machines, and even running built applications without managing any infrastructure at all.
+> **[0:33](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/deploy-with-confidence-with-infrastructure-as-code-24075620?u=76281980&t=33)** They are well designed and make doing complex things easy, like uploading websites, creating [[Virtual Machines]], and even running built applications without managing any infrastructure at all.
 >
 > **[0:44](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/deploy-with-confidence-with-infrastructure-as-code-24075620?u=76281980&t=44)** However, this will introduce serious scaling challenges for Explore California.
 >
@@ -3659,7 +3629,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/deploy-with-confidence-with-infrastructure-as-code-24075620?u=76281980&t=75)** Explore California is only going to get bigger too, so doing things this way will slow us down a lot.
 >
-> **[1:22](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/deploy-with-confidence-with-infrastructure-as-code-24075620?u=76281980&t=82)** This is where Infrastructure as Code steps in. Infrastructure as Code, or IaC for short, is a technique that uses command-line tools and/or application programming interfaces or APIs to automate the creation and configuration of infrastructure like virtual machines, networking equipment, storage devices, and security systems.
+> **[1:22](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/deploy-with-confidence-with-infrastructure-as-code-24075620?u=76281980&t=82)** This is where [[Infrastructure as code (IaC)|Infrastructure as Code]] steps in. Infrastructure as Code, or IaC for short, is a technique that uses command-line tools and/or [[Application Programming Interfaces (API)|application programming interfaces]] or APIs to automate the creation and configuration of infrastructure like virtual machines, networking equipment, storage devices, and security systems.
 >
 > **[1:44](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/deploy-with-confidence-with-infrastructure-as-code-24075620?u=76281980&t=104)** CLIs and APIs are often much faster than using GUIs.
 >
@@ -3667,7 +3637,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/deploy-with-confidence-with-infrastructure-as-code-24075620?u=76281980&t=115)** Let's take a look at what our scenario above looks like with a dash of IaC applied onto it.
 >
-> **[2:01](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/deploy-with-confidence-with-infrastructure-as-code-24075620?u=76281980&t=121)** All of the services available on AWS can be configured through a command-line client called AWS CLI.
+> **[2:01](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/deploy-with-confidence-with-infrastructure-as-code-24075620?u=76281980&t=121)** All of the services available on AWS can be configured through a command-line client called AWS [[CLI]].
 >
 > **[2:08](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/deploy-with-confidence-with-infrastructure-as-code-24075620?u=76281980&t=128)** With this tool, the 20 clicks we needed to interact with S3 became just two commands.
 >
@@ -3683,7 +3653,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/deploy-with-confidence-with-infrastructure-as-code-24075620?u=76281980&t=163)** In this chapter, we're going to use a tool called OpenTofu.
 >
-> **[2:47](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/deploy-with-confidence-with-infrastructure-as-code-24075620?u=76281980&t=167)** OpenTofu is an open-source version of Terraform, a tool from HashiCorp.
+> **[2:47](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/deploy-with-confidence-with-infrastructure-as-code-24075620?u=76281980&t=167)** OpenTofu is an open-source version of [[Terraform]], a tool from HashiCorp.
 >
 > **[2:52](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/deploy-with-confidence-with-infrastructure-as-code-24075620?u=76281980&t=172)** We're going to use OpenTofu to write and deploy Explore California's website into AWS S3.
 >
@@ -3705,19 +3675,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (8), [[Virtual Machines]] (2), [[Programming]] (2), [[CLI]] (2), api (2)
+> **Frameworks & Libraries:** [[Virtual Machines]] (2), [[CLI]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Infrastructure as code (IaC)|Infrastructure as code]] (1)
 > **CLI Commands:** aws (8), docker (2), make (2), terraform (1)
 > **Env Vars:** aws (8), cli (2), api (2), cto (1)
 > **Definitions:** is a  (1), is an  (1)
 
-#### Finding the version of OpenTofu to use
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/finding-the-version-of-opentofu-to-use-24082450?u=76281980)
+#### [Finding the version of OpenTofu to use](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/finding-the-version-of-opentofu-to-use-24082450?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/finding-the-version-of-opentofu-to-use-24082450?u=76281980&t=0)** Before we dive into OpenTofu, let's find the latest version of OpenTofu that's available for us to use.
 >
-> **[0:06](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/finding-the-version-of-opentofu-to-use-24082450?u=76281980&t=6)** To do that, I'm going to open a web browser like you see here, and then visit [github.com/opentofu/opentofu](https://github.com/opentofu/opentofu).
+> **[0:06](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/finding-the-version-of-opentofu-to-use-24082450?u=76281980&t=6)** To do that, I'm going to open a web browser like you see here, and then visit [[[GitHub]].com/opentofu/opentofu](https://github.com/opentofu/opentofu).
 >
 > **[0:15](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/finding-the-version-of-opentofu-to-use-24082450?u=76281980&t=15)** That's going to bring us to OpenTofu's source code on GitHub.
 >
@@ -3729,11 +3698,11 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/finding-the-version-of-opentofu-to-use-24082450?u=76281980&t=39)** In our case, that's going to be version 1.71.
 >
-> **[0:42](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/finding-the-version-of-opentofu-to-use-24082450?u=76281980&t=42)** Now that we have our version number in tow, let's head on over to docker-compose.yaml so that we can use it.
+> **[0:42](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/finding-the-version-of-opentofu-to-use-24082450?u=76281980&t=42)** Now that we have our version number in tow, let's head on over to docker-[[Jetpack Compose|compose]].yaml so that we can use it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (2), web (1), [[Jetpack Compose|Compose]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (2), [[Jetpack Compose|Compose]] (1)
 > **CLI Commands:** find (1), docker (1)
 > **Tools:** github (2)
 > **UI Navigation:** click on (2)
@@ -3742,12 +3711,11 @@ created: 2026-05-02
 > **Versions:** version 1 (1)
 > **Exercise Files:** source code (1)
 
-#### Adding OpenTofu to Docker Compose
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/adding-opentofu-to-docker-compose-24082452?u=76281980)
+#### [Adding OpenTofu to Docker Compose](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/adding-opentofu-to-docker-compose-24082452?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/adding-opentofu-to-docker-compose-24082452?u=76281980&t=0)** Now that we got the version of OpenTofu to use, let's go ahead and add it to our docker-compose.yaml.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/adding-opentofu-to-docker-compose-24082452?u=76281980&t=0)** Now that we got the version of OpenTofu to use, let's go ahead and add it to our docker-[[Jetpack Compose|compose]].yaml.
 >
 > **[0:06](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/adding-opentofu-to-docker-compose-24082452?u=76281980&t=6)** To do that, I'm going to type "vim", then "docker-compose.yaml" to open it in my editor.
 >
@@ -3761,7 +3729,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/adding-opentofu-to-docker-compose-24082452?u=76281980&t=26)** To save time, I went ahead and created the OpenTofu service for you However, you might be using an older version of OpenTofu in your copy of the exercise files.
 >
-> **[0:36](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/adding-opentofu-to-docker-compose-24082452?u=76281980&t=36)** If that's the case, simply remove the version that's there and replace it with the version that we found on GitHub.
+> **[0:36](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/adding-opentofu-to-docker-compose-24082452?u=76281980&t=36)** If that's the case, simply remove the version that's there and replace it with the version that we found on [[GitHub]].
 >
 > **[0:43](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/adding-opentofu-to-docker-compose-24082452?u=76281980&t=43)** Next, let's pay attention to the volumes that we're mounting down here.
 >
@@ -3867,7 +3835,7 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/adding-opentofu-to-docker-compose-24082452?u=76281980&t=234)** And now that we did all of that let's go ahead and move on.
 >
-> **[3:57](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/adding-opentofu-to-docker-compose-24082452?u=76281980&t=237)** However, before we continue, let's go ahead and make sure that we push any changes that we've made to our Git repository up to GitLab.
+> **[3:57](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/adding-opentofu-to-docker-compose-24082452?u=76281980&t=237)** However, before we continue, let's go ahead and make sure that we push any changes that we've made to our [[Git]] repository up to GitLab.
 >
 > **[4:05](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/adding-opentofu-to-docker-compose-24082452?u=76281980&t=245)** So as you can see we have a single file that was changed.
 >
@@ -3885,7 +3853,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (5), next (2), [[GitHub]] (2), [[Git]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (5), [[GitHub]] (2), [[Git]] (2)
 > **CLI Commands:** docker (9), find (2), ls (2), make (2), git (2)
 > **File Paths:** docker-compose.yaml (4), some_file.txt (4)
 > **Tools:** github (2), gitlab (2), vim (1)
@@ -3894,12 +3862,11 @@ created: 2026-05-02
 > **Versions:** 1.7.1 (2)
 > **Cross-References:** go back to (1)
 
-#### AWS deployment explained
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/aws-deployment-explained-24082453?u=76281980)
+#### [AWS deployment explained](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/aws-deployment-explained-24082453?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/aws-deployment-explained-24082453?u=76281980&t=0)** In our last video, we went over how to get OpenTofu up and running in Docker through Docker Compose.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/aws-deployment-explained-24082453?u=76281980&t=0)** In our last video, we went over how to get OpenTofu up and running in Docker through Docker [[Jetpack Compose|Compose]].
 >
 > **[0:05](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/aws-deployment-explained-24082453?u=76281980&t=5)** In this video, we're going to use that knowledge to create our first OpenTofu deployment in AWS.
 >
@@ -3907,9 +3874,9 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/aws-deployment-explained-24082453?u=76281980&t=12)** But before we begin, let's briefly talk about what Explore California will look like within AWS.
 >
-> **[0:18](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/aws-deployment-explained-24082453?u=76281980&t=18)** Amazon Web Services, or AWS, is a cloud provider that enables users to create all sorts of computing resources throughout the world.
+> **[0:18](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/aws-deployment-explained-24082453?u=76281980&t=18)** [[Amazon Web Services (AWS)|Amazon Web Services]], or AWS, is a cloud provider that enables users to create all sorts of computing resources throughout the world.
 >
-> **[0:26](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/aws-deployment-explained-24082453?u=76281980&t=26)** AWS offers many services to meet many different needs from simple virtual machines with Elastic Cloud Compute, or EC2, to entire pipelines for processing massive amounts of data very, very quickly, like AWS Kinesis Firehose.
+> **[0:26](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/aws-deployment-explained-24082453?u=76281980&t=26)** AWS offers many services to meet many different needs from simple [[Virtual Machines]] with Elastic Cloud Compute, or [[Amazon EC2|EC2]], to entire pipelines for processing massive amounts of data very, very quickly, like AWS Kinesis Firehose.
 >
 > **[0:41](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/aws-deployment-explained-24082453?u=76281980&t=41)** Like we learned when we started this chapter, one of the big advantages AWS provides is that nearly every interaction with it is done through API calls.
 >
@@ -3951,15 +3918,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (11), cloud (2), data (2), web (2), [[Jetpack Compose|Compose]] (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Virtual Machines]] (1), [[Amazon EC2|Ec2]] (1)
 > **CLI Commands:** aws (11), docker (2)
 > **Env Vars:** aws (10), ec2 (1), api (1)
 > **Definitions:** is a  (3)
 > **URLs:** [amazon.com](https://amazon.com) (1)
 > **Prerequisites:** configure (1)
 
-#### Writing your integration test
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-your-integration-test-24079508?u=76281980)
+#### [Writing your integration test](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-your-integration-test-24079508?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4047,7 +4013,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-your-integration-test-24079508?u=76281980&t=221)** Great!
 >
-> **[3:42](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-your-integration-test-24079508?u=76281980&t=222)** So now we have all the libraries we need to run a Capybara test in Selenium.
+> **[3:42](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-your-integration-test-24079508?u=76281980&t=222)** So now we have all the libraries we need to run a Capybara test in [[Selenium]].
 >
 > **[3:47](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-your-integration-test-24079508?u=76281980&t=227)** So what I'm going to do next is I'm going to go copy this Capybara register driver block over here so that we can configure Capybara to talk to our Selenium instance.
 >
@@ -4157,7 +4123,7 @@ created: 2026-05-02
 >
 > **[7:44](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-your-integration-test-24079508?u=76281980&t=464)** Perfect.
 >
-> **[7:46](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-your-integration-test-24079508?u=76281980&t=466)** Let's save this and turn our attention to the Docker Compose file.
+> **[7:46](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-your-integration-test-24079508?u=76281980&t=466)** Let's save this and turn our attention to the Docker [[Jetpack Compose|Compose]] file.
 >
 > **[7:52](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-your-integration-test-24079508?u=76281980&t=472)** So, just like Selenium, website and OpenTofu, I wrote the Compose service that we're going to be using to run our end-to-end test or integration test.
 >
@@ -4225,7 +4191,7 @@ created: 2026-05-02
 >
 > **[11:26](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-your-integration-test-24079508?u=76281980&t=686)** With all of that, let's go ahead and save our changes and push our work up to GitLab.
 >
-> **[11:31](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-your-integration-test-24079508?u=76281980&t=691)** So "git status" to check what's changed.
+> **[11:31](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-your-integration-test-24079508?u=76281980&t=691)** So "[[Git]] status" to check what's changed.
 >
 > **[11:34](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-your-integration-test-24079508?u=76281980&t=694)** "Git add" to add the changes into our staging area.
 >
@@ -4251,7 +4217,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (7), [[Selenium]] (4), hit (3), aws (2), next (2)
+> **Frameworks & Libraries:** [[Git]] (7), [[Selenium]] (4), [[Jetpack Compose|Compose]] (2)
 > **CLI Commands:** make (8), git (7), ruby (4), aws (2), docker (1)
 > **Env Vars:** url (5), env (3), aws (2), website_url (2), insert (1)
 > **UI Navigation:** go to (7), right-click (1)
@@ -4260,8 +4226,7 @@ created: 2026-05-02
 > **Analogies:** just like (5)
 > **Code Identifiers:** website_spec (2), website_url (1)
 
-#### Writing OpenTofu code
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-opentofu-code-24077627?u=76281980)
+#### [Writing OpenTofu code](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-opentofu-code-24077627?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4285,7 +4250,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-opentofu-code-24077627?u=76281980&t=51)** So let's go into "infra", "website.tf" to open it in your editor.
 >
-> **[0:56](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-opentofu-code-24077627?u=76281980&t=56)** The first thing we'll focus on is the differences between OpenTofu and Terraform.
+> **[0:56](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-opentofu-code-24077627?u=76281980&t=56)** The first thing we'll focus on is the differences between OpenTofu and [[Terraform]].
 >
 > **[1:02](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-opentofu-code-24077627?u=76281980&t=62)** As of this writing, there are none.
 >
@@ -4313,9 +4278,9 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-opentofu-code-24077627?u=76281980&t=118)** OpenTofu configuration files are written in a domain-specific language, or a DSL, called the HashiCorp Configuration Language, or HCL. HCL claims to be simple enough for programmers and non-programmers alike to define the resources that they want to create.
 >
-> **[2:16](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-opentofu-code-24077627?u=76281980&t=136)** Now, it's important to note that DSLs like HCL are not programming languages, while HCL does allow you to do some simple things like if/else conditional statements and for loops, it is very limited in what it can do compared to a full-blown programming language like Python, Ruby or Golang.
+> **[2:16](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-opentofu-code-24077627?u=76281980&t=136)** Now, it's important to note that DSLs like HCL are not programming languages, while HCL does allow you to do some simple things like if/else conditional statements and for loops, it is very limited in what it can do compared to a full-blown programming language like [[Python (Programming Language)|Python]], Ruby or Golang.
 >
-> **[2:37](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-opentofu-code-24077627?u=76281980&t=157)** If doing that style of Infrastructure as Code interests you, there's a great project called Pulumi.
+> **[2:37](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-opentofu-code-24077627?u=76281980&t=157)** If doing that style of [[Infrastructure as code (IaC)|Infrastructure as Code]] interests you, there's a great project called Pulumi.
 >
 > **[2:44](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-opentofu-code-24077627?u=76281980&t=164)** Pulumi by Pulumi Labs is a great alternative for software developers that want to define infrastructure with a real-deal programming language.
 >
@@ -4369,7 +4334,7 @@ created: 2026-05-02
 >
 > **[5:02](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-opentofu-code-24077627?u=76281980&t=302)** So for example, this mine types local over here can only be set within this configuration code.
 >
-> **[5:08](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-opentofu-code-24077627?u=76281980&t=308)** So I can't change this when I go to apply my infrastructure with the OpenTofu CLI.
+> **[5:08](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-opentofu-code-24077627?u=76281980&t=308)** So I can't change this when I go to apply my infrastructure with the OpenTofu [[CLI]].
 >
 > **[5:15](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-opentofu-code-24077627?u=76281980&t=315)** The next primitive that we have are outputs.
 >
@@ -4395,7 +4360,7 @@ created: 2026-05-02
 >
 > **[6:20](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-opentofu-code-24077627?u=76281980&t=380)** For example, you can create data sources that obtain information from your provider to reuse later, and modules to, say, take all of this configuration and create hundreds of websites, for example, with it repeatedly.
 >
-> **[6:34](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-opentofu-code-24077627?u=76281980&t=394)** We won't go deep into these concepts to save time, but fortunately, LinkedIn Learning has tons of content on Terraform that can help you learn more.
+> **[6:34](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-opentofu-code-24077627?u=76281980&t=394)** We won't go deep into these concepts to save time, but fortunately, [[LinkedIn]] Learning has tons of content on Terraform that can help you learn more.
 >
 > **[6:44](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-opentofu-code-24077627?u=76281980&t=404)** For example, again, since OpenTofu and Terraform are interchangeable, you can check out Josh Samuelson's "Learning Terraform" course if you're interested in everything that Terraform or OpenTofu have to offer.
 >
@@ -4413,7 +4378,7 @@ created: 2026-05-02
 >
 > **[7:21](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-opentofu-code-24077627?u=76281980&t=441)** So the first thing that we're doing is we're creating an AWS S3 bucket called "website".
 >
-> **[7:27](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-opentofu-code-24077627?u=76281980&t=447)** The type of thing that we're creating is always going to be the first thing that you provide after the word "resource".
+> **[7:27](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-opentofu-code-24077627?u=76281980&t=447)** The type of thing that we're creating is always going to be the first thing that you provide after the [[Microsoft Word|word]] "resource".
 >
 > **[7:33](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-opentofu-code-24077627?u=76281980&t=453)** And then the name of that resource is always going to be the second thing.
 >
@@ -4453,7 +4418,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (12), aws (9), [[Programming]] (5), next (4), [[Search]] (3)
+> **Frameworks & Libraries:** [[Terraform]] (12), [[CLI]] (2), [[Python (Programming Language)|Python]] (1), [[Infrastructure as code (IaC)|Infrastructure as code]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** terraform (12), aws (9), find (3), cp (1), python (1)
 > **Env Vars:** aws (9), hcl (5), cli (2), dsl (1), url (1)
 > **Analogies:** for example (8), just like (1), similar to (1)
@@ -4462,8 +4427,7 @@ created: 2026-05-02
 > **Code Identifiers:** exercise_files (1), bucket_name_prefix (1), website_domain_name (1), for_each (1)
 > **Exercise Files:** exercise files (3)
 
-#### Reviewing the OpenTofu plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/reviewing-the-opentofu-plan-24077624?u=76281980)
+#### [Reviewing the OpenTofu plan](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/reviewing-the-opentofu-plan-24077624?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4477,9 +4441,9 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/reviewing-the-opentofu-plan-24077624?u=76281980&t=26)** First, we'll need to initialize OpenTofu with "open tofu init".
 >
-> **[0:30](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/reviewing-the-opentofu-plan-24077624?u=76281980&t=30)** The way we do that is by running "docker compose run --rm open tofu init".
+> **[0:30](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/reviewing-the-opentofu-plan-24077624?u=76281980&t=30)** The way we do that is by running "docker [[Jetpack Compose|compose]] run --rm open tofu init".
 >
-> **[0:37](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/reviewing-the-opentofu-plan-24077624?u=76281980&t=37)** This will fetch code for the provider that we need and perform other configurations.
+> **[0:37](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/reviewing-the-opentofu-plan-24077624?u=76281980&t=37)** This will [[Fetch]] code for the provider that we need and perform other configurations.
 >
 > **[0:43](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/reviewing-the-opentofu-plan-24077624?u=76281980&t=43)** What OpenTofu is doing here is fetching the AWS provider that makes all of those resources work, as well as the random provider, which was used for the random string resource that we saw before.
 >
@@ -4535,14 +4499,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (16), [[Jetpack Compose|Compose]] (3), [[Fetch]] (1), next (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (3), [[Fetch]] (1)
 > **CLI Commands:** aws (16), docker (3), make (2), grep (2), rm (1)
 > **Env Vars:** aws (14), hcl (1), env (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** configure (1)
 
-#### Applying the OpenTofu plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/applying-the-opentofu-plan-24077623?u=76281980)
+#### [Applying the OpenTofu plan](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/applying-the-opentofu-plan-24077623?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4554,7 +4517,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/applying-the-opentofu-plan-24077623?u=76281980&t=22)** This step is really easy.
 >
-> **[0:24](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/applying-the-opentofu-plan-24077623?u=76281980&t=24)** All we need to do here is clear our screen and run "docker compose run --rm opentofu apply".
+> **[0:24](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/applying-the-opentofu-plan-24077623?u=76281980&t=24)** All we need to do here is clear our screen and run "docker [[Jetpack Compose|compose]] run --rm opentofu apply".
 >
 > **[0:33](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/applying-the-opentofu-plan-24077623?u=76281980&t=33)** That's it.
 >
@@ -4592,7 +4555,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/applying-the-opentofu-plan-24077623?u=76281980&t=96)** Well, if we use "ls" to list the contents of that folder, we can see that there's a little bit more stuff in here.
 >
-> **[1:41](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/applying-the-opentofu-plan-24077623?u=76281980&t=101)** Specifically, we can see a Terraform .tf state file listed.
+> **[1:41](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/applying-the-opentofu-plan-24077623?u=76281980&t=101)** Specifically, we can see a [[Terraform]] .tf state file listed.
 >
 > **[1:46](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/applying-the-opentofu-plan-24077623?u=76281980&t=106)** This is OpenTofu's database of our infrastructure.
 >
@@ -4608,7 +4571,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/applying-the-opentofu-plan-24077623?u=76281980&t=134)** There's probably stuff in your infrastructure that you rather not have laying around like this.
 >
-> **[2:19](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/applying-the-opentofu-plan-24077623?u=76281980&t=139)** We're also working within a Git repository, so someone could easily commit and push this file into GitLab, which we can confirm by running "git status" and then running "git add -infra" and then running "git status" once again.
+> **[2:19](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/applying-the-opentofu-plan-24077623?u=76281980&t=139)** We're also working within a [[Git]] repository, so someone could easily commit and push this file into GitLab, which we can confirm by running "git status" and then running "git add -infra" and then running "git status" once again.
 >
 > **[2:35](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/applying-the-opentofu-plan-24077623?u=76281980&t=155)** If we were to push this on to GitLab, even though our GitLab instance is private, all of the Git commands that we were using before would work on a public developer platform as well.
 >
@@ -4638,7 +4601,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/applying-the-opentofu-plan-24077623?u=76281980&t=232)** It uses a technique also called "locking" to prevent the "multiple rider problem" that I mentioned before.
 >
-> **[3:59](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/applying-the-opentofu-plan-24077623?u=76281980&t=239)** Now, we won't cover remote states in this course, but check out the Terraform courses on LinkedIn Learning to learn more about that.
+> **[3:59](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/applying-the-opentofu-plan-24077623?u=76281980&t=239)** Now, we won't cover remote states in this course, but check out the Terraform courses on [[LinkedIn]] Learning to learn more about that.
 >
 > **[4:05](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/applying-the-opentofu-plan-24077623?u=76281980&t=245)** Alright, back to hacking.
 >
@@ -4734,7 +4697,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (18), [[Terraform]] (10), aws (2), [[Jetpack Compose|Compose]] (2), hit (2)
+> **Frameworks & Libraries:** [[Git]] (18), [[Terraform]] (10), [[Jetpack Compose|Compose]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** git (18), terraform (10), aws (2), docker (2), rm (2)
 > **Env Vars:** url (4), aws (2), website (1)
 > **Tools:** gitlab (5)
@@ -4743,8 +4706,7 @@ created: 2026-05-02
 > **Code Identifiers:** website_url (1)
 > **UI Navigation:** go to (1)
 
-#### Running your integration test
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/running-your-integration-test-24082451?u=76281980)
+#### [Running your integration test](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/running-your-integration-test-24082451?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4792,19 +4754,18 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/running-your-integration-test-24082451?u=76281980&t=92)** So now that everything's working, let's burn it all down!
 >
-> **[1:36](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/running-your-integration-test-24082451?u=76281980&t=96)** In the next video, we'll learn how to delete resources managed by Terraform.
+> **[1:36](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/running-your-integration-test-24082451?u=76281980&t=96)** In the next video, we'll learn how to delete resources managed by [[Terraform]].
 >
 > **[1:40](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/running-your-integration-test-24082451?u=76281980&t=100)** Onward!
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), aws (1), next (1), [[Terraform]] (1)
+> **Frameworks & Libraries:** [[Terraform]] (1)
 > **CLI Commands:** make (2), aws (1), terraform (1)
 > **Env Vars:** url (3), aws (1)
 > **Cross-References:** in the next (1)
 
-#### Destroying the website from AWS S3
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/destroying-the-website-from-aws-s3-24081430?u=76281980)
+#### [Destroying the website from AWS S3](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/destroying-the-website-from-aws-s3-24081430?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4814,7 +4775,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/destroying-the-website-from-aws-s3-24081430?u=76281980&t=9)** Just like every other OpenTofu command that we've used so far, deleting resources is straightforward.
 >
-> **[0:16](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/destroying-the-website-from-aws-s3-24081430?u=76281980&t=16)** All we have to do is run "docker compose run --rm opentofu destroy".
+> **[0:16](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/destroying-the-website-from-aws-s3-24081430?u=76281980&t=16)** All we have to do is run "docker [[Jetpack Compose|compose]] run --rm opentofu destroy".
 >
 > **[0:23](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/destroying-the-website-from-aws-s3-24081430?u=76281980&t=23)** This is literally the opposite of apply.
 >
@@ -4824,7 +4785,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/destroying-the-website-from-aws-s3-24081430?u=76281980&t=37)** Let's type yes to continue and hit enter.
 >
-> **[0:40](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/destroying-the-website-from-aws-s3-24081430?u=76281980&t=40)** And just like plan, Terraform will go through all of the resources and delete everything at lightning speed.
+> **[0:40](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/destroying-the-website-from-aws-s3-24081430?u=76281980&t=40)** And just like plan, [[Terraform]] will go through all of the resources and delete everything at lightning speed.
 >
 > **[0:47](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/destroying-the-website-from-aws-s3-24081430?u=76281980&t=47)** If we run our output command from earlier, we can see that OpenTofu has no idea about it.
 >
@@ -4840,9 +4801,9 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/destroying-the-website-from-aws-s3-24081430?u=76281980&t=80)** We're going to learn one more concept that will take what we've learned to the next level.
 >
-> **[1:25](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/destroying-the-website-from-aws-s3-24081430?u=76281980&t=85)** In the next chapter, we're going to learn about the practice of continuous delivery.
+> **[1:25](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/destroying-the-website-from-aws-s3-24081430?u=76281980&t=85)** In the next chapter, we're going to learn about the practice of [[Continuous Delivery (CD)|continuous delivery]].
 >
-> **[1:30](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/destroying-the-website-from-aws-s3-24081430?u=76281980&t=90)** We'll learn about continuous integration, CI, and continuous deployment, CD, and how they differ.
+> **[1:30](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/destroying-the-website-from-aws-s3-24081430?u=76281980&t=90)** We'll learn about [[Continuous Integration (CI)|continuous integration]], CI, and continuous deployment, CD, and how they differ.
 >
 > **[1:37](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/destroying-the-website-from-aws-s3-24081430?u=76281980&t=97)** We'll then use GitLab CI to create a workflow that bundles everything we've learned from this course together into one cohesive pipeline.
 >
@@ -4852,7 +4813,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ci (3), next (2), [[Jetpack Compose|Compose]] (1), hit (1), [[Terraform]] (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (1), [[Terraform]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **CLI Commands:** docker (3), rm (1), terraform (1), aws (1), cd (1)
 > **Analogies:** just like (3)
 > **Env Vars:** url (1), aws (1)
@@ -4864,8 +4825,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Shipping fast with CI/CD
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/shipping-fast-with-ci-cd?u=76281980)
+#### [Shipping fast with CI/CD](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/shipping-fast-with-ci-cd?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4889,7 +4849,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/shipping-fast-with-ci-cd?u=76281980&t=49)** You'll often hear CI and CD discussed in the same sentence.
 >
-> **[0:54](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/shipping-fast-with-ci-cd?u=76281980&t=54)** Many times you'll even hear it said as one word.
+> **[0:54](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/shipping-fast-with-ci-cd?u=76281980&t=54)** Many times you'll even hear it said as one [[Microsoft Word|word]].
 >
 > **[0:57](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/shipping-fast-with-ci-cd?u=76281980&t=57)** Just don't say "CIS-D".
 >
@@ -4899,7 +4859,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/shipping-fast-with-ci-cd?u=76281980&t=63)** Jokes aside, it is important to know that CI and CD are actually two separate concepts that are very closely related to each other.
 >
-> **[1:11](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/shipping-fast-with-ci-cd?u=76281980&t=71)** CI stands for continuous integration.
+> **[1:11](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/shipping-fast-with-ci-cd?u=76281980&t=71)** CI stands for [[Continuous Integration (CI)|continuous integration]].
 >
 > **[1:14](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/shipping-fast-with-ci-cd?u=76281980&t=74)** This concept focuses on the practice of constantly bringing changes to our source code together, safely and securely.
 >
@@ -4907,21 +4867,21 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/shipping-fast-with-ci-cd?u=76281980&t=85)** When you're working with source code that many people are contributing changes to, it's really easy for someone to introduce changes that break everything, or worse, allow people to break into everything.
 >
-> **[1:36](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/shipping-fast-with-ci-cd?u=76281980&t=96)** This is why us DevOps fanatics love talking about testing, testing, and more testing.
+> **[1:36](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/shipping-fast-with-ci-cd?u=76281980&t=96)** This is why us [[DevOps]] fanatics love talking about testing, testing, and more testing.
 >
 > **[1:41](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/shipping-fast-with-ci-cd?u=76281980&t=101)** Testing goes a long way towards preventing broken builds or insecure software from getting into your projects.
 >
-> **[1:49](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/shipping-fast-with-ci-cd?u=76281980&t=109)** CD stands for continuous deployment, not continuous delivery as you might sometimes hear out in the wild, though we will talk about that soon.
+> **[1:49](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/shipping-fast-with-ci-cd?u=76281980&t=109)** CD stands for continuous deployment, not [[Continuous Delivery (CD)|continuous delivery]] as you might sometimes hear out in the wild, though we will talk about that soon.
 >
-> **[1:57](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/shipping-fast-with-ci-cd?u=76281980&t=117)** Continuous deployment is all about shipping software somewhere where people can use it as automatically as possible. For us, we're doing that by using Terraform to ship Explore into AWS S3.
+> **[1:57](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/shipping-fast-with-ci-cd?u=76281980&t=117)** Continuous deployment is all about shipping software somewhere where people can use it as automatically as possible. For us, we're doing that by using [[Terraform]] to ship Explore into AWS S3.
 >
-> **[2:09](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/shipping-fast-with-ci-cd?u=76281980&t=129)** For some teams, like those deploying software into industrial equipment or IoT devices, this can get really, really complicated.
+> **[2:09](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/shipping-fast-with-ci-cd?u=76281980&t=129)** For some teams, like those deploying software into industrial equipment or [[IoT]] devices, this can get really, really complicated.
 >
 > **[2:18](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/shipping-fast-with-ci-cd?u=76281980&t=138)** Difficulty aside, the biggest benefit that CD brings to bear is the comfort in knowing that teams can update their software whenever they want.
 >
 > **[2:26](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/shipping-fast-with-ci-cd?u=76281980&t=146)** So if CI/CD isn't one thing, then why are they always discussed together?
 >
-> **[2:32](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/shipping-fast-with-ci-cd?u=76281980&t=152)** Well, if you think about it, being able to build, test and validate the security of changes to your software and deploy those changes out to customers is a really awesome way to react to your users' needs really quickly.
+> **[2:32](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/shipping-fast-with-ci-cd?u=76281980&t=152)** Well, if you think about it, being able to build, test and validate the security of changes to your software and deploy those changes out to customers is a really awesome way to [[React.js|react]] to your users' needs really quickly.
 >
 > **[2:45](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/shipping-fast-with-ci-cd?u=76281980&t=165)** However, you can't deploy changes quickly without knowing that your software is functional and secure, and being able to vet and secure your software continuously doesn't do you any good if you have to deploy those changes manually.
 >
@@ -4945,7 +4905,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ci (9), cd (9), aws (2), [[Continuous Delivery (CD)|Continuous delivery]] (2), teams (2)
+> **Frameworks & Libraries:** [[Continuous Delivery (CD)|Continuous delivery]] (2), [[Microsoft Word|Word]] (1), [[Continuous Integration (CI)|Continuous integration]] (1), [[DevOps]] (1), [[Terraform]] (1)
 > **CLI Commands:** cd (9), aws (2), terraform (1), make (1)
 > **Definitions:** stands for (2), is a  (2), means that (1)
 > **Env Vars:** aws (2), cis (1)
@@ -4954,18 +4914,17 @@ created: 2026-05-02
 > **Cross-References:** we discussed (1)
 > **Analogies:** imagine (1)
 
-#### Introducing GitLab CI
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/introducing-gitlab-ci-24075621?u=76281980)
+#### [Introducing GitLab CI](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/introducing-gitlab-ci-24075621?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/introducing-gitlab-ci-24075621?u=76281980&t=0)** As we mentioned earlier, we'll be using GitLab CI as our continuous delivery automation platform.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/introducing-gitlab-ci-24075621?u=76281980&t=0)** As we mentioned earlier, we'll be using GitLab CI as our [[Continuous Delivery (CD)|continuous delivery]] automation platform.
 >
 > **[0:05](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/introducing-gitlab-ci-24075621?u=76281980&t=5)** Let's learn more about it.
 >
 > **[0:07](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/introducing-gitlab-ci-24075621?u=76281980&t=7)** GitLab CI is a tool that makes it easy to build CI/CD pipelines that take software like Explore California into production.
 >
-> **[0:15](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/introducing-gitlab-ci-24075621?u=76281980&t=15)** If you've ever used GitHub Actions, CircleCI or Jenkins, you'll feel right at home with GitLab CI.
+> **[0:15](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/introducing-gitlab-ci-24075621?u=76281980&t=15)** If you've ever used [[GitHub]] Actions, CircleCI or [[Jenkins]], you'll feel right at home with GitLab CI.
 >
 > **[0:20](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/introducing-gitlab-ci-24075621?u=76281980&t=20)** There are three components that make GitLab CI work: the GitLab CI YAML file, to describe this, your laptop over here; the GitLab server and GitLab CI runners.
 >
@@ -4981,7 +4940,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/introducing-gitlab-ci-24075621?u=76281980&t=63)** What makes a runner a runner is having the GitLab CI runner agent installed.
 >
-> **[1:08](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/introducing-gitlab-ci-24075621?u=76281980&t=68)** As a result, runners can, well, run on just about anything: virtual machines, containers, Kubernetes pods, Raspberry Pis, smart toasters... Whatever you can think of, a GitLab CI runner can probably run in it.
+> **[1:08](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/introducing-gitlab-ci-24075621?u=76281980&t=68)** As a result, runners can, well, run on just about anything: [[Virtual Machines]], containers, [[Kubernetes]] pods, Raspberry Pis, smart toasters... Whatever you can think of, a GitLab CI runner can probably run in it.
 >
 > **[1:21](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/introducing-gitlab-ci-24075621?u=76281980&t=81)** Since we're running GitLab entirely in our own machine with containers, we'll be using another container to host our runner.
 >
@@ -5001,7 +4960,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ci (17), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Automation]] (1), cd (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Continuous Delivery (CD)|Continuous delivery]] (1), [[GitHub]] (1), [[Jenkins]] (1), [[Virtual Machines]] (1), [[Kubernetes]] (1)
 > **Tools:** gitlab (21), github (1)
 > **Env Vars:** yaml (4)
 > **CLI Commands:** cd (1), make (1)
@@ -5009,8 +4968,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
 
-#### Writing our first Gitlab CI workflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-our-first-gitlab-ci-workflow-24080521?u=76281980)
+#### [Writing our first Gitlab CI workflow](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-our-first-gitlab-ci-workflow-24080521?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5038,7 +4996,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-our-first-gitlab-ci-workflow-24080521?u=76281980&t=60)** Now this gets a little interesting for us.
 >
-> **[1:03](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-our-first-gitlab-ci-workflow-24080521?u=76281980&t=63)** We've been using Docker compose throughout building, testing and deploying Explore California.
+> **[1:03](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-our-first-gitlab-ci-workflow-24080521?u=76281980&t=63)** We've been using Docker [[Jetpack Compose|compose]] throughout building, testing and deploying Explore California.
 >
 > **[1:08](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-our-first-gitlab-ci-workflow-24080521?u=76281980&t=68)** However, GitLab and the GitLab CI runner, which we'll cover shortly, also run in Docker.
 >
@@ -5054,7 +5012,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-our-first-gitlab-ci-workflow-24080521?u=76281980&t=95)** Docker through Docker allows a container to talk to Docker's container runtime on your real machine, and instruct it to create or delete containers.
 >
-> **[1:44](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-our-first-gitlab-ci-workflow-24080521?u=76281980&t=104)** If you've been using Windows or Mac throughout this course, because your instance of Docker runs in a tiny Linux VM, you've actually sort of been using this technique this whole tim. Through Docker in Docker, on the other hand, it creates a Docker container that can run its own container runtime.
+> **[1:44](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-our-first-gitlab-ci-workflow-24080521?u=76281980&t=104)** If you've been using [[Windows]] or Mac throughout this course, because your instance of Docker runs in a tiny [[Linux]] VM, you've actually sort of been using this technique this whole tim. Through Docker in Docker, on the other hand, it creates a Docker container that can run its own container runtime.
 >
 > **[2:00](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-our-first-gitlab-ci-workflow-24080521?u=76281980&t=120)** This is an advanced technique that we won't cover here.
 >
@@ -5102,7 +5060,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-our-first-gitlab-ci-workflow-24080521?u=76281980&t=217)** This tells GitLab CI that we want to run a script after this job finishes, regardless of whether it succeeds or failed.
 >
-> **[3:44](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-our-first-gitlab-ci-workflow-24080521?u=76281980&t=224)** We're going to have this set to "docker compose stop selenium website".
+> **[3:44](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-our-first-gitlab-ci-workflow-24080521?u=76281980&t=224)** We're going to have this set to "docker compose stop [[Selenium]] website".
 >
 > **[3:50](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-our-first-gitlab-ci-workflow-24080521?u=76281980&t=230)** This ensures that we have a clean instance of Selenium after every CI/CD run.
 >
@@ -5202,7 +5160,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ci (12), [[Jetpack Compose|Compose]] (9), [[Selenium]] (7), next (5), cd (3)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (9), [[Selenium]] (7), [[Windows]] (1), [[Linux]] (1)
 > **CLI Commands:** docker (27), make (6), rm (5), cd (3), aws (3)
 > **Tools:** gitlab (14)
 > **Code Identifiers:** after_script (6), before_script (3), website_url (2)
@@ -5211,8 +5169,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1), is an  (1), is called (1)
 > **File Paths:** gitlab-ci.yml (2)
 
-#### Configuring sensitive variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/configuring-sensitive-variables-24080520?u=76281980)
+#### [Configuring sensitive variables](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/configuring-sensitive-variables-24080520?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5238,7 +5195,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/configuring-sensitive-variables-24080520?u=76281980&t=47)** Nice.
 >
-> **[0:49](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/configuring-sensitive-variables-24080520?u=76281980&t=49)** So just like before this will give us our access key, secret key and session token in JSON form.
+> **[0:49](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/configuring-sensitive-variables-24080520?u=76281980&t=49)** So just like before this will give us our access key, secret key and session token in [[JSON]] form.
 >
 > **[0:54](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/configuring-sensitive-variables-24080520?u=76281980&t=54)** Let's define our access key.
 >
@@ -5278,7 +5235,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/configuring-sensitive-variables-24080520?u=76281980&t=126)** Finally we're going to add another variable here called "ACTUAL_PWD".
 >
-> **[2:12](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/configuring-sensitive-variables-24080520?u=76281980&t=132)** So you've probably seen a couple of references to this environment variable every time we've gone through the docker compose manifest.
+> **[2:12](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/configuring-sensitive-variables-24080520?u=76281980&t=132)** So you've probably seen a couple of references to this environment variable every time we've gone through the docker [[Jetpack Compose|compose]] manifest.
 >
 > **[2:20](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/configuring-sensitive-variables-24080520?u=76281980&t=140)** I can finally answer why that is.
 >
@@ -5302,7 +5259,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ci (6), next (4), aws (4), cd (2), [[JSON]] (2)
+> **Frameworks & Libraries:** [[JSON]] (2), [[Jetpack Compose|Compose]] (2)
 > **CLI Commands:** aws (4), docker (4), cd (2)
 > **Tools:** gitlab (8), terminal (2)
 > **Env Vars:** aws (4), json (2), actual_pwd (1), pwd (1)
@@ -5311,8 +5268,7 @@ created: 2026-05-02
 > **File Paths:** gitlab-ci.yml (1)
 > **URLs:** [example.com](https://example.com) (1)
 
-#### Creating our first Gitlab CI runner
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/creating-our-first-gitlab-ci-runner-24077622?u=76281980)
+#### [Creating our first Gitlab CI runner](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/creating-our-first-gitlab-ci-runner-24077622?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5322,7 +5278,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/creating-our-first-gitlab-ci-runner-24077622?u=76281980&t=7)** First, we'll use the GitLab UI to register a new runner that's assigned to our project.
 >
-> **[0:12](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/creating-our-first-gitlab-ci-runner-24077622?u=76281980&t=12)** Afterwards, we'll hop into our terminal to connect our GitLab runner within Compose to GitLab.
+> **[0:12](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/creating-our-first-gitlab-ci-runner-24077622?u=76281980&t=12)** Afterwards, we'll hop into our terminal to connect our GitLab runner within [[Jetpack Compose|Compose]] to GitLab.
 >
 > **[0:17](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/creating-our-first-gitlab-ci-runner-24077622?u=76281980&t=17)** Let's get to it!
 >
@@ -5334,11 +5290,11 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/creating-our-first-gitlab-ci-runner-24077622?u=76281980&t=44)** Let's configure our runner now.
 >
-> **[0:46](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/creating-our-first-gitlab-ci-runner-24077622?u=76281980&t=46)** First, leave Linux as the operating system selected.
+> **[0:46](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/creating-our-first-gitlab-ci-runner-24077622?u=76281980&t=46)** First, leave [[Linux]] as the operating system selected.
 >
 > **[0:50](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/creating-our-first-gitlab-ci-runner-24077622?u=76281980&t=50)** In the Tags section here, you can add tags that allow you to exclude this runner to specific kinds of jobs.
 >
-> **[0:56](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/creating-our-first-gitlab-ci-runner-24077622?u=76281980&t=56)** This is useful in lots of situations, like having Linux runners that build no jobs, and Windows runners that build .Net or Windows-specific jobs.
+> **[0:56](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/creating-our-first-gitlab-ci-runner-24077622?u=76281980&t=56)** This is useful in lots of situations, like having Linux runners that build no jobs, and [[Windows]] runners that build .Net or Windows-specific jobs.
 >
 > **[1:05](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/creating-our-first-gitlab-ci-runner-24077622?u=76281980&t=65)** Since this is the only runner that we'll create for Explore California, we can leave this blank and instead we'll check Run Untagged Jobs so that this runner will respond to any job that GitLab sends it.
 >
@@ -5402,7 +5358,7 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/creating-our-first-gitlab-ci-runner-24077622?u=76281980&t=233)** So let's go ahead and put that in now.
 >
-> **[3:55](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/creating-our-first-gitlab-ci-runner-24077622?u=76281980&t=235)** I'm going to type "docker: 26.0.0-cli-alpine3.19".
+> **[3:55](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/creating-our-first-gitlab-ci-runner-24077622?u=76281980&t=235)** I'm going to type "docker: 26.0.0-[[CLI]]-alpine3.19".
 >
 > **[4:04](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/creating-our-first-gitlab-ci-runner-24077622?u=76281980&t=244)** Now, my memory is horrible.
 >
@@ -5442,7 +5398,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), [[Jetpack Compose|Compose]] (6), hit (6), ci (5), [[CLI]] (5)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (6), [[CLI]] (5), [[Linux]] (3), [[Windows]] (2)
 > **CLI Commands:** docker (15), cd (4), make (1), rm (1), find (1)
 > **Tools:** gitlab (17), terminal (3)
 > **UI Navigation:** click on (7), scroll down (1), open the (1), go to (1)
@@ -5451,8 +5407,7 @@ created: 2026-05-02
 > **Versions:** 26.0.0 (1), 26.12 (1), 26.1 (1)
 > **Prerequisites:** configure (2)
 
-#### Putting it all together
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/putting-it-all-together-24075619?u=76281980)
+#### [Putting it all together](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/putting-it-all-together-24075619?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5506,7 +5461,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/putting-it-all-together-24075619?u=76281980&t=107)** So I'm going to click Enter to refresh my credentials.
 >
-> **[1:50](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/putting-it-all-together-24075619?u=76281980&t=110)** And you should get a JSON blob on your screen like this.
+> **[1:50](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/putting-it-all-together-24075619?u=76281980&t=110)** And you should get a [[JSON]] blob on your screen like this.
 >
 > **[1:52](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/putting-it-all-together-24075619?u=76281980&t=112)** So now what I'm going to do is copy each credential, like our access key ID, and simply edit the variables that I'm looking to replace, paste in the replacement and then save our changes.
 >
@@ -5538,7 +5493,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/putting-it-all-together-24075619?u=76281980&t=206)** This is Docker in Docker in action.
 >
-> **[3:29](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/putting-it-all-together-24075619?u=76281980&t=209)** The Docker Compose program within our GitLab runner uses the Docker host environment variable to tell our instance of Docker to create the same containers that we created by hand earlier.
+> **[3:29](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/putting-it-all-together-24075619?u=76281980&t=209)** The Docker [[Jetpack Compose|Compose]] program within our GitLab runner uses the Docker host environment variable to tell our instance of Docker to create the same containers that we created by hand earlier.
 >
 > **[3:39](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/putting-it-all-together-24075619?u=76281980&t=219)** As a result, the containers that our runner created will live alongside our other containers like we're seeing here.
 >
@@ -5576,13 +5531,13 @@ created: 2026-05-02
 >
 > **[5:22](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/putting-it-all-together-24075619?u=76281980&t=322)** We did it, y'all!
 >
-> **[5:23](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/putting-it-all-together-24075619?u=76281980&t=323)** Explore California has successfully been DevOps'd!
+> **[5:23](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/putting-it-all-together-24075619?u=76281980&t=323)** Explore California has successfully been [[DevOps]]'d!
 >
 > **[5:27](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/putting-it-all-together-24075619?u=76281980&t=327)** Great work.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (6), ci (3), cd (3), next (2), hit (2)
+> **Frameworks & Libraries:** [[JSON]] (1), [[Jetpack Compose|Compose]] (1), [[DevOps]] (1)
 > **CLI Commands:** docker (11), aws (6), cd (3)
 > **UI Navigation:** click on (6), scroll down (1), go to (1)
 > **Env Vars:** aws (6), json (1)
@@ -5591,8 +5546,7 @@ created: 2026-05-02
 > **URLs:** [example.com](https://example.com) (1)
 > **Definitions:** is a  (1)
 
-#### Challenge: Change the website title
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/challenge-change-the-website-title-24077625?u=76281980)
+#### [Challenge: Change the website title](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/challenge-change-the-website-title-24077625?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5606,7 +5560,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/challenge-change-the-website-title-24077625?u=76281980&t=21)** Your solution must have unit and integration tests accompany it, and both of those tests must pass.
 >
-> **[0:28](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/challenge-change-the-website-title-24077625?u=76281980&t=28)** In the second part of this challenge, I'd like you to add a test stage called "check" to GitLab CI that uses the "ls" command that we've been using throughout this course to display the contents of your Git repository before running unit tests.
+> **[0:28](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/challenge-change-the-website-title-24077625?u=76281980&t=28)** In the second part of this challenge, I'd like you to add a test stage called "check" to GitLab CI that uses the "ls" command that we've been using throughout this course to display the contents of your [[Git]] repository before running unit tests.
 >
 > **[0:43](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/challenge-change-the-website-title-24077625?u=76281980&t=43)** I would also like you to change the unit test stage to depend on this "check" stage.
 >
@@ -5618,13 +5572,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ci (2), [[Git]] (1)
+> **Frameworks & Libraries:** [[Git]] (1)
 > **CLI Commands:** ls (1), git (1)
 > **Tools:** gitlab (2)
 > **UI Navigation:** click on (1)
 
-#### Solution: Change the website title
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/solution-change-the-website-title-24081426?u=76281980)
+#### [Solution: Change the website title](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/solution-change-the-website-title-24081426?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5642,7 +5595,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/solution-change-the-website-title-24081426?u=76281980&t=30)** However, it's always great to add a test before you make that change.
 >
-> **[0:34](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/solution-change-the-website-title-24081426?u=76281980&t=34)** We call this test-driven development and here's an example of how you do that.
+> **[0:34](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/solution-change-the-website-title-24081426?u=76281980&t=34)** We call this [[Test-Driven Development]] and here's an example of how you do that.
 >
 > **[0:39](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/solution-change-the-website-title-24081426?u=76281980&t=39)** So what we're going to do is we're going to start with the unit test.
 >
@@ -5668,7 +5621,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/solution-change-the-website-title-24081426?u=76281980&t=99)** Save that change.
 >
-> **[1:41](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/solution-change-the-website-title-24081426?u=76281980&t=101)** And then we're going to go ahead and exit our editor and then run "docker compose run --rm unit-tests".
+> **[1:41](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/solution-change-the-website-title-24081426?u=76281980&t=101)** And then we're going to go ahead and exit our editor and then run "docker [[Jetpack Compose|compose]] run --rm unit-tests".
 >
 > **[1:50](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/solution-change-the-website-title-24081426?u=76281980&t=110)** Now if you ran this command like this and you got a passing test, that should not have happened! Because remember, you need to build the container image before running these tests, since our Dockerfile is copying our tests into the container's image.
 >
@@ -5800,7 +5753,7 @@ created: 2026-05-02
 >
 > **[6:57](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/solution-change-the-website-title-24081426?u=76281980&t=417)** So, in the challenge... Let's actually open that pipeline first.
 >
-> **[7:02](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/solution-change-the-website-title-24081426?u=76281980&t=422)** So, in the challenge we were asked to provide a stage called "check" that the unit test stage depends on that simply lists the contents of our Git repository.
+> **[7:02](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/solution-change-the-website-title-24081426?u=76281980&t=422)** So, in the challenge we were asked to provide a stage called "check" that the unit test stage depends on that simply lists the contents of our [[Git]] repository.
 >
 > **[7:14](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/solution-change-the-website-title-24081426?u=76281980&t=434)** So there are a couple of things that we were testing here.
 >
@@ -5882,7 +5835,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (14), ci (5), aws (3), [[Test-Driven Development]] (1), next (1)
+> **Frameworks & Libraries:** [[Git]] (14), [[Test-Driven Development]] (1), [[Jetpack Compose|Compose]] (1)
 > **CLI Commands:** git (14), make (6), aws (3), docker (1), rm (1)
 > **UI Navigation:** click on (5), scroll down (1), go to (1)
 > **Code Identifiers:** website_url (3), page_spec (1), before_script (1), after_script (1)
@@ -5896,16 +5849,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/next-steps-24082454?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/next-steps-24082454?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/next-steps-24082454?u=76281980&t=0)** So we've taken our awesome Explore California website and turbocharged it with DevOps principles and tooling.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/next-steps-24082454?u=76281980&t=0)** So we've taken our awesome Explore California website and turbocharged it with [[DevOps]] principles and tooling.
 >
-> **[0:06](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/next-steps-24082454?u=76281980&t=6)** We're now tracking changes to Explore California with Git so that we can always keep our work safe.
+> **[0:06](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/next-steps-24082454?u=76281980&t=6)** We're now tracking changes to Explore California with [[Git]] so that we can always keep our work safe.
 >
-> **[0:11](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/next-steps-24082454?u=76281980&t=11)** We can also now run our website locally with Docker, test it locally with RSpec, Capybara and Selenium, add automated CI/CD with code on GitLab CI and deploy it onto AWS with OpenTofu.
+> **[0:11](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/next-steps-24082454?u=76281980&t=11)** We can also now run our website locally with Docker, test it locally with RSpec, Capybara and [[Selenium]], add automated CI/CD with code on GitLab CI and deploy it onto AWS with OpenTofu.
 >
 > **[0:25](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/next-steps-24082454?u=76281980&t=25)** We've gone a long way, but what's next?
 >
@@ -5919,11 +5871,11 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/next-steps-24082454?u=76281980&t=52)** However, when you have thousands of containers running in production, things can get complex fast.
 >
-> **[0:58](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/next-steps-24082454?u=76281980&t=58)** That's where Kubernetes comes in.
+> **[0:58](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/next-steps-24082454?u=76281980&t=58)** That's where [[Kubernetes]] comes in.
 >
 > **[1:00](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/next-steps-24082454?u=76281980&t=60)** Kubernetes is a container orchestrator that specializes in making it easy to run very short-lived containers at scale with minimal headaches.
 >
-> **[1:09](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/next-steps-24082454?u=76281980&t=69)** Like Docker Compose, you create a manifest describing your application and what it needs to run, including other containers and other dependencies like load balancing and sensitive secrets.
+> **[1:09](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/next-steps-24082454?u=76281980&t=69)** Like Docker [[Jetpack Compose|Compose]], you create a manifest describing your application and what it needs to run, including other containers and other dependencies like load balancing and sensitive secrets.
 >
 > **[1:19](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/next-steps-24082454?u=76281980&t=79)** However, unlike Compose, Kubernetes handles creating, maintaining, updating, scaling, and removing those containers for you no matter where in the world your app is running.
 >
@@ -5957,7 +5909,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), ci (3), [[Kubernetes]] (3), [[Security]] (3), cd (2)
+> **Frameworks & Libraries:** [[Kubernetes]] (3), [[Jetpack Compose|Compose]] (2), [[DevOps]] (1), [[Git]] (1), [[Selenium]] (1)
 > **CLI Commands:** docker (4), cd (2), git (1), aws (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** aws (1)

@@ -84,8 +84,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing common business modeling tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/introducing-common-business-modeling-tools?u=76281980)
+#### [Introducing common business modeling tools](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/introducing-common-business-modeling-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -109,13 +108,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4)
 > **CLI Commands:** make (2)
 > **Analogies:** picture (1)
 > **Speakers:** - a (1)
 
-#### Define process modeling
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/define-process-modeling?u=76281980)
+#### [Define process modeling](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/define-process-modeling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -171,19 +168,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (10)
 > **Analogies:** picture (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - have (1)
 
-#### Overview of modeling tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/overview-of-modeling-tools-2?u=76281980)
+#### [Overview of modeling tools](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/overview-of-modeling-tools-2?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/overview-of-modeling-tools-2?u=76281980&t=1)** - Throughout the world organizations use models and modeling as a cost effective way to share and demonstrate the concepts and designs to larger audiences to receive feedback on what is to come.
 >
-> **[0:13](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/overview-of-modeling-tools-2?u=76281980&t=13)** You may know this as prototyping.
+> **[0:13](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/overview-of-modeling-tools-2?u=76281980&t=13)** You may know this as [[Prototyping]].
 >
 > **[0:16](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/overview-of-modeling-tools-2?u=76281980&t=16)** Organizations use business process modeling tools in the same way to determine what is being performed today in our current state and what is planned as the expected future state.
 >
@@ -247,13 +242,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (12), business (5), next (2), [[Prototyping]] (1)
+> **Frameworks & Libraries:** [[Prototyping]] (1)
 > **Definitions:** is a  (1), known as (1)
 > **Analogies:** picture (1)
 > **Speakers:** - throughout (1)
 
-#### Modeling consistency and standards
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/modeling-consistency-and-standards-2?u=76281980)
+#### [Modeling consistency and standards](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/modeling-consistency-and-standards-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -297,7 +291,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/modeling-consistency-and-standards-2?u=76281980&t=153)** When you come to documenting your diagrams, there are a number of readily available software applications that can support this kind of mapping.
 >
-> **[2:41](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/modeling-consistency-and-standards-2?u=76281980&t=161)** The most common or professionally preferred is Microsoft Visio.
+> **[2:41](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/modeling-consistency-and-standards-2?u=76281980&t=161)** The most common or professionally preferred is [[Microsoft]] Visio.
 >
 > **[2:45](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/modeling-consistency-and-standards-2?u=76281980&t=165)** This tool is perfect for cross-functional flow and flow chart process maps.
 >
@@ -307,7 +301,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), functional (3), [[Microsoft]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** uml (1), bpmn (1)
 > **Definitions:** is a  (2)
@@ -319,8 +313,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The purpose of the context diagram
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/the-purpose-of-the-context-diagram?u=76281980)
+#### [The purpose of the context diagram](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/the-purpose-of-the-context-diagram?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -352,7 +345,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/the-purpose-of-the-context-diagram?u=76281980&t=90)** In the example, we see that the customer places a purchase order against the organization.
 >
-> **[1:35](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/the-purpose-of-the-context-diagram?u=76281980&t=95)** The organization sends the products and invoice back to the customer.
+> **[1:35](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/the-purpose-of-the-context-diagram?u=76281980&t=95)** The organization sends the [[Microsoft Products|products]] and invoice back to the customer.
 >
 > **[1:39](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/the-purpose-of-the-context-diagram?u=76281980&t=99)** And the customer then makes payment to the organization.
 >
@@ -386,14 +379,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Microsoft Products|Products]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (2)
 > **Analogies:** picture (1)
 > **Speakers:** - have (1)
 
-#### Context diagram features
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/context-diagram-features-2?u=76281980)
+#### [Context diagram features](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/context-diagram-features-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -463,7 +455,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/context-diagram-features-2?u=76281980&t=199)** These are the processes needed in achieving the expected outcome of the external entity.
 >
-> **[3:26](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/context-diagram-features-2?u=76281980&t=206)** Each arrow represents the flow of information, data, products, artifacts being sent between the organization and the external entity.
+> **[3:26](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/context-diagram-features-2?u=76281980&t=206)** Each arrow represents the flow of information, data, [[Microsoft Products|products]], artifacts being sent between the organization and the external entity.
 >
 > **[3:35](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/context-diagram-features-2?u=76281980&t=215)** These flows should be labeled to provide further context.
 >
@@ -483,15 +475,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), data (2), [[Microsoft Products|Products]] (1), functional (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** known as (1)
 > **Analogies:** just like (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - ask (1)
 
-#### How to create a context diagram
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/how-to-create-a-context-diagram-2?u=76281980)
+#### [How to create a context diagram](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/how-to-create-a-context-diagram-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -563,15 +554,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), game (1)
 > **Analogies:** picture (1), for instance (1), such as (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** template (1)
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - as (1)
 
-#### Pitfalls of context diagrams
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/pitfalls-of-context-diagrams?u=76281980)
+#### [Pitfalls of context diagrams](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/pitfalls-of-context-diagrams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -629,7 +618,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), functional (2), business (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 > **Best Practices:** best practice (1)
@@ -641,8 +629,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The purpose of the functional flow diagram
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/the-purpose-of-the-functional-flow-diagram?u=76281980)
+#### [The purpose of the functional flow diagram](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/the-purpose-of-the-functional-flow-diagram?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -692,13 +679,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (17), next (2), data (1), management (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (1)
 > **Speakers:** - have (1)
 
-#### Functional flow diagram features
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/functional-flow-diagram-features-2?u=76281980)
+#### [Functional flow diagram features](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/functional-flow-diagram-features-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -722,7 +707,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/functional-flow-diagram-features-2?u=76281980&t=78)** This could be an online purchase, a call into a support area, a front customer service query.
 >
-> **[1:24](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/functional-flow-diagram-features-2?u=76281980&t=84)** Governments around the world offer services, companies sell and deliver products, and charities deliver support, and all of this is based on the need and wants of the customer.
+> **[1:24](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/functional-flow-diagram-features-2?u=76281980&t=84)** Governments around the world offer services, companies sell and deliver [[Microsoft Products|products]], and charities deliver support, and all of this is based on the need and wants of the customer.
 >
 > **[1:36](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/functional-flow-diagram-features-2?u=76281980&t=96)** When a customer initiates a transaction request, this creates a trigger internally to your organization.
 >
@@ -756,13 +741,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (15), data (2), teams (1), [[Microsoft Products|Products]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (2), defined as (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - elegance (1)
 
-#### How to create a functional flow diagram
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/how-to-create-a-functional-flow-diagram-2?u=76281980)
+#### [How to create a functional flow diagram](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/how-to-create-a-functional-flow-diagram-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -830,13 +814,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (9), next (1), product (1)
 > **CLI Commands:** make (1)
 > **Warnings:** note that (1)
 > **Speakers:** - so (1)
 
-#### Pitfalls of functional flow diagrams
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/pitfalls-of-functional-flow-diagrams?u=76281980)
+#### [Pitfalls of functional flow diagrams](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/pitfalls-of-functional-flow-diagrams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -890,7 +872,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (15), data (1), next (1)
 > **Definitions:** is a  (2)
 > **Warnings:** keep in mind (1), warning (1)
 > **UI Navigation:** open the (1)
@@ -902,8 +883,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The purpose of the cross-functional flow diagram
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/the-purpose-of-the-cross-functional-flow-diagram?u=76281980)
+#### [The purpose of the cross-functional flow diagram](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/the-purpose-of-the-cross-functional-flow-diagram?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -929,7 +909,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/the-purpose-of-the-cross-functional-flow-diagram?u=76281980&t=62)** Even at the cross-functional flow level, comparative analysis can begin.
 >
-> **[1:07](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/the-purpose-of-the-cross-functional-flow-diagram?u=76281980&t=67)** A current state, or as is, cross-functional flow diagram is extremely useful in identifying and breaking down the existing complex business processes and identifying unnecessary routing of work between the functional areas.
+> **[1:07](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/the-purpose-of-the-cross-functional-flow-diagram?u=76281980&t=67)** A current state, or as is, cross-functional flow diagram is extremely useful in identifying and breaking down the existing complex business processes and identifying unnecessary [[Routing]] of work between the functional areas.
 >
 > **[1:22](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/the-purpose-of-the-cross-functional-flow-diagram?u=76281980&t=82)** Analyzing these processes and the time it takes to move from one process to the next can help identify inefficiencies and where processes can be streamlined and improved.
 >
@@ -953,12 +933,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (11), hit (2), next (2), game (1), business (1)
+> **Frameworks & Libraries:** [[Routing]] (1)
 > **Definitions:** in other words (1), is a  (1)
 > **Speakers:** - i (1)
 
-#### Cross-functional flow diagram features
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/cross-functional-flow-diagram-features-2?u=76281980)
+#### [Cross-functional flow diagram features](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/cross-functional-flow-diagram-features-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1050,18 +1029,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (11), next (4), parallel (1), feature (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** just like (1), for instance (1)
 > **Speakers:** - swimmers (1)
 
-#### How to create a cross-functional flow diagram
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/how-to-create-a-cross-functional-flow-diagram-2?u=76281980)
+#### [How to create a cross-functional flow diagram](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/how-to-create-a-cross-functional-flow-diagram-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/how-to-create-a-cross-functional-flow-diagram-2?u=76281980&t=1)** - Just like a jigsaw puzzle, you need all the pieces in a project to fit together to create the whole picture.
+> **[0:01](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/how-to-create-a-cross-functional-flow-diagram-2?u=76281980&t=1)** - Just like a [[Jigsaw]] puzzle, you need all the pieces in a project to fit together to create the whole picture.
 >
 > **[0:07](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/how-to-create-a-cross-functional-flow-diagram-2?u=76281980&t=7)** Creating a cross-functional flow diagram is best achieved after you have validated the pieces of your functional flow diagram.
 >
@@ -1133,7 +1110,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (11), business (2), [[Jigsaw]] (1), next (1)
+> **Frameworks & Libraries:** [[Jigsaw]] (1)
 > **Analogies:** just like (1), picture (1), such as (1)
 > **CLI Commands:** make (1), find (1)
 > **Exercise Files:** template (1)
@@ -1142,8 +1119,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - just (1)
 
-#### Pitfalls of cross-functional diagrams
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/pitfalls-of-cross-functional-diagrams?u=76281980)
+#### [Pitfalls of cross-functional diagrams](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/pitfalls-of-cross-functional-diagrams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1221,7 +1197,7 @@ created: 2026-05-02
 >
 > **[4:13](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/pitfalls-of-cross-functional-diagrams?u=76281980&t=253)** Sending documents out prior to the walkthrough session and requesting attendees come prepared with questions can speed this process up.
 >
-> **[4:21](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/pitfalls-of-cross-functional-diagrams?u=76281980&t=261)** Next, maintain good version control.
+> **[4:21](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/pitfalls-of-cross-functional-diagrams?u=76281980&t=261)** Next, maintain good [[Version Control]].
 >
 > **[4:25](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/pitfalls-of-cross-functional-diagrams?u=76281980&t=265)** Ensure the models are the most current as you make any changes so as to ensure everyone is working off the correct version.
 >
@@ -1233,7 +1209,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (7), business (4), next (1), [[Version Control]] (1)
+> **Frameworks & Libraries:** [[Version Control]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Best Practices:** general rule (1), rule of thumb (1), the key is (1)
@@ -1245,8 +1221,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The purpose of the flowchart diagram
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/the-purpose-of-the-flowchart-diagram?u=76281980)
+#### [The purpose of the flowchart diagram](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/the-purpose-of-the-flowchart-diagram?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1310,15 +1285,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (4), business (2)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1), is called (1)
 > **Env Vars:** krac (1)
 > **Analogies:** just like (1)
 > **Speakers:** - have (1)
 
-#### Flowchart diagram features
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/flowchart-diagram-features-2?u=76281980)
+#### [Flowchart diagram features](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/flowchart-diagram-features-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1386,14 +1359,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (6)
 > **Definitions:** means that (1), in other words (1)
 > **Analogies:** such as (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - flowchart (1)
 
-#### How to create a flowchart diagram
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/how-to-create-a-flowchart-diagram-2?u=76281980)
+#### [How to create a flowchart diagram](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/how-to-create-a-flowchart-diagram-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1469,13 +1440,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (5)
 > **Definitions:** known as (1), means that (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - i (1)
 
-#### Pitfalls of flowchart diagrams
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/pitfalls-of-flowchart-diagrams?u=76281980)
+#### [Pitfalls of flowchart diagrams](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/pitfalls-of-flowchart-diagrams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1549,7 +1518,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (6), business (1), next (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** just like (1)
 > **Speakers:** - i (1)
@@ -1559,8 +1527,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to determine which diagram to use and why
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/how-to-determine-which-diagram-to-use-and-why?u=76281980)
+#### [How to determine which diagram to use and why](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/how-to-determine-which-diagram-to-use-and-why?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1580,7 +1547,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/how-to-determine-which-diagram-to-use-and-why?u=76281980&t=48)** This is called the context diagram.
 >
-> **[0:51](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/how-to-determine-which-diagram-to-use-and-why?u=76281980&t=51)** Context diagram captures the relationships, input, and outputs that help your organization understand what is needed by these external entity relationships to deliver products and services to customers.
+> **[0:51](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/how-to-determine-which-diagram-to-use-and-why?u=76281980&t=51)** Context diagram captures the relationships, input, and outputs that help your organization understand what is needed by these external entity relationships to deliver [[Microsoft Products|products]] and services to customers.
 >
 > **[1:04](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/how-to-determine-which-diagram-to-use-and-why?u=76281980&t=64)** These diagrams assist in understanding who and what you do to comply or influence in achieving the outcomes you're expecting.
 >
@@ -1618,14 +1585,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (7), business (2), [[Microsoft Products|Products]] (1), product (1), management (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** picture (1), imagine (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - start (1)
 
-#### Put modeling into action
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/put-modeling-into-action?u=76281980)
+#### [Put modeling into action](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/put-modeling-into-action?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1685,7 +1651,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/put-modeling-into-action?u=76281980&t=177)** And finally, to achieve sign off or approval, ensure that you have the key stakeholders who are responsible for sign off present at your walk-through sessions.
 >
-> **[3:06](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/put-modeling-into-action?u=76281980&t=186)** I'd also recommend that you include representation from the ones who will be using your maps whether that is for training purposes or organizational change management needs.
+> **[3:06](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/put-modeling-into-action?u=76281980&t=186)** I'd also recommend that you include representation from the ones who will be using your maps whether that is for training purposes or [[Organizational Change Management]] needs.
 >
 > **[3:16](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/put-modeling-into-action?u=76281980&t=196)** Modeling is an awesome way to leverage the use of visuals.
 >
@@ -1693,7 +1659,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), functional (1), next (1), [[Organizational Change Management]] (1)
+> **Frameworks & Libraries:** [[Organizational Change Management]] (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** you'll need (1), set up (1)
 > **Env Vars:** sme (1)

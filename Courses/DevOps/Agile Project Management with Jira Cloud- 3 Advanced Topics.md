@@ -70,20 +70,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Course overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/course-overview?u=76281980)
+#### [Course overview](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/course-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/course-overview?u=76281980&t=0)** - [Instructor] Welcome to Course Three of the Agile Project Management with Jira Cloud Edition course series.
+> **[0:00](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/course-overview?u=76281980&t=0)** - [Instructor] Welcome to Course Three of the [[Agile Development|Agile]] Project Management with [[Jira]] Cloud Edition course series.
 >
-> **[0:06](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/course-overview?u=76281980&t=6)** At Atlassian University, our mission is to help Atlassian users like you develop new skills, improve your team's work, and advance your professional career.
+> **[0:06](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/course-overview?u=76281980&t=6)** At [[Atlassian]] University, our mission is to help Atlassian users like you develop new skills, improve your team's work, and advance your professional career.
 >
 > **[0:16](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/course-overview?u=76281980&t=16)** In this series, we will be learning how to use lean and agile principles, help to identify different agile methodologies, and how to configure Jira to match your team's processes.
 >
 > **[0:28](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/course-overview?u=76281980&t=28)** Now let's take a look at what you'll be learning in course three.
 >
-> **[0:32](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/course-overview?u=76281980&t=32)** In this course, you learn how to use filters, identify and classify epics, and how to use dashboards.
+> **[0:32](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/course-overview?u=76281980&t=32)** In this course, you learn how to use filters, identify and classify epics, and how to use [[Dashboards]].
 >
 > **[0:40](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/course-overview?u=76281980&t=40)** This course does not assume you have any existing or prior knowledge of Jira and agile methods.
 >
@@ -113,7 +112,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (6), [[Agile Development|Agile]] (4), cloud (4), [[Atlassian]] (4), next (3)
+> **Frameworks & Libraries:** [[Jira]] (6), [[Agile Development|Agile]] (4), [[Atlassian]] (4), [[Dashboards]] (2)
 > **Tools:** jira (6)
 > **UI Navigation:** go to (1), scroll down (1)
 > **Prerequisites:** configure (2)
@@ -126,8 +125,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Filters
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/filters?u=76281980)
+#### [Filters](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/filters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -159,7 +157,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/filters?u=76281980&t=66)** If you click on the New Subscription link, you'll see the dialogue in the lower right, subscriptions, email recipients, the query results at a rate specified in the subscription.
 >
-> **[1:17](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/filters?u=76281980&t=77)** The recipients can be specific users or members of Jira groups.
+> **[1:17](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/filters?u=76281980&t=77)** The recipients can be specific users or members of [[Jira]] groups.
 >
 > **[1:21](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/filters?u=76281980&t=81)** In this case, this is a personal subscription.
 >
@@ -167,7 +165,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/filters?u=76281980&t=89)** You can also click on View All Filters in the sidebar to see your filter.
 >
-> **[1:34](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/filters?u=76281980&t=94)** You can click on the more icon to the right of the filter to change metadata related to the filter.
+> **[1:34](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/filters?u=76281980&t=94)** You can click on the more icon to the right of the filter to change [[Metadata]] related to the filter.
 >
 > **[1:41](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/filters?u=76281980&t=101)** You can select your filter and change the search.
 >
@@ -223,15 +221,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (5), next (2), [[Jira]] (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Jira]] (1), [[Metadata]] (1)
 > **UI Navigation:** click on (7), in the sidebar (2), dropdown (1)
 > **Env Vars:** prjct (2), jql (1), prj (1)
 > **Definitions:** known as (1), is a  (1)
 > **Tools:** jira (1)
 > **Speakers:** - [instructor] (1)
 
-#### Lab: Cloud company-managed
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/lab-cloud-company-managed?u=76281980)
+#### [Lab: Cloud company-managed](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/lab-cloud-company-managed?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -293,7 +290,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/lab-cloud-company-managed?u=76281980&t=158)** We can perform a full text search.
 >
-> **[2:40](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/lab-cloud-company-managed?u=76281980&t=160)** Only issues with the word item are shown.
+> **[2:40](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/lab-cloud-company-managed?u=76281980&t=160)** Only issues with the [[Microsoft Word|word]] item are shown.
 >
 > **[2:44](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/lab-cloud-company-managed?u=76281980&t=164)** We can also click a user icon to display only the issues assigned to that user.
 >
@@ -347,7 +344,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (7), next (4), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **UI Navigation:** go to (3), select the (2), in the sidebar (1), switch to (1), dropdown (1)
 > **Cross-References:** go back to (2), in the last (1)
 > **Analogies:** for example (1), just like (1), such as (1)
@@ -355,8 +352,7 @@ created: 2026-05-02
 > **Env Vars:** jql (2)
 > **Speakers:** - [instructor] (1)
 
-#### Lab: Cloud team-managed
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/lab-cloud-team-managed-14285308?u=76281980)
+#### [Lab: Cloud team-managed](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/lab-cloud-team-managed-14285308?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -428,7 +424,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/lab-cloud-team-managed-14285308?u=76281980&t=181)** We can perform a full text search.
 >
-> **[3:03](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/lab-cloud-team-managed-14285308?u=76281980&t=183)** For example, only issues with the word item are shown.
+> **[3:03](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/lab-cloud-team-managed-14285308?u=76281980&t=183)** For example, only issues with the [[Microsoft Word|word]] item are shown.
 >
 > **[3:07](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/lab-cloud-team-managed-14285308?u=76281980&t=187)** We can also click a user icon to display only the issues assigned to that user.
 >
@@ -442,7 +438,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (5), next (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **UI Navigation:** switch to (2), go to (1), in the sidebar (1)
 > **Analogies:** for example (2), for instance (1), just like (1)
 > **Env Vars:** jql (3)
@@ -454,8 +450,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Epics
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/epics?u=76281980)
+#### [Epics](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/epics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -463,7 +458,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/epics?u=76281980&t=4)** We will describe epics, work with epics, and manage epics in the backlog.
 >
-> **[0:13](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/epics?u=76281980&t=13)** Here's the hierarchy of issue types in Jira.
+> **[0:13](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/epics?u=76281980&t=13)** Here's the hierarchy of issue types in [[Jira]].
 >
 > **[0:17](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/epics?u=76281980&t=17)** An epic is unique in that it can contain other issue types, such as story, tasks, and bugs.
 >
@@ -521,7 +516,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/epics?u=76281980&t=172)** Next, we will discuss epics in the backlog.
 >
-> **[2:57](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/epics?u=76281980&t=177)** If you navigate to the backlog tab of a Scrum project, you can create epics.
+> **[2:57](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/epics?u=76281980&t=177)** If you navigate to the backlog tab of a [[Scrum]] project, you can create epics.
 >
 > **[3:02](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/epics?u=76281980&t=182)** Click on the create epic link to begin creating the epic.
 >
@@ -559,7 +554,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (4), next (2), [[Search]] (2), [[Jira]] (1), teams (1)
+> **Frameworks & Libraries:** [[Jira]] (1), [[Scrum]] (1)
 > **UI Navigation:** select the (3), open the (1), navigate to (1), click on (1), dropdown (1)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (2), for example (1)
@@ -567,8 +562,7 @@ created: 2026-05-02
 > **Tools:** jira (1)
 > **Speakers:** - [instructor] (1)
 
-#### Lab: Cloud company-managed
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/lab-cloud-company-managed-14285306?u=76281980)
+#### [Lab: Cloud company-managed](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/lab-cloud-company-managed-14285306?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -606,7 +600,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/lab-cloud-company-managed-14285306?u=76281980&t=98)** We will call this Big Feature A.
 >
-> **[1:41](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/lab-cloud-company-managed-14285306?u=76281980&t=101)** You can see that Jira has assigned a starting date and has not assigned an end date because it's fuzzy here.
+> **[1:41](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/lab-cloud-company-managed-14285306?u=76281980&t=101)** You can see that [[Jira]] has assigned a starting date and has not assigned an end date because it's fuzzy here.
 >
 > **[1:49](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/lab-cloud-company-managed-14285306?u=76281980&t=109)** We can drag to change the start date.
 >
@@ -762,7 +756,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (14), next (4), [[Jira]] (1)
+> **Frameworks & Libraries:** [[Jira]] (1)
 > **UI Navigation:** click on (20), go to (6), in the sidebar (3), dropdown (2)
 > **Cross-References:** go back to (7)
 > **Definitions:** is a  (3)
@@ -770,8 +764,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Lab: Cloud team-managed
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/lab-cloud-team-managed-14289194?u=76281980)
+#### [Lab: Cloud team-managed](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/lab-cloud-team-managed-14289194?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -837,7 +830,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (9)
 > **Cross-References:** go back to (4)
 > **UI Navigation:** go to (1), in the sidebar (1), open the (1), dropdown (1)
 > **CLI Commands:** make (1)
@@ -850,16 +842,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Dashboards
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/dashboards?u=76281980)
+#### [Dashboards](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/dashboards?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/dashboards?u=76281980&t=1)** - [Presenter] In this video, we will discuss dashboards.
+> **[0:01](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/dashboards?u=76281980&t=1)** - [Presenter] In this video, we will discuss [[Dashboards]].
 >
 > **[0:04](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/dashboards?u=76281980&t=4)** We will describe dashboards, configure a dashboard, and display a dashboard as a wallboard.
 >
-> **[0:12](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/dashboards?u=76281980&t=12)** We've seen ways of visualizing work in JIRA.
+> **[0:12](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/dashboards?u=76281980&t=12)** We've seen ways of visualizing work in [[Jira]].
 >
 > **[0:15](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/dashboards?u=76281980&t=15)** This includes boards, search, and reports.
 >
@@ -879,7 +870,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/dashboards?u=76281980&t=59)** You can display charts, you can display gadgets that are optimized for wallboards as well as other gadgets.
 >
-> **[1:08](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/dashboards?u=76281980&t=68)** You can go to the Atlassian marketplace, select the "Dashboard gadgets" dropdown, and see more gadgets that you can add to dashboards.
+> **[1:08](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/dashboards?u=76281980&t=68)** You can go to the [[Atlassian]] marketplace, select the "Dashboard gadgets" dropdown, and see more gadgets that you can add to dashboards.
 >
 > **[1:19](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/dashboards?u=76281980&t=79)** To add a gadget to a dashboard, you click the "Add gadget" button, and then you select the gadget from the list that's shown.
 >
@@ -907,7 +898,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Dashboards]] (9), [[Jira]] (2), [[Search]] (1), [[Atlassian]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (9), [[Jira]] (2), [[Atlassian]] (1)
 > **UI Navigation:** select the (2), go to (1), dropdown (1)
 > **Env Vars:** jira (2)
 > **Tools:** jira (2)
@@ -916,14 +907,13 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [presenter] (1)
 
-#### Lab: Cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/lab-cloud?u=76281980)
+#### [Lab: Cloud](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/lab-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/lab-cloud?u=76281980&t=0)** - [Instructor] In this demo, we'll explore the default dashboard, create a dashboard and view the dashboard as a wallboard.
 >
-> **[0:08](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/lab-cloud?u=76281980&t=8)** From the dashboard's menu, we can view all dashboards.
+> **[0:08](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/lab-cloud?u=76281980&t=8)** From the dashboard's menu, we can view all [[Dashboards]].
 >
 > **[0:13](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/lab-cloud?u=76281980&t=13)** Let's select the default dashboard.
 >
@@ -961,7 +951,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/lab-cloud?u=76281980&t=94)** The gadget reports there are no currently active sprints, so let's start a new sprint.
 >
-> **[1:40](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/lab-cloud?u=76281980&t=100)** Let's select a Scrum project and go to the backlog and we'll just quickly start a sprint.
+> **[1:40](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/lab-cloud?u=76281980&t=100)** Let's select a [[Scrum]] project and go to the backlog and we'll just quickly start a sprint.
 >
 > **[1:55](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/lab-cloud?u=76281980&t=115)** Now we have a sprint board and when we go back to our dashboard, the Sprint Health Gadget shows information about the sprint.
 >
@@ -993,7 +983,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Dashboards]] (2), next (1), [[Scrum]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (2), [[Scrum]] (1)
 > **UI Navigation:** select the (4), scroll down (1), go to (1)
 > **Prerequisites:** configure (2), setup (1)
 > **Cross-References:** go back to (1)
@@ -1005,16 +995,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Putting it all together
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/putting-it-all-together?u=76281980)
+#### [Putting it all together](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/putting-it-all-together?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/putting-it-all-together?u=76281980&t=1)** - [Instructor] This video discusses putting it all together.
 >
-> **[0:05](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/putting-it-all-together?u=76281980&t=5)** We will perform a quick course review, take a look at the Jira family, and then wrap up the course.
+> **[0:05](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/putting-it-all-together?u=76281980&t=5)** We will perform a quick course review, take a look at the [[Jira]] family, and then wrap up the course.
 >
-> **[0:13](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/putting-it-all-together?u=76281980&t=13)** Here are the combined lean and agile principles that we discussed.
+> **[0:13](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/putting-it-all-together?u=76281980&t=13)** Here are the combined lean and [[Agile Development|agile]] principles that we discussed.
 >
 > **[0:18](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/putting-it-all-together?u=76281980&t=18)** It's important that you, your team, and your entire organization embody these principles to be effective.
 >
@@ -1036,9 +1025,9 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/putting-it-all-together?u=76281980&t=78)** There are many other ways that teams can use Jira Core.
 >
-> **[1:23](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/putting-it-all-together?u=76281980&t=83)** Jira Software is unique in that it has the Kanban and Scrum projects.
+> **[1:23](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/putting-it-all-together?u=76281980&t=83)** Jira Software is unique in that it has the Kanban and [[Scrum]] projects.
 >
-> **[1:28](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/putting-it-all-together?u=76281980&t=88)** It also has the integration with version control and build systems.
+> **[1:28](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/putting-it-all-together?u=76281980&t=88)** It also has the integration with [[Version Control]] and build systems.
 >
 > **[1:33](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/putting-it-all-together?u=76281980&t=93)** However, many teams that are not software teams also use Jira Software to manage their projects.
 >
@@ -1048,7 +1037,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/putting-it-all-together?u=76281980&t=112)** There's customer communication as the request is being worked on and the agents handling the requests see the requests as queues.
 >
-> **[2:01](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/putting-it-all-together?u=76281980&t=121)** If there's some capability that is not in Jira out of the box, you can check the Atlassian Marketplace.
+> **[2:01](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/putting-it-all-together?u=76281980&t=121)** If there's some capability that is not in Jira out of the box, you can check the [[Atlassian]] Marketplace.
 >
 > **[2:08](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/putting-it-all-together?u=76281980&t=128)** This is an ecosystem of companies who provide extensions to Jira.
 >
@@ -1068,7 +1057,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (17), [[Atlassian]] (7), teams (4), [[Agile Development|Agile]] (3), next (1)
+> **Frameworks & Libraries:** [[Jira]] (17), [[Atlassian]] (7), [[Agile Development|Agile]] (3), [[Scrum]] (1), [[Version Control]] (1)
 > **Tools:** jira (17)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** such as (1), for example (1)
@@ -1077,14 +1066,13 @@ created: 2026-05-02
 > **UI Navigation:** navigate to (1)
 > **Prerequisites:** configure (1)
 
-#### Lab: Cloud company-managed
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/lab-cloud-company-managed-14287210?u=76281980)
+#### [Lab: Cloud company-managed](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/lab-cloud-company-managed-14287210?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/lab-cloud-company-managed-14287210?u=76281980&t=0)** - [Instructor] In this demonstration, we'll create a classic project that uses a lot of what we've learned in this course.
 >
-> **[0:07](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/lab-cloud-company-managed-14287210?u=76281980&t=7)** We're logged in as a Jira Administrator.
+> **[0:07](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/lab-cloud-company-managed-14287210?u=76281980&t=7)** We're logged in as a [[Jira]] Administrator.
 >
 > **[0:09](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/lab-cloud-company-managed-14287210?u=76281980&t=9)** Let's click the Create project dropdown and create a Classic project.
 >
@@ -1186,7 +1174,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Jira]] (2)
+> **Frameworks & Libraries:** [[Jira]] (2)
 > **UI Navigation:** go to (5), dropdown (1), click on (1), in the sidebar (1), select the (1)
 > **Code Identifiers:** projectfinal (3)
 > **Cross-References:** go back to (3)
@@ -1195,8 +1183,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Lab: Cloud team-managed
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/lab-cloud-team-managed?u=76281980)
+#### [Lab: Cloud team-managed](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/lab-cloud-team-managed?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1304,7 +1291,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), feature (1)
 > **UI Navigation:** dropdown (2), in the sidebar (2), open the (1), go to (1)
 > **Cross-References:** go back to (2)
 > **Prerequisites:** configure (1)

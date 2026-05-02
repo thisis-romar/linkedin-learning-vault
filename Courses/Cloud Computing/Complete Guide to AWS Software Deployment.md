@@ -132,23 +132,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome to AWS software deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/welcome-to-aws-software-deployment?u=76281980)
+#### [Welcome to AWS software deployment](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/welcome-to-aws-software-deployment?u=76281980)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/what-you-should-know?u=76281980&t=0)** - [Instructor] To get the most out of this course, there are a few things you should know.
 >
-> **[0:04](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/what-you-should-know?u=76281980&t=4)** First, you should be comfortable with a web application framework, such as Ruby on Rails, Python, Django, or .NET.
+> **[0:04](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/what-you-should-know?u=76281980&t=4)** First, you should be comfortable with a web application framework, such as Ruby on Rails, [[Python (Programming Language)|Python]], [[Django]], or .NET.
 >
-> **[0:11](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/what-you-should-know?u=76281980&t=11)** The AWS Services covered in this course can be used to deploy a wide selection of application types, but since we can't show every use case, we'll look at each AWS deployment option through the lens of a Ruby on Rails app running on Amazon Linux.
+> **[0:11](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/what-you-should-know?u=76281980&t=11)** The AWS Services covered in this course can be used to deploy a wide selection of application types, but since we can't show every use case, we'll look at each AWS deployment option through the lens of a Ruby on Rails app running on Amazon [[Linux]].
 >
 > **[0:25](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/what-you-should-know?u=76281980&t=25)** If you're unfamiliar with Rails, fear not, the things you'll learn about Beanstalk, CodeDeploy, and the other AWS services will apply regardless of your preferred platform.
 >
-> **[0:36](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/what-you-should-know?u=76281980&t=36)** If you plan on following along with the demos, it'll be helpful to have some familiarity with version control using Git as well as SSH, YAML, basic Shell scripting and web servers such as NGINX.
+> **[0:36](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/what-you-should-know?u=76281980&t=36)** If you plan on following along with the demos, it'll be helpful to have some familiarity with [[Version Control]] using [[Git]] as well as SSH, YAML, basic Shell scripting and [[Web Servers]] such as NGINX.
 >
 > **[0:50](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/what-you-should-know?u=76281980&t=50)** Remember, though, that the point of this course is learning AWS itself, so throughout the course I'll go into the details you need to know.
 >
@@ -158,7 +156,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/what-you-should-know?u=76281980&t=64)** If you're working on Linux, you'll be right at home.
 >
-> **[1:07](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/what-you-should-know?u=76281980&t=67)** The AWS specific command line tools are cross platform, so Windows users should not see any variation there.
+> **[1:07](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/what-you-should-know?u=76281980&t=67)** The AWS specific command line tools are cross platform, so [[Windows]] users should not see any variation there.
 >
 > **[1:14](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/what-you-should-know?u=76281980&t=74)** However, you'll still need to know the Windows equivalent of Linux commands such as ls, cat, and SSH.
 >
@@ -170,7 +168,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (6), [[Linux]] (3), [[Git]] (2), [[Windows]] (2), web application (1)
+> **Frameworks & Libraries:** [[Linux]] (3), [[Git]] (2), [[Windows]] (2), [[Python (Programming Language)|Python]] (1), [[Django]] (1)
 > **CLI Commands:** aws (6), rails (3), ruby (2), git (2), ssh (2)
 > **Env Vars:** aws (6), ssh (2), net (1), yaml (1), nginx (1)
 > **Tools:** command line (2), terminal (1)
@@ -179,8 +177,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Initial setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/initial-setup?u=76281980)
+#### [Initial setup](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/initial-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -210,7 +207,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/initial-setup?u=76281980&t=81)** From here, you're given a choice, and you can sign in as the root user, which will be the account that you just created, if this is a new course, or an IAM user.
 >
-> **[1:31](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/initial-setup?u=76281980&t=91)** The root user has full privileges on your account to create any kind of resource and manage billing information and all of the account level metadata.
+> **[1:31](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/initial-setup?u=76281980&t=91)** The root user has full privileges on your account to create any kind of resource and manage billing information and all of the account level [[Metadata]].
 >
 > **[1:41](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/initial-setup?u=76281980&t=101)** It's a very powerful account.
 >
@@ -232,9 +229,9 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/initial-setup?u=76281980&t=156)** You'll have this option front and center to add MFA for the root user.
 >
-> **[2:42](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/initial-setup?u=76281980&t=162)** Click Add MFA, and you'll be given instructions on how to set up an app like Duo or Okta Authenticate or Google Authenticator to add a second factor to logging in with this root account.
+> **[2:42](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/initial-setup?u=76281980&t=162)** Click Add MFA, and you'll be given instructions on how to set up an app like Duo or Okta Authenticate or [[Google]] Authenticator to add a second factor to logging in with this root account.
 >
-> **[2:54](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/initial-setup?u=76281980&t=174)** I highly recommend that you do it because that root account is a very powerful thing, and there are attackers out there that would just love to get ahold of it to spin up resources in your account to do things like mining cryptocurrency, whatever they may want to get up to.
+> **[2:54](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/initial-setup?u=76281980&t=174)** I highly recommend that you do it because that root account is a very powerful thing, and there are attackers out there that would just love to get ahold of it to spin up resources in your account to do things like mining [[Cryptocurrency]], whatever they may want to get up to.
 >
 > **[3:08](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/initial-setup?u=76281980&t=188)** So like any account that you hold at your bank or any other online account, adding MFA is a great step.
 >
@@ -244,7 +241,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (11), next (2), [[Search]] (2), management (2), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (1), [[Google]] (1), [[Cryptocurrency]] (1)
 > **Env Vars:** aws (9), iam (6), mfa (3)
 > **CLI Commands:** aws (11), make (2)
 > **Definitions:** is a  (3)
@@ -253,8 +250,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (2)
 > **Tools:** aws console (1)
 
-#### Navigate the AWS Management Console
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/navigate-the-aws-management-console?u=76281980)
+#### [Navigate the AWS Management Console](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/navigate-the-aws-management-console?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -268,7 +264,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/navigate-the-aws-management-console?u=76281980&t=15)** That's the S and AWS after all, and AWS is divided up into all these services that you can see here.
 >
-> **[0:22](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/navigate-the-aws-management-console?u=76281980&t=22)** Some examples like EC2, IAM, CodeDeploy, you're going to know what all these are by the end of the course.
+> **[0:22](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/navigate-the-aws-management-console?u=76281980&t=22)** Some examples like [[Amazon EC2|EC2]], IAM, CodeDeploy, you're going to know what all these are by the end of the course.
 >
 > **[0:29](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/navigate-the-aws-management-console?u=76281980&t=29)** When we want to go between them, there are a few ways to do it.
 >
@@ -348,7 +344,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (8), [[Amazon EC2|Ec2]] (3), database (2), [[Search]] (2), management (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3)
 > **Env Vars:** aws (8), ec2 (3), rds (3), iam (1)
 > **CLI Commands:** aws (8), make (3)
 > **UI Navigation:** open the (1), dropdown (1), click on (1)
@@ -357,8 +353,7 @@ created: 2026-05-02
 > **Best Practices:** always make sure (1)
 > **Warnings:** be aware (1)
 
-#### Set an AWS budget alarm
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/set-an-aws-budget-alarm?u=76281980)
+#### [Set an AWS budget alarm](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/set-an-aws-budget-alarm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -368,7 +363,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/set-an-aws-budget-alarm?u=76281980&t=11)** So we're going to go up here in the search bar and type Budgets.
 >
-> **[0:16](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/set-an-aws-budget-alarm?u=76281980&t=16)** Now, budgets are a feature of a larger umbrella called Billing and Cost Management, so you see that reflected in the search results.
+> **[0:16](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/set-an-aws-budget-alarm?u=76281980&t=16)** Now, budgets are a feature of a larger umbrella called Billing and [[Cost Management]], so you see that reflected in the search results.
 >
 > **[0:24](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/set-an-aws-budget-alarm?u=76281980&t=24)** We see the service here and the individual features below.
 >
@@ -414,9 +409,9 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/set-an-aws-budget-alarm?u=76281980&t=146)** Each of these colors in this bar represents a different section of AWS.
 >
-> **[2:30](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/set-an-aws-budget-alarm?u=76281980&t=150)** And so you can see this big blue section here is on EC2 instances.
+> **[2:30](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/set-an-aws-budget-alarm?u=76281980&t=150)** And so you can see this big blue section here is on [[Amazon EC2|EC2]] instances.
 >
-> **[2:34](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/set-an-aws-budget-alarm?u=76281980&t=154)** I'm spending some on RDS databases.
+> **[2:34](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/set-an-aws-budget-alarm?u=76281980&t=154)** I'm spending some on RDS [[Databases]].
 >
 > **[2:37](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/set-an-aws-budget-alarm?u=76281980&t=157)** And so it shows you, and it shows you the breakdown of dollars and cents spent on each service.
 >
@@ -430,7 +425,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (3), [[Search]] (2), [[Cost Management]] (2), feature (1), hit (1)
+> **Frameworks & Libraries:** [[Cost Management]] (2), [[Amazon EC2|Ec2]] (1), [[Databases]] (1)
 > **CLI Commands:** aws (3), make (1), find (1)
 > **Env Vars:** aws (3), ec2 (1), rds (1)
 > **Prerequisites:** set up (2), setup (1)
@@ -444,14 +439,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding AWS EC2
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-ec2?u=76281980)
+#### [Understanding AWS EC2](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-ec2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-ec2?u=76281980&t=0)** - [Instructor] When we talk about compute resources in AWS, it all starts with Elastic Compute Cloud, or EC2.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-ec2?u=76281980&t=0)** - [Instructor] When we talk about compute resources in AWS, it all starts with Elastic Compute Cloud, or [[Amazon EC2|EC2]].
 >
-> **[0:08](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-ec2?u=76281980&t=8)** EC2 instances are virtual machines that you launch in the AWS Cloud.
+> **[0:08](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-ec2?u=76281980&t=8)** EC2 instances are [[Virtual Machines]] that you launch in the AWS Cloud.
 >
 > **[0:13](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-ec2?u=76281980&t=13)** They're created on demand or when combined with more advanced AWS services in response to conditions you define.
 >
@@ -463,7 +457,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-ec2?u=76281980&t=31)** For example, an instance with more RAM costs more to run.
 >
-> **[0:36](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-ec2?u=76281980&t=36)** You may choose from many different operating systems, such as Windows, Ubuntu, Linux, Red Hat, and AWS's own Amazon Linux.
+> **[0:36](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-ec2?u=76281980&t=36)** You may choose from many different operating systems, such as [[Windows]], [[Ubuntu]], [[Linux]], Red Hat, and AWS's own Amazon Linux.
 >
 > **[0:44](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-ec2?u=76281980&t=44)** The flexibility of the pay-as-you-go model and the ability to resize instances, combined with services that let you create and destroy instances when you need them, give you truly elastic capacity, hence the name Elastic Compute Cloud.
 >
@@ -471,7 +465,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-ec2?u=76281980&t=66)** Amazon Machine Images, or AMIs, are the molds from which new instances are built.
 >
-> **[1:12](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-ec2?u=76281980&t=72)** They consist of basic installations of operating systems, like Windows Server and Red Hat Linux.
+> **[1:12](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-ec2?u=76281980&t=72)** They consist of basic installations of operating systems, like [[Windows Server]] and [[Red Hat Linux]].
 >
 > **[1:18](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-ec2?u=76281980&t=78)** They may require you to have a license for the OS.
 >
@@ -483,7 +477,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-ec2?u=76281980&t=97)** Creating an EC2 instance isn't like building a computer from scratch.
 >
-> **[1:41](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-ec2?u=76281980&t=101)** Instead of deciding on the components, such as CPU, RAM, and Network Interfaces, AWS allows you to choose from a number of predefined hardware configurations.
+> **[1:41](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-ec2?u=76281980&t=101)** Instead of deciding on the components, such as CPU, RAM, and Network Interfaces, AWS allows you to choose from a number of predefined [[Hardware]] configurations.
 >
 > **[1:52](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-ec2?u=76281980&t=112)** These are called instance types.
 >
@@ -519,7 +513,7 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-ec2?u=76281980&t=245)** In the United States, there are four regions: North California, or US West one, Oregon, also known as US West two, Virginia, called US East one, and the newest, Ohio, called US East two.
 >
-> **[4:23](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-ec2?u=76281980&t=263)** There are also two special regions, GovCloud East and GovCloud West, that are used in cases where maintaining regulatory compliance requires additional security restrictions.
+> **[4:23](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-ec2?u=76281980&t=263)** There are also two special regions, GovCloud East and GovCloud West, that are used in cases where maintaining [[Regulatory Compliance]] requires additional security restrictions.
 >
 > **[4:34](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-ec2?u=76281980&t=274)** A few of the others include Ireland, Frankfurt, Singapore, Seoul, Tokyo, Mumbai, and Sao Paulo.
 >
@@ -569,9 +563,9 @@ created: 2026-05-02
 >
 > **[7:16](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-ec2?u=76281980&t=436)** There are a host of other storage options provided by AWS for different use cases, including object storage, archival storage, and multi-user network storage.
 >
-> **[7:26](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-ec2?u=76281980&t=446)** We go in depth on this topic, please see my other course: AWS Storage and Data Management.
+> **[7:26](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-ec2?u=76281980&t=446)** We go in depth on this topic, please see my other course: AWS Storage and [[Data Management]].
 >
-> **[7:34](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-ec2?u=76281980&t=454)** As we continue using EC2, we'll learn even more: how to connect to instances using SSH and other methods, how to define network security using AWS security groups, and how to use tags to add metadata to resources to help you track them better.
+> **[7:34](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-ec2?u=76281980&t=454)** As we continue using EC2, we'll learn even more: how to connect to instances using SSH and other methods, how to define [[Network Security]] using [[AWS Security]] groups, and how to use tags to add [[Metadata]] to resources to help you track them better.
 >
 > **[7:50](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-ec2?u=76281980&t=470)** So those are the basics of EC2.
 >
@@ -579,7 +573,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (19), [[Amazon EC2|Ec2]] (11), data (5), cloud (3), [[Linux]] (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (11), [[Linux]] (2), [[Hardware]] (2), [[Virtual Machines]] (1), [[Windows]] (1)
 > **Env Vars:** aws (18), ec2 (11), ram (5), cpu (4), ebs (4)
 > **CLI Commands:** aws (19), az (4), make (2), ssh (1)
 > **Definitions:** is a  (5), known as (1), is called (1)
@@ -588,8 +582,7 @@ created: 2026-05-02
 > **URLs:** [amazon.com](https://amazon.com) (1)
 > **Tools:** aws console (1)
 
-#### Understanding AWS load balancers
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-load-balancers?u=76281980)
+#### [Understanding AWS load balancers](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-load-balancers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -607,9 +600,9 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-load-balancers?u=76281980&t=43)** A load balancer sits between your consumers and the web tier.
 >
-> **[0:47](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-load-balancers?u=76281980&t=47)** Now, instead of making HTTP requests directly to an EC2 Instance, your users make requests to the address of the load balancer, which conveys those requests to the underlying resources.
+> **[0:47](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-load-balancers?u=76281980&t=47)** Now, instead of making HTTP requests directly to an [[Amazon EC2|EC2]] Instance, your users make requests to the address of the load balancer, which conveys those requests to the underlying resources.
 >
-> **[0:58](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-load-balancers?u=76281980&t=58)** In terms of network security, the EC2 security groups should be configured to only allow web traffic from the load balancer.
+> **[0:58](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-load-balancers?u=76281980&t=58)** In terms of [[Network Security]], the EC2 security groups should be configured to only allow web traffic from the load balancer.
 >
 > **[1:06](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-load-balancers?u=76281980&t=66)** Meanwhile, the load balancer itself has a security group, which should be configured to expose your web traffic.
 >
@@ -635,7 +628,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-load-balancers?u=76281980&t=144)** They can integrate with AWS Certificate Manager to run TLS or HTTPS connections.
 >
-> **[2:30](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-load-balancers?u=76281980&t=150)** And they operate on the request level and can make routing decisions based on HTTP headers.
+> **[2:30](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-load-balancers?u=76281980&t=150)** And they operate on the request level and can make [[Routing]] decisions based on HTTP headers.
 >
 > **[2:37](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-load-balancers?u=76281980&t=157)** They can redirect requests, such as redirecting from unencrypted HTTP to encrypted HTTPS and can serve static content, such as maintenance notices or images.
 >
@@ -679,7 +672,7 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-load-balancers?u=76281980&t=275)** After all, you wouldn't want to reduce the capacity just because of a transient network blip or slow response.
 >
-> **[4:41](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-load-balancers?u=76281980&t=281)** Still, this behavior is something to keep in mind when designing your system architecture.
+> **[4:41](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-load-balancers?u=76281980&t=281)** Still, this behavior is something to keep in mind when designing your [[System Architecture]].
 >
 > **[4:45](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-load-balancers?u=76281980&t=285)** Earlier I mentioned one benefit of classic and application load balancers is integration with AWS Cert Manager for TLS termination.
 >
@@ -721,7 +714,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (13), traffic (12), application (9), web (9), [[Routing]] (4)
+> **Frameworks & Libraries:** [[Routing]] (4), [[Amazon EC2|Ec2]] (3), [[Network Security]] (1), [[System Architecture]] (1)
 > **Env Vars:** aws (13), http (10), tls (10), alb (9), https (6)
 > **CLI Commands:** aws (13), make (5)
 > **Analogies:** such as (4), imagine (1), picture (1), for instance (1)
@@ -730,8 +723,7 @@ created: 2026-05-02
 > **Definitions:** known as (1)
 > **Warnings:** keep in mind (1)
 
-#### Understanding AWS Auto Scaling groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-auto-scaling-groups?u=76281980)
+#### [Understanding AWS Auto Scaling groups](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-auto-scaling-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -747,7 +739,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-auto-scaling-groups?u=76281980&t=31)** To solve this, you could just trade out your single host for a more powerful machine.
 >
-> **[0:36](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-auto-scaling-groups?u=76281980&t=36)** That's called vertical scaling and an EC2, it'll require a reboot and some downtime while you change your instance type.
+> **[0:36](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-auto-scaling-groups?u=76281980&t=36)** That's called vertical scaling and an [[Amazon EC2|EC2]], it'll require a reboot and some downtime while you change your instance type.
 >
 > **[0:45](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-auto-scaling-groups?u=76281980&t=45)** Or you could introduce another host, then add a load balancer to distribute the traffic across these two hosts.
 >
@@ -787,7 +779,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-auto-scaling-groups?u=76281980&t=177)** You can then associate configuration with an ASG.
 >
-> **[3:02](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-auto-scaling-groups?u=76281980&t=182)** If you've worked with EC2 directly, you should be familiar with some of the options you can set on a launch template, such as the AMI, the base image, such as Amazon, Linux, or Windows server, the instance type such as t3.micro, security groups attached to each instance, the SSH key you'll use to log in, IAM instance roles, and storage options.
+> **[3:02](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-auto-scaling-groups?u=76281980&t=182)** If you've worked with EC2 directly, you should be familiar with some of the options you can set on a launch template, such as the AMI, the base image, such as Amazon, [[Linux]], or [[Windows Server]], the instance type such as t3.micro, security groups attached to each instance, the SSH key you'll use to log in, IAM instance roles, and storage options.
 >
 > **[3:27](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-auto-scaling-groups?u=76281980&t=207)** Of course, a fresh EC2 instance in your ASG is no good, unless it's provisioned and running your app.
 >
@@ -813,7 +805,7 @@ created: 2026-05-02
 >
 > **[4:24](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-auto-scaling-groups?u=76281980&t=264)** In this example, we install the web server nginx and start it up, ensuring that any newly provisioned host will run nginx and display its default webpage.
 >
-> **[4:34](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-auto-scaling-groups?u=76281980&t=274)** In a more complex example, you might also pull down your app from S3 or GitHub, configure it and start it running.
+> **[4:34](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-auto-scaling-groups?u=76281980&t=274)** In a more complex example, you might also pull down your app from S3 or [[GitHub]], configure it and start it running.
 >
 > **[4:42](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-auto-scaling-groups?u=76281980&t=282)** Now that we have a launch configuration, we can define an auto scaling group.
 >
@@ -837,7 +829,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (6), aws (5), application (4), traffic (3), data (3)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (6), [[Linux]] (1), [[Windows Server]] (1), [[GitHub]] (1)
 > **Env Vars:** asg (10), ec2 (6), aws (5), cpu (4), ami (2)
 > **CLI Commands:** aws (5), make (2), nginx (2), ssh (1)
 > **Analogies:** such as (3), for example (2)
@@ -846,20 +838,19 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **Tools:** github (1)
 
-#### Understanding AWS security groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-security-groups?u=76281980)
+#### [Understanding AWS security groups](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-security-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-security-groups?u=76281980&t=0)** - [Narrator] Let's take a look at how Amazon Web Services handles the important topic of network security, using AWS security groups.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-security-groups?u=76281980&t=0)** - [Narrator] Let's take a look at how [[Amazon Web Services (AWS)|Amazon Web Services]] handles the important topic of [[Network Security]], using [[AWS Security]] groups.
 >
 > **[0:09](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-security-groups?u=76281980&t=9)** First, a look at a traditional firewall setup.
 >
 > **[0:13](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-security-groups?u=76281980&t=13)** Imagine this is our data center.
 >
-> **[0:16](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-security-groups?u=76281980&t=16)** We have a few web servers, maybe a public API host.
+> **[0:16](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-security-groups?u=76281980&t=16)** We have a few [[Web Servers]], maybe a public API host.
 >
-> **[0:20](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-security-groups?u=76281980&t=20)** We also have some private hosts, things like databases that we want locked down and secure.
+> **[0:20](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-security-groups?u=76281980&t=20)** We also have some private hosts, things like [[Databases]] that we want locked down and secure.
 >
 > **[0:26](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-security-groups?u=76281980&t=26)** In our simplified data center, we've divided our space into subnets, public on the left, private on the right, and because we're good system architects concerned about security, we've got a firewall around the whole thing.
 >
@@ -891,7 +882,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-security-groups?u=76281980&t=131)** They define incoming and outgoing rules.
 >
-> **[2:13](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-security-groups?u=76281980&t=133)** They can be attached to almost any resource in AWS, such as EC2 instances, load balancers, and IDS databases, and they act like local firewalls for that resource.
+> **[2:13](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-security-groups?u=76281980&t=133)** They can be attached to almost any resource in AWS, such as [[Amazon EC2|EC2]] instances, load balancers, and IDS databases, and they act like local firewalls for that resource.
 >
 > **[2:25](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-security-groups?u=76281980&t=145)** AWS security groups deny all incoming traffic by default, and they allow all outgoing traffic by default.
 >
@@ -907,7 +898,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-security-groups?u=76281980&t=183)** Of course, SSH users will still need a valid login to the machine.
 >
-> **[3:08](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-security-groups?u=76281980&t=188)** We'll keep outgoing rules at their default, fully open, so the machine can call out to version control repos, third party APIs, and the like.
+> **[3:08](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-security-groups?u=76281980&t=188)** We'll keep outgoing rules at their default, fully open, so the machine can call out to [[Version Control]] repos, third party APIs, and the like.
 >
 > **[3:17](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-security-groups?u=76281980&t=197)** So here's our data center again.
 >
@@ -967,7 +958,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (17), traffic (16), web (11), aws (8), data (5)
+> **Frameworks & Libraries:** [[Network Security]] (4), [[AWS Security]] (4), [[Databases]] (4), [[Amazon EC2|Ec2]] (2), [[Amazon Web Services (AWS)|Amazon web services]] (1)
 > **Env Vars:** aws (8), ssh (3), api (2), ec2 (2), http (1)
 > **CLI Commands:** aws (8), ssh (3), find (1)
 > **Analogies:** such as (2), imagine (1), for example (1)
@@ -975,12 +966,11 @@ created: 2026-05-02
 > **Ports:** port 5 (1)
 > **Speakers:** - [narrator] (1)
 
-#### Understanding SSH key authentication
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-ssh-key-authentication?u=76281980)
+#### [Understanding SSH key authentication](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-ssh-key-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-ssh-key-authentication?u=76281980&t=0)** - [Narrator] When working with EC2 instances, it helps to understand how to connect with SSH key authentication.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-ssh-key-authentication?u=76281980&t=0)** - [Narrator] When working with [[Amazon EC2|EC2]] instances, it helps to understand how to connect with SSH key authentication.
 >
 > **[0:06](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-ssh-key-authentication?u=76281980&t=6)** For the longest time, your only option for logging into an EC2 instance was via SSH.
 >
@@ -988,7 +978,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-ssh-key-authentication?u=76281980&t=19)** But for now, let's delve into this useful topic.
 >
-> **[0:23](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-ssh-key-authentication?u=76281980&t=23)** What's typically required when you want to log into a remote Linux server, like a new Amazon and Linux EC2 instance?
+> **[0:23](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-ssh-key-authentication?u=76281980&t=23)** What's typically required when you want to log into a remote [[Linux]] server, like a new Amazon and Linux EC2 instance?
 >
 > **[0:30](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-ssh-key-authentication?u=76281980&t=30)** Port 22 must be accessible from your location.
 >
@@ -996,7 +986,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-ssh-key-authentication?u=76281980&t=37)** You must have a username and password and password authentication must be enabled.
 >
-> **[0:42](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-ssh-key-authentication?u=76281980&t=42)** The client logs in with some SSH client software, such as the Mac's built-in SSH command or PuTTY for Windows.
+> **[0:42](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-ssh-key-authentication?u=76281980&t=42)** The client logs in with some SSH client software, such as the Mac's built-in SSH command or PuTTY for [[Windows]].
 >
 > **[0:51](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-ssh-key-authentication?u=76281980&t=51)** The default situation in AWS is a little different.
 >
@@ -1088,13 +1078,13 @@ created: 2026-05-02
 >
 > **[4:48](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-ssh-key-authentication?u=76281980&t=288)** As I said, I'll be introducing a simpler way of getting terminal access in the next chapter.
 >
-> **[4:53](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-ssh-key-authentication?u=76281980&t=293)** However, SSH key authentication is still widely used in many contexts, such as server configuration management.
+> **[4:53](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-ssh-key-authentication?u=76281980&t=293)** However, SSH key authentication is still widely used in many contexts, such as [[Server Configuration]] management.
 >
 > **[5:00](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-ssh-key-authentication?u=76281980&t=300)** So it's good to have this knowledge in your toolkit.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (9), aws (9), [[Linux]] (9), next (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (9), [[Linux]] (9), [[Windows]] (1), [[Server Configuration]] (1)
 > **Env Vars:** ssh (17), ec2 (9), aws (9), sshd (1), mac (1)
 > **CLI Commands:** ssh (18), aws (9), make (1)
 > **Definitions:** is a  (2), is called (1), means that (1)
@@ -1108,12 +1098,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create an AWS EC2 instance
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-aws-ec2-instance?u=76281980)
+#### [Create an AWS EC2 instance](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-aws-ec2-instance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-aws-ec2-instance?u=76281980&t=0)** - [Instructor] All right, let's get started creating our first EC2 instance from the Console Home.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-aws-ec2-instance?u=76281980&t=0)** - [Instructor] All right, let's get started creating our first [[Amazon EC2|EC2]] instance from the Console Home.
 >
 > **[0:05](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-aws-ec2-instance?u=76281980&t=5)** We're going to want to go into the EC2 section of AWS, which I've here recently visited, or you can search in the search bar, EC2.
 >
@@ -1125,7 +1114,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-aws-ec2-instance?u=76281980&t=30)** All right, we're going to give our instance a name, and the suggested option there, MyWebServer, works just fine, and put it with no spaces.
 >
-> **[0:40](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-aws-ec2-instance?u=76281980&t=40)** In the next section, we'll stick with Amazon Linux for the base OS.
+> **[0:40](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-aws-ec2-instance?u=76281980&t=40)** In the next section, we'll stick with Amazon [[Linux]] for the base OS.
 >
 > **[0:44](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-aws-ec2-instance?u=76281980&t=44)** This is a version of Linux distributed by Amazon and maintained by them, and it's a great basis for a lot of different use cases.
 >
@@ -1197,7 +1186,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-aws-ec2-instance?u=76281980&t=223)** You've got a lot of options here if you want to click Advanced.
 >
-> **[3:46](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-aws-ec2-instance?u=76281980&t=226)** Now, we'll keep it in the simple version, but if you want to know more about how this works, take a look at my other course on AWS Storage and Data Management, which gets into this and all the different ways that you can manage data in AWS.
+> **[3:46](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-aws-ec2-instance?u=76281980&t=226)** Now, we'll keep it in the simple version, but if you want to know more about how this works, take a look at my other course on AWS Storage and [[Data Management]], which gets into this and all the different ways that you can manage data in AWS.
 >
 > **[3:59](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-aws-ec2-instance?u=76281980&t=239)** All right, so we'll keep going, and we'll expand advanced details.
 >
@@ -1225,9 +1214,9 @@ created: 2026-05-02
 >
 > **[5:27](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-aws-ec2-instance?u=76281980&t=327)** What we're going to do with this user data is set up a very simple webpage so we can test out how this instance works and how we can connect to it through the web.
 >
-> **[5:35](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-aws-ec2-instance?u=76281980&t=335)** So we'll install nginx, and in this command, we'll spit out a very simple bit of HTML to be the default webpage that we see.
+> **[5:35](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-aws-ec2-instance?u=76281980&t=335)** So we'll install nginx, and in this command, we'll spit out a very simple bit of [[HTML]] to be the default webpage that we see.
 >
-> **[5:43](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-aws-ec2-instance?u=76281980&t=343)** And it'll say Hello, LinkedIn.
+> **[5:43](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-aws-ec2-instance?u=76281980&t=343)** And it'll say Hello, [[LinkedIn]].
 >
 > **[5:45](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-aws-ec2-instance?u=76281980&t=345)** Then we'll start the nginx service, and that'll be it.
 >
@@ -1323,7 +1312,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Amazon EC2|Ec2]] (7), [[Security]] (6), aws (5), next (5)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (7), [[Linux]] (4), [[LinkedIn]] (2), [[Data Management]] (1), [[HTML]] (1)
 > **CLI Commands:** ssh (12), aws (5), nginx (5), make (2), yum (2)
 > **Env Vars:** ssh (9), ec2 (5), aws (5), http (4), rsa (1)
 > **Prerequisites:** install (3), configure (2), getting started (1), set up (1)
@@ -1332,8 +1321,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (3)
 > **Ports:** port 80 (1)
 
-#### Connect to an EC2 instance with AWS Systems Manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/connect-to-an-ec2-instance-with-aws-systems-manager?u=76281980)
+#### [Connect to an EC2 instance with AWS Systems Manager](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/connect-to-an-ec2-instance-with-aws-systems-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1365,7 +1353,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/connect-to-an-ec2-instance-with-aws-systems-manager?u=76281980&t=84)** This is how a lot of our role generation will start.
 >
-> **[1:27](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/connect-to-an-ec2-instance-with-aws-systems-manager?u=76281980&t=87)** We'll go to use case and choose EC2.
+> **[1:27](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/connect-to-an-ec2-instance-with-aws-systems-manager?u=76281980&t=87)** We'll go to use case and choose [[Amazon EC2|EC2]].
 >
 > **[1:31](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/connect-to-an-ec2-instance-with-aws-systems-manager?u=76281980&t=91)** We're going to attach this role to an EC2 instance.
 >
@@ -1451,7 +1439,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (8), next (7), aws (6), [[Security]] (3), [[Search]] (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (8)
 > **Env Vars:** ec2 (8), ssh (6), aws (6), iam (5), ssm (3)
 > **CLI Commands:** ssh (6), aws (6), find (1)
 > **UI Navigation:** go to (3), checkbox (2), click on (1), select the (1)
@@ -1460,8 +1448,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1), in the next (1)
 > **Ports:** port 22 (1)
 
-#### Understanding AWS CloudFormation
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-cloudformation?u=76281980)
+#### [Understanding AWS CloudFormation](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-cloudformation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1471,13 +1458,13 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-cloudformation?u=76281980&t=12)** Imagine all the decisions you make when you create resources through the AWS console.
 >
-> **[0:17](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-cloudformation?u=76281980&t=17)** Whether you're creating a VPC and subnets, EC2 instances, S3 buckets, or load balancers, you're taking steps to define the configuration setup of each in great detail.
+> **[0:17](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-cloudformation?u=76281980&t=17)** Whether you're creating a VPC and subnets, [[Amazon EC2|EC2]] instances, S3 buckets, or load balancers, you're taking steps to define the configuration setup of each in great detail.
 >
 > **[0:29](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-cloudformation?u=76281980&t=29)** The next time you need to create similar resources, you'll be back to clicking through screens, making those same decisions again.
 >
 > **[0:35](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-cloudformation?u=76281980&t=35)** It would be great if we could just keep a record and replay those actions.
 >
-> **[0:39](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-cloudformation?u=76281980&t=39)** That's where AWS cloud formation comes in because it lets you capture all those decisions and encode them as a JSON or YAML template.
+> **[0:39](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-cloudformation?u=76281980&t=39)** That's where AWS cloud formation comes in because it lets you capture all those decisions and encode them as a [[JSON]] or YAML template.
 >
 > **[0:48](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-cloudformation?u=76281980&t=48)** Every AWS resource that you can create through the web console has a corresponding YAML format documented by AWS.
 >
@@ -1507,9 +1494,9 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-cloudformation?u=76281980&t=132)** There are some exceptions to this behavior, but for the most part, cloud formation lets you manage a stack as a single entity.
 >
-> **[2:19](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-cloudformation?u=76281980&t=139)** Of course, one of the best features of cloud formation is that if you use it from the beginning, your entire data center infrastructure, VPCs, subnets, load balancers, EC2 instances, RDS databases, and more, is now defining code.
+> **[2:19](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-cloudformation?u=76281980&t=139)** Of course, one of the best features of cloud formation is that if you use it from the beginning, your entire data center infrastructure, VPCs, subnets, load balancers, EC2 instances, RDS [[Databases]], and more, is now defining code.
 >
-> **[2:34](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-cloudformation?u=76281980&t=154)** Code can be version controlled, code can be shared, modified, reviewed, say in a GitHub pull request, and reused.
+> **[2:34](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-cloudformation?u=76281980&t=154)** Code can be version controlled, code can be shared, modified, reviewed, say in a [[GitHub]] pull request, and reused.
 >
 > **[2:43](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-cloudformation?u=76281980&t=163)** Some additional cloud formation features you might want to know about.
 >
@@ -1519,7 +1506,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-cloudformation?u=76281980&t=174)** You can push updates to a stack instead of just creating or deleting.
 >
-> **[2:59](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-cloudformation?u=76281980&t=179)** You can call custom functions to extend existing functionality, and of course, you get to maintain your infrastructure as code.
+> **[2:59](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-cloudformation?u=76281980&t=179)** You can call custom functions to extend existing functionality, and of course, you get to maintain your [[Infrastructure as code (IaC)|infrastructure as code]].
 >
 > **[3:08](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-cloudformation?u=76281980&t=188)** Another useful feature of cloud formation is cloud formation designer, which lets you create templates in an easy to use drag and drop format.
 >
@@ -1529,7 +1516,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-cloudformation?u=76281980&t=212)** You can even create stacks directly from here.
 >
-> **[3:34](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-cloudformation?u=76281980&t=214)** This interface can help you understand the many parameters required to build resources in cloud formation, and as a bonus, the finished product tends to resemble the kind of system architecture diagrams you might have otherwise created as a separate step.
+> **[3:34](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-cloudformation?u=76281980&t=214)** This interface can help you understand the many parameters required to build resources in cloud formation, and as a bonus, the finished product tends to resemble the kind of [[System Architecture]] diagrams you might have otherwise created as a separate step.
 >
 > **[3:49](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-cloudformation?u=76281980&t=229)** For those of you using VS code as your editor, I highly recommend these two extensions: cloud formation linter and cloud formation snippets.
 >
@@ -1541,7 +1528,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (16), aws (7), [[Amazon EC2|Ec2]] (4), [[Security]] (3), data (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (4), [[JSON]] (2), [[Databases]] (1), [[GitHub]] (1), [[Infrastructure as code (IaC)|Infrastructure as code]] (1)
 > **Env Vars:** yaml (8), aws (7), ec2 (4), vpc (2), json (2)
 > **CLI Commands:** aws (7), make (1)
 > **Exercise Files:** template (7)
@@ -1550,8 +1537,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1), required to (1)
 > **UI Navigation:** drag and drop (1)
 
-#### Writing an AWS CloudFormation template
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/writing-an-aws-cloudformation-template?u=76281980)
+#### [Writing an AWS CloudFormation template](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/writing-an-aws-cloudformation-template?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1563,7 +1549,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/writing-an-aws-cloudformation-template?u=76281980&t=15)** This doc shows an outline of all the sections that you need to create a CloudFormation template.
 >
-> **[0:20](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/writing-an-aws-cloudformation-template?u=76281980&t=20)** You can see there's a JSON section here, and a YAML section down below.
+> **[0:20](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/writing-an-aws-cloudformation-template?u=76281980&t=20)** You can see there's a [[JSON]] section here, and a YAML section down below.
 >
 > **[0:25](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/writing-an-aws-cloudformation-template?u=76281980&t=25)** Either one is valid, but we'll use YAML for readability.
 >
@@ -1571,7 +1557,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/writing-an-aws-cloudformation-template?u=76281980&t=36)** We'll need AWSTemplateFormatVersion, that's required.
 >
-> **[0:40](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/writing-an-aws-cloudformation-template?u=76281980&t=40)** And the rest are optional except for Resources, because of course we'll need to define some resources for this template to create.
+> **[0:40](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/writing-an-aws-cloudformation-template?u=76281980&t=40)** And the [[Representational State Transfer (REST)|rest]] are optional except for Resources, because of course we'll need to define some resources for this template to create.
 >
 > **[0:48](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/writing-an-aws-cloudformation-template?u=76281980&t=48)** Beyond resources, in this example, we'll use both Description and Parameters.
 >
@@ -1617,7 +1603,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/writing-an-aws-cloudformation-template?u=76281980&t=158)** And we're going to enter a special value here.
 >
-> **[2:40](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/writing-an-aws-cloudformation-template?u=76281980&t=160)** This is AWS::EC2::Instance.
+> **[2:40](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/writing-an-aws-cloudformation-template?u=76281980&t=160)** This is AWS::[[Amazon EC2|EC2]]::Instance.
 >
 > **[2:47](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/writing-an-aws-cloudformation-template?u=76281980&t=167)** You see, every single resource that you can create in CloudFormation has a special resource type string that you can discover in the AWS docs.
 >
@@ -1645,7 +1631,7 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/writing-an-aws-cloudformation-template?u=76281980&t=231)** We're only going to need a few of these though, like ImageId, SubnetId and SecurityGroups.
 >
-> **[3:58](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/writing-an-aws-cloudformation-template?u=76281980&t=238)** If you search in this doc for the word required, you can see that each property has a value that says whether it's required or not, or whether it's conditional, which means it's required if some other condition is met or some other parameter is used.
+> **[3:58](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/writing-an-aws-cloudformation-template?u=76281980&t=238)** If you search in this doc for the [[Microsoft Word|word]] required, you can see that each property has a value that says whether it's required or not, or whether it's conditional, which means it's required if some other condition is met or some other parameter is used.
 >
 > **[4:14](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/writing-an-aws-cloudformation-template?u=76281980&t=254)** So let's head back to our text editor and fill in the properties that we are going to use on this instance.
 >
@@ -1661,7 +1647,7 @@ created: 2026-05-02
 >
 > **[4:41](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/writing-an-aws-cloudformation-template?u=76281980&t=281)** The next section is going to be ImageId.
 >
-> **[4:44](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/writing-an-aws-cloudformation-template?u=76281980&t=284)** This will be the ID of the AMI that we're going to use as a base for this image, in our case, Amazon and Linux 2.
+> **[4:44](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/writing-an-aws-cloudformation-template?u=76281980&t=284)** This will be the ID of the AMI that we're going to use as a base for this image, in our case, Amazon and [[Linux]] 2.
 >
 > **[4:51](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/writing-an-aws-cloudformation-template?u=76281980&t=291)** Then we have InstanceType, that'll be the sizing of this instance.
 >
@@ -1841,7 +1827,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (11), aws (10), [[Linux]] (6), next (3), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (11), [[Linux]] (6), [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Word|Word]] (2), [[JSON]] (1)
 > **Env Vars:** ec2 (11), aws (10), yaml (10), ami (3), ssm (2)
 > **CLI Commands:** aws (10), make (10), nginx (6), sudo (3), yum (1)
 > **Exercise Files:** template (12)
@@ -1850,8 +1836,7 @@ created: 2026-05-02
 > **Definitions:** is a  (4)
 > **Cross-References:** go back to (1), in the next (1)
 
-#### Running an AWS CloudFormation template
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/running-an-aws-cloudformation-template?u=76281980)
+#### [Running an AWS CloudFormation template](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/running-an-aws-cloudformation-template?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1901,7 +1886,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/running-an-aws-cloudformation-template?u=76281980&t=142)** We can give a key value pair for tags that will show up on all the resources created by this template.
 >
-> **[2:28](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/running-an-aws-cloudformation-template?u=76281980&t=148)** So I'd like that name value to end up in the EC2 console, so say name Nginx.
+> **[2:28](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/running-an-aws-cloudformation-template?u=76281980&t=148)** So I'd like that name value to end up in the [[Amazon EC2|EC2]] console, so say name Nginx.
 >
 > **[2:34](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/running-an-aws-cloudformation-template?u=76281980&t=154)** Permissions, here I can scope the permissions down of the user that executes this CloudFormation, but we just created the template and we know what's in it, so even though we're running as the very powerful user that we're logged in as, we don't have to worry too much.
 >
@@ -1933,7 +1918,7 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/running-an-aws-cloudformation-template?u=76281980&t=248)** CloudFormation, when the instance is launched, considers its job done, so that's all that we're really going to see here in CloudFormation.
 >
-> **[4:15](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/running-an-aws-cloudformation-template?u=76281980&t=255)** To see the rest, we want to go to the EC2 console.
+> **[4:15](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/running-an-aws-cloudformation-template?u=76281980&t=255)** To see the [[Representational State Transfer (REST)|rest]], we want to go to the EC2 console.
 >
 > **[4:19](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/running-an-aws-cloudformation-template?u=76281980&t=259)** By the way, if we had chosen to use the Output section of the template, we could have set up an output that would give us the IP address of the instance that we just created, but we didn't do that, so we need to go check it out in EC2, and we can just navigate straight there.
 >
@@ -1947,13 +1932,13 @@ created: 2026-05-02
 >
 > **[5:02](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/running-an-aws-cloudformation-template?u=76281980&t=302)** So click the check box, click open address next to the IP address, the public one, and remember that we opened port 80, not 443, so we'll want to remove the s from the URL.
 >
-> **[5:16](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/running-an-aws-cloudformation-template?u=76281980&t=316)** And there it is, there's our Nginx installation running on an Amazon Linux server that we provisioned with a CloudFormation template that we built from scratch.
+> **[5:16](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/running-an-aws-cloudformation-template?u=76281980&t=316)** And there it is, there's our Nginx installation running on an Amazon [[Linux]] server that we provisioned with a CloudFormation template that we built from scratch.
 >
 > **[5:25](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/running-an-aws-cloudformation-template?u=76281980&t=325)** So congratulations on that, and if you'd like to learn more about what you can do with CloudFormation, just stay tuned for the next video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[Amazon EC2|Ec2]] (4), aws (3), [[Search]] (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (4), [[Representational State Transfer (REST)|Rest]] (1), [[Linux]] (1)
 > **Env Vars:** ec2 (4), iam (3), aws (3), yaml (2), ssm (1)
 > **Exercise Files:** template (9)
 > **CLI Commands:** nginx (4), aws (3)
@@ -1962,8 +1947,7 @@ created: 2026-05-02
 > **Cross-References:** coming up (1), next video (1)
 > **Definitions:** is a  (1)
 
-#### Concepts for updating an AWS CloudFormation stack
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/concepts-for-updating-an-aws-cloudformation-stack?u=76281980)
+#### [Concepts for updating an AWS CloudFormation stack](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/concepts-for-updating-an-aws-cloudformation-stack?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2004,8 +1988,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Practice updating AWS CloudFormation stacks via change sets
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/practice-updating-aws-cloudformation-stacks-via-change-sets?u=76281980)
+#### [Practice updating AWS CloudFormation stacks via change sets](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/practice-updating-aws-cloudformation-stacks-via-change-sets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2025,7 +2008,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/practice-updating-aws-cloudformation-stacks-via-change-sets?u=76281980&t=41)** Under resources, we have two.
 >
-> **[0:43](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/practice-updating-aws-cloudformation-stacks-via-change-sets?u=76281980&t=43)** We have MySecurityGroup, which is of type AWS EC2 security group.
+> **[0:43](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/practice-updating-aws-cloudformation-stacks-via-change-sets?u=76281980&t=43)** We have MySecurityGroup, which is of type AWS [[Amazon EC2|EC2]] security group.
 >
 > **[0:48](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/practice-updating-aws-cloudformation-stacks-via-change-sets?u=76281980&t=48)** You can see that it allows Port 443 from anywhere in the world.
 >
@@ -2067,7 +2050,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/practice-updating-aws-cloudformation-stacks-via-change-sets?u=76281980&t=131)** We'll tear all that down at the end of the chapter.
 >
-> **[2:13](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/practice-updating-aws-cloudformation-stacks-via-change-sets?u=76281980&t=133)** Click Launch Instances, and then let's copy down Amazon Linux and its ID here.
+> **[2:13](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/practice-updating-aws-cloudformation-stacks-via-change-sets?u=76281980&t=133)** Click Launch Instances, and then let's copy down Amazon [[Linux]] and its ID here.
 >
 > **[2:22](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/practice-updating-aws-cloudformation-stacks-via-change-sets?u=76281980&t=142)** Back on the CloudFormation tab, we'll paste that in.
 >
@@ -2259,7 +2242,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (9), next (9), [[Amazon EC2|Ec2]] (6), aws (3), hit (3)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (6), [[Linux]] (1)
 > **Env Vars:** ec2 (6), ami (5), aws (3), vpc (2), ssh (1)
 > **Exercise Files:** template (13)
 > **CLI Commands:** make (6), aws (3), find (2), ssh (1)
@@ -2268,8 +2251,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (4), previous video (1)
 > **File Paths:** instance-and-security-group.yaml (1)
 
-#### Challenge: Use CloudFormation to build an instance with SSM
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/challenge-use-cloudformation-to-build-an-instance-with-ssm?u=76281980)
+#### [Challenge: Use CloudFormation to build an instance with SSM](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/challenge-use-cloudformation-to-build-an-instance-with-ssm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2297,7 +2279,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (3), web (2), management (1), next (1)
 > **CLI Commands:** aws (3), ssh (1)
 > **Env Vars:** aws (3), ssh (1)
 > **Cross-References:** earlier in (2), in the next (1)
@@ -2305,9 +2286,9 @@ created: 2026-05-02
 > **File Paths:** securitygroup.yaml (1)
 > **Documentation:** the documentation (1)
 > **Tools:** terminal (1)
+> **Best Practices:** you should always (1)
 
-#### Solution: Use CloudFormation to build an instance with SSM
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/solution-use-cloudformation-to-build-an-instance-with-ssm?u=76281980)
+#### [Solution: Use CloudFormation to build an instance with SSM](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/solution-use-cloudformation-to-build-an-instance-with-ssm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2329,7 +2310,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/solution-use-cloudformation-to-build-an-instance-with-ssm?u=76281980&t=59)** Up above, you can see I've made the deletions that I just described and I've added one new thing, IamInstanceProfile.
 >
-> **[1:07](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/solution-use-cloudformation-to-build-an-instance-with-ssm?u=76281980&t=67)** This is a field that's going to let us reference the EC2 instance profile for systems manager role that we built earlier in the course.
+> **[1:07](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/solution-use-cloudformation-to-build-an-instance-with-ssm?u=76281980&t=67)** This is a field that's going to let us reference the [[Amazon EC2|EC2]] instance profile for systems manager role that we built earlier in the course.
 >
 > **[1:16](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/solution-use-cloudformation-to-build-an-instance-with-ssm?u=76281980&t=76)** So if you create it and retain this role from the second video in this chapter, this is the complete solution to this challenge.
 >
@@ -2339,7 +2320,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/solution-use-cloudformation-to-build-an-instance-with-ssm?u=76281980&t=90)** Well, at any time when you're editing cloud formation, I would recommend that you have open your web browser and type searches like name of resource cloud formation, or in this case, EC2 instance cloud formation led me here.
 >
-> **[1:44](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/solution-use-cloudformation-to-build-an-instance-with-ssm?u=76281980&t=104)** So there's a doc like this for every single resource that you can build with cloud formation and it shows you JSON and all the possible options and YAML version with all the possible options.
+> **[1:44](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/solution-use-cloudformation-to-build-an-instance-with-ssm?u=76281980&t=104)** So there's a doc like this for every single resource that you can build with cloud formation and it shows you [[JSON]] and all the possible options and YAML version with all the possible options.
 >
 > **[1:54](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/solution-use-cloudformation-to-build-an-instance-with-ssm?u=76281980&t=114)** And you can search here for IAM or role or something like that and you can find what I found right here, IamInstanceProfile.
 >
@@ -2365,7 +2346,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/solution-use-cloudformation-to-build-an-instance-with-ssm?u=76281980&t=185)** And that's great, you can do exactly what I've done here and that would be the end.
 >
-> **[3:09](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/solution-use-cloudformation-to-build-an-instance-with-ssm?u=76281980&t=189)** But because this chapter's on cloud formation and infrastructure as code, I thought I would give you a more complete solution that creates this instance profile in the context of the template.
+> **[3:09](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/solution-use-cloudformation-to-build-an-instance-with-ssm?u=76281980&t=189)** But because this chapter's on cloud formation and [[Infrastructure as code (IaC)|infrastructure as code]], I thought I would give you a more complete solution that creates this instance profile in the context of the template.
 >
 > **[3:19](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/solution-use-cloudformation-to-build-an-instance-with-ssm?u=76281980&t=199)** Now, to do that, I need to explain a little bit about something that I referred to earlier.
 >
@@ -2457,7 +2438,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (8), cloud (8), [[Security]] (3), web (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (8), [[JSON]] (1), [[Infrastructure as code (IaC)|Infrastructure as code]] (1)
 > **Env Vars:** ec2 (7), iam (5), arn (3), ssm (2), gui (2)
 > **Exercise Files:** template (6)
 > **CLI Commands:** find (2), ssh (1), make (1), aws (1)
@@ -2466,14 +2447,13 @@ created: 2026-05-02
 > **Cross-References:** earlier in (2)
 > **Definitions:** is a  (2)
 
-#### Understanding AWS CloudFormation custom resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-cloudformation-custom-resources?u=76281980)
+#### [Understanding AWS CloudFormation custom resources](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-cloudformation-custom-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-cloudformation-custom-resources?u=76281980&t=0)** - [Instructor] CloudFormation is one of AWS's most frequently enhanced services, but it can't do everything.
 >
-> **[0:06](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-cloudformation-custom-resources?u=76281980&t=6)** Sometimes you need to manage a resource that CloudFormation doesn't support, but you still want to do it in the context of CloudFormation's infrastructure as code.
+> **[0:06](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-cloudformation-custom-resources?u=76281980&t=6)** Sometimes you need to manage a resource that CloudFormation doesn't support, but you still want to do it in the context of CloudFormation's [[Infrastructure as code (IaC)|infrastructure as code]].
 >
 > **[0:15](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-cloudformation-custom-resources?u=76281980&t=15)** That's where custom resources come in.
 >
@@ -2501,18 +2481,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (3), [[Infrastructure as code (IaC)|Infrastructure as code]] (1), database (1)
+> **Frameworks & Libraries:** [[Infrastructure as code (IaC)|Infrastructure as code]] (1)
 > **Env Vars:** aws (3), sdk (2), ami (1), iam (1)
 > **CLI Commands:** aws (3), make (2)
 > **Exercise Files:** template (5)
 > **Analogies:** just like (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create an AWS CloudFormation custom resource, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-aws-cloudformation-custom-resource?u=76281980)
+#### [Create an AWS CloudFormation custom resource, part 1](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-aws-cloudformation-custom-resource?u=76281980)
 
-#### Create an AWS CloudFormation custom resource, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-aws-cloudformation-custom-resource-continued?u=76281980)
+#### [Create an AWS CloudFormation custom resource, part 2](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-aws-cloudformation-custom-resource-continued?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2648,11 +2626,11 @@ created: 2026-05-02
 >
 > **[4:46](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-aws-cloudformation-custom-resource-continued?u=76281980&t=286)** So with that, we've created a Lambda-backed custom resource for CloudFormation that creates and destroys an S3 bucket.
 >
-> **[4:54](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-aws-cloudformation-custom-resource-continued?u=76281980&t=294)** But of course, because that's a Node.js function with access to all the power of the AWS SDK, and anything else you can do in the context of a Node.js function, like call out to external resources, look up values, return values to the template, you've got a lot of power over what you can now do in a custom resource to extend what CloudFormation provides out of the box.
+> **[4:54](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-aws-cloudformation-custom-resource-continued?u=76281980&t=294)** But of course, because that's a [[Node.js]] function with access to all the power of the AWS SDK, and anything else you can do in the context of a Node.js function, like call out to external resources, look up values, return values to the template, you've got a lot of power over what you can now do in a custom resource to extend what CloudFormation provides out of the box.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (3), next (2), [[Node.js]] (2), power (2)
+> **Frameworks & Libraries:** [[Node.js]] (2)
 > **CLI Commands:** aws (3), make (2), node (2)
 > **Code Identifiers:** responsetext (5), createbucket (1), requesttype (1)
 > **Env Vars:** aws (3), sdk (2), arn (1)
@@ -2661,8 +2639,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (2)
 > **Cross-References:** go back to (1)
 
-#### CloudFormation teardown
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/cloudformation-teardown?u=76281980)
+#### [CloudFormation teardown](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/cloudformation-teardown?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2682,11 +2659,11 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/cloudformation-teardown?u=76281980&t=38)** So if you do that for any CloudFormation stacks that you still have in front of you, by the time that that's done, you'll have deleted anything related to CloudFormation that can charge you money at the end of the month.
 >
-> **[0:49](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/cloudformation-teardown?u=76281980&t=49)** In the next chapter, we'll be looking at platform as a service on Elastic Beanstalk.
+> **[0:49](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/cloudformation-teardown?u=76281980&t=49)** In the next chapter, we'll be looking at [[PaaS|platform as a service]] on Elastic Beanstalk.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1), next (1), [[PaaS|Platform as a service]] (1)
+> **Frameworks & Libraries:** [[PaaS|Platform as a service]] (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [narrator] (1)
@@ -2696,8 +2673,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Architect apps for horizontal scaling
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/architect-apps-for-horizontal-scaling?u=76281980)
+#### [Architect apps for horizontal scaling](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/architect-apps-for-horizontal-scaling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2729,13 +2705,13 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/architect-apps-for-horizontal-scaling?u=76281980&t=61)** Vertical scaling means to simply increase the resources on a single server.
 >
-> **[1:06](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/architect-apps-for-horizontal-scaling?u=76281980&t=66)** This means adding hardware, more RAM, faster CPU, that sort of thing.
+> **[1:06](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/architect-apps-for-horizontal-scaling?u=76281980&t=66)** This means adding [[Hardware]], more RAM, faster CPU, that sort of thing.
 >
 > **[1:11](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/architect-apps-for-horizontal-scaling?u=76281980&t=71)** Or in AWS terms, changing to a more powerful instance type.
 >
 > **[1:16](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/architect-apps-for-horizontal-scaling?u=76281980&t=76)** Whether it's an AWS instance, or physical hardware, scaling vertically means incurring some downtime on that machine as you upgrade.
 >
-> **[1:23](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/architect-apps-for-horizontal-scaling?u=76281980&t=83)** Even an EC2 instance has to at least reboot when changing type.
+> **[1:23](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/architect-apps-for-horizontal-scaling?u=76281980&t=83)** Even an [[Amazon EC2|EC2]] instance has to at least reboot when changing type.
 >
 > **[1:29](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/architect-apps-for-horizontal-scaling?u=76281980&t=89)** Horizontal scaling refers to distributing your application over multiple servers.
 >
@@ -2767,7 +2743,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/architect-apps-for-horizontal-scaling?u=76281980&t=159)** First, you must make sure to separate the tiers of your application.
 >
-> **[2:44](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/architect-apps-for-horizontal-scaling?u=76281980&t=164)** You might be used to installing a database, like MySQL, on the same host as your web app.
+> **[2:44](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/architect-apps-for-horizontal-scaling?u=76281980&t=164)** You might be used to installing a database, like [[MySQL]], on the same host as your web app.
 >
 > **[2:49](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/architect-apps-for-horizontal-scaling?u=76281980&t=169)** This image represents a single web server configured in just that way.
 >
@@ -2779,7 +2755,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/architect-apps-for-horizontal-scaling?u=76281980&t=187)** Do you build a new host with its own database?
 >
-> **[3:10](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/architect-apps-for-horizontal-scaling?u=76281980&t=190)** No, the databases will immediately be out of sync, and your app will be broken.
+> **[3:10](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/architect-apps-for-horizontal-scaling?u=76281980&t=190)** No, the [[Databases]] will immediately be out of sync, and your app will be broken.
 >
 > **[3:15](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/architect-apps-for-horizontal-scaling?u=76281980&t=195)** You could point New Host to the first server's database, but that's a disaster waiting to happen.
 >
@@ -2839,11 +2815,11 @@ created: 2026-05-02
 >
 > **[5:53](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/architect-apps-for-horizontal-scaling?u=76281980&t=353)** Unlike Elastic Block Store, EFS can scale itself, and be mounted by multiple instances, meaning your application servers can share the volume, and horizontal scaling still works.
 >
-> **[6:04](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/architect-apps-for-horizontal-scaling?u=76281980&t=364)** For more on EFS, see my other course, AWS Storage and Data Management.
+> **[6:04](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/architect-apps-for-horizontal-scaling?u=76281980&t=364)** For more on EFS, see my other course, AWS Storage and [[Data Management]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (13), database (12), web (6), aws (6), [[Hardware]] (5)
+> **Frameworks & Libraries:** [[Hardware]] (5), [[Amazon EC2|Ec2]] (2), [[MySQL]] (1), [[Databases]] (1), [[Data Management]] (1)
 > **Env Vars:** aws (6), efs (3), cpu (2), ram (2), ec2 (2)
 > **CLI Commands:** aws (6), make (2), node (2), mysql (1), ruby (1)
 > **Analogies:** such as (2), for instance (2), picture (1), imagine (1)
@@ -2852,18 +2828,17 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### AWS network security for app deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-network-security-for-app-deployment?u=76281980)
+#### [AWS network security for app deployment](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-network-security-for-app-deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-network-security-for-app-deployment?u=76281980&t=0)** - [Instructor] In this series, you'll occasionally see me demo a service in a way that I explain is not suitable for production.
 >
-> **[0:07](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-network-security-for-app-deployment?u=76281980&t=7)** For example, if the point of a video is to show how to build an EC2 instance, I might have you configure its security groups to allow SSH from anywhere in the world.
+> **[0:07](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-network-security-for-app-deployment?u=76281980&t=7)** For example, if the point of a video is to show how to build an [[Amazon EC2|EC2]] instance, I might have you configure its security groups to allow SSH from anywhere in the world.
 >
 > **[0:16](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-network-security-for-app-deployment?u=76281980&t=16)** That's great for a simple demo, but it's not the most secure way to implement this access.
 >
-> **[0:21](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-network-security-for-app-deployment?u=76281980&t=21)** Let's take a moment to dig into some network security best practices for building your apps on AWS.
+> **[0:21](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-network-security-for-app-deployment?u=76281980&t=21)** Let's take a moment to dig into some [[Network Security]] best practices for building your apps on AWS.
 >
 > **[0:27](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-network-security-for-app-deployment?u=76281980&t=27)** That way when we take shortcuts for demo purposes, you'll have this architecture in mind for the real thing.
 >
@@ -2877,7 +2852,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-network-security-for-app-deployment?u=76281980&t=58)** To learn in detail how to set up and configure VPCs and subnets in this way.
 >
-> **[1:02](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-network-security-for-app-deployment?u=76281980&t=62)** Search for the course titled Amazon Web Services Networking in our library of courses.
+> **[1:02](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-network-security-for-app-deployment?u=76281980&t=62)** Search for the course titled [[Amazon Web Services (AWS)|Amazon Web Services]] Networking in our library of courses.
 >
 > **[1:08](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-network-security-for-app-deployment?u=76281980&t=68)** Now, for example, with an instance here with a public IP and a security group that allows TCP 80 from the world, you could host a static webpage that's publicly accessible.
 >
@@ -2955,7 +2930,7 @@ created: 2026-05-02
 >
 > **[4:47](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-network-security-for-app-deployment?u=76281980&t=287)** For instance, when you do want to patch, your instance needs to download package updates.
 >
-> **[4:52](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-network-security-for-app-deployment?u=76281980&t=292)** Or when your app deploys and needs to do a git pull, it will need to get to the internet and there's no gateway.
+> **[4:52](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-network-security-for-app-deployment?u=76281980&t=292)** Or when your app deploys and needs to do a [[Git]] pull, it will need to get to the internet and there's no gateway.
 >
 > **[4:59](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-network-security-for-app-deployment?u=76281980&t=299)** Well, that's where a NAT gateway comes in.
 >
@@ -2967,7 +2942,7 @@ created: 2026-05-02
 >
 > **[5:17](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-network-security-for-app-deployment?u=76281980&t=317)** How do they log into the host?
 >
-> **[5:20](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-network-security-for-app-deployment?u=76281980&t=320)** Well, if that's a necessity for you, and maybe you're using configuration management or Docker so you're not manually logging into host, but if you need to do it, you have two options.
+> **[5:20](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-network-security-for-app-deployment?u=76281980&t=320)** Well, if that's a necessity for you, and maybe you're using [[Configuration Management]] or Docker so you're not manually logging into host, but if you need to do it, you have two options.
 >
 > **[5:31](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-network-security-for-app-deployment?u=76281980&t=331)** The first and best option is to use something like AWS Direct Connect to establish a VPN tunnel between your VPC and a local data center.
 >
@@ -2975,7 +2950,7 @@ created: 2026-05-02
 >
 > **[5:46](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-network-security-for-app-deployment?u=76281980&t=346)** With a connection like this, you can be inside your on-premises data center physically or virtually by use of a VPN, then access your instance on port 22 via its private IP.
 >
-> **[5:58](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-network-security-for-app-deployment?u=76281980&t=358)** That's the ideal method, but it requires a bit of setup and perhaps more infrastructure than you have, including hardware on your local side.
+> **[5:58](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-network-security-for-app-deployment?u=76281980&t=358)** That's the ideal method, but it requires a bit of setup and perhaps more infrastructure than you have, including [[Hardware]] on your local side.
 >
 > **[6:08](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-network-security-for-app-deployment?u=76281980&t=368)** If you can't go to the effort of creating a truly private tunnel to your AWS account, another method is the so-called jump box or bastion host method.
 >
@@ -3001,7 +2976,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (12), aws (7), traffic (6), data (4), database (3)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2), [[Network Security]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Git]] (1), [[Configuration Management]] (1)
 > **Env Vars:** aws (7), alb (6), ssh (4), vpc (4), https (3)
 > **CLI Commands:** aws (7), ssh (4), git (1), docker (1), find (1)
 > **Ports:** port 80 (2), port 22 (2), port 443 (2)
@@ -3010,8 +2985,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1), is an  (1)
 > **UI Navigation:** go to (1)
 
-#### Introducing the demo app
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/introducing-the-demo-app?u=76281980)
+#### [Introducing the demo app](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/introducing-the-demo-app?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3025,7 +2999,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/introducing-the-demo-app?u=76281980&t=20)** While this course demonstrates AWS deployment tools through the lens of this one particular app, the concepts associated with the AWS deployment services will carry over from language to language, framework to framework.
 >
-> **[0:32](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/introducing-the-demo-app?u=76281980&t=32)** If you're a developer and you're using something different like Python or Node, think about the setup and configuration steps it takes to get your application running.
+> **[0:32](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/introducing-the-demo-app?u=76281980&t=32)** If you're a developer and you're using something different like [[Python (Programming Language)|Python]] or Node, think about the setup and configuration steps it takes to get your application running.
 >
 > **[0:41](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/introducing-the-demo-app?u=76281980&t=41)** As I'm showing you how to use these tools like Elastic Beanstalk and AWS CodeDeploy to execute those kinds of setup steps on this Ruby app, think about how you'd apply the same tools to your stack.
 >
@@ -3047,15 +3021,15 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/introducing-the-demo-app?u=76281980&t=79)** And what I've got here is a direct link to an image URL somewhere on the internet.
 >
-> **[1:23](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/introducing-the-demo-app?u=76281980&t=83)** So we're not uploading images, we're creating a text record, essentially, that's going to go fetch that.
+> **[1:23](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/introducing-the-demo-app?u=76281980&t=83)** So we're not uploading images, we're creating a text record, essentially, that's going to go [[Fetch]] that.
 >
 > **[1:30](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/introducing-the-demo-app?u=76281980&t=90)** So click back to gallery, and you'll see another image appear.
 >
-> **[1:34](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/introducing-the-demo-app?u=76281980&t=94)** So I also want to point out on this application, we've got a few bits of metadata down here that are going to be helpful throughout the course.
+> **[1:34](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/introducing-the-demo-app?u=76281980&t=94)** So I also want to point out on this application, we've got a few bits of [[Metadata]] down here that are going to be helpful throughout the course.
 >
 > **[1:41](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/introducing-the-demo-app?u=76281980&t=101)** We see the host name.
 >
-> **[1:43](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/introducing-the-demo-app?u=76281980&t=103)** So right now, this is running locally on my laptop, but when we deploy to AWS, this might be on an EC2 instance with its IP address or domain name, or it might be on a container instance.
+> **[1:43](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/introducing-the-demo-app?u=76281980&t=103)** So right now, this is running locally on my laptop, but when we deploy to AWS, this might be on an [[Amazon EC2|EC2]] instance with its IP address or domain name, or it might be on a container instance.
 >
 > **[1:54](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/introducing-the-demo-app?u=76281980&t=114)** And as we horizontally scale, we're going to see that change and that's going to be our proof that we're running on multiple instances.
 >
@@ -3069,17 +3043,17 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/introducing-the-demo-app?u=76281980&t=141)** There's a production version of this app.
 >
-> **[2:23](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/introducing-the-demo-app?u=76281980&t=143)** If we run it with RAILS_ENV or rack ENV set to production, it's going to instead look for a Postgres database.
+> **[2:23](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/introducing-the-demo-app?u=76281980&t=143)** If we run it with RAILS_ENV or rack ENV set to production, it's going to instead look for a [[PostgreSQL|Postgres]] database.
 >
 > **[2:31](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/introducing-the-demo-app?u=76281980&t=151)** And throughout this course, we're going to find ways that we can connect our deployed AWS services to a running Postgres database on RDS using AWS.
 >
 > **[2:41](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/introducing-the-demo-app?u=76281980&t=161)** So I want to show you a bit of the code here.
 >
-> **[2:46](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/introducing-the-demo-app?u=76281980&t=166)** So if you go to GitHub, you're going to find this repo.
+> **[2:46](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/introducing-the-demo-app?u=76281980&t=166)** So if you go to [[GitHub]], you're going to find this repo.
 >
 > **[2:50](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/introducing-the-demo-app?u=76281980&t=170)** This link will be somewhere in the course description, and you can see here it's at brandon-rich-aws-deployment-course/my_art_gallery.
 >
-> **[2:58](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/introducing-the-demo-app?u=76281980&t=178)** Now, I'm not going to go into all the ways that Git works, or GitHub.
+> **[2:58](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/introducing-the-demo-app?u=76281980&t=178)** Now, I'm not going to go into all the ways that [[Git]] works, or GitHub.
 >
 > **[3:02](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/introducing-the-demo-app?u=76281980&t=182)** There are other videos on this site's library to get into all that, and you probably are coming with a little bit of that knowledge to begin with.
 >
@@ -3163,7 +3137,7 @@ created: 2026-05-02
 >
 > **[6:10](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/introducing-the-demo-app?u=76281980&t=370)** Same kind of thing happens here.
 >
-> **[6:11](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/introducing-the-demo-app?u=76281980&t=371)** And it can be pretty convenient because it means that you can ship secrets with your code, and even push them to version control.
+> **[6:11](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/introducing-the-demo-app?u=76281980&t=371)** And it can be pretty convenient because it means that you can ship secrets with your code, and even push them to [[Version Control]].
 >
 > **[6:19](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/introducing-the-demo-app?u=76281980&t=379)** And then when you deploy, all you really need to inject into the runtime environment is that one secret.
 >
@@ -3189,7 +3163,7 @@ created: 2026-05-02
 >
 > **[7:12](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/introducing-the-demo-app?u=76281980&t=432)** And there are going to be times when we need to set the value, RAILS_MASTER_KEY in order to make the application work.
 >
-> **[7:20](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/introducing-the-demo-app?u=76281980&t=440)** So we're going to do that right now on the command line, proceeded by the word export.
+> **[7:20](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/introducing-the-demo-app?u=76281980&t=440)** So we're going to do that right now on the command line, proceeded by the [[Microsoft Word|word]] export.
 >
 > **[7:26](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/introducing-the-demo-app?u=76281980&t=446)** RAILS_MASTER_KEY equals that value, and that's going to allow us to get into an important value that is defined inside that encrypted file.
 >
@@ -3221,7 +3195,7 @@ created: 2026-05-02
 >
 > **[8:37](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/introducing-the-demo-app?u=76281980&t=517)** Okay, so that is pretty much it for how to run this app.
 >
-> **[8:42](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/introducing-the-demo-app?u=76281980&t=522)** I'll point out one other thing here, which is when we want to make a change to the app just to see a deployment working, usually the file that I will run or that I will edit is here, it's app/views/arts/index.html.erb.
+> **[8:42](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/introducing-the-demo-app?u=76281980&t=522)** I'll point out one other thing here, which is when we want to make a change to the app just to see a deployment working, usually the file that I will run or that I will edit is here, it's app/views/arts/index.[[HTML]].erb.
 >
 > **[8:59](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/introducing-the-demo-app?u=76281980&t=539)** And then there's a little H2 subheader here that we can edit.
 >
@@ -3243,7 +3217,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (12), application (10), database (9), [[PostgreSQL|Postgres]] (3), [[GitHub]] (3)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (3), [[GitHub]] (3), [[Version Control]] (2), [[Python (Programming Language)|Python]] (1), [[Fetch]] (1)
 > **CLI Commands:** aws (12), ruby (8), make (6), rails (3), find (2)
 > **Env Vars:** aws (11), rails_env (4), rails_master_key (2), url (1), ec2 (1)
 > **Prerequisites:** install (6), setup (5)
@@ -3257,20 +3231,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding AWS Elastic Beanstalk
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-beanstalk?u=76281980)
+#### [Understanding AWS Elastic Beanstalk](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-beanstalk?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-beanstalk?u=76281980&t=0)** - [Instructor] Elastic Beanstalk is AWS's application platform as a service.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-beanstalk?u=76281980&t=0)** - [Instructor] Elastic Beanstalk is AWS's application [[PaaS|platform as a service]].
 >
-> **[0:05](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-beanstalk?u=76281980&t=5)** Before we delve into platform as a service though, it might help to take one step back and understand infrastructure as a service.
+> **[0:05](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-beanstalk?u=76281980&t=5)** Before we delve into platform as a service though, it might help to take one step back and understand [[IaaS|infrastructure as a service]].
 >
-> **[0:13](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-beanstalk?u=76281980&t=13)** Infrastructure as a service platforms, like AWS, give you the tools to easily create and manage many components of a data center that would formally have involved manual effort and physical hardware.
+> **[0:13](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-beanstalk?u=76281980&t=13)** Infrastructure as a service platforms, like AWS, give you the tools to easily create and manage many components of a data center that would formally have involved manual effort and physical [[Hardware]].
 >
 > **[0:24](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-beanstalk?u=76281980&t=24)** AWS has several great examples of infrastructure as a service.
 >
-> **[0:28](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-beanstalk?u=76281980&t=28)** Think of all the details that AWS takes care of when you build a VPC, subnets, EC2 instances, load balancers, or security groups.
+> **[0:28](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-beanstalk?u=76281980&t=28)** Think of all the details that AWS takes care of when you build a VPC, subnets, [[Amazon EC2|EC2]] instances, load balancers, or security groups.
 >
 > **[0:37](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-beanstalk?u=76281980&t=37)** You don't need to know how to install, deploy, and scale a load balancer.
 >
@@ -3288,11 +3261,11 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-beanstalk?u=76281980&t=76)** It gives you all the tools to deploy, run, and scale your app with minimal intervention, while still giving you the flexibility to configure the environment as needed.
 >
-> **[1:26](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-beanstalk?u=76281980&t=86)** AWS Elastic Beanstalk provides this capability for many popular web programming languages, such as Ruby on Rails, Python, Node.js, PHP, Go, Java, and .NET.
+> **[1:26](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-beanstalk?u=76281980&t=86)** AWS Elastic Beanstalk provides this capability for many popular web programming languages, such as Ruby on Rails, [[Python (Programming Language)|Python]], [[Node.js]], [[PHP]], Go, [[Java]], and .NET.
 >
 > **[1:38](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-beanstalk?u=76281980&t=98)** That's not all.
 >
-> **[1:39](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-beanstalk?u=76281980&t=99)** Let's zoom in on the app server because we need to do some provisioning.
+> **[1:39](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-beanstalk?u=76281980&t=99)** Let's [[Zoom]] in on the app server because we need to do some provisioning.
 >
 > **[1:43](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-beanstalk?u=76281980&t=103)** Often a web server runs both an application server and a web server, which proxies request to the app server.
 >
@@ -3300,7 +3273,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-beanstalk?u=76281980&t=118)** And to actually run the app, I'll need an up-to-date version of Ruby, along with Bundler, the RubyGem package manager.
 >
-> **[2:05](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-beanstalk?u=76281980&t=125)** Good news, Beanstalk will take care of all of this for us: load balancing, web server provisioning, databases, and more.
+> **[2:05](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-beanstalk?u=76281980&t=125)** Good news, Beanstalk will take care of all of this for us: load balancing, web server provisioning, [[Databases]], and more.
 >
 > **[2:14](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-beanstalk?u=76281980&t=134)** So let's look at the components of an Elastic Beanstalk application, and the first step is to define an application.
 >
@@ -3334,7 +3307,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-beanstalk?u=76281980&t=218)** That instance will be automatically provisioned with the software required by your selected platform and stack.
 >
-> **[3:44](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-beanstalk?u=76281980&t=224)** In the Ruby example, this host is an Amazon Linux instance with Ruby and NGINX installed.
+> **[3:44](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-beanstalk?u=76281980&t=224)** In the Ruby example, this host is an Amazon [[Linux]] instance with Ruby and NGINX installed.
 >
 > **[3:50](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-beanstalk?u=76281980&t=230)** That host also has an agent running shown here.
 >
@@ -3356,9 +3329,9 @@ created: 2026-05-02
 >
 > **[4:39](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-beanstalk?u=76281980&t=279)** We also get management of load balancing in SSL.
 >
-> **[4:43](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-beanstalk?u=76281980&t=283)** Beanstalk can deploy applications stored in S3 or in a git remote, such as GitHub, Bitbucket, or AWS's own CodeCommit.
+> **[4:43](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-beanstalk?u=76281980&t=283)** Beanstalk can deploy applications stored in S3 or in a [[Git]] remote, such as [[GitHub]], [[Bitbucket]], or AWS's own CodeCommit.
 >
-> **[4:52](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-beanstalk?u=76281980&t=292)** The Beanstalk CLI, or command line interface, can perform all environment creation and management tasks and deploy and update applications.
+> **[4:52](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-beanstalk?u=76281980&t=292)** The Beanstalk [[CLI]], or command line interface, can perform all environment creation and management tasks and deploy and update applications.
 >
 > **[5:02](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-beanstalk?u=76281980&t=302)** Additional features of Beanstalk include enhanced health checks and environmental monitoring.
 >
@@ -3368,7 +3341,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (11), application (11), web (6), [[PaaS|Platform as a service]] (5), [[IaaS|Infrastructure as a service]] (3)
+> **Frameworks & Libraries:** [[PaaS|Platform as a service]] (5), [[IaaS|Infrastructure as a service]] (3), [[Amazon EC2|Ec2]] (3), [[Java]] (2), [[Hardware]] (1)
 > **Env Vars:** aws (11), ec2 (3), net (2), nginx (2), ssl (2)
 > **CLI Commands:** aws (11), ruby (6), rails (3), nginx (2), python (1)
 > **Analogies:** such as (4), for instance (1), for example (1), just like (1)
@@ -3377,8 +3350,7 @@ created: 2026-05-02
 > **File Paths:** node.js (1)
 > **Ports:** port 80 (1)
 
-#### AWS Elastic Beanstalk deployment options
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-elastic-beanstalk-deployment-options?u=76281980)
+#### [AWS Elastic Beanstalk deployment options](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-elastic-beanstalk-deployment-options?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3424,15 +3396,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), aws (1), web (1), hit (1)
 > **Tools:** command line (2)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Initialize an AWS Elastic Beanstalk application
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/initialize-an-aws-elastic-beanstalk-application?u=76281980)
+#### [Initialize an AWS Elastic Beanstalk application](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/initialize-an-aws-elastic-beanstalk-application?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3440,9 +3410,9 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/initialize-an-aws-elastic-beanstalk-application?u=76281980&t=5)** For this demo, I'm at the terminal, and I have a few things installed that you'll need to have too if you want to follow along.
 >
-> **[0:11](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/initialize-an-aws-elastic-beanstalk-application?u=76281980&t=11)** I have the git command line tools installed so that I can interact with GitHub.
+> **[0:11](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/initialize-an-aws-elastic-beanstalk-application?u=76281980&t=11)** I have the [[Git]] command line tools installed so that I can interact with [[GitHub]].
 >
-> **[0:16](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/initialize-an-aws-elastic-beanstalk-application?u=76281980&t=16)** I also have Python 3 and PIP 3, the Python Package manager.
+> **[0:16](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/initialize-an-aws-elastic-beanstalk-application?u=76281980&t=16)** I also have [[Python (Programming Language)|Python]] 3 and PIP 3, the Python Package manager.
 >
 > **[0:21](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/initialize-an-aws-elastic-beanstalk-application?u=76281980&t=21)** AWS makes available a command line tool for Elastic Beanstalk called the EBCLI, or Command Line Interface.
 >
@@ -3458,7 +3428,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/initialize-an-aws-elastic-beanstalk-application?u=76281980&t=66)** Let's hit enter.
 >
-> **[1:09](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/initialize-an-aws-elastic-beanstalk-application?u=76281980&t=69)** Now that the installation is done, we see a warning that we need to upgrade our path if we want to see the CLI to be available.
+> **[1:09](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/initialize-an-aws-elastic-beanstalk-application?u=76281980&t=69)** Now that the installation is done, we see a warning that we need to upgrade our path if we want to see the [[CLI]] to be available.
 >
 > **[1:16](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/initialize-an-aws-elastic-beanstalk-application?u=76281980&t=76)** So the thing that I'm going to want to do is copy this path right here, and now I'm going to use VI in my command line editor to open up a file called .zshrc.
 >
@@ -3590,7 +3560,7 @@ created: 2026-05-02
 >
 > **[7:22](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/initialize-an-aws-elastic-beanstalk-application?u=76281980&t=442)** A region, so I'll choose US East one, and then default output format.
 >
-> **[7:27](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/initialize-an-aws-elastic-beanstalk-application?u=76281980&t=447)** JSON will work here.
+> **[7:27](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/initialize-an-aws-elastic-beanstalk-application?u=76281980&t=447)** [[JSON]] will work here.
 >
 > **[7:30](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/initialize-an-aws-elastic-beanstalk-application?u=76281980&t=450)** Again, if you didn't have the general purpose CLI installed, you didn't do that step, that's okay.
 >
@@ -3620,7 +3590,7 @@ created: 2026-05-02
 >
 > **[8:39](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/initialize-an-aws-elastic-beanstalk-application?u=76281980&t=519)** We don't want to use Docker right now, so say no and hit enter.
 >
-> **[8:44](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/initialize-an-aws-elastic-beanstalk-application?u=76281980&t=524)** We'll choose Ruby for the programming language and for the platform, Ruby 3.2 on Amazon Linux.
+> **[8:44](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/initialize-an-aws-elastic-beanstalk-application?u=76281980&t=524)** We'll choose Ruby for the programming language and for the platform, Ruby 3.2 on Amazon [[Linux]].
 >
 > **[8:51](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/initialize-an-aws-elastic-beanstalk-application?u=76281980&t=531)** That's that first option there.
 >
@@ -3652,7 +3622,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (13), application (7), hit (7), [[CLI]] (6), next (6)
+> **Frameworks & Libraries:** [[CLI]] (6), [[GitHub]] (3), [[Python (Programming Language)|Python]] (2), [[Git]] (1), [[JSON]] (1)
 > **Env Vars:** aws (12), cli (6), iam (3), pip (2), ebcli (2)
 > **CLI Commands:** aws (13), python (2), pip (2), ruby (2), ssh (2)
 > **Tools:** command line (10), terminal (5), github (3), bash (1), aws console (1)
@@ -3661,8 +3631,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (2), go to (1)
 > **Versions:** python 3 (1), ruby 3 (1)
 
-#### Create an AWS Elastic Beanstalk environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-aws-elastic-beanstalk-environment?u=76281980)
+#### [Create an AWS Elastic Beanstalk environment](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-aws-elastic-beanstalk-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3688,7 +3657,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-aws-elastic-beanstalk-environment?u=76281980&t=49)** Now, there's a command I want to show you right now should you need it during this process.
 >
-> **[0:54](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-aws-elastic-beanstalk-environment?u=76281980&t=54)** If you get an error that tells you that you don't have a default VPC, you're going to need the AWS CLI installed as we did a few videos ago.
+> **[0:54](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-aws-elastic-beanstalk-environment?u=76281980&t=54)** If you get an error that tells you that you don't have a default VPC, you're going to need the AWS [[CLI]] installed as we did a few videos ago.
 >
 > **[1:05](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-aws-elastic-beanstalk-environment?u=76281980&t=65)** And you're going to want to run this right here, aws_ec2 create-default-vpc.
 >
@@ -3714,7 +3683,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-aws-elastic-beanstalk-environment?u=76281980&t=138)** So just for safety sake here, I'm going to give m1.medium as the instance type that we're going to use.
 >
-> **[2:25](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-aws-elastic-beanstalk-environment?u=76281980&t=145)** And so we'll create that type of EC2.
+> **[2:25](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-aws-elastic-beanstalk-environment?u=76281980&t=145)** And so we'll create that type of [[Amazon EC2|EC2]].
 >
 > **[2:28](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-aws-elastic-beanstalk-environment?u=76281980&t=148)** And finally, I'll stick with the --profile that we've been using to make sure that it continues to use the credentials we set up earlier.
 >
@@ -3830,7 +3799,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (9), aws (3), [[Amazon EC2|Ec2]] (3), hit (3), [[Search]] (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3), [[CLI]] (1)
 > **Env Vars:** ec2 (3), aws (2), vpc (1), cli (1), ram (1)
 > **CLI Commands:** aws (3), ruby (3), make (1)
 > **Tools:** command line (4), terminal (1)
@@ -3839,8 +3808,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (2)
 > **Prerequisites:** set up (1), setup (1)
 
-#### Customize AWS Elastic Beanstalk with ebextensions
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/customize-aws-elastic-beanstalk-with-ebextensions?u=76281980)
+#### [Customize AWS Elastic Beanstalk with ebextensions](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/customize-aws-elastic-beanstalk-with-ebextensions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3860,9 +3828,9 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/customize-aws-elastic-beanstalk-with-ebextensions?u=76281980&t=52)** First, packages.
 >
-> **[0:54](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/customize-aws-elastic-beanstalk-with-ebextensions?u=76281980&t=54)** In this section, we tell Beanstalk to install the package samba-client using yum, the package manager native to Amazon Linux.
+> **[0:54](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/customize-aws-elastic-beanstalk-with-ebextensions?u=76281980&t=54)** In this section, we tell Beanstalk to install the package samba-client using yum, the package manager native to Amazon [[Linux]].
 >
-> **[1:02](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/customize-aws-elastic-beanstalk-with-ebextensions?u=76281980&t=62)** The packages section also supports package managers Python, RPM, and even Ruby Gems.
+> **[1:02](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/customize-aws-elastic-beanstalk-with-ebextensions?u=76281980&t=62)** The packages section also supports package managers [[Python (Programming Language)|Python]], RPM, and even Ruby Gems.
 >
 > **[1:09](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/customize-aws-elastic-beanstalk-with-ebextensions?u=76281980&t=69)** Next, options_settings.
 >
@@ -3872,7 +3840,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/customize-aws-elastic-beanstalk-with-ebextensions?u=76281980&t=87)** Be advised also that you should not put sensitive values here.
 >
-> **[1:30](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/customize-aws-elastic-beanstalk-with-ebextensions?u=76281980&t=90)** If you need to inject passwords or other valuable secrets into the runtime environment, consider either using the Elastic Beanstalk command line to push environment variables and trigger a deploy or modify your app to fetch secrets from a secure repository, like AWS's Parameter Store, which we'll explore in the next chapter.
+> **[1:30](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/customize-aws-elastic-beanstalk-with-ebextensions?u=76281980&t=90)** If you need to inject passwords or other valuable secrets into the runtime environment, consider either using the Elastic Beanstalk command line to push environment variables and trigger a deploy or modify your app to [[Fetch]] secrets from a secure repository, like AWS's Parameter Store, which we'll explore in the next chapter.
 >
 > **[1:50](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/customize-aws-elastic-beanstalk-with-ebextensions?u=76281980&t=110)** Finally, container_commands, which is our chance to execute any command we need to run.
 >
@@ -3880,7 +3848,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/customize-aws-elastic-beanstalk-with-ebextensions?u=76281980&t=122)** These labels can be anything you like, but I've named them that way to ensure proper ordering as these commands are executed in alphabetic order.
 >
-> **[2:11](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/customize-aws-elastic-beanstalk-with-ebextensions?u=76281980&t=131)** If you place this file in a .ebextensions folder, commit it to your Git repo and deploy your Beanstalk environment, all of this will get executed for each instance that joins your environment.
+> **[2:11](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/customize-aws-elastic-beanstalk-with-ebextensions?u=76281980&t=131)** If you place this file in a .ebextensions folder, commit it to your [[Git]] repo and deploy your Beanstalk environment, all of this will get executed for each instance that joins your environment.
 >
 > **[2:23](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/customize-aws-elastic-beanstalk-with-ebextensions?u=76281980&t=143)** A .ebextensions file can contain some other sections that give you control over the environment.
 >
@@ -3898,7 +3866,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (3), next (2), [[Linux]] (1), [[Python (Programming Language)|Python]] (1), application (1)
+> **Frameworks & Libraries:** [[Linux]] (1), [[Python (Programming Language)|Python]] (1), [[Fetch]] (1), [[Git]] (1)
 > **CLI Commands:** aws (3), yum (1), python (1), ruby (1), git (1)
 > **Env Vars:** yaml (1), rpm (1), aws (1), zip (1), url (1)
 > **Code Identifiers:** options_settings (1), container_commands (1)
@@ -3907,8 +3875,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1), install (1)
 > **File Paths:** basic.config (1)
 
-#### Troubleshoot Elastic Beanstalk and set environment variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/troubleshoot-elastic-beanstalk-and-set-environment-variables?u=76281980)
+#### [Troubleshoot Elastic Beanstalk and set environment variables](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/troubleshoot-elastic-beanstalk-and-set-environment-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3972,9 +3939,9 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/troubleshoot-elastic-beanstalk-and-set-environment-variables?u=76281980&t=160)** First things first, I want to see if the Rails application's, here called Puma is running.
 >
-> **[2:45](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/troubleshoot-elastic-beanstalk-and-set-environment-variables?u=76281980&t=165)** So I'll do a little bit of Linux command line here, and I'll type ps for the process list dash ef.
+> **[2:45](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/troubleshoot-elastic-beanstalk-and-set-environment-variables?u=76281980&t=165)** So I'll do a little bit of [[Linux]] command line here, and I'll type ps for the process list dash ef.
 >
-> **[2:53](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/troubleshoot-elastic-beanstalk-and-set-environment-variables?u=76281980&t=173)** And I'm going to grep this by the word puma.
+> **[2:53](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/troubleshoot-elastic-beanstalk-and-set-environment-variables?u=76281980&t=173)** And I'm going to grep this by the [[Microsoft Word|word]] puma.
 >
 > **[2:57](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/troubleshoot-elastic-beanstalk-and-set-environment-variables?u=76281980&t=177)** And this is going to show me a couple results, one of which is the health check associated with Beanstalk, and the other is the grep itself.
 >
@@ -4030,9 +3997,9 @@ created: 2026-05-02
 >
 > **[5:29](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/troubleshoot-elastic-beanstalk-and-set-environment-variables?u=76281980&t=329)** So I'll show you that here and we'll grab the value right here.
 >
-> **[5:38](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/troubleshoot-elastic-beanstalk-and-set-environment-variables?u=76281980&t=338)** Okay, you never, never want to do this, as it says in the README, you never want to push this file to GitHub or commit it at all.
+> **[5:38](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/troubleshoot-elastic-beanstalk-and-set-environment-variables?u=76281980&t=338)** Okay, you never, never want to do this, as it says in the README, you never want to push this file to [[GitHub]] or commit it at all.
 >
-> **[5:45](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/troubleshoot-elastic-beanstalk-and-set-environment-variables?u=76281980&t=345)** You don't want that value in version control.
+> **[5:45](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/troubleshoot-elastic-beanstalk-and-set-environment-variables?u=76281980&t=345)** You don't want that value in [[Version Control]].
 >
 > **[5:48](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/troubleshoot-elastic-beanstalk-and-set-environment-variables?u=76281980&t=348)** But since this is a demo app, there's nothing of consequence inside of it.
 >
@@ -4080,7 +4047,7 @@ created: 2026-05-02
 >
 > **[7:52](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/troubleshoot-elastic-beanstalk-and-set-environment-variables?u=76281980&t=472)** You don't need to know specifically what that means.
 >
-> **[7:54](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/troubleshoot-elastic-beanstalk-and-set-environment-variables?u=76281980&t=474)** It sort of Rails speak, but it does show us that there's an attempt being made to connect to a Postgres database that it cannot find.
+> **[7:54](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/troubleshoot-elastic-beanstalk-and-set-environment-variables?u=76281980&t=474)** It sort of Rails speak, but it does show us that there's an attempt being made to connect to a [[PostgreSQL|Postgres]] database that it cannot find.
 >
 > **[8:03](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/troubleshoot-elastic-beanstalk-and-set-environment-variables?u=76281980&t=483)** So let's exit out of this SSH session and see if we can figure out what's going on there.
 >
@@ -4120,7 +4087,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (19), database (7), [[PostgreSQL|Postgres]] (5), web (2), hit (2)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (5), [[Linux]] (1), [[Microsoft Word|Word]] (1), [[GitHub]] (1), [[Version Control]] (1)
 > **CLI Commands:** rails (14), ssh (6), find (2), grep (2), make (2)
 > **Env Vars:** ssh (6), readme (5), rds (4), env (3), ascii (1)
 > **Tools:** command line (3), terminal (2), github (1)
@@ -4129,8 +4096,7 @@ created: 2026-05-02
 > **Definitions:** is a  (3), is an  (1), stands for (1)
 > **Cross-References:** go back to (1), in the next (1)
 
-#### Add a database to AWS Elastic Beanstalk
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/add-a-database-to-aws-elastic-beanstalk?u=76281980)
+#### [Add a database to AWS Elastic Beanstalk](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/add-a-database-to-aws-elastic-beanstalk?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4140,9 +4106,9 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/add-a-database-to-aws-elastic-beanstalk?u=76281980&t=10)** RDS is a full fledged service.
 >
-> **[0:11](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/add-a-database-to-aws-elastic-beanstalk?u=76281980&t=11)** You can spin up with many different types of databases.
+> **[0:11](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/add-a-database-to-aws-elastic-beanstalk?u=76281980&t=11)** You can spin up with many different types of [[Databases]].
 >
-> **[0:15](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/add-a-database-to-aws-elastic-beanstalk?u=76281980&t=15)** To learn more, see my other course, AWS Storage and Data Management, in the learning library on this site.
+> **[0:15](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/add-a-database-to-aws-elastic-beanstalk?u=76281980&t=15)** To learn more, see my other course, AWS Storage and [[Data Management]], in the learning library on this site.
 >
 > **[0:22](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/add-a-database-to-aws-elastic-beanstalk?u=76281980&t=22)** For now though, we'll work through Beanstalk, which lets you create an RDS database from here.
 >
@@ -4156,7 +4122,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/add-a-database-to-aws-elastic-beanstalk?u=76281980&t=46)** But here we have the interface right here kind of encapsulated in the Beanstalk Console.
 >
-> **[0:51](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/add-a-database-to-aws-elastic-beanstalk?u=76281980&t=51)** Now, we don't need to restore a snapshot because this is a brand new database, and we can select our engine Postgres, which is what we know the app is expecting.
+> **[0:51](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/add-a-database-to-aws-elastic-beanstalk?u=76281980&t=51)** Now, we don't need to restore a snapshot because this is a brand new database, and we can select our engine [[PostgreSQL|Postgres]], which is what we know the app is expecting.
 >
 > **[1:02](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/add-a-database-to-aws-elastic-beanstalk?u=76281980&t=62)** It's doing a little loading here before we get some options.
 >
@@ -4230,9 +4196,9 @@ created: 2026-05-02
 >
 > **[4:45](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/add-a-database-to-aws-elastic-beanstalk?u=76281980&t=285)** Just like the first time we did a deployment, the application is getting bundled up and it's getting pushed to S3.
 >
-> **[4:51](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/add-a-database-to-aws-elastic-beanstalk?u=76281980&t=291)** Now, one thing that you really do need to know right here is anytime that you make a change to the application, it's going to take the head revision of your current Git repository on your local host.
+> **[4:51](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/add-a-database-to-aws-elastic-beanstalk?u=76281980&t=291)** Now, one thing that you really do need to know right here is anytime that you make a change to the application, it's going to take the head revision of your current [[Git]] repository on your local host.
 >
-> **[5:04](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/add-a-database-to-aws-elastic-beanstalk?u=76281980&t=304)** It does not mean that your changes need to be pushed to GitHub or any other Git remote, but it does mean that your changes have to be committed to the head revision of wherever you're currently working on your local machine.
+> **[5:04](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/add-a-database-to-aws-elastic-beanstalk?u=76281980&t=304)** It does not mean that your changes need to be pushed to [[GitHub]] or any other Git remote, but it does mean that your changes have to be committed to the head revision of wherever you're currently working on your local machine.
 >
 > **[5:16](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/add-a-database-to-aws-elastic-beanstalk?u=76281980&t=316)** So we haven't actually made any changes to this application yet.
 >
@@ -4294,7 +4260,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (17), application (11), aws (4), [[PostgreSQL|Postgres]] (4), next (4)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (4), [[Databases]] (2), [[Git]] (2), [[Data Management]] (1), [[GitHub]] (1)
 > **CLI Commands:** aws (4), make (4), az (2), git (2), ruby (1)
 > **Env Vars:** rds (9), aws (4), url (1)
 > **Definitions:** is a  (2), known as (1), means that (1)
@@ -4303,8 +4269,7 @@ created: 2026-05-02
 > **Tools:** terminal (1), github (1)
 > **Analogies:** just like (1), picture (1)
 
-#### Deploy and scale an AWS Elastic Beanstalk app
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/deploy-and-scale-an-aws-elastic-beanstalk-app?u=76281980)
+#### [Deploy and scale an AWS Elastic Beanstalk app](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/deploy-and-scale-an-aws-elastic-beanstalk-app?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4342,7 +4307,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/deploy-and-scale-an-aws-elastic-beanstalk-app?u=76281980&t=90)** We've got to do a commit on this change.
 >
-> **[1:33](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/deploy-and-scale-an-aws-elastic-beanstalk-app?u=76281980&t=93)** So I'm going to do a git add and a git commit, and that will make sure that this file and this change is on the head revision on my local Git repository, so that when I do eb deploy, it will take that change.
+> **[1:33](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/deploy-and-scale-an-aws-elastic-beanstalk-app?u=76281980&t=93)** So I'm going to do a [[Git]] add and a git commit, and that will make sure that this file and this change is on the head revision on my local Git repository, so that when I do eb deploy, it will take that change.
 >
 > **[1:52](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/deploy-and-scale-an-aws-elastic-beanstalk-app?u=76281980&t=112)** So this may take a few moments, but when it does, we should be able to head back here to the running application and see the change.
 >
@@ -4380,7 +4345,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/deploy-and-scale-an-aws-elastic-beanstalk-app?u=76281980&t=209)** Now this is open in nano, not my preferred editor, so I'm going to X out of here.
 >
-> **[3:35](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/deploy-and-scale-an-aws-elastic-beanstalk-app?u=76281980&t=215)** And you can do this as well if you prefer VI, type the word EDITOR in all caps, give vi or or vim here, and then do eb config, and then we'll override the editor that gets used.
+> **[3:35](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/deploy-and-scale-an-aws-elastic-beanstalk-app?u=76281980&t=215)** And you can do this as well if you prefer VI, type the [[Microsoft Word|word]] EDITOR in all caps, give vi or or vim here, and then do eb config, and then we'll override the editor that gets used.
 >
 > **[3:48](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/deploy-and-scale-an-aws-elastic-beanstalk-app?u=76281980&t=228)** All right, so now I can move around a little more comfortably and I'm looking for min size.
 >
@@ -4394,7 +4359,7 @@ created: 2026-05-02
 >
 > **[4:14](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/deploy-and-scale-an-aws-elastic-beanstalk-app?u=76281980&t=254)** So this is triggering an action in the Auto Scaling Group, which we can take a look at.
 >
-> **[4:20](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/deploy-and-scale-an-aws-elastic-beanstalk-app?u=76281980&t=260)** Auto Scaling is under the EC2 section, so I'm going to put that in the search bar and open up EC2 in a new tab.
+> **[4:20](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/deploy-and-scale-an-aws-elastic-beanstalk-app?u=76281980&t=260)** Auto Scaling is under the [[Amazon EC2|EC2]] section, so I'm going to put that in the search bar and open up EC2 in a new tab.
 >
 > **[4:28](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/deploy-and-scale-an-aws-elastic-beanstalk-app?u=76281980&t=268)** And we'll scroll down to Auto Scaling and click into this Auto Scaling Group.
 >
@@ -4464,7 +4429,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (9), [[Git]] (3), database (2), next (2), [[Amazon EC2|Ec2]] (2)
+> **Frameworks & Libraries:** [[Git]] (3), [[Amazon EC2|Ec2]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (5), git (3), ssh (1), find (1), ruby (1)
 > **Env Vars:** rds (2), ec2 (2), ssh (1), gui (1), yaml (1)
 > **UI Navigation:** go to (4), scroll down (3), scroll up (1)
@@ -4473,8 +4438,7 @@ created: 2026-05-02
 > **Ports:** port 80 (1)
 > **Definitions:** means that (1)
 
-#### Deploy Docker containers via AWS Elastic Beanstalk
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/deploy-docker-containers-via-aws-elastic-beanstalk?u=76281980)
+#### [Deploy Docker containers via AWS Elastic Beanstalk](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/deploy-docker-containers-via-aws-elastic-beanstalk?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4482,13 +4446,13 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/deploy-docker-containers-via-aws-elastic-beanstalk?u=76281980&t=8)** But I just want to stop and show you something that I alluded to earlier, which is deploying Docker on Beanstalk.
 >
-> **[0:14](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/deploy-docker-containers-via-aws-elastic-beanstalk?u=76281980&t=14)** So if you go back to the GitHub, you'll see there's a repo called nginx_docker.
+> **[0:14](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/deploy-docker-containers-via-aws-elastic-beanstalk?u=76281980&t=14)** So if you go back to the [[GitHub]], you'll see there's a repo called nginx_docker.
 >
 > **[0:20](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/deploy-docker-containers-via-aws-elastic-beanstalk?u=76281980&t=20)** It's a very simple repository, just a couple files you can see right here.
 >
 > **[0:24](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/deploy-docker-containers-via-aws-elastic-beanstalk?u=76281980&t=24)** There's a Dockerfile, a pretty short one.
 >
-> **[0:27](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/deploy-docker-containers-via-aws-elastic-beanstalk?u=76281980&t=27)** It loads from nginx:alpine, copies in the index.html, and then opens up port 80.
+> **[0:27](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/deploy-docker-containers-via-aws-elastic-beanstalk?u=76281980&t=27)** It loads from nginx:alpine, copies in the index.[[HTML]], and then opens up port 80.
 >
 > **[0:33](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/deploy-docker-containers-via-aws-elastic-beanstalk?u=76281980&t=33)** And the README gives you two steps to run this locally.
 >
@@ -4524,7 +4488,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/deploy-docker-containers-via-aws-elastic-beanstalk?u=76281980&t=105)** It's a little bit more sophisticated, but it's a great way to run Docker that we will see later in the course.
 >
-> **[1:51](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/deploy-docker-containers-via-aws-elastic-beanstalk?u=76281980&t=111)** For now, we're going to choose the first option to just run it on an EC2 instance.
+> **[1:51](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/deploy-docker-containers-via-aws-elastic-beanstalk?u=76281980&t=111)** For now, we're going to choose the first option to just run it on an [[Amazon EC2|EC2]] instance.
 >
 > **[1:55](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/deploy-docker-containers-via-aws-elastic-beanstalk?u=76281980&t=115)** So it's really no less compute than we used in the previous example and no less expense for that, but it is running Docker, which has some great benefits.
 >
@@ -4560,7 +4524,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), next (2), [[GitHub]] (2), hit (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (2), [[HTML]] (1), [[Amazon EC2|Ec2]] (1)
 > **CLI Commands:** docker (10), nginx (3), ssh (1), aws (1)
 > **Env Vars:** url (2), readme (1), ecs (1), ec2 (1), ssh (1)
 > **Cross-References:** go back to (2), later in (2), next video (1), in the next (1)
@@ -4569,8 +4533,7 @@ created: 2026-05-02
 > **Code Identifiers:** nginx_docker (1)
 > **Ports:** port 80 (1)
 
-#### Elastic Beanstalk teardown
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/elastic-beanstalk-teardown?u=76281980)
+#### [Elastic Beanstalk teardown](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/elastic-beanstalk-teardown?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4696,7 +4659,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), application (5), hit (2), aws (2), next (2)
 > **CLI Commands:** nginx (6), docker (3), ruby (2), make (2), aws (2)
 > **Env Vars:** rds (8), iam (3), aws (2)
 > **UI Navigation:** go to (3), checkbox (1)
@@ -4704,14 +4666,14 @@ created: 2026-05-02
 > **Tools:** command line (1), terminal (1)
 > **Analogies:** just like (2)
 > **Warnings:** watch out (1)
+> **Speakers:** - okay (1)
 
 
 ### 5. CodeDeploy
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AWS CodeDeploy key concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-key-concepts?u=76281980)
+#### [AWS CodeDeploy key concepts](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-key-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4719,9 +4681,9 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-key-concepts?u=76281980&t=6)** Next up is CodeDeploy.
 >
-> **[0:08](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-key-concepts?u=76281980&t=8)** Unlike Beanstalk, CodeDeploy is not a full platform as a service.
+> **[0:08](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-key-concepts?u=76281980&t=8)** Unlike Beanstalk, CodeDeploy is not a full [[PaaS|platform as a service]].
 >
-> **[0:13](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-key-concepts?u=76281980&t=13)** It'll take a bit more setting up, but it provides you with tremendous flexibility to create an end-to-end DevOps pipeline as we'll discover in this chapter.
+> **[0:13](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-key-concepts?u=76281980&t=13)** It'll take a bit more setting up, but it provides you with tremendous flexibility to create an end-to-end [[DevOps]] pipeline as we'll discover in this chapter.
 >
 > **[0:22](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-key-concepts?u=76281980&t=22)** CodeDeploy is designed to give you tools and get out of the way.
 >
@@ -4729,7 +4691,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-key-concepts?u=76281980&t=30)** CodeDeploy provides hooks for certain deployment events so you can make sure to execute certain actions at the right time.
 >
-> **[0:37](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-key-concepts?u=76281980&t=37)** It allows deployment from either S3 or Git.
+> **[0:37](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-key-concepts?u=76281980&t=37)** It allows deployment from either S3 or [[Git]].
 >
 > **[0:41](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-key-concepts?u=76281980&t=41)** And finally, unlike Beanstalk, CodeDeploy is a deployment tool only.
 >
@@ -4759,13 +4721,13 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-key-concepts?u=76281980&t=100)** Deployment groups are one of the unique features of CodeDeploy.
 >
-> **[1:44](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-key-concepts?u=76281980&t=104)** A deployment group can be defined as any combination of auto-scaling groups, EC2 instances identified by tag values used specify, or even local on-premises non-AWS instances.
+> **[1:44](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-key-concepts?u=76281980&t=104)** A deployment group can be defined as any combination of auto-scaling groups, [[Amazon EC2|EC2]] instances identified by tag values used specify, or even local on-premises non-AWS instances.
 >
 > **[1:57](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-key-concepts?u=76281980&t=117)** Local instances must be manually registered with CodeDeploy before they can be added to deployment groups.
 >
 > **[2:04](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-key-concepts?u=76281980&t=124)** You have multiple options for deployment sources.
 >
-> **[2:07](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-key-concepts?u=76281980&t=127)** App revisions can be defined either by specifying a location in S3 or by supplying the commit ID of a Git revision in a remote Git repository such as GitHub or Bitbucket.
+> **[2:07](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-key-concepts?u=76281980&t=127)** App revisions can be defined either by specifying a location in S3 or by supplying the commit ID of a Git revision in a remote Git repository such as [[GitHub]] or [[Bitbucket]].
 >
 > **[2:18](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-key-concepts?u=76281980&t=138)** This means that, unlike with Beanstalk, you're required to have a remote repository when you want to use CodeDeploy to deploy applications from Git.
 >
@@ -4783,13 +4745,13 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-key-concepts?u=76281980&t=187)** The appspec.yml file must reside at the root of your app repo.
 >
-> **[3:11](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-key-concepts?u=76281980&t=191)** It provides lightweight configuration management tools, has sections for file movement, permissions, and script executions, and contains hooks for each major CodeDeploy lifecycle event.
+> **[3:11](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-key-concepts?u=76281980&t=191)** It provides lightweight [[Configuration Management]] tools, has sections for file movement, permissions, and script executions, and contains hooks for each major CodeDeploy lifecycle event.
 >
 > **[3:22](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-key-concepts?u=76281980&t=202)** In the next video, we'll take a look at these lifecycle events in more detail and see an example of this appspec file.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (5), application (4), [[Git]] (4), next (2), [[DevOps]] (1)
+> **Frameworks & Libraries:** [[Git]] (4), [[DevOps]] (1), [[Amazon EC2|Ec2]] (1), [[GitHub]] (1), [[Bitbucket]] (1)
 > **CLI Commands:** aws (5), git (4), make (1)
 > **Env Vars:** aws (5), ec2 (1)
 > **Definitions:** is a  (2), defined as (1), means that (1)
@@ -4798,8 +4760,7 @@ created: 2026-05-02
 > **Tools:** github (1), bitbucket (1)
 > **Analogies:** such as (2)
 
-#### AWS CodeDeploy: AppSpec and lifecycle events
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-appspec-and-lifecycle-events?u=76281980)
+#### [AWS CodeDeploy: AppSpec and lifecycle events](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-appspec-and-lifecycle-events?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4835,7 +4796,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-appspec-and-lifecycle-events?u=76281980&t=87)** The file section moves a custom Nginx config to etc/nginx.
 >
-> **[1:32](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-appspec-and-lifecycle-events?u=76281980&t=92)** The source refers to a location in the app provision, so that means that config file must be in the GitHub repo or S3 folder if we're using S3 for code storage.
+> **[1:32](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-appspec-and-lifecycle-events?u=76281980&t=92)** The source refers to a location in the app provision, so that means that config file must be in the [[GitHub]] repo or S3 folder if we're using S3 for code storage.
 >
 > **[1:42](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-appspec-and-lifecycle-events?u=76281980&t=102)** Finally, the hook section defines actions for two lifecycle events, BeforeInstall and AfterInstall.
 >
@@ -4867,7 +4828,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1), application (1), [[GitHub]] (1), web (1), aws (1)
+> **Frameworks & Libraries:** [[GitHub]] (1)
 > **File Paths:** appspec.yml (4)
 > **CLI Commands:** nginx (2), aws (1)
 > **Definitions:** refers to (2), means that (1)
@@ -4876,8 +4837,7 @@ created: 2026-05-02
 > **Exercise Files:** github repo (1)
 > **Prerequisites:** install (1)
 
-#### AWS CodeDeploy: IAM setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-iam-setup?u=76281980)
+#### [AWS CodeDeploy: IAM setup](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-iam-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4903,7 +4863,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-iam-setup?u=76281980&t=55)** Because of the option we selected on the previous screen, AWSCodeDeployRole is already pre-provisioned here in the policies.
 >
-> **[1:03](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-iam-setup?u=76281980&t=63)** You can expand it with this little plus here and you can see all the mini-permissions that are given to the CodeDeploy service, including things on auto-scaling, EC2, and load balancing.
+> **[1:03](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-iam-setup?u=76281980&t=63)** You can expand it with this little plus here and you can see all the mini-permissions that are given to the CodeDeploy service, including things on auto-scaling, [[Amazon EC2|EC2]], and load balancing.
 >
 > **[1:13](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-iam-setup?u=76281980&t=73)** Click next.
 >
@@ -4949,7 +4909,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), aws (4), [[Amazon EC2|Ec2]] (4), [[Search]] (1), application (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (4)
 > **Env Vars:** aws (4), ec2 (4), iam (3)
 > **CLI Commands:** aws (4)
 > **UI Navigation:** go to (1), scroll down (1), dropdown (1)
@@ -4958,8 +4918,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### AWS CodeDeploy: Instance preparation
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-instance-preparation?u=76281980)
+#### [AWS CodeDeploy: Instance preparation](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-instance-preparation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4975,7 +4934,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-instance-preparation?u=76281980&t=21)** Later on, we'll use that image as the basis for the instances in an Auto Scaling group.
 >
-> **[0:25](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-instance-preparation?u=76281980&t=25)** So to get started, we're here at the console home and we want to go into the EC2 section.
+> **[0:25](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-instance-preparation?u=76281980&t=25)** So to get started, we're here at the console home and we want to go into the [[Amazon EC2|EC2]] section.
 >
 > **[0:32](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-instance-preparation?u=76281980&t=32)** Click into instances, and you can choose Launch Instances.
 >
@@ -4987,7 +4946,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-instance-preparation?u=76281980&t=56)** Okay.
 >
-> **[0:57](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-instance-preparation?u=76281980&t=57)** We're going to keep this at the default for Amazon Linux and scroll down to instance type.
+> **[0:57](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-instance-preparation?u=76281980&t=57)** We're going to keep this at the default for Amazon [[Linux]] and scroll down to instance type.
 >
 > **[1:02](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-instance-preparation?u=76281980&t=62)** Again, the type is not that important because we'll determine the type used in the Auto Scaling group later.
 >
@@ -5077,7 +5036,7 @@ created: 2026-05-02
 >
 > **[4:31](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-instance-preparation?u=76281980&t=271)** So you can see this is a great way to get into an instance when you need to interact with it just through the console using your current logged in user permissions.
 >
-> **[4:40](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-instance-preparation?u=76281980&t=280)** All right, so there's a command that we want to run here just to confirm that the CodeDeploy agent is installed, and it's sudo service codedeploy-agent, and then the word status.
+> **[4:40](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-instance-preparation?u=76281980&t=280)** All right, so there's a command that we want to run here just to confirm that the CodeDeploy agent is installed, and it's sudo service codedeploy-agent, and then the [[Microsoft Word|word]] status.
 >
 > **[4:52](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-instance-preparation?u=76281980&t=292)** And if everything's gone right, you're going to see output like this.
 >
@@ -5089,7 +5048,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[Amazon EC2|Ec2]] (3), [[Search]] (3), [[Security]] (2), aws (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3), [[Linux]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** ec2 (3), ami (2), iam (2), aws (2), ssh (1)
 > **UI Navigation:** scroll down (4), go to (2), checkbox (2)
 > **Prerequisites:** install (5), setup (1), set up (1)
@@ -5098,8 +5057,7 @@ created: 2026-05-02
 > **Exercise Files:** template (2)
 > **Definitions:** is a  (2)
 
-#### AWS CodeDeploy: Auto Scaling group
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-auto-scaling-group?u=76281980)
+#### [AWS CodeDeploy: Auto Scaling group](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-auto-scaling-group?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5121,7 +5079,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-auto-scaling-group?u=76281980&t=51)** I'm going to click the link to go directly to this image and we'll see that it is in a pending state.
 >
-> **[1:00](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-auto-scaling-group?u=76281980&t=60)** So this is going to take a few moments and while it's running, let's head over to the EC2 console and create some security groups that we're going to need.
+> **[1:00](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-auto-scaling-group?u=76281980&t=60)** So this is going to take a few moments and while it's running, let's head over to the [[Amazon EC2|EC2]] console and create some security groups that we're going to need.
 >
 > **[1:09](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-auto-scaling-group?u=76281980&t=69)** In fact, we're still in the EC2 console, the EC2 part of AWS.
 >
@@ -5307,7 +5265,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), next (8), [[Amazon EC2|Ec2]] (6), database (2), data (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (6)
 > **Env Vars:** ec2 (6), ami (5), http (3), asg (3), aws (1)
 > **Exercise Files:** template (18)
 > **UI Navigation:** go to (6), scroll down (4), in the menu (1), select the (1)
@@ -5316,8 +5274,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1), means that (1)
 > **Prerequisites:** setup (1), install (1)
 
-#### AWS CodeDeploy: App creation
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-app-creation?u=76281980)
+#### [AWS CodeDeploy: App creation](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-app-creation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5329,7 +5286,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-app-creation?u=76281980&t=16)** We'll give it a name, my_art_gallery with underscores.
 >
-> **[0:20](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-app-creation?u=76281980&t=20)** And for Compute Platform, we have a few options, EC2, Lambda and ECS.
+> **[0:20](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-app-creation?u=76281980&t=20)** And for Compute Platform, we have a few options, [[Amazon EC2|EC2]], Lambda and ECS.
 >
 > **[0:24](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-app-creation?u=76281980&t=24)** We will choose EC2, skip Tags and go to Create Application.
 >
@@ -5367,7 +5324,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[Amazon EC2|Ec2]] (3), next (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3)
 > **Env Vars:** ec2 (3), ecs (1), asg (1)
 > **UI Navigation:** go to (2), scroll down (2), dropdown (1)
 > **Cross-References:** later in (2), in the next (1)
@@ -5376,14 +5333,13 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Install and configure the AWS CLI
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/install-and-configure-the-aws-cli?u=76281980)
+#### [Install and configure the AWS CLI](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/install-and-configure-the-aws-cli?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/install-and-configure-the-aws-cli?u=76281980&t=0)** - [Instructor] Alright, for this next step we're going to be using the AWS CLI.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/install-and-configure-the-aws-cli?u=76281980&t=0)** - [Instructor] Alright, for this next step we're going to be using the AWS [[CLI]].
 >
-> **[0:04](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/install-and-configure-the-aws-cli?u=76281980&t=4)** So if you haven't already installed it earlier in the course, navigate to this page, "Install or update the latest version of the AWS CLI," and you can scroll down to find instructions for your operating system of choice, Linux, macOS, Windows.
+> **[0:04](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/install-and-configure-the-aws-cli?u=76281980&t=4)** So if you haven't already installed it earlier in the course, navigate to this page, "Install or update the latest version of the AWS CLI," and you can scroll down to find instructions for your operating system of choice, [[Linux]], macOS, [[Windows]].
 >
 > **[0:17](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/install-and-configure-the-aws-cli?u=76281980&t=17)** So follow these steps and then join me on the terminal, where I've already got the CLI installed.
 >
@@ -5395,7 +5351,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/install-and-configure-the-aws-cli?u=76281980&t=41)** You can say AWS and then give the name of a service.
 >
-> **[0:43](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/install-and-configure-the-aws-cli?u=76281980&t=43)** So, ec2 would work here and we can say help on that, and see all the details and commands related to ec2.
+> **[0:43](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/install-and-configure-the-aws-cli?u=76281980&t=43)** So, [[Amazon EC2|ec2]] would work here and we can say help on that, and see all the details and commands related to ec2.
 >
 > **[0:51](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/install-and-configure-the-aws-cli?u=76281980&t=51)** Now we'll back out, and for CodeDeploy, the keyword is deploy.
 >
@@ -5427,7 +5383,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/install-and-configure-the-aws-cli?u=76281980&t=140)** So if you keep typing, you'll see that.
 >
-> **[2:22](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/install-and-configure-the-aws-cli?u=76281980&t=142)** If you like, you can expand with this button here and see exactly what the policy looks like in its JSON format.
+> **[2:22](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/install-and-configure-the-aws-cli?u=76281980&t=142)** If you like, you can expand with this button here and see exactly what the policy looks like in its [[JSON]] format.
 >
 > **[2:29](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/install-and-configure-the-aws-cli?u=76281980&t=149)** So the most important thing here is this first statement that says CodeDeploy star, allow star.
 >
@@ -5461,7 +5417,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/install-and-configure-the-aws-cli?u=76281980&t=223)** You could use CloudShell, you could use things like that.
 >
-> **[3:45](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/install-and-configure-the-aws-cli?u=76281980&t=225)** Because we want to interact with our checked-out GIT repository that's already on the machine, we do actually want access keys.
+> **[3:45](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/install-and-configure-the-aws-cli?u=76281980&t=225)** Because we want to interact with our checked-out [[Git]] repository that's already on the machine, we do actually want access keys.
 >
 > **[3:52](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/install-and-configure-the-aws-cli?u=76281980&t=232)** CloudShell isn't quite going to be what we need.
 >
@@ -5475,7 +5431,7 @@ created: 2026-05-02
 >
 > **[4:14](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/install-and-configure-the-aws-cli?u=76281980&t=254)** We'll go back to the terminal, and we'll say AWS configure with an option, dash, dash profile and we'll call it codedeploy.
 >
-> **[4:23](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/install-and-configure-the-aws-cli?u=76281980&t=263)** This last word is made up.
+> **[4:23](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/install-and-configure-the-aws-cli?u=76281980&t=263)** This last [[Microsoft Word|word]] is made up.
 >
 > **[4:25](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/install-and-configure-the-aws-cli?u=76281980&t=265)** Could be CodeDeploy user, could be, Bob or Fred or whatever.
 >
@@ -5503,7 +5459,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[CLI]] (9), aws (8), next (6), [[Amazon EC2|Ec2]] (2), [[JSON]] (2)
+> **Frameworks & Libraries:** [[CLI]] (9), [[Amazon EC2|Ec2]] (2), [[JSON]] (2), [[Linux]] (1), [[Windows]] (1)
 > **Env Vars:** cli (9), aws (8), json (2), iam (1), sns (1)
 > **CLI Commands:** aws (8), find (1), make (1), git (1)
 > **UI Navigation:** scroll down (5), go to (3), checkbox (2), navigate to (1)
@@ -5512,16 +5468,15 @@ created: 2026-05-02
 > **Tools:** terminal (2), command line (1)
 > **Code Identifiers:** macos (1)
 
-#### AWS CodeDeploy: Adding database and security groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-adding-database-and-security-groups?u=76281980)
+#### [AWS CodeDeploy: Adding database and security groups](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-adding-database-and-security-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-adding-database-and-security-groups?u=76281980&t=0)** - [Instructor] All right, to get this app up and running, it's going to take just a couple more steps.
 >
-> **[0:04](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-adding-database-and-security-groups?u=76281980&t=4)** First, we're going to create an RDS Postgres database for this app to talk to, which is going to require a security group to make sure the app server can talk to the database.
+> **[0:04](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-adding-database-and-security-groups?u=76281980&t=4)** First, we're going to create an RDS [[PostgreSQL|Postgres]] database for this app to talk to, which is going to require a security group to make sure the app server can talk to the database.
 >
-> **[0:13](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-adding-database-and-security-groups?u=76281980&t=13)** So let's start with that security group by going to the EC2 console.
+> **[0:13](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-adding-database-and-security-groups?u=76281980&t=13)** So let's start with that security group by going to the [[Amazon EC2|EC2]] console.
 >
 > **[0:19](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-adding-database-and-security-groups?u=76281980&t=19)** We'll scroll all the way down to the side here to security groups and then create security group.
 >
@@ -5565,7 +5520,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-adding-database-and-security-groups?u=76281980&t=130)** We want things to be easy, right.
 >
-> **[2:11](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-adding-database-and-security-groups?u=76281980&t=131)** We're going to go to configuration and we're going to choose Postgres, PostgreSQL here.
+> **[2:11](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-adding-database-and-security-groups?u=76281980&t=131)** We're going to go to configuration and we're going to choose Postgres, [[PostgreSQL]] here.
 >
 > **[2:18](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-adding-database-and-security-groups?u=76281980&t=138)** All right, we'll scroll down.
 >
@@ -5577,7 +5532,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-adding-database-and-security-groups?u=76281980&t=150)** So pay attention to the documentation on the free tier.
 >
-> **[2:33](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-adding-database-and-security-groups?u=76281980&t=153)** But anyway, small instance, that's what we want and a lot of the rest of this can stay the same.
+> **[2:33](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-adding-database-and-security-groups?u=76281980&t=153)** But anyway, small instance, that's what we want and a lot of the [[Representational State Transfer (REST)|rest]] of this can stay the same.
 >
 > **[2:38](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-adding-database-and-security-groups?u=76281980&t=158)** We can keep the database identifier.
 >
@@ -5621,7 +5576,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (15), [[Security]] (13), [[PostgreSQL|Postgres]] (7), aws (3), next (3)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (7), [[Amazon EC2|Ec2]] (2), [[PostgreSQL]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** rds (3), aws (3), ec2 (2), tcp (2)
 > **UI Navigation:** go to (6), scroll down (2), dropdown (1)
 > **CLI Commands:** make (4), aws (3)
@@ -5630,14 +5585,13 @@ created: 2026-05-02
 > **Code Identifiers:** db (1)
 > **Cross-References:** in the next (1)
 
-#### AWS CodeDeploy: Managing secrets with Secrets Manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-managing-secrets-with-secrets-manager?u=76281980)
+#### [AWS CodeDeploy: Managing secrets with Secrets Manager](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-managing-secrets-with-secrets-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-managing-secrets-with-secrets-manager?u=76281980&t=0)** - [Instructor] All right.
 >
-> **[0:01](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-managing-secrets-with-secrets-manager?u=76281980&t=1)** To make it easy for our CodeDeploy app to fetch the secrets it needs to connect to the RDS database, we're going to go to a new section of AWS that we haven't used yet called Secrets Manager.
+> **[0:01](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-managing-secrets-with-secrets-manager?u=76281980&t=1)** To make it easy for our CodeDeploy app to [[Fetch]] the secrets it needs to connect to the RDS database, we're going to go to a new section of AWS that we haven't used yet called Secrets Manager.
 >
 > **[0:11](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-managing-secrets-with-secrets-manager?u=76281980&t=11)** Here in Secrets Manager we can set up a store of secrets that our app can retrieve when it starts up.
 >
@@ -5647,15 +5601,15 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-managing-secrets-with-secrets-manager?u=76281980&t=26)** And you're going to need to type in the username and the password that you selected previously.
 >
-> **[0:31](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-managing-secrets-with-secrets-manager?u=76281980&t=31)** So that'll be postgres here.
+> **[0:31](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-managing-secrets-with-secrets-manager?u=76281980&t=31)** So that'll be [[PostgreSQL|postgres]] here.
 >
 > **[0:32](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-managing-secrets-with-secrets-manager?u=76281980&t=32)** And then I'll type my super secret password.
 >
-> **[0:39](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-managing-secrets-with-secrets-manager?u=76281980&t=39)** We'll keep the default encryption key that's managed by AWS, and it keeps your secrets encrypted at rest.
+> **[0:39](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-managing-secrets-with-secrets-manager?u=76281980&t=39)** We'll keep the default encryption key that's managed by AWS, and it keeps your secrets encrypted at [[Representational State Transfer (REST)|rest]].
 >
 > **[0:44](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-managing-secrets-with-secrets-manager?u=76281980&t=44)** And we'll choose the database here.
 >
-> **[0:47](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-managing-secrets-with-secrets-manager?u=76281980&t=47)** So when we do that, it's also going to fetch a few other metadata values about the database, including the URL where we'll connect to.
+> **[0:47](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-managing-secrets-with-secrets-manager?u=76281980&t=47)** So when we do that, it's also going to fetch a few other [[Metadata]] values about the database, including the URL where we'll connect to.
 >
 > **[0:54](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-managing-secrets-with-secrets-manager?u=76281980&t=54)** So that will be useful for app in a moment. Click next.
 >
@@ -5683,7 +5637,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-managing-secrets-with-secrets-manager?u=76281980&t=98)** And I'll show you how these secrets are stored.
 >
-> **[1:40](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-managing-secrets-with-secrets-manager?u=76281980&t=100)** If you click retrieve secret value, you'll see the JSON if you click plain text that describes this entire set of secrets.
+> **[1:40](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-managing-secrets-with-secrets-manager?u=76281980&t=100)** If you click retrieve secret value, you'll see the [[JSON]] if you click plain text that describes this entire set of secrets.
 >
 > **[1:48](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-managing-secrets-with-secrets-manager?u=76281980&t=108)** And you can see the key value representation here.
 >
@@ -5715,7 +5669,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-managing-secrets-with-secrets-manager?u=76281980&t=166)** We already talked about this in the Beanstalk videos, but I want to reiterate it here.
 >
-> **[2:50](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-managing-secrets-with-secrets-manager?u=76281980&t=170)** The rails master key is something that you yourself keep and never put into version control.
+> **[2:50](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-managing-secrets-with-secrets-manager?u=76281980&t=170)** The rails master key is something that you yourself keep and never put into [[Version Control]].
 >
 > **[2:55](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-managing-secrets-with-secrets-manager?u=76281980&t=175)** And in fact, there are instructions in the Read Me of the demo application of how to generate your own.
 >
@@ -5727,7 +5681,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-managing-secrets-with-secrets-manager?u=76281980&t=197)** So I'm going to head to the application repo here, and I'm going to look in the Read Me.
 >
-> **[3:21](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-managing-secrets-with-secrets-manager?u=76281980&t=201)** I mean, you can do this, you can view it on GitHub, but if you're following along, you've got your own copy of the Read Me.
+> **[3:21](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-managing-secrets-with-secrets-manager?u=76281980&t=201)** I mean, you can do this, you can view it on [[GitHub]], but if you're following along, you've got your own copy of the Read Me.
 >
 > **[3:29](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-managing-secrets-with-secrets-manager?u=76281980&t=209)** Make sure I'm in the right place here.
 >
@@ -5743,7 +5697,7 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-managing-secrets-with-secrets-manager?u=76281980&t=240)** Like everything else in AWS, IAM rules kind of control everything in terms of permissions.
 >
-> **[4:06](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-managing-secrets-with-secrets-manager?u=76281980&t=246)** And if our application tried to fetch these secrets through a command through the CLI or something like that, which we are going to do, if it tried to do that now, it would fail because it has no permissions to read these secrets.
+> **[4:06](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-managing-secrets-with-secrets-manager?u=76281980&t=246)** And if our application tried to fetch these secrets through a command through the [[CLI]] or something like that, which we are going to do, if it tried to do that now, it would fail because it has no permissions to read these secrets.
 >
 > **[4:18](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-managing-secrets-with-secrets-manager?u=76281980&t=258)** So what we're going to do next is create an IAM policy that we can attach to the instances and allow them to get these secrets.
 >
@@ -5751,7 +5705,7 @@ created: 2026-05-02
 >
 > **[4:31](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-managing-secrets-with-secrets-manager?u=76281980&t=271)** And we're going to find under roles, I'm going to find the CodeDeploy instance role that we created before.
 >
-> **[4:37](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-managing-secrets-with-secrets-manager?u=76281980&t=277)** It's called CodeDeploy Demo EC2 instance profile.
+> **[4:37](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-managing-secrets-with-secrets-manager?u=76281980&t=277)** It's called CodeDeploy Demo [[Amazon EC2|EC2]] instance profile.
 >
 > **[4:42](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-managing-secrets-with-secrets-manager?u=76281980&t=282)** And what we want to do here is scroll down and add more policies.
 >
@@ -5773,7 +5727,7 @@ created: 2026-05-02
 >
 > **[5:29](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-managing-secrets-with-secrets-manager?u=76281980&t=329)** And let's take a look inside.
 >
-> **[5:31](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-managing-secrets-with-secrets-manager?u=76281980&t=331)** There's one statement here that has an allow effect on two actions of Secrets Manager get secret value and describe secret, and these will apply to a particular resource, which is anything that starts with the word CodeDeploy.
+> **[5:31](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-managing-secrets-with-secrets-manager?u=76281980&t=331)** There's one statement here that has an allow effect on two actions of Secrets Manager get secret value and describe secret, and these will apply to a particular resource, which is anything that starts with the [[Microsoft Word|word]] CodeDeploy.
 >
 > **[5:45](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-managing-secrets-with-secrets-manager?u=76281980&t=345)** Now, we will copy and paste all this JSON, and then you'll need to edit a few values.
 >
@@ -5809,7 +5763,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), [[JSON]] (6), application (5), database (4), [[Fetch]] (3)
+> **Frameworks & Libraries:** [[JSON]] (6), [[Fetch]] (3), [[Microsoft Word|Word]] (2), [[PostgreSQL|Postgres]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** json (6), aws (3), iam (3), rds (2), ssm (2)
 > **CLI Commands:** rails (6), make (3), aws (3), find (2)
 > **UI Navigation:** go to (1), scroll down (1)
@@ -5818,8 +5772,7 @@ created: 2026-05-02
 > **File Paths:** appspec.yaml (1)
 > **Tools:** github (1)
 
-#### AWS CodeDeploy: AppSpec and deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-appspec-and-deployment?u=76281980)
+#### [AWS CodeDeploy: AppSpec and deployment](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-appspec-and-deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5905,7 +5858,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-appspec-and-deployment?u=76281980&t=193)** And both of those have a destination here under /etc/nginx.
 >
-> **[3:17](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-appspec-and-deployment?u=76281980&t=197)** So they will get installed on the EC2 in those locations.
+> **[3:17](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-appspec-and-deployment?u=76281980&t=197)** So they will get installed on the [[Amazon EC2|EC2]] in those locations.
 >
 > **[3:21](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-appspec-and-deployment?u=76281980&t=201)** All right, so that's it for the file section.
 >
@@ -6005,7 +5958,7 @@ created: 2026-05-02
 >
 > **[7:09](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-appspec-and-deployment?u=76281980&t=429)** The dollar sign, parentheses means to take the value of this command that's going to be run inside.
 >
-> **[7:15](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-appspec-and-deployment?u=76281980&t=435)** So we're running an AWS CLI command.
+> **[7:15](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-appspec-and-deployment?u=76281980&t=435)** So we're running an AWS [[CLI]] command.
 >
 > **[7:17](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-appspec-and-deployment?u=76281980&t=437)** You'll recognize the aws keyword secretsmanager as the service that we're using, and the command get-secret-value.
 >
@@ -6013,7 +5966,7 @@ created: 2026-05-02
 >
 > **[7:26](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-appspec-and-deployment?u=76281980&t=446)** We're telling it which secret we want to use.
 >
-> **[7:29](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-appspec-and-deployment?u=76281980&t=449)** So secret-id, CodeDeploySecrets, that's that bundle full of JSON secrets that we had.
+> **[7:29](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-appspec-and-deployment?u=76281980&t=449)** So secret-id, CodeDeploySecrets, that's that bundle full of [[JSON]] secrets that we had.
 >
 > **[7:35](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-appspec-and-deployment?u=76281980&t=455)** And then a little bit of additional parameters here to query that JSON and get the value out.
 >
@@ -6049,7 +6002,7 @@ created: 2026-05-02
 >
 > **[8:42](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-appspec-and-deployment?u=76281980&t=522)** And now what we need to do is run a command through the CLI to do a deployment.
 >
-> **[8:47](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-appspec-and-deployment?u=76281980&t=527)** Again, make sure that everything that you want to deploy is actually pushed to GitHub.
+> **[8:47](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-appspec-and-deployment?u=76281980&t=527)** Again, make sure that everything that you want to deploy is actually pushed to [[GitHub]].
 >
 > **[8:51](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-appspec-and-deployment?u=76281980&t=531)** Unlike with Beanstalk, which works off your local head revision, CodeDeploy is pulling data from GitHub.
 >
@@ -6075,7 +6028,7 @@ created: 2026-05-02
 >
 > **[9:42](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-appspec-and-deployment?u=76281980&t=582)** Very important to make sure that matches.
 >
-> **[9:44](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-appspec-and-deployment?u=76281980&t=584)** Deployment-config name is a CodeDeploy kind of reserved word, CodeDeployDefault.OneAtATime.
+> **[9:44](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-appspec-and-deployment?u=76281980&t=584)** Deployment-config name is a CodeDeploy kind of reserved [[Microsoft Word|word]], CodeDeployDefault.OneAtATime.
 >
 > **[9:51](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-appspec-and-deployment?u=76281980&t=591)** So just hard code that.
 >
@@ -6087,7 +6040,7 @@ created: 2026-05-02
 >
 > **[10:00](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-appspec-and-deployment?u=76281980&t=600)** And finally, the important part here, the GitHub location.
 >
-> **[10:04](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-appspec-and-deployment?u=76281980&t=604)** So this is telling CodeDeploy which commit out of Git to use.
+> **[10:04](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-appspec-and-deployment?u=76281980&t=604)** So this is telling CodeDeploy which commit out of [[Git]] to use.
 >
 > **[10:08](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-appspec-and-deployment?u=76281980&t=608)** So we give it a repository with the equal sign there, and it's going to be the username that owns the repo, slash repo name.
 >
@@ -6139,7 +6092,7 @@ created: 2026-05-02
 >
 > **[12:18](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-appspec-and-deployment?u=76281980&t=738)** And now here we have the running application, My Art Gallery.
 >
-> **[12:22](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-appspec-and-deployment?u=76281980&t=742)** We can see that it's running in production mode, it's using Postgres.
+> **[12:22](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-appspec-and-deployment?u=76281980&t=742)** We can see that it's running in production mode, it's using [[PostgreSQL|Postgres]].
 >
 > **[12:25](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-appspec-and-deployment?u=76281980&t=745)** And we have the hostname here.
 >
@@ -6163,7 +6116,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (13), [[GitHub]] (6), next (4), aws (4), data (3)
+> **Frameworks & Libraries:** [[GitHub]] (6), [[CLI]] (3), [[JSON]] (3), [[Amazon EC2|Ec2]] (2), [[Git]] (2)
 > **Env Vars:** nginx (13), rds_password (3), cli (3), json (3), ec2 (2)
 > **CLI Commands:** nginx (14), make (7), rails (5), aws (4), find (3)
 > **Code Identifiers:** my_art_gallery (2), commitid (2), configure_nginx (1), install_dependencies (1), deploy_command (1)
@@ -6172,8 +6125,7 @@ created: 2026-05-02
 > **File Paths:** appspec.yml (3), deploy_command.sh (1), deploy_cmd.sh (1)
 > **Definitions:** is a  (3), is an  (1), is called (1)
 
-#### AWS CodeDeploy: Add a load balancer
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-add-a-load-balancer?u=76281980)
+#### [AWS CodeDeploy: Add a load balancer](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-add-a-load-balancer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6217,7 +6169,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-add-a-load-balancer?u=76281980&t=96)** And then we'll have that single point of entry.
 >
-> **[1:38](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-add-a-load-balancer?u=76281980&t=98)** So in order to do that, we need to head back to the AWS console and we'll create the load balancer to start, we'll go to EC2, scroll down to our autoscaling groups, click on the name of our CodeDeployASG, and then scroll down to load balancing.
+> **[1:38](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-add-a-load-balancer?u=76281980&t=98)** So in order to do that, we need to head back to the AWS console and we'll create the load balancer to start, we'll go to [[Amazon EC2|EC2]], scroll down to our autoscaling groups, click on the name of our CodeDeployASG, and then scroll down to load balancing.
 >
 > **[1:58](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-add-a-load-balancer?u=76281980&t=118)** We'll click edit, and here we have the option to choose an existing load balancer, which we don't have.
 >
@@ -6239,7 +6191,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-add-a-load-balancer?u=76281980&t=158)** Similar to internet facing, having the listener here on port 80 doesn't mean that this load balancer is open to that traffic, it just means that it can do it once we put a security group on that will allow that traffic in.
 >
-> **[2:51](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-add-a-load-balancer?u=76281980&t=171)** Now we need default routing to go to a new target group.
+> **[2:51](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-add-a-load-balancer?u=76281980&t=171)** Now we need default [[Routing]] to go to a new target group.
 >
 > **[2:54](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-add-a-load-balancer?u=76281980&t=174)** So we'll hit the dropdown, say create target group.
 >
@@ -6365,13 +6317,13 @@ created: 2026-05-02
 >
 > **[8:49](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-add-a-load-balancer?u=76281980&t=529)** But we are not done yet.
 >
-> **[8:52](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-add-a-load-balancer?u=76281980&t=532)** For the next video, we're going to take it up even one more notch, and we're going to add code build support, and then move from there to introducing a code pipeline so that you can have a complete DevOps pipeline where changes will get propagated to your autoscaling group automatically.
+> **[8:52](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-add-a-load-balancer?u=76281980&t=532)** For the next video, we're going to take it up even one more notch, and we're going to add code build support, and then move from there to introducing a code pipeline so that you can have a complete [[DevOps]] pipeline where changes will get propagated to your autoscaling group automatically.
 >
 > **[9:07](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-add-a-load-balancer?u=76281980&t=547)** So I'll see you in the next video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (18), traffic (17), application (7), next (5), aws (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (1), [[Routing]] (1), [[DevOps]] (1)
 > **Env Vars:** http (4), asg (3), aws (2), alb (2), ami (2)
 > **UI Navigation:** go to (6), scroll down (5), click on (2), dropdown (1), checkbox (1)
 > **CLI Commands:** make (6), aws (2)
@@ -6380,8 +6332,7 @@ created: 2026-05-02
 > **Analogies:** picture (2), imagine (1), similar to (1)
 > **Cross-References:** next video (1), in the next (1)
 
-#### Troubleshoot AWS CodeDeploy deployments
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/troubleshoot-aws-codedeploy-deployments?u=76281980)
+#### [Troubleshoot AWS CodeDeploy deployments](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/troubleshoot-aws-codedeploy-deployments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6409,7 +6360,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/troubleshoot-aws-codedeploy-deployments?u=76281980&t=51)** Issue number three, S3 access.
 >
-> **[0:54](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/troubleshoot-aws-codedeploy-deployments?u=76281980&t=54)** You might think, "I'm deploying from GitHub.
+> **[0:54](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/troubleshoot-aws-codedeploy-deployments?u=76281980&t=54)** You might think, "I'm deploying from [[GitHub]].
 >
 > **[0:56](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/troubleshoot-aws-codedeploy-deployments?u=76281980&t=56)** Why do my instances need to access S3?"
 >
@@ -6471,11 +6422,11 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/troubleshoot-aws-codedeploy-deployments?u=76281980&t=191)** If you're at a loss and need to get more information, you can connect directly to one of your failed hosts and check out these file locations where AWS will keep detailed logs of what's going on.
 >
-> **[3:22](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/troubleshoot-aws-codedeploy-deployments?u=76281980&t=202)** All right, let's keep going by adding some continuous integration with CodeBuild.
+> **[3:22](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/troubleshoot-aws-codedeploy-deployments?u=76281980&t=202)** All right, let's keep going by adding some [[Continuous Integration (CI)|continuous integration]] with CodeBuild.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (6), aws (2), web (2), power (1), next (1)
+> **Frameworks & Libraries:** [[GitHub]] (6), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **Env Vars:** aws (2), yaml (2), ssm (1), ssh (1)
 > **Tools:** github (6)
 > **CLI Commands:** aws (2), ssh (1), sudo (1), find (1)
@@ -6484,14 +6435,13 @@ created: 2026-05-02
 > **File Paths:** appspec.yml (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding AWS CodeBuild
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-codebuild?u=76281980)
+#### [Understanding AWS CodeBuild](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-codebuild?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-codebuild?u=76281980&t=0)** - [Instructor] AWS CodeBuild is a fully managed build service that can build your code, run test, and create output artifacts.
 >
-> **[0:08](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-codebuild?u=76281980&t=8)** It provides a way for DevOps practitioners on AWS to start doing continuous integration in the AWS ecosystem.
+> **[0:08](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-codebuild?u=76281980&t=8)** It provides a way for [[DevOps]] practitioners on AWS to start doing [[Continuous Integration (CI)|continuous integration]] in the AWS ecosystem.
 >
 > **[0:16](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-codebuild?u=76281980&t=16)** So what is continuous integration exactly?
 >
@@ -6505,9 +6455,9 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-codebuild?u=76281980&t=36)** When many people may contribute to the same code base, it's important that testing is performed continuously when anyone merges changes, and that it's done in a central location, not tied to anyone's workstation.
 >
-> **[0:49](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-codebuild?u=76281980&t=49)** Continuous integration provides a feedback loop between you and the rest of your team.
+> **[0:49](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-codebuild?u=76281980&t=49)** Continuous integration provides a feedback loop between you and the [[Representational State Transfer (REST)|rest]] of your team.
 >
-> **[0:54](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-codebuild?u=76281980&t=54)** Builds and tests are triggered on a schedule or in response to something like a git push, and the whole team is notified if something breaks.
+> **[0:54](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-codebuild?u=76281980&t=54)** Builds and tests are triggered on a schedule or in response to something like a [[Git]] push, and the whole team is notified if something breaks.
 >
 > **[1:02](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-codebuild?u=76281980&t=62)** That's where CodeBuild steps in.
 >
@@ -6517,7 +6467,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-codebuild?u=76281980&t=73)** It's a mechanism for generating build artifacts, such as binaries, and distributing them.
 >
-> **[1:18](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-codebuild?u=76281980&t=78)** And it's a tightly integrated component of a continuous delivery pipeline.
+> **[1:18](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-codebuild?u=76281980&t=78)** And it's a tightly integrated component of a [[Continuous Delivery (CD)|continuous delivery]] pipeline.
 >
 > **[1:23](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-codebuild?u=76281980&t=83)** For example, via AWS CodePipeline.
 >
@@ -6525,7 +6475,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-codebuild?u=76281980&t=95)** Let's look at what happens when CodeBuild executes a build.
 >
-> **[1:39](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-codebuild?u=76281980&t=99)** The job is kicked off by an event, a schedule, a hook on some version control repo, or manually, either by you or, say, by CodePipeline.
+> **[1:39](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-codebuild?u=76281980&t=99)** The job is kicked off by an event, a schedule, a hook on some [[Version Control]] repo, or manually, either by you or, say, by CodePipeline.
 >
 > **[1:49](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-codebuild?u=76281980&t=109)** CodeBuild then provisions a runtime environment in which to execute your code.
 >
@@ -6595,7 +6545,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (5), aws (4), application (2), [[Continuous Delivery (CD)|Continuous delivery]] (2), ci (2)
+> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (5), [[Continuous Delivery (CD)|Continuous delivery]] (2), [[DevOps]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Git]] (1)
 > **CLI Commands:** aws (4), ruby (3), make (2), git (1), go build (1)
 > **Env Vars:** aws (4), rails_env (1), yaml (1)
 > **Prerequisites:** install (4)
@@ -6604,8 +6554,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1), for example (1)
 
-#### Add AWS CodeBuild support to an app
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/add-aws-codebuild-support-to-an-app?u=76281980)
+#### [Add AWS CodeBuild support to an app](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/add-aws-codebuild-support-to-an-app?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6649,7 +6598,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/add-aws-codebuild-support-to-an-app?u=76281980&t=84)** Then scroll down.
 >
-> **[1:25](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/add-aws-codebuild-support-to-an-app?u=76281980&t=85)** Under source choose GitHub.
+> **[1:25](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/add-aws-codebuild-support-to-an-app?u=76281980&t=85)** Under source choose [[GitHub]].
 >
 > **[1:27](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/add-aws-codebuild-support-to-an-app?u=76281980&t=87)** And to follow along at this point, you will have to have forked the project repo into your own account.
 >
@@ -6689,7 +6638,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/add-aws-codebuild-support-to-an-app?u=76281980&t=147)** From here, we're choosing the environment that this build will run in, so what actual offering system runs the rspec.
 >
-> **[2:34](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/add-aws-codebuild-support-to-an-app?u=76281980&t=154)** So Amazon Linux totally works for this, and everything else can stay the same.
+> **[2:34](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/add-aws-codebuild-support-to-an-app?u=76281980&t=154)** So Amazon [[Linux]] totally works for this, and everything else can stay the same.
 >
 > **[2:39](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/add-aws-codebuild-support-to-an-app?u=76281980&t=159)** We're always using the latest image, so that's exactly what we want.
 >
@@ -6749,7 +6698,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (5), next (3), aws (2), [[Linux]] (2), database (1)
+> **Frameworks & Libraries:** [[GitHub]] (5), [[Linux]] (2)
 > **CLI Commands:** rails (2), aws (2), make (2)
 > **Tools:** github (5)
 > **Prerequisites:** install (3), set up (1)
@@ -6758,8 +6707,7 @@ created: 2026-05-02
 > **Code Identifiers:** art_gallery_demo (1), art_gallery (1)
 > **Env Vars:** aws (2)
 
-#### Integrate AWS CodeBuild into CodePipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/integrate-aws-codebuild-into-codepipeline?u=76281980)
+#### [Integrate AWS CodeBuild into CodePipeline](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/integrate-aws-codebuild-into-codepipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6781,7 +6729,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/integrate-aws-codebuild-into-codepipeline?u=76281980&t=39)** Here, we're to select our source provider, where our code is coming from.
 >
-> **[0:43](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/integrate-aws-codebuild-into-codepipeline?u=76281980&t=43)** That's going to be GitHub, and we'll choose GitHub Version 2.
+> **[0:43](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/integrate-aws-codebuild-into-codepipeline?u=76281980&t=43)** That's going to be [[GitHub]], and we'll choose GitHub Version 2.
 >
 > **[0:47](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/integrate-aws-codebuild-into-codepipeline?u=76281980&t=47)** This will put some new options on the screen.
 >
@@ -7001,17 +6949,17 @@ created: 2026-05-02
 >
 > **[8:26](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/integrate-aws-codebuild-into-codepipeline?u=76281980&t=506)** I'm going to open up this file right here.
 >
-> **[8:28](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/integrate-aws-codebuild-into-codepipeline?u=76281980&t=508)** Actually, I'm going to back up one folder and go to app/views/arts/index.html.erb.
+> **[8:28](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/integrate-aws-codebuild-into-codepipeline?u=76281980&t=508)** Actually, I'm going to back up one folder and go to app/views/arts/index.[[HTML]].erb.
 >
 > **[8:37](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/integrate-aws-codebuild-into-codepipeline?u=76281980&t=517)** This is the main page you've been seeing.
 >
-> **[8:39](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/integrate-aws-codebuild-into-codepipeline?u=76281980&t=519)** And I'm just going to jump here and add a word here.
+> **[8:39](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/integrate-aws-codebuild-into-codepipeline?u=76281980&t=519)** And I'm just going to jump here and add a [[Microsoft Word|word]] here.
 >
 > **[8:44](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/integrate-aws-codebuild-into-codepipeline?u=76281980&t=524)** Sort of hello from CodeDeploy.
 >
 > **[8:46](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/integrate-aws-codebuild-into-codepipeline?u=76281980&t=526)** Now remember, to kick off this pipeline, we're going to have to add this file, commit it, and push it to GitHub.
 >
-> **[8:55](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/integrate-aws-codebuild-into-codepipeline?u=76281980&t=535)** So we'll give it a commit message here and say, git push origin main.
+> **[8:55](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/integrate-aws-codebuild-into-codepipeline?u=76281980&t=535)** So we'll give it a commit message here and say, [[Git]] push origin main.
 >
 > **[9:00](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/integrate-aws-codebuild-into-codepipeline?u=76281980&t=540)** Now that that push has been done, we should see our source stage start to roll again.
 >
@@ -7049,7 +6997,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (17), aws (9), next (6), hit (2), [[Git]] (2)
+> **Frameworks & Libraries:** [[GitHub]] (17), [[Git]] (2), [[HTML]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** aws (9), make (7), git (2)
 > **Tools:** github (17)
 > **Env Vars:** aws (9), iam (2), ssm (1), url (1)
@@ -7058,8 +7006,7 @@ created: 2026-05-02
 > **Cross-References:** earlier in (1), in the next (1)
 > **Definitions:** is a  (2)
 
-#### AWS CodePipeline challenge: Add an approval stage
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codepipeline-challenge-add-an-approval-stage?u=76281980)
+#### [AWS CodePipeline challenge: Add an approval stage](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codepipeline-challenge-add-an-approval-stage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7067,7 +7014,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codepipeline-challenge-add-an-approval-stage?u=76281980&t=9)** You've seen how our pipeline works.
 >
-> **[0:11](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codepipeline-challenge-add-an-approval-stage?u=76281980&t=11)** A git push to the main branch triggers a build, and a successful build kicks off a deployment.
+> **[0:11](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codepipeline-challenge-add-an-approval-stage?u=76281980&t=11)** A [[Git]] push to the main branch triggers a build, and a successful build kicks off a deployment.
 >
 > **[0:17](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codepipeline-challenge-add-an-approval-stage?u=76281980&t=17)** That's a great start, but many organizations don't move changes directly from a developer's laptop to production like this.
 >
@@ -7099,7 +7046,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (1), [[Search]] (1), aws (1), next (1)
+> **Frameworks & Libraries:** [[Git]] (1)
 > **CLI Commands:** git (1), aws (1)
 > **Env Vars:** uat (1), aws (1)
 > **Cross-References:** in the next (1)
@@ -7107,8 +7054,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### AWS CodePipeline challenge solution: Add an approval stage
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codepipeline-challenge-solution-add-an-approval-stage?u=76281980)
+#### [AWS CodePipeline challenge solution: Add an approval stage](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codepipeline-challenge-solution-add-an-approval-stage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7138,7 +7084,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codepipeline-challenge-solution-add-an-approval-stage?u=76281980&t=58)** If you scroll down, you do get a sense of the depth and breadth of what Code Pipeline can integrate with.
 >
-> **[1:03](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codepipeline-challenge-solution-add-an-approval-stage?u=76281980&t=63)** We've got Jenkins, we've got Cloud Formation, we've got Lambda and Step functions, and many different sources, including Bitbucket and GitLab.
+> **[1:03](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codepipeline-challenge-solution-add-an-approval-stage?u=76281980&t=63)** We've got [[Jenkins]], we've got Cloud Formation, we've got Lambda and Step functions, and many different sources, including [[Bitbucket]] and GitLab.
 >
 > **[1:12](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codepipeline-challenge-solution-add-an-approval-stage?u=76281980&t=72)** So, there's a lot to dive into if you really want to get into the possibilities of Code Pipeline.
 >
@@ -7198,7 +7144,7 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codepipeline-challenge-solution-add-an-approval-stage?u=76281980&t=240)** Now we can choose the SNS topic.
 >
-> **[4:03](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codepipeline-challenge-solution-add-an-approval-stage?u=76281980&t=243)** And we can leave the rest blank here, and click Done.
+> **[4:03](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codepipeline-challenge-solution-add-an-approval-stage?u=76281980&t=243)** And we can leave the [[Representational State Transfer (REST)|rest]] blank here, and click Done.
 >
 > **[4:07](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codepipeline-challenge-solution-add-an-approval-stage?u=76281980&t=247)** Make sure to scroll all the way to the top and click Save.
 >
@@ -7230,7 +7176,7 @@ created: 2026-05-02
 >
 > **[5:33](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codepipeline-challenge-solution-add-an-approval-stage?u=76281980&t=333)** With an approval, it will go on to the deployment stage.
 >
-> **[5:37](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codepipeline-challenge-solution-add-an-approval-stage?u=76281980&t=337)** So, this does require you to come in and click this manual approval, but the thing is, like everything else in AWS, there is a CLI command to do what I just did.
+> **[5:37](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codepipeline-challenge-solution-add-an-approval-stage?u=76281980&t=337)** So, this does require you to come in and click this manual approval, but the thing is, like everything else in AWS, there is a [[CLI]] command to do what I just did.
 >
 > **[5:47](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codepipeline-challenge-solution-add-an-approval-stage?u=76281980&t=347)** And if you check the AWS docs, you'll see that this can be done remotely.
 >
@@ -7262,7 +7208,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (4), next (3), database (2), [[Jenkins]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Jenkins]] (1), [[Bitbucket]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[CLI]] (1)
 > **Env Vars:** sns (6), aws (4), uat (2), cli (1), rds (1)
 > **CLI Commands:** make (6), aws (4)
 > **Definitions:** is a  (3), stands for (1)
@@ -7271,8 +7217,7 @@ created: 2026-05-02
 > **Tools:** bitbucket (1), gitlab (1)
 > **Code Identifiers:** manualapproval (1)
 
-#### AWS CodeDeploy teardown
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-teardown?u=76281980)
+#### [AWS CodeDeploy teardown](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-teardown?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7282,7 +7227,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-teardown?u=76281980&t=14)** All right, we've built a lot of infrastructure in this chapter and we've achieved a fully operational CI/CD pipeline.
 >
-> **[0:20](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-teardown?u=76281980&t=20)** I hope you get a sense of how easy it can be to do DevOps on AWS.
+> **[0:20](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-teardown?u=76281980&t=20)** I hope you get a sense of how easy it can be to do [[DevOps]] on AWS.
 >
 > **[0:24](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-teardown?u=76281980&t=24)** After you're done exploring everything from this chapter though, you want to be sure to tear down all those AWS resources to make sure you don't get an unexpectedly high bill at the end of the month.
 >
@@ -7310,7 +7255,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-teardown?u=76281980&t=88)** Again, we'll type delete.
 >
-> **[1:32](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-teardown?u=76281980&t=92)** Okay, the next thing that we want to do is going to be in the EC2 section.
+> **[1:32](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-teardown?u=76281980&t=92)** Okay, the next thing that we want to do is going to be in the [[Amazon EC2|EC2]] section.
 >
 > **[1:37](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-teardown?u=76281980&t=97)** Go to EC2.
 >
@@ -7430,7 +7375,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), [[Amazon EC2|Ec2]] (5), database (4), [[Security]] (3), aws (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (5), [[DevOps]] (1)
 > **UI Navigation:** go to (21), checkbox (4), scroll up (1), click on (1)
 > **Env Vars:** rds (5), ec2 (5), ecs (2), aws (2), iam (2)
 > **CLI Commands:** make (3), aws (2), cd (1), find (1), docker (1)
@@ -7443,16 +7388,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding AWS Elastic Container Service and Fargate
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-container-service-and-fargate?u=76281980)
+#### [Understanding AWS Elastic Container Service and Fargate](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-container-service-and-fargate?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-container-service-and-fargate?u=76281980&t=0)** - Up until now, we've provisioned, configured, and scaled our web apps with EC2 instances.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-container-service-and-fargate?u=76281980&t=0)** - Up until now, we've provisioned, configured, and scaled our web apps with [[Amazon EC2|EC2]] instances.
 >
-> **[0:06](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-container-service-and-fargate?u=76281980&t=6)** Full fledged virtual machines.
+> **[0:06](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-container-service-and-fargate?u=76281980&t=6)** Full fledged [[Virtual Machines]].
 >
-> **[0:08](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-container-service-and-fargate?u=76281980&t=8)** And while that's a great and effective way to work with AWS, modern web developers know the power of containers to make web workloads even more agile and scalable.
+> **[0:08](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-container-service-and-fargate?u=76281980&t=8)** And while that's a great and effective way to work with AWS, modern web developers know the power of containers to make web workloads even more [[Agile Development|agile]] and scalable.
 >
 > **[0:17](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-container-service-and-fargate?u=76281980&t=17)** It's time to talk container orchestration on Elastic Container Service, or ECS.
 >
@@ -7462,7 +7406,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-container-service-and-fargate?u=76281980&t=39)** Developers can configure them to contain everything an individual app or process needs to run, libraries, binaries, and the like.
 >
-> **[0:47](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-container-service-and-fargate?u=76281980&t=47)** The result is a very portable image that can be deployed anywhere containers can run, from your own laptop to cloud services like ECS.
+> **[0:47](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-container-service-and-fargate?u=76281980&t=47)** The result is a very portable image that can be deployed anywhere containers can run, from your own laptop to [[Cloud Services]] like ECS.
 >
 > **[0:57](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-container-service-and-fargate?u=76281980&t=57)** One of the great things about Docker images is that they're small enough to be shared.
 >
@@ -7518,7 +7462,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-container-service-and-fargate?u=76281980&t=208)** Services can be configured to use a load balancer, making them very similar to EC2 auto-scaling groups.
 >
-> **[3:34](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-container-service-and-fargate?u=76281980&t=214)** Again, the biggest advantage of ECS is how closely it hews to existing AWS concepts and design patterns.
+> **[3:34](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-container-service-and-fargate?u=76281980&t=214)** Again, the biggest advantage of ECS is how closely it hews to existing AWS concepts and [[Design Patterns]].
 >
 > **[3:42](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-container-service-and-fargate?u=76281980&t=222)** Not only can services use load balancers, but they can be configured for a zero downtime blue/green deployment style where any change you make to the running service actually spins up a copy of that service behind the scenes.
 >
@@ -7536,7 +7480,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (10), web (5), [[Amazon EC2|Ec2]] (5), [[Virtual Machines]] (3), [[Security]] (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (5), [[Virtual Machines]] (3), [[Agile Development|Agile]] (1), [[Cloud Services]] (1), [[Design Patterns]] (1)
 > **Env Vars:** aws (10), ecs (9), ec2 (5), ecr (4), iam (1)
 > **CLI Commands:** aws (10), docker (4), make (2), find (1), ruby (1)
 > **Definitions:** is a  (2), known as (2), is called (1)
@@ -7545,8 +7489,7 @@ created: 2026-05-02
 > **Documentation:** spec (1)
 > **Prerequisites:** configure (1)
 
-#### Run the demo app locally with Docker
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/runn-the-demo-app-locally-with-docker?u=76281980)
+#### [Run the demo app locally with Docker](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/runn-the-demo-app-locally-with-docker?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7586,7 +7529,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/runn-the-demo-app-locally-with-docker?u=76281980&t=125)** Okay, so now I'm going to show you the steps it takes to make the database accessible to your laptop.
 >
-> **[2:11](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/runn-the-demo-app-locally-with-docker?u=76281980&t=131)** The first thing I'm going to do is head into EC2 and show you a security group that I've made here.
+> **[2:11](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/runn-the-demo-app-locally-with-docker?u=76281980&t=131)** The first thing I'm going to do is head into [[Amazon EC2|EC2]] and show you a security group that I've made here.
 >
 > **[2:18](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/runn-the-demo-app-locally-with-docker?u=76281980&t=138)** So click security groups and I call that PostgresToWorld.
 >
@@ -7594,7 +7537,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/runn-the-demo-app-locally-with-docker?u=76281980&t=145)** And so it's called PostgresToWorld.
 >
-> **[2:26](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/runn-the-demo-app-locally-with-docker?u=76281980&t=146)** It has one inbound rule, which I can edit here, and it's just open at Postgres to the all zeros IP address here.
+> **[2:26](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/runn-the-demo-app-locally-with-docker?u=76281980&t=146)** It has one inbound rule, which I can edit here, and it's just open at [[PostgreSQL|Postgres]] to the all zeros IP address here.
 >
 > **[2:35](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/runn-the-demo-app-locally-with-docker?u=76281980&t=155)** Now if you want to do this yourself, you can try to make it accessible just to your own IP.
 >
@@ -7756,7 +7699,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (20), [[Security]] (13), aws (6), next (6), [[PostgreSQL|Postgres]] (4)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (4), [[Amazon EC2|Ec2]] (1)
 > **CLI Commands:** docker (23), make (9), aws (6), rails (2), cat (1)
 > **Env Vars:** rds (9), aws (6), ecs (6), ec2 (1), isp (1)
 > **Ports:** :3000 (4), port 3000 (3)
@@ -7765,8 +7708,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (4), scroll down (1)
 > **Cross-References:** later in (1), go back to (1), previous chapter (1), in the next (1)
 
-#### Create an AWS ECR repository for use with ECS
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-aws-ecr-repository-for-use-with-ecs?u=76281980)
+#### [Create an AWS ECR repository for use with ECS](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-aws-ecr-repository-for-use-with-ecs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7786,7 +7728,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-aws-ecr-repository-for-use-with-ecs?u=76281980&t=49)** The other two options here are fine to enable, this is an image security scanning so we can enable that and it's something that AWS does for free that you can look at later.
 >
-> **[1:00](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-aws-ecr-repository-for-use-with-ecs?u=76281980&t=60)** KMS encryption, that's just encryption at rest, so seamless encryption, easy to do, so go ahead and enable that and click Create repository.
+> **[1:00](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-aws-ecr-repository-for-use-with-ecs?u=76281980&t=60)** KMS encryption, that's just encryption at [[Representational State Transfer (REST)|rest]], so seamless encryption, easy to do, so go ahead and enable that and click Create repository.
 >
 > **[1:11](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-aws-ecr-repository-for-use-with-ecs?u=76281980&t=71)** Okay, so at this point we have a repository.
 >
@@ -7840,7 +7782,7 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-aws-ecr-repository-for-use-with-ecs?u=76281980&t=241)** Now we're going to push the tag.
 >
-> **[4:03](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-aws-ecr-repository-for-use-with-ecs?u=76281980&t=243)** So docker push, and then the whole same thing, so you can copy this all the way to the word latest.
+> **[4:03](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-aws-ecr-repository-for-use-with-ecs?u=76281980&t=243)** So docker push, and then the whole same thing, so you can copy this all the way to the [[Microsoft Word|word]] latest.
 >
 > **[4:11](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-aws-ecr-repository-for-use-with-ecs?u=76281980&t=251)** And because we just did docker login and it logged itself into ECR, this push is going to push to ECR.
 >
@@ -7854,7 +7796,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (7), hit (3), application (2), [[Search]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** docker (13), aws (7), find (1), make (1)
 > **Env Vars:** ecr (8), aws (6), url (5), kms (1), uri (1)
 > **Code Identifiers:** my_art_gallery (6)
@@ -7863,8 +7805,7 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create an ECS Fargate cluster and task definition
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-ecs-fargate-cluster-and-task-definition?u=76281980)
+#### [Create an ECS Fargate cluster and task definition](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-ecs-fargate-cluster-and-task-definition?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7884,7 +7825,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-ecs-fargate-cluster-and-task-definition?u=76281980&t=38)** Creating a cluster, especially on Fargate, is extremely simple because it's fully serverless.
 >
-> **[0:43](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-ecs-fargate-cluster-and-task-definition?u=76281980&t=43)** We're not standing up our own EC2 or auto-scaling group or anything like that.
+> **[0:43](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-ecs-fargate-cluster-and-task-definition?u=76281980&t=43)** We're not standing up our own [[Amazon EC2|EC2]] or auto-scaling group or anything like that.
 >
 > **[0:47](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-ecs-fargate-cluster-and-task-definition?u=76281980&t=47)** It's a very nice option.
 >
@@ -7894,7 +7835,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-ecs-fargate-cluster-and-task-definition?u=76281980&t=56)** Remember, there are tasks and there are services that can run multiple tasks, but everything starts with a task definition.
 >
-> **[1:04](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-ecs-fargate-cluster-and-task-definition?u=76281980&t=64)** So click task definitions here on the side, and new task definition, which we can do by typing in the GUI or giving a task definition with JSON.
+> **[1:04](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-ecs-fargate-cluster-and-task-definition?u=76281980&t=64)** So click task definitions here on the side, and new task definition, which we can do by typing in the GUI or giving a task definition with [[JSON]].
 >
 > **[1:13](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-ecs-fargate-cluster-and-task-definition?u=76281980&t=73)** We'll do the first one.
 >
@@ -8008,7 +7949,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2), next (2), [[JSON]] (1), aws (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2), [[JSON]] (1)
 > **Env Vars:** ecs (5), rds (5), ecr (3), awsvpc (3), uri (3)
 > **CLI Commands:** make (5), rails (3), ruby (1), aws (1)
 > **UI Navigation:** scroll down (2), go to (1)
@@ -8017,8 +7958,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1), just like (1)
 > **Code Identifiers:** my_art_gallery (1)
 
-#### Deploy a Docker app with an ECS task
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/deploy-a-docker-app-with-an-ecs-task?u=76281980)
+#### [Deploy a Docker app with an ECS task](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/deploy-a-docker-app-with-an-ecs-task?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8028,7 +7968,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/deploy-a-docker-app-with-an-ecs-task?u=76281980&t=8)** We need a security group that's going to open up our task on port 3000.
 >
-> **[0:13](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/deploy-a-docker-app-with-an-ecs-task?u=76281980&t=13)** So again, type EC2 here.
+> **[0:13](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/deploy-a-docker-app-with-an-ecs-task?u=76281980&t=13)** So again, type [[Amazon EC2|EC2]] here.
 >
 > **[0:16](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/deploy-a-docker-app-with-an-ecs-task?u=76281980&t=16)** We'll open it in a new tab, and we'll head over to Security Groups.
 >
@@ -8126,7 +8066,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), database (3), [[Amazon EC2|Ec2]] (2), hit (2), next (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2)
 > **CLI Commands:** make (4), find (2), docker (2), aws (1)
 > **Env Vars:** ec2 (2), tcp (1), vpc (1), aws (1), ecr (1)
 > **UI Navigation:** go to (3), click on (2), scroll down (1)
@@ -8135,8 +8075,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (2)
 > **Definitions:** is a  (1)
 
-#### Run Docker apps with an ECS service
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/run-docker-apps-with-an-ecs-service?u=76281980)
+#### [Run Docker apps with an ECS service](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/run-docker-apps-with-an-ecs-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8272,7 +8211,7 @@ created: 2026-05-02
 >
 > **[5:43](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/run-docker-apps-with-an-ecs-service?u=76281980&t=343)** Okay, so at this point, an ALB is spinning up along with target groups.
 >
-> **[5:48](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/run-docker-apps-with-an-ecs-service?u=76281980&t=348)** So if we want to type EC2 here in the top and open the EC2 console in another tab, we can go watch the progress of the load balancer.
+> **[5:48](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/run-docker-apps-with-an-ecs-service?u=76281980&t=348)** So if we want to type [[Amazon EC2|EC2]] here in the top and open the EC2 console in another tab, we can go watch the progress of the load balancer.
 >
 > **[5:59](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/run-docker-apps-with-an-ecs-service?u=76281980&t=359)** Okay, it's in provisioning state.
 >
@@ -8330,7 +8269,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (11), next (3), database (3), [[Search]] (2), traffic (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2)
 > **Env Vars:** alb (13), ecs (6), rds (2), ec2 (2), iam (1)
 > **UI Navigation:** go to (6), scroll down (6), select the (1), dropdown (1), open the (1)
 > **CLI Commands:** make (5), docker (1), aws (1), rails (1)
@@ -8339,8 +8278,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Analogies:** picture (1)
 
-#### Scale Docker apps with an ECS service
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/scale-docker-apps-with-an-ecs-service?u=76281980)
+#### [Scale Docker apps with an ECS service](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/scale-docker-apps-with-an-ecs-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8356,7 +8294,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/scale-docker-apps-with-an-ecs-service?u=76281980&t=23)** We're just going to go to Desired tasks and choose three.
 >
-> **[0:27](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/scale-docker-apps-with-an-ecs-service?u=76281980&t=27)** Containers are not nearly as heavyweight as an EC2 instance it will take a lot less time to spin up.
+> **[0:27](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/scale-docker-apps-with-an-ecs-service?u=76281980&t=27)** Containers are not nearly as heavyweight as an [[Amazon EC2|EC2]] instance it will take a lot less time to spin up.
 >
 > **[0:32](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/scale-docker-apps-with-an-ecs-service?u=76281980&t=32)** So, let's make it three and click Update.
 >
@@ -8400,7 +8338,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), next (2), [[Amazon EC2|Ec2]] (1), web application (1), cloud (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (1)
 > **CLI Commands:** make (3), docker (1)
 > **Env Vars:** ecs (2), ec2 (1)
 > **Cross-References:** in the next (2)
@@ -8412,8 +8350,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Challenge: Automating Docker builds on AWS
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/challenge-automating-docker-builds-on-aws?u=76281980)
+#### [Challenge: Automating Docker builds on AWS](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/challenge-automating-docker-builds-on-aws?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8431,7 +8368,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/challenge-automating-docker-builds-on-aws?u=76281980&t=29)** After having the code checked out, we built an image from the Dockerfile.
 >
-> **[0:33](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/challenge-automating-docker-builds-on-aws?u=76281980&t=33)** We logged into ECR using the AWS CLI, we tagged the image, and then we push that image to ECR.
+> **[0:33](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/challenge-automating-docker-builds-on-aws?u=76281980&t=33)** We logged into ECR using the AWS [[CLI]], we tagged the image, and then we push that image to ECR.
 >
 > **[0:41](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/challenge-automating-docker-builds-on-aws?u=76281980&t=41)** Okay, here's a hint.
 >
@@ -8443,15 +8380,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (3), [[CLI]] (1), next (1)
+> **Frameworks & Libraries:** [[CLI]] (1)
 > **Env Vars:** ecr (4), aws (3), cli (1)
 > **CLI Commands:** aws (3), docker (1), make (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: CodeBuild for Docker ECR pushes
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/solution-codebuild-for-docker-ecr-pushes?u=76281980)
+#### [Solution: CodeBuild for Docker ECR pushes](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/solution-codebuild-for-docker-ecr-pushes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8459,7 +8395,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/solution-codebuild-for-docker-ecr-pushes?u=76281980&t=5)** - [Instructor] All right, if you said CodeBuild you're absolutely right.
 >
-> **[0:09](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/solution-codebuild-for-docker-ecr-pushes?u=76281980&t=9)** We can automate the entire sequence of steps from git push to Docker build to ECR push using CodeBuild and CodePipeline.
+> **[0:09](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/solution-codebuild-for-docker-ecr-pushes?u=76281980&t=9)** We can automate the entire sequence of steps from [[Git]] push to Docker build to ECR push using CodeBuild and CodePipeline.
 >
 > **[0:18](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/solution-codebuild-for-docker-ecr-pushes?u=76281980&t=18)** And automation is not the only reason to do this.
 >
@@ -8483,11 +8419,11 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/solution-codebuild-for-docker-ecr-pushes?u=76281980&t=71)** Now, that has a little bit of an older name that we'll have to use in this role.
 >
-> **[1:15](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/solution-codebuild-for-docker-ecr-pushes?u=76281980&t=75)** It's Amazon EC2 Container Registry.
+> **[1:15](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/solution-codebuild-for-docker-ecr-pushes?u=76281980&t=75)** It's [[Amazon EC2]] Container Registry.
 >
 > **[1:20](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/solution-codebuild-for-docker-ecr-pushes?u=76281980&t=80)** So, here you can see Container Registry Full Access.
 >
-> **[1:23](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/solution-codebuild-for-docker-ecr-pushes?u=76281980&t=83)** So, just for legacy reasons it doesn't say ECR, it says EC2 Container Registry.
+> **[1:23](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/solution-codebuild-for-docker-ecr-pushes?u=76281980&t=83)** So, just for legacy reasons it doesn't say ECR, it says [[Amazon EC2|EC2]] Container Registry.
 >
 > **[1:30](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/solution-codebuild-for-docker-ecr-pushes?u=76281980&t=90)** All right, click the check box there and click Next.
 >
@@ -8505,7 +8441,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/solution-codebuild-for-docker-ecr-pushes?u=76281980&t=123)** All right, we'll call this BuildMyArtGallery.
 >
-> **[2:08](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/solution-codebuild-for-docker-ecr-pushes?u=76281980&t=128)** And our Source, we'll choose GitHub.
+> **[2:08](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/solution-codebuild-for-docker-ecr-pushes?u=76281980&t=128)** And our Source, we'll choose [[GitHub]].
 >
 > **[2:12](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/solution-codebuild-for-docker-ecr-pushes?u=76281980&t=132)** Now, again, this depends on you having forked to the repo and having established a connection to GitHub in one of the previous demos.
 >
@@ -8517,7 +8453,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/solution-codebuild-for-docker-ecr-pushes?u=76281980&t=154)** All right, we will leave Webhook unchecked because we're going to use this with CodePipeline in a moment.
 >
-> **[2:40](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/solution-codebuild-for-docker-ecr-pushes?u=76281980&t=160)** Scroll all the way down, we can keep the Amazon Linux latest image for the build environment.
+> **[2:40](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/solution-codebuild-for-docker-ecr-pushes?u=76281980&t=160)** Scroll all the way down, we can keep the Amazon [[Linux]] latest image for the build environment.
 >
 > **[2:46](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/solution-codebuild-for-docker-ecr-pushes?u=76281980&t=166)** And you can see it's an x86 environment, so that's going to be the architecture that you'll build under.
 >
@@ -8539,7 +8475,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/solution-codebuild-for-docker-ecr-pushes?u=76281980&t=215)** All right, so we've got a few phases.
 >
-> **[3:36](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/solution-codebuild-for-docker-ecr-pushes?u=76281980&t=216)** Here in the install phase we've got three lines that just makes sure that the AWS CLI is installed and up to date.
+> **[3:36](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/solution-codebuild-for-docker-ecr-pushes?u=76281980&t=216)** Here in the install phase we've got three lines that just makes sure that the AWS [[CLI]] is installed and up to date.
 >
 > **[3:43](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/solution-codebuild-for-docker-ecr-pushes?u=76281980&t=223)** We also output the version just so you can see that in the logs.
 >
@@ -8565,7 +8501,7 @@ created: 2026-05-02
 >
 > **[4:51](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/solution-codebuild-for-docker-ecr-pushes?u=76281980&t=291)** We need two artifacts to come out of this build stage so that later we can automate this pipeline fully.
 >
-> **[4:58](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/solution-codebuild-for-docker-ecr-pushes?u=76281980&t=298)** The first one is a file called imageDetail.json.
+> **[4:58](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/solution-codebuild-for-docker-ecr-pushes?u=76281980&t=298)** The first one is a file called imageDetail.[[JSON]].
 >
 > **[5:01](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/solution-codebuild-for-docker-ecr-pushes?u=76281980&t=301)** It needs to have that name and have this format, ImageURI, and then we give it the fully qualified path to the URI and tag.
 >
@@ -8615,7 +8551,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Git]] (2), aws (2), [[GitHub]] (2), [[JSON]] (2)
+> **Frameworks & Libraries:** [[Git]] (2), [[GitHub]] (2), [[JSON]] (2), [[Amazon EC2]] (1), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** ecr (10), uri (5), arm (2), aws (2), ec2 (2)
 > **CLI Commands:** docker (8), git (2), aws (2), make (2), find (1)
 > **UI Navigation:** scroll down (3), click on (1), select the (1), switch to (1), go to (1)
@@ -8624,8 +8560,7 @@ created: 2026-05-02
 > **Cross-References:** later in (1), go back to (1), in the next (1)
 > **Tools:** github (2)
 
-#### Automating the Docker build with CodePipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/automating-the-docker-build-with-codepipeline?u=76281980)
+#### [Automating the Docker build with CodePipeline](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/automating-the-docker-build-with-codepipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8637,7 +8572,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/automating-the-docker-build-with-codepipeline?u=76281980&t=22)** Scroll down, you can let it create a new service rule, so leave that as is, and click next.
 >
-> **[0:28](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/automating-the-docker-build-with-codepipeline?u=76281980&t=28)** Now, we want the source provider to be GitHub Version 2.
+> **[0:28](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/automating-the-docker-build-with-codepipeline?u=76281980&t=28)** Now, we want the source provider to be [[GitHub]] Version 2.
 >
 > **[0:33](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/automating-the-docker-build-with-codepipeline?u=76281980&t=33)** And what you'll likely have to do on this screen is click connect to GitHub.
 >
@@ -8781,7 +8716,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (11), next (5), [[Search]] (1), aws (1), application (1)
+> **Frameworks & Libraries:** [[GitHub]] (11)
 > **Tools:** github (11), command line (2)
 > **CLI Commands:** make (3), docker (2), aws (1)
 > **Env Vars:** iam (2), aws (1), ecr (1), ecs (1)
@@ -8790,8 +8725,7 @@ created: 2026-05-02
 > **Code Identifiers:** my_art_gallery (1)
 > **Versions:** version 2 (1)
 
-#### Fully automating ECS Docker deployments with CodePipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/fully-automating-ecs-docker-deployments-with-codepipeline?u=76281980)
+#### [Fully automating ECS Docker deployments with CodePipeline](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/fully-automating-ecs-docker-deployments-with-codepipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8879,7 +8813,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/fully-automating-ecs-docker-deployments-with-codepipeline?u=76281980&t=223)** Okay, this needs to be pushed to your repo.
 >
-> **[3:46](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/fully-automating-ecs-docker-deployments-with-codepipeline?u=76281980&t=226)** So again, we're relying on you having a fourth copy of this code, but we're going to do a git add on appspec.ecs.yml.
+> **[3:46](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/fully-automating-ecs-docker-deployments-with-codepipeline?u=76281980&t=226)** So again, we're relying on you having a fourth copy of this code, but we're going to do a [[Git]] add on appspec.ecs.yml.
 >
 > **[3:55](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/fully-automating-ecs-docker-deployments-with-codepipeline?u=76281980&t=235)** A git commit, and we'll say, "swapped in my task definition details."
 >
@@ -8911,7 +8845,7 @@ created: 2026-05-02
 >
 > **[4:58](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/fully-automating-ecs-docker-deployments-with-codepipeline?u=76281980&t=298)** Okay, why is that?
 >
-> **[4:59](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/fully-automating-ecs-docker-deployments-with-codepipeline?u=76281980&t=299)** That's because if we come from the source artifact, the appspec.yml at the root is the one that belongs to the previous chapter where we deployed to EC2 instances.
+> **[4:59](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/fully-automating-ecs-docker-deployments-with-codepipeline?u=76281980&t=299)** That's because if we come from the source artifact, the appspec.yml at the root is the one that belongs to the previous chapter where we deployed to [[Amazon EC2|EC2]] instances.
 >
 > **[5:08](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/fully-automating-ecs-docker-deployments-with-codepipeline?u=76281980&t=308)** We don't want that.
 >
@@ -8963,7 +8897,7 @@ created: 2026-05-02
 >
 > **[6:47](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/fully-automating-ecs-docker-deployments-with-codepipeline?u=76281980&t=407)** So what I'm going to do is head over to my console, and we're going to edit a file.
 >
-> **[6:53](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/fully-automating-ecs-docker-deployments-with-codepipeline?u=76281980&t=413)** We'll edit app/views/arts/index.html.erb.
+> **[6:53](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/fully-automating-ecs-docker-deployments-with-codepipeline?u=76281980&t=413)** We'll edit app/views/arts/index.[[HTML]].erb.
 >
 > **[7:00](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/fully-automating-ecs-docker-deployments-with-codepipeline?u=76281980&t=420)** And there's a little h2 right here, a subheader just for things like this.
 >
@@ -9043,7 +8977,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[Git]] (4), aws (3), [[Amazon EC2|Ec2]] (3), next (2)
+> **Frameworks & Libraries:** [[Git]] (4), [[Amazon EC2|Ec2]] (3), [[HTML]] (1)
 > **CLI Commands:** make (7), git (4), aws (3), find (3), docker (1)
 > **Env Vars:** ecs (5), aws (3), ec2 (3), arn (2), ecr (1)
 > **UI Navigation:** go to (6), click on (2), scroll down (1)
@@ -9052,8 +8986,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (2), previous chapter (1), go back to (1)
 > **Code Identifiers:** my_art_gallery (1), art_gallery_alb (1)
 
-#### ECS teardown
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/ecs-teardown?u=76281980)
+#### [ECS teardown](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/ecs-teardown?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9077,7 +9010,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/ecs-teardown?u=76281980&t=41)** And let's see, we actually need to click into it and choose delete application.
 >
-> **[0:47](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/ecs-teardown?u=76281980&t=47)** Again, confirm with the word "delete."
+> **[0:47](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/ecs-teardown?u=76281980&t=47)** Again, confirm with the [[Microsoft Word|word]] "delete."
 >
 > **[0:51](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/ecs-teardown?u=76281980&t=51)** Okay, we'll do the same with CodeBuild.
 >
@@ -9107,7 +9040,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/ecs-teardown?u=76281980&t=106)** Okay, so that's our tasks and service.
 >
-> **[1:49](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/ecs-teardown?u=76281980&t=109)** Now let's go into the EC2 console.
+> **[1:49](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/ecs-teardown?u=76281980&t=109)** Now let's go into the [[Amazon EC2|EC2]] console.
 >
 > **[1:53](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/ecs-teardown?u=76281980&t=113)** Type EC2, I'll open this in a new window.
 >
@@ -9239,7 +9172,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (10), database (4), [[Microsoft Word|Word]] (3), application (2), [[Amazon EC2|Ec2]] (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Amazon EC2|Ec2]] (2)
 > **UI Navigation:** go to (14), checkbox (2), click on (1), navigate to (1)
 > **Env Vars:** ecs (4), rds (3), ec2 (2), alb (2), ecr (2)
 > **Cross-References:** in the last (1), go back to (1), next video (1)
@@ -9247,24 +9180,23 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understand AWS Copilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-ecs-copilot?u=76281980)
+#### [Understand AWS Copilot](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-ecs-copilot?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-ecs-copilot?u=76281980&t=0)** - [Instructor] Hey, just a quick note before we completely wrap up with containers.
 >
-> **[0:04](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-ecs-copilot?u=76281980&t=4)** If you've enjoyed what we've been able to do with ECS in this chapter, be sure to check out AWS Copilot, not to be confused with AI services of the same name.
+> **[0:04](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-ecs-copilot?u=76281980&t=4)** If you've enjoyed what we've been able to do with ECS in this chapter, be sure to check out AWS [[Microsoft Copilot|Copilot]], not to be confused with AI services of the same name.
 >
 > **[0:13](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-ecs-copilot?u=76281980&t=13)** Copilot is Amazon's brand for the latest version of its ECS Command Line Interface.
 >
-> **[0:19](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-ecs-copilot?u=76281980&t=19)** As you can see here, Copilot has its own unique landing page and documentation at aws.[github.io](https://github.io), and looking at the usage message here on the terminal with its playful emojis, you can guess that Copilot is designed to give developers a friendly experience complete with step-by-step wizards that help developers rapidly standup ECS services.
+> **[0:19](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-ecs-copilot?u=76281980&t=19)** As you can see here, Copilot has its own unique landing page and documentation at aws.[[[GitHub]].io](https://github.io), and looking at the usage message here on the terminal with its playful emojis, you can guess that Copilot is designed to give developers a friendly experience complete with step-by-step wizards that help developers rapidly standup ECS services.
 >
 > **[0:41](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-ecs-copilot?u=76281980&t=41)** The key concepts in Copilot are the app, environment, and services.
 >
 > **[0:45](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-ecs-copilot?u=76281980&t=45)** When you start a new build with Copilot in it, you'll be asked a series of questions that'll help you launch a scalable container infrastructure in minutes.
 >
-> **[0:53](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-ecs-copilot?u=76281980&t=53)** One of the things I really like about Copilot is that it generates config files for you that manage things like network infrastructure, security groups, and task scaling on a per environment basis, giving you an easy way not only to configure your environment, but to version control that infrastructure.
+> **[0:53](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-ecs-copilot?u=76281980&t=53)** One of the things I really like about Copilot is that it generates config files for you that manage things like network infrastructure, security groups, and task scaling on a per environment basis, giving you an easy way not only to configure your environment, but to [[Version Control]] that infrastructure.
 >
 > **[1:09](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-ecs-copilot?u=76281980&t=69)** You can see here we've got references to security groups, and down below to secrets.
 >
@@ -9278,7 +9210,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (10), aws (2), [[Security]] (2), ai (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (10), [[GitHub]] (1), [[Version Control]] (1)
 > **Env Vars:** ecs (5), aws (1)
 > **Tools:** terminal (2), command line (1), github (1)
 > **CLI Commands:** aws (2)
@@ -9291,8 +9223,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9310,7 +9241,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (4), application (1)
 > **CLI Commands:** aws (4)
 > **Env Vars:** aws (3)
 > **URLs:** [amazon.com](https://amazon.com) (1)

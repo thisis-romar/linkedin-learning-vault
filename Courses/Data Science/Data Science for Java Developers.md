@@ -110,12 +110,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data science: Making sense out of chaos
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/data-science-making-sense-out-of-chaos?u=76281980)
+#### [Data science: Making sense out of chaos](https://www.linkedin.com/learning/data-science-for-java-developers/data-science-making-sense-out-of-chaos?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-for-java-developers/data-science-making-sense-out-of-chaos?u=76281980&t=0)** - [Shaun] Data science is a rapidly growing, incredibly interesting, and not to mention financially lucrative field.
+> **[0:00](https://www.linkedin.com/learning/data-science-for-java-developers/data-science-making-sense-out-of-chaos?u=76281980&t=0)** - [Shaun] [[Data Science]] is a rapidly growing, incredibly interesting, and not to mention financially lucrative field.
 >
 > **[0:06](https://www.linkedin.com/learning/data-science-for-java-developers/data-science-making-sense-out-of-chaos?u=76281980&t=6)** Many businesses, despite having access to a flood of data from a huge variety of sources, are finding themselves unable to make any sense of this data, and they're willing to pay good money to anyone who can help them do so.
 >
@@ -127,7 +126,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/data-science-for-java-developers/data-science-making-sense-out-of-chaos?u=76281980&t=32)** I'm a senior software developer, and I've been working with data science throughout my career.
 >
-> **[0:37](https://www.linkedin.com/learning/data-science-for-java-developers/data-science-making-sense-out-of-chaos?u=76281980&t=37)** Join me in my LinkedIn Learning course to learn data science with Java and see how to take your career to a whole new level.
+> **[0:37](https://www.linkedin.com/learning/data-science-for-java-developers/data-science-making-sense-out-of-chaos?u=76281980&t=37)** Join me in my [[LinkedIn]] Learning course to learn data science with [[Java]] and see how to take your career to a whole new level.
 >
 > **[0:43](https://www.linkedin.com/learning/data-science-for-java-developers/data-science-making-sense-out-of-chaos?u=76281980&t=43)** And of course, if you enjoy this content and want to get in contact with me, feel free to connect with me on LinkedIn.
 >
@@ -135,7 +134,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), career (2), [[LinkedIn]] (2), [[Java]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (5), [[LinkedIn]] (2), [[Java]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [shaun] (1)
@@ -145,12 +144,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is data science anyway?
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/what-is-data-science-anyway?u=76281980)
+#### [What is data science anyway?](https://www.linkedin.com/learning/data-science-for-java-developers/what-is-data-science-anyway?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-for-java-developers/what-is-data-science-anyway?u=76281980&t=0)** - [Narrator] So before we start getting into all the different data science skills, stuff like data visualization, machine learning algorithms and all that fun stuff, the first question that you probably have or should have at any rate is what exactly is data science?
+> **[0:00](https://www.linkedin.com/learning/data-science-for-java-developers/what-is-data-science-anyway?u=76281980&t=0)** - [Narrator] So before we start getting into all the different [[Data Science]] skills, stuff like data visualization, machine learning [[Algorithms]] and all that fun stuff, the first question that you probably have or should have at any rate is what exactly is data science?
 >
 > **[0:16](https://www.linkedin.com/learning/data-science-for-java-developers/what-is-data-science-anyway?u=76281980&t=16)** Data science is the study of data, but in a more fundamental level data science is the study of how to take data and make some sort of useful sense out of it.
 >
@@ -166,9 +164,9 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/data-science-for-java-developers/what-is-data-science-anyway?u=76281980&t=78)** The idea here is that data science lies at the intersection of three distinct skill groups.
 >
-> **[1:25](https://www.linkedin.com/learning/data-science-for-java-developers/what-is-data-science-anyway?u=76281980&t=85)** One, hacking skills that is technical prowess, such as coding and software development.
+> **[1:25](https://www.linkedin.com/learning/data-science-for-java-developers/what-is-data-science-anyway?u=76281980&t=85)** One, hacking skills that is technical prowess, such as coding and [[Software Development]].
 >
-> **[1:31](https://www.linkedin.com/learning/data-science-for-java-developers/what-is-data-science-anyway?u=76281980&t=91)** Two, math and statistics.
+> **[1:31](https://www.linkedin.com/learning/data-science-for-java-developers/what-is-data-science-anyway?u=76281980&t=91)** Two, math and [[Statistics]].
 >
 > **[1:33](https://www.linkedin.com/learning/data-science-for-java-developers/what-is-data-science-anyway?u=76281980&t=93)** Now, sorry if that made some of you cringe there but it is a pretty vital part of data science, nonetheless.
 >
@@ -178,17 +176,17 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/data-science-for-java-developers/what-is-data-science-anyway?u=76281980&t=111)** Now, the names of these three skills might be a little opaque for some of you, so if it helps you to just think of it as tech skills, math skills, and business skills that's pretty much the point that's being made here.
 >
-> **[2:04](https://www.linkedin.com/learning/data-science-for-java-developers/what-is-data-science-anyway?u=76281980&t=124)** So moving on here, you may have noticed that so far besides Java, I haven't actually mentioned any specific data science related technologies as part of the definition of what data science is, and that's no accident.
+> **[2:04](https://www.linkedin.com/learning/data-science-for-java-developers/what-is-data-science-anyway?u=76281980&t=124)** So moving on here, you may have noticed that so far besides [[Java]], I haven't actually mentioned any specific data science related technologies as part of the definition of what data science is, and that's no accident.
 >
 > **[2:16](https://www.linkedin.com/learning/data-science-for-java-developers/what-is-data-science-anyway?u=76281980&t=136)** You see, when we're approaching data science for the first time as with pretty much any other tech-related field, we need to remember that the technology is not the field.
 >
 > **[2:26](https://www.linkedin.com/learning/data-science-for-java-developers/what-is-data-science-anyway?u=76281980&t=146)** With so many domain specific technologies programming language and frameworks around the tendency has been for people to start defining the fields themselves in terms of the current hot technologies that are being used in the field.
 >
-> **[2:39](https://www.linkedin.com/learning/data-science-for-java-developers/what-is-data-science-anyway?u=76281980&t=159)** So you might hear that data science is learning to use Python or that data science is learning to use Hadoop or BigQuery or Apache Spark or any of those other technology buzzwords.
+> **[2:39](https://www.linkedin.com/learning/data-science-for-java-developers/what-is-data-science-anyway?u=76281980&t=159)** So you might hear that data science is learning to use [[Python (Programming Language)|Python]] or that data science is learning to use [[Hadoop]] or BigQuery or [[Apache Spark]] or any of those other technology buzzwords.
 >
 > **[2:50](https://www.linkedin.com/learning/data-science-for-java-developers/what-is-data-science-anyway?u=76281980&t=170)** And while those really are all incredibly useful technologies in the field, we got to remember, again, that the technology is not the field.
 >
-> **[2:59](https://www.linkedin.com/learning/data-science-for-java-developers/what-is-data-science-anyway?u=76281980&t=179)** Another question that you probably have about data science is how data science is different from things like big data, data analytics, and so on, right?
+> **[2:59](https://www.linkedin.com/learning/data-science-for-java-developers/what-is-data-science-anyway?u=76281980&t=179)** Another question that you probably have about data science is how data science is different from things like [[Big Data]], data analytics, and so on, right?
 >
 > **[3:08](https://www.linkedin.com/learning/data-science-for-java-developers/what-is-data-science-anyway?u=76281980&t=188)** Those other kinds of technology data related buzzwords.
 >
@@ -210,7 +208,7 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/data-science-for-java-developers/what-is-data-science-anyway?u=76281980&t=246)** Data analytics is generally focused on automating processes for drawing conclusions from data.
 >
-> **[4:13](https://www.linkedin.com/learning/data-science-for-java-developers/what-is-data-science-anyway?u=76281980&t=253)** The fact is that when most companies pick one title or another, it's either completely at random or it's based on which title the human resources department thinks will catch people's eye in the job posting more effectively.
+> **[4:13](https://www.linkedin.com/learning/data-science-for-java-developers/what-is-data-science-anyway?u=76281980&t=253)** The fact is that when most companies pick one title or another, it's either completely at random or it's based on which title the [[Human Resources (HR)|human resources]] department thinks will catch people's eye in the job posting more effectively.
 >
 > **[4:26](https://www.linkedin.com/learning/data-science-for-java-developers/what-is-data-science-anyway?u=76281980&t=266)** That's just the reality of these things.
 >
@@ -220,19 +218,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (39), [[Analytics]] (5), [[Big Data]] (3), [[Statistics]] (2), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (18), [[Big Data]] (3), [[Statistics]] (2), [[Algorithms]] (1), [[Software Development]] (1)
 > **CLI Commands:** make (2), python (1), apache (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Analogies:** such as (1), think of it as (1)
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [narrator] (1)
 
-#### Data science examples
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/data-science-examples?u=76281980)
+#### [Data science examples](https://www.linkedin.com/learning/data-science-for-java-developers/data-science-examples?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-for-java-developers/data-science-examples?u=76281980&t=0)** - So, not that you hopefully have a better idea of the basic concerns of data science and its related fields.
+> **[0:00](https://www.linkedin.com/learning/data-science-for-java-developers/data-science-examples?u=76281980&t=0)** - So, not that you hopefully have a better idea of the basic concerns of [[Data Science]] and its related fields.
 >
 > **[0:06](https://www.linkedin.com/learning/data-science-for-java-developers/data-science-examples?u=76281980&t=6)** What I'm going to do next is I'm going to take you through a few examples of how some companies and industries are currently using data science to improve people's lives, thrown operations, and yes, their profit margins.
 >
@@ -242,7 +239,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/data-science-for-java-developers/data-science-examples?u=76281980&t=28)** But put simply, Recommender Systems take data about some group of people.
 >
-> **[0:32](https://www.linkedin.com/learning/data-science-for-java-developers/data-science-examples?u=76281980&t=32)** Whether that's customers on an e-commerce site, viewers on a video site, shoppers in an actual brick and mortar store, and so on.
+> **[0:32](https://www.linkedin.com/learning/data-science-for-java-developers/data-science-examples?u=76281980&t=32)** Whether that's customers on an [[E-Commerce]] site, viewers on a video site, shoppers in an actual brick and mortar store, and so on.
 >
 > **[0:40](https://www.linkedin.com/learning/data-science-for-java-developers/data-science-examples?u=76281980&t=40)** And based on this information, which usually includes their previous behavior and purchases among other things.
 >
@@ -268,7 +265,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/data-science-for-java-developers/data-science-examples?u=76281980&t=107)** Basically taking your profile information, likes, comments and even the amount of time you spend looking at individual posts and other advertisements.
 >
-> **[1:55](https://www.linkedin.com/learning/data-science-for-java-developers/data-science-examples?u=76281980&t=115)** And using that information to recommend products to you.
+> **[1:55](https://www.linkedin.com/learning/data-science-for-java-developers/data-science-examples?u=76281980&t=115)** And using that information to recommend [[Microsoft Products|products]] to you.
 >
 > **[1:59](https://www.linkedin.com/learning/data-science-for-java-developers/data-science-examples?u=76281980&t=119)** It's a very sophisticated system.
 >
@@ -286,7 +283,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/data-science-for-java-developers/data-science-examples?u=76281980&t=161)** Now moving onto something a little drier in many people's eyes anyway.
 >
-> **[2:45](https://www.linkedin.com/learning/data-science-for-java-developers/data-science-examples?u=76281980&t=165)** Data science is also being applied extensively in the banking industry.
+> **[2:45](https://www.linkedin.com/learning/data-science-for-java-developers/data-science-examples?u=76281980&t=165)** Data science is also being applied extensively in the [[Banking]] industry.
 >
 > **[2:49](https://www.linkedin.com/learning/data-science-for-java-developers/data-science-examples?u=76281980&t=169)** One of the more notable examples of this, is that banks are now using data science to do things like predict the likelihood that new loan applicants will default on their loans.
 >
@@ -300,7 +297,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/data-science-for-java-developers/data-science-examples?u=76281980&t=201)** And the last set of potential applications that I'm going to talk about briefly, are some of the more sensory based applications of data science.
 >
-> **[3:29](https://www.linkedin.com/learning/data-science-for-java-developers/data-science-examples?u=76281980&t=209)** And this includes things like speech recognition, machine vision and machine reading comprehension.
+> **[3:29](https://www.linkedin.com/learning/data-science-for-java-developers/data-science-examples?u=76281980&t=209)** And this includes things like [[Speech Recognition]], machine vision and machine reading comprehension.
 >
 > **[3:35](https://www.linkedin.com/learning/data-science-for-java-developers/data-science-examples?u=76281980&t=215)** And the advances that have been made in this area in particular in the past decade have been really nothing short of incredible.
 >
@@ -308,17 +305,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), next (1), application (1), [[E-Commerce]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (11), [[E-Commerce]] (1), [[Microsoft Products|Products]] (1), [[Banking]] (1), [[Speech Recognition]] (1)
 > **Analogies:** such as (3), similar to (1)
 > **Env Vars:** dna (1)
 > **Speakers:** - so (1)
 
-#### Data as a business asset
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/data-as-a-business-asset?u=76281980)
+#### [Data as a business asset](https://www.linkedin.com/learning/data-science-for-java-developers/data-as-a-business-asset?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-for-java-developers/data-as-a-business-asset?u=76281980&t=0)** - So all of the examples that we've seen so far of potential applications of data science lead us to a very important point.
+> **[0:00](https://www.linkedin.com/learning/data-science-for-java-developers/data-as-a-business-asset?u=76281980&t=0)** - So all of the examples that we've seen so far of potential applications of [[Data Science]] lead us to a very important point.
 >
 > **[0:07](https://www.linkedin.com/learning/data-science-for-java-developers/data-as-a-business-asset?u=76281980&t=7)** Now, before I get to exactly what that point is, I want to ask all of you a series of questions.
 >
@@ -328,7 +324,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/data-science-for-java-developers/data-as-a-business-asset?u=76281980&t=29)** How many of you have a Facebook account?
 >
-> **[0:32](https://www.linkedin.com/learning/data-science-for-java-developers/data-as-a-business-asset?u=76281980&t=32)** How many of you use Google Maps?
+> **[0:32](https://www.linkedin.com/learning/data-science-for-java-developers/data-as-a-business-asset?u=76281980&t=32)** How many of you use [[Google]] Maps?
 >
 > **[0:35](https://www.linkedin.com/learning/data-science-for-java-developers/data-as-a-business-asset?u=76281980&t=35)** How many of you get discounted medical insurance premiums in exchange for access to medical data?
 >
@@ -372,30 +368,29 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Google]] (3), business (1), power (1)
+> **Frameworks & Libraries:** [[Data Science]] (3), [[Google]] (3)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (1), imagine (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - so (1)
 
-#### CRISP-DM: The data science cycle
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/crisp-dm-the-data-science-cycle?u=76281980)
+#### [CRISP-DM: The data science cycle](https://www.linkedin.com/learning/data-science-for-java-developers/crisp-dm-the-data-science-cycle?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-for-java-developers/crisp-dm-the-data-science-cycle?u=76281980&t=0)** - [Instructor] Okay, now that we know some of the basics regarding what exactly data science is, as well as what it can do, the next thing we're going to do is we're going to take a high-level look at exactly how data science is usually done.
+> **[0:00](https://www.linkedin.com/learning/data-science-for-java-developers/crisp-dm-the-data-science-cycle?u=76281980&t=0)** - [Instructor] Okay, now that we know some of the basics regarding what exactly [[Data Science]] is, as well as what it can do, the next thing we're going to do is we're going to take a high-level look at exactly how data science is usually done.
 >
-> **[0:13](https://www.linkedin.com/learning/data-science-for-java-developers/crisp-dm-the-data-science-cycle?u=76281980&t=13)** And for this, we're going to take a look at something that's referred to as the CRISP-DM, which is the main cycle of data science.
+> **[0:13](https://www.linkedin.com/learning/data-science-for-java-developers/crisp-dm-the-data-science-cycle?u=76281980&t=13)** And for this, we're going to take a look at something that's referred to as the [[CRISP-DM]], which is the main cycle of data science.
 >
 > **[0:20](https://www.linkedin.com/learning/data-science-for-java-developers/crisp-dm-the-data-science-cycle?u=76281980&t=20)** So as a programmer, you've probably noticed that cycles are a fairly common thing in the tech world.
 >
 > **[0:26](https://www.linkedin.com/learning/data-science-for-java-developers/crisp-dm-the-data-science-cycle?u=76281980&t=26)** We have the red green refactor cycle for test driven development.
 >
-> **[0:30](https://www.linkedin.com/learning/data-science-for-java-developers/crisp-dm-the-data-science-cycle?u=76281980&t=30)** We have the software development life cycle, we have the scrum cycle, we have the lean cycle.
+> **[0:30](https://www.linkedin.com/learning/data-science-for-java-developers/crisp-dm-the-data-science-cycle?u=76281980&t=30)** We have the [[Software Development]] life cycle, we have the [[Scrum]] cycle, we have the lean cycle.
 >
 > **[0:35](https://www.linkedin.com/learning/data-science-for-java-developers/crisp-dm-the-data-science-cycle?u=76281980&t=35)** And the point of all these cycles is that they help keep us on track and really start to form habits around the so-called normal progression of developing some sort of system, whatever it is we're working on.
 >
-> **[0:47](https://www.linkedin.com/learning/data-science-for-java-developers/crisp-dm-the-data-science-cycle?u=76281980&t=47)** Now as it happens, data science has a cycle of its own, which is the somewhat comically named CRISP-DM cycle, which stands for cross industry standard process for data mining.
+> **[0:47](https://www.linkedin.com/learning/data-science-for-java-developers/crisp-dm-the-data-science-cycle?u=76281980&t=47)** Now as it happens, data science has a cycle of its own, which is the somewhat comically named CRISP-DM cycle, which stands for cross industry standard process for [[Data Mining]].
 >
 > **[0:59](https://www.linkedin.com/learning/data-science-for-java-developers/crisp-dm-the-data-science-cycle?u=76281980&t=59)** CRISP-DM is a very widely used approach for carrying out data science projects.
 >
@@ -445,7 +440,7 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/data-science-for-java-developers/crisp-dm-the-data-science-cycle?u=76281980&t=220)** So anyway, moving on.
 >
-> **[3:42](https://www.linkedin.com/learning/data-science-for-java-developers/crisp-dm-the-data-science-cycle?u=76281980&t=222)** The next step that we're going to look at is data preparation.
+> **[3:42](https://www.linkedin.com/learning/data-science-for-java-developers/crisp-dm-the-data-science-cycle?u=76281980&t=222)** The next step that we're going to look at is [[Data Preparation]].
 >
 > **[3:46](https://www.linkedin.com/learning/data-science-for-java-developers/crisp-dm-the-data-science-cycle?u=76281980&t=226)** This is where we transform the data from its raw form into the form required by whatever data science problems we've decided to break the business problem up into.
 >
@@ -473,11 +468,11 @@ created: 2026-05-02
 >
 > **[5:19](https://www.linkedin.com/learning/data-science-for-java-developers/crisp-dm-the-data-science-cycle?u=76281980&t=319)** This is where we send out our model into the real world and actually have it running live on our site.
 >
-> **[5:26](https://www.linkedin.com/learning/data-science-for-java-developers/crisp-dm-the-data-science-cycle?u=76281980&t=326)** So this would be when we release our recommender system let's say, that recommends new products for our users.
+> **[5:26](https://www.linkedin.com/learning/data-science-for-java-developers/crisp-dm-the-data-science-cycle?u=76281980&t=326)** So this would be when we release our recommender system let's say, that recommends new [[Microsoft Products|products]] for our users.
 >
 > **[5:32](https://www.linkedin.com/learning/data-science-for-java-developers/crisp-dm-the-data-science-cycle?u=76281980&t=332)** Now just one thing to remember, and I know that many of you watching this are going to be developers yourselves, but this deployment step is actually often done by a separate team that worries more about the operational side of things.
 >
-> **[5:45](https://www.linkedin.com/learning/data-science-for-java-developers/crisp-dm-the-data-science-cycle?u=76281980&t=345)** So usually you have one team that worries about the rest of the cycle, actually doing the business understanding, creating the models, et cetera.
+> **[5:45](https://www.linkedin.com/learning/data-science-for-java-developers/crisp-dm-the-data-science-cycle?u=76281980&t=345)** So usually you have one team that worries about the [[Representational State Transfer (REST)|rest]] of the cycle, actually doing the business understanding, creating the models, et cetera.
 >
 > **[5:53](https://www.linkedin.com/learning/data-science-for-java-developers/crisp-dm-the-data-science-cycle?u=76281980&t=353)** And then you have another team that takes basically whatever the data scientists design, and puts that into production.
 >
@@ -489,7 +484,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (39), business (13), next (5), [[CRISP-DM]] (3), [[Software Development]] (2)
+> **Frameworks & Libraries:** [[Data Science]] (12), [[CRISP-DM]] (3), [[Data Preparation]] (3), [[Software Development]] (2), [[Scrum]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (2), stands for (1), in other words (1)
 > **Analogies:** just like (2), picture (1), such as (1)
@@ -497,18 +492,17 @@ created: 2026-05-02
 > **Cross-References:** go back to (3)
 > **Speakers:** - [instructor] (1)
 
-#### Types of problems in data science
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/types-of-problems-in-data-science?u=76281980)
+#### [Types of problems in data science](https://www.linkedin.com/learning/data-science-for-java-developers/types-of-problems-in-data-science?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-science-for-java-developers/types-of-problems-in-data-science?u=76281980&t=0)** - [Instructor] All right.
 >
-> **[0:01](https://www.linkedin.com/learning/data-science-for-java-developers/types-of-problems-in-data-science?u=76281980&t=1)** So now that we've seen some examples of applications of data science, we've seen the basic data science cycle, we're going to take a look at the main types of problems in data science.
+> **[0:01](https://www.linkedin.com/learning/data-science-for-java-developers/types-of-problems-in-data-science?u=76281980&t=1)** So now that we've seen some examples of applications of [[Data Science]], we've seen the basic data science cycle, we're going to take a look at the main types of problems in data science.
 >
 > **[0:10](https://www.linkedin.com/learning/data-science-for-java-developers/types-of-problems-in-data-science?u=76281980&t=10)** Now I mentioned earlier, when we were talking about the cycle, that a lot of times we want to try and express business problems, business desires in terms of one of these types of problems that we're going to go over in this video.
 >
-> **[0:24](https://www.linkedin.com/learning/data-science-for-java-developers/types-of-problems-in-data-science?u=76281980&t=24)** One thing to note before we get started is that while there are a lot of algorithms in data science, there are a huge number of algorithms and different variations on those algorithms that you can actually implement.
+> **[0:24](https://www.linkedin.com/learning/data-science-for-java-developers/types-of-problems-in-data-science?u=76281980&t=24)** One thing to note before we get started is that while there are a lot of [[Algorithms]] in data science, there are a huge number of algorithms and different variations on those algorithms that you can actually implement.
 >
 > **[0:35](https://www.linkedin.com/learning/data-science-for-java-developers/types-of-problems-in-data-science?u=76281980&t=35)** The fact is that, most of the problems that these algorithms solve, fall into a relatively small number of different types of problems.
 >
@@ -608,7 +602,7 @@ created: 2026-05-02
 >
 > **[6:52](https://www.linkedin.com/learning/data-science-for-java-developers/types-of-problems-in-data-science?u=76281980&t=412)** Causal modeling, aims to identify cause and effect in data sets.
 >
-> **[6:58](https://www.linkedin.com/learning/data-science-for-java-developers/types-of-problems-in-data-science?u=76281980&t=418)** And one thing to note here, is that the rest of the types of problems we've talked about so far, generally do not imply cause and effect, is they only imply correlation.
+> **[6:58](https://www.linkedin.com/learning/data-science-for-java-developers/types-of-problems-in-data-science?u=76281980&t=418)** And one thing to note here, is that the [[Representational State Transfer (REST)|rest]] of the types of problems we've talked about so far, generally do not imply cause and effect, is they only imply correlation.
 >
 > **[7:09](https://www.linkedin.com/learning/data-science-for-java-developers/types-of-problems-in-data-science?u=76281980&t=429)** So in other words, we may find some sort of pattern like that.
 >
@@ -620,7 +614,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), next (8), [[Algorithms]] (4), business (2), application (2)
+> **Frameworks & Libraries:** [[Data Science]] (5), [[Algorithms]] (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (3), is called (2), in other words (2), known as (2)
 > **CLI Commands:** find (3)
 > **Speakers:** - [instructor] (1)
@@ -630,12 +624,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data formatting in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/data-formatting-in-java?u=76281980)
+#### [Data formatting in Java](https://www.linkedin.com/learning/data-science-for-java-developers/data-formatting-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-for-java-developers/data-formatting-in-java?u=76281980&t=0)** - [Instructor] Okay, so the next thing we're going to do is we're going to start taking a look at some more concrete examples of how data science is actually done in Java and the way that we're going to start that off is by taking a look at the topic of data formatting in Java.
+> **[0:00](https://www.linkedin.com/learning/data-science-for-java-developers/data-formatting-in-java?u=76281980&t=0)** - [Instructor] Okay, so the next thing we're going to do is we're going to start taking a look at some more concrete examples of how [[Data Science]] is actually done in [[Java]] and the way that we're going to start that off is by taking a look at the topic of data formatting in Java.
 >
 > **[0:14](https://www.linkedin.com/learning/data-science-for-java-developers/data-formatting-in-java?u=76281980&t=14)** So, one of the first things that you're going to run into when you start trying to do data science in Java is there are actually a lot of different ways that we can format the data that we're going to be working with.
 >
@@ -667,7 +660,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/data-science-for-java-developers/data-formatting-in-java?u=76281980&t=109)** All right, so we have the names of all of our data sets so what we're doing here is we're really taking it on more of a column by column basis.
 >
-> **[1:57](https://www.linkedin.com/learning/data-science-for-java-developers/data-formatting-in-java?u=76281980&t=117)** If you're talking about something like an SQL database this would be what a column would look like.
+> **[1:57](https://www.linkedin.com/learning/data-science-for-java-developers/data-formatting-in-java?u=76281980&t=117)** If you're talking about something like an [[SQL]] database this would be what a column would look like.
 >
 > **[2:02](https://www.linkedin.com/learning/data-science-for-java-developers/data-formatting-in-java?u=76281980&t=122)** It would be all of the values for each record in our data set as an array.
 >
@@ -691,7 +684,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/data-science-for-java-developers/data-formatting-in-java?u=76281980&t=187)** And then what would happen is that the indices of this array would sort of correspond to each other.
 >
-> **[3:11](https://www.linkedin.com/learning/data-science-for-java-developers/data-formatting-in-java?u=76281980&t=191)** So in other words, John Doe's IDs one, two, three and whether or not he likes pizza is the zero with element in that array.
+> **[3:11](https://www.linkedin.com/learning/data-science-for-java-developers/data-formatting-in-java?u=76281980&t=191)** So in other words, [[John the Ripper|John]] Doe's IDs one, two, three and whether or not he likes pizza is the zero with element in that array.
 >
 > **[3:17](https://www.linkedin.com/learning/data-science-for-java-developers/data-formatting-in-java?u=76281980&t=197)** Same for Jane Jones, same for Bill Smith, same for Betsy Garcia.
 >
@@ -731,7 +724,7 @@ created: 2026-05-02
 >
 > **[6:08](https://www.linkedin.com/learning/data-science-for-java-developers/data-formatting-in-java?u=76281980&t=368)** So we could say something like real matrix, matrix equals new, and then we'd use something like array 2D row real matrix and turn this matrix data here into a matrix that we can perform operations on like this.
 >
-> **[6:28](https://www.linkedin.com/learning/data-science-for-java-developers/data-formatting-in-java?u=76281980&t=388)** And of course, you're going to need to download this if you want to actually use this but we're not really going to be using this library throughout the rest of the course.
+> **[6:28](https://www.linkedin.com/learning/data-science-for-java-developers/data-formatting-in-java?u=76281980&t=388)** And of course, you're going to need to download this if you want to actually use this but we're not really going to be using this library throughout the [[Representational State Transfer (REST)|rest]] of the course.
 >
 > **[6:33](https://www.linkedin.com/learning/data-science-for-java-developers/data-formatting-in-java?u=76281980&t=393)** So if you don't have it, just take this as an example here and just one last thing about this example is that most matrix libraries are going to prefer that you represent your data as doubles.
 >
@@ -745,15 +738,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (35), [[Java]] (4), next (3), application (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Java]] (4), [[Data Science]] (3), [[SQL]] (1), [[John the Ripper|John]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** in other words (5)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** apache (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
 
-#### More data formatting
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/more-data-formatting?u=76281980)
+#### [More data formatting](https://www.linkedin.com/learning/data-science-for-java-developers/more-data-formatting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -779,7 +771,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/data-science-for-java-developers/more-data-formatting?u=76281980&t=95)** Public is so that you can access it on your own from outside the instance, and final is so that we don't end up changing it.
 >
-> **[1:42](https://www.linkedin.com/learning/data-science-for-java-developers/more-data-formatting?u=76281980&t=102)** This is really more of a functional programming thing, and if you want to learn a little bit more about functional programming, I highly recommend you take a look at my other course on the topic.
+> **[1:42](https://www.linkedin.com/learning/data-science-for-java-developers/more-data-formatting?u=76281980&t=102)** This is really more of a [[Functional Programming]] thing, and if you want to learn a little bit more about functional programming, I highly recommend you take a look at my other course on the topic.
 >
 > **[1:55](https://www.linkedin.com/learning/data-science-for-java-developers/more-data-formatting?u=76281980&t=115)** So when we want to create methods that will allow us to actually work with the data in this lightweight data class here, what we generally end up doing is we create a util class that contains methods for working with this kind of data.
 >
@@ -813,9 +805,9 @@ created: 2026-05-02
 >
 > **[4:37](https://www.linkedin.com/learning/data-science-for-java-developers/more-data-formatting?u=76281980&t=277)** Okay, and I think you get the idea here.
 >
-> **[4:39](https://www.linkedin.com/learning/data-science-for-java-developers/more-data-formatting?u=76281980&t=279)** So that's how to represent data in Java using data objects.
+> **[4:39](https://www.linkedin.com/learning/data-science-for-java-developers/more-data-formatting?u=76281980&t=279)** So that's how to represent data in [[Java]] using data objects.
 >
-> **[4:42](https://www.linkedin.com/learning/data-science-for-java-developers/more-data-formatting?u=76281980&t=282)** So the other main way that I'm not going to cover here, but it can be very useful in certain cases, is representing our data as JSON objects.
+> **[4:42](https://www.linkedin.com/learning/data-science-for-java-developers/more-data-formatting?u=76281980&t=282)** So the other main way that I'm not going to cover here, but it can be very useful in certain cases, is representing our data as [[JSON]] objects.
 >
 > **[4:51](https://www.linkedin.com/learning/data-science-for-java-developers/more-data-formatting?u=76281980&t=291)** And the nice thing about JSON objects, for those of you who don't know what a JSON object looks like, it looks something like this.
 >
@@ -831,19 +823,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[JSON]] (7), [[Functional Programming]] (2), [[Java]] (2)
+> **Frameworks & Libraries:** [[JSON]] (7), [[Functional Programming]] (2), [[Java]] (2)
 > **Env Vars:** json (7)
 > **Code Identifiers:** myperson (2), firstname (1), personutils (1), getfirstname (1), peoplelist (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (3)
 > **Speakers:** - [instructor] (1)
 
-#### Real-life data difficulties
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/real-life-data-difficulties?u=76281980)
+#### [Real-life data difficulties](https://www.linkedin.com/learning/data-science-for-java-developers/real-life-data-difficulties?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-for-java-developers/real-life-data-difficulties?u=76281980&t=0)** - [Illustrator] So, now that we've seen some of the ways to format and represent data in our Java programs, we're going to take a look at another, that becomes particularly important, when we're working with data that's provided to us in things like Files.
+> **[0:00](https://www.linkedin.com/learning/data-science-for-java-developers/real-life-data-difficulties?u=76281980&t=0)** - [Illustrator] So, now that we've seen some of the ways to format and represent data in our [[Java]] programs, we're going to take a look at another, that becomes particularly important, when we're working with data that's provided to us in things like Files.
 >
 > **[0:14](https://www.linkedin.com/learning/data-science-for-java-developers/real-life-data-difficulties?u=76281980&t=14)** So, we're going to take a look at some of the main data difficulties that we're going to deal with, and discuss some ways to deal with those things.
 >
@@ -857,7 +848,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/data-science-for-java-developers/real-life-data-difficulties?u=76281980&t=56)** So, this would be, for example, if we were having people fill out surveys, and someone didn't fill out their age on the survey, we would represent that fact that they didn't put their age as a null value.
 >
-> **[1:07](https://www.linkedin.com/learning/data-science-for-java-developers/real-life-data-difficulties?u=76281980&t=67)** And generally, the way that we represent null values, can vary, sometimes it'll be represented as the word Null, either in lowercase or all caps, sometimes it'll have N/A, sometimes rather annoyingly, people will use a zero, which is a little harder to spot generally.
+> **[1:07](https://www.linkedin.com/learning/data-science-for-java-developers/real-life-data-difficulties?u=76281980&t=67)** And generally, the way that we represent null values, can vary, sometimes it'll be represented as the [[Microsoft Word|word]] Null, either in lowercase or all caps, sometimes it'll have N/A, sometimes rather annoyingly, people will use a zero, which is a little harder to spot generally.
 >
 > **[1:22](https://www.linkedin.com/learning/data-science-for-java-developers/real-life-data-difficulties?u=76281980&t=82)** So, that's null values, and that's something to keep in mind when you're looking at a data set.
 >
@@ -885,7 +876,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/data-science-for-java-developers/real-life-data-difficulties?u=76281980&t=174)** There's a lot of different things that could happen, that would cause our program to throw some kind of parse error.
 >
-> **[3:00](https://www.linkedin.com/learning/data-science-for-java-developers/real-life-data-difficulties?u=76281980&t=180)** And we just need to keep that in mind and know how to handle them because rest assured, they will occur in real world data, whether it was the person who was putting the data set together, accidentally hit the delete key and caused some of the formatting to be off, or some other thing that causes our program to throw an error, we need to just keep that in mind and know how to handle it.
+> **[3:00](https://www.linkedin.com/learning/data-science-for-java-developers/real-life-data-difficulties?u=76281980&t=180)** And we just need to keep that in mind and know how to handle them because [[Representational State Transfer (REST)|rest]] assured, they will occur in real world data, whether it was the person who was putting the data set together, accidentally hit the delete key and caused some of the formatting to be off, or some other thing that causes our program to throw an error, we need to just keep that in mind and know how to handle it.
 >
 > **[3:20](https://www.linkedin.com/learning/data-science-for-java-developers/real-life-data-difficulties?u=76281980&t=200)** And finally, the last difficulty that we're going to talk about here, is something called Outliers.
 >
@@ -921,11 +912,11 @@ created: 2026-05-02
 >
 > **[5:05](https://www.linkedin.com/learning/data-science-for-java-developers/real-life-data-difficulties?u=76281980&t=305)** So, if we were copying and pasting data into a file, for example, we may have missed the trailing comma, or we may have missed the last few lines of whatever data set we were trying to copy and paste.
 >
-> **[5:17](https://www.linkedin.com/learning/data-science-for-java-developers/real-life-data-difficulties?u=76281980&t=317)** So, as you're performing data science, just keep some of these things in mind, and make sure to look through your data set ahead of time, and make sure that you recognize any of these, and deal with them accordingly.
+> **[5:17](https://www.linkedin.com/learning/data-science-for-java-developers/real-life-data-difficulties?u=76281980&t=317)** So, as you're performing [[Data Science]], just keep some of these things in mind, and make sure to look through your data set ahead of time, and make sure that you recognize any of these, and deal with them accordingly.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (34), [[Java]] (1), [[Microsoft Word|Word]] (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Java]] (1), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Data Science]] (1)
 > **Warnings:** keep in mind (3), be aware (2)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
@@ -939,14 +930,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Mapping
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/mapping?u=76281980)
+#### [Mapping](https://www.linkedin.com/learning/data-science-for-java-developers/mapping?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-science-for-java-developers/mapping?u=76281980&t=0)** - [Instructor] The next thing we're going to take a look at here, now that we know how to represent data and some of the difficulties we might face when working with that data.
 >
-> **[0:08](https://www.linkedin.com/learning/data-science-for-java-developers/mapping?u=76281980&t=8)** The next thing we're going to take a look at is a few manipulations, a few very important manipulation techniques that we can use in Java to transform our data from one form into another.
+> **[0:08](https://www.linkedin.com/learning/data-science-for-java-developers/mapping?u=76281980&t=8)** The next thing we're going to take a look at is a few manipulations, a few very important manipulation techniques that we can use in [[Java]] to transform our data from one form into another.
 >
 > **[0:20](https://www.linkedin.com/learning/data-science-for-java-developers/mapping?u=76281980&t=20)** Now there are a number of different methods that Java provides us with, that allow us to do this in a very straightforward and easy way.
 >
@@ -1008,7 +998,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/data-science-for-java-developers/mapping?u=76281980&t=228)** And like I said, we can also use that to capitalize all of the words in our words list.
 >
-> **[3:56](https://www.linkedin.com/learning/data-science-for-java-developers/mapping?u=76281980&t=236)** So if we wanted to do something like this, we'd say, list string, capitalized words, equals words, convert it to a stream, and then we'd say dot map, and then we would return word dot to uppercase.
+> **[3:56](https://www.linkedin.com/learning/data-science-for-java-developers/mapping?u=76281980&t=236)** So if we wanted to do something like this, we'd say, list string, capitalized words, equals words, convert it to a stream, and then we'd say dot map, and then we would return [[Microsoft Word|word]] dot to uppercase.
 >
 > **[4:12](https://www.linkedin.com/learning/data-science-for-java-developers/mapping?u=76281980&t=252)** I guess I've been calling it capitalized but that should actually be uppercased.
 >
@@ -1040,19 +1030,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Java]] (3), next (2), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Java]] (3), [[Microsoft Word|Word]] (2)
 > **Warnings:** keep in mind (3)
 > **Definitions:** is a  (1), defined as (1)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Filtering
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/filtering?u=76281980)
+#### [Filtering](https://www.linkedin.com/learning/data-science-for-java-developers/filtering?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-for-java-developers/filtering?u=76281980&t=0)** - [Instructor] The next data manipulation method we're going to take a look at is the filter method.
+> **[0:00](https://www.linkedin.com/learning/data-science-for-java-developers/filtering?u=76281980&t=0)** - [Instructor] The next [[Data Manipulation]] method we're going to take a look at is the filter method.
 >
 > **[0:05](https://www.linkedin.com/learning/data-science-for-java-developers/filtering?u=76281980&t=5)** So the filter method is used in a very similar way to the map method that we just saw except instead of transforming each of the items in a list, it's actually used to make sure we only get a certain subset of the items in the list depending on some sort of criteria that we can specify.
 >
@@ -1068,7 +1057,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/data-science-for-java-developers/filtering?u=76281980&t=76)** So here's what that's going to look like if we wanted to get all of the words here that were longer than four characters as I said.
 >
-> **[1:23](https://www.linkedin.com/learning/data-science-for-java-developers/filtering?u=76281980&t=83)** What that would look like is we'd say word and we would simply say word.length is greater than four.
+> **[1:23](https://www.linkedin.com/learning/data-science-for-java-developers/filtering?u=76281980&t=83)** What that would look like is we'd say [[Microsoft Word|word]] and we would simply say word.length is greater than four.
 >
 > **[1:31](https://www.linkedin.com/learning/data-science-for-java-developers/filtering?u=76281980&t=91)** And then just like with map, we would transform this stream back into a list by saying .collectCollectors.toList.
 >
@@ -1126,7 +1115,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), data (2), next (1), [[Data Manipulation]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Data Manipulation]] (1)
 > **Code Identifiers:** collectcollectors (1), tolist (1), smallnumbers (1), wellpaidemployees (1), jobtitle (1)
 > **CLI Commands:** make (2)
 > **Analogies:** just like (1), for instance (1)
@@ -1134,8 +1123,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Collecting
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/collecting?u=76281980)
+#### [Collecting](https://www.linkedin.com/learning/data-science-for-java-developers/collecting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1201,14 +1189,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), data (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
 > **Env Vars:** csv (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sorting
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/sorting?u=76281980)
+#### [Sorting](https://www.linkedin.com/learning/data-science-for-java-developers/sorting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1232,7 +1218,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/data-science-for-java-developers/sorting?u=76281980&t=64)** Now, it is possible to just pass .sorted without any arguments, but generally, we'll want to define those arguments, especially when working with objects, and those arguments are going to stand for any two items in the list.
 >
-> **[1:18](https://www.linkedin.com/learning/data-science-for-java-developers/sorting?u=76281980&t=78)** And basically, what this function that we pass is going to do, is tell Java what order those items should appear in, in the final list.
+> **[1:18](https://www.linkedin.com/learning/data-science-for-java-developers/sorting?u=76281980&t=78)** And basically, what this function that we pass is going to do, is tell [[Java]] what order those items should appear in, in the final list.
 >
 > **[1:29](https://www.linkedin.com/learning/data-science-for-java-developers/sorting?u=76281980&t=89)** So, generally what that looks like is this, if we want to do, sort our employees by their salary, we would say e1.salary.compareTo, E2, and this is employee one and employee two, by the way.
 >
@@ -1284,7 +1270,7 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/data-science-for-java-developers/sorting?u=76281980&t=260)** So anyway, hopefully you've gotten the sense just from this very brief treatment of these methods of how useful these methods can be in manipulating data.
 >
-> **[4:30](https://www.linkedin.com/learning/data-science-for-java-developers/sorting?u=76281980&t=270)** In data science, there are quite a few different situations where the data just isn't quite in the format that we need it to be in, in order to perform some sort of analysis on it or create some sort of model of it.
+> **[4:30](https://www.linkedin.com/learning/data-science-for-java-developers/sorting?u=76281980&t=270)** In [[Data Science]], there are quite a few different situations where the data just isn't quite in the format that we need it to be in, in order to perform some sort of analysis on it or create some sort of model of it.
 >
 > **[4:43](https://www.linkedin.com/learning/data-science-for-java-developers/sorting?u=76281980&t=283)** And these methods here can be really, really helpful in those cases.
 >
@@ -1292,19 +1278,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), game (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Java]] (1), [[Data Science]] (1)
 > **Code Identifiers:** compareto (3), jobtitle (1)
 > **Analogies:** for example (2), for instance (1)
 > **Speakers:** - [speaker] (1)
 
-#### Challenge: Combining data operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/challenge-combining-data-operations?u=76281980)
+#### [Challenge: Combining data operations](https://www.linkedin.com/learning/data-science-for-java-developers/challenge-combining-data-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-science-for-java-developers/challenge-combining-data-operations?u=76281980&t=0)** (gentle upbeat music)
 >
-> **[0:05](https://www.linkedin.com/learning/data-science-for-java-developers/challenge-combining-data-operations?u=76281980&t=5)** - [Instructor] So now that we've learned about some of the most popular data manipulation methods in Java, it's time to do a challenge.
+> **[0:05](https://www.linkedin.com/learning/data-science-for-java-developers/challenge-combining-data-operations?u=76281980&t=5)** - [Instructor] So now that we've learned about some of the most popular [[Data Manipulation]] methods in [[Java]], it's time to do a challenge.
 >
 > **[0:12](https://www.linkedin.com/learning/data-science-for-java-developers/challenge-combining-data-operations?u=76281980&t=12)** The challenge here is to use the methods we've learned about so far, that is map, filter, collect, and sort to get a list of all the employees names who are over 30 sorted by salary from our original list here.
 >
@@ -1312,13 +1297,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Manipulation]] (1), [[Java]] (1), next (1)
+> **Frameworks & Libraries:** [[Data Manipulation]] (1), [[Java]] (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (gentle upbeat music) (1)
 
-#### Solution: Combining data operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/solution-combining-data-operations?u=76281980)
+#### [Solution: Combining data operations](https://www.linkedin.com/learning/data-science-for-java-developers/solution-combining-data-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1358,7 +1342,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1368,22 +1351,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Reducing file size
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/reducing-file-size?u=76281980)
+#### [Reducing file size](https://www.linkedin.com/learning/data-science-for-java-developers/reducing-file-size?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-for-java-developers/reducing-file-size?u=76281980&t=0)** - [Instructor] Okay, so we've talked about representing data in Java and we've also talked about some of the different methods that we can use for transforming data.
+> **[0:00](https://www.linkedin.com/learning/data-science-for-java-developers/reducing-file-size?u=76281980&t=0)** - [Instructor] Okay, so we've talked about representing data in [[Java]] and we've also talked about some of the different methods that we can use for transforming data.
 >
 > **[0:08](https://www.linkedin.com/learning/data-science-for-java-developers/reducing-file-size?u=76281980&t=8)** So the next thing we're going to learn about is how to actually start loading data into our programs.
 >
-> **[0:13](https://www.linkedin.com/learning/data-science-for-java-developers/reducing-file-size?u=76281980&t=13)** Now, I think I mentioned previously that the main source of our data, especially in the training phase when we're just kind of getting our hands dirty with data science for the first time is going to be files that we download from the internet.
+> **[0:13](https://www.linkedin.com/learning/data-science-for-java-developers/reducing-file-size?u=76281980&t=13)** Now, I think I mentioned previously that the main source of our data, especially in the training phase when we're just kind of getting our hands dirty with [[Data Science]] for the first time is going to be files that we download from the internet.
 >
 > **[0:26](https://www.linkedin.com/learning/data-science-for-java-developers/reducing-file-size?u=76281980&t=26)** Now there's obviously a lot of different formats for these files, they can be in a text file format.
 >
 > **[0:32](https://www.linkedin.com/learning/data-science-for-java-developers/reducing-file-size?u=76281980&t=32)** It can be CSV.
 >
-> **[0:33](https://www.linkedin.com/learning/data-science-for-java-developers/reducing-file-size?u=76281980&t=33)** Sometimes you'll find Excel or JSON files as well.
+> **[0:33](https://www.linkedin.com/learning/data-science-for-java-developers/reducing-file-size?u=76281980&t=33)** Sometimes you'll find [[Microsoft Excel|Excel]] or [[JSON]] files as well.
 >
 > **[0:37](https://www.linkedin.com/learning/data-science-for-java-developers/reducing-file-size?u=76281980&t=37)** So when we locate a file, it's very important that we're comfortable enough loading that data into our Java programs so that we can actually get to the good part which is building models and performing actual data science on that data that we load.
 >
@@ -1409,7 +1391,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/data-science-for-java-developers/reducing-file-size?u=76281980&t=107)** Their adult.names contains information about the data in that file.
 >
-> **[1:53](https://www.linkedin.com/learning/data-science-for-java-developers/reducing-file-size?u=76281980&t=113)** And this data is generally very important for you to look at because it contains a lot of sort of metadata about the data that the actual data file is going to contain.
+> **[1:53](https://www.linkedin.com/learning/data-science-for-java-developers/reducing-file-size?u=76281980&t=113)** And this data is generally very important for you to look at because it contains a lot of sort of [[Metadata]] about the data that the actual data file is going to contain.
 >
 > **[2:04](https://www.linkedin.com/learning/data-science-for-java-developers/reducing-file-size?u=76281980&t=124)** So in other words, it tells us, what all of the fields mean.
 >
@@ -1427,9 +1409,9 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/data-science-for-java-developers/reducing-file-size?u=76281980&t=180)** So what we can actually do is we can use some terminal commands in order to create a smaller version of this file that we can work with initially.
 >
-> **[3:11](https://www.linkedin.com/learning/data-science-for-java-developers/reducing-file-size?u=76281980&t=191)** So the way that you do that and this is going to be a little different if you're on Windows, the command is going to be different.
+> **[3:11](https://www.linkedin.com/learning/data-science-for-java-developers/reducing-file-size?u=76281980&t=191)** So the way that you do that and this is going to be a little different if you're on [[Windows]], the command is going to be different.
 >
-> **[3:16](https://www.linkedin.com/learning/data-science-for-java-developers/reducing-file-size?u=76281980&t=196)** I recommend that you just look up the equivalent on your own, but on a Mac or on Linux-based systems the command for this is going to be head and then dash a hundred, this is the number of lines that we're getting from the top of the file we're going to be talking about.
+> **[3:16](https://www.linkedin.com/learning/data-science-for-java-developers/reducing-file-size?u=76281980&t=196)** I recommend that you just look up the equivalent on your own, but on a Mac or on [[Linux]]-based systems the command for this is going to be head and then dash a hundred, this is the number of lines that we're getting from the top of the file we're going to be talking about.
 >
 > **[3:33](https://www.linkedin.com/learning/data-science-for-java-developers/reducing-file-size?u=76281980&t=213)** It's head -100 adult.data And then we going to do the greater than sign and we going to say adult-sample.data.
 >
@@ -1457,7 +1439,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (35), [[Java]] (4), next (2), [[Microsoft Excel|Excel]] (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Java]] (4), [[Data Science]] (3), [[Microsoft Excel|Excel]] (1), [[JSON]] (1), [[Metadata]] (1)
 > **CLI Commands:** find (3), make (3)
 > **Env Vars:** csv (1), json (1)
 > **Definitions:** in other words (1), is a  (1)
@@ -1466,12 +1448,11 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **UI Navigation:** click on (1)
 
-#### Loading data from text files
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/loading-data-from-text-files?u=76281980)
+#### [Loading data from text files](https://www.linkedin.com/learning/data-science-for-java-developers/loading-data-from-text-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-for-java-developers/loading-data-from-text-files?u=76281980&t=0)** - [Instructor] Now that we've seen how to shrink this data down to a more manageable size, The next order of business is, we're going to take a look at how to actually load this data into our Java program as well as represent it in code.
+> **[0:00](https://www.linkedin.com/learning/data-science-for-java-developers/loading-data-from-text-files?u=76281980&t=0)** - [Instructor] Now that we've seen how to shrink this data down to a more manageable size, The next order of business is, we're going to take a look at how to actually load this data into our [[Java]] program as well as represent it in code.
 >
 > **[0:15](https://www.linkedin.com/learning/data-science-for-java-developers/loading-data-from-text-files?u=76281980&t=15)** So the first thing we're going to do here is we're going to create a new class in our project here.
 >
@@ -1529,12 +1510,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), data (3), business (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Code Identifiers:** getlines (2), readline (1), getmessage (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a person data class
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/creating-a-person-data-class?u=76281980)
+#### [Creating a person data class](https://www.linkedin.com/learning/data-science-for-java-developers/creating-a-person-data-class?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1558,7 +1538,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/data-science-for-java-developers/creating-a-person-data-class?u=76281980&t=78)** So the first thing we're going to do is we're going to create a person data class to hold this data.
 >
-> **[1:24](https://www.linkedin.com/learning/data-science-for-java-developers/creating-a-person-data-class?u=76281980&t=84)** So basically the same thing as we did earlier when we looked at how to format data in our data science programs.
+> **[1:24](https://www.linkedin.com/learning/data-science-for-java-developers/creating-a-person-data-class?u=76281980&t=84)** So basically the same thing as we did earlier when we looked at how to format data in our [[Data Science]] programs.
 >
 > **[1:33](https://www.linkedin.com/learning/data-science-for-java-developers/creating-a-person-data-class?u=76281980&t=93)** So we're going to create a new class here and we'll call that class something like PersonRecord here.
 >
@@ -1602,14 +1582,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), next (2)
+> **Frameworks & Libraries:** [[Data Science]] (1)
 > **Code Identifiers:** getlines (3), employmentstatus (1), tostring (1), parseperson (1), datastring (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Converting strings to data objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/converting-strings-to-data-objects?u=76281980)
+#### [Converting strings to data objects](https://www.linkedin.com/learning/data-science-for-java-developers/converting-strings-to-data-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1707,15 +1686,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (2)
 > **Code Identifiers:** parseint (2), datastring (1), aslist (1), parseperson (1), foreach (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **Best Practices:** best practice (1)
 > **Speakers:** - all (1)
 
-#### Loading tab-separated files
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/loading-tab-separated-files?u=76281980)
+#### [Loading tab-separated files](https://www.linkedin.com/learning/data-science-for-java-developers/loading-tab-separated-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1841,7 +1818,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), next (3)
 > **Analogies:** just like (5), similar to (1)
 > **CLI Commands:** make (3)
 > **Warnings:** keep in mind (2), warning (1)
@@ -1849,8 +1825,7 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Loading CSVs
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/loading-csvs?u=76281980)
+#### [Loading CSVs](https://www.linkedin.com/learning/data-science-for-java-developers/loading-csvs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1954,7 +1929,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), next (3), hit (1), generic (1)
 > **Env Vars:** csv (22), mpg (1), ide (1), rfc4180 (1)
 > **CLI Commands:** apache (3), make (1)
 > **Analogies:** such as (1), for instance (1), just like (1)
@@ -1962,9 +1936,9 @@ created: 2026-05-02
 > **Code Identifiers:** withfirstrecordasheader (1)
 > **Tools:** intellij (1)
 > **Exercise Files:** download the (1)
+> **Best Practices:** good practice (1)
 
-#### Converting CSVs to data objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/converting-csvs-to-data-objects?u=76281980)
+#### [Converting CSVs to data objects](https://www.linkedin.com/learning/data-science-for-java-developers/converting-csvs-to-data-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1982,7 +1956,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/data-science-for-java-developers/converting-csvs-to-data-objects?u=76281980&t=36)** We're going to say public final string member number, public final date, date.
 >
-> **[0:47](https://www.linkedin.com/learning/data-science-for-java-developers/converting-csvs-to-data-objects?u=76281980&t=47)** We're going to have to import date of course, the one from Java.util in case that gives you the option.
+> **[0:47](https://www.linkedin.com/learning/data-science-for-java-developers/converting-csvs-to-data-objects?u=76281980&t=47)** We're going to have to import date of course, the one from [[Java]].util in case that gives you the option.
 >
 > **[0:53](https://www.linkedin.com/learning/data-science-for-java-developers/converting-csvs-to-data-objects?u=76281980&t=53)** And then we're going to say public final string item description.
 >
@@ -2006,7 +1980,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/data-science-for-java-developers/converting-csvs-to-data-objects?u=76281980&t=113)** So we're going to start off by saying string member number and the member number here, just to point out a little bit how this data is formatted in the groceries data set, the member number is basically a unique identifier for the person who's buying this.
 >
-> **[2:10](https://www.linkedin.com/learning/data-science-for-java-developers/converting-csvs-to-data-objects?u=76281980&t=130)** So essentially the idea is, that if we were going to do a little bit of data science on this we'd be able to see who bought similar items and when they bought them and try and use that to make predictions about who was going to buy what.
+> **[2:10](https://www.linkedin.com/learning/data-science-for-java-developers/converting-csvs-to-data-objects?u=76281980&t=130)** So essentially the idea is, that if we were going to do a little bit of [[Data Science]] on this we'd be able to see who bought similar items and when they bought them and try and use that to make predictions about who was going to buy what.
 >
 > **[2:25](https://www.linkedin.com/learning/data-science-for-java-developers/converting-csvs-to-data-objects?u=76281980&t=145)** So anyway, back to our parse grocery record method we're going to say string member number equals.
 >
@@ -2080,7 +2054,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), next (2), [[Java]] (1), generic (1)
+> **Frameworks & Libraries:** [[Java]] (1), [[Data Science]] (1)
 > **Env Vars:** csv (12)
 > **Code Identifiers:** parsecsv (2), foreach (1)
 > **Analogies:** just like (3)
@@ -2089,11 +2063,9 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Manipulating data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/challenge-manipulating-data?u=76281980)
+#### [Challenge: Manipulating data](https://www.linkedin.com/learning/data-science-for-java-developers/challenge-manipulating-data?u=76281980)
 
-#### Solution: Manipulating data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/solution-manipulating-data?u=76281980)
+#### [Solution: Manipulating data](https://www.linkedin.com/learning/data-science-for-java-developers/solution-manipulating-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2109,7 +2081,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/data-science-for-java-developers/solution-manipulating-data?u=76281980&t=41)** So I said, grocery.memberNumber.
 >
-> **[0:46](https://www.linkedin.com/learning/data-science-for-java-developers/solution-manipulating-data?u=76281980&t=46)** And finally I said .collect and then collectors.toSet because sets in JavaScript ignore duplicates.
+> **[0:46](https://www.linkedin.com/learning/data-science-for-java-developers/solution-manipulating-data?u=76281980&t=46)** And finally I said .collect and then collectors.toSet because sets in [[JavaScript]] ignore duplicates.
 >
 > **[0:56](https://www.linkedin.com/learning/data-science-for-java-developers/solution-manipulating-data?u=76281980&t=56)** So that's very useful for helping us remove the duplicate memberNumbers in our data set.
 >
@@ -2147,7 +2119,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[JavaScript]] (1), data (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Code Identifiers:** membernumber (9), membernumbers (6), groceryrecordsbymember (3), allmembernumbers (2), toset (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -2158,8 +2130,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting up JavaFX
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/setting-up-javafx?u=76281980)
+#### [Setting up JavaFX](https://www.linkedin.com/learning/data-science-for-java-developers/setting-up-javafx?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2169,7 +2140,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/data-science-for-java-developers/setting-up-javafx?u=76281980&t=12)** And the next thing that I want to take a look at is how to actually visualize data.
 >
-> **[0:17](https://www.linkedin.com/learning/data-science-for-java-developers/setting-up-javafx?u=76281980&t=17)** Now, obviously, data visualization is a very important part of data science since when we ran our programs from before.
+> **[0:17](https://www.linkedin.com/learning/data-science-for-java-developers/setting-up-javafx?u=76281980&t=17)** Now, obviously, data visualization is a very important part of [[Data Science]] since when we ran our programs from before.
 >
 > **[0:25](https://www.linkedin.com/learning/data-science-for-java-developers/setting-up-javafx?u=76281980&t=25)** So let's say we run our CSV loading program from before.
 >
@@ -2177,7 +2148,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/data-science-for-java-developers/setting-up-javafx?u=76281980&t=44)** And similarly, if we were to run our text loading program from before, it's pretty hard for us to tell what's going on in the data that we're looking at here.
 >
-> **[0:54](https://www.linkedin.com/learning/data-science-for-java-developers/setting-up-javafx?u=76281980&t=54)** So one thing that we're going to take a look at now is how to actually represent our data visually in Java.
+> **[0:54](https://www.linkedin.com/learning/data-science-for-java-developers/setting-up-javafx?u=76281980&t=54)** So one thing that we're going to take a look at now is how to actually represent our data visually in [[Java]].
 >
 > **[1:02](https://www.linkedin.com/learning/data-science-for-java-developers/setting-up-javafx?u=76281980&t=62)** And to do this, we're going to be using a very popular library called Java FX, which you can get from this link here.
 >
@@ -2269,7 +2240,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (14), data (9), application (3), next (2)
+> **Frameworks & Libraries:** [[Java]] (14), [[Data Science]] (1)
 > **Env Vars:** ide (5), sdk (4), csv (1), xml (1)
 > **UI Navigation:** go to (4), click on (3)
 > **Exercise Files:** download the (3), zip file (1)
@@ -2278,8 +2249,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Formatting data for a scatterplot
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/formatting-data-for-a-scatterplot?u=76281980)
+#### [Formatting data for a scatterplot](https://www.linkedin.com/learning/data-science-for-java-developers/formatting-data-for-a-scatterplot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2297,7 +2267,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/data-science-for-java-developers/formatting-data-for-a-scatterplot?u=76281980&t=67)** And the way we're going to be doing that, you may have noticed that when we generated this JavaFX application, we got a class that extends an application class.
 >
-> **[1:16](https://www.linkedin.com/learning/data-science-for-java-developers/formatting-data-for-a-scatterplot?u=76281980&t=76)** So the application class is basically what's in charge of displaying a window, right, an independent window that we can render graphics into in a Java program.
+> **[1:16](https://www.linkedin.com/learning/data-science-for-java-developers/formatting-data-for-a-scatterplot?u=76281980&t=76)** So the application class is basically what's in charge of displaying a window, right, an independent window that we can render graphics into in a [[Java]] program.
 >
 > **[1:25](https://www.linkedin.com/learning/data-science-for-java-developers/formatting-data-for-a-scatterplot?u=76281980&t=85)** Many of you are probably familiar with this from other projects you've worked on.
 >
@@ -2417,7 +2387,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), next (6), application (6), [[Java]] (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Env Vars:** mpg (5)
 > **Definitions:** is called (1), in other words (1), means that (1)
 > **Prerequisites:** set up (1), setup (1)
@@ -2425,8 +2395,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Displaying a scatterplot
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/displaying-a-scatterplot?u=76281980)
+#### [Displaying a scatterplot](https://www.linkedin.com/learning/data-science-for-java-developers/displaying-a-scatterplot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2516,15 +2485,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), next (1), power (1)
 > **Code Identifiers:** scatterchart (8), datapointseries (6), primarystage (3), newdatapoint (2), xvalues (2)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** ide (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Multiple datasets on a scatterplot
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/multiple-datasets-on-a-scatterplot?u=76281980)
+#### [Multiple datasets on a scatterplot](https://www.linkedin.com/learning/data-science-for-java-developers/multiple-datasets-on-a-scatterplot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2630,13 +2597,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13)
 > **Code Identifiers:** oldercarseries (3), newercarseries (3), oldercars (2), newercars (2), foreach (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Calculating average MPG
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/calculating-average-mpg?u=76281980)
+#### [Calculating average MPG](https://www.linkedin.com/learning/data-science-for-java-developers/calculating-average-mpg?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2646,7 +2611,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/data-science-for-java-developers/calculating-average-mpg?u=76281980&t=9)** There's obviously a lot of different charts, a lot of different graphs that we can use to visualize our data.
 >
-> **[0:15](https://www.linkedin.com/learning/data-science-for-java-developers/calculating-average-mpg?u=76281980&t=15)** So let's take a look at how to display bar charts in Java FX.
+> **[0:15](https://www.linkedin.com/learning/data-science-for-java-developers/calculating-average-mpg?u=76281980&t=15)** So let's take a look at how to display bar charts in [[Java]] FX.
 >
 > **[0:20](https://www.linkedin.com/learning/data-science-for-java-developers/calculating-average-mpg?u=76281980&t=20)** So let's go over here and create a new Java FX application.
 >
@@ -2724,14 +2689,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), application (4), [[Java]] (2), next (1)
+> **Frameworks & Libraries:** [[Java]] (2)
 > **Env Vars:** mpg (3)
 > **Analogies:** just like (2)
 > **Code Identifiers:** getdata (1)
 > **Speakers:** - [instructor] (1)
 
-#### Displaying a bar chart
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/displaying-a-bar-chart?u=76281980)
+#### [Displaying a bar chart](https://www.linkedin.com/learning/data-science-for-java-developers/displaying-a-bar-chart?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2775,13 +2739,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (1), generic (1), application (1)
 > **Code Identifiers:** barchart (8), yaxis (4), xaxis (3), primarystage (2), setlabel (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Displaying data on a bar chart
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/challenge-displaying-data-on-a-bar-chart?u=76281980)
+#### [Challenge: Displaying data on a bar chart](https://www.linkedin.com/learning/data-science-for-java-developers/challenge-displaying-data-on-a-bar-chart?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2815,21 +2777,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1)
 > **Warnings:** keep in mind (2)
 > **Cross-References:** next video (1)
 > **Definitions:** stands for (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Displaying data on a bar chart
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/solution-displaying-data-on-a-bar-chart?u=76281980)
+#### [Solution: Displaying data on a bar chart](https://www.linkedin.com/learning/data-science-for-java-developers/solution-displaying-data-on-a-bar-chart?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-science-for-java-developers/solution-displaying-data-on-a-bar-chart?u=76281980&t=0)** - [Speaker] Okay, so I'm going to show you how I went about solving this challenge.
 >
-> **[0:09](https://www.linkedin.com/learning/data-science-for-java-developers/solution-displaying-data-on-a-bar-chart?u=76281980&t=9)** The first thing I did, since we already had a lot of the logic completed for setting up the charts, is I went over to bar graph dot Java and copied and pasted a lot of the code from the start method here
+> **[0:09](https://www.linkedin.com/learning/data-science-for-java-developers/solution-displaying-data-on-a-bar-chart?u=76281980&t=9)** The first thing I did, since we already had a lot of the logic completed for setting up the charts, is I went over to bar graph dot [[Java]] and copied and pasted a lot of the code from the start method here
 >
 > **[0:28](https://www.linkedin.com/learning/data-science-for-java-developers/solution-displaying-data-on-a-bar-chart?u=76281980&t=28)** into the start method of our challenge class.
 >
@@ -2871,7 +2831,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/data-science-for-java-developers/solution-displaying-data-on-a-bar-chart?u=76281980&t=209)** Okay, and then scrolling down a bit more, we're going to see that we want to change the number of cylinders.
 >
-> **[3:33](https://www.linkedin.com/learning/data-science-for-java-developers/solution-displaying-data-on-a-bar-chart?u=76281980&t=213)** We're going to change that X-axis label to origin, and the Y-label will remain average miles per gallon, and we'll change this to say average miles per gallon of different car origins, and the rest of it should be good to go.
+> **[3:33](https://www.linkedin.com/learning/data-science-for-java-developers/solution-displaying-data-on-a-bar-chart?u=76281980&t=213)** We're going to change that X-axis label to origin, and the Y-label will remain average miles per gallon, and we'll change this to say average miles per gallon of different car origins, and the [[Representational State Transfer (REST)|rest]] of it should be good to go.
 >
 > **[3:53](https://www.linkedin.com/learning/data-science-for-java-developers/solution-displaying-data-on-a-bar-chart?u=76281980&t=233)** So let's run this code.
 >
@@ -2879,7 +2839,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (3), [[Java]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Java]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** parsecar (1), parseint (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [speaker] (1)
@@ -2890,12 +2850,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building machine learning models
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/building-machine-learning-models?u=76281980)
+#### [Building machine learning models](https://www.linkedin.com/learning/data-science-for-java-developers/building-machine-learning-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-for-java-developers/building-machine-learning-models?u=76281980&t=0)** - [Instructor] All right. So we've spent quite a bit of time now seeing just how to work with data in Java and we've come to a very exciting part of the course where we're going to start actually building data science models using Java.
+> **[0:00](https://www.linkedin.com/learning/data-science-for-java-developers/building-machine-learning-models?u=76281980&t=0)** - [Instructor] All right. So we've spent quite a bit of time now seeing just how to work with data in [[Java]] and we've come to a very exciting part of the course where we're going to start actually building [[Data Science]] models using Java.
 >
 > **[0:14](https://www.linkedin.com/learning/data-science-for-java-developers/building-machine-learning-models?u=76281980&t=14)** So before we get into that, what I want to do is talk a little bit about the process of building models.
 >
@@ -2915,7 +2874,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/data-science-for-java-developers/building-machine-learning-models?u=76281980&t=74)** It would just be way too complicated for us to understand by looking at it.
 >
-> **[1:17](https://www.linkedin.com/learning/data-science-for-java-developers/building-machine-learning-models?u=76281980&t=77)** So in the same way that something like a roadmap, or just looking at Google maps on your phone, is a simplified representation of the actual reality, right?
+> **[1:17](https://www.linkedin.com/learning/data-science-for-java-developers/building-machine-learning-models?u=76281980&t=77)** So in the same way that something like a roadmap, or just looking at [[Google]] maps on your phone, is a simplified representation of the actual reality, right?
 >
 > **[1:27](https://www.linkedin.com/learning/data-science-for-java-developers/building-machine-learning-models?u=76281980&t=87)** Which is most of the time too complicated to fit on a phone and nor is that very useful.
 >
@@ -2967,14 +2926,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Java]] (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (8), [[Java]] (2), [[Google]] (1)
 > **Definitions:** is a  (3), is called (2)
 > **CLI Commands:** make (2)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Supervised vs. unsupervised learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/supervised-vs-unsupervised-learning?u=76281980)
+#### [Supervised vs. unsupervised learning](https://www.linkedin.com/learning/data-science-for-java-developers/supervised-vs-unsupervised-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2984,7 +2942,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/data-science-for-java-developers/supervised-vs-unsupervised-learning?u=76281980&t=15)** Because this distinction will make quite a difference in the approach that we ended up taking in the end.
 >
-> **[0:22](https://www.linkedin.com/learning/data-science-for-java-developers/supervised-vs-unsupervised-learning?u=76281980&t=22)** So the two categories that these models generally fall into are models that are trained using supervised learning and models that are trained using unsupervised learning.
+> **[0:22](https://www.linkedin.com/learning/data-science-for-java-developers/supervised-vs-unsupervised-learning?u=76281980&t=22)** So the two categories that these models generally fall into are models that are trained using [[Supervised Learning]] and models that are trained using unsupervised learning.
 >
 > **[0:32](https://www.linkedin.com/learning/data-science-for-java-developers/supervised-vs-unsupervised-learning?u=76281980&t=32)** So let's take a look at what both of these means and just kind of what it's going to mean for the models we build.
 >
@@ -3036,21 +2994,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Supervised Learning]] (6), product (2), next (1), business (1)
+> **Frameworks & Libraries:** [[Supervised Learning]] (6)
 > **CLI Commands:** make (1), find (1)
 > **Tools:** notion (2)
 > **Warnings:** keep in mind (2)
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - [instructor] (1)
 
-#### Overfitting and how to avoid it
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/overfitting-and-how-to-avoid-it?u=76281980)
+#### [Overfitting and how to avoid it](https://www.linkedin.com/learning/data-science-for-java-developers/overfitting-and-how-to-avoid-it?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-for-java-developers/overfitting-and-how-to-avoid-it?u=76281980&t=0)** - [Instructor] All right, so before we get into actually building our models in Java, there's one more topic that I want to cover.
+> **[0:00](https://www.linkedin.com/learning/data-science-for-java-developers/overfitting-and-how-to-avoid-it?u=76281980&t=0)** - [Instructor] All right, so before we get into actually building our models in [[Java]], there's one more topic that I want to cover.
 >
-> **[0:06](https://www.linkedin.com/learning/data-science-for-java-developers/overfitting-and-how-to-avoid-it?u=76281980&t=6)** And that is the topic of "Overfitting," which is a very important topic because it's a trap that a lot of beginners to data science fall into.
+> **[0:06](https://www.linkedin.com/learning/data-science-for-java-developers/overfitting-and-how-to-avoid-it?u=76281980&t=6)** And that is the topic of "Overfitting," which is a very important topic because it's a trap that a lot of beginners to [[Data Science]] fall into.
 >
 > **[0:15](https://www.linkedin.com/learning/data-science-for-java-developers/overfitting-and-how-to-avoid-it?u=76281980&t=15)** So first of all, a very general definition of overfitting is when we're trying to create a model to represent a given dataset, and we go a little too far, we make our model a little or a far too complex to the point where it's just not really very useful anymore, right?
 >
@@ -3078,7 +3035,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/data-science-for-java-developers/overfitting-and-how-to-avoid-it?u=76281980&t=120)** And that's saying is, "if you stare too long at a dataset, you will find a pattern."
 >
-> **[2:05](https://www.linkedin.com/learning/data-science-for-java-developers/overfitting-and-how-to-avoid-it?u=76281980&t=125)** And this is true, whether you're just creating a simple linear regression model, or whether you're doing something much more complex, like neural networks, basically whatever model you're trying to build, if you train that model for too long on the same dataset, it'll start to see patterns in it that don't exist, right?
+> **[2:05](https://www.linkedin.com/learning/data-science-for-java-developers/overfitting-and-how-to-avoid-it?u=76281980&t=125)** And this is true, whether you're just creating a simple [[Linear Regression]] model, or whether you're doing something much more complex, like [[Neural Networks]], basically whatever model you're trying to build, if you train that model for too long on the same dataset, it'll start to see patterns in it that don't exist, right?
 >
 > **[2:24](https://www.linkedin.com/learning/data-science-for-java-developers/overfitting-and-how-to-avoid-it?u=76281980&t=144)** It'll start to see patterns that don't actually exist outside that dataset.
 >
@@ -3110,7 +3067,7 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/data-science-for-java-developers/overfitting-and-how-to-avoid-it?u=76281980&t=252)** So we don't let our model see that training data at all, until we want to actually test our models performance and get an idea of how that model would perform in the real world.
 >
-> **[4:25](https://www.linkedin.com/learning/data-science-for-java-developers/overfitting-and-how-to-avoid-it?u=76281980&t=265)** So basically we take some of our data, put it aside and use the rest of that data to train our model.
+> **[4:25](https://www.linkedin.com/learning/data-science-for-java-developers/overfitting-and-how-to-avoid-it?u=76281980&t=265)** So basically we take some of our data, put it aside and use the [[Representational State Transfer (REST)|rest]] of that data to train our model.
 >
 > **[4:31](https://www.linkedin.com/learning/data-science-for-java-developers/overfitting-and-how-to-avoid-it?u=76281980&t=271)** And then when we want to see how our model would do. we test it on that whole out data, and that will generally reduce the risk of overfitting in the models we create.
 >
@@ -3146,7 +3103,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (28), [[Java]] (1), [[Linear Regression]] (1), [[Neural Networks]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Java]] (1), [[Linear Regression]] (1), [[Neural Networks]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (4), make (2)
 > **Definitions:** is a  (3), in other words (2), is an  (1)
 > **Analogies:** such as (1)
@@ -3158,8 +3115,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### K-nearest neighbor basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/k-nearest-neighbor-basics?u=76281980)
+#### [K-nearest neighbor basics](https://www.linkedin.com/learning/data-science-for-java-developers/k-nearest-neighbor-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3177,13 +3133,13 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/data-science-for-java-developers/k-nearest-neighbor-basics?u=76281980&t=61)** So in other words, if we have a new data point like we do in the picture here, what we're going to do is figure out what the closest points to that point are, what are the closest points that we know about, and based on what those closest points are, we're going to label that new point as part of that group.
 >
-> **[1:22](https://www.linkedin.com/learning/data-science-for-java-developers/k-nearest-neighbor-basics?u=76281980&t=82)** So it's a fairly straightforward algorithm and we're going to implement it in JAVA in just a minute, here.
+> **[1:22](https://www.linkedin.com/learning/data-science-for-java-developers/k-nearest-neighbor-basics?u=76281980&t=82)** So it's a fairly straightforward algorithm and we're going to implement it in [[Java]] in just a minute, here.
 >
 > **[1:27](https://www.linkedin.com/learning/data-science-for-java-developers/k-nearest-neighbor-basics?u=76281980&t=87)** So first, just to formalize things a little bit, let's talk about these steps involved in performing a KNN classification.
 >
 > **[1:35](https://www.linkedin.com/learning/data-science-for-java-developers/k-nearest-neighbor-basics?u=76281980&t=95)** And now actually this is pretty simple because there's only two steps.
 >
-> **[1:39](https://www.linkedin.com/learning/data-science-for-java-developers/k-nearest-neighbor-basics?u=76281980&t=99)** The first step is for us to calculate the distance between whatever new data point we're looking at and the rest of the points in the dataset.
+> **[1:39](https://www.linkedin.com/learning/data-science-for-java-developers/k-nearest-neighbor-basics?u=76281980&t=99)** The first step is for us to calculate the distance between whatever new data point we're looking at and the [[Representational State Transfer (REST)|rest]] of the points in the dataset.
 >
 > **[1:49](https://www.linkedin.com/learning/data-science-for-java-developers/k-nearest-neighbor-basics?u=76281980&t=109)** So basically what we're going to do is calculate how far away the new point is from the rest of the points we know about.
 >
@@ -3205,7 +3161,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/data-science-for-java-developers/k-nearest-neighbor-basics?u=76281980&t=170)** The first is that there's very little actual up-front learning involved.
 >
-> **[2:55](https://www.linkedin.com/learning/data-science-for-java-developers/k-nearest-neighbor-basics?u=76281980&t=175)** We talked earlier about building models for data science, and those of you who are familiar with things like neural networks will know that some data science models involve quite a bit of up-front learning, right?
+> **[2:55](https://www.linkedin.com/learning/data-science-for-java-developers/k-nearest-neighbor-basics?u=76281980&t=175)** We talked earlier about building models for [[Data Science]], and those of you who are familiar with things like [[Neural Networks]] will know that some data science models involve quite a bit of up-front learning, right?
 >
 > **[3:07](https://www.linkedin.com/learning/data-science-for-java-developers/k-nearest-neighbor-basics?u=76281980&t=187)** So it takes a lot of computational power in order to actually build the model.
 >
@@ -3263,15 +3219,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Representational State Transfer (REST)|Rest]] (2), [[Neural Networks]] (2), [[Java]] (1), power (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Data Science]] (2), [[Neural Networks]] (2), [[Java]] (1)
 > **Env Vars:** knn (12), java (1)
 > **Definitions:** is a  (3), is called (1), in other words (1), is an  (1)
 > **Warnings:** keep in mind (5)
 > **Analogies:** picture (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Loading flower data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/loading-flower-data?u=76281980)
+#### [Loading flower data](https://www.linkedin.com/learning/data-science-for-java-developers/loading-flower-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3389,15 +3344,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15)
 > **Code Identifiers:** sepalwidth (2), sepallength (1), petalwidth (1), petallength (1), parseflower (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1), in other words (1)
 > **Env Vars:** knn (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a DataItem interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/creating-a-dataitem-interface?u=76281980)
+#### [Creating a DataItem interface](https://www.linkedin.com/learning/data-science-for-java-developers/creating-a-dataitem-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3467,7 +3420,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/data-science-for-java-developers/creating-a-dataitem-interface?u=76281980&t=230)** And this is assuming that both of these coordinates are the same size which is necessary, right?
 >
-> **[3:55](https://www.linkedin.com/learning/data-science-for-java-developers/creating-a-dataitem-interface?u=76281980&t=235)** If we write the rest of our code correctly normally you might want to check and make sure that these two coordinate lists are the same length but we're just going to ignore that for now since we're just coding out an example here.
+> **[3:55](https://www.linkedin.com/learning/data-science-for-java-developers/creating-a-dataitem-interface?u=76281980&t=235)** If we write the [[Representational State Transfer (REST)|rest]] of our code correctly normally you might want to check and make sure that these two coordinate lists are the same length but we're just going to ignore that for now since we're just coding out an example here.
 >
 > **[4:08](https://www.linkedin.com/learning/data-science-for-java-developers/creating-a-dataitem-interface?u=76281980&t=248)** Alright. So now we're basically just going to say double dimension distance equals item two coordinates dot get I minus item one, coordinates dot get I, right?
 >
@@ -3483,14 +3436,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), generic (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Env Vars:** knn (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Calculating the closest data points
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/calculating-the-closest-data-points?u=76281980)
+#### [Calculating the closest data points](https://www.linkedin.com/learning/data-science-for-java-developers/calculating-the-closest-data-points?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3552,13 +3504,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), next (2), generic (1)
 > **Code Identifiers:** dataitems (4), unlabeledpoint (4), adddataitem (2), classifypoint (2), numberofneighbors (2)
 > **CLI Commands:** find (2), make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implementing the DataItem interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/implementing-the-dataitem-interface?u=76281980)
+#### [Implementing the DataItem interface](https://www.linkedin.com/learning/data-science-for-java-developers/implementing-the-dataitem-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3598,15 +3548,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Code Identifiers:** getcoordinates (2), getclassifier (2), classifypoint (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** knn (2)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Letting your data points vote
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/letting-your-data-points-vote?u=76281980)
+#### [Letting your data points vote](https://www.linkedin.com/learning/data-science-for-java-developers/letting-your-data-points-vote?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3679,8 +3627,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Finishing your KNN classifier
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/finishing-your-knn-classifier?u=76281980)
+#### [Finishing your KNN classifier](https://www.linkedin.com/learning/data-science-for-java-developers/finishing-your-knn-classifier?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3734,7 +3681,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Analogies:** for example (3), such as (1)
 > **Env Vars:** knn (2)
 > **Versions:** 2.5 (1), 0.75 (1)
@@ -3748,8 +3694,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Naive Bayes basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/naive-bayes-basics?u=76281980)
+#### [Naive Bayes basics](https://www.linkedin.com/learning/data-science-for-java-developers/naive-bayes-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3761,11 +3706,11 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/data-science-for-java-developers/naive-bayes-basics?u=76281980&t=15)** The Naive Bayes algorithm is based off of something called Bayes' theorem.
 >
-> **[0:19](https://www.linkedin.com/learning/data-science-for-java-developers/naive-bayes-basics?u=76281980&t=19)** Now I understand that this equation here might look a little bit intimidating to many of you, but it's a very very powerful equation in the realm of Data Science.
+> **[0:19](https://www.linkedin.com/learning/data-science-for-java-developers/naive-bayes-basics?u=76281980&t=19)** Now I understand that this equation here might look a little bit intimidating to many of you, but it's a very very powerful equation in the realm of [[Data Science]].
 >
 > **[0:30](https://www.linkedin.com/learning/data-science-for-java-developers/naive-bayes-basics?u=76281980&t=30)** So what this means, right?
 >
-> **[0:32](https://www.linkedin.com/learning/data-science-for-java-developers/naive-bayes-basics?u=76281980&t=32)** What you're looking at here, I'm just going to say it in sort of mathematical terms is that the probability of a given B is equal to the probability of B, given A times the probability of A divided by the probability of B still probably doesn't mean anything to many of you.
+> **[0:32](https://www.linkedin.com/learning/data-science-for-java-developers/naive-bayes-basics?u=76281980&t=32)** What you're looking at here, I'm just going to say it in sort of mathematical terms is that the [[Probability]] of a given B is equal to the probability of B, given A times the probability of A divided by the probability of B still probably doesn't mean anything to many of you.
 >
 > **[0:49](https://www.linkedin.com/learning/data-science-for-java-developers/naive-bayes-basics?u=76281980&t=49)** So let me give you a more concrete example.
 >
@@ -3773,7 +3718,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/data-science-for-java-developers/naive-bayes-basics?u=76281980&t=58)** Something that based on the words contained inside an email would predict whether or not the email is spam or not.
 >
-> **[1:06](https://www.linkedin.com/learning/data-science-for-java-developers/naive-bayes-basics?u=76281980&t=66)** So the way we would do this using Bayes theorem just to give you a very high level overview of what this would look like and what this equation actually means using Bayes theorem what we would be able to say is that the probability that an email is spam given that it contains the word free, right?
+> **[1:06](https://www.linkedin.com/learning/data-science-for-java-developers/naive-bayes-basics?u=76281980&t=66)** So the way we would do this using Bayes theorem just to give you a very high level overview of what this would look like and what this equation actually means using Bayes theorem what we would be able to say is that the probability that an email is spam given that it contains the [[Microsoft Word|word]] free, right?
 >
 > **[1:26](https://www.linkedin.com/learning/data-science-for-java-developers/naive-bayes-basics?u=76281980&t=86)** Let's just say we're picking the word free to try and label spam emails.
 >
@@ -3799,7 +3744,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/data-science-for-java-developers/naive-bayes-basics?u=76281980&t=170)** So for Naive Bayes, just like for k-NN there are a pretty simple series of steps that we're going to follow in order to create a Naive Bayes classifier.
 >
-> **[2:58](https://www.linkedin.com/learning/data-science-for-java-developers/naive-bayes-basics?u=76281980&t=178)** Now, keep in mind that Naive Bayes does require a little bit of statistics knowledge.
+> **[2:58](https://www.linkedin.com/learning/data-science-for-java-developers/naive-bayes-basics?u=76281980&t=178)** Now, keep in mind that Naive Bayes does require a little bit of [[Statistics]] knowledge.
 >
 > **[3:05](https://www.linkedin.com/learning/data-science-for-java-developers/naive-bayes-basics?u=76281980&t=185)** So for those of you who don't have that statistics knowledge just do your best to follow along here.
 >
@@ -3853,23 +3798,22 @@ created: 2026-05-02
 >
 > **[6:18](https://www.linkedin.com/learning/data-science-for-java-developers/naive-bayes-basics?u=76281980&t=378)** Nevertheless, this algorithm generally performs pretty well.
 >
-> **[6:23](https://www.linkedin.com/learning/data-science-for-java-developers/naive-bayes-basics?u=76281980&t=383)** So with that said, let's get started and take a look at how to implement this thing, in Java.
+> **[6:23](https://www.linkedin.com/learning/data-science-for-java-developers/naive-bayes-basics?u=76281980&t=383)** So with that said, let's get started and take a look at how to implement this thing, in [[Java]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Probability]] (13), [[Microsoft Word|Word]] (9), next (4), [[Statistics]] (3)
+> **Frameworks & Libraries:** [[Probability]] (13), [[Microsoft Word|Word]] (9), [[Statistics]] (3), [[Data Science]] (1), [[Java]] (1)
 > **Analogies:** imagine (3), for example (2), just like (1)
 > **Warnings:** keep in mind (4)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - okay (1)
 
-#### Calculating the possible labels
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/calculating-the-possible-labels?u=76281980)
+#### [Calculating the possible labels](https://www.linkedin.com/learning/data-science-for-java-developers/calculating-the-possible-labels?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-for-java-developers/calculating-the-possible-labels?u=76281980&t=0)** - [Instructor] Okay, so now that we know a little bit more about what a Naive Bayes classifier is and how it works, the next thing we're going to do is see how to actually implement one in Java.
+> **[0:00](https://www.linkedin.com/learning/data-science-for-java-developers/calculating-the-possible-labels?u=76281980&t=0)** - [Instructor] Okay, so now that we know a little bit more about what a Naive Bayes classifier is and how it works, the next thing we're going to do is see how to actually implement one in [[Java]].
 >
 > **[0:09](https://www.linkedin.com/learning/data-science-for-java-developers/calculating-the-possible-labels?u=76281980&t=9)** And this is going to be a slightly tricky process.
 >
@@ -3947,15 +3891,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Java]] (3), next (2)
+> **Frameworks & Libraries:** [[Java]] (3)
 > **Code Identifiers:** dataitems (7), classifypoint (3), unlabeledpoint (2), adddataitem (1), alllabels (1)
 > **Analogies:** just like (3), similar to (1)
 > **Env Vars:** knn (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Splitting your dataset by label
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/splitting-your-dataset-by-label?u=76281980)
+#### [Splitting your dataset by label](https://www.linkedin.com/learning/data-science-for-java-developers/splitting-your-dataset-by-label?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3973,7 +3916,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/data-science-for-java-developers/splitting-your-dataset-by-label?u=76281980&t=54)** And those statistical measures that we calculate for each of these groups is going to help us when it comes to actually classifying an unknown point.
 >
-> **[1:02](https://www.linkedin.com/learning/data-science-for-java-developers/splitting-your-dataset-by-label?u=76281980&t=62)** Basically what we're going to do as I talked about before, is we're going to calculate the probability that a given unlabeled point belongs to each of these groups, and we're simply going to return the different probabilities from that.
+> **[1:02](https://www.linkedin.com/learning/data-science-for-java-developers/splitting-your-dataset-by-label?u=76281980&t=62)** Basically what we're going to do as I talked about before, is we're going to calculate the [[Probability]] that a given unlabeled point belongs to each of these groups, and we're simply going to return the different probabilities from that.
 >
 > **[1:18](https://www.linkedin.com/learning/data-science-for-java-developers/splitting-your-dataset-by-label?u=76281980&t=78)** So that's a lot of talk but here's more or less what it's going to look like.
 >
@@ -3985,7 +3928,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/data-science-for-java-developers/splitting-your-dataset-by-label?u=76281980&t=113)** And this is just going to be a new HashMap.
 >
-> **[1:58](https://www.linkedin.com/learning/data-science-for-java-developers/splitting-your-dataset-by-label?u=76281980&t=118)** And that is going to be the thing that we end up returning from this method once we've actually implemented the rest of the logic, okay?
+> **[1:58](https://www.linkedin.com/learning/data-science-for-java-developers/splitting-your-dataset-by-label?u=76281980&t=118)** And that is going to be the thing that we end up returning from this method once we've actually implemented the [[Representational State Transfer (REST)|rest]] of the logic, okay?
 >
 > **[2:05](https://www.linkedin.com/learning/data-science-for-java-developers/splitting-your-dataset-by-label?u=76281980&t=125)** So we're going to say return probabilities.
 >
@@ -4063,15 +4006,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Probability]] (4), next (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Probability]] (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** groupdataitems (2), getcolumnmeans (1), getlabelprobabilityforpoint (1), groupcolumnmeans (1), groupcolumnstandarddeviations (1)
 > **Definitions:** in other words (1), is a  (1)
 > **Best Practices:** the key is (2)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Calculating mean and standard deviation
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/calculating-mean-and-standard-deviation?u=76281980)
+#### [Calculating mean and standard deviation](https://www.linkedin.com/learning/data-science-for-java-developers/calculating-mean-and-standard-deviation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4153,20 +4095,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (1)
 > **CLI Commands:** apache (1), make (1)
 > **Code Identifiers:** toarray (1), statutils (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Calculating datapoint probabilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/calculating-datapoint-probabilities?u=76281980)
+#### [Calculating datapoint probabilities](https://www.linkedin.com/learning/data-science-for-java-developers/calculating-datapoint-probabilities?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-science-for-java-developers/calculating-datapoint-probabilities?u=76281980&t=0)** - [Instructor] So we've got our column standard deviations now, that's pretty straightforward.
 >
-> **[0:04](https://www.linkedin.com/learning/data-science-for-java-developers/calculating-datapoint-probabilities?u=76281980&t=4)** The last method that we have to implement is our get labeled probability for point method.
+> **[0:04](https://www.linkedin.com/learning/data-science-for-java-developers/calculating-datapoint-probabilities?u=76281980&t=4)** The last method that we have to implement is our get labeled [[Probability]] for point method.
 >
 > **[0:11](https://www.linkedin.com/learning/data-science-for-java-developers/calculating-datapoint-probabilities?u=76281980&t=11)** All right so let's put that here.
 >
@@ -4204,7 +4144,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/data-science-for-java-developers/calculating-datapoint-probabilities?u=76281980&t=180)** We're going to say normal distribution dist equals new normal distribution mean and standard deviation.
 >
-> **[3:10](https://www.linkedin.com/learning/data-science-for-java-developers/calculating-datapoint-probabilities?u=76281980&t=190)** We're basically creating a normal distribution with the given mean and standard deviation, which as those of you who are familiar with statistics will know a mean and a standard deviation are all that we need to define a normal distribution mathematically and now that we have our normal distribution, what we're going to do is calculate the probability that this item belongs to this group and multiply that by the probability.
+> **[3:10](https://www.linkedin.com/learning/data-science-for-java-developers/calculating-datapoint-probabilities?u=76281980&t=190)** We're basically creating a normal distribution with the given mean and standard deviation, which as those of you who are familiar with [[Statistics]] will know a mean and a standard deviation are all that we need to define a normal distribution mathematically and now that we have our normal distribution, what we're going to do is calculate the probability that this item belongs to this group and multiply that by the probability.
 >
 > **[3:37](https://www.linkedin.com/learning/data-science-for-java-developers/calculating-datapoint-probabilities?u=76281980&t=217)** So we're going to say probability times equals dist dot cumulative probability item value
 >
@@ -4236,7 +4176,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (10), data (6), next (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Probability]] (10), [[Statistics]] (1)
 > **CLI Commands:** apache (1), make (1)
 > **Env Vars:** knn (1)
 > **Versions:** 1.0 (1)

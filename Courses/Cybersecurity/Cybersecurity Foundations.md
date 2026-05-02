@@ -123,14 +123,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding the cybersecurity frameworks and standards
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-cybersecurity-frameworks-and-standards?u=76281980)
+#### [Understanding the cybersecurity frameworks and standards](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-cybersecurity-frameworks-and-standards?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-cybersecurity-frameworks-and-standards?u=76281980&t=0)** - [Malcolm] The internet is an essential service as necessary as electricity and other utilities.
 >
-> **[0:06](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-cybersecurity-frameworks-and-standards?u=76281980&t=6)** That makes cybersecurity a requirement for everyone.
+> **[0:06](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-cybersecurity-frameworks-and-standards?u=76281980&t=6)** That makes [[Cybersecurity]] a requirement for everyone.
 >
 > **[0:11](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-cybersecurity-frameworks-and-standards?u=76281980&t=11)** I'm Malcolm Shore.
 >
@@ -140,22 +139,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (2), career (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [malcolm] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/what-you-should-know?u=76281980&t=0)** - [Host] We're all fairly familiar with the use of computers and the internet of the risks of viruses and other forms of malware and of the basics of avoiding such attacks.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/what-you-should-know?u=76281980&t=0)** - [Host] We're all fairly familiar with the use of computers and the internet of the risks of viruses and other [[Forms]] of malware and of the basics of avoiding such attacks.
 >
-> **[0:10](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/what-you-should-know?u=76281980&t=10)** However, over the years, cybersecurity professionals have developed a number of standards and frameworks, which together provide a structured approach to managing the cyber risk.
+> **[0:10](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/what-you-should-know?u=76281980&t=10)** However, over the years, [[Cybersecurity]] professionals have developed a number of standards and frameworks, which together provide a structured approach to managing the cyber risk.
 >
 > **[0:22](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/what-you-should-know?u=76281980&t=22)** Understanding these frameworks provides a good foundation for anyone with an interest in or wishing to build a career in cybersecurity.
 >
-> **[0:31](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/what-you-should-know?u=76281980&t=31)** This LinkedIn Learning Course is suitable for anyone who wishes to learn about cybersecurity.
+> **[0:31](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/what-you-should-know?u=76281980&t=31)** This [[LinkedIn]] Learning Course is suitable for anyone who wishes to learn about cybersecurity.
 >
 > **[0:36](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/what-you-should-know?u=76281980&t=36)** You don't need to be a security professional to take it.
 >
@@ -163,11 +161,11 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/what-you-should-know?u=76281980&t=45)** ISACA's control objectives for IT, provide the best practice model of IT processes and help provide the context for the threats to and protection of IT systems.
 >
-> **[0:57](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/what-you-should-know?u=76281980&t=57)** Nist cybersecurity framework provides the most recognized approach to cybersecurity an internet enabled world and some pre-reading would be helpful in taking this course.
+> **[0:57](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/what-you-should-know?u=76281980&t=57)** [[NIST]] cybersecurity framework provides the most recognized approach to cybersecurity an internet enabled world and some pre-reading would be helpful in taking this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (5), [[Forms]] (1), career (1), [[LinkedIn]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (5), [[Forms]] (1), [[LinkedIn]] (1), [[NIST]] (1)
 > **Env Vars:** isaca (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [host] (1)
@@ -177,8 +175,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding the Cyber Kill Chain
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-cyber-kill-chain?u=76281980)
+#### [Understanding the Cyber Kill Chain](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-cyber-kill-chain?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -226,13 +223,13 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-cyber-kill-chain?u=76281980&t=169)** Weaponization means taking a known vulnerability and customizing it to a specific target or group of targets, and integrating it to enable it to be run from an automated cyber attack platform.
 >
-> **[3:03](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-cyber-kill-chain?u=76281980&t=183)** The weaponized malware may be designed to exploit a vulnerability in a specific version of an operating system, or target a specific online banking website.
+> **[3:03](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-cyber-kill-chain?u=76281980&t=183)** The weaponized malware may be designed to exploit a vulnerability in a specific version of an operating system, or target a specific online [[Banking]] website.
 >
 > **[3:15](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-cyber-kill-chain?u=76281980&t=195)** In the age of hacking as a business, cyber criminals will often purchase the weaponized malware from dedicated developers, rather than develop their own.
 >
 > **[3:26](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-cyber-kill-chain?u=76281980&t=206)** The most common way of delivering malware is to attach an infected document, a PDF image, or other electronic item in a way that when the document is opened, the malware will self-install.
 >
-> **[3:40](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-cyber-kill-chain?u=76281980&t=220)** This file can then be sent to the victim via email, a process known as phishing.
+> **[3:40](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-cyber-kill-chain?u=76281980&t=220)** This file can then be sent to the victim via email, a process known as [[Phishing]].
 >
 > **[3:45](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-cyber-kill-chain?u=76281980&t=225)** Another way might be to find a vulnerable website, infect it with malware, and send an email invitation to the target to visit the website.
 >
@@ -250,7 +247,7 @@ created: 2026-05-02
 >
 > **[4:57](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-cyber-kill-chain?u=76281980&t=297)** For email attachment and flash drive attacks, the infected item will exploit a vulnerability in the target software post-delivery, when the document is opened.
 >
-> **[5:07](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-cyber-kill-chain?u=76281980&t=307)** A compromised website may similarly download HTML code, which takes advantage of a browser vulnerability.
+> **[5:07](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-cyber-kill-chain?u=76281980&t=307)** A compromised website may similarly download [[HTML]] code, which takes advantage of a browser vulnerability.
 >
 > **[5:15](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-cyber-kill-chain?u=76281980&t=315)** In the case of remote access, the exploitation phase may use a packet stream to exploit a vulnerability in the protocol of an Internet-exposed service, or may simply use cracked or stolen credentials.
 >
@@ -260,7 +257,7 @@ created: 2026-05-02
 >
 > **[5:47](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-cyber-kill-chain?u=76281980&t=347)** Additionally, some form of mechanism may be introduced to make sure the payload is restarted every time the system is rebooted.
 >
-> **[5:56](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-cyber-kill-chain?u=76281980&t=356)** One way of doing this in Windows is to add a registry entry to automatically run the payload when the system starts up.
+> **[5:56](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-cyber-kill-chain?u=76281980&t=356)** One way of doing this in [[Windows]] is to add a registry entry to automatically run the payload when the system starts up.
 >
 > **[6:03](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-cyber-kill-chain?u=76281980&t=363)** The payload will often be, or include, a means of maintaining ongoing access into a command shell.
 >
@@ -292,7 +289,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), next (1), [[Banking]] (1), [[Phishing]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Banking]] (1), [[Phishing]] (1), [[HTML]] (1), [[Windows]] (1)
 > **Definitions:** known as (6)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** pdf (1), html (1)
@@ -300,8 +297,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [narrator] (1)
 
-#### Pre-cyber threats
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/pre-cyber-threats?u=76281980)
+#### [Pre-cyber threats](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/pre-cyber-threats?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -327,7 +323,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/pre-cyber-threats?u=76281980&t=92)** As the use of computer systems grew, so did the threats.
 >
-> **[1:36](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/pre-cyber-threats?u=76281980&t=96)** More sophisticated forms of fraud emerged, taking advantage, in many cases, of the weakening controls in the IT environment.
+> **[1:36](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/pre-cyber-threats?u=76281980&t=96)** More sophisticated [[Forms]] of fraud emerged, taking advantage, in many cases, of the weakening controls in the IT environment.
 >
 > **[1:46](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/pre-cyber-threats?u=76281980&t=106)** The early days of computing brought with them youngsters enthralled by the challenge of using a computer and a modem to break into other computers.
 >
@@ -365,20 +361,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), business (2), web (2), data (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **Definitions:** known as (5)
 > **Speakers:** - [instructor] (1)
 
-#### The emergence of the cyber threats
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/the-emergence-of-the-cyber-threats?u=76281980)
+#### [The emergence of the cyber threats](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/the-emergence-of-the-cyber-threats?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/the-emergence-of-the-cyber-threats?u=76281980&t=0)** - [Instructor] By the late 1990s, electronic commerce had become a significant part of the economy and organized crime was starting to look at the potential for low risk, high gain crimes through the internet.
 >
-> **[0:13](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/the-emergence-of-the-cyber-threats?u=76281980&t=13)** Cybercrime started to grow rapidly, with one of the major targets being access to databases of credit card information.
+> **[0:13](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/the-emergence-of-the-cyber-threats?u=76281980&t=13)** Cybercrime started to grow rapidly, with one of the major targets being access to [[Databases]] of credit card information.
 >
-> **[0:21](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/the-emergence-of-the-cyber-threats?u=76281980&t=21)** The loss of credit cards known as a data breach became a significant risk for businesses as the payment card industry introduced penalties for non-compliance with their cybersecurity standards.
+> **[0:21](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/the-emergence-of-the-cyber-threats?u=76281980&t=21)** The loss of credit cards known as a data breach became a significant risk for businesses as the payment card industry introduced penalties for non-compliance with their [[Cybersecurity]] standards.
 >
 > **[0:33](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/the-emergence-of-the-cyber-threats?u=76281980&t=33)** By 2010, cybercrime had become as big an industry as illicit drugs.
 >
@@ -414,15 +409,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Databases]] (1), [[Cybersecurity]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[Cybersecurity]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Botnets and the cybercrime industry
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/botnets-and-the-cybercrime-industry?u=76281980)
+#### [Botnets and the cybercrime industry](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/botnets-and-the-cybercrime-industry?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -474,7 +468,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/botnets-and-the-cybercrime-industry?u=76281980&t=209)** Zeus's main purpose is to steal online credentials.
 >
-> **[3:33](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/botnets-and-the-cybercrime-industry?u=76281980&t=213)** It includes automated features such as copying the protected storage area which contains internet passwords, intercepting account credentials typed into a browser, or even modifying banking webpages sent from a server to add requests for passwords.
+> **[3:33](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/botnets-and-the-cybercrime-industry?u=76281980&t=213)** It includes automated features such as copying the protected storage area which contains internet passwords, intercepting account credentials typed into a browser, or even modifying [[Banking]] webpages sent from a server to add requests for passwords.
 >
 > **[3:51](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/botnets-and-the-cybercrime-industry?u=76281980&t=231)** Zeus can be used to target both computers and smartphones.
 >
@@ -510,7 +504,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (3), [[Banking]] (3), business (2), web (1), traffic (1)
+> **Frameworks & Libraries:** [[Banking]] (3)
 > **Definitions:** known as (4), is a  (2)
 > **Env Vars:** usb (1), rat (1), ice (1)
 > **Analogies:** such as (2), for example (1)
@@ -519,8 +513,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloaking and alternate data streams
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cloaking-and-alternate-data-streams?u=76281980)
+#### [Cloaking and alternate data streams](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cloaking-and-alternate-data-streams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -530,11 +523,11 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cloaking-and-alternate-data-streams?u=76281980&t=13)** Let's have a look at some of the ways in which malware can hide.
 >
-> **[0:18](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cloaking-and-alternate-data-streams?u=76281980&t=18)** The first method is to use the techniques used by the Windows operating system to hide its own activities.
+> **[0:18](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cloaking-and-alternate-data-streams?u=76281980&t=18)** The first method is to use the techniques used by the [[Windows]] operating system to hide its own activities.
 >
 > **[0:25](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cloaking-and-alternate-data-streams?u=76281980&t=25)** An example of this is the hidden history folder.
 >
-> **[0:29](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cloaking-and-alternate-data-streams?u=76281980&t=29)** I'm in a command shell and I'll go into a folder in my user applications directory by typing cd appdata \local \microsoft\windows.
+> **[0:29](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cloaking-and-alternate-data-streams?u=76281980&t=29)** I'm in a command shell and I'll go into a folder in my user applications directory by typing cd appdata \local \[[Microsoft]]\windows.
 >
 > **[0:46](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cloaking-and-alternate-data-streams?u=76281980&t=46)** When I list the contents of the directory, there's a number of files and folders, but there's no history sub-directory.
 >
@@ -626,7 +619,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Windows]] (7), cd (2), [[Microsoft]] (2), application (1)
+> **Frameworks & Libraries:** [[Windows]] (7), [[Microsoft]] (2)
 > **File Paths:** datafile.txt (13), adsfile.txt (3), hidden.txt (3), desktop.ini (2)
 > **Env Vars:** data (2), clsid (1), uiclsid (1), dos (1), fat (1)
 > **CLI Commands:** cd (2), find (1)
@@ -634,14 +627,13 @@ created: 2026-05-02
 > **Tools:** terminal (1), command line (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hiding using processes
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/hiding-using-processes?u=76281980)
+#### [Hiding using processes](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/hiding-using-processes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/hiding-using-processes?u=76281980&t=0)** - [Speaker] Let's now look at how we build a program which uses a more sophisticated means of hiding by looking at a simple malware function written as a Windows process to intercept all keystrokes.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/hiding-using-processes?u=76281980&t=0)** - [Speaker] Let's now look at how we build a program which uses a more sophisticated means of hiding by looking at a simple malware function written as a [[Windows]] process to intercept all keystrokes.
 >
-> **[0:12](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/hiding-using-processes?u=76281980&t=12)** In Microsoft, when a key on the keyboard is pressed, an event is signaled to the operating system.
+> **[0:12](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/hiding-using-processes?u=76281980&t=12)** In [[Microsoft]], when a key on the keyboard is pressed, an event is signaled to the operating system.
 >
 > **[0:20](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/hiding-using-processes?u=76281980&t=20)** Windows uses its keyboard driver to read the character that's been pressed and sends it as a message to the application that's waiting for it.
 >
@@ -719,13 +711,13 @@ created: 2026-05-02
 >
 > **[4:38](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/hiding-using-processes?u=76281980&t=278)** And it also contains other keyboard activities, such as ALT and shift keys, which displays various special characters.
 >
-> **[4:47](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/hiding-using-processes?u=76281980&t=287)** Of course, what an attacker would like to see in the Intercept they capture is our system access and banking account login.
+> **[4:47](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/hiding-using-processes?u=76281980&t=287)** Of course, what an attacker would like to see in the Intercept they capture is our system access and [[Banking]] account login.
 >
 > **[4:56](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/hiding-using-processes?u=76281980&t=296)** Lesson here is that if an adversary can get access to implant malware on a computer, even a simple program of a few lines and running as a normal user, it can be difficult to detect and has the ability to read everything that's typed including access codes and passwords.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (8), application (3), next (2), data (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Windows]] (8), [[Microsoft]] (1), [[Banking]] (1)
 > **Env Vars:** alt (4), mod (1)
 > **File Paths:** wmisvc64.cpp (2), intercept.txt (1)
 > **UI Navigation:** open the (1), scroll down (1)
@@ -734,8 +726,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
 
-#### Controlling the target through a rootkit
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/controlling-the-target-through-a-rootkit?u=76281980)
+#### [Controlling the target through a rootkit](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/controlling-the-target-through-a-rootkit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -761,9 +752,9 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/controlling-the-target-through-a-rootkit?u=76281980&t=80)** It can however, be combined with virus-like code to enable propagation laterally once installed in a system.
 >
-> **[1:29](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/controlling-the-target-through-a-rootkit?u=76281980&t=89)** A rootkit is designed to bypass intrusion detection systems.
+> **[1:29](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/controlling-the-target-through-a-rootkit?u=76281980&t=89)** A rootkit is designed to bypass [[Intrusion Detection]] systems.
 >
-> **[1:33](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/controlling-the-target-through-a-rootkit?u=76281980&t=93)** For example, it may contain code to look for and disable certain forms of antivirus or host intrusion detection software.
+> **[1:33](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/controlling-the-target-through-a-rootkit?u=76281980&t=93)** For example, it may contain code to look for and disable certain [[Forms]] of antivirus or host intrusion detection software.
 >
 > **[1:42](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/controlling-the-target-through-a-rootkit?u=76281980&t=102)** It will also want to avoid detection by a forensics analyst and the best place to hide is in the operating system kernel.
 >
@@ -773,11 +764,11 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/controlling-the-target-through-a-rootkit?u=76281980&t=118)** Getting into the kernel requires rootkits to be coded as a special form of program called a loadable kernel module or driver.
 >
-> **[2:08](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/controlling-the-target-through-a-rootkit?u=76281980&t=128)** Microsoft provides the Windows driver development kit, or DDK, for developing loadable kernel modules.
+> **[2:08](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/controlling-the-target-through-a-rootkit?u=76281980&t=128)** [[Microsoft]] provides the [[Windows]] driver development kit, or DDK, for developing loadable kernel modules.
 >
 > **[2:16](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/controlling-the-target-through-a-rootkit?u=76281980&t=136)** A driver uses quite complex coding techniques so I'll not delve into the process of developing and deploying a driver.
 >
-> **[2:23](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/controlling-the-target-through-a-rootkit?u=76281980&t=143)** Suffice to say, drivers operate in the deepest part of the kernel, what's known as ring zero, and this gives them access to all the kernel data structures.
+> **[2:23](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/controlling-the-target-through-a-rootkit?u=76281980&t=143)** Suffice to say, drivers operate in the deepest part of the kernel, what's known as ring zero, and this gives them access to all the kernel [[Data Structures]].
 >
 > **[2:33](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/controlling-the-target-through-a-rootkit?u=76281980&t=153)** In addition to being in the kernel, rootkits run with elevated privileges.
 >
@@ -837,7 +828,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Intrusion Detection]] (4), application (2), [[Windows]] (2), next (2)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (4), [[Data Structures]] (4), [[Windows]] (2), [[Forms]] (1), [[Microsoft]] (1)
 > **Env Vars:** dkom (3), eprocess (3), tdl3 (3), ddk (1), ssh (1)
 > **Definitions:** known as (2), is a  (2), is an  (1)
 > **Prerequisites:** install (4)
@@ -845,8 +836,7 @@ created: 2026-05-02
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Phishing and watering holes
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/phishing-and-watering-holes?u=76281980)
+#### [Phishing and watering holes](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/phishing-and-watering-holes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -856,7 +846,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/phishing-and-watering-holes?u=76281980&t=14)** On a workstation, the weakest link, of course, is the person using the computer, and so we become the target.
 >
-> **[0:21](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/phishing-and-watering-holes?u=76281980&t=21)** The first approach taken by attackers to exploit the user is what's called phishing.
+> **[0:21](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/phishing-and-watering-holes?u=76281980&t=21)** The first approach taken by attackers to exploit the user is what's called [[Phishing]].
 >
 > **[0:26](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/phishing-and-watering-holes?u=76281980&t=26)** This involves sending an email with a malicious attachment or a link to a malicious site to a lot of users, hoping that at least one will take the bait and open the attachment or click on the link.
 >
@@ -896,13 +886,13 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/phishing-and-watering-holes?u=76281980&t=147)** Many phishing emails these days can be quite sophisticated and difficult to detect as traps.
 >
-> **[2:34](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/phishing-and-watering-holes?u=76281980&t=154)** Some special forms of phishing campaigns have been seen.
+> **[2:34](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/phishing-and-watering-holes?u=76281980&t=154)** Some special [[Forms]] of phishing campaigns have been seen.
 >
 > **[2:38](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/phishing-and-watering-holes?u=76281980&t=158)** Some phishing campaigns target mobile users while others target users of voice over IP services, an attack also known as phishing.
 >
 > **[2:50](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/phishing-and-watering-holes?u=76281980&t=170)** Phishing attacks, like any cyber attack, can be costly.
 >
-> **[2:54](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/phishing-and-watering-holes?u=76281980&t=174)** Between 2013 and 2015, cyber attackers scammed over a hundred million dollars out of Facebook and Google by asking for it through phishing emails.
+> **[2:54](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/phishing-and-watering-holes?u=76281980&t=174)** Between 2013 and 2015, cyber attackers scammed over a hundred million dollars out of Facebook and [[Google]] by asking for it through phishing emails.
 >
 > **[3:08](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/phishing-and-watering-holes?u=76281980&t=188)** Waterholes are another type of attack focused on the user.
 >
@@ -928,7 +918,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (16), business (3), [[Security]] (2), application (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (16), [[Forms]] (1), [[Google]] (1)
 > **UI Navigation:** click on (2), open the (1)
 > **Env Vars:** fifa (2)
 > **Definitions:** is a  (1), known as (1)
@@ -937,8 +927,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding advanced persistent threats
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-advanced-persistent-threats?u=76281980)
+#### [Understanding advanced persistent threats](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-advanced-persistent-threats?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -964,7 +953,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-advanced-persistent-threats?u=76281980&t=81)** An APT may be sent by an adversary to carry out espionage against nation-state targets with the intention of stealing sensitive information.
 >
-> **[1:32](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-advanced-persistent-threats?u=76281980&t=92)** It may be sent to cause sabotage by disrupting the operation of the critical infrastructure systems such as telecommunications, power, and water.
+> **[1:32](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-advanced-persistent-threats?u=76281980&t=92)** It may be sent to cause sabotage by disrupting the operation of the critical infrastructure systems such as [[Telecommunications]], power, and water.
 >
 > **[1:43](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-advanced-persistent-threats?u=76281980&t=103)** An APT must infiltrate its target, find a place to hide, and then continue to operate if it's to succeed as a persistent threat.
 >
@@ -990,7 +979,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-advanced-persistent-threats?u=76281980&t=214)** In order to remain operational for a period of time, an APT needs to restart when the system is rebooted or if the system administrator attempts to remove it.
 >
-> **[3:44](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-advanced-persistent-threats?u=76281980&t=224)** The basic approach to reignition on a Windows system is to write a new entry into the registry to instruct Windows to run the malware loader.
+> **[3:44](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-advanced-persistent-threats?u=76281980&t=224)** The basic approach to reignition on a [[Windows]] system is to write a new entry into the registry to instruct Windows to run the malware loader.
 >
 > **[3:54](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-advanced-persistent-threats?u=76281980&t=234)** This may not be the only reignition mechanism, however, as often, an APT will use multiple means of reigniting.
 >
@@ -1026,17 +1015,17 @@ created: 2026-05-02
 >
 > **[6:25](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-advanced-persistent-threats?u=76281980&t=385)** APTs are usually found when network monitoring detects the installed malware attempting to connect to its command and control systems.
 >
-> **[6:33](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-advanced-persistent-threats?u=76281980&t=393)** Focusing controls which address each stage of the cyber kill chain provides the opportunity for early detection, and using tools such as Microsoft's arbitrary code guard can help stop them.
+> **[6:33](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-advanced-persistent-threats?u=76281980&t=393)** Focusing controls which address each stage of the cyber kill chain provides the opportunity for early detection, and using tools such as [[Microsoft]]'s arbitrary code guard can help stop them.
 >
 > **[6:46](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-advanced-persistent-threats?u=76281980&t=406)** Nevertheless, APTs will often penetrate their targets and the average time it takes to detect them, once in, is measured in months.
 >
-> **[6:56](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-advanced-persistent-threats?u=76281980&t=416)** Advanced persistent threats are very sophisticated forms of malware.
+> **[6:56](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-advanced-persistent-threats?u=76281980&t=416)** Advanced persistent threats are very sophisticated [[Forms]] of malware.
 >
 > **[7:01](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-advanced-persistent-threats?u=76281980&t=421)** They're difficult to detect and there's every indication that they're here to stay.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (3), [[Telecommunications]] (1), power (1), application (1), traffic (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Telecommunications]] (1), [[Microsoft]] (1), [[Forms]] (1)
 > **Env Vars:** apt (14), scada (2), http (1), dns (1), btz (1)
 > **CLI Commands:** apt (14), make (1), find (1)
 > **Definitions:** known as (4)
@@ -1044,20 +1033,19 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ransomware: A modern form of extortion
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/ransomware-a-modern-form-of-extortion?u=76281980)
+#### [Ransomware: A modern form of extortion](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/ransomware-a-modern-form-of-extortion?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/ransomware-a-modern-form-of-extortion?u=76281980&t=0)** - [Instructor] Let's have a look at a particular form of malware known as ransomware.
 >
-> **[0:04](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/ransomware-a-modern-form-of-extortion?u=76281980&t=4)** For targets with current backups, being hit with ransomware is just a nuisance but for those without it, it can be a very expensive lesson in practical cybersecurity.
+> **[0:04](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/ransomware-a-modern-form-of-extortion?u=76281980&t=4)** For targets with current backups, being hit with ransomware is just a nuisance but for those without it, it can be a very expensive lesson in practical [[Cybersecurity]].
 >
 > **[0:15](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/ransomware-a-modern-form-of-extortion?u=76281980&t=15)** Instead of stealing information, ransomware encrypts files or storage systems on its target to lock out their legitimate owner and then demands payment for the decryption key.
 >
 > **[0:28](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/ransomware-a-modern-form-of-extortion?u=76281980&t=28)** Asymmetric encryption is typically used for this.
 >
-> **[0:32](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/ransomware-a-modern-form-of-extortion?u=76281980&t=32)** I won't delve into the mysteries of asymmetric encryption in this course, but if you'd like to learn more about it, then you can go to the LinkedIn learning page and search for asymmetric encryption.
+> **[0:32](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/ransomware-a-modern-form-of-extortion?u=76281980&t=32)** I won't delve into the mysteries of asymmetric encryption in this course, but if you'd like to learn more about it, then you can go to the [[LinkedIn]] learning page and search for asymmetric encryption.
 >
 > **[0:42](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/ransomware-a-modern-form-of-extortion?u=76281980&t=42)** There's plenty of courses to choose from to learn more.
 >
@@ -1067,13 +1055,13 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/ransomware-a-modern-form-of-extortion?u=76281980&t=62)** CryptoLocker was extraordinarily successful with an estimated 234,000 victims.
 >
-> **[1:08](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/ransomware-a-modern-form-of-extortion?u=76281980&t=68)** It used phishing campaigns to opportunistically target its victims.
+> **[1:08](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/ransomware-a-modern-form-of-extortion?u=76281980&t=68)** It used [[Phishing]] campaigns to opportunistically target its victims.
 >
 > **[1:13](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/ransomware-a-modern-form-of-extortion?u=76281980&t=73)** These campaigns included the FedEx and UPS you have a parcel emails, which includes a hyperlink to a malicious website where the malware exists.
 >
 > **[1:23](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/ransomware-a-modern-form-of-extortion?u=76281980&t=83)** Similar ransomware campaigns using bank emails, FBI notices and speeding fines have also been identified.
 >
-> **[1:31](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/ransomware-a-modern-form-of-extortion?u=76281980&t=91)** The newer version, particularly prevalent in the Netherlands, used a malicious attachment, a Word document with an embedded macro which downloaded the malware directly onto the target computer when the document was opened.
+> **[1:31](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/ransomware-a-modern-form-of-extortion?u=76281980&t=91)** The newer version, particularly prevalent in the Netherlands, used a malicious attachment, a [[Microsoft Word|Word]] document with an embedded macro which downloaded the malware directly onto the target computer when the document was opened.
 >
 > **[1:46](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/ransomware-a-modern-form-of-extortion?u=76281980&t=106)** The person behind the CryptoLocker campaign is a Russian called Evgeny Mikhailovich Bogachev.
 >
@@ -1101,7 +1089,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/ransomware-a-modern-form-of-extortion?u=76281980&t=197)** When CryptoLocker hits an enterprise, it can have a pretty serious consequence as it not only encrypts files on the employee's computer, but also encrypts files in any shares that the computer has access to.
 >
-> **[3:30](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/ransomware-a-modern-form-of-extortion?u=76281980&t=210)** For a business which manages its information in a Windows file system, this can be devastating with often tens of thousands of business files rendered inaccessible.
+> **[3:30](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/ransomware-a-modern-form-of-extortion?u=76281980&t=210)** For a business which manages its information in a [[Windows]] file system, this can be devastating with often tens of thousands of business files rendered inaccessible.
 >
 > **[3:41](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/ransomware-a-modern-form-of-extortion?u=76281980&t=221)** The criminals running ransomware campaigns usually require payment through financial systems such as Bitcoin or pay safe cards in order to make themselves difficult to trace.
 >
@@ -1117,11 +1105,11 @@ created: 2026-05-02
 >
 > **[4:43](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/ransomware-a-modern-form-of-extortion?u=76281980&t=283)** In the 18 months from June, 2021 to November, 2022, the Hive Ransomware Group has netted over a hundred million dollars with its ransomware campaign which focuses on the healthcare sector and it's also extended this campaign to other areas of the critical infrastructure.
 >
-> **[5:03](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/ransomware-a-modern-form-of-extortion?u=76281980&t=303)** The attacks use a variety of tactics including exploiting Microsoft Exchange servers and typically gains access through phishing emails.
+> **[5:03](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/ransomware-a-modern-form-of-extortion?u=76281980&t=303)** The attacks use a variety of tactics including exploiting [[Microsoft]] Exchange servers and typically gains access through phishing emails.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (2), business (2), hit (1), [[Cybersecurity]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (2), [[Cybersecurity]] (1), [[LinkedIn]] (1), [[Microsoft Word|Word]] (1), [[Windows]] (1)
 > **Env Vars:** fbi (2), aes (2), ups (1), rsa (1)
 > **Analogies:** such as (3)
 > **Definitions:** known as (1), is a  (1)
@@ -1130,12 +1118,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cryptomining
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cryptomining?u=76281980)
+#### [Cryptomining](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cryptomining?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cryptomining?u=76281980&t=0)** - [Lecturer] One of the forms of cyber attack, that we'll come across, is to take over a computer and use it to run what's called mining attacks on a cryptocurrency wallet.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cryptomining?u=76281980&t=0)** - [Lecturer] One of the [[Forms]] of cyber attack, that we'll come across, is to take over a computer and use it to run what's called mining attacks on a [[Cryptocurrency]] wallet.
 >
 > **[0:11](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cryptomining?u=76281980&t=11)** This is known as cryptomining or cryptojacking.
 >
@@ -1153,7 +1140,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cryptomining?u=76281980&t=66)** As a pure cryptomining attack, the malware doesn't damage our files or attempt to steal our credentials, but it does use our system resources without our authorization.
 >
-> **[1:18](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cryptomining?u=76281980&t=78)** However, in a 2017 survey of cryptomining attacks, Trend Micro found that 20% combined cryptomining with other forms of attack, including remote code execution and SQL injections.
+> **[1:18](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cryptomining?u=76281980&t=78)** However, in a 2017 survey of cryptomining attacks, Trend Micro found that 20% combined cryptomining with other forms of attack, including remote code execution and [[SQL]] injections.
 >
 > **[1:34](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cryptomining?u=76281980&t=94)** This makes cryptomining something that we don't want on our systems.
 
@@ -1164,8 +1151,7 @@ created: 2026-05-02
 > **Definitions:** known as (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Hardware implants and other cyber FUD
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/hardware-implants-and-other-cyber-fud?u=76281980)
+#### [Hardware implants and other cyber FUD](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/hardware-implants-and-other-cyber-fud?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1183,11 +1169,11 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/hardware-implants-and-other-cyber-fud?u=76281980&t=57)** His overall take on the piece is that the technical details were taken from an earlier black hat presentation he'd made and were jumbled.
 >
-> **[1:06](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/hardware-implants-and-other-cyber-fud?u=76281980&t=66)** Another hardware FUD was unleashed when the reports started to emerge about two new computer chip exploits called Meltdown and Spectre.
+> **[1:06](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/hardware-implants-and-other-cyber-fud?u=76281980&t=66)** Another [[Hardware]] FUD was unleashed when the reports started to emerge about two new computer chip exploits called Meltdown and Spectre.
 >
 > **[1:14](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/hardware-implants-and-other-cyber-fud?u=76281980&t=74)** The initial reports indicated the vulnerabilities in these chips would leak passwords and sensitive data and could be used to steal data from other cloud users.
 >
-> **[1:24](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/hardware-implants-and-other-cyber-fud?u=76281980&t=84)** Another report from a computer consultancy company suggested that the current standards of security in the tech industry means that it was crucial that businesses contacted their highly qualified cybersecurity team to protect against Meltdown, Specter and future security threats.
+> **[1:24](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/hardware-implants-and-other-cyber-fud?u=76281980&t=84)** Another report from a computer consultancy company suggested that the current standards of security in the tech industry means that it was crucial that businesses contacted their highly qualified [[Cybersecurity]] team to protect against Meltdown, Specter and future security threats.
 >
 > **[1:42](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/hardware-implants-and-other-cyber-fud?u=76281980&t=102)** Adding to the drama, CNN reported that a US government backed body warned that the chips themselves needed to be replaced to completely fix the problems.
 >
@@ -1215,7 +1201,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (3), [[Cybersecurity]] (3), data (2), [[Security]] (2), cloud (1)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[Cybersecurity]] (3)
 > **Env Vars:** fud (3), cnn (1)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
@@ -1226,8 +1212,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The Orange Book: Early concepts in computer security
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/the-orange-book-early-concepts-in-computer-security?u=76281980)
+#### [The Orange Book: Early concepts in computer security](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/the-orange-book-early-concepts-in-computer-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1279,7 +1264,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/the-orange-book-early-concepts-in-computer-security?u=76281980&t=199)** The heart of a trusted computer system is its trusted computing base, which contains the elements of the system responsible for security, all within the security perimeter.
 >
-> **[3:30](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/the-orange-book-early-concepts-in-computer-security?u=76281980&t=210)** The TCB includes hardware, firmware, and software critical to protection.
+> **[3:30](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/the-orange-book-early-concepts-in-computer-security?u=76281980&t=210)** The TCB includes [[Hardware]], firmware, and software critical to protection.
 >
 > **[3:35](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/the-orange-book-early-concepts-in-computer-security?u=76281980&t=215)** It must be designed and implemented such that nothing outside the trusted computing base is sensitive or relevant to managing security.
 >
@@ -1295,15 +1280,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (16), data (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (1)
 > **Definitions:** known as (2), is an  (1)
 > **Env Vars:** tcb (2)
 > **Cross-References:** later in (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [man] (1)
 
-#### Understanding the NIST Cybersecurity Framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-nist-cybersecurity-framework-24575120?u=76281980)
+#### [Understanding the NIST Cybersecurity Framework](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-nist-cybersecurity-framework-24575120?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1315,9 +1299,9 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-nist-cybersecurity-framework-24575120?u=76281980&t=27)** Governments, business organizations, and individual owners and users of cyberspace must assume responsibility for and take steps to enhance the security of their information technologies."
 >
-> **[0:41](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-nist-cybersecurity-framework-24575120?u=76281980&t=41)** In response to this, in 2014, the US National Institute of Standards and Technology issued the framework for improving critical infrastructure cybersecurity.
+> **[0:41](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-nist-cybersecurity-framework-24575120?u=76281980&t=41)** In response to this, in 2014, the US National Institute of Standards and Technology issued the framework for improving critical infrastructure [[Cybersecurity]].
 >
-> **[0:53](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-nist-cybersecurity-framework-24575120?u=76281980&t=53)** In 2024, the NIST CSF version 2 was issued.
+> **[0:53](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-nist-cybersecurity-framework-24575120?u=76281980&t=53)** In 2024, the [[NIST]] CSF version 2 was issued.
 >
 > **[0:58](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-nist-cybersecurity-framework-24575120?u=76281980&t=58)** This framework has now become the defacto standard for cybersecurity.
 >
@@ -1331,7 +1315,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-nist-cybersecurity-framework-24575120?u=76281980&t=93)** Each of these activities is decomposed into a total of 22 categories of security activities.
 >
-> **[1:40](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-nist-cybersecurity-framework-24575120?u=76281980&t=100)** For example, we can see that the detect group decomposes into the two categories of continuous monitoring and adverse event analysis.
+> **[1:40](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-nist-cybersecurity-framework-24575120?u=76281980&t=100)** For example, we can see that the detect group decomposes into the two categories of [[Continuous Monitoring]] and adverse event analysis.
 >
 > **[1:52](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-nist-cybersecurity-framework-24575120?u=76281980&t=112)** Going deeper, we can see that each of the categories is further decomposed into a set of controls.
 >
@@ -1349,19 +1333,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[NIST]] (5), [[Security]] (3), business (1), [[Continuous Monitoring]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[NIST]] (5), [[Continuous Monitoring]] (1)
 > **Env Vars:** nist (5), iso (2), cobit (2), csf (1), isa (1)
 > **Definitions:** is a  (1), is an  (1), known as (1)
 > **Analogies:** for example (2)
 > **Versions:** version 2 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adopting the NIST Cybersecurity Framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/adopting-the-nist-cybersecurity-framework?u=76281980)
+#### [Adopting the NIST Cybersecurity Framework](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/adopting-the-nist-cybersecurity-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/adopting-the-nist-cybersecurity-framework?u=76281980&t=0)** - [Narrator] The second component of the NIST Cybersecurity Framework is the framework profile.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/adopting-the-nist-cybersecurity-framework?u=76281980&t=0)** - [Narrator] The second component of the [[NIST]] [[Cybersecurity]] Framework is the framework profile.
 >
 > **[0:06](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/adopting-the-nist-cybersecurity-framework?u=76281980&t=6)** This is used to align business outcomes and cybersecurity activities, providing a view of risks and a development plan to bridge the two.
 >
@@ -1399,14 +1382,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (14), [[NIST]] (3), business (3), management (3), next (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (14), [[NIST]] (3)
 > **Env Vars:** nist (3)
 > **Definitions:** is a  (1), known as (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Understanding the basics of cyber risk
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-basics-of-cyber-risk?u=76281980)
+#### [Understanding the basics of cyber risk](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-basics-of-cyber-risk?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1414,13 +1396,13 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-basics-of-cyber-risk?u=76281980&t=16)** Management needs to understand their level of risk exposure and make sure that it's within their risk appetite.
 >
-> **[0:24](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-basics-of-cyber-risk?u=76281980&t=24)** Cybersecurity is at its heart, the management of risk related to internet connected businesses.
+> **[0:24](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-basics-of-cyber-risk?u=76281980&t=24)** [[Cybersecurity]] is at its heart, the management of risk related to internet connected businesses.
 >
 > **[0:30](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-basics-of-cyber-risk?u=76281980&t=30)** This includes the threat of hackers and malicious software entering from the internet, the vulnerabilities of internet facing-IT systems and the attack countermeasures or controls, all of which affect how successful the business will be in meeting desired outcomes.
 >
 > **[0:49](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-basics-of-cyber-risk?u=76281980&t=49)** A standard approach to managing risk has been developed by the National Institute of Standards and Technology and its application is described in Special Publication 830, Guide for Conducting Risk Assessments.
 >
-> **[1:03](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-basics-of-cyber-risk?u=76281980&t=63)** The International Standards Organization also provides guidance with its ISO 27005, Information Security Risk Management Publication.
+> **[1:03](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-basics-of-cyber-risk?u=76281980&t=63)** The International Standards Organization also provides guidance with its ISO 27005, Information [[Security Risk]] Management Publication.
 >
 > **[1:14](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-basics-of-cyber-risk?u=76281980&t=74)** While there are minor terminology differences the intent of both documents is the same.
 >
@@ -1446,7 +1428,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-basics-of-cyber-risk?u=76281980&t=137)** Think about their capabilities and what it means for the sophistication of the attack.
 >
-> **[2:22](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-basics-of-cyber-risk?u=76281980&t=142)** The next risk issue to consider is the set of vulnerabilities in the information and processing assets, databases, workstations, servers and networks, which this event can exploit to cause damage.
+> **[2:22](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-basics-of-cyber-risk?u=76281980&t=142)** The next risk issue to consider is the set of vulnerabilities in the information and processing assets, [[Databases]], workstations, servers and networks, which this event can exploit to cause damage.
 >
 > **[2:40](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-basics-of-cyber-risk?u=76281980&t=160)** For instance, a data center in the basement of a building may be vulnerable to a flood event.
 >
@@ -1470,7 +1452,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (8), management (3), [[Security]] (2), data (2), power (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1), [[Security Risk]] (1), [[Databases]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** iso (1)
@@ -1478,24 +1460,23 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Analyzing cyber threats and controls
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/analyzing-cyber-threats-and-controls?u=76281980)
+#### [Analyzing cyber threats and controls](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/analyzing-cyber-threats-and-controls?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/analyzing-cyber-threats-and-controls?u=76281980&t=0)** - [Instructor] The cybersecurity risk management program starts with sourcing threat intelligence.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/analyzing-cyber-threats-and-controls?u=76281980&t=0)** - [Instructor] The [[Cybersecurity]] risk management program starts with sourcing threat intelligence.
 >
 > **[0:06](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/analyzing-cyber-threats-and-controls?u=76281980&t=6)** Let's have a look at some sources of threat intelligence.
 >
-> **[0:10](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/analyzing-cyber-threats-and-controls?u=76281980&t=10)** A useful catalog of threats can be found at Appendix E to the NIST Special Publication.
+> **[0:10](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/analyzing-cyber-threats-and-controls?u=76281980&t=10)** A useful catalog of threats can be found at Appendix E to the [[NIST]] Special Publication.
 >
 > **[0:16](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/analyzing-cyber-threats-and-controls?u=76281980&t=16)** This catalog provides representative examples of adversarial threat events expressed as tactics, techniques, and procedures, or TTPs, and non-adversarial threat events.
 >
-> **[0:30](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/analyzing-cyber-threats-and-controls?u=76281980&t=30)** Another useful source of TTPs is the Mitre ATT&CK site, which is used in Mitre's Cybersecurity Resiliency Framework.
+> **[0:30](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/analyzing-cyber-threats-and-controls?u=76281980&t=30)** Another useful source of TTPs is the Mitre ATT&CK site, which is used in Mitre's Cybersecurity [[Resiliency]] Framework.
 >
 > **[0:37](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/analyzing-cyber-threats-and-controls?u=76281980&t=37)** This is a detailed source of information on who the threat actors are and how they carry out their cyber attacks.
 >
-> **[0:45](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/analyzing-cyber-threats-and-controls?u=76281980&t=45)** Many of the threats that have been turned into exploits and are being seen in cyber attacks are listed in the Exploit-DB database.
+> **[0:45](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/analyzing-cyber-threats-and-controls?u=76281980&t=45)** Many of the threats that have been turned into exploits and are being seen in cyber attacks are listed in the [[Exploit-DB]] database.
 >
 > **[0:54](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/analyzing-cyber-threats-and-controls?u=76281980&t=54)** For example, here we see the details of an exploit against the SmartRG Router.
 >
@@ -1511,14 +1492,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (3), business (3), management (1), [[NIST]] (1), [[Resiliency]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[NIST]] (1), [[Resiliency]] (1), [[Exploit-DB]] (1)
 > **Analogies:** such as (2), for example (1)
 > **Env Vars:** nist (1), att (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Recording, reporting, and the risk context
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/recording-reporting-and-the-risk-context?u=76281980)
+#### [Recording, reporting, and the risk context](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/recording-reporting-and-the-risk-context?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1580,7 +1560,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), management (1), [[Automation]] (1)
 > **Definitions:** known as (1), is a  (1), refers to (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1), picture (1)
@@ -1589,16 +1568,15 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (jazzy music) (1)
 
-#### An advanced risk framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/an-advanced-risk-framework?u=76281980)
+#### [An advanced risk framework](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/an-advanced-risk-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/an-advanced-risk-framework?u=76281980&t=0)** - [Instructor] NIST, in December 2018, issued revision 2 to their original special publication on risk: SP 800-37: Risk Management Framework.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/an-advanced-risk-framework?u=76281980&t=0)** - [Instructor] [[NIST]], in December 2018, issued revision 2 to their original special publication on risk: SP 800-37: [[Risk Management Framework (RMF)|Risk Management Framework]].
 >
-> **[0:12](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/an-advanced-risk-framework?u=76281980&t=12)** The Risk Management Framework provides a disciplined, structured, and flexible process for managing security and privacy risk.
+> **[0:12](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/an-advanced-risk-framework?u=76281980&t=12)** The Risk Management Framework provides a disciplined, structured, and flexible process for managing security and [[Privacy]] risk.
 >
-> **[0:20](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/an-advanced-risk-framework?u=76281980&t=20)** It covers information security categorization, control selection, implementation, and assessment, system and common control authorizations, and continuous monitoring of risks.
+> **[0:20](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/an-advanced-risk-framework?u=76281980&t=20)** It covers information security categorization, control selection, implementation, and assessment, system and common control authorizations, and [[Continuous Monitoring]] of risks.
 >
 > **[0:34](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/an-advanced-risk-framework?u=76281980&t=34)** The Risk Management Framework considers risk at three levels: information systems risk, mission or business process risk, and whole of business risk.
 >
@@ -1628,7 +1606,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/an-advanced-risk-framework?u=76281980&t=216)** There are seven steps in this stage of the risk management life cycle: assess a selection based on candidate qualifications and target knowledge; develop the plan for the assessment; and carry out the assessment plan for the controls; report on the control effectiveness, providing findings and recommendations; remediate any findings that can be immediately rectified; and develop an overall plan of action for findings that can't be immediately rectified.
 >
-> **[4:10](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/an-advanced-risk-framework?u=76281980&t=250)** The purpose of the authorize stage is to provide organizational accountability, by requiring a senior manager to determine if the security and privacy risk represented by the overall set of risk management activities and plans is acceptable.
+> **[4:10](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/an-advanced-risk-framework?u=76281980&t=250)** The purpose of the authorize stage is to provide organizational [[Accountability]], by requiring a senior manager to determine if the security and privacy risk represented by the overall set of risk management activities and plans is acceptable.
 >
 > **[4:27](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/an-advanced-risk-framework?u=76281980&t=267)** This stage has five steps: for developing the submission, management review additional risk management response to any issues raised; approval of decisions for each system; and an authorization report.
 >
@@ -1640,13 +1618,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (10), [[Security]] (9), business (5), [[Privacy]] (4), [[Risk Management Framework (RMF)|Risk management framework]] (3)
+> **Frameworks & Libraries:** [[Privacy]] (4), [[Risk Management Framework (RMF)|Risk management framework]] (3), [[Continuous Monitoring]] (3), [[NIST]] (1), [[Accountability]] (1)
 > **Definitions:** known as (1), is a  (1)
 > **Env Vars:** nist (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing security with COBIT
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/managing-security-with-cobit?u=76281980)
+#### [Managing security with COBIT](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/managing-security-with-cobit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1672,7 +1649,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/managing-security-with-cobit?u=76281980&t=74)** Consequently, having a COBIT aligned security framework is the first step in putting in place an IT environment which will meet regulatory obligations.
 >
-> **[1:26](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/managing-security-with-cobit?u=76281980&t=86)** From a cybersecurity perspective, there are two key processes for security.
+> **[1:26](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/managing-security-with-cobit?u=76281980&t=86)** From a [[Cybersecurity]] perspective, there are two key processes for security.
 >
 > **[1:32](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/managing-security-with-cobit?u=76281980&t=92)** APO13, Managed Security, in the Plan group, and DSS05, Managed Security Services in the Deliver group.
 >
@@ -1680,9 +1657,9 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/managing-security-with-cobit?u=76281980&t=109)** For example, security incident management is an important activity but this falls within the overall IT process of DSS02, Managed Service Requests and Incidents.
 >
-> **[2:03](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/managing-security-with-cobit?u=76281980&t=123)** Let's take a look into APO13 Managed Security which defines the requirement for security management.
+> **[2:03](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/managing-security-with-cobit?u=76281980&t=123)** Let's take a look into APO13 Managed Security which defines the requirement for [[Security Management]].
 >
-> **[2:11](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/managing-security-with-cobit?u=76281980&t=131)** The process description is define, operate and monitor a system for information security management.
+> **[2:11](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/managing-security-with-cobit?u=76281980&t=131)** The process description is define, operate and monitor a system for [[Information Security Management]].
 >
 > **[2:18](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/managing-security-with-cobit?u=76281980&t=138)** And it has five goals: support IT and business compliance, support the management of IT and enterprise risk.
 >
@@ -1704,26 +1681,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (12), management (4), [[Information Security Management]] (4), [[Cybersecurity]] (1), business (1)
+> **Frameworks & Libraries:** [[Information Security Management]] (4), [[Cybersecurity]] (1), [[Security Management]] (1)
 > **Env Vars:** apo13 (6), cobit (5), isms (2), iso (2), isaca (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### COBIT for operational security
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cobit-for-operational-security?u=76281980)
+#### [COBIT for operational security](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cobit-for-operational-security?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cobit-for-operational-security?u=76281980&t=0)** - [Instructor] Let's look now at the second security-focused process, DSS05-Managed Security Services.
 >
-> **[0:08](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cobit-for-operational-security?u=76281980&t=8)** The description of this process is to protect enterprise information to maintain the level of information security risk acceptable to the enterprise in accordance with the security policy, establish and maintain information security roles and access privileges, and perform security monitoring.
+> **[0:08](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cobit-for-operational-security?u=76281980&t=8)** The description of this process is to protect enterprise information to maintain the level of information [[Security Risk]] acceptable to the enterprise in accordance with the security policy, establish and maintain information security roles and access privileges, and perform security monitoring.
 >
 > **[0:30](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cobit-for-operational-security?u=76281980&t=30)** Essentially, DSS05 defines the requirements of operational security.
 >
 > **[0:37](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cobit-for-operational-security?u=76281980&t=37)** DSS05 provides operational processes to satisfy three of the five APO13 goals, support IT and business compliance, support the management of IT and enterprise risk, and ensure the security of information, infrastructure, and applications.
 >
-> **[0:58](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cobit-for-operational-security?u=76281980&t=58)** There are seven operational security control objectives in DSS05, which provide the foundation for a defensive cybersecurity program.
+> **[0:58](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cobit-for-operational-security?u=76281980&t=58)** There are seven operational security control objectives in DSS05, which provide the foundation for a defensive [[Cybersecurity]] program.
 >
 > **[1:07](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cobit-for-operational-security?u=76281980&t=67)** Let's take a look at what's in each of them.
 >
@@ -1731,15 +1707,15 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cobit-for-operational-security?u=76281980&t=74)** Malware is one of the main challenges in cybersecurity today, and protecting against it involves a number of activities and controls.
 >
-> **[1:22](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cobit-for-operational-security?u=76281980&t=82)** These include antivirus, security patching, security information awareness, and in contemporary terms, cyber threat intelligence, change management, security filtering of email and web traffic, and security training.
+> **[1:22](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cobit-for-operational-security?u=76281980&t=82)** These include antivirus, security patching, security information awareness, and in contemporary terms, [[Cyber Threat Intelligence (CTI)|cyber threat intelligence]], change management, security filtering of email and web traffic, and security training.
 >
 > **[1:40](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cobit-for-operational-security?u=76281980&t=100)** The second control objective is manage network and connectivity security.
 >
-> **[1:47](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cobit-for-operational-security?u=76281980&t=107)** This includes establishing and enforcing policy on network connections, enforcement of password entry, the configuration and use of firewalls and intrusion detection systems, network security protocols and communications encryption, network configuration, security mechanisms to ensure trusted transmission and receipt, network security control testing and penetration testing.
+> **[1:47](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cobit-for-operational-security?u=76281980&t=107)** This includes establishing and enforcing policy on network connections, enforcement of password entry, the configuration and use of firewalls and [[Intrusion Detection]] systems, [[Network Security]] protocols and communications encryption, network configuration, security mechanisms to ensure trusted transmission and receipt, network security control testing and [[Penetration Testing]].
 >
 > **[2:18](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cobit-for-operational-security?u=76281980&t=138)** A critical control for this objective is network segregation.
 >
-> **[2:24](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cobit-for-operational-security?u=76281980&t=144)** Manage endpoint security covers the security of laptops, desktops, servers, mobile devices, and network equipment.
+> **[2:24](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cobit-for-operational-security?u=76281980&t=144)** Manage [[Endpoint Security]] covers the security of laptops, desktops, servers, mobile devices, and network equipment.
 >
 > **[2:33](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cobit-for-operational-security?u=76281980&t=153)** It requires that controls are put in place to ensure the endpoints are securely configured, hardened to remove unnecessary ports and protocols, and that remote access is managed.
 >
@@ -1753,7 +1729,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cobit-for-operational-security?u=76281980&t=223)** The fifth of these control objectives covers the management of physical access to IT assets.
 >
-> **[3:48](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cobit-for-operational-security?u=76281980&t=228)** This includes perimeter protection, such as fences, doors, and locks, intruder detection systems, access controls for data centers and office spaces, identity cards and visitor-management procedures.
+> **[3:48](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cobit-for-operational-security?u=76281980&t=228)** This includes perimeter protection, such as fences, doors, and locks, intruder detection systems, access controls for data centers and [[Microsoft Office|office]] spaces, identity cards and visitor-management procedures.
 >
 > **[4:05](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cobit-for-operational-security?u=76281980&t=245)** Increasingly, the use of cloud-based infrastructure is reducing the effort required to manage this area but increasing the dependence on and the oversight of third-party security.
 >
@@ -1773,19 +1749,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (24), management (8), [[Cybersecurity]] (4), [[Intrusion Detection]] (2), [[Network Security]] (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[Intrusion Detection]] (2), [[Network Security]] (2), [[Security Risk]] (1), [[Cyber Threat Intelligence (CTI)|Cyber threat intelligence]] (1)
 > **Env Vars:** dss05 (4), apo13 (1)
 > **Analogies:** such as (4)
 > **Definitions:** is a  (1), is an  (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to cybersecurity controls
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/introduction-to-cybersecurity-controls?u=76281980)
+#### [Introduction to cybersecurity controls](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/introduction-to-cybersecurity-controls?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/introduction-to-cybersecurity-controls?u=76281980&t=0)** - [Instructor] The term cybersecurity means to protect things in cyberspace from attack.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/introduction-to-cybersecurity-controls?u=76281980&t=0)** - [Instructor] The term [[Cybersecurity]] means to protect things in cyberspace from attack.
 >
 > **[0:05](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/introduction-to-cybersecurity-controls?u=76281980&t=5)** And we do this by using security controls.
 >
@@ -1825,7 +1800,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/introduction-to-cybersecurity-controls?u=76281980&t=118)** And a good example of this is recovery from data backups.
 >
-> **[2:04](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/introduction-to-cybersecurity-controls?u=76281980&t=124)** The NIST Cybersecurity Framework presents corrective as the respond and recover functional controls.
+> **[2:04](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/introduction-to-cybersecurity-controls?u=76281980&t=124)** The [[NIST]] Cybersecurity Framework presents corrective as the respond and recover functional controls.
 >
 > **[2:11](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/introduction-to-cybersecurity-controls?u=76281980&t=131)** Let's look at an example.
 >
@@ -1837,25 +1812,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Cybersecurity]] (2), [[Security]] (1), [[NIST]] (1), functional (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[NIST]] (1)
 > **Definitions:** known as (3), is a  (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** nist (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cybersecurity control framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-control-framework?u=76281980)
+#### [Cybersecurity control framework](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-control-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-control-framework?u=76281980&t=0)** - [Instructor] While controls can be applied by an enterprise as a customized response to business risks, in many cases, an external authority will direct that a predefined set of controls be adopted as a baseline for security.
 >
-> **[0:15](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-control-framework?u=76281980&t=15)** An example of government policy is SP 800-53, Security and Privacy Controls for Federal Information Systems and Organizations, which federal organizations are required to adopt.
+> **[0:15](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-control-framework?u=76281980&t=15)** An example of government policy is SP 800-53, Security and [[Privacy]] Controls for Federal Information Systems and Organizations, which federal organizations are required to adopt.
 >
-> **[0:29](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-control-framework?u=76281980&t=29)** An authority may be an industry body, such as the Payment Card Industry Council, which requires that merchants adhere to the Payment Card Industry Data Security Standard.
+> **[0:29](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-control-framework?u=76281980&t=29)** An authority may be an industry body, such as the Payment Card Industry Council, which requires that merchants adhere to the Payment Card Industry [[Data Security]] Standard.
 >
-> **[0:42](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-control-framework?u=76281980&t=42)** NIST's SP 800-53 is one of two important control frameworks used in cybersecurity, the other being ISO 27002.
+> **[0:42](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-control-framework?u=76281980&t=42)** [[NIST]]'s SP 800-53 is one of two important control frameworks used in [[Cybersecurity]], the other being ISO 27002.
 >
 > **[0:52](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-control-framework?u=76281980&t=52)** They're both structured as a set of control categories within each existing number of specific controls.
 >
@@ -1903,11 +1877,11 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-control-framework?u=76281980&t=245)** Operational effectiveness involves testing the system and making sure that the control is continuing to be effective against attack.
 >
-> **[4:13](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-control-framework?u=76281980&t=253)** For example, a penetration testing might attempt an SQL injection on the user identifier field in a log-on form to see whether access can be gained without entering valid credentials.
+> **[4:13](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-control-framework?u=76281980&t=253)** For example, a [[Penetration Testing]] might attempt an [[SQL]] injection on the user identifier field in a log-on form to see whether access can be gained without entering valid credentials.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), [[NIST]] (3), [[Cybersecurity]] (2), business (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[NIST]] (3), [[Cybersecurity]] (2), [[Privacy]] (1), [[Data Security]] (1), [[Penetration Testing]] (1)
 > **Env Vars:** iso (4), nist (3), sql (1)
 > **Analogies:** such as (2), for example (2)
 > **Versions:** 11.5.2 (2)
@@ -1915,22 +1889,21 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cybersecurity standards of good practice
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-standards-of-good-practice?u=76281980)
+#### [Cybersecurity standards of good practice](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-standards-of-good-practice?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-standards-of-good-practice?u=76281980&t=0)** - [Instructor] There are a number of industry standards of good practice which provide guidance on cybersecurity.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-standards-of-good-practice?u=76281980&t=0)** - [Instructor] There are a number of industry standards of good practice which provide guidance on [[Cybersecurity]].
 >
 > **[0:06](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-standards-of-good-practice?u=76281980&t=6)** The most well-known is the ISF Standard of Good Practice.
 >
 > **[0:10](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-standards-of-good-practice?u=76281980&t=10)** It's essentially a risk and control framework for managing cybersecurity.
 >
-> **[0:16](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-standards-of-good-practice?u=76281980&t=16)** The Standard of Good Practice is consistent with the major recognized information security standards such as ISO 27002, the NIST Cybersecurity Framework, COVIT and PCI DSS control standards.
+> **[0:16](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-standards-of-good-practice?u=76281980&t=16)** The Standard of Good Practice is consistent with the major recognized information security standards such as ISO 27002, the [[NIST]] Cybersecurity Framework, COVIT and PCI DSS control standards.
 >
-> **[0:30](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-standards-of-good-practice?u=76281980&t=30)** It also aligns with the controls required to satisfy Europe's General Data Privacy Regulations.
+> **[0:30](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-standards-of-good-practice?u=76281980&t=30)** It also aligns with the controls required to satisfy Europe's General [[Data Privacy]] Regulations.
 >
-> **[0:37](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-standards-of-good-practice?u=76281980&t=37)** It incorporates the ISF Risk Assessment Methodology or IRAM, which presents a risk management scheme with the three phases of business impact assessment, threat and vulnerability assessment and control selection.
+> **[0:37](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-standards-of-good-practice?u=76281980&t=37)** It incorporates the ISF Risk Assessment Methodology or IRAM, which presents a risk management scheme with the three phases of business impact assessment, threat and [[Vulnerability Assessment]] and control selection.
 >
 > **[0:53](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-standards-of-good-practice?u=76281980&t=53)** Let's have a look at what the ISF controls look like.
 >
@@ -1976,7 +1949,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (10), [[Cybersecurity]] (4), management (3), [[NIST]] (1), data (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[NIST]] (1), [[Data Privacy]] (1), [[Vulnerability Assessment]] (1)
 > **Env Vars:** isf (5), dnb (3), iso (1), nist (1), covit (1)
 > **Best Practices:** good practice (7)
 > **Definitions:** is a  (1), known as (1)
@@ -1989,8 +1962,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Architecting for security
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/architecting-for-security?u=76281980)
+#### [Architecting for security](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/architecting-for-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2062,21 +2034,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (25), [[Security]] (22), generic (1), management (1)
 > **Env Vars:** sabsa (6)
 > **Analogies:** such as (1), picture (1)
 > **Definitions:** known as (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Protecting payment card data
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/protecting-payment-card-data?u=76281980)
+#### [Protecting payment card data](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/protecting-payment-card-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/protecting-payment-card-data?u=76281980&t=0)** - [Narrator] Cyber criminals understand that credit cards are a lucrative target for attack.
 >
-> **[0:06](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/protecting-payment-card-data?u=76281980&t=6)** The payment card industry governing body, the PCI Council, has responded to this threat by issuing the PCI Data Security Standard as an actionable framework for developing a robust security regime for cardholder data.
+> **[0:06](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/protecting-payment-card-data?u=76281980&t=6)** The payment card industry governing body, the PCI Council, has responded to this threat by issuing the PCI [[Data Security]] Standard as an actionable framework for developing a robust security regime for cardholder data.
 >
 > **[0:25](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/protecting-payment-card-data?u=76281980&t=25)** More recently, and in the light of state sponsored attacks on personal and government data identified in the Snowden leaks, government regulators have enacted regulatory requirements for notification of data breaches.
 >
@@ -2148,7 +2118,7 @@ created: 2026-05-02
 >
 > **[5:00](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/protecting-payment-card-data?u=76281980&t=300)** The account number, when displayed, must be masked, typically by replacing all except the last four digits with asterisks.
 >
-> **[5:08](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/protecting-payment-card-data?u=76281980&t=308)** When stored, the account number must be protected through strong cryptography, or one-way hashing.
+> **[5:08](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/protecting-payment-card-data?u=76281980&t=308)** When stored, the account number must be protected through strong [[Cryptography]], or one-way hashing.
 >
 > **[5:15](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/protecting-payment-card-data?u=76281980&t=315)** Key management is a critical part of any cryptographic solution, and must be implemented effectively.
 >
@@ -2170,7 +2140,7 @@ created: 2026-05-02
 >
 > **[6:35](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/protecting-payment-card-data?u=76281980&t=395)** Threats and vulnerabilities should be monitored through vendor alerts and threat intelligence feeds, and critical security patches must be installed within one month of release.
 >
-> **[6:46](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/protecting-payment-card-data?u=76281980&t=406)** Development and test accounts must be removed before systems are put into production, and custom development must include source code review prior to implementation, with special attention given to common vulnerabilities, such as SQL injection and cross-site scripting.
+> **[6:46](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/protecting-payment-card-data?u=76281980&t=406)** Development and test accounts must be removed before systems are put into production, and custom development must include source [[Code Review]] prior to implementation, with special attention given to common vulnerabilities, such as [[SQL]] injection and cross-site scripting.
 >
 > **[7:04](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/protecting-payment-card-data?u=76281980&t=424)** Production account numbers must not be used for testing.
 >
@@ -2198,7 +2168,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), [[Security]] (14), business (3), traffic (2), next (2)
+> **Frameworks & Libraries:** [[Data Security]] (5), [[Cryptography]] (1), [[Code Review]] (1), [[SQL]] (1)
 > **Env Vars:** pci (14), byod (1), ssl (1), sql (1)
 > **Definitions:** is a  (3), is an  (1), means that (1)
 > **Analogies:** such as (4)
@@ -2207,16 +2177,15 @@ created: 2026-05-02
 > **Exercise Files:** source code (1)
 > **Prerequisites:** install (1)
 
-#### Clouding the issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/clouding-the-issues?u=76281980)
+#### [Clouding the issues](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/clouding-the-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/clouding-the-issues?u=76281980&t=0)** - [Instructor] Cloud technology is no longer a novel approach to deploying infrastructure, but is a mainstream option for enterprises.
 >
-> **[0:08](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/clouding-the-issues?u=76281980&t=8)** Cloud security solutions may be deployed by the enterprise IT team, or solutions may be deployed by business groups.
+> **[0:08](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/clouding-the-issues?u=76281980&t=8)** [[Cloud Security]] solutions may be deployed by the enterprise IT team, or solutions may be deployed by business groups.
 >
-> **[0:17](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/clouding-the-issues?u=76281980&t=17)** There are three forms of Cloud deployments in common use, infrastructure as a service, platform as a service and software as a service.
+> **[0:17](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/clouding-the-issues?u=76281980&t=17)** There are three [[Forms]] of Cloud deployments in common use, [[IaaS|infrastructure as a service]], [[PaaS|platform as a service]] and [[SaaS|software as a service]].
 >
 > **[0:27](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/clouding-the-issues?u=76281980&t=27)** However, there are many more specialist forms of Cloud service that can be used.
 >
@@ -2228,7 +2197,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/clouding-the-issues?u=76281980&t=61)** This is based on ISO 27002, and includes an additional six controls.
 >
-> **[1:08](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/clouding-the-issues?u=76281980&t=68)** NIST has produced the SP 800-144, "Guidelines on Security and Privacy in Public Cloud Computing," which refers back to the SP 853 controls.
+> **[1:08](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/clouding-the-issues?u=76281980&t=68)** [[NIST]] has produced the SP 800-144, "Guidelines on Security and [[Privacy]] in Public [[Cloud Computing]]," which refers back to the SP 853 controls.
 >
 > **[1:21](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/clouding-the-issues?u=76281980&t=81)** However, the main reference for Cloud security is the "Cloud Security Alliance Security Guidance" for critical areas of focus in Cloud computing, with its 14 areas of controls.
 >
@@ -2236,7 +2205,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/clouding-the-issues?u=76281980&t=103)** The guidance is supported by a Cloud controls matrix, which can be downloaded from the CSA site, shown here.
 >
-> **[1:51](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/clouding-the-issues?u=76281980&t=111)** The Cloud Controls Matrix provides the fundamental security principles that should be adopted by Cloud vendors and that can assist Cloud customers in assessing the overall security risk of a Cloud provider.
+> **[1:51](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/clouding-the-issues?u=76281980&t=111)** The Cloud Controls Matrix provides the fundamental security principles that should be adopted by Cloud vendors and that can assist Cloud customers in assessing the overall [[Security Risk]] of a Cloud provider.
 >
 > **[2:05](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/clouding-the-issues?u=76281980&t=125)** It provides clarity on the shared responsibilities between the Cloud service provider and customer, according to the form of Cloud.
 >
@@ -2252,18 +2221,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (25), [[Security]] (16), [[Forms]] (2), business (1), [[IaaS|Infrastructure as a service]] (1)
+> **Frameworks & Libraries:** [[Cloud Security]] (5), [[Cloud Computing]] (4), [[Forms]] (2), [[IaaS|Infrastructure as a service]] (1), [[PaaS|Platform as a service]] (1)
 > **Env Vars:** iso (3), nist (1), csa (1), ccm (1)
 > **Versions:** version 3 (1), 0.1 (1)
 > **Definitions:** is a  (1), known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Securing things on the internet
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/securing-things-on-the-internet?u=76281980)
+#### [Securing things on the internet](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/securing-things-on-the-internet?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/securing-things-on-the-internet?u=76281980&t=0)** - [Instructor] The Internet of Things is a term which means everything that's connected to the internet that isn't a standard laptop, workstation or server.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/securing-things-on-the-internet?u=76281980&t=0)** - [Instructor] The [[IoT|Internet of Things]] is a term which means everything that's connected to the internet that isn't a standard laptop, workstation or server.
 >
 > **[0:10](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/securing-things-on-the-internet?u=76281980&t=10)** One dictionary definition of the Internet of Things is the interconnection via the internet of computing devices embedded in everyday objects, enabling them to send and receive data.
 >
@@ -2277,13 +2245,13 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/securing-things-on-the-internet?u=76281980&t=69)** These are often required to have a life of 10 years or longer, and so require very low power operation.
 >
-> **[1:18](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/securing-things-on-the-internet?u=76281980&t=78)** One of the first organizations to provide guidance on security for the Internet of Things was the IoT Alliance Australia, a part of the Australian Communications Alliance.
+> **[1:18](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/securing-things-on-the-internet?u=76281980&t=78)** One of the first organizations to provide guidance on security for the Internet of Things was the [[IoT]] Alliance Australia, a part of the Australian Communications Alliance.
 >
 > **[1:32](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/securing-things-on-the-internet?u=76281980&t=92)** Its initial Internet of Things Security Guideline was published in February, 2017, and provides an introduction to IoT technology and the key IoT industry sectors.
 >
-> **[1:45](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/securing-things-on-the-internet?u=76281980&t=105)** It covers legal, privacy, security, resilience, and survivability issues, as well as IoT device development considerations.
+> **[1:45](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/securing-things-on-the-internet?u=76281980&t=105)** It covers legal, [[Privacy]], security, resilience, and survivability issues, as well as IoT device development considerations.
 >
-> **[1:59](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/securing-things-on-the-internet?u=76281980&t=119)** There is no definitive set of security controls for IoT, although organizations such as OWASP and GSMA have provided some guidance.
+> **[1:59](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/securing-things-on-the-internet?u=76281980&t=119)** There is no definitive set of security controls for IoT, although organizations such as [[OWASP]] and GSMA have provided some guidance.
 >
 > **[2:09](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/securing-things-on-the-internet?u=76281980&t=129)** The IoT Security Foundation has published a comprehensive set of 142 controls in their security guideline which are grouped into 13 areas of compliance.
 >
@@ -2311,7 +2279,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (11), [[Security]] (8), [[Internet of Things (IoT)|Internet of things]] (6), data (6), power (4)
+> **Frameworks & Libraries:** [[IoT]] (11), [[IoT|Internet of things]] (6), [[Privacy]] (1), [[OWASP]] (1)
 > **Env Vars:** owasp (1), gsma (1), scada (1)
 > **Definitions:** means that (2), is a  (1)
 > **Analogies:** such as (2)
@@ -2319,12 +2287,11 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Affordable cybersecurity
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/affordable-cybersecurity?u=76281980)
+#### [Affordable cybersecurity](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/affordable-cybersecurity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/affordable-cybersecurity?u=76281980&t=0)** - [Instructor] Commercial cybersecurity products and services can be very expensive, and often we'll pay for 100% of a product and use only five to 10% of its functionality.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/affordable-cybersecurity?u=76281980&t=0)** - [Instructor] Commercial [[Cybersecurity]] [[Microsoft Products|products]] and services can be very expensive, and often we'll pay for 100% of a product and use only five to 10% of its functionality.
 >
 > **[0:12](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/affordable-cybersecurity?u=76281980&t=12)** However, cybersecurity doesn't need to be expensive.
 >
@@ -2352,7 +2319,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/affordable-cybersecurity?u=76281980&t=106)** Unfortunately, the open source WAF solutions for Nginx have been pretty much discontinued, so this is a gap we'll need to address when we upgrade Nginx to Nginx Plus.
 >
-> **[1:57](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/affordable-cybersecurity?u=76281980&t=117)** We'll also want to have an intrusion detection system to monitor for malware coming through the network.
+> **[1:57](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/affordable-cybersecurity?u=76281980&t=117)** We'll also want to have an [[Intrusion Detection]] system to monitor for malware coming through the network.
 >
 > **[2:03](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/affordable-cybersecurity?u=76281980&t=123)** Suricata is an open source intrusion detection system that we can install.
 >
@@ -2360,7 +2327,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/affordable-cybersecurity?u=76281980&t=134)** There are a number of open source solutions for this, including ELK, which stands for Elastic, Logstash, and Kibana.
 >
-> **[2:21](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/affordable-cybersecurity?u=76281980&t=141)** These solutions provide dashboards and real-time log displays, which allow us to see everything that's happening on our networks and in our systems.
+> **[2:21](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/affordable-cybersecurity?u=76281980&t=141)** These solutions provide [[Dashboards]] and [[Real-Time]] log displays, which allow us to see everything that's happening on our networks and in our systems.
 >
 > **[2:30](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/affordable-cybersecurity?u=76281980&t=150)** Here's an example of the ELK solution running on Kali Purple.
 >
@@ -2384,7 +2351,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/affordable-cybersecurity?u=76281980&t=217)** Again, it's running on Kali Purple.
 >
-> **[3:40](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/affordable-cybersecurity?u=76281980&t=220)** Another open source threat hunting solution is SELKS, which is again built on Elasticsearch and Kibana.
+> **[3:40](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/affordable-cybersecurity?u=76281980&t=220)** Another open source threat hunting solution is SELKS, which is again built on [[Elasticsearch]] and Kibana.
 >
 > **[3:47](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/affordable-cybersecurity?u=76281980&t=227)** This is designed for smaller networks, and we can move to the commercial grade Stamus security platform as we outgrow the community version.
 >
@@ -2396,11 +2363,11 @@ created: 2026-05-02
 >
 > **[4:19](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/affordable-cybersecurity?u=76281980&t=259)** Putting open source or commercial tools in place is a good start to securing our networks, but it isn't the complete answer.
 >
-> **[4:27](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/affordable-cybersecurity?u=76281980&t=267)** Tools need trained staff to use them effectively, and cybersecurity requires lifelong learning.
+> **[4:27](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/affordable-cybersecurity?u=76281980&t=267)** Tools need trained staff to use them effectively, and cybersecurity requires [[Lifelong Learning]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (5), [[Microsoft Products|Products]] (4), web (3), product (2), traffic (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (5), [[Microsoft Products|Products]] (4), [[Intrusion Detection]] (2), [[Dashboards]] (1), [[Real-Time]] (1)
 > **Definitions:** is a  (4), is an  (2), stands for (1)
 > **Env Vars:** elk (2), dmz (1), waf (1), gvm (1), selks (1)
 > **CLI Commands:** nginx (4)
@@ -2409,8 +2376,7 @@ created: 2026-05-02
 > **Tools:** gitlab (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ensuring security is effective
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/making-sure-security-is-effective?u=76281980)
+#### [Ensuring security is effective](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/making-sure-security-is-effective?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2438,7 +2404,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/making-sure-security-is-effective?u=76281980&t=78)** Many organizations now gain certification against ISO 27000 for the whole business to demonstrate that their processes covering design, implementation, and operation of systems are secure.
 >
-> **[1:33](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/making-sure-security-is-effective?u=76281980&t=93)** Vendors may submit their products for evaluation in accordance with what's known as the Common Criteria scheme.
+> **[1:33](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/making-sure-security-is-effective?u=76281980&t=93)** Vendors may submit their [[Microsoft Products|products]] for evaluation in accordance with what's known as the Common Criteria scheme.
 >
 > **[1:40](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/making-sure-security-is-effective?u=76281980&t=100)** This provides an independent view of product assurance from a basic statement of document compliance to an increasingly rigorous level of evaluation.
 >
@@ -2460,16 +2426,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), [[Microsoft Products|Products]] (3), business (2), product (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3)
 > **Env Vars:** iso (1)
 > **Speakers:** - [instructor] (1)
 
-#### Protecting privacy with cybersecurity
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/protecting-privacy-with-cybersecurity?u=76281980)
+#### [Protecting privacy with cybersecurity](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/protecting-privacy-with-cybersecurity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/protecting-privacy-with-cybersecurity?u=76281980&t=1)** - [Instructor] The general data protection regulation of the European Union is a law which enforces the protection of the privacy of European citizens, with mandatory rules for how organizations and companies must use any information, which directly or indirectly could identify a living person.
+> **[0:01](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/protecting-privacy-with-cybersecurity?u=76281980&t=1)** - [Instructor] The general data protection regulation of the European Union is a law which enforces the protection of the [[Privacy]] of European citizens, with mandatory rules for how organizations and companies must use any information, which directly or indirectly could identify a living person.
 >
 > **[0:21](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/protecting-privacy-with-cybersecurity?u=76281980&t=21)** This is known as personal data, and a couple of simple examples are your name and phone number.
 >
@@ -2481,7 +2446,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/protecting-privacy-with-cybersecurity?u=76281980&t=46)** Personal data is to be processed in a lawful, fair, and transparent manner.
 >
-> **[0:52](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/protecting-privacy-with-cybersecurity?u=76281980&t=52)** These process characteristics don't involve cybersecurity directly.
+> **[0:52](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/protecting-privacy-with-cybersecurity?u=76281980&t=52)** These process characteristics don't involve [[Cybersecurity]] directly.
 >
 > **[0:57](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/protecting-privacy-with-cybersecurity?u=76281980&t=57)** It must be collected for a specific purpose and only used for that purpose.
 >
@@ -2491,7 +2456,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/protecting-privacy-with-cybersecurity?u=76281980&t=76)** It must be accurate and kept up to date.
 >
-> **[1:19](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/protecting-privacy-with-cybersecurity?u=76281980&t=79)** Cybersecurity capabilities can be used to maintain data integrity, which contributes to its accuracy.
+> **[1:19](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/protecting-privacy-with-cybersecurity?u=76281980&t=79)** Cybersecurity capabilities can be used to maintain [[Data Integrity]], which contributes to its accuracy.
 >
 > **[1:26](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/protecting-privacy-with-cybersecurity?u=76281980&t=86)** But keeping it up to date isn't a cybersecurity capability.
 >
@@ -2507,7 +2472,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/protecting-privacy-with-cybersecurity?u=76281980&t=130)** This requires businesses to ensure that their cybersecurity defenses continue to be effective against evolving cyber threats.
 >
-> **[2:19](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/protecting-privacy-with-cybersecurity?u=76281980&t=139)** A good GDPR compliance program involves risk assessments, ongoing maintenance of the security infrastructure, and continuous monitoring of networks in order to detect and respond to any intrusions.
+> **[2:19](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/protecting-privacy-with-cybersecurity?u=76281980&t=139)** A good GDPR compliance program involves risk assessments, ongoing maintenance of the security infrastructure, and [[Continuous Monitoring]] of networks in order to detect and respond to any intrusions.
 >
 > **[2:35](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/protecting-privacy-with-cybersecurity?u=76281980&t=155)** Some key cybersecurity controls for GDPR compliance include encryption of personal data, control of access to data, and regular audits.
 >
@@ -2515,7 +2480,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/protecting-privacy-with-cybersecurity?u=76281980&t=170)** An alternative to encryption of data is to mask or tokenize it, and this is a security control generally associated with privacy.
 >
-> **[3:00](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/protecting-privacy-with-cybersecurity?u=76281980&t=180)** In addition to the normal controls, a data privacy program needs to have breach notification protocols in the event of a data breach.
+> **[3:00](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/protecting-privacy-with-cybersecurity?u=76281980&t=180)** In addition to the normal controls, a [[Data Privacy]] program needs to have breach notification protocols in the event of a data breach.
 >
 > **[3:09](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/protecting-privacy-with-cybersecurity?u=76281980&t=189)** Other privacy specific controls include data minimization practices, data protection impact assessments, and implementing privacy by design principles.
 >
@@ -2523,13 +2488,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Cybersecurity]] (11), [[Privacy]] (6), [[Security]] (5), [[Continuous Monitoring]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (11), [[Privacy]] (5), [[Data Integrity]] (1), [[Continuous Monitoring]] (1), [[Data Privacy]] (1)
 > **Definitions:** is a  (4), known as (1)
 > **Env Vars:** gdpr (3)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding the zero trust approach to network access
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-zero-trust-approach-to-network-access?u=76281980)
+#### [Understanding the zero trust approach to network access](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-zero-trust-approach-to-network-access?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2537,19 +2501,19 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-zero-trust-approach-to-network-access?u=76281980&t=8)** It means that the security mechanisms that we use to protect our systems shouldn't make trust assumptions, but rather should assume that any access request could be malicious.
 >
-> **[0:18](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-zero-trust-approach-to-network-access?u=76281980&t=18)** The context for Zero Trust is the decision-making process which mediates access from a source or subject, which could be a person, a system, a serverless application or function, or an artificial intelligence to a resource or object, which could be data, a system, an application, or function, or another artificial intelligence.
+> **[0:18](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-zero-trust-approach-to-network-access?u=76281980&t=18)** The context for Zero Trust is the [[Decision-Making]] process which mediates access from a source or subject, which could be a person, a system, a serverless application or function, or an [[Artificial Intelligence (AI)|artificial intelligence]] to a resource or object, which could be data, a system, an application, or function, or another artificial intelligence.
 >
 > **[0:39](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-zero-trust-approach-to-network-access?u=76281980&t=39)** There are many definitions of Zero Trust.
 >
-> **[0:42](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-zero-trust-approach-to-network-access?u=76281980&t=42)** Here, we see that NIST defines Zero Trust as an evolving set of cybersecurity paradigms that move defenses from static network-based perimeters to focus on users, assets, and resources.
+> **[0:42](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-zero-trust-approach-to-network-access?u=76281980&t=42)** Here, we see that [[NIST]] defines Zero Trust as an evolving set of [[Cybersecurity]] paradigms that move defenses from static network-based perimeters to focus on users, assets, and resources.
 >
-> **[0:55](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-zero-trust-approach-to-network-access?u=76281980&t=55)** Microsoft has a slightly longer explanation rather than definition of Zero Trust.
+> **[0:55](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-zero-trust-approach-to-network-access?u=76281980&t=55)** [[Microsoft]] has a slightly longer explanation rather than definition of Zero Trust.
 >
 > **[1:00](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-zero-trust-approach-to-network-access?u=76281980&t=60)** However, we can see that the key sentence here is that every access request is fully authenticated, authorized, and encrypted before granting access.
 >
 > **[1:09](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-zero-trust-approach-to-network-access?u=76281980&t=69)** CrowdStrike considers Zero Trust to be a security concept that requires all users, even those inside the organization's enterprise network to be authenticated, authorized with a continuously validated security configuration and posture before being granted or keeping access to applications and data.
 >
-> **[1:28](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-zero-trust-approach-to-network-access?u=76281980&t=88)** The concept of Zero Trust first emerged from Forrester in 2011 in a report by John Kindervag.
+> **[1:28](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-zero-trust-approach-to-network-access?u=76281980&t=88)** The concept of Zero Trust first emerged from Forrester in 2011 in a report by [[John the Ripper|John]] Kindervag.
 >
 > **[1:37](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-zero-trust-approach-to-network-access?u=76281980&t=97)** The Forrester concept of Zero Trust is based on two principles.
 >
@@ -2579,21 +2543,20 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-zero-trust-approach-to-network-access?u=76281980&t=192)** This means that much of the risk, particularly around data breach, is avoided.
 >
-> **[3:16](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-zero-trust-approach-to-network-access?u=76281980&t=196)** And the final mechanism is real-time access policy, making dynamic policy adjustments using a rich source of environment information.
+> **[3:16](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-zero-trust-approach-to-network-access?u=76281980&t=196)** And the final mechanism is [[Real-Time]] access policy, making dynamic policy adjustments using a rich source of environment information.
 >
 > **[3:25](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-zero-trust-approach-to-network-access?u=76281980&t=205)** This enables access decisions to adapt to a more dynamic environment in which subject's rights and privileges and object sensitivities may change quickly.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), data (6), application (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Decision-Making]] (1), [[NIST]] (1), [[Cybersecurity]] (1), [[Microsoft]] (1)
 > **Definitions:** is a  (4), means that (2), is an  (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** abc (1), nist (1)
 > **Tools:** notion (1)
 > **Speakers:** - [instructor] (1)
 
-#### Resilience as an emerging approach
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/resilience-as-an-emerging-approach?u=76281980)
+#### [Resilience as an emerging approach](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/resilience-as-an-emerging-approach?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2609,11 +2572,11 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/resilience-as-an-emerging-approach?u=76281980&t=62)** It requires a risk management body to be established with overall responsibility for the risk strategy, setting risk policy, and defining roles and responsibilities.
 >
-> **[1:15](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/resilience-as-an-emerging-approach?u=76281980&t=75)** This body would approve such things as business continuity, incident response plans, third party services, and audits.
+> **[1:15](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/resilience-as-an-emerging-approach?u=76281980&t=75)** This body would approve such things as business continuity, [[Incident Response]] plans, third party services, and audits.
 >
 > **[1:24](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/resilience-as-an-emerging-approach?u=76281980&t=84)** Organizations are required to support risk management with a comprehensive set of information security policies.
 >
-> **[1:33](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/resilience-as-an-emerging-approach?u=76281980&t=93)** A documented risk management framework must be put in place, reviewed annually, and be included in the audit plan.
+> **[1:33](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/resilience-as-an-emerging-approach?u=76281980&t=93)** A documented [[Risk Management Framework (RMF)|risk management framework]] must be put in place, reviewed annually, and be included in the audit plan.
 >
 > **[1:42](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/resilience-as-an-emerging-approach?u=76281980&t=102)** The framework must specify the organization's risk tolerance and define key performance indicators for information security.
 >
@@ -2639,7 +2602,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/resilience-as-an-emerging-approach?u=76281980&t=202)** Organizations are required to perform vulnerability assessments before any technology deployment into the financial infrastructure, and then maintain a comprehensive program of ongoing resilience testing.
 >
-> **[3:35](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/resilience-as-an-emerging-approach?u=76281980&t=215)** This will include vulnerability scans, analysis of any open source solutions which are in place, assessment of system network and physical security, source code reviews, scenario based and end-to-end testing, and compatibility and performance testing.
+> **[3:35](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/resilience-as-an-emerging-approach?u=76281980&t=215)** This will include vulnerability scans, analysis of any open source solutions which are in place, assessment of system network and physical security, source code reviews, scenario based and [[End-to-end Testing]], and compatibility and performance testing.
 >
 > **[3:55](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/resilience-as-an-emerging-approach?u=76281980&t=235)** DORA introduces the concept of an advanced Threat-Led Penetration Test, or TLPT, which must be performed by accredited TLPT testers at least once every three years.
 >
@@ -2667,7 +2630,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (9), [[Security]] (7), business (5), [[Incident Response]] (2), [[Risk Management Framework (RMF)|Risk management framework]] (1)
+> **Frameworks & Libraries:** [[Incident Response]] (2), [[Risk Management Framework (RMF)|Risk management framework]] (1), [[End-to-end Testing]] (1)
 > **Env Vars:** dora (11), tlpt (2)
 > **Prerequisites:** required to (2)
 > **Exercise Files:** source code (1)
@@ -2676,8 +2639,7 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Warnings:** warning (1)
 
-#### Ensuring supply chain security through SBOMs
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/ensuring-supply-chain-security-through-sboms?u=76281980)
+#### [Ensuring supply chain security through SBOMs](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/ensuring-supply-chain-security-through-sboms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2685,7 +2647,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/ensuring-supply-chain-security-through-sboms?u=76281980&t=8)** A particular issue is the risk of malicious changes to open source libraries used to build software.
 >
-> **[0:15](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/ensuring-supply-chain-security-through-sboms?u=76281980&t=15)** As a result, the 2021 executive order on improving cybersecurity directed that vendors will provide details of the software components used in their solutions.
+> **[0:15](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/ensuring-supply-chain-security-through-sboms?u=76281980&t=15)** As a result, the 2021 executive order on improving [[Cybersecurity]] directed that vendors will provide details of the software components used in their solutions.
 >
 > **[0:28](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/ensuring-supply-chain-security-through-sboms?u=76281980&t=28)** The order directs vendors to provide a purchaser, a software bill of materials, or SBOM, for each product directly, or by publishing it on a public website.
 >
@@ -2701,7 +2663,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/ensuring-supply-chain-security-through-sboms?u=76281980&t=103)** Vendors must provide support for automation so that SBOM management can be scaled across the software ecosystem.
 >
-> **[1:51](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/ensuring-supply-chain-security-through-sboms?u=76281980&t=111)** Tooling of SBOM data management requires well-defined data formats and API specifications.
+> **[1:51](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/ensuring-supply-chain-security-through-sboms?u=76281980&t=111)** Tooling of SBOM [[Data Management]] requires well-defined data formats and API specifications.
 >
 > **[1:57](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/ensuring-supply-chain-security-through-sboms?u=76281980&t=117)** There are currently three main SBOM data formats, which are both machine and human readable, and these are interoperable, the Software Package Data Exchange or SPDX formats, CycloneDX, and the Software Identification.
 >
@@ -2715,17 +2677,17 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/ensuring-supply-chain-security-through-sboms?u=76281980&t=174)** And where a vendor wishes to control access to their SBOM data, accommodation must be made for purchasers to gain access to and use that data.
 >
-> **[3:03](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/ensuring-supply-chain-security-through-sboms?u=76281980&t=183)** Beyond the minimum elements, vendors are encouraged to provide additional information such as references to component entries, invulnerability databases, and license conditions.
+> **[3:03](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/ensuring-supply-chain-security-through-sboms?u=76281980&t=183)** Beyond the minimum elements, vendors are encouraged to provide additional information such as references to component entries, invulnerability [[Databases]], and license conditions.
 >
 > **[3:16](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/ensuring-supply-chain-security-through-sboms?u=76281980&t=196)** Providing assurance information such as a hash value of the component is also recommended.
 >
-> **[3:22](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/ensuring-supply-chain-security-through-sboms?u=76281980&t=202)** The way in which component vulnerabilities in software as a service is managed is different to that of on-premise products.
+> **[3:22](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/ensuring-supply-chain-security-through-sboms?u=76281980&t=202)** The way in which component vulnerabilities in [[SaaS|software as a service]] is managed is different to that of on-premise [[Microsoft Products|products]].
 >
 > **[3:30](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/ensuring-supply-chain-security-through-sboms?u=76281980&t=210)** The vendor must assert that they have defined and will manage their SBOM in line with the minimum element guidance.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), management (3), [[Cybersecurity]] (1), product (1), database (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1), [[Data Management]] (1), [[Databases]] (1), [[SaaS|Software as a service]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** sbom (13), api (1), spdx (1)
 > **Analogies:** such as (3), for example (1)
 > **Best Practices:** recommended (1)
@@ -2736,8 +2698,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Incident management basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/incident-management-basics?u=76281980)
+#### [Incident management basics](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/incident-management-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2745,7 +2706,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/incident-management-basics?u=76281980&t=12)** When that happens, the difference between inconvenience and disaster will be how well-prepared the organization is to respond to the incident.
 >
-> **[0:22](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/incident-management-basics?u=76281980&t=22)** NIST Cybersecurity Framework provides a set of control objectives under the functional area, Respond.
+> **[0:22](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/incident-management-basics?u=76281980&t=22)** [[NIST]] [[Cybersecurity]] Framework provides a set of control objectives under the functional area, Respond.
 >
 > **[0:29](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/incident-management-basics?u=76281980&t=29)** This consists of five categories: Planning, Communicate, Analysis, Mitigation, and Improvements.
 >
@@ -2761,7 +2722,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/incident-management-basics?u=76281980&t=92)** This includes threat intelligence in the preparation stage and operational response matters during an incident.
 >
-> **[1:40](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/incident-management-basics?u=76281980&t=100)** NIST established the Forum of Incident Response and Security Teams, or FIRST, in 1990, and this continues today as an active forum helping support the industry, government and vendor communities.
+> **[1:40](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/incident-management-basics?u=76281980&t=100)** NIST established the Forum of [[Incident Response]] and Security Teams, or FIRST, in 1990, and this continues today as an active forum helping support the industry, government and vendor communities.
 >
 > **[1:55](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/incident-management-basics?u=76281980&t=115)** FIRST runs workshops and conferences to foster cooperation and coordination in incident prevention to stimulate rapid reaction to incidents and where subject matter experts can meet to share information.
 >
@@ -2775,7 +2736,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/incident-management-basics?u=76281980&t=166)** CERTs also collaborate at the international level through the Forum of Incident Response Teams.
 >
-> **[2:52](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/incident-management-basics?u=76281980&t=172)** This involves not only maintaining national CERT-to-CERT channels, running training courses, and participating in annual conferences, but also being the main contact for CERTs to organizations such as the Global Forum of Security Experts and the International Telecommunications Union.
+> **[2:52](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/incident-management-basics?u=76281980&t=172)** This involves not only maintaining national CERT-to-CERT channels, running training courses, and participating in annual conferences, but also being the main contact for CERTs to organizations such as the Global Forum of Security Experts and the International [[Telecommunications]] Union.
 >
 > **[3:15](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/incident-management-basics?u=76281980&t=195)** It's useful to have a common language when talking about types of incidents and having a set of generic templates which are fit for purpose for each.
 >
@@ -2803,7 +2764,7 @@ created: 2026-05-02
 >
 > **[5:13](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/incident-management-basics?u=76281980&t=313)** Here's an example of a trouble ticket system called osTicket, displaying its list of open tickets.
 >
-> **[5:21](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/incident-management-basics?u=76281980&t=321)** The US Cybersecurity and Infrastructure Agency runs the National Initiative for Cybersecurity Careers and Studies, and through that, has published what is known as the NICE Framework, which describes workforce roles in cybersecurity.
+> **[5:21](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/incident-management-basics?u=76281980&t=321)** The US Cybersecurity and Infrastructure Agency runs the National Initiative for [[Cybersecurity Careers]] and Studies, and through that, has published what is known as the NICE Framework, which describes workforce roles in cybersecurity.
 >
 > **[5:38](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/incident-management-basics?u=76281980&t=338)** There are three roles related to incident response.
 >
@@ -2817,20 +2778,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (7), [[Incident Response]] (4), [[NIST]] (3), [[Security]] (3), teams (3)
+> **Frameworks & Libraries:** [[Cybersecurity]] (7), [[Incident Response]] (4), [[NIST]] (3), [[Telecommunications]] (1), [[Cybersecurity Careers]] (1)
 > **Env Vars:** cert (5), nist (3), first (2), nice (2)
 > **Analogies:** for example (1), such as (1)
 > **Code Identifiers:** osticket (1)
 > **Speakers:** - [instructor] (1)
 
-#### Measuring incident management maturity
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/measuring-incident-management-maturity?u=76281980)
+#### [Measuring incident management maturity](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/measuring-incident-management-maturity?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/measuring-incident-management-maturity?u=76281980&t=0)** - [Narrator] The effort put into preparing for an incident will be paid back many times over through a timely and effective response which contains the damage.
 >
-> **[0:10](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/measuring-incident-management-maturity?u=76281980&t=10)** Preparation involves establishing and training an incident response team, establishing and exercising processes, and acquiring the necessary tools and resources.
+> **[0:10](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/measuring-incident-management-maturity?u=76281980&t=10)** Preparation involves establishing and training an [[Incident Response]] team, establishing and exercising processes, and acquiring the necessary tools and resources.
 >
 > **[0:21](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/measuring-incident-management-maturity?u=76281980&t=21)** Once a basic program is up and running, it's useful to carry out a baseline survey of incident response preparedness.
 >
@@ -2850,11 +2810,11 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/measuring-incident-management-maturity?u=76281980&t=83)** A good example of this is the financial services FS-ISAC.
 >
-> **[1:30](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/measuring-incident-management-maturity?u=76281980&t=90)** FS-ISAC is an intelligence sharing community for the banking industry.
+> **[1:30](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/measuring-incident-management-maturity?u=76281980&t=90)** FS-ISAC is an intelligence sharing community for the [[Banking]] industry.
 >
-> **[1:34](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/measuring-incident-management-maturity?u=76281980&t=94)** This allows organizations to get early warnings and real-time information about the kind of activities that are impacting other members of the community.
+> **[1:34](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/measuring-incident-management-maturity?u=76281980&t=94)** This allows organizations to get early warnings and [[Real-Time]] information about the kind of activities that are impacting other members of the community.
 >
-> **[1:44](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/measuring-incident-management-maturity?u=76281980&t=104)** At an operational level, the use of mechanisms for distributing indicators of compromise provides real-time actionable intelligence for feeding into firewalls and intrusion detection devices.
+> **[1:44](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/measuring-incident-management-maturity?u=76281980&t=104)** At an operational level, the use of mechanisms for distributing indicators of compromise provides real-time actionable intelligence for feeding into firewalls and [[Intrusion Detection]] devices.
 >
 > **[1:58](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/measuring-incident-management-maturity?u=76281980&t=118)** MITRE has been leading the development of standards for operational feed mechanisms, and the STIX/TAXII protocols are widely recognized within the incident response community.
 >
@@ -2864,7 +2824,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/measuring-incident-management-maturity?u=76281980&t=145)** While a standard service management or IT operations ticket system may include incident tracking, it may not satisfy the full requirements for security incident handling.
 >
-> **[2:38](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/measuring-incident-management-maturity?u=76281980&t=158)** TheHive is an open source cybersecurity incident management system which runs in the cloud and allows multiple teams to collaborate on incident investigations.
+> **[2:38](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/measuring-incident-management-maturity?u=76281980&t=158)** TheHive is an open source [[Cybersecurity Incident Management]] system which runs in the cloud and allows multiple teams to collaborate on incident investigations.
 >
 > **[2:48](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/measuring-incident-management-maturity?u=76281980&t=168)** It enables automated analysis at scale of incoming incident information and includes integrated real-time threat intelligence.
 >
@@ -2886,7 +2846,7 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/measuring-incident-management-maturity?u=76281980&t=255)** With a team established, the key element of ongoing preparation is cyber crisis exercises.
 >
-> **[4:22](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/measuring-incident-management-maturity?u=76281980&t=262)** These exercise the incident response procedures as well as the skills of the team, and provide visibility of the impact of a cybersecurity incident on the organization.
+> **[4:22](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/measuring-incident-management-maturity?u=76281980&t=262)** These exercise the incident response procedures as well as the skills of the team, and provide visibility of the impact of a [[Cybersecurity]] incident on the organization.
 >
 > **[4:35](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/measuring-incident-management-maturity?u=76281980&t=275)** The initial website provides a substantial amount of training and exercise material which can be used for internal cert training and as the basis for customization to the wider crisis management program.
 >
@@ -2894,26 +2854,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Incident Response]] (9), management (5), [[Real-Time]] (3), teams (2), [[Banking]] (1)
+> **Frameworks & Libraries:** [[Incident Response]] (9), [[Real-Time]] (3), [[Banking]] (1), [[Intrusion Detection]] (1), [[Cybersecurity Incident Management]] (1)
 > **Env Vars:** isac (2), crest (1), mitre (1), stix (1), taxii (1)
 > **Definitions:** is a  (3), is an  (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
-#### Detecting an attack
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/detecting-an-attack?u=76281980)
+#### [Detecting an attack](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/detecting-an-attack?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/detecting-an-attack?u=76281980&t=0)** - [Instructor] Let's look at the operational response phases of incident response.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/detecting-an-attack?u=76281980&t=0)** - [Instructor] Let's look at the operational response phases of [[Incident Response]].
 >
-> **[0:05](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/detecting-an-attack?u=76281980&t=5)** In the NIST model of incident response these are detection and analysis, containment, eradication, and recovery, and post-incident activities.
+> **[0:05](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/detecting-an-attack?u=76281980&t=5)** In the [[NIST]] model of incident response these are detection and analysis, containment, eradication, and recovery, and post-incident activities.
 >
 > **[0:17](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/detecting-an-attack?u=76281980&t=17)** Detection and analysis is the non-stop process of monitoring for evidence of a cyber attack, and this is the job of the SOC analyst.
 >
 > **[0:27](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/detecting-an-attack?u=76281980&t=27)** During the detection phase, the SOC analyst is looking for evidence of malware or intrusive behavior coming into the organization from external sources.
 >
-> **[0:38](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/detecting-an-attack?u=76281980&t=38)** This will usually involve watching real-time alerting screens, which run 24-by-7.
+> **[0:38](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/detecting-an-attack?u=76281980&t=38)** This will usually involve watching [[Real-Time]] alerting screens, which run 24-by-7.
 >
 > **[0:44](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/detecting-an-attack?u=76281980&t=44)** The analyst is also looking for evidence of malware that has succeeded in penetrating the organization by running file scans and monitoring for signals going out to the malware's command and control servers.
 >
@@ -2967,11 +2926,11 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/detecting-an-attack?u=76281980&t=249)** Detection may involve correlating information over a period of time.
 >
-> **[4:13](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/detecting-an-attack?u=76281980&t=253)** Today's analytical tools tend to use big data analytics as a key strategy to detect long and slow APT infections.
+> **[4:13](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/detecting-an-attack?u=76281980&t=253)** Today's analytical tools tend to use [[Big Data Analytics]] as a key strategy to detect long and slow APT infections.
 >
 > **[4:22](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/detecting-an-attack?u=76281980&t=262)** Deep packet inspection can be used to provide a detailed snapshot of activity on a particular part of the network, and this may give more context to the precursor or indicator.
 >
-> **[4:34](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/detecting-an-attack?u=76281980&t=274)** Host-based packet capture tools such as Wireshark can be used, as can network-based devices such as FireEye and NetWitness.
+> **[4:34](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/detecting-an-attack?u=76281980&t=274)** Host-based packet capture tools such as [[Wireshark]] can be used, as can network-based devices such as FireEye and NetWitness.
 >
 > **[4:44](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/detecting-an-attack?u=76281980&t=284)** Once an indicator is turned into an incident, prioritization is perhaps the most critical decision point in the incident handling process.
 >
@@ -2979,15 +2938,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (3), [[Incident Response]] (2), [[Security]] (2), [[NIST]] (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Incident Response]] (2), [[NIST]] (1), [[Real-Time]] (1), [[Big Data Analytics]] (1), [[Wireshark]] (1)
 > **Env Vars:** soc (4), nist (1), elk (1), ids (1), apt (1)
 > **Analogies:** such as (6)
 > **CLI Commands:** make (1), apt (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Hunting for threats
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/hunting-for-threats?u=76281980)
+#### [Hunting for threats](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/hunting-for-threats?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3017,15 +2975,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1), [[Analytics]] (1), [[Security]] (1)
 > **CLI Commands:** find (2)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Responding to an incident
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/responding-to-an-incident?u=76281980)
+#### [Responding to an incident](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/responding-to-an-incident?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3065,7 +3021,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (1), management (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** mim (2)
 > **Analogies:** such as (1), for example (1)
@@ -3073,12 +3028,11 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Communications plan and notification
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/communications-plan-and-notification?u=76281980)
+#### [Communications plan and notification](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/communications-plan-and-notification?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/communications-plan-and-notification?u=76281980&t=0)** - [Instructor] One of the critical activities in any incident response is communications.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/communications-plan-and-notification?u=76281980&t=0)** - [Instructor] One of the critical activities in any [[Incident Response]] is communications.
 >
 > **[0:05](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/communications-plan-and-notification?u=76281980&t=5)** It's particularly important to get this right when we have to prepare our senior executives to face interviews with the media.
 >
@@ -3142,7 +3096,7 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/communications-plan-and-notification?u=76281980&t=241)** An example of this is the U.S. Securities and Exchange Commission ruling that came into force in December, 2023.
 >
-> **[4:09](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/communications-plan-and-notification?u=76281980&t=249)** This requires public companies to disclose material cybersecurity incidents within four days and disclose on an annual basis material information regarding their cybersecurity risk management, strategy and governance.
+> **[4:09](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/communications-plan-and-notification?u=76281980&t=249)** This requires public companies to disclose material [[Cybersecurity]] incidents within four days and disclose on an annual basis material information regarding their cybersecurity risk management, strategy and governance.
 >
 > **[4:26](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/communications-plan-and-notification?u=76281980&t=266)** In addition to disclosing the governance processes, directors will need to be able to evidence that they've in fact provided effective oversight of cybersecurity.
 >
@@ -3162,7 +3116,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (5), data (4), [[Security]] (2), [[Incident Response]] (1), product (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (5), [[Incident Response]] (1)
 > **CLI Commands:** make (6)
 > **Env Vars:** ceo (1), ciso (1), cio (1)
 > **Definitions:** is a  (1), known as (1)
@@ -3176,8 +3130,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Intoduction to AI security
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/intoduction-to-ai-security?u=76281980)
+#### [Intoduction to AI security](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/intoduction-to-ai-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3189,7 +3142,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/intoduction-to-ai-security?u=76281980&t=28)** At the heart of the AI model is a series of what are called vectors, multi-dimensional arrays of numbers containing what, in essence, are probabilities.
 >
-> **[0:39](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/intoduction-to-ai-security?u=76281980&t=39)** AI models work through numbers, so when we talk to an AI model, it converts our words into numbers, tokens in AI terminology, and it then ingests them.
+> **[0:39](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/intoduction-to-ai-security?u=76281980&t=39)** AI models work through numbers, so when we talk to an AI model, it converts our words into numbers, [[Tokens]] in AI terminology, and it then ingests them.
 >
 > **[0:51](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/intoduction-to-ai-security?u=76281980&t=51)** This representation of our inputs, called a prompt in AI terminology, then passes through the vectors using some form of algorithm, and a set of tokens is output.
 >
@@ -3201,7 +3154,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/intoduction-to-ai-security?u=76281980&t=84)** There's a number of additional processing steps through the layers of the model, until we come to the feed forward, which outputs the token string.
 >
-> **[1:31](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/intoduction-to-ai-security?u=76281980&t=91)** We won't go into the data science behind this, but if you're interested in learning about the actual maths of the AI model, do take a look at the other courses you'll find in the AI and data science parts of the LinkedIn Learning Library.
+> **[1:31](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/intoduction-to-ai-security?u=76281980&t=91)** We won't go into the [[Data Science]] behind this, but if you're interested in learning about the actual maths of the AI model, do take a look at the other courses you'll find in the AI and data science parts of the [[LinkedIn]] Learning Library.
 >
 > **[1:45](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/intoduction-to-ai-security?u=76281980&t=105)** Another key question with an AI model is how did those vectors get in there?
 >
@@ -3243,30 +3196,29 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/intoduction-to-ai-security?u=76281980&t=231)** Sadly, we've seen plenty of incidents involving AI models.
 >
-> **[3:55](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/intoduction-to-ai-security?u=76281980&t=235)** Here, an initial deployment of a chatbot called Tay by Microsoft caused a furor when it started producing toxic content.
+> **[3:55](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/intoduction-to-ai-security?u=76281980&t=235)** Here, an initial deployment of a chatbot called Tay by [[Microsoft]] caused a furor when it started producing toxic content.
 >
 > **[4:05](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/intoduction-to-ai-security?u=76281980&t=245)** In another incident, the chatbot used by Canadian Airlines gave a passenger wrong advice, and the airline was made to stand by what the chatbot advised.
 >
 > **[4:16](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/intoduction-to-ai-security?u=76281980&t=256)** In another incident, lawyers used a chatbot to generate precedents to take to court, but the opposing council identified them as hallucinated content.
 >
-> **[4:27](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/intoduction-to-ai-security?u=76281980&t=267)** if we're to be able to gain the value that's promised by AI, we need to have safe and responsible AI models to use, and that's what we'll cover in this course.
+> **[4:27](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/intoduction-to-ai-security?u=76281980&t=267)** if we're to be able to gain the value that's promised by AI, we need to have safe and [[Responsible AI]] models to use, and that's what we'll cover in this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (18), data (4), chatbot (4), [[Tokens]] (3), prompt (2)
+> **Frameworks & Libraries:** [[Tokens]] (3), [[Data Science]] (2), [[LinkedIn]] (1), [[Microsoft]] (1), [[Responsible AI]] (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1), known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understand the AI threats
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understand-the-ai-threats?u=76281980)
+#### [Understand the AI threats](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understand-the-ai-threats?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understand-the-ai-threats?u=76281980&t=0)** - [Instructor] The threats to an AI system can be described as a three tier model.
 >
-> **[0:05](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understand-the-ai-threats?u=76281980&t=5)** At the bottom, we have the traditional cybersecurity threats such as ransomware, unauthorized modification of data for which AI data sets is known as poisoning, theft of model files and so on.
+> **[0:05](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understand-the-ai-threats?u=76281980&t=5)** At the bottom, we have the traditional [[Cybersecurity]] threats such as ransomware, unauthorized modification of data for which AI data sets is known as poisoning, theft of model files and so on.
 >
 > **[0:19](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understand-the-ai-threats?u=76281980&t=19)** It's at this tier that we have to protect our applications from cyber attacks.
 >
@@ -3284,7 +3236,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understand-the-ai-threats?u=76281980&t=86)** As a result of misbehavior from our own and our service providers AI models.
 >
-> **[1:32](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understand-the-ai-threats?u=76281980&t=92)** OWASP has developed a top 10 list of threats as we see here.
+> **[1:32](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understand-the-ai-threats?u=76281980&t=92)** [[OWASP]] has developed a top 10 list of threats as we see here.
 >
 > **[1:37](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understand-the-ai-threats?u=76281980&t=97)** Prompt injection is a high profile attack
 >
@@ -3362,21 +3314,20 @@ created: 2026-05-02
 >
 > **[7:39](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understand-the-ai-threats?u=76281980&t=459)** This describes the process of running a prompt injection to override any preset restrictions.
 >
-> **[7:46](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understand-the-ai-threats?u=76281980&t=466)** And below we can see that generative AI guardrails are one of our mitigations.
+> **[7:46](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understand-the-ai-threats?u=76281980&t=466)** And below we can see that [[Generative AI]] guardrails are one of our mitigations.
 >
 > **[7:55](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understand-the-ai-threats?u=76281980&t=475)** In addition to the various phases of threats, the last column indicates the various impacts that can occur as a result of AI model compromise.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (24), prompt (8), data (7), [[Cybersecurity]] (2), llm (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[OWASP]] (1), [[Generative AI]] (1)
 > **Definitions:** is a  (5), refers to (2), known as (1), means that (1)
 > **Analogies:** such as (4), for example (1)
 > **Env Vars:** llm (2), owasp (1), api (1)
 > **CLI Commands:** make (2), find (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI application guardrails
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/ai-application-guardrails?u=76281980)
+#### [AI application guardrails](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/ai-application-guardrails?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3408,17 +3359,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), application (4), llm (4), prompt (2), [[Security]] (1)
 > **Env Vars:** llm (4)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### ISO42001 AI Management System
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/iso42001-ai-management-system?u=76281980)
+#### [ISO42001 AI Management System](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/iso42001-ai-management-system?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/iso42001-ai-management-system?u=76281980&t=1)** - [Instructor] The ISO 42001 standard covers the management of AI systems, and while it doesn't deal with AI security specifically, it does provide a useful framework for thinking about governance of AI security.
+> **[0:01](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/iso42001-ai-management-system?u=76281980&t=1)** - [Instructor] The ISO 42001 standard covers the management of AI systems, and while it doesn't deal with [[AI Security]] specifically, it does provide a useful framework for thinking about governance of AI security.
 >
 > **[0:16](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/iso42001-ai-management-system?u=76281980&t=16)** The standard includes an annex of control objectives.
 >
@@ -3434,7 +3383,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/iso42001-ai-management-system?u=76281980&t=73)** This is an important area, as it requires a detailed description of the data used in the AI system, and securing that data is a significant part of the AI security task.
 >
-> **[1:25](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/iso42001-ai-management-system?u=76281980&t=85)** Section seven of the standard also covers data in more detail, addressing issues of provenance, acquisition, quality, and data preparation.
+> **[1:25](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/iso42001-ai-management-system?u=76281980&t=85)** Section seven of the standard also covers data in more detail, addressing issues of provenance, acquisition, quality, and [[Data Preparation]].
 >
 > **[1:35](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/iso42001-ai-management-system?u=76281980&t=95)** This section specifically calls out the need for guidance on security and safety threats that can arise from data-dependent AI systems.
 >
@@ -3450,13 +3399,13 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/iso42001-ai-management-system?u=76281980&t=160)** This includes the purpose of the system, interactions with the system, oversight and guidance on overriding the system, and technical specifications in terms of computing resources, performance, and system limitations.
 >
-> **[2:57](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/iso42001-ai-management-system?u=76281980&t=177)** The remainder of the document covers responsible AI systems usage and third-party management.
+> **[2:57](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/iso42001-ai-management-system?u=76281980&t=177)** The remainder of the document covers [[Responsible AI]] systems usage and third-party management.
 >
 > **[3:05](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/iso42001-ai-management-system?u=76281980&t=185)** ISO 42001 is a high-level standard which provides businesses with guidance on the management of AI systems and offers the foundation for building specific AI security guidance.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (21), [[Security]] (8), data (6), management (3), business (1)
+> **Frameworks & Libraries:** [[AI Security]] (5), [[Data Preparation]] (1), [[Responsible AI]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** iso (2)
 > **Speakers:** - [instructor] (1)
@@ -3466,14 +3415,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cybersecurity goes global
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-goes-global?u=76281980)
+#### [Cybersecurity goes global](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-goes-global?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-goes-global?u=76281980&t=0)** - [Speaker] With the advent of the internet, there came a need to interconnect certain aspects of information technology.
 >
-> **[0:07](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-goes-global?u=76281980&t=7)** Telecommunications providers needed to be able to connect data services through global gateways, and with that, came the need to provide security at those gateways.
+> **[0:07](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-goes-global?u=76281980&t=7)** [[Telecommunications]] providers needed to be able to connect data services through global gateways, and with that, came the need to provide security at those gateways.
 >
 > **[0:17](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-goes-global?u=76281980&t=17)** Electronic information evolved from simple bulletin boards to sophisticated websites and a simple exchange of text messages evolved to the now ubiquitous electronic mail system.
 >
@@ -3487,7 +3435,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-goes-global?u=76281980&t=66)** Coordination of internet addressing is managed by the internet corporation for assigned names and numbers.
 >
-> **[1:14](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-goes-global?u=76281980&t=74)** ICANN, as it's known is an American-based organization responsible for the databases which determine internet naming and traffic routing.
+> **[1:14](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-goes-global?u=76281980&t=74)** ICANN, as it's known is an American-based organization responsible for the [[Databases]] which determine internet naming and traffic [[Routing]].
 >
 > **[1:25](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-goes-global?u=76281980&t=85)** While this arrangement is designed to ensure the stable and secure operation of the internet, it also gave America control of the internet.
 >
@@ -3499,7 +3447,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-goes-global?u=76281980&t=120)** China also was making sure that free information and western culture did not permeate the emerging Chinese cyberspace domain.
 >
-> **[2:10](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-goes-global?u=76281980&t=130)** The great firewall of China, with its estimated 50,000 cybersecurity defenders, carries out a highly effective program of cyber control and surveillance of its citizens.
+> **[2:10](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-goes-global?u=76281980&t=130)** The great firewall of China, with its estimated 50,000 [[Cybersecurity]] defenders, carries out a highly effective program of cyber control and surveillance of its citizens.
 >
 > **[2:22](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-goes-global?u=76281980&t=142)** By 2010, the West was becoming very nervous that the global economic miracle being realized through the internet was about to crash.
 >
@@ -3523,7 +3471,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-goes-global?u=76281980&t=200)** Human rights.
 >
-> **[3:22](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-goes-global?u=76281980&t=202)** The internet should encourage the right to privacy and protection of intellectual property for all people.
+> **[3:22](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-goes-global?u=76281980&t=202)** The internet should encourage the right to [[Privacy]] and protection of intellectual property for all people.
 >
 > **[3:29](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-goes-global?u=76281980&t=209)** Openness.
 >
@@ -3543,19 +3491,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), [[Telecommunications]] (1), data (1), [[Engineering]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Telecommunications]] (1), [[Databases]] (1), [[Routing]] (1), [[Cybersecurity]] (1), [[Privacy]] (1)
 > **Env Vars:** iso (1), osi (1), ietf (1), icann (1)
 > **Definitions:** known as (1), is an  (1)
 > **Speakers:** - [speaker] (1)
 
-#### Understanding cyber norms
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-cyber-norms?u=76281980)
+#### [Understanding cyber norms](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-cyber-norms?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-cyber-norms?u=76281980&t=0)** - [Instructor] The principles tabled at the First Cyberspace Conference have evolved into the United Nations Cyber Norms, the rules of normally acceptable behavior for any nation using the internet.
 >
-> **[0:13](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-cyber-norms?u=76281980&t=13)** These are managed by the group of governmental experts at the UN's Office for Disarmament Affairs, UNODA.
+> **[0:13](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-cyber-norms?u=76281980&t=13)** These are managed by the group of governmental experts at the UN's [[Microsoft Office|Office]] for Disarmament Affairs, UNODA.
 >
 > **[0:22](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-cyber-norms?u=76281980&t=22)** The United Nations encourages peaceful use of the internet through adherence to the set of cyber norms and through an active program of cyber diplomacy.
 >
@@ -3563,7 +3510,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-cyber-norms?u=76281980&t=43)** Implementing cyber norms isn't always easy, however.
 >
-> **[0:47](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-cyber-norms?u=76281980&t=47)** The first cyber norm is cooperation between states in order to increase stability and cybersecurity, and to discourage harmful cyber practices, particularly those that might impose threats to international peace and security.
+> **[0:47](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-cyber-norms?u=76281980&t=47)** The first cyber norm is cooperation between states in order to increase stability and [[Cybersecurity]], and to discourage harmful cyber practices, particularly those that might impose threats to international peace and security.
 >
 > **[1:03](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-cyber-norms?u=76281980&t=63)** There's been a lot of progress on cooperation, with nations maintaining a technical focus and avoiding political issues.
 >
@@ -3585,7 +3532,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-cyber-norms?u=76281980&t=138)** The norm suggests that nations exchange information, assist each other and pursue prosecution as part of bi and multilateral cooperation.
 >
-> **[2:29](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-cyber-norms?u=76281980&t=149)** The fifth cyber norm is to respect human rights on the internet, including freedom of expression and privacy online.
+> **[2:29](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-cyber-norms?u=76281980&t=149)** The fifth cyber norm is to respect human rights on the internet, including freedom of expression and [[Privacy]] online.
 >
 > **[2:37](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-cyber-norms?u=76281980&t=157)** There are many cultural challenges in meeting this norm and challenges also with the growing use of misinformation and oversight of social media.
 >
@@ -3601,7 +3548,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-cyber-norms?u=76281980&t=219)** The ninth cyber norm is to take steps to protect the supply chain from being compromised.
 >
-> **[3:45](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-cyber-norms?u=76281980&t=225)** Starting with nations where information technology products are designed and developed.
+> **[3:45](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-cyber-norms?u=76281980&t=225)** Starting with nations where information technology [[Microsoft Products|products]] are designed and developed.
 >
 > **[3:50](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-cyber-norms?u=76281980&t=230)** This is a challenging norm for technology-producing countries where the temptation to subvert equipment is high.
 >
@@ -3627,14 +3574,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (4), [[Microsoft Office|Office]] (1), [[Cybersecurity]] (1), [[Security]] (1), bi (1)
+> **Frameworks & Libraries:** [[Privacy]] (4), [[Microsoft Office|Office]] (1), [[Cybersecurity]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (4)
 > **Env Vars:** unoda (2)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cybil and the Global Forum on Cyber Expertise
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybil-and-the-global-forum-on-cyber-expertise?u=76281980)
+#### [Cybil and the Global Forum on Cyber Expertise](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybil-and-the-global-forum-on-cyber-expertise?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3642,7 +3588,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybil-and-the-global-forum-on-cyber-expertise?u=76281980&t=12)** At the New Delhi GCCS meeting in 2017, the GFCE launched the Global Agenda for Cyber Capacity building, and in doing so became the global coordinating body for capacity building.
 >
-> **[0:29](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybil-and-the-global-forum-on-cyber-expertise?u=76281980&t=29)** The GFCE has five themes, cybersecurity policy and strategy, cyber incident management and critical infrastructure protection, countering cyber crime, cybersecurity culture and skills, and cybersecurity standards.
+> **[0:29](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybil-and-the-global-forum-on-cyber-expertise?u=76281980&t=29)** The GFCE has five themes, [[Cybersecurity]] policy and strategy, cyber incident management and critical infrastructure protection, countering cyber crime, cybersecurity culture and skills, and cybersecurity standards.
 >
 > **[0:52](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybil-and-the-global-forum-on-cyber-expertise?u=76281980&t=52)** The GFCE encourages voluntary participation by governments, private companies, civil society, the technology industry, and academia, in order to share expertise.
 >
@@ -3658,16 +3604,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (4), management (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (4)
 > **Env Vars:** gfce (6), gccs (2)
 > **Speakers:** - [narrator] (1)
 
-#### The Traffic Light Protocol
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/the-traffic-light-protocol?u=76281980)
+#### [The Traffic Light Protocol](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/the-traffic-light-protocol?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/the-traffic-light-protocol?u=76281980&t=0)** - [Instructor] As cybersecurity collaboration between governments and private industry and other nations has grown, it became apparent there was a need for managing information exchange without resorting to national classification schemes.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/the-traffic-light-protocol?u=76281980&t=0)** - [Instructor] As [[Cybersecurity]] collaboration between governments and private industry and other nations has grown, it became apparent there was a need for managing information exchange without resorting to national classification schemes.
 >
 > **[0:15](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/the-traffic-light-protocol?u=76281980&t=15)** Information needed to flow freely to those that needed it but not be accessible to the point where it compromised the global cybersecurity activities it was intending to assist.
 >
@@ -3691,7 +3636,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/the-traffic-light-protocol?u=76281980&t=101)** This may be an individual or a committee.
 >
-> **[1:44](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/the-traffic-light-protocol?u=76281980&t=104)** Unauthorized disclosure of TLP Red information could lead to impacts on a party's privacy, reputation, or operations if misused.
+> **[1:44](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/the-traffic-light-protocol?u=76281980&t=104)** Unauthorized disclosure of TLP Red information could lead to impacts on a party's [[Privacy]], reputation, or operations if misused.
 >
 > **[1:54](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/the-traffic-light-protocol?u=76281980&t=114)** Examples of TLP Red might include tentative attribution of a cyber attack.
 >
@@ -3699,7 +3644,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (2), traffic (2), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Privacy]] (1)
 > **Env Vars:** tlp (4), enisa (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -3709,24 +3654,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What's next
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/what-s-next?u=76281980)
+#### [What's next](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/what-s-next?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/what-s-next?u=76281980&t=0)** - [Host] I'd really like to thank you for joining me for this LinkedIn Learning Course.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/what-s-next?u=76281980&t=0)** - [Host] I'd really like to thank you for joining me for this [[LinkedIn]] Learning Course.
 >
-> **[0:04](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/what-s-next?u=76281980&t=4)** I hope you enjoyed learning about cybersecurity.
+> **[0:04](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/what-s-next?u=76281980&t=4)** I hope you enjoyed learning about [[Cybersecurity]].
 >
 > **[0:08](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/what-s-next?u=76281980&t=8)** This course is just the beginning and there's much more to learn about cybersecurity, whether you've got a casual or professional interest.
 >
-> **[0:19](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/what-s-next?u=76281980&t=19)** There's always something new in cybersecurity, and if you're interested in learning more, then check out the full security segment of the library where new security testing courses are added regularly.
+> **[0:19](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/what-s-next?u=76281980&t=19)** There's always something new in cybersecurity, and if you're interested in learning more, then check out the full security segment of the library where new [[Security Testing]] courses are added regularly.
 >
-> **[0:31](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/what-s-next?u=76281980&t=31)** You'll find courses on a range of security topics including the new cloud and Internet of Things technologies.
+> **[0:31](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/what-s-next?u=76281980&t=31)** You'll find courses on a range of security topics including the new cloud and [[IoT|Internet of Things]] technologies.
 >
 > **[0:39](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/what-s-next?u=76281980&t=39)** I'd also like to invite you to go to my author page where you can find some additional courses on cybersecurity.
 >
-> **[0:46](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/what-s-next?u=76281980&t=46)** If you're interested in ethical hacking then you'll find courses which will help you gain your certificate of ethical hacking.
+> **[0:46](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/what-s-next?u=76281980&t=46)** If you're interested in [[Ethical Hacking]] then you'll find courses which will help you gain your certificate of ethical hacking.
 >
 > **[0:53](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/what-s-next?u=76281980&t=53)** If you want to learn about some of the basic tools used in cybersecurity then cybersecurity for IT professionals is for you.
 >
@@ -3734,7 +3678,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[Security]] (3), [[Ethical Hacking]] (2), [[LinkedIn]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[Ethical Hacking]] (2), [[LinkedIn]] (1), [[Security Testing]] (1), [[IoT|Internet of things]] (1)
 > **CLI Commands:** find (3)
 > **Speakers:** - [host] (1)
 

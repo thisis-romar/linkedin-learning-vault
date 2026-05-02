@@ -87,12 +87,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learn Terraform for your cloud infrastructure
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-terraform-15575129/learn-terraform-for-your-cloud-infrastructure?u=76281980)
+#### [Learn Terraform for your cloud infrastructure](https://www.linkedin.com/learning/learning-terraform-15575129/learn-terraform-for-your-cloud-infrastructure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-terraform-15575129/learn-terraform-for-your-cloud-infrastructure?u=76281980&t=0)** - [Josh] Terraform is a powerful tool for defining, deploying, and managing cloud infrastructure.
+> **[0:00](https://www.linkedin.com/learning/learning-terraform-15575129/learn-terraform-for-your-cloud-infrastructure?u=76281980&t=0)** - [Josh] [[Terraform]] is a powerful tool for defining, deploying, and managing [[Cloud Infrastructure]].
 >
 > **[0:06](https://www.linkedin.com/learning/learning-terraform-15575129/learn-terraform-for-your-cloud-infrastructure?u=76281980&t=6)** In this course, we'll focus on hands-on work, spinning up resources in Amazon AWS, and iterating on our code as we go.
 >
@@ -108,22 +107,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (3), [[Cloud Infrastructure]] (1), aws (1), functional (1), cloud (1)
+> **Frameworks & Libraries:** [[Terraform]] (3), [[Cloud Infrastructure]] (1)
 > **CLI Commands:** terraform (3), aws (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** aws (1)
 > **Speakers:** - [josh] (1)
 
-#### What you need
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-terraform-15575129/what-you-need?u=76281980)
+#### [What you need](https://www.linkedin.com/learning/learning-terraform-15575129/what-you-need?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-terraform-15575129/what-you-need?u=76281980&t=0)** - [Instructor] Before we get started, let's cover what you'll need and what you'll need to know before starting this course.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-terraform-15575129/what-you-need?u=76281980&t=7)** To keep things focused on Terraform itself, all of the exercises for this course will take place in a web browser using cloud-based services, so there's no need for a powerful workstation.
+> **[0:07](https://www.linkedin.com/learning/learning-terraform-15575129/what-you-need?u=76281980&t=7)** To keep things focused on [[Terraform]] itself, all of the exercises for this course will take place in a web browser using cloud-based services, so there's no need for a powerful workstation.
 >
-> **[0:20](https://www.linkedin.com/learning/learning-terraform-15575129/what-you-need?u=76281980&t=20)** Although we'll be using GitHub in this course for editing and managing Terraform code, we'll be sticking to the most basic features, so you don't really need to know Git to follow along.
+> **[0:20](https://www.linkedin.com/learning/learning-terraform-15575129/what-you-need?u=76281980&t=20)** Although we'll be using [[GitHub]] in this course for editing and managing Terraform code, we'll be sticking to the most basic features, so you don't really need to know [[Git]] to follow along.
 >
 > **[0:30](https://www.linkedin.com/learning/learning-terraform-15575129/what-you-need?u=76281980&t=30)** Terraform works on many different cloud platforms.
 >
@@ -135,19 +133,19 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/learning-terraform-15575129/what-you-need?u=76281980&t=51)** You certainly don't need to be an AWS expert to be successful in this course, but ideally, you'll have some familiarity with different types of AWS resources and how to work with it.
 >
-> **[1:03](https://www.linkedin.com/learning/learning-terraform-15575129/what-you-need?u=76281980&t=63)** If you're very experienced with another platform, like Google Cloud or Azure, you'll probably be fine, as well, if you're willing to do a little mental translation between different resources.
+> **[1:03](https://www.linkedin.com/learning/learning-terraform-15575129/what-you-need?u=76281980&t=63)** If you're very experienced with another platform, like [[Google Cloud Platform (GCP)|Google Cloud]] or [[Microsoft Azure|Azure]], you'll probably be fine, as well, if you're willing to do a little mental translation between different resources.
 >
 > **[1:15](https://www.linkedin.com/learning/learning-terraform-15575129/what-you-need?u=76281980&t=75)** Since this course is about Terraform itself, we're not actually going to be doing much with the systems and infrastructure that we set up.
 >
 > **[1:22](https://www.linkedin.com/learning/learning-terraform-15575129/what-you-need?u=76281980&t=82)** That means you don't really need to be an expert in managing servers for this course.
 >
-> **[1:27](https://www.linkedin.com/learning/learning-terraform-15575129/what-you-need?u=76281980&t=87)** You should know the basics of how to work in Windows or Linux.
+> **[1:27](https://www.linkedin.com/learning/learning-terraform-15575129/what-you-need?u=76281980&t=87)** You should know the basics of how to work in [[Windows]] or [[Linux]].
 >
 > **[1:31](https://www.linkedin.com/learning/learning-terraform-15575129/what-you-need?u=76281980&t=91)** And we'll get into some basic networking concepts, so you'll need familiarity there as well.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (4), aws (4), cloud (2), web (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Terraform]] (4), [[GitHub]] (1), [[Git]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Microsoft Azure|Azure]] (1)
 > **CLI Commands:** terraform (4), aws (4), git (1)
 > **Prerequisites:** you'll need (4), set up (1)
 > **Env Vars:** aws (4)
@@ -159,12 +157,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Terraform?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-terraform-15575129/what-is-terraform?u=76281980)
+#### [What is Terraform?](https://www.linkedin.com/learning/learning-terraform-15575129/what-is-terraform?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-terraform-15575129/what-is-terraform?u=76281980&t=0)** - [Instructor] I'm guessing you already have some idea what Terraform is, but let's review.
+> **[0:00](https://www.linkedin.com/learning/learning-terraform-15575129/what-is-terraform?u=76281980&t=0)** - [Instructor] I'm guessing you already have some idea what [[Terraform]] is, but let's review.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-terraform-15575129/what-is-terraform?u=76281980&t=5)** Terraform is an infrastructure management tool made by HashiCorp, that lets you provision, manage, and maintain cloud resources, servers, networking, storage, etcetera, all in one centralized set of code.
 >
@@ -202,7 +199,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/learning-terraform-15575129/what-is-terraform?u=76281980&t=160)** Terraform is able to manage these, but it's beyond the scope of what we'll cover in this course.
 >
-> **[2:46](https://www.linkedin.com/learning/learning-terraform-15575129/what-is-terraform?u=76281980&t=166)** Terraform is able to work directly with Docker and Kubernetes offering a couple of approaches for container based workloads.
+> **[2:46](https://www.linkedin.com/learning/learning-terraform-15575129/what-is-terraform?u=76281980&t=166)** Terraform is able to work directly with Docker and [[Kubernetes]] offering a couple of approaches for container based workloads.
 >
 > **[2:54](https://www.linkedin.com/learning/learning-terraform-15575129/what-is-terraform?u=76281980&t=174)** That support for Kubernetes could even be paired with Amazon's Kubernetes Service, or another cloud provider.
 >
@@ -210,7 +207,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (16), [[Kubernetes]] (5), management (4), cloud (4), application (3)
+> **Frameworks & Libraries:** [[Terraform]] (16), [[Kubernetes]] (5)
 > **CLI Commands:** terraform (16), make (1), docker (1)
 > **Definitions:** is a  (2), is an  (1), is called (1)
 > **Analogies:** for example (1), picture (1)
@@ -219,14 +216,13 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Your Terraform code repo
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-terraform-15575129/your-terraform-code-repo?u=76281980)
+#### [Your Terraform code repo](https://www.linkedin.com/learning/learning-terraform-15575129/your-terraform-code-repo?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-terraform-15575129/your-terraform-code-repo?u=76281980&t=0)** - [Instructor] In this lesson, we'll be setting up a GitHub Repo that will hold our Terraform code.
+> **[0:00](https://www.linkedin.com/learning/learning-terraform-15575129/your-terraform-code-repo?u=76281980&t=0)** - [Instructor] In this lesson, we'll be setting up a [[GitHub]] Repo that will hold our [[Terraform]] code.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-terraform-15575129/your-terraform-code-repo?u=76281980&t=5)** There's a great introductory course on LinkedIn Learning for how to use GitHub for exercise files.
+> **[0:05](https://www.linkedin.com/learning/learning-terraform-15575129/your-terraform-code-repo?u=76281980&t=5)** There's a great introductory course on [[LinkedIn]] Learning for how to use GitHub for exercise files.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-terraform-15575129/your-terraform-code-repo?u=76281980&t=10)** We won't be using advanced GitHub features, so even if you've never used it, you should still be able to follow along.
 >
@@ -270,16 +266,15 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up AWS for Terraform
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-terraform-15575129/setting-up-aws-for-terraform-19299605?u=76281980)
+#### [Setting up AWS for Terraform](https://www.linkedin.com/learning/learning-terraform-15575129/setting-up-aws-for-terraform-19299605?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-terraform-15575129/setting-up-aws-for-terraform-19299605?u=76281980&t=0)** - [Instructor] We'll need to set up an AWS account for use with Terraform.
+> **[0:00](https://www.linkedin.com/learning/learning-terraform-15575129/setting-up-aws-for-terraform-19299605?u=76281980&t=0)** - [Instructor] We'll need to set up an AWS account for use with [[Terraform]].
 >
 > **[0:03](https://www.linkedin.com/learning/learning-terraform-15575129/setting-up-aws-for-terraform-19299605?u=76281980&t=3)** I'm going to move quickly through this since this course is primarily focused on Terraform and not on AWS.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-terraform-15575129/setting-up-aws-for-terraform-19299605?u=76281980&t=10)** If you'd like more depth on AWS itself, there is a lot of good content in the LinkedIn Learning Library.
+> **[0:10](https://www.linkedin.com/learning/learning-terraform-15575129/setting-up-aws-for-terraform-19299605?u=76281980&t=10)** If you'd like more depth on AWS itself, there is a lot of good content in the [[LinkedIn]] Learning Library.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-terraform-15575129/setting-up-aws-for-terraform-19299605?u=76281980&t=17)** I'm going to assume you've already got an AWS account.
 >
@@ -367,7 +362,7 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/learning-terraform-15575129/setting-up-aws-for-terraform-19299605?u=76281980&t=237)** It's important to realize that these are full administrator credentials to your AWS account, so you should treat them like you would the username and password to your bank.
 >
-> **[4:07](https://www.linkedin.com/learning/learning-terraform-15575129/setting-up-aws-for-terraform-19299605?u=76281980&t=247)** Even if you don't have sensitive data in this account, a malicious person could rack up a huge bill mining cryptocurrency or do other malicious things with your account that you might be held responsible for.
+> **[4:07](https://www.linkedin.com/learning/learning-terraform-15575129/setting-up-aws-for-terraform-19299605?u=76281980&t=247)** Even if you don't have sensitive data in this account, a malicious person could rack up a huge bill mining [[Cryptocurrency]] or do other malicious things with your account that you might be held responsible for.
 >
 > **[4:19](https://www.linkedin.com/learning/learning-terraform-15575129/setting-up-aws-for-terraform-19299605?u=76281980&t=259)** So just be very careful with these credentials.
 >
@@ -377,7 +372,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (10), [[Terraform]] (9), next (3), [[Security]] (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Terraform]] (9), [[LinkedIn]] (1), [[Cryptocurrency]] (1)
 > **CLI Commands:** aws (10), terraform (9), make (2)
 > **Env Vars:** aws (9), iam (2), csv (2)
 > **UI Navigation:** scroll down (4), go to (3), click on (3)
@@ -386,12 +381,11 @@ created: 2026-05-02
 > **URLs:** [amazon.com](https://amazon.com) (1)
 > **Tools:** aws console (1)
 
-#### Terraform Cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-cloud-19802056?u=76281980)
+#### [Terraform Cloud](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-cloud-19802056?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-cloud-19802056?u=76281980&t=0)** - [Instructor] The command line Terraform is very powerful, open source and available for free.
+> **[0:00](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-cloud-19802056?u=76281980&t=0)** - [Instructor] The command line [[Terraform]] is very powerful, open source and available for free.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-cloud-19802056?u=76281980&t=5)** For this course, we'll be using the cloud-based version of Terraform instead.
 >
@@ -407,7 +401,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-cloud-19802056?u=76281980&t=39)** You can double check that by looking at the pricing page.
 >
-> **[0:44](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-cloud-19802056?u=76281980&t=44)** Now I've already logged in, but you can set up this account using your GitHub credentials or there are a few other options.
+> **[0:44](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-cloud-19802056?u=76281980&t=44)** Now I've already logged in, but you can set up this account using your [[GitHub]] credentials or there are a few other options.
 >
 > **[0:52](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-cloud-19802056?u=76281980&t=52)** The first thing we'll do is set up an organization.
 >
@@ -425,7 +419,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-cloud-19802056?u=76281980&t=76)** Now we're ready to set up our workspace and the first thing we need to pick is our workflow.
 >
-> **[1:21](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-cloud-19802056?u=76281980&t=81)** In our case, we'll be using the version control workflow.
+> **[1:21](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-cloud-19802056?u=76281980&t=81)** In our case, we'll be using the [[Version Control]] workflow.
 >
 > **[1:24](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-cloud-19802056?u=76281980&t=84)** So I'll click this at the top of the list and we need to connect to GitHub which is our version control provider.
 >
@@ -501,11 +495,11 @@ created: 2026-05-02
 >
 > **[5:29](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-cloud-19802056?u=76281980&t=329)** So you might want to go back and double check this.
 >
-> **[5:32](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-cloud-19802056?u=76281980&t=332)** That's all we need to do to be set up for Terraform to manage our AWS Cloud infrastructure.
+> **[5:32](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-cloud-19802056?u=76281980&t=332)** That's all we need to do to be set up for Terraform to manage our AWS [[Cloud Infrastructure]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (13), cloud (6), [[GitHub]] (6), aws (4), [[Version Control]] (2)
+> **Frameworks & Libraries:** [[Terraform]] (13), [[GitHub]] (6), [[Version Control]] (2), [[Cloud Infrastructure]] (1)
 > **CLI Commands:** terraform (13), make (4), aws (4)
 > **Prerequisites:** set up (5), install (3), configure (1)
 > **Tools:** github (6), command line (2)
@@ -519,12 +513,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Terraform plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-plan?u=76281980)
+#### [Terraform plan](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-plan?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-plan?u=76281980&t=0)** - [Instructor] Before we talk about theory, we're going to jump right in and see Terraform in action by doing a Terraform run.
+> **[0:00](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-plan?u=76281980&t=0)** - [Instructor] Before we talk about theory, we're going to jump right in and see [[Terraform]] in action by doing a Terraform run.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-plan?u=76281980&t=6)** To get started with our first Terraform run, we'll need to trigger a Terraform plan.
 >
@@ -552,7 +545,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-plan?u=76281980&t=59)** The first one is, it says aws_instance.web.
 >
-> **[1:03](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-plan?u=76281980&t=63)** So if we open up the dropdown, this is an AWS virtual server or an EC2 instance, as it's called.
+> **[1:03](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-plan?u=76281980&t=63)** So if we open up the dropdown, this is an AWS virtual server or an [[Amazon EC2|EC2]] instance, as it's called.
 >
 > **[1:11](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-plan?u=76281980&t=71)** There are some details spelled out here, like AMI and get_password_data false, but most of them just say known after apply.
 >
@@ -598,7 +591,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (6), web (2), aws (2), data (2), [[Amazon EC2|Ec2]] (1)
+> **Frameworks & Libraries:** [[Terraform]] (6), [[Amazon EC2|Ec2]] (1)
 > **CLI Commands:** terraform (6), aws (2), find (2)
 > **Env Vars:** ami (3), aws (2), ec2 (1)
 > **UI Navigation:** scroll down (2), click on (1), dropdown (1), go to (1)
@@ -607,12 +600,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Exercise Files:** starter code (1)
 
-#### First Terraform run
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-terraform-15575129/first-terraform-run?u=76281980)
+#### [First Terraform run](https://www.linkedin.com/learning/learning-terraform-15575129/first-terraform-run?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-terraform-15575129/first-terraform-run?u=76281980&t=0)** - [Instructor] In the last video, we ran Terraform plan but didn't apply the changes.
+> **[0:00](https://www.linkedin.com/learning/learning-terraform-15575129/first-terraform-run?u=76281980&t=0)** - [Instructor] In the last video, we ran [[Terraform]] plan but didn't apply the changes.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-terraform-15575129/first-terraform-run?u=76281980&t=4)** Applying changes will accrue some costs in your AWS account.
 >
@@ -634,7 +626,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/learning-terraform-15575129/first-terraform-run?u=76281980&t=54)** I'll open up the AWS web interface and see what we've got.
 >
-> **[0:59](https://www.linkedin.com/learning/learning-terraform-15575129/first-terraform-run?u=76281980&t=59)** To view the instance, we click on EC2 or go up to the menu here and type EC2.
+> **[0:59](https://www.linkedin.com/learning/learning-terraform-15575129/first-terraform-run?u=76281980&t=59)** To view the instance, we click on [[Amazon EC2|EC2]] or go up to the menu here and type EC2.
 >
 > **[1:06](https://www.linkedin.com/learning/learning-terraform-15575129/first-terraform-run?u=76281980&t=66)** Click the link there and click Instances and here's our instance that we just provisioned.
 >
@@ -682,7 +674,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (4), aws (3), cloud (2), web (2), [[Amazon EC2|Ec2]] (2)
+> **Frameworks & Libraries:** [[Terraform]] (4), [[Amazon EC2|Ec2]] (2)
 > **CLI Commands:** terraform (4), aws (3)
 > **Env Vars:** aws (3), ec2 (2), dns (1), ebs (1)
 > **UI Navigation:** go to (2), scroll down (1), click on (1), checkbox (1)
@@ -691,20 +683,19 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Warnings:** warning (1)
 
-#### How Terraform works
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-terraform-15575129/how-terraform-works?u=76281980)
+#### [How Terraform works](https://www.linkedin.com/learning/learning-terraform-15575129/how-terraform-works?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-terraform-15575129/how-terraform-works?u=76281980&t=0)** - [Instructor] At first glance what Terraform does might not seem that complex.
+> **[0:00](https://www.linkedin.com/learning/learning-terraform-15575129/how-terraform-works?u=76281980&t=0)** - [Instructor] At first glance what [[Terraform]] does might not seem that complex.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-terraform-15575129/how-terraform-works?u=76281980&t=5)** You're able to write some code to define some cloud resources, run a program, and it goes out and makes those things happen.
 >
 > **[0:12](https://www.linkedin.com/learning/learning-terraform-15575129/how-terraform-works?u=76281980&t=12)** So what makes Terraform different from a simple script that calls out to the AWS API?
 >
-> **[0:19](https://www.linkedin.com/learning/learning-terraform-15575129/how-terraform-works?u=76281980&t=19)** Terraform lets you define your infrastructure as code and gives you a lot of flexibility in how you do that because you can freely use data from one resource to define another.
+> **[0:19](https://www.linkedin.com/learning/learning-terraform-15575129/how-terraform-works?u=76281980&t=19)** Terraform lets you define your [[Infrastructure as code (IaC)|infrastructure as code]] and gives you a lot of flexibility in how you do that because you can freely use data from one resource to define another.
 >
-> **[0:30](https://www.linkedin.com/learning/learning-terraform-15575129/how-terraform-works?u=76281980&t=30)** In a non Terraform script, you might deploy a couple of web servers and a load balancer.
+> **[0:30](https://www.linkedin.com/learning/learning-terraform-15575129/how-terraform-works?u=76281980&t=30)** In a non Terraform script, you might deploy a couple of [[Web Servers]] and a load balancer.
 >
 > **[0:37](https://www.linkedin.com/learning/learning-terraform-15575129/how-terraform-works?u=76281980&t=37)** If you want to add those to a new security group to function as a firewall, your script would need to call out to AWS, retrieve and process information describing those resources, and then take action to define your security group.
 >
@@ -738,7 +729,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/learning-terraform-15575129/how-terraform-works?u=76281980&t=154)** First of all, a graph is made up of a series of connected dots, like these three circles connected by lines.
 >
-> **[2:41](https://www.linkedin.com/learning/learning-terraform-15575129/how-terraform-works?u=76281980&t=161)** In the case of Terraform, each node is a resource like an S3 bucket, a domain name, and an EC2 instance, plus some others that Terraform uses internally to keep track of things.
+> **[2:41](https://www.linkedin.com/learning/learning-terraform-15575129/how-terraform-works?u=76281980&t=161)** In the case of Terraform, each node is a resource like an S3 bucket, a domain name, and an [[Amazon EC2|EC2]] instance, plus some others that Terraform uses internally to keep track of things.
 >
 > **[2:54](https://www.linkedin.com/learning/learning-terraform-15575129/how-terraform-works?u=76281980&t=174)** The graph is directed.
 >
@@ -764,18 +755,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (17), data (4), node (3), aws (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Terraform]] (17), [[Infrastructure as code (IaC)|Infrastructure as code]] (1), [[Web Servers]] (1), [[Amazon EC2|Ec2]] (1)
 > **CLI Commands:** terraform (17), make (4), node (3), aws (2)
 > **Definitions:** means that (3), known as (1), is a  (1), is an  (1)
 > **Env Vars:** aws (2), api (1), ec2 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Terraform states
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-states?u=76281980)
+#### [Terraform states](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-states?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-states?u=76281980&t=0)** - [Instructor] When we ran Terraform, it figured out what it needed to provision based on our code.
+> **[0:00](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-states?u=76281980&t=0)** - [Instructor] When we ran [[Terraform]], it figured out what it needed to provision based on our code.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-states?u=76281980&t=5)** When we ran it a second time, it knew that the infrastructure had changed.
 >
@@ -783,7 +773,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-states?u=76281980&t=14)** In simple English, you might say that Terraform is aware of the state of our AWS infrastructure.
 >
-> **[0:20](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-states?u=76281980&t=20)** That's also the word that Terraform uses.
+> **[0:20](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-states?u=76281980&t=20)** That's also the [[Microsoft Word|word]] that Terraform uses.
 >
 > **[0:22](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-states?u=76281980&t=22)** It keeps what's called a state file to track that.
 >
@@ -791,7 +781,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-states?u=76281980&t=32)** And click into our state here.
 >
-> **[0:34](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-states?u=76281980&t=34)** The state file is literally just a JSON-formatted text file.
+> **[0:34](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-states?u=76281980&t=34)** The state file is literally just a [[JSON]]-formatted text file.
 >
 > **[0:38](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-states?u=76281980&t=38)** For the command line tool, you can find it in your local directory.
 >
@@ -815,7 +805,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (6), aws (3), cloud (2), [[Microsoft Word|Word]] (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Terraform]] (6), [[Microsoft Word|Word]] (1), [[JSON]] (1)
 > **CLI Commands:** terraform (6), aws (3), find (3)
 > **Env Vars:** aws (3), json (1), ami (1)
 > **UI Navigation:** scroll down (1), go to (1)
@@ -823,18 +813,17 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Editing your code
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-terraform-15575129/editing-your-code?u=76281980)
+#### [Editing your code](https://www.linkedin.com/learning/learning-terraform-15575129/editing-your-code?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-terraform-15575129/editing-your-code?u=76281980&t=0)** - [Instructor] In this lesson, we'll be making some changes to our repo and then running Terraform again to see how it responds.
+> **[0:00](https://www.linkedin.com/learning/learning-terraform-15575129/editing-your-code?u=76281980&t=0)** - [Instructor] In this lesson, we'll be making some changes to our repo and then running [[Terraform]] again to see how it responds.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-terraform-15575129/editing-your-code?u=76281980&t=6)** We'll be covering the language in depth later.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-terraform-15575129/editing-your-code?u=76281980&t=9)** So the code that we're using will just be to uncomment some things in the starter code.
 >
-> **[0:15](https://www.linkedin.com/learning/learning-terraform-15575129/editing-your-code?u=76281980&t=15)** First, we'll go to the GitHub repo and scroll down to variables.tf and click on it.
+> **[0:15](https://www.linkedin.com/learning/learning-terraform-15575129/editing-your-code?u=76281980&t=15)** First, we'll go to the [[GitHub]] repo and scroll down to variables.tf and click on it.
 >
 > **[0:22](https://www.linkedin.com/learning/learning-terraform-15575129/editing-your-code?u=76281980&t=22)** We have a couple choices for editors here.
 >
@@ -862,7 +851,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/learning-terraform-15575129/editing-your-code?u=76281980&t=83)** Since we've created a variable, let's see if we can find a place to use it.
 >
-> **[1:29](https://www.linkedin.com/learning/learning-terraform-15575129/editing-your-code?u=76281980&t=89)** So in our instance, there's the word instance type again.
+> **[1:29](https://www.linkedin.com/learning/learning-terraform-15575129/editing-your-code?u=76281980&t=89)** So in our instance, there's the [[Microsoft Word|word]] instance type again.
 >
 > **[1:34](https://www.linkedin.com/learning/learning-terraform-15575129/editing-your-code?u=76281980&t=94)** And the syntax for using a variable is just var dot, and I'll start typing.
 >
@@ -914,7 +903,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (5), [[GitHub]] (3), cloud (3), [[Microsoft Word|Word]] (1), aws (1)
+> **Frameworks & Libraries:** [[Terraform]] (5), [[GitHub]] (3), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** go to (5), click on (3), scroll down (1), dropdown (1)
 > **CLI Commands:** terraform (5), find (1), aws (1)
 > **Tools:** github (3)
@@ -923,12 +912,11 @@ created: 2026-05-02
 > **Env Vars:** aws (1)
 > **Cross-References:** go back to (1)
 
-#### Understanding Terraform errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-terraform-15575129/understanding-terraform-errors?u=76281980)
+#### [Understanding Terraform errors](https://www.linkedin.com/learning/learning-terraform-15575129/understanding-terraform-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-terraform-15575129/understanding-terraform-errors?u=76281980&t=0)** - [Instructor] Since we've been working with Starter Code, we haven't yet had a chance to see how Terraform responds to errors.
+> **[0:00](https://www.linkedin.com/learning/learning-terraform-15575129/understanding-terraform-errors?u=76281980&t=0)** - [Instructor] Since we've been working with Starter Code, we haven't yet had a chance to see how [[Terraform]] responds to errors.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-terraform-15575129/understanding-terraform-errors?u=76281980&t=6)** So let's make some changes to our code to generate some errors.
 >
@@ -1026,7 +1014,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (9), web (7), aws (2), cloud (1)
+> **Frameworks & Libraries:** [[Terraform]] (9)
 > **CLI Commands:** terraform (9), make (2), aws (2)
 > **UI Navigation:** scroll down (3), go to (2), click on (1)
 > **Cross-References:** go back to (4)
@@ -1040,12 +1028,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-terraform-15575129/resources?u=76281980)
+#### [Resources](https://www.linkedin.com/learning/learning-terraform-15575129/resources?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-terraform-15575129/resources?u=76281980&t=0)** - [Instructor] In this lesson, we're going to look a bit deeper at Terraform code.
+> **[0:00](https://www.linkedin.com/learning/learning-terraform-15575129/resources?u=76281980&t=0)** - [Instructor] In this lesson, we're going to look a bit deeper at [[Terraform]] code.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-terraform-15575129/resources?u=76281980&t=5)** Resources are the building blocks of Terraform code, they define the what of our infrastructure and Terraform figures out the how.
 >
@@ -1053,7 +1040,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/learning-terraform-15575129/resources?u=76281980&t=21)** We're going to focus just on AWS so that we can go a bit deeper.
 >
-> **[0:25](https://www.linkedin.com/learning/learning-terraform-15575129/resources?u=76281980&t=25)** It should be similar on other platforms like Azure but you'll need to review the documentation if that's the platform you plan to use.
+> **[0:25](https://www.linkedin.com/learning/learning-terraform-15575129/resources?u=76281980&t=25)** It should be similar on other platforms like [[Microsoft Azure|Azure]] but you'll need to review the documentation if that's the platform you plan to use.
 >
 > **[0:34](https://www.linkedin.com/learning/learning-terraform-15575129/resources?u=76281980&t=34)** Let's look at a simple example, at the top here we've got our provider definition.
 >
@@ -1067,7 +1054,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/learning-terraform-15575129/resources?u=76281980&t=63)** The resource syntax is pretty self-explanatory but let's walk through it.
 >
-> **[1:08](https://www.linkedin.com/learning/learning-terraform-15575129/resources?u=76281980&t=68)** First, we have the word resource, that's the key word to tell Terraform that we're defining a resource and not a provider for example.
+> **[1:08](https://www.linkedin.com/learning/learning-terraform-15575129/resources?u=76281980&t=68)** First, we have the [[Microsoft Word|word]] resource, that's the key word to tell Terraform that we're defining a resource and not a provider for example.
 >
 > **[1:17](https://www.linkedin.com/learning/learning-terraform-15575129/resources?u=76281980&t=77)** Next is the resource type, in this case, it's AWS S3 bucket.
 >
@@ -1095,7 +1082,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (9), aws (6), [[Microsoft Word|Word]] (2), [[Microsoft Azure|Azure]] (1), next (1)
+> **Frameworks & Libraries:** [[Terraform]] (9), [[Microsoft Word|Word]] (2), [[Microsoft Azure|Azure]] (1)
 > **CLI Commands:** terraform (9), aws (6), make (1)
 > **Env Vars:** aws (6)
 > **Definitions:** is an  (1), means that (1), is a  (1)
@@ -1104,12 +1091,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Basic resource types
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-terraform-15575129/basic-resource-types?u=76281980)
+#### [Basic resource types](https://www.linkedin.com/learning/learning-terraform-15575129/basic-resource-types?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-terraform-15575129/basic-resource-types?u=76281980&t=0)** - [Instructor] Now that we've looked at the components and how to declare resources in Terraform, let's look at some of the basic resource types we'll be using in this course.
+> **[0:00](https://www.linkedin.com/learning/learning-terraform-15575129/basic-resource-types?u=76281980&t=0)** - [Instructor] Now that we've looked at the components and how to declare resources in [[Terraform]], let's look at some of the basic resource types we'll be using in this course.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-terraform-15575129/basic-resource-types?u=76281980&t=8)** I'll move quickly through these examples and some of the new syntax that we're going to see.
 >
@@ -1143,7 +1129,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/learning-terraform-15575129/basic-resource-types?u=76281980&t=98)** Each has a separate network with their own IP range.
 >
-> **[1:42](https://www.linkedin.com/learning/learning-terraform-15575129/basic-resource-types?u=76281980&t=102)** AWS Security Groups can function like firewalls, which is what this example shows.
+> **[1:42](https://www.linkedin.com/learning/learning-terraform-15575129/basic-resource-types?u=76281980&t=102)** [[AWS Security]] Groups can function like firewalls, which is what this example shows.
 >
 > **[1:48](https://www.linkedin.com/learning/learning-terraform-15575129/basic-resource-types?u=76281980&t=108)** In this case, there's an ingress block which defines what port and protocol to allow in.
 >
@@ -1157,13 +1143,13 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/learning-terraform-15575129/basic-resource-types?u=76281980&t=139)** This can sometimes help simplify your code when working with iteration features where you need to define several similar resources.
 >
-> **[2:27](https://www.linkedin.com/learning/learning-terraform-15575129/basic-resource-types?u=76281980&t=147)** For EC2 server instances, the resource name is aws_instance.
+> **[2:27](https://www.linkedin.com/learning/learning-terraform-15575129/basic-resource-types?u=76281980&t=147)** For [[Amazon EC2|EC2]] server instances, the resource name is aws_instance.
 >
 > **[2:34](https://www.linkedin.com/learning/learning-terraform-15575129/basic-resource-types?u=76281980&t=154)** And in this case, we're deploying a server called blog.
 >
 > **[2:38](https://www.linkedin.com/learning/learning-terraform-15575129/basic-resource-types?u=76281980&t=158)** The AMI parameter defines the base image to use to create this server, and this is an example of using a dynamic variable rather than hard coding a specific AMI.
 >
-> **[2:48](https://www.linkedin.com/learning/learning-terraform-15575129/basic-resource-types?u=76281980&t=168)** That variable can be defined in a few ways, but in this case, you might define it in a static file alongside your code or use some Terraform code to dynamically look up the latest official Ubuntu AMI.
+> **[2:48](https://www.linkedin.com/learning/learning-terraform-15575129/basic-resource-types?u=76281980&t=168)** That variable can be defined in a few ways, but in this case, you might define it in a static file alongside your code or use some Terraform code to dynamically look up the latest official [[Ubuntu]] AMI.
 >
 > **[3:01](https://www.linkedin.com/learning/learning-terraform-15575129/basic-resource-types?u=76281980&t=181)** We'll look at variables deeper in a later lesson.
 >
@@ -1183,7 +1169,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (8), aws (5), [[Security]] (3), data (1), cloud (1)
+> **Frameworks & Libraries:** [[Terraform]] (8), [[AWS Security]] (1), [[Amazon EC2|Ec2]] (1), [[Ubuntu]] (1)
 > **CLI Commands:** terraform (8), aws (5)
 > **Env Vars:** aws (5), ami (3), vpc (2), acl (1), cidr (1)
 > **Definitions:** is a  (1), stands for (1), is an  (1), is called (1)
@@ -1191,12 +1177,11 @@ created: 2026-05-02
 > **Analogies:** for example (1), think of it as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Terraform style
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-style?u=76281980)
+#### [Terraform style](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-style?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-style?u=76281980&t=0)** - [Instructor] Let's take a minute to review some of the Terraform coding style conventions.
+> **[0:00](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-style?u=76281980&t=0)** - [Instructor] Let's take a minute to review some of the [[Terraform]] coding style conventions.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-style?u=76281980&t=5)** There are just a few rules and they're also well documented on the Terraform website.
 >
@@ -1242,13 +1227,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (10), aws (1)
+> **Frameworks & Libraries:** [[Terraform]] (10)
 > **CLI Commands:** terraform (10), aws (1), make (1)
 > **Env Vars:** aws (1)
 > **Speakers:** - [instructor] (1)
 
-#### Security group
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-terraform-15575129/security-group?u=76281980)
+#### [Security group](https://www.linkedin.com/learning/learning-terraform-15575129/security-group?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1260,7 +1244,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/learning-terraform-15575129/security-group?u=76281980&t=28)** It just put it into the default.
 >
-> **[0:31](https://www.linkedin.com/learning/learning-terraform-15575129/security-group?u=76281980&t=31)** For our security group, we'll need to get more explicit and to do that, there's a handy feature of Terraform that lets us just pull in the default values.
+> **[0:31](https://www.linkedin.com/learning/learning-terraform-15575129/security-group?u=76281980&t=31)** For our security group, we'll need to get more explicit and to do that, there's a handy feature of [[Terraform]] that lets us just pull in the default values.
 >
 > **[0:40](https://www.linkedin.com/learning/learning-terraform-15575129/security-group?u=76281980&t=40)** So, the way to do it is to define another data block and the syntax is data aws_vpc, and we'll give it the name default.
 >
@@ -1354,7 +1338,7 @@ created: 2026-05-02
 >
 > **[5:49](https://www.linkedin.com/learning/learning-terraform-15575129/security-group?u=76281980&t=349)** So, that's aws_security_group.blog.id.
 >
-> **[5:57](https://www.linkedin.com/learning/learning-terraform-15575129/security-group?u=76281980&t=357)** The reason the parameter's VPC security group is because this is to differentiate it from an EC2 classic security group, which you probably won't be using.
+> **[5:57](https://www.linkedin.com/learning/learning-terraform-15575129/security-group?u=76281980&t=357)** The reason the parameter's VPC security group is because this is to differentiate it from an [[Amazon EC2|EC2]] classic security group, which you probably won't be using.
 >
 > **[6:07](https://www.linkedin.com/learning/learning-terraform-15575129/security-group?u=76281980&t=367)** It's kind of being phased out, and this should be everything we need.
 >
@@ -1386,7 +1370,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (16), data (4), aws (2), [[Terraform]] (2), web (2)
+> **Frameworks & Libraries:** [[Terraform]] (2), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** vpc (6), http (3), aws (2), https (2), cidr (2)
 > **Code Identifiers:** aws_security_group (3), aws_vpc (2), vpc_id (1), aws_security_group_rule (1), blog_http_in (1)
 > **CLI Commands:** aws (2), terraform (2), find (2), make (1)
@@ -1395,12 +1379,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1), is an  (1)
 > **Ports:** port 80 (1)
 
-#### Using modules
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-terraform-15575129/using-modules?u=76281980)
+#### [Using modules](https://www.linkedin.com/learning/learning-terraform-15575129/using-modules?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-terraform-15575129/using-modules?u=76281980&t=0)** - [Instructor] Modules are a Terraform feature that lets you combine some of your code into a logical group that can be managed together.
+> **[0:00](https://www.linkedin.com/learning/learning-terraform-15575129/using-modules?u=76281980&t=0)** - [Instructor] Modules are a [[Terraform]] feature that lets you combine some of your code into a logical group that can be managed together.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-terraform-15575129/using-modules?u=76281980&t=8)** You can bundle together some logical block of code and pass in arguments that apply for that block.
 >
@@ -1414,7 +1397,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/learning-terraform-15575129/using-modules?u=76281980&t=30)** Let's start by looking at the code for using a module.
 >
-> **[0:33](https://www.linkedin.com/learning/learning-terraform-15575129/using-modules?u=76281980&t=33)** Imagine we've got a web app that needs a few things, maybe a DNS entry, an EC2 instance and an S3 bucket.
+> **[0:33](https://www.linkedin.com/learning/learning-terraform-15575129/using-modules?u=76281980&t=33)** Imagine we've got a web app that needs a few things, maybe a DNS entry, an [[Amazon EC2|EC2]] instance and an S3 bucket.
 >
 > **[0:40](https://www.linkedin.com/learning/learning-terraform-15575129/using-modules?u=76281980&t=40)** It doesn't really matter for us what's inside the module right now.
 >
@@ -1456,7 +1439,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/learning-terraform-15575129/using-modules?u=76281980&t=162)** There's a lot we're not really covering, so I just want to hit some highlights.
 >
-> **[2:47](https://www.linkedin.com/learning/learning-terraform-15575129/using-modules?u=76281980&t=167)** It's possible to use remote sources like S3 buckets or git repos for module.
+> **[2:47](https://www.linkedin.com/learning/learning-terraform-15575129/using-modules?u=76281980&t=167)** It's possible to use remote sources like S3 buckets or [[Git]] repos for module.
 >
 > **[2:53](https://www.linkedin.com/learning/learning-terraform-15575129/using-modules?u=76281980&t=173)** There's detailed guidance in the docs for how to use versioning to ensure modules are what you'd expect.
 >
@@ -1470,7 +1453,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (4), data (3), web (2), dns (2), [[Amazon EC2|Ec2]] (2)
+> **Frameworks & Libraries:** [[Terraform]] (4), [[Amazon EC2|Ec2]] (2), [[Git]] (1)
 > **CLI Commands:** terraform (4), find (2), make (1), git (1)
 > **Env Vars:** dns (2), ec2 (2), ami (1)
 > **Prerequisites:** configure (1), set up (1)
@@ -1479,12 +1462,11 @@ created: 2026-05-02
 > **Definitions:** known as (1)
 > **Analogies:** imagine (1)
 
-#### Terraform registry: Providers
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-registry-providers?u=76281980)
+#### [Terraform registry: Providers](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-registry-providers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-registry-providers?u=76281980&t=0)** - [Instructor] In this lesson and the next one, we are going to look at the Terraform registry.
+> **[0:00](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-registry-providers?u=76281980&t=0)** - [Instructor] In this lesson and the next one, we are going to look at the [[Terraform]] registry.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-registry-providers?u=76281980&t=5)** So to start, go to registry.[terraform.io](https://terraform.io).
 >
@@ -1516,7 +1498,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-registry-providers?u=76281980&t=79)** There it is.
 >
-> **[1:20](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-registry-providers?u=76281980&t=80)** You see this is under EC2, which is only intuitive if you know AWS pretty well.
+> **[1:20](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-registry-providers?u=76281980&t=80)** You see this is under [[Amazon EC2|EC2]], which is only intuitive if you know AWS pretty well.
 >
 > **[1:27](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-registry-providers?u=76281980&t=87)** One other thing to note about how these docs work is that there's a separate page for the AWS instance resource, but there's also an AWS instance data type, and you can see that has some different parameters here.
 >
@@ -1528,7 +1510,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-registry-providers?u=76281980&t=116)** So let's head back to the main registry page, and click on browse providers again, and we'll look at another type of provider.
 >
-> **[2:06](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-registry-providers?u=76281980&t=126)** This one is Kubernetes.
+> **[2:06](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-registry-providers?u=76281980&t=126)** This one is [[Kubernetes]].
 >
 > **[2:09](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-registry-providers?u=76281980&t=129)** One thing to note while you're looking at providers is that some of them are marked official, and until you're a little more comfortable, and can look at the code, I would just stick to the official ones unless you really need a community created one.
 >
@@ -1536,13 +1518,13 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-registry-providers?u=76281980&t=146)** Kubernetes isn't a cloud, it isn't a public service, but it is something you can install, and manage yourself.
 >
-> **[2:34](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-registry-providers?u=76281980&t=154)** You can also host your Kubernetes cluster on Amazon or Azure or Google Cloud, and you could even use the AWS provider to create a Kubernetes cluster, and then use the Kubernetes provider to manage that cluster.
+> **[2:34](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-registry-providers?u=76281980&t=154)** You can also host your Kubernetes cluster on Amazon or [[Microsoft Azure|Azure]] or [[Google Cloud Platform (GCP)|Google Cloud]], and you could even use the AWS provider to create a Kubernetes cluster, and then use the Kubernetes provider to manage that cluster.
 >
 > **[2:48](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-registry-providers?u=76281980&t=168)** We've only been using AWS in this course just to keep things simple but I wanted to highlight the providers here to illustrate that Terraform can manage just about anything.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (9), [[Kubernetes]] (6), [[Terraform]] (4), next (2), cloud (2)
+> **Frameworks & Libraries:** [[Kubernetes]] (6), [[Terraform]] (4), [[Amazon EC2|Ec2]] (1), [[Microsoft Azure|Azure]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **CLI Commands:** aws (9), terraform (4), find (4)
 > **Env Vars:** aws (9), ec2 (1), ami (1)
 > **Documentation:** the documentation (2)
@@ -1551,12 +1533,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Exercise Files:** starter code (1)
 
-#### Terraform registry: Modules
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-registry-modules?u=76281980)
+#### [Terraform registry: Modules](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-registry-modules?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-registry-modules?u=76281980&t=0)** - [Instructor] The Terraform Registry is also where you can find official modules.
+> **[0:00](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-registry-modules?u=76281980&t=0)** - [Instructor] The [[Terraform]] Registry is also where you can find official modules.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-registry-modules?u=76281980&t=4)** So in this lesson, we're going to find a module to simplify our code.
 >
@@ -1730,7 +1711,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (14), [[Terraform]] (3), aws (2), feature (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Terraform]] (3)
 > **CLI Commands:** find (7), terraform (3), aws (2), make (2)
 > **Env Vars:** aws (2), cidr (2), vpc (1), http (1), https (1)
 > **Code Identifiers:** blog_sg (2), blog_new (1), ingress_rules (1), ingress_cidr_blocks (1), security_group_id (1)
@@ -1744,12 +1725,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Get ready to scale
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-terraform-15575129/get-ready-to-scale-28200077?u=76281980)
+#### [Get ready to scale](https://www.linkedin.com/learning/learning-terraform-15575129/get-ready-to-scale-28200077?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-terraform-15575129/get-ready-to-scale-28200077?u=76281980&t=0)** Now that we've covered the basics of working with Terraform, we can get our code ready to scale.
+> **[0:00](https://www.linkedin.com/learning/learning-terraform-15575129/get-ready-to-scale-28200077?u=76281980&t=0)** Now that we've covered the basics of working with [[Terraform]], we can get our code ready to scale.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-terraform-15575129/get-ready-to-scale-28200077?u=76281980&t=5)** We'll want our blog server to have multiple instances and to scale those instances in response to load.
 >
@@ -1769,7 +1749,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/learning-terraform-15575129/get-ready-to-scale-28200077?u=76281980&t=47)** So I'll just click the copy button.
 >
-> **[0:51](https://www.linkedin.com/learning/learning-terraform-15575129/get-ready-to-scale-28200077?u=76281980&t=51)** And then we can go over to our repository on GitHub, and we'll go down to main, and then click the little pencil icon here.
+> **[0:51](https://www.linkedin.com/learning/learning-terraform-15575129/get-ready-to-scale-28200077?u=76281980&t=51)** And then we can go over to our repository on [[GitHub]], and we'll go down to main, and then click the little pencil icon here.
 >
 > **[1:02](https://www.linkedin.com/learning/learning-terraform-15575129/get-ready-to-scale-28200077?u=76281980&t=62)** Click the drop down and go to [github.dev](https://github.dev).
 >
@@ -1895,7 +1875,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (13), aws (2), [[GitHub]] (2), hit (2), cloud (2)
+> **Frameworks & Libraries:** [[Terraform]] (13), [[GitHub]] (2)
 > **CLI Commands:** terraform (13), make (4), aws (2), find (1)
 > **Env Vars:** vpc (12), aws (2), nat (1), vpn (1)
 > **UI Navigation:** scroll down (3), go to (2)
@@ -1904,8 +1884,7 @@ created: 2026-05-02
 > **Code Identifiers:** blogvpc (1)
 > **Prerequisites:** set up (1)
 
-#### Expanding your installation
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-terraform-15575129/expanding-your-installation-28200078?u=76281980)
+#### [Expanding your installation](https://www.linkedin.com/learning/learning-terraform-15575129/expanding-your-installation-28200078?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1913,7 +1892,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/learning-terraform-15575129/expanding-your-installation-28200078?u=76281980&t=5)** First, we'll set up the load balancer and just point it to our single instance.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-terraform-15575129/expanding-your-installation-28200078?u=76281980&t=11)** We'll go to the Terraform registry and search for ALB.
+> **[0:11](https://www.linkedin.com/learning/learning-terraform-15575129/expanding-your-installation-28200078?u=76281980&t=11)** We'll go to the [[Terraform]] registry and search for ALB.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-terraform-15575129/expanding-your-installation-28200078?u=76281980&t=17)** We're looking for this module here, terraform-aws-modules-slash-ALB.
 >
@@ -2067,7 +2046,7 @@ created: 2026-05-02
 >
 > **[7:13](https://www.linkedin.com/learning/learning-terraform-15575129/expanding-your-installation-28200078?u=76281980&t=433)** Let's look at those resources in the AWS console.
 >
-> **[7:18](https://www.linkedin.com/learning/learning-terraform-15575129/expanding-your-installation-28200078?u=76281980&t=438)** So we'll go to EC2, and we'll scroll down and find our load balancers.
+> **[7:18](https://www.linkedin.com/learning/learning-terraform-15575129/expanding-your-installation-28200078?u=76281980&t=438)** So we'll go to [[Amazon EC2|EC2]], and we'll scroll down and find our load balancers.
 >
 > **[7:29](https://www.linkedin.com/learning/learning-terraform-15575129/expanding-your-installation-28200078?u=76281980&t=449)** Here's that load balancer.
 >
@@ -2251,7 +2230,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (11), aws (10), [[Terraform]] (7), [[Search]] (4), traffic (4)
+> **Frameworks & Libraries:** [[Terraform]] (7), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** aws (9), alb (7), vpc (5), arn (4), ami (3)
 > **CLI Commands:** aws (10), terraform (7), make (3), find (2), apache (1)
 > **Prerequisites:** set up (12), setup (1)
@@ -2260,12 +2239,11 @@ created: 2026-05-02
 > **Definitions:** is a  (4), is an  (1)
 > **Exercise Files:** template (4)
 
-#### Variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-terraform-15575129/variables?u=76281980)
+#### [Variables](https://www.linkedin.com/learning/learning-terraform-15575129/variables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-terraform-15575129/variables?u=76281980&t=0)** - [Instructor] I've been a bit hand wavy about variables in Terraform so far, hoping that we could cover a good foundation of resources before we talk about them.
+> **[0:00](https://www.linkedin.com/learning/learning-terraform-15575129/variables?u=76281980&t=0)** - [Instructor] I've been a bit hand wavy about variables in [[Terraform]] so far, hoping that we could cover a good foundation of resources before we talk about them.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-terraform-15575129/variables?u=76281980&t=9)** Here's some code for how you might define a variable for the AMI of an instance or ASG resource.
 >
@@ -2293,7 +2271,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/learning-terraform-15575129/variables?u=76281980&t=94)** This example introduces the filter block as a way of narrowing down what's returned in a data source.
 >
-> **[1:41](https://www.linkedin.com/learning/learning-terraform-15575129/variables?u=76281980&t=101)** It's really pretty simple, but it's a very powerful bit of code allowing you to always get the latest official Ubuntu AMI.
+> **[1:41](https://www.linkedin.com/learning/learning-terraform-15575129/variables?u=76281980&t=101)** It's really pretty simple, but it's a very powerful bit of code allowing you to always get the latest official [[Ubuntu]] AMI.
 >
 > **[1:49](https://www.linkedin.com/learning/learning-terraform-15575129/variables?u=76281980&t=109)** This is an introductory course so that's about as deep as we'll go with the code.
 >
@@ -2317,7 +2295,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (5), data (4), aws (2), next (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Terraform]] (5), [[Ubuntu]] (1)
 > **CLI Commands:** terraform (5), aws (2)
 > **Env Vars:** ami (3), aws (2), asg (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -2326,8 +2304,7 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
 
-#### Split out your data
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-terraform-15575129/split-out-your-data-28406063?u=76281980)
+#### [Split out your data](https://www.linkedin.com/learning/learning-terraform-15575129/split-out-your-data-28406063?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2337,7 +2314,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/learning-terraform-15575129/split-out-your-data-28406063?u=76281980&t=14)** That saves a lot of back and forth with copy and paste.
 >
-> **[0:18](https://www.linkedin.com/learning/learning-terraform-15575129/split-out-your-data-28406063?u=76281980&t=18)** To get started, just open main.tf in your Git repo, and select everything in here, and say copy, then go over to variables, and right below here we'll just paste.
+> **[0:18](https://www.linkedin.com/learning/learning-terraform-15575129/split-out-your-data-28406063?u=76281980&t=18)** To get started, just open main.tf in your [[Git]] repo, and select everything in here, and say copy, then go over to variables, and right below here we'll just paste.
 >
 > **[0:37](https://www.linkedin.com/learning/learning-terraform-15575129/split-out-your-data-28406063?u=76281980&t=37)** If this doesn't quite make sense, just follow along.
 >
@@ -2353,7 +2330,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/learning-terraform-15575129/split-out-your-data-28406063?u=76281980&t=65)** So if we wanted to select a different AMI, we'd need to change both of those.
 >
-> **[1:09](https://www.linkedin.com/learning/learning-terraform-15575129/split-out-your-data-28406063?u=76281980&t=69)** I think the rest of these are fairly static, so let's leave those alone.
+> **[1:09](https://www.linkedin.com/learning/learning-terraform-15575129/split-out-your-data-28406063?u=76281980&t=69)** I think the [[Representational State Transfer (REST)|rest]] of these are fairly static, so let's leave those alone.
 >
 > **[1:13](https://www.linkedin.com/learning/learning-terraform-15575129/split-out-your-data-28406063?u=76281980&t=73)** So let's just delete some of this, and we'll convert this into a variable block.
 >
@@ -2491,7 +2468,7 @@ created: 2026-05-02
 >
 > **[12:06](https://www.linkedin.com/learning/learning-terraform-15575129/split-out-your-data-28406063?u=76281980&t=726)** we'll commit and push.
 >
-> **[12:09](https://www.linkedin.com/learning/learning-terraform-15575129/split-out-your-data-28406063?u=76281980&t=729)** Okay, so let's go over to Terraform here, Terraform Cloud, and let's click on runs.
+> **[12:09](https://www.linkedin.com/learning/learning-terraform-15575129/split-out-your-data-28406063?u=76281980&t=729)** Okay, so let's go over to [[Terraform]] here, Terraform Cloud, and let's click on runs.
 >
 > **[12:16](https://www.linkedin.com/learning/learning-terraform-15575129/split-out-your-data-28406063?u=76281980&t=736)** Actually, just click back to overview, you might be in a different place here.
 >
@@ -2507,7 +2484,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Representational State Transfer (REST)|Rest]] (2), [[Terraform]] (2), [[Git]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Terraform]] (2), [[Git]] (1)
 > **CLI Commands:** make (13), terraform (2), git (1), find (1)
 > **Env Vars:** ami (6), alb (2), asg (2), var (2), vpc (1)
 > **Versions:** 10.0 (3), 10.1 (1), 10.2 (1)
@@ -2515,8 +2492,7 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Definitions:** we call this (1)
 
-#### Modularize
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-terraform-15575129/modularize-28411019?u=76281980)
+#### [Modularize](https://www.linkedin.com/learning/learning-terraform-15575129/modularize-28411019?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2530,7 +2506,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/learning-terraform-15575129/modularize-28411019?u=76281980&t=25)** But one thing that I think would be useful to add is outputting the DNS name that's generated for the ALB so that we can easily just go to that web page.
 >
-> **[0:35](https://www.linkedin.com/learning/learning-terraform-15575129/modularize-28411019?u=76281980&t=35)** In order to find out how to do that, go over the Terraform registry and search for ALB.
+> **[0:35](https://www.linkedin.com/learning/learning-terraform-15575129/modularize-28411019?u=76281980&t=35)** In order to find out how to do that, go over the [[Terraform]] registry and search for ALB.
 >
 > **[0:45](https://www.linkedin.com/learning/learning-terraform-15575129/modularize-28411019?u=76281980&t=45)** And it should come up with this module.
 >
@@ -2786,7 +2762,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (16), dns (4), aws (3), web (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Terraform]] (16)
 > **CLI Commands:** terraform (16), make (7), aws (3), find (2)
 > **Env Vars:** alb (9), dns (4), aws (3), vpc (3), url (1)
 > **UI Navigation:** click on (4), scroll down (3), go to (1)
@@ -2795,14 +2771,13 @@ created: 2026-05-02
 > **URLs:** [module.dev](https://module.dev) (1)
 > **Exercise Files:** template (1)
 
-#### Deploying environments
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-terraform-15575129/deploying-environments-28401073?u=76281980)
+#### [Deploying environments](https://www.linkedin.com/learning/learning-terraform-15575129/deploying-environments-28401073?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-terraform-15575129/deploying-environments-28401073?u=76281980&t=0)** Now that our code is modular, it's trivially easy to deploy another environment.
 >
-> **[0:06](https://www.linkedin.com/learning/learning-terraform-15575129/deploying-environments-28401073?u=76281980&t=6)** In Terraform Cloud, we can go back to our workspaces page.
+> **[0:06](https://www.linkedin.com/learning/learning-terraform-15575129/deploying-environments-28401073?u=76281980&t=6)** In [[Terraform]] Cloud, we can go back to our workspaces page.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-terraform-15575129/deploying-environments-28401073?u=76281980&t=10)** HashiCorp recommends creating additional workspaces for each environment of a given configuration.
 >
@@ -2812,7 +2787,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/learning-terraform-15575129/deploying-environments-28401073?u=76281980&t=25)** We'll select the default project, Click Create.
 >
-> **[0:30](https://www.linkedin.com/learning/learning-terraform-15575129/deploying-environments-28401073?u=76281980&t=30)** We're going to use Version Control Workflow just like we did before, and we'll say GitHub App, and then we'll select our repository.
+> **[0:30](https://www.linkedin.com/learning/learning-terraform-15575129/deploying-environments-28401073?u=76281980&t=30)** We're going to use [[Version Control]] Workflow just like we did before, and we'll say [[GitHub]] App, and then we'll select our repository.
 >
 > **[0:43](https://www.linkedin.com/learning/learning-terraform-15575129/deploying-environments-28401073?u=76281980&t=43)** You can add a description and some other things if you like.
 >
@@ -2826,7 +2801,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/learning-terraform-15575129/deploying-environments-28401073?u=76281980&t=66)** Let's look at the top here.
 >
-> **[1:08](https://www.linkedin.com/learning/learning-terraform-15575129/deploying-environments-28401073?u=76281980&t=68)** We're going to change the name, of course, to blog-qa, and the rest of the defaults should be okay for what we're doing.
+> **[1:08](https://www.linkedin.com/learning/learning-terraform-15575129/deploying-environments-28401073?u=76281980&t=68)** We're going to change the name, of course, to blog-qa, and the [[Representational State Transfer (REST)|rest]] of the defaults should be okay for what we're doing.
 >
 > **[1:19](https://www.linkedin.com/learning/learning-terraform-15575129/deploying-environments-28401073?u=76281980&t=79)** So we'll click Create.
 >
@@ -3032,7 +3007,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (5), aws (5), cloud (4), [[GitHub]] (2), [[Version Control]] (1)
+> **Frameworks & Libraries:** [[Terraform]] (5), [[GitHub]] (2), [[Version Control]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** terraform (5), aws (5), make (3), apache (1)
 > **Env Vars:** aws (5), url (4), alb (2), vpc (1), ami (1)
 > **Prerequisites:** set up (6), configure (1), you'll need (1)
@@ -3041,14 +3016,13 @@ created: 2026-05-02
 > **Versions:** 10.0 (1), 10.1 (1)
 > **Cross-References:** go back to (2)
 
-#### Cleaning up: Terraform destroy
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-terraform-15575129/cleaning-up-terraform-destroy-28401072?u=76281980)
+#### [Cleaning up: Terraform destroy](https://www.linkedin.com/learning/learning-terraform-15575129/cleaning-up-terraform-destroy-28401072?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-terraform-15575129/cleaning-up-terraform-destroy-28401072?u=76281980&t=0)** Since we're working with real Cloud resources, we should be sure to clean up to avoid paying for AWS resources that aren't being used.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-terraform-15575129/cleaning-up-terraform-destroy-28401072?u=76281980&t=8)** The great thing about Terraform is that we can freely delete all of the infrastructure we've defined and still deploy it later from the same code.
+> **[0:08](https://www.linkedin.com/learning/learning-terraform-15575129/cleaning-up-terraform-destroy-28401072?u=76281980&t=8)** The great thing about [[Terraform]] is that we can freely delete all of the infrastructure we've defined and still deploy it later from the same code.
 >
 > **[0:16](https://www.linkedin.com/learning/learning-terraform-15575129/cleaning-up-terraform-destroy-28401072?u=76281980&t=16)** You'll be able to come back to this code if you like and start again.
 >
@@ -3078,7 +3052,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/learning-terraform-15575129/cleaning-up-terraform-destroy-28401072?u=76281980&t=77)** So while this is running, there's one little thing we'll need to take care of in our particular case.
 >
-> **[1:22](https://www.linkedin.com/learning/learning-terraform-15575129/cleaning-up-terraform-destroy-28401072?u=76281980&t=82)** we'll go over to our console and click on EC2.
+> **[1:22](https://www.linkedin.com/learning/learning-terraform-15575129/cleaning-up-terraform-destroy-28401072?u=76281980&t=82)** we'll go over to our console and click on [[Amazon EC2|EC2]].
 >
 > **[1:30](https://www.linkedin.com/learning/learning-terraform-15575129/cleaning-up-terraform-destroy-28401072?u=76281980&t=90)** Now, the way the module is set up for setting up the ALB, it actually puts deletion protection on the ALB.
 >
@@ -3222,7 +3196,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (10), aws (3), [[Amazon EC2|Ec2]] (3), cloud (1)
+> **Frameworks & Libraries:** [[Terraform]] (10), [[Amazon EC2|Ec2]] (3)
 > **CLI Commands:** terraform (10), aws (3), make (3), find (1)
 > **Env Vars:** alb (5), aws (3), ec2 (3), vpc (1)
 > **UI Navigation:** click on (5), go to (5), scroll down (2)
@@ -3230,12 +3204,11 @@ created: 2026-05-02
 > **Tools:** aws console (1)
 > **Prerequisites:** set up (1)
 
-#### Terraform CLI
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-cli?u=76281980)
+#### [Terraform CLI](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-cli?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-cli?u=76281980&t=0)** - [Instructor] We've used Terraform Cloud in this course so that we could get up and running quickly.
+> **[0:00](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-cli?u=76281980&t=0)** - [Instructor] We've used [[Terraform]] Cloud in this course so that we could get up and running quickly.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-cli?u=76281980&t=4)** However, nearly all the functionality that we've used could be duplicated using the open-source command line tool instead.
 >
@@ -3433,7 +3406,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (34), cloud (7), aws (3), open-source (2), web (2)
+> **Frameworks & Libraries:** [[Terraform]] (34)
 > **CLI Commands:** terraform (34), make (3), find (3), aws (3)
 > **Tools:** command line (7), terminal (1)
 > **Definitions:** is a  (4)
@@ -3447,14 +3420,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-terraform-15575129/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/learning-terraform-15575129/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-terraform-15575129/next-steps?u=76281980&t=0)** - [Instructor] This course is meant as a very basic introduction.
 >
-> **[0:03](https://www.linkedin.com/learning/learning-terraform-15575129/next-steps?u=76281980&t=3)** Let's look at some of the next steps on your journey learning Terraform.
+> **[0:03](https://www.linkedin.com/learning/learning-terraform-15575129/next-steps?u=76281980&t=3)** Let's look at some of the next steps on your journey learning [[Terraform]].
 >
 > **[0:08](https://www.linkedin.com/learning/learning-terraform-15575129/next-steps?u=76281980&t=8)** When I first started working with Terraform, there weren't really many good modules available.
 >
@@ -3490,9 +3462,9 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/learning-terraform-15575129/next-steps?u=76281980&t=119)** I find this is especially true for some of the more confusing and quirky aspects like the way load balancers and auto-scaling work together.
 >
-> **[2:07](https://www.linkedin.com/learning/learning-terraform-15575129/next-steps?u=76281980&t=127)** So my advice is that you get into the details of your cloud provider by checking out the courses in the LinkedIn Library.
+> **[2:07](https://www.linkedin.com/learning/learning-terraform-15575129/next-steps?u=76281980&t=127)** So my advice is that you get into the details of your cloud provider by checking out the courses in the [[LinkedIn]] Library.
 >
-> **[2:13](https://www.linkedin.com/learning/learning-terraform-15575129/next-steps?u=76281980&t=133)** Since you've got a solid base in Terraform, you could even work your way through the exercises of an AWS or Azure course just by writing the Terraform code.
+> **[2:13](https://www.linkedin.com/learning/learning-terraform-15575129/next-steps?u=76281980&t=133)** Since you've got a solid base in Terraform, you could even work your way through the exercises of an AWS or [[Microsoft Azure|Azure]] course just by writing the Terraform code.
 >
 > **[2:24](https://www.linkedin.com/learning/learning-terraform-15575129/next-steps?u=76281980&t=144)** I think I say this in all my courses but the best way to learn is to explore, try things out, and just have fun.
 >
@@ -3502,7 +3474,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (11), aws (3), cloud (2), next (1), application (1)
+> **Frameworks & Libraries:** [[Terraform]] (11), [[LinkedIn]] (1), [[Microsoft Azure|Azure]] (1)
 > **CLI Commands:** terraform (11), find (4), aws (3)
 > **Env Vars:** aws (3)
 > **Documentation:** the documentation (1), the docs (1)

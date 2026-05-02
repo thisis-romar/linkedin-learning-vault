@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/develop-your-skills-in-agile-softwa
 course_count: 6
 linkedin_topics:
   - DevOps
-louvain_cluster: 7
+louvain_cluster: 6
 tags:
   - learning-path
   - topic/devops
@@ -17,35 +17,31 @@ courses_visited: 1
 videos_visited: 0
 progress_status: in-progress
 course_activity:
-  - course: "[[Devops Foundations]]"
-    last_opened:
+  - course: '[[Devops Foundations]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Devops Foundations Lean And Agile]]"
-    last_opened:
+  - course: '[[Devops Foundations Lean And Agile]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Introduction to Agile Development Practices- Bring Agile to Your Development Pipelines]]"
-    last_opened:
+  - course: '[[Introduction to Agile Development Practices- Bring Agile to Your Development Pipelines]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Planning and Releasing Software with Jira]]"
-    last_opened:
+  - course: '[[Planning and Releasing Software with Jira]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Agile Software Development- Scrum for Developers]]"
-    last_opened:
+  - course: '[[Agile Software Development- Scrum for Developers]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Agile Software Development- Extreme Programming]]"
-    last_opened:
+  - course: '[[Agile Software Development- Extreme Programming]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: devops-foundations-23454205
-    last_opened: 2026-05-02T20:34:13.259Z
-    open_count: 3
-    videos: []
-created: 2026-05-02
+created: '2026-05-02'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/DevOps/Learning%20Paths/Develop%20Your%20Skills%20in%20Agile%20Software%20Development.md)

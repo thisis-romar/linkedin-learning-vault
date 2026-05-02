@@ -88,8 +88,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Let me interrupt you
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/let-me-interrupt-you?u=76281980)
+#### [Let me interrupt you](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/let-me-interrupt-you?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -105,22 +104,21 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/let-me-interrupt-you?u=76281980&t=23)** Looking at denial of service attacks, we'll talk about how they fill memory or networks, how they use up resources like CPU, budget, or battery.
 >
-> **[0:31](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/let-me-interrupt-you?u=76281980&t=31)** Looking at elevation of privilege, we'll see how it includes not only SQL injection and cross-site scripting, but also failure to require authorization, like a hidden admin control panel.
+> **[0:31](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/let-me-interrupt-you?u=76281980&t=31)** Looking at elevation of privilege, we'll see how it includes not only [[SQL]] injection and cross-site scripting, but also failure to require authorization, like a hidden admin control panel.
 >
 > **[0:45](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/let-me-interrupt-you?u=76281980&t=45)** And you'll learn how to defend your systems against these attacks.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (1), [[Scripting]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** cpu (1), sql (1)
 > **Speakers:** - [adam] (1)
 
-#### STRIDE and the four question framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/stride-and-the-four-question-framework-24469296?u=76281980)
+#### [STRIDE and the four question framework](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/stride-and-the-four-question-framework-24469296?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/stride-and-the-four-question-framework-24469296?u=76281980&t=0)** - [Instructor] This course is part of a series on threat modeling and the STRIDE threats.
+> **[0:00](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/stride-and-the-four-question-framework-24469296?u=76281980&t=0)** - [Instructor] This course is part of a series on [[Threat Modeling]] and the STRIDE threats.
 >
 > **[0:07](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/stride-and-the-four-question-framework-24469296?u=76281980&t=7)** At the heart of threat modeling are four incredibly simple questions.
 >
@@ -156,7 +154,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Threat Modeling]] (4), [[Security]] (1)
+> **Frameworks & Libraries:** [[Threat Modeling]] (4)
 > **Env Vars:** stride (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -167,8 +165,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### DoS in context
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/dos-in-context?u=76281980)
+#### [DoS in context](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/dos-in-context?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -192,13 +189,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (1), data (1)
 > **Env Vars:** cpu (2), ram (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
 
-#### Attackers fill networks
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/attackers-fill-networks?u=76281980)
+#### [Attackers fill networks](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/attackers-fill-networks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -216,7 +211,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/attackers-fill-networks?u=76281980&t=46)** Attackers can go from running scripts to uploading a lot of data.
 >
-> **[0:51](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/attackers-fill-networks?u=76281980&t=51)** Your web servers support posts to don't they?
+> **[0:51](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/attackers-fill-networks?u=76281980&t=51)** Your [[Web Servers]] support posts to don't they?
 >
 > **[0:54](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/attackers-fill-networks?u=76281980&t=54)** To writing lower level code, to sending lots of data ignoring things like TCP congestion controls or otherwise sending as much data as will fit on their local network.
 >
@@ -228,14 +223,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), hit (1), web (1)
+> **Frameworks & Libraries:** [[Web Servers]] (1)
 > **Env Vars:** tcp (1)
 > **Versions:** 2.3 (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### How attackers redline your CPU
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/how-attackers-redline-your-cpu?u=76281980)
+#### [How attackers redline your CPU](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/how-attackers-redline-your-cpu?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -293,13 +287,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), hit (1), data (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### How attackers fill storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/how-attackers-fill-storage?u=76281980)
+#### [How attackers fill storage](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/how-attackers-fill-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -335,18 +327,17 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/how-attackers-fill-storage?u=76281980&t=84)** But never underestimate the power of XML to expand a data structure.
 >
-> **[1:29](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/how-attackers-fill-storage?u=76281980&t=89)** IOT is another story and one we'll come to.
+> **[1:29](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/how-attackers-fill-storage?u=76281980&t=89)** [[IoT]] is another story and one we'll come to.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), data (1), [[IoT]] (1)
+> **Frameworks & Libraries:** [[IoT]] (1)
 > **Env Vars:** unix (1), xml (1), iot (1)
 > **Exercise Files:** zip file (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### How attackers spend your budget
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/how-attackers-spend-your-budget?u=76281980)
+#### [How attackers spend your budget](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/how-attackers-spend-your-budget?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -384,12 +375,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (1), [[Security]] (1), hit (1)
 > **Env Vars:** ssl (1)
 > **Speakers:** - [instructor] (1)
 
-#### How attackers drain your battery
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/how-attackers-drain-your-battery?u=76281980)
+#### [How attackers drain your battery](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/how-attackers-drain-your-battery?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -417,7 +406,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), [[Security]] (1)
 > **Speakers:** - [instructor] (1)
 
 
@@ -425,8 +413,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Persistence and transience of DoS
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/persistence-and-transience-of-dos?u=76281980)
+#### [Persistence and transience of DoS](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/persistence-and-transience-of-dos?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -458,8 +445,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Naïve to clever: Understanding DoS
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/naive-to-clever-understanding-dos?u=76281980)
+#### [Naïve to clever: Understanding DoS](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/naive-to-clever-understanding-dos?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -485,7 +471,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/naive-to-clever-understanding-dos?u=76281980&t=61)** What transforms it into an attack is the motive, calling for several reservations on the same night with different restrictions, with no intent of ever showing up.
 >
-> **[1:12](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/naive-to-clever-understanding-dos?u=76281980&t=72)** Early versions of many internet cryptography protocols suffered from these problems.
+> **[1:12](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/naive-to-clever-understanding-dos?u=76281980&t=72)** Early versions of many internet [[Cryptography]] protocols suffered from these problems.
 >
 > **[1:18](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/naive-to-clever-understanding-dos?u=76281980&t=78)** The server had to do expensive cryptography without the client having done the same.
 >
@@ -509,13 +495,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cryptography]] (2), business (1)
+> **Frameworks & Libraries:** [[Cryptography]] (2)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Amplified or native: Two modes of DoS
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/amplified-or-native-two-modes-of-dos?u=76281980)
+#### [Amplified or native: Two modes of DoS](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/amplified-or-native-two-modes-of-dos?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -561,7 +546,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Debugging]] (1), dns (1)
 > **Env Vars:** tcp (2), udp (1), dns (1)
 > **CLI Commands:** find (2), make (1)
 > **Ports:** port 19 (1)
@@ -573,8 +557,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Mobile and IoT denial of service
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/mobile-and-iot-denial-of-service?u=76281980)
+#### [Mobile and IoT denial of service](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/mobile-and-iot-denial-of-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -590,7 +573,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/mobile-and-iot-denial-of-service?u=76281980&t=51)** Of course, mobile devices have batteries and physical cases and we know that both fail.
 >
-> **[0:57](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/mobile-and-iot-denial-of-service?u=76281980&t=57)** In that they're like IOT devices, all are vulnerable to the dreaded cup of coffee.
+> **[0:57](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/mobile-and-iot-denial-of-service?u=76281980&t=57)** In that they're like [[IoT]] devices, all are vulnerable to the dreaded cup of coffee.
 >
 > **[1:04](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/mobile-and-iot-denial-of-service?u=76281980&t=64)** In each case you have to plan for conductivity failure and sometimes those failures won't heal themselves.
 
@@ -600,8 +583,7 @@ created: 2026-05-02
 > **Env Vars:** iot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud denial of service
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/cloud-denial-of-service?u=76281980)
+#### [Cloud denial of service](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/cloud-denial-of-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -629,7 +611,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), data (1)
 > **Env Vars:** cfo (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -639,8 +620,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Designing for resilience
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/designing-for-resilience?u=76281980)
+#### [Designing for resilience](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/designing-for-resilience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -668,13 +648,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Quantity as a defense
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/quantity-as-a-defense?u=76281980)
+#### [Quantity as a defense](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/quantity-as-a-defense?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -701,8 +679,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is elevation of privilege?
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/what-is-elevation-of-privilege?u=76281980)
+#### [What is elevation of privilege?](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/what-is-elevation-of-privilege?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -714,7 +691,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/what-is-elevation-of-privilege?u=76281980&t=32)** Most of these attacks work by finding a way to have a parser treat the attacker's data as code.
 >
-> **[0:39](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/what-is-elevation-of-privilege?u=76281980&t=39)** SQL injection, cross-site scripting, stack smashing, command injection, all work because parsing complex streams is hard.
+> **[0:39](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/what-is-elevation-of-privilege?u=76281980&t=39)** [[SQL]] injection, cross-site scripting, stack smashing, command injection, all work because parsing complex streams is hard.
 >
 > **[0:50](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/what-is-elevation-of-privilege?u=76281980&t=50)** The attacks tend to target victims with privileges because, while taking candy from a baby is reputedly easy, babies don't tend to have very good candy.
 >
@@ -724,13 +701,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (1), data (1), [[SQL]] (1), [[Scripting]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
 
-#### Privilege and authority
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/privilege-and-authority?u=76281980)
+#### [Privilege and authority](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/privilege-and-authority?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -744,7 +720,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/privilege-and-authority?u=76281980&t=18)** Privilege is the ability to make changes to security configurations, while authority is the ability to perform actions on the system, and that definition of privilege gets squishy.
 >
-> **[0:35](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/privilege-and-authority?u=76281980&t=35)** Is adding an account a matter of permissions, or being root, a privileged account, or is it specific privileges like Windows SE Create Authority is more clear.
+> **[0:35](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/privilege-and-authority?u=76281980&t=35)** Is adding an account a matter of permissions, or being root, a privileged account, or is it specific privileges like [[Windows]] SE Create Authority is more clear.
 >
 > **[0:48](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/privilege-and-authority?u=76281980&t=48)** It's the number of files or APIs a program can access multiplied by the number of ways it can access each.
 >
@@ -756,19 +732,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** stride (1)
 > **Speakers:** - [narrator] (1)
 
-#### Input corrupts
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/input-corrupts?u=76281980)
+#### [Input corrupts](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/input-corrupts?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/input-corrupts?u=76281980&t=0)** - [Instructor] Attacks require feeding input to the target.
 >
-> **[0:05](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/input-corrupts?u=76281980&t=5)** Being able to send something that the defender didn't plan for is a necessary step in convincing the defender to do the wrong thing.
+> **[0:05](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/input-corrupts?u=76281980&t=5)** Being able to send something that the [[Microsoft Defender|defender]] didn't plan for is a necessary step in convincing the defender to do the wrong thing.
 >
 > **[0:15](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/input-corrupts?u=76281980&t=15)** Sometimes defenders do the wrong thing of their own volition, like allowing sign channels, but setting that aside attacker input, like all input, is parsed.
 >
@@ -780,7 +755,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/input-corrupts?u=76281980&t=41)** This was the mistake exploited by the classic C Stack smashing attack and it's integral to de-serialization attacks, which expect that the next instruction lands on a certain boundary.
 >
-> **[0:55](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/input-corrupts?u=76281980&t=55)** The parser can find a token separator and break input into different tokens than you expect.
+> **[0:55](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/input-corrupts?u=76281980&t=55)** The parser can find a token separator and break input into different [[Tokens]] than you expect.
 >
 > **[1:02](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/input-corrupts?u=76281980&t=62)** This happens, for example, when the attacker includes a semi-colon in something parsed by the shell.
 >
@@ -796,14 +771,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Defender|Defender]] (2), next (1), [[Tokens]] (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Microsoft Defender|Defender]] (2), [[Tokens]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Main forms of corrupt input
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/main-forms-of-corrupt-input?u=76281980)
+#### [Main forms of corrupt input](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/main-forms-of-corrupt-input?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -833,7 +807,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/main-forms-of-corrupt-input?u=76281980&t=56)** A broader form of this happens with interpreters.
 >
-> **[1:01](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/main-forms-of-corrupt-input?u=76281980&t=61)** That interpreter might be Bash or Python glue code, might be on a server or a serverless implementation.
+> **[1:01](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/main-forms-of-corrupt-input?u=76281980&t=61)** That interpreter might be Bash or [[Python (Programming Language)|Python]] glue code, might be on a server or a serverless implementation.
 >
 > **[1:08](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/main-forms-of-corrupt-input?u=76281980&t=68)** It might be a web browser.
 >
@@ -871,7 +845,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), web (1), [[Scripting]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (1), python (1)
 > **Tools:** bash (1)
 > **Analogies:** for example (1)
@@ -882,8 +856,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Ways to defend against EOP
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/ways-to-defend-against-eop?u=76281980)
+#### [Ways to defend against EOP](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/ways-to-defend-against-eop?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -903,12 +876,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (1)
 > **Env Vars:** dns (1)
 > **Speakers:** - [instructor] (1)
 
-#### Validation to defend against elevation
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/validation-to-defend-against-elevation?u=76281980)
+#### [Validation to defend against elevation](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/validation-to-defend-against-elevation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -922,7 +893,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/validation-to-defend-against-elevation?u=76281980&t=22)** A lot of them.
 >
-> **[0:25](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/validation-to-defend-against-elevation?u=76281980&t=25)** There's an argument that HTML became one of the most popular technologies in the world because browsers were generous in their parsing.
+> **[0:25](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/validation-to-defend-against-elevation?u=76281980&t=25)** There's an argument that [[HTML]] became one of the most popular technologies in the world because browsers were generous in their parsing.
 >
 > **[0:34](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/validation-to-defend-against-elevation?u=76281980&t=34)** And now HTML is a freaking mess and parsing HTML is a morass of workaround for technical debt taken on in 1994.
 >
@@ -936,13 +907,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[HTML]] (3)
+> **Frameworks & Libraries:** [[HTML]] (3)
 > **Env Vars:** html (3)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Validate for purpose to prevent elevations
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/validate-for-purpose-to-prevent-elevations?u=76281980)
+#### [Validate for purpose to prevent elevations](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/validate-for-purpose-to-prevent-elevations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -972,7 +942,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/validate-for-purpose-to-prevent-elevations?u=76281980&t=69)** Another useful pattern is transformation.
 >
-> **[1:13](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/validate-for-purpose-to-prevent-elevations?u=76281980&t=73)** If you accept markdown and parse it into HTML, then the output HTML can be better formed than if you attempt to sanitize or clean out user-submitted HTML.
+> **[1:13](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/validate-for-purpose-to-prevent-elevations?u=76281980&t=73)** If you accept markdown and parse it into [[HTML]], then the output HTML can be better formed than if you attempt to sanitize or clean out user-submitted HTML.
 >
 > **[1:25](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/validate-for-purpose-to-prevent-elevations?u=76281980&t=85)** You can canonicalize the markdown until it's stable and then transform it.
 >
@@ -984,13 +954,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), data (1), next (1), hit (1)
+> **Frameworks & Libraries:** [[HTML]] (4)
 > **Env Vars:** html (4)
 > **Definitions:** is a  (3)
 > **Speakers:** - [instructor] (1)
 
-#### Validation not sanitization for defense
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/validation-not-sanitization-for-defense?u=76281980)
+#### [Validation not sanitization for defense](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/validation-not-sanitization-for-defense?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1004,7 +973,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/validation-not-sanitization-for-defense?u=76281980&t=19)** You want to throw it away and tell the center why you threw it away.
 >
-> **[0:25](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/validation-not-sanitization-for-defense?u=76281980&t=25)** This is somewhat less obviously true in the era of cloud services but Kerckhoff's principle still applies.
+> **[0:25](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/validation-not-sanitization-for-defense?u=76281980&t=25)** This is somewhat less obviously true in the era of [[Cloud Services]] but Kerckhoff's principle still applies.
 >
 > **[0:33](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/validation-not-sanitization-for-defense?u=76281980&t=33)** The security of a system cannot rely on anything not easily changed.
 >
@@ -1018,12 +987,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), cloud (1)
+> **Frameworks & Libraries:** [[Cloud Services]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Attenuation in defense
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/attenuation-in-defense?u=76281980)
+#### [Attenuation in defense](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/attenuation-in-defense?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1053,7 +1021,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/attenuation-in-defense?u=76281980&t=75)** Similarly, clients like web browsers restrict what they'll do with input from the mail or web server.
 >
-> **[1:23](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/attenuation-in-defense?u=76281980&t=83)** Part of the reason that Microsoft Office and then PDF renderers were so heavily attacked is that they didn't see themselves as needing to restrict themselves in what they could do and so it was only after years of attack that Microsoft started adding sandboxes.
+> **[1:23](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/attenuation-in-defense?u=76281980&t=83)** Part of the reason that [[Microsoft Office]] and then PDF renderers were so heavily attacked is that they didn't see themselves as needing to restrict themselves in what they could do and so it was only after years of attack that [[Microsoft]] started adding sandboxes.
 >
 > **[1:42](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/attenuation-in-defense?u=76281980&t=102)** To be fair another part of that delay is the restrictions can be grating for the person whose computer is controlled by them.
 >
@@ -1065,14 +1033,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), [[Microsoft Office]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office]] (1), [[Microsoft]] (1)
 > **CLI Commands:** ls (2), cat (2), rm (2), sudo (1)
 > **Env Vars:** uid (1), pdf (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Memory safety as a defensive tool
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/memory-safety-as-a-defensive-tool?u=76281980)
+#### [Memory safety as a defensive tool](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/memory-safety-as-a-defensive-tool?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1080,7 +1047,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/memory-safety-as-a-defensive-tool?u=76281980&t=5)** Many attacks that elevate privileges do that by gaining control of the flow of execution.
 >
-> **[0:11](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/memory-safety-as-a-defensive-tool?u=76281980&t=11)** Attackers can do that by putting JavaScript into your context, injecting SQL commands wherever your code expects data, by breaking up shell commands, or by writing directly into the processor stack.
+> **[0:11](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/memory-safety-as-a-defensive-tool?u=76281980&t=11)** Attackers can do that by putting [[JavaScript]] into your context, injecting [[SQL]] commands wherever your code expects data, by breaking up shell commands, or by writing directly into the processor stack.
 >
 > **[0:26](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/memory-safety-as-a-defensive-tool?u=76281980&t=26)** These attacks take advantage of a problem called code data confusion, but preventing it is only a subset of what memory safety gives you.
 >
@@ -1100,7 +1067,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/memory-safety-as-a-defensive-tool?u=76281980&t=96)** Type safety defenses are not perfect.
 >
-> **[1:39](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/memory-safety-as-a-defensive-tool?u=76281980&t=99)** There's been a series of attacks under the label deserialization, often specifically Java deserialization, which just goes to show that bad marketing for an attack class can skew its impact.
+> **[1:39](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/memory-safety-as-a-defensive-tool?u=76281980&t=99)** There's been a series of attacks under the label deserialization, often specifically [[Java]] deserialization, which just goes to show that bad marketing for an attack class can skew its impact.
 >
 > **[1:53](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/memory-safety-as-a-defensive-tool?u=76281980&t=113)** Immutable data can be even better than type safety.
 >
@@ -1108,20 +1075,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[JavaScript]] (1), [[SQL]] (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1), [[SQL]] (1), [[Java]] (1)
 > **Definitions:** means that (2), is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
 
-#### Stack canaries to protect your code
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/stack-canaries-to-protect-your-code?u=76281980)
+#### [Stack canaries to protect your code](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/stack-canaries-to-protect-your-code?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/stack-canaries-to-protect-your-code?u=76281980&t=0)** - [Narrator] Beyond managing variables, compilers, linkers, and related tools, can provide meaningful defenses.
 >
-> **[0:10](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/stack-canaries-to-protect-your-code?u=76281980&t=10)** There's two basic forms, validation and randomization.
+> **[0:10](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/stack-canaries-to-protect-your-code?u=76281980&t=10)** There's two basic [[Forms]], validation and randomization.
 >
 > **[0:15](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/stack-canaries-to-protect-your-code?u=76281980&t=15)** In this context, validation means adding checks to make sure memory is laid out the way the system expects it to be, while randomization moves memory around to make it harder for an attacker to plan their attack.
 >
@@ -1163,14 +1129,13 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Speakers:** - [narrator] (1)
 
-#### Sandboxes and isolation protect your environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/sandboxes-and-isolation-protect-your-environment?u=76281980)
+#### [Sandboxes and isolation protect your environment](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/sandboxes-and-isolation-protect-your-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/sandboxes-and-isolation-protect-your-environment?u=76281980&t=0)** - [Instructor] The fundamental job of an operating system is to control what code can do.
 >
-> **[0:06](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/sandboxes-and-isolation-protect-your-environment?u=76281980&t=6)** This requires restricting its access to the hardware, and it often involves separation into accounts.
+> **[0:06](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/sandboxes-and-isolation-protect-your-environment?u=76281980&t=6)** This requires restricting its access to the [[Hardware]], and it often involves separation into accounts.
 >
 > **[0:13](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/sandboxes-and-isolation-protect-your-environment?u=76281980&t=13)** The operating system isolates hardware and the different accounts from each other.
 >
@@ -1196,27 +1161,26 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/sandboxes-and-isolation-protect-your-environment?u=76281980&t=96)** Chroot, Jail, AppArmor and control groups are all ways to isolate code.
 >
-> **[1:43](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/sandboxes-and-isolation-protect-your-environment?u=76281980&t=103)** In fact, Docker uses control groups to give a Docker machine a certain limited view of the rest of the system.
+> **[1:43](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/sandboxes-and-isolation-protect-your-environment?u=76281980&t=103)** In fact, Docker uses control groups to give a Docker machine a certain limited view of the [[Representational State Transfer (REST)|rest]] of the system.
 >
 > **[1:52](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/sandboxes-and-isolation-protect-your-environment?u=76281980&t=112)** All of these tools implement an isolation policy to protect the system from what a piece of code might do should it be malicious either because it was written that way, or because it was taken over.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (2), express (2), web (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** docker (2)
 > **Env Vars:** uid (1)
 > **Tools:** bash (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Bolt-on or built-in defenses
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/bolt-on-or-built-in-defenses?u=76281980)
+#### [Bolt-on or built-in defenses](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/bolt-on-or-built-in-defenses?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/bolt-on-or-built-in-defenses?u=76281980&t=0)** - [Instructor] It's hard to build a sandbox that usefully encapsulates code that's not designed to work in a sandbox.
 >
-> **[0:08](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/bolt-on-or-built-in-defenses?u=76281980&t=8)** Fortunately, the engineers building Android and iOS we're able to look at the plague of malware that impacted desktops and design a very different set of sandboxes.
+> **[0:08](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/bolt-on-or-built-in-defenses?u=76281980&t=8)** Fortunately, the engineers building [[Android]] and iOS we're able to look at the plague of malware that impacted desktops and design a very different set of sandboxes.
 >
 > **[0:19](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/bolt-on-or-built-in-defenses?u=76281980&t=19)** Because there were no Android or iOS apps, they had far more flexibility than the creators of say Docker.
 >
@@ -1236,7 +1200,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (2), cloud (1), aws (1)
+> **Frameworks & Libraries:** [[Android]] (2)
 > **CLI Commands:** docker (1), aws (1)
 > **Code Identifiers:** ios (2)
 > **Env Vars:** aws (1)
@@ -1248,12 +1212,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Security by design
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/secruity-by-design?u=76281980)
+#### [Security by design](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/secruity-by-design?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/secruity-by-design?u=76281980&t=0)** - [Host] Each course in this learning path is designed to stand on its own and to be a helpful and deep guide to threats and threat modeling.
+> **[0:00](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/secruity-by-design?u=76281980&t=0)** - [Host] Each course in this learning path is designed to stand on its own and to be a helpful and deep guide to threats and [[Threat Modeling]].
 >
 > **[0:10](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/secruity-by-design?u=76281980&t=10)** Some people talk about Stride as a taxonomy or categories, and it's easy to fall into that trap.
 >
@@ -1297,7 +1260,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Threat Modeling]] (5), [[Security]] (1)
+> **Frameworks & Libraries:** [[Threat Modeling]] (5)
 > **CLI Commands:** make (2)
 > **Env Vars:** stride (1)
 > **Prerequisites:** set up (1)

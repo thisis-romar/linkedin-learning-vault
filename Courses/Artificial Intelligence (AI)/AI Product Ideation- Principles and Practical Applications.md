@@ -90,8 +90,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/introduction?u=76281980)
+#### [Introduction](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -105,13 +104,13 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/introduction?u=76281980&t=29)** I want to share with you my hands-on experience as an AI product builder, advisor, and United Nations speaker.
 >
-> **[0:37](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/introduction?u=76281980&t=37)** In this course, you will learn where ideation comes into play and several strategies of how to select the most valuable ideas and transform them into successful AI solutions for your company.
+> **[0:37](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/introduction?u=76281980&t=37)** In this course, you will learn where ideation comes into play and several strategies of how to select the most valuable ideas and transform them into successful [[AI Solutions]] for your company.
 >
 > **[0:53](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/introduction?u=76281980&t=53)** If you're ready to get started, let's ideate.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), product (1)
+> **Frameworks & Libraries:** [[AI Solutions]] (1)
 > **Speakers:** - in (1)
 
 
@@ -119,8 +118,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI mistakes to avoid
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-mistakes-to-avoid?u=76281980)
+#### [AI mistakes to avoid](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-mistakes-to-avoid?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -134,11 +132,11 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-mistakes-to-avoid?u=76281980&t=28)** Right now, we are coming up with more exciting ideas that we can put into action.
 >
-> **[0:34](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-mistakes-to-avoid?u=76281980&t=34)** Even though we have access to thousands of AI models and platforms like Hugging Face with over a million models, many teams still find it tricky to make AI work for them and find it dizzying to select the best AI solution.
+> **[0:34](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-mistakes-to-avoid?u=76281980&t=34)** Even though we have access to thousands of AI models and platforms like [[Hugging Face]] with over a million models, many teams still find it tricky to make AI work for them and find it dizzying to select the best AI solution.
 >
-> **[0:53](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-mistakes-to-avoid?u=76281980&t=53)** There will be even more confusion with the growing trend for AI agents and a GI.
+> **[0:53](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-mistakes-to-avoid?u=76281980&t=53)** There will be even more confusion with the growing trend for [[AI Agents]] and a GI.
 >
-> **[1:00](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-mistakes-to-avoid?u=76281980&t=60)** More pressure for companies, more products, but still little knowledge on how to bring AI value to the company.
+> **[1:00](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-mistakes-to-avoid?u=76281980&t=60)** More pressure for companies, more [[Microsoft Products|products]], but still little knowledge on how to bring AI value to the company.
 >
 > **[1:09](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-mistakes-to-avoid?u=76281980&t=69)** Because of FOMO, 82% of firms declare investment in AI, despite 50% being unclear on its business impact or how to implement it.
 >
@@ -164,13 +162,13 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-mistakes-to-avoid?u=76281980&t=158)** According to the BCG report, only 26% of companies have developed the necessary set of capabilities to move beyond proofs of concept, and the main challenges for them are so-called 70-20-10 principle.
 >
-> **[2:58](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-mistakes-to-avoid?u=76281980&t=178)** So, 70% of challenges stemming from people- and process-related issues, 20% attributed to technology problems, and only 10% involving AI algorithms.
+> **[2:58](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-mistakes-to-avoid?u=76281980&t=178)** So, 70% of challenges stemming from people- and process-related issues, 20% attributed to technology problems, and only 10% involving AI [[Algorithms]].
 >
 > **[3:14](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-mistakes-to-avoid?u=76281980&t=194)** However, the companies who are in the lucky group gain significant value from AI.
 >
 > **[3:20](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-mistakes-to-avoid?u=76281980&t=200)** They have achieved 1.5 times higher revenue growth, 1.6 times greater shareholder returns, and 1.4 times higher ROI.
 >
-> **[3:33](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-mistakes-to-avoid?u=76281980&t=213)** They also excel in non-financial areas, like client and employee satisfaction.
+> **[3:33](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-mistakes-to-avoid?u=76281980&t=213)** They also [[Microsoft Excel|excel]] in non-financial areas, like client and employee satisfaction.
 >
 > **[3:41](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-mistakes-to-avoid?u=76281980&t=221)** Let's break down the path to success into four friendly steps.
 >
@@ -196,7 +194,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (16), teams (2), [[Hugging Face]] (1), [[Microsoft Products|Products]] (1), business (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (1), [[AI Agents]] (1), [[Microsoft Products|Products]] (1), [[Algorithms]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (5), find (3)
 > **Env Vars:** fomo (1), bcg (1), roi (1)
 > **Versions:** 1.5 (1), 1.6 (1), 1.4 (1)
@@ -205,8 +203,7 @@ created: 2026-05-02
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - let (1)
 
-#### Options for getting AI into your company
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/options-for-getting-ai-into-your-company?u=76281980)
+#### [Options for getting AI into your company](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/options-for-getting-ai-into-your-company?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -222,13 +219,13 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/options-for-getting-ai-into-your-company?u=76281980&t=47)** So, let's explore them one-by-one.
 >
-> **[0:52](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/options-for-getting-ai-into-your-company?u=76281980&t=52)** The first option, buy, involves purchasing prebuilt AI solutions.
+> **[0:52](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/options-for-getting-ai-into-your-company?u=76281980&t=52)** The first option, buy, involves purchasing prebuilt [[AI Solutions]].
 >
-> **[0:58](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/options-for-getting-ai-into-your-company?u=76281980&t=58)** It's the simplest and fastest way to adopt AI, as these tools are ready to use and often designed for a specific application, such as customer support, marketing automation, or predictive analytics.
+> **[0:58](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/options-for-getting-ai-into-your-company?u=76281980&t=58)** It's the simplest and fastest way to adopt AI, as these tools are ready to use and often designed for a specific application, such as [[Customer Support]], marketing automation, or [[Predictive Analytics]].
 >
-> **[1:13](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/options-for-getting-ai-into-your-company?u=76281980&t=73)** For example, tools like ChatGPT, Claude or Gemini can handle customer queries, ElevenLabs support call centers, and platforms like Tableau provide advanced data visualization.
+> **[1:13](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/options-for-getting-ai-into-your-company?u=76281980&t=73)** For example, tools like [[ChatGPT]], Claude or [[Gemini]] can handle customer queries, ElevenLabs support call centers, and platforms like [[Tableau]] provide advanced data visualization.
 >
-> **[1:28](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/options-for-getting-ai-into-your-company?u=76281980&t=88)** They vary in size and form, SaaS, PaaS, or on-premise, and many of them are developed by newly created startups.
+> **[1:28](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/options-for-getting-ai-into-your-company?u=76281980&t=88)** They vary in size and form, [[SaaS]], [[PaaS]], or on-premise, and many of them are developed by newly created startups.
 >
 > **[1:39](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/options-for-getting-ai-into-your-company?u=76281980&t=99)** The biggest advantage of buying pre-built solutions is the speed of implementation and ease of use.
 >
@@ -254,11 +251,11 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/options-for-getting-ai-into-your-company?u=76281980&t=196)** However, if you've done well, it is definitely worth it.
 >
-> **[3:20](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/options-for-getting-ai-into-your-company?u=76281980&t=200)** Sometimes I suggest my clients start with products available on the market knowing that they won't be enough.
+> **[3:20](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/options-for-getting-ai-into-your-company?u=76281980&t=200)** Sometimes I suggest my clients start with [[Microsoft Products|products]] available on the market knowing that they won't be enough.
 >
 > **[3:28](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/options-for-getting-ai-into-your-company?u=76281980&t=208)** The goal is for the company to learn what functionalities are available and what is missing in market products, and then the team is more aware while defining the solution ideal for them.
 >
-> **[3:43](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/options-for-getting-ai-into-your-company?u=76281980&t=223)** A third option is to fine-tune pre-trained AI models, products like OpenAI, Cohere, Gemini, Claude, platforms like Hugging Face, or cloud solutions like AWS, Google Cloud or Azure, other pre-trained models that can be fine-tuned, meaning you can customize with your own data.
+> **[3:43](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/options-for-getting-ai-into-your-company?u=76281980&t=223)** A third option is to fine-tune pre-trained AI models, products like OpenAI, Cohere, Gemini, Claude, platforms like [[Hugging Face]], or cloud solutions like AWS, [[Google Cloud Platform (GCP)|Google Cloud]] or [[Microsoft Azure|Azure]], other pre-trained models that can be fine-tuned, meaning you can customize with your own data.
 >
 > **[4:07](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/options-for-getting-ai-into-your-company?u=76281980&t=247)** For instance, you might fine-tune a large language model to respond to customer emails in your own style or include data specific to your company, like price lists.
 >
@@ -284,7 +281,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (18), data (8), [[Microsoft Products|Products]] (3), [[Gemini]] (2), application (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[AI Solutions]] (2), [[Gemini]] (2), [[Customer Support]] (1), [[Predictive Analytics]] (1)
 > **Analogies:** for example (2), such as (1), for instance (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** aws (1)
@@ -293,8 +290,7 @@ created: 2026-05-02
 > **Best Practices:** the key is (1)
 > **Speakers:** - [presenter] (1)
 
-#### AI wishing well
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-wishing-well?u=76281980)
+#### [AI wishing well](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-wishing-well?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -310,7 +306,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-wishing-well?u=76281980&t=39)** Typical challenges companies want to solve are: Slow processes that have many manual steps.
 >
-> **[0:48](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-wishing-well?u=76281980&t=48)** Operations like customer support are too expensive and usually ineffective.
+> **[0:48](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-wishing-well?u=76281980&t=48)** Operations like [[Customer Support]] are too expensive and usually ineffective.
 >
 > **[0:55](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-wishing-well?u=76281980&t=55)** Company suffers from fraud or other financial leakages.
 >
@@ -330,23 +326,23 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-wishing-well?u=76281980&t=104)** However, this narrow focus can prevent businesses from exploring the vast potential of AI.
 >
-> **[1:52](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-wishing-well?u=76281980&t=112)** The truth is there are countless ways to innovate with AI from predictions, creating avatars, to real-time personalization engines.
+> **[1:52](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-wishing-well?u=76281980&t=112)** The truth is there are countless ways to innovate with AI from predictions, creating avatars, to [[Real-Time]] personalization engines.
 >
 > **[2:01](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-wishing-well?u=76281980&t=121)** That is why it's so important to do the AI ideation to use all of the AI potential.
 >
-> **[2:11](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-wishing-well?u=76281980&t=131)** AI helps create loyalty by personalizing customer interactions, recommending best products, and providing memorable experiences.
+> **[2:11](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-wishing-well?u=76281980&t=131)** AI helps create loyalty by personalizing customer interactions, recommending best [[Microsoft Products|products]], and providing memorable experiences.
 >
 > **[2:22](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-wishing-well?u=76281980&t=142)** Tools like chatbots, virtual assistants, and automated client processes.
 >
 > **[2:27](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-wishing-well?u=76281980&t=147)** For example, the bank credit scoring automation ensure 24/7 access, giving customers the convenience of immediate responses at any time.
 >
-> **[2:38](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-wishing-well?u=76281980&t=158)** One of my favorite AI qualities is that AI makes processes faster, automating repetitive tasks, and enabling quick decision-making.
+> **[2:38](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-wishing-well?u=76281980&t=158)** One of my favorite AI qualities is that AI makes processes faster, automating repetitive tasks, and enabling quick [[Decision-Making]].
 >
 > **[2:52](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-wishing-well?u=76281980&t=172)** For businesses, this often means delivering cheaper solutions as fewer resources are required for routine operations.
 >
 > **[3:02](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-wishing-well?u=76281980&t=182)** Automation also leads to fewer mistakes, creating safer and more stable systems overall.
 >
-> **[3:09](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-wishing-well?u=76281980&t=189)** AI is making experiences simpler and more engaging, enhancing user experience with intuitive interfaces, advising and anticipating clients' needs, or making digital interactions funnier and more human-like.
+> **[3:09](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-wishing-well?u=76281980&t=189)** AI is making experiences simpler and more engaging, enhancing [[User Experience (UX)|user experience]] with intuitive interfaces, advising and anticipating clients' needs, or making digital interactions funnier and more human-like.
 >
 > **[3:28](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-wishing-well?u=76281980&t=208)** For businesses aiming at growth, AI offers powerful tools to optimize operations and increase revenue.
 >
@@ -354,7 +350,7 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-wishing-well?u=76281980&t=233)** The result: increased sales and lower costs.
 >
-> **[3:58](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-wishing-well?u=76281980&t=238)** If you feel like AI could help with almost any task currently done by humans and business operations, you are absolutely on the right track.
+> **[3:58](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-wishing-well?u=76281980&t=238)** If you feel like AI could help with almost any task currently done by humans and [[Business Operations]], you are absolutely on the right track.
 >
 > **[4:07](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-wishing-well?u=76281980&t=247)** AI has incredible potential to enhance or optimize a huge range of tasks.
 >
@@ -362,7 +358,7 @@ created: 2026-05-02
 >
 > **[4:19](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-wishing-well?u=76281980&t=259)** Sometimes the cost doesn't justify it.
 >
-> **[4:23](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-wishing-well?u=76281980&t=263)** Right now, AI is great at handling specific, single tasks, but combining them into smarter, multitasking AI agents can take more effort and investment.
+> **[4:23](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-wishing-well?u=76281980&t=263)** Right now, AI is great at handling specific, single tasks, but combining them into smarter, multitasking [[AI Agents]] can take more effort and investment.
 >
 > **[4:37](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-wishing-well?u=76281980&t=277)** As AI gets more advanced and affordable, more and more processes will be taken over by AI.
 >
@@ -372,19 +368,18 @@ created: 2026-05-02
 >
 > **[4:58](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-wishing-well?u=76281980&t=298)** The key is understanding AI's capabilities and not settling for the most common applications.
 >
-> **[5:05](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-wishing-well?u=76281980&t=305)** If you want to learn more about practical AI implementations in business, check out my LinkedIn course, The New AI Tech Stack: AI Literacy for Tech Leaders.
+> **[5:05](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-wishing-well?u=76281980&t=305)** If you want to learn more about practical AI implementations in business, check out my [[LinkedIn]] course, The New AI Tech Stack: [[AI Literacy]] for Tech Leaders.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (27), [[Automation]] (2), business (2), [[Customer Support]] (1), management (1)
+> **Frameworks & Libraries:** [[Customer Support]] (1), [[Real-Time]] (1), [[Microsoft Products|Products]] (1), [[Decision-Making]] (1), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ocr (1)
 > **Analogies:** for example (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - [presenter] (1)
 
-#### Overview of AI implementation process
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/overview-of-ai-implementation-process?u=76281980)
+#### [Overview of AI implementation process](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/overview-of-ai-implementation-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -424,11 +419,11 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/overview-of-ai-implementation-process?u=76281980&t=126)** This is a concept version of your AI solution that allows you to test its functionality and gather feedback from users or stakeholders.
 >
-> **[2:16](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/overview-of-ai-implementation-process?u=76281980&t=136)** Prototyping helps you identify potential issues early and make improvements before investing too much time and resources.
+> **[2:16](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/overview-of-ai-implementation-process?u=76281980&t=136)** [[Prototyping]] helps you identify potential issues early and make improvements before investing too much time and resources.
 >
 > **[2:26](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/overview-of-ai-implementation-process?u=76281980&t=146)** There are actually two types of prototypes that you can build in AI projects, but we'll dive into that in a separate video.
 >
-> **[2:36](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/overview-of-ai-implementation-process?u=76281980&t=156)** Now comes data preparation, one of the most important and oftentimes consuming steps.
+> **[2:36](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/overview-of-ai-implementation-process?u=76281980&t=156)** Now comes [[Data Preparation]], one of the most important and oftentimes consuming steps.
 >
 > **[2:43](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/overview-of-ai-implementation-process?u=76281980&t=163)** This involves cleaning the data, filling in missing values, and making sure it's formatted correctly.
 >
@@ -440,7 +435,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/overview-of-ai-implementation-process?u=76281980&t=185)** With your data ready, you'll move on to selecting the algorithm.
 >
-> **[3:09](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/overview-of-ai-implementation-process?u=76281980&t=189)** Different algorithms are suited for different tasks, like predicting outcomes, classifying data, or generating new content.
+> **[3:09](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/overview-of-ai-implementation-process?u=76281980&t=189)** Different [[Algorithms]] are suited for different tasks, like predicting outcomes, classifying data, or generating new content.
 >
 > **[3:18](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/overview-of-ai-implementation-process?u=76281980&t=198)** It's like picking the right kitchen device to cook something.
 >
@@ -466,13 +461,13 @@ created: 2026-05-02
 >
 > **[4:19](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/overview-of-ai-implementation-process?u=76281980&t=259)** The journey doesn't end there.
 >
-> **[4:22](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/overview-of-ai-implementation-process?u=76281980&t=262)** AI solutions require maintenance and setting up performance monitoring.
+> **[4:22](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/overview-of-ai-implementation-process?u=76281980&t=262)** [[AI Solutions]] require maintenance and setting up performance monitoring.
 >
 > **[4:27](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/overview-of-ai-implementation-process?u=76281980&t=267)** As new data becomes available, you'll need to retrain your model to ensure it stays accurate and relevant.
 >
 > **[4:36](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/overview-of-ai-implementation-process?u=76281980&t=276)** Over time, the model might start to perform less effectively as data patterns change or new challenges arise.
 >
-> **[4:46](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/overview-of-ai-implementation-process?u=76281980&t=286)** If you'd like to understand this process in detail, please check out my LinkedIn course, "The New AI Tech Stack: AI Literacy for Tech Leaders."
+> **[4:46](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/overview-of-ai-implementation-process?u=76281980&t=286)** If you'd like to understand this process in detail, please check out my [[LinkedIn]] course, "The New AI Tech Stack: [[AI Literacy]] for Tech Leaders."
 >
 > **[4:57](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/overview-of-ai-implementation-process?u=76281980&t=297)** This course will cover the first step of an AI project, but as some say, the most important one.
 >
@@ -480,15 +475,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), ai (10), business (5), next (2), [[Prototyping]] (1)
+> **Frameworks & Libraries:** [[Prototyping]] (1), [[Data Preparation]] (1), [[Algorithms]] (1), [[AI Solutions]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Analogies:** it's like (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [presenter] (1)
 
-#### Strategies for finding AI ideas
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/strategies-for-finding-ai-ideas?u=76281980)
+#### [Strategies for finding AI ideas](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/strategies-for-finding-ai-ideas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -518,7 +512,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/strategies-for-finding-ai-ideas?u=76281980&t=108)** The second strategy is adding new functionalities to existing processes.
 >
-> **[1:54](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/strategies-for-finding-ai-ideas?u=76281980&t=114)** It's usually done during a workshop where we introduce new AI-driven functionality to expand what processes can achieve, such as implementing the sales process, machine learning for better demand forecasting, or adding a recommendation engine to suggest products to customers.
+> **[1:54](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/strategies-for-finding-ai-ideas?u=76281980&t=114)** It's usually done during a workshop where we introduce new AI-driven functionality to expand what processes can achieve, such as implementing the sales process, machine learning for better demand [[Forecasting]], or adding a recommendation engine to suggest [[Microsoft Products|products]] to customers.
 >
 > **[2:15](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/strategies-for-finding-ai-ideas?u=76281980&t=135)** The third strategy is to create a new AI business stream.
 >
@@ -528,7 +522,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/strategies-for-finding-ai-ideas?u=76281980&t=162)** For instance, manufacturers could use predictive maintenance tools to offer a new service to their clients, or telco companies might offer automation tools based on the data they have about clients' activities.
 >
-> **[2:58](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/strategies-for-finding-ai-ideas?u=76281980&t=178)** Creating a new business stream requires strategic thinking and an understanding of market gaps.
+> **[2:58](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/strategies-for-finding-ai-ideas?u=76281980&t=178)** Creating a new business stream requires [[Strategic Thinking]] and an understanding of market gaps.
 >
 > **[3:06](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/strategies-for-finding-ai-ideas?u=76281980&t=186)** It's a more ambitious approach, but it can generate significant value and position your company as a leader in innovation.
 >
@@ -542,7 +536,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/strategies-for-finding-ai-ideas?u=76281980&t=219)** Your employees often have the best understanding of where inefficiencies exist, so we ask them for AI ideas that will make their work easier and better and will make customers happier.
 >
-> **[3:55](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/strategies-for-finding-ai-ideas?u=76281980&t=235)** Company-level programs that encourage employees to share their insights can reveal hidden challenges ripe for AI solutions.
+> **[3:55](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/strategies-for-finding-ai-ideas?u=76281980&t=235)** Company-level programs that encourage employees to share their insights can reveal hidden challenges ripe for [[AI Solutions]].
 >
 > **[4:05](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/strategies-for-finding-ai-ideas?u=76281980&t=245)** There are several strategies to collect ideas.
 >
@@ -552,14 +546,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), business (3), [[Microsoft Products|Products]] (2), data (2), [[Forecasting]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Forecasting]] (1), [[Strategic Thinking]] (1), [[AI Solutions]] (1)
 > **Analogies:** for example (2), such as (1), for instance (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** coming up (1), in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### "I know what I want!" – The problem-solution process
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/i-know-what-i-want-problem-solution-process?u=76281980)
+#### ["I know what I want!" – The problem-solution process](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/i-know-what-i-want-problem-solution-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -569,7 +562,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/i-know-what-i-want-problem-solution-process?u=76281980&t=13)** Many clients come to me convinced that they know what they need.
 >
-> **[0:17](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/i-know-what-i-want-problem-solution-process?u=76281980&t=17)** Often saying something like, "I want ChatGPT."
+> **[0:17](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/i-know-what-i-want-problem-solution-process?u=76281980&t=17)** Often saying something like, "I want [[ChatGPT]]."
 >
 > **[0:21](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/i-know-what-i-want-problem-solution-process?u=76281980&t=21)** However, this isn't the right approach.
 >
@@ -581,9 +574,9 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/i-know-what-i-want-problem-solution-process?u=76281980&t=51)** The other 95% fall into common traps of choosing the wrong strategy for their organization.
 >
-> **[1:01](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/i-know-what-i-want-problem-solution-process?u=76281980&t=61)** When working with clients, I often use the design thinking approach.
+> **[1:01](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/i-know-what-i-want-problem-solution-process?u=76281980&t=61)** When working with clients, I often use the [[Design Thinking]] approach.
 >
-> **[1:06](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/i-know-what-i-want-problem-solution-process?u=76281980&t=66)** Design thinking is a proven method for building innovative products that clients love, and it works very well with AI, especially when the company wants AI but is not sure where to apply it best.
+> **[1:06](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/i-know-what-i-want-problem-solution-process?u=76281980&t=66)** Design thinking is a proven method for building innovative [[Microsoft Products|products]] that clients love, and it works very well with AI, especially when the company wants AI but is not sure where to apply it best.
 >
 > **[1:22](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/i-know-what-i-want-problem-solution-process?u=76281980&t=82)** Let me briefly explain the steps.
 >
@@ -595,7 +588,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/i-know-what-i-want-problem-solution-process?u=76281980&t=89)** Second, define.
 >
-> **[1:31](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/i-know-what-i-want-problem-solution-process?u=76281980&t=91)** Clearly define the problem, often in terms of cost, time, quality, user experience, or overall customer satisfaction.
+> **[1:31](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/i-know-what-i-want-problem-solution-process?u=76281980&t=91)** Clearly define the problem, often in terms of cost, time, quality, [[User Experience (UX)|user experience]], or overall customer satisfaction.
 >
 > **[1:40](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/i-know-what-i-want-problem-solution-process?u=76281980&t=100)** Third, ideate.
 >
@@ -625,7 +618,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/i-know-what-i-want-problem-solution-process?u=76281980&t=171)** Similarly, starting with the problem in AI implementation opens up a world of possibilities.
 >
-> **[3:00](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/i-know-what-i-want-problem-solution-process?u=76281980&t=180)** For the problem of overdue complaints, potential AI solutions could include LLM-based chatbots for faster responses, sentiment analysis to prioritize complaints, predictive analytics to foresee complaint patterns.
+> **[3:00](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/i-know-what-i-want-problem-solution-process?u=76281980&t=180)** For the problem of overdue complaints, potential [[AI Solutions]] could include LLM-based chatbots for faster responses, sentiment analysis to prioritize complaints, [[Predictive Analytics]] to foresee complaint patterns.
 >
 > **[3:22](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/i-know-what-i-want-problem-solution-process?u=76281980&t=202)** CRM integrations to enhance follow ups, process automation to reduce resolution time or recommendation engine to suggest best product and many more.
 >
@@ -647,7 +640,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[Design Thinking]] (2), [[ChatGPT]] (1), [[Microsoft Products|Products]] (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[Design Thinking]] (2), [[ChatGPT]] (1), [[Microsoft Products|Products]] (1), [[User Experience (UX)|User experience]] (1), [[AI Solutions]] (1)
 > **Analogies:** for example (1), imagine (1), such as (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** llm (1), crm (1)
@@ -656,8 +649,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI idea collection
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-idea-collection?u=76281980)
+#### [AI idea collection](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-idea-collection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -689,7 +681,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-idea-collection?u=76281980&t=118)** The next super important field is Idea Description.
 >
-> **[2:04](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-idea-collection?u=76281980&t=124)** This field is larger because it's usually takes several sentences or a graph to explain how the AI solutions should be working from the user's perspective.
+> **[2:04](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-idea-collection?u=76281980&t=124)** This field is larger because it's usually takes several sentences or a graph to explain how the [[AI Solutions]] should be working from the user's perspective.
 >
 > **[2:16](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-idea-collection?u=76281980&t=136)** For example, using the above mentioned finance problem, OCR will substitute for 50% of manual data entries.
 >
@@ -749,15 +741,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), data (10), next (2), feature (1), product (1)
+> **Frameworks & Libraries:** [[AI Solutions]] (2)
 > **Exercise Files:** template (4), exercise files (1)
 > **Analogies:** for example (3), for instance (1)
 > **Cross-References:** previous video (1), in the next (1)
 > **Env Vars:** ocr (1)
 > **Speakers:** - [instructor] (1)
 
-#### Key concepts: persona, integration
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/key-concepts-persona-integration?u=76281980)
+#### [Key concepts: persona, integration](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/key-concepts-persona-integration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -765,7 +756,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/key-concepts-persona-integration?u=76281980&t=2)** In the previous video, I showed you the initial template I used while gathering the first AI ideas.
 >
-> **[0:10](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/key-concepts-persona-integration?u=76281980&t=10)** Some of the elements in this template are super important and need additional explanation, persona and system integration or system architecture.
+> **[0:10](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/key-concepts-persona-integration?u=76281980&t=10)** Some of the elements in this template are super important and need additional explanation, persona and system integration or [[System Architecture]].
 >
 > **[0:20](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/key-concepts-persona-integration?u=76281980&t=20)** Let's start with persona.
 >
@@ -787,7 +778,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/key-concepts-persona-integration?u=76281980&t=85)** A support persona is someone who will work with the product as a process owner, expert, or manager.
 >
-> **[1:32](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/key-concepts-persona-integration?u=76281980&t=92)** For example, imagine you are implementing an AI chatbot for a customer support manager who wants to save her team time by automating repetitive questions.
+> **[1:32](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/key-concepts-persona-integration?u=76281980&t=92)** For example, imagine you are implementing an AI chatbot for a [[Customer Support]] manager who wants to save her team time by automating repetitive questions.
 >
 > **[1:45](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/key-concepts-persona-integration?u=76281980&t=105)** Let's not forget that we are also designing the system for this person who is usually not visible, but it is crucial for the effectiveness of the system.
 >
@@ -797,7 +788,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/key-concepts-persona-integration?u=76281980&t=131)** AI models are like very smart spreadsheets.
 >
-> **[2:16](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/key-concepts-persona-integration?u=76281980&t=136)** They take data as input, process it, and give you predictions like forecasting sales or detecting patterns.
+> **[2:16](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/key-concepts-persona-integration?u=76281980&t=136)** They take data as input, process it, and give you predictions like [[Forecasting]] sales or detecting patterns.
 >
 > **[2:25](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/key-concepts-persona-integration?u=76281980&t=145)** However, these predictions are usually just numbers or outputs from the model itself.
 >
@@ -821,7 +812,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), data (5), management (3), product (2), [[Forecasting]] (2)
+> **Frameworks & Libraries:** [[Forecasting]] (2), [[System Architecture]] (1), [[Customer Support]] (1)
 > **Exercise Files:** template (3)
 > **Analogies:** for example (2), imagine (1)
 > **Env Vars:** crm (1), erp (1)
@@ -830,8 +821,7 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Key concepts: Data
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/key-concepts-data?u=76281980)
+#### [Key concepts: Data](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/key-concepts-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -843,7 +833,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/key-concepts-data?u=76281980&t=14)** The template asks you if you have data for your AI idea.
 >
-> **[0:19](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/key-concepts-data?u=76281980&t=19)** While some ready-to-use AI systems, like ChatGPT, Gemini or Claude don't require your data, most AI implementations will need data for predictions or to retain pre-trained models.
+> **[0:19](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/key-concepts-data?u=76281980&t=19)** While some ready-to-use AI systems, like [[ChatGPT]], [[Gemini]] or Claude don't require your data, most AI implementations will need data for predictions or to retain pre-trained models.
 >
 > **[0:35](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/key-concepts-data?u=76281980&t=35)** To effectively work with AI, you must understand eight key things about data.
 >
@@ -851,7 +841,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/key-concepts-data?u=76281980&t=50)** Internal data is collected from your company's systems, like CRMs, ERPs, websites or sales systems.
 >
-> **[0:59](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/key-concepts-data?u=76281980&t=59)** External data, on the other hand, can be sourced from places like open datasets, APIs, social media, government databases, research publications from your business partners, from data markets, from companies who search data for you, through web scraping, or by synthesizing data.
+> **[0:59](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/key-concepts-data?u=76281980&t=59)** External data, on the other hand, can be sourced from places like open datasets, APIs, social media, government [[Databases]], research publications from your business partners, from data markets, from companies who search data for you, through web scraping, or by synthesizing data.
 >
 > **[1:23](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/key-concepts-data?u=76281980&t=83)** Synthesizing data means generating them artificially based on a small sample of your own data.
 >
@@ -887,11 +877,11 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/key-concepts-data?u=76281980&t=199)** Companies without a data-oriented culture often neglect saving data for the sake of building AI models.
 >
-> **[3:27](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/key-concepts-data?u=76281980&t=207)** If there is no data, you need to work with what you have, but at the same time, draw the C-level attention to data management.
+> **[3:27](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/key-concepts-data?u=76281980&t=207)** If there is no data, you need to work with what you have, but at the same time, draw the C-level attention to [[Data Management]].
 >
 > **[3:37](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/key-concepts-data?u=76281980&t=217)** Seven, there are different types of data, structured and unstructured.
 >
-> **[3:43](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/key-concepts-data?u=76281980&t=223)** Structured data like spreadsheets, it's easier for AI than unstructured data like text, images, or video.
+> **[3:43](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/key-concepts-data?u=76281980&t=223)** Structured data like spreadsheets, it's easier for AI than [[Unstructured Data]] like text, images, or video.
 >
 > **[3:51](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/key-concepts-data?u=76281980&t=231)** For your model, you should include as many different types of data as possible.
 >
@@ -909,7 +899,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (38), ai (10), [[ChatGPT]] (1), [[Gemini]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1), [[Gemini]] (1), [[Databases]] (1), [[Data Management]] (1), [[Unstructured Data]] (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** next chapter (1)
 > **Exercise Files:** template (1)
@@ -921,8 +911,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Ideation workshop: Preparation
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ideation-workshop-preparation?u=76281980)
+#### [Ideation workshop: Preparation](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ideation-workshop-preparation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -968,7 +957,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ideation-workshop-preparation?u=76281980&t=186)** The more hands-on people, the better.
 >
-> **[3:09](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ideation-workshop-preparation?u=76281980&t=189)** I like inviting end users, staff members who will use the AI solutions, and if possible, the client's voice, which are usually front-end employees.
+> **[3:09](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ideation-workshop-preparation?u=76281980&t=189)** I like inviting end users, staff members who will use the [[AI Solutions]], and if possible, the client's voice, which are usually front-end employees.
 >
 > **[3:21](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ideation-workshop-preparation?u=76281980&t=201)** I often invite the team lead or a manager to show that decision-makers care about changes and give their blessing.
 >
@@ -982,7 +971,7 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ideation-workshop-preparation?u=76281980&t=243)** I like rooms large enough to fit at least a small water and coffee station so we don't need too many coffee breaks.
 >
-> **[4:11](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ideation-workshop-preparation?u=76281980&t=251)** And since we'll be working on the process, you need a space to either draw a process or recreate it with Post-it notes, ideally, a large or a wall-size whiteboard or glass windows you can draw on.
+> **[4:11](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ideation-workshop-preparation?u=76281980&t=251)** And since we'll be working on the process, you need a space to either draw a process or recreate it with Post-it notes, ideally, a large or a wall-size whiteboard or glass [[Windows]] you can draw on.
 >
 > **[4:28](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ideation-workshop-preparation?u=76281980&t=268)** Another option is a long conference table where participants will be standing around while working on a process.
 >
@@ -1008,7 +997,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), data (4), business (3), next (2), front-end (1)
+> **Frameworks & Libraries:** [[AI Solutions]] (2), [[Windows]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Exercise Files:** template (2)
 > **Analogies:** for example (2)
@@ -1016,16 +1005,15 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [presenter] (1)
 
-#### Ideation workshop: Core process
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ideation-workshop-core-process?u=76281980)
+#### [Ideation workshop: Core process](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ideation-workshop-core-process?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ideation-workshop-core-process?u=76281980&t=1)** - Imagine a company wants to build an AI powered prediction mechanism to reduce long tails and predict which product they should sell in their e-commerce.
+> **[0:01](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ideation-workshop-core-process?u=76281980&t=1)** - Imagine a company wants to build an AI powered prediction mechanism to reduce long tails and predict which product they should sell in their [[E-Commerce]].
 >
 > **[0:13](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ideation-workshop-core-process?u=76281980&t=13)** The leadership team is excited, the budget is approved, and developers start working on a complex AI model.
 >
-> **[0:22](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ideation-workshop-core-process?u=76281980&t=22)** Months go by, the team struggles with data quality issues, because data is scarce and poor quality.
+> **[0:22](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ideation-workshop-core-process?u=76281980&t=22)** Months go by, the team struggles with [[Data Quality]] issues, because data is scarce and poor quality.
 >
 > **[0:31](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ideation-workshop-core-process?u=76281980&t=31)** The model isn't performing as expected and integrating it into existing systems turns out to be much harder than they thought.
 >
@@ -1037,7 +1025,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ideation-workshop-core-process?u=76281980&t=58)** It's a lack of early validation.
 >
-> **[1:01](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ideation-workshop-core-process?u=76281980&t=61)** In AI projects, before we look into data and test the first algorithms, it's very hard to say if the predictions will be at a satisfactory level, and this is when proof of concept enters the stage.
+> **[1:01](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ideation-workshop-core-process?u=76281980&t=61)** In AI projects, before we look into data and test the first [[Algorithms]], it's very hard to say if the predictions will be at a satisfactory level, and this is when proof of concept enters the stage.
 >
 > **[1:17](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ideation-workshop-core-process?u=76281980&t=77)** Welcome back.
 >
@@ -1093,9 +1081,9 @@ created: 2026-05-02
 >
 > **[4:13](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ideation-workshop-core-process?u=76281980&t=253)** The key here is to think of AI as a tool or a genie that can make your wish come true.
 >
-> **[4:21](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ideation-workshop-core-process?u=76281980&t=261)** I like the concept of a genie because it reflects the statement of AI development, which is there are tens of thousands AI solutions out there, and you can build almost anything with the available technologies.
+> **[4:21](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ideation-workshop-core-process?u=76281980&t=261)** I like the concept of a genie because it reflects the statement of AI development, which is there are tens of thousands [[AI Solutions]] out there, and you can build almost anything with the available technologies.
 >
-> **[4:34](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ideation-workshop-core-process?u=76281980&t=274)** So rather than focusing on the tool, explain what you want from AI genie, and either there are already products that can help you or you can engage data scientists to build them for you.
+> **[4:34](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ideation-workshop-core-process?u=76281980&t=274)** So rather than focusing on the tool, explain what you want from AI genie, and either there are already [[Microsoft Products|products]] that can help you or you can engage data scientists to build them for you.
 >
 > **[4:52](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ideation-workshop-core-process?u=76281980&t=292)** If possible, come up with several ideas for each challenge.
 >
@@ -1127,7 +1115,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), data (4), next (4), [[Microsoft Products|Products]] (3), product (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[E-Commerce]] (1), [[Data Quality]] (1), [[Algorithms]] (1), [[AI Solutions]] (1)
 > **Analogies:** imagine (1), for example (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** llm (1)
@@ -1136,8 +1124,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - imagine (1)
 
-#### Ideation workshop: Best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ideation-workshop-best-practices?u=76281980)
+#### [Ideation workshop: Best practices](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ideation-workshop-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1159,7 +1146,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ideation-workshop-best-practices?u=76281980&t=60)** Let them know the goal isn't to replace their work, but to make it easier and more efficient.
 >
-> **[1:06](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ideation-workshop-best-practices?u=76281980&t=66)** Reassure them that their business expertise is invaluable in shaping AI solutions, and even without a strong background in AI, they will be able to contribute.
+> **[1:06](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ideation-workshop-best-practices?u=76281980&t=66)** Reassure them that their business expertise is invaluable in shaping [[AI Solutions]], and even without a strong background in AI, they will be able to contribute.
 >
 > **[1:19](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ideation-workshop-best-practices?u=76281980&t=79)** No stupid ideas.
 >
@@ -1173,9 +1160,9 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ideation-workshop-best-practices?u=76281980&t=115)** Ask AI genie for an action, not a product.
 >
-> **[2:00](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ideation-workshop-best-practices?u=76281980&t=120)** Clearly explain and keep reminding participants that they should describe what they want AI to do for them, rather than mentioning specific products.
+> **[2:00](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ideation-workshop-best-practices?u=76281980&t=120)** Clearly explain and keep reminding participants that they should describe what they want AI to do for them, rather than mentioning specific [[Microsoft Products|products]].
 >
-> **[2:12](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ideation-workshop-best-practices?u=76281980&t=132)** For example, instead of we need a ChatGPT or Gemini, they should say, "We need an AI genie to provide instant knowledgeable answers to customers online."
+> **[2:12](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ideation-workshop-best-practices?u=76281980&t=132)** For example, instead of we need a [[ChatGPT]] or [[Gemini]], they should say, "We need an AI genie to provide instant knowledgeable answers to customers online."
 >
 > **[2:26](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ideation-workshop-best-practices?u=76281980&t=146)** It may be an AI chatbot.
 >
@@ -1205,19 +1192,18 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ideation-workshop-best-practices?u=76281980&t=228)** I hope you found it informative and practical.
 >
-> **[3:51](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ideation-workshop-best-practices?u=76281980&t=231)** In the next video will cover what level of AI literacy participants should have to be able to effectively contribute during the workshop.
+> **[3:51](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ideation-workshop-best-practices?u=76281980&t=231)** In the next video will cover what level of [[AI Literacy]] participants should have to be able to effectively contribute during the workshop.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), business (1), product (1), [[Microsoft Products|Products]] (1), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[AI Solutions]] (1), [[Microsoft Products|Products]] (1), [[ChatGPT]] (1), [[Gemini]] (1), [[AI Literacy]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### What you should know before ideating
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-you-should-know-before-ideating?u=76281980)
+#### [What you should know before ideating](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-you-should-know-before-ideating?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1229,13 +1215,13 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-you-should-know-before-ideating?u=76281980&t=24)** First, I'll tell you how to do it, and secondly, what people must know.
 >
-> **[0:30](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-you-should-know-before-ideating?u=76281980&t=30)** Firstly, you need to learn if participants had any professional AI literacy training at least four hour long.
+> **[0:30](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-you-should-know-before-ideating?u=76281980&t=30)** Firstly, you need to learn if participants had any professional [[AI Literacy]] training at least four hour long.
 >
 > **[0:39](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-you-should-know-before-ideating?u=76281980&t=39)** If not, you will need to fill this gap in their knowledge.
 >
 > **[0:43](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-you-should-know-before-ideating?u=76281980&t=43)** What if you don't do that?
 >
-> **[0:45](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-you-should-know-before-ideating?u=76281980&t=45)** The participants will give the AI solutions they know, so you'll get chatbots and OCR as a solution to all the company's problems.
+> **[0:45](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-you-should-know-before-ideating?u=76281980&t=45)** The participants will give the [[AI Solutions]] they know, so you'll get chatbots and OCR as a solution to all the company's problems.
 >
 > **[0:55](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-you-should-know-before-ideating?u=76281980&t=55)** The other option is to have a strong AI experts on the workshop whose role will be translating expert's needs into AI language.
 >
@@ -1249,7 +1235,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-you-should-know-before-ideating?u=76281980&t=90)** Then provide recorded materials before the workshop.
 >
-> **[1:35](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-you-should-know-before-ideating?u=76281980&t=95)** For example, elements of my LinkedIn course, The New AI Tech Stack: AI Literacy for Tech Leaders.
+> **[1:35](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-you-should-know-before-ideating?u=76281980&t=95)** For example, elements of my [[LinkedIn]] course, The New AI Tech Stack: AI Literacy for Tech Leaders.
 >
 > **[1:43](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-you-should-know-before-ideating?u=76281980&t=103)** And then do an hour long refreshing session at the beginning of the workshop or create a special course inside your organization on what you need to know before the workshop.
 >
@@ -1263,13 +1249,13 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-you-should-know-before-ideating?u=76281980&t=129)** Okay, so participants need to know four basic concepts about AI.
 >
-> **[2:16](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-you-should-know-before-ideating?u=76281980&t=136)** First, AI is not only ChatGPT.
+> **[2:16](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-you-should-know-before-ideating?u=76281980&t=136)** First, AI is not only [[ChatGPT]].
 >
 > **[2:20](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-you-should-know-before-ideating?u=76281980&t=140)** There are 13 families of AI solutions.
 >
 > **[2:23](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-you-should-know-before-ideating?u=76281980&t=143)** It's a whole toolbox of different approaches, each designed to solve specific kinds of problems.
 >
-> **[2:30](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-you-should-know-before-ideating?u=76281980&t=150)** For example, there is computer vision, fraud detection prediction, including time series, recommendation engines, and generative AI, just to name a few.
+> **[2:30](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-you-should-know-before-ideating?u=76281980&t=150)** For example, there is [[Computer Vision]], fraud detection prediction, including time series, recommendation engines, and [[Generative AI]], just to name a few.
 >
 > **[2:43](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-you-should-know-before-ideating?u=76281980&t=163)** The more participants know about these 13 families, the better equipped they will be to choose the right AI tool for the job.
 >
@@ -1283,7 +1269,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-you-should-know-before-ideating?u=76281980&t=199)** It means that building or fine-tuning models to the company's needs will require data.
 >
-> **[3:26](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-you-should-know-before-ideating?u=76281980&t=206)** The second important thing is the difference between AI and traditional business intelligence.
+> **[3:26](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-you-should-know-before-ideating?u=76281980&t=206)** The second important thing is the difference between AI and traditional [[Business Intelligence (BI)|business intelligence]].
 >
 > **[3:32](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-you-should-know-before-ideating?u=76281980&t=212)** BI uses historical data to look back and understand what happened in the past, like sales trends or customer behavior.
 >
@@ -1301,7 +1287,7 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-you-should-know-before-ideating?u=76281980&t=260)** For example, customer purchase history.
 >
-> **[4:23](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-you-should-know-before-ideating?u=76281980&t=263)** AI uses statistical algorithms to sift through the data, find patterns, and turn those patterns into a repeatable prediction.
+> **[4:23](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-you-should-know-before-ideating?u=76281980&t=263)** AI uses statistical [[Algorithms]] to sift through the data, find patterns, and turn those patterns into a repeatable prediction.
 >
 > **[4:35](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-you-should-know-before-ideating?u=76281980&t=275)** This prediction is called a model.
 >
@@ -1323,15 +1309,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (24), data (10), [[LinkedIn]] (2), [[Generative AI]] (2), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[AI Literacy]] (3), [[AI Solutions]] (2), [[LinkedIn]] (2), [[Generative AI]] (2), [[ChatGPT]] (1)
 > **Analogies:** for example (3), it's like (2), imagine (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is an  (1), is a  (1), means that (1), is called (1)
 > **Env Vars:** ocr (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ideation workshop: Presentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ideation-workshop-presentation?u=76281980)
+#### [Ideation workshop: Presentation](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ideation-workshop-presentation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1409,7 +1394,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), next (3)
 > **CLI Commands:** make (2)
 > **Cross-References:** coming up (1), next video (1)
 > **Best Practices:** make sure to (2)
@@ -1417,8 +1401,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ideation workshop: Outcomes
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ideation-workshop-outcomes?u=76281980)
+#### [Ideation workshop: Outcomes](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ideation-workshop-outcomes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1458,7 +1441,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ideation-workshop-outcomes?u=76281980&t=114)** And the second example, Recommendation Engine for Upsell, that proposes a product selected for upsell.
 >
-> **[2:05](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ideation-workshop-outcomes?u=76281980&t=125)** Recommendation engine analyzes client's profile, like previous purchases, complaints, search history, and propose a set of recommended products.
+> **[2:05](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ideation-workshop-outcomes?u=76281980&t=125)** Recommendation engine analyzes client's profile, like previous purchases, complaints, search history, and propose a set of recommended [[Microsoft Products|products]].
 >
 > **[2:18](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ideation-workshop-outcomes?u=76281980&t=138)** Then the system applies special discounts for clients in the complaints process and prepares automatically an email updating them about their complaint together with special upsell offers.
 >
@@ -1498,7 +1481,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), next (2), llm (2), business (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Cross-References:** previous video (2), we covered (1), in the next (1)
 > **Exercise Files:** template (2), exercise files (2)
@@ -1507,8 +1490,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Organizational ideation: Idea collection
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/organizational-ideation-idea-collection?u=76281980)
+#### [Organizational ideation: Idea collection](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/organizational-ideation-idea-collection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1576,15 +1558,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (18), next (2), data (2), business (1), teams (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Organizational ideation: Best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/organizational-ideation-best-practices?u=76281980)
+#### [Organizational ideation: Best practices](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/organizational-ideation-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1602,7 +1582,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/organizational-ideation-best-practices?u=76281980&t=41)** Not everyone is an AI expert, and it's okay.
 >
-> **[0:45](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/organizational-ideation-best-practices?u=76281980&t=45)** Start by offering simple, engaging resources to upskill in AI and databases.
+> **[0:45](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/organizational-ideation-best-practices?u=76281980&t=45)** Start by offering simple, engaging resources to upskill in AI and [[Databases]].
 >
 > **[0:53](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/organizational-ideation-best-practices?u=76281980&t=53)** Think bite-sized learning modules and inspiring webinars.
 >
@@ -1616,7 +1596,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/organizational-ideation-best-practices?u=76281980&t=86)** Four, use an AI collection system to handle the influx of ideas.
 >
-> **[1:33](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/organizational-ideation-best-practices?u=76281980&t=93)** I suggest building a simple, yet efficient digital platform or using an idea collection tool like Google Forms, ClickUp, or a Typeform.
+> **[1:33](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/organizational-ideation-best-practices?u=76281980&t=93)** I suggest building a simple, yet efficient digital platform or using an idea collection tool like [[Google]] [[Forms]], ClickUp, or a Typeform.
 >
 > **[1:46](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/organizational-ideation-best-practices?u=76281980&t=106)** Employees should easily submit their ideas and if possible, track their submission status.
 >
@@ -1640,7 +1620,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/organizational-ideation-best-practices?u=76281980&t=194)** Let people create teams of up to five people so there is clear ownership of each idea.
 >
-> **[3:22](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/organizational-ideation-best-practices?u=76281980&t=202)** Eight, focus on business metrics.
+> **[3:22](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/organizational-ideation-best-practices?u=76281980&t=202)** Eight, focus on [[Business Metrics]].
 >
 > **[3:26](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/organizational-ideation-best-practices?u=76281980&t=206)** Encourage employees to tackle real challenges the company faces, estimating the expected levels of improving efficiency or cutting costs.
 >
@@ -1676,15 +1656,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), teams (3), leadership (2), data (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[Google]] (1), [[Forms]] (1), [[Business Metrics]] (1)
 > **CLI Commands:** make (2)
 > **Exercise Files:** template (1), exercise files (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [presenter] (1)
 
-#### Organizational ideation: Outcomes
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/organizational-ideation-outcomes?u=76281980)
+#### [Organizational ideation: Outcomes](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/organizational-ideation-outcomes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1698,7 +1677,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/organizational-ideation-outcomes?u=76281980&t=25)** How do you narrow them down to identify the best initiatives for implementation?
 >
-> **[0:30](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/organizational-ideation-outcomes?u=76281980&t=30)** Let me tell you the rest of the story.
+> **[0:30](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/organizational-ideation-outcomes?u=76281980&t=30)** Let me tell you the [[Representational State Transfer (REST)|rest]] of the story.
 >
 > **[0:35](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/organizational-ideation-outcomes?u=76281980&t=35)** The first step was to review ideas for duplication and overlap.
 >
@@ -1708,7 +1687,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/organizational-ideation-outcomes?u=76281980&t=56)** The themes behind similar ideas were invited to the next stage to work together and refine their submissions into a single stronger proposal.
 >
-> **[1:08](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/organizational-ideation-outcomes?u=76281980&t=68)** Additionally, we screened out projects that raised significant regulatory concerns, as compliance is a critical aspect of the banking industry.
+> **[1:08](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/organizational-ideation-outcomes?u=76281980&t=68)** Additionally, we screened out projects that raised significant regulatory concerns, as compliance is a critical aspect of the [[Banking]] industry.
 >
 > **[1:21](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/organizational-ideation-outcomes?u=76281980&t=81)** Lastly, we checked if the ideas aligned with the bank's overall strategy.
 >
@@ -1734,7 +1713,7 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/organizational-ideation-outcomes?u=76281980&t=222)** To support the teams, the bank provided access to data scientists and IT architects.
 >
-> **[3:50](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/organizational-ideation-outcomes?u=76281980&t=230)** These experts help participants refine their concept, estimate technical requirements, draw initial architectures, identify connections with existing systems, identify data sources, identify data quality, and address any challenges.
+> **[3:50](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/organizational-ideation-outcomes?u=76281980&t=230)** These experts help participants refine their concept, estimate technical requirements, draw initial architectures, identify connections with existing systems, identify data sources, identify [[Data Quality]], and address any challenges.
 >
 > **[4:13](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/organizational-ideation-outcomes?u=76281980&t=253)** This collaborative approach ensured that the teams not only had clear and professional proposals, but also felt confident about their idea moving forward.
 >
@@ -1744,13 +1723,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), ai (4), next (4), teams (4), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Banking]] (1), [[Data Quality]] (1)
 > **Cross-References:** in the next (1), next video (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Coming up with completely new AI products
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/coming-up-with-completely-new-ai-products?u=76281980)
+#### [Coming up with completely new AI products](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/coming-up-with-completely-new-ai-products?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1794,7 +1772,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/coming-up-with-completely-new-ai-products?u=76281980&t=128)** A big part of this process is stepping away from your company's usual offerings.
 >
-> **[2:15](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/coming-up-with-completely-new-ai-products?u=76281980&t=135)** We ask, "What algorithms could we build using the data?
+> **[2:15](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/coming-up-with-completely-new-ai-products?u=76281980&t=135)** We ask, "What [[Algorithms]] could we build using the data?
 >
 > **[2:20](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/coming-up-with-completely-new-ai-products?u=76281980&t=140)** How could these algorithms create value beyond the core business?
 >
@@ -1806,7 +1784,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/coming-up-with-completely-new-ai-products?u=76281980&t=165)** Could we develop predictive models for long-term trends in our industry?
 >
-> **[2:52](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/coming-up-with-completely-new-ai-products?u=76281980&t=172)** Can we turn our internal tools or algorithms into standalone products for other companies?
+> **[2:52](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/coming-up-with-completely-new-ai-products?u=76281980&t=172)** Can we turn our internal tools or algorithms into standalone [[Microsoft Products|products]] for other companies?
 >
 > **[2:59](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/coming-up-with-completely-new-ai-products?u=76281980&t=179)** Can we develop tools that help our partners or vendors optimize their workflows?"
 >
@@ -1836,21 +1814,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), ai (5), [[Algorithms]] (3), business (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (3), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** think of it as (1), for instance (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Coming up with completely new AI products: Examples
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/coming-up-with-completely-new-ai-products-examples?u=76281980)
+#### [Coming up with completely new AI products: Examples](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/coming-up-with-completely-new-ai-products-examples?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/coming-up-with-completely-new-ai-products-examples?u=76281980&t=0)** - [Instructor] Now let's look at examples of generating new AI-based value streams and explore how this worked for my clients in different industries.
 >
-> **[0:11](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/coming-up-with-completely-new-ai-products-examples?u=76281980&t=11)** First case is a telecommunications company that holds vast amounts of data about its customers.
+> **[0:11](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/coming-up-with-completely-new-ai-products-examples?u=76281980&t=11)** First case is a [[Telecommunications]] company that holds vast amounts of data about its customers.
 >
 > **[0:19](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/coming-up-with-completely-new-ai-products-examples?u=76281980&t=19)** For example, location data: where users are at certain times of the day, activity patterns, daily habits, peak usage times, and app preferences.
 >
@@ -1860,7 +1837,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/coming-up-with-completely-new-ai-products-examples?u=76281980&t=42)** Streaming behavior.
 >
-> **[0:44](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/coming-up-with-completely-new-ai-products-examples?u=76281980&t=44)** And then device data, type of device, battery levels, performance metrics.
+> **[0:44](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/coming-up-with-completely-new-ai-products-examples?u=76281980&t=44)** And then device data, type of device, battery levels, [[Performance Metrics]].
 >
 > **[0:50](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/coming-up-with-completely-new-ai-products-examples?u=76281980&t=50)** With this data, a telco company came up with these solutions.
 >
@@ -1870,9 +1847,9 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/coming-up-with-completely-new-ai-products-examples?u=76281980&t=71)** Second, Habit Analyzer.
 >
-> **[1:14](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/coming-up-with-completely-new-ai-products-examples?u=76281980&t=74)** An AI tool that analyzes daily activities and suggests ways to improve productivity or wellness, such as better screen time management or breaks during work hours.
+> **[1:14](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/coming-up-with-completely-new-ai-products-examples?u=76281980&t=74)** An AI tool that analyzes daily activities and suggests ways to improve productivity or [[Wellness]], such as better screen time management or breaks during work hours.
 >
-> **[1:27](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/coming-up-with-completely-new-ai-products-examples?u=76281980&t=87)** And third one, Local Events Suggestions, based on location and preferences offer real-time notifications about events or promotions nearby.
+> **[1:27](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/coming-up-with-completely-new-ai-products-examples?u=76281980&t=87)** And third one, Local Events Suggestions, based on location and preferences offer [[Real-Time]] notifications about events or promotions nearby.
 >
 > **[1:40](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/coming-up-with-completely-new-ai-products-examples?u=76281980&t=100)** Now let's move on to the second case, which is a healthcare company that has data on trends in seasonal illnesses like flu, colds, and similar; regional hotspots for disease outbreaks; and patterns in symptom onset or recovery times.
 >
@@ -1898,11 +1875,11 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/coming-up-with-completely-new-ai-products-examples?u=76281980&t=248)** And the fourth one, regional agricultural advisory product that aggregates satellite data across regions and provides governments or agribusinesses with insights on regional crop health, yield forecasts, and food security risks.
 >
-> **[4:26](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/coming-up-with-completely-new-ai-products-examples?u=76281980&t=266)** Now let's look at the fourth case, which is an e-commerce company that decided to use customer review data combined with an external resource to build.
+> **[4:26](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/coming-up-with-completely-new-ai-products-examples?u=76281980&t=266)** Now let's look at the fourth case, which is an [[E-Commerce]] company that decided to use customer review data combined with an external resource to build.
 >
 > **[4:38](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/coming-up-with-completely-new-ai-products-examples?u=76281980&t=278)** First idea, an AI-powered sentiment analysis tool that brands can use to analyze customer reviews and improve their product offerings.
 >
-> **[4:49](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/coming-up-with-completely-new-ai-products-examples?u=76281980&t=289)** And the second one, a product design feedback system using aggregated review data to identify trends and help third-party manufacturers innovate.
+> **[4:49](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/coming-up-with-completely-new-ai-products-examples?u=76281980&t=289)** And the second one, a [[Product Design]] feedback system using aggregated review data to identify trends and help third-party manufacturers innovate.
 >
 > **[5:01](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/coming-up-with-completely-new-ai-products-examples?u=76281980&t=301)** And the last, fifth case, a fitness app company using user activity data.
 >
@@ -1920,7 +1897,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), ai (8), [[Wellness]] (4), management (3), product (3)
+> **Frameworks & Libraries:** [[Wellness]] (4), [[Real-Time]] (2), [[Telecommunications]] (1), [[Performance Metrics]] (1), [[E-Commerce]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** such as (2), for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1930,8 +1907,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What happens to the idea?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-happens-to-the-idea?u=76281980)
+#### [What happens to the idea?](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-happens-to-the-idea?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1957,19 +1933,19 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-happens-to-the-idea?u=76281980&t=114)** It consists of two types of information, description from the author and some strategic parameters that our AI portfolio team provides on their own.
 >
-> **[2:06](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-happens-to-the-idea?u=76281980&t=126)** For example, compliance with AI strategy or potential for investors.
+> **[2:06](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-happens-to-the-idea?u=76281980&t=126)** For example, compliance with [[AI Strategy]] or potential for investors.
 >
-> **[2:12](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-happens-to-the-idea?u=76281980&t=132)** We'll focus on just the first elements now, but if you're curious, make sure to check my LinkedIn course, The New AI Tech Stack: AI Literacy for Tech Leaders.
+> **[2:12](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-happens-to-the-idea?u=76281980&t=132)** We'll focus on just the first elements now, but if you're curious, make sure to check my [[LinkedIn]] course, The New AI Tech Stack: [[AI Literacy]] for Tech Leaders.
 >
 > **[2:25](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-happens-to-the-idea?u=76281980&t=145)** Okay, let me share with you a list of information that the idea authors are asked to prepare to detail their AI ideas.
 >
 > **[2:37](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-happens-to-the-idea?u=76281980&t=157)** We'll be using a longer template that you have in your exercise files.
 >
-> **[2:44](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-happens-to-the-idea?u=76281980&t=164)** In this and next video we'll go point by point and explain what each element should contain, who provides information and what questions should you ask, for example, to the data science team.
+> **[2:44](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-happens-to-the-idea?u=76281980&t=164)** In this and next video we'll go point by point and explain what each element should contain, who provides information and what questions should you ask, for example, to the [[Data Science]] team.
 >
-> **[3:00](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-happens-to-the-idea?u=76281980&t=180)** We will be using a Word format, but most of the time teams prepared on slides.
+> **[3:00](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-happens-to-the-idea?u=76281980&t=180)** We will be using a [[Microsoft Word|Word]] format, but most of the time teams prepared on slides.
 >
-> **[3:08](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-happens-to-the-idea?u=76281980&t=188)** However, for the further comparison of the projects, Word or Excel might be more handy because the information can be copied easily into a spreadsheet comparison format.
+> **[3:08](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-happens-to-the-idea?u=76281980&t=188)** However, for the further comparison of the projects, Word or [[Microsoft Excel|Excel]] might be more handy because the information can be copied easily into a spreadsheet comparison format.
 >
 > **[3:20](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-happens-to-the-idea?u=76281980&t=200)** Remember that this is the moment to ask experts to help you.
 >
@@ -1991,9 +1967,9 @@ created: 2026-05-02
 >
 > **[4:34](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-happens-to-the-idea?u=76281980&t=274)** Should you buy, build, fine tune, use cloud, or connect into an AI agent.
 >
-> **[4:42](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-happens-to-the-idea?u=76281980&t=282)** If they are not sure, you should conduct a brief market research and propose some options.
+> **[4:42](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-happens-to-the-idea?u=76281980&t=282)** If they are not sure, you should conduct a brief [[Market Research]] and propose some options.
 >
-> **[4:49](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-happens-to-the-idea?u=76281980&t=289)** They should also help you draw the simple solution architecture and business experts should help you with verification if the To-Be process is feasible from the user's point of view.
+> **[4:49](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-happens-to-the-idea?u=76281980&t=289)** They should also help you draw the simple [[Solution Architecture]] and business experts should help you with verification if the To-Be process is feasible from the user's point of view.
 >
 > **[5:03](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-happens-to-the-idea?u=76281980&t=303)** I'll explain all the other elements in the template in the next video.
 >
@@ -2001,7 +1977,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), data (6), business (4), next (3), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[AI Strategy]] (1), [[LinkedIn]] (1), [[AI Literacy]] (1), [[Data Science]] (1)
 > **Exercise Files:** template (4), exercise files (1)
 > **Cross-References:** next video (1), in the next (1)
 > **Analogies:** for example (2)
@@ -2010,12 +1986,11 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Project idea checklist
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/project-idea-checklist?u=76281980)
+#### [Project idea checklist](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/project-idea-checklist?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/project-idea-checklist?u=76281980&t=1)** - You're probably curious who is engaged in prototyping.
+> **[0:01](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/project-idea-checklist?u=76281980&t=1)** - You're probably curious who is engaged in [[Prototyping]].
 >
 > **[0:05](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/project-idea-checklist?u=76281980&t=5)** Prototyping is a team effort where project and product managers coordinate the process, data scientists and developers draft system functionalities, UX designers generate the interface and conduct the testing process.
 >
@@ -2031,15 +2006,15 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/project-idea-checklist?u=76281980&t=55)** At this point, you should have open AI idea template long that you can find in your exercise files folder.
 >
-> **[1:06](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/project-idea-checklist?u=76281980&t=66)** Once you have that to-be process that we discussed in the previous video and high level system architecture, the potential supplier's names, and positive verification from the future users, the next step is focus on data.
+> **[1:06](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/project-idea-checklist?u=76281980&t=66)** Once you have that to-be process that we discussed in the previous video and high level [[System Architecture]], the potential supplier's names, and positive verification from the future users, the next step is focus on data.
 >
 > **[1:26](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/project-idea-checklist?u=76281980&t=86)** Depending on the selected system idea, you will need more or less data.
 >
 > **[1:33](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/project-idea-checklist?u=76281980&t=93)** More for the build option and less for the buy and fine tune.
 >
-> **[1:38](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/project-idea-checklist?u=76281980&t=98)** Most probably you will need data, so you should discuss with data scientists what would be the best data sets they would like to have, and then reach to data experts or system admins who can confirm if the data was collected, from which period data is available, what is the data quality?
+> **[1:38](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/project-idea-checklist?u=76281980&t=98)** Most probably you will need data, so you should discuss with data scientists what would be the best data sets they would like to have, and then reach to data experts or system admins who can confirm if the data was collected, from which period data is available, what is the [[Data Quality]]?
 >
-> **[2:04](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/project-idea-checklist?u=76281980&t=124)** Based on that, you can prepare summary of current data sets and external ones you'd like to have, cost of acquiring such missing data, estimated time of data cleaning, and potential cost of generating synthetic data.
+> **[2:04](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/project-idea-checklist?u=76281980&t=124)** Based on that, you can prepare summary of current data sets and external ones you'd like to have, cost of acquiring such missing data, estimated time of [[Data Cleaning]], and potential cost of generating synthetic data.
 >
 > **[2:24](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/project-idea-checklist?u=76281980&t=144)** Together with your experts, you should estimate project time, the budget, and ROI.
 >
@@ -2049,11 +2024,11 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/project-idea-checklist?u=76281980&t=168)** Make sure to analyze project dependencies, of course, if you know them.
 >
-> **[2:56](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/project-idea-checklist?u=76281980&t=176)** And then we move on to resources, people, and hardware.
+> **[2:56](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/project-idea-checklist?u=76281980&t=176)** And then we move on to resources, people, and [[Hardware]].
 >
 > **[3:03](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/project-idea-checklist?u=76281980&t=183)** In people section, estimate the number of team members you'll need, and describe the type of skills or profiles required.
 >
-> **[3:13](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/project-idea-checklist?u=76281980&t=193)** You should have this information from data science team.
+> **[3:13](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/project-idea-checklist?u=76281980&t=193)** You should have this information from [[Data Science]] team.
 >
 > **[3:16](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/project-idea-checklist?u=76281980&t=196)** I suggest keeping it simple and using abbreviations, DS for data scientists, PM for project managers, DA for data analyst, MLE for machine learning engineers, DEV for developers, and BU for business experts.
 >
@@ -2085,7 +2060,7 @@ created: 2026-05-02
 >
 > **[5:21](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/project-idea-checklist?u=76281980&t=321)** For each risk, provide a suggested strategy or a contingency plan.
 >
-> **[5:26](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/project-idea-checklist?u=76281980&t=326)** For example, testing an LLM before fine tuning it locally.
+> **[5:26](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/project-idea-checklist?u=76281980&t=326)** For example, testing an LLM before [[Fine Tuning]] it locally.
 >
 > **[5:32](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/project-idea-checklist?u=76281980&t=332)** Focus on five key risks.
 >
@@ -2105,7 +2080,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), ai (4), next (4), business (4), [[Prototyping]] (2)
+> **Frameworks & Libraries:** [[Data Science]] (3), [[Prototyping]] (2), [[Hardware]] (2), [[System Architecture]] (1), [[Data Quality]] (1)
 > **Env Vars:** roi (1), mle (1), dev (1), llm (1)
 > **Cross-References:** in the next (2), we discussed (1), previous video (1)
 > **Exercise Files:** template (3), exercise files (1)
@@ -2114,8 +2089,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Best Practices:** make sure to (1)
 
-#### Fast-track estimations
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/fast-track-estimations?u=76281980)
+#### [Fast-track estimations](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/fast-track-estimations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2135,7 +2109,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/fast-track-estimations?u=76281980&t=50)** I like using so-called ROM, rough order of magnitude estimates.
 >
-> **[0:57](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/fast-track-estimations?u=76281980&t=57)** Based on consultations with experts, both data science and business ones, I assign approximate time ranges in weeks for each major task.
+> **[0:57](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/fast-track-estimations?u=76281980&t=57)** Based on consultations with experts, both [[Data Science]] and business ones, I assign approximate time ranges in weeks for each major task.
 >
 > **[1:08](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/fast-track-estimations?u=76281980&t=68)** Depending on the level of expected project risk, I add some buffers, sometimes even 50% of time, which gives me some time brackets, for example, six to nine months.
 >
@@ -2147,7 +2121,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/fast-track-estimations?u=76281980&t=102)** For the time, it is useful to know the standard AI project phases: Business analysis and data verification, which usually takes around a month.
 >
-> **[1:53](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/fast-track-estimations?u=76281980&t=113)** Then data preparation, including data gathering and cleaning, takes at least two months.
+> **[1:53](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/fast-track-estimations?u=76281980&t=113)** Then [[Data Preparation]], including data gathering and cleaning, takes at least two months.
 >
 > **[2:00](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/fast-track-estimations?u=76281980&t=120)** Then model building.
 >
@@ -2161,9 +2135,9 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/fast-track-estimations?u=76281980&t=159)** Obviously, you can add more resources and shorten the time.
 >
-> **[2:45](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/fast-track-estimations?u=76281980&t=165)** For the budget, you need to estimate, again, roughly main costs groups, excluding internal human resources.
+> **[2:45](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/fast-track-estimations?u=76281980&t=165)** For the budget, you need to estimate, again, roughly main costs groups, excluding internal [[Human Resources (HR)|human resources]].
 >
-> **[2:53](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/fast-track-estimations?u=76281980&t=173)** And those groups are data acquisition or data synthesization; hardware for data storage and computing power aka GPU, or expected cost of cloud usage.
+> **[2:53](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/fast-track-estimations?u=76281980&t=173)** And those groups are [[Data Acquisition]] or data synthesization; [[Hardware]] for [[Data Storage]] and computing power aka GPU, or expected cost of cloud usage.
 >
 > **[3:08](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/fast-track-estimations?u=76281980&t=188)** Then software and tools, including cost of licensing.
 >
@@ -2199,14 +2173,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), ai (4), business (3), power (2), [[Human Resources (HR)|Human resources]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Data Preparation]] (2), [[Human Resources (HR)|Human resources]] (1), [[Data Acquisition]] (1), [[Hardware]] (1)
 > **Env Vars:** roi (3), rom (1), gpu (1)
 > **Analogies:** for example (3)
 > **Cross-References:** previous video (1), we discussed (1)
 > **Speakers:** - [presenter] (1)
 
-#### The final project idea
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/the-final-project-idea?u=76281980)
+#### [The final project idea](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/the-final-project-idea?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2254,7 +2227,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/the-final-project-idea?u=76281980&t=172)** The thing that is missing is how the system is connected to the existing systems used by complaints team, but at this point we can mention that we still consider two options, buy from a vendor or build it on our own.
 >
-> **[3:09](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/the-final-project-idea?u=76281980&t=189)** I've commented on the data, that the data exists, but it is not arranged in a data science-ready way, so it will need additional time to prepare them.
+> **[3:09](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/the-final-project-idea?u=76281980&t=189)** I've commented on the data, that the data exists, but it is not arranged in a [[Data Science]]-ready way, so it will need additional time to prepare them.
 >
 > **[3:21](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/the-final-project-idea?u=76281980&t=201)** I estimate the project to last between six to nine months with 150% ROI level, which means that the project is expected to be very profitable for the company.
 >
@@ -2262,7 +2235,7 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/the-final-project-idea?u=76281980&t=222)** With the budget, I have checked that using the vendor solution and building it on our own will cost a similar sum of money, and I have put it in the comment.
 >
-> **[3:57](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/the-final-project-idea?u=76281980&t=237)** I've uploaded information about required resources for people and hardware, as well as added a comment with, buy fine-tune options.
+> **[3:57](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/the-final-project-idea?u=76281980&t=237)** I've uploaded information about required resources for people and [[Hardware]], as well as added a comment with, buy fine-tune options.
 >
 > **[4:11](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/the-final-project-idea?u=76281980&t=251)** With metrics, I have put 20% less resources working on the process.
 >
@@ -2282,7 +2255,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), ai (4), llm (3), business (1), rag (1)
+> **Frameworks & Libraries:** [[Data Science]] (1), [[Hardware]] (1)
 > **Exercise Files:** template (6)
 > **Env Vars:** llm (3), rag (1), roi (1)
 > **Cross-References:** in the last (1), in the next (1)
@@ -2296,8 +2269,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2311,7 +2283,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/next-steps?u=76281980&t=28)** I hope we'll stay in touch.
 >
-> **[0:30](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/next-steps?u=76281980&t=30)** I'd love to connect with you on LinkedIn.
+> **[0:30](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/next-steps?u=76281980&t=30)** I'd love to connect with you on [[LinkedIn]].
 >
 > **[0:33](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/next-steps?u=76281980&t=33)** I'll be happy to answer questions as well as to hear about your personal stories and AI successes.
 >
@@ -2323,7 +2295,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), business (1), power (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - big (1)
 

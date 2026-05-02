@@ -6,18 +6,18 @@ glossary_type: framework
 linkedin_topics:
   - Web Development
   - Software Development
+  - Cloud Computing
   - Data Science
   - Database Management
-  - Cloud Computing
 tags:
   - glossary
   - type/framework
   - topic/web-development
   - topic/software-development
+  - topic/cloud-computing
   - topic/data-science
   - topic/database-management
-  - topic/cloud-computing
-course_count: 13
+course_count: 14
 created: 2026-05-02
 ---
 
@@ -25,7 +25,7 @@ created: 2026-05-02
 
 # ASP.NET Core
 
-> **Type:** Framework | **Courses:** 13 | **Topics:** [[Web Development]], [[Software Development]], [[Data Science]], [[Database Management]], [[Cloud Computing]]
+> **Type:** Framework | **Courses:** 14 | **Topics:** [[Web Development]], [[Software Development]], [[Cloud Computing]], [[Data Science]], [[Database Management]]
 
 ## Courses
 
@@ -40,20 +40,23 @@ created: 2026-05-02
 9. [[ASP.NET Core- Razor Pages]] — 3 mentions
 10. [[Building Angular and ASP.NET Core Applications]] — 3 mentions
 
-> [!note]- See all 13 courses
+> [!note]- See all 14 courses
 > 11. [[Securing ASP.NET Core Apps- Advanced Techniques for Web Application Security]] — 3 mentions
 > 12. [[C- Design Patterns Part 1]] — 2 mentions
 > 13. [[ASP.NET Core- Building a GraphQL API]] — 1 mentions
+> 14. [[Azure Understanding The Big Picture]] — 1 mentions
 
 ## Learning Paths
 
 1. [[Getting Started as an ASP.NET Core Developer]] — 141 total mentions
-2. [[Getting Started as an Azure Developer]] — 12 total mentions
+2. [[Getting Started as an Azure Developer]] — 13 total mentions
 3. [[Database Foundations- From Concepts to Applications]] — 9 total mentions
 4. [[Advance Your Database Administration Skills]] — 9 total mentions
 5. [[Advancing Your Azure Developer Skills- Exploring Complex Application Development]] — 4 total mentions
 6. [[Elevating C- Skills- Building Robust Applications]] — 3 total mentions
 7. [[Getting Started as a C- Developer]] — 2 total mentions
+8. [[Azure Administration for Beginners- Management Tools, Services, and Security]] — 1 total mentions
+9. [[Getting Started with Cloud Development]] — 1 total mentions
 
 ---
 

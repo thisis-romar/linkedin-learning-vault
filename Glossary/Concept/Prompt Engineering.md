@@ -17,7 +17,7 @@ tags:
   - topic/data-science
   - topic/security
   - topic/network-and-system-administration
-course_count: 93
+course_count: 94
 created: 2026-05-02
 ---
 
@@ -25,7 +25,7 @@ created: 2026-05-02
 
 # Prompt Engineering
 
-> **Type:** Concept | **Courses:** 93 | **Topics:** [[Artificial Intelligence (AI)]], [[Software Development]], [[Data Science]], [[Cybersecurity]], [[Network and System Administration]]
+> **Type:** Concept | **Courses:** 94 | **Topics:** [[Artificial Intelligence (AI)]], [[Software Development]], [[Data Science]], [[Cybersecurity]], [[Network and System Administration]]
 
 ## Courses
 
@@ -40,7 +40,7 @@ created: 2026-05-02
 9. [[MLOps and Data Pipeline Orchestration for AI Systems]] — 11 mentions
 10. [[ChatGPT and SQL]] — 10 mentions
 
-> [!note]- See all 93 courses
+> [!note]- See all 94 courses
 > 11. [[Rust for Data Engineering]] — 10 mentions
 > 12. [[Prompt Engineering with ChatGPT]] — 9 mentions
 > 13. [[Generative AI for Data Engineering- ChatGPT Power Tips]] — 9 mentions
@@ -98,32 +98,33 @@ created: 2026-05-02
 > 65. [[Compliance and Regulations for Generative AI]] — 1 mentions
 > 66. [[RAG and Fine-Tuning Explained]] — 1 mentions
 > 67. [[Getting Hands-On with GPT Models- Tips and Tricks]] — 1 mentions
-> 68. [[Generative Ai Skills For Creative Content Opportunities Issues And Ethics]] — 1 mentions
-> 69. [[Practical Cybersecurity for IT Professionals]] — 1 mentions
-> 70. [[Accessibility and AI- Bridging the Disability Divide]] — 1 mentions
-> 71. [[Amplify Your Communication Skills with Generative AI]] — 1 mentions
-> 72. [[Integrating Generative AI into the Creative Process]] — 1 mentions
-> 73. [[Excel with Copilot- AI-Driven Data Analysis]] — 1 mentions
-> 74. [[Devops Foundations]] — 1 mentions
-> 75. [[AI Programming for JavaScript Developers]] — 1 mentions
-> 76. [[Build a JavaScript AI App with React and the OpenAI API]] — 1 mentions
-> 77. [[AI Orchestration- Planning and Orchestrating for Observability]] — 1 mentions
-> 78. [[Build Ai Agents And Automate Workflows With N8n]] — 1 mentions
-> 79. [[The AI Ecosystem for Developers- Models, Datasets, and APIs]] — 1 mentions
-> 80. [[Advanced LLMs with Retrieval Augmented Generation (RAG)- Practical Projects for AI Applications]] — 1 mentions
-> 81. [[Leveraging Ai In Your Nonprofit Role By Microsoft And Nethope]] — 1 mentions
-> 82. [[Building Serverless Apps with AI Services on AWS]] — 1 mentions
-> 83. [[Hands On Ai Build Your Own Gpts]] — 1 mentions
-> 84. [[Using Generative Artificial Intelligence (AI) in Supply Chains]] — 1 mentions
-> 85. [[Using AI as Your SEO Assistant]] — 1 mentions
-> 86. [[Google Cloud Platform for Machine Learning Essential Training]] — 1 mentions
-> 87. [[Introduction to Generative Adversarial Networks (GANs)]] — 1 mentions
-> 88. [[Azure AI for Developers- Using the Azure AI Model Catalog]] — 1 mentions
-> 89. [[Learning ChatGPT for Business Analysis]] — 1 mentions
-> 90. [[UX for AI- Design Practices for AI Developers]] — 1 mentions
-> 91. [[Building RAG Solutions with Azure AI Foundry (Formerly Azure AI Studio)]] — 1 mentions
-> 92. [[Data Preparation, Feature Engineering, and Augmentation for AI Models]] — 1 mentions
-> 93. [[Understanding Artificial Intelligence Concepts And Terminology With Iso Iec 22989]] — 1 mentions
+> 68. [[AI Data Strategy- Data Procurement and Storage]] — 1 mentions
+> 69. [[Generative Ai Skills For Creative Content Opportunities Issues And Ethics]] — 1 mentions
+> 70. [[Practical Cybersecurity for IT Professionals]] — 1 mentions
+> 71. [[Accessibility and AI- Bridging the Disability Divide]] — 1 mentions
+> 72. [[Amplify Your Communication Skills with Generative AI]] — 1 mentions
+> 73. [[Integrating Generative AI into the Creative Process]] — 1 mentions
+> 74. [[Excel with Copilot- AI-Driven Data Analysis]] — 1 mentions
+> 75. [[Devops Foundations]] — 1 mentions
+> 76. [[AI Programming for JavaScript Developers]] — 1 mentions
+> 77. [[Build a JavaScript AI App with React and the OpenAI API]] — 1 mentions
+> 78. [[AI Orchestration- Planning and Orchestrating for Observability]] — 1 mentions
+> 79. [[Build Ai Agents And Automate Workflows With N8n]] — 1 mentions
+> 80. [[The AI Ecosystem for Developers- Models, Datasets, and APIs]] — 1 mentions
+> 81. [[Advanced LLMs with Retrieval Augmented Generation (RAG)- Practical Projects for AI Applications]] — 1 mentions
+> 82. [[Leveraging Ai In Your Nonprofit Role By Microsoft And Nethope]] — 1 mentions
+> 83. [[Building Serverless Apps with AI Services on AWS]] — 1 mentions
+> 84. [[Hands On Ai Build Your Own Gpts]] — 1 mentions
+> 85. [[Using Generative Artificial Intelligence (AI) in Supply Chains]] — 1 mentions
+> 86. [[Using AI as Your SEO Assistant]] — 1 mentions
+> 87. [[Google Cloud Platform for Machine Learning Essential Training]] — 1 mentions
+> 88. [[Introduction to Generative Adversarial Networks (GANs)]] — 1 mentions
+> 89. [[Azure AI for Developers- Using the Azure AI Model Catalog]] — 1 mentions
+> 90. [[Learning ChatGPT for Business Analysis]] — 1 mentions
+> 91. [[UX for AI- Design Practices for AI Developers]] — 1 mentions
+> 92. [[Building RAG Solutions with Azure AI Foundry (Formerly Azure AI Studio)]] — 1 mentions
+> 93. [[Data Preparation, Feature Engineering, and Augmentation for AI Models]] — 1 mentions
+> 94. [[Understanding Artificial Intelligence Concepts And Terminology With Iso Iec 22989]] — 1 mentions
 
 ## Learning Paths
 

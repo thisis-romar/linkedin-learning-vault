@@ -54,8 +54,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Governing agentic AI systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/governing-agentic-ai-systems-by-all-tech-is-human/governing-agentic-ai-systems?u=76281980)
+#### [Governing agentic AI systems](https://www.linkedin.com/learning/governing-agentic-ai-systems-by-all-tech-is-human/governing-agentic-ai-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -63,7 +62,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/governing-agentic-ai-systems-by-all-tech-is-human/governing-agentic-ai-systems?u=76281980&t=6)** I'm your instructor, Rebecca Tweed, Executive Director of AlltechIsHuman, and I will be guiding you through this course, where we will move from static prompt-in, prediction-out models to a new generation of agents, systems that can plan, call tools and APIs, coordinate multi-step tasks, and act with varying degrees of autonomy.
 >
-> **[0:30](https://www.linkedin.com/learning/governing-agentic-ai-systems-by-all-tech-is-human/governing-agentic-ai-systems?u=76281980&t=30)** With that shift, familiar risks from generative AI collide with longstanding risks from automated decision-making.
+> **[0:30](https://www.linkedin.com/learning/governing-agentic-ai-systems-by-all-tech-is-human/governing-agentic-ai-systems?u=76281980&t=30)** With that shift, familiar risks from [[Generative AI]] collide with longstanding risks from automated [[Decision-Making]].
 >
 > **[0:38](https://www.linkedin.com/learning/governing-agentic-ai-systems-by-all-tech-is-human/governing-agentic-ai-systems?u=76281980&t=38)** And new risks appear.
 >
@@ -87,9 +86,9 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/governing-agentic-ai-systems-by-all-tech-is-human/governing-agentic-ai-systems?u=76281980&t=84)** Two, tools exposed through APIs to perceive and act.
 >
-> **[1:30](https://www.linkedin.com/learning/governing-agentic-ai-systems-by-all-tech-is-human/governing-agentic-ai-systems?u=76281980&t=90)** Search, code exec, email, database queries, robotic controls, or payments.
+> **[1:30](https://www.linkedin.com/learning/governing-agentic-ai-systems-by-all-tech-is-human/governing-agentic-ai-systems?u=76281980&t=90)** Search, code exec, email, [[Database Queries]], robotic controls, or payments.
 >
-> **[1:37](https://www.linkedin.com/learning/governing-agentic-ai-systems-by-all-tech-is-human/governing-agentic-ai-systems?u=76281980&t=97)** And three, a scaffold that manages control flow with memory, retrievers, planners, critics, and guards, error handling, and logging.
+> **[1:37](https://www.linkedin.com/learning/governing-agentic-ai-systems-by-all-tech-is-human/governing-agentic-ai-systems?u=76281980&t=97)** And three, a scaffold that manages [[Control Flow]] with memory, retrievers, planners, critics, and guards, error handling, and logging.
 >
 > **[1:47](https://www.linkedin.com/learning/governing-agentic-ai-systems-by-all-tech-is-human/governing-agentic-ai-systems?u=76281980&t=107)** The step pattern looks like a control loop.
 >
@@ -101,7 +100,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/governing-agentic-ai-systems-by-all-tech-is-human/governing-agentic-ai-systems?u=76281980&t=119)** Different parties may own the foundation model, the third-party tools, the scaffolding framework, the agent design, and the deployer who integrates it into business workflows.
 >
-> **[2:09](https://www.linkedin.com/learning/governing-agentic-ai-systems-by-all-tech-is-human/governing-agentic-ai-systems?u=76281980&t=129)** That modularity is powerful, but it also fractures accountability and spreads risk across organizations.
+> **[2:09](https://www.linkedin.com/learning/governing-agentic-ai-systems-by-all-tech-is-human/governing-agentic-ai-systems?u=76281980&t=129)** That modularity is powerful, but it also fractures [[Accountability]] and spreads risk across organizations.
 >
 > **[2:18](https://www.linkedin.com/learning/governing-agentic-ai-systems-by-all-tech-is-human/governing-agentic-ai-systems?u=76281980&t=138)** Two quick distinctions help frame the governance problem.
 >
@@ -157,7 +156,7 @@ created: 2026-05-02
 >
 > **[4:54](https://www.linkedin.com/learning/governing-agentic-ai-systems-by-all-tech-is-human/governing-agentic-ai-systems?u=76281980&t=294)** Agent workflows can loop, recall tools unnecessarily, or pursue dead ends, wasting compute, time, and money.
 >
-> **[5:01](https://www.linkedin.com/learning/governing-agentic-ai-systems-by-all-tech-is-human/governing-agentic-ai-systems?u=76281980&t=301)** Industry guidance specifically calls out infinite feedback loops and the need for real-time monitoring, termination conditions, and cost guards.
+> **[5:01](https://www.linkedin.com/learning/governing-agentic-ai-systems-by-all-tech-is-human/governing-agentic-ai-systems?u=76281980&t=301)** Industry guidance specifically calls out infinite feedback loops and the need for [[Real-Time]] monitoring, termination conditions, and cost guards.
 >
 > **[5:10](https://www.linkedin.com/learning/governing-agentic-ai-systems-by-all-tech-is-human/governing-agentic-ai-systems?u=76281980&t=310)** Number five, opacity and auditability.
 >
@@ -171,7 +170,7 @@ created: 2026-05-02
 >
 > **[5:33](https://www.linkedin.com/learning/governing-agentic-ai-systems-by-all-tech-is-human/governing-agentic-ai-systems?u=76281980&t=333)** Practically, it means you'll need richer logs than you've ever kept for traditional software.
 >
-> **[5:39](https://www.linkedin.com/learning/governing-agentic-ai-systems-by-all-tech-is-human/governing-agentic-ai-systems?u=76281980&t=339)** Number six, privacy across the stack.
+> **[5:39](https://www.linkedin.com/learning/governing-agentic-ai-systems-by-all-tech-is-human/governing-agentic-ai-systems?u=76281980&t=339)** Number six, [[Privacy]] across the stack.
 >
 > **[5:42](https://www.linkedin.com/learning/governing-agentic-ai-systems-by-all-tech-is-human/governing-agentic-ai-systems?u=76281980&t=342)** Agents touch many data surfaces, prompts, retrieved documents, tool and API payloads, long-term memory, and third-party plugins.
 >
@@ -211,11 +210,11 @@ created: 2026-05-02
 >
 > **[8:25](https://www.linkedin.com/learning/governing-agentic-ai-systems-by-all-tech-is-human/governing-agentic-ai-systems?u=76281980&t=505)** Let's discuss the ethical and conceptual foundations for agent governance.
 >
-> **[8:30](https://www.linkedin.com/learning/governing-agentic-ai-systems-by-all-tech-is-human/governing-agentic-ai-systems?u=76281980&t=510)** Agentic AI blurs the boundary between tools and collaborators, algorithms and actors.
+> **[8:30](https://www.linkedin.com/learning/governing-agentic-ai-systems-by-all-tech-is-human/governing-agentic-ai-systems?u=76281980&t=510)** Agentic AI blurs the boundary between tools and collaborators, [[Algorithms]] and actors.
 >
 > **[8:36](https://www.linkedin.com/learning/governing-agentic-ai-systems-by-all-tech-is-human/governing-agentic-ai-systems?u=76281980&t=516)** Ethical design asks us to be upfront about non-human status and to avoid building parasocial hooks that manipulate vulnerable users.
 >
-> **[8:44](https://www.linkedin.com/learning/governing-agentic-ai-systems-by-all-tech-is-human/governing-agentic-ai-systems?u=76281980&t=524)** Transparency and consent aren't just UI choices, they are ethics by design.
+> **[8:44](https://www.linkedin.com/learning/governing-agentic-ai-systems-by-all-tech-is-human/governing-agentic-ai-systems?u=76281980&t=524)** Transparency and consent aren't just UI choices, they are [[Ethics]] by design.
 >
 > **[8:49](https://www.linkedin.com/learning/governing-agentic-ai-systems-by-all-tech-is-human/governing-agentic-ai-systems?u=76281980&t=529)** Agentic AI also tests our commitment to human autonomy.
 >
@@ -251,7 +250,7 @@ created: 2026-05-02
 >
 > **[10:14](https://www.linkedin.com/learning/governing-agentic-ai-systems-by-all-tech-is-human/governing-agentic-ai-systems?u=76281980&t=614)** Nothing should act in the dark.
 >
-> **[10:16](https://www.linkedin.com/learning/governing-agentic-ai-systems-by-all-tech-is-human/governing-agentic-ai-systems?u=76281980&t=616)** Measure multi-step behavior with scenario evals, red teaming, and replayable traces tied to risk tier.
+> **[10:16](https://www.linkedin.com/learning/governing-agentic-ai-systems-by-all-tech-is-human/governing-agentic-ai-systems?u=76281980&t=616)** Measure multi-step behavior with scenario evals, [[Red Teaming]], and replayable traces tied to risk tier.
 >
 > **[10:24](https://www.linkedin.com/learning/governing-agentic-ai-systems-by-all-tech-is-human/governing-agentic-ai-systems?u=76281980&t=624)** Manage launches, monitoring, incidents, and change control with graduated autonomy based on evidence.
 >
@@ -265,7 +264,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), data (6), [[Accountability]] (4), [[Security]] (3), llm (3)
+> **Frameworks & Libraries:** [[Accountability]] (4), [[Privacy]] (2), [[Decision-Making]] (1), [[Database Queries]] (1), [[Real-Time]] (1)
 > **Env Vars:** llm (3), crm (1), api (1), sas (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1), is a  (1)

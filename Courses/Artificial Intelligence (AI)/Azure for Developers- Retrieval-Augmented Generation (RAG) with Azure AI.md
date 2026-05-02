@@ -94,12 +94,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Intro to RAG with Azure AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/intro-video-to-be-renamed?u=76281980)
+#### [Intro to RAG with Azure AI](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/intro-video-to-be-renamed?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/intro-video-to-be-renamed?u=76281980&t=0)** - [Ziggy] Are you ready to unlock the power of Gentic AI with Azure and Python qto transform your business data?
+> **[0:00](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/intro-video-to-be-renamed?u=76281980&t=0)** - [Ziggy] Are you ready to unlock the power of Gentic AI with [[Microsoft Azure|Azure]] and [[Python (Programming Language)|Python]] qto transform your business data?
 >
 > **[0:08](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/intro-video-to-be-renamed?u=76281980&t=8)** Retrieval augmented generation, or RAG, is changing how companies deliver precise data-driven results.
 >
@@ -119,29 +118,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rag (4), [[Python (Programming Language)|Python]] (3), data (3), ai (2), [[Microsoft Azure|Azure]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Microsoft Azure|Azure]] (2)
 > **Env Vars:** rag (4)
 > **CLI Commands:** python (3)
 > **Speakers:** - [ziggy] (1)
 
-#### Course prerequisites
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/course-prerequisites?u=76281980)
+#### [Course prerequisites](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/course-prerequisites?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/course-prerequisites?u=76281980&t=0)** - [Narrator] We have the following prerequisites for this course.
 >
-> **[0:04](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/course-prerequisites?u=76281980&t=4)** All the videos on this course will cover code developed in Python, hence, an understanding of Python would be needed.
+> **[0:04](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/course-prerequisites?u=76281980&t=4)** All the videos on this course will cover code developed in [[Python (Programming Language)|Python]], hence, an understanding of Python would be needed.
 >
-> **[0:12](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/course-prerequisites?u=76281980&t=12)** In addition, you need experience in GitHub Codespaces to be able to run the notebooks in this course.
+> **[0:12](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/course-prerequisites?u=76281980&t=12)** In addition, you need experience in [[GitHub]] [[Codespaces]] to be able to run the notebooks in this course.
 >
 > **[0:20](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/course-prerequisites?u=76281980&t=20)** Alternatively, the notebooks can be run locally via Visual Studio Code.
 >
-> **[0:26](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/course-prerequisites?u=76281980&t=26)** Finally, it is important that one has access to Azure to create the needed resources such as Azure OpenAI, Azure Cosmos DB, and Azure AI Search.
+> **[0:26](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/course-prerequisites?u=76281980&t=26)** Finally, it is important that one has access to [[Microsoft Azure|Azure]] to create the needed resources such as Azure OpenAI, Azure Cosmos DB, and Azure AI Search.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Python (Programming Language)|Python]] (2), [[GitHub]] (1), [[Codespaces]] (1), ai (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Python (Programming Language)|Python]] (2), [[GitHub]] (1), [[Codespaces]] (1)
 > **CLI Commands:** python (2)
 > **Tools:** github (1), visual studio (1)
 > **Analogies:** such as (1)
@@ -152,12 +150,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Fundamental concepts of RAG
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/fundamental-concepts-of-rag?u=76281980)
+#### [Fundamental concepts of RAG](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/fundamental-concepts-of-rag?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/fundamental-concepts-of-rag?u=76281980&t=0)** - [Instructor] Retrieval-augmented generation or RAG is the technique of adding data to a language model from an external data source.
+> **[0:00](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/fundamental-concepts-of-rag?u=76281980&t=0)** - [Instructor] [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] or RAG is the technique of adding data to a language model from an external data source.
 >
 > **[0:10](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/fundamental-concepts-of-rag?u=76281980&t=10)** Since language models are trained on a large set of data, mainly from the internet, they have no knowledge of your private corporate data, such as legal contracts, product manuals, customer information sheets, and software code.
 >
@@ -175,7 +172,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/fundamental-concepts-of-rag?u=76281980&t=62)** The system is unable to answer the same questions when the documents are detached since they're not stored in the model's internal memory.
 >
-> **[1:11](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/fundamental-concepts-of-rag?u=76281980&t=71)** As we develop RAG solutions, it is also important to understand the concept of tokens and embeddings as they help you understand how language models and RAG solutions work.
+> **[1:11](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/fundamental-concepts-of-rag?u=76281980&t=71)** As we develop RAG solutions, it is also important to understand the concept of [[Tokens]] and embeddings as they help you understand how language models and RAG solutions work.
 >
 > **[1:24](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/fundamental-concepts-of-rag?u=76281980&t=84)** Tokens play a huge part in RAG because language models like OpenAI are priced based on token usage.
 >
@@ -183,7 +180,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/fundamental-concepts-of-rag?u=76281980&t=111)** The OpenAI tokenizer website is a very good guide.
 >
-> **[1:56](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/fundamental-concepts-of-rag?u=76281980&t=116)** It shows you the token and character count for each word that you enter.
+> **[1:56](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/fundamental-concepts-of-rag?u=76281980&t=116)** It shows you the token and character count for each [[Microsoft Word|word]] that you enter.
 >
 > **[2:02](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/fundamental-concepts-of-rag?u=76281980&t=122)** It also shows you the token IDs assigned for each word.
 >
@@ -199,7 +196,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/fundamental-concepts-of-rag?u=76281980&t=164)** This is a basic sample of embeddings in three dimensions.
 >
-> **[2:48](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/fundamental-concepts-of-rag?u=76281980&t=168)** In this course, we'll use the Azure OpenAI embeddings model, which ranges from hundreds to even thousands of dimensions.
+> **[2:48](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/fundamental-concepts-of-rag?u=76281980&t=168)** In this course, we'll use the [[Microsoft Azure|Azure]] OpenAI embeddings model, which ranges from hundreds to even thousands of dimensions.
 >
 > **[2:57](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/fundamental-concepts-of-rag?u=76281980&t=177)** We will use this model to create the embeddings of our company data.
 >
@@ -209,15 +206,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rag (11), data (7), [[Tokens]] (6), prompt (2), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Tokens]] (6), [[Microsoft Word|Word]] (2), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** rag (11)
 > **CLI Commands:** cat (2), find (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** such as (1), imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### RAG process and architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/rag-process-and-architecture?u=76281980)
+#### [RAG process and architecture](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/rag-process-and-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -237,7 +233,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/rag-process-and-architecture?u=76281980&t=50)** Two, the chunk documents are then converted into embeddings.
 >
-> **[0:54](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/rag-process-and-architecture?u=76281980&t=54)** We'll use the Azure OpenAI embeddings model in this course.
+> **[0:54](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/rag-process-and-architecture?u=76281980&t=54)** We'll use the [[Microsoft Azure|Azure]] OpenAI embeddings model in this course.
 >
 > **[0:58](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/rag-process-and-architecture?u=76281980&t=58)** The embeddings are then stored in a data source for storage and retrieval.
 >
@@ -291,25 +287,24 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/rag-process-and-architecture?u=76281980&t=230)** It may also contain many features, such as having a chat history, feedback buttons, text-to-speech capability, the ability to upload files or images, and many more.
 >
-> **[4:03](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/rag-process-and-architecture?u=76281980&t=243)** In our course, we'll set up Azure AI Search and Azure Cosmos DB as the retriever, Azure OpenAI as the language model, and create an orchestrator using Python.
+> **[4:03](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/rag-process-and-architecture?u=76281980&t=243)** In our course, we'll set up Azure AI Search and Azure Cosmos DB as the retriever, Azure OpenAI as the language model, and create an orchestrator using [[Python (Programming Language)|Python]].
 >
 > **[4:16](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/rag-process-and-architecture?u=76281980&t=256)** With this kind of architecture, you'll have many options for a front end, from a mobile app to a web chat application.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rag (10), [[Search]] (9), [[Microsoft Azure|Azure]] (6), data (6), application (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** rag (10)
 > **Analogies:** such as (3), imagine (1)
 > **Prerequisites:** setup (1), set up (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 
-#### Vector databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/vector-databases?u=76281980)
+#### [Vector databases](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/vector-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/vector-databases?u=76281980&t=0)** - [Instructor] We mentioned in the previous video that an information retrieval system, or retriever, is needed to act as your data source.
+> **[0:00](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/vector-databases?u=76281980&t=0)** - [Instructor] We mentioned in the previous video that an [[Information Retrieval]] system, or retriever, is needed to act as your data source.
 >
 > **[0:09](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/vector-databases?u=76281980&t=9)** This system would store your vector embeddings and provide the logic and ability to search for those embeddings based on different retrieval and search methods.
 >
@@ -317,19 +312,19 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/vector-databases?u=76281980&t=27)** It is a database designed to store and manage vector embeddings.
 >
-> **[0:32](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/vector-databases?u=76281980&t=32)** All vector databases will provide the ability to perform vector search.
+> **[0:32](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/vector-databases?u=76281980&t=32)** All [[Vector Databases]] will provide the ability to perform vector search.
 >
 > **[0:39](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/vector-databases?u=76281980&t=39)** It's a method that helps you find similar items based on their data characteristics, rather than by exact matches on a property field.
 >
-> **[0:49](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/vector-databases?u=76281980&t=49)** It works by taking the vector representations of your data created using an embedding model, like Azure OpenAI embeddings, and measuring the distance between these data vectors and your query vector.
+> **[0:49](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/vector-databases?u=76281980&t=49)** It works by taking the vector representations of your data created using an embedding model, like [[Microsoft Azure|Azure]] OpenAI embeddings, and measuring the distance between these data vectors and your query vector.
 >
 > **[1:04](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/vector-databases?u=76281980&t=64)** The data vectors that are closest to your query vector are the ones that are found to be most similar sematically.
 >
 > **[1:11](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/vector-databases?u=76281980&t=71)** Not all vector databases are alike, however.
 >
-> **[1:15](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/vector-databases?u=76281980&t=75)** First, some databases are just pure vector databases, while others are integrated vector databases.
+> **[1:15](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/vector-databases?u=76281980&t=75)** First, some [[Databases]] are just pure vector databases, while others are integrated vector databases.
 >
-> **[1:23](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/vector-databases?u=76281980&t=83)** Pure vector databases are designed to efficiently store and manage vector embeddings, along with a small amount of metadata.
+> **[1:23](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/vector-databases?u=76281980&t=83)** Pure vector databases are designed to efficiently store and manage vector embeddings, along with a small amount of [[Metadata]].
 >
 > **[1:33](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/vector-databases?u=76281980&t=93)** They are separate from the data source, from which the embeddings are derived.
 >
@@ -339,7 +334,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/vector-databases?u=76281980&t=115)** Moreover, keeping the vector embeddings and original data together better facilitates data operations and enables greater data consistency, scale, and performance.
 >
-> **[2:10](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/vector-databases?u=76281980&t=130)** Second, some databases will have different search algorithms available.
+> **[2:10](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/vector-databases?u=76281980&t=130)** Second, some databases will have different search [[Algorithms]] available.
 >
 > **[2:16](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/vector-databases?u=76281980&t=136)** While all vector databases provide you with the ability to perform vector searches, each may support different vector search algorithms.
 >
@@ -355,7 +350,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/vector-databases?u=76281980&t=212)** Azure AI Search, for example, is your choice if data is composed of large PDF files.
 >
-> **[3:38](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/vector-databases?u=76281980&t=218)** Azure Cosmos DB would do best for JSON data.
+> **[3:38](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/vector-databases?u=76281980&t=218)** Azure Cosmos DB would do best for [[JSON]] data.
 >
 > **[3:42](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/vector-databases?u=76281980&t=222)** Finally, each vector database has its own additional features.
 >
@@ -367,7 +362,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Search]] (13), [[Vector Databases]] (8), [[Microsoft Azure|Azure]] (6), database (5)
+> **Frameworks & Libraries:** [[Vector Databases]] (8), [[Microsoft Azure|Azure]] (6), [[Databases]] (4), [[Algorithms]] (4), [[Information Retrieval]] (2)
 > **Env Vars:** rag (1), hnsw (1), knn (1), ivf (1), pdf (1)
 > **Analogies:** such as (2), for example (2)
 > **Cross-References:** we mentioned (1), previous video (1)
@@ -375,8 +370,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Azure OpenAI embeddings model
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/azure-openai-embeddings-model?u=76281980)
+#### [Azure OpenAI embeddings model](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/azure-openai-embeddings-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -386,7 +380,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/azure-openai-embeddings-model?u=76281980&t=17)** An embedding model is needed for text to be converted into numerical vectors.
 >
-> **[0:23](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/azure-openai-embeddings-model?u=76281980&t=23)** In this course, we'll be using the Azure OpenAI embed model to convert both our documents and user queries into vector form.
+> **[0:23](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/azure-openai-embeddings-model?u=76281980&t=23)** In this course, we'll be using the [[Microsoft Azure|Azure]] OpenAI embed model to convert both our documents and user queries into vector form.
 >
 > **[0:34](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/azure-openai-embeddings-model?u=76281980&t=34)** As of this recording, we currently have three models.
 >
@@ -410,13 +404,13 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/azure-openai-embeddings-model?u=76281980&t=113)** A text-embedding-3-large model shortened to a size of 256 will still outperform a text-embedding-ada-002 model with the size of 1,536.
 >
-> **[2:07](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/azure-openai-embeddings-model?u=76281980&t=127)** The dimensions parameter is not supported in all versions of the OpenAI Python library.
+> **[2:07](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/azure-openai-embeddings-model?u=76281980&t=127)** The dimensions parameter is not supported in all versions of the OpenAI [[Python (Programming Language)|Python]] library.
 >
 > **[2:13](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/azure-openai-embeddings-model?u=76281980&t=133)** To take advantage of this parameter, you need to upgrade to the latest version of OpenAI.
 >
 > **[2:20](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/azure-openai-embeddings-model?u=76281980&t=140)** Finally, there are some best practices that we should also consider.
 >
-> **[2:25](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/azure-openai-embeddings-model?u=76281980&t=145)** The maximum length of input text for the embedding models is 8,192 tokens.
+> **[2:25](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/azure-openai-embeddings-model?u=76281980&t=145)** The maximum length of input text for the embedding models is 8,192 [[Tokens]].
 >
 > **[2:33](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/azure-openai-embeddings-model?u=76281980&t=153)** You should verify that your inputs don't exceed this limit before making a request.
 >
@@ -426,7 +420,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rag (1), database (1), [[Search]] (1), [[Microsoft Azure|Azure]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1), [[Python (Programming Language)|Python]] (1), [[Tokens]] (1)
 > **CLI Commands:** python (1), make (1)
 > **Env Vars:** rag (1), mteb (1)
 > **Cross-References:** we discussed (1)
@@ -434,14 +428,13 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a RAG solution with Azure AI Foundry
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-rag-solution-with-azure-ai-foundry?u=76281980)
+#### [Creating a RAG solution with Azure AI Foundry](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-rag-solution-with-azure-ai-foundry?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-rag-solution-with-azure-ai-foundry?u=76281980&t=0)** - [Instructor] This course is focused on creating a RAG solution in Azure using the Python SDKs.
+> **[0:00](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-rag-solution-with-azure-ai-foundry?u=76281980&t=0)** - [Instructor] This course is focused on creating a RAG solution in [[Microsoft Azure|Azure]] using the [[Python (Programming Language)|Python]] SDKs.
 >
-> **[0:07](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-rag-solution-with-azure-ai-foundry?u=76281980&t=7)** However, I would like to demonstrate that you can also create one using Azure AI Foundry.
+> **[0:07](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-rag-solution-with-azure-ai-foundry?u=76281980&t=7)** However, I would like to demonstrate that you can also create one using [[Azure AI Foundry]].
 >
 > **[0:14](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-rag-solution-with-azure-ai-foundry?u=76281980&t=14)** We start by going to ai.[azure.com](https://azure.com) and create a project.
 >
@@ -455,7 +448,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-rag-solution-with-azure-ai-foundry?u=76281980&t=76)** We need to take note of the token limit assigned.
 >
-> **[1:30](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-rag-solution-with-azure-ai-foundry?u=76281980&t=90)** The chat completion model would be gpt-4 Omni
+> **[1:30](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-rag-solution-with-azure-ai-foundry?u=76281980&t=90)** The chat completion model would be [[GPT-4]] Omni
 >
 > **[1:39](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-rag-solution-with-azure-ai-foundry?u=76281980&t=99)** to contain our data and embeddings.
 >
@@ -479,7 +472,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-rag-solution-with-azure-ai-foundry?u=76281980&t=199)** We then test the index by submitting test questions.
 >
-> **[3:30](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-rag-solution-with-azure-ai-foundry?u=76281980&t=210)** We can use prompt flow to customize the model even further.
+> **[3:30](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-rag-solution-with-azure-ai-foundry?u=76281980&t=210)** We can use [[Prompt Flow]] to customize the model even further.
 >
 > **[3:41](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-rag-solution-with-azure-ai-foundry?u=76281980&t=221)** In this example, I cloned one of the available templates, Multi-Round Q&A on Your Data.
 >
@@ -491,11 +484,11 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-rag-solution-with-azure-ai-foundry?u=76281980&t=273)** We then test the prompt flow we created by providing sample questions.
 >
-> **[4:46](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-rag-solution-with-azure-ai-foundry?u=76281980&t=286)** Once the prompt flow is fully set up, we can deploy the model to virtual machines.
+> **[4:46](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-rag-solution-with-azure-ai-foundry?u=76281980&t=286)** Once the prompt flow is fully set up, we can deploy the model to [[Virtual Machines]].
 >
 > **[5:02](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-rag-solution-with-azure-ai-foundry?u=76281980&t=302)** Deployment will take a while, but once done, you can finally test the deployed model using sample questions.
 >
-> **[5:22](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-rag-solution-with-azure-ai-foundry?u=76281980&t=322)** We can then consume the model using its REST endpoint or use the available code samples.
+> **[5:22](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-rag-solution-with-azure-ai-foundry?u=76281980&t=322)** We can then consume the model using its [[Representational State Transfer (REST)|REST]] endpoint or use the available code samples.
 >
 > **[5:34](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-rag-solution-with-azure-ai-foundry?u=76281980&t=334)** To further illustrate how we can consume the deployed model, I will demonstrate to you how to access the model using Postman.
 >
@@ -503,7 +496,7 @@ created: 2026-05-02
 >
 > **[6:01](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-rag-solution-with-azure-ai-foundry?u=76281980&t=361)** We specified the authorization setting in the header section by copying the primary key from the Foundry.
 >
-> **[6:14](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-rag-solution-with-azure-ai-foundry?u=76281980&t=374)** We then specified the JSON input in the body, which should contain the question and chat history.
+> **[6:14](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-rag-solution-with-azure-ai-foundry?u=76281980&t=374)** We then specified the [[JSON]] input in the body, which should contain the question and chat history.
 >
 > **[6:26](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-rag-solution-with-azure-ai-foundry?u=76281980&t=386)** Here's another example with chat history captured.
 >
@@ -513,13 +506,13 @@ created: 2026-05-02
 >
 > **[6:54](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-rag-solution-with-azure-ai-foundry?u=76281980&t=414)** We will demonstrate in the next chapters how to use Python to create these RAG solutions.
 >
-> **[7:00](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-rag-solution-with-azure-ai-foundry?u=76281980&t=420)** If you want to know more about how to exclusively build RAG solutions with Azure AI Foundry, you may refer to this course on building RAG solutions with Azure AI Studio.
+> **[7:00](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-rag-solution-with-azure-ai-foundry?u=76281980&t=420)** If you want to know more about how to exclusively build RAG solutions with Azure AI Foundry, you may refer to this course on building RAG solutions with [[Azure AI Studio]].
 >
-> **[7:12](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-rag-solution-with-azure-ai-foundry?u=76281980&t=432)** Microsoft recently rebranded Azure AI Studio to Azure AI Foundry, but the concepts are the same.
+> **[7:12](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-rag-solution-with-azure-ai-foundry?u=76281980&t=432)** [[Microsoft]] recently rebranded Azure AI Studio to Azure AI Foundry, but the concepts are the same.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Microsoft Azure|Azure]] (6), rag (5), prompt (4), [[Python (Programming Language)|Python]] (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Prompt Flow]] (4), [[Python (Programming Language)|Python]] (3), [[Azure AI Foundry]] (3), [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** rag (5), rest (2), pdf (1), json (1)
 > **CLI Commands:** python (3), make (1)
 > **Tools:** azure portal (1), postman (1)
@@ -533,12 +526,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### RAG using Azure AI Search
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/rag-using-azure-ai-search?u=76281980)
+#### [RAG using Azure AI Search](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/rag-using-azure-ai-search?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/rag-using-azure-ai-search?u=76281980&t=0)** - [Instructor] This chapter focuses on building a RAG solution using Azure AI search and Azure Open AI with Python.
+> **[0:00](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/rag-using-azure-ai-search?u=76281980&t=0)** - [Instructor] This chapter focuses on building a RAG solution using [[Microsoft Azure|Azure]] AI search and Azure Open AI with [[Python (Programming Language)|Python]].
 >
 > **[0:13](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/rag-using-azure-ai-search?u=76281980&t=13)** We will use the high level architecture specified in the Azure AI search documentation.
 >
@@ -550,7 +542,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/rag-using-azure-ai-search?u=76281980&t=54)** The language model generates a response based on the combined information and sends it back to the orchestrator to provide the response to the user.
 >
-> **[1:06](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/rag-using-azure-ai-search?u=76281980&t=66)** The decision about which information retrieval system to use is critical because it determines the inputs to the large language model.
+> **[1:06](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/rag-using-azure-ai-search?u=76281980&t=66)** The decision about which [[Information Retrieval]] system to use is critical because it determines the inputs to the large language model.
 >
 > **[1:15](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/rag-using-azure-ai-search?u=76281980&t=75)** So let us discuss in more detail what Azure AI search does.
 >
@@ -586,7 +578,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/rag-using-azure-ai-search?u=76281980&t=213)** Ranking, often called L2, reorders the L1 results based on higher quality relevant scores.
 >
-> **[3:42](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/rag-using-azure-ai-search?u=76281980&t=222)** Azure AI search uses semantic ranking as L2 ranker, which utilizes multilingual deep learning models adapted from Microsoft Bing.
+> **[3:42](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/rag-using-azure-ai-search?u=76281980&t=222)** Azure AI search uses semantic ranking as L2 ranker, which utilizes multilingual [[Deep Learning]] models adapted from [[Microsoft]] Bing.
 >
 > **[3:55](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/rag-using-azure-ai-search?u=76281980&t=235)** You can find more information about how Azure AI search performs all of these in these two blog posts.
 >
@@ -594,7 +586,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (25), [[Microsoft Azure|Azure]] (18), ai (15), data (5), prompt (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (18), [[Python (Programming Language)|Python]] (2), [[Information Retrieval]] (1), [[Deep Learning]] (1), [[Microsoft]] (1)
 > **CLI Commands:** python (2), find (2)
 > **Env Vars:** rag (2), rrf (1)
 > **Analogies:** such as (2)
@@ -602,12 +594,11 @@ created: 2026-05-02
 > **Tools:** azure portal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Preparing your resources for RAG
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/preparing-your-resources-for-rag?u=76281980)
+#### [Preparing your resources for RAG](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/preparing-your-resources-for-rag?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/preparing-your-resources-for-rag?u=76281980&t=0)** - [Presenter] To set up our RAG system using Azure AI search, we need to set up the following resources, an Azure OpenAI resource that will generate the responses, an Azure Storage resource that will store our documents, Azure AI search that has access to both the storage and OpenAI resource, and an Azure AI services multi-service account that will be used by Azure AI search for data enrichment.
+> **[0:00](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/preparing-your-resources-for-rag?u=76281980&t=0)** - [Presenter] To set up our RAG system using [[Microsoft Azure|Azure]] AI search, we need to set up the following resources, an Azure OpenAI resource that will generate the responses, an Azure Storage resource that will store our documents, Azure AI search that has access to both the storage and OpenAI resource, and an Azure AI services multi-service account that will be used by Azure AI search for data enrichment.
 >
 > **[0:28](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/preparing-your-resources-for-rag?u=76281980&t=28)** Let's discuss each of them in this video.
 >
@@ -617,7 +608,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/preparing-your-resources-for-rag?u=76281980&t=57)** The region we choose here would be used for the other resources.
 >
-> **[1:06](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/preparing-your-resources-for-rag?u=76281980&t=66)** The search service needs to have a basic pricing tier or higher to have semantic search.
+> **[1:06](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/preparing-your-resources-for-rag?u=76281980&t=66)** The search service needs to have a basic pricing tier or higher to have [[Semantic Search]].
 >
 > **[1:13](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/preparing-your-resources-for-rag?u=76281980&t=73)** The service has different scaling and networking options available to improve availability, performance, and security.
 >
@@ -627,7 +618,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/preparing-your-resources-for-rag?u=76281980&t=105)** We then go to the identity setting and enable system assigned managed identity.
 >
-> **[1:59](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/preparing-your-resources-for-rag?u=76281980&t=119)** We then open our GitHub Codespaces.
+> **[1:59](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/preparing-your-resources-for-rag?u=76281980&t=119)** We then open our [[GitHub]] [[Codespaces]].
 >
 > **[2:06](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/preparing-your-resources-for-rag?u=76281980&t=126)** We create an environment file.
 >
@@ -641,7 +632,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/preparing-your-resources-for-rag?u=76281980&t=214)** You then need to deploy a chat completion model and an embeddings model.
 >
-> **[3:45](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/preparing-your-resources-for-rag?u=76281980&t=225)** We will be deploying a GPT-4 Omni
+> **[3:45](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/preparing-your-resources-for-rag?u=76281980&t=225)** We will be deploying a [[GPT-4]] Omni
 >
 > **[3:58](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/preparing-your-resources-for-rag?u=76281980&t=238)** and a text-embedding-3-large model for this course.
 >
@@ -677,7 +668,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (21), [[Search]] (15), ai (12), data (5), [[GitHub]] (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (21), [[GitHub]] (3), [[Codespaces]] (3), [[Semantic Search]] (1), [[GPT-4]] (1)
 > **Tools:** github (3), azure portal (2)
 > **UI Navigation:** go to (5)
 > **Env Vars:** rag (1), url (1), gpt (1)
@@ -685,12 +676,11 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - [presenter] (1)
 
-#### Creating a search index
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-search-index?u=76281980)
+#### [Creating a search index](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-search-index?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-search-index?u=76281980&t=0)** - [Instructor] Once all our resources are ready, we start by creating a search index in Azure AI search.
+> **[0:00](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-search-index?u=76281980&t=0)** - [Instructor] Once all our resources are ready, we start by creating a search index in [[Microsoft Azure|Azure]] AI search.
 >
 > **[0:09](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-search-index?u=76281980&t=9)** The search index contains your documents that are available to the search engine for indexing, full text search, vector search, and hybrid search.
 >
@@ -706,7 +696,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-search-index?u=76281980&t=72)** Vector fields would contain the embeddings of selected non-vector fields.
 >
-> **[1:17](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-search-index?u=76281980&t=77)** The index schema would also contain configurations, such as a vector configuration for algorithms that create and compress the embedding space, settings on vector field definitions that are used in query requests, sematic configurations, and many more.
+> **[1:17](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-search-index?u=76281980&t=77)** The index schema would also contain configurations, such as a vector configuration for [[Algorithms]] that create and compress the embedding space, settings on vector field definitions that are used in query requests, sematic configurations, and many more.
 >
 > **[1:38](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-search-index?u=76281980&t=98)** In more detail, the fields collection in the index schema is where each field is named, assigned a data type, and assigned attributes based on how you want to use them.
 >
@@ -756,7 +746,7 @@ created: 2026-05-02
 >
 > **[4:56](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-search-index?u=76281980&t=296)** We'll be using Hnsw for this code, and use the AzureOpenAIVectorizer to perform the embeddings.
 >
-> **[5:10](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-search-index?u=76281980&t=310)** We also define a semantic search configuration and scoring profile, which we will discuss in the next videos.
+> **[5:10](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-search-index?u=76281980&t=310)** We also define a [[Semantic Search]] configuration and scoring profile, which we will discuss in the next videos.
 >
 > **[5:25](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-search-index?u=76281980&t=325)** We finally create the search index by assigning the name, fields, and all the configurations, and use the SearchIndex client to perform the creator update operation.
 >
@@ -772,7 +762,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (19), [[Microsoft Azure|Azure]] (6), ai (4), data (4), database (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Algorithms]] (1), [[Semantic Search]] (1)
 > **Env Vars:** hnsw (2), knn (1)
 > **Cross-References:** we discussed (1), in the next (1)
 > **Analogies:** such as (2)
@@ -781,14 +771,13 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a data source
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-data-source?u=76281980)
+#### [Creating a data source](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-data-source?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-data-source?u=76281980&t=0)** - [Instructor] Once our index is created, we then need to create a data source connection.
 >
-> **[0:06](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-data-source?u=76281980&t=6)** Recall that we initially save our documents in an Azure blob container.
+> **[0:06](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-data-source?u=76281980&t=6)** Recall that we initially save our documents in an [[Microsoft Azure|Azure]] blob container.
 >
 > **[0:14](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-data-source?u=76281980&t=14)** Here's an example of what our documents look like.
 >
@@ -796,7 +785,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-data-source?u=76281980&t=32)** We initially provided Azure AI search access to the storage by providing its system assigned managed identity, a storage blob data reader role.
 >
-> **[0:47](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-data-source?u=76281980&t=47)** We now need to define a data source connection through Python code.
+> **[0:47](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-data-source?u=76281980&t=47)** We now need to define a data source connection through [[Python (Programming Language)|Python]] code.
 >
 > **[0:53](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-data-source?u=76281980&t=53)** First, we can briefly check if we have the proper Azure storage connection string.
 >
@@ -816,22 +805,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Microsoft Azure|Azure]] (6), [[Search]] (6), ai (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Tools:** azure portal (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a skillset and indexer
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-skillset-and-indexer?u=76281980)
+#### [Creating a skillset and indexer](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-skillset-and-indexer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-skillset-and-indexer?u=76281980&t=0)** - [Instructor] Once you have created an index and set up a data source, the next step is to create a skillset in Azure AI search to access external processing, and an indexer to create our search index.
+> **[0:00](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-skillset-and-indexer?u=76281980&t=0)** - [Instructor] Once you have created an index and set up a data source, the next step is to create a skillset in [[Microsoft Azure|Azure]] AI search to access external processing, and an indexer to create our search index.
 >
 > **[0:15](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-skillset-and-indexer?u=76281980&t=15)** A skill in Azure AI search is an operation that transforms our content in some way.
 >
-> **[0:22](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-skillset-and-indexer?u=76281980&t=22)** We can view more information about this in Microsoft Learn.
+> **[0:22](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-skillset-and-indexer?u=76281980&t=22)** We can view more information about this in [[Microsoft]] Learn.
 >
 > **[0:28](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-a-skillset-and-indexer?u=76281980&t=28)** Skills are organized into three categories.
 >
@@ -915,7 +903,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (18), ai (11), [[Search]] (11), data (7), next (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (18), [[Microsoft]] (1)
 > **Tools:** azure portal (2)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -924,12 +912,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Prerequisites:** set up (1)
 
-#### Querying your data
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/querying-your-data?u=76281980)
+#### [Querying your data](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/querying-your-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/querying-your-data?u=76281980&t=0)** - [Instructor] Once the indexer has created the index, let us manually check the index in the Azure portal.
+> **[0:00](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/querying-your-data?u=76281980&t=0)** - [Instructor] Once the indexer has created the index, let us manually check the index in the [[Microsoft Azure|Azure]] portal.
 >
 > **[0:11](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/querying-your-data?u=76281980&t=11)** Performing a quick search provides document results.
 >
@@ -973,26 +960,25 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/querying-your-data?u=76281980&t=227)** We can also add a scoring profile, which adds more way to documents that have locations matching the scoring parameters.
 >
-> **[3:59](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/querying-your-data?u=76281980&t=239)** This document in Microsoft Learn explains the scoring profile in more detail and where it is applied in the search process.
+> **[3:59](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/querying-your-data?u=76281980&t=239)** This document in [[Microsoft]] Learn explains the scoring profile in more detail and where it is applied in the search process.
 >
 > **[4:08](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/querying-your-data?u=76281980&t=248)** Now that we know that the index contains our data, including Azure AI search works, we can now connect to our language model.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (22), [[Microsoft Azure|Azure]] (4), ai (2), [[Microsoft]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Microsoft]] (1)
 > **Code Identifiers:** parent_id (1), chunk_id (1)
 > **Cross-References:** we discussed (1)
 > **Tools:** azure portal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Azure AI Search: Import and vectorize data
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/azure-ai-search-import-and-vectorize-data?u=76281980)
+#### [Azure AI Search: Import and vectorize data](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/azure-ai-search-import-and-vectorize-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/azure-ai-search-import-and-vectorize-data?u=76281980&t=0)** - [Instructor] We have shown in the previous video the steps to create an index and indexer using Python.
+> **[0:00](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/azure-ai-search-import-and-vectorize-data?u=76281980&t=0)** - [Instructor] We have shown in the previous video the steps to create an index and indexer using [[Python (Programming Language)|Python]].
 >
-> **[0:08](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/azure-ai-search-import-and-vectorize-data?u=76281980&t=8)** There's actually an easier way to create an index using Azure AI search using the import and vectorized data feature.
+> **[0:08](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/azure-ai-search-import-and-vectorize-data?u=76281980&t=8)** There's actually an easier way to create an index using [[Microsoft Azure|Azure]] AI search using the import and vectorized data feature.
 >
 > **[0:17](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/azure-ai-search-import-and-vectorize-data?u=76281980&t=17)** You can see this option in the overview tab of Azure AI search.
 >
@@ -1024,7 +1010,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/azure-ai-search-import-and-vectorize-data?u=76281980&t=166)** First, we create the locations field in the index.
 >
-> **[3:00](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/azure-ai-search-import-and-vectorize-data?u=76281980&t=180)** We go to the JSON setting of our original skillset and copy and paste the entity recognition skill to the new skillset.
+> **[3:00](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/azure-ai-search-import-and-vectorize-data?u=76281980&t=180)** We go to the [[JSON]] setting of our original skillset and copy and paste the entity recognition skill to the new skillset.
 >
 > **[3:18](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/azure-ai-search-import-and-vectorize-data?u=76281980&t=198)** We also copy and paste the locations field in index projections.
 >
@@ -1044,7 +1030,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), ai (5), data (4), [[Python (Programming Language)|Python]] (3), [[Search]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Python (Programming Language)|Python]] (3), [[JSON]] (1)
 > **CLI Commands:** python (3), make (1)
 > **Cross-References:** previous video (1), go back to (1)
 > **UI Navigation:** go to (1), select the (1)
@@ -1053,8 +1039,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sending query results to a language model
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/sending-query-results-to-a-language-model?u=76281980)
+#### [Sending query results to a language model](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/sending-query-results-to-a-language-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1066,7 +1051,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/sending-query-results-to-a-language-model?u=76281980&t=30)** Now that everything is set, we can start sending the search results to the language model to generate a response.
 >
-> **[0:39](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/sending-query-results-to-a-language-model?u=76281980&t=39)** We set up, again, the search client to connect to Azure AI Search, and we also create an Azure OpenAI client.
+> **[0:39](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/sending-query-results-to-a-language-model?u=76281980&t=39)** We set up, again, the search client to connect to [[Microsoft Azure|Azure]] AI Search, and we also create an Azure OpenAI client.
 >
 > **[0:52](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/sending-query-results-to-a-language-model?u=76281980&t=52)** We create the SYSTEM_PROMPT that will provide instructions to the model on how it should behave and respond.
 >
@@ -1100,7 +1085,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (12), [[Microsoft Azure|Azure]] (3), data (2), ai (2), prompt (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3)
 > **Prerequisites:** set up (2)
 > **Code Identifiers:** search_client (1)
 > **Env Vars:** system_prompt (1)
@@ -1108,12 +1093,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Other approaches
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/other-approaches?u=76281980)
+#### [Other approaches](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/other-approaches?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/other-approaches?u=76281980&t=0)** - [Instructor] In the previous videos, we discussed how we can create an index through an indexer with a skillset and through the Azure portal using the import and vectorized feature of Azure AI search.
+> **[0:00](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/other-approaches?u=76281980&t=0)** - [Instructor] In the previous videos, we discussed how we can create an index through an indexer with a skillset and through the [[Microsoft Azure|Azure]] portal using the import and vectorized feature of Azure AI search.
 >
 > **[0:16](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/other-approaches?u=76281980&t=16)** In this video, I will show you that you can create an index without using an indexer and a skillset.
 >
@@ -1129,7 +1113,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/other-approaches?u=76281980&t=68)** The main difference in this index is that we have two vector fields, one for the title and another for the content.
 >
-> **[1:20](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/other-approaches?u=76281980&t=80)** Our data set is a JSON file with a list of Azure services.
+> **[1:20](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/other-approaches?u=76281980&t=80)** Our data set is a [[JSON]] file with a list of Azure services.
 >
 > **[1:27](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/other-approaches?u=76281980&t=87)** Each object represents an Azure service and is one document in our index.
 >
@@ -1149,7 +1133,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/other-approaches?u=76281980&t=178)** Vector search can handle different languages.
 >
-> **[3:01](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/other-approaches?u=76281980&t=181)** In this example, we are searching for software development tools in Dutch.
+> **[3:01](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/other-approaches?u=76281980&t=181)** In this example, we are searching for [[Software Development]] tools in Dutch.
 >
 > **[3:13](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/other-approaches?u=76281980&t=193)** We are then showing you here, how to search using exhaustive KNN regardless of what index you have.
 >
@@ -1181,21 +1165,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (19), [[Microsoft Azure|Azure]] (14), ai (6), [[JSON]] (5), data (4)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (14), [[JSON]] (5), [[Software Development]] (1)
 > **Env Vars:** json (5), knn (1)
 > **Cross-References:** we discussed (1), previous video (1)
 > **Tools:** azure portal (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Create a RAG solution using Azure AI Search
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/challenge-create-a-rag-solution-using-azure-ai-search?u=76281980)
+#### [Challenge: Create a RAG solution using Azure AI Search](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/challenge-create-a-rag-solution-using-azure-ai-search?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/challenge-create-a-rag-solution-using-azure-ai-search?u=76281980&t=0)** - [Instructor] It's time for a challenge.
 >
-> **[0:08](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/challenge-create-a-rag-solution-using-azure-ai-search?u=76281980&t=8)** You are tasked to create a RAG solution using Azure AI Search.
+> **[0:08](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/challenge-create-a-rag-solution-using-azure-ai-search?u=76281980&t=8)** You are tasked to create a RAG solution using [[Microsoft Azure|Azure]] AI Search.
 >
 > **[0:13](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/challenge-create-a-rag-solution-using-azure-ai-search?u=76281980&t=13)** Our data set is comprised of PDF documents with product information about the Contoso company.
 >
@@ -1215,7 +1198,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/challenge-create-a-rag-solution-using-azure-ai-search?u=76281980&t=67)** Vector size is 3,072 using the text embedding 3 large model.
 >
-> **[1:14](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/challenge-create-a-rag-solution-using-azure-ai-search?u=76281980&t=74)** You'll upload your product files into a blob storage container named products and you should create a data source named product-ds so that the AzureAI Search can access these documents.
+> **[1:14](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/challenge-create-a-rag-solution-using-azure-ai-search?u=76281980&t=74)** You'll upload your product files into a blob storage container named [[Microsoft Products|products]] and you should create a data source named product-ds so that the AzureAI Search can access these documents.
 >
 > **[1:29](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/challenge-create-a-rag-solution-using-azure-ai-search?u=76281980&t=89)** You'll then create a skillset named product-ss.
 >
@@ -1231,7 +1214,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/challenge-create-a-rag-solution-using-azure-ai-search?u=76281980&t=122)** Finally, you will send the query results to a language model to generate the response.
 >
-> **[2:08](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/challenge-create-a-rag-solution-using-azure-ai-search?u=76281980&t=128)** Use a gpt-4 omni model and send the top five documents retrieved to the language model.
+> **[2:08](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/challenge-create-a-rag-solution-using-azure-ai-search?u=76281980&t=128)** Use a [[GPT-4]] omni model and send the top five documents retrieved to the language model.
 >
 > **[2:15](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/challenge-create-a-rag-solution-using-azure-ai-search?u=76281980&t=135)** You may reference our previous notebooks to get started.
 >
@@ -1239,27 +1222,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (7), [[Microsoft Azure|Azure]] (6), [[Search]] (4), ai (3), data (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Microsoft Products|Products]] (1), [[GPT-4]] (1)
 > **Env Vars:** rag (1), pdf (1)
 > **Prerequisites:** set up (1), setup (1)
 > **Code Identifiers:** contentvector (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Create a RAG solution using Azure AI Search
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/solution-create-a-rag-solution-using-azure-ai-search?u=76281980)
+#### [Solution: Create a RAG solution using Azure AI Search](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/solution-create-a-rag-solution-using-azure-ai-search?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/solution-create-a-rag-solution-using-azure-ai-search?u=76281980&t=0)** - [Instructor] So here's the solution to our challenge.
 >
-> **[0:09](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/solution-create-a-rag-solution-using-azure-ai-search?u=76281980&t=9)** We first set up our Azure OpenAI, Azure AI Search, and Azure Storage accounts.
+> **[0:09](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/solution-create-a-rag-solution-using-azure-ai-search?u=76281980&t=9)** We first set up our [[Microsoft Azure|Azure]] OpenAI, Azure AI Search, and Azure Storage accounts.
 >
 > **[0:18](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/solution-create-a-rag-solution-using-azure-ai-search?u=76281980&t=18)** No need to create an Azure AI Services multi-service account, given that we'll not perform any additional data enrichments.
 >
 > **[0:26](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/solution-create-a-rag-solution-using-azure-ai-search?u=76281980&t=26)** We then need to make sure that Azure AI Search has access to the two resources.
 >
-> **[0:34](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/solution-create-a-rag-solution-using-azure-ai-search?u=76281980&t=34)** We then go to our Storage account, create a new container named products, and upload our product data.
+> **[0:34](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/solution-create-a-rag-solution-using-azure-ai-search?u=76281980&t=34)** We then go to our Storage account, create a new container named [[Microsoft Products|products]], and upload our product data.
 >
 > **[0:54](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/solution-create-a-rag-solution-using-azure-ai-search?u=76281980&t=54)** Heading over to the code, we first need to create an environment file to load the necessary keys and endpoints, along with our Azure Open AI models, and load them to our Notebook.
 >
@@ -1291,11 +1273,11 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/solution-create-a-rag-solution-using-azure-ai-search?u=76281980&t=215)** Great job on finishing the challenge.
 >
-> **[3:38](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/solution-create-a-rag-solution-using-azure-ai-search?u=76281980&t=218)** As this code is built in Python, it is open to a lot of customizations that can meet your varied business needs.
+> **[3:38](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/solution-create-a-rag-solution-using-azure-ai-search?u=76281980&t=218)** As this code is built in [[Python (Programming Language)|Python]], it is open to a lot of customizations that can meet your varied business needs.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), data (6), ai (5), [[Search]] (4), product (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Microsoft Products|Products]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (2), python (1)
 > **UI Navigation:** go to (2)
 > **Prerequisites:** set up (1), setup (1)
@@ -1309,16 +1291,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### RAG using Azure Cosmos DB
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/rag-using-azure-cosmos-db?u=76281980)
+#### [RAG using Azure Cosmos DB](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/rag-using-azure-cosmos-db?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/rag-using-azure-cosmos-db?u=76281980&t=0)** - [Instructor] This chapter focuses on building a RAG solution using Azure Cosmos DB and Azure Open AI with Python.
+> **[0:00](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/rag-using-azure-cosmos-db?u=76281980&t=0)** - [Instructor] This chapter focuses on building a RAG solution using [[Microsoft Azure|Azure]] Cosmos DB and Azure Open AI with [[Python (Programming Language)|Python]].
 >
 > **[0:09](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/rag-using-azure-cosmos-db?u=76281980&t=9)** Azure AI search is best when your data is unstructured in nature, such as contracts, product manuals, research documents, and service manuals.
 >
-> **[0:20](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/rag-using-azure-cosmos-db?u=76281980&t=20)** On the other hand, other data sources such as Azure Cosmos DB works best when your data has some structure such as product details, customer support tickets, customer profiles, IoT telemetry, and many more, which are stored in JSON documents or key value pairs.
+> **[0:20](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/rag-using-azure-cosmos-db?u=76281980&t=20)** On the other hand, other data sources such as Azure Cosmos DB works best when your data has some structure such as product details, [[Customer Support]] tickets, customer profiles, [[IoT]] telemetry, and many more, which are stored in [[JSON]] documents or key value pairs.
 >
 > **[0:42](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/rag-using-azure-cosmos-db?u=76281980&t=42)** Here's a simple architecture of what we intend to accomplish.
 >
@@ -1338,13 +1319,13 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/rag-using-azure-cosmos-db?u=76281980&t=103)** Finally, our code will also send augmented prompt to Azure OpenAI to generate the response.
 >
-> **[1:51](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/rag-using-azure-cosmos-db?u=76281980&t=111)** We will be using Azure Cosmos DB for NoSQL as it has the most features for RAG as of this recording.
+> **[1:51](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/rag-using-azure-cosmos-db?u=76281980&t=111)** We will be using Azure Cosmos DB for [[NoSQL]] as it has the most features for RAG as of this recording.
 >
 > **[2:00](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/rag-using-azure-cosmos-db?u=76281980&t=120)** It supports vector search with the following methods, a flat or K nearest neighbor's exact search sometimes called brute force, which can provide 100% retrieval recall for smaller focus vector searches, especially when combined with query filters and partition keys.
 >
 > **[2:21](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/rag-using-azure-cosmos-db?u=76281980&t=141)** A quantizedFlat index that compresses vectors using DiskANN based quantization methods for better efficiency in the KNN search.
 >
-> **[2:31](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/rag-using-azure-cosmos-db?u=76281980&t=151)** And finally, DiskANN, which is a suite of state of the art vector indexing algorithms developed by Microsoft Research to power efficient, high accuracy vector search at any scale.
+> **[2:31](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/rag-using-azure-cosmos-db?u=76281980&t=151)** And finally, DiskANN, which is a suite of state of the art vector indexing [[Algorithms]] developed by [[Microsoft]] Research to power efficient, high accuracy vector search at any scale.
 >
 > **[2:45](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/rag-using-azure-cosmos-db?u=76281980&t=165)** You can get more information about this algorithm by reading this blog.
 >
@@ -1356,11 +1337,11 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/rag-using-azure-cosmos-db?u=76281980&t=191)** This Microsoft Learn documentation gives examples on when Azure Cosmos DB can be used for and where it is a poor fit.
 >
-> **[3:21](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/rag-using-azure-cosmos-db?u=76281980&t=201)** You can also read further in Microsoft Learn its other features such as security, performance, scalability, and many more.
+> **[3:21](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/rag-using-azure-cosmos-db?u=76281980&t=201)** You can also read further in Microsoft Learn its other features such as security, performance, [[Scalability]], and many more.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (14), [[Search]] (10), ai (5), data (5), [[Python (Programming Language)|Python]] (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (14), [[Python (Programming Language)|Python]] (3), [[Microsoft]] (3), [[Customer Support]] (1), [[IoT]] (1)
 > **Env Vars:** rag (2), json (1), knn (1)
 > **Analogies:** such as (4)
 > **CLI Commands:** python (3)
@@ -1369,16 +1350,15 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating Azure Cosmos DB resource
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-azure-cosmos-db-resource?u=76281980)
+#### [Creating Azure Cosmos DB resource](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-azure-cosmos-db-resource?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-azure-cosmos-db-resource?u=76281980&t=0)** - [Instructor] Now let's create an Azure Cosmos database that can be used for a RAG application.
+> **[0:00](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-azure-cosmos-db-resource?u=76281980&t=0)** - [Instructor] Now let's create an [[Microsoft Azure|Azure]] Cosmos database that can be used for a RAG application.
 >
 > **[0:07](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-azure-cosmos-db-resource?u=76281980&t=7)** We search for Azure Cosmos DB in the Azure portal.
 >
-> **[0:16](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-azure-cosmos-db-resource?u=76281980&t=16)** We then choose the Azure Cosmos DB for NoSQL option.
+> **[0:16](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-azure-cosmos-db-resource?u=76281980&t=16)** We then choose the Azure Cosmos DB for [[NoSQL]] option.
 >
 > **[0:28](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/creating-azure-cosmos-db-resource?u=76281980&t=28)** Choose your location and other options needed for your business.
 >
@@ -1398,18 +1378,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (5), [[Microsoft Azure|Azure]] (4), database (3), rag (2), application (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[NoSQL]] (1)
 > **Env Vars:** rag (2)
 > **CLI Commands:** find (1)
 > **Tools:** azure portal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set up Azure Cosmos DB for RAG
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/setup-azure-cosmos-db-for-rag?u=76281980)
+#### [Set up Azure Cosmos DB for RAG](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/setup-azure-cosmos-db-for-rag?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/setup-azure-cosmos-db-for-rag?u=76281980&t=0)** - [Instructor] We shall now set up our Azure Cosmos database for RAG.
+> **[0:00](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/setup-azure-cosmos-db-for-rag?u=76281980&t=0)** - [Instructor] We shall now set up our [[Microsoft Azure|Azure]] Cosmos database for RAG.
 >
 > **[0:05](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/setup-azure-cosmos-db-for-rag?u=76281980&t=5)** Like Azure AI search, we perform the following steps.
 >
@@ -1427,7 +1406,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/setup-azure-cosmos-db-for-rag?u=76281980&t=72)** Let's explain these steps further in code.
 >
-> **[1:16](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/setup-azure-cosmos-db-for-rag?u=76281980&t=76)** We first install the needed Python libraries
+> **[1:16](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/setup-azure-cosmos-db-for-rag?u=76281980&t=76)** We first install the needed [[Python (Programming Language)|Python]] libraries
 >
 > **[1:25](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/setup-azure-cosmos-db-for-rag?u=76281980&t=85)** and we load our Azure configurations.
 >
@@ -1451,7 +1430,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/setup-azure-cosmos-db-for-rag?u=76281980&t=155)** Once the container is created, we compute the embeddings using the same code we used in the previous chapter on different RAG approaches with Azure AI search.
 >
-> **[2:47](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/setup-azure-cosmos-db-for-rag?u=76281980&t=167)** We will also use this JSON file as our data source.
+> **[2:47](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/setup-azure-cosmos-db-for-rag?u=76281980&t=167)** We will also use this [[JSON]] file as our data source.
 >
 > **[2:55](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/setup-azure-cosmos-db-for-rag?u=76281980&t=175)** What's important here is that the dimension size used during computation must match the size we use when creating the container.
 >
@@ -1497,7 +1476,7 @@ created: 2026-05-02
 >
 > **[5:48](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/setup-azure-cosmos-db-for-rag?u=76281980&t=348)** Now, let's demonstrate the full text search and hybrid search capabilities.
 >
-> **[5:53](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/setup-azure-cosmos-db-for-rag?u=76281980&t=353)** As of this recording, it is only available in Azure Cosmos DB for no SQL, but this can change in the future.
+> **[5:53](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/setup-azure-cosmos-db-for-rag?u=76281980&t=353)** As of this recording, it is only available in Azure Cosmos DB for no [[SQL]], but this can change in the future.
 >
 > **[6:03](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/setup-azure-cosmos-db-for-rag?u=76281980&t=363)** In addition, it is an early preview and it's not available in all regions.
 >
@@ -1515,7 +1494,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (14), [[Microsoft Azure|Azure]] (13), database (9), data (8), rag (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (13), [[Python (Programming Language)|Python]] (1), [[JSON]] (1), [[SQL]] (1)
 > **Prerequisites:** setup (5), set up (3), install (1)
 > **Env Vars:** rag (3), json (1), sql (1)
 > **CLI Commands:** python (1), make (1)
@@ -1524,16 +1503,15 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Tools:** azure portal (1)
 
-#### Challenge: Create a RAG solution using Azure Cosmos DB
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/challenge-create-a-rag-solution-using-azure-cosmos-db?u=76281980)
+#### [Challenge: Create a RAG solution using Azure Cosmos DB](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/challenge-create-a-rag-solution-using-azure-cosmos-db?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/challenge-create-a-rag-solution-using-azure-cosmos-db?u=76281980&t=0)** - [Instructor] It's time for our second challenge, this time to build a rag solution using Azure Cosmos DB.
+> **[0:00](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/challenge-create-a-rag-solution-using-azure-cosmos-db?u=76281980&t=0)** - [Instructor] It's time for our second challenge, this time to build a rag solution using [[Microsoft Azure|Azure]] Cosmos DB.
 >
 > **[0:14](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/challenge-create-a-rag-solution-using-azure-cosmos-db?u=76281980&t=14)** We are introducing a new data set.
 >
-> **[0:17](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/challenge-create-a-rag-solution-using-azure-cosmos-db?u=76281980&t=17)** This JSON file contains recipe information about a specific dish.
+> **[0:17](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/challenge-create-a-rag-solution-using-azure-cosmos-db?u=76281980&t=17)** This [[JSON]] file contains recipe information about a specific dish.
 >
 > **[0:23](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/challenge-create-a-rag-solution-using-azure-cosmos-db?u=76281980&t=23)** Your goal is to build a rag solution using this dataset.
 >
@@ -1569,7 +1547,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (6), data (4), database (4), [[Microsoft Azure|Azure]] (3), rag (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[JSON]] (2)
 > **File Paths:** recipes.json (1)
 > **Env Vars:** json (1)
 > **Tools:** azure portal (1)
@@ -1577,14 +1555,13 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Create a RAG solution using Azure Cosmos DB
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/solution-create-a-rag-solution-using-azure-cosmos-db?u=76281980)
+#### [Solution: Create a RAG solution using Azure Cosmos DB](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/solution-create-a-rag-solution-using-azure-cosmos-db?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:05](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/solution-create-a-rag-solution-using-azure-cosmos-db?u=76281980&t=5)** - [Instructor] Here is the solution to our challenge.
 >
-> **[0:09](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/solution-create-a-rag-solution-using-azure-cosmos-db?u=76281980&t=9)** We first load our Azure configurations.
+> **[0:09](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/solution-create-a-rag-solution-using-azure-cosmos-db?u=76281980&t=9)** We first load our [[Microsoft Azure|Azure]] configurations.
 >
 > **[0:12](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/solution-create-a-rag-solution-using-azure-cosmos-db?u=76281980&t=12)** To ensure that our embedding size is consistent throughout, we create a variable as well for it.
 >
@@ -1602,7 +1579,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/solution-create-a-rag-solution-using-azure-cosmos-db?u=76281980&t=61)** We then create the embeddings for our recipes collection.
 >
-> **[1:06](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/solution-create-a-rag-solution-using-azure-cosmos-db?u=76281980&t=66)** We create Python code that combines each key value pair of a recipe object into a single string.
+> **[1:06](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/solution-create-a-rag-solution-using-azure-cosmos-db?u=76281980&t=66)** We create [[Python (Programming Language)|Python]] code that combines each key value pair of a recipe object into a single string.
 >
 > **[1:15](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/solution-create-a-rag-solution-using-azure-cosmos-db?u=76281980&t=75)** We then generate embeddings for each combined string, and then add the new field called content vector to each recipe.
 >
@@ -1628,7 +1605,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), database (2), data (2), [[Python (Programming Language)|Python]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** rag (1)
 > **Tools:** azure portal (1)
@@ -1641,14 +1618,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Evaluation metrics in generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/evaluation-metrics-in-generative-ai?u=76281980)
+#### [Evaluation metrics in generative AI](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/evaluation-metrics-in-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/evaluation-metrics-in-generative-ai?u=76281980&t=0)** - [Instructor] Evaluation plays a very important role in developing a RAG solution as it builds trust and confidence in our application and ensures that responses are correct and behaving properly.
 >
-> **[0:16](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/evaluation-metrics-in-generative-ai?u=76281980&t=16)** Azure has a comprehensive approach to evaluation, which includes three categories, risk and safety evaluators which evaluate potential risks associated with AI-generated content with varying degrees of severity, performance and quality evaluators which involves assessing the accuracy, groundedness, and relevance of generated content using robust AI-assisted and natural language processing metrics, and custom evaluators tailored to meet specific needs and goals.
+> **[0:16](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/evaluation-metrics-in-generative-ai?u=76281980&t=16)** [[Microsoft Azure|Azure]] has a comprehensive approach to evaluation, which includes three categories, risk and safety evaluators which evaluate potential risks associated with AI-generated content with varying degrees of severity, performance and quality evaluators which involves assessing the accuracy, groundedness, and relevance of generated content using robust AI-assisted and [[Natural Language Processing (NLP)|natural language processing]] metrics, and custom evaluators tailored to meet specific needs and goals.
 >
 > **[0:55](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/evaluation-metrics-in-generative-ai?u=76281980&t=55)** This document shows the definition of each different evaluator under each category.
 >
@@ -1680,7 +1656,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Microsoft Azure|Azure]] (3), data (3), rag (2), application (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Env Vars:** rag (2), sdk (2), jsonl (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
@@ -1688,8 +1664,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Preparing your evaluation dataset
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/preparing-your-evaluation-data-set?u=76281980)
+#### [Preparing your evaluation dataset](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/preparing-your-evaluation-data-set?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1709,11 +1684,11 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/preparing-your-evaluation-data-set?u=76281980&t=67)** You can view more its documentation in the link I shared in the notebook.
 >
-> **[1:14](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/preparing-your-evaluation-data-set?u=76281980&t=74)** We first install the necessary dependencies in our environment and load our Azure configurations.
+> **[1:14](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/preparing-your-evaluation-data-set?u=76281980&t=74)** We first install the necessary dependencies in our environment and load our [[Microsoft Azure|Azure]] configurations.
 >
 > **[1:25](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/preparing-your-evaluation-data-set?u=76281980&t=85)** While the library may be open source, we will still use Azure resources for this notebook.
 >
-> **[1:33](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/preparing-your-evaluation-data-set?u=76281980&t=93)** We first need to load our data using LangChain, another open source library.
+> **[1:33](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/preparing-your-evaluation-data-set?u=76281980&t=93)** We first need to load our data using [[LangChain]], another open source library.
 >
 > **[1:40](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/preparing-your-evaluation-data-set?u=76281980&t=100)** We'll be using the same data sets we use in Azure AI search.
 >
@@ -1759,19 +1734,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), data (5), ai (4), [[Search]] (4), rag (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[LangChain]] (1)
 > **Env Vars:** rag (3), jsonl (2)
 > **Prerequisites:** you'll need (1), install (1), set up (1)
 > **Cross-References:** we discussed (1), previous video (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Evaluate with the Azure AI Evaluation SDK
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/evaluate-with-the-azure-ai-evaluation-sdk?u=76281980)
+#### [Evaluate with the Azure AI Evaluation SDK](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/evaluate-with-the-azure-ai-evaluation-sdk?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/evaluate-with-the-azure-ai-evaluation-sdk?u=76281980&t=0)** - [Instructor] So now that our evaluation set is properly constructed, we can now evaluate our RAG application using the Azure AI Evaluation SDK.
+> **[0:00](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/evaluate-with-the-azure-ai-evaluation-sdk?u=76281980&t=0)** - [Instructor] So now that our evaluation set is properly constructed, we can now evaluate our RAG application using the [[Microsoft Azure|Azure]] AI Evaluation SDK.
 >
 > **[0:11](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/evaluate-with-the-azure-ai-evaluation-sdk?u=76281980&t=11)** We install our dependencies and load our Azure configuration.
 >
@@ -1787,7 +1761,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/evaluate-with-the-azure-ai-evaluation-sdk?u=76281980&t=62)** However, accessing the risk and safety metrics needs you to log in with your Azure account first.
 >
-> **[1:10](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/evaluate-with-the-azure-ai-evaluation-sdk?u=76281980&t=70)** If you haven't installed the Azure Command-Line Interface in your GitHub Codespaces, you need to do so as well.
+> **[1:10](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/evaluate-with-the-azure-ai-evaluation-sdk?u=76281980&t=70)** If you haven't installed the Azure Command-Line Interface in your [[GitHub]] [[Codespaces]], you need to do so as well.
 >
 > **[1:23](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/evaluate-with-the-azure-ai-evaluation-sdk?u=76281980&t=83)** You need to choose the proper subscription in the terminal after logging in.
 >
@@ -1805,7 +1779,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/evaluate-with-the-azure-ai-evaluation-sdk?u=76281980&t=153)** Once complete, the evaluation result would look like this file.
 >
-> **[2:41](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/evaluate-with-the-azure-ai-evaluation-sdk?u=76281980&t=161)** You can also view the results using Azure AI Foundry to have a better experience.
+> **[2:41](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/evaluate-with-the-azure-ai-evaluation-sdk?u=76281980&t=161)** You can also view the results using [[Azure AI Foundry]] to have a better experience.
 >
 > **[2:48](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/evaluate-with-the-azure-ai-evaluation-sdk?u=76281980&t=168)** We need to create a project in a region that supports evaluations in Azure AI Foundry, as not all regions are currently supported.
 >
@@ -1845,14 +1819,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), data (6), [[Azure AI Foundry]] (4), ai (3), rag (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Azure AI Foundry]] (4), [[GitHub]] (1), [[Codespaces]] (1)
 > **Env Vars:** rag (1), sdk (1), csv (1), url (1)
 > **Tools:** terminal (2), github (1), azure portal (1)
 > **Prerequisites:** install (1), set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Evaluating a RAG application
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/challenge-evaluating-a-rag-application?u=76281980)
+#### [Challenge: Evaluating a RAG application](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/challenge-evaluating-a-rag-application?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1860,32 +1833,31 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/challenge-evaluating-a-rag-application?u=76281980&t=5)** - [Instructor] Here is our last challenge.
 >
-> **[0:08](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/challenge-evaluating-a-rag-application?u=76281980&t=8)** You are tasked to evaluate the RAG solution you made with Azure AI Search in the first challenge.
+> **[0:08](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/challenge-evaluating-a-rag-application?u=76281980&t=8)** You are tasked to evaluate the RAG solution you made with [[Microsoft Azure|Azure]] AI Search in the first challenge.
 >
 > **[0:14](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/challenge-evaluating-a-rag-application?u=76281980&t=14)** You should create an evaluation set with at least 10 rows using the product PDF files we have.
 >
 > **[0:21](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/challenge-evaluating-a-rag-application?u=76281980&t=21)** You will then perform evaluations on groundedness, relevance, coherence, fluency, similarity, as well as the four risk and safety metrics.
 >
-> **[0:33](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/challenge-evaluating-a-rag-application?u=76281980&t=33)** Finally, you need to display the results in Azure AI Foundry.
+> **[0:33](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/challenge-evaluating-a-rag-application?u=76281980&t=33)** Finally, you need to display the results in [[Azure AI Foundry]].
 >
 > **[0:38](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/challenge-evaluating-a-rag-application?u=76281980&t=38)** Do not forget to log in with your Azure account in the terminal and provide yourself the needed roles.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), rag (1), ai (1), [[Search]] (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Azure AI Foundry]] (1)
 > **Env Vars:** rag (1), pdf (1)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (light upbeat music) (1)
 
-#### Solution: Evaluating a RAG application
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/solution-evaluating-a-rag-application?u=76281980)
+#### [Solution: Evaluating a RAG application](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/solution-evaluating-a-rag-application?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:04](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/solution-evaluating-a-rag-application?u=76281980&t=4)** - [Instructor] So here's the solution to our challenge.
 >
-> **[0:09](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/solution-evaluating-a-rag-application?u=76281980&t=9)** We first load the needed Azure configurations, and then we load our product PDF files.
+> **[0:09](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/solution-evaluating-a-rag-application?u=76281980&t=9)** We first load the needed [[Microsoft Azure|Azure]] configurations, and then we load our product PDF files.
 >
 > **[0:23](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/solution-evaluating-a-rag-application?u=76281980&t=23)** Assuming that our Azure OpenAI models are properly set up, we initialize the language model and embeddings model.
 >
@@ -1905,11 +1877,11 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/solution-evaluating-a-rag-application?u=76281980&t=115)** Make sure to populate the Azure AI project parameter.
 >
-> **[2:03](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/solution-evaluating-a-rag-application?u=76281980&t=123)** Once complete, we can now view the results in Azure AI Foundry.
+> **[2:03](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/solution-evaluating-a-rag-application?u=76281980&t=123)** Once complete, we can now view the results in [[Azure AI Foundry]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), product (2), data (2), rag (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Azure AI Foundry]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** pdf (1), rag (1)
 > **Best Practices:** make sure to (1)
@@ -1921,8 +1893,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Summary and next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/summary-and-next-steps?u=76281980)
+#### [Summary and next steps](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/summary-and-next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1936,13 +1907,13 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/summary-and-next-steps?u=76281980&t=15)** This allows businesses to chat with their own data.
 >
-> **[0:19](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/summary-and-next-steps?u=76281980&t=19)** We discussed the concepts of tokens and embeddings and how they are important to determining your cost and finding similarities with your data.
+> **[0:19](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/summary-and-next-steps?u=76281980&t=19)** We discussed the concepts of [[Tokens]] and embeddings and how they are important to determining your cost and finding similarities with your data.
 >
 > **[0:28](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/summary-and-next-steps?u=76281980&t=28)** We discussed the concept of a vector database and how it is used to store your embeddings.
 >
-> **[0:34](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/summary-and-next-steps?u=76281980&t=34)** We also discussed the Azure OpenAI embedding model and how it was used throughout the course to convert our text into embeddings.
+> **[0:34](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/summary-and-next-steps?u=76281980&t=34)** We also discussed the [[Microsoft Azure|Azure]] OpenAI embedding model and how it was used throughout the course to convert our text into embeddings.
 >
-> **[0:43](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/summary-and-next-steps?u=76281980&t=43)** We then showed you how we can create a RAG solution via Azure AI Foundry, but there's a more detailed LinkedIn Learning course on the said topic.
+> **[0:43](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/summary-and-next-steps?u=76281980&t=43)** We then showed you how we can create a RAG solution via [[Azure AI Foundry]], but there's a more detailed [[LinkedIn]] Learning course on the said topic.
 >
 > **[0:53](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/summary-and-next-steps?u=76281980&t=53)** We then focus on creating a RAG solution using Azure AI Search.
 >
@@ -1998,7 +1969,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Microsoft Azure|Azure]] (10), [[Search]] (7), rag (5), database (4)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), [[Azure AI Foundry]] (3), [[LinkedIn]] (2), [[Tokens]] (1)
 > **Env Vars:** rag (5), sdk (1)
 > **Cross-References:** we discussed (6)
 > **Analogies:** such as (2)

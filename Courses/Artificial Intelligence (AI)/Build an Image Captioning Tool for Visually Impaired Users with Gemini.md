@@ -90,12 +90,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Image captioning with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/image-captioning-with-ai?u=76281980)
+#### [Image captioning with AI](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/image-captioning-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/image-captioning-with-ai?u=76281980&t=0)** Welcome to this course, where I'll be guiding you through the use of Google's Gemini API in building an image caption generator that helps visually impaired users to better experience the web.
+> **[0:00](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/image-captioning-with-ai?u=76281980&t=0)** Welcome to this course, where I'll be guiding you through the use of [[Google]]'s [[Gemini]] API in building an image caption generator that helps visually impaired users to better experience the web.
 >
 > **[0:12](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/image-captioning-with-ai?u=76281980&t=12)** In this course, you will be getting hands-on experience with the Gemini API by building an AI-powered application from start to finish.
 >
@@ -107,11 +106,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (5), api (5), [[Google]] (2), web (1), ai (1)
+> **Frameworks & Libraries:** [[Gemini]] (5), [[Google]] (2)
 > **Env Vars:** api (5)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -119,33 +117,32 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/what-you-should-know?u=76281980&t=5)** These skills are required for you to successfully follow along with this course.
 >
-> **[0:11](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/what-you-should-know?u=76281980&t=11)** First is that you have to have some programming experience, and you are required to have at least a basic understanding of how to code with HTML, CSS, and JavaScript.
+> **[0:11](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/what-you-should-know?u=76281980&t=11)** First is that you have to have some programming experience, and you are required to have at least a basic understanding of how to code with [[HTML]], CSS, and [[JavaScript]].
 >
 > **[0:23](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/what-you-should-know?u=76281980&t=23)** You also need to have spent some time working in an IDE, that's an integrated development environment, or at least a simple code editor.
 >
 > **[0:32](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/what-you-should-know?u=76281980&t=32)** You can use any IDE you want, but for this course, I will be making use of the popular Visual Studio Code.
 >
-> **[0:39](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/what-you-should-know?u=76281980&t=39)** Next, you need to have some familiarity with version control systems like Git and the use of a remote repository like GitHub.
+> **[0:39](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/what-you-should-know?u=76281980&t=39)** Next, you need to have some familiarity with [[Version Control]] systems like [[Git]] and the use of a remote repository like [[GitHub]].
 >
-> **[0:47](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/what-you-should-know?u=76281980&t=47)** For the backend of our application, we will be making use of Node.js.
+> **[0:47](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/what-you-should-know?u=76281980&t=47)** For the backend of our application, we will be making use of [[Node.js]].
 >
-> **[0:51](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/what-you-should-know?u=76281980&t=51)** However, you can still follow along and replicate the program in any of the backend languages supported by the Gemini API.
+> **[0:51](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/what-you-should-know?u=76281980&t=51)** However, you can still follow along and replicate the program in any of the backend languages supported by the [[Gemini]] API.
 >
-> **[0:59](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/what-you-should-know?u=76281980&t=59)** If you need help learning any of the technologies mentioned, you can check out the LinkedIn Learning Library to get a ton of resources on these topics.
+> **[0:59](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/what-you-should-know?u=76281980&t=59)** If you need help learning any of the technologies mentioned, you can check out the [[LinkedIn]] Learning Library to get a ton of resources on these topics.
 >
 > **[1:08](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/what-you-should-know?u=76281980&t=68)** Now that you know the requirements for taking this course, let's get started building our image captioning application.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Programming]] (1), [[HTML]] (1), css (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[JavaScript]] (1), [[Version Control]] (1), [[Git]] (1), [[GitHub]] (1)
 > **Env Vars:** ide (2), html (1), css (1), api (1)
 > **Prerequisites:** you need to have (2), required to (1)
 > **CLI Commands:** git (1), node (1)
 > **Tools:** visual studio (1), github (1)
 > **File Paths:** node.js (1)
 
-#### Who this course is for
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/who-this-course-is-for?u=76281980)
+#### [Who this course is for](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/who-this-course-is-for?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -159,13 +156,13 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/who-this-course-is-for?u=76281980&t=12)** Are you a developer, development team, project manager, or engineering manager trying to learn how to add AI features to your application?
 >
-> **[0:21](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/who-this-course-is-for?u=76281980&t=21)** Are you interested in Google's Gemini models and the capabilities of its API, and want to learn how it can be integrated into your applications?
+> **[0:21](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/who-this-course-is-for?u=76281980&t=21)** Are you interested in [[Google]]'s [[Gemini]] models and the capabilities of its API, and want to learn how it can be integrated into your applications?
 >
-> **[0:30](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/who-this-course-is-for?u=76281980&t=30)** Or are you just looking for a project-based course that teaches the implementation of artificial intelligence in software applications?
+> **[0:30](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/who-this-course-is-for?u=76281980&t=30)** Or are you just looking for a project-based course that teaches the implementation of [[Artificial Intelligence (AI)|artificial intelligence]] in software applications?
 >
 > **[0:38](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/who-this-course-is-for?u=76281980&t=38)** If your answer to any of these questions is yes, then you're in the right place.
 >
-> **[0:44](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/who-this-course-is-for?u=76281980&t=44)** This course will teach you everything you need to know about adding AI features to your software using the Google Gemini API.
+> **[0:44](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/who-this-course-is-for?u=76281980&t=44)** This course will teach you everything you need to know about adding AI features to your software using the [[Google Gemini]] API.
 >
 > **[0:51](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/who-this-course-is-for?u=76281980&t=51)** You will learn by doing, because this course takes a hands-on approach as we get to build an entire application that generates captions from images using AI from scratch.
 >
@@ -175,7 +172,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), application (2), [[Google]] (2), [[Gemini]] (2), api (2)
+> **Frameworks & Libraries:** [[Google]] (2), [[Gemini]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Env Vars:** api (2)
 
 
@@ -183,14 +180,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding Gemini models
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/understanding-gemini-models?u=76281980)
+#### [Understanding Gemini models](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/understanding-gemini-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/understanding-gemini-models?u=76281980&t=0)** What is Gemini?
+> **[0:00](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/understanding-gemini-models?u=76281980&t=0)** What is [[Gemini]]?
 >
-> **[0:01](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/understanding-gemini-models?u=76281980&t=1)** Gemini is a suit of generative AI models that comes in different variations and versions.
+> **[0:01](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/understanding-gemini-models?u=76281980&t=1)** Gemini is a suit of [[Generative AI]] models that comes in different variations and versions.
 >
 > **[0:07](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/understanding-gemini-models?u=76281980&t=7)** The variations are based on the model's capabilities, while the versions are based on how recent the model is.
 >
@@ -214,7 +210,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/understanding-gemini-models?u=76281980&t=64)** This means that you can prompt the model with no examples, one example, or a few examples of what the response should look like.
 >
-> **[1:14](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/understanding-gemini-models?u=76281980&t=74)** The Gemini Pro model can take up to 30,720 tokens as input in a single prompt.
+> **[1:14](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/understanding-gemini-models?u=76281980&t=74)** The Gemini Pro model can take up to 30,720 [[Tokens]] as input in a single prompt.
 >
 > **[1:23](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/understanding-gemini-models?u=76281980&t=83)** However, the response is currently limited to 2,048 tokens.
 >
@@ -270,19 +266,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (14), [[Tokens]] (5), prompt (3), api (3), next (3)
+> **Frameworks & Libraries:** [[Gemini]] (14), [[Tokens]] (5), [[Generative AI]] (1)
 > **Env Vars:** api (3), aqa (2)
 > **Definitions:** is a  (1), means that (1), stands for (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Warnings:** note that (1)
 
-#### Gemini pricing
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/gemini-pricing?u=76281980)
+#### [Gemini pricing](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/gemini-pricing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/gemini-pricing?u=76281980&t=0)** In this video, we'll be looking at how the usage of the Gemini API is priced.
+> **[0:00](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/gemini-pricing?u=76281980&t=0)** In this video, we'll be looking at how the usage of the [[Gemini]] API is priced.
 >
 > **[0:06](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/gemini-pricing?u=76281980&t=6)** Gemini follows a usage-based pricing model, so you are charged based on what you use. Currently, pricing details for the preview Gemini 1.5 Pro model is displayed.
 >
@@ -298,7 +293,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/gemini-pricing?u=76281980&t=59)** However, model token limits for input prompts and output responses still apply.
 >
-> **[1:06](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/gemini-pricing?u=76281980&t=66)** Currently, you are limited to 15 requests per minute, which should not contain more than 32,000 tokens.
+> **[1:06](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/gemini-pricing?u=76281980&t=66)** Currently, you are limited to 15 requests per minute, which should not contain more than 32,000 [[Tokens]].
 >
 > **[1:14](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/gemini-pricing?u=76281980&t=74)** The daily limit is also currently set at 1,500 requests per day.
 >
@@ -320,7 +315,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/gemini-pricing?u=76281980&t=135)** The charge for inputs is currently set at $0.5 per million tokens. For outputs, which is currently only text-based, the price is set at $1.5 per million tokens.
 >
-> **[2:31](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/gemini-pricing?u=76281980&t=151)** As at the time of recording this course, the pay-as-you-go model is currently not available in the Google AI Studio.
+> **[2:31](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/gemini-pricing?u=76281980&t=151)** As at the time of recording this course, the pay-as-you-go model is currently not available in the [[Google]] AI Studio.
 >
 > **[2:38](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/gemini-pricing?u=76281980&t=158)** However, Google promises that this payment plan will be coming soon.
 >
@@ -332,27 +327,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (6), [[Tokens]] (5), [[Google]] (3), api (2), ai (2)
+> **Frameworks & Libraries:** [[Gemini]] (6), [[Tokens]] (5), [[Google]] (3)
 > **Versions:** 1.5 (2), 1.0 (1), 0.5 (1)
 > **Env Vars:** api (2)
 > **UI Navigation:** dropdown (1), switch to (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 
-#### Signing up for an Google AI Studio account
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/signing-up-for-an-google-ai-studio-account?u=76281980)
+#### [Signing up for an Google AI Studio account](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/signing-up-for-an-google-ai-studio-account?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/signing-up-for-an-google-ai-studio-account?u=76281980&t=0)** To begin using the Gemini models through the Gemini API, we need to get an API key.
+> **[0:00](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/signing-up-for-an-google-ai-studio-account?u=76281980&t=0)** To begin using the [[Gemini]] models through the Gemini API, we need to get an API key.
 >
 > **[0:06](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/signing-up-for-an-google-ai-studio-account?u=76281980&t=6)** This API key will give us authenticated access to the Gemini API.
 >
-> **[0:11](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/signing-up-for-an-google-ai-studio-account?u=76281980&t=11)** In order to get this key, we will need to open an account on the Google AI Studio.
+> **[0:11](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/signing-up-for-an-google-ai-studio-account?u=76281980&t=11)** In order to get this key, we will need to open an account on the [[Google]] AI Studio.
 >
 > **[0:17](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/signing-up-for-an-google-ai-studio-account?u=76281980&t=17)** The Google AI Studio is a tool for working with different Google AI models.
 >
-> **[0:22](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/signing-up-for-an-google-ai-studio-account?u=76281980&t=22)** You can try out different generative models to see how they work, and also test how well generative AI models perform on different tasks.
+> **[0:22](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/signing-up-for-an-google-ai-studio-account?u=76281980&t=22)** You can try out different generative models to see how they work, and also test how well [[Generative AI]] models perform on different tasks.
 >
 > **[0:31](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/signing-up-for-an-google-ai-studio-account?u=76281980&t=31)** Once you generate an API key from the Google AI Studio, we can then use it in our code to make calls to the Gemini API.
 >
@@ -374,7 +368,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (8), api (7), [[Gemini]] (6), ai (6), prompt (2)
+> **Frameworks & Libraries:** [[Google]] (8), [[Gemini]] (6), [[Generative AI]] (1)
 > **Env Vars:** api (7)
 > **Versions:** 1.5 (1), 1.0 (1)
 > **CLI Commands:** make (1)
@@ -383,14 +377,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Getting your API key
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/getting-your-api-key?u=76281980)
+#### [Getting your API key](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/getting-your-api-key?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/getting-your-api-key?u=76281980&t=0)** In the previous video, we signed into our Google AI Studio account.
+> **[0:00](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/getting-your-api-key?u=76281980&t=0)** In the previous video, we signed into our [[Google]] AI Studio account.
 >
-> **[0:05](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/getting-your-api-key?u=76281980&t=5)** This is where we'll be creating our API key for authenticated access to the Gemini API.
+> **[0:05](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/getting-your-api-key?u=76281980&t=5)** This is where we'll be creating our API key for authenticated access to the [[Gemini]] API.
 >
 > **[0:11](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/getting-your-api-key?u=76281980&t=11)** So let's go right ahead and create our first API key. At the top left-hand corner of the dashboard on the side menu, you will see a get API key link.
 >
@@ -414,9 +407,9 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/getting-your-api-key?u=76281980&t=66)** Here, I have two options to create an API key.
 >
-> **[1:10](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/getting-your-api-key?u=76281980&t=70)** I can either create an API key in a new project, or create it in one of my existing Google Cloud projects.
+> **[1:10](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/getting-your-api-key?u=76281980&t=70)** I can either create an API key in a new project, or create it in one of my existing [[Google Cloud Platform (GCP)|Google Cloud]] projects.
 >
-> **[1:17](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/getting-your-api-key?u=76281980&t=77)** Now, if I create the API key in a new project, that project would automatically be available inside my Google Cloud Platform account.
+> **[1:17](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/getting-your-api-key?u=76281980&t=77)** Now, if I create the API key in a new project, that project would automatically be available inside my [[Google Cloud Platform (GCP)|Google Cloud Platform]] account.
 >
 > **[1:25](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/getting-your-api-key?u=76281980&t=85)** So if you already have a project you want to use in your Google Cloud Platform account, you can click into the search box and search that project.
 >
@@ -452,7 +445,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (20), [[Google]] (4), ai (2), cloud (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[Google]] (4), [[Gemini]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Google Cloud Platform (GCP)|Google cloud platform]] (1)
 > **Env Vars:** api (20)
 > **UI Navigation:** click on (1), go to (1)
 > **Cross-References:** previous video (1)
@@ -463,8 +456,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cloning the seed project
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/cloning-the-seed-project?u=76281980)
+#### [Cloning the seed project](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/cloning-the-seed-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -472,9 +464,9 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/cloning-the-seed-project?u=76281980&t=5)** This project will provide a great starting point for what we'll be building in this course.
 >
-> **[0:10](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/cloning-the-seed-project?u=76281980&t=10)** The project will provide a simple user interface for our application, thus allowing us to focus on development using the Gemini API.
+> **[0:10](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/cloning-the-seed-project?u=76281980&t=10)** The project will provide a simple user interface for our application, thus allowing us to focus on development using the [[Gemini]] API.
 >
-> **[0:18](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/cloning-the-seed-project?u=76281980&t=18)** Displayed in our browser is the GitHub page for our project.
+> **[0:18](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/cloning-the-seed-project?u=76281980&t=18)** Displayed in our browser is the [[GitHub]] page for our project.
 >
 > **[0:22](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/cloning-the-seed-project?u=76281980&t=22)** The completed project is on the main branch, while the seed project is on the base project's branch.
 >
@@ -482,7 +474,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/cloning-the-seed-project?u=76281980&t=33)** So let's go ahead and grab the link for this project.
 >
-> **[0:39](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/cloning-the-seed-project?u=76281980&t=39)** To download the project from GitHub, first, we need to ensure that Git is installed on our system.
+> **[0:39](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/cloning-the-seed-project?u=76281980&t=39)** To download the project from GitHub, first, we need to ensure that [[Git]] is installed on our system.
 >
 > **[0:44](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/cloning-the-seed-project?u=76281980&t=44)** Git is a simple versioning tool for managing different versions of your project and also collaborating through remote repositories.
 >
@@ -514,7 +506,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (8), [[Gemini]] (2), [[GitHub]] (2), application (1), api (1)
+> **Frameworks & Libraries:** [[Git]] (8), [[Gemini]] (2), [[GitHub]] (2)
 > **CLI Commands:** git (8), make (1)
 > **Env Vars:** api (1), url (1)
 > **Tools:** github (2)
@@ -523,8 +515,7 @@ created: 2026-05-02
 > **URLs:** [gitscm.com](https://gitscm.com) (1)
 > **Cross-References:** in the next (1)
 
-#### Project code walkthrough
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/project-code-walkthrough?u=76281980)
+#### [Project code walkthrough](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/project-code-walkthrough?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -548,13 +539,13 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/project-code-walkthrough?u=76281980&t=60)** Now, back to the frontend folder.
 >
-> **[1:02](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/project-code-walkthrough?u=76281980&t=62)** If you open up this folder, you will see that it contains two files; an index.html file and a script.js file.
+> **[1:02](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/project-code-walkthrough?u=76281980&t=62)** If you open up this folder, you will see that it contains two files; an index.[[HTML]] file and a script.js file.
 >
 > **[1:10](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/project-code-walkthrough?u=76281980&t=70)** These will contain the entire front end of our application, as I have made sure to keep things simple.
 >
 > **[1:17](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/project-code-walkthrough?u=76281980&t=77)** Before we look at the code within these files, let's run our frontend to see what we are working with.
 >
-> **[1:23](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/project-code-walkthrough?u=76281980&t=83)** Here on our terminal, we'll be using the utility Node.js module HTTP server to run our frontend.
+> **[1:23](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/project-code-walkthrough?u=76281980&t=83)** Here on our terminal, we'll be using the utility [[Node.js]] module HTTP server to run our frontend.
 >
 > **[1:30](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/project-code-walkthrough?u=76281980&t=90)** This model spins up an ad hoc server that serves our frontend files.
 >
@@ -584,7 +575,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/project-code-walkthrough?u=76281980&t=172)** First, we have the image preview section.
 >
-> **[2:55](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/project-code-walkthrough?u=76281980&t=175)** Here, you can see the selected image before it is sent to Gemini for captioning.
+> **[2:55](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/project-code-walkthrough?u=76281980&t=175)** Here, you can see the selected image before it is sent to [[Gemini]] for captioning.
 >
 > **[3:00](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/project-code-walkthrough?u=76281980&t=180)** Currently, this displays a placeholder image, which will be replaced by the image that is selected.
 >
@@ -636,7 +627,7 @@ created: 2026-05-02
 >
 > **[5:36](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/project-code-walkthrough?u=76281980&t=336)** In the left section, we have an image tag for our preview, we have an input tag to upload our file, and we have a button to send our image captioning requests to the backend.
 >
-> **[5:49](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/project-code-walkthrough?u=76281980&t=349)** All these elements have been assigned IDs that we'll be making use of later on to add some JavaScript logic.
+> **[5:49](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/project-code-walkthrough?u=76281980&t=349)** All these elements have been assigned IDs that we'll be making use of later on to add some [[JavaScript]] logic.
 >
 > **[5:59](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/project-code-walkthrough?u=76281980&t=359)** On the right-hand side container div, let's open that up, we have a child div.
 >
@@ -660,7 +651,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), [[HTML]] (4), next (3), [[JavaScript]] (3), hit (2)
+> **Frameworks & Libraries:** [[HTML]] (4), [[JavaScript]] (3), [[Node.js]] (1), [[Gemini]] (1)
 > **Env Vars:** http (4), css (2), dom (1), html (1), doctype (1)
 > **File Paths:** index.html (3), script.js (2), node.js (1)
 > **Tools:** vs code (3), visual studio (1), terminal (1)
@@ -670,14 +661,13 @@ created: 2026-05-02
 > **UI Navigation:** go to (1), scroll down (1)
 > **Cross-References:** in the next (1)
 
-#### Adding the image upload functionality
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/adding-the-image-upload-functionality?u=76281980)
+#### [Adding the image upload functionality](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/adding-the-image-upload-functionality?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/adding-the-image-upload-functionality?u=76281980&t=0)** In this video, we're going to code the first functionality to be added to our front-end project.
 >
-> **[0:05](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/adding-the-image-upload-functionality?u=76281980&t=5)** We'll be using JavaScript to ensure that when the user selects an image, the image will be displayed in the preview section, thus over here.
+> **[0:05](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/adding-the-image-upload-functionality?u=76281980&t=5)** We'll be using [[JavaScript]] to ensure that when the user selects an image, the image will be displayed in the preview section, thus over here.
 >
 > **[0:14](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/adding-the-image-upload-functionality?u=76281980&t=14)** To achieve this, we'll be adding an event to our file input element, that is this button, this widget, and this listener will watch and capture any change to the value of the file input.
 >
@@ -715,7 +705,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/adding-the-image-upload-functionality?u=76281980&t=147)** Let's go and grab that.
 >
-> **[2:29](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/adding-the-image-upload-functionality?u=76281980&t=149)** Go to index.html, imagePreview is here.
+> **[2:29](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/adding-the-image-upload-functionality?u=76281980&t=149)** Go to index.[[HTML]], imagePreview is here.
 >
 > **[2:34](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/adding-the-image-upload-functionality?u=76281980&t=154)** Let's grab the ID.
 >
@@ -749,19 +739,18 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/adding-the-image-upload-functionality?u=76281980&t=247)** Pretty neat, isn't it?
 >
-> **[4:09](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/adding-the-image-upload-functionality?u=76281980&t=249)** In the next video, we are going to write the functionality that will send this image to the back end in order to generate our caption using the Gemini API.
+> **[4:09](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/adding-the-image-upload-functionality?u=76281980&t=249)** In the next video, we are going to write the functionality that will send this image to the back end in order to generate our caption using the [[Gemini]] API.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), front-end (1), [[JavaScript]] (1), data (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1), [[HTML]] (1), [[Gemini]] (1)
 > **Code Identifiers:** imagepreview (6), getelementbyid (3), imageinput (1), addeventlistener (1), createobjecturl (1)
 > **File Paths:** script.js (3), index.html (1)
 > **Env Vars:** url (1), api (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** go to (1)
 
-#### Adding the prompt functionality
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/adding-the-prompt-functionality?u=76281980)
+#### [Adding the prompt functionality](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/adding-the-prompt-functionality?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -769,7 +758,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/adding-the-prompt-functionality?u=76281980&t=5)** In this video, we are going to be writing code that will send our image data to the back end in order to generate our caption.
 >
-> **[0:13](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/adding-the-prompt-functionality?u=76281980&t=13)** And just like before, we'll also be writing all that JavaScript code inside our script.js file.
+> **[0:13](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/adding-the-prompt-functionality?u=76281980&t=13)** And just like before, we'll also be writing all that [[JavaScript]] code inside our script.js file.
 >
 > **[0:21](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/adding-the-prompt-functionality?u=76281980&t=21)** To start things off, we'll be writing a function that gets our image data and sends it to our backend, which we'll be building in the next chapter.
 >
@@ -805,7 +794,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/adding-the-prompt-functionality?u=76281980&t=123)** Perfect.
 >
-> **[2:06](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/adding-the-prompt-functionality?u=76281980&t=126)** To make our remote call, we will be making use of the Axios library that was included in our index.html file.
+> **[2:06](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/adding-the-prompt-functionality?u=76281980&t=126)** To make our remote call, we will be making use of the Axios library that was included in our index.[[HTML]] file.
 >
 > **[2:13](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/adding-the-prompt-functionality?u=76281980&t=133)** Also, our backend has not been built yet.
 >
@@ -877,7 +866,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (5), api (2), [[HTML]] (2), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[JavaScript]] (1)
 > **Code Identifiers:** getcaptionforimage (5), formdata (4), imageinput (3), displaycaption (2), imagefile (1)
 > **File Paths:** script.js (2), index.html (2)
 > **Cross-References:** in the next (2), previous video (1)
@@ -886,8 +875,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (2)
 > **Analogies:** just like (1)
 
-#### Writing the caption display
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/writing-the-caption-display?u=76281980)
+#### [Writing the caption display](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/writing-the-caption-display?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -903,7 +891,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/writing-the-caption-display?u=76281980&t=40)** Next, let's get a hold on our caption display paragraph inside the caption container.
 >
-> **[0:46](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/writing-the-caption-display?u=76281980&t=46)** First, let's go into index.html to grab the ID of the caption paragraph.
+> **[0:46](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/writing-the-caption-display?u=76281980&t=46)** First, let's go into index.[[HTML]] to grab the ID of the caption paragraph.
 >
 > **[0:51](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/writing-the-caption-display?u=76281980&t=51)** Scroll down, imageCaption, copy, and go back to script.js.
 >
@@ -915,13 +903,13 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/writing-the-caption-display?u=76281980&t=79)** In the next section, we will start building our backend application.
 >
-> **[1:23](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/writing-the-caption-display?u=76281980&t=83)** This backend app will receive our request from the front end and send it to the Gemini API for caption generation.
+> **[1:23](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/writing-the-caption-display?u=76281980&t=83)** This backend app will receive our request from the front end and send it to the [[Gemini]] API for caption generation.
 >
 > **[1:31](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/writing-the-caption-display?u=76281980&t=91)** See you in the next section.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[HTML]] (1), application (1), [[Gemini]] (1), api (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[Gemini]] (1)
 > **Code Identifiers:** displaycaption (3), imagecaption (2), getcaptionforimage (1)
 > **Cross-References:** in the next (2), go back to (1)
 > **File Paths:** index.html (1), script.js (1)
@@ -935,16 +923,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building out the Express.js API
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/building-out-the-express-js-api?u=76281980)
+#### [Building out the Express.js API](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/building-out-the-express-js-api?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/building-out-the-express-js-api?u=76281980&t=0)** In this section, we're going to be building the backend API that will process our image caption generation.
 >
-> **[0:07](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/building-out-the-express-js-api?u=76281980&t=7)** This API will simply serve as a middleman between our client and the Gemini API that exposes the AI model that will be performing the actual caption generation operation.
+> **[0:07](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/building-out-the-express-js-api?u=76281980&t=7)** This API will simply serve as a middleman between our client and the [[Gemini]] API that exposes the AI model that will be performing the actual caption generation operation.
 >
-> **[0:19](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/building-out-the-express-js-api?u=76281980&t=19)** In this video, we'll begin development by kickstarting the Node.js application.
+> **[0:19](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/building-out-the-express-js-api?u=76281980&t=19)** In this video, we'll begin development by kickstarting the [[Node.js]] application.
 >
 > **[0:25](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/building-out-the-express-js-api?u=76281980&t=25)** In the project folder, just beside the frontend folder, create a new folder for the API with the name "backend."
 >
@@ -954,13 +941,13 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/building-out-the-express-js-api?u=76281980&t=46)** Say cd backend.
 >
-> **[0:50](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/building-out-the-express-js-api?u=76281980&t=50)** To set up the project, first, run the command npm init.
+> **[0:50](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/building-out-the-express-js-api?u=76281980&t=50)** To set up the project, first, run the command [[npm]] init.
 >
 > **[0:55](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/building-out-the-express-js-api?u=76281980&t=55)** This will initialize the folder as a Node.js project.
 >
 > **[0:59](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/building-out-the-express-js-api?u=76281980&t=59)** Let's also add the -y flag in order to skip the interactive project initialization prompts and accept the defaults.
 >
-> **[1:08](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/building-out-the-express-js-api?u=76281980&t=68)** With our project initialized and our package.json file scaffolded, we can now start installing the required packages.
+> **[1:08](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/building-out-the-express-js-api?u=76281980&t=68)** With our project initialized and our package.[[JSON]] file scaffolded, we can now start installing the required packages.
 >
 > **[1:15](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/building-out-the-express-js-api?u=76281980&t=75)** First, let me clear the screen.
 >
@@ -1004,7 +991,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (5), api (4), [[Node.js]] (4), application (3), [[npm]] (2)
+> **Frameworks & Libraries:** [[Node.js]] (4), [[npm]] (2), [[JSON]] (2), [[Gemini]] (1)
 > **CLI Commands:** node (5), npm (2), cd (1), make (1)
 > **File Paths:** node.js (4), server.js (3), package.json (1)
 > **Env Vars:** api (4), http (1), json (1)
@@ -1012,12 +999,11 @@ created: 2026-05-02
 > **Tools:** terminal (2), vs code (2)
 > **Exercise Files:** boilerplate (2)
 
-#### Configuring the Generative AI SDK
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/configuring-the-generative-ai-sdk?u=76281980)
+#### [Configuring the Generative AI SDK](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/configuring-the-generative-ai-sdk?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/configuring-the-generative-ai-sdk?u=76281980&t=0)** In this video, we'll be setting up our Node.js project to use the Gemini API.
+> **[0:00](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/configuring-the-generative-ai-sdk?u=76281980&t=0)** In this video, we'll be setting up our [[Node.js]] project to use the [[Gemini]] API.
 >
 > **[0:04](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/configuring-the-generative-ai-sdk?u=76281980&t=4)** Remember that in the previous video, we generated an API token in order to have authenticated access to the Gemini API.
 >
@@ -1029,7 +1015,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/configuring-the-generative-ai-sdk?u=76281980&t=24)** And now, we're going to be installing two libraries.
 >
-> **[0:27](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/configuring-the-generative-ai-sdk?u=76281980&t=27)** This is the dotenv library and the Google Generative AI library.
+> **[0:27](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/configuring-the-generative-ai-sdk?u=76281980&t=27)** This is the dotenv library and the [[Google]] [[Generative AI]] library.
 >
 > **[0:33](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/configuring-the-generative-ai-sdk?u=76281980&t=33)** The dotenv library will be responsible for storing and loading our API key into the project.
 >
@@ -1109,7 +1095,7 @@ created: 2026-05-02
 >
 > **[4:51](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/configuring-the-generative-ai-sdk?u=76281980&t=291)** And let's go ahead and save that.
 >
-> **[4:54](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/configuring-the-generative-ai-sdk?u=76281980&t=294)** Now, if you want more information about the Gemini API, how it is structured, the API endpoints, and the different types of models and model names, you might want to check out our Gemini Getting Started course on the LinkedIn library.
+> **[4:54](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/configuring-the-generative-ai-sdk?u=76281980&t=294)** Now, if you want more information about the Gemini API, how it is structured, the API endpoints, and the different types of models and model names, you might want to check out our Gemini Getting Started course on the [[LinkedIn]] library.
 >
 > **[5:08](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/configuring-the-generative-ai-sdk?u=76281980&t=308)** There we go into more details on how the Gemini API is structured.
 >
@@ -1119,7 +1105,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (24), [[Gemini]] (16), [[Google]] (6), [[Generative AI]] (4), next (3)
+> **Frameworks & Libraries:** [[Gemini]] (16), [[Google]] (6), [[Generative AI]] (4), [[Node.js]] (2), [[LinkedIn]] (1)
 > **Env Vars:** api (24), api_key (1)
 > **CLI Commands:** make (4), node (2)
 > **Prerequisites:** configure (3), install (1), set up (1), getting started (1)
@@ -1128,8 +1114,7 @@ created: 2026-05-02
 > **Cross-References:** previous video (1), go back to (1)
 > **Tools:** vs code (2)
 
-#### Adding routes
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/adding-routes?u=76281980)
+#### [Adding routes](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/adding-routes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1167,12 +1152,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), ai (2), api (2), web (1), next (1)
 > **Env Vars:** api (2)
 > **UI Navigation:** scroll down (1)
 
-#### Setting up file upload functionality
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/setting-up-file-upload-functionality?u=76281980)
+#### [Setting up file upload functionality](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/setting-up-file-upload-functionality?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1180,15 +1163,15 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/setting-up-file-upload-functionality?u=76281980&t=5)** That is what we will be setting up in this video.
 >
-> **[0:09](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/setting-up-file-upload-functionality?u=76281980&t=9)** To begin, we first need to install a Node.js package that will help us achieve this.
+> **[0:09](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/setting-up-file-upload-functionality?u=76281980&t=9)** To begin, we first need to install a [[Node.js]] package that will help us achieve this.
 >
-> **[0:15](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/setting-up-file-upload-functionality?u=76281980&t=15)** And that will be the multer package. In the terminal, run the command npm install multer.
+> **[0:15](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/setting-up-file-upload-functionality?u=76281980&t=15)** And that will be the multer package. In the terminal, run the command [[npm]] install multer.
 >
 > **[0:25](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/setting-up-file-upload-functionality?u=76281980&t=25)** And let's hit "Enter" to install that.
 >
 > **[0:28](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/setting-up-file-upload-functionality?u=76281980&t=28)** Another package that we are going to need is the mime-types package.
 >
-> **[0:34](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/setting-up-file-upload-functionality?u=76281980&t=34)** This package will help us automatically detect image file extensions, which is required when using the Gemini Pro Vision model.
+> **[0:34](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/setting-up-file-upload-functionality?u=76281980&t=34)** This package will help us automatically detect image file extensions, which is required when using the [[Gemini]] Pro Vision model.
 >
 > **[0:43](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/setting-up-file-upload-functionality?u=76281980&t=43)** So let's run the command npm install mime-types to install the mime-types library.
 >
@@ -1274,7 +1257,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (2), [[npm]] (2), [[Gemini]] (2), hit (1), next (1)
+> **Frameworks & Libraries:** [[Node.js]] (2), [[npm]] (2), [[Gemini]] (2)
 > **Prerequisites:** install (5), configure (3), set up (2)
 > **CLI Commands:** node (2), npm (2)
 > **Tools:** vs code (2), terminal (1)
@@ -1283,12 +1266,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Best Practices:** don't forget (1)
 
-#### Writing the prompt request and response
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/writing-the-prompt-request-and-response?u=76281980)
+#### [Writing the prompt request and response](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/writing-the-prompt-request-and-response?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/writing-the-prompt-request-and-response?u=76281980&t=0)** In this video, we are finally going to be writing our request to the Gemini API to use the Gemini Pro Vision model to generate a caption for the image we send to it.
+> **[0:00](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/writing-the-prompt-request-and-response?u=76281980&t=0)** In this video, we are finally going to be writing our request to the [[Gemini]] API to use the Gemini Pro Vision model to generate a caption for the image we send to it.
 >
 > **[0:11](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/writing-the-prompt-request-and-response?u=76281980&t=11)** And we'll be doing all this work inside our generate-caption endpoints.
 >
@@ -1358,7 +1340,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (9), prompt (5), data (4), next (3), api (2)
+> **Frameworks & Libraries:** [[Gemini]] (9)
 > **Code Identifiers:** inlinedata (2), generatecontent (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** api (2)
@@ -1370,8 +1352,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Connecting the frontend to the API
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/connecting-the-frontend-to-the-api?u=76281980)
+#### [Connecting the frontend to the API](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/connecting-the-frontend-to-the-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1437,13 +1418,13 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/connecting-the-frontend-to-the-api?u=76281980&t=140)** That's good.
 >
-> **[2:22](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/connecting-the-frontend-to-the-api?u=76281980&t=142)** I can close this and close the other one for index.html.
+> **[2:22](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/connecting-the-frontend-to-the-api?u=76281980&t=142)** I can close this and close the other one for index.[[HTML]].
 >
 > **[2:26](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/connecting-the-frontend-to-the-api?u=76281980&t=146)** And now let's test the application.
 >
 > **[2:29](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/connecting-the-frontend-to-the-api?u=76281980&t=149)** So let's pick a picture.
 >
-> **[2:31](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/connecting-the-frontend-to-the-api?u=76281980&t=151)** The other time I picked this picture that I snapped for my LinkedIn cover.
+> **[2:31](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/connecting-the-frontend-to-the-api?u=76281980&t=151)** The other time I picked this picture that I snapped for my [[LinkedIn]] cover.
 >
 > **[2:35](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/connecting-the-frontend-to-the-api?u=76281980&t=155)** But now I'm going to be picking this colorful flower pot.
 >
@@ -1507,11 +1488,11 @@ created: 2026-05-02
 >
 > **[4:48](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/connecting-the-frontend-to-the-api?u=76281980&t=288)** Quite impressive as the result describes the image correctly.
 >
-> **[4:53](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/connecting-the-frontend-to-the-api?u=76281980&t=293)** In the next video, we will look at adding some small improvements to this application to further improve the user experience.
+> **[4:53](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/connecting-the-frontend-to-the-api?u=76281980&t=293)** In the next video, we will look at adding some small improvements to this application to further improve the [[User Experience (UX)|user experience]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), api (4), front-end (1), node (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[LinkedIn]] (1), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (5), npx (2), find (2), node (1)
 > **Code Identifiers:** textcontent (4), displaycaption (2), getcaptionforimage (1), getcaptionforimagefunction (1), imagecaption (1)
 > **File Paths:** script.js (3), server.js (1), index.html (1)
@@ -1520,8 +1501,7 @@ created: 2026-05-02
 > **UI Navigation:** switch to (1), click on (1), scroll down (1)
 > **Analogies:** picture (3)
 
-#### Adding a progress indicator
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/adding-a-progress-indicator?u=76281980)
+#### [Adding a progress indicator](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/adding-a-progress-indicator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1549,7 +1529,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/adding-a-progress-indicator?u=76281980&t=81)** Let's pick a file.
 >
-> **[1:23](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/adding-a-progress-indicator?u=76281980&t=83)** This time I might just want to pick my LinkedIn picture once again.
+> **[1:23](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/adding-a-progress-indicator?u=76281980&t=83)** This time I might just want to pick my [[LinkedIn]] picture once again.
 >
 > **[1:28](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/adding-a-progress-indicator?u=76281980&t=88)** Now, let's hit "Submit" and observe the message within the caption window.
 >
@@ -1563,17 +1543,16 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/adding-a-progress-indicator?u=76281980&t=114)** How awesome is that?
 >
-> **[1:55](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/adding-a-progress-indicator?u=76281980&t=115)** This was just a little change, but it will have a huge impact on the user experience.
+> **[1:55](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/adding-a-progress-indicator?u=76281980&t=115)** This was just a little change, but it will have a huge impact on the [[User Experience (UX)|user experience]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), [[LinkedIn]] (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[User Experience (UX)|User experience]] (1)
 > **Code Identifiers:** displaycaption (1), getcaptionforimage (1)
 > **Cross-References:** previous video (1)
 > **Analogies:** picture (1)
 
-#### Using the Web Speech API to read captions
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/using-the-web-speech-api-to-read-captions?u=76281980)
+#### [Using the Web Speech API to read captions](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/using-the-web-speech-api-to-read-captions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1581,7 +1560,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/using-the-web-speech-api-to-read-captions?u=76281980&t=6)** We have also added a progress indicator in order to tell the user when the caption generation is in progress.
 >
-> **[0:13](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/using-the-web-speech-api-to-read-captions?u=76281980&t=13)** Finally, in this video, we'll be adding one more functionality to further improve the user experience of the application.
+> **[0:13](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/using-the-web-speech-api-to-read-captions?u=76281980&t=13)** Finally, in this video, we'll be adding one more functionality to further improve the [[User Experience (UX)|user experience]] of the application.
 >
 > **[0:21](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/using-the-web-speech-api-to-read-captions?u=76281980&t=21)** We will be writing the code that will allow the user listen to the caption that was generated.
 >
@@ -1653,7 +1632,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), application (2), [[User Experience (UX)|User experience]] (1), web (1), feature (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1)
 > **Code Identifiers:** speaktext (4), speechsynthesis (2), displaycaption (1)
 > **Env Vars:** api (4)
 > **File Paths:** script.js (1)
@@ -1666,28 +1645,27 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/next-steps?u=76281980&t=0)** I hope you enjoyed building our AI-powered caption generation tool, and I hope that this project has given you a better understanding into implementing AI features in your software applications.
 >
-> **[0:12](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/next-steps?u=76281980&t=12)** The LinkedIn Learning Library is full of a ton of AI courses.
+> **[0:12](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/next-steps?u=76281980&t=12)** The [[LinkedIn]] Learning Library is full of a ton of AI courses.
 >
-> **[0:17](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/next-steps?u=76281980&t=17)** I will specifically recommend that you check out my other Gemini course, Getting Started with Gemini API, to understand the inner workings of the Gemini API.
+> **[0:17](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/next-steps?u=76281980&t=17)** I will specifically recommend that you check out my other [[Gemini]] course, Getting Started with Gemini API, to understand the inner workings of the Gemini API.
 >
 > **[0:27](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/next-steps?u=76281980&t=27)** Whether you're a programmer just looking for APIs to use to add AI-powered features to your applications or you are a data scientist that wants to build your own AI models from scratch, there are courses in the library for every use case.
 >
 > **[0:41](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/next-steps?u=76281980&t=41)** So I highly recommend that you check out more courses in the library to further ground your knowledge on building AI-powered applications.
 >
-> **[0:51](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/next-steps?u=76281980&t=51)** Once again, I am Fikayo Adepoju. And you can reach me on any of my socials displayed on the screen. On LinkedIn, using my name, on Twitter: @coderonfleek, and on GitHub also @coderonfleek.
+> **[0:51](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/next-steps?u=76281980&t=51)** Once again, I am Fikayo Adepoju. And you can reach me on any of my socials displayed on the screen. On LinkedIn, using my name, on Twitter: @coderonfleek, and on [[GitHub]] also @coderonfleek.
 >
 > **[1:05](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/next-steps?u=76281980&t=65)** Until I see you next time in another course, happy coding.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[Gemini]] (3), [[LinkedIn]] (2), api (2), data (1)
+> **Frameworks & Libraries:** [[Gemini]] (3), [[LinkedIn]] (2), [[GitHub]] (1)
 > **Env Vars:** api (2)
 > **Tools:** github (1)
 > **Prerequisites:** getting started (1)

@@ -57,20 +57,20 @@ created: 2026-05-02
 > 24. [[Organizational Leadership in the Era of AI]] — 5 mentions
 > 25. [[Responsible AI- Principles and Practical Applications]] — 5 mentions
 > 26. [[Business Analyst and Project Manager Collaboration (2018)]] — 5 mentions
-> 27. [[Learning ChatGPT for Business Analysis]] — 5 mentions
-> 28. [[Strengthen Your Decision-Making with Generative AI]] — 5 mentions
-> 29. [[AI Product Security- Foundations and Proactive Security for AI]] — 5 mentions
-> 30. [[Introduction to IT Architecture]] — 4 mentions
-> 31. [[Navigating the EU AI Act]] — 4 mentions
-> 32. [[Stakeholder Management for Leaders and Managers]] — 4 mentions
-> 33. [[Learning Data Analytics- 1 Foundations]] — 4 mentions
-> 34. [[Introduction to ESG- Environmental, Social, and Governance]] — 4 mentions
-> 35. [[Everyday Ai Concepts]] — 4 mentions
-> 36. [[Agile Software Development- Creating an Agile Culture]] — 4 mentions
-> 37. [[Cloud for Business- Developing a Cloud Center of Excellence]] — 4 mentions
-> 38. [[What Is Business Analysis]] — 4 mentions
-> 39. [[The Data Science Of Healthcare Medicine And Public Health]] — 4 mentions
-> 40. [[The AI Ecosystem for Developers- Models, Datasets, and APIs]] — 4 mentions
+> 27. [[The AI Ecosystem for Developers- Models, Datasets, and APIs]] — 5 mentions
+> 28. [[Learning ChatGPT for Business Analysis]] — 5 mentions
+> 29. [[Strengthen Your Decision-Making with Generative AI]] — 5 mentions
+> 30. [[AI Product Security- Foundations and Proactive Security for AI]] — 5 mentions
+> 31. [[Introduction to IT Architecture]] — 4 mentions
+> 32. [[Navigating the EU AI Act]] — 4 mentions
+> 33. [[Stakeholder Management for Leaders and Managers]] — 4 mentions
+> 34. [[Learning Data Analytics- 1 Foundations]] — 4 mentions
+> 35. [[Introduction to ESG- Environmental, Social, and Governance]] — 4 mentions
+> 36. [[Everyday Ai Concepts]] — 4 mentions
+> 37. [[Agile Software Development- Creating an Agile Culture]] — 4 mentions
+> 38. [[Cloud for Business- Developing a Cloud Center of Excellence]] — 4 mentions
+> 39. [[What Is Business Analysis]] — 4 mentions
+> 40. [[The Data Science Of Healthcare Medicine And Public Health]] — 4 mentions
 > 41. [[Leveraging AI in Your Nonprofit Organization by Microsoft and NetHope]] — 4 mentions
 > 42. [[Data Integration And Api Development For Ai Applications]] — 4 mentions
 > 43. [[Mistakes to Avoid in Agile Project Management]] — 4 mentions

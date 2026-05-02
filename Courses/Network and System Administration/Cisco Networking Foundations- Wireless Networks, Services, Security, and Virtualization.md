@@ -96,8 +96,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/welcome?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -109,7 +108,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/welcome?u=76281980&t=20)** Then, we'll examine a collection of network services, including DNS, NTP, NAT, and DHCP is just a few examples.
 >
-> **[0:27](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/welcome?u=76281980&t=27)** Next, you'll be introduced to network security concepts, and you're going to see what sort of threats that we might need to defend against today.
+> **[0:27](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/welcome?u=76281980&t=27)** Next, you'll be introduced to [[Network Security]] concepts, and you're going to see what sort of threats that we might need to defend against today.
 >
 > **[0:35](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/welcome?u=76281980&t=35)** And we'll also equip you with a couple of defenses, specifically access control lists or ACLs and the port security feature.
 >
@@ -119,22 +118,21 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/welcome?u=76281980&t=46)** I'm a double CCIE, or a Cisco Certified Inter Network Expert, and I've taught IT courses for over two decades.
 >
-> **[0:53](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/welcome?u=76281980&t=53)** So, join me in my LinkedIn learning course covering wireless networks, network services, network security, and their virtualization.
+> **[0:53](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/welcome?u=76281980&t=53)** So, join me in my [[LinkedIn]] learning course covering wireless networks, network services, network security, and their virtualization.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Network Security]] (2), [[Virtualization]] (2), data (1), dns (1), next (1)
+> **Frameworks & Libraries:** [[Network Security]] (2), [[LinkedIn]] (1)
 > **Env Vars:** dns (1), ntp (1), nat (1), dhcp (1), ccie (1)
 > **Speakers:** - [kevin] (1)
 
-#### What you can learn
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/what-you-can-learn?u=76281980)
+#### [What you can learn](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/what-you-can-learn?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/what-you-can-learn?u=76281980&t=0)** - [Instructor] In this course, we have four primary topics: wireless networks, services, security and virtualization.
 >
-> **[0:07](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/what-you-can-learn?u=76281980&t=7)** First, we'll consider wireless networking and that's becoming more and more important as we have an increasing number of devices connecting wirelessly.
+> **[0:07](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/what-you-can-learn?u=76281980&t=7)** First, we'll consider [[Wireless Networking]] and that's becoming more and more important as we have an increasing number of devices connecting wirelessly.
 >
 > **[0:15](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/what-you-can-learn?u=76281980&t=15)** As just a few examples, we have smartphones, TVs, refrigerators, laptops, smart light bulbs.
 >
@@ -144,11 +142,11 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/what-you-can-learn?u=76281980&t=35)** Next, we'll consider a collection of network services.
 >
-> **[0:37](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/what-you-can-learn?u=76281980&t=37)** As a couple of examples, you'll learn how DNS or domain name system can take a relatively easy to remember name and convert that into a not so easy to remember IP address.
+> **[0:37](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/what-you-can-learn?u=76281980&t=37)** As a couple of examples, you'll learn how DNS or [[Domain Name System (DNS)|domain name system]] can take a relatively easy to remember name and convert that into a not so easy to remember IP address.
 >
 > **[0:48](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/what-you-can-learn?u=76281980&t=48)** You'll learn how a device can dynamically obtain its IP address information using DHCP or Dynamic Host Configuration Protocol.
 >
-> **[0:57](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/what-you-can-learn?u=76281980&t=57)** Next, we'll examine network security, beginning with a look at some of the major security threats to our networks today.
+> **[0:57](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/what-you-can-learn?u=76281980&t=57)** Next, we'll examine [[Network Security]], beginning with a look at some of the major security threats to our networks today.
 >
 > **[1:03](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/what-you-can-learn?u=76281980&t=63)** Then we'll focus on how to better protect our Cisco routers and switches using access control lists or ACLs and the port security feature.
 >
@@ -162,14 +160,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), next (3), [[Virtualization]] (1), [[Wireless Networking]] (1), dns (1)
+> **Frameworks & Libraries:** [[Wireless Networking]] (1), [[Domain Name System (DNS)|Domain name system]] (1), [[Network Security]] (1)
 > **Env Vars:** dns (1), dhcp (1), sdn (1)
 > **Cross-References:** next video (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to get hands-on practice
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/how-to-get-hands-on-practice?u=76281980)
+#### [How to get hands-on practice](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/how-to-get-hands-on-practice?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -185,7 +182,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/how-to-get-hands-on-practice?u=76281980&t=35)** Another option is for you to use a free application from Cisco called Cisco Packet Tracer.
 >
-> **[0:40](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/how-to-get-hands-on-practice?u=76281980&t=40)** And after you download it, you'll be asked to log in and you can use an existing Google account or create a free Cisco Networking Academy account.
+> **[0:40](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/how-to-get-hands-on-practice?u=76281980&t=40)** And after you download it, you'll be asked to log in and you can use an existing [[Google]] account or create a free [[Cisco Networking]] Academy account.
 >
 > **[0:48](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/how-to-get-hands-on-practice?u=76281980&t=48)** And this free application is a network simulator.
 >
@@ -219,7 +216,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Google]] (2), [[Cisco Networking]] (2), [[Search]] (1), vpn (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Cisco Networking]] (2)
 > **Env Vars:** cml (4), ccna (1), vpn (1)
 > **Definitions:** is a  (2), is an  (2)
 > **Code Identifiers:** ios (2)
@@ -233,12 +230,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Domain name system (DNS)
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/domain-name-system-dns?u=76281980)
+#### [Domain name system (DNS)](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/domain-name-system-dns?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/domain-name-system-dns?u=76281980&t=0)** - [Instructor] In this video, we want to consider a service called DNS for Domain Name System.
+> **[0:00](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/domain-name-system-dns?u=76281980&t=0)** - [Instructor] In this video, we want to consider a service called DNS for [[Domain Name System (DNS)|Domain Name System]].
 >
 > **[0:06](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/domain-name-system-dns?u=76281980&t=6)** The idea is this, it's usually going to be easier to remember the name of an internet destination as opposed to its IP address.
 >
@@ -274,9 +270,9 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/domain-name-system-dns?u=76281980&t=132)** If I were the DNS administrator for [kineticoinc.com](https://kineticoinc.com) I would log into the [kineticoinc.com](https://kineticoinc.com) DNS server and start adding DNS records about subdomains and hosts within [kineticoinc.com](https://kineticoinc.com).
 >
-> **[2:25](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/domain-name-system-dns?u=76281980&t=145)** For example, maybe we have a couple of subdomains, products and resources.
+> **[2:25](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/domain-name-system-dns?u=76281980&t=145)** For example, maybe we have a couple of subdomains, [[Microsoft Products|products]] and resources.
 >
-> **[2:29](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/domain-name-system-dns?u=76281980&t=149)** And under products perhaps we have indoor products and outdoor products and those records would point to specific web servers.
+> **[2:29](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/domain-name-system-dns?u=76281980&t=149)** And under products perhaps we have indoor products and outdoor products and those records would point to specific [[Web Servers]].
 >
 > **[2:38](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/domain-name-system-dns?u=76281980&t=158)** And if we had a customer on the internet that wanted to browse our outdoor furniture, as an example, they might go to a domain name of outdoor.products.[kineticoinc.com](https://kineticoinc.com).
 >
@@ -284,7 +280,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (12), [[Microsoft Products|Products]] (5), web (4), [[Domain Name System (DNS)|Domain name system]] (2), database (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), [[Domain Name System (DNS)|Domain name system]] (2), [[Web Servers]] (1)
 > **Env Vars:** dns (12), dhcp (1)
 > **URLs:** [kineticoinc.com](https://kineticoinc.com) (10), [cisco.com](https://cisco.com) (1), [amazon.com](https://amazon.com) (1)
 > **Versions:** 203.0.113 (2), 192.0.2 (1)
@@ -293,8 +289,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cisco Discovery Protocol (CDP) theory
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/cisco-discovery-protocol-cdp-theory?u=76281980)
+#### [Cisco Discovery Protocol (CDP) theory](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/cisco-discovery-protocol-cdp-theory?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -390,19 +385,18 @@ created: 2026-05-02
 >
 > **[4:14](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/cisco-discovery-protocol-cdp-theory?u=76281980&t=254)** I discovered this was way too big of a network to do that manually.
 >
-> **[4:18](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/cisco-discovery-protocol-cdp-theory?u=76281980&t=258)** But on a small to medium size network, CDP might be a great way of walking the tree and diagramming our network interconnections.
+> **[4:18](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/cisco-discovery-protocol-cdp-theory?u=76281980&t=258)** But on a small to medium size network, CDP might be a great way of walking the tree and [[Diagramming]] our network interconnections.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (4), management (2), [[Troubleshooting]] (1), traffic (1), [[Diagramming]] (1)
+> **Frameworks & Libraries:** [[Diagramming]] (1)
 > **Env Vars:** cdp (20), vlan (3), sw2 (2), sw3 (2), sw4 (2)
 > **Analogies:** for example (2), such as (1)
 > **Definitions:** is a  (1), is called (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - in (1)
 
-#### CDP configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/cdp-configuration?u=76281980)
+#### [CDP configuration](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/cdp-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -476,7 +470,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/cdp-configuration?u=76281980&t=173)** The R means it's a router which means this switch is a multilayer switch.
 >
-> **[2:58](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/cdp-configuration?u=76281980&t=178)** It's capable of doing routing.
+> **[2:58](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/cdp-configuration?u=76281980&t=178)** It's capable of doing [[Routing]].
 >
 > **[2:59](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/cdp-configuration?u=76281980&t=179)** It's also a switch and it runs IGMP, the Internet Group Management Protocol which is used by multicast to determine out of which ports to forward multicast traffic.
 >
@@ -498,7 +492,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Routing]] (1), management (1), traffic (1)
+> **Frameworks & Libraries:** [[Routing]] (1)
 > **Env Vars:** cdp (17), sw1 (6), isp (2), igmp (1)
 > **Code Identifiers:** ios (3)
 > **Versions:** 10.1.1 (1), 15.83 (1)
@@ -507,8 +501,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1), set up (1)
 > **CLI Commands:** make (1)
 
-#### Link Layer Discovery Protocol (LLDP) theory
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/link-layer-discovery-protocol-lldp-theory?u=76281980)
+#### [Link Layer Discovery Protocol (LLDP) theory](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/link-layer-discovery-protocol-lldp-theory?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -550,7 +543,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** lan (1)
 > **Env Vars:** cdp (8), lldp (8), mac (2), med (2), ieee802 (1)
 > **Analogies:** similar to (1), for example (1), such as (1)
 > **Definitions:** is a  (1), stands for (1)
@@ -558,8 +550,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### LLDP configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/lldp-configuration?u=76281980)
+#### [LLDP configuration](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/lldp-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -625,7 +616,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/lldp-configuration?u=76281980&t=177)** It doesn't have the older source wrap bridging information that CDP had, which is fine.
 >
-> **[3:02](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/lldp-configuration?u=76281980&t=182)** We're not concerned with that anyway so we know we're attached to a device that does routing.
+> **[3:02](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/lldp-configuration?u=76281980&t=182)** We're not concerned with that anyway so we know we're attached to a device that does [[Routing]].
 >
 > **[3:07](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/lldp-configuration?u=76281980&t=187)** If I want to see more information, I could say show LLDP neighbors detail, and just like CDP, I could get more information such as IP address information and the version of the operating system being run on my neighbor.
 >
@@ -639,7 +630,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), generic (1), management (1), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Routing]] (1)
 > **Env Vars:** lldp (26), cdp (5), tlv (2), sw1 (1), med (1)
 > **Analogies:** for example (2), just like (1)
 > **Prerequisites:** setup (1), set up (1), configure (1)
@@ -648,8 +639,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
-#### Network Time Protocol (NTP) theory
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/network-time-protocol-ntp-theory?u=76281980)
+#### [Network Time Protocol (NTP) theory](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/network-time-protocol-ntp-theory?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -687,7 +677,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/network-time-protocol-ntp-theory?u=76281980&t=80)** The most believable stratum value is a stratum of zero that might be given to atomic clocks.
 >
-> **[1:26](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/network-time-protocol-ntp-theory?u=76281980&t=86)** For example, in the United States, there's an atomic clock run by the Department of Defense located at the Naval Observatory in Washington DC and also the National Institute of Standards and Technology, the NIST, they have a couple of atomic clocks in Boulder, Colorado.
+> **[1:26](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/network-time-protocol-ntp-theory?u=76281980&t=86)** For example, in the United States, there's an atomic clock run by the Department of Defense located at the Naval Observatory in Washington DC and also the National Institute of Standards and Technology, the [[NIST]], they have a couple of atomic clocks in Boulder, Colorado.
 >
 > **[1:41](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/network-time-protocol-ntp-theory?u=76281980&t=101)** And the way an atomic clock works is it uses an element called Cesium 133, and that Cesium 133 element is going to oscillate a little over 9 billion times a second.
 >
@@ -719,7 +709,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Troubleshooting]] (1), [[NIST]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[NIST]] (1)
 > **Env Vars:** ntp (5), udp (1), abc (1), nist (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Analogies:** for example (1), such as (1)
@@ -727,8 +717,7 @@ created: 2026-05-02
 > **Ports:** port 123 (1)
 > **Speakers:** - [instructor] (1)
 
-#### NTP configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/ntp-configuration?u=76281980)
+#### [NTP configuration](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/ntp-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -868,7 +857,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Env Vars:** ntp (14), utc (5), edt (2), est (1)
 > **Versions:** 1.1.1 (4), version 4 (1)
 > **Prerequisites:** configure (4), set up (1)
@@ -876,9 +864,9 @@ created: 2026-05-02
 > **Definitions:** is an  (1), is a  (1), is called (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1)
+> **Warnings:** keep in mind (1)
 
-#### Network Address Translation (NAT) theory
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/network-address-translation-nat-theory?u=76281980)
+#### [Network Address Translation (NAT) theory](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/network-address-translation-nat-theory?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -898,7 +886,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/network-address-translation-nat-theory?u=76281980&t=34)** There are no more blocks of IP version 4 addresses to be given out to organizations.
 >
-> **[0:38](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/network-address-translation-nat-theory?u=76281980&t=38)** So typically, if we're in a small office or a home office, when we get that office connected to the internet we're going to have one and only one IP address from our service provider.
+> **[0:38](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/network-address-translation-nat-theory?u=76281980&t=38)** So typically, if we're in a small [[Microsoft Office|office]] or a home office, when we get that office connected to the internet we're going to have one and only one IP address from our service provider.
 >
 > **[0:47](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/network-address-translation-nat-theory?u=76281980&t=47)** And we have perhaps dozens of devices inside of that office and they all have to share a single IP address.
 >
@@ -950,7 +938,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/network-address-translation-nat-theory?u=76281980&t=164)** There are two pieces to these address names.
 >
-> **[2:46](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/network-address-translation-nat-theory?u=76281980&t=166)** The first word is going to be either inside or outside.
+> **[2:46](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/network-address-translation-nat-theory?u=76281980&t=166)** The first [[Microsoft Word|word]] is going to be either inside or outside.
 >
 > **[2:49](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/network-address-translation-nat-theory?u=76281980&t=169)** And the next word is going to be local or global.
 >
@@ -1018,7 +1006,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (8), [[Microsoft Office|Office]] (5), traffic (4), [[Microsoft Word|Word]] (4), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (5), [[Microsoft Word|Word]] (4)
 > **Env Vars:** pc1 (11), nat (8), pat (4), pc2 (3), rfc (1)
 > **Versions:** 192.0.2 (8), 10.1.1 (4), version 4 (3), 203.0.113 (2)
 > **Definitions:** is a  (2), is an  (2), refers to (2), in other words (1)
@@ -1027,8 +1015,7 @@ created: 2026-05-02
 > **Documentation:** rfc (1)
 > **Analogies:** imagine (1)
 
-#### NAT configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/nat-configuration?u=76281980)
+#### [NAT configuration](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/nat-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1048,7 +1035,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/nat-configuration?u=76281980&t=66)** And don't be overly concerned about the error message that you see popping up on screen.
 >
-> **[1:10](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/nat-configuration?u=76281980&t=70)** It says that what we just did is making us a CPU hog, this is actually a side effect of us running this, not on actual hardware, but we're using Cisco CML, the Cisco Modeling Labs, and this is just a side effect of that.
+> **[1:10](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/nat-configuration?u=76281980&t=70)** It says that what we just did is making us a CPU hog, this is actually a side effect of us running this, not on actual [[Hardware]], but we're using Cisco CML, the Cisco Modeling Labs, and this is just a side effect of that.
 >
 > **[1:23](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/nat-configuration?u=76281980&t=83)** It's not going to break anything in our demo, but we've now defined Gig 0/1 is the inside, let's define Gig 0/2 as the outside now, we'll go into interface gigabit 0/2, and I'll say ip nat outside, and now we're ready to configure PAT.
 >
@@ -1058,7 +1045,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/nat-configuration?u=76281980&t=114)** I'm going to say access-list, and I'll give it a number of 1, and I'm going to say permit.
 >
-> **[2:00](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/nat-configuration?u=76281980&t=120)** Now in this context, the word permit is not saying "allow this traffic," as opposed to drop this traffic, though in this context it's saying, "we want to match traffic," and I want to permit anybody or match anybody in the network of 192.168.1.0, with a wildcard mask of 0.0.0.255, and again, we'll talk lots more about the syntax of the access control list, as well as the structure of a wildcard mask, when we get into that security section later in the course.
+> **[2:00](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/nat-configuration?u=76281980&t=120)** Now in this context, the [[Microsoft Word|word]] permit is not saying "allow this traffic," as opposed to drop this traffic, though in this context it's saying, "we want to match traffic," and I want to permit anybody or match anybody in the network of 192.168.1.0, with a wildcard mask of 0.0.0.255, and again, we'll talk lots more about the syntax of the access control list, as well as the structure of a wildcard mask, when we get into that security section later in the course.
 >
 > **[2:30](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/nat-configuration?u=76281980&t=150)** But for now, I've created an access list number 1, that is going to match any IP address on the inside of my network.
 >
@@ -1086,7 +1073,7 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/nat-configuration?u=76281980&t=231)** Let's go to each PC and let's connect to a secure HTTP server on the internet.
 >
-> **[3:58](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/nat-configuration?u=76281980&t=238)** These PCs are running Linux, and I'm going to say, telnet to 1.1.1.1 on port 443, that's the HTTPS port.
+> **[3:58](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/nat-configuration?u=76281980&t=238)** These PCs are running [[Linux]], and I'm going to say, telnet to 1.1.1.1 on port 443, that's the HTTPS port.
 >
 > **[4:09](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/nat-configuration?u=76281980&t=249)** And you see I'm connected, nothing shows up on the screen., I'm not in a browser, so I'll just do a Control + C and then E to exit out of that.
 >
@@ -1118,7 +1105,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (5), [[Security]] (2), web (2), [[Hardware]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (1), [[Microsoft Word|Word]] (1), [[Linux]] (1)
 > **Env Vars:** pat (6), pc1 (4), pc2 (4), nat (3), cpu (1)
 > **Versions:** 1.1.1 (2), 192.0.2 (2), 192.168.1 (1), 0.0.0 (1)
 > **Prerequisites:** set up (2), configure (2)
@@ -1127,8 +1114,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
 
-#### Dynamic Host Configuration Protocol (DHCP) overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/dynamic-host-configuration-protocol-dhcp-overview?u=76281980)
+#### [Dynamic Host Configuration Protocol (DHCP) overview](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/dynamic-host-configuration-protocol-dhcp-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1210,7 +1196,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/dynamic-host-configuration-protocol-dhcp-overview?u=76281980&t=206)** It's 172.16.1.100.
 >
-> **[3:29](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/dynamic-host-configuration-protocol-dhcp-overview?u=76281980&t=209)** And the different subnets for which a DHCP server can hand out IP addresses, those subnets are sometimes called pools or scopes, meaning that we could have a single DHCP server servicing the IP addressing needs of an entire organization.
+> **[3:29](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/dynamic-host-configuration-protocol-dhcp-overview?u=76281980&t=209)** And the different subnets for which a DHCP server can hand out IP addresses, those subnets are sometimes called pools or scopes, meaning that we could have a single DHCP server servicing the [[IP Addressing]] needs of an entire organization.
 >
 > **[3:45](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/dynamic-host-configuration-protocol-dhcp-overview?u=76281980&t=225)** And that's an overview of the Dynamic Host Configuration Protocol or DHCP which allows a network device to boot up, dynamically go out and obtain IP address information.
 >
@@ -1218,15 +1204,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (2), [[IP Addressing]] (1)
+> **Frameworks & Libraries:** [[IP Addressing]] (1)
 > **Env Vars:** dhcp (18), pc2 (7), pc1 (5), dns (2)
 > **Versions:** 192.168.1 (2), 172.16.1 (1)
 > **Prerequisites:** configure (3)
 > **Analogies:** such as (2)
 > **Speakers:** - when (1)
 
-#### DHCP options
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/dhcp-options?u=76281980)
+#### [DHCP options](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/dhcp-options?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1234,7 +1219,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/dhcp-options?u=76281980&t=8)** Now in this video we want to take a look at some of the DHCP options, and talk more about how DHCP information is handed out.
 >
-> **[0:16](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/dhcp-options?u=76281980&t=16)** One thing I would want you to know is it doesn't have to happen entirely randomly, we may set up a MAC reservation, for example, maybe there's an office printer, and everybody points to the IP address of that printer, but that printer gets its IP address via DHCP.
+> **[0:16](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/dhcp-options?u=76281980&t=16)** One thing I would want you to know is it doesn't have to happen entirely randomly, we may set up a MAC reservation, for example, maybe there's an [[Microsoft Office|office]] printer, and everybody points to the IP address of that printer, but that printer gets its IP address via DHCP.
 >
 > **[0:32](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/dhcp-options?u=76281980&t=32)** What if that printer was turned off, maybe over a weekend, Monday morning somebody turns it back on and it gets a new IP address.
 >
@@ -1290,7 +1275,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), dns (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2)
 > **Env Vars:** dhcp (13), mac (3), ttl (3), dns (1), tftp (1)
 > **Versions:** version 6 (2), 192.168.1 (1), 1.25 (1)
 > **Prerequisites:** set up (1), configure (1)
@@ -1299,8 +1284,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Warnings:** be aware (1)
 
-#### DHCP configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/dhcp-configuration?u=76281980)
+#### [DHCP configuration](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/dhcp-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1430,7 +1414,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (2), application (1)
 > **Env Vars:** dhcp (21), rr1 (3), dns (1)
 > **Versions:** 192.168.1 (13), 172.16.1 (3), 192.168.199 (1)
 > **Prerequisites:** set up (5), configure (4)
@@ -1443,8 +1426,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Common network security concerns
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/common-network-security-concerns?u=76281980)
+#### [Common network security concerns](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/common-network-security-concerns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1488,11 +1470,11 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/common-network-security-concerns?u=76281980&t=154)** But the email really did not come from that social media network.
 >
-> **[2:37](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/common-network-security-concerns?u=76281980&t=157)** That's an example of a phishing attack.
+> **[2:37](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/common-network-security-concerns?u=76281980&t=157)** That's an example of a [[Phishing]] attack.
 >
 > **[2:40](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/common-network-security-concerns?u=76281980&t=160)** Spear phishing makes a phishing attack look a little bit more legitimate because the contents of the email have specific information about you.
 >
-> **[2:48](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/common-network-security-concerns?u=76281980&t=168)** Maybe it comes from your specific bank and you're being told to reset your banking password.
+> **[2:48](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/common-network-security-concerns?u=76281980&t=168)** Maybe it comes from your specific bank and you're being told to reset your [[Banking]] password.
 >
 > **[2:52](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/common-network-security-concerns?u=76281980&t=172)** You think, Well, that's my bank.
 >
@@ -1516,7 +1498,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/common-network-security-concerns?u=76281980&t=218)** And that's called vishing.
 >
-> **[3:40](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/common-network-security-concerns?u=76281980&t=220)** And this is certainly not a comprehensive listing of network security issues, but these are some of the more common ones that you might face.
+> **[3:40](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/common-network-security-concerns?u=76281980&t=220)** And this is certainly not a comprehensive listing of [[Network Security]] issues, but these are some of the more common ones that you might face.
 >
 > **[3:47](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/common-network-security-concerns?u=76281980&t=227)** Now, in our next few videos we want to take a look at a defense strategy that we can deploy on our Cisco routers.
 >
@@ -1524,7 +1506,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (6), traffic (3), [[Security]] (1), [[Engineering]] (1), business (1)
+> **Frameworks & Libraries:** [[Phishing]] (6), [[Banking]] (1), [[Network Security]] (1)
 > **Definitions:** is a  (3), is called (2), stands for (1), is an  (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** sms (1), acl (1)
@@ -1533,12 +1515,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - one (1)
 
-#### Access Control List (ACL) theory
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/access-control-list-acl-theory?u=76281980)
+#### [Access Control List (ACL) theory](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/access-control-list-acl-theory?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/access-control-list-acl-theory?u=76281980&t=0)** - [Instructor] When it comes to defending ourselves against network security threats, Cisco recommends a layered approach.
+> **[0:00](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/access-control-list-acl-theory?u=76281980&t=0)** - [Instructor] When it comes to defending ourselves against [[Network Security]] threats, Cisco recommends a layered approach.
 >
 > **[0:06](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/access-control-list-acl-theory?u=76281980&t=6)** They sometimes call it a security in depth where we have overlapping layers of protection mechanisms.
 >
@@ -1640,7 +1621,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (6), [[Security]] (2), next (2), [[Network Security]] (1)
+> **Frameworks & Libraries:** [[Network Security]] (1)
 > **Env Vars:** acl (13), ace (1), tcb (1), tcp (1)
 > **Definitions:** is an  (1), in other words (1), stands for (1), is called (1), is a  (1)
 > **Ports:** port 443 (1), port 80 (1)
@@ -1649,8 +1630,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1), - personally (1)
 > **Cross-References:** next video (1)
 
-#### Standard numbered ACL theory
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/standard-numbered-acl-theory?u=76281980)
+#### [Standard numbered ACL theory](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/standard-numbered-acl-theory?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1714,7 +1694,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), traffic (2)
 > **Env Vars:** acl (15)
 > **Versions:** 0.0.0 (2), 255.255.255 (1)
 > **Cross-References:** next video (2)
@@ -1723,8 +1702,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Standard numbered ACL configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/standard-numbered-acl-configuration?u=76281980)
+#### [Standard numbered ACL configuration](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/standard-numbered-acl-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1830,7 +1808,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (4)
 > **Env Vars:** acl (10), pc2 (6), pc1 (5)
 > **Versions:** 203.0.113 (3), 10.1.0 (1), 0.0.0 (1), 10.1.1 (1)
 > **Definitions:** is an  (3)
@@ -1838,9 +1815,9 @@ created: 2026-05-02
 > **Prerequisites:** configure (1), set up (1)
 > **Cross-References:** go back to (1)
 > **Tools:** terminal (1)
+> **UI Navigation:** go to (1)
 
-#### Extended numbered ACL theory
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/extended-numbered-acl-theory?u=76281980)
+#### [Extended numbered ACL theory](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/extended-numbered-acl-theory?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1876,7 +1853,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (3), next (2)
 > **Env Vars:** acl (14), tcp (3), http (3), https (1)
 > **Ports:** port 23 (1), port 80 (1), port 443 (1)
 > **Cross-References:** next video (2)
@@ -1884,8 +1860,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Extended numbered ACL configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/extended-numbered-acl-configuration?u=76281980)
+#### [Extended numbered ACL configuration](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/extended-numbered-acl-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2035,7 +2010,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (9), prompt (1), next (1)
 > **Env Vars:** pc1 (10), acl (7), tcp (5), pc2 (3), https (2)
 > **Versions:** 203.0.113 (8), 10.1.1 (2), 10.1.0 (1), 0.0.0 (1)
 > **Ports:** port 443 (2), port 80 (2), port 23 (1)
@@ -2043,9 +2017,9 @@ created: 2026-05-02
 > **Cross-References:** later in (1), next video (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
+> **Speakers:** - [instructor] (1)
 
-#### Extended named ACL configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/extended-named-acl-configuration?u=76281980)
+#### [Extended named ACL configuration](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/extended-named-acl-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2199,7 +2173,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (6)
 > **Env Vars:** acl (13), http (10), ace (7), block (2), pc1 (2)
 > **Versions:** 203.0.113 (6), 10.1.1 (2)
 > **Ports:** port 80 (3), port 23 (1), port 443 (1)
@@ -2207,8 +2180,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### The need for switch port security
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/the-need-for-switch-port-security?u=76281980)
+#### [The need for switch port security](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/the-need-for-switch-port-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2274,7 +2246,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), traffic (4), feature (2), next (1)
 > **Env Vars:** pc1 (8), mac (2)
 > **Definitions:** is called (2), stands for (1)
 > **Cross-References:** next video (1)
@@ -2282,8 +2253,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Port security configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/port-security-configuration?u=76281980)
+#### [Port security configuration](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/port-security-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2377,7 +2347,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (26), feature (2), traffic (1)
 > **Env Vars:** mac (32), vlan (1)
 > **Prerequisites:** configure (3), prerequisite (1)
 > **CLI Commands:** make (1)
@@ -2390,8 +2359,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to wireless LANs (WLANs)
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/introduction-to-wireless-lans-wlans?u=76281980)
+#### [Introduction to wireless LANs (WLANs)](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/introduction-to-wireless-lans-wlans?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2421,7 +2389,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/introduction-to-wireless-lans-wlans?u=76281980&t=83)** Or maybe the access point needs to be in a nearby building to a primary structure, but there's no ethernet run over to that other building.
 >
-> **[1:30](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/introduction-to-wireless-lans-wlans?u=76281980&t=90)** What we can do is use a mesh wireless LAN With a mesh wireless LAN, our mesh access point doesn't have to be connected to ethernet.
+> **[1:30](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/introduction-to-wireless-lans-wlans?u=76281980&t=90)** What we can do is use a [[Mesh]] wireless LAN With a mesh wireless LAN, our mesh access point doesn't have to be connected to ethernet.
 >
 > **[1:39](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/introduction-to-wireless-lans-wlans?u=76281980&t=99)** What it's able to do is receive the radio signal in from the wireless client or another mesh access point and regenerate that signal onto the next access point or mesh access point.
 >
@@ -2455,7 +2423,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** lan (7), [[Mesh]] (7), data (5), next (1)
+> **Frameworks & Libraries:** [[Mesh]] (7)
 > **Env Vars:** lan (7), capwap (2), ap1 (1), ap2 (1), ap3 (1)
 > **Definitions:** is an  (2), is a  (1), stands for (1)
 > **Prerequisites:** configure (4)
@@ -2464,8 +2432,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (2)
 > **Speakers:** - [instructor] (1)
 
-#### WLAN antennas
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-antennas?u=76281980)
+#### [WLAN antennas](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-antennas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2481,7 +2448,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-antennas?u=76281980&t=42)** But it does give us a broader coverage area.
 >
-> **[0:45](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-antennas?u=76281980&t=45)** We might put an omnidirectional antenna, for example in the middle of a large office to give coverage across that entire office space.
+> **[0:45](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-antennas?u=76281980&t=45)** We might put an omnidirectional antenna, for example in the middle of a large [[Microsoft Office|office]] to give coverage across that entire office space.
 >
 > **[0:52](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-antennas?u=76281980&t=52)** And at one type of antenna is called a dipole antenna.
 >
@@ -2555,13 +2522,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), data (1), parallel (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - wireless (1)
 
-#### WLAN frequencies and channels
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-frequencies-and-channels-24998889?u=76281980)
+#### [WLAN frequencies and channels](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-frequencies-and-channels-24998889?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2657,7 +2623,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1)
 > **Versions:** 2.4 (4), 802.11 (1)
 > **Env Vars:** ieee (4)
 > **Analogies:** for example (1), imagine (1)
@@ -2665,8 +2630,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### WLAN standards
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-standards-25202624?u=76281980)
+#### [WLAN standards](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-standards-25202624?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2752,13 +2716,13 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-standards-25202624?u=76281980&t=210)** And Wi-Fi 8 is going to be adding millimeter wave frequencies to our other three frequency bands.
 >
-> **[3:35](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-standards-25202624?u=76281980&t=215)** These millimeter-wave frequencies, they're similar to what we see used in 5G cell phones.
+> **[3:35](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-standards-25202624?u=76281980&t=215)** These millimeter-wave frequencies, they're similar to what we see used in [[5G]] cell phones.
 >
 > **[3:41](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-standards-25202624?u=76281980&t=221)** And I think this table is going to make a great reference for your study and for the real world.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), lan (1), feature (1), next (1), [[5G]] (1)
+> **Frameworks & Libraries:** [[5G]] (1)
 > **Env Vars:** ieee (7), ofdm (5), ofdma (2), lan (1), dsss (1)
 > **Versions:** 2.4 (4), 802.11 (1), 1.3 (1), 9.6 (1)
 > **CLI Commands:** make (2)
@@ -2767,8 +2731,7 @@ created: 2026-05-02
 > **Analogies:** for example (1), similar to (1)
 > **Definitions:** known as (1)
 
-#### WLAN transmission methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-transmission-methods?u=76281980)
+#### [WLAN transmission methods](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-transmission-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2806,7 +2769,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-transmission-methods?u=76281980&t=143)** We can using something called QAM, a quadrature amplitude modulation, this is the way that we can encode not just a single binary bit but multiple binary bits in a subchannel.
 >
-> **[2:34](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-transmission-methods?u=76281980&t=154)** What we do is add two different wave forms together, one wave form is called the I signal, it's the in-phase signal, then we have another signal called the Q signal that we're comparing against the in-phase signal, and we can measure how much the Q signal is phase-shifted compared to the I signal, and what its amplitude is compared to the I signal, and when we're sending these two signals in the subchannel, they're added together, but there's a way that we can mathematically deconstruct that into their original wave forms, and we can say that Q signal, how much phase shift does it have from the I signal and what is its amplitude?
+> **[2:34](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-transmission-methods?u=76281980&t=154)** What we do is add two different wave [[Forms]] together, one wave form is called the I signal, it's the in-phase signal, then we have another signal called the Q signal that we're comparing against the in-phase signal, and we can measure how much the Q signal is phase-shifted compared to the I signal, and what its amplitude is compared to the I signal, and when we're sending these two signals in the subchannel, they're added together, but there's a way that we can mathematically deconstruct that into their original wave forms, and we can say that Q signal, how much phase shift does it have from the I signal and what is its amplitude?
 >
 > **[3:09](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-transmission-methods?u=76281980&t=189)** And by using that information we can encode multiple binary bits.
 >
@@ -2830,7 +2793,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (5), power (3), lan (2), [[Forms]] (2), next (1)
+> **Frameworks & Libraries:** [[Forms]] (2)
 > **Env Vars:** ofdm (6), ofdma (4), qam (3), lan (2), fdm (2)
 > **Definitions:** is called (2), means that (1)
 > **CLI Commands:** make (2)
@@ -2838,8 +2801,7 @@ created: 2026-05-02
 > **Versions:** 2.4 (1)
 > **Speakers:** - [instructor] (1)
 
-#### WLAN optimization and features
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-optimization-and-features?u=76281980)
+#### [WLAN optimization and features](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-optimization-and-features?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2919,7 +2881,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), data (1), lan (1)
 > **Env Vars:** mimo (3), qam (1), ofdma (1), lan (1)
 > **Cross-References:** we discussed (2), previous video (1)
 > **Definitions:** is called (2)
@@ -2927,8 +2888,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### WLAN security basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-security-basics?u=76281980)
+#### [WLAN security basics](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-security-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3000,19 +2960,18 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-security-basics?u=76281980&t=222)** It's only for this user and only for the duration of this session.
 >
-> **[3:46](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-security-basics?u=76281980&t=226)** That is dramatically going to improve the scalability of our security solution as compared to Personal mode.
+> **[3:46](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-security-basics?u=76281980&t=226)** That is dramatically going to improve the [[Scalability]] of our security solution as compared to Personal mode.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), business (1), [[Scalability]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Scalability]] (1)
 > **Env Vars:** radius (6), psk (1)
 > **Analogies:** imagine (3), such as (1)
 > **Definitions:** known as (1), is called (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### WLAN security standards
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-security-standards?u=76281980)
+#### [WLAN security standards](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-security-standards?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3020,7 +2979,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-security-standards?u=76281980&t=10)** Identifying some of the different security standards for wireless networks.
 >
-> **[0:14](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-security-standards?u=76281980&t=14)** The security standard available in the original IEE 802.11 standard was called WEP, Wired Equivalent Privacy.
+> **[0:14](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-security-standards?u=76281980&t=14)** The security standard available in the original IEE 802.11 standard was called WEP, Wired Equivalent [[Privacy]].
 >
 > **[0:22](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-security-standards?u=76281980&t=22)** The name implies that it's going to give us the same privacy as being on a wired network, and that was not true.
 >
@@ -3050,7 +3009,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-security-standards?u=76281980&t=104)** It used TKIP, which gave us better encryption than the way WEP did things.
 >
-> **[1:49](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-security-standards?u=76281980&t=109)** And because it was using RC4, it didn't require an upgrade in hardware.
+> **[1:49](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-security-standards?u=76281980&t=109)** And because it was using RC4, it didn't require an upgrade in [[Hardware]].
 >
 > **[1:53](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-security-standards?u=76281980&t=113)** You see, AES is a lot more process or intensive than TKIP.
 >
@@ -3108,7 +3067,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), [[Privacy]] (2), data (2), traffic (2), [[Hardware]] (2)
+> **Frameworks & Libraries:** [[Privacy]] (2), [[Hardware]] (2)
 > **Env Vars:** wep (11), tkip (8), aes (8), wpa2 (7), wpa3 (6)
 > **Prerequisites:** initialization (4), configure (1), set up (1), setup (1)
 > **Definitions:** stands for (2), is called (1), is a  (1), means that (1)
@@ -3116,8 +3075,7 @@ created: 2026-05-02
 > **Cross-References:** we discussed (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring a Cisco Wireless LAN Controller (WLC)
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/configuring-a-cisco-wireless-lan-controller-wlc?u=76281980)
+#### [Configuring a Cisco Wireless LAN Controller (WLC)](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/configuring-a-cisco-wireless-lan-controller-wlc?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3175,7 +3133,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** lan (5), [[Security]] (4), next (1)
 > **Env Vars:** wpa2 (6), lan (5), ccna (4), ssid (3), aes (3)
 > **Prerequisites:** configure (3)
 > **UI Navigation:** checkbox (1), click on (1)
@@ -3183,26 +3140,26 @@ created: 2026-05-02
 > **Versions:** 802.1 (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** in other words (1)
+> **Speakers:** - [instructor] (1)
 
 
 ### 4. Network Virtualization
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Virtualized servers
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/virtualized-servers?u=76281980)
+#### [Virtualized servers](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/virtualized-servers?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/virtualized-servers?u=76281980&t=0)** - [Instructor] I used to work for a university where we had lots of standalone servers.
 >
-> **[0:04](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/virtualized-servers?u=76281980&t=4)** Maybe one was Microsoft Windows, maybe one was Linux.
+> **[0:04](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/virtualized-servers?u=76281980&t=4)** Maybe one was [[Microsoft]] [[Windows]], maybe one was [[Linux]].
 >
 > **[0:07](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/virtualized-servers?u=76281980&t=7)** Maybe we had something like Oracle Solaris and these servers were made available to different departments within the university.
 >
 > **[0:14](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/virtualized-servers?u=76281980&t=14)** Unfortunately, when I noticed the utilization of these servers, it was very, very low.
 >
-> **[0:19](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/virtualized-servers?u=76281980&t=19)** We paid for a lot of hardware and capacity that was just not being used.
+> **[0:19](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/virtualized-servers?u=76281980&t=19)** We paid for a lot of [[Hardware]] and capacity that was just not being used.
 >
 > **[0:22](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/virtualized-servers?u=76281980&t=22)** It would've been great if back in those days we could do something that we could do today and that is virtualizing those servers.
 >
@@ -3216,7 +3173,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/virtualized-servers?u=76281980&t=54)** And the software that runs on that server that makes it possible to virtualize these machines is called a hypervisor.
 >
-> **[1:02](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/virtualized-servers?u=76281980&t=62)** And a hypervisor is software that's going to be able to create one of these virtual machines.
+> **[1:02](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/virtualized-servers?u=76281980&t=62)** And a hypervisor is software that's going to be able to create one of these [[Virtual Machines]].
 >
 > **[1:07](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/virtualized-servers?u=76281980&t=67)** We can also use that hypervisor software to start, to stop and to monitor the virtual machines.
 >
@@ -3253,8 +3210,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Virtualized network devices
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/virtualized-network-devices?u=76281980)
+#### [Virtualized network devices](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/virtualized-network-devices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3274,7 +3230,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/virtualized-network-devices?u=76281980&t=58)** We can install a virtual firewall, we could have a virtual router as well, and we could have a virtual load balancer.
 >
-> **[1:04](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/virtualized-network-devices?u=76281980&t=64)** So if I had, for example, three different virtual machines acting as web servers and I wanted to load balance across all of those servers which contained the same content, I could use a virtual load balancer.
+> **[1:04](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/virtualized-network-devices?u=76281980&t=64)** So if I had, for example, three different [[Virtual Machines]] acting as [[Web Servers]] and I wanted to load balance across all of those servers which contained the same content, I could use a virtual load balancer.
 >
 > **[1:16](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/virtualized-network-devices?u=76281980&t=76)** And that's the big takeaway from this video.
 >
@@ -3284,13 +3240,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), data (3), traffic (1), [[Virtual Machines]] (1), web (1)
+> **Frameworks & Libraries:** [[Virtual Machines]] (1), [[Web Servers]] (1)
 > **Prerequisites:** install (4)
 > **Analogies:** for example (2), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to software-defined networking (SDN)
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/introduction-to-software-defined-networking-sdn?u=76281980)
+#### [Introduction to software-defined networking (SDN)](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/introduction-to-software-defined-networking-sdn?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3320,9 +3275,9 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/introduction-to-software-defined-networking-sdn?u=76281980&t=111)** And that's going to carry communication back and forth between an application and the controller.
 >
-> **[1:55](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/introduction-to-software-defined-networking-sdn?u=76281980&t=115)** And the applications we use to express our intent are oftentimes written by us, using the Python programming language, Or maybe we get some code from somebody else that they've made publicly available and we modify it for our particular network, or maybe somebody is designed a front-end graphical interface, and we can express our intent through that graphical interface, and in the background, it's going to be sending instructions down to the SDN controller.
+> **[1:55](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/introduction-to-software-defined-networking-sdn?u=76281980&t=115)** And the applications we use to express our intent are oftentimes written by us, using the [[Python (Programming Language)|Python]] programming language, Or maybe we get some code from somebody else that they've made publicly available and we modify it for our particular network, or maybe somebody is designed a front-end graphical interface, and we can express our intent through that graphical interface, and in the background, it's going to be sending instructions down to the SDN controller.
 >
-> **[2:18](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/introduction-to-software-defined-networking-sdn?u=76281980&t=138)** And these NBIs, they're not using something like OpFlex they're using something called REST, R-E-S-T, representational state transfer.
+> **[2:18](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/introduction-to-software-defined-networking-sdn?u=76281980&t=138)** And these NBIs, they're not using something like OpFlex they're using something called [[Representational State Transfer (REST)|REST]], R-E-S-T, [[Representational State Transfer (REST)|representational state transfer]].
 >
 > **[2:26](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/introduction-to-software-defined-networking-sdn?u=76281980&t=146)** What this means is we're using HTTP verbs, much like our browser would communicate with a web server, we might send a GET verb or a PUT verb to that web server.
 >
@@ -3330,7 +3285,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/introduction-to-software-defined-networking-sdn?u=76281980&t=166)** And there are two commonly used formats, one type is called XML, and that stands for Extensible Markup Language.
 >
-> **[2:52](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/introduction-to-software-defined-networking-sdn?u=76281980&t=172)** Another one that's really common is called JSON, and that stands for JavaScript Object Notation.
+> **[2:52](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/introduction-to-software-defined-networking-sdn?u=76281980&t=172)** Another one that's really common is called [[JSON]], and that stands for [[JavaScript]] Object Notation.
 >
 > **[2:57](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/introduction-to-software-defined-networking-sdn?u=76281980&t=177)** And so far, we've been talking fairly generically about this SDN controller, but since we are focusing on Cisco in this course, let's take a look at a couple of Cisco SDN controllers.
 >
@@ -3348,7 +3303,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), express (6), data (4), [[Programming]] (2), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Representational State Transfer (REST)|Representational state transfer]] (1), [[JSON]] (1), [[JavaScript]] (1)
 > **Env Vars:** sdn (8), dna (4), rest (2), http (2), api (1)
 > **Definitions:** stands for (3), is called (2)
 > **CLI Commands:** python (2)
@@ -3356,8 +3311,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Software-defined wide area networks (SD-WANs)
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/software-defined-wide-area-networks-sd-wans?u=76281980)
+#### [Software-defined wide area networks (SD-WANs)](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/software-defined-wide-area-networks-sd-wans?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3381,7 +3335,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/software-defined-wide-area-networks-sd-wans?u=76281980&t=90)** That eliminates that backhauling.
 >
-> **[1:32](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/software-defined-wide-area-networks-sd-wans?u=76281980&t=92)** And while we could set up something like a VPN to give us security, and we could configure quality of service on each of our links, and we could make sure that our routing tables gave us optimal forwarding that manual configuration solution just does not scale.
+> **[1:32](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/software-defined-wide-area-networks-sd-wans?u=76281980&t=92)** And while we could set up something like a VPN to give us security, and we could configure quality of service on each of our links, and we could make sure that our [[Routing]] tables gave us optimal forwarding that manual configuration solution just does not scale.
 >
 > **[1:46](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/software-defined-wide-area-networks-sd-wans?u=76281980&t=106)** The great news is with SD-WANs those functions like security and building a routing table and quality of service, instead of being performed in each of our devices, they're performed inside of the SD-WAN controller.
 >
@@ -3393,7 +3347,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/software-defined-wide-area-networks-sd-wans?u=76281980&t=130)** And the SD-WAN controller can talk to the various routers in our topology to make sure that regardless of our physical interconnections, we're maintaining a consistent level of quality of service, security and performance.
 >
-> **[2:23](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/software-defined-wide-area-networks-sd-wans?u=76281980&t=143)** And when we say Software-Defined WAN, we're talking about the virtual network connections that form our virtual wide area network, if we look at the physical interconnections between these four different office buildings, we might see that to get from the office in the upper left to the office in the lower right, I've got to go through R1, R2, not sure where I'm going to go next, maybe R7 then to R8, and then out to the other office.
+> **[2:23](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/software-defined-wide-area-networks-sd-wans?u=76281980&t=143)** And when we say Software-Defined WAN, we're talking about the virtual network connections that form our virtual wide area network, if we look at the physical interconnections between these four different [[Microsoft Office|office]] buildings, we might see that to get from the office in the upper left to the office in the lower right, I've got to go through R1, R2, not sure where I'm going to go next, maybe R7 then to R8, and then out to the other office.
 >
 > **[2:47](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/software-defined-wide-area-networks-sd-wans?u=76281980&t=167)** And it would be a lot of work to enforce our policies by manually configuring all of those routers.
 >
@@ -3411,7 +3365,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (6), data (5), [[Security]] (5), application (3), cloud (3)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (6), [[Routing]] (2)
 > **Env Vars:** wan (13), br1 (4), br2 (2), npls (2), sdn (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** go back to (3)
@@ -3420,8 +3374,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1), configure (1)
 > **URLs:** [cisco.com](https://cisco.com) (1)
 
-#### Software-Defined Access (SD-Access)
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/software-defined-access-sd-access?u=76281980)
+#### [Software-Defined Access (SD-Access)](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/software-defined-access-sd-access?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3471,7 +3424,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), next (1), traffic (1), web (1), power (1)
 > **Env Vars:** pc1 (4), ise (3), acl (3), tcp (2), sw3 (2)
 > **Versions:** 192.0.2 (3), 192.168.1 (2)
 > **Ports:** port 443 (2)
@@ -3484,8 +3436,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3493,7 +3444,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/next-steps?u=76281980&t=3)** And this course covered a collection of network services such as DNS, NTP, NAT, AND DHCP.
 >
-> **[0:09](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/next-steps?u=76281980&t=9)** You were also introduced to network security, including some common threats out there today.
+> **[0:09](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/next-steps?u=76281980&t=9)** You were also introduced to [[Network Security]], including some common threats out there today.
 >
 > **[0:14](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/next-steps?u=76281980&t=14)** And we talked about a couple of solutions for better protecting your network, including ACLs and port security.
 >
@@ -3507,7 +3458,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/next-steps?u=76281980&t=37)** And also since this course did cover so many technologies, if you do need to go back and review, that is perfectly okay.
 >
-> **[0:44](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/next-steps?u=76281980&t=44)** In fact, that's one of the big advantages of LinkedIn Learning.
+> **[0:44](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/next-steps?u=76281980&t=44)** In fact, that's one of the big advantages of [[LinkedIn]] Learning.
 >
 > **[0:47](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/next-steps?u=76281980&t=47)** You can go back and rewatch whatever you would like to review.
 >
@@ -3515,7 +3466,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2), dns (1), [[Network Security]] (1), [[Security]] (1), [[Virtualization]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Network Security]] (1)
 > **Env Vars:** dns (1), ntp (1), nat (1), dhcp (1)
 > **Cross-References:** we talked about (1)
 > **Analogies:** such as (1)

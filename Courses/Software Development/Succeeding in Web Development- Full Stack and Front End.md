@@ -94,8 +94,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Becoming a web developer
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/becoming-a-web-developer?u=76281980)
+#### [Becoming a web developer](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/becoming-a-web-developer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -125,7 +124,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/becoming-a-web-developer?u=76281980&t=66)** Then, we'll dig into what every developer needs to know, and dive deeper into the types of technical skills you need to be successful.
 >
-> **[1:15](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/becoming-a-web-developer?u=76281980&t=75)** Then we'll look at the options you have for learning about web development and discuss the always popular question, do I need to get a college degree?
+> **[1:15](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/becoming-a-web-developer?u=76281980&t=75)** Then we'll look at the options you have for learning about [[Web Development]] and discuss the always popular question, do I need to get a college degree?
 >
 > **[1:24](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/becoming-a-web-developer?u=76281980&t=84)** Finally, if you decide to pursue the career of a developer, I'll help you get a job.
 >
@@ -135,7 +134,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (5), web (3), [[Web Development]] (1)
+> **Frameworks & Libraries:** [[Web Development]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - all (1)
@@ -146,16 +145,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Types of web developers
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/types-of-web-developers?u=76281980)
+#### [Types of web developers](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/types-of-web-developers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/types-of-web-developers?u=76281980&t=0)** - Jobs in web development are divided in two different categories.
+> **[0:00](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/types-of-web-developers?u=76281980&t=0)** - Jobs in [[Web Development]] are divided in two different categories.
 >
 > **[0:04](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/types-of-web-developers?u=76281980&t=4)** Most developers identify as being a combination of front-end or back-end developers.
 >
-> **[0:11](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/types-of-web-developers?u=76281980&t=11)** A front-end developer focuses on what's in front of a user, and that's usually some type of web browser like Google's Chrome, or Microsoft's Edge.
+> **[0:11](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/types-of-web-developers?u=76281980&t=11)** A front-end developer focuses on what's in front of a user, and that's usually some type of web browser like [[Google]]'s Chrome, or [[Microsoft]]'s Edge.
 >
 > **[0:20](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/types-of-web-developers?u=76281980&t=20)** Now about a third of web developers are front-end developers that deal with code that manages the interaction between the user and the browser.
 >
@@ -195,14 +193,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** front-end (6), [[Web Development]] (2), web (2), full-stack (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[Web Development]] (2), [[Google]] (1), [[Microsoft]] (1)
 > **Tools:** notion (1)
 > **Definitions:** in other words (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - jobs (1)
 
-#### Is the developer life for me?
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/is-the-developer-life-for-me?u=76281980)
+#### [Is the developer life for me?](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/is-the-developer-life-for-me?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -226,7 +223,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/is-the-developer-life-for-me?u=76281980&t=70)** It's important to get along with others, learn to appreciate critiques, and also be willing to help improve the work of others.
 >
-> **[1:19](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/is-the-developer-life-for-me?u=76281980&t=79)** Working in web development might be the biggest team sport you'll ever participate in.
+> **[1:19](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/is-the-developer-life-for-me?u=76281980&t=79)** Working in [[Web Development]] might be the biggest team sport you'll ever participate in.
 >
 > **[1:24](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/is-the-developer-life-for-me?u=76281980&t=84)** One of the most important characteristics of a developer is that they're lifelong learners.
 >
@@ -240,19 +237,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (1), web (1), [[Web Development]] (1)
+> **Frameworks & Libraries:** [[Web Development]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Speakers:** - besides (1)
 
-#### How much can I make?
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/how-much-can-i-make?u=76281980)
+#### [How much can I make?](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/how-much-can-i-make?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/how-much-can-i-make?u=76281980&t=0)** - A career as a developer can be very lucrative, and although that's not necessarily what you should focus on, it's good to know that it's in demand and pays well.
 >
-> **[0:11](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/how-much-can-i-make?u=76281980&t=11)** According to LinkedIn, the median salary for a front-end developer in the U.S. is $74,900, while a back-end developer is higher at $85,000 a year.
+> **[0:11](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/how-much-can-i-make?u=76281980&t=11)** According to [[LinkedIn]], the median salary for a front-end developer in the U.S. is $74,900, while a back-end developer is higher at $85,000 a year.
 >
 > **[0:23](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/how-much-can-i-make?u=76281980&t=23)** Now back-end development is often considered the more challenging of the practices, and thus reflected in salary.
 >
@@ -274,7 +270,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (3), front-end (2), [[LinkedIn]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
 > **Documentation:** stack overflow (1)
 > **Analogies:** for example (1)
@@ -285,12 +281,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### HTML as the foundation
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/html-as-the-foundation?u=76281980)
+#### [HTML as the foundation](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/html-as-the-foundation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/html-as-the-foundation?u=76281980&t=0)** - Whether you're a front end, back end, full stack, or any type of web developer, there is one language that everyone needs to master, and that's HTML.
+> **[0:00](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/html-as-the-foundation?u=76281980&t=0)** - Whether you're a front end, back end, full stack, or any type of web developer, there is one language that everyone needs to master, and that's [[HTML]].
 >
 > **[0:10](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/html-as-the-foundation?u=76281980&t=10)** HTML stands for Hypertext Markup Language.
 >
@@ -324,29 +319,28 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/html-as-the-foundation?u=76281980&t=81)** Markup does something else that is really important.
 >
-> **[1:24](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/html-as-the-foundation?u=76281980&t=84)** It generates the DOM, or Document Object Model.
+> **[1:24](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/html-as-the-foundation?u=76281980&t=84)** It generates the DOM, or [[Document Object Model (DOM)|Document Object Model]].
 >
 > **[1:28](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/html-as-the-foundation?u=76281980&t=88)** The DOM describes the structure of the page, and it's sort of like an outline or a map of the content within a website.
 >
 > **[1:35](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/html-as-the-foundation?u=76281980&t=95)** When you add Markup tags to a document, you're building the map that defines the role of your content.
 >
-> **[1:41](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/html-as-the-foundation?u=76281980&t=101)** This map is really important to how CSS and JavaScript work.
+> **[1:41](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/html-as-the-foundation?u=76281980&t=101)** This map is really important to how CSS and [[JavaScript]] work.
 >
 > **[1:46](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/html-as-the-foundation?u=76281980&t=106)** The DOM is the way you access elements on the page with the other languages.
 >
 > **[1:51](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/html-as-the-foundation?u=76281980&t=111)** The DOM is so important to sites and apps that if it isn't coded correctly, it can break the entire website.
 >
-> **[1:58](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/html-as-the-foundation?u=76281980&t=118)** Although there are many skills to learn in web development, HTML is foundational to every type of job, and although technically it's the easiest of the languages, it's also the one everyone must master.
+> **[1:58](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/html-as-the-foundation?u=76281980&t=118)** Although there are many skills to learn in [[Web Development]], HTML is foundational to every type of job, and although technically it's the easiest of the languages, it's also the one everyone must master.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), dom (4), web (3), [[Document Object Model (DOM)|Document object model]] (1), css (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[Document Object Model (DOM)|Document object model]] (1), [[JavaScript]] (1), [[Web Development]] (1)
 > **Env Vars:** html (4), dom (4), css (1)
 > **Definitions:** stands for (1), means that (1), is called (1)
 > **Speakers:** - whether (1)
 
-#### CSS for design
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/css-for-design?u=76281980)
+#### [CSS for design](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/css-for-design?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -354,15 +348,15 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/css-for-design?u=76281980&t=6)** Here you'll notice a specialization within the different types of developers.
 >
-> **[0:11](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/css-for-design?u=76281980&t=11)** There are folks who are more interested in the look and feel of a site and enjoy working on the user experience or UX, and there are those who prefer to work on the functionality of a site.
+> **[0:11](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/css-for-design?u=76281980&t=11)** There are folks who are more interested in the look and feel of a site and enjoy working on the [[User Experience (UX)|user experience]] or UX, and there are those who prefer to work on the functionality of a site.
 >
 > **[0:22](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/css-for-design?u=76281980&t=22)** That's called user interface or UI.
 >
 > **[0:25](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/css-for-design?u=76281980&t=25)** Design for a website will require learning how to work with the layout language of the web, which is called CSS.
 >
-> **[0:32](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/css-for-design?u=76281980&t=32)** CSS stands for Cascading Style Sheets.
+> **[0:32](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/css-for-design?u=76281980&t=32)** CSS stands for [[Cascading Style Sheets (CSS)|Cascading Style Sheets]].
 >
-> **[0:36](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/css-for-design?u=76281980&t=36)** Like HTML, it's made up of two parts.
+> **[0:36](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/css-for-design?u=76281980&t=36)** Like [[HTML]], it's made up of two parts.
 >
 > **[0:39](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/css-for-design?u=76281980&t=39)** First, CSS is about designing a set of rules or style sheets for how the DOM is translated into visual form.
 >
@@ -384,7 +378,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/css-for-design?u=76281980&t=98)** CSS will also let you add some motion and even a level of interactivity to your designs.
 >
-> **[1:44](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/css-for-design?u=76281980&t=104)** So, learning CSS means also learning to work with the elements of motion and the language of interaction as it relates to graphic design.
+> **[1:44](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/css-for-design?u=76281980&t=104)** So, learning CSS means also learning to work with the elements of motion and the language of interaction as it relates to [[Graphic Design]].
 >
 > **[1:53](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/css-for-design?u=76281980&t=113)** As CSS has matured, things like variables, calculations, and more complex features have made it into the language.
 >
@@ -398,20 +392,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (10), [[HTML]] (3), web (2), [[User Experience (UX)|User experience]] (1), ux (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[User Experience (UX)|User experience]] (1), [[Cascading Style Sheets (CSS)|Cascading style sheets]] (1), [[Graphic Design]] (1)
 > **Env Vars:** css (10), html (3), dom (1)
 > **Definitions:** is a  (1), is called (1), stands for (1), in other words (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - design (1)
 
-#### JavaScript for interactivity
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/javascript-for-interactivity?u=76281980)
+#### [JavaScript for interactivity](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/javascript-for-interactivity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/javascript-for-interactivity?u=76281980&t=0)** - Everyone who works in the world of web development has to be comfortable with a certain amount of programming.
+> **[0:00](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/javascript-for-interactivity?u=76281980&t=0)** - Everyone who works in the world of [[Web Development]] has to be comfortable with a certain amount of programming.
 >
-> **[0:07](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/javascript-for-interactivity?u=76281980&t=7)** For web development that means learning about JavaScript, the language responsible for managing interaction within a browser.
+> **[0:07](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/javascript-for-interactivity?u=76281980&t=7)** For web development that means learning about [[JavaScript]], the language responsible for managing interaction within a browser.
 >
 > **[0:15](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/javascript-for-interactivity?u=76281980&t=15)** It's not just front end developers, 50% of back end developers say they use some form of JavaScript daily.
 >
@@ -427,7 +420,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/javascript-for-interactivity?u=76281980&t=67)** Some developers write code in languages other than JavaScript that let them take advantage of new techniques and improvements that will eventually get folded back into JavaScript.
 >
-> **[1:18](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/javascript-for-interactivity?u=76281980&t=78)** JavaScript has also been implemented on the server side through something called Node.js, which is an implementation of the engine that runs in most browsers called Chrome V8.
+> **[1:18](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/javascript-for-interactivity?u=76281980&t=78)** JavaScript has also been implemented on the server side through something called [[Node.js]], which is an implementation of the engine that runs in most browsers called Chrome V8.
 >
 > **[1:30](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/javascript-for-interactivity?u=76281980&t=90)** Now this allows you to use JavaScript in unexpected ways.
 >
@@ -437,7 +430,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (9), [[Web Development]] (2), [[Programming]] (1), dom (1), [[Node.js]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (9), [[Web Development]] (2), [[Node.js]] (1)
 > **CLI Commands:** node (1), make (1)
 > **Definitions:** is a  (1), is an  (1)
 > **File Paths:** node.js (1)
@@ -445,14 +438,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - everyone (1)
 
-#### HTTP(S) for connecting
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/http-s-for-connecting?u=76281980)
+#### [HTTP(S) for connecting](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/http-s-for-connecting?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/http-s-for-connecting?u=76281980&t=0)** - Remember C3PO in Star Wars?
 >
-> **[0:02](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/http-s-for-connecting?u=76281980&t=2)** If you ask him how many languages he spoke, he'd tell you he was fluent in over six million forms of communication.
+> **[0:02](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/http-s-for-connecting?u=76281980&t=2)** If you ask him how many languages he spoke, he'd tell you he was fluent in over six million [[Forms]] of communication.
 >
 > **[0:09](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/http-s-for-connecting?u=76281980&t=9)** But, if you asked him what he was, he'd tell you he was a protocol droid.
 >
@@ -466,7 +458,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/http-s-for-connecting?u=76281980&t=42)** HTTP stands for Hypertext Transfer Protocol.
 >
-> **[0:45](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/http-s-for-connecting?u=76281980&t=45)** It's designed to transfer information from languages like HTML.
+> **[0:45](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/http-s-for-connecting?u=76281980&t=45)** It's designed to transfer information from languages like [[HTML]].
 >
 > **[0:50](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/http-s-for-connecting?u=76281980&t=50)** It works by allowing someone using a browser, which is often referred to as a client, to send requests to software that handles them.
 >
@@ -488,7 +480,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/http-s-for-connecting?u=76281980&t=106)** One of the main features of HTTP/2 is multiplexing, which lets you send multiple requests at once.
 >
-> **[1:53](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/http-s-for-connecting?u=76281980&t=113)** Now that would be convenient if I'm ordering coffee for my team at the office.
+> **[1:53](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/http-s-for-connecting?u=76281980&t=113)** Now that would be convenient if I'm ordering coffee for my team at the [[Microsoft Office|office]].
 >
 > **[1:58](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/http-s-for-connecting?u=76281980&t=118)** Another revision is HTTPS.
 >
@@ -504,7 +496,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), [[Forms]] (1), [[HTML]] (1), traffic (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[HTML]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** http (12), https (3), post (2), delete (2), c3po (1)
 > **API Endpoints:** post  (2), get  (1)
 > **Definitions:** stands for (1), is an  (1)
@@ -515,8 +507,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How the internet works
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/how-the-internet-works?u=76281980)
+#### [How the internet works](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/how-the-internet-works?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -552,11 +543,11 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/how-the-internet-works?u=76281980&t=71)** Now, think of them as the address of your house.
 >
-> **[1:14](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/how-the-internet-works?u=76281980&t=74)** Your ZIP code tells the post office the general location of where you are in the country, and then the street address gets more specific.
+> **[1:14](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/how-the-internet-works?u=76281980&t=74)** Your ZIP code tells the post [[Microsoft Office|office]] the general location of where you are in the country, and then the street address gets more specific.
 >
 > **[1:23](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/how-the-internet-works?u=76281980&t=83)** Most of the time, when we're working on the web, we don't see these numbers.
 >
-> **[1:27](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/how-the-internet-works?u=76281980&t=87)** But instead use names like [Google.com](https://Google.com) or [LinkedIn.com](https://LinkedIn.com).
+> **[1:27](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/how-the-internet-works?u=76281980&t=87)** But instead use names like [[[Google]].com](https://Google.com) or [[[LinkedIn]].com](https://LinkedIn.com).
 >
 > **[1:31](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/how-the-internet-works?u=76281980&t=91)** But those names get translated into numbers by a sort of address book system called the Domain Name Servers, or DNS.
 >
@@ -592,15 +583,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (4), [[LinkedIn]] (3), web (2), data (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Microsoft Office|Office]] (1), [[Google]] (1)
 > **Env Vars:** dns (4), tcp (3), zip (1), actps (1), http (1)
 > **URLs:** [google.com](https://google.com) (1), [linkedin.com](https://linkedin.com) (1), [https://linkedin.com](https://linkedin.com) (1)
 > **Definitions:** is a  (2), known as (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - the (1)
 
-#### Building accessible projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/building-accessible-projects?u=76281980)
+#### [Building accessible projects](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/building-accessible-projects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -608,7 +598,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/building-accessible-projects?u=76281980&t=5)** Like this one right here.
 >
-> **[0:06](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/building-accessible-projects?u=76281980&t=6)** In 1990, OXO decided to redesign products so that they were easier for people with limited mobility use.
+> **[0:06](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/building-accessible-projects?u=76281980&t=6)** In 1990, OXO decided to redesign [[Microsoft Products|products]] so that they were easier for people with limited mobility use.
 >
 > **[0:14](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/building-accessible-projects?u=76281980&t=14)** They look more like this.
 >
@@ -624,7 +614,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/building-accessible-projects?u=76281980&t=62)** Including the state of the current application as well as the roles of different elements on your page.
 >
-> **[1:09](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/building-accessible-projects?u=76281980&t=69)** Now you can help these technologies first by learning to write HTML properly, and then by using ARIA or Accessible Rich Internet Application tags to further describe the roles of your elements.
+> **[1:09](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/building-accessible-projects?u=76281980&t=69)** Now you can help these technologies first by learning to write [[HTML]] properly, and then by using ARIA or Accessible Rich Internet Application tags to further describe the roles of your elements.
 >
 > **[1:22](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/building-accessible-projects?u=76281980&t=82)** The Americans with Disabilities Act require that states and local governments provide equal access to all those who visit their sites.
 >
@@ -638,7 +628,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/building-accessible-projects?u=76281980&t=128)** Have you ever been on a site where it's just hard to fill out a form because of the placement of form elements or the size of the links?
 >
-> **[2:15](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/building-accessible-projects?u=76281980&t=135)** Now people skip forms that aren't easy to work with and that can hurt your bottom line.
+> **[2:15](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/building-accessible-projects?u=76281980&t=135)** Now people skip [[Forms]] that aren't easy to work with and that can hurt your bottom line.
 >
 > **[2:21](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/building-accessible-projects?u=76281980&t=141)** Another thing to consider is how well your site works when using a mobile device, a phone verses a tablet, and a different orientations.
 >
@@ -654,19 +644,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Microsoft Products|Products]] (1), web (1), dom (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[HTML]] (1), [[Forms]] (1)
 > **Env Vars:** oxo (1), dom (1), html (1), aria (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** navigate to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - have (1)
 
-#### Design methodologies
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/design-methodologies?u=76281980)
+#### [Design methodologies](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/design-methodologies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/design-methodologies?u=76281980&t=0)** - One of the huge changes on how we approach web design came as a result of the explosion of cell phones and tablets.
+> **[0:00](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/design-methodologies?u=76281980&t=0)** - One of the huge changes on how we approach [[Web Design]] came as a result of the explosion of cell phones and tablets.
 >
 > **[0:08](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/design-methodologies?u=76281980&t=8)** Designers had to radically change the way that we thought about web design.
 >
@@ -718,19 +707,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (8), css (3), next (2)
+> **Frameworks & Libraries:** [[Web Design]] (3)
 > **Env Vars:** css (3), oocss (1), smacss (1), bem (1)
 > **Best Practices:** you should always (1)
 > **Speakers:** - one (1)
 
-#### Development approaches
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/development-approaches?u=76281980)
+#### [Development approaches](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/development-approaches?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/development-approaches?u=76281980&t=0)** - Developers approach how they program in a variety of ways, and some of these are related to the specific language they use.
 >
-> **[0:07](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/development-approaches?u=76281980&t=7)** Now, although all browsers use HTML, CSS and JavaScript, how that combination of languages is arrived at isn't always straight forward.
+> **[0:07](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/development-approaches?u=76281980&t=7)** Now, although all browsers use [[HTML]], CSS and [[JavaScript]], how that combination of languages is arrived at isn't always straight forward.
 >
 > **[0:17](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/development-approaches?u=76281980&t=17)** There's alternatives to these three, but you might be asking yourself, why would I want to write in a language other than these three?
 >
@@ -782,41 +770,40 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (6), css (5), [[HTML]] (3), functional (3), data (3)
+> **Frameworks & Libraries:** [[JavaScript]] (6), [[HTML]] (3)
 > **Env Vars:** css (5), html (3), sas (2), mvc (1)
 > **Definitions:** is a  (3), means that (1), is called (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - developers (1)
 
-#### Version control
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/version-control?u=76281980)
+#### [Version control](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/version-control?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/version-control?u=76281980&t=0)** - A lot of people have a misconception about developers.
 >
-> **[0:04](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/version-control?u=76281980&t=4)** That we're all a bunch of loners, working in our rooms, on the next big Facebook or Google.
+> **[0:04](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/version-control?u=76281980&t=4)** That we're all a bunch of loners, working in our rooms, on the next big Facebook or [[Google]].
 >
 > **[0:10](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/version-control?u=76281980&t=10)** In reality, most developers work as part of a team.
 >
-> **[0:14](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/version-control?u=76281980&t=14)** To create high performing teams, developers make use of formalized processes and version control.
+> **[0:14](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/version-control?u=76281980&t=14)** To create high performing teams, developers make use of formalized processes and [[Version Control]].
 >
-> **[0:21](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/version-control?u=76281980&t=21)** One of these processes, Agile, focuses on producing working software and regrouping regularly to make sure that what you're doing aligns to customer needs.
+> **[0:21](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/version-control?u=76281980&t=21)** One of these processes, [[Agile Development|Agile]], focuses on producing working software and regrouping regularly to make sure that what you're doing aligns to customer needs.
 >
 > **[0:32](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/version-control?u=76281980&t=32)** Now it works by scheduling a series of sprints where you build, test, and replan your work every few weeks.
 >
 > **[0:41](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/version-control?u=76281980&t=41)** That's a big improvement from a waterfall approach, where all the planning is done at the beginning and takes most of the time.
 >
-> **[0:50](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/version-control?u=76281980&t=50)** You may also hear about something called DevOps.
+> **[0:50](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/version-control?u=76281980&t=50)** You may also hear about something called [[DevOps]].
 >
-> **[0:53](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/version-control?u=76281980&t=53)** It combines software development, the dev part, with operations, or ops.
+> **[0:53](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/version-control?u=76281980&t=53)** It combines [[Software Development]], the dev part, with operations, or ops.
 >
 > **[0:59](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/version-control?u=76281980&t=59)** The goal is to shorten the time between writing the code and deployment.
 >
 > **[1:05](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/version-control?u=76281980&t=65)** Whereas Agile focuses more on the communication between consumers and the product, DevOps focuses on how that software is deployed in the current environment.
 >
-> **[1:16](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/version-control?u=76281980&t=76)** Today more software is being developed within a processes called Continuous Delivery.
+> **[1:16](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/version-control?u=76281980&t=76)** Today more software is being developed within a processes called [[Continuous Delivery (CD)|Continuous Delivery]].
 >
 > **[1:22](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/version-control?u=76281980&t=82)** Many development teams are constantly shipping new features to existing software.
 >
@@ -828,7 +815,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/version-control?u=76281980&t=106)** If many people are working on the same piece of software at the same time, how do you manage and combine those changes to make a new version of the software?
 >
-> **[1:57](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/version-control?u=76281980&t=117)** Now one of the most popular ways to manage software on the web is Git, which allows people to work on their own versions of projects and then merge changes together, identifying potential conflicts and providing a way to resolve them.
+> **[1:57](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/version-control?u=76281980&t=117)** Now one of the most popular ways to manage software on the web is [[Git]], which allows people to work on their own versions of projects and then merge changes together, identifying potential conflicts and providing a way to resolve them.
 >
 > **[2:12](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/version-control?u=76281980&t=132)** This is typically referred to as Version Control.
 >
@@ -836,7 +823,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), [[Version Control]] (2), [[Agile Development|Agile]] (2), [[DevOps]] (2), next (1)
+> **Frameworks & Libraries:** [[Version Control]] (2), [[Agile Development|Agile]] (2), [[DevOps]] (2), [[Google]] (1), [[Software Development]] (1)
 > **CLI Commands:** make (3), git (1)
 > **Speakers:** - a (1)
 
@@ -845,8 +832,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Server technologies
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/server-technologies?u=76281980)
+#### [Server technologies](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/server-technologies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -856,9 +842,9 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/server-technologies?u=76281980&t=13)** And most of the servers don't even run on physical machines anymore.
 >
-> **[0:16](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/server-technologies?u=76281980&t=16)** They run the software on virtual machines which live in the cloud.
+> **[0:16](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/server-technologies?u=76281980&t=16)** They run the software on [[Virtual Machines]] which live in the cloud.
 >
-> **[0:21](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/server-technologies?u=76281980&t=21)** Now the cloud is a worldwide network of computers that hosts applications by creating virtual machines configured, managed, and run by companies like Microsoft, Amazon, or Google.
+> **[0:21](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/server-technologies?u=76281980&t=21)** Now the cloud is a worldwide network of computers that hosts applications by creating virtual machines configured, managed, and run by companies like [[Microsoft]], Amazon, or [[Google]].
 >
 > **[0:35](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/server-technologies?u=76281980&t=35)** And different server applications can live in the same machine or in different servers.
 >
@@ -866,7 +852,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/server-technologies?u=76281980&t=50)** One of the first decisions you'll make when you need to host a site, is the address of your site.
 >
-> **[0:56](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/server-technologies?u=76281980&t=56)** So, a site like LinkedIn has to use a domain name that will be easily remembered by folks visiting the site.
+> **[0:56](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/server-technologies?u=76281980&t=56)** So, a site like [[LinkedIn]] has to use a domain name that will be easily remembered by folks visiting the site.
 >
 > **[1:04](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/server-technologies?u=76281980&t=64)** What you do is purchase a domain name and then include a TLD or Top-Level Domain like .com, .org, or .edu.
 >
@@ -878,7 +864,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/server-technologies?u=76281980&t=90)** So you can include things like .tech, .basketball, and even .viking.
 >
-> **[1:36](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/server-technologies?u=76281980&t=96)** Cloud services specialize in providing virtual machines and applications that are elastic in nature.
+> **[1:36](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/server-technologies?u=76281980&t=96)** [[Cloud Services]] specialize in providing virtual machines and applications that are elastic in nature.
 >
 > **[1:44](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/server-technologies?u=76281980&t=104)** So they grow based on your needs.
 >
@@ -886,7 +872,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/server-technologies?u=76281980&t=109)** And as your site grows and you gain more users your speed, memory and throughput can adjust.
 >
-> **[1:56](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/server-technologies?u=76281980&t=116)** Now there are three major providers for the services like Google Cloud, Amazon Web Services, and Azure for Microsoft.
+> **[1:56](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/server-technologies?u=76281980&t=116)** Now there are three major providers for the services like [[Google Cloud Platform (GCP)|Google Cloud]], [[Amazon Web Services (AWS)|Amazon Web Services]], and [[Microsoft Azure|Azure]] for Microsoft.
 >
 > **[2:05](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/server-technologies?u=76281980&t=125)** If your site needs to deliver maximum speed, it really matters how far the customer is from the server.
 >
@@ -902,22 +888,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Virtual Machines]] (3), cloud (3), web (2), [[Microsoft]] (2), data (2)
+> **Frameworks & Libraries:** [[Virtual Machines]] (3), [[Microsoft]] (2), [[Google]] (1), [[LinkedIn]] (1), [[Cloud Services]] (1)
 > **Env Vars:** tld (1), cdn (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - one (1)
 
-#### Back-end languages
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/back-end-languages?u=76281980)
+#### [Back-end languages](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/back-end-languages?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/back-end-languages?u=76281980&t=0)** - When users visit websites, each receives a slightly different experience depending on the data stored by those websites.
 >
-> **[0:08](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/back-end-languages?u=76281980&t=8)** Web developers, especially backend specialists, need to be able to work with databases.
+> **[0:08](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/back-end-languages?u=76281980&t=8)** Web developers, especially backend specialists, need to be able to work with [[Databases]].
 >
-> **[0:14](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/back-end-languages?u=76281980&t=14)** To do this they'll need to know data languages like Structured Query Language which is also called SQL.
+> **[0:14](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/back-end-languages?u=76281980&t=14)** To do this they'll need to know data languages like Structured Query Language which is also called [[SQL]].
 >
 > **[0:22](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/back-end-languages?u=76281980&t=22)** And this is a popular way to store and retrieve information.
 >
@@ -927,7 +912,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/back-end-languages?u=76281980&t=33)** There's another important category of databases that you should be familiar with.
 >
-> **[0:38](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/back-end-languages?u=76281980&t=38)** They're called NoSQL, and you can tell by the name that they're very different than SQL.
+> **[0:38](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/back-end-languages?u=76281980&t=38)** They're called [[NoSQL]], and you can tell by the name that they're very different than SQL.
 >
 > **[0:44](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/back-end-languages?u=76281980&t=44)** Now sequel databases have clearly defined structures which is sometimes referred to as the schema.
 >
@@ -941,13 +926,13 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/back-end-languages?u=76281980&t=79)** Now on the other side of databases, you need a language that can take the data and merge it with templates to display customized info.
 >
-> **[1:28](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/back-end-languages?u=76281980&t=88)** They are languages like PHP, Node.js, .NET and Ruby on Rails that combine templates with data and build custom pages for each user.
+> **[1:28](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/back-end-languages?u=76281980&t=88)** They are languages like [[PHP]], [[Node.js]], .NET and Ruby on Rails that combine templates with data and build custom pages for each user.
 >
 > **[1:39](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/back-end-languages?u=76281980&t=99)** The set of tools that each company uses is often called the Stack and it varies sometimes even between different projects.
 >
 > **[1:47](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/back-end-languages?u=76281980&t=107)** Some stacks can become their own specialized platforms.
 >
-> **[1:51](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/back-end-languages?u=76281980&t=111)** The most famous of these is WordPress.
+> **[1:51](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/back-end-languages?u=76281980&t=111)** The most famous of these is [[WordPress]].
 >
 > **[1:53](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/back-end-languages?u=76281980&t=113)** Which started out as a blogging platform but has grown to let you build full website infrastructures.
 >
@@ -969,15 +954,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (7), data (4), [[NoSQL]] (4), web (3), [[SQL]] (3)
+> **Frameworks & Libraries:** [[Databases]] (7), [[NoSQL]] (4), [[SQL]] (3), [[WordPress]] (3), [[PHP]] (2)
 > **CLI Commands:** php (2), node (2), ruby (2), rails (2), make (1)
 > **Env Vars:** sql (3), php (2), net (2)
 > **File Paths:** node.js (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - when (1)
 
-#### Developer tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/developer-tools?u=76281980)
+#### [Developer tools](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/developer-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -987,7 +971,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/developer-tools?u=76281980&t=14)** But there are tons of other options.
 >
-> **[0:16](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/developer-tools?u=76281980&t=16)** Now some popular options include Adam from GitHub, as well as Sublime Text.
+> **[0:16](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/developer-tools?u=76281980&t=16)** Now some popular options include Adam from [[GitHub]], as well as Sublime Text.
 >
 > **[0:22](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/developer-tools?u=76281980&t=22)** Code editors are sometimes called IDEs or Integrated Development Environments.
 >
@@ -1023,7 +1007,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), [[GitHub]] (1), [[Automation]] (1), application (1)
+> **Frameworks & Libraries:** [[GitHub]] (1)
 > **Tools:** visual studio (3), github (1), sublime (1)
 > **Env Vars:** ide (2)
 > **Definitions:** is a  (1), is an  (1)
@@ -1031,8 +1015,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - developers (1)
 
-#### Frameworks and libraries
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/frameworks-and-libraries?u=76281980)
+#### [Frameworks and libraries](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/frameworks-and-libraries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1054,15 +1037,15 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/frameworks-and-libraries?u=76281980&t=58)** Some frameworks make it easier to build websites, like the famous Boostrap framework.
 >
-> **[1:03](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/frameworks-and-libraries?u=76281980&t=63)** It's just a way to write HTML that adds popular components, like carousels, modals, and cards.
+> **[1:03](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/frameworks-and-libraries?u=76281980&t=63)** It's just a way to write [[HTML]] that adds popular components, like carousels, modals, and cards.
 >
-> **[1:12](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/frameworks-and-libraries?u=76281980&t=72)** By adding just a few classes in your HTML, you get components with pre-written JavaScript to handle common interactivity.
+> **[1:12](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/frameworks-and-libraries?u=76281980&t=72)** By adding just a few classes in your HTML, you get components with pre-written [[JavaScript]] to handle common interactivity.
 >
 > **[1:20](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/frameworks-and-libraries?u=76281980&t=80)** Now there are plenty of similar frameworks, like Material Design and Foundation, but Bootstrap is both the oldest and most popular.
 >
 > **[1:30](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/frameworks-and-libraries?u=76281980&t=90)** There are also frameworks that help you write in a language that translates to JavaScript.
 >
-> **[1:35](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/frameworks-and-libraries?u=76281980&t=95)** These are frameworks like Angular, React, and Vue.js.
+> **[1:35](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/frameworks-and-libraries?u=76281980&t=95)** These are frameworks like [[Angular]], [[React.js|React]], and [[Vue.js]].
 >
 > **[1:39](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/frameworks-and-libraries?u=76281980&t=99)** They're so popular that a lot of companies will hire developers who specialize in one of these frameworks.
 >
@@ -1072,7 +1055,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/frameworks-and-libraries?u=76281980&t=117)** React was designed to create interfaces, so it's less comprehensive than Angular, but it brought important concepts like a component based architecture and the virtual DOM, which manages changes in the pages for you.
 >
-> **[2:13](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/frameworks-and-libraries?u=76281980&t=133)** Now Vue is the newest kid on the block, but it's by far the easiest to learn and implement.
+> **[2:13](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/frameworks-and-libraries?u=76281980&t=133)** Now [[Vue.js|Vue]] is the newest kid on the block, but it's by far the easiest to learn and implement.
 >
 > **[2:20](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/frameworks-and-libraries?u=76281980&t=140)** It's similar to React, but one of it's main benefits is that it can be installed in a project using a simple script hack.
 >
@@ -1082,7 +1065,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (4), [[Angular]] (3), data (2), dom (2), [[HTML]] (2)
+> **Frameworks & Libraries:** [[React.js|React]] (4), [[Angular]] (3), [[HTML]] (2), [[JavaScript]] (2), [[Vue.js]] (1)
 > **Env Vars:** dom (2), html (2)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** jquery (2)
@@ -1090,8 +1073,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - frameworks (1)
 
-#### APIs and services
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/apis-and-services?u=76281980)
+#### [APIs and services](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/apis-and-services?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1101,7 +1083,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/apis-and-services?u=76281980&t=16)** Developers often create these to simplify the sharing of data.
 >
-> **[0:20](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/apis-and-services?u=76281980&t=20)** Now this is how some sites allow you to log in through your Facebook, Google, or Twitter accounts.
+> **[0:20](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/apis-and-services?u=76281980&t=20)** Now this is how some sites allow you to log in through your Facebook, [[Google]], or Twitter accounts.
 >
 > **[0:27](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/apis-and-services?u=76281980&t=27)** And this is made possible by something called an API, or application programming interface.
 >
@@ -1111,11 +1093,11 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/apis-and-services?u=76281980&t=49)** Restful services used HTTP verbs like GET and POST to retrieve and send information to manage that data.
 >
-> **[0:58](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/apis-and-services?u=76281980&t=58)** The requests are usually returned in a format called JSON, or JavaScript Object Notation.
+> **[0:58](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/apis-and-services?u=76281980&t=58)** The requests are usually returned in a format called [[JSON]], or [[JavaScript]] Object Notation.
 >
 > **[1:05](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/apis-and-services?u=76281980&t=65)** That's a text-based format that easily converts into JavaScript objects.
 >
-> **[1:10](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/apis-and-services?u=76281980&t=70)** Now as a developer, you'll need to be comfortable with using and managing data from a service like REST.
+> **[1:10](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/apis-and-services?u=76281980&t=70)** Now as a developer, you'll need to be comfortable with using and managing data from a service like [[Representational State Transfer (REST)|REST]].
 >
 > **[1:17](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/apis-and-services?u=76281980&t=77)** More advanced users will create their own web services and APIs.
 >
@@ -1123,7 +1105,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/apis-and-services?u=76281980&t=89)** Now OAuth can act like an intermediary so that requests can be securely managed without having to constantly share passwords between two systems.
 >
-> **[1:40](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/apis-and-services?u=76281980&t=100)** That's why you can tell an application like LinkedIn to post to your Twitter feed.
+> **[1:40](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/apis-and-services?u=76281980&t=100)** That's why you can tell an application like [[LinkedIn]] to post to your Twitter feed.
 >
 > **[1:45](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/apis-and-services?u=76281980&t=105)** Once you've authorized your LinkedIn account to post to Twitter, the two services share a secret token, and that makes communication easier.
 >
@@ -1133,7 +1115,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), application (2), [[JavaScript]] (2), [[LinkedIn]] (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[LinkedIn]] (2), [[Google]] (1), [[JSON]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (1), http (1), post (1), json (1), rest (1)
 > **Definitions:** is a  (3)
 > **API Endpoints:** get  (1), post
@@ -1146,8 +1128,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What education do I need?
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/what-education-do-i-need?u=76281980)
+#### [What education do I need?](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/what-education-do-i-need?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1187,16 +1168,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), career (1), functional (1), teams (1)
 > **CLI Commands:** make (3), find (1)
 > **Speakers:** - education (1)
 
-#### Traditional education
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/traditional-education?u=76281980)
+#### [Traditional education](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/traditional-education?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/traditional-education?u=76281980&t=0)** - Higher education is an important part of many careers, but not everyone thrives in a standard educational environment.
+> **[0:00](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/traditional-education?u=76281980&t=0)** - [[Higher Education]] is an important part of many careers, but not everyone thrives in a standard educational environment.
 >
 > **[0:09](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/traditional-education?u=76281980&t=9)** Do you really need to get a college degree to get a developer job?
 >
@@ -1220,9 +1199,9 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/traditional-education?u=76281980&t=62)** About 65% of all jobs require a post-secondary education.
 >
-> **[1:08](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/traditional-education?u=76281980&t=68)** However, in recent years, companies like Apple, Google, and IBM stopped requiring a college degree.
+> **[1:08](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/traditional-education?u=76281980&t=68)** However, in recent years, companies like Apple, [[Google]], and IBM stopped requiring a college degree.
 >
-> **[1:14](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/traditional-education?u=76281980&t=74)** A study of professionals working for more than five years in software development found two major benefits to a college education.
+> **[1:14](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/traditional-education?u=76281980&t=74)** A study of professionals working for more than five years in [[Software Development]] found two major benefits to a college education.
 >
 > **[1:22](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/traditional-education?u=76281980&t=82)** College students learned to solve problems and explore research into higher level concepts.
 >
@@ -1238,14 +1217,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Higher Education]] (1), [[Google]] (1), [[Software Development]] (1), business (1)
+> **Frameworks & Libraries:** [[Higher Education]] (1), [[Google]] (1), [[Software Development]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ibm (1)
 > **Speakers:** - higher (1)
 
-#### Coding bootcamps
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/coding-bootcamps?u=76281980)
+#### [Coding bootcamps](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/coding-bootcamps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1267,7 +1245,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/coding-bootcamps?u=76281980&t=51)** Why?
 >
-> **[0:52](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/coding-bootcamps?u=76281980&t=52)** Well, they teach skills not often taught in schools, like peer programming, test-driven development, and cutting-edge tools.
+> **[0:52](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/coding-bootcamps?u=76281980&t=52)** Well, they teach skills not often taught in schools, like peer programming, [[Test-Driven Development]], and cutting-edge tools.
 >
 > **[1:00](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/coding-bootcamps?u=76281980&t=60)** However, many bootcamps have pretty low acceptance rates compared to traditional schools.
 >
@@ -1297,14 +1275,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1), [[Test-Driven Development]] (1), web (1)
+> **Frameworks & Libraries:** [[Test-Driven Development]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - bootcamps (1)
 
-#### Online learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/online-learning?u=76281980)
+#### [Online learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/online-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1314,7 +1291,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/online-learning?u=76281980&t=11)** It's low cost, and you have access to an enormous amount of content.
 >
-> **[0:16](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/online-learning?u=76281980&t=16)** Now obviously Google and YouTube are great ways to find quick answers, but these can be full of good and bad as well as old and sometimes distracting answers.
+> **[0:16](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/online-learning?u=76281980&t=16)** Now obviously [[Google]] and YouTube are great ways to find quick answers, but these can be full of good and bad as well as old and sometimes distracting answers.
 >
 > **[0:27](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/online-learning?u=76281980&t=27)** An excellent tool is Stack Overflow.
 >
@@ -1326,13 +1303,13 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/online-learning?u=76281980&t=51)** Sometimes there is no substitute for working on a real project.
 >
-> **[0:56](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/online-learning?u=76281980&t=56)** Full code for many major projects is freely availible at sites like GitHub, which allow you to create your own version of an existing project.
+> **[0:56](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/online-learning?u=76281980&t=56)** Full code for many major projects is freely availible at sites like [[GitHub]], which allow you to create your own version of an existing project.
 >
 > **[1:05](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/online-learning?u=76281980&t=65)** Now that's called forking.
 >
 > **[1:07](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/online-learning?u=76281980&t=67)** And you can learn a lot just from reading how someone else solved the problem in a real project.
 >
-> **[1:14](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/online-learning?u=76281980&t=74)** Sites like CodePen and JS Bin let you look at sample code that can show you how to do things.
+> **[1:14](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/online-learning?u=76281980&t=74)** Sites like [[CodePen]] and JS Bin let you look at sample code that can show you how to do things.
 >
 > **[1:20](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/online-learning?u=76281980&t=80)** Now there is an abundance of learning availible to web developers, and if there's any job where continuing education is required, it's this job.
 >
@@ -1342,7 +1319,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), [[Google]] (1), [[GitHub]] (1), [[CodePen]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[GitHub]] (1), [[CodePen]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** find (1)
 > **Documentation:** stack overflow (1)
@@ -1355,8 +1332,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How do developers find jobs?
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/how-do-developers-find-jobs?u=76281980)
+#### [How do developers find jobs?](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/how-do-developers-find-jobs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1416,14 +1392,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1), teams (1)
 > **CLI Commands:** find (5), make (1)
 > **Definitions:** is a  (2)
 > **URLs:** [meetup.com](https://meetup.com) (1)
 > **Speakers:** - let (1)
 
-#### The hiring process
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/the-hiring-process?u=76281980)
+#### [The hiring process](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/the-hiring-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1435,7 +1409,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/the-hiring-process?u=76281980&t=10)** In a bigger company, that means posting the job online and waiting for applications to arrive.
 >
-> **[0:16](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/the-hiring-process?u=76281980&t=16)** Now, this step is normally managed by a recruiter within Human Resources.
+> **[0:16](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/the-hiring-process?u=76281980&t=16)** Now, this step is normally managed by a recruiter within [[Human Resources (HR)|Human Resources]].
 >
 > **[0:21](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/the-hiring-process?u=76281980&t=21)** A recruiter doesn't necessarily understand everything it takes to do the job.
 >
@@ -1443,7 +1417,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/the-hiring-process?u=76281980&t=31)** Now, it's important that your profile meets the requirements of the job but don't worry if you don't perfectly match all the skills.
 >
-> **[0:38](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/the-hiring-process?u=76281980&t=38)** For example, if you show that you have some experience with React, the employer might be willing to train you on a related technology, like Vue.js.
+> **[0:38](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/the-hiring-process?u=76281980&t=38)** For example, if you show that you have some experience with [[React.js|React]], the employer might be willing to train you on a related technology, like [[Vue.js]].
 >
 > **[0:48](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/the-hiring-process?u=76281980&t=48)** Once your application gets chosen, you might get a phone or in-person second interview.
 >
@@ -1477,15 +1451,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Human Resources (HR)|Human resources]] (1), [[React.js|React]] (1), [[Vue.js]] (1), application (1)
+> **Frameworks & Libraries:** [[Human Resources (HR)|Human resources]] (1), [[React.js|React]] (1), [[Vue.js]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Definitions:** is a  (2)
 > **File Paths:** vue.js (1)
 > **Analogies:** for example (1)
 > **Speakers:** - let (1)
 
-#### Compensation
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/compensation?u=76281980)
+#### [Compensation](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/compensation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1537,8 +1510,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - developers (1)
 
-#### Negotiating the best deal
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/negotiating-the-best-deal?u=76281980)
+#### [Negotiating the best deal](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/negotiating-the-best-deal?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1560,7 +1532,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/negotiating-the-best-deal?u=76281980&t=42)** How much the job pays is sometimes listed in their application.
 >
-> **[0:46](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/negotiating-the-best-deal?u=76281980&t=46)** Or you can look on pages like the LinkedIn salary calculator.
+> **[0:46](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/negotiating-the-best-deal?u=76281980&t=46)** Or you can look on pages like the [[LinkedIn]] salary calculator.
 >
 > **[0:50](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/negotiating-the-best-deal?u=76281980&t=50)** If their offer is below what you want to make, simply say something like this, "I think I'm worth X amount of money."
 >
@@ -1612,7 +1584,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (7), find (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** you should always (1)
@@ -1624,8 +1596,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1633,11 +1604,11 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/next-steps?u=76281980&t=4)** That was a lot of stuff to learn, and I know that it can sound overwhelming, so take it one step at a time.
 >
-> **[0:10](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/next-steps?u=76281980&t=10)** All developers start in the same place, HTML, then move on to CSS, and JavaScript.
+> **[0:10](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/next-steps?u=76281980&t=10)** All developers start in the same place, [[HTML]], then move on to CSS, and [[JavaScript]].
 >
 > **[0:17](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/next-steps?u=76281980&t=17)** Along the way, start building projects as soon as possible.
 >
-> **[0:21](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/next-steps?u=76281980&t=21)** On LinkedIn Learning, we've got some learning paths in our library that can help guide your learning, just search for Become a Web Developer.
+> **[0:21](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/next-steps?u=76281980&t=21)** On [[LinkedIn]] Learning, we've got some learning paths in our library that can help guide your learning, just search for Become a Web Developer.
 >
 > **[0:30](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/next-steps?u=76281980&t=30)** Now, if you get a feeling that you're not there yet, don't forget, we're on the same boat, because this is one career without a finish line.
 >
@@ -1657,7 +1628,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), css (2), [[JavaScript]] (2), [[LinkedIn]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[JavaScript]] (2), [[LinkedIn]] (1)
 > **Env Vars:** html (2), css (2)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - looks (1)

@@ -83,8 +83,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Trim the fat by going lean
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-foundations/trim-the-fat-by-going-lean?u=76281980)
+#### [Trim the fat by going lean](https://www.linkedin.com/learning/lean-foundations/trim-the-fat-by-going-lean?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -106,7 +105,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), management (1)
 > **Speakers:** - in (1)
 
 
@@ -114,8 +112,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is lean?
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-foundations/what-is-lean-10016083?u=76281980)
+#### [What is lean?](https://www.linkedin.com/learning/lean-foundations/what-is-lean-10016083?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -161,7 +158,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/lean-foundations/what-is-lean-10016083?u=76281980&t=147)** For processes to become smooth and efficient, machines must be properly maintained, incoming materials must be defect-free, and service staff must be exceptionally well-trained.
 >
-> **[2:39](https://www.linkedin.com/learning/lean-foundations/what-is-lean-10016083?u=76281980&t=159)** Products and processes must be designed properly to ensure quality output.
+> **[2:39](https://www.linkedin.com/learning/lean-foundations/what-is-lean-10016083?u=76281980&t=159)** [[Microsoft Products|Products]] and processes must be designed properly to ensure quality output.
 >
 > **[2:44](https://www.linkedin.com/learning/lean-foundations/what-is-lean-10016083?u=76281980&t=164)** I think you can see that reaching and maintaining high levels of quality is very closely connected to eliminating waste and reducing costs.
 >
@@ -181,13 +178,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **Definitions:** is a  (1), defined as (1)
 > **Env Vars:** atm (1)
 > **Speakers:** - everyone (1)
 
-#### Why use lean?
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-foundations/why-use-lean-10016076?u=76281980)
+#### [Why use lean?](https://www.linkedin.com/learning/lean-foundations/why-use-lean-10016076?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -199,7 +195,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/lean-foundations/why-use-lean-10016076?u=76281980&t=14)** When most people think of lean, they think of the Toyota tools and techniques that streamline processes and eliminate waste and improve quality at the source.
 >
-> **[0:24](https://www.linkedin.com/learning/lean-foundations/why-use-lean-10016076?u=76281980&t=24)** They think of the tactics of lean at the shop floor or office level, but Professor Miller is right.
+> **[0:24](https://www.linkedin.com/learning/lean-foundations/why-use-lean-10016076?u=76281980&t=24)** They think of the tactics of lean at the shop floor or [[Microsoft Office|office]] level, but Professor Miller is right.
 >
 > **[0:31](https://www.linkedin.com/learning/lean-foundations/why-use-lean-10016076?u=76281980&t=31)** An effective lean program must start at the very top of the company, as a corporate approach, a strategy or philosophy for the entire organization, a mindset for every employee.
 >
@@ -227,7 +223,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/lean-foundations/why-use-lean-10016076?u=76281980&t=110)** Integrating lean practices throughout their organization all around the world to keep up with, or better yet, to stay ahead of that level of competition.
 >
-> **[2:00](https://www.linkedin.com/learning/lean-foundations/why-use-lean-10016076?u=76281980&t=120)** Whether you manufacture products or provide services for your customers, you need a strong lean program, one that starts at the top.
+> **[2:00](https://www.linkedin.com/learning/lean-foundations/why-use-lean-10016076?u=76281980&t=120)** Whether you manufacture [[Microsoft Products|products]] or provide services for your customers, you need a strong lean program, one that starts at the top.
 >
 > **[2:10](https://www.linkedin.com/learning/lean-foundations/why-use-lean-10016076?u=76281980&t=130)** Second, you must consider that your customers become more demanding every day.
 >
@@ -249,13 +245,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1), [[Microsoft Office|Office]] (1), business (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
 
-#### The need for continuous improvement
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-foundations/the-need-for-continuous-improvement-10020025?u=76281980)
+#### [The need for continuous improvement](https://www.linkedin.com/learning/lean-foundations/the-need-for-continuous-improvement-10020025?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -309,7 +304,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/lean-foundations/the-need-for-continuous-improvement-10020025?u=76281980&t=171)** Reviewing standard business processes is always a good place to start.
 >
-> **[2:56](https://www.linkedin.com/learning/lean-foundations/the-need-for-continuous-improvement-10020025?u=76281980&t=176)** Most processes, whether designed to make products or to provide services, were designed quickly at the very beginning, and unfortunately, they were never updated.
+> **[2:56](https://www.linkedin.com/learning/lean-foundations/the-need-for-continuous-improvement-10020025?u=76281980&t=176)** Most processes, whether designed to make [[Microsoft Products|products]] or to provide services, were designed quickly at the very beginning, and unfortunately, they were never updated.
 >
 > **[3:06](https://www.linkedin.com/learning/lean-foundations/the-need-for-continuous-improvement-10020025?u=76281980&t=186)** I've seen factories making products with the same recipes and specifications that were created during the prototype stage.
 >
@@ -329,7 +324,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), business (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (2)
 > **URLs:** [lean.org](https://lean.org) (1)
@@ -340,8 +335,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Process mapping
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-foundations/process-mapping-10019051?u=76281980)
+#### [Process mapping](https://www.linkedin.com/learning/lean-foundations/process-mapping-10019051?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -419,14 +413,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1)
 > **Definitions:** is an  (2), is a  (2), is called (1)
 > **Analogies:** picture (3)
 > **CLI Commands:** find (1)
 > **Speakers:** - have (1)
 
-#### Value stream analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-foundations/value-stream-analysis-10015974?u=76281980)
+#### [Value stream analysis](https://www.linkedin.com/learning/lean-foundations/value-stream-analysis-10015974?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -438,7 +430,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/lean-foundations/value-stream-analysis-10015974?u=76281980&t=11)** Now that's a terrific quote.
 >
-> **[0:13](https://www.linkedin.com/learning/lean-foundations/value-stream-analysis-10015974?u=76281980&t=13)** It comes from Bruce Hamilton, who's the president of a consulting company that specializes in lean six Sigma.
+> **[0:13](https://www.linkedin.com/learning/lean-foundations/value-stream-analysis-10015974?u=76281980&t=13)** It comes from Bruce Hamilton, who's the president of a consulting company that specializes in lean [[Six Sigma]].
 >
 > **[0:20](https://www.linkedin.com/learning/lean-foundations/value-stream-analysis-10015974?u=76281980&t=20)** For sure this is a guy who knows something about process improvement.
 >
@@ -476,7 +468,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/lean-foundations/value-stream-analysis-10015974?u=76281980&t=122)** Engineering tolerances for example should meet your customer's expectations but not exceed them.
 >
-> **[2:09](https://www.linkedin.com/learning/lean-foundations/value-stream-analysis-10015974?u=76281980&t=129)** The waste of overproduction means that you're making too many products or making products before they're needed to meet demand.
+> **[2:09](https://www.linkedin.com/learning/lean-foundations/value-stream-analysis-10015974?u=76281980&t=129)** The waste of overproduction means that you're making too many [[Microsoft Products|products]] or making products before they're needed to meet demand.
 >
 > **[2:17](https://www.linkedin.com/learning/lean-foundations/value-stream-analysis-10015974?u=76281980&t=137)** This is often caused by producing in large batches or by having products that take a long time to complete.
 >
@@ -536,7 +528,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), [[Microsoft Products|Products]] (4), [[Six Sigma]] (1), [[Engineering]] (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Six Sigma]] (1)
 > **Analogies:** for example (6)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (3)
@@ -544,8 +536,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - continuous (1)
 
-#### Process reengineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-foundations/process-reengineering-10012953?u=76281980)
+#### [Process reengineering](https://www.linkedin.com/learning/lean-foundations/process-reengineering-10012953?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -641,15 +632,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), business (3), [[Search]] (1)
 > **Analogies:** for example (4)
 > **CLI Commands:** find (1)
 > **Cross-References:** coming up (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - process (1)
 
-#### The principle of ideality
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-foundations/the-principle-of-ideality-10015975?u=76281980)
+#### [The principle of ideality](https://www.linkedin.com/learning/lean-foundations/the-principle-of-ideality-10015975?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -725,17 +714,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), product (1)
 > **Analogies:** for example (1), picture (1)
 > **Definitions:** is called (1)
 > **Speakers:** - you (1)
 
-#### The elegant solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-foundations/the-elegant-solution-10012955?u=76281980)
+#### [The elegant solution](https://www.linkedin.com/learning/lean-foundations/the-elegant-solution-10012955?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lean-foundations/the-elegant-solution-10012955?u=76281980&t=0)** - "Customers don't want products and services, they want solutions to problems.
+> **[0:00](https://www.linkedin.com/learning/lean-foundations/the-elegant-solution-10012955?u=76281980&t=0)** - "Customers don't want [[Microsoft Products|products]] and services, they want solutions to problems.
 >
 > **[0:06](https://www.linkedin.com/learning/lean-foundations/the-elegant-solution-10012955?u=76281980&t=6)** And when it comes to solutions, simple is better."
 >
@@ -807,15 +794,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), functional (1), teams (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3)
 > **Definitions:** in other words (1), is an  (1), is called (1)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** itunes (1)
 > **Env Vars:** bmw (1)
 > **Analogies:** for example (1)
 
-#### The cost of complexity
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-foundations/the-cost-of-complexity-10013972?u=76281980)
+#### [The cost of complexity](https://www.linkedin.com/learning/lean-foundations/the-cost-of-complexity-10013972?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -827,7 +813,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/lean-foundations/the-cost-of-complexity-10013972?u=76281980&t=18)** For one thing, complexity drives costs within the organization.
 >
-> **[0:23](https://www.linkedin.com/learning/lean-foundations/the-cost-of-complexity-10013972?u=76281980&t=23)** For example, the Pareto principle indicates that 20% of your products generate 80% of your revenues.
+> **[0:23](https://www.linkedin.com/learning/lean-foundations/the-cost-of-complexity-10013972?u=76281980&t=23)** For example, the Pareto principle indicates that 20% of your [[Microsoft Products|products]] generate 80% of your revenues.
 >
 > **[0:30](https://www.linkedin.com/learning/lean-foundations/the-cost-of-complexity-10013972?u=76281980&t=30)** So, I complex product portfolio not only drives up product costs, but increases costs for such things as inventory, raw materials and packaging, and also drives the complexity and costs found in your customer base and your markets and the organizational structure needed to support them.
 >
@@ -839,7 +825,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/lean-foundations/the-cost-of-complexity-10013972?u=76281980&t=65)** I turned to Michael L. George for some advice here.
 >
-> **[1:09](https://www.linkedin.com/learning/lean-foundations/the-cost-of-complexity-10013972?u=76281980&t=69)** He's a wellness consultant on Lean Six Sigma who's written several books on the subject.
+> **[1:09](https://www.linkedin.com/learning/lean-foundations/the-cost-of-complexity-10013972?u=76281980&t=69)** He's a [[Wellness]] consultant on Lean [[Six Sigma]] who's written several books on the subject.
 >
 > **[1:15](https://www.linkedin.com/learning/lean-foundations/the-cost-of-complexity-10013972?u=76281980&t=75)** A few years ago, Mr. George wrote a book on "Conquering Complexity in Your Business," that caught my attention the minute it was released.
 >
@@ -895,19 +881,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), [[Microsoft Products|Products]] (3), business (3), [[Wellness]] (1), [[Six Sigma]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Wellness]] (1), [[Six Sigma]] (1)
 > **Analogies:** for example (2)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### The theory of constraints
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-foundations/the-theory-of-constraints-10016077?u=76281980)
+#### [The theory of constraints](https://www.linkedin.com/learning/lean-foundations/the-theory-of-constraints-10016077?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/lean-foundations/the-theory-of-constraints-10016077?u=76281980&t=1)** - "For most business organizations, "the goal is to maximize throughput, "thereby maximizing cash flow."
 >
-> **[0:08](https://www.linkedin.com/learning/lean-foundations/the-theory-of-constraints-10016077?u=76281980&t=8)** This is a quote from Eli Goldratt, and it's true in delivering physical products to your customer, as well as providing services.
+> **[0:08](https://www.linkedin.com/learning/lean-foundations/the-theory-of-constraints-10016077?u=76281980&t=8)** This is a quote from Eli Goldratt, and it's true in delivering physical [[Microsoft Products|products]] to your customer, as well as providing services.
 >
 > **[0:16](https://www.linkedin.com/learning/lean-foundations/the-theory-of-constraints-10016077?u=76281980&t=16)** Every aspect of how businesses do business comes down to this one objective, maximize throughput.
 >
@@ -977,7 +962,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), business (2), management (2), product (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2)
 > **Tools:** notion (1)
@@ -988,14 +973,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Demand-driven business
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-foundations/demand-driven-business-10017070?u=76281980)
+#### [Demand-driven business](https://www.linkedin.com/learning/lean-foundations/demand-driven-business-10017070?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/lean-foundations/demand-driven-business-10017070?u=76281980&t=1)** - Every aspect of your business should be focused on your customer.
 >
-> **[0:05](https://www.linkedin.com/learning/lean-foundations/demand-driven-business-10017070?u=76281980&t=5)** Speaking about Apple, Steve Jobs once said, "Our belief was that if we kept putting great products "in front of our customers, they would continue "to open their wallets."
+> **[0:05](https://www.linkedin.com/learning/lean-foundations/demand-driven-business-10017070?u=76281980&t=5)** Speaking about Apple, Steve Jobs once said, "Our belief was that if we kept putting great [[Microsoft Products|products]] "in front of our customers, they would continue "to open their wallets."
 >
 > **[0:16](https://www.linkedin.com/learning/lean-foundations/demand-driven-business-10017070?u=76281980&t=16)** There are two really important concepts reflected in his words.
 >
@@ -1019,7 +1003,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/lean-foundations/demand-driven-business-10017070?u=76281980&t=81)** No matter how innovative your product is, it has no value unless it is properly delivered to your end customer.
 >
-> **[1:29](https://www.linkedin.com/learning/lean-foundations/demand-driven-business-10017070?u=76281980&t=89)** That's what supply chain management is all about.
+> **[1:29](https://www.linkedin.com/learning/lean-foundations/demand-driven-business-10017070?u=76281980&t=89)** That's what [[Supply Chain Management]] is all about.
 >
 > **[1:32](https://www.linkedin.com/learning/lean-foundations/demand-driven-business-10017070?u=76281980&t=92)** Moving materials and products and information from suppliers to the producer of goods, through the distributors, and finally to the end customer.
 >
@@ -1051,13 +1035,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (8), business (4), product (2), [[Supply Chain Management]] (1), management (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (8), [[Supply Chain Management]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - every (1)
 
-#### Demand-driven materials
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-foundations/demand-driven-materials-10016084?u=76281980)
+#### [Demand-driven materials](https://www.linkedin.com/learning/lean-foundations/demand-driven-materials-10016084?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1097,7 +1080,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/lean-foundations/demand-driven-materials-10016084?u=76281980&t=121)** The second step is to protect those positions with specific types and amounts of buffer inventory.
 >
-> **[2:07](https://www.linkedin.com/learning/lean-foundations/demand-driven-materials-10016084?u=76281980&t=127)** And you certainly will want to make inventory adjustments real-time as business conditions change.
+> **[2:07](https://www.linkedin.com/learning/lean-foundations/demand-driven-materials-10016084?u=76281980&t=127)** And you certainly will want to make inventory adjustments [[Real-Time]] as business conditions change.
 >
 > **[2:13](https://www.linkedin.com/learning/lean-foundations/demand-driven-materials-10016084?u=76281980&t=133)** Again, your buffer inventories might be initially established by the anticipated demand that drives your MRP system.
 >
@@ -1117,15 +1100,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), product (1), [[Real-Time]] (1), business (1)
+> **Frameworks & Libraries:** [[Real-Time]] (1)
 > **Env Vars:** mrp (5)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
 > **Warnings:** note that (1)
 > **Speakers:** - albert (1)
 
-#### Lean inventory
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-foundations/lean-inventory-10018070?u=76281980)
+#### [Lean inventory](https://www.linkedin.com/learning/lean-foundations/lean-inventory-10018070?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1151,7 +1133,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/lean-foundations/lean-inventory-10018070?u=76281980&t=44)** Today, you don't hold inventory to meet customer orders.
 >
-> **[0:47](https://www.linkedin.com/learning/lean-foundations/lean-inventory-10018070?u=76281980&t=47)** You make products as late as possible, but still have them available when your customer wants them.
+> **[0:47](https://www.linkedin.com/learning/lean-foundations/lean-inventory-10018070?u=76281980&t=47)** You make [[Microsoft Products|products]] as late as possible, but still have them available when your customer wants them.
 >
 > **[0:54](https://www.linkedin.com/learning/lean-foundations/lean-inventory-10018070?u=76281980&t=54)** Lean inventory management means you meet demand but at the lowest cost possible.
 >
@@ -1219,15 +1201,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), business (2), product (2), management (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** for example (2), picture (1)
 > **Best Practices:** don't forget (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - taiichi (1)
 
-#### The pull approach
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-foundations/the-pull-approach-10018067?u=76281980)
+#### [The pull approach](https://www.linkedin.com/learning/lean-foundations/the-pull-approach-10018067?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1257,7 +1238,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/lean-foundations/the-pull-approach-10018067?u=76281980&t=88)** One of the big advantages of a Kanban system is that they do not require computers.
 >
-> **[1:34](https://www.linkedin.com/learning/lean-foundations/the-pull-approach-10018067?u=76281980&t=94)** This is a very simple, manual, real-time procedure.
+> **[1:34](https://www.linkedin.com/learning/lean-foundations/the-pull-approach-10018067?u=76281980&t=94)** This is a very simple, manual, [[Real-Time]] procedure.
 >
 > **[1:38](https://www.linkedin.com/learning/lean-foundations/the-pull-approach-10018067?u=76281980&t=98)** However, many companies use Kanban in conjunction with their computerized materials requirement planning, or MRP systems.
 >
@@ -1265,15 +1246,15 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/lean-foundations/the-pull-approach-10018067?u=76281980&t=116)** The Kanban system controls the actual flow of those materials through the system.
 >
-> **[2:01](https://www.linkedin.com/learning/lean-foundations/the-pull-approach-10018067?u=76281980&t=121)** And I want to emphasize the word system here.
+> **[2:01](https://www.linkedin.com/learning/lean-foundations/the-pull-approach-10018067?u=76281980&t=121)** And I want to emphasize the [[Microsoft Word|word]] system here.
 >
-> **[2:03](https://www.linkedin.com/learning/lean-foundations/the-pull-approach-10018067?u=76281980&t=123)** So far, we've been talking about pulling material through a factory, but pull systems and Kanban methods are also effectively applied to the rest of the supply chain, as customer orders pull inventory from suppliers through the factory, to your distributors and retailers and the final customer.
+> **[2:03](https://www.linkedin.com/learning/lean-foundations/the-pull-approach-10018067?u=76281980&t=123)** So far, we've been talking about pulling material through a factory, but pull systems and Kanban methods are also effectively applied to the [[Representational State Transfer (REST)|rest]] of the supply chain, as customer orders pull inventory from suppliers through the factory, to your distributors and retailers and the final customer.
 >
 > **[2:23](https://www.linkedin.com/learning/lean-foundations/the-pull-approach-10018067?u=76281980&t=143)** All of this activity supports a just-in-time philosophy for all operations.
 >
 > **[2:28](https://www.linkedin.com/learning/lean-foundations/the-pull-approach-10018067?u=76281980&t=148)** The purchasing department buys materials and supplies only as they are needed.
 >
-> **[2:33](https://www.linkedin.com/learning/lean-foundations/the-pull-approach-10018067?u=76281980&t=153)** The logistics department sends products into the distribution network only as they are needed.
+> **[2:33](https://www.linkedin.com/learning/lean-foundations/the-pull-approach-10018067?u=76281980&t=153)** The logistics department sends [[Microsoft Products|products]] into the distribution network only as they are needed.
 >
 > **[2:39](https://www.linkedin.com/learning/lean-foundations/the-pull-approach-10018067?u=76281980&t=159)** And one more time, need is determined by customer orders.
 >
@@ -1293,14 +1274,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1), next (1), [[Real-Time]] (1), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (1), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** mrp (2)
 > **Analogies:** for example (2)
 > **Speakers:** - technology (1)
 
-#### Lean workstations
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-foundations/lean-workstations-10018066?u=76281980)
+#### [Lean workstations](https://www.linkedin.com/learning/lean-foundations/lean-workstations-10018066?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1384,19 +1364,18 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/lean-foundations/lean-workstations-10018066?u=76281980&t=217)** But where do you start?
 >
-> **[3:39](https://www.linkedin.com/learning/lean-foundations/lean-workstations-10018066?u=76281980&t=219)** Maybe it's a key workstation in your factory or your office cubicle, or maybe it's simply that junk drawer in your kitchen or garage.
+> **[3:39](https://www.linkedin.com/learning/lean-foundations/lean-workstations-10018066?u=76281980&t=219)** Maybe it's a key workstation in your factory or your [[Microsoft Office|office]] cubicle, or maybe it's simply that junk drawer in your kitchen or garage.
 >
 > **[3:47](https://www.linkedin.com/learning/lean-foundations/lean-workstations-10018066?u=76281980&t=227)** Start one now, then move to the next.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Total productive maintenance
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-foundations/total-productive-maintenance-10018064?u=76281980)
+#### [Total productive maintenance](https://www.linkedin.com/learning/lean-foundations/total-productive-maintenance-10018064?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1440,7 +1419,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/lean-foundations/total-productive-maintenance-10018064?u=76281980&t=131)** Short setup times help factories to avoid long production runs.
 >
-> **[2:16](https://www.linkedin.com/learning/lean-foundations/total-productive-maintenance-10018064?u=76281980&t=136)** By making products in smaller batches, less inventory is held in the factory, so you are making products just in time, in response to your customer orders.
+> **[2:16](https://www.linkedin.com/learning/lean-foundations/total-productive-maintenance-10018064?u=76281980&t=136)** By making [[Microsoft Products|products]] in smaller batches, less inventory is held in the factory, so you are making products just in time, in response to your customer orders.
 >
 > **[2:26](https://www.linkedin.com/learning/lean-foundations/total-productive-maintenance-10018064?u=76281980&t=146)** By eliminating unplanned downtime and reducing setup times, a total productive maintenance program maximizes overall equipment effectiveness.
 >
@@ -1484,15 +1463,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), [[Microsoft Products|Products]] (2), semiconductor (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **Env Vars:** oee (6), tpm (4), smed (1)
 > **Prerequisites:** setup (4)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** means that (1), is a  (1)
 > **Best Practices:** the key is (1)
 
-#### Lean quality
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-foundations/lean-quality-10019055?u=76281980)
+#### [Lean quality](https://www.linkedin.com/learning/lean-foundations/lean-quality-10019055?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1560,7 +1538,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (2), [[Engineering]] (1)
 > **Definitions:** is a  (2), is called (1), means that (1), is an  (1)
 > **CLI Commands:** make (2)
 > **Documentation:** specification (1)
@@ -1571,8 +1548,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Lean delivery
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-foundations/lean-delivery-10017068?u=76281980)
+#### [Lean delivery](https://www.linkedin.com/learning/lean-foundations/lean-delivery-10017068?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1620,7 +1596,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/lean-foundations/lean-delivery-10017068?u=76281980&t=147)** In this situation, lean delivery means a just-in-time execution throughout the supply chain in order to meet your product availability goals.
 >
-> **[2:37](https://www.linkedin.com/learning/lean-foundations/lean-delivery-10017068?u=76281980&t=157)** Today, product availability is greatly enhanced by the internet and digital products.
+> **[2:37](https://www.linkedin.com/learning/lean-foundations/lean-delivery-10017068?u=76281980&t=157)** Today, product availability is greatly enhanced by the internet and digital [[Microsoft Products|products]].
 >
 > **[2:42](https://www.linkedin.com/learning/lean-foundations/lean-delivery-10017068?u=76281980&t=162)** Buying music, renting movies, and in some case, buying books no longer involves a physical product.
 >
@@ -1628,7 +1604,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/lean-foundations/lean-delivery-10017068?u=76281980&t=174)** Lean delivery in these products is immediate and very inexpensive.
 >
-> **[2:59](https://www.linkedin.com/learning/lean-foundations/lean-delivery-10017068?u=76281980&t=179)** Sometimes lean delivery means outsourcing to an efficient supplier just as Amazon uses UPS and the U.S. Post Office to deliver products to its retail customers.
+> **[2:59](https://www.linkedin.com/learning/lean-foundations/lean-delivery-10017068?u=76281980&t=179)** Sometimes lean delivery means outsourcing to an efficient supplier just as Amazon uses UPS and the U.S. Post [[Microsoft Office|Office]] to deliver products to its retail customers.
 >
 > **[3:09](https://www.linkedin.com/learning/lean-foundations/lean-delivery-10017068?u=76281980&t=189)** Enabled by internet technology, Amazon's logistics system is a terrific example of lean delivery in action.
 >
@@ -1640,7 +1616,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (8), business (6), [[Microsoft Products|Products]] (4), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Microsoft Office|Office]] (1)
 > **Env Vars:** b2b (2), b2c (2), ups (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (2)
@@ -1649,8 +1625,7 @@ created: 2026-05-02
 > **Best Practices:** you should never (1)
 > **Speakers:** - b (1)
 
-#### Lean transportation
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-foundations/lean-transportation-10013976?u=76281980)
+#### [Lean transportation](https://www.linkedin.com/learning/lean-foundations/lean-transportation-10013976?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1670,7 +1645,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/lean-foundations/lean-transportation-10013976?u=76281980&t=43)** One practice in lean transportation is to always use full truckloads when moving product and materials through the supply chain.
 >
-> **[0:51](https://www.linkedin.com/learning/lean-foundations/lean-transportation-10013976?u=76281980&t=51)** This could be raw materials and components shipped to the factory or final products shipped from distributors to retail stores.
+> **[0:51](https://www.linkedin.com/learning/lean-foundations/lean-transportation-10013976?u=76281980&t=51)** This could be raw materials and components shipped to the factory or final [[Microsoft Products|products]] shipped from distributors to retail stores.
 >
 > **[0:58](https://www.linkedin.com/learning/lean-foundations/lean-transportation-10013976?u=76281980&t=58)** The cost of this transportation is the same whether the truck is full or half-empty, so it makes financial sense to always move goods in full truckloads.
 >
@@ -1678,9 +1653,9 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/lean-foundations/lean-transportation-10013976?u=76281980&t=73)** Orders and anticipated orders flow smoothly through the supply chain, but many products don't enjoy that smooth and steady flow.
 >
-> **[1:21](https://www.linkedin.com/learning/lean-foundations/lean-transportation-10013976?u=76281980&t=81)** For example, demand for consumer electronics and fashion clothing changes quite rapidly.
+> **[1:21](https://www.linkedin.com/learning/lean-foundations/lean-transportation-10013976?u=76281980&t=81)** For example, demand for consumer [[Electronics]] and fashion clothing changes quite rapidly.
 >
-> **[1:27](https://www.linkedin.com/learning/lean-foundations/lean-transportation-10013976?u=76281980&t=87)** This business requires a very fast and agile delivery system.
+> **[1:27](https://www.linkedin.com/learning/lean-foundations/lean-transportation-10013976?u=76281980&t=87)** This business requires a very fast and [[Agile Development|agile]] delivery system.
 >
 > **[1:32](https://www.linkedin.com/learning/lean-foundations/lean-transportation-10013976?u=76281980&t=92)** An agile supply chain focuses on fast response to changes in customer demand.
 >
@@ -1718,14 +1693,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), product (5), [[Agile Development|Agile]] (5), [[Electronics]] (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), [[Agile Development|Agile]] (5), [[Electronics]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **Definitions:** is called (1)
 > **Speakers:** - lean (1)
 
-#### Lean logistics
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-foundations/lean-logistics-10020023?u=76281980)
+#### [Lean logistics](https://www.linkedin.com/learning/lean-foundations/lean-logistics-10020023?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1737,7 +1711,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/lean-foundations/lean-logistics-10020023?u=76281980&t=15)** The most expensive type of inventory is finished goods, the final product you sell to your customers.
 >
-> **[0:21](https://www.linkedin.com/learning/lean-foundations/lean-logistics-10020023?u=76281980&t=21)** So it follows that products that are less than finished would cost less.
+> **[0:21](https://www.linkedin.com/learning/lean-foundations/lean-logistics-10020023?u=76281980&t=21)** So it follows that [[Microsoft Products|products]] that are less than finished would cost less.
 >
 > **[0:26](https://www.linkedin.com/learning/lean-foundations/lean-logistics-10020023?u=76281980&t=26)** Raw materials cost less than components, which cost less than sub-assemblies, which cost less than the final product shipped from the factory, which cost less than the final product sold to the customer.
 >
@@ -1807,13 +1781,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (9), business (3), [[Microsoft Products|Products]] (2), application (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **Analogies:** picture (1), for example (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - when (1)
 
-#### Lean purchasing
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-foundations/lean-purchasing-10017067?u=76281980)
+#### [Lean purchasing](https://www.linkedin.com/learning/lean-foundations/lean-purchasing-10017067?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1875,7 +1848,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
@@ -1886,8 +1858,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The lean culture
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-foundations/the-lean-culture-10019050?u=76281980)
+#### [The lean culture](https://www.linkedin.com/learning/lean-foundations/the-lean-culture-10019050?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1943,7 +1914,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/lean-foundations/the-lean-culture-10019050?u=76281980&t=167)** It's also important to recognize that top-down management can look very different from company to company.
 >
-> **[2:53](https://www.linkedin.com/learning/lean-foundations/the-lean-culture-10019050?u=76281980&t=173)** Let me give you two examples, both involving integration of Six Sigma and to a corporate culture.
+> **[2:53](https://www.linkedin.com/learning/lean-foundations/the-lean-culture-10019050?u=76281980&t=173)** Let me give you two examples, both involving integration of [[Six Sigma]] and to a corporate culture.
 >
 > **[2:59](https://www.linkedin.com/learning/lean-foundations/the-lean-culture-10019050?u=76281980&t=179)** When General Electric moved to Six Sigma methods, CEO, Jack Welch, basically, told all employees to get on the Six Sigma bandwagon or get out of my company.
 >
@@ -1965,15 +1936,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Six Sigma]] (4), management (3), business (2), career (1), next (1)
+> **Frameworks & Libraries:** [[Six Sigma]] (4)
 > **Analogies:** for example (3)
 > **Env Vars:** ceo (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - george (1)
 
-#### The lean company
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-foundations/the-lean-company-10013974?u=76281980)
+#### [The lean company](https://www.linkedin.com/learning/lean-foundations/the-lean-company-10013974?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1995,7 +1965,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/lean-foundations/the-lean-company-10013974?u=76281980&t=43)** Often called the fast fashion industry.
 >
-> **[0:46](https://www.linkedin.com/learning/lean-foundations/the-lean-company-10013974?u=76281980&t=46)** The company makes and delivers and sells its products directly to the consumer.
+> **[0:46](https://www.linkedin.com/learning/lean-foundations/the-lean-company-10013974?u=76281980&t=46)** The company makes and delivers and sells its [[Microsoft Products|products]] directly to the consumer.
 >
 > **[0:52](https://www.linkedin.com/learning/lean-foundations/the-lean-company-10013974?u=76281980&t=52)** In this business, products become obsolete very quickly.
 >
@@ -2069,15 +2039,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), [[Microsoft Products|Products]] (2), product (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (3)
 > **Env Vars:** ceo (1), nascar (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
 
-#### Lean employees
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-foundations/lean-employees-10017066?u=76281980)
+#### [Lean employees](https://www.linkedin.com/learning/lean-foundations/lean-employees-10017066?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2151,14 +2120,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), functional (2), business (1)
 > **CLI Commands:** find (3)
 > **Analogies:** for example (2)
 > **Env Vars:** ups (1)
 > **Speakers:** - lean (1)
 
-#### Lean thinking for supply chains
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-foundations/lean-thinking-for-supply-chains-10012957?u=76281980)
+#### [Lean thinking for supply chains](https://www.linkedin.com/learning/lean-foundations/lean-thinking-for-supply-chains-10012957?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2176,7 +2143,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/lean-foundations/lean-thinking-for-supply-chains-10012957?u=76281980&t=33)** And that's an important distinction because many companies invent first and think about efficiency later when the product is about to go into production.
 >
-> **[0:43](https://www.linkedin.com/learning/lean-foundations/lean-thinking-for-supply-chains-10012957?u=76281980&t=43)** Amazon's Airborne Fulfillment Center shows us that lean principles can be built into the new products from the very start.
+> **[0:43](https://www.linkedin.com/learning/lean-foundations/lean-thinking-for-supply-chains-10012957?u=76281980&t=43)** Amazon's Airborne Fulfillment Center shows us that lean principles can be built into the new [[Microsoft Products|products]] from the very start.
 >
 > **[0:51](https://www.linkedin.com/learning/lean-foundations/lean-thinking-for-supply-chains-10012957?u=76281980&t=51)** The idea is pretty straightforward.
 >
@@ -2232,7 +2199,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), product (2), business (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** remember to (1)
@@ -2243,8 +2210,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Go leaner
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-foundations/go-leaner?u=76281980)
+#### [Go leaner](https://www.linkedin.com/learning/lean-foundations/go-leaner?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2272,9 +2238,9 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/lean-foundations/go-leaner?u=76281980&t=63)** I also recommend anything published by Matthew E. May, a consultant to the Toyota University, and an expert on Lean applications and innovation strategy.
 >
-> **[1:13](https://www.linkedin.com/learning/lean-foundations/go-leaner?u=76281980&t=73)** You can find his profile on LinkedIn.
+> **[1:13](https://www.linkedin.com/learning/lean-foundations/go-leaner?u=76281980&t=73)** You can find his profile on [[LinkedIn]].
 >
-> **[1:16](https://www.linkedin.com/learning/lean-foundations/go-leaner?u=76281980&t=76)** And last, I have another course that discusses how Lean and Six Sigma principles can work together to create efficient processes throughout your organization.
+> **[1:16](https://www.linkedin.com/learning/lean-foundations/go-leaner?u=76281980&t=76)** And last, I have another course that discusses how Lean and [[Six Sigma]] principles can work together to create efficient processes throughout your organization.
 >
 > **[1:26](https://www.linkedin.com/learning/lean-foundations/go-leaner?u=76281980&t=86)** If interested, take a look at [[Lean [[Six Sigma Foundations]]]].
 >
@@ -2286,7 +2252,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Six Sigma]] (2), business (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Six Sigma]] (2)
 > **CLI Commands:** find (2), make (1)
 > **URLs:** [lean.org](https://lean.org) (1)
 > **Definitions:** is a  (1)

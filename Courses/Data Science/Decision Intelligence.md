@@ -86,8 +86,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The steering wheel for your life
-> [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence/the-steering-wheel-for-your-life?u=76281980)
+#### [The steering wheel for your life](https://www.linkedin.com/learning/decision-intelligence/the-steering-wheel-for-your-life?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -114,8 +113,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - the (1)
 
-#### A map of decision-making
-> [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence/a-map-of-decision-making?u=76281980)
+#### [A map of decision-making](https://www.linkedin.com/learning/decision-intelligence/a-map-of-decision-making?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -157,7 +155,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **Definitions:** in other words (1)
 > **Speakers:** - what (1)
 
@@ -166,14 +163,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The most important lesson in decision-making
-> [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence/the-most-important-lesson-in-decision-making?u=76281980)
+#### [The most important lesson in decision-making](https://www.linkedin.com/learning/decision-intelligence/the-most-important-lesson-in-decision-making?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/decision-intelligence/the-most-important-lesson-in-decision-making?u=76281980&t=0)** - I am so happy that you're watching this video, because if you watch just this one and none of the others, frankly, that's okay; this is the most important one.
 >
-> **[0:10](https://www.linkedin.com/learning/decision-intelligence/the-most-important-lesson-in-decision-making?u=76281980&t=10)** We're going to cover the most important concept in decision analysis, the difference between a decision and an outcome and why outcome bias is such an important thing to watch out for, why a good decision maker avoids outcome bias, and why outcome bias, unfortunately, is one of society's favorite forms of mass irrationality.
+> **[0:10](https://www.linkedin.com/learning/decision-intelligence/the-most-important-lesson-in-decision-making?u=76281980&t=10)** We're going to cover the most important concept in decision analysis, the difference between a decision and an outcome and why outcome bias is such an important thing to watch out for, why a good decision maker avoids outcome bias, and why outcome bias, unfortunately, is one of society's favorite [[Forms]] of mass irrationality.
 >
 > **[0:33](https://www.linkedin.com/learning/decision-intelligence/the-most-important-lesson-in-decision-making?u=76281980&t=33)** So first, what is a decision?
 >
@@ -277,15 +273,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (11), next (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **Definitions:** is a  (3), is an  (2)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (2)
 > **Warnings:** watch out (1)
 > **Speakers:** - i (1)
 
-#### The dangers of outcome bias
-> [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence/the-dangers-of-outcome-bias?u=76281980)
+#### [The dangers of outcome bias](https://www.linkedin.com/learning/decision-intelligence/the-dangers-of-outcome-bias?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -351,14 +346,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - imagine (1)
 
-#### Why are some decisions so difficult?
-> [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence/why-are-some-decisions-so-difficult?u=76281980)
+#### [Why are some decisions so difficult?](https://www.linkedin.com/learning/decision-intelligence/why-are-some-decisions-so-difficult?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -438,9 +431,9 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/decision-intelligence/why-are-some-decisions-so-difficult?u=76281980&t=179)** Do you have full and reliable information instantly available to you?
 >
-> **[3:04](https://www.linkedin.com/learning/decision-intelligence/why-are-some-decisions-so-difficult?u=76281980&t=184)** If yes, that is an easier decision than where you are dealing with partial information and probability.
+> **[3:04](https://www.linkedin.com/learning/decision-intelligence/why-are-some-decisions-so-difficult?u=76281980&t=184)** If yes, that is an easier decision than where you are dealing with partial information and [[Probability]].
 >
-> **[3:10](https://www.linkedin.com/learning/decision-intelligence/why-are-some-decisions-so-difficult?u=76281980&t=190)** As we'll see in the Upgrades chapter when we talk about statistics, having less information makes things worse, not better.
+> **[3:10](https://www.linkedin.com/learning/decision-intelligence/why-are-some-decisions-so-difficult?u=76281980&t=190)** As we'll see in the Upgrades chapter when we talk about [[Statistics]], having less information makes things worse, not better.
 >
 > **[3:19](https://www.linkedin.com/learning/decision-intelligence/why-are-some-decisions-so-difficult?u=76281980&t=199)** no risk and no ambiguity make a decision easier.
 >
@@ -496,8 +489,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - what (1)
 
-#### How to set goals
-> [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence/how-to-set-goals?u=76281980)
+#### [How to set goals](https://www.linkedin.com/learning/decision-intelligence/how-to-set-goals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -635,8 +627,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - so (1)
 
-#### Intuition and the value of clairvoyance
-> [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence/intuition-and-the-value-of-clairvoyance?u=76281980)
+#### [Intuition and the value of clairvoyance](https://www.linkedin.com/learning/decision-intelligence/intuition-and-the-value-of-clairvoyance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -702,7 +693,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/decision-intelligence/intuition-and-the-value-of-clairvoyance?u=76281980&t=181)** So practice where the stakes are low.
 >
-> **[3:03](https://www.linkedin.com/learning/decision-intelligence/intuition-and-the-value-of-clairvoyance?u=76281980&t=183)** That's why you'll see some students of decision-making approaching some fairly low stakes things quite pedantically, again, like choosing between salads at lunch.
+> **[3:03](https://www.linkedin.com/learning/decision-intelligence/intuition-and-the-value-of-clairvoyance?u=76281980&t=183)** That's why you'll see some students of [[Decision-Making]] approaching some fairly low stakes things quite pedantically, again, like choosing between salads at lunch.
 >
 > **[3:12](https://www.linkedin.com/learning/decision-intelligence/intuition-and-the-value-of-clairvoyance?u=76281980&t=192)** Intuition also makes more sense when you have the following factors.
 >
@@ -760,14 +751,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1)
 > **CLI Commands:** find (4), make (3)
 > **Analogies:** imagine (2), kind of like (1), for example (1)
 > **Definitions:** is a  (3)
 > **Speakers:** - let (1)
 
-#### The hackable human
-> [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence/the-hackable-human?u=76281980)
+#### [The hackable human](https://www.linkedin.com/learning/decision-intelligence/the-hackable-human?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -777,7 +767,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/decision-intelligence/the-hackable-human?u=76281980&t=6)** This video is about how you are a hackable human.
 >
-> **[0:11](https://www.linkedin.com/learning/decision-intelligence/the-hackable-human?u=76281980&t=11)** Now, about 100 years ago, this would've been a mind-blowing idea because back then we put humans on a pedestal, and we believed that if you have a problem with your decision-making, it's 'cause you just haven't put enough oomph enough or willpower into it.
+> **[0:11](https://www.linkedin.com/learning/decision-intelligence/the-hackable-human?u=76281980&t=11)** Now, about 100 years ago, this would've been a mind-blowing idea because back then we put humans on a pedestal, and we believed that if you have a problem with your [[Decision-Making]], it's 'cause you just haven't put enough oomph enough or willpower into it.
 >
 > **[0:28](https://www.linkedin.com/learning/decision-intelligence/the-hackable-human?u=76281980&t=28)** People believe that you could willpower your way through anything.
 >
@@ -865,14 +855,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Decision-Making]] (7), business (4)
+> **Frameworks & Libraries:** [[Decision-Making]] (7)
 > **CLI Commands:** make (5), find (1)
 > **Definitions:** is a  (1), is called (1), in other words (1)
 > **Analogies:** for example (3)
 > **Speakers:** - this (1)
 
-#### Decisiveness
-> [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence/decisiveness?u=76281980)
+#### [Decisiveness](https://www.linkedin.com/learning/decision-intelligence/decisiveness?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -954,14 +943,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (1)
 > **CLI Commands:** make (4), find (2)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 > **Speakers:** - ah (1)
 
-#### Objective decision-making
-> [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence/objective-decision-making?u=76281980)
+#### [Objective decision-making](https://www.linkedin.com/learning/decision-intelligence/objective-decision-making?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1011,13 +998,13 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/decision-intelligence/objective-decision-making?u=76281980&t=143)** There are ways in which you can use data to increase your objectivity but similarly, there are ways that you can use it to reconfirm what you already believe, which is the opposite of injecting objectivity, rather giving you bigger strength in your pre-existing convictions and not helping you learn anything new.
 >
-> **[2:41](https://www.linkedin.com/learning/decision-intelligence/objective-decision-making?u=76281980&t=161)** And I hope that you will remember throughout the rest of the course and your life too, that the principles that you learned in this section should never be tossed out the window just because there are some numbers nearby.
+> **[2:41](https://www.linkedin.com/learning/decision-intelligence/objective-decision-making?u=76281980&t=161)** And I hope that you will remember throughout the [[Representational State Transfer (REST)|rest]] of the course and your life too, that the principles that you learned in this section should never be tossed out the window just because there are some numbers nearby.
 >
 > **[2:55](https://www.linkedin.com/learning/decision-intelligence/objective-decision-making?u=76281980&t=175)** If anything, it should underscore the importance of the fundamentals, which should travel with you, no matter how complicated and technological things get.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (1), in other words (1), means that (1)
 > **Speakers:** - we (1)
 
@@ -1026,8 +1013,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Upgrade 1: Using data and technology
-> [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence/upgrade-1-using-data-and-technology?u=76281980)
+#### [Upgrade 1: Using data and technology](https://www.linkedin.com/learning/decision-intelligence/upgrade-1-using-data-and-technology?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1101,7 +1087,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/decision-intelligence/upgrade-1-using-data-and-technology?u=76281980&t=126)** Even if it has no straight-up mistakes, it leaves a lot of reality out.
 >
-> **[2:11](https://www.linkedin.com/learning/decision-intelligence/upgrade-1-using-data-and-technology?u=76281980&t=131)** In a later video, we'll talk about artificial intelligence, but I'd like to throw in a little note about AI bias while we're here.
+> **[2:11](https://www.linkedin.com/learning/decision-intelligence/upgrade-1-using-data-and-technology?u=76281980&t=131)** In a later video, we'll talk about [[Artificial Intelligence (AI)|artificial intelligence]], but I'd like to throw in a little note about AI bias while we're here.
 >
 > **[2:19](https://www.linkedin.com/learning/decision-intelligence/upgrade-1-using-data-and-technology?u=76281980&t=139)** AI is based on the data that goes into it, and data is made by people.
 >
@@ -1127,13 +1113,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), ai (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - making (1)
 
-#### Upgrade 2: Better questions
-> [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence/upgrade-2-better-questions?u=76281980)
+#### [Upgrade 2: Better questions](https://www.linkedin.com/learning/decision-intelligence/upgrade-2-better-questions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1243,15 +1228,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Analytics]] (6), next (1)
 > **Analogies:** imagine (2), just like (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is called (1)
 > **Warnings:** watch out (1)
 > **Speakers:** - where (1)
 
-#### Upgrade 3: Data-driven decisions
-> [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence/upgrade-3-data-driven-decisions?u=76281980)
+#### [Upgrade 3: Data-driven decisions](https://www.linkedin.com/learning/decision-intelligence/upgrade-3-data-driven-decisions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1349,7 +1332,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/decision-intelligence/upgrade-3-data-driven-decisions?u=76281980&t=218)** When decision makers lack fundamental skills, there is no mathematics in the world that can fix it.
 >
-> **[3:44](https://www.linkedin.com/learning/decision-intelligence/upgrade-3-data-driven-decisions?u=76281980&t=224)** Your data professionals will not contribute to data-driven decision making.
+> **[3:44](https://www.linkedin.com/learning/decision-intelligence/upgrade-3-data-driven-decisions?u=76281980&t=224)** Your data professionals will not contribute to [[Data-driven Decision Making]].
 >
 > **[3:48](https://www.linkedin.com/learning/decision-intelligence/upgrade-3-data-driven-decisions?u=76281980&t=228)** Using data like that to feel better about actions that you're going to take anyway is an expensive and wasteful hobby.
 >
@@ -1365,7 +1348,7 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/decision-intelligence/upgrade-3-data-driven-decisions?u=76281980&t=262)** If you want to use data to ask good questions and also get good answers to them, to use data for both inspiration and rigor, which we'll talk about in the next video, you need to split your dataset into two separate pieces and never mix them up.
 >
-> **[4:37](https://www.linkedin.com/learning/decision-intelligence/upgrade-3-data-driven-decisions?u=76281980&t=277)** You'll use one for analytics, the other for statistics, and you'll always keep them separate.
+> **[4:37](https://www.linkedin.com/learning/decision-intelligence/upgrade-3-data-driven-decisions?u=76281980&t=277)** You'll use one for analytics, the other for [[Statistics]], and you'll always keep them separate.
 >
 > **[4:42](https://www.linkedin.com/learning/decision-intelligence/upgrade-3-data-driven-decisions?u=76281980&t=282)** So to summarize, here's the antidote to confirmation bias.
 >
@@ -1389,7 +1372,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), [[Data-driven Decision Making]] (2), [[Search]] (1), game (1), next (1)
+> **Frameworks & Libraries:** [[Data-driven Decision Making]] (2), [[Statistics]] (1)
 > **Versions:** 4.2 (7), 4.0 (2), 4.5 (1)
 > **CLI Commands:** make (3), find (2)
 > **Definitions:** is a  (2), is an  (1), in other words (1)
@@ -1398,8 +1381,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - businesses (1)
 
-#### Upgrade 4: Better answers
-> [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence/upgrade-4-better-answers?u=76281980)
+#### [Upgrade 4: Better answers](https://www.linkedin.com/learning/decision-intelligence/upgrade-4-better-answers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1467,7 +1449,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/decision-intelligence/upgrade-4-better-answers?u=76281980&t=146)** Ah-huh, when you don't actually have the facts you need.
 >
-> **[2:31](https://www.linkedin.com/learning/decision-intelligence/upgrade-4-better-answers?u=76281980&t=151)** See if you can work with facts, you don't need statistics.
+> **[2:31](https://www.linkedin.com/learning/decision-intelligence/upgrade-4-better-answers?u=76281980&t=151)** See if you can work with facts, you don't need [[Statistics]].
 >
 > **[2:36](https://www.linkedin.com/learning/decision-intelligence/upgrade-4-better-answers?u=76281980&t=156)** Full information is always better than partial information.
 >
@@ -1495,7 +1477,7 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/decision-intelligence/upgrade-4-better-answers?u=76281980&t=236)** What a statistician does for you here isn't magic.
 >
-> **[3:59](https://www.linkedin.com/learning/decision-intelligence/upgrade-4-better-answers?u=76281980&t=239)** They're helping you balance the probability of making the wrong decision with the budget that you're willing to pay for your data.
+> **[3:59](https://www.linkedin.com/learning/decision-intelligence/upgrade-4-better-answers?u=76281980&t=239)** They're helping you balance the [[Probability]] of making the wrong decision with the budget that you're willing to pay for your data.
 >
 > **[4:05](https://www.linkedin.com/learning/decision-intelligence/upgrade-4-better-answers?u=76281980&t=245)** Subject to your risk preferences and budget, they help you take the decision in a manner that delivers on those preferences.
 >
@@ -1525,7 +1507,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Statistics]] (4), next (3), [[Analytics]] (1), career (1)
+> **Frameworks & Libraries:** [[Statistics]] (4), [[Probability]] (1)
 > **Analogies:** imagine (3)
 > **UI Navigation:** go to (2)
 > **Definitions:** in other words (1), is a  (1)
@@ -1533,14 +1515,13 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Speakers:** - in (1)
 
-#### Upgrade 5: Decision automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence/upgrade-5-decision-automation?u=76281980)
+#### [Upgrade 5: Decision automation](https://www.linkedin.com/learning/decision-intelligence/upgrade-5-decision-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/decision-intelligence/upgrade-5-decision-automation?u=76281980&t=0)** - As we saw in the previous video, when there's certainty, we can just look up our answers from the data directly.
 >
-> **[0:07](https://www.linkedin.com/learning/decision-intelligence/upgrade-5-decision-automation?u=76281980&t=7)** Data science is more interesting under uncertainty.
+> **[0:07](https://www.linkedin.com/learning/decision-intelligence/upgrade-5-decision-automation?u=76281980&t=7)** [[Data Science]] is more interesting under uncertainty.
 >
 > **[0:10](https://www.linkedin.com/learning/decision-intelligence/upgrade-5-decision-automation?u=76281980&t=10)** So what is data science?
 >
@@ -1556,7 +1537,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/decision-intelligence/upgrade-5-decision-automation?u=76281980&t=38)** That branch of data science is called analytics.
 >
-> **[0:42](https://www.linkedin.com/learning/decision-intelligence/upgrade-5-decision-automation?u=76281980&t=42)** If the answer is that you have a few important decisions, that's statistics.
+> **[0:42](https://www.linkedin.com/learning/decision-intelligence/upgrade-5-decision-automation?u=76281980&t=42)** If the answer is that you have a few important decisions, that's [[Statistics]].
 >
 > **[0:48](https://www.linkedin.com/learning/decision-intelligence/upgrade-5-decision-automation?u=76281980&t=48)** If the answer is many, many, many decisions, that's machine learning and AI, terms which these days, it's okay for you to use somewhat interchangeably.
 >
@@ -1564,7 +1545,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/decision-intelligence/upgrade-5-decision-automation?u=76281980&t=72)** That's not decision making.
 >
-> **[1:14](https://www.linkedin.com/learning/decision-intelligence/upgrade-5-decision-automation?u=76281980&t=74)** Data storytelling, data journalism, marketing is what you'd call this.
+> **[1:14](https://www.linkedin.com/learning/decision-intelligence/upgrade-5-decision-automation?u=76281980&t=74)** [[Data Storytelling]], data journalism, marketing is what you'd call this.
 >
 > **[1:19](https://www.linkedin.com/learning/decision-intelligence/upgrade-5-decision-automation?u=76281980&t=79)** And though you use data for it, it is not part of the decision disciplines.
 >
@@ -1642,7 +1623,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), ai (7), [[Statistics]] (3), [[Automation]] (2), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (5), [[Statistics]] (3), [[Data Storytelling]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Cross-References:** as we saw (1), previous video (1), go back to (1)
 > **Definitions:** is called (1), in other words (1)
@@ -1653,8 +1634,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Group decisions
-> [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence/group-decisions?u=76281980)
+#### [Group decisions](https://www.linkedin.com/learning/decision-intelligence/group-decisions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1726,7 +1706,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/decision-intelligence/group-decisions?u=76281980&t=204)** You may find that the loudest voice, rather than the wisest voice, is the one with outsized influence on the decision.
 >
-> **[3:31](https://www.linkedin.com/learning/decision-intelligence/group-decisions?u=76281980&t=211)** Sometimes the whole thing devolves into a social exercise rather than a decision-making exercise.
+> **[3:31](https://www.linkedin.com/learning/decision-intelligence/group-decisions?u=76281980&t=211)** Sometimes the whole thing devolves into a social exercise rather than a [[Decision-Making]] exercise.
 >
 > **[3:37](https://www.linkedin.com/learning/decision-intelligence/group-decisions?u=76281980&t=217)** Allowing information to drive your decision takes a level of humility that's sometimes easier to achieve in private than in a group.
 >
@@ -1768,15 +1748,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), business (1), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Warnings:** note that (1), watch out (1), keep in mind (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - the (1)
 
-#### The career-making question
-> [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence/the-career-making-question?u=76281980)
+#### [The career-making question](https://www.linkedin.com/learning/decision-intelligence/the-career-making-question?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1802,7 +1781,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/decision-intelligence/the-career-making-question?u=76281980&t=55)** If there's no information that can change someone's mind, then there is no decision on the table.
 >
-> **[0:59](https://www.linkedin.com/learning/decision-intelligence/the-career-making-question?u=76281980&t=59)** It has already been made, and any attempts at data will be for persuasion, not decision-making.
+> **[0:59](https://www.linkedin.com/learning/decision-intelligence/the-career-making-question?u=76281980&t=59)** It has already been made, and any attempts at data will be for persuasion, not [[Decision-Making]].
 >
 > **[1:05](https://www.linkedin.com/learning/decision-intelligence/the-career-making-question?u=76281980&t=65)** Sometimes leaders may appear indecisive on purpose, for good strategic reasons.
 >
@@ -1836,7 +1815,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/decision-intelligence/the-career-making-question?u=76281980&t=156)** It's another thing to ask a leader without much decision training.
 >
-> **[2:40](https://www.linkedin.com/learning/decision-intelligence/the-career-making-question?u=76281980&t=160)** So if you're tasked with providing decision support, you'll need to translate between what's going on in a leader's head and a clear statement that a data science team can work with.
+> **[2:40](https://www.linkedin.com/learning/decision-intelligence/the-career-making-question?u=76281980&t=160)** So if you're tasked with providing decision support, you'll need to translate between what's going on in a leader's head and a clear statement that a [[Data Science]] team can work with.
 >
 > **[2:50](https://www.linkedin.com/learning/decision-intelligence/the-career-making-question?u=76281980&t=170)** The career-making question is a wonderful way to get that conversation started.
 >
@@ -1864,7 +1843,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (6), data (4), [[Decision-Making]] (3), business (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (3), [[Data Science]] (1)
 > **Cross-References:** previous video (2), as we saw (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -1872,8 +1851,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - as (1)
 
-#### Building a data-driven culture
-> [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence/building-a-data-driven-culture?u=76281980)
+#### [Building a data-driven culture](https://www.linkedin.com/learning/decision-intelligence/building-a-data-driven-culture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1931,7 +1909,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/decision-intelligence/building-a-data-driven-culture?u=76281980&t=168)** Now, how about the accelerator?
 >
-> **[2:51](https://www.linkedin.com/learning/decision-intelligence/building-a-data-driven-culture?u=76281980&t=171)** Sometimes an organization is scared of data and scared of technology, so you might need to sell data-driven decision making a little bit.
+> **[2:51](https://www.linkedin.com/learning/decision-intelligence/building-a-data-driven-culture?u=76281980&t=171)** Sometimes an organization is scared of data and scared of technology, so you might need to sell [[Data-driven Decision Making]] a little bit.
 >
 > **[2:59](https://www.linkedin.com/learning/decision-intelligence/building-a-data-driven-culture?u=76281980&t=179)** Good decision making is the most important skill there is, the steering wheel for your life and your organization.
 >
@@ -1943,7 +1921,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/decision-intelligence/building-a-data-driven-culture?u=76281980&t=197)** That's okay.
 >
-> **[3:18](https://www.linkedin.com/learning/decision-intelligence/building-a-data-driven-culture?u=76281980&t=198)** Remind them that they don't need to be the data expert in order to get value out of data science.
+> **[3:18](https://www.linkedin.com/learning/decision-intelligence/building-a-data-driven-culture?u=76281980&t=198)** Remind them that they don't need to be the data expert in order to get value out of [[Data Science]].
 >
 > **[3:23](https://www.linkedin.com/learning/decision-intelligence/building-a-data-driven-culture?u=76281980&t=203)** What they need is to understand enough about data science to collaborate effectively with experts, or they need an expert like you to serve as translator between their vision and the specialists that can help them achieve it.
 >
@@ -1969,15 +1947,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (34), [[Data-driven Decision Making]] (2), power (1)
+> **Frameworks & Libraries:** [[Data Science]] (3), [[Data-driven Decision Making]] (2)
 > **CLI Commands:** make (8)
 > **Definitions:** means that (2), is an  (2)
 > **Cross-References:** we talked about (1), as we saw (1)
 > **Prerequisites:** you'll need (2)
 > **Speakers:** - how (1)
 
-#### Barriers to organizational decision-making
-> [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence/barriers-to-organizational-decision-making?u=76281980)
+#### [Barriers to organizational decision-making](https://www.linkedin.com/learning/decision-intelligence/barriers-to-organizational-decision-making?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1999,7 +1976,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/decision-intelligence/barriers-to-organizational-decision-making?u=76281980&t=51)** Absolutely not. Delegation is important.
 >
-> **[0:55](https://www.linkedin.com/learning/decision-intelligence/barriers-to-organizational-decision-making?u=76281980&t=55)** Then number five, there might be a lagging investment in personnel, processes, data, and infrastructure needed for data-driven decision making.
+> **[0:55](https://www.linkedin.com/learning/decision-intelligence/barriers-to-organizational-decision-making?u=76281980&t=55)** Then number five, there might be a lagging investment in personnel, processes, data, and infrastructure needed for [[Data-driven Decision Making]].
 >
 > **[1:03](https://www.linkedin.com/learning/decision-intelligence/barriers-to-organizational-decision-making?u=76281980&t=63)** And then there are those things around humans being human.
 >
@@ -2043,14 +2020,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), power (2), [[Data-driven Decision Making]] (1)
+> **Frameworks & Libraries:** [[Data-driven Decision Making]] (1)
 > **Prerequisites:** prerequisite (1), you'll need (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - before (1)
 
-#### Delivering value in a large organization
-> [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence/delivering-value-in-a-large-organization?u=76281980)
+#### [Delivering value in a large organization](https://www.linkedin.com/learning/decision-intelligence/delivering-value-in-a-large-organization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2088,9 +2064,9 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/decision-intelligence/delivering-value-in-a-large-organization?u=76281980&t=85)** See how you can help them that might be a little bit outside the box.
 >
-> **[1:30](https://www.linkedin.com/learning/decision-intelligence/delivering-value-in-a-large-organization?u=76281980&t=90)** Number seven, evaluate data sources and what's going on with your organization's data engineering and infrastructure.
+> **[1:30](https://www.linkedin.com/learning/decision-intelligence/delivering-value-in-a-large-organization?u=76281980&t=90)** Number seven, evaluate data sources and what's going on with your organization's [[Data Engineering]] and infrastructure.
 >
-> **[1:38](https://www.linkedin.com/learning/decision-intelligence/delivering-value-in-a-large-organization?u=76281980&t=98)** The availability of data doesn't mean you can make it useful, and similarly, just because you have personnel or infrastructure doesn't mean that you'll be able to do good data-driven decision-making.
+> **[1:38](https://www.linkedin.com/learning/decision-intelligence/delivering-value-in-a-large-organization?u=76281980&t=98)** The availability of data doesn't mean you can make it useful, and similarly, just because you have personnel or infrastructure doesn't mean that you'll be able to do good data-driven [[Decision-Making]].
 >
 > **[1:50](https://www.linkedin.com/learning/decision-intelligence/delivering-value-in-a-large-organization?u=76281980&t=110)** You need everything together, especially at scale.
 >
@@ -2102,7 +2078,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/decision-intelligence/delivering-value-in-a-large-organization?u=76281980&t=144)** Then number eight, as you're growing in seniority, you'll be hiring people, and when these people are data experts, it'll be up to you to protect their careers.
 >
-> **[2:34](https://www.linkedin.com/learning/decision-intelligence/delivering-value-in-a-large-organization?u=76281980&t=154)** Understand that data science tends to have a leadership skills shortage, so this will not necessarily be easy work.
+> **[2:34](https://www.linkedin.com/learning/decision-intelligence/delivering-value-in-a-large-organization?u=76281980&t=154)** Understand that [[Data Science]] tends to have a leadership skills shortage, so this will not necessarily be easy work.
 >
 > **[2:42](https://www.linkedin.com/learning/decision-intelligence/delivering-value-in-a-large-organization?u=76281980&t=162)** Your data scientists have to be aligned to the important decisions or the important automation challenges in order to have the impact that guarantees them a smooth career path.
 >
@@ -2120,7 +2096,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Automation]] (2), [[Decision-Making]] (2), ai (1), [[Data Engineering]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (2), [[Data Engineering]] (1), [[Data Science]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - now (1)
 
@@ -2129,8 +2105,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Are you a good decision-maker?
-> [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence/are-you-a-good-decision-maker?u=76281980)
+#### [Are you a good decision-maker?](https://www.linkedin.com/learning/decision-intelligence/are-you-a-good-decision-maker?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2178,7 +2153,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), career (1)
 > **CLI Commands:** make (2), find (1)
 > **Speakers:** - are (1)
 

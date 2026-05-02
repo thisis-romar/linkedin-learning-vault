@@ -117,14 +117,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prepare for the RHCSA EX200 Exam
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/prepare-for-the-rhcsa-ex200-exam-23052024?u=76281980)
+#### [Prepare for the RHCSA EX200 Exam](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/prepare-for-the-rhcsa-ex200-exam-23052024?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/prepare-for-the-rhcsa-ex200-exam-23052024?u=76281980&t=0)** - [Grant] What if I told you you could break into the world of system administration of the operating system that powers much of the world's websites, supercomputers, cloud services, and mobile devices with one well-respected certification?
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/prepare-for-the-rhcsa-ex200-exam-23052024?u=76281980&t=0)** - [Grant] What if I told you you could break into the world of [[System Administration]] of the operating system that powers much of the world's websites, supercomputers, [[Cloud Services]], and mobile devices with one well-respected certification?
 >
-> **[0:13](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/prepare-for-the-rhcsa-ex200-exam-23052024?u=76281980&t=13)** This course is the second in the two-part series that covers the Red Hat Certified System Administrator Certification, or RHCSA, and has been updated for Red Hat Enterprise Linux version 9 as well as the EX200 V9 exam.
+> **[0:13](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/prepare-for-the-rhcsa-ex200-exam-23052024?u=76281980&t=13)** This course is the second in the two-part series that covers the Red Hat Certified System Administrator Certification, or RHCSA, and has been updated for Red Hat Enterprise [[Linux]] version 9 as well as the EX200 V9 exam.
 >
 > **[0:27](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/prepare-for-the-rhcsa-ex200-exam-23052024?u=76281980&t=27)** Hi, I'm Grant McWilliams, college professor and Linux expert.
 >
@@ -134,21 +133,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (2), [[System Administration]] (1), cloud (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Linux]] (2), [[System Administration]] (1), [[Cloud Services]] (1)
 > **Env Vars:** rhcsa (2), ex200 (2)
 > **Versions:** version 9 (1)
 > **Speakers:** - [grant] (1)
 
-#### About Red Hat Certifications
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/about-red-hat-certifications-23044975?u=76281980)
+#### [About Red Hat Certifications](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/about-red-hat-certifications-23044975?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/about-red-hat-certifications-23044975?u=76281980&t=0)** - [Instructor] To learn a bit about Red Hat certifications, let's browse to their certification site and take a look at the list.
 >
-> **[0:07](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/about-red-hat-certifications-23044975?u=76281980&t=7)** Red Hat has a large offering of Linux certifications, including the famous Red Hat Certified Engineer, as well as specialized higher in certifications, covering many topics, such as cloud computing and performance tuning.
+> **[0:07](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/about-red-hat-certifications-23044975?u=76281980&t=7)** Red Hat has a large offering of [[Linux]] certifications, including the famous Red Hat Certified Engineer, as well as specialized higher in certifications, covering many topics, such as [[Cloud Computing]] and [[Performance Tuning]].
 >
-> **[0:19](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/about-red-hat-certifications-23044975?u=76281980&t=19)** The base certification however is the RHCSA, which tests a user's knowledge of Red Hat system administration.
+> **[0:19](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/about-red-hat-certifications-23044975?u=76281980&t=19)** The base certification however is the RHCSA, which tests a user's knowledge of Red Hat [[System Administration]].
 >
 > **[0:26](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/about-red-hat-certifications-23044975?u=76281980&t=26)** This course is the first half of a two-part series that is a fast track to the RHCSA certification.
 >
@@ -162,7 +160,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/about-red-hat-certifications-23044975?u=76281980&t=69)** We will operate running systems, including interrupting the boot process in order to gain access to a system, which can be useful for troubleshooting.
 >
-> **[1:16](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/about-red-hat-certifications-23044975?u=76281980&t=76)** We'll manage processes, read log files and journals, access a virtual machine's console, and start and stop virtual machines.
+> **[1:16](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/about-red-hat-certifications-23044975?u=76281980&t=76)** We'll manage processes, read log files and journals, access a virtual machine's console, and start and stop [[Virtual Machines]].
 >
 > **[1:24](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/about-red-hat-certifications-23044975?u=76281980&t=84)** The updated RHCSA version nine includes shell scripting knowledge as well, so we'll create simple shell scripts, conditionally execute code, use looping constructs to process, file and command input, process script inputs, and process the output of shell commands within a script.
 >
@@ -170,7 +168,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (2), cloud (1), [[Performance Tuning]] (1), [[System Administration]] (1), management (1)
+> **Frameworks & Libraries:** [[Linux]] (2), [[Cloud Computing]] (1), [[Performance Tuning]] (1), [[System Administration]] (1), [[Virtual Machines]] (1)
 > **Env Vars:** rhcsa (4)
 > **Prerequisites:** configure (2), install (2)
 > **CLI Commands:** grep (1)
@@ -179,8 +177,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### What was covered in Part One
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/what-was-covered-in-part-one?u=76281980)
+#### [What was covered in Part One](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/what-was-covered-in-part-one?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -188,7 +185,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/what-was-covered-in-part-one?u=76281980&t=8)** If you haven't taken the first course, I encourage you to do so before taking this one.
 >
-> **[0:13](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/what-was-covered-in-part-one?u=76281980&t=13)** In the first course, we created an enterprise Linux 9 USB installation drive, and then installed Enterprise Linux 9 on a physical machine.
+> **[0:13](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/what-was-covered-in-part-one?u=76281980&t=13)** In the first course, we created an enterprise [[Linux]] 9 USB installation drive, and then installed Enterprise Linux 9 on a physical machine.
 >
 > **[0:21](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/what-was-covered-in-part-one?u=76281980&t=21)** After that, we prepared our physical host for our KVM virtualization.
 >
@@ -210,7 +207,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/what-was-covered-in-part-one?u=76281980&t=96)** We used DNF to manage installed software and learned the difference between software package groups and the new DNF modules.
 >
-> **[1:44](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/what-was-covered-in-part-one?u=76281980&t=104)** Once we got repository based software package management covered, we turned our attention to managing local packages using RPM.
+> **[1:44](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/what-was-covered-in-part-one?u=76281980&t=104)** Once we got repository based software [[Package Management]] covered, we turned our attention to managing local packages using RPM.
 >
 > **[1:51](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/what-was-covered-in-part-one?u=76281980&t=111)** First, we got information from packages themselves and then the database.
 >
@@ -224,13 +221,13 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/what-was-covered-in-part-one?u=76281980&t=139)** That course is the foundation course for this one.
 >
-> **[2:22](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/what-was-covered-in-part-one?u=76281980&t=142)** Since in that course we created our virtual machines that we will use in this course, it is imperative that you take that course first before taking this one.
+> **[2:22](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/what-was-covered-in-part-one?u=76281980&t=142)** Since in that course we created our [[Virtual Machines]] that we will use in this course, it is imperative that you take that course first before taking this one.
 >
 > **[2:30](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/what-was-covered-in-part-one?u=76281980&t=150)** If, however, you've already taken that course, feel free to proceed with the next video in this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (4), next (4), [[Virtualization]] (1), power (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Linux]] (4), [[Package Management]] (1), [[Virtual Machines]] (1)
 > **Env Vars:** dnf (3), rpm (3), rhcsa (1), ex200 (1), usb (1)
 > **CLI Commands:** dnf (3), cp (1), rm (1), mv (1), tar (1)
 > **Cross-References:** in the next (2), next video (1)
@@ -244,12 +241,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create and delete local user accounts
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/create-and-delete-local-user-accounts?u=76281980)
+#### [Create and delete local user accounts](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/create-and-delete-local-user-accounts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/create-and-delete-local-user-accounts?u=76281980&t=0)** - [Instructor] In Linux, every user has a username, a numeric user ID and belongs to at least one group for use with discretionary access control.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/create-and-delete-local-user-accounts?u=76281980&t=0)** - [Instructor] In [[Linux]], every user has a username, a numeric user ID and belongs to at least one group for use with discretionary access control.
 >
 > **[0:09](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/create-and-delete-local-user-accounts?u=76281980&t=9)** Discretionary access control meaning access is granted based on who the user is and what group or groups they belong to.
 >
@@ -379,7 +375,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (11), [[Linux]] (2), next (1)
+> **Frameworks & Libraries:** [[Linux]] (2)
 > **CLI Commands:** sudo (7), cat (6), ls (3)
 > **Definitions:** is a  (5)
 > **Env Vars:** md5 (1), sha512 (1), gecos (1)
@@ -388,8 +384,7 @@ created: 2026-05-02
 > **Documentation:** man page (1)
 > **UI Navigation:** go to (1)
 
-#### Modify local user accounts
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/modify-local-user-accounts?u=76281980)
+#### [Modify local user accounts](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/modify-local-user-accounts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -533,7 +528,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (12), next (1)
 > **CLI Commands:** sudo (6), cat (5), apache (1), dnf (1), ls (1)
 > **Tools:** zsh (5), terminal (1), bash (1)
 > **Env Vars:** zsh (2), nfs (1)
@@ -541,13 +535,13 @@ created: 2026-05-02
 > **Cross-References:** we talked about (1), in the last (1)
 > **Analogies:** such as (2)
 > **Warnings:** note that (2)
+> **Prerequisites:** install (2)
 
-#### Change passwords and adjust password aging for local user accounts
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/change-passwords-and-adjust-password-aging-for-local-user-accounts?u=76281980)
+#### [Change passwords and adjust password aging for local user accounts](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/change-passwords-and-adjust-password-aging-for-local-user-accounts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/change-passwords-and-adjust-password-aging-for-local-user-accounts?u=76281980&t=0)** - [Tutor] The main tool for managing passwords in Linux is the password command.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/change-passwords-and-adjust-password-aging-for-local-user-accounts?u=76281980&t=0)** - [Tutor] The main tool for managing passwords in [[Linux]] is the password command.
 >
 > **[0:04](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/change-passwords-and-adjust-password-aging-for-local-user-accounts?u=76281980&t=4)** If we type in password without any arguments, it will ask us twice for a new password then encode it and save it in the etc shadow file.
 >
@@ -671,7 +665,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (9), [[Security]] (2), [[Linux]] (1), next (1), power (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **CLI Commands:** sudo (6), ssh (2), cat (1), make (1)
 > **Speakers:** - [tutor] (1), - d (1), - e (1), - l (1), - u (1)
 > **Warnings:** note that (3), warning (1)
@@ -680,8 +674,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Analogies:** such as (1)
 
-#### Manage aging for local user accounts
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/manage-aging-for-local-user-accounts?u=76281980)
+#### [Manage aging for local user accounts](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/manage-aging-for-local-user-accounts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -821,7 +814,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (11), next (4)
 > **CLI Commands:** sudo (9), cat (1), ssh (1)
 > **Warnings:** warning (2)
 > **Env Vars:** ssh (1)
@@ -829,13 +821,13 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** configure (1)
+> **Speakers:** - [instructor] (1)
 
-#### Create, delete, and modify local groups and group memberships
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/create-delete-and-modify-local-groups-and-group-memberships?u=76281980)
+#### [Create, delete, and modify local groups and group memberships](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/create-delete-and-modify-local-groups-and-group-memberships?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/create-delete-and-modify-local-groups-and-group-memberships?u=76281980&t=0)** - [Instructor] Groups are an important part of the Linux user management system.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/create-delete-and-modify-local-groups-and-group-memberships?u=76281980&t=0)** - [Instructor] Groups are an important part of the [[Linux]] [[User Management]] system.
 >
 > **[0:03](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/create-delete-and-modify-local-groups-and-group-memberships?u=76281980&t=3)** Each user belongs to a primary group.
 >
@@ -1005,7 +997,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (17), [[Linux]] (1), [[User Management]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1), [[User Management]] (1)
 > **CLI Commands:** sudo (9), cat (5), ls (1), make (1)
 > **Env Vars:** etc (10)
 > **Definitions:** is a  (1), means that (1), is an  (1)
@@ -1014,12 +1006,11 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Analogies:** for instance (1)
 
-#### Log in and switch users in multiuser targets
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/log-in-and-switch-users-in-multiuser-targets?u=76281980)
+#### [Log in and switch users in multiuser targets](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/log-in-and-switch-users-in-multiuser-targets?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/log-in-and-switch-users-in-multiuser-targets?u=76281980&t=0)** - [Instructor] We have the option to log in as a different user in Linux but there are times where we might want to switch to a different user temporarily.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/log-in-and-switch-users-in-multiuser-targets?u=76281980&t=0)** - [Instructor] We have the option to log in as a different user in [[Linux]] but there are times where we might want to switch to a different user temporarily.
 >
 > **[0:08](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/log-in-and-switch-users-in-multiuser-targets?u=76281980&t=8)** Usually we do this when we went to elevate our privileges to root to run a command or access a resource.
 >
@@ -1065,7 +1056,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/log-in-and-switch-users-in-multiuser-targets?u=76281980&t=71)** There's another difference between logging in as root and switching to the root user: the environment.
 >
-> **[1:17](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/log-in-and-switch-users-in-multiuser-targets?u=76281980&t=77)** The environment is the variables and system configuration that comes with a logged in user.
+> **[1:17](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/log-in-and-switch-users-in-multiuser-targets?u=76281980&t=77)** The environment is the variables and [[System Configuration]] that comes with a logged in user.
 >
 > **[1:21](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/log-in-and-switch-users-in-multiuser-targets?u=76281980&t=81)** Type in clear and then type in echo space dollar sign capital P-A-T-H and hit enter.
 >
@@ -1095,15 +1086,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (7), [[Linux]] (2), prompt (1), [[System Configuration]] (1)
+> **Frameworks & Libraries:** [[Linux]] (2), [[System Configuration]] (1)
 > **CLI Commands:** sudo (2), find (1)
 > **UI Navigation:** switch to (2)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Elevating privileges using sudo
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/elevating-privileges-using-sudo?u=76281980)
+#### [Elevating privileges using sudo](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/elevating-privileges-using-sudo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1123,7 +1113,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/elevating-privileges-using-sudo?u=76281980&t=40)** With sudo, you elevate privileges for one command only.
 >
-> **[0:45](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/elevating-privileges-using-sudo?u=76281980&t=45)** Also by switching to root, there's very little in the way of accountability.
+> **[0:45](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/elevating-privileges-using-sudo?u=76281980&t=45)** Also by switching to root, there's very little in the way of [[Accountability]].
 >
 > **[0:49](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/elevating-privileges-using-sudo?u=76281980&t=49)** All log messages say that the root user executed all commands.
 >
@@ -1189,7 +1179,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (4), [[Accountability]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Accountability]] (1)
 > **CLI Commands:** sudo (13), cat (3)
 > **UI Navigation:** switch to (2)
 > **Prerequisites:** set up (1), configure (1)
@@ -1197,8 +1187,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Users and accounts
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/challenge-users-and-accounts?u=76281980)
+#### [Challenge: Users and accounts](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/challenge-users-and-accounts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1212,7 +1201,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/challenge-users-and-accounts?u=76281980&t=21)** Steve is a former Unix administrator turned software developer.
 >
-> **[0:25](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/challenge-users-and-accounts?u=76281980&t=25)** Steve will be working with Sue and Taylor as developers on a secret project but will also be providing additional system administration services to your company.
+> **[0:25](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/challenge-users-and-accounts?u=76281980&t=25)** Steve will be working with Sue and Taylor as developers on a secret project but will also be providing additional [[System Administration]] services to your company.
 >
 > **[0:33](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/challenge-users-and-accounts?u=76281980&t=33)** This means you will need a username, Steve, with a user ID of 1100 within the range in which your company places its developers.
 >
@@ -1247,8 +1236,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Users and accounts
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/solution-users-and-accounts?u=76281980)
+#### [Solution: Users and accounts](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/solution-users-and-accounts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1312,7 +1300,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (6), [[Search]] (1)
 > **CLI Commands:** sudo (10), dnf (1)
 > **Warnings:** warning (3), note that (2)
 > **Speakers:** - for (1), - w (1)
@@ -1324,12 +1311,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### File and directory modes
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/file-and-directory-modes?u=76281980)
+#### [File and directory modes](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/file-and-directory-modes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/file-and-directory-modes?u=76281980&t=0)** - Standard Linux permissions support three different modes; read, write, and execute.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/file-and-directory-modes?u=76281980&t=0)** - Standard [[Linux]] permissions support three different modes; read, write, and execute.
 >
 > **[0:07](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/file-and-directory-modes?u=76281980&t=7)** These three modes provide different functionality for files and directories.
 >
@@ -1345,7 +1331,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/file-and-directory-modes?u=76281980&t=40)** These same three modes act differently on a directory.
 >
-> **[0:44](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/file-and-directory-modes?u=76281980&t=44)** If a user has read access to a directory, it means they can list the contents of the directory which includes the metadata about the files and directories in it.
+> **[0:44](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/file-and-directory-modes?u=76281980&t=44)** If a user has read access to a directory, it means they can list the contents of the directory which includes the [[Metadata]] about the files and directories in it.
 >
 > **[0:52](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/file-and-directory-modes?u=76281980&t=52)** If a user doesn't have read access and they type in LS inside the directory, they'll see a lot of question marks where the metadata should be.
 >
@@ -1361,14 +1347,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Metadata]] (2), [[Linux]] (1), application (1)
+> **Frameworks & Libraries:** [[Metadata]] (2), [[Linux]] (1)
 > **CLI Commands:** ls (2)
 > **Definitions:** means that (2)
 > **Tools:** firefox (1)
 > **Speakers:** - standard (1)
 
-#### Change file and directory ownership
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/change-file-and-directory-ownership?u=76281980)
+#### [Change file and directory ownership](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/change-file-and-directory-ownership?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1406,7 +1391,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/change-file-and-directory-ownership?u=76281980&t=74)** For more information about creating users and groups.
 >
-> **[1:16](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/change-file-and-directory-ownership?u=76281980&t=76)** See my course in the course library, titled Linux user and group management, where we cover this topic in depth.
+> **[1:16](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/change-file-and-directory-ownership?u=76281980&t=76)** See my course in the course library, titled [[Linux]] user and group management, where we cover this topic in depth.
 >
 > **[1:22](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/change-file-and-directory-ownership?u=76281980&t=82)** We haven't used any options with chown yet.
 >
@@ -1460,7 +1445,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (10), cd (2), data (1), [[Linux]] (1), management (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **CLI Commands:** chown (8), sudo (4), ls (2), mkdir (2), cd (2)
 > **File Paths:** file.txt (5)
 > **Warnings:** keep in mind (1), note that (1)
@@ -1469,12 +1454,11 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Analogies:** for instance (1)
 
-#### Set permissions using numeric mode
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/set-permissions-using-numeric-mode?u=76281980)
+#### [Set permissions using numeric mode](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/set-permissions-using-numeric-mode?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/set-permissions-using-numeric-mode?u=76281980&t=0)** - [Instructor] There are two different methods of setting permissions in Linux.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/set-permissions-using-numeric-mode?u=76281980&t=0)** - [Instructor] There are two different methods of setting permissions in [[Linux]].
 >
 > **[0:03](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/set-permissions-using-numeric-mode?u=76281980&t=3)** Numeric and symbolic.
 >
@@ -1514,7 +1498,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/set-permissions-using-numeric-mode?u=76281980&t=56)** The last group of three, is for everyone that is not the user owner, or that doesn't belong to the group.
 >
-> **[1:02](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/set-permissions-using-numeric-mode?u=76281980&t=62)** These are the permissions for the rest of the entire known universe.
+> **[1:02](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/set-permissions-using-numeric-mode?u=76281980&t=62)** These are the permissions for the [[Representational State Transfer (REST)|rest]] of the entire known universe.
 >
 > **[1:06](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/set-permissions-using-numeric-mode?u=76281980&t=66)** Either in this case, has no permissions.
 >
@@ -1572,7 +1556,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (5), cd (2), [[Linux]] (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** chmod (7), ls (3), cd (2), mkdir (1)
 > **File Paths:** file.txt (3)
 > **Tools:** terminal (2)
@@ -1581,12 +1565,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set permissions using symbolic mode
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/set-permissions-using-symbolic-mode?u=76281980)
+#### [Set permissions using symbolic mode](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/set-permissions-using-symbolic-mode?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/set-permissions-using-symbolic-mode?u=76281980&t=0)** - [Instructor] There are two different methods of setting permissions in Linux, numeric and symbolic.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/set-permissions-using-symbolic-mode?u=76281980&t=0)** - [Instructor] There are two different methods of setting permissions in [[Linux]], numeric and symbolic.
 >
 > **[0:04](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/set-permissions-using-symbolic-mode?u=76281980&t=4)** For this video, let's talk about symbolic mode.
 >
@@ -1616,7 +1599,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/set-permissions-using-symbolic-mode?u=76281980&t=52)** The last group of three is for everyone that is not the user owner or that doesn't belong to the group.
 >
-> **[0:58](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/set-permissions-using-symbolic-mode?u=76281980&t=58)** These are the permissions for the rest of the known universe.
+> **[0:58](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/set-permissions-using-symbolic-mode?u=76281980&t=58)** These are the permissions for the [[Representational State Transfer (REST)|rest]] of the known universe.
 >
 > **[1:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/set-permissions-using-symbolic-mode?u=76281980&t=60)** Other in our case, has no permissions.
 >
@@ -1708,7 +1691,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (11), [[Linux]] (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** chmod (10), ls (4), sudo (4), mkdir (1)
 > **File Paths:** file.txt (5)
 > **Analogies:** for instance (2), such as (1)
@@ -1717,8 +1700,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Initial permissions using umask
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/initial-permissions-using-umask?u=76281980)
+#### [Initial permissions using umask](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/initial-permissions-using-umask?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1740,7 +1722,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/initial-permissions-using-umask?u=76281980&t=35)** To calculate initial permissions, we'll have to subtract the umask from maximum allowed initial permissions based on whether the item is a file or a directory.
 >
-> **[0:44](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/initial-permissions-using-umask?u=76281980&t=44)** For directories, our maximum initial permission are 777 since having execute on a directory does not create a security risk.
+> **[0:44](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/initial-permissions-using-umask?u=76281980&t=44)** For directories, our maximum initial permission are 777 since having execute on a directory does not create a [[Security Risk]].
 >
 > **[0:51](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/initial-permissions-using-umask?u=76281980&t=51)** Let's use a umask of 022.
 >
@@ -1822,7 +1804,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (7), [[Security]] (2)
+> **Frameworks & Libraries:** [[Security Risk]] (1)
 > **CLI Commands:** ls (2), sudo (2), mkdir (1)
 > **File Paths:** umaskfile.txt (1), umask.sh (1), etc/profile.d/umask.sh (1)
 > **Tools:** terminal (3)
@@ -1831,14 +1813,13 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Warnings:** note that (1)
 
-#### Special file bits: SUID and SGID
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/special-file-bits-suid-and-sgid?u=76281980)
+#### [Special file bits: SUID and SGID](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/special-file-bits-suid-and-sgid?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/special-file-bits-suid-and-sgid?u=76281980&t=0)** - [Instructor] There are additional special bits for privilege escalation on executable files.
 >
-> **[0:05](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/special-file-bits-suid-and-sgid?u=76281980&t=5)** The first is called set user ID, or SUID, which instructs Linux to run the executable file as the user owner of the file.
+> **[0:05](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/special-file-bits-suid-and-sgid?u=76281980&t=5)** The first is called set user ID, or SUID, which instructs [[Linux]] to run the executable file as the user owner of the file.
 >
 > **[0:13](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/special-file-bits-suid-and-sgid?u=76281980&t=13)** We also have set group ID, or SGID, which instructs Linux to run the executable file as the group owner of the file.
 >
@@ -1962,7 +1943,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (5), hit (3), next (1), power (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Linux]] (5)
 > **Env Vars:** suid (13), sgid (11), bsd (1)
 > **CLI Commands:** sudo (5), chmod (4), find (4), ls (1)
 > **Analogies:** just like (2), such as (2), similar to (1)
@@ -1971,8 +1952,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Special directory bits: SGID and Sticky
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/special-directory-bits-sgid-and-sticky?u=76281980)
+#### [Special directory bits: SGID and Sticky](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/special-directory-bits-sgid-and-sticky?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1984,7 +1964,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/special-directory-bits-sgid-and-sticky?u=76281980&t=11)** Set Group ID or SGID provides group inheritance for files and directories created inside the directory.
 >
-> **[0:18](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/special-directory-bits-sgid-and-sticky?u=76281980&t=18)** Unlike with executables, the sticky bit works on directories in Linux.
+> **[0:18](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/special-directory-bits-sgid-and-sticky?u=76281980&t=18)** Unlike with executables, the sticky bit works on directories in [[Linux]].
 >
 > **[0:22](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/special-directory-bits-sgid-and-sticky?u=76281980&t=22)** When the sticky bit is set for a directory, only the owners of the files can delete them.
 >
@@ -2116,7 +2096,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (20), cd (8), [[Linux]] (2)
+> **Frameworks & Libraries:** [[Linux]] (2)
 > **Env Vars:** rwx (6), txt (5), sgid (4), sjd (3), tmp (3)
 > **CLI Commands:** cd (8), ls (8), chmod (3), chown (1), cat (1)
 > **Tools:** terminal (2)
@@ -2125,12 +2105,11 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Read access control lists
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/read-access-control-lists?u=76281980)
+#### [Read access control lists](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/read-access-control-lists?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/read-access-control-lists?u=76281980&t=0)** - [Instructor] Because ACLs are layered on top of Linux permissions, we can't use standard tools such as LS to list them.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/read-access-control-lists?u=76281980&t=0)** - [Instructor] Because ACLs are layered on top of [[Linux]] permissions, we can't use standard tools such as LS to list them.
 >
 > **[0:07](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/read-access-control-lists?u=76281980&t=7)** With ACLs, comes a suite of new tools.
 >
@@ -2212,7 +2191,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (11), [[Linux]] (2), cd (1), data (1)
+> **Frameworks & Libraries:** [[Linux]] (2)
 > **CLI Commands:** ls (3), mkdir (2), cat (2), cd (1)
 > **Env Vars:** acl (5)
 > **Tools:** terminal (1)
@@ -2221,8 +2200,7 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Prerequisites:** install (1)
 
-#### Set access control lists (ACLs)
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/set-access-control-lists-acls?u=76281980)
+#### [Set access control lists (ACLs)](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/set-access-control-lists-acls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2304,7 +2282,7 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/set-access-control-lists-acls?u=76281980&t=244)** We can type in sudo space setfacl space dash m space u colon Bob colon rwx comma g colon accounting colon rx space file dot txt.
 >
-> **[4:20](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/set-access-control-lists-acls?u=76281980&t=260)** We have substituted the word user for u and group four g.
+> **[4:20](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/set-access-control-lists-acls?u=76281980&t=260)** We have substituted the [[Microsoft Word|word]] user for u and group four g.
 >
 > **[4:25](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/set-access-control-lists-acls?u=76281980&t=265)** Note that if we set a user ACL and don't specify the username it sets the standard permissions for the user owner.
 >
@@ -2326,7 +2304,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (14), cd (1), next (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** sudo (12), cat (3), mkdir (2), cd (1), chmod (1)
 > **Env Vars:** acl (4)
 > **Analogies:** for instance (2), for example (1)
@@ -2335,12 +2313,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Warnings:** note that (1)
 
-#### Configure inheritance with default access control lists
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/configure-inheritance-with-default-access-control-lists?u=76281980)
+#### [Configure inheritance with default access control lists](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/configure-inheritance-with-default-access-control-lists?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/configure-inheritance-with-default-access-control-lists?u=76281980&t=0)** - [Instructor] Standard Linux permissions only have one type of inheritance in the form of the SGID bit on directories.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/configure-inheritance-with-default-access-control-lists?u=76281980&t=0)** - [Instructor] Standard [[Linux]] permissions only have one type of inheritance in the form of the SGID bit on directories.
 >
 > **[0:07](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/configure-inheritance-with-default-access-control-lists?u=76281980&t=7)** In that case, the files and directories created inside inherit the group owner of the parent directory, which there can only be one of.
 >
@@ -2438,7 +2415,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (12), cd (3), [[Linux]] (1), next (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **CLI Commands:** sudo (7), cd (3), make (2), mkdir (2), cat (2)
 > **Env Vars:** acl (15), sgid (1)
 > **File Paths:** aclfile2.txt (2)
@@ -2447,8 +2424,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Delete access control lists
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/delete-access-control-lists?u=76281980)
+#### [Delete access control lists](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/delete-access-control-lists?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2544,7 +2520,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (15)
 > **Env Vars:** acl (14)
 > **CLI Commands:** mkdir (2)
 > **Tools:** terminal (2)
@@ -2553,8 +2528,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: File access control
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/challenge-file-access-control?u=76281980)
+#### [Challenge: File access control](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/challenge-file-access-control?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2628,8 +2602,7 @@ created: 2026-05-02
 > **Speakers:** - [reporter] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: File access control
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/solution-file-access-control?u=76281980)
+#### [Solution: File access control](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/solution-file-access-control?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2659,9 +2632,9 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/solution-file-access-control?u=76281980&t=59)** The next objective says that all files created by our three developers should automatically be owned by the developers group.
 >
-> **[1:06](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/solution-file-access-control?u=76281980&t=66)** The word automatically is the key.
+> **[1:06](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/solution-file-access-control?u=76281980&t=66)** The [[Microsoft Word|word]] automatically is the key.
 >
-> **[1:08](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/solution-file-access-control?u=76281980&t=68)** There's only one method of inheriting ownership in Linux, the SGID bit.
+> **[1:08](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/solution-file-access-control?u=76281980&t=68)** There's only one method of inheriting ownership in [[Linux]], the SGID bit.
 >
 > **[1:12](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/solution-file-access-control?u=76281980&t=72)** So let's set it.
 >
@@ -2811,7 +2784,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (27), cd (4), next (2), [[Linux]] (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Linux]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** sudo (8), ls (5), cd (4), make (3), chmod (3)
 > **File Paths:** suefile.txt (3), taylorfile.txt (2)
 > **Env Vars:** sgid (1), acl (1), sjd (1)
@@ -2825,8 +2798,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Set enforcing and permissive modes for SELinux
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/set-enforcing-and-permissive-modes-for-selinux?u=76281980)
+#### [Set enforcing and permissive modes for SELinux](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/set-enforcing-and-permissive-modes-for-selinux?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2836,7 +2808,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/set-enforcing-and-permissive-modes-for-selinux?u=76281980&t=15)** This access control is discretionary, in that a subject with certain permissions can pass those permissions on to other subjects.
 >
-> **[0:22](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/set-enforcing-and-permissive-modes-for-selinux?u=76281980&t=22)** Standard Linux permissions, access control lists, SUID and SGID special bits, as well as SU/SUDO, are examples of discretionary access control.
+> **[0:22](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/set-enforcing-and-permissive-modes-for-selinux?u=76281980&t=22)** Standard [[Linux]] permissions, access control lists, SUID and SGID special bits, as well as SU/SUDO, are examples of discretionary access control.
 >
 > **[0:33](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/set-enforcing-and-permissive-modes-for-selinux?u=76281980&t=33)** Who the subject is, determines what they can do based on their ownership.
 >
@@ -2872,7 +2844,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/set-enforcing-and-permissive-modes-for-selinux?u=76281980&t=115)** All subjects and objects will have a security context.
 >
-> **[1:58](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/set-enforcing-and-permissive-modes-for-selinux?u=76281980&t=118)** This security context is stored in the extended attributes section of the file Metadata.
+> **[1:58](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/set-enforcing-and-permissive-modes-for-selinux?u=76281980&t=118)** This security context is stored in the extended attributes section of the file [[Metadata]].
 >
 > **[2:03](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/set-enforcing-and-permissive-modes-for-selinux?u=76281980&t=123)** Let's look at the process of subjects accessing objects again, but this time add in the SELinux bits.
 >
@@ -2950,7 +2922,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (9), hit (4), [[Linux]] (1), [[Metadata]] (1), database (1)
+> **Frameworks & Libraries:** [[Linux]] (1), [[Metadata]] (1)
 > **Env Vars:** txt (3), suid (1), sgid (1), sudo (1)
 > **Tools:** vim (2), terminal (2)
 > **Analogies:** such as (3), for instance (1)
@@ -2959,8 +2931,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [narrator] (1)
 
-#### List and identify SELinux file and process context
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/list-and-identify-selinux-file-and-process-context?u=76281980)
+#### [List and identify SELinux file and process context](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/list-and-identify-selinux-file-and-process-context?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3038,7 +3009,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (14), hit (6), prompt (1)
 > **Code Identifiers:** ez (3), passwd_exec_t (3), lz (2), user_home_t (1)
 > **CLI Commands:** sudo (4), ls (3)
 > **Tools:** terminal (3)
@@ -3047,8 +3017,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Restore SELinux default file contexts
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/restore-selinux-default-file-contexts?u=76281980)
+#### [Restore SELinux default file contexts](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/restore-selinux-default-file-contexts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3132,7 +3101,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (13), hit (12), database (3), next (1)
 > **CLI Commands:** ls (7), sudo (3), make (2), grep (1)
 > **File Paths:** newfile.txt (7), home/user1/newfile.txt (1), lznewfile.txt (1)
 > **Code Identifiers:** user_home_t (2), user_home_dir_t (1)
@@ -3141,8 +3109,7 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1)
 > **Prerequisites:** you'll need (1)
 
-#### Use Booleans to modify SELinux behavior
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/use-booleans-to-modify-selinux-behavior?u=76281980)
+#### [Use Booleans to modify SELinux behavior](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/use-booleans-to-modify-selinux-behavior?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3202,7 +3169,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (8), [[Security]] (1)
 > **Code Identifiers:** mozilla_plugin_use_gps (3), mozilla_plugin (1)
 > **CLI Commands:** sudo (2), make (1)
 > **Env Vars:** gps (1)
@@ -3210,8 +3176,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Diagnose routine SELinux policy violations
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/diagnose-routine-selinux-policy-violations?u=76281980)
+#### [Diagnose routine SELinux policy violations](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/diagnose-routine-selinux-policy-violations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3225,7 +3190,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/diagnose-routine-selinux-policy-violations?u=76281980&t=23)** Now, if you manage to make your VM non-functional, you can just run the snapshot and you'll be back in business.
 >
-> **[0:29](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/diagnose-routine-selinux-policy-violations?u=76281980&t=29)** As the Linux logs alerts when it's running in either enforcing or permissive mode.
+> **[0:29](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/diagnose-routine-selinux-policy-violations?u=76281980&t=29)** As the [[Linux]] logs alerts when it's running in either enforcing or permissive mode.
 >
 > **[0:33](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/diagnose-routine-selinux-policy-violations?u=76281980&t=33)** If the audit DService is running, SELinux logs to ./var/log/audit.log.
 >
@@ -3235,7 +3200,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/diagnose-routine-selinux-policy-violations?u=76281980&t=48)** You'll need to elevate privileges for these.
 >
-> **[0:50](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/diagnose-routine-selinux-policy-violations?u=76281980&t=50)** Because our virtual machines are very new, there may not be any SELinux messages to look at.
+> **[0:50](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/diagnose-routine-selinux-policy-violations?u=76281980&t=50)** Because our [[Virtual Machines]] are very new, there may not be any SELinux messages to look at.
 >
 > **[0:55](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/diagnose-routine-selinux-policy-violations?u=76281980&t=55)** So we're going to generate one.
 >
@@ -3297,7 +3262,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/diagnose-routine-selinux-policy-violations?u=76281980&t=188)** This one actually creates a new SELinux policy module, with rules.
 >
-> **[3:13](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/diagnose-routine-selinux-policy-violations?u=76281980&t=193)** The ausearch command searches the audit logs for the word password, and then sends this to the audit to allow command which builds a new security policy module allowing for the action to succeed.
+> **[3:13](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/diagnose-routine-selinux-policy-violations?u=76281980&t=193)** The ausearch command searches the audit logs for the [[Microsoft Word|word]] password, and then sends this to the audit to allow command which builds a new security policy module allowing for the action to succeed.
 >
 > **[3:24](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/diagnose-routine-selinux-policy-violations?u=76281980&t=204)** We then insert the security policy module into the security policy and the action no longer fails.
 >
@@ -3365,7 +3330,7 @@ created: 2026-05-02
 >
 > **[5:48](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/diagnose-routine-selinux-policy-violations?u=76281980&t=348)** Then use restore con to change the context of the file.
 >
-> **[5:51](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/diagnose-routine-selinux-policy-violations?u=76281980&t=351)** A real world example of when you do this is if you wanted to put your MySQL database in a nonstandard location.
+> **[5:51](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/diagnose-routine-selinux-policy-violations?u=76281980&t=351)** A real world example of when you do this is if you wanted to put your [[MySQL]] database in a nonstandard location.
 >
 > **[5:58](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/diagnose-routine-selinux-policy-violations?u=76281980&t=358)** You'd need to update the default security context, for the MySQL directory in the policy and then run restore con on the directory and files.
 >
@@ -3389,7 +3354,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (14), hit (5), [[Linux]] (2), [[Search]] (2), database (2)
+> **Frameworks & Libraries:** [[Linux]] (2), [[MySQL]] (2), [[Virtual Machines]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (5), sudo (5), ls (2), mysql (2), find (1)
 > **UI Navigation:** click on (7)
 > **Tools:** terminal (5)
@@ -3398,8 +3363,7 @@ created: 2026-05-02
 > **Env Vars:** avc (1), user_chathok (1)
 > **Cross-References:** go back to (1)
 
-#### Maintain security context when managing files
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/maintain-security-context-when-managing-files?u=76281980)
+#### [Maintain security context when managing files](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/maintain-security-context-when-managing-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3413,7 +3377,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/maintain-security-context-when-managing-files?u=76281980&t=25)** - a is for archive and preserves permissions, access control lists, extended attributes, And SELinux security context.
 >
-> **[0:34](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/maintain-security-context-when-managing-files?u=76281980&t=34)** The move command preserves attributes by default because it just moves the files and doesn't change their metadata.
+> **[0:34](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/maintain-security-context-when-managing-files?u=76281980&t=34)** The move command preserves attributes by default because it just moves the files and doesn't change their [[Metadata]].
 >
 > **[0:40](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/maintain-security-context-when-managing-files?u=76281980&t=40)** When you want to back up your system using tar, you'll want to pass the --selinux option to preserve security context.
 >
@@ -3427,17 +3391,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (1)
 > **Speakers:** - [instructor] (1), - a (1)
 > **CLI Commands:** tar (1)
 > **Warnings:** be careful (1)
 
-#### Manage firewalls with firewalld
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/manage-firewalls-with-firewalld?u=76281980)
+#### [Manage firewalls with firewalld](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/manage-firewalls-with-firewalld?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/manage-firewalls-with-firewalld?u=76281980&t=0)** - [Instructor] In Enterprise Linux 8, the firewall administration tool is firewalld.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/manage-firewalls-with-firewalld?u=76281980&t=0)** - [Instructor] In Enterprise [[Linux]] 8, the firewall administration tool is firewalld.
 >
 > **[0:05](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/manage-firewalls-with-firewalld?u=76281980&t=5)** Although the iptable service cannot be running at the same time as firewalld as they are not compatible.
 >
@@ -3489,7 +3452,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (11), [[Linux]] (1), feature (1), web (1), traffic (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **CLI Commands:** sudo (5), make (3), systemctl (1)
 > **Env Vars:** http (2), vnc (1)
 > **Tools:** terminal (1)
@@ -3498,8 +3461,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Manage security
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/challenge-manage-security?u=76281980)
+#### [Challenge: Manage security](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/challenge-manage-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3527,7 +3489,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/challenge-manage-security?u=76281980&t=56)** In a terminal, type in sudo dnf install -y httpd and hit Enter, and type in your password if prompted.
 >
-> **[1:05](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/challenge-manage-security?u=76281980&t=65)** Now, we'll move the website HTML files directory to a non-standard location in /home/webdoc.
+> **[1:05](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/challenge-manage-security?u=76281980&t=65)** Now, we'll move the website [[HTML]] files directory to a non-standard location in /home/webdoc.
 >
 > **[1:10](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/challenge-manage-security?u=76281980&t=70)** Let's create that directory.
 >
@@ -3601,7 +3563,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (9), [[HTML]] (6), [[Security]] (4), web (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[HTML]] (6)
 > **CLI Commands:** apache (17), sudo (6), dnf (1), mkdir (1), chown (1)
 > **Prerequisites:** install (2), configure (2), set up (1)
 > **File Paths:** index.html (1), home/webdoc/index.html (1), rhhost1.localnet.com/index.html (1)
@@ -3610,8 +3572,7 @@ created: 2026-05-02
 > **Env Vars:** html (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Manage security
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/solution-manage-security?u=76281980)
+#### [Solution: Manage security](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/solution-manage-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3627,7 +3588,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/solution-manage-security?u=76281980&t=26)** Note that we have three different levels of access control.
 >
-> **[0:29](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/solution-manage-security?u=76281980&t=29)** Apache allows or denies first, then the request goes to the Linux discretionary access control system using permissions and ownership.
+> **[0:29](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/solution-manage-security?u=76281980&t=29)** Apache allows or denies first, then the request goes to the [[Linux]] discretionary access control system using permissions and ownership.
 >
 > **[0:36](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/solution-manage-security?u=76281980&t=36)** If access was granted at this stage, then the request has passed under SELinux which in our case denied access.
 >
@@ -3677,13 +3638,13 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/solution-manage-security?u=76281980&t=149)** Type in your password and hit enter again.
 >
-> **[2:32](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/solution-manage-security?u=76281980&t=152)** We can see the one results where httpd was denied read access to the index.html file.
+> **[2:32](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/solution-manage-security?u=76281980&t=152)** We can see the one results where httpd was denied read access to the index.[[HTML]] file.
 >
 > **[2:38](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/solution-manage-security?u=76281980&t=158)** I recommend reading the output of this command before creating security policy from it, because it could be including other httpd errors that are not related.
 >
 > **[2:46](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/solution-manage-security?u=76281980&t=166)** Now let's execute the whole command string.
 >
-> **[2:48](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/solution-manage-security?u=76281980&t=168)** Go back to your other window and copy the rest of it.
+> **[2:48](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/solution-manage-security?u=76281980&t=168)** Go back to your other window and copy the [[Representational State Transfer (REST)|rest]] of it.
 >
 > **[2:52](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/solution-manage-security?u=76281980&t=172)** Return to your terminal, bring your line back and paste it on the end then hit enter.
 >
@@ -3759,7 +3720,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (9), [[Security]] (4), [[HTML]] (4), web (3), [[Search]] (2)
+> **Frameworks & Libraries:** [[HTML]] (4), [[Linux]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** apache (9), sudo (4), ls (3), make (2), cat (1)
 > **Code Identifiers:** httpd_sys_content_t (3), user_home_t (2), ldz (2), httpd_read_user_content (1), httpd_sis_content_t (1)
 > **Tools:** terminal (2), command line (1), firefox (1)
@@ -3773,18 +3734,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Configure Secure Shell
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/configure-secure-shell?u=76281980)
+#### [Configure Secure Shell](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/configure-secure-shell?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/configure-secure-shell?u=76281980&t=0)** - [Instructor] Secure shell is the heart of remote access on Linux.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/configure-secure-shell?u=76281980&t=0)** - [Instructor] Secure shell is the heart of remote access on [[Linux]].
 >
 > **[0:04](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/configure-secure-shell?u=76281980&t=4)** SSH can provide us with an interactive login shell, non interactive remote command execution, secure copying of files from across the network, and simple network tunneling of other traffic.
 >
 > **[0:16](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/configure-secure-shell?u=76281980&t=16)** A working secure shell system comprises of an SSH client on the local host and an SSH server on a remote host connected with an encrypted tunnel.
 >
-> **[0:26](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/configure-secure-shell?u=76281980&t=26)** There are SSH clients for just about every desktop operating system made including Linux, macOS, and windows as well as iOS and Android.
+> **[0:26](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/configure-secure-shell?u=76281980&t=26)** There are SSH clients for just about every desktop operating system made including Linux, macOS, and [[Windows]] as well as iOS and [[Android]].
 >
 > **[0:34](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/configure-secure-shell?u=76281980&t=34)** There are SSH servers for most desktop and server operating systems.
 >
@@ -3804,7 +3764,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/configure-secure-shell?u=76281980&t=73)** The SSH server answers on port 22 by default.
 >
-> **[1:16](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/configure-secure-shell?u=76281980&t=76)** If you wanted to change this, you just edit the server configuration file.
+> **[1:16](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/configure-secure-shell?u=76281980&t=76)** If you wanted to change this, you just edit the [[Server Configuration]] file.
 >
 > **[1:20](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/configure-secure-shell?u=76281980&t=80)** There are many other options in that file, including items for ciphers, compression, access control and forwarding.
 >
@@ -3832,7 +3792,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (5), [[Windows]] (2), traffic (1), [[Android]] (1), [[Server Configuration]] (1)
+> **Frameworks & Libraries:** [[Linux]] (5), [[Windows]] (2), [[Android]] (1), [[Server Configuration]] (1)
 > **CLI Commands:** ssh (16), make (3)
 > **Env Vars:** ssh (10)
 > **Code Identifiers:** macos (2), ios (1), ssh_config (1), sshd_config (1)
@@ -3841,8 +3801,7 @@ created: 2026-05-02
 > **Documentation:** man page (1)
 > **Analogies:** for instance (1)
 
-#### Configure key-based authentication for SSH
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/configure-key-based-authentication-for-ssh?u=76281980)
+#### [Configure key-based authentication for SSH](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/configure-key-based-authentication-for-ssh?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3908,7 +3867,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (7)
 > **CLI Commands:** ssh (18), cat (3), ls (1), make (1)
 > **Env Vars:** ssh (5), rsa (2)
 > **Code Identifiers:** id_rsa (3), known_host (1), authorized_keys (1)
@@ -3916,9 +3874,9 @@ created: 2026-05-02
 > **Best Practices:** the key is (1), it's best to (1)
 > **Cross-References:** earlier in (1)
 > **Prerequisites:** configure (1)
+> **Speakers:** - [tutor] (1)
 
-#### Securely transfer files between systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/securely-transfer-files-between-systems?u=76281980)
+#### [Securely transfer files between systems](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/securely-transfer-files-between-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4044,7 +4002,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Security]] (3)
 > **Env Vars:** ssh (9), scp (8), rc4 (3), aes (2), sftp (2)
 > **CLI Commands:** ssh (10), cp (3), cat (2)
 > **Definitions:** is a  (4), is an  (2)
@@ -4052,13 +4009,13 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1), - a (1)
 > **Code Identifiers:** id_rsa (1)
 > **Ports:** port 1022 (1)
+> **Tools:** command line (1)
 
-#### Access Linux from Windows using PuTTY
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/access-linux-from-windows-using-putty?u=76281980)
+#### [Access Linux from Windows using PuTTY](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/access-linux-from-windows-using-putty?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/access-linux-from-windows-using-putty?u=76281980&t=0)** - [Instructor] To access the Linux command line remotely from windows.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/access-linux-from-windows-using-putty?u=76281980&t=0)** - [Instructor] To access the [[Linux]] command line remotely from [[Windows]].
 >
 > **[0:03](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/access-linux-from-windows-using-putty?u=76281980&t=3)** We're going to use a free program called PuTTY.
 >
@@ -4096,7 +4053,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/access-linux-from-windows-using-putty?u=76281980&t=74)** If you want to access files on the Linux host using windows without setting up a complex network file system, you can use winSCP.
 >
-> **[1:22](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/access-linux-from-windows-using-putty?u=76281980&t=82)** Let's go back to our web browser, and let's browse to [winscp.net/eng/download.php](https://winscp.net/eng/download.php).
+> **[1:22](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/access-linux-from-windows-using-putty?u=76281980&t=82)** Let's go back to our web browser, and let's browse to [winscp.net/eng/download.[[PHP]]](https://winscp.net/eng/download.php).
 >
 > **[1:31](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/access-linux-from-windows-using-putty?u=76281980&t=91)** And we'll click on the installation package.
 >
@@ -4138,7 +4095,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (5), [[Windows]] (4), web (2), next (2), [[PHP]] (1)
+> **Frameworks & Libraries:** [[Linux]] (5), [[Windows]] (4), [[PHP]] (1)
 > **UI Navigation:** click on (16), go to (1), scroll down (1)
 > **CLI Commands:** make (4), ssh (1), php (1)
 > **Code Identifiers:** winscp (3)
@@ -4147,12 +4104,11 @@ created: 2026-05-02
 > **Versions:** 10.3.66 (2)
 > **Prerequisites:** setup (1), install (1)
 
-#### Access Linux from macOS or Linux using SSH
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/access-linux-from-macos-or-linux-using-ssh?u=76281980)
+#### [Access Linux from macOS or Linux using SSH](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/access-linux-from-macos-or-linux-using-ssh?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/access-linux-from-macos-or-linux-using-ssh?u=76281980&t=0)** - [Instructor] Because macOS and Linux are both Unix-like operating systems, they have terminals and SSH capability built into them.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/access-linux-from-macos-or-linux-using-ssh?u=76281980&t=0)** - [Instructor] Because macOS and [[Linux]] are both Unix-like operating systems, they have terminals and SSH capability built into them.
 >
 > **[0:07](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/access-linux-from-macos-or-linux-using-ssh?u=76281980&t=7)** The way in which we access a Linux host from macOS or Linux is nearly identical so we'll cover them together.
 >
@@ -4170,7 +4126,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (4), [[Search]] (1), hit (1)
+> **Frameworks & Libraries:** [[Linux]] (4)
 > **Tools:** terminal (4)
 > **Code Identifiers:** macos (3)
 > **CLI Commands:** ssh (2)
@@ -4178,12 +4134,11 @@ created: 2026-05-02
 > **Versions:** 172.28.29 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Access Linux from iOS using SSH
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/access-linux-from-ios-using-ssh?u=76281980)
+#### [Access Linux from iOS using SSH](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/access-linux-from-ios-using-ssh?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/access-linux-from-ios-using-ssh?u=76281980&t=0)** - [Instructor] As tablets are getting larger and more powerful, accessing the Linux command line from iOS is becoming more common.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/access-linux-from-ios-using-ssh?u=76281980&t=0)** - [Instructor] As tablets are getting larger and more powerful, accessing the [[Linux]] command line from iOS is becoming more common.
 >
 > **[0:07](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/access-linux-from-ios-using-ssh?u=76281980&t=7)** To access our remote Linux host via an iPhone or iPad, we'll need to install an SSH client first.
 >
@@ -4227,7 +4182,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (7), hit (2), [[Security]] (1), feature (1)
+> **Frameworks & Libraries:** [[Linux]] (7)
 > **UI Navigation:** click on (6)
 > **Code Identifiers:** ios (3), iphone (1), ipad (1)
 > **CLI Commands:** ssh (3)
@@ -4236,8 +4191,7 @@ created: 2026-05-02
 > **Versions:** 10.16.18 (1)
 > **Tools:** command line (1)
 
-#### Access Linux from Android using SSH
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/access-linux-from-android-using-ssh?u=76281980)
+#### [Access Linux from Android using SSH](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/access-linux-from-android-using-ssh?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4245,9 +4199,9 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/access-linux-from-android-using-ssh?u=76281980&t=5)** Tablets are getting larger and more powerful.
 >
-> **[0:08](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/access-linux-from-android-using-ssh?u=76281980&t=8)** Accessing the Linux CLI from Android is becoming more common.
+> **[0:08](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/access-linux-from-android-using-ssh?u=76281980&t=8)** Accessing the [[Linux]] [[CLI]] from [[Android]] is becoming more common.
 >
-> **[0:12](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/access-linux-from-android-using-ssh?u=76281980&t=12)** To access our Linux VM from Android, you'll need to install Connect Bot from the Google Play Store.
+> **[0:12](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/access-linux-from-android-using-ssh?u=76281980&t=12)** To access our Linux VM from Android, you'll need to install Connect Bot from the [[Google]] Play Store.
 >
 > **[0:18](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/access-linux-from-android-using-ssh?u=76281980&t=18)** Search for Connect Bot and install it.
 >
@@ -4279,13 +4233,13 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/access-linux-from-android-using-ssh?u=76281980&t=81)** Most mobile platforms have SSH clients available.
 >
-> **[1:24](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/access-linux-from-android-using-ssh?u=76281980&t=84)** There's a version of Putty for Windows phone and Jolla Sailfish has a program called Terminal in it's app store.
+> **[1:24](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/access-linux-from-android-using-ssh?u=76281980&t=84)** There's a version of Putty for [[Windows]] phone and Jolla Sailfish has a program called Terminal in it's app store.
 >
 > **[1:29](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/access-linux-from-android-using-ssh?u=76281980&t=89)** No matter how you connect to your Linux host remotely, mobile solutions exist.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (3), [[Android]] (2), [[CLI]] (1), [[Google]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Linux]] (3), [[Android]] (2), [[CLI]] (1), [[Google]] (1), [[Windows]] (1)
 > **Prerequisites:** you'll need (2), install (2)
 > **Env Vars:** cli (1), ssh (1)
 > **UI Navigation:** select the (1), click on (1)
@@ -4299,12 +4253,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### List, create, and delete partitions on MBR and GPT disks
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/list-create-and-delete-partitions-on-mbr-and-gpt-disks?u=76281980)
+#### [List, create, and delete partitions on MBR and GPT disks](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/list-create-and-delete-partitions-on-mbr-and-gpt-disks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/list-create-and-delete-partitions-on-mbr-and-gpt-disks?u=76281980&t=0)** - [Tutor] Because we're working with virtual machines, we add additional drives a little different than in the physical world.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/list-create-and-delete-partitions-on-mbr-and-gpt-disks?u=76281980&t=0)** - [Tutor] Because we're working with [[Virtual Machines]], we add additional drives a little different than in the physical world.
 >
 > **[0:05](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/list-create-and-delete-partitions-on-mbr-and-gpt-disks?u=76281980&t=5)** Bring up your virtual machine manager window and click on your rhhost1 VM.
 >
@@ -4312,7 +4265,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/list-create-and-delete-partitions-on-mbr-and-gpt-disks?u=76281980&t=12)** Now click on the light bulb on the toolbar.
 >
-> **[0:13](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/list-create-and-delete-partitions-on-mbr-and-gpt-disks?u=76281980&t=13)** Here we can add hardware.
+> **[0:13](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/list-create-and-delete-partitions-on-mbr-and-gpt-disks?u=76281980&t=13)** Here we can add [[Hardware]].
 >
 > **[0:15](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/list-create-and-delete-partitions-on-mbr-and-gpt-disks?u=76281980&t=15)** Click on add hardware in the bottom left.
 >
@@ -4406,7 +4359,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/list-create-and-delete-partitions-on-mbr-and-gpt-disks?u=76281980&t=201)** Type in +500M.
 >
-> **[3:24](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/list-create-and-delete-partitions-on-mbr-and-gpt-disks?u=76281980&t=204)** This will create a 500 megabyte partition and leave the rest of the disc free.
+> **[3:24](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/list-create-and-delete-partitions-on-mbr-and-gpt-disks?u=76281980&t=204)** This will create a 500 megabyte partition and leave the [[Representational State Transfer (REST)|rest]] of the disc free.
 >
 > **[3:29](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/list-create-and-delete-partitions-on-mbr-and-gpt-disks?u=76281980&t=209)** Then hit enter.
 >
@@ -4438,7 +4391,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (9), [[Hardware]] (2), [[Virtual Machines]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Virtual Machines]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** gpt (5), bios (4), uefi (2), mbr (1), guid (1)
 > **UI Navigation:** click on (6), right-click (1)
 > **CLI Commands:** make (2), cat (2), sudo (2)
@@ -4447,8 +4400,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Prerequisites:** you'll need (1)
 
-#### Manage LVM volumes and volume groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/manage-lvm-volumes-and-volume-groups?u=76281980)
+#### [Manage LVM volumes and volume groups](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/manage-lvm-volumes-and-volume-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4564,7 +4516,7 @@ created: 2026-05-02
 >
 > **[4:30](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/manage-lvm-volumes-and-volume-groups?u=76281980&t=270)** We also have several choices for file systems.
 >
-> **[4:32](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/manage-lvm-volumes-and-volume-groups?u=76281980&t=272)** The historic Linux file system is ext2, which supports permissions and ownership but is not journalized.
+> **[4:32](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/manage-lvm-volumes-and-volume-groups?u=76281980&t=272)** The historic [[Linux]] file system is ext2, which supports permissions and ownership but is not journalized.
 >
 > **[4:38](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/manage-lvm-volumes-and-volume-groups?u=76281980&t=278)** If the system crashes, the operating system doesn't know what it was doing last because it wasn't writing it as a journal.
 >
@@ -4602,13 +4554,13 @@ created: 2026-05-02
 >
 > **[6:01](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/manage-lvm-volumes-and-volume-groups?u=76281980&t=361)** This one-page cheat sheet covers about 90% of what you'll need LVM for.
 >
-> **[6:05](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/manage-lvm-volumes-and-volume-groups?u=76281980&t=365)** The LVM advanced cheat sheet covers the rest.
+> **[6:05](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/manage-lvm-volumes-and-volume-groups?u=76281980&t=365)** The LVM advanced cheat sheet covers the [[Representational State Transfer (REST)|rest]].
 >
 > **[6:08](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/manage-lvm-volumes-and-volume-groups?u=76281980&t=368)** So be sure to check them out.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (12), data (7), [[Linux]] (3), management (2), next (1)
+> **Frameworks & Libraries:** [[Linux]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** sudo (11), make (4), find (1)
 > **Env Vars:** lvm (8), xfs (3), pvs (1), vgs (1), pdf (1)
 > **Definitions:** is a  (2)
@@ -4617,8 +4569,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Best Practices:** make sure to (1)
 
-#### Mount file systems at boot
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/mount-file-systems-at-boot?u=76281980)
+#### [Mount file systems at boot](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/mount-file-systems-at-boot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4694,7 +4645,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), hit (6)
 > **CLI Commands:** sudo (5), make (1), mkdir (1)
 > **Env Vars:** xfs (2), ftfs (2), edc (1)
 > **Tools:** terminal (1)
@@ -4702,8 +4652,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Mount file systems at boot by ID or label
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/mount-file-systems-at-boot-by-id-or-label?u=76281980)
+#### [Mount file systems at boot by ID or label](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/mount-file-systems-at-boot-by-id-or-label?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4749,7 +4698,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/mount-file-systems-at-boot-by-id-or-label?u=76281980&t=83)** Press N for a new partition and take the defaults for all other attributes.
 >
-> **[1:28](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/mount-file-systems-at-boot-by-id-or-label?u=76281980&t=88)** These will make a partition that will take up the rest of the drive.
+> **[1:28](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/mount-file-systems-at-boot-by-id-or-label?u=76281980&t=88)** These will make a partition that will take up the [[Representational State Transfer (REST)|rest]] of the drive.
 >
 > **[1:31](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/mount-file-systems-at-boot-by-id-or-label?u=76281980&t=91)** Press P to print the partition table.
 >
@@ -4885,7 +4834,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (16), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** vdb (18), uid (6), sdb (2), sdc (2), xfs (2)
 > **CLI Commands:** sudo (12), make (5), cat (1), mkdir (1)
 > **UI Navigation:** go to (1), scroll up (1)
@@ -4893,8 +4842,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Extend existing logical volumes
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/extend-existing-logical-volumes?u=76281980)
+#### [Extend existing logical volumes](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/extend-existing-logical-volumes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4904,7 +4852,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/extend-existing-logical-volumes?u=76281980&t=11)** Shut down our rhhost1 by right clicking on it and selecting shutdown and then shut down, and then go to the virtual machine manager agree window and click on your rhhost1 VM, and then click on open, now click on the light bulb.
 >
-> **[0:25](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/extend-existing-logical-volumes?u=76281980&t=25)** Now click on add hardware, make sure storage is selected and change the size to one gigabyte and then click on finish.
+> **[0:25](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/extend-existing-logical-volumes?u=76281980&t=25)** Now click on add [[Hardware]], make sure storage is selected and change the size to one gigabyte and then click on finish.
 >
 > **[0:33](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/extend-existing-logical-volumes?u=76281980&t=33)** Once tasks done power up your VM and then click on console.
 >
@@ -4960,7 +4908,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (14), management (1), [[Hardware]] (1), power (1), next (1)
+> **Frameworks & Libraries:** [[Hardware]] (1)
 > **CLI Commands:** sudo (10), make (3), cat (2)
 > **UI Navigation:** click on (6), go to (1)
 > **Env Vars:** xfs (2), ext3 (1), ext4 (1)
@@ -4969,16 +4917,15 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Mount and unmount CIFS and NFS network file systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/mount-and-unmount-cifs-and-nfs-network-file-systems?u=76281980)
+#### [Mount and unmount CIFS and NFS network file systems](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/mount-and-unmount-cifs-and-nfs-network-file-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/mount-and-unmount-cifs-and-nfs-network-file-systems?u=76281980&t=0)** - [Instructor] The two main types of network files systems in Linux are NFS and CIFS.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/mount-and-unmount-cifs-and-nfs-network-file-systems?u=76281980&t=0)** - [Instructor] The two main types of network files systems in [[Linux]] are NFS and CIFS.
 >
 > **[0:05](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/mount-and-unmount-cifs-and-nfs-network-file-systems?u=76281980&t=5)** NFS stands for network file system and is the Linux and Unix default.
 >
-> **[0:09](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/mount-and-unmount-cifs-and-nfs-network-file-systems?u=76281980&t=9)** CIFS is a network file system of Windows.
+> **[0:09](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/mount-and-unmount-cifs-and-nfs-network-file-systems?u=76281980&t=9)** CIFS is a network file system of [[Windows]].
 >
 > **[0:12](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/mount-and-unmount-cifs-and-nfs-network-file-systems?u=76281980&t=12)** In order to mount a remote NFS file system, we need to make sure we have the nfs-utils package installed.
 >
@@ -5052,7 +4999,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (4), [[Linux]] (2), [[Troubleshooting]] (1), next (1)
+> **Frameworks & Libraries:** [[Windows]] (4), [[Linux]] (2)
 > **Env Vars:** nfs (8), cifs (5), url (2), ftp (1)
 > **Definitions:** is a  (4), stands for (1), means that (1)
 > **CLI Commands:** make (2)
@@ -5061,8 +5008,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Local storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/challenge-local-storage?u=76281980)
+#### [Challenge: Local storage](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/challenge-local-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5102,15 +5048,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** rhs (1), lvm (1), ncfs (1)
 > **Prerequisites:** you'll need (3)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Local storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/solution-local-storage?u=76281980)
+#### [Solution: Local storage](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/solution-local-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5126,7 +5070,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/solution-local-storage?u=76281980&t=32)** And then click on Open and click on the light bulb.
 >
-> **[0:36](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/solution-local-storage?u=76281980&t=36)** Now, click on Add Hardware, and make sure storage is selected and change the size to one gigabyte.
+> **[0:36](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/solution-local-storage?u=76281980&t=36)** Now, click on Add [[Hardware]], and make sure storage is selected and change the size to one gigabyte.
 >
 > **[0:42](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/solution-local-storage?u=76281980&t=42)** Now click on finish.
 >
@@ -5272,11 +5216,11 @@ created: 2026-05-02
 >
 > **[5:54](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/solution-local-storage?u=76281980&t=354)** If you created a snapshot of your VM and want to try the challenge again, just run the snapshot and start the challenge over.
 >
-> **[5:59](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/solution-local-storage?u=76281980&t=359)** Sometimes with KVM virtual machines, you need to manually delete the extra storage devices that are not in the previous snapshot before restoring it.
+> **[5:59](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/solution-local-storage?u=76281980&t=359)** Sometimes with KVM [[Virtual Machines]], you need to manually delete the extra storage devices that are not in the previous snapshot before restoring it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (22), [[Hardware]] (2), power (2), [[Virtual Machines]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Virtual Machines]] (1)
 > **CLI Commands:** sudo (14), make (5), mkdir (1)
 > **Env Vars:** xfs (4), xefs (2), lvm (1), free (1), kvm (1)
 > **UI Navigation:** click on (7), go to (1)
@@ -5289,12 +5233,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### About containers on Enterprise Linux
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/about-containers-on-enterprise-linux?u=76281980)
+#### [About containers on Enterprise Linux](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/about-containers-on-enterprise-linux?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/about-containers-on-enterprise-linux?u=76281980&t=0)** - [Instructor] Virtual machines or VMs are an abstraction of physical hardware.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/about-containers-on-enterprise-linux?u=76281980&t=0)** - [Instructor] [[Virtual Machines]] or VMs are an abstraction of physical [[Hardware]].
 >
 > **[0:04](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/about-containers-on-enterprise-linux?u=76281980&t=4)** A hypervisor allows running software machines containing full operating systems with libraries and applications.
 >
@@ -5312,7 +5255,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/about-containers-on-enterprise-linux?u=76281980&t=54)** When you pull down a container, you're only downloading the application and the necessary bits for it to run.
 >
-> **[0:59](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/about-containers-on-enterprise-linux?u=76281980&t=59)** There are a lot of container technologies on Linux, including Docker.
+> **[0:59](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/about-containers-on-enterprise-linux?u=76281980&t=59)** There are a lot of container technologies on [[Linux]], including Docker.
 >
 > **[1:02](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/about-containers-on-enterprise-linux?u=76281980&t=62)** However, Red Hat implements containers using open core technologies, including control groups for resource management, namespaces for process isolation, SELinux for security and secure multi-tenancy.
 >
@@ -5402,7 +5345,7 @@ created: 2026-05-02
 >
 > **[5:08](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/about-containers-on-enterprise-linux?u=76281980&t=308)** These include the systemd init system, which allows you to have services start up automatically.
 >
-> **[5:13](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/about-containers-on-enterprise-linux?u=76281980&t=313)** They have the full DNF package management system with DNF repositories.
+> **[5:13](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/about-containers-on-enterprise-linux?u=76281980&t=313)** They have the full DNF [[Package Management]] system with DNF repositories.
 >
 > **[5:18](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/about-containers-on-enterprise-linux?u=76281980&t=318)** They also include standard utilities like tar, dmidecode, gzip, ASIL commands and others.
 >
@@ -5438,7 +5381,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (9), application (5), [[Security]] (3), [[Virtual Machines]] (2), [[Hardware]] (2)
+> **Frameworks & Libraries:** [[Linux]] (9), [[Virtual Machines]] (2), [[Hardware]] (2), [[Package Management]] (1)
 > **Env Vars:** ubi (17), dnf (5), oci (2), api (2), rhel (2)
 > **CLI Commands:** docker (13), dnf (5), node (2), apache (1), tar (1)
 > **Analogies:** similar to (1), for instance (1)
@@ -5447,12 +5390,11 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Warnings:** be aware (1)
 
-#### Retrieve container images from a remote registry
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/retrieve-container-images-from-a-remote-registry?u=76281980)
+#### [Retrieve container images from a remote registry](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/retrieve-container-images-from-a-remote-registry?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/retrieve-container-images-from-a-remote-registry?u=76281980&t=0)** - [Instructor] To get started with using containers on Enterprise Linux, you need to install some software using dnf install.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/retrieve-container-images-from-a-remote-registry?u=76281980&t=0)** - [Instructor] To get started with using containers on Enterprise [[Linux]], you need to install some software using dnf install.
 >
 > **[0:06](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/retrieve-container-images-from-a-remote-registry?u=76281980&t=6)** If it's using DNF, install the container-tools meta-package by typing into a terminal sudo dnf install container-tools and hit Enter.
 >
@@ -5490,7 +5432,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/retrieve-container-images-from-a-remote-registry?u=76281980&t=116)** You can display the container registries using the podman info command.
 >
-> **[2:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/retrieve-container-images-from-a-remote-registry?u=76281980&t=120)** Type in podman info -f json, for file format, | jq ' .registries ["search"]' and hit Enter.
+> **[2:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/retrieve-container-images-from-a-remote-registry?u=76281980&t=120)** Type in podman info -f [[JSON]], for file format, | jq ' .registries ["search"]' and hit Enter.
 >
 > **[2:22](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/retrieve-container-images-from-a-remote-registry?u=76281980&t=142)** Here you can see the registries in JSON format.
 >
@@ -5562,7 +5504,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (10), [[Search]] (5), prompt (3), [[Linux]] (2), [[JSON]] (2)
+> **Frameworks & Libraries:** [[Linux]] (2), [[JSON]] (2)
 > **CLI Commands:** docker (7), dnf (4), find (2), sudo (1)
 > **URLs:** [redhat.com](https://redhat.com) (5), [docker.io](https://docker.io) (4), [redhat.io](https://redhat.io) (2), [registries.com](https://registries.com) (1)
 > **Prerequisites:** install (5), you'll need (1), set up (1)
@@ -5571,8 +5513,7 @@ created: 2026-05-02
 > **Tools:** terminal (2)
 > **Best Practices:** recommended (1)
 
-#### Inspect container images
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/inspect-container-images?u=76281980)
+#### [Inspect container images](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/inspect-container-images?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5612,7 +5553,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), [[Search]] (1)
 > **URLs:** [redhat.com](https://redhat.com) (3)
 > **CLI Commands:** find (1), docker (1)
 > **Env Vars:** ubi (1), cpu (1)
@@ -5621,8 +5561,7 @@ created: 2026-05-02
 > **Tools:** bash (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing containers
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/managing-containers?u=76281980)
+#### [Managing containers](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/managing-containers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5716,7 +5655,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (8), prompt (1)
 > **Tools:** terminal (7), bash (2)
 > **CLI Commands:** rm (4), cat (1), dnf (1)
 > **Speakers:** - [narrator] (1), - a (1), - n (1), - rm (1), - t (1)
@@ -5725,8 +5663,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Prerequisites:** install (1)
 
-#### Working with container images
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/working-with-container-images?u=76281980)
+#### [Working with container images](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/working-with-container-images?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5758,7 +5695,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/working-with-container-images?u=76281980&t=97)** Uppercase HOME slash .local, slash share slash images slash nginx and hit Enter.
 >
-> **[1:46](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/working-with-container-images?u=76281980&t=106)** There is a manifest.json file in this directory.
+> **[1:46](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/working-with-container-images?u=76281980&t=106)** There is a manifest.[[JSON]] file in this directory.
 >
 > **[1:49](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/working-with-container-images?u=76281980&t=109)** Let's view it using CAT.
 >
@@ -5848,7 +5785,7 @@ created: 2026-05-02
 >
 > **[6:22](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/working-with-container-images?u=76281980&t=382)** You can use the podman export command to export the file system of a running container to your local machine.
 >
-> **[6:28](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/working-with-container-images?u=76281980&t=388)** This would be useful if you wanted to snapshot a container in order to revert it later much in the same way as we do with virtual machines.
+> **[6:28](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/working-with-container-images?u=76281980&t=388)** This would be useful if you wanted to snapshot a container in order to revert it later much in the same way as we do with [[Virtual Machines]].
 >
 > **[6:36](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/working-with-container-images?u=76281980&t=396)** First you run podman export to export the file system to a tar ball and then you use podman import to import the tarball and save it as a file system image.
 >
@@ -5910,7 +5847,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (18), [[JSON]] (2), [[Virtual Machines]] (1)
+> **Frameworks & Libraries:** [[JSON]] (2), [[Virtual Machines]] (1)
 > **CLI Commands:** tar (12), nginx (7), docker (6), cat (3), mkdir (1)
 > **URLs:** [redhat.com](https://redhat.com) (5), [docker.io](https://docker.io) (2), [quay.io](https://quay.io) (1), [example.com](https://example.com) (1)
 > **Env Vars:** home (4), ubi (3), cat (1), oci (1)
@@ -5919,8 +5856,7 @@ created: 2026-05-02
 > **Warnings:** note that (3), be careful (1)
 > **Prerequisites:** you'll need (3)
 
-#### Build a container from a container file
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/build-a-container-from-a-container-file?u=76281980)
+#### [Build a container from a container file](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/build-a-container-from-a-container-file?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5936,7 +5872,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/build-a-container-from-a-container-file?u=76281980&t=25)** These container files can be easily modified, saved, and shared with others.
 >
-> **[0:30](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/build-a-container-from-a-container-file?u=76281980&t=30)** A container file contains the instructions needed to build a new container image, and as they are text files, can be shared using version control systems, such as Git.
+> **[0:30](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/build-a-container-from-a-container-file?u=76281980&t=30)** A container file contains the instructions needed to build a new container image, and as they are text files, can be shared using [[Version Control]] systems, such as [[Git]].
 >
 > **[0:38](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/build-a-container-from-a-container-file?u=76281980&t=38)** In this first exercise, we'll pull down an UBI image and add software to it.
 >
@@ -5986,7 +5922,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/build-a-container-from-a-container-file?u=76281980&t=177)** Hit enter.
 >
-> **[2:58](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/build-a-container-from-a-container-file?u=76281980&t=178)** Now typing in RUN, uppercase letters, space, echo, space, double quote, "Successful Web Server Test", double quote, space, greater than, space, /var/www/html/index.html.
+> **[2:58](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/build-a-container-from-a-container-file?u=76281980&t=178)** Now typing in RUN, uppercase letters, space, echo, space, double quote, "Successful Web Server Test", double quote, space, greater than, space, /var/www/[[HTML]]/index.html.
 >
 > **[3:21](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/build-a-container-from-a-container-file?u=76281980&t=201)** This will be our default webpage.
 >
@@ -6028,7 +5964,7 @@ created: 2026-05-02
 >
 > **[5:10](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/build-a-container-from-a-container-file?u=76281980&t=310)** Before we run it, we will change a few system settings.
 >
-> **[5:13](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/build-a-container-from-a-container-file?u=76281980&t=313)** If you want to run containers with systemd while SE Linux is enabled on your system, you must set the container_manage_cgroup Boolean variable.
+> **[5:13](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/build-a-container-from-a-container-file?u=76281980&t=313)** If you want to run containers with systemd while SE [[Linux]] is enabled on your system, you must set the container_manage_cgroup Boolean variable.
 >
 > **[5:21](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/build-a-container-from-a-container-file?u=76281980&t=321)** Type in sudo, space, setsebool, space, dash, capital P to add it to the policy, space, container_manage_cgroup, space, 1 and hit enter.
 >
@@ -6064,7 +6000,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (15), [[HTML]] (4), web (3), [[Version Control]] (1), [[Git]] (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[Version Control]] (1), [[Git]] (1), [[Linux]] (1)
 > **CLI Commands:** dnf (4), mkdir (2), systemctl (2), make (2), sudo (2)
 > **Env Vars:** ubi (7), dnf (2), run (2), rhel (1), httpd (1)
 > **Code Identifiers:** container_manage_cgroup (2), ip_unprivileged_port_start (2), myhttpd_run (1)
@@ -6073,12 +6009,11 @@ created: 2026-05-02
 > **Ports:** port 80 (2), :80 (1)
 > **URLs:** [redhat.com](https://redhat.com) (2)
 
-#### Configure a container to start automatically as a systemd service
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/configure-a-container-to-start-automatically-as-a-systemd-service?u=76281980)
+#### [Configure a container to start automatically as a systemd service](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/configure-a-container-to-start-automatically-as-a-systemd-service?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/configure-a-container-to-start-automatically-as-a-systemd-service?u=76281980&t=0)** - [Instructor] Remember that containers are just packaged and configured applications and even if they resemble virtual machines on occasion, they are not.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/configure-a-container-to-start-automatically-as-a-systemd-service?u=76281980&t=0)** - [Instructor] Remember that containers are just packaged and configured applications and even if they resemble [[Virtual Machines]] on occasion, they are not.
 >
 > **[0:07](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/configure-a-container-to-start-automatically-as-a-systemd-service?u=76281980&t=7)** They were never designed to be virtual machines providing full operating system functionality, but in contrast, we're designed to compartmentalize applications and utilize as much of the host OS as possible.
 >
@@ -6196,13 +6131,13 @@ created: 2026-05-02
 >
 > **[6:36](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/configure-a-container-to-start-automatically-as-a-systemd-service?u=76281980&t=396)** To run the container as a system service, you'll need to copy the systemd unit files from your home directory to the /etc/systemd systemdirectory.
 >
-> **[6:45](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/configure-a-container-to-start-automatically-as-a-systemd-service?u=76281980&t=405)** You'll need to elevate privileges and we'll also want to ensure the SE Linux security context is correct.
+> **[6:45](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/configure-a-container-to-start-automatically-as-a-systemd-service?u=76281980&t=405)** You'll need to elevate privileges and we'll also want to ensure the SE [[Linux]] security context is correct.
 >
 > **[6:51](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/configure-a-container-to-start-automatically-as-a-systemd-service?u=76281980&t=411)** Then reload the systemd configuration and start the service.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (7), [[Virtual Machines]] (2), [[Linux]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Virtual Machines]] (2), [[Linux]] (1)
 > **CLI Commands:** systemctl (8), sudo (3), mkdir (2), cat (1)
 > **Env Vars:** home (4), oci (1)
 > **File Paths:** home/.config (4)
@@ -6211,8 +6146,7 @@ created: 2026-05-02
 > **URLs:** [redhat.com](https://redhat.com) (1)
 > **Tools:** terminal (1)
 
-#### Attach persistent storage to a container
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/attach-persistent-storage-to-a-container?u=76281980)
+#### [Attach persistent storage to a container](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/attach-persistent-storage-to-a-container?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6298,7 +6232,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (7), data (4)
 > **File Paths:** hostmessage.txt (3), containervol/containermessage.txt (1)
 > **CLI Commands:** ls (3), make (1)
 > **Tools:** terminal (3), bash (1)
@@ -6312,8 +6245,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6329,7 +6261,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/next-steps?u=76281980&t=29)** The exam lasts 2.5 hours and internet access is not provided during the test nor are outside material permitted.
 >
-> **[0:36](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/next-steps?u=76281980&t=36)** Documentation that ships with Red Hat Enterprise Linux is available though.
+> **[0:36](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/next-steps?u=76281980&t=36)** Documentation that ships with Red Hat Enterprise [[Linux]] is available though.
 >
 > **[0:41](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/next-steps?u=76281980&t=41)** Also study the cheat sheets available in each chapter.
 >
@@ -6349,7 +6281,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (3), product (1)
+> **Frameworks & Libraries:** [[Linux]] (3)
 > **Env Vars:** rhcsa (4), csa (1)
 > **CLI Commands:** make (1)
 > **Versions:** 2.5 (1)

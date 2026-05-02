@@ -86,8 +86,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding cash flow analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/understanding-cash-flow-analysis?u=76281980)
+#### [Understanding cash flow analysis](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/understanding-cash-flow-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -107,7 +106,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/understanding-cash-flow-analysis?u=76281980&t=31)** In this course, we will discuss the basics of cash flow analysis.
 >
-> **[0:35](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/understanding-cash-flow-analysis?u=76281980&t=35)** We will take a detailed look at that most wonderful of all financial statements, the statement of cash flows.
+> **[0:35](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/understanding-cash-flow-analysis?u=76281980&t=35)** We will take a detailed look at that most wonderful of all [[Financial Statements]], the statement of cash flows.
 >
 > **[0:41](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/understanding-cash-flow-analysis?u=76281980&t=41)** - [Kay] We will learn what a cash cow is and where we give you a look at the famous Jim Stice Operating Cash Flow Matrix.
 >
@@ -138,8 +137,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Home Depot, 1985: Case study
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/home-depot-1985-case-study?u=76281980)
+#### [Home Depot, 1985: Case study](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/home-depot-1985-case-study?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -153,7 +151,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/home-depot-1985-case-study?u=76281980&t=23)** The case was written by professor Krishna Palepu.
 >
-> **[0:26](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/home-depot-1985-case-study?u=76281980&t=26)** - An analysis of Home Depot's financial statements from 1985 reveals that the company's income was down, but the income drop doesn't appear to be an immediate crisis.
+> **[0:26](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/home-depot-1985-case-study?u=76281980&t=26)** - An analysis of Home Depot's [[Financial Statements]] from 1985 reveals that the company's income was down, but the income drop doesn't appear to be an immediate crisis.
 >
 > **[0:35](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/home-depot-1985-case-study?u=76281980&t=35)** - Not a crisis until you look at the cash flow numbers.
 >
@@ -201,11 +199,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), [[Financial Statements]] (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (1)
 > **Speakers:** - [man (6), - in (2), - most (1), - an (1), - not (1)
 
-#### Net income is not the same as operating cash flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/net-income-is-not-the-same-as-operating-cash-flow-14332590?u=76281980)
+#### [Net income is not the same as operating cash flow](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/net-income-is-not-the-same-as-operating-cash-flow-14332590?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -247,7 +244,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/net-income-is-not-the-same-as-operating-cash-flow-14332590?u=76281980&t=101)** Transaction C, now we collected some cash, $13 million.
 >
-> **[1:47](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/net-income-is-not-the-same-as-operating-cash-flow-14332590?u=76281980&t=107)** Transaction D, and here we spent some cash, $15 million to buy computer hardware and software.
+> **[1:47](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/net-income-is-not-the-same-as-operating-cash-flow-14332590?u=76281980&t=107)** Transaction D, and here we spent some cash, $15 million to buy computer [[Hardware]] and software.
 >
 > **[1:52](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/net-income-is-not-the-same-as-operating-cash-flow-14332590?u=76281980&t=112)** The cash flow calculation is simple.
 >
@@ -335,13 +332,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (2), business (2), data (2), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (2)
 > **Definitions:** defined as (2), is an  (1), is called (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - a (1)
 
-#### Cash flow problems kill companies
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/cash-flow-problems-kill-companies-14332588?u=76281980)
+#### [Cash flow problems kill companies](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/cash-flow-problems-kill-companies-14332588?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -439,7 +435,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (9), management (2), [[Security]] (1)
 > **CLI Commands:** make (4)
 > **Cross-References:** coming up (1)
 > **UI Navigation:** open the (1)
@@ -452,8 +447,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to the statement of cash flows
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/introduction-to-the-statement-of-cash-flows-14328741?u=76281980)
+#### [Introduction to the statement of cash flows](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/introduction-to-the-statement-of-cash-flows-14328741?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -501,23 +495,22 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/introduction-to-the-statement-of-cash-flows-14328741?u=76281980&t=91)** - Well, you've heard of these.
 >
-> **[1:32](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/introduction-to-the-statement-of-cash-flows-14328741?u=76281980&t=92)** Coca-Cola, Exxon Mobil, Apple, Microsoft.
+> **[1:32](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/introduction-to-the-statement-of-cash-flows-14328741?u=76281980&t=92)** Coca-Cola, Exxon Mobil, Apple, [[Microsoft]].
 >
 > **[1:36](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/introduction-to-the-statement-of-cash-flows-14328741?u=76281980&t=96)** - Cash cows, moo.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), next (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1)
 > **Speakers:** - okay (3), - well (3), - the (2), - don (1), - yeah (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 
-#### Overview of the statement of cash flows
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/overview-of-the-statement-of-cash-flows-14331573?u=76281980)
+#### [Overview of the statement of cash flows](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/overview-of-the-statement-of-cash-flows-14331573?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/overview-of-the-statement-of-cash-flows-14331573?u=76281980&t=1)** - The statement of cash flows is the baby of the financial statements.
+> **[0:01](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/overview-of-the-statement-of-cash-flows-14331573?u=76281980&t=1)** - The statement of cash flows is the baby of the [[Financial Statements]].
 >
 > **[0:04](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/overview-of-the-statement-of-cash-flows-14331573?u=76281980&t=4)** The balance sheet and the income statement have been around for over 500 years.
 >
@@ -601,12 +594,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), [[Financial Statements]] (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
 
-#### Practice categorizing cash flows
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/practice-categorizing-cash-flows-14327842?u=76281980)
+#### [Practice categorizing cash flows](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/practice-categorizing-cash-flows-14327842?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -688,7 +680,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/practice-categorizing-cash-flows-14327842?u=76281980&t=192)** For our purposes here, it is best to just think of an operating lease as being the same as a rental.
 >
-> **[3:18](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/practice-categorizing-cash-flows-14327842?u=76281980&t=198)** A rental payment is an operating activity, a routine part of our business operations.
+> **[3:18](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/practice-categorizing-cash-flows-14327842?u=76281980&t=198)** A rental payment is an operating activity, a routine part of our [[Business Operations]].
 >
 > **[3:24](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/practice-categorizing-cash-flows-14327842?u=76281980&t=204)** Number 12, interest totaling $16,000 was paid in cash during the year.
 >
@@ -746,12 +738,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6)
+> **Frameworks & Libraries:** [[Business Operations]] (1)
 > **Definitions:** is an  (7), is a  (4)
 > **Speakers:** - let (1)
 
-#### Deducing cash flow statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/deducing-cash-flow-statements?u=76281980)
+#### [Deducing cash flow statements](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/deducing-cash-flow-statements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -775,7 +766,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/deducing-cash-flow-statements?u=76281980&t=47)** Let's learn how to do this.
 >
-> **[0:48](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/deducing-cash-flow-statements?u=76281980&t=48)** This skill is useful in and of itself, but this is also a useful exercise in that we learn how all three financial statements relate to one another.
+> **[0:48](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/deducing-cash-flow-statements?u=76281980&t=48)** This skill is useful in and of itself, but this is also a useful exercise in that we learn how all three [[Financial Statements]] relate to one another.
 >
 > **[0:56](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/deducing-cash-flow-statements?u=76281980&t=56)** Here are income statement data for Evie Company.
 >
@@ -909,13 +900,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), business (1), [[Financial Statements]] (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - it (1)
 
-#### Interpreting Walmart's statement of cash flows
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/interpreting-walmart-s-statement-of-cash-flows-14328740?u=76281980)
+#### [Interpreting Walmart's statement of cash flows](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/interpreting-walmart-s-statement-of-cash-flows-14328740?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1025,7 +1015,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), next (1)
 > **Definitions:** means that (2), is called (2), is a  (2), is an  (1), in other words (1)
 > **Versions:** 7.6 (2)
 > **CLI Commands:** make (1)
@@ -1037,8 +1026,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Mortgage loan application
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/mortgage-loan-application-14329775?u=76281980)
+#### [Mortgage loan application](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/mortgage-loan-application-14329775?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1078,13 +1066,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3)
 > **Speakers:** - [speaker (2), - imagine (1), - now (1), - a (1), - gaining (1)
 > **CLI Commands:** make (7)
 > **Analogies:** imagine (2), such as (2)
 
-#### Interpreting free cash flow statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/interpreting-free-cash-flow-statements?u=76281980)
+#### [Interpreting free cash flow statements](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/interpreting-free-cash-flow-statements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1198,11 +1184,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), business (1), next (1)
 > **Speakers:** - for (1)
 
-#### Relationships in cash flow statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/relationships-in-cash-flow-statements?u=76281980)
+#### [Relationships in cash flow statements](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/relationships-in-cash-flow-statements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1250,13 +1234,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Definitions:** means that (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - okay (1)
 
-#### Determining loan decisions
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/determining-loan-decisions?u=76281980)
+#### [Determining loan decisions](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/determining-loan-decisions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1330,12 +1312,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - okay (1)
 
-#### Classifying a cash cow company
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/classifying-a-cash-cow-company?u=76281980)
+#### [Classifying a cash cow company](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/classifying-a-cash-cow-company?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1405,7 +1385,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is called (1)
 > **Speakers:** - okay (1)
@@ -1415,8 +1394,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The Jim Stice operating cash flow matrix
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/the-jim-stice-operating-cash-flow-matrix-14326799?u=76281980)
+#### [The Jim Stice operating cash flow matrix](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/the-jim-stice-operating-cash-flow-matrix-14326799?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1489,8 +1467,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 
-#### Understanding the direct method
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/understanding-the-direct-method?u=76281980)
+#### [Understanding the direct method](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/understanding-the-direct-method?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1594,13 +1571,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **Definitions:** is a  (2), in other words (1)
 > **Warnings:** note that (1), caution (1)
 > **Speakers:** - let (1)
 
-#### Understanding the indirect method
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/understanding-the-indirect-method?u=76281980)
+#### [Understanding the indirect method](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/understanding-the-indirect-method?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1764,7 +1739,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), management (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -1772,8 +1746,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - let (1)
 
-#### Operating cash flow data as an IPO reality check
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/operating-cash-flow-data-as-an-ipo-reality-check-14331571?u=76281980)
+#### [Operating cash flow data as an IPO reality check](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/operating-cash-flow-data-as-an-ipo-reality-check-14331571?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1929,7 +1902,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), application (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (1)
 > **Env Vars:** ipo (1)
@@ -1937,8 +1909,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - here (1)
 
-#### Identifying economic performance
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/identifying-economic-performance?u=76281980)
+#### [Identifying economic performance](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/identifying-economic-performance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2052,15 +2023,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - here (1)
 
-#### Operating cash flow problems from high growth
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/operating-cash-flow-problems-from-high-growth-14328738?u=76281980)
+#### [Operating cash flow problems from high growth](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/operating-cash-flow-problems-from-high-growth-14328738?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2154,7 +2123,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1)
 > **Definitions:** is a  (3), means that (2)
 > **Speakers:** - here (1)
 
@@ -2163,8 +2131,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The Home Depot story revisited
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/the-home-depot-story-revisited-14330683?u=76281980)
+#### [The Home Depot story revisited](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/the-home-depot-story-revisited-14330683?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2214,11 +2181,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2)
 > **Speakers:** - in (5), - [instructor (3), - it (2), - when (1), - so (1)
 
-#### Managing operating cash flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/managing-operating-cash-flow-14328743?u=76281980)
+#### [Managing operating cash flow](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/managing-operating-cash-flow-14328743?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2316,14 +2281,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), data (1), business (1)
 > **Definitions:** means that (2), is a  (2), is called (1), we call this (1)
 > **CLI Commands:** make (4)
 > **Analogies:** such as (2)
 > **Speakers:** - for (1)
 
-#### Managing investing cash flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/managing-investing-cash-flow-14329776?u=76281980)
+#### [Managing investing cash flow](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/managing-investing-cash-flow-14329776?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2415,7 +2378,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (1), management (1), next (1), business (1)
 > **Analogies:** such as (4), for example (2)
 > **Definitions:** is called (2), is a  (2), is an  (1)
 > **Versions:** 6.67 (2)
@@ -2423,14 +2385,13 @@ created: 2026-05-02
 > **Env Vars:** npv (1)
 > **Speakers:** - capital (1)
 
-#### Managing financing cash flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/managing-financing-cash-flow-14332591?u=76281980)
+#### [Managing financing cash flow](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/managing-financing-cash-flow-14332591?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/managing-financing-cash-flow-14332591?u=76281980&t=0)** - The two sources of cash from financing activities are borrowing and owner investment.
 >
-> **[0:06](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/managing-financing-cash-flow-14332591?u=76281980&t=6)** The most desirable sequence of decision-making with respect to cash from financing activities is as follows: forecast the level of activity, such as the level of sales.
+> **[0:06](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/managing-financing-cash-flow-14332591?u=76281980&t=6)** The most desirable sequence of [[Decision-Making]] with respect to cash from financing activities is as follows: forecast the level of activity, such as the level of sales.
 >
 > **[0:16](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/managing-financing-cash-flow-14332591?u=76281980&t=16)** Evaluate the amount of cash that will be generated from or consumed by operating activities.
 >
@@ -2446,7 +2407,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/managing-financing-cash-flow-14332591?u=76281980&t=64)** An important cash outflow from financing activities is the payment of cash dividends.
 >
-> **[1:09](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/managing-financing-cash-flow-14332591?u=76281980&t=69)** A key question in the field of corporate finance is, why do companies pay cash dividends?
+> **[1:09](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/managing-financing-cash-flow-14332591?u=76281980&t=69)** A key question in the field of [[Corporate Finance]] is, why do companies pay cash dividends?
 >
 > **[1:14](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/managing-financing-cash-flow-14332591?u=76281980&t=74)** Most established companies pay dividends.
 >
@@ -2488,7 +2449,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/managing-financing-cash-flow-14332591?u=76281980&t=162)** And he told me them in reverse order.
 >
-> **[2:44](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/managing-financing-cash-flow-14332591?u=76281980&t=164)** He said, "Number three most important, the financial statements."
+> **[2:44](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/managing-financing-cash-flow-14332591?u=76281980&t=164)** He said, "Number three most important, the [[Financial Statements]]."
 >
 > **[2:47](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/managing-financing-cash-flow-14332591?u=76281980&t=167)** Now this was disappointing to me because I, as an accounting professor, was under the mistaken impression that the numbers, the financial statement numbers are everything, liquidity measures and cashflow projections and so forth.
 >
@@ -2502,11 +2463,11 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/managing-financing-cash-flow-14332591?u=76281980&t=209)** In contrast, people of low character will immediately begin thinking of ways to not pay back the loan.
 >
-> **[3:35](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/managing-financing-cash-flow-14332591?u=76281980&t=215)** So in addition to forecasting cash flows and capital budgeting needs, an important part of managing financing activities is to maintain your credibility with outsiders from whom you will have to request those financing cash inflows.
+> **[3:35](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/managing-financing-cash-flow-14332591?u=76281980&t=215)** So in addition to [[Forecasting]] cash flows and capital budgeting needs, an important part of managing financing activities is to maintain your credibility with outsiders from whom you will have to request those financing cash inflows.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Decision-Making]] (1), [[Corporate Finance]] (1), [[Financial Statements]] (1), business (1), [[Forecasting]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1), [[Corporate Finance]] (1), [[Financial Statements]] (1), [[Forecasting]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -2518,8 +2479,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tough times in 2008, except for Exxon Mobil
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/tough-times-in-2008-except-for-exxon-mobil-14327838?u=76281980)
+#### [Tough times in 2008, except for Exxon Mobil](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/tough-times-in-2008-except-for-exxon-mobil-14327838?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2591,15 +2551,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Speakers:** - wow (2), - an (2), - well (2), - i (1), - me (1)
 > **Versions:** 59.725 (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Analyzing General Motors’ free cash flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/analyzing-general-motors-free-cash-flow?u=76281980)
+#### [Analyzing General Motors’ free cash flow](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/analyzing-general-motors-free-cash-flow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2717,15 +2675,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), next (2)
 > **Versions:** 19.561 (1), 1.37 (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Speakers:** - we (1)
 
-#### Apple: Cash flow data helps unravel accounting issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/apple-cash-flow-data-helps-unravel-accounting-issues?u=76281980)
+#### [Apple: Cash flow data helps unravel accounting issues](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/apple-cash-flow-data-helps-unravel-accounting-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2803,7 +2759,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** iphone (10), iphones (1)
 > **Versions:** 36.537 (1), 42.905 (1), 5.704 (1), 8.235 (1), 10.159 (1)
 > **CLI Commands:** find (1)
@@ -2812,8 +2767,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - let (1)
 
-#### The danger of free cash flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/the-danger-of-free-cash-flow-14327835?u=76281980)
+#### [The danger of free cash flow](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/the-danger-of-free-cash-flow-14327835?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2877,7 +2831,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (5)
 > **Env Vars:** rjr (4), lbo (4), ceo (3)
 > **Tools:** terminal (1)
 > **Definitions:** is a  (1)
@@ -2889,8 +2842,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Manage company cash flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/manage-company-cash-flow?u=76281980)
+#### [Manage company cash flow](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/manage-company-cash-flow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2900,9 +2852,9 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/manage-company-cash-flow?u=76281980&t=8)** - I have a friend who is a small business owner.
 >
-> **[0:11](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/manage-company-cash-flow?u=76281980&t=11)** Let's talk about his cash flow management practices.
+> **[0:11](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/manage-company-cash-flow?u=76281980&t=11)** Let's talk about his [[Cash Flow Management]] practices.
 >
-> **[0:14](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/manage-company-cash-flow?u=76281980&t=14)** I will disguise the actual nature of his business to preserve his privacy.
+> **[0:14](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/manage-company-cash-flow?u=76281980&t=14)** I will disguise the actual nature of his business to preserve his [[Privacy]].
 >
 > **[0:17](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/manage-company-cash-flow?u=76281980&t=17)** - So, what's the nature of his cash flow management issues?
 >
@@ -2978,7 +2930,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (8), [[Cash Flow Management]] (2), next (2), [[Privacy]] (1), traffic (1)
+> **Frameworks & Libraries:** [[Cash Flow Management]] (2), [[Privacy]] (1)
 > **Speakers:** - well (6), - so (4), - he (2), - exactly (2), - [speaker (2)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)

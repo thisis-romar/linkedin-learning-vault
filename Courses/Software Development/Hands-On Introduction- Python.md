@@ -89,14 +89,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learn Python by doing
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-python/learn-python-by-doing-25081203?u=76281980)
+#### [Learn Python by doing](https://www.linkedin.com/learning/hands-on-introduction-python/learn-python-by-doing-25081203?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-python/learn-python-by-doing-25081203?u=76281980&t=0)** - If you want to build AI applications, Python is a great place to start.
+> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-python/learn-python-by-doing-25081203?u=76281980&t=0)** - If you want to build AI applications, [[Python (Programming Language)|Python]] is a great place to start.
 >
-> **[0:05](https://www.linkedin.com/learning/hands-on-introduction-python/learn-python-by-doing-25081203?u=76281980&t=5)** In this course, we'll start with the basics, such as control flow and scope, then we'll move on to building a small web application.
+> **[0:05](https://www.linkedin.com/learning/hands-on-introduction-python/learn-python-by-doing-25081203?u=76281980&t=5)** In this course, we'll start with the basics, such as [[Control Flow]] and scope, then we'll move on to building a small web application.
 >
 > **[0:15](https://www.linkedin.com/learning/hands-on-introduction-python/learn-python-by-doing-25081203?u=76281980&t=15)** Finally, we'll look at how to integrate AI into your Python software.
 >
@@ -108,42 +107,40 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), ai (2), [[Control Flow]] (1), web application (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Control Flow]] (1)
 > **CLI Commands:** python (4)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - if (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-python/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/hands-on-introduction-python/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-python/what-you-should-know?u=76281980&t=0)** - [Instructor] While this course does not assume any prior knowledge of Python, it is a good idea to be familiar with the basics of programming.
+> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-python/what-you-should-know?u=76281980&t=0)** - [Instructor] While this course does not assume any prior knowledge of [[Python (Programming Language)|Python]], it is a good idea to be familiar with the basics of programming.
 >
 > **[0:09](https://www.linkedin.com/learning/hands-on-introduction-python/what-you-should-know?u=76281980&t=9)** Such concepts include if-else statements, functions, and loops.
 >
 > **[0:15](https://www.linkedin.com/learning/hands-on-introduction-python/what-you-should-know?u=76281980&t=15)** If you're not quite there yet as far as these concepts go, there are some great courses in the library to help get you there.
 >
-> **[0:21](https://www.linkedin.com/learning/hands-on-introduction-python/what-you-should-know?u=76281980&t=21)** These include Programming Foundations: Fundamentals with Annyce Davis, as well as Python for Non-Programmers with Nick Walter.
+> **[0:21](https://www.linkedin.com/learning/hands-on-introduction-python/what-you-should-know?u=76281980&t=21)** These include [[Programming Foundations]]: Fundamentals with Annyce Davis, as well as Python for Non-Programmers with Nick Walter.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Programming]] (1), [[Programming Foundations]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Programming Foundations]] (1)
 > **CLI Commands:** python (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using GitHub Codespaces with this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-python/using-github-codespaces-with-this-course?u=76281980)
+#### [Using GitHub Codespaces with this course](https://www.linkedin.com/learning/hands-on-introduction-python/using-github-codespaces-with-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-python/using-github-codespaces-with-this-course?u=76281980&t=0)** - [Ray] This is Ray Villalobos, senior staff instructor at LinkedIn Learning, and I'm going to show you how to work with LinkedIn Learning courses using GitHub Codespaces.
+> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-python/using-github-codespaces-with-this-course?u=76281980&t=0)** - [Ray] This is Ray Villalobos, senior staff instructor at [[LinkedIn]] Learning, and I'm going to show you how to work with LinkedIn Learning courses using [[GitHub]] [[Codespaces]].
 >
 > **[0:09](https://www.linkedin.com/learning/hands-on-introduction-python/using-github-codespaces-with-this-course?u=76281980&t=9)** Codespaces is a code editor in the cloud with the full power of Visual Studio Code.
 >
-> **[0:14](https://www.linkedin.com/learning/hands-on-introduction-python/using-github-codespaces-with-this-course?u=76281980&t=14)** It allows for real world hands on practice that mirrors software development in the workplace.
+> **[0:14](https://www.linkedin.com/learning/hands-on-introduction-python/using-github-codespaces-with-this-course?u=76281980&t=14)** It allows for real world hands on practice that mirrors [[Software Development]] in the workplace.
 >
 > **[0:19](https://www.linkedin.com/learning/hands-on-introduction-python/using-github-codespaces-with-this-course?u=76281980&t=19)** This course was created using GitHub Codespaces.
 >
@@ -213,7 +210,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/hands-on-introduction-python/using-github-codespaces-with-this-course?u=76281980&t=195)** As you work through a course, you might make some changes on a branch.
 >
-> **[3:19](https://www.linkedin.com/learning/hands-on-introduction-python/using-github-codespaces-with-this-course?u=76281980&t=199)** I'm going to make a minor edit on the index.html file right here.
+> **[3:19](https://www.linkedin.com/learning/hands-on-introduction-python/using-github-codespaces-with-this-course?u=76281980&t=199)** I'm going to make a minor edit on the index.[[HTML]] file right here.
 >
 > **[3:27](https://www.linkedin.com/learning/hands-on-introduction-python/using-github-codespaces-with-this-course?u=76281980&t=207)** I'm going to go ahead and save that, and you can see that I've modified this file because there's an M right here and the branch name now has an asterisk on it.
 >
@@ -255,7 +252,7 @@ created: 2026-05-02
 >
 > **[5:32](https://www.linkedin.com/learning/hands-on-introduction-python/using-github-codespaces-with-this-course?u=76281980&t=332)** I'll hit okay.
 >
-> **[5:34](https://www.linkedin.com/learning/hands-on-introduction-python/using-github-codespaces-with-this-course?u=76281980&t=334)** You can also let it go ahead and run git fetch.
+> **[5:34](https://www.linkedin.com/learning/hands-on-introduction-python/using-github-codespaces-with-this-course?u=76281980&t=334)** You can also let it go ahead and run [[Git]] [[Fetch]].
 >
 > **[5:37](https://www.linkedin.com/learning/hands-on-introduction-python/using-github-codespaces-with-this-course?u=76281980&t=337)** That way, it'll automatically sync with your forked repo.
 >
@@ -271,7 +268,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (9), [[GitHub]] (8), hit (5), [[LinkedIn]] (2), cloud (1)
+> **Frameworks & Libraries:** [[Codespaces]] (9), [[GitHub]] (8), [[LinkedIn]] (2), [[Software Development]] (1), [[HTML]] (1)
 > **Tools:** github (8), visual studio (2)
 > **UI Navigation:** switch to (4), click on (3), go to (1)
 > **Definitions:** is a  (4), known as (1), is an  (1)
@@ -285,24 +282,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Hello Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-python/hello-python-24501588?u=76281980)
+#### [Hello Python](https://www.linkedin.com/learning/hands-on-introduction-python/hello-python-24501588?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-python/hello-python-24501588?u=76281980&t=0)** - Python is what's called the high-level interpreted programming language.
+> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-python/hello-python-24501588?u=76281980&t=0)** - [[Python (Programming Language)|Python]] is what's called the high-level interpreted programming language.
 >
 > **[0:06](https://www.linkedin.com/learning/hands-on-introduction-python/hello-python-24501588?u=76281980&t=6)** There's no compile step in Python, instead, the code is interpreted at runtime.
 >
 > **[0:11](https://www.linkedin.com/learning/hands-on-introduction-python/hello-python-24501588?u=76281980&t=11)** Now, python's also extremely versatile.
 >
-> **[0:14](https://www.linkedin.com/learning/hands-on-introduction-python/hello-python-24501588?u=76281980&t=14)** It's used in web development, data science, and scripting among other things.
+> **[0:14](https://www.linkedin.com/learning/hands-on-introduction-python/hello-python-24501588?u=76281980&t=14)** It's used in [[Web Development]], [[Data Science]], and scripting among other things.
 >
-> **[0:19](https://www.linkedin.com/learning/hands-on-introduction-python/hello-python-24501588?u=76281980&t=19)** It's also used by major players such as NASA, Microsoft, and Google, to name a few, making it extremely popular.
+> **[0:19](https://www.linkedin.com/learning/hands-on-introduction-python/hello-python-24501588?u=76281980&t=19)** It's also used by major players such as NASA, [[Microsoft]], and [[Google]], to name a few, making it extremely popular.
 >
 > **[0:28](https://www.linkedin.com/learning/hands-on-introduction-python/hello-python-24501588?u=76281980&t=28)** Let's have a look at some of this in action.
 >
-> **[0:31](https://www.linkedin.com/learning/hands-on-introduction-python/hello-python-24501588?u=76281980&t=31)** So here I am in the course repository on GitHub, and I'm going to go ahead and start a GitHub Codespace.
+> **[0:31](https://www.linkedin.com/learning/hands-on-introduction-python/hello-python-24501588?u=76281980&t=31)** So here I am in the course repository on [[GitHub]], and I'm going to go ahead and start a GitHub Codespace.
 >
 > **[0:40](https://www.linkedin.com/learning/hands-on-introduction-python/hello-python-24501588?u=76281980&t=40)** Now, as you can see, there are a few of them that I've already worked with, but we're going to create a new one on the main branch.
 >
@@ -312,7 +308,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/hands-on-introduction-python/hello-python-24501588?u=76281980&t=55)** You'll notice that there's a terminal open for you.
 >
-> **[0:58](https://www.linkedin.com/learning/hands-on-introduction-python/hello-python-24501588?u=76281980&t=58)** If we're working with web servers, you can visit their ports using the PORTS section of the terminal, there's also a DEBUG CONSOLE.
+> **[0:58](https://www.linkedin.com/learning/hands-on-introduction-python/hello-python-24501588?u=76281980&t=58)** If we're working with [[Web Servers]], you can visit their ports using the PORTS section of the terminal, there's also a DEBUG CONSOLE.
 >
 > **[1:07](https://www.linkedin.com/learning/hands-on-introduction-python/hello-python-24501588?u=76281980&t=67)** If there isn't a terminal, and you want to pop one open, you can navigate to the menu's Terminal section and hit New Terminal.
 >
@@ -374,7 +370,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (19), [[GitHub]] (2), [[Programming]] (1), [[Web Development]] (1), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (19), [[GitHub]] (2), [[Web Development]] (1), [[Data Science]] (1), [[Microsoft]] (1)
 > **CLI Commands:** python (19), python3 (2), cd (1), make (1)
 > **Tools:** terminal (9), github (2), visual studio (1)
 > **Env Vars:** nasa (1), ports (1), debug (1), console (1)
@@ -388,12 +384,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Scope and indentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-python/scope-and-indentation-24503428?u=76281980)
+#### [Scope and indentation](https://www.linkedin.com/learning/hands-on-introduction-python/scope-and-indentation-24503428?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/hands-on-introduction-python/scope-and-indentation-24503428?u=76281980&t=1)** - In Python, indentation has meaning.
+> **[0:01](https://www.linkedin.com/learning/hands-on-introduction-python/scope-and-indentation-24503428?u=76281980&t=1)** - In [[Python (Programming Language)|Python]], indentation has meaning.
 >
 > **[0:04](https://www.linkedin.com/learning/hands-on-introduction-python/scope-and-indentation-24503428?u=76281980&t=4)** Now, in many languages, we use indentation.
 >
@@ -453,7 +448,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), next (2), cd (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6)
 > **CLI Commands:** python (6), cd (2), make (1)
 > **File Paths:** main.py (3)
 > **Code Identifiers:** my_function (3)
@@ -462,18 +457,17 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Tools:** terminal (1)
 
-#### Fancy string work
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-python/fancy-string-work?u=76281980)
+#### [Fancy string work](https://www.linkedin.com/learning/hands-on-introduction-python/fancy-string-work?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-python/fancy-string-work?u=76281980&t=0)** - [Instructor] Strings in Python will feel very familiar to people coming from other languages, but they also pack in a great deal of utility.
+> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-python/fancy-string-work?u=76281980&t=0)** - [Instructor] Strings in [[Python (Programming Language)|Python]] will feel very familiar to people coming from other languages, but they also pack in a great deal of utility.
 >
 > **[0:08](https://www.linkedin.com/learning/hands-on-introduction-python/fancy-string-work?u=76281980&t=8)** So here, line one and two should feel right at home, where on line one, I basically assign the value of hello world to greet.
 >
 > **[0:18](https://www.linkedin.com/learning/hands-on-introduction-python/fancy-string-work?u=76281980&t=18)** Line two, you'll see that I may use the operator plus in order to concatenate two strings.
 >
-> **[0:25](https://www.linkedin.com/learning/hands-on-introduction-python/fancy-string-work?u=76281980&t=25)** On line four, I say that the name is John, and then you'll see on line six, that I use the letter F in order to interpolate.
+> **[0:25](https://www.linkedin.com/learning/hands-on-introduction-python/fancy-string-work?u=76281980&t=25)** On line four, I say that the name is [[John the Ripper|John]], and then you'll see on line six, that I use the letter F in order to interpolate.
 >
 > **[0:33](https://www.linkedin.com/learning/hands-on-introduction-python/fancy-string-work?u=76281980&t=33)** What does that mean?
 >
@@ -519,7 +513,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), cd (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[John the Ripper|John]] (3)
 > **CLI Commands:** python (3), cd (1)
 > **UI Navigation:** go to (1), navigate to (1)
 > **File Paths:** main.py (1)
@@ -528,18 +522,17 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Analogies:** for example (1)
 
-#### Getting what you need from lists with slices
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-python/getting-what-you-need-from-lists-with-slices?u=76281980)
+#### [Getting what you need from lists with slices](https://www.linkedin.com/learning/hands-on-introduction-python/getting-what-you-need-from-lists-with-slices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-python/getting-what-you-need-from-lists-with-slices?u=76281980&t=0)** - [Presenter] There's a plethora of data types there that represent collections in Python, but by far, the most common one you'll encounter is the list.
+> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-python/getting-what-you-need-from-lists-with-slices?u=76281980&t=0)** - [Presenter] There's a plethora of data types there that represent collections in [[Python (Programming Language)|Python]], but by far, the most common one you'll encounter is the list.
 >
 > **[0:09](https://www.linkedin.com/learning/hands-on-introduction-python/getting-what-you-need-from-lists-with-slices?u=76281980&t=9)** It's mutable, it's flexible it offers a ton of functionality.
 >
 > **[0:15](https://www.linkedin.com/learning/hands-on-introduction-python/getting-what-you-need-from-lists-with-slices?u=76281980&t=15)** And let's have a look at what we can do with lists.
 >
-> **[0:18](https://www.linkedin.com/learning/hands-on-introduction-python/getting-what-you-need-from-lists-with-slices?u=76281980&t=18)** So here we have a collection of names, John, Paul, George, and Ringo, the Beatles.
+> **[0:18](https://www.linkedin.com/learning/hands-on-introduction-python/getting-what-you-need-from-lists-with-slices?u=76281980&t=18)** So here we have a collection of names, [[John the Ripper|John]], Paul, George, and Ringo, the Beatles.
 >
 > **[0:23](https://www.linkedin.com/learning/hands-on-introduction-python/getting-what-you-need-from-lists-with-slices?u=76281980&t=23)** And we have some arbitrary ages, 20, 21, 22, and 23.
 >
@@ -605,7 +598,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), data (2), feature (1), cd (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (6), [[Python (Programming Language)|Python]] (5)
 > **CLI Commands:** python (5), make (1), cd (1)
 > **File Paths:** main.py (1)
 > **Env Vars:** ipwd (1)
@@ -613,14 +606,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [presenter] (1)
 
-#### Looping and iteration
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-python/looping-and-iteration?u=76281980)
+#### [Looping and iteration](https://www.linkedin.com/learning/hands-on-introduction-python/looping-and-iteration?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/hands-on-introduction-python/looping-and-iteration?u=76281980&t=0)** - [Instructor] Many languages offer a plethora of ways of doing looping.
 >
-> **[0:05](https://www.linkedin.com/learning/hands-on-introduction-python/looping-and-iteration?u=76281980&t=5)** In Python, it's mostly down to two, the while loop and the for-in Loop.
+> **[0:05](https://www.linkedin.com/learning/hands-on-introduction-python/looping-and-iteration?u=76281980&t=5)** In [[Python (Programming Language)|Python]], it's mostly down to two, the while loop and the for-in Loop.
 >
 > **[0:10](https://www.linkedin.com/learning/hands-on-introduction-python/looping-and-iteration?u=76281980&t=10)** And the for-in loop is incredibly popular.
 >
@@ -636,7 +628,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/hands-on-introduction-python/looping-and-iteration?u=76281980&t=37)** Clear my terminal, great.
 >
-> **[0:40](https://www.linkedin.com/learning/hands-on-introduction-python/looping-and-iteration?u=76281980&t=40)** And if you look at line one, you'll see a list of the names of The Beatles, John, Paul, George, and Ringo.
+> **[0:40](https://www.linkedin.com/learning/hands-on-introduction-python/looping-and-iteration?u=76281980&t=40)** And if you look at line one, you'll see a list of the names of The Beatles, [[John the Ripper|John]], Paul, George, and Ringo.
 >
 > **[0:47](https://www.linkedin.com/learning/hands-on-introduction-python/looping-and-iteration?u=76281980&t=47)** Line two we have the ages, just an arbitrary list of numbers ranging from 20 to 23.
 >
@@ -724,7 +716,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[John the Ripper|John]] (1)
 > **Env Vars:** names (8), ages (2)
 > **CLI Commands:** python (4)
 > **Tools:** terminal (3)
@@ -733,16 +725,15 @@ created: 2026-05-02
 > **Warnings:** note that (2)
 > **Definitions:** is an  (1)
 
-#### Logic if/elif/else
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-python/logic-if-elif-else?u=76281980)
+#### [Logic if/elif/else](https://www.linkedin.com/learning/hands-on-introduction-python/logic-if-elif-else?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-python/logic-if-elif-else?u=76281980&t=0)** - [Instructor] So before we dive into building something, it's a good idea to make sure that we're in sync about the basics of control flow.
+> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-python/logic-if-elif-else?u=76281980&t=0)** - [Instructor] So before we dive into building something, it's a good idea to make sure that we're in sync about the basics of [[Control Flow]].
 >
 > **[0:08](https://www.linkedin.com/learning/hands-on-introduction-python/logic-if-elif-else?u=76281980&t=8)** If, else if, and else, and the things that we do on a consistent basis in our work.
 >
-> **[0:15](https://www.linkedin.com/learning/hands-on-introduction-python/logic-if-elif-else?u=76281980&t=15)** So in line one, you'll notice that I import the OS module, I'll use it to show you a neat utility that will come in handy in your work in Python.
+> **[0:15](https://www.linkedin.com/learning/hands-on-introduction-python/logic-if-elif-else?u=76281980&t=15)** So in line one, you'll notice that I import the OS module, I'll use it to show you a neat utility that will come in handy in your work in [[Python (Programming Language)|Python]].
 >
 > **[0:25](https://www.linkedin.com/learning/hands-on-introduction-python/logic-if-elif-else?u=76281980&t=25)** In lines three through seven, I define variables for environments, development, production, staging, code space, and local.
 >
@@ -802,7 +793,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[Python (Programming Language)|Python]] (2), cd (2), [[Control Flow]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Control Flow]] (1)
 > **CLI Commands:** make (2), python (2), cd (2)
 > **Tools:** terminal (4)
 > **UI Navigation:** navigate to (2)
@@ -815,8 +806,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Reading a CSV file
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-python/reading-a-csv-file-24504403?u=76281980)
+#### [Reading a CSV file](https://www.linkedin.com/learning/hands-on-introduction-python/reading-a-csv-file-24504403?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -824,7 +814,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/hands-on-introduction-python/reading-a-csv-file-24504403?u=76281980&t=7)** It can be imported to, exported from, and tweaked using most popular spreadsheet software.
 >
-> **[0:15](https://www.linkedin.com/learning/hands-on-introduction-python/reading-a-csv-file-24504403?u=76281980&t=15)** This makes CSV very popular, and luckily, Python has a great module for working with CSV.
+> **[0:15](https://www.linkedin.com/learning/hands-on-introduction-python/reading-a-csv-file-24504403?u=76281980&t=15)** This makes CSV very popular, and luckily, [[Python (Programming Language)|Python]] has a great module for working with CSV.
 >
 > **[0:24](https://www.linkedin.com/learning/hands-on-introduction-python/reading-a-csv-file-24504403?u=76281980&t=24)** So let's take a look.
 >
@@ -846,17 +836,17 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/hands-on-introduction-python/reading-a-csv-file-24504403?u=76281980&t=88)** It is a bit limited when you are creating software.
 >
-> **[1:32](https://www.linkedin.com/learning/hands-on-introduction-python/reading-a-csv-file-24504403?u=76281980&t=92)** And for that, we prefer something a bit more JSON-like.
+> **[1:32](https://www.linkedin.com/learning/hands-on-introduction-python/reading-a-csv-file-24504403?u=76281980&t=92)** And for that, we prefer something a bit more [[JSON]]-like.
 >
 > **[1:37](https://www.linkedin.com/learning/hands-on-introduction-python/reading-a-csv-file-24504403?u=76281980&t=97)** Now, Python has a data type that's extremely popular and very, very useful.
 >
 > **[1:43](https://www.linkedin.com/learning/hands-on-introduction-python/reading-a-csv-file-24504403?u=76281980&t=103)** It's the dictionary.
 >
-> **[1:44](https://www.linkedin.com/learning/hands-on-introduction-python/reading-a-csv-file-24504403?u=76281980&t=104)** It's very similar to JSON or the JavaScript object in that it has keys and values.
+> **[1:44](https://www.linkedin.com/learning/hands-on-introduction-python/reading-a-csv-file-24504403?u=76281980&t=104)** It's very similar to JSON or the [[JavaScript]] object in that it has keys and values.
 >
 > **[1:50](https://www.linkedin.com/learning/hands-on-introduction-python/reading-a-csv-file-24504403?u=76281980&t=110)** The keys will usually be strings.
 >
-> **[1:53](https://www.linkedin.com/learning/hands-on-introduction-python/reading-a-csv-file-24504403?u=76281980&t=113)** You can't just put a word like this here.
+> **[1:53](https://www.linkedin.com/learning/hands-on-introduction-python/reading-a-csv-file-24504403?u=76281980&t=113)** You can't just put a [[Microsoft Word|word]] like this here.
 >
 > **[1:56](https://www.linkedin.com/learning/hands-on-introduction-python/reading-a-csv-file-24504403?u=76281980&t=116)** That will throw an exception, so if you are coming from JavaScript, just remember to use single or double quotes.
 >
@@ -896,7 +886,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[JSON]] (3), data (3), [[JavaScript]] (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[JSON]] (3), [[JavaScript]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** csv (10), json (3), einstein_csv (1)
 > **CLI Commands:** python (5), cd (1)
 > **File Paths:** main.py (2), laureates.csv (2)
@@ -905,16 +895,15 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **UI Navigation:** open the (1)
 
-#### Making calculations
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-python/making-calculations?u=76281980)
+#### [Making calculations](https://www.linkedin.com/learning/hands-on-introduction-python/making-calculations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-python/making-calculations?u=76281980&t=0)** - [Instructor] Basic arithmetic is very straightforward in Python, whatever you would expect to work sort of does.
+> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-python/making-calculations?u=76281980&t=0)** - [Instructor] Basic arithmetic is very straightforward in [[Python (Programming Language)|Python]], whatever you would expect to work sort of does.
 >
 > **[0:07](https://www.linkedin.com/learning/hands-on-introduction-python/making-calculations?u=76281980&t=7)** Adding, subtracting, modulus, you name it.
 >
-> **[0:10](https://www.linkedin.com/learning/hands-on-introduction-python/making-calculations?u=76281980&t=10)** Now a good thing about Python is that additional data structures also behave sort of how you would expect, when it comes to arithmetic.
+> **[0:10](https://www.linkedin.com/learning/hands-on-introduction-python/making-calculations?u=76281980&t=10)** Now a good thing about Python is that additional [[Data Structures]] also behave sort of how you would expect, when it comes to arithmetic.
 >
 > **[0:19](https://www.linkedin.com/learning/hands-on-introduction-python/making-calculations?u=76281980&t=19)** So when we traverse our laureates, and we get to Albert Einstein, we may want to know how old he was, or just about how old he was when he won the Noble Prize.
 >
@@ -928,7 +917,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/hands-on-introduction-python/making-calculations?u=76281980&t=50)** And here on line 24, you'll notice, he receive the prize, so I tell the parser how to parse this.
 >
-> **[0:57](https://www.linkedin.com/learning/hands-on-introduction-python/making-calculations?u=76281980&t=57)** So just the year, and kind of complete the rest.
+> **[0:57](https://www.linkedin.com/learning/hands-on-introduction-python/making-calculations?u=76281980&t=57)** So just the year, and kind of complete the [[Representational State Transfer (REST)|rest]].
 >
 > **[1:00](https://www.linkedin.com/learning/hands-on-introduction-python/making-calculations?u=76281980&t=60)** And then the year he was born.
 >
@@ -958,7 +947,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), data (4), [[Representational State Transfer (REST)|Rest]] (1), cd (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Data Structures]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** python (4), cd (1)
 > **Tools:** terminal (2)
 > **File Paths:** main.py (1)
@@ -967,20 +956,19 @@ created: 2026-05-02
 > **Definitions:** stands for (1)
 > **Analogies:** for example (1)
 
-#### Outputting JSON
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-python/outputting-json?u=76281980)
+#### [Outputting JSON](https://www.linkedin.com/learning/hands-on-introduction-python/outputting-json?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-python/outputting-json?u=76281980&t=0)** - [Instructor] In this movie, we're going to turn some CSV data into some JSON data using Python magic.
+> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-python/outputting-json?u=76281980&t=0)** - [Instructor] In this movie, we're going to turn some CSV data into some [[JSON]] data using [[Python (Programming Language)|Python]] magic.
 >
-> **[0:08](https://www.linkedin.com/learning/hands-on-introduction-python/outputting-json?u=76281980&t=8)** So CSV is very useful, especially when dealing with Excel and other spreadsheet software.
+> **[0:08](https://www.linkedin.com/learning/hands-on-introduction-python/outputting-json?u=76281980&t=8)** So CSV is very useful, especially when dealing with [[Microsoft Excel|Excel]] and other spreadsheet software.
 >
-> **[0:15](https://www.linkedin.com/learning/hands-on-introduction-python/outputting-json?u=76281980&t=15)** However, JSON is far more popular in modern application development.
+> **[0:15](https://www.linkedin.com/learning/hands-on-introduction-python/outputting-json?u=76281980&t=15)** However, JSON is far more popular in modern [[Application Development]].
 >
 > **[0:20](https://www.linkedin.com/learning/hands-on-introduction-python/outputting-json?u=76281980&t=20)** It's used in APIs.
 >
-> **[0:22](https://www.linkedin.com/learning/hands-on-introduction-python/outputting-json?u=76281980&t=22)** Many modern databases used JSON or similar formats to store data.
+> **[0:22](https://www.linkedin.com/learning/hands-on-introduction-python/outputting-json?u=76281980&t=22)** Many modern [[Databases]] used JSON or similar formats to store data.
 >
 > **[0:27](https://www.linkedin.com/learning/hands-on-introduction-python/outputting-json?u=76281980&t=27)** And lucky for us, Python comes with a great JSON module that packs in a great deal of utility.
 >
@@ -1080,7 +1068,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (29), data (6), [[Python (Programming Language)|Python]] (6), next (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[JSON]] (29), [[Python (Programming Language)|Python]] (6), [[Microsoft Excel|Excel]] (1), [[Application Development]] (1), [[Databases]] (1)
 > **Env Vars:** json (22), csv (8)
 > **CLI Commands:** python (6), make (1), cd (1)
 > **File Paths:** main.py (2), laureates.json (2), laureates.csv (1)
@@ -1089,14 +1077,13 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Filtering output
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-python/challenge-filtering-output?u=76281980)
+#### [Challenge: Filtering output](https://www.linkedin.com/learning/hands-on-introduction-python/challenge-filtering-output?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/hands-on-introduction-python/challenge-filtering-output?u=76281980&t=0)** (energetic music)
 >
-> **[0:05](https://www.linkedin.com/learning/hands-on-introduction-python/challenge-filtering-output?u=76281980&t=5)** - [Instructor] So it's time for a little challenge to put our knowledge to the test, and here, we're going to create a JSON file, but with only the Nobel Prize winners whose first names begin with the letter A.
+> **[0:05](https://www.linkedin.com/learning/hands-on-introduction-python/challenge-filtering-output?u=76281980&t=5)** - [Instructor] So it's time for a little challenge to put our knowledge to the test, and here, we're going to create a [[JSON]] file, but with only the Nobel Prize winners whose first names begin with the letter A.
 >
 > **[0:19](https://www.linkedin.com/learning/hands-on-introduction-python/challenge-filtering-output?u=76281980&t=19)** So a few breadcrumbs that I left here on line 24 is that you can access parts of a string the way that you do lists.
 >
@@ -1104,7 +1091,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/hands-on-introduction-python/challenge-filtering-output?u=76281980&t=34)** Another one is that you can add to a list using list.append and whatever it is that you want to append.
 >
-> **[0:41](https://www.linkedin.com/learning/hands-on-introduction-python/challenge-filtering-output?u=76281980&t=41)** So, if my_list is a list and you append the string something to it, now it has the word something as one of its items.
+> **[0:41](https://www.linkedin.com/learning/hands-on-introduction-python/challenge-filtering-output?u=76281980&t=41)** So, if my_list is a list and you append the string something to it, now it has the [[Microsoft Word|word]] something as one of its items.
 >
 > **[0:49](https://www.linkedin.com/learning/hands-on-introduction-python/challenge-filtering-output?u=76281980&t=49)** So here, on line 29, we have laureates beginning with an A, which is starting off as an empty list.
 >
@@ -1116,7 +1103,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (2), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[JSON]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** json (2)
 > **Code Identifiers:** my_list (1)
 > **Cross-References:** in the next (1)
@@ -1125,12 +1112,11 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (energetic music) (1)
 
-#### Solution: Filtering output
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-python/solution-filtering-output?u=76281980)
+#### [Solution: Filtering output](https://www.linkedin.com/learning/hands-on-introduction-python/solution-filtering-output?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-python/solution-filtering-output?u=76281980&t=0)** - [Narrator] So the goal of our challenge was to create a JSON file containing the Nobel Prize winners whose names begin with the letter A.
+> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-python/solution-filtering-output?u=76281980&t=0)** - [Narrator] So the goal of our challenge was to create a [[JSON]] file containing the Nobel Prize winners whose names begin with the letter A.
 >
 > **[0:14](https://www.linkedin.com/learning/hands-on-introduction-python/solution-filtering-output?u=76281980&t=14)** And let's look at how I implement the solution.
 >
@@ -1150,7 +1136,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/hands-on-introduction-python/solution-filtering-output?u=76281980&t=77)** You can use 03_04. That's the challenge video file.
 >
-> **[1:21](https://www.linkedin.com/learning/hands-on-introduction-python/solution-filtering-output?u=76281980&t=81)** And if I type Python, main.py.
+> **[1:21](https://www.linkedin.com/learning/hands-on-introduction-python/solution-filtering-output?u=76281980&t=81)** And if I type [[Python (Programming Language)|Python]], main.py.
 >
 > **[1:27](https://www.linkedin.com/learning/hands-on-introduction-python/solution-filtering-output?u=76281980&t=87)** Yep. I have a new laureate file.
 >
@@ -1168,7 +1154,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (3), cd (1), [[Python (Programming Language)|Python]] (1), data (1)
+> **Frameworks & Libraries:** [[JSON]] (3), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** json (3)
 > **File Paths:** main.py (2)
 > **CLI Commands:** cd (1), python (1)
@@ -1182,8 +1168,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Loading a JSON dataset
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-python/loading-a-json-dataset-25082158?u=76281980)
+#### [Loading a JSON dataset](https://www.linkedin.com/learning/hands-on-introduction-python/loading-a-json-dataset-25082158?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1205,11 +1190,11 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/hands-on-introduction-python/loading-a-json-dataset-25082158?u=76281980&t=57)** Now you can take a look at how this score is composed, and this is a great way to have an initial look at how secure certain packages are.
 >
-> **[1:08](https://www.linkedin.com/learning/hands-on-introduction-python/loading-a-json-dataset-25082158?u=76281980&t=68)** Now using Codespaces gives you an extra layer of protection.
+> **[1:08](https://www.linkedin.com/learning/hands-on-introduction-python/loading-a-json-dataset-25082158?u=76281980&t=68)** Now using [[Codespaces]] gives you an extra layer of protection.
 >
 > **[1:12](https://www.linkedin.com/learning/hands-on-introduction-python/loading-a-json-dataset-25082158?u=76281980&t=72)** It's better to download to a remote environment than to your computer, but of course you want to evaluate every package you add to your project.
 >
-> **[1:21](https://www.linkedin.com/learning/hands-on-introduction-python/loading-a-json-dataset-25082158?u=76281980&t=81)** By the way, if you're interested in secure coding in Python, check out my course with that title in the library.
+> **[1:21](https://www.linkedin.com/learning/hands-on-introduction-python/loading-a-json-dataset-25082158?u=76281980&t=81)** By the way, if you're interested in [[Secure Coding]] in [[Python (Programming Language)|Python]], check out my course with that title in the library.
 >
 > **[1:29](https://www.linkedin.com/learning/hands-on-introduction-python/loading-a-json-dataset-25082158?u=76281980&t=89)** So I'm going to go ahead and download requests.
 >
@@ -1221,9 +1206,9 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/hands-on-introduction-python/loading-a-json-dataset-25082158?u=76281980&t=110)** And here I have a get request, which I am making to the World Bank API.
 >
-> **[1:57](https://www.linkedin.com/learning/hands-on-introduction-python/loading-a-json-dataset-25082158?u=76281980&t=117)** This is going to be population statistics from the United States.
+> **[1:57](https://www.linkedin.com/learning/hands-on-introduction-python/loading-a-json-dataset-25082158?u=76281980&t=117)** This is going to be population [[Statistics]] from the United States.
 >
-> **[2:02](https://www.linkedin.com/learning/hands-on-introduction-python/loading-a-json-dataset-25082158?u=76281980&t=122)** And the last 20 years are 20 items from the JSON of the response.
+> **[2:02](https://www.linkedin.com/learning/hands-on-introduction-python/loading-a-json-dataset-25082158?u=76281980&t=122)** And the last 20 years are 20 items from the [[JSON]] of the response.
 >
 > **[2:10](https://www.linkedin.com/learning/hands-on-introduction-python/loading-a-json-dataset-25082158?u=76281980&t=130)** Now this JSON method turns the response into Python lists and dictionaries that I can more easily work with in Python.
 >
@@ -1283,7 +1268,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), api (2), [[JSON]] (2), next (2), web (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[JSON]] (2), [[Codespaces]] (1), [[Secure Coding]] (1), [[Statistics]] (1)
 > **CLI Commands:** python (5), python3 (1), pip (1), cd (1)
 > **Env Vars:** api (2), json (2), http (1)
 > **Code Identifiers:** display_width (2), last_twenty_years (1)
@@ -1292,12 +1277,11 @@ created: 2026-05-02
 > **UI Navigation:** navigate to (1)
 > **Exercise Files:** template (1)
 
-#### Extending a small web server
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-python/extending-a-small-web-server?u=76281980)
+#### [Extending a small web server](https://www.linkedin.com/learning/hands-on-introduction-python/extending-a-small-web-server?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-python/extending-a-small-web-server?u=76281980&t=0)** - [Instructor] In this video, we're going to do some magic and wrap our Python skills in the context of a web application.
+> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-python/extending-a-small-web-server?u=76281980&t=0)** - [Instructor] In this video, we're going to do some magic and wrap our [[Python (Programming Language)|Python]] skills in the context of a web application.
 >
 > **[0:07](https://www.linkedin.com/learning/hands-on-introduction-python/extending-a-small-web-server?u=76281980&t=7)** And for that, we're going to use a tiny framework that is very common in the Python ecosystem called Flask.
 >
@@ -1383,17 +1367,17 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/hands-on-introduction-python/extending-a-small-web-server?u=76281980&t=234)** And here you'll see that there is an index route.
 >
-> **[3:57](https://www.linkedin.com/learning/hands-on-introduction-python/extending-a-small-web-server?u=76281980&t=237)** Now I've brought in this render_template function and that's going to allow me to render an HTML file.
+> **[3:57](https://www.linkedin.com/learning/hands-on-introduction-python/extending-a-small-web-server?u=76281980&t=237)** Now I've brought in this render_template function and that's going to allow me to render an [[HTML]] file.
 >
 > **[4:05](https://www.linkedin.com/learning/hands-on-introduction-python/extending-a-small-web-server?u=76281980&t=245)** What I'm going to do with that is I'm going to return a render template with index.html.
 >
 > **[4:13](https://www.linkedin.com/learning/hands-on-introduction-python/extending-a-small-web-server?u=76281980&t=253)** You can go ahead and check it out in the templates/index.html folder if you want to see what I'm doing there.
 >
-> **[4:20](https://www.linkedin.com/learning/hands-on-introduction-python/extending-a-small-web-server?u=76281980&t=260)** And then I'm going to also do sort of Vanilla JavaScript single page application.
+> **[4:20](https://www.linkedin.com/learning/hands-on-introduction-python/extending-a-small-web-server?u=76281980&t=260)** And then I'm going to also do sort of [[Vanilla]] [[JavaScript]] single page application.
 >
 > **[4:26](https://www.linkedin.com/learning/hands-on-introduction-python/extending-a-small-web-server?u=76281980&t=266)** So I'm going to return all my laureates here.
 >
-> **[4:29](https://www.linkedin.com/learning/hands-on-introduction-python/extending-a-small-web-server?u=76281980&t=269)** And Flask has a jsonfy utility that takes data structures and returns them as JSON.
+> **[4:29](https://www.linkedin.com/learning/hands-on-introduction-python/extending-a-small-web-server?u=76281980&t=269)** And Flask has a jsonfy utility that takes [[Data Structures]] and returns them as [[JSON]].
 >
 > **[4:37](https://www.linkedin.com/learning/hands-on-introduction-python/extending-a-small-web-server?u=76281980&t=277)** So right now it's a list of dictionaries but I'm going to jsonfy them using this function.
 >
@@ -1409,7 +1393,7 @@ created: 2026-05-02
 >
 > **[5:07](https://www.linkedin.com/learning/hands-on-introduction-python/extending-a-small-web-server?u=76281980&t=307)** Open browser right here.
 >
-> **[5:10](https://www.linkedin.com/learning/hands-on-introduction-python/extending-a-small-web-server?u=76281980&t=310)** And the page loaded and it made the rest calls.
+> **[5:10](https://www.linkedin.com/learning/hands-on-introduction-python/extending-a-small-web-server?u=76281980&t=310)** And the page loaded and it made the [[Representational State Transfer (REST)|rest]] calls.
 >
 > **[5:14](https://www.linkedin.com/learning/hands-on-introduction-python/extending-a-small-web-server?u=76281980&t=314)** And I see a rather long, long list of laureates.
 >
@@ -1419,7 +1403,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[HTML]] (4), web application (3), application (2), [[JSON]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[HTML]] (4), [[JSON]] (2), [[Vanilla]] (1), [[JavaScript]] (1)
 > **CLI Commands:** python (7), pip (2), python3 (1), cd (1)
 > **Tools:** terminal (7)
 > **File Paths:** main.py (2), index.html (2), app.py (1), templates/index.html (1)
@@ -1428,8 +1412,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1), template (1)
 > **Definitions:** we call this (1), is an  (1)
 
-#### Searching through data
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-python/searching-through-data?u=76281980)
+#### [Searching through data](https://www.linkedin.com/learning/hands-on-introduction-python/searching-through-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1489,7 +1472,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/hands-on-introduction-python/searching-through-data?u=76281980&t=182)** And I'll head over to my terminal, I'll go ahead and navigate to my Ex_Files, 04, 03, begin.
 >
-> **[3:12](https://www.linkedin.com/learning/hands-on-introduction-python/searching-through-data?u=76281980&t=192)** Clear my terminal and type in python app.py.
+> **[3:12](https://www.linkedin.com/learning/hands-on-introduction-python/searching-through-data?u=76281980&t=192)** Clear my terminal and type in [[Python (Programming Language)|python]] app.py.
 >
 > **[3:17](https://www.linkedin.com/learning/hands-on-introduction-python/searching-through-data?u=76281980&t=197)** (key taps) And I'll go ahead and open my browser.
 >
@@ -1509,7 +1492,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (5), [[Python (Programming Language)|Python]] (2), web application (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** make (2), python (2)
 > **Definitions:** is a  (3)
 > **File Paths:** app.py (2)
@@ -1518,8 +1501,7 @@ created: 2026-05-02
 > **Env Vars:** url (1)
 > **UI Navigation:** navigate to (1)
 
-#### Challenge: Filtering results
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-python/challenge-filtering-results?u=76281980)
+#### [Challenge: Filtering results](https://www.linkedin.com/learning/hands-on-introduction-python/challenge-filtering-results?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1537,13 +1519,13 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/hands-on-introduction-python/challenge-filtering-results?u=76281980&t=29)** Here I am in the exercise files in 0404app.py, and you'll notice that I've made the modification to flName, or first or last name.
 >
-> **[0:40](https://www.linkedin.com/learning/hands-on-introduction-python/challenge-filtering-results?u=76281980&t=40)** I've also changed index.html a bit to make the proper call to the API and add your code somewhere here in this for loop to make sure that we cover both scenarios, first or surname.
+> **[0:40](https://www.linkedin.com/learning/hands-on-introduction-python/challenge-filtering-results?u=76281980&t=40)** I've also changed index.[[HTML]] a bit to make the proper call to the API and add your code somewhere here in this for loop to make sure that we cover both scenarios, first or surname.
 >
 > **[0:55](https://www.linkedin.com/learning/hands-on-introduction-python/challenge-filtering-results?u=76281980&t=55)** Now, take about 10 to 15 minutes to do this, and I'll see you in the next movie.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2), application (1), [[HTML]] (1), api (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **File Paths:** 0404app.py (1), index.html (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** flname (1)
@@ -1552,8 +1534,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Filtering results
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-python/solution-filtering-results?u=76281980)
+#### [Solution: Filtering results](https://www.linkedin.com/learning/hands-on-introduction-python/solution-filtering-results?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1565,11 +1546,11 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/hands-on-introduction-python/solution-filtering-results?u=76281980&t=53)** Alternately, you could also create a full name string and checking if there's a match there, and that would enhance functionality even further, and both are perfectly acceptable.
 >
-> **[1:05](https://www.linkedin.com/learning/hands-on-introduction-python/solution-filtering-results?u=76281980&t=65)** Hopefully, these examples show you that with just a few third-party libraries, you can take your Python skills and use them in many applications and many scenarios.
+> **[1:05](https://www.linkedin.com/learning/hands-on-introduction-python/solution-filtering-results?u=76281980&t=65)** Hopefully, these examples show you that with just a few third-party libraries, you can take your [[Python (Programming Language)|Python]] skills and use them in many applications and many scenarios.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), application (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (1), python (1)
 > **File Paths:** app.py (1)
 > **Exercise Files:** exercise files (1)
@@ -1582,22 +1563,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Python and AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-python/python-and-ai?u=76281980)
+#### [Python and AI](https://www.linkedin.com/learning/hands-on-introduction-python/python-and-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-python/python-and-ai?u=76281980&t=0)** - Python is a major player in the world of AI.
+> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-python/python-and-ai?u=76281980&t=0)** - [[Python (Programming Language)|Python]] is a major player in the world of AI.
 >
 > **[0:04](https://www.linkedin.com/learning/hands-on-introduction-python/python-and-ai?u=76281980&t=4)** Because it's approachable, has many machine learning libraries and supports extensions that are written in low-level languages, Python is the language of choice for many data scientists.
 >
-> **[0:17](https://www.linkedin.com/learning/hands-on-introduction-python/python-and-ai?u=76281980&t=17)** Now, common libraries for work with machine learning include: Pandas, PyTorch, and scikit-learn.
+> **[0:17](https://www.linkedin.com/learning/hands-on-introduction-python/python-and-ai?u=76281980&t=17)** Now, common libraries for work with machine learning include: [[Pandas (Software)|Pandas]], [[PyTorch]], and scikit-learn.
 >
 > **[0:26](https://www.linkedin.com/learning/hands-on-introduction-python/python-and-ai?u=76281980&t=26)** You also see a lot of very well maintained API for working with out-of-the-box technologies, such as the OpenAI models that we'll be working with in the next movies.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), ai (1), data (1), [[Pandas (Software)|Pandas]] (1), [[PyTorch]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Pandas (Software)|Pandas]] (1), [[PyTorch]] (1)
 > **CLI Commands:** python (2)
 > **Env Vars:** api (1)
 > **Cross-References:** in the next (1)
@@ -1605,16 +1585,15 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - python (1)
 
-#### Using GitHub Models
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-python/using-github-models?u=76281980)
+#### [Using GitHub Models](https://www.linkedin.com/learning/hands-on-introduction-python/using-github-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/hands-on-introduction-python/using-github-models?u=76281980&t=1)** - [Instructor] GitHub models removes a lot of the overhead out of prototyping and developing AI applications.
+> **[0:01](https://www.linkedin.com/learning/hands-on-introduction-python/using-github-models?u=76281980&t=1)** - [Instructor] [[GitHub]] models removes a lot of the overhead out of [[Prototyping]] and developing AI applications.
 >
 > **[0:09](https://www.linkedin.com/learning/hands-on-introduction-python/using-github-models?u=76281980&t=9)** GitHub models makes it very straightforward to prototype and develop AI applications.
 >
-> **[0:17](https://www.linkedin.com/learning/hands-on-introduction-python/using-github-models?u=76281980&t=17)** What's neat about GitHub models is that it's integrated right into Codespaces, and once you're done developing your application, it's pretty straightforward to swap your model for a production grade model.
+> **[0:17](https://www.linkedin.com/learning/hands-on-introduction-python/using-github-models?u=76281980&t=17)** What's neat about GitHub models is that it's integrated right into [[Codespaces]], and once you're done developing your application, it's pretty straightforward to swap your model for a production grade model.
 >
 > **[0:33](https://www.linkedin.com/learning/hands-on-introduction-python/using-github-models?u=76281980&t=33)** Now, if you're following along through this course using Codespaces, it should be pretty straightforward to get started with GitHub models.
 >
@@ -1622,18 +1601,17 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/hands-on-introduction-python/using-github-models?u=76281980&t=50)** You'll need to obtain a GitHub token and export it into your environment.
 >
-> **[0:57](https://www.linkedin.com/learning/hands-on-introduction-python/using-github-models?u=76281980&t=57)** With that said, we are just about ready to start developing AI with Python and GitHub models.
+> **[0:57](https://www.linkedin.com/learning/hands-on-introduction-python/using-github-models?u=76281980&t=57)** With that said, we are just about ready to start developing AI with [[Python (Programming Language)|Python]] and GitHub models.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (7), ai (3), [[Codespaces]] (3), [[Prototyping]] (1), application (1)
+> **Frameworks & Libraries:** [[GitHub]] (7), [[Codespaces]] (3), [[Prototyping]] (1), [[Python (Programming Language)|Python]] (1)
 > **Tools:** github (7)
 > **CLI Commands:** python (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### OpenAI API
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-python/openai-api?u=76281980)
+#### [OpenAI API](https://www.linkedin.com/learning/hands-on-introduction-python/openai-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1649,13 +1627,13 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/hands-on-introduction-python/openai-api?u=76281980&t=37)** I'll clear my terminal, and now let's have a look at this code.
 >
-> **[0:43](https://www.linkedin.com/learning/hands-on-introduction-python/openai-api?u=76281980&t=43)** So, first I bring in OS, and this is going to allow me to access environment variables such as my GitHub token without revealing it or placing it in source code, which is not secure.
+> **[0:43](https://www.linkedin.com/learning/hands-on-introduction-python/openai-api?u=76281980&t=43)** So, first I bring in OS, and this is going to allow me to access environment variables such as my [[GitHub]] token without revealing it or placing it in source code, which is not secure.
 >
 > **[0:59](https://www.linkedin.com/learning/hands-on-introduction-python/openai-api?u=76281980&t=59)** Next, I'll import OpenAI from openai so that I can instantiate an OpenAI client.
 >
 > **[1:07](https://www.linkedin.com/learning/hands-on-introduction-python/openai-api?u=76281980&t=67)** I'll grab the GITHUB_TOKEN, which is going to allow me to use GitHub Models in order to access my model.
 >
-> **[1:15](https://www.linkedin.com/learning/hands-on-introduction-python/openai-api?u=76281980&t=75)** I'll have an endpoint here, which is this [inference.ai](https://inference.ai).azure endpoint, and I'll name my model, which is gpt-4o.
+> **[1:15](https://www.linkedin.com/learning/hands-on-introduction-python/openai-api?u=76281980&t=75)** I'll have an endpoint here, which is this [inference.ai](https://inference.ai).[[Microsoft Azure|azure]] endpoint, and I'll name my model, which is gpt-4o.
 >
 > **[1:27](https://www.linkedin.com/learning/hands-on-introduction-python/openai-api?u=76281980&t=87)** gpt-4o is an extremely capable model from OpenAI.
 >
@@ -1683,7 +1661,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/hands-on-introduction-python/openai-api?u=76281980&t=166)** The temperature, this is a parameter that experiments with how the model is going to predict things.
 >
-> **[2:54](https://www.linkedin.com/learning/hands-on-introduction-python/openai-api?u=76281980&t=174)** Next, we have the maximum tokens as well as top_p.
+> **[2:54](https://www.linkedin.com/learning/hands-on-introduction-python/openai-api?u=76281980&t=174)** Next, we have the maximum [[Tokens]] as well as top_p.
 >
 > **[2:59](https://www.linkedin.com/learning/hands-on-introduction-python/openai-api?u=76281980&t=179)** Now, I do offer different courses that go deeper into language models and explain these parameters in detail and play with these parameters.
 >
@@ -1699,7 +1677,7 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/hands-on-introduction-python/openai-api?u=76281980&t=224)** You can also save time and navigate in a single command.
 >
-> **[3:48](https://www.linkedin.com/learning/hands-on-introduction-python/openai-api?u=76281980&t=228)** Now I'll type in python assistant.py.
+> **[3:48](https://www.linkedin.com/learning/hands-on-introduction-python/openai-api?u=76281980&t=228)** Now I'll type in [[Python (Programming Language)|python]] assistant.py.
 >
 > **[3:53](https://www.linkedin.com/learning/hands-on-introduction-python/openai-api?u=76281980&t=233)** And let's have a look.
 >
@@ -1721,11 +1699,11 @@ created: 2026-05-02
 >
 > **[4:39](https://www.linkedin.com/learning/hands-on-introduction-python/openai-api?u=76281980&t=279)** The OpenAI collection of models alone is enough to develop endless applications that solve many problems.
 >
-> **[4:48](https://www.linkedin.com/learning/hands-on-introduction-python/openai-api?u=76281980&t=288)** It's never been easier to develop AI applications with tools such as GitHub Models and with APIs such as the OpenAI API.
+> **[4:48](https://www.linkedin.com/learning/hands-on-introduction-python/openai-api?u=76281980&t=288)** It's never been easier to develop AI applications with tools such as GitHub Models and with APIs such as the [[OpenAI API]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[GitHub]] (4), ai (4), cd (2), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (4), [[Microsoft Azure|Azure]] (1), [[Tokens]] (1), [[Python (Programming Language)|Python]] (1), [[OpenAI API]] (1)
 > **CLI Commands:** pip (3), cd (2), python3 (1), python (1)
 > **Tools:** github (4), terminal (2)
 > **Env Vars:** api (2), github_token (1), url (1)
@@ -1744,12 +1722,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Extend your new Python skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-python/extend-your-new-python-skills-25081202?u=76281980)
+#### [Extend your new Python skills](https://www.linkedin.com/learning/hands-on-introduction-python/extend-your-new-python-skills-25081202?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-python/extend-your-new-python-skills-25081202?u=76281980&t=0)** - I'm Ronnie Sheer, and I wanted to thank you for taking the time to dive deeper into Python, which may really open up many possibilities in the age of AI.
+> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-python/extend-your-new-python-skills-25081202?u=76281980&t=0)** - I'm Ronnie Sheer, and I wanted to thank you for taking the time to dive deeper into [[Python (Programming Language)|Python]], which may really open up many possibilities in the age of AI.
 >
 > **[0:11](https://www.linkedin.com/learning/hands-on-introduction-python/extend-your-new-python-skills-25081202?u=76281980&t=11)** Moving forward, there are a few courses in the library, as well as other resources I recommend you check out in order to keep the learning going.
 >
@@ -1757,19 +1734,19 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/hands-on-introduction-python/extend-your-new-python-skills-25081202?u=76281980&t=29)** Then if you want to optimize your code, there is Faster Python Code with Miki Tebeka.
 >
-> **[0:35](https://www.linkedin.com/learning/hands-on-introduction-python/extend-your-new-python-skills-25081202?u=76281980&t=35)** Finally, there's a course that I've put together called Secure Coding in Python.
+> **[0:35](https://www.linkedin.com/learning/hands-on-introduction-python/extend-your-new-python-skills-25081202?u=76281980&t=35)** Finally, there's a course that I've put together called [[Secure Coding]] in Python.
 >
 > **[0:40](https://www.linkedin.com/learning/hands-on-introduction-python/extend-your-new-python-skills-25081202?u=76281980&t=40)** Software Security is extremely important and it's definitely our jobs as developers.
 >
 > **[0:46](https://www.linkedin.com/learning/hands-on-introduction-python/extend-your-new-python-skills-25081202?u=76281980&t=46)** This looks at how you can make Python code more secure.
 >
-> **[0:50](https://www.linkedin.com/learning/hands-on-introduction-python/extend-your-new-python-skills-25081202?u=76281980&t=50)** I also encourage you to follow me on LinkedIn where I post software related content.
+> **[0:50](https://www.linkedin.com/learning/hands-on-introduction-python/extend-your-new-python-skills-25081202?u=76281980&t=50)** I also encourage you to follow me on [[LinkedIn]] where I post software related content.
 >
 > **[0:55](https://www.linkedin.com/learning/hands-on-introduction-python/extend-your-new-python-skills-25081202?u=76281980&t=55)** So until next time, have fun coding.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), ai (1), [[Secure Coding]] (1), [[Security]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Secure Coding]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** python (5), make (1)
 > **Speakers:** - i (1)
 

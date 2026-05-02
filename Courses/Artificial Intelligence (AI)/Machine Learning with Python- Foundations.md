@@ -100,16 +100,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Machine learning in our world
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/machine-learning-in-our-world-23459526?u=76281980)
+#### [Machine learning in our world](https://www.linkedin.com/learning/machine-learning-with-python-foundations/machine-learning-in-our-world-23459526?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-foundations/machine-learning-in-our-world-23459526?u=76281980&t=0)** - [Instructor] Generative AI and large language models have transformed our digital landscape, pushing the boundaries of what machines can achieve.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-foundations/machine-learning-in-our-world-23459526?u=76281980&t=0)** - [Instructor] [[Generative AI]] and [[Large Language Models (LLM)|large language models]] have transformed our digital landscape, pushing the boundaries of what machines can achieve.
 >
 > **[0:08](https://www.linkedin.com/learning/machine-learning-with-python-foundations/machine-learning-in-our-world-23459526?u=76281980&t=8)** In this course, I explain what machine learning is and isn't and the different ways in which machines learn.
 >
-> **[0:15](https://www.linkedin.com/learning/machine-learning-with-python-foundations/machine-learning-in-our-world-23459526?u=76281980&t=15)** I walk through the steps of data collection, exploration, and preparation with guided examples of how to accomplish each step using Python.
+> **[0:15](https://www.linkedin.com/learning/machine-learning-with-python-foundations/machine-learning-in-our-world-23459526?u=76281980&t=15)** I walk through the steps of [[Data Collection]], exploration, and preparation with guided examples of how to accomplish each step using [[Python (Programming Language)|Python]].
 >
 > **[0:25](https://www.linkedin.com/learning/machine-learning-with-python-foundations/machine-learning-in-our-world-23459526?u=76281980&t=25)** Finally, I bring it all together as I walk you through how to build, evaluate, and interpret the results of a machine learning model in Python.
 >
@@ -117,28 +116,27 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/machine-learning-with-python-foundations/machine-learning-in-our-world-23459526?u=76281980&t=37)** I'm a data scientist, teacher and author with a passion for AI and machine learning.
 >
-> **[0:43](https://www.linkedin.com/learning/machine-learning-with-python-foundations/machine-learning-in-our-world-23459526?u=76281980&t=43)** Welcome to my LinkedIn learning course on machine learning with Python.
+> **[0:43](https://www.linkedin.com/learning/machine-learning-with-python-foundations/machine-learning-in-our-world-23459526?u=76281980&t=43)** Welcome to my [[LinkedIn]] learning course on machine learning with Python.
 >
 > **[0:47](https://www.linkedin.com/learning/machine-learning-with-python-foundations/machine-learning-in-our-world-23459526?u=76281980&t=47)** Let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), data (2), [[Generative AI]] (1), [[Large Language Models (LLM)|Large language models]] (1), ai (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Generative AI]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[Data Collection]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** python (3)
 > **Speakers:** - [instructor] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-you-should-know?u=76281980&t=0)** - [Instructor] Before we get started, let's go over some of the background knowledge that you should have in order to get the most out of this course.
 >
-> **[0:06](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-you-should-know?u=76281980&t=6)** First, it will be helpful if you have some entry-level knowledge coding in Python.
+> **[0:06](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-you-should-know?u=76281980&t=6)** First, it will be helpful if you have some entry-level knowledge coding in [[Python (Programming Language)|Python]].
 >
 > **[0:11](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-you-should-know?u=76281980&t=11)** I will assume that you know how to import a Python package, refer to attributes of an object and call the methods of an object.
 >
-> **[0:19](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-you-should-know?u=76281980&t=19)** Next, it would also be helpful if you have some familiarity with the pandas and scikit-learn packages.
+> **[0:19](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-you-should-know?u=76281980&t=19)** Next, it would also be helpful if you have some familiarity with the [[Pandas (Software)|pandas]] and scikit-learn packages.
 >
 > **[0:25](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-you-should-know?u=76281980&t=25)** If you don't, no worries.
 >
@@ -150,19 +148,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), next (1), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** python (3)
 > **Tools:** jupyter (1)
 > **Speakers:** - [instructor] (1)
 
-#### The tools you need
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/the-tools-you-need?u=76281980)
+#### [The tools you need](https://www.linkedin.com/learning/machine-learning-with-python-foundations/the-tools-you-need?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-foundations/the-tools-you-need?u=76281980&t=0)** - [Instructor] Before working through the exercises in the course, I want to make sure that you have the tools you need to be successful.
 >
-> **[0:06](https://www.linkedin.com/learning/machine-learning-with-python-foundations/the-tools-you-need?u=76281980&t=6)** The first thing you want to make sure to do is install or verify that you have the latest version of Python 3.
+> **[0:06](https://www.linkedin.com/learning/machine-learning-with-python-foundations/the-tools-you-need?u=76281980&t=6)** The first thing you want to make sure to do is install or verify that you have the latest version of [[Python (Programming Language)|Python]] 3.
 >
 > **[0:12](https://www.linkedin.com/learning/machine-learning-with-python-foundations/the-tools-you-need?u=76281980&t=12)** I will be working in Python 3.8.
 >
@@ -195,8 +192,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/using-the-exercise-files?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/machine-learning-with-python-foundations/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -206,7 +202,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/machine-learning-with-python-foundations/using-the-exercise-files?u=76281980&t=9)** I recommend that you do so.
 >
-> **[0:11](https://www.linkedin.com/learning/machine-learning-with-python-foundations/using-the-exercise-files?u=76281980&t=11)** The best way to learn how to collect data, explore data, prepare data, and build machine learning models in Python is to practice doing it yourself.
+> **[0:11](https://www.linkedin.com/learning/machine-learning-with-python-foundations/using-the-exercise-files?u=76281980&t=11)** The best way to learn how to collect data, explore data, prepare data, and build machine learning models in [[Python (Programming Language)|Python]] is to practice doing it yourself.
 >
 > **[0:20](https://www.linkedin.com/learning/machine-learning-with-python-foundations/using-the-exercise-files?u=76281980&t=20)** The exercise files are organized into folders that correspond with the chapters of the course.
 >
@@ -232,7 +228,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Exercise Files:** exercise files (4)
 > **Tools:** anaconda (1), jupyter (1)
 > **UI Navigation:** click on (1), navigate to (1)
@@ -246,8 +242,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is machine learning?
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-machine-learning?u=76281980)
+#### [What is machine learning?](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-machine-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -299,7 +294,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-machine-learning?u=76281980&t=149)** After we train a model, which is a model that has learned the right set of instructions for a given task, going forward, we simply give it input data, and to apply its internal instructions to provide us with output.
 >
-> **[2:42](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-machine-learning?u=76281980&t=162)** What we just discussed is a type of machine learning known as supervised learning.
+> **[2:42](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-machine-learning?u=76281980&t=162)** What we just discussed is a type of machine learning known as [[Supervised Learning]].
 >
 > **[2:47](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-machine-learning?u=76281980&t=167)** Supervised learning is useful in solving problems, such as image recognition, text prediction, and spam filtering.
 >
@@ -309,7 +304,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-machine-learning?u=76281980&t=190)** Unsupervised learning is used in movie recommendation systems, and to perform customer segmentation for marketing purposes.
 >
-> **[3:18](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-machine-learning?u=76281980&t=198)** The third type of machine learning is known as reinforcement learning.
+> **[3:18](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-machine-learning?u=76281980&t=198)** The third type of machine learning is known as [[Reinforcement Learning]].
 >
 > **[3:23](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-machine-learning?u=76281980&t=203)** In this approach, there are two primary entities, the agent and the environment.
 >
@@ -321,17 +316,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Supervised Learning]] (2), [[Reinforcement Learning]] (2), next (1), game (1)
+> **Frameworks & Libraries:** [[Supervised Learning]] (2), [[Reinforcement Learning]] (2)
 > **Definitions:** is a  (5), known as (2), is an  (1), in other words (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is not machine learning?
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-not-machine-learning-23458529?u=76281980)
+#### [What is not machine learning?](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-not-machine-learning-23458529?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-not-machine-learning-23458529?u=76281980&t=0)** - [Fred] The field of machine learning and artificial intelligence is rife with specialized terms like unsupervised learning, statistical learning, data mining, optimization, large language models, deep learning, statistics, supervised learning, reinforcement learning, data science, and generative AI, just to name a few.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-not-machine-learning-23458529?u=76281980&t=0)** - [Fred] The field of machine learning and [[Artificial Intelligence (AI)|artificial intelligence]] is rife with specialized terms like unsupervised learning, statistical learning, [[Data Mining]], optimization, [[Large Language Models (LLM)|large language models]], [[Deep Learning]], [[Statistics]], [[Supervised Learning]], [[Reinforcement Learning]], [[Data Science]], and [[Generative AI]], just to name a few.
 >
 > **[0:22](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-not-machine-learning-23458529?u=76281980&t=22)** What do these terms really mean?
 >
@@ -341,7 +335,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-not-machine-learning-23458529?u=76281980&t=30)** Let's start by exploring the relationship between statistics and machine learning.
 >
-> **[0:35](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-not-machine-learning-23458529?u=76281980&t=35)** Some might characterize machine learning as an elevated form of statistics, but it's essential to understand that while machine learning does draw extensively from statistical concepts, its foundation extends beyond statistics to encompass principles from information theory, calculus, algebra, engineering, and even biology.
+> **[0:35](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-not-machine-learning-23458529?u=76281980&t=35)** Some might characterize machine learning as an elevated form of statistics, but it's essential to understand that while machine learning does draw extensively from statistical concepts, its foundation extends beyond statistics to encompass principles from information theory, [[Calculus]], algebra, engineering, and even biology.
 >
 > **[0:59](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-not-machine-learning-23458529?u=76281980&t=59)** Referring to machine learning as glorified statistics is akin to referring to physics as glorified mathematics or architecture as glorified reclaim.
 >
@@ -369,7 +363,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-not-machine-learning-23458529?u=76281980&t=147)** While machine learning prioritizes prediction by utilizing known data properties, data mining emphasizes on covering previously unknown patterns in data.
 >
-> **[2:40](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-not-machine-learning-23458529?u=76281980&t=160)** In the field of business analytics, the traditional understanding of machine learning is often referred to as predictive analytics, data mining as descriptive analytics, and optimization as prescriptive analytics.
+> **[2:40](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-not-machine-learning-23458529?u=76281980&t=160)** In the field of [[Business Analytics]], the traditional understanding of machine learning is often referred to as [[Predictive Analytics]], data mining as descriptive analytics, and optimization as prescriptive analytics.
 >
 > **[2:58](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-not-machine-learning-23458529?u=76281980&t=178)** We use descriptive analytics to identify patterns in historical data, predictive analytics to predict future outcomes, and prescriptive analytics to get a recommendation of the best course of action to take.
 >
@@ -385,9 +379,9 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-not-machine-learning-23458529?u=76281980&t=230)** In other words, all machine learning is AI, but not all AI is machine learning.
 >
-> **[3:57](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-not-machine-learning-23458529?u=76281980&t=237)** Artificial intelligence is a large field in computer science that deals with the simulation of intelligent behavior in computers.
+> **[3:57](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-not-machine-learning-23458529?u=76281980&t=237)** Artificial intelligence is a large field in computer science that deals with the [[Simulation]] of intelligent behavior in computers.
 >
-> **[4:05](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-not-machine-learning-23458529?u=76281980&t=245)** This includes behaviors such as visual perception, speech recognition, decision-making, and translation between languages.
+> **[4:05](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-not-machine-learning-23458529?u=76281980&t=245)** This includes behaviors such as visual perception, [[Speech Recognition]], [[Decision-Making]], and translation between languages.
 >
 > **[4:15](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-not-machine-learning-23458529?u=76281980&t=255)** Artificial intelligence models can be categorized in several different ways.
 >
@@ -397,13 +391,13 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-not-machine-learning-23458529?u=76281980&t=273)** That is discriminative AI and generative AI.
 >
-> **[4:37](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-not-machine-learning-23458529?u=76281980&t=277)** To illustrate the difference between these two approaches, let's compare them in the context of text analytics or natural language processing.
+> **[4:37](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-not-machine-learning-23458529?u=76281980&t=277)** To illustrate the difference between these two approaches, let's compare them in the context of text analytics or [[Natural Language Processing (NLP)|natural language processing]].
 >
 > **[4:47](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-not-machine-learning-23458529?u=76281980&t=287)** Discriminative AI models are models that focus on categorizing input data or on predicting a future outcome based on historical data.
 >
 > **[4:57](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-not-machine-learning-23458529?u=76281980&t=297)** When provided with the text of customer reviews of a local restaurant, a discriminative model can correctly label each review as either satisfied, unsatisfied, or neutral.
 >
-> **[5:10](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-not-machine-learning-23458529?u=76281980&t=310)** It is able to determine the probability that a particular review belongs to a certain category given the input text.
+> **[5:10](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-not-machine-learning-23458529?u=76281980&t=310)** It is able to determine the [[Probability]] that a particular review belongs to a certain category given the input text.
 >
 > **[5:18](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-not-machine-learning-23458529?u=76281980&t=318)** The machine learning approaches introduced in this course all fall under the discriminative AI umbrella.
 >
@@ -415,18 +409,17 @@ created: 2026-05-02
 >
 > **[5:52](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-not-machine-learning-23458529?u=76281980&t=352)** LLMs are generative AI models that are really good at understanding and generating human-like text based on the input or prompts they receive.
 >
-> **[6:03](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-not-machine-learning-23458529?u=76281980&t=363)** For a detailed explanation of generative AI and large language models, check out my LinkedIn Learning course titled, "[[Generative AI- [[Introduction to Large Language Models]]]]."
+> **[6:03](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-not-machine-learning-23458529?u=76281980&t=363)** For a detailed explanation of generative AI and large language models, check out my [[LinkedIn]] Learning course titled, "[[Generative AI- [[Introduction to Large Language Models]]]]."
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Generative AI]] (7), ai (7), [[Statistics]] (6), [[Analytics]] (6)
+> **Frameworks & Libraries:** [[Generative AI]] (7), [[Statistics]] (6), [[Artificial Intelligence (AI)|Artificial intelligence]] (5), [[Data Mining]] (5), [[Large Language Models (LLM)|Large language models]] (4)
 > **Definitions:** known as (3), in other words (2), is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [fred] (1)
 
-#### What is unsupervised learning?
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-unsupervised-learning?u=76281980)
+#### [What is unsupervised learning?](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-unsupervised-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -438,9 +431,9 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-unsupervised-learning?u=76281980&t=20)** To illustrate how unsupervised learning works, let's assume that we are part of the analytics team at the local credit union.
 >
-> **[0:27](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-unsupervised-learning?u=76281980&t=27)** Our task is to figure out better ways to market our products to our bank card customers.
+> **[0:27](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-unsupervised-learning?u=76281980&t=27)** Our task is to figure out better ways to market our [[Microsoft Products|products]] to our bank card customers.
 >
-> **[0:32](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-unsupervised-learning?u=76281980&t=32)** Instead of creating a marketing strategy for each customer, we could decide to use machine learning to group or segment our customers based on similarity, and then create a marketing strategy for each segment.
+> **[0:32](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-unsupervised-learning?u=76281980&t=32)** Instead of creating a [[Marketing Strategy]] for each customer, we could decide to use machine learning to group or segment our customers based on similarity, and then create a marketing strategy for each segment.
 >
 > **[0:43](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-unsupervised-learning?u=76281980&t=43)** Let's also assume that we already have two kinds of information about our customers.
 >
@@ -476,12 +469,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Marketing Strategy]] (3), [[Analytics]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Marketing Strategy]] (3), [[Microsoft Products|Products]] (1)
 > **Definitions:** is called (1), in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is supervised learning?
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-supervised-learning?u=76281980)
+#### [What is supervised learning?](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-supervised-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -491,7 +483,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-supervised-learning?u=76281980&t=14)** If we want to predict the outcome of a new event, we can use a predictive model that has been trained on similar or related events to predict the outcome.
 >
-> **[0:23](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-supervised-learning?u=76281980&t=23)** To illustrate how supervised learning works, let's assume that we work in the analytics department of a local credit union.
+> **[0:23](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-supervised-learning?u=76281980&t=23)** To illustrate how [[Supervised Learning]] works, let's assume that we work in the analytics department of a local credit union.
 >
 > **[0:30](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-supervised-learning?u=76281980&t=30)** Our task is to develop a machine learning model that predicts loan risk.
 >
@@ -551,18 +543,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Supervised Learning]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Supervised Learning]] (1)
 > **Definitions:** is a  (3), known as (1), means that (1), we call this (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is reinforcement learning?
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-reinforcement-learning?u=76281980)
+#### [What is reinforcement learning?](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-reinforcement-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-reinforcement-learning?u=76281980&t=0)** - [Narrator] Reinforcement learning is a science of learning to make decisions from interaction or the process of learning through feedback.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-reinforcement-learning?u=76281980&t=0)** - [Narrator] [[Reinforcement Learning]] is a science of learning to make decisions from interaction or the process of learning through feedback.
 >
 > **[0:07](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-reinforcement-learning?u=76281980&t=7)** It has many applications like autonomous driving, robotics trading and gaming.
 >
@@ -570,7 +561,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-reinforcement-learning?u=76281980&t=17)** A toddler sees something, does something, gets positive or negative feedback, then adjusts his or her future behavior accordingly.
 >
-> **[0:25](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-reinforcement-learning?u=76281980&t=25)** Reinforcement learning along with unsupervised and supervised learning form the three major branches of machine learning.
+> **[0:25](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-reinforcement-learning?u=76281980&t=25)** Reinforcement learning along with unsupervised and [[Supervised Learning]] form the three major branches of machine learning.
 >
 > **[0:33](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-reinforcement-learning?u=76281980&t=33)** Unlike unsupervised learning where the objective is to identify unknown patterns in unlabeled data and supervise learning where the objective is to learn patterns in previously labeled data, reinforcement learning attempts to tackle two distinct objectives.
 >
@@ -590,7 +581,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-reinforcement-learning?u=76281980&t=92)** The environment responds to the actions of the agent by providing feedback or observations to the agent.
 >
-> **[1:38](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-reinforcement-learning?u=76281980&t=98)** The feedback provided by the environment comes in two forms, state and reward.
+> **[1:38](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-reinforcement-learning?u=76281980&t=98)** The feedback provided by the environment comes in two [[Forms]], state and reward.
 >
 > **[1:43](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-reinforcement-learning?u=76281980&t=103)** The state describes the impact of the agent's previous actions on the environment and the possible actions the agent can take.
 >
@@ -672,7 +663,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Reinforcement Learning]] (9), game (4), data (2), [[Supervised Learning]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Reinforcement Learning]] (9), [[Supervised Learning]] (1), [[Forms]] (1)
 > **Definitions:** known as (7), is a  (5), stands for (2), means that (1), in other words (1)
 > **CLI Commands:** make (2), find (1)
 > **Versions:** 0.5 (2)
@@ -680,22 +671,21 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [narrator] (1)
 
-#### What are the steps to machine learning?
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-are-the-steps-to-machine-learning?u=76281980)
+#### [What are the steps to machine learning?](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-are-the-steps-to-machine-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-are-the-steps-to-machine-learning?u=76281980&t=0)** - [Instructor] There are six major steps in the machine learning process.
 >
-> **[0:03](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-are-the-steps-to-machine-learning?u=76281980&t=3)** The first is data collection.
+> **[0:03](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-are-the-steps-to-machine-learning?u=76281980&t=3)** The first is [[Data Collection]].
 >
 > **[0:06](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-are-the-steps-to-machine-learning?u=76281980&t=6)** During the data collection step, our objective is to identify and gather the data we need for machine learning.
 >
 > **[0:12](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-are-the-steps-to-machine-learning?u=76281980&t=12)** For unsupervised learning, this is the unlabeled data with unknown patterns that we intend to discover.
 >
-> **[0:18](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-are-the-steps-to-machine-learning?u=76281980&t=18)** For supervised learning, this is the labeled historical data that we intend to use to train and evaluate our model.
+> **[0:18](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-are-the-steps-to-machine-learning?u=76281980&t=18)** For [[Supervised Learning]], this is the labeled historical data that we intend to use to train and evaluate our model.
 >
-> **[0:25](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-are-the-steps-to-machine-learning?u=76281980&t=25)** For reinforcement learning, this is the data that helps our agent learn which actions yield the most reward.
+> **[0:25](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-are-the-steps-to-machine-learning?u=76281980&t=25)** For [[Reinforcement Learning]], this is the data that helps our agent learn which actions yield the most reward.
 >
 > **[0:32](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-are-the-steps-to-machine-learning?u=76281980&t=32)** If we liken the machine learning process to the process of making a delicious bowl of salad, then the data collection step is like gathering all the ingredients that would go into a salad into a single basket.
 >
@@ -713,11 +703,11 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-are-the-steps-to-machine-learning?u=76281980&t=73)** Just as we did for the previous step, if we liken the machine learning process to the process of making a bowl of salad, then the data exploration step is like inspecting every ingredient to make sure that it is fresh, ripe, and/or exactly what we want.
 >
-> **[1:29](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-are-the-steps-to-machine-learning?u=76281980&t=89)** The next step in the machine learning process is data preparation.
+> **[1:29](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-are-the-steps-to-machine-learning?u=76281980&t=89)** The next step in the machine learning process is [[Data Preparation]].
 >
 > **[1:33](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-are-the-steps-to-machine-learning?u=76281980&t=93)** Data preparation is the process of making sure that our data is suitable for the machine learning approach that we intend to use.
 >
-> **[1:40](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-are-the-steps-to-machine-learning?u=76281980&t=100)** It involves resolving data quality issues, such as missing data, noisy data, outlier data, and class imbalance.
+> **[1:40](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-are-the-steps-to-machine-learning?u=76281980&t=100)** It involves resolving [[Data Quality]] issues, such as missing data, noisy data, outlier data, and class imbalance.
 >
 > **[1:48](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-are-the-steps-to-machine-learning?u=76281980&t=108)** Data preparation also involves modifying or transforming the structure of our data in order to make it easier to work with.
 >
@@ -729,7 +719,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-are-the-steps-to-machine-learning?u=76281980&t=135)** If we plan on adding chicken to the salad, this is also the stage when we either grill, bake, or saute the chicken.
 >
-> **[2:23](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-are-the-steps-to-machine-learning?u=76281980&t=143)** Successful data science relies on good data.
+> **[2:23](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-are-the-steps-to-machine-learning?u=76281980&t=143)** Successful [[Data Science]] relies on good data.
 >
 > **[2:26](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-are-the-steps-to-machine-learning?u=76281980&t=146)** The data doesn't have to be perfect, but it should be good.
 >
@@ -789,7 +779,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (38), [[Supervised Learning]] (3), [[Reinforcement Learning]] (2), next (1)
+> **Frameworks & Libraries:** [[Data Collection]] (4), [[Data Preparation]] (4), [[Supervised Learning]] (3), [[Reinforcement Learning]] (2), [[Data Quality]] (1)
 > **CLI Commands:** make (4)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
@@ -800,12 +790,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Things to consider when collecting data
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/things-to-consider-when-collecting-data?u=76281980)
+#### [Things to consider when collecting data](https://www.linkedin.com/learning/machine-learning-with-python-foundations/things-to-consider-when-collecting-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-foundations/things-to-consider-when-collecting-data?u=76281980&t=0)** - [Instructor] Data collection is the first of the six stages or steps in the machine learning process.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-foundations/things-to-consider-when-collecting-data?u=76281980&t=0)** - [Instructor] [[Data Collection]] is the first of the six stages or steps in the machine learning process.
 >
 > **[0:05](https://www.linkedin.com/learning/machine-learning-with-python-foundations/things-to-consider-when-collecting-data?u=76281980&t=5)** During the data collection stage, our primary objective is to identify and gather the data we intend to use for machine learning.
 >
@@ -817,7 +806,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/machine-learning-with-python-foundations/things-to-consider-when-collecting-data?u=76281980&t=26)** Ensuring that this data is accurate is critically important to the success of their approach.
 >
-> **[0:32](https://www.linkedin.com/learning/machine-learning-with-python-foundations/things-to-consider-when-collecting-data?u=76281980&t=32)** Supervised learning algorithms use this data as a baseline for the learning process.
+> **[0:32](https://www.linkedin.com/learning/machine-learning-with-python-foundations/things-to-consider-when-collecting-data?u=76281980&t=32)** [[Supervised Learning]] [[Algorithms]] use this data as a baseline for the learning process.
 >
 > **[0:36](https://www.linkedin.com/learning/machine-learning-with-python-foundations/things-to-consider-when-collecting-data?u=76281980&t=36)** It serves as a source of truth upon which patterns are learned in order to make future predictions.
 >
@@ -851,11 +840,11 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/machine-learning-with-python-foundations/things-to-consider-when-collecting-data?u=76281980&t=147)** By doing this, we allow our model to gain a broader understanding of how income level impacts loan outcomes.
 >
-> **[2:35](https://www.linkedin.com/learning/machine-learning-with-python-foundations/things-to-consider-when-collecting-data?u=76281980&t=155)** The fifth consideration is one that is often overlooked, ethics.
+> **[2:35](https://www.linkedin.com/learning/machine-learning-with-python-foundations/things-to-consider-when-collecting-data?u=76281980&t=155)** The fifth consideration is one that is often overlooked, [[Ethics]].
 >
 > **[2:39](https://www.linkedin.com/learning/machine-learning-with-python-foundations/things-to-consider-when-collecting-data?u=76281980&t=159)** There are several ethical issues to consider during the data collection process.
 >
-> **[2:44](https://www.linkedin.com/learning/machine-learning-with-python-foundations/things-to-consider-when-collecting-data?u=76281980&t=164)** They include privacy, security, informed consent, and bias.
+> **[2:44](https://www.linkedin.com/learning/machine-learning-with-python-foundations/things-to-consider-when-collecting-data?u=76281980&t=164)** They include [[Privacy]], security, informed consent, and bias.
 >
 > **[2:49](https://www.linkedin.com/learning/machine-learning-with-python-foundations/things-to-consider-when-collecting-data?u=76281980&t=169)** It is important that processes and mitigating steps be put in place to address these issues as part of the process of acquiring ground truth data.
 >
@@ -877,21 +866,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (30), [[Algorithms]] (2), [[Supervised Learning]] (1), next (1), [[Ethics]] (1)
+> **Frameworks & Libraries:** [[Data Collection]] (4), [[Algorithms]] (2), [[Supervised Learning]] (1), [[Ethics]] (1), [[Privacy]] (1)
 > **Analogies:** such as (2), for example (2), imagine (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to import data in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-import-data-in-python?u=76281980)
+#### [How to import data in Python](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-import-data-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-import-data-in-python?u=76281980&t=0)** - [Instructor] One of the reasons why Python is such a popular programming language for machine learning is because it supports some very powerful and easy to use packages, which are purpose built for data analysis.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-import-data-in-python?u=76281980&t=0)** - [Instructor] One of the reasons why [[Python (Programming Language)|Python]] is such a popular programming language for machine learning is because it supports some very powerful and easy to use packages, which are purpose built for data analysis.
 >
-> **[0:12](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-import-data-in-python?u=76281980&t=12)** One of these packages is a pandas package.
+> **[0:12](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-import-data-in-python?u=76281980&t=12)** One of these packages is a [[Pandas (Software)|pandas]] package.
 >
 > **[0:15](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-import-data-in-python?u=76281980&t=15)** The pandas package provides several easy to use functions for creating, structuring, and importing data.
 >
@@ -955,11 +943,11 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-import-data-in-python?u=76281980&t=221)** There we have it.
 >
-> **[3:42](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-import-data-in-python?u=76281980&t=222)** We can also create a pandas data frame by importing a Microsoft Excel file.
+> **[3:42](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-import-data-in-python?u=76281980&t=222)** We can also create a pandas data frame by importing a [[Microsoft Excel]] file.
 >
 > **[3:47](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-import-data-in-python?u=76281980&t=227)** This time we're going to call it bricks5, and we will use the read_excel function, and we pass to it the name of the file we intend to read.
 >
-> **[4:02](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-import-data-in-python?u=76281980&t=242)** In this example, we read from an Excel file.
+> **[4:02](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-import-data-in-python?u=76281980&t=242)** In this example, we read from an [[Microsoft Excel|Excel]] file.
 >
 > **[4:05](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-import-data-in-python?u=76281980&t=245)** Note that for multi-sheet Excel files, the pandas read Excel function imports the first sheet by default.
 >
@@ -983,7 +971,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), [[Pandas (Software)|Pandas]] (15), [[Microsoft Excel|Excel]] (5), [[Python (Programming Language)|Python]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (15), [[Microsoft Excel|Excel]] (5), [[Python (Programming Language)|Python]] (1), [[Microsoft Excel]] (1)
 > **Definitions:** is a  (5)
 > **Analogies:** for example (2), similar to (1)
 > **CLI Commands:** python (1), make (1)
@@ -997,8 +985,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Describe your data
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/describe-your-data?u=76281980)
+#### [Describe your data](https://www.linkedin.com/learning/machine-learning-with-python-foundations/describe-your-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1086,14 +1073,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), feature (10), application (1)
 > **Definitions:** is a  (3), is an  (3), refers to (2), known as (2)
 > **Analogies:** such as (3), for example (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to summarize data in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-summarize-data-in-python?u=76281980)
+#### [How to summarize data in Python](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-summarize-data-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1101,7 +1086,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-summarize-data-in-python?u=76281980&t=12)** These aggregations or statistical measures, as they're commonly referred to, are helpful in describing the general and specific characteristics of data.
 >
-> **[0:22](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-summarize-data-in-python?u=76281980&t=22)** The Pandas data frame provides several easy to use methods that help us describe and summarize data.
+> **[0:22](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-summarize-data-in-python?u=76281980&t=22)** The [[Pandas (Software)|Pandas]] data frame provides several easy to use methods that help us describe and summarize data.
 >
 > **[0:28](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-summarize-data-in-python?u=76281980&t=28)** One of these methods is the info method.
 >
@@ -1121,7 +1106,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-summarize-data-in-python?u=76281980&t=82)** The describe method of a data frame is useful for this, the method returns a statistical summary of each of the columns in a data frame.
 >
-> **[1:29](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-summarize-data-in-python?u=76281980&t=89)** It's important to note that the descriptive statistics returned by the describe method depends on the data type of a column.
+> **[1:29](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-summarize-data-in-python?u=76281980&t=89)** It's important to note that the descriptive [[Statistics]] returned by the describe method depends on the data type of a column.
 >
 > **[1:37](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-summarize-data-in-python?u=76281980&t=97)** For example, let's get the descriptive statistics for the non-numeric brand name column in the washers data frame.
 >
@@ -1211,15 +1196,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), [[Statistics]] (4), [[Pandas (Software)|Pandas]] (3), next (1)
+> **Frameworks & Libraries:** [[Statistics]] (4), [[Pandas (Software)|Pandas]] (3)
 > **Analogies:** for example (5), such as (1)
 > **Versions:** 4.4 (1), 1.9 (1), 6.2 (1), 4.37 (1)
 > **CLI Commands:** make (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Visualize your data
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/visualize-your-data?u=76281980)
+#### [Visualize your data](https://www.linkedin.com/learning/machine-learning-with-python-foundations/visualize-your-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1295,23 +1279,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), feature (10)
 > **Analogies:** for example (4), such as (2), picture (1)
 > **Definitions:** is a  (5)
 > **Speakers:** - [instructor] (1)
 
-#### How to visualize data in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-visualize-data-in-python?u=76281980)
+#### [How to visualize data in Python](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-visualize-data-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-visualize-data-in-python?u=76281980&t=0)** - [Instructor] Like the popular saying, "a picture is worth a thousand words."
 >
-> **[0:04](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-visualize-data-in-python?u=76281980&t=4)** Visualizations are sometimes more useful than summary statistics in helping us understand our data.
+> **[0:04](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-visualize-data-in-python?u=76281980&t=4)** Visualizations are sometimes more useful than summary [[Statistics]] in helping us understand our data.
 >
-> **[0:11](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-visualize-data-in-python?u=76281980&t=11)** One of the most popular visualization packages in Python is a matplotlib package, which provides a host of powerful functions and methods that allow us to produce publication quality visualizations.
+> **[0:11](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-visualize-data-in-python?u=76281980&t=11)** One of the most popular visualization packages in [[Python (Programming Language)|Python]] is a matplotlib package, which provides a host of powerful functions and methods that allow us to produce publication quality visualizations.
 >
-> **[0:24](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-visualize-data-in-python?u=76281980&t=24)** The plot method of a Pandas dataframe provides an abstraction of the matplotlib functions.
+> **[0:24](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-visualize-data-in-python?u=76281980&t=24)** The plot method of a [[Pandas (Software)|Pandas]] dataframe provides an abstraction of the matplotlib functions.
 >
 > **[0:31](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-visualize-data-in-python?u=76281980&t=31)** To ensure that the plots we create in this tutorial appear right after our code, we have to run the following command.
 >
@@ -1411,7 +1393,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), feature (4), [[Python (Programming Language)|Python]] (3), next (3), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Statistics]] (1), [[Pandas (Software)|Pandas]] (1)
 > **Definitions:** is a  (5), in other words (1), is an  (1)
 > **Env Vars:** co2 (3), mpg (1), nan (1), epa (1)
 > **CLI Commands:** python (3), make (1)
@@ -1425,8 +1407,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Common data quality issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/common-data-quality-issues?u=76281980)
+#### [Common data quality issues](https://www.linkedin.com/learning/machine-learning-with-python-foundations/common-data-quality-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1434,9 +1415,9 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/machine-learning-with-python-foundations/common-data-quality-issues?u=76281980&t=6)** Such a dataset hardly exists, if at all.
 >
-> **[0:09](https://www.linkedin.com/learning/machine-learning-with-python-foundations/common-data-quality-issues?u=76281980&t=9)** In reality, most datasets have to be transformed or have data quality issues that need to be dealt with prior to being used for machine learning.
+> **[0:09](https://www.linkedin.com/learning/machine-learning-with-python-foundations/common-data-quality-issues?u=76281980&t=9)** In reality, most datasets have to be transformed or have [[Data Quality]] issues that need to be dealt with prior to being used for machine learning.
 >
-> **[0:17](https://www.linkedin.com/learning/machine-learning-with-python-foundations/common-data-quality-issues?u=76281980&t=17)** This is what the third stage in the machine learning process is all about, data preparation.
+> **[0:17](https://www.linkedin.com/learning/machine-learning-with-python-foundations/common-data-quality-issues?u=76281980&t=17)** This is what the third stage in the machine learning process is all about, [[Data Preparation]].
 >
 > **[0:23](https://www.linkedin.com/learning/machine-learning-with-python-foundations/common-data-quality-issues?u=76281980&t=23)** Data preparation is a process of making sure that our data is suitable for the machine learning approach that we choose to use.
 >
@@ -1450,7 +1431,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/machine-learning-with-python-foundations/common-data-quality-issues?u=76281980&t=59)** There are several reasons why data could be missing.
 >
-> **[1:01](https://www.linkedin.com/learning/machine-learning-with-python-foundations/common-data-quality-issues?u=76281980&t=61)** They include changes in data collection methods, human error, bias, or simply the lack of reliable input.
+> **[1:01](https://www.linkedin.com/learning/machine-learning-with-python-foundations/common-data-quality-issues?u=76281980&t=61)** They include changes in [[Data Collection]] methods, human error, bias, or simply the lack of reliable input.
 >
 > **[1:09](https://www.linkedin.com/learning/machine-learning-with-python-foundations/common-data-quality-issues?u=76281980&t=69)** Before we resolve missing data, we should attempt to understand why the data is missing and if there is a pattern to the missing values.
 >
@@ -1478,7 +1459,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/machine-learning-with-python-foundations/common-data-quality-issues?u=76281980&t=137)** Before we decide what to do with the outlier data, we must first understand why it exists and whether it is useful towards our machine learning goal.
 >
-> **[2:27](https://www.linkedin.com/learning/machine-learning-with-python-foundations/common-data-quality-issues?u=76281980&t=147)** Supervised machine learning algorithms learn by identifying rules or estimating the function that explains the value of the dependent variable based on the values of the independent variables.
+> **[2:27](https://www.linkedin.com/learning/machine-learning-with-python-foundations/common-data-quality-issues?u=76281980&t=147)** Supervised machine learning [[Algorithms]] learn by identifying rules or estimating the function that explains the value of the dependent variable based on the values of the independent variables.
 >
 > **[2:38](https://www.linkedin.com/learning/machine-learning-with-python-foundations/common-data-quality-issues?u=76281980&t=158)** If the values of the dependent variable are categorical, we refer to them as class labels and the proportion of examples that belong to each class label is known as a class distribution.
 >
@@ -1502,25 +1483,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), feature (2), express (1), front-end (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Data Quality]] (5), [[Data Preparation]] (2), [[Data Collection]] (1), [[Algorithms]] (1)
 > **Definitions:** is a  (4), known as (4), means that (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to resolve missing data in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-resolve-missing-data-in-python?u=76281980)
+#### [How to resolve missing data in Python](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-resolve-missing-data-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-resolve-missing-data-in-python?u=76281980&t=0)** - [Instructor] During the exploration, we may find that some of our data is missing or incomplete.
 >
-> **[0:05](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-resolve-missing-data-in-python?u=76281980&t=5)** Missing data could arise as a result of changes in data collection methods, human error, bias, or simply the lack of reliable input.
+> **[0:05](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-resolve-missing-data-in-python?u=76281980&t=5)** Missing data could arise as a result of changes in [[Data Collection]] methods, human error, bias, or simply the lack of reliable input.
 >
-> **[0:14](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-resolve-missing-data-in-python?u=76281980&t=14)** There are several ways to deal with missing data in Python.
+> **[0:14](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-resolve-missing-data-in-python?u=76281980&t=14)** There are several ways to deal with missing data in [[Python (Programming Language)|Python]].
 >
-> **[0:18](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-resolve-missing-data-in-python?u=76281980&t=18)** To illustrate how to deal with missing values, let's import a sample student dataset from an Excel spreadsheet and preview it.
+> **[0:18](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-resolve-missing-data-in-python?u=76281980&t=18)** To illustrate how to deal with missing values, let's import a sample student dataset from an [[Microsoft Excel|Excel]] spreadsheet and preview it.
 >
-> **[0:26](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-resolve-missing-data-in-python?u=76281980&t=26)** We can see that there are missing values in several of the columns in our data frame in order to list the rows of missing values for a particular column, we make use of the isnull method of a Pandas data frame to create a filter or a mask.
+> **[0:26](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-resolve-missing-data-in-python?u=76281980&t=26)** We can see that there are missing values in several of the columns in our data frame in order to list the rows of missing values for a particular column, we make use of the isnull method of a [[Pandas (Software)|Pandas]] data frame to create a filter or a mask.
 >
 > **[0:40](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-resolve-missing-data-in-python?u=76281980&t=40)** For example, we can list a rows in the data frame with missing state values as follows.
 >
@@ -1660,7 +1640,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), [[Pandas (Software)|Pandas]] (3), [[Python (Programming Language)|Python]] (1), [[Microsoft Excel|Excel]] (1), next (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (3), [[Data Collection]] (1), [[Python (Programming Language)|Python]] (1), [[Microsoft Excel|Excel]] (1)
 > **Analogies:** for example (8)
 > **CLI Commands:** find (1), python (1), make (1)
 > **UI Navigation:** go to (1), select the (1)
@@ -1669,8 +1649,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Normalizing your data
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/normalizing-your-data?u=76281980)
+#### [Normalizing your data](https://www.linkedin.com/learning/machine-learning-with-python-foundations/normalizing-your-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1678,9 +1657,9 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/machine-learning-with-python-foundations/normalizing-your-data?u=76281980&t=6)** Such a dataset hardly exists, if at all.
 >
-> **[0:09](https://www.linkedin.com/learning/machine-learning-with-python-foundations/normalizing-your-data?u=76281980&t=9)** In reality, most data sets have to be transformed or have data quality issues that need to be dealt with prior to being used for machine learning.
+> **[0:09](https://www.linkedin.com/learning/machine-learning-with-python-foundations/normalizing-your-data?u=76281980&t=9)** In reality, most data sets have to be transformed or have [[Data Quality]] issues that need to be dealt with prior to being used for machine learning.
 >
-> **[0:18](https://www.linkedin.com/learning/machine-learning-with-python-foundations/normalizing-your-data?u=76281980&t=18)** This is what the third stage in the machine learning process is all about, data preparation.
+> **[0:18](https://www.linkedin.com/learning/machine-learning-with-python-foundations/normalizing-your-data?u=76281980&t=18)** This is what the third stage in the machine learning process is all about, [[Data Preparation]].
 >
 > **[0:24](https://www.linkedin.com/learning/machine-learning-with-python-foundations/normalizing-your-data?u=76281980&t=24)** Data preparation is a process of making sure that our data is suitable for the machine learning approach that we choose to use.
 >
@@ -1690,7 +1669,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/machine-learning-with-python-foundations/normalizing-your-data?u=76281980&t=46)** The goal of normalization is to ensure that the values of a feature share a particular property, this often involves scaling the data to fall within a small or specified range.
 >
-> **[0:57](https://www.linkedin.com/learning/machine-learning-with-python-foundations/normalizing-your-data?u=76281980&t=57)** Normalization is required by certain machine learning algorithms, it reduces the complexity of our models and can make our results easier to interpret.
+> **[0:57](https://www.linkedin.com/learning/machine-learning-with-python-foundations/normalizing-your-data?u=76281980&t=57)** Normalization is required by certain machine learning [[Algorithms]], it reduces the complexity of our models and can make our results easier to interpret.
 >
 > **[1:05](https://www.linkedin.com/learning/machine-learning-with-python-foundations/normalizing-your-data?u=76281980&t=65)** There are several ways to normalize data.
 >
@@ -1742,13 +1721,13 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/machine-learning-with-python-foundations/normalizing-your-data?u=76281980&t=246)** This is generally not critical, however, it is important to note that log transformation works only for values that are positive.
 >
-> **[4:13](https://www.linkedin.com/learning/machine-learning-with-python-foundations/normalizing-your-data?u=76281980&t=253)** A plan log transformation to the fifth value in our example data, we get 4.991, applied to the rest of the values we now have 4.079, 4.380, 4.477, 4.602 and 4.991.
+> **[4:13](https://www.linkedin.com/learning/machine-learning-with-python-foundations/normalizing-your-data?u=76281980&t=253)** A plan log transformation to the fifth value in our example data, we get 4.991, applied to the [[Representational State Transfer (REST)|rest]] of the values we now have 4.079, 4.380, 4.477, 4.602 and 4.991.
 >
 > **[4:30](https://www.linkedin.com/learning/machine-learning-with-python-foundations/normalizing-your-data?u=76281980&t=270)** Notice that this approach minimize the distance between the original outlier values, 12,000 and 98,000 and the rest of the data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), feature (11), [[Algorithms]] (2), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[Data Preparation]] (3), [[Algorithms]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Data Quality]] (1)
 > **Versions:** 0.024 (2), 0.209 (2), 4.991 (2), 0.859 (1), 0.5 (1)
 > **Definitions:** is a  (4), known as (3)
 > **Code Identifiers:** minf (1), maxf (1), upperf (1), lowerf (1)
@@ -1757,12 +1736,11 @@ created: 2026-05-02
 > **Warnings:** note that (2)
 > **Analogies:** such as (1)
 
-#### How to normalize data in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-normalize-data-in-python?u=76281980)
+#### [How to normalize data in Python](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-normalize-data-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-normalize-data-in-python?u=76281980&t=0)** - Part of the objective of data preparation, is to transform our data in order to make it more suitable for machine learning.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-normalize-data-in-python?u=76281980&t=0)** - Part of the objective of [[Data Preparation]], is to transform our data in order to make it more suitable for machine learning.
 >
 > **[0:07](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-normalize-data-in-python?u=76281980&t=7)** During this step, we often have to restructure some of our data, so right.
 >
@@ -1770,11 +1748,11 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-normalize-data-in-python?u=76281980&t=13)** This is known as normalization.
 >
-> **[0:16](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-normalize-data-in-python?u=76281980&t=16)** There are several ways to normalize data in Python, to illustrate how to normalize data let's import and preview a sample vehicles emissions data set into a data frame called vehicles.
+> **[0:16](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-normalize-data-in-python?u=76281980&t=16)** There are several ways to normalize data in [[Python (Programming Language)|Python]], to illustrate how to normalize data let's import and preview a sample vehicles emissions data set into a data frame called vehicles.
 >
 > **[0:28](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-normalize-data-in-python?u=76281980&t=28)** Our goal is to normalize the CO2 emissions column.
 >
-> **[0:32](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-normalize-data-in-python?u=76281980&t=32)** So let's get descriptive statistics for that column, vehicles specify the column that we want, which is CO2 emissions.
+> **[0:32](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-normalize-data-in-python?u=76281980&t=32)** So let's get descriptive [[Statistics]] for that column, vehicles specify the column that we want, which is CO2 emissions.
 >
 > **[0:42](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-normalize-data-in-python?u=76281980&t=42)** And we call it that describe method to augment our understanding of the summary statistics.
 >
@@ -1798,7 +1776,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-normalize-data-in-python?u=76281980&t=139)** Notice that our result is a nonPareil.
 >
-> **[2:22](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-normalize-data-in-python?u=76281980&t=142)** We can convert it back to a data frame by using the pandas, data frame, construct a function.
+> **[2:22](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-normalize-data-in-python?u=76281980&t=142)** We can convert it back to a data frame by using the [[Pandas (Software)|pandas]], data frame, construct a function.
 >
 > **[2:28](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-normalize-data-in-python?u=76281980&t=148)** So let us right back CO2 emissions, the MM and a call the PD that data frame, construct a function.
 >
@@ -1832,7 +1810,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), [[Statistics]] (6), [[Python (Programming Language)|Python]] (2), next (2), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (6), [[Python (Programming Language)|Python]] (2), [[Data Preparation]] (1), [[Pandas (Software)|Pandas]] (1)
 > **Env Vars:** co2 (9)
 > **Versions:** 1269.57 (1), 476.55 (1), 467.74 (1), 3.8 (1), 6.7 (1)
 > **CLI Commands:** python (2), make (1)
@@ -1841,8 +1819,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - part (1)
 
-#### Sampling your data
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/sampling-your-data?u=76281980)
+#### [Sampling your data](https://www.linkedin.com/learning/machine-learning-with-python-foundations/sampling-your-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1942,14 +1919,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), next (3), feature (3)
 > **Definitions:** known as (7), is a  (3), means that (3), in other words (1)
 > **Analogies:** for example (1), imagine (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to sample data in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-sample-data-in-python?u=76281980)
+#### [How to sample data in Python](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-sample-data-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2069,7 +2044,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (29), next (3)
 > **Env Vars:** co2 (4), epa (1)
 > **Definitions:** is a  (2), means that (1)
 > **Versions:** 0.4 (1)
@@ -2077,8 +2051,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - prior (1)
 
-#### Reducing the dimensionality of your data
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/reducing-the-dimensionality-of-your-data?u=76281980)
+#### [Reducing the dimensionality of your data](https://www.linkedin.com/learning/machine-learning-with-python-foundations/reducing-the-dimensionality-of-your-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2144,7 +2117,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (14), data (9)
 > **Definitions:** is a  (3), is an  (1), in other words (1), known as (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** required to (1)
@@ -2155,8 +2127,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Classification vs. regression problems
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/classification-vs-regression-problems?u=76281980)
+#### [Classification vs. regression problems](https://www.linkedin.com/learning/machine-learning-with-python-foundations/classification-vs-regression-problems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2178,7 +2149,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/machine-learning-with-python-foundations/classification-vs-regression-problems?u=76281980&t=60)** In the example shown here, we intend to use profession, length of employment, and highest degree earned as predictors for income, which is a continuous value.
 >
-> **[1:09](https://www.linkedin.com/learning/machine-learning-with-python-foundations/classification-vs-regression-problems?u=76281980&t=69)** Most popular machine learning algorithms, such as decision trees, naive Bayes, neural networks, support vector machines, and K-nearest neighbors can be used to solve both regression and classification problems.
+> **[1:09](https://www.linkedin.com/learning/machine-learning-with-python-foundations/classification-vs-regression-problems?u=76281980&t=69)** Most popular machine learning [[Algorithms]], such as [[Decision Trees]], naive Bayes, [[Neural Networks]], support vector machines, and K-nearest neighbors can be used to solve both regression and classification problems.
 >
 > **[1:21](https://www.linkedin.com/learning/machine-learning-with-python-foundations/classification-vs-regression-problems?u=76281980&t=81)** However, there exists a family of algorithms that are tailor-made for regression and regression alone.
 >
@@ -2212,18 +2183,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Algorithms]] (2), [[Decision Trees]] (1), [[Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Decision Trees]] (1), [[Neural Networks]] (1)
 > **Definitions:** is a  (3), known as (2), means that (2)
 > **Analogies:** such as (3)
 > **Versions:** 0.75 (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to build a machine learning model in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-build-a-machine-learning-model-in-python?u=76281980)
+#### [How to build a machine learning model in Python](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-build-a-machine-learning-model-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-build-a-machine-learning-model-in-python?u=76281980&t=0)** - In this exercise, we'll use a historical data set, to build a linear regression model that predicts the number of bike rentals.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-build-a-machine-learning-model-in-python?u=76281980&t=0)** - In this exercise, we'll use a historical data set, to build a [[Linear Regression]] model that predicts the number of bike rentals.
 >
 > **[0:07](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-build-a-machine-learning-model-in-python?u=76281980&t=7)** Based on weather conditions.
 >
@@ -2239,7 +2209,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-build-a-machine-learning-model-in-python?u=76281980&t=28)** We can tell that there are 731 rows in the data set and that all four columns are numeric.
 >
-> **[0:34](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-build-a-machine-learning-model-in-python?u=76281980&t=34)** Next, we get summary statistics for the data.
+> **[0:34](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-build-a-machine-learning-model-in-python?u=76281980&t=34)** Next, we get summary [[Statistics]] for the data.
 >
 > **[0:39](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-build-a-machine-learning-model-in-python?u=76281980&t=39)** The statistics show the mean minimum, maximum standard deviation and present our values for the four features in the dataset.
 >
@@ -2265,7 +2235,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-build-a-machine-learning-model-in-python?u=76281980&t=132)** Let's start by creating a data frame called Y, for the dependent variable.
 >
-> **[2:20](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-build-a-machine-learning-model-in-python?u=76281980&t=140)** Then we split off the independent variables, into a data frame called X. Next, We import the train test split function, from the SK learn model selection sub package, then we split the X and Y data frames into X train X test, Y train and Y test to build a linear regression model in Python, we need to import the linear regression class, from the SK learn linear model sub package.
+> **[2:20](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-build-a-machine-learning-model-in-python?u=76281980&t=140)** Then we split off the independent variables, into a data frame called X. Next, We import the train test split function, from the SK learn model selection sub package, then we split the X and Y data frames into X train X test, Y train and Y test to build a linear regression model in [[Python (Programming Language)|Python]], we need to import the linear regression class, from the SK learn linear model sub package.
 >
 > **[2:51](https://www.linkedin.com/learning/machine-learning-with-python-foundations/how-to-build-a-machine-learning-model-in-python?u=76281980&t=171)** We then use the function to build our model.
 >
@@ -2313,18 +2283,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Linear Regression]] (8), next (4), [[Statistics]] (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (8), [[Statistics]] (2), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** means that (4), is a  (2), we call this (1)
 > **Versions:** 3800.68 (1), 80.35 (1), 4665.74 (1), 196.22 (1), 98.2 (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - in (1)
 
-#### Common machine learning algorithms
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/common-machine-learning-algorithms?u=76281980)
+#### [Common machine learning algorithms](https://www.linkedin.com/learning/machine-learning-with-python-foundations/common-machine-learning-algorithms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-foundations/common-machine-learning-algorithms?u=76281980&t=0)** - [Instructor] During the modeling stage, it's often beneficial to experiment with multiple machine learning algorithms and to fine tune their parameters to determine which one performs best on our specific problem.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-foundations/common-machine-learning-algorithms?u=76281980&t=0)** - [Instructor] During the modeling stage, it's often beneficial to experiment with multiple machine learning [[Algorithms]] and to fine tune their parameters to determine which one performs best on our specific problem.
 >
 > **[0:13](https://www.linkedin.com/learning/machine-learning-with-python-foundations/common-machine-learning-algorithms?u=76281980&t=13)** There are several models to choose from.
 >
@@ -2332,7 +2301,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/machine-learning-with-python-foundations/common-machine-learning-algorithms?u=76281980&t=25)** Let's explore a few of them.
 >
-> **[0:27](https://www.linkedin.com/learning/machine-learning-with-python-foundations/common-machine-learning-algorithms?u=76281980&t=27)** The machine learning model we built in the previous video was a linear regression model.
+> **[0:27](https://www.linkedin.com/learning/machine-learning-with-python-foundations/common-machine-learning-algorithms?u=76281980&t=27)** The machine learning model we built in the previous video was a [[Linear Regression]] model.
 >
 > **[0:33](https://www.linkedin.com/learning/machine-learning-with-python-foundations/common-machine-learning-algorithms?u=76281980&t=33)** It assumes that the relationship between a dependent variable and one or more independent variables is linear.
 >
@@ -2340,7 +2309,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/machine-learning-with-python-foundations/common-machine-learning-algorithms?u=76281980&t=52)** As the name suggests, the linear regression algorithm is used to solve regression problems, such as predicting how many bikes customers are likely to rent based on weather conditions.
 >
-> **[1:06](https://www.linkedin.com/learning/machine-learning-with-python-foundations/common-machine-learning-algorithms?u=76281980&t=66)** Unlike linear regression, the logistic regression algorithm models the relationship between the independent variables and the dependent variable using an S-shaped curve known as a sigmoid curve.
+> **[1:06](https://www.linkedin.com/learning/machine-learning-with-python-foundations/common-machine-learning-algorithms?u=76281980&t=66)** Unlike linear regression, the [[Logistic Regression]] algorithm models the relationship between the independent variables and the dependent variable using an S-shaped curve known as a sigmoid curve.
 >
 > **[1:19](https://www.linkedin.com/learning/machine-learning-with-python-foundations/common-machine-learning-algorithms?u=76281980&t=79)** The curve is based on what is known as a logit function, which assumes a linear relationship between the predictors and the log odds of the outcome.
 >
@@ -2350,17 +2319,17 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/machine-learning-with-python-foundations/common-machine-learning-algorithms?u=76281980&t=109)** As the name suggests, a decision tree represents the relationship between the values of one or more independent variables and those of a dependent variable using an inverted tree-like structure made up of decision nodes and leaf nodes connected by branches.
 >
-> **[2:08](https://www.linkedin.com/learning/machine-learning-with-python-foundations/common-machine-learning-algorithms?u=76281980&t=128)** Decision trees can solve both classification and regression problems.
+> **[2:08](https://www.linkedin.com/learning/machine-learning-with-python-foundations/common-machine-learning-algorithms?u=76281980&t=128)** [[Decision Trees]] can solve both classification and regression problems.
 >
 > **[2:13](https://www.linkedin.com/learning/machine-learning-with-python-foundations/common-machine-learning-algorithms?u=76281980&t=133)** Their intuitive nature makes them particularly useful in situations where transparency is crucial.
 >
 > **[2:20](https://www.linkedin.com/learning/machine-learning-with-python-foundations/common-machine-learning-algorithms?u=76281980&t=140)** For example, when building a model that makes recommendations on loan decisions based on whether a borrower will or will not default on their loan.
 >
-> **[2:30](https://www.linkedin.com/learning/machine-learning-with-python-foundations/common-machine-learning-algorithms?u=76281980&t=150)** Inspired by biological neurons, neural networks are particularly effective at processing patterns of inputs and outputs using a sequence of mathematical neurons arranged in layers.
+> **[2:30](https://www.linkedin.com/learning/machine-learning-with-python-foundations/common-machine-learning-algorithms?u=76281980&t=150)** Inspired by biological neurons, [[Neural Networks]] are particularly effective at processing patterns of inputs and outputs using a sequence of mathematical neurons arranged in layers.
 >
-> **[2:43](https://www.linkedin.com/learning/machine-learning-with-python-foundations/common-machine-learning-algorithms?u=76281980&t=163)** This makes them invaluable for tasks such as image detection, speech recognition, and language translation.
+> **[2:43](https://www.linkedin.com/learning/machine-learning-with-python-foundations/common-machine-learning-algorithms?u=76281980&t=163)** This makes them invaluable for tasks such as image detection, [[Speech Recognition]], and language translation.
 >
-> **[2:52](https://www.linkedin.com/learning/machine-learning-with-python-foundations/common-machine-learning-algorithms?u=76281980&t=172)** Neural networks are the basis of most of the recent groundbreaking advances in AI, such as deep and large language models.
+> **[2:52](https://www.linkedin.com/learning/machine-learning-with-python-foundations/common-machine-learning-algorithms?u=76281980&t=172)** Neural networks are the basis of most of the recent groundbreaking advances in AI, such as deep and [[Large Language Models (LLM)|large language models]].
 >
 > **[3:01](https://www.linkedin.com/learning/machine-learning-with-python-foundations/common-machine-learning-algorithms?u=76281980&t=181)** The algorithms discussed so far are all supervised machine learning algorithms, each with its particular set of strengths and weaknesses.
 >
@@ -2368,7 +2337,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/machine-learning-with-python-foundations/common-machine-learning-algorithms?u=76281980&t=202)** These types of models are known as ensembles.
 >
-> **[3:25](https://www.linkedin.com/learning/machine-learning-with-python-foundations/common-machine-learning-algorithms?u=76281980&t=205)** Ensembles are typically used for both classification and regression tasks and are known for their resiliency and effectiveness in capturing difficult patterns in the data.
+> **[3:25](https://www.linkedin.com/learning/machine-learning-with-python-foundations/common-machine-learning-algorithms?u=76281980&t=205)** Ensembles are typically used for both classification and regression tasks and are known for their [[Resiliency]] and effectiveness in capturing difficult patterns in the data.
 >
 > **[3:37](https://www.linkedin.com/learning/machine-learning-with-python-foundations/common-machine-learning-algorithms?u=76281980&t=217)** Random forests is a common ensemble learning technique that is made up of several decision trees known as a forest trained in parallel on subsets of the data.
 >
@@ -2382,7 +2351,7 @@ created: 2026-05-02
 >
 > **[4:36](https://www.linkedin.com/learning/machine-learning-with-python-foundations/common-machine-learning-algorithms?u=76281980&t=276)** The objective of unsupervised learning algorithms is to identify inherent patterns, structures, or groupings in data without much guidance on what to look for.
 >
-> **[4:47](https://www.linkedin.com/learning/machine-learning-with-python-foundations/common-machine-learning-algorithms?u=76281980&t=287)** Once such algorithm is k-means clustering.
+> **[4:47](https://www.linkedin.com/learning/machine-learning-with-python-foundations/common-machine-learning-algorithms?u=76281980&t=287)** Once such algorithm is [[k-means clustering]].
 >
 > **[4:50](https://www.linkedin.com/learning/machine-learning-with-python-foundations/common-machine-learning-algorithms?u=76281980&t=290)** The algorithm uses an iterative approach to assign each observation in the data to one of k clusters based on similarity.
 >
@@ -2398,7 +2367,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Algorithms]] (6), [[Linear Regression]] (3), [[Decision Trees]] (3), [[Logistic Regression]] (2)
+> **Frameworks & Libraries:** [[Algorithms]] (6), [[Linear Regression]] (3), [[Decision Trees]] (3), [[Logistic Regression]] (2), [[Neural Networks]] (2)
 > **Definitions:** known as (5), is a  (1)
 > **Analogies:** such as (5), for example (1)
 > **CLI Commands:** find (2)
@@ -2410,8 +2379,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps with applied machine learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/next-steps-with-applied-machine-learning-23461463?u=76281980)
+#### [Next steps with applied machine learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/next-steps-with-applied-machine-learning-23461463?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2419,7 +2387,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/machine-learning-with-python-foundations/next-steps-with-applied-machine-learning-23461463?u=76281980&t=1)** You now know what it means for machines to learn and the different ways in which machines learn.
 >
-> **[0:08](https://www.linkedin.com/learning/machine-learning-with-python-foundations/next-steps-with-applied-machine-learning-23461463?u=76281980&t=8)** You've learned how to collect data, explore data, and prepare data for machine learning, both conceptually and using Python.
+> **[0:08](https://www.linkedin.com/learning/machine-learning-with-python-foundations/next-steps-with-applied-machine-learning-23461463?u=76281980&t=8)** You've learned how to collect data, explore data, and prepare data for machine learning, both conceptually and using [[Python (Programming Language)|Python]].
 >
 > **[0:17](https://www.linkedin.com/learning/machine-learning-with-python-foundations/next-steps-with-applied-machine-learning-23461463?u=76281980&t=17)** You also now know how to build, evaluate, and interpret the results of a machine learning model using Python.
 >
@@ -2427,17 +2395,17 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/machine-learning-with-python-foundations/next-steps-with-applied-machine-learning-23461463?u=76281980&t=38)** Here are a few recommended next steps.
 >
-> **[0:41](https://www.linkedin.com/learning/machine-learning-with-python-foundations/next-steps-with-applied-machine-learning-23461463?u=76281980&t=41)** In this course, we wrap things up by building a simple linear regression model.
+> **[0:41](https://www.linkedin.com/learning/machine-learning-with-python-foundations/next-steps-with-applied-machine-learning-23461463?u=76281980&t=41)** In this course, we wrap things up by building a simple [[Linear Regression]] model.
 >
 > **[0:47](https://www.linkedin.com/learning/machine-learning-with-python-foundations/next-steps-with-applied-machine-learning-23461463?u=76281980&t=47)** This is one of many models we can build in Python.
 >
-> **[0:51](https://www.linkedin.com/learning/machine-learning-with-python-foundations/next-steps-with-applied-machine-learning-23461463?u=76281980&t=51)** I encourage you to explore my other LinkedIn learning courses in the machine learning with Python series.
+> **[0:51](https://www.linkedin.com/learning/machine-learning-with-python-foundations/next-steps-with-applied-machine-learning-23461463?u=76281980&t=51)** I encourage you to explore my other [[LinkedIn]] learning courses in the machine learning with Python series.
 >
-> **[0:58](https://www.linkedin.com/learning/machine-learning-with-python-foundations/next-steps-with-applied-machine-learning-23461463?u=76281980&t=58)** Next up in the series is machine learning with Python, decision trees, where we explore the supervised machine learning approach, known as a decision tree, and learn how to build both a classification tree as well as a regression tree in python.
+> **[0:58](https://www.linkedin.com/learning/machine-learning-with-python-foundations/next-steps-with-applied-machine-learning-23461463?u=76281980&t=58)** Next up in the series is machine learning with Python, [[Decision Trees]], where we explore the supervised machine learning approach, known as a decision tree, and learn how to build both a classification tree as well as a regression tree in python.
 >
-> **[1:15](https://www.linkedin.com/learning/machine-learning-with-python-foundations/next-steps-with-applied-machine-learning-23461463?u=76281980&t=75)** Then you can step into machine learning with Python, logistic regression, where you will learn about logistic regression and how to build and interpret the results of a logistic regression model in python.
+> **[1:15](https://www.linkedin.com/learning/machine-learning-with-python-foundations/next-steps-with-applied-machine-learning-23461463?u=76281980&t=75)** Then you can step into machine learning with Python, [[Logistic Regression]], where you will learn about logistic regression and how to build and interpret the results of a logistic regression model in python.
 >
-> **[1:28](https://www.linkedin.com/learning/machine-learning-with-python-foundations/next-steps-with-applied-machine-learning-23461463?u=76281980&t=88)** The next course in the series introduces the unsupervised machine learning approach, known as K-means clustering.
+> **[1:28](https://www.linkedin.com/learning/machine-learning-with-python-foundations/next-steps-with-applied-machine-learning-23461463?u=76281980&t=88)** The next course in the series introduces the unsupervised machine learning approach, known as [[k-means clustering]].
 >
 > **[1:37](https://www.linkedin.com/learning/machine-learning-with-python-foundations/next-steps-with-applied-machine-learning-23461463?u=76281980&t=97)** In that course, you will learn how the algorithm works as well as how to segment data using K-means in Python.
 >
@@ -2445,9 +2413,9 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/machine-learning-with-python-foundations/next-steps-with-applied-machine-learning-23461463?u=76281980&t=112)** This course explains what association rules are and walks learners through how to use association rules for market, basket analysis in Python.
 >
-> **[2:03](https://www.linkedin.com/learning/machine-learning-with-python-foundations/next-steps-with-applied-machine-learning-23461463?u=76281980&t=123)** Besides courses that explore how to build other machine learning models, another good next step is to explore courses that highlight the importance of ethics in data collection and use.
+> **[2:03](https://www.linkedin.com/learning/machine-learning-with-python-foundations/next-steps-with-applied-machine-learning-23461463?u=76281980&t=123)** Besides courses that explore how to build other machine learning models, another good next step is to explore courses that highlight the importance of [[Ethics]] in [[Data Collection]] and use.
 >
-> **[2:16](https://www.linkedin.com/learning/machine-learning-with-python-foundations/next-steps-with-applied-machine-learning-23461463?u=76281980&t=136)** An example of such a course is data ethics, watching out for data misuse.
+> **[2:16](https://www.linkedin.com/learning/machine-learning-with-python-foundations/next-steps-with-applied-machine-learning-23461463?u=76281980&t=136)** An example of such a course is [[Data Ethics]], watching out for data misuse.
 >
 > **[2:22](https://www.linkedin.com/learning/machine-learning-with-python-foundations/next-steps-with-applied-machine-learning-23461463?u=76281980&t=142)** Finally, I recommend that you continue to practice what you've learned, find new problems to solve, find interesting datasets on which to practice your new skills.
 >
@@ -2459,7 +2427,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), data (7), next (5), [[Logistic Regression]] (3), [[Ethics]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), [[Logistic Regression]] (3), [[Linear Regression]] (1), [[LinkedIn]] (1), [[Decision Trees]] (1)
 > **CLI Commands:** python (12), find (2)
 > **Definitions:** known as (2), is a  (1)
 > **Best Practices:** recommended (1)

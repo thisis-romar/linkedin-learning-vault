@@ -97,18 +97,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prerequisites
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/prerequisites?u=76281980)
+#### [Prerequisites](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/prerequisites?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/prerequisites?u=76281980&t=1)** - [Instructor] Hi, and welcome to this course on Validation, User Feedback and Performance Metrics, part of the AI Orchestration Series.
+> **[0:01](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/prerequisites?u=76281980&t=1)** - [Instructor] Hi, and welcome to this course on Validation, User Feedback and [[Performance Metrics]], part of the [[AI Orchestration]] Series.
 >
 > **[0:09](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/prerequisites?u=76281980&t=9)** Now, before we get down to the content of this course, here are some prereqs that you need to have to make the most of your learning.
 >
-> **[0:15](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/prerequisites?u=76281980&t=15)** You need to be familiar with how machine learning and artificial intelligence models work.
+> **[0:15](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/prerequisites?u=76281980&t=15)** You need to be familiar with how machine learning and [[Artificial Intelligence (AI)|artificial intelligence]] models work.
 >
-> **[0:20](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/prerequisites?u=76281980&t=20)** You need to be familiar with basic models such as regression, classification, clustering, and the basic principles of a generative AI and large language models.
+> **[0:20](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/prerequisites?u=76281980&t=20)** You need to be familiar with basic models such as regression, classification, clustering, and the basic principles of a [[Generative AI]] and [[Large Language Models (LLM)|large language models]].
 >
 > **[0:29](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/prerequisites?u=76281980&t=29)** You need to have a basic understanding of how we validate machine learning models, and you should be familiar with performance metrics for different kinds of models.
 >
@@ -116,14 +115,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Performance Metrics]] (2), ai (1), [[Orchestration]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Performance Metrics]] (2), [[AI Orchestration]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Generative AI]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Prerequisites:** you need to have (2)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Quick overview of this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/quick-overview-of-this-course?u=76281980)
+#### [Quick overview of this course](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/quick-overview-of-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -131,7 +129,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/quick-overview-of-this-course?u=76281980&t=4)** A quick overview.
 >
-> **[0:05](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/quick-overview-of-this-course?u=76281980&t=5)** We'll first talk about validation as a part of AI orchestration.
+> **[0:05](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/quick-overview-of-this-course?u=76281980&t=5)** We'll first talk about validation as a part of [[AI Orchestration]].
 >
 > **[0:10](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/quick-overview-of-this-course?u=76281980&t=10)** Validation is a critical step in the AI workflow because it ensures models perform reliably across different scenarios.
 >
@@ -141,7 +139,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/quick-overview-of-this-course?u=76281980&t=33)** We'll discuss methods like offline validation, benchmarking with golden data sets and AI-assisted evaluation to help ensure robustness before deployment.
 >
-> **[0:44](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/quick-overview-of-this-course?u=76281980&t=44)** The next chapter will cover performance metrics for AI orchestration.
+> **[0:44](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/quick-overview-of-this-course?u=76281980&t=44)** The next chapter will cover [[Performance Metrics]] for AI orchestration.
 >
 > **[0:49](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/quick-overview-of-this-course?u=76281980&t=49)** Assessing AI performance requires the right metrics tailored to different model types.
 >
@@ -155,17 +153,17 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/quick-overview-of-this-course?u=76281980&t=82)** And the final chapter of this course, we'll talk about user feedback for AI orchestration.
 >
-> **[1:28](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/quick-overview-of-this-course?u=76281980&t=88)** User feedback is essential for improving AI models, particularly large language models.
+> **[1:28](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/quick-overview-of-this-course?u=76281980&t=88)** User feedback is essential for improving AI models, particularly [[Large Language Models (LLM)|large language models]].
 >
 > **[1:33](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/quick-overview-of-this-course?u=76281980&t=93)** We'll discuss two different types of user feedback, explicit, in the form of user ratings or corrections, or implicit, in the form of click-through rates or dwell time.
 >
-> **[1:43](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/quick-overview-of-this-course?u=76281980&t=103)** We'll also discuss reinforcement learning from human feedback, or RLHF, which helps align models with human preferences.
+> **[1:43](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/quick-overview-of-this-course?u=76281980&t=103)** We'll also discuss [[Reinforcement Learning]] from human feedback, or RLHF, which helps align models with human preferences.
 >
 > **[1:50](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/quick-overview-of-this-course?u=76281980&t=110)** And we'll also discuss how fine-tuning foundation models based on real-world interactions ensures AI systems remain relevant, reliable, and aligned with user needs.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), [[Orchestration]] (3), data (1), next (1), [[Performance Metrics]] (1)
+> **Frameworks & Libraries:** [[AI Orchestration]] (3), [[Performance Metrics]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[Reinforcement Learning]] (1)
 > **Env Vars:** bleu (1), rouge (1), meteor (1), nli (1), llm (1)
 > **Analogies:** such as (2)
 > **Cross-References:** next chapter (1)
@@ -177,8 +175,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Validation in the ML workflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/validation-in-the-ml-workflow?u=76281980)
+#### [Validation in the ML workflow](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/validation-in-the-ml-workflow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -192,7 +189,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/validation-in-the-ml-workflow?u=76281980&t=28)** Once we have the data ready, we have the modeling phase where we develop and train the model.
 >
-> **[0:33](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/validation-in-the-ml-workflow?u=76281980&t=33)** This is where we select the appropriate algorithm, a regression model, a classification model, maybe neural networks, and immediately after training, that's when we validate or evaluate the model.
+> **[0:33](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/validation-in-the-ml-workflow?u=76281980&t=33)** This is where we select the appropriate algorithm, a regression model, a classification model, maybe [[Neural Networks]], and immediately after training, that's when we validate or evaluate the model.
 >
 > **[0:47](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/validation-in-the-ml-workflow?u=76281980&t=47)** And then of course, the final step in the workflow is where we deploy the model to production, where the trained and validated model runs maybe at an endpoint or in a web service.
 >
@@ -266,19 +263,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (30), feature (1), [[Neural Networks]] (1), web (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (1)
 > **UI Navigation:** select the (2)
 > **Definitions:** is an  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Types of cross-validation
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/types-of-cross-validation?u=76281980)
+#### [Types of cross-validation](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/types-of-cross-validation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/types-of-cross-validation?u=76281980&t=1)** - [Instructor] We'll first discuss validation techniques for traditional machine learning models.
 >
-> **[0:05](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/types-of-cross-validation?u=76281980&t=5)** These can be regression classification or clustering models, and they're typically implemented using decision trees, logistic regression, linear regression, or neural networks.
+> **[0:05](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/types-of-cross-validation?u=76281980&t=5)** These can be regression classification or clustering models, and they're typically implemented using [[Decision Trees]], [[Logistic Regression]], [[Linear Regression]], or [[Neural Networks]].
 >
 > **[0:15](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/types-of-cross-validation?u=76281980&t=15)** These models are typically validated by splitting your data into training and test data.
 >
@@ -310,9 +306,9 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/types-of-cross-validation?u=76281980&t=105)** Now, it turns out there are many different types of cross-validation.
 >
-> **[1:48](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/types-of-cross-validation?u=76281980&t=108)** There is regular or plain vanilla cross-validation where the dataset is split randomly into training and validation subsets multiple times.
+> **[1:48](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/types-of-cross-validation?u=76281980&t=108)** There is regular or plain [[Vanilla]] cross-validation where the dataset is split randomly into training and validation subsets multiple times.
 >
-> **[1:57](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/types-of-cross-validation?u=76281980&t=117)** The model is trained and evaluated repeatedly on different random splits, and the performance metrics are averaged to provide a general estimate.
+> **[1:57](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/types-of-cross-validation?u=76281980&t=117)** The model is trained and evaluated repeatedly on different random splits, and the [[Performance Metrics]] are averaged to provide a general estimate.
 >
 > **[2:05](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/types-of-cross-validation?u=76281980&t=125)** Then there is K-fold cross-validation, where the dataset is divided into K approximately equal sized folds.
 >
@@ -334,7 +330,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/types-of-cross-validation?u=76281980&t=197)** So your validation dataset is essentially just one data point.
 >
-> **[3:21](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/types-of-cross-validation?u=76281980&t=201)** For every iteration, you use one data point as the validation set and the rest of the data for training.
+> **[3:21](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/types-of-cross-validation?u=76281980&t=201)** For every iteration, you use one data point as the validation set and the [[Representational State Transfer (REST)|rest]] of the data for training.
 >
 > **[3:27](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/types-of-cross-validation?u=76281980&t=207)** It's computationally expensive, especially if you have large datasets.
 >
@@ -350,12 +346,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Decision Trees]] (1), [[Logistic Regression]] (1), [[Linear Regression]] (1), [[Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Decision Trees]] (1), [[Logistic Regression]] (1), [[Linear Regression]] (1), [[Neural Networks]] (1), [[Vanilla]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Regular and k-fold cross-validation
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/regular-and-k-fold-cross-validation?u=76281980)
+#### [Regular and k-fold cross-validation](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/regular-and-k-fold-cross-validation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -369,7 +364,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/regular-and-k-fold-cross-validation?u=76281980&t=20)** This process is repeated multiple times with different random splits of data in each iteration to ensure a comprehensive evaluation.
 >
-> **[0:29](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/regular-and-k-fold-cross-validation?u=76281980&t=29)** The model's performance metrics are averaged across all iterations, providing a more reliable estimate of its centralization ability compared to a single trained test split.
+> **[0:29](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/regular-and-k-fold-cross-validation?u=76281980&t=29)** The model's [[Performance Metrics]] are averaged across all iterations, providing a more reliable estimate of its centralization ability compared to a single trained test split.
 >
 > **[0:40](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/regular-and-k-fold-cross-validation?u=76281980&t=40)** A very popular cross-validation technique is k-Fold cross-validation.
 >
@@ -423,14 +418,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Performance Metrics]] (2), next (1)
+> **Frameworks & Libraries:** [[Performance Metrics]] (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Stratified cross-validation and nested cross-validation
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/stratified-cross-validation-and-nested-cross-validation?u=76281980)
+#### [Stratified cross-validation and nested cross-validation](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/stratified-cross-validation-and-nested-cross-validation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -482,13 +476,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (2)
 > **Definitions:** is a  (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [narrator] (1)
 
-#### K-fold cross-validation
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/k-fold-cross-validation?u=76281980)
+#### [K-fold cross-validation](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/k-fold-cross-validation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -496,7 +488,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/k-fold-cross-validation?u=76281980&t=4)** In this demo, we'll see how it works in practice using the scikit-learn library, which offers built-in classes for k-fold cross validation.
 >
-> **[0:14](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/k-fold-cross-validation?u=76281980&t=14)** I'll first set up the imports for all of the different libraries that I'll use, pandas, numpy, and scikit-learn, and matplotlib.
+> **[0:14](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/k-fold-cross-validation?u=76281980&t=14)** I'll first set up the imports for all of the different libraries that I'll use, [[Pandas (Software)|pandas]], numpy, and scikit-learn, and matplotlib.
 >
 > **[0:21](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/k-fold-cross-validation?u=76281980&t=21)** The dataset that I'll work with is the bank_churn_prediction dataset that I've downloaded from Kaggle.
 >
@@ -518,7 +510,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/k-fold-cross-validation?u=76281980&t=83)** I'm going to go ahead and drop those features.
 >
-> **[1:26](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/k-fold-cross-validation?u=76281980&t=86)** This will leave us with features that we consider relevant for our classification model, CreditScore, Geography, Tenure, Balance, number of products bought, whether they have a credit card or not, and so on.
+> **[1:26](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/k-fold-cross-validation?u=76281980&t=86)** This will leave us with features that we consider relevant for our classification model, CreditScore, Geography, Tenure, Balance, number of [[Microsoft Products|products]] bought, whether they have a credit card or not, and so on.
 >
 > **[1:37](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/k-fold-cross-validation?u=76281980&t=97)** The next step is for us to encode the categorical features in this data.
 >
@@ -654,7 +646,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), [[Pandas (Software)|Pandas]] (2), power (1), [[Microsoft Products|Products]] (1), next (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (2), [[Microsoft Products|Products]] (1)
 > **Code Identifiers:** bank_churn_prediction (1), get_dummies (1), drop_first (1), value_counts (1), fit_transform (1)
 > **Versions:** 0.2 (1), 0.859 (1), 0.75 (1), 0.46 (1), 0.57 (1)
 > **Definitions:** is a  (4), is an  (1), means that (1)
@@ -663,12 +655,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Validating LLMs
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/validating-llms?u=76281980)
+#### [Validating LLMs](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/validating-llms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/validating-llms?u=76281980&t=1)** - [Instructor] The most interesting and exciting models that we work with today are large language models.
+> **[0:01](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/validating-llms?u=76281980&t=1)** - [Instructor] The most interesting and exciting models that we work with today are [[Large Language Models (LLM)|large language models]].
 >
 > **[0:06](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/validating-llms?u=76281980&t=6)** They have the potential to revolutionize various industries by generating high-quality human text, translating languages, and answering questions.
 >
@@ -686,7 +677,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/validating-llms?u=76281980&t=62)** This can occur when the model tries to fill in gaps in its knowledge or when it's presented with ambiguous or incomplete prompts.
 >
-> **[1:09](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/validating-llms?u=76281980&t=69)** This can be mitigated by grounding models using techniques such as retrieval-augmented generation, or RAG, or using robust validation.
+> **[1:09](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/validating-llms?u=76281980&t=69)** This can be mitigated by grounding models using techniques such as [[Retrieval-Augmented Generation (RAG)|retrieval-augmented generation]], or RAG, or using robust validation.
 >
 > **[1:18](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/validating-llms?u=76281980&t=78)** Human language is complex and nuanced, which means it can be difficult for LLMs to consistently produce accurate and reliable outputs.
 >
@@ -696,7 +687,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/validating-llms?u=76281980&t=104)** LLMs may inherit societal biases, leading to outputs that perpetuate stereotypes and unfair associations.
 >
-> **[1:52](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/validating-llms?u=76281980&t=112)** The biases may be subtle but can have a significant impact, especially in applications like hiring or decision-making.
+> **[1:52](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/validating-llms?u=76281980&t=112)** The biases may be subtle but can have a significant impact, especially in applications like hiring or [[Decision-Making]].
 >
 > **[2:00](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/validating-llms?u=76281980&t=120)** There are many implications of biased models.
 >
@@ -712,7 +703,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/validating-llms?u=76281980&t=151)** There are several categories of techniques that you can use to validate these LLMs.
 >
-> **[2:36](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/validating-llms?u=76281980&t=156)** Offline validation is a broad approach to validation where the LLMs are tested using static, pre-collected datasets without real-time interaction.
+> **[2:36](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/validating-llms?u=76281980&t=156)** Offline validation is a broad approach to validation where the LLMs are tested using static, pre-collected datasets without [[Real-Time]] interaction.
 >
 > **[2:46](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/validating-llms?u=76281980&t=166)** Offline validation is a high-level strategy and can encompass techniques like golden datasets and benchmarking, and we'll talk about those next.
 >
@@ -734,14 +725,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), ai (4), [[Large Language Models (LLM)|Large language models]] (2), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1), rag (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (2), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1), [[Decision-Making]] (1), [[Real-Time]] (1)
 > **Definitions:** is a  (5), means that (2)
 > **Analogies:** such as (3)
 > **Env Vars:** rag (1)
 > **Speakers:** - [instructor] (1)
 
-#### Offline validation
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/offline-validation?u=76281980)
+#### [Offline validation](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/offline-validation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -749,7 +739,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/offline-validation?u=76281980&t=5)** This is where a trained model is evaluated using a pre collected static dataset.
 >
-> **[0:11](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/offline-validation?u=76281980&t=11)** So the evaluation happens without any real-time interaction or feedback.
+> **[0:11](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/offline-validation?u=76281980&t=11)** So the evaluation happens without any [[Real-Time]] interaction or feedback.
 >
 > **[0:15](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/offline-validation?u=76281980&t=15)** Essentially simulating real-world scenarios with historical data.
 >
@@ -793,7 +783,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/offline-validation?u=76281980&t=159)** So when would you use offline validation?
 >
-> **[2:42](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/offline-validation?u=76281980&t=162)** It's often used for model benchmarking when you want to compare the performance of different models or algorithms on a standardized dataset.
+> **[2:42](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/offline-validation?u=76281980&t=162)** It's often used for model benchmarking when you want to compare the performance of different models or [[Algorithms]] on a standardized dataset.
 >
 > **[2:50](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/offline-validation?u=76281980&t=170)** Offline validation can be used for algorithm selection as well when you evaluate different algorithms to determine the best fit for a particular task.
 >
@@ -805,13 +795,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Real-Time]] (3), [[Algorithms]] (2), feature (1)
+> **Frameworks & Libraries:** [[Real-Time]] (3), [[Algorithms]] (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Golden datasets
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/golden-datasets?u=76281980)
+#### [Golden datasets](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/golden-datasets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -859,13 +848,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), llm (3), [[Debugging]] (2), next (1), ai (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** llm (3)
 > **Speakers:** - [instructor] (1)
 
-#### Benchmarking
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/benchmarking?u=76281980)
+#### [Benchmarking](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/benchmarking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -881,7 +868,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/benchmarking?u=76281980&t=30)** Qualities like fluency, coherence, domain knowledge, and terminology expertise are measured.
 >
-> **[0:37](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/benchmarking?u=76281980&t=37)** Benchmarking involves evaluating the performance of large language models against standardized datasets, such as golden datasets, using metrics to assess their accuracy, efficiency, and robustness.
+> **[0:37](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/benchmarking?u=76281980&t=37)** Benchmarking involves evaluating the performance of [[Large Language Models (LLM)|large language models]] against standardized datasets, such as golden datasets, using metrics to assess their accuracy, efficiency, and robustness.
 >
 > **[0:50](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/benchmarking?u=76281980&t=50)** Commonly used metrics for large language models include accuracy, F1 score, perplexity, and latency, which is the time to inference.
 >
@@ -917,7 +904,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/benchmarking?u=76281980&t=158)** Latency or inference time is the time it takes for the model to generate a response or make a prediction.
 >
-> **[2:45](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/benchmarking?u=76281980&t=165)** As you might imagine, this is critical for real-time applications and just for a good user experience.
+> **[2:45](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/benchmarking?u=76281980&t=165)** As you might imagine, this is critical for [[Real-Time]] applications and just for a good [[User Experience (UX)|user experience]].
 >
 > **[2:51](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/benchmarking?u=76281980&t=171)** Here are some common benchmark datasets used for LLM evaluation.
 >
@@ -925,7 +912,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/benchmarking?u=76281980&t=179)** This is a reading comprehension dataset where models must answer questions based on a given passage of text.
 >
-> **[3:06](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/benchmarking?u=76281980&t=186)** SuperGLUE, where GLUE is an acronym for General Language Understanding Evaluation, is a suite of challenging natural language processing tasks for evaluating general language understanding, tasks like entailment, core reference resolution, and common sense reasoning.
+> **[3:06](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/benchmarking?u=76281980&t=186)** SuperGLUE, where GLUE is an acronym for General Language Understanding Evaluation, is a suite of challenging [[Natural Language Processing (NLP)|natural language processing]] tasks for evaluating general language understanding, tasks like entailment, core reference resolution, and common sense reasoning.
 >
 > **[3:22](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/benchmarking?u=76281980&t=202)** Entailment determines whether a given hypothesis logically follows from a given premise in natural language inference, and core reference reasoning involves identifying when different expressions in a text refer to the same entity.
 >
@@ -933,19 +920,19 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/benchmarking?u=76281980&t=221)** MMLU stands for massive Multitask Language Understanding, which is a dataset for assessing multitask performance across different domains like science, humanities, and mathematics.
 >
-> **[3:53](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/benchmarking?u=76281980&t=233)** The Microsoft MARCO dataset, which stands for Microsoft Machine Reading Comprehension, is a large dataset for evaluating models on information retrieval and passage ranking tasks.
+> **[3:53](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/benchmarking?u=76281980&t=233)** The [[Microsoft]] MARCO dataset, which stands for Microsoft Machine Reading Comprehension, is a large dataset for evaluating models on [[Information Retrieval]] and passage ranking tasks.
 >
 > **[4:06](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/benchmarking?u=76281980&t=246)** Common Crawl is a massive web crawl dataset often used for pre-training and benchmarking LLMs for general text understanding and generation.
 >
 > **[4:15](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/benchmarking?u=76281980&t=255)** All of the large language models that are in use today have been benchmarked on these datasets, and here, you can see how they've performed across these benchmarks.
 >
-> **[4:25](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/benchmarking?u=76281980&t=265)** Notice that GPT-4 evaluated on SQuAD performs quite well with an accuracy and F1 score of 88% and above, but notice its inference time, 220 milliseconds.
+> **[4:25](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/benchmarking?u=76281980&t=265)** Notice that [[GPT-4]] evaluated on SQuAD performs quite well with an accuracy and F1 score of 88% and above, but notice its inference time, 220 milliseconds.
 >
-> **[4:38](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/benchmarking?u=76281980&t=278)** PaLM 2, an earlier version of Google's Gemini model, did reasonably well on the SQuAD dataset, not as well as GPT-4, and its inference time is high too, 140 milliseconds.
+> **[4:38](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/benchmarking?u=76281980&t=278)** PaLM 2, an earlier version of [[Google]]'s [[Gemini]] model, did reasonably well on the SQuAD dataset, not as well as GPT-4, and its inference time is high too, 140 milliseconds.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (4), [[Microsoft]] (2), [[GPT-4]] (2), strengths (1), data (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (4), [[Microsoft]] (2), [[GPT-4]] (2), [[Real-Time]] (1), [[User Experience (UX)|User experience]] (1)
 > **Definitions:** is a  (6), stands for (4), is an  (1)
 > **Env Vars:** gpt (2), beu (1), bleu (1), llm (1), glue (1)
 > **Analogies:** such as (1), imagine (1), for example (1)
@@ -953,24 +940,23 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI validating AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/ai-validating-ai?u=76281980)
+#### [AI validating AI](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/ai-validating-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/ai-validating-ai?u=76281980&t=1)** - [Instructor] Now, let's talk more about AI validating AI.
 >
-> **[0:04](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/ai-validating-ai?u=76281980&t=4)** This refers to the process of using artificial intelligence models or systems to validate, evaluate, or debug other AI models.
+> **[0:04](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/ai-validating-ai?u=76281980&t=4)** This refers to the process of using [[Artificial Intelligence (AI)|artificial intelligence]] models or systems to validate, evaluate, or debug other AI models.
 >
 > **[0:12](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/ai-validating-ai?u=76281980&t=12)** And if you think about it, it is quite ingenious because this approach automates many aspects of traditional validation tasks, which means increased efficiency and ability to handle large scale validation needs.
 >
-> **[0:24](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/ai-validating-ai?u=76281980&t=24)** So you can have LLMs used to validate the responses of other LLMs, or specialized AI models that can be used to assess the outputs of, say, computer vision systems.
+> **[0:24](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/ai-validating-ai?u=76281980&t=24)** So you can have LLMs used to validate the responses of other LLMs, or specialized AI models that can be used to assess the outputs of, say, [[Computer Vision]] systems.
 >
 > **[0:35](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/ai-validating-ai?u=76281980&t=35)** As you might imagine, there are benefits as well as risks associated with this approach.
 >
 > **[0:40](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/ai-validating-ai?u=76281980&t=40)** This approach is scalable.
 >
-> **[0:42](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/ai-validating-ai?u=76281980&t=42)** AI validation excels at handling large scale validation tasks efficiently, particularly important in domains where vast amounts of data need to be processed and analyzed, such as image recognition or natural language processing.
+> **[0:42](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/ai-validating-ai?u=76281980&t=42)** AI validation excels at handling large scale validation tasks efficiently, particularly important in domains where vast amounts of data need to be processed and analyzed, such as image recognition or [[Natural Language Processing (NLP)|natural language processing]].
 >
 > **[0:55](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/ai-validating-ai?u=76281980&t=55)** By getting rid of human subjectivity, AI validation ensures that uniform evaluation criteria are applied consistently across AI models being assessed.
 >
@@ -988,7 +974,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/ai-validating-ai?u=76281980&t=103)** We know that complex AI models tend to be black-boxes.
 >
-> **[1:49](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/ai-validating-ai?u=76281980&t=109)** Neural networks struggle to explain their validation decisions in a way that is easily understandable to humans.
+> **[1:49](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/ai-validating-ai?u=76281980&t=109)** [[Neural Networks]] struggle to explain their validation decisions in a way that is easily understandable to humans.
 >
 > **[1:55](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/ai-validating-ai?u=76281980&t=115)** And this lack of transparency can make it challenging to identify the root cause of validation failures, and of course, the most obvious risk or challenge where you get the reliable validation model in the first place.
 >
@@ -996,7 +982,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Computer Vision]] (1), data (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Computer Vision]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Neural Networks]] (1)
 > **Definitions:** refers to (1), is a  (1)
 > **Analogies:** imagine (1), such as (1)
 > **CLI Commands:** make (1)
@@ -1007,8 +993,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Evaluating models using metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/evaluating-models-using-metrics?u=76281980)
+#### [Evaluating models using metrics](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/evaluating-models-using-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1026,7 +1011,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/evaluating-models-using-metrics?u=76281980&t=35)** And finally, clustering, groups unlabeled data into clusters based on similarities of data points and identifies hidden structures or patterns without predefined labels.
 >
-> **[0:47](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/evaluating-models-using-metrics?u=76281980&t=47)** Here, regression and classification are examples of supervised learning techniques.
+> **[0:47](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/evaluating-models-using-metrics?u=76281980&t=47)** Here, regression and classification are examples of [[Supervised Learning]] techniques.
 >
 > **[0:51](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/evaluating-models-using-metrics?u=76281980&t=51)** Both require label data.
 >
@@ -1054,14 +1039,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Supervised Learning]] (1)
+> **Frameworks & Libraries:** [[Supervised Learning]] (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Evaluating regression models
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/evaluating-regression-models?u=76281980)
+#### [Evaluating regression models](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/evaluating-regression-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1123,13 +1107,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12)
 > **Definitions:** is an  (2), is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Evaluating classification models
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/evaluating-classification-models?u=76281980)
+#### [Evaluating classification models](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/evaluating-classification-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1221,14 +1203,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Evaluating clustering models
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/evaluating-clustering-models?u=76281980)
+#### [Evaluating clustering models](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/evaluating-clustering-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1264,12 +1244,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **Versions:** 0.553 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Accuracy precision recall
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/accuracy-precision-recall?u=76281980)
+#### [Accuracy precision recall](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/accuracy-precision-recall?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1291,7 +1269,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/accuracy-precision-recall?u=76281980&t=48)** If you look at the click counts, you can see that a majority of customers, 602, did not click on an ad, and very few customers, 148, did click on an ad.
 >
-> **[0:59](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/accuracy-precision-recall?u=76281980&t=59)** The imbalanced nature of this dataset becomes more stark when you visualize this using a bar plot.
+> **[0:59](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/accuracy-precision-recall?u=76281980&t=59)** The imbalanced nature of this dataset becomes more [[Stark (Accessibility Software)|stark]] when you visualize this using a bar plot.
 >
 > **[1:05](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/accuracy-precision-recall?u=76281980&t=65)** Notice that the vast majority of records are customers who did not click on an ad.
 >
@@ -1311,7 +1289,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/accuracy-precision-recall?u=76281980&t=109)** I'm going to instantiate a scikit-learn pipeline that will allow me to incorporate both the pre-processor and the model itself.
 >
-> **[1:57](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/accuracy-precision-recall?u=76281980&t=117)** I have my pre-processor, and the model is a logistic regression model, and I call fit on the training data to train the model.
+> **[1:57](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/accuracy-precision-recall?u=76281980&t=117)** I have my pre-processor, and the model is a [[Logistic Regression]] model, and I call fit on the training data to train the model.
 >
 > **[2:04](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/accuracy-precision-recall?u=76281980&t=124)** Let's now use this model for predictions and then see how this model performs.
 >
@@ -1381,7 +1359,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Stark (Accessibility Software)|Stark]] (1), [[Logistic Regression]] (1)
+> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (1), [[Logistic Regression]] (1)
 > **UI Navigation:** click on (12)
 > **Definitions:** is a  (2), is an  (1)
 > **Code Identifiers:** x_train (1), y_train (1)
@@ -1390,18 +1368,17 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Prerequisites:** set up (1)
 
-#### Evaluating large language models (LLMs)
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/evaluating-large-language-models-llms?u=76281980)
+#### [Evaluating large language models (LLMs)](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/evaluating-large-language-models-llms?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/evaluating-large-language-models-llms?u=76281980&t=1)** - [Instructor] We've discussed the metrics that we'd use to evaluate traditional machine-learning models.
 >
-> **[0:05](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/evaluating-large-language-models-llms?u=76281980&t=5)** How would we evaluate large language models?
+> **[0:05](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/evaluating-large-language-models-llms?u=76281980&t=5)** How would we evaluate [[Large Language Models (LLM)|large language models]]?
 >
 > **[0:08](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/evaluating-large-language-models-llms?u=76281980&t=8)** But first, let's talk about why evaluation of LLMs is even necessary.
 >
-> **[0:13](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/evaluating-large-language-models-llms?u=76281980&t=13)** LLMs are increasing the used in applications that directly impact users, such as chat bots, content creation tools, and even medical diagnosis systems.
+> **[0:13](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/evaluating-large-language-models-llms?u=76281980&t=13)** LLMs are increasing the used in applications that directly impact users, such as chat bots, [[Content Creation]] tools, and even medical diagnosis systems.
 >
 > **[0:22](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/evaluating-large-language-models-llms?u=76281980&t=22)** This means it's very important to ensure that the outputs of these models are accurate, relevant to what the user wants, and safe for end users.
 >
@@ -1483,13 +1460,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (8), application (2), [[Large Language Models (LLM)|Large language models]] (1), [[Content Creation]] (1), data (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (1), [[Content Creation]] (1)
 > **Env Vars:** llm (8)
 > **Analogies:** such as (5), for example (1), imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Human evaluation
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/human-evaluation?u=76281980)
+#### [Human evaluation](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/human-evaluation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1505,7 +1481,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/human-evaluation?u=76281980&t=57)** Here are some techniques used in human evaluation of models.
 >
-> **[1:00](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/human-evaluation?u=76281980&t=60)** The first is pairwise comparison, and you might have actually seen this when you work with ChatGPT.
+> **[1:00](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/human-evaluation?u=76281980&t=60)** The first is pairwise comparison, and you might have actually seen this when you work with [[ChatGPT]].
 >
 > **[1:06](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/human-evaluation?u=76281980&t=66)** This method involves presenting two model outputs to human evaluators, and asking them to choose the better one based on some specific criteria.
 >
@@ -1529,14 +1505,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (4), data (2), [[ChatGPT]] (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (2)
 > **Env Vars:** llm (4)
 > **Definitions:** refers to (1), is an  (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
-#### Statistical methods for LLM evaluation
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/statistical-methods-for-llm-evaluation?u=76281980)
+#### [Statistical methods for LLM evaluation](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/statistical-methods-for-llm-evaluation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1546,7 +1521,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/statistical-methods-for-llm-evaluation?u=76281980&t=18)** Now, the good thing about statistical evaluation is that this is a standardized approach to evaluate models across different data sets.
 >
-> **[0:27](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/statistical-methods-for-llm-evaluation?u=76281980&t=27)** This makes it easy for developers to compare different algorithms or different versions of a model.
+> **[0:27](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/statistical-methods-for-llm-evaluation?u=76281980&t=27)** This makes it easy for developers to compare different [[Algorithms]] or different versions of a model.
 >
 > **[0:33](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/statistical-methods-for-llm-evaluation?u=76281980&t=33)** This is often used by developers and data scientists to identify areas where the model needs improvement, or guide the tuning of model parameters and figure out when a model meets the desired performance threshold, and whether it's ready for deployment.
 >
@@ -1562,7 +1537,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/statistical-methods-for-llm-evaluation?u=76281980&t=92)** This is often used in machine translation tasks.
 >
-> **[1:35](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/statistical-methods-for-llm-evaluation?u=76281980&t=95)** METEOR, where METEOR stands for Metric for Evaluation of Translation with Explicit Ordering, takes into account synonymy, stemming and word order, and gives us a more flexible evaluation for machine translation and text generation task compared to BLEU scores.
+> **[1:35](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/statistical-methods-for-llm-evaluation?u=76281980&t=95)** METEOR, where METEOR stands for Metric for Evaluation of Translation with Explicit Ordering, takes into account synonymy, stemming and [[Microsoft Word|word]] order, and gives us a more flexible evaluation for machine translation and text generation task compared to BLEU scores.
 >
 > **[1:53](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/statistical-methods-for-llm-evaluation?u=76281980&t=113)** Perplexity scores measure how well a language model predicts a sample of text.
 >
@@ -1574,14 +1549,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), data (2), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Algorithms]] (1)
 > **Env Vars:** rouge (2), bleu (2), meteor (2), weat (1)
 > **Definitions:** stands for (3), is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### ROUGE scores
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/rouge-scores?u=76281980)
+#### [ROUGE scores](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/rouge-scores?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1611,7 +1585,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/rouge-scores?u=76281980&t=88)** ROUGE captures sentence structure similarity through the ROUGE-L score.
 >
-> **[1:34](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/rouge-scores?u=76281980&t=94)** This metric evaluates the longest common subsequence, which reflects how well the generated text maintains the sentence structure and the word order in the original.
+> **[1:34](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/rouge-scores?u=76281980&t=94)** This metric evaluates the longest common subsequence, which reflects how well the generated text maintains the sentence structure and the [[Microsoft Word|word]] order in the original.
 >
 > **[1:44](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/rouge-scores?u=76281980&t=104)** A variant of the ROUGE metric, ROUGE-S, assesses the overlap of skip bigrams, which are word pairs that can be separated by other words.
 >
@@ -1641,14 +1615,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), next (3)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3)
 > **Env Vars:** rouge (20)
 > **Definitions:** stands for (1), is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### BLEU score
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/bleu-score?u=76281980)
+#### [BLEU score](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/bleu-score?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1666,20 +1639,19 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/bleu-score?u=76281980&t=45)** So this idea of a brevity penalty is a little different from how ROUGE scores work.
 >
-> **[0:50](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/bleu-score?u=76281980&t=50)** BLEU scores also take into account word order within n-grams and penalize generated text that has the correct words, but in a different sequence compared to the reference.
+> **[0:50](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/bleu-score?u=76281980&t=50)** BLEU scores also take into account [[Microsoft Word|word]] order within n-grams and penalize generated text that has the correct words, but in a different sequence compared to the reference.
 >
 > **[1:00](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/bleu-score?u=76281980&t=60)** A higher BLEU score reflects a greater similarity between the generated text and the reference, suggesting that the model has produced a translation or summary that closely matches human-created outputs.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Env Vars:** bleu (5), rouge (2)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### METEOR score
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/meteor-score?u=76281980)
+#### [METEOR score](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/meteor-score?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1689,9 +1661,9 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/meteor-score?u=76281980&t=19)** This provides a balance between the two.
 >
-> **[0:21](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/meteor-score?u=76281980&t=21)** Now, unlike blue scores, METEOR incorporates synonym matching, allowing it to recognize words with similar meanings, thus improving the evaluation of content even if synonyms of the word are used instead of the exact word itself.
+> **[0:21](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/meteor-score?u=76281980&t=21)** Now, unlike blue scores, METEOR incorporates synonym matching, allowing it to recognize words with similar meanings, thus improving the evaluation of content even if synonyms of the [[Microsoft Word|word]] are used instead of the exact word itself.
 >
-> **[0:38](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/meteor-score?u=76281980&t=38)** METEOR accounts for stemming, which is a common technique used in natural language processing.
+> **[0:38](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/meteor-score?u=76281980&t=38)** METEOR accounts for stemming, which is a common technique used in [[Natural Language Processing (NLP)|natural language processing]].
 >
 > **[0:44](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/meteor-score?u=76281980&t=44)** METEOR recognizes words with the same root.
 >
@@ -1708,18 +1680,17 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Perplexity
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/perplexity?u=76281980)
+#### [Perplexity](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/perplexity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/perplexity?u=76281980&t=1)** - [Instructor] Another common metric for evaluating large language models is perplexity, and this is where [perplexity.ai](https://perplexity.ai) gets its name from.
+> **[0:01](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/perplexity?u=76281980&t=1)** - [Instructor] Another common metric for evaluating [[Large Language Models (LLM)|large language models]] is perplexity, and this is where [perplexity.ai](https://perplexity.ai) gets its name from.
 >
 > **[0:09](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/perplexity?u=76281980&t=9)** Perplexity is a measure of how well a language model predicts a sample of text.
 >
 > **[0:14](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/perplexity?u=76281980&t=14)** Lower perplexity indicates better predictive performance.
 >
-> **[0:18](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/perplexity?u=76281980&t=18)** To be more precise, perplexity measures how well a language model predicts the next word in a sequence based on a likelihood of a word occurring given all of the words that have been generated so far, all of the preceding words.
+> **[0:18](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/perplexity?u=76281980&t=18)** To be more precise, perplexity measures how well a language model predicts the next [[Microsoft Word|word]] in a sequence based on a likelihood of a word occurring given all of the words that have been generated so far, all of the preceding words.
 >
 > **[0:33](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/perplexity?u=76281980&t=33)** Now, how do you interpret perplexity?
 >
@@ -1727,7 +1698,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/perplexity?u=76281980&t=48)** Now, the formula that perplexity uses is fairly complex.
 >
-> **[0:52](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/perplexity?u=76281980&t=52)** It's calculated as the inverse probability of the correct word based on the model's prediction, normalized by the number of words with the formula typically being the exponent of the average negative log likelihood.
+> **[0:52](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/perplexity?u=76281980&t=52)** It's calculated as the inverse [[Probability]] of the correct word based on the model's prediction, normalized by the number of words with the formula typically being the exponent of the average negative log likelihood.
 >
 > **[1:06](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/perplexity?u=76281980&t=66)** I basically got this definition from the documentation.
 >
@@ -1755,7 +1726,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), data (5), next (4), [[Large Language Models (LLM)|Large language models]] (1), ai (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), [[Large Language Models (LLM)|Large language models]] (1), [[Probability]] (1)
 > **Env Vars:** bleu (1), rouge (1), meteor (1)
 > **URLs:** [perplexity.ai](https://perplexity.ai) (1)
 > **Documentation:** the documentation (1)
@@ -1763,8 +1734,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Model-based methods for LLM evaluation
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/model-based-methods-for-llm-evaluation?u=76281980)
+#### [Model-based methods for LLM evaluation](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/model-based-methods-for-llm-evaluation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1796,14 +1766,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), ai (2), llm (1)
 > **Env Vars:** nli (1), bleurt (1), llm (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Natural language inference
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/natural-language-inference?u=76281980)
+#### [Natural language inference](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/natural-language-inference?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1882,8 +1850,7 @@ created: 2026-05-02
 > **CLI Commands:** cat (1)
 > **Speakers:** - [instructor] (1)
 
-#### BLEURT
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/bleurt?u=76281980)
+#### [BLEURT](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/bleurt?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1893,7 +1860,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/bleurt?u=76281980&t=16)** This is a pre-trained language model, and can be used to assess text similarity with a deeper understanding of semantics.
 >
-> **[0:24](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/bleurt?u=76281980&t=24)** Unlike traditional models that rely on exact word matches, BLEURT considers both lexical and contextual alignment between generated text and reference text.
+> **[0:24](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/bleurt?u=76281980&t=24)** Unlike traditional models that rely on exact [[Microsoft Word|word]] matches, BLEURT considers both lexical and contextual alignment between generated text and reference text.
 >
 > **[0:35](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/bleurt?u=76281980&t=35)** Here is a summary of what BLEURT is.
 >
@@ -1909,7 +1876,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/bleurt?u=76281980&t=96)** BLEURT makes use of the BERT model.
 >
-> **[1:39](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/bleurt?u=76281980&t=99)** BERT stands for Bidirectional Encoder Representations from Transformers, and this was developed by Google AI back in 2018, and it revolutionized natural language processing by introducing a deep pre-trained bidirectional model for understanding language context.
+> **[1:39](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/bleurt?u=76281980&t=99)** BERT stands for Bidirectional Encoder Representations from Transformers, and this was developed by [[Google]] AI back in 2018, and it revolutionized [[Natural Language Processing (NLP)|natural language processing]] by introducing a deep pre-trained bidirectional model for understanding language context.
 >
 > **[1:56](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/bleurt?u=76281980&t=116)** BERT is bidirectional, and this means it considers the context of a word from both its left and the right, and this allows BERT a more nuanced understanding of language compared to unidirectional models, which only process sentences from say, left to right.
 >
@@ -1941,14 +1908,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Microsoft Word|Word]] (3), power (1), [[Google]] (1), ai (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Google]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Env Vars:** bleurt (12), bert (12), nlp (1), wmt (1)
 > **Definitions:** is a  (4), stands for (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Judge models
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/judge-models?u=76281980)
+#### [Judge models](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/judge-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1984,7 +1950,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/judge-models?u=76281980&t=139)** They can mimic human judgment by assessing text for fluency, coherence, relevance, factual accuracy, and provide qualitative insights that go beyond traditional metrics, like BLEU scores or ROUGE scores.
 >
-> **[2:31](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/judge-models?u=76281980&t=151)** Unlike word overlap metrics, LLM judges often evaluate the overall meaning and context of text, giving you a more holistic assessment.
+> **[2:31](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/judge-models?u=76281980&t=151)** Unlike [[Microsoft Word|word]] overlap metrics, LLM judges often evaluate the overall meaning and context of text, giving you a more holistic assessment.
 >
 > **[2:40](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/judge-models?u=76281980&t=160)** They'll consider paraphrasing of text, semantic similarity, and have nuanced language understanding.
 >
@@ -2014,18 +1980,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (16), data (4), ai (3), prompt (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Env Vars:** llm (16), bleu (2), rouge (2), bloom (1), opt (1)
 > **Analogies:** such as (3)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### LLM evaluation
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/llm-evaluation?u=76281980)
+#### [LLM evaluation](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/llm-evaluation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/llm-evaluation?u=76281980&t=1)** - [Instructor] In this demo, we'll work with a framework used for evaluating large language models or LLM's DeepEval.
+> **[0:01](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/llm-evaluation?u=76281980&t=1)** - [Instructor] In this demo, we'll work with a framework used for evaluating [[Large Language Models (LLM)|large language models]] or LLM's DeepEval.
 >
 > **[0:07](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/llm-evaluation?u=76281980&t=7)** DeepEval allows you to use various metrics including accuracy, coherence, and factual consistency to evaluate LLMs.
 >
@@ -2033,23 +1998,23 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/llm-evaluation?u=76281980&t=23)** In this demo, we'll do a very quick overview of how DeepEval can be used to evaluate large language models.
 >
-> **[0:30](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/llm-evaluation?u=76281980&t=30)** If you'd like to learn more about DeepEval, here is their GitHub page, confident ai/deepeval.
+> **[0:30](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/llm-evaluation?u=76281980&t=30)** If you'd like to learn more about DeepEval, here is their [[GitHub]] page, confident ai/deepeval.
 >
 > **[0:38](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/llm-evaluation?u=76281980&t=38)** And here, you'll get complete instructions for how the LLM evaluation framework works, how you can install and get set up with DeepEval, and all of the basic and advanced use cases.
 >
-> **[0:50](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/llm-evaluation?u=76281980&t=50)** DeepEval is available as a Python library and all you need to do is pip install this library on your machine.
+> **[0:50](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/llm-evaluation?u=76281980&t=50)** DeepEval is available as a [[Python (Programming Language)|Python]] library and all you need to do is pip install this library on your machine.
 >
 > **[0:56](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/llm-evaluation?u=76281980&t=56)** So let's go back to our code here and pip install DeepEval.
 >
 > **[1:00](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/llm-evaluation?u=76281980&t=60)** In addition to DeepEval, I'm going to install the Open AI library because I'm going to be making calls to the OpenAI APIs.
 >
-> **[1:08](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/llm-evaluation?u=76281980&t=68)** We'll use DeepEval to evaluate the responses of the GPT-4o model, and I also install the hugging face transformers library and the datasets library.
+> **[1:08](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/llm-evaluation?u=76281980&t=68)** We'll use DeepEval to evaluate the responses of the GPT-4o model, and I also install the [[Hugging Face]] transformers library and the datasets library.
 >
 > **[1:18](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/llm-evaluation?u=76281980&t=78)** We'll need these libraries to access the SQuAD dataset, the question answering dataset from Stanford, which we'll use to evaluate the OpenAI GPT-4o model.
 >
 > **[1:29](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/llm-evaluation?u=76281980&t=89)** When I first initialized DeepEval, I encountered an error because it was unable to install the PyArrow library that it depends on.
 >
-> **[1:37](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/llm-evaluation?u=76281980&t=97)** PyArrow is used for fast data processing, particularly for handling columnar data in memory.
+> **[1:37](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/llm-evaluation?u=76281980&t=97)** PyArrow is used for fast [[Data Processing]], particularly for handling columnar data in memory.
 >
 > **[1:43](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/llm-evaluation?u=76281980&t=103)** DeepEval failed when it tried to compile PyArrow on my machine.
 >
@@ -2077,7 +2042,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/llm-evaluation?u=76281980&t=164)** Now, you are, of course, free to evaluate the output of any other large language model.
 >
-> **[2:49](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/llm-evaluation?u=76281980&t=169)** I set the OpenAI API key in my environment variable using os.environ, and this will allow me to make API calls to OpenAI.
+> **[2:49](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/llm-evaluation?u=76281980&t=169)** I set the [[OpenAI API]] key in my environment variable using os.environ, and this will allow me to make API calls to OpenAI.
 >
 > **[2:58](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/llm-evaluation?u=76281980&t=178)** Now, we'll see how OpenAI performs on question answering, and the ground truth dataset that we'll use here is the SQuAD dataset, the Stanford question answering dataset.
 >
@@ -2253,7 +2218,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (5), api (5), data (3), prompt (3), [[Large Language Models (LLM)|Large language models]] (2)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (2), [[Python (Programming Language)|Python]] (2), [[GitHub]] (1), [[Hugging Face]] (1), [[Data Processing]] (1)
 > **Env Vars:** api (6), llm (5), gpt (5), fdny (1)
 > **Prerequisites:** install (7), set up (4), configure (1)
 > **CLI Commands:** make (4), python (2), pip (2)
@@ -2267,12 +2232,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### User feedback in LLMs
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/user-feedback-in-llms?u=76281980)
+#### [User feedback in LLMs](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/user-feedback-in-llms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/user-feedback-in-llms?u=76281980&t=1)** - [Instructor] We'll now move on to discussing the role of user feedback in AI orchestration, and this is particularly needed for large language models.
+> **[0:01](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/user-feedback-in-llms?u=76281980&t=1)** - [Instructor] We'll now move on to discussing the role of user feedback in [[AI Orchestration]], and this is particularly needed for [[Large Language Models (LLM)|large language models]].
 >
 > **[0:10](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/user-feedback-in-llms?u=76281980&t=10)** Let's first talk about how the process of user feedback works.
 >
@@ -2324,12 +2288,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), data (2), [[Orchestration]] (1), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[AI Orchestration]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implicit and explicit feedback
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/implicit-and-explicit-feedback?u=76281980)
+#### [Implicit and explicit feedback](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/implicit-and-explicit-feedback?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2339,7 +2302,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/implicit-and-explicit-feedback?u=76281980&t=15)** Implicit feedback is feedback that's gathered without explicit participation from the user.
 >
-> **[0:20](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/implicit-and-explicit-feedback?u=76281980&t=20)** These are signals which are gathered by observing and analyzing user behavior within the system, whether it's an e-commerce site or your app.
+> **[0:20](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/implicit-and-explicit-feedback?u=76281980&t=20)** These are signals which are gathered by observing and analyzing user behavior within the system, whether it's an [[E-Commerce]] site or your app.
 >
 > **[0:28](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/implicit-and-explicit-feedback?u=76281980&t=28)** Explicit feedback refers to direct input or signals which are actively provided by users to express their opinions such as ratings.
 >
@@ -2387,7 +2350,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/implicit-and-explicit-feedback?u=76281980&t=138)** For example, measuring the number of students who turn up for a class is a better indicator of the class's popularity than comparing survey feedback.
 >
-> **[2:28](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/implicit-and-explicit-feedback?u=76281980&t=148)** Implicit feedback is collected continuously in real-time as users interact with the system, and this allows developers immediate insights into user behavior and allows them to dynamically adapt the system to improve experience.
+> **[2:28](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/implicit-and-explicit-feedback?u=76281980&t=148)** Implicit feedback is collected continuously in [[Real-Time]] as users interact with the system, and this allows developers immediate insights into user behavior and allows them to dynamically adapt the system to improve experience.
 >
 > **[2:43](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/implicit-and-explicit-feedback?u=76281980&t=163)** Of course, implicit feedback has its own set of challenges.
 >
@@ -2435,7 +2398,7 @@ created: 2026-05-02
 >
 > **[4:58](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/implicit-and-explicit-feedback?u=76281980&t=298)** This means that with explicit feedback, users are aware that they're providing feedback and encouraged to provide thoughtful input.
 >
-> **[5:06](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/implicit-and-explicit-feedback?u=76281980&t=306)** Explicit feedback is often used for supervised fine tuning of machine learning models because the signals are very, very clear and it makes it easier to align models with user preferences.
+> **[5:06](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/implicit-and-explicit-feedback?u=76281980&t=306)** Explicit feedback is often used for supervised [[Fine Tuning]] of machine learning models because the signals are very, very clear and it makes it easier to align models with user preferences.
 >
 > **[5:18](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/implicit-and-explicit-feedback?u=76281980&t=318)** What are some of the pros and cons of explicit feedback?
 >
@@ -2461,7 +2424,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (3), data (3), ai (1), [[E-Commerce]] (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (1), [[Real-Time]] (1), [[Fine Tuning]] (1)
 > **Definitions:** refers to (2), is a  (2), means that (1)
 > **Analogies:** such as (2), for example (2), for instance (1)
 > **Env Vars:** llm (1)
@@ -2469,12 +2432,11 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reinforcement learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/reinforcement-learning?u=76281980)
+#### [Reinforcement learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/reinforcement-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/reinforcement-learning?u=76281980&t=1)** - [Instructor] The importance of incorporating user feedback brings us to a discussion of reinforcement learning from human feedback, or RLHF.
+> **[0:01](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/reinforcement-learning?u=76281980&t=1)** - [Instructor] The importance of incorporating user feedback brings us to a discussion of [[Reinforcement Learning]] from human feedback, or RLHF.
 >
 > **[0:11](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/reinforcement-learning?u=76281980&t=11)** This technique of incorporating user feedback makes use of reinforcement learning, hence the name RLHF.
 >
@@ -2510,7 +2472,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/reinforcement-learning?u=76281980&t=92)** And the rewards are the feedback signals that guide the learning process.
 >
-> **[1:36](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/reinforcement-learning?u=76281980&t=96)** Reinforcement learning agents often employ policies and value functions to guide their decision-making.
+> **[1:36](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/reinforcement-learning?u=76281980&t=96)** Reinforcement learning agents often employ policies and value functions to guide their [[Decision-Making]].
 >
 > **[1:42](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/reinforcement-learning?u=76281980&t=102)** A policy just defines the agent's strategy for selecting actions in different states.
 >
@@ -2576,7 +2538,7 @@ created: 2026-05-02
 >
 > **[5:16](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/reinforcement-learning?u=76281980&t=316)** Reward models are usually trained to predict reward signals based on LLM outputs and user feedback.
 >
-> **[5:24](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/reinforcement-learning?u=76281980&t=324)** These can be simple regression models or can be more complex neural networks, depending on how complex your reward function is.
+> **[5:24](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/reinforcement-learning?u=76281980&t=324)** These can be simple regression models or can be more complex [[Neural Networks]], depending on how complex your reward function is.
 >
 > **[5:31](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/reinforcement-learning?u=76281980&t=331)** Make sure you take steps to prevent reward hacking.
 >
@@ -2588,19 +2550,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Reinforcement Learning]] (10), llm (8), [[Decision-Making]] (2), data (2), ai (1)
+> **Frameworks & Libraries:** [[Reinforcement Learning]] (10), [[Decision-Making]] (2), [[Neural Networks]] (1)
 > **Env Vars:** llm (8), rlhf (2)
 > **Analogies:** such as (3), for example (1)
 > **Definitions:** is an  (1), is a  (1), refers to (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reinforcement learning from human feedback
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/reinforcement-learning-from-human-feedback?u=76281980)
+#### [Reinforcement learning from human feedback](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/reinforcement-learning-from-human-feedback?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/reinforcement-learning-from-human-feedback?u=76281980&t=1)** - [Instructor] Reinforcement Learning from Human Feedback, or RLHF, is a training method where a model is fine-tuned using human preferences.
+> **[0:01](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/reinforcement-learning-from-human-feedback?u=76281980&t=1)** - [Instructor] [[Reinforcement Learning]] from Human Feedback, or RLHF, is a training method where a model is fine-tuned using human preferences.
 >
 > **[0:09](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/reinforcement-learning-from-human-feedback?u=76281980&t=9)** It works by calculating human feedback on different model outputs, training a reward model to predict human preferences, and then using reinforcement learning to optimize the model for better responses.
 >
@@ -2646,11 +2607,11 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/reinforcement-learning-from-human-feedback?u=76281980&t=149)** A reward model is then trained using the collected feedback to predict the quality of outputs and provide a reward signal for reinforcement learning.
 >
-> **[2:38](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/reinforcement-learning-from-human-feedback?u=76281980&t=158)** The language model is then fine-tuned using reinforcement learning algorithms.
+> **[2:38](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/reinforcement-learning-from-human-feedback?u=76281980&t=158)** The language model is then fine-tuned using reinforcement learning [[Algorithms]].
 >
 > **[2:43](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/reinforcement-learning-from-human-feedback?u=76281980&t=163)** Example algorithms include the proximal policy optimization, and the objective of the language model is to maximize the rewards predicted by the reward model.
 >
-> **[2:53](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/reinforcement-learning-from-human-feedback?u=76281980&t=173)** ChatGPT has been fine-tuned using RLHF.
+> **[2:53](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/reinforcement-learning-from-human-feedback?u=76281980&t=173)** [[ChatGPT]] has been fine-tuned using RLHF.
 >
 > **[2:57](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/reinforcement-learning-from-human-feedback?u=76281980&t=177)** ChatGPT collects human feedback on generated responses where human annotators rank outputs based on relevance, coherence, and safety.
 >
@@ -2666,7 +2627,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Reinforcement Learning]] (8), [[ChatGPT]] (5), prompt (3), [[Algorithms]] (2), llm (1)
+> **Frameworks & Libraries:** [[Reinforcement Learning]] (8), [[ChatGPT]] (5), [[Algorithms]] (2)
 > **Env Vars:** rlhf (5), llm (1)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (1)
@@ -2677,14 +2638,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Summary and next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/summary-and-next-steps?u=76281980)
+#### [Summary and next steps](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/summary-and-next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/summary-and-next-steps?u=76281980&t=1)** - [Narrator] And this brings us to the end of this course on validation, user feedback, and performance metrics in AI orchestration.
+> **[0:01](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/summary-and-next-steps?u=76281980&t=1)** - [Narrator] And this brings us to the end of this course on validation, user feedback, and [[Performance Metrics]] in [[AI Orchestration]].
 >
-> **[0:09](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/summary-and-next-steps?u=76281980&t=9)** We started this course off by looking at validation techniques in traditional machine learning models, such as regression, classification, and clustering, as well as in modern large language models.
+> **[0:09](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/summary-and-next-steps?u=76281980&t=9)** We started this course off by looking at validation techniques in traditional machine learning models, such as regression, classification, and clustering, as well as in modern [[Large Language Models (LLM)|large language models]].
 >
 > **[0:20](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/summary-and-next-steps?u=76281980&t=20)** We then moved on to discussing performance metrics for models.
 >
@@ -2694,9 +2654,9 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/summary-and-next-steps?u=76281980&t=37)** And finally, we moved on to incorporating user feedback to improve models.
 >
-> **[0:42](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/summary-and-next-steps?u=76281980&t=42)** And here we specifically discussed reinforcement learning and reinforcement learning with human feedback used with LLMs.
+> **[0:42](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/summary-and-next-steps?u=76281980&t=42)** And here we specifically discussed [[Reinforcement Learning]] and reinforcement learning with human feedback used with LLMs.
 >
-> **[0:50](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/summary-and-next-steps?u=76281980&t=50)** LinkedIn Learning has a number of other courses on AI Orchestration that you might find interesting.
+> **[0:50](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/summary-and-next-steps?u=76281980&t=50)** [[LinkedIn]] Learning has a number of other courses on AI Orchestration that you might find interesting.
 >
 > **[0:55](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/summary-and-next-steps?u=76281980&t=55)** "Planning and Orchestrating for Observability," "Designing the Prototype Architecture and Data Strategy," and finally, "Developing and Testing your AI Prototype."
 >
@@ -2710,7 +2670,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Performance Metrics]] (3), ai (3), [[Orchestration]] (2), [[Reinforcement Learning]] (2), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[Performance Metrics]] (3), [[AI Orchestration]] (2), [[Reinforcement Learning]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** llm (1)
 > **Cross-References:** we discussed (1)

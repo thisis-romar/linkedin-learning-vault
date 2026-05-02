@@ -63,8 +63,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data is king
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/data-is-king?u=76281980)
+#### [Data is king](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/data-is-king?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -86,7 +85,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), ux (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -95,8 +93,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting your objectives
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/setting-your-objectives?u=76281980)
+#### [Setting your objectives](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/setting-your-objectives?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -108,7 +105,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/setting-your-objectives?u=76281980&t=18)** This seems obvious, but especially for those of us who are new to research, it's easy to get caught in the trap of applying the same methods all the time.
 >
-> **[0:26](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/setting-your-objectives?u=76281980&t=26)** I walk through choosing the right kind of research method in my UX Research Fundamentals class.
+> **[0:26](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/setting-your-objectives?u=76281980&t=26)** I walk through choosing the right kind of research method in my [[UX Research]] Fundamentals class.
 >
 > **[0:31](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/setting-your-objectives?u=76281980&t=31)** So feel free to check that out if you need a refresher.
 >
@@ -128,7 +125,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/setting-your-objectives?u=76281980&t=105)** You'd want to explore things like people's shopping patterns and frequency, what, if any, planning or organizational tools they use while shopping, and what sort of perks they find valuable.
 >
-> **[1:56](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/setting-your-objectives?u=76281980&t=116)** Sometimes it's easier to identify and rule out the things that you aren't as interested in or that you don't need to explore, like maybe you already have really good data about what products sell best on different days of the week, or decide that you only want to focus on people who spend a certain amount per week.
+> **[1:56](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/setting-your-objectives?u=76281980&t=116)** Sometimes it's easier to identify and rule out the things that you aren't as interested in or that you don't need to explore, like maybe you already have really good data about what [[Microsoft Products|products]] sell best on different days of the week, or decide that you only want to focus on people who spend a certain amount per week.
 >
 > **[2:13](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/setting-your-objectives?u=76281980&t=133)** If you're doing more solution-focused work, it can be especially useful to craft a hypothesis to frame your research questions and narrow the scope of your effort.
 >
@@ -162,7 +159,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), business (2), ux (1), product (1), mobile application (1)
+> **Frameworks & Libraries:** [[UX Research]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for instance (2)
 > **Prerequisites:** you'll need (2)
@@ -170,12 +167,11 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Speakers:** - [presenter] (1)
 
-#### Different data types
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/different-data-types?u=76281980)
+#### [Different data types](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/different-data-types?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/different-data-types?u=76281980&t=0)** - [Instructor] We often think of data as being concrete and calculable, but in user experience, we're frequently exploring people, seeking to understand their goals and outlooks or assessing relative experience, which means we don't always have a hard number or scale to follow.
+> **[0:00](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/different-data-types?u=76281980&t=0)** - [Instructor] We often think of data as being concrete and calculable, but in [[User Experience (UX)|user experience]], we're frequently exploring people, seeking to understand their goals and outlooks or assessing relative experience, which means we don't always have a hard number or scale to follow.
 >
 > **[0:16](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/different-data-types?u=76281980&t=16)** You might hear about a distinction between quantitative and qualitative data.
 >
@@ -215,15 +211,15 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/different-data-types?u=76281980&t=141)** Quantitative analysis is often fairly straightforward and consists of calculating whatever figures you need, like percentage of clicks, averages of readings, that kind of a thing.
 >
-> **[2:32](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/different-data-types?u=76281980&t=152)** Because of that, I'm going to focus the rest of this course on working with qualitative data, which is often much messier and more complicated.
+> **[2:32](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/different-data-types?u=76281980&t=152)** Because of that, I'm going to focus the [[Representational State Transfer (REST)|rest]] of this course on working with qualitative data, which is often much messier and more complicated.
 >
-> **[2:41](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/different-data-types?u=76281980&t=161)** We're also going to skip over data collection in this course.
+> **[2:41](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/different-data-types?u=76281980&t=161)** We're also going to skip over [[Data Collection]] in this course.
 >
 > **[2:45](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/different-data-types?u=76281980&t=165)** If you need more information on running qualitative studies, I recommend checking out my course on conducting interviews.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), feature (2), [[User Experience (UX)|User experience]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Data Collection]] (1)
 > **Analogies:** for instance (2)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
@@ -233,8 +229,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Breaking down qualitative data
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/breaking-down-qualitative-data?u=76281980)
+#### [Breaking down qualitative data](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/breaking-down-qualitative-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -272,7 +267,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/breaking-down-qualitative-data?u=76281980&t=112)** When looking through data pay special attention to things like the context in which people work, common uses, and routines, transitions between items, workarounds, or shortcuts, places people get stuck, frustrated, or interrupted, the language that's used, things that are especially annoying, things that are especially pleasing, things you've never heard or seen, or contradictory feedback.
 >
-> **[2:22](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/breaking-down-qualitative-data?u=76281980&t=142)** Let's say you ran a bunch of ethnographic interviews to better understand how to improve software for your internal customer support team.
+> **[2:22](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/breaking-down-qualitative-data?u=76281980&t=142)** Let's say you ran a bunch of ethnographic interviews to better understand how to improve software for your internal [[Customer Support]] team.
 >
 > **[2:30](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/breaking-down-qualitative-data?u=76281980&t=150)** You might make a note of the fact that each rep you talked to had a slightly different process for including their manager, or noted that you often observed the software failing at a certain time of the day.
 >
@@ -298,13 +293,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), next (2), business (1), [[Customer Support]] (1), teams (1)
+> **Frameworks & Libraries:** [[Customer Support]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Warnings:** be careful (1), important note (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tagging, pruning, and sorting qualitative data
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/tagging-pruning-and-sorting-qualitative-data?u=76281980)
+#### [Tagging, pruning, and sorting qualitative data](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/tagging-pruning-and-sorting-qualitative-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -314,7 +308,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/tagging-pruning-and-sorting-qualitative-data?u=76281980&t=21)** Now it's time to tag or code these insights with labels that help you frame or identify them, sort of like you might assign a keyword to an article or tweet.
 >
-> **[0:31](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/tagging-pruning-and-sorting-qualitative-data?u=76281980&t=31)** For instance, this course is identified as UX research.
+> **[0:31](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/tagging-pruning-and-sorting-qualitative-data?u=76281980&t=31)** For instance, this course is identified as [[UX Research]].
 >
 > **[0:36](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/tagging-pruning-and-sorting-qualitative-data?u=76281980&t=36)** The specific labels will depend on the individual finding and can either describe the data objectively or start to layer on interpretation.
 >
@@ -416,7 +410,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), business (4), ux (1)
+> **Frameworks & Libraries:** [[UX Research]] (1)
 > **Analogies:** for instance (5), such as (1), just like (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
@@ -428,8 +422,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Filtering into actionable insights
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/filtering-into-actionable-insights?u=76281980)
+#### [Filtering into actionable insights](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/filtering-into-actionable-insights?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -455,7 +448,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/filtering-into-actionable-insights?u=76281980&t=62)** It became pretty obvious that everyone was overwhelmed with the amount of documents they received, which tied back very closely to reducing printing costs.
 >
-> **[1:10](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/filtering-into-actionable-insights?u=76281980&t=70)** An obvious suggestion might be that they could consolidate forms and offer more information online.
+> **[1:10](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/filtering-into-actionable-insights?u=76281980&t=70)** An obvious suggestion might be that they could consolidate [[Forms]] and offer more information online.
 >
 > **[1:16](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/filtering-into-actionable-insights?u=76281980&t=76)** On the other hand, the interactions with support were varied and complex and totally dependent on many situational factors.
 >
@@ -489,7 +482,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/filtering-into-actionable-insights?u=76281980&t=145)** A recent Stanford article reports that people remember just five to 10% of raw data, but they remember 65 to 70% of facts given to them in a narrative context.
 >
-> **[2:36](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/filtering-into-actionable-insights?u=76281980&t=156)** Therefore, when you're telling other people about the research you did, you'll want to use the power of storytelling to help people understand and digest your findings.
+> **[2:36](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/filtering-into-actionable-insights?u=76281980&t=156)** Therefore, when you're telling other people about the research you did, you'll want to use the power of [[Storytelling]] to help people understand and digest your findings.
 >
 > **[2:45](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/filtering-into-actionable-insights?u=76281980&t=165)** Very basically, stories are made up of a few parts.
 >
@@ -553,7 +546,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), data (3), business (2), teams (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Storytelling]] (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for instance (2)
 > **Env Vars:** wysiwyg (1)
@@ -565,12 +558,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Turning raw data into deep insights
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/turning-raw-data-into-deep-insights?u=76281980)
+#### [Turning raw data into deep insights](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/turning-raw-data-into-deep-insights?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/turning-raw-data-into-deep-insights?u=76281980&t=0)** - [Amanda] Thanks so much for taking some time to better understand how to use the data that's collected in user experience research efforts.
+> **[0:00](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/turning-raw-data-into-deep-insights?u=76281980&t=0)** - [Amanda] Thanks so much for taking some time to better understand how to use the data that's collected in [[User Experience (UX)|user experience]] research efforts.
 >
 > **[0:08](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/turning-raw-data-into-deep-insights?u=76281980&t=8)** Turning raw data into deep insights and actionable steps is often one of the hardest parts of successfully integrating research into your practice.
 >
@@ -578,7 +570,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/turning-raw-data-into-deep-insights?u=76281980&t=26)** I highly recommend practicing on an old dataset if you don't have anything new to review.
 >
-> **[0:31](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/turning-raw-data-into-deep-insights?u=76281980&t=31)** You never know what you may learn, and remember that this is just one of a series of UX research deep dives.
+> **[0:31](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/turning-raw-data-into-deep-insights?u=76281980&t=31)** You never know what you may learn, and remember that this is just one of a series of [[UX Research]] deep dives.
 >
 > **[0:37](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/turning-raw-data-into-deep-insights?u=76281980&t=37)** Check out my other courses here.
 >
@@ -586,7 +578,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[User Experience (UX)|User experience]] (1), ux (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), [[UX Research]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [amanda] (1)
 

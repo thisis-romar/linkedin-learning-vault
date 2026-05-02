@@ -83,18 +83,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The power of financial statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-power-of-financial-statements?u=76281980)
+#### [The power of financial statements](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-power-of-financial-statements?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-power-of-financial-statements?u=76281980&t=0)** - You're here because you're interested in financial statements.
+> **[0:00](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-power-of-financial-statements?u=76281980&t=0)** - You're here because you're interested in [[Financial Statements]].
 >
 > **[0:04](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-power-of-financial-statements?u=76281980&t=4)** Wherever you're at or whatever you're doing, you understand the importance of financial statements and you're hoping to take your skills to the next level.
 >
 > **[0:13](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-power-of-financial-statements?u=76281980&t=13)** Think about it.
 >
-> **[0:14](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-power-of-financial-statements?u=76281980&t=14)** Learning how to create financial statements immediately sets you apart in the workplace and builds your business acumen skills.
+> **[0:14](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-power-of-financial-statements?u=76281980&t=14)** Learning how to create financial statements immediately sets you apart in the workplace and builds your [[Business Acumen]] skills.
 >
 > **[0:22](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-power-of-financial-statements?u=76281980&t=22)** You'll be more comfortable and confident in business meetings and your contributions will bring you greater trust from others.
 >
@@ -122,7 +121,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Financial Statements]] (7), business (2), next (1), leadership (1), career (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (7), [[Business Acumen]] (1)
 > **Env Vars:** cpa (3)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - you (1)
@@ -132,14 +131,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What stories do financial statements tell?
-> [LinkedIn Learning](https://www.linkedin.com/learning/reading-corporate-financial-statements/what-stories-do-financial-statements-tell?u=76281980)
+#### [What stories do financial statements tell?](https://www.linkedin.com/learning/reading-corporate-financial-statements/what-stories-do-financial-statements-tell?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/reading-corporate-financial-statements/what-stories-do-financial-statements-tell?u=76281980&t=0)** - Every financial statement tells a story about the economic health of an organization.
 >
-> **[0:05](https://www.linkedin.com/learning/reading-corporate-financial-statements/what-stories-do-financial-statements-tell?u=76281980&t=5)** And I'll never forget how I felt the first time I was asked to prepare financial statements to create that story that would be used by others to communicate the financial health of our organization.
+> **[0:05](https://www.linkedin.com/learning/reading-corporate-financial-statements/what-stories-do-financial-statements-tell?u=76281980&t=5)** And I'll never forget how I felt the first time I was asked to prepare [[Financial Statements]] to create that story that would be used by others to communicate the financial health of our organization.
 >
 > **[0:17](https://www.linkedin.com/learning/reading-corporate-financial-statements/what-stories-do-financial-statements-tell?u=76281980&t=17)** I was so worried that I would forget something.
 >
@@ -239,14 +237,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Financial Statements]] (8), business (2), product (1), next (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (8)
 > **Analogies:** imagine (2), similar to (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** pnl (1)
 > **Speakers:** - every (1)
 
-#### The role of the accounting cycle
-> [LinkedIn Learning](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-role-of-the-accounting-cycle?u=76281980)
+#### [The role of the accounting cycle](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-role-of-the-accounting-cycle?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -258,7 +255,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-role-of-the-accounting-cycle?u=76281980&t=16)** And it can feel like salt in the wound since it seems as though everyone must be at home comfortably sleeping.
 >
-> **[0:24](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-role-of-the-accounting-cycle?u=76281980&t=24)** Verifying end-of-year inventory is just one process of many in the accounting cycle that we go through to ensure our financial statements are accurate and tell a true story of our organization's financial wellbeing.
+> **[0:24](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-role-of-the-accounting-cycle?u=76281980&t=24)** Verifying end-of-year inventory is just one process of many in the accounting cycle that we go through to ensure our [[Financial Statements]] are accurate and tell a true story of our organization's financial wellbeing.
 >
 > **[0:38](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-role-of-the-accounting-cycle?u=76281980&t=38)** If we follow the accounting cycle, completing each step in order, we can be more confident the financial statements will tell an accurate story.
 >
@@ -286,7 +283,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-role-of-the-accounting-cycle?u=76281980&t=108)** Because of these economic events, selling coffee and food items in exchange for cash, we now need to prepare financial statements to tell the story of how well our coffee shop is doing financially.
 >
-> **[2:01](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-role-of-the-accounting-cycle?u=76281980&t=121)** Today's technology is so advanced that when we enter an economic event into the software, much of the rest of the cycle is managed automatically.
+> **[2:01](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-role-of-the-accounting-cycle?u=76281980&t=121)** Today's technology is so advanced that when we enter an economic event into the software, much of the [[Representational State Transfer (REST)|rest]] of the cycle is managed automatically.
 >
 > **[2:10](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-role-of-the-accounting-cycle?u=76281980&t=130)** Technology allows us to move quickly through steps two, three, and four, where the economic event is recorded and posted and the trial balance is prepared.
 >
@@ -312,14 +309,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Financial Statements]] (8), business (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (8), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - it (1)
 
-#### Understanding year-end close
-> [LinkedIn Learning](https://www.linkedin.com/learning/reading-corporate-financial-statements/understanding-year-end-close?u=76281980)
+#### [Understanding year-end close](https://www.linkedin.com/learning/reading-corporate-financial-statements/understanding-year-end-close?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -331,7 +327,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/reading-corporate-financial-statements/understanding-year-end-close?u=76281980&t=14)** You have to properly close out the current novel while also setting the stage for the story to continue.
 >
-> **[0:22](https://www.linkedin.com/learning/reading-corporate-financial-statements/understanding-year-end-close?u=76281980&t=22)** Let's keep that analogy in mind as we think about what it takes to prepare the year end financial statements.
+> **[0:22](https://www.linkedin.com/learning/reading-corporate-financial-statements/understanding-year-end-close?u=76281980&t=22)** Let's keep that analogy in mind as we think about what it takes to prepare the year end [[Financial Statements]].
 >
 > **[0:29](https://www.linkedin.com/learning/reading-corporate-financial-statements/understanding-year-end-close?u=76281980&t=29)** Let's follow an example of a service business.
 >
@@ -393,7 +389,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/reading-corporate-financial-statements/understanding-year-end-close?u=76281980&t=194)** And at the end of the fiscal year it may be true that some of that insurance is for the next year.
 >
-> **[3:22](https://www.linkedin.com/learning/reading-corporate-financial-statements/understanding-year-end-close?u=76281980&t=202)** The adjustment process make sure we're recording part of the cost of the insurance this year and the rest next year.
+> **[3:22](https://www.linkedin.com/learning/reading-corporate-financial-statements/understanding-year-end-close?u=76281980&t=202)** The adjustment process make sure we're recording part of the cost of the insurance this year and the [[Representational State Transfer (REST)|rest]] next year.
 >
 > **[3:29](https://www.linkedin.com/learning/reading-corporate-financial-statements/understanding-year-end-close?u=76281980&t=209)** The adjustment process makes for a better ending to the story.
 >
@@ -429,7 +425,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), [[Financial Statements]] (3), business (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Cross-References:** go back to (2)
 > **Analogies:** just like (2)
 > **CLI Commands:** make (1)
@@ -437,8 +433,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - every (1)
 
-#### Finding financial statements for publicly traded companies
-> [LinkedIn Learning](https://www.linkedin.com/learning/reading-corporate-financial-statements/finding-financial-statements-for-publicly-traded-companies?u=76281980)
+#### [Finding financial statements for publicly traded companies](https://www.linkedin.com/learning/reading-corporate-financial-statements/finding-financial-statements-for-publicly-traded-companies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -450,9 +445,9 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/reading-corporate-financial-statements/finding-financial-statements-for-publicly-traded-companies?u=76281980&t=15)** Through the Securities and Exchange Commission's EDGAR site, we have access to all of the filings of publicly traded companies.
 >
-> **[0:24](https://www.linkedin.com/learning/reading-corporate-financial-statements/finding-financial-statements-for-publicly-traded-companies?u=76281980&t=24)** It's here that you'll find the financial statements you should be reading to help you become a more effective financial statement reader, adviser, and/or preparer.
+> **[0:24](https://www.linkedin.com/learning/reading-corporate-financial-statements/finding-financial-statements-for-publicly-traded-companies?u=76281980&t=24)** It's here that you'll find the [[Financial Statements]] you should be reading to help you become a more effective financial statement reader, adviser, and/or preparer.
 >
-> **[0:34](https://www.linkedin.com/learning/reading-corporate-financial-statements/finding-financial-statements-for-publicly-traded-companies?u=76281980&t=34)** Remember, one of the most sought after skills in every employee is business acumen.
+> **[0:34](https://www.linkedin.com/learning/reading-corporate-financial-statements/finding-financial-statements-for-publicly-traded-companies?u=76281980&t=34)** Remember, one of the most sought after skills in every employee is [[Business Acumen]].
 >
 > **[0:39](https://www.linkedin.com/learning/reading-corporate-financial-statements/finding-financial-statements-for-publicly-traded-companies?u=76281980&t=39)** That's right.
 >
@@ -508,7 +503,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/reading-corporate-financial-statements/finding-financial-statements-for-publicly-traded-companies?u=76281980&t=164)** Let's open this first 10-K and take a look.
 >
-> **[2:47](https://www.linkedin.com/learning/reading-corporate-financial-statements/finding-financial-statements-for-publicly-traded-companies?u=76281980&t=167)** Notice we have two choices, the interactive data and the HTML document.
+> **[2:47](https://www.linkedin.com/learning/reading-corporate-financial-statements/finding-financial-statements-for-publicly-traded-companies?u=76281980&t=167)** Notice we have two choices, the interactive data and the [[HTML]] document.
 >
 > **[2:54](https://www.linkedin.com/learning/reading-corporate-financial-statements/finding-financial-statements-for-publicly-traded-companies?u=76281980&t=174)** Let's select the interactive data choice.
 >
@@ -532,7 +527,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (6), [[Financial Statements]] (3), business (2), data (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (3), [[Business Acumen]] (2), [[HTML]] (1)
 > **Env Vars:** sec (6), edgar (4), html (1)
 > **CLI Commands:** yum (4), find (3)
 > **Definitions:** is called (2)
@@ -541,8 +536,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - have (1)
 
-#### Challenge: Finding financial statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/reading-corporate-financial-statements/challenge-finding-financial-statements?u=76281980)
+#### [Challenge: Finding financial statements](https://www.linkedin.com/learning/reading-corporate-financial-statements/challenge-finding-financial-statements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -554,7 +548,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/reading-corporate-financial-statements/challenge-finding-financial-statements?u=76281980&t=22)** Two, go to the SEC Edgar filing website and search for your company's most recent annual report also known as the 10-K.
 >
-> **[0:33](https://www.linkedin.com/learning/reading-corporate-financial-statements/challenge-finding-financial-statements?u=76281980&t=33)** Finally, find the interactive 10-K for your company and look through the financial statements.
+> **[0:33](https://www.linkedin.com/learning/reading-corporate-financial-statements/challenge-finding-financial-statements?u=76281980&t=33)** Finally, find the interactive 10-K for your company and look through the [[Financial Statements]].
 >
 > **[0:40](https://www.linkedin.com/learning/reading-corporate-financial-statements/challenge-finding-financial-statements?u=76281980&t=40)** Before we go, a few notes.
 >
@@ -568,7 +562,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2), [[Financial Statements]] (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (1)
 > **CLI Commands:** find (4), yum (2)
 > **URLs:** [secedgar.gov](https://secedgar.gov) (1)
 > **Env Vars:** sec (1)
@@ -577,14 +571,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Best Practices:** remember to (1)
 
-#### Solution: Finding financial statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/reading-corporate-financial-statements/solution-finding-financial-statements?u=76281980)
+#### [Solution: Finding financial statements](https://www.linkedin.com/learning/reading-corporate-financial-statements/solution-finding-financial-statements?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/reading-corporate-financial-statements/solution-finding-financial-statements?u=76281980&t=0)** - So, how did your challenge go?
 >
-> **[0:06](https://www.linkedin.com/learning/reading-corporate-financial-statements/solution-finding-financial-statements?u=76281980&t=6)** Did the financial statements tell you any stories that were super interesting?
+> **[0:06](https://www.linkedin.com/learning/reading-corporate-financial-statements/solution-finding-financial-statements?u=76281980&t=6)** Did the [[Financial Statements]] tell you any stories that were super interesting?
 >
 > **[0:10](https://www.linkedin.com/learning/reading-corporate-financial-statements/solution-finding-financial-statements?u=76281980&t=10)** For example, did you find an income statement that showed consistent revenues or net incomes over multiple years?
 >
@@ -610,7 +603,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Financial Statements]] (2), next (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (2)
 > **CLI Commands:** find (3)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
@@ -622,8 +615,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Recognizing revenue and understanding the revenue recognition principle
-> [LinkedIn Learning](https://www.linkedin.com/learning/reading-corporate-financial-statements/recognizing-revenue-and-understanding-the-revenue-recognition-principle?u=76281980)
+#### [Recognizing revenue and understanding the revenue recognition principle](https://www.linkedin.com/learning/reading-corporate-financial-statements/recognizing-revenue-and-understanding-the-revenue-recognition-principle?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -711,14 +703,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (1)
 > **Analogies:** imagine (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - we (1)
 
-#### Recording expenses using the matching principle
-> [LinkedIn Learning](https://www.linkedin.com/learning/reading-corporate-financial-statements/recording-expenses-using-the-matching-principle?u=76281980)
+#### [Recording expenses using the matching principle](https://www.linkedin.com/learning/reading-corporate-financial-statements/recording-expenses-using-the-matching-principle?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -742,7 +732,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/reading-corporate-financial-statements/recording-expenses-using-the-matching-principle?u=76281980&t=77)** Commonly, expenses are prepaid, supplies is a great example.
 >
-> **[1:22](https://www.linkedin.com/learning/reading-corporate-financial-statements/recording-expenses-using-the-matching-principle?u=76281980&t=82)** We may purchase all of the supplies for the office at once, restocking the supply closet periodically.
+> **[1:22](https://www.linkedin.com/learning/reading-corporate-financial-statements/recording-expenses-using-the-matching-principle?u=76281980&t=82)** We may purchase all of the supplies for the [[Microsoft Office|office]] at once, restocking the supply closet periodically.
 >
 > **[1:29](https://www.linkedin.com/learning/reading-corporate-financial-statements/recording-expenses-using-the-matching-principle?u=76281980&t=89)** We often record these supplies as an asset or resource but we should expense these resources if they were used during the year so that at the end of the fiscal year, someone should count the supplies and make sure the supplies removed from the closet are actually expensed and no longer in the asset supplies account, which appears on the balance sheet.
 >
@@ -772,19 +762,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is called (1), is a  (1), is an  (1)
 > **Speakers:** - if (1)
 
-#### Challenge: Working with the income statement
-> [LinkedIn Learning](https://www.linkedin.com/learning/reading-corporate-financial-statements/challenge-working-with-the-income-statement?u=76281980)
+#### [Challenge: Working with the income statement](https://www.linkedin.com/learning/reading-corporate-financial-statements/challenge-working-with-the-income-statement?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/reading-corporate-financial-statements/challenge-working-with-the-income-statement?u=76281980&t=0)** (bright music)
 >
-> **[0:03](https://www.linkedin.com/learning/reading-corporate-financial-statements/challenge-working-with-the-income-statement?u=76281980&t=3)** - In your last challenge, you found the financial statements on the SEC EDGAR site.
+> **[0:03](https://www.linkedin.com/learning/reading-corporate-financial-statements/challenge-working-with-the-income-statement?u=76281980&t=3)** - In your last challenge, you found the [[Financial Statements]] on the SEC EDGAR site.
 >
 > **[0:08](https://www.linkedin.com/learning/reading-corporate-financial-statements/challenge-working-with-the-income-statement?u=76281980&t=8)** In this challenge, you'll return to those financial statements and focus your attention just on the income statement.
 >
@@ -806,14 +795,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Financial Statements]] (4), [[Search]] (2)
+> **Frameworks & Libraries:** [[Financial Statements]] (4)
 > **Env Vars:** sec (1), edgar (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - in (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Working with the income statement
-> [LinkedIn Learning](https://www.linkedin.com/learning/reading-corporate-financial-statements/solution-working-with-the-income-statement?u=76281980)
+#### [Solution: Working with the income statement](https://www.linkedin.com/learning/reading-corporate-financial-statements/solution-working-with-the-income-statement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -841,7 +829,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1)
 > **CLI Commands:** find (3), yum (2)
 > **Speakers:** - welcome (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -851,8 +838,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The accounting equation and the assets section of the balance sheet
-> [LinkedIn Learning](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-accounting-equation-and-the-assets-section-of-the-balance-sheet?u=76281980)
+#### [The accounting equation and the assets section of the balance sheet](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-accounting-equation-and-the-assets-section-of-the-balance-sheet?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -896,7 +882,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-accounting-equation-and-the-assets-section-of-the-balance-sheet?u=76281980&t=111)** The mortgage lender expects to be repaid, it's a liability.
 >
-> **[1:55](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-accounting-equation-and-the-assets-section-of-the-balance-sheet?u=76281980&t=115)** The house was financed in part with this liability and the rest of the financing came from you, the owner, and is considered equity.
+> **[1:55](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-accounting-equation-and-the-assets-section-of-the-balance-sheet?u=76281980&t=115)** The house was financed in part with this liability and the [[Representational State Transfer (REST)|rest]] of the financing came from you, the owner, and is considered equity.
 >
 > **[2:02](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-accounting-equation-and-the-assets-section-of-the-balance-sheet?u=76281980&t=122)** This very simplified example that can be applied to the finances of any business or for your personal life.
 >
@@ -920,13 +906,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), next (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** picture (4), imagine (2), think of it like (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - when (1)
 
-#### The accounting equation and the liabilities section of the balance sheet
-> [LinkedIn Learning](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-accounting-equation-and-the-liabilities-section-of-the-balance-sheet?u=76281980)
+#### [The accounting equation and the liabilities section of the balance sheet](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-accounting-equation-and-the-liabilities-section-of-the-balance-sheet?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -974,15 +959,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), next (2)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** just like (1), picture (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** means that (1)
 > **Speakers:** - so (1)
 
-#### The accounting equation and the equity section of the balance sheet
-> [LinkedIn Learning](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-accounting-equation-and-the-equity-section-of-the-balance-sheet?u=76281980)
+#### [The accounting equation and the equity section of the balance sheet](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-accounting-equation-and-the-equity-section-of-the-balance-sheet?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1044,12 +1027,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (12)
 > **Definitions:** is a  (3), is called (1)
 > **Speakers:** - the (1)
 
-#### Challenge: Working with the balance sheet
-> [LinkedIn Learning](https://www.linkedin.com/learning/reading-corporate-financial-statements/challenge-working-with-the-balance-sheet?u=76281980)
+#### [Challenge: Working with the balance sheet](https://www.linkedin.com/learning/reading-corporate-financial-statements/challenge-working-with-the-balance-sheet?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1077,14 +1058,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), next (2)
 > **CLI Commands:** find (3)
 > **Analogies:** just like (1)
 > **Speakers:** - let (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Working with the balance sheet
-> [LinkedIn Learning](https://www.linkedin.com/learning/reading-corporate-financial-statements/solution-working-with-the-balance-sheet?u=76281980)
+#### [Solution: Working with the balance sheet](https://www.linkedin.com/learning/reading-corporate-financial-statements/solution-working-with-the-balance-sheet?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1092,7 +1071,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/reading-corporate-financial-statements/solution-working-with-the-balance-sheet?u=76281980&t=5)** I can't help but wonder what you learned about your chosen company by reading their balance sheet.
 >
-> **[0:11](https://www.linkedin.com/learning/reading-corporate-financial-statements/solution-working-with-the-balance-sheet?u=76281980&t=11)** Here's what I found when I continued looking at the Young brand's financial statements.
+> **[0:11](https://www.linkedin.com/learning/reading-corporate-financial-statements/solution-working-with-the-balance-sheet?u=76281980&t=11)** Here's what I found when I continued looking at the Young brand's [[Financial Statements]].
 >
 > **[0:17](https://www.linkedin.com/learning/reading-corporate-financial-statements/solution-working-with-the-balance-sheet?u=76281980&t=17)** Notice how the cash and cash equivalents balance more than doubled.
 >
@@ -1121,8 +1100,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The impact of operating activities on the cash flow statement
-> [LinkedIn Learning](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-impact-of-operating-activities-on-the-cash-flow-statement?u=76281980)
+#### [The impact of operating activities on the cash flow statement](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-impact-of-operating-activities-on-the-cash-flow-statement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1206,19 +1184,18 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-impact-of-operating-activities-on-the-cash-flow-statement?u=76281980&t=240)** The operating activities that contribute to the cash flows in an organization are pretty straightforward.
 >
-> **[4:06](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-impact-of-operating-activities-on-the-cash-flow-statement?u=76281980&t=246)** In the next few videos we need to find the rest of the story and the rest of that $200,000.
+> **[4:06](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-impact-of-operating-activities-on-the-cash-flow-statement?u=76281980&t=246)** In the next few videos we need to find the [[Representational State Transfer (REST)|rest]] of the story and the rest of that $200,000.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), next (2), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2)
 > **CLI Commands:** make (3), find (1)
 > **Versions:** 1.2 (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - let (1)
 
-#### The impact of investing activities on the cash flow statement
-> [LinkedIn Learning](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-impact-of-investing-activities-on-the-cash-flow-statement?u=76281980)
+#### [The impact of investing activities on the cash flow statement](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-impact-of-investing-activities-on-the-cash-flow-statement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1226,7 +1203,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-impact-of-investing-activities-on-the-cash-flow-statement?u=76281980&t=7)** We started the year with $1 million and now there's $1.2 million, and in our last video, we determined that $30,000 of that change was from operations by doing what we're in business to do.
 >
-> **[0:21](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-impact-of-investing-activities-on-the-cash-flow-statement?u=76281980&t=21)** Let's figure out where the rest of the increase of $200,000 came from by building on this statement of cash flows.
+> **[0:21](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-impact-of-investing-activities-on-the-cash-flow-statement?u=76281980&t=21)** Let's figure out where the [[Representational State Transfer (REST)|rest]] of the increase of $200,000 came from by building on this statement of cash flows.
 >
 > **[0:28](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-impact-of-investing-activities-on-the-cash-flow-statement?u=76281980&t=28)** Do you suppose we made any investment decisions this period?
 >
@@ -1252,13 +1229,13 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-impact-of-investing-activities-on-the-cash-flow-statement?u=76281980&t=103)** Businesses buy and sell property, plant and equipment to keep their operations going and sometimes, frankly, we just have too much cash lying around and it makes sense to invest it to earn a little money on that extra cash.
 >
-> **[1:57](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-impact-of-investing-activities-on-the-cash-flow-statement?u=76281980&t=117)** In fact, if you look at Microsoft's statement of cash flow, you'll see that they invest quite a bit in investments each period.
+> **[1:57](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-impact-of-investing-activities-on-the-cash-flow-statement?u=76281980&t=117)** In fact, if you look at [[Microsoft]]'s statement of cash flow, you'll see that they invest quite a bit in investments each period.
 >
 > **[2:05](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-impact-of-investing-activities-on-the-cash-flow-statement?u=76281980&t=125)** Our example did not explore the buying or selling of complete businesses, but these activities are shown as a cash inflow if we were to sell a subsidiary or a cash outflow if we were to acquire a subsidiary.
 >
 > **[2:20](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-impact-of-investing-activities-on-the-cash-flow-statement?u=76281980&t=140)** Isn't this so interesting?
 >
-> **[2:22](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-impact-of-investing-activities-on-the-cash-flow-statement?u=76281980&t=142)** The financial statements are truly just a story of the many decisions made on a day-to-day basis.
+> **[2:22](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-impact-of-investing-activities-on-the-cash-flow-statement?u=76281980&t=142)** The [[Financial Statements]] are truly just a story of the many decisions made on a day-to-day basis.
 >
 > **[2:29](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-impact-of-investing-activities-on-the-cash-flow-statement?u=76281980&t=149)** After this, we can look at any set of financial statements and hone in on the investing section of the statement of cash flows to better understand the investing decisions made during the period.
 >
@@ -1266,13 +1243,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Financial Statements]] (2), business (1), [[Representational State Transfer (REST)|Rest]] (1), next (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft]] (1)
 > **Versions:** 1.2 (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - we (1)
 
-#### The impact of financing activities on the cash flow statement
-> [LinkedIn Learning](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-impact-of-financing-activities-on-the-cash-flow-statement?u=76281980)
+#### [The impact of financing activities on the cash flow statement](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-impact-of-financing-activities-on-the-cash-flow-statement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1298,7 +1274,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-impact-of-financing-activities-on-the-cash-flow-statement?u=76281980&t=89)** Now, let's ask ourselves about the financing activities for the period.
 >
-> **[1:35](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-impact-of-financing-activities-on-the-cash-flow-statement?u=76281980&t=95)** The two most common forms of financing for a publicly traded company are stock and debt.
+> **[1:35](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-impact-of-financing-activities-on-the-cash-flow-statement?u=76281980&t=95)** The two most common [[Forms]] of financing for a publicly traded company are stock and debt.
 >
 > **[1:41](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-impact-of-financing-activities-on-the-cash-flow-statement?u=76281980&t=101)** And cash goes both directions, in and out, for these two forms of financing.
 >
@@ -1332,13 +1308,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (2), business (1)
+> **Frameworks & Libraries:** [[Forms]] (2)
 > **Versions:** 1.2 (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - when (1)
 
-#### Challenge: Working with the statement of cash flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/reading-corporate-financial-statements/challenge-working-with-the-statement-of-cash-flow?u=76281980)
+#### [Challenge: Working with the statement of cash flow](https://www.linkedin.com/learning/reading-corporate-financial-statements/challenge-working-with-the-statement-of-cash-flow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1362,13 +1337,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - it (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Working with the statement of cash flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/reading-corporate-financial-statements/solution-working-with-the-statement-of-cash-flow?u=76281980)
+#### [Solution: Working with the statement of cash flow](https://www.linkedin.com/learning/reading-corporate-financial-statements/solution-working-with-the-statement-of-cash-flow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1404,7 +1377,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/reading-corporate-financial-statements/solution-working-with-the-statement-of-cash-flow?u=76281980&t=85)** The financing activity section.
 >
-> **[1:27](https://www.linkedin.com/learning/reading-corporate-financial-statements/solution-working-with-the-statement-of-cash-flow?u=76281980&t=87)** There's a lot in this section, but if you look closely all of these activities fall within the two forms we discussed during the financing activities video.
+> **[1:27](https://www.linkedin.com/learning/reading-corporate-financial-statements/solution-working-with-the-statement-of-cash-flow?u=76281980&t=87)** There's a lot in this section, but if you look closely all of these activities fall within the two [[Forms]] we discussed during the financing activities video.
 >
 > **[1:38](https://www.linkedin.com/learning/reading-corporate-financial-statements/solution-working-with-the-statement-of-cash-flow?u=76281980&t=98)** Debt and stock.
 >
@@ -1432,7 +1405,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (1), business (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **CLI Commands:** find (1), yum (1)
 > **Cross-References:** we discussed (1)
 > **Definitions:** means that (1)
@@ -1444,8 +1417,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding the statement of stockholder's equity
-> [LinkedIn Learning](https://www.linkedin.com/learning/reading-corporate-financial-statements/understanding-the-statement-of-stockholder-s-equity?u=76281980)
+#### [Understanding the statement of stockholder's equity](https://www.linkedin.com/learning/reading-corporate-financial-statements/understanding-the-statement-of-stockholder-s-equity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1521,7 +1493,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/reading-corporate-financial-statements/understanding-the-statement-of-stockholder-s-equity?u=76281980&t=232)** If so, we need to show that repurchase stock as treasury stock.
 >
-> **[3:58](https://www.linkedin.com/learning/reading-corporate-financial-statements/understanding-the-statement-of-stockholder-s-equity?u=76281980&t=238)** To illustrate that, prepare the financial statements for year two making these assumptions.
+> **[3:58](https://www.linkedin.com/learning/reading-corporate-financial-statements/understanding-the-statement-of-stockholder-s-equity?u=76281980&t=238)** To illustrate that, prepare the [[Financial Statements]] for year two making these assumptions.
 >
 > **[4:04](https://www.linkedin.com/learning/reading-corporate-financial-statements/understanding-the-statement-of-stockholder-s-equity?u=76281980&t=244)** One, 5,000 more shares of common stock have been issued.
 >
@@ -1549,14 +1521,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Financial Statements]] (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (1)
 > **Prerequisites:** you'll need (3)
 > **Env Vars:** usd (1)
 > **Analogies:** just like (1)
 > **Speakers:** - the (1)
 
-#### Challenge: Working with the statement of stockholders' equity
-> [LinkedIn Learning](https://www.linkedin.com/learning/reading-corporate-financial-statements/challenge-working-with-the-statement-of-stockholders-equity?u=76281980)
+#### [Challenge: Working with the statement of stockholders' equity](https://www.linkedin.com/learning/reading-corporate-financial-statements/challenge-working-with-the-statement-of-stockholders-equity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1586,8 +1557,7 @@ created: 2026-05-02
 > **Speakers:** - it (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Working with the statement of stockholders' equity
-> [LinkedIn Learning](https://www.linkedin.com/learning/reading-corporate-financial-statements/solution-working-with-the-statement-of-stockholders-equity?u=76281980)
+#### [Solution: Working with the statement of stockholders' equity](https://www.linkedin.com/learning/reading-corporate-financial-statements/solution-working-with-the-statement-of-stockholders-equity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1629,7 +1599,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/reading-corporate-financial-statements/solution-working-with-the-statement-of-stockholders-equity?u=76281980&t=124)** The other items impacting this column showed the impact of the repurchase of common stock and the impact of the employee stock option and SARs exercised.
 >
-> **[2:14](https://www.linkedin.com/learning/reading-corporate-financial-statements/solution-working-with-the-statement-of-stockholders-equity?u=76281980&t=134)** The challenges in this course have asked you to explore actual financial statements and you've done it.
+> **[2:14](https://www.linkedin.com/learning/reading-corporate-financial-statements/solution-working-with-the-statement-of-stockholders-equity?u=76281980&t=134)** The challenges in this course have asked you to explore actual [[Financial Statements]] and you've done it.
 >
 > **[2:20](https://www.linkedin.com/learning/reading-corporate-financial-statements/solution-working-with-the-statement-of-stockholders-equity?u=76281980&t=140)** I'm very curious about what you learned when you explored your company's statement of stockholders' equity?
 
@@ -1647,8 +1617,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Your next steps in creating financial statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/reading-corporate-financial-statements/your-next-steps-in-creating-financial-statements?u=76281980)
+#### [Your next steps in creating financial statements](https://www.linkedin.com/learning/reading-corporate-financial-statements/your-next-steps-in-creating-financial-statements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1656,7 +1625,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/reading-corporate-financial-statements/your-next-steps-in-creating-financial-statements?u=76281980&t=8)** The next steps for you are simple.
 >
-> **[0:11](https://www.linkedin.com/learning/reading-corporate-financial-statements/your-next-steps-in-creating-financial-statements?u=76281980&t=11)** First, become a habitual reader of financial statements and the disclosure notes to those financial statements.
+> **[0:11](https://www.linkedin.com/learning/reading-corporate-financial-statements/your-next-steps-in-creating-financial-statements?u=76281980&t=11)** First, become a habitual reader of [[Financial Statements]] and the disclosure notes to those financial statements.
 >
 > **[0:18](https://www.linkedin.com/learning/reading-corporate-financial-statements/your-next-steps-in-creating-financial-statements?u=76281980&t=18)** Second, start preparing financial statements yourself.
 >
@@ -1668,7 +1637,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/reading-corporate-financial-statements/your-next-steps-in-creating-financial-statements?u=76281980&t=41)** Please stay in touch.
 >
-> **[0:43](https://www.linkedin.com/learning/reading-corporate-financial-statements/your-next-steps-in-creating-financial-statements?u=76281980&t=43)** You can connect with me on LinkedIn and if you ever need a coach or consultant, know that I'm here for you.
+> **[0:43](https://www.linkedin.com/learning/reading-corporate-financial-statements/your-next-steps-in-creating-financial-statements?u=76281980&t=43)** You can connect with me on [[LinkedIn]] and if you ever need a coach or consultant, know that I'm here for you.
 >
 > **[0:51](https://www.linkedin.com/learning/reading-corporate-financial-statements/your-next-steps-in-creating-financial-statements?u=76281980&t=51)** Good luck.
 >
@@ -1676,7 +1645,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Financial Statements]] (4), next (1), business (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (4), [[LinkedIn]] (1)
 > **Speakers:** - thank (1)
 
 

@@ -71,8 +71,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why nuanced thinking matters
-> [LinkedIn Learning](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/why-nuanced-thinking-matters?u=76281980)
+#### [Why nuanced thinking matters](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/why-nuanced-thinking-matters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -80,7 +79,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/why-nuanced-thinking-matters?u=76281980&t=5)** Good decisions improve everything else, while bad decisions may put the future in jeopardy.
 >
-> **[0:10](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/why-nuanced-thinking-matters?u=76281980&t=10)** And yet, surprisingly, most of us are never taught strategies for effective decision-making.
+> **[0:10](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/why-nuanced-thinking-matters?u=76281980&t=10)** And yet, surprisingly, most of us are never taught strategies for effective [[Decision-Making]].
 >
 > **[0:16](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/why-nuanced-thinking-matters?u=76281980&t=16)** I'm Spencer Greenberg, the founder of [clearerthinking.org](https://clearerthinking.org).
 >
@@ -94,7 +93,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Decision-Making]] (3), teams (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (3)
 > **CLI Commands:** make (1)
 > **URLs:** [clearerthinking.org](https://clearerthinking.org) (1)
 > **Speakers:** - your (1)
@@ -104,8 +103,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learn the qualities of nuanced thinking
-> [LinkedIn Learning](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/learn-the-qualities-of-nuanced-thinking?u=76281980)
+#### [Learn the qualities of nuanced thinking](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/learn-the-qualities-of-nuanced-thinking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -113,7 +111,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/learn-the-qualities-of-nuanced-thinking?u=76281980&t=10)** How are they able to do this?
 >
-> **[0:12](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/learn-the-qualities-of-nuanced-thinking?u=76281980&t=12)** What makes people excellent decision-makers can seem mysterious, but in this course, the aim is to demystify decision-making.
+> **[0:12](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/learn-the-qualities-of-nuanced-thinking?u=76281980&t=12)** What makes people excellent decision-makers can seem mysterious, but in this course, the aim is to demystify [[Decision-Making]].
 >
 > **[0:19](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/learn-the-qualities-of-nuanced-thinking?u=76281980&t=19)** To help you do so, I'll be teaching you a powerful approach to improve your own decision-making, which I call nuanced thinking.
 >
@@ -179,13 +177,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Decision-Making]] (3), product (2), feature (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (3)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - have (1)
 
-#### Learn the qualities of nuanced decision-making
-> [LinkedIn Learning](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/learn-the-qualities-of-nuanced-decision-making?u=76281980)
+#### [Learn the qualities of nuanced decision-making](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/learn-the-qualities-of-nuanced-decision-making?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -209,13 +206,13 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/learn-the-qualities-of-nuanced-decision-making?u=76281980&t=33)** There's no way to know which of them is making a better argument without first knowing the objective.
 >
-> **[0:38](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/learn-the-qualities-of-nuanced-decision-making?u=76281980&t=38)** If the objective for the decision is related to scalability, Amy is right.
+> **[0:38](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/learn-the-qualities-of-nuanced-decision-making?u=76281980&t=38)** If the objective for the decision is related to [[Scalability]], Amy is right.
 >
 > **[0:42](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/learn-the-qualities-of-nuanced-decision-making?u=76281980&t=42)** If it's related to cost effectiveness, Bob is right.
 >
 > **[0:45](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/learn-the-qualities-of-nuanced-decision-making?u=76281980&t=45)** As a general rule, we can't tell what a good choice is until we know what objective we're aiming for.
 >
-> **[0:50](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/learn-the-qualities-of-nuanced-decision-making?u=76281980&t=50)** This is where nuanced decision-making comes in, which builds on top of nuanced thinking.
+> **[0:50](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/learn-the-qualities-of-nuanced-decision-making?u=76281980&t=50)** This is where nuanced [[Decision-Making]] comes in, which builds on top of nuanced thinking.
 >
 > **[0:55](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/learn-the-qualities-of-nuanced-decision-making?u=76281980&t=55)** It's designed to help you make better decisions even in difficult situations.
 >
@@ -273,19 +270,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Decision-Making]] (5), next (1), [[Scalability]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (5), [[Scalability]] (1)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** in other words (1), means that (1)
 > **Best Practices:** general rule (1)
 > **Speakers:** - suppose (1)
 
-#### Learn to differentiate problem solving and decision-making
-> [LinkedIn Learning](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/learn-to-differentiate-problem-solving-and-decision-making?u=76281980)
+#### [Learn to differentiate problem solving and decision-making](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/learn-to-differentiate-problem-solving-and-decision-making?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/learn-to-differentiate-problem-solving-and-decision-making?u=76281980&t=0)** - We've talked about how nuanced thinking has an important role to play in decision-making, but it also has an important role to play in problem-solving, too.
+> **[0:00](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/learn-to-differentiate-problem-solving-and-decision-making?u=76281980&t=0)** - We've talked about how nuanced thinking has an important role to play in [[Decision-Making]], but it also has an important role to play in problem-solving, too.
 >
 > **[0:08](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/learn-to-differentiate-problem-solving-and-decision-making?u=76281980&t=8)** This is because decision-making and problem-solving are linked to each other in an interesting way.
 >
@@ -363,15 +359,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Decision-Making]] (14), game (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (14)
 > **CLI Commands:** make (5)
 > **Definitions:** means that (3)
 > **Analogies:** for instance (3)
 > **Speakers:** - we (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Face the challenges of nuanced decision-making in groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/face-the-challenges-of-nuanced-decision-making-in-groups?u=76281980)
+#### [Face the challenges of nuanced decision-making in groups](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/face-the-challenges-of-nuanced-decision-making-in-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -391,7 +386,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/face-the-challenges-of-nuanced-decision-making-in-groups?u=76281980&t=33)** Different people may have different ideas for what you're trying to achieve, and these differences may not come to light unless you explicitly discuss the objectives.
 >
-> **[0:41](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/face-the-challenges-of-nuanced-decision-making-in-groups?u=76281980&t=41)** It's usually most efficient, if you can reach an agreement on objectives right at the beginning of a decision-making or problem-solving scenario so that everyone can work towards a common goal.
+> **[0:41](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/face-the-challenges-of-nuanced-decision-making-in-groups?u=76281980&t=41)** It's usually most efficient, if you can reach an agreement on objectives right at the beginning of a [[Decision-Making]] or problem-solving scenario so that everyone can work towards a common goal.
 >
 > **[0:51](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/face-the-challenges-of-nuanced-decision-making-in-groups?u=76281980&t=51)** But even when objectives are established early on, processes involving multiple people have a tendency to drift off course.
 >
@@ -437,7 +432,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Decision-Making]] (1), product (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - it (1)
@@ -448,12 +443,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Address the goodness binary with gray thinking
-> [LinkedIn Learning](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/address-the-goodness-binary-with-gray-thinking?u=76281980)
+#### [Address the goodness binary with gray thinking](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/address-the-goodness-binary-with-gray-thinking?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/address-the-goodness-binary-with-gray-thinking?u=76281980&t=0)** - Now that we've explored how nuanced thinking can be applied to improving both decision making and problem solving, let's explore how to excel at it.
+> **[0:00](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/address-the-goodness-binary-with-gray-thinking?u=76281980&t=0)** - Now that we've explored how nuanced thinking can be applied to improving both decision making and problem solving, let's explore how to [[Microsoft Excel|excel]] at it.
 >
 > **[0:08](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/address-the-goodness-binary-with-gray-thinking?u=76281980&t=8)** Recall that nuanced thinking has two parts.
 >
@@ -515,14 +509,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - now (1)
 > **Non-Speech:** (jazzy music) (1)
 
-#### Address the truth binary with probabilistic thinking
-> [LinkedIn Learning](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/address-the-truth-binary-with-probabilistic-thinking?u=76281980)
+#### [Address the truth binary with probabilistic thinking](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/address-the-truth-binary-with-probabilistic-thinking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -588,7 +581,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (6)
 > **Analogies:** for instance (2), such as (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** we discussed (1)
@@ -596,8 +588,7 @@ created: 2026-05-02
 > **Speakers:** - suppose (1)
 > **Non-Speech:** (energetic upbeat music) (1)
 
-#### Using probabilistic thinking to make better decisions
-> [LinkedIn Learning](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/using-probabilistic-thinking-to-make-better-decisions?u=76281980)
+#### [Using probabilistic thinking to make better decisions](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/using-probabilistic-thinking-to-make-better-decisions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -643,7 +634,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/using-probabilistic-thinking-to-make-better-decisions?u=76281980&t=129)** Let's assume we're in a situation that doesn't involve a lot of risk, that you're making many independent choices over time, and that the outcomes add up.
 >
-> **[2:17](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/using-probabilistic-thinking-to-make-better-decisions?u=76281980&t=137)** In such situations, there's a high probability that by choosing the highest average each time, you'll end up better off in the long term compared to using any other approach.
+> **[2:17](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/using-probabilistic-thinking-to-make-better-decisions?u=76281980&t=137)** In such situations, there's a high [[Probability]] that by choosing the highest average each time, you'll end up better off in the long term compared to using any other approach.
 >
 > **[2:29](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/using-probabilistic-thinking-to-make-better-decisions?u=76281980&t=149)** Always choosing the highest average is the optimal strategy.
 >
@@ -671,7 +662,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/using-probabilistic-thinking-to-make-better-decisions?u=76281980&t=218)** We should simply choose the option that we predict will have the highest average value of our objective.
 >
-> **[3:44](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/using-probabilistic-thinking-to-make-better-decisions?u=76281980&t=224)** Let's now combine this idea of maximizing expected value with gray thinking and probabilistic thinking to produce an enhanced version of nuanced decision-making.
+> **[3:44](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/using-probabilistic-thinking-to-make-better-decisions?u=76281980&t=224)** Let's now combine this idea of maximizing expected value with gray thinking and probabilistic thinking to produce an enhanced version of nuanced [[Decision-Making]].
 >
 > **[3:54](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/using-probabilistic-thinking-to-make-better-decisions?u=76281980&t=234)** Here are the steps to nuanced decision-making now that we have incorporated this new approach.
 >
@@ -702,8 +693,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Recognize how emotions impact decision-making
-> [LinkedIn Learning](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/recognize-how-emotions-impact-decision-making?u=76281980)
+#### [Recognize how emotions impact decision-making](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/recognize-how-emotions-impact-decision-making?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -785,13 +775,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1)
 > **CLI Commands:** make (4)
 > **Analogies:** such as (2), for instance (2)
 > **Speakers:** - have (1)
 
-#### Recognize hidden Incentives in decision-making
-> [LinkedIn Learning](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/recognize-hidden-incentives-in-decision-making?u=76281980)
+#### [Recognize hidden Incentives in decision-making](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/recognize-hidden-incentives-in-decision-making?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -809,7 +797,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/recognize-hidden-incentives-in-decision-making?u=76281980&t=40)** The hospital's goal may be striving to produce the best medical outcomes per dollar, but if that's the case, neither doctors nor nurses are incentivized to act in alignment with the hospital's goals.
 >
-> **[0:51](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/recognize-hidden-incentives-in-decision-making?u=76281980&t=51)** One of the most common forms of misaligned incentives comes from status seeking.
+> **[0:51](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/recognize-hidden-incentives-in-decision-making?u=76281980&t=51)** One of the most common [[Forms]] of misaligned incentives comes from status seeking.
 >
 > **[0:56](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/recognize-hidden-incentives-in-decision-making?u=76281980&t=56)** Almost everyone wants to be liked and positively regarded by others.
 >
@@ -829,7 +817,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/recognize-hidden-incentives-in-decision-making?u=76281980&t=96)** We humans often respond to incentives without even realizing we're doing so.
 >
-> **[1:41](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/recognize-hidden-incentives-in-decision-making?u=76281980&t=101)** While there's no perfect fix for misaligned incentives, which means they will inevitably impact the quality of decision-making, there are some simple tips that can help.
+> **[1:41](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/recognize-hidden-incentives-in-decision-making?u=76281980&t=101)** While there's no perfect fix for misaligned incentives, which means they will inevitably impact the quality of [[Decision-Making]], there are some simple tips that can help.
 >
 > **[1:49](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/recognize-hidden-incentives-in-decision-making?u=76281980&t=109)** Tip 1, agree on objectives before making a decision, and make sure that all the relevant stakeholders are involved in that discussion.
 >
@@ -859,13 +847,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (1), [[Decision-Making]] (1), strengths (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Decision-Making]] (1)
 > **CLI Commands:** make (5)
 > **Definitions:** means that (1)
 > **Speakers:** - a (1)
 
-#### Avoid attachment to a particular option for better outcomes
-> [LinkedIn Learning](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/avoid-attachment-to-a-particular-option-for-better-outcomes?u=76281980)
+#### [Avoid attachment to a particular option for better outcomes](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/avoid-attachment-to-a-particular-option-for-better-outcomes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -937,13 +924,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** strengths (4), product (1), [[Search]] (1), express (1)
 > **Non-Speech:** (gentle music) (2)
 > **Cross-References:** as we saw (1)
 > **Speakers:** - suppose (1)
 
-#### Alternate divergent and convergent thinking
-> [LinkedIn Learning](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/alternate-divergent-and-convergent-thinking?u=76281980)
+#### [Alternate divergent and convergent thinking](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/alternate-divergent-and-convergent-thinking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1030,8 +1015,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Apply these techniques to your next decision
-> [LinkedIn Learning](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/apply-these-techniques-to-your-next-decision?u=76281980)
+#### [Apply these techniques to your next decision](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/apply-these-techniques-to-your-next-decision?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1059,7 +1043,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **CLI Commands:** make (2), find (1)
 > **URLs:** [clearerthinking.org](https://clearerthinking.org) (1)
 > **UI Navigation:** go to (1)

@@ -81,12 +81,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building more with Kotlin
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/building-more-with-kotlin?u=76281980)
+#### [Building more with Kotlin](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/building-more-with-kotlin?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/building-more-with-kotlin?u=76281980&t=1)** - [Nate] Kotlin is one of the most popular programming languages for building mobile applications being the default choice for Android development.
+> **[0:01](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/building-more-with-kotlin?u=76281980&t=1)** - [Nate] [[Kotlin]] is one of the most popular programming languages for building mobile applications being the default choice for [[Android]] development.
 >
 > **[0:08](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/building-more-with-kotlin?u=76281980&t=8)** It's no surprise why developers are turning to Kotlin.
 >
@@ -102,40 +101,38 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/building-more-with-kotlin?u=76281980&t=46)** I've been building mobile applications for over 10 years and have been working with Kotlin since before its 1.0 release.
 >
-> **[0:53](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/building-more-with-kotlin?u=76281980&t=53)** If you're excited to start learning Kotlin then join me in my LinkedIn Learning course on Kotlin essentials.
+> **[0:53](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/building-more-with-kotlin?u=76281980&t=53)** If you're excited to start learning Kotlin then join me in my [[LinkedIn]] Learning course on Kotlin essentials.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kotlin]] (9), [[Programming]] (1), [[Android]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Kotlin]] (9), [[Android]] (1), [[LinkedIn]] (1)
 > **Versions:** 1.0 (1)
 > **Speakers:** - [nate] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/what-you-should-know?u=76281980&t=1)** - [Instructor] This course is designed to help you to continue learning the essentials of the Kotlin programming language.
+> **[0:01](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/what-you-should-know?u=76281980&t=1)** - [Instructor] This course is designed to help you to continue learning the essentials of the [[Kotlin]] programming language.
 >
 > **[0:06](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/what-you-should-know?u=76281980&t=6)** To get the most out of it you should already be familiar with foundational Kotlin syntax, such as variables and functions.
 >
-> **[0:14](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/what-you-should-know?u=76281980&t=14)** You'll want to be comfortable with object oriented programming concepts and you should know your way around GitHub.
+> **[0:14](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/what-you-should-know?u=76281980&t=14)** You'll want to be comfortable with object oriented [[Programming Concepts]] and you should know your way around [[GitHub]].
 >
 > **[0:21](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/what-you-should-know?u=76281980&t=21)** If you feel you should brush up on any of these concepts check out the course library for more resources and come back to this course when you're ready.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kotlin]] (2), [[Programming]] (1), [[Programming Concepts]] (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Kotlin]] (2), [[Programming Concepts]] (1), [[GitHub]] (1)
 > **Tools:** github (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using GitHub
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/using-github?u=76281980)
+#### [Using GitHub](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/using-github?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/using-github?u=76281980&t=0)** - [Instructor] The exercise files for this course are stored on GitHub.
+> **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/using-github?u=76281980&t=0)** - [Instructor] The exercise files for this course are stored on [[GitHub]].
 >
 > **[0:04](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/using-github?u=76281980&t=4)** There are branches for both the start and end states of each video where we work on code.
 >
@@ -151,7 +148,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/using-github?u=76281980&t=51)** Once in IntelliJ, you'll want to select Get from VCS.
 >
-> **[0:58](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/using-github?u=76281980&t=58)** You want to make sure Git is selected for the version control system.
+> **[0:58](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/using-github?u=76281980&t=58)** You want to make sure [[Git]] is selected for the [[Version Control]] system.
 >
 > **[1:02](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/using-github?u=76281980&t=62)** And then you'll paste in that copied URL into the URL field.
 >
@@ -191,7 +188,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (4), [[GitHub]] (2), [[Version Control]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Git]] (4), [[GitHub]] (2), [[Version Control]] (1)
 > **CLI Commands:** git (4), find (2), make (1)
 > **Tools:** intellij (5), github (2)
 > **Env Vars:** url (3), vcs (1)
@@ -205,14 +202,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/classes?u=76281980)
+#### [Classes](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/classes?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/classes?u=76281980&t=0)** - Classes are the cornerstone of object oriented programming, helping us model data types behavior and real world objects.
 >
-> **[0:09](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/classes?u=76281980&t=9)** Let's dive right in and learn to define and extend classes in Kotlin.
+> **[0:09](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/classes?u=76281980&t=9)** Let's dive right in and learn to define and extend classes in [[Kotlin]].
 >
 > **[0:15](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/classes?u=76281980&t=15)** To create a class, the first thing that we're going to do is come in to our source main Kotlin directory, right click, go to New, Kotlin class/file.
 >
@@ -522,7 +518,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kotlin]] (8), hit (3), [[Programming]] (2), data (1)
+> **Frameworks & Libraries:** [[Kotlin]] (8)
 > **CLI Commands:** make (9)
 > **Definitions:** is a  (2), known as (1), defined as (1), is called (1)
 > **Analogies:** for example (3), just like (1)
@@ -531,8 +527,7 @@ created: 2026-05-02
 > **File Paths:** main.kt (1), person.kt (1)
 > **Code Identifiers:** printname (1)
 
-#### Interfaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/interfaces?u=76281980)
+#### [Interfaces](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/interfaces?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -540,7 +535,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/interfaces?u=76281980&t=9)** We're going to explore how to define an interface, how to define methods and properties on that interface, and finally, we'll see how to provide default implementations for interface methods.
 >
-> **[0:22](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/interfaces?u=76281980&t=22)** Now let's define our first interface in Kotlin.
+> **[0:22](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/interfaces?u=76281980&t=22)** Now let's define our first interface in [[Kotlin]].
 >
 > **[0:25](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/interfaces?u=76281980&t=25)** We're going to do this within our main.KT file here.
 >
@@ -706,7 +701,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kotlin]] (4), hit (3), generic (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Kotlin]] (4)
 > **Env Vars:** ide (4)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (2)
@@ -715,8 +710,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enum classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/enum-classes?u=76281980)
+#### [Enum classes](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/enum-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -738,7 +732,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/enum-classes?u=76281980&t=51)** We can define each possible value and prevent the addition of any other value.
 >
-> **[0:58](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/enum-classes?u=76281980&t=58)** To define the enum class, we're first going to create a new file by opening up our project pane here and within src, main, kotlin, we will right click, go to New, Kotlin Class or File.
+> **[0:58](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/enum-classes?u=76281980&t=58)** To define the enum class, we're first going to create a new file by opening up our project pane here and within src, main, [[Kotlin]], we will right click, go to New, Kotlin Class or File.
 >
 > **[1:15](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/enum-classes?u=76281980&t=75)** And we'll scroll down this list and we will select enum class.
 >
@@ -804,7 +798,7 @@ created: 2026-05-02
 >
 > **[5:48](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/enum-classes?u=76281980&t=348)** So we were able to correctly parse this string value, turn it into a valid Direction type and then print that out.
 >
-> **[5:58](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/enum-classes?u=76281980&t=358)** If we were to pass something else in here, like the word kotlin, and we try to run this code, we would get an exception.
+> **[5:58](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/enum-classes?u=76281980&t=358)** If we were to pass something else in here, like the [[Microsoft Word|word]] kotlin, and we try to run this code, we would get an exception.
 >
 > **[6:09](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/enum-classes?u=76281980&t=369)** We see an IllegalArgumentException here saying no enum constant Direction.kotlin.
 >
@@ -908,7 +902,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kotlin]] (7), [[Microsoft Word|Word]] (1), data (1), database (1)
+> **Frameworks & Libraries:** [[Kotlin]] (7), [[Microsoft Word|Word]] (1)
 > **Env Vars:** west (8), north (4), south (3), east (2), blue (2)
 > **Code Identifiers:** valueof (2), apivalue (2), parseddirection (1)
 > **File Paths:** main.kt (3)
@@ -917,14 +911,13 @@ created: 2026-05-02
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 
-#### Data classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/data-classes?u=76281980)
+#### [Data classes](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/data-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/data-classes?u=76281980&t=0)** - [Instructor] When writing object oriented code, it's common practice to have types that are simple value holders, that have no real business, logic, or purpose other than to hold some set of data.
 >
-> **[0:14](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/data-classes?u=76281980&t=14)** Data classes in Kotlin are specifically designed for this purpose and have several useful traits that help reduce boilerplate code.
+> **[0:14](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/data-classes?u=76281980&t=14)** Data classes in [[Kotlin]] are specifically designed for this purpose and have several useful traits that help reduce boilerplate code.
 >
 > **[0:24](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/data-classes?u=76281980&t=24)** We can define a data class, much like a regular class, but using the data modifier and with a few restrictions.
 >
@@ -1006,7 +999,7 @@ created: 2026-05-02
 >
 > **[5:10](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/data-classes?u=76281980&t=310)** Probably not.
 >
-> **[5:12](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/data-classes?u=76281980&t=312)** In the Java world, the way we would solve this is by implementing equals and hash code so the values could be compared directly.
+> **[5:12](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/data-classes?u=76281980&t=312)** In the [[Java]] world, the way we would solve this is by implementing equals and hash code so the values could be compared directly.
 >
 > **[5:20](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/data-classes?u=76281980&t=320)** In Kotlin, data classes actually take care of this for us.
 >
@@ -1100,7 +1093,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (33), feature (6), [[Kotlin]] (4), [[Search]] (3), [[Analytics]] (3)
+> **Frameworks & Libraries:** [[Kotlin]] (4), [[Java]] (1)
 > **File Paths:** task.kt (3), main.kt (3)
 > **Code Identifiers:** task2copy (3), val_name (1)
 > **CLI Commands:** make (2)
@@ -1109,14 +1102,13 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Exercise Files:** boilerplate (1)
 
-#### Object classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/object-classes?u=76281980)
+#### [Object classes](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/object-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/object-classes?u=76281980&t=0)** - [Instructor] Singleton is a design pattern for ensuring that only a single instance of a class exists at any time within the runtime of an application.
 >
-> **[0:10](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/object-classes?u=76281980&t=10)** In Kotlin, object declarations provide a concise thread safe syntax for writing singletons, creating an object declaration is quite simple.
+> **[0:10](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/object-classes?u=76281980&t=10)** In [[Kotlin]], object declarations provide a concise thread safe syntax for writing singletons, creating an object declaration is quite simple.
 >
 > **[0:22](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/object-classes?u=76281980&t=22)** So let's open up our project window here, navigate to source main Kotlin, we're going to right click, go to new Kotlin class or file and if we scroll down to the very bottom we will see an option for object.
 >
@@ -1162,7 +1154,7 @@ created: 2026-05-02
 >
 > **[5:04](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/object-classes?u=76281980&t=304)** Now, it's also possible to create anonymous object declarations using what's called an object expression.
 >
-> **[5:12](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/object-classes?u=76281980&t=312)** These are analogous to anonymous inner classes in Java.
+> **[5:12](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/object-classes?u=76281980&t=312)** These are analogous to anonymous inner classes in [[Java]].
 >
 > **[5:16](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/object-classes?u=76281980&t=316)** So these are perfect for situations where you might just need a one off implementation of a particular interface or object.
 >
@@ -1188,7 +1180,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kotlin]] (4), application (3), hit (2), [[Java]] (1)
+> **Frameworks & Libraries:** [[Kotlin]] (4), [[Java]] (1)
 > **Code Identifiers:** getnetworkdetails (4), useragent (3)
 > **Env Vars:** url (7)
 > **Analogies:** just like (2), imagine (1), analogous to (1)
@@ -1197,8 +1189,7 @@ created: 2026-05-02
 > **URLs:** [http://<some](http://<some) (1)
 > **Cross-References:** go back to (1)
 
-#### Sealed classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/sealed-classes?u=76281980)
+#### [Sealed classes](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/sealed-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1206,7 +1197,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/sealed-classes?u=76281980&t=6)** However, unlike enum classes each subtype in the hierarchy may include unique properties making them more flexible and perfect for modeling things like uistates or operation results.
 >
-> **[0:21](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/sealed-classes?u=76281980&t=21)** So we're going to create our first sealed class here in IntelliJ by going to source, main, Kotlin, right clicking, navigating to new Kotlin class or file.
+> **[0:21](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/sealed-classes?u=76281980&t=21)** So we're going to create our first sealed class here in IntelliJ by going to source, main, [[Kotlin]], right clicking, navigating to new Kotlin class or file.
 >
 > **[0:33](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/sealed-classes?u=76281980&t=33)** And then from this option, we'll select sealed class and we are going to name that sealed class uistate and then hit enter.
 >
@@ -1328,7 +1319,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Kotlin]] (4), hit (4), mobile application (1), web application (1)
+> **Frameworks & Libraries:** [[Kotlin]] (4)
 > **Analogies:** imagine (3), for example (2)
 > **Env Vars:** ide (3)
 > **CLI Commands:** make (2)
@@ -1337,16 +1328,15 @@ created: 2026-05-02
 > **Tools:** intellij (1)
 > **Exercise Files:** template (1)
 
-#### Companion objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/companion-objects?u=76281980)
+#### [Companion objects](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/companion-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/companion-objects?u=76281980&t=0)** - [Instructor] Kotlin does not have a static keyword, instead relying on things like top level and extension functions to achieve similar semantics.
+> **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/companion-objects?u=76281980&t=0)** - [Instructor] [[Kotlin]] does not have a static keyword, instead relying on things like top level and extension functions to achieve similar semantics.
 >
 > **[0:10](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/companion-objects?u=76281980&t=10)** However, sometimes it's still useful to be able to scope properties or methods to a particular type.
 >
-> **[0:18](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/companion-objects?u=76281980&t=18)** Companion objects provide a mechanism for mimicking the semantics of static in Java and can be a useful tool for code organization or interoperability with Java.
+> **[0:18](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/companion-objects?u=76281980&t=18)** Companion objects provide a mechanism for mimicking the semantics of static in [[Java]] and can be a useful tool for code organization or interoperability with Java.
 >
 > **[0:31](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/companion-objects?u=76281980&t=31)** Fundamentally, a companion object is an object declaration within a class.
 >
@@ -1402,7 +1392,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kotlin]] (3), [[Java]] (3), [[Search]] (2)
+> **Frameworks & Libraries:** [[Kotlin]] (3), [[Java]] (3)
 > **Env Vars:** max_results (4)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** initialquery (3)
@@ -1410,8 +1400,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Create a Result type using a sealed class
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/challenge-create-a-result-type-using-a-sealed-class?u=76281980)
+#### [Challenge: Create a Result type using a sealed class](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/challenge-create-a-result-type-using-a-sealed-class?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1441,7 +1430,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), database (1)
 > **Code Identifiers:** getrandomstring (3), getstring (2)
 > **File Paths:** stringresult.kt (1)
 > **Exercise Files:** starter code (1)
@@ -1449,8 +1437,7 @@ created: 2026-05-02
 > **Speakers:** - [nate] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Create a Result type using a sealed class
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/solution-create-a-result-type-using-a-sealed-class?u=76281980)
+#### [Solution: Create a Result type using a sealed class](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/solution-create-a-result-type-using-a-sealed-class?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1540,7 +1527,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (1), database (1)
 > **Code Identifiers:** getrandomstring (9), getstring (4)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), means that (1)
@@ -1553,12 +1539,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Top-level properties and functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/top-level-properties-and-functions?u=76281980)
+#### [Top-level properties and functions](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/top-level-properties-and-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/top-level-properties-and-functions?u=76281980&t=0)** - [Instructor] Let's talk code organization in Kotlin.
+> **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/top-level-properties-and-functions?u=76281980&t=0)** - [Instructor] Let's talk code organization in [[Kotlin]].
 >
 > **[0:03](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/top-level-properties-and-functions?u=76281980&t=3)** More specifically, we're going to explore options for organizing our top-level properties and functions in a scalable way.
 >
@@ -1642,7 +1627,7 @@ created: 2026-05-02
 >
 > **[6:03](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/top-level-properties-and-functions?u=76281980&t=363)** Now, within the context of Kotlin and these visibility modifiers, a module essentially means a set of Kotlin files compiled together.
 >
-> **[6:15](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/top-level-properties-and-functions?u=76281980&t=375)** Most basic projects that you might generate by default in IntelliJ are going to be single module, but as codebases scale it's quite common to split code into separate reusable modules, especially if using a build system like Gradle which is quite common with Kotlin projects.
+> **[6:15](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/top-level-properties-and-functions?u=76281980&t=375)** Most basic projects that you might generate by default in IntelliJ are going to be single module, but as codebases scale it's quite common to split code into separate reusable modules, especially if using a build system like [[Gradle]] which is quite common with Kotlin projects.
 >
 > **[6:34](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/top-level-properties-and-functions?u=76281980&t=394)** So, in these situations adding the internal modifier can be a good way to make constants and functions available to the specialized module, but not to the entire codebase.
 >
@@ -1672,7 +1657,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kotlin]] (9), application (4), [[Gradle]] (1)
+> **Frameworks & Libraries:** [[Kotlin]] (9), [[Gradle]] (1)
 > **File Paths:** main.kt (6), timeutils.kt (2)
 > **Code Identifiers:** hourinmillis (5), millisforhours (3)
 > **CLI Commands:** make (4), find (2)
@@ -1681,12 +1666,11 @@ created: 2026-05-02
 > **Env Vars:** default_click_delay (1)
 > **Tools:** intellij (1)
 
-#### Extension properties and functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/extension-properties-and-functions?u=76281980)
+#### [Extension properties and functions](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/extension-properties-and-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/extension-properties-and-functions?u=76281980&t=0)** - [Instructor] Extension functions and extension properties are two of the most powerful features of Kotlin.
+> **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/extension-properties-and-functions?u=76281980&t=0)** - [Instructor] Extension functions and extension properties are two of the most powerful features of [[Kotlin]].
 >
 > **[0:06](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/extension-properties-and-functions?u=76281980&t=6)** They allow developers to extend types they don't own, making it easier to adapt types and APIs to fit your specific use cases.
 >
@@ -1822,7 +1806,7 @@ created: 2026-05-02
 >
 > **[9:35](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/extension-properties-and-functions?u=76281980&t=575)** Now, we've defined that this function is going to operate with some generic type T.
 >
-> **[9:42](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/extension-properties-and-functions?u=76281980&t=582)** Now we can define the rest of our extension function signature.
+> **[9:42](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/extension-properties-and-functions?u=76281980&t=582)** Now we can define the [[Representational State Transfer (REST)|rest]] of our extension function signature.
 >
 > **[9:47](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/extension-properties-and-functions?u=76281980&t=587)** So rather than extending an explicit type like string or Int, we're going to extend the generic type T, and we're going to name this function log and it will print out the receiver object.
 >
@@ -1852,7 +1836,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (5), [[Kotlin]] (3), hit (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Kotlin]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** iseven (6), millisforhours (4), toregex (3), hourinmillis (2), listof (1)
 > **File Paths:** main.kt (3), timeutils.kt (1)
 > **Definitions:** is a  (1), is called (1), means that (1)
@@ -1861,14 +1845,13 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Prerequisites:** set up (1)
 
-#### Delegates
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/delegates?u=76281980)
+#### [Delegates](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/delegates?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/delegates?u=76281980&t=0)** - [Instructor] Delegation is an object-oriented design pattern that leverages object composition to achieve the same code reuse as inheritance, but in a more flexible way.
 >
-> **[0:11](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/delegates?u=76281980&t=11)** Kotlin supports delegation in two primary ways through interface delegation and property delegates.
+> **[0:11](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/delegates?u=76281980&t=11)** [[Kotlin]] supports delegation in two primary ways through interface delegation and property delegates.
 >
 > **[0:19](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/delegates?u=76281980&t=19)** Interface delegation allows us to delegate the implementation of an interface to some other object implementing that interface.
 >
@@ -1918,7 +1901,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/delegates?u=76281980&t=196)** And we can do this by coming to the end of our class declaration here, right after we've specified Logger as an interface to implement, and we can say by and delegate.
 >
-> **[3:30](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/delegates?u=76281980&t=210)** By doing this, the compiler will take care of routing calls to ApplicationLogger dot log and passing those on to delegate dot log.
+> **[3:30](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/delegates?u=76281980&t=210)** By doing this, the compiler will take care of [[Routing]] calls to ApplicationLogger dot log and passing those on to delegate dot log.
 >
 > **[3:42](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/delegates?u=76281980&t=222)** If we come to our main function here, we could create an instance of ApplicationLogger.
 >
@@ -2010,7 +1993,7 @@ created: 2026-05-02
 >
 > **[9:16](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/delegates?u=76281980&t=556)** So what this indicates to us here is that, in fact, when search is called, we access the Logger for the first time, which then calls the lazy delegate here which prints out the initialization statement and then creates that new instance of the Logger for us.
 >
-> **[9:38](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/delegates?u=76281980&t=578)** If we were to search then a second time, this time, we'll just search for the word code, and we run our code again.
+> **[9:38](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/delegates?u=76281980&t=578)** If we were to search then a second time, this time, we'll just search for the [[Microsoft Word|word]] code, and we run our code again.
 >
 > **[9:50](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/delegates?u=76281980&t=590)** We see that initialization output printed just once still the first time Logger is accessed.
 >
@@ -2070,7 +2053,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (14), [[Kotlin]] (10), [[Routing]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Kotlin]] (10), [[Routing]] (1), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** currentquery (9), applogger (4), oldvalue (2), newvalue (2)
 > **Definitions:** is called (3), is an  (2)
 > **Prerequisites:** initialization (4), set up (1)
@@ -2079,8 +2062,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Refactor a helper class to use top-level functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/challenge-refactor-a-helper-class-to-use-top-level-functions?u=76281980)
+#### [Challenge: Refactor a helper class to use top-level functions](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/challenge-refactor-a-helper-class-to-use-top-level-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2107,8 +2089,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Refactor a helper class to use top-level functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/solution-refactor-a-helper-class-to-use-top-level-functions?u=76281980)
+#### [Solution: Refactor a helper class to use top-level functions](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/solution-refactor-a-helper-class-to-use-top-level-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2190,7 +2171,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (5), hit (1), next (1)
 > **Code Identifiers:** tononemptylist (3), nonemptylist (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** template (1)
@@ -2204,16 +2184,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Threads, thread pools, and executors
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/threads-thread-pools-and-executors?u=76281980)
+#### [Threads, thread pools, and executors](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/threads-thread-pools-and-executors?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/threads-thread-pools-and-executors?u=76281980&t=0)** - [Instructor] Writing multi-threaded code is one of the biggest challenges in software development.
+> **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/threads-thread-pools-and-executors?u=76281980&t=0)** - [Instructor] Writing multi-threaded code is one of the biggest challenges in [[Software Development]].
 >
 > **[0:06](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/threads-thread-pools-and-executors?u=76281980&t=6)** Part of the challenge is choosing which sets of APIs and abstractions to work with.
 >
-> **[0:12](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/threads-thread-pools-and-executors?u=76281980&t=12)** In Kotlin, we have several options and we're going to start by reviewing core concurrency APIs from Java that are still available and viable in our Kotlin code.
+> **[0:12](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/threads-thread-pools-and-executors?u=76281980&t=12)** In [[Kotlin]], we have several options and we're going to start by reviewing core concurrency APIs from [[Java]] that are still available and viable in our Kotlin code.
 >
 > **[0:23](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/threads-thread-pools-and-executors?u=76281980&t=23)** Threads are fundamental elements of concurrency in Java or Kotlin programs.
 >
@@ -2359,18 +2338,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kotlin]] (5), [[Java]] (4), application (3), [[Software Development]] (2), parallel (2)
+> **Frameworks & Libraries:** [[Kotlin]] (5), [[Java]] (4), [[Software Development]] (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding coroutines
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/understanding-coroutines?u=76281980)
+#### [Understanding coroutines](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/understanding-coroutines?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/understanding-coroutines?u=76281980&t=0)** - [Instructor] Coroutines are Kotlin's primary abstraction for writing multithreaded asynchronous code.
+> **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/understanding-coroutines?u=76281980&t=0)** - [Instructor] Coroutines are [[Kotlin]]'s primary abstraction for writing multithreaded asynchronous code.
 >
 > **[0:07](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/understanding-coroutines?u=76281980&t=7)** Understanding the core concepts behind coroutines will help us in learning how to use Kotlin's coroutine APIs in our application code.
 >
@@ -2378,11 +2356,11 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/understanding-coroutines?u=76281980&t=20)** The term coroutines was coined in the 1950s as a means of describing a subroutine that could be suspended and resumed.
 >
-> **[0:30](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/understanding-coroutines?u=76281980&t=30)** This concept has since been implemented in many languages, including C++, C#, Rust, and of course Kotlin.
+> **[0:30](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/understanding-coroutines?u=76281980&t=30)** This concept has since been implemented in many languages, including C++, C#, [[Rust (Programming Language)|Rust]], and of course Kotlin.
 >
 > **[0:41](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/understanding-coroutines?u=76281980&t=41)** In Kotlin, the Standard Library provides a few low-level APIs for coroutines, while most of the functionality is provided by the kotlinx.coroutines library.
 >
-> **[0:57](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/understanding-coroutines?u=76281980&t=57)** The library is actually publicly available on GitHub and can be viewed as a great resource for getting started or for learning more about coroutines implementation.
+> **[0:57](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/understanding-coroutines?u=76281980&t=57)** The library is actually publicly available on [[GitHub]] and can be viewed as a great resource for getting started or for learning more about coroutines implementation.
 >
 > **[1:09](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/understanding-coroutines?u=76281980&t=69)** In Kotlin, coroutines can be thought of as lightweight threads.
 >
@@ -2422,15 +2400,15 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/understanding-coroutines?u=76281980&t=212)** Or we can use a predefined set of contexts, such as [dispatchers.io](https://dispatchers.io).
 >
-> **[3:40](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/understanding-coroutines?u=76281980&t=220)** A common example in mobile development would be to launch a coroutine that runs on the main thread, process a network request or database access on a worker thread, and then update the UI back on the main thread.
+> **[3:40](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/understanding-coroutines?u=76281980&t=220)** A common example in [[Mobile Development]] would be to launch a coroutine that runs on the main thread, process a network request or database access on a worker thread, and then update the UI back on the main thread.
 >
-> **[3:55](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/understanding-coroutines?u=76281980&t=235)** While coroutines are simple in concept, they are still an abstraction around the inherently complex problem of concurrent programming.
+> **[3:55](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/understanding-coroutines?u=76281980&t=235)** While coroutines are simple in concept, they are still an abstraction around the inherently complex problem of [[Concurrent Programming]].
 >
 > **[4:05](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/understanding-coroutines?u=76281980&t=245)** Keeping these core concepts in mind will help when learning to use Kotlin's coroutine APIs later on.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kotlin]] (7), application (2), api (2), [[Rust (Programming Language)|Rust]] (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Kotlin]] (7), [[Rust (Programming Language)|Rust]] (1), [[GitHub]] (1), [[Mobile Development]] (1), [[Concurrent Programming]] (1)
 > **Env Vars:** api (2)
 > **URLs:** [dispatchers.io](https://dispatchers.io) (1)
 > **Tools:** github (1)
@@ -2438,18 +2416,17 @@ created: 2026-05-02
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with coroutines
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/working-with-coroutines?u=76281980)
+#### [Working with coroutines](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/working-with-coroutines?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/working-with-coroutines?u=76281980&t=0)** - [Instructor] By leveraging the co-routine APIs from Kotlin X co-routines, we can start building multithreaded code using a few basic APIs.
+> **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/working-with-coroutines?u=76281980&t=0)** - [Instructor] By leveraging the co-routine APIs from [[Kotlin]] X co-routines, we can start building multithreaded code using a few basic APIs.
 >
 > **[0:10](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/working-with-coroutines?u=76281980&t=10)** Let's jump in and learn how to start leveraging co-routines for asynchronous programming in Kotlin.
 >
 > **[0:16](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/working-with-coroutines?u=76281980&t=16)** To start leveraging the co-routine APIs, we need to add the co-routine's dependency to our project.
 >
-> **[0:22](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/working-with-coroutines?u=76281980&t=22)** So if we go to our project window on the left side of the screen here and open our build.gradle.kts file, we should see that the coroutines dependency has already been added.
+> **[0:22](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/working-with-coroutines?u=76281980&t=22)** So if we go to our project window on the left side of the screen here and open our build.[[Gradle]].kts file, we should see that the coroutines dependency has already been added.
 >
 > **[0:36](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/working-with-coroutines?u=76281980&t=36)** If it hasn't, you're looking for KotlinX-coroutines- core version 1.6.0.
 >
@@ -2573,7 +2550,7 @@ created: 2026-05-02
 >
 > **[9:13](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/working-with-coroutines?u=76281980&t=553)** So effectively what this has done is let us run the refresh calls on an IO thread, and then move the update call back to the main thread.
 >
-> **[9:22](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/working-with-coroutines?u=76281980&t=562)** This type of pattern is very common in mobile development.
+> **[9:22](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/working-with-coroutines?u=76281980&t=562)** This type of pattern is very common in [[Mobile Development]].
 >
 > **[9:28](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/working-with-coroutines?u=76281980&t=568)** If we go ahead and run this real quick, we'll then see that the refreshing of user happens on the main thread.
 >
@@ -2691,7 +2668,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[Kotlin]] (2), [[Gradle]] (2), data (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Kotlin]] (2), [[Gradle]] (2), [[Mobile Development]] (1)
 > **CLI Commands:** make (6), find (1)
 > **Definitions:** is a  (2), means that (1)
 > **File Paths:** build.gradle (1), main.kt (1)
@@ -2700,8 +2677,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1), similar to (1)
 > **UI Navigation:** go to (1)
 
-#### Challenge: Manage multiple async requests
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/challenge-manage-multiple-async-requests?u=76281980)
+#### [Challenge: Manage multiple async requests](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/challenge-manage-multiple-async-requests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2721,12 +2697,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1), data (1), parallel (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Manage multiple async requests
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/solution-manage-multiple-async-requests?u=76281980)
+#### [Solution: Manage multiple async requests](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/solution-manage-multiple-async-requests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2764,7 +2738,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** concurrent (1), parallel (1), database (1), [[Programming]] (1)
 > **Code Identifiers:** loaditemsfromdb (1), loaditemsfromnetwork (1)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
@@ -2776,18 +2749,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/next-steps?u=76281980&t=1)** - [Nate] As we've seen throughout this course, Kotlin is a powerful and flexible language, designed for building modern applications across a variety of domains.
+> **[0:01](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/next-steps?u=76281980&t=1)** - [Nate] As we've seen throughout this course, [[Kotlin]] is a powerful and flexible language, designed for building modern applications across a variety of domains.
 >
 > **[0:10](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/next-steps?u=76281980&t=10)** Language features, such as data and sealed classes, extension functions, and coroutines, provide first-party solutions to many common programming problems.
 >
 > **[0:21](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/next-steps?u=76281980&t=21)** As you continue on with Kotlin, there are many other great resources out there.
 >
-> **[0:25](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/next-steps?u=76281980&t=25)** Be sure to check out Kotlin's Getting Started guide, the Kotlin org on GitHub, or work through the Kotlin Koans for more practice.
+> **[0:25](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/next-steps?u=76281980&t=25)** Be sure to check out Kotlin's Getting Started guide, the Kotlin org on [[GitHub]], or work through the Kotlin Koans for more practice.
 >
 > **[0:34](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/next-steps?u=76281980&t=34)** You should now have the tools you need to start building complete applications with Kotlin.
 >
@@ -2797,7 +2769,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kotlin]] (9), data (1), [[Programming]] (1), [[GitHub]] (1), next (1)
+> **Frameworks & Libraries:** [[Kotlin]] (9), [[GitHub]] (1)
 > **Tools:** github (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)

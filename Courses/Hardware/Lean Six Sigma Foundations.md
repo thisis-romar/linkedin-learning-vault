@@ -71,8 +71,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The continuous improvement culture
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-six-sigma-foundations/the-continuous-improvement-culture-24002420?u=76281980)
+#### [The continuous improvement culture](https://www.linkedin.com/learning/lean-six-sigma-foundations/the-continuous-improvement-culture-24002420?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -84,7 +83,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/lean-six-sigma-foundations/the-continuous-improvement-culture-24002420?u=76281980&t=15)** In this course, I'll teach you how Lean principles and tools can help reduce waste and speed up processes.
 >
-> **[0:22](https://www.linkedin.com/learning/lean-six-sigma-foundations/the-continuous-improvement-culture-24002420?u=76281980&t=22)** I'll show you how the Six Sigma method can decrease defects and variability in your processes, and very importantly, how these two concepts will work together to guide continuous improvement projects in your company.
+> **[0:22](https://www.linkedin.com/learning/lean-six-sigma-foundations/the-continuous-improvement-culture-24002420?u=76281980&t=22)** I'll show you how the [[Six Sigma]] method can decrease defects and variability in your processes, and very importantly, how these two concepts will work together to guide continuous improvement projects in your company.
 >
 > **[0:34](https://www.linkedin.com/learning/lean-six-sigma-foundations/the-continuous-improvement-culture-24002420?u=76281980&t=34)** We strive to make things better each day, every one of us, and by understanding and implementing Lean Six Sigma tools, you'll be able to significantly impact your business processes.
 >
@@ -92,7 +91,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Six Sigma]] (2)
+> **Frameworks & Libraries:** [[Six Sigma]] (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - every (1)
 
@@ -101,20 +100,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why Six Sigma?
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-six-sigma-foundations/why-six-sigma-24006200?u=76281980)
+#### [Why Six Sigma?](https://www.linkedin.com/learning/lean-six-sigma-foundations/why-six-sigma-24006200?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/lean-six-sigma-foundations/why-six-sigma-24006200?u=76281980&t=0)** - Albert Einstein once said that you can't solve a problem using the same kind of thinking that created the problem in the first place.
 >
-> **[0:08](https://www.linkedin.com/learning/lean-six-sigma-foundations/why-six-sigma-24006200?u=76281980&t=8)** That's a good quote to use here because Six Sigma is all about changing your thinking about both the problem and its solution.
+> **[0:08](https://www.linkedin.com/learning/lean-six-sigma-foundations/why-six-sigma-24006200?u=76281980&t=8)** That's a good quote to use here because [[Six Sigma]] is all about changing your thinking about both the problem and its solution.
 >
 > **[0:16](https://www.linkedin.com/learning/lean-six-sigma-foundations/why-six-sigma-24006200?u=76281980&t=16)** In the early 1980s, Motorola was struggling with some quality issues and productivity problems, and had lost some significant memory chip business to Japanese competitors.
 >
 > **[0:27](https://www.linkedin.com/learning/lean-six-sigma-foundations/why-six-sigma-24006200?u=76281980&t=27)** Bob Galvin, Motorola's CEO at that time, issued some very tough quality goals for his company.
 >
-> **[0:33](https://www.linkedin.com/learning/lean-six-sigma-foundations/why-six-sigma-24006200?u=76281980&t=33)** The whole idea of Six Sigma is to provide reliable, consistent, dependable products to your customers.
+> **[0:33](https://www.linkedin.com/learning/lean-six-sigma-foundations/why-six-sigma-24006200?u=76281980&t=33)** The whole idea of Six Sigma is to provide reliable, consistent, dependable [[Microsoft Products|products]] to your customers.
 >
 > **[0:41](https://www.linkedin.com/learning/lean-six-sigma-foundations/why-six-sigma-24006200?u=76281980&t=41)** The process focuses on three things: defects, variability, and the customer.
 >
@@ -154,7 +152,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/lean-six-sigma-foundations/why-six-sigma-24006200?u=76281980&t=179)** As such, Six Sigma can be considered as a very important and more structured component of a company's continuous improvement philosophy and strategy.
 >
-> **[3:10](https://www.linkedin.com/learning/lean-six-sigma-foundations/why-six-sigma-24006200?u=76281980&t=190)** Six Sigma has evolved from this statistics-based management of manufacturing defects into a sound business strategy to drive process improvement across the entire organization and its supply chain.
+> **[3:10](https://www.linkedin.com/learning/lean-six-sigma-foundations/why-six-sigma-24006200?u=76281980&t=190)** Six Sigma has evolved from this [[Statistics]]-based management of manufacturing defects into a sound business strategy to drive process improvement across the entire organization and its supply chain.
 >
 > **[3:23](https://www.linkedin.com/learning/lean-six-sigma-foundations/why-six-sigma-24006200?u=76281980&t=203)** You can apply these methods to reduce variability in your transportation department to help improve on-time delivery to your customers.
 >
@@ -170,7 +168,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Six Sigma]] (12), business (3), management (2), [[Microsoft Products|Products]] (1), product (1)
+> **Frameworks & Libraries:** [[Six Sigma]] (12), [[Microsoft Products|Products]] (1), [[Statistics]] (1)
 > **Versions:** 3.4 (3), 1.5 (1)
 > **Documentation:** specification (2)
 > **CLI Commands:** make (1)
@@ -178,8 +176,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - albert (1)
 
-#### Why Lean?
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-six-sigma-foundations/why-lean-23800654?u=76281980)
+#### [Why Lean?](https://www.linkedin.com/learning/lean-six-sigma-foundations/why-lean-23800654?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -207,7 +204,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/lean-six-sigma-foundations/why-lean-23800654?u=76281980&t=96)** We see the benefits of lean efficiencies through reduced cycle times, greater production output, decreased inventories, and higher levels of quality in all aspects of our work.
 >
-> **[1:47](https://www.linkedin.com/learning/lean-six-sigma-foundations/why-lean-23800654?u=76281980&t=107)** It's not easy to implement lean and just in time principles into your everyday business operations.
+> **[1:47](https://www.linkedin.com/learning/lean-six-sigma-foundations/why-lean-23800654?u=76281980&t=107)** It's not easy to implement lean and just in time principles into your everyday [[Business Operations]].
 >
 > **[1:53](https://www.linkedin.com/learning/lean-six-sigma-foundations/why-lean-23800654?u=76281980&t=113)** It takes time and a lot of hard work.
 >
@@ -217,7 +214,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/lean-six-sigma-foundations/why-lean-23800654?u=76281980&t=127)** To permanently eliminate waste, they work towards error proofing processes and strategies.
 >
-> **[2:13](https://www.linkedin.com/learning/lean-six-sigma-foundations/why-lean-23800654?u=76281980&t=133)** They use simple tools and simple methods that can be applied to any process, whether it's on the office floor or the shop floor.
+> **[2:13](https://www.linkedin.com/learning/lean-six-sigma-foundations/why-lean-23800654?u=76281980&t=133)** They use simple tools and simple methods that can be applied to any process, whether it's on the [[Microsoft Office|office]] floor or the shop floor.
 >
 > **[2:19](https://www.linkedin.com/learning/lean-six-sigma-foundations/why-lean-23800654?u=76281980&t=139)** Above all else, lean depends upon establishing simple processes.
 >
@@ -235,19 +232,18 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/lean-six-sigma-foundations/why-lean-23800654?u=76281980&t=177)** Or perhaps you find something as straightforward as a high rework rate for one particular product in your factory.
 >
-> **[3:04](https://www.linkedin.com/learning/lean-six-sigma-foundations/why-lean-23800654?u=76281980&t=184)** As you prepare for the implementation of Lean Six Sigma, this is a really good place to start.
+> **[3:04](https://www.linkedin.com/learning/lean-six-sigma-foundations/why-lean-23800654?u=76281980&t=184)** As you prepare for the implementation of Lean [[Six Sigma]], this is a really good place to start.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), [[Microsoft Office|Office]] (1), product (1), [[Six Sigma]] (1)
+> **Frameworks & Libraries:** [[Business Operations]] (1), [[Microsoft Office|Office]] (1), [[Six Sigma]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** defined as (1), is a  (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - we (1)
 
-#### Why Lean Six Sigma?
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-six-sigma-foundations/why-lean-six-sigma-24001545?u=76281980)
+#### [Why Lean Six Sigma?](https://www.linkedin.com/learning/lean-six-sigma-foundations/why-lean-six-sigma-24001545?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -255,7 +251,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/lean-six-sigma-foundations/why-lean-six-sigma-24001545?u=76281980&t=5)** What better reason to always be improving?
 >
-> **[0:07](https://www.linkedin.com/learning/lean-six-sigma-foundations/why-lean-six-sigma-24001545?u=76281980&t=7)** This saying is from an engineering textbook, and it explains why we do Lean Six Sigma.
+> **[0:07](https://www.linkedin.com/learning/lean-six-sigma-foundations/why-lean-six-sigma-24001545?u=76281980&t=7)** This saying is from an engineering textbook, and it explains why we do Lean [[Six Sigma]].
 >
 > **[0:13](https://www.linkedin.com/learning/lean-six-sigma-foundations/why-lean-six-sigma-24001545?u=76281980&t=13)** We want to do things differently so we get better results.
 >
@@ -311,9 +307,9 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/lean-six-sigma-foundations/why-lean-six-sigma-24001545?u=76281980&t=193)** The tools and models and skills vary widely between Lean experts and Six Sigma experts.
 >
-> **[3:20](https://www.linkedin.com/learning/lean-six-sigma-foundations/why-lean-six-sigma-24001545?u=76281980&t=200)** And because of its reliance on statistical analysis, Six Sigma does require some more advanced training.
+> **[3:20](https://www.linkedin.com/learning/lean-six-sigma-foundations/why-lean-six-sigma-24001545?u=76281980&t=200)** And because of its reliance on [[Statistical Analysis]], Six Sigma does require some more advanced training.
 >
-> **[3:28](https://www.linkedin.com/learning/lean-six-sigma-foundations/why-lean-six-sigma-24001545?u=76281980&t=208)** Most Lean Six Sigma companies place a very high priority on simplifying every aspect of their business operations as they reduced waste across the organization.
+> **[3:28](https://www.linkedin.com/learning/lean-six-sigma-foundations/why-lean-six-sigma-24001545?u=76281980&t=208)** Most Lean Six Sigma companies place a very high priority on simplifying every aspect of their [[Business Operations]] as they reduced waste across the organization.
 >
 > **[3:38](https://www.linkedin.com/learning/lean-six-sigma-foundations/why-lean-six-sigma-24001545?u=76281980&t=218)** I believe this is the starting point of any successful Lean Six Sigma launch.
 >
@@ -321,7 +317,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Six Sigma]] (16), [[Engineering]] (1), application (1), [[Statistical Analysis]] (1), business (1)
+> **Frameworks & Libraries:** [[Six Sigma]] (16), [[Statistical Analysis]] (1), [[Business Operations]] (1)
 > **Analogies:** for example (2)
 > **Definitions:** means that (1)
 
@@ -330,8 +326,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Six Sigma: Define
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-six-sigma-foundations/six-sigma-define?u=76281980)
+#### [Six Sigma: Define](https://www.linkedin.com/learning/lean-six-sigma-foundations/six-sigma-define?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -339,7 +334,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/lean-six-sigma-foundations/six-sigma-define?u=76281980&t=9)** He defines his book.
 >
-> **[0:11](https://www.linkedin.com/learning/lean-six-sigma-foundations/six-sigma-define?u=76281980&t=11)** As the first step in his process, this certainly makes sense, but interestingly enough, when Motorola introduced Six Sigma, they did not include the defined step.
+> **[0:11](https://www.linkedin.com/learning/lean-six-sigma-foundations/six-sigma-define?u=76281980&t=11)** As the first step in his process, this certainly makes sense, but interestingly enough, when Motorola introduced [[Six Sigma]], they did not include the defined step.
 >
 > **[0:21](https://www.linkedin.com/learning/lean-six-sigma-foundations/six-sigma-define?u=76281980&t=21)** They used a four step methodology of measure, analyze, improve, and control.
 >
@@ -403,20 +398,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Six Sigma]] (10), product (1)
+> **Frameworks & Libraries:** [[Six Sigma]] (10)
 > **Env Vars:** ctq (1), dmaic (1)
 > **Analogies:** such as (2)
 > **Definitions:** in other words (1)
 > **Speakers:** - when (1)
 
-#### Six Sigma: Measure
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-six-sigma-foundations/six-sigma-measure?u=76281980)
+#### [Six Sigma: Measure](https://www.linkedin.com/learning/lean-six-sigma-foundations/six-sigma-measure?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/lean-six-sigma-foundations/six-sigma-measure?u=76281980&t=0)** - If you can't measure something, you can't understand it.
 >
-> **[0:04](https://www.linkedin.com/learning/lean-six-sigma-foundations/six-sigma-measure?u=76281980&t=4)** You may have heard this quote before or some version of it, A recognized expert in performance improvement, Dr. H. James Harrington is certainly speaking directly to the Six Sigma goals of improving and controlling the process.
+> **[0:04](https://www.linkedin.com/learning/lean-six-sigma-foundations/six-sigma-measure?u=76281980&t=4)** You may have heard this quote before or some version of it, A recognized expert in performance improvement, Dr. H. James Harrington is certainly speaking directly to the [[Six Sigma]] goals of improving and controlling the process.
 >
 > **[0:18](https://www.linkedin.com/learning/lean-six-sigma-foundations/six-sigma-measure?u=76281980&t=18)** You want to understand two aspects of measurement here, what to measure and how to measure.
 >
@@ -458,7 +452,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/lean-six-sigma-foundations/six-sigma-measure?u=76281980&t=143)** There's a long list of appropriate tools for the measure step, dependent upon the type of project.
 >
-> **[2:28](https://www.linkedin.com/learning/lean-six-sigma-foundations/six-sigma-measure?u=76281980&t=148)** Key Six Sigma tools used here include data collection, which is your process for collecting the right data as efficiently as possible.
+> **[2:28](https://www.linkedin.com/learning/lean-six-sigma-foundations/six-sigma-measure?u=76281980&t=148)** Key Six Sigma tools used here include [[Data Collection]], which is your process for collecting the right data as efficiently as possible.
 >
 > **[2:39](https://www.linkedin.com/learning/lean-six-sigma-foundations/six-sigma-measure?u=76281980&t=159)** Cause and effect diagram, which helps you determine the right data to collect, you may know this as a fishbone diagram.
 >
@@ -478,7 +472,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Six Sigma]] (3), functional (1)
+> **Frameworks & Libraries:** [[Six Sigma]] (3), [[Data Collection]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** dmaic (1)
 > **Documentation:** specification (1)
@@ -487,8 +481,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - if (1)
 
-#### Six Sigma: Analyze
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-six-sigma-foundations/six-sigma-analyze?u=76281980)
+#### [Six Sigma: Analyze](https://www.linkedin.com/learning/lean-six-sigma-foundations/six-sigma-analyze?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -502,7 +495,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/lean-six-sigma-foundations/six-sigma-analyze?u=76281980&t=16)** You must have this understanding before you can figure out a solution.
 >
-> **[0:20](https://www.linkedin.com/learning/lean-six-sigma-foundations/six-sigma-analyze?u=76281980&t=20)** You'll rely very heavily on statistical analysis in this stage, and this is where the company's black belt and master black belt experts come in.
+> **[0:20](https://www.linkedin.com/learning/lean-six-sigma-foundations/six-sigma-analyze?u=76281980&t=20)** You'll rely very heavily on [[Statistical Analysis]] in this stage, and this is where the company's black belt and master black belt experts come in.
 >
 > **[0:29](https://www.linkedin.com/learning/lean-six-sigma-foundations/six-sigma-analyze?u=76281980&t=29)** These are very experienced people who act as coaches to the team, providing advice, guidance, and training for the data analysis tools.
 >
@@ -554,20 +547,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Statistical Analysis]] (2)
+> **Frameworks & Libraries:** [[Statistical Analysis]] (2)
 > **CLI Commands:** find (3), make (1)
 > **Analogies:** for example (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - you (1)
 
-#### Six Sigma: Improve
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-six-sigma-foundations/six-sigma-improve?u=76281980)
+#### [Six Sigma: Improve](https://www.linkedin.com/learning/lean-six-sigma-foundations/six-sigma-improve?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/lean-six-sigma-foundations/six-sigma-improve?u=76281980&t=0)** - It's one thing to create a product, but the real sweet spot is improving upon your work time and time again.
 >
-> **[0:08](https://www.linkedin.com/learning/lean-six-sigma-foundations/six-sigma-improve?u=76281980&t=8)** This is the heart of any Six Sigma project, the improve step.
+> **[0:08](https://www.linkedin.com/learning/lean-six-sigma-foundations/six-sigma-improve?u=76281980&t=8)** This is the heart of any [[Six Sigma]] project, the improve step.
 >
 > **[0:12](https://www.linkedin.com/learning/lean-six-sigma-foundations/six-sigma-improve?u=76281980&t=12)** Everything done so far in the DMAIC method, define, measure, and analyze, has led you to your ultimate goal, improve the process.
 >
@@ -623,15 +615,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Six Sigma]] (6), management (2), product (1)
+> **Frameworks & Libraries:** [[Six Sigma]] (6)
 > **CLI Commands:** make (4)
 > **Prerequisites:** setup (1), make sure you have (1)
 > **Env Vars:** dmaic (1)
 > **Warnings:** note that (1)
 > **Speakers:** - it (1)
 
-#### Six Sigma: Control
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-six-sigma-foundations/six-sigma-control?u=76281980)
+#### [Six Sigma: Control](https://www.linkedin.com/learning/lean-six-sigma-foundations/six-sigma-control?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -647,7 +638,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/lean-six-sigma-foundations/six-sigma-control?u=76281980&t=29)** In doing so, you have now established a new process, and a new baseline for performance, and you are ready to improve that new process again.
 >
-> **[0:39](https://www.linkedin.com/learning/lean-six-sigma-foundations/six-sigma-control?u=76281980&t=39)** Because successful companies follow a continuous improvement philosophy, the control step connects the Six Sigma program with all other company efforts and quality management, engineering, and process improvement.
+> **[0:39](https://www.linkedin.com/learning/lean-six-sigma-foundations/six-sigma-control?u=76281980&t=39)** Because successful companies follow a continuous improvement philosophy, the control step connects the [[Six Sigma]] program with all other company efforts and quality management, engineering, and process improvement.
 >
 > **[0:53](https://www.linkedin.com/learning/lean-six-sigma-foundations/six-sigma-control?u=76281980&t=53)** The controls you put into place do not have to be elaborate at all.
 >
@@ -671,7 +662,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/lean-six-sigma-foundations/six-sigma-control?u=76281980&t=125)** Mistake prevention means you want to implement procedures that make it difficult to make a mistake in the first place.
 >
-> **[2:11](https://www.linkedin.com/learning/lean-six-sigma-foundations/six-sigma-control?u=76281980&t=131)** Some computerized forms, for example, only allow you to enter data in a certain format, the format that is acceptable to the company's software systems.
+> **[2:11](https://www.linkedin.com/learning/lean-six-sigma-foundations/six-sigma-control?u=76281980&t=131)** Some computerized [[Forms]], for example, only allow you to enter data in a certain format, the format that is acceptable to the company's software systems.
 >
 > **[2:20](https://www.linkedin.com/learning/lean-six-sigma-foundations/six-sigma-control?u=76281980&t=140)** This prevents incomplete forms or forms of errors from even entering the system.
 >
@@ -691,15 +682,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Six Sigma]] (3), [[Forms]] (3), data (3), management (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Six Sigma]] (3), [[Forms]] (3)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (1), means that (1)
 > **Env Vars:** dmaic (1)
 > **Analogies:** for example (1)
 > **Speakers:** - control (1)
 
-#### Design for Six Sigma
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-six-sigma-foundations/design-for-six-sigma-24002421?u=76281980)
+#### [Design for Six Sigma](https://www.linkedin.com/learning/lean-six-sigma-foundations/design-for-six-sigma-24002421?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -711,7 +701,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/lean-six-sigma-foundations/design-for-six-sigma-24002421?u=76281980&t=12)** For example, when developing a new product and the processes that go with it.
 >
-> **[0:17](https://www.linkedin.com/learning/lean-six-sigma-foundations/design-for-six-sigma-24002421?u=76281980&t=17)** Fortunately, the Design for Six Sigma Methodology addresses just this situation.
+> **[0:17](https://www.linkedin.com/learning/lean-six-sigma-foundations/design-for-six-sigma-24002421?u=76281980&t=17)** Fortunately, the Design for [[Six Sigma]] Methodology addresses just this situation.
 >
 > **[0:24](https://www.linkedin.com/learning/lean-six-sigma-foundations/design-for-six-sigma-24002421?u=76281980&t=24)** When improving an existing process, you are primarily dealing with one variable as you develop methods to make that process better.
 >
@@ -719,7 +709,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/lean-six-sigma-foundations/design-for-six-sigma-24002421?u=76281980&t=40)** This is the most significant difference between improving a process and designing a new process.
 >
-> **[0:46](https://www.linkedin.com/learning/lean-six-sigma-foundations/design-for-six-sigma-24002421?u=76281980&t=46)** And in most cases, new processes and products have even more focus on meeting the customer's performance objectives.
+> **[0:46](https://www.linkedin.com/learning/lean-six-sigma-foundations/design-for-six-sigma-24002421?u=76281980&t=46)** And in most cases, new processes and [[Microsoft Products|products]] have even more focus on meeting the customer's performance objectives.
 >
 > **[0:54](https://www.linkedin.com/learning/lean-six-sigma-foundations/design-for-six-sigma-24002421?u=76281980&t=54)** Design for Six Sigma helps to ensure that your new product will meet those customer needs and that the processes can meet Six Sigma capabilities.
 >
@@ -759,7 +749,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Six Sigma]] (7), product (3), [[Microsoft Products|Products]] (3), business (2)
+> **Frameworks & Libraries:** [[Six Sigma]] (7), [[Microsoft Products|Products]] (3)
 > **Env Vars:** dmadv (2), dmaic (1), dmedi (1)
 > **Definitions:** is a  (3), stands for (1)
 > **Analogies:** for example (2), such as (1)
@@ -771,8 +761,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Lean metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-six-sigma-foundations/lean-metrics-24001547?u=76281980)
+#### [Lean metrics](https://www.linkedin.com/learning/lean-six-sigma-foundations/lean-metrics-24001547?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -790,7 +779,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/lean-six-sigma-foundations/lean-metrics-24001547?u=76281980&t=39)** Determine value for the specific product.
 >
-> **[0:42](https://www.linkedin.com/learning/lean-six-sigma-foundations/lean-metrics-24001547?u=76281980&t=42)** This is where you determine your performance metrics, identify the value stream for that product.
+> **[0:42](https://www.linkedin.com/learning/lean-six-sigma-foundations/lean-metrics-24001547?u=76281980&t=42)** This is where you determine your [[Performance Metrics]], identify the value stream for that product.
 >
 > **[0:49](https://www.linkedin.com/learning/lean-six-sigma-foundations/lean-metrics-24001547?u=76281980&t=49)** Applying process mapping tools, you can determine the steps that add value to your product and the steps that do not. Make value flow without interruptions.
 >
@@ -808,11 +797,11 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/lean-six-sigma-foundations/lean-metrics-24001547?u=76281980&t=102)** Only after producing a clear map of the process can you begin to apply the many lean tools available to improve that process.
 >
-> **[1:51](https://www.linkedin.com/learning/lean-six-sigma-foundations/lean-metrics-24001547?u=76281980&t=111)** Many of the Lean performance measurements are also metrics of Six Sigma projects.
+> **[1:51](https://www.linkedin.com/learning/lean-six-sigma-foundations/lean-metrics-24001547?u=76281980&t=111)** Many of the Lean performance measurements are also metrics of [[Six Sigma]] projects.
 >
 > **[1:56](https://www.linkedin.com/learning/lean-six-sigma-foundations/lean-metrics-24001547?u=76281980&t=116)** Waste, cycle time, and inventory are good examples.
 >
-> **[2:01](https://www.linkedin.com/learning/lean-six-sigma-foundations/lean-metrics-24001547?u=76281980&t=121)** One of the limitations of Lean is that their tools are not based in statistics.
+> **[2:01](https://www.linkedin.com/learning/lean-six-sigma-foundations/lean-metrics-24001547?u=76281980&t=121)** One of the limitations of Lean is that their tools are not based in [[Statistics]].
 >
 > **[2:06](https://www.linkedin.com/learning/lean-six-sigma-foundations/lean-metrics-24001547?u=76281980&t=126)** So when variability is the cause of the problem, lean project managers will call in a Six Sigma expert for assistance.
 >
@@ -840,15 +829,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), [[Six Sigma]] (3), business (2), [[Performance Metrics]] (2), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Six Sigma]] (3), [[Performance Metrics]] (2), [[Statistics]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 > **Warnings:** note that (1)
 > **Speakers:** - many (1)
 
-#### Five S's
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-six-sigma-foundations/five-ss-24005218?u=76281980)
+#### [Five S's](https://www.linkedin.com/learning/lean-six-sigma-foundations/five-ss-24005218?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -918,14 +906,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), feature (1), application (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is an  (2)
 > **Analogies:** for example (2)
 > **Speakers:** - the (1)
 
-#### Just-in-time
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-six-sigma-foundations/just-in-time-23800655?u=76281980)
+#### [Just-in-time](https://www.linkedin.com/learning/lean-six-sigma-foundations/just-in-time-23800655?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -953,7 +939,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/lean-six-sigma-foundations/just-in-time-23800655?u=76281980&t=77)** This is a very important concept to recognize because for decades, most industries in America, including automobile manufacturing, were run on business accounting principles.
 >
-> **[1:28](https://www.linkedin.com/learning/lean-six-sigma-foundations/just-in-time-23800655?u=76281980&t=88)** Maximizing the output of an expensive machine meant you could spread those capital costs over more products.
+> **[1:28](https://www.linkedin.com/learning/lean-six-sigma-foundations/just-in-time-23800655?u=76281980&t=88)** Maximizing the output of an expensive machine meant you could spread those capital costs over more [[Microsoft Products|products]].
 >
 > **[1:36](https://www.linkedin.com/learning/lean-six-sigma-foundations/just-in-time-23800655?u=76281980&t=96)** So companies ran their factories at maximum production levels and hoped to sell all the product they made during the year.
 >
@@ -981,7 +967,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/lean-six-sigma-foundations/just-in-time-23800655?u=76281980&t=176)** Variability is the enemy of Just-In-Time.
 >
-> **[2:59](https://www.linkedin.com/learning/lean-six-sigma-foundations/just-in-time-23800655?u=76281980&t=179)** Clearly, this is an area where Lean and Six Sigma work together to drive out both variability and non-value added activities.
+> **[2:59](https://www.linkedin.com/learning/lean-six-sigma-foundations/just-in-time-23800655?u=76281980&t=179)** Clearly, this is an area where Lean and [[Six Sigma]] work together to drive out both variability and non-value added activities.
 >
 > **[3:08](https://www.linkedin.com/learning/lean-six-sigma-foundations/just-in-time-23800655?u=76281980&t=188)** As I point out here, there are lots of interconnections in using these tools.
 >
@@ -991,7 +977,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), next (2), business (1), [[Microsoft Products|Products]] (1), [[Six Sigma]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Six Sigma]] (1)
 > **Env Vars:** jit (6)
 > **Definitions:** means that (1), is a  (1), is an  (1)
 > **CLI Commands:** make (1)
@@ -999,8 +985,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - henry (1)
 
-#### Total productive maintenance
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-six-sigma-foundations/total-productive-maintenance-24004284?u=76281980)
+#### [Total productive maintenance](https://www.linkedin.com/learning/lean-six-sigma-foundations/total-productive-maintenance-24004284?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1054,7 +1039,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1)
 > **Env Vars:** tpm (4), smed (2)
 > **Prerequisites:** setup (4), set up (1)
 > **CLI Commands:** make (2), find (1)
@@ -1062,8 +1046,7 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Speakers:** - a (1)
 
-#### Quality at the source
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-six-sigma-foundations/quality-at-the-source-24007097?u=76281980)
+#### [Quality at the source](https://www.linkedin.com/learning/lean-six-sigma-foundations/quality-at-the-source-24007097?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1093,7 +1076,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/lean-six-sigma-foundations/quality-at-the-source-24007097?u=76281980&t=77)** This guarantees that the product meets specification requirements as it moves from one station to the next.
 >
-> **[1:25](https://www.linkedin.com/learning/lean-six-sigma-foundations/quality-at-the-source-24007097?u=76281980&t=85)** Just as it is used in the Six Sigma methodology, mistake proofing is an important element of quality at the source.
+> **[1:25](https://www.linkedin.com/learning/lean-six-sigma-foundations/quality-at-the-source-24007097?u=76281980&t=85)** Just as it is used in the [[Six Sigma]] methodology, mistake proofing is an important element of quality at the source.
 >
 > **[1:32](https://www.linkedin.com/learning/lean-six-sigma-foundations/quality-at-the-source-24007097?u=76281980&t=92)** The Japanese term for this is poka-yoke, which means foolproof, and this is a commonly used lean expression.
 >
@@ -1105,7 +1088,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/lean-six-sigma-foundations/quality-at-the-source-24007097?u=76281980&t=118)** If dedicated inspection steps are eliminated from your production processes, your throughput time is significantly decreased.
 >
-> **[2:06](https://www.linkedin.com/learning/lean-six-sigma-foundations/quality-at-the-source-24007097?u=76281980&t=126)** This allows you to deliver your products to your customers quicker and with greater flexibility, allowing just-in-time delivery if requested.
+> **[2:06](https://www.linkedin.com/learning/lean-six-sigma-foundations/quality-at-the-source-24007097?u=76281980&t=126)** This allows you to deliver your [[Microsoft Products|products]] to your customers quicker and with greater flexibility, allowing just-in-time delivery if requested.
 >
 > **[2:15](https://www.linkedin.com/learning/lean-six-sigma-foundations/quality-at-the-source-24007097?u=76281980&t=135)** Quality at the source within your key suppliers also enables a just-in-time delivery of materials, components, and sub assemblies to your factory.
 >
@@ -1121,14 +1104,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), product (2), [[Six Sigma]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Six Sigma]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (2)
 > **Documentation:** specification (2)
 > **Speakers:** - henry (1)
 
-#### Continuous improvement
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-six-sigma-foundations/continuous-improvement-24001546?u=76281980)
+#### [Continuous improvement](https://www.linkedin.com/learning/lean-six-sigma-foundations/continuous-improvement-24001546?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1146,11 +1128,11 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/lean-six-sigma-foundations/continuous-improvement-24001546?u=76281980&t=26)** Every lean tool is intended to enable improvement in the process through the reduction of waste and wasteful activities.
 >
-> **[0:34](https://www.linkedin.com/learning/lean-six-sigma-foundations/continuous-improvement-24001546?u=76281980&t=34)** The lean expression is kaizen, a Japanese word that means gradual and orderly continuous improvement.
+> **[0:34](https://www.linkedin.com/learning/lean-six-sigma-foundations/continuous-improvement-24001546?u=76281980&t=34)** The lean expression is kaizen, a Japanese [[Microsoft Word|word]] that means gradual and orderly continuous improvement.
 >
 > **[0:41](https://www.linkedin.com/learning/lean-six-sigma-foundations/continuous-improvement-24001546?u=76281980&t=41)** Kaizen is intended to be used in all business activities.
 >
-> **[0:45](https://www.linkedin.com/learning/lean-six-sigma-foundations/continuous-improvement-24001546?u=76281980&t=45)** Not just in the production area, but also in services, administration, safety, transportation, new product development, and literally every part of the organization.
+> **[0:45](https://www.linkedin.com/learning/lean-six-sigma-foundations/continuous-improvement-24001546?u=76281980&t=45)** Not just in the production area, but also in services, administration, safety, transportation, new [[Product Development]], and literally every part of the organization.
 >
 > **[0:58](https://www.linkedin.com/learning/lean-six-sigma-foundations/continuous-improvement-24001546?u=76281980&t=58)** So any effort to improve any part of your business is technically a kaizen event.
 >
@@ -1206,7 +1188,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/lean-six-sigma-foundations/continuous-improvement-24001546?u=76281980&t=201)** The Kaizen Blitz approach has proven to be very effective in such emergency situations.
 >
-> **[3:27](https://www.linkedin.com/learning/lean-six-sigma-foundations/continuous-improvement-24001546?u=76281980&t=207)** As a final thought, it's important to recognize that continuous improvement is what connects Lean with Six Sigma.
+> **[3:27](https://www.linkedin.com/learning/lean-six-sigma-foundations/continuous-improvement-24001546?u=76281980&t=207)** As a final thought, it's important to recognize that continuous improvement is what connects Lean with [[Six Sigma]].
 >
 > **[3:35](https://www.linkedin.com/learning/lean-six-sigma-foundations/continuous-improvement-24001546?u=76281980&t=215)** Continuous improvement is found in the Kaizen approach of Lean and in the control phase of the Six Sigma DMAIC methodology.
 >
@@ -1218,7 +1200,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), [[Six Sigma]] (4), teams (2), [[Microsoft Word|Word]] (1), [[Product Development]] (1)
+> **Frameworks & Libraries:** [[Six Sigma]] (4), [[Microsoft Word|Word]] (1), [[Product Development]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1), is an  (1)
 > **Env Vars:** dmaic (1)
@@ -1230,14 +1212,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Lead the project
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-six-sigma-foundations/lead-the-project-24008073?u=76281980)
+#### [Lead the project](https://www.linkedin.com/learning/lean-six-sigma-foundations/lead-the-project-24008073?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lean-six-sigma-foundations/lead-the-project-24008073?u=76281980&t=0)** - [Instructor] John F. Kennedy once said, "Leadership and learning are indispensable to each other."
+> **[0:00](https://www.linkedin.com/learning/lean-six-sigma-foundations/lead-the-project-24008073?u=76281980&t=0)** - [Instructor] [[John the Ripper|John]] F. Kennedy once said, "Leadership and learning are indispensable to each other."
 >
-> **[0:06](https://www.linkedin.com/learning/lean-six-sigma-foundations/lead-the-project-24008073?u=76281980&t=6)** We can apply this thought to a Lean Six Sigma project.
+> **[0:06](https://www.linkedin.com/learning/lean-six-sigma-foundations/lead-the-project-24008073?u=76281980&t=6)** We can apply this thought to a Lean [[Six Sigma]] project.
 >
 > **[0:09](https://www.linkedin.com/learning/lean-six-sigma-foundations/lead-the-project-24008073?u=76281980&t=9)** Success is very dependent upon an organization that will provide strong leadership and also be open to learning from their experiences.
 >
@@ -1293,12 +1274,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Six Sigma]] (11), leadership (5), management (1)
+> **Frameworks & Libraries:** [[Six Sigma]] (11), [[John the Ripper|John]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Control the project
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-six-sigma-foundations/control-the-project-24007096?u=76281980)
+#### [Control the project](https://www.linkedin.com/learning/lean-six-sigma-foundations/control-the-project-24007096?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1354,18 +1334,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (1), management (1)
 > **CLI Commands:** make (2), find (1)
 > **Best Practices:** don't forget (1)
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - mario (1)
 
-#### Apply Lean Six Sigma to services
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-six-sigma-foundations/apply-lean-six-sigma-to-services-24002418?u=76281980)
+#### [Apply Lean Six Sigma to services](https://www.linkedin.com/learning/lean-six-sigma-foundations/apply-lean-six-sigma-to-services-24002418?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lean-six-sigma-foundations/apply-lean-six-sigma-to-services-24002418?u=76281980&t=0)** - When Motorola first introduced Six Sigma, they focused totally on the shop floor and Bob Galvin, Motorola's CEO at the time, estimates that decision cost them more than $5 billion in the first four years.
+> **[0:00](https://www.linkedin.com/learning/lean-six-sigma-foundations/apply-lean-six-sigma-to-services-24002418?u=76281980&t=0)** - When Motorola first introduced [[Six Sigma]], they focused totally on the shop floor and Bob Galvin, Motorola's CEO at the time, estimates that decision cost them more than $5 billion in the first four years.
 >
 > **[0:14](https://www.linkedin.com/learning/lean-six-sigma-foundations/apply-lean-six-sigma-to-services-24002418?u=76281980&t=14)** You see, even manufacturing companies have service operations.
 >
@@ -1435,27 +1413,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Six Sigma]] (7), business (2), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Six Sigma]] (7)
 > **CLI Commands:** make (1)
 > **Env Vars:** ceo (1)
 > **Analogies:** imagine (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - when (1)
 
-#### Lean Six Sigma for supply chain
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-six-sigma-foundations/lean-six-sigma-for-supply-chain-24007095?u=76281980)
+#### [Lean Six Sigma for supply chain](https://www.linkedin.com/learning/lean-six-sigma-foundations/lean-six-sigma-for-supply-chain-24007095?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/lean-six-sigma-foundations/lean-six-sigma-for-supply-chain-24007095?u=76281980&t=0)** - There's an old saying that "If you don't take care of the customer, someone else will."
 >
-> **[0:05](https://www.linkedin.com/learning/lean-six-sigma-foundations/lean-six-sigma-for-supply-chain-24007095?u=76281980&t=5)** Acknowledging this every Lean Six Sigma project touches the final customer in some manner, usually quality or cost or time.
+> **[0:05](https://www.linkedin.com/learning/lean-six-sigma-foundations/lean-six-sigma-for-supply-chain-24007095?u=76281980&t=5)** Acknowledging this every Lean [[Six Sigma]] project touches the final customer in some manner, usually quality or cost or time.
 >
 > **[0:14](https://www.linkedin.com/learning/lean-six-sigma-foundations/lean-six-sigma-for-supply-chain-24007095?u=76281980&t=14)** Today's applications for Lean Six Sigma have gone far beyond the factory walls, spanning functional boundaries across the company and extending throughout the entire supply chain.
 >
 > **[0:24](https://www.linkedin.com/learning/lean-six-sigma-foundations/lean-six-sigma-for-supply-chain-24007095?u=76281980&t=24)** In finding solutions and improvements, your projects touch different aspects of the supply chain.
 >
-> **[0:30](https://www.linkedin.com/learning/lean-six-sigma-foundations/lean-six-sigma-for-supply-chain-24007095?u=76281980&t=30)** Let me use inventory management as an example because Lean Six Sigma projects for supply chain management commonly focus on some aspect of inventory management.
+> **[0:30](https://www.linkedin.com/learning/lean-six-sigma-foundations/lean-six-sigma-for-supply-chain-24007095?u=76281980&t=30)** Let me use inventory management as an example because Lean Six Sigma projects for [[Supply Chain Management]] commonly focus on some aspect of inventory management.
 >
 > **[0:40](https://www.linkedin.com/learning/lean-six-sigma-foundations/lean-six-sigma-for-supply-chain-24007095?u=76281980&t=40)** The purpose of having inventory is to meet demand from your customers.
 >
@@ -1507,7 +1484,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Six Sigma]] (7), product (3), functional (2), management (2), [[Supply Chain Management]] (1)
+> **Frameworks & Libraries:** [[Six Sigma]] (7), [[Supply Chain Management]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -1519,12 +1496,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-six-sigma-foundations/next-steps-24008071?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/lean-six-sigma-foundations/next-steps-24008071?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lean-six-sigma-foundations/next-steps-24008071?u=76281980&t=0)** - Lean Six Sigma is all about the process, making processes better and solving problems for your customers.
+> **[0:00](https://www.linkedin.com/learning/lean-six-sigma-foundations/next-steps-24008071?u=76281980&t=0)** - Lean [[Six Sigma]] is all about the process, making processes better and solving problems for your customers.
 >
 > **[0:07](https://www.linkedin.com/learning/lean-six-sigma-foundations/next-steps-24008071?u=76281980&t=7)** If you are interested in taking a further look into these topics, here's a few suggestions: For more insight into process improvement, check out the website BPTrends.
 >
@@ -1552,7 +1528,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Six Sigma]] (6), management (2), business (1)
+> **Frameworks & Libraries:** [[Six Sigma]] (6)
 > **URLs:** [lean.org](https://lean.org) (1), [asq.org](https://asq.org) (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - lean (1)

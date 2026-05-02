@@ -79,8 +79,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/welcome?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -92,17 +91,16 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/welcome?u=76281980&t=26)** In this course, you'll learn how to identify actionable insights, how to address ROI, or return on investment, and how to communicate your insights to your clients so your work can add clear value.
 >
-> **[0:38](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/welcome?u=76281980&t=38)** And if that's something that you're ready for, then please join me for my LinkedIn Learning course, "Actionable Insights for Business Data."
+> **[0:38](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/welcome?u=76281980&t=38)** And if that's something that you're ready for, then please join me for my [[LinkedIn]] Learning course, "Actionable Insights for Business Data."
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), business (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** roi (1)
 > **Speakers:** - [barton] (1)
 
-#### More about the course
-> [LinkedIn Learning](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/more-about-the-course?u=76281980)
+#### [More about the course](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/more-about-the-course?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -114,19 +112,18 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/more-about-the-course?u=76281980&t=27)** You can use any software package or language or program that you want to use to create presentations and share data.
 >
-> **[0:33](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/more-about-the-course?u=76281980&t=33)** I deliberately created my examples using very basic functions in Google Sheets and Google Slides as a way of keeping the focus on the meaning and not the mechanics.
+> **[0:33](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/more-about-the-course?u=76281980&t=33)** I deliberately created my examples using very basic functions in [[Google]] Sheets and Google Slides as a way of keeping the focus on the meaning and not the mechanics.
 >
 > **[0:43](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/more-about-the-course?u=76281980&t=43)** The principles that I cover may seem basic, but I guarantee you, based on my experience training working data professionals, that they are often neglected, and so a little practice will help give your work greater impact.
 >
-> **[0:58](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/more-about-the-course?u=76281980&t=58)** The analyses in this course are basic, mostly pivot tables, but even if you do very sophisticated work in your professional practice, the principles we use will help you address your clients' and stakeholders' needs, no matter what methods you use.
+> **[0:58](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/more-about-the-course?u=76281980&t=58)** The analyses in this course are basic, mostly [[Pivot Tables]], but even if you do very sophisticated work in your professional practice, the principles we use will help you address your clients' and stakeholders' needs, no matter what methods you use.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Google]] (2), [[Pivot Tables]] (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Pivot Tables]] (1)
 > **Speakers:** - [presenter] (1)
 
-#### Accessing files
-> [LinkedIn Learning](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/accessing-files?u=76281980)
+#### [Accessing files](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/accessing-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -136,11 +133,11 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/accessing-files?u=76281980&t=12)** 02_02 is for chapter two, video two, and so on.
 >
-> **[0:16](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/accessing-files?u=76281980&t=16)** In 02_02, there's also a data file which consists of tables in Microsoft Excel.
+> **[0:16](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/accessing-files?u=76281980&t=16)** In 02_02, there's also a data file which consists of tables in [[Microsoft Excel]].
 >
-> **[0:23](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/accessing-files?u=76281980&t=23)** You can also import this file into any other application you use, such as Google Sheets or LibreOffice, for looking at the data and creating graphs.
+> **[0:23](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/accessing-files?u=76281980&t=23)** You can also import this file into any other application you use, such as [[Google]] Sheets or LibreOffice, for looking at the data and creating graphs.
 >
-> **[0:31](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/accessing-files?u=76281980&t=31)** These folders also have the sample presentations that I've created in several formats, Microsoft PowerPoint, Apple Keynote, and PDF.
+> **[0:31](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/accessing-files?u=76281980&t=31)** These folders also have the sample presentations that I've created in several formats, [[Microsoft PowerPoint]], Apple Keynote, and PDF.
 >
 > **[0:41](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/accessing-files?u=76281980&t=41)** The contents is identical in each format, so use whichever version is most convenient for you.
 >
@@ -150,7 +147,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft Excel]] (1), application (1), [[Google]] (1), [[Microsoft PowerPoint]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel]] (1), [[Google]] (1), [[Microsoft PowerPoint]] (1)
 > **Exercise Files:** exercise files (3)
 > **Env Vars:** pdf (1)
 > **Analogies:** such as (1)
@@ -161,8 +158,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Identify actionable insights
-> [LinkedIn Learning](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/identify-actionable-insights?u=76281980)
+#### [Identify actionable insights](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/identify-actionable-insights?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -204,7 +200,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/identify-actionable-insights?u=76281980&t=134)** Now, this distinction is similar to the one that you may know between descriptive analysis, predictive analysis, and prescriptive analysis.
 >
-> **[2:24](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/identify-actionable-insights?u=76281980&t=144)** The main difference is that these three things, descriptive, predictive and prescriptive analysis, usually refer to analytical approaches, often a way of categorizing algorithms, but not the actual usefulness, utility of the results.
+> **[2:24](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/identify-actionable-insights?u=76281980&t=144)** The main difference is that these three things, descriptive, predictive and prescriptive analysis, usually refer to analytical approaches, often a way of categorizing [[Algorithms]], but not the actual usefulness, utility of the results.
 >
 > **[2:39](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/identify-actionable-insights?u=76281980&t=159)** Now, predictive analysis is better at this, but we're concerned about going a few steps beyond even that category of analysis.
 >
@@ -266,7 +262,7 @@ created: 2026-05-02
 >
 > **[6:12](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/identify-actionable-insights?u=76281980&t=372)** And what you find in this hypothetical example is that those in the Upper Midwest respond better to campaign A than they do to campaign B.
 >
-> **[6:21](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/identify-actionable-insights?u=76281980&t=381)** And then what you find is that the rest of the US responds better to B, but they respond at a lower rate.
+> **[6:21](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/identify-actionable-insights?u=76281980&t=381)** And then what you find is that the [[Representational State Transfer (REST)|rest]] of the US responds better to B, but they respond at a lower rate.
 >
 > **[6:27](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/identify-actionable-insights?u=76281980&t=387)** So you have higher responsiveness in the upper Midwest, and you find a strong preference for campaign A.
 >
@@ -286,7 +282,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), product (2), [[Analytics]] (1), next (1), feature (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (9), make (6)
 > **Analogies:** for example (3), similar to (1), think of it as (1), imagine (1)
 > **Definitions:** is an  (2)
@@ -295,8 +291,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [presenter] (1)
 
-#### Challenge: Is it actionable?
-> [LinkedIn Learning](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/try-it-is-it-actionable?u=76281980)
+#### [Challenge: Is it actionable?](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/try-it-is-it-actionable?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -330,7 +325,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/try-it-is-it-actionable?u=76281980&t=80)** So in this situation, your analysis shows that customers who shop on your mobile platform are much more likely than those on your web platform to A, leave your site without putting something in their shopping cart, and B, abandon the shopping cart without making a purchase.
 >
-> **[1:36](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/try-it-is-it-actionable?u=76281980&t=96)** Obviously this is a big issue in the e-commerce world.
+> **[1:36](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/try-it-is-it-actionable?u=76281980&t=96)** Obviously this is a big issue in the [[E-Commerce]] world.
 >
 > **[1:39](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/try-it-is-it-actionable?u=76281980&t=99)** Also, a large percentage of purchases on your web platform are made by people who previously abandoned the mobile process.
 >
@@ -354,14 +349,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), [[E-Commerce]] (1), next (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Is it actionable?
-> [LinkedIn Learning](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/check-it-is-it-actionable?u=76281980)
+#### [Solution: Is it actionable?](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/check-it-is-it-actionable?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -443,12 +437,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Make insights actionable
-> [LinkedIn Learning](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/make-insights-actionable?u=76281980)
+#### [Make insights actionable](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/make-insights-actionable?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -534,7 +526,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/make-insights-actionable?u=76281980&t=196)** That's something that's under your control.
 >
-> **[3:19](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/make-insights-actionable?u=76281980&t=199)** You can also adapt the products or the services that you provide, the interactions you have with these people.
+> **[3:19](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/make-insights-actionable?u=76281980&t=199)** You can also adapt the [[Microsoft Products|products]] or the services that you provide, the interactions you have with these people.
 >
 > **[3:26](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/make-insights-actionable?u=76281980&t=206)** There are a number of things that you can do to make the outcomes more likely.
 >
@@ -592,7 +584,7 @@ created: 2026-05-02
 >
 > **[5:49](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/make-insights-actionable?u=76281980&t=349)** That includes things like campaigns and platforms, including making it possible to log in with social IDs or share via social accounts.
 >
-> **[5:58](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/make-insights-actionable?u=76281980&t=358)** Products, services, and pricing, as well as things like the ease of customer support and engagement, the ease of booking and canceling services, purchasing and returning items, methods for accepting payment or splitting payments over time.
+> **[5:58](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/make-insights-actionable?u=76281980&t=358)** Products, services, and pricing, as well as things like the ease of [[Customer Support]] and engagement, the ease of booking and canceling services, purchasing and returning items, methods for accepting payment or splitting payments over time.
 >
 > **[6:10](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/make-insights-actionable?u=76281980&t=370)** These are all things you can do, your client can do to make the outcomes more likely.
 >
@@ -606,15 +598,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Products|Products]] (2), product (1), [[Customer Support]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Customer Support]] (1)
 > **CLI Commands:** make (6)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Make it actionable
-> [LinkedIn Learning](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/try-it-make-it-actionable?u=76281980)
+#### [Challenge: Make it actionable](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/try-it-make-it-actionable?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -644,7 +635,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/try-it-make-it-actionable?u=76281980&t=84)** Second is predictors of shipping costs with boats, and trucks, and planes.
 >
-> **[1:31](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/try-it-make-it-actionable?u=76281980&t=91)** Now in this case, your analysis shows that shipping costs for your products have been rising because of, A, increased fuel costs, B, labor shortages, and C, a mismatch of your company's orders and market demands with too many unneeded items shipped unnecessarily and taking up storage space, and higher cost shipping needed to expedite the unanticipated high demand for other products.
+> **[1:31](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/try-it-make-it-actionable?u=76281980&t=91)** Now in this case, your analysis shows that shipping costs for your [[Microsoft Products|products]] have been rising because of, A, increased fuel costs, B, labor shortages, and C, a mismatch of your company's orders and market demands with too many unneeded items shipped unnecessarily and taking up storage space, and higher cost shipping needed to expedite the unanticipated high demand for other products.
 >
 > **[1:56](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/try-it-make-it-actionable?u=76281980&t=116)** So those are the predictors that you found in your data, what can you do to make these into actionable insights for your stakeholders?
 >
@@ -662,15 +653,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), product (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **CLI Commands:** make (6), find (1)
 > **Definitions:** is a  (3)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (uplifting music) (1)
 
-#### Solution: Make it actionable
-> [LinkedIn Learning](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/check-it-make-it-actionable?u=76281980)
+#### [Solution: Make it actionable](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/check-it-make-it-actionable?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -708,7 +698,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/check-it-make-it-actionable?u=76281980&t=133)** Our second scenario is about the predictors of shipping costs.
 >
-> **[2:17](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/check-it-make-it-actionable?u=76281980&t=137)** Your analysis shows that shipping costs for your products have been rising because of, A, increased fuel costs, B, labor shortages, and C, a mismatch of your company's orders and the market's demands, with too many unneeded items shipped unnecessarily and higher cost shipping needed to expedite unanticipated high demand for other products.
+> **[2:17](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/check-it-make-it-actionable?u=76281980&t=137)** Your analysis shows that shipping costs for your [[Microsoft Products|products]] have been rising because of, A, increased fuel costs, B, labor shortages, and C, a mismatch of your company's orders and the market's demands, with too many unneeded items shipped unnecessarily and higher cost shipping needed to expedite unanticipated high demand for other products.
 >
 > **[2:38](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/check-it-make-it-actionable?u=76281980&t=158)** Now, hopefully you found that because I gave a very long answer for something, there may be something you can do with that.
 >
@@ -718,7 +708,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/check-it-make-it-actionable?u=76281980&t=195)** So you can avoid overstock of less popular items 'cause that costs you money to store stuff that nobody wants, then you generally have to sell it for a markdown, and you can avoid under stock of the popular ones, which necessitates costly shipping so air instead of on boat.
 >
-> **[3:32](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/check-it-make-it-actionable?u=76281980&t=212)** And that by accurately predicting the demand, which is a fundamental task in business, the predictive analytics, you can make things more efficient for your organization.
+> **[3:32](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/check-it-make-it-actionable?u=76281980&t=212)** And that by accurately predicting the demand, which is a fundamental task in business, the [[Predictive Analytics]], you can make things more efficient for your organization.
 >
 > **[3:46](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/check-it-make-it-actionable?u=76281980&t=226)** The third scenario I gave to you had to do with employee turnover, where I said that your analysis shows that more employees are leaving your company, with the greatest predictors being age, with more people under 35 leaving, gender, with more women leaving, and C, better opportunities for promotion elsewhere.
 >
@@ -748,15 +738,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), next (1), product (1), business (1), [[Predictive Analytics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Predictive Analytics]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Address ROI
-> [LinkedIn Learning](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/address-roi?u=76281980)
+#### [Address ROI](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/address-roi?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -764,7 +753,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/address-roi?u=76281980&t=8)** Perhaps the most important one for our purposes is ROI, which stands for Return on Investment.
 >
-> **[0:14](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/address-roi?u=76281980&t=14)** Because it's spelled the same as the French word for king, roi, there's the bilingual play on words: ROI is king.
+> **[0:14](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/address-roi?u=76281980&t=14)** Because it's spelled the same as the French [[Microsoft Word|word]] for king, roi, there's the bilingual play on words: ROI is king.
 >
 > **[0:22](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/address-roi?u=76281980&t=22)** Unfortunately, ROI is not a concept that most data people are particularly familiar with, and the same goes for other business concepts.
 >
@@ -888,7 +877,7 @@ created: 2026-05-02
 >
 > **[5:14](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/address-roi?u=76281980&t=314)** So if you had $10 million in a fund that you were managing, you might put the first 7,000 in "El Mariachi," because that has the highest payoff rate, but it's limited then to absolute value.
 >
-> **[5:27](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/address-roi?u=76281980&t=327)** The rest you would put into "Avatar."
+> **[5:27](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/address-roi?u=76281980&t=327)** The [[Representational State Transfer (REST)|rest]] you would put into "Avatar."
 >
 > **[5:29](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/address-roi?u=76281980&t=329)** After all, even with its higher production cost, "Avatar" had over $2.6 billion more in profits than "El Mariachi" did.
 >
@@ -908,7 +897,7 @@ created: 2026-05-02
 >
 > **[6:11](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/address-roi?u=76281980&t=371)** You just can't make any defensible recommendations until you know the costs as well.
 >
-> **[6:17](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/address-roi?u=76281980&t=377)** Now, costs come in many forms.
+> **[6:17](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/address-roi?u=76281980&t=377)** Now, costs come in many [[Forms]].
 >
 > **[6:19](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/address-roi?u=76281980&t=379)** Obviously there's the money stuff: there are the purchase costs.
 >
@@ -964,7 +953,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), business (3), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Forms]] (1)
 > **Env Vars:** roi (16)
 > **CLI Commands:** make (5)
 > **Analogies:** for instance (3), it's like (1)
@@ -973,8 +962,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Warnings:** keep in mind (1)
 
-#### Challenge: What's the ROI?
-> [LinkedIn Learning](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/try-it-what-s-the-roi?u=76281980)
+#### [Challenge: What's the ROI?](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/try-it-what-s-the-roi?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1020,7 +1008,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/try-it-what-s-the-roi?u=76281980&t=127)** So compare these two alternatives, calculate the ROI, and make a recommendation to your stakeholder.
 >
-> **[2:13](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/try-it-what-s-the-roi?u=76281980&t=133)** And our third scenario is a project to improve return process for an e-commerce site.
+> **[2:13](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/try-it-what-s-the-roi?u=76281980&t=133)** And our third scenario is a project to improve return process for an [[E-Commerce]] site.
 >
 > **[2:19](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/try-it-what-s-the-roi?u=76281980&t=139)** And the first one, you can work on the return system, or really, the returns management system, which you use for processing the returns.
 >
@@ -1036,7 +1024,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[E-Commerce]] (1), management (1), next (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** roi (4)
 > **Definitions:** is a  (2)
@@ -1044,8 +1032,7 @@ created: 2026-05-02
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (quirky music) (1)
 
-#### Solution: What's the ROI?
-> [LinkedIn Learning](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/check-it-what-s-the-roi?u=76281980)
+#### [Solution: What's the ROI?](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/check-it-what-s-the-roi?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1121,7 +1108,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1)
 > **Env Vars:** roi (15)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -1133,8 +1119,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Choose and prepare graphics for insight
-> [LinkedIn Learning](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/choose-and-prepare-graphics-for-insight?u=76281980)
+#### [Choose and prepare graphics for insight](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/choose-and-prepare-graphics-for-insight?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1162,7 +1147,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/choose-and-prepare-graphics-for-insight?u=76281980&t=71)** You want to keep them as easy as possible.
 >
-> **[1:14](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/choose-and-prepare-graphics-for-insight?u=76281980&t=74)** You can either do vertical bar charts, and you see I've done these in Google Sheets because it keeps things really, really simple.
+> **[1:14](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/choose-and-prepare-graphics-for-insight?u=76281980&t=74)** You can either do vertical bar charts, and you see I've done these in [[Google]] Sheets because it keeps things really, really simple.
 >
 > **[1:23](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/choose-and-prepare-graphics-for-insight?u=76281980&t=83)** It's flat, there's no false third dimension, there's no outlines, there's no funny stuff going on with the colors.
 >
@@ -1186,19 +1171,19 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/choose-and-prepare-graphics-for-insight?u=76281980&t=151)** Again, there is no false third dimension.
 >
-> **[2:33](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/choose-and-prepare-graphics-for-insight?u=76281980&t=153)** There's no changing of the colors, and what this is showing is data from Google Trends that shows the number of searches for the term AI over the past five years in the US, and you can see it took off dramatically in the last year, and that's because we had first here is Dall-E, and the generative AIs that could make pictures from words, and then this is where we had ChatGBT come out, and that's when it just went to a hundred percent.
+> **[2:33](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/choose-and-prepare-graphics-for-insight?u=76281980&t=153)** There's no changing of the colors, and what this is showing is data from Google Trends that shows the number of searches for the term AI over the past five years in the US, and you can see it took off dramatically in the last year, and that's because we had first here is [[DALL-E]], and the generative AIs that could make pictures from words, and then this is where we had ChatGBT come out, and that's when it just went to a hundred percent.
 >
 > **[3:01](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/choose-and-prepare-graphics-for-insight?u=76281980&t=181)** You can also do line charts with multiple values, as long as there's a strong reason to include all of them together, it can get kind of messy.
 >
 > **[3:10](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/choose-and-prepare-graphics-for-insight?u=76281980&t=190)** This one's a little bit messy, but we're showing three different terms also from Google Trends for the same five-year period.
 >
-> **[3:17](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/choose-and-prepare-graphics-for-insight?u=76281980&t=197)** Machine learning in blue, data science in red, and artificial intelligence spelled out in the yellow or gold, and what you can see from that is machine learning and data science are almost exactly the same in terms of the prevalence of search, and that artificial intelligence is only about half as high, and so that gives you an idea of the relative popularity of these things over a few years, and so a line chart with multiple lines can be a really good thing.
+> **[3:17](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/choose-and-prepare-graphics-for-insight?u=76281980&t=197)** Machine learning in blue, [[Data Science]] in red, and [[Artificial Intelligence (AI)|artificial intelligence]] spelled out in the yellow or gold, and what you can see from that is machine learning and data science are almost exactly the same in terms of the prevalence of search, and that artificial intelligence is only about half as high, and so that gives you an idea of the relative popularity of these things over a few years, and so a line chart with multiple lines can be a really good thing.
 >
 > **[3:46](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/choose-and-prepare-graphics-for-insight?u=76281980&t=226)** It does require a little bit of explanation usually when you show it to your stakeholders, and scatterplots, I say maybe here, because it sometimes confuses people to see these things.
 >
 > **[3:56](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/choose-and-prepare-graphics-for-insight?u=76281980&t=236)** I know that as an analyst you see these as sort of your bread and butter, they're easy to do, but not everybody knows how to read them, that each dot represents a combination of values.
 >
-> **[4:05](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/choose-and-prepare-graphics-for-insight?u=76281980&t=245)** So for instance, what we have here are the 48 contiguous United States with a dot that shows how common business intelligence was as a search term for them.
+> **[4:05](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/choose-and-prepare-graphics-for-insight?u=76281980&t=245)** So for instance, what we have here are the 48 contiguous United States with a dot that shows how common [[Business Intelligence (BI)|business intelligence]] was as a search term for them.
 >
 > **[4:15](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/choose-and-prepare-graphics-for-insight?u=76281980&t=255)** That's going across the X axis, and then data science going up on the Y axis, and you can see they're associated, though there are outliers.
 >
@@ -1208,7 +1193,7 @@ created: 2026-05-02
 >
 > **[5:01](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/choose-and-prepare-graphics-for-insight?u=76281980&t=301)** When you're analyzing data, use anything that helps.
 >
-> **[5:04](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/choose-and-prepare-graphics-for-insight?u=76281980&t=304)** When I'm working with data, I use box plots and density plots and scatterplot matrices, and decision trees, and dendrograms for cluster charts.
+> **[5:04](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/choose-and-prepare-graphics-for-insight?u=76281980&t=304)** When I'm working with data, I use box plots and density plots and scatterplot matrices, and [[Decision Trees]], and dendrograms for cluster charts.
 >
 > **[5:13](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/choose-and-prepare-graphics-for-insight?u=76281980&t=313)** Anything that helps you as the analyst find the meaning in the data is going to be great.
 >
@@ -1248,7 +1233,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[Google]] (4), [[Business Intelligence (BI)|Business intelligence]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[Google]] (4), [[Data Science]] (3), [[Business Intelligence (BI)|Business intelligence]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[DALL-E]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for instance (2)
@@ -1256,8 +1241,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Graphics for insight
-> [LinkedIn Learning](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/try-it-graphics-for-insight?u=76281980)
+#### [Challenge: Graphics for insight](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/try-it-graphics-for-insight?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1307,11 +1291,11 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/try-it-graphics-for-insight?u=76281980&t=174)** This is the beginning data set.
 >
-> **[2:56](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/try-it-graphics-for-insight?u=76281980&t=176)** Now, there are some other tables that I've created as well, and even though I'm showing this to you right now in Microsoft Excel, I did all of this in Google Sheets, because I was trying to do it with the simplest possible tools.
+> **[2:56](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/try-it-graphics-for-insight?u=76281980&t=176)** Now, there are some other tables that I've created as well, and even though I'm showing this to you right now in [[Microsoft Excel]], I did all of this in [[Google]] Sheets, because I was trying to do it with the simplest possible tools.
 >
 > **[3:09](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/try-it-graphics-for-insight?u=76281980&t=189)** And I started with one table.
 >
-> **[3:12](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/try-it-graphics-for-insight?u=76281980&t=192)** Again, this is data that I made up, but from there I created pivot tables to get summary data.
+> **[3:12](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/try-it-graphics-for-insight?u=76281980&t=192)** Again, this is data that I made up, but from there I created [[Pivot Tables]] to get summary data.
 >
 > **[3:18](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/try-it-graphics-for-insight?u=76281980&t=198)** So here we look at, for instance, the revenue by day, Monday, Tuesday, Wednesday, collapsed across the morning, noon, afternoon, and evening sessions.
 >
@@ -1329,7 +1313,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), business (1), [[Microsoft Excel]] (1), [[Google]] (1), [[Pivot Tables]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel]] (1), [[Google]] (1), [[Pivot Tables]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** roi (2)
 > **Analogies:** for instance (2)
@@ -1338,8 +1322,7 @@ created: 2026-05-02
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Graphics for insight
-> [LinkedIn Learning](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/check-it-graphics-for-insight?u=76281980)
+#### [Solution: Graphics for insight](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/check-it-graphics-for-insight?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1363,7 +1346,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/check-it-graphics-for-insight?u=76281980&t=57)** And so I want to share with you the graphs that I made, and I did these deliberately as very, very basic graphs.
 >
-> **[1:04](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/check-it-graphics-for-insight?u=76281980&t=64)** In fact, again, I created them in Google Sheets because it has more limitations.
+> **[1:04](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/check-it-graphics-for-insight?u=76281980&t=64)** In fact, again, I created them in [[Google]] Sheets because it has more limitations.
 >
 > **[1:09](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/check-it-graphics-for-insight?u=76281980&t=69)** You can't get quite as fancy in Google Sheets; it requires you to think more basically.
 >
@@ -1379,7 +1362,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/check-it-graphics-for-insight?u=76281980&t=96)** But because attendance and revenue and average attendance and average revenue are all linear combinations, you get the bars that look exactly the same; it's just the numbers on the Y axis that vary, so the bars could be the same for any of them.
 >
-> **[1:52](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/check-it-graphics-for-insight?u=76281980&t=112)** I used average revenue 'cause I think that makes the decision-making process a little easier.
+> **[1:52](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/check-it-graphics-for-insight?u=76281980&t=112)** I used average revenue 'cause I think that makes the [[Decision-Making]] process a little easier.
 >
 > **[1:56](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/check-it-graphics-for-insight?u=76281980&t=116)** But that's the first one.
 >
@@ -1441,7 +1424,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Google]] (2), [[Decision-Making]] (1), next (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Decision-Making]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** roi (4)
 > **Definitions:** is a  (2)
@@ -1449,8 +1432,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (lively music) (1)
 
-#### Include insights on slides
-> [LinkedIn Learning](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/include-insights-on-slides?u=76281980)
+#### [Include insights on slides](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/include-insights-on-slides?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1550,9 +1532,9 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/include-insights-on-slides?u=76281980&t=222)** Here's a multiple line chart that I showed you before.
 >
-> **[3:45](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/include-insights-on-slides?u=76281980&t=225)** This is Google Trends data showing the relative popularity of search terms across five years for the United States.
+> **[3:45](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/include-insights-on-slides?u=76281980&t=225)** This is [[Google]] Trends data showing the relative popularity of search terms across five years for the United States.
 >
-> **[3:52](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/include-insights-on-slides?u=76281980&t=232)** And the terms are machine learning in blue, data science in red, and artificial intelligence in yellow.
+> **[3:52](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/include-insights-on-slides?u=76281980&t=232)** And the terms are machine learning in blue, [[Data Science]] in red, and [[Artificial Intelligence (AI)|artificial intelligence]] in yellow.
 >
 > **[3:57](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/include-insights-on-slides?u=76281980&t=237)** And you can see that there are some overlap in these.
 >
@@ -1582,14 +1564,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), ai (3), [[Search]] (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Google]] (1)
 > **CLI Commands:** make (8)
 > **Definitions:** is a  (3), is an  (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [presenter] (1)
 
-#### Challenge: Insights on slides
-> [LinkedIn Learning](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/try-it-insights-on-slides?u=76281980)
+#### [Challenge: Insights on slides](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/try-it-insights-on-slides?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1613,8 +1594,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Insights on slides
-> [LinkedIn Learning](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/check-it-insights-on-slides?u=76281980)
+#### [Solution: Insights on slides](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/check-it-insights-on-slides?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1692,15 +1672,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (2), business (1)
 > **Definitions:** is a  (3), means that (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (2)
 > **Non-Speech:** (lively music begins) (1), (lively music ends) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Arrange presentations for insight
-> [LinkedIn Learning](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/arrange-presentations-for-insight?u=76281980)
+#### [Arrange presentations for insight](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/arrange-presentations-for-insight?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1754,7 +1732,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/arrange-presentations-for-insight?u=76281980&t=189)** It's about AI marketing campaigns.
 >
-> **[3:12](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/arrange-presentations-for-insight?u=76281980&t=192)** And then I have a subtitle, Insights from State Personality Profiles and Google Trends.
+> **[3:12](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/arrange-presentations-for-insight?u=76281980&t=192)** And then I have a subtitle, Insights from State Personality Profiles and [[Google]] Trends.
 >
 > **[3:16](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/arrange-presentations-for-insight?u=76281980&t=196)** By the way, you'll notice I'm just using a flat color.
 >
@@ -1768,7 +1746,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/arrange-presentations-for-insight?u=76281980&t=221)** My second slide has the goals.
 >
-> **[3:43](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/arrange-presentations-for-insight?u=76281980&t=223)** So for my fictional project, the goals are to support the US marketing campaign for artificial intelligence services, with another goal of identifying key terminology and adapting to regional differences.
+> **[3:43](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/arrange-presentations-for-insight?u=76281980&t=223)** So for my fictional project, the goals are to support the US marketing campaign for [[Artificial Intelligence (AI)|artificial intelligence]] services, with another goal of identifying key terminology and adapting to regional differences.
 >
 > **[3:56](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/arrange-presentations-for-insight?u=76281980&t=236)** So those are my three goals.
 >
@@ -1784,7 +1762,7 @@ created: 2026-05-02
 >
 > **[4:31](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/arrange-presentations-for-insight?u=76281980&t=271)** And I've shown you these before.
 >
-> **[4:32](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/arrange-presentations-for-insight?u=76281980&t=272)** Here is my line chart of Google Trends data, and this is where I say emphasize machine learning and data science for technical audiences.
+> **[4:32](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/arrange-presentations-for-insight?u=76281980&t=272)** Here is my line chart of Google Trends data, and this is where I say emphasize machine learning and [[Data Science]] for technical audiences.
 >
 > **[4:39](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/arrange-presentations-for-insight?u=76281980&t=279)** It's because I'm looking at these red and blue lines that are much higher than the yellow line.
 >
@@ -1822,15 +1800,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), ai (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Google]] (2)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Google]] (2), [[Data Science]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** iso (1)
 > **UI Navigation:** go to (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Arrange for insight
-> [LinkedIn Learning](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/try-it-arrange-for-insight?u=76281980)
+#### [Challenge: Arrange for insight](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/try-it-arrange-for-insight?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1844,13 +1821,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Arrange for insight
-> [LinkedIn Learning](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/check-it-arrange-for-insight?u=76281980)
+#### [Solution: Arrange for insight](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/check-it-arrange-for-insight?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1862,7 +1837,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/check-it-arrange-for-insight?u=76281980&t=50)** Now, I have deliberately done a very simple presentation.
 >
-> **[0:53](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/check-it-arrange-for-insight?u=76281980&t=53)** In fact, I created this in Google Slides because it restricts what I can do.
+> **[0:53](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/check-it-arrange-for-insight?u=76281980&t=53)** In fact, I created this in [[Google]] Slides because it restricts what I can do.
 >
 > **[0:59](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/check-it-arrange-for-insight?u=76281980&t=59)** I've used a plain white background, I used plain text.
 >
@@ -1890,7 +1865,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/check-it-arrange-for-insight?u=76281980&t=125)** My recommendations are cancel the low-revenue afternoon and Saturday evening sessions.
 >
-> **[2:12](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/check-it-arrange-for-insight?u=76281980&t=132)** And then I go into conjecture, now the rest of this stuff is not based on the data per se because I don't have data, these are recommendations for the future, but I'm giving them some suggestions for things that they could do, they could try gathering data on, and that we could revisit in the future.
+> **[2:12](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/check-it-arrange-for-insight?u=76281980&t=132)** And then I go into conjecture, now the [[Representational State Transfer (REST)|rest]] of this stuff is not based on the data per se because I don't have data, these are recommendations for the future, but I'm giving them some suggestions for things that they could do, they could try gathering data on, and that we could revisit in the future.
 >
 > **[2:28](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/check-it-arrange-for-insight?u=76281980&t=148)** I say, if you're going to cancel these sessions, you know, you're going to have some extra time so consider offering onsite classes at workplaces and community centers, or long-term in-depth courses of training in technique, or create training courses for aspiring yoga teachers, or do live online yoga classes for other time zones.
 >
@@ -1942,7 +1917,7 @@ created: 2026-05-02
 >
 > **[5:24](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/check-it-arrange-for-insight?u=76281980&t=324)** The revenue would go down by about $19,000, but the costs would go down by $28,000, which means the profits would go up to 120,415, and the ROI in this case is 109, which is a dramatic improvement over the 80%, which was still good that we had before.
 >
-> **[5:47](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/check-it-arrange-for-insight?u=76281980&t=347)** And so, this is putting it in very stark numbers.
+> **[5:47](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/check-it-arrange-for-insight?u=76281980&t=347)** And so, this is putting it in very [[Stark (Accessibility Software)|stark]] numbers.
 >
 > **[5:50](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/check-it-arrange-for-insight?u=76281980&t=350)** You teach fewer sessions, you increase your profits, and you make a huge improvement in your ROI.
 >
@@ -1984,7 +1959,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Representational State Transfer (REST)|Rest]] (3), business (1), [[Google]] (1), [[Stark (Accessibility Software)|Stark]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[Google]] (1), [[Stark (Accessibility Software)|Stark]] (1)
 > **Env Vars:** roi (8)
 > **CLI Commands:** make (6)
 > **UI Navigation:** switch to (2), go to (1)
@@ -1997,8 +1972,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps and additional resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/next-steps-and-additional-resources?u=76281980)
+#### [Next steps and additional resources](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/next-steps-and-additional-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2010,7 +1984,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/next-steps-and-additional-resources?u=76281980&t=23)** Now, it may also be helpful to learn more about how things in the business world operate if that's not your native situation.
 >
-> **[0:30](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/next-steps-and-additional-resources?u=76281980&t=30)** You may want to learn a little more about data-driven decision-making, which is probably the most directly relevant to your existing data work.
+> **[0:30](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/next-steps-and-additional-resources?u=76281980&t=30)** You may want to learn a little more about data-driven [[Decision-Making]], which is probably the most directly relevant to your existing data work.
 >
 > **[0:39](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/next-steps-and-additional-resources?u=76281980&t=39)** It's helpful to get some more experience with basic business strategy including fields like marketing and operations, which are highly data dependent.
 >
@@ -2036,7 +2010,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), business (4), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** roi (1)
 > **Speakers:** - [instructor] (1)

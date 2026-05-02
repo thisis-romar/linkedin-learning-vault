@@ -69,14 +69,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to remote project management
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/introduction-to-remote-project-management?u=76281980)
+#### [Introduction to remote project management](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/introduction-to-remote-project-management?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/introduction-to-remote-project-management?u=76281980&t=0)** - Are you mainly working from home on a project team where people are dispersed in different locations, countries, and time zones?
 >
-> **[0:07](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/introduction-to-remote-project-management?u=76281980&t=7)** People are needing to work remotely on virtual teams more than ever before.
+> **[0:07](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/introduction-to-remote-project-management?u=76281980&t=7)** People are needing to work remotely on [[Virtual Teams]] more than ever before.
 >
 > **[0:12](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/introduction-to-remote-project-management?u=76281980&t=12)** I'd estimate somewhere between 60 and 80% of knowledge workers are part of at least one virtual team, and that number is only going to increase.
 >
@@ -88,11 +87,11 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/introduction-to-remote-project-management?u=76281980&t=51)** All of this needs to be done with the right technology and collaboration tools.
 >
-> **[0:56](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/introduction-to-remote-project-management?u=76281980&t=56)** Please join me in my LinkedIn Learning course, so you can master leading your remote projects and virtual teams.
+> **[0:56](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/introduction-to-remote-project-management?u=76281980&t=56)** Please join me in my [[LinkedIn]] Learning course, so you can master leading your remote projects and virtual teams.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Virtual Teams]] (2), management (2), teams (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Virtual Teams]] (2), [[LinkedIn]] (1)
 > **Speakers:** - are (1)
 
 
@@ -100,8 +99,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is different about remote projects?
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/what-is-different-about-remote-projects?u=76281980)
+#### [What is different about remote projects?](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/what-is-different-about-remote-projects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -149,21 +147,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), teams (1)
 > **Ports:** :00 (6)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for example (1), such as (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - if (1)
 
-#### Pros and cons of virtual project teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/pros-and-cons-of-virtual-project-teams?u=76281980)
+#### [Pros and cons of virtual project teams](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/pros-and-cons-of-virtual-project-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/pros-and-cons-of-virtual-project-teams?u=76281980&t=0)** - Being part of a virtual team can be pretty great.
 >
-> **[0:03](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/pros-and-cons-of-virtual-project-teams?u=76281980&t=3)** I mean, who can complain about working from home in your sweats, but there are some drawbacks as well, and leading virtual teams comes with its own set of challenges.
+> **[0:03](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/pros-and-cons-of-virtual-project-teams?u=76281980&t=3)** I mean, who can complain about working from home in your sweats, but there are some drawbacks as well, and leading [[Virtual Teams]] comes with its own set of challenges.
 >
 > **[0:13](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/pros-and-cons-of-virtual-project-teams?u=76281980&t=13)** Let's start with the benefits for your team members.
 >
@@ -221,12 +217,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Virtual Teams]] (3), leadership (2), traffic (1), teams (1)
+> **Frameworks & Libraries:** [[Virtual Teams]] (3)
 > **Prerequisites:** set up (1)
 > **Speakers:** - being (1)
 
-#### Must-haves for remote projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/must-haves-for-remote-projects?u=76281980)
+#### [Must-haves for remote projects](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/must-haves-for-remote-projects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -246,7 +241,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/must-haves-for-remote-projects?u=76281980&t=33)** You're going to be at your desk all day, so you need to take care of your eyeballs.
 >
-> **[0:38](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/must-haves-for-remote-projects?u=76281980&t=38)** Next, there's your home office furniture.
+> **[0:38](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/must-haves-for-remote-projects?u=76281980&t=38)** Next, there's your home [[Microsoft Office|office]] furniture.
 >
 > **[0:41](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/must-haves-for-remote-projects?u=76281980&t=41)** First, get a decent desk.
 >
@@ -258,7 +253,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/must-haves-for-remote-projects?u=76281980&t=59)** Even if it costs more money, it's worth it in the long run.
 >
-> **[1:04](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/must-haves-for-remote-projects?u=76281980&t=64)** For the rest of your office, make sure you're files, office supplies and bookcases are good enough to meet your needs.
+> **[1:04](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/must-haves-for-remote-projects?u=76281980&t=64)** For the [[Representational State Transfer (REST)|rest]] of your office, make sure you're files, office supplies and bookcases are good enough to meet your needs.
 >
 > **[1:11](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/must-haves-for-remote-projects?u=76281980&t=71)** If you use video conferencing, you need a professional background.
 >
@@ -266,7 +261,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/must-haves-for-remote-projects?u=76281980&t=79)** If you have any pictures or art, make sure they're tasteful.
 >
-> **[1:24](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/must-haves-for-remote-projects?u=76281980&t=84)** If you work out of your bedroom, buy a divider screen to maintain the privacy of your personal space.
+> **[1:24](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/must-haves-for-remote-projects?u=76281980&t=84)** If you work out of your bedroom, buy a divider screen to maintain the [[Privacy]] of your personal space.
 >
 > **[1:31](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/must-haves-for-remote-projects?u=76281980&t=91)** Now let's talk tech.
 >
@@ -284,7 +279,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/must-haves-for-remote-projects?u=76281980&t=137)** I do most of my work on a big iMac, but I have another big monitor I use as a sidecar.
 >
-> **[2:23](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/must-haves-for-remote-projects?u=76281980&t=143)** So if I'm writing or teaching online, I have plenty of space to have multiple windows and files open.
+> **[2:23](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/must-haves-for-remote-projects?u=76281980&t=143)** So if I'm writing or teaching online, I have plenty of space to have multiple [[Windows]] and files open.
 >
 > **[2:30](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/must-haves-for-remote-projects?u=76281980&t=150)** If you can afford some extras, a sidecar monitor makes a big difference.
 >
@@ -296,7 +291,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (6), next (1), [[Representational State Transfer (REST)|Rest]] (1), [[Privacy]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (6), [[Representational State Transfer (REST)|Rest]] (1), [[Privacy]] (1), [[Windows]] (1)
 > **CLI Commands:** make (6)
 > **Code Identifiers:** imac (1)
 > **Env Vars:** led (1)
@@ -308,12 +303,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Managing expectations for virtual project teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/managing-expectations-for-virtual-project-teams?u=76281980)
+#### [Managing expectations for virtual project teams](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/managing-expectations-for-virtual-project-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/managing-expectations-for-virtual-project-teams?u=76281980&t=0)** - Communication is the key to working effectively with virtual teams.
+> **[0:00](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/managing-expectations-for-virtual-project-teams?u=76281980&t=0)** - Communication is the key to working effectively with [[Virtual Teams]].
 >
 > **[0:05](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/managing-expectations-for-virtual-project-teams?u=76281980&t=5)** You'll need to communicate more than usual about what the project is and expectations right from the start.
 >
@@ -325,7 +319,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/managing-expectations-for-virtual-project-teams?u=76281980&t=33)** I recommend making all the reading about the project available to the team members before the kickoff meeting.
 >
-> **[0:40](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/managing-expectations-for-virtual-project-teams?u=76281980&t=40)** Use a shared platform like Teams or Google Drive or any of the other options out there.
+> **[0:40](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/managing-expectations-for-virtual-project-teams?u=76281980&t=40)** Use a shared platform like Teams or [[Google Drive]] or any of the other options out there.
 >
 > **[0:46](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/managing-expectations-for-virtual-project-teams?u=76281980&t=46)** Ask the team to read the charter, vision statement, business case, or any other research you have.
 >
@@ -367,7 +361,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Virtual Teams]] (2), teams (2), [[Google Drive]] (1), business (1)
+> **Frameworks & Libraries:** [[Virtual Teams]] (2), [[Google Drive]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), in other words (1)
 > **Analogies:** for example (1), such as (1)
@@ -375,8 +369,7 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Speakers:** - communication (1)
 
-#### Tips for structuring a project team
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/tips-for-structuring-a-project-team?u=76281980)
+#### [Tips for structuring a project team](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/tips-for-structuring-a-project-team?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -400,7 +393,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/tips-for-structuring-a-project-team?u=76281980&t=71)** This can be an open working session, time used for problem solving, or for exchanging ideas.
 >
-> **[1:18](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/tips-for-structuring-a-project-team?u=76281980&t=78)** Another tip I have for you is to set up office hours where you dial into a meeting room, and anyone who wants to can drop in and talk.
+> **[1:18](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/tips-for-structuring-a-project-team?u=76281980&t=78)** Another tip I have for you is to set up [[Microsoft Office|office]] hours where you dial into a meeting room, and anyone who wants to can drop in and talk.
 >
 > **[1:28](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/tips-for-structuring-a-project-team?u=76281980&t=88)** Now this doesn't take the place of team meetings or one on ones, but it's nice for the team to know that you have specific times set aside for questions, ideas, or just chatting.
 >
@@ -416,15 +409,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **Prerequisites:** set up (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** coming up (1)
 > **Analogies:** for example (1)
 > **Speakers:** - project (1)
 
-#### Communicating with project team members virtually
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/communicating-with-project-team-members-virtually?u=76281980)
+#### [Communicating with project team members virtually](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/communicating-with-project-team-members-virtually?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -446,7 +438,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/communicating-with-project-team-members-virtually?u=76281980&t=54)** Face to face is the richest medium because people can absorb multiple information cues, such as body language, tone of voice, gestures, sentiment and facial expression.
 >
-> **[1:07](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/communicating-with-project-team-members-virtually?u=76281980&t=67)** Obviously, we don't have that option with virtual teams.
+> **[1:07](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/communicating-with-project-team-members-virtually?u=76281980&t=67)** Obviously, we don't have that option with [[Virtual Teams]].
 >
 > **[1:11](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/communicating-with-project-team-members-virtually?u=76281980&t=71)** As you can see on the graphic, with a virtual team, the richest medium we have is video conferencing.
 >
@@ -486,7 +478,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Virtual Teams]] (1), next (1)
+> **Frameworks & Libraries:** [[Virtual Teams]] (1)
 > **Analogies:** such as (3)
 > **UI Navigation:** select the (1)
 > **Speakers:** - communicating (1)
@@ -496,8 +488,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Collaboration tools for virtual project teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/collaboration-tools-for-virtual-project-teams?u=76281980)
+#### [Collaboration tools for virtual project teams](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/collaboration-tools-for-virtual-project-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -507,7 +498,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/collaboration-tools-for-virtual-project-teams?u=76281980&t=11)** Project progress and information has to be visible and up-to-date and your team needs a shared space for all project documentation.
 >
-> **[0:19](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/collaboration-tools-for-virtual-project-teams?u=76281980&t=19)** So let's discuss some of the collaboration platforms and some specific project tools to help you collaborate with virtual teams.
+> **[0:19](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/collaboration-tools-for-virtual-project-teams?u=76281980&t=19)** So let's discuss some of the collaboration platforms and some specific project tools to help you collaborate with [[Virtual Teams]].
 >
 > **[0:28](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/collaboration-tools-for-virtual-project-teams?u=76281980&t=28)** Many organizations use one platform for their employees work.
 >
@@ -517,17 +508,17 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/collaboration-tools-for-virtual-project-teams?u=76281980&t=38)** So to be brief, I'll focus on three commonly used ones.
 >
-> **[0:42](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/collaboration-tools-for-virtual-project-teams?u=76281980&t=42)** Microsoft, Google, and Atlassian.
+> **[0:42](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/collaboration-tools-for-virtual-project-teams?u=76281980&t=42)** [[Microsoft]], [[Google]], and [[Atlassian]].
 >
-> **[0:46](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/collaboration-tools-for-virtual-project-teams?u=76281980&t=46)** Microsoft 365 has most of the basic tools you need; Word, Excel, PowerPoint, and Visio.
+> **[0:46](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/collaboration-tools-for-virtual-project-teams?u=76281980&t=46)** [[Microsoft 365]] has most of the basic tools you need; [[Microsoft Word|Word]], [[Microsoft Excel|Excel]], [[Microsoft PowerPoint|PowerPoint]], and Visio.
 >
-> **[0:53](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/collaboration-tools-for-virtual-project-teams?u=76281980&t=53)** Microsoft Teams focuses on collaboration and SharePoint focuses on shared document management and storage.
+> **[0:53](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/collaboration-tools-for-virtual-project-teams?u=76281980&t=53)** [[Microsoft Teams]] focuses on collaboration and [[SharePoint]] focuses on shared document management and storage.
 >
-> **[1:01](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/collaboration-tools-for-virtual-project-teams?u=76281980&t=61)** Google's G Suite has Google Drive, Docs, Sheets, and Slides.
+> **[1:01](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/collaboration-tools-for-virtual-project-teams?u=76281980&t=61)** Google's G Suite has [[Google Drive]], Docs, Sheets, and Slides.
 >
-> **[1:07](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/collaboration-tools-for-virtual-project-teams?u=76281980&t=67)** Google Keep is a place for shared notes and Forms let you build really cool surveys quickly.
+> **[1:07](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/collaboration-tools-for-virtual-project-teams?u=76281980&t=67)** Google Keep is a place for shared notes and [[Forms]] let you build really cool surveys quickly.
 >
-> **[1:14](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/collaboration-tools-for-virtual-project-teams?u=76281980&t=74)** Atlassian has several products that support remote project work, such as Confluence, a workspace that allows teams to collaborate and keep all their work in a shared place.
+> **[1:14](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/collaboration-tools-for-virtual-project-teams?u=76281980&t=74)** Atlassian has several [[Microsoft Products|products]] that support remote project work, such as [[Confluence]], a workspace that allows teams to collaborate and keep all their work in a shared place.
 >
 > **[1:26](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/collaboration-tools-for-virtual-project-teams?u=76281980&t=86)** Confluence integrates with tools from Google, Microsoft, and others.
 >
@@ -537,37 +528,36 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/collaboration-tools-for-virtual-project-teams?u=76281980&t=102)** Project management requires powerful software to organize and maintain all the project content.
 >
-> **[1:49](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/collaboration-tools-for-virtual-project-teams?u=76281980&t=109)** You can check out Trello, Basecamp, Asana, MS Project or Monday, just to name a few.
+> **[1:49](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/collaboration-tools-for-virtual-project-teams?u=76281980&t=109)** You can check out [[Trello]], Basecamp, Asana, MS Project or Monday, just to name a few.
 >
 > **[1:57](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/collaboration-tools-for-virtual-project-teams?u=76281980&t=117)** These are all cloud-based.
 >
-> **[1:59](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/collaboration-tools-for-virtual-project-teams?u=76281980&t=119)** Some of them are more robust with resource allocation, tracking and forecasting and some are more focused on task boards, task assignment and visualizing projects.
+> **[1:59](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/collaboration-tools-for-virtual-project-teams?u=76281980&t=119)** Some of them are more robust with resource allocation, tracking and [[Forecasting]] and some are more focused on task boards, task assignment and visualizing projects.
 >
 > **[2:10](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/collaboration-tools-for-virtual-project-teams?u=76281980&t=130)** Online chatting and Visio chats are really good ways for teams to stay engaged when working remotely.
 >
-> **[2:16](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/collaboration-tools-for-virtual-project-teams?u=76281980&t=136)** Some of the apps you can explore; Skype, Google Hangouts or Meet, Zoom, WebEx, and Slack.
+> **[2:16](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/collaboration-tools-for-virtual-project-teams?u=76281980&t=136)** Some of the apps you can explore; Skype, Google Hangouts or Meet, [[Zoom]], WebEx, and [[Slack]].
 >
 > **[2:24](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/collaboration-tools-for-virtual-project-teams?u=76281980&t=144)** They're really too many to list, but those are good place to start.
 >
 > **[2:28](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/collaboration-tools-for-virtual-project-teams?u=76281980&t=148)** And finally, I think virtual white boards are a great way for teams to collaborate.
 >
-> **[2:33](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/collaboration-tools-for-virtual-project-teams?u=76281980&t=153)** You can draw on them, upload files, and type all from your home office.
+> **[2:33](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/collaboration-tools-for-virtual-project-teams?u=76281980&t=153)** You can draw on them, upload files, and type all from your home [[Microsoft Office|office]].
 >
 > **[2:39](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/collaboration-tools-for-virtual-project-teams?u=76281980&t=159)** Some of the ones you might want to consider are MURAL, Conceptboard, Miro, and Limnu.
 >
-> **[2:45](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/collaboration-tools-for-virtual-project-teams?u=76281980&t=165)** I know, this information is really high-level, but I hope you'll do some of your own research including checking out some of the collaboration and project management tools courses here on LinkedIn Learning.
+> **[2:45](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/collaboration-tools-for-virtual-project-teams?u=76281980&t=165)** I know, this information is really high-level, but I hope you'll do some of your own research including checking out some of the collaboration and project management tools courses here on [[LinkedIn]] Learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (5), management (4), teams (3), [[Microsoft]] (2), [[Atlassian]] (2)
+> **Frameworks & Libraries:** [[Google]] (5), [[Microsoft]] (2), [[Atlassian]] (2), [[Confluence]] (2), [[Virtual Teams]] (1)
 > **Tools:** confluence (2), slack (1)
 > **Env Vars:** mural (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - most (1)
 
-#### How to lead effective virtual project meetings
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/how-to-lead-effective-virtual-project-meetings?u=76281980)
+#### [How to lead effective virtual project meetings](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/how-to-lead-effective-virtual-project-meetings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -577,7 +567,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/how-to-lead-effective-virtual-project-meetings?u=76281980&t=9)** Have an agenda, distribute it beforehand, and have someone take notes for you.
 >
-> **[0:14](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/how-to-lead-effective-virtual-project-meetings?u=76281980&t=14)** Now let's talk about basic virtual meeting etiquette, and then we'll look at meetings that you can use for virtual teams that are different from those you used in person.
+> **[0:14](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/how-to-lead-effective-virtual-project-meetings?u=76281980&t=14)** Now let's talk about basic virtual meeting etiquette, and then we'll look at meetings that you can use for [[Virtual Teams]] that are different from those you used in person.
 >
 > **[0:24](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/how-to-lead-effective-virtual-project-meetings?u=76281980&t=24)** First, join the meeting 10 minutes early and invite people to come early and hang out.
 >
@@ -625,7 +615,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/how-to-lead-effective-virtual-project-meetings?u=76281980&t=141)** Have a quick 10 to 15 minute check in each day at the same time.
 >
-> **[2:26](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/how-to-lead-effective-virtual-project-meetings?u=76281980&t=146)** You may know this as a stand up or scrum.
+> **[2:26](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/how-to-lead-effective-virtual-project-meetings?u=76281980&t=146)** You may know this as a stand up or [[Scrum]].
 >
 > **[2:28](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/how-to-lead-effective-virtual-project-meetings?u=76281980&t=148)** Use it to see what people did the day before, what they're planning on doing today and if there are any impediments or blockers to getting their work done.
 >
@@ -637,7 +627,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/how-to-lead-effective-virtual-project-meetings?u=76281980&t=173)** Keep it light and fun.
 >
-> **[2:55](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/how-to-lead-effective-virtual-project-meetings?u=76281980&t=175)** Another option is to set up virtual office hours, where you set up a conference call and your team members can dial in if they have questions, concerns or just want to chat about something.
+> **[2:55](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/how-to-lead-effective-virtual-project-meetings?u=76281980&t=175)** Another option is to set up virtual [[Microsoft Office|office]] hours, where you set up a conference call and your team members can dial in if they have questions, concerns or just want to chat about something.
 >
 > **[3:08](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/how-to-lead-effective-virtual-project-meetings?u=76281980&t=188)** Finally, do some type of retrospective to see how the remote process is working for the team, and find out if they have any suggestions for improvements.
 >
@@ -647,18 +637,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Virtual Teams]] (2), next (1), teams (1), [[Scrum]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Virtual Teams]] (2), [[Scrum]] (1), [[Microsoft Office|Office]] (1)
 > **Prerequisites:** set up (3), you'll need (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - all (1)
 
-#### Challenges and solutions with virtual teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/challenges-and-solutions-with-virtual-teams?u=76281980)
+#### [Challenges and solutions with virtual teams](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/challenges-and-solutions-with-virtual-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/challenges-and-solutions-with-virtual-teams?u=76281980&t=0)** - There are some challenges with virtual teams that aren't as common on in-person teams.
+> **[0:00](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/challenges-and-solutions-with-virtual-teams?u=76281980&t=0)** - There are some challenges with [[Virtual Teams]] that aren't as common on in-person teams.
 >
 > **[0:05](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/challenges-and-solutions-with-virtual-teams?u=76281980&t=5)** For one, it's more challenging to build rapport with team members.
 >
@@ -686,7 +675,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/challenges-and-solutions-with-virtual-teams?u=76281980&t=49)** Another challenge is building a cohesive team.
 >
-> **[0:53](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/challenges-and-solutions-with-virtual-teams?u=76281980&t=53)** You can build a sense of team by meeting more often, like having a short 15-minute stand-up or scrum meeting each day to check on progress and see if there's any potential problems.
+> **[0:53](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/challenges-and-solutions-with-virtual-teams?u=76281980&t=53)** You can build a sense of team by meeting more often, like having a short 15-minute stand-up or [[Scrum]] meeting each day to check on progress and see if there's any potential problems.
 >
 > **[1:04](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/challenges-and-solutions-with-virtual-teams?u=76281980&t=64)** You can also set up a virtual collaborative team space.
 >
@@ -748,7 +737,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Virtual Teams]] (1), teams (1), data (1), [[Scrum]] (1), leadership (1)
+> **Frameworks & Libraries:** [[Virtual Teams]] (1), [[Scrum]] (1)
 > **CLI Commands:** make (7), find (1)
 > **Prerequisites:** set up (1), you'll need (1)
 > **Analogies:** for example (1)
@@ -759,8 +748,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Takeaways for remote project teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/takeaways-for-remote-project-teams?u=76281980)
+#### [Takeaways for remote project teams](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/takeaways-for-remote-project-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -768,15 +756,15 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/takeaways-for-remote-project-teams?u=76281980&t=3)** Recently, many people have been forced to work from home, but the benefits of remote work reach far beyond the comforts of home.
 >
-> **[0:11](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/takeaways-for-remote-project-teams?u=76281980&t=11)** Consider other positive impacts it has, like the impact on the environment and sustainability.
+> **[0:11](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/takeaways-for-remote-project-teams?u=76281980&t=11)** Consider other positive impacts it has, like the impact on the environment and [[Sustainability]].
 >
-> **[0:17](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/takeaways-for-remote-project-teams?u=76281980&t=17)** Eliminating a commute reduces your carbon footprint and affects climate change, and being part of that firsthand may be a motivator for you and your team.
+> **[0:17](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/takeaways-for-remote-project-teams?u=76281980&t=17)** Eliminating a commute reduces your carbon footprint and affects [[Climate Change]], and being part of that firsthand may be a motivator for you and your team.
 >
-> **[0:28](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/takeaways-for-remote-project-teams?u=76281980&t=28)** Improved diversity and inclusion.
+> **[0:28](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/takeaways-for-remote-project-teams?u=76281980&t=28)** Improved [[Diversity and Inclusion]].
 >
 > **[0:31](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/takeaways-for-remote-project-teams?u=76281980&t=31)** Your options to hire people from different geographic, cultural and socioeconomic backgrounds are greatly expanded with remote teams.
 >
-> **[0:40](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/takeaways-for-remote-project-teams?u=76281980&t=40)** You have a chance to dip in to a talent pool that you can't when you're office-bound.
+> **[0:40](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/takeaways-for-remote-project-teams?u=76281980&t=40)** You have a chance to dip in to a talent pool that you can't when you're [[Microsoft Office|office]]-bound.
 >
 > **[0:45](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/takeaways-for-remote-project-teams?u=76281980&t=45)** Remember, even though remote projects often require a little more effort to lead, like everything, you'll get used to it, and you know what?
 >
@@ -784,7 +772,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (1), [[Climate Change]] (1), [[Diversity and Inclusion]] (1), teams (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Sustainability]] (1), [[Climate Change]] (1), [[Diversity and Inclusion]] (1), [[Microsoft Office|Office]] (1)
 > **Speakers:** - thank (1)
 
 

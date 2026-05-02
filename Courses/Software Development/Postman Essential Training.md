@@ -92,8 +92,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why automate your API tests?
-> [LinkedIn Learning](https://www.linkedin.com/learning/postman-essential-training-21969591/why-automate-your-api-tests?u=76281980)
+#### [Why automate your API tests?](https://www.linkedin.com/learning/postman-essential-training-21969591/why-automate-your-api-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -103,21 +102,20 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/postman-essential-training-21969591/why-automate-your-api-tests?u=76281980&t=21)** Postman is a free tool that lets us test the requests and responses of our APIs.
 >
-> **[0:28](https://www.linkedin.com/learning/postman-essential-training-21969591/why-automate-your-api-tests?u=76281980&t=28)** With Postman, it's easy to create and duplicate request, use JavaScript to assert on responses, organize your tests, and run your tests as an automated test suite.
+> **[0:28](https://www.linkedin.com/learning/postman-essential-training-21969591/why-automate-your-api-tests?u=76281980&t=28)** With Postman, it's easy to create and duplicate request, use [[JavaScript]] to assert on responses, organize your tests, and run your tests as an automated test suite.
 >
 > **[0:41](https://www.linkedin.com/learning/postman-essential-training-21969591/why-automate-your-api-tests?u=76281980&t=41)** Join me in this course and learn how to create reliable automation for any API you work with.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2), application (1), data (1), [[JavaScript]] (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Env Vars:** api (2)
 > **Tools:** postman (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [kristin] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/postman-essential-training-21969591/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/postman-essential-training-21969591/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -125,18 +123,17 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/postman-essential-training-21969591/what-you-should-know?u=76281980&t=7)** You should also have a general knowledge of what HTTP requests and APIs are and some knowledge of what node JS is.
 >
-> **[0:17](https://www.linkedin.com/learning/postman-essential-training-21969591/what-you-should-know?u=76281980&t=17)** If you need to brush up on any of these skills you can try taking these introductory courses, Learning REST APIs, Introducing Postman, and Learning Windows Terminal.
+> **[0:17](https://www.linkedin.com/learning/postman-essential-training-21969591/what-you-should-know?u=76281980&t=17)** If you need to brush up on any of these skills you can try taking these introductory courses, Learning [[Representational State Transfer (REST)|REST]] APIs, Introducing Postman, and Learning [[Windows]] Terminal.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (1), [[Representational State Transfer (REST)|Rest]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Windows]] (1)
 > **Tools:** command line (1), postman (1), windows terminal (1)
 > **Env Vars:** http (1), rest (1)
 > **CLI Commands:** node (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up your test environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/postman-essential-training-21969591/setting-up-your-test-environment?u=76281980)
+#### [Setting up your test environment](https://www.linkedin.com/learning/postman-essential-training-21969591/setting-up-your-test-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -160,7 +157,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/postman-essential-training-21969591/setting-up-your-test-environment?u=76281980&t=52)** Choose the LTS version and follow the installation instructions.
 >
-> **[0:57](https://www.linkedin.com/learning/postman-essential-training-21969591/setting-up-your-test-environment?u=76281980&t=57)** Once you have Node installed, you should have npm installed automatically.
+> **[0:57](https://www.linkedin.com/learning/postman-essential-training-21969591/setting-up-your-test-environment?u=76281980&t=57)** Once you have Node installed, you should have [[npm]] installed automatically.
 >
 > **[1:02](https://www.linkedin.com/learning/postman-essential-training-21969591/setting-up-your-test-environment?u=76281980&t=62)** You can check to see if it's installed by running this in a command window: npm --version.
 >
@@ -186,7 +183,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (9), [[npm]] (5), next (1)
+> **Frameworks & Libraries:** [[npm]] (5)
 > **CLI Commands:** node (9), npm (5)
 > **Tools:** postman (6), command line (2)
 > **Prerequisites:** you'll need (3), install (3)
@@ -200,8 +197,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating collections and folders
-> [LinkedIn Learning](https://www.linkedin.com/learning/postman-essential-training-21969591/creating-collections-and-folders?u=76281980)
+#### [Creating collections and folders](https://www.linkedin.com/learning/postman-essential-training-21969591/creating-collections-and-folders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -263,15 +259,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), application (1)
 > **Tools:** postman (3)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### The contact list application
-> [LinkedIn Learning](https://www.linkedin.com/learning/postman-essential-training-21969591/the-contact-list-application?u=76281980)
+#### [The contact list application](https://www.linkedin.com/learning/postman-essential-training-21969591/the-contact-list-application?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -317,11 +311,11 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/postman-essential-training-21969591/the-contact-list-application?u=76281980&t=122)** You'll also see the two contacts you added when we learn how to do a get request.
 >
-> **[2:07](https://www.linkedin.com/learning/postman-essential-training-21969591/the-contact-list-application?u=76281980&t=127)** But first, let's learn about how JSON Web Tokens work.
+> **[2:07](https://www.linkedin.com/learning/postman-essential-training-21969591/the-contact-list-application?u=76281980&t=127)** But first, let's learn about how [[JSON]] Web [[Tokens]] work.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (7), next (1), [[JSON]] (1), web (1), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1), [[Tokens]] (1)
 > **Env Vars:** api (7), json (1)
 > **UI Navigation:** navigate to (1), click on (1)
 > **CLI Commands:** make (1)
@@ -329,8 +323,7 @@ created: 2026-05-02
 > **Tools:** postman (1)
 > **Speakers:** - [instructor] (1)
 
-#### How JSON Web Tokens (JWTs) work
-> [LinkedIn Learning](https://www.linkedin.com/learning/postman-essential-training-21969591/how-json-web-tokens-jwts-work?u=76281980)
+#### [How JSON Web Tokens (JWTs) work](https://www.linkedin.com/learning/postman-essential-training-21969591/how-json-web-tokens-jwts-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -340,7 +333,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/postman-essential-training-21969591/how-json-web-tokens-jwts-work?u=76281980&t=12)** You wouldn't want to have a stranger able to make an API call to access your bank account, for example.
 >
-> **[0:18](https://www.linkedin.com/learning/postman-essential-training-21969591/how-json-web-tokens-jwts-work?u=76281980&t=18)** The most common way to secure APIs is through a JWT, or JSON web token.
+> **[0:18](https://www.linkedin.com/learning/postman-essential-training-21969591/how-json-web-tokens-jwts-work?u=76281980&t=18)** The most common way to secure APIs is through a JWT, or [[JSON]] web token.
 >
 > **[0:23](https://www.linkedin.com/learning/postman-essential-training-21969591/how-json-web-tokens-jwts-work?u=76281980&t=23)** This token is generated through a POST request.
 >
@@ -380,7 +373,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/postman-essential-training-21969591/how-json-web-tokens-jwts-work?u=76281980&t=123)** We can see that the ending curly brace has populated for us.
 >
-> **[2:07](https://www.linkedin.com/learning/postman-essential-training-21969591/how-json-web-tokens-jwts-work?u=76281980&t=127)** Now, we're going to put the word email in quote marks and then a colon.
+> **[2:07](https://www.linkedin.com/learning/postman-essential-training-21969591/how-json-web-tokens-jwts-work?u=76281980&t=127)** Now, we're going to put the [[Microsoft Word|word]] email in quote marks and then a colon.
 >
 > **[2:12](https://www.linkedin.com/learning/postman-essential-training-21969591/how-json-web-tokens-jwts-work?u=76281980&t=132)** And then, you're going to put in the email address that you used to create the account on the website.
 >
@@ -406,7 +399,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (5), api (2), application (2), data (1), web (1)
+> **Frameworks & Libraries:** [[JSON]] (5), [[Microsoft Word|Word]] (1)
 > **Env Vars:** json (5), jwt (4), url (3), api (2), post (2)
 > **CLI Commands:** make (5)
 > **UI Navigation:** click on (3), dropdown (2)
@@ -414,8 +407,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating GET requests
-> [LinkedIn Learning](https://www.linkedin.com/learning/postman-essential-training-21969591/creating-get-requests?u=76281980)
+#### [Creating GET requests](https://www.linkedin.com/learning/postman-essential-training-21969591/creating-get-requests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -543,7 +535,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2), next (2)
 > **Env Vars:** url (8), api (2), post (1), put (1), delete (1)
 > **API Endpoints:** get  (10), post  (1)
 > **CLI Commands:** find (3), make (3)
@@ -551,9 +542,9 @@ created: 2026-05-02
 > **Code Identifiers:** contactid (3)
 > **Documentation:** the documentation (2)
 > **Definitions:** is a  (1)
+> **Warnings:** note that (1)
 
-#### Creating POST requests
-> [LinkedIn Learning](https://www.linkedin.com/learning/postman-essential-training-21969591/creating-post-requests?u=76281980)
+#### [Creating POST requests](https://www.linkedin.com/learning/postman-essential-training-21969591/creating-post-requests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -601,7 +592,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/postman-essential-training-21969591/creating-post-requests?u=76281980&t=140)** When we created a post request for a login, the labels and the values for our fields were in red and blue.
 >
-> **[2:30](https://www.linkedin.com/learning/postman-essential-training-21969591/creating-post-requests?u=76281980&t=150)** So what this means is that we have forgotten to change the content type to application JSON.
+> **[2:30](https://www.linkedin.com/learning/postman-essential-training-21969591/creating-post-requests?u=76281980&t=150)** So what this means is that we have forgotten to change the content type to application [[JSON]].
 >
 > **[2:38](https://www.linkedin.com/learning/postman-essential-training-21969591/creating-post-requests?u=76281980&t=158)** This is very important for our post requests.
 >
@@ -631,7 +622,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2), next (2), database (2), [[JSON]] (2), application (1)
+> **Frameworks & Libraries:** [[JSON]] (2)
 > **Env Vars:** url (3), api (2), json (2), http (1)
 > **UI Navigation:** click on (3), go to (1), scroll down (1)
 > **CLI Commands:** make (2), find (1)
@@ -639,8 +630,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating PUT and DELETE requests
-> [LinkedIn Learning](https://www.linkedin.com/learning/postman-essential-training-21969591/creating-put-and-delete-requests?u=76281980)
+#### [Creating PUT and DELETE requests](https://www.linkedin.com/learning/postman-essential-training-21969591/creating-put-and-delete-requests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -736,15 +726,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), database (2), data (1)
 > **UI Navigation:** click on (3), go to (2), select the (1)
 > **Env Vars:** url (2), http (2)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating negative requests: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/postman-essential-training-21969591/creating-negative-requests-part-1?u=76281980)
+#### [Creating negative requests: Part 1](https://www.linkedin.com/learning/postman-essential-training-21969591/creating-negative-requests-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -766,7 +754,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/postman-essential-training-21969591/creating-negative-requests-part-1?u=76281980&t=45)** First, we'll begin with a security test.
 >
-> **[0:49](https://www.linkedin.com/learning/postman-essential-training-21969591/creating-negative-requests-part-1?u=76281980&t=49)** We learned in the movie how JSON web tokens work that we need to pass in a token to make sure that the user has permission to use the API.
+> **[0:49](https://www.linkedin.com/learning/postman-essential-training-21969591/creating-negative-requests-part-1?u=76281980&t=49)** We learned in the movie how [[JSON]] web [[Tokens]] work that we need to pass in a token to make sure that the user has permission to use the API.
 >
 > **[0:59](https://www.linkedin.com/learning/postman-essential-training-21969591/creating-negative-requests-part-1?u=76281980&t=59)** So let's make our first negative request one, where we make a request that is missing the authentication token.
 >
@@ -846,7 +834,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), api (2), [[Security]] (1), [[JSON]] (1), web (1)
+> **Frameworks & Libraries:** [[JSON]] (1), [[Tokens]] (1)
 > **Env Vars:** url (3), api (2), http (2), json (1), put (1)
 > **CLI Commands:** make (8)
 > **UI Navigation:** click on (5)
@@ -856,8 +844,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating negative requests: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/postman-essential-training-21969591/creating-negative-requests-part-2?u=76281980)
+#### [Creating negative requests: Part 2](https://www.linkedin.com/learning/postman-essential-training-21969591/creating-negative-requests-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -981,7 +968,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2)
 > **CLI Commands:** make (6)
 > **Env Vars:** url (3), api (2), http (1)
 > **UI Navigation:** click on (3)
@@ -989,8 +975,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using environment variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/postman-essential-training-21969591/using-environment-variables?u=76281980)
+#### [Using environment variables](https://www.linkedin.com/learning/postman-essential-training-21969591/using-environment-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1072,7 +1057,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (1), next (1), data (1)
 > **UI Navigation:** click on (3), dropdown (1), go to (1)
 > **Definitions:** is a  (2), known as (1)
 > **Tools:** postman (2)
@@ -1080,8 +1064,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Saving response data as a variable
-> [LinkedIn Learning](https://www.linkedin.com/learning/postman-essential-training-21969591/saving-response-data-as-a-variable?u=76281980)
+#### [Saving response data as a variable](https://www.linkedin.com/learning/postman-essential-training-21969591/saving-response-data-as-a-variable?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1089,7 +1072,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/postman-essential-training-21969591/saving-response-data-as-a-variable?u=76281980&t=7)** But what if we don't know what the value of our variable is yet?
 >
-> **[0:11](https://www.linkedin.com/learning/postman-essential-training-21969591/saving-response-data-as-a-variable?u=76281980&t=11)** We can use JavaScript in the Tests section of our request to save a value that was returned from the request.
+> **[0:11](https://www.linkedin.com/learning/postman-essential-training-21969591/saving-response-data-as-a-variable?u=76281980&t=11)** We can use [[JavaScript]] in the Tests section of our request to save a value that was returned from the request.
 >
 > **[0:19](https://www.linkedin.com/learning/postman-essential-training-21969591/saving-response-data-as-a-variable?u=76281980&t=19)** In this movie, we're going to learn how to save the contactId that's returned from our Add Contact request as a variable and then we will use that variable in subsequent requests.
 >
@@ -1119,7 +1102,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/postman-essential-training-21969591/saving-response-data-as-a-variable?u=76281980&t=90)** We are going to rename this to contactId.
 >
-> **[1:34](https://www.linkedin.com/learning/postman-essential-training-21969591/saving-response-data-as-a-variable?u=76281980&t=94)** Before we set the variable value, we need to parse the response data we're going to get as JSON.
+> **[1:34](https://www.linkedin.com/learning/postman-essential-training-21969591/saving-response-data-as-a-variable?u=76281980&t=94)** Before we set the variable value, we need to parse the response data we're going to get as [[JSON]].
 >
 > **[1:41](https://www.linkedin.com/learning/postman-essential-training-21969591/saving-response-data-as-a-variable?u=76281980&t=101)** So put your cursor at the beginning of line one and then click Return.
 >
@@ -1201,7 +1184,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (4), [[JavaScript]] (2), data (2), next (1)
+> **Frameworks & Libraries:** [[JSON]] (4), [[JavaScript]] (2)
 > **Code Identifiers:** jsondata (10), contactid (8)
 > **UI Navigation:** click on (4), go to (2)
 > **Env Vars:** url (2), json (2)
@@ -1210,14 +1193,13 @@ created: 2026-05-02
 > **Cross-References:** in the next (1), go back to (1)
 > **Definitions:** is called (1), known as (1)
 
-#### Challenge: Add variables to a request
-> [LinkedIn Learning](https://www.linkedin.com/learning/postman-essential-training-21969591/challenge-add-variables-to-a-request?u=76281980)
+#### [Challenge: Add variables to a request](https://www.linkedin.com/learning/postman-essential-training-21969591/challenge-add-variables-to-a-request?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/postman-essential-training-21969591/challenge-add-variables-to-a-request?u=76281980&t=0)** (bright music)
 >
-> **[0:05](https://www.linkedin.com/learning/postman-essential-training-21969591/challenge-add-variables-to-a-request?u=76281980&t=5)** - [Instructor] In the last two movies, we learned how to create variables either by typing them directly into the environment or by setting them through JavaScript.
+> **[0:05](https://www.linkedin.com/learning/postman-essential-training-21969591/challenge-add-variables-to-a-request?u=76281980&t=5)** - [Instructor] In the last two movies, we learned how to create variables either by typing them directly into the environment or by setting them through [[JavaScript]].
 >
 > **[0:15](https://www.linkedin.com/learning/postman-essential-training-21969591/challenge-add-variables-to-a-request?u=76281980&t=15)** We also learned how to use variables by putting them in the URL or the body of a request.
 >
@@ -1248,8 +1230,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Add variables to a request
-> [LinkedIn Learning](https://www.linkedin.com/learning/postman-essential-training-21969591/solution-add-variables-to-a-request?u=76281980)
+#### [Solution: Add variables to a request](https://www.linkedin.com/learning/postman-essential-training-21969591/solution-add-variables-to-a-request?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1293,7 +1274,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Env Vars:** url (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** go to (1)
@@ -1306,8 +1286,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Status type assertions
-> [LinkedIn Learning](https://www.linkedin.com/learning/postman-essential-training-21969591/status-type-assertions?u=76281980)
+#### [Status type assertions](https://www.linkedin.com/learning/postman-essential-training-21969591/status-type-assertions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1341,7 +1320,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/postman-essential-training-21969591/status-type-assertions?u=76281980&t=87)** We'll click on it, and you can see that code has been added for us to our test window.
 >
-> **[1:33](https://www.linkedin.com/learning/postman-essential-training-21969591/status-type-assertions?u=76281980&t=93)** This is JavaScript and it is using Chai syntax to assert.
+> **[1:33](https://www.linkedin.com/learning/postman-essential-training-21969591/status-type-assertions?u=76281980&t=93)** This is [[JavaScript]] and it is using Chai syntax to assert.
 >
 > **[1:39](https://www.linkedin.com/learning/postman-essential-training-21969591/status-type-assertions?u=76281980&t=99)** We're going to click save, and now we'll click send, and we will see our test passed.
 >
@@ -1393,7 +1372,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), [[JavaScript]] (1), next (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **UI Navigation:** click on (6), scroll down (2)
 > **Definitions:** is a  (3), means that (2)
 > **CLI Commands:** find (2), make (1)
@@ -1402,8 +1381,7 @@ created: 2026-05-02
 > **Tools:** postman (1)
 > **Speakers:** - [instructor] (1)
 
-#### Body assertions
-> [LinkedIn Learning](https://www.linkedin.com/learning/postman-essential-training-21969591/body-assertions?u=76281980)
+#### [Body assertions](https://www.linkedin.com/learning/postman-essential-training-21969591/body-assertions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1495,14 +1473,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2), next (1)
 > **UI Navigation:** click on (2), select the (1), scroll down (1)
 > **CLI Commands:** find (2), make (1)
 > **Tools:** postman (1)
 > **Speakers:** - [instructor] (1)
 
-#### Header and response time assertions
-> [LinkedIn Learning](https://www.linkedin.com/learning/postman-essential-training-21969591/header-and-response-time-assertions?u=76281980)
+#### [Header and response time assertions](https://www.linkedin.com/learning/postman-essential-training-21969591/header-and-response-time-assertions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1512,7 +1488,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/postman-essential-training-21969591/header-and-response-time-assertions?u=76281980&t=11)** Response headers are information passed with an API response that includes additional information about the response, such as the format of the response or any security controls.
 >
-> **[0:24](https://www.linkedin.com/learning/postman-essential-training-21969591/header-and-response-time-assertions?u=76281980&t=24)** The assertion we'll be adding will verify that we are getting JSON back in the response and not some other content type.
+> **[0:24](https://www.linkedin.com/learning/postman-essential-training-21969591/header-and-response-time-assertions?u=76281980&t=24)** The assertion we'll be adding will verify that we are getting [[JSON]] back in the response and not some other content type.
 >
 > **[0:31](https://www.linkedin.com/learning/postman-essential-training-21969591/header-and-response-time-assertions?u=76281980&t=31)** So let's choose the Get Contact List request.
 >
@@ -1644,7 +1620,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), [[JSON]] (5), application (4), next (3), api (2)
+> **Frameworks & Libraries:** [[JSON]] (5)
 > **UI Navigation:** click on (9), go to (2), scroll down (1)
 > **Env Vars:** json (5), api (2), utf (2), xss (1)
 > **CLI Commands:** make (3)
@@ -1653,8 +1629,7 @@ created: 2026-05-02
 > **Tools:** postman (1)
 > **Definitions:** is a  (1)
 
-#### Debugging with the Postman console
-> [LinkedIn Learning](https://www.linkedin.com/learning/postman-essential-training-21969591/debugging-with-the-postman-console?u=76281980)
+#### [Debugging with the Postman console](https://www.linkedin.com/learning/postman-essential-training-21969591/debugging-with-the-postman-console?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1734,7 +1709,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Debugging]] (1), database (1)
 > **Tools:** postman (6)
 > **Env Vars:** url (3), http (2)
 > **Code Identifiers:** firstname (4)
@@ -1743,8 +1717,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [guide] (1)
 
-#### Challenge: Write assertions
-> [LinkedIn Learning](https://www.linkedin.com/learning/postman-essential-training-21969591/challenge-write-assertions?u=76281980)
+#### [Challenge: Write assertions](https://www.linkedin.com/learning/postman-essential-training-21969591/challenge-write-assertions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1769,8 +1742,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (pleasant electronic music) (1)
 
-#### Solution: Write assertions
-> [LinkedIn Learning](https://www.linkedin.com/learning/postman-essential-training-21969591/solution-write-assertions?u=76281980)
+#### [Solution: Write assertions](https://www.linkedin.com/learning/postman-essential-training-21969591/solution-write-assertions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1838,14 +1810,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### JSON assertions
-> [LinkedIn Learning](https://www.linkedin.com/learning/postman-essential-training-21969591/json-assertions?u=76281980)
+#### [JSON assertions](https://www.linkedin.com/learning/postman-essential-training-21969591/json-assertions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/postman-essential-training-21969591/json-assertions?u=76281980&t=0)** - [Instructor] In this video, we will learn how to write assertions for the JSON we receive as the response to a request.
+> **[0:00](https://www.linkedin.com/learning/postman-essential-training-21969591/json-assertions?u=76281980&t=0)** - [Instructor] In this video, we will learn how to write assertions for the [[JSON]] we receive as the response to a request.
 >
-> **[0:08](https://www.linkedin.com/learning/postman-essential-training-21969591/json-assertions?u=76281980&t=8)** JSON stands for JavaScript Object Notation.
+> **[0:08](https://www.linkedin.com/learning/postman-essential-training-21969591/json-assertions?u=76281980&t=8)** JSON stands for [[JavaScript]] Object Notation.
 >
 > **[0:12](https://www.linkedin.com/learning/postman-essential-training-21969591/json-assertions?u=76281980&t=12)** API requests and responses are often in JSON format.
 >
@@ -1927,7 +1898,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (12), data (2), [[JavaScript]] (1), api (1), next (1)
+> **Frameworks & Libraries:** [[JSON]] (12), [[JavaScript]] (1)
 > **Env Vars:** json (11), api (1)
 > **Code Identifiers:** jsondata (3), lastname (2), firstname (1)
 > **CLI Commands:** make (2), find (1)
@@ -1936,12 +1907,11 @@ created: 2026-05-02
 > **File Paths:** pm.response.json (1)
 > **Cross-References:** in the next (1)
 
-#### Nested JSON assertions
-> [LinkedIn Learning](https://www.linkedin.com/learning/postman-essential-training-21969591/nested-json-assertions?u=76281980)
+#### [Nested JSON assertions](https://www.linkedin.com/learning/postman-essential-training-21969591/nested-json-assertions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/postman-essential-training-21969591/nested-json-assertions?u=76281980&t=0)** - [Instructor] Sometimes JSON responses are returned in nested format.
+> **[0:00](https://www.linkedin.com/learning/postman-essential-training-21969591/nested-json-assertions?u=76281980&t=0)** - [Instructor] Sometimes [[JSON]] responses are returned in nested format.
 >
 > **[0:05](https://www.linkedin.com/learning/postman-essential-training-21969591/nested-json-assertions?u=76281980&t=5)** Nested JSON is JSON that has values nested inside another object.
 >
@@ -1955,7 +1925,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/postman-essential-training-21969591/nested-json-assertions?u=76281980&t=41)** The responses are hard coded in the form of examples.
 >
-> **[0:45](https://www.linkedin.com/learning/postman-essential-training-21969591/nested-json-assertions?u=76281980&t=45)** You can download the mock API from this link in GitHub.
+> **[0:45](https://www.linkedin.com/learning/postman-essential-training-21969591/nested-json-assertions?u=76281980&t=45)** You can download the mock API from this link in [[GitHub]].
 >
 > **[0:50](https://www.linkedin.com/learning/postman-essential-training-21969591/nested-json-assertions?u=76281980&t=50)** It's easiest to download the entire folder as a zip file.
 >
@@ -1977,7 +1947,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/postman-essential-training-21969591/nested-json-assertions?u=76281980&t=114)** We'll click send.
 >
-> **[1:56](https://www.linkedin.com/learning/postman-essential-training-21969591/nested-json-assertions?u=76281980&t=116)** And we can see that we get an address in response, but right now the address has come back as HTML.
+> **[1:56](https://www.linkedin.com/learning/postman-essential-training-21969591/nested-json-assertions?u=76281980&t=116)** And we can see that we get an address in response, but right now the address has come back as [[HTML]].
 >
 > **[2:03](https://www.linkedin.com/learning/postman-essential-training-21969591/nested-json-assertions?u=76281980&t=123)** We want to look at this address as JSON.
 >
@@ -2025,7 +1995,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (19), api (5), [[HTML]] (2), data (2), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[JSON]] (19), [[HTML]] (2), [[GitHub]] (1)
 > **Env Vars:** json (17), api (5), html (2)
 > **UI Navigation:** click on (4), dropdown (1), scroll down (1)
 > **Exercise Files:** download the (2), zip file (1)
@@ -2034,12 +2004,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **Tools:** github (1), postman (1)
 
-#### Asserting on complicated JSON
-> [LinkedIn Learning](https://www.linkedin.com/learning/postman-essential-training-21969591/asserting-on-complicated-json?u=76281980)
+#### [Asserting on complicated JSON](https://www.linkedin.com/learning/postman-essential-training-21969591/asserting-on-complicated-json?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/postman-essential-training-21969591/asserting-on-complicated-json?u=76281980&t=0)** - [Instructor] The JSON format is really great for sharing information because it's so expandable.
+> **[0:00](https://www.linkedin.com/learning/postman-essential-training-21969591/asserting-on-complicated-json?u=76281980&t=0)** - [Instructor] The [[JSON]] format is really great for sharing information because it's so expandable.
 >
 > **[0:05](https://www.linkedin.com/learning/postman-essential-training-21969591/asserting-on-complicated-json?u=76281980&t=5)** JSON data is made up of these components, name-value pairs, objects, and arrays.
 >
@@ -2063,7 +2032,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/postman-essential-training-21969591/asserting-on-complicated-json?u=76281980&t=63)** Now let's take a look at a more complicated API.
 >
-> **[1:07](https://www.linkedin.com/learning/postman-essential-training-21969591/asserting-on-complicated-json?u=76281980&t=67)** Our complicated mock API is called PetOwners, and you've probably already downloaded the file in the GitHub repository for this course.
+> **[1:07](https://www.linkedin.com/learning/postman-essential-training-21969591/asserting-on-complicated-json?u=76281980&t=67)** Our complicated mock API is called PetOwners, and you've probably already downloaded the file in the [[GitHub]] repository for this course.
 >
 > **[1:17](https://www.linkedin.com/learning/postman-essential-training-21969591/asserting-on-complicated-json?u=76281980&t=77)** If you have any trouble downloading the JSON file, which is right here, PetOwners.postman_collection.json, you can instead go to the text file, copy the text in the text file, save it as a new text file, and then change the .txt extension to .json.
 >
@@ -2203,7 +2172,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (13), next (5), api (4), data (2), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[JSON]] (13), [[GitHub]] (1)
 > **CLI Commands:** cat (11), find (3), make (1)
 > **Env Vars:** json (10), api (4)
 > **Definitions:** is a  (5), is an  (2), is called (1)
@@ -2212,14 +2181,13 @@ created: 2026-05-02
 > **File Paths:** petowners.postman_collection.json (2)
 > **Tools:** github (1), postman (1)
 
-#### Challenge: Complicated assertions
-> [LinkedIn Learning](https://www.linkedin.com/learning/postman-essential-training-21969591/challenge-complicated-assertions?u=76281980)
+#### [Challenge: Complicated assertions](https://www.linkedin.com/learning/postman-essential-training-21969591/challenge-complicated-assertions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/postman-essential-training-21969591/challenge-complicated-assertions?u=76281980&t=0)** (lively music)
 >
-> **[0:05](https://www.linkedin.com/learning/postman-essential-training-21969591/challenge-complicated-assertions?u=76281980&t=5)** - [Instructor] Now that you understand how to assert on complicated JSON, let's do an assertion challenge.
+> **[0:05](https://www.linkedin.com/learning/postman-essential-training-21969591/challenge-complicated-assertions?u=76281980&t=5)** - [Instructor] Now that you understand how to assert on complicated [[JSON]], let's do an assertion challenge.
 >
 > **[0:12](https://www.linkedin.com/learning/postman-essential-training-21969591/challenge-complicated-assertions?u=76281980&t=12)** We'll use the same collection we used in the previous video, the pet owner's mock collection.
 >
@@ -2251,8 +2219,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (lively music) (1)
 
-#### Solution: Complicated assertions
-> [LinkedIn Learning](https://www.linkedin.com/learning/postman-essential-training-21969591/solution-complicated-assertions?u=76281980)
+#### [Solution: Complicated assertions](https://www.linkedin.com/learning/postman-essential-training-21969591/solution-complicated-assertions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2278,7 +2245,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/postman-essential-training-21969591/solution-complicated-assertions?u=76281980&t=48)** When we run this request, the assertion passes.
 >
-> **[0:54](https://www.linkedin.com/learning/postman-essential-training-21969591/solution-complicated-assertions?u=76281980&t=54)** You will definitely encounter complicated JSON when you're working with your own APIs.
+> **[0:54](https://www.linkedin.com/learning/postman-essential-training-21969591/solution-complicated-assertions?u=76281980&t=54)** You will definitely encounter complicated [[JSON]] when you're working with your own APIs.
 >
 > **[0:59](https://www.linkedin.com/learning/postman-essential-training-21969591/solution-complicated-assertions?u=76281980&t=59)** Just remember these tips to navigate through complicated assertions.
 >
@@ -2296,7 +2263,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **CLI Commands:** cat (2)
 > **Env Vars:** json (1)
 > **Prerequisites:** you'll need (1)
@@ -2308,8 +2275,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using the Collection Runner
-> [LinkedIn Learning](https://www.linkedin.com/learning/postman-essential-training-21969591/using-the-collection-runner?u=76281980)
+#### [Using the Collection Runner](https://www.linkedin.com/learning/postman-essential-training-21969591/using-the-collection-runner?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2437,7 +2403,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), data (2), [[Automation]] (1), database (1)
 > **UI Navigation:** click on (5), select the (1), dropdown (1), go to (1)
 > **Cross-References:** go back to (3), in the last (1)
 > **Prerequisites:** setup (4)
@@ -2445,9 +2410,9 @@ created: 2026-05-02
 > **Tools:** postman (1), command line (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
+> **Warnings:** keep in mind (1)
 
-#### Exporting your collection
-> [LinkedIn Learning](https://www.linkedin.com/learning/postman-essential-training-21969591/exporting-your-collection?u=76281980)
+#### [Exporting your collection](https://www.linkedin.com/learning/postman-essential-training-21969591/exporting-your-collection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2457,7 +2422,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/postman-essential-training-21969591/exporting-your-collection?u=76281980&t=16)** And in order to do that, we need to export our collection and environment.
 >
-> **[0:21](https://www.linkedin.com/learning/postman-essential-training-21969591/exporting-your-collection?u=76281980&t=21)** We'll be exporting them as JSON files.
+> **[0:21](https://www.linkedin.com/learning/postman-essential-training-21969591/exporting-your-collection?u=76281980&t=21)** We'll be exporting them as [[JSON]] files.
 >
 > **[0:25](https://www.linkedin.com/learning/postman-essential-training-21969591/exporting-your-collection?u=76281980&t=25)** Fortunately, Postman makes it really easy to do this.
 >
@@ -2511,7 +2476,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (6), next (3), application (1)
+> **Frameworks & Libraries:** [[JSON]] (6)
 > **File Paths:** contactlist.collection.json (2), contactlist.environment.json (2)
 > **Code Identifiers:** contactlist (4)
 > **UI Navigation:** click on (3), go to (1)
@@ -2520,8 +2485,7 @@ created: 2026-05-02
 > **Env Vars:** json (2)
 > **Cross-References:** previous video (1), in the next (1)
 
-#### Running your collection with Newman
-> [LinkedIn Learning](https://www.linkedin.com/learning/postman-essential-training-21969591/running-your-collection-with-newman?u=76281980)
+#### [Running your collection with Newman](https://www.linkedin.com/learning/postman-essential-training-21969591/running-your-collection-with-newman?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2545,7 +2509,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/postman-essential-training-21969591/running-your-collection-with-newman?u=76281980&t=54)** Next, we will create our Newman command.
 >
-> **[0:57](https://www.linkedin.com/learning/postman-essential-training-21969591/running-your-collection-with-newman?u=76281980&t=57)** First we will type Newman Run, then the name of our collection, contact list dot collection dot JSON.
+> **[0:57](https://www.linkedin.com/learning/postman-essential-training-21969591/running-your-collection-with-newman?u=76281980&t=57)** First we will type Newman Run, then the name of our collection, contact list dot collection dot [[JSON]].
 >
 > **[1:11](https://www.linkedin.com/learning/postman-essential-training-21969591/running-your-collection-with-newman?u=76281980&t=71)** Then we'll use a dash and an E.
 >
@@ -2593,7 +2557,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[JSON]] (2), cd (1)
+> **Frameworks & Libraries:** [[JSON]] (2)
 > **Env Vars:** json (2), cicd (1)
 > **Tools:** command line (2), postman (1)
 > **Cross-References:** go back to (1), coming up (1)
@@ -2607,8 +2571,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing with API testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/postman-essential-training-21969591/continuing-with-api-testing?u=76281980)
+#### [Continuing with API testing](https://www.linkedin.com/learning/postman-essential-training-21969591/continuing-with-api-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2620,23 +2583,23 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/postman-essential-training-21969591/continuing-with-api-testing?u=76281980&t=17)** You can continue to use the Contact List API to practice writing different kinds of assertions.
 >
-> **[0:23](https://www.linkedin.com/learning/postman-essential-training-21969591/continuing-with-api-testing?u=76281980&t=23)** You can use the Pet Owners mock API to practice navigating through JSON.
+> **[0:23](https://www.linkedin.com/learning/postman-essential-training-21969591/continuing-with-api-testing?u=76281980&t=23)** You can use the Pet Owners mock API to practice navigating through [[JSON]].
 >
 > **[0:28](https://www.linkedin.com/learning/postman-essential-training-21969591/continuing-with-api-testing?u=76281980&t=28)** You can practice with other public APIs, such as the Swagger Petstore and the Poke API.
 >
 > **[0:36](https://www.linkedin.com/learning/postman-essential-training-21969591/continuing-with-api-testing?u=76281980&t=36)** You can also start applying what you've learned about APIs at your own workplace by integrating your Postman tests into your workplace's CI/CD platform.
 >
-> **[0:46](https://www.linkedin.com/learning/postman-essential-training-21969591/continuing-with-api-testing?u=76281980&t=46)** Here are some links to documentation for setting up Newman to run with the most common CI/CD tools, Jenkins, GitLab, Travis CI and Circle CI.
+> **[0:46](https://www.linkedin.com/learning/postman-essential-training-21969591/continuing-with-api-testing?u=76281980&t=46)** Here are some links to documentation for setting up Newman to run with the most common CI/CD tools, [[Jenkins]], GitLab, Travis CI and Circle CI.
 >
-> **[0:59](https://www.linkedin.com/learning/postman-essential-training-21969591/continuing-with-api-testing?u=76281980&t=59)** Postman also recently created a CLI tool, which offers more security when running automated tests.
+> **[0:59](https://www.linkedin.com/learning/postman-essential-training-21969591/continuing-with-api-testing?u=76281980&t=59)** Postman also recently created a [[CLI]] tool, which offers more security when running automated tests.
 >
 > **[1:05](https://www.linkedin.com/learning/postman-essential-training-21969591/continuing-with-api-testing?u=76281980&t=65)** You can read more about the tool here.
 >
 > **[1:08](https://www.linkedin.com/learning/postman-essential-training-21969591/continuing-with-api-testing?u=76281980&t=68)** And if you enjoyed this course, you will probably enjoy my book, "The Complete Software Tester," which is available on Amazon.
 >
-> **[1:17](https://www.linkedin.com/learning/postman-essential-training-21969591/continuing-with-api-testing?u=76281980&t=77)** This book has an entire section on API testing, as well as chapters on jots, response codes, how to organize your API tests, and how to decide which API tests to automate.
+> **[1:17](https://www.linkedin.com/learning/postman-essential-training-21969591/continuing-with-api-testing?u=76281980&t=77)** This book has an entire section on [[API Testing]], as well as chapters on jots, response codes, how to organize your API tests, and how to decide which API tests to automate.
 >
-> **[1:30](https://www.linkedin.com/learning/postman-essential-training-21969591/continuing-with-api-testing?u=76281980&t=90)** The links mentioned on all these slides can be found in the course links file in the GitHub repository for the course.
+> **[1:30](https://www.linkedin.com/learning/postman-essential-training-21969591/continuing-with-api-testing?u=76281980&t=90)** The links mentioned on all these slides can be found in the course links file in the [[GitHub]] repository for the course.
 >
 > **[1:36](https://www.linkedin.com/learning/postman-essential-training-21969591/continuing-with-api-testing?u=76281980&t=96)** The name of the file is Postman Essential Training Course Links.
 >
@@ -2648,7 +2611,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (9), ci (4), cd (2), next (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[API Testing]] (3), [[JSON]] (1), [[Jenkins]] (1), [[CLI]] (1), [[GitHub]] (1)
 > **Env Vars:** api (9), json (1), cli (1)
 > **Tools:** postman (6), command line (1), gitlab (1), github (1)
 > **CLI Commands:** cd (2)

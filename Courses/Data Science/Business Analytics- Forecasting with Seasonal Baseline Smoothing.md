@@ -68,8 +68,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why seasonal baseline smoothing will help your regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/why-seasonal-baseline-smoothing-will-help-your-regression?u=76281980)
+#### [Why seasonal baseline smoothing will help your regression](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/why-seasonal-baseline-smoothing-will-help-your-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -87,24 +86,23 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/why-seasonal-baseline-smoothing-will-help-your-regression?u=76281980&t=34)** This course is designed to help you identify seasonality in your datasets and use it to enhance your forecasts.
 >
-> **[0:42](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/why-seasonal-baseline-smoothing-will-help-your-regression?u=76281980&t=42)** I'll be using two applications to do so, Microsoft Excel, which is a great platform for seeing what's going on in an analysis, and R, which enables you to structure a complex analysis with just a few commands.
+> **[0:42](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/why-seasonal-baseline-smoothing-will-help-your-regression?u=76281980&t=42)** I'll be using two applications to do so, [[Microsoft Excel]], which is a great platform for seeing what's going on in an analysis, and R, which enables you to structure a complex analysis with just a few commands.
 >
 > **[0:56](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/why-seasonal-baseline-smoothing-will-help-your-regression?u=76281980&t=56)** Let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), traffic (1), [[Microsoft Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [conrad] (1)
 
-#### Software setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/software-setup?u=76281980)
+#### [Software setup](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/software-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/software-setup?u=76281980&t=1)** - [Instructor] One of the applications used in this course is R, so I want to show you how to download and install it.
 >
-> **[0:07](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/software-setup?u=76281980&t=7)** I'm going to download the version 3.4.0 for Windows, in part because I'm using a Windows machine, and if you're using a Mac, you'll probably wanna look through R's FAQs for the Macintosh.
+> **[0:07](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/software-setup?u=76281980&t=7)** I'm going to download the version 3.4.0 for [[Windows]], in part because I'm using a Windows machine, and if you're using a Mac, you'll probably wanna look through R's FAQs for the Macintosh.
 >
 > **[0:21](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/software-setup?u=76281980&t=21)** We are using version 3.4.0 rather than the most recent version of R because there is some issues involved with one of the packages that we want to use.
 >
@@ -150,7 +148,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (3), [[Security]] (1)
+> **Frameworks & Libraries:** [[Windows]] (3)
 > **Prerequisites:** install (5), set up (1)
 > **Versions:** version 3 (2), 4.0 (2), 3.4.0 (1)
 > **UI Navigation:** click on (2), scroll down (1)
@@ -164,8 +162,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Seasonality in a baseline
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/seasonality-in-a-baseline?u=76281980)
+#### [Seasonality in a baseline](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/seasonality-in-a-baseline?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -209,17 +206,17 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/seasonality-in-a-baseline?u=76281980&t=125)** When a baseline has a seasonal pattern we can take advantage of it in our forecasts.
 >
-> **[2:10](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/seasonality-in-a-baseline?u=76281980&t=130)** For example, if we see an annual spike in home sales during the spring months in each of the past 10 years, we wouldn't want to ignore that pattern in forecasting home sales during the next year's spring quarter.
+> **[2:10](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/seasonality-in-a-baseline?u=76281980&t=130)** For example, if we see an annual spike in home sales during the spring months in each of the past 10 years, we wouldn't want to ignore that pattern in [[Forecasting]] home sales during the next year's spring quarter.
 >
 > **[2:23](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/seasonality-in-a-baseline?u=76281980&t=143)** There are various ways available to account for the seasonality.
 >
-> **[2:27](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/seasonality-in-a-baseline?u=76281980&t=147)** Using linear regression is typical to create dummy variables that uniquely identify particular seasons.
+> **[2:27](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/seasonality-in-a-baseline?u=76281980&t=147)** Using [[Linear Regression]] is typical to create dummy variables that uniquely identify particular seasons.
 >
 > **[2:36](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/seasonality-in-a-baseline?u=76281980&t=156)** Another approach involves calculating the deviation of each season from the baseline's longterm average, and using those deviations to forecast each season.
 >
 > **[2:46](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/seasonality-in-a-baseline?u=76281980&t=166)** This course focuses on the use something called a "seasonal smoothing constant".
 >
-> **[2:52](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/seasonality-in-a-baseline?u=76281980&t=172)** If you have viewed the course on simple expediential smoothing, or the second course in this series on smoothing trended baselines, you've seen that it can be useful to name the cells in the Excel worksheet that contain the smoothing constants.
+> **[2:52](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/seasonality-in-a-baseline?u=76281980&t=172)** If you have viewed the course on simple expediential smoothing, or the second course in this series on smoothing trended baselines, you've seen that it can be useful to name the cells in the [[Microsoft Excel|Excel]] worksheet that contain the smoothing constants.
 >
 > **[3:05](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/seasonality-in-a-baseline?u=76281980&t=185)** I'm going to extend the concept in this course so that includes not only the smoothing constants but also identifies seasons by means of relative cell references.
 >
@@ -235,21 +232,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), bi (2), data (1), [[Forecasting]] (1), [[Linear Regression]] (1)
+> **Frameworks & Libraries:** [[Forecasting]] (1), [[Linear Regression]] (1), [[Microsoft Excel|Excel]] (1)
 > **Analogies:** for example (4)
 > **Env Vars:** dwi (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Defined names and relative references
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/defined-names-and-relative-references?u=76281980)
+#### [Defined names and relative references](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/defined-names-and-relative-references?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/defined-names-and-relative-references?u=76281980&t=1)** - [Instructor] I'm in exercise file 01_02_Begin in the using beta as a cell name worksheet.
 >
-> **[0:09](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/defined-names-and-relative-references?u=76281980&t=9)** Excel has a feature that makes your work go a lot quicker, helps to avoid careless errors, and makes the documentation of a worksheet much easier.
+> **[0:09](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/defined-names-and-relative-references?u=76281980&t=9)** [[Microsoft Excel|Excel]] has a feature that makes your work go a lot quicker, helps to avoid careless errors, and makes the documentation of a worksheet much easier.
 >
 > **[0:18](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/defined-names-and-relative-references?u=76281980&t=18)** That feature is defined names.
 >
@@ -287,7 +283,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/defined-names-and-relative-references?u=76281980&t=104)** Find the defined names group and click define name.
 >
-> **[1:49](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/defined-names-and-relative-references?u=76281980&t=109)** Enter FirstCell as one word in the name box.
+> **[1:49](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/defined-names-and-relative-references?u=76281980&t=109)** Enter FirstCell as one [[Microsoft Word|word]] in the name box.
 >
 > **[1:53](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/defined-names-and-relative-references?u=76281980&t=113)** In the scope dropdown, choose absolute references as the name of the worksheet that you want to limit the scope to.
 >
@@ -347,7 +343,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), feature (2), next (1), [[Microsoft Word|Word]] (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Microsoft Word|Word]] (1)
 > **Definitions:** refers to (3), stands for (1)
 > **UI Navigation:** select the (1), dropdown (1), switch to (1)
 > **CLI Commands:** make (1), find (1)
@@ -356,8 +352,7 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Exercise Files:** exercise file (1)
 
-#### Diagnosing seasonality
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/diagnosing-seasonality?u=76281980)
+#### [Diagnosing seasonality](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/diagnosing-seasonality?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -367,7 +362,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/diagnosing-seasonality?u=76281980&t=12)** I'm in the worksheet called Baseline.
 >
-> **[0:15](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/diagnosing-seasonality?u=76281980&t=15)** In the course of working on a forecasting project, you're often confronted with a decision regarding a baseline.
+> **[0:15](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/diagnosing-seasonality?u=76281980&t=15)** In the course of working on a [[Forecasting]] project, you're often confronted with a decision regarding a baseline.
 >
 > **[0:22](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/diagnosing-seasonality?u=76281980&t=22)** When you chart it, the baseline might display seasonal components, but then again, it might be just an optical illusion.
 >
@@ -413,7 +408,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/diagnosing-seasonality?u=76281980&t=141)** Click the okay button.
 >
-> **[2:24](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/diagnosing-seasonality?u=76281980&t=144)** Excel takes over and will create two correlograms for you.
+> **[2:24](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/diagnosing-seasonality?u=76281980&t=144)** [[Microsoft Excel|Excel]] takes over and will create two correlograms for you.
 >
 > **[2:28](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/diagnosing-seasonality?u=76281980&t=148)** One shows the autocorrelation function at different lags, abbreviated ACFs, and the other shows partial autocorrelation functions at different lags, labeled PACFs.
 >
@@ -441,9 +436,9 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/diagnosing-seasonality?u=76281980&t=243)** Some, including the Croskill Wallace test, are nonparametric and do not make assumptions regarding the shape of underlying distributions.
 >
-> **[4:11](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/diagnosing-seasonality?u=76281980&t=251)** Some are parametric, such as linear regression tests, of the size of the seasonal indexes.
+> **[4:11](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/diagnosing-seasonality?u=76281980&t=251)** Some are parametric, such as [[Linear Regression]] tests, of the size of the seasonal indexes.
 >
-> **[4:18](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/diagnosing-seasonality?u=76281980&t=258)** Nonparametric statistics avoid making assumptions that can turn out wrong, but they are relatively low on statistical power.
+> **[4:18](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/diagnosing-seasonality?u=76281980&t=258)** Nonparametric [[Statistics]] avoid making assumptions that can turn out wrong, but they are relatively low on statistical power.
 >
 > **[4:26](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/diagnosing-seasonality?u=76281980&t=266)** Parametric statistics, such as the t-tests employed in regression analysis, have more statistical power, but much of that strength comes from the use of assumptions which might be off base.
 >
@@ -457,7 +452,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (3), power (3), next (1), [[Forecasting]] (1), data (1)
+> **Frameworks & Libraries:** [[Statistics]] (3), [[Forecasting]] (1), [[Microsoft Excel|Excel]] (1), [[Linear Regression]] (1)
 > **Env Vars:** acf (3), d21 (1)
 > **Exercise Files:** exercise file (3), exercise files (1)
 > **CLI Commands:** find (1), make (1)
@@ -466,8 +461,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Simple seasonal indexes
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/simple-seasonal-indexes?u=76281980)
+#### [Simple seasonal indexes](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/simple-seasonal-indexes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -503,7 +497,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/simple-seasonal-indexes?u=76281980&t=119)** Notice, by the way, that because of the way that the seasonal effects are defined, they sum to zero for any given year.
 >
-> **[2:07](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/simple-seasonal-indexes?u=76281980&t=127)** Each season usually has a different effect on whatever you're forecasting.
+> **[2:07](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/simple-seasonal-indexes?u=76281980&t=127)** Each season usually has a different effect on whatever you're [[Forecasting]].
 >
 > **[2:11](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/simple-seasonal-indexes?u=76281980&t=131)** Sales dollars, daily high temperatures, or number of traffic accidents.
 >
@@ -535,20 +529,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forecasting]] (1), traffic (1), next (1)
+> **Frameworks & Libraries:** [[Forecasting]] (1)
 > **Versions:** 8170.8 (1), 220.8 (1)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Seasonal smoothing and horizontal baselines
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/seasonal-smoothing-and-horizontal-baselines?u=76281980)
+#### [Seasonal smoothing and horizontal baselines](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/seasonal-smoothing-and-horizontal-baselines?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/seasonal-smoothing-and-horizontal-baselines?u=76281980&t=1)** - [Instructor] I'm in exercise file 01_05_Begin on the worksheet named Initialize the Level.
 >
-> **[0:08](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/seasonal-smoothing-and-horizontal-baselines?u=76281980&t=8)** Now that we have the baseline's level initialized along with its seasonal effects, we can start the process of forecasting, the first step in that process is to define a range name that uses a mixed reference.
+> **[0:08](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/seasonal-smoothing-and-horizontal-baselines?u=76281980&t=8)** Now that we have the baseline's level initialized along with its seasonal effects, we can start the process of [[Forecasting]], the first step in that process is to define a range name that uses a mixed reference.
 >
 > **[0:21](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/seasonal-smoothing-and-horizontal-baselines?u=76281980&t=21)** That is in this case, an absolute reference to a column and a relative reference to a row.
 >
@@ -590,7 +583,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/seasonal-smoothing-and-horizontal-baselines?u=76281980&t=189)** We multiply that difference by Alpha, then we complete the smoothing formula for the baseline's level just as we have in the past by multiplying one minus Alpha by the prior period's level which is in cell H7.
 >
-> **[3:23](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/seasonal-smoothing-and-horizontal-baselines?u=76281980&t=203)** Adding together the two products, one involving Alpha and the other involving one minus Alpha results in the current estimate of the baseline level.
+> **[3:23](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/seasonal-smoothing-and-horizontal-baselines?u=76281980&t=203)** Adding together the two [[Microsoft Products|products]], one involving Alpha and the other involving one minus Alpha results in the current estimate of the baseline level.
 >
 > **[3:32](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/seasonal-smoothing-and-horizontal-baselines?u=76281980&t=212)** What about the current estimate of the seasonal effect?
 >
@@ -634,7 +627,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Microsoft Products|Products]] (2), [[Forecasting]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Forecasting]] (1)
 > **Env Vars:** h16 (1), j16 (1), k16 (1)
 > **UI Navigation:** dropdown (1), select the (1)
 > **Cross-References:** in the next (1)
@@ -648,8 +641,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Minimizing RMSE
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/minimizing-rmse?u=76281980)
+#### [Minimizing RMSE](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/minimizing-rmse?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -713,7 +705,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/minimizing-rmse?u=76281980&t=197)** Here though I wanted to square each of the error values before averaging those squares and taking the square root of the result.
 >
-> **[3:25](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/minimizing-rmse?u=76281980&t=205)** In Excel the way to do that is to use what's called an array formula.
+> **[3:25](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/minimizing-rmse?u=76281980&t=205)** In [[Microsoft Excel|Excel]] the way to do that is to use what's called an array formula.
 >
 > **[3:30](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/minimizing-rmse?u=76281980&t=210)** After you've typed the formula instead of just pressing Enter you'll hold down the Control and Shift keys simultaneously and press Enter.
 >
@@ -797,7 +789,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft Excel|Excel]] (5), next (3), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5)
 > **Env Vars:** rmse (5), f16 (2), grg (2), e17 (1), d16 (1)
 > **CLI Commands:** find (3), make (3)
 > **UI Navigation:** checkbox (3)
@@ -806,20 +798,19 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### The Excel Forecast Sheet
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/the-excel-forecast-sheet?u=76281980)
+#### [The Excel Forecast Sheet](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/the-excel-forecast-sheet?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/the-excel-forecast-sheet?u=76281980&t=0)** - [Instructor] I'm in exercise file 02_02_Begin in the sheet named Data Forecast Sheet.
 >
-> **[0:08](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/the-excel-forecast-sheet?u=76281980&t=8)** If you have used Microsoft Excel 2016, you might have noticed a new feature on the ribbon's Data tab called Forecast Sheet.
+> **[0:08](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/the-excel-forecast-sheet?u=76281980&t=8)** If you have used [[Microsoft Excel]] 2016, you might have noticed a new feature on the ribbon's Data tab called Forecast Sheet.
 >
-> **[0:16](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/the-excel-forecast-sheet?u=76281980&t=16)** The available documentation for the forecast sheet does not specify how the forecasts are created, but the names of the functions and some of the vocabulary used in the documentation indicates that the intent is to duplicate the approaches that are usually termed simple exponential smoothing, Holt's method for forecasting trended baselines, and and Holt winters or seasonal smoothing, as discussed in the present course.
+> **[0:16](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/the-excel-forecast-sheet?u=76281980&t=16)** The available documentation for the forecast sheet does not specify how the forecasts are created, but the names of the functions and some of the vocabulary used in the documentation indicates that the intent is to duplicate the approaches that are usually termed simple exponential smoothing, Holt's method for [[Forecasting]] trended baselines, and and Holt winters or seasonal smoothing, as discussed in the present course.
 >
 > **[0:42](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/the-excel-forecast-sheet?u=76281980&t=42)** Here's a brief look at how to use the forecast sheet.
 >
-> **[0:45](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/the-excel-forecast-sheet?u=76281980&t=45)** I'll use this data which comes from a generally accessible website so that you can duplicate the analysis if you wish to do so using Excel formulas or the Excel forecast sheet or R.
+> **[0:45](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/the-excel-forecast-sheet?u=76281980&t=45)** I'll use this data which comes from a generally accessible website so that you can duplicate the analysis if you wish to do so using [[Microsoft Excel|Excel]] formulas or the Excel forecast sheet or R.
 >
 > **[0:57](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/the-excel-forecast-sheet?u=76281980&t=57)** To use the forecast sheet, put time period identifiers in one column, such as column A here.
 >
@@ -839,7 +830,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/the-excel-forecast-sheet?u=76281980&t=102)** Particularly if there is a trend in your baseline, adjusting the starting point can make a substantial difference to the forecast values.
 >
-> **[1:51](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/the-excel-forecast-sheet?u=76281980&t=111)** I also recommend that you fill the Include forecast statistics check box.
+> **[1:51](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/the-excel-forecast-sheet?u=76281980&t=111)** I also recommend that you fill the Include forecast [[Statistics]] check box.
 >
 > **[1:56](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/the-excel-forecast-sheet?u=76281980&t=116)** Doing so will provide you with additional information about the forecast.
 >
@@ -869,7 +860,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (6), [[Microsoft Excel]] (1), feature (1), [[Forecasting]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), [[Microsoft Excel]] (1), [[Forecasting]] (1), [[Statistics]] (1)
 > **Env Vars:** rmse (1), mase (1), smape (1), mae (1)
 > **Definitions:** is a  (2), in other words (1)
 > **CLI Commands:** make (1)
@@ -878,8 +869,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise file (1)
 > **Analogies:** such as (1)
 
-#### Prepare to make a seasonal forecast in R
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/prepare-to-make-a-seasonal-forecast-in-r?u=76281980)
+#### [Prepare to make a seasonal forecast in R](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/prepare-to-make-a-seasonal-forecast-in-r?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -891,7 +881,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/prepare-to-make-a-seasonal-forecast-in-r?u=76281980&t=22)** You might want to make a note of those because we're about to run the same analysis on the same data set using R.
 >
-> **[0:30](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/prepare-to-make-a-seasonal-forecast-in-r?u=76281980&t=30)** So we'll be in a position to compare the results that Excel returns with the results that are returned by R.
+> **[0:30](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/prepare-to-make-a-seasonal-forecast-in-r?u=76281980&t=30)** So we'll be in a position to compare the results that [[Microsoft Excel|Excel]] returns with the results that are returned by R.
 >
 > **[0:38](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/prepare-to-make-a-seasonal-forecast-in-r?u=76281980&t=38)** We're gonna start out by highlighting or selecting the baseline data because we'll be pulling that data into R using the desk tools that function in R but with that highlighted, now we can start R and we'll need to pull in a couple of packages in order to complete the analysis.
 >
@@ -991,7 +981,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Microsoft Excel|Excel]] (10), hit (2), next (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (10)
 > **Definitions:** stands for (3), is a  (1), in other words (1)
 > **Versions:** 11.4559 (1), 14.7 (1), 11.45 (1)
 > **CLI Commands:** make (1), find (1)
@@ -1003,14 +993,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/next-steps?u=76281980&t=1)** - [Conrad] There are plenty of features used by different smoothing models that this course hasn't had enough time to explore even briefly, let alone in depth.
 >
-> **[0:09](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/next-steps?u=76281980&t=9)** If you intend to look further into smoothing as an approach to forecasting, I urge you to examine a model not only from the point of view of the summary statistics provided by functions in R, but also the period to period details that show most clearly in an Excel worksheet.
+> **[0:09](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/next-steps?u=76281980&t=9)** If you intend to look further into smoothing as an approach to [[Forecasting]], I urge you to examine a model not only from the point of view of the summary [[Statistics]] provided by functions in R, but also the period to period details that show most clearly in an [[Microsoft Excel|Excel]] worksheet.
 >
 > **[0:26](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/next-steps?u=76281980&t=26)** There are so many choices involved in specifying a smoothing model that it can be very difficult to distinguish a change in the nature of the baseline from an apparently minor change in the way a model is specified.
 >

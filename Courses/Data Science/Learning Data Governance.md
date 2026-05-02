@@ -91,20 +91,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data governance affects everyone
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-affects-everyone?u=76281980)
+#### [Data governance affects everyone](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-affects-everyone?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-affects-everyone?u=76281980&t=0)** - Done right, data governance has the ability to help all types of organizations and individuals become more successful.
+> **[0:00](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-affects-everyone?u=76281980&t=0)** - Done right, [[Data Governance]] has the ability to help all types of organizations and individuals become more successful.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-affects-everyone?u=76281980&t=9)** As data science grows in the importance in the 21st century, so do a whole range of related frameworks and skills.
+> **[0:09](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-affects-everyone?u=76281980&t=9)** As [[Data Science]] grows in the importance in the 21st century, so do a whole range of related frameworks and skills.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-affects-everyone?u=76281980&t=17)** In this fast-paced yet comprehensive course, I'll introduce the topic of data governance in terms that everyone can understand.
 >
 > **[0:26](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-affects-everyone?u=76281980&t=26)** I'll help you discover why your organization may benefit from data governance, how it is implemented, and why it is essential in compliance and risk reduction efforts.
 >
-> **[0:37](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-affects-everyone?u=76281980&t=37)** The role of data governance in emerging technology areas, such as knowledge graphs, artificial intelligence, and the Internet of Things will also be addressed.
+> **[0:37](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-affects-everyone?u=76281980&t=37)** The role of data governance in emerging technology areas, such as [[Knowledge Graphs]], [[Artificial Intelligence (AI)|artificial intelligence]], and the [[IoT|Internet of Things]] will also be addressed.
 >
 > **[0:47](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-affects-everyone?u=76281980&t=47)** I'll discuss many of the different roles and responsibilities found in the field of data governance.
 >
@@ -114,13 +113,13 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-affects-everyone?u=76281980&t=67)** Welcome to my course on learning data governance.
 >
-> **[1:11](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-affects-everyone?u=76281980&t=71)** If you have a desire to understand why data governance is an essential part of helping every organization succeed, and you want to build valuable, new, in demand skills for the 21st century, then I invite you to join me on this LinkedIn Learning course.
+> **[1:11](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-affects-everyone?u=76281980&t=71)** If you have a desire to understand why data governance is an essential part of helping every organization succeed, and you want to build valuable, new, in demand skills for the 21st century, then I invite you to join me on this [[LinkedIn]] Learning course.
 >
 > **[1:28](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-affects-everyone?u=76281980&t=88)** Come on, let's learn together, build new skills, and make a difference in the world.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Knowledge Graphs]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Internet of Things (IoT)|Internet of things]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Data Governance]] (8), [[Data Science]] (1), [[Knowledge Graphs]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[IoT|Internet of things]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
@@ -131,8 +130,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The role of data in the 21st century
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-data-in-the-21st-century?u=76281980)
+#### [The role of data in the 21st century](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-data-in-the-21st-century?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -152,11 +150,11 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-data-in-the-21st-century?u=76281980&t=37)** A more practical example is the data being produced by devices connected to the internet.
 >
-> **[0:43](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-data-in-the-21st-century?u=76281980&t=43)** Consider all the billions of internet of things or IOT devices such as sensors on factory machines and on street lights to detect air quality.
+> **[0:43](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-data-in-the-21st-century?u=76281980&t=43)** Consider all the billions of [[IoT|internet of things]] or [[IoT]] devices such as sensors on factory machines and on street lights to detect air quality.
 >
 > **[0:55](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-data-in-the-21st-century?u=76281980&t=55)** In 2020, these IOT devices produced 4.4 zettabytes of data.
 >
-> **[1:02](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-data-in-the-21st-century?u=76281980&t=62)** Zettabyte wasn't even a word that most people had heard of just a few years ago.
+> **[1:02](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-data-in-the-21st-century?u=76281980&t=62)** Zettabyte wasn't even a [[Microsoft Word|word]] that most people had heard of just a few years ago.
 >
 > **[1:07](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-data-in-the-21st-century?u=76281980&t=67)** It's 1,000 exabytes or a thousand thousand petabytes if that's more helpful.
 >
@@ -164,7 +162,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-data-in-the-21st-century?u=76281980&t=83)** Today, data is being created in volume, at high velocity, and with variety.
 >
-> **[1:30](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-data-in-the-21st-century?u=76281980&t=90)** These are the three Vs of what we now call big data.
+> **[1:30](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-data-in-the-21st-century?u=76281980&t=90)** These are the three Vs of what we now call [[Big Data]].
 >
 > **[1:35](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-data-in-the-21st-century?u=76281980&t=95)** Data alone might not be that exciting, but what it can enable and the answers it can provide are important.
 >
@@ -198,25 +196,24 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-data-in-the-21st-century?u=76281980&t=231)** All of the benefits of data cannot be realized if data is poor quality and it's not managed.
 >
-> **[3:58](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-data-in-the-21st-century?u=76281980&t=238)** These are just two of the principle reasons why we need data governance.
+> **[3:58](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-data-in-the-21st-century?u=76281980&t=238)** These are just two of the principle reasons why we need [[Data Governance]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[IoT]] (3), [[Big Data]] (2), [[Internet of Things (IoT)|Internet of things]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[IoT]] (3), [[Big Data]] (2), [[IoT|Internet of things]] (1), [[Microsoft Word|Word]] (1), [[Data Governance]] (1)
 > **Env Vars:** iot (3)
 > **Analogies:** such as (1), imagine (1), for example (1)
 > **CLI Commands:** make (1)
 > **Versions:** 4.4 (1)
 > **Speakers:** - let (1)
 
-#### Why do we need data governance?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-governance-14224082/why-do-we-need-data-governance?u=76281980)
+#### [Why do we need data governance?](https://www.linkedin.com/learning/learning-data-governance-14224082/why-do-we-need-data-governance?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-data-governance-14224082/why-do-we-need-data-governance?u=76281980&t=0)** - Look, let's get right to the point.
 >
-> **[0:03](https://www.linkedin.com/learning/learning-data-governance-14224082/why-do-we-need-data-governance?u=76281980&t=3)** Why do we even need data governance?
+> **[0:03](https://www.linkedin.com/learning/learning-data-governance-14224082/why-do-we-need-data-governance?u=76281980&t=3)** Why do we even need [[Data Governance]]?
 >
 > **[0:06](https://www.linkedin.com/learning/learning-data-governance-14224082/why-do-we-need-data-governance?u=76281980&t=6)** We've been managing data on computer systems since way back in the 20th century.
 >
@@ -244,23 +241,23 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/learning-data-governance-14224082/why-do-we-need-data-governance?u=76281980&t=76)** When there's digital tech, there's data.
 >
-> **[1:19](https://www.linkedin.com/learning/learning-data-governance-14224082/why-do-we-need-data-governance?u=76281980&t=79)** Second, with billions of users connected and many more billions of devices, such as IoT, online, all these connections are doing one or more of creating, collecting, storing, and broadcasting data.
+> **[1:19](https://www.linkedin.com/learning/learning-data-governance-14224082/why-do-we-need-data-governance?u=76281980&t=79)** Second, with billions of users connected and many more billions of devices, such as [[IoT]], online, all these connections are doing one or more of creating, collecting, storing, and broadcasting data.
 >
 > **[1:35](https://www.linkedin.com/learning/learning-data-governance-14224082/why-do-we-need-data-governance?u=76281980&t=95)** Third, the management of data has become an actual science.
 >
-> **[1:39](https://www.linkedin.com/learning/learning-data-governance-14224082/why-do-we-need-data-governance?u=76281980&t=99)** Today there's a wide range of data science professions and supporting educational programs.
+> **[1:39](https://www.linkedin.com/learning/learning-data-governance-14224082/why-do-we-need-data-governance?u=76281980&t=99)** Today there's a wide range of [[Data Science]] professions and supporting educational programs.
 >
 > **[1:45](https://www.linkedin.com/learning/learning-data-governance-14224082/why-do-we-need-data-governance?u=76281980&t=105)** Software for supporting these professions has exploded in recent years, including incredible solutions for analytics, visualization, and more.
 >
-> **[1:56](https://www.linkedin.com/learning/learning-data-governance-14224082/why-do-we-need-data-governance?u=76281980&t=116)** Increasingly, these are being powered by artificial intelligence.
+> **[1:56](https://www.linkedin.com/learning/learning-data-governance-14224082/why-do-we-need-data-governance?u=76281980&t=116)** Increasingly, these are being powered by [[Artificial Intelligence (AI)|artificial intelligence]].
 >
-> **[2:01](https://www.linkedin.com/learning/learning-data-governance-14224082/why-do-we-need-data-governance?u=76281980&t=121)** Finally, mature data management is now recognized as not only a necessary function of an organization to ensure data quality and integrity, but a rich source of potential competitive advantage.
+> **[2:01](https://www.linkedin.com/learning/learning-data-governance-14224082/why-do-we-need-data-governance?u=76281980&t=121)** Finally, mature [[Data Management]] is now recognized as not only a necessary function of an organization to ensure [[Data Quality]] and integrity, but a rich source of potential competitive advantage.
 >
 > **[2:15](https://www.linkedin.com/learning/learning-data-governance-14224082/why-do-we-need-data-governance?u=76281980&t=135)** Done right, data can enhance and lower the cost of routine operations and it can be used to understand and win customers and market share.
 >
 > **[2:25](https://www.linkedin.com/learning/learning-data-governance-14224082/why-do-we-need-data-governance?u=76281980&t=145)** In the absence of this quality data governance, an organization will never fully realize the potential of data, and in fact, may subject itself to increasing levels of risk over time.
 >
-> **[2:39](https://www.linkedin.com/learning/learning-data-governance-14224082/why-do-we-need-data-governance?u=76281980&t=159)** These risks include inadvertently using bad data, experiencing privacy challenges, creating regulatory and compliance issues, and suffering from the consequences of weak cybersecurity.
+> **[2:39](https://www.linkedin.com/learning/learning-data-governance-14224082/why-do-we-need-data-governance?u=76281980&t=159)** These risks include inadvertently using bad data, experiencing [[Privacy]] challenges, creating regulatory and compliance issues, and suffering from the consequences of weak [[Cybersecurity]].
 >
 > **[2:55](https://www.linkedin.com/learning/learning-data-governance-14224082/why-do-we-need-data-governance?u=76281980&t=175)** The demand for high quality data governance and its promise is quickly making it a core function of more and more organizations.
 >
@@ -268,14 +265,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), management (3), business (2), teams (1), [[IoT]] (1)
+> **Frameworks & Libraries:** [[Data Governance]] (6), [[IoT]] (1), [[Data Science]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Data Management]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - look (1)
 
-#### Data governance definition and basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-definition-and-basics?u=76281980)
+#### [Data governance definition and basics](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-definition-and-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -283,11 +279,11 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-definition-and-basics?u=76281980&t=2)** Data is essential to the lifeblood of organizations.
 >
-> **[0:06](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-definition-and-basics?u=76281980&t=6)** For example, near real time sales data is vital to a business, including who is buying products and services when they buy them, how often and where without this data, an organization is blind to market behavior.
+> **[0:06](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-definition-and-basics?u=76281980&t=6)** For example, near real time sales data is vital to a business, including who is buying [[Microsoft Products|products]] and services when they buy them, how often and where without this data, an organization is blind to market behavior.
 >
 > **[0:23](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-definition-and-basics?u=76281980&t=23)** Healthcare organizations need detailed data on patients' health outcomes and costs.
 >
-> **[0:29](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-definition-and-basics?u=76281980&t=29)** Smartphone App entrepreneurs need data that includes information about how many people are using the app, how often, and for how long, how an organization effectively uses data, helps it to make decisions and derives value from it called data management.
+> **[0:29](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-definition-and-basics?u=76281980&t=29)** Smartphone App entrepreneurs need data that includes information about how many people are using the app, how often, and for how long, how an organization effectively uses data, helps it to make decisions and derives value from it called [[Data Management]].
 >
 > **[0:47](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-definition-and-basics?u=76281980&t=47)** While data management is used in some form in most organizations, it's appropriate to ask whether the data is well understood if it's accurate and secure.
 >
@@ -303,7 +299,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-definition-and-basics?u=76281980&t=105)** These are some of the many core attributes of good governance.
 >
-> **[1:49](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-definition-and-basics?u=76281980&t=109)** The greater the extent that these qualities exist and that they result in higher quality data outcomes is a function of data governance.
+> **[1:49](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-definition-and-basics?u=76281980&t=109)** The greater the extent that these qualities exist and that they result in higher quality data outcomes is a function of [[Data Governance]].
 >
 > **[2:00](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-definition-and-basics?u=76281980&t=120)** At a high level, we can define data governance as data that is managed well.
 >
@@ -313,20 +309,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), management (6), business (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Data Management]] (5), [[Data Governance]] (3), [[Microsoft Products|Products]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - today (1)
 
-#### The principles of data governance
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-governance-14224082/the-principles-of-data-governance?u=76281980)
+#### [The principles of data governance](https://www.linkedin.com/learning/learning-data-governance-14224082/the-principles-of-data-governance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-data-governance-14224082/the-principles-of-data-governance?u=76281980&t=0)** - Let's look at three of the core principles of data governance.
+> **[0:00](https://www.linkedin.com/learning/learning-data-governance-14224082/the-principles-of-data-governance?u=76281980&t=0)** - Let's look at three of the core principles of [[Data Governance]].
 >
-> **[0:04](https://www.linkedin.com/learning/learning-data-governance-14224082/the-principles-of-data-governance?u=76281980&t=4)** They are transparency, accountability, and standardization.
+> **[0:04](https://www.linkedin.com/learning/learning-data-governance-14224082/the-principles-of-data-governance?u=76281980&t=4)** They are transparency, [[Accountability]], and standardization.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-data-governance-14224082/the-principles-of-data-governance?u=76281980&t=11)** I'll begin with the principle of transparency.
 >
@@ -364,7 +359,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/learning-data-governance-14224082/the-principles-of-data-governance?u=76281980&t=144)** For example, if a search is made to include results from the California area, the lack of a standard may result in incomplete results.
 >
-> **[2:33](https://www.linkedin.com/learning/learning-data-governance-14224082/the-principles-of-data-governance?u=76281980&t=153)** That is, if the search is being made using CA only, the results with the full word California may not show up.
+> **[2:33](https://www.linkedin.com/learning/learning-data-governance-14224082/the-principles-of-data-governance?u=76281980&t=153)** That is, if the search is being made using CA only, the results with the full [[Microsoft Word|word]] California may not show up.
 >
 > **[2:42](https://www.linkedin.com/learning/learning-data-governance-14224082/the-principles-of-data-governance?u=76281980&t=162)** Standardization solves this challenge and many more.
 >
@@ -372,13 +367,13 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/learning-data-governance-14224082/the-principles-of-data-governance?u=76281980&t=180)** The collective result: data becomes more valuable.
 >
-> **[3:04](https://www.linkedin.com/learning/learning-data-governance-14224082/the-principles-of-data-governance?u=76281980&t=184)** Related to standardization is the concept of master data management, or MDM.
+> **[3:04](https://www.linkedin.com/learning/learning-data-governance-14224082/the-principles-of-data-governance?u=76281980&t=184)** Related to standardization is the concept of master [[Data Management]], or MDM.
 >
 > **[3:12](https://www.linkedin.com/learning/learning-data-governance-14224082/the-principles-of-data-governance?u=76281980&t=192)** To increase the ability for data to be governed, understood by stakeholders, and even shared across enterprise systems, there must be organizational agreement on the details of reference data.
 >
 > **[3:25](https://www.linkedin.com/learning/learning-data-governance-14224082/the-principles-of-data-governance?u=76281980&t=205)** By reference data, we can think of core data sets that help run the organization day to day, data such as customer and supplier details, and product and part attributes.
 >
-> **[3:38](https://www.linkedin.com/learning/learning-data-governance-14224082/the-principles-of-data-governance?u=76281980&t=218)** Master data management uses this standardization to enable better enterprise operations and data integration within the organization and with external entities.
+> **[3:38](https://www.linkedin.com/learning/learning-data-governance-14224082/the-principles-of-data-governance?u=76281980&t=218)** Master data management uses this standardization to enable better enterprise operations and [[Data Integration]] within the organization and with external entities.
 >
 > **[3:51](https://www.linkedin.com/learning/learning-data-governance-14224082/the-principles-of-data-governance?u=76281980&t=231)** In a later video, we'll see how contemporary data catalogs are enabling enhanced MDM.
 >
@@ -388,22 +383,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), [[Accountability]] (2), [[Search]] (2), management (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Data Governance]] (6), [[Accountability]] (2), [[Data Management]] (2), [[Microsoft Word|Word]] (1), [[Data Integration]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** mdm (2)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - let (1)
 
-#### Data governance focus areas
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-focus-areas?u=76281980)
+#### [Data governance focus areas](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-focus-areas?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-focus-areas?u=76281980&t=0)** - Earlier, I discussed some broad foundational principles of data governance.
+> **[0:00](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-focus-areas?u=76281980&t=0)** - Earlier, I discussed some broad foundational principles of [[Data Governance]].
 >
 > **[0:06](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-focus-areas?u=76281980&t=6)** Now let's drill down further into specific core focus areas.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-focus-areas?u=76281980&t=11)** For this, we'll explore policy, quality, compliance, and business intelligence.
+> **[0:11](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-focus-areas?u=76281980&t=11)** For this, we'll explore policy, quality, compliance, and [[Business Intelligence (BI)|business intelligence]].
 >
 > **[0:19](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-focus-areas?u=76281980&t=19)** Policy may be the area that you think most about when you consider data governance.
 >
@@ -415,7 +409,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-focus-areas?u=76281980&t=48)** Each organizations will need to define their policies since they must reflect its vision, goals, and culture.
 >
-> **[0:58](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-focus-areas?u=76281980&t=58)** Next, what does data quality deal with?
+> **[0:58](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-focus-areas?u=76281980&t=58)** Next, what does [[Data Quality]] deal with?
 >
 > **[1:02](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-focus-areas?u=76281980&t=62)** We answer this by asking whether we have confidence in the integrity of data.
 >
@@ -435,7 +429,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-focus-areas?u=76281980&t=112)** There may be tens or hundreds of rules to follow, and it could depend on industry too.
 >
-> **[1:58](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-focus-areas?u=76281980&t=118)** In industries such as healthcare, banking, and insurance, data requirements are robust.
+> **[1:58](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-focus-areas?u=76281980&t=118)** In industries such as healthcare, [[Banking]], and insurance, data requirements are robust.
 >
 > **[2:07](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-focus-areas?u=76281980&t=127)** Data compliance requirements might include: how long data must be retained, who's allowed to access it, and what reports must be generated and provided to regulatory agencies.
 >
@@ -453,9 +447,9 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-focus-areas?u=76281980&t=186)** It's about the use of tools and processes to help explore data, understand it better, build meaningful and timely reports, and finally, to act on it.
 >
-> **[3:18](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-focus-areas?u=76281980&t=198)** For example, BI can help sales teams know what products are selling well and those that are selling poorly, where they're selling and who's buying the products.
+> **[3:18](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-focus-areas?u=76281980&t=198)** For example, BI can help sales teams know what [[Microsoft Products|products]] are selling well and those that are selling poorly, where they're selling and who's buying the products.
 >
-> **[3:29](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-focus-areas?u=76281980&t=209)** This will deeply inform sales strategy on an ongoing basis.
+> **[3:29](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-focus-areas?u=76281980&t=209)** This will deeply inform [[Sales Strategy]] on an ongoing basis.
 >
 > **[3:34](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-focus-areas?u=76281980&t=214)** Data governance supports BI efforts by, for example, defining roles and access rights, supporting data quality, ensuring data is current and regularly updated, and identifying valuable additional data sources.
 >
@@ -463,22 +457,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), bi (4), [[Business Intelligence (BI)|Business intelligence]] (2), [[Microsoft Products|Products]] (2), next (1)
+> **Frameworks & Libraries:** [[Data Governance]] (6), [[Business Intelligence (BI)|Business intelligence]] (2), [[Data Quality]] (2), [[Microsoft Products|Products]] (2), [[Banking]] (1)
 > **Analogies:** for example (4), such as (2)
 > **Definitions:** defined as (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - earlier (1)
 
-#### Understanding data modeling
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-governance-14224082/understanding-data-modeling?u=76281980)
+#### [Understanding data modeling](https://www.linkedin.com/learning/learning-data-governance-14224082/understanding-data-modeling?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-data-governance-14224082/understanding-data-modeling?u=76281980&t=0)** - Quality data governance requires that the stakeholders within an organization understand its data and that data is managed in a way that supports objectives and goals.
+> **[0:00](https://www.linkedin.com/learning/learning-data-governance-14224082/understanding-data-modeling?u=76281980&t=0)** - Quality [[Data Governance]] requires that the stakeholders within an organization understand its data and that data is managed in a way that supports objectives and goals.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-data-governance-14224082/understanding-data-modeling?u=76281980&t=11)** These qualities increase the potential for staff to better define data uses to solve business problems.
 >
-> **[0:20](https://www.linkedin.com/learning/learning-data-governance-14224082/understanding-data-modeling?u=76281980&t=20)** When the business requirements for data are analyzed, and defined in support of an organization, we call this data modeling.
+> **[0:20](https://www.linkedin.com/learning/learning-data-governance-14224082/understanding-data-modeling?u=76281980&t=20)** When the business requirements for data are analyzed, and defined in support of an organization, we call this [[Data Modeling]].
 >
 > **[0:28](https://www.linkedin.com/learning/learning-data-governance-14224082/understanding-data-modeling?u=76281980&t=28)** Skilled data modelers work with business stakeholders, and the end product is a data model.
 >
@@ -488,7 +481,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/learning-data-governance-14224082/understanding-data-modeling?u=76281980&t=43)** They take input from one party, convert that input into a language that is understood by another party and then communicate it such that a solution can be built.
 >
-> **[0:53](https://www.linkedin.com/learning/learning-data-governance-14224082/understanding-data-modeling?u=76281980&t=53)** Data models form the foundation for creating the databases that support information systems.
+> **[0:53](https://www.linkedin.com/learning/learning-data-governance-14224082/understanding-data-modeling?u=76281980&t=53)** Data models form the foundation for creating the [[Databases]] that support information systems.
 >
 > **[1:00](https://www.linkedin.com/learning/learning-data-governance-14224082/understanding-data-modeling?u=76281980&t=60)** A data model is a graphical representation of a specification in the same way a blueprint shows the details of a new proposed house.
 >
@@ -510,7 +503,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/learning-data-governance-14224082/understanding-data-modeling?u=76281980&t=133)** Let's look at an example.
 >
-> **[2:15](https://www.linkedin.com/learning/learning-data-governance-14224082/understanding-data-modeling?u=76281980&t=135)** An organization wants to add new items to an online e-commerce solution.
+> **[2:15](https://www.linkedin.com/learning/learning-data-governance-14224082/understanding-data-modeling?u=76281980&t=135)** An organization wants to add new items to an online [[E-Commerce]] solution.
 >
 > **[2:20](https://www.linkedin.com/learning/learning-data-governance-14224082/understanding-data-modeling?u=76281980&t=140)** These items are a new line of t-shirts.
 >
@@ -528,7 +521,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/learning-data-governance-14224082/understanding-data-modeling?u=76281980&t=180)** Data modeling directly ties to quality data governance because amongst its many advantages, data models elevate data understanding, ensure compliance and regulatory needs are met, document data uses, enforce standards, identify missing and problematic data, build on understanding of data relationships, and surface data challenges.
 >
-> **[3:26](https://www.linkedin.com/learning/learning-data-governance-14224082/understanding-data-modeling?u=76281980&t=206)** In addition, the process of data modeling instills discipline in data management, and can often inspire innovation through the collaboration of business and technical team members.
+> **[3:26](https://www.linkedin.com/learning/learning-data-governance-14224082/understanding-data-modeling?u=76281980&t=206)** In addition, the process of data modeling instills discipline in [[Data Management]], and can often inspire innovation through the collaboration of business and technical team members.
 >
 > **[3:39](https://www.linkedin.com/learning/learning-data-governance-14224082/understanding-data-modeling?u=76281980&t=219)** Even when organizations don't build their own solutions, data modeling can be a highly valuable function.
 >
@@ -536,7 +529,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (33), business (7), product (1), [[Databases]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Data Modeling]] (4), [[Data Governance]] (3), [[Databases]] (1), [[E-Commerce]] (1), [[Data Management]] (1)
 > **Definitions:** is a  (2), we call this (1), is called (1)
 > **Env Vars:** erd (3)
 > **CLI Commands:** make (1)
@@ -544,12 +537,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - quality (1)
 
-#### How do you know if your organization needs data governance?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-governance-14224082/how-do-you-know-if-your-organization-needs-data-governance?u=76281980)
+#### [How do you know if your organization needs data governance?](https://www.linkedin.com/learning/learning-data-governance-14224082/how-do-you-know-if-your-organization-needs-data-governance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-data-governance-14224082/how-do-you-know-if-your-organization-needs-data-governance?u=76281980&t=0)** - How does an organization determine whether it needs robust data governance?
+> **[0:00](https://www.linkedin.com/learning/learning-data-governance-14224082/how-do-you-know-if-your-organization-needs-data-governance?u=76281980&t=0)** - How does an organization determine whether it needs robust [[Data Governance]]?
 >
 > **[0:05](https://www.linkedin.com/learning/learning-data-governance-14224082/how-do-you-know-if-your-organization-needs-data-governance?u=76281980&t=5)** Answering this question relies heavily on an organization's assessment of the degree in which it considers data value and compliance to be central to its success.
 >
@@ -579,15 +571,15 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/learning-data-governance-14224082/how-do-you-know-if-your-organization-needs-data-governance?u=76281980&t=114)** If an organization is subject to extensive mandatory requirements for data handling, robust data governance is almost a certainty.
 >
-> **[2:03](https://www.linkedin.com/learning/learning-data-governance-14224082/how-do-you-know-if-your-organization-needs-data-governance?u=76281980&t=123)** By its definition, data compliance requires certain practices such as management oversight, risk management, accountability, timeliness and enforcement.
+> **[2:03](https://www.linkedin.com/learning/learning-data-governance-14224082/how-do-you-know-if-your-organization-needs-data-governance?u=76281980&t=123)** By its definition, data compliance requires certain practices such as management oversight, risk management, [[Accountability]], timeliness and enforcement.
 >
 > **[2:15](https://www.linkedin.com/learning/learning-data-governance-14224082/how-do-you-know-if-your-organization-needs-data-governance?u=76281980&t=135)** These areas are aligned with the core roles of data governance and will contribute greatly to reducing the risks associated with the challenges of becoming and staying compliant.
 >
 > **[2:28](https://www.linkedin.com/learning/learning-data-governance-14224082/how-do-you-know-if-your-organization-needs-data-governance?u=76281980&t=148)** Many organizations will continue to exist without formal data governance.
 >
-> **[2:33](https://www.linkedin.com/learning/learning-data-governance-14224082/how-do-you-know-if-your-organization-needs-data-governance?u=76281980&t=153)** Formal is the important word here because there's always some level of oversight for data, but it may not reach the level of a formal approach.
+> **[2:33](https://www.linkedin.com/learning/learning-data-governance-14224082/how-do-you-know-if-your-organization-needs-data-governance?u=76281980&t=153)** Formal is the important [[Microsoft Word|word]] here because there's always some level of oversight for data, but it may not reach the level of a formal approach.
 >
-> **[2:43](https://www.linkedin.com/learning/learning-data-governance-14224082/how-do-you-know-if-your-organization-needs-data-governance?u=76281980&t=163)** A new business, for example, will be focused on immediate needs, like product development, sales, and recruitment, and may have little capacity to dedicate to good data management.
+> **[2:43](https://www.linkedin.com/learning/learning-data-governance-14224082/how-do-you-know-if-your-organization-needs-data-governance?u=76281980&t=163)** A new business, for example, will be focused on immediate needs, like [[Product Development]], sales, and recruitment, and may have little capacity to dedicate to good [[Data Management]].
 >
 > **[2:54](https://www.linkedin.com/learning/learning-data-governance-14224082/how-do-you-know-if-your-organization-needs-data-governance?u=76281980&t=174)** That said, it will still want to use quality data to report to investors and use data to grow the business.
 >
@@ -597,7 +589,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), management (4), business (3), [[Accountability]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Data Governance]] (7), [[Data Management]] (2), [[Accountability]] (1), [[Microsoft Word|Word]] (1), [[Product Development]] (1)
 > **Analogies:** for example (2), such as (2)
 > **Prerequisites:** required to (1)
 > **Speakers:** - how (1)
@@ -607,12 +599,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Who owns the data and why does that matter?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-governance-14224082/who-owns-the-data-and-why-does-that-matter?u=76281980)
+#### [Who owns the data and why does that matter?](https://www.linkedin.com/learning/learning-data-governance-14224082/who-owns-the-data-and-why-does-that-matter?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-data-governance-14224082/who-owns-the-data-and-why-does-that-matter?u=76281980&t=0)** - Data governance doesn't necessarily have to incur a lot of financial cost, particularly in requiring a whole bunch of new expensive software tools.
+> **[0:00](https://www.linkedin.com/learning/learning-data-governance-14224082/who-owns-the-data-and-why-does-that-matter?u=76281980&t=0)** - [[Data Governance]] doesn't necessarily have to incur a lot of financial cost, particularly in requiring a whole bunch of new expensive software tools.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-data-governance-14224082/who-owns-the-data-and-why-does-that-matter?u=76281980&t=10)** While some software will likely be required, where most overhead is felt is with the introduction of new processes and responsibilities for staff.
 >
@@ -620,13 +611,13 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/learning-data-governance-14224082/who-owns-the-data-and-why-does-that-matter?u=76281980&t=32)** In most organizations, it's customary to assign specific people to own processes and deliverables.
 >
-> **[0:39](https://www.linkedin.com/learning/learning-data-governance-14224082/who-owns-the-data-and-why-does-that-matter?u=76281980&t=39)** For example, a human resources director will be accountable for recruitment, a facilities manager for real estate needs, and a chief financial officer for financial activities.
+> **[0:39](https://www.linkedin.com/learning/learning-data-governance-14224082/who-owns-the-data-and-why-does-that-matter?u=76281980&t=39)** For example, a [[Human Resources (HR)|human resources]] director will be accountable for recruitment, a facilities manager for real estate needs, and a chief financial officer for financial activities.
 >
-> **[0:50](https://www.linkedin.com/learning/learning-data-governance-14224082/who-owns-the-data-and-why-does-that-matter?u=76281980&t=50)** But when it comes to data, there can be huge gaps in ownership of related processes and for accountability of data sets.
+> **[0:50](https://www.linkedin.com/learning/learning-data-governance-14224082/who-owns-the-data-and-why-does-that-matter?u=76281980&t=50)** But when it comes to data, there can be huge gaps in ownership of related processes and for [[Accountability]] of data sets.
 >
 > **[0:59](https://www.linkedin.com/learning/learning-data-governance-14224082/who-owns-the-data-and-why-does-that-matter?u=76281980&t=59)** This remains common and is a glaring weakness in many organizations.
 >
-> **[1:04](https://www.linkedin.com/learning/learning-data-governance-14224082/who-owns-the-data-and-why-does-that-matter?u=76281980&t=64)** Owning data doesn't mean it belongs to somebody, ownership and accountability are about such things as data quality, integrity, availability, security, and compliance.
+> **[1:04](https://www.linkedin.com/learning/learning-data-governance-14224082/who-owns-the-data-and-why-does-that-matter?u=76281980&t=64)** Owning data doesn't mean it belongs to somebody, ownership and accountability are about such things as [[Data Quality]], integrity, availability, security, and compliance.
 >
 > **[1:17](https://www.linkedin.com/learning/learning-data-governance-14224082/who-owns-the-data-and-why-does-that-matter?u=76281980&t=77)** Data owners must care and manage data in each of those areas and more.
 >
@@ -648,9 +639,9 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/learning-data-governance-14224082/who-owns-the-data-and-why-does-that-matter?u=76281980&t=135)** They might be people who by the nature of their skills are well-suited to participate in a data oversight capacity.
 >
-> **[2:24](https://www.linkedin.com/learning/learning-data-governance-14224082/who-owns-the-data-and-why-does-that-matter?u=76281980&t=144)** Data stewards usually conduct this role for just a few hours a month and spend the rest of their time in their normal day jobs.
+> **[2:24](https://www.linkedin.com/learning/learning-data-governance-14224082/who-owns-the-data-and-why-does-that-matter?u=76281980&t=144)** Data stewards usually conduct this role for just a few hours a month and spend the [[Representational State Transfer (REST)|rest]] of their time in their normal day jobs.
 >
-> **[2:32](https://www.linkedin.com/learning/learning-data-governance-14224082/who-owns-the-data-and-why-does-that-matter?u=76281980&t=152)** The data steward function is often called the data governance board, the data stewardship council, or the data governance office.
+> **[2:32](https://www.linkedin.com/learning/learning-data-governance-14224082/who-owns-the-data-and-why-does-that-matter?u=76281980&t=152)** The data steward function is often called the data governance board, the [[Data Stewardship]] council, or the data governance [[Microsoft Office|office]].
 >
 > **[2:41](https://www.linkedin.com/learning/learning-data-governance-14224082/who-owns-the-data-and-why-does-that-matter?u=76281980&t=161)** In medium to large enterprises, these groups are made up of several data stewards that represent the entirety of the organization.
 >
@@ -666,17 +657,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (36), [[Accountability]] (2), [[Human Resources (HR)|Human resources]] (1), [[Security]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Data Governance]] (6), [[Accountability]] (2), [[Human Resources (HR)|Human resources]] (1), [[Data Quality]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - data (1)
 
-#### Understanding roles in the data governance domain
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-governance-14224082/understanding-roles-in-the-data-governance-domain?u=76281980)
+#### [Understanding roles in the data governance domain](https://www.linkedin.com/learning/learning-data-governance-14224082/understanding-roles-in-the-data-governance-domain?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-data-governance-14224082/understanding-roles-in-the-data-governance-domain?u=76281980&t=0)** - Arguably, the two most important data governance roles are data owners and data stewards.
+> **[0:00](https://www.linkedin.com/learning/learning-data-governance-14224082/understanding-roles-in-the-data-governance-domain?u=76281980&t=0)** - Arguably, the two most important [[Data Governance]] roles are data owners and data stewards.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-data-governance-14224082/understanding-roles-in-the-data-governance-domain?u=76281980&t=7)** However, let's remember that data governance is an enterprise responsibility.
 >
@@ -686,7 +676,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/learning-data-governance-14224082/understanding-roles-in-the-data-governance-domain?u=76281980&t=21)** The correct answer should be everyone.
 >
-> **[0:24](https://www.linkedin.com/learning/learning-data-governance-14224082/understanding-roles-in-the-data-governance-domain?u=76281980&t=24)** Much like requiring staff to agree to support core business processes or a code of ethics, if an organization employs data governance, the expectation must be that all staff agree to support the function of data governance.
+> **[0:24](https://www.linkedin.com/learning/learning-data-governance-14224082/understanding-roles-in-the-data-governance-domain?u=76281980&t=24)** Much like requiring staff to agree to support core business processes or a code of [[Ethics]], if an organization employs data governance, the expectation must be that all staff agree to support the function of data governance.
 >
 > **[0:40](https://www.linkedin.com/learning/learning-data-governance-14224082/understanding-roles-in-the-data-governance-domain?u=76281980&t=40)** After all, today it seems everyone touches data as a matter of day-to-day business.
 >
@@ -696,13 +686,13 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/learning-data-governance-14224082/understanding-roles-in-the-data-governance-domain?u=76281980&t=70)** They also have the responsibility to ensure access rights are managed and that information security is supported.
 >
-> **[1:17](https://www.linkedin.com/learning/learning-data-governance-14224082/understanding-roles-in-the-data-governance-domain?u=76281980&t=77)** Full-time cybersecurity staff are deeply engaged in these processes too.
+> **[1:17](https://www.linkedin.com/learning/learning-data-governance-14224082/understanding-roles-in-the-data-governance-domain?u=76281980&t=77)** Full-time [[Cybersecurity]] staff are deeply engaged in these processes too.
 >
 > **[1:22](https://www.linkedin.com/learning/learning-data-governance-14224082/understanding-roles-in-the-data-governance-domain?u=76281980&t=82)** Note, however, that the IT team doesn't typically have responsibility for ensuring that the right people are granted access to particular datasets.
 >
 > **[1:33](https://www.linkedin.com/learning/learning-data-governance-14224082/understanding-roles-in-the-data-governance-domain?u=76281980&t=93)** That's a business owner role.
 >
-> **[1:35](https://www.linkedin.com/learning/learning-data-governance-14224082/understanding-roles-in-the-data-governance-domain?u=76281980&t=95)** Other roles in data governance include attorneys who advise data owners and stewards about data requirements such as privacy or disclosure.
+> **[1:35](https://www.linkedin.com/learning/learning-data-governance-14224082/understanding-roles-in-the-data-governance-domain?u=76281980&t=95)** Other roles in data governance include attorneys who advise data owners and stewards about data requirements such as [[Privacy]] or disclosure.
 >
 > **[1:45](https://www.linkedin.com/learning/learning-data-governance-14224082/understanding-roles-in-the-data-governance-domain?u=76281980&t=105)** They also help with procedures for handling sensitive data such as data required during litigation.
 >
@@ -716,7 +706,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/learning-data-governance-14224082/understanding-roles-in-the-data-governance-domain?u=76281980&t=140)** In the United States, payment card industry, or PCI requirements, are enforced in order to protect credit card data and user information.
 >
-> **[2:29](https://www.linkedin.com/learning/learning-data-governance-14224082/understanding-roles-in-the-data-governance-domain?u=76281980&t=149)** Any frontline or back office staff that are handling personal data have a data governance obligation.
+> **[2:29](https://www.linkedin.com/learning/learning-data-governance-14224082/understanding-roles-in-the-data-governance-domain?u=76281980&t=149)** Any frontline or back [[Microsoft Office|office]] staff that are handling personal data have a data governance obligation.
 >
 > **[2:36](https://www.linkedin.com/learning/learning-data-governance-14224082/understanding-roles-in-the-data-governance-domain?u=76281980&t=156)** They need to understand their obligations for managing that data.
 >
@@ -732,19 +722,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), business (3), management (3), [[Ethics]] (1), database (1)
+> **Frameworks & Libraries:** [[Data Governance]] (9), [[Ethics]] (1), [[Cybersecurity]] (1), [[Privacy]] (1), [[Microsoft Office|Office]] (1)
 > **Analogies:** such as (3), for example (2)
 > **Env Vars:** pci (1)
 > **Definitions:** is an  (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - arguably (1)
 
-#### Designing data governance processes
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-governance-14224082/designing-data-governance-processes?u=76281980)
+#### [Designing data governance processes](https://www.linkedin.com/learning/learning-data-governance-14224082/designing-data-governance-processes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-data-governance-14224082/designing-data-governance-processes?u=76281980&t=0)** - When an organization decides that data governance is right for them, and fully understands the commitments and requirements, how did it go about designing the necessary processes?
+> **[0:00](https://www.linkedin.com/learning/learning-data-governance-14224082/designing-data-governance-processes?u=76281980&t=0)** - When an organization decides that [[Data Governance]] is right for them, and fully understands the commitments and requirements, how did it go about designing the necessary processes?
 >
 > **[0:11](https://www.linkedin.com/learning/learning-data-governance-14224082/designing-data-governance-processes?u=76281980&t=11)** An organization that begins a data governance capability doesn't need to be perfect on day one.
 >
@@ -752,7 +741,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/learning-data-governance-14224082/designing-data-governance-processes?u=76281980&t=24)** This is about maturing, and each business will have its own pace.
 >
-> **[0:29](https://www.linkedin.com/learning/learning-data-governance-14224082/designing-data-governance-processes?u=76281980&t=29)** In fact, I'm going to reference a data management maturity model for thinking about how we plan and develop data governance.
+> **[0:29](https://www.linkedin.com/learning/learning-data-governance-14224082/designing-data-governance-processes?u=76281980&t=29)** In fact, I'm going to reference a [[Data Management]] maturity model for thinking about how we plan and develop data governance.
 >
 > **[0:37](https://www.linkedin.com/learning/learning-data-governance-14224082/designing-data-governance-processes?u=76281980&t=37)** While data management and data governance are not the same, they are highly interconnected.
 >
@@ -760,7 +749,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/learning-data-governance-14224082/designing-data-governance-processes?u=76281980&t=53)** The data management maturity model I've selected is a product of ISACA, a name derived from the original title, the Information Systems Audit and Control Association.
 >
-> **[1:04](https://www.linkedin.com/learning/learning-data-governance-14224082/designing-data-governance-processes?u=76281980&t=64)** ISACA is a not-for-profit professional organization for IT governance, assurance, and cybersecurity professionals.
+> **[1:04](https://www.linkedin.com/learning/learning-data-governance-14224082/designing-data-governance-processes?u=76281980&t=64)** ISACA is a not-for-profit professional organization for [[IT Governance]], assurance, and [[Cybersecurity]] professionals.
 >
 > **[1:12](https://www.linkedin.com/learning/learning-data-governance-14224082/designing-data-governance-processes?u=76281980&t=72)** It's not the only data maturity model available.
 >
@@ -804,7 +793,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/learning-data-governance-14224082/designing-data-governance-processes?u=76281980&t=188)** Standards must be applied, and greater consequences will result from non-compliance.
 >
-> **[3:15](https://www.linkedin.com/learning/learning-data-governance-14224082/designing-data-governance-processes?u=76281980&t=195)** The next process area is data quality.
+> **[3:15](https://www.linkedin.com/learning/learning-data-governance-14224082/designing-data-governance-processes?u=76281980&t=195)** The next process area is [[Data Quality]].
 >
 > **[3:18](https://www.linkedin.com/learning/learning-data-governance-14224082/designing-data-governance-processes?u=76281980&t=198)** With data quality, we are concerned about our confidence in areas such as the accuracy of data, that the data is up to date, that data is right for its purpose, and it's consistent, and the data is complete.
 >
@@ -828,9 +817,9 @@ created: 2026-05-02
 >
 > **[4:26](https://www.linkedin.com/learning/learning-data-governance-14224082/designing-data-governance-processes?u=76281980&t=266)** Next is the data platform.
 >
-> **[4:28](https://www.linkedin.com/learning/learning-data-governance-14224082/designing-data-governance-processes?u=76281980&t=268)** Data platforms are mostly focused on the technology architecture, hardware, and software.
+> **[4:28](https://www.linkedin.com/learning/learning-data-governance-14224082/designing-data-governance-processes?u=76281980&t=268)** Data platforms are mostly focused on the technology architecture, [[Hardware]], and software.
 >
-> **[4:35](https://www.linkedin.com/learning/learning-data-governance-14224082/designing-data-governance-processes?u=76281980&t=275)** Examples of data platforms can include databases, scheduling tools, data analytics, and visualization products.
+> **[4:35](https://www.linkedin.com/learning/learning-data-governance-14224082/designing-data-governance-processes?u=76281980&t=275)** Examples of data platforms can include [[Databases]], scheduling tools, data analytics, and visualization [[Microsoft Products|products]].
 >
 > **[4:44](https://www.linkedin.com/learning/learning-data-governance-14224082/designing-data-governance-processes?u=76281980&t=284)** Finally, there's a category for supporting processes.
 >
@@ -846,14 +835,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (53), management (15), next (4), business (2), leadership (2)
+> **Frameworks & Libraries:** [[Data Management]] (12), [[Data Governance]] (9), [[Data Quality]] (4), [[IT Governance]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** isaca (3), ibm (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - when (1)
 
-#### The value of a data catalog
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-governance-14224082/the-value-of-a-data-catalog?u=76281980)
+#### [The value of a data catalog](https://www.linkedin.com/learning/learning-data-governance-14224082/the-value-of-a-data-catalog?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -869,7 +857,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/learning-data-governance-14224082/the-value-of-a-data-catalog?u=76281980&t=42)** Let's explore this further.
 >
-> **[0:45](https://www.linkedin.com/learning/learning-data-governance-14224082/the-value-of-a-data-catalog?u=76281980&t=45)** In addition to being a data inventory that efficiently lists old data in an organization, to add substantial value, a data catalog stores metadata on datasets.
+> **[0:45](https://www.linkedin.com/learning/learning-data-governance-14224082/the-value-of-a-data-catalog?u=76281980&t=45)** In addition to being a data inventory that efficiently lists old data in an organization, to add substantial value, a data catalog stores [[Metadata]] on datasets.
 >
 > **[0:57](https://www.linkedin.com/learning/learning-data-governance-14224082/the-value-of-a-data-catalog?u=76281980&t=57)** Metadata is basically data about data.
 >
@@ -883,7 +871,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/learning-data-governance-14224082/the-value-of-a-data-catalog?u=76281980&t=81)** The second is business metadata.
 >
-> **[1:23](https://www.linkedin.com/learning/learning-data-governance-14224082/the-value-of-a-data-catalog?u=76281980&t=83)** This is organizational information about a dataset, such as business description, how it's used, its relevance, an assessment of data quality, and users.
+> **[1:23](https://www.linkedin.com/learning/learning-data-governance-14224082/the-value-of-a-data-catalog?u=76281980&t=83)** This is organizational information about a dataset, such as business description, how it's used, its relevance, an assessment of [[Data Quality]], and users.
 >
 > **[1:34](https://www.linkedin.com/learning/learning-data-governance-14224082/the-value-of-a-data-catalog?u=76281980&t=94)** Finally, there is operational metadata.
 >
@@ -909,15 +897,15 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/learning-data-governance-14224082/the-value-of-a-data-catalog?u=76281980&t=160)** Staff on the technical end of the business can use the data catalog to understand and support data needs.
 >
-> **[2:47](https://www.linkedin.com/learning/learning-data-governance-14224082/the-value-of-a-data-catalog?u=76281980&t=167)** For example, this view greatly enhances data modeling by informing analysts about existing data, its structures, security, and quality.
+> **[2:47](https://www.linkedin.com/learning/learning-data-governance-14224082/the-value-of-a-data-catalog?u=76281980&t=167)** For example, this view greatly enhances [[Data Modeling]] by informing analysts about existing data, its structures, security, and quality.
 >
 > **[2:56](https://www.linkedin.com/learning/learning-data-governance-14224082/the-value-of-a-data-catalog?u=76281980&t=176)** Data scientists can be much more effective by being able to tap into disparate data sets and build and evaluate more complex data models and reports.
 >
-> **[3:06](https://www.linkedin.com/learning/learning-data-governance-14224082/the-value-of-a-data-catalog?u=76281980&t=186)** Cybersecurity professionals can use the data catalog to prioritize and manage their approach to information security.
+> **[3:06](https://www.linkedin.com/learning/learning-data-governance-14224082/the-value-of-a-data-catalog?u=76281980&t=186)** [[Cybersecurity]] professionals can use the data catalog to prioritize and manage their approach to information security.
 >
 > **[3:14](https://www.linkedin.com/learning/learning-data-governance-14224082/the-value-of-a-data-catalog?u=76281980&t=194)** On the business side, a data catalog is a powerful asset for data stewards.
 >
-> **[3:19](https://www.linkedin.com/learning/learning-data-governance-14224082/the-value-of-a-data-catalog?u=76281980&t=199)** As those responsible for managing the life cycle of data, data stewards get a real-time view of the state of data.
+> **[3:19](https://www.linkedin.com/learning/learning-data-governance-14224082/the-value-of-a-data-catalog?u=76281980&t=199)** As those responsible for managing the life cycle of data, data stewards get a [[Real-Time]] view of the state of data.
 >
 > **[3:26](https://www.linkedin.com/learning/learning-data-governance-14224082/the-value-of-a-data-catalog?u=76281980&t=206)** This includes its quality, usage, and management across systems and organizational units.
 >
@@ -927,22 +915,21 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/learning-data-governance-14224082/the-value-of-a-data-catalog?u=76281980&t=226)** Finally, all staff, dependent on their access level, can more easily find and discover data across the enterprise.
 >
-> **[3:55](https://www.linkedin.com/learning/learning-data-governance-14224082/the-value-of-a-data-catalog?u=76281980&t=235)** With an understanding of the role of a well-managed data catalog, it becomes clear that the functions of both data governance and data management are greatly enhanced by its implementation and use.
+> **[3:55](https://www.linkedin.com/learning/learning-data-governance-14224082/the-value-of-a-data-catalog?u=76281980&t=235)** With an understanding of the role of a well-managed data catalog, it becomes clear that the functions of both [[Data Governance]] and [[Data Management]] are greatly enhanced by its implementation and use.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (44), [[Metadata]] (8), business (4), [[Security]] (2), management (2)
+> **Frameworks & Libraries:** [[Metadata]] (8), [[Data Quality]] (1), [[Data Modeling]] (1), [[Cybersecurity]] (1), [[Real-Time]] (1)
 > **Analogies:** such as (3), for example (2)
 > **CLI Commands:** make (2), find (2)
 > **Definitions:** known as (1), is a  (1)
 > **Speakers:** - organizations (1)
 
-#### Creating data governance policies
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-governance-14224082/creating-data-governance-policies?u=76281980)
+#### [Creating data governance policies](https://www.linkedin.com/learning/learning-data-governance-14224082/creating-data-governance-policies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-data-governance-14224082/creating-data-governance-policies?u=76281980&t=0)** - A data governance program becomes real and executable once a set of policies for data have been established.
+> **[0:00](https://www.linkedin.com/learning/learning-data-governance-14224082/creating-data-governance-policies?u=76281980&t=0)** - A [[Data Governance]] program becomes real and executable once a set of policies for data have been established.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-data-governance-14224082/creating-data-governance-policies?u=76281980&t=7)** A policy is an agreed approach for guiding decisions.
 >
@@ -952,7 +939,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/learning-data-governance-14224082/creating-data-governance-policies?u=76281980&t=30)** Policies are at the heart of data governance.
 >
-> **[0:33](https://www.linkedin.com/learning/learning-data-governance-14224082/creating-data-governance-policies?u=76281980&t=33)** Successful policies ensure roles and responsibilities are understood, data management is run efficiently and effectively, and data is appropriately protected.
+> **[0:33](https://www.linkedin.com/learning/learning-data-governance-14224082/creating-data-governance-policies?u=76281980&t=33)** Successful policies ensure roles and responsibilities are understood, [[Data Management]] is run efficiently and effectively, and data is appropriately protected.
 >
 > **[0:44](https://www.linkedin.com/learning/learning-data-governance-14224082/creating-data-governance-policies?u=76281980&t=44)** Data governance policies are often created by the data governance board, or DGB.
 >
@@ -970,7 +957,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/learning-data-governance-14224082/creating-data-governance-policies?u=76281980&t=82)** Two, roles and responsibilities.
 >
-> **[1:25](https://www.linkedin.com/learning/learning-data-governance-14224082/creating-data-governance-policies?u=76281980&t=85)** Three, data quality, integrity and integration expectations.
+> **[1:25](https://www.linkedin.com/learning/learning-data-governance-14224082/creating-data-governance-policies?u=76281980&t=85)** Three, [[Data Quality]], integrity and integration expectations.
 >
 > **[1:30](https://www.linkedin.com/learning/learning-data-governance-14224082/creating-data-governance-policies?u=76281980&t=90)** Four, role of the data catalog.
 >
@@ -1046,7 +1033,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[Security]] (3), management (2), next (2), cloud (1)
+> **Frameworks & Libraries:** [[Data Governance]] (8), [[Data Management]] (2), [[Data Quality]] (1)
 > **Definitions:** is an  (2), is a  (2)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (3)
@@ -1054,12 +1041,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - a (1)
 
-#### Exploring the role of knowledge graphs
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-governance-14224082/exploring-the-role-of-knowledge-graphs?u=76281980)
+#### [Exploring the role of knowledge graphs](https://www.linkedin.com/learning/learning-data-governance-14224082/exploring-the-role-of-knowledge-graphs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-data-governance-14224082/exploring-the-role-of-knowledge-graphs?u=76281980&t=0)** - Data governance deploys and enforces policies for data management so that an organization can ensure they maximize data value and keep data secure.
+> **[0:00](https://www.linkedin.com/learning/learning-data-governance-14224082/exploring-the-role-of-knowledge-graphs?u=76281980&t=0)** - [[Data Governance]] deploys and enforces policies for [[Data Management]] so that an organization can ensure they maximize data value and keep data secure.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-data-governance-14224082/exploring-the-role-of-knowledge-graphs?u=76281980&t=11)** Intuitively, if data is more deeply understood, the higher the likelihood that it can be managed better and more value can be derived.
 >
@@ -1069,7 +1055,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/learning-data-governance-14224082/exploring-the-role-of-knowledge-graphs?u=76281980&t=43)** Let's go a little deeper.
 >
-> **[0:44](https://www.linkedin.com/learning/learning-data-governance-14224082/exploring-the-role-of-knowledge-graphs?u=76281980&t=44)** With knowledge graphs, we're not simply talking about connecting two units of data, such as a product and a price.
+> **[0:44](https://www.linkedin.com/learning/learning-data-governance-14224082/exploring-the-role-of-knowledge-graphs?u=76281980&t=44)** With [[Knowledge Graphs]], we're not simply talking about connecting two units of data, such as a product and a price.
 >
 > **[0:51](https://www.linkedin.com/learning/learning-data-governance-14224082/exploring-the-role-of-knowledge-graphs?u=76281980&t=51)** Instead, we are advancing the meaning of connections by describing and capturing the nature of the linked data.
 >
@@ -1105,7 +1091,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/learning-data-governance-14224082/exploring-the-role-of-knowledge-graphs?u=76281980&t=115)** We've captured data and described the relationships between the data.
 >
-> **[2:00](https://www.linkedin.com/learning/learning-data-governance-14224082/exploring-the-role-of-knowledge-graphs?u=76281980&t=120)** If a query is made in the knowledge graph, there is lots of metadata to help derive a high-quality result.
+> **[2:00](https://www.linkedin.com/learning/learning-data-governance-14224082/exploring-the-role-of-knowledge-graphs?u=76281980&t=120)** If a query is made in the knowledge graph, there is lots of [[Metadata]] to help derive a high-quality result.
 >
 > **[2:08](https://www.linkedin.com/learning/learning-data-governance-14224082/exploring-the-role-of-knowledge-graphs?u=76281980&t=128)** Knowledge graphs are used across industries for a vast number of solutions.
 >
@@ -1115,7 +1101,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/learning-data-governance-14224082/exploring-the-role-of-knowledge-graphs?u=76281980&t=141)** Businesses use knowledge graphs, for example, to better understand their data and its relationship, to be able to visualize what is available for use and how it's used, to pull the right data into applications from different sources, and improve machine learning capabilities.
 >
-> **[2:39](https://www.linkedin.com/learning/learning-data-governance-14224082/exploring-the-role-of-knowledge-graphs?u=76281980&t=159)** A knowledge graph sits on top of existing structured and unstructured databases.
+> **[2:39](https://www.linkedin.com/learning/learning-data-governance-14224082/exploring-the-role-of-knowledge-graphs?u=76281980&t=159)** A knowledge graph sits on top of existing structured and unstructured [[Databases]].
 >
 > **[2:45](https://www.linkedin.com/learning/learning-data-governance-14224082/exploring-the-role-of-knowledge-graphs?u=76281980&t=165)** Knowledge graphs create a data model with real data that is developed and managed by both subject matter experts and machine learning software.
 >
@@ -1155,7 +1141,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (27), [[Knowledge Graphs]] (6), [[Search]] (2), database (2), management (1)
+> **Frameworks & Libraries:** [[Knowledge Graphs]] (6), [[Data Governance]] (1), [[Data Management]] (1), [[Metadata]] (1), [[Databases]] (1)
 > **Env Vars:** rdf (4), w3c (1)
 > **Definitions:** known as (2), is an  (2)
 > **Analogies:** such as (3), for example (1)
@@ -1163,20 +1149,19 @@ created: 2026-05-02
 > **Documentation:** w3c (1)
 > **Speakers:** - data (1)
 
-#### Data governance and artificial intelligence
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-and-artificial-intelligence?u=76281980)
+#### [Data governance and artificial intelligence](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-and-artificial-intelligence?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-and-artificial-intelligence?u=76281980&t=1)** - [Instructor] Artificial intelligence or AI has emerged as a significant tool and enhancement to organizational capability and has both positive and risk implications for data management and governance.
+> **[0:01](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-and-artificial-intelligence?u=76281980&t=1)** - [Instructor] [[Artificial Intelligence (AI)|Artificial intelligence]] or AI has emerged as a significant tool and enhancement to organizational capability and has both positive and risk implications for [[Data Management]] and governance.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-and-artificial-intelligence?u=76281980&t=13)** It can seem that AI simply appeared overnight.
 >
 > **[0:16](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-and-artificial-intelligence?u=76281980&t=16)** In reality, AI has been an area of research and development since the 1950s.
 >
-> **[0:22](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-and-artificial-intelligence?u=76281980&t=22)** It's only now that we've reached the nexus of computing performance, storage, big data, networking, and sophisticated algorithms that AI has entered the mainstream in a big way.
+> **[0:22](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-and-artificial-intelligence?u=76281980&t=22)** It's only now that we've reached the nexus of computing performance, storage, [[Big Data]], networking, and sophisticated [[Algorithms]] that AI has entered the mainstream in a big way.
 >
-> **[0:36](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-and-artificial-intelligence?u=76281980&t=36)** Before I discuss the role of AI and data governance, let's establish a definition.
+> **[0:36](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-and-artificial-intelligence?u=76281980&t=36)** Before I discuss the role of AI and [[Data Governance]], let's establish a definition.
 >
 > **[0:41](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-and-artificial-intelligence?u=76281980&t=41)** The Merriam-Webster Dictionary defines AI as, "The capability of a machine to imitate intelligent human behavior."
 >
@@ -1192,7 +1177,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-and-artificial-intelligence?u=76281980&t=87)** Fortunately, AI has no problem with scale.
 >
-> **[1:31](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-and-artificial-intelligence?u=76281980&t=91)** It's beginning to play a significant role in data governance activities, including continuous monitoring, auditing, and regulatory compliance.
+> **[1:31](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-and-artificial-intelligence?u=76281980&t=91)** It's beginning to play a significant role in data governance activities, including [[Continuous Monitoring]], auditing, and [[Regulatory Compliance]].
 >
 > **[1:41](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-and-artificial-intelligence?u=76281980&t=101)** AI is identifying and automatically classifying data and flagging issues related to regulations, such as the European Union's General Data Protection Regulations or GDPR, fraudulent behavior, and prohibited employee activities.
 >
@@ -1214,13 +1199,13 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-and-artificial-intelligence?u=76281980&t=185)** For employees, AI is becoming a handy assistant in working with data.
 >
-> **[3:10](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-and-artificial-intelligence?u=76281980&t=190)** Beyond analytics, it's relevant in areas such as data modeling and managing data catalogs.
+> **[3:10](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-and-artificial-intelligence?u=76281980&t=190)** Beyond analytics, it's relevant in areas such as [[Data Modeling]] and managing data catalogs.
 >
 > **[3:17](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-and-artificial-intelligence?u=76281980&t=197)** Finally, data governance can provide oversight to the data ingested into AI and the output AI produces.
 >
 > **[3:26](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-and-artificial-intelligence?u=76281980&t=206)** Let's keep in mind on the adage, "Bad data in, bad data out."
 >
-> **[3:31](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-and-artificial-intelligence?u=76281980&t=211)** AI products need quality data to produce great results.
+> **[3:31](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-and-artificial-intelligence?u=76281980&t=211)** AI [[Microsoft Products|products]] need quality data to produce great results.
 >
 > **[3:35](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-and-artificial-intelligence?u=76281980&t=215)** Data governance can assure that AI does not misinterpret data or make conclusions that are biased, a major contemporary challenge with AI.
 >
@@ -1230,21 +1215,20 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-and-artificial-intelligence?u=76281980&t=240)** As AI expands its footprint in every organization, it will be a remarkable tool in data governance programs, including in the rising popularity of automation through data governance operations or DataGovOps.
 >
-> **[4:14](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-and-artificial-intelligence?u=76281980&t=254)** AI will add value to data quality, privacy, compliance efforts, cybersecurity, and more, and AI itself will also increase the need for data governance to ensure that data is used ethically in an AI context.
+> **[4:14](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-and-artificial-intelligence?u=76281980&t=254)** AI will add value to [[Data Quality]], [[Privacy]], compliance efforts, [[Cybersecurity]], and more, and AI itself will also increase the need for data governance to ensure that data is used ethically in an AI context.
 >
 > **[4:31](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-and-artificial-intelligence?u=76281980&t=271)** No doubt this topic will grow in its importance in the months and years ahead.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (28), ai (26), [[Big Data]] (2), [[Analytics]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Data Governance]] (9), [[Big Data]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Data Management]] (1), [[Algorithms]] (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** gdpr (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### The role of data governance in the Internet of Things
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-data-governance-in-the-internet-of-things?u=76281980)
+#### [The role of data governance in the Internet of Things](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-data-governance-in-the-internet-of-things?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1264,13 +1248,13 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-data-governance-in-the-internet-of-things?u=76281980&t=32)** The number of new devices being attached to the internet is projected to hit around 75 billion by 2025, and there's no upper limit.
 >
-> **[0:43](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-data-governance-in-the-internet-of-things?u=76281980&t=43)** These connected devices, what we're now calling the Internet of Things, or IoT, are being introduced into many aspects of society from connecting thermostats and doorbells in our homes to putting IoT sensors on factory machines and on traffic signals.
+> **[0:43](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-data-governance-in-the-internet-of-things?u=76281980&t=43)** These connected devices, what we're now calling the [[IoT|Internet of Things]], or [[IoT]], are being introduced into many aspects of society from connecting thermostats and doorbells in our homes to putting IoT sensors on factory machines and on traffic signals.
 >
 > **[1:01](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-data-governance-in-the-internet-of-things?u=76281980&t=61)** IoT devices are improving services and adding new functionality.
 >
 > **[1:05](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-data-governance-in-the-internet-of-things?u=76281980&t=65)** The scope of IoT isn't just limited to the devices.
 >
-> **[1:09](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-data-governance-in-the-internet-of-things?u=76281980&t=69)** It includes connectivity solutions, sensor technologies, machine learning, cloud computing, and control systems.
+> **[1:09](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-data-governance-in-the-internet-of-things?u=76281980&t=69)** It includes connectivity solutions, sensor technologies, machine learning, [[Cloud Computing]], and control systems.
 >
 > **[1:17](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-data-governance-in-the-internet-of-things?u=76281980&t=77)** It won't come as a surprise that the IoT is creating enormous volume, variety, and velocity of data.
 >
@@ -1278,15 +1262,15 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-data-governance-in-the-internet-of-things?u=76281980&t=89)** One zettabyte is a billion terabytes.
 >
-> **[1:33](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-data-governance-in-the-internet-of-things?u=76281980&t=93)** I think it's fair to conclude that IoT is a data management challenge.
+> **[1:33](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-data-governance-in-the-internet-of-things?u=76281980&t=93)** I think it's fair to conclude that IoT is a [[Data Management]] challenge.
 >
-> **[1:38](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-data-governance-in-the-internet-of-things?u=76281980&t=98)** This means it's also a topic highly relevant to data governance.
+> **[1:38](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-data-governance-in-the-internet-of-things?u=76281980&t=98)** This means it's also a topic highly relevant to [[Data Governance]].
 >
-> **[1:43](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-data-governance-in-the-internet-of-things?u=76281980&t=103)** Managing the significant volume of data produced by IoT devices in an organization requires attention to such areas as network performance, processing capabilities, data storage facilities, cybersecurity, and privacy.
+> **[1:43](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-data-governance-in-the-internet-of-things?u=76281980&t=103)** Managing the significant volume of data produced by IoT devices in an organization requires attention to such areas as network performance, processing capabilities, [[Data Storage]] facilities, [[Cybersecurity]], and [[Privacy]].
 >
 > **[2:00](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-data-governance-in-the-internet-of-things?u=76281980&t=120)** The scale and velocity in which IoT is producing data, which, by the way, will only increase in the years ahead, is putting duress on existing data management techniques.
 >
-> **[2:12](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-data-governance-in-the-internet-of-things?u=76281980&t=132)** This alone will be challenging enough, but organizations are also interested in IoT data quality and value.
+> **[2:12](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-data-governance-in-the-internet-of-things?u=76281980&t=132)** This alone will be challenging enough, but organizations are also interested in IoT [[Data Quality]] and value.
 >
 > **[2:21](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-data-governance-in-the-internet-of-things?u=76281980&t=141)** If collecting and managing IoT data is not resulting in business advantages, perhaps it shouldn't be collected in the first place.
 >
@@ -1314,11 +1298,11 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-data-governance-in-the-internet-of-things?u=76281980&t=216)** Identifying and managing the data from IoT such that dark data doesn't cloud the value of other IoT sources is important.
 >
-> **[3:45](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-data-governance-in-the-internet-of-things?u=76281980&t=225)** This includes lowering energy costs by avoiding unnecessary data processing.
+> **[3:45](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-data-governance-in-the-internet-of-things?u=76281980&t=225)** This includes lowering energy costs by avoiding unnecessary [[Data Processing]].
 >
 > **[3:51](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-data-governance-in-the-internet-of-things?u=76281980&t=231)** That's governance.
 >
-> **[3:53](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-data-governance-in-the-internet-of-things?u=76281980&t=233)** Part of the solution is achieved through system configuration, but it is increasingly demanding machine learning tools to help with identifying data that is valuable versus that which is not.
+> **[3:53](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-data-governance-in-the-internet-of-things?u=76281980&t=233)** Part of the solution is achieved through [[System Configuration]], but it is increasingly demanding machine learning tools to help with identifying data that is valuable versus that which is not.
 >
 > **[4:06](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-data-governance-in-the-internet-of-things?u=76281980&t=246)** Data governance will be the essential player in determining how to derive value from IoT data.
 >
@@ -1330,7 +1314,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (30), [[IoT]] (18), cloud (2), management (2), business (2)
+> **Frameworks & Libraries:** [[IoT]] (18), [[Data Governance]] (5), [[Data Management]] (2), [[Data Processing]] (2), [[IoT|Internet of things]] (1)
 > **Definitions:** is a  (2), is an  (1), we call this (1)
 > **Versions:** 4.6 (1), 4.4 (1)
 > **Analogies:** for example (1), such as (1)
@@ -1341,12 +1325,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data governance in compliance, privacy, and security
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-in-compliance-privacy-and-security?u=76281980)
+#### [Data governance in compliance, privacy, and security](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-in-compliance-privacy-and-security?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-in-compliance-privacy-and-security?u=76281980&t=0)** - Data governance activities and objectives are weighed heavily in favor of outcomes related to compliance and risk management.
+> **[0:00](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-in-compliance-privacy-and-security?u=76281980&t=0)** - [[Data Governance]] activities and objectives are weighed heavily in favor of outcomes related to compliance and risk management.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-in-compliance-privacy-and-security?u=76281980&t=9)** In fact, these areas are tightly integrated today in what is commonly referred to as governance, risk and compliance, or GRC.
 >
@@ -1364,9 +1347,9 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-in-compliance-privacy-and-security?u=76281980&t=63)** For example, managing health data in the United States is now highly regulated.
 >
-> **[1:10](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-in-compliance-privacy-and-security?u=76281980&t=70)** In the European Union, the General Data Protection Regulations or GDPR law of 2016 has strict requirements for how EU citizens data including privacy must be handled both within the union and in other countries.
+> **[1:10](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-in-compliance-privacy-and-security?u=76281980&t=70)** In the European Union, the General Data Protection Regulations or GDPR law of 2016 has strict requirements for how EU citizens data including [[Privacy]] must be handled both within the union and in other countries.
 >
-> **[1:27](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-in-compliance-privacy-and-security?u=76281980&t=87)** Risk refers to the probability of something bad happening.
+> **[1:27](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-in-compliance-privacy-and-security?u=76281980&t=87)** Risk refers to the [[Probability]] of something bad happening.
 >
 > **[1:31](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-in-compliance-privacy-and-security?u=76281980&t=91)** High risk means there's a high likelihood of some negative outcome.
 >
@@ -1374,9 +1357,9 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-in-compliance-privacy-and-security?u=76281980&t=98)** Risk management is the process of making and executing decisions that will minimize the negative effects of risk to an organization.
 >
-> **[1:47](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-in-compliance-privacy-and-security?u=76281980&t=107)** Data security and privacy are major examples of areas requiring risk management.
+> **[1:47](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-in-compliance-privacy-and-security?u=76281980&t=107)** [[Data Security]] and privacy are major examples of areas requiring risk management.
 >
-> **[1:54](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-in-compliance-privacy-and-security?u=76281980&t=114)** Poor cybersecurity, for example, elevates data risk.
+> **[1:54](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-in-compliance-privacy-and-security?u=76281980&t=114)** Poor [[Cybersecurity]], for example, elevates data risk.
 >
 > **[1:58](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-in-compliance-privacy-and-security?u=76281980&t=118)** Similarly, insufficient data controls can result in a loss of privacy.
 >
@@ -1418,7 +1401,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), management (3), [[Privacy]] (3), [[Security]] (2), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Data Governance]] (5), [[Privacy]] (3), [[Probability]] (1), [[Data Security]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** grc (13), gdpr (1)
 > **Definitions:** refers to (2), is a  (2), defined as (1)
 > **Analogies:** for example (3)
@@ -1426,12 +1409,11 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - data (1)
 
-#### Managing and maintaining data governance
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-governance-14224082/managing-and-maintaining-data-governance?u=76281980)
+#### [Managing and maintaining data governance](https://www.linkedin.com/learning/learning-data-governance-14224082/managing-and-maintaining-data-governance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-data-governance-14224082/managing-and-maintaining-data-governance?u=76281980&t=0)** - So the data governance program has been established.
+> **[0:00](https://www.linkedin.com/learning/learning-data-governance-14224082/managing-and-maintaining-data-governance?u=76281980&t=0)** - So the [[Data Governance]] program has been established.
 >
 > **[0:03](https://www.linkedin.com/learning/learning-data-governance-14224082/managing-and-maintaining-data-governance?u=76281980&t=3)** The basics are in place.
 >
@@ -1513,14 +1495,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), leadership (2), next (1), management (1)
+> **Frameworks & Libraries:** [[Data Governance]] (11)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Speakers:** - so (1)
 
-#### Monitoring and measuring your program
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-governance-14224082/monitoring-and-measuring-your-program?u=76281980)
+#### [Monitoring and measuring your program](https://www.linkedin.com/learning/learning-data-governance-14224082/monitoring-and-measuring-your-program?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1532,11 +1513,11 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/learning-data-governance-14224082/monitoring-and-measuring-your-program?u=76281980&t=17)** I encourage you to make it a priority.
 >
-> **[0:20](https://www.linkedin.com/learning/learning-data-governance-14224082/monitoring-and-measuring-your-program?u=76281980&t=20)** Data governance can be measured, both qualitatively and quantitatively.
+> **[0:20](https://www.linkedin.com/learning/learning-data-governance-14224082/monitoring-and-measuring-your-program?u=76281980&t=20)** [[Data Governance]] can be measured, both qualitatively and quantitatively.
 >
 > **[0:24](https://www.linkedin.com/learning/learning-data-governance-14224082/monitoring-and-measuring-your-program?u=76281980&t=24)** Overall, we want data governance to result in higher quality data related outcomes.
 >
-> **[0:31](https://www.linkedin.com/learning/learning-data-governance-14224082/monitoring-and-measuring-your-program?u=76281980&t=31)** These include increased competitiveness, better decision-making, less data errors, greater efficiencies, lower costs, and successful privacy, security, and compliance results.
+> **[0:31](https://www.linkedin.com/learning/learning-data-governance-14224082/monitoring-and-measuring-your-program?u=76281980&t=31)** These include increased competitiveness, better [[Decision-Making]], less data errors, greater efficiencies, lower costs, and successful [[Privacy]], security, and compliance results.
 >
 > **[0:45](https://www.linkedin.com/learning/learning-data-governance-14224082/monitoring-and-measuring-your-program?u=76281980&t=45)** For each, we can measure parameters related to people, process technology and data.
 >
@@ -1574,13 +1555,13 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/learning-data-governance-14224082/monitoring-and-measuring-your-program?u=76281980&t=130)** It may also help to identify further measures to reduce the number of required decisions, but ensure appropriate handling.
 >
-> **[2:19](https://www.linkedin.com/learning/learning-data-governance-14224082/monitoring-and-measuring-your-program?u=76281980&t=139)** As a negative, the number of decisions might mean our data management processes are creating too much unnecessary bureaucracy.
+> **[2:19](https://www.linkedin.com/learning/learning-data-governance-14224082/monitoring-and-measuring-your-program?u=76281980&t=139)** As a negative, the number of decisions might mean our [[Data Management]] processes are creating too much unnecessary bureaucracy.
 >
 > **[2:27](https://www.linkedin.com/learning/learning-data-governance-14224082/monitoring-and-measuring-your-program?u=76281980&t=147)** It's a metric that can help us create efficiencies by studying, why are so many decisions being required?
 >
 > **[2:35](https://www.linkedin.com/learning/learning-data-governance-14224082/monitoring-and-measuring-your-program?u=76281980&t=155)** Another metric is the time it takes to make decisions along the data life cycle.
 >
-> **[2:40](https://www.linkedin.com/learning/learning-data-governance-14224082/monitoring-and-measuring-your-program?u=76281980&t=160)** An organization that is trying to be more agile and is trying to get products and services more quickly out to the marketplace, will be interested in these metrics if it wants to identify areas where overhead can be reduced.
+> **[2:40](https://www.linkedin.com/learning/learning-data-governance-14224082/monitoring-and-measuring-your-program?u=76281980&t=160)** An organization that is trying to be more [[Agile Development|agile]] and is trying to get [[Microsoft Products|products]] and services more quickly out to the marketplace, will be interested in these metrics if it wants to identify areas where overhead can be reduced.
 >
 > **[2:54](https://www.linkedin.com/learning/learning-data-governance-14224082/monitoring-and-measuring-your-program?u=76281980&t=174)** Organizations should monitor and track metrics for data issues.
 >
@@ -1630,24 +1611,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (29), [[Security]] (2), [[Decision-Making]] (1), [[Privacy]] (1), management (1)
+> **Frameworks & Libraries:** [[Data Governance]] (7), [[Decision-Making]] (1), [[Privacy]] (1), [[Data Management]] (1), [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (5)
 > **Analogies:** for example (5)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - it (1)
 
-#### The role of the chief data officer
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-the-chief-data-officer?u=76281980)
+#### [The role of the chief data officer](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-the-chief-data-officer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-the-chief-data-officer?u=76281980&t=0)** - While acknowledging that all staff in an organization have responsibilities and data governance, data stewards, data owners, and the data governance board typically represent the key roles.
+> **[0:00](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-the-chief-data-officer?u=76281980&t=0)** - While acknowledging that all staff in an organization have responsibilities and [[Data Governance]], data stewards, data owners, and the data governance board typically represent the key roles.
 >
 > **[0:12](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-the-chief-data-officer?u=76281980&t=12)** But like with everything else in our rapidly transforming world, roles and responsibilities are evolving and new ones are being introduced.
 >
 > **[0:21](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-the-chief-data-officer?u=76281980&t=21)** Barely known just 10 years ago, the role of chief data officer or CDO is beginning to appear in a big way in the C-suite.
 >
-> **[0:30](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-the-chief-data-officer?u=76281980&t=30)** This new executive level position reflects the increasing role of data as an organizational asset and the recent emergence of data science as a mature, defined business function.
+> **[0:30](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-the-chief-data-officer?u=76281980&t=30)** This new executive level position reflects the increasing role of data as an organizational asset and the recent emergence of [[Data Science]] as a mature, defined business function.
 >
 > **[0:43](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-the-chief-data-officer?u=76281980&t=43)** Unquestionably too, the CDO is beginning to be viewed as the organizational leader of data governance.
 >
@@ -1665,9 +1645,9 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-the-chief-data-officer?u=76281980&t=97)** What we can say is that the CDO role is quickly consolidating oversight for a wide range of data-related functions and helping to elevate the business value of data.
 >
-> **[1:48](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-the-chief-data-officer?u=76281980&t=108)** These include data management, data quality, and data strategy.
+> **[1:48](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-the-chief-data-officer?u=76281980&t=108)** These include [[Data Management]], [[Data Quality]], and data strategy.
 >
-> **[1:53](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-the-chief-data-officer?u=76281980&t=113)** Areas such as data analytics and business intelligence will likely be decided on a per organization basis.
+> **[1:53](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-the-chief-data-officer?u=76281980&t=113)** Areas such as data analytics and [[Business Intelligence (BI)|business intelligence]] will likely be decided on a per organization basis.
 >
 > **[2:01](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-the-chief-data-officer?u=76281980&t=121)** There's little doubt however that the CDO is assuming the leadership position for the data governance function.
 >
@@ -1689,7 +1669,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-the-chief-data-officer?u=76281980&t=169)** That said, there's a lot of value to CDO who understands data science and more than just the fundamentals of contemporary technology.
 >
-> **[2:58](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-the-chief-data-officer?u=76281980&t=178)** Solid knowledge of privacy issues, regulations, and cybersecurity will be important considerations.
+> **[2:58](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-the-chief-data-officer?u=76281980&t=178)** Solid knowledge of [[Privacy Issues]], regulations, and [[Cybersecurity]] will be important considerations.
 >
 > **[3:05](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-the-chief-data-officer?u=76281980&t=185)** As a senior executive, the CDO must be innovative, be an influencer, have great people skills, and be someone who can lead.
 >
@@ -1701,7 +1681,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-the-chief-data-officer?u=76281980&t=216)** These expectations almost invariably fail to deliver.
 >
-> **[3:40](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-the-chief-data-officer?u=76281980&t=220)** In today's business environment, team collaboration, data prioritization, financial and time investment, and cross department leadership are all vitally important for success.
+> **[3:40](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-the-chief-data-officer?u=76281980&t=220)** In today's business environment, [[Team Collaboration]], data prioritization, financial and time investment, and cross department leadership are all vitally important for success.
 >
 > **[3:53](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-the-chief-data-officer?u=76281980&t=233)** The emergence of the chief data officer executive position is further proof of the growth and importance of good data management and governance.
 >
@@ -1711,7 +1691,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), business (6), leadership (3), management (2), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Data Governance]] (4), [[Data Science]] (2), [[Data Management]] (2), [[Data Quality]] (1), [[Business Intelligence (BI)|Business intelligence]] (1)
 > **Env Vars:** cdo (14)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** make (1)
@@ -1722,18 +1702,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The value of data governance
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-governance-14224082/the-value-of-data-governance?u=76281980)
+#### [The value of data governance](https://www.linkedin.com/learning/learning-data-governance-14224082/the-value-of-data-governance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-data-governance-14224082/the-value-of-data-governance?u=76281980&t=0)** - Data governance is a complex and important capability for most organizations.
+> **[0:00](https://www.linkedin.com/learning/learning-data-governance-14224082/the-value-of-data-governance?u=76281980&t=0)** - [[Data Governance]] is a complex and important capability for most organizations.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-data-governance-14224082/the-value-of-data-governance?u=76281980&t=6)** With data now playing a central role in helping to support business success, now is the time to initiate the deployment of data governance, or build on the efforts that may already be in place.
 >
-> **[0:19](https://www.linkedin.com/learning/learning-data-governance-14224082/the-value-of-data-governance?u=76281980&t=19)** Data governance helps us to achieve much better outcomes with data management work.
+> **[0:19](https://www.linkedin.com/learning/learning-data-governance-14224082/the-value-of-data-governance?u=76281980&t=19)** Data governance helps us to achieve much better outcomes with [[Data Management]] work.
 >
-> **[0:25](https://www.linkedin.com/learning/learning-data-governance-14224082/the-value-of-data-governance?u=76281980&t=25)** It puts in place agreed policies and procedures with identified accountability.
+> **[0:25](https://www.linkedin.com/learning/learning-data-governance-14224082/the-value-of-data-governance?u=76281980&t=25)** It puts in place agreed policies and procedures with identified [[Accountability]].
 >
 > **[0:31](https://www.linkedin.com/learning/learning-data-governance-14224082/the-value-of-data-governance?u=76281980&t=31)** It defines formal decision structures over data, and it establishes enforcement rules.
 >
@@ -1741,7 +1720,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/learning-data-governance-14224082/the-value-of-data-governance?u=76281980&t=42)** But its absence is all too often noticed.
 >
-> **[0:46](https://www.linkedin.com/learning/learning-data-governance-14224082/the-value-of-data-governance?u=76281980&t=46)** Without good data governance, there can be a variety of big and small data management failures in the organization, including serious legal and regulatory compliance challenges, and cybersecurity and privacy breaches.
+> **[0:46](https://www.linkedin.com/learning/learning-data-governance-14224082/the-value-of-data-governance?u=76281980&t=46)** Without good data governance, there can be a variety of big and small data management failures in the organization, including serious legal and [[Regulatory Compliance]] challenges, and [[Cybersecurity]] and [[Privacy]] breaches.
 >
 > **[1:03](https://www.linkedin.com/learning/learning-data-governance-14224082/the-value-of-data-governance?u=76281980&t=63)** If you've enjoyed this course and want to continue to learn more and go even deeper, look to the Data Governance Institute, and ISACA for examples as resources for additional learning opportunities.
 >
@@ -1763,7 +1742,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), management (2), [[Cybersecurity]] (2), business (1), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Data Governance]] (9), [[Data Management]] (2), [[Cybersecurity]] (2), [[Accountability]] (1), [[Regulatory Compliance]] (1)
 > **Env Vars:** isaca (1), grc (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - data (1)

@@ -90,8 +90,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to the course
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/introduction-to-the-course?u=76281980)
+#### [Introduction to the course](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/introduction-to-the-course?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -103,11 +102,11 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/introduction-to-the-course?u=76281980&t=19)** My name is Fawad Qureshi and I've been working in the cloud data analytics space for two decades.
 >
-> **[0:24](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/introduction-to-the-course?u=76281980&t=24)** Sustainability, at its core, is a problem which can be solved through better access to data.
+> **[0:24](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/introduction-to-the-course?u=76281980&t=24)** [[Sustainability]], at its core, is a problem which can be solved through better access to data.
 >
 > **[0:30](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/introduction-to-the-course?u=76281980&t=30)** In my course, we'll begin with an introduction to sustainability concepts.
 >
-> **[0:33](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/introduction-to-the-course?u=76281980&t=33)** We'll cover the key regulations and then we will talk about how Microsoft Cloud for Sustainability offers different solutions to cover your ESG needs.
+> **[0:33](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/introduction-to-the-course?u=76281980&t=33)** We'll cover the key regulations and then we will talk about how [[Microsoft]] Cloud for Sustainability offers different solutions to cover your ESG needs.
 >
 > **[0:40](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/introduction-to-the-course?u=76281980&t=40)** At the end of the course, I'll show you how you can use the Microsoft Cloud for sustainability to develop your own journey.
 >
@@ -115,7 +114,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (4), cloud (3), data (2), [[Microsoft]] (2), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Sustainability]] (4), [[Microsoft]] (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** esg (1)
 > **Definitions:** is a  (1)
@@ -127,8 +126,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Who cares wins
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/who-cares-wins?u=76281980)
+#### [Who cares wins](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/who-cares-wins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -147,8 +145,7 @@ created: 2026-05-02
 > **Env Vars:** esg (3)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding carbon emissions
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/understanding-carbon-emissions?u=76281980)
+#### [Understanding carbon emissions](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/understanding-carbon-emissions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -172,11 +169,11 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/understanding-carbon-emissions?u=76281980&t=38)** These include all indirect emissions not included in scope two that occur in the value chain of the reporting company, including both upstream and downstream emissions.
 >
-> **[0:48](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/understanding-carbon-emissions?u=76281980&t=48)** Examples include production of purchase products, transportation of purchase products, or use of sold products.
+> **[0:48](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/understanding-carbon-emissions?u=76281980&t=48)** Examples include production of purchase [[Microsoft Products|products]], transportation of purchase products, or use of sold products.
 >
 > **[0:55](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/understanding-carbon-emissions?u=76281980&t=55)** Scope three emissions are generally considered to be more than 80% of a company's total carbon footprint.
 >
-> **[1:00](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/understanding-carbon-emissions?u=76281980&t=60)** Now that you understand the main scopes of emissions, let's discuss some of the key regulations around ESG sustainability.
+> **[1:00](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/understanding-carbon-emissions?u=76281980&t=60)** Now that you understand the main scopes of emissions, let's discuss some of the key regulations around ESG [[Sustainability]].
 
 > [!info]- Semantic Content
 >
@@ -185,8 +182,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Key sustainability regulations
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/key-sustainability-regulations?u=76281980)
+#### [Key sustainability regulations](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/key-sustainability-regulations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -212,24 +208,23 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/key-sustainability-regulations?u=76281980&t=68)** What are some of the more interesting or thought provoking suggestions you see there?
 >
-> **[1:12](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/key-sustainability-regulations?u=76281980&t=72)** Now that we have discussed some of the key sustainability regulations, let's talk about a key financial concept called longtermism.
+> **[1:12](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/key-sustainability-regulations?u=76281980&t=72)** Now that we have discussed some of the key [[Sustainability]] regulations, let's talk about a key financial concept called longtermism.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), product (1), [[Sustainability]] (1)
+> **Frameworks & Libraries:** [[Sustainability]] (1)
 > **Env Vars:** esg (3), csrd (1), sfdr (1), sec (1), sebi (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Focusing on long-termism vs. short-termism
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/focusing-on-long-termism-vs-short-termism?u=76281980)
+#### [Focusing on long-termism vs. short-termism](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/focusing-on-long-termism-vs-short-termism?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/focusing-on-long-termism-vs-short-termism?u=76281980&t=0)** - [Instructor] So what is the difference between short-termism versus long-termism?
 >
-> **[0:03](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/focusing-on-long-termism-vs-short-termism?u=76281980&t=3)** Well, sustainability forces companies to think about their long-term strategy rather than their short-term business goals.
+> **[0:03](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/focusing-on-long-termism-vs-short-termism?u=76281980&t=3)** Well, [[Sustainability]] forces companies to think about their long-term strategy rather than their short-term business goals.
 >
 > **[0:10](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/focusing-on-long-termism-vs-short-termism?u=76281980&t=10)** When you have a short-term mindset, you end up with a disproportionate focus on quarterly returns.
 >
@@ -253,11 +248,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), [[Sustainability]] (3)
+> **Frameworks & Libraries:** [[Sustainability]] (3)
 > **Speakers:** - [instructor] (1)
 
-#### Sustainability challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/sustainability-challenges?u=76281980)
+#### [Sustainability challenges](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/sustainability-challenges?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -267,11 +261,11 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/sustainability-challenges?u=76281980&t=5)** ESG research has indicated that the generation of long-term sustainable returns is dependent on stable, well-functioning, and well-governed social, environmental, and economic systems.
 >
-> **[0:16](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/sustainability-challenges?u=76281980&t=16)** This is the term called triple bottom line, coined by business writer John Elkington.
+> **[0:16](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/sustainability-challenges?u=76281980&t=16)** This is the term called triple bottom line, coined by business writer [[John the Ripper|John]] Elkington.
 >
 > **[0:20](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/sustainability-challenges?u=76281980&t=20)** The writer expressed in 1994 that the company should think about three P's, people, planet, and profit, not just profit alone.
 >
-> **[0:28](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/sustainability-challenges?u=76281980&t=28)** As we discussed at the start of this course, sustainability at its core is a data challenge.
+> **[0:28](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/sustainability-challenges?u=76281980&t=28)** As we discussed at the start of this course, [[Sustainability]] at its core is a data challenge.
 >
 > **[0:33](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/sustainability-challenges?u=76281980&t=33)** In order to start covering for other P's, we need better access to data, which is not within the internal systems of an organization.
 >
@@ -281,13 +275,13 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/sustainability-challenges?u=76281980&t=56)** The problem is that most ERP systems of the companies have data about their direct suppliers only, but not of the companies who are supplying their suppliers.
 >
-> **[1:05](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/sustainability-challenges?u=76281980&t=65)** This is exactly the problem that Microsoft Cloud for Sustainability sets out to solve.
+> **[1:05](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/sustainability-challenges?u=76281980&t=65)** This is exactly the problem that [[Microsoft]] Cloud for Sustainability sets out to solve.
 >
 > **[1:10](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/sustainability-challenges?u=76281980&t=70)** Now that we have covered different challenges in the sustainability space, let's discuss how Microsoft Cloud for Sustainability can address these challenges.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (4), data (3), [[Microsoft]] (2), cloud (2), business (1)
+> **Frameworks & Libraries:** [[Sustainability]] (4), [[Microsoft]] (2), [[John the Ripper|John]] (1)
 > **Env Vars:** esg (1), erp (1)
 > **Cross-References:** we discussed (1)
 > **Definitions:** is a  (1)
@@ -298,12 +292,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are Microsoft Sustainability Solutions?
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-are-microsoft-sustainability-solutions?u=76281980)
+#### [What are Microsoft Sustainability Solutions?](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-are-microsoft-sustainability-solutions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-are-microsoft-sustainability-solutions?u=76281980&t=0)** - [Instructor] Microsoft Cloud for Sustainability is an overarching term for a growing set of ESG capabilities from Microsoft and their ecosystem of partners.
+> **[0:00](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-are-microsoft-sustainability-solutions?u=76281980&t=0)** - [Instructor] [[Microsoft]] Cloud for [[Sustainability]] is an overarching term for a growing set of ESG capabilities from Microsoft and their ecosystem of partners.
 >
 > **[0:08](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-are-microsoft-sustainability-solutions?u=76281980&t=8)** These services will help organization accelerate their sustainability progress and business growth.
 >
@@ -319,7 +312,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-are-microsoft-sustainability-solutions?u=76281980&t=38)** Number two, Report.
 >
-> **[0:39](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-are-microsoft-sustainability-solutions?u=76281980&t=39)** This feature helps build analytical reports and dashboards on the data collected for informed decision making.
+> **[0:39](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-are-microsoft-sustainability-solutions?u=76281980&t=39)** This feature helps build analytical reports and [[Dashboards]] on the data collected for informed decision making.
 >
 > **[0:45](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-are-microsoft-sustainability-solutions?u=76281980&t=45)** Number three and four, Reduce and Replace.
 >
@@ -335,13 +328,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (4), [[Microsoft]] (3), cloud (2), data (2), business (1)
+> **Frameworks & Libraries:** [[Sustainability]] (4), [[Microsoft]] (3), [[Dashboards]] (1)
 > **Env Vars:** esg (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### What are the benefits of using Microsoft Sustainability Solutions?
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-are-the-benefits-of-using-microsoft-sustainability-solutions?u=76281980)
+#### [What are the benefits of using Microsoft Sustainability Solutions?](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-are-the-benefits-of-using-microsoft-sustainability-solutions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -349,13 +341,13 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-are-the-benefits-of-using-microsoft-sustainability-solutions?u=76281980&t=5)** Just like financial accounting, carbon accounting requires full transparency and an audit trail.
 >
-> **[0:11](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-are-the-benefits-of-using-microsoft-sustainability-solutions?u=76281980&t=11)** The Microsoft Sustainability Solutions enable organization to build provenance and lineage into their sustainability reporting.
+> **[0:11](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-are-the-benefits-of-using-microsoft-sustainability-solutions?u=76281980&t=11)** The [[Microsoft]] [[Sustainability]] Solutions enable organization to build provenance and lineage into their sustainability reporting.
 >
 > **[0:17](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-are-the-benefits-of-using-microsoft-sustainability-solutions?u=76281980&t=17)** The solution benefits organizations in four different areas.
 >
 > **[0:20](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-are-the-benefits-of-using-microsoft-sustainability-solutions?u=76281980&t=20)** Let's take a look.
 >
-> **[0:22](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-are-the-benefits-of-using-microsoft-sustainability-solutions?u=76281980&t=22)** Number one, enable ESG data intelligence: Streamline data ingestion, integrations, and calculations.
+> **[0:22](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-are-the-benefits-of-using-microsoft-sustainability-solutions?u=76281980&t=22)** Number one, enable ESG data intelligence: Streamline [[Data Ingestion]], integrations, and calculations.
 >
 > **[0:29](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-are-the-benefits-of-using-microsoft-sustainability-solutions?u=76281980&t=29)** Establish a baseline with the ability to track progress against goals.
 >
@@ -373,11 +365,11 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-are-the-benefits-of-using-microsoft-sustainability-solutions?u=76281980&t=66)** Number three, improve ESG performance: Optimize the performance of your operations and assets.
 >
-> **[1:11](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-are-the-benefits-of-using-microsoft-sustainability-solutions?u=76281980&t=71)** Use sensor-enabled data management and automated scenarios.
+> **[1:11](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-are-the-benefits-of-using-microsoft-sustainability-solutions?u=76281980&t=71)** Use sensor-enabled [[Data Management]] and automated scenarios.
 >
 > **[1:15](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-are-the-benefits-of-using-microsoft-sustainability-solutions?u=76281980&t=75)** Reduce the environmental impact of fleets and transportation.
 >
-> **[1:19](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-are-the-benefits-of-using-microsoft-sustainability-solutions?u=76281980&t=79)** Promote transparency and accountability through your value chain.
+> **[1:19](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-are-the-benefits-of-using-microsoft-sustainability-solutions?u=76281980&t=79)** Promote transparency and [[Accountability]] through your value chain.
 >
 > **[1:23](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-are-the-benefits-of-using-microsoft-sustainability-solutions?u=76281980&t=83)** Number four, monitor and mitigate ESG risks: Invest in innovation to help you prepare for the future.
 >
@@ -385,7 +377,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-are-the-benefits-of-using-microsoft-sustainability-solutions?u=76281980&t=100)** Predict demand and optimize inventories and logistics.
 >
-> **[1:43](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-are-the-benefits-of-using-microsoft-sustainability-solutions?u=76281980&t=103)** Use data and AI solutions such as IoT, digital twins, and high-performance compute to inform new sustainable products, services, and business models.
+> **[1:43](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-are-the-benefits-of-using-microsoft-sustainability-solutions?u=76281980&t=103)** Use data and [[AI Solutions]] such as [[IoT]], digital twins, and high-performance compute to inform new sustainable [[Microsoft Products|products]], services, and business models.
 >
 > **[1:51](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-are-the-benefits-of-using-microsoft-sustainability-solutions?u=76281980&t=111)** Identify opportunities to create efficiencies and build resilience by revamping business practices.
 >
@@ -393,7 +385,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (6), data (6), business (5), [[Microsoft]] (3), ai (3)
+> **Frameworks & Libraries:** [[Sustainability]] (6), [[Microsoft]] (3), [[Data Ingestion]] (1), [[Data Management]] (1), [[Accountability]] (1)
 > **Env Vars:** esg (3)
 > **Analogies:** just like (1), such as (1)
 > **CLI Commands:** find (1)
@@ -404,18 +396,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The need for data models
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/the-need-for-data-models?u=76281980)
+#### [The need for data models](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/the-need-for-data-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/the-need-for-data-models?u=76281980&t=0)** - [Instructor] Let's talk about data modeling.
+> **[0:00](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/the-need-for-data-models?u=76281980&t=0)** - [Instructor] Let's talk about [[Data Modeling]].
 >
-> **[0:02](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/the-need-for-data-models?u=76281980&t=2)** Data modeling is the process of diagramming data flows.
+> **[0:02](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/the-need-for-data-models?u=76281980&t=2)** Data modeling is the process of [[Diagramming]] data flows.
 >
-> **[0:05](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/the-need-for-data-models?u=76281980&t=5)** It brings a much needed structure and consistency to the process of data collection and organization.
+> **[0:05](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/the-need-for-data-models?u=76281980&t=5)** It brings a much needed structure and consistency to the process of [[Data Collection]] and organization.
 >
-> **[0:11](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/the-need-for-data-models?u=76281980&t=11)** An ESG data model can bring the same clarity and structure to the complex world of ESG data integration.
+> **[0:11](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/the-need-for-data-models?u=76281980&t=11)** An ESG data model can bring the same clarity and structure to the complex world of ESG [[Data Integration]].
 >
 > **[0:16](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/the-need-for-data-models?u=76281980&t=16)** Data models provide a structure on which data can be streamlined and map data to set appropriate goals and measure them on targets.
 >
@@ -423,20 +414,19 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/the-need-for-data-models?u=76281980&t=28)** The organizations can easily comply with different ESG regulation by creating templates on top of the data model.
 >
-> **[0:34](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/the-need-for-data-models?u=76281980&t=34)** Now that we understand the need for an ESG data model, let's discuss the Microsoft's offering in this space.
+> **[0:34](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/the-need-for-data-models?u=76281980&t=34)** Now that we understand the need for an ESG data model, let's discuss the [[Microsoft]]'s offering in this space.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Diagramming]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Data Modeling]] (2), [[Diagramming]] (1), [[Data Collection]] (1), [[Data Integration]] (1), [[Microsoft]] (1)
 > **Env Vars:** esg (4)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft Cloud for Sustainability model
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/microsoft-cloud-for-sustainability-model?u=76281980)
+#### [Microsoft Cloud for Sustainability model](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/microsoft-cloud-for-sustainability-model?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/microsoft-cloud-for-sustainability-model?u=76281980&t=0)** - [Presenter] Microsoft Cloud for Sustainability data model is the foundation for Microsoft Cloud for Sustainability built on top of the Microsoft Common Data Model, but can also be used independently by independent software vendors and customers for building additional sustainability solution on non-Microsoft technologies.
+> **[0:00](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/microsoft-cloud-for-sustainability-model?u=76281980&t=0)** - [Presenter] [[Microsoft]] Cloud for [[Sustainability]] data model is the foundation for Microsoft Cloud for Sustainability built on top of the Microsoft Common Data Model, but can also be used independently by independent software vendors and customers for building additional sustainability solution on non-Microsoft technologies.
 >
 > **[0:14](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/microsoft-cloud-for-sustainability-model?u=76281980&t=14)** Currently, it covers carbon emissions, water, and waste data model.
 >
@@ -446,7 +436,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/microsoft-cloud-for-sustainability-model?u=76281980&t=27)** Let's have a look.
 >
-> **[0:28](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/microsoft-cloud-for-sustainability-model?u=76281980&t=28)** Number one, data ingestion.
+> **[0:28](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/microsoft-cloud-for-sustainability-model?u=76281980&t=28)** Number one, [[Data Ingestion]].
 >
 > **[0:30](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/microsoft-cloud-for-sustainability-model?u=76281980&t=30)** These are details of data connections for prominence.
 >
@@ -488,13 +478,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[Sustainability]] (13), cloud (6), [[Microsoft]] (5), functional (1)
+> **Frameworks & Libraries:** [[Sustainability]] (13), [[Microsoft]] (5), [[Data Ingestion]] (1)
 > **Analogies:** such as (4)
 > **Env Vars:** esg (2)
 > **Speakers:** - [presenter] (1)
 
-#### Project ESG Lake
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/project-esg-lake?u=76281980)
+#### [Project ESG Lake](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/project-esg-lake?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -502,25 +491,25 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/project-esg-lake?u=76281980&t=7)** Project ESG Lake provides the following capabilities.
 >
-> **[0:10](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/project-esg-lake?u=76281980&t=10)** Bring calculated emissions data from Microsoft Sustainability Manager or other third-party solutions into your ESG data estate.
+> **[0:10](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/project-esg-lake?u=76281980&t=10)** Bring calculated emissions data from [[Microsoft]] [[Sustainability]] Manager or other third-party solutions into your ESG data estate.
 >
-> **[0:17](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/project-esg-lake?u=76281980&t=17)** Integrate your organization's Microsoft-based emissions related to your usage of Microsoft Azure and Microsoft 365 into your ESG data estate.
+> **[0:17](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/project-esg-lake?u=76281980&t=17)** Integrate your organization's Microsoft-based emissions related to your usage of [[Microsoft Azure]] and [[Microsoft 365]] into your ESG data estate.
 >
-> **[0:26](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/project-esg-lake?u=76281980&t=26)** Further enrich your data by using external datasets that are offered through Project ESG Lake across various sustainability categories, including biodiversity, climate risk, energy, and ESG.
+> **[0:26](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/project-esg-lake?u=76281980&t=26)** Further enrich your data by using external datasets that are offered through Project ESG Lake across various sustainability categories, including [[Biodiversity]], climate risk, energy, and ESG.
 >
 > **[0:36](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/project-esg-lake?u=76281980&t=36)** Use standardized ESG data in Project ESG Lake in Microsoft Fabric.
 >
-> **[0:41](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/project-esg-lake?u=76281980&t=41)** Fabric is an end-to-end unified analytics platform that lets you use the power of generative AI against your data and glean meaningful insight from your data.
+> **[0:41](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/project-esg-lake?u=76281980&t=41)** Fabric is an end-to-end unified analytics platform that lets you use the power of [[Generative AI]] against your data and glean meaningful insight from your data.
 >
-> **[0:49](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/project-esg-lake?u=76281980&t=49)** Associate aggregated and standardized ESG data in Project ESG Lake to a set of Power BI reporting templates aligned to ESG data models.
+> **[0:49](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/project-esg-lake?u=76281980&t=49)** Associate aggregated and standardized ESG data in Project ESG Lake to a set of [[Microsoft Power BI|Power BI]] reporting templates aligned to ESG data models.
 >
-> **[0:57](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/project-esg-lake?u=76281980&t=57)** And lastly, connect your standardized ESG data to reporting templates that are aligned to corporate sustainability reporting directive CSRD, to accelerate the creation of insights and reports for CSRD Matrix.
+> **[0:57](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/project-esg-lake?u=76281980&t=57)** And lastly, connect your standardized ESG data to reporting templates that are aligned to [[Corporate Sustainability]] reporting directive CSRD, to accelerate the creation of insights and reports for CSRD Matrix.
 >
 > **[1:09](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/project-esg-lake?u=76281980&t=69)** Now that you have learned about the Project ESG Lake, let's deep dive into Microsoft Sustainability Manager.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Microsoft]] (4), [[Sustainability]] (3), power (2), [[Microsoft Azure]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (4), [[Sustainability]] (3), [[Microsoft Azure]] (1), [[Microsoft 365]] (1), [[Biodiversity]] (1)
 > **Env Vars:** esg (13), csrd (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -530,20 +519,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Microsoft Sustainability Manager?
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-is-microsoft-sustainability-manager?u=76281980)
+#### [What is Microsoft Sustainability Manager?](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-is-microsoft-sustainability-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-is-microsoft-sustainability-manager?u=76281980&t=0)** - [Instructor] Microsoft Sustainability Manager focuses on the first two pillars of the entire ESG process.
+> **[0:00](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-is-microsoft-sustainability-manager?u=76281980&t=0)** - [Instructor] [[Microsoft]] [[Sustainability]] Manager focuses on the first two pillars of the entire ESG process.
 >
 > **[0:04](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-is-microsoft-sustainability-manager?u=76281980&t=4)** That is Record and Report with some focus on Reduction as well.
 >
-> **[0:08](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-is-microsoft-sustainability-manager?u=76281980&t=8)** With Microsoft Sustainability Manager, organizations can gain continuous visibility into their emissions activities and reliably report impact in near real-time.
+> **[0:08](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-is-microsoft-sustainability-manager?u=76281980&t=8)** With Microsoft Sustainability Manager, organizations can gain continuous visibility into their emissions activities and reliably report impact in near [[Real-Time]].
 >
 > **[0:17](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-is-microsoft-sustainability-manager?u=76281980&t=17)** Additionally, it allows organizations to assess the intelligence that's required to collaborate with others in order to refine and scale sustainability initiatives and transform their business end to end.
 >
-> **[0:27](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-is-microsoft-sustainability-manager?u=76281980&t=27)** For the Record Stage, you can use it to automate data collection, break down data silos, calculate emissions more accurately across scopes.
+> **[0:27](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-is-microsoft-sustainability-manager?u=76281980&t=27)** For the Record Stage, you can use it to automate [[Data Collection]], break down data silos, calculate emissions more accurately across scopes.
 >
 > **[0:36](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-is-microsoft-sustainability-manager?u=76281980&t=36)** For the Report Stage, you can use it to visualize your impact, track your performance against goals, gain actionable insights, and streamline reporting.
 >
@@ -553,17 +541,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (6), [[Microsoft]] (3), data (2), [[Real-Time]] (1), business (1)
+> **Frameworks & Libraries:** [[Sustainability]] (6), [[Microsoft]] (3), [[Real-Time]] (1), [[Data Collection]] (1)
 > **Env Vars:** esg (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### What are the solution focus areas?
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-are-the-solution-focus-areas?u=76281980)
+#### [What are the solution focus areas?](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-are-the-solution-focus-areas?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-are-the-solution-focus-areas?u=76281980&t=0)** - [Instructor] The key solution focus areas for sustainability manager and what different professionals within your organization will be prioritizing are the following, number one, organization setup, number two, data ingestion, number three, emission calculations, number four, insights and reporting, and number five, goals and scorecard.
+> **[0:00](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-are-the-solution-focus-areas?u=76281980&t=0)** - [Instructor] The key solution focus areas for [[Sustainability]] manager and what different professionals within your organization will be prioritizing are the following, number one, organization setup, number two, [[Data Ingestion]], number three, emission calculations, number four, insights and reporting, and number five, goals and scorecard.
 >
 > **[0:16](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-are-the-solution-focus-areas?u=76281980&t=16)** Organization setup and data ingestion can be of interest to IT-focused professionals.
 >
@@ -577,12 +564,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Sustainability]] (2), business (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Sustainability]] (2), [[Data Ingestion]] (2)
 > **Prerequisites:** setup (2)
 > **Speakers:** - [instructor] (1)
 
-#### How to use Microsoft Sustainability Manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/how-to-use-microsoft-sustainability-manager?u=76281980)
+#### [How to use Microsoft Sustainability Manager](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/how-to-use-microsoft-sustainability-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -590,9 +576,9 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/how-to-use-microsoft-sustainability-manager?u=76281980&t=3)** Understanding this level of detail will help you create a blueprint for the organization in the solution.
 >
-> **[0:09](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/how-to-use-microsoft-sustainability-manager?u=76281980&t=9)** Microsoft Sustainability Manager supports a wide variety of sources from which you can automatically integrate your business data.
+> **[0:09](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/how-to-use-microsoft-sustainability-manager?u=76281980&t=9)** [[Microsoft]] [[Sustainability]] Manager supports a wide variety of sources from which you can automatically integrate your business data.
 >
-> **[0:15](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/how-to-use-microsoft-sustainability-manager?u=76281980&t=15)** Data ingestion includes identifying the various sources that generate emissions, and then connecting the data sources.
+> **[0:15](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/how-to-use-microsoft-sustainability-manager?u=76281980&t=15)** [[Data Ingestion]] includes identifying the various sources that generate emissions, and then connecting the data sources.
 >
 > **[0:21](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/how-to-use-microsoft-sustainability-manager?u=76281980&t=21)** In this step, you will determine the different scopes and activities that contribute to your organization's emissions.
 >
@@ -624,13 +610,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Sustainability]] (5), business (3), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Sustainability]] (5), [[Microsoft]] (1), [[Data Ingestion]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** epa (1)
 > **Speakers:** - [instructor] (1)
 
-#### ESG value chain
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/esg-value-chain?u=76281980)
+#### [ESG value chain](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/esg-value-chain?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -646,7 +631,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/esg-value-chain?u=76281980&t=24)** The ESG value chain solution consists of two main components that you can use together to gather your value chain data.
 >
-> **[0:31](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/esg-value-chain?u=76281980&t=31)** Number one, a value chain data hub within Microsoft Sustainability Manager, where you can initiate invitations and service for your suppliers and view the data that you receive from them.
+> **[0:31](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/esg-value-chain?u=76281980&t=31)** Number one, a value chain data hub within [[Microsoft]] [[Sustainability]] Manager, where you can initiate invitations and service for your suppliers and view the data that you receive from them.
 >
 > **[0:40](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/esg-value-chain?u=76281980&t=40)** Number two, a Power Pages portal template that you can use to request data directly from your suppliers.
 >
@@ -656,7 +641,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Sustainability]] (3), business (2), [[Microsoft]] (2), power (2)
+> **Frameworks & Libraries:** [[Sustainability]] (3), [[Microsoft]] (2)
 > **Env Vars:** esg (3)
 > **Definitions:** is a  (2)
 > **Exercise Files:** template (1)
@@ -667,8 +652,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Microsoft Purview compliance manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/microsoft-purview-compliance-manager?u=76281980)
+#### [Microsoft Purview compliance manager](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/microsoft-purview-compliance-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -690,7 +674,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/microsoft-purview-compliance-manager?u=76281980&t=38)** Number three, detailed step-by-step guidance on suggested improvement action to help you comply with the standards and regulations that are most relevant for your organization.
 >
-> **[0:48](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/microsoft-purview-compliance-manager?u=76281980&t=48)** For actions that are managed by Microsoft, you will see implementation details and audit results.
+> **[0:48](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/microsoft-purview-compliance-manager?u=76281980&t=48)** For actions that are managed by [[Microsoft]], you will see implementation details and audit results.
 >
 > **[0:54](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/microsoft-purview-compliance-manager?u=76281980&t=54)** Number four, a risk-based compliance score to help you understand your compliance posture by measuring your progress in completing improvement actions.
 >
@@ -698,19 +682,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1)
 > **Env Vars:** esg (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### CSRD template in Microsoft Purview
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/csrd-template-in-microsoft-purview?u=76281980)
+#### [CSRD template in Microsoft Purview](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/csrd-template-in-microsoft-purview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/csrd-template-in-microsoft-purview?u=76281980&t=0)** - [Instructor] In April 2021, the European Commission adopted a legislative proposal for Corporate Sustainability Reporting Directive, CSRD.
+> **[0:00](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/csrd-template-in-microsoft-purview?u=76281980&t=0)** - [Instructor] In April 2021, the European Commission adopted a legislative proposal for [[Corporate Sustainability]] Reporting Directive, CSRD.
 >
-> **[0:07](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/csrd-template-in-microsoft-purview?u=76281980&t=7)** The directive requires companies within its scope to report on environmental, social, and governance matters, using a double-materiality perspective in compliance with European Sustainability Reporting Standards, ESRS.
+> **[0:07](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/csrd-template-in-microsoft-purview?u=76281980&t=7)** The directive requires companies within its scope to report on environmental, social, and governance matters, using a double-materiality perspective in compliance with European [[Sustainability]] Reporting Standards, ESRS.
 >
 > **[0:19](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/csrd-template-in-microsoft-purview?u=76281980&t=19)** The EU gave its final approval for CSRD to go into full effect in November, 2022.
 >
@@ -720,7 +703,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/csrd-template-in-microsoft-purview?u=76281980&t=35)** You can add and customize the ESRS reporting templates as per your need.
 >
-> **[0:39](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/csrd-template-in-microsoft-purview?u=76281980&t=39)** We can expect more regulation templates to be added to Microsoft Cloud for sustainability in the future.
+> **[0:39](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/csrd-template-in-microsoft-purview?u=76281980&t=39)** We can expect more regulation templates to be added to [[Microsoft]] Cloud for sustainability in the future.
 >
 > **[0:45](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/csrd-template-in-microsoft-purview?u=76281980&t=45)** In this chapter, we discussed compliance reporting and how you can use template reports from Purview Compliance Manager.
 >
@@ -728,7 +711,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (4), [[Corporate Sustainability]] (1), [[Microsoft]] (1), cloud (1), next (1)
+> **Frameworks & Libraries:** [[Sustainability]] (4), [[Corporate Sustainability]] (1), [[Microsoft]] (1)
 > **Env Vars:** csrd (3), esrs (3)
 > **Cross-References:** we discussed (1)
 > **Exercise Files:** template (1)
@@ -739,26 +722,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Emissions Impact Dashboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/emissions-impact-dashboard?u=76281980)
+#### [Emissions Impact Dashboard](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/emissions-impact-dashboard?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/emissions-impact-dashboard?u=76281980&t=0)** - [Instructor] The Emission Impact dashboard falls in the green technology domain of the Microsoft Cloud for sustainability solutions.
+> **[0:00](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/emissions-impact-dashboard?u=76281980&t=0)** - [Instructor] The Emission Impact dashboard falls in the green technology domain of the [[Microsoft]] Cloud for [[Sustainability]] solutions.
 >
 > **[0:05](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/emissions-impact-dashboard?u=76281980&t=5)** It focuses on carbon reduction in the IT systems themselves.
 >
-> **[0:09](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/emissions-impact-dashboard?u=76281980&t=9)** Emissions impact dashboards provide consistent and accurate carbon accounting to quantify an organization carbon footprint associated with using Microsoft Azure and or Microsoft 365.
+> **[0:09](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/emissions-impact-dashboard?u=76281980&t=9)** Emissions impact [[Dashboards]] provide consistent and accurate carbon accounting to quantify an organization carbon footprint associated with using [[Microsoft Azure]] and or [[Microsoft 365]].
 >
 > **[0:20](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/emissions-impact-dashboard?u=76281980&t=20)** They enable organization to quantify emissions across scopes one, two, and three by using Microsoft's methodology.
 >
-> **[0:26](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/emissions-impact-dashboard?u=76281980&t=26)** This methodology helps to quantify the aggregated lifecycle carbon impacts of individual IT asset components across the Microsoft Cloud value chain, and allocates them to specific usage for each Azure service and for Microsoft 365 customers.
+> **[0:26](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/emissions-impact-dashboard?u=76281980&t=26)** This methodology helps to quantify the aggregated lifecycle carbon impacts of individual IT asset components across the Microsoft Cloud value chain, and allocates them to specific usage for each [[Microsoft Azure|Azure]] service and for Microsoft 365 customers.
 >
 > **[0:42](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/emissions-impact-dashboard?u=76281980&t=42)** These emissions can also be accessed via Microsoft Cloud for Sustainability API to build customized dashboards.
 >
 > **[0:48](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/emissions-impact-dashboard?u=76281980&t=48)** For more information, see a new approach for carbon emissions.
 >
-> **[0:51](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/emissions-impact-dashboard?u=76281980&t=51)** Microsoft Cloud for sustainability provides two Microsoft Power BI dashboards to calculate your organization carbon emissions from your Microsoft Cloud hosted IT infrastructure.
+> **[0:51](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/emissions-impact-dashboard?u=76281980&t=51)** Microsoft Cloud for sustainability provides two [[Microsoft Power BI]] dashboards to calculate your organization carbon emissions from your Microsoft Cloud hosted IT infrastructure.
 >
 > **[1:01](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/emissions-impact-dashboard?u=76281980&t=61)** Number one, emissions impact dashboard for Azure.
 >
@@ -768,17 +750,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (7), cloud (5), [[Sustainability]] (3), [[Dashboards]] (3), [[Microsoft 365]] (3)
+> **Frameworks & Libraries:** [[Microsoft]] (7), [[Sustainability]] (3), [[Dashboards]] (3), [[Microsoft 365]] (3), [[Microsoft Azure|Azure]] (2)
 > **Env Vars:** api (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Calculation methodology
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/calculation-methodology?u=76281980)
+#### [Calculation methodology](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/calculation-methodology?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/calculation-methodology?u=76281980&t=0)** - [Instructor] Microsoft bases its calculation methodology on principles from the Greenhouse Gas Protocol and uses widely accepted ISO standards.
+> **[0:00](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/calculation-methodology?u=76281980&t=0)** - [Instructor] [[Microsoft]] bases its calculation methodology on principles from the Greenhouse Gas Protocol and uses widely accepted ISO standards.
 >
 > **[0:08](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/calculation-methodology?u=76281980&t=8)** Scope one and two, power usage for scope one and two emission is categorized by storage compute network.
 >
@@ -790,45 +771,44 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/calculation-methodology?u=76281980&t=33)** A critical aspect to understanding emissions accounting is that the same emissions that are classified as Scope 1 and 2 for one organization can be recognized as scope three for another.
 >
-> **[0:42](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/calculation-methodology?u=76281980&t=42)** For example, Microsoft Cloud services result in scope one, two, and three emissions for Microsoft, but the allocated share of these emissions counts as scope three emissions for Microsoft Cloud customers who purchase those services.
+> **[0:42](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/calculation-methodology?u=76281980&t=42)** For example, Microsoft [[Cloud Services]] result in scope one, two, and three emissions for Microsoft, but the allocated share of these emissions counts as scope three emissions for Microsoft Cloud customers who purchase those services.
 >
 > **[0:53](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/calculation-methodology?u=76281980&t=53)** You can learn about the calculation methodology inside the dashboard in the calculation methodology tab.
 >
-> **[0:59](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/calculation-methodology?u=76281980&t=59)** Let's go a little deeper into the emissions impact dashboard for Azure.
+> **[0:59](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/calculation-methodology?u=76281980&t=59)** Let's go a little deeper into the emissions impact dashboard for [[Microsoft Azure|Azure]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (6), data (3), cloud (2), power (1), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (6), [[Cloud Services]] (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** iso (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Two types of Emissions Impact Dashboards
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/two-types-of-emissions-impact-dashboards?u=76281980)
+#### [Two types of Emissions Impact Dashboards](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/two-types-of-emissions-impact-dashboards?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/two-types-of-emissions-impact-dashboards?u=76281980&t=0)** - [Instructor] The Emissions Impact dashboard for Azure has multiple tabs that detail a range of matrix.
+> **[0:00](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/two-types-of-emissions-impact-dashboards?u=76281980&t=0)** - [Instructor] The Emissions Impact dashboard for [[Microsoft Azure|Azure]] has multiple tabs that detail a range of matrix.
 >
-> **[0:05](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/two-types-of-emissions-impact-dashboards?u=76281980&t=5)** The dashboard provides insights into emissions that are generated based on an organization's use of Microsoft Cloud services.
+> **[0:05](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/two-types-of-emissions-impact-dashboards?u=76281980&t=5)** The dashboard provides insights into emissions that are generated based on an organization's use of [[Microsoft]] [[Cloud Services]].
 >
 > **[0:11](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/two-types-of-emissions-impact-dashboards?u=76281980&t=11)** Key fact boxes across the upper left of the page provide visibility into carbon emissions, total cloud usage, and carbon intensity, which is the measure of efficiency.
 >
 > **[0:21](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/two-types-of-emissions-impact-dashboards?u=76281980&t=21)** Some of the more important ones are emission saving, which lets organizations view the carbon emission savings from running on Microsoft Cloud versus an on-premises alternative.
 >
-> **[0:31](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/two-types-of-emissions-impact-dashboards?u=76281980&t=31)** JG preparation report, which helps organization prepare internal external sustainability reports.
+> **[0:31](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/two-types-of-emissions-impact-dashboards?u=76281980&t=31)** JG preparation report, which helps organization prepare internal external [[Sustainability]] reports.
 >
 > **[0:36](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/two-types-of-emissions-impact-dashboards?u=76281980&t=36)** Usage reports this helps organization know the usage hours of Azure services across all available subscriptions.
 >
 > **[0:43](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/two-types-of-emissions-impact-dashboards?u=76281980&t=43)** And finally, the calculation methodology page provides insight into how Microsoft calculates emissions and usage for the emissions impact dashboard.
 >
-> **[0:52](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/two-types-of-emissions-impact-dashboards?u=76281980&t=52)** Similarly, the emissions impact dashboard from Microsoft 365 gives you the total emissions generated by your Microsoft 365 consumption.
+> **[0:52](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/two-types-of-emissions-impact-dashboards?u=76281980&t=52)** Similarly, the emissions impact dashboard from [[Microsoft 365]] gives you the total emissions generated by your Microsoft 365 consumption.
 >
 > **[0:59](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/two-types-of-emissions-impact-dashboards?u=76281980&t=59)** Now that we have discussed the emissions impact dashboard, let's discuss the role of environmental credit service.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (3), cloud (3), [[Microsoft Azure|Azure]] (2), [[Microsoft 365]] (2), [[Sustainability]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Microsoft Azure|Azure]] (2), [[Microsoft 365]] (2), [[Cloud Services]] (1), [[Sustainability]] (1)
 > **Speakers:** - [instructor] (1)
 
 
@@ -836,8 +816,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are carbon credits?
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-are-carbon-credits?u=76281980)
+#### [What are carbon credits?](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-are-carbon-credits?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -861,8 +840,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cap and trade system
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/cap-and-trade-system?u=76281980)
+#### [Cap and trade system](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/cap-and-trade-system?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -880,12 +858,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), next (1)
 > **Env Vars:** mrv (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is measurement, reporting, and verification (MRV)?
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-is-measurement-reporting-and-verification-mrv?u=76281980)
+#### [What is measurement, reporting, and verification (MRV)?](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-is-measurement-reporting-and-verification-mrv?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -895,7 +871,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-is-measurement-reporting-and-verification-mrv?u=76281980&t=21)** The third party then verifies the report so that the results can be certified and carbon credits can be issued.
 >
-> **[0:28](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-is-measurement-reporting-and-verification-mrv?u=76281980&t=28)** Now that you have learned about MRV, let's discuss Microsoft Environmental Credit Service.
+> **[0:28](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-is-measurement-reporting-and-verification-mrv?u=76281980&t=28)** Now that you have learned about MRV, let's discuss [[Microsoft]] Environmental Credit Service.
 
 > [!info]- Semantic Content
 >
@@ -905,12 +881,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is the Microsoft Environment Credit Service?
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-is-the-microsoft-environment-credit-service?u=76281980)
+#### [What is the Microsoft Environment Credit Service?](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-is-the-microsoft-environment-credit-service?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-is-the-microsoft-environment-credit-service?u=76281980&t=0)** - [Instructor] Environmental credit service in the Microsoft Cloud for sustainability brings efficiency, trust, and transparency to voluntary ecological markets.
+> **[0:00](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-is-the-microsoft-environment-credit-service?u=76281980&t=0)** - [Instructor] Environmental credit service in the [[Microsoft]] Cloud for [[Sustainability]] brings efficiency, trust, and transparency to voluntary ecological markets.
 >
 > **[0:08](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-is-the-microsoft-environment-credit-service?u=76281980&t=8)** It tokenizes and manages the lifecycle of all the assets, including projects, claims, and carbon credits that are involved in the voluntary ecological market ecosystem across participants.
 >
@@ -924,7 +899,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (1), cloud (1), [[Sustainability]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Sustainability]] (1)
 > **Analogies:** think of it as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -933,8 +908,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to get started with Microsoft Sustainability Solutions
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/how-to-get-started-with-microsoft-sustainability-solutions?u=76281980)
+#### [How to get started with Microsoft Sustainability Solutions](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/how-to-get-started-with-microsoft-sustainability-solutions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -960,23 +934,22 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/how-to-get-started-with-microsoft-sustainability-solutions?u=76281980&t=43)** Take advantage of the in-app configuration guide that gives contextual and actionable guidance with assets for every step of the configuration journey.
 >
-> **[0:51](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/how-to-get-started-with-microsoft-sustainability-solutions?u=76281980&t=51)** The guide provides the Microsoft recommended configuration part to support success in adoption, helping organization realize value faster.
+> **[0:51](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/how-to-get-started-with-microsoft-sustainability-solutions?u=76281980&t=51)** The guide provides the [[Microsoft]] recommended configuration part to support success in adoption, helping organization realize value faster.
 >
 > **[0:58](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/how-to-get-started-with-microsoft-sustainability-solutions?u=76281980&t=58)** Number five, operate.
 >
-> **[1:00](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/how-to-get-started-with-microsoft-sustainability-solutions?u=76281980&t=60)** Continue to improve your approach to reduce, replace, or remove your footprint across how your products and facilities are sourced, manufactured, operated, and managed at end of life.
+> **[1:00](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/how-to-get-started-with-microsoft-sustainability-solutions?u=76281980&t=60)** Continue to improve your approach to reduce, replace, or remove your footprint across how your [[Microsoft Products|products]] and facilities are sourced, manufactured, operated, and managed at end of life.
 >
 > **[1:09](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/how-to-get-started-with-microsoft-sustainability-solutions?u=76281980&t=69)** Please ensure that sustainable development meets the needs of the present generations without compromising the ability of future generations.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Microsoft]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** esg (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Leave it the way you found it
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/leave-it-the-way-you-found-it?u=76281980)
+#### [Leave it the way you found it](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/leave-it-the-way-you-found-it?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -984,9 +957,9 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/leave-it-the-way-you-found-it?u=76281980&t=5)** Let's look at what we learned.
 >
-> **[0:08](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/leave-it-the-way-you-found-it?u=76281980&t=8)** We discussed the basics of sustainability.
+> **[0:08](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/leave-it-the-way-you-found-it?u=76281980&t=8)** We discussed the basics of [[Sustainability]].
 >
-> **[0:10](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/leave-it-the-way-you-found-it?u=76281980&t=10)** We looked at the five ways Microsoft Sustainability Solutions can help you.
+> **[0:10](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/leave-it-the-way-you-found-it?u=76281980&t=10)** We looked at the five ways [[Microsoft]] Sustainability Solutions can help you.
 >
 > **[0:13](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/leave-it-the-way-you-found-it?u=76281980&t=13)** Don't forget: record, report, reduce, replace, and remove.
 >
@@ -1000,7 +973,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (5), [[Microsoft]] (2), cloud (1)
+> **Frameworks & Libraries:** [[Sustainability]] (5), [[Microsoft]] (2)
 > **Cross-References:** we discussed (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - we (1)

@@ -70,12 +70,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Blockchain dApp testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/blockchain-dapp-testing?u=76281980)
+#### [Blockchain dApp testing](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/blockchain-dapp-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/blockchain-dapp-testing?u=76281980&t=0)** - Once you have developed your smart contracts to the point that they should be operational.
+> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/blockchain-dapp-testing?u=76281980&t=0)** - Once you have developed your [[Smart Contracts]] to the point that they should be operational.
 >
 > **[0:04](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/blockchain-dapp-testing?u=76281980&t=4)** The next step is to actually test them out, to see if they're doing what they're supposed to do.
 >
@@ -105,7 +104,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/blockchain-dapp-testing?u=76281980&t=101)** It's tempting to hurry up and try to get toward the end of the design cycle and the coding cycle, but don't ever skimp on testing.
 >
-> **[1:49](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/blockchain-dapp-testing?u=76281980&t=109)** Remember that, especially in the blockchain environment, when you take your smart contracts, you're going to deploy them out to the blockchain, which means you're writing code into blocks on the blockchain, which never go away, right?
+> **[1:49](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/blockchain-dapp-testing?u=76281980&t=109)** Remember that, especially in the [[Blockchain]] environment, when you take your smart contracts, you're going to deploy them out to the blockchain, which means you're writing code into blocks on the blockchain, which never go away, right?
 >
 > **[2:04](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/blockchain-dapp-testing?u=76281980&t=124)** So if you put bad code on the blockchain, it's always going to be there.
 >
@@ -137,7 +136,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/blockchain-dapp-testing?u=76281980&t=184)** It's an advantage because you're not simulating anything at all.
 >
-> **[3:07](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/blockchain-dapp-testing?u=76281980&t=187)** You're actually doing it real-time.
+> **[3:07](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/blockchain-dapp-testing?u=76281980&t=187)** You're actually doing it [[Real-Time]].
 >
 > **[3:10](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/blockchain-dapp-testing?u=76281980&t=190)** And you've got all the miners that are doing their activities and you have timing issues and different EVMs.
 >
@@ -151,7 +150,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/blockchain-dapp-testing?u=76281980&t=212)** You have to pay money.
 >
-> **[3:34](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/blockchain-dapp-testing?u=76281980&t=214)** Remember whenever we write to the blockchain, we have to pay money on Mainnet you're using real cryptocurrency.
+> **[3:34](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/blockchain-dapp-testing?u=76281980&t=214)** Remember whenever we write to the blockchain, we have to pay money on Mainnet you're using real [[Cryptocurrency]].
 >
 > **[3:40](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/blockchain-dapp-testing?u=76281980&t=220)** You're paying real Ether.
 >
@@ -293,7 +292,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (30), [[Cryptocurrency]] (4), [[Smart Contracts]] (3), data (3), next (2)
+> **Frameworks & Libraries:** [[Blockchain]] (30), [[Cryptocurrency]] (4), [[Smart Contracts]] (3), [[Real-Time]] (1)
 > **CLI Commands:** make (7)
 > **Definitions:** is a  (2), means that (1), basically means (1), is an  (1)
 > **Analogies:** just like (2), similar to (1)
@@ -302,8 +301,7 @@ created: 2026-05-02
 > **Documentation:** specification (1)
 > **Speakers:** - once (1)
 
-#### Deploying your dApp to a test blockchain
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/deploying-your-dapp-to-a-test-blockchain?u=76281980)
+#### [Deploying your dApp to a test blockchain](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/deploying-your-dapp-to-a-test-blockchain?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -313,7 +311,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/deploying-your-dapp-to-a-test-blockchain?u=76281980&t=11)** Now we're going to come back in a few minutes and look at how to write test cases.
 >
-> **[0:16](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/deploying-your-dapp-to-a-test-blockchain?u=76281980&t=16)** But before we're ready to move ahead, we need to be able to compile our code and then deploy it to the network, to the blockchain.
+> **[0:16](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/deploying-your-dapp-to-a-test-blockchain?u=76281980&t=16)** But before we're ready to move ahead, we need to be able to compile our code and then deploy it to the network, to the [[Blockchain]].
 >
 > **[0:25](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/deploying-your-dapp-to-a-test-blockchain?u=76281980&t=25)** So we can compile code just by pressing f5 within visual studio code, or we can compile it in batch mode.
 >
@@ -357,7 +355,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/deploying-your-dapp-to-a-test-blockchain?u=76281980&t=136)** I'm going to click on Terminal and we're ready to deploy our code.
 >
-> **[2:22](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/deploying-your-dapp-to-a-test-blockchain?u=76281980&t=142)** Now the command to deploy depends on some internal functions or internal JavaScript.
+> **[2:22](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/deploying-your-dapp-to-a-test-blockchain?u=76281980&t=142)** Now the command to deploy depends on some internal functions or internal [[JavaScript]].
 >
 > **[2:30](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/deploying-your-dapp-to-a-test-blockchain?u=76281980&t=150)** So one thing we need to do, is let's open the migrations folder and I added a new JavaScript file called, contracts_migrations.js.
 >
@@ -399,7 +397,7 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/deploying-your-dapp-to-a-test-blockchain?u=76281980&t=250)** So deploying the smart contract, is actually creating that smart contract object on the blockchain.
 >
-> **[4:16](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/deploying-your-dapp-to-a-test-blockchain?u=76281980&t=256)** So when I create a new token, I want to pour in a certain number of tokens that account value to the account owner, and I want to assign a description and a symbol.
+> **[4:16](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/deploying-your-dapp-to-a-test-blockchain?u=76281980&t=256)** So when I create a new token, I want to pour in a certain number of [[Tokens]] that account value to the account owner, and I want to assign a description and a symbol.
 >
 > **[4:30](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/deploying-your-dapp-to-a-test-blockchain?u=76281980&t=270)** So I can do that just by deploying with the parameters I'm providing to the constructor.
 >
@@ -421,7 +419,7 @@ created: 2026-05-02
 >
 > **[5:18](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/deploying-your-dapp-to-a-test-blockchain?u=76281980&t=318)** It overwrites any pre-existing contracts and just starts us from scratch.
 >
-> **[5:25](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/deploying-your-dapp-to-a-test-blockchain?u=76281980&t=325)** Notice that the first thing Truffle does, is compiles our smart contracts.
+> **[5:25](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/deploying-your-dapp-to-a-test-blockchain?u=76281980&t=325)** Notice that the first thing Truffle does, is compiles our [[Smart Contracts]].
 >
 > **[5:29](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/deploying-your-dapp-to-a-test-blockchain?u=76281980&t=329)** And then he does a lot of other things.
 >
@@ -475,7 +473,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (5), [[Smart Contracts]] (5), [[JavaScript]] (3), [[Tokens]] (2), next (1)
+> **Frameworks & Libraries:** [[Blockchain]] (5), [[Smart Contracts]] (5), [[JavaScript]] (3), [[Tokens]] (2)
 > **Code Identifiers:** erc20token (7), contracts_migrations (1)
 > **File Paths:** truffle-config.js (2), contracts_migrations.js (1), migrations.js (1)
 > **Env Vars:** evm (3), rpc (1)
@@ -484,12 +482,11 @@ created: 2026-05-02
 > **UI Navigation:** click on (1), open the (1), go to (1)
 > **Exercise Files:** source code (2)
 
-#### Writing tests for Ethereum dApps
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/writing-tests-for-ethereum-dapps?u=76281980)
+#### [Writing tests for Ethereum dApps](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/writing-tests-for-ethereum-dapps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/writing-tests-for-ethereum-dapps?u=76281980&t=0)** - Okay, now you have smart contracts that have been deployed to your local test network, your local test blockchain.
+> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/writing-tests-for-ethereum-dapps?u=76281980&t=0)** - Okay, now you have [[Smart Contracts]] that have been deployed to your local test network, your local test [[Blockchain]].
 >
 > **[0:08](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/writing-tests-for-ethereum-dapps?u=76281980&t=8)** We're using Ganache to create the local test blockchain.
 >
@@ -513,7 +510,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/writing-tests-for-ethereum-dapps?u=76281980&t=48)** So for that, we need one of two other options.
 >
-> **[0:51](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/writing-tests-for-ethereum-dapps?u=76281980&t=51)** One would be writing these test cases in Solidity.
+> **[0:51](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/writing-tests-for-ethereum-dapps?u=76281980&t=51)** One would be writing these test cases in [[Solidity]].
 >
 > **[0:55](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/writing-tests-for-ethereum-dapps?u=76281980&t=55)** So we're actually going to develop some Solidity smart contracts that are, that exists for one reason only.
 >
@@ -523,7 +520,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/writing-tests-for-ethereum-dapps?u=76281980&t=67)** But that way we can programmatically test out these various functions.
 >
-> **[1:12](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/writing-tests-for-ethereum-dapps?u=76281980&t=72)** Alternatively, you can write test cases in JavaScript and not even use a Solidity if you want.
+> **[1:12](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/writing-tests-for-ethereum-dapps?u=76281980&t=72)** Alternatively, you can write test cases in [[JavaScript]] and not even use a Solidity if you want.
 >
 > **[1:20](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/writing-tests-for-ethereum-dapps?u=76281980&t=80)** To whatever you're most comfortable with, you want to be able to easily and completely exercise all the functionality of your smart contracts.
 >
@@ -633,20 +630,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[Smart Contracts]] (4), [[Solidity]] (4), [[Blockchain]] (3), next (2)
+> **Frameworks & Libraries:** [[Smart Contracts]] (4), [[Solidity]] (4), [[Blockchain]] (3), [[JavaScript]] (2)
 > **CLI Commands:** make (12)
 > **Tools:** command line (4)
 > **Definitions:** is a  (1), in other words (1)
 > **Speakers:** - okay (1)
 
-#### Command-line testing, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/command-line-testing-part-1?u=76281980)
+#### [Command-line testing, part 1](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/command-line-testing-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/command-line-testing-part-1?u=76281980&t=0)** - Testing code from the command line, take several steps and you've got to make sure all the pieces are in play.
 >
-> **[0:05](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/command-line-testing-part-1?u=76281980&t=5)** So at this point, you should have your running blockchain and your code already deployed.
+> **[0:05](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/command-line-testing-part-1?u=76281980&t=5)** So at this point, you should have your running [[Blockchain]] and your code already deployed.
 >
 > **[0:12](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/command-line-testing-part-1?u=76281980&t=12)** Now I'm going to do it again just to kind of make sure that we're on the same page, but I'm going to set up some tests.
 >
@@ -694,7 +690,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/command-line-testing-part-1?u=76281980&t=109)** So if you use this, this file is available to you in the downloads.
 >
-> **[1:54](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/command-line-testing-part-1?u=76281980&t=114)** And it's also available to you in the comment section or the comments of the PowerPoint slides.
+> **[1:54](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/command-line-testing-part-1?u=76281980&t=114)** And it's also available to you in the comment section or the comments of the [[Microsoft PowerPoint|PowerPoint]] slides.
 >
 > **[2:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/command-line-testing-part-1?u=76281980&t=120)** So if you want to copy this and paste it in, it won't work for you until you replace all of the addresses with your Ganache addresses.
 >
@@ -734,14 +730,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (2), [[Microsoft PowerPoint|Powerpoint]] (1), next (1)
+> **Frameworks & Libraries:** [[Blockchain]] (2), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **CLI Commands:** make (5), find (1)
 > **Tools:** command line (2), vs code (1), terminal (1)
 > **Prerequisites:** set up (2)
 > **Speakers:** - testing (1)
 
-#### Command-line testing, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/command-line-testing-part-2?u=76281980)
+#### [Command-line testing, part 2](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/command-line-testing-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -765,7 +760,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/command-line-testing-part-2?u=76281980&t=60)** Wow, there's a lot of stuff.
 >
-> **[1:02](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/command-line-testing-part-2?u=76281980&t=62)** Okay, so it worked and this is JSON file, JSON format, but I'm going to scroll back just a tad to show you something.
+> **[1:02](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/command-line-testing-part-2?u=76281980&t=62)** Okay, so it worked and this is [[JSON]] file, JSON format, but I'm going to scroll back just a tad to show you something.
 >
 > **[1:11](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/command-line-testing-part-2?u=76281980&t=71)** Let's see, how far back?
 >
@@ -775,7 +770,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/command-line-testing-part-2?u=76281980&t=82)** So all this green stuff you're looking at right here is the actual compiled code for your smart contract.
 >
-> **[1:29](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/command-line-testing-part-2?u=76281980&t=89)** That's what's stored in the blockchain.
+> **[1:29](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/command-line-testing-part-2?u=76281980&t=89)** That's what's stored in the [[Blockchain]].
 >
 > **[1:31](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/command-line-testing-part-2?u=76281980&t=91)** Okay, so let's go back down to the bottom.
 >
@@ -823,7 +818,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/command-line-testing-part-2?u=76281980&t=217)** And this is getting kind of messy, so let's clear it out.
 >
-> **[3:40](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/command-line-testing-part-2?u=76281980&t=220)** I'm going to type the word, clear.
+> **[3:40](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/command-line-testing-part-2?u=76281980&t=220)** I'm going to type the [[Microsoft Word|word]], clear.
 >
 > **[3:44](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/command-line-testing-part-2?u=76281980&t=224)** Okay, well the reason for that is because I'm in the Truffle console and clear does not work in the Truffle console.
 >
@@ -849,7 +844,7 @@ created: 2026-05-02
 >
 > **[4:37](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/command-line-testing-part-2?u=76281980&t=277)** Okay, so we've added seven participants, zero through six, we've viewed our participant details.
 >
-> **[4:45](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/command-line-testing-part-2?u=76281980&t=285)** Now, it's time for us to create some products.
+> **[4:45](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/command-line-testing-part-2?u=76281980&t=285)** Now, it's time for us to create some [[Microsoft Products|products]].
 >
 > **[4:48](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/command-line-testing-part-2?u=76281980&t=288)** So, let's create six products.
 >
@@ -963,7 +958,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (12), [[Microsoft Products|Products]] (11), next (3), [[Blockchain]] (3), [[JSON]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (11), [[Blockchain]] (3), [[JSON]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** json (2), gihi (1), jkl (1), abc (1), def (1)
 > **Definitions:** is a  (4), basically means (1), means that (1), in other words (1)
 > **CLI Commands:** make (1)
@@ -971,8 +966,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - the (1)
 
-#### Command-line testing, part 3
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/command-line-testing-part-3?u=76281980)
+#### [Command-line testing, part 3](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/command-line-testing-part-3?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1010,7 +1004,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/command-line-testing-part-3?u=76281980&t=69)** So what this is telling me is, for product zero, he transferred owner and ownership record zero, ownership record A and ownership record B.
 >
-> **[1:21](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/command-line-testing-part-3?u=76281980&t=81)** And we could go back and we could fetch those ownership records and find out when it happened, who the owner ID is, and so on and so forth.
+> **[1:21](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/command-line-testing-part-3?u=76281980&t=81)** And we could go back and we could [[Fetch]] those ownership records and find out when it happened, who the owner ID is, and so on and so forth.
 >
 > **[1:29](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/command-line-testing-part-3?u=76281980&t=89)** Now let's see if that's right.
 >
@@ -1028,7 +1022,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/command-line-testing-part-3?u=76281980&t=112)** And notice that these are the other two transactions for product zero.
 >
-> **[1:58](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/command-line-testing-part-3?u=76281980&t=118)** It looks like that in record 10 and record 11, I actually did transfer ownership for product zero, but the blockchain is telling me it's A and B.
+> **[1:58](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/command-line-testing-part-3?u=76281980&t=118)** It looks like that in record 10 and record 11, I actually did transfer ownership for product zero, but the [[Blockchain]] is telling me it's A and B.
 >
 > **[2:12](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/command-line-testing-part-3?u=76281980&t=132)** Here's why.
 >
@@ -1054,19 +1048,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (9), [[Blockchain]] (2), [[Fetch]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Blockchain]] (2), [[Fetch]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - all (1)
 
-#### JavaScript testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/javascript-testing?u=76281980)
+#### [JavaScript testing](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/javascript-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/javascript-testing?u=76281980&t=1)** - Okay, so you've seen how tedious testing from the command line can be, but it's simple and it's quick.
 >
-> **[0:07](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/javascript-testing?u=76281980&t=7)** It may not seem very simple, but once you get the hang of the syntax it's easy to fire up your blockchain, deploy your code and just tweak individual functions.
+> **[0:07](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/javascript-testing?u=76281980&t=7)** It may not seem very simple, but once you get the hang of the syntax it's easy to fire up your [[Blockchain]], deploy your code and just tweak individual functions.
 >
 > **[0:16](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/javascript-testing?u=76281980&t=16)** So if you just want to see what a function gives you back, it may be the way to go.
 >
@@ -1078,7 +1071,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/javascript-testing?u=76281980&t=38)** The alternative would be programmed testing.
 >
-> **[0:41](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/javascript-testing?u=76281980&t=41)** You can use solidity, which is just using some solidity code to test other solidity code or, in the truffle environment, or really any testing framework, you can use JavaScript testing.
+> **[0:41](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/javascript-testing?u=76281980&t=41)** You can use [[Solidity]], which is just using some solidity code to test other solidity code or, in the truffle environment, or really any testing framework, you can use [[JavaScript]] testing.
 >
 > **[0:54](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/javascript-testing?u=76281980&t=54)** You can write JavaScript code, that actually looks kind of like solidity anyway, to exercise all of your solidity functions.
 >
@@ -1116,7 +1109,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/javascript-testing?u=76281980&t=205)** This one is not that exciting, so let me go grab some code that I've written and paste it in here for you.
 >
-> **[3:31](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/javascript-testing?u=76281980&t=211)** You have access to this in your source code directory, or it'll be in the note section on the PowerPoint slides.
+> **[3:31](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/javascript-testing?u=76281980&t=211)** You have access to this in your source code directory, or it'll be in the note section on the [[Microsoft PowerPoint|PowerPoint]] slides.
 >
 > **[3:50](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/javascript-testing?u=76281980&t=230)** Okay, so here's a little bit more interesting code.
 >
@@ -1168,7 +1161,7 @@ created: 2026-05-02
 >
 > **[6:39](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/javascript-testing?u=76281980&t=399)** In the second section, we're invoking the get participant function and looking at the return values.
 >
-> **[6:45](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/javascript-testing?u=76281980&t=405)** So we're just doing some very simple checking to making sure that we can add participants and we can fetch the data, and they all match.
+> **[6:45](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/javascript-testing?u=76281980&t=405)** So we're just doing some very simple checking to making sure that we can add participants and we can [[Fetch]] the data, and they all match.
 >
 > **[6:52](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/javascript-testing?u=76281980&t=412)** So let's go see how truffle can help us run these tests really, really easily.
 >
@@ -1188,7 +1181,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Solidity]] (6), [[JavaScript]] (6), data (3), [[Blockchain]] (2), [[Microsoft PowerPoint|Powerpoint]] (1)
+> **Frameworks & Libraries:** [[Solidity]] (6), [[JavaScript]] (6), [[Blockchain]] (2), [[Microsoft PowerPoint|Powerpoint]] (1), [[Fetch]] (1)
 > **Definitions:** is a  (3), in other words (1), basically means (1)
 > **Tools:** terminal (2), command line (1), visual studio (1)
 > **CLI Commands:** go run (1)
@@ -1197,12 +1190,11 @@ created: 2026-05-02
 > **Analogies:** kind of like (1)
 > **Warnings:** be aware (1)
 
-#### Logging and handling errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/logging-and-handling-errors?u=76281980)
+#### [Logging and handling errors](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/logging-and-handling-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/logging-and-handling-errors?u=76281980&t=0)** - Okay so, you have a basic idea of how to test your code in Solidity.
+> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/logging-and-handling-errors?u=76281980&t=0)** - Okay so, you have a basic idea of how to test your code in [[Solidity]].
 >
 > **[0:06](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/logging-and-handling-errors?u=76281980&t=6)** Now, Solidity doesn't help you in some ways.
 >
@@ -1214,13 +1206,13 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/logging-and-handling-errors?u=76281980&t=34)** Think this through now, everything that happens in Solidity is basically going to happen on the EVM, right?
 >
-> **[0:42](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/logging-and-handling-errors?u=76281980&t=42)** Because the EVM executes smart contract code written in Solidity, so if your smart contracts are writing log files, where would those log files go?
+> **[0:42](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/logging-and-handling-errors?u=76281980&t=42)** Because the EVM executes smart contract code written in Solidity, so if your [[Smart Contracts]] are writing log files, where would those log files go?
 >
 > **[0:54](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/logging-and-handling-errors?u=76281980&t=54)** Wait for it, that's right, every EVM, every node would be creating these log files, that's not what you want.
 >
 > **[1:02](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/logging-and-handling-errors?u=76281980&t=62)** That would replicate over, and over, and over again.
 >
-> **[1:05](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/logging-and-handling-errors?u=76281980&t=65)** Now you may say, "Well, we're already replicating "the blockchain," well, that's true, but that's part of the structure of blockchain technology.
+> **[1:05](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/logging-and-handling-errors?u=76281980&t=65)** Now you may say, "Well, we're already replicating "the [[Blockchain]]," well, that's true, but that's part of the structure of blockchain technology.
 >
 > **[1:12](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/logging-and-handling-errors?u=76281980&t=72)** You don't want to make it harder for nodes to run EVMs by using up all their disk space, so that's a no-no.
 >
@@ -1286,7 +1278,7 @@ created: 2026-05-02
 >
 > **[4:49](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/logging-and-handling-errors?u=76281980&t=289)** So, let's see how we can test that out.
 >
-> **[4:50](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/logging-and-handling-errors?u=76281980&t=290)** Let's go over to my test, so I wrote a little JavaScript code here to test basicMath.
+> **[4:50](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/logging-and-handling-errors?u=76281980&t=290)** Let's go over to my test, so I wrote a little [[JavaScript]] code here to test basicMath.
 >
 > **[4:57](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/logging-and-handling-errors?u=76281980&t=297)** So with basicMath, we're not focusing on the test here.
 >
@@ -1328,7 +1320,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Solidity]] (7), [[JavaScript]] (4), [[Smart Contracts]] (2), [[Blockchain]] (2), node (1)
+> **Frameworks & Libraries:** [[Solidity]] (7), [[JavaScript]] (4), [[Smart Contracts]] (2), [[Blockchain]] (2)
 > **CLI Commands:** make (5), node (1)
 > **Definitions:** in other words (3), is a  (2)
 > **Code Identifiers:** basicmath (3)
@@ -1337,12 +1329,11 @@ created: 2026-05-02
 > **Speakers:** - okay (1)
 > **Non-Speech:** (typing) (1)
 
-#### Logging activity in smart contracts
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/logging-activity-in-smart-contracts?u=76281980)
+#### [Logging activity in smart contracts](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/logging-activity-in-smart-contracts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/logging-activity-in-smart-contracts?u=76281980&t=1)** - There's a little bit more to logging Solidity activity than we've talked about thus far.
+> **[0:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/logging-activity-in-smart-contracts?u=76281980&t=1)** - There's a little bit more to logging [[Solidity]] activity than we've talked about thus far.
 >
 > **[0:06](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/logging-activity-in-smart-contracts?u=76281980&t=6)** There's one other feature that can be used to implement a type of logging, and that is Solidity events.
 >
@@ -1358,7 +1349,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/logging-activity-in-smart-contracts?u=76281980&t=38)** How does that event actually make it back to the client, and what happens to it after the fact?
 >
-> **[0:44](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/logging-activity-in-smart-contracts?u=76281980&t=44)** Well, the cool thing about Solidity events is that the events and the parameters that are passed back when they are emitted, is actually stored in the blockchain.
+> **[0:44](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/logging-activity-in-smart-contracts?u=76281980&t=44)** Well, the cool thing about Solidity events is that the events and the parameters that are passed back when they are emitted, is actually stored in the [[Blockchain]].
 >
 > **[0:54](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/logging-activity-in-smart-contracts?u=76281980&t=54)** That's right, it's actually stored in the blockchain, which means it's always going to be there.
 >
@@ -1382,7 +1373,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/logging-activity-in-smart-contracts?u=76281980&t=145)** But, you know, be creative and you can store a lot of data and then use a very small index to try to get through that.
 >
-> **[2:32](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/logging-activity-in-smart-contracts?u=76281980&t=152)** And then the client, at that point, can then contact the blockchain, and search through, and fetch the events in a range of dates, or just a range of parameter values.
+> **[2:32](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/logging-activity-in-smart-contracts?u=76281980&t=152)** And then the client, at that point, can then contact the blockchain, and search through, and [[Fetch]] the events in a range of dates, or just a range of parameter values.
 >
 > **[2:45](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/logging-activity-in-smart-contracts?u=76281980&t=165)** So, it can be very lucrative, a way to store data in the blockchain without actually paying full price for it.
 >
@@ -1412,7 +1403,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (11), data (6), [[Solidity]] (4), [[Search]] (3), feature (2)
+> **Frameworks & Libraries:** [[Blockchain]] (11), [[Solidity]] (4), [[Fetch]] (2)
 > **CLI Commands:** make (2)
 > **Tools:** visual studio (1)
 > **UI Navigation:** scroll down (1)
@@ -1420,8 +1411,7 @@ created: 2026-05-02
 > **Speakers:** - there (1)
 > **Non-Speech:** (typing) (1)
 
-#### Fixing bugs in a dApp
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/fixing-bugs-in-a-dapp?u=76281980)
+#### [Fixing bugs in a dApp](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/fixing-bugs-in-a-dapp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1453,7 +1443,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/fixing-bugs-in-a-dapp?u=76281980&t=56)** So how do you fix bugs?
 >
-> **[0:58](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/fixing-bugs-in-a-dapp?u=76281980&t=58)** Well, this is one area in which Solidity is very much like traditional development in any other language.
+> **[0:58](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/fixing-bugs-in-a-dapp?u=76281980&t=58)** Well, this is one area in which [[Solidity]] is very much like traditional development in any other language.
 >
 > **[1:05](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/fixing-bugs-in-a-dapp?u=76281980&t=65)** You simply isolate what caused the bug.
 >
@@ -1535,7 +1525,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Solidity]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Solidity]] (1)
 > **CLI Commands:** find (8), make (4)
 > **Env Vars:** ide (1)
 > **UI Navigation:** open the (1)

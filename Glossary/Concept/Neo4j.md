@@ -17,7 +17,7 @@ tags:
   - topic/artificial-intelligence
   - topic/data-science
   - topic/security
-course_count: 18
+course_count: 19
 created: 2026-05-02
 ---
 
@@ -25,7 +25,7 @@ created: 2026-05-02
 
 # Neo4j
 
-> **Type:** Concept | **Courses:** 18 | **Topics:** [[Software Development]], [[Database Management]], [[Artificial Intelligence (AI)]], [[Data Science]], [[Cybersecurity]]
+> **Type:** Concept | **Courses:** 19 | **Topics:** [[Software Development]], [[Database Management]], [[Artificial Intelligence (AI)]], [[Data Science]], [[Cybersecurity]]
 
 ## Courses
 
@@ -40,15 +40,16 @@ created: 2026-05-02
 9. [[NoSQL Essential Training]] — 3 mentions
 10. [[Knowledge Graph Data Engineering for Generative AI Use Cases]] — 3 mentions
 
-> [!note]- See all 18 courses
+> [!note]- See all 19 courses
 > 11. [[Rust for Data Engineering]] — 2 mentions
 > 12. [[Programming Foundations Databases]] — 1 mentions
 > 13. [[Data Preparation, Feature Engineering, and Augmentation for AI Models]] — 1 mentions
-> 14. [[Scalable Data Storage and Processing for AI Workloads]] — 1 mentions
-> 15. [[Spring Data 2]] — 1 mentions
-> 16. [[Azure Spark Databricks Essential Training]] — 1 mentions
-> 17. [[Advanced Python- Working with Databases]] — 1 mentions
-> 18. [[Problem-Solving Strategies for Data Engineers]] — 1 mentions
+> 14. [[Data Planning Strategy And Compliance For Ai Initiatives]] — 1 mentions
+> 15. [[Scalable Data Storage and Processing for AI Workloads]] — 1 mentions
+> 16. [[Spring Data 2]] — 1 mentions
+> 17. [[Azure Spark Databricks Essential Training]] — 1 mentions
+> 18. [[Advanced Python- Working with Databases]] — 1 mentions
+> 19. [[Problem-Solving Strategies for Data Engineers]] — 1 mentions
 
 ## Learning Paths
 

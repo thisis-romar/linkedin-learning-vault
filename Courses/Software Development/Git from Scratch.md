@@ -72,8 +72,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Git from Scratch
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-from-scratch/git-from-scratch?u=76281980)
+#### [Git from Scratch](https://www.linkedin.com/learning/git-from-scratch/git-from-scratch?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -85,7 +84,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/git-from-scratch/git-from-scratch?u=76281980&t=12)** Science fiction is real and we have alternate timelines, and time travel, and much more already, at least when it comes to code.
 >
-> **[0:20](https://www.linkedin.com/learning/git-from-scratch/git-from-scratch?u=76281980&t=20)** Thanks to Git and version control.
+> **[0:20](https://www.linkedin.com/learning/git-from-scratch/git-from-scratch?u=76281980&t=20)** Thanks to [[Git]] and [[Version Control]].
 >
 > **[0:23](https://www.linkedin.com/learning/git-from-scratch/git-from-scratch?u=76281980&t=23)** I want to teach you Git from scratch, not in the way it's normally taught with command line interfaces and code examples, but with a language and a format I've found helps me make way more sense of what's going on.
 >
@@ -101,7 +100,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (3), [[Version Control]] (3), web (1), power (1)
+> **Frameworks & Libraries:** [[Git]] (3), [[Version Control]] (3)
 > **CLI Commands:** git (3), make (1)
 > **Analogies:** imagine (2)
 > **Tools:** command line (1)
@@ -112,12 +111,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why use version control?
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-from-scratch/why-use-version-control?u=76281980)
+#### [Why use version control?](https://www.linkedin.com/learning/git-from-scratch/why-use-version-control?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/git-from-scratch/why-use-version-control?u=76281980&t=0)** - [Narrator] Why use version control?
+> **[0:00](https://www.linkedin.com/learning/git-from-scratch/why-use-version-control?u=76281980&t=0)** - [Narrator] Why use [[Version Control]]?
 >
 > **[0:01](https://www.linkedin.com/learning/git-from-scratch/why-use-version-control?u=76281980&t=1)** It's an important question to answer and it's worth asking because on the face of it, version control looks like adding some very complicated stuff on top of already complicated coding work.
 >
@@ -143,7 +141,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/git-from-scratch/why-use-version-control?u=76281980&t=66)** With version control, you can.
 >
-> **[1:08](https://www.linkedin.com/learning/git-from-scratch/why-use-version-control?u=76281980&t=68)** As you build out your project, you use a version control system like Git to take snapshots of your work that you can return to at any time.
+> **[1:08](https://www.linkedin.com/learning/git-from-scratch/why-use-version-control?u=76281980&t=68)** As you build out your project, you use a version control system like [[Git]] to take snapshots of your work that you can return to at any time.
 >
 > **[1:16](https://www.linkedin.com/learning/git-from-scratch/why-use-version-control?u=76281980&t=76)** You can also make branches, effectively, alternate timelines of your work to add features or experiments, and then switch between those timelines as you work.
 >
@@ -161,17 +159,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Version Control]] (7), feature (5), [[Git]] (1), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[Version Control]] (7), [[Git]] (1)
 > **CLI Commands:** make (3), git (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### git init: Initialize a repository
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-from-scratch/git-init-initialize-a-repository?u=76281980)
+#### [git init: Initialize a repository](https://www.linkedin.com/learning/git-from-scratch/git-init-initialize-a-repository?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/git-from-scratch/git-init-initialize-a-repository?u=76281980&t=0)** - [Instructor] To add Git as the version control of your project, you need to initialize a new Git repository and outermost folder, so the working directory of your project.
+> **[0:00](https://www.linkedin.com/learning/git-from-scratch/git-init-initialize-a-repository?u=76281980&t=0)** - [Instructor] To add [[Git]] as the [[Version Control]] of your project, you need to initialize a new Git repository and outermost folder, so the working directory of your project.
 >
 > **[0:07](https://www.linkedin.com/learning/git-from-scratch/git-init-initialize-a-repository?u=76281980&t=7)** This is done using the git init command.
 >
@@ -202,12 +199,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### .gitignore: Ignore files
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-from-scratch/gitignore-ignore-files?u=76281980)
+#### [.gitignore: Ignore files](https://www.linkedin.com/learning/git-from-scratch/gitignore-ignore-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/git-from-scratch/gitignore-ignore-files?u=76281980&t=0)** - [Educator] Having git observe and keep track of everything in your project is useful.
+> **[0:00](https://www.linkedin.com/learning/git-from-scratch/gitignore-ignore-files?u=76281980&t=0)** - [Educator] Having [[Git]] observe and keep track of everything in your project is useful.
 >
 > **[0:03](https://www.linkedin.com/learning/git-from-scratch/gitignore-ignore-files?u=76281980&t=3)** But in most projects you'll have files and folders you don't need to, or want to keep track of.
 >
@@ -231,12 +227,11 @@ created: 2026-05-02
 > **CLI Commands:** git (5), make (1)
 > **Speakers:** - [educator] (1)
 
-#### git add: Add changes
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-from-scratch/git-add-add-changes?u=76281980)
+#### [git add: Add changes](https://www.linkedin.com/learning/git-from-scratch/git-add-add-changes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/git-from-scratch/git-add-add-changes?u=76281980&t=0)** - [Narrator] The interesting thing about Git as an omnipotent passive observer of all things is it's very much passive.
+> **[0:00](https://www.linkedin.com/learning/git-from-scratch/git-add-add-changes?u=76281980&t=0)** - [Narrator] The interesting thing about [[Git]] as an omnipotent passive observer of all things is it's very much passive.
 >
 > **[0:06](https://www.linkedin.com/learning/git-from-scratch/git-add-add-changes?u=76281980&t=6)** Until you tell it what you want it to remember, it'll just passively observe the changes that are happening in the project folder but do nothing.
 >
@@ -261,12 +256,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [narrator] (1)
 
-#### git commit: Commit changes to memory
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-from-scratch/git-commit-commit-changes-to-memory?u=76281980)
+#### [git commit: Commit changes to memory](https://www.linkedin.com/learning/git-from-scratch/git-commit-commit-changes-to-memory?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/git-from-scratch/git-commit-commit-changes-to-memory?u=76281980&t=0)** - [Speaker] The power of Git becomes apparent when you start committing changes to the history of the project.
+> **[0:00](https://www.linkedin.com/learning/git-from-scratch/git-commit-commit-changes-to-memory?u=76281980&t=0)** - [Speaker] The power of [[Git]] becomes apparent when you start committing changes to the history of the project.
 >
 > **[0:04](https://www.linkedin.com/learning/git-from-scratch/git-commit-commit-changes-to-memory?u=76281980&t=4)** This is done using the git commit command.
 >
@@ -278,7 +272,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/git-from-scratch/git-commit-commit-changes-to-memory?u=76281980&t=24)** Git commit creates a snapshot, a picture of the current state of your project at this particular moment in time, and adds it to the branch you're currently working on.
 >
-> **[0:32](https://www.linkedin.com/learning/git-from-scratch/git-commit-commit-changes-to-memory?u=76281980&t=32)** As you work on your project and commit more snapshots, the branch grows and forms a timeline of events.
+> **[0:32](https://www.linkedin.com/learning/git-from-scratch/git-commit-commit-changes-to-memory?u=76281980&t=32)** As you work on your project and commit more snapshots, the branch grows and [[Forms]] a timeline of events.
 >
 > **[0:37](https://www.linkedin.com/learning/git-from-scratch/git-commit-commit-changes-to-memory?u=76281980&t=37)** This means you can now look back on any commit in the branch and see what your code looked like at that time.
 >
@@ -292,18 +286,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (6), power (1), feature (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Git]] (6), [[Forms]] (1)
 > **CLI Commands:** git (6), find (1)
 > **Analogies:** picture (1)
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - [speaker] (1)
 
-#### git status: Get the current status
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-from-scratch/git-status-get-the-current-status?u=76281980)
+#### [git status: Get the current status](https://www.linkedin.com/learning/git-from-scratch/git-status-get-the-current-status?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/git-from-scratch/git-status-get-the-current-status?u=76281980&t=0)** - [Narrator] At any point, if you're wondering what you've changed in your project since the last committed snapshot, you can ask for the git status.
+> **[0:00](https://www.linkedin.com/learning/git-from-scratch/git-status-get-the-current-status?u=76281980&t=0)** - [Narrator] At any point, if you're wondering what you've changed in your project since the last committed snapshot, you can ask for the [[Git]] status.
 >
 > **[0:06](https://www.linkedin.com/learning/git-from-scratch/git-status-get-the-current-status?u=76281980&t=6)** git, the omnipotent passive observer of all things will list out each changed file and the current status of each file for you.
 >
@@ -324,12 +317,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### git branch: Create an alternate timeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-from-scratch/git-branch-create-an-alternate-timeline?u=76281980)
+#### [git branch: Create an alternate timeline](https://www.linkedin.com/learning/git-from-scratch/git-branch-create-an-alternate-timeline?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/git-from-scratch/git-branch-create-an-alternate-timeline?u=76281980&t=0)** - [Instructor] The science fiction part of version control with Git is unleashed when you start working with branches.
+> **[0:00](https://www.linkedin.com/learning/git-from-scratch/git-branch-create-an-alternate-timeline?u=76281980&t=0)** - [Instructor] The science fiction part of [[Version Control]] with [[Git]] is unleashed when you start working with branches.
 >
 > **[0:04](https://www.linkedin.com/learning/git-from-scratch/git-branch-create-an-alternate-timeline?u=76281980&t=4)** Or, as I like to think of them, alternate timelines.
 >
@@ -355,18 +347,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (2), feature (2), parallel (2), [[Version Control]] (1)
+> **Frameworks & Libraries:** [[Git]] (2), [[Version Control]] (1)
 > **CLI Commands:** git (2), find (1)
 > **Speakers:** - [instructor] (1)
 
-#### HEAD: An introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-from-scratch/head-an-introduction?u=76281980)
+#### [HEAD: An introduction](https://www.linkedin.com/learning/git-from-scratch/head-an-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/git-from-scratch/head-an-introduction?u=76281980&t=0)** - [Instructor] Now we come to an important question.
 >
-> **[0:02](https://www.linkedin.com/learning/git-from-scratch/head-an-introduction?u=76281980&t=2)** How does Git know where in this historical tree of time I am, and how do I know where I am?
+> **[0:02](https://www.linkedin.com/learning/git-from-scratch/head-an-introduction?u=76281980&t=2)** How does [[Git]] know where in this historical tree of time I am, and how do I know where I am?
 >
 > **[0:08](https://www.linkedin.com/learning/git-from-scratch/head-an-introduction?u=76281980&t=8)** The answer is you are always working at the top of the current active branch where the head pointer is pointing.
 >
@@ -388,8 +379,7 @@ created: 2026-05-02
 > **CLI Commands:** git (1)
 > **Speakers:** - [instructor] (1)
 
-#### git switch: Go to an alternate timeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-from-scratch/git-switch-go-to-an-alternate-timeline?u=76281980)
+#### [git switch: Go to an alternate timeline](https://www.linkedin.com/learning/git-from-scratch/git-switch-go-to-an-alternate-timeline?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -397,7 +387,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/git-from-scratch/git-switch-go-to-an-alternate-timeline?u=76281980&t=5)** This can be done using the switch command.
 >
-> **[0:07](https://www.linkedin.com/learning/git-from-scratch/git-switch-go-to-an-alternate-timeline?u=76281980&t=7)** At any time, you can pass the command, git switch, with the name of the branch you want to switch to and head switches from your current branch to the one you named.
+> **[0:07](https://www.linkedin.com/learning/git-from-scratch/git-switch-go-to-an-alternate-timeline?u=76281980&t=7)** At any time, you can pass the command, [[Git]] switch, with the name of the branch you want to switch to and head switches from your current branch to the one you named.
 >
 > **[0:15](https://www.linkedin.com/learning/git-from-scratch/git-switch-go-to-an-alternate-timeline?u=76281980&t=15)** You're traveling from one timeline to another.
 >
@@ -415,12 +405,11 @@ created: 2026-05-02
 > **UI Navigation:** switch to (1)
 > **Speakers:** - [instructor] (1)
 
-#### git checkout: Go to an alternate timeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-from-scratch/git-checkout-go-to-an-alternate-timeline?u=76281980)
+#### [git checkout: Go to an alternate timeline](https://www.linkedin.com/learning/git-from-scratch/git-checkout-go-to-an-alternate-timeline?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/git-from-scratch/git-checkout-go-to-an-alternate-timeline?u=76281980&t=0)** - [Instructor] To switch between branches, you can also use the git checkout command.
+> **[0:00](https://www.linkedin.com/learning/git-from-scratch/git-checkout-go-to-an-alternate-timeline?u=76281980&t=0)** - [Instructor] To switch between branches, you can also use the [[Git]] checkout command.
 >
 > **[0:03](https://www.linkedin.com/learning/git-from-scratch/git-checkout-go-to-an-alternate-timeline?u=76281980&t=3)** It works exactly the same way as git switch does for this operation.
 >
@@ -454,8 +443,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### DETACHED HEAD: An explanation
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-from-scratch/detached-head-an-explanation?u=76281980)
+#### [DETACHED HEAD: An explanation](https://www.linkedin.com/learning/git-from-scratch/detached-head-an-explanation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -463,7 +451,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/git-from-scratch/detached-head-an-explanation?u=76281980&t=3)** You create a bit of a timeline crisis.
 >
-> **[0:06](https://www.linkedin.com/learning/git-from-scratch/detached-head-an-explanation?u=76281980&t=6)** You're actively trying to alter history and git does not want you to do that because just like in science fiction, if you changed the past, you could change the future which in our case means breaking the coherency of the version control branch.
+> **[0:06](https://www.linkedin.com/learning/git-from-scratch/detached-head-an-explanation?u=76281980&t=6)** You're actively trying to alter history and [[Git]] does not want you to do that because just like in science fiction, if you changed the past, you could change the future which in our case means breaking the coherency of the [[Version Control]] branch.
 >
 > **[0:17](https://www.linkedin.com/learning/git-from-scratch/detached-head-an-explanation?u=76281980&t=17)** To prevent you from accidentally breaking time and altering history, when you check out a previous commit on any branch, you get this warning - 'Detached Head', which sounds rather ominous.
 >
@@ -490,14 +478,13 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### The difference between switch and checkout
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-from-scratch/the-difference-between-switch-and-checkout?u=76281980)
+#### [The difference between switch and checkout](https://www.linkedin.com/learning/git-from-scratch/the-difference-between-switch-and-checkout?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/git-from-scratch/the-difference-between-switch-and-checkout?u=76281980&t=0)** - [Instructor] Okay, there's an obvious question that needs to be answered here.
 >
-> **[0:03](https://www.linkedin.com/learning/git-from-scratch/the-difference-between-switch-and-checkout?u=76281980&t=3)** Why do we have two commands, git switch and git checkout, which do pretty much the same thing?
+> **[0:03](https://www.linkedin.com/learning/git-from-scratch/the-difference-between-switch-and-checkout?u=76281980&t=3)** Why do we have two commands, [[Git]] switch and git checkout, which do pretty much the same thing?
 >
 > **[0:09](https://www.linkedin.com/learning/git-from-scratch/the-difference-between-switch-and-checkout?u=76281980&t=9)** The answer is separation of concerns.
 >
@@ -559,12 +546,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### git merge: Combine two timelines
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-from-scratch/git-merge-combine-two-timelines?u=76281980)
+#### [git merge: Combine two timelines](https://www.linkedin.com/learning/git-from-scratch/git-merge-combine-two-timelines?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/git-from-scratch/git-merge-combine-two-timelines?u=76281980&t=0)** - [Instructor] Git gives you the capability to split your development work into as many branches or alternate timelines as you like, so you can work on many different versions of your code at the same time without losing or overriding any of your work.
+> **[0:00](https://www.linkedin.com/learning/git-from-scratch/git-merge-combine-two-timelines?u=76281980&t=0)** - [Instructor] [[Git]] gives you the capability to split your development work into as many branches or alternate timelines as you like, so you can work on many different versions of your code at the same time without losing or overriding any of your work.
 >
 > **[0:12](https://www.linkedin.com/learning/git-from-scratch/git-merge-combine-two-timelines?u=76281980&t=12)** That's cool and all, but at some point you'll need to recombine the different variations of your code into one branch.
 >
@@ -584,7 +570,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (3), feature (1)
+> **Frameworks & Libraries:** [[Git]] (3)
 > **CLI Commands:** git (3)
 > **API Endpoints:** head  (1)
 > **Env Vars:** head (1)
@@ -592,8 +578,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### CONFLICT: How to fix merge conflicts
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-from-scratch/conflict-how-to-fix-merge-conflicts?u=76281980)
+#### [CONFLICT: How to fix merge conflicts](https://www.linkedin.com/learning/git-from-scratch/conflict-how-to-fix-merge-conflicts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -605,7 +590,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/git-from-scratch/conflict-how-to-fix-merge-conflicts?u=76281980&t=16)** Merging two branches where there are conflicts like this will not work, at least not automatically.
 >
-> **[0:21](https://www.linkedin.com/learning/git-from-scratch/conflict-how-to-fix-merge-conflicts?u=76281980&t=21)** You see, Git may be an omnipotent passive observer of all things when it comes to what code is in your files but it has no idea how you want that code to be merged together.
+> **[0:21](https://www.linkedin.com/learning/git-from-scratch/conflict-how-to-fix-merge-conflicts?u=76281980&t=21)** You see, [[Git]] may be an omnipotent passive observer of all things when it comes to what code is in your files but it has no idea how you want that code to be merged together.
 >
 > **[0:31](https://www.linkedin.com/learning/git-from-scratch/conflict-how-to-fix-merge-conflicts?u=76281980&t=31)** So when there's a conflict like this, it flags it as a conflict, and the merge operation stops.
 >
@@ -637,8 +622,7 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### git revert: Undo something
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-from-scratch/git-revert-undo-something?u=76281980)
+#### [git revert: Undo something](https://www.linkedin.com/learning/git-from-scratch/git-revert-undo-something?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -650,7 +634,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/git-from-scratch/git-revert-undo-something?u=76281980&t=17)** How do you undo something you've committed to history without rewriting history?
 >
-> **[0:21](https://www.linkedin.com/learning/git-from-scratch/git-revert-undo-something?u=76281980&t=21)** The answer is you can actually rewrite history using the git reset command, but it's rather risky and not good practice to do so.
+> **[0:21](https://www.linkedin.com/learning/git-from-scratch/git-revert-undo-something?u=76281980&t=21)** The answer is you can actually rewrite history using the [[Git]] reset command, but it's rather risky and not good practice to do so.
 >
 > **[0:30](https://www.linkedin.com/learning/git-from-scratch/git-revert-undo-something?u=76281980&t=30)** A better solution is to work with the historical timeline and simply pull an older version of your code up to the top of the branch.
 >
@@ -676,14 +660,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (4), hit (1)
+> **Frameworks & Libraries:** [[Git]] (4)
 > **CLI Commands:** git (4), make (1), find (1)
 > **Definitions:** is a  (1), known as (1)
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### git rebase: Move the base of a branch
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-from-scratch/git-rebase-move-the-base-of-a-branch?u=76281980)
+#### [git rebase: Move the base of a branch](https://www.linkedin.com/learning/git-from-scratch/git-rebase-move-the-base-of-a-branch?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -697,7 +680,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/git-from-scratch/git-rebase-move-the-base-of-a-branch?u=76281980&t=28)** This operation is done from the branch you want to rebase.
 >
-> **[0:31](https://www.linkedin.com/learning/git-from-scratch/git-rebase-move-the-base-of-a-branch?u=76281980&t=31)** You pass git rebase and then name the branch you want to use as the new base.
+> **[0:31](https://www.linkedin.com/learning/git-from-scratch/git-rebase-move-the-base-of-a-branch?u=76281980&t=31)** You pass [[Git]] rebase and then name the branch you want to use as the new base.
 >
 > **[0:36](https://www.linkedin.com/learning/git-from-scratch/git-rebase-move-the-base-of-a-branch?u=76281980&t=36)** If there are no conflicts between the experimental branch and the branch you're rebasing to, this process is automatic.
 >
@@ -715,7 +698,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (4), feature (2)
+> **Frameworks & Libraries:** [[Git]] (4)
 > **CLI Commands:** git (4), make (1)
 > **Speakers:** - [instructor] (1)
 

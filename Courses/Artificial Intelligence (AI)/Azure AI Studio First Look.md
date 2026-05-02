@@ -61,22 +61,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Exploring Azure OpenAI Studio
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-studio-first-look/exploring-azure-openai-studio?u=76281980)
+#### [Exploring Azure OpenAI Studio](https://www.linkedin.com/learning/azure-ai-studio-first-look/exploring-azure-openai-studio?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-studio-first-look/exploring-azure-openai-studio?u=76281980&t=0)** - Microsoft's recent $10 billion investment in OpenAI not only provides essential funding for groundbreaking research, but also means that all OpenAI services are exclusively hosted on the Azure platform.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-studio-first-look/exploring-azure-openai-studio?u=76281980&t=0)** - [[Microsoft]]'s recent $10 billion investment in OpenAI not only provides essential funding for groundbreaking research, but also means that all OpenAI services are exclusively hosted on the [[Microsoft Azure|Azure]] platform.
 >
 > **[0:13](https://www.linkedin.com/learning/azure-ai-studio-first-look/exploring-azure-openai-studio?u=76281980&t=13)** For Azure developers, this partnership is exciting because Microsoft is integrating OpenAI services directly into Azure.
 >
-> **[0:21](https://www.linkedin.com/learning/azure-ai-studio-first-look/exploring-azure-openai-studio?u=76281980&t=21)** The Azure AI studio is the perfect place to explore this integration where you can test ChatGPT models, train additional models on your own data, deploy to Azure-hosted websites and integrate with Azure services like Azure with directory.
+> **[0:21](https://www.linkedin.com/learning/azure-ai-studio-first-look/exploring-azure-openai-studio?u=76281980&t=21)** The [[Azure AI Studio]] is the perfect place to explore this integration where you can test [[ChatGPT]] models, train additional models on your own data, deploy to Azure-hosted websites and integrate with Azure services like Azure with directory.
 >
 > **[0:37](https://www.linkedin.com/learning/azure-ai-studio-first-look/exploring-azure-openai-studio?u=76281980&t=37)** Let's explore the Azure OpenAI studio and discover all the things that you can do with it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Microsoft]] (2), [[Azure AI Studio]] (1), [[ChatGPT]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Microsoft]] (2), [[Azure AI Studio]] (1), [[ChatGPT]] (1)
 > **Speakers:** - microsoft (1)
 
 
@@ -84,12 +83,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Azure AI Studio and the Azure Portal
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-studio-first-look/azure-ai-studio-and-the-azure-portal?u=76281980)
+#### [Azure AI Studio and the Azure Portal](https://www.linkedin.com/learning/azure-ai-studio-first-look/azure-ai-studio-and-the-azure-portal?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-studio-first-look/azure-ai-studio-and-the-azure-portal?u=76281980&t=0)** - [Instructor] Assuming your request for access to the service was granted by Microsoft, you'll be able to log in with your organization account to this site, oai.[azure.com](https://azure.com).
+> **[0:00](https://www.linkedin.com/learning/azure-ai-studio-first-look/azure-ai-studio-and-the-azure-portal?u=76281980&t=0)** - [Instructor] Assuming your request for access to the service was granted by [[Microsoft]], you'll be able to log in with your organization account to this site, oai.[[[Microsoft Azure|azure]].com](https://azure.com).
 >
 > **[0:11](https://www.linkedin.com/learning/azure-ai-studio-first-look/azure-ai-studio-and-the-azure-portal?u=76281980&t=11)** On the left rail is the playground and management links but before you explore the playground, you need to have a deployed OpenAI service.
 >
@@ -167,7 +165,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/azure-ai-studio-first-look/azure-ai-studio-and-the-azure-portal?u=76281980&t=147)** Azure OpenAI provides two methods for authentication.
 >
-> **[2:30](https://www.linkedin.com/learning/azure-ai-studio-first-look/azure-ai-studio-and-the-azure-portal?u=76281980&t=150)** You can use either API keys or the Azure Active Directory.
+> **[2:30](https://www.linkedin.com/learning/azure-ai-studio-first-look/azure-ai-studio-and-the-azure-portal?u=76281980&t=150)** You can use either API keys or the [[Microsoft Entra ID|Azure Active Directory]].
 >
 > **[2:35](https://www.linkedin.com/learning/azure-ai-studio-first-look/azure-ai-studio-and-the-azure-portal?u=76281980&t=155)** Microsoft generates two API keys for every AI deployment.
 >
@@ -181,7 +179,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/azure-ai-studio-first-look/azure-ai-studio-and-the-azure-portal?u=76281980&t=175)** No keys means there's no key leakage, no potential service compromise, no need to rotate keys periodically.
 >
-> **[3:02](https://www.linkedin.com/learning/azure-ai-studio-first-look/azure-ai-studio-and-the-azure-portal?u=76281980&t=182)** Simply use the same active directory that exists in your Azure account.
+> **[3:02](https://www.linkedin.com/learning/azure-ai-studio-first-look/azure-ai-studio-and-the-azure-portal?u=76281980&t=182)** Simply use the same [[Active Directory]] that exists in your Azure account.
 >
 > **[3:07](https://www.linkedin.com/learning/azure-ai-studio-first-look/azure-ai-studio-and-the-azure-portal?u=76281980&t=187)** Let's go back to the setup page or the service page and I'll talk about two of these buttons on the bottom of the page.
 >
@@ -203,11 +201,11 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/azure-ai-studio-first-look/azure-ai-studio-and-the-azure-portal?u=76281980&t=224)** These models are optimized for chat.
 >
-> **[3:46](https://www.linkedin.com/learning/azure-ai-studio-first-look/azure-ai-studio-and-the-azure-portal?u=76281980&t=226)** The 16K version supports more tokens which can lead to more accurate completions but is double the price per token.
+> **[3:46](https://www.linkedin.com/learning/azure-ai-studio-first-look/azure-ai-studio-and-the-azure-portal?u=76281980&t=226)** The 16K version supports more [[Tokens]] which can lead to more accurate completions but is double the price per token.
 >
-> **[3:54](https://www.linkedin.com/learning/azure-ai-studio-first-look/azure-ai-studio-and-the-azure-portal?u=76281980&t=234)** Choose text-embedding-ada-002 for support for semantic search and classification.
+> **[3:54](https://www.linkedin.com/learning/azure-ai-studio-first-look/azure-ai-studio-and-the-azure-portal?u=76281980&t=234)** Choose text-embedding-ada-002 for support for [[Semantic Search]] and classification.
 >
-> **[3:59](https://www.linkedin.com/learning/azure-ai-studio-first-look/azure-ai-studio-and-the-azure-portal?u=76281980&t=239)** Think of embedding as a special format of data representation that can be easily utilized by machine learning models and their algorithms.
+> **[3:59](https://www.linkedin.com/learning/azure-ai-studio-first-look/azure-ai-studio-and-the-azure-portal?u=76281980&t=239)** Think of embedding as a special format of data representation that can be easily utilized by machine learning models and their [[Algorithms]].
 >
 > **[4:08](https://www.linkedin.com/learning/azure-ai-studio-first-look/azure-ai-studio-and-the-azure-portal?u=76281980&t=248)** That's interesting, but not what we're looking for today.
 >
@@ -219,11 +217,11 @@ created: 2026-05-02
 >
 > **[4:24](https://www.linkedin.com/learning/azure-ai-studio-first-look/azure-ai-studio-and-the-azure-portal?u=76281980&t=264)** And over here where it says deployment, I can see my deployment.
 >
-> **[4:30](https://www.linkedin.com/learning/azure-ai-studio-first-look/azure-ai-studio-and-the-azure-portal?u=76281980&t=270)** Now I can start working with the Chat Playground, the completions, or the DALL-E preview.
+> **[4:30](https://www.linkedin.com/learning/azure-ai-studio-first-look/azure-ai-studio-and-the-azure-portal?u=76281980&t=270)** Now I can start working with the Chat Playground, the completions, or the [[DALL-E]] preview.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), ai (4), api (4), [[Microsoft]] (2), [[Microsoft Entra ID|Azure active directory]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Microsoft]] (2), [[Microsoft Entra ID|Azure active directory]] (2), [[Active Directory]] (1), [[Tokens]] (1)
 > **Env Vars:** api (4), gtp (2), dall (1)
 > **UI Navigation:** click on (7)
 > **Prerequisites:** you need to have (2), set up (2), configure (1), setup (1)
@@ -232,18 +230,17 @@ created: 2026-05-02
 > **URLs:** [azure.com](https://azure.com) (1)
 > **Cross-References:** go back to (1)
 
-#### Key differences between Azure and OpenAI
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-studio-first-look/key-differences-between-azure-and-openai?u=76281980)
+#### [Key differences between Azure and OpenAI](https://www.linkedin.com/learning/azure-ai-studio-first-look/key-differences-between-azure-and-openai?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-ai-studio-first-look/key-differences-between-azure-and-openai?u=76281980&t=0)** - [Instructor] Let's clarify some concepts in this video.
 >
-> **[0:02](https://www.linkedin.com/learning/azure-ai-studio-first-look/key-differences-between-azure-and-openai?u=76281980&t=2)** We'll talk about the difference between Azure seen on the left and the official OpenAI site seen on the right.
+> **[0:02](https://www.linkedin.com/learning/azure-ai-studio-first-look/key-differences-between-azure-and-openai?u=76281980&t=2)** We'll talk about the difference between [[Microsoft Azure|Azure]] seen on the left and the official OpenAI site seen on the right.
 >
 > **[0:07](https://www.linkedin.com/learning/azure-ai-studio-first-look/key-differences-between-azure-and-openai?u=76281980&t=7)** On the left, check out the Azure site name for a minute.
 >
-> **[0:10](https://www.linkedin.com/learning/azure-ai-studio-first-look/key-differences-between-azure-and-openai?u=76281980&t=10)** This site is the Azure OpenAI Studio, yet the name shown on the site is Azure AI Studio.
+> **[0:10](https://www.linkedin.com/learning/azure-ai-studio-first-look/key-differences-between-azure-and-openai?u=76281980&t=10)** This site is the Azure OpenAI Studio, yet the name shown on the site is [[Azure AI Studio]].
 >
 > **[0:18](https://www.linkedin.com/learning/azure-ai-studio-first-look/key-differences-between-azure-and-openai?u=76281980&t=18)** This confused me when I first started using the site.
 >
@@ -259,17 +256,17 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/azure-ai-studio-first-look/key-differences-between-azure-and-openai?u=76281980&t=50)** Let's go over to the OpenAI site.
 >
-> **[0:52](https://www.linkedin.com/learning/azure-ai-studio-first-look/key-differences-between-azure-and-openai?u=76281980&t=52)** I'll go down to, or should say go over to the section called view code and here I can see the code for calling the service and the languages available are Python, Node.js, Curl, and JSON.
+> **[0:52](https://www.linkedin.com/learning/azure-ai-studio-first-look/key-differences-between-azure-and-openai?u=76281980&t=52)** I'll go down to, or should say go over to the section called view code and here I can see the code for calling the service and the languages available are [[Python (Programming Language)|Python]], [[Node.js]], Curl, and [[JSON]].
 >
 > **[1:05](https://www.linkedin.com/learning/azure-ai-studio-first-look/key-differences-between-azure-and-openai?u=76281980&t=65)** Over on the Azure site, let's go to chat.
 >
-> **[1:14](https://www.linkedin.com/learning/azure-ai-studio-first-look/key-differences-between-azure-and-openai?u=76281980&t=74)** To this section, view code and the languages available here are Python, JSON, curl, and of course, Microsoft has their C# language available here.
+> **[1:14](https://www.linkedin.com/learning/azure-ai-studio-first-look/key-differences-between-azure-and-openai?u=76281980&t=74)** To this section, view code and the languages available here are Python, JSON, curl, and of course, [[Microsoft]] has their C# language available here.
 >
 > **[1:25](https://www.linkedin.com/learning/azure-ai-studio-first-look/key-differences-between-azure-and-openai?u=76281980&t=85)** A key difference in Azure is the management section.
 >
 > **[1:28](https://www.linkedin.com/learning/azure-ai-studio-first-look/key-differences-between-azure-and-openai?u=76281980&t=88)** In the model section, we can see the base models.
 >
-> **[1:32](https://www.linkedin.com/learning/azure-ai-studio-first-look/key-differences-between-azure-and-openai?u=76281980&t=92)** However, Azure OpenAI service lets you tailor these models to your own personal dataset using a process known as fine tuning.
+> **[1:32](https://www.linkedin.com/learning/azure-ai-studio-first-look/key-differences-between-azure-and-openai?u=76281980&t=92)** However, Azure OpenAI service lets you tailor these models to your own personal dataset using a process known as [[Fine Tuning]].
 >
 > **[1:40](https://www.linkedin.com/learning/azure-ai-studio-first-look/key-differences-between-azure-and-openai?u=76281980&t=100)** This customization step will let you get more out of the service by providing higher quality results than what you can just get from a prompt design.
 >
@@ -277,11 +274,11 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/azure-ai-studio-first-look/key-differences-between-azure-and-openai?u=76281980&t=112)** The customized model lets you achieve better results on a wider number of tasks without needing to provide examples in your prompt.
 >
-> **[1:58](https://www.linkedin.com/learning/azure-ai-studio-first-look/key-differences-between-azure-and-openai?u=76281980&t=118)** The result is less text sent and fewer tokens processed on every API call, saving cost and improving the request latency.
+> **[1:58](https://www.linkedin.com/learning/azure-ai-studio-first-look/key-differences-between-azure-and-openai?u=76281980&t=118)** The result is less text sent and fewer [[Tokens]] processed on every API call, saving cost and improving the request latency.
 >
 > **[2:08](https://www.linkedin.com/learning/azure-ai-studio-first-look/key-differences-between-azure-and-openai?u=76281980&t=128)** Providing your own data here enables the chat engine to provide responses based on your data.
 >
-> **[2:14](https://www.linkedin.com/learning/azure-ai-studio-first-look/key-differences-between-azure-and-openai?u=76281980&t=134)** You provide the data in a variety of formats, either via file uploads in Azure storage or via REST API calls.
+> **[2:14](https://www.linkedin.com/learning/azure-ai-studio-first-look/key-differences-between-azure-and-openai?u=76281980&t=134)** You provide the data in a variety of formats, either via file uploads in Azure storage or via [[Representational State Transfer (REST)|REST]] API calls.
 >
 > **[2:23](https://www.linkedin.com/learning/azure-ai-studio-first-look/key-differences-between-azure-and-openai?u=76281980&t=143)** Now that Azure knows where to find the data, it can determine what data to retrieve from the designated source based on the user's input and the conversation history.
 >
@@ -315,7 +312,7 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/azure-ai-studio-first-look/key-differences-between-azure-and-openai?u=76281980&t=243)** If you go to the playground, you can choose some predefined examples.
 >
-> **[4:07](https://www.linkedin.com/learning/azure-ai-studio-first-look/key-differences-between-azure-and-openai?u=76281980&t=247)** I picked this one called Explain a SQL Query.
+> **[4:07](https://www.linkedin.com/learning/azure-ai-studio-first-look/key-differences-between-azure-and-openai?u=76281980&t=247)** I picked this one called Explain a [[SQL]] Query.
 >
 > **[4:09](https://www.linkedin.com/learning/azure-ai-studio-first-look/key-differences-between-azure-and-openai?u=76281980&t=249)** You can see there are many other choices.
 >
@@ -337,13 +334,13 @@ created: 2026-05-02
 >
 > **[4:49](https://www.linkedin.com/learning/azure-ai-studio-first-look/key-differences-between-azure-and-openai?u=76281980&t=289)** OpenAI Research has discovered that it's possible to do nearly all the tasks available in the old completion API in this new one and the new API is also better at chat.
 >
-> **[4:59](https://www.linkedin.com/learning/azure-ai-studio-first-look/key-differences-between-azure-and-openai?u=76281980&t=299)** One last thought before we move on and look at how to program the chat completion API, Azure does support GPT-4.
+> **[4:59](https://www.linkedin.com/learning/azure-ai-studio-first-look/key-differences-between-azure-and-openai?u=76281980&t=299)** One last thought before we move on and look at how to program the chat completion API, Azure does support [[GPT-4]].
 >
 > **[5:06](https://www.linkedin.com/learning/azure-ai-studio-first-look/key-differences-between-azure-and-openai?u=76281980&t=306)** By default, we only get access to GPT-3.5, but we can request that GPT-4 be added to our subscription.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (12), [[Microsoft Azure|Azure]] (10), data (6), prompt (5), [[SQL]] (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), [[SQL]] (3), [[Python (Programming Language)|Python]] (2), [[JSON]] (2), [[Tokens]] (2)
 > **Env Vars:** api (12), sql (3), gpt (3), json (2), rest (1)
 > **CLI Commands:** python (2), curl (2), node (1), find (1)
 > **Definitions:** known as (2), is a  (2)
@@ -352,14 +349,13 @@ created: 2026-05-02
 > **File Paths:** node.js (1)
 > **Versions:** 3.5 (1)
 
-#### Use OpenAI chat with Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-studio-first-look/use-openai-chat-with-python?u=76281980)
+#### [Use OpenAI chat with Python](https://www.linkedin.com/learning/azure-ai-studio-first-look/use-openai-chat-with-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-studio-first-look/use-openai-chat-with-python?u=76281980&t=0)** - One advantage of using the playground is that it generates basic code for interacting with the Azure OpenAI service.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-studio-first-look/use-openai-chat-with-python?u=76281980&t=0)** - One advantage of using the playground is that it generates basic code for interacting with the [[Microsoft Azure|Azure]] OpenAI service.
 >
-> **[0:06](https://www.linkedin.com/learning/azure-ai-studio-first-look/use-openai-chat-with-python?u=76281980&t=6)** On the right is a Python example in the Visual Studio Code editor.
+> **[0:06](https://www.linkedin.com/learning/azure-ai-studio-first-look/use-openai-chat-with-python?u=76281980&t=6)** On the right is a [[Python (Programming Language)|Python]] example in the Visual Studio Code editor.
 >
 > **[0:10](https://www.linkedin.com/learning/azure-ai-studio-first-look/use-openai-chat-with-python?u=76281980&t=10)** The first 19 lines of code shown here, I copied from the playground.
 >
@@ -413,7 +409,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/azure-ai-studio-first-look/use-openai-chat-with-python?u=76281980&t=139)** And then on line 14, I'm specifying a temperature.
 >
-> **[2:22](https://www.linkedin.com/learning/azure-ai-studio-first-look/use-openai-chat-with-python?u=76281980&t=142)** I'm also specifying the number of max tokens I want to use in this API call.
+> **[2:22](https://www.linkedin.com/learning/azure-ai-studio-first-look/use-openai-chat-with-python?u=76281980&t=142)** I'm also specifying the number of max [[Tokens]] I want to use in this API call.
 >
 > **[2:27](https://www.linkedin.com/learning/azure-ai-studio-first-look/use-openai-chat-with-python?u=76281980&t=147)** This is a basic app.
 >
@@ -461,7 +457,7 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/azure-ai-studio-first-look/use-openai-chat-with-python?u=76281980&t=250)** As I mentioned earlier, the API keys are created when you set up your open AI service.
 >
-> **[4:15](https://www.linkedin.com/learning/azure-ai-studio-first-look/use-openai-chat-with-python?u=76281980&t=255)** What's nice is that here in the AI studio, when we pick the deployment from the list, Microsoft automatically adds the keys to the playground and the sample code.
+> **[4:15](https://www.linkedin.com/learning/azure-ai-studio-first-look/use-openai-chat-with-python?u=76281980&t=255)** What's nice is that here in the AI studio, when we pick the deployment from the list, [[Microsoft]] automatically adds the keys to the playground and the sample code.
 >
 > **[4:26](https://www.linkedin.com/learning/azure-ai-studio-first-look/use-openai-chat-with-python?u=76281980&t=266)** There are three roles available when you're sending a message.
 >
@@ -489,7 +485,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (14), [[Microsoft Azure|Azure]] (5), ai (5), [[Python (Programming Language)|Python]] (3), prompt (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Python (Programming Language)|Python]] (3), [[Tokens]] (1), [[Microsoft]] (1)
 > **Env Vars:** api (14), gpt (1)
 > **CLI Commands:** python (3), make (1), find (1)
 > **Tools:** terminal (2), visual studio (1)
@@ -498,12 +494,11 @@ created: 2026-05-02
 > **Exercise Files:** sample code (2)
 > **Analogies:** similar to (2)
 
-#### Create Dall-E images with Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-studio-first-look/create-dall-e-images-with-python?u=76281980)
+#### [Create Dall-E images with Python](https://www.linkedin.com/learning/azure-ai-studio-first-look/create-dall-e-images-with-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-studio-first-look/create-dall-e-images-with-python?u=76281980&t=0)** - Here's an example of working with the DALL-E playground preview.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-studio-first-look/create-dall-e-images-with-python?u=76281980&t=0)** - Here's an example of working with the [[DALL-E]] playground preview.
 >
 > **[0:05](https://www.linkedin.com/learning/azure-ai-studio-first-look/create-dall-e-images-with-python?u=76281980&t=5)** This takes a text prompt, in this case, it's a prompt about early morning photography.
 >
@@ -519,21 +514,21 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/azure-ai-studio-first-look/create-dall-e-images-with-python?u=76281980&t=32)** And then I've added one extra line of code here in line 17 where I'm printing out the image_url.
 >
-> **[0:39](https://www.linkedin.com/learning/azure-ai-studio-first-look/create-dall-e-images-with-python?u=76281980&t=39)** I'll run the Python script in my terminal.
+> **[0:39](https://www.linkedin.com/learning/azure-ai-studio-first-look/create-dall-e-images-with-python?u=76281980&t=39)** I'll run the [[Python (Programming Language)|Python]] script in my terminal.
 >
 > **[0:43](https://www.linkedin.com/learning/azure-ai-studio-first-look/create-dall-e-images-with-python?u=76281980&t=43)** This time I'm using "ImageGen.py".
 >
 > **[0:49](https://www.linkedin.com/learning/azure-ai-studio-first-look/create-dall-e-images-with-python?u=76281980&t=49)** I get back an ImageURL.
 >
-> **[0:51](https://www.linkedin.com/learning/azure-ai-studio-first-look/create-dall-e-images-with-python?u=76281980&t=51)** Now, one of the things I can do in the Windows terminal is I can click, control click on this URL and it'll open it in the browser.
+> **[0:51](https://www.linkedin.com/learning/azure-ai-studio-first-look/create-dall-e-images-with-python?u=76281980&t=51)** Now, one of the things I can do in the [[Windows]] terminal is I can click, control click on this URL and it'll open it in the browser.
 >
 > **[1:02](https://www.linkedin.com/learning/azure-ai-studio-first-look/create-dall-e-images-with-python?u=76281980&t=62)** There's plenty more to explore.
 >
-> **[1:04](https://www.linkedin.com/learning/azure-ai-studio-first-look/create-dall-e-images-with-python?u=76281980&t=64)** For example, we didn't look at adding custom data for the models or how to work with active directory.
+> **[1:04](https://www.linkedin.com/learning/azure-ai-studio-first-look/create-dall-e-images-with-python?u=76281980&t=64)** For example, we didn't look at adding custom data for the models or how to work with [[Active Directory]].
 >
-> **[1:10](https://www.linkedin.com/learning/azure-ai-studio-first-look/create-dall-e-images-with-python?u=76281980&t=70)** Nevertheless, I'm sure you see just how convenient it is to work in the Azure AI Studio.
+> **[1:10](https://www.linkedin.com/learning/azure-ai-studio-first-look/create-dall-e-images-with-python?u=76281980&t=70)** Nevertheless, I'm sure you see just how convenient it is to work in the [[Azure AI Studio]].
 >
-> **[1:15](https://www.linkedin.com/learning/azure-ai-studio-first-look/create-dall-e-images-with-python?u=76281980&t=75)** You get to experiment with the models, see the sample code, and even publish to an Azure hosted website.
+> **[1:15](https://www.linkedin.com/learning/azure-ai-studio-first-look/create-dall-e-images-with-python?u=76281980&t=75)** You get to experiment with the models, see the sample code, and even publish to an [[Microsoft Azure|Azure]] hosted website.
 >
 > **[1:22](https://www.linkedin.com/learning/azure-ai-studio-first-look/create-dall-e-images-with-python?u=76281980&t=82)** Now go try it for yourself.
 >
@@ -541,7 +536,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (3), [[DALL-E]] (1), [[Python (Programming Language)|Python]] (1), [[Windows]] (1), data (1)
+> **Frameworks & Libraries:** [[DALL-E]] (1), [[Python (Programming Language)|Python]] (1), [[Windows]] (1), [[Active Directory]] (1), [[Azure AI Studio]] (1)
 > **Tools:** visual studio (1), terminal (1), windows terminal (1)
 > **Code Identifiers:** image_url (2)
 > **Env Vars:** dall (1), url (1)

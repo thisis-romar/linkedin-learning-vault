@@ -82,14 +82,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-foundations-23469069/welcome?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/microservices-foundations-23469069/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microservices-foundations-23469069/welcome?u=76281980&t=0)** - Today's users expect the software that they use to always be available, as well as responsive, no matter where they are on the globe.
 >
-> **[0:10](https://www.linkedin.com/learning/microservices-foundations-23469069/welcome?u=76281980&t=10)** Microservices, as an architectural pattern, aims to provide solutions to these problems.
+> **[0:10](https://www.linkedin.com/learning/microservices-foundations-23469069/welcome?u=76281980&t=10)** [[Microservices]], as an architectural pattern, aims to provide solutions to these problems.
 >
 > **[0:17](https://www.linkedin.com/learning/microservices-foundations-23469069/welcome?u=76281980&t=17)** Hi, my name is Frank Moley.
 >
@@ -104,16 +103,15 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[Microservices]] (3)
 > **Speakers:** - today (1)
 
-#### What you need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-foundations-23469069/what-you-need-to-know?u=76281980)
+#### [What you need to know](https://www.linkedin.com/learning/microservices-foundations-23469069/what-you-need-to-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microservices-foundations-23469069/what-you-need-to-know?u=76281980&t=0)** - Making the move to microservices is no easy task.
+> **[0:00](https://www.linkedin.com/learning/microservices-foundations-23469069/what-you-need-to-know?u=76281980&t=0)** - Making the move to [[Microservices]] is no easy task.
 >
 > **[0:04](https://www.linkedin.com/learning/microservices-foundations-23469069/what-you-need-to-know?u=76281980&t=4)** It takes a team effort and buy-in from the entire team to make this migration successful.
 >
-> **[0:12](https://www.linkedin.com/learning/microservices-foundations-23469069/what-you-need-to-know?u=76281980&t=12)** This course is designed for everyone involved in the software development lifecycle.
+> **[0:12](https://www.linkedin.com/learning/microservices-foundations-23469069/what-you-need-to-know?u=76281980&t=12)** This course is designed for everyone involved in the [[Software Development]] lifecycle.
 >
 > **[0:18](https://www.linkedin.com/learning/microservices-foundations-23469069/what-you-need-to-know?u=76281980&t=18)** For the managers and directors, this course should provide you with the basic knowledge of why the work associated with microservices may be worth it.
 >
@@ -129,7 +127,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/microservices-foundations-23469069/what-you-need-to-know?u=76281980&t=97)** You'll be exposed to the most core concepts of microservices in a way that allows you to start asking the right questions in order to make the best decisions possible for your organization.
 >
-> **[1:51](https://www.linkedin.com/learning/microservices-foundations-23469069/what-you-need-to-know?u=76281980&t=111)** You'll also be made aware of the challenges that you'll face so you can quickly react to them.
+> **[1:51](https://www.linkedin.com/learning/microservices-foundations-23469069/what-you-need-to-know?u=76281980&t=111)** You'll also be made aware of the challenges that you'll face so you can quickly [[React.js|react]] to them.
 >
 > **[1:58](https://www.linkedin.com/learning/microservices-foundations-23469069/what-you-need-to-know?u=76281980&t=118)** For my fellow developers out there, this course should provide you with a great foundation to explain why you're writing the code the way that you are.
 >
@@ -137,7 +135,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/microservices-foundations-23469069/what-you-need-to-know?u=76281980&t=143)** You'll also be exposed to some new ways of thinking about writing software for a globally distributed user base.
 >
-> **[2:32](https://www.linkedin.com/learning/microservices-foundations-23469069/what-you-need-to-know?u=76281980&t=152)** While I won't focus on the how-to aspects of writing microservices, most modern languages have frameworks and patterns for delivering Restful, GRPC or even GraphQL services that can be used in this architecture.
+> **[2:32](https://www.linkedin.com/learning/microservices-foundations-23469069/what-you-need-to-know?u=76281980&t=152)** While I won't focus on the how-to aspects of writing microservices, most modern languages have frameworks and patterns for delivering Restful, GRPC or even [[GraphQL]] services that can be used in this architecture.
 >
 > **[2:50](https://www.linkedin.com/learning/microservices-foundations-23469069/what-you-need-to-know?u=76281980&t=170)** No matter your role, in order to be successful in this course, you just need to have a desire to learn and some basic knowledge of software development.
 >
@@ -149,7 +147,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microservices]] (5), [[Software Development]] (2), teams (1), [[React.js|React]] (1), [[GraphQL]] (1)
+> **Frameworks & Libraries:** [[Microservices]] (5), [[Software Development]] (2), [[React.js|React]] (1), [[GraphQL]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** grpc (1), http (1)
 > **Prerequisites:** you'll need (1)
@@ -160,8 +158,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### History of service-based architectures
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-foundations-23469069/history-of-service-based-architectures?u=76281980)
+#### [History of service-based architectures](https://www.linkedin.com/learning/microservices-foundations-23469069/history-of-service-based-architectures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -211,19 +208,19 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/microservices-foundations-23469069/history-of-service-based-architectures?u=76281980&t=219)** SOA was however the hottest architecture pattern of the time.
 >
-> **[3:45](https://www.linkedin.com/learning/microservices-foundations-23469069/history-of-service-based-architectures?u=76281980&t=225)** Enter into the picture microservices.
+> **[3:45](https://www.linkedin.com/learning/microservices-foundations-23469069/history-of-service-based-architectures?u=76281980&t=225)** Enter into the picture [[Microservices]].
 >
 > **[3:49](https://www.linkedin.com/learning/microservices-foundations-23469069/history-of-service-based-architectures?u=76281980&t=229)** Now, I would be the first to state that microservices based architectures are not the silver bullet.
 >
 > **[3:57](https://www.linkedin.com/learning/microservices-foundations-23469069/history-of-service-based-architectures?u=76281980&t=237)** In fact, they bring their own sets of problems.
 >
-> **[4:01](https://www.linkedin.com/learning/microservices-foundations-23469069/history-of-service-based-architectures?u=76281980&t=241)** They do however, have the promise of a more agile framework that can be extended into a cloud native world much easier than either monolithic applications or SOA based architectures.
+> **[4:01](https://www.linkedin.com/learning/microservices-foundations-23469069/history-of-service-based-architectures?u=76281980&t=241)** They do however, have the promise of a more [[Agile Development|agile]] framework that can be extended into a cloud native world much easier than either monolithic applications or SOA based architectures.
 >
 > **[4:18](https://www.linkedin.com/learning/microservices-foundations-23469069/history-of-service-based-architectures?u=76281980&t=258)** The rage of microservices is not an accident either.
 >
-> **[4:22](https://www.linkedin.com/learning/microservices-foundations-23469069/history-of-service-based-architectures?u=76281980&t=262)** The model fits well in both the web developer and web service developer, in part because HTTP is at the heart of the model when rest is utilized.
+> **[4:22](https://www.linkedin.com/learning/microservices-foundations-23469069/history-of-service-based-architectures?u=76281980&t=262)** The model fits well in both the web developer and web service developer, in part because HTTP is at the heart of the model when [[Representational State Transfer (REST)|rest]] is utilized.
 >
-> **[4:36](https://www.linkedin.com/learning/microservices-foundations-23469069/history-of-service-based-architectures?u=76281980&t=276)** Now, some choose GraphQL or GRPC, and while they have the same issues that SOAP has, they do have benefits as well.
+> **[4:36](https://www.linkedin.com/learning/microservices-foundations-23469069/history-of-service-based-architectures?u=76281980&t=276)** Now, some choose [[GraphQL]] or GRPC, and while they have the same issues that SOAP has, they do have benefits as well.
 >
 > **[4:47](https://www.linkedin.com/learning/microservices-foundations-23469069/history-of-service-based-architectures?u=76281980&t=287)** As we begin to dig in, keep in mind the trade-offs we will take in microservices and use that to evaluate if this architecture pattern is for you.
 >
@@ -231,15 +228,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), [[Microservices]] (4), application (3), data (1), functional (1)
+> **Frameworks & Libraries:** [[Microservices]] (4), [[Agile Development|Agile]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[GraphQL]] (1)
 > **Env Vars:** soap (4), soa (3), http (3), xml (2), grpc (1)
 > **CLI Commands:** make (2)
 > **Analogies:** picture (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - we (1)
 
-#### The monolithic application
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-foundations-23469069/the-monolithic-application?u=76281980)
+#### [The monolithic application](https://www.linkedin.com/learning/microservices-foundations-23469069/the-monolithic-application?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -251,7 +247,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/microservices-foundations-23469069/the-monolithic-application?u=76281980&t=22)** The first and probably most prevalent for me is large single file deployments.
 >
-> **[0:29](https://www.linkedin.com/learning/microservices-foundations-23469069/the-monolithic-application?u=76281980&t=29)** As a Java developer for much of my life, we used to package our deployments for J2EE application servers using single files.
+> **[0:29](https://www.linkedin.com/learning/microservices-foundations-23469069/the-monolithic-application?u=76281980&t=29)** As a [[Java]] developer for much of my life, we used to package our deployments for J2EE application servers using single files.
 >
 > **[0:39](https://www.linkedin.com/learning/microservices-foundations-23469069/the-monolithic-application?u=76281980&t=39)** All the components were built and packaged into the common file structure and ultimately deployed as such.
 >
@@ -305,22 +301,21 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/microservices-foundations-23469069/the-monolithic-application?u=76281980&t=244)** Simply put, agility and maintainability suffered dramatically in a monolithic world.
 >
-> **[4:13](https://www.linkedin.com/learning/microservices-foundations-23469069/the-monolithic-application?u=76281980&t=253)** Scalability is often impacted as well.
+> **[4:13](https://www.linkedin.com/learning/microservices-foundations-23469069/the-monolithic-application?u=76281980&t=253)** [[Scalability]] is often impacted as well.
 >
 > **[4:17](https://www.linkedin.com/learning/microservices-foundations-23469069/the-monolithic-application?u=76281980&t=257)** Scaling out a monolith requires deploying the entire package even if only one set of functions is under load.
 >
-> **[4:28](https://www.linkedin.com/learning/microservices-foundations-23469069/the-monolithic-application?u=76281980&t=268)** Considering the costs associated with monolithic deployments, as well as hardware and other infrastructure costs, the monolithic application has lost a lot of favor in the development community.
+> **[4:28](https://www.linkedin.com/learning/microservices-foundations-23469069/the-monolithic-application?u=76281980&t=268)** Considering the costs associated with monolithic deployments, as well as [[Hardware]] and other infrastructure costs, the monolithic application has lost a lot of favor in the development community.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), business (2), web (2), feature (2), [[Java]] (1)
+> **Frameworks & Libraries:** [[Java]] (1), [[Scalability]] (1), [[Hardware]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** j2ee (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - often (1)
 
-#### Service-oriented architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-foundations-23469069/service-oriented-architecture?u=76281980)
+#### [Service-oriented architecture](https://www.linkedin.com/learning/microservices-foundations-23469069/service-oriented-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -384,21 +379,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), career (1), web (1)
 > **Env Vars:** soap (11), soa (4), xml (2), wsdl (1), bpo (1)
 > **Definitions:** is a  (1), known as (1)
 > **Speakers:** - i (1)
 
-#### Microservices: The new kid on the block
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-foundations-23469069/microservices-the-new-kid-on-the-block?u=76281980)
+#### [Microservices: The new kid on the block](https://www.linkedin.com/learning/microservices-foundations-23469069/microservices-the-new-kid-on-the-block?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microservices-foundations-23469069/microservices-the-new-kid-on-the-block?u=76281980&t=0)** - Microservices-based architectures are really the new kid on the block, but they aren't babies.
+> **[0:00](https://www.linkedin.com/learning/microservices-foundations-23469069/microservices-the-new-kid-on-the-block?u=76281980&t=0)** - [[Microservices]]-based architectures are really the new kid on the block, but they aren't babies.
 >
 > **[0:07](https://www.linkedin.com/learning/microservices-foundations-23469069/microservices-the-new-kid-on-the-block?u=76281980&t=7)** In fact, many of the concepts of microservices architecture can be traced to core roots of SOA and other service-based architecture patterns.
 >
-> **[0:19](https://www.linkedin.com/learning/microservices-foundations-23469069/microservices-the-new-kid-on-the-block?u=76281980&t=19)** As with all patterns in software development, there is no silver bullet.
+> **[0:19](https://www.linkedin.com/learning/microservices-foundations-23469069/microservices-the-new-kid-on-the-block?u=76281980&t=19)** As with all patterns in [[Software Development]], there is no silver bullet.
 >
 > **[0:25](https://www.linkedin.com/learning/microservices-foundations-23469069/microservices-the-new-kid-on-the-block?u=76281980&t=25)** And that is the theme of what we will discuss throughout this course.
 >
@@ -420,7 +413,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/microservices-foundations-23469069/microservices-the-new-kid-on-the-block?u=76281980&t=104)** This means that every call within the service boundaries are solved via a common communication pattern.
 >
-> **[1:53](https://www.linkedin.com/learning/microservices-foundations-23469069/microservices-the-new-kid-on-the-block?u=76281980&t=113)** Most traditionally REST.
+> **[1:53](https://www.linkedin.com/learning/microservices-foundations-23469069/microservices-the-new-kid-on-the-block?u=76281980&t=113)** Most traditionally [[Representational State Transfer (REST)|REST]].
 >
 > **[1:56](https://www.linkedin.com/learning/microservices-foundations-23469069/microservices-the-new-kid-on-the-block?u=76281980&t=116)** This common communication allows microservices to be implemented in a true polyglot fashion as long as the language provides some mechanism for creating, responding to, and executing against the common communication endpoints.
 >
@@ -438,7 +431,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/microservices-foundations-23469069/microservices-the-new-kid-on-the-block?u=76281980&t=189)** Microservices, however, are cheap.
 >
-> **[3:12](https://www.linkedin.com/learning/microservices-foundations-23469069/microservices-the-new-kid-on-the-block?u=76281980&t=192)** In fact, the entire execution and proxy environment can be done entirely with open-source software on commodity hardware.
+> **[3:12](https://www.linkedin.com/learning/microservices-foundations-23469069/microservices-the-new-kid-on-the-block?u=76281980&t=192)** In fact, the entire execution and proxy environment can be done entirely with [[Open-Source Software]] on commodity [[Hardware]].
 >
 > **[3:23](https://www.linkedin.com/learning/microservices-foundations-23469069/microservices-the-new-kid-on-the-block?u=76281980&t=203)** Even if you choose to build a cloud native platform to execute your services in, you can do this entirely as open-source, again, on commodity hardware.
 >
@@ -458,13 +451,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microservices]] (12), open-source (2), [[Hardware]] (2), [[Software Development]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microservices]] (12), [[Hardware]] (2), [[Software Development]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Open-Source Software]] (1)
 > **Env Vars:** soa (3), rest (1), oss (1)
 > **Definitions:** means that (1)
 > **Speakers:** - microservices (1)
 
-#### Microservices: Solver of problems but not the silver bullet
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-foundations-23469069/microservices-solver-of-problems-but-not-the-silver-bullet?u=76281980)
+#### [Microservices: Solver of problems but not the silver bullet](https://www.linkedin.com/learning/microservices-foundations-23469069/microservices-solver-of-problems-but-not-the-silver-bullet?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -472,7 +464,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/microservices-foundations-23469069/microservices-solver-of-problems-but-not-the-silver-bullet?u=76281980&t=6)** There is no single silver bullet that solves every use case you have, and even within a pattern, there are compromises that need to be made.
 >
-> **[0:17](https://www.linkedin.com/learning/microservices-foundations-23469069/microservices-solver-of-problems-but-not-the-silver-bullet?u=76281980&t=17)** As I previously alluded to, there are costs to pay for moving to microservices architecture, and I feel it is critical to discuss these some before we dig into the pattern.
+> **[0:17](https://www.linkedin.com/learning/microservices-foundations-23469069/microservices-solver-of-problems-but-not-the-silver-bullet?u=76281980&t=17)** As I previously alluded to, there are costs to pay for moving to [[Microservices]] architecture, and I feel it is critical to discuss these some before we dig into the pattern.
 >
 > **[0:30](https://www.linkedin.com/learning/microservices-foundations-23469069/microservices-solver-of-problems-but-not-the-silver-bullet?u=76281980&t=30)** You and your organization must decide if the benefits you gain from moving to microservices is worth the cost you pay.
 >
@@ -520,21 +512,20 @@ created: 2026-05-02
 >
 > **[4:42](https://www.linkedin.com/learning/microservices-foundations-23469069/microservices-solver-of-problems-but-not-the-silver-bullet?u=76281980&t=282)** Your ability to make decisions that maximize benefit while reducing risks and complications will help spell success for your organization, but making blind decisions will risk failure.
 >
-> **[4:59](https://www.linkedin.com/learning/microservices-foundations-23469069/microservices-solver-of-problems-but-not-the-silver-bullet?u=76281980&t=299)** Throughout the rest of this course, as I bring up the potential pitfalls of this architecture pattern, my intention is not to discourage you from moving this direction, but instead to arm you with the knowledge needed to make the correct compromises that will lead to success.
+> **[4:59](https://www.linkedin.com/learning/microservices-foundations-23469069/microservices-solver-of-problems-but-not-the-silver-bullet?u=76281980&t=299)** Throughout the [[Representational State Transfer (REST)|rest]] of this course, as I bring up the potential pitfalls of this architecture pattern, my intention is not to discourage you from moving this direction, but instead to arm you with the knowledge needed to make the correct compromises that will lead to success.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microservices]] (10), teams (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microservices]] (10), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
 > **Speakers:** - every (1)
 
-#### Microservices and cloud native
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-foundations-23469069/microservices-and-cloud-native?u=76281980)
+#### [Microservices and cloud native](https://www.linkedin.com/learning/microservices-foundations-23469069/microservices-and-cloud-native?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microservices-foundations-23469069/microservices-and-cloud-native?u=76281980&t=0)** - Often when we talk about microservices, we're talking about cloud native, but that isn't always the case.
+> **[0:00](https://www.linkedin.com/learning/microservices-foundations-23469069/microservices-and-cloud-native?u=76281980&t=0)** - Often when we talk about [[Microservices]], we're talking about cloud native, but that isn't always the case.
 >
 > **[0:09](https://www.linkedin.com/learning/microservices-foundations-23469069/microservices-and-cloud-native?u=76281980&t=9)** It's important for us to level set on what the two have in common and what they don't.
 >
@@ -548,13 +539,13 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/microservices-foundations-23469069/microservices-and-cloud-native?u=76281980&t=49)** Cloud native architectures include patterns for designing systems to run in cloud-based infrastructure.
 >
-> **[0:58](https://www.linkedin.com/learning/microservices-foundations-23469069/microservices-and-cloud-native?u=76281980&t=58)** Now, cloud infrastructure is a very loose term.
+> **[0:58](https://www.linkedin.com/learning/microservices-foundations-23469069/microservices-and-cloud-native?u=76281980&t=58)** Now, [[Cloud Infrastructure]] is a very loose term.
 >
-> **[1:03](https://www.linkedin.com/learning/microservices-foundations-23469069/microservices-and-cloud-native?u=76281980&t=63)** Often when people hear cloud, they assume AWS or Azure, but that's only part of the story.
+> **[1:03](https://www.linkedin.com/learning/microservices-foundations-23469069/microservices-and-cloud-native?u=76281980&t=63)** Often when people hear cloud, they assume AWS or [[Microsoft Azure|Azure]], but that's only part of the story.
 >
 > **[1:11](https://www.linkedin.com/learning/microservices-foundations-23469069/microservices-and-cloud-native?u=76281980&t=71)** Cloud infrastructures can be public, but they can also be private or even hybrid.
 >
-> **[1:18](https://www.linkedin.com/learning/microservices-foundations-23469069/microservices-and-cloud-native?u=76281980&t=78)** Cloud computing is a pattern of globally distributing systems to provide increased uptime, increased scalability, and increased distribution.
+> **[1:18](https://www.linkedin.com/learning/microservices-foundations-23469069/microservices-and-cloud-native?u=76281980&t=78)** [[Cloud Computing]] is a pattern of globally distributing systems to provide increased uptime, increased [[Scalability]], and increased distribution.
 >
 > **[1:31](https://www.linkedin.com/learning/microservices-foundations-23469069/microservices-and-cloud-native?u=76281980&t=91)** You can build cloud native systems that run in a single data center with plans on building out more globally, or you can build systems that run in a public cloud that can be further distributed when needed.
 >
@@ -588,7 +579,7 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/microservices-foundations-23469069/microservices-and-cloud-native?u=76281980&t=220)** These use cases usually require a migration to something like Amazon S3 or some other remote file system.
 >
-> **[3:49](https://www.linkedin.com/learning/microservices-foundations-23469069/microservices-and-cloud-native?u=76281980&t=229)** Throughout the rest of this course, I will be focused solely on microservices, but as I just mentioned, in my professional life, we deploy our microservices to a cloud native platform.
+> **[3:49](https://www.linkedin.com/learning/microservices-foundations-23469069/microservices-and-cloud-native?u=76281980&t=229)** Throughout the [[Representational State Transfer (REST)|rest]] of this course, I will be focused solely on microservices, but as I just mentioned, in my professional life, we deploy our microservices to a cloud native platform.
 >
 > **[4:02](https://www.linkedin.com/learning/microservices-foundations-23469069/microservices-and-cloud-native?u=76281980&t=242)** I will try to share tidbits of information that will help you make this transition from VM or big iron based microservices to a cloud native version.
 >
@@ -596,7 +587,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (19), [[Microservices]] (10), [[Cloud Infrastructure]] (1), aws (1), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[Microservices]] (10), [[Cloud Infrastructure]] (1), [[Microsoft Azure|Azure]] (1), [[Cloud Computing]] (1), [[Scalability]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** aws (1), make (1)
 > **Env Vars:** aws (1)
@@ -607,12 +598,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The services
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-foundations-23469069/the-services?u=76281980)
+#### [The services](https://www.linkedin.com/learning/microservices-foundations-23469069/the-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microservices-foundations-23469069/the-services?u=76281980&t=0)** - One of the first questions I am always asked when discussing microservices is what makes a microservice just that?
+> **[0:00](https://www.linkedin.com/learning/microservices-foundations-23469069/the-services?u=76281980&t=0)** - One of the first questions I am always asked when discussing [[Microservices]] is what makes a microservice just that?
 >
 > **[0:09](https://www.linkedin.com/learning/microservices-foundations-23469069/the-services?u=76281980&t=9)** And it's a compound answer.
 >
@@ -622,7 +612,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/microservices-foundations-23469069/the-services?u=76281980&t=24)** Before we get into the size question, however, let me answer one of the easiest parts of the question, and that is how the services communicate.
 >
-> **[0:33](https://www.linkedin.com/learning/microservices-foundations-23469069/the-services?u=76281980&t=33)** In a microservices architecture, all communication between services utilize HTTP, most often REST, though some people use GRPC, and often frontends will consume GraphQL.
+> **[0:33](https://www.linkedin.com/learning/microservices-foundations-23469069/the-services?u=76281980&t=33)** In a microservices architecture, all communication between services utilize HTTP, most often [[Representational State Transfer (REST)|REST]], though some people use GRPC, and often frontends will consume [[GraphQL]].
 >
 > **[0:49](https://www.linkedin.com/learning/microservices-foundations-23469069/the-services?u=76281980&t=49)** There are other methods like event-based communications.
 >
@@ -650,7 +640,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/microservices-foundations-23469069/the-services?u=76281980&t=123)** This is where concepts like domain-driven design come into play, and we will spend a significant amount of time talking about domains in a little bit.
 >
-> **[2:14](https://www.linkedin.com/learning/microservices-foundations-23469069/the-services?u=76281980&t=134)** I like to use the analogy of good object-oriented programming practices when describing microservices.
+> **[2:14](https://www.linkedin.com/learning/microservices-foundations-23469069/the-services?u=76281980&t=134)** I like to use the analogy of good [[Object-Oriented Programming (OOP)|object-oriented programming]] practices when describing microservices.
 >
 > **[2:22](https://www.linkedin.com/learning/microservices-foundations-23469069/the-services?u=76281980&t=142)** In a well-defined OOP space, a class is built to handle one type of thing and provide all of the operations for that type.
 >
@@ -692,24 +682,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microservices]] (8), data (3), business (2), [[Representational State Transfer (REST)|Rest]] (1), [[GraphQL]] (1)
+> **Frameworks & Libraries:** [[Microservices]] (8), [[Representational State Transfer (REST)|Rest]] (1), [[GraphQL]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **Env Vars:** http (3), rest (1), grpc (1), oop (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - one (1)
 
-#### The communication dance
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-foundations-23469069/the-communication-dance?u=76281980)
+#### [The communication dance](https://www.linkedin.com/learning/microservices-foundations-23469069/the-communication-dance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microservices-foundations-23469069/the-communication-dance?u=76281980&t=0)** - In a microservices architecture, the interservice communications can be a source of freedom for growth, but it can also be a source of great pain.
+> **[0:00](https://www.linkedin.com/learning/microservices-foundations-23469069/the-communication-dance?u=76281980&t=0)** - In a [[Microservices]] architecture, the interservice communications can be a source of freedom for growth, but it can also be a source of great pain.
 >
 > **[0:12](https://www.linkedin.com/learning/microservices-foundations-23469069/the-communication-dance?u=76281980&t=12)** I want to spend a little time looking at the network traffic that takes place in a microservices-based system and focus on some of these potential pains.
 >
 > **[0:24](https://www.linkedin.com/learning/microservices-foundations-23469069/the-communication-dance?u=76281980&t=24)** All communication between individual services in a microservices architecture is over HTTP.
 >
-> **[0:32](https://www.linkedin.com/learning/microservices-foundations-23469069/the-communication-dance?u=76281980&t=32)** I will focus on REST as that is my preferred method.
+> **[0:32](https://www.linkedin.com/learning/microservices-foundations-23469069/the-communication-dance?u=76281980&t=32)** I will focus on [[Representational State Transfer (REST)|REST]] as that is my preferred method.
 >
 > **[0:37](https://www.linkedin.com/learning/microservices-foundations-23469069/the-communication-dance?u=76281980&t=37)** This communication framework allows any service to be developed using any coding language or framework that supports RESTful services.
 >
@@ -723,11 +712,11 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/microservices-foundations-23469069/the-communication-dance?u=76281980&t=83)** The development team is often composed of developers with many different skill sets.
 >
-> **[1:29](https://www.linkedin.com/learning/microservices-foundations-23469069/the-communication-dance?u=76281980&t=89)** You may have backend developers working in Java or Go, for instance.
+> **[1:29](https://www.linkedin.com/learning/microservices-foundations-23469069/the-communication-dance?u=76281980&t=89)** You may have backend developers working in [[Java]] or Go, for instance.
 >
-> **[1:33](https://www.linkedin.com/learning/microservices-foundations-23469069/the-communication-dance?u=76281980&t=93)** You may have front end developers working in JavaScript frameworks like React.
+> **[1:33](https://www.linkedin.com/learning/microservices-foundations-23469069/the-communication-dance?u=76281980&t=93)** You may have front end developers working in [[JavaScript]] frameworks like [[React.js|React]].
 >
-> **[1:38](https://www.linkedin.com/learning/microservices-foundations-23469069/the-communication-dance?u=76281980&t=98)** You may also have data scientists working in Python.
+> **[1:38](https://www.linkedin.com/learning/microservices-foundations-23469069/the-communication-dance?u=76281980&t=98)** You may also have data scientists working in [[Python (Programming Language)|Python]].
 >
 > **[1:42](https://www.linkedin.com/learning/microservices-foundations-23469069/the-communication-dance?u=76281980&t=102)** The beauty of a microservices architecture is that each team member can build the services in a language native to them, and then expose those services for others to consume using HTTP.
 >
@@ -775,19 +764,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microservices]] (5), [[Representational State Transfer (REST)|Rest]] (2), teams (2), api (2), traffic (1)
+> **Frameworks & Libraries:** [[Microservices]] (5), [[Representational State Transfer (REST)|Rest]] (2), [[Java]] (1), [[JavaScript]] (1), [[React.js|React]] (1)
 > **Env Vars:** http (4), rest (2), api (2), soap (1)
 > **Analogies:** for instance (2)
 > **CLI Commands:** python (1)
 > **Definitions:** is called (1)
 > **Speakers:** - in (1)
 
-#### Distribution and scale
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-foundations-23469069/distribution-and-scale?u=76281980)
+#### [Distribution and scale](https://www.linkedin.com/learning/microservices-foundations-23469069/distribution-and-scale?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microservices-foundations-23469069/distribution-and-scale?u=76281980&t=0)** - The communication pattern of microservices lends itself to a truly distributed model.
+> **[0:00](https://www.linkedin.com/learning/microservices-foundations-23469069/distribution-and-scale?u=76281980&t=0)** - The communication pattern of [[Microservices]] lends itself to a truly distributed model.
 >
 > **[0:07](https://www.linkedin.com/learning/microservices-foundations-23469069/distribution-and-scale?u=76281980&t=7)** While global distribution is not a requirement for a microservices architecture, the possibility is one of the benefits of this model as a whole.
 >
@@ -843,7 +831,7 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/microservices-foundations-23469069/distribution-and-scale?u=76281980&t=255)** Traditionally, you build your system planning for your busiest day.
 >
-> **[4:21](https://www.linkedin.com/learning/microservices-foundations-23469069/distribution-and-scale?u=76281980&t=261)** In a well-defined microservices architecture, with the right platform, you can build your system for an average day and allow scalability to solve for the increases or the decreases in traffic volume.
+> **[4:21](https://www.linkedin.com/learning/microservices-foundations-23469069/distribution-and-scale?u=76281980&t=261)** In a well-defined microservices architecture, with the right platform, you can build your system for an average day and allow [[Scalability]] to solve for the increases or the decreases in traffic volume.
 >
 > **[4:39](https://www.linkedin.com/learning/microservices-foundations-23469069/distribution-and-scale?u=76281980&t=279)** This so-called elastic scalability, it's very hard, if not impossible, for a monolithic application.
 >
@@ -865,19 +853,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microservices]] (9), [[Scalability]] (6), application (4), data (3), power (2)
+> **Frameworks & Libraries:** [[Microservices]] (9), [[Scalability]] (6)
 > **Cross-References:** in the next (2)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - the (1)
 
-#### The dangers of latency and gridlock
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-foundations-23469069/the-dangers-of-latency-and-gridlock?u=76281980)
+#### [The dangers of latency and gridlock](https://www.linkedin.com/learning/microservices-foundations-23469069/the-dangers-of-latency-and-gridlock?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microservices-foundations-23469069/the-dangers-of-latency-and-gridlock?u=76281980&t=0)** - The communication pattern of a microservices architecture improves the ability to scale and distribute your system, but it comes with cost.
+> **[0:00](https://www.linkedin.com/learning/microservices-foundations-23469069/the-dangers-of-latency-and-gridlock?u=76281980&t=0)** - The communication pattern of a [[Microservices]] architecture improves the ability to scale and distribute your system, but it comes with cost.
 >
 > **[0:12](https://www.linkedin.com/learning/microservices-foundations-23469069/the-dangers-of-latency-and-gridlock?u=76281980&t=12)** Blindly moving into this without acknowledging these costs and working to mitigate them can cause a catastrophic failure.
 >
@@ -931,18 +918,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microservices]] (4), [[Search]] (2), traffic (1), application (1), web application (1)
+> **Frameworks & Libraries:** [[Microservices]] (4)
 > **Analogies:** for instance (2)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - the (1)
 
-#### Bounded context
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-foundations-23469069/bounded-context?u=76281980)
+#### [Bounded context](https://www.linkedin.com/learning/microservices-foundations-23469069/bounded-context?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microservices-foundations-23469069/bounded-context?u=76281980&t=0)** - When deciding how to size your microservices, one common strategy is to leverage domain-driven design.
+> **[0:00](https://www.linkedin.com/learning/microservices-foundations-23469069/bounded-context?u=76281980&t=0)** - When deciding how to size your [[Microservices]], one common strategy is to leverage domain-driven design.
 >
 > **[0:09](https://www.linkedin.com/learning/microservices-foundations-23469069/bounded-context?u=76281980&t=9)** And as such, to focus on the bounded context when decomposing a large multi-domain system into individual services.
 >
@@ -1000,19 +986,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microservices]] (5), data (2), traffic (2), application (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microservices]] (5)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), is called (1)
 > **Analogies:** for instance (1)
 > **Warnings:** note that (1)
 > **Speakers:** - when (1)
 
-#### Data domains as a service boundary
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-foundations-23469069/data-domains-as-a-service-boundary?u=76281980)
+#### [Data domains as a service boundary](https://www.linkedin.com/learning/microservices-foundations-23469069/data-domains-as-a-service-boundary?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microservices-foundations-23469069/data-domains-as-a-service-boundary?u=76281980&t=0)** - Previously, we talked about bounded contexts and leveraging domain driven design for appropriate boundaries on microservices in general.
+> **[0:00](https://www.linkedin.com/learning/microservices-foundations-23469069/data-domains-as-a-service-boundary?u=76281980&t=0)** - Previously, we talked about bounded contexts and leveraging domain driven design for appropriate boundaries on [[Microservices]] in general.
 >
 > **[0:12](https://www.linkedin.com/learning/microservices-foundations-23469069/data-domains-as-a-service-boundary?u=76281980&t=12)** When it gets to the data access layer itself, the so-called data services, things get a little different at times.
 >
@@ -1034,7 +1019,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/microservices-foundations-23469069/data-domains-as-a-service-boundary?u=76281980&t=110)** Now, there are a couple of different ways of tackling this problem, and we're going to talk about both.
 >
-> **[1:57](https://www.linkedin.com/learning/microservices-foundations-23469069/data-domains-as-a-service-boundary?u=76281980&t=117)** The first strategy is to simply start with the database itself and break it up into smaller databases, and then build the associated services.
+> **[1:57](https://www.linkedin.com/learning/microservices-foundations-23469069/data-domains-as-a-service-boundary?u=76281980&t=117)** The first strategy is to simply start with the database itself and break it up into smaller [[Databases]], and then build the associated services.
 >
 > **[2:11](https://www.linkedin.com/learning/microservices-foundations-23469069/data-domains-as-a-service-boundary?u=76281980&t=131)** Now, while this may yield a quicker result, it tends to put you in a bind if you make a mistake.
 >
@@ -1064,7 +1049,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), database (5), [[Microservices]] (4), [[Databases]] (2), api (1)
+> **Frameworks & Libraries:** [[Microservices]] (4), [[Databases]] (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** api (1)
 > **Cross-References:** we talked about (1)
@@ -1072,8 +1057,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - previously (1)
 
-#### No ACID, only BASE
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-foundations-23469069/no-acid-only-base?u=76281980)
+#### [No ACID, only BASE](https://www.linkedin.com/learning/microservices-foundations-23469069/no-acid-only-base?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1081,11 +1065,11 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/microservices-foundations-23469069/no-acid-only-base?u=76281980&t=13)** I do understand the desire, especially in a SOA model, to drive for distributed transactions.
 >
-> **[0:21](https://www.linkedin.com/learning/microservices-foundations-23469069/no-acid-only-base?u=76281980&t=21)** But this really should be considered a non-starter in a microservices architecture.
+> **[0:21](https://www.linkedin.com/learning/microservices-foundations-23469069/no-acid-only-base?u=76281980&t=21)** But this really should be considered a non-starter in a [[Microservices]] architecture.
 >
 > **[0:28](https://www.linkedin.com/learning/microservices-foundations-23469069/no-acid-only-base?u=76281980&t=28)** Traditional systems aimed for transactions that were ACID compliant.
 >
-> **[0:34](https://www.linkedin.com/learning/microservices-foundations-23469069/no-acid-only-base?u=76281980&t=34)** ACID, or atomic, consistent, isolated, and durable, is the concept of making sure that you have data integrity across multiple tables in a traditional relational database.
+> **[0:34](https://www.linkedin.com/learning/microservices-foundations-23469069/no-acid-only-base?u=76281980&t=34)** ACID, or atomic, consistent, isolated, and durable, is the concept of making sure that you have [[Data Integrity]] across multiple tables in a traditional relational database.
 >
 > **[0:49](https://www.linkedin.com/learning/microservices-foundations-23469069/no-acid-only-base?u=76281980&t=49)** An atomic operation is one that has the properties of either succeeding completely or failing completely with no gray area in between.
 >
@@ -1127,7 +1111,7 @@ created: 2026-05-02
 >
 > **[4:24](https://www.linkedin.com/learning/microservices-foundations-23469069/no-acid-only-base?u=76281980&t=264)** Now, as I mentioned, there are times when you do really need ACID transactions.
 >
-> **[4:31](https://www.linkedin.com/learning/microservices-foundations-23469069/no-acid-only-base?u=76281980&t=271)** Take a moment and consider a banking system.
+> **[4:31](https://www.linkedin.com/learning/microservices-foundations-23469069/no-acid-only-base?u=76281980&t=271)** Take a moment and consider a [[Banking]] system.
 >
 > **[4:35](https://www.linkedin.com/learning/microservices-foundations-23469069/no-acid-only-base?u=76281980&t=275)** When you perform a balance transfer, for instance, you have a credit to one account and a debit from another that must occur in a single transaction.
 >
@@ -1147,18 +1131,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Microservices]] (5), database (1), application (1), [[Banking]] (1)
+> **Frameworks & Libraries:** [[Microservices]] (5), [[Data Integrity]] (1), [[Banking]] (1)
 > **Env Vars:** acid (6), soa (2), base (2)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - let (1)
 
-#### The API layer
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-foundations-23469069/the-api-layer?u=76281980)
+#### [The API layer](https://www.linkedin.com/learning/microservices-foundations-23469069/the-api-layer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microservices-foundations-23469069/the-api-layer?u=76281980&t=0)** - An API layer is often included with microservices architectures, and for a good reason.
+> **[0:00](https://www.linkedin.com/learning/microservices-foundations-23469069/the-api-layer?u=76281980&t=0)** - An API layer is often included with [[Microservices]] architectures, and for a good reason.
 >
 > **[0:08](https://www.linkedin.com/learning/microservices-foundations-23469069/the-api-layer?u=76281980&t=8)** In a pure microservices architecture, an API layer is nothing more than an aggregated proxy of all of your service offerings.
 >
@@ -1200,7 +1183,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (14), [[Microservices]] (2), data (1)
+> **Frameworks & Libraries:** [[Microservices]] (2)
 > **Env Vars:** api (14)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (1)
@@ -1213,12 +1196,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Asynchronous communications
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-foundations-23469069/asynchronous-communications?u=76281980)
+#### [Asynchronous communications](https://www.linkedin.com/learning/microservices-foundations-23469069/asynchronous-communications?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microservices-foundations-23469069/asynchronous-communications?u=76281980&t=0)** - One of the best strategies for dealing with reducing latency on a microservices based system is to not rely on a purely synchronous communication model.
+> **[0:00](https://www.linkedin.com/learning/microservices-foundations-23469069/asynchronous-communications?u=76281980&t=0)** - One of the best strategies for dealing with reducing latency on a [[Microservices]] based system is to not rely on a purely synchronous communication model.
 >
 > **[0:13](https://www.linkedin.com/learning/microservices-foundations-23469069/asynchronous-communications?u=76281980&t=13)** Leveraging event-driven asynchronous communications is a fantastic way to improve system health as well as support long-term objectives of moving large amounts of data over long distances in a fairly timely fashion.
 >
@@ -1272,18 +1254,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Microservices]] (3), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microservices]] (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - one (1)
 
-#### Logging and tracing in a microservices architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-foundations-23469069/logging-and-tracing-in-a-microservices-architecture?u=76281980)
+#### [Logging and tracing in a microservices architecture](https://www.linkedin.com/learning/microservices-foundations-23469069/logging-and-tracing-in-a-microservices-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microservices-foundations-23469069/logging-and-tracing-in-a-microservices-architecture?u=76281980&t=0)** - One of the hardest operational problems to solve in a microservices architecture is evaluating call chains and aggregating logging associated to those call chains.
+> **[0:00](https://www.linkedin.com/learning/microservices-foundations-23469069/logging-and-tracing-in-a-microservices-architecture?u=76281980&t=0)** - One of the hardest operational problems to solve in a [[Microservices]] architecture is evaluating call chains and aggregating logging associated to those call chains.
 >
-> **[0:13](https://www.linkedin.com/learning/microservices-foundations-23469069/logging-and-tracing-in-a-microservices-architecture?u=76281980&t=13)** When an issue arises in a microservices architecture, it can become very difficult to see all of the moving parts, especially when you consider that your calls span multiple virtual machines or containers, many with their own sessions.
+> **[0:13](https://www.linkedin.com/learning/microservices-foundations-23469069/logging-and-tracing-in-a-microservices-architecture?u=76281980&t=13)** When an issue arises in a microservices architecture, it can become very difficult to see all of the moving parts, especially when you consider that your calls span multiple [[Virtual Machines]] or containers, many with their own sessions.
 >
 > **[0:31](https://www.linkedin.com/learning/microservices-foundations-23469069/logging-and-tracing-in-a-microservices-architecture?u=76281980&t=31)** The good news is that solving these problems can be relatively straightforward, but you need to plan for this observability early in your design process.
 >
@@ -1295,7 +1276,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/microservices-foundations-23469069/logging-and-tracing-in-a-microservices-architecture?u=76281980&t=86)** The issue of logging, however, becomes significantly noisier in a microservices environment.
 >
-> **[1:34](https://www.linkedin.com/learning/microservices-foundations-23469069/logging-and-tracing-in-a-microservices-architecture?u=76281980&t=94)** Part of the issue is simply the larger volume of artifacts in the system, but also because of the agile nature that is bred from this architecture, you often have various functional teams building different services.
+> **[1:34](https://www.linkedin.com/learning/microservices-foundations-23469069/logging-and-tracing-in-a-microservices-architecture?u=76281980&t=94)** Part of the issue is simply the larger volume of artifacts in the system, but also because of the [[Agile Development|agile]] nature that is bred from this architecture, you often have various functional teams building different services.
 >
 > **[1:51](https://www.linkedin.com/learning/microservices-foundations-23469069/logging-and-tracing-in-a-microservices-architecture?u=76281980&t=111)** As such, each of these teams may end up developing different logging strategies, as well as formatting of those logs.
 >
@@ -1325,27 +1306,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microservices]] (4), teams (2), [[Virtual Machines]] (1), [[Troubleshooting]] (1), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Microservices]] (4), [[Virtual Machines]] (1), [[Agile Development|Agile]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - one (1)
 
-#### Continuous delivery as a requirement
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-foundations-23469069/continuous-delivery-as-a-requirement?u=76281980)
+#### [Continuous delivery as a requirement](https://www.linkedin.com/learning/microservices-foundations-23469069/continuous-delivery-as-a-requirement?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microservices-foundations-23469069/continuous-delivery-as-a-requirement?u=76281980&t=0)** - When building out a microservices architecture, one of the goals is agility of your development teams.
+> **[0:00](https://www.linkedin.com/learning/microservices-foundations-23469069/continuous-delivery-as-a-requirement?u=76281980&t=0)** - When building out a [[Microservices]] architecture, one of the goals is agility of your development teams.
 >
 > **[0:08](https://www.linkedin.com/learning/microservices-foundations-23469069/continuous-delivery-as-a-requirement?u=76281980&t=8)** As your system grows in size, maintaining the agility of your team in all aspects of development can become a challenge.
 >
-> **[0:17](https://www.linkedin.com/learning/microservices-foundations-23469069/continuous-delivery-as-a-requirement?u=76281980&t=17)** We all know that writing code is only one aspect of the software development lifecycle and while smaller artifacts make deployment easier, deployments can become a nightmare.
+> **[0:17](https://www.linkedin.com/learning/microservices-foundations-23469069/continuous-delivery-as-a-requirement?u=76281980&t=17)** We all know that writing code is only one aspect of the [[Software Development]] lifecycle and while smaller artifacts make deployment easier, deployments can become a nightmare.
 >
-> **[0:31](https://www.linkedin.com/learning/microservices-foundations-23469069/continuous-delivery-as-a-requirement?u=76281980&t=31)** As a rule of thumb, you need to invest time in building out a continuous delivery model early in the process.
+> **[0:31](https://www.linkedin.com/learning/microservices-foundations-23469069/continuous-delivery-as-a-requirement?u=76281980&t=31)** As a rule of thumb, you need to invest time in building out a [[Continuous Delivery (CD)|continuous delivery]] model early in the process.
 >
 > **[0:40](https://www.linkedin.com/learning/microservices-foundations-23469069/continuous-delivery-as-a-requirement?u=76281980&t=40)** Microservices based architectures have so many moving parts that the chances of success greatly decrease if you don't have an automated way of building and deploying these services.
 >
-> **[0:53](https://www.linkedin.com/learning/microservices-foundations-23469069/continuous-delivery-as-a-requirement?u=76281980&t=53)** So let's take a look at what it means to build out a CI/CD, or continuous integration and continuous delivery pipeline.
+> **[0:53](https://www.linkedin.com/learning/microservices-foundations-23469069/continuous-delivery-as-a-requirement?u=76281980&t=53)** So let's take a look at what it means to build out a CI/CD, or [[Continuous Integration (CI)|continuous integration]] and continuous delivery pipeline.
 >
 > **[1:03](https://www.linkedin.com/learning/microservices-foundations-23469069/continuous-delivery-as-a-requirement?u=76281980&t=63)** A CI/CD pipeline starts with the most basic aspects of building your committed code base in an automated fashion building.
 >
@@ -1367,7 +1347,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/microservices-foundations-23469069/continuous-delivery-as-a-requirement?u=76281980&t=151)** When the code has been sufficiently validated, it will be deployed to production.
 >
-> **[2:37](https://www.linkedin.com/learning/microservices-foundations-23469069/continuous-delivery-as-a-requirement?u=76281980&t=157)** Once the code is in production, we can use routing techniques like blue-green deployments to push production traffic to our new code.
+> **[2:37](https://www.linkedin.com/learning/microservices-foundations-23469069/continuous-delivery-as-a-requirement?u=76281980&t=157)** Once the code is in production, we can use [[Routing]] techniques like blue-green deployments to push production traffic to our new code.
 >
 > **[2:47](https://www.linkedin.com/learning/microservices-foundations-23469069/continuous-delivery-as-a-requirement?u=76281980&t=167)** Obviously, this is the overall goal of the process, but in order to make it most effective, each and every opportunity to automate a task should be taken.
 >
@@ -1391,17 +1371,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microservices]] (5), [[Automation]] (3), [[Continuous Delivery (CD)|Continuous delivery]] (2), ci (2), cd (2)
+> **Frameworks & Libraries:** [[Microservices]] (5), [[Continuous Delivery (CD)|Continuous delivery]] (2), [[Routing]] (2), [[Software Development]] (1), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **CLI Commands:** make (3), cd (2)
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - when (1)
 
-#### Hybrid architectures: Hierarchy and service-based
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-foundations-23469069/hybrid-architectures-hierarchy-and-service-based?u=76281980)
+#### [Hybrid architectures: Hierarchy and service-based](https://www.linkedin.com/learning/microservices-foundations-23469069/hybrid-architectures-hierarchy-and-service-based?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/microservices-foundations-23469069/hybrid-architectures-hierarchy-and-service-based?u=76281980&t=1)** - A pure microservices architecture can be to many teams, a very daunting task.
+> **[0:01](https://www.linkedin.com/learning/microservices-foundations-23469069/hybrid-architectures-hierarchy-and-service-based?u=76281980&t=1)** - A pure [[Microservices]] architecture can be to many teams, a very daunting task.
 >
 > **[0:08](https://www.linkedin.com/learning/microservices-foundations-23469069/hybrid-architectures-hierarchy-and-service-based?u=76281980&t=8)** In addition to the work comprised of moving to this architecture, the "unknown unknown", so to speak, can be hard to wrap into a roadmap.
 >
@@ -1447,7 +1426,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/microservices-foundations-23469069/hybrid-architectures-hierarchy-and-service-based?u=76281980&t=225)** Another very common architecture is the so-called service-based architecture.
 >
-> **[3:52](https://www.linkedin.com/learning/microservices-foundations-23469069/hybrid-architectures-hierarchy-and-service-based?u=76281980&t=232)** In my mind, this is very similar to the SOA model in which you leave the underlying databases alone and simply carve out your services.
+> **[3:52](https://www.linkedin.com/learning/microservices-foundations-23469069/hybrid-architectures-hierarchy-and-service-based?u=76281980&t=232)** In my mind, this is very similar to the SOA model in which you leave the underlying [[Databases]] alone and simply carve out your services.
 >
 > **[4:03](https://www.linkedin.com/learning/microservices-foundations-23469069/hybrid-architectures-hierarchy-and-service-based?u=76281980&t=243)** By migrating your architecture to this service-based flow, you can gain some of the agility improvements of the microservices model without sharding your data into separate data stores.
 >
@@ -1465,7 +1444,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Microservices]] (6), business (5), teams (1), database (1)
+> **Frameworks & Libraries:** [[Microservices]] (6), [[Databases]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** soa (1)
@@ -1476,16 +1455,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Design considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-foundations-23469069/design-considerations?u=76281980)
+#### [Design considerations](https://www.linkedin.com/learning/microservices-foundations-23469069/design-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microservices-foundations-23469069/design-considerations?u=76281980&t=0)** - When starting the process of designing your microservices, there are a few key points to consider before you write a single line of code.
+> **[0:00](https://www.linkedin.com/learning/microservices-foundations-23469069/design-considerations?u=76281980&t=0)** - When starting the process of designing your [[Microservices]], there are a few key points to consider before you write a single line of code.
 >
 > **[0:11](https://www.linkedin.com/learning/microservices-foundations-23469069/design-considerations?u=76281980&t=11)** While I have mentioned most of this already, I want to roll it up into a clear concise picture, and explain how your designs should account for this material from the ground floor.
 >
-> **[0:24](https://www.linkedin.com/learning/microservices-foundations-23469069/design-considerations?u=76281980&t=24)** One of the first aspects you should consider when designing microservices is your continuous integration and continuous delivery pipelines.
+> **[0:24](https://www.linkedin.com/learning/microservices-foundations-23469069/design-considerations?u=76281980&t=24)** One of the first aspects you should consider when designing microservices is your [[Continuous Integration (CI)|continuous integration]] and [[Continuous Delivery (CD)|continuous delivery]] pipelines.
 >
 > **[0:34](https://www.linkedin.com/learning/microservices-foundations-23469069/design-considerations?u=76281980&t=34)** Don't write any code until you have a plan on how you will handle these tasks.
 >
@@ -1515,7 +1493,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/microservices-foundations-23469069/design-considerations?u=76281980&t=165)** Evaluate the use of non-blocking code when possible, but consider standardizing your stack no matter which way you go.
 >
-> **[2:55](https://www.linkedin.com/learning/microservices-foundations-23469069/design-considerations?u=76281980&t=175)** I know many developers may not like to hear the word standardize, but the reality is that the most successful teams when moving into a microservices architecture have standards across the code base.
+> **[2:55](https://www.linkedin.com/learning/microservices-foundations-23469069/design-considerations?u=76281980&t=175)** I know many developers may not like to hear the [[Microsoft Word|word]] standardize, but the reality is that the most successful teams when moving into a microservices architecture have standards across the code base.
 >
 > **[3:11](https://www.linkedin.com/learning/microservices-foundations-23469069/design-considerations?u=76281980&t=191)** You can leverage a different standard than you currently use, but standardization will allow you to shift resources much more easily as the business needs change.
 >
@@ -1529,18 +1507,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microservices]] (5), data (3), business (2), [[Continuous Integration (CI)|Continuous integration]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1)
+> **Frameworks & Libraries:** [[Microservices]] (5), [[Continuous Integration (CI)|Continuous integration]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** sdlc (1)
 > **Analogies:** picture (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - when (1)
 
-#### The tradeoffs
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-foundations-23469069/the-tradeoffs?u=76281980)
+#### [The tradeoffs](https://www.linkedin.com/learning/microservices-foundations-23469069/the-tradeoffs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microservices-foundations-23469069/the-tradeoffs?u=76281980&t=0)** - I have said it many times that building a microservices architecture is not a silver bullet when it comes to developing software.
+> **[0:00](https://www.linkedin.com/learning/microservices-foundations-23469069/the-tradeoffs?u=76281980&t=0)** - I have said it many times that building a [[Microservices]] architecture is not a silver bullet when it comes to developing software.
 >
 > **[0:10](https://www.linkedin.com/learning/microservices-foundations-23469069/the-tradeoffs?u=76281980&t=10)** I have also spent a significant amount of our time talking about what the issues that can arise in this model are.
 >
@@ -1578,7 +1555,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/microservices-foundations-23469069/the-tradeoffs?u=76281980&t=143)** But in microservices, there are just so many more moving parts that the complexity increases dramatically.
 >
-> **[2:32](https://www.linkedin.com/learning/microservices-foundations-23469069/the-tradeoffs?u=76281980&t=152)** We've also talked about ways to solve this complexity through continuous delivery.
+> **[2:32](https://www.linkedin.com/learning/microservices-foundations-23469069/the-tradeoffs?u=76281980&t=152)** We've also talked about ways to solve this complexity through [[Continuous Delivery (CD)|continuous delivery]].
 >
 > **[2:38](https://www.linkedin.com/learning/microservices-foundations-23469069/the-tradeoffs?u=76281980&t=158)** The benefits of scale and reducing the waste associated with it can be measured.
 >
@@ -1598,15 +1575,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microservices]] (4), business (2), next (1), [[Continuous Delivery (CD)|Continuous delivery]] (1), strengths (1)
+> **Frameworks & Libraries:** [[Microservices]] (4), [[Continuous Delivery (CD)|Continuous delivery]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - i (1)
 
-#### An argument for edge services
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-foundations-23469069/an-argument-for-edge-services?u=76281980)
+#### [An argument for edge services](https://www.linkedin.com/learning/microservices-foundations-23469069/an-argument-for-edge-services?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1614,7 +1590,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/microservices-foundations-23469069/an-argument-for-edge-services?u=76281980&t=9)** This bus brought about significant problems in managing your code as often it became bloated with code itself and that bloat decrease the ability to manage the infrastructure.
 >
-> **[0:24](https://www.linkedin.com/learning/microservices-foundations-23469069/an-argument-for-edge-services?u=76281980&t=24)** In a microservices architecture, you often leverage an API proxy to hide your service implementations behind a common layer.
+> **[0:24](https://www.linkedin.com/learning/microservices-foundations-23469069/an-argument-for-edge-services?u=76281980&t=24)** In a [[Microservices]] architecture, you often leverage an API proxy to hide your service implementations behind a common layer.
 >
 > **[0:34](https://www.linkedin.com/learning/microservices-foundations-23469069/an-argument-for-edge-services?u=76281980&t=34)** But again, this layer can become bloated if you start transforming your service offerings based on client needs, which is a common approach many are tempted to take.
 >
@@ -1632,7 +1608,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/microservices-foundations-23469069/an-argument-for-edge-services?u=76281980&t=96)** Think for a moment about the third party systems you contract with and imagine how often those contracts change.
 >
-> **[1:47](https://www.linkedin.com/learning/microservices-foundations-23469069/an-argument-for-edge-services?u=76281980&t=107)** I want to talk about a real use case and that is an email marketing scenario.
+> **[1:47](https://www.linkedin.com/learning/microservices-foundations-23469069/an-argument-for-edge-services?u=76281980&t=107)** I want to talk about a real use case and that is an [[Email Marketing]] scenario.
 >
 > **[1:53](https://www.linkedin.com/learning/microservices-foundations-23469069/an-argument-for-edge-services?u=76281980&t=113)** Your company most likely leverages a third party send system to handle outgoing email communications so you don't trash your internal email system.
 >
@@ -1694,7 +1670,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (5), data (2), [[Microservices]] (1), [[Email Marketing]] (1)
+> **Frameworks & Libraries:** [[Microservices]] (1), [[Email Marketing]] (1)
 > **Env Vars:** api (5), soa (1), smtp (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** imagine (2)
@@ -1702,22 +1678,21 @@ created: 2026-05-02
 > **Cross-References:** we discussed (1)
 > **Speakers:** - if (1)
 
-#### Embracing DevOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-foundations-23469069/embracing-devops?u=76281980)
+#### [Embracing DevOps](https://www.linkedin.com/learning/microservices-foundations-23469069/embracing-devops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/microservices-foundations-23469069/embracing-devops?u=76281980&t=1)** - Throughout this course, we've talked a lot about managing trade-offs in a microservices architecture.
+> **[0:01](https://www.linkedin.com/learning/microservices-foundations-23469069/embracing-devops?u=76281980&t=1)** - Throughout this course, we've talked a lot about managing trade-offs in a [[Microservices]] architecture.
 >
 > **[0:08](https://www.linkedin.com/learning/microservices-foundations-23469069/embracing-devops?u=76281980&t=8)** I have talked about the various improvements to a system that can be achieved through microservices as well as the potential impacts.
 >
-> **[0:18](https://www.linkedin.com/learning/microservices-foundations-23469069/embracing-devops?u=76281980&t=18)** I've also talked about the operational costs and the need to build out a continuous delivery model.
+> **[0:18](https://www.linkedin.com/learning/microservices-foundations-23469069/embracing-devops?u=76281980&t=18)** I've also talked about the operational costs and the need to build out a [[Continuous Delivery (CD)|continuous delivery]] model.
 >
 > **[0:26](https://www.linkedin.com/learning/microservices-foundations-23469069/embracing-devops?u=76281980&t=26)** All of what we have discussed boils down to one major thing, culture.
 >
 > **[0:33](https://www.linkedin.com/learning/microservices-foundations-23469069/embracing-devops?u=76281980&t=33)** The single most effective way to be successful in a microservices architecture is to build it into your culture.
 >
-> **[0:43](https://www.linkedin.com/learning/microservices-foundations-23469069/embracing-devops?u=76281980&t=43)** A DevOps culture is a perfect fit for building out a microservices architecture because the two complement each other's strengths while mitigating the weaknesses.
+> **[0:43](https://www.linkedin.com/learning/microservices-foundations-23469069/embracing-devops?u=76281980&t=43)** A [[DevOps]] culture is a perfect fit for building out a microservices architecture because the two complement each other's strengths while mitigating the weaknesses.
 >
 > **[0:56](https://www.linkedin.com/learning/microservices-foundations-23469069/embracing-devops?u=76281980&t=56)** DevOps aims to bring the conversation between operations and development into the same sphere.
 >
@@ -1733,7 +1708,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/microservices-foundations-23469069/embracing-devops?u=76281980&t=103)** But regardless of the mitigations, monitoring the system remains the most important aspect.
 >
-> **[1:51](https://www.linkedin.com/learning/microservices-foundations-23469069/embracing-devops?u=76281980&t=111)** A platform of continuous monitoring and automated responses becomes a necessity for operations.
+> **[1:51](https://www.linkedin.com/learning/microservices-foundations-23469069/embracing-devops?u=76281980&t=111)** A platform of [[Continuous Monitoring]] and automated responses becomes a necessity for operations.
 >
 > **[1:59](https://www.linkedin.com/learning/microservices-foundations-23469069/embracing-devops?u=76281980&t=119)** DevOps aims to leverage automation and embed the work into the development function.
 >
@@ -1791,18 +1766,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microservices]] (11), [[DevOps]] (7), [[Automation]] (3), [[Continuous Delivery (CD)|Continuous delivery]] (1), strengths (1)
+> **Frameworks & Libraries:** [[Microservices]] (11), [[DevOps]] (7), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Continuous Monitoring]] (1)
 > **CLI Commands:** make (1), cd (1)
 > **Cross-References:** we discussed (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - throughout (1)
 
-#### Monolithic microservices
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-foundations-23469069/monolithic-microservices?u=76281980)
+#### [Monolithic microservices](https://www.linkedin.com/learning/microservices-foundations-23469069/monolithic-microservices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/microservices-foundations-23469069/monolithic-microservices?u=76281980&t=1)** - Not every single use case is ready for microservices.
+> **[0:01](https://www.linkedin.com/learning/microservices-foundations-23469069/monolithic-microservices?u=76281980&t=1)** - Not every single use case is ready for [[Microservices]].
 >
 > **[0:05](https://www.linkedin.com/learning/microservices-foundations-23469069/monolithic-microservices?u=76281980&t=5)** In fact, many times, especially in early-stage startups, the concept of microservices is just too much for the small team to deal with.
 >
@@ -1820,7 +1794,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/microservices-foundations-23469069/monolithic-microservices?u=76281980&t=64)** In doing this, extracting these domains later is significantly easier.
 >
-> **[1:10](https://www.linkedin.com/learning/microservices-foundations-23469069/monolithic-microservices?u=76281980&t=70)** You can even take this a step further and build your database schemas in a way that you can easily break your databases up as well.
+> **[1:10](https://www.linkedin.com/learning/microservices-foundations-23469069/monolithic-microservices?u=76281980&t=70)** You can even take this a step further and build your database schemas in a way that you can easily break your [[Databases]] up as well.
 >
 > **[1:20](https://www.linkedin.com/learning/microservices-foundations-23469069/monolithic-microservices?u=76281980&t=80)** We are talking about domain-driven design still, but keeping the APIs hidden from the outside world.
 >
@@ -1840,7 +1814,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/microservices-foundations-23469069/monolithic-microservices?u=76281980&t=162)** While your application is small, as well as your team, the added complexity of microservices to gain agility is kind of a moot point.
 >
-> **[2:53](https://www.linkedin.com/learning/microservices-foundations-23469069/monolithic-microservices?u=76281980&t=173)** Your team is small, so they should be agile enough in a monolithic codebase.
+> **[2:53](https://www.linkedin.com/learning/microservices-foundations-23469069/monolithic-microservices?u=76281980&t=173)** Your team is small, so they should be [[Agile Development|agile]] enough in a monolithic codebase.
 >
 > **[3:00](https://www.linkedin.com/learning/microservices-foundations-23469069/monolithic-microservices?u=76281980&t=180)** In addition, the application is small, so building and deploying it is significantly easier.
 >
@@ -1856,13 +1830,13 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/microservices-foundations-23469069/monolithic-microservices?u=76281980&t=220)** Good observability, solid APIs and UIs, solid encapsulation, CI/CD, and everything else we have discussed works to your advantage with any system you build.
 >
-> **[3:53](https://www.linkedin.com/learning/microservices-foundations-23469069/monolithic-microservices?u=76281980&t=233)** But as your system gains popularity and use, you will reap rewards by focusing on these key principles, because adding scalability to your system is so much easier when it was designed that way.
+> **[3:53](https://www.linkedin.com/learning/microservices-foundations-23469069/monolithic-microservices?u=76281980&t=233)** But as your system gains popularity and use, you will reap rewards by focusing on these key principles, because adding [[Scalability]] to your system is so much easier when it was designed that way.
 >
 > **[4:10](https://www.linkedin.com/learning/microservices-foundations-23469069/monolithic-microservices?u=76281980&t=250)** Don't feel like there's only one answer when building these systems, monolith or microservice-based.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microservices]] (5), application (3), ci (2), cd (2), data (1)
+> **Frameworks & Libraries:** [[Microservices]] (5), [[Databases]] (1), [[Agile Development|Agile]] (1), [[Scalability]] (1)
 > **CLI Commands:** cd (2)
 > **Speakers:** - not (1)
 
@@ -1871,12 +1845,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-foundations-23469069/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/microservices-foundations-23469069/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microservices-foundations-23469069/next-steps?u=76281980&t=0)** - Throughout this course, I've aimed to give you the base foundation of microservices.
+> **[0:00](https://www.linkedin.com/learning/microservices-foundations-23469069/next-steps?u=76281980&t=0)** - Throughout this course, I've aimed to give you the base foundation of [[Microservices]].
 >
 > **[0:07](https://www.linkedin.com/learning/microservices-foundations-23469069/next-steps?u=76281980&t=7)** Let's revisit what we've discussed.
 >
@@ -1918,7 +1891,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microservices]] (5), cloud (1), api (1), ci (1), cd (1)
+> **Frameworks & Libraries:** [[Microservices]] (5)
 > **CLI Commands:** cd (1)
 > **Env Vars:** api (1)
 > **Cross-References:** we discussed (1)

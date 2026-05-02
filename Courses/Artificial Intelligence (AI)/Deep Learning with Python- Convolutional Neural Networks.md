@@ -93,12 +93,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using convolutional neural networks (CNNs) with Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/using-convolutional-neural-networks-with-python?u=76281980)
+#### [Using convolutional neural networks (CNNs) with Python](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/using-convolutional-neural-networks-with-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/using-convolutional-neural-networks-with-python?u=76281980&t=0)** - Convolutional Neural Networks, or CNNs, have become the backbone of modern computer vision, enabling machines to analyze and understand images and videos with incredible precision.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/using-convolutional-neural-networks-with-python?u=76281980&t=0)** - [[Convolutional Neural Networks (CNN)|Convolutional Neural Networks]], or CNNs, have become the backbone of modern [[Computer Vision]], enabling machines to analyze and understand images and videos with incredible precision.
 >
 > **[0:12](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/using-convolutional-neural-networks-with-python?u=76281980&t=12)** How do CNNs see and process visual data?
 >
@@ -108,7 +107,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/using-convolutional-neural-networks-with-python?u=76281980&t=28)** We'll start by breaking down the building blocks of CNNs.
 >
-> **[0:32](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/using-convolutional-neural-networks-with-python?u=76281980&t=32)** Then we'll get hands on with Python to build and evaluate a convolutional neural network.
+> **[0:32](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/using-convolutional-neural-networks-with-python?u=76281980&t=32)** Then we'll get hands on with [[Python (Programming Language)|Python]] to build and evaluate a convolutional neural network.
 >
 > **[0:38](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/using-convolutional-neural-networks-with-python?u=76281980&t=38)** Hi, my name is Fred Nwanganga, and I'm a data scientist, teacher, and author, passionate about helping others unlock the power of AI and machine learning.
 >
@@ -116,22 +115,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (2), data (2), [[Computer Vision]] (1), [[Python (Programming Language)|Python]] (1), power (1)
+> **Frameworks & Libraries:** [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (2), [[Computer Vision]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - convolutional (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/what-you-should-know?u=76281980&t=0)** - [Instructor] Before we get started, let's go over some of the background knowledge that you should have in order to get the most out of this course.
 >
-> **[0:08](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/what-you-should-know?u=76281980&t=8)** First, I assume that you have a fundamental understanding of neural networks and deep learning.
+> **[0:08](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/what-you-should-know?u=76281980&t=8)** First, I assume that you have a fundamental understanding of [[Neural Networks]] and [[Deep Learning]].
 >
 > **[0:14](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/what-you-should-know?u=76281980&t=14)** If you don't, I recommend that you review the first course in this series.
 >
-> **[0:20](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/what-you-should-know?u=76281980&t=20)** Second, it will be helpful if you are reasonably comfortable coding in Python.
+> **[0:20](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/what-you-should-know?u=76281980&t=20)** Second, it will be helpful if you are reasonably comfortable coding in [[Python (Programming Language)|Python]].
 >
 > **[0:25](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/what-you-should-know?u=76281980&t=25)** I will assume that you know how to: "Import a Python package", "Refer to the attributes and methods of an object", "Define a function", and "Interact with loops".
 >
@@ -146,18 +144,17 @@ created: 2026-05-02
 > **Tools:** jupyter (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/using-the-exercise-files?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/using-the-exercise-files?u=76281980&t=0)** - [Instructor] This course is delivered using GitHub code spaces, a development environment hosted in the cloud.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/using-the-exercise-files?u=76281980&t=0)** - [Instructor] This course is delivered using [[GitHub]] code spaces, a development environment hosted in the cloud.
 >
 > **[0:07](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/using-the-exercise-files?u=76281980&t=7)** You won't have to install packages or set up anything.
 >
 > **[0:10](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/using-the-exercise-files?u=76281980&t=10)** It's all done for you in the environment.
 >
-> **[0:12](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/using-the-exercise-files?u=76281980&t=12)** The best way to become proficient in building convolutional neural network models in Python is to practice doing so yourself.
+> **[0:12](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/using-the-exercise-files?u=76281980&t=12)** The best way to become proficient in building convolutional neural network models in [[Python (Programming Language)|Python]] is to practice doing so yourself.
 >
 > **[0:20](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/using-the-exercise-files?u=76281980&t=20)** The exercise files you need for this course will be provided to you in the course "GitHub Repo".
 >
@@ -189,7 +186,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (3), cloud (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Python (Programming Language)|Python]] (1)
 > **Tools:** github (3)
 > **Exercise Files:** exercise files (2), github repo (1)
 > **Definitions:** means that (1), is a  (1)
@@ -202,12 +199,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is computer vision?
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/what-is-computer-vision?u=76281980)
+#### [What is computer vision?](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/what-is-computer-vision?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/what-is-computer-vision?u=76281980&t=0)** - [Instructor] Computer vision is a fascinating field at the intersection of computer science and artificial intelligence.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/what-is-computer-vision?u=76281980&t=0)** - [Instructor] [[Computer Vision]] is a fascinating field at the intersection of computer science and [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[0:07](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/what-is-computer-vision?u=76281980&t=7)** At its core, computer vision focuses on enabling machines to interpret and understand visual data, such as images and videos, in a way that mimics human perception.
 >
@@ -239,19 +235,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Computer Vision]] (6), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), data (1), traffic (1)
+> **Frameworks & Libraries:** [[Computer Vision]] (6), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### A brief history of computer vision
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/a-brief-history-of-computer-vision?u=76281980)
+#### [A brief history of computer vision](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/a-brief-history-of-computer-vision?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/a-brief-history-of-computer-vision?u=76281980&t=0)** - [Instructor] Computer Vision has evolved significantly over the years.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/a-brief-history-of-computer-vision?u=76281980&t=0)** - [Instructor] [[Computer Vision]] has evolved significantly over the years.
 >
-> **[0:04](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/a-brief-history-of-computer-vision?u=76281980&t=4)** The early stages, from the 1960s through the 1990s, relied heavily on manually crafted algorithms.
+> **[0:04](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/a-brief-history-of-computer-vision?u=76281980&t=4)** The early stages, from the 1960s through the 1990s, relied heavily on manually crafted [[Algorithms]].
 >
 > **[0:12](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/a-brief-history-of-computer-vision?u=76281980&t=12)** Basic techniques such as "Edge Detection" and "Quantum Detection" were widely used at that time.
 >
@@ -259,11 +254,11 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/a-brief-history-of-computer-vision?u=76281980&t=29)** In the 2000s, machine learning models, like "Support Vector Machines", started to lead to modest improvements in the field.
 >
-> **[0:36](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/a-brief-history-of-computer-vision?u=76281980&t=36)** However, it wasn't until the rise of deep learning in the 2010s that major breakthroughs came about.
+> **[0:36](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/a-brief-history-of-computer-vision?u=76281980&t=36)** However, it wasn't until the rise of [[Deep Learning]] in the 2010s that major breakthroughs came about.
 >
-> **[0:44](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/a-brief-history-of-computer-vision?u=76281980&t=44)** Although Convolutional Neural Networks, or CNNs, were first introduced in the late 1980s, they did not become practical for widespread use until much later.
+> **[0:44](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/a-brief-history-of-computer-vision?u=76281980&t=44)** Although [[Convolutional Neural Networks (CNN)|Convolutional Neural Networks]], or CNNs, were first introduced in the late 1980s, they did not become practical for widespread use until much later.
 >
-> **[0:55](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/a-brief-history-of-computer-vision?u=76281980&t=55)** Early on, training deep neural networks, like CNNs, was both computationally prohibitive and limited by the lack of large label data sets.
+> **[0:55](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/a-brief-history-of-computer-vision?u=76281980&t=55)** Early on, training deep [[Neural Networks]], like CNNs, was both computationally prohibitive and limited by the lack of large label data sets.
 >
 > **[1:06](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/a-brief-history-of-computer-vision?u=76281980&t=66)** Between 2010 and 2012, two important developments helped to overcome these limitations.
 >
@@ -287,14 +282,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Computer Vision]] (4), data (3), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (2), [[Neural Networks]] (2), cnn (2)
+> **Frameworks & Libraries:** [[Computer Vision]] (4), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (2), [[Neural Networks]] (2), [[Algorithms]] (1), [[Deep Learning]] (1)
 > **Env Vars:** cnn (2), cpu (1), gpu (1)
 > **Analogies:** such as (3)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding image data
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/understanding-image-data?u=76281980)
+#### [Understanding image data](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/understanding-image-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -328,13 +322,13 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/understanding-image-data?u=76281980&t=114)** In addition to resolution, pixel values, and color depth, the layout of image data in memory is also worth noting.
 >
-> **[2:03](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/understanding-image-data?u=76281980&t=123)** Deep learning frameworks, such as "TensorFlow" and "Keras", use what is known as a Channels Last Format".
+> **[2:03](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/understanding-image-data?u=76281980&t=123)** [[Deep Learning]] frameworks, such as "[[TensorFlow]]" and "Keras", use what is known as a Channels Last Format".
 >
 > **[2:11](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/understanding-image-data?u=76281980&t=131)** This means that images are represented as "tensors", with shape, height, width, and then channels.
 >
 > **[2:19](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/understanding-image-data?u=76281980&t=139)** A 256-by-256 color image would therefore have the shape 256, 256, 3.
 >
-> **[2:28](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/understanding-image-data?u=76281980&t=148)** In contrast, "PyTorch" uses the channels first format, where the order of dimensions is channels, height, and then width.
+> **[2:28](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/understanding-image-data?u=76281980&t=148)** In contrast, "[[PyTorch]]" uses the channels first format, where the order of dimensions is channels, height, and then width.
 >
 > **[2:38](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/understanding-image-data?u=76281980&t=158)** This means that the same image would be represented as 3, then 256, and 256.
 >
@@ -344,23 +338,22 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/understanding-image-data?u=76281980&t=183)** Understanding how images are represented, how pixel values are scaled, and how data is structured in memory provides us with some of the foundational knowledge needed for working with image data.
 >
-> **[3:16](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/understanding-image-data?u=76281980&t=196)** In the next video, we will build on this foundation by exploring some of the common steps we take to pre-process images for Computer Vision.
+> **[3:16](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/understanding-image-data?u=76281980&t=196)** In the next video, we will build on this foundation by exploring some of the common steps we take to pre-process images for [[Computer Vision]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (2), [[Deep Learning]] (1), [[TensorFlow]] (1), [[PyTorch]] (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (1), [[TensorFlow]] (1), [[PyTorch]] (1), [[Computer Vision]] (1)
 > **Definitions:** known as (4), means that (2)
 > **Env Vars:** rgb (1), cnn (1)
 > **Cross-References:** in the next (2)
 > **Analogies:** for instance (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Preprocessing image data in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/preprocessing-image-data-in-python?u=76281980)
+#### [Preprocessing image data in Python](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/preprocessing-image-data-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/preprocessing-image-data-in-python?u=76281980&t=0)** - [Instructor] Before we feed raw images into a deep learning model, we often have to transform them into a format that's easier for models to interpret.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/preprocessing-image-data-in-python?u=76281980&t=0)** - [Instructor] Before we feed raw images into a [[Deep Learning]] model, we often have to transform them into a format that's easier for models to interpret.
 >
 > **[0:10](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/preprocessing-image-data-in-python?u=76281980&t=10)** This process is called "Image Pre-Processing".
 >
@@ -434,7 +427,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/preprocessing-image-data-in-python?u=76281980&t=185)** We do have the option of specifying a size of our choosing.
 >
-> **[3:10](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/preprocessing-image-data-in-python?u=76281980&t=190)** For example, "Neural Networks" like "VGG" and "Resnet" have specific size expectations for images that come in.
+> **[3:10](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/preprocessing-image-data-in-python?u=76281980&t=190)** For example, "[[Neural Networks]]" like "VGG" and "Resnet" have specific size expectations for images that come in.
 >
 > **[3:17](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/preprocessing-image-data-in-python?u=76281980&t=197)** So one of the things that we can do is when we call the image dataset from directory function, we can specify an argument for image size.
 >
@@ -488,7 +481,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Deep Learning]] (3), [[Neural Networks]] (1), cnn (1), next (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (3), [[Neural Networks]] (1)
 > **CLI Commands:** cat (13), make (1)
 > **Definitions:** is called (3)
 > **Env Vars:** vgg (1), cnn (1)
@@ -497,14 +490,13 @@ created: 2026-05-02
 > **Documentation:** specification (1)
 > **Prerequisites:** required to (1)
 
-#### Augmenting image data in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/augmenting-image-data-in-python?u=76281980)
+#### [Augmenting image data in Python](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/augmenting-image-data-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/augmenting-image-data-in-python?u=76281980&t=0)** - [Person] In this video, we're going to look at how we can use Python and Keras to augment image data.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/augmenting-image-data-in-python?u=76281980&t=0)** - [Person] In this video, we're going to look at how we can use [[Python (Programming Language)|Python]] and Keras to augment image data.
 >
-> **[0:08](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/augmenting-image-data-in-python?u=76281980&t=8)** So "Image Augmentation" is a fundamental technique used in deep learning to artificially expand the diversity of a training dataset without actually collecting more data.
+> **[0:08](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/augmenting-image-data-in-python?u=76281980&t=8)** So "Image Augmentation" is a fundamental technique used in [[Deep Learning]] to artificially expand the diversity of a training dataset without actually collecting more data.
 >
 > **[0:18](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/augmenting-image-data-in-python?u=76281980&t=18)** Like we did in the previous video, we're going to use the "Kaggle Dogs vs. Cats" dataset to illustrate how to augment image data, so before we begin, let's select a Kernel.
 >
@@ -516,7 +508,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/augmenting-image-data-in-python?u=76281980&t=71)** So we see all the images that we just brought in, so they have been resized, I think we specified 180 by 180 as the size that we preferred for them to be as they came in, so we're going to keep 'em at that size for now.
 >
-> **[1:26](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/augmenting-image-data-in-python?u=76281980&t=86)** The first augmentation approach we're going to use is "Geometric Transformations", so these allow us to be able to randomly flip, rotate, zoom, crop, and then, resize images back to 180 by 180, so we're going to use Keras' pre-processing layer, so just like we did in the previous video, towards the end of that video, we're going to specify a layer for "RandomFlip", a layer for "RandomRotation", a layer for "RandomZoom", and "Crop" and so forth, so we're going to go ahead and specify all these layers for our images, then we are going to use a lambda function to pass every single image through those layers, and then, we're going to preview the impact, the results, so we can see exactly what impact geometric transformations had on our images.
+> **[1:26](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/augmenting-image-data-in-python?u=76281980&t=86)** The first augmentation approach we're going to use is "Geometric Transformations", so these allow us to be able to randomly flip, rotate, [[Zoom]], crop, and then, resize images back to 180 by 180, so we're going to use Keras' pre-processing layer, so just like we did in the previous video, towards the end of that video, we're going to specify a layer for "RandomFlip", a layer for "RandomRotation", a layer for "RandomZoom", and "Crop" and so forth, so we're going to go ahead and specify all these layers for our images, then we are going to use a lambda function to pass every single image through those layers, and then, we're going to preview the impact, the results, so we can see exactly what impact geometric transformations had on our images.
 >
 > **[2:15](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/augmenting-image-data-in-python?u=76281980&t=135)** So now, we see that our images have now been transformed, so we see some of them are flipped, some of them are zoomed in, some of them are cropped and so forth, so this is one approach that we can use to augment images.
 >
@@ -538,7 +530,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), next (2), [[Python (Programming Language)|Python]] (1), [[Deep Learning]] (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Deep Learning]] (1), [[Zoom]] (1)
 > **Analogies:** just like (3), for example (2)
 > **Cross-References:** previous video (3), we talked about (1)
 > **CLI Commands:** python (1), make (1), find (1)
@@ -551,12 +543,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### CNNs
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/convolutional-neural-networks?u=76281980)
+#### [CNNs](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/convolutional-neural-networks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/convolutional-neural-networks?u=76281980&t=0)** - [Instructor] Convolutional Neural Networks are a specialized class of deep neural networks designed to handle data that has a grid-like structure, such as "two-dimensional images".
+> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/convolutional-neural-networks?u=76281980&t=0)** - [Instructor] [[Convolutional Neural Networks (CNN)|Convolutional Neural Networks]] are a specialized class of deep [[Neural Networks]] designed to handle data that has a grid-like structure, such as "two-dimensional images".
 >
 > **[0:12](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/convolutional-neural-networks?u=76281980&t=12)** In practical terms, a CNN is a "feedforward neural network" that learns to extract features from data in a hierarchical manner.
 >
@@ -564,7 +555,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/convolutional-neural-networks?u=76281980&t=29)** As the data progresses through deeper layers, the network learns to recognize increasingly complex structures, including "object parts", and eventually "complete objects".
 >
-> **[0:42](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/convolutional-neural-networks?u=76281980&t=42)** Although CNNs have been successfully applied to other types of data, such as "audio signals" and "texts", they have achieved their greatest success in the field of Computer Vision.
+> **[0:42](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/convolutional-neural-networks?u=76281980&t=42)** Although CNNs have been successfully applied to other types of data, such as "audio signals" and "texts", they have achieved their greatest success in the field of [[Computer Vision]].
 >
 > **[0:53](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/convolutional-neural-networks?u=76281980&t=53)** The design of CNNs is loosely inspired by how the human visual system works.
 >
@@ -598,14 +589,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), cnn (3), [[Computer Vision]] (3), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1), [[Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Computer Vision]] (3), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1), [[Neural Networks]] (1)
 > **Analogies:** such as (5)
 > **Env Vars:** cnn (3)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Convolutional layers and filters
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/convolution-layers-and-filters?u=76281980)
+#### [Convolutional layers and filters](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/convolution-layers-and-filters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -679,13 +669,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (7), data (2), next (2)
 > **Definitions:** known as (2), is a  (2), is called (1)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Pooling layers
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/pooling-layers?u=76281980)
+#### [Pooling layers](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/pooling-layers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -727,7 +715,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/pooling-layers?u=76281980&t=114)** In practice, however, max pooling tends to work better than average pooling for most Computer Vsion tasks.
 >
-> **[2:01](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/pooling-layers?u=76281980&t=121)** The benefits of pooling in Convolutional Neural Networks are twofold.
+> **[2:01](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/pooling-layers?u=76281980&t=121)** The benefits of pooling in [[Convolutional Neural Networks (CNN)|Convolutional Neural Networks]] are twofold.
 >
 > **[2:06](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/pooling-layers?u=76281980&t=126)** First, "Pooling reduces computational complexity and the memory requirements of a network" by making representation smaller and more manageable.
 >
@@ -739,20 +727,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (13), next (1), cnn (1)
 > **Analogies:** similar to (1), for example (1)
 > **Env Vars:** cnn (1)
 > **Versions:** 3.25 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Fully connected layers
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/fully-connected-layers?u=76281980)
+#### [Fully connected layers](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/fully-connected-layers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/fully-connected-layers?u=76281980&t=0)** - [Instructor] After a sequence of convolution and pulling operations, Convolutional Neural Networks typically include one or more fully connected layers that perform the final classification or regression.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/fully-connected-layers?u=76281980&t=0)** - [Instructor] After a sequence of convolution and pulling operations, [[Convolutional Neural Networks (CNN)|Convolutional Neural Networks]] typically include one or more fully connected layers that perform the final classification or regression.
 >
-> **[0:13](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/fully-connected-layers?u=76281980&t=13)** As we discussed in the deep learning with Python foundations course, a fully connected layer is one in which each neuron connects to every neuron in the previous layer, as well as every neuron in the subsequent layer.
+> **[0:13](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/fully-connected-layers?u=76281980&t=13)** As we discussed in the [[Deep Learning]] with [[Python (Programming Language)|Python]] foundations course, a fully connected layer is one in which each neuron connects to every neuron in the previous layer, as well as every neuron in the subsequent layer.
 >
 > **[0:28](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/fully-connected-layers?u=76281980&t=28)** This dense connectivity allows the network to integrate and interpret the features extracted earlier in the model.
 >
@@ -772,25 +758,24 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/fully-connected-layers?u=76281980&t=96)** In the last three videos, we have systematically broken down the core layers that make up a Convolutional Neural Network.
 >
-> **[1:44](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/fully-connected-layers?u=76281980&t=104)** In the next video, we will step back and explore why CNNs are particularly effective for computer vision tasks and what advantages their design offers compared to traditional approaches.
+> **[1:44](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/fully-connected-layers?u=76281980&t=104)** In the next video, we will step back and explore why CNNs are particularly effective for [[Computer Vision]] tasks and what advantages their design offers compared to traditional approaches.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (3), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1), [[Deep Learning]] (1), [[Python (Programming Language)|Python]] (1), next (1)
+> **Frameworks & Libraries:** [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1), [[Deep Learning]] (1), [[Python (Programming Language)|Python]] (1), [[Computer Vision]] (1)
 > **Cross-References:** we discussed (1), earlier in (1), in the last (1), in the next (1)
 > **CLI Commands:** python (1), make (1)
 > **Definitions:** known as (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Why are CNNs so effective for computer vision?
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/why-are-cnns-so-effective-for-computer-vision?u=76281980)
+#### [Why are CNNs so effective for computer vision?](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/why-are-cnns-so-effective-for-computer-vision?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/why-are-cnns-so-effective-for-computer-vision?u=76281980&t=0)** - [Instructor] Now that we know how Convolutional Neural Networks work, it is important to understand why they are preferred over traditional deep neural networks for image data and Computer Vision.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/why-are-cnns-so-effective-for-computer-vision?u=76281980&t=0)** - [Instructor] Now that we know how [[Convolutional Neural Networks (CNN)|Convolutional Neural Networks]] work, it is important to understand why they are preferred over traditional deep [[Neural Networks]] for image data and [[Computer Vision]].
 >
-> **[0:12](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/why-are-cnns-so-effective-for-computer-vision?u=76281980&t=12)** Traditional deep learning models are fully connected, meaning every neuron in one layer connects to every neuron in the next.
+> **[0:12](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/why-are-cnns-so-effective-for-computer-vision?u=76281980&t=12)** Traditional [[Deep Learning]] models are fully connected, meaning every neuron in one layer connects to every neuron in the next.
 >
 > **[0:21](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/why-are-cnns-so-effective-for-computer-vision?u=76281980&t=21)** For image data, this becomes impractical very quickly.
 >
@@ -838,7 +823,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Deep Learning]] (2), feature (2), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1), [[Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (2), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1), [[Neural Networks]] (1), [[Computer Vision]] (1)
 > **Definitions:** known as (2), means that (2)
 > **Cross-References:** in the next (1), earlier in (1), we discussed (1)
 > **Env Vars:** rgb (2)
@@ -850,12 +835,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Preparing to build a CNN in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/preparing-to-build-a-convolutional-neural-network-in-python?u=76281980)
+#### [Preparing to build a CNN in Python](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/preparing-to-build-a-convolutional-neural-network-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/preparing-to-build-a-convolutional-neural-network-in-python?u=76281980&t=0)** - [Instructor] In the next three videos, we are going to build a Convolutional Neural Network in Python using Keras.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/preparing-to-build-a-convolutional-neural-network-in-python?u=76281980&t=0)** - [Instructor] In the next three videos, we are going to build a Convolutional Neural Network in [[Python (Programming Language)|Python]] using Keras.
 >
 > **[0:07](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/preparing-to-build-a-convolutional-neural-network-in-python?u=76281980&t=7)** This video is the first of the three, and this video, our focus is going to be on pre-processing our data in preparation for modeling.
 >
@@ -863,15 +847,15 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/preparing-to-build-a-convolutional-neural-network-in-python?u=76281980&t=22)** Before we begin, let's select a Kernel.
 >
-> **[0:25](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/preparing-to-build-a-convolutional-neural-network-in-python?u=76281980&t=25)** So if you are not quite comfortable with deep learning and want to learn a little bit more about deep learning, I suggest that you review my LinkedIn Learning course called "Deep Learning with Python".
+> **[0:25](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/preparing-to-build-a-convolutional-neural-network-in-python?u=76281980&t=25)** So if you are not quite comfortable with [[Deep Learning]] and want to learn a little bit more about deep learning, I suggest that you review my [[LinkedIn]] Learning course called "Deep Learning with Python".
 >
-> **[0:36](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/preparing-to-build-a-convolutional-neural-network-in-python?u=76281980&t=36)** In that course, I explain some of the foundational principles that underlie deep learning, including how neural networks work, how Keras intensive flow work.
+> **[0:36](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/preparing-to-build-a-convolutional-neural-network-in-python?u=76281980&t=36)** In that course, I explain some of the foundational principles that underlie deep learning, including how [[Neural Networks]] work, how Keras intensive flow work.
 >
 > **[0:46](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/preparing-to-build-a-convolutional-neural-network-in-python?u=76281980&t=46)** And we actually in that course go through the process of building a very basic deep neural network using Keras intensive flow.
 >
 > **[0:54](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/preparing-to-build-a-convolutional-neural-network-in-python?u=76281980&t=54)** So in this example, we thus begin by importing the data that we are going to work with.
 >
-> **[1:00](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/preparing-to-build-a-convolutional-neural-network-in-python?u=76281980&t=60)** As I said earlier, we're going to be using the Cipher 10 dataset, which is a well-known benchmark dataset used to evaluate computer vision models.
+> **[1:00](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/preparing-to-build-a-convolutional-neural-network-in-python?u=76281980&t=60)** As I said earlier, we're going to be using the Cipher 10 dataset, which is a well-known benchmark dataset used to evaluate [[Computer Vision]] models.
 >
 > **[1:08](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/preparing-to-build-a-convolutional-neural-network-in-python?u=76281980&t=68)** And so this dataset has 50,000 images for training and 10,000 images for testing.
 >
@@ -913,28 +897,27 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Deep Learning]] (5), next (4), data (3), [[Python (Programming Language)|Python]] (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (5), [[Python (Programming Language)|Python]] (2), [[LinkedIn]] (1), [[Neural Networks]] (1), [[Computer Vision]] (1)
 > **CLI Commands:** python (2), cat (2)
 > **Cross-References:** in the next (2), we talked about (1), previous video (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Defining a CNN in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/defining-a-convolutional-neural-network-in-python?u=76281980)
+#### [Defining a CNN in Python](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/defining-a-convolutional-neural-network-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/defining-a-convolutional-neural-network-in-python?u=76281980&t=0)** - [Instructor] This video is a second in a sequence of three that walks us through the process of building a Convolutional Neural Network in Python using Keras.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/defining-a-convolutional-neural-network-in-python?u=76281980&t=0)** - [Instructor] This video is a second in a sequence of three that walks us through the process of building a Convolutional Neural Network in [[Python (Programming Language)|Python]] using Keras.
 >
 > **[0:11](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/defining-a-convolutional-neural-network-in-python?u=76281980&t=11)** In the previous video, we went through the process of importing and pre-process our data.
 >
-> **[0:17](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/defining-a-convolutional-neural-network-in-python?u=76281980&t=17)** So if you haven't done so, I suggest that you rerun the code up to the first four code cells in preparation for the rest of what we're going to talk about in this video.
+> **[0:17](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/defining-a-convolutional-neural-network-in-python?u=76281980&t=17)** So if you haven't done so, I suggest that you rerun the code up to the first four code cells in preparation for the [[Representational State Transfer (REST)|rest]] of what we're going to talk about in this video.
 >
 > **[0:27](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/defining-a-convolutional-neural-network-in-python?u=76281980&t=27)** So in this video, our focus is going to be on defining the model architecture.
 >
 > **[0:32](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/defining-a-convolutional-neural-network-in-python?u=76281980&t=32)** The first thing we do is create a "Sequential Model".
 >
-> **[0:35](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/defining-a-convolutional-neural-network-in-python?u=76281980&t=35)** This is a linear stack of layers that simplifies the construction of neural networks.
+> **[0:35](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/defining-a-convolutional-neural-network-in-python?u=76281980&t=35)** This is a linear stack of layers that simplifies the construction of [[Neural Networks]].
 >
 > **[0:39](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/defining-a-convolutional-neural-network-in-python?u=76281980&t=39)** So we specify the model name and we say "Keras.sequential" to initialize the process.
 >
@@ -976,7 +959,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/defining-a-convolutional-neural-network-in-python?u=76281980&t=127)** And the reason for this is we want to minimize overfitting.
 >
-> **[2:11](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/defining-a-convolutional-neural-network-in-python?u=76281980&t=131)** So we learned about "batch normalization layers" and "dropout layers" in the deep learning, optimizing deep learning models course.
+> **[2:11](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/defining-a-convolutional-neural-network-in-python?u=76281980&t=131)** So we learned about "batch normalization layers" and "dropout layers" in the [[Deep Learning]], optimizing deep learning models course.
 >
 > **[2:19](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/defining-a-convolutional-neural-network-in-python?u=76281980&t=139)** So if you want to learn more about that, check out that course to learn more about batch normalization and dropout.
 >
@@ -1022,18 +1005,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), data (3), feature (2), [[Deep Learning]] (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (2), [[Python (Programming Language)|Python]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Neural Networks]] (1)
 > **Definitions:** is a  (4), means that (1)
 > **CLI Commands:** python (1), make (1)
 > **Cross-References:** previous video (1), in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Training a CNN in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/training-a-convolutional-neural-network-in-python?u=76281980)
+#### [Training a CNN in Python](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/training-a-convolutional-neural-network-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/training-a-convolutional-neural-network-in-python?u=76281980&t=0)** - [Instructor] This video is the third in a sequence of three videos where we walk through the process of building a Convolutional Neural Network in Python using Keras.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/training-a-convolutional-neural-network-in-python?u=76281980&t=0)** - [Instructor] This video is the third in a sequence of three videos where we walk through the process of building a Convolutional Neural Network in [[Python (Programming Language)|Python]] using Keras.
 >
 > **[0:10](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/training-a-convolutional-neural-network-in-python?u=76281980&t=10)** If you haven't done so already, I suggest that you watch the previous two videos to understand how to pre-process or prepare your data and define the CNN model before we get to the point where we build the model itself.
 >
@@ -1079,7 +1061,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), next (2), [[Python (Programming Language)|Python]] (1), cnn (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Cross-References:** in the last (2), we talked about (1), previous video (1)
 > **Env Vars:** cnn (1), cifar (1)
 > **CLI Commands:** python (1)
@@ -1093,8 +1075,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### VGGNet
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/vggnet?u=76281980)
+#### [VGGNet](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/vggnet?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1124,7 +1105,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/vggnet?u=76281980&t=116)** Pre-trained models such as "VGG-16" trained on ImageNet were often used as feature extractors for tasks like "object detection" and "segmentation" because their early layers captured general purpose visual features such as "edges" and "textures".
 >
-> **[2:14](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/vggnet?u=76281980&t=134)** VGGNet also had a conceptual impact on deep learning model design.
+> **[2:14](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/vggnet?u=76281980&t=134)** VGGNet also had a conceptual impact on [[Deep Learning]] model design.
 >
 > **[2:19](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/vggnet?u=76281980&t=139)** It popularized the idea that multiple smaller filters could replace larger ones influencing future architectures like "ResNet" and "Inception", which built on this principle to create more efficient networks.
 >
@@ -1154,19 +1135,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), strengths (1), [[Deep Learning]] (1), cnn (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (1)
 > **Env Vars:** vgg (7), cnn (1)
 > **Analogies:** such as (3), for instance (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** initialization (1)
 > **Speakers:** - [instructor] (1)
 
-#### Inception networks
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/inception-networks?u=76281980)
+#### [Inception networks](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/inception-networks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/inception-networks?u=76281980&t=0)** - [Instructor] Inception Networks, also referred to as "GoogLeNet", were introduced by researchers at Google in 2014 with the aim of building a deep Convolutional Neural Network that achieved high accuracy while maintaining low computational costs.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/inception-networks?u=76281980&t=0)** - [Instructor] Inception Networks, also referred to as "GoogLeNet", were introduced by researchers at [[Google]] in 2014 with the aim of building a deep Convolutional Neural Network that achieved high accuracy while maintaining low computational costs.
 >
 > **[0:18](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/inception-networks?u=76281980&t=18)** Unlike traditional CNNs that stack layers sequentially, Inception introduced a novel multi-path architecture.
 >
@@ -1182,7 +1162,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/inception-networks?u=76281980&t=91)** This efficiency leads to faster inference times and reduces the risk of overfitting.
 >
-> **[1:37](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/inception-networks?u=76281980&t=97)** Inception Networks also excel at capturing features across different spatial scales.
+> **[1:37](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/inception-networks?u=76281980&t=97)** Inception Networks also [[Microsoft Excel|excel]] at capturing features across different spatial scales.
 >
 > **[1:43](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/inception-networks?u=76281980&t=103)** Smaller filters pick up fine details, while larger ones and pooling operations focus on more abstract patterns.
 >
@@ -1204,7 +1184,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/inception-networks?u=76281980&t=183)** The original GoogLeNet paper even had to provide detailed specifications in an appendix to help others implement it correctly.
 >
-> **[3:12](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/inception-networks?u=76281980&t=192)** Additionally, although Inception modules appear parallel in theory, actual hardware utilization is not always optimal.
+> **[3:12](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/inception-networks?u=76281980&t=192)** Additionally, although Inception modules appear parallel in theory, actual [[Hardware]] utilization is not always optimal.
 >
 > **[3:21](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/inception-networks?u=76281980&t=201)** Most GPUs process convolutional layers in parallel across data, not across branches.
 >
@@ -1214,26 +1194,25 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/inception-networks?u=76281980&t=226)** As models grow in depth and complexity, this overhead becomes more significant.
 >
-> **[3:53](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/inception-networks?u=76281980&t=233)** Although Inception Networks are no longer the default choice for new applications, their design illustrates how convolutional neural networks can be made much deeper and wider without overwhelming computational demands.
+> **[3:53](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/inception-networks?u=76281980&t=233)** Although Inception Networks are no longer the default choice for new applications, their design illustrates how [[Convolutional Neural Networks (CNN)|convolutional neural networks]] can be made much deeper and wider without overwhelming computational demands.
 >
 > **[4:09](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/inception-networks?u=76281980&t=249)** Understanding them provides a foundation for thinking about model architecture and how to balance accuracy, efficiency, and complexity.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (3), [[Google]] (1), [[Microsoft Excel|Excel]] (1), feature (1), strengths (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Microsoft Excel|Excel]] (1), [[Hardware]] (1), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1)
 > **Versions:** 6.7 (1), 7.3 (1)
 > **Analogies:** for instance (1), such as (1)
 > **Env Vars:** vgg16 (1)
 > **Speakers:** - [instructor] (1)
 
-#### ResNet
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/resnet?u=76281980)
+#### [ResNet](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/resnet?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/resnet?u=76281980&t=0)** - [Instructor] ResNet, short for "Residual Network", is a landmark Convolutional Neural Network architecture introduced by Kaiming He and his team at Microsoft Research in 2015.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/resnet?u=76281980&t=0)** - [Instructor] ResNet, short for "Residual Network", is a landmark Convolutional Neural Network architecture introduced by Kaiming He and his team at [[Microsoft]] Research in 2015.
 >
-> **[0:13](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/resnet?u=76281980&t=13)** It significantly advanced the field of deep learning by showing that extremely deep networks could be trained effectively without suffering from the performance degradation that previously came with added depth.
+> **[0:13](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/resnet?u=76281980&t=13)** It significantly advanced the field of [[Deep Learning]] by showing that extremely deep networks could be trained effectively without suffering from the performance degradation that previously came with added depth.
 >
 > **[0:27](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/resnet?u=76281980&t=27)** Prior to ResNet, adding more layers to a neural network often made the model perform worse rather than better.
 >
@@ -1261,11 +1240,11 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/resnet?u=76281980&t=141)** ResNet models were not only successful in image classification, but also played key roles in winning "Object Detection and Segmentation Challenges".
 >
-> **[2:32](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/resnet?u=76281980&t=152)** Pre-trained ResNets, especially "ResNet-50", became the default backbone for many computer vision models due to their strong feature extraction capabilities.
+> **[2:32](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/resnet?u=76281980&t=152)** Pre-trained ResNets, especially "ResNet-50", became the default backbone for many [[Computer Vision]] models due to their strong feature extraction capabilities.
 >
 > **[2:44](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/resnet?u=76281980&t=164)** Beyond image classification, the residual design has proven to be highly flexible and influential.
 >
-> **[2:51](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/resnet?u=76281980&t=171)** It has inspired many variants, like "ResNext" and "WideResNet", and has been adapted for use in other domains, including speech recognition and natural language processing.
+> **[2:51](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/resnet?u=76281980&t=171)** It has inspired many variants, like "ResNext" and "WideResNet", and has been adapted for use in other domains, including [[Speech Recognition]] and [[Natural Language Processing (NLP)|natural language processing]].
 >
 > **[3:05](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/resnet?u=76281980&t=185)** Modern architectures such as the "transformer" also incorporate residual connections as a fundamental design principle.
 >
@@ -1293,18 +1272,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Deep Learning]] (2), [[Microsoft]] (1), [[Computer Vision]] (1), feature (1), [[Speech Recognition]] (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (2), [[Microsoft]] (1), [[Computer Vision]] (1), [[Speech Recognition]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Definitions:** short for (1), is a  (1), known as (1)
 > **Env Vars:** vgg (1), gpu (1)
 > **Analogies:** such as (1), for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### MobileNet
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/mobilenet?u=76281980)
+#### [MobileNet](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/mobilenet?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/mobilenet?u=76281980&t=0)** - [Instructor] MobileNet, introduced by Google in 2017, is a lightweight Convolutional Neural Network architecture, designed specifically for mobile and embedded devices where processing power and memory are limited.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/mobilenet?u=76281980&t=0)** - [Instructor] MobileNet, introduced by [[Google]] in 2017, is a lightweight Convolutional Neural Network architecture, designed specifically for mobile and embedded devices where processing power and memory are limited.
 >
 > **[0:16](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/mobilenet?u=76281980&t=16)** MobileNet introduced the idea of "depth-wise separable convolutions", an efficient alternative to standard convolutional operations.
 >
@@ -1318,7 +1296,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/mobilenet?u=76281980&t=69)** For instance, it can perform over 30 frames per second on mobile devices.
 >
-> **[1:15](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/mobilenet?u=76281980&t=75)** This is something that would be impractical with larger models unless specialized hardware is used.
+> **[1:15](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/mobilenet?u=76281980&t=75)** This is something that would be impractical with larger models unless specialized [[Hardware]] is used.
 >
 > **[1:22](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/mobilenet?u=76281980&t=82)** In addition to its speed, MobileNet models are compact, often just a few megabytes in size.
 >
@@ -1356,28 +1334,27 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/mobilenet?u=76281980&t=213)** As a result, practitioners often have to spend considerable time tweaking training schedules or other hyperparameters to optimize the performance of MobileNet.
 >
-> **[3:44](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/mobilenet?u=76281980&t=224)** The introduction of MobileNet opened the door to practical deep learning on mobile devices.
+> **[3:44](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/mobilenet?u=76281980&t=224)** The introduction of MobileNet opened the door to practical [[Deep Learning]] on mobile devices.
 >
 > **[3:52](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/mobilenet?u=76281980&t=232)** Understanding how it uses depth-wise separable convolutions, provides insight into the design of many modern efficient architectures.
 >
-> **[4:01](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/mobilenet?u=76281980&t=241)** Today, it remains a foundational model for real-time on-device AI applications.
+> **[4:01](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/mobilenet?u=76281980&t=241)** Today, it remains a foundational model for [[Real-Time]] on-device AI applications.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (1), power (1), [[Hardware]] (1), [[Engineering]] (1), application (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Hardware]] (1), [[Deep Learning]] (1), [[Real-Time]] (1)
 > **Env Vars:** ssd (2), vgg (1)
 > **Analogies:** for instance (2), for example (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### EfficientNet
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/efficientnet?u=76281980)
+#### [EfficientNet](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/efficientnet?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/efficientnet?u=76281980&t=0)** - [Instructor] Efficient Net is a family of Convolutional Neural Networks developed by Mingxing Tan and Quoc V. Le at Google AI in 2019.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/efficientnet?u=76281980&t=0)** - [Instructor] Efficient Net is a family of [[Convolutional Neural Networks (CNN)|Convolutional Neural Networks]] developed by Mingxing Tan and Quoc V. Le at [[Google]] AI in 2019.
 >
-> **[0:11](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/efficientnet?u=76281980&t=11)** It was designed to address a common challenge in deep learning, "How to scale Convolutional Neural Networks efficiently while maintaining high performance".
+> **[0:11](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/efficientnet?u=76281980&t=11)** It was designed to address a common challenge in [[Deep Learning]], "How to scale Convolutional Neural Networks efficiently while maintaining high performance".
 >
 > **[0:21](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/efficientnet?u=76281980&t=21)** Traditionally making a CNN more accurate meant making it "deeper", that is giving it more layers, "wider", which means giving it more channels, or using higher resolution images.
 >
@@ -1407,7 +1384,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/efficientnet?u=76281980&t=148)** Smaller models like "B0" and "B1" are well suited for resource-limited environments.
 >
-> **[2:34](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/efficientnet?u=76281980&t=154)** While larger models like "B6" and "B7" are ideal for tasks requiring maximum accuracy and can be run on high-end hardware.
+> **[2:34](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/efficientnet?u=76281980&t=154)** While larger models like "B6" and "B7" are ideal for tasks requiring maximum accuracy and can be run on high-end [[Hardware]].
 >
 > **[2:43](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/efficientnet?u=76281980&t=163)** Since all the models share the same architectural foundation, comparing results and selecting the right version is easy to do.
 >
@@ -1421,7 +1398,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/efficientnet?u=76281980&t=198)** Another major strength of EfficientNet is its broad adoption and strong community support.
 >
-> **[3:25](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/efficientnet?u=76281980&t=205)** Since its release, the model has been open sourced and integrated into popular deep-learning frameworks such as "TensorFlow", PyTorch", and "CARES".
+> **[3:25](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/efficientnet?u=76281980&t=205)** Since its release, the model has been open sourced and integrated into popular deep-learning frameworks such as "[[TensorFlow]]", [[PyTorch]]", and "CARES".
 >
 > **[3:35](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/efficientnet?u=76281980&t=215)** This widespread implementation has made EfficientNet highly accessible to researchers and practitioners alike.
 >
@@ -1451,11 +1428,11 @@ created: 2026-05-02
 >
 > **[5:26](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/efficientnet?u=76281980&t=326)** It illustrates how combining principle scaling methods with automated architecture search can lead to powerful yet practical models.
 >
-> **[5:36](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/efficientnet?u=76281980&t=336)** Its influence continues to shape the development of efficient neural networks in both research and production settings.
+> **[5:36](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/efficientnet?u=76281980&t=336)** Its influence continues to shape the development of efficient [[Neural Networks]] in both research and production settings.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (2), [[Search]] (2), [[Google]] (1), ai (1), [[Deep Learning]] (1)
+> **Frameworks & Libraries:** [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (2), [[Google]] (1), [[Deep Learning]] (1), [[Hardware]] (1), [[TensorFlow]] (1)
 > **Env Vars:** cnn (1), cares (1), tpu (1)
 > **Analogies:** such as (2), for example (1)
 > **Versions:** 82.6 (1)
@@ -1467,8 +1444,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is image classification?
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/what-is-image-classification?u=76281980)
+#### [What is image classification?](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/what-is-image-classification?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1480,9 +1456,9 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/what-is-image-classification?u=76281980&t=38)** Along with the predictive class label, the output of an image classifier usually includes a confidence score that reflects the model's certainty in its prediction.
 >
-> **[0:49](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/what-is-image-classification?u=76281980&t=49)** Some real-world examples of image classification include classifying medical images such as "Labeling X-rays as healthy or diseased", "Identifying plant species from photographs of leaves", and "Recognizing handwritten digits in postal codes or forms".
+> **[0:49](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/what-is-image-classification?u=76281980&t=49)** Some real-world examples of image classification include classifying medical images such as "Labeling X-rays as healthy or diseased", "Identifying plant species from photographs of leaves", and "Recognizing handwritten digits in postal codes or [[Forms]]".
 >
-> **[1:07](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/what-is-image-classification?u=76281980&t=67)** Convolutional Neural Networks are especially well-suited for image classification, because they automatically learn hierarchical features from simple patterns like "edges" and "textures" to more complex representations, such as "shapes" or "object parts", all of which they use to make a final prediction.
+> **[1:07](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/what-is-image-classification?u=76281980&t=67)** [[Convolutional Neural Networks (CNN)|Convolutional Neural Networks]] are especially well-suited for image classification, because they automatically learn hierarchical features from simple patterns like "edges" and "textures" to more complex representations, such as "shapes" or "object parts", all of which they use to make a final prediction.
 >
 > **[1:27](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/what-is-image-classification?u=76281980&t=87)** To evaluate performance in image classification, "accuracy" is one of the most commonly-used metrics.
 >
@@ -1490,23 +1466,22 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/what-is-image-classification?u=76281980&t=105)** While simple to compute, accuracy can be misleading in imbalanced data sets, so in some cases, additional metrics such as "precision", "recall", or "F1 score" may be considered.
 >
-> **[1:59](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/what-is-image-classification?u=76281980&t=119)** For a detailed discussion of the precision recall and F1 score metrics, refer back to the "Deep Learning with Python: Foundations course".
+> **[1:59](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/what-is-image-classification?u=76281980&t=119)** For a detailed discussion of the precision recall and F1 score metrics, refer back to the "[[Deep Learning]] with [[Python (Programming Language)|Python]]: Foundations course".
 >
-> **[2:08](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/what-is-image-classification?u=76281980&t=128)** Image classification is foundational to many Computer Vision systems.
+> **[2:08](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/what-is-image-classification?u=76281980&t=128)** Image classification is foundational to many [[Computer Vision]] systems.
 >
 > **[2:12](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/what-is-image-classification?u=76281980&t=132)** It also serves as a building block for more advanced tasks, such as "object detection" and "image segmentation", both of which we'll get to later in the course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (1), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1), data (1), [[Deep Learning]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1), [[Deep Learning]] (1), [[Python (Programming Language)|Python]] (1), [[Computer Vision]] (1)
 > **Analogies:** such as (4), for example (2)
 > **CLI Commands:** cat (1), make (1), python (1)
 > **Cross-References:** later in (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Using a pretrained model for image classification in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/using-a-pretrained-model-for-image-classification-in-python?u=76281980)
+#### [Using a pretrained model for image classification in Python](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/using-a-pretrained-model-for-image-classification-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1548,7 +1523,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/using-a-pretrained-model-for-image-classification-in-python?u=76281980&t=133)** So now we can see the original image along with the top one prediction of our YOLO model.
 >
-> **[2:21](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/using-a-pretrained-model-for-image-classification-in-python?u=76281980&t=141)** In this tutorial, we learned how to use a pre-trained YOLO model to perform image classification in Python.
+> **[2:21](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/using-a-pretrained-model-for-image-classification-in-python?u=76281980&t=141)** In this tutorial, we learned how to use a pre-trained YOLO model to perform image classification in [[Python (Programming Language)|Python]].
 >
 > **[2:28](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/using-a-pretrained-model-for-image-classification-in-python?u=76281980&t=148)** It's very straightforward.
 >
@@ -1556,15 +1531,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), next (1), web (1), mobile application (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** yolo (6), csv (1)
 > **CLI Commands:** cat (4), python (1)
 > **Versions:** 42.72 (1), 16.36 (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
 
-#### What is object detection?
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/what-is-object-detection?u=76281980)
+#### [What is object detection?](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/what-is-object-detection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1596,7 +1570,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/what-is-object-detection?u=76281980&t=121)** Two-stage approach allows for high accuracy as a second stage refines results, but it's generally slower because of the two step process.
 >
-> **[2:12](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/what-is-object-detection?u=76281980&t=132)** One-stage detectors are typically faster and more suitable for real-time applications, but they may sacrifice some accuracy, compared to two-stage methods.
+> **[2:12](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/what-is-object-detection?u=76281980&t=132)** One-stage detectors are typically faster and more suitable for [[Real-Time]] applications, but they may sacrifice some accuracy, compared to two-stage methods.
 >
 > **[2:23](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/what-is-object-detection?u=76281980&t=143)** A common performance metric for object detection is the "Mean Average Precision", or MAP, which summarizes the precision recall performance for detected objects across all classes.
 >
@@ -1614,13 +1588,13 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/what-is-object-detection?u=76281980&t=196)** This means that a prediction is considered correct only if it's IoU is at or above 0.5.
 >
-> **[3:25](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/what-is-object-detection?u=76281980&t=205)** Object detection is a core task in computer vision that builds directly on image classification by adding the ability to locate objects within an image.
+> **[3:25](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/what-is-object-detection?u=76281980&t=205)** Object detection is a core task in [[Computer Vision]] that builds directly on image classification by adding the ability to locate objects within an image.
 >
 > **[3:35](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/what-is-object-detection?u=76281980&t=215)** It also serves as a foundation for even more advanced tasks, such as "Image Segmentation", which we will explore later in the course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cnn (2), traffic (1), [[Real-Time]] (1), [[Computer Vision]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (1), [[Computer Vision]] (1)
 > **Env Vars:** cnn (2), map (2), yolo (1), ssd (1)
 > **Definitions:** known as (1), refers to (1), means that (1), is a  (1)
 > **CLI Commands:** cat (2)
@@ -1629,8 +1603,7 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **Speakers:** - [narrator] (1)
 
-#### Using a pretrained model for object detection in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/using-a-pretrained-model-for-object-detection-in-python?u=76281980)
+#### [Using a pretrained model for object detection in Python](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/using-a-pretrained-model-for-object-detection-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1702,19 +1675,18 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/using-a-pretrained-model-for-object-detection-in-python?u=76281980&t=197)** So we saw how fast it was and how efficient and how easy it was to do.
 >
-> **[3:22](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/using-a-pretrained-model-for-object-detection-in-python?u=76281980&t=202)** Some potential next steps for you include pre-processing or processing multiple images in a directory, running detection on video or webcam streams, saving the annotated frames to disk or fine tuning the model that we just use on a specific dataset.
+> **[3:22](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/using-a-pretrained-model-for-object-detection-in-python?u=76281980&t=202)** Some potential next steps for you include pre-processing or processing multiple images in a directory, running detection on video or webcam streams, saving the annotated frames to disk or [[Fine Tuning]] the model that we just use on a specific dataset.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Fine Tuning]] (1)
+> **Frameworks & Libraries:** [[Fine Tuning]] (1)
 > **Env Vars:** yolo (5), bgr (2), rgb (2)
 > **CLI Commands:** cat (3)
 > **Versions:** 90.28 (1), 86.19 (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is image segmentation?
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/what-is-image-segmentation?u=76281980)
+#### [What is image segmentation?](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/what-is-image-segmentation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1738,7 +1710,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/what-is-image-segmentation?u=76281980&t=81)** Image segmentation is useful in various domains.
 >
-> **[1:24](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/what-is-image-segmentation?u=76281980&t=84)** When video conferencing platforms like Zoom or Google Meet display a custom background, they're using image segmentation to differentiate between the participant and the background.
+> **[1:24](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/what-is-image-segmentation?u=76281980&t=84)** When video conferencing platforms like [[Zoom]] or [[Google]] Meet display a custom background, they're using image segmentation to differentiate between the participant and the background.
 >
 > **[1:36](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/what-is-image-segmentation?u=76281980&t=96)** In Medical Imaging, image segmentation helps to outline tumors or organs in a scan.
 >
@@ -1748,19 +1720,18 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/what-is-image-segmentation?u=76281980&t=121)** Image segmentation is a fundamental advancement beyond object detection, offering a much finer grained understanding of visual data by assigning labels at the pixel level.
 >
-> **[2:13](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/what-is-image-segmentation?u=76281980&t=133)** This enhanced precision lays groundwork for even more sophisticated Computer Vision tasks.
+> **[2:13](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/what-is-image-segmentation?u=76281980&t=133)** This enhanced precision lays groundwork for even more sophisticated [[Computer Vision]] tasks.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (1), [[Google]] (1), data (1), [[Computer Vision]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1), [[Google]] (1), [[Computer Vision]] (1)
 > **CLI Commands:** cat (5)
 > **Analogies:** for example (2), for instance (1), similar to (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** iou (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using a pretrained model for image segmentation in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/using-a-pretrained-model-for-image-segmentation-in-python?u=76281980)
+#### [Using a pretrained model for image segmentation in Python](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/using-a-pretrained-model-for-image-segmentation-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1836,7 +1807,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3)
 > **CLI Commands:** cat (8), make (1)
 > **Env Vars:** yolo (5)
 > **Versions:** 76.9 (1), 55.84 (1)
@@ -1848,14 +1818,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing with deep learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/continuing-on-with-deep-learning?u=76281980)
+#### [Continuing with deep learning](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/continuing-on-with-deep-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/continuing-on-with-deep-learning?u=76281980&t=0)** - [Instructor] Congrats on completing "Deep Learning with Python Convolutional Neural Networks".
+> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/continuing-on-with-deep-learning?u=76281980&t=0)** - [Instructor] Congrats on completing "[[Deep Learning]] with [[Python (Programming Language)|Python]] [[Convolutional Neural Networks (CNN)|Convolutional Neural Networks]]".
 >
-> **[0:07](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/continuing-on-with-deep-learning?u=76281980&t=7)** You now understand what Computer Vision is and how it's evolved over time.
+> **[0:07](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/continuing-on-with-deep-learning?u=76281980&t=7)** You now understand what [[Computer Vision]] is and how it's evolved over time.
 >
 > **[0:12](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/continuing-on-with-deep-learning?u=76281980&t=12)** You also have a better understanding of image data, how to pre-process it and how to augment it.
 >
@@ -1891,7 +1860,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Deep Learning]] (3), [[Computer Vision]] (3), [[Python (Programming Language)|Python]] (2), data (2), cnn (2)
+> **Frameworks & Libraries:** [[Deep Learning]] (3), [[Computer Vision]] (3), [[Python (Programming Language)|Python]] (2), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1)
 > **CLI Commands:** python (2), make (2)
 > **Env Vars:** cnn (2), cares (1)
 > **Definitions:** is an  (1)

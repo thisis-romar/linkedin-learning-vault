@@ -79,12 +79,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explore the capabilities of PyTorch
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/explore-the-capabilities-of-pytorch?u=76281980)
+#### [Explore the capabilities of PyTorch](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/explore-the-capabilities-of-pytorch?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/explore-the-capabilities-of-pytorch?u=76281980&t=0)** - [Dr. Sun] PyTorch is one of the most widely adapted ML frameworks.
+> **[0:00](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/explore-the-capabilities-of-pytorch?u=76281980&t=0)** - [Dr. Sun] [[PyTorch]] is one of the most widely adapted ML frameworks.
 >
 > **[0:04](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/explore-the-capabilities-of-pytorch?u=76281980&t=4)** If you know TansorFlow, learning PyTorch is essential to establish a foundation in AI and ML.
 >
@@ -92,7 +91,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/explore-the-capabilities-of-pytorch?u=76281980&t=15)** Working the field of AI and ML, understanding the basics of PyTorch is imperative.
 >
-> **[0:22](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/explore-the-capabilities-of-pytorch?u=76281980&t=22)** In this course, I'll teach you the basics of computer vision, natural language processing, and audio processing through some hands-on experiences.
+> **[0:22](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/explore-the-capabilities-of-pytorch?u=76281980&t=22)** In this course, I'll teach you the basics of [[Computer Vision]], [[Natural Language Processing (NLP)|natural language processing]], and audio processing through some hands-on experiences.
 >
 > **[0:32](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/explore-the-capabilities-of-pytorch?u=76281980&t=32)** Hello, I'm Dr. Helen Sun and I'm a senior engineering leader at Meta, working in the AI and ML space.
 >
@@ -100,7 +99,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PyTorch]] (5), ai (4), [[Computer Vision]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[PyTorch]] (5), [[Computer Vision]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [dr (1)
 
@@ -109,12 +108,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### PyTorch overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-overview?u=76281980)
+#### [PyTorch overview](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-overview?u=76281980&t=0)** - [Instructor] PyTorch is one of the most popular deep learning frameworks, and it continues to gain adoption in both research communities and enterprises.
+> **[0:00](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-overview?u=76281980&t=0)** - [Instructor] [[PyTorch]] is one of the most popular [[Deep Learning]] frameworks, and it continues to gain adoption in both research communities and enterprises.
 >
 > **[0:10](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-overview?u=76281980&t=10)** It is an open source machine learning framework developed and maintained by Meta.
 >
@@ -122,7 +120,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-overview?u=76281980&t=28)** It has a backend called Torch.Distributed, which enables scalable distributed training and optimization.
 >
-> **[0:36](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-overview?u=76281980&t=36)** PyTorch also has a rich ecosystem of tools and libraries that extends development in computer vision, natural language processing, and more.
+> **[0:36](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-overview?u=76281980&t=36)** PyTorch also has a rich ecosystem of tools and libraries that extends development in [[Computer Vision]], [[Natural Language Processing (NLP)|natural language processing]], and more.
 >
 > **[0:48](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-overview?u=76281980&t=48)** Some featured projects in this ecosystem include Captum for model interpretability, geometric deep learning for irregular input data, such as graphs and Point Cloud, and Skorch that enables psychic learn compatibility.
 >
@@ -150,7 +148,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-overview?u=76281980&t=153)** Autograd tracks the history of every computation, and as a result, greatly speeds the local derivative computation.
 >
-> **[2:43](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-overview?u=76281980&t=163)** The primary API to PyTorch is Python.
+> **[2:43](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-overview?u=76281980&t=163)** The primary API to PyTorch is [[Python (Programming Language)|Python]].
 >
 > **[2:46](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-overview?u=76281980&t=166)** These APIs allow you to interact with PyTorch through tensors, views, CUDA, autograd, quantization, and storage.
 >
@@ -162,7 +160,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-overview?u=76281980&t=208)** The first is Torchaudio for audio signal processing.
 >
-> **[3:32](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-overview?u=76281980&t=212)** Next, we have Torchtext containing data processing utilities and data sets for natural language processing.
+> **[3:32](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-overview?u=76281980&t=212)** Next, we have Torchtext containing [[Data Processing]] utilities and data sets for natural language processing.
 >
 > **[3:40](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-overview?u=76281980&t=220)** The third library, Torchvision with computer vision data sets, model architecture and common image transformation.
 >
@@ -174,7 +172,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PyTorch]] (17), data (6), [[Deep Learning]] (4), [[Computer Vision]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (2)
+> **Frameworks & Libraries:** [[PyTorch]] (17), [[Deep Learning]] (4), [[Computer Vision]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** cpu (1), gpu (1), api (1), cuda (1), tpu (1)
 > **Analogies:** such as (3), similar to (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -182,12 +180,11 @@ created: 2026-05-02
 > **Versions:** 1.10 (1)
 > **Speakers:** - [instructor] (1)
 
-#### PyTorch environment setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-environment-setup?u=76281980)
+#### [PyTorch environment setup](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-environment-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-environment-setup?u=76281980&t=0)** - [Instructor] To set up the PyTorch environment, we first download the PyTorch library from the PyTorch website.
+> **[0:00](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-environment-setup?u=76281980&t=0)** - [Instructor] To set up the [[PyTorch]] environment, we first download the PyTorch library from the PyTorch website.
 >
 > **[0:07](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-environment-setup?u=76281980&t=7)** Click on the Install button here.
 >
@@ -199,15 +196,15 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-environment-setup?u=76281980&t=20)** You'll then choose the OS.
 >
-> **[0:22](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-environment-setup?u=76281980&t=22)** The options are Mac, Windows, and Linux.
+> **[0:22](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-environment-setup?u=76281980&t=22)** The options are Mac, [[Windows]], and [[Linux]].
 >
 > **[0:25](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-environment-setup?u=76281980&t=25)** And we'll choose Mac.
 >
 > **[0:28](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-environment-setup?u=76281980&t=28)** For the package manager, we'll choose Pip.
 >
-> **[0:31](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-environment-setup?u=76281980&t=31)** You can also select Conda, LibTorch, or build it using the source code from GitHub.
+> **[0:31](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-environment-setup?u=76281980&t=31)** You can also select Conda, LibTorch, or build it using the source code from [[GitHub]].
 >
-> **[0:37](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-environment-setup?u=76281980&t=37)** There are two language options, Python and C++/Java.
+> **[0:37](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-environment-setup?u=76281980&t=37)** There are two language options, [[Python (Programming Language)|Python]] and C++/[[Java]].
 >
 > **[0:42](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-environment-setup?u=76281980&t=42)** We'll choose Python.
 >
@@ -272,8 +269,7 @@ created: 2026-05-02
 > **Code Identifiers:** iterm (1)
 > **Versions:** 1.10.1 (1)
 
-#### PyTorch use case description
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-use-case-description?u=76281980)
+#### [PyTorch use case description](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-use-case-description?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -293,7 +289,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-use-case-description?u=76281980&t=46)** AI may be able to help.
 >
-> **[0:49](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-use-case-description?u=76281980&t=49)** Artificial intelligence, AI, can play a key role to achieve this objective and vision.
+> **[0:49](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-use-case-description?u=76281980&t=49)** [[Artificial Intelligence (AI)|Artificial intelligence]], AI, can play a key role to achieve this objective and vision.
 >
 > **[0:55](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-use-case-description?u=76281980&t=55)** AI provides the capability to mimic human judgment.
 >
@@ -307,21 +303,20 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-use-case-description?u=76281980&t=117)** The inputs to the models and predictive methods must be consistently monitored to determine the most critical inputs that produce the best possible outcome for both learners and tutors.
 >
-> **[2:11](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-use-case-description?u=76281980&t=131)** This type of rapid iteration of exploration, experimentation, and productization makes PyTorch the ideal choice for the AI and ML framework.
+> **[2:11](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-use-case-description?u=76281980&t=131)** This type of rapid iteration of exploration, experimentation, and productization makes [[PyTorch]] the ideal choice for the AI and ML framework.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), next (1), [[PyTorch]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[PyTorch]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### PyTorch data exploration
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-data-exploration?u=76281980)
+#### [PyTorch data exploration](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-data-exploration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-data-exploration?u=76281980&t=0)** - PyTorch can be used to explore a dataset for model development.
+> **[0:00](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-data-exploration?u=76281980&t=0)** - [[PyTorch]] can be used to explore a dataset for model development.
 >
 > **[0:04](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-data-exploration?u=76281980&t=4)** PyTorch provides two data primitives DataLoader and Dataset.
 >
@@ -343,7 +338,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-data-exploration?u=76281980&t=58)** You can find these data sets and functions on the PyTorch website with the links included in this slide.
 >
-> **[1:05](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-data-exploration?u=76281980&t=65)** For example, for image dataset go to [pytorch.org/vision/stable/datasets.html](https://pytorch.org/vision/stable/datasets.html).
+> **[1:05](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-data-exploration?u=76281980&t=65)** For example, for image dataset go to [pytorch.org/vision/stable/datasets.[[HTML]]](https://pytorch.org/vision/stable/datasets.html).
 >
 > **[1:14](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-data-exploration?u=76281980&t=74)** For text datasets go to [pytorch.org/text/stable/datasets.html](https://pytorch.org/text/stable/datasets.html).
 >
@@ -385,7 +380,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-data-exploration?u=76281980&t=186)** Step three, loading the data.
 >
-> **[3:10](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-data-exploration?u=76281980&t=190)** We'll load the data using the pandas library we imported in step one.
+> **[3:10](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-data-exploration?u=76281980&t=190)** We'll load the data using the [[Pandas (Software)|pandas]] library we imported in step one.
 >
 > **[3:14](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-data-exploration?u=76281980&t=194)** If you don't have pandas installed just run the following command: pip3 install pandas.
 >
@@ -409,7 +404,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), [[PyTorch]] (11), [[Pandas (Software)|Pandas]] (6), next (5), [[HTML]] (3)
+> **Frameworks & Libraries:** [[PyTorch]] (11), [[Pandas (Software)|Pandas]] (6), [[HTML]] (3)
 > **Env Vars:** mnist (2), csv (2)
 > **File Paths:** pytorch.org/vision/stable/datasets.html (1), pytorch.org/text/stable/datasets.html (1), pytorch.org/audio/stable/datasets.html (1)
 > **CLI Commands:** find (2), pip3 (1)
@@ -423,14 +418,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand PyTorch tensors
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/understand-pytorch-tensors?u=76281980)
+#### [Understand PyTorch tensors](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/understand-pytorch-tensors?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/understand-pytorch-tensors?u=76281980&t=0)** - [Instructor] Tensors are the building blocks of a neural network.
 >
-> **[0:04](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/understand-pytorch-tensors?u=76281980&t=4)** A PyTorch tensor is the central data abstraction as a generalized form of arrays in n dimensions to run arbitrary computations.
+> **[0:04](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/understand-pytorch-tensors?u=76281980&t=4)** A [[PyTorch]] tensor is the central data abstraction as a generalized form of arrays in n dimensions to run arbitrary computations.
 >
 > **[0:14](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/understand-pytorch-tensors?u=76281980&t=14)** A tensor can be of any dimension.
 >
@@ -494,22 +488,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[PyTorch]] (3), parallel (1)
+> **Frameworks & Libraries:** [[PyTorch]] (3)
 > **Env Vars:** cuda (2), nividia (2), cpu (1), gpu (1)
 > **Analogies:** for example (2), such as (2)
 > **Definitions:** is an  (1), stands for (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understand PyTorch basic operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/understand-pytorch-basic-operations?u=76281980)
+#### [Understand PyTorch basic operations](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/understand-pytorch-basic-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/understand-pytorch-basic-operations?u=76281980&t=0)** - [Instructor] PyTorch Tensors allow you to apply arithmetics on your tensors.
+> **[0:00](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/understand-pytorch-basic-operations?u=76281980&t=0)** - [Instructor] [[PyTorch]] Tensors allow you to apply arithmetics on your tensors.
 >
 > **[0:05](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/understand-pytorch-basic-operations?u=76281980&t=5)** PyTorch Tensors have over 300 operations that can be performed on them.
 >
-> **[0:10](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/understand-pytorch-basic-operations?u=76281980&t=10)** You can apply these operations on Scala and multiple dimensions of tensors.
+> **[0:10](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/understand-pytorch-basic-operations?u=76281980&t=10)** You can apply these operations on [[Scala]] and multiple dimensions of tensors.
 >
 > **[0:16](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/understand-pytorch-basic-operations?u=76281980&t=16)** The very basic operations on tensors are additions, subtractions, multiplications, and divisions.
 >
@@ -517,7 +510,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/understand-pytorch-basic-operations?u=76281980&t=27)** So we have two tensors and we are performing some additions and subtractions here, and you'll get those output.
 >
-> **[0:37](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/understand-pytorch-basic-operations?u=76281980&t=37)** The major categories of operations include common functions such as abs, ceil, floor, clamp, trigonometric functions and their inverses such as pi, sin, asin, bitwise operations, comparisons, reductions such as max, min, standard, prod, unique, vector/matrices, and linear algebra operations.
+> **[0:37](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/understand-pytorch-basic-operations?u=76281980&t=37)** The major categories of operations include common functions such as abs, ceil, floor, clamp, trigonometric functions and their inverses such as pi, sin, asin, bitwise operations, comparisons, reductions such as max, min, standard, prod, unique, vector/matrices, and [[Linear Algebra]] operations.
 >
 > **[1:03](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/understand-pytorch-basic-operations?u=76281980&t=63)** Now let's go over some more examples.
 >
@@ -555,26 +548,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PyTorch]] (3), [[Scala]] (1), [[Linear Algebra]] (1), next (1)
+> **Frameworks & Libraries:** [[PyTorch]] (3), [[Scala]] (1), [[Linear Algebra]] (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understand PyTorch NumPy Bridge
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/understand-pytorch-numpy-bridge?u=76281980)
+#### [Understand PyTorch NumPy Bridge](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/understand-pytorch-numpy-bridge?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/understand-pytorch-numpy-bridge?u=76281980&t=0)** - [Instructor] Broadcasting is a way to perform an operation between tensors that have similarities in their shapes.
 >
-> **[0:07](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/understand-pytorch-numpy-bridge?u=76281980&t=7)** This is an important operation in deep learning.
+> **[0:07](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/understand-pytorch-numpy-bridge?u=76281980&t=7)** This is an important operation in [[Deep Learning]].
 >
 > **[0:09](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/understand-pytorch-numpy-bridge?u=76281980&t=9)** The common example is multiplying a tensor of learning weights by a batch of input tensors, applying the operation to each instance in the batch separately and running a tester of identical shape.
 >
 > **[0:24](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/understand-pytorch-numpy-bridge?u=76281980&t=24)** Here's an example with two by four multiplying one by four returns a tester of shape two, with dimension of one, with values of two and 16.
 >
-> **[0:37](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/understand-pytorch-numpy-bridge?u=76281980&t=37)** If you're familiar with broadcasting semantics and NumPy ndarrays, you'll find the same rules apply with PyTorch.
+> **[0:37](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/understand-pytorch-numpy-bridge?u=76281980&t=37)** If you're familiar with broadcasting semantics and NumPy ndarrays, you'll find the same rules apply with [[PyTorch]].
 >
 > **[0:45](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/understand-pytorch-numpy-bridge?u=76281980&t=45)** The exception to the same shape rule is tensor broadcasting.
 >
@@ -618,21 +610,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PyTorch]] (8), data (4), [[Deep Learning]] (1), express (1)
+> **Frameworks & Libraries:** [[PyTorch]] (8), [[Deep Learning]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** gpu (1)
 > **Cross-References:** as you saw (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understand PyTorch autograd
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/understand-pytorch-autograd?u=76281980)
+#### [Understand PyTorch autograd](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/understand-pytorch-autograd?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/understand-pytorch-autograd?u=76281980&t=0)** - [Narrator] Automatic differentiation is a building block of every deep learning library out there.
+> **[0:00](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/understand-pytorch-autograd?u=76281980&t=0)** - [Narrator] Automatic differentiation is a building block of every [[Deep Learning]] library out there.
 >
-> **[0:06](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/understand-pytorch-autograd?u=76281980&t=6)** PyTorch's automatic differentiation engine called Autograd is a tool to understand how automatic differentiation works.
+> **[0:06](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/understand-pytorch-autograd?u=76281980&t=6)** [[PyTorch]]'s automatic differentiation engine called Autograd is a tool to understand how automatic differentiation works.
 >
 > **[0:15](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/understand-pytorch-autograd?u=76281980&t=15)** Modern neural network architectures can have millions of learnable parameters.
 >
@@ -686,18 +677,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[PyTorch]] (2), [[Deep Learning]] (1), data (1)
+> **Frameworks & Libraries:** [[PyTorch]] (2), [[Deep Learning]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Versions:** 4.5 (1)
 > **Speakers:** - [narrator] (1)
 
-#### Advanced PyTorch autograd
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/advanced-pytorch-autograd?u=76281980)
+#### [Advanced PyTorch autograd](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/advanced-pytorch-autograd?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/advanced-pytorch-autograd?u=76281980&t=0)** - [Instructor] There's a lot more to AutoGrad and PyTorch.
+> **[0:00](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/advanced-pytorch-autograd?u=76281980&t=0)** - [Instructor] There's a lot more to AutoGrad and [[PyTorch]].
 >
 > **[0:03](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/advanced-pytorch-autograd?u=76281980&t=3)** Let's try something more complex.
 >
@@ -744,12 +734,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Torchvision introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchvision-introduction?u=76281980)
+#### [Torchvision introduction](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchvision-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchvision-introduction?u=76281980&t=0)** - [Instructor] TorchVision is a library within PyTorch for image and video processing, it contains a number of important and useful data sets, model architecture, as well as models and transformation operations that are commonly used for computer vision projects.
+> **[0:00](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchvision-introduction?u=76281980&t=0)** - [Instructor] TorchVision is a library within [[PyTorch]] for image and video processing, it contains a number of important and useful data sets, model architecture, as well as models and transformation operations that are commonly used for [[Computer Vision]] projects.
 >
 > **[0:18](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchvision-introduction?u=76281980&t=18)** There are seven main packages for the TorchVision library: dataset, IO, models, feature extraction, ops, transforms, and utils.
 >
@@ -783,7 +772,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchvision-introduction?u=76281980&t=136)** Since 2010, the dataset is used in the ImageNet Large Scale Visual Recognition Challenge, a benchmark in image classification and object detection.
 >
-> **[2:28](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchvision-introduction?u=76281980&t=148)** Many of you have heard the MNIST dataset, which was developed by none other, Yann LeCun, the chief scientist at Meta who was dubbed as one of the god fathers of deep learning.
+> **[2:28](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchvision-introduction?u=76281980&t=148)** Many of you have heard the MNIST dataset, which was developed by none other, Yann LeCun, the chief scientist at Meta who was dubbed as one of the god fathers of [[Deep Learning]].
 >
 > **[2:40](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchvision-introduction?u=76281980&t=160)** The MNIST dataset has become a standard benchmark for learning, classification, and computer vision systems.
 >
@@ -863,7 +852,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Computer Vision]] (5), [[PyTorch]] (3), feature (3), api (2)
+> **Frameworks & Libraries:** [[Computer Vision]] (5), [[PyTorch]] (3), [[Deep Learning]] (1)
 > **Env Vars:** mnist (8), jpeg (6), cifar (3), png (3), rgb (3)
 > **Code Identifiers:** read_image (1), decode_image (1), encode_jpeg (1), decode_jpeg (1), write_jpeg (1)
 > **Definitions:** is a  (5), refers to (1), is an  (1)
@@ -872,8 +861,7 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
 
-#### Torchvision for video and image understanding
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchvision-for-video-and-image-understanding?u=76281980)
+#### [Torchvision for video and image understanding](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchvision-for-video-and-image-understanding?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -914,14 +902,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Torchaudio introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchaudio-introduction?u=76281980)
+#### [Torchaudio introduction](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchaudio-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchaudio-introduction?u=76281980&t=0)** - [Instructor] TorchAudio is a library for audio and signal processing with PyTorch.
+> **[0:00](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchaudio-introduction?u=76281980&t=0)** - [Instructor] TorchAudio is a library for audio and signal processing with [[PyTorch]].
 >
-> **[0:05](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchaudio-introduction?u=76281980&t=5)** It provides IO, signal, and data processing functions, datasets, model implementations, and application components.
+> **[0:05](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchaudio-introduction?u=76281980&t=5)** It provides IO, signal, and [[Data Processing]] functions, datasets, model implementations, and application components.
 >
 > **[0:14](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchaudio-introduction?u=76281980&t=14)** TorchAudio offers a set of APIs, including backend, functional, transforms, datasets, models, pipelines, sox_effects, compliance.kaldi, kaldi_io, and utils.
 >
@@ -931,7 +918,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchaudio-introduction?u=76281980&t=58)** Details of these datasets can be found at PyTorch dataset documentation.
 >
-> **[1:04](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchaudio-introduction?u=76281980&t=64)** Audio I/O package allow you to query audio file metadata, loading audio data into a tensor, and saving audio to files.
+> **[1:04](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchaudio-introduction?u=76281980&t=64)** Audio I/O package allow you to query audio file [[Metadata]], loading audio data into a tensor, and saving audio to files.
 >
 > **[1:14](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchaudio-introduction?u=76281980&t=74)** Audio resampling.
 >
@@ -967,7 +954,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), functional (5), [[PyTorch]] (2), application (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[PyTorch]] (2), [[Data Processing]] (1), [[Metadata]] (1)
 > **Analogies:** similar to (4), for instance (1)
 > **Env Vars:** cmu (1), gtzan (1), vctk (1), rir (1)
 > **Code Identifiers:** sox_effects (1), kaldi_io (1), apply_codec (1)
@@ -975,8 +962,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Torchaudio for audio understanding
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchaudio-for-audio-understanding?u=76281980)
+#### [Torchaudio for audio understanding](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchaudio-for-audio-understanding?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1056,7 +1042,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), data (3), feature (2), web (1)
 > **Env Vars:** vac (3), asr (1), https (1)
 > **Speakers:** - [male (2), - now (1), - next (1), - yes (1)
 > **Versions:** 2.0 (1), 4.0 (1)
@@ -1068,16 +1053,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Torchtext introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchtext-introduction?u=76281980)
+#### [Torchtext introduction](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchtext-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchtext-introduction?u=76281980&t=0)** - TorchText is PyTorch's Library for Natural Language Processing.
+> **[0:00](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchtext-introduction?u=76281980&t=0)** - TorchText is [[PyTorch]]'s Library for [[Natural Language Processing (NLP)|Natural Language Processing]].
 >
-> **[0:05](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchtext-introduction?u=76281980&t=5)** It consists of data processing, utilities, and useful data sets for natural language processing.
+> **[0:05](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchtext-introduction?u=76281980&t=5)** It consists of [[Data Processing]], utilities, and useful data sets for natural language processing.
 >
-> **[0:11](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchtext-introduction?u=76281980&t=11)** It also comes with pre-trained word embedding, dataset API.
+> **[0:11](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchtext-introduction?u=76281980&t=11)** It also comes with pre-trained [[Microsoft Word|word]] embedding, dataset API.
 >
 > **[0:16](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchtext-introduction?u=76281980&t=16)** Iterator API ought to be used for training models with PyTorch.
 >
@@ -1105,7 +1089,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchtext-introduction?u=76281980&t=88)** Sentence piece numericalizer is a sentence piece model that numericalizes a text sentence into a generator over the IDs.
 >
-> **[1:38](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchtext-introduction?u=76281980&t=98)** Sentence piece tokenizer is a sentence piece model to tokenize a text sentence into a generator over the tokens.
+> **[1:38](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchtext-introduction?u=76281980&t=98)** Sentence piece tokenizer is a sentence piece model to tokenize a text sentence into a generator over the [[Tokens]].
 >
 > **[1:47](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchtext-introduction?u=76281980&t=107)** Custom replace converts text strings.
 >
@@ -1131,15 +1115,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[PyTorch]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (2), api (2), functional (2)
+> **Frameworks & Libraries:** [[PyTorch]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Data Processing]] (2), [[Tokens]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** api (2), xml (2)
 > **Definitions:** is a  (2)
 > **Warnings:** note that (1), be aware (1)
 > **Analogies:** such as (1)
 > **Speakers:** - torchtext (1)
 
-#### Torchtext for translation
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchtext-for-translation?u=76281980)
+#### [Torchtext for translation](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchtext-for-translation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1151,7 +1134,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchtext-for-translation?u=76281980&t=17)** The character-level RNN reads words as a series of characters, outputting a prediction and hidden state at each step, feeding its previous hidden state into each next step.
 >
-> **[0:30](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchtext-for-translation?u=76281980&t=30)** We take the final prediction to be the output, which class the word belongs to.
+> **[0:30](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchtext-for-translation?u=76281980&t=30)** We take the final prediction to be the output, which class the [[Microsoft Word|word]] belongs to.
 >
 > **[0:36](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchtext-for-translation?u=76281980&t=36)** Specifically, we'll train on a few thousand surnames from 18 languages of origin and predict which language a name is from, based on the spelling.
 >
@@ -1173,7 +1156,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchtext-for-translation?u=76281980&t=97)** To run a step of this network, we need to pass an input, in our case, the tensor for the current letter, and a previous hidden state, which we initialize as zeros at first.
 >
-> **[1:50](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchtext-for-translation?u=76281980&t=110)** We'll get back the output probability of each language and a next hidden state, which we keep for the next step.
+> **[1:50](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchtext-for-translation?u=76281980&t=110)** We'll get back the output [[Probability]] of each language and a next hidden state, which we keep for the next step.
 >
 > **[2:00](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchtext-for-translation?u=76281980&t=120)** We will use the lineToTensor to avoid creating a new tensor every step.
 >
@@ -1217,7 +1200,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[Microsoft Word|Word]] (1), data (1), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Probability]] (1)
 > **Env Vars:** rnn (2)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** linetotensor (1)
@@ -1228,14 +1211,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing your PyTorch learning process
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/continuing-your-pytorch-learning-process?u=76281980)
+#### [Continuing your PyTorch learning process](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/continuing-your-pytorch-learning-process?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/continuing-your-pytorch-learning-process?u=76281980&t=0)** - [Instructor] Thanks for watching.
 >
-> **[0:01](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/continuing-your-pytorch-learning-process?u=76281980&t=1)** Understanding the basics of computer vision, natural language processing, and audio processing through PyTorch can be a lot to get your head around.
+> **[0:01](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/continuing-your-pytorch-learning-process?u=76281980&t=1)** Understanding the basics of [[Computer Vision]], [[Natural Language Processing (NLP)|natural language processing]], and audio processing through [[PyTorch]] can be a lot to get your head around.
 >
 > **[0:11](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/continuing-your-pytorch-learning-process?u=76281980&t=11)** So if you need to go back and rewatch videos until you get it.
 >
@@ -1243,9 +1225,9 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/continuing-your-pytorch-learning-process?u=76281980&t=23)** If you want to keep learning about PyTorch or Machine Learning, the next step is to dive into the documentation and build something, create an implementation for an idea you have.
 >
-> **[0:37](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/continuing-your-pytorch-learning-process?u=76281980&t=37)** And if you want to learn more about AI, there is a 10 course learning series on LinkedIn called Master The Fundamentals of AI and Machine Learning.
+> **[0:37](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/continuing-your-pytorch-learning-process?u=76281980&t=37)** And if you want to learn more about AI, there is a 10 course learning series on [[LinkedIn]] called Master The Fundamentals of AI and Machine Learning.
 >
-> **[0:47](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/continuing-your-pytorch-learning-process?u=76281980&t=47)** Courses such as Artificial Intelligence Foundations Neural Networks with Doug Rose, or AI Algorithms for Gaming with Eduardo Corpeno will both be super informative and fun.
+> **[0:47](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/continuing-your-pytorch-learning-process?u=76281980&t=47)** Courses such as [[Artificial Intelligence Foundations]] [[Neural Networks]] with Doug Rose, or AI [[Algorithms]] for Gaming with Eduardo Corpeno will both be super informative and fun.
 >
 > **[1:02](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/continuing-your-pytorch-learning-process?u=76281980&t=62)** If you want to keep in touch with me, please follow me on Twitter or LinkedIn or look me up on Facebook and Instagram.
 >
@@ -1253,7 +1235,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[PyTorch]] (2), [[LinkedIn]] (2), [[Computer Vision]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
+> **Frameworks & Libraries:** [[PyTorch]] (2), [[LinkedIn]] (2), [[Computer Vision]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Artificial Intelligence Foundations]] (1)
 > **Documentation:** the documentation (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)

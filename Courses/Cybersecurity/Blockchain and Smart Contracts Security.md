@@ -87,16 +87,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Security concerns with blockchain
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/security-concerns-with-blockchain?u=76281980)
+#### [Security concerns with blockchain](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/security-concerns-with-blockchain?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/security-concerns-with-blockchain?u=76281980&t=0)** - Do you know what's the driving force and the technology behind cryptos, NFTs, Web 3.0 and the metaverse?
 >
-> **[0:10](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/security-concerns-with-blockchain?u=76281980&t=10)** It's blockchain While the adoption of blockchain has skyrocketed, so have the number of attacks compromising the security and trust in this ecosystem.
+> **[0:10](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/security-concerns-with-blockchain?u=76281980&t=10)** It's [[Blockchain]] While the adoption of blockchain has skyrocketed, so have the number of attacks compromising the security and trust in this ecosystem.
 >
-> **[0:22](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/security-concerns-with-blockchain?u=76281980&t=22)** Smart contracts and decentralized applications are paving the way to new business models and a revolutionary new autonomous incarnation of the internet.
+> **[0:22](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/security-concerns-with-blockchain?u=76281980&t=22)** [[Smart Contracts]] and [[Decentralized Applications (DApps)|decentralized applications]] are paving the way to new business models and a revolutionary new autonomous incarnation of the internet.
 >
 > **[0:34](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/security-concerns-with-blockchain?u=76281980&t=34)** And security must be ingrained from day one.
 >
@@ -114,35 +113,34 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/security-concerns-with-blockchain?u=76281980&t=117)** And finally the end user.
 >
-> **[2:01](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/security-concerns-with-blockchain?u=76281980&t=121)** By the end of this course I hope that you will walk away with an understanding of security controls and practices you should apply to protect your blockchain ecosystem, whether you leverage it for cryptocurrencies, decentralized finance, non-fungible tokens, or your industry specific applications.
+> **[2:01](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/security-concerns-with-blockchain?u=76281980&t=121)** By the end of this course I hope that you will walk away with an understanding of security controls and practices you should apply to protect your blockchain ecosystem, whether you leverage it for cryptocurrencies, decentralized finance, non-fungible [[Tokens]], or your industry specific applications.
 >
-> **[2:22](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/security-concerns-with-blockchain?u=76281980&t=142)** So join me on my LinkedIn learning course as we explore the intersection of blockchain and security.
+> **[2:22](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/security-concerns-with-blockchain?u=76281980&t=142)** So join me on my [[LinkedIn]] learning course as we explore the intersection of blockchain and security.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (11), [[Blockchain]] (9), [[Smart Contracts]] (4), web (1), [[Decentralized Applications (DApps)|Decentralized applications]] (1)
+> **Frameworks & Libraries:** [[Blockchain]] (9), [[Smart Contracts]] (4), [[Decentralized Applications (DApps)|Decentralized applications]] (1), [[Tokens]] (1), [[LinkedIn]] (1)
 > **Versions:** 3.0 (1)
 > **Analogies:** such as (1)
 > **Speakers:** - do (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/what-you-should-know?u=76281980&t=0)** - [Instructor] This course includes an introduction to the foundations of the blockchain and smart contracts.
+> **[0:00](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/what-you-should-know?u=76281980&t=0)** - [Instructor] This course includes an introduction to the foundations of the [[Blockchain]] and [[Smart Contracts]].
 >
 > **[0:06](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/what-you-should-know?u=76281980&t=6)** But to get the best out of this course, you should have some information technology knowledge.
 >
 > **[0:12](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/what-you-should-know?u=76281980&t=12)** Familiarity with crypto, blockchain, and smart contracts will help you get the most out of the concepts.
 >
-> **[0:20](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/what-you-should-know?u=76281980&t=20)** Exposure to programming in any language will help you approach these secure coding practices that will apply to smart contracts.
+> **[0:20](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/what-you-should-know?u=76281980&t=20)** Exposure to programming in any language will help you approach these [[Secure Coding]] practices that will apply to smart contracts.
 >
 > **[0:29](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/what-you-should-know?u=76281980&t=29)** And finally, familiarity with the general knowledge of security concepts outside of blockchain is an excellent foundation for learning security controls specific to blockchain.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (4), [[Smart Contracts]] (3), [[Security]] (2), [[Programming]] (1), [[Secure Coding]] (1)
+> **Frameworks & Libraries:** [[Blockchain]] (4), [[Smart Contracts]] (3), [[Secure Coding]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -151,12 +149,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is blockchain?
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/what-is-blockchain?u=76281980)
+#### [What is blockchain?](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/what-is-blockchain?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/what-is-blockchain?u=76281980&t=0)** - [Narrator] Blockchain is a decentralized and distributed ledger.
+> **[0:00](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/what-is-blockchain?u=76281980&t=0)** - [Narrator] [[Blockchain]] is a decentralized and distributed ledger.
 >
 > **[0:05](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/what-is-blockchain?u=76281980&t=5)** A crude but easy way to internalize the concept of blockchain in your mind is to think of it as a special kind of database where the data is spread and stored across geographically distributed machines and without a single database administrator or a management layer.
 >
@@ -184,11 +181,11 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/what-is-blockchain?u=76281980&t=123)** To illustrate these concepts of distributed and decentralized, let's take an example of an application that many of you are likely to be familiar with, the Bitcoin.
 >
-> **[2:16](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/what-is-blockchain?u=76281980&t=136)** Bitcoin is a cryptocurrency that uses blockchain technology, its network, and specialized protocols.
+> **[2:16](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/what-is-blockchain?u=76281980&t=136)** Bitcoin is a [[Cryptocurrency]] that uses blockchain technology, its network, and specialized protocols.
 >
 > **[2:24](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/what-is-blockchain?u=76281980&t=144)** Bitcoin network is a peer to peer network of distributed nodes.
 >
-> **[2:30](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/what-is-blockchain?u=76281980&t=150)** A node is just another word for a computer.
+> **[2:30](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/what-is-blockchain?u=76281980&t=150)** A node is just another [[Microsoft Word|word]] for a computer.
 >
 > **[2:33](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/what-is-blockchain?u=76281980&t=153)** Now that computer could very well be the computer you are on right now, provided it has the right software and configuration.
 >
@@ -222,15 +219,15 @@ created: 2026-05-02
 >
 > **[5:00](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/what-is-blockchain?u=76281980&t=300)** Blockchain records are public, meaning anyone can see the record of transactions published on the blockchain ledger.
 >
-> **[5:09](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/what-is-blockchain?u=76281980&t=309)** That said, some blockchains can be set up as private but most widely adopted blockchains today, such as Bitcoin and Ethereum are public.
+> **[5:09](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/what-is-blockchain?u=76281980&t=309)** That said, some blockchains can be set up as private but most widely adopted blockchains today, such as Bitcoin and [[Ethereum]] are public.
 >
-> **[5:21](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/what-is-blockchain?u=76281980&t=321)** Obviously the public nature allows anyone to audit and spot any discrepancies but it can also be a privacy concern.
+> **[5:21](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/what-is-blockchain?u=76281980&t=321)** Obviously the public nature allows anyone to audit and spot any discrepancies but it can also be a [[Privacy]] concern.
 >
 > **[5:31](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/what-is-blockchain?u=76281980&t=331)** So we reviewed the unique features of blockchain but before we dig deeper into security aspects of the blockchain, let's digress and take a look at another use case for blockchain that is beyond cryptocurrencies but has profound implications if not secured.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (27), data (10), database (4), [[Security]] (4), node (2)
+> **Frameworks & Libraries:** [[Blockchain]] (27), [[Cryptocurrency]] (1), [[Microsoft Word|Word]] (1), [[Ethereum]] (1), [[Privacy]] (1)
 > **Definitions:** is a  (4), known as (3), is called (1), in other words (1), is an  (1)
 > **CLI Commands:** node (2)
 > **Analogies:** think of it as (1), such as (1)
@@ -238,16 +235,15 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
-#### Smart contracts and dApps
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-and-dapps?u=76281980)
+#### [Smart contracts and dApps](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-and-dapps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-and-dapps?u=76281980&t=0)** - [Narrator] Enter smart contracts.
+> **[0:00](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-and-dapps?u=76281980&t=0)** - [Narrator] Enter [[Smart Contracts]].
 >
 > **[0:03](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-and-dapps?u=76281980&t=3)** Now don't be confused by the name.
 >
-> **[0:05](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-and-dapps?u=76281980&t=5)** In simple words a smart contract is a computer program that is a collection of code and data that is stored and executed on the blockchain.
+> **[0:05](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-and-dapps?u=76281980&t=5)** In simple words a smart contract is a computer program that is a collection of code and data that is stored and executed on the [[Blockchain]].
 >
 > **[0:16](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-and-dapps?u=76281980&t=16)** In contrast, a traditional program runs on a desktop or a virtual machine or in the cloud.
 >
@@ -267,42 +263,41 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-and-dapps?u=76281980&t=75)** You average you as a user when want to create business applications that are decentralized in nature and deployed on blockchain are likely to rely on smart contracts.
 >
-> **[1:30](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-and-dapps?u=76281980&t=90)** Smart contracts are developed in blockchain specific languages, such as Solidity.
+> **[1:30](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-and-dapps?u=76281980&t=90)** Smart contracts are developed in blockchain specific languages, such as [[Solidity]].
 >
-> **[1:37](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-and-dapps?u=76281980&t=97)** Decentralized applications deployed on blockchain are a new breed of applications that take advantage of the properties of blockchain that we reviewed in the prior videos.
+> **[1:37](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-and-dapps?u=76281980&t=97)** [[Decentralized Applications (DApps)|Decentralized applications]] deployed on blockchain are a new breed of applications that take advantage of the properties of blockchain that we reviewed in the prior videos.
 >
 > **[1:49](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-and-dapps?u=76281980&t=109)** Sometimes these are also referred to as Web 3.0 applications.
 >
-> **[1:56](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-and-dapps?u=76281980&t=116)** Surprisingly, the most common examples of such apps are Bitcoin and Ethereum.
+> **[1:56](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-and-dapps?u=76281980&t=116)** Surprisingly, the most common examples of such apps are Bitcoin and [[Ethereum]].
 >
-> **[2:03](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-and-dapps?u=76281980&t=123)** And then, there are apps that allow users to trade digital ad via known fungible tokens or NFTs.
+> **[2:03](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-and-dapps?u=76281980&t=123)** And then, there are apps that allow users to trade digital ad via known fungible [[Tokens]] or NFTs.
 >
 > **[2:12](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-and-dapps?u=76281980&t=132)** E-voting and identity management are specific use cases addressed by many upcoming decentralized apps.
 >
 > **[2:21](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-and-dapps?u=76281980&t=141)** Decentralized apps are also heavily used in the world of finance today.
 >
-> **[2:26](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-and-dapps?u=76281980&t=146)** Many industry specific applications are also emerging in the fields of legal supply chain and internet of things.
+> **[2:26](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-and-dapps?u=76281980&t=146)** Many industry specific applications are also emerging in the fields of legal supply chain and [[IoT|internet of things]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (8), [[Smart Contracts]] (7), data (1), cloud (1), feature (1)
+> **Frameworks & Libraries:** [[Blockchain]] (8), [[Smart Contracts]] (7), [[Solidity]] (1), [[Decentralized Applications (DApps)|Decentralized applications]] (1), [[Ethereum]] (1)
 > **Definitions:** is a  (2)
 > **Versions:** 3.0 (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### How blockchain works
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/how-blockchain-works?u=76281980)
+#### [How blockchain works](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/how-blockchain-works?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/how-blockchain-works?u=76281980&t=0)** - [Instructor] You'll be able to appreciate the security properties and the weaknesses in blockchain if you know how blockchain actually works behind the scenes.
+> **[0:00](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/how-blockchain-works?u=76281980&t=0)** - [Instructor] You'll be able to appreciate the security properties and the weaknesses in [[Blockchain]] if you know how blockchain actually works behind the scenes.
 >
 > **[0:11](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/how-blockchain-works?u=76281980&t=11)** So let's get to that first and see how a transaction is created, validated, and finally recorded on blockchain.
 >
 > **[0:21](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/how-blockchain-works?u=76281980&t=21)** You already know blockchain is a chain of blocks, but what is a block?
 >
-> **[0:27](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/how-blockchain-works?u=76281980&t=27)** A block is a collection of data structures that includes a header and a list of transactions.
+> **[0:27](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/how-blockchain-works?u=76281980&t=27)** A block is a collection of [[Data Structures]] that includes a header and a list of transactions.
 >
 > **[0:36](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/how-blockchain-works?u=76281980&t=36)** Blockchain header contains multiple fields that are necessary for blockchain protocols to do their job.
 >
@@ -316,7 +311,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/how-blockchain-works?u=76281980&t=67)** A block contains multiple transactions that are recorded in the blockchain.
 >
-> **[1:13](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/how-blockchain-works?u=76281980&t=73)** A transaction can represent any of the following: a transfer of cryptocurrency value from one party to another.
+> **[1:13](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/how-blockchain-works?u=76281980&t=73)** A transaction can represent any of the following: a transfer of [[Cryptocurrency]] value from one party to another.
 >
 > **[1:23](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/how-blockchain-works?u=76281980&t=83)** It can also be a smart contract program intended to perform an action that someone programmed it to be.
 >
@@ -426,7 +421,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (23), node (9), [[Security]] (2), data (2), [[Cryptocurrency]] (2)
+> **Frameworks & Libraries:** [[Blockchain]] (23), [[Cryptocurrency]] (2), [[Data Structures]] (1)
 > **CLI Commands:** node (9)
 > **Definitions:** is a  (7), known as (2)
 > **Analogies:** such as (2), imagine (1)
@@ -438,18 +433,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Consensus
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/consensus?u=76281980)
+#### [Consensus](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/consensus?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/consensus?u=76281980&t=0)** - [Instructor] Having seen what Blockchain is and how it works, it is time to look into its native security properties.
+> **[0:00](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/consensus?u=76281980&t=0)** - [Instructor] Having seen what [[Blockchain]] is and how it works, it is time to look into its native security properties.
 >
 > **[0:09](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/consensus?u=76281980&t=9)** Blockchain is designed to be secure through built-in design mechanisms.
 >
 > **[0:15](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/consensus?u=76281980&t=15)** It comes with three built-in security properties.
 >
-> **[0:19](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/consensus?u=76281980&t=19)** Consensus, immutability and security through cryptography.
+> **[0:19](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/consensus?u=76281980&t=19)** Consensus, immutability and security through [[Cryptography]].
 >
 > **[0:25](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/consensus?u=76281980&t=25)** You know that in a Blockchain there is no central governing entity that dictates or oversees what transactions are chosen to be written to the Blockchain.
 >
@@ -469,7 +463,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/consensus?u=76281980&t=93)** Such resources must not be abundant or free.
 >
-> **[1:37](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/consensus?u=76281980&t=97)** For example, Bitcoin and Ethereum use proof of work protocols that require proof of computing.
+> **[1:37](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/consensus?u=76281980&t=97)** For example, Bitcoin and [[Ethereum]] use proof of work protocols that require proof of computing.
 >
 > **[1:45](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/consensus?u=76281980&t=105)** Recall the example of puzzle solving we saw in the last videos.
 >
@@ -481,13 +475,13 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/consensus?u=76281980&t=129)** Since proof of resource requires miners to spend physical resources, it ends up consuming a significant amount of energy and is not environmentally friendly.
 >
-> **[2:22](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/consensus?u=76281980&t=142)** In contrast, proof of state protocols family requires nodes to invest crypto tokens before participating in the consensus mechanism.
+> **[2:22](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/consensus?u=76281980&t=142)** In contrast, proof of state protocols family requires nodes to invest crypto [[Tokens]] before participating in the consensus mechanism.
 >
 > **[2:33](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/consensus?u=76281980&t=153)** These nodes are called validators.
 >
 > **[2:37](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/consensus?u=76281980&t=157)** It is based on the principle that a node has substantial skin in the game, so as not to cheat the system.
 >
-> **[2:44](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/consensus?u=76281980&t=164)** Higher the stake, the higher the probability of being selected as a validator.
+> **[2:44](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/consensus?u=76281980&t=164)** Higher the stake, the higher the [[Probability]] of being selected as a validator.
 >
 > **[2:51](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/consensus?u=76281980&t=171)** As of the writing of this course, Ethereum is planning to move to proof of stake from proof of work consensus protocol.
 >
@@ -495,7 +489,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/consensus?u=76281980&t=191)** In fact, proof of work was first used in Bitcoin.
 >
-> **[3:16](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/consensus?u=76281980&t=196)** But keep in mind that consensus algorithms are not new to decentralized systems.
+> **[3:16](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/consensus?u=76281980&t=196)** But keep in mind that consensus [[Algorithms]] are not new to decentralized systems.
 >
 > **[3:22](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/consensus?u=76281980&t=202)** In fact, the design of fault-tolerant consensus protocols has been subject of research for many decades.
 >
@@ -535,7 +529,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (10), [[Security]] (3), [[Ethereum]] (2), [[Algorithms]] (2), [[Cryptography]] (1)
+> **Frameworks & Libraries:** [[Blockchain]] (10), [[Ethereum]] (2), [[Algorithms]] (2), [[Cryptography]] (1), [[Tokens]] (1)
 > **Env Vars:** bft (4), cpu (1), ibft (1)
 > **Definitions:** known as (4), is a  (1), refers to (1)
 > **Analogies:** such as (2), for example (1), similar to (1)
@@ -544,20 +538,19 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Immutability
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/immutability?u=76281980)
+#### [Immutability](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/immutability?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/immutability?u=76281980&t=0)** - [Instructor] In blockchain terms, the immutability property means, once a block of transactions is added to the blockchain the data cannot be modified.
+> **[0:00](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/immutability?u=76281980&t=0)** - [Instructor] In [[Blockchain]] terms, the immutability property means, once a block of transactions is added to the blockchain the data cannot be modified.
 >
 > **[0:12](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/immutability?u=76281980&t=12)** Obviously one can continue to append new blocks but the previous blocks are immutable.
 >
-> **[0:18](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/immutability?u=76281980&t=18)** This isn't quite a contrast to the enterprise database that is used in the financial and rest of the industries, where with the appropriate rights one can modify any table or attribute.
+> **[0:18](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/immutability?u=76281980&t=18)** This isn't quite a contrast to the enterprise database that is used in the financial and [[Representational State Transfer (REST)|rest]] of the industries, where with the appropriate rights one can modify any table or attribute.
 >
 > **[0:33](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/immutability?u=76281980&t=33)** Why does that matter from a security perspective?
 >
-> **[0:36](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/immutability?u=76281980&t=36)** Maintaining data integrity is one of the key elements of the CIA trial of security.
+> **[0:36](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/immutability?u=76281980&t=36)** Maintaining [[Data Integrity]] is one of the key elements of the CIA trial of security.
 >
 > **[0:43](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/immutability?u=76281980&t=43)** CIA stands for confidentiality, integrity and availability.
 >
@@ -587,25 +580,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Blockchain]] (7), [[Security]] (2), database (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Blockchain]] (7), [[Data Integrity]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (3), stands for (1), in other words (1)
 > **Env Vars:** cia (2), sha (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cryptography: Keys and addresses
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/cryptography-keys-and-addresses?u=76281980)
+#### [Cryptography: Keys and addresses](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/cryptography-keys-and-addresses?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/cryptography-keys-and-addresses?u=76281980&t=0)** - [Instructor] Blockchain security features, such as consensus, and immutability, as well as many other features rely on several cryptographic constructs.
+> **[0:00](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/cryptography-keys-and-addresses?u=76281980&t=0)** - [Instructor] [[Blockchain]] security features, such as consensus, and immutability, as well as many other features rely on several cryptographic constructs.
 >
 > **[0:11](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/cryptography-keys-and-addresses?u=76281980&t=11)** Let's start with the one that is closest to the end user: the cryptographic keys and the blockchain addresses.
 >
-> **[0:18](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/cryptography-keys-and-addresses?u=76281980&t=18)** You'll see both of these constructs used heavily in both Bitcoin and Ethereum blockchains, as well as in smart contracts.
+> **[0:18](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/cryptography-keys-and-addresses?u=76281980&t=18)** You'll see both of these constructs used heavily in both Bitcoin and [[Ethereum]] blockchains, as well as in [[Smart Contracts]].
 >
 > **[0:27](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/cryptography-keys-and-addresses?u=76281980&t=27)** Blockchain uses public and private key pairs for use cases, such as encryption, proving the identity of a user and non-repudiation.
 >
-> **[0:38](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/cryptography-keys-and-addresses?u=76281980&t=38)** There are many algorithms historically used for public key cryptography, also known as asymmetric cryptography.
+> **[0:38](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/cryptography-keys-and-addresses?u=76281980&t=38)** There are many [[Algorithms]] historically used for public key [[Cryptography]], also known as asymmetric cryptography.
 >
 > **[0:46](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/cryptography-keys-and-addresses?u=76281980&t=46)** Blockchain, however, uses elliptic cryptography or ECC to generate private and public key pairs.
 >
@@ -643,26 +635,25 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/cryptography-keys-and-addresses?u=76281980&t=163)** Now, you generate the address from the public key using the Keccak256 function and by taking the rightmost 160 bits of the output.
 >
-> **[2:53](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/cryptography-keys-and-addresses?u=76281980&t=173)** The Keccak algorithm was the winner in NIST SHA-3 competition.
+> **[2:53](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/cryptography-keys-and-addresses?u=76281980&t=173)** The Keccak algorithm was the winner in [[NIST]] SHA-3 competition.
 >
 > **[2:58](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/cryptography-keys-and-addresses?u=76281980&t=178)** To learn more about this algorithm, visit the URL on the screen.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (7), [[Cryptography]] (3), [[Ethereum]] (2), [[Security]] (1), [[Smart Contracts]] (1)
+> **Frameworks & Libraries:** [[Blockchain]] (7), [[Cryptography]] (3), [[Ethereum]] (2), [[Smart Contracts]] (1), [[Algorithms]] (1)
 > **Env Vars:** sha (2), ecc (1), nft (1), nist (1), url (1)
 > **Analogies:** such as (3), for example (1)
 > **Definitions:** known as (1), is a  (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cryptography: Validation
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/cryptography-validation?u=76281980)
+#### [Cryptography: Validation](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/cryptography-validation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/cryptography-validation?u=76281980&t=0)** - [Instructor] We already talked about how the hashing is used for immutability in the previous video but let us clarify a few important interconnected but sometimes confused cryptographic concepts, such as hashing, Merkle root, digital signatures and encryption.
 >
-> **[0:18](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/cryptography-validation?u=76281980&t=18)** Let's assume that you are the sender who is about to post a transaction on the blockchain network.
+> **[0:18](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/cryptography-validation?u=76281980&t=18)** Let's assume that you are the sender who is about to post a transaction on the [[Blockchain]] network.
 >
 > **[0:25](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/cryptography-validation?u=76281980&t=25)** When you want to give the confidence to the receiver that the transaction is not modified in the transit, include a hash of the data along with it.
 >
@@ -670,7 +661,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/cryptography-validation?u=76281980&t=42)** An exact match confirms that data has not been altered on its way.
 >
-> **[0:48](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/cryptography-validation?u=76281980&t=48)** Speaking of data integrity, the cornerstone of the blockchain is the capability to validate the transactions can still be trusted and their data integrity has not be violated.
+> **[0:48](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/cryptography-validation?u=76281980&t=48)** Speaking of [[Data Integrity]], the cornerstone of the blockchain is the capability to validate the transactions can still be trusted and their data integrity has not be violated.
 >
 > **[1:01](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/cryptography-validation?u=76281980&t=61)** And as you saw in the previous videos, blockchain relies on the validator nodes for this.
 >
@@ -724,7 +715,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (6), data (5), node (3)
+> **Frameworks & Libraries:** [[Blockchain]] (6), [[Data Integrity]] (2)
 > **Definitions:** is a  (2), known as (2)
 > **CLI Commands:** node (3)
 > **Cross-References:** previous video (1), as you saw (1)
@@ -737,16 +728,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overall technology architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/overall-technology-architecture?u=76281980)
+#### [Overall technology architecture](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/overall-technology-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/overall-technology-architecture?u=76281980&t=0)** - [Instructor] To implement security controls for protecting your blockchain ecosystem, you first need to identify the attack surface.
+> **[0:00](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/overall-technology-architecture?u=76281980&t=0)** - [Instructor] To implement security controls for protecting your [[Blockchain]] ecosystem, you first need to identify the attack surface.
 >
 > **[0:09](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/overall-technology-architecture?u=76281980&t=9)** And that requires an understanding of the end-to-end architecture.
 >
-> **[0:13](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/overall-technology-architecture?u=76281980&t=13)** That also requires knowledge of the role each building block plays from the underlying platform to smart contracts to decentralized apps and finally, to the end users.
+> **[0:13](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/overall-technology-architecture?u=76281980&t=13)** That also requires knowledge of the role each building block plays from the underlying platform to [[Smart Contracts]] to decentralized apps and finally, to the end users.
 >
 > **[0:26](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/overall-technology-architecture?u=76281980&t=26)** To put things into perspective, when we looked at blockchain in the last few videos, we were only focused on just one but a critical piece of its ecosystem.
 >
@@ -760,13 +750,13 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/overall-technology-architecture?u=76281980&t=71)** Examples are proof of work, proof of stake, BFT or a combination of these.
 >
-> **[1:19](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/overall-technology-architecture?u=76281980&t=79)** A number of different external services enable blockchain platform to be usable for end users and decentralized applications.
+> **[1:19](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/overall-technology-architecture?u=76281980&t=79)** A number of different external services enable blockchain platform to be usable for end users and [[Decentralized Applications (DApps)|decentralized applications]].
 >
 > **[1:28](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/overall-technology-architecture?u=76281980&t=88)** Host wallet services offer users the ability to store their private keys and hence, their cryptocurrencies with a third-party provider.
 >
 > **[1:38](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/overall-technology-architecture?u=76281980&t=98)** One example you may have heard of is Coinbase.
 >
-> **[1:42](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/overall-technology-architecture?u=76281980&t=102)** Chances are if you hold crypto tokens, you're going to buy, sell, or exchange them in others.
+> **[1:42](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/overall-technology-architecture?u=76281980&t=102)** Chances are if you hold crypto [[Tokens]], you're going to buy, sell, or exchange them in others.
 >
 > **[1:50](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/overall-technology-architecture?u=76281980&t=110)** Obviously, you can directly contact an interested party and transfer the tokens to them or you can take the route of using an exchange.
 >
@@ -778,7 +768,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/overall-technology-architecture?u=76281980&t=134)** While blockchain ledgers act as source of truth for the transactions that are stored in it, it still needs access to the external data.
 >
-> **[2:24](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/overall-technology-architecture?u=76281980&t=144)** For example, a smart contract may need access to live stock market data or wind speed data from IoT sensors installed on the windmills.
+> **[2:24](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/overall-technology-architecture?u=76281980&t=144)** For example, a smart contract may need access to live stock market data or wind speed data from [[IoT]] sensors installed on the windmills.
 >
 > **[2:35](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/overall-technology-architecture?u=76281980&t=155)** So blockchain needs a trustworthy source that can provide a data feed.
 >
@@ -800,19 +790,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (12), data (5), business (3), [[Tokens]] (3), [[Smart Contracts]] (2)
+> **Frameworks & Libraries:** [[Blockchain]] (12), [[Tokens]] (3), [[Smart Contracts]] (2), [[Decentralized Applications (DApps)|Decentralized applications]] (1), [[IoT]] (1)
 > **Analogies:** for example (2)
 > **Env Vars:** bft (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Attack surface and vectors
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/attack-surface-and-vectors?u=76281980)
+#### [Attack surface and vectors](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/attack-surface-and-vectors?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/attack-surface-and-vectors?u=76281980&t=0)** - [Instructor] Keeping the blockchain ecosystem secure is going to be challenging, but before we can secure it we need to understand what can actually go wrong.
+> **[0:00](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/attack-surface-and-vectors?u=76281980&t=0)** - [Instructor] Keeping the [[Blockchain]] ecosystem secure is going to be challenging, but before we can secure it we need to understand what can actually go wrong.
 >
 > **[0:11](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/attack-surface-and-vectors?u=76281980&t=11)** To do so, we will look at the attack surface of the components of its ecosystem.
 >
@@ -824,27 +813,26 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/attack-surface-and-vectors?u=76281980&t=45)** These weaknesses can cause a ripple effect and lead to 51% attacks and double spending attacks.
 >
-> **[0:53](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/attack-surface-and-vectors?u=76281980&t=53)** Vulnerability in the blockchain platform can also lead to an attack on the promise of privacy that blockchain is founded upon.
+> **[0:53](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/attack-surface-and-vectors?u=76281980&t=53)** Vulnerability in the blockchain platform can also lead to an attack on the promise of [[Privacy]] that blockchain is founded upon.
 >
-> **[1:03](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/attack-surface-and-vectors?u=76281980&t=63)** Smart contracts are also vulnerable to attacks such as reentrancy attack, front running attack, and denial of service attacks.
+> **[1:03](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/attack-surface-and-vectors?u=76281980&t=63)** [[Smart Contracts]] are also vulnerable to attacks such as reentrancy attack, front running attack, and denial of service attacks.
 >
-> **[1:12](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/attack-surface-and-vectors?u=76281980&t=72)** Ecosystem enabler services such as wallets exchanges can also be compromised due to phishing attacks, denial of service attacks, other insider threats, and conflict of interests.
+> **[1:12](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/attack-surface-and-vectors?u=76281980&t=72)** Ecosystem enabler services such as wallets exchanges can also be compromised due to [[Phishing]] attacks, denial of service attacks, other insider threats, and conflict of interests.
 >
-> **[1:27](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/attack-surface-and-vectors?u=76281980&t=87)** The end user and client running on these devices is also prone to well known attacks such as malware infections, threat of private keys, and a host of attacks that are possible due to application level vulnerabilities also defined by OWASP Top 10.
+> **[1:27](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/attack-surface-and-vectors?u=76281980&t=87)** The end user and client running on these devices is also prone to well known attacks such as malware infections, threat of private keys, and a host of attacks that are possible due to application level vulnerabilities also defined by [[OWASP]] Top 10.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (5), power (1), [[Privacy]] (1), [[Smart Contracts]] (1), [[Phishing]] (1)
+> **Frameworks & Libraries:** [[Blockchain]] (5), [[Privacy]] (1), [[Smart Contracts]] (1), [[Phishing]] (1), [[OWASP]] (1)
 > **Analogies:** such as (3)
 > **Env Vars:** owasp (1)
 > **Speakers:** - [instructor] (1)
 
-#### Security model
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/security-model?u=76281980)
+#### [Security model](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/security-model?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/security-model?u=76281980&t=0)** - [Narrator] So now we know that the blockchain ecosystem has an enormous attack surface and can be breached due to a variety of threats.
+> **[0:00](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/security-model?u=76281980&t=0)** - [Narrator] So now we know that the [[Blockchain]] ecosystem has an enormous attack surface and can be breached due to a variety of threats.
 >
 > **[0:09](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/security-model?u=76281980&t=9)** Such threats can emerge from traditional and well-known attack vectors, or due to a new breed of attacks, unique to blockchain.
 >
@@ -858,15 +846,15 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/security-model?u=76281980&t=40)** Let's take a quick look at them.
 >
-> **[0:42](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/security-model?u=76281980&t=42)** The rest of the course will be a deep dive into each of these factors.
+> **[0:42](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/security-model?u=76281980&t=42)** The [[Representational State Transfer (REST)|rest]] of the course will be a deep dive into each of these factors.
 >
 > **[0:47](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/security-model?u=76281980&t=47)** The first factor is all about securing the foundations of the blockchain.
 >
 > **[0:51](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/security-model?u=76281980&t=51)** That includes its transactions, distributed ledger and consensus protocol.
 >
-> **[0:57](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/security-model?u=76281980&t=57)** The next factor focuses on security of smart contracts.
+> **[0:57](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/security-model?u=76281980&t=57)** The next factor focuses on security of [[Smart Contracts]].
 >
-> **[1:02](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/security-model?u=76281980&t=62)** This factor includes secure design principles, secure coding practices, especially targeted for smart contracts.
+> **[1:02](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/security-model?u=76281980&t=62)** This factor includes secure design principles, [[Secure Coding]] practices, especially targeted for smart contracts.
 >
 > **[1:10](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/security-model?u=76281980&t=70)** And finally, the testing strategies to discover bugs before deploying a contract.
 >
@@ -876,7 +864,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), [[Blockchain]] (4), next (2), [[Smart Contracts]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Blockchain]] (4), [[Smart Contracts]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Secure Coding]] (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [narrator] (1)
@@ -886,12 +874,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Proof-of-work protocol attacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/proof-of-work-protocol-attacks?u=76281980)
+#### [Proof-of-work protocol attacks](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/proof-of-work-protocol-attacks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/proof-of-work-protocol-attacks?u=76281980&t=0)** - [Instructor] The 51% attack occurs when a group of miners grabs more than 51% of the hashing power of the blockchain network.
+> **[0:00](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/proof-of-work-protocol-attacks?u=76281980&t=0)** - [Instructor] The 51% attack occurs when a group of miners grabs more than 51% of the hashing power of the [[Blockchain]] network.
 >
 > **[0:11](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/proof-of-work-protocol-attacks?u=76281980&t=11)** These miners can make the genuine transactions orphaned and can override the process of writing to the blockchain with their own transactions.
 >
@@ -903,7 +890,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/proof-of-work-protocol-attacks?u=76281980&t=42)** Hashing power or hash rate refers to the number of hash calculations performed per second.
 >
-> **[0:49](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/proof-of-work-protocol-attacks?u=76281980&t=49)** Higher the hash rate, higher the speed at which miners can calculate hashes and increase their probability of solving the puzzle.
+> **[0:49](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/proof-of-work-protocol-attacks?u=76281980&t=49)** Higher the hash rate, higher the speed at which miners can calculate hashes and increase their [[Probability]] of solving the puzzle.
 >
 > **[0:59](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/proof-of-work-protocol-attacks?u=76281980&t=59)** Let's say a group of minors start to collude and start another network among themselves while still being part of the main blockchain network.
 >
@@ -917,7 +904,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/proof-of-work-protocol-attacks?u=76281980&t=112)** So how do you prevent your blockchain from such an attack?
 >
-> **[1:55](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/proof-of-work-protocol-attacks?u=76281980&t=115)** First of all, 51% attack is difficult to accomplish on a larger blockchain, such as Bitcoin or Ethereum.
+> **[1:55](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/proof-of-work-protocol-attacks?u=76281980&t=115)** First of all, 51% attack is difficult to accomplish on a larger blockchain, such as Bitcoin or [[Ethereum]].
 >
 > **[2:04](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/proof-of-work-protocol-attacks?u=76281980&t=124)** They're more likely to take place on smaller chains.
 >
@@ -1007,7 +994,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (26), power (4), [[Security]] (3), application (2), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Blockchain]] (26), [[Probability]] (1), [[Ethereum]] (1)
 > **Analogies:** such as (4), for example (2)
 > **Definitions:** refers to (2), known as (2), is a  (1)
 > **CLI Commands:** make (3)
@@ -1015,12 +1002,11 @@ created: 2026-05-02
 > **UI Navigation:** switch to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Proof-of-stake protocol attacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/proof-of-stake-protocol-attacks?u=76281980)
+#### [Proof-of-stake protocol attacks](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/proof-of-stake-protocol-attacks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/proof-of-stake-protocol-attacks?u=76281980&t=0)** - [Instructor] So far, we focused on attacks in scenarios where the consensus arrived through the proof of work protocols but more and more blockchain networks are or will be transitioning to proof of stake or a hybrid of proof of stake and proof of work protocols.
+> **[0:00](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/proof-of-stake-protocol-attacks?u=76281980&t=0)** - [Instructor] So far, we focused on attacks in scenarios where the consensus arrived through the proof of work protocols but more and more [[Blockchain]] networks are or will be transitioning to proof of stake or a hybrid of proof of stake and proof of work protocols.
 >
 > **[0:20](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/proof-of-stake-protocol-attacks?u=76281980&t=20)** But the proof of stake protocols are not immune to security attacks either.
 >
@@ -1072,7 +1058,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/proof-of-stake-protocol-attacks?u=76281980&t=191)** Penalize miners who are found mining on multiple chains.
 >
-> **[3:16](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/proof-of-stake-protocol-attacks?u=76281980&t=196)** Have the validator deposit crypto tokens.
+> **[3:16](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/proof-of-stake-protocol-attacks?u=76281980&t=196)** Have the validator deposit crypto [[Tokens]].
 >
 > **[3:19](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/proof-of-stake-protocol-attacks?u=76281980&t=199)** Tokens from the deposit will be withdrawn if multiple blocks are being generated by the same validator.
 >
@@ -1080,7 +1066,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), [[Tokens]] (2), [[Blockchain]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (2), [[Blockchain]] (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1089,34 +1075,33 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Smart contracts and EVM
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-and-evm?u=76281980)
+#### [Smart contracts and EVM](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-and-evm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-and-evm?u=76281980&t=0)** - [Instructor] While blockchain platform security vulnerabilities affect the underlying core of the ecosystem, a poorly written smart contract can still lead to a security breach, regardless of how secure the platform is.
+> **[0:00](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-and-evm?u=76281980&t=0)** - [Instructor] While [[Blockchain]] platform security vulnerabilities affect the underlying core of the ecosystem, a poorly written smart contract can still lead to a security breach, regardless of how secure the platform is.
 >
-> **[0:16](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-and-evm?u=76281980&t=16)** In fact, every day, new decentralized applications and smart contracts are written and many of them without going through proper secure software development practices.
+> **[0:16](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-and-evm?u=76281980&t=16)** In fact, every day, new [[Decentralized Applications (DApps)|decentralized applications]] and [[Smart Contracts]] are written and many of them without going through proper secure [[Software Development]] practices.
 >
 > **[0:29](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-and-evm?u=76281980&t=29)** Now, the security risks associated with a traditional centralized application can still manifest in a modern Web 3.0 application but a new breed of security bugs can impact your smart contracts, making them even harder to secure.
 >
 > **[0:46](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-and-evm?u=76281980&t=46)** Let's take a look at the architecture of a Web 3.0 application and review its similarity and differences from Web 2.0 application.
 >
-> **[0:56](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-and-evm?u=76281980&t=56)** Given the popularity and suitability of Ethereum for smart contracts, I will use Ethereum as the platform for explaining these concepts.
+> **[0:56](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-and-evm?u=76281980&t=56)** Given the popularity and suitability of [[Ethereum]] for smart contracts, I will use Ethereum as the platform for explaining these concepts.
 >
 > **[1:05](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-and-evm?u=76281980&t=65)** A typical application today follows architecture like this.
 >
 > **[1:10](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-and-evm?u=76281980&t=70)** A front-end module that enables interaction with the user via a web or a mobile interface.
 >
-> **[1:17](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-and-evm?u=76281980&t=77)** Common languages and frameworks used for this are HTML, CSS, JavaScript with Angular or React.
+> **[1:17](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-and-evm?u=76281980&t=77)** Common languages and frameworks used for this are [[HTML]], CSS, [[JavaScript]] with [[Angular]] or [[React.js|React]].
 >
 > **[1:25](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-and-evm?u=76281980&t=85)** The backend server-side logic handles the requests and responses from front-end client.
 >
 > **[1:32](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-and-evm?u=76281980&t=92)** The backend also contains the business logic for the application.
 >
-> **[1:36](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-and-evm?u=76281980&t=96)** Examples of the languages and frameworks used here are Node.js, Java, C# and Python.
+> **[1:36](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-and-evm?u=76281980&t=96)** Examples of the languages and frameworks used here are [[Node.js]], [[Java]], C# and [[Python (Programming Language)|Python]].
 >
-> **[1:44](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-and-evm?u=76281980&t=104)** It also interacts with a relational or a NoSQL database where the data about the transactions is stored.
+> **[1:44](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-and-evm?u=76281980&t=104)** It also interacts with a relational or a [[NoSQL]] database where the data about the transactions is stored.
 >
 > **[1:52](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-and-evm?u=76281980&t=112)** Now, compare that to the architecture of a decentralized application.
 >
@@ -1126,7 +1111,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-and-evm?u=76281980&t=131)** A smart contract is a software program that contains backend logic.
 >
-> **[2:17](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-and-evm?u=76281980&t=137)** The most common language used for developing smart contracts is Solidity.
+> **[2:17](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-and-evm?u=76281980&t=137)** The most common language used for developing smart contracts is [[Solidity]].
 >
 > **[2:22](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-and-evm?u=76281980&t=142)** Front-end code interacts with the smart contract.
 >
@@ -1136,7 +1121,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-and-evm?u=76281980&t=164)** If you recall, we have been using the term distributed ledger to describe blockchain.
 >
-> **[2:50](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-and-evm?u=76281980&t=170)** This model has worked well to explain cryptocurrency operations, such as sending or receiving Bitcoins.
+> **[2:50](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-and-evm?u=76281980&t=170)** This model has worked well to explain [[Cryptocurrency]] operations, such as sending or receiving Bitcoins.
 >
 > **[2:58](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-and-evm?u=76281980&t=178)** While Ethereum also fully supports cryptographic primitives, it also has much richer support for smart contracts.
 >
@@ -1158,7 +1143,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethereum]] (10), [[Smart Contracts]] (7), application (7), [[Blockchain]] (5), web (5)
+> **Frameworks & Libraries:** [[Ethereum]] (10), [[Smart Contracts]] (7), [[Blockchain]] (5), [[Solidity]] (2), [[Decentralized Applications (DApps)|Decentralized applications]] (1)
 > **Env Vars:** evm (8), html (1), css (1)
 > **CLI Commands:** node (4), python (1)
 > **Versions:** 3.0 (2), 2.0 (2)
@@ -1167,20 +1152,19 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Warnings:** keep in mind (1)
 
-#### Anatomy of a smart contract
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/anatomy-of-a-smart-contract?u=76281980)
+#### [Anatomy of a smart contract](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/anatomy-of-a-smart-contract?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/anatomy-of-a-smart-contract?u=76281980&t=0)** - [Instructor] Before getting into the security bugs and controls for smart contracts, let's take a look at a sample contract written in Solidity.
+> **[0:00](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/anatomy-of-a-smart-contract?u=76281980&t=0)** - [Instructor] Before getting into the security bugs and controls for [[Smart Contracts]], let's take a look at a sample contract written in [[Solidity]].
 >
 > **[0:10](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/anatomy-of-a-smart-contract?u=76281980&t=10)** It's a rudimentary program just to demonstrate a limited set of language features so that you can appreciate what goes into a smart contract.
 >
 > **[0:19](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/anatomy-of-a-smart-contract?u=76281980&t=19)** By the way, a deep dive into the Solidity language and its programming constructs is beyond the scope of this course.
 >
-> **[0:28](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/anatomy-of-a-smart-contract?u=76281980&t=28)** But I encourage you to check out the following resources on LinkedIn Learning.
+> **[0:28](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/anatomy-of-a-smart-contract?u=76281980&t=28)** But I encourage you to check out the following resources on [[LinkedIn]] Learning.
 >
-> **[0:34](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/anatomy-of-a-smart-contract?u=76281980&t=34)** This example program makes a very simple family will, which is codified as a smart contract to be deployed in the Ethereum blockchain.
+> **[0:34](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/anatomy-of-a-smart-contract?u=76281980&t=34)** This example program makes a very simple family will, which is codified as a smart contract to be deployed in the [[Ethereum]] [[Blockchain]].
 >
 > **[0:45](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/anatomy-of-a-smart-contract?u=76281980&t=45)** This fictitious will captures the wishes of a person known as the grantor.
 >
@@ -1188,9 +1172,9 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/anatomy-of-a-smart-contract?u=76281980&t=59)** The goal of the smart contract is to make sure assets are distributed in a certain order and in the desired proportions.
 >
-> **[1:08](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/anatomy-of-a-smart-contract?u=76281980&t=68)** The first part of the program contains the metadata about the licensing and version number of the compiler to be used.
+> **[1:08](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/anatomy-of-a-smart-contract?u=76281980&t=68)** The first part of the program contains the [[Metadata]] about the licensing and version number of the compiler to be used.
 >
-> **[1:16](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/anatomy-of-a-smart-contract?u=76281980&t=76)** A smart contract is represented with a contract keyword, quite similar to a class for those who are familiar with the object-oriented programming languages.
+> **[1:16](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/anatomy-of-a-smart-contract?u=76281980&t=76)** A smart contract is represented with a contract keyword, quite similar to a class for those who are familiar with the [[Object-Oriented Programming (OOP)|object-oriented programming]] languages.
 >
 > **[1:28](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/anatomy-of-a-smart-contract?u=76281980&t=88)** The variables in the contract store information.
 >
@@ -1206,7 +1190,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/anatomy-of-a-smart-contract?u=76281980&t=126)** handleLifeEvent is a contract function that can be called to report a life event, such as when one of the person in the will is no longer living.
 >
-> **[2:17](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/anatomy-of-a-smart-contract?u=76281980&t=137)** The distribute function is called to transfer the crypto tokens from the grantor to beneficiaries.
+> **[2:17](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/anatomy-of-a-smart-contract?u=76281980&t=137)** The distribute function is called to transfer the crypto [[Tokens]] from the grantor to beneficiaries.
 >
 > **[2:23](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/anatomy-of-a-smart-contract?u=76281980&t=143)** The if construct is used to ensure that funds are transferred only when conditions as desired by the grantor are met.
 >
@@ -1218,31 +1202,30 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/anatomy-of-a-smart-contract?u=76281980&t=169)** Let's quick see how to deploy the smart contract.
 >
-> **[2:53](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/anatomy-of-a-smart-contract?u=76281980&t=173)** I will use the Remix integrated development environment.
+> **[2:53](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/anatomy-of-a-smart-contract?u=76281980&t=173)** I will use the [[Remix]] integrated development environment.
 >
 > **[2:57](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/anatomy-of-a-smart-contract?u=76281980&t=177)** It's a 100% web-based with built-in compiler and the ability to deploy it to Ethereum.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethereum]] (3), [[Blockchain]] (3), [[Solidity]] (2), [[Programming]] (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Ethereum]] (3), [[Blockchain]] (3), [[Solidity]] (2), [[Smart Contracts]] (1), [[LinkedIn]] (1)
 > **Definitions:** known as (2), is a  (2), is called (1)
 > **Analogies:** similar to (1), such as (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** handlelifeevent (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deploying a smart contract
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/deploying-a-smart-contract?u=76281980)
+#### [Deploying a smart contract](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/deploying-a-smart-contract?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/deploying-a-smart-contract?u=76281980&t=0)** - [Instructor] Here is the Remix IDE.
+> **[0:00](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/deploying-a-smart-contract?u=76281980&t=0)** - [Instructor] Here is the [[Remix]] IDE.
 >
 > **[0:02](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/deploying-a-smart-contract?u=76281980&t=2)** I've already copied the code for my smart contract into a file named MySmartWill.sol.
 >
 > **[0:10](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/deploying-a-smart-contract?u=76281980&t=10)** Now, if you look at the left panel, you'll see a separate section for deploying and running transactions and another section for compiling the code.
 >
-> **[0:22](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/deploying-a-smart-contract?u=76281980&t=22)** We must compile the code before we can deploy into the blockchain.
+> **[0:22](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/deploying-a-smart-contract?u=76281980&t=22)** We must compile the code before we can deploy into the [[Blockchain]].
 >
 > **[0:28](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/deploying-a-smart-contract?u=76281980&t=28)** I'll start compiling by clicking on the Compile button.
 >
@@ -1286,8 +1269,7 @@ created: 2026-05-02
 > **Env Vars:** ide (2)
 > **Speakers:** - [instructor] (1)
 
-#### Smart contracts threats: Part one
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-threats-part-one?u=76281980)
+#### [Smart contracts threats: Part one](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-threats-part-one?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1295,7 +1277,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-threats-part-one?u=76281980&t=7)** In 2016, a decentralized autonomous organization, also known as DAO was established.
 >
-> **[0:15](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-threats-part-one?u=76281980&t=15)** Its goal was to function as a blockchain-based investment body owned by its members.
+> **[0:15](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-threats-part-one?u=76281980&t=15)** Its goal was to function as a [[Blockchain]]-based investment body owned by its members.
 >
 > **[0:22](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-threats-part-one?u=76281980&t=22)** The organization raised $150 million from thousands of investors.
 >
@@ -1303,7 +1285,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-threats-part-one?u=76281980&t=44)** As you already know that the code already deployed on blockchain cannot be modified.
 >
-> **[0:50](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-threats-part-one?u=76281980&t=50)** So in order to fix this issue, the Ethereum organization had to take drastic measure and make a hard fork.
+> **[0:50](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-threats-part-one?u=76281980&t=50)** So in order to fix this issue, the [[Ethereum]] organization had to take drastic measure and make a hard fork.
 >
 > **[0:57](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-threats-part-one?u=76281980&t=57)** This led to the creation of two currencies, Ethereum Classic and Ethereum, the one that is commonly traded today.
 >
@@ -1313,11 +1295,11 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-threats-part-one?u=76281980&t=74)** Attackers recognize that the crypto balances at the blockchain address are protected by the mining layer, which is difficult to exploit.
 >
-> **[1:24](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-threats-part-one?u=76281980&t=84)** But smart contracts, which also track the balances in the contract are susceptible to coding errors.
+> **[1:24](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-threats-part-one?u=76281980&t=84)** But [[Smart Contracts]], which also track the balances in the contract are susceptible to coding errors.
 >
 > **[1:31](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-threats-part-one?u=76281980&t=91)** Attackers can trick a smart contract and create a mismatch between balances as known to the smart contract versus as known to the blockchain protocol layer.
 >
-> **[1:44](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-threats-part-one?u=76281980&t=104)** While this type of attack can take many forms, the fundamental issue is that your smart contract code allows itself to be called repeatedly before finishing the first call.
+> **[1:44](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-threats-part-one?u=76281980&t=104)** While this type of attack can take many [[Forms]], the fundamental issue is that your smart contract code allows itself to be called repeatedly before finishing the first call.
 >
 > **[1:58](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-threats-part-one?u=76281980&t=118)** The multiple invocations can enable an attacker to take advantage of the incorrect state of a variable created as a result.
 >
@@ -1327,7 +1309,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-threats-part-one?u=76281980&t=151)** Let's explain this with a simple example.
 >
-> **[2:34](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-threats-part-one?u=76281980&t=154)** A banker's smart contract holds the crypto tokens.
+> **[2:34](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-threats-part-one?u=76281980&t=154)** A banker's smart contract holds the crypto [[Tokens]].
 >
 > **[2:38](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-threats-part-one?u=76281980&t=158)** The smart contract offers a withdraw function that allows others to withdraw funds.
 >
@@ -1357,7 +1339,7 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-threats-part-one?u=76281980&t=237)** Overflow and underflow are a type of arithmetic errors where developers fail to account for the upper or lower bounder of a numerical variable.
 >
-> **[4:07](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-threats-part-one?u=76281980&t=247)** This issue is not specific to smart contracts and can appear in any general software program as well but due to the arithmetic involved with cryptocurrency, this issue is more prone and with potential for significant loss.
+> **[4:07](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-threats-part-one?u=76281980&t=247)** This issue is not specific to smart contracts and can appear in any general software program as well but due to the arithmetic involved with [[Cryptocurrency]], this issue is more prone and with potential for significant loss.
 >
 > **[4:23](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-threats-part-one?u=76281980&t=263)** For example, if you keep incrementing or decrementing an unsigned integer variable, it will ultimately reach zero or its maximum value, respectively.
 >
@@ -1367,11 +1349,11 @@ created: 2026-05-02
 >
 > **[4:51](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-threats-part-one?u=76281980&t=291)** As per MITRE CWE-682, this weakness occurs when the software performs a calculation that generates incorrect or unintended results that are later used in security-critical decisions or resource management.
 >
-> **[5:08](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-threats-part-one?u=76281980&t=308)** To mitigate this, use Solidity version 8.0 or above or use math library SafeMath.sol.
+> **[5:08](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-threats-part-one?u=76281980&t=308)** To mitigate this, use [[Solidity]] version 8.0 or above or use math library SafeMath.sol.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (4), [[Ethereum]] (3), [[Security]] (2), [[Smart Contracts]] (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Blockchain]] (4), [[Ethereum]] (3), [[Smart Contracts]] (2), [[Forms]] (1), [[Tokens]] (1)
 > **Env Vars:** mitre (3), dao (2), cwe (2)
 > **Definitions:** known as (2), is a  (1), is called (1)
 > **Versions:** 3.6 (1), version 8 (1)
@@ -1380,14 +1362,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Smart contracts threats: Part two
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-threats-part-two?u=76281980)
+#### [Smart contracts threats: Part two](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-threats-part-two?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-threats-part-two?u=76281980&t=0)** - [Instructor] Origins of the front-running attack are from the traditional financial markets.
 >
-> **[0:05](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-threats-part-two?u=76281980&t=5)** Since all of the transactions before recording into the blockchain are stored in mempool, short for memory pool, they are visible to everyone.
+> **[0:05](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-threats-part-two?u=76281980&t=5)** Since all of the transactions before recording into the [[Blockchain]] are stored in mempool, short for memory pool, they are visible to everyone.
 >
 > **[0:15](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-threats-part-two?u=76281980&t=15)** Attackers can take advantage of this information and get to the so-called the front of the line and get their transaction executed first.
 >
@@ -1411,9 +1392,9 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-threats-part-two?u=76281980&t=102)** The first one is to remove the benefit of the ordering of the transaction and then implement a commitment scheme where a user first needs to commit the bit and then reveal the details of the transaction later.
 >
-> **[1:56](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-threats-part-two?u=76281980&t=116)** Now, let's switch to another type of threat to smart contracts.
+> **[1:56](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-threats-part-two?u=76281980&t=116)** Now, let's switch to another type of threat to [[Smart Contracts]].
 >
-> **[2:00](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-threats-part-two?u=76281980&t=120)** The Solidity language offers a self-destruct function that allows you to deactivate a contract already deployed at an Ethereum address.
+> **[2:00](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-threats-part-two?u=76281980&t=120)** The [[Solidity]] language offers a self-destruct function that allows you to deactivate a contract already deployed at an [[Ethereum]] address.
 >
 > **[2:11](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-threats-part-two?u=76281980&t=131)** Now, we know that the data on the blockchain is immutable.
 >
@@ -1453,25 +1434,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (3), [[Smart Contracts]] (2), [[Solidity]] (2), [[Ethereum]] (2), data (1)
+> **Frameworks & Libraries:** [[Blockchain]] (3), [[Smart Contracts]] (2), [[Solidity]] (2), [[Ethereum]] (2)
 > **Definitions:** short for (1), means that (1), is a  (1)
 > **Env Vars:** cwe (1)
 > **UI Navigation:** switch to (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Secure design
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/secure-design?u=76281980)
+#### [Secure design](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/secure-design?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/secure-design?u=76281980&t=0)** - [Instructor] There are three focus areas that you need to pay attention to, starting with software development processes, number two, software design principles, especially those applicable to smart contracts.
+> **[0:00](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/secure-design?u=76281980&t=0)** - [Instructor] There are three focus areas that you need to pay attention to, starting with [[Software Development]] processes, number two, [[Software Design]] principles, especially those applicable to [[Smart Contracts]].
 >
-> **[0:15](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/secure-design?u=76281980&t=15)** And finally, software testing and verification practices.
+> **[0:15](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/secure-design?u=76281980&t=15)** And finally, [[Software Testing]] and verification practices.
 >
 > **[0:20](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/secure-design?u=76281980&t=20)** Let's start with software development practices.
 >
-> **[0:23](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/secure-design?u=76281980&t=23)** Version control your code with Git and follow an appropriate Git branching model.
+> **[0:23](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/secure-design?u=76281980&t=23)** [[Version Control]] your code with [[Git]] and follow an appropriate Git branching model.
 >
 > **[0:30](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/secure-design?u=76281980&t=30)** Document your code.
 >
@@ -1501,17 +1481,17 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/secure-design?u=76281980&t=119)** So keep your contracts simple.
 >
-> **[2:02](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/secure-design?u=76281980&t=122)** Don't ignore the blockchain foundation.
+> **[2:02](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/secure-design?u=76281980&t=122)** Don't ignore the [[Blockchain]] foundation.
 >
 > **[2:05](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/secure-design?u=76281980&t=125)** While experience in developing and securing smart contracts and the decentralized apps is important, your app may still remain vulnerable if you are not aware of the underlying blockchain platform and its protocols.
 >
-> **[2:21](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/secure-design?u=76281980&t=141)** To draw an analogy with Web 2.0, you cannot develop a solid and secure application without the knowledge of operating systems and basic computer networking.
+> **[2:21](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/secure-design?u=76281980&t=141)** To draw an analogy with Web 2.0, you cannot develop a solid and secure application without the knowledge of operating systems and basic [[Computer Networking]].
 >
 > **[2:32](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/secure-design?u=76281980&t=152)** So don't skimp on the blockchain basics.
 >
-> **[2:36](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/secure-design?u=76281980&t=156)** Identify weaknesses in your design by threat modeling.
+> **[2:36](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/secure-design?u=76281980&t=156)** Identify weaknesses in your design by [[Threat Modeling]].
 >
-> **[2:41](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/secure-design?u=76281980&t=161)** NIST offers guidance on threat modeling complex systems using data-driven approach.
+> **[2:41](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/secure-design?u=76281980&t=161)** [[NIST]] offers guidance on threat modeling complex systems using data-driven approach.
 >
 > **[2:47](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/secure-design?u=76281980&t=167)** While software development and design processes will help you both in security practices in your software, you still don't want to take any chances.
 >
@@ -1525,7 +1505,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/secure-design?u=76281980&t=197)** Here are some reference tool options for you to consider.
 >
-> **[3:21](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/secure-design?u=76281980&t=201)** Dynamic security testing tools help you analyze your code at runtime.
+> **[3:21](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/secure-design?u=76281980&t=201)** Dynamic [[Security Testing]] tools help you analyze your code at runtime.
 >
 > **[3:27](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/secure-design?u=76281980&t=207)** These are different from static analysis tools.
 >
@@ -1547,7 +1527,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), [[Smart Contracts]] (4), [[Software Development]] (3), [[Blockchain]] (3), [[Git]] (2)
+> **Frameworks & Libraries:** [[Smart Contracts]] (4), [[Software Development]] (3), [[Blockchain]] (3), [[Git]] (2), [[Threat Modeling]] (2)
 > **CLI Commands:** git (2), make (1), find (1)
 > **Analogies:** for example (1), such as (1)
 > **Code Identifiers:** sfuzz (1)
@@ -1560,14 +1540,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Blockchain ecosystem threats: Part one
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-one?u=76281980)
+#### [Blockchain ecosystem threats: Part one](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-one?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-one?u=76281980&t=0)** - [Instructor] For smart contracts and decentralized applications to be useful in the real world, they rely on many enabler services.
+> **[0:00](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-one?u=76281980&t=0)** - [Instructor] For [[Smart Contracts]] and [[Decentralized Applications (DApps)|decentralized applications]] to be useful in the real world, they rely on many enabler services.
 >
-> **[0:09](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-one?u=76281980&t=9)** You already know that blockchain platform security vulnerabilities affect the underlying core of the ecosystem.
+> **[0:09](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-one?u=76281980&t=9)** You already know that [[Blockchain]] platform security vulnerabilities affect the underlying core of the ecosystem.
 >
 > **[0:17](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-one?u=76281980&t=17)** A poorly written smart contract can also lead to a security breach.
 >
@@ -1577,7 +1556,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-one?u=76281980&t=36)** We will cover hosted wallets, exchanges, and oracles, which are the most critical systems of all.
 >
-> **[0:43](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-one?u=76281980&t=43)** Regardless of the nature of the crypto tokens, be it native cryptocurrencies or special purpose asset ownership tokens, they all need to be secured.
+> **[0:43](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-one?u=76281980&t=43)** Regardless of the nature of the crypto [[Tokens]], be it native cryptocurrencies or special purpose asset ownership tokens, they all need to be secured.
 >
 > **[0:55](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-one?u=76281980&t=55)** Wallets serve an important purpose here.
 >
@@ -1601,17 +1580,17 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-one?u=76281980&t=133)** That means these applications are vulnerable to classic well-known security attacks.
 >
-> **[2:20](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-one?u=76281980&t=140)** These are documented under OWASP Top 10.
+> **[2:20](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-one?u=76281980&t=140)** These are documented under [[OWASP]] Top 10.
 >
 > **[2:23](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-one?u=76281980&t=143)** To mitigate these attacks, the wallet provider must follow secure development life cycle processes.
 >
 > **[2:31](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-one?u=76281980&t=151)** The approach and tooling to handle such attacks are well documented.
 >
-> **[2:36](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-one?u=76281980&t=156)** These hosted wallet providers are also the single point of failure, meaning they are also vulnerable to attacks such as denial of service, phishing attacks, which can further lead to more sophisticated and targeted attacks.
+> **[2:36](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-one?u=76281980&t=156)** These hosted wallet providers are also the single point of failure, meaning they are also vulnerable to attacks such as denial of service, [[Phishing]] attacks, which can further lead to more sophisticated and targeted attacks.
 >
 > **[2:52](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-one?u=76281980&t=172)** All of these attacks are well understood by the security community and should be addressed with appropriate security controls, including network firewalls, DDoS protection, access management, and employee training.
 >
-> **[3:07](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-one?u=76281980&t=187)** To learn more about these security controls, check out this learning path on LinkedIn Learning.
+> **[3:07](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-one?u=76281980&t=187)** To learn more about these security controls, check out this learning path on [[LinkedIn]] Learning.
 >
 > **[3:13](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-one?u=76281980&t=193)** Regardless of whether it is a hosted or non-hosted wallet setting, if the keys are stored and managed by a user, they are subject to additional attacks.
 >
@@ -1619,7 +1598,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-one?u=76281980&t=212)** These attacks can either lead to theft of the private key or malicious intrusion during the signing of a blockchain transaction.
 >
-> **[3:42](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-one?u=76281980&t=222)** You can mitigate this attack with a hardware wallet supplement with additional control such as multi-factor authentication.
+> **[3:42](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-one?u=76281980&t=222)** You can mitigate this attack with a [[Hardware]] wallet supplement with additional control such as [[Multi-factor Authentication]].
 >
 > **[3:51](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-one?u=76281980&t=231)** Typically, an end user's computer runs software for managing keys.
 >
@@ -1627,13 +1606,13 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-one?u=76281980&t=240)** It performs cryptographic operations such as encrypting and signing transactions, but the software may be built with security bugs.
 >
-> **[4:10](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-one?u=76281980&t=250)** For example, poor data management, secret stored in plain text, or unprotected memory access.
+> **[4:10](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-one?u=76281980&t=250)** For example, poor [[Data Management]], secret stored in plain text, or unprotected memory access.
 >
 > **[4:18](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-one?u=76281980&t=258)** Use known and blockchain community recommended libraries for cryptographic operations such as encryption and decryption.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (9), [[Blockchain]] (5), [[Tokens]] (5), management (3), [[Smart Contracts]] (1)
+> **Frameworks & Libraries:** [[Blockchain]] (5), [[Tokens]] (5), [[Smart Contracts]] (1), [[Decentralized Applications (DApps)|Decentralized applications]] (1), [[OWASP]] (1)
 > **Analogies:** such as (5), for example (1)
 > **Definitions:** known as (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -1641,16 +1620,15 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Blockchain ecosystem threats: Part two
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-two?u=76281980)
+#### [Blockchain ecosystem threats: Part two](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-two?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-two?u=76281980&t=0)** - [Instructor] Cryptocurrency owners usually want to buy, sell or exchange their currencies.
+> **[0:00](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-two?u=76281980&t=0)** - [Instructor] [[Cryptocurrency]] owners usually want to buy, sell or exchange their currencies.
 >
 > **[0:06](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-two?u=76281980&t=6)** Obviously, they can do so directly with others, but it limits their ability to locate potentially interested parties.
 >
-> **[0:15](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-two?u=76281980&t=15)** Third-party exchanges solve this problem by offering the ability to swap crypto tokens.
+> **[0:15](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-two?u=76281980&t=15)** Third-party exchanges solve this problem by offering the ability to swap crypto [[Tokens]].
 >
 > **[0:21](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-two?u=76281980&t=21)** There are two types of exchanges, centralized and decentralized.
 >
@@ -1660,7 +1638,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-two?u=76281980&t=42)** That means they're also required to share their identification information.
 >
-> **[0:48](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-two?u=76281980&t=48)** Centralized exchanges also offer advantages, such as funds liquidity, stability and customer support.
+> **[0:48](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-two?u=76281980&t=48)** Centralized exchanges also offer advantages, such as funds liquidity, stability and [[Customer Support]].
 >
 > **[0:56](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-two?u=76281980&t=56)** Examples are Binance and Coinbase.
 >
@@ -1668,11 +1646,11 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-two?u=76281980&t=66)** Instead, the exchange protocol facilitates the transaction.
 >
-> **[1:11](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-two?u=76281980&t=71)** End users continue to maintain control of their funds while relying on the blockchain for clearing the funds.
+> **[1:11](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-two?u=76281980&t=71)** End users continue to maintain control of their funds while relying on the [[Blockchain]] for clearing the funds.
 >
-> **[1:19](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-two?u=76281980&t=79)** The exchange protocol uses smart contracts to execute the transaction.
+> **[1:19](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-two?u=76281980&t=79)** The exchange protocol uses [[Smart Contracts]] to execute the transaction.
 >
-> **[1:25](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-two?u=76281980&t=85)** One of the rapidly-growing protocols that operate on Ethereum is Uniswap.
+> **[1:25](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-two?u=76281980&t=85)** One of the rapidly-growing protocols that operate on [[Ethereum]] is Uniswap.
 >
 > **[1:31](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-two?u=76281980&t=91)** There is no requirement for KYC, but liquidity is low and orders take a long time to fill.
 >
@@ -1686,7 +1664,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-two?u=76281980&t=129)** In fact, many times the same commercial company offers both of these capabilities.
 >
-> **[2:16](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-two?u=76281980&t=136)** They are also susceptible to OWASP Top 10 application-level attacks, denial of service attacks and so on.
+> **[2:16](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-two?u=76281980&t=136)** They are also susceptible to [[OWASP]] Top 10 application-level attacks, denial of service attacks and so on.
 >
 > **[2:24](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-two?u=76281980&t=144)** So you should implement the same security controls as described earlier in the wallet section of this video.
 >
@@ -1704,36 +1682,35 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (3), [[Smart Contracts]] (3), [[Security]] (2), [[Cryptocurrency]] (1), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[Blockchain]] (3), [[Smart Contracts]] (3), [[Cryptocurrency]] (1), [[Tokens]] (1), [[Customer Support]] (1)
 > **Env Vars:** kyc (2), owasp (1)
 > **Analogies:** for example (2), such as (1)
 > **Cross-References:** earlier in (1)
 > **Speakers:** - [instructor] (1)
 
-#### Blockchain ecosystem threats: Part three
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-three?u=76281980)
+#### [Blockchain ecosystem threats: Part three](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-three?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-three?u=76281980&t=0)** - [Instructor] Blockchain networks are isolated networks, so are the smart contract and decentralized apps that are built on them.
+> **[0:00](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-three?u=76281980&t=0)** - [Instructor] [[Blockchain]] networks are isolated networks, so are the smart contract and decentralized apps that are built on them.
 >
-> **[0:08](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-three?u=76281980&t=8)** These apps need to rely on data from external word and legacy Web 2.0 applications to be of meaningful use.
+> **[0:08](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-three?u=76281980&t=8)** These apps need to rely on data from external [[Microsoft Word|word]] and legacy Web 2.0 applications to be of meaningful use.
 >
-> **[0:17](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-three?u=76281980&t=17)** Oracles are the off chain middleware that enables these apps to interface with rest of the world.
+> **[0:17](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-three?u=76281980&t=17)** Oracles are the off chain middleware that enables these apps to interface with [[Representational State Transfer (REST)|rest]] of the world.
 >
-> **[0:25](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-three?u=76281980&t=25)** Oracles handle the communication between blockchain and external data providers, business applications, IOT sensors, financial markets, you name it.
+> **[0:25](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-three?u=76281980&t=25)** Oracles handle the communication between blockchain and external data providers, business applications, [[IoT]] sensors, financial markets, you name it.
 >
 > **[0:36](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-three?u=76281980&t=36)** Note that Oracles are not embedded into the blockchain network but are rather run as their own independent Oracle networks.
 >
 > **[0:45](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-three?u=76281980&t=45)** Oracles are important and should they be compromised, they can undermine the trustworthiness of the data they're providing.
 >
-> **[0:53](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-three?u=76281980&t=53)** This will further lead to a ripple effect on trust in smart contracts and decentralized apps.
+> **[0:53](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-three?u=76281980&t=53)** This will further lead to a ripple effect on trust in [[Smart Contracts]] and decentralized apps.
 >
 > **[1:00](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-three?u=76281980&t=60)** So, Oracles do carry the same burden of providing trust and security as rest of the blockchain networks.
 >
 > **[1:08](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-three?u=76281980&t=68)** Just as we have previously seen in other ecosystem players, Oracles to can be centralized and decentralized.
 >
-> **[1:16](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-three?u=76281980&t=76)** Centralized Oracles pose what's known as the Oracle problem in the industry, while blockchain is built on the principle of decentralization, reliance on a central Oracle as a trusted source, brings us back to a centralized model with single point of failure.
+> **[1:16](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-three?u=76281980&t=76)** Centralized Oracles pose what's known as the Oracle problem in the industry, while blockchain is built on the principle of [[Decentralization]], reliance on a central Oracle as a trusted source, brings us back to a centralized model with single point of failure.
 >
 > **[1:36](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-three?u=76281980&t=96)** Just like with any centralized organization, Oracles are susceptible to conflict of interest.
 >
@@ -1751,7 +1728,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (6), data (4), [[Representational State Transfer (REST)|Rest]] (2), [[Smart Contracts]] (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Blockchain]] (6), [[Representational State Transfer (REST)|Rest]] (2), [[Smart Contracts]] (2), [[Microsoft Word|Word]] (1), [[IoT]] (1)
 > **Analogies:** just like (1), such as (1)
 > **Env Vars:** iot (1)
 > **Versions:** 2.0 (1)
@@ -1764,18 +1741,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Wallet and keys security
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/wallet-and-keys-security?u=76281980)
+#### [Wallet and keys security](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/wallet-and-keys-security?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/wallet-and-keys-security?u=76281980&t=0)** - While blockchain platforms, smart contracts, and enabler services are necessary to maintain trust in the ecosystem, that trust does not automatically flow to the end user.
+> **[0:00](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/wallet-and-keys-security?u=76281980&t=0)** - While [[Blockchain]] platforms, [[Smart Contracts]], and enabler services are necessary to maintain trust in the ecosystem, that trust does not automatically flow to the end user.
 >
 > **[0:14](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/wallet-and-keys-security?u=76281980&t=14)** In fact, in a decentralized world, where there are no governance and protection laws, the burden of responsibility on the shoulders of an end user is much higher than in our traditional world.
 >
 > **[0:28](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/wallet-and-keys-security?u=76281980&t=28)** But the irony is, that given this field is so new, the expertise and knowledge of a common person does not equate to the interest that end user has.
 >
-> **[0:40](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/wallet-and-keys-security?u=76281980&t=40)** So let's review some of the necessary prevention and best practices to protect your cryptocurrency and your end of the decentralized application.
+> **[0:40](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/wallet-and-keys-security?u=76281980&t=40)** So let's review some of the necessary prevention and best practices to protect your [[Cryptocurrency]] and your end of the decentralized application.
 >
 > **[0:50](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/wallet-and-keys-security?u=76281980&t=50)** Malwares, trojan horses, either directly compromise your computing device or make it easy for attackers to take control of the device.
 >
@@ -1787,7 +1763,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/wallet-and-keys-security?u=76281980&t=81)** Hosted wallets make it easy to store your keys, but any interaction with an online wallet provider creates a new attack surface.
 >
-> **[1:31](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/wallet-and-keys-security?u=76281980&t=91)** You can always opt for cold wallets, such as a dedicated hardware device, or even print them on a paper wallet.
+> **[1:31](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/wallet-and-keys-security?u=76281980&t=91)** You can always opt for cold wallets, such as a dedicated [[Hardware]] device, or even print them on a paper wallet.
 >
 > **[1:39](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/wallet-and-keys-security?u=76281980&t=99)** Now that doesn't mean that just because they are cold, they are automatically safe.
 >
@@ -1799,14 +1775,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cryptocurrency]] (2), [[Blockchain]] (1), [[Smart Contracts]] (1), application (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Cryptocurrency]] (2), [[Blockchain]] (1), [[Smart Contracts]] (1), [[Hardware]] (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** install (2)
 > **Analogies:** such as (1)
 > **Speakers:** - while (1)
 
-#### Web session security
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/web-session-security?u=76281980)
+#### [Web session security](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/web-session-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1820,7 +1795,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/web-session-security?u=76281980&t=37)** Do not conduct a transaction with a website that does not implement TLS.
 >
-> **[0:43](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/web-session-security?u=76281980&t=43)** Phishing is a social engineering attack in which the attacker disguised as a trusted entity, tricks a victim to take any action that the victim would not have taken otherwise.
+> **[0:43](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/web-session-security?u=76281980&t=43)** [[Phishing]] is a social engineering attack in which the attacker disguised as a trusted entity, tricks a victim to take any action that the victim would not have taken otherwise.
 >
 > **[0:56](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/web-session-security?u=76281980&t=56)** For example, clicking on a malicious link in the email.
 >
@@ -1832,7 +1807,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/web-session-security?u=76281980&t=77)** A more specific example here is ice fishing.
 >
-> **[1:21](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/web-session-security?u=76281980&t=81)** In this attack, the attacker tricks a victim to sign a transaction that grants permission to the attacker, to use the victim's tokens.
+> **[1:21](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/web-session-security?u=76281980&t=81)** In this attack, the attacker tricks a victim to sign a transaction that grants permission to the attacker, to use the victim's [[Tokens]].
 >
 > **[1:31](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/web-session-security?u=76281980&t=91)** In fact, this was the reason for the Badger DAO attack in December, 2021 in which $130 million worth of funds were stolen.
 >
@@ -1840,7 +1815,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), [[Scripting]] (1), [[Phishing]] (1), [[Engineering]] (1), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (1), [[Tokens]] (1)
 > **Env Vars:** tls (1), url (1), dao (1), unicef (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1851,12 +1826,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/next-steps?u=76281980&t=0)** - [Instructor] The world of blockchain and decentralized applications is evolving rapidly.
+> **[0:00](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/next-steps?u=76281980&t=0)** - [Instructor] The world of [[Blockchain]] and [[Decentralized Applications (DApps)|decentralized applications]] is evolving rapidly.
 >
 > **[0:05](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/next-steps?u=76281980&t=5)** In this course, we only scratched the surface of security controls you can use to protect this ecosystem.
 >
@@ -1868,7 +1842,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/next-steps?u=76281980&t=30)** Make security a priority for your blockchain projects and decentralized applications.
 >
-> **[0:36](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/next-steps?u=76281980&t=36)** Feel free to reach out and connect with me on LinkedIn.
+> **[0:36](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/next-steps?u=76281980&t=36)** Feel free to reach out and connect with me on [[LinkedIn]].
 >
 > **[0:40](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/next-steps?u=76281980&t=40)** I look forward to hearing how your journey in the security of the blockchain is progressing.
 >
@@ -1876,7 +1850,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (5), [[Security]] (3), [[Decentralized Applications (DApps)|Decentralized applications]] (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Blockchain]] (5), [[Decentralized Applications (DApps)|Decentralized applications]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 

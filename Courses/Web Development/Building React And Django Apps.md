@@ -90,46 +90,44 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a full-stack React app with Django REST framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps/create-a-full-stack-react-app-with-django-rest-framework?u=76281980)
+#### [Create a full-stack React app with Django REST framework](https://www.linkedin.com/learning/building-react-and-django-apps/create-a-full-stack-react-app-with-django-rest-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-react-and-django-apps/create-a-full-stack-react-app-with-django-rest-framework?u=76281980&t=0)** - [Rudolf] Learning React is straight forward and gives you the skills to become a full stack developer.
+> **[0:00](https://www.linkedin.com/learning/building-react-and-django-apps/create-a-full-stack-react-app-with-django-rest-framework?u=76281980&t=0)** - [Rudolf] Learning [[React.js|React]] is straight forward and gives you the skills to become a full stack developer.
 >
-> **[0:05](https://www.linkedin.com/learning/building-react-and-django-apps/create-a-full-stack-react-app-with-django-rest-framework?u=76281980&t=5)** By working with rest API's through Django and Python you can build front end interfaces with React.
+> **[0:05](https://www.linkedin.com/learning/building-react-and-django-apps/create-a-full-stack-react-app-with-django-rest-framework?u=76281980&t=5)** By working with [[Representational State Transfer (REST)|rest]] API's through [[Django]] and [[Python (Programming Language)|Python]] you can build front end interfaces with React.
 >
 > **[0:11](https://www.linkedin.com/learning/building-react-and-django-apps/create-a-full-stack-react-app-with-django-rest-framework?u=76281980&t=11)** You'll use Axious to communicate between the front end and the back end server.
 >
-> **[0:16](https://www.linkedin.com/learning/building-react-and-django-apps/create-a-full-stack-react-app-with-django-rest-framework?u=76281980&t=16)** React hooks are the latest evolution in React component implementation and we build our own custom hook then we'll make our app production ready with unit tests and end to end tests.
+> **[0:16](https://www.linkedin.com/learning/building-react-and-django-apps/create-a-full-stack-react-app-with-django-rest-framework?u=76281980&t=16)** [[React Hooks]] are the latest evolution in React component implementation and we build our own custom hook then we'll make our app production ready with unit tests and end to end tests.
 >
 > **[0:30](https://www.linkedin.com/learning/building-react-and-django-apps/create-a-full-stack-react-app-with-django-rest-framework?u=76281980&t=30)** Hi, I'm Rudolf.
 >
 > **[0:31](https://www.linkedin.com/learning/building-react-and-django-apps/create-a-full-stack-react-app-with-django-rest-framework?u=76281980&t=31)** I've been optimizing developer feedback loops for the past 10 years.
 >
-> **[0:36](https://www.linkedin.com/learning/building-react-and-django-apps/create-a-full-stack-react-app-with-django-rest-framework?u=76281980&t=36)** Join me in my LinkedIn learning course to create a full stack app.
+> **[0:36](https://www.linkedin.com/learning/building-react-and-django-apps/create-a-full-stack-react-app-with-django-rest-framework?u=76281980&t=36)** Join me in my [[LinkedIn]] learning course to create a full stack app.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (3), [[Representational State Transfer (REST)|Rest]] (1), api (1), [[Django]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Django]] (1), [[Python (Programming Language)|Python]] (1), [[React Hooks]] (1)
 > **CLI Commands:** python (1), make (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [rudolf] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/building-react-and-django-apps/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-react-and-django-apps/what-you-should-know?u=76281980&t=0)** - [Instructor] Before getting started with React and Django REST framework here is what you should know.
+> **[0:00](https://www.linkedin.com/learning/building-react-and-django-apps/what-you-should-know?u=76281980&t=0)** - [Instructor] Before getting started with [[React.js|React]] and [[Django]] [[Representational State Transfer (REST)|REST]] framework here is what you should know.
 >
-> **[0:05](https://www.linkedin.com/learning/building-react-and-django-apps/what-you-should-know?u=76281980&t=5)** To work with Django and Django REST framework, you should know how to program basic programs with the Python programming language.
+> **[0:05](https://www.linkedin.com/learning/building-react-and-django-apps/what-you-should-know?u=76281980&t=5)** To work with Django and Django REST framework, you should know how to program basic programs with the [[Python (Programming Language)|Python]] programming language.
 >
 > **[0:11](https://www.linkedin.com/learning/building-react-and-django-apps/what-you-should-know?u=76281980&t=11)** The book, Learn Python the Hard Way, is an especially good book.
 >
-> **[0:16](https://www.linkedin.com/learning/building-react-and-django-apps/what-you-should-know?u=76281980&t=16)** You can watched a LinkedIn Learning course, Learning Python, too.
+> **[0:16](https://www.linkedin.com/learning/building-react-and-django-apps/what-you-should-know?u=76281980&t=16)** You can watched a [[LinkedIn]] Learning course, Learning Python, too.
 >
-> **[0:20](https://www.linkedin.com/learning/building-react-and-django-apps/what-you-should-know?u=76281980&t=20)** If you know JavaScript already, Python is a bit different, but you should be able to pick it up with some help from these courses.
+> **[0:20](https://www.linkedin.com/learning/building-react-and-django-apps/what-you-should-know?u=76281980&t=20)** If you know [[JavaScript]] already, Python is a bit different, but you should be able to pick it up with some help from these courses.
 >
 > **[0:26](https://www.linkedin.com/learning/building-react-and-django-apps/what-you-should-know?u=76281980&t=26)** When working with Django, you should know how to create models of use, how to launch the development server, how to set up URL configuration patterns.
 >
@@ -141,7 +139,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/building-react-and-django-apps/what-you-should-know?u=76281980&t=52)** We are using ES6, which is one of the latest versions of the JavaScript language.
 >
-> **[0:58](https://www.linkedin.com/learning/building-react-and-django-apps/what-you-should-know?u=76281980&t=58)** You will want to check out the ECMAscript 6 LinkedIn Learning course and the React.js Essential Training course.
+> **[0:58](https://www.linkedin.com/learning/building-react-and-django-apps/what-you-should-know?u=76281980&t=58)** You will want to check out the [[ECMAScript]] 6 LinkedIn Learning course and the [[React.js]] Essential Training course.
 
 > [!info]- Semantic Content
 >
@@ -153,18 +151,17 @@ created: 2026-05-02
 > **File Paths:** react.js (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo project overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps/demo-project-overview?u=76281980)
+#### [Demo project overview](https://www.linkedin.com/learning/building-react-and-django-apps/demo-project-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-react-and-django-apps/demo-project-overview?u=76281980&t=0)** - [Narrator] In this project, we have the following libraries installed to be able to use Django.
+> **[0:00](https://www.linkedin.com/learning/building-react-and-django-apps/demo-project-overview?u=76281980&t=0)** - [Narrator] In this project, we have the following libraries installed to be able to use [[Django]].
 >
-> **[0:04](https://www.linkedin.com/learning/building-react-and-django-apps/demo-project-overview?u=76281980&t=4)** Django itself, Django REST framework, Django-filter, for filtering querysets and models and the Django OAuth Toolkit for OAuth2 authentication.
+> **[0:04](https://www.linkedin.com/learning/building-react-and-django-apps/demo-project-overview?u=76281980&t=4)** Django itself, Django [[Representational State Transfer (REST)|REST]] framework, Django-filter, for filtering querysets and models and the Django OAuth Toolkit for OAuth2 authentication.
 >
 > **[0:16](https://www.linkedin.com/learning/building-react-and-django-apps/demo-project-overview?u=76281980&t=16)** For the front end, we have these other modules installed.
 >
-> **[0:19](https://www.linkedin.com/learning/building-react-and-django-apps/demo-project-overview?u=76281980&t=19)** We have React.js, React Router, Jest for unit testing and Cypress for end-to-end testing.
+> **[0:19](https://www.linkedin.com/learning/building-react-and-django-apps/demo-project-overview?u=76281980&t=19)** We have [[React.js]], [[React.js|React]] Router, Jest for [[Unit Testing]] and Cypress for [[End-to-end Testing]].
 >
 > **[0:27](https://www.linkedin.com/learning/building-react-and-django-apps/demo-project-overview?u=76281980&t=27)** For this project, we have already built some Django models for packages, bookings and wishlist items.
 >
@@ -184,20 +181,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Running the React and Django development servers
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps/running-the-react-and-django-development-servers?u=76281980)
+#### [Running the React and Django development servers](https://www.linkedin.com/learning/building-react-and-django-apps/running-the-react-and-django-development-servers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-react-and-django-apps/running-the-react-and-django-development-servers?u=76281980&t=0)** - [Instructor] To run the Django development server we have to activate the Python virtual environment.
+> **[0:00](https://www.linkedin.com/learning/building-react-and-django-apps/running-the-react-and-django-development-servers?u=76281980&t=0)** - [Instructor] To run the [[Django]] development server we have to activate the [[Python (Programming Language)|Python]] virtual environment.
 >
 > **[0:07](https://www.linkedin.com/learning/building-react-and-django-apps/running-the-react-and-django-development-servers?u=76281980&t=7)** Then we have to enter the project directory and run the server.
 >
 > **[0:14](https://www.linkedin.com/learning/building-react-and-django-apps/running-the-react-and-django-development-servers?u=76281980&t=14)** In the browser, you can see that Django is running and you can see that we have access to the admin.
 >
-> **[0:28](https://www.linkedin.com/learning/building-react-and-django-apps/running-the-react-and-django-development-servers?u=76281980&t=28)** For the React development server to work we first have to add the proxy configuration to package.json.
+> **[0:28](https://www.linkedin.com/learning/building-react-and-django-apps/running-the-react-and-django-development-servers?u=76281980&t=28)** For the [[React.js|React]] development server to work we first have to add the proxy configuration to package.[[JSON]].
 >
-> **[0:38](https://www.linkedin.com/learning/building-react-and-django-apps/running-the-react-and-django-development-servers?u=76281980&t=38)** On the command line we enter the front end directory and simply type in npm start to start the React development server.
+> **[0:38](https://www.linkedin.com/learning/building-react-and-django-apps/running-the-react-and-django-development-servers?u=76281980&t=38)** On the command line we enter the front end directory and simply type in [[npm]] start to start the React development server.
 >
 > **[0:48](https://www.linkedin.com/learning/building-react-and-django-apps/running-the-react-and-django-development-servers?u=76281980&t=48)** It will automatically launch a new browser window pointing to your React app.
 
@@ -209,18 +205,17 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
 
-#### Preparing React code for production
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps/preparing-react-code-for-production?u=76281980)
+#### [Preparing React code for production](https://www.linkedin.com/learning/building-react-and-django-apps/preparing-react-code-for-production?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-react-and-django-apps/preparing-react-code-for-production?u=76281980&t=0)** - [Instructor] When a React app is built and complied for production, it needs to know which browsers will be supported.
+> **[0:00](https://www.linkedin.com/learning/building-react-and-django-apps/preparing-react-code-for-production?u=76281980&t=0)** - [Instructor] When a [[React.js|React]] app is built and complied for production, it needs to know which browsers will be supported.
 >
-> **[0:06](https://www.linkedin.com/learning/building-react-and-django-apps/preparing-react-code-for-production?u=76281980&t=6)** We can adjust this using the browser list configuration and package JSON.
+> **[0:06](https://www.linkedin.com/learning/building-react-and-django-apps/preparing-react-code-for-production?u=76281980&t=6)** We can adjust this using the browser list configuration and package [[JSON]].
 >
 > **[0:10](https://www.linkedin.com/learning/building-react-and-django-apps/preparing-react-code-for-production?u=76281980&t=10)** That's lines 23 to 28.
 >
-> **[0:14](https://www.linkedin.com/learning/building-react-and-django-apps/preparing-react-code-for-production?u=76281980&t=14)** Browser's list is used by React Angular and other frameworks, to allow Java script compilers such as Bable and TypeScript, know which JavaScript features should be polyfilled, or are natively supported by browsers.
+> **[0:14](https://www.linkedin.com/learning/building-react-and-django-apps/preparing-react-code-for-production?u=76281980&t=14)** Browser's list is used by React [[Angular]] and other frameworks, to allow [[Java]] script compilers such as Bable and TypeScript, know which [[JavaScript]] features should be polyfilled, or are natively supported by browsers.
 >
 > **[0:29](https://www.linkedin.com/learning/building-react-and-django-apps/preparing-react-code-for-production?u=76281980&t=29)** The most modern web browsers will be the fastest to compile production builds for us since there is no need for poly fields or any other transformations.
 >
@@ -235,12 +230,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Serving React code through Django's static files
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps/serving-react-code-through-django-s-static-files?u=76281980)
+#### [Serving React code through Django's static files](https://www.linkedin.com/learning/building-react-and-django-apps/serving-react-code-through-django-s-static-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-react-and-django-apps/serving-react-code-through-django-s-static-files?u=76281980&t=0)** - [Instructor] To serve the production build of our React app, we have to add the front end route to our Django app settings file.
+> **[0:00](https://www.linkedin.com/learning/building-react-and-django-apps/serving-react-code-through-django-s-static-files?u=76281980&t=0)** - [Instructor] To serve the production build of our [[React.js|React]] app, we have to add the front end route to our [[Django]] app settings file.
 >
 > **[0:09](https://www.linkedin.com/learning/building-react-and-django-apps/serving-react-code-through-django-s-static-files?u=76281980&t=9)** The path will point to the React apps production files.
 >
@@ -253,12 +247,11 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[React.js|React]] (3), [[Django]] (3)
 > **Speakers:** - [instructor] (1)
 
-#### Navigating between React components using React Router
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps/navigating-between-react-components-using-react-router?u=76281980)
+#### [Navigating between React components using React Router](https://www.linkedin.com/learning/building-react-and-django-apps/navigating-between-react-components-using-react-router?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-react-and-django-apps/navigating-between-react-components-using-react-router?u=76281980&t=0)** - React Router turns react into web application framework rather than a component library by providing a browser router, routes, and navigation links, as we can see in line two.
+> **[0:00](https://www.linkedin.com/learning/building-react-and-django-apps/navigating-between-react-components-using-react-router?u=76281980&t=0)** - [[React.js|React]] Router turns react into web application framework rather than a component library by providing a browser router, routes, and navigation links, as we can see in line two.
 >
 > **[0:11](https://www.linkedin.com/learning/building-react-and-django-apps/navigating-between-react-components-using-react-router?u=76281980&t=11)** With these tools, you can turn a component into a page that is routed to.
 >
@@ -298,7 +291,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (5), web application (1)
+> **Frameworks & Libraries:** [[React.js|React]] (5)
 > **Env Vars:** url (1)
 > **Speakers:** - react (1)
 
@@ -307,8 +300,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating a ViewSet with Django
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps/creating-a-viewset-with-django?u=76281980)
+#### [Creating a ViewSet with Django](https://www.linkedin.com/learning/building-react-and-django-apps/creating-a-viewset-with-django?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -324,17 +316,16 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/building-react-and-django-apps/creating-a-viewset-with-django?u=76281980&t=40)** All packages will be returned from this API end point in descending order by price and here's where we reuse the package serializer class.
 >
-> **[0:54](https://www.linkedin.com/learning/building-react-and-django-apps/creating-a-viewset-with-django?u=76281980&t=54)** Now in the URLs configuration, we add a new route to the Django rest framework default router.
+> **[0:54](https://www.linkedin.com/learning/building-react-and-django-apps/creating-a-viewset-with-django?u=76281980&t=54)** Now in the URLs configuration, we add a new route to the [[Django]] [[Representational State Transfer (REST)|rest]] framework default router.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (1), [[Django]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Django]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Displaying a list of items with React
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps/displaying-a-list-of-items-with-react?u=76281980)
+#### [Displaying a list of items with React](https://www.linkedin.com/learning/building-react-and-django-apps/displaying-a-list-of-items-with-react?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -348,7 +339,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/building-react-and-django-apps/displaying-a-list-of-items-with-react?u=76281980&t=20)** In the constructor, we keep track of the list of items and the total number of items.
 >
-> **[0:29](https://www.linkedin.com/learning/building-react-and-django-apps/displaying-a-list-of-items-with-react?u=76281980&t=29)** Then, we update the list, which means, sending the retrieveList method in the service API and sending that HTTP request to the Django REST Framework endpoint.
+> **[0:29](https://www.linkedin.com/learning/building-react-and-django-apps/displaying-a-list-of-items-with-react?u=76281980&t=29)** Then, we update the list, which means, sending the retrieveList method in the service API and sending that HTTP request to the [[Django]] [[Representational State Transfer (REST)|REST]] Framework endpoint.
 >
 > **[0:45](https://www.linkedin.com/learning/building-react-and-django-apps/displaying-a-list-of-items-with-react?u=76281980&t=45)** The data we receive contains results and the number of items.
 >
@@ -372,7 +363,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/building-react-and-django-apps/displaying-a-list-of-items-with-react?u=76281980&t=116)** We're adding a new call here, retrieveList.
 >
-> **[2:01](https://www.linkedin.com/learning/building-react-and-django-apps/displaying-a-list-of-items-with-react?u=76281980&t=121)** We use getConfig to get the react (mumbles) app token and we're going to send that along, when we make the REST API call, to get the public packages.
+> **[2:01](https://www.linkedin.com/learning/building-react-and-django-apps/displaying-a-list-of-items-with-react?u=76281980&t=121)** We use getConfig to get the [[React.js|react]] (mumbles) app token and we're going to send that along, when we make the REST API call, to get the public packages.
 >
 > **[2:16](https://www.linkedin.com/learning/building-react-and-django-apps/displaying-a-list-of-items-with-react?u=76281980&t=136)** Then, the response will be resolved with the response.data Let's run the web server.
 >
@@ -382,7 +373,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), data (4), [[Representational State Transfer (REST)|Rest]] (3), [[Django]] (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[Django]] (1), [[React.js|React]] (1)
 > **Env Vars:** api (4), rest (3), http (1)
 > **Code Identifiers:** retrievelist (2), testid (1), togglewishlist (1), getconfig (1)
 > **CLI Commands:** make (1)
@@ -391,8 +382,7 @@ created: 2026-05-02
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deleting an item using React and Django
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps/deleting-an-item-using-react-and-django?u=76281980)
+#### [Deleting an item using React and Django](https://www.linkedin.com/learning/building-react-and-django-apps/deleting-an-item-using-react-and-django?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -402,7 +392,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/building-react-and-django-apps/deleting-an-item-using-react-and-django?u=76281980&t=14)** In the service API class, we update the wishlist delete method, we reuse the configuration, for sending http requests, which includes the ilog token, and then we return the resulting promise from the Axios, delete method.
 >
-> **[0:37](https://www.linkedin.com/learning/building-react-and-django-apps/deleting-an-item-using-react-and-django?u=76281980&t=37)** Now we need to override the destroy method of the wishlist item view set, on the Django side of things.
+> **[0:37](https://www.linkedin.com/learning/building-react-and-django-apps/deleting-an-item-using-react-and-django?u=76281980&t=37)** Now we need to override the destroy method of the wishlist item view set, on the [[Django]] side of things.
 >
 > **[0:46](https://www.linkedin.com/learning/building-react-and-django-apps/deleting-an-item-using-react-and-django?u=76281980&t=46)** We use pk, the primary key, as the package id, and then we search for the wishlist item, we delete the item, we delete the item from cache, and then we return a two hundred okay response with a short message.
 >
@@ -412,13 +402,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (2), api (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Django]] (2)
 > **Env Vars:** api (1)
 > **UI Navigation:** toggle (1)
 > **Speakers:** - [instructor] (1)
 
-#### Partially updating an item using React
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps/partially-updating-an-item-using-react?u=76281980)
+#### [Partially updating an item using React](https://www.linkedin.com/learning/building-react-and-django-apps/partially-updating-an-item-using-react?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -438,7 +427,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/building-react-and-django-apps/partially-updating-an-item-using-react?u=76281980&t=43)** This time we're sending in false because it's been removed from the cart.
 >
-> **[0:48](https://www.linkedin.com/learning/building-react-and-django-apps/partially-updating-an-item-using-react?u=76281980&t=48)** And the rest of the code here is the same.
+> **[0:48](https://www.linkedin.com/learning/building-react-and-django-apps/partially-updating-an-item-using-react?u=76281980&t=48)** And the [[Representational State Transfer (REST)|rest]] of the code here is the same.
 >
 > **[0:53](https://www.linkedin.com/learning/building-react-and-django-apps/partially-updating-an-item-using-react?u=76281980&t=53)** Now we open up ServiceApi and update that method.
 >
@@ -460,18 +449,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (1), [[Representational State Transfer (REST)|Rest]] (1), data (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** patch (2), api (1), http (1), xhr (1)
 > **Code Identifiers:** setorderitem (1), added_to_cart (1)
 > **API Endpoints:** patch  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Pagination with Django
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps/pagination-with-django?u=76281980)
+#### [Pagination with Django](https://www.linkedin.com/learning/building-react-and-django-apps/pagination-with-django?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-react-and-django-apps/pagination-with-django?u=76281980&t=0)** - [Instructor] Django REST framework provides multiple ways of paginating lists of items.
+> **[0:00](https://www.linkedin.com/learning/building-react-and-django-apps/pagination-with-django?u=76281980&t=0)** - [Instructor] [[Django]] [[Representational State Transfer (REST)|REST]] framework provides multiple ways of paginating lists of items.
 >
 > **[0:05](https://www.linkedin.com/learning/building-react-and-django-apps/pagination-with-django?u=76281980&t=5)** There are three ways to do this with LimitOffset, Cursor, and PageNumber.
 >
@@ -487,12 +475,11 @@ created: 2026-05-02
 > **Env Vars:** rest (1)
 > **Speakers:** - [instructor] (1)
 
-#### Pagination with React
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps/pagination-with-react?u=76281980)
+#### [Pagination with React](https://www.linkedin.com/learning/building-react-and-django-apps/pagination-with-react?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-react-and-django-apps/pagination-with-react?u=76281980&t=0)** - [Narrator] Let's create the react pagination component which will keep track of the current page index.
+> **[0:00](https://www.linkedin.com/learning/building-react-and-django-apps/pagination-with-react?u=76281980&t=0)** - [Narrator] Let's create the [[React.js|react]] pagination component which will keep track of the current page index.
 >
 > **[0:05](https://www.linkedin.com/learning/building-react-and-django-apps/pagination-with-react?u=76281980&t=5)** How many items there are in total, number of items to display per page, and the next and previous page callbacks.
 >
@@ -532,20 +519,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (8), api (3), [[React.js|React]] (1), data (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **Env Vars:** api (3), http (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Filtering with Django
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps/filtering-with-django?u=76281980)
+#### [Filtering with Django](https://www.linkedin.com/learning/building-react-and-django-apps/filtering-with-django?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-react-and-django-apps/filtering-with-django?u=76281980&t=0)** - [Male Speaker] Now we want to be able to narrow down the user search for the perfect tour package.
 >
-> **[0:05](https://www.linkedin.com/learning/building-react-and-django-apps/filtering-with-django?u=76281980&t=5)** We're going to do this by using the base filter, which we import from REST framework.
+> **[0:05](https://www.linkedin.com/learning/building-react-and-django-apps/filtering-with-django?u=76281980&t=5)** We're going to do this by using the base filter, which we import from [[Representational State Transfer (REST)|REST]] framework.
 >
 > **[0:12](https://www.linkedin.com/learning/building-react-and-django-apps/filtering-with-django?u=76281980&t=12)** And we also use the search filter.
 >
@@ -575,21 +561,20 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/building-react-and-django-apps/filtering-with-django?u=76281980&t=96)** We're going to configure the search filter to use the name of the package and the promo description as search fields.
 >
-> **[1:49](https://www.linkedin.com/learning/building-react-and-django-apps/filtering-with-django?u=76281980&t=109)** So, if we type in "hiking," packages with the word "hiking" in their name or description will appear in the search results.
+> **[1:49](https://www.linkedin.com/learning/building-react-and-django-apps/filtering-with-django?u=76281980&t=109)** So, if we type in "hiking," packages with the [[Microsoft Word|word]] "hiking" in their name or description will appear in the search results.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (6), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1)
 > **Prerequisites:** set up (2), configure (1)
 > **Env Vars:** rest (1)
 > **Speakers:** - [male (1)
 
-#### Filtering with React
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps/filtering-with-react?u=76281980)
+#### [Filtering with React](https://www.linkedin.com/learning/building-react-and-django-apps/filtering-with-react?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-react-and-django-apps/filtering-with-react?u=76281980&t=0)** - [Instructor] On the React front end our filter component will keep track of the price minimum and maximum and search text.
+> **[0:00](https://www.linkedin.com/learning/building-react-and-django-apps/filtering-with-react?u=76281980&t=0)** - [Instructor] On the [[React.js|React]] front end our filter component will keep track of the price minimum and maximum and search text.
 >
 > **[0:07](https://www.linkedin.com/learning/building-react-and-django-apps/filtering-with-react?u=76281980&t=7)** We're going to store that in the state of the component.
 >
@@ -683,7 +668,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (8), [[React.js|React]] (1), api (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **Code Identifiers:** price_min (4), onfilterupdate (3), price_max (2), queryparams (2), updatefilter (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** api (1)
@@ -695,8 +680,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Handling creating models with Django REST framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps/handling-creating-models-with-django-rest-framework?u=76281980)
+#### [Handling creating models with Django REST framework](https://www.linkedin.com/learning/building-react-and-django-apps/handling-creating-models-with-django-rest-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -704,7 +688,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/building-react-and-django-apps/handling-creating-models-with-django-rest-framework?u=76281980&t=6)** We need to import the booking model, and the booking serializer.
 >
-> **[0:14](https://www.linkedin.com/learning/building-react-and-django-apps/handling-creating-models-with-django-rest-framework?u=76281980&t=14)** At the bottom of the views file we can create the new model view set, using Django REST frameworks built in API view.
+> **[0:14](https://www.linkedin.com/learning/building-react-and-django-apps/handling-creating-models-with-django-rest-framework?u=76281980&t=14)** At the bottom of the views file we can create the new model view set, using [[Django]] [[Representational State Transfer (REST)|REST]] frameworks built in API view.
 >
 > **[0:23](https://www.linkedin.com/learning/building-react-and-django-apps/handling-creating-models-with-django-rest-framework?u=76281980&t=23)** And the query set will be all booking objects.
 >
@@ -712,7 +696,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/building-react-and-django-apps/handling-creating-models-with-django-rest-framework?u=76281980&t=33)** And then the permission classes will be set to the base permission.
 >
-> **[0:39](https://www.linkedin.com/learning/building-react-and-django-apps/handling-creating-models-with-django-rest-framework?u=76281980&t=39)** And that's so we don't have to check for a lot of tokens in other permissions.
+> **[0:39](https://www.linkedin.com/learning/building-react-and-django-apps/handling-creating-models-with-django-rest-framework?u=76281980&t=39)** And that's so we don't have to check for a lot of [[Tokens]] in other permissions.
 >
 > **[0:45](https://www.linkedin.com/learning/building-react-and-django-apps/handling-creating-models-with-django-rest-framework?u=76281980&t=45)** In the serializer's file we're going to be creating the booking serializer.
 >
@@ -726,18 +710,17 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/building-react-and-django-apps/handling-creating-models-with-django-rest-framework?u=76281980&t=67)** Then in the URL configuration, we need to register the bookings path as a new route in the Django REST framework default router.
 >
-> **[1:19](https://www.linkedin.com/learning/building-react-and-django-apps/handling-creating-models-with-django-rest-framework?u=76281980&t=79)** We can run the Django server, and check the browser, by using Django REST framework's built in HTML views for APIs.
+> **[1:19](https://www.linkedin.com/learning/building-react-and-django-apps/handling-creating-models-with-django-rest-framework?u=76281980&t=79)** We can run the Django server, and check the browser, by using Django REST framework's built in [[HTML]] views for APIs.
 >
 > **[1:32](https://www.linkedin.com/learning/building-react-and-django-apps/handling-creating-models-with-django-rest-framework?u=76281980&t=92)** So you can see we have the list of bookings, and we have a forum to create new reservation bookings.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (4), [[Representational State Transfer (REST)|Rest]] (3), api (1), [[Tokens]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Django]] (4), [[Representational State Transfer (REST)|Rest]] (3), [[Tokens]] (1), [[HTML]] (1)
 > **Env Vars:** rest (3), api (1), url (1), html (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a REST API Service class with React and Axios
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps/creating-a-rest-api-service-class-with-react-and-axios?u=76281980)
+#### [Creating a REST API Service class with React and Axios](https://www.linkedin.com/learning/building-react-and-django-apps/creating-a-rest-api-service-class-with-react-and-axios?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -763,11 +746,11 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/building-react-and-django-apps/creating-a-rest-api-service-class-with-react-and-axios?u=76281980&t=80)** And the scope for the token will be a read scope.
 >
-> **[1:24](https://www.linkedin.com/learning/building-react-and-django-apps/creating-a-rest-api-service-class-with-react-and-axios?u=76281980&t=84)** Then with Axios we post to the OAuth token API endpoint, which is actually provided by Django OAuth and with that response we will get an access token and we'll store that access token and resolve this promise.
+> **[1:24](https://www.linkedin.com/learning/building-react-and-django-apps/creating-a-rest-api-service-class-with-react-and-axios?u=76281980&t=84)** Then with Axios we post to the OAuth token API endpoint, which is actually provided by [[Django]] OAuth and with that response we will get an access token and we'll store that access token and resolve this promise.
 >
 > **[1:40](https://www.linkedin.com/learning/building-react-and-django-apps/creating-a-rest-api-service-class-with-react-and-axios?u=76281980&t=100)** The two main grant types we use are client credentials and password.
 >
-> **[1:46](https://www.linkedin.com/learning/building-react-and-django-apps/creating-a-rest-api-service-class-with-react-and-axios?u=76281980&t=106)** Client credentials is good for front end web apps like ours that are accessing Django rest framework APIs.
+> **[1:46](https://www.linkedin.com/learning/building-react-and-django-apps/creating-a-rest-api-service-class-with-react-and-axios?u=76281980&t=106)** Client credentials is good for front end web apps like ours that are accessing Django [[Representational State Transfer (REST)|rest]] framework APIs.
 >
 > **[1:54](https://www.linkedin.com/learning/building-react-and-django-apps/creating-a-rest-api-service-class-with-react-and-axios?u=76281980&t=114)** Password is great for web apps where the user has to log in with their username and password.
 >
@@ -781,13 +764,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), [[Django]] (2), web (2), data (1), application (1)
+> **Frameworks & Libraries:** [[Django]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (4), htp (1), url (1)
 > **Code Identifiers:** retrievewishlist (1), getaccesstoken (1), client_credentials (1), client_secret (1), createbooking (1)
 > **Speakers:** - we (1)
 
-#### Creating a basic form as a React component
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps/creating-a-basic-form-as-a-react-component?u=76281980)
+#### [Creating a basic form as a React component](https://www.linkedin.com/learning/building-react-and-django-apps/creating-a-basic-form-as-a-react-component?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -807,13 +789,13 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/building-react-and-django-apps/creating-a-basic-form-as-a-react-component?u=76281980&t=44)** The field value comes from the booking model and whenever we update this form field we're going to use the updateField callback from the AppContext.
 >
-> **[0:59](https://www.linkedin.com/learning/building-react-and-django-apps/creating-a-basic-form-as-a-react-component?u=76281980&t=59)** And then we pass in the rest of the field properties.
+> **[0:59](https://www.linkedin.com/learning/building-react-and-django-apps/creating-a-basic-form-as-a-react-component?u=76281980&t=59)** And then we pass in the [[Representational State Transfer (REST)|rest]] of the field properties.
 >
 > **[1:04](https://www.linkedin.com/learning/building-react-and-django-apps/creating-a-basic-form-as-a-react-component?u=76281980&t=64)** We're going to display the item that is about to be ordered along with a button to remove it.
 >
 > **[1:10](https://www.linkedin.com/learning/building-react-and-django-apps/creating-a-basic-form-as-a-react-component?u=76281980&t=70)** Here's the Remove button and when we click, we use the AppContext clearOrderItem method and we pass in the item.id.
 >
-> **[1:22](https://www.linkedin.com/learning/building-react-and-django-apps/creating-a-basic-form-as-a-react-component?u=76281980&t=82)** And within this button, we're also going to have a nice icon that comes from the Font Awesome Library included with React icons.
+> **[1:22](https://www.linkedin.com/learning/building-react-and-django-apps/creating-a-basic-form-as-a-react-component?u=76281980&t=82)** And within this button, we're also going to have a nice icon that comes from the Font Awesome Library included with [[React.js|React]] icons.
 >
 > **[1:33](https://www.linkedin.com/learning/building-react-and-django-apps/creating-a-basic-form-as-a-react-component?u=76281980&t=93)** After that, we display the item's information.
 >
@@ -829,12 +811,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Representational State Transfer (REST)|Rest]] (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[React.js|React]] (1)
 > **Code Identifiers:** formfield (1), updatefield (1), clearorderitem (1), formfields (1)
 > **Speakers:** - [narrator] (1)
 
-#### Creating form fields for basic form
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps/creating-form-fields-for-basic-form?u=76281980)
+#### [Creating form fields for basic form](https://www.linkedin.com/learning/building-react-and-django-apps/creating-form-fields-for-basic-form?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -858,7 +839,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/building-react-and-django-apps/creating-form-fields-for-basic-form?u=76281980&t=61)** But it doesn't have any styling, so let's fix that.
 >
-> **[1:05](https://www.linkedin.com/learning/building-react-and-django-apps/creating-form-fields-for-basic-form?u=76281980&t=65)** We open checkout.css for the checkout forms styling.
+> **[1:05](https://www.linkedin.com/learning/building-react-and-django-apps/creating-form-fields-for-basic-form?u=76281980&t=65)** We open checkout.css for the checkout [[Forms]] styling.
 >
 > **[1:11](https://www.linkedin.com/learning/building-react-and-django-apps/creating-form-fields-for-basic-form?u=76281980&t=71)** We're going to set it up using a flex layout, the direction will be column and we set up some margins around it, then we setup the flex width for the header and the summary and also for the form itself along with another flex layout for the form.
 >
@@ -876,14 +857,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), css (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **Code Identifiers:** onupdate (2), onchange (2)
 > **Prerequisites:** setup (2), set up (1)
 > **File Paths:** checkout.css (1)
 > **Speakers:** - now (1)
 
-#### Connecting a React component to a service
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps/connecting-a-react-component-to-a-service?u=76281980)
+#### [Connecting a React component to a service](https://www.linkedin.com/learning/building-react-and-django-apps/connecting-a-react-component-to-a-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -915,7 +895,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/building-react-and-django-apps/connecting-a-react-component-to-a-service?u=76281980&t=99)** Whenever it is clicked, we're going to call the placeOrder method, and we're also going to want to disable this button, if there is no item added to the cart.
 >
-> **[1:54](https://www.linkedin.com/learning/building-react-and-django-apps/connecting-a-react-component-to-a-service?u=76281980&t=114)** Let's run the web servers.
+> **[1:54](https://www.linkedin.com/learning/building-react-and-django-apps/connecting-a-react-component-to-a-service?u=76281980&t=114)** Let's run the [[Web Servers]].
 >
 > **[2:00](https://www.linkedin.com/learning/building-react-and-django-apps/connecting-a-react-component-to-a-service?u=76281980&t=120)** Let's open up the dev tools to the network tab and the XHR requests.
 >
@@ -929,13 +909,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2), data (1), web (1)
+> **Frameworks & Libraries:** [[Web Servers]] (1)
 > **Code Identifiers:** placeorder (2), createbooking (1), orderplaced (1)
 > **Env Vars:** api (2), xhr (1)
 > **Speakers:** - [instructor] (1)
 
-#### Validating form data with Django REST framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps/validating-form-data-with-django-rest-framework?u=76281980)
+#### [Validating form data with Django REST framework](https://www.linkedin.com/learning/building-react-and-django-apps/validating-form-data-with-django-rest-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -947,7 +926,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/building-react-and-django-apps/validating-form-data-with-django-rest-framework?u=76281980&t=10)** In the booking serializer, we're going to add a street address error message.
 >
-> **[0:18](https://www.linkedin.com/learning/building-react-and-django-apps/validating-form-data-with-django-rest-framework?u=76281980&t=18)** In a Django REST framework serializer, you only have to prefix the field name with validate in order to implement custom validation for the field.
+> **[0:18](https://www.linkedin.com/learning/building-react-and-django-apps/validating-form-data-with-django-rest-framework?u=76281980&t=18)** In a [[Django]] [[Representational State Transfer (REST)|REST]] framework serializer, you only have to prefix the field name with validate in order to implement custom validation for the field.
 >
 > **[0:29](https://www.linkedin.com/learning/building-react-and-django-apps/validating-form-data-with-django-rest-framework?u=76281980&t=29)** We can define a regular expression that we want to match, which will be a number followed by a street name and any other suffix and if the street address that's filled out matches, we simply return that value.
 >
@@ -959,8 +938,7 @@ created: 2026-05-02
 > **Env Vars:** rest (1)
 > **Speakers:** - [instructor] (1)
 
-#### Displaying validation errors with React
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps/displaying-validation-errors-with-react?u=76281980)
+#### [Displaying validation errors with React](https://www.linkedin.com/learning/building-react-and-django-apps/displaying-validation-errors-with-react?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -994,8 +972,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using timers with state to display data
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps/using-timers-with-state-to-display-data?u=76281980)
+#### [Using timers with state to display data](https://www.linkedin.com/learning/building-react-and-django-apps/using-timers-with-state-to-display-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1027,8 +1004,7 @@ created: 2026-05-02
 >
 > **Speakers:** - [narrator] (1)
 
-#### Creating a higher-order component with React
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps/creating-a-higher-order-component-with-react?u=76281980)
+#### [Creating a higher-order component with React](https://www.linkedin.com/learning/building-react-and-django-apps/creating-a-higher-order-component-with-react?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1058,19 +1034,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** front-end (1)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** onupdate (1)
 > **Speakers:** - we (1)
 
-#### Using React hooks and refactoring a component to use hooks
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps/using-react-hooks-and-refactoring-a-component-to-use-hooks?u=76281980)
+#### [Using React hooks and refactoring a component to use hooks](https://www.linkedin.com/learning/building-react-and-django-apps/using-react-hooks-and-refactoring-a-component-to-use-hooks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-react-and-django-apps/using-react-hooks-and-refactoring-a-component-to-use-hooks?u=76281980&t=0)** - [Speaker] We're going to Refactor the Countdown Timer component to use React hooks.
+> **[0:00](https://www.linkedin.com/learning/building-react-and-django-apps/using-react-hooks-and-refactoring-a-component-to-use-hooks?u=76281980&t=0)** - [Speaker] We're going to Refactor the Countdown Timer component to use [[React Hooks]].
 >
-> **[0:06](https://www.linkedin.com/learning/building-react-and-django-apps/using-react-hooks-and-refactoring-a-component-to-use-hooks?u=76281980&t=6)** React hooks are a new feature that represent an evolution in the design of React components.
+> **[0:06](https://www.linkedin.com/learning/building-react-and-django-apps/using-react-hooks-and-refactoring-a-component-to-use-hooks?u=76281980&t=6)** React hooks are a new feature that represent an evolution in the design of [[React.js|React]] components.
 >
 > **[0:12](https://www.linkedin.com/learning/building-react-and-django-apps/using-react-hooks-and-refactoring-a-component-to-use-hooks?u=76281980&t=12)** Think of a React component as a composition in assembly of various hooks.
 >
@@ -1094,7 +1068,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/building-react-and-django-apps/using-react-hooks-and-refactoring-a-component-to-use-hooks?u=76281980&t=71)** This means, this function call-back, given to useEffect, will be called along with the Cleanup method here.
 >
-> **[1:20](https://www.linkedin.com/learning/building-react-and-django-apps/using-react-hooks-and-refactoring-a-component-to-use-hooks?u=76281980&t=80)** The rest of the Render function will be the same as before.
+> **[1:20](https://www.linkedin.com/learning/building-react-and-django-apps/using-react-hooks-and-refactoring-a-component-to-use-hooks?u=76281980&t=80)** The [[Representational State Transfer (REST)|rest]] of the Render function will be the same as before.
 >
 > **[1:23](https://www.linkedin.com/learning/building-react-and-django-apps/using-react-hooks-and-refactoring-a-component-to-use-hooks?u=76281980&t=83)** Except, of course, we don't need this sought State anymore.
 >
@@ -1108,13 +1082,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React Hooks]] (3), [[React.js|React]] (2), feature (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[React Hooks]] (3), [[React.js|React]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** useeffect (3), usestate (2), setstate (2), setremaining (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [speaker] (1)
 
-#### Refactoring a higher-order component to use hooks
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps/refactoring-a-higher-order-component-to-use-hooks?u=76281980)
+#### [Refactoring a higher-order component to use hooks](https://www.linkedin.com/learning/building-react-and-django-apps/refactoring-a-higher-order-component-to-use-hooks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1122,7 +1095,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/building-react-and-django-apps/refactoring-a-higher-order-component-to-use-hooks?u=76281980&t=9)** For this we need the useState hook.
 >
-> **[0:12](https://www.linkedin.com/learning/building-react-and-django-apps/refactoring-a-higher-order-component-to-use-hooks?u=76281980&t=12)** A custom hook is simply any function that begins with the word use.
+> **[0:12](https://www.linkedin.com/learning/building-react-and-django-apps/refactoring-a-higher-order-component-to-use-hooks?u=76281980&t=12)** A custom hook is simply any function that begins with the [[Microsoft Word|word]] use.
 >
 > **[0:18](https://www.linkedin.com/learning/building-react-and-django-apps/refactoring-a-higher-order-component-to-use-hooks?u=76281980&t=18)** We're going to maintain the error state within this hook and create a validate callback.
 >
@@ -1166,8 +1139,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Unit testing a component
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps/unit-testing-a-component?u=76281980)
+#### [Unit testing a component](https://www.linkedin.com/learning/building-react-and-django-apps/unit-testing-a-component?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1179,7 +1151,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/building-react-and-django-apps/unit-testing-a-component?u=76281980&t=13)** After each test we're going to call clean up.
 >
-> **[0:18](https://www.linkedin.com/learning/building-react-and-django-apps/unit-testing-a-component?u=76281980&t=18)** Which will clean up the dom and unmount the react component.
+> **[0:18](https://www.linkedin.com/learning/building-react-and-django-apps/unit-testing-a-component?u=76281980&t=18)** Which will clean up the dom and unmount the [[React.js|react]] component.
 >
 > **[0:22](https://www.linkedin.com/learning/building-react-and-django-apps/unit-testing-a-component?u=76281980&t=22)** Our unit test will be asynchronous, because we're testing a call back.
 >
@@ -1213,16 +1185,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dom (3), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - now (1)
 
-#### Unit testing two React routes and navigation between components
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps/unit-testing-two-react-routes-and-navigation-between-components?u=76281980)
+#### [Unit testing two React routes and navigation between components](https://www.linkedin.com/learning/building-react-and-django-apps/unit-testing-two-react-routes-and-navigation-between-components?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-react-and-django-apps/unit-testing-two-react-routes-and-navigation-between-components?u=76281980&t=0)** - [Instructor] Now, let's use a unit test to confirm that navigation in our app is working correctly with react router.
+> **[0:00](https://www.linkedin.com/learning/building-react-and-django-apps/unit-testing-two-react-routes-and-navigation-between-components?u=76281980&t=0)** - [Instructor] Now, let's use a unit test to confirm that navigation in our app is working correctly with [[React.js|react]] router.
 >
 > **[0:06](https://www.linkedin.com/learning/building-react-and-django-apps/unit-testing-two-react-routes-and-navigation-between-components?u=76281980&t=6)** Before we write the test, notice that we have provided mock data in functions using jest.
 >
@@ -1264,15 +1235,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[React.js|React]] (4), api (4), dom (2)
+> **Frameworks & Libraries:** [[React.js|React]] (4)
 > **Env Vars:** api (4), http (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** navigate to (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### End2End testing the form submission process
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps/end2end-testing-the-form-submission-process?u=76281980)
+#### [End2End testing the form submission process](https://www.linkedin.com/learning/building-react-and-django-apps/end2end-testing-the-form-submission-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1298,19 +1268,18 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/building-react-and-django-apps/end2end-testing-the-form-submission-process?u=76281980&t=75)** End to end tests are a bit more complicated to run.
 >
-> **[1:18](https://www.linkedin.com/learning/building-react-and-django-apps/end2end-testing-the-form-submission-process?u=76281980&t=78)** First we need the Django development server running.
+> **[1:18](https://www.linkedin.com/learning/building-react-and-django-apps/end2end-testing-the-form-submission-process?u=76281980&t=78)** First we need the [[Django]] development server running.
 >
-> **[1:22](https://www.linkedin.com/learning/building-react-and-django-apps/end2end-testing-the-form-submission-process?u=76281980&t=82)** Then we need the React server running and then finally we can run the end to end tests.
+> **[1:22](https://www.linkedin.com/learning/building-react-and-django-apps/end2end-testing-the-form-submission-process?u=76281980&t=82)** Then we need the [[React.js|React]] server running and then finally we can run the end to end tests.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Django]] (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[Django]] (1), [[React.js|React]] (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - we (1)
 
-#### End2End testing the filtered data table
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps/end2end-testing-the-filtered-data-table?u=76281980)
+#### [End2End testing the filtered data table](https://www.linkedin.com/learning/building-react-and-django-apps/end2end-testing-the-filtered-data-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1324,17 +1293,16 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/building-react-and-django-apps/end2end-testing-the-filtered-data-table?u=76281980&t=30)** And then we make sure that there is still some data being displayed.
 >
-> **[0:35](https://www.linkedin.com/learning/building-react-and-django-apps/end2end-testing-the-filtered-data-table?u=76281980&t=35)** Again, we run through the same process of running the Django dev server, running the React dev server, and then finally running the end to end tests.
+> **[0:35](https://www.linkedin.com/learning/building-react-and-django-apps/end2end-testing-the-filtered-data-table?u=76281980&t=35)** Again, we run through the same process of running the [[Django]] dev server, running the [[React.js|React]] dev server, and then finally running the end to end tests.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Search]] (2), [[Django]] (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[Django]] (1), [[React.js|React]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Unit testing caching with Django REST framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps/unit-testing-caching-with-django-rest-framework?u=76281980)
+#### [Unit testing caching with Django REST framework](https://www.linkedin.com/learning/building-react-and-django-apps/unit-testing-caching-with-django-rest-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1352,13 +1320,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** api (2)
 > **Speakers:** - [instructor] (1)
 
-#### Unit testing sorting and filtering
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps/unit-testing-sorting-and-filtering?u=76281980)
+#### [Unit testing sorting and filtering](https://www.linkedin.com/learning/building-react-and-django-apps/unit-testing-sorting-and-filtering?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1390,14 +1356,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1), api (1), [[Search]] (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** discount_package (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
 
-#### Unit testing validation for the REST API
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps/unit-testing-validation-for-the-rest-api?u=76281980)
+#### [Unit testing validation for the REST API](https://www.linkedin.com/learning/building-react-and-django-apps/unit-testing-validation-for-the-rest-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1415,7 +1379,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), api (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
 > **Prerequisites:** set up (1)
@@ -1426,14 +1389,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/building-react-and-django-apps/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-react-and-django-apps/next-steps?u=76281980&t=0)** - [Rudolf] Thanks for watching the videos and if you would like to learn more about React you can watch the React: React Router course on LinkedIn Learning or the [[React.js- Building an Interface]] LinkedIn Learning course.
+> **[0:00](https://www.linkedin.com/learning/building-react-and-django-apps/next-steps?u=76281980&t=0)** - [Rudolf] Thanks for watching the videos and if you would like to learn more about [[React.js|React]] you can watch the React: React Router course on [[LinkedIn]] Learning or the [[[[React.js]]- Building an Interface]] LinkedIn Learning course.
 >
-> **[0:14](https://www.linkedin.com/learning/building-react-and-django-apps/next-steps?u=76281980&t=14)** And if you'd liked to learn more about Django and become a Django developer you can watch the LinkedIn learning path Become a Django Developer.
+> **[0:14](https://www.linkedin.com/learning/building-react-and-django-apps/next-steps?u=76281980&t=14)** And if you'd liked to learn more about [[Django]] and become a Django developer you can watch the LinkedIn learning path Become a Django Developer.
 >
 > **[0:22](https://www.linkedin.com/learning/building-react-and-django-apps/next-steps?u=76281980&t=22)** Thanks.
 

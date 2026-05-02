@@ -76,14 +76,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to generative AI and change management: Leading the future
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/introduction-to-generative-ai-and-change-management-leading-the-future?u=76281980)
+#### [Introduction to generative AI and change management: Leading the future](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/introduction-to-generative-ai-and-change-management-leading-the-future?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/introduction-to-generative-ai-and-change-management-leading-the-future?u=76281980&t=0)** - Welcome.
 >
-> **[0:01](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/introduction-to-generative-ai-and-change-management-leading-the-future?u=76281980&t=1)** We are glad you're here with us for our course on helping you navigate change in your organization as your teams go through this generative AI moment.
+> **[0:01](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/introduction-to-generative-ai-and-change-management-leading-the-future?u=76281980&t=1)** We are glad you're here with us for our course on helping you navigate change in your organization as your teams go through this [[Generative AI]] moment.
 >
 > **[0:10](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/introduction-to-generative-ai-and-change-management-leading-the-future?u=76281980&t=10)** I'm Bob Higgins, President and CEO of Barge Design Solutions, and I'm happy to be paired back up with Jules White, Jules.
 >
@@ -125,16 +124,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (6), teams (2), career (1)
+> **Frameworks & Libraries:** [[Generative AI]] (6)
 > **Speakers:** - welcome (1), - i (1), - yes (1), - yeah (1), - right (1)
 > **Env Vars:** ceo (1)
 
-#### Comparing generative AI to past innovations: Insights for effective change management
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/comparing-generative-ai-to-past-innovations-insights-for-effective-change-management?u=76281980)
+#### [Comparing generative AI to past innovations: Insights for effective change management](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/comparing-generative-ai-to-past-innovations-insights-for-effective-change-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/comparing-generative-ai-to-past-innovations-insights-for-effective-change-management?u=76281980&t=0)** - Jules, how does Generative AI?
+> **[0:00](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/comparing-generative-ai-to-past-innovations-insights-for-effective-change-management?u=76281980&t=0)** - Jules, how does [[Generative AI]]?
 >
 > **[0:02](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/comparing-generative-ai-to-past-innovations-insights-for-effective-change-management?u=76281980&t=2)** This transformation we're doing.
 >
@@ -168,7 +166,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/comparing-generative-ai-to-past-innovations-insights-for-effective-change-management?u=76281980&t=90)** We're going to have all kinds of supporting roles that get developed.
 >
-> **[1:33](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/comparing-generative-ai-to-past-innovations-insights-for-effective-change-management?u=76281980&t=93)** People that know how to work with AI, knew how to monitor the ethics of it, who are going to be able to go and educate people on it, all these are going to be important skills that are going to be supporting.
+> **[1:33](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/comparing-generative-ai-to-past-innovations-insights-for-effective-change-management?u=76281980&t=93)** People that know how to work with AI, knew how to monitor the [[Ethics]] of it, who are going to be able to go and educate people on it, all these are going to be important skills that are going to be supporting.
 >
 > **[1:42](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/comparing-generative-ai-to-past-innovations-insights-for-effective-change-management?u=76281980&t=102)** And we're going to create new, totally new markets that we don't even know are out there yet because we haven't discovered them.
 >
@@ -200,24 +198,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Generative AI]] (2), business (2), [[Ethics]] (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Ethics]] (1)
 > **Speakers:** - jules (1), - well (1), - right (1)
 > **Env Vars:** usa (1)
 
-#### The impact of generative AI on the job market and change management strategies
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/the-impact-of-generative-ai-on-the-job-market-and-change-management-strategies?u=76281980)
+#### [The impact of generative AI on the job market and change management strategies](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/the-impact-of-generative-ai-on-the-job-market-and-change-management-strategies?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/the-impact-of-generative-ai-on-the-job-market-and-change-management-strategies?u=76281980&t=0)** - There are these unique moments in time where technological change creates these field levelers, where suddenly we can do things fundamentally differently than before and it allows new things to happen.
 >
-> **[0:11](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/the-impact-of-generative-ai-on-the-job-market-and-change-management-strategies?u=76281980&t=11)** So if you think about when cloud computing came out, suddenly small companies, startups could go and create computing services that could reach millions of people without having to build their own data centers, acquire all the hardware, figure out how they were going to scale it up.
+> **[0:11](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/the-impact-of-generative-ai-on-the-job-market-and-change-management-strategies?u=76281980&t=11)** So if you think about when [[Cloud Computing]] came out, suddenly small companies, startups could go and create computing services that could reach millions of people without having to build their own data centers, acquire all the [[Hardware]], figure out how they were going to scale it up.
 >
 > **[0:26](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/the-impact-of-generative-ai-on-the-job-market-and-change-management-strategies?u=76281980&t=26)** They had these new building blocks they could work with.
 >
 > **[0:28](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/the-impact-of-generative-ai-on-the-job-market-and-change-management-strategies?u=76281980&t=28)** Or if you think about social media platforms, things like YouTube, and suddenly we have content creators who can go direct to these large markets, build millions of followers, make revenue off of that and they couldn't have done that before until that technological innovation happened.
 >
-> **[0:44](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/the-impact-of-generative-ai-on-the-job-market-and-change-management-strategies?u=76281980&t=44)** And what we're seeing right now is something like that, but it's in generative AI and it's really fundamentally unique because it has a lot of different implications.
+> **[0:44](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/the-impact-of-generative-ai-on-the-job-market-and-change-management-strategies?u=76281980&t=44)** And what we're seeing right now is something like that, but it's in [[Generative AI]] and it's really fundamentally unique because it has a lot of different implications.
 >
 > **[0:51](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/the-impact-of-generative-ai-on-the-job-market-and-change-management-strategies?u=76281980&t=51)** One on how we do computing and allowing new people to go and compute in new ways, build apps, build computing experiences without having to know how to program.
 >
@@ -239,7 +236,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/the-impact-of-generative-ai-on-the-job-market-and-change-management-strategies?u=76281980&t=95)** He gave me the customer demographics, told about what he sells, what he was selling.
 >
-> **[1:39](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/the-impact-of-generative-ai-on-the-job-market-and-change-management-strategies?u=76281980&t=99)** And so we used ChatGPT to enhance the Facebook Marketplaces ads to be more appealing to his customer and to help him rearrange.
+> **[1:39](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/the-impact-of-generative-ai-on-the-job-market-and-change-management-strategies?u=76281980&t=99)** And so we used [[ChatGPT]] to enhance the Facebook Marketplaces ads to be more appealing to his customer and to help him rearrange.
 >
 > **[1:48](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/the-impact-of-generative-ai-on-the-job-market-and-change-management-strategies?u=76281980&t=108)** He was capturing the data, but by enhancing the ad and rearranging how he was communicating it, it's more than doubled his business.
 >
@@ -267,18 +264,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), data (2), cloud (1), [[Hardware]] (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (1), [[Hardware]] (1), [[Generative AI]] (1), [[ChatGPT]] (1)
 > **Speakers:** - there (1), - yes (1), - you (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** ceo (1)
 > **Definitions:** is a  (1)
 
-#### Preparing for generative AI: Essential change management techniques
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/preparing-for-generative-ai-essential-change-management-techniques?u=76281980)
+#### [Preparing for generative AI: Essential change management techniques](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/preparing-for-generative-ai-essential-change-management-techniques?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/preparing-for-generative-ai-essential-change-management-techniques?u=76281980&t=0)** - One of the important things in navigating this change is making sure that we use generative AI in the right way.
+> **[0:00](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/preparing-for-generative-ai-essential-change-management-techniques?u=76281980&t=0)** - One of the important things in navigating this change is making sure that we use [[Generative AI]] in the right way.
 >
 > **[0:05](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/preparing-for-generative-ai-essential-change-management-techniques?u=76281980&t=5)** And Bob showed me something really important when we got started, and that is that we can use generative AI as a private thought partner to make better decisions.
 >
@@ -286,7 +282,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/preparing-for-generative-ai-essential-change-management-techniques?u=76281980&t=20)** But I think we should really be focusing on this thought partner aspect.
 >
-> **[0:23](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/preparing-for-generative-ai-essential-change-management-techniques?u=76281980&t=23)** Because the interesting thing about generative AI is it can help us as humans explore issues, explore problems from more perspectives to explore how somebody's going to react to something and using that private thought partner to make better decisions.
+> **[0:23](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/preparing-for-generative-ai-essential-change-management-techniques?u=76281980&t=23)** Because the interesting thing about generative AI is it can help us as humans explore issues, explore problems from more perspectives to explore how somebody's going to [[React.js|react]] to something and using that private thought partner to make better decisions.
 >
 > **[0:37](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/preparing-for-generative-ai-essential-change-management-techniques?u=76281980&t=37)** That's the real opportunity in generative AI.
 >
@@ -360,7 +356,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (7), ai (2), game (2), [[React.js|React]] (1), data (1)
+> **Frameworks & Libraries:** [[Generative AI]] (7), [[React.js|React]] (1)
 > **CLI Commands:** make (6)
 > **Speakers:** - one (1), - yes (1), - you (1), - it (1)
 > **Env Vars:** ceo (2), cio (1)
@@ -369,14 +365,13 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 
-#### Introduction to the FASTER framework: Generative AI and change management
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/introduction-to-the-faster-framework-generative-ai-and-change-management?u=76281980)
+#### [Introduction to the FASTER framework: Generative AI and change management](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/introduction-to-the-faster-framework-generative-ai-and-change-management?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/introduction-to-the-faster-framework-generative-ai-and-change-management?u=76281980&t=0)** - Now we want to take a moment and walk you through the faster framework.
 >
-> **[0:04](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/introduction-to-the-faster-framework-generative-ai-and-change-management?u=76281980&t=4)** As A CEO, I wanted the ability to get this transformation to happen faster, to get to the power of generative AI quicker than I was able to do on my own.
+> **[0:04](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/introduction-to-the-faster-framework-generative-ai-and-change-management?u=76281980&t=4)** As A CEO, I wanted the ability to get this transformation to happen faster, to get to the power of [[Generative AI]] quicker than I was able to do on my own.
 >
 > **[0:14](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/introduction-to-the-faster-framework-generative-ai-and-change-management?u=76281980&t=14)** So how can we come up with a process to help leaders, to help other CEOs begin to have this transformation and navigate this change in their organization faster?
 >
@@ -394,7 +389,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/introduction-to-the-faster-framework-generative-ai-and-change-management?u=76281980&t=54)** And then the T for training.
 >
-> **[0:55](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/introduction-to-the-faster-framework-generative-ai-and-change-management?u=76281980&t=55)** How do we get that learning and development that once you've got engaged, you've got that cross-functional team, you've got the guardrails in place, now it's time to train to extend that learning and development to the rest of your organization that needs this technology.
+> **[0:55](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/introduction-to-the-faster-framework-generative-ai-and-change-management?u=76281980&t=55)** How do we get that learning and development that once you've got engaged, you've got that cross-functional team, you've got the guardrails in place, now it's time to train to extend that learning and development to the [[Representational State Transfer (REST)|rest]] of your organization that needs this technology.
 >
 > **[1:08](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/introduction-to-the-faster-framework-generative-ai-and-change-management?u=76281980&t=68)** The learning then accelerates, the change happens faster, you help them overcome their fear.
 >
@@ -418,13 +413,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (4), functional (3), power (2), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** ceo (1)
 > **Speakers:** - now (1)
 
-#### Building a foundation for generative AI with the FASTER change management framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/building-a-foundation-for-generative-ai-with-the-faster-change-management-framework?u=76281980)
+#### [Building a foundation for generative AI with the FASTER change management framework](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/building-a-foundation-for-generative-ai-with-the-faster-change-management-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -432,7 +426,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/building-a-foundation-for-generative-ai-with-the-faster-change-management-framework?u=76281980&t=4)** It's important as leaders that we're bought into the change.
 >
-> **[0:07](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/building-a-foundation-for-generative-ai-with-the-faster-change-management-framework?u=76281980&t=7)** This generative AI moment is not for your CTO, your CIO, it's for you, the CEO.
+> **[0:07](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/building-a-foundation-for-generative-ai-with-the-faster-change-management-framework?u=76281980&t=7)** This [[Generative AI]] moment is not for your CTO, your CIO, it's for you, the CEO.
 >
 > **[0:13](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/building-a-foundation-for-generative-ai-with-the-faster-change-management-framework?u=76281980&t=13)** It's for you, the leader of your team.
 >
@@ -472,14 +466,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (6), [[Generative AI]] (3)
+> **Frameworks & Libraries:** [[Generative AI]] (3)
 > **Env Vars:** cto (1), cio (1), ceo (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - now (1)
 
-#### Aligning your team with generative AI: A change management approach
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/aligning-your-team-with-generative-ai-a-change-management-approach?u=76281980)
+#### [Aligning your team with generative AI: A change management approach](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/aligning-your-team-with-generative-ai-a-change-management-approach?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -487,7 +480,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/aligning-your-team-with-generative-ai-a-change-management-approach?u=76281980&t=6)** - You know, before we go into this, I want to take a moment to talk about what buy-in really means and talk about this foundation and modeling what you want as a leader.
 >
-> **[0:15](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/aligning-your-team-with-generative-ai-a-change-management-approach?u=76281980&t=15)** Now, I've seen this in Bob as the CEO, but I've seen it in the leadership at Vanderbilt as well and how they've approached generative AI and actually educating and using generative AI directly, from the Chancellor's Office all the way down to deans and individual department chairs.
+> **[0:15](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/aligning-your-team-with-generative-ai-a-change-management-approach?u=76281980&t=15)** Now, I've seen this in Bob as the CEO, but I've seen it in the leadership at Vanderbilt as well and how they've approached [[Generative AI]] and actually educating and using generative AI directly, from the Chancellor's [[Microsoft Office|Office]] all the way down to deans and individual department chairs.
 >
 > **[0:29](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/aligning-your-team-with-generative-ai-a-change-management-approach?u=76281980&t=29)** But the key thing is, is imagine if you're going to tell your employees about how to drive and what car to buy but you yourself have never actually driven a car or shifted gears or changed the radio.
 >
@@ -521,7 +514,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/aligning-your-team-with-generative-ai-a-change-management-approach?u=76281980&t=133)** - Yeah, it's really important that you get a diversity of perspectives on what are the issues and how you're going to approach them.
 >
-> **[2:18](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/aligning-your-team-with-generative-ai-a-change-management-approach?u=76281980&t=138)** At Vanderbilt, we've actually formed groups that include everybody from the Information Technology group to HR, to the Office of Faculty Affairs, to the Chancellor's Office, to Cybersecurity, to Finance.
+> **[2:18](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/aligning-your-team-with-generative-ai-a-change-management-approach?u=76281980&t=138)** At Vanderbilt, we've actually formed groups that include everybody from the Information Technology group to HR, to the Office of Faculty Affairs, to the Chancellor's Office, to [[Cybersecurity]], to Finance.
 >
 > **[2:32](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/aligning-your-team-with-generative-ai-a-change-management-approach?u=76281980&t=152)** Because you need all of these perspectives.
 >
@@ -555,14 +548,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (6), functional (5), [[Microsoft Office|Office]] (3), ai (2), hr (2)
+> **Frameworks & Libraries:** [[Generative AI]] (6), [[Microsoft Office|Office]] (3), [[Cybersecurity]] (1)
 > **Speakers:** - now (1), - you (1), - right (1), - yeah (1), - that (1)
 > **Env Vars:** ceo (2), faster (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1)
 
-#### Bridging the gap: Integrating generative AI into change management processes
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/bridging-the-gap-integrating-generative-ai-into-change-management-processes?u=76281980)
+#### [Bridging the gap: Integrating generative AI into change management processes](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/bridging-the-gap-integrating-generative-ai-into-change-management-processes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -580,7 +572,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/bridging-the-gap-integrating-generative-ai-into-change-management-processes?u=76281980&t=46)** You get to see how the customers are interacting with this team and those interactions.
 >
-> **[0:50](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/bridging-the-gap-integrating-generative-ai-into-change-management-processes?u=76281980&t=50)** I think this is a beautiful moment for CEOs to help you get better connected to the work, that generative AI could make us all better as leaders and have more interaction that we yearn for.
+> **[0:50](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/bridging-the-gap-integrating-generative-ai-into-change-management-processes?u=76281980&t=50)** I think this is a beautiful moment for CEOs to help you get better connected to the work, that [[Generative AI]] could make us all better as leaders and have more interaction that we yearn for.
 >
 > **[1:02](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/bridging-the-gap-integrating-generative-ai-into-change-management-processes?u=76281980&t=62)** Most CEOs I've talked to want to get out there.
 >
@@ -590,7 +582,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/bridging-the-gap-integrating-generative-ai-into-change-management-processes?u=76281980&t=71)** But this bridging the gap opportunity is real, that when you create the team, you can see closer what's really happening and how it's working.
 >
-> **[1:19](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/bridging-the-gap-integrating-generative-ai-into-change-management-processes?u=76281980&t=79)** The next part of this is, not just the diversity of the team, but what's their decision-making authority?
+> **[1:19](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/bridging-the-gap-integrating-generative-ai-into-change-management-processes?u=76281980&t=79)** The next part of this is, not just the diversity of the team, but what's their [[Decision-Making]] authority?
 >
 > **[1:24](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/bridging-the-gap-integrating-generative-ai-into-change-management-processes?u=76281980&t=84)** That once you've created the team, you've got that diverse team around, you're closing that gap, it's important as leaders that we give this team some authority, that they have some control of where they're going, they've got a budget, they can make those decisions, they can pick some initiatives, they can make it happen.
 >
@@ -610,14 +602,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (2), leadership (1), [[Generative AI]] (1), next (1), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[Decision-Making]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** ceo (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - now (1)
 
-#### Safeguarding change management with generative AI and the FASTER framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/safeguarding-change-management-with-generative-ai-and-the-faster-framework?u=76281980)
+#### [Safeguarding change management with generative AI and the FASTER framework](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/safeguarding-change-management-with-generative-ai-and-the-faster-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -625,7 +616,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/safeguarding-change-management-with-generative-ai-and-the-faster-framework?u=76281980&t=3)** And we hear it a lot, Jules.
 >
-> **[0:05](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/safeguarding-change-management-with-generative-ai-and-the-faster-framework?u=76281980&t=5)** We need guardrails around the generative AI.
+> **[0:05](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/safeguarding-change-management-with-generative-ai-and-the-faster-framework?u=76281980&t=5)** We need guardrails around the [[Generative AI]].
 >
 > **[0:07](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/safeguarding-change-management-with-generative-ai-and-the-faster-framework?u=76281980&t=7)** We need to manage the risk, we need to be responsible that we have ethical use within our organizations.
 >
@@ -639,7 +630,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/safeguarding-change-management-with-generative-ai-and-the-faster-framework?u=76281980&t=35)** - Absolutely, and I think we have to be cognizant of really carefully guarding against how it's used, but not going so far that we end up, you know, inhibiting people's ability to go and explore topics, to understand the information behind it.
 >
-> **[0:49](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/safeguarding-change-management-with-generative-ai-and-the-faster-framework?u=76281980&t=49)** If we think about what happened at the beginning, when ChatGPT came out, a lot of organizations went and said, "We've banned it.
+> **[0:49](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/safeguarding-change-management-with-generative-ai-and-the-faster-framework?u=76281980&t=49)** If we think about what happened at the beginning, when [[ChatGPT]] came out, a lot of organizations went and said, "We've banned it.
 >
 > **[0:55](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/safeguarding-change-management-with-generative-ai-and-the-faster-framework?u=76281980&t=55)** You can't do anything with it."
 >
@@ -665,7 +656,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/safeguarding-change-management-with-generative-ai-and-the-faster-framework?u=76281980&t=132)** - That's a great point, Jules.
 >
-> **[2:14](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/safeguarding-change-management-with-generative-ai-and-the-faster-framework?u=76281980&t=134)** In steering this ship through these uncharted waters, our compass cannot be fear, but it's got to be foresight, responsibility, and ethical leadership.
+> **[2:14](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/safeguarding-change-management-with-generative-ai-and-the-faster-framework?u=76281980&t=134)** In steering this ship through these uncharted waters, our compass cannot be fear, but it's got to be foresight, responsibility, and [[Ethical Leadership]].
 >
 > **[2:23](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/safeguarding-change-management-with-generative-ai-and-the-faster-framework?u=76281980&t=143)** But by establishing some robust safeguards that fit us, that aren't too constrictive, that does exactly what you're saying, allow our employees take it and use it on their own, which is not what we want.
 >
@@ -677,25 +668,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (2), data (2), [[ChatGPT]] (2), [[Ethical Leadership]] (2), ai (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[ChatGPT]] (2), [[Ethical Leadership]] (2)
 > **Speakers:** - now (1), - absolutely (1), - that (1)
 > **Env Vars:** faster (1)
 > **Analogies:** kind of like (1)
 
-#### Training for change: Leveraging generative AI in the FASTER management framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/training-for-change-leveraging-generative-ai-in-the-faster-management-framework?u=76281980)
+#### [Training for change: Leveraging generative AI in the FASTER management framework](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/training-for-change-leveraging-generative-ai-in-the-faster-management-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/training-for-change-leveraging-generative-ai-in-the-faster-management-framework?u=76281980&t=0)** - Training, empowering through education, that after you have the leadership bought in, you've created the cross-functional team, you're building that alignment.
 >
-> **[0:08](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/training-for-change-leveraging-generative-ai-in-the-faster-management-framework?u=76281980&t=8)** You've put your safeguards, your guardrails in place that you need, now it's incumbent on us as leaders, to continue to tackle that fear in the organization by extending the learning and development opportunity to the rest of the folks that need it.
+> **[0:08](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/training-for-change-leveraging-generative-ai-in-the-faster-management-framework?u=76281980&t=8)** You've put your safeguards, your guardrails in place that you need, now it's incumbent on us as leaders, to continue to tackle that fear in the organization by extending the learning and development opportunity to the [[Representational State Transfer (REST)|rest]] of the folks that need it.
 >
 > **[0:21](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/training-for-change-leveraging-generative-ai-in-the-faster-management-framework?u=76281980&t=21)** Many of you, you're large companies, you have a learning management system.
 >
 > **[0:24](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/training-for-change-leveraging-generative-ai-in-the-faster-management-framework?u=76281980&t=24)** You can start to program in some of that training into that module, or you're here on the Coursera platform.
 >
-> **[0:30](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/training-for-change-leveraging-generative-ai-in-the-faster-management-framework?u=76281980&t=30)** Listening to Jules and I now, you can extend this platform to more of your people that need it, whether it's across large language models, generative AI, it's across machine learning, or even data analytics.
+> **[0:30](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/training-for-change-leveraging-generative-ai-in-the-faster-management-framework?u=76281980&t=30)** Listening to Jules and I now, you can extend this platform to more of your people that need it, whether it's across [[Large Language Models (LLM)|large language models]], [[Generative AI]], it's across machine learning, or even data analytics.
 >
 > **[0:42](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/training-for-change-leveraging-generative-ai-in-the-faster-management-framework?u=76281980&t=42)** It's important that we put these tools in the rest of the folks' hands that need 'em.
 >
@@ -741,12 +731,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (4), [[Representational State Transfer (REST)|Rest]] (2), leadership (1), functional (1), management (1)
+> **Frameworks & Libraries:** [[Generative AI]] (4), [[Representational State Transfer (REST)|Rest]] (2), [[Large Language Models (LLM)|Large language models]] (1)
 > **Speakers:** - training (1), - absolutely (1), - so (1)
 > **Definitions:** is a  (2)
 
-#### Evolving change management practices with generative AI and the FASTER framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/evolving-change-management-practices-with-generative-ai-and-the-faster-framework?u=76281980)
+#### [Evolving change management practices with generative AI and the FASTER framework](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/evolving-change-management-practices-with-generative-ai-and-the-faster-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -754,7 +743,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/evolving-change-management-practices-with-generative-ai-and-the-faster-framework?u=76281980&t=4)** We're cultivating a culture of continuous innovation.
 >
-> **[0:07](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/evolving-change-management-practices-with-generative-ai-and-the-faster-framework?u=76281980&t=7)** Jules, 2024 is the moment, it's the year where every company becomes a tech company because of Generative AI.
+> **[0:07](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/evolving-change-management-practices-with-generative-ai-and-the-faster-framework?u=76281980&t=7)** Jules, 2024 is the moment, it's the year where every company becomes a tech company because of [[Generative AI]].
 >
 > **[0:15](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/evolving-change-management-practices-with-generative-ai-and-the-faster-framework?u=76281980&t=15)** It's a universally applicable technology that's going to impact every business small, medium or large.
 >
@@ -812,7 +801,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/evolving-change-management-practices-with-generative-ai-and-the-faster-framework?u=76281980&t=132)** Execute it and it can give us the result.
 >
-> **[2:14](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/evolving-change-management-practices-with-generative-ai-and-the-faster-framework?u=76281980&t=134)** So individual people within an office can go and on the fly, build totally new software solutions that they need right at that moment to solve that problem.
+> **[2:14](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/evolving-change-management-practices-with-generative-ai-and-the-faster-framework?u=76281980&t=134)** So individual people within an [[Microsoft Office|office]] can go and on the fly, build totally new software solutions that they need right at that moment to solve that problem.
 >
 > **[2:24](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/evolving-change-management-practices-with-generative-ai-and-the-faster-framework?u=76281980&t=144)** And what's interesting is, they can do it so quickly that the software itself isn't even really even IP anymore.
 >
@@ -840,19 +829,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (8), next (4), business (2), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (8), [[Microsoft Office|Office]] (1)
 > **Speakers:** - now (1), - there (1), - if (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** gui (1)
 > **Cross-References:** coming up (1)
 > **Definitions:** is a  (1)
 
-#### Replicating success: Generative AI in the FASTER change management framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/replicating-success-generative-ai-in-the-faster-change-management-framework?u=76281980)
+#### [Replicating success: Generative AI in the FASTER change management framework](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/replicating-success-generative-ai-in-the-faster-change-management-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/replicating-success-generative-ai-in-the-faster-change-management-framework?u=76281980&t=0)** - Now, to bring our faster framework home with replication, broadening your horizons, scaling for success, that this journey through generative AI and innovation doesn't end with a single success.
+> **[0:00](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/replicating-success-generative-ai-in-the-faster-change-management-framework?u=76281980&t=0)** - Now, to bring our faster framework home with replication, broadening your horizons, scaling for success, that this journey through [[Generative AI]] and innovation doesn't end with a single success.
 >
 > **[0:11](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/replicating-success-generative-ai-in-the-faster-change-management-framework?u=76281980&t=11)** It's about taking that triumph, replicating it, broadening our horizons to scale the success now across our entire organization that it involves from these isolated victories within our overall cross-functional team to widespread transformation.
 >
@@ -862,7 +850,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/replicating-success-generative-ai-in-the-faster-change-management-framework?u=76281980&t=31)** One of the things you see is that the early adopters are the ones that come in and they start building things.
 >
-> **[0:36](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/replicating-success-generative-ai-in-the-faster-change-management-framework?u=76281980&t=36)** But what happens is, is within their individual disciplines, they go and show how you can take it and really transform a particular office, or discipline, or activity and make it more real and more communicable to the people that are around them, so that the people around them can see, "This is what I can do that can directly affect my day-to-day work."
+> **[0:36](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/replicating-success-generative-ai-in-the-faster-change-management-framework?u=76281980&t=36)** But what happens is, is within their individual disciplines, they go and show how you can take it and really transform a particular [[Microsoft Office|office]], or discipline, or activity and make it more real and more communicable to the people that are around them, so that the people around them can see, "This is what I can do that can directly affect my day-to-day work."
 >
 > **[0:55](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/replicating-success-generative-ai-in-the-faster-change-management-framework?u=76281980&t=55)** As opposed to seeing something that's maybe an example that's too far removed from what they do on a daily basis.
 >
@@ -910,21 +898,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (3), data (3), functional (1), [[Microsoft Office|Office]] (1), teams (1)
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[Microsoft Office|Office]] (1)
 > **Speakers:** - now (1), - absolutely (1), - right (1)
 > **Env Vars:** roi (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** coming up (1)
 > **Definitions:** is a  (1)
 
-#### Establishing urgency for generative AI in change management
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/establishing-urgency-for-generative-ai-in-change-management?u=76281980)
+#### [Establishing urgency for generative AI in change management](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/establishing-urgency-for-generative-ai-in-change-management?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/establishing-urgency-for-generative-ai-in-change-management?u=76281980&t=0)** - Jules, we have given the team here a lot to think about on how to make these efforts successful from understanding technology advances in the past, to leveraging and helping overcome the fear our teams may have, walking 'em through a faster framework, but what can go wrong?
 >
-> **[0:15](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/establishing-urgency-for-generative-ai-in-change-management?u=76281980&t=15)** One of the things, you know that I read an article that John Carter wrote years ago about why transformation or change efforts fail.
+> **[0:15](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/establishing-urgency-for-generative-ai-in-change-management?u=76281980&t=15)** One of the things, you know that I read an article that [[John the Ripper|John]] Carter wrote years ago about why transformation or change efforts fail.
 >
 > **[0:21](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/establishing-urgency-for-generative-ai-in-change-management?u=76281980&t=21)** He said one of 'em is not establishing a great enough sense of urgency, that you get too comfortable, that you're moving along and the team doesn't understand why this initiative is important.
 >
@@ -952,15 +939,15 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/establishing-urgency-for-generative-ai-in-change-management?u=76281980&t=79)** Because we are moving so fast.
 >
-> **[1:21](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/establishing-urgency-for-generative-ai-in-change-management?u=76281980&t=81)** I've seen it over and over where we have companies that are, that we say, well, we're leaders in computer vision, but then they don't really understand that things like GPT-4 Vision and Google Gemini and all these other generative AI models that can understand video and imagery can actually do things more advanced than what they're doing today.
+> **[1:21](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/establishing-urgency-for-generative-ai-in-change-management?u=76281980&t=81)** I've seen it over and over where we have companies that are, that we say, well, we're leaders in [[Computer Vision]], but then they don't really understand that things like [[GPT-4]] Vision and [[Google Gemini]] and all these other [[Generative AI]] models that can understand video and imagery can actually do things more advanced than what they're doing today.
 >
-> **[1:37](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/establishing-urgency-for-generative-ai-in-change-management?u=76281980&t=97)** Or they're working with natural language processing.
+> **[1:37](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/establishing-urgency-for-generative-ai-in-change-management?u=76281980&t=97)** Or they're working with [[Natural Language Processing (NLP)|natural language processing]].
 >
 > **[1:40](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/establishing-urgency-for-generative-ai-in-change-management?u=76281980&t=100)** But it also extends to things that we don't normally think of as tech.
 >
 > **[1:43](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/establishing-urgency-for-generative-ai-in-change-management?u=76281980&t=103)** So for example, consulting.
 >
-> **[1:44](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/establishing-urgency-for-generative-ai-in-change-management?u=76281980&t=104)** I've seen examples where people have told me, you know, we think that generative AI can give us the data governance plan or the advice that we need as well as external consultants can.
+> **[1:44](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/establishing-urgency-for-generative-ai-in-change-management?u=76281980&t=104)** I've seen examples where people have told me, you know, we think that generative AI can give us the [[Data Governance]] plan or the advice that we need as well as external consultants can.
 >
 > **[1:54](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/establishing-urgency-for-generative-ai-in-change-management?u=76281980&t=114)** So if you're a consulting company and you're thinking, well, we can keep selling the same things, you're probably in for a rude awakening when suddenly your clients are going and they're using generative AI to give them the advice on that.
 >
@@ -1038,9 +1025,9 @@ created: 2026-05-02
 >
 > **[5:37](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/establishing-urgency-for-generative-ai-in-change-management?u=76281980&t=337)** So finding ways to collect all of those ideas, all those innovations to bring them together.
 >
-> **[5:42](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/establishing-urgency-for-generative-ai-in-change-management?u=76281980&t=342)** Within Vanderbilt in the Office of Faculty Affairs, they've developed a single webpage that is a portal to what is going on within generative AI at Vanderbilt.
+> **[5:42](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/establishing-urgency-for-generative-ai-in-change-management?u=76281980&t=342)** Within Vanderbilt in the [[Microsoft Office|Office]] of Faculty Affairs, they've developed a single webpage that is a portal to what is going on within generative AI at Vanderbilt.
 >
-> **[5:51](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/establishing-urgency-for-generative-ai-in-change-management?u=76281980&t=351)** And they collect workshops and data science within the Robert Penn Warren Center on generative AI and lots of trainings that people have options to go to.
+> **[5:51](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/establishing-urgency-for-generative-ai-in-change-management?u=76281980&t=351)** And they collect workshops and [[Data Science]] within the Robert Penn Warren Center on generative AI and lots of trainings that people have options to go to.
 >
 > **[6:00](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/establishing-urgency-for-generative-ai-in-change-management?u=76281980&t=360)** But also we have things like tools that are available.
 >
@@ -1094,7 +1081,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (10), teams (2), [[Computer Vision]] (2), data (2), functional (2)
+> **Frameworks & Libraries:** [[Generative AI]] (10), [[Computer Vision]] (2), [[Microsoft Office|Office]] (2), [[John the Ripper|John]] (1), [[GPT-4]] (1)
 > **CLI Commands:** make (6)
 > **Speakers:** - jules (1), - absolutely (1), - right (1), - you (1), - great (1)
 > **Analogies:** for example (2), kind of like (1), just like (1)
@@ -1103,8 +1090,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 
-#### Preparing employees for change with generative AI and effective change management
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/preparing-employees-for-change-with-generative-ai-and-effective-change-management?u=76281980)
+#### [Preparing employees for change with generative AI and effective change management](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/preparing-employees-for-change-with-generative-ai-and-effective-change-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1200,13 +1186,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (2), business (2), data (1), [[Engineering]] (1), management (1)
 > **Speakers:** - we (1), - right (1), - so (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 
-#### Closing insights: Generative AI and change management for future leaders
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/closing-insights-generative-ai-and-change-management-for-future-leaders?u=76281980)
+#### [Closing insights: Generative AI and change management for future leaders](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/closing-insights-generative-ai-and-change-management-for-future-leaders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1220,11 +1204,11 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/closing-insights-generative-ai-and-change-management-for-future-leaders?u=76281980&t=24)** - I hope that by Using these tools that we've provided, you can transform that fear that people have into excitement, excitement to do new things in their job that they never thought were possible, and to really make people excited about what's around the corner rather than fearful about the what's around the corner that they can't see.
 >
-> **[0:41](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/closing-insights-generative-ai-and-change-management-for-future-leaders?u=76281980&t=41)** So we hope that you'll use this framework to make your employees excited, that you'll use this framework to help your organization succeed in the future, and you will experience the incredible potential of generative AI that we have seen.
+> **[0:41](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/closing-insights-generative-ai-and-change-management-for-future-leaders?u=76281980&t=41)** So we hope that you'll use this framework to make your employees excited, that you'll use this framework to help your organization succeed in the future, and you will experience the incredible potential of [[Generative AI]] that we have seen.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - thank (1), - i (1)
 

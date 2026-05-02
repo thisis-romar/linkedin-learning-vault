@@ -110,8 +110,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome to this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/welcome-to-this-course?u=76281980)
+#### [Welcome to this course](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/welcome-to-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -127,11 +126,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), data (6)
 > **Speakers:** - [dan] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -145,15 +142,15 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/what-you-should-know?u=76281980&t=20)** And I also assume that you have some experience working with various types of data in different organizations and enterprises.
 >
-> **[0:27](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/what-you-should-know?u=76281980&t=27)** So if you've worked with spreadsheets or databases, then you have plenty of experience with regards to working with data.
+> **[0:27](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/what-you-should-know?u=76281980&t=27)** So if you've worked with spreadsheets or [[Databases]], then you have plenty of experience with regards to working with data.
 >
-> **[0:33](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/what-you-should-know?u=76281980&t=33)** And then also, I assume you are familiar with using generative AI tools.
+> **[0:33](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/what-you-should-know?u=76281980&t=33)** And then also, I assume you are familiar with using [[Generative AI Tools]].
 >
-> **[0:37](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/what-you-should-know?u=76281980&t=37)** So if you've worked with say, Open AI's Chat GPT or Google's Gemini, then you have sufficient experience with generative AI tools for this course.
+> **[0:37](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/what-you-should-know?u=76281980&t=37)** So if you've worked with say, Open AI's Chat GPT or [[Google]]'s [[Gemini]], then you have sufficient experience with generative AI tools for this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), data (3), [[Generative AI Tools]] (2), [[Databases]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Generative AI Tools]] (2), [[Databases]] (1), [[Google]] (1), [[Gemini]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** gpt (1)
 > **Definitions:** is a  (1)
@@ -165,8 +162,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data exploration and initial quality assessment
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/data-exploration-and-initial-quality-assessment?u=76281980)
+#### [Data exploration and initial quality assessment](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/data-exploration-and-initial-quality-assessment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -174,9 +170,9 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/data-exploration-and-initial-quality-assessment?u=76281980&t=6)** And the reason we do this is because data exploration helps us reveal hidden patterns, relationships, and potentially anomalies in our datasets.
 >
-> **[0:15](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/data-exploration-and-initial-quality-assessment?u=76281980&t=15)** Now we use data exploration to identify data quality issues that could undermine our AI model's performance.
+> **[0:15](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/data-exploration-and-initial-quality-assessment?u=76281980&t=15)** Now we use data exploration to identify [[Data Quality]] issues that could undermine our AI model's performance.
 >
-> **[0:21](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/data-exploration-and-initial-quality-assessment?u=76281980&t=21)** But it's also useful because data exploration can inform both feature engineering and feature selection decisions.
+> **[0:21](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/data-exploration-and-initial-quality-assessment?u=76281980&t=21)** But it's also useful because data exploration can inform both [[Feature Engineering]] and feature selection decisions.
 >
 > **[0:29](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/data-exploration-and-initial-quality-assessment?u=76281980&t=29)** And then the overall benefit of data exploration is that it really helps us reduce project risks.
 >
@@ -184,7 +180,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/data-exploration-and-initial-quality-assessment?u=76281980&t=40)** Now some common data quality issues to watch out for are missing data.
 >
-> **[0:44](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/data-exploration-and-initial-quality-assessment?u=76281980&t=44)** Now we see this in the forms of incomplete records, for example, records that have empty fields or null values.
+> **[0:44](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/data-exploration-and-initial-quality-assessment?u=76281980&t=44)** Now we see this in the [[Forms]] of incomplete records, for example, records that have empty fields or null values.
 >
 > **[0:50](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/data-exploration-and-initial-quality-assessment?u=76281980&t=50)** We can also have issues with inconsistent formats.
 >
@@ -216,7 +212,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/data-exploration-and-initial-quality-assessment?u=76281980&t=114)** Now there are several key components of data exploration.
 >
-> **[1:58](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/data-exploration-and-initial-quality-assessment?u=76281980&t=118)** The first is descriptive statistics.
+> **[1:58](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/data-exploration-and-initial-quality-assessment?u=76281980&t=118)** The first is descriptive [[Statistics]].
 >
 > **[2:01](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/data-exploration-and-initial-quality-assessment?u=76281980&t=121)** Now we're going to use descriptive statistics to provide us with key metrics like mean, median, range, and quantiles.
 >
@@ -240,7 +236,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/data-exploration-and-initial-quality-assessment?u=76281980&t=184)** Visual exploration is really useful because it uses things like histograms, scatter plots, box plots, and correlation matrices to help us quickly identify key characteristics of the distribution of our data.
 >
-> **[3:17](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/data-exploration-and-initial-quality-assessment?u=76281980&t=197)** We also want to use automated profiling tools like Pandas Profiling or Great Expectations, which are widely used in Python.
+> **[3:17](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/data-exploration-and-initial-quality-assessment?u=76281980&t=197)** We also want to use automated profiling tools like [[Pandas (Software)|Pandas]] Profiling or Great Expectations, which are widely used in [[Python (Programming Language)|Python]].
 >
 > **[3:23](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/data-exploration-and-initial-quality-assessment?u=76281980&t=203)** Now sampling techniques can help us be more efficient and do our exploration faster when we're working with very large datasets.
 >
@@ -266,7 +262,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (27), feature (2), [[Statistics]] (2), ai (1), [[Feature Engineering]] (1)
+> **Frameworks & Libraries:** [[Data Quality]] (9), [[Statistics]] (2), [[Feature Engineering]] (1), [[Forms]] (1), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** make (7), find (2), python (1)
 > **Analogies:** for example (6)
 > **Warnings:** watch out (3), be careful (1)
@@ -274,18 +270,17 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Detecting and managing missing data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/detecting-and-managing-missing-data?u=76281980)
+#### [Detecting and managing missing data](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/detecting-and-managing-missing-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/detecting-and-managing-missing-data?u=76281980&t=0)** - [Instructor] Now when we're interested in detecting and managing missing data, we want to start with a dataset overview analysis.
 >
-> **[0:06](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/detecting-and-managing-missing-data?u=76281980&t=6)** Now, in this process, we're going to do things like calculating key metadata about our data.
+> **[0:06](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/detecting-and-managing-missing-data?u=76281980&t=6)** Now, in this process, we're going to do things like calculating key [[Metadata]] about our data.
 >
 > **[0:11](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/detecting-and-managing-missing-data?u=76281980&t=11)** These include metrics like record count, column count and the time range that our dataset covers.
 >
-> **[0:17](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/detecting-and-managing-missing-data?u=76281980&t=17)** We also want to identify data types across the different columns, that will inform the kinds of statistical analysis that we will do.
+> **[0:17](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/detecting-and-managing-missing-data?u=76281980&t=17)** We also want to identify data types across the different columns, that will inform the kinds of [[Statistical Analysis]] that we will do.
 >
 > **[0:25](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/detecting-and-managing-missing-data?u=76281980&t=25)** We also want to determine the overall data completeness and come up with some quality metrics.
 >
@@ -311,7 +306,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/detecting-and-managing-missing-data?u=76281980&t=90)** Now, depending on the data type that we're working with, we may have different operations that we perform.
 >
-> **[1:36](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/detecting-and-managing-missing-data?u=76281980&t=96)** So for example, with numeric columns, we want to calculate core statistics, like the mean, which is the average, the median, which is the sort of the halfway mark in the values if you order the values from smallest to largest, the median is the halfway mark.
+> **[1:36](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/detecting-and-managing-missing-data?u=76281980&t=96)** So for example, with numeric columns, we want to calculate core [[Statistics]], like the mean, which is the average, the median, which is the sort of the halfway mark in the values if you order the values from smallest to largest, the median is the halfway mark.
 >
 > **[1:52](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/detecting-and-managing-missing-data?u=76281980&t=112)** Median and mean are used in different cases, mean we use when we're working with normally distributed or bell-shaped curve data, median we work with when we are working with non-normally distributed data.
 >
@@ -357,7 +352,7 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/detecting-and-managing-missing-data?u=76281980&t=238)** It often helps to eliminate one or more redundant features when we're building machine learning models.
 >
-> **[4:03](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/detecting-and-managing-missing-data?u=76281980&t=243)** Now, correlation analysis is also useful for helping us detect counterintuitive correlations, 'cause again, this might be a signal that we either have data quality issues in our source system or in our data-processing pipeline.
+> **[4:03](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/detecting-and-managing-missing-data?u=76281980&t=243)** Now, correlation analysis is also useful for helping us detect counterintuitive correlations, 'cause again, this might be a signal that we either have [[Data Quality]] issues in our source system or in our data-processing pipeline.
 >
 > **[4:17](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/detecting-and-managing-missing-data?u=76281980&t=257)** And in general, basically this kind of correlation analysis can help support feature selection decisions.
 >
@@ -371,24 +366,23 @@ created: 2026-05-02
 >
 > **[5:00](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/detecting-and-managing-missing-data?u=76281980&t=300)** And we do that based on distribution analysis.
 >
-> **[5:03](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/detecting-and-managing-missing-data?u=76281980&t=303)** And then finally, we want to be able to recommend feature engineering opportunities.
+> **[5:03](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/detecting-and-managing-missing-data?u=76281980&t=303)** And then finally, we want to be able to recommend [[Feature Engineering]] opportunities.
 >
 > **[5:07](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/detecting-and-managing-missing-data?u=76281980&t=307)** And these basically kind of show themselves based on the statistical analysis that we have done.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), [[Statistics]] (3), [[Statistical Analysis]] (2), [[Metadata]] (1), feature (1)
+> **Frameworks & Libraries:** [[Statistics]] (3), [[Statistical Analysis]] (2), [[Data Quality]] (2), [[Metadata]] (1), [[Feature Engineering]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Detecting and managing outliers
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/detecting-and-managing-outliers?u=76281980)
+#### [Detecting and managing outliers](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/detecting-and-managing-outliers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/detecting-and-managing-outliers?u=76281980&t=0)** - [Instructor] One of the steps in data preparation is understanding outliers.
+> **[0:00](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/detecting-and-managing-outliers?u=76281980&t=0)** - [Instructor] One of the steps in [[Data Preparation]] is understanding outliers.
 >
 > **[0:03](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/detecting-and-managing-outliers?u=76281980&t=3)** Outliers represent atypical records that deviate from normal patterns.
 >
@@ -400,7 +394,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/detecting-and-managing-outliers?u=76281980&t=29)** There could be data errors.
 >
-> **[0:30](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/detecting-and-managing-outliers?u=76281980&t=30)** For example, we might have data quality issues in our point of sales systems.
+> **[0:30](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/detecting-and-managing-outliers?u=76281980&t=30)** For example, we might have [[Data Quality]] issues in our point of sales systems.
 >
 > **[0:35](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/detecting-and-managing-outliers?u=76281980&t=35)** There's also the potential for fraud.
 >
@@ -432,7 +426,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/detecting-and-managing-outliers?u=76281980&t=111)** We also have the potential for excessive unit prices.
 >
-> **[1:54](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/detecting-and-managing-outliers?u=76281980&t=114)** So for example, we might want to look for products priced above $500, which might exceed typical retail price ranges.
+> **[1:54](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/detecting-and-managing-outliers?u=76281980&t=114)** So for example, we might want to look for [[Microsoft Products|products]] priced above $500, which might exceed typical retail price ranges.
 >
 > **[2:01](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/detecting-and-managing-outliers?u=76281980&t=121)** We also might want to look for high transaction totals.
 >
@@ -454,11 +448,11 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/detecting-and-managing-outliers?u=76281980&t=169)** And we can rank our transactions by their outlier score.
 >
-> **[2:52](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/detecting-and-managing-outliers?u=76281980&t=172)** And also we can output detailed statistics, for example, on the percentage of outliers found by each method.
+> **[2:52](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/detecting-and-managing-outliers?u=76281980&t=172)** And also we can output detailed [[Statistics]], for example, on the percentage of outliers found by each method.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), product (1), [[Microsoft Products|Products]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Data Preparation]] (1), [[Data Quality]] (1), [[Microsoft Products|Products]] (1), [[Statistics]] (1)
 > **Analogies:** for example (6)
 > **Env Vars:** irq (1), dbscan (1), iqr (1)
 > **Versions:** 1.5 (1)
@@ -466,8 +460,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Assess data quality of a dataset
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/challenge-assess-data-quality-of-a-data-set?u=76281980)
+#### [Challenge: Assess data quality of a dataset](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/challenge-assess-data-quality-of-a-data-set?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -477,12 +470,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Assess data quality of a dataset
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/solution-assess-data-quality-of-a-data-set?u=76281980)
+#### [Solution: Assess data quality of a dataset](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/solution-assess-data-quality-of-a-data-set?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -492,12 +483,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1), data (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Feature engineering: Scaling and normalizing data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/feature-engineering-scaling-and-normalizing-data?u=76281980)
+#### [Feature engineering: Scaling and normalizing data](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/feature-engineering-scaling-and-normalizing-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -505,7 +494,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/feature-engineering-scaling-and-normalizing-data?u=76281980&t=3)** This is because features with different ranges can distort model training and the predictions those models make.
 >
-> **[0:08](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/feature-engineering-scaling-and-normalizing-data?u=76281980&t=8)** Now, many machine learning algorithms rely on distance calculations, so that requires that we work with comparable scales.
+> **[0:08](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/feature-engineering-scaling-and-normalizing-data?u=76281980&t=8)** Now, many machine learning [[Algorithms]] rely on distance calculations, so that requires that we work with comparable scales.
 >
 > **[0:15](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/feature-engineering-scaling-and-normalizing-data?u=76281980&t=15)** And this is because we want to prevent large-magnitude features from really dominating the decisions that are made.
 >
@@ -541,13 +530,13 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/feature-engineering-scaling-and-normalizing-data?u=76281980&t=107)** Now, what's nice about min-max scaling is it preserves relationships among the original data points.
 >
-> **[1:53](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/feature-engineering-scaling-and-normalizing-data?u=76281980&t=113)** And it works best when we need bounded inputs, like for example, when we're working with neural networks.
+> **[1:53](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/feature-engineering-scaling-and-normalizing-data?u=76281980&t=113)** And it works best when we need bounded inputs, like for example, when we're working with [[Neural Networks]].
 >
 > **[1:58](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/feature-engineering-scaling-and-normalizing-data?u=76281980&t=118)** Now, one limitation is that min-max scaling is sensitive to outliers.
 >
 > **[2:03](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/feature-engineering-scaling-and-normalizing-data?u=76281980&t=123)** Where we might use min-max scaling is, for example, is when we're normalizing prices.
 >
-> **[2:07](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/feature-engineering-scaling-and-normalizing-data?u=76281980&t=127)** So we might have retail prices for products that might range from, say, $100 to $500, and what we really want to do is have them scaled on a scale of zero to one.
+> **[2:07](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/feature-engineering-scaling-and-normalizing-data?u=76281980&t=127)** So we might have retail prices for [[Microsoft Products|products]] that might range from, say, $100 to $500, and what we really want to do is have them scaled on a scale of zero to one.
 >
 > **[2:16](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/feature-engineering-scaling-and-normalizing-data?u=76281980&t=136)** Now, standard scaling or Z-score scaling, we use a formula, and it involves some Greek letters, so I'll walk through these each individually.
 >
@@ -599,21 +588,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Algorithms]] (5), feature (2), [[Neural Networks]] (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (5), [[Neural Networks]] (2), [[Microsoft Products|Products]] (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Feature engineering: Categorical encodings
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/feature-engineering-categorical-encodings?u=76281980)
+#### [Feature engineering: Categorical encodings](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/feature-engineering-categorical-encodings?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/feature-engineering-categorical-encodings?u=76281980&t=0)** - [Instructor] Now what aspect of feature engineering is encoding categorical variables?
+> **[0:00](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/feature-engineering-categorical-encodings?u=76281980&t=0)** - [Instructor] Now what aspect of [[Feature Engineering]] is encoding categorical variables?
 >
-> **[0:04](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/feature-engineering-categorical-encodings?u=76281980&t=4)** Now, the reason we do this is because many machine learning algorithms require numerical input data, but we often work with data that has categorical variables, so we need to convert those to numbers.
+> **[0:04](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/feature-engineering-categorical-encodings?u=76281980&t=4)** Now, the reason we do this is because many machine learning [[Algorithms]] require numerical input data, but we often work with data that has categorical variables, so we need to convert those to numbers.
 >
 > **[0:15](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/feature-engineering-categorical-encodings?u=76281980&t=15)** Now there are several different methods for encoding categorical variables into numbers, and each of them preserve different aspects of categorical relationships.
 >
@@ -625,7 +613,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/feature-engineering-categorical-encodings?u=76281980&t=42)** Now, each observation or each category value has exactly one numeral one in the binary representation.
 >
-> **[0:49](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/feature-engineering-categorical-encodings?u=76281980&t=49)** And the rest of the values are represented using zeros in binary representation.
+> **[0:49](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/feature-engineering-categorical-encodings?u=76281980&t=49)** And the [[Representational State Transfer (REST)|rest]] of the values are represented using zeros in binary representation.
 >
 > **[0:55](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/feature-engineering-categorical-encodings?u=76281980&t=55)** And one of the key things about one-hot encoding is that it doesn't impose any kind of ordinal relationship.
 >
@@ -685,15 +673,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Feature Engineering]] (1), [[Algorithms]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Feature Engineering]] (1), [[Algorithms]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (6), is called (1)
 > **Analogies:** for example (4)
 > **Warnings:** be careful (3), watch out (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Apply feature engineering to a dataset
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/challenge-apply-feature-engineering-to-a-data-set?u=76281980)
+#### [Challenge: Apply feature engineering to a dataset](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/challenge-apply-feature-engineering-to-a-data-set?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -701,12 +688,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Apply feature engineering to a dataset
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/solution-apply-feature-engineering-to-a-data-set?u=76281980)
+#### [Solution: Apply feature engineering to a dataset](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/solution-apply-feature-engineering-to-a-data-set?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -722,24 +707,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Structured vs. unstructured data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/structured-vs-unstructured-data?u=76281980)
+#### [Structured vs. unstructured data](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/structured-vs-unstructured-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/structured-vs-unstructured-data?u=76281980&t=0)** - [Narrator] There are three types of data that we work with in AI.
 >
-> **[0:03](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/structured-vs-unstructured-data?u=76281980&t=3)** They are structured, semi-structured, and unstructured data.
+> **[0:03](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/structured-vs-unstructured-data?u=76281980&t=3)** They are structured, semi-structured, and [[Unstructured Data]].
 >
-> **[0:07](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/structured-vs-unstructured-data?u=76281980&t=7)** Now each type requires different processing approaches, and that can have an impact on how we build AI solutions.
+> **[0:07](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/structured-vs-unstructured-data?u=76281980&t=7)** Now each type requires different processing approaches, and that can have an impact on how we build [[AI Solutions]].
 >
 > **[0:13](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/structured-vs-unstructured-data?u=76281980&t=13)** So understanding these differences will help us implement more effective AI initiatives.
 >
 > **[0:17](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/structured-vs-unstructured-data?u=76281980&t=17)** Now, structured data follows a relatively fixed, predefined format with a consistent schema.
 >
-> **[0:22](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/structured-vs-unstructured-data?u=76281980&t=22)** Oftentimes we'll see structured data stored in things like relational databases, spreadsheets, and CSV files where the information is stored in rows and columns.
+> **[0:22](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/structured-vs-unstructured-data?u=76281980&t=22)** Oftentimes we'll see structured data stored in things like [[Relational Databases]], spreadsheets, and CSV files where the information is stored in rows and columns.
 >
-> **[0:31](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/structured-vs-unstructured-data?u=76281980&t=31)** Now, some common examples include things like customer databases, sales transactions, and inventory systems.
+> **[0:31](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/structured-vs-unstructured-data?u=76281980&t=31)** Now, some common examples include things like customer [[Databases]], sales transactions, and inventory systems.
 >
 > **[0:38](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/structured-vs-unstructured-data?u=76281980&t=38)** The fixed fields and consistent formats make this data relatively easy to search and analyze.
 >
@@ -749,7 +733,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/structured-vs-unstructured-data?u=76281980&t=54)** It uses tags or keys that identify what each element represents.
 >
-> **[0:58](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/structured-vs-unstructured-data?u=76281980&t=58)** Now, common examples include JSON and XML files, as well as things like email headers and log files.
+> **[0:58](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/structured-vs-unstructured-data?u=76281980&t=58)** Now, common examples include [[JSON]] and XML files, as well as things like email headers and log files.
 >
 > **[1:05](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/structured-vs-unstructured-data?u=76281980&t=65)** The data often has a hierarchical organization with parent-child relationships, and this ability to combine simple values with more complex nested elements like arrays, offers a lot of flexibility for representing varied kinds of information needs.
 >
@@ -765,23 +749,23 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/structured-vs-unstructured-data?u=76281980&t=103)** So for example, understanding sarcasm in a customer feedback form requires contextual awareness.
 >
-> **[1:49](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/structured-vs-unstructured-data?u=76281980&t=109)** Also, when working with unstructured data, a good portion of the data preparation for AI is focused on extracting specific features of unstructured data to make it more usable for analysis.
+> **[1:49](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/structured-vs-unstructured-data?u=76281980&t=109)** Also, when working with unstructured data, a good portion of the [[Data Preparation]] for AI is focused on extracting specific features of unstructured data to make it more usable for analysis.
 >
-> **[2:01](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/structured-vs-unstructured-data?u=76281980&t=121)** Structured data and semi-structured data works well with traditional database querying using SQL and NoSQL query languages.
+> **[2:01](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/structured-vs-unstructured-data?u=76281980&t=121)** Structured data and semi-structured data works well with traditional database querying using [[SQL]] and [[NoSQL]] query languages.
 >
-> **[2:09](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/structured-vs-unstructured-data?u=76281980&t=129)** It's also amenable to statistical analysis and traditional machine learning algorithms that expect tabular data.
+> **[2:09](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/structured-vs-unstructured-data?u=76281980&t=129)** It's also amenable to [[Statistical Analysis]] and traditional machine learning [[Algorithms]] that expect tabular data.
 >
 > **[2:16](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/structured-vs-unstructured-data?u=76281980&t=136)** Now, unstructured data requires specialized processing techniques.
 >
-> **[2:20](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/structured-vs-unstructured-data?u=76281980&t=140)** Text, for example, needs natural language processing while computer vision algorithms are needed for dealing with images.
+> **[2:20](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/structured-vs-unstructured-data?u=76281980&t=140)** Text, for example, needs [[Natural Language Processing (NLP)|natural language processing]] while [[Computer Vision]] algorithms are needed for dealing with images.
 >
 > **[2:27](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/structured-vs-unstructured-data?u=76281980&t=147)** The key difference here is feature extraction, transforming raw unstructured content into structured representations.
 >
-> **[2:34](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/structured-vs-unstructured-data?u=76281980&t=154)** Now, fortunately, deep learning techniques are now widely used to automate feature extraction from unstructured data.
+> **[2:34](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/structured-vs-unstructured-data?u=76281980&t=154)** Now, fortunately, [[Deep Learning]] techniques are now widely used to automate feature extraction from unstructured data.
 >
-> **[2:40](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/structured-vs-unstructured-data?u=76281980&t=160)** Structured and semi-structured data powers traditional business applications like dashboards and reports.
+> **[2:40](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/structured-vs-unstructured-data?u=76281980&t=160)** Structured and semi-structured data powers traditional business applications like [[Dashboards]] and reports.
 >
-> **[2:46](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/structured-vs-unstructured-data?u=76281980&t=166)** It's used for things like sales forecasting, inventory management, and customer segmentation.
+> **[2:46](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/structured-vs-unstructured-data?u=76281980&t=166)** It's used for things like sales [[Forecasting]], inventory management, and customer segmentation.
 >
 > **[2:52](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/structured-vs-unstructured-data?u=76281980&t=172)** Unstructured data enables different kinds of business capabilities like sentiment analysis from reviews and social media.
 >
@@ -789,25 +773,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Unstructured Data]] (10), ai (4), [[Algorithms]] (2), feature (2)
+> **Frameworks & Libraries:** [[Unstructured Data]] (10), [[Algorithms]] (2), [[AI Solutions]] (1), [[Relational Databases]] (1), [[Databases]] (1)
 > **Env Vars:** csv (1), json (1), xml (1), sql (1)
 > **Analogies:** for example (4)
 > **CLI Commands:** make (2)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
 
-#### Vector representations of unstructured data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/vector-representations-of-unstructured-data?u=76281980)
+#### [Vector representations of unstructured data](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/vector-representations-of-unstructured-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/vector-representations-of-unstructured-data?u=76281980&t=0)** - [Instructor] Vectors are a way of numerically representing unstructured data.
+> **[0:00](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/vector-representations-of-unstructured-data?u=76281980&t=0)** - [Instructor] Vectors are a way of numerically representing [[Unstructured Data]].
 >
 > **[0:04](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/vector-representations-of-unstructured-data?u=76281980&t=4)** A vector is an array of numbers that captures meaningful patterns in unstructured data.
 >
 > **[0:10](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/vector-representations-of-unstructured-data?u=76281980&t=10)** Now, these vectors represent semantic relationships between unstructured data, whether it's words, paragraphs, images, or other unstructured data.
 >
-> **[0:19](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/vector-representations-of-unstructured-data?u=76281980&t=19)** And basically what we're doing is we're mapping unstructured data to a representation that's usable by machine learning algorithms.
+> **[0:19](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/vector-representations-of-unstructured-data?u=76281980&t=19)** And basically what we're doing is we're mapping unstructured data to a representation that's usable by machine learning [[Algorithms]].
 >
 > **[0:26](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/vector-representations-of-unstructured-data?u=76281980&t=26)** Now, vectors enable us to perform mathematical operations on inherently non-mathematical content.
 >
@@ -817,7 +800,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/vector-representations-of-unstructured-data?u=76281980&t=48)** Now, there are different ways to represent, for example, text as vectors.
 >
-> **[0:53](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/vector-representations-of-unstructured-data?u=76281980&t=53)** Word embeddings are the most common vector representation for text, and they capture semantic relationships.
+> **[0:53](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/vector-representations-of-unstructured-data?u=76281980&t=53)** [[Microsoft Word|Word]] embeddings are the most common vector representation for text, and they capture semantic relationships.
 >
 > **[0:59](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/vector-representations-of-unstructured-data?u=76281980&t=59)** Now, there are different types.
 >
@@ -825,7 +808,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/vector-representations-of-unstructured-data?u=76281980&t=63)** Now that creates vectors where words used in similar context have similar representations.
 >
-> **[1:08](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/vector-representations-of-unstructured-data?u=76281980&t=68)** Another method called GloVe leverages word co-occurrence statistics to create more comprehensive embeddings.
+> **[1:08](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/vector-representations-of-unstructured-data?u=76281980&t=68)** Another method called GloVe leverages word co-occurrence [[Statistics]] to create more comprehensive embeddings.
 >
 > **[1:15](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/vector-representations-of-unstructured-data?u=76281980&t=75)** And the most modern contextual embedding models, like BERT and GPT, actually understand that word meaning changes with context, and so it captures more information about context.
 >
@@ -849,7 +832,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/vector-representations-of-unstructured-data?u=76281980&t=141)** For example, high-level embedding vectors can encode semantic information about image content.
 >
-> **[2:27](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/vector-representations-of-unstructured-data?u=76281980&t=147)** Convolutional neural networks extract hierarchical features from images.
+> **[2:27](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/vector-representations-of-unstructured-data?u=76281980&t=147)** [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] extract hierarchical features from images.
 >
 > **[2:32](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/vector-representations-of-unstructured-data?u=76281980&t=152)** While lower network layers detect basic elements, like edges, textures, and colors.
 >
@@ -865,7 +848,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/vector-representations-of-unstructured-data?u=76281980&t=195)** Now, there are a variety of practical applications.
 >
-> **[3:17](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/vector-representations-of-unstructured-data?u=76281980&t=197)** In text analysis, vectors enable document similarity comparisons and semantic search engines.
+> **[3:17](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/vector-representations-of-unstructured-data?u=76281980&t=197)** In text analysis, vectors enable document similarity comparisons and [[Semantic Search]] engines.
 >
 > **[3:24](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/vector-representations-of-unstructured-data?u=76281980&t=204)** They also power machine learning translation by mapping concepts between different languages.
 >
@@ -877,31 +860,30 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unstructured Data]] (5), [[Microsoft Word|Word]] (3), [[Search]] (2), power (2), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Unstructured Data]] (5), [[Microsoft Word|Word]] (3), [[Algorithms]] (1), [[Statistics]] (1), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** bert (1), gpt (1)
 > **Definitions:** is an  (1), is called (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Tools for generating vector representations
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/tools-for-generating-vector-representations?u=76281980)
+#### [Tools for generating vector representations](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/tools-for-generating-vector-representations?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/tools-for-generating-vector-representations?u=76281980&t=0)** - [Instructor] Let's take a look at some tools for creating vector representations.
 >
-> **[0:04](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/tools-for-generating-vector-representations?u=76281980&t=4)** Now, vector embedding tools transform unstructured data, like text, images, and audio into numerical forms that we can use AI to process.
+> **[0:04](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/tools-for-generating-vector-representations?u=76281980&t=4)** Now, vector embedding tools transform [[Unstructured Data]], like text, images, and audio into numerical [[Forms]] that we can use AI to process.
 >
 > **[0:13](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/tools-for-generating-vector-representations?u=76281980&t=13)** Now, there are different specialized tools that we use, and we choose them based on the kind of unstructured data that we're dealing with, but across the board, regardless of the kind of data we're working with, we want to keep an eye out for accessibility, especially the ability for non-specialists to use these tools.
 >
-> **[0:30](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/tools-for-generating-vector-representations?u=76281980&t=30)** We also want to make sure that the tools will scale to our production requirements and the tools should be able to integrate into our larger data processing pipelines.
+> **[0:30](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/tools-for-generating-vector-representations?u=76281980&t=30)** We also want to make sure that the tools will scale to our production requirements and the tools should be able to integrate into our larger [[Data Processing]] pipelines.
 >
 > **[0:41](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/tools-for-generating-vector-representations?u=76281980&t=41)** Now, when we work with text embedding tools, we have a number of options.
 >
-> **[0:44](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/tools-for-generating-vector-representations?u=76281980&t=44)** We can start with pre-trained models and libraries, like sentence-transformers, which is a Python library that makes creating state-of-the-art sentence embeddings relatively straightforward.
+> **[0:44](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/tools-for-generating-vector-representations?u=76281980&t=44)** We can start with pre-trained models and libraries, like sentence-transformers, which is a [[Python (Programming Language)|Python]] library that makes creating state-of-the-art sentence embeddings relatively straightforward.
 >
-> **[0:54](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/tools-for-generating-vector-representations?u=76281980&t=54)** There is Hugging Face Transformers.
+> **[0:54](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/tools-for-generating-vector-representations?u=76281980&t=54)** There is [[Hugging Face]] Transformers.
 >
 > **[0:56](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/tools-for-generating-vector-representations?u=76281980&t=56)** Now, Hugging Face is a platform that provides access to hundreds of pre-trained models.
 >
@@ -913,15 +895,15 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/tools-for-generating-vector-representations?u=76281980&t=75)** For more advanced contextual embeddings, we can use tools like BERT, RoBERTa, and T5.
 >
-> **[1:21](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/tools-for-generating-vector-representations?u=76281980&t=81)** For images, we have tools Keras and TensorFlow that provide pre-trained models like ResNet, EfficientNet, and VGG for feature extraction.
+> **[1:21](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/tools-for-generating-vector-representations?u=76281980&t=81)** For images, we have tools Keras and [[TensorFlow]] that provide pre-trained models like ResNet, EfficientNet, and VGG for feature extraction.
 >
-> **[1:30](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/tools-for-generating-vector-representations?u=76281980&t=90)** PyTorch torchvision is a package that offers similar capabilities, but with a different programming interface.
+> **[1:30](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/tools-for-generating-vector-representations?u=76281980&t=90)** [[PyTorch]] torchvision is a package that offers similar capabilities, but with a different programming interface.
 >
 > **[1:37](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/tools-for-generating-vector-representations?u=76281980&t=97)** Now, the tool CLIP from OpenAI connects images and text in a shared vector space, and that's the kind of tool that enables multimodal applications.
 >
 > **[1:47](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/tools-for-generating-vector-representations?u=76281980&t=107)** We also have the option of using image embedding services.
 >
-> **[1:50](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/tools-for-generating-vector-representations?u=76281980&t=110)** Now, these include services like Google Cloud Vision API, which can extract features and generate embeddings without depending on any kind of like local computation.
+> **[1:50](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/tools-for-generating-vector-representations?u=76281980&t=110)** Now, these include services like [[Google Cloud Platform (GCP)|Google Cloud]] Vision API, which can extract features and generate embeddings without depending on any kind of like local computation.
 >
 > **[2:01](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/tools-for-generating-vector-representations?u=76281980&t=121)** Similarly, AWS Rekognition is a service that allows you to create searchable image collections using vector representations, but without the demands of having like a local infrastructure to handle the heavy compute workload.
 >
@@ -929,7 +911,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/tools-for-generating-vector-representations?u=76281980&t=138)** There are audio processing libraries like Librosa, which is a Python package that extracts features from sound files.
 >
-> **[2:26](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/tools-for-generating-vector-representations?u=76281980&t=146)** There's Wav2Vec, which uses self-supervised learning to create speech representation without labeled data.
+> **[2:26](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/tools-for-generating-vector-representations?u=76281980&t=146)** There's Wav2Vec, which uses self-[[Supervised Learning]] to create speech representation without labeled data.
 >
 > **[2:32](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/tools-for-generating-vector-representations?u=76281980&t=152)** A tool called HuBERT applies BERT-like techniques, but applies 'em to audio.
 >
@@ -937,7 +919,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/tools-for-generating-vector-representations?u=76281980&t=160)** CLAP connects audio and language, similar to how CLIP works with images and text.
 >
-> **[2:45](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/tools-for-generating-vector-representations?u=76281980&t=165)** And then again, we also have cloud services like AWS Transcribe, which can extract features directly from speech audio, and Speechmatics, which offer language-agnostic audio processing.
+> **[2:45](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/tools-for-generating-vector-representations?u=76281980&t=165)** And then again, we also have [[Cloud Services]] like AWS Transcribe, which can extract features directly from speech audio, and Speechmatics, which offer language-agnostic audio processing.
 >
 > **[2:58](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/tools-for-generating-vector-representations?u=76281980&t=178)** Now, there are several practical considerations that you want to keep in mind.
 >
@@ -945,21 +927,21 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/tools-for-generating-vector-representations?u=76281980&t=191)** You'll want to balance vector quality against computational costs.
 >
-> **[3:14](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/tools-for-generating-vector-representations?u=76281980&t=194)** That's especially the case if you're dealing with real-time applications.
+> **[3:14](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/tools-for-generating-vector-representations?u=76281980&t=194)** That's especially the case if you're dealing with [[Real-Time]] applications.
 >
 > **[3:18](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/tools-for-generating-vector-representations?u=76281980&t=198)** Also, you want to evaluate domain specific performance.
 >
-> **[3:21](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/tools-for-generating-vector-representations?u=76281980&t=201)** Some tools may excel with particular content types or languages, but not others.
+> **[3:21](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/tools-for-generating-vector-representations?u=76281980&t=201)** Some tools may [[Microsoft Excel|excel]] with particular content types or languages, but not others.
 >
 > **[3:27](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/tools-for-generating-vector-representations?u=76281980&t=207)** You also want to make sure the tools you choose are compatible with your existing technology stack because you want to minimize challenges when it comes to integrating different tools.
 >
-> **[3:37](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/tools-for-generating-vector-representations?u=76281980&t=217)** Also, you want to look for support for both batch processing for large historical data sets, as well as real-time generation.
+> **[3:37](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/tools-for-generating-vector-representations?u=76281980&t=217)** Also, you want to look for support for both [[Batch Processing]] for large historical data sets, as well as real-time generation.
 >
 > **[3:45](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/tools-for-generating-vector-representations?u=76281980&t=225)** That's especially important if you're developing interactive applications.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), api (3), [[Unstructured Data]] (2), [[Python (Programming Language)|Python]] (2), [[Hugging Face]] (2)
+> **Frameworks & Libraries:** [[Unstructured Data]] (2), [[Python (Programming Language)|Python]] (2), [[Hugging Face]] (2), [[Real-Time]] (2), [[Forms]] (1)
 > **Env Vars:** api (3), bert (2), clip (2), aws (2), vgg (1)
 > **CLI Commands:** make (2), python (2), aws (2)
 > **Definitions:** is a  (5)
@@ -968,16 +950,15 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Similarity between vector representations
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/similarity-between-vector-representations?u=76281980)
+#### [Similarity between vector representations](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/similarity-between-vector-representations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/similarity-between-vector-representations?u=76281980&t=0)** - [Instructor] When comparing unstructured data like documents, images, and audio, we first need to transform those data sets into a format that our AI algorithms can process.
+> **[0:00](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/similarity-between-vector-representations?u=76281980&t=0)** - [Instructor] When comparing [[Unstructured Data]] like documents, images, and audio, we first need to transform those data sets into a format that our AI [[Algorithms]] can process.
 >
 > **[0:11](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/similarity-between-vector-representations?u=76281980&t=11)** Now, the fundamental approach involves converting raw data into embeddings or vectors, and then measuring the similarity between those vectors.
 >
-> **[0:19](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/similarity-between-vector-representations?u=76281980&t=19)** Now, this is a relatively simple approach, but it's actually quite powerful, and we use it to power a wide range of applications like semantic search, personalized recommendation, content clustering, and even anomaly detection.
+> **[0:19](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/similarity-between-vector-representations?u=76281980&t=19)** Now, this is a relatively simple approach, but it's actually quite powerful, and we use it to power a wide range of applications like [[Semantic Search]], personalized recommendation, content clustering, and even anomaly detection.
 >
 > **[0:32](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/similarity-between-vector-representations?u=76281980&t=32)** What's so advantageous about this approach is that we can compare actual meaning and content, and not just superficial features like keywords and documents.
 >
@@ -1009,7 +990,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/similarity-between-vector-representations?u=76281980&t=136)** We can also use it for things like plagiarism detection tools to identify similar content, that may not have, say, "The exact, you know, text matches."
 >
-> **[2:24](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/similarity-between-vector-representations?u=76281980&t=144)** Also, image similarity enables us to find visually similar products, or maybe, for example, detect duplicate images without modifications.
+> **[2:24](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/similarity-between-vector-representations?u=76281980&t=144)** Also, image similarity enables us to find visually similar [[Microsoft Products|products]], or maybe, for example, detect duplicate images without modifications.
 >
 > **[2:34](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/similarity-between-vector-representations?u=76281980&t=154)** And then also we can use similarity for audio matching.
 >
@@ -1017,7 +998,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Semantic Search]] (2), [[Unstructured Data]] (1), ai (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Semantic Search]] (2), [[Unstructured Data]] (1), [[Algorithms]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for example (2)
 > **Env Vars:** pca (1)
@@ -1025,12 +1006,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Choosing vector generation tool
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/challenge-choosing-vector-generation-tool?u=76281980)
+#### [Challenge: Choosing vector generation tool](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/challenge-choosing-vector-generation-tool?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/challenge-choosing-vector-generation-tool?u=76281980&t=0)** - [Instructor] For this challenge, I would like you to identify the key considerations that we should keep in mind when we're choosing a vector generation tool for working with unstructured data.
+> **[0:00](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/challenge-choosing-vector-generation-tool?u=76281980&t=0)** - [Instructor] For this challenge, I would like you to identify the key considerations that we should keep in mind when we're choosing a vector generation tool for working with [[Unstructured Data]].
 
 > [!info]- Semantic Content
 >
@@ -1039,22 +1019,21 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Choosing vector generation tool
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/solution-choosing-vector-generation-tool?u=76281980)
+#### [Solution: Choosing vector generation tool](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/solution-choosing-vector-generation-tool?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/solution-choosing-vector-generation-tool?u=76281980&t=0)** (light music)
 >
-> **[0:07](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/solution-choosing-vector-generation-tool?u=76281980&t=7)** - [Instructor] Okay, the answer to this challenge is that the key considerations when choosing a vector generation tool include things like accessibility, especially to non-specialists, scalability, will it meet the scalability requirements of your production environment?
+> **[0:07](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/solution-choosing-vector-generation-tool?u=76281980&t=7)** - [Instructor] Okay, the answer to this challenge is that the key considerations when choosing a vector generation tool include things like accessibility, especially to non-specialists, [[Scalability]], will it meet the scalability requirements of your production environment?
 >
 > **[0:22](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/solution-choosing-vector-generation-tool?u=76281980&t=22)** And then finally, integration.
 >
-> **[0:23](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/solution-choosing-vector-generation-tool?u=76281980&t=23)** Will this tool easily fit into your data processing pipelines?
+> **[0:23](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/solution-choosing-vector-generation-tool?u=76281980&t=23)** Will this tool easily fit into your [[Data Processing]] pipelines?
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scalability]] (2), data (1)
+> **Frameworks & Libraries:** [[Scalability]] (2), [[Data Processing]] (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (light music) (1)
 
@@ -1063,18 +1042,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Elements of data quality: Consistency, accuracy, and completeness
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/elements-of-data-quality-consistency-accuracy-and-completeness?u=76281980)
+#### [Elements of data quality: Consistency, accuracy, and completeness](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/elements-of-data-quality-consistency-accuracy-and-completeness?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/elements-of-data-quality-consistency-accuracy-and-completeness?u=76281980&t=0)** - [Presenter] There are three core pillars of data quality, and they are consistency, accuracy, and completeness.
+> **[0:00](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/elements-of-data-quality-consistency-accuracy-and-completeness?u=76281980&t=0)** - [Presenter] There are three core pillars of [[Data Quality]], and they are consistency, accuracy, and completeness.
 >
-> **[0:06](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/elements-of-data-quality-consistency-accuracy-and-completeness?u=76281980&t=6)** Now, these are critical for both structured and unstructured data when we're working with AI applications.
+> **[0:06](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/elements-of-data-quality-consistency-accuracy-and-completeness?u=76281980&t=6)** Now, these are critical for both structured and [[Unstructured Data]] when we're working with AI applications.
 >
 > **[0:11](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/elements-of-data-quality-consistency-accuracy-and-completeness?u=76281980&t=11)** And also, we need to remember the data quality assessments we're going to be discussing really have to be designed for your specific business context.
 >
-> **[0:19](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/elements-of-data-quality-consistency-accuracy-and-completeness?u=76281980&t=19)** What we do with consistency assessments is evaluate data integrity across different systems and across different time periods.
+> **[0:19](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/elements-of-data-quality-consistency-accuracy-and-completeness?u=76281980&t=19)** What we do with consistency assessments is evaluate [[Data Integrity]] across different systems and across different time periods.
 >
 > **[0:28](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/elements-of-data-quality-consistency-accuracy-and-completeness?u=76281980&t=28)** So, for example, we might want to look at product category assignments and make sure they actually match across different systems within our organization.
 >
@@ -1122,23 +1100,22 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/elements-of-data-quality-consistency-accuracy-and-completeness?u=76281980&t=202)** We'd also be sure that we have correct product relationships and affinities.
 >
-> **[3:26](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/elements-of-data-quality-consistency-accuracy-and-completeness?u=76281980&t=206)** From a completeness perspective, we'd have comprehensive interaction history and metadata.
+> **[3:26](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/elements-of-data-quality-consistency-accuracy-and-completeness?u=76281980&t=206)** From a completeness perspective, we'd have comprehensive interaction history and [[Metadata]].
 >
 > **[3:31](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/elements-of-data-quality-consistency-accuracy-and-completeness?u=76281980&t=211)** Now, looking at an unstructured data example, like document processing, consistency will bring to our work standardized document formats, accuracy will help ensure that we can correctly extract text fields and classify those documents, and completeness helps to ensure that all relevant document sections are actually included in our analysis.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), product (6), [[Unstructured Data]] (5), ai (3), business (3)
+> **Frameworks & Libraries:** [[Unstructured Data]] (5), [[Data Quality]] (4), [[Data Integrity]] (1), [[Metadata]] (1)
 > **CLI Commands:** make (9)
 > **Analogies:** for example (3)
 > **Speakers:** - [presenter] (1)
 
-#### Statistical techniques for data quality assessment
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/statistical-techniques-for-data-quality-assessment?u=76281980)
+#### [Statistical techniques for data quality assessment](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/statistical-techniques-for-data-quality-assessment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/statistical-techniques-for-data-quality-assessment?u=76281980&t=0)** - [Instructor] Statistical methods provide objective measures of data quality.
+> **[0:00](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/statistical-techniques-for-data-quality-assessment?u=76281980&t=0)** - [Instructor] Statistical methods provide objective measures of [[Data Quality]].
 >
 > **[0:04](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/statistical-techniques-for-data-quality-assessment?u=76281980&t=4)** Now, these measures help us identify patterns, anomalies, and data quality issues at scale.
 >
@@ -1148,7 +1125,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/statistical-techniques-for-data-quality-assessment?u=76281980&t=21)** With distribution analysis, what we're trying to do is examine the data distribution to identify quality issues.
 >
-> **[0:29](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/statistical-techniques-for-data-quality-assessment?u=76281980&t=29)** So, for example, we might look at price point distribution to detect pricing errors, or purchase frequency patterns to find abnormal customer behaviors, or inventory level distributions that will help us identify data collection issues.
+> **[0:29](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/statistical-techniques-for-data-quality-assessment?u=76281980&t=29)** So, for example, we might look at price point distribution to detect pricing errors, or purchase frequency patterns to find abnormal customer behaviors, or inventory level distributions that will help us identify [[Data Collection]] issues.
 >
 > **[0:45](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/statistical-techniques-for-data-quality-assessment?u=76281980&t=45)** Now we have a variety of tools that help with distribution analysis.
 >
@@ -1176,7 +1153,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/statistical-techniques-for-data-quality-assessment?u=76281980&t=134)** Now sometimes we want to do cross-field validation using statistical dependencies.
 >
-> **[2:19](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/statistical-techniques-for-data-quality-assessment?u=76281980&t=139)** So, for example, we might want to analyze category-specific price ranges for our products.
+> **[2:19](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/statistical-techniques-for-data-quality-assessment?u=76281980&t=139)** So, for example, we might want to analyze category-specific price ranges for our [[Microsoft Products|products]].
 >
 > **[2:24](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/statistical-techniques-for-data-quality-assessment?u=76281980&t=144)** And then we also sometimes want to do time series consistency measurements.
 >
@@ -1216,11 +1193,11 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/statistical-techniques-for-data-quality-assessment?u=76281980&t=236)** We might want to check quality thresholds for third-party product data.
 >
-> **[4:00](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/statistical-techniques-for-data-quality-assessment?u=76281980&t=240)** And then finally, we also want to apply statistical significance testing for various quality improvements such as using A/B testing when we're doing our data cleaning approaches.
+> **[4:00](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/statistical-techniques-for-data-quality-assessment?u=76281980&t=240)** And then finally, we also want to apply statistical significance testing for various quality improvements such as using A/B testing when we're doing our [[Data Cleaning]] approaches.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), product (7), [[Microsoft Products|Products]] (2), traffic (1)
+> **Frameworks & Libraries:** [[Data Quality]] (3), [[Data Collection]] (2), [[Microsoft Products|Products]] (2), [[Data Cleaning]] (1)
 > **Analogies:** for example (11), such as (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** irq (1)
@@ -1229,21 +1206,19 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Data quality
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/challenge-data-quality?u=76281980)
+#### [Challenge: Data quality](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/challenge-data-quality?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/challenge-data-quality?u=76281980&t=0)** - [Instructor] In this challenge, I would like you to identify the three main components of data quality assessment for AI.
+> **[0:00](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/challenge-data-quality?u=76281980&t=0)** - [Instructor] In this challenge, I would like you to identify the three main components of [[Data Quality]] assessment for AI.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), ai (1)
+> **Frameworks & Libraries:** [[Data Quality]] (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Data quality
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/solution-data-quality?u=76281980)
+#### [Solution: Data quality](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/solution-data-quality?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1251,11 +1226,11 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/solution-data-quality?u=76281980&t=7)** - [Presenter] The answer to the challenge is consistency, accuracy, and completeness.
 >
-> **[0:12](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/solution-data-quality?u=76281980&t=12)** Those are the main components of data quality assessment for AI.
+> **[0:12](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/solution-data-quality?u=76281980&t=12)** Those are the main components of [[Data Quality]] assessment for AI.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), ai (1)
+> **Frameworks & Libraries:** [[Data Quality]] (1)
 > **Non-Speech:** (upbeat energetic music) (1), (upbeat energetic music fades) (1)
 > **Speakers:** - [presenter] (1)
 
@@ -1264,8 +1239,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of data augmentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/overview-of-data-augmentation?u=76281980)
+#### [Overview of data augmentation](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/overview-of-data-augmentation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1287,7 +1261,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/overview-of-data-augmentation?u=76281980&t=51)** One are known as lexical transforms, and this is where we work at fairly low levels, and we do things like replace synonymous words.
 >
-> **[1:00](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/overview-of-data-augmentation?u=76281980&t=60)** Or for example, we could use random word changes such as inserting, deleting, or swapping word order.
+> **[1:00](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/overview-of-data-augmentation?u=76281980&t=60)** Or for example, we could use random [[Microsoft Word|word]] changes such as inserting, deleting, or swapping word order.
 >
 > **[1:06](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/overview-of-data-augmentation?u=76281980&t=66)** We can also work at a more phrase or sentence level.
 >
@@ -1337,7 +1311,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/overview-of-data-augmentation?u=76281980&t=218)** Now, there are a number of different areas where we can apply data augmentation.
 >
-> **[3:43](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/overview-of-data-augmentation?u=76281980&t=223)** So, when we're working with text or natural language, oftentimes we will use diverse response generation for conversational AI.
+> **[3:43](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/overview-of-data-augmentation?u=76281980&t=223)** So, when we're working with text or natural language, oftentimes we will use diverse response generation for [[Conversational AI]].
 >
 > **[3:52](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/overview-of-data-augmentation?u=76281980&t=232)** With regards to image generation, we often look for domain adaptations for specialized visualized tasks.
 >
@@ -1351,15 +1325,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Microsoft Word|Word]] (3), [[Conversational AI]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Conversational AI]] (1)
 > **Analogies:** for example (8), such as (1)
 > **Definitions:** known as (4)
 > **Warnings:** keep in mind (1), watch out (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Text perturbation and style transfer
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/text-perturbation-and-style-transfer?u=76281980)
+#### [Text perturbation and style transfer](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/text-perturbation-and-style-transfer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1383,7 +1356,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/text-perturbation-and-style-transfer?u=76281980&t=42)** And we can also do things like character swapping within words.
 >
-> **[0:45](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/text-perturbation-and-style-transfer?u=76281980&t=45)** Now, we can work at word-level transformations, and here we can do things like replacing synonymous words, and we would use thesauri or word embeddings for that.
+> **[0:45](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/text-perturbation-and-style-transfer?u=76281980&t=45)** Now, we can work at [[Microsoft Word|word]]-level transformations, and here we can do things like replacing synonymous words, and we would use thesauri or word embeddings for that.
 >
 > **[0:55](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/text-perturbation-and-style-transfer?u=76281980&t=55)** We can also do random word changes by inserting, deleting, or swapping, or we can also use N-gram sampling and replacement.
 >
@@ -1467,7 +1440,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), llm (5), data (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7)
 > **Analogies:** for example (7)
 > **Env Vars:** llm (5)
 > **CLI Commands:** make (2)
@@ -1475,14 +1448,13 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Retrieval-augmented generation (RAG)
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/retrieval-augmented-generation-rag?u=76281980)
+#### [Retrieval-augmented generation (RAG)](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/retrieval-augmented-generation-rag?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/retrieval-augmented-generation-rag?u=76281980&t=0)** - [Narrator] Now, I'd like to turn our attention to retrieval augmented generation, commonly referred to as RAG.
 >
-> **[0:05](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/retrieval-augmented-generation-rag?u=76281980&t=5)** Now, RAG is a technique that combines information retrieval with generative AI, and what it does is it enhances the outputs of large language models with relevant knowledge that's external to that model.
+> **[0:05](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/retrieval-augmented-generation-rag?u=76281980&t=5)** Now, RAG is a technique that combines [[Information Retrieval]] with [[Generative AI]], and what it does is it enhances the outputs of [[Large Language Models (LLM)|large language models]] with relevant knowledge that's external to that model.
 >
 > **[0:17](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/retrieval-augmented-generation-rag?u=76281980&t=17)** And what we're doing is basically, bridging the gap between the static model knowledge that's encapsulated within an LLM with up-to-date information that we can get online.
 >
@@ -1496,13 +1468,13 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/retrieval-augmented-generation-rag?u=76281980&t=58)** Now, this is a structured repository of information.
 >
-> **[1:01](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/retrieval-augmented-generation-rag?u=76281980&t=61)** So, for example, our documents, whatever other databases we might be using.
+> **[1:01](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/retrieval-augmented-generation-rag?u=76281980&t=61)** So, for example, our documents, whatever other [[Databases]] we might be using.
 >
-> **[1:06](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/retrieval-augmented-generation-rag?u=76281980&t=66)** We often use a vector database for embeddings, but we may also use relational databases or no SQL databases for metadata, for example, about documents.
+> **[1:06](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/retrieval-augmented-generation-rag?u=76281980&t=66)** We often use a vector database for embeddings, but we may also use [[Relational Databases]] or no [[SQL]] databases for [[Metadata]], for example, about documents.
 >
 > **[1:16](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/retrieval-augmented-generation-rag?u=76281980&t=76)** We also have a retrieval system.
 >
-> **[1:19](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/retrieval-augmented-generation-rag?u=76281980&t=79)** Now, the retrieval system is used for semantic search using embeddings.
+> **[1:19](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/retrieval-augmented-generation-rag?u=76281980&t=79)** Now, the retrieval system is used for [[Semantic Search]] using embeddings.
 >
 > **[1:24](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/retrieval-augmented-generation-rag?u=76281980&t=84)** It also helps with relevance ranking and optimizing the context window.
 >
@@ -1552,15 +1524,15 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/retrieval-augmented-generation-rag?u=76281980&t=222)** We also want to think about how we're going to keep the knowledge bases up to date.
 >
-> **[3:47](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/retrieval-augmented-generation-rag?u=76281980&t=227)** And as we're updating our knowledge bases, for example, updating our vector databases, we have to be aware of the fact that we may be incorporating conflicting information into our database.
+> **[3:47](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/retrieval-augmented-generation-rag?u=76281980&t=227)** And as we're updating our knowledge bases, for example, updating our [[Vector Databases]], we have to be aware of the fact that we may be incorporating conflicting information into our database.
 >
 > **[3:58](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/retrieval-augmented-generation-rag?u=76281980&t=238)** So, there is a question of how do you deal with that once it's discovered?
 >
 > **[4:01](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/retrieval-augmented-generation-rag?u=76281980&t=241)** Often it shows itself during the generation process.
 >
-> **[4:04](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/retrieval-augmented-generation-rag?u=76281980&t=244)** And then, because we're working with external sources that are constantly changing, we want to think about what is the level of version control we want for the sources that we're using in our RAG system.
+> **[4:04](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/retrieval-augmented-generation-rag?u=76281980&t=244)** And then, because we're working with external sources that are constantly changing, we want to think about what is the level of [[Version Control]] we want for the sources that we're using in our RAG system.
 >
-> **[4:16](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/retrieval-augmented-generation-rag?u=76281980&t=256)** And then finally, if we're dealing with say, interactive systems, we want to think about how are we going to maintain an appropriate level of latency in the user experience, and part of that will be driven by retrieval latency.
+> **[4:16](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/retrieval-augmented-generation-rag?u=76281980&t=256)** And then finally, if we're dealing with say, interactive systems, we want to think about how are we going to maintain an appropriate level of latency in the [[User Experience (UX)|user experience]], and part of that will be driven by retrieval latency.
 >
 > **[4:30](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/retrieval-augmented-generation-rag?u=76281980&t=270)** So, we need to be aware of how say the growth in the size of a vector database might adversely impact the retrieval latency and therefore adversely impact the overall user experience.
 >
@@ -1572,7 +1544,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rag (11), [[Information Retrieval]] (4), database (4), [[Databases]] (3), llm (2)
+> **Frameworks & Libraries:** [[Information Retrieval]] (4), [[Databases]] (3), [[Metadata]] (2), [[Semantic Search]] (2), [[User Experience (UX)|User experience]] (2)
 > **Env Vars:** rag (11), llm (2), sql (1)
 > **Analogies:** for example (5), such as (2)
 > **Definitions:** is a  (4)
@@ -1580,16 +1552,15 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
 
-#### Introduction to LangChain for RAG
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/introduction-to-langchain-for-rag?u=76281980)
+#### [Introduction to LangChain for RAG](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/introduction-to-langchain-for-rag?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/introduction-to-langchain-for-rag?u=76281980&t=0)** - [Instructor] One of the widely used tools in RAG is known as LangChain.
+> **[0:00](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/introduction-to-langchain-for-rag?u=76281980&t=0)** - [Instructor] One of the widely used tools in RAG is known as [[LangChain]].
 >
-> **[0:04](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/introduction-to-langchain-for-rag?u=76281980&t=4)** LangChain is a framework for developing applications that are powered by large language models.
+> **[0:04](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/introduction-to-langchain-for-rag?u=76281980&t=4)** LangChain is a framework for developing applications that are powered by [[Large Language Models (LLM)|large language models]].
 >
-> **[0:09](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/introduction-to-langchain-for-rag?u=76281980&t=9)** Now, LangChain is an open-source toolkit that basically simplifies integration of, say, Python applications with large language models.
+> **[0:09](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/introduction-to-langchain-for-rag?u=76281980&t=9)** Now, LangChain is an open-source toolkit that basically simplifies integration of, say, [[Python (Programming Language)|Python]] applications with large language models.
 >
 > **[0:18](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/introduction-to-langchain-for-rag?u=76281980&t=18)** Now, it enables the creation of context-aware and reasoning-based applications.
 >
@@ -1597,11 +1568,11 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/introduction-to-langchain-for-rag?u=76281980&t=34)** LangChain has several core components.
 >
-> **[0:37](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/introduction-to-langchain-for-rag?u=76281980&t=37)** These include models, which are interfaces with various LLMs, like OpenAI or Anthropic's Claude, as well as open-source LLMs, like Llama.
+> **[0:37](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/introduction-to-langchain-for-rag?u=76281980&t=37)** These include models, which are interfaces with various LLMs, like OpenAI or Anthropic's Claude, as well as open-source LLMs, like [[LLaMA]].
 >
 > **[0:46](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/introduction-to-langchain-for-rag?u=76281980&t=46)** The core components also include prompts, which are templates for LLM interactions; memory, which includes both short and long-term context retention systems; and then, we also have chains.
 >
-> **[0:58](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/introduction-to-langchain-for-rag?u=76281980&t=58)** Now, these are data structures that combine components into reusable workflows.
+> **[0:58](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/introduction-to-langchain-for-rag?u=76281980&t=58)** Now, these are [[Data Structures]] that combine components into reusable workflows.
 >
 > **[1:03](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/introduction-to-langchain-for-rag?u=76281980&t=63)** And agents, which create autonomous systems, and they're able to reason and take actions using tools.
 >
@@ -1617,13 +1588,13 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/introduction-to-langchain-for-rag?u=76281980&t=94)** That's useful for more efficient retrieval.
 >
-> **[1:36](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/introduction-to-langchain-for-rag?u=76281980&t=96)** We can integrate with a variety of vector databases.
+> **[1:36](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/introduction-to-langchain-for-rag?u=76281980&t=96)** We can integrate with a variety of [[Vector Databases]].
 >
-> **[1:39](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/introduction-to-langchain-for-rag?u=76281980&t=99)** These include some of the commonly used ones, like Pinecone and Chroma.
+> **[1:39](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/introduction-to-langchain-for-rag?u=76281980&t=99)** These include some of the commonly used ones, like [[Pinecone]] and [[ChromaDB|Chroma]].
 >
 > **[1:42](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/introduction-to-langchain-for-rag?u=76281980&t=102)** There's also support for context window optimization, and that helps with more accurate responses.
 >
-> **[1:48](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/introduction-to-langchain-for-rag?u=76281980&t=108)** And then we also have real-time information access beyond the LLMs themselves, right?
+> **[1:48](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/introduction-to-langchain-for-rag?u=76281980&t=108)** And then we also have [[Real-Time]] information access beyond the LLMs themselves, right?
 >
 > **[1:52](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/introduction-to-langchain-for-rag?u=76281980&t=112)** That's where the retrieval augmented generation actually comes in.
 >
@@ -1645,7 +1616,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/introduction-to-langchain-for-rag?u=76281980&t=180)** Now, LangChain has a number of use cases.
 >
-> **[3:02](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/introduction-to-langchain-for-rag?u=76281980&t=182)** For example, there's augmenting customer support automation with contextual knowledge or performing document analysis and summarization, potentially at large scale.
+> **[3:02](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/introduction-to-langchain-for-rag?u=76281980&t=182)** For example, there's augmenting [[Customer Support]] automation with contextual knowledge or performing document analysis and summarization, potentially at large scale.
 >
 > **[3:11](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/introduction-to-langchain-for-rag?u=76281980&t=191)** It's also useful for personalizing content recommendations systems, as well as generating and explaining code.
 >
@@ -1657,15 +1628,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LangChain]] (14), rag (2), [[Large Language Models (LLM)|Large language models]] (2), open-source (2), data (2)
+> **Frameworks & Libraries:** [[LangChain]] (14), [[Large Language Models (LLM)|Large language models]] (2), [[Python (Programming Language)|Python]] (1), [[LLaMA]] (1), [[Data Structures]] (1)
 > **Env Vars:** rag (2), llm (1), pdf (1), api (1)
 > **Definitions:** known as (2), is a  (1), is an  (1)
 > **CLI Commands:** python (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Understanding components of RAG
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/challenge-understanding-components-of-rag?u=76281980)
+#### [Challenge: Understanding components of RAG](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/challenge-understanding-components-of-rag?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1678,8 +1648,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Understanding components of RAG
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/solution-understanding-components-of-rag?u=76281980)
+#### [Solution: Understanding components of RAG](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/solution-understanding-components-of-rag?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1695,8 +1664,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of knowledge augmentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/overview-of-knowledge-augmentation?u=76281980)
+#### [Overview of knowledge augmentation](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/overview-of-knowledge-augmentation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1710,7 +1678,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/overview-of-knowledge-augmentation?u=76281980&t=25)** And then there are other cases where, for example, there might be organizational knowledge that's specific to your organization and is not available in a public training set.
 >
-> **[0:35](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/overview-of-knowledge-augmentation?u=76281980&t=35)** So how do we get that or make that data available to large language models?
+> **[0:35](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/overview-of-knowledge-augmentation?u=76281980&t=35)** So how do we get that or make that data available to [[Large Language Models (LLM)|large language models]]?
 >
 > **[0:40](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/overview-of-knowledge-augmentation?u=76281980&t=40)** Well, the answer is we do it through knowledge augmentation.
 >
@@ -1730,7 +1698,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/overview-of-knowledge-augmentation?u=76281980&t=73)** And then we also use access to structured knowledge.
 >
-> **[1:17](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/overview-of-knowledge-augmentation?u=76281980&t=77)** In this case, we're going to leverage things like ontologies, taxonomies, and knowledge graphs to enhance our knowledge base.
+> **[1:17](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/overview-of-knowledge-augmentation?u=76281980&t=77)** In this case, we're going to leverage things like ontologies, taxonomies, and [[Knowledge Graphs]] to enhance our knowledge base.
 >
 > **[1:23](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/overview-of-knowledge-augmentation?u=76281980&t=83)** So let's take a look at fine-tuning.
 >
@@ -1800,7 +1768,7 @@ created: 2026-05-02
 >
 > **[5:02](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/overview-of-knowledge-augmentation?u=76281980&t=302)** Taxonomies are hierarchical classification systems.
 >
-> **[5:06](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/overview-of-knowledge-augmentation?u=76281980&t=306)** So you can think of like a product category where you have things like electronics, and under electronics you have TVs, and phones, and car stereos.
+> **[5:06](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/overview-of-knowledge-augmentation?u=76281980&t=306)** So you can think of like a product category where you have things like [[Electronics]], and under electronics you have TVs, and phones, and car stereos.
 >
 > **[5:15](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/overview-of-knowledge-augmentation?u=76281980&t=315)** Now, ontologies are formal domain knowledge.
 >
@@ -1812,13 +1780,13 @@ created: 2026-05-02
 >
 > **[5:42](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/overview-of-knowledge-augmentation?u=76281980&t=342)** Now, when we want to work with ontologies, we have a few different integration methods.
 >
-> **[5:48](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/overview-of-knowledge-augmentation?u=76281980&t=348)** For example, we can use a retrieval-based method where we basically look up relevant data structures during inferencing.
+> **[5:48](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/overview-of-knowledge-augmentation?u=76281980&t=348)** For example, we can use a retrieval-based method where we basically look up relevant [[Data Structures]] during inferencing.
 >
 > **[5:55](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/overview-of-knowledge-augmentation?u=76281980&t=355)** We can use embedding-based methods where we convert the knowledge that's represented in say, an ontology or a taxonomy.
 >
 > **[6:02](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/overview-of-knowledge-augmentation?u=76281980&t=362)** We map that into a vector representation, so we map that into an embedding as well.
 >
-> **[6:06](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/overview-of-knowledge-augmentation?u=76281980&t=366)** There are also neuro-symbolic approaches where we combine like deep learning networks with symbolic reasoning.
+> **[6:06](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/overview-of-knowledge-augmentation?u=76281980&t=366)** There are also neuro-symbolic approaches where we combine like [[Deep Learning]] networks with symbolic reasoning.
 >
 > **[6:13](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/overview-of-knowledge-augmentation?u=76281980&t=373)** And we can also use ontologies, taxonomies, and knowledge graphs for pre-training augmentation.
 >
@@ -1826,14 +1794,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Knowledge Graphs]] (6), [[Electronics]] (2), [[Large Language Models (LLM)|Large language models]] (1), feature (1)
+> **Frameworks & Libraries:** [[Knowledge Graphs]] (6), [[Electronics]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Data Structures]] (1), [[Deep Learning]] (1)
 > **Definitions:** known as (4), is a  (2), is an  (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Fine-tuning and knowledge distillation tools and techniques
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/fine-tuning-and-knowledge-distillation-tools-and-techniques?u=76281980)
+#### [Fine-tuning and knowledge distillation tools and techniques](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/fine-tuning-and-knowledge-distillation-tools-and-techniques?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1847,23 +1814,23 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/fine-tuning-and-knowledge-distillation-tools-and-techniques?u=76281980&t=22)** In particular, how much compute resource do we have available to us?
 >
-> **[0:27](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/fine-tuning-and-knowledge-distillation-tools-and-techniques?u=76281980&t=27)** Now, fine-tuning frameworks and libraries include tools like Hugging Face transformers, and this is a really comprehensive library that has pre-trained models and fine-tuning capabilities.
+> **[0:27](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/fine-tuning-and-knowledge-distillation-tools-and-techniques?u=76281980&t=27)** Now, fine-tuning frameworks and libraries include tools like [[Hugging Face]] transformers, and this is a really comprehensive library that has pre-trained models and fine-tuning capabilities.
 >
-> **[0:38](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/fine-tuning-and-knowledge-distillation-tools-and-techniques?u=76281980&t=38)** And in addition, there's also the Transformer Reinforcement Learning, which is a specialized tool for reinforcement learning with human feedback.
+> **[0:38](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/fine-tuning-and-knowledge-distillation-tools-and-techniques?u=76281980&t=38)** And in addition, there's also the Transformer [[Reinforcement Learning]], which is a specialized tool for reinforcement learning with human feedback.
 >
 > **[0:48](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/fine-tuning-and-knowledge-distillation-tools-and-techniques?u=76281980&t=48)** In addition to that, we have a tool called FastChat, which is a toolkit which is really designed for serving up chatbot models.
 >
-> **[0:55](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/fine-tuning-and-knowledge-distillation-tools-and-techniques?u=76281980&t=55)** And then we've already discussed LangChain, and something similar to LangChain is LlamaIndex.
+> **[0:55](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/fine-tuning-and-knowledge-distillation-tools-and-techniques?u=76281980&t=55)** And then we've already discussed [[LangChain]], and something similar to LangChain is [[LlamaIndex]].
 >
 > **[0:59](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/fine-tuning-and-knowledge-distillation-tools-and-techniques?u=76281980&t=59)** These are higher level frameworks for building LLM applications, but they also support fine-tuning.
 >
-> **[1:06](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/fine-tuning-and-knowledge-distillation-tools-and-techniques?u=76281980&t=66)** Now if we're interested in knowledge distillation tools, we can use general-purpose tools like PyTorch and TensorFlow.
+> **[1:06](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/fine-tuning-and-knowledge-distillation-tools-and-techniques?u=76281980&t=66)** Now if we're interested in knowledge distillation tools, we can use general-purpose tools like [[PyTorch]] and [[TensorFlow]].
 >
 > **[1:13](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/fine-tuning-and-knowledge-distillation-tools-and-techniques?u=76281980&t=73)** These both have native support for implementing distillation loss functions, and they have flexible APIs for creating teacher-student architectures.
 >
 > **[1:25](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/fine-tuning-and-knowledge-distillation-tools-and-techniques?u=76281980&t=85)** Now, NVIDIA, the company NVIDIA, provides a tool called Distiller, which is another comprehensive tool for model compression, and it supports various distillation techniques, including quantization.
 >
-> **[1:37](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/fine-tuning-and-knowledge-distillation-tools-and-techniques?u=76281980&t=97)** And then another specialized tool is called TextBrewer, which is designed for natural language processing, and it also supports multi-teacher distillation capabilities.
+> **[1:37](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/fine-tuning-and-knowledge-distillation-tools-and-techniques?u=76281980&t=97)** And then another specialized tool is called TextBrewer, which is designed for [[Natural Language Processing (NLP)|natural language processing]], and it also supports multi-teacher distillation capabilities.
 >
 > **[1:47](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/fine-tuning-and-knowledge-distillation-tools-and-techniques?u=76281980&t=107)** Now, if you're implementing fine-tuner knowledge distillation, some best practices to keep in mind, it's best to focus on quality data rather than a larger amount of data.
 >
@@ -1887,7 +1854,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Reinforcement Learning]] (2), [[LangChain]] (2), [[Hugging Face]] (1), chatbot (1)
+> **Frameworks & Libraries:** [[Reinforcement Learning]] (2), [[LangChain]] (2), [[Hugging Face]] (1), [[LlamaIndex]] (1), [[PyTorch]] (1)
 > **Definitions:** is a  (3), is called (1)
 > **Env Vars:** nvidia (2), llm (1)
 > **Warnings:** watch out (2), keep in mind (1)
@@ -1895,12 +1862,11 @@ created: 2026-05-02
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ontologies, taxonomies, and knowledge graph tools and techniques
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/ontologies-taxonomies-and-knowledge-graphs-tools-and-techniques?u=76281980)
+#### [Ontologies, taxonomies, and knowledge graph tools and techniques](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/ontologies-taxonomies-and-knowledge-graphs-tools-and-techniques?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/ontologies-taxonomies-and-knowledge-graphs-tools-and-techniques?u=76281980&t=0)** - [Instructor] Ont ologies, taxonomies and knowledge graphs provide formal knowledge representation.
+> **[0:00](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/ontologies-taxonomies-and-knowledge-graphs-tools-and-techniques?u=76281980&t=0)** - [Instructor] Ont ologies, taxonomies and [[Knowledge Graphs]] provide formal knowledge representation.
 >
 > **[0:05](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/ontologies-taxonomies-and-knowledge-graphs-tools-and-techniques?u=76281980&t=5)** Now, ontologies are formal explicit specifications of concepts, properties, and relationships.
 >
@@ -1916,29 +1882,29 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/ontologies-taxonomies-and-knowledge-graphs-tools-and-techniques?u=76281980&t=48)** Now, LLMs can benefit from all of these different kinds of knowledge representation schemes because they represent knowledge that has been essentially curated by humans.
 >
-> **[0:59](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/ontologies-taxonomies-and-knowledge-graphs-tools-and-techniques?u=76281980&t=59)** We're not depending on the statistical learning processes that are involved when training large language models.
+> **[0:59](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/ontologies-taxonomies-and-knowledge-graphs-tools-and-techniques?u=76281980&t=59)** We're not depending on the statistical learning processes that are involved when training [[Large Language Models (LLM)|large language models]].
 >
 > **[1:06](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/ontologies-taxonomies-and-knowledge-graphs-tools-and-techniques?u=76281980&t=66)** Now there are a variety of ontology and knowledge graph tools.
 >
 > **[1:09](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/ontologies-taxonomies-and-knowledge-graphs-tools-and-techniques?u=76281980&t=69)** If you're interested in ontology development and creating your own ontologies, then Protege is an open source ontology and editor framework.
 >
-> **[1:17](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/ontologies-taxonomies-and-knowledge-graphs-tools-and-techniques?u=76281980&t=77)** Owlready2 is a a Python library that allows you to load, modify, and save ontologies.
+> **[1:17](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/ontologies-taxonomies-and-knowledge-graphs-tools-and-techniques?u=76281980&t=77)** Owlready2 is a a [[Python (Programming Language)|Python]] library that allows you to load, modify, and save ontologies.
 >
 > **[1:23](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/ontologies-taxonomies-and-knowledge-graphs-tools-and-techniques?u=76281980&t=83)** OntoEdit is a collaborative ontology engineering environment.
 >
-> **[1:28](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/ontologies-taxonomies-and-knowledge-graphs-tools-and-techniques?u=76281980&t=88)** Now, knowledge graph platforms include Neo4j, which is a NoSQL database.
+> **[1:28](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/ontologies-taxonomies-and-knowledge-graphs-tools-and-techniques?u=76281980&t=88)** Now, knowledge graph platforms include [[Neo4j]], which is a [[NoSQL]] database.
 >
 > **[1:34](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/ontologies-taxonomies-and-knowledge-graphs-tools-and-techniques?u=76281980&t=94)** That's a graph database that has both visualization and query capabilities.
 >
-> **[1:38](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/ontologies-taxonomies-and-knowledge-graphs-tools-and-techniques?u=76281980&t=98)** GraphDB is specifically designed for semantic databases and it uses the resource description format, or RDF.
+> **[1:38](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/ontologies-taxonomies-and-knowledge-graphs-tools-and-techniques?u=76281980&t=98)** GraphDB is specifically designed for semantic [[Databases]] and it uses the resource description format, or RDF.
 >
 > **[1:44](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/ontologies-taxonomies-and-knowledge-graphs-tools-and-techniques?u=76281980&t=104)** And then there's Amazon Neptune, which is a fully managed graph database service that's available in AWS.
 >
 > **[1:51](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/ontologies-taxonomies-and-knowledge-graphs-tools-and-techniques?u=76281980&t=111)** Now, there are also different integration frameworks.
 >
-> **[1:54](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/ontologies-taxonomies-and-knowledge-graphs-tools-and-techniques?u=76281980&t=114)** So if we're interested in directly working with LLM, we can use LangChain's graph stores and retrieval mechanisms.
+> **[1:54](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/ontologies-taxonomies-and-knowledge-graphs-tools-and-techniques?u=76281980&t=114)** So if we're interested in directly working with LLM, we can use [[LangChain]]'s graph stores and retrieval mechanisms.
 >
-> **[2:01](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/ontologies-taxonomies-and-knowledge-graphs-tools-and-techniques?u=76281980&t=121)** We also have a LlamaIndex, which is a tool that is comparable to LangChain.
+> **[2:01](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/ontologies-taxonomies-and-knowledge-graphs-tools-and-techniques?u=76281980&t=121)** We also have a [[LlamaIndex]], which is a tool that is comparable to LangChain.
 >
 > **[2:07](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/ontologies-taxonomies-and-knowledge-graphs-tools-and-techniques?u=76281980&t=127)** It has support for knowledge graph indices and query engines.
 >
@@ -1978,15 +1944,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Knowledge Graphs]] (5), database (3), data (3), [[Python (Programming Language)|Python]] (2), llm (2)
+> **Frameworks & Libraries:** [[Knowledge Graphs]] (5), [[Python (Programming Language)|Python]] (2), [[LangChain]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Neo4j]] (1)
 > **Definitions:** is a  (8), is an  (1)
 > **Env Vars:** rdf (2), llm (2), aws (1), sparql (1)
 > **CLI Commands:** make (2), python (2), aws (1)
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Knowledge augmentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/challenge-knowledge-augmentation?u=76281980)
+#### [Challenge: Knowledge augmentation](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/challenge-knowledge-augmentation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1999,12 +1964,11 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (soft upbeat music) (1)
 
-#### Solution: Knowledge augmentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/solution-knowledge-augmentation?u=76281980)
+#### [Solution: Knowledge augmentation](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/solution-knowledge-augmentation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/solution-knowledge-augmentation?u=76281980&t=0)** - [Instructor] Three ways to formally represent knowledge for knowledge augmentation are: taxonomies, ontologies, and knowledge graphs.
+> **[0:00](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/solution-knowledge-augmentation?u=76281980&t=0)** - [Instructor] Three ways to formally represent knowledge for knowledge augmentation are: taxonomies, ontologies, and [[Knowledge Graphs]].
 
 > [!info]- Semantic Content
 >
@@ -2017,8 +1981,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Determining what data sources to use
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/determing-what-data-sources-to-use?u=76281980)
+#### [Determining what data sources to use](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/determing-what-data-sources-to-use?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2030,7 +1993,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/determing-what-data-sources-to-use?u=76281980&t=25)** Now, we'll look at various types of data, like from internal sources versus external sources, but across those dimensions, we want to keep in mind several global issues.
 >
-> **[0:34](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/determing-what-data-sources-to-use?u=76281980&t=34)** And these include things like customer privacy, seasonal patterns and omnichannel customer behavior.
+> **[0:34](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/determing-what-data-sources-to-use?u=76281980&t=34)** And these include things like customer [[Privacy]], seasonal patterns and omnichannel customer behavior.
 >
 > **[0:41](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/determing-what-data-sources-to-use?u=76281980&t=41)** Now, we often start with internal data sources.
 >
@@ -2046,7 +2009,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/determing-what-data-sources-to-use?u=76281980&t=69)** These are systems that track product lifecycles and supply chain data.
 >
-> **[1:14](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/determing-what-data-sources-to-use?u=76281980&t=74)** Now, also, we don't want to forget unstructured data internally.
+> **[1:14](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/determing-what-data-sources-to-use?u=76281980&t=74)** Now, also, we don't want to forget [[Unstructured Data]] internally.
 >
 > **[1:18](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/determing-what-data-sources-to-use?u=76281980&t=78)** These include things like employee knowledge bases that capture institutional expertise on a variety of topics.
 >
@@ -2056,15 +2019,15 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/determing-what-data-sources-to-use?u=76281980&t=97)** We also want to consider weather, for example, whether APIs may help predict demand fluctuations for seasonal merchandise.
 >
-> **[1:44](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/determing-what-data-sources-to-use?u=76281980&t=104)** Also, social media sentiment can provide realtime or near realtime feedback on products and campaigns.
+> **[1:44](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/determing-what-data-sources-to-use?u=76281980&t=104)** Also, social media sentiment can provide realtime or near realtime feedback on [[Microsoft Products|products]] and campaigns.
 >
-> **[1:51](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/determing-what-data-sources-to-use?u=76281980&t=111)** Census and demographic data can add additional context to information around store performance metrics.
+> **[1:51](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/determing-what-data-sources-to-use?u=76281980&t=111)** Census and demographic data can add additional context to information around store [[Performance Metrics]].
 >
 > **[1:59](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/determing-what-data-sources-to-use?u=76281980&t=119)** Now, when we're thinking about data sources, we don't want to think just about the data as a static thing, but also we want to think about data as it moves through our organization and our processing pipelines.
 >
-> **[2:10](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/determing-what-data-sources-to-use?u=76281980&t=130)** And this is where DevOps, or development operations, integration practices come in.
+> **[2:10](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/determing-what-data-sources-to-use?u=76281980&t=130)** And this is where [[DevOps]], or development operations, integration practices come in.
 >
-> **[2:16](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/determing-what-data-sources-to-use?u=76281980&t=136)** We want to be sure to implement automated data quality checks in our continuous integration/continuous deployment pipelines.
+> **[2:16](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/determing-what-data-sources-to-use?u=76281980&t=136)** We want to be sure to implement automated [[Data Quality]] checks in our [[Continuous Integration (CI)|continuous integration]]/continuous deployment pipelines.
 >
 > **[2:23](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/determing-what-data-sources-to-use?u=76281980&t=143)** We also want to set up monitoring for data drift in datasets, like product catalogs and customer behavior.
 >
@@ -2072,7 +2035,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/determing-what-data-sources-to-use?u=76281980&t=154)** We also want to set up data source connection templates for quick integration.
 >
-> **[2:39](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/determing-what-data-sources-to-use?u=76281980&t=159)** This is especially the case when we're working with a large number of databases and APIs.
+> **[2:39](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/determing-what-data-sources-to-use?u=76281980&t=159)** This is especially the case when we're working with a large number of [[Databases]] and APIs.
 >
 > **[2:43](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/determing-what-data-sources-to-use?u=76281980&t=163)** We also want to document source characteristics and limitations in knowledge repositories.
 >
@@ -2094,18 +2057,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), ai (4), business (2), management (2), product (2)
+> **Frameworks & Libraries:** [[Privacy]] (1), [[Unstructured Data]] (1), [[Microsoft Products|Products]] (1), [[Performance Metrics]] (1), [[DevOps]] (1)
 > **Analogies:** such as (1), for example (1)
 > **Warnings:** keep in mind (2)
 > **Prerequisites:** set up (2)
 > **Speakers:** - [instructor] (1)
 
-#### Applying data quality checks
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/applying-data-quality-checks?u=76281980)
+#### [Applying data quality checks](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/applying-data-quality-checks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/applying-data-quality-checks?u=76281980&t=0)** - [Instructor] Once we've identified data sets, it's time to turn our attention to data quality.
+> **[0:00](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/applying-data-quality-checks?u=76281980&t=0)** - [Instructor] Once we've identified data sets, it's time to turn our attention to [[Data Quality]].
 >
 > **[0:05](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/applying-data-quality-checks?u=76281980&t=5)** Now let's continue with our examples of working with retail industry data.
 >
@@ -2117,7 +2079,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/applying-data-quality-checks?u=76281980&t=19)** That is verifying that all required data elements are actually present in our data sets.
 >
-> **[0:24](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/applying-data-quality-checks?u=76281980&t=24)** We also want to maintain consistency, that is, in particular, data integrity across systems.
+> **[0:24](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/applying-data-quality-checks?u=76281980&t=24)** We also want to maintain consistency, that is, in particular, [[Data Integrity]] across systems.
 >
 > **[0:29](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/applying-data-quality-checks?u=76281980&t=29)** We also want our data to be timely, so that we have fresh data for making decisions.
 >
@@ -2135,7 +2097,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/applying-data-quality-checks?u=76281980&t=69)** We'll also want to think in terms of category consistency.
 >
-> **[1:12](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/applying-data-quality-checks?u=76281980&t=72)** So for example, if we have a product taxonomy, we want to make sure that taxonomy is consistently applied across all of our products.
+> **[1:12](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/applying-data-quality-checks?u=76281980&t=72)** So for example, if we have a product taxonomy, we want to make sure that taxonomy is consistently applied across all of our [[Microsoft Products|products]].
 >
 > **[1:20](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/applying-data-quality-checks?u=76281980&t=80)** If we're working with images, we'll want to make sure that the resolution and presentation standards that we may have are actually being met by all the images that we're dealing with.
 >
@@ -2171,7 +2133,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/applying-data-quality-checks?u=76281980&t=182)** And then finally, we want to make sure our contact information is up to date by confirming email addresses or phone numbers.
 >
-> **[3:09](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/applying-data-quality-checks?u=76281980&t=189)** Now, when we're implementing customer data quality, we want to implement real-time validation at data entry points.
+> **[3:09](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/applying-data-quality-checks?u=76281980&t=189)** Now, when we're implementing customer data quality, we want to implement [[Real-Time]] validation at data entry points.
 >
 > **[3:18](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/applying-data-quality-checks?u=76281980&t=198)** It's often least expensive and least problematic to implement data quality controls at the point of data entry.
 >
@@ -2187,20 +2149,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), product (3), [[Microsoft Products|Products]] (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Data Quality]] (5), [[Data Integrity]] (1), [[Microsoft Products|Products]] (1), [[Real-Time]] (1)
 > **CLI Commands:** make (12)
 > **Analogies:** for example (5)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building models
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/building-models?u=76281980)
+#### [Building models](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/building-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/building-models?u=76281980&t=0)** - [Instructor] AI Model Development spans both predictive and generative AI approaches.
+> **[0:00](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/building-models?u=76281980&t=0)** - [Instructor] AI Model Development spans both predictive and [[Generative AI]] approaches.
 >
-> **[0:06](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/building-models?u=76281980&t=6)** For example, with Predictive models, we're dealing with algorithms and models that do things like classify images, or calculate regressions or cluster data, whereas with Generative models, we're actually generating things like text, image or code.
+> **[0:06](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/building-models?u=76281980&t=6)** For example, with Predictive models, we're dealing with [[Algorithms]] and models that do things like classify images, or calculate regressions or cluster data, whereas with Generative models, we're actually generating things like text, image or code.
 >
 > **[0:24](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/building-models?u=76281980&t=24)** Now, each of these approaches requires specific development practices, so let's take a look at first, Predictive models.
 >
@@ -2222,7 +2183,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/building-models?u=76281980&t=84)** Now, Regression models predict continuous numerical values, rather than categories.
 >
-> **[1:29](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/building-models?u=76281980&t=89)** Now, in retail, some examples where we may use Regression models include things like sales forecasting, inventory optimization, and pricing.
+> **[1:29](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/building-models?u=76281980&t=89)** Now, in retail, some examples where we may use Regression models include things like sales [[Forecasting]], inventory optimization, and pricing.
 >
 > **[1:38](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/building-models?u=76281980&t=98)** Now, there are different model types even within the family of Regression models, and these include linear, polynomial, decision tree and neural network models.
 >
@@ -2240,7 +2201,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/building-models?u=76281980&t=146)** Now, some key challenges to keep in mind are things like determining the optimal number of clusters.
 >
-> **[2:32](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/building-models?u=76281980&t=152)** Now, when we're developing Predictive models, we want to plan for data preparation, so cleaning, normalizing, and performing feature engineering.
+> **[2:32](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/building-models?u=76281980&t=152)** Now, when we're developing Predictive models, we want to plan for [[Data Preparation]], so cleaning, normalizing, and performing [[Feature Engineering]].
 >
 > **[2:40](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/building-models?u=76281980&t=160)** We want to think in terms of model selection, like which algorithm is going to work best with our problem?
 >
@@ -2256,7 +2217,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/building-models?u=76281980&t=196)** This is both in terms of application or software performance, but also in terms of model performance, and watching for things like model drift.
 >
-> **[3:25](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/building-models?u=76281980&t=205)** Okay, so that covered our discussion of predictive AI models.
+> **[3:25](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/building-models?u=76281980&t=205)** Okay, so that covered our discussion of [[Predictive AI]] models.
 >
 > **[3:30](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/building-models?u=76281980&t=210)** Now let's think about Generative AI Applications and development.
 >
@@ -2264,41 +2225,41 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/building-models?u=76281980&t=224)** Now, we often work with Foundation models, and these are used to build multiple types of applications.
 >
-> **[3:49](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/building-models?u=76281980&t=229)** For example, large language models or LLMs are often used for text generation, sentiment analysis, and named-entity recognition.
+> **[3:49](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/building-models?u=76281980&t=229)** For example, [[Large Language Models (LLM)|large language models]] or LLMs are often used for text generation, sentiment analysis, and named-entity recognition.
 >
-> **[3:57](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/building-models?u=76281980&t=237)** Image and vision models are used for image generation, as well as for object detection, and multi-modal foundation models learn from multiple types of unstructured data, for example, a combination of text and images.
+> **[3:57](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/building-models?u=76281980&t=237)** Image and vision models are used for image generation, as well as for object detection, and multi-modal foundation models learn from multiple types of [[Unstructured Data]], for example, a combination of text and images.
 >
-> **[4:11](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/building-models?u=76281980&t=251)** Now, when it comes to Developing Generative AI Applications, we want to think in terms of API integration, 'cause oftentimes we're using third-party models, so you can think of, for example, OpenAI's ChatGPT, or Anthropic's Claude or Google's Gemini.
+> **[4:11](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/building-models?u=76281980&t=251)** Now, when it comes to Developing Generative AI Applications, we want to think in terms of API integration, 'cause oftentimes we're using third-party models, so you can think of, for example, OpenAI's [[ChatGPT]], or Anthropic's Claude or [[Google]]'s [[Gemini]].
 >
-> **[4:26](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/building-models?u=76281980&t=266)** We also need to pay attention to prompt engineering, which is essentially the art or the practice of crafting effective instructions to get the content generated that we're actually looking for.
+> **[4:26](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/building-models?u=76281980&t=266)** We also need to pay attention to [[Prompt Engineering]], which is essentially the art or the practice of crafting effective instructions to get the content generated that we're actually looking for.
 >
 > **[4:38](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/building-models?u=76281980&t=278)** We also may want to fine-tune models, and this is the process of adapting foundation models or our starting models to our specific domain.
 >
-> **[4:48](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/building-models?u=76281980&t=288)** Now, a common practice for complementing what models already know or what models have learned is to use RAG, or retrieval-augmented generation.
+> **[4:48](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/building-models?u=76281980&t=288)** Now, a common practice for complementing what models already know or what models have learned is to use RAG, or [[Retrieval-Augmented Generation (RAG)|retrieval-augmented generation]].
 >
 > **[4:58](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/building-models?u=76281980&t=298)** This allows us to combine Generative models with other knowledge bases like the web, for example.
 >
 > **[5:04](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/building-models?u=76281980&t=304)** And then we also want to consider knowledge augmentation where we use additional data sources like ontologies and taxonomies to complement what was learned in the model during its training.
 >
-> **[5:17](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/building-models?u=76281980&t=317)** Now, some broadly cross-category implementation considerations to keep in mind are data privacy and security, both in model training and in deployment.
+> **[5:17](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/building-models?u=76281980&t=317)** Now, some broadly cross-category implementation considerations to keep in mind are [[Data Privacy]] and security, both in model training and in deployment.
 >
 > **[5:26](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/building-models?u=76281980&t=326)** Ethical considerations, like bias, fairness, and the ability to explain or being transparent about how decisions were made.
 >
 > **[5:33](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/building-models?u=76281980&t=333)** We also want to think about cost, and cost often comes down to computational resources.
 >
-> **[5:38](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/building-models?u=76281980&t=338)** Now, sometimes we may do some work on premises, sometimes we may do some work in cloud infrastructure, so we want to make sure that we have mechanisms in place for helping us track costs regardless of what infrastructure we are using.
+> **[5:38](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/building-models?u=76281980&t=338)** Now, sometimes we may do some work on premises, sometimes we may do some work in [[Cloud Infrastructure]], so we want to make sure that we have mechanisms in place for helping us track costs regardless of what infrastructure we are using.
 >
 > **[5:52](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/building-models?u=76281980&t=352)** We also want to be able to maintain our model, and that includes things like retraining on a regular basis to avoid the impact of data drift.
 >
 > **[6:01](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/building-models?u=76281980&t=361)** And we also need to be aware of team skills.
 >
-> **[6:03](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/building-models?u=76281980&t=363)** It's obvious that AI is changing at a rapid pace, new tools are constantly being developed, and people, practitioners are gathering insights into how to use these tools, so it's important we help our team members keep up the skills in data science engineering, as well as in domain expertise.
+> **[6:03](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/building-models?u=76281980&t=363)** It's obvious that AI is changing at a rapid pace, new tools are constantly being developed, and people, practitioners are gathering insights into how to use these tools, so it's important we help our team members keep up the skills in [[Data Science]] engineering, as well as in domain expertise.
 >
 > **[6:21](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/building-models?u=76281980&t=381)** And then finally, we want to be sure that we are integrating with existing systems and workflows.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Generative AI]] (4), [[Algorithms]] (3), ai (2), [[Forecasting]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (4), [[Algorithms]] (3), [[Forecasting]] (1), [[Data Preparation]] (1), [[Feature Engineering]] (1)
 > **Analogies:** for example (7)
 > **Warnings:** keep in mind (2), watch out (1), be aware (1)
 > **Env Vars:** dbscan (1), api (1), rag (1)
@@ -2306,14 +2267,13 @@ created: 2026-05-02
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Model assessment
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/model-assessment?u=76281980)
+#### [Model assessment](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/model-assessment?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/model-assessment?u=76281980&t=0)** `- [Narrator] After we've built our models, we want to evaluate their quality.
 >
-> **[0:03](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/model-assessment?u=76281980&t=3)** Now we're going to focus here in this discussion on generative AI models.
+> **[0:03](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/model-assessment?u=76281980&t=3)** Now we're going to focus here in this discussion on [[Generative AI]] models.
 >
 > **[0:07](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/model-assessment?u=76281980&t=7)** Now we want to assess the quality across multiple dimensions.
 >
@@ -2387,7 +2347,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/model-assessment?u=76281980&t=206)** We also want to combine automated metrics with human review process.
 >
-> **[3:31](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/model-assessment?u=76281980&t=211)** It's important to implement continuous monitoring and have feedback loops so that we're able to actually improve the quality of the model.
+> **[3:31](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/model-assessment?u=76281980&t=211)** It's important to implement [[Continuous Monitoring]] and have feedback loops so that we're able to actually improve the quality of the model.
 >
 > **[3:37](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/model-assessment?u=76281980&t=217)** Now, to do this, we'll have to maintain benchmark data sets, and that will allow us to perform consistent comparisons across versions of our model.
 >
@@ -2401,13 +2361,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (3), [[Generative AI]] (2), [[Continuous Monitoring]] (1), data (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Continuous Monitoring]] (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 
-#### Challenge: Development practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/challenge-development-practices?u=76281980)
+#### [Challenge: Development practices](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/challenge-development-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2417,22 +2376,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (light music) (1)
 
-#### Solution: Development practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/solution-development-practices?u=76281980)
+#### [Solution: Development practices](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/solution-development-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/solution-development-practices?u=76281980&t=0)** (bright music)
 >
-> **[0:07](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/solution-development-practices?u=76281980&t=7)** - [Instructor] The two types of AI models that require different development practices are known as predictive AI and generative AI.
+> **[0:07](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/solution-development-practices?u=76281980&t=7)** - [Instructor] The two types of AI models that require different development practices are known as [[Predictive AI]] and [[Generative AI]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (1), [[Predictive AI]] (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Predictive AI]] (1), [[Generative AI]] (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
@@ -2442,26 +2399,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/next-steps?u=76281980&t=0)** - [Instructor] Congratulations on finishing this course.
 >
-> **[0:02](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/next-steps?u=76281980&t=2)** As you think about continuing your education process, I would suggest that you learn about data quality assessment and data engineering.
+> **[0:02](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/next-steps?u=76281980&t=2)** As you think about continuing your education process, I would suggest that you learn about [[Data Quality]] assessment and [[Data Engineering]].
 >
-> **[0:10](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/next-steps?u=76281980&t=10)** Now, if you'd like a suggestion, the Complete Guide to Generative AI for Data Analysis and Data Science course is ideally suited to help you understand how to perform data quality assessments, how to use generative AI tools to generate code for data quality assessments, and then also, it provides a foundation in statistical principles to help you understand how we do data quality assessments.
+> **[0:10](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/next-steps?u=76281980&t=10)** Now, if you'd like a suggestion, the Complete Guide to [[Generative AI]] for Data Analysis and [[Data Science]] course is ideally suited to help you understand how to perform data quality assessments, how to use [[Generative AI Tools]] to generate code for data quality assessments, and then also, it provides a foundation in statistical principles to help you understand how we do data quality assessments.
 >
 > **[0:35](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/next-steps?u=76281980&t=35)** Now, many of the techniques covered in the Complete Guide to Generative AI for Data Analysis and Data Science are also helpful for building data engineering skills and developing data engineering pipelines.
 >
 > **[0:48](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/next-steps?u=76281980&t=48)** Now, along with that, I would suggest finding other courses in the catalog on data engineering and machine learning engineering with particular attention to building ML engineering pipelines.
 >
-> **[0:59](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/next-steps?u=76281980&t=59)** I'd also suggest learning about tools for building generative AI applications with a focus on LangChain in particular, and there are multiple courses in the catalog that can help you learn LangChain.
+> **[0:59](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/next-steps?u=76281980&t=59)** I'd also suggest learning about tools for building generative AI applications with a focus on [[LangChain]] in particular, and there are multiple courses in the catalog that can help you learn LangChain.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Data Engineering]] (4), [[Generative AI]] (3), [[Engineering]] (2), [[LangChain]] (2)
+> **Frameworks & Libraries:** [[Data Quality]] (4), [[Data Engineering]] (4), [[Generative AI]] (3), [[Data Science]] (2), [[LangChain]] (2)
 > **Speakers:** - [instructor] (1)
 
 

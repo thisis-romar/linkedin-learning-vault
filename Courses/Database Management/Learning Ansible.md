@@ -78,8 +78,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Starting your Ansible journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ansible-2020/starting-your-ansible-journey?u=76281980)
+#### [Starting your Ansible journey](https://www.linkedin.com/learning/learning-ansible-2020/starting-your-ansible-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -87,7 +86,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/learning-ansible-2020/starting-your-ansible-journey?u=76281980&t=14)** If this sounds like it's too good to be true, well I have some news for you, it isn't.
 >
-> **[0:20](https://www.linkedin.com/learning/learning-ansible-2020/starting-your-ansible-journey?u=76281980&t=20)** Ansible is growing in popularity, and for good reason.
+> **[0:20](https://www.linkedin.com/learning/learning-ansible-2020/starting-your-ansible-journey?u=76281980&t=20)** [[Ansible]] is growing in popularity, and for good reason.
 >
 > **[0:24](https://www.linkedin.com/learning/learning-ansible-2020/starting-your-ansible-journey?u=76281980&t=24)** It lets you manage not just one device at a time, but hundreds or even thousands of machines wherever they're located.
 >
@@ -99,11 +98,11 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/learning-ansible-2020/starting-your-ansible-journey?u=76281980&t=61)** I've used Ansible for years to assist with server management and the construction and maintenance of robust solutions inside of the public cloud.
 >
-> **[1:11](https://www.linkedin.com/learning/learning-ansible-2020/starting-your-ansible-journey?u=76281980&t=71)** So join me in this LinkedIn Learning course, as we get past the hype and really see what this tool can do for us, and trust me, even though it looks pretty bare bones and simple, that's part of the design and its magic.
+> **[1:11](https://www.linkedin.com/learning/learning-ansible-2020/starting-your-ansible-journey?u=76281980&t=71)** So join me in this [[LinkedIn]] Learning course, as we get past the hype and really see what this tool can do for us, and trust me, even though it looks pretty bare bones and simple, that's part of the design and its magic.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (4), management (1), cloud (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Ansible]] (4), [[LinkedIn]] (1)
 > **CLI Commands:** ansible (4), make (1)
 > **Env Vars:** ccie (1)
 > **Analogies:** imagine (1)
@@ -114,12 +113,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### An introduction to Ansible
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ansible-2020/an-introduction-to-ansible?u=76281980)
+#### [An introduction to Ansible](https://www.linkedin.com/learning/learning-ansible-2020/an-introduction-to-ansible?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-ansible-2020/an-introduction-to-ansible?u=76281980&t=0)** - [Instructor] If you work in or around information technology, chances are, you've heard about Ansible lately.
+> **[0:00](https://www.linkedin.com/learning/learning-ansible-2020/an-introduction-to-ansible?u=76281980&t=0)** - [Instructor] If you work in or around information technology, chances are, you've heard about [[Ansible]] lately.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-ansible-2020/an-introduction-to-ansible?u=76281980&t=7)** It seems to be the tool that everyone wants to use, and everyone is all excited about.
 >
@@ -127,7 +125,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/learning-ansible-2020/an-introduction-to-ansible?u=76281980&t=14)** Well, Ansible is extremely simple, extremely easy to use and very flexible as we're going to find out in this course, but at its most simple, it's a task execution engine.
 >
-> **[0:29](https://www.linkedin.com/learning/learning-ansible-2020/an-introduction-to-ansible?u=76281980&t=29)** So we're going to have Ansible running on a variety of different systems potentially, but oftentimes we are running it on a Linux system and Ansible can reach out and execute tasks on the local system that you're on and on remote systems.
+> **[0:29](https://www.linkedin.com/learning/learning-ansible-2020/an-introduction-to-ansible?u=76281980&t=29)** So we're going to have Ansible running on a variety of different systems potentially, but oftentimes we are running it on a [[Linux]] system and Ansible can reach out and execute tasks on the local system that you're on and on remote systems.
 >
 > **[0:47](https://www.linkedin.com/learning/learning-ansible-2020/an-introduction-to-ansible?u=76281980&t=47)** By the way, when you're running Ansible on a system, in order to control other systems, you tend to call that local system running Ansible, your control node.
 >
@@ -151,7 +149,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/learning-ansible-2020/an-introduction-to-ansible?u=76281980&t=118)** So that really adds to the simplicity of utilizing Ansible.
 >
-> **[2:03](https://www.linkedin.com/learning/learning-ansible-2020/an-introduction-to-ansible?u=76281980&t=123)** And the Ansible itself is written in the very popular Python programming language and the playbooks that we are going to be running, which can really get sophisticated and allow you to do automation and orchestration of tasks.
+> **[2:03](https://www.linkedin.com/learning/learning-ansible-2020/an-introduction-to-ansible?u=76281980&t=123)** And the Ansible itself is written in the very popular [[Python (Programming Language)|Python]] programming language and the playbooks that we are going to be running, which can really get sophisticated and allow you to do automation and orchestration of tasks.
 >
 > **[2:22](https://www.linkedin.com/learning/learning-ansible-2020/an-introduction-to-ansible?u=76281980&t=142)** Those are written in the standards based YAML, which is yet another markup language.
 >
@@ -211,7 +209,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (30), node (4), [[Linux]] (2), product (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Ansible]] (30), [[Linux]] (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** ansible (30), node (4), ssh (3), find (1), make (1)
 > **Env Vars:** ssh (3), yaml (2), awx (1), tcp (1)
 > **Prerequisites:** set up (2), install (1)
@@ -220,12 +218,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Warnings:** keep in mind (1)
 
-#### Life before Ansible
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ansible-2020/life-before-ansible?u=76281980)
+#### [Life before Ansible](https://www.linkedin.com/learning/learning-ansible-2020/life-before-ansible?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-ansible-2020/life-before-ansible?u=76281980&t=0)** - [Illustrator] So that we can better understand just how important Ansible can be in our IT infrastructure, let's talk about a bit about what life was like before Ansible.
+> **[0:00](https://www.linkedin.com/learning/learning-ansible-2020/life-before-ansible?u=76281980&t=0)** - [Illustrator] So that we can better understand just how important [[Ansible]] can be in our IT infrastructure, let's talk about a bit about what life was like before Ansible.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-ansible-2020/life-before-ansible?u=76281980&t=11)** You see many years ago, the server administrators in a typical IT department were what we call siloed.
 >
@@ -233,9 +230,9 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/learning-ansible-2020/life-before-ansible?u=76281980&t=22)** They were doing all their work based on requests from other teams in the IT department, but there was this real big separation between their day-to-day functions and the functions of different personnel in the IT department.
 >
-> **[0:38](https://www.linkedin.com/learning/learning-ansible-2020/life-before-ansible?u=76281980&t=38)** And something that was happening a lot was these server admins were needing to go to systems and manage them by hand, that's right, they would log into the operating system, maybe it was a Windows server operating system, and they would make configuration changes.
+> **[0:38](https://www.linkedin.com/learning/learning-ansible-2020/life-before-ansible?u=76281980&t=38)** And something that was happening a lot was these server admins were needing to go to systems and manage them by hand, that's right, they would log into the operating system, maybe it was a [[Windows Server]] operating system, and they would make configuration changes.
 >
-> **[0:57](https://www.linkedin.com/learning/learning-ansible-2020/life-before-ansible?u=76281980&t=57)** Then they would go into a Linux box and make configuration changes.
+> **[0:57](https://www.linkedin.com/learning/learning-ansible-2020/life-before-ansible?u=76281980&t=57)** Then they would go into a [[Linux]] box and make configuration changes.
 >
 > **[1:02](https://www.linkedin.com/learning/learning-ansible-2020/life-before-ansible?u=76281980&t=62)** And so what quickly happened was server tools started being developed that could assist with this manual management of systems, but no, this would really be looked upon as it's still a manual configuration approach.
 >
@@ -243,7 +240,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/learning-ansible-2020/life-before-ansible?u=76281980&t=95)** So virtualization then came along in great, great celebrated fashion, and this really started to drive the push for automation, especially considering that many virtual servers could very quickly be established, but then, Oh my goodness, the "by hand" management that would need to take place would be really exhausting on the server admin staff.
 >
-> **[2:05](https://www.linkedin.com/learning/learning-ansible-2020/life-before-ansible?u=76281980&t=125)** So thanks to tools like Ansible, today, we have this growth of DevOps where the server teams can work side by side and even right along the way with the development staff, and can very, very efficiently now provision architectures and applications for consumption by our users with an ease and a real transparency that has never been imagined before.
+> **[2:05](https://www.linkedin.com/learning/learning-ansible-2020/life-before-ansible?u=76281980&t=125)** So thanks to tools like Ansible, today, we have this growth of [[DevOps]] where the server teams can work side by side and even right along the way with the development staff, and can very, very efficiently now provision architectures and applications for consumption by our users with an ease and a real transparency that has never been imagined before.
 >
 > **[2:37](https://www.linkedin.com/learning/learning-ansible-2020/life-before-ansible?u=76281980&t=157)** So this is certainly an exciting time.
 >
@@ -257,7 +254,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/learning-ansible-2020/life-before-ansible?u=76281980&t=189)** And then this playbook will go to the database servers that we've defined and run some code to get the database servers set up.
 >
-> **[3:18](https://www.linkedin.com/learning/learning-ansible-2020/life-before-ansible?u=76281980&t=198)** And then the same with the web servers.
+> **[3:18](https://www.linkedin.com/learning/learning-ansible-2020/life-before-ansible?u=76281980&t=198)** And then the same with the [[Web Servers]].
 >
 > **[3:21](https://www.linkedin.com/learning/learning-ansible-2020/life-before-ansible?u=76281980&t=201)** Notice we have code that will run that will set up the base Apache and then give the exact web parameters that are needed, and then the load balancers.
 >
@@ -269,7 +266,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (6), teams (2), management (2), database (2), web (2)
+> **Frameworks & Libraries:** [[Ansible]] (6), [[Windows Server]] (1), [[Linux]] (1), [[DevOps]] (1), [[Web Servers]] (1)
 > **CLI Commands:** ansible (6), make (3), apache (1)
 > **Env Vars:** yaml (5), yml (1)
 > **UI Navigation:** go to (2)
@@ -277,12 +274,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [illustrator] (1)
 
-#### Ansible and Red Hat
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ansible-2020/ansible-and-red-hat?u=76281980)
+#### [Ansible and Red Hat](https://www.linkedin.com/learning/learning-ansible-2020/ansible-and-red-hat?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-ansible-2020/ansible-and-red-hat?u=76281980&t=0)** - Now one of the very exciting things about Ansible that you may have heard is that it's free.
+> **[0:00](https://www.linkedin.com/learning/learning-ansible-2020/ansible-and-red-hat?u=76281980&t=0)** - Now one of the very exciting things about [[Ansible]] that you may have heard is that it's free.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-ansible-2020/ansible-and-red-hat?u=76281980&t=6)** It's open source software that is free but then you may be a bit confused if you've heard that Ansible was purchased by Red Hat.
 >
@@ -290,19 +286,19 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/learning-ansible-2020/ansible-and-red-hat?u=76281980&t=24)** So the year was 2012 and Michael DeHaan released Ansible to the world and this approach that Michael took was very very interesting because what he saw was that himself and many people like him were creating scripts that would automate the infrastructure and the servers and the IT stuff all around them.
 >
-> **[0:51](https://www.linkedin.com/learning/learning-ansible-2020/ansible-and-red-hat?u=76281980&t=51)** So Michael wanted to take an approach to systems management and configuration management and even infrastructure creation through DevOps that would be script friendly and they could even leverage existing scripts that had already been written.
+> **[0:51](https://www.linkedin.com/learning/learning-ansible-2020/ansible-and-red-hat?u=76281980&t=51)** So Michael wanted to take an approach to systems management and [[Configuration Management]] and even infrastructure creation through [[DevOps]] that would be script friendly and they could even leverage existing scripts that had already been written.
 >
 > **[1:09](https://www.linkedin.com/learning/learning-ansible-2020/ansible-and-red-hat?u=76281980&t=69)** So Ansible was created to do this and sure enough in 2015 Red Hat purchased Ansible Inc.
 >
-> **[1:20](https://www.linkedin.com/learning/learning-ansible-2020/ansible-and-red-hat?u=76281980&t=80)** Ansible Inc. was formed by Michael and his peers and the Red Hat acquisition in 2015 was interesting because Ansible itself and all of the great resources that we can acquire through GitHub and additional sites that I'll share with you for components that function with Ansible all of that was kept open source and free but Red Hat was able to wrap some paid services and software around it specifically Ansible Consulting and Ansible Tower are two paid services.
+> **[1:20](https://www.linkedin.com/learning/learning-ansible-2020/ansible-and-red-hat?u=76281980&t=80)** Ansible Inc. was formed by Michael and his peers and the Red Hat acquisition in 2015 was interesting because Ansible itself and all of the great resources that we can acquire through [[GitHub]] and additional sites that I'll share with you for components that function with Ansible all of that was kept open source and free but Red Hat was able to wrap some paid services and software around it specifically Ansible Consulting and Ansible Tower are two paid services.
 >
 > **[1:57](https://www.linkedin.com/learning/learning-ansible-2020/ansible-and-red-hat?u=76281980&t=117)** Ansible Consulting, of course, being the assistance with Ansible implementations on an enterprise scale and Ansible Tower being the graphical user interface software for managing massive Ansible deployments inside of a huge enterprise.
 >
-> **[2:14](https://www.linkedin.com/learning/learning-ansible-2020/ansible-and-red-hat?u=76281980&t=134)** So Red Hat was able to have these paid services around the free product and if you don't think Ansible is popular we'll just go check it out GitHub where it is the number one acclaimed product of all of the different management products that are available through GitHub so it really has had amazing traction.
+> **[2:14](https://www.linkedin.com/learning/learning-ansible-2020/ansible-and-red-hat?u=76281980&t=134)** So Red Hat was able to have these paid services around the free product and if you don't think Ansible is popular we'll just go check it out GitHub where it is the number one acclaimed product of all of the different management [[Microsoft Products|products]] that are available through GitHub so it really has had amazing traction.
 >
 > **[2:41](https://www.linkedin.com/learning/learning-ansible-2020/ansible-and-red-hat?u=76281980&t=161)** So here we are at the [redhat.com](https://redhat.com) website and if you go under products you'll see under the automation and management area sure enough there's the Red Hat Ansible automation platform and this is a very valuable place for you to visit especially if you consider that right here is a learn option and there's going to be some great complementary videos and complementary technical guides that you can access to learn more regarding Ansible.
 >
-> **[3:15](https://www.linkedin.com/learning/learning-ansible-2020/ansible-and-red-hat?u=76281980&t=195)** Now it is linked inside the Red Hat website but I will say that it's just easier to Google search for the Ansible documentation so if you do a Google search for Ansible documentation you'll get here to the official Ansible documentation on the web and we'll be utilizing this quite a bit as you might imagine as we move throughout this course.
+> **[3:15](https://www.linkedin.com/learning/learning-ansible-2020/ansible-and-red-hat?u=76281980&t=195)** Now it is linked inside the Red Hat website but I will say that it's just easier to [[Google]] search for the Ansible documentation so if you do a Google search for Ansible documentation you'll get here to the official Ansible documentation on the web and we'll be utilizing this quite a bit as you might imagine as we move throughout this course.
 >
 > **[3:41](https://www.linkedin.com/learning/learning-ansible-2020/ansible-and-red-hat?u=76281980&t=221)** Notice you can choose your version of Ansible but it is going to default to the latest greatest version.
 >
@@ -312,7 +308,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (24), management (3), [[GitHub]] (3), product (3), [[Search]] (3)
+> **Frameworks & Libraries:** [[Ansible]] (24), [[GitHub]] (3), [[Microsoft Products|Products]] (2), [[Google]] (2), [[Configuration Management]] (1)
 > **CLI Commands:** ansible (24)
 > **Tools:** github (3)
 > **URLs:** [redhat.com](https://redhat.com) (2)
@@ -326,12 +322,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Ansible ease of use
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ansible-2020/ansible-ease-of-use?u=76281980)
+#### [Ansible ease of use](https://www.linkedin.com/learning/learning-ansible-2020/ansible-ease-of-use?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-ansible-2020/ansible-ease-of-use?u=76281980&t=0)** - [Instructor] It can be pretty hard to believe that something so incredibly powerful, like Ansible could be so easy to use, but I think we have to remember the original goals of Ansible and they were to be clear, to be fast, to be complete, to be efficient and to be secure.
+> **[0:00](https://www.linkedin.com/learning/learning-ansible-2020/ansible-ease-of-use?u=76281980&t=0)** - [Instructor] It can be pretty hard to believe that something so incredibly powerful, like [[Ansible]] could be so easy to use, but I think we have to remember the original goals of Ansible and they were to be clear, to be fast, to be complete, to be efficient and to be secure.
 >
 > **[0:23](https://www.linkedin.com/learning/learning-ansible-2020/ansible-ease-of-use?u=76281980&t=23)** So the initial goals of the product really help to drive this ease of use and the simplicity.
 >
@@ -373,7 +368,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/learning-ansible-2020/ansible-ease-of-use?u=76281980&t=214)** And notice the file by default is named hosts.
 >
-> **[3:39](https://www.linkedin.com/learning/learning-ansible-2020/ansible-ease-of-use?u=76281980&t=219)** And you can see that I have in brackets here, web servers, and then I've got two fully qualified domain names that I'm pretending are my web servers.
+> **[3:39](https://www.linkedin.com/learning/learning-ansible-2020/ansible-ease-of-use?u=76281980&t=219)** And you can see that I have in brackets here, [[Web Servers]], and then I've got two fully qualified domain names that I'm pretending are my web servers.
 >
 > **[3:50](https://www.linkedin.com/learning/learning-ansible-2020/ansible-ease-of-use?u=76281980&t=230)** You can put in an IP address.
 >
@@ -391,19 +386,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (14), product (4), web (2), node (1), aws (1)
+> **Frameworks & Libraries:** [[Ansible]] (14), [[Web Servers]] (2)
 > **CLI Commands:** ansible (14), node (1), aws (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** aws (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Advantages to using Ansible
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ansible-2020/advantages-to-using-ansible?u=76281980)
+#### [Advantages to using Ansible](https://www.linkedin.com/learning/learning-ansible-2020/advantages-to-using-ansible?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-ansible-2020/advantages-to-using-ansible?u=76281980&t=0)** - [Narrator] Earlier in this course, I made the statement that Ansible was the most celebrated management tool in all of GitHub.
+> **[0:00](https://www.linkedin.com/learning/learning-ansible-2020/advantages-to-using-ansible?u=76281980&t=0)** - [Narrator] Earlier in this course, I made the statement that [[Ansible]] was the most celebrated management tool in all of [[GitHub]].
 >
 > **[0:08](https://www.linkedin.com/learning/learning-ansible-2020/advantages-to-using-ansible?u=76281980&t=8)** And this is true, but why is it so, I mean, we know it's easy to use, and that's probably going to help out.
 >
@@ -413,7 +407,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/learning-ansible-2020/advantages-to-using-ansible?u=76281980&t=28)** So with a short small learning curve, that really, really helps the adoption of Ansible.
 >
-> **[0:36](https://www.linkedin.com/learning/learning-ansible-2020/advantages-to-using-ansible?u=76281980&t=36)** And Ansible itself is composed in Python and this makes the Ansible product very Python friendly.
+> **[0:36](https://www.linkedin.com/learning/learning-ansible-2020/advantages-to-using-ansible?u=76281980&t=36)** And Ansible itself is composed in [[Python (Programming Language)|Python]] and this makes the Ansible product very Python friendly.
 >
 > **[0:47](https://www.linkedin.com/learning/learning-ansible-2020/advantages-to-using-ansible?u=76281980&t=47)** Python, in case you haven't noticed, is quickly becoming the most called upon programming language in the world.
 >
@@ -437,7 +431,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/learning-ansible-2020/advantages-to-using-ansible?u=76281980&t=171)** So in the networking category, here is an Ansible module for GNS3 and this module allows you to automate the GNS3 tool, which is a router simulator.
 >
-> **[3:06](https://www.linkedin.com/learning/learning-ansible-2020/advantages-to-using-ansible?u=76281980&t=186)** So if you're interested in simulating network routing, you could use GNS3 and if you're interested in automating that now we have a module for GNS3.
+> **[3:06](https://www.linkedin.com/learning/learning-ansible-2020/advantages-to-using-ansible?u=76281980&t=186)** So if you're interested in simulating network [[Routing]], you could use GNS3 and if you're interested in automating that now we have a module for GNS3.
 >
 > **[3:18](https://www.linkedin.com/learning/learning-ansible-2020/advantages-to-using-ansible?u=76281980&t=198)** Thanks to the contribution of some wonderful user out there that is helping the world one module at a time.
 >
@@ -459,7 +453,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (17), [[Python (Programming Language)|Python]] (5), management (2), [[GitHub]] (1), product (1)
+> **Frameworks & Libraries:** [[Ansible]] (17), [[Python (Programming Language)|Python]] (5), [[GitHub]] (1), [[Routing]] (1)
 > **CLI Commands:** ansible (17), python (5)
 > **Env Vars:** gns3 (4), yaml (1)
 > **Definitions:** is a  (4), is an  (1)
@@ -473,12 +467,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The parts that make up Ansible
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ansible-2020/the-parts-that-make-up-ansible?u=76281980)
+#### [The parts that make up Ansible](https://www.linkedin.com/learning/learning-ansible-2020/the-parts-that-make-up-ansible?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-ansible-2020/the-parts-that-make-up-ansible?u=76281980&t=0)** - [Instructor] Well, it's time for you and I to examine the components that make up Ansible.
+> **[0:00](https://www.linkedin.com/learning/learning-ansible-2020/the-parts-that-make-up-ansible?u=76281980&t=0)** - [Instructor] Well, it's time for you and I to examine the components that make up [[Ansible]].
 >
 > **[0:07](https://www.linkedin.com/learning/learning-ansible-2020/the-parts-that-make-up-ansible?u=76281980&t=7)** We said the Ansible is very simple, and I'm really going to prove that to you right now.
 >
@@ -576,7 +569,7 @@ created: 2026-05-02
 >
 > **[5:09](https://www.linkedin.com/learning/learning-ansible-2020/the-parts-that-make-up-ansible?u=76281980&t=309)** So we had the first host at 10 zero one 184.
 >
-> **[5:15](https://www.linkedin.com/learning/learning-ansible-2020/the-parts-that-make-up-ansible?u=76281980&t=315)** And then we had this host, Ubuntu at 10 zero one 79.
+> **[5:15](https://www.linkedin.com/learning/learning-ansible-2020/the-parts-that-make-up-ansible?u=76281980&t=315)** And then we had this host, [[Ubuntu]] at 10 zero one 79.
 >
 > **[5:21](https://www.linkedin.com/learning/learning-ansible-2020/the-parts-that-make-up-ansible?u=76281980&t=321)** And you can see that the red indicates an error condition and the green indicates everything was fine.
 >
@@ -604,7 +597,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (18), next (2), [[Ubuntu]] (2), node (1), management (1)
+> **Frameworks & Libraries:** [[Ansible]] (18), [[Ubuntu]] (2)
 > **CLI Commands:** ansible (18), make (3), apache (3), node (1), yum (1)
 > **Env Vars:** yaml (5), cfg (3)
 > **Definitions:** is a  (6), is an  (1)
@@ -613,12 +606,11 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Warnings:** troubleshoot (1)
 
-#### Installing Ansible
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ansible-2020/installing-ansible?u=76281980)
+#### [Installing Ansible](https://www.linkedin.com/learning/learning-ansible-2020/installing-ansible?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-ansible-2020/installing-ansible?u=76281980&t=0)** - [Instructor] It probably won't surprise you to learn that installing Ansible is very, very simple.
+> **[0:00](https://www.linkedin.com/learning/learning-ansible-2020/installing-ansible?u=76281980&t=0)** - [Instructor] It probably won't surprise you to learn that installing [[Ansible]] is very, very simple.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-ansible-2020/installing-ansible?u=76281980&t=5)** What you'll want to do is consult the Ansible documentation.
 >
@@ -632,11 +624,11 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/learning-ansible-2020/installing-ansible?u=76281980&t=30)** And while this might not be a frequent platform that you use in production, it can be very, very powerful to run Ansible from the Mac when you're just experimenting and learning Ansible.
 >
-> **[0:42](https://www.linkedin.com/learning/learning-ansible-2020/installing-ansible?u=76281980&t=42)** Notice that the Mac does not have a package management system to run from the terminal so you can install Homebrew.
+> **[0:42](https://www.linkedin.com/learning/learning-ansible-2020/installing-ansible?u=76281980&t=42)** Notice that the Mac does not have a [[Package Management]] system to run from the terminal so you can install Homebrew.
 >
 > **[0:51](https://www.linkedin.com/learning/learning-ansible-2020/installing-ansible?u=76281980&t=51)** As a matter of fact, if you visit the Homebrew webpage, you'll see that it is very easy to install Homebrew on the Mac by just copying and pasting this command.
 >
-> **[1:02](https://www.linkedin.com/learning/learning-ansible-2020/installing-ansible?u=76281980&t=62)** Having the Homebrew on your Mac will make it easy to do things like the installation of Python 3 By default, on a Mac, if you do a Python tack tack version command, you'll find that it's running something like 2.7.16 You'd want to leave this Python in place, even though it's kind of legacy and old because the Mac relies on it.
+> **[1:02](https://www.linkedin.com/learning/learning-ansible-2020/installing-ansible?u=76281980&t=62)** Having the Homebrew on your Mac will make it easy to do things like the installation of [[Python (Programming Language)|Python]] 3 By default, on a Mac, if you do a Python tack tack version command, you'll find that it's running something like 2.7.16 You'd want to leave this Python in place, even though it's kind of legacy and old because the Mac relies on it.
 >
 > **[1:27](https://www.linkedin.com/learning/learning-ansible-2020/installing-ansible?u=76281980&t=87)** But you want Python 3 certainly for your Ansible utilization at this point.
 >
@@ -681,12 +673,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 
-#### Challenge: Install Ansible
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ansible-2020/challenge-install-ansible?u=76281980)
+#### [Challenge: Install Ansible](https://www.linkedin.com/learning/learning-ansible-2020/challenge-install-ansible?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-ansible-2020/challenge-install-ansible?u=76281980&t=0)** - [Instructor] Well, are you ready for a challenge in this Ansible course?
+> **[0:00](https://www.linkedin.com/learning/learning-ansible-2020/challenge-install-ansible?u=76281980&t=0)** - [Instructor] Well, are you ready for a challenge in this [[Ansible]] course?
 >
 > **[0:04](https://www.linkedin.com/learning/learning-ansible-2020/challenge-install-ansible?u=76281980&t=4)** Let's have you perform an installation of Ansible.
 >
@@ -708,7 +699,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/learning-ansible-2020/challenge-install-ansible?u=76281980&t=87)** So some of you will be done in just moments, because maybe it's an installation that you've done many times before, or maybe there's very little dependencies that need to be installed on your system.
 >
-> **[1:39](https://www.linkedin.com/learning/learning-ansible-2020/challenge-install-ansible?u=76281980&t=99)** Maybe Python 3 is already in place and ready to go.
+> **[1:39](https://www.linkedin.com/learning/learning-ansible-2020/challenge-install-ansible?u=76281980&t=99)** Maybe [[Python (Programming Language)|Python]] 3 is already in place and ready to go.
 >
 > **[1:42](https://www.linkedin.com/learning/learning-ansible-2020/challenge-install-ansible?u=76281980&t=102)** So there's definitely some variation here, but yeah, it really shouldn't take you longer than that 40 minutes.
 >
@@ -722,28 +713,27 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Install Ansible
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ansible-2020/solution-install-ansible?u=76281980)
+#### [Solution: Install Ansible](https://www.linkedin.com/learning/learning-ansible-2020/solution-install-ansible?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-ansible-2020/solution-install-ansible?u=76281980&t=0)** - [Instructor] Well, how did you do with that challenge of installing Ansible?
+> **[0:00](https://www.linkedin.com/learning/learning-ansible-2020/solution-install-ansible?u=76281980&t=0)** - [Instructor] Well, how did you do with that challenge of installing [[Ansible]]?
 >
 > **[0:05](https://www.linkedin.com/learning/learning-ansible-2020/solution-install-ansible?u=76281980&t=5)** I'm going to walk through a solution right now.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-ansible-2020/solution-install-ansible?u=76281980&t=7)** And since I have already demonstrated the installation of Ansible on a Mac, I decided to choose a different operating system to show this solution.
 >
-> **[0:16](https://www.linkedin.com/learning/learning-ansible-2020/solution-install-ansible?u=76281980&t=16)** And I'll go ahead and demonstrate the installation of Ansible on Ubuntu, one of the most popular Linux variants.
+> **[0:16](https://www.linkedin.com/learning/learning-ansible-2020/solution-install-ansible?u=76281980&t=16)** And I'll go ahead and demonstrate the installation of Ansible on [[Ubuntu]], one of the most popular [[Linux]] variants.
 >
 > **[0:26](https://www.linkedin.com/learning/learning-ansible-2020/solution-install-ansible?u=76281980&t=26)** Now notice I've gone to the Ansible Documentation, and I've pulled up the documentation on installing Ansible on Ubuntu, and we can see these key commands right here, that can do this installation.
 >
-> **[0:40](https://www.linkedin.com/learning/learning-ansible-2020/solution-install-ansible?u=76281980&t=40)** And I'm going to walk you through those commands, but sure enough, we will be in a situation where we're using that older Python.
+> **[0:40](https://www.linkedin.com/learning/learning-ansible-2020/solution-install-ansible?u=76281980&t=40)** And I'm going to walk you through those commands, but sure enough, we will be in a situation where we're using that older [[Python (Programming Language)|Python]].
 >
 > **[0:48](https://www.linkedin.com/learning/learning-ansible-2020/solution-install-ansible?u=76281980&t=48)** So, I'll show just how easy it would be to fix that up.
 >
 > **[0:52](https://www.linkedin.com/learning/learning-ansible-2020/solution-install-ansible?u=76281980&t=52)** But this will certainly work, and it is certainly not the end of the world, if you're using the 2.x version of Python behind your Ansible.
 >
-> **[1:02](https://www.linkedin.com/learning/learning-ansible-2020/solution-install-ansible?u=76281980&t=62)** So, let me go to my terminal, and you will see that I am at my Ubuntu system, and we are going to use the package management tool, and we're going to begin by updating that.
+> **[1:02](https://www.linkedin.com/learning/learning-ansible-2020/solution-install-ansible?u=76281980&t=62)** So, let me go to my terminal, and you will see that I am at my Ubuntu system, and we are going to use the [[Package Management]] tool, and we're going to begin by updating that.
 >
 > **[1:15](https://www.linkedin.com/learning/learning-ansible-2020/solution-install-ansible?u=76281980&t=75)** So, we run the Sudo App update, and this again was right out of the documentation.
 >
@@ -837,12 +827,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Working with hosts and variables in Ansible
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ansible-2020/working-with-hosts-and-variables-in-ansible?u=76281980)
+#### [Working with hosts and variables in Ansible](https://www.linkedin.com/learning/learning-ansible-2020/working-with-hosts-and-variables-in-ansible?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-ansible-2020/working-with-hosts-and-variables-in-ansible?u=76281980&t=0)** - [Instructor] Now that we understand that there is an inventory file that defines the hosts that we're going to be managing with Ansible, let's take a closer look at this.
+> **[0:00](https://www.linkedin.com/learning/learning-ansible-2020/working-with-hosts-and-variables-in-ansible?u=76281980&t=0)** - [Instructor] Now that we understand that there is an inventory file that defines the hosts that we're going to be managing with [[Ansible]], let's take a closer look at this.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-ansible-2020/working-with-hosts-and-variables-in-ansible?u=76281980&t=10)** And in fact, let's add the important concept of variables.
 >
@@ -850,7 +839,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/learning-ansible-2020/working-with-hosts-and-variables-in-ansible?u=76281980&t=26)** So here you can see I have a sample Ansible inventory file for us.
 >
-> **[0:31](https://www.linkedin.com/learning/learning-ansible-2020/working-with-hosts-and-variables-in-ansible?u=76281980&t=31)** And notice on line one, we have the word Southeast in square brackets.
+> **[0:31](https://www.linkedin.com/learning/learning-ansible-2020/working-with-hosts-and-variables-in-ansible?u=76281980&t=31)** And notice on line one, we have the [[Microsoft Word|word]] Southeast in square brackets.
 >
 > **[0:36](https://www.linkedin.com/learning/learning-ansible-2020/working-with-hosts-and-variables-in-ansible?u=76281980&t=36)** This indicates a group inside of the inventory file.
 >
@@ -864,7 +853,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/learning-ansible-2020/working-with-hosts-and-variables-in-ansible?u=76281980&t=82)** So, here we're able to make sure that for the local host, that we do not use SSH we just access that system locally, and then for our other1.[example.com](https://example.com), we will use the SSH functionality in order to access that remote host.
 >
-> **[1:40](https://www.linkedin.com/learning/learning-ansible-2020/working-with-hosts-and-variables-in-ansible?u=76281980&t=100)** Notice we also specify an Ansible user, and that is the ubuntu account on that remote system.
+> **[1:40](https://www.linkedin.com/learning/learning-ansible-2020/working-with-hosts-and-variables-in-ansible?u=76281980&t=100)** Notice we also specify an Ansible user, and that is the [[Ubuntu]] account on that remote system.
 >
 > **[1:47](https://www.linkedin.com/learning/learning-ansible-2020/working-with-hosts-and-variables-in-ansible?u=76281980&t=107)** So, notice how variables are really going to give us great flexibility.
 >
@@ -892,7 +881,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (9), [[Microsoft Word|Word]] (1), [[Ubuntu]] (1), node (1)
+> **Frameworks & Libraries:** [[Ansible]] (9), [[Microsoft Word|Word]] (1), [[Ubuntu]] (1)
 > **CLI Commands:** ansible (9), ssh (3), make (1), node (1)
 > **URLs:** [example.com](https://example.com) (4)
 > **Env Vars:** ssh (3)
@@ -900,8 +889,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with code in Ansible
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ansible-2020/working-with-code-in-ansible?u=76281980)
+#### [Working with code in Ansible](https://www.linkedin.com/learning/learning-ansible-2020/working-with-code-in-ansible?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -913,7 +901,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/learning-ansible-2020/working-with-code-in-ansible?u=76281980&t=19)** So let's take a deeper look at modules in this lesson.
 >
-> **[0:24](https://www.linkedin.com/learning/learning-ansible-2020/working-with-code-in-ansible?u=76281980&t=24)** So you will definitely want to visit the Ansible documentation as you begin to work with modules.
+> **[0:24](https://www.linkedin.com/learning/learning-ansible-2020/working-with-code-in-ansible?u=76281980&t=24)** So you will definitely want to visit the [[Ansible]] documentation as you begin to work with modules.
 >
 > **[0:32](https://www.linkedin.com/learning/learning-ansible-2020/working-with-code-in-ansible?u=76281980&t=32)** And you can go ahead and search the documentation for the module index.
 >
@@ -983,7 +971,7 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/learning-ansible-2020/working-with-code-in-ansible?u=76281980&t=275)** And this is wonderful, because this is a standardized format.
 >
-> **[4:40](https://www.linkedin.com/learning/learning-ansible-2020/working-with-code-in-ansible?u=76281980&t=280)** It's giving us this information in and this is JSON formatted output.
+> **[4:40](https://www.linkedin.com/learning/learning-ansible-2020/working-with-code-in-ansible?u=76281980&t=280)** It's giving us this information in and this is [[JSON]] formatted output.
 >
 > **[4:45](https://www.linkedin.com/learning/learning-ansible-2020/working-with-code-in-ansible?u=76281980&t=285)** So did this module change anything?
 >
@@ -1019,7 +1007,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (5), [[Search]] (1), hit (1), [[JSON]] (1), data (1)
+> **Frameworks & Libraries:** [[Ansible]] (5), [[JSON]] (1)
 > **CLI Commands:** ansible (5), find (5)
 > **Documentation:** the documentation (6)
 > **UI Navigation:** go to (2), scroll up (1)
@@ -1028,12 +1016,11 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Definitions:** is a  (1)
 
-#### Working with playbooks in Ansible
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ansible-2020/working-with-playbooks-in-ansible?u=76281980)
+#### [Working with playbooks in Ansible](https://www.linkedin.com/learning/learning-ansible-2020/working-with-playbooks-in-ansible?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-ansible-2020/working-with-playbooks-in-ansible?u=76281980&t=0)** - [Instructor] Sure ad hoc commands are very powerful with Ansible, allowing us to run commands against the systems of our choice, but let's face it, playbooks are where the power really comes into play.
+> **[0:00](https://www.linkedin.com/learning/learning-ansible-2020/working-with-playbooks-in-ansible?u=76281980&t=0)** - [Instructor] Sure ad hoc commands are very powerful with [[Ansible]], allowing us to run commands against the systems of our choice, but let's face it, playbooks are where the power really comes into play.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-ansible-2020/working-with-playbooks-in-ansible?u=76281980&t=13)** So let's turn to an editing software package like Atom, in order to create a playbook.
 >
@@ -1121,7 +1108,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (7), power (1), next (1)
+> **Frameworks & Libraries:** [[Ansible]] (7)
 > **CLI Commands:** ansible (7), make (4)
 > **Tools:** atom (2), command line (1), terminal (1)
 > **File Paths:** first.yml (3)
@@ -1130,12 +1117,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
 
-#### Challenge: Write a playbook with Ansible
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ansible-2020/challenge-write-a-playbook-with-ansible?u=76281980)
+#### [Challenge: Write a playbook with Ansible](https://www.linkedin.com/learning/learning-ansible-2020/challenge-write-a-playbook-with-ansible?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-ansible-2020/challenge-write-a-playbook-with-ansible?u=76281980&t=0)** - Well, I hope you're ready to really demonstrate the great knowledge that you've gained regarding this exciting product called Ansible.
+> **[0:00](https://www.linkedin.com/learning/learning-ansible-2020/challenge-write-a-playbook-with-ansible?u=76281980&t=0)** - Well, I hope you're ready to really demonstrate the great knowledge that you've gained regarding this exciting product called [[Ansible]].
 >
 > **[0:09](https://www.linkedin.com/learning/learning-ansible-2020/challenge-write-a-playbook-with-ansible?u=76281980&t=9)** In this challenge, you're going to write a Playbook in Ansible in order to carry out some tasks.
 >
@@ -1157,17 +1143,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (4), product (1), node (1)
+> **Frameworks & Libraries:** [[Ansible]] (4)
 > **CLI Commands:** ansible (4), node (1), make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - well (1)
 
-#### Solution: Write a playbook with Ansible
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ansible-2020/solution-write-a-playbook-with-ansible?u=76281980)
+#### [Solution: Write a playbook with Ansible](https://www.linkedin.com/learning/learning-ansible-2020/solution-write-a-playbook-with-ansible?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-ansible-2020/solution-write-a-playbook-with-ansible?u=76281980&t=0)** - So how did you do writing a playbook in Ansible?
+> **[0:00](https://www.linkedin.com/learning/learning-ansible-2020/solution-write-a-playbook-with-ansible?u=76281980&t=0)** - So how did you do writing a playbook in [[Ansible]]?
 >
 > **[0:03](https://www.linkedin.com/learning/learning-ansible-2020/solution-write-a-playbook-with-ansible?u=76281980&t=3)** Let me walk you through my solution.
 >
@@ -1219,12 +1204,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Ansible and remote management
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ansible-2020/ansible-and-remote-management?u=76281980)
+#### [Ansible and remote management](https://www.linkedin.com/learning/learning-ansible-2020/ansible-and-remote-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-ansible-2020/ansible-and-remote-management?u=76281980&t=0)** - [Instructor] Now as I'm sure you've noticed in order to easily test and practice with Ansible, you can execute things against your local host.
+> **[0:00](https://www.linkedin.com/learning/learning-ansible-2020/ansible-and-remote-management?u=76281980&t=0)** - [Instructor] Now as I'm sure you've noticed in order to easily test and practice with [[Ansible]], you can execute things against your local host.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-ansible-2020/ansible-and-remote-management?u=76281980&t=8)** But this is the control mode.
 >
@@ -1242,7 +1226,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/learning-ansible-2020/ansible-and-remote-management?u=76281980&t=45)** But let's see any files that are marked to be hidden.
 >
-> **[0:49](https://www.linkedin.com/learning/learning-ansible-2020/ansible-and-remote-management?u=76281980&t=49)** And of course, that's done in Linux with the period in front of the directory name in this case.
+> **[0:49](https://www.linkedin.com/learning/learning-ansible-2020/ansible-and-remote-management?u=76281980&t=49)** And of course, that's done in [[Linux]] with the period in front of the directory name in this case.
 >
 > **[0:54](https://www.linkedin.com/learning/learning-ansible-2020/ansible-and-remote-management?u=76281980&t=54)** So I'm going to change directories to the .ssh folder.
 >
@@ -1272,19 +1256,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (3), management (1), node (1), [[Linux]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Ansible]] (3), [[Linux]] (1)
 > **CLI Commands:** ssh (7), ansible (3), make (1), node (1)
 > **Env Vars:** ssh (5)
 > **Code Identifiers:** id_rsa (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ansible for orchestration
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ansible-2020/ansible-for-orchestration?u=76281980)
+#### [Ansible for orchestration](https://www.linkedin.com/learning/learning-ansible-2020/ansible-for-orchestration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-ansible-2020/ansible-for-orchestration?u=76281980&t=0)** - [Instructor] We certainly realize at this point that Ansible is simple and straight forward, but don't let that fool you.
+> **[0:00](https://www.linkedin.com/learning/learning-ansible-2020/ansible-for-orchestration?u=76281980&t=0)** - [Instructor] We certainly realize at this point that [[Ansible]] is simple and straight forward, but don't let that fool you.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-ansible-2020/ansible-for-orchestration?u=76281980&t=7)** Ansible can really engage in complex orchestrations for us.
 >
@@ -1352,7 +1335,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Orchestration]] (7), [[Ansible]] (5), next (3), [[Automation]] (2), management (1)
+> **Frameworks & Libraries:** [[Ansible]] (5)
 > **CLI Commands:** ansible (5), make (2), find (1)
 > **Env Vars:** vim (1)
 > **Tools:** vim (1)
@@ -1361,12 +1344,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 
-#### Ansible for system configuration management
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ansible-2020/ansible-for-system-configuration-management?u=76281980)
+#### [Ansible for system configuration management](https://www.linkedin.com/learning/learning-ansible-2020/ansible-for-system-configuration-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-ansible-2020/ansible-for-system-configuration-management?u=76281980&t=0)** - [Instructor] Ansible is used for configuration management of systems so often that many network engineers, really think that's all it does.
+> **[0:00](https://www.linkedin.com/learning/learning-ansible-2020/ansible-for-system-configuration-management?u=76281980&t=0)** - [Instructor] [[Ansible]] is used for [[Configuration Management]] of systems so often that many network engineers, really think that's all it does.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-ansible-2020/ansible-for-system-configuration-management?u=76281980&t=10)** Let's quickly discuss and demonstrate the use of Ansible for configuration management.
 >
@@ -1418,7 +1400,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (7), [[Configuration Management]] (2), product (1), node (1), next (1)
+> **Frameworks & Libraries:** [[Ansible]] (7), [[Configuration Management]] (2)
 > **Env Vars:** ntp (10), apt (1)
 > **CLI Commands:** ansible (7), node (1), make (1), apt (1)
 > **File Paths:** ntp.yml (2)
@@ -1426,14 +1408,13 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### React to configuration changes with Ansible
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ansible-2020/react-to-configuration-changes-with-ansible?u=76281980)
+#### [React to configuration changes with Ansible](https://www.linkedin.com/learning/learning-ansible-2020/react-to-configuration-changes-with-ansible?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-ansible-2020/react-to-configuration-changes-with-ansible?u=76281980&t=0)** - [Instructor] Now, if you're like me, you've been really impressed with Ansible so far but we need to make it even more flexible.
+> **[0:00](https://www.linkedin.com/learning/learning-ansible-2020/react-to-configuration-changes-with-ansible?u=76281980&t=0)** - [Instructor] Now, if you're like me, you've been really impressed with [[Ansible]] so far but we need to make it even more flexible.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-ansible-2020/react-to-configuration-changes-with-ansible?u=76281980&t=7)** We need Ansible to be able to react to things like configuration changes.
+> **[0:07](https://www.linkedin.com/learning/learning-ansible-2020/react-to-configuration-changes-with-ansible?u=76281980&t=7)** We need Ansible to be able to [[React.js|react]] to things like configuration changes.
 >
 > **[0:12](https://www.linkedin.com/learning/learning-ansible-2020/react-to-configuration-changes-with-ansible?u=76281980&t=12)** Think about it.
 >
@@ -1443,7 +1424,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/learning-ansible-2020/react-to-configuration-changes-with-ansible?u=76281980&t=31)** So here we can see our playbook that's called React with Change Example.
 >
-> **[0:35](https://www.linkedin.com/learning/learning-ansible-2020/react-to-configuration-changes-with-ansible?u=76281980&t=35)** And we're running a serial-type fashion of execution across our web servers.
+> **[0:35](https://www.linkedin.com/learning/learning-ansible-2020/react-to-configuration-changes-with-ansible?u=76281980&t=35)** And we're running a serial-type fashion of execution across our [[Web Servers]].
 >
 > **[0:40](https://www.linkedin.com/learning/learning-ansible-2020/react-to-configuration-changes-with-ansible?u=76281980&t=40)** Notice, we're just simulating this with debugs.
 >
@@ -1483,7 +1464,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (5), [[React.js|React]] (2), web (2), feature (1)
+> **Frameworks & Libraries:** [[Ansible]] (5), [[React.js|React]] (2), [[Web Servers]] (1)
 > **CLI Commands:** nginx (7), ansible (5), make (3)
 > **Prerequisites:** configure (2), install (1)
 > **File Paths:** change.yml (1)
@@ -1491,18 +1472,17 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Infrastructure management with Ansible
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ansible-2020/infrastructure-management-with-ansible?u=76281980)
+#### [Infrastructure management with Ansible](https://www.linkedin.com/learning/learning-ansible-2020/infrastructure-management-with-ansible?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-ansible-2020/infrastructure-management-with-ansible?u=76281980&t=0)** - [Instructor] Another really exciting aspect of Ansible is the fact that it cannot only help you when it comes to the management of configurations, but it can literally build and manage your infrastructures.
+> **[0:00](https://www.linkedin.com/learning/learning-ansible-2020/infrastructure-management-with-ansible?u=76281980&t=0)** - [Instructor] Another really exciting aspect of [[Ansible]] is the fact that it cannot only help you when it comes to the management of configurations, but it can literally build and manage your infrastructures.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-ansible-2020/infrastructure-management-with-ansible?u=76281980&t=13)** This has led to a real resurgence in the popularity of Ansible.
 >
 > **[0:19](https://www.linkedin.com/learning/learning-ansible-2020/infrastructure-management-with-ansible?u=76281980&t=19)** You see, with cloud technologies, we can use Ansible playbooks to build our infrastructure from the ground up, and with dynamic inventories we can be notified of inventory manipulations dynamically and our inventory can reflect what is being done in the cloud.
 >
-> **[0:39](https://www.linkedin.com/learning/learning-ansible-2020/infrastructure-management-with-ansible?u=76281980&t=39)** Playbooks can literally provision the underlying hardware for us that we're going to be utilizing inside of the cloud.
+> **[0:39](https://www.linkedin.com/learning/learning-ansible-2020/infrastructure-management-with-ansible?u=76281980&t=39)** Playbooks can literally provision the underlying [[Hardware]] for us that we're going to be utilizing inside of the cloud.
 >
 > **[0:48](https://www.linkedin.com/learning/learning-ansible-2020/infrastructure-management-with-ansible?u=76281980&t=48)** And Ansible does such a great job with this because it really is primed to manage the virtualization on top of that physical infrastructure.
 >
@@ -1510,20 +1490,19 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/learning-ansible-2020/infrastructure-management-with-ansible?u=76281980&t=68)** Finally, another thing that makes Ansible very well-suited for this task in the cloud-centric world we're in today is that as we know, it has wide range of support for operating systems.
 >
-> **[1:21](https://www.linkedin.com/learning/learning-ansible-2020/infrastructure-management-with-ansible?u=76281980&t=81)** So in the cloud we love to use a variety of different operating systems to make our solution really flexible and agile, and Ansible is well-suited for that purpose.
+> **[1:21](https://www.linkedin.com/learning/learning-ansible-2020/infrastructure-management-with-ansible?u=76281980&t=81)** So in the cloud we love to use a variety of different operating systems to make our solution really flexible and [[Agile Development|agile]], and Ansible is well-suited for that purpose.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (7), cloud (5), [[Virtualization]] (2), management (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Ansible]] (7), [[Hardware]] (1), [[Agile Development|Agile]] (1)
 > **CLI Commands:** ansible (7), make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Repeating tasks across fleets with Ansible
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ansible-2020/repeating-tasks-across-fleets-with-ansible?u=76281980)
+#### [Repeating tasks across fleets with Ansible](https://www.linkedin.com/learning/learning-ansible-2020/repeating-tasks-across-fleets-with-ansible?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-ansible-2020/repeating-tasks-across-fleets-with-ansible?u=76281980&t=0)** - [Instructor] When most people think of Ansible, they think about repeating tasks across fleets of systems.
+> **[0:00](https://www.linkedin.com/learning/learning-ansible-2020/repeating-tasks-across-fleets-with-ansible?u=76281980&t=0)** - [Instructor] When most people think of [[Ansible]], they think about repeating tasks across fleets of systems.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-ansible-2020/repeating-tasks-across-fleets-with-ansible?u=76281980&t=6)** We might have thousands of systems that we want to be able to configure or make changes on and Ansible certainly shines at this.
 >
@@ -1597,7 +1576,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (10), next (1)
+> **Frameworks & Libraries:** [[Ansible]] (10)
 > **CLI Commands:** ansible (10), make (1)
 > **Definitions:** is a  (3), is called (1), is an  (1)
 > **Prerequisites:** configure (1), set up (1)
@@ -1611,20 +1590,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing on with Ansible
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ansible-2020/continuing-on-with-ansible?u=76281980)
+#### [Continuing on with Ansible](https://www.linkedin.com/learning/learning-ansible-2020/continuing-on-with-ansible?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-ansible-2020/continuing-on-with-ansible?u=76281980&t=0)** - [Anthony Sequeira] Well, congratulations.
 >
-> **[0:02](https://www.linkedin.com/learning/learning-ansible-2020/continuing-on-with-ansible?u=76281980&t=2)** You've completed our course and built a nice, strong foundation in Ansible.
+> **[0:02](https://www.linkedin.com/learning/learning-ansible-2020/continuing-on-with-ansible?u=76281980&t=2)** You've completed our course and built a nice, strong foundation in [[Ansible]].
 >
 > **[0:08](https://www.linkedin.com/learning/learning-ansible-2020/continuing-on-with-ansible?u=76281980&t=8)** But there's a lot more to learn about this exciting tool.
 >
-> **[0:13](https://www.linkedin.com/learning/learning-ansible-2020/continuing-on-with-ansible?u=76281980&t=13)** So I would challenge you to visit the LinkedIn Learning library and take a look at some of the deeper dives that we have available for you regarding Ansible.
+> **[0:13](https://www.linkedin.com/learning/learning-ansible-2020/continuing-on-with-ansible?u=76281980&t=13)** So I would challenge you to visit the [[LinkedIn]] Learning library and take a look at some of the deeper dives that we have available for you regarding Ansible.
 >
-> **[0:25](https://www.linkedin.com/learning/learning-ansible-2020/continuing-on-with-ansible?u=76281980&t=25)** Now, since Ansible is installed on a Linux system, typically, and can manage very effectively your other Linux systems, maybe you'd like to boost your knowledge of Linux.
+> **[0:25](https://www.linkedin.com/learning/learning-ansible-2020/continuing-on-with-ansible?u=76281980&t=25)** Now, since Ansible is installed on a [[Linux]] system, typically, and can manage very effectively your other Linux systems, maybe you'd like to boost your knowledge of Linux.
 >
 > **[0:37](https://www.linkedin.com/learning/learning-ansible-2020/continuing-on-with-ansible?u=76281980&t=37)** Well, you'll be excited to learn that there are plenty of great Linux courses in the library as well.
 >

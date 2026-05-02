@@ -76,12 +76,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prototyping for creative problem solving
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/prototyping-for-creative-problem-solving?u=76281980)
+#### [Prototyping for creative problem solving](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/prototyping-for-creative-problem-solving?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/prototyping-for-creative-problem-solving?u=76281980&t=0)** - Prototyping is a core element of creative problem solving, often called design thinking.
+> **[0:00](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/prototyping-for-creative-problem-solving?u=76281980&t=0)** - [[Prototyping]] is a core element of creative problem solving, often called [[Design Thinking]].
 >
 > **[0:06](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/prototyping-for-creative-problem-solving?u=76281980&t=6)** In this course, you'll learn how to use this powerful form of idea generation and communication.
 >
@@ -99,21 +98,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Prototyping]] (3), [[Design Thinking]] (1), career (1)
+> **Frameworks & Libraries:** [[Prototyping]] (3), [[Design Thinking]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - prototyping (1)
 
-#### The power of prototyping
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/the-power-of-prototyping?u=76281980)
+#### [The power of prototyping](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/the-power-of-prototyping?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/the-power-of-prototyping?u=76281980&t=0)** - For a product to be successful today, it must deliver a great experience, so product design requires teams to rapidly explore solutions and communicate these clearly to others.
+> **[0:00](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/the-power-of-prototyping?u=76281980&t=0)** - For a product to be successful today, it must deliver a great experience, so [[Product Design]] requires teams to rapidly explore solutions and communicate these clearly to others.
 >
 > **[0:14](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/the-power-of-prototyping?u=76281980&t=14)** Without the ability to rapidly prototype new user experiences, most teams and companies are not able to keep up with the rapid pace of market change.
 >
-> **[0:25](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/the-power-of-prototyping?u=76281980&t=25)** Prototyping has always been a part of the design process.
+> **[0:25](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/the-power-of-prototyping?u=76281980&t=25)** [[Prototyping]] has always been a part of the design process.
 >
 > **[0:28](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/the-power-of-prototyping?u=76281980&t=28)** In the industrial revolution, prototyping and experimentation transformed society with innovations like the steam engine.
 >
@@ -121,7 +119,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/the-power-of-prototyping?u=76281980&t=43)** At the start of the Digital Age, this sped up when designers started experimenting with off-the-shelf parts to quickly explore the possibilities of new technologies.
 >
-> **[0:55](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/the-power-of-prototyping?u=76281980&t=55)** For example, the first Atari console was built of parts from arcade games, and the introduction of cheap transistor technology created new forms of music by inventors like Bob Moog, both of which transform markets.
+> **[0:55](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/the-power-of-prototyping?u=76281980&t=55)** For example, the first Atari console was built of parts from arcade games, and the introduction of cheap transistor technology created new [[Forms]] of music by inventors like Bob Moog, both of which transform markets.
 >
 > **[1:10](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/the-power-of-prototyping?u=76281980&t=70)** Today, industry moves at light speed, with a mantra of fail fast and fail often because we have so many tools at our disposal to quickly try ideas to unlock new opportunities in markets.
 >
@@ -133,7 +131,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/the-power-of-prototyping?u=76281980&t=100)** The good news: prototyping has become more rapid, accessible, and less expensive, and you can learn how to use these approaches and collaborate with technologists to accelerate the creation of new ideas and elegant solutions to complex problems.
 >
-> **[1:59](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/the-power-of-prototyping?u=76281980&t=119)** When you make prototyping part of your design thinking team to make frequent design experiments, together, you will change your world.
+> **[1:59](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/the-power-of-prototyping?u=76281980&t=119)** When you make prototyping part of your [[Design Thinking]] team to make frequent design experiments, together, you will change your world.
 >
 > **[2:08](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/the-power-of-prototyping?u=76281980&t=128)** So prototyping no longer needs to be big, slow, and costly.
 >
@@ -141,23 +139,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Prototyping]] (7), product (2), teams (2), business (2), [[Design Thinking]] (2)
+> **Frameworks & Libraries:** [[Prototyping]] (7), [[Design Thinking]] (2), [[Product Design]] (1), [[Forms]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Speakers:** - for (1)
 
-#### The four categories of prototyping
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/the-four-categories-of-prototyping?u=76281980)
+#### [The four categories of prototyping](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/the-four-categories-of-prototyping?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/the-four-categories-of-prototyping?u=76281980&t=0)** - To figure out what type of prototype you need to create, think about the questions your team is trying to answer.
 >
-> **[0:06](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/the-four-categories-of-prototyping?u=76281980&t=6)** It helps me to think about these questions as four categories of prototyping.
+> **[0:06](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/the-four-categories-of-prototyping?u=76281980&t=6)** It helps me to think about these questions as four categories of [[Prototyping]].
 >
-> **[0:11](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/the-four-categories-of-prototyping?u=76281980&t=11)** Sometimes we need to generate new ideas, convey complex interactions, document design intent, or learn how users react to those ideas.
+> **[0:11](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/the-four-categories-of-prototyping?u=76281980&t=11)** Sometimes we need to generate new ideas, convey complex interactions, document design intent, or learn how users [[React.js|react]] to those ideas.
 >
-> **[0:22](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/the-four-categories-of-prototyping?u=76281980&t=22)** For example, at Expedia Group, we worked on reducing the complexity of planning travel by leveraging natural language and generative AI technologies, specifically large language models.
+> **[0:22](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/the-four-categories-of-prototyping?u=76281980&t=22)** For example, at Expedia Group, we worked on reducing the complexity of planning travel by leveraging natural language and [[Generative AI]] technologies, specifically [[Large Language Models (LLM)|large language models]].
 >
 > **[0:35](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/the-four-categories-of-prototyping?u=76281980&t=35)** Early on, we needed to generate ideas for how LLMs and recommendation engines could address known challenges in travel planning.
 >
@@ -175,7 +172,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/the-four-categories-of-prototyping?u=76281980&t=108)** UCD is all about designing with the person's needs in mind throughout the process.
 >
-> **[1:54](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/the-four-categories-of-prototyping?u=76281980&t=114)** These four categories also dovetail nicely with design thinking activities like research, ideation, concepting, building, and validating.
+> **[1:54](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/the-four-categories-of-prototyping?u=76281980&t=114)** These four categories also dovetail nicely with [[Design Thinking]] activities like research, ideation, concepting, building, and validating.
 >
 > **[2:05](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/the-four-categories-of-prototyping?u=76281980&t=125)** So next time your business or customer faces an important challenge, use these four categories to zero in on your goals, whether it be to generate ideas, convey complex interactions, document the design intent, or learn how successful people feel your solutions are.
 >
@@ -195,14 +192,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Generate ideas rapidly
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/generate-ideas-rapidly?u=76281980)
+#### [Generate ideas rapidly](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/generate-ideas-rapidly?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/generate-ideas-rapidly?u=76281980&t=0)** - A common prototype is typically a usable product or testable experiment.
 >
-> **[0:06](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/generate-ideas-rapidly?u=76281980&t=6)** They're a great way to communicate an idea as a working concept that people can react to.
+> **[0:06](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/generate-ideas-rapidly?u=76281980&t=6)** They're a great way to communicate an idea as a working concept that people can [[React.js|react]] to.
 >
 > **[0:11](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/generate-ideas-rapidly?u=76281980&t=11)** But to facilitate this, an idea must be generated and a fully formed concept must be created.
 >
@@ -214,7 +210,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/generate-ideas-rapidly?u=76281980&t=46)** But innovation often comes from many ideas that are a shared effort.
 >
-> **[0:52](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/generate-ideas-rapidly?u=76281980&t=52)** So how do you generate ideas collaboratively, and enjoy the sensory impact prototyping provides?
+> **[0:52](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/generate-ideas-rapidly?u=76281980&t=52)** So how do you generate ideas collaboratively, and enjoy the sensory impact [[Prototyping]] provides?
 >
 > **[1:00](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/generate-ideas-rapidly?u=76281980&t=60)** Before we dive in, think about what you're trying to achieve with this prototype.
 >
@@ -240,7 +236,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/generate-ideas-rapidly?u=76281980&t=134)** But it's possible if you keep your concepts abstract, and your methods extremely lightweight.
 >
-> **[2:21](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/generate-ideas-rapidly?u=76281980&t=141)** So to prototype with paper, instead of sketching only in one dimension, you can fold the paper to create depth or create a strip with several scenes to show how things change as someone interacts with it.
+> **[2:21](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/generate-ideas-rapidly?u=76281980&t=141)** So to prototype with paper, instead of [[Sketching]] only in one dimension, you can fold the paper to create depth or create a strip with several scenes to show how things change as someone interacts with it.
 >
 > **[2:34](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/generate-ideas-rapidly?u=76281980&t=154)** You can even paper prototype in three dimensions by simply using transparent and semi-transparent Mylar with some clear tape and markers to illustrate changes in state, we found this is a great way to reframe ideas because using paper is much faster and keeps you from getting lost in the details.
 >
@@ -254,18 +250,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Prototyping]] (2), product (1), [[React.js|React]] (1), career (1), teams (1)
+> **Frameworks & Libraries:** [[Prototyping]] (2), [[React.js|React]] (1), [[Sketching]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - a (1)
 
-#### The value of a prototype: Is the time right?
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/the-value-of-a-prototype-is-the-time-right?u=76281980)
+#### [The value of a prototype: Is the time right?](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/the-value-of-a-prototype-is-the-time-right?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/the-value-of-a-prototype-is-the-time-right?u=76281980&t=0)** - Prototyping is a core skill in design thinking, but it isn't always the right activity for every challenge you'll face in the design process.
+> **[0:00](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/the-value-of-a-prototype-is-the-time-right?u=76281980&t=0)** - [[Prototyping]] is a core skill in [[Design Thinking]], but it isn't always the right activity for every challenge you'll face in the design process.
 >
 > **[0:10](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/the-value-of-a-prototype-is-the-time-right?u=76281980&t=10)** Have you ever struggled to explain an idea, test a risky assumption, or align your team on a decision?
 >
@@ -307,33 +302,32 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Prototyping]] (6), [[Design Thinking]] (2), teams (2), business (1)
+> **Frameworks & Libraries:** [[Prototyping]] (6), [[Design Thinking]] (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - prototyping (1)
 
-#### Reduce design and technical debt
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/reduce-design-and-technical-debt?u=76281980)
+#### [Reduce design and technical debt](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/reduce-design-and-technical-debt?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/reduce-design-and-technical-debt?u=76281980&t=0)** - Product and service design today, especially when working with complex technologies.
 >
-> **[0:05](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/reduce-design-and-technical-debt?u=76281980&t=5)** like generative AI, large language models, LLMs, and agent-based models, ABMs, must be approached with careful planning to avoid creating waste.
+> **[0:05](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/reduce-design-and-technical-debt?u=76281980&t=5)** like [[Generative AI]], [[Large Language Models (LLM)|large language models]], LLMs, and agent-based models, ABMs, must be approached with careful planning to avoid creating waste.
 >
 > **[0:17](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/reduce-design-and-technical-debt?u=76281980&t=17)** By generating working designs like working software, we can avoid creating designs that are unsupported by or not applicable to the actual technologies.
 >
 > **[0:28](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/reduce-design-and-technical-debt?u=76281980&t=28)** We can reduce the potential for design debt.
 >
-> **[0:32](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/reduce-design-and-technical-debt?u=76281980&t=32)** This is similar to traditional Agile and Lean methodologies where waste refers to anything that doesn't contribute to the working product.
+> **[0:32](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/reduce-design-and-technical-debt?u=76281980&t=32)** This is similar to traditional [[Agile Development|Agile]] and Lean methodologies where waste refers to anything that doesn't contribute to the working product.
 >
 > **[0:41](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/reduce-design-and-technical-debt?u=76281980&t=41)** This could be excessive documentation, unnecessary work, or misaligned features.
 >
 > **[0:47](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/reduce-design-and-technical-debt?u=76281980&t=47)** The goal is to eliminate these inefficiencies by focusing on rapid delivery and iteration.
 >
-> **[0:54](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/reduce-design-and-technical-debt?u=76281980&t=54)** With the rise of AI technologies, the prototyping process requires a shift.
+> **[0:54](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/reduce-design-and-technical-debt?u=76281980&t=54)** With the rise of AI technologies, the [[Prototyping]] process requires a shift.
 >
-> **[1:00](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/reduce-design-and-technical-debt?u=76281980&t=60)** Before diving into design deliverables like wireframes or clickable figma prototypes, you first need to evaluate the value your AI models can actually provide.
+> **[1:00](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/reduce-design-and-technical-debt?u=76281980&t=60)** Before diving into design deliverables like wireframes or clickable [[Figma (Software)|figma]] prototypes, you first need to evaluate the value your AI models can actually provide.
 >
 > **[1:13](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/reduce-design-and-technical-debt?u=76281980&t=73)** Prototyping with AI should begin by testing how well the model delivers the expected outputs, and judging the level of value it can actually offer.
 >
@@ -347,7 +341,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/reduce-design-and-technical-debt?u=76281980&t=120)** An example of this is that in many design teams, there's still a tendency to follow a more traditional waterfall style approach, working ahead of development.
 >
-> **[2:11](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/reduce-design-and-technical-debt?u=76281980&t=131)** This often separates the design team from the rest of the project, creating inefficiencies and prolonging cycles.
+> **[2:11](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/reduce-design-and-technical-debt?u=76281980&t=131)** This often separates the design team from the [[Representational State Transfer (REST)|rest]] of the project, creating inefficiencies and prolonging cycles.
 >
 > **[2:20](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/reduce-design-and-technical-debt?u=76281980&t=140)** Instead of working in isolation, the key is to create synergy across the entire team.
 >
@@ -387,7 +381,7 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/reduce-design-and-technical-debt?u=76281980&t=241)** Prototypes help you learn about user interactions and gauge interest.
 >
-> **[4:05](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/reduce-design-and-technical-debt?u=76281980&t=245)** With AI-driven products, this rapid feedback loop can help you identify if the model is truly solving the problem before going into full scale design.
+> **[4:05](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/reduce-design-and-technical-debt?u=76281980&t=245)** With AI-driven [[Microsoft Products|products]], this rapid feedback loop can help you identify if the model is truly solving the problem before going into full scale design.
 >
 > **[4:16](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/reduce-design-and-technical-debt?u=76281980&t=256)** By focusing on these steps and prioritizing technology, and in some cases, model validation upfront, you'll significantly reduce design debt and accelerate collaboration.
 >
@@ -399,7 +393,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), [[Prototyping]] (3), product (2), [[Agile Development|Agile]] (2), next (2)
+> **Frameworks & Libraries:** [[Prototyping]] (3), [[Agile Development|Agile]] (2), [[Generative AI]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[Figma (Software)|Figma]] (1)
 > **Analogies:** similar to (1), such as (1)
 > **Tools:** figma (1)
 > **Definitions:** refers to (1)
@@ -411,12 +405,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use simulations to study interactions and flows
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/use-simulations-to-study-interactions-and-flows?u=76281980)
+#### [Use simulations to study interactions and flows](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/use-simulations-to-study-interactions-and-flows?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/use-simulations-to-study-interactions-and-flows?u=76281980&t=0)** - User-centered design creates design systems composed of interaction models and workflows in support of the desired experience.
+> **[0:00](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/use-simulations-to-study-interactions-and-flows?u=76281980&t=0)** - User-centered design creates [[Design Systems]] composed of interaction models and workflows in support of the desired experience.
 >
 > **[0:10](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/use-simulations-to-study-interactions-and-flows?u=76281980&t=10)** These systems are frequently described using annotated wireframes and other written static design documentation to detail each interaction and how they relate to one another.
 >
@@ -426,11 +419,11 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/use-simulations-to-study-interactions-and-flows?u=76281980&t=42)** For example, this really becomes difficult when you're designing systems for conversational experiences, such as those powered by AI that uses an LLM, a large language model, because you are often left guessing what all the possible responses might be, hoping to develop the right set of patterns.
 >
-> **[1:02](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/use-simulations-to-study-interactions-and-flows?u=76281980&t=62)** Large language models are simply a type of artificial intelligence that is able to understand and generate human language.
+> **[1:02](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/use-simulations-to-study-interactions-and-flows?u=76281980&t=62)** [[Large Language Models (LLM)|Large language models]] are simply a type of [[Artificial Intelligence (AI)|artificial intelligence]] that is able to understand and generate human language.
 >
-> **[1:10](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/use-simulations-to-study-interactions-and-flows?u=76281980&t=70)** LLMs are trained on large amounts of data and, similar to a human who is trained in the medical field, can perform a variety of natural language processing tasks, like answering questions or summarizing the findings from several large bodies of research.
+> **[1:10](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/use-simulations-to-study-interactions-and-flows?u=76281980&t=70)** LLMs are trained on large amounts of data and, similar to a human who is trained in the medical field, can perform a variety of [[Natural Language Processing (NLP)|natural language processing]] tasks, like answering questions or summarizing the findings from several large bodies of research.
 >
-> **[1:27](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/use-simulations-to-study-interactions-and-flows?u=76281980&t=87)** One of the biggest mistakes teams make is jumping into prototyping without knowing what they're actually trying to answer.
+> **[1:27](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/use-simulations-to-study-interactions-and-flows?u=76281980&t=87)** One of the biggest mistakes teams make is jumping into [[Prototyping]] without knowing what they're actually trying to answer.
 >
 > **[1:35](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/use-simulations-to-study-interactions-and-flows?u=76281980&t=95)** That's why we break it down into four categories.
 >
@@ -444,7 +437,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/use-simulations-to-study-interactions-and-flows?u=76281980&t=135)** There are several types of prototypes today that fall into the category of what many like to call simulations.
 >
-> **[2:23](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/use-simulations-to-study-interactions-and-flows?u=76281980&t=143)** A simulation is an imitation of an interaction of a real-world process over time, using the fastest and often cheapest technologies and materials.
+> **[2:23](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/use-simulations-to-study-interactions-and-flows?u=76281980&t=143)** A [[Simulation]] is an imitation of an interaction of a real-world process over time, using the fastest and often cheapest technologies and materials.
 >
 > **[2:35](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/use-simulations-to-study-interactions-and-flows?u=76281980&t=155)** They're super useful for a variety of design activities because they are largely unhindered by production constraints, so they can be used to quickly study micro-interactions and entire models or flows.
 >
@@ -478,19 +471,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Prototyping]] (3), functional (2), [[Simulation]] (2), [[Design Systems]] (1), ai (1)
+> **Frameworks & Libraries:** [[Prototyping]] (3), [[Simulation]] (2), [[Design Systems]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Analogies:** for example (3), such as (1), similar to (1)
 > **Env Vars:** llm (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - user (1)
 
-#### Explore technologies
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/explore-technologies?u=76281980)
+#### [Explore technologies](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/explore-technologies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/explore-technologies?u=76281980&t=0)** - Have you heard of experimental research and prototyping with emerging technologies?
+> **[0:00](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/explore-technologies?u=76281980&t=0)** - Have you heard of experimental research and [[Prototyping]] with emerging technologies?
 >
 > **[0:05](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/explore-technologies?u=76281980&t=5)** It's about using technology as a medium to push designs and the technologies themselves into new and unexpected directions.
 >
@@ -518,7 +510,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/explore-technologies?u=76281980&t=94)** Machine learning is a subset of AI.
 >
-> **[1:37](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/explore-technologies?u=76281980&t=97)** Artificial intelligence is the science of getting computers to act without being explicitly programmed.
+> **[1:37](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/explore-technologies?u=76281980&t=97)** [[Artificial Intelligence (AI)|Artificial intelligence]] is the science of getting computers to act without being explicitly programmed.
 >
 > **[1:44](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/explore-technologies?u=76281980&t=104)** Think about the recommended section on Amazon or the Watch Next suggestions on Netflix.
 >
@@ -550,7 +542,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/explore-technologies?u=76281980&t=215)** These become your proof of concepts that can now be prioritized as candidates for customer validation.
 >
-> **[3:43](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/explore-technologies?u=76281980&t=223)** Today, you can't create a user experience without designing with technology.
+> **[3:43](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/explore-technologies?u=76281980&t=223)** Today, you can't create a [[User Experience (UX)|user experience]] without designing with technology.
 >
 > **[3:49](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/explore-technologies?u=76281980&t=229)** If your goal is to experiment with a technology to learn what might be possible, leverage the four components.
 >
@@ -558,14 +550,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Prototyping]] (3), next (3), ai (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), application (1)
+> **Frameworks & Libraries:** [[Prototyping]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[User Experience (UX)|User experience]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** imagine (1), for example (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - have (1)
 
-#### Creating objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/creating-objects?u=76281980)
+#### [Creating objects](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/creating-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -581,13 +572,13 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/creating-objects?u=76281980&t=35)** Have you ever struggled to explain an idea, test a risky assumption, or align your team on a decision?
 >
-> **[0:42](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/creating-objects?u=76281980&t=42)** That's exactly why prototyping exists.
+> **[0:42](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/creating-objects?u=76281980&t=42)** That's exactly why [[Prototyping]] exists.
 >
 > **[0:45](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/creating-objects?u=76281980&t=45)** Every prototype fits into one or more of four categories: Generate, Convey, Document, or Learn.
 >
 > **[0:53](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/creating-objects?u=76281980&t=53)** So, what if you don't have the team or fancy tools?
 >
-> **[0:57](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/creating-objects?u=76281980&t=57)** Although those conditions may exist, you can convey by prototyping objects using a variety of materials that can be crafted by hand or rapidly created using low-cost hardware.
+> **[0:57](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/creating-objects?u=76281980&t=57)** Although those conditions may exist, you can convey by prototyping objects using a variety of materials that can be crafted by hand or rapidly created using low-cost [[Hardware]].
 >
 > **[1:11](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/creating-objects?u=76281980&t=71)** That means objects can be created around ideas that involve sensing, networks of physical devices, vehicles, buildings, and other items.
 >
@@ -621,15 +612,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Prototyping]] (5), next (2), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Prototyping]] (5), [[Hardware]] (1)
 > **Analogies:** imagine (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** diy (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - a (1)
 
-#### Convey: When pages are not enough
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/convey-when-pages-are-not-enough?u=76281980)
+#### [Convey: When pages are not enough](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/convey-when-pages-are-not-enough?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -645,7 +635,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/convey-when-pages-are-not-enough?u=76281980&t=46)** The key, of course, is knowing what kind of answers you need.
 >
-> **[0:49](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/convey-when-pages-are-not-enough?u=76281980&t=49)** That's why we use four categories of prototyping, generate, convey, document, and learn.
+> **[0:49](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/convey-when-pages-are-not-enough?u=76281980&t=49)** That's why we use four categories of [[Prototyping]], generate, convey, document, and learn.
 >
 > **[0:56](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/convey-when-pages-are-not-enough?u=76281980&t=56)** In this example, it's all about conveying a complex experience, which means we'll focus on conveying.
 >
@@ -671,13 +661,13 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/convey-when-pages-are-not-enough?u=76281980&t=155)** That meant revisiting our prototyping approach, and we found that a mobile single page prototype that was touch-enabled would convey most of our design.
 >
-> **[2:46](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/convey-when-pages-are-not-enough?u=76281980&t=166)** So the next time you start to design a solution and you need to convey a complex user experience, ask yourself, "Are you generating, conveying, documenting, or learning?"
+> **[2:46](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/convey-when-pages-are-not-enough?u=76281980&t=166)** So the next time you start to design a solution and you need to convey a complex [[User Experience (UX)|user experience]], ask yourself, "Are you generating, conveying, documenting, or learning?"
 >
 > **[2:58](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/convey-when-pages-are-not-enough?u=76281980&t=178)** In this case, we focused on conveying, but as you explore further, you'll see how these approaches overlap and actually strengthen each other.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Prototyping]] (3), product (1), application (1), next (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[Prototyping]] (3), [[User Experience (UX)|User experience]] (1)
 > **Analogies:** it's like (1), for example (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - user (1)
@@ -687,12 +677,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Document: When requirement docs and pages fall short
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/document-when-requirement-docs-and-pages-fall-short?u=76281980)
+#### [Document: When requirement docs and pages fall short](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/document-when-requirement-docs-and-pages-fall-short?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/document-when-requirement-docs-and-pages-fall-short?u=76281980&t=0)** - Modern businesses use a variety of strategies to bring great products to market quickly.
+> **[0:00](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/document-when-requirement-docs-and-pages-fall-short?u=76281980&t=0)** - Modern businesses use a variety of strategies to bring great [[Microsoft Products|products]] to market quickly.
 >
 > **[0:06](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/document-when-requirement-docs-and-pages-fall-short?u=76281980&t=6)** To do this, many of them leverage outside help from design consultancies and use near or offshore development.
 >
@@ -712,7 +701,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/document-when-requirement-docs-and-pages-fall-short?u=76281980&t=74)** Are you generating new ideas, conveying interactions, documenting intent, or learning from users?
 >
-> **[1:23](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/document-when-requirement-docs-and-pages-fall-short?u=76281980&t=83)** Prototypes as design handoffs have the ability to quickly convey the designs of motion and personality, which fits well within the short cycles or sprints commonly used by popular business methodologies like Agile and Lean.
+> **[1:23](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/document-when-requirement-docs-and-pages-fall-short?u=76281980&t=83)** Prototypes as design handoffs have the ability to quickly convey the designs of motion and personality, which fits well within the short cycles or sprints commonly used by popular business methodologies like [[Agile Development|Agile]] and Lean.
 >
 > **[1:40](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/document-when-requirement-docs-and-pages-fall-short?u=76281980&t=100)** In this chapter, we're focusing on documenting, which means our goal is to document the design intent to a degree that another team can run with it as it was intended.
 >
@@ -740,7 +729,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/document-when-requirement-docs-and-pages-fall-short?u=76281980&t=170)** They need design handoffs that effectively convey the intent of the design to other teams, and prototypes do that very well.
 >
-> **[2:59](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/document-when-requirement-docs-and-pages-fall-short?u=76281980&t=179)** Prototyping isn't a rigid process.
+> **[2:59](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/document-when-requirement-docs-and-pages-fall-short?u=76281980&t=179)** [[Prototyping]] isn't a rigid process.
 >
 > **[3:02](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/document-when-requirement-docs-and-pages-fall-short?u=76281980&t=182)** Categories blend, and the best prototypes often evolve across multiple types.
 >
@@ -750,24 +739,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), [[Microsoft Products|Products]] (1), [[Engineering]] (1), business (1), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Agile Development|Agile]] (1), [[Prototyping]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Best Practices:** remember to (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - modern (1)
 
-#### Document better with prototyping
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/document-better-with-prototyping?u=76281980)
+#### [Document better with prototyping](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/document-better-with-prototyping?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/document-better-with-prototyping?u=76281980&t=0)** - The goal of design thinking is to make something that comes to life in the real world and can be experienced by the people you've made it for.
+> **[0:00](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/document-better-with-prototyping?u=76281980&t=0)** - The goal of [[Design Thinking]] is to make something that comes to life in the real world and can be experienced by the people you've made it for.
 >
 > **[0:09](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/document-better-with-prototyping?u=76281980&t=9)** As a designer, one of the most frustrating moments is when a great idea fails to make it to market because someone inside the company didn't understand why the idea is valuable to the user, to the company, or to themselves.
 >
-> **[0:24](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/document-better-with-prototyping?u=76281980&t=24)** Traditional forms of design documentation like static wireframes and even visual design comps or binders holding a style guide or design language system all tend to be hard to grasp emotionally, and it's easy for stakeholders to miss the key ideas.
+> **[0:24](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/document-better-with-prototyping?u=76281980&t=24)** Traditional [[Forms]] of design documentation like static wireframes and even visual design comps or binders holding a style guide or design language system all tend to be hard to grasp emotionally, and it's easy for stakeholders to miss the key ideas.
 >
-> **[0:41](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/document-better-with-prototyping?u=76281980&t=41)** On the other hand, a prototype such as a mobile phone simulation, which you, your team and stakeholders can interact with, is an excellent way to communicate both the functional flow of your solution, as well as its emotional and sensory impact.
+> **[0:41](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/document-better-with-prototyping?u=76281980&t=41)** On the other hand, a prototype such as a mobile phone [[Simulation]], which you, your team and stakeholders can interact with, is an excellent way to communicate both the functional flow of your solution, as well as its emotional and sensory impact.
 >
 > **[0:56](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/document-better-with-prototyping?u=76281980&t=56)** So it might be time to try a prototype if your documents are suffering from any of these three problems: they fail to effectively communicate your design intent; it's not flexible enough to evolve with incremental changes; or it's only able to provide a path to the ideal long-term result.
 >
@@ -799,7 +787,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/document-better-with-prototyping?u=76281980&t=183)** Identify which parts could use a prototype.
 >
-> **[3:06](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/document-better-with-prototyping?u=76281980&t=186)** This might become a statement, like, "A prototype that illustrates a new way for people to find great restaurants," or, "Experiment with several ways to search for a university by prototyping."
+> **[3:06](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/document-better-with-prototyping?u=76281980&t=186)** This might become a statement, like, "A prototype that illustrates a new way for people to find great restaurants," or, "Experiment with several ways to search for a university by [[Prototyping]]."
 >
 > **[3:18](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/document-better-with-prototyping?u=76281980&t=198)** As a team, write each of these statements on a post-it and group them with the main design goal they hope to illustrate.
 >
@@ -811,7 +799,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Thinking]] (2), [[Forms]] (1), [[Simulation]] (1), functional (1), ux (1)
+> **Frameworks & Libraries:** [[Design Thinking]] (2), [[Forms]] (1), [[Simulation]] (1), [[Prototyping]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
@@ -823,8 +811,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Get to the next steps faster
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/get-to-the-next-steps-faster?u=76281980)
+#### [Get to the next steps faster](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/get-to-the-next-steps-faster?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -838,7 +825,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/get-to-the-next-steps-faster?u=76281980&t=20)** More often than not, we're half right and need to make adjustments.
 >
-> **[0:25](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/get-to-the-next-steps-faster?u=76281980&t=25)** To avoid spending too much time with one untested concept, use lightweight prototyping to enable rapid and iterative experimentation.
+> **[0:25](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/get-to-the-next-steps-faster?u=76281980&t=25)** To avoid spending too much time with one untested concept, use lightweight [[Prototyping]] to enable rapid and iterative experimentation.
 >
 > **[0:35](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/get-to-the-next-steps-faster?u=76281980&t=35)** This rapid delivery will get you to the next design steps faster.
 >
@@ -852,7 +839,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/get-to-the-next-steps-faster?u=76281980&t=71)** Imagine your team is working on reimagining a customer journey as they plan the ultimate bucket list-worthy vacation.
 >
-> **[1:19](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/get-to-the-next-steps-faster?u=76281980&t=79)** When planning and experiencing big vacations like this, it involves multiple touchpoints with both digital and physical products.
+> **[1:19](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/get-to-the-next-steps-faster?u=76281980&t=79)** When planning and experiencing big vacations like this, it involves multiple touchpoints with both digital and physical [[Microsoft Products|products]].
 >
 > **[1:28](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/get-to-the-next-steps-faster?u=76281980&t=88)** You could approach it by making several broad assumptions upfront based on your research, then design around those, document the desired journey, and finally, deliver your designs, hoping they are valid.
 >
@@ -892,13 +879,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Prototyping]] (5), next (3), [[Microsoft Products|Products]] (1), product (1)
+> **Frameworks & Libraries:** [[Prototyping]] (5), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** imagine (1)
 > **Speakers:** - have (1)
 
-#### Learn: User study and validation
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/learn-user-study-and-validation?u=76281980)
+#### [Learn: User study and validation](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/learn-user-study-and-validation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -906,13 +892,13 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/learn-user-study-and-validation?u=76281980&t=5)** What kind of prototype would help the most?
 >
-> **[0:09](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/learn-user-study-and-validation?u=76281980&t=9)** That's where the four categories of prototyping come in.
+> **[0:09](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/learn-user-study-and-validation?u=76281980&t=9)** That's where the four categories of [[Prototyping]] come in.
 >
 > **[0:12](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/learn-user-study-and-validation?u=76281980&t=12)** We'll have to focus on what we would like to learn from those participants.
 >
 > **[0:17](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/learn-user-study-and-validation?u=76281980&t=17)** To use prototypes and research activities, we'll need to shift our focus to the fourth category of prototyping, learn.
 >
-> **[0:25](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/learn-user-study-and-validation?u=76281980&t=25)** When working at Frog, one of our design teams had an opportunity to continue a design research project in Africa, evaluating an interactive voice response system, an IVR, for a free health and nutrition hotline.
+> **[0:25](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/learn-user-study-and-validation?u=76281980&t=25)** When working at Frog, one of our design teams had an opportunity to continue a design research project in Africa, evaluating an [[Interactive Voice Response (IVR)|interactive voice response]] system, an IVR, for a free health and nutrition hotline.
 >
 > **[0:40](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/learn-user-study-and-validation?u=76281980&t=40)** But this was the second phase of work, so sketches or a paper prototype would not engage the participants enough to validate the solutions effectively.
 >
@@ -922,9 +908,9 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/learn-user-study-and-validation?u=76281980&t=69)** Because of this realistic adaptation, they were able to quickly find out which information architecture ideas made sense and which hunches proved wrong.
 >
-> **[1:20](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/learn-user-study-and-validation?u=76281980&t=80)** Design thinking provides a variety of research and validation techniques that we observe and capture directly from people.
+> **[1:20](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/learn-user-study-and-validation?u=76281980&t=80)** [[Design Thinking]] provides a variety of research and validation techniques that we observe and capture directly from people.
 >
-> **[1:28](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/learn-user-study-and-validation?u=76281980&t=88)** Two of the most effective at discovering and testing designs are user studies and usability testing.
+> **[1:28](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/learn-user-study-and-validation?u=76281980&t=88)** Two of the most effective at discovering and testing designs are user studies and [[Usability Testing]].
 >
 > **[1:35](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/learn-user-study-and-validation?u=76281980&t=95)** We typically employ user studies to discover needs and pain points.
 >
@@ -962,7 +948,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Prototyping]] (3), ivr (2), [[Usability Testing]] (2), teams (1)
+> **Frameworks & Libraries:** [[Prototyping]] (3), [[Usability Testing]] (2), [[Interactive Voice Response (IVR)|Interactive voice response]] (1), [[Design Thinking]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** ivr (2)
 > **Analogies:** imagine (1)
@@ -973,12 +959,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Deciding what to prototype
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/deciding-what-to-prototype?u=76281980)
+#### [Deciding what to prototype](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/deciding-what-to-prototype?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/deciding-what-to-prototype?u=76281980&t=0)** - Before you dive into prototyping, you need to decide what to focus on.
+> **[0:00](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/deciding-what-to-prototype?u=76281980&t=0)** - Before you dive into [[Prototyping]], you need to decide what to focus on.
 >
 > **[0:05](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/deciding-what-to-prototype?u=76281980&t=5)** Every prototype serves a purpose.
 >
@@ -998,7 +983,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/deciding-what-to-prototype?u=76281980&t=78)** That business challenge or customer pain point you're trying to solve is often like an onion, so we'll peel back those layers and show you how to focus separately on each one.
 >
-> **[1:31](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/deciding-what-to-prototype?u=76281980&t=91)** Remember, you'll experience the highest success rate by spending adequate time with design thinking activities that enable you to empathize, define, and ideate, because the outputs from those will help you develop a punch list of experiments.
+> **[1:31](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/deciding-what-to-prototype?u=76281980&t=91)** Remember, you'll experience the highest success rate by spending adequate time with [[Design Thinking]] activities that enable you to empathize, define, and ideate, because the outputs from those will help you develop a punch list of experiments.
 >
 > **[1:47](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/deciding-what-to-prototype?u=76281980&t=107)** For example, with Honeywell Connected Home, we designed a mobile application with a temperature control.
 >
@@ -1044,13 +1029,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Prototyping]] (8), business (2), [[Design Thinking]] (1), mobile application (1), application (1)
+> **Frameworks & Libraries:** [[Prototyping]] (8), [[Design Thinking]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - before (1)
 
-#### Choosing the right prototyping approach
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/choosing-the-right-prototyping-approach?u=76281980)
+#### [Choosing the right prototyping approach](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/choosing-the-right-prototyping-approach?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1062,7 +1046,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/choosing-the-right-prototyping-approach?u=76281980&t=15)** Choosing the right approach starts with understanding the four categories, generate, convey, document, and learn.
 >
-> **[0:23](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/choosing-the-right-prototyping-approach?u=76281980&t=23)** Before the advancement of computer technologies, prototyping had been about creating a fully functioning version of a well-defined concept.
+> **[0:23](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/choosing-the-right-prototyping-approach?u=76281980&t=23)** Before the advancement of computer technologies, [[Prototyping]] had been about creating a fully functioning version of a well-defined concept.
 >
 > **[0:34](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/choosing-the-right-prototyping-approach?u=76281980&t=34)** Today, it's an exercise valuable throughout the design process, where we can learn about technologies, validate concepts, and perform user studies, just to name a few.
 >
@@ -1084,7 +1068,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/choosing-the-right-prototyping-approach?u=76281980&t=90)** Here's a scenario for you.
 >
-> **[1:32](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/choosing-the-right-prototyping-approach?u=76281980&t=92)** Your team has 12 weeks to launch a new app to be featured at the Google I/O.
+> **[1:32](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/choosing-the-right-prototyping-approach?u=76281980&t=92)** Your team has 12 weeks to launch a new app to be featured at the [[Google]] I/O.
 >
 > **[1:38](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/choosing-the-right-prototyping-approach?u=76281980&t=98)** After you go through the exercise, you should have a framing statement like this.
 >
@@ -1132,17 +1116,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Prototyping]] (7), [[Google]] (2), [[Engineering]] (1), next (1)
+> **Frameworks & Libraries:** [[Prototyping]] (7), [[Google]] (2)
 > **UI Navigation:** select the (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - not (1)
 
-#### Challenge: Prototype an app experience
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/challenge-prototype-an-app-experience?u=76281980)
+#### [Challenge: Prototype an app experience](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/challenge-prototype-an-app-experience?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/challenge-prototype-an-app-experience?u=76281980&t=0)** - Now let's put prototyping into action.
+> **[0:00](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/challenge-prototype-an-app-experience?u=76281980&t=0)** - Now let's put [[Prototyping]] into action.
 >
 > **[0:03](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/challenge-prototype-an-app-experience?u=76281980&t=3)** While this course wasn't intended to dive deep into specific tools, I bet some of you are itching to try this out.
 >
@@ -1194,7 +1177,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/challenge-prototype-an-app-experience?u=76281980&t=152)** Oh, and timebox your activity to 15 minutes.
 >
-> **[2:36](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/challenge-prototype-an-app-experience?u=76281980&t=156)** Feel free to start by sketching out or jotting down some specific design ideas on Post-its, or use one of the course worksheets to prime your prototyping pump.
+> **[2:36](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/challenge-prototype-an-app-experience?u=76281980&t=156)** Feel free to start by [[Sketching]] out or jotting down some specific design ideas on Post-its, or use one of the course worksheets to prime your prototyping pump.
 >
 > **[2:47](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/challenge-prototype-an-app-experience?u=76281980&t=167)** When you're done, check out my solution video where I'll show you how I went about it.
 >
@@ -1206,13 +1189,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Prototyping]] (2), data (1), functional (1), [[Sketching]] (1)
+> **Frameworks & Libraries:** [[Prototyping]] (2), [[Sketching]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - now (1)
 
-#### Solution: Prototype an app experience
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/solution-prototype-an-app-experience?u=76281980)
+#### [Solution: Prototype an app experience](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/solution-prototype-an-app-experience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1254,12 +1236,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/next-steps?u=76281980&t=0)** - I hope you enjoyed the course and are walking away with an understanding of prototyping and how you can use it for better business and design decisions.
+> **[0:00](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/next-steps?u=76281980&t=0)** - I hope you enjoyed the course and are walking away with an understanding of [[Prototyping]] and how you can use it for better business and design decisions.
 >
 > **[0:09](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/next-steps?u=76281980&t=9)** When you're talking to others about what you've learned, the most important takeaways are design-led organizations are outperforming their competition because of how designers approach problem-solving using prototyping.
 >
@@ -1281,17 +1262,17 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/next-steps?u=76281980&t=77)** To keep the learning going, try some of the activities shared in this course with your teams at work or in other projects in your community.
 >
-> **[1:25](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/next-steps?u=76281980&t=85)** The worksheets are in the Exercise Files, and there's a link list with articles, books, and tools like "Prototyping: A Practitioner's Guide," "How Reframing a Problem Unlocks Innovation," and suggestions for other online courses that might be useful as well, like my course, Learning Design Thinking and Design Thinking: Lead Change in Your Organization with Turi McKinley.
+> **[1:25](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/next-steps?u=76281980&t=85)** The worksheets are in the Exercise Files, and there's a link list with articles, books, and tools like "Prototyping: A Practitioner's Guide," "How Reframing a Problem Unlocks Innovation," and suggestions for other online courses that might be useful as well, like my course, Learning [[Design Thinking]] and Design Thinking: [[Lead Change]] in Your Organization with Turi McKinley.
 >
 > **[1:51](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/next-steps?u=76281980&t=111)** If this was useful, please share the course with your networks, and I hope to see you in the course community.
 >
-> **[1:58](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/next-steps?u=76281980&t=118)** If you'd like to see other examples of the products and services this kind of approach creates, follow me on LinkedIn or visit my site at [randallelliott.com](https://randallelliott.com).
+> **[1:58](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/next-steps?u=76281980&t=118)** If you'd like to see other examples of the [[Microsoft Products|products]] and services this kind of approach creates, follow me on [[LinkedIn]] or visit my site at [randallelliott.com](https://randallelliott.com).
 >
 > **[2:08](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/next-steps?u=76281980&t=128)** Thank you for watching.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Prototyping]] (5), [[Design Thinking]] (2), business (1), product (1), teams (1)
+> **Frameworks & Libraries:** [[Prototyping]] (5), [[Design Thinking]] (2), [[Lead Change]] (1), [[Microsoft Products|Products]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **URLs:** [randallelliott.com](https://randallelliott.com) (1)
 > **Exercise Files:** exercise files (1)

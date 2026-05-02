@@ -76,8 +76,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Become superhuman with your sales activities
-> [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/become-superhuman-with-your-sales-activities?u=76281980)
+#### [Become superhuman with your sales activities](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/become-superhuman-with-your-sales-activities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -103,11 +102,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (3), ai (2), data (1)
 > **Speakers:** - salespeople (1)
 
-#### Exploring areas of automation and AI in sales
-> [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/exploring-areas-of-automation-and-ai-in-sales?u=76281980)
+#### [Exploring areas of automation and AI in sales](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/exploring-areas-of-automation-and-ai-in-sales?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -137,7 +134,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/exploring-areas-of-automation-and-ai-in-sales?u=76281980&t=85)** And then finally, we have the surrounding administration activities of selling.
 >
-> **[1:30](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/exploring-areas-of-automation-and-ai-in-sales?u=76281980&t=90)** We'll refer to this as post-sales and forecasting.
+> **[1:30](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/exploring-areas-of-automation-and-ai-in-sales?u=76281980&t=90)** We'll refer to this as post-sales and [[Forecasting]].
 >
 > **[1:33](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/exploring-areas-of-automation-and-ai-in-sales?u=76281980&t=93)** Selling is all fun and games, but there's always admin to be completed as a result.
 >
@@ -147,7 +144,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/exploring-areas-of-automation-and-ai-in-sales?u=76281980&t=115)** And then outside of the customer facing activities, we have to provide forecasts and strategize for upcoming months and quarters now that some deals have been successful and some haven't.
 >
-> **[2:06](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/exploring-areas-of-automation-and-ai-in-sales?u=76281980&t=126)** We need to report our statistics back to our managers, like dial numbers, profit margins, new pipeline size, upcoming deal values, and so on.
+> **[2:06](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/exploring-areas-of-automation-and-ai-in-sales?u=76281980&t=126)** We need to report our [[Statistics]] back to our managers, like dial numbers, profit margins, new pipeline size, upcoming deal values, and so on.
 >
 > **[2:16](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/exploring-areas-of-automation-and-ai-in-sales?u=76281980&t=136)** And whilst this stuff feels like the least value adding parts of selling, they're crucial and can be very time-consuming.
 >
@@ -163,7 +160,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Automation]] (2), [[Forecasting]] (1), product (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Forecasting]] (1), [[Statistics]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - before (1)
 
@@ -172,8 +169,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Sales prospecting with AI and automation tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/sales-prospecting-with-ai-and-automation-tools?u=76281980)
+#### [Sales prospecting with AI and automation tools](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/sales-prospecting-with-ai-and-automation-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -181,13 +177,13 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/sales-prospecting-with-ai-and-automation-tools?u=76281980&t=8)** Sales prospecting is the process of identifying potential customers, finding them, and then reaching out by whatever method with the goal of further communicating and converting them into paying customers.
 >
-> **[0:22](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/sales-prospecting-with-ai-and-automation-tools?u=76281980&t=22)** It's sometimes called lead generation, and it applies to cold, warm, and inbound sales leads.
+> **[0:22](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/sales-prospecting-with-ai-and-automation-tools?u=76281980&t=22)** It's sometimes called [[Lead Generation]], and it applies to cold, warm, and inbound sales leads.
 >
 > **[0:29](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/sales-prospecting-with-ai-and-automation-tools?u=76281980&t=29)** It's where all the relationships are started and opportunities are opened.
 >
 > **[0:34](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/sales-prospecting-with-ai-and-automation-tools?u=76281980&t=34)** You can be great at managing your pipeline.
 >
-> **[0:37](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/sales-prospecting-with-ai-and-automation-tools?u=76281980&t=37)** You can be great at sales presentations.
+> **[0:37](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/sales-prospecting-with-ai-and-automation-tools?u=76281980&t=37)** You can be great at [[Sales Presentations]].
 >
 > **[0:40](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/sales-prospecting-with-ai-and-automation-tools?u=76281980&t=40)** You can be great at asking qualification questions.
 >
@@ -209,12 +205,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (3), ai (3), [[Lead Generation]] (1), [[Sales Presentations]] (1), data (1)
+> **Frameworks & Libraries:** [[Lead Generation]] (1), [[Sales Presentations]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - prospecting (1)
 
-#### Lead enrichment with AI and automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/lead-enrichment-with-ai-and-automation?u=76281980)
+#### [Lead enrichment with AI and automation](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/lead-enrichment-with-ai-and-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -276,7 +271,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), ai (2), next (2), business (1), [[Search]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** crm (1)
 > **Exercise Files:** exercise files (1)
@@ -284,20 +278,19 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - lead (1)
 
-#### Emailing and direct messages
-> [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/emailing-and-direct-messages?u=76281980)
+#### [Emailing and direct messages](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/emailing-and-direct-messages?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/emailing-and-direct-messages?u=76281980&t=0)** - Email automation is something your marketing teams will probably be using to great effect.
 >
-> **[0:06](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/emailing-and-direct-messages?u=76281980&t=6)** If they have a list of hundreds, thousands, or even millions of people to email about your products and services, they're not going to be doing that one by one.
+> **[0:06](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/emailing-and-direct-messages?u=76281980&t=6)** If they have a list of hundreds, thousands, or even millions of people to email about your [[Microsoft Products|products]] and services, they're not going to be doing that one by one.
 >
 > **[0:16](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/emailing-and-direct-messages?u=76281980&t=16)** And this technology is nothing new.
 >
-> **[0:18](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/emailing-and-direct-messages?u=76281980&t=18)** Mail Merge has been available since the eighties and it's been on Microsoft since the days of MS-DOS, so I'm not here to talk about that.
+> **[0:18](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/emailing-and-direct-messages?u=76281980&t=18)** Mail Merge has been available since the eighties and it's been on [[Microsoft]] since the days of MS-DOS, so I'm not here to talk about that.
 >
-> **[0:26](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/emailing-and-direct-messages?u=76281980&t=26)** I will give you a word of warning though.
+> **[0:26](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/emailing-and-direct-messages?u=76281980&t=26)** I will give you a [[Microsoft Word|word]] of warning though.
 >
 > **[0:28](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/emailing-and-direct-messages?u=76281980&t=28)** It's great to use, even as a salesperson, for slightly more targeted campaigns than your marketing team.
 >
@@ -345,15 +338,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Automation]] (2), [[Microsoft Word|Word]] (2), data (2), teams (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Microsoft Products|Products]] (1), [[Microsoft]] (1)
 > **Warnings:** warning (1), be careful (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** dos (1)
 > **Analogies:** picture (1)
 > **Speakers:** - email (1)
 
-#### Meeting scheduling for sales professionals
-> [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/meeting-scheduling-for-sales-professionals?u=76281980)
+#### [Meeting scheduling for sales professionals](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/meeting-scheduling-for-sales-professionals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -417,7 +409,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[Automation]] (1), web (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** sms (1)
 > **Definitions:** is a  (1)
@@ -425,8 +416,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - whether (1)
 
-#### Gathering insights from marketing
-> [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/gathering-insights-from-marketing?u=76281980)
+#### [Gathering insights from marketing](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/gathering-insights-from-marketing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -450,7 +440,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/gathering-insights-from-marketing?u=76281980&t=57)** Then came information about what pages on our website were performing the best.
 >
-> **[1:02](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/gathering-insights-from-marketing?u=76281980&t=62)** Are particular products more popular than others?
+> **[1:02](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/gathering-insights-from-marketing?u=76281980&t=62)** Are particular [[Microsoft Products|products]] more popular than others?
 >
 > **[1:06](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/gathering-insights-from-marketing?u=76281980&t=66)** That information is useful, but I'd categorize that as market insights rather than actionable information for a salesperson.
 >
@@ -484,7 +474,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Search]] (1), [[Microsoft Products|Products]] (1), ai (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Env Vars:** crm (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** we discussed (1)
@@ -495,8 +485,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The process of selling
-> [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/the-process-of-selling?u=76281980)
+#### [The process of selling](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/the-process-of-selling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -510,7 +499,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/the-process-of-selling?u=76281980&t=47)** But before we jump in, what tasks fall into the category of selling?
 >
-> **[0:52](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/the-process-of-selling?u=76281980&t=52)** They're simply managing our pipeline filled with all of these new opportunities that we found through prospecting, building quotes and proposals for our prospects to detail our highly valued products and services, closing deals off the back of all of those quotes and proposals, and then finally sending invoices and collecting payments for all of those lovely closed deals.
+> **[0:52](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/the-process-of-selling?u=76281980&t=52)** They're simply managing our pipeline filled with all of these new opportunities that we found through prospecting, building quotes and proposals for our prospects to detail our highly valued [[Microsoft Products|products]] and services, closing deals off the back of all of those quotes and proposals, and then finally sending invoices and collecting payments for all of those lovely closed deals.
 >
 > **[1:17](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/the-process-of-selling?u=76281980&t=77)** There are a ton of smaller, more intricate, and sometimes intangible tasks that come in between all of that, like presenting solutions, overcoming objections, introducing specialist teammates, and a lot more, but for this chapter, I'm going to be focusing primarily on those four areas.
 >
@@ -520,13 +509,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), management (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Exercise Files:** exercise files (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - once (1)
 
-#### Managing sales deals with AI and automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/managing-sales-deals-with-ai-and-automation?u=76281980)
+#### [Managing sales deals with AI and automation](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/managing-sales-deals-with-ai-and-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -584,14 +572,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** crm (2)
 > **Best Practices:** remember to (1)
 > **Speakers:** - deal (1)
 
-#### Building proposals with AI and automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/building-proposals-with-ai-and-automation?u=76281980)
+#### [Building proposals with AI and automation](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/building-proposals-with-ai-and-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -603,7 +589,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/building-proposals-with-ai-and-automation?u=76281980&t=19)** So how can AI help?
 >
-> **[0:21](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/building-proposals-with-ai-and-automation?u=76281980&t=21)** Most basic CRM systems can store information about your products, and help with time saving and the elimination of human error.
+> **[0:21](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/building-proposals-with-ai-and-automation?u=76281980&t=21)** Most basic CRM systems can store information about your [[Microsoft Products|products]], and help with time saving and the elimination of human error.
 >
 > **[0:29](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/building-proposals-with-ai-and-automation?u=76281980&t=29)** Price, dimensions, stock levels, delivery times, and a lot more can be directly pulled from a database and added to a document, saving you time, and eliminating the chance of you making a silly mistake.
 >
@@ -615,7 +601,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/building-proposals-with-ai-and-automation?u=76281980&t=55)** Requests for proposal, or RFPs, are one of the most time-consuming proposal formats, massive documents with masses of detail.
 >
-> **[1:03](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/building-proposals-with-ai-and-automation?u=76281980&t=63)** Just hearing RFP gives me flashbacks to late nights in the office.
+> **[1:03](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/building-proposals-with-ai-and-automation?u=76281980&t=63)** Just hearing RFP gives me flashbacks to late nights in the [[Microsoft Office|office]].
 >
 > **[1:08](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/building-proposals-with-ai-and-automation?u=76281980&t=68)** But AI tools can now read the RFP document for you and make sense of it.
 >
@@ -653,14 +639,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Microsoft Products|Products]] (2), database (1), [[Microsoft Office|Office]] (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Microsoft Office|Office]] (1)
 > **Env Vars:** rfp (3), crm (2), pdf (1)
 > **CLI Commands:** make (4)
 > **Analogies:** it's like (1)
 > **Speakers:** - the (1)
 
-#### Completing sales deals with AI and automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/completing-sales-deals-with-ai-and-automation?u=76281980)
+#### [Completing sales deals with AI and automation](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/completing-sales-deals-with-ai-and-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -706,15 +691,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), ai (1), [[Automation]] (1), product (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** crm (2), pdf (1)
 > **Definitions:** is a  (1), means that (1)
 > **UI Navigation:** drag and drop (1)
 > **Speakers:** - when (1)
 
-#### Invoicing in your sales process using AI and automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/invoicing-in-your-sales-process-using-ai-and-automation?u=76281980)
+#### [Invoicing in your sales process using AI and automation](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/invoicing-in-your-sales-process-using-ai-and-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -732,7 +715,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/invoicing-in-your-sales-process-using-ai-and-automation?u=76281980&t=43)** But we're salespeople.
 >
-> **[0:45](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/invoicing-in-your-sales-process-using-ai-and-automation?u=76281980&t=45)** It's our job to build and maintain relationships whilst pitching products and closing deals.
+> **[0:45](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/invoicing-in-your-sales-process-using-ai-and-automation?u=76281980&t=45)** It's our job to build and maintain relationships whilst pitching [[Microsoft Products|products]] and closing deals.
 >
 > **[0:51](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/invoicing-in-your-sales-process-using-ai-and-automation?u=76281980&t=51)** We don't have the time or the head space to chase people for money.
 >
@@ -744,7 +727,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/invoicing-in-your-sales-process-using-ai-and-automation?u=76281980&t=75)** You can simply use their templates so you only need to fill in the gaps.
 >
-> **[1:20](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/invoicing-in-your-sales-process-using-ai-and-automation?u=76281980&t=80)** Or you can use software to pull information from other databases into a template invoice.
+> **[1:20](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/invoicing-in-your-sales-process-using-ai-and-automation?u=76281980&t=80)** Or you can use software to pull information from other [[Databases]] into a template invoice.
 >
 > **[1:26](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/invoicing-in-your-sales-process-using-ai-and-automation?u=76281980&t=86)** This both speeds up the process and eliminates any human error like spelling typos or adding the wrong price.
 >
@@ -770,7 +753,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[Microsoft Products|Products]] (1), [[Automation]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Databases]] (1)
 > **Exercise Files:** template (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** crm (1)
@@ -783,8 +766,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How post-sales and forecasting may be automated
-> [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/how-post-sales-and-forecasting-may-be-automated?u=76281980)
+#### [How post-sales and forecasting may be automated](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/how-post-sales-and-forecasting-may-be-automated?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -808,7 +790,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/how-post-sales-and-forecasting-may-be-automated?u=76281980&t=69)** So this is another area that AI and automation can help carry some of the workload, and dramatically speed up a handful of tasks we need completing.
 >
-> **[1:21](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/how-post-sales-and-forecasting-may-be-automated?u=76281980&t=81)** Forecasting is a skill every salesperson or sales leader would love to possess, but it's much harder than it looks.
+> **[1:21](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/how-post-sales-and-forecasting-may-be-automated?u=76281980&t=81)** [[Forecasting]] is a skill every salesperson or sales leader would love to possess, but it's much harder than it looks.
 >
 > **[1:29](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/how-post-sales-and-forecasting-may-be-automated?u=76281980&t=89)** So how does AI help?
 >
@@ -816,7 +798,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/how-post-sales-and-forecasting-may-be-automated?u=76281980&t=95)** I see personalities, relationships, connections, potential future upselling opportunities, based on the trust my customers have in me, and all of those unquantifiable human things.
 >
-> **[1:48](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/how-post-sales-and-forecasting-may-be-automated?u=76281980&t=108)** AI sees dates, opportunity sizes, and statistics, used to determine the likelihood of me hitting target, based on my previous results.
+> **[1:48](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/how-post-sales-and-forecasting-may-be-automated?u=76281980&t=108)** AI sees dates, opportunity sizes, and [[Statistics]], used to determine the likelihood of me hitting target, based on my previous results.
 >
 > **[1:58](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/how-post-sales-and-forecasting-may-be-automated?u=76281980&t=118)** So I'm optimistic, but not 100% reliable, and AI is honest, but may not see the whole picture.
 >
@@ -824,18 +806,17 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/how-post-sales-and-forecasting-may-be-automated?u=76281980&t=134)** I can increase the opportunity likelihood based on my relationships with my clients, and my trust that they will commit, the AI can crunch the numbers, and make sense of the complex jumbles of sales opportunities into clear and digestible information, crunching the data quickly, so that we don't have to.
 >
-> **[2:33](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/how-post-sales-and-forecasting-may-be-automated?u=76281980&t=153)** So for the rest of this chapter, we'll be looking at how AI and automation tools can help you maximize your effectiveness at work, even after the sales have been made.
+> **[2:33](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/how-post-sales-and-forecasting-may-be-automated?u=76281980&t=153)** So for the [[Representational State Transfer (REST)|rest]] of this chapter, we'll be looking at how AI and automation tools can help you maximize your effectiveness at work, even after the sales have been made.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), [[Automation]] (2), next (1), [[Forecasting]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Forecasting]] (1), [[Statistics]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 > **Speakers:** - it (1)
 
-#### Strategy and forecasting in sales
-> [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/strategy-and-forecasting-in-sales?u=76281980)
+#### [Strategy and forecasting in sales](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/strategy-and-forecasting-in-sales?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -861,7 +842,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/strategy-and-forecasting-in-sales?u=76281980&t=70)** We too as salespeople can predict how we individually perform.
 >
-> **[1:16](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/strategy-and-forecasting-in-sales?u=76281980&t=76)** A common way of doing this is to assign a probability to each deal stage.
+> **[1:16](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/strategy-and-forecasting-in-sales?u=76281980&t=76)** A common way of doing this is to assign a [[Probability]] to each deal stage.
 >
 > **[1:22](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/strategy-and-forecasting-in-sales?u=76281980&t=82)** For example, when the opportunity has just opened, it's a 10% chance of closing.
 >
@@ -875,29 +856,28 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/strategy-and-forecasting-in-sales?u=76281980&t=113)** Again, this is simply a gauge of whether you are on track and not a guaranteed outcome.
 >
-> **[2:00](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/strategy-and-forecasting-in-sales?u=76281980&t=120)** Maybe you have $100,000 target and $1,000,000 worth of opportunity in the first stage, but barely any in the final stage, and you're a week from the end of the month, giving you an overly positive outlook on your upcoming target.
+> **[2:00](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/strategy-and-forecasting-in-sales?u=76281980&t=120)** Maybe you have $100,000 target and $1,000,000 worth of opportunity in the first stage, but barely any in the final stage, and you're a week from the end of the month, giving you an overly positive [[Microsoft Outlook|outlook]] on your upcoming target.
 >
-> **[2:16](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/strategy-and-forecasting-in-sales?u=76281980&t=136)** This is where AI can deliver a second use case in forecasting.
+> **[2:16](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/strategy-and-forecasting-in-sales?u=76281980&t=136)** This is where AI can deliver a second use case in [[Forecasting]].
 >
 > **[2:20](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/strategy-and-forecasting-in-sales?u=76281980&t=140)** Data visualization.
 >
-> **[2:23](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/strategy-and-forecasting-in-sales?u=76281980&t=143)** We live in the age of big data and it could be seemingly impossible to make sense of the abundance of data we have available.
+> **[2:23](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/strategy-and-forecasting-in-sales?u=76281980&t=143)** We live in the age of [[Big Data]] and it could be seemingly impossible to make sense of the abundance of data we have available.
 >
 > **[2:30](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/strategy-and-forecasting-in-sales?u=76281980&t=150)** We don't have the time or the head space to sift through this data.
 >
-> **[2:35](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/strategy-and-forecasting-in-sales?u=76281980&t=155)** So there are a handful of tools available that can take the information given by these forecasting tools and convert them into easy to digest dashboards.
+> **[2:35](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/strategy-and-forecasting-in-sales?u=76281980&t=155)** So there are a handful of tools available that can take the information given by these forecasting tools and convert them into easy to digest [[Dashboards]].
 >
 > **[2:44](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/strategy-and-forecasting-in-sales?u=76281980&t=164)** That helps you understand where you are against your target, where the majority of the opportunity lie, saves you time pulling together and presenting the data, and provides your manager with everything they need to know to prepare the business accordingly.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), ai (2), [[Automation]] (2), [[Forecasting]] (2), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Forecasting]] (2), [[Probability]] (1), [[Microsoft Outlook|Outlook]] (1), [[Big Data]] (1), [[Dashboards]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Speakers:** - other (1)
 
-#### Improving customer support efficiency
-> [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/improving-customer-support-efficiency?u=76281980)
+#### [Improving customer support efficiency](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/improving-customer-support-efficiency?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -905,7 +885,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/improving-customer-support-efficiency?u=76281980&t=6)** We need to do everything we can to retain our customers.
 >
-> **[0:11](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/improving-customer-support-efficiency?u=76281980&t=11)** And something existing customers care about the most is receiving good customer support when they need it most.
+> **[0:11](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/improving-customer-support-efficiency?u=76281980&t=11)** And something existing customers care about the most is receiving good [[Customer Support]] when they need it most.
 >
 > **[0:18](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/improving-customer-support-efficiency?u=76281980&t=18)** It could be a simple question about their new solution.
 >
@@ -933,7 +913,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/improving-customer-support-efficiency?u=76281980&t=86)** AI can respond automatically if it's simple or flag it to you for manual responding.
 >
-> **[1:33](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/improving-customer-support-efficiency?u=76281980&t=93)** It can even spot if your reply meets an out-of-office notification and automatically schedule a chaser.
+> **[1:33](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/improving-customer-support-efficiency?u=76281980&t=93)** It can even spot if your reply meets an out-of-[[Microsoft Office|office]] notification and automatically schedule a chaser.
 >
 > **[1:39](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/improving-customer-support-efficiency?u=76281980&t=99)** All saving you time to get on with your other sales activities.
 >
@@ -947,7 +927,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/improving-customer-support-efficiency?u=76281980&t=136)** You have control over what you do with them once they're sorted, it's just down to the AI to help do the legwork based on your predetermined rules.
 >
-> **[2:26](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/improving-customer-support-efficiency?u=76281980&t=146)** Now, a word of caution.
+> **[2:26](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/improving-customer-support-efficiency?u=76281980&t=146)** Now, a [[Microsoft Word|word]] of caution.
 >
 > **[2:28](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/improving-customer-support-efficiency?u=76281980&t=148)** This is another scenario where robots can make mistakes if not properly set up and monitored.
 >
@@ -977,15 +957,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), [[Customer Support]] (1), [[Automation]] (1), [[Microsoft Office|Office]] (1), teams (1)
+> **Frameworks & Libraries:** [[Customer Support]] (1), [[Microsoft Office|Office]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** set up (2)
 > **Cross-References:** coming up (1)
 > **Warnings:** caution (1)
 > **Speakers:** - once (1)
 
-#### Using automation tools to sell small items
-> [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/using-automation-tools-to-sell-small-items?u=76281980)
+#### [Using automation tools to sell small items](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/using-automation-tools-to-sell-small-items?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1049,14 +1028,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (1), teams (1), ai (1), [[Automation]] (1), next (1)
 > **Env Vars:** crm (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - often (1)
 
-#### Using automation tools to gather sales statistics
-> [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/using-automation-tools-to-gather-sales-statistics?u=76281980)
+#### [Using automation tools to gather sales statistics](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/using-automation-tools-to-gather-sales-statistics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1094,7 +1071,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/using-automation-tools-to-gather-sales-statistics?u=76281980&t=91)** On a basic level, pretty much every CRM out there can record activity numbers, like calls made, notes logged, or meetings booked.
 >
-> **[1:40](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/using-automation-tools-to-gather-sales-statistics?u=76281980&t=100)** And a more advanced level of CRM can crunch those numbers and give you statistics.
+> **[1:40](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/using-automation-tools-to-gather-sales-statistics?u=76281980&t=100)** And a more advanced level of CRM can crunch those numbers and give you [[Statistics]].
 >
 > **[1:46](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/using-automation-tools-to-gather-sales-statistics?u=76281980&t=106)** What percentage of, say, calls are successful in getting a meeting, or meetings are booked that convert into sales?
 >
@@ -1120,7 +1097,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (2), ai (1)
+> **Frameworks & Libraries:** [[Statistics]] (2)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** crm (2)
 > **Speakers:** - monitoring (1)
@@ -1130,8 +1107,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing to grow your sales AI and automation mindset
-> [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/continuing-to-grow-your-sales-ai-and-automation-mindset?u=76281980)
+#### [Continuing to grow your sales AI and automation mindset](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/continuing-to-grow-your-sales-ai-and-automation-mindset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1149,7 +1125,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/continuing-to-grow-your-sales-ai-and-automation-mindset?u=76281980&t=53)** Keep an eye on your options and always weigh up the value these tools can add to you and your business.
 >
-> **[1:01](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/continuing-to-grow-your-sales-ai-and-automation-mindset?u=76281980&t=61)** Make sure you follow me on LinkedIn.
+> **[1:01](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/continuing-to-grow-your-sales-ai-and-automation-mindset?u=76281980&t=61)** Make sure you follow me on [[LinkedIn]].
 >
 > **[1:02](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/continuing-to-grow-your-sales-ai-and-automation-mindset?u=76281980&t=62)** Automation and AI is a subject I regularly visit alongside other sales topics.
 >
@@ -1157,7 +1133,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Automation]] (2), [[LinkedIn]] (2), data (1), business (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - remember (1)

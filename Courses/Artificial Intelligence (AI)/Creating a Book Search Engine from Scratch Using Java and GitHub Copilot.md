@@ -95,20 +95,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Modern Java development
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/modern-java-development?u=76281980)
+#### [Modern Java development](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/modern-java-development?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/modern-java-development?u=76281980&t=0)** - [Harit] Want to build a production grade book search engine?
 >
-> **[0:02](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/modern-java-development?u=76281980&t=2)** In this course, you'll create a powerful search application using Java, Spring Boot, PostgreSQL and Docker, the exact tech stack that modern companies use.
+> **[0:02](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/modern-java-development?u=76281980&t=2)** In this course, you'll create a powerful search application using [[Java]], [[Spring Boot]], [[PostgreSQL]] and Docker, the exact tech stack that modern companies use.
 >
 > **[0:10](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/modern-java-development?u=76281980&t=10)** This project will make your portfolio stand out.
 >
 > **[0:13](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/modern-java-development?u=76281980&t=13)** You will learn to implement full tech search, create restful APIs and containerize your application.
 >
-> **[0:17](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/modern-java-development?u=76281980&t=17)** We will use modern development tools like VS Code and GitHub Copilot to build efficiently following industry best practices every step of the way.
+> **[0:17](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/modern-java-development?u=76281980&t=17)** We will use modern development tools like VS Code and [[GitHub Copilot]] to build efficiently following industry best practices every step of the way.
 >
 > **[0:25](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/modern-java-development?u=76281980&t=25)** I'm Harit Humanshu, co-founder of Bonsai Labs where we develop AI powered software solutions for startups.
 >
@@ -118,13 +117,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), application (2), [[Java]] (1), [[Spring Boot]] (1), [[PostgreSQL]] (1)
+> **Frameworks & Libraries:** [[Java]] (1), [[Spring Boot]] (1), [[PostgreSQL]] (1), [[GitHub Copilot]] (1)
 > **CLI Commands:** docker (1), make (1)
 > **Tools:** vs code (1), github (1)
 > **Speakers:** - [harit] (1)
 
-#### Course overview and objectives
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/course-overview-and-objectives?u=76281980)
+#### [Course overview and objectives](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/course-overview-and-objectives?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -132,7 +130,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/course-overview-and-objectives?u=76281980&t=3)** Now, in this course, we are going to create a book search engine with the existing data.
 >
-> **[0:08](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/course-overview-and-objectives?u=76281980&t=8)** But before we dive into details and start doing things, it makes sense to zoom out a little bit and see how this course will make progress.
+> **[0:08](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/course-overview-and-objectives?u=76281980&t=8)** But before we dive into details and start doing things, it makes sense to [[Zoom]] out a little bit and see how this course will make progress.
 >
 > **[0:16](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/course-overview-and-objectives?u=76281980&t=16)** So in order for us to start the project, the first thing we would need is a database.
 >
@@ -154,7 +152,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/course-overview-and-objectives?u=76281980&t=92)** Now, as you're building the book search engine, we are going to dive deeper into how the full text search in the case of database would work.
 >
-> **[1:40](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/course-overview-and-objectives?u=76281980&t=100)** But once we have those nitty-gritty details hashed out, we are going to write set of functions that will be utilized to fetch information from this database.
+> **[1:40](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/course-overview-and-objectives?u=76281980&t=100)** But once we have those nitty-gritty details hashed out, we are going to write set of functions that will be utilized to [[Fetch]] information from this database.
 >
 > **[1:49](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/course-overview-and-objectives?u=76281980&t=109)** Now, this business logic still is a way to write code, but how would your consumers, or how would the callers will execute this business logic?
 >
@@ -172,7 +170,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (12), business (7), [[Search]] (4), next (4), data (3)
+> **Frameworks & Libraries:** [[Fetch]] (2), [[Zoom]] (1)
 > **CLI Commands:** docker (3), make (2), find (1)
 > **Env Vars:** csv (3), api (1)
 > **Prerequisites:** set up (2), setup (1)
@@ -181,14 +179,13 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prerequisites and learning goals
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/prerequisites-and-learning-goals?u=76281980)
+#### [Prerequisites and learning goals](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/prerequisites-and-learning-goals?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/prerequisites-and-learning-goals?u=76281980&t=0)** - [Instructor] In order to continue with this course, let's find out what all technologies we are going to use and what are some of the things that you must know before taking this course.
 >
-> **[0:10](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/prerequisites-and-learning-goals?u=76281980&t=10)** Now, we are going to write the entire code in Java programming language, so we are going to use the latest Java.
+> **[0:10](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/prerequisites-and-learning-goals?u=76281980&t=10)** Now, we are going to write the entire code in [[Java]] programming language, so we are going to use the latest Java.
 >
 > **[0:17](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/prerequisites-and-learning-goals?u=76281980&t=17)** We may or may not be using or utilizing the latest Java features, but familiarity with the language is important.
 >
@@ -196,7 +193,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/prerequisites-and-learning-goals?u=76281980&t=27)** So knowing Java is going to definitely help you in making progress with this course.
 >
-> **[0:32](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/prerequisites-and-learning-goals?u=76281980&t=32)** Now, the second thing is that we are going to leverage Spring Boot for majority of our parts when writing the APIs or when interacting with the database.
+> **[0:32](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/prerequisites-and-learning-goals?u=76281980&t=32)** Now, the second thing is that we are going to leverage [[Spring Boot]] for majority of our parts when writing the APIs or when interacting with the database.
 >
 > **[0:40](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/prerequisites-and-learning-goals?u=76281980&t=40)** But we assume that you have interacted with Spring Boot already, and you are going to utilize some of your acquired learning in creating the book search engine.
 >
@@ -210,13 +207,13 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/prerequisites-and-learning-goals?u=76281980&t=79)** We are only going to utilize a part of Docker in order to make progress in this course.
 >
-> **[1:24](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/prerequisites-and-learning-goals?u=76281980&t=84)** Now, this is also not an introductory course on databases.
+> **[1:24](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/prerequisites-and-learning-goals?u=76281980&t=84)** Now, this is also not an introductory course on [[Databases]].
 >
-> **[1:28](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/prerequisites-and-learning-goals?u=76281980&t=88)** So we'll assume that you know how databases work, which means how data gets ingested, writing the SQL queries.
+> **[1:28](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/prerequisites-and-learning-goals?u=76281980&t=88)** So we'll assume that you know how databases work, which means how data gets ingested, writing the [[SQL]] queries.
 >
 > **[1:34](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/prerequisites-and-learning-goals?u=76281980&t=94)** This is all going to be important.
 >
-> **[1:36](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/prerequisites-and-learning-goals?u=76281980&t=96)** We are going to leverage PostgreSQL, but if you have used MySQL in the past, that is fantastic because there are not a lot of differences between the two when writing the SQL queries.
+> **[1:36](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/prerequisites-and-learning-goals?u=76281980&t=96)** We are going to leverage [[PostgreSQL]], but if you have used [[MySQL]] in the past, that is fantastic because there are not a lot of differences between the two when writing the SQL queries.
 >
 > **[1:46](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/prerequisites-and-learning-goals?u=76281980&t=106)** So you will do just fine.
 >
@@ -228,7 +225,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/prerequisites-and-learning-goals?u=76281980&t=132)** So if you know what restful APIs are in general, you will do just fine.
 >
-> **[2:15](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/prerequisites-and-learning-goals?u=76281980&t=135)** Now, one highlight for this course is we are going to leverage GitHub Copilot for this course.
+> **[2:15](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/prerequisites-and-learning-goals?u=76281980&t=135)** Now, one highlight for this course is we are going to leverage [[GitHub Copilot]] for this course.
 >
 > **[2:21](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/prerequisites-and-learning-goals?u=76281980&t=141)** Now, what does this mean?
 >
@@ -252,13 +249,13 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/prerequisites-and-learning-goals?u=76281980&t=232)** The other thing that you will learn is how to write the business logic that handles the interaction all the way by taking the inputs from the API and connecting to the database and doing the round trip.
 >
-> **[4:03](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/prerequisites-and-learning-goals?u=76281980&t=243)** The third thing that you would learn is how to configure a Docker container and host a database locally, which takes away a lot of infrastructure issues away because some of you may be working on Windows and some other people might be working on Linux or Mac.
+> **[4:03](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/prerequisites-and-learning-goals?u=76281980&t=243)** The third thing that you would learn is how to configure a Docker container and host a database locally, which takes away a lot of infrastructure issues away because some of you may be working on [[Windows]] and some other people might be working on [[Linux]] or Mac.
 >
 > **[4:17](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/prerequisites-and-learning-goals?u=76281980&t=257)** Docker is a common platform, and this will allow you to have repeatable builds and repeatable infrastructure setups on your local machine.
 >
-> **[4:25](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/prerequisites-and-learning-goals?u=76281980&t=265)** I'm also going to touch a lot about the full text search capabilities within the Postgres.
+> **[4:25](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/prerequisites-and-learning-goals?u=76281980&t=265)** I'm also going to touch a lot about the full text search capabilities within the [[PostgreSQL|Postgres]].
 >
-> **[4:30](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/prerequisites-and-learning-goals?u=76281980&t=270)** So Postgres supports full-text search and a lot of use cases might be handled upfront and you may not need to have a paid subscription for a lot of search services like Elastic or Azure.
+> **[4:30](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/prerequisites-and-learning-goals?u=76281980&t=270)** So Postgres supports full-text search and a lot of use cases might be handled upfront and you may not need to have a paid subscription for a lot of search services like Elastic or [[Microsoft Azure|Azure]].
 >
 > **[4:42](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/prerequisites-and-learning-goals?u=76281980&t=282)** So I'm going to dive deeper into this to help you explore the full-text search, and this will help you assess whether or not this is a good use case in your current role and at the current work.
 >
@@ -270,7 +267,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub Copilot]] (11), [[Search]] (7), [[Java]] (5), database (5), [[Spring Boot]] (4)
+> **Frameworks & Libraries:** [[GitHub Copilot]] (11), [[Java]] (5), [[Spring Boot]] (4), [[Databases]] (2), [[SQL]] (2)
 > **CLI Commands:** docker (7), make (4), find (1), mysql (1)
 > **Tools:** github (11)
 > **Env Vars:** api (3), sql (2), http (1), gpt (1)
@@ -284,8 +281,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting up Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/setting-up-java?u=76281980)
+#### [Setting up Java](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/setting-up-java?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -293,13 +289,13 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/setting-up-java?u=76281980&t=1)** In this module, we are going to install all the necessary software that will help us make progress during this course.
 >
-> **[0:07](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/setting-up-java?u=76281980&t=7)** The first thing that we will do is install Java.
+> **[0:07](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/setting-up-java?u=76281980&t=7)** The first thing that we will do is install [[Java]].
 >
 > **[0:10](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/setting-up-java?u=76281980&t=10)** In order to install and manage multiple Java version, the best thing that we can do is install SDKMAN.
 >
 > **[0:16](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/setting-up-java?u=76281980&t=16)** If you visit [sdkman.io](https://sdkman.io), you will see a command here.
 >
-> **[0:20](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/setting-up-java?u=76281980&t=20)** This is a curl command, which means, if you are working either on Linux or Mac and possibly on Windows as well, you should be able to take this command, go to the Terminal, hit Enter after pasting it, and install SDKMAN.
+> **[0:20](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/setting-up-java?u=76281980&t=20)** This is a curl command, which means, if you are working either on [[Linux]] or Mac and possibly on [[Windows]] as well, you should be able to take this command, go to the Terminal, hit Enter after pasting it, and install SDKMAN.
 >
 > **[0:33](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/setting-up-java?u=76281980&t=33)** Since I'm running on Mac, I will go to the Terminal, paste the command, and hit Enter.
 >
@@ -353,7 +349,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (22), hit (2), [[Linux]] (1), [[Windows]] (1), next (1)
+> **Frameworks & Libraries:** [[Java]] (22), [[Linux]] (1), [[Windows]] (1)
 > **Prerequisites:** install (11)
 > **Versions:** version 24 (4), version 18 (3), version 17 (3)
 > **Env Vars:** sdkman (7), jdk (1), sdk (1)
@@ -362,18 +358,17 @@ created: 2026-05-02
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (2)
 
-#### Installing Maven
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/installing-maven?u=76281980)
+#### [Installing Maven](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/installing-maven?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/installing-maven?u=76281980&t=0)** - [Instructor] In order to manage our Java project for compilation, building, and testing, we are going to leverage Apache Maven, which is the build tool of our choice.
+> **[0:00](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/installing-maven?u=76281980&t=0)** - [Instructor] In order to manage our [[Java]] project for compilation, building, and testing, we are going to leverage Apache Maven, which is the build tool of our choice.
 >
 > **[0:11](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/installing-maven?u=76281980&t=11)** Now, if you go to maven.[apache.org](https://apache.org), you will see a link that says Install.
 >
 > **[0:17](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/installing-maven?u=76281980&t=17)** If you go to the Install, it has information on how to do that.
 >
-> **[0:21](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/installing-maven?u=76281980&t=21)** This is important if you are on Linux or Windows.
+> **[0:21](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/installing-maven?u=76281980&t=21)** This is important if you are on [[Linux]] or [[Windows]].
 >
 > **[0:26](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/installing-maven?u=76281980&t=26)** But for Mac, I'm going to show you a faster way to install Maven on your machine.
 >
@@ -405,7 +400,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (4), hit (2), [[Linux]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Java]] (4), [[Linux]] (1), [[Windows]] (1)
 > **CLI Commands:** apache (2), brew (2), mvn (1)
 > **Prerequisites:** install (5)
 > **Versions:** 3.9.9 (2), java 24 (1), version 24 (1)
@@ -414,12 +409,11 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Definitions:** is a  (1)
 
-#### Setting up a Maven project
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/setting-up-a-maven-project?u=76281980)
+#### [Setting up a Maven project](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/setting-up-a-maven-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/setting-up-a-maven-project?u=76281980&t=0)** - [Instructor] All right, now that we have Maven and Java installed, let's create our project.
+> **[0:00](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/setting-up-a-maven-project?u=76281980&t=0)** - [Instructor] All right, now that we have Maven and [[Java]] installed, let's create our project.
 >
 > **[0:05](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/setting-up-a-maven-project?u=76281980&t=5)** I'm going to paste the command first and then I'm going to explain what it does.
 >
@@ -483,7 +477,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (5), next (2), [[Search]] (2), hit (2)
+> **Frameworks & Libraries:** [[Java]] (5)
 > **Prerequisites:** install (5), set up (2)
 > **CLI Commands:** mvn (3), make (2), ls (1)
 > **Env Vars:** jar (4), ide (1)
@@ -492,14 +486,13 @@ created: 2026-05-02
 > **File Paths:** app.java (1)
 > **Tools:** terminal (1)
 
-#### Setting up Visual Studio Code
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/setting-up-visual-studio-code?u=76281980)
+#### [Setting up Visual Studio Code](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/setting-up-visual-studio-code?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/setting-up-visual-studio-code?u=76281980&t=0)** - [Instructor] Alright, so in this project, I'm going to use Visual Studio Code, which is an IDE of my choice, and it is a very popular IDE available for free for virtually every developer on the planet.
 >
-> **[0:13](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/setting-up-visual-studio-code?u=76281980&t=13)** Now, we are going to also use GitHub Copilot, which as I mentioned in my, one of the past videos that this is a paid subscription.
+> **[0:13](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/setting-up-visual-studio-code?u=76281980&t=13)** Now, we are going to also use [[GitHub Copilot]], which as I mentioned in my, one of the past videos that this is a paid subscription.
 >
 > **[0:21](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/setting-up-visual-studio-code?u=76281980&t=21)** So if you have it, that's fantastic.
 >
@@ -535,9 +528,9 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/setting-up-visual-studio-code?u=76281980&t=117)** So I'm going to allow, and this takes me to a page wherein I need to verify my session.
 >
-> **[2:06](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/setting-up-visual-studio-code?u=76281980&t=126)** It comes to my [github.com](https://github.com) and I need to continue to allow the extension to use my credentials.
+> **[2:06](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/setting-up-visual-studio-code?u=76281980&t=126)** It comes to my [[[GitHub]].com](https://github.com) and I need to continue to allow the extension to use my credentials.
 >
-> **[2:13](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/setting-up-visual-studio-code?u=76281980&t=133)** And I'm back on GitHub Copilot chat and I see Ask Copilot, which means I'm successfully authenticated.
+> **[2:13](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/setting-up-visual-studio-code?u=76281980&t=133)** And I'm back on GitHub Copilot chat and I see Ask [[Microsoft Copilot|Copilot]], which means I'm successfully authenticated.
 >
 > **[2:21](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/setting-up-visual-studio-code?u=76281980&t=141)** And now, I can use GitHub Copilot chat in my IDE.
 >
@@ -567,7 +560,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/setting-up-visual-studio-code?u=76281980&t=201)** So this is the main file that holds the blueprint with all the dependencies that we are going to use in our project.
 >
-> **[3:33](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/setting-up-visual-studio-code?u=76281980&t=213)** Since we were using an archetype, the only dependency that we have is Junit, and we are going to leverage that when we are going to write the test.
+> **[3:33](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/setting-up-visual-studio-code?u=76281980&t=213)** Since we were using an archetype, the only dependency that we have is [[JUnit]], and we are going to leverage that when we are going to write the test.
 >
 > **[3:41](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/setting-up-visual-studio-code?u=76281980&t=221)** But other than that, there is nothing new here.
 >
@@ -585,7 +578,7 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/setting-up-visual-studio-code?u=76281980&t=260)** That is being used to create this package.
 >
-> **[4:22](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/setting-up-visual-studio-code?u=76281980&t=262)** And outdoor Java is the main class that is executed when we ran mvn run exec command.
+> **[4:22](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/setting-up-visual-studio-code?u=76281980&t=262)** And outdoor [[Java]] is the main class that is executed when we ran mvn run exec command.
 >
 > **[4:29](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/setting-up-visual-studio-code?u=76281980&t=269)** So this is pretty much about it.
 >
@@ -627,7 +620,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub Copilot]] (11), [[Search]] (4), [[Java]] (3), next (3), [[Microsoft Copilot|Copilot]] (2)
+> **Frameworks & Libraries:** [[GitHub Copilot]] (11), [[Java]] (3), [[Microsoft Copilot|Copilot]] (2), [[GitHub]] (1), [[JUnit]] (1)
 > **Tools:** github (12), vs code (4), command line (3), terminal (2), visual studio (1)
 > **Env Vars:** ide (6), src (1)
 > **CLI Commands:** mvn (4), make (2)
@@ -636,12 +629,11 @@ created: 2026-05-02
 > **Prerequisites:** install (4), before we start (1)
 > **Cross-References:** in the next (2), coming up (1)
 
-#### Introduction to the Spring Boot framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/introduction-to-spring-boot-framework?u=76281980)
+#### [Introduction to the Spring Boot framework](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/introduction-to-spring-boot-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/introduction-to-spring-boot-framework?u=76281980&t=0)** - [Instructor] In this course, we are going to leverage Spring Boot.
+> **[0:00](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/introduction-to-spring-boot-framework?u=76281980&t=0)** - [Instructor] In this course, we are going to leverage [[Spring Boot]].
 >
 > **[0:03](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/introduction-to-spring-boot-framework?u=76281980&t=3)** If you look at their Featured section, it outlines why this is one of the most popular projects.
 >
@@ -667,7 +659,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/introduction-to-spring-boot-framework?u=76281980&t=70)** We assume that you know Spring Boot before.
 >
-> **[1:14](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/introduction-to-spring-boot-framework?u=76281980&t=74)** If not, there are good courses available on LinkedIn Learning that you can take to get better at these Spring Boot skills.
+> **[1:14](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/introduction-to-spring-boot-framework?u=76281980&t=74)** If not, there are good courses available on [[LinkedIn]] Learning that you can take to get better at these Spring Boot skills.
 >
 > **[1:21](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/introduction-to-spring-boot-framework?u=76281980&t=81)** However, in this course, we will use Spring Boot, and whatever part we are going to touch as part of the framework, we will do our best to make sure that you understand the code that we are writing.
 >
@@ -675,25 +667,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Boot]] (7), [[LinkedIn]] (1), next (1), api (1)
+> **Frameworks & Libraries:** [[Spring Boot]] (7), [[LinkedIn]] (1)
 > **Env Vars:** war (1), api (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a hello world API
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/creating-a-hello-world-api?u=76281980)
+#### [Creating a hello world API](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/creating-a-hello-world-api?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/creating-a-hello-world-api?u=76281980&t=0)** - [Instructor] As we mentioned that we are going to use Spring Boot for creating our API project, we need to install the Spring Boot dependencies, so that we can continue to make progress in the project.
+> **[0:00](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/creating-a-hello-world-api?u=76281980&t=0)** - [Instructor] As we mentioned that we are going to use [[Spring Boot]] for creating our API project, we need to install the Spring Boot dependencies, so that we can continue to make progress in the project.
 >
 > **[0:13](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/creating-a-hello-world-api?u=76281980&t=13)** Now, I've opened up the pom.xml.
 >
 > **[0:15](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/creating-a-hello-world-api?u=76281980&t=15)** This is where all the dependencies must go in.
 >
-> **[0:18](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/creating-a-hello-world-api?u=76281980&t=18)** This is where I'm going to show you the first use case on where GitHub Copilot could be useful.
+> **[0:18](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/creating-a-hello-world-api?u=76281980&t=18)** This is where I'm going to show you the first use case on where [[GitHub Copilot]] could be useful.
 >
 > **[0:23](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/creating-a-hello-world-api?u=76281980&t=23)** So for that, I'm going to open up chat, and I'm going to pass in the context, my question, which is, "I'm creating API based project using Spring Boot.
 >
@@ -729,9 +720,9 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/creating-a-hello-world-api?u=76281980&t=165)** So what we are going to do next is we should create a simple Hello World API that runs using Spring Boot and make sure that everything that we have done so far works correctly.
 >
-> **[2:59](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/creating-a-hello-world-api?u=76281980&t=179)** So I'm going to go to src, main, com S2, do a right click and insert a new file called HelloController.java.
+> **[2:59](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/creating-a-hello-world-api?u=76281980&t=179)** So I'm going to go to src, main, com S2, do a right click and insert a new file called HelloController.[[Java]].
 >
-> **[3:10](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/creating-a-hello-world-api?u=76281980&t=190)** And we are going to create the rest controller here.
+> **[3:10](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/creating-a-hello-world-api?u=76281980&t=190)** And we are going to create the [[Representational State Transfer (REST)|rest]] controller here.
 >
 > **[3:13](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/creating-a-hello-world-api?u=76281980&t=193)** So for that, what I'm going to do is I'm going to annotate this saying RestController.
 >
@@ -841,7 +832,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Boot]] (19), application (18), [[GitHub Copilot]] (15), hit (9), api (4)
+> **Frameworks & Libraries:** [[Spring Boot]] (19), [[GitHub Copilot]] (15), [[Representational State Transfer (REST)|Rest]] (2), [[Java]] (1)
 > **Tools:** github (15), terminal (1)
 > **CLI Commands:** make (8), mvn (3)
 > **UI Navigation:** go to (5), click on (1)
@@ -855,8 +846,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting up Docker
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/setting-up-docker?u=76281980)
+#### [Setting up Docker](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/setting-up-docker?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -882,9 +872,9 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/setting-up-docker?u=76281980&t=79)** And it contains a lot of different services.
 >
-> **[1:22](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/setting-up-docker?u=76281980&t=82)** And the one that we are going to use is Docker Compose.
+> **[1:22](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/setting-up-docker?u=76281980&t=82)** And the one that we are going to use is Docker [[Jetpack Compose|Compose]].
 >
-> **[1:26](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/setting-up-docker?u=76281980&t=86)** Even though Docker Compose says that it's for defining and running multiple container applications, we are only going to start a single container that contains our Postgres database.
+> **[1:26](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/setting-up-docker?u=76281980&t=86)** Even though Docker Compose says that it's for defining and running multiple container applications, we are only going to start a single container that contains our [[PostgreSQL|Postgres]] database.
 >
 > **[1:37](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/setting-up-docker?u=76281980&t=97)** Now, in order to install the Docker technology, you go back to the homepage, to [docker.com](https://docker.com), and over here, you will see this button that says Download Docker Desktop.
 >
@@ -900,7 +890,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), business (2), [[Jetpack Compose|Compose]] (2), [[Search]] (1), api (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (2), [[PostgreSQL|Postgres]] (1)
 > **CLI Commands:** docker (16)
 > **Tools:** docker desktop (3), terminal (1)
 > **UI Navigation:** go to (2), click on (2)
@@ -909,26 +899,25 @@ created: 2026-05-02
 > **URLs:** [docker.com](https://docker.com) (1)
 > **Env Vars:** api (1)
 
-#### Configuring PostgreSQL in Docker
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/configuring-postgresql-in-docker?u=76281980)
+#### [Configuring PostgreSQL in Docker](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/configuring-postgresql-in-docker?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/configuring-postgresql-in-docker?u=76281980&t=0)** - [Instructor] All right, so now that the Docker is up and running on our machine, the next thing we need to do is to set up a Postgres database inside the Docker container.
+> **[0:00](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/configuring-postgresql-in-docker?u=76281980&t=0)** - [Instructor] All right, so now that the Docker is up and running on our machine, the next thing we need to do is to set up a [[PostgreSQL|Postgres]] database inside the Docker container.
 >
-> **[0:10](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/configuring-postgresql-in-docker?u=76281980&t=10)** Now in order to do that, we are going to leverage GitHub Copilot.
+> **[0:10](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/configuring-postgresql-in-docker?u=76281980&t=10)** Now in order to do that, we are going to leverage [[GitHub Copilot]].
 >
 > **[0:14](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/configuring-postgresql-in-docker?u=76281980&t=14)** Let's assume that we don't know anything about Docker.
 >
-> **[0:17](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/configuring-postgresql-in-docker?u=76281980&t=17)** All we need to do is to run a Postgres SQL container inside the Docker.
+> **[0:17](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/configuring-postgresql-in-docker?u=76281980&t=17)** All we need to do is to run a Postgres [[SQL]] container inside the Docker.
 >
 > **[0:23](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/configuring-postgresql-in-docker?u=76281980&t=23)** So we are going to ask GitHub Copilot to help us with this task.
 >
-> **[0:27](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/configuring-postgresql-in-docker?u=76281980&t=27)** So I'm going to say, create a Docker compose yml file.
+> **[0:27](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/configuring-postgresql-in-docker?u=76281980&t=27)** So I'm going to say, create a Docker [[Jetpack Compose|compose]] yml file.
 >
 > **[0:35](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/configuring-postgresql-in-docker?u=76281980&t=35)** So docker-compose.yml is a file that is a blueprint of what the infrastructure would look like.
 >
-> **[0:41](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/configuring-postgresql-in-docker?u=76281980&t=41)** We provide that file as an input to Docker and Docker does the rest of the things.
+> **[0:41](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/configuring-postgresql-in-docker?u=76281980&t=41)** We provide that file as an input to Docker and Docker does the [[Representational State Transfer (REST)|rest]] of the things.
 >
 > **[0:47](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/configuring-postgresql-in-docker?u=76281980&t=47)** So we are going to create that blueprint by asking GitHub Copilot to create the docker-compose.yml file.
 >
@@ -1086,7 +1075,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (18), [[PostgreSQL|Postgres]] (12), [[Jetpack Compose|Compose]] (11), [[GitHub Copilot]] (7), next (3)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (12), [[Jetpack Compose|Compose]] (11), [[GitHub Copilot]] (7), [[SQL]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** docker (26), find (1)
 > **Tools:** github (7), terminal (5), docker desktop (1)
 > **Definitions:** is a  (5), means that (1)
@@ -1100,8 +1089,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Designing the book schema
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/designing-the-book-schema?u=76281980)
+#### [Designing the book schema](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/designing-the-book-schema?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1111,7 +1099,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/designing-the-book-schema?u=76281980&t=6)** Now it's a good time for us to move on to the next step where we are going to insert books information in this database.
 >
-> **[0:13](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/designing-the-book-schema?u=76281980&t=13)** Now all the books information are available on a CSU file sitting in a remote GitHub gist.
+> **[0:13](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/designing-the-book-schema?u=76281980&t=13)** Now all the books information are available on a CSU file sitting in a remote [[GitHub]] gist.
 >
 > **[0:20](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/designing-the-book-schema?u=76281980&t=20)** And I'm going to take a small sample of that.
 >
@@ -1145,32 +1133,31 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/designing-the-book-schema?u=76281980&t=110)** So I hope that this was useful.
 >
-> **[1:51](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/designing-the-book-schema?u=76281980&t=111)** Now that we have seen what data looks like and how we want to shape it, let's move on to the next step and create the schema in Postgres database.
+> **[1:51](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/designing-the-book-schema?u=76281980&t=111)** Now that we have seen what data looks like and how we want to shape it, let's move on to the next step and create the schema in [[PostgreSQL|Postgres]] database.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), data (3), next (2), [[GitHub]] (1), business (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[PostgreSQL|Postgres]] (1)
 > **Env Vars:** csv (2), csu (1)
 > **CLI Commands:** docker (1)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a database schema in PostgreSQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/create-database-schema-in-postgresql?u=76281980)
+#### [Create a database schema in PostgreSQL](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/create-database-schema-in-postgresql?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/create-database-schema-in-postgresql?u=76281980&t=0)** - [Instructor] All right, so now I'm back in my VS Code, and we have seen all this code before.
 >
-> **[0:05](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/create-database-schema-in-postgresql?u=76281980&t=5)** Now, in order to create a schema, I'm going to first create a file inside a folder called DB, and call it create_schema.sql.
+> **[0:05](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/create-database-schema-in-postgresql?u=76281980&t=5)** Now, in order to create a schema, I'm going to first create a file inside a folder called DB, and call it create_schema.[[SQL]].
 >
 > **[0:17](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/create-database-schema-in-postgresql?u=76281980&t=17)** Now, in order to create this schema, we need to know what columns it would contain.
 >
 > **[0:23](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/create-database-schema-in-postgresql?u=76281980&t=23)** So we are going to go back to the original CSV that we had, and I'm going to copy all the names for the columns.
 >
-> **[0:30](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/create-database-schema-in-postgresql?u=76281980&t=30)** I will come back to my SQL file, and I will write a comment that we are using, we are using PostgreSQL 16.4, which is the latest one, and CSV Header is below.
+> **[0:30](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/create-database-schema-in-postgresql?u=76281980&t=30)** I will come back to my SQL file, and I will write a comment that we are using, we are using [[PostgreSQL]] 16.4, which is the latest one, and CSV Header is below.
 >
-> **[0:48](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/create-database-schema-in-postgresql?u=76281980&t=48)** And the reason I'm doing that is because I want the help from GitHub Copilot to help me design the schema.
+> **[0:48](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/create-database-schema-in-postgresql?u=76281980&t=48)** And the reason I'm doing that is because I want the help from [[GitHub Copilot]] to help me design the schema.
 >
 > **[0:57](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/create-database-schema-in-postgresql?u=76281980&t=57)** So in the next step, I'm going to write a comment which it already understands, but I'm going to put the comment for clarity, Create the books table, and then I'm going to say Create the authors table, and then I'm going to say Create the book_authors table.
 >
@@ -1178,7 +1165,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/create-database-schema-in-postgresql?u=76281980&t=89)** So as I mentioned in the video before, is that we are going to create these three tables, and I have copied the CSV Header from the file that I will show you once again from here.
 >
-> **[1:40](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/create-database-schema-in-postgresql?u=76281980&t=100)** It's a CSV file setting in GitHub Gist, and I pasted it here so that I can get help from GitHub Copilot in designing this schema as well.
+> **[1:40](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/create-database-schema-in-postgresql?u=76281980&t=100)** It's a CSV file setting in [[GitHub]] Gist, and I pasted it here so that I can get help from GitHub Copilot in designing this schema as well.
 >
 > **[1:48](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/create-database-schema-in-postgresql?u=76281980&t=108)** And we have already mentioned that we are going to leverage PostgreSQL syntax.
 >
@@ -1214,13 +1201,13 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/create-database-schema-in-postgresql?u=76281980&t=242)** So as you can see, it was pretty easy taking help from GitHub Copilot to design this schema.
 >
-> **[4:08](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/create-database-schema-in-postgresql?u=76281980&t=248)** In this case, I've worked with Postgres, but I may not know all the data types, but having the helping hand from GitHub Copilot to do the programming with me is extremely useful.
+> **[4:08](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/create-database-schema-in-postgresql?u=76281980&t=248)** In this case, I've worked with [[PostgreSQL|Postgres]], but I may not know all the data types, but having the helping hand from GitHub Copilot to do the programming with me is extremely useful.
 >
 > **[4:19](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/create-database-schema-in-postgresql?u=76281980&t=259)** As you can see, in just a few minutes, we were able to create the schema.
 >
 > **[4:23](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/create-database-schema-in-postgresql?u=76281980&t=263)** So now that we have created our schema, it's time for us to create the tables in the database.
 >
-> **[4:29](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/create-database-schema-in-postgresql?u=76281980&t=269)** But before we do that, there is one more thing that we need do to ensure that as soon as we start our database container, these tables are created, and for that, I need to go to docker-compose.yaml file.
+> **[4:29](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/create-database-schema-in-postgresql?u=76281980&t=269)** But before we do that, there is one more thing that we need do to ensure that as soon as we start our database container, these tables are created, and for that, I need to go to docker-[[Jetpack Compose|compose]].yaml file.
 >
 > **[4:42](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/create-database-schema-in-postgresql?u=76281980&t=282)** And in under volumes, I will add a new part, and I will say from db, take the create_schema.sql, and as you can see, GitHub Copilot is giving me a hint that you want to put this in the docker-entrypoint under the create_schema.sql.
 >
@@ -1240,7 +1227,7 @@ created: 2026-05-02
 >
 > **[6:12](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/create-database-schema-in-postgresql?u=76281980&t=372)** So it says that it has created the volume, it has created the network, and it has created the library-db as well.
 >
-> **[6:20](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/create-database-schema-in-postgresql?u=76281980&t=380)** So we need to ensure that this is indeed the case, so I'm going to run the docker exec, and I'm inside the Docker container inside the database because I'm looking at the psql, and first thing, I will list all the databases.
+> **[6:20](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/create-database-schema-in-postgresql?u=76281980&t=380)** So we need to ensure that this is indeed the case, so I'm going to run the docker exec, and I'm inside the Docker container inside the database because I'm looking at the psql, and first thing, I will list all the [[Databases]].
 >
 > **[6:35](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/create-database-schema-in-postgresql?u=76281980&t=395)** So library is there.
 >
@@ -1262,7 +1249,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (8), [[GitHub Copilot]] (8), database (7), hit (4), [[Jetpack Compose|Compose]] (4)
+> **Frameworks & Libraries:** [[SQL]] (8), [[GitHub Copilot]] (8), [[Jetpack Compose|Compose]] (4), [[PostgreSQL]] (2), [[PostgreSQL|Postgres]] (2)
 > **Code Identifiers:** create_schema (5), author_id (5), book_id (3), author_name (3), books_authors (3)
 > **CLI Commands:** docker (13), make (2), psql (1)
 > **Env Vars:** csv (6), sql (2), create (1), table (1), primary (1)
@@ -1271,8 +1258,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (2), go back to (1), we mentioned (1)
 > **Definitions:** is a  (3)
 
-#### Navigating the database using a web browser
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/navigating-database-using-web-browser?u=76281980)
+#### [Navigating the database using a web browser](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/navigating-database-using-web-browser?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1284,7 +1270,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/navigating-database-using-web-browser?u=76281980&t=25)** For that, we are going to install another piece of software, which is called pgAdmin.
 >
-> **[0:30](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/navigating-database-using-web-browser?u=76281980&t=30)** PgAdmin is one of the most popular open source software to work with the Postgres database.
+> **[0:30](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/navigating-database-using-web-browser?u=76281980&t=30)** PgAdmin is one of the most popular open source software to work with the [[PostgreSQL|Postgres]] database.
 >
 > **[0:37](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/navigating-database-using-web-browser?u=76281980&t=37)** Now when you go to the download section, they have a variety of ways where we can download pgAdmin, and we are going to look at the container mode.
 >
@@ -1310,7 +1296,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/navigating-database-using-web-browser?u=76281980&t=131)** I'm going to come back to my IDE and quit this setup right now.
 >
-> **[2:16](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/navigating-database-using-web-browser?u=76281980&t=136)** And if I do a docker PS, there is only library-db, so what I need to do is to docker-compose down -v and there is no container running at the moment.
+> **[2:16](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/navigating-database-using-web-browser?u=76281980&t=136)** And if I do a docker PS, there is only library-db, so what I need to do is to docker-[[Jetpack Compose|compose]] down -v and there is no container running at the moment.
 >
 > **[2:29](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/navigating-database-using-web-browser?u=76281980&t=149)** And what we need to do is to, I will start the container once again by saying docker-compose up -d.
 >
@@ -1410,7 +1396,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (22), hit (5), [[Jetpack Compose|Compose]] (4), data (3), [[PostgreSQL|Postgres]] (2)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (4), [[PostgreSQL|Postgres]] (2)
 > **Code Identifiers:** pgadmin (17), search_default (2)
 > **CLI Commands:** docker (16), make (1), find (1)
 > **UI Navigation:** go to (6), click on (1)
@@ -1419,8 +1405,7 @@ created: 2026-05-02
 > **Ports:** port 80 (2)
 > **Prerequisites:** install (1), setup (1)
 
-#### Introduction to full-text search
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/introduction-to-full-text-search?u=76281980)
+#### [Introduction to full-text search](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/introduction-to-full-text-search?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1454,7 +1439,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/introduction-to-full-text-search?u=76281980&t=97)** So, there is already setting star from public books, and then we will say where, and let's run from the title.
 >
-> **[1:46](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/introduction-to-full-text-search?u=76281980&t=106)** Title like, and then we are going to say, "We are searching for books on algorithms."
+> **[1:46](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/introduction-to-full-text-search?u=76281980&t=106)** Title like, and then we are going to say, "We are searching for books on [[Algorithms]]."
 >
 > **[1:56](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/introduction-to-full-text-search?u=76281980&t=116)** And as a I hit run, I didn't find anything here. Why so?
 >
@@ -1480,7 +1465,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/introduction-to-full-text-search?u=76281980&t=202)** Now this is one area where the like queries don't work as much as we want, and we need to change our attention into a full text search engine.
 >
-> **[3:31](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/introduction-to-full-text-search?u=76281980&t=211)** And thankfully, Postgres supports the full text search.
+> **[3:31](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/introduction-to-full-text-search?u=76281980&t=211)** And thankfully, [[PostgreSQL|Postgres]] supports the full text search.
 >
 > **[3:34](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/introduction-to-full-text-search?u=76281980&t=214)** And let's quickly take a look on how full text search index works behind the scene.
 >
@@ -1496,7 +1481,7 @@ created: 2026-05-02
 >
 > **[4:27](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/introduction-to-full-text-search?u=76281980&t=267)** And what a search index does, it breaks the words available in the title or on the dimension that you are interested in.
 >
-> **[4:35](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/introduction-to-full-text-search?u=76281980&t=275)** And what it does, it creates the term, which means what word it found and where it found that.
+> **[4:35](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/introduction-to-full-text-search?u=76281980&t=275)** And what it does, it creates the term, which means what [[Microsoft Word|word]] it found and where it found that.
 >
 > **[4:41](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/introduction-to-full-text-search?u=76281980&t=281)** So for example, let's take the word called concepts.
 >
@@ -1522,7 +1507,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (14), data (6), [[Microsoft Word|Word]] (6), [[Algorithms]] (4), database (3)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), [[Algorithms]] (4), [[PostgreSQL|Postgres]] (3)
 > **CLI Commands:** find (6), make (2)
 > **Analogies:** for example (2), such as (1), imagine (1)
 > **Definitions:** is a  (2)
@@ -1531,8 +1516,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implementing full-text search in PostgreSQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/implementing-full-text-search-in-postgresql?u=76281980)
+#### [Implementing full-text search in PostgreSQL](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/implementing-full-text-search-in-postgresql?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1576,7 +1560,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/implementing-full-text-search-in-postgresql?u=76281980&t=149)** It looks similar, but it's not exactly similar, it is much more involved with regard on how this activity works.
 >
-> **[2:35](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/implementing-full-text-search-in-postgresql?u=76281980&t=155)** I gave you a very simple example on (indistinct) search index, but this code that is implemented by Postgres is much more involved and advanced.
+> **[2:35](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/implementing-full-text-search-in-postgresql?u=76281980&t=155)** I gave you a very simple example on (indistinct) search index, but this code that is implemented by [[PostgreSQL|Postgres]] is much more involved and advanced.
 >
 > **[2:44](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/implementing-full-text-search-in-postgresql?u=76281980&t=164)** So now that we have our search vector updated, we need to start making our search queries.
 >
@@ -1584,7 +1568,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/implementing-full-text-search-in-postgresql?u=76281980&t=180)** So, we are selecting title, and we are also using ts_rank, which is going to provide us the relevance or the ranking score on what the search score was.
 >
-> **[3:12](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/implementing-full-text-search-in-postgresql?u=76281980&t=192)** And the way it works is we tell it which column contains our vector and then we are taking our query, which is algorithms in English language, and we are converting that into a query object.
+> **[3:12](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/implementing-full-text-search-in-postgresql?u=76281980&t=192)** And the way it works is we tell it which column contains our vector and then we are taking our query, which is [[Algorithms]] in English language, and we are converting that into a query object.
 >
 > **[3:24](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/implementing-full-text-search-in-postgresql?u=76281980&t=204)** Now, you see this to_tsquery appeared twice.
 >
@@ -1622,7 +1606,7 @@ created: 2026-05-02
 >
 > **[5:28](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/implementing-full-text-search-in-postgresql?u=76281980&t=328)** If you want to model A and B, you use the and symbol, and I'm going to change it here again.
 >
-> **[5:35](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/implementing-full-text-search-in-postgresql?u=76281980&t=335)** And if I select and run it again, nothing matched because there is no such book that contains the word algorithms and design.
+> **[5:35](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/implementing-full-text-search-in-postgresql?u=76281980&t=335)** And if I select and run it again, nothing matched because there is no such book that contains the [[Microsoft Word|word]] algorithms and design.
 >
 > **[5:42](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/implementing-full-text-search-in-postgresql?u=76281980&t=342)** But if you go back and change it to or condition, we found two books as we saw a few moments ago.
 >
@@ -1668,13 +1652,13 @@ created: 2026-05-02
 >
 > **[8:19](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/implementing-full-text-search-in-postgresql?u=76281980&t=499)** As I mentioned that, we have 20,000 books that we have to work on.
 >
-> **[8:24](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/implementing-full-text-search-in-postgresql?u=76281980&t=504)** So, in the next step what we are going to do is we are going to write code that can insert the books information sitting remote somewhere on GitHub servers into our database that is sitting in our Docker containers before we move on to business logic and APIs.
+> **[8:24](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/implementing-full-text-search-in-postgresql?u=76281980&t=504)** So, in the next step what we are going to do is we are going to write code that can insert the books information sitting remote somewhere on [[GitHub]] servers into our database that is sitting in our Docker containers before we move on to business logic and APIs.
 >
 > **[8:40](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/implementing-full-text-search-in-postgresql?u=76281980&t=520)** All right, fantastic, and I will see you in the next video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (20), [[Algorithms]] (10), database (5), [[PostgreSQL|Postgres]] (4), next (3)
+> **Frameworks & Libraries:** [[Algorithms]] (10), [[PostgreSQL|Postgres]] (4), [[Microsoft Word|Word]] (2), [[GitHub]] (1)
 > **Code Identifiers:** to_tsquery (6), search_vector (2), ts_rank (2), to_tsvector (1), pgadmin (1)
 > **CLI Commands:** make (3), docker (3), find (2)
 > **Env Vars:** where (2), isbn (1), ispn (1)
@@ -1688,12 +1672,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of data ingestion
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/overview-of-data-ingestion?u=76281980)
+#### [Overview of data ingestion](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/overview-of-data-ingestion?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/overview-of-data-ingestion?u=76281980&t=0)** - [Instructor] All right. So, now, in this set of videos, we are going to focus on inserting the data from CSV file that is setting on a GitHub gist, and then inserting that into our database that is running inside Dockerfile.
+> **[0:00](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/overview-of-data-ingestion?u=76281980&t=0)** - [Instructor] All right. So, now, in this set of videos, we are going to focus on inserting the data from CSV file that is setting on a [[GitHub]] gist, and then inserting that into our database that is running inside Dockerfile.
 >
 > **[0:15](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/overview-of-data-ingestion?u=76281980&t=15)** Now, as we have seen, we already have the CSV file, which is books.csv, and it contains 20,000 books along with their author information, and a lot more things.
 >
@@ -1707,7 +1690,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), database (2), [[GitHub]] (1), next (1)
+> **Frameworks & Libraries:** [[GitHub]] (1)
 > **Env Vars:** csv (4)
 > **Cross-References:** as we saw (1), in the next (1)
 > **File Paths:** books.csv (1)
@@ -1715,20 +1698,19 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
-#### Automating data ingestion
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/automating-data-ingestion?u=76281980)
+#### [Automating data ingestion](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/automating-data-ingestion?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/automating-data-ingestion?u=76281980&t=0)** - [Instructor] I'm back in VS Code now, and before we look at how this code will run, we need two dependencies.
 >
-> **[0:07](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/automating-data-ingestion?u=76281980&t=7)** The first one is to connect with the Postgres database, and the second dependency we need is to parse the CSV file.
+> **[0:07](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/automating-data-ingestion?u=76281980&t=7)** The first one is to connect with the [[PostgreSQL|Postgres]] database, and the second dependency we need is to parse the CSV file.
 >
 > **[0:15](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/automating-data-ingestion?u=76281980&t=15)** So I will head over to pom.xml where all our dependencies are already available.
 >
-> **[0:21](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/automating-data-ingestion?u=76281980&t=21)** And now I'm going to ask GitHub Copilot to help us insert those dependencies.
+> **[0:21](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/automating-data-ingestion?u=76281980&t=21)** And now I'm going to ask [[GitHub Copilot]] to help us insert those dependencies.
 >
-> **[0:28](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/automating-data-ingestion?u=76281980&t=28)** Now one way to do that is I do a right click here, and I say Copilot, and Editor Inline Chat, and there is a Command + I on Mac as a shortcut.
+> **[0:28](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/automating-data-ingestion?u=76281980&t=28)** Now one way to do that is I do a right click here, and I say [[Microsoft Copilot|Copilot]], and Editor Inline Chat, and there is a Command + I on Mac as a shortcut.
 >
 > **[0:39](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/automating-data-ingestion?u=76281980&t=39)** So I'll click here, and this window pops up.
 >
@@ -1736,7 +1718,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/automating-data-ingestion?u=76281980&t=45)** I'm going to say add the dependency of Postgres and OpenCSV.
 >
-> **[0:55](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/automating-data-ingestion?u=76281980&t=55)** OpenCSV we will use to parse the CSV file into the Java objects, and Postgres is, once we have those objects and we want to connect to Postgres and insert data, that's when we would need it.
+> **[0:55](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/automating-data-ingestion?u=76281980&t=55)** OpenCSV we will use to parse the CSV file into the [[Java]] objects, and Postgres is, once we have those objects and we want to connect to Postgres and insert data, that's when we would need it.
 >
 > **[1:06](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/automating-data-ingestion?u=76281980&t=66)** I will hit Enter or I can also click here.
 >
@@ -1748,7 +1730,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/automating-data-ingestion?u=76281980&t=82)** They both look good so I'm going to click Accept.
 >
-> **[1:25](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/automating-data-ingestion?u=76281980&t=85)** Now one thing I always make sure is that GitHub Copilot is a model that predicts the next word.
+> **[1:25](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/automating-data-ingestion?u=76281980&t=85)** Now one thing I always make sure is that GitHub Copilot is a model that predicts the next [[Microsoft Word|word]].
 >
 > **[1:32](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/automating-data-ingestion?u=76281980&t=92)** So it may not always have the latest information.
 >
@@ -1792,7 +1774,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/automating-data-ingestion?u=76281980&t=203)** This is only for the demo purposes.
 >
-> **[3:25](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/automating-data-ingestion?u=76281980&t=205)** If you are using a products in grid system, I would request not to check this in into your source control, either GitHub, GitLab, or whatever system you use.
+> **[3:25](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/automating-data-ingestion?u=76281980&t=205)** If you are using a [[Microsoft Products|products]] in grid system, I would request not to check this in into your source control, either [[GitHub]], GitLab, or whatever system you use.
 >
 > **[3:34](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/automating-data-ingestion?u=76281980&t=214)** Rather keep this in a configuration file and load them on runtime.
 >
@@ -1862,7 +1844,7 @@ created: 2026-05-02
 >
 > **[6:52](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/automating-data-ingestion?u=76281980&t=412)** The first thing is we create the connection to the database by passing in the URL, user, and the password.
 >
-> **[6:59](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/automating-data-ingestion?u=76281980&t=419)** Then we have a bunch of SQL statements.
+> **[6:59](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/automating-data-ingestion?u=76281980&t=419)** Then we have a bunch of [[SQL]] statements.
 >
 > **[7:03](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/automating-data-ingestion?u=76281980&t=423)** The first SQL statement is how we are going to insert the author name into the database.
 >
@@ -1988,7 +1970,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (17), data (13), [[PostgreSQL|Postgres]] (6), [[Java]] (4), hit (4)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (6), [[Java]] (4), [[GitHub]] (3), [[SQL]] (3), [[GitHub Copilot]] (2)
 > **Code Identifiers:** author_id (7), book_id (5), book_authors (4), csvstream (3), parsecsv (3)
 > **Env Vars:** csv (7), url (7), sql (3), insert (2), f12 (1)
 > **Tools:** github (5), terminal (3), vs code (2), gitlab (1)
@@ -1997,8 +1979,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (3), go to (1)
 > **File Paths:** pom.xml (1), dbimporter.java (1), books.csv (1)
 
-#### Validating data integrity
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/validating-data-integrity?u=76281980)
+#### [Validating data integrity](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/validating-data-integrity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2094,11 +2075,11 @@ created: 2026-05-02
 >
 > **[5:05](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/validating-data-integrity?u=76281980&t=305)** And as you can see now our search_vector is ready.
 >
-> **[5:09](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/validating-data-integrity?u=76281980&t=309)** Fantastic, so, now that our database is set up with the right set of books downloaded from GitHub gist and our search index is ready, we are ready to go onto the next step where we are going to write functions in Java to fetch the data based on the user queries.
+> **[5:09](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/validating-data-integrity?u=76281980&t=309)** Fantastic, so, now that our database is set up with the right set of books downloaded from [[GitHub]] gist and our search index is ready, we are ready to go onto the next step where we are going to write functions in [[Java]] to [[Fetch]] the data based on the user queries.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), database (3), [[Search]] (2), hit (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[Java]] (1), [[Fetch]] (1)
 > **Code Identifiers:** books_authors (3), search_vector (3), book_id (2), author_id (2), pgadmin (1)
 > **Env Vars:** csg (1), alter (1), table (1)
 > **Definitions:** means that (2)
@@ -2112,8 +2093,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to business logic
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/introduction-to-business-logic?u=76281980)
+#### [Introduction to business logic](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/introduction-to-business-logic?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2143,11 +2123,11 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/introduction-to-business-logic?u=76281980&t=80)** So whenever you abstract the access to your database and internal infrastructure from the user queries, and that's what essentially business logic is.
 >
-> **[1:29](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/introduction-to-business-logic?u=76281980&t=89)** Now, if you're focusing purely on the books we have, if I zoom out little bit, we have a table for books where this is a simplification, but we have ID and the book title.
+> **[1:29](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/introduction-to-business-logic?u=76281980&t=89)** Now, if you're focusing purely on the books we have, if I [[Zoom]] out little bit, we have a table for books where this is a simplification, but we have ID and the book title.
 >
 > **[1:40](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/introduction-to-business-logic?u=76281980&t=100)** So far, we have the table.
 >
-> **[1:42](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/introduction-to-business-logic?u=76281980&t=102)** But what we need to do is to create the entity using spring data where each entity maps to a specific record in the database table.
+> **[1:42](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/introduction-to-business-logic?u=76281980&t=102)** But what we need to do is to create the entity using [[Spring Data]] where each entity maps to a specific record in the database table.
 >
 > **[1:53](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/introduction-to-business-logic?u=76281980&t=113)** And then we need to abstract the concept of entity into a repository where repository maps to the set of rows or all the rows in a specific table.
 >
@@ -2159,20 +2139,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), business (4), [[Search]] (2), [[Spring Data]] (2), data (1)
+> **Frameworks & Libraries:** [[Spring Data]] (2), [[Zoom]] (1)
 > **CLI Commands:** make (2), docker (1)
 > **Definitions:** is a  (3)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Developing business logic functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/developing-business-logic-functions?u=76281980)
+#### [Developing business logic functions](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/developing-business-logic-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/developing-business-logic-functions?u=76281980&t=0)** - [Instructor] I'm back in VS Code now, and the first thing I will do is open pom.xml.
 >
-> **[0:04](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/developing-business-logic-functions?u=76281980&t=4)** And we need to add the dependency for Spring Boot Data JPA, which I've done right now.
+> **[0:04](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/developing-business-logic-functions?u=76281980&t=4)** And we need to add the dependency for [[Spring Boot]] Data JPA, which I've done right now.
 >
 > **[0:11](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/developing-business-logic-functions?u=76281980&t=11)** And I will make sure that all the code compiles correctly.
 >
@@ -2186,7 +2165,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/developing-business-logic-functions?u=76281980&t=38)** And we'll work with the two at the moment.
 >
-> **[0:41](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/developing-business-logic-functions?u=76281980&t=41)** So I will create a new file called Book.java, and this is where we are going to map to entity books.
+> **[0:41](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/developing-business-logic-functions?u=76281980&t=41)** So I will create a new file called Book.[[Java]], and this is where we are going to map to entity books.
 >
 > **[0:51](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/developing-business-logic-functions?u=76281980&t=51)** And I'm going to call it entity, so it added the import automatically.
 >
@@ -2202,7 +2181,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/developing-business-logic-functions?u=76281980&t=79)** And the GenerationType is IDENTITY.
 >
-> **[1:22](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/developing-business-logic-functions?u=76281980&t=82)** And we are going to import the java.sql Date.
+> **[1:22](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/developing-business-logic-functions?u=76281980&t=82)** And we are going to import the java.[[SQL]] Date.
 >
 > **[1:26](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/developing-business-logic-functions?u=76281980&t=86)** And we also have the searchVector, which maps to the column search_vector.
 >
@@ -2212,7 +2191,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/developing-business-logic-functions?u=76281980&t=95)** We have already looked into the specific videos in the past, where we have gone through the details of each one of those.
 >
-> **[1:41](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/developing-business-logic-functions?u=76281980&t=101)** Now that we have all the getters, I'm going to leverage GitHub Copilot to help us write all the getter methods.
+> **[1:41](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/developing-business-logic-functions?u=76281980&t=101)** Now that we have all the getters, I'm going to leverage [[GitHub Copilot]] to help us write all the getter methods.
 >
 > **[1:50](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/developing-business-logic-functions?u=76281980&t=110)** So I'm going to do Cmd + I as a shortcut, and I will write, create getter methods for all fields.
 >
@@ -2256,7 +2235,7 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/developing-business-logic-functions?u=76281980&t=260)** Then there is a nativeQuery.
 >
-> **[4:22](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/developing-business-logic-functions?u=76281980&t=262)** This is a nativeQuery because we are going to translate this into Postgres raw query and that is what is going to execute when being called.
+> **[4:22](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/developing-business-logic-functions?u=76281980&t=262)** This is a nativeQuery because we are going to translate this into [[PostgreSQL|Postgres]] raw query and that is what is going to execute when being called.
 >
 > **[4:32](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/developing-business-logic-functions?u=76281980&t=272)** So, so far so good.
 >
@@ -2270,7 +2249,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (5), [[Java]] (4), [[GitHub Copilot]] (3), next (2), [[Spring Boot]] (1)
+> **Frameworks & Libraries:** [[Java]] (4), [[GitHub Copilot]] (3), [[Spring Boot]] (1), [[SQL]] (1), [[PostgreSQL|Postgres]] (1)
 > **Code Identifiers:** searchvector (2), tostring (2), searchbooks (2), searchterm (2), nativequery (2)
 > **Tools:** github (3), vs code (1), terminal (1)
 > **File Paths:** pom.xml (1), book.java (1), java.sql (1), bookrepository.java (1)
@@ -2279,8 +2258,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 
-#### Writing unit tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/writing-unit-tests?u=76281980)
+#### [Writing unit tests](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/writing-unit-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2298,7 +2276,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/writing-unit-tests?u=76281980&t=43)** We don't need to write the test for the entity because it'll be mostly mocking.
 >
-> **[0:47](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/writing-unit-tests?u=76281980&t=47)** So I want to write the real test that connects with the database, and the book repository is the first place we can do that because we have a meaningful business logic for searchBooks that executes a valid SQL query given a search term.
+> **[0:47](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/writing-unit-tests?u=76281980&t=47)** So I want to write the real test that connects with the database, and the book repository is the first place we can do that because we have a meaningful business logic for searchBooks that executes a valid [[SQL]] query given a search term.
 >
 > **[1:02](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/writing-unit-tests?u=76281980&t=62)** So in order to do that, I'm going to do a right-click and then says Go to Test.
 >
@@ -2308,7 +2286,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/writing-unit-tests?u=76281980&t=76)** I click here and then it matches the same structure that we have here, which is com.h2.repository.
 >
-> **[1:24](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/writing-unit-tests?u=76281980&t=84)** And then it says BookRepositoryTest, but it is not going to add it in the same src main java, instead it'll put it under src test java.
+> **[1:24](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/writing-unit-tests?u=76281980&t=84)** And then it says BookRepositoryTest, but it is not going to add it in the same src main [[Java]], instead it'll put it under src test java.
 >
 > **[1:33](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/writing-unit-tests?u=76281980&t=93)** So you will see in just a moment as I hit Enter.
 >
@@ -2318,9 +2296,9 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/writing-unit-tests?u=76281980&t=107)** So on the left, as you can see, this came in test directory, java com h2 repository, BookRepositoryTest.
 >
-> **[1:56](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/writing-unit-tests?u=76281980&t=116)** So now that we have the book repository test, we need to ensure that this function is going to connect with the database and will validate that it is able to fetch the books from the collection based on the query.
+> **[1:56](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/writing-unit-tests?u=76281980&t=116)** So now that we have the book repository test, we need to ensure that this function is going to connect with the database and will validate that it is able to [[Fetch]] the books from the collection based on the query.
 >
-> **[2:10](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/writing-unit-tests?u=76281980&t=130)** Since we are testing it at the spring data layer, the first annotation I need is DataJpaTest.
+> **[2:10](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/writing-unit-tests?u=76281980&t=130)** Since we are testing it at the [[Spring Data]] layer, the first annotation I need is DataJpaTest.
 >
 > **[2:17](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/writing-unit-tests?u=76281980&t=137)** I will hit the Tab, and the import automatically is added.
 >
@@ -2328,7 +2306,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/writing-unit-tests?u=76281980&t=147)** Auto-wire the bean for the BookRepository.
 >
-> **[2:33](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/writing-unit-tests?u=76281980&t=153)** Copilot is giving the solution.
+> **[2:33](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/writing-unit-tests?u=76281980&t=153)** [[Microsoft Copilot|Copilot]] is giving the solution.
 >
 > **[2:34](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/writing-unit-tests?u=76281980&t=154)** I'll hit Tab, and I will accept it.
 >
@@ -2342,7 +2320,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/writing-unit-tests?u=76281980&t=180)** So we are taking the util.List and the book is coming from the entity.
 >
-> **[3:05](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/writing-unit-tests?u=76281980&t=185)** So I'm going to change the query term to algorithms because this is what we have been using so far.
+> **[3:05](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/writing-unit-tests?u=76281980&t=185)** So I'm going to change the query term to [[Algorithms]] because this is what we have been using so far.
 >
 > **[3:12](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/writing-unit-tests?u=76281980&t=192)** And then how do we ensure that we do get the test?
 >
@@ -2368,7 +2346,7 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/writing-unit-tests?u=76281980&t=273)** The first one is the datasource.url, which means where our database is, along with the user ID and password and which driver we are using.
 >
-> **[4:41](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/writing-unit-tests?u=76281980&t=281)** So we are using Postgres driver.
+> **[4:41](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/writing-unit-tests?u=76281980&t=281)** So we are using [[PostgreSQL|Postgres]] driver.
 >
 > **[4:43](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/writing-unit-tests?u=76281980&t=283)** Now for JPA, what we are saying is that, when we are using the SQL dialect, we are using the Postgres SQL dialect, we are telling Hibernate to not run any DDL scripts, which means do not create any table because we've already done so.
 >
@@ -2404,7 +2382,7 @@ created: 2026-05-02
 >
 > **[6:30](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/writing-unit-tests?u=76281980&t=390)** And within few moments, yes it did work.
 >
-> **[6:32](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/writing-unit-tests?u=76281980&t=392)** So we had one test that is running, and as you can see we've got all the books that have word algorithms in it, and there are a lot of them.
+> **[6:32](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/writing-unit-tests?u=76281980&t=392)** So we had one test that is running, and as you can see we've got all the books that have [[Microsoft Word|word]] algorithms in it, and there are a lot of them.
 >
 > **[6:44](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/writing-unit-tests?u=76281980&t=404)** More than I can count.
 >
@@ -2426,7 +2404,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (11), [[SQL]] (5), [[Java]] (4), hit (4), application (4)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Java]] (4), [[Algorithms]] (3), [[Spring Data]] (2), [[PostgreSQL|Postgres]] (2)
 > **Env Vars:** sql (5), jpa (1), ddl (1), none (1), select (1)
 > **CLI Commands:** make (4), mvn (1)
 > **Code Identifiers:** searchbooks (3), asserttrue (1)
@@ -2440,8 +2418,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Developing the service layer
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/developing-the-service-layer?u=76281980)
+#### [Developing the service layer](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/developing-the-service-layer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2455,7 +2432,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/developing-the-service-layer?u=76281980&t=36)** First, it abstracts away what the persistence mechanism are we using.
 >
-> **[0:41](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/developing-the-service-layer?u=76281980&t=41)** So today, you might be using relational database, but tomorrow you might be going on NoSQL database such as MongoDB.
+> **[0:41](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/developing-the-service-layer?u=76281980&t=41)** So today, you might be using relational database, but tomorrow you might be going on [[NoSQL]] database such as [[MongoDB]].
 >
 > **[0:47](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/developing-the-service-layer?u=76281980&t=47)** The other benefit it provides, it gives you an opportunity so that the details of your database objects either one specific record, or if you want to merge the information from two different tables.
 >
@@ -2473,7 +2450,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/developing-the-service-layer?u=76281980&t=106)** I am back into the code base right now, and we already have the entity in the repository layer.
 >
-> **[1:52](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/developing-the-service-layer?u=76281980&t=112)** So, I'm going to create a new folder called Service, and I'm going to create a new file here called BookService.Java.
+> **[1:52](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/developing-the-service-layer?u=76281980&t=112)** So, I'm going to create a new folder called Service, and I'm going to create a new file here called BookService.[[Java]].
 >
 > **[2:05](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/developing-the-service-layer?u=76281980&t=125)** Now, this is a class, and the first thing that we are going to annotate it with, we are going to call it as Service.
 >
@@ -2481,7 +2458,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/developing-the-service-layer?u=76281980&t=135)** So, we'll use the Autowired annotation, and we are going to have the bean wired for book repository.
 >
-> **[2:24](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/developing-the-service-layer?u=76281980&t=144)** And now, you may have seen that I'm using more and more GitHub Copilot to do the code complete so that I can talk more, explain a bit better.
+> **[2:24](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/developing-the-service-layer?u=76281980&t=144)** And now, you may have seen that I'm using more and more [[GitHub Copilot]] to do the code complete so that I can talk more, explain a bit better.
 >
 > **[2:32](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/developing-the-service-layer?u=76281980&t=152)** And the productivity that I'm getting with GitHub Copilot is also accurate.
 >
@@ -2549,7 +2526,7 @@ created: 2026-05-02
 >
 > **[5:45](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/developing-the-service-layer?u=76281980&t=345)** When the search term is valid.
 >
-> **[5:51](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/developing-the-service-layer?u=76281980&t=351)** So, in this case, it took the keyword Spring, and I'm going to change it to algorithms, and I'm going to take this into List of book, books.
+> **[5:51](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/developing-the-service-layer?u=76281980&t=351)** So, in this case, it took the keyword Spring, and I'm going to change it to [[Algorithms]], and I'm going to take this into List of book, books.
 >
 > **[6:04](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/developing-the-service-layer?u=76281980&t=364)** And I need to have the necessary imports here, so I need a Java (indistinct) and I need this entity.
 >
@@ -2591,13 +2568,13 @@ created: 2026-05-02
 >
 > **[7:42](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/developing-the-service-layer?u=76281980&t=462)** So, going back to the example that we started with, we have successfully created the service layer.
 >
-> **[7:47](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/developing-the-service-layer?u=76281980&t=467)** Now, the final thing is we need to create the REST API that interacts with the service layer next.
+> **[7:47](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/developing-the-service-layer?u=76281980&t=467)** Now, the final thing is we need to create the [[Representational State Transfer (REST)|REST]] API that interacts with the service layer next.
 >
 > **[7:52](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/developing-the-service-layer?u=76281980&t=472)** So, let's go ahead and create that in the next video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (9), [[GitHub Copilot]] (6), database (5), api (5), [[Java]] (2)
+> **Frameworks & Libraries:** [[GitHub Copilot]] (6), [[Java]] (2), [[NoSQL]] (1), [[MongoDB]] (1), [[Algorithms]] (1)
 > **Code Identifiers:** searchbooks (4), testsearchbooks (1), searchterm (1), asserttrue (1)
 > **Env Vars:** api (5), mvn (1), rest (1)
 > **Tools:** github (6)
@@ -2606,8 +2583,7 @@ created: 2026-05-02
 > **File Paths:** bookservice.java (1)
 > **Cross-References:** in the next (1)
 
-#### Implementing the book search API
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/implementing-the-book-search-api?u=76281980)
+#### [Implementing the book search API](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/implementing-the-book-search-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2627,7 +2603,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/implementing-the-book-search-api?u=76281980&t=47)** And now I'm going to create a new folder called controller.
 >
-> **[0:52](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/implementing-the-book-search-api?u=76281980&t=52)** And within this, I'm going to create my first file, which is BookController.java.
+> **[0:52](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/implementing-the-book-search-api?u=76281980&t=52)** And within this, I'm going to create my first file, which is BookController.[[Java]].
 >
 > **[0:59](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/implementing-the-book-search-api?u=76281980&t=59)** Now this is a class, and the first thing that I need to mention is that this is a RestController.
 >
@@ -2635,7 +2611,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/implementing-the-book-search-api?u=76281980&t=73)** So this is going to be provided by RequestMapping and using books.
 >
-> **[1:18](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/implementing-the-book-search-api?u=76281980&t=78)** I'm using the suggestion from GitHub Copilot.
+> **[1:18](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/implementing-the-book-search-api?u=76281980&t=78)** I'm using the suggestion from [[GitHub Copilot]].
 >
 > **[1:22](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/implementing-the-book-search-api?u=76281980&t=82)** And first I will do the auto wiring.
 >
@@ -2685,7 +2661,7 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/implementing-the-book-search-api?u=76281980&t=222)** Now that I have it here, or I'm going to write the implementation for this testSearchBooks.
 >
-> **[3:47](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/implementing-the-book-search-api?u=76281980&t=227)** So first is my searchTerm, searchTerm is algorithms.
+> **[3:47](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/implementing-the-book-search-api?u=76281980&t=227)** So first is my searchTerm, searchTerm is [[Algorithms]].
 >
 > **[3:56](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/implementing-the-book-search-api?u=76281980&t=236)** And then what we need to do is we need to call the restTemplate.getForEntity, and I'm going to say, /books/search?searchTerm={searchTerm},
 >
@@ -2739,7 +2715,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (9), api (6), database (2), [[Algorithms]] (2), [[Java]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Java]] (1), [[GitHub Copilot]] (1)
 > **Code Identifiers:** searchterm (9), searchbooks (3), webenvironment (1), testsearchbooks (1), resttemplate (1)
 > **Env Vars:** api (6)
 > **CLI Commands:** make (3)
@@ -2748,8 +2724,7 @@ created: 2026-05-02
 > **File Paths:** bookcontroller.java (1)
 > **Tools:** github (1)
 
-#### Writing integration tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/writing-integration-tests?u=76281980)
+#### [Writing integration tests](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/writing-integration-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2779,7 +2754,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/writing-integration-tests?u=76281980&t=89)** So that is first thing.
 >
-> **[1:31](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/writing-integration-tests?u=76281980&t=91)** The second thing is when we start our application, our application is bundled as a JAR file and then deployed on a server, which means the Spring Boot application needs to have all the information baked into one JAR file so that it can find everything before it starts the server.
+> **[1:31](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/writing-integration-tests?u=76281980&t=91)** The second thing is when we start our application, our application is bundled as a JAR file and then deployed on a server, which means the [[Spring Boot]] application needs to have all the information baked into one JAR file so that it can find everything before it starts the server.
 >
 > **[1:49](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/writing-integration-tests?u=76281980&t=109)** For that, there is one final piece that we need to do, is we need to add the plugin for Spring Boot.
 >
@@ -2813,13 +2788,13 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/writing-integration-tests?u=76281980&t=184)** Now let's go back and add the search.
 >
-> **[3:07](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/writing-integration-tests?u=76281980&t=187)** So under the books, we need search term and the search term is algorithms here, exactly how we wrote it in the test.
+> **[3:07](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/writing-integration-tests?u=76281980&t=187)** So under the books, we need search term and the search term is [[Algorithms]] here, exactly how we wrote it in the test.
 >
 > **[3:16](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/writing-integration-tests?u=76281980&t=196)** So let me hit Enter.
 >
 > **[3:19](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/writing-integration-tests?u=76281980&t=199)** And see, we have a lot of information available here.
 >
-> **[3:22](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/writing-integration-tests?u=76281980&t=202)** I will click on Pretty-print so that we can see the JSON-based data here for each and every book.
+> **[3:22](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/writing-integration-tests?u=76281980&t=202)** I will click on Pretty-print so that we can see the [[JSON]]-based data here for each and every book.
 >
 > **[3:28](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/writing-integration-tests?u=76281980&t=208)** And as you can imagine, there are a lot of books here.
 >
@@ -2837,7 +2812,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), data (3), [[Spring Boot]] (3), [[Search]] (3), hit (2)
+> **Frameworks & Libraries:** [[Spring Boot]] (3), [[Algorithms]] (1), [[JSON]] (1)
 > **CLI Commands:** find (4), mvn (2), make (1)
 > **Env Vars:** jar (2), api (2), json (1), url (1)
 > **Ports:** port 8080 (1), :8080 (1)
@@ -2851,8 +2826,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Conclusion
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/conclusion?u=76281980)
+#### [Conclusion](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/conclusion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2866,13 +2840,13 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/conclusion?u=76281980&t=21)** We wrote the business logic and APIs and along each step, we ensured that each line of code that we are writing is correct by writing automated test.
 >
-> **[0:29](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/conclusion?u=76281980&t=29)** I hope that you got the value of the time that you spent on this course and if you found this course useful, feel free to share it on LinkedIn with your extended network and let them know that they will find this course useful as well.
+> **[0:29](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/conclusion?u=76281980&t=29)** I hope that you got the value of the time that you spent on this course and if you found this course useful, feel free to share it on [[LinkedIn]] with your extended network and let them know that they will find this course useful as well.
 >
 > **[0:41](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/conclusion?u=76281980&t=41)** Again, thank you very much for your time and I will see you in the future in some other course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), [[Search]] (1), business (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** docker (2), find (1)
 > **Env Vars:** csv (1)
 > **Speakers:** - [instructor] (1)

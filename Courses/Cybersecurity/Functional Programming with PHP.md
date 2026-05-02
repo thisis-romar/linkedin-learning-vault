@@ -98,22 +98,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### A functional approach to transform code
-> [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/a-functional-approach-to-transform-code?u=76281980)
+#### [A functional approach to transform code](https://www.linkedin.com/learning/functional-programming-with-php/a-functional-approach-to-transform-code?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/functional-programming-with-php/a-functional-approach-to-transform-code?u=76281980&t=0)** - [Shaun] Over the past few years, functional programming has become more and more popular, and it's not hard to see why.
+> **[0:00](https://www.linkedin.com/learning/functional-programming-with-php/a-functional-approach-to-transform-code?u=76281980&t=0)** - [Shaun] Over the past few years, [[Functional Programming]] has become more and more popular, and it's not hard to see why.
 >
 > **[0:06](https://www.linkedin.com/learning/functional-programming-with-php/a-functional-approach-to-transform-code?u=76281980&t=6)** When compared to more outdated paradigms such as object-oriented or procedural programming, functional programming provides developers with the ability to minimize the potential for bugs in their code while maximizing it's readability and re-usability.
 >
-> **[0:20](https://www.linkedin.com/learning/functional-programming-with-php/a-functional-approach-to-transform-code?u=76281980&t=20)** Functional programming has been championed by languages like Lisp and Haskell, but nearly all of its core concepts are hiding in plain sight right within standard PHP.
+> **[0:20](https://www.linkedin.com/learning/functional-programming-with-php/a-functional-approach-to-transform-code?u=76281980&t=20)** Functional programming has been championed by languages like Lisp and Haskell, but nearly all of its core concepts are hiding in plain sight right within standard [[PHP]].
 >
 > **[0:30](https://www.linkedin.com/learning/functional-programming-with-php/a-functional-approach-to-transform-code?u=76281980&t=30)** If you're looking for a straightforward, reliable way to make your applications more maintainable and scalable, learning functional programming might just be the single most important step you can take.
 >
 > **[0:41](https://www.linkedin.com/learning/functional-programming-with-php/a-functional-approach-to-transform-code?u=76281980&t=41)** In this course, I'll show you how to make the jump into functional programming.
 >
-> **[0:44](https://www.linkedin.com/learning/functional-programming-with-php/a-functional-approach-to-transform-code?u=76281980&t=44)** We'll start off with the basic concepts of functional programming and how it compares to object-oriented programming, and then move on to first-class functions and how to work with them in PHP.
+> **[0:44](https://www.linkedin.com/learning/functional-programming-with-php/a-functional-approach-to-transform-code?u=76281980&t=44)** We'll start off with the basic concepts of functional programming and how it compares to [[Object-Oriented Programming (OOP)|object-oriented programming]], and then move on to first-class functions and how to work with them in PHP.
 >
 > **[0:54](https://www.linkedin.com/learning/functional-programming-with-php/a-functional-approach-to-transform-code?u=76281980&t=54)** We'll then move on to see how functional programming makes working with arrays with very straightforward in PHP followed by some more advanced concepts such as recursion and partial application, and finally, we'll close out with a few interesting challenges that will help you improve your functional knowledge even further.
 >
@@ -121,24 +120,23 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/functional-programming-with-php/a-functional-approach-to-transform-code?u=76281980&t=74)** I've spent much of my professional life exploring functional programming and figuring out how to incorporate it more effectively into production code basis, and I'm really excited to share some of the things I've learned with you.
 >
-> **[1:25](https://www.linkedin.com/learning/functional-programming-with-php/a-functional-approach-to-transform-code?u=76281980&t=85)** Join me in my LinkedIn Learning course to learn functional programming with PHP and see how to take your code to a whole new level.
+> **[1:25](https://www.linkedin.com/learning/functional-programming-with-php/a-functional-approach-to-transform-code?u=76281980&t=85)** Join me in my [[LinkedIn]] Learning course to learn functional programming with PHP and see how to take your code to a whole new level.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Functional Programming]] (9), [[PHP]] (4), [[Programming]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), application (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (9), [[PHP]] (4), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** php (4), make (2)
 > **Env Vars:** php (4)
 > **Analogies:** such as (2)
 > **Speakers:** - [shaun] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/functional-programming-with-php/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/functional-programming-with-php/what-you-should-know?u=76281980&t=0)** - [Instructor] To get the most out of this course, there are a few things that would be helpful for you to know.
 >
-> **[0:05](https://www.linkedin.com/learning/functional-programming-with-php/what-you-should-know?u=76281980&t=5)** The first is a basic knowledge of PHP, and ideally PHP Seven.
+> **[0:05](https://www.linkedin.com/learning/functional-programming-with-php/what-you-should-know?u=76281980&t=5)** The first is a basic knowledge of [[PHP]], and ideally PHP Seven.
 >
 > **[0:10](https://www.linkedin.com/learning/functional-programming-with-php/what-you-should-know?u=76281980&t=10)** If you're not already comfortable with PHP syntax, it's not too hard to learn.
 >
@@ -148,11 +146,11 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/functional-programming-with-php/what-you-should-know?u=76281980&t=25)** All we'll be using for this course is basic commands like cd to change directories and ls to see the contents of a directory.
 >
-> **[0:32](https://www.linkedin.com/learning/functional-programming-with-php/what-you-should-know?u=76281980&t=32)** Keep in mind, also, that if you're on Windows, the commands might be a little different.
+> **[0:32](https://www.linkedin.com/learning/functional-programming-with-php/what-you-should-know?u=76281980&t=32)** Keep in mind, also, that if you're on [[Windows]], the commands might be a little different.
 >
-> **[0:36](https://www.linkedin.com/learning/functional-programming-with-php/what-you-should-know?u=76281980&t=36)** If you need to, follow the link I provided for an article that shows many of the basic Linux commands and their Windows equivalence.
+> **[0:36](https://www.linkedin.com/learning/functional-programming-with-php/what-you-should-know?u=76281980&t=36)** If you need to, follow the link I provided for an article that shows many of the basic [[Linux]] commands and their Windows equivalence.
 >
-> **[0:43](https://www.linkedin.com/learning/functional-programming-with-php/what-you-should-know?u=76281980&t=43)** Finally, since I'll be using it as a reference point throughout the course, a basic knowledge of object-oriented programming concepts would be helpful to have.
+> **[0:43](https://www.linkedin.com/learning/functional-programming-with-php/what-you-should-know?u=76281980&t=43)** Finally, since I'll be using it as a reference point throughout the course, a basic knowledge of [[Object-Oriented Programming (OOP)|object-oriented programming]] concepts would be helpful to have.
 >
 > **[0:51](https://www.linkedin.com/learning/functional-programming-with-php/what-you-should-know?u=76281980&t=51)** Even if you're not familiar with object-oriented programming, it's not a big deal.
 >
@@ -164,7 +162,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (4), [[Windows]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), cd (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[PHP]] (4), [[Windows]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), [[Linux]] (1)
 > **CLI Commands:** php (4), cd (1), ls (1)
 > **Env Vars:** php (4)
 > **Tools:** command line (1)
@@ -173,14 +171,13 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Installing and running PHP
-> [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/installing-and-running-php?u=76281980)
+#### [Installing and running PHP](https://www.linkedin.com/learning/functional-programming-with-php/installing-and-running-php?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/functional-programming-with-php/installing-and-running-php?u=76281980&t=0)** - [Instructor] We're going to start off by installing all of the major tools necessary for this course.
 >
-> **[0:04](https://www.linkedin.com/learning/functional-programming-with-php/installing-and-running-php?u=76281980&t=4)** Having an up-to-date version of PHP will be really important for running our code.
+> **[0:04](https://www.linkedin.com/learning/functional-programming-with-php/installing-and-running-php?u=76281980&t=4)** Having an up-to-date version of [[PHP]] will be really important for running our code.
 >
 > **[0:08](https://www.linkedin.com/learning/functional-programming-with-php/installing-and-running-php?u=76281980&t=8)** So if you don't already have an up-to-date version of PHP and by up-to-date I mean at least 7.4, I'll show you how to do so in this video.
 >
@@ -224,13 +221,13 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/functional-programming-with-php/installing-and-running-php?u=76281980&t=173)** Keep in mind that all the steps I just detailed here are for a Mac.
 >
-> **[2:56](https://www.linkedin.com/learning/functional-programming-with-php/installing-and-running-php?u=76281980&t=176)** If you're using Windows or a Unix distribution such as Ubuntu, the steps might be a little different.
+> **[2:56](https://www.linkedin.com/learning/functional-programming-with-php/installing-and-running-php?u=76281980&t=176)** If you're using [[Windows]] or a Unix distribution such as [[Ubuntu]], the steps might be a little different.
 >
 > **[3:01](https://www.linkedin.com/learning/functional-programming-with-php/installing-and-running-php?u=76281980&t=181)** But PHP's website has instructions for all of these as well.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (18), hit (2), [[Search]] (1), [[Windows]] (1), [[Ubuntu]] (1)
+> **Frameworks & Libraries:** [[PHP]] (18), [[Windows]] (1), [[Ubuntu]] (1)
 > **CLI Commands:** php (18), brew (4), make (2), apache (1), find (1)
 > **Env Vars:** php (13)
 > **Tools:** terminal (3), bash (3), vim (3), command line (1)
@@ -244,18 +241,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why use functional programming?
-> [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/why-use-functional-programming?u=76281980)
+#### [Why use functional programming?](https://www.linkedin.com/learning/functional-programming-with-php/why-use-functional-programming?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/functional-programming-with-php/why-use-functional-programming?u=76281980&t=0)** - [Instructor] So the first thing you may be wondering is what is functional programming anyway?
+> **[0:00](https://www.linkedin.com/learning/functional-programming-with-php/why-use-functional-programming?u=76281980&t=0)** - [Instructor] So the first thing you may be wondering is what is [[Functional Programming]] anyway?
 >
 > **[0:05](https://www.linkedin.com/learning/functional-programming-with-php/why-use-functional-programming?u=76281980&t=5)** This is a big question most people ask when they hear about how useful functional programming is and the best way I've found to answer this question is to consider why we'd want to use functional programming in the first place.
 >
 > **[0:16](https://www.linkedin.com/learning/functional-programming-with-php/why-use-functional-programming?u=76281980&t=16)** In other words, what are the problems that functional programming sets out to solve?
 >
-> **[0:21](https://www.linkedin.com/learning/functional-programming-with-php/why-use-functional-programming?u=76281980&t=21)** Well, if you're watching a course about functional programming PHP, I'm going to assume that you currently use primarily PHP, but the code you write follows an object oriented paradigm.
+> **[0:21](https://www.linkedin.com/learning/functional-programming-with-php/why-use-functional-programming?u=76281980&t=21)** Well, if you're watching a course about functional programming [[PHP]], I'm going to assume that you currently use primarily PHP, but the code you write follows an object oriented paradigm.
 >
 > **[0:31](https://www.linkedin.com/learning/functional-programming-with-php/why-use-functional-programming?u=76281980&t=31)** And because of this, I'm going to make a further assumption.
 >
@@ -295,25 +291,24 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/functional-programming-with-php/why-use-functional-programming?u=76281980&t=213)** Where could a bug possibly be hiding in a function like this?
 >
-> **[3:36](https://www.linkedin.com/learning/functional-programming-with-php/why-use-functional-programming?u=76281980&t=216)** Now that's just a very basic example, we'll look further into the details of functional programming along with the many differences between it and object oriented programming throughout the rest of the course.
+> **[3:36](https://www.linkedin.com/learning/functional-programming-with-php/why-use-functional-programming?u=76281980&t=216)** Now that's just a very basic example, we'll look further into the details of functional programming along with the many differences between it and object oriented programming throughout the [[Representational State Transfer (REST)|rest]] of the course.
 >
 > **[3:48](https://www.linkedin.com/learning/functional-programming-with-php/why-use-functional-programming?u=76281980&t=228)** And again, since many of you are probably most familiar with object oriented programming, I'll continue to use it in a lot of comparisons with functional programming to clarify the concepts I'll show you.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Functional Programming]] (11), [[Programming]] (8), [[PHP]] (2), next (1), application (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (11), [[PHP]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3), php (2)
 > **Env Vars:** php (2), suv (1)
 > **Definitions:** is a  (2), in other words (1)
 > **Analogies:** such as (2), imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is declarative programming?
-> [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/what-is-declarative-programming?u=76281980)
+#### [What is declarative programming?](https://www.linkedin.com/learning/functional-programming-with-php/what-is-declarative-programming?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/functional-programming-with-php/what-is-declarative-programming?u=76281980&t=0)** - [Instructor] Now that we're a little more familiar with the main problems that functional programming can help us solve, the next thing you'll want to understand about functional programming is that it's a declarative style of programming.
+> **[0:00](https://www.linkedin.com/learning/functional-programming-with-php/what-is-declarative-programming?u=76281980&t=0)** - [Instructor] Now that we're a little more familiar with the main problems that [[Functional Programming]] can help us solve, the next thing you'll want to understand about functional programming is that it's a declarative style of programming.
 >
 > **[0:10](https://www.linkedin.com/learning/functional-programming-with-php/what-is-declarative-programming?u=76281980&t=10)** This is in contrast to things like object oriented programming and procedural programming, which are imperative styles of programming.
 >
@@ -343,7 +338,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/functional-programming-with-php/what-is-declarative-programming?u=76281980&t=82)** First we set x equal to zero, then we add the first number in the array to x.
 >
-> **[1:28](https://www.linkedin.com/learning/functional-programming-with-php/what-is-declarative-programming?u=76281980&t=88)** Then we repeat step two for the rest of the numbers in the array, and finally, we divide x by the length of the array.
+> **[1:28](https://www.linkedin.com/learning/functional-programming-with-php/what-is-declarative-programming?u=76281980&t=88)** Then we repeat step two for the [[Representational State Transfer (REST)|rest]] of the numbers in the array, and finally, we divide x by the length of the array.
 >
 > **[1:35](https://www.linkedin.com/learning/functional-programming-with-php/what-is-declarative-programming?u=76281980&t=95)** And unless you've worked with functional programming before, this is probably how you're used to writing programs, thinking of how to get the result.
 >
@@ -367,18 +362,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (9), [[Functional Programming]] (7), next (2), [[Representational State Transfer (REST)|Rest]] (1), data (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (7), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Immutability in functional programming
-> [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/immutability-in-functional-programming?u=76281980)
+#### [Immutability in functional programming](https://www.linkedin.com/learning/functional-programming-with-php/immutability-in-functional-programming?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/functional-programming-with-php/immutability-in-functional-programming?u=76281980&t=0)** - [Instructor] The first major concept of functional programming is immutability.
+> **[0:00](https://www.linkedin.com/learning/functional-programming-with-php/immutability-in-functional-programming?u=76281980&t=0)** - [Instructor] The first major concept of [[Functional Programming]] is immutability.
 >
 > **[0:03](https://www.linkedin.com/learning/functional-programming-with-php/immutability-in-functional-programming?u=76281980&t=3)** And it's a concept that may surprise a lot of people at first.
 >
@@ -392,11 +386,11 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/functional-programming-with-php/immutability-in-functional-programming?u=76281980&t=24)** However, in Functional Programming, this is not allowed.
 >
-> **[0:27](https://www.linkedin.com/learning/functional-programming-with-php/immutability-in-functional-programming?u=76281980&t=27)** When we say that x is equal to five, we mean that for the rest of the program, x will only ever be five, there's no way we can change it.
+> **[0:27](https://www.linkedin.com/learning/functional-programming-with-php/immutability-in-functional-programming?u=76281980&t=27)** When we say that x is equal to five, we mean that for the [[Representational State Transfer (REST)|rest]] of the program, x will only ever be five, there's no way we can change it.
 >
 > **[0:35](https://www.linkedin.com/learning/functional-programming-with-php/immutability-in-functional-programming?u=76281980&t=35)** In short, immutability means that we need to treat most of the values in a program is constants.
 >
-> **[0:41](https://www.linkedin.com/learning/functional-programming-with-php/immutability-in-functional-programming?u=76281980&t=41)** In PHP 7, we have two main ways of defining constants.
+> **[0:41](https://www.linkedin.com/learning/functional-programming-with-php/immutability-in-functional-programming?u=76281980&t=41)** In [[PHP]] 7, we have two main ways of defining constants.
 >
 > **[0:45](https://www.linkedin.com/learning/functional-programming-with-php/immutability-in-functional-programming?u=76281980&t=45)** The first way is with the const keyword, which defines constants at compile time.
 >
@@ -486,7 +480,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Functional Programming]] (9), data (7), [[PHP]] (3), [[Programming]] (3), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (9), [[PHP]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** php (3), find (2), make (2)
 > **Definitions:** is a  (4), means that (1), we call this (1)
 > **Env Vars:** php (3)
@@ -495,14 +489,13 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Separation of data and functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/separation-of-data-and-functions?u=76281980)
+#### [Separation of data and functions](https://www.linkedin.com/learning/functional-programming-with-php/separation-of-data-and-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/functional-programming-with-php/separation-of-data-and-functions?u=76281980&t=0)** - [Instructor] The second main concept of functional programming is the separation of data and functions.
+> **[0:00](https://www.linkedin.com/learning/functional-programming-with-php/separation-of-data-and-functions?u=76281980&t=0)** - [Instructor] The second main concept of [[Functional Programming]] is the separation of data and functions.
 >
-> **[0:05](https://www.linkedin.com/learning/functional-programming-with-php/separation-of-data-and-functions?u=76281980&t=5)** This is a case where functional programming is directly in contrast with object-oriented programming, where data and functions are almost always grouped together.
+> **[0:05](https://www.linkedin.com/learning/functional-programming-with-php/separation-of-data-and-functions?u=76281980&t=5)** This is a case where functional programming is directly in contrast with [[Object-Oriented Programming (OOP)|object-oriented programming]], where data and functions are almost always grouped together.
 >
 > **[0:13](https://www.linkedin.com/learning/functional-programming-with-php/separation-of-data-and-functions?u=76281980&t=13)** So, let's see what the separation of data and functions looks like.
 >
@@ -550,7 +543,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/functional-programming-with-php/separation-of-data-and-functions?u=76281980&t=172)** Now, if we allow programmers to change these properties directly, they have to remember to reset initials every time they change either first name or last name, which they're almost certain to forget somewhere, and this introduces bugs into the program.
 >
-> **[3:06](https://www.linkedin.com/learning/functional-programming-with-php/separation-of-data-and-functions?u=76281980&t=186)** The solution to this is to make the variables private or protected, which in PHP is done by using the private or protected keywords and allowing programmers to access the variables only through accessor or mutator functions, perhaps better known as getters and setters, which makes sure that the modification of our variables is taken care of properly.
+> **[3:06](https://www.linkedin.com/learning/functional-programming-with-php/separation-of-data-and-functions?u=76281980&t=186)** The solution to this is to make the variables private or protected, which in [[PHP]] is done by using the private or protected keywords and allowing programmers to access the variables only through accessor or mutator functions, perhaps better known as getters and setters, which makes sure that the modification of our variables is taken care of properly.
 >
 > **[3:25](https://www.linkedin.com/learning/functional-programming-with-php/separation-of-data-and-functions?u=76281980&t=205)** In functional programming however, we don't need to worry about making all our data private because programmers can't alter the data in unwanted ways.
 >
@@ -560,7 +553,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/functional-programming-with-php/separation-of-data-and-functions?u=76281980&t=228)** We then use this updated constant in all our future calculations knowing exactly what data it represents.
 >
-> **[3:55](https://www.linkedin.com/learning/functional-programming-with-php/separation-of-data-and-functions?u=76281980&t=235)** And throughout this course, I'm going to be using the word constant to refer to what are, in fact, variables, simply because in the functional mindset, all variables should be treated as constants.
+> **[3:55](https://www.linkedin.com/learning/functional-programming-with-php/separation-of-data-and-functions?u=76281980&t=235)** And throughout this course, I'm going to be using the [[Microsoft Word|word]] constant to refer to what are, in fact, variables, simply because in the functional mindset, all variables should be treated as constants.
 >
 > **[4:05](https://www.linkedin.com/learning/functional-programming-with-php/separation-of-data-and-functions?u=76281980&t=245)** So, that's just something to keep in mind.
 >
@@ -584,7 +577,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (31), [[Functional Programming]] (10), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (7), game (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (10), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (7), [[PHP]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (3), make (3), php (1)
 > **Analogies:** such as (4), for example (1), imagine (1)
 > **Code Identifiers:** first_name (1), last_name (1), change_name (1), mark_as_done (1)
@@ -593,12 +586,11 @@ created: 2026-05-02
 > **Env Vars:** php (1)
 > **Best Practices:** remember to (1)
 
-#### First-class functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/first-class-functions?u=76281980)
+#### [First-class functions](https://www.linkedin.com/learning/functional-programming-with-php/first-class-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/functional-programming-with-php/first-class-functions?u=76281980&t=0)** - [Instructor] The third major concept of functional programming is something called first-class functions.
+> **[0:00](https://www.linkedin.com/learning/functional-programming-with-php/first-class-functions?u=76281980&t=0)** - [Instructor] The third major concept of [[Functional Programming]] is something called first-class functions.
 >
 > **[0:05](https://www.linkedin.com/learning/functional-programming-with-php/first-class-functions?u=76281980&t=5)** This is where things really start to get interesting and where the power and flexibility of functional programming really start to shine through.
 >
@@ -640,7 +632,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/functional-programming-with-php/first-class-functions?u=76281980&t=126)** Now you might be wondering why we'd want to do stuff like this, what could we possibly gain from doing weird things like having arrays of functions, or passing functions as arguments?
 >
-> **[2:15](https://www.linkedin.com/learning/functional-programming-with-php/first-class-functions?u=76281980&t=135)** Well in fact, this simple change in mindset towards functions opens up a world of possibilities in terms of software design.
+> **[2:15](https://www.linkedin.com/learning/functional-programming-with-php/first-class-functions?u=76281980&t=135)** Well in fact, this simple change in mindset towards functions opens up a world of possibilities in terms of [[Software Design]].
 >
 > **[2:22](https://www.linkedin.com/learning/functional-programming-with-php/first-class-functions?u=76281980&t=142)** It gives us a lot of flexibility and greatly increases our opportunities for code reuse.
 >
@@ -650,7 +642,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Functional Programming]] (6), data (6), [[Programming]] (2), power (1), [[Software Design]] (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (6), [[Software Design]] (1)
 > **Definitions:** in other words (2), is a  (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** previous video (1), in the next (1)
@@ -662,12 +654,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Functions as data, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/functions-as-data-part-1?u=76281980)
+#### [Functions as data, part 1](https://www.linkedin.com/learning/functional-programming-with-php/functions-as-data-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/functional-programming-with-php/functions-as-data-part-1?u=76281980&t=0)** - [Instructor] I mentioned in a previous video that functional programming treats functions as first class citizens.
+> **[0:00](https://www.linkedin.com/learning/functional-programming-with-php/functions-as-data-part-1?u=76281980&t=0)** - [Instructor] I mentioned in a previous video that [[Functional Programming]] treats functions as first class citizens.
 >
 > **[0:05](https://www.linkedin.com/learning/functional-programming-with-php/functions-as-data-part-1?u=76281980&t=5)** Meaning that we can treat functions in a very similar way to other types, such as strings, numbers, or objects.
 >
@@ -675,7 +666,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/functional-programming-with-php/functions-as-data-part-1?u=76281980&t=17)** First of all, if you're not using the exercise files, now's a good time to create a directory to hold your example code.
 >
-> **[0:23](https://www.linkedin.com/learning/functional-programming-with-php/functions-as-data-part-1?u=76281980&t=23)** Just create an empty directory called functional-php or something like that and open it up in the editor of your choice.
+> **[0:23](https://www.linkedin.com/learning/functional-programming-with-php/functions-as-data-part-1?u=76281980&t=23)** Just create an empty directory called functional-[[PHP]] or something like that and open it up in the editor of your choice.
 >
 > **[0:29](https://www.linkedin.com/learning/functional-programming-with-php/functions-as-data-part-1?u=76281980&t=29)** I'm going to create a new file called functions_as_data.php, and this is where we'll write the code for this video.
 >
@@ -725,7 +716,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/functional-programming-with-php/functions-as-data-part-1?u=76281980&t=215)** So, what we're going to do first is define our network operation function.
 >
-> **[3:40](https://www.linkedin.com/learning/functional-programming-with-php/functions-as-data-part-1?u=76281980&t=220)** In the real world, this function would probably do something like fetch data from an API.
+> **[3:40](https://www.linkedin.com/learning/functional-programming-with-php/functions-as-data-part-1?u=76281980&t=220)** In the real world, this function would probably do something like [[Fetch]] data from an API.
 >
 > **[3:44](https://www.linkedin.com/learning/functional-programming-with-php/functions-as-data-part-1?u=76281980&t=224)** So, we'll call our function fetch_data_real, and then define it with no arguments.
 >
@@ -787,7 +778,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[PHP]] (7), database (4), [[Fetch]] (4), functional (2)
+> **Frameworks & Libraries:** [[PHP]] (7), [[Fetch]] (4), [[Functional Programming]] (1)
 > **Code Identifiers:** my_function (7), fetch_data (6), fetch_data_real (3), fetch_data_fake (3), functions_as_data (2)
 > **CLI Commands:** php (7), make (2)
 > **Analogies:** such as (4), for example (4), just like (1)
@@ -796,14 +787,13 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Tools:** terminal (1)
 
-#### Functions as data, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/functions-as-data-part-2?u=76281980)
+#### [Functions as data, part 2](https://www.linkedin.com/learning/functional-programming-with-php/functions-as-data-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/functional-programming-with-php/functions-as-data-part-2?u=76281980&t=0)** - [Speaker] In this video, we're going to look at another example of an interesting thing that can be done with first class functions.
 >
-> **[0:05](https://www.linkedin.com/learning/functional-programming-with-php/functions-as-data-part-2?u=76281980&t=5)** Just as we can create an array of numbers, an array of strings, or an array of objects because functions in PHP are first class we can also create an array of functions.
+> **[0:05](https://www.linkedin.com/learning/functional-programming-with-php/functions-as-data-part-2?u=76281980&t=5)** Just as we can create an array of numbers, an array of strings, or an array of objects because functions in [[PHP]] are first class we can also create an array of functions.
 >
 > **[0:16](https://www.linkedin.com/learning/functional-programming-with-php/functions-as-data-part-2?u=76281980&t=16)** So why would we want to do something like that?
 >
@@ -827,7 +817,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/functional-programming-with-php/functions-as-data-part-2?u=76281980&t=123)** Now the first thing to notice is that when we put our functions into the array we don't put parentheses after them as you might be used to seeing.
 >
-> **[2:10](https://www.linkedin.com/learning/functional-programming-with-php/functions-as-data-part-2?u=76281980&t=130)** This is something that you'll get used to while mastering functional programming.
+> **[2:10](https://www.linkedin.com/learning/functional-programming-with-php/functions-as-data-part-2?u=76281980&t=130)** This is something that you'll get used to while mastering [[Functional Programming]].
 >
 > **[2:14](https://www.linkedin.com/learning/functional-programming-with-php/functions-as-data-part-2?u=76281980&t=134)** The thing to remember is that when we put parentheses after a function, we're referring to the result of a function instead of the function itself.
 >
@@ -857,14 +847,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (3), functional (2), [[Functional Programming]] (1), data (1)
+> **Frameworks & Libraries:** [[PHP]] (3), [[Functional Programming]] (1)
 > **CLI Commands:** php (3), make (1), find (1)
 > **Env Vars:** php (3)
 > **Analogies:** for example (2)
 > **Speakers:** - [speaker] (1)
 
-#### Passing functions as arguments
-> [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/passing-functions-as-arguments?u=76281980)
+#### [Passing functions as arguments](https://www.linkedin.com/learning/functional-programming-with-php/passing-functions-as-arguments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -942,7 +931,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/functional-programming-with-php/passing-functions-as-arguments?u=76281980&t=215)** Another case might be if we want to make our names uppercase, and append them with a comma in between, with the last name first, and the first name after that.
 >
-> **[3:43](https://www.linkedin.com/learning/functional-programming-with-php/passing-functions-as-arguments?u=76281980&t=223)** This is how names appear on government forms, for example.
+> **[3:43](https://www.linkedin.com/learning/functional-programming-with-php/passing-functions-as-arguments?u=76281980&t=223)** This is how names appear on government [[Forms]], for example.
 >
 > **[3:46](https://www.linkedin.com/learning/functional-programming-with-php/passing-functions-as-arguments?u=76281980&t=226)** So in order to do that, we could define a new function called something like government_form_notation.
 >
@@ -988,7 +977,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **Analogies:** for example (6), such as (1)
 > **Code Identifiers:** combine_names (3), government_form_notation (2), append_with_space (1)
 > **CLI Commands:** make (1), find (1)
@@ -996,8 +985,7 @@ created: 2026-05-02
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Returning functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/returning-functions?u=76281980)
+#### [Returning functions](https://www.linkedin.com/learning/functional-programming-with-php/returning-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1019,7 +1007,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/functional-programming-with-php/returning-functions?u=76281980&t=55)** Or if we're talking about a function called uppercase, we put a string into the box, say hello all in lower cases, and we get the same string out of the box in upper case.
 >
-> **[1:05](https://www.linkedin.com/learning/functional-programming-with-php/returning-functions?u=76281980&t=65)** Now since PHP has first class functions, meaning that it treats functions in the same way as it treats strings and numbers, it's possible in PHP to have a black box that returns another black box.
+> **[1:05](https://www.linkedin.com/learning/functional-programming-with-php/returning-functions?u=76281980&t=65)** Now since [[PHP]] has first class functions, meaning that it treats functions in the same way as it treats strings and numbers, it's possible in PHP to have a black box that returns another black box.
 >
 > **[1:18](https://www.linkedin.com/learning/functional-programming-with-php/returning-functions?u=76281980&t=78)** This other black box then behaves in the same way as a regular function.
 >
@@ -1095,7 +1083,7 @@ created: 2026-05-02
 >
 > **[5:41](https://www.linkedin.com/learning/functional-programming-with-php/returning-functions?u=76281980&t=341)** For triple, we can just pass three to create_multipler, create_multiplier(3) and finally for quadruple we say create_multiplier(4).
 >
-> **[5:56](https://www.linkedin.com/learning/functional-programming-with-php/returning-functions?u=76281980&t=356)** So we can see here that we've increased code reuse a lot, and this is one of the major benefits of functional programming and first-class functions.
+> **[5:56](https://www.linkedin.com/learning/functional-programming-with-php/returning-functions?u=76281980&t=356)** So we can see here that we've increased code reuse a lot, and this is one of the major benefits of [[Functional Programming]] and first-class functions.
 >
 > **[6:04](https://www.linkedin.com/learning/functional-programming-with-php/returning-functions?u=76281980&t=364)** The functions that we replaced here were very small and simple, but the same technique that we used here can be used to replace repeated code even when dealing with larger functions that use much more complex logic.
 >
@@ -1103,7 +1091,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[PHP]] (4), functional (2), next (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[PHP]] (4), [[Functional Programming]] (1)
 > **Code Identifiers:** create_multiplier (6), create_printer (3), my_printer (2), returning_function (1), returning_functions (1)
 > **Analogies:** for example (3), such as (1), similar to (1), think of it as (1)
 > **CLI Commands:** php (4), make (1)
@@ -1112,12 +1100,11 @@ created: 2026-05-02
 > **File Paths:** returning_functions.php (1)
 > **Speakers:** - [instructor] (1)
 
-#### Closure
-> [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/closure?u=76281980)
+#### [Closure](https://www.linkedin.com/learning/functional-programming-with-php/closure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/functional-programming-with-php/closure?u=76281980&t=0)** - [Instructor] In a previous video, we talked about how in PHP it's possible to return functions from other functions, and saw some possible applications of doing this in our code base.
+> **[0:00](https://www.linkedin.com/learning/functional-programming-with-php/closure?u=76281980&t=0)** - [Instructor] In a previous video, we talked about how in [[PHP]] it's possible to return functions from other functions, and saw some possible applications of doing this in our code base.
 >
 > **[0:10](https://www.linkedin.com/learning/functional-programming-with-php/closure?u=76281980&t=10)** Returning functions from other functions leads us to another very important concept in PHP, and this is something called closure.
 >
@@ -1127,7 +1114,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/functional-programming-with-php/closure?u=76281980&t=30)** In other words, the internal scope of the function that returned it.
 >
-> **[0:34](https://www.linkedin.com/learning/functional-programming-with-php/closure?u=76281980&t=34)** Now, in most other commonly used languages that support first class functions, such as JavaScript and Python, this happens automatically.
+> **[0:34](https://www.linkedin.com/learning/functional-programming-with-php/closure?u=76281980&t=34)** Now, in most other commonly used languages that support first class functions, such as [[JavaScript]] and [[Python (Programming Language)|Python]], this happens automatically.
 >
 > **[0:41](https://www.linkedin.com/learning/functional-programming-with-php/closure?u=76281980&t=41)** But in PHP, there's a little bit of extra notation we have to include to make this happen.
 >
@@ -1192,12 +1179,11 @@ created: 2026-05-02
 > **Analogies:** such as (1), just like (1), for example (1)
 > **File Paths:** closure.php (1)
 
-#### Higher-order functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/higher-order-functions?u=76281980)
+#### [Higher-order functions](https://www.linkedin.com/learning/functional-programming-with-php/higher-order-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/functional-programming-with-php/higher-order-functions?u=76281980&t=0)** - [Instructor] We've spent quite a bit of time in previous videos talking about first class functions in PHP, we've seen how PHP treats functions in much the same way as strings, numbers, and arrays, and how this allows us to do things like pass functions as arguments and return functions.
+> **[0:00](https://www.linkedin.com/learning/functional-programming-with-php/higher-order-functions?u=76281980&t=0)** - [Instructor] We've spent quite a bit of time in previous videos talking about first class functions in [[PHP]], we've seen how PHP treats functions in much the same way as strings, numbers, and arrays, and how this allows us to do things like pass functions as arguments and return functions.
 >
 > **[0:15](https://www.linkedin.com/learning/functional-programming-with-php/higher-order-functions?u=76281980&t=15)** Now there's actually a term for functions either take functions as arguments or return functions.
 >
@@ -1263,7 +1249,7 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/functional-programming-with-php/higher-order-functions?u=76281980&t=275)** and then inside this if statement we'll copy and paste what we had above and if the second argument isn't zero, we're going to simply return the function we pass with the args using the splat operator again, and that's basically what our wrapper function will look like, again don't worry if this doesn't quite make sense yet.
 >
-> **[5:00](https://www.linkedin.com/learning/functional-programming-with-php/higher-order-functions?u=76281980&t=300)** It'll sink in throughout the rest of the course.
+> **[5:00](https://www.linkedin.com/learning/functional-programming-with-php/higher-order-functions?u=76281980&t=300)** It'll sink in throughout the [[Representational State Transfer (REST)|rest]] of the course.
 >
 > **[5:03](https://www.linkedin.com/learning/functional-programming-with-php/higher-order-functions?u=76281980&t=303)** So now we've defined the second arg isn't zero function and we've seen how to use it.
 >
@@ -1285,7 +1271,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (6), [[Programming]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[PHP]] (6), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** php (6), make (6)
 > **Env Vars:** php (6)
 > **Definitions:** in other words (1), we call this (1)
@@ -1293,8 +1279,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Arrow functions in PHP
-> [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/arrow-functions-in-php?u=76281980)
+#### [Arrow functions in PHP](https://www.linkedin.com/learning/functional-programming-with-php/arrow-functions-in-php?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1306,7 +1291,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/functional-programming-with-php/arrow-functions-in-php?u=76281980&t=24)** And because of this increase, especially in cases where the body of our functions are only one line, it'd be nice for us to have a more compacted version of defining functions than using the function keyword, the return keyword, and when we need to use closure for some variables, the use keyword.
 >
-> **[0:41](https://www.linkedin.com/learning/functional-programming-with-php/arrow-functions-in-php?u=76281980&t=41)** Well as it happens, PHP does provide us with a different, more compact syntax for defining smaller functions.
+> **[0:41](https://www.linkedin.com/learning/functional-programming-with-php/arrow-functions-in-php?u=76281980&t=41)** Well as it happens, [[PHP]] does provide us with a different, more compact syntax for defining smaller functions.
 >
 > **[0:48](https://www.linkedin.com/learning/functional-programming-with-php/arrow-functions-in-php?u=76281980&t=48)** And this is something called arrow functions, and they're also called short closures.
 >
@@ -1360,7 +1345,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (2), [[Programming]] (1), feature (1)
+> **Frameworks & Libraries:** [[PHP]] (2)
 > **CLI Commands:** php (2), find (1)
 > **Env Vars:** php (2)
 > **Cross-References:** previous video (2)
@@ -1371,12 +1356,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Working with arrays, functionally
-> [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/working-with-arrays-functionally?u=76281980)
+#### [Working with arrays, functionally](https://www.linkedin.com/learning/functional-programming-with-php/working-with-arrays-functionally?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/functional-programming-with-php/working-with-arrays-functionally?u=76281980&t=0)** - [Instructor] So one of the nice things about learning functional programming with PHP is that the central concepts of functional programming, which we looked at in previous videos, have a great deal of native support in the language itself.
+> **[0:00](https://www.linkedin.com/learning/functional-programming-with-php/working-with-arrays-functionally?u=76281980&t=0)** - [Instructor] So one of the nice things about learning [[Functional Programming]] with [[PHP]] is that the central concepts of functional programming, which we looked at in previous videos, have a great deal of native support in the language itself.
 >
 > **[0:12](https://www.linkedin.com/learning/functional-programming-with-php/working-with-arrays-functionally?u=76281980&t=12)** In general, PHP makes it quite easy to apply many of these core functional programming concepts.
 >
@@ -1408,7 +1392,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Functional Programming]] (5), [[PHP]] (5), functional (2), data (2), next (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (5), [[PHP]] (5)
 > **CLI Commands:** php (5), make (2), find (1)
 > **Env Vars:** php (5)
 > **Code Identifiers:** array_map (1), array_filter (1), array_reduce (1)
@@ -1417,16 +1401,15 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### The spread operator and array_merge
-> [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/the-spread-operator-and-array-merge?u=76281980)
+#### [The spread operator and array_merge](https://www.linkedin.com/learning/functional-programming-with-php/the-spread-operator-and-array-merge?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/functional-programming-with-php/the-spread-operator-and-array-merge?u=76281980&t=0)** - [Instructor] PHP 7, and in particular version 7.4, offers many syntax improvements over its predecessors.
+> **[0:00](https://www.linkedin.com/learning/functional-programming-with-php/the-spread-operator-and-array-merge?u=76281980&t=0)** - [Instructor] [[PHP]] 7, and in particular version 7.4, offers many syntax improvements over its predecessors.
 >
 > **[0:07](https://www.linkedin.com/learning/functional-programming-with-php/the-spread-operator-and-array-merge?u=76281980&t=7)** In addition to the arrow function syntax, which we covered in a previous video, PHP 7.4 provides us with a new syntax called the splat operator that's tremendously helpful for dealing with arrays and arguments.
 >
-> **[0:18](https://www.linkedin.com/learning/functional-programming-with-php/the-spread-operator-and-array-merge?u=76281980&t=18)** And that's something we do a lot of when doing functional programming in PHP.
+> **[0:18](https://www.linkedin.com/learning/functional-programming-with-php/the-spread-operator-and-array-merge?u=76281980&t=18)** And that's something we do a lot of when doing [[Functional Programming]] in PHP.
 >
 > **[0:23](https://www.linkedin.com/learning/functional-programming-with-php/the-spread-operator-and-array-merge?u=76281980&t=23)** To see what the splat operator looks like and how it works, let's imagine that we have two arrays, both containing some sort of data, like people's names.
 >
@@ -1560,7 +1543,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (6), data (3), [[Functional Programming]] (1), career (1), functional (1)
+> **Frameworks & Libraries:** [[PHP]] (6), [[Functional Programming]] (1)
 > **Code Identifiers:** person_data (7), career_data (7), array_merge (7), all_names (6), person_with_career_data (2)
 > **Analogies:** for example (4), imagine (1), just like (1), such as (1)
 > **CLI Commands:** php (6)
@@ -1569,14 +1552,13 @@ created: 2026-05-02
 > **Cross-References:** we covered (1), previous video (1), we talked about (1)
 > **Definitions:** is a  (1), is an  (1)
 
-#### Mapping
-> [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/mapping?u=76281980)
+#### [Mapping](https://www.linkedin.com/learning/functional-programming-with-php/mapping?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/functional-programming-with-php/mapping?u=76281980&t=0)** - [Instructor] The next functional operation we're going to be talking about for working with arrays is called mapping.
 >
-> **[0:05](https://www.linkedin.com/learning/functional-programming-with-php/mapping?u=76281980&t=5)** And to do it, we'll be making use of one of PHP's built-in array functions, a function called array map.
+> **[0:05](https://www.linkedin.com/learning/functional-programming-with-php/mapping?u=76281980&t=5)** And to do it, we'll be making use of one of [[PHP]]'s built-in array functions, a function called array map.
 >
 > **[0:11](https://www.linkedin.com/learning/functional-programming-with-php/mapping?u=76281980&t=11)** So quite often, it happens that we have an array of data and we want to convert each of the individual elements in the array to some other form.
 >
@@ -1630,7 +1612,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/functional-programming-with-php/mapping?u=76281980&t=181)** We should be able to program in a way that allows us to simply specify what it is we want instead of how to compute the result.
 >
-> **[3:08](https://www.linkedin.com/learning/functional-programming-with-php/mapping?u=76281980&t=188)** And that's exactly what functional programming allows us to do.
+> **[3:08](https://www.linkedin.com/learning/functional-programming-with-php/mapping?u=76281980&t=188)** And that's exactly what [[Functional Programming]] allows us to do.
 >
 > **[3:11](https://www.linkedin.com/learning/functional-programming-with-php/mapping?u=76281980&t=191)** So let's look at how we can do this same thing in a functional way.
 >
@@ -1662,7 +1644,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (4), data (3), [[PHP]] (2), next (1), [[Functional Programming]] (1)
+> **Frameworks & Libraries:** [[PHP]] (2), [[Functional Programming]] (1)
 > **CLI Commands:** php (2), make (1), find (1)
 > **Definitions:** is called (1), is a  (1), in other words (1)
 > **Analogies:** for example (3)
@@ -1671,14 +1653,13 @@ created: 2026-05-02
 > **Cross-References:** earlier in (1)
 > **Speakers:** - [instructor] (1)
 
-#### Filtering
-> [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/filtering?u=76281980)
+#### [Filtering](https://www.linkedin.com/learning/functional-programming-with-php/filtering?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/functional-programming-with-php/filtering?u=76281980&t=0)** - [Instructor] The next important operation that we can perform on arrays is filtering.
 >
-> **[0:04](https://www.linkedin.com/learning/functional-programming-with-php/filtering?u=76281980&t=4)** And to do this in PHP, we use a built-in function called array_filter.
+> **[0:04](https://www.linkedin.com/learning/functional-programming-with-php/filtering?u=76281980&t=4)** And to do this in [[PHP]], we use a built-in function called array_filter.
 >
 > **[0:10](https://www.linkedin.com/learning/functional-programming-with-php/filtering?u=76281980&t=10)** array_filter is used when you want to find all of the elements in an array that fit some kind of criteria.
 >
@@ -1758,7 +1739,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[PHP]] (1), data (1), functional (1)
+> **Frameworks & Libraries:** [[PHP]] (1)
 > **Code Identifiers:** array_filter (11), array_map (5), even_numbers (3), is_even (3), array_values (1)
 > **CLI Commands:** find (2), php (1), make (1)
 > **Analogies:** just like (2), for example (1)
@@ -1766,8 +1747,7 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Passing keys to array functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/passing-keys-to-array-functions?u=76281980)
+#### [Passing keys to array functions](https://www.linkedin.com/learning/functional-programming-with-php/passing-keys-to-array-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1777,7 +1757,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/functional-programming-with-php/passing-keys-to-array-functions?u=76281980&t=22)** But sometimes we need to know the keys of the elements as well.
 >
-> **[0:25](https://www.linkedin.com/learning/functional-programming-with-php/passing-keys-to-array-functions?u=76281980&t=25)** And we're going to take a look at how to do this in PHP.
+> **[0:25](https://www.linkedin.com/learning/functional-programming-with-php/passing-keys-to-array-functions?u=76281980&t=25)** And we're going to take a look at how to do this in [[PHP]].
 >
 > **[0:28](https://www.linkedin.com/learning/functional-programming-with-php/passing-keys-to-array-functions?u=76281980&t=28)** The technique we use for passing the keys will differ between our map and filter functions.
 >
@@ -1866,14 +1846,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sorting
-> [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/sorting?u=76281980)
+#### [Sorting](https://www.linkedin.com/learning/functional-programming-with-php/sorting?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/functional-programming-with-php/sorting?u=76281980&t=0)** - [Instructor] Now let's look at another important operation when working with arrays, sorting.
 >
-> **[0:04](https://www.linkedin.com/learning/functional-programming-with-php/sorting?u=76281980&t=4)** Now to do sorting, we'll be using another one of PHP's built-in array functions, a function called, as you may have guessed, sort.
+> **[0:04](https://www.linkedin.com/learning/functional-programming-with-php/sorting?u=76281980&t=4)** Now to do sorting, we'll be using another one of [[PHP]]'s built-in array functions, a function called, as you may have guessed, sort.
 >
 > **[0:13](https://www.linkedin.com/learning/functional-programming-with-php/sorting?u=76281980&t=13)** This function is useful when we want to change the order of elements in an array.
 >
@@ -1901,7 +1880,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/functional-programming-with-php/sorting?u=76281980&t=86)** But first, I mentioned before that sort mutates the array it's called on.
 >
-> **[1:31](https://www.linkedin.com/learning/functional-programming-with-php/sorting?u=76281980&t=91)** And since of the core concepts of functional programming is immutability, we really want to avoid this.
+> **[1:31](https://www.linkedin.com/learning/functional-programming-with-php/sorting?u=76281980&t=91)** And since of the core concepts of [[Functional Programming]] is immutability, we really want to avoid this.
 >
 > **[1:37](https://www.linkedin.com/learning/functional-programming-with-php/sorting?u=76281980&t=97)** So in order to use this function in the same way that we've used other built-in array functions such as array map and array filter, without mutating the original array, I'm going to show you a little work around that we can use.
 >
@@ -1917,7 +1896,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/functional-programming-with-php/sorting?u=76281980&t=132)** And now, here's the trick: since arguments are passed by value by default in PHP, we can simply call sort with our arguments here, both of which are copies.
 >
-> **[2:21](https://www.linkedin.com/learning/functional-programming-with-php/sorting?u=76281980&t=141)** So we can say sort, array, ...$rest.
+> **[2:21](https://www.linkedin.com/learning/functional-programming-with-php/sorting?u=76281980&t=141)** So we can say sort, array, ...$[[Representational State Transfer (REST)|rest]].
 >
 > **[2:29](https://www.linkedin.com/learning/functional-programming-with-php/sorting?u=76281980&t=149)** And then say return $array which will return a sorted copy of our original array.
 >
@@ -1941,7 +1920,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (3), functional (2), [[Functional Programming]] (1), [[Representational State Transfer (REST)|Rest]] (1), data (1)
+> **Frameworks & Libraries:** [[PHP]] (3), [[Functional Programming]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** array_sort (3), array_map (2), array_filter (2), numbers_sorted (2)
 > **Analogies:** for example (3), such as (1), just like (1)
 > **CLI Commands:** php (3)
@@ -1950,12 +1929,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (2)
 > **Speakers:** - [instructor] (1)
 
-#### Custom sorting behavior with usort
-> [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/custom-sorting-behavior-with-usort?u=76281980)
+#### [Custom sorting behavior with usort](https://www.linkedin.com/learning/functional-programming-with-php/custom-sorting-behavior-with-usort?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/functional-programming-with-php/custom-sorting-behavior-with-usort?u=76281980&t=0)** - [Instructor] So now we've seen how PHP's most basic built in sort function works.
+> **[0:00](https://www.linkedin.com/learning/functional-programming-with-php/custom-sorting-behavior-with-usort?u=76281980&t=0)** - [Instructor] So now we've seen how [[PHP]]'s most basic built in sort function works.
 >
 > **[0:04](https://www.linkedin.com/learning/functional-programming-with-php/custom-sorting-behavior-with-usort?u=76281980&t=4)** We pass it an array and it sorts it the best way it knows how and we can pass in flags if we want to tweak its behavior slightly.
 >
@@ -2047,7 +2025,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (2), data (2)
+> **Frameworks & Libraries:** [[PHP]] (2)
 > **Definitions:** means that (2), is a  (1), is called (1)
 > **CLI Commands:** php (2)
 > **Env Vars:** php (2)
@@ -2055,12 +2033,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reducing
-> [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/reducing?u=76281980)
+#### [Reducing](https://www.linkedin.com/learning/functional-programming-with-php/reducing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/functional-programming-with-php/reducing?u=76281980&t=0)** - [Instructor] The final important array operation that we're going to learn about is something called reducing and to do it we're going to use yet another of PHP's built-in functions called array reduce.
+> **[0:00](https://www.linkedin.com/learning/functional-programming-with-php/reducing?u=76281980&t=0)** - [Instructor] The final important array operation that we're going to learn about is something called reducing and to do it we're going to use yet another of [[PHP]]'s built-in functions called array reduce.
 >
 > **[0:10](https://www.linkedin.com/learning/functional-programming-with-php/reducing?u=76281980&t=10)** Now what reducing is might not be quite as apparent as with mapping, filtering, or sorting.
 >
@@ -2132,7 +2109,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (8), [[PHP]] (3), next (3), data (2)
+> **Frameworks & Libraries:** [[PHP]] (3)
 > **CLI Commands:** find (4), php (3), make (1)
 > **Definitions:** is a  (1), we call this (1), in other words (1), is called (1)
 > **Env Vars:** php (3)
@@ -2141,12 +2118,11 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Combining array functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/combining-array-functions?u=76281980)
+#### [Combining array functions](https://www.linkedin.com/learning/functional-programming-with-php/combining-array-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/functional-programming-with-php/combining-array-functions?u=76281980&t=0)** - [Instructor] We've seen so far in previous videos several of PHP's numerous built in array functions, their syntax and some examples of how they might be used in a code base.
+> **[0:00](https://www.linkedin.com/learning/functional-programming-with-php/combining-array-functions?u=76281980&t=0)** - [Instructor] We've seen so far in previous videos several of [[PHP]]'s numerous built in array functions, their syntax and some examples of how they might be used in a code base.
 >
 > **[0:10](https://www.linkedin.com/learning/functional-programming-with-php/combining-array-functions?u=76281980&t=10)** These functions are certainly very powerful on their own and each contributes a great deal towards simplifying and increasing readability in our code.
 >
@@ -2240,18 +2216,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (2), [[PHP]] (1)
+> **Frameworks & Libraries:** [[PHP]] (1)
 > **CLI Commands:** make (3), php (1), find (1)
 > **Env Vars:** php (1)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Recreating the array_map function
-> [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/challenge-recreating-the-array-map-function?u=76281980)
+#### [Challenge: Recreating the array_map function](https://www.linkedin.com/learning/functional-programming-with-php/challenge-recreating-the-array-map-function?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/functional-programming-with-php/challenge-recreating-the-array-map-function?u=76281980&t=0)** - [Instructor] Now that we've had a lot of practice with JavaScript's functional parts, such as built-in array functions.
+> **[0:00](https://www.linkedin.com/learning/functional-programming-with-php/challenge-recreating-the-array-map-function?u=76281980&t=0)** - [Instructor] Now that we've had a lot of practice with [[JavaScript]]'s functional parts, such as built-in array functions.
 >
 > **[0:10](https://www.linkedin.com/learning/functional-programming-with-php/challenge-recreating-the-array-map-function?u=76281980&t=10)** Let's do a challenge.
 >
@@ -2265,7 +2240,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/functional-programming-with-php/challenge-recreating-the-array-map-function?u=76281980&t=34)** We're only going to worry about the case where we need to map a single array here.
 >
-> **[0:39](https://www.linkedin.com/learning/functional-programming-with-php/challenge-recreating-the-array-map-function?u=76281980&t=39)** So your task here is to recreate the functionality of PHP's array_map function, obviously without actually using the built-in array_map function, since that would be cheating.
+> **[0:39](https://www.linkedin.com/learning/functional-programming-with-php/challenge-recreating-the-array-map-function?u=76281980&t=39)** So your task here is to recreate the functionality of [[PHP]]'s array_map function, obviously without actually using the built-in array_map function, since that would be cheating.
 >
 > **[0:49](https://www.linkedin.com/learning/functional-programming-with-php/challenge-recreating-the-array-map-function?u=76281980&t=49)** The easier solution to this problem is to use a for loop, and the slightly harder version is to use only PHP's built-in array reduce function.
 >
@@ -2275,7 +2250,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (2), [[JavaScript]] (1), functional (1)
+> **Frameworks & Libraries:** [[PHP]] (2), [[JavaScript]] (1)
 > **Code Identifiers:** array_map (4)
 > **CLI Commands:** php (2), make (1)
 > **Env Vars:** php (2)
@@ -2284,12 +2259,11 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Recreating the array_map function
-> [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/solution-recreating-the-array-map-function?u=76281980)
+#### [Solution: Recreating the array_map function](https://www.linkedin.com/learning/functional-programming-with-php/solution-recreating-the-array-map-function?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/functional-programming-with-php/solution-recreating-the-array-map-function?u=76281980&t=0)** [Narrator]- Okay, so let's see the solution to the challenge of recreating the array map function in PHP.
+> **[0:00](https://www.linkedin.com/learning/functional-programming-with-php/solution-recreating-the-array-map-function?u=76281980&t=0)** [Narrator]- Okay, so let's see the solution to the challenge of recreating the array map function in [[PHP]].
 >
 > **[0:12](https://www.linkedin.com/learning/functional-programming-with-php/solution-recreating-the-array-map-function?u=76281980&t=12)** We'll start with the easier solution of using a for loop.
 >
@@ -2329,13 +2303,13 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/functional-programming-with-php/solution-recreating-the-array-map-function?u=76281980&t=192)** So we'll say func, item just like that and that should be it.
 >
-> **[3:20](https://www.linkedin.com/learning/functional-programming-with-php/solution-recreating-the-array-map-function?u=76281980&t=200)** If we run our code again, we see that it works perfectly this time as well, except now we are using array reduce instead of a for loop and this might look deceptively simple to some people and many times that's the beauty of functional programming.
+> **[3:20](https://www.linkedin.com/learning/functional-programming-with-php/solution-recreating-the-array-map-function?u=76281980&t=200)** If we run our code again, we see that it works perfectly this time as well, except now we are using array reduce instead of a for loop and this might look deceptively simple to some people and many times that's the beauty of [[Functional Programming]].
 >
 > **[3:35](https://www.linkedin.com/learning/functional-programming-with-php/solution-recreating-the-array-map-function?u=76281980&t=215)** Well anyways, congratulations if you figured out either or both solutions.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (1), [[Programming]] (1), data (1), [[Functional Programming]] (1)
+> **Frameworks & Libraries:** [[PHP]] (1), [[Functional Programming]] (1)
 > **CLI Commands:** php (1), find (1)
 > **Analogies:** just like (2)
 > **Env Vars:** php (1)
@@ -2346,8 +2320,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Advanced functional concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/advanced-functional-concepts?u=76281980)
+#### [Advanced functional concepts](https://www.linkedin.com/learning/functional-programming-with-php/advanced-functional-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2365,18 +2338,17 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/functional-programming-with-php/advanced-functional-concepts?u=76281980&t=41)** Furthermore, what I'll be covering in this course with regards to these concepts is really only the tip of the iceberg, and a whole course could probably be made about each of these concepts alone.
 >
-> **[0:51](https://www.linkedin.com/learning/functional-programming-with-php/advanced-functional-concepts?u=76281980&t=51)** That being said, these concepts do serve as a great jumping off point to get into more complex functional programming.
+> **[0:51](https://www.linkedin.com/learning/functional-programming-with-php/advanced-functional-concepts?u=76281980&t=51)** That being said, these concepts do serve as a great jumping off point to get into more complex [[Functional Programming]].
 >
 > **[0:57](https://www.linkedin.com/learning/functional-programming-with-php/advanced-functional-concepts?u=76281980&t=57)** If you stick to it and gain a thorough understanding of these concepts, they can allow you to do some very cool and flexible things as well as gain a better understanding of functional programming in general.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (3), [[Functional Programming]] (2), application (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (2)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Partial application and currying
-> [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/partial-application-and-currying?u=76281980)
+#### [Partial application and currying](https://www.linkedin.com/learning/functional-programming-with-php/partial-application-and-currying?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2444,14 +2416,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7)
 > **Analogies:** imagine (1), for example (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [narrator] (1)
 
-#### Recursion
-> [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/recursion?u=76281980)
+#### [Recursion](https://www.linkedin.com/learning/functional-programming-with-php/recursion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2461,7 +2431,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/functional-programming-with-php/recursion?u=76281980&t=9)** Recursion is simply when a function calls itself.
 >
-> **[0:12](https://www.linkedin.com/learning/functional-programming-with-php/recursion?u=76281980&t=12)** While doing this can very easily lead to an infinite loop if we're not careful, it can also be used to solve certain problems that otherwise wouldn't be very easy to solve using functional programming.
+> **[0:12](https://www.linkedin.com/learning/functional-programming-with-php/recursion?u=76281980&t=12)** While doing this can very easily lead to an infinite loop if we're not careful, it can also be used to solve certain problems that otherwise wouldn't be very easy to solve using [[Functional Programming]].
 >
 > **[0:23](https://www.linkedin.com/learning/functional-programming-with-php/recursion?u=76281980&t=23)** So we're going to take a look at a very simple example using recursion.
 >
@@ -2493,7 +2463,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/functional-programming-with-php/recursion?u=76281980&t=127)** So let's go back to why I defined this countdown function with the regular function syntax instead of defining it like a variable, like this.
 >
-> **[2:18](https://www.linkedin.com/learning/functional-programming-with-php/recursion?u=76281980&t=138)** Well, the reason we have to do this is that if we were to define this function as a variable, for reasons of how PHP treats these kinds of variable functions under the hood, this function wouldn't be able to call itself from inside the function body.
+> **[2:18](https://www.linkedin.com/learning/functional-programming-with-php/recursion?u=76281980&t=138)** Well, the reason we have to do this is that if we were to define this function as a variable, for reasons of how [[PHP]] treats these kinds of variable functions under the hood, this function wouldn't be able to call itself from inside the function body.
 >
 > **[2:31](https://www.linkedin.com/learning/functional-programming-with-php/recursion?u=76281980&t=151)** Instead, PHP would throw an undefined variable error.
 >
@@ -2531,7 +2501,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[PHP]] (2), [[Functional Programming]] (1)
+> **Frameworks & Libraries:** [[PHP]] (2), [[Functional Programming]] (1)
 > **Definitions:** is a  (2), is called (1)
 > **CLI Commands:** php (2)
 > **Env Vars:** php (2)
@@ -2540,8 +2510,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - the (1)
 
-#### Composition, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/composition-part-1?u=76281980)
+#### [Composition, part 1](https://www.linkedin.com/learning/functional-programming-with-php/composition-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2557,17 +2526,17 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/functional-programming-with-php/composition-part-1?u=76281980&t=47)** And this was a good basic example of composition, but as it happens, composition can be applied to a much wider range of programming problems than just math.
 >
-> **[0:56](https://www.linkedin.com/learning/functional-programming-with-php/composition-part-1?u=76281980&t=56)** In theory, we can compose any set of functions so long as they all return the same type of data that they require as an argument.
+> **[0:56](https://www.linkedin.com/learning/functional-programming-with-php/composition-part-1?u=76281980&t=56)** In theory, we can [[Jetpack Compose|compose]] any set of functions so long as they all return the same type of data that they require as an argument.
 >
 > **[1:03](https://www.linkedin.com/learning/functional-programming-with-php/composition-part-1?u=76281980&t=63)** So for example, our math functions from before all took a number as an argument, and returned a number, so it was fairly trivial to combine them into a single, larger function simply by calling one on the result of another.
 >
-> **[1:16](https://www.linkedin.com/learning/functional-programming-with-php/composition-part-1?u=76281980&t=76)** Now composition is an extremely useful concept in functional programming.
+> **[1:16](https://www.linkedin.com/learning/functional-programming-with-php/composition-part-1?u=76281980&t=76)** Now composition is an extremely useful concept in [[Functional Programming]].
 >
-> **[1:20](https://www.linkedin.com/learning/functional-programming-with-php/composition-part-1?u=76281980&t=80)** And this is particularly true when doing some sort of complex data transformation that can be broken down into smaller, more modular pieces.
+> **[1:20](https://www.linkedin.com/learning/functional-programming-with-php/composition-part-1?u=76281980&t=80)** And this is particularly true when doing some sort of complex [[Data Transformation]] that can be broken down into smaller, more modular pieces.
 >
 > **[1:28](https://www.linkedin.com/learning/functional-programming-with-php/composition-part-1?u=76281980&t=88)** So for example, let's say that we have an array of person data that we retrieved from some API.
 >
-> **[1:34](https://www.linkedin.com/learning/functional-programming-with-php/composition-part-1?u=76281980&t=94)** Now, this data isn't in a convenient format for the rest of our software, so we need to make a series of changes to it.
+> **[1:34](https://www.linkedin.com/learning/functional-programming-with-php/composition-part-1?u=76281980&t=94)** Now, this data isn't in a convenient format for the [[Representational State Transfer (REST)|rest]] of our software, so we need to make a series of changes to it.
 >
 > **[1:40](https://www.linkedin.com/learning/functional-programming-with-php/composition-part-1?u=76281980&t=100)** Well, what we can do is use composition to create a sort of formatting function that transforms our data.
 >
@@ -2637,7 +2606,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), api (2), [[Representational State Transfer (REST)|Rest]] (2), functional (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Jetpack Compose|Compose]] (1), [[Functional Programming]] (1), [[Data Transformation]] (1)
 > **Analogies:** for example (4), such as (1)
 > **Env Vars:** api (2)
 > **Cross-References:** earlier in (2)
@@ -2646,12 +2615,11 @@ created: 2026-05-02
 > **Versions:** 0.0254 (1)
 > **Speakers:** - [narrator] (1)
 
-#### Composition, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/composition-part-2?u=76281980)
+#### [Composition, part 2](https://www.linkedin.com/learning/functional-programming-with-php/composition-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/functional-programming-with-php/composition-part-2?u=76281980&t=0)** - [Instructor] Okay, so now that we have all our separate functions for data transformation, how do we combine these functions?
+> **[0:00](https://www.linkedin.com/learning/functional-programming-with-php/composition-part-2?u=76281980&t=0)** - [Instructor] Okay, so now that we have all our separate functions for [[Data Transformation]], how do we combine these functions?
 >
 > **[0:07](https://www.linkedin.com/learning/functional-programming-with-php/composition-part-2?u=76281980&t=7)** Well, this is where things get a little interesting.
 >
@@ -2661,7 +2629,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/functional-programming-with-php/composition-part-2?u=76281980&t=31)** But as I said before, this is a little messy, especially when we call ten or twenty or a hundred functions on some object.
 >
-> **[0:39](https://www.linkedin.com/learning/functional-programming-with-php/composition-part-2?u=76281980&t=39)** So what we're going to do instead is create a function called "compose" that takes all of our functions as arguments, and returns a new function that provides the same functionality.
+> **[0:39](https://www.linkedin.com/learning/functional-programming-with-php/composition-part-2?u=76281980&t=39)** So what we're going to do instead is create a function called "[[Jetpack Compose|compose]]" that takes all of our functions as arguments, and returns a new function that provides the same functionality.
 >
 > **[0:49](https://www.linkedin.com/learning/functional-programming-with-php/composition-part-2?u=76281980&t=49)** So for example, we've been able to do something like this.
 >
@@ -2717,7 +2685,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (8), data (6), [[Data Transformation]] (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (8), [[Data Transformation]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
@@ -2729,12 +2697,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Challenge: Property getter
-> [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/challenge-property-getter?u=76281980)
+#### [Challenge: Property getter](https://www.linkedin.com/learning/functional-programming-with-php/challenge-property-getter?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/functional-programming-with-php/challenge-property-getter?u=76281980&t=0)** - [Instructor] Before we wrap up this course, we're going to go through a few functional programming challenges that'll help you get more familiar with the functional paradigm and hopefully learn a few more tricks along the way.
+> **[0:00](https://www.linkedin.com/learning/functional-programming-with-php/challenge-property-getter?u=76281980&t=0)** - [Instructor] Before we wrap up this course, we're going to go through a few [[Functional Programming]] challenges that'll help you get more familiar with the functional paradigm and hopefully learn a few more tricks along the way.
 >
 > **[0:16](https://www.linkedin.com/learning/functional-programming-with-php/challenge-property-getter?u=76281980&t=16)** The first challenge we're going to look at has to do with partial application, one of the more advanced concepts we saw in a previous sections.
 >
@@ -2754,7 +2721,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/functional-programming-with-php/challenge-property-getter?u=76281980&t=92)** Well as it happens, that's your challenge here.
 >
-> **[1:34](https://www.linkedin.com/learning/functional-programming-with-php/challenge-property-getter?u=76281980&t=94)** I've defined a function called create_property_getter and your job is to implement the body of this function such that the rest of the example code that I've written works correctly.
+> **[1:34](https://www.linkedin.com/learning/functional-programming-with-php/challenge-property-getter?u=76281980&t=94)** I've defined a function called create_property_getter and your job is to implement the body of this function such that the [[Representational State Transfer (REST)|rest]] of the example code that I've written works correctly.
 >
 > **[1:44](https://www.linkedin.com/learning/functional-programming-with-php/challenge-property-getter?u=76281980&t=104)** Namely, you'll want to partially apply the first two arguments, the key, and the default value.
 >
@@ -2770,7 +2737,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Functional Programming]] (1), functional (1), application (1), data (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** get_property (2), favorite_color (2), get_name (1), create_property_getter (1)
 > **Analogies:** such as (2), imagine (1), for example (1)
 > **CLI Commands:** make (2)
@@ -2778,8 +2745,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Property getter
-> [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/solution-property-getter?u=76281980)
+#### [Solution: Property getter](https://www.linkedin.com/learning/functional-programming-with-php/solution-property-getter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2806,14 +2772,13 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Challenge: Tallying votes
-> [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/challenge-tallying-votes?u=76281980)
+#### [Challenge: Tallying votes](https://www.linkedin.com/learning/functional-programming-with-php/challenge-tallying-votes?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/functional-programming-with-php/challenge-tallying-votes?u=76281980&t=0)** (electronic techno music)
 >
-> **[0:05](https://www.linkedin.com/learning/functional-programming-with-php/challenge-tallying-votes?u=76281980&t=5)** - [Instructor] The second functional programming challenge that we're going to look at is called tallying votes.
+> **[0:05](https://www.linkedin.com/learning/functional-programming-with-php/challenge-tallying-votes?u=76281980&t=5)** - [Instructor] The second [[Functional Programming]] challenge that we're going to look at is called tallying votes.
 >
 > **[0:09](https://www.linkedin.com/learning/functional-programming-with-php/challenge-tallying-votes?u=76281980&t=9)** And here it is.
 >
@@ -2851,7 +2816,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Functional Programming]] (1), generic (1), next (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (1)
 > **Cross-References:** we talked about (1), next video (1)
 > **Definitions:** is called (1), in other words (1)
 > **CLI Commands:** find (1)
@@ -2859,8 +2824,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (electronic techno music) (1)
 
-#### Solution: Tallying votes
-> [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/solution-tallying-votes?u=76281980)
+#### [Solution: Tallying votes](https://www.linkedin.com/learning/functional-programming-with-php/solution-tallying-votes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2899,14 +2863,13 @@ created: 2026-05-02
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Challenge: Value or array
-> [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/challenge-value-or-array?u=76281980)
+#### [Challenge: Value or array](https://www.linkedin.com/learning/functional-programming-with-php/challenge-value-or-array?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/functional-programming-with-php/challenge-value-or-array?u=76281980&t=0)** (electronic techno music)
 >
-> **[0:05](https://www.linkedin.com/learning/functional-programming-with-php/challenge-value-or-array?u=76281980&t=5)** - [Instructor] Okay, let's move on to the third functional programming challenge.
+> **[0:05](https://www.linkedin.com/learning/functional-programming-with-php/challenge-value-or-array?u=76281980&t=5)** - [Instructor] Okay, let's move on to the third [[Functional Programming]] challenge.
 >
 > **[0:09](https://www.linkedin.com/learning/functional-programming-with-php/challenge-value-or-array?u=76281980&t=9)** This challenge is called value or array and it goes like this.
 >
@@ -2930,11 +2893,11 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/functional-programming-with-php/challenge-value-or-array?u=76281980&t=77)** Well there is a way to do this and your challenge is to find out how.
 >
-> **[1:21](https://www.linkedin.com/learning/functional-programming-with-php/challenge-value-or-array?u=76281980&t=81)** You need to implement the body of this call_on_value_or_array function, such that the rest of the code that I've put here produces the expected results.
+> **[1:21](https://www.linkedin.com/learning/functional-programming-with-php/challenge-value-or-array?u=76281980&t=81)** You need to implement the body of this call_on_value_or_array function, such that the [[Representational State Transfer (REST)|rest]] of the code that I've put here produces the expected results.
 >
 > **[1:31](https://www.linkedin.com/learning/functional-programming-with-php/challenge-value-or-array?u=76281980&t=91)** And just as a hint, you might want to look back at the second_argument_isnt_zero function that we created earlier in the course and see if that helps you figure out what the basic structure of your implementation should be.
 >
-> **[1:43](https://www.linkedin.com/learning/functional-programming-with-php/challenge-value-or-array?u=76281980&t=103)** Oh, and another hint is that if you're not already familiar with it, php has a built-in function called is_array that will tell you whether or not a given variable is an array.
+> **[1:43](https://www.linkedin.com/learning/functional-programming-with-php/challenge-value-or-array?u=76281980&t=103)** Oh, and another hint is that if you're not already familiar with it, [[PHP]] has a built-in function called is_array that will tell you whether or not a given variable is an array.
 >
 > **[1:54](https://www.linkedin.com/learning/functional-programming-with-php/challenge-value-or-array?u=76281980&t=114)** And that'll definitely come in handy for this challenge.
 >
@@ -2948,7 +2911,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Functional Programming]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[PHP]] (1), next (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[PHP]] (1)
 > **Code Identifiers:** array_map (3), call_on_value_or_array (1), second_argument_isnt_zero (1), is_array (1)
 > **CLI Commands:** find (4), php (1)
 > **Cross-References:** previous video (1), earlier in (1), next video (1)
@@ -2957,8 +2920,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (electronic techno music) (1)
 
-#### Solution: Value or array
-> [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/solution-value-or-array?u=76281980)
+#### [Solution: Value or array](https://www.linkedin.com/learning/functional-programming-with-php/solution-value-or-array?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2986,7 +2948,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8)
 > **Definitions:** is an  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -2997,8 +2958,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/functional-programming-with-php/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3006,9 +2966,9 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/functional-programming-with-php/next-steps?u=76281980&t=2)** We've definitely covered a lot of topics here.
 >
-> **[0:05](https://www.linkedin.com/learning/functional-programming-with-php/next-steps?u=76281980&t=5)** We started off with the basic concepts of functional programming and how it compares to object-oriented programming, and then moved on to first-class functions and how to work with them in PHP.
+> **[0:05](https://www.linkedin.com/learning/functional-programming-with-php/next-steps?u=76281980&t=5)** We started off with the basic concepts of [[Functional Programming]] and how it compares to [[Object-Oriented Programming (OOP)|object-oriented programming]], and then moved on to first-class functions and how to work with them in [[PHP]].
 >
-> **[0:16](https://www.linkedin.com/learning/functional-programming-with-php/next-steps?u=76281980&t=16)** After that, we saw how functional programming makes working with data structures very straight forward, followed by an introduction to the advanced concepts of recursion, partial application and composition.
+> **[0:16](https://www.linkedin.com/learning/functional-programming-with-php/next-steps?u=76281980&t=16)** After that, we saw how functional programming makes working with [[Data Structures]] very straight forward, followed by an introduction to the advanced concepts of recursion, partial application and composition.
 >
 > **[0:27](https://www.linkedin.com/learning/functional-programming-with-php/next-steps?u=76281980&t=27)** Now that you've had a solid introduction to the world of functional programming, you might be wondering where to go next, and there are several things I'd recommend.
 >
@@ -3024,17 +2984,17 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/functional-programming-with-php/next-steps?u=76281980&t=67)** The best part is that this book is freely available from MIT Press.
 >
-> **[1:12](https://www.linkedin.com/learning/functional-programming-with-php/next-steps?u=76281980&t=72)** Also, if you're curious to see how the functional concepts I've covered in this course are expressed in other languages such as JavaScript, I have other courses on that as well.
+> **[1:12](https://www.linkedin.com/learning/functional-programming-with-php/next-steps?u=76281980&t=72)** Also, if you're curious to see how the functional concepts I've covered in this course are expressed in other languages such as [[JavaScript]], I have other courses on that as well.
 >
 > **[1:22](https://www.linkedin.com/learning/functional-programming-with-php/next-steps?u=76281980&t=82)** Well thank you so much for watching.
 >
-> **[1:24](https://www.linkedin.com/learning/functional-programming-with-php/next-steps?u=76281980&t=84)** If you want to get in touch with me, please don't hesitate to connect with me on LinkedIn.
+> **[1:24](https://www.linkedin.com/learning/functional-programming-with-php/next-steps?u=76281980&t=84)** If you want to get in touch with me, please don't hesitate to connect with me on [[LinkedIn]].
 >
 > **[1:28](https://www.linkedin.com/learning/functional-programming-with-php/next-steps?u=76281980&t=88)** I'm on LinkedIn quite often and would love to hear any questions or comments from you, or if you just want to say hi, that's all right too.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Functional Programming]] (5), [[LinkedIn]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[PHP]] (1), data (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (5), [[LinkedIn]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[PHP]] (1), [[Data Structures]] (1)
 > **Env Vars:** php (1), mit (1)
 > **CLI Commands:** php (1)
 > **Definitions:** is a  (1)

@@ -83,12 +83,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What it means to think critically about AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/what-it-means-to-think-critically-about-ai-36201056?u=76281980)
+#### [What it means to think critically about AI](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/what-it-means-to-think-critically-about-ai-36201056?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:14](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/what-it-means-to-think-critically-about-ai-36201056?u=76281980&t=14)** When you hear the word AI, what comes to mind?
+> **[0:14](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/what-it-means-to-think-critically-about-ai-36201056?u=76281980&t=14)** When you hear the [[Microsoft Word|word]] AI, what comes to mind?
 >
 > **[0:19](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/what-it-means-to-think-critically-about-ai-36201056?u=76281980&t=19)** Some of you may think of AI as something that makes our society more convenient.
 >
@@ -104,9 +103,9 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/what-it-means-to-think-critically-about-ai-36201056?u=76281980&t=59)** Even so, what many of you may be wondering is this.
 >
-> **[1:03](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/what-it-means-to-think-critically-about-ai-36201056?u=76281980&t=63)** As we start using AI, we hear many worrying words like privacy, security, fairness, and safety.
+> **[1:03](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/what-it-means-to-think-critically-about-ai-36201056?u=76281980&t=63)** As we start using AI, we hear many worrying words like [[Privacy]], security, fairness, and safety.
 >
-> **[1:12](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/what-it-means-to-think-critically-about-ai-36201056?u=76281980&t=72)** And you may be wondering what the technical situation actually looks like right now, or or what kinds of discussions are taking place in society, in institutions, or around ethics.
+> **[1:12](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/what-it-means-to-think-critically-about-ai-36201056?u=76281980&t=72)** And you may be wondering what the technical situation actually looks like right now, or or what kinds of discussions are taking place in society, in institutions, or around [[Ethics]].
 >
 > **[1:27](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/what-it-means-to-think-critically-about-ai-36201056?u=76281980&t=87)** Here, I'd like to share with you some ways of thinking about AI and society, drawing on current academic work, as well as things I've seen and heard first-hand in different fields.
 >
@@ -124,7 +123,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), [[Microsoft Word|Word]] (1), [[Privacy]] (1), [[Security]] (1), [[Ethics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Privacy]] (1), [[Ethics]] (1)
 > **Warnings:** keep in mind (1)
 
 
@@ -132,12 +131,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why we should consider AI and society
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-we-should-consider-ai-and-society?u=76281980)
+#### [Why we should consider AI and society](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-we-should-consider-ai-and-society?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-we-should-consider-ai-and-society?u=76281980&t=0)** These days, artificial intelligence has become such a familiar part of our everyday lives that we hear about AI almost every day.
+> **[0:00](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-we-should-consider-ai-and-society?u=76281980&t=0)** These days, [[Artificial Intelligence (AI)|artificial intelligence]] has become such a familiar part of our everyday lives that we hear about AI almost every day.
 >
 > **[0:10](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-we-should-consider-ai-and-society?u=76281980&t=10)** As we use AI as a convenient tool, it's important that we also think about the risks involved and how it may affect society.
 >
@@ -151,7 +149,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-we-should-consider-ai-and-society?u=76281980&t=43)** Now I'd like to introduce an important idea in science and technology policy known as the Cullen Ridge Dilemma.
 >
-> **[0:51](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-we-should-consider-ai-and-society?u=76281980&t=51)** As the word dilemma suggests, it describes a situation where dealing with one problem makes another more difficult.
+> **[0:51](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-we-should-consider-ai-and-society?u=76281980&t=51)** As the [[Microsoft Word|word]] dilemma suggests, it describes a situation where dealing with one problem makes another more difficult.
 >
 > **[1:00](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-we-should-consider-ai-and-society?u=76281980&t=60)** It's difficult to fully anticipate social impacts or risks before a technology is widely used.
 >
@@ -179,7 +177,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-we-should-consider-ai-and-society?u=76281980&t=139)** We are not using a finished product.
 >
-> **[2:21](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-we-should-consider-ai-and-society?u=76281980&t=141)** Instead, data and algorithms are refined, security is improved, and greater consideration is given to privacy through ongoing adjustments.
+> **[2:21](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-we-should-consider-ai-and-society?u=76281980&t=141)** Instead, data and [[Algorithms]] are refined, security is improved, and greater consideration is given to [[Privacy]] through ongoing adjustments.
 >
 > **[2:34](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-we-should-consider-ai-and-society?u=76281980&t=154)** In some ways, this is a positive development, but it also makes it harder to foresee everything from the beginning.
 >
@@ -193,18 +191,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Microsoft Word|Word]] (1), product (1), data (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Microsoft Word|Word]] (1), [[Algorithms]] (1), [[Privacy]] (1)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** for example (1)
 
-#### Why the ability to think critically is part of AI literacy
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-the-ability-to-think-critically-is-part-of-ai-literacy-36131058?u=76281980)
+#### [Why the ability to think critically is part of AI literacy](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-the-ability-to-think-critically-is-part-of-ai-literacy-36131058?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-the-ability-to-think-critically-is-part-of-ai-literacy-36131058?u=76281980&t=0)** Learning how to use AI will become increasingly important, not only for working adults, but from a very early age, including in childcare settings.
 >
-> **[0:11](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-the-ability-to-think-critically-is-part-of-ai-literacy-36131058?u=76281980&t=11)** When we talk about AI literacy, the word literacy originally means the ability to read and write.
+> **[0:11](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-the-ability-to-think-critically-is-part-of-ai-literacy-36131058?u=76281980&t=11)** When we talk about [[AI Literacy]], the [[Microsoft Word|word]] literacy originally means the ability to read and write.
 >
 > **[0:19](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-the-ability-to-think-critically-is-part-of-ai-literacy-36131058?u=76281980&t=19)** Here, it means the ability to use AI well and make good use of it.
 >
@@ -286,7 +283,7 @@ created: 2026-05-02
 >
 > **[5:01](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-the-ability-to-think-critically-is-part-of-ai-literacy-36131058?u=76281980&t=301)** Now you can take it one step further.
 >
-> **[5:04](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-the-ability-to-think-critically-is-part-of-ai-literacy-36131058?u=76281980&t=304)** Open Microsoft Copilot at copilot.[microsoft.com](https://microsoft.com).
+> **[5:04](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-the-ability-to-think-critically-is-part-of-ai-literacy-36131058?u=76281980&t=304)** Open [[Microsoft Copilot]] at [[Microsoft Copilot|copilot]].[[[Microsoft]].com](https://microsoft.com).
 >
 > **[5:09](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-the-ability-to-think-critically-is-part-of-ai-literacy-36131058?u=76281980&t=309)** In the text box, type the following prompt, then paste your rules below it.
 >
@@ -300,14 +297,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (36), [[Microsoft Word|Word]] (1), [[Security]] (1), data (1), [[Microsoft Copilot]] (1)
+> **Frameworks & Libraries:** [[AI Literacy]] (8), [[Microsoft Word|Word]] (1), [[Microsoft Copilot]] (1), [[Microsoft Copilot|Copilot]] (1), [[Microsoft]] (1)
 > **Analogies:** for example (4)
 > **CLI Commands:** make (2)
 > **Definitions:** known as (1), is an  (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 
-#### How AI design shapes society
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-ai-design-shapes-society?u=76281980)
+#### [How AI design shapes society](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-ai-design-shapes-society?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -345,7 +341,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-ai-design-shapes-society?u=76281980&t=133)** Does technology affect society?
 >
-> **[2:16](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-ai-design-shapes-society?u=76281980&t=136)** Thinking about design should involve not only engineers, but also people from law, sociology, ethics and sometimes politics or industry.
+> **[2:16](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-ai-design-shapes-society?u=76281980&t=136)** Thinking about design should involve not only engineers, but also people from law, sociology, [[Ethics]] and sometimes politics or industry.
 >
 > **[2:29](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-ai-design-shapes-society?u=76281980&t=149)** It's important for everyone involved to share a clear sense of what the design is for.
 >
@@ -359,18 +355,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), [[Ethics]] (1)
+> **Frameworks & Libraries:** [[Ethics]] (1)
 > **Analogies:** for example (2), such as (2)
 > **Definitions:** is a  (1)
 
-#### What AI means to different people
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/what-ai-means-to-different-people?u=76281980)
+#### [What AI means to different people](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/what-ai-means-to-different-people?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/what-ai-means-to-different-people?u=76281980&t=0)** When you are asked, what exactly is AI, what comes to mind?
 >
-> **[0:05](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/what-ai-means-to-different-people?u=76281980&t=5)** Some people may think of generative AI, while others may picture facial recognition systems, like those used in airports.
+> **[0:05](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/what-ai-means-to-different-people?u=76281980&t=5)** Some people may think of [[Generative AI]], while others may picture facial recognition systems, like those used in airports.
 >
 > **[0:15](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/what-ai-means-to-different-people?u=76281980&t=15)** Or there are learning apps used in education, apps that help correct pronunciation, and many other things that are probably included in what you imagine as AI.
 >
@@ -382,7 +377,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/what-ai-means-to-different-people?u=76281980&t=53)** Or someone who says AI is scary, maybe imagining science fiction-like robot AI that could destroy the world, worrying that jobs will disappear or that AI might run out of control.
 >
-> **[1:10](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/what-ai-means-to-different-people?u=76281980&t=70)** Even in everyday life, we often use the same word while imagining different things.
+> **[1:10](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/what-ai-means-to-different-people?u=76281980&t=70)** Even in everyday life, we often use the same [[Microsoft Word|word]] while imagining different things.
 >
 > **[1:16](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/what-ai-means-to-different-people?u=76281980&t=76)** And yet, the conversation still seems to work.
 >
@@ -420,13 +415,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (20), [[Microsoft Word|Word]] (5), [[Generative AI]] (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), [[Generative AI]] (1)
 > **Analogies:** for example (3), picture (1), imagine (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is called (1)
 
-#### Why AI systems fail beyond technical capability
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-ai-systems-fail-beyond-technical-capability?u=76281980)
+#### [Why AI systems fail beyond technical capability](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-ai-systems-fail-beyond-technical-capability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -458,13 +452,13 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-ai-systems-fail-beyond-technical-capability?u=76281980&t=80)** Next, when you want to make a meal or a dessert, you need ingredients.
 >
-> **[1:25](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-ai-systems-fail-beyond-technical-capability?u=76281980&t=85)** With AI, in addition to algorithms and hardware, there is one especially important element.
+> **[1:25](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-ai-systems-fail-beyond-technical-capability?u=76281980&t=85)** With AI, in addition to [[Algorithms]] and [[Hardware]], there is one especially important element.
 >
 > **[1:32](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-ai-systems-fail-beyond-technical-capability?u=76281980&t=92)** That is data.
 >
 > **[1:35](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-ai-systems-fail-beyond-technical-capability?u=76281980&t=95)** AI learns from data, and based on that, it makes decisions, recognizes patterns, reasons, or generates outputs.
 >
-> **[1:46](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-ai-systems-fail-beyond-technical-capability?u=76281980&t=106)** So if the data quality is poor, or if it doesn't match the purpose, you won't get the result you're aiming for.
+> **[1:46](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-ai-systems-fail-beyond-technical-capability?u=76281980&t=106)** So if the [[Data Quality]] is poor, or if it doesn't match the purpose, you won't get the result you're aiming for.
 >
 > **[1:54](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-ai-systems-fail-beyond-technical-capability?u=76281980&t=114)** In cooking terms, it's like trying to make Japanese food without dashi, or Italian food without olive oil.
 >
@@ -500,7 +494,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), data (4), [[Engineering]] (1), next (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Hardware]] (1), [[Data Quality]] (1)
 > **CLI Commands:** make (5)
 > **Analogies:** imagine (1), such as (1), it's like (1), just like (1)
 
@@ -509,8 +503,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why bias is not an exception
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-bias-is-not-an-exception?u=76281980)
+#### [Why bias is not an exception](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-bias-is-not-an-exception?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -532,7 +525,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-bias-is-not-an-exception?u=76281980&t=47)** From a statistical point of view, having biased data is not necessarily a bad thing, it simply describes how the data looks.
 >
-> **[0:56](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-bias-is-not-an-exception?u=76281980&t=56)** But in everyday situations, when we call someone biased, we usually mean something negative, such as holding discriminatory views or stereotypes, rather than using the word in a neutral way.
+> **[0:56](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-bias-is-not-an-exception?u=76281980&t=56)** But in everyday situations, when we call someone biased, we usually mean something negative, such as holding discriminatory views or stereotypes, rather than using the [[Microsoft Word|word]] in a neutral way.
 >
 > **[1:13](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-bias-is-not-an-exception?u=76281980&t=73)** When we say that AI is biased, we're often using the word in that same negative sense to describe AI making discriminatory judgments.
 >
@@ -556,7 +549,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-bias-is-not-an-exception?u=76281980&t=137)** So then, how can we reduce bias in AI?
 >
-> **[2:22](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-bias-is-not-an-exception?u=76281980&t=142)** There are technical efforts underway to reduce bias, such as using more diverse data or adjusting algorithms.
+> **[2:22](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-bias-is-not-an-exception?u=76281980&t=142)** There are technical efforts underway to reduce bias, such as using more diverse data or adjusting [[Algorithms]].
 >
 > **[2:30](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-bias-is-not-an-exception?u=76281980&t=150)** And these efforts are already being carried out in practice.
 >
@@ -582,13 +575,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), data (4), [[Microsoft Word|Word]] (2), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Algorithms]] (1)
 > **Analogies:** such as (3), for example (2)
 > **Definitions:** is a  (2)
 > **Warnings:** caution (1)
 
-#### How the COMPAS system discriminated against Black defendants
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-the-compas-system-discriminated-against-black-defendants?u=76281980)
+#### [How the COMPAS system discriminated against Black defendants](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-the-compas-system-discriminated-against-black-defendants?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -636,7 +628,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-the-compas-system-discriminated-against-black-defendants?u=76281980&t=173)** Why was that?
 >
-> **[2:55](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-the-compas-system-discriminated-against-black-defendants?u=76281980&t=175)** This has to do with statistics.
+> **[2:55](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-the-compas-system-discriminated-against-black-defendants?u=76281980&t=175)** This has to do with [[Statistics]].
 >
 > **[2:58](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-the-compas-system-discriminated-against-black-defendants?u=76281980&t=178)** The developers argued that while the likelihood of reoffending might differ by race, the likelihood of not reoffending does not, and they presented evidence to support this.
 >
@@ -658,12 +650,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), data (2), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **Definitions:** is an  (1), in other words (1)
 > **Analogies:** picture (1)
 
-#### Why technical fixes are not enough
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-technical-fixes-are-not-enough?u=76281980)
+#### [Why technical fixes are not enough](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-technical-fixes-are-not-enough?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -691,7 +682,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-technical-fixes-are-not-enough?u=76281980&t=81)** So the first step is reaching social agreement on what conditions are fair, just or equal.
 >
-> **[1:30](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-technical-fixes-are-not-enough?u=76281980&t=90)** Only then do we prepare the algorithms and data needed to put those ideas into practice.
+> **[1:30](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-technical-fixes-are-not-enough?u=76281980&t=90)** Only then do we prepare the [[Algorithms]] and data needed to put those ideas into practice.
 >
 > **[1:37](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-technical-fixes-are-not-enough?u=76281980&t=97)** It doesn't work the other way around.
 >
@@ -717,13 +708,13 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-technical-fixes-are-not-enough?u=76281980&t=205)** In this way, it can seem as though a problem has been solved and the system is presented as ethical, fair or beneficial for society.
 >
-> **[3:36](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-technical-fixes-are-not-enough?u=76281980&t=216)** At the same time, other concerns, such as privacy or different social values, quietly fade from view.
+> **[3:36](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-technical-fixes-are-not-enough?u=76281980&t=216)** At the same time, other concerns, such as [[Privacy]] or different social values, quietly fade from view.
 >
-> **[3:46](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-technical-fixes-are-not-enough?u=76281980&t=226)** This is often called ethics washing, also known as ethical washing.
+> **[3:46](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-technical-fixes-are-not-enough?u=76281980&t=226)** This is often called [[Ethics]] washing, also known as ethical washing.
 >
-> **[3:52](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-technical-fixes-are-not-enough?u=76281980&t=232)** The term comes from greenwashing, where products are promoted as environmentally friendly even when they are not, using that language to create a positive image.
+> **[3:52](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-technical-fixes-are-not-enough?u=76281980&t=232)** The term comes from greenwashing, where [[Microsoft Products|products]] are promoted as environmentally friendly even when they are not, using that language to create a positive image.
 >
-> **[4:04](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-technical-fixes-are-not-enough?u=76281980&t=244)** In a similar way, AI services or systems may be presented as ethical, with claims that they address racial or other forms of bias.
+> **[4:04](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-technical-fixes-are-not-enough?u=76281980&t=244)** In a similar way, AI services or systems may be presented as ethical, with claims that they address racial or other [[Forms]] of bias.
 >
 > **[4:15](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-technical-fixes-are-not-enough?u=76281980&t=255)** But this can make it difficult to even ask whether using the system itself is appropriate.
 >
@@ -737,14 +728,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), data (5), [[Algorithms]] (2), [[Ethics]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Ethics]] (2), [[Privacy]] (1), [[Microsoft Products|Products]] (1), [[Forms]] (1)
 > **Analogies:** for example (2), such as (2)
 > **CLI Commands:** make (2)
 > **Definitions:** known as (1)
 > **Warnings:** be aware (1)
 
-#### Why AI bias is not a mistake
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-ai-bias-is-not-a-mistake?u=76281980)
+#### [Why AI bias is not a mistake](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-ai-bias-is-not-a-mistake?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -770,7 +760,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-ai-bias-is-not-a-mistake?u=76281980&t=71)** Now, beyond data, it is also important to decide how we want AI to make judgments or produce outputs.
 >
-> **[1:20](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-ai-bias-is-not-a-mistake?u=76281980&t=80)** This is where algorithms come in.
+> **[1:20](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-ai-bias-is-not-a-mistake?u=76281980&t=80)** This is where [[Algorithms]] come in.
 >
 > **[1:23](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-ai-bias-is-not-a-mistake?u=76281980&t=83)** An algorithm is essentially a procedure that tells AI what to learn and how to learn it.
 >
@@ -780,7 +770,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-ai-bias-is-not-a-mistake?u=76281980&t=102)** Let's stay with the hiring example.
 >
-> **[1:46](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-ai-bias-is-not-a-mistake?u=76281980&t=106)** In interviewing people, we ask different questions depending on whether we want a specialist or a generalist.
+> **[1:46](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-ai-bias-is-not-a-mistake?u=76281980&t=106)** In [[Interviewing]] people, we ask different questions depending on whether we want a specialist or a generalist.
 >
 > **[1:55](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-ai-bias-is-not-a-mistake?u=76281980&t=115)** In the same way, when we use AI to make decisions or generate outputs, we have to decide which algorithm to use, what questions to ask, and how to train the system.
 >
@@ -812,7 +802,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (18), data (3), [[Algorithms]] (1), [[Interviewing]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Interviewing]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (2)
@@ -822,8 +812,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What responsibility means in AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/what-responsibility-means-in-ai?u=76281980)
+#### [What responsibility means in AI](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/what-responsibility-means-in-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -849,7 +838,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/what-responsibility-means-in-ai?u=76281980&t=82)** For example, many of the AI systems we use today are developed in the United States.
 >
-> **[1:31](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/what-responsibility-means-in-ai?u=76281980&t=91)** In those cases, whether it is OpenAI, Microsoft, or Google, the same company often develops the technology and provides the service, so the developer and the provider are essentially the same.
+> **[1:31](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/what-responsibility-means-in-ai?u=76281980&t=91)** In those cases, whether it is OpenAI, [[Microsoft]], or [[Google]], the same company often develops the technology and provides the service, so the developer and the provider are essentially the same.
 >
 > **[1:49](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/what-responsibility-means-in-ai?u=76281980&t=109)** Because of that, when a problem occurs, it is relatively easy to contact the company directly and ask what is going on.
 >
@@ -887,18 +876,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), [[Microsoft]] (1), [[Google]] (1), data (1), power (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Google]] (1)
 > **Definitions:** is an  (1), means that (1)
 > **Analogies:** for example (2)
 
-#### How responsibility, accountability, and liability differ
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-responsibility-accountability-and-liability-differ?u=76281980)
+#### [How responsibility, accountability, and liability differ](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-responsibility-accountability-and-liability-differ?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:02](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-responsibility-accountability-and-liability-differ?u=76281980&t=2)** When an AI system or service causes harm or loss to users, we often say, who will take responsibility?
 >
-> **[0:13](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-responsibility-accountability-and-liability-differ?u=76281980&t=13)** In Japanese, we express this with the word, seikinin.
+> **[0:13](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-responsibility-accountability-and-liability-differ?u=76281980&t=13)** In Japanese, we express this with the [[Microsoft Word|word]], seikinin.
 >
 > **[0:20](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-responsibility-accountability-and-liability-differ?u=76281980&t=20)** In fact, this Japanese word has a very broad meaning, so it is important to look more closely at what it actually refers to.
 >
@@ -910,13 +898,13 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-responsibility-accountability-and-liability-differ?u=76281980&t=55)** This term is often used to describe the responsibility of developers.
 >
-> **[1:02](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-responsibility-accountability-and-liability-differ?u=76281980&t=62)** It refers to their moral and social duty to ensure that what they build works correctly and does not compromise safety, fairness, or privacy.
+> **[1:02](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-responsibility-accountability-and-liability-differ?u=76281980&t=62)** It refers to their moral and social duty to ensure that what they build works correctly and does not compromise safety, fairness, or [[Privacy]].
 >
 > **[1:13](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-responsibility-accountability-and-liability-differ?u=76281980&t=73)** In this context, the word usually does not imply legal responsibility.
 >
 > **[1:21](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-responsibility-accountability-and-liability-differ?u=76281980&t=81)** Instead, people make an effort because they feel a sense of social or ethical obligation.
 >
-> **[1:29](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-responsibility-accountability-and-liability-differ?u=76281980&t=89)** The second concept is accountability.
+> **[1:29](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-responsibility-accountability-and-liability-differ?u=76281980&t=89)** The second concept is [[Accountability]].
 >
 > **[1:32](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-responsibility-accountability-and-liability-differ?u=76281980&t=92)** In Japanese, this is often translated as 説明責任, or used directly as the loan word
 >
@@ -982,13 +970,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Accountability]] (10), [[Microsoft Word|Word]] (5), ai (3), express (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Accountability]] (10), [[Microsoft Word|Word]] (5), [[Privacy]] (1)
 > **Definitions:** refers to (3), in other words (1), is a  (1), is an  (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 
-#### Why explainability and transparency matter in AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-explainability-and-transparency-matter-in-ai?u=76281980)
+#### [Why explainability and transparency matter in AI](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-explainability-and-transparency-matter-in-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1012,7 +999,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-explainability-and-transparency-matter-in-ai?u=76281980&t=93)** To make that possible, we need to be able to interact with AI and understand what it is thinking.
 >
-> **[1:45](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-explainability-and-transparency-matter-in-ai?u=76281980&t=105)** At the same time, machine learning systems, especially deep learning, rely on extremely complex combinations of algorithms and training data and are often described as black boxes.
+> **[1:45](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-explainability-and-transparency-matter-in-ai?u=76281980&t=105)** At the same time, machine learning systems, especially [[Deep Learning]], rely on extremely complex combinations of [[Algorithms]] and training data and are often described as black boxes.
 >
 > **[2:00](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-explainability-and-transparency-matter-in-ai?u=76281980&t=120)** This means that even developers can no longer clearly explain how the AI reached a conclusion.
 >
@@ -1062,13 +1049,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (17), data (3), [[Deep Learning]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (1), [[Algorithms]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (1), picture (1), such as (1)
 > **Definitions:** means that (1)
 
-#### Why AI safety requires robustness
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-ai-safety-requires-robustness?u=76281980)
+#### [Why AI safety requires robustness](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-ai-safety-requires-robustness?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1124,7 +1110,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-ai-safety-requires-robustness?u=76281980&t=192)** To prevent this kind of situation, it's important to build AI that does not get misled, even when there is some noise or when people deliberately try to deceive it.
 >
-> **[3:25](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-ai-safety-requires-robustness?u=76281980&t=205)** In the area of generative AI, prompt injection has also become a topic of discussion.
+> **[3:25](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-ai-safety-requires-robustness?u=76281980&t=205)** In the area of [[Generative AI]], prompt injection has also become a topic of discussion.
 >
 > **[3:33](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-ai-safety-requires-robustness?u=76281980&t=213)** For example, when students are told to summarize a report, many now simply ask generative AI do it for them, saying something like, summarize this in 50 words.
 >
@@ -1152,18 +1138,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), [[Generative AI]] (3), prompt (1)
+> **Frameworks & Libraries:** [[Generative AI]] (3)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (3)
 > **Env Vars:** pdf (1)
 > **Warnings:** pitfall (1)
 
-#### How AI can be deceived
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-ai-can-be-deceived?u=76281980)
+#### [How AI can be deceived](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-ai-can-be-deceived?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-ai-can-be-deceived?u=76281980&t=0)** Many of you are probably using AI systems, especially conversational generative AI, because it's convenient.
+> **[0:00](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-ai-can-be-deceived?u=76281980&t=0)** Many of you are probably using AI systems, especially conversational [[Generative AI]], because it's convenient.
 >
 > **[0:10](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-ai-can-be-deceived?u=76281980&t=10)** When these systems first appeared, you could ask all kinds of questions, but the answers weren't very good.
 >
@@ -1171,7 +1156,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-ai-can-be-deceived?u=76281980&t=27)** For example, if you asked how to make a bomb or how to take your own life, the system might respond by saying, OK, and then explain how to do it.
 >
-> **[0:40](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-ai-can-be-deceived?u=76281980&t=40)** That clearly does not align with our sense of ethics or our values.
+> **[0:40](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-ai-can-be-deceived?u=76281980&t=40)** That clearly does not align with our sense of [[Ethics]] or our values.
 >
 > **[0:46](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-ai-can-be-deceived?u=76281980&t=46)** So even when asked those kinds of questions, AI systems have been retrained to respond in ways that reflect our values.
 >
@@ -1221,7 +1206,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), [[Security]] (6), [[Generative AI]] (2), [[Ethics]] (2)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Ethics]] (2)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (4)
 > **Definitions:** is called (1), refers to (1)
@@ -1232,8 +1217,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How misinformation and disinformation spread in the AI era
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-misinformation-and-disinformation-spread-in-the-ai-era?u=76281980)
+#### [How misinformation and disinformation spread in the AI era](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-misinformation-and-disinformation-spread-in-the-ai-era?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1245,7 +1229,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-misinformation-and-disinformation-spread-in-the-ai-era?u=76281980&t=35)** And as it gets passed from person to person, it can change and end up causing harm.
 >
-> **[0:43](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-misinformation-and-disinformation-spread-in-the-ai-era?u=76281980&t=43)** More recently, as generative AI has become more widespread, a major concern is how easily false or misleading information can now be created by almost anyone.
+> **[0:43](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-misinformation-and-disinformation-spread-in-the-ai-era?u=76281980&t=43)** More recently, as [[Generative AI]] has become more widespread, a major concern is how easily false or misleading information can now be created by almost anyone.
 >
 > **[0:55](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-misinformation-and-disinformation-spread-in-the-ai-era?u=76281980&t=55)** With just an app, people can now quickly and easily produce false information, fabricated texts or images and messages that attack or defame others, and in some cases, even videos.
 >
@@ -1303,24 +1287,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Generative AI]] (2)
+> **Frameworks & Libraries:** [[Generative AI]] (2)
 > **Analogies:** for example (4), such as (1)
 > **Definitions:** refers to (2), in other words (1), is an  (1)
 > **Warnings:** keep in mind (2)
 > **CLI Commands:** find (1)
 
-#### Why privacy becomes a critical issue
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-privacy-becomes-a-critical-issue?u=76281980)
+#### [Why privacy becomes a critical issue](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-privacy-becomes-a-critical-issue?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-privacy-becomes-a-critical-issue?u=76281980&t=1)** One of the risks we often hear about with AI is privacy.
+> **[0:01](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-privacy-becomes-a-critical-issue?u=76281980&t=1)** One of the risks we often hear about with AI is [[Privacy]].
 >
-> **[0:07](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-privacy-becomes-a-critical-issue?u=76281980&t=7)** The word privacy originally came up when newspapers like Yellow Journalism and many magazines started to circulate widely.
+> **[0:07](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-privacy-becomes-a-critical-issue?u=76281980&t=7)** The [[Microsoft Word|word]] privacy originally came up when newspapers like Yellow Journalism and many magazines started to circulate widely.
 >
 > **[0:16](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-privacy-becomes-a-critical-issue?u=76281980&t=16)** The concern was that famous people's private lives were being exposed without permission.
 >
-> **[0:24](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-privacy-becomes-a-critical-issue?u=76281980&t=24)** Then, as ways of sharing information moved from newspapers to the Internet and now into the age of generative AI, the way we think about what privacy means has changed along with technology.
+> **[0:24](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-privacy-becomes-a-critical-issue?u=76281980&t=24)** Then, as ways of sharing information moved from newspapers to the Internet and now into the age of [[Generative AI]], the way we think about what privacy means has changed along with technology.
 >
 > **[0:38](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-privacy-becomes-a-critical-issue?u=76281980&t=38)** In the Internet age, and more recently with generative AI, privacy has shifted from simply saying, don't expose my private life, just leave me alone, to a broader idea of privacy as a right to control your own information, and that way of thinking has become increasingly important.
 >
@@ -1362,12 +1345,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (10), [[Generative AI]] (3), ai (2), data (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (10), [[Generative AI]] (3), [[Microsoft Word|Word]] (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (1)
 
-#### How AI-based profiling works
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-ai-based-profiling-works?u=76281980)
+#### [How AI-based profiling works](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-ai-based-profiling-works?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1379,7 +1361,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-ai-based-profiling-works?u=76281980&t=22)** So we end up having little choice but to trust companies, or sometimes even governments, provide our information.
 >
-> **[0:31](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-ai-based-profiling-works?u=76281980&t=31)** So this isn't just about protecting our own information and privacy and being careful about that.
+> **[0:31](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-ai-based-profiling-works?u=76281980&t=31)** So this isn't just about protecting our own information and [[Privacy]] and being careful about that.
 >
 > **[0:39](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-ai-based-profiling-works?u=76281980&t=39)** I also want to talk about what can happen when the information we provide is used to label us without our knowledge and how that can lead to unfair discrimination or even surveillance.
 >
@@ -1419,7 +1401,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-ai-based-profiling-works?u=76281980&t=175)** So instead of using rough categories like Japanese men, it's now possible to profile people much more precisely.
 >
-> **[3:03](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-ai-based-profiling-works?u=76281980&t=183)** For example, someone who lives in Tokyo, went to a particular school, and buys certain products might be profiled as likely to prefer specific foods or certain areas.
+> **[3:03](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-ai-based-profiling-works?u=76281980&t=183)** For example, someone who lives in Tokyo, went to a particular school, and buys certain [[Microsoft Products|products]] might be profiled as likely to prefer specific foods or certain areas.
 >
 > **[3:15](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-ai-based-profiling-works?u=76281980&t=195)** And in some cases, this can even go as far as profiling a specific individual.
 >
@@ -1451,13 +1433,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), ai (3), next (2), [[Privacy]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** for example (3), such as (1)
 > **CLI Commands:** find (1)
 > **Definitions:** known as (1)
 
-#### What resurrection technologies ask us
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/what-resurrection-technologies-ask-us?u=76281980)
+#### [What resurrection technologies ask us](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/what-resurrection-technologies-ask-us?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1489,7 +1470,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/what-resurrection-technologies-ask-us?u=76281980&t=128)** The first key point is whether this truly reflects the wishes of the person who passed away.
 >
-> **[2:15](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/what-resurrection-technologies-ask-us?u=76281980&t=135)** There are also issues of likeness and privacy.
+> **[2:15](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/what-resurrection-technologies-ask-us?u=76281980&t=135)** There are also issues of likeness and [[Privacy]].
 >
 > **[2:18](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/what-resurrection-technologies-ask-us?u=76281980&t=138)** And above all, if something is created without that person's consent, they can no longer object or say, please don't do that.
 >
@@ -1541,14 +1522,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), data (6), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (1), imagine (1)
 > **Env Vars:** ceo (1)
 > **Definitions:** in other words (1)
 
-#### How AI changes the nature of work
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-ai-changes-the-nature-of-work?u=76281980)
+#### [How AI changes the nature of work](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-ai-changes-the-nature-of-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1584,7 +1564,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-ai-changes-the-nature-of-work?u=76281980&t=109)** It's probably not something that replaces important human judgment.
 >
-> **[1:55](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-ai-changes-the-nature-of-work?u=76281980&t=115)** That said, we've recently started to hear about AI agents that can carry out decisions without human involvement.
+> **[1:55](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-ai-changes-the-nature-of-work?u=76281980&t=115)** That said, we've recently started to hear about [[AI Agents]] that can carry out decisions without human involvement.
 >
 > **[2:04](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-ai-changes-the-nature-of-work?u=76281980&t=124)** This could become a game-changer, and what I'm saying here may soon feel outdated.
 >
@@ -1628,25 +1608,24 @@ created: 2026-05-02
 >
 > **[4:49](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-ai-changes-the-nature-of-work?u=76281980&t=289)** It's true that AI can allow people to work harder and increase productivity, but should AI really be used only to boost productivity?
 >
-> **[5:00](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-ai-changes-the-nature-of-work?u=76281980&t=300)** Shouldn't we also think about whether AI improves the quality of work or helps people rest and and feel less strained.
+> **[5:00](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-ai-changes-the-nature-of-work?u=76281980&t=300)** Shouldn't we also think about whether AI improves the quality of work or helps people [[Representational State Transfer (REST)|rest]] and and feel less strained.
 >
 > **[5:08](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-ai-changes-the-nature-of-work?u=76281980&t=308)** Rather than focusing only on productivity, economic growth, or profits, I think it's worth asking whether people are actually happier with the way AI is being used.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (25), next (1), game (1), data (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **Warnings:** be careful (1)
 
-#### Why AI governance is needed
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-ai-governance-is-needed?u=76281980)
+#### [Why AI governance is needed](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-ai-governance-is-needed?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-ai-governance-is-needed?u=76281980&t=1)** You've probably heard many times that AI comes with various risks.
 >
-> **[0:07](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-ai-governance-is-needed?u=76281980&t=7)** There are concerns around privacy, security, and fairness.
+> **[0:07](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-ai-governance-is-needed?u=76281980&t=7)** There are concerns around [[Privacy]], security, and fairness.
 >
 > **[0:12](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-ai-governance-is-needed?u=76281980&t=12)** When something goes wrong, the natural question is, who's responsible?
 >
@@ -1688,15 +1667,15 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-ai-governance-is-needed?u=76281980&t=166)** But overall, the focus has been on developing AI responsibly, sharing information, and ensuring transparency.
 >
-> **[2:54](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-ai-governance-is-needed?u=76281980&t=174)** And when problems do arise, there's an expectation of accountability and liability.
+> **[2:54](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-ai-governance-is-needed?u=76281980&t=174)** And when problems do arise, there's an expectation of [[Accountability]] and liability.
 >
-> **[3:01](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-ai-governance-is-needed?u=76281980&t=181)** Rather than fixing everything in law, this has led to a more agile form of governance.
+> **[3:01](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-ai-governance-is-needed?u=76281980&t=181)** Rather than fixing everything in law, this has led to a more [[Agile Development|agile]] form of governance.
 >
 > **[3:07](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-ai-governance-is-needed?u=76281980&t=187)** Laws are hard to change, but guidelines can be updated more easily, so the idea is to adjust those guidelines as issues arise and keep governance working in a flexible, ongoing way.
 >
 > **[3:21](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-ai-governance-is-needed?u=76281980&t=201)** Japan has also adopted this agile governance approach.
 >
-> **[3:26](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-ai-governance-is-needed?u=76281980&t=206)** such as the MIC, METI, the Cabinet Office, the MHLW in the medical field, and the
+> **[3:26](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-ai-governance-is-needed?u=76281980&t=206)** such as the MIC, METI, the Cabinet [[Microsoft Office|Office]], the MHLW in the medical field, and the
 >
 > **[3:34](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-ai-governance-is-needed?u=76281980&t=214)** MLIT in transportation have each developed their own guidelines.
 >
@@ -1724,24 +1703,23 @@ created: 2026-05-02
 >
 > **[5:20](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-ai-governance-is-needed?u=76281980&t=320)** In the same way, it would be desirable to have a certain level of interoperability not only in principles but also in guidelines, in other words, in what actually needs to be done.
 >
-> **[5:34](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-ai-governance-is-needed?u=76281980&t=334)** Because of that, discussions around AI governance today are focused on how to ensure this kind of interoperability.
+> **[5:34](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-ai-governance-is-needed?u=76281980&t=334)** Because of that, discussions around [[AI Governance]] today are focused on how to ensure this kind of interoperability.
 >
 > **[5:43](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-ai-governance-is-needed?u=76281980&t=343)** These discussions are moving forward among many countries, within groups like the G7 and G20, organizations such as the OECD, and also at the United Nations.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), [[Privacy]] (3), [[Security]] (2), [[Agile Development|Agile]] (2), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (3), [[Agile Development|Agile]] (2), [[Accountability]] (1), [[Microsoft Office|Office]] (1), [[AI Governance]] (1)
 > **Env Vars:** unesco (1), mic (1), meti (1), mhlw (1), mlit (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** make (2)
 > **Definitions:** in other words (2)
 
-#### Why dependency on AI is a growing risk
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-dependency-on-ai-is-a-growing-risk-36231028?u=76281980)
+#### [Why dependency on AI is a growing risk](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-dependency-on-ai-is-a-growing-risk-36231028?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:14](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-dependency-on-ai-is-a-growing-risk-36231028?u=76281980&t=14)** These days, generative AI has become easy for almost anyone to use, and people are starting to ask how we should actually use AI.
+> **[0:14](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-dependency-on-ai-is-a-growing-risk-36231028?u=76281980&t=14)** These days, [[Generative AI]] has become easy for almost anyone to use, and people are starting to ask how we should actually use AI.
 >
 > **[0:26](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-dependency-on-ai-is-a-growing-risk-36231028?u=76281980&t=26)** What people often talk about is using AI to look things up, for work or everyday life.
 >
@@ -1815,7 +1793,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (19), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 

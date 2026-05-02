@@ -105,28 +105,27 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using databases to level up your Python applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/using-databases-to-level-up-your-python-applications?u=76281980)
+#### [Using databases to level up your Python applications](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/using-databases-to-level-up-your-python-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/using-databases-to-level-up-your-python-applications?u=76281980&t=0)** - [Instructor] When creating Python programs, you'll likely want to populate data in an application automatically, or save data between user sessions.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/using-databases-to-level-up-your-python-applications?u=76281980&t=0)** - [Instructor] When creating [[Python (Programming Language)|Python]] programs, you'll likely want to populate data in an application automatically, or save data between user sessions.
 >
-> **[0:08](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/using-databases-to-level-up-your-python-applications?u=76281980&t=8)** Databases help you to do this.
+> **[0:08](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/using-databases-to-level-up-your-python-applications?u=76281980&t=8)** [[Databases]] help you to do this.
 >
 > **[0:10](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/using-databases-to-level-up-your-python-applications?u=76281980&t=10)** They provide an organized structure so you can easily access, store, and manage large amounts of data.
 >
-> **[0:18](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/using-databases-to-level-up-your-python-applications?u=76281980&t=18)** In this course, we'll look at how to use databases in Python 3, we'll create databases in SQLite, MySQL, and Postgres.
+> **[0:18](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/using-databases-to-level-up-your-python-applications?u=76281980&t=18)** In this course, we'll look at how to use databases in Python 3, we'll create databases in SQLite, [[MySQL]], and [[PostgreSQL|Postgres]].
 >
 > **[0:27](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/using-databases-to-level-up-your-python-applications?u=76281980&t=27)** Then we'll experiment with those databases using special Python modules that implement the Python database API, as well as an object relational mapping tool called SQLAlchemy.
 >
 > **[0:38](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/using-databases-to-level-up-your-python-applications?u=76281980&t=38)** Hi, my name is Kathryn Hodge and I'm a software engineer.
 >
-> **[0:42](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/using-databases-to-level-up-your-python-applications?u=76281980&t=42)** Join me in my LinkedIn learning course, all about working with databases and Python, so you can level up your Python applications.
+> **[0:42](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/using-databases-to-level-up-your-python-applications?u=76281980&t=42)** Join me in my [[LinkedIn]] learning course, all about working with databases and Python, so you can level up your Python applications.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Databases]] (5), data (3), application (1), [[MySQL]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Databases]] (5), [[MySQL]] (1), [[PostgreSQL|Postgres]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** python (6), mysql (1)
 > **Env Vars:** api (1)
 > **Versions:** python 3 (1)
@@ -137,8 +136,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a database?
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-a-database?u=76281980)
+#### [What is a database?](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-a-database?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -176,22 +174,21 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-a-database?u=76281980&t=86)** For your student names database, if you want to get a list of students that have a certain GPA, your database should be organized in a way that makes that functionality accessible.
 >
-> **[1:38](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-a-database?u=76281980&t=98)** Databases support storage of data, as well as manipulation of that data, so it makes sense that they require some kind of data to store as well as a way to organize that data so it's easy to manipulate.
+> **[1:38](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-a-database?u=76281980&t=98)** [[Databases]] support storage of data, as well as manipulation of that data, so it makes sense that they require some kind of data to store as well as a way to organize that data so it's easy to manipulate.
 >
 > **[1:53](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-a-database?u=76281980&t=113)** To add, remove, and access data in a database, we often use a special query language to talk to the database.
 >
-> **[2:01](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-a-database?u=76281980&t=121)** You may have heard of relational or non-relational databases, and we'll look at these in upcoming lessons, but they're different types of databases that organize data in different ways.
+> **[2:01](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-a-database?u=76281980&t=121)** You may have heard of relational or non-[[Relational Databases]], and we'll look at these in upcoming lessons, but they're different types of databases that organize data in different ways.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), database (12), [[Databases]] (2), [[Relational Databases]] (1)
+> **Frameworks & Libraries:** [[Databases]] (2), [[Relational Databases]] (1)
 > **Env Vars:** gpa (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Relational databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/relational-databases?u=76281980)
+#### [Relational databases](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/relational-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -241,13 +238,13 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/relational-databases?u=76281980&t=149)** The main thing to remember with the relational database is that we identify and access data in relation to other pieces of data, whether that's data in the same row or data across tables.
 >
-> **[2:43](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/relational-databases?u=76281980&t=163)** In order to create and update a relational database, we'll need to use a relational database management system or an RDBMS.
+> **[2:43](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/relational-databases?u=76281980&t=163)** In order to create and update a relational database, we'll need to use a relational [[Database Management]] system or an RDBMS.
 >
-> **[2:53](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/relational-databases?u=76281980&t=173)** This is a special type of program that allows us to work with relational databases.
+> **[2:53](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/relational-databases?u=76281980&t=173)** This is a special type of program that allows us to work with [[Relational Databases]].
 >
-> **[2:58](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/relational-databases?u=76281980&t=178)** You may have heard of them before, but some common examples of management systems are SQLite, MySQL, and Postgres, and we'll be working with all of these in Python in this course.
+> **[2:58](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/relational-databases?u=76281980&t=178)** You may have heard of them before, but some common examples of management systems are SQLite, [[MySQL]], and [[PostgreSQL|Postgres]], and we'll be working with all of these in [[Python (Programming Language)|Python]] in this course.
 >
-> **[3:12](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/relational-databases?u=76281980&t=192)** Many of these relational database management systems use the SQL language to access the database.
+> **[3:12](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/relational-databases?u=76281980&t=192)** Many of these relational database management systems use the [[SQL]] language to access the database.
 >
 > **[3:19](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/relational-databases?u=76281980&t=199)** SQL stands for Structured Query Language, and it's a language we can use to communicate with our database.
 >
@@ -263,7 +260,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/relational-databases?u=76281980&t=216)** SQL is not a programming language, and in fact, its syntax changes depending on which relational database system you use.
 >
-> **[3:46](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/relational-databases?u=76281980&t=226)** Since we'll be working with these databases in Python, there are a few ways we'll be able to connect to and manipulate our databases, including with SQL, but it can be useful to understand a few basic queries to grasp the bigger picture.
+> **[3:46](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/relational-databases?u=76281980&t=226)** Since we'll be working with these [[Databases]] in Python, there are a few ways we'll be able to connect to and manipulate our databases, including with SQL, but it can be useful to understand a few basic queries to grasp the bigger picture.
 >
 > **[4:03](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/relational-databases?u=76281980&t=243)** The first statement you should know is the SELECT statement.
 >
@@ -285,7 +282,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (19), data (16), [[SQL]] (6), management (3), [[Python (Programming Language)|Python]] (3)
+> **Frameworks & Libraries:** [[SQL]] (6), [[Python (Programming Language)|Python]] (3), [[Database Management]] (2), [[Databases]] (2), [[Relational Databases]] (1)
 > **Env Vars:** sql (6), gpa (4), select (3), rdbms (1)
 > **CLI Commands:** python (3), mysql (1)
 > **Definitions:** is a  (3), stands for (1)
@@ -294,12 +291,11 @@ created: 2026-05-02
 > **Versions:** 3.65 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Non-relational databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/non-relational-databases?u=76281980)
+#### [Non-relational databases](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/non-relational-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/non-relational-databases?u=76281980&t=0)** - [Instructor] Although we will not be working with non-relational databases in this course, it's important to understand what they are and how they differ from relational databases.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/non-relational-databases?u=76281980&t=0)** - [Instructor] Although we will not be working with non-[[Relational Databases]] in this course, it's important to understand what they are and how they differ from relational databases.
 >
 > **[0:12](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/non-relational-databases?u=76281980&t=12)** A non-relational database does not use tables and rows like a relational database.
 >
@@ -307,9 +303,9 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/non-relational-databases?u=76281980&t=24)** And the storage format can vary depending on the data.
 >
-> **[0:29](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/non-relational-databases?u=76281980&t=29)** For example, data may be organized and stored as JSON documents, key-value pairs, or as a graph with edges and vertices.
+> **[0:29](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/non-relational-databases?u=76281980&t=29)** For example, data may be organized and stored as [[JSON]] documents, key-value pairs, or as a graph with edges and vertices.
 >
-> **[0:41](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/non-relational-databases?u=76281980&t=41)** This type of database has grown in popularity to meet big data demands and handle unstructured diverse data that does not fit neatly into rows and columns.
+> **[0:41](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/non-relational-databases?u=76281980&t=41)** This type of database has grown in popularity to meet [[Big Data]] demands and handle unstructured diverse data that does not fit neatly into rows and columns.
 >
 > **[0:54](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/non-relational-databases?u=76281980&t=54)** There are four main types of non-relational databases.
 >
@@ -329,7 +325,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/non-relational-databases?u=76281980&t=118)** You can also query by specific fields contained inside.
 >
-> **[2:03](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/non-relational-databases?u=76281980&t=123)** MongoDB and DynamoDB are popular non-relational databases that support document database models.
+> **[2:03](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/non-relational-databases?u=76281980&t=123)** [[MongoDB]] and DynamoDB are popular non-relational databases that support document database models.
 >
 > **[2:11](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/non-relational-databases?u=76281980&t=131)** Another type of database is a columnar database.
 >
@@ -339,11 +335,11 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/non-relational-databases?u=76281980&t=155)** If this was organized as columns, I would list out the first column with all the IDs, then the column with all of the names, and so on.
 >
-> **[2:46](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/non-relational-databases?u=76281980&t=166)** With columnar databases, each row can also have a different set of columns.
+> **[2:46](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/non-relational-databases?u=76281980&t=166)** With columnar [[Databases]], each row can also have a different set of columns.
 >
 > **[2:53](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/non-relational-databases?u=76281980&t=173)** This is similar to what we saw with the document database earlier.
 >
-> **[2:57](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/non-relational-databases?u=76281980&t=177)** Cassandra is another popular non-relational database used with Python.
+> **[2:57](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/non-relational-databases?u=76281980&t=177)** Cassandra is another popular non-relational database used with [[Python (Programming Language)|Python]].
 >
 > **[3:03](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/non-relational-databases?u=76281980&t=183)** It's a cross between a key-value and columnar database.
 >
@@ -355,35 +351,34 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/non-relational-databases?u=76281980&t=210)** This is ideal for modeling small individual pieces of data with deeply interconnected and complex relationships.
 >
-> **[3:39](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/non-relational-databases?u=76281980&t=219)** Neo4j is a graph database often used with Python.
+> **[3:39](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/non-relational-databases?u=76281980&t=219)** [[Neo4j]] is a graph database often used with Python.
 >
-> **[3:44](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/non-relational-databases?u=76281980&t=224)** Now, you may have heard of non-relational databases referred to as NoSQL databases.
+> **[3:44](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/non-relational-databases?u=76281980&t=224)** Now, you may have heard of non-relational databases referred to as [[NoSQL]] databases.
 >
-> **[3:51](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/non-relational-databases?u=76281980&t=231)** The term NoSQL refers to not only SQL, meaning when querying the database, other programming languages and constructs are used.
+> **[3:51](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/non-relational-databases?u=76281980&t=231)** The term NoSQL refers to not only [[SQL]], meaning when querying the database, other programming languages and constructs are used.
 >
 > **[4:03](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/non-relational-databases?u=76281980&t=243)** In the following chapters and lessons, we'll be looking less at how databases work and more at how they can be used in a Python program with the Python programming language.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (16), data (11), [[Relational Databases]] (5), [[Databases]] (4), [[Python (Programming Language)|Python]] (4)
+> **Frameworks & Libraries:** [[Relational Databases]] (5), [[Databases]] (4), [[Python (Programming Language)|Python]] (4), [[JSON]] (2), [[NoSQL]] (2)
 > **Definitions:** is a  (4), refers to (1)
 > **CLI Commands:** python (4)
 > **Env Vars:** json (2), xml (1), sql (1)
 > **Analogies:** for example (1), similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Python Database API
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/python-database-api?u=76281980)
+#### [Python Database API](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/python-database-api?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/python-database-api?u=76281980&t=0)** - [Instructor] In order to access and use a database in Python we'll often use the given database's module.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/python-database-api?u=76281980&t=0)** - [Instructor] In order to access and use a database in [[Python (Programming Language)|Python]] we'll often use the given database's module.
 >
-> **[0:08](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/python-database-api?u=76281980&t=8)** These modules could have completely different syntax for how we interact with them, but since there are so many different database management systems Python has created a common specification to follow so that programmers can manage their databases.
+> **[0:08](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/python-database-api?u=76281980&t=8)** These modules could have completely different syntax for how we interact with them, but since there are so many different [[Database Management]] systems Python has created a common specification to follow so that programmers can manage their [[Databases]].
 >
 > **[0:26](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/python-database-api?u=76281980&t=26)** This specification is called the Python Database API and it encourages conformity between the Python modules that are used to access databases.
 >
-> **[0:38](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/python-database-api?u=76281980&t=38)** This allows code to be more transferrable across databases and broaden the database systems used in Python.
+> **[0:38](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/python-database-api?u=76281980&t=38)** This allows code to be more transferrable across databases and broaden the [[Database Systems]] used in Python.
 >
 > **[0:46](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/python-database-api?u=76281980&t=46)** Nearly all Python database modules conform to this interface, so once you learn how to use databases with one module it's easy to pick up and understand code from others.
 >
@@ -405,7 +400,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/python-database-api?u=76281980&t=126)** We can execute certain commands that insert, delete, or manipulate our data.
 >
-> **[2:12](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/python-database-api?u=76281980&t=132)** We can fetch data with fetch one, which returns one row of data or fetch more data with fetch many or fetch all.
+> **[2:12](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/python-database-api?u=76281980&t=132)** We can [[Fetch]] data with fetch one, which returns one row of data or fetch more data with fetch many or fetch all.
 >
 > **[2:21](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/python-database-api?u=76281980&t=141)** Since many databases have a strict set of types for their data, a given module must provide constructors for objects that hold special values.
 >
@@ -419,7 +414,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (18), [[Python (Programming Language)|Python]] (11), data (6), [[Databases]] (5), api (5)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (11), [[Databases]] (5), [[Fetch]] (5), [[Database Management]] (1), [[Database Systems]] (1)
 > **CLI Commands:** python (11)
 > **Env Vars:** api (5)
 > **Documentation:** specification (5)
@@ -432,18 +427,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is SQLite?
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-sqlite?u=76281980)
+#### [What is SQLite?](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-sqlite?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-sqlite?u=76281980&t=0)** - [Instructor] One relational database management system is called SQLite, and we can use it with the sqlite3 module in Python.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-sqlite?u=76281980&t=0)** - [Instructor] One relational [[Database Management]] system is called SQLite, and we can use it with the sqlite3 module in [[Python (Programming Language)|Python]].
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-sqlite?u=76281980&t=9)** This provides an interface that is compliant with the Python database API specification.
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-sqlite?u=76281980&t=15)** The lite in SQLite means the management system is light in terms of setup, administration, and resources.
 >
-> **[0:23](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-sqlite?u=76281980&t=23)** Unlike other databases, SQLite does not require a server to run.
+> **[0:23](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-sqlite?u=76281980&t=23)** Unlike other [[Databases]], SQLite does not require a server to run.
 >
 > **[0:29](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-sqlite?u=76281980&t=29)** Normally, an RDBMS requires a server to run where the database lives and the application communicates with the remote database.
 >
@@ -475,7 +469,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (10), application (3), management (2), [[Python (Programming Language)|Python]] (2), api (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Database Management]] (1), [[Databases]] (1)
 > **Env Vars:** acid (4), api (1), rdbms (1)
 > **CLI Commands:** python (2), sqlite3 (1)
 > **Definitions:** is called (1), is a  (1), stands for (1)
@@ -484,12 +478,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating an SQLite database
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-an-sqlite-database?u=76281980)
+#### [Creating an SQLite database](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-an-sqlite-database?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-an-sqlite-database?u=76281980&t=0)** - Let's create a SQLite3 database in Python.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-an-sqlite-database?u=76281980&t=0)** - Let's create a SQLite3 database in [[Python (Programming Language)|Python]].
 >
 > **[0:04](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-an-sqlite-database?u=76281980&t=4)** First, we'll open up our Python file.
 >
@@ -501,7 +494,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-an-sqlite-database?u=76281980&t=22)** This module follows the Python database API specification, so we'll grab a connection object with the connect function.
 >
-> **[0:31](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-an-sqlite-database?u=76281980&t=31)** Since we haven't created any databases yet, this connect function will create the database.
+> **[0:31](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-an-sqlite-database?u=76281980&t=31)** Since we haven't created any [[Databases]] yet, this connect function will create the database.
 >
 > **[0:38](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-an-sqlite-database?u=76281980&t=38)** The next time we run this function, connect will just connect us with the already created movies database.
 >
@@ -515,7 +508,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-an-sqlite-database?u=76281980&t=69)** We'll write the command in triple quotes.
 >
-> **[1:12](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-an-sqlite-database?u=76281980&t=72)** A SQL command will be used to create the table.
+> **[1:12](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-an-sqlite-database?u=76281980&t=72)** A [[SQL]] command will be used to create the table.
 >
 > **[1:17](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-an-sqlite-database?u=76281980&t=77)** To create a table in SQL, we'll write CREATE TABLE IF NOT EXISTS.
 >
@@ -573,7 +566,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (14), [[Python (Programming Language)|Python]] (6), data (4), [[Databases]] (2), next (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Databases]] (2), [[SQL]] (2)
 > **CLI Commands:** python (6), sqlite3 (2), python3 (1), ls (1)
 > **Env Vars:** sql (2), int (2), api (1), create (1), table (1)
 > **File Paths:** app.py (3)
@@ -582,8 +575,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - let (1)
 
-#### Inserting your first record into an SQLite database
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/inserting-your-first-record-into-an-sqlite-database?u=76281980)
+#### [Inserting your first record into an SQLite database](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/inserting-your-first-record-into-an-sqlite-database?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -591,7 +583,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/inserting-your-first-record-into-an-sqlite-database?u=76281980&t=6)** For the first entry, we'll add Martin Scorsese's Taxi Driver.
 >
-> **[0:12](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/inserting-your-first-record-into-an-sqlite-database?u=76281980&t=12)** We'll use the execute function on the cursor and an insert SQL command to insert the data.
+> **[0:12](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/inserting-your-first-record-into-an-sqlite-database?u=76281980&t=12)** We'll use the execute function on the cursor and an insert [[SQL]] command to insert the data.
 >
 > **[0:19](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/inserting-your-first-record-into-an-sqlite-database?u=76281980&t=19)** We'll insert this data into the Movies table where the values are Taxi Driver for the title, Martin Scorsese for the director, and 1976 for the year.
 >
@@ -603,9 +595,9 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/inserting-your-first-record-into-an-sqlite-database?u=76281980&t=54)** We'll select everything from the Movies table.
 >
-> **[0:59](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/inserting-your-first-record-into-an-sqlite-database?u=76281980&t=59)** We've selected the data, but to actually retrieve it in Python, we have a few options.
+> **[0:59](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/inserting-your-first-record-into-an-sqlite-database?u=76281980&t=59)** We've selected the data, but to actually retrieve it in [[Python (Programming Language)|Python]], we have a few options.
 >
-> **[1:05](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/inserting-your-first-record-into-an-sqlite-database?u=76281980&t=65)** First, we can use the fetch one function to retrieve a single row.
+> **[1:05](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/inserting-your-first-record-into-an-sqlite-database?u=76281980&t=65)** First, we can use the [[Fetch]] one function to retrieve a single row.
 >
 > **[1:11](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/inserting-your-first-record-into-an-sqlite-database?u=76281980&t=71)** Another option is to iterate through everything resulting from the execute statement.
 >
@@ -637,15 +629,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), data (4), [[Python (Programming Language)|Python]] (3), [[Fetch]] (3), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Fetch]] (3), [[SQL]] (1)
 > **CLI Commands:** python (3), python3 (1)
 > **File Paths:** app.py (1)
 > **Env Vars:** sql (1)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding multiple records at a time to an SQLite database
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/adding-multiple-records-at-a-time-to-an-sqlite-database?u=76281980)
+#### [Adding multiple records at a time to an SQLite database](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/adding-multiple-records-at-a-time-to-an-sqlite-database?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -685,7 +676,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/adding-multiple-records-at-a-time-to-an-sqlite-database?u=76281980&t=90)** Since we're using the same movies.db file as before, we should also see Martin Scorsese's "Taxi Driver" with this select statement.
 >
-> **[1:42](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/adding-multiple-records-at-a-time-to-an-sqlite-database?u=76281980&t=102)** To iterate through all of the matching results or the results of this sequel statement, we can call the fetch all function.
+> **[1:42](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/adding-multiple-records-at-a-time-to-an-sqlite-database?u=76281980&t=102)** To iterate through all of the matching results or the results of this sequel statement, we can call the [[Fetch]] all function.
 >
 > **[1:51](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/adding-multiple-records-at-a-time-to-an-sqlite-database?u=76281980&t=111)** Now, it's important to remember that the cursor acts as a pointer for looking at the returned data.
 >
@@ -711,14 +702,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), data (5), [[Fetch]] (2)
+> **Frameworks & Libraries:** [[Fetch]] (2)
 > **File Paths:** app.py (2)
 > **CLI Commands:** python3 (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Filtering records in an SQLite database
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/filtering-records-in-an-sqlite-database?u=76281980)
+#### [Filtering records in an SQLite database](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/filtering-records-in-an-sqlite-database?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -742,7 +732,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/filtering-records-in-an-sqlite-database?u=76281980&t=49)** In our case, that's 1985.
 >
-> **[0:52](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/filtering-records-in-an-sqlite-database?u=76281980&t=52)** With this statement, we use SQL to select all of the movies and then filter by release year.
+> **[0:52](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/filtering-records-in-an-sqlite-database?u=76281980&t=52)** With this statement, we use [[SQL]] to select all of the movies and then filter by release year.
 >
 > **[0:59](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/filtering-records-in-an-sqlite-database?u=76281980&t=59)** Since this is the execute function and the tuple is the second parameter, this will only be executed one time.
 >
@@ -752,13 +742,13 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/filtering-records-in-an-sqlite-database?u=76281980&t=79)** It makes your program vulnerable to a SQL injection attack.
 >
-> **[1:23](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/filtering-records-in-an-sqlite-database?u=76281980&t=83)** If you need to use values from Python variables and your SQL statements, this is the way to do it.
+> **[1:23](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/filtering-records-in-an-sqlite-database?u=76281980&t=83)** If you need to use values from [[Python (Programming Language)|Python]] variables and your SQL statements, this is the way to do it.
 >
 > **[1:30](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/filtering-records-in-an-sqlite-database?u=76281980&t=90)** Use the question mark placeholder and provide a tuple of values as the second argument, in the execute or execute many function, just like we've done here.
 >
 > **[1:41](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/filtering-records-in-an-sqlite-database?u=76281980&t=101)** Let's retrieve the data returned by the select statement.
 >
-> **[1:45](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/filtering-records-in-an-sqlite-database?u=76281980&t=105)** We'll print cursor fetch all.
+> **[1:45](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/filtering-records-in-an-sqlite-database?u=76281980&t=105)** We'll print cursor [[Fetch]] all.
 >
 > **[1:48](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/filtering-records-in-an-sqlite-database?u=76281980&t=108)** This will return all the movies that were released in 1985.
 >
@@ -780,21 +770,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (9), data (2), [[Python (Programming Language)|Python]] (2), [[Fetch]] (1), database (1)
+> **Frameworks & Libraries:** [[SQL]] (9), [[Python (Programming Language)|Python]] (2), [[Fetch]] (1)
 > **Env Vars:** sql (9)
 > **CLI Commands:** python (2), make (1)
 > **File Paths:** app.py (2)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is SQLAlchemy?
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-sqlalchemy?u=76281980)
+#### [What is SQLAlchemy?](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-sqlalchemy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-sqlalchemy?u=76281980&t=0)** - [Instructor] Sometimes, writing SQL queries in Python code can seem a little out of place.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-sqlalchemy?u=76281980&t=0)** - [Instructor] Sometimes, writing [[SQL]] queries in [[Python (Programming Language)|Python]] code can seem a little out of place.
 >
-> **[0:06](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-sqlalchemy?u=76281980&t=6)** That's why many Python developers use an object-relational mapping tool, or an ORM, to work with databases in a more Pythonic way.
+> **[0:06](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-sqlalchemy?u=76281980&t=6)** That's why many Python developers use an object-relational mapping tool, or an ORM, to work with [[Databases]] in a more Pythonic way.
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-sqlalchemy?u=76281980&t=15)** ORMs allow you to work with Python or your language of choice instead of SQL to query and manipulate data in your databases.
 >
@@ -802,9 +791,9 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-sqlalchemy?u=76281980&t=30)** Various libraries implement this functionality and overall concept.
 >
-> **[0:35](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-sqlalchemy?u=76281980&t=35)** And SQLAlchemy is one of the most popular ones for relational databases.
+> **[0:35](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-sqlalchemy?u=76281980&t=35)** And SQLAlchemy is one of the most popular ones for [[Relational Databases]].
 >
-> **[0:41](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-sqlalchemy?u=76281980&t=41)** SQLAlchemy also works with varying web frameworks, including Flask, and databases such as SQLite, MySQL, and Postgres, which is why we're focusing on it in this course.
+> **[0:41](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-sqlalchemy?u=76281980&t=41)** SQLAlchemy also works with varying web frameworks, including Flask, and databases such as SQLite, [[MySQL]], and [[PostgreSQL|Postgres]], which is why we're focusing on it in this course.
 >
 > **[0:54](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-sqlalchemy?u=76281980&t=54)** Even if your Python script is just a data analysis tool that interacts with the database, you can still use SQLAlchemy.
 >
@@ -858,7 +847,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (12), database (8), [[Python (Programming Language)|Python]] (6), [[Databases]] (3), data (3)
+> **Frameworks & Libraries:** [[SQL]] (12), [[Python (Programming Language)|Python]] (6), [[Databases]] (3), [[Relational Databases]] (2), [[MySQL]] (1)
 > **Env Vars:** orm (13), sql (12)
 > **CLI Commands:** python (6), mysql (1), make (1)
 > **Versions:** 2.0 (3)
@@ -866,17 +855,15 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up a virtual environment for SQLAlchemy
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/setting-up-a-virtual-environment-for-sqlalchemy?u=76281980)
+#### [Setting up a virtual environment for SQLAlchemy](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/setting-up-a-virtual-environment-for-sqlalchemy?u=76281980)
 
-#### Executing a SQL query with SQLAlchemy
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/executing-a-sql-query-with-sqlalchemy?u=76281980)
+#### [Executing a SQL query with SQLAlchemy](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/executing-a-sql-query-with-sqlalchemy?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/executing-a-sql-query-with-sqlalchemy?u=76281980&t=0)** - [Instructor] With SQLAlchemy ready to go, let's import the data from our movies database.
 >
-> **[0:06](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/executing-a-sql-query-with-sqlalchemy?u=76281980&t=6)** Inside of our folder, we have a movies.db file and a Python file named database.py.
+> **[0:06](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/executing-a-sql-query-with-sqlalchemy?u=76281980&t=6)** Inside of our folder, we have a movies.db file and a [[Python (Programming Language)|Python]] file named database.py.
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/executing-a-sql-query-with-sqlalchemy?u=76281980&t=15)** Let's open this Python file.
 >
@@ -884,7 +871,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/executing-a-sql-query-with-sqlalchemy?u=76281980&t=25)** To use SQLAlchemy, we'll write import sqlalchemy.
 >
-> **[0:30](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/executing-a-sql-query-with-sqlalchemy?u=76281980&t=30)** In this example, we'll be using SQLAlchemy Core to run SQL statements against the database.
+> **[0:30](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/executing-a-sql-query-with-sqlalchemy?u=76281980&t=30)** In this example, we'll be using SQLAlchemy Core to run [[SQL]] statements against the database.
 >
 > **[0:38](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/executing-a-sql-query-with-sqlalchemy?u=76281980&t=38)** Later on in the course, we'll experiment with the SQL expression language and the ORM.
 >
@@ -908,7 +895,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/executing-a-sql-query-with-sqlalchemy?u=76281980&t=102)** The engine allows your application to have multiple database connections, and it manages those connections.
 >
-> **[1:49](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/executing-a-sql-query-with-sqlalchemy?u=76281980&t=109)** From the engine, we can create a connection with which we can run database queries on.
+> **[1:49](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/executing-a-sql-query-with-sqlalchemy?u=76281980&t=109)** From the engine, we can create a connection with which we can run [[Database Queries]] on.
 >
 > **[1:56](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/executing-a-sql-query-with-sqlalchemy?u=76281980&t=116)** To create a connection, we'll use the engine's connect method.
 >
@@ -964,7 +951,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (19), [[Python (Programming Language)|Python]] (7), data (5), [[SQL]] (3), api (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[SQL]] (3), [[Database Queries]] (1)
 > **Env Vars:** sql (3), api (2), select (2), orm (1)
 > **CLI Commands:** python (7)
 > **File Paths:** database.py (2)
@@ -973,12 +960,11 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the SQL expression language to write maintainable code
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/using-the-sql-expression-language-to-write-maintainable-code?u=76281980)
+#### [Using the SQL expression language to write maintainable code](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/using-the-sql-expression-language-to-write-maintainable-code?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/using-the-sql-expression-language-to-write-maintainable-code?u=76281980&t=0)** - [Instructor] The real benefit of SQLAlchemy comes when you begin to use tools like the SQL expression language.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/using-the-sql-expression-language-to-write-maintainable-code?u=76281980&t=0)** - [Instructor] The real benefit of SQLAlchemy comes when you begin to use tools like the [[SQL]] expression language.
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/using-the-sql-expression-language-to-write-maintainable-code?u=76281980&t=8)** You can use it to make your code easier to read as you query a database.
 >
@@ -986,7 +972,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/using-the-sql-expression-language-to-write-maintainable-code?u=76281980&t=15)** We start off with the same import statement and engine as before.
 >
-> **[0:20](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/using-the-sql-expression-language-to-write-maintainable-code?u=76281980&t=20)** The first thing that's different is we need to create a metadata object.
+> **[0:20](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/using-the-sql-expression-language-to-write-maintainable-code?u=76281980&t=20)** The first thing that's different is we need to create a [[Metadata]] object.
 >
 > **[0:25](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/using-the-sql-expression-language-to-write-maintainable-code?u=76281980&t=25)** This metadata object will keep track of the different tables we work with.
 >
@@ -1026,7 +1012,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/using-the-sql-expression-language-to-write-maintainable-code?u=76281980&t=129)** We'll navigate to the terminal window and our SQLAlchemy workspace is already activated.
 >
-> **[2:16](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/using-the-sql-expression-language-to-write-maintainable-code?u=76281980&t=136)** We're also in the folder with our movies.db file and our Python script.
+> **[2:16](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/using-the-sql-expression-language-to-write-maintainable-code?u=76281980&t=136)** We're also in the folder with our movies.db file and our [[Python (Programming Language)|Python]] script.
 >
 > **[2:23](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/using-the-sql-expression-language-to-write-maintainable-code?u=76281980&t=143)** Let's run python3 database.py.
 >
@@ -1042,7 +1028,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Metadata]] (6), database (4), [[SQL]] (3), [[Python (Programming Language)|Python]] (1), application (1)
+> **Frameworks & Libraries:** [[Metadata]] (6), [[SQL]] (3), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (1), python (1), python3 (1)
 > **Env Vars:** sql (3)
 > **File Paths:** database.py (1), sqlalchemy.txt (1)
@@ -1051,8 +1037,7 @@ created: 2026-05-02
 > **UI Navigation:** navigate to (1)
 > **Definitions:** is a  (1)
 
-#### Challenge: Create an SQLite database
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/challenge-create-an-sqlite-database?u=76281980)
+#### [Challenge: Create an SQLite database](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/challenge-create-an-sqlite-database?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1066,7 +1051,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/challenge-create-an-sqlite-database?u=76281980&t=43)** You may need to do some research to figure out how to do this query.
 >
-> **[0:47](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/challenge-create-an-sqlite-database?u=76281980&t=47)** For this challenge, you may use the sqlite3 module with SQL statements or you can use SQLAlchemy to create a database and query for data.
+> **[0:47](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/challenge-create-an-sqlite-database?u=76281980&t=47)** For this challenge, you may use the sqlite3 module with [[SQL]] statements or you can use SQLAlchemy to create a database and query for data.
 >
 > **[0:59](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/challenge-create-an-sqlite-database?u=76281980&t=59)** The next lesson will give examples to both types of solutions.
 >
@@ -1074,21 +1059,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), data (2), [[SQL]] (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **CLI Commands:** sqlite3 (1)
 > **URLs:** [gmail.com](https://gmail.com) (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Create an SQLite database
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/solution-create-an-sqlite-database?u=76281980)
+#### [Solution: Create an SQLite database](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/solution-create-an-sqlite-database?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/solution-create-an-sqlite-database?u=76281980&t=0)** - Let's walk through the SQLite 3 module version first.
 >
-> **[0:10](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/solution-create-an-sqlite-database?u=76281980&t=10)** Remember, the goal is to create a SQLite database using Python.
+> **[0:10](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/solution-create-an-sqlite-database?u=76281980&t=10)** Remember, the goal is to create a SQLite database using [[Python (Programming Language)|Python]].
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/solution-create-an-sqlite-database?u=76281980&t=15)** I may have done it differently than you, and that's okay.
 >
@@ -1160,7 +1144,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/solution-create-an-sqlite-database?u=76281980&t=182)** This will have all the data that we just inserted.
 >
-> **[3:07](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/solution-create-an-sqlite-database?u=76281980&t=187)** Now let's walk through the SQL Alchemy version.
+> **[3:07](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/solution-create-an-sqlite-database?u=76281980&t=187)** Now let's walk through the [[SQL]] Alchemy version.
 >
 > **[3:10](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/solution-create-an-sqlite-database?u=76281980&t=190)** We'll go to version2 and open up the database.py file.
 >
@@ -1208,7 +1192,7 @@ created: 2026-05-02
 >
 > **[5:04](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/solution-create-an-sqlite-database?u=76281980&t=304)** Then we represent the table in Python.
 >
-> **[5:08](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/solution-create-an-sqlite-database?u=76281980&t=308)** We create the metadata object and a table object with the name users.
+> **[5:08](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/solution-create-an-sqlite-database?u=76281980&t=308)** We create the [[Metadata]] object and a table object with the name users.
 >
 > **[5:14](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/solution-create-an-sqlite-database?u=76281980&t=314)** We also add in the appropriate columns.
 >
@@ -1240,7 +1224,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (18), data (11), [[SQL]] (9), [[Python (Programming Language)|Python]] (4), next (2)
+> **Frameworks & Libraries:** [[SQL]] (9), [[Python (Programming Language)|Python]] (4), [[Metadata]] (2)
 > **Env Vars:** sql (9), api (1)
 > **CLI Commands:** python (4), make (1), cd (1)
 > **File Paths:** database.py (4)
@@ -1254,12 +1238,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is MySQL?
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-mysql?u=76281980)
+#### [What is MySQL?](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-mysql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-mysql?u=76281980&t=0)** - [Instructor] Another relational database engine is MySQL and it's actually one of the most popular relational database management systems used with Python.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-mysql?u=76281980&t=0)** - [Instructor] Another relational database engine is [[MySQL]] and it's actually one of the most popular relational [[Database Management]] systems used with [[Python (Programming Language)|Python]].
 >
 > **[0:11](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-mysql?u=76281980&t=11)** Similar to SQLite, it uses a relational model with tables to describe relationships between its data, but instead of being contained directly on the file system, your database lives on a server.
 >
@@ -1267,7 +1250,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-mysql?u=76281980&t=30)** This means your database lives on a server and any time you want to make changes to your database, you send a request to the server.
 >
-> **[0:40](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-mysql?u=76281980&t=40)** The request contains your SQL statement or instructions for the modification or selection.
+> **[0:40](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-mysql?u=76281980&t=40)** The request contains your [[SQL]] statement or instructions for the modification or selection.
 >
 > **[0:48](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-mysql?u=76281980&t=48)** Once received, the server accepts that request, performs the action, and sends a response back to the client with the results.
 >
@@ -1287,7 +1270,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-mysql?u=76281980&t=101)** Many RDBMSs use SQL, but one RDBMS would not use another.
 >
-> **[1:49](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-mysql?u=76281980&t=109)** MySQL was designed with speed and ease of use in mind, which is why it's one of the more popular relational databases.
+> **[1:49](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-mysql?u=76281980&t=109)** MySQL was designed with speed and ease of use in mind, which is why it's one of the more popular [[Relational Databases]].
 >
 > **[1:58](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-mysql?u=76281980&t=118)** But with speed as a priority, it comes with certain functional limitations.
 >
@@ -1301,7 +1284,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-mysql?u=76281980&t=160)** It's also known for powering many websites and applications across the internet because it's easy to install, run and scale.
 >
-> **[2:50](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-mysql?u=76281980&t=170)** Similar to other databases, MySQL has compatible graphical user interfaces or GUIs we can use to interact with the database.
+> **[2:50](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-mysql?u=76281980&t=170)** Similar to other [[Databases]], MySQL has compatible graphical user interfaces or GUIs we can use to interact with the database.
 >
 > **[3:01](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-mysql?u=76281980&t=181)** We can also interact with MySQL databases in custom-built Python applications as well.
 >
@@ -1325,7 +1308,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (18), [[MySQL]] (16), [[Python (Programming Language)|Python]] (11), [[SQL]] (6), [[Databases]] (4)
+> **Frameworks & Libraries:** [[MySQL]] (16), [[Python (Programming Language)|Python]] (11), [[SQL]] (6), [[Databases]] (4), [[Database Management]] (2)
 > **CLI Commands:** mysql (16), python (11), make (1)
 > **Env Vars:** sql (6), orm (2), rdbms (1), gui (1)
 > **Analogies:** similar to (4), such as (2)
@@ -1334,12 +1317,11 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a MySQL database
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-a-mysql-database?u=76281980)
+#### [Creating a MySQL database](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-a-mysql-database?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-a-mysql-database?u=76281980&t=0)** - [Instructor] Before we can use MySQL, we need to install the community edition.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-a-mysql-database?u=76281980&t=0)** - [Instructor] Before we can use [[MySQL]], we need to install the community edition.
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-a-mysql-database?u=76281980&t=5)** We'll download it here.
 >
@@ -1369,7 +1351,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-a-mysql-database?u=76281980&t=63)** Then, we'll add the path where MySQL is located.
 >
-> **[1:08](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-a-mysql-database?u=76281980&t=68)** This may differ if you're on Windows.
+> **[1:08](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-a-mysql-database?u=76281980&t=68)** This may differ if you're on [[Windows]].
 >
 > **[1:12](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-a-mysql-database?u=76281980&t=72)** To write out, we'll use Control O and hit enter.
 >
@@ -1377,7 +1359,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-a-mysql-database?u=76281980&t=81)** Then, to set it with our system, we'll write source dot zshrc.
 >
-> **[1:30](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-a-mysql-database?u=76281980&t=90)** With this updated, let's restart our terminal and try running the sql command again.
+> **[1:30](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-a-mysql-database?u=76281980&t=90)** With this updated, let's restart our terminal and try running the [[SQL]] command again.
 >
 > **[1:38](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-a-mysql-database?u=76281980&t=98)** Let's log in to the MySQL shell.
 >
@@ -1413,7 +1395,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MySQL]] (7), database (6), [[Windows]] (2), [[SQL]] (2), cd (1)
+> **Frameworks & Libraries:** [[MySQL]] (7), [[Windows]] (2), [[SQL]] (2)
 > **CLI Commands:** mysql (7), sudo (2), cd (1)
 > **Tools:** terminal (3), command line (1), zsh (1)
 > **Env Vars:** shell (1), create (1), database (1)
@@ -1421,12 +1403,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building tables in a MySQL database
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/building-tables-in-a-mysql-database?u=76281980)
+#### [Building tables in a MySQL database](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/building-tables-in-a-mysql-database?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/building-tables-in-a-mysql-database?u=76281980&t=0)** - [Instructor] With our project's database created and our terminal logged into the MySQL shell, we can begin adding data to our database.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/building-tables-in-a-mysql-database?u=76281980&t=0)** - [Instructor] With our project's database created and our terminal logged into the [[MySQL]] shell, we can begin adding data to our database.
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/building-tables-in-a-mysql-database?u=76281980&t=9)** First, we'll use the projects database.
 >
@@ -1482,7 +1463,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), data (2), [[MySQL]] (1)
+> **Frameworks & Libraries:** [[MySQL]] (1)
 > **Env Vars:** varchar (3), create (2), table (2)
 > **SQL:** varchar (3), create table (2)
 > **CLI Commands:** mysql (1)
@@ -1490,12 +1471,11 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding data to a MySQL database
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/adding-data-to-a-mysql-database?u=76281980)
+#### [Adding data to a MySQL database](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/adding-data-to-a-mysql-database?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/adding-data-to-a-mysql-database?u=76281980&t=0)** - [Instructor] Before we move on to working with MySQL and Python, let's add a few items to this database.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/adding-data-to-a-mysql-database?u=76281980&t=0)** - [Instructor] Before we move on to working with [[MySQL]] and [[Python (Programming Language)|Python]], let's add a few items to this database.
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/adding-data-to-a-mysql-database?u=76281980&t=8)** We'll create a project and two tasks for the project.
 >
@@ -1555,7 +1535,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/adding-data-to-a-mysql-database?u=76281980&t=167)** SQLite does have a shell program that you can run that's very similar to this.
 >
-> **[2:53](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/adding-data-to-a-mysql-database?u=76281980&t=173)** The main difference is the way our SQL is written and the fact our MySQL database is running on a local server, local host, rather than just located in the file system.
+> **[2:53](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/adding-data-to-a-mysql-database?u=76281980&t=173)** The main difference is the way our [[SQL]] is written and the fact our MySQL database is running on a local server, local host, rather than just located in the file system.
 >
 > **[3:06](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/adding-data-to-a-mysql-database?u=76281980&t=186)** Furthermore, everything we've done here can be done in Python.
 >
@@ -1565,7 +1545,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), [[MySQL]] (3), [[Python (Programming Language)|Python]] (2), data (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[MySQL]] (3), [[Python (Programming Language)|Python]] (2), [[SQL]] (1)
 > **CLI Commands:** mysql (3), python (2), make (1)
 > **Analogies:** such as (1), similar to (1)
 > **Code Identifiers:** iphone (1)
@@ -1573,12 +1553,11 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Connecting a Python application to a MySQL database
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/connecting-a-python-application-to-a-mysql-database?u=76281980)
+#### [Connecting a Python application to a MySQL database](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/connecting-a-python-application-to-a-mysql-database?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/connecting-a-python-application-to-a-mysql-database?u=76281980&t=0)** - [Narrator] Before we can connect to our MySQL database and Python, we need to install MySQL Connector using pip.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/connecting-a-python-application-to-a-mysql-database?u=76281980&t=0)** - [Narrator] Before we can connect to our [[MySQL]] database and [[Python (Programming Language)|Python]], we need to install MySQL Connector using pip.
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/connecting-a-python-application-to-a-mysql-database?u=76281980&t=8)** This will give us the compliant module that we can import into our Python application.
 >
@@ -1640,7 +1619,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/connecting-a-python-application-to-a-mysql-database?u=76281980&t=176)** These could be read from a file and then passed into this connection.
 >
-> **[3:01](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/connecting-a-python-application-to-a-mysql-database?u=76281980&t=181)** With the connection in place, we can get access to the cursor object and then execute a few SQL statements.
+> **[3:01](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/connecting-a-python-application-to-a-mysql-database?u=76281980&t=181)** With the connection in place, we can get access to the cursor object and then execute a few [[SQL]] statements.
 >
 > **[3:09](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/connecting-a-python-application-to-a-mysql-database?u=76281980&t=189)** Now, this looks a lot like what we did in SQLite.
 >
@@ -1672,7 +1651,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (14), [[MySQL]] (13), [[Python (Programming Language)|Python]] (4), [[SQL]] (3), application (2)
+> **Frameworks & Libraries:** [[MySQL]] (13), [[Python (Programming Language)|Python]] (4), [[SQL]] (3)
 > **CLI Commands:** mysql (13), python (4), pip3 (2), pip (1), cd (1)
 > **Env Vars:** sql (3), rdbms (1)
 > **Prerequisites:** install (2)
@@ -1681,12 +1660,11 @@ created: 2026-05-02
 > **Definitions:** we call this (1)
 > **Analogies:** similar to (1)
 
-#### Encapsulating database operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/encapsulating-database-operations?u=76281980)
+#### [Encapsulating database operations](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/encapsulating-database-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/encapsulating-database-operations?u=76281980&t=0)** - [Instructor] Now, since we're working in application code in Python and not in MySQL, it's nice to separate business logic from the database schema.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/encapsulating-database-operations?u=76281980&t=0)** - [Instructor] Now, since we're working in application code in [[Python (Programming Language)|Python]] and not in [[MySQL]], it's nice to separate business logic from the database schema.
 >
 > **[0:11](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/encapsulating-database-operations?u=76281980&t=11)** We can encapsulate the database operations, so they're easier to reuse in the future, similar to how we did for the Connect operation.
 >
@@ -1736,7 +1714,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/encapsulating-database-operations?u=76281980&t=168)** We could add a UI so that users can input new projects, and corresponding tasks separately.
 >
-> **[2:56](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/encapsulating-database-operations?u=76281980&t=176)** We could also further encapsulate each SQL query and parameterize it so that someone coming into the code doesn't have to deal with SQL if they don't want to.
+> **[2:56](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/encapsulating-database-operations?u=76281980&t=176)** We could also further encapsulate each [[SQL]] query and parameterize it so that someone coming into the code doesn't have to deal with SQL if they don't want to.
 >
 > **[3:07](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/encapsulating-database-operations?u=76281980&t=187)** They could reuse an encapsulated insert function instead.
 >
@@ -1770,7 +1748,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (15), data (8), application (7), [[MySQL]] (2), [[SQL]] (2)
+> **Frameworks & Libraries:** [[MySQL]] (2), [[SQL]] (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** mysql (2), python (1), find (1)
 > **Env Vars:** sql (2), orm (1)
 > **File Paths:** database.py (2)
@@ -1779,8 +1757,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up MySQL in Python using SQLAlchemy
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/setting-up-mysql-in-python-using-sqlalchemy?u=76281980)
+#### [Setting up MySQL in Python using SQLAlchemy](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/setting-up-mysql-in-python-using-sqlalchemy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1792,13 +1769,13 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/setting-up-mysql-in-python-using-sqlalchemy?u=76281980&t=14)** Before we can get started though, we'll need to create a virtual environment to work with.
 >
-> **[0:20](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/setting-up-mysql-in-python-using-sqlalchemy?u=76281980&t=20)** We'll call this one MySQL SQLAlchemy Workspace.
+> **[0:20](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/setting-up-mysql-in-python-using-sqlalchemy?u=76281980&t=20)** We'll call this one [[MySQL]] SQLAlchemy Workspace.
 >
 > **[0:26](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/setting-up-mysql-in-python-using-sqlalchemy?u=76281980&t=26)** Then we'll activate it.
 >
 > **[0:31](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/setting-up-mysql-in-python-using-sqlalchemy?u=76281980&t=31)** Let's install our dependencies.
 >
-> **[0:34](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/setting-up-mysql-in-python-using-sqlalchemy?u=76281980&t=34)** These will include the MySQL Connector and Python as well as SQLAlchemy.
+> **[0:34](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/setting-up-mysql-in-python-using-sqlalchemy?u=76281980&t=34)** These will include the MySQL Connector and [[Python (Programming Language)|Python]] as well as SQLAlchemy.
 >
 > **[0:46](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/setting-up-mysql-in-python-using-sqlalchemy?u=76281980&t=46)** Great. Let's connect to our database and Python.
 >
@@ -1850,7 +1827,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (10), [[MySQL]] (5), [[Python (Programming Language)|Python]] (2), application (1), next (1)
+> **Frameworks & Libraries:** [[MySQL]] (5), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** mysql (5), python (2), python3 (1)
 > **File Paths:** database.py (2)
 > **Ports:** port 3306 (1)
@@ -1859,8 +1836,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building a model with SQLAlchemy ORM
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/building-a-model-with-sqlalchemy-orm?u=76281980)
+#### [Building a model with SQLAlchemy ORM](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/building-a-model-with-sqlalchemy-orm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1868,9 +1844,9 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/building-a-model-with-sqlalchemy-orm?u=76281980&t=6)** In this chapter, instead of using SQLAlchemy Core components we'll be using the ORM.
 >
-> **[0:14](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/building-a-model-with-sqlalchemy-orm?u=76281980&t=14)** This will allow us to see a different syntax for how we can work with database information in Python.
+> **[0:14](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/building-a-model-with-sqlalchemy-orm?u=76281980&t=14)** This will allow us to see a different syntax for how we can work with database information in [[Python (Programming Language)|Python]].
 >
-> **[0:22](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/building-a-model-with-sqlalchemy-orm?u=76281980&t=22)** Whether you're using Core or the ORM, both will work for MySQL and SQLite, and any other supported relational database for that matter.
+> **[0:22](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/building-a-model-with-sqlalchemy-orm?u=76281980&t=22)** Whether you're using Core or the ORM, both will work for [[MySQL]] and SQLite, and any other supported relational database for that matter.
 >
 > **[0:34](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/building-a-model-with-sqlalchemy-orm?u=76281980&t=34)** The pattern we've established so far is retrieve the cursor object and execute some statements.
 >
@@ -1884,7 +1860,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/building-a-model-with-sqlalchemy-orm?u=76281980&t=67)** Let's get into the implementation.
 >
-> **[1:10](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/building-a-model-with-sqlalchemy-orm?u=76281980&t=70)** With the ORM, the metadata collection still exists, but it is contained within ORM only object called the registry.
+> **[1:10](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/building-a-model-with-sqlalchemy-orm?u=76281980&t=70)** With the ORM, the [[Metadata]] collection still exists, but it is contained within ORM only object called the registry.
 >
 > **[1:20](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/building-a-model-with-sqlalchemy-orm?u=76281980&t=80)** We can create a registry with the registry function.
 >
@@ -1918,7 +1894,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), [[Metadata]] (3), [[MySQL]] (2), [[Python (Programming Language)|Python]] (1), next (1)
+> **Frameworks & Libraries:** [[Metadata]] (3), [[MySQL]] (2), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** orm (7)
 > **CLI Commands:** mysql (2), python (1), make (1)
 > **Code Identifiers:** mapper_registry (1)
@@ -1927,8 +1903,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Prerequisites:** set up (1)
 
-#### Adding up a foreign key with SQLAlchemy ORM
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/adding-up-a-foreign-key-with-sqlalchemy-orm?u=76281980)
+#### [Adding up a foreign key with SQLAlchemy ORM](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/adding-up-a-foreign-key-with-sqlalchemy-orm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1940,7 +1915,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/adding-up-a-foreign-key-with-sqlalchemy-orm?u=76281980&t=15)** We'll create a new class called task and we'll base it on the base.
 >
-> **[0:20](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/adding-up-a-foreign-key-with-sqlalchemy-orm?u=76281980&t=20)** The table name will be tasks, because that's what we've named it in our MySQL database.
+> **[0:20](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/adding-up-a-foreign-key-with-sqlalchemy-orm?u=76281980&t=20)** The table name will be tasks, because that's what we've named it in our [[MySQL]] database.
 >
 > **[0:27](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/adding-up-a-foreign-key-with-sqlalchemy-orm?u=76281980&t=27)** Next, we'll add the columns.
 >
@@ -1954,7 +1929,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/adding-up-a-foreign-key-with-sqlalchemy-orm?u=76281980&t=71)** They tell our application that we're building relationships between two models, rather than with the database.
 >
-> **[1:19](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/adding-up-a-foreign-key-with-sqlalchemy-orm?u=76281980&t=79)** The foreign key implementation inside the column definition references the databases, tables, and syntax, but the relationship references our model, not the table name.
+> **[1:19](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/adding-up-a-foreign-key-with-sqlalchemy-orm?u=76281980&t=79)** The foreign key implementation inside the column definition references the [[Databases]], tables, and syntax, but the relationship references our model, not the table name.
 >
 > **[1:32](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/adding-up-a-foreign-key-with-sqlalchemy-orm?u=76281980&t=92)** To connect everything together, we should do both.
 >
@@ -1968,7 +1943,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/adding-up-a-foreign-key-with-sqlalchemy-orm?u=76281980&t=126)** With our models in place, let's connect up our tables in MySQL.
 >
-> **[2:12](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/adding-up-a-foreign-key-with-sqlalchemy-orm?u=76281980&t=132)** We'll use the base.metadata.create_all and pass in the engine.
+> **[2:12](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/adding-up-a-foreign-key-with-sqlalchemy-orm?u=76281980&t=132)** We'll use the base.[[Metadata]].create_all and pass in the engine.
 >
 > **[2:20](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/adding-up-a-foreign-key-with-sqlalchemy-orm?u=76281980&t=140)** Since these tables already exist, SQLAlchemy will use the already existing table instead of creating new ones.
 >
@@ -1978,11 +1953,11 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/adding-up-a-foreign-key-with-sqlalchemy-orm?u=76281980&t=158)** Let's run it.
 >
-> **[2:41](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/adding-up-a-foreign-key-with-sqlalchemy-orm?u=76281980&t=161)** In the output, we can see Python setting up the models using the SQLAlchemy ORM.
+> **[2:41](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/adding-up-a-foreign-key-with-sqlalchemy-orm?u=76281980&t=161)** In the output, we can see [[Python (Programming Language)|Python]] setting up the models using the SQLAlchemy ORM.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), [[MySQL]] (2), application (2), next (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[MySQL]] (2), [[Databases]] (1), [[Metadata]] (1), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** project_id (2), task_id (1), create_all (1)
 > **CLI Commands:** mysql (2), python (1)
 > **File Paths:** database.py (1)
@@ -1990,8 +1965,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using SQLAlchemy Sessions to transact on a MySQL database
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/using-sqlalchemy-sessions-to-transact-on-a-mysql-database?u=76281980)
+#### [Using SQLAlchemy Sessions to transact on a MySQL database](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/using-sqlalchemy-sessions-to-transact-on-a-mysql-database?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2045,7 +2019,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/using-sqlalchemy-sessions-to-transact-on-a-mysql-database?u=76281980&t=160)** This generally means it accumulates changes one at a time, but it does not actually communicate them to the database until needed.
 >
-> **[2:50](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/using-sqlalchemy-sessions-to-transact-on-a-mysql-database?u=76281980&t=170)** When it does emit SQL to the database to push out the current set of changes, the process is known as a flush.
+> **[2:50](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/using-sqlalchemy-sessions-to-transact-on-a-mysql-database?u=76281980&t=170)** When it does emit [[SQL]] to the database to push out the current set of changes, the process is known as a flush.
 >
 > **[2:58](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/using-sqlalchemy-sessions-to-transact-on-a-mysql-database?u=76281980&t=178)** In our case case, this means that the primary key of the project isn't initialized until after we flush the session.
 >
@@ -2067,7 +2041,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (11), [[SQL]] (1), data (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** orm (4), sql (1)
 > **Definitions:** known as (3), is a  (1)
 > **Code Identifiers:** organize_closet_project (2), bulk_save_objects (1)
@@ -2076,8 +2050,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Retrieving data using SQLAlchemy ORM
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/retrieving-data-using-sqlalchemy-orm?u=76281980)
+#### [Retrieving data using SQLAlchemy ORM](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/retrieving-data-using-sqlalchemy-orm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2085,7 +2058,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/retrieving-data-using-sqlalchemy-orm?u=76281980&t=7)** This will look very similar to what we did with SQLAlchemy Core, except instead of using a connection object, we'll be using the session.
 >
-> **[0:20](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/retrieving-data-using-sqlalchemy-orm?u=76281980&t=20)** The first step is to create our SQL statement.
+> **[0:20](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/retrieving-data-using-sqlalchemy-orm?u=76281980&t=20)** The first step is to create our [[SQL]] statement.
 >
 > **[0:23](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/retrieving-data-using-sqlalchemy-orm?u=76281980&t=23)** We'll use the select keyword to select a project where the title is Organize closet.
 >
@@ -2127,11 +2100,11 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/retrieving-data-using-sqlalchemy-orm?u=76281980&t=126)** These can easily be taken out in the future using a properties file or environment variables.
 >
-> **[2:13](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/retrieving-data-using-sqlalchemy-orm?u=76281980&t=133)** But overall, this is a great start for getting your hands on SQLAlchemy with your MySQL database.
+> **[2:13](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/retrieving-data-using-sqlalchemy-orm?u=76281980&t=133)** But overall, this is a great start for getting your hands on SQLAlchemy with your [[MySQL]] database.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), data (2), [[SQL]] (1), [[MySQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[MySQL]] (1)
 > **CLI Commands:** python3 (1), make (1), mysql (1)
 > **Env Vars:** orm (1), sql (1)
 > **File Paths:** database.py (1)
@@ -2140,16 +2113,15 @@ created: 2026-05-02
 > **Best Practices:** you should never (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Create a MySQL database
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/challenge-create-a-mysql-database?u=76281980)
+#### [Challenge: Create a MySQL database](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/challenge-create-a-mysql-database?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/challenge-create-a-mysql-database?u=76281980&t=0)** - [Narrator] In this challenge, you'll create a MySQL database, insert some data, and then query it for information.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/challenge-create-a-mysql-database?u=76281980&t=0)** - [Narrator] In this challenge, you'll create a [[MySQL]] database, insert some data, and then query it for information.
 >
 > **[0:13](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/challenge-create-a-mysql-database?u=76281980&t=13)** The database you'll be creating will represent a tech company's online sales.
 >
-> **[0:18](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/challenge-create-a-mysql-database?u=76281980&t=18)** There are various customers, products, and orders.
+> **[0:18](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/challenge-create-a-mysql-database?u=76281980&t=18)** There are various customers, [[Microsoft Products|products]], and orders.
 >
 > **[0:22](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/challenge-create-a-mysql-database?u=76281980&t=22)** The columns in the database will be order_num, order_type, cust_type, cust_name, prod_category, prod_number, prod_name, quantity, price, discount, and order total.
 >
@@ -2161,9 +2133,9 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/challenge-create-a-mysql-database?u=76281980&t=47)** Order_num should be the primary key.
 >
-> **[0:49](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/challenge-create-a-mysql-database?u=76281980&t=49)** Using Python, I want you to find what the most expensive order was and who ordered it.
+> **[0:49](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/challenge-create-a-mysql-database?u=76281980&t=49)** Using [[Python (Programming Language)|Python]], I want you to find what the most expensive order was and who ordered it.
 >
-> **[0:56](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/challenge-create-a-mysql-database?u=76281980&t=56)** There are many different solutions to this problem and you're welcome to use MySQL Connector or SQL Alchemy.
+> **[0:56](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/challenge-create-a-mysql-database?u=76281980&t=56)** There are many different solutions to this problem and you're welcome to use MySQL Connector or [[SQL]] Alchemy.
 >
 > **[1:03](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/challenge-create-a-mysql-database?u=76281980&t=63)** There are many different solutions to this problem and you're welcome to use MySQL Connector or SQL Alchemy.
 >
@@ -2173,21 +2145,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), [[MySQL]] (3), [[SQL]] (3), data (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[MySQL]] (3), [[SQL]] (3), [[Microsoft Products|Products]] (1), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** order_num (1), order_type (1), cust_type (1), cust_name (1), prod_category (1)
 > **CLI Commands:** mysql (3), python (1), find (1)
 > **Env Vars:** sql (3), orm (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Create a MySQL database
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/solution-create-a-mysql-database?u=76281980)
+#### [Solution: Create a MySQL database](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/solution-create-a-mysql-database?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/solution-create-a-mysql-database?u=76281980&t=0)** (bright upbeat music begins)
 >
-> **[0:05](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/solution-create-a-mysql-database?u=76281980&t=5)** - [Instructor] Let's create a MySQL database and query it in Python using the SQL Alchemy ORM.
+> **[0:05](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/solution-create-a-mysql-database?u=76281980&t=5)** - [Instructor] Let's create a [[MySQL]] database and query it in [[Python (Programming Language)|Python]] using the [[SQL]] Alchemy ORM.
 >
 > **[0:12](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/solution-create-a-mysql-database?u=76281980&t=12)** First, we'll need to create the red 30 database, using the MySQL shell.
 >
@@ -2259,11 +2230,11 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/solution-create-a-mysql-database?u=76281980&t=226)** In the output, we can see the highest order total is 1500.
 >
-> **[3:51](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/solution-create-a-mysql-database?u=76281980&t=231)** In the descending entries that follow, we see that a little over a thousand is second, and the rest of the entries follow.
+> **[3:51](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/solution-create-a-mysql-database?u=76281980&t=231)** In the descending entries that follow, we see that a little over a thousand is second, and the [[Representational State Transfer (REST)|rest]] of the entries follow.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (11), [[SQL]] (7), [[MySQL]] (4), [[Python (Programming Language)|Python]] (3), data (3)
+> **Frameworks & Libraries:** [[SQL]] (7), [[MySQL]] (4), [[Python (Programming Language)|Python]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** sql (7), orm (2), create (1), database (1)
 > **CLI Commands:** mysql (4), python (3), make (2), python3 (1)
 > **File Paths:** database.py (1)
@@ -2277,22 +2248,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is PostgreSQL?
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-postgresql?u=76281980)
+#### [What is PostgreSQL?](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-postgresql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-postgresql?u=76281980&t=0)** - [Instructor] Another commonly used relational database is Postgres.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-postgresql?u=76281980&t=0)** - [Instructor] Another commonly used relational database is [[PostgreSQL|Postgres]].
 >
-> **[0:05](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-postgresql?u=76281980&t=5)** Similar to the other relational databases we've looked at, data is organized into tables with columns and rows.
+> **[0:05](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-postgresql?u=76281980&t=5)** Similar to the other [[Relational Databases]] we've looked at, data is organized into tables with columns and rows.
 >
-> **[0:12](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-postgresql?u=76281980&t=12)** But unlike SQL light in MySQL, Postgres is an object relational database.
+> **[0:12](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-postgresql?u=76281980&t=12)** But unlike [[SQL]] light in [[MySQL]], Postgres is an object relational database.
 >
-> **[0:19](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-postgresql?u=76281980&t=19)** Postgres includes advanced features like table inheritance and function overloading which although are usually in object databases can be important to certain applications.
+> **[0:19](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-postgresql?u=76281980&t=19)** Postgres includes advanced features like table inheritance and function overloading which although are usually in object [[Databases]] can be important to certain applications.
 >
 > **[0:31](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-postgresql?u=76281980&t=31)** Postgres advertises itself as the most advanced open source database system because it was created with the goal of being highly extensible and standards compliant.
 >
-> **[0:43](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-postgresql?u=76281980&t=43)** It's capable of efficiently handling multiple tasks at the same time, ensuring data integrity while being ACID compliant, and it requires very minimal maintenance efforts due to its stability.
+> **[0:43](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-postgresql?u=76281980&t=43)** It's capable of efficiently handling multiple tasks at the same time, ensuring [[Data Integrity]] while being ACID compliant, and it requires very minimal maintenance efforts due to its stability.
 >
 > **[0:57](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-postgresql?u=76281980&t=57)** Postgres also adheres more closely to SQL standards than MySQL.
 >
@@ -2316,7 +2286,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-postgresql?u=76281980&t=122)** However, if there's a platform or tool that prefers Postgres by all means use it.
 >
-> **[2:08](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-postgresql?u=76281980&t=128)** It might be worth choosing it over another database like the other RDBMS' we've worked with, we can interact with our database in Python using a Python module that follows the Python database specification - SQLAlchemy or another ORM.
+> **[2:08](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-postgresql?u=76281980&t=128)** It might be worth choosing it over another database like the other RDBMS' we've worked with, we can interact with our database in [[Python (Programming Language)|Python]] using a Python module that follows the Python database specification - SQLAlchemy or another ORM.
 >
 > **[2:26](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-postgresql?u=76281980&t=146)** Like MySQL, Postgres follows a client server model.
 >
@@ -2326,7 +2296,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (12), database (7), [[MySQL]] (5), data (3), [[Python (Programming Language)|Python]] (3)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (12), [[MySQL]] (5), [[Python (Programming Language)|Python]] (3), [[SQL]] (2), [[Relational Databases]] (1)
 > **CLI Commands:** mysql (5), python (3)
 > **Env Vars:** sql (2), acid (1), rdbms (1), orm (1)
 > **Documentation:** specification (1)
@@ -2335,12 +2305,11 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a PostgreSQL database
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-a-postgresql-database?u=76281980)
+#### [Creating a PostgreSQL database](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-a-postgresql-database?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-a-postgresql-database?u=76281980&t=0)** - [Instructor] Before we can create a Postgres database, we need to install Postgres software.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-a-postgresql-database?u=76281980&t=0)** - [Instructor] Before we can create a [[PostgreSQL|Postgres]] database, we need to install Postgres software.
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-a-postgresql-database?u=76281980&t=14)** Let's follow the instructions.
 >
@@ -2382,7 +2351,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-a-postgresql-database?u=76281980&t=104)** We'll be using the same data from the last challenge, so we'll call it red30.
 >
-> **[1:51](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-a-postgresql-database?u=76281980&t=111)** To list the different databases that exist, we can run \l.
+> **[1:51](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-a-postgresql-database?u=76281980&t=111)** To list the different [[Databases]] that exist, we can run \l.
 >
 > **[1:58](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-a-postgresql-database?u=76281980&t=118)** A couple default ones come included with the installation.
 >
@@ -2392,11 +2361,11 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-a-postgresql-database?u=76281980&t=134)** We're in.
 >
-> **[2:15](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-a-postgresql-database?u=76281980&t=135)** Next, we'll use Python to create a table in this database.
+> **[2:15](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-a-postgresql-database?u=76281980&t=135)** Next, we'll use [[Python (Programming Language)|Python]] to create a table in this database.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), [[PostgreSQL|Postgres]] (5), data (1), [[Databases]] (1), next (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (5), [[Databases]] (1), [[Python (Programming Language)|Python]] (1)
 > **Prerequisites:** install (2), setup (1), configure (1), set up (1)
 > **Env Vars:** zshrc (1), create (1), database (1)
 > **CLI Commands:** psql (1), python (1)
@@ -2404,12 +2373,11 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a table in Postgres using Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-a-table-in-postgres-using-python?u=76281980)
+#### [Creating a table in Postgres using Python](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-a-table-in-postgres-using-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-a-table-in-postgres-using-python?u=76281980&t=0)** - [Narrator] One way we can interact with our database in Python is to use the psycopg2 module.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-a-table-in-postgres-using-python?u=76281980&t=0)** - [Narrator] One way we can interact with our database in [[Python (Programming Language)|Python]] is to use the psycopg2 module.
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-a-table-in-postgres-using-python?u=76281980&t=8)** We do have to install it with pip, so we'll create a virtual environment to interact with our database.
 >
@@ -2417,17 +2385,17 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-a-table-in-postgres-using-python?u=76281980&t=23)** In this case, that's psycopg2-binary.
 >
-> **[0:29](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-a-table-in-postgres-using-python?u=76281980&t=29)** Like SQLite3 and mysql-connector, this module is compliant with the Python database API.
+> **[0:29](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-a-table-in-postgres-using-python?u=76281980&t=29)** Like SQLite3 and [[MySQL]]-connector, this module is compliant with the Python database API.
 >
 > **[0:37](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-a-table-in-postgres-using-python?u=76281980&t=37)** This means interacting with this module will look very similar to how we've used the other modules.
 >
-> **[0:44](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-a-table-in-postgres-using-python?u=76281980&t=44)** However, under the hood, a different database management system is used.
+> **[0:44](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-a-table-in-postgres-using-python?u=76281980&t=44)** However, under the hood, a different [[Database Management]] system is used.
 >
 > **[0:50](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-a-table-in-postgres-using-python?u=76281980&t=50)** Let's open up Sublime and connect to this database.
 >
 > **[0:54](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-a-table-in-postgres-using-python?u=76281980&t=54)** We'll save our Python code in a file called database.py.
 >
-> **[1:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-a-table-in-postgres-using-python?u=76281980&t=60)** It'll live in our Postgres workspace.
+> **[1:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-a-table-in-postgres-using-python?u=76281980&t=60)** It'll live in our [[PostgreSQL|Postgres]] workspace.
 >
 > **[1:06](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-a-table-in-postgres-using-python?u=76281980&t=66)** Here we've imported the psycopg2 module.
 >
@@ -2437,7 +2405,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-a-table-in-postgres-using-python?u=76281980&t=82)** We'll create a sales table.
 >
-> **[1:25](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-a-table-in-postgres-using-python?u=76281980&t=85)** This SQL query will create our table.
+> **[1:25](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-a-table-in-postgres-using-python?u=76281980&t=85)** This [[SQL]] query will create our table.
 >
 > **[1:29](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-a-table-in-postgres-using-python?u=76281980&t=89)** Let's commit this change.
 >
@@ -2461,7 +2429,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), [[Python (Programming Language)|Python]] (3), [[PostgreSQL|Postgres]] (2), [[MySQL]] (1), api (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[PostgreSQL|Postgres]] (2), [[MySQL]] (1), [[Database Management]] (1), [[SQL]] (1)
 > **CLI Commands:** python (3), pip (1), sqlite3 (1), mysql (1), python3 (1)
 > **File Paths:** database.py (2)
 > **Env Vars:** api (1), sql (1)
@@ -2470,18 +2438,17 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Inserting data into a Postgres database
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/inserting-data-into-a-postgres-database?u=76281980)
+#### [Inserting data into a Postgres database](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/inserting-data-into-a-postgres-database?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/inserting-data-into-a-postgres-database?u=76281980&t=0)** - [Instructor] Let's insert some data into this database so we actually have something to work with.
 >
-> **[0:05](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/inserting-data-into-a-postgres-database?u=76281980&t=5)** We talked about a few different ways to do this in the last chapter with MySQL.
+> **[0:05](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/inserting-data-into-a-postgres-database?u=76281980&t=5)** We talked about a few different ways to do this in the last chapter with [[MySQL]].
 >
-> **[0:11](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/inserting-data-into-a-postgres-database?u=76281980&t=11)** And many of those ways will also work with Postgres.
+> **[0:11](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/inserting-data-into-a-postgres-database?u=76281980&t=11)** And many of those ways will also work with [[PostgreSQL|Postgres]].
 >
-> **[0:15](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/inserting-data-into-a-postgres-database?u=76281980&t=15)** That's because of how compatible database tools are in Python.
+> **[0:15](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/inserting-data-into-a-postgres-database?u=76281980&t=15)** That's because of how compatible database tools are in [[Python (Programming Language)|Python]].
 >
 > **[0:20](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/inserting-data-into-a-postgres-database?u=76281980&t=20)** For example, we could use the cursor object and execute a command or we could use the SQLAlchemy expression language.
 >
@@ -2493,7 +2460,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/inserting-data-into-a-postgres-database?u=76281980&t=47)** Each entry in the sales list represents an individual sale.
 >
-> **[0:53](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/inserting-data-into-a-postgres-database?u=76281980&t=53)** We'll insert them by executing a SQL query with the cursor objects executemany function.
+> **[0:53](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/inserting-data-into-a-postgres-database?u=76281980&t=53)** We'll insert them by executing a [[SQL]] query with the cursor objects executemany function.
 >
 > **[1:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/inserting-data-into-a-postgres-database?u=76281980&t=60)** Here we insert a series of entries into the sales table.
 >
@@ -2527,7 +2494,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), database (5), [[PostgreSQL|Postgres]] (3), [[MySQL]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (3), [[MySQL]] (1), [[Python (Programming Language)|Python]] (1), [[SQL]] (1)
 > **CLI Commands:** mysql (1), python (1), python3 (1)
 > **Cross-References:** we talked about (1), in the last (1)
 > **File Paths:** database.py (1)
@@ -2536,14 +2503,13 @@ created: 2026-05-02
 > **Definitions:** stands for (1)
 > **Analogies:** for example (1)
 
-#### Interacting with a Postgres database using Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/interacting-with-a-postgres-database-using-python?u=76281980)
+#### [Interacting with a Postgres database using Python](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/interacting-with-a-postgres-database-using-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/interacting-with-a-postgres-database-using-python?u=76281980&t=0)** - [Instructor] Let's create a function that inserts a new sale into our Postgres database with dynamic data.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/interacting-with-a-postgres-database-using-python?u=76281980&t=0)** - [Instructor] Let's create a function that inserts a new sale into our [[PostgreSQL|Postgres]] database with dynamic data.
 >
-> **[0:08](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/interacting-with-a-postgres-database-using-python?u=76281980&t=8)** Like in the other case with MySQL, we'll pass the cursor in, but you could pass in the database connection instead.
+> **[0:08](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/interacting-with-a-postgres-database-using-python?u=76281980&t=8)** Like in the other case with [[MySQL]], we'll pass the cursor in, but you could pass in the database connection instead.
 >
 > **[0:16](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/interacting-with-a-postgres-database-using-python?u=76281980&t=16)** Inside this function, we'll calculate the order total.
 >
@@ -2563,7 +2529,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/interacting-with-a-postgres-database-using-python?u=76281980&t=61)** We'll call this our sale data.
 >
-> **[1:05](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/interacting-with-a-postgres-database-using-python?u=76281980&t=65)** Then we'll pass this data to a SQL statement.
+> **[1:05](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/interacting-with-a-postgres-database-using-python?u=76281980&t=65)** Then we'll pass this data to a [[SQL]] statement.
 >
 > **[1:10](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/interacting-with-a-postgres-database-using-python?u=76281980&t=70)** Here, each key in our query will be replaced by its associated value in the sale data dictionary.
 >
@@ -2615,31 +2581,30 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), database (7), [[SQL]] (4), product (4), application (2)
+> **Frameworks & Libraries:** [[SQL]] (4), [[PostgreSQL|Postgres]] (1), [[MySQL]] (1)
 > **Env Vars:** sql (4)
 > **Versions:** 9.99 (1), 19.98 (1)
 > **CLI Commands:** mysql (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up SQLAlchemy Core to connect to a Postgres database
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/setting-up-sqlalchemy-core-to-connect-to-a-postgres-database?u=76281980)
+#### [Setting up SQLAlchemy Core to connect to a Postgres database](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/setting-up-sqlalchemy-core-to-connect-to-a-postgres-database?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/setting-up-sqlalchemy-core-to-connect-to-a-postgres-database?u=76281980&t=0)** - [Narrator] When we worked with the SQLite database, we used the SQLite3 module and SQLAlchemy Core.
 >
-> **[0:07](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/setting-up-sqlalchemy-core-to-connect-to-a-postgres-database?u=76281980&t=7)** When we worked with MySQL, we used the mysql-connector module and the full SQLAlchemy ORM.
+> **[0:07](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/setting-up-sqlalchemy-core-to-connect-to-a-postgres-database?u=76281980&t=7)** When we worked with [[MySQL]], we used the mysql-connector module and the full SQLAlchemy ORM.
 >
-> **[0:13](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/setting-up-sqlalchemy-core-to-connect-to-a-postgres-database?u=76281980&t=13)** For Postgres, we've used the Psycopg2 module.
+> **[0:13](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/setting-up-sqlalchemy-core-to-connect-to-a-postgres-database?u=76281980&t=13)** For [[PostgreSQL|Postgres]], we've used the Psycopg2 module.
 >
 > **[0:18](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/setting-up-sqlalchemy-core-to-connect-to-a-postgres-database?u=76281980&t=18)** Now we'll show you how to interact with it using SQLAlchemy Core and the full SQLAlchemy ORM.
 >
-> **[0:26](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/setting-up-sqlalchemy-core-to-connect-to-a-postgres-database?u=76281980&t=26)** All three of these interfaces can be used to interact with the relational databases we've worked with so far.
+> **[0:26](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/setting-up-sqlalchemy-core-to-connect-to-a-postgres-database?u=76281980&t=26)** All three of these interfaces can be used to interact with the [[Relational Databases]] we've worked with so far.
 >
 > **[0:33](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/setting-up-sqlalchemy-core-to-connect-to-a-postgres-database?u=76281980&t=33)** We didn't introduce them all at once because there's a steep learning curve to some of the interfaces and introducing them over time with hands-on examples can help you get a sense of how each works before we compare and contrast them.
 >
-> **[0:49](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/setting-up-sqlalchemy-core-to-connect-to-a-postgres-database?u=76281980&t=49)** As you've probably noticed, a lot of the behind the scenes work that reveals the difference between each database management system is fairly abstracted to you.
+> **[0:49](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/setting-up-sqlalchemy-core-to-connect-to-a-postgres-database?u=76281980&t=49)** As you've probably noticed, a lot of the behind the scenes work that reveals the difference between each [[Database Management]] system is fairly abstracted to you.
 >
 > **[1:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/setting-up-sqlalchemy-core-to-connect-to-a-postgres-database?u=76281980&t=60)** The interfaces, while they vary, work similarly with many relational databases.
 >
@@ -2653,13 +2618,13 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/setting-up-sqlalchemy-core-to-connect-to-a-postgres-database?u=76281980&t=98)** We'll do that with pip3 install sqlalchemy.
 >
-> **[1:46](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/setting-up-sqlalchemy-core-to-connect-to-a-postgres-database?u=76281980&t=106)** Perfect. Since the Red30 database is already created and initialized with data, we can just connect to it in our Python application using whatever interface we want.
+> **[1:46](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/setting-up-sqlalchemy-core-to-connect-to-a-postgres-database?u=76281980&t=106)** Perfect. Since the Red30 database is already created and initialized with data, we can just connect to it in our [[Python (Programming Language)|Python]] application using whatever interface we want.
 >
 > **[1:58](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/setting-up-sqlalchemy-core-to-connect-to-a-postgres-database?u=76281980&t=118)** In this case, we'll start off by using SQLAlchemy Core.
 >
 > **[2:04](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/setting-up-sqlalchemy-core-to-connect-to-a-postgres-database?u=76281980&t=124)** In the code, we import a few things from SQLAlchemy.
 >
-> **[2:08](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/setting-up-sqlalchemy-core-to-connect-to-a-postgres-database?u=76281980&t=128)** Then we established the engine and metadata object.
+> **[2:08](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/setting-up-sqlalchemy-core-to-connect-to-a-postgres-database?u=76281980&t=128)** Then we established the engine and [[Metadata]] object.
 >
 > **[2:14](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/setting-up-sqlalchemy-core-to-connect-to-a-postgres-database?u=76281980&t=134)** Previously we created the table in SQLAlchemy, but since the table is already created in the Red30 database we can autoload it with the engine.
 >
@@ -2675,7 +2640,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), [[PostgreSQL|Postgres]] (4), [[MySQL]] (3), [[Relational Databases]] (2), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (4), [[MySQL]] (3), [[Relational Databases]] (2), [[Python (Programming Language)|Python]] (2), [[Metadata]] (2)
 > **CLI Commands:** mysql (3), python (2), sqlite3 (1), cd (1), pip3 (1)
 > **Prerequisites:** install (2), set up (1)
 > **Env Vars:** orm (2)
@@ -2683,12 +2648,11 @@ created: 2026-05-02
 > **Code Identifiers:** create_all (1)
 > **Speakers:** - [narrator] (1)
 
-#### Manipulating with Postgres data using SQLAlchemy Core
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/manipulating-with-postgres-data-using-sqlalchemy-core?u=76281980)
+#### [Manipulating with Postgres data using SQLAlchemy Core](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/manipulating-with-postgres-data-using-sqlalchemy-core?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/manipulating-with-postgres-data-using-sqlalchemy-core?u=76281980&t=0)** - [Instructor] With the setup complete, let's walk through how to establish a connection to a Postgres database using SQL Alchemy Core.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/manipulating-with-postgres-data-using-sqlalchemy-core?u=76281980&t=0)** - [Instructor] With the setup complete, let's walk through how to establish a connection to a [[PostgreSQL|Postgres]] database using [[SQL]] Alchemy Core.
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/manipulating-with-postgres-data-using-sqlalchemy-core?u=76281980&t=9)** Engine dot connect creates a connection with the database.
 >
@@ -2706,7 +2670,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/manipulating-with-postgres-data-using-sqlalchemy-core?u=76281980&t=41)** Then we add a new piece of data to the database.
 >
-> **[0:45](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/manipulating-with-postgres-data-using-sqlalchemy-core?u=76281980&t=45)** It's a sale of a few books called "Understanding Artificial Intelligence."
+> **[0:45](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/manipulating-with-postgres-data-using-sqlalchemy-core?u=76281980&t=45)** It's a sale of a few books called "Understanding [[Artificial Intelligence (AI)|Artificial Intelligence]]."
 >
 > **[0:51](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/manipulating-with-postgres-data-using-sqlalchemy-core?u=76281980&t=51)** Now, let's say the buyer, Syman Mapstone, gets the books in the mail and one of them has a few pages ripped out.
 >
@@ -2726,7 +2690,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/manipulating-with-postgres-data-using-sqlalchemy-core?u=76281980&t=103)** Then we print it out.
 >
-> **[1:46](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/manipulating-with-postgres-data-using-sqlalchemy-core?u=76281980&t=106)** Another operation we can use with databases is delete.
+> **[1:46](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/manipulating-with-postgres-data-using-sqlalchemy-core?u=76281980&t=106)** Another operation we can use with [[Databases]] is delete.
 >
 > **[1:51](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/manipulating-with-postgres-data-using-sqlalchemy-core?u=76281980&t=111)** We delete the item we just added by creating the statement and executing it with the connection.
 >
@@ -2748,11 +2712,11 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/manipulating-with-postgres-data-using-sqlalchemy-core?u=76281980&t=157)** Once we've deleted it, we get a row count of 0 when we try to select it again.
 >
-> **[2:43](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/manipulating-with-postgres-data-using-sqlalchemy-core?u=76281980&t=163)** We've just completed the basic CRUD operations using SQL Alchemy Core in Python.
+> **[2:43](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/manipulating-with-postgres-data-using-sqlalchemy-core?u=76281980&t=163)** We've just completed the basic CRUD operations using SQL Alchemy Core in [[Python (Programming Language)|Python]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), [[PostgreSQL|Postgres]] (2), [[SQL]] (2), data (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (2), [[SQL]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Databases]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** crud (3), sql (2)
 > **CLI Commands:** find (2), python (1)
 > **UI Navigation:** select the (1), go to (1)
@@ -2760,12 +2724,11 @@ created: 2026-05-02
 > **Definitions:** stands for (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up SQLAlchemy ORM to connect to a Postgres database
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/setting-up-sqlalchemy-orm-to-connect-to-a-postgres-database?u=76281980)
+#### [Setting up SQLAlchemy ORM to connect to a Postgres database](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/setting-up-sqlalchemy-orm-to-connect-to-a-postgres-database?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/setting-up-sqlalchemy-orm-to-connect-to-a-postgres-database?u=76281980&t=0)** - [Instructor] Let's access our data in Postgres using the SQLAlchemy ORM.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/setting-up-sqlalchemy-orm-to-connect-to-a-postgres-database?u=76281980&t=0)** - [Instructor] Let's access our data in [[PostgreSQL|Postgres]] using the SQLAlchemy ORM.
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/setting-up-sqlalchemy-orm-to-connect-to-a-postgres-database?u=76281980&t=6)** Unlike SQLAlchemy Core, we'll be using classes and models to represent our data.
 >
@@ -2775,7 +2738,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/setting-up-sqlalchemy-orm-to-connect-to-a-postgres-database?u=76281980&t=20)** Then, we set up the schema.
 >
-> **[0:23](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/setting-up-sqlalchemy-orm-to-connect-to-a-postgres-database?u=76281980&t=23)** When we used the ORM previously in this course, we wrote out the table's full schema in Python.
+> **[0:23](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/setting-up-sqlalchemy-orm-to-connect-to-a-postgres-database?u=76281980&t=23)** When we used the ORM previously in this course, we wrote out the table's full schema in [[Python (Programming Language)|Python]].
 >
 > **[0:31](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/setting-up-sqlalchemy-orm-to-connect-to-a-postgres-database?u=76281980&t=31)** There's several benefits to doing this because it makes it very clear what you have access to within the table as you're coding.
 >
@@ -2793,18 +2756,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), data (2), [[PostgreSQL|Postgres]] (2), [[Python (Programming Language)|Python]] (2), application (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (2), [[Python (Programming Language)|Python]] (2)
 > **Env Vars:** orm (3)
 > **Prerequisites:** set up (3)
 > **CLI Commands:** python (2)
 > **Speakers:** - [instructor] (1)
 
-#### Manipulating with Postgres data using SQLAlchemy ORM
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/manipulating-with-postgres-data-using-sqlalchemy-orm?u=76281980)
+#### [Manipulating with Postgres data using SQLAlchemy ORM](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/manipulating-with-postgres-data-using-sqlalchemy-orm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/manipulating-with-postgres-data-using-sqlalchemy-orm?u=76281980&t=0)** - [Instructor] With the set up complete, let's walk through how to establish a connection to a Postgres database with SQL Alchemy O-R-M.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/manipulating-with-postgres-data-using-sqlalchemy-orm?u=76281980&t=0)** - [Instructor] With the set up complete, let's walk through how to establish a connection to a [[PostgreSQL|Postgres]] database with [[SQL]] Alchemy O-R-M.
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/manipulating-with-postgres-data-using-sqlalchemy-orm?u=76281980&t=9)** We start by setting up a session.
 >
@@ -2850,25 +2812,24 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/manipulating-with-postgres-data-using-sqlalchemy-orm?u=76281980&t=126)** We also see the updated values for our inserted sale; two for the quantity and thirty nine for the total.
 >
-> **[2:14](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/manipulating-with-postgres-data-using-sqlalchemy-orm?u=76281980&t=134)** We've accessed our Postgres database in Python using the SQL Alchemy O-R-M.
+> **[2:14](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/manipulating-with-postgres-data-using-sqlalchemy-orm?u=76281980&t=134)** We've accessed our Postgres database in [[Python (Programming Language)|Python]] using the SQL Alchemy O-R-M.
 >
 > **[2:20](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/manipulating-with-postgres-data-using-sqlalchemy-orm?u=76281980&t=140)** Let's take a second to reflect.
 >
 > **[2:24](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/manipulating-with-postgres-data-using-sqlalchemy-orm?u=76281980&t=144)** If our database was in "My SQL" or "SQL Light 3" instead, all we would need to do is change our input to the create engine function.
 >
-> **[2:34](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/manipulating-with-postgres-data-using-sqlalchemy-orm?u=76281980&t=154)** Of course, usually you won't be switching between relational database management systems, but if you want to migrate your database from one to the other, this makes it fairly straightforward, because most of your Python code can remain the same.
+> **[2:34](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/manipulating-with-postgres-data-using-sqlalchemy-orm?u=76281980&t=154)** Of course, usually you won't be switching between relational [[Database Management]] systems, but if you want to migrate your database from one to the other, this makes it fairly straightforward, because most of your Python code can remain the same.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (10), [[SQL]] (4), [[PostgreSQL|Postgres]] (2), [[Python (Programming Language)|Python]] (2), next (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[PostgreSQL|Postgres]] (2), [[Python (Programming Language)|Python]] (2), [[Database Management]] (1)
 > **Env Vars:** sql (4), crud (1)
 > **CLI Commands:** python (2)
 > **Versions:** 19.98 (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Create a Postgres database
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/challenge-create-a-postgres-database?u=76281980)
+#### [Challenge: Create a Postgres database](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/challenge-create-a-postgres-database?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2910,24 +2871,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), data (1)
 > **Env Vars:** orm (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Create a Postgres database
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/solution-create-a-postgres-database?u=76281980)
+#### [Solution: Create a Postgres database](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/solution-create-a-postgres-database?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/solution-create-a-postgres-database?u=76281980&t=0)** - [Instructor] Let's create a database that stores authors and the books they've written.
 >
-> **[0:10](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/solution-create-a-postgres-database?u=76281980&t=10)** We'll create our database using the postgres shell.
+> **[0:10](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/solution-create-a-postgres-database?u=76281980&t=10)** We'll create our database using the [[PostgreSQL|postgres]] shell.
 >
 > **[0:16](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/solution-create-a-postgres-database?u=76281980&t=16)** We'll use the keywords CREATE DATABASE, and we'll call it library.
 >
-> **[0:23](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/solution-create-a-postgres-database?u=76281980&t=23)** And there it is in our databases list. Let's connect to it.
+> **[0:23](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/solution-create-a-postgres-database?u=76281980&t=23)** And there it is in our [[Databases]] list. Let's connect to it.
 >
 > **[0:32](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/solution-create-a-postgres-database?u=76281980&t=32)** To make this walkthrough a little more fluid, I've written out all the ORM code in advance.
 >
@@ -3065,7 +3024,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (13), data (10), [[PostgreSQL|Postgres]] (4), [[Databases]] (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (4), [[Databases]] (1)
 > **Code Identifiers:** author_id (10), book_id (6), add_book (2), first_name (1), last_name (1)
 > **Env Vars:** create (1), database (1), orm (1)
 > **Prerequisites:** set up (2)
@@ -3079,26 +3038,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continue using databases in Python applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/continue-using-databases-in-python-applications?u=76281980)
+#### [Continue using databases in Python applications](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/continue-using-databases-in-python-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/continue-using-databases-in-python-applications?u=76281980&t=0)** - [Kathryn] Congratulations on finishing the course!
 >
-> **[0:03](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/continue-using-databases-in-python-applications?u=76281980&t=3)** From learning about the different types of databases used with Python to actually interacting with them in code using the SQLAlchemy ORM, you've learned a lot.
+> **[0:03](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/continue-using-databases-in-python-applications?u=76281980&t=3)** From learning about the different types of [[Databases]] used with [[Python (Programming Language)|Python]] to actually interacting with them in code using the SQLAlchemy ORM, you've learned a lot.
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/continue-using-databases-in-python-applications?u=76281980&t=14)** You can now populate data into your application or even modify data in your relational database using Python.
 >
-> **[0:22](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/continue-using-databases-in-python-applications?u=76281980&t=22)** From here, I encourage you to check out some of the other Python courses in the LinkedIn Learning library.
+> **[0:22](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/continue-using-databases-in-python-applications?u=76281980&t=22)** From here, I encourage you to check out some of the other Python courses in the [[LinkedIn]] Learning library.
 >
-> **[0:30](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/continue-using-databases-in-python-applications?u=76281980&t=30)** For diving deeper into databases, try some of the courses that focus solely on your database of choice, SQLite, MySQL, or Postgres.
+> **[0:30](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/continue-using-databases-in-python-applications?u=76281980&t=30)** For diving deeper into databases, try some of the courses that focus solely on your database of choice, SQLite, [[MySQL]], or [[PostgreSQL|Postgres]].
 >
 > **[0:41](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/continue-using-databases-in-python-applications?u=76281980&t=41)** Understanding the nuances of the technologies your application interacts with can be the difference between spending a week on a coding problem versus an hour.
 >
 > **[0:51](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/continue-using-databases-in-python-applications?u=76281980&t=51)** You may also want to start integrating dynamic data into more sophisticated applications.
 >
-> **[0:58](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/continue-using-databases-in-python-applications?u=76281980&t=58)** Look into Flask, pandas and other Python technologies that use dynamic data to create webpages or build charts that help you analyze data.
+> **[0:58](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/continue-using-databases-in-python-applications?u=76281980&t=58)** Look into Flask, [[Pandas (Software)|pandas]] and other Python technologies that use dynamic data to create webpages or build charts that help you analyze data.
 >
 > **[1:08](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/continue-using-databases-in-python-applications?u=76281980&t=68)** In fact, you can check out the companion course to this one to see practical examples of how to use databases with Python in real world applications.
 >
@@ -3112,7 +3070,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), data (5), [[Databases]] (4), application (2), database (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Databases]] (4), [[LinkedIn]] (2), [[MySQL]] (1), [[PostgreSQL|Postgres]] (1)
 > **CLI Commands:** python (5), mysql (1)
 > **Env Vars:** orm (1)
 > **Speakers:** - [kathryn] (1)

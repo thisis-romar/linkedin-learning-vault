@@ -38,41 +38,41 @@ created: 2026-05-02
 7. [[Leveraging Agentic AI in Cloud Computing- Strategy and Tool Optimization]] — 2 mentions
 8. [[Generative AI- Introduction to Large Language Models]] — 2 mentions
 9. [[Generative AI Approaches to Business Challenges]] — 2 mentions
-10. [[Creating a Responsible Generative AI Use Policy]] — 2 mentions
+10. [[Generative Ai Skills For Creative Content Opportunities Issues And Ethics]] — 2 mentions
 
 > [!note]- See all 63 courses
-> 11. [[Accessibility-First Design]] — 2 mentions
-> 12. [[How to Keep Your Team on the Bleeding Edge of AI Innovation]] — 2 mentions
-> 13. [[The Future of Workforce Learning- AI-Powered Personalization for Skill Development]] — 2 mentions
-> 14. [[Applications of Generative AI in Learning and Development]] — 2 mentions
-> 15. [[Integrating Generative AI into JavaScript Web Projects]] — 2 mentions
-> 16. [[Generative AI and Predictive AI in the Cloud- Foundational Concepts and Scenarios]] — 2 mentions
-> 17. [[jQuery Essential Training]] — 2 mentions
-> 18. [[Fine-Tuning for LLMs- from Beginner to Advanced]] — 2 mentions
-> 19. [[Nano Tips For Marketing Using AI Tools with Sam Dey]] — 2 mentions
-> 20. [[OpenAI API- Working with Files]] — 2 mentions
-> 21. [[LLM Foundations- Building Effective Applications for Enterprises]] — 2 mentions
-> 22. [[Social Media Marketing Foundations]] — 2 mentions
-> 23. [[WordPress- Accessibility]] — 2 mentions
-> 24. [[Succeeding As A First Time Tech Manager]] — 1 mentions
-> 25. [[How To Become A Thought Leader And Advance Your Career]] — 1 mentions
-> 26. [[The Step-by-Step Guide to Building your Thought Leadership on LinkedIn]] — 1 mentions
-> 27. [[Protecting Yourself as a Content Creator]] — 1 mentions
-> 28. [[What Is Generative AI-]] — 1 mentions
-> 29. [[Introduction to NLP and LLMs- Principles and Practical Applications]] — 1 mentions
-> 30. [[Navigating AI Regulations- A Business Guide to Risk, Responsibility, and Strategy]] — 1 mentions
-> 31. [[Data Analytics for Business Professionals]] — 1 mentions
-> 32. [[Using Stark for Accessible Design Projects]] — 1 mentions
-> 33. [[Generative Ai Skills For Creative Content Opportunities Issues And Ethics]] — 1 mentions
-> 34. [[Generative AI Imaging- What Creative Pros Need to Know]] — 1 mentions
-> 35. [[Leveraging AI in Adobe Photoshop and Creative Cloud (2023)]] — 1 mentions
-> 36. [[Leveraging AI for Small and Medium Business Growth]] — 1 mentions
-> 37. [[Ux Foundations Interaction Design]] — 1 mentions
-> 38. [[AI Orchestration- Validation and User Feedback and Performance Metrics]] — 1 mentions
-> 39. [[Cybersecurity Awareness- AI]] — 1 mentions
-> 40. [[Complete Guide to Data Lakes and Lakehouses]] — 1 mentions
-> 41. [[Azure AI- The Big Picture]] — 1 mentions
-> 42. [[Leveraging Ai In Your Nonprofit Role By Microsoft And Nethope]] — 1 mentions
+> 11. [[Creating a Responsible Generative AI Use Policy]] — 2 mentions
+> 12. [[Accessibility-First Design]] — 2 mentions
+> 13. [[How to Keep Your Team on the Bleeding Edge of AI Innovation]] — 2 mentions
+> 14. [[The Future of Workforce Learning- AI-Powered Personalization for Skill Development]] — 2 mentions
+> 15. [[Applications of Generative AI in Learning and Development]] — 2 mentions
+> 16. [[Integrating Generative AI into JavaScript Web Projects]] — 2 mentions
+> 17. [[Generative AI and Predictive AI in the Cloud- Foundational Concepts and Scenarios]] — 2 mentions
+> 18. [[jQuery Essential Training]] — 2 mentions
+> 19. [[Fine-Tuning for LLMs- from Beginner to Advanced]] — 2 mentions
+> 20. [[Leveraging Ai In Your Nonprofit Role By Microsoft And Nethope]] — 2 mentions
+> 21. [[Nano Tips For Marketing Using AI Tools with Sam Dey]] — 2 mentions
+> 22. [[OpenAI API- Working with Files]] — 2 mentions
+> 23. [[LLM Foundations- Building Effective Applications for Enterprises]] — 2 mentions
+> 24. [[Social Media Marketing Foundations]] — 2 mentions
+> 25. [[WordPress- Accessibility]] — 2 mentions
+> 26. [[Succeeding As A First Time Tech Manager]] — 1 mentions
+> 27. [[How To Become A Thought Leader And Advance Your Career]] — 1 mentions
+> 28. [[The Step-by-Step Guide to Building your Thought Leadership on LinkedIn]] — 1 mentions
+> 29. [[Protecting Yourself as a Content Creator]] — 1 mentions
+> 30. [[What Is Generative AI-]] — 1 mentions
+> 31. [[Introduction to NLP and LLMs- Principles and Practical Applications]] — 1 mentions
+> 32. [[Navigating AI Regulations- A Business Guide to Risk, Responsibility, and Strategy]] — 1 mentions
+> 33. [[Data Analytics for Business Professionals]] — 1 mentions
+> 34. [[Using Stark for Accessible Design Projects]] — 1 mentions
+> 35. [[Generative AI Imaging- What Creative Pros Need to Know]] — 1 mentions
+> 36. [[Leveraging AI in Adobe Photoshop and Creative Cloud (2023)]] — 1 mentions
+> 37. [[Leveraging AI for Small and Medium Business Growth]] — 1 mentions
+> 38. [[Ux Foundations Interaction Design]] — 1 mentions
+> 39. [[AI Orchestration- Validation and User Feedback and Performance Metrics]] — 1 mentions
+> 40. [[Cybersecurity Awareness- AI]] — 1 mentions
+> 41. [[Complete Guide to Data Lakes and Lakehouses]] — 1 mentions
+> 42. [[Azure AI- The Big Picture]] — 1 mentions
 > 43. [[Applied AI- Building NLP Apps with Hugging Face Transformers]] — 1 mentions
 > 44. [[Microsoft Azure Ai Essentials Workloads And Machine Learning On Azure]] — 1 mentions
 > 45. [[Building Serverless Apps with AI Services on AWS]] — 1 mentions
@@ -104,9 +104,9 @@ created: 2026-05-02
 5. [[Building ChatGPT Skills for Marketing]] — 5 total mentions
 6. [[Applying AI as a Tech Leader]] — 4 total mentions
 7. [[Build AI Products Using Azure AI Services in Your Development Lifecycle]] — 4 total mentions
-8. [[Become an AI-Powered Learning and Development Professional]] — 4 total mentions
-9. [[Build Your Generative AI Productivity Skills with Microsoft and LinkedIn]] — 3 total mentions
-10. [[Branding and Skill Building to Advance Your Tech Career]] — 3 total mentions
+8. [[Applying Generative AI as a Creative Professional]] — 4 total mentions
+9. [[Become an AI-Powered Learning and Development Professional]] — 4 total mentions
+10. [[Build Your Generative AI Productivity Skills with Microsoft and LinkedIn]] — 3 total mentions
 
 ---
 

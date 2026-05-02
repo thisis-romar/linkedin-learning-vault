@@ -72,12 +72,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting started with deep learning for healthcare
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/getting-started-with-deep-learning-for-healthcare?u=76281980)
+#### [Getting started with deep learning for healthcare](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/getting-started-with-deep-learning-for-healthcare?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/getting-started-with-deep-learning-for-healthcare?u=76281980&t=0)** - We're living in fascinating times and if you've been following conversations about data and artificial intelligence, you've likely come across the term deep learning and how it's transforming our world.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/getting-started-with-deep-learning-for-healthcare?u=76281980&t=0)** - We're living in fascinating times and if you've been following conversations about data and [[Artificial Intelligence (AI)|artificial intelligence]], you've likely come across the term [[Deep Learning]] and how it's transforming our world.
 >
 > **[0:12](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/getting-started-with-deep-learning-for-healthcare?u=76281980&t=12)** In this course, we'll focus on deep learning, specifically within the context of healthcare.
 >
@@ -91,23 +90,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Deep Learning]] (3), data (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Speakers:** - we (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/what-you-should-know?u=76281980&t=0)** - This course is designed to introduce you to deep learning, an important subset of machine learning and some of the ways it's applied in healthcare.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/what-you-should-know?u=76281980&t=0)** - This course is designed to introduce you to [[Deep Learning]], an important subset of machine learning and some of the ways it's applied in healthcare.
 >
-> **[0:10](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/what-you-should-know?u=76281980&t=10)** If this is all new to you, a good starting point is my [[Machine Learning Fundamentals for Healthcare]] course on LinkedIn Learning.
+> **[0:10](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/what-you-should-know?u=76281980&t=10)** If this is all new to you, a good starting point is my [[Machine Learning Fundamentals for Healthcare]] course on [[LinkedIn]] Learning.
 >
-> **[0:18](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/what-you-should-know?u=76281980&t=18)** In that course, I provide context on the relationship between machine learning, data science and artificial intelligence.
+> **[0:18](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/what-you-should-know?u=76281980&t=18)** In that course, I provide context on the relationship between machine learning, [[Data Science]] and [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[0:28](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/what-you-should-know?u=76281980&t=28)** Throughout this course, I encourage you to code along whenever possible.
 >
-> **[0:33](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/what-you-should-know?u=76281980&t=33)** All the code is written in Python and we'll be working in Colab notebooks.
+> **[0:33](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/what-you-should-know?u=76281980&t=33)** All the code is written in [[Python (Programming Language)|Python]] and we'll be working in Colab notebooks.
 >
 > **[0:38](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/what-you-should-know?u=76281980&t=38)** Plus, the exercise files are available as downloadable zipped files to make it easy to follow along.
 >
@@ -117,7 +115,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[LinkedIn]] (2), [[Deep Learning]] (1), data (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[LinkedIn]] (2), [[Deep Learning]] (1), [[Data Science]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** python (3), make (1)
 > **Tools:** colab (1)
 > **Exercise Files:** exercise files (1)
@@ -128,14 +126,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is deep learning?
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/what-is-deep-learning?u=76281980)
+#### [What is deep learning?](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/what-is-deep-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/what-is-deep-learning?u=76281980&t=0)** - [Instructor] Deep learning is a specialized subset of machine learning where algorithms learn complex patterns from data using layered structures called Artificial Neural Networks, ANNs.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/what-is-deep-learning?u=76281980&t=0)** - [Instructor] [[Deep Learning]] is a specialized subset of machine learning where [[Algorithms]] learn complex patterns from data using layered structures called [[Artificial Neural Networks]], ANNs.
 >
-> **[0:15](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/what-is-deep-learning?u=76281980&t=15)** The concept of interconnected layers in ANNs is modeled after the structure of Biological Neural Networks, BNNs.
+> **[0:15](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/what-is-deep-learning?u=76281980&t=15)** The concept of interconnected layers in ANNs is modeled after the structure of Biological [[Neural Networks]], BNNs.
 >
 > **[0:24](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/what-is-deep-learning?u=76281980&t=24)** However, it's important to know that deep-learning algorithms are far less complex than biological neural networks.
 >
@@ -159,7 +156,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/what-is-deep-learning?u=76281980&t=99)** ANNs are computationally specific, such as recognizing objects in images or generating sequences like text.
 >
-> **[1:49](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/what-is-deep-learning?u=76281980&t=109)** BNNs, in contrast, underlying cognitive functions in living systems from perception to memory, and even decision-making.
+> **[1:49](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/what-is-deep-learning?u=76281980&t=109)** BNNs, in contrast, underlying cognitive functions in living systems from perception to memory, and even [[Decision-Making]].
 >
 > **[2:00](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/what-is-deep-learning?u=76281980&t=120)** Information processing in ANNs involves applying mathematical functions to numerical input through weighted sums and activation functions.
 >
@@ -185,17 +182,16 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/what-is-deep-learning?u=76281980&t=212)** To bring this comparison to life, here's a visual representation of ANNs versus BNNs.
 >
-> **[3:39](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/what-is-deep-learning?u=76281980&t=219)** This illustration was created using generative AI, a fascinating application of artificial neural networks themselves.
+> **[3:39](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/what-is-deep-learning?u=76281980&t=219)** This illustration was created using [[Generative AI]], a fascinating application of artificial neural networks themselves.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Artificial Neural Networks]] (3), [[Neural Networks]] (3), [[Algorithms]] (2), [[Deep Learning]] (1), data (1)
+> **Frameworks & Libraries:** [[Artificial Neural Networks]] (3), [[Neural Networks]] (3), [[Algorithms]] (2), [[Deep Learning]] (1), [[Decision-Making]] (1)
 > **Analogies:** such as (4), picture (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Why deep learning excels in healthcare?
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/why-deep-learning-excels-in-healthcare?u=76281980)
+#### [Why deep learning excels in healthcare?](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/why-deep-learning-excels-in-healthcare?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -203,17 +199,17 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/why-deep-learning-excels-in-healthcare?u=76281980&t=7)** This diversity and complexity presents significant challenges for traditional machine learning methods.
 >
-> **[0:15](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/why-deep-learning-excels-in-healthcare?u=76281980&t=15)** Deep learning offers several key advantages that address these challenges, which is why it excels in healthcare.
+> **[0:15](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/why-deep-learning-excels-in-healthcare?u=76281980&t=15)** [[Deep Learning]] offers several key advantages that address these challenges, which is why it excels in healthcare.
 >
 > **[0:26](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/why-deep-learning-excels-in-healthcare?u=76281980&t=26)** Handling complex data.
 >
 > **[0:28](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/why-deep-learning-excels-in-healthcare?u=76281980&t=28)** Deep learning excels at analyzing complex and diverse data types, including medical images, clinical notes, genomic sequences and time series data from wearable devices.
 >
-> **[0:43](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/why-deep-learning-excels-in-healthcare?u=76281980&t=43)** These types of data are often challenging for traditional machine learning algorithms to process effectively.
+> **[0:43](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/why-deep-learning-excels-in-healthcare?u=76281980&t=43)** These types of data are often challenging for traditional machine learning [[Algorithms]] to process effectively.
 >
 > **[0:51](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/why-deep-learning-excels-in-healthcare?u=76281980&t=51)** Automatic feature extraction.
 >
-> **[0:54](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/why-deep-learning-excels-in-healthcare?u=76281980&t=54)** Traditional machine learning often relies on manual feature engineering, where experts carefully select and extract specific features from the data.
+> **[0:54](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/why-deep-learning-excels-in-healthcare?u=76281980&t=54)** Traditional machine learning often relies on manual [[Feature Engineering]], where experts carefully select and extract specific features from the data.
 >
 > **[1:05](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/why-deep-learning-excels-in-healthcare?u=76281980&t=65)** This process is time consuming and can be subjective.
 >
@@ -223,7 +219,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/why-deep-learning-excels-in-healthcare?u=76281980&t=86)** Deep learning models are highly effective at identifying complex patterns and certain nuances within large data sets, such as detecting subtle abnormalities in medical images or predicting disease progression based on patient records.
 >
-> **[1:46](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/why-deep-learning-excels-in-healthcare?u=76281980&t=106)** Scalability and generalization.
+> **[1:46](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/why-deep-learning-excels-in-healthcare?u=76281980&t=106)** [[Scalability]] and generalization.
 >
 > **[1:49](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/why-deep-learning-excels-in-healthcare?u=76281980&t=109)** Large pretrained models trained on massive data sets can be fine tuned for specific healthcare tasks, such as disease diagnoses or drug discovery.
 >
@@ -235,20 +231,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Deep Learning]] (6), [[Algorithms]] (1), feature (1), [[Feature Engineering]] (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (6), [[Algorithms]] (1), [[Feature Engineering]] (1), [[Scalability]] (1)
 > **Analogies:** such as (2)
 > **Speakers:** - healthcare (1)
 
-#### How deep learning works: ​Anatomy of neural networks
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/how-deep-learning-works-anatomy-of-neural-networks?u=76281980)
+#### [How deep learning works: ​Anatomy of neural networks](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/how-deep-learning-works-anatomy-of-neural-networks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/how-deep-learning-works-anatomy-of-neural-networks?u=76281980&t=0)** - [Instructor] In the introductory video about deep learning, we established that it relies on artificial neural networks, ANNs, which are composed of layers of interconnected nodes or artificial neurons.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/how-deep-learning-works-anatomy-of-neural-networks?u=76281980&t=0)** - [Instructor] In the introductory video about [[Deep Learning]], we established that it relies on [[Artificial Neural Networks]], ANNs, which are composed of layers of interconnected nodes or artificial neurons.
 >
 > **[0:15](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/how-deep-learning-works-anatomy-of-neural-networks?u=76281980&t=15)** This component of the network plays a distinct role in our deep learning systems learn and make predictions.
 >
-> **[0:23](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/how-deep-learning-works-anatomy-of-neural-networks?u=76281980&t=23)** Neural networks perform mathematical calculations similar to how the brain processes information.
+> **[0:23](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/how-deep-learning-works-anatomy-of-neural-networks?u=76281980&t=23)** [[Neural Networks]] perform mathematical calculations similar to how the brain processes information.
 >
 > **[0:30](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/how-deep-learning-works-anatomy-of-neural-networks?u=76281980&t=30)** True interconnected neurons.
 >
@@ -326,17 +321,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Neural Networks]] (3), [[Deep Learning]] (2), [[Artificial Neural Networks]] (1), next (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (3), [[Deep Learning]] (2), [[Artificial Neural Networks]] (1)
 > **Analogies:** such as (3), for example (2), similar to (1), for instance (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deep learning architectures
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-architectures?u=76281980)
+#### [Deep learning architectures](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-architectures?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-architectures?u=76281980&t=0)** - [Instructor] Deep learning architecture defines the structural design of a neural network, specifying how its layers, connections, and components interact to process and analyze data.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-architectures?u=76281980&t=0)** - [Instructor] [[Deep Learning]] architecture defines the structural design of a neural network, specifying how its layers, connections, and components interact to process and analyze data.
 >
 > **[0:13](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-architectures?u=76281980&t=13)** It determines the flow of information, the types of computations performed, and the overall functionality of the model.
 >
@@ -352,7 +346,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-architectures?u=76281980&t=68)** In healthcare, they may be suitable for simple tasks involving tabular data, such as predicting patient readmission based on electronic health records.
 >
-> **[1:20](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-architectures?u=76281980&t=80)** Convolutional neural networks, CNNs.
+> **[1:20](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-architectures?u=76281980&t=80)** [[Convolutional Neural Networks (CNN)|Convolutional neural networks]], CNNs.
 >
 > **[1:24](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-architectures?u=76281980&t=84)** CNNs introduce significant advances by focusing on image data.
 >
@@ -364,7 +358,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-architectures?u=76281980&t=119)** CNN-based architectures are already applied in healthcare for enabling tasks such as diagnosing pneumonia from chest x-ray or classifying skin lesions to identify melanoma.
 >
-> **[2:15](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-architectures?u=76281980&t=135)** Recurrent neural networks, RNNs.
+> **[2:15](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-architectures?u=76281980&t=135)** Recurrent [[Neural Networks]], RNNs.
 >
 > **[2:18](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-architectures?u=76281980&t=138)** RNNs are designed to process sequential data, such as time series, text and speech.
 >
@@ -388,7 +382,7 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-architectures?u=76281980&t=231)** Transformers are currently powering applications such as medical text analysis and even drug discovery by analyzing protein sequences and identifying potential drug targets.
 >
-> **[4:05](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-architectures?u=76281980&t=245)** Other notes were the architecture include autoencoders used for dimensionality reduction and anomaly detection, generative adversarial networks, GANs.
+> **[4:05](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-architectures?u=76281980&t=245)** Other notes were the architecture include autoencoders used for dimensionality reduction and anomaly detection, [[Generative Adversarial Networks (GANs)|generative adversarial networks]], GANs.
 >
 > **[4:16](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-architectures?u=76281980&t=256)** This consists of a generator and discriminator used for synthetic data generation.
 >
@@ -408,20 +402,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Deep Learning]] (6), cnn (2), [[Neural Networks]] (2), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (6), [[Neural Networks]] (2), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1), [[Generative Adversarial Networks (GANs)|Generative adversarial networks]] (1)
 > **Env Vars:** mlp (2), cnn (2), bert (2), ecg (1), rnn (1)
 > **Analogies:** such as (8)
 > **Definitions:** refers to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deep learning algorithms
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-algorithms?u=76281980)
+#### [Deep learning algorithms](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-algorithms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-algorithms?u=76281980&t=0)** - [Instructor] If you have been following this classroom from the beginning, we have covered neural networks, their architectures, layers, and components.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-algorithms?u=76281980&t=0)** - [Instructor] If you have been following this classroom from the beginning, we have covered [[Neural Networks]], their architectures, layers, and components.
 >
-> **[0:09](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-algorithms?u=76281980&t=9)** Now, let's explore the deep learning algorithms that enable learning.
+> **[0:09](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-algorithms?u=76281980&t=9)** Now, let's explore the [[Deep Learning]] [[Algorithms]] that enable learning.
 >
 > **[0:14](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-algorithms?u=76281980&t=14)** Algorithms are step-by-step computational procedures used to train the neural network by optimizing its parameters, improving performance, and achieving the desired outcomes.
 >
@@ -445,7 +438,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-algorithms?u=76281980&t=102)** Back propagation, this is the cornerstone algorithm that enables neural networks to learn from their mistakes.
 >
-> **[1:50](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-algorithms?u=76281980&t=110)** It works by computing the gradient of the loss function with respect to each weight and bias in the network, starting from the output layer and moving backwards using the chain rule of calculus to effectively calculate how each parameter contributed to the error, adjusting weight and biases in the direction that minimizes the loss function.
+> **[1:50](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-algorithms?u=76281980&t=110)** It works by computing the gradient of the loss function with respect to each weight and bias in the network, starting from the output layer and moving backwards using the chain rule of [[Calculus]] to effectively calculate how each parameter contributed to the error, adjusting weight and biases in the direction that minimizes the loss function.
 >
 > **[2:15](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-algorithms?u=76281980&t=135)** This process allows the network to iteratively refine its parameters and improve its prediction over time.
 >
@@ -557,7 +550,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (8), data (7), [[Neural Networks]] (3), [[Deep Learning]] (3), [[Calculus]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (8), [[Neural Networks]] (3), [[Deep Learning]] (3), [[Calculus]] (1)
 > **Analogies:** similar to (4), imagine (1)
 > **CLI Commands:** make (2), find (2)
 > **Env Vars:** mse (1), sgd (1)
@@ -565,12 +558,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Key concepts in training deep learning models
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/key-concepts-in-training-deep-learning-models?u=76281980)
+#### [Key concepts in training deep learning models](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/key-concepts-in-training-deep-learning-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/key-concepts-in-training-deep-learning-models?u=76281980&t=0)** - [Instructor] Building upon our understanding of some basic concepts like weights and biases, loss function, and algorithms in deep learning, now, let's explore more, as they are pivotal in your interaction and understanding of deep learning, both for healthcare and non-healthcare-related use cases.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/key-concepts-in-training-deep-learning-models?u=76281980&t=0)** - [Instructor] Building upon our understanding of some basic concepts like weights and biases, loss function, and [[Algorithms]] in [[Deep Learning]], now, let's explore more, as they are pivotal in your interaction and understanding of deep learning, both for healthcare and non-healthcare-related use cases.
 >
 > **[0:20](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/key-concepts-in-training-deep-learning-models?u=76281980&t=20)** Data.
 >
@@ -592,7 +584,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/key-concepts-in-training-deep-learning-models?u=76281980&t=68)** You must be thinking about the representativeness of the data, ensuring it reflects the diversity of the real-world cases.
 >
-> **[1:16](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/key-concepts-in-training-deep-learning-models?u=76281980&t=76)** Think about age, gender, medical history, as poor data quality would lead to biases and incorrect predictions.
+> **[1:16](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/key-concepts-in-training-deep-learning-models?u=76281980&t=76)** Think about age, gender, medical history, as poor [[Data Quality]] would lead to biases and incorrect predictions.
 >
 > **[1:27](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/key-concepts-in-training-deep-learning-models?u=76281980&t=87)** Epochs and batches.
 >
@@ -640,17 +632,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Search]] (4), [[Deep Learning]] (3), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (3), [[Algorithms]] (1), [[Data Quality]] (1)
 > **Definitions:** is a  (2), refers to (1)
 > **Analogies:** similar to (1), such as (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deep learning frameworks and libraries
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-frameworks-and-libraries?u=76281980)
+#### [Deep learning frameworks and libraries](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-frameworks-and-libraries?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-frameworks-and-libraries?u=76281980&t=0)** - [Instructor] We have laid a solid foundation for understanding what deep learning is, along with its key concepts, algorithms, and architecture.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-frameworks-and-libraries?u=76281980&t=0)** - [Instructor] We have laid a solid foundation for understanding what [[Deep Learning]] is, along with its key concepts, [[Algorithms]], and architecture.
 >
 > **[0:09](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-frameworks-and-libraries?u=76281980&t=9)** But are this concepts practically implemented to solve real-world problems in healthcare?
 >
@@ -662,7 +653,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-frameworks-and-libraries?u=76281980&t=42)** For historical context, earlier deep planning frameworks like Theano, Caffe, and CNTK, played the crucial part in advancing the field.
 >
-> **[0:53](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-frameworks-and-libraries?u=76281980&t=53)** Today, some of the most popular deep learning libraries and frameworks include TensorFlow, developed by Google.
+> **[0:53](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-frameworks-and-libraries?u=76281980&t=53)** Today, some of the most popular deep learning libraries and frameworks include [[TensorFlow]], developed by [[Google]].
 >
 > **[1:02](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-frameworks-and-libraries?u=76281980&t=62)** TensorFlow is one of the most widely used deep learning frameworks.
 >
@@ -676,7 +667,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-frameworks-and-libraries?u=76281980&t=118)** It provides a straightforward way to define entry models, along with robust support for distributed training.
 >
-> **[2:06](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-frameworks-and-libraries?u=76281980&t=126)** Some of its key features are dynamic computational graphs, native Python integration, TorchVision for computer vision tasks, TorchAudio for speech processing, TorchText for NLP applications, easy model deployment with TorchServe, and of course, a strong research community.
+> **[2:06](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-frameworks-and-libraries?u=76281980&t=126)** Some of its key features are dynamic computational graphs, native [[Python (Programming Language)|Python]] integration, TorchVision for [[Computer Vision]] tasks, TorchAudio for speech processing, TorchText for NLP applications, easy model deployment with TorchServe, and of course, a strong research community.
 >
 > **[2:31](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-frameworks-and-libraries?u=76281980&t=151)** MXNet.
 >
@@ -686,17 +677,17 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-frameworks-and-libraries?u=76281980&t=168)** Its key features include multilanguage support, hybridize training, automatic differentiation, built-in distributed training, model serving capabilities, and integration with cloud platforms like Amazon SageMaker.
 >
-> **[3:06](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-frameworks-and-libraries?u=76281980&t=186)** Do not specifically for deep learning, other commonly used libraries include scikit-learn, NumPy, pandas, and JAX.
+> **[3:06](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-frameworks-and-libraries?u=76281980&t=186)** Do not specifically for deep learning, other commonly used libraries include scikit-learn, NumPy, [[Pandas (Software)|pandas]], and JAX.
 >
 > **[3:16](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-frameworks-and-libraries?u=76281980&t=196)** In your application of deep learning into healthcare and other use cases, the decision on the framework of choice depends on several factors.
 >
 > **[3:25](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-frameworks-and-libraries?u=76281980&t=205)** One, project requirement.
 >
-> **[3:28](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-frameworks-and-libraries?u=76281980&t=208)** Factors such as the scale of deployment, performance requirement, hardware constraints, and the team's expertise play a critical role in selecting the appropriate framework.
+> **[3:28](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-frameworks-and-libraries?u=76281980&t=208)** Factors such as the scale of deployment, performance requirement, [[Hardware]] constraints, and the team's expertise play a critical role in selecting the appropriate framework.
 >
 > **[3:40](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-frameworks-and-libraries?u=76281980&t=220)** Two, development considerations.
 >
-> **[3:44](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-frameworks-and-libraries?u=76281980&t=224)** This includes ease of prototyping, debugging capabilities, production deployment options, and the availability of pre-trained models.
+> **[3:44](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-frameworks-and-libraries?u=76281980&t=224)** This includes ease of [[Prototyping]], debugging capabilities, production deployment options, and the availability of pre-trained models.
 >
 > **[3:55](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-frameworks-and-libraries?u=76281980&t=235)** And three, operational factors.
 >
@@ -714,16 +705,15 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building and implementing neural networks: TensorFlow
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/building-and-implementing-neural-networks-tensorflow?u=76281980)
+#### [Building and implementing neural networks: TensorFlow](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/building-and-implementing-neural-networks-tensorflow?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/building-and-implementing-neural-networks-tensorflow?u=76281980&t=0)** - [Instructor] In the previous chapters, we explored neural networks, their theory, and their core components.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/building-and-implementing-neural-networks-tensorflow?u=76281980&t=0)** - [Instructor] In the previous chapters, we explored [[Neural Networks]], their theory, and their core components.
 >
 > **[0:07](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/building-and-implementing-neural-networks-tensorflow?u=76281980&t=7)** Now, let's move on to building and implementing neural networks in practice.
 >
-> **[0:13](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/building-and-implementing-neural-networks-tensorflow?u=76281980&t=13)** We'll be writing and running the code using Google Colab notebooks.
+> **[0:13](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/building-and-implementing-neural-networks-tensorflow?u=76281980&t=13)** We'll be writing and running the code using [[Google]] Colab notebooks.
 >
 > **[0:18](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/building-and-implementing-neural-networks-tensorflow?u=76281980&t=18)** To get started, go to colab.[google.com](https://google.com).
 >
@@ -733,15 +723,15 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/building-and-implementing-neural-networks-tensorflow?u=76281980&t=36)** Our sample task will be to build a basic binary classification model that can predict whether a sample belongs to a class zero or class one.
 >
-> **[0:47](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/building-and-implementing-neural-networks-tensorflow?u=76281980&t=47)** We will be implementing this task using both TensorFlow and PyTorch, allowing us to compare their structure and ease of use.
+> **[0:47](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/building-and-implementing-neural-networks-tensorflow?u=76281980&t=47)** We will be implementing this task using both [[TensorFlow]] and [[PyTorch]], allowing us to compare their structure and ease of use.
 >
 > **[0:56](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/building-and-implementing-neural-networks-tensorflow?u=76281980&t=56)** In the upper part of the notebook, select Runtime.
 >
-> **[1:01](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/building-and-implementing-neural-networks-tensorflow?u=76281980&t=61)** Change runtime, and choose GPU as the hardware accelerator.
+> **[1:01](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/building-and-implementing-neural-networks-tensorflow?u=76281980&t=61)** Change runtime, and choose GPU as the [[Hardware]] accelerator.
 >
 > **[1:12](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/building-and-implementing-neural-networks-tensorflow?u=76281980&t=72)** GPU enables significantly faster training speed by offloading computationally-intensive task from the CPU to the GPU.
 >
-> **[1:23](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/building-and-implementing-neural-networks-tensorflow?u=76281980&t=83)** This is especially beneficial for deep learning models, which often involve complex matrix operations.
+> **[1:23](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/building-and-implementing-neural-networks-tensorflow?u=76281980&t=83)** This is especially beneficial for [[Deep Learning]] models, which often involve complex matrix operations.
 >
 > **[1:31](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/building-and-implementing-neural-networks-tensorflow?u=76281980&t=91)** The great news is that CoLab provides free access to GPUs, making it an excellent resource for learning and experimentation.
 >
@@ -901,7 +891,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[TensorFlow]] (5), next (5), [[Google]] (3), [[Neural Networks]] (2)
+> **Frameworks & Libraries:** [[TensorFlow]] (5), [[Google]] (3), [[Neural Networks]] (2), [[PyTorch]] (1), [[Hardware]] (1)
 > **Code Identifiers:** x_train (3), y_test (2), input_shape (1), binary_crossentropy (1), y_train (1)
 > **Tools:** colab (6)
 > **Env Vars:** gpu (3), cpu (1)
@@ -910,12 +900,11 @@ created: 2026-05-02
 > **URLs:** [google.com](https://google.com) (1)
 > **Versions:** 0.5 (1)
 
-#### Building and implementing neural networks: PyTorch
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/building-and-implementing-neural-networks-pytorch?u=76281980)
+#### [Building and implementing neural networks: PyTorch](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/building-and-implementing-neural-networks-pytorch?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/building-and-implementing-neural-networks-pytorch?u=76281980&t=0)** - The limitations and ethical considerations for deep learning in healthcare are similar to those faced when implementing any other machine learning system.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/building-and-implementing-neural-networks-pytorch?u=76281980&t=0)** - The limitations and ethical considerations for [[Deep Learning]] in healthcare are similar to those faced when implementing any other machine learning system.
 >
 > **[0:10](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/building-and-implementing-neural-networks-pytorch?u=76281980&t=10)** However, due to the high stakes in healthcare, where decisions can directly impact patient lives, these challenges are magnified.
 >
@@ -925,15 +914,15 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/building-and-implementing-neural-networks-pytorch?u=76281980&t=36)** In the previous video, our sample task was to build a basic binary classification model that can predict whether a sample belongs to Class 0 or Class 1 using the neural network.
 >
-> **[0:50](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/building-and-implementing-neural-networks-pytorch?u=76281980&t=50)** In that video, we used TensorFlow.
+> **[0:50](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/building-and-implementing-neural-networks-pytorch?u=76281980&t=50)** In that video, we used [[TensorFlow]].
 >
-> **[0:52](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/building-and-implementing-neural-networks-pytorch?u=76281980&t=52)** Now, we are going to repeat the same task using PyTorch.
+> **[0:52](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/building-and-implementing-neural-networks-pytorch?u=76281980&t=52)** Now, we are going to repeat the same task using [[PyTorch]].
 >
 > **[0:58](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/building-and-implementing-neural-networks-pytorch?u=76281980&t=58)** First, let's import the necessary libraries.
 >
 > **[1:03](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/building-and-implementing-neural-networks-pytorch?u=76281980&t=63)** Torch, import torch as nn, and then optim.
 >
-> **[1:12](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/building-and-implementing-neural-networks-pytorch?u=76281980&t=72)** When using PyTorch, it's common to define your neural networks as classes in Python.
+> **[1:12](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/building-and-implementing-neural-networks-pytorch?u=76281980&t=72)** When using PyTorch, it's common to define your [[Neural Networks]] as classes in [[Python (Programming Language)|Python]].
 >
 > **[1:20](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/building-and-implementing-neural-networks-pytorch?u=76281980&t=80)** So let's define a class called SimpleNN that accept whatever module that you specify.
 >
@@ -997,7 +986,7 @@ created: 2026-05-02
 >
 > **[4:37](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/building-and-implementing-neural-networks-pytorch?u=76281980&t=277)** So let's investigate.
 >
-> **[4:39](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/building-and-implementing-neural-networks-pytorch?u=76281980&t=279)** A faster way to do this, you can use Gemini in Colab to look at this.
+> **[4:39](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/building-and-implementing-neural-networks-pytorch?u=76281980&t=279)** A faster way to do this, you can use [[Gemini]] in Colab to look at this.
 >
 > **[4:45](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/building-and-implementing-neural-networks-pytorch?u=76281980&t=285)** I want you to be used to encountering errors when you are coding because it happens a lot.
 >
@@ -1055,7 +1044,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[TensorFlow]] (2), [[PyTorch]] (2), [[Deep Learning]] (1), [[Neural Networks]] (1)
+> **Frameworks & Libraries:** [[TensorFlow]] (2), [[PyTorch]] (2), [[Deep Learning]] (1), [[Neural Networks]] (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (2), similar to (1)
 > **CLI Commands:** python (1), make (1)
@@ -1064,12 +1053,11 @@ created: 2026-05-02
 > **Tools:** colab (1)
 > **Prerequisites:** initialization (1)
 
-#### Limitations and ethical considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/limitations-and-ethical-considerations?u=76281980)
+#### [Limitations and ethical considerations](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/limitations-and-ethical-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/limitations-and-ethical-considerations?u=76281980&t=0)** - [Instructor] The limitations and ethical considerations for deep learning in healthcare are similar to those faced when implementing any other machine learning system.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/limitations-and-ethical-considerations?u=76281980&t=0)** - [Instructor] The limitations and ethical considerations for [[Deep Learning]] in healthcare are similar to those faced when implementing any other machine learning system.
 >
 > **[0:10](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/limitations-and-ethical-considerations?u=76281980&t=10)** However, due to the high stakes in healthcare where decisions can directly impact patients' lives, these challenges are magnified.
 >
@@ -1085,15 +1073,15 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/limitations-and-ethical-considerations?u=76281980&t=65)** For example, if a deep learning model is primarily trained on high-resolution X-ray images from well-resourced environment, it may perform poorly on lower quality images in low-resource health systems.
 >
-> **[1:21](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/limitations-and-ethical-considerations?u=76281980&t=81)** Some of the ways to mitigate this include diversifying data collection, supporting research in low-resource environments, and systemic paths audits.
+> **[1:21](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/limitations-and-ethical-considerations?u=76281980&t=81)** Some of the ways to mitigate this include diversifying [[Data Collection]], supporting research in low-resource environments, and systemic paths audits.
 >
 > **[1:34](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/limitations-and-ethical-considerations?u=76281980&t=94)** Data scarcity.
 >
-> **[1:36](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/limitations-and-ethical-considerations?u=76281980&t=96)** Deep learning requires vast amount of data for training, a need further emphasized in healthcare where privacy is a major concern.
+> **[1:36](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/limitations-and-ethical-considerations?u=76281980&t=96)** Deep learning requires vast amount of data for training, a need further emphasized in healthcare where [[Privacy]] is a major concern.
 >
-> **[1:46](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/limitations-and-ethical-considerations?u=76281980&t=106)** Some of the ways to mitigate these include institutionalized data sharing, transfer learning, federated learning, and in some cases, the use of synthetic data, even though synthetic data is not always effective.
+> **[1:46](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/limitations-and-ethical-considerations?u=76281980&t=106)** Some of the ways to mitigate these include institutionalized [[Data Sharing]], transfer learning, federated learning, and in some cases, the use of synthetic data, even though synthetic data is not always effective.
 >
-> **[2:02](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/limitations-and-ethical-considerations?u=76281980&t=122)** Data privacy and security.
+> **[2:02](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/limitations-and-ethical-considerations?u=76281980&t=122)** [[Data Privacy]] and security.
 >
 > **[2:05](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/limitations-and-ethical-considerations?u=76281980&t=125)** One of the cases for the need of healthcare-focused expertise in deep learning is that patient data is sensitive and governed by stringent privacy regulations, for example, HIPAA and GDPR Safeguarding patient privacy while allowing the use of this data for training deep learning model is a complex challenge.
 >
@@ -1129,7 +1117,7 @@ created: 2026-05-02
 >
 > **[4:53](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/limitations-and-ethical-considerations?u=76281980&t=293)** They are susceptible to biases, and this can cause the model to produce biased output, exacerbating health disparities, so implementing techniques, like reweighing, resampling, or adversarial de-biasing, to reduce bias in model and ongoing fairness audit to ensure that the model's prediction do not harm marginalized groups.
 >
-> **[5:21](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/limitations-and-ethical-considerations?u=76281980&t=321)** Accountability and responsibility.
+> **[5:21](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/limitations-and-ethical-considerations?u=76281980&t=321)** [[Accountability]] and responsibility.
 >
 > **[5:24](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/limitations-and-ethical-considerations?u=76281980&t=324)** Determining accountability when AI models make error is a significant ethical challenge.
 >
@@ -1137,13 +1125,13 @@ created: 2026-05-02
 >
 > **[5:54](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/limitations-and-ethical-considerations?u=76281980&t=354)** Include human-in-the-loop.
 >
-> **[5:56](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/limitations-and-ethical-considerations?u=76281980&t=356)** These are qualified healthcare professionals in the decision-making process, particularly for high-risk cases, and also enforce transparency in model decisions by keeping detailed records of model development and decisions to ensure accountability.
+> **[5:56](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/limitations-and-ethical-considerations?u=76281980&t=356)** These are qualified healthcare professionals in the [[Decision-Making]] process, particularly for high-risk cases, and also enforce transparency in model decisions by keeping detailed records of model development and decisions to ensure accountability.
 >
 > **[6:15](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/limitations-and-ethical-considerations?u=76281980&t=375)** Then generally, ensuring the ethical development of AI in healthcare requires careful consideration of patient autonomy, informed consent, and potential misuse of technology.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), [[Deep Learning]] (9), [[Privacy]] (4), [[Accountability]] (4), ai (3)
+> **Frameworks & Libraries:** [[Deep Learning]] (9), [[Accountability]] (4), [[Privacy]] (3), [[Data Collection]] (1), [[Data Sharing]] (1)
 > **Analogies:** such as (2), for example (2), similar to (1)
 > **Env Vars:** hipaa (1), gdpr (1), hl7 (1), fhir (1)
 > **CLI Commands:** make (3)
@@ -1155,16 +1143,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to computer vision in healthcare
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/introduction-to-computer-vision-in-healthcare?u=76281980)
+#### [Introduction to computer vision in healthcare](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/introduction-to-computer-vision-in-healthcare?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/introduction-to-computer-vision-in-healthcare?u=76281980&t=0)** - [Instructor] Based on use in data type, there are different subfields of artificial intelligence, each specializing in solving specific types of problems.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/introduction-to-computer-vision-in-healthcare?u=76281980&t=0)** - [Instructor] Based on use in data type, there are different subfields of [[Artificial Intelligence (AI)|artificial intelligence]], each specializing in solving specific types of problems.
 >
-> **[0:10](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/introduction-to-computer-vision-in-healthcare?u=76281980&t=10)** Examples of those subfields include natural language processing, NLP, focused on sequences, such as text and speech data, computer vision for visual information, like images and videos, robotics integrate physical systems with AI to interact with the physical world, from autonomous surgical robots to delivery drones.
+> **[0:10](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/introduction-to-computer-vision-in-healthcare?u=76281980&t=10)** Examples of those subfields include [[Natural Language Processing (NLP)|natural language processing]], NLP, focused on sequences, such as text and speech data, [[Computer Vision]] for visual information, like images and videos, robotics integrate physical systems with AI to interact with the physical world, from autonomous surgical robots to delivery drones.
 >
-> **[0:40](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/introduction-to-computer-vision-in-healthcare?u=76281980&t=40)** In the first chapter, we have laid a solid foundation for deep learning, a subtype of machine learning.
+> **[0:40](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/introduction-to-computer-vision-in-healthcare?u=76281980&t=40)** In the first chapter, we have laid a solid foundation for [[Deep Learning]], a subtype of machine learning.
 >
 > **[0:47](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/introduction-to-computer-vision-in-healthcare?u=76281980&t=47)** Deep learning utilizes artificial neural network with multiple layers to learn complex pattern from data.
 >
@@ -1206,7 +1193,7 @@ created: 2026-05-02
 >
 > **[4:23](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/introduction-to-computer-vision-in-healthcare?u=76281980&t=263)** Treatment support.
 >
-> **[4:25](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/introduction-to-computer-vision-in-healthcare?u=76281980&t=265)** Computer vision powered by deep learning algorithms can provide real-time guidance during surgeries, helping surgeons to visualize complex anatomical structures and perform procedures with greater precision.
+> **[4:25](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/introduction-to-computer-vision-in-healthcare?u=76281980&t=265)** Computer vision powered by deep learning [[Algorithms]] can provide [[Real-Time]] guidance during surgeries, helping surgeons to visualize complex anatomical structures and perform procedures with greater precision.
 >
 > **[4:40](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/introduction-to-computer-vision-in-healthcare?u=76281980&t=280)** These systems can also do things like patient gait analysis to assess their mobility and identify potential risk for falls.
 >
@@ -1228,23 +1215,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Computer Vision]] (12), [[Deep Learning]] (6), data (4), ai (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Computer Vision]] (12), [[Deep Learning]] (6), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Algorithms]] (1)
 > **Analogies:** such as (2), for example (2)
 > **Env Vars:** nlp (1), mri (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding image data in healthcare
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/understanding-image-data-in-healthcare?u=76281980)
+#### [Understanding image data in healthcare](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/understanding-image-data-in-healthcare?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/understanding-image-data-in-healthcare?u=76281980&t=0)** - One of the reasons machine learning including deep learning algorithms shine is their versatility with data types.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/understanding-image-data-in-healthcare?u=76281980&t=0)** - One of the reasons machine learning including [[Deep Learning]] [[Algorithms]] shine is their versatility with data types.
 >
 > **[0:08](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/understanding-image-data-in-healthcare?u=76281980&t=8)** They can process and make predictions with complex data type such as images and videos.
 >
-> **[0:16](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/understanding-image-data-in-healthcare?u=76281980&t=16)** In the previous chapter, we have established that we will be focusing on computer vision in healthcare.
+> **[0:16](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/understanding-image-data-in-healthcare?u=76281980&t=16)** In the previous chapter, we have established that we will be focusing on [[Computer Vision]] in healthcare.
 >
 > **[0:23](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/understanding-image-data-in-healthcare?u=76281980&t=23)** Now, let's understand image data in healthcare.
 >
@@ -1256,7 +1242,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/understanding-image-data-in-healthcare?u=76281980&t=68)** Magnetic resonance imaging, MRI: employs magnetic fields and radio waves to create detailed images of soft tissue, useful for diagnosing conditions like brain tumors or ligament injuries.
 >
-> **[1:25](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/understanding-image-data-in-healthcare?u=76281980&t=85)** Ultrasound: captures real-time images using sound waves, often used in prenatal care or to assess organs like the heart and kidneys.
+> **[1:25](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/understanding-image-data-in-healthcare?u=76281980&t=85)** Ultrasound: captures [[Real-Time]] images using sound waves, often used in prenatal care or to assess organs like the heart and kidneys.
 >
 > **[1:37](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/understanding-image-data-in-healthcare?u=76281980&t=97)** Microscopic imaging: provides eye resolution images of cells and tissues, aiding in pathology and drug discovery.
 >
@@ -1274,7 +1260,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/understanding-image-data-in-healthcare?u=76281980&t=145)** Medical images may include noise, distortions, or artifacts due to limitation in imaging equipment or patient movement.
 >
-> **[2:35](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/understanding-image-data-in-healthcare?u=76281980&t=155)** Data privacy and security.
+> **[2:35](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/understanding-image-data-in-healthcare?u=76281980&t=155)** [[Data Privacy]] and security.
 >
 > **[2:38](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/understanding-image-data-in-healthcare?u=76281980&t=158)** Medical images contain sensitive patient's information, requiring special handling.
 >
@@ -1292,7 +1278,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/understanding-image-data-in-healthcare?u=76281980&t=199)** DICOM supports different modalities such as X-rays, CT, and MRI scans.
 >
-> **[3:25](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/understanding-image-data-in-healthcare?u=76281980&t=205)** It includes both image data and metadata such as patient's information and imaging parameters.
+> **[3:25](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/understanding-image-data-in-healthcare?u=76281980&t=205)** It includes both image data and [[Metadata]] such as patient's information and imaging parameters.
 >
 > **[3:34](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/understanding-image-data-in-healthcare?u=76281980&t=214)** NIfTI, Neuroimaging Informatics Technology Initiative.
 >
@@ -1320,7 +1306,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Computer Vision]] (2), [[Metadata]] (2), [[Deep Learning]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Computer Vision]] (2), [[Metadata]] (2), [[Deep Learning]] (1), [[Algorithms]] (1), [[Real-Time]] (1)
 > **Env Vars:** mri (4), dicom (2), jpeg (2), png (2), pet (1)
 > **Analogies:** such as (4)
 > **CLI Commands:** make (1)
@@ -1328,12 +1314,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - one (1)
 
-#### Anatomy of medical images: Exploring digital properties and structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/anatomy-of-medical-images-exploring-digital-properties-and-structure?u=76281980)
+#### [Anatomy of medical images: Exploring digital properties and structure](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/anatomy-of-medical-images-exploring-digital-properties-and-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/anatomy-of-medical-images-exploring-digital-properties-and-structure?u=76281980&t=0)** - [Instructor] To work effectively with image data in deep learning, the most important principle to understand is that algorithms operate on numeric data.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/anatomy-of-medical-images-exploring-digital-properties-and-structure?u=76281980&t=0)** - [Instructor] To work effectively with image data in [[Deep Learning]], the most important principle to understand is that [[Algorithms]] operate on numeric data.
 >
 > **[0:10](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/anatomy-of-medical-images-exploring-digital-properties-and-structure?u=76281980&t=10)** Regardless of the method or model being applied, the image must be represented numerically at some stage in the process.
 >
@@ -1341,7 +1326,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/anatomy-of-medical-images-exploring-digital-properties-and-structure?u=76281980&t=25)** I encourage you to follow along.
 >
-> **[0:28](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/anatomy-of-medical-images-exploring-digital-properties-and-structure?u=76281980&t=28)** To get started, open a new notebook in colab.[google.com](https://google.com) or any Python programming environment.
+> **[0:28](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/anatomy-of-medical-images-exploring-digital-properties-and-structure?u=76281980&t=28)** To get started, open a new notebook in colab.[[[Google]].com](https://google.com) or any [[Python (Programming Language)|Python]] programming environment.
 >
 > **[0:37](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/anatomy-of-medical-images-exploring-digital-properties-and-structure?u=76281980&t=37)** First, upload the Sample_Xray_Image.
 >
@@ -1509,7 +1494,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Deep Learning]] (2), [[Python (Programming Language)|Python]] (2), [[Programming]] (2), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (2), [[Python (Programming Language)|Python]] (2), [[Algorithms]] (1), [[Google]] (1)
 > **Code Identifiers:** xray_image (6), image_matrix (2), image_path (1), flattened_matrix (1), normalized_matrix (1)
 > **CLI Commands:** make (4), python (2), find (1)
 > **Env Vars:** png (1), flip_left_right (1)
@@ -1518,12 +1503,11 @@ created: 2026-05-02
 > **Tools:** colab (1)
 > **Definitions:** means that (1)
 
-#### Preparing X-ray image datasets for computer vision tasks
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/preparing-x-ray-image-datasets-for-computer-vision-tasks?u=76281980)
+#### [Preparing X-ray image datasets for computer vision tasks](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/preparing-x-ray-image-datasets-for-computer-vision-tasks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/preparing-x-ray-image-datasets-for-computer-vision-tasks?u=76281980&t=0)** - [Instructor] In your deep learning journey, you will spend a significant amount of time understanding data, its structure, storage, and distribution.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/preparing-x-ray-image-datasets-for-computer-vision-tasks?u=76281980&t=0)** - [Instructor] In your [[Deep Learning]] journey, you will spend a significant amount of time understanding data, its structure, storage, and distribution.
 >
 > **[0:10](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/preparing-x-ray-image-datasets-for-computer-vision-tasks?u=76281980&t=10)** Sometimes you'll also be involved in decision making to determine the optimal approach to handle these aspects.
 >
@@ -1619,7 +1603,7 @@ created: 2026-05-02
 >
 > **[7:38](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/preparing-x-ray-image-datasets-for-computer-vision-tasks?u=76281980&t=458)** We can verify the same for pneumonia, (keys clicking) and that's also correct.
 >
-> **[7:47](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/preparing-x-ray-image-datasets-for-computer-vision-tasks?u=76281980&t=467)** So now that we are sure that we only have 305 files left in normal and pneumonia, we can use move, shebang move, (keys clicking) and say all the rest of the file in normal.
+> **[7:47](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/preparing-x-ray-image-datasets-for-computer-vision-tasks?u=76281980&t=467)** So now that we are sure that we only have 305 files left in normal and pneumonia, we can use move, shebang move, (keys clicking) and say all the [[Representational State Transfer (REST)|rest]] of the file in normal.
 >
 > **[8:04](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/preparing-x-ray-image-datasets-for-computer-vision-tasks?u=76281980&t=484)** Let's copy the path.
 >
@@ -1689,7 +1673,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), ai (6), feature (3), [[Deep Learning]] (2), prompt (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Non-Speech:** (keys clicking) (36), (mouse clicking) (1)
 > **Tools:** bash (7), colab (1)
 > **CLI Commands:** make (3), unzip (2), find (1)
@@ -1698,12 +1682,11 @@ created: 2026-05-02
 > **Definitions:** is an  (2), is a  (2)
 > **Exercise Files:** download the (2)
 
-#### Task overview : Classifying normal vs. pneumonia X-rays
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/task-overview-classifying-normal-vs-pneumonia-x-rays?u=76281980)
+#### [Task overview : Classifying normal vs. pneumonia X-rays](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/task-overview-classifying-normal-vs-pneumonia-x-rays?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/task-overview-classifying-normal-vs-pneumonia-x-rays?u=76281980&t=0)** - [Instructor] In this course, our first practical computer vision task using deep learning will be X-ray image classification to distinguish between normal and pneumonia X-ray images.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/task-overview-classifying-normal-vs-pneumonia-x-rays?u=76281980&t=0)** - [Instructor] In this course, our first practical [[Computer Vision]] task using [[Deep Learning]] will be X-ray image classification to distinguish between normal and pneumonia X-ray images.
 >
 > **[0:13](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/task-overview-classifying-normal-vs-pneumonia-x-rays?u=76281980&t=13)** Pneumonia caused by various infectious agents is a significant global health concern that often require rapid and accurate diagnosis to ensure timely treatment.
 >
@@ -1717,7 +1700,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/task-overview-classifying-normal-vs-pneumonia-x-rays?u=76281980&t=58)** However, it is important to note that with the rapid evolution in this field, many other techniques and advancement exist, making this an ever-expanding area of study.
 >
-> **[1:10](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/task-overview-classifying-normal-vs-pneumonia-x-rays?u=76281980&t=70)** First, classifying normal versus pneumonia X-ray using convolutional neural networks, CNNs.
+> **[1:10](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/task-overview-classifying-normal-vs-pneumonia-x-rays?u=76281980&t=70)** First, classifying normal versus pneumonia X-ray using [[Convolutional Neural Networks (CNN)|convolutional neural networks]], CNNs.
 >
 > **[1:19](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/task-overview-classifying-normal-vs-pneumonia-x-rays?u=76281980&t=79)** Our first approach involves training the convolutional neural network from scratch, which is a foundational architecture in computer vision tasks.
 >
@@ -1729,7 +1712,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/task-overview-classifying-normal-vs-pneumonia-x-rays?u=76281980&t=119)** This approach requires significant computational resource and an ample supply of labeled data.
 >
-> **[2:07](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/task-overview-classifying-normal-vs-pneumonia-x-rays?u=76281980&t=127)** As such, it is most suitable for scenarios where large datasets and high-performance hardware are available.
+> **[2:07](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/task-overview-classifying-normal-vs-pneumonia-x-rays?u=76281980&t=127)** As such, it is most suitable for scenarios where large datasets and high-performance [[Hardware]] are available.
 >
 > **[2:17](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/task-overview-classifying-normal-vs-pneumonia-x-rays?u=76281980&t=137)** Two, classifying normal versus pneumonia X-ray using a pre-trained architecture.
 >
@@ -1761,19 +1744,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Deep Learning]] (4), [[Computer Vision]] (2), feature (2), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (4), [[Computer Vision]] (2), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1), [[Hardware]] (1)
 > **Env Vars:** cnn (1), clip (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Classifying normal vs. pneumonia X-rays using convolutional neural networks (CNNs)
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/classifying-normal-vs-pneumonia-x-rays-using-convolutional-neural-networks-cnns?u=76281980)
+#### [Classifying normal vs. pneumonia X-rays using convolutional neural networks (CNNs)](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/classifying-normal-vs-pneumonia-x-rays-using-convolutional-neural-networks-cnns?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/classifying-normal-vs-pneumonia-x-rays-using-convolutional-neural-networks-cnns?u=76281980&t=0)** - [Instructor] One of the most common task in computer vision is image classification.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/classifying-normal-vs-pneumonia-x-rays-using-convolutional-neural-networks-cnns?u=76281980&t=0)** - [Instructor] One of the most common task in [[Computer Vision]] is image classification.
 >
 > **[0:05](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/classifying-normal-vs-pneumonia-x-rays-using-convolutional-neural-networks-cnns?u=76281980&t=5)** In this video we will train a deep planning model to classify pneumonia and normal X-ray images.
 >
@@ -1831,7 +1813,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/classifying-normal-vs-pneumonia-x-rays-using-convolutional-neural-networks-cnns?u=76281980&t=223)** So for this task, these are the libraries that we are going to need.
 >
-> **[3:47](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/classifying-normal-vs-pneumonia-x-rays-using-convolutional-neural-networks-cnns?u=76281980&t=227)** We import tensorflow as stf.
+> **[3:47](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/classifying-normal-vs-pneumonia-x-rays-using-convolutional-neural-networks-cnns?u=76281980&t=227)** We import [[TensorFlow]] as stf.
 >
 > **[3:52](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/classifying-normal-vs-pneumonia-x-rays-using-convolutional-neural-networks-cnns?u=76281980&t=232)** We import image data generator from keras pre-processing.
 >
@@ -1937,7 +1919,7 @@ created: 2026-05-02
 >
 > **[8:47](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/classifying-normal-vs-pneumonia-x-rays-using-convolutional-neural-networks-cnns?u=76281980&t=527)** That means we did not import Adam.
 >
-> **[8:51](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/classifying-normal-vs-pneumonia-x-rays-using-convolutional-neural-networks-cnns?u=76281980&t=531)** Let's use Gemini to import Adam.
+> **[8:51](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/classifying-normal-vs-pneumonia-x-rays-using-convolutional-neural-networks-cnns?u=76281980&t=531)** Let's use [[Gemini]] to import Adam.
 >
 > **[8:55](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/classifying-normal-vs-pneumonia-x-rays-using-convolutional-neural-networks-cnns?u=76281980&t=535)** So Gemini is asking us to simply import Adam optimizer as a class from tensorflow optimizers.
 >
@@ -2077,7 +2059,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (8), data (8), [[Gemini]] (4), [[TensorFlow]] (3), [[Computer Vision]] (1)
+> **Frameworks & Libraries:** [[Gemini]] (4), [[TensorFlow]] (3), [[Computer Vision]] (1)
 > **Definitions:** is a  (3), is called (1), is an  (1), means that (1)
 > **Env Vars:** ipa (3), gpu (1), cnn (1)
 > **Tools:** bash (4)
@@ -2086,18 +2068,17 @@ created: 2026-05-02
 > **Code Identifiers:** tensorflow (1), conv2d (1)
 > **Cross-References:** previous video (2)
 
-#### Classifying normal vs. pneumonia X-rays using a pretrained architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/classifying-normal-vs-pneumonia-x-rays-using-a-pretrained-architecture?u=76281980)
+#### [Classifying normal vs. pneumonia X-rays using a pretrained architecture](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/classifying-normal-vs-pneumonia-x-rays-using-a-pretrained-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/classifying-normal-vs-pneumonia-x-rays-using-a-pretrained-architecture?u=76281980&t=0)** - [Instructor] In the previous video, we trained a CNN-based deep learning model from scratch.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/classifying-normal-vs-pneumonia-x-rays-using-a-pretrained-architecture?u=76281980&t=0)** - [Instructor] In the previous video, we trained a CNN-based [[Deep Learning]] model from scratch.
 >
 > **[0:05](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/classifying-normal-vs-pneumonia-x-rays-using-a-pretrained-architecture?u=76281980&t=5)** So classifying normal versus pneumonia x-ray images.
 >
 > **[0:09](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/classifying-normal-vs-pneumonia-x-rays-using-a-pretrained-architecture?u=76281980&t=9)** In this session, we will repeat the same task but this time using a pretrained architecture and a much smaller dataset.
 >
-> **[0:18](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/classifying-normal-vs-pneumonia-x-rays-using-a-pretrained-architecture?u=76281980&t=18)** Remember, go to colab.[google.com](https://google.com) to open the notebook, change your run time to GPU and from the provided exercise files, upload the xray_normal_pneumonia_small dataset.
+> **[0:18](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/classifying-normal-vs-pneumonia-x-rays-using-a-pretrained-architecture?u=76281980&t=18)** Remember, go to colab.[[[Google]].com](https://google.com) to open the notebook, change your run time to GPU and from the provided exercise files, upload the xray_normal_pneumonia_small dataset.
 >
 > **[0:39](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/classifying-normal-vs-pneumonia-x-rays-using-a-pretrained-architecture?u=76281980&t=39)** Please note that this is a very small dataset.
 >
@@ -2113,7 +2094,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/classifying-normal-vs-pneumonia-x-rays-using-a-pretrained-architecture?u=76281980&t=75)** We have our train and test set.
 >
-> **[1:20](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/classifying-normal-vs-pneumonia-x-rays-using-a-pretrained-architecture?u=76281980&t=80)** The next step is to import the necessary libraries from tensorflow.keras.applications import.
+> **[1:20](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/classifying-normal-vs-pneumonia-x-rays-using-a-pretrained-architecture?u=76281980&t=80)** The next step is to import the necessary libraries from [[TensorFlow]].keras.applications import.
 >
 > **[1:36](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/classifying-normal-vs-pneumonia-x-rays-using-a-pretrained-architecture?u=76281980&t=96)** We are going to use ResNet50.
 >
@@ -2223,7 +2204,7 @@ created: 2026-05-02
 >
 > **[7:16](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/classifying-normal-vs-pneumonia-x-rays-using-a-pretrained-architecture?u=76281980&t=436)** So let's start training.
 >
-> **[7:19](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/classifying-normal-vs-pneumonia-x-rays-using-a-pretrained-architecture?u=76281980&t=439)** While this is training, I will keep writing the rest of the code.
+> **[7:19](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/classifying-normal-vs-pneumonia-x-rays-using-a-pretrained-architecture?u=76281980&t=439)** While this is training, I will keep writing the [[Representational State Transfer (REST)|rest]] of the code.
 >
 > **[7:26](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/classifying-normal-vs-pneumonia-x-rays-using-a-pretrained-architecture?u=76281980&t=446)** So, loss accuracy, we want to test it here and if you like to save this model, just like we did the other time, so let's save it if you care about that.
 >
@@ -2289,7 +2270,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), next (6), [[Deep Learning]] (2), [[TensorFlow]] (2), cnn (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (2), [[TensorFlow]] (2), [[Google]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** train_datagen (2), train_generator (2), base_model (2), predicted_label (2), xray_normal_pneumonia_small (1)
 > **CLI Commands:** make (3), unzip (2), find (2)
 > **Analogies:** just like (3), imagine (2)
@@ -2298,8 +2279,7 @@ created: 2026-05-02
 > **Env Vars:** cnn (1), gpu (1)
 > **Versions:** 0.69 (1), 0.5 (1)
 
-#### Classifying normal vs. pneumonia X-rays using zero-shot learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/classifying-normal-vs-pneumonia-x-rays-using-zero-shot-learning?u=76281980)
+#### [Classifying normal vs. pneumonia X-rays using zero-shot learning](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/classifying-normal-vs-pneumonia-x-rays-using-zero-shot-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2311,7 +2291,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/classifying-normal-vs-pneumonia-x-rays-using-zero-shot-learning?u=76281980&t=19)** In this video, we will implement this approach using a clip based model from organ phase transformers library.
 >
-> **[0:28](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/classifying-normal-vs-pneumonia-x-rays-using-zero-shot-learning?u=76281980&t=28)** To get started, remember to open the Colab notebook at colab.research.[google.com](https://google.com) and upload xray_normal_pneumonia_small that is provided for you in the exercise files.
+> **[0:28](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/classifying-normal-vs-pneumonia-x-rays-using-zero-shot-learning?u=76281980&t=28)** To get started, remember to open the Colab notebook at colab.research.[[[Google]].com](https://google.com) and upload xray_normal_pneumonia_small that is provided for you in the exercise files.
 >
 > **[0:47](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/classifying-normal-vs-pneumonia-x-rays-using-zero-shot-learning?u=76281980&t=47)** Now that the upload is complete, let's copy the file path and unzip into our workspace.
 >
@@ -2345,7 +2325,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/classifying-normal-vs-pneumonia-x-rays-using-zero-shot-learning?u=76281980&t=178)** And for the input in the processor, we specify that these are our labels, which we have defined here.
 >
-> **[3:06](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/classifying-normal-vs-pneumonia-x-rays-using-zero-shot-learning?u=76281980&t=186)** This is our image, and we wanted to return the tensors as pytorch and then to path the data.
+> **[3:06](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/classifying-normal-vs-pneumonia-x-rays-using-zero-shot-learning?u=76281980&t=186)** This is our image, and we wanted to return the tensors as [[PyTorch]] and then to path the data.
 >
 > **[3:16](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/classifying-normal-vs-pneumonia-x-rays-using-zero-shot-learning?u=76281980&t=196)** So now that we've pre-processed the data a bit, we will pass it into the model as input.
 >
@@ -2435,7 +2415,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Google]] (1), next (1), [[PyTorch]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[PyTorch]] (1)
 > **Code Identifiers:** xray_normal_pneumonia_small (1), logits_per_image (1), sample_file_path (1), from_pretrained (1)
 > **Definitions:** is an  (2), is a  (1)
 > **CLI Commands:** unzip (1), make (1)
@@ -2444,8 +2424,7 @@ created: 2026-05-02
 > **URLs:** [google.com](https://google.com) (1)
 > **UI Navigation:** open the (1)
 
-#### Task overview: Object detection in medical imaging
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/task-overview-object-detection-in-medical-imaging?u=76281980)
+#### [Task overview: Object detection in medical imaging](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/task-overview-object-detection-in-medical-imaging?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2471,29 +2450,28 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/task-overview-object-detection-in-medical-imaging?u=76281980&t=106)** And then transfer learning with pretrained models.
 >
-> **[1:49](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/task-overview-object-detection-in-medical-imaging?u=76281980&t=109)** General object detection algorithms such as YOLO, You Only Look Once, or Faster R-CNN, can be fine-tuned on medical imaging dataset.
+> **[1:49](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/task-overview-object-detection-in-medical-imaging?u=76281980&t=109)** General object detection [[Algorithms]] such as YOLO, You Only Look Once, or Faster R-CNN, can be fine-tuned on medical imaging dataset.
 >
-> **[2:00](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/task-overview-object-detection-in-medical-imaging?u=76281980&t=120)** These algorithms excel in detecting objects in real world images and can be adapted for medical context with sufficient labeled data.
+> **[2:00](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/task-overview-object-detection-in-medical-imaging?u=76281980&t=120)** These algorithms [[Microsoft Excel|excel]] in detecting objects in real world images and can be adapted for medical context with sufficient labeled data.
 >
 > **[2:11](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/task-overview-object-detection-in-medical-imaging?u=76281980&t=131)** In the next video, we will explore zero-shot detection based transfer learning, attempting to use a CLIP based multimodal model to detect and localize findings in x-ray images.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Algorithms]] (2), cnn (1), [[Microsoft Excel|Excel]] (1), next (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** mri (1), net (1), yolo (1), cnn (1), clip (1)
 > **Analogies:** such as (2), for example (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Zero-shot object detection in X-rays using CLIP-based models
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/zero-shot-object-detection-in-x-rays-using-clip-based-models?u=76281980)
+#### [Zero-shot object detection in X-rays using CLIP-based models](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/zero-shot-object-detection-in-x-rays-using-clip-based-models?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/zero-shot-object-detection-in-x-rays-using-clip-based-models?u=76281980&t=0)** - [Instructor] In this video, we're going to practice zero-shot object detection using the CLIP-based model on X-ray images.
 >
-> **[0:06](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/zero-shot-object-detection-in-x-rays-using-clip-based-models?u=76281980&t=6)** Remember to open colab.[google.com](https://google.com).
+> **[0:06](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/zero-shot-object-detection-in-x-rays-using-clip-based-models?u=76281980&t=6)** Remember to open colab.[[[Google]].com](https://google.com).
 >
 > **[0:10](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/zero-shot-object-detection-in-x-rays-using-clip-based-models?u=76281980&t=10)** In this instance, since we are only making inference, you don't have to use GPU instance and upload the xray_normal_pneumonia_small dataset provided for you in the Exercise File.
 >
@@ -2509,7 +2487,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/zero-shot-object-detection-in-x-rays-using-clip-based-models?u=76281980&t=69)** Now let's do the BioMed CLIP, model = Automodel.from_pretrained, and this is the BioMed version of CLIP.
 >
-> **[1:26](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/zero-shot-object-detection-in-x-rays-using-clip-based-models?u=76281980&t=86)** This is available on Hugging Face.
+> **[1:26](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/zero-shot-object-detection-in-x-rays-using-clip-based-models?u=76281980&t=86)** This is available on [[Hugging Face]].
 >
 > **[1:28](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/zero-shot-object-detection-in-x-rays-using-clip-based-models?u=76281980&t=88)** You can look it up and read more about the model and how it was trained, if you care about that.
 >
@@ -2557,11 +2535,11 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/zero-shot-object-detection-in-x-rays-using-clip-based-models?u=76281980&t=237)** The X-ray images are grayscale, so let's make them three channels by converting them to RGB.
 >
-> **[4:05](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/zero-shot-object-detection-in-x-rays-using-clip-based-models?u=76281980&t=245)** Then the input will be the processor that takes the text_prompts, image, it's returns tensors that pytorch-compatible, and you pad it, and then you apply the model to this input.
+> **[4:05](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/zero-shot-object-detection-in-x-rays-using-clip-based-models?u=76281980&t=245)** Then the input will be the processor that takes the text_prompts, image, it's returns tensors that [[PyTorch]]-compatible, and you pad it, and then you apply the model to this input.
 >
 > **[4:23](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/zero-shot-object-detection-in-x-rays-using-clip-based-models?u=76281980&t=263)** The next step is to define the logic_per_image variable.
 >
-> **[4:31](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/zero-shot-object-detection-in-x-rays-using-clip-based-models?u=76281980&t=271)** So the logic_per_image and then the probability.
+> **[4:31](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/zero-shot-object-detection-in-x-rays-using-clip-based-models?u=76281980&t=271)** So the logic_per_image and then the [[Probability]].
 >
 > **[4:35](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/zero-shot-object-detection-in-x-rays-using-clip-based-models?u=76281980&t=275)** We are going to use softmax, one dimension.
 >
@@ -2643,7 +2621,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), prompt (2), [[Google]] (1), [[Hugging Face]] (1), [[PyTorch]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Hugging Face]] (1), [[PyTorch]] (1), [[Probability]] (1)
 > **Code Identifiers:** predicted_label (3), logic_per_image (2), xray_normal_pneumonia_small (1), from_pretrained (1), trust_remote_code (1)
 > **Env Vars:** clip (7), gpu (1), rgb (1)
 > **CLI Commands:** make (4), find (2), unzip (1)
@@ -2657,12 +2635,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/next-steps?u=76281980&t=0)** - We've been on an incredible journey, learning all about deep learning and its practical applications in healthcare together.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/next-steps?u=76281980&t=0)** - We've been on an incredible journey, learning all about [[Deep Learning]] and its practical applications in healthcare together.
 >
 > **[0:09](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/next-steps?u=76281980&t=9)** So, what's next for you?
 >
@@ -2672,9 +2649,9 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/next-steps?u=76281980&t=20)** You may find certain parts challenging, but solving them will be both rewarding and potentially life-changing.
 >
-> **[0:28](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/next-steps?u=76281980&t=28)** In this course, we focused on computer vision.
+> **[0:28](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/next-steps?u=76281980&t=28)** In this course, we focused on [[Computer Vision]].
 >
-> **[0:32](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/next-steps?u=76281980&t=32)** If you're interested in exploring natural language processing, NLP for healthcare, check out my LinkedIn Learning course, [[Advanced AI- NLP Techniques for Clinical Datasets]], and to practice further, explore my Hands-on Data Science and AI course on LinkedIn.
+> **[0:32](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/next-steps?u=76281980&t=32)** If you're interested in exploring [[Natural Language Processing (NLP)|natural language processing]], NLP for healthcare, check out my [[LinkedIn]] Learning course, [[Advanced AI- NLP Techniques for Clinical Datasets]], and to practice further, explore my Hands-on [[Data Science]] and AI course on LinkedIn.
 >
 > **[0:53](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/next-steps?u=76281980&t=53)** Congratulations on completing this course.
 >
@@ -2682,7 +2659,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** nlp (2), [[LinkedIn]] (2), ai (2), [[Deep Learning]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Deep Learning]] (1), [[Computer Vision]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Data Science]] (1)
 > **Env Vars:** nlp (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - we (1)

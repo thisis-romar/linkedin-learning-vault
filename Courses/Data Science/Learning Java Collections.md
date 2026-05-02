@@ -113,14 +113,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Java collections framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/java-collections-framework?u=76281980)
+#### [Java collections framework](https://www.linkedin.com/learning/learning-java-collections/java-collections-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-java-collections/java-collections-framework?u=76281980&t=0)** - [Kevin] After you learn the fundamentals of Java, there's no better second step in your learning journey than the Java collections framework.
+> **[0:00](https://www.linkedin.com/learning/learning-java-collections/java-collections-framework?u=76281980&t=0)** - [Kevin] After you learn the fundamentals of [[Java]], there's no better second step in your learning journey than the Java collections framework.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-java-collections/java-collections-framework?u=76281980&t=8)** The framework provides data structures like lists, queues, and maps that Java developers work with every day.
+> **[0:08](https://www.linkedin.com/learning/learning-java-collections/java-collections-framework?u=76281980&t=8)** The framework provides [[Data Structures]] like lists, queues, and maps that Java developers work with every day.
 >
 > **[0:16](https://www.linkedin.com/learning/learning-java-collections/java-collections-framework?u=76281980&t=16)** Having these data structures in your toolbox is critical for coding everything from the most basic to the most advanced Java applications.
 >
@@ -130,19 +129,18 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/learning-java-collections/java-collections-framework?u=76281980&t=35)** In this course, I'll teach you about the concepts of the framework, its interfaces, and how to work with them so you can put them into practice and be successful with collections.
 >
-> **[0:47](https://www.linkedin.com/learning/learning-java-collections/java-collections-framework?u=76281980&t=47)** So if you're ready to level up with Java, join me in my LinkedIn Learning course to learn how Java collections will help you deliver better solutions.
+> **[0:47](https://www.linkedin.com/learning/learning-java-collections/java-collections-framework?u=76281980&t=47)** So if you're ready to level up with Java, join me in my [[LinkedIn]] Learning course to learn how Java collections will help you deliver better solutions.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (8), data (2), career (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Java]] (8), [[Data Structures]] (2), [[LinkedIn]] (1)
 > **Speakers:** - [kevin] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/learning-java-collections/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-java-collections/what-you-should-know?u=76281980&t=0)** - [Instructor] Before taking a closer look at the Java collections framework, let's talk a bit about who the course is for and what you should know ahead of time.
+> **[0:00](https://www.linkedin.com/learning/learning-java-collections/what-you-should-know?u=76281980&t=0)** - [Instructor] Before taking a closer look at the [[Java]] collections framework, let's talk a bit about who the course is for and what you should know ahead of time.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-java-collections/what-you-should-know?u=76281980&t=8)** If you're a Java developer who knows the basics, this course is a great next step for advancing your knowledge of the language.
 >
@@ -150,9 +148,9 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/learning-java-collections/what-you-should-know?u=76281980&t=21)** These are some of the most heavily-used classes in Java.
 >
-> **[0:25](https://www.linkedin.com/learning/learning-java-collections/what-you-should-know?u=76281980&t=25)** So as a Java developer, you'll read and write code that uses these data structures constantly.
+> **[0:25](https://www.linkedin.com/learning/learning-java-collections/what-you-should-know?u=76281980&t=25)** So as a Java developer, you'll read and write code that uses these [[Data Structures]] constantly.
 >
-> **[0:32](https://www.linkedin.com/learning/learning-java-collections/what-you-should-know?u=76281980&t=32)** That makes this course a great investment of your time because you'll benefit instantly and throughout the rest of your career.
+> **[0:32](https://www.linkedin.com/learning/learning-java-collections/what-you-should-know?u=76281980&t=32)** That makes this course a great investment of your time because you'll benefit instantly and throughout the [[Representational State Transfer (REST)|rest]] of your career.
 >
 > **[0:39](https://www.linkedin.com/learning/learning-java-collections/what-you-should-know?u=76281980&t=39)** There are a few things that you'll need for the course.
 >
@@ -160,7 +158,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/learning-java-collections/what-you-should-know?u=76281980&t=51)** However, it shouldn't be your first introduction to Java.
 >
-> **[0:54](https://www.linkedin.com/learning/learning-java-collections/what-you-should-know?u=76281980&t=54)** So if you've never worked with the language, check out the LinkedIn Learning library for an introductory course, like Learning Java.
+> **[0:54](https://www.linkedin.com/learning/learning-java-collections/what-you-should-know?u=76281980&t=54)** So if you've never worked with the language, check out the [[LinkedIn]] Learning library for an introductory course, like Learning Java.
 >
 > **[1:01](https://www.linkedin.com/learning/learning-java-collections/what-you-should-know?u=76281980&t=61)** To follow along with the course, you'll need to have JDK 11 and Maven installed on your machine.
 >
@@ -178,7 +176,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (7), data (3), [[Representational State Transfer (REST)|Rest]] (2), next (1), career (1)
+> **Frameworks & Libraries:** [[Java]] (7), [[Representational State Transfer (REST)|Rest]] (2), [[Data Structures]] (1), [[LinkedIn]] (1)
 > **Prerequisites:** you'll need (3)
 > **Env Vars:** jdk (1), ide (1)
 > **Definitions:** is a  (1)
@@ -189,8 +187,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Solving everyday problems with data
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/solving-everyday-problems-with-data?u=76281980)
+#### [Solving everyday problems with data](https://www.linkedin.com/learning/learning-java-collections/solving-everyday-problems-with-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -224,27 +221,26 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/learning-java-collections/solving-everyday-problems-with-data?u=76281980&t=85)** The keys are then associated with or mapped to values, which in this case, indicate the tasks in the project.
 >
-> **[1:33](https://www.linkedin.com/learning/learning-java-collections/solving-everyday-problems-with-data?u=76281980&t=93)** Each of these key value pairs forms an entry in our map that we can use to determine who is working on each task.
+> **[1:33](https://www.linkedin.com/learning/learning-java-collections/solving-everyday-problems-with-data?u=76281980&t=93)** Each of these key value pairs [[Forms]] an entry in our map that we can use to determine who is working on each task.
 >
 > **[1:42](https://www.linkedin.com/learning/learning-java-collections/solving-everyday-problems-with-data?u=76281980&t=102)** Concepts like lists and maps are two basic tools we use almost daily to organize data when solving problems.
 >
-> **[1:50](https://www.linkedin.com/learning/learning-java-collections/solving-everyday-problems-with-data?u=76281980&t=110)** In computer science, these are known as data structures, and it's very common to find them built into programming languages.
+> **[1:50](https://www.linkedin.com/learning/learning-java-collections/solving-everyday-problems-with-data?u=76281980&t=110)** In computer science, these are known as [[Data Structures]], and it's very common to find them built into programming languages.
 >
-> **[1:59](https://www.linkedin.com/learning/learning-java-collections/solving-everyday-problems-with-data?u=76281980&t=119)** In Java, those data structures are found in the Java Collections Framework, which you're going to learn a lot more about in this course.
+> **[1:59](https://www.linkedin.com/learning/learning-java-collections/solving-everyday-problems-with-data?u=76281980&t=119)** In [[Java]], those data structures are found in the Java Collections Framework, which you're going to learn a lot more about in this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), application (2), [[Java]] (2), [[Forms]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Data Structures]] (2), [[Java]] (2), [[Forms]] (1)
 > **Definitions:** is an  (1), known as (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data structures
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/data-structures?u=76281980)
+#### [Data structures](https://www.linkedin.com/learning/learning-java-collections/data-structures?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-java-collections/data-structures?u=76281980&t=0)** - [Instructor] So we established that the Java collections framework provides data structures for the Java programming language.
+> **[0:00](https://www.linkedin.com/learning/learning-java-collections/data-structures?u=76281980&t=0)** - [Instructor] So we established that the [[Java]] collections framework provides [[Data Structures]] for the Java programming language.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-java-collections/data-structures?u=76281980&t=7)** Now let's talk more about what data structures do.
 >
@@ -298,22 +294,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Java]] (4), [[Programming]] (1), [[Search]] (1), next (1)
+> **Frameworks & Libraries:** [[Data Structures]] (8), [[Java]] (4)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** known as (2)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Collections framework architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/collections-framework-architecture?u=76281980)
+#### [Collections framework architecture](https://www.linkedin.com/learning/learning-java-collections/collections-framework-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-java-collections/collections-framework-architecture?u=76281980&t=0)** - [Tutor] Now let's shift gears and focus on working with data structures in Java.
+> **[0:00](https://www.linkedin.com/learning/learning-java-collections/collections-framework-architecture?u=76281980&t=0)** - [Tutor] Now let's shift gears and focus on working with [[Data Structures]] in [[Java]].
 >
 > **[0:04](https://www.linkedin.com/learning/learning-java-collections/collections-framework-architecture?u=76281980&t=4)** So that means we need to start unpacking the collections framework.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-java-collections/collections-framework-architecture?u=76281980&t=9)** The framework can be broken down into three sections, interfaces, algorithms, and implementations.
+> **[0:09](https://www.linkedin.com/learning/learning-java-collections/collections-framework-architecture?u=76281980&t=9)** The framework can be broken down into three sections, interfaces, [[Algorithms]], and implementations.
 >
 > **[0:16](https://www.linkedin.com/learning/learning-java-collections/collections-framework-architecture?u=76281980&t=16)** The interfaces are the foundation of the platform because they are the main abstract types that determine what methods are available on collections, like the list, set, and map.
 >
@@ -371,15 +366,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (9), data (8), [[Algorithms]] (2), next (1)
+> **Frameworks & Libraries:** [[Java]] (9), [[Data Structures]] (6), [[Algorithms]] (2)
 > **CLI Commands:** find (2), apache (1)
 > **Exercise Files:** source code (2)
 > **Versions:** java 1 (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [tutor] (1)
 
-#### Working with a collection
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/working-with-a-collection?u=76281980)
+#### [Working with a collection](https://www.linkedin.com/learning/learning-java-collections/working-with-a-collection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -513,15 +507,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** getpotentialrevenue (2), maptodouble (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Beyond the array
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/beyond-the-array?u=76281980)
+#### [Beyond the array](https://www.linkedin.com/learning/learning-java-collections/beyond-the-array?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -587,7 +579,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/learning-java-collections/beyond-the-array?u=76281980&t=165)** The best case is that you'll be less productive and the worst case is that you'll build a buggy implementation.
 >
-> **[2:51](https://www.linkedin.com/learning/learning-java-collections/beyond-the-array?u=76281980&t=171)** By using Java's out-of-the-box collections instead of arrays, you'll save time by avoiding these types of situations and you'll write better code.
+> **[2:51](https://www.linkedin.com/learning/learning-java-collections/beyond-the-array?u=76281980&t=171)** By using [[Java]]'s out-of-the-box collections instead of arrays, you'll save time by avoiding these types of situations and you'll write better code.
 
 > [!info]- Semantic Content
 >
@@ -602,8 +594,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Interfaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/interfaces?u=76281980)
+#### [Interfaces](https://www.linkedin.com/learning/learning-java-collections/interfaces?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -747,7 +738,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Debugging]] (1)
 > **Definitions:** is a  (3), is an  (1), known as (1)
 > **Env Vars:** ide (2)
 > **Exercise Files:** template (2)
@@ -755,13 +745,13 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Code Identifiers:** extendedterm (1)
 > **UI Navigation:** click on (1)
+> **Prerequisites:** you'll need (1)
 
-#### Collection types
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/collection-types?u=76281980)
+#### [Collection types](https://www.linkedin.com/learning/learning-java-collections/collection-types?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-java-collections/collection-types?u=76281980&t=0)** - [Instructor] Several core interfaces form the foundation that the Java collection framework is built upon.
+> **[0:00](https://www.linkedin.com/learning/learning-java-collections/collection-types?u=76281980&t=0)** - [Instructor] Several core interfaces form the foundation that the [[Java]] collection framework is built upon.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-java-collections/collection-types?u=76281980&t=6)** Let's explore what they are, their hierarchy, and some patterns for working with them.
 >
@@ -781,7 +771,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/learning-java-collections/collection-types?u=76281980&t=60)** The map interface is still considered a part of the collections framework, but you'll notice that it doesn't inherit from the base collection interface.
 >
-> **[1:08](https://www.linkedin.com/learning/learning-java-collections/collection-types?u=76281980&t=68)** It forms its own type hierarchy, but doesn't deviate too far from the patterns that will be used for other collections.
+> **[1:08](https://www.linkedin.com/learning/learning-java-collections/collection-types?u=76281980&t=68)** It [[Forms]] its own type hierarchy, but doesn't deviate too far from the patterns that will be used for other collections.
 >
 > **[1:15](https://www.linkedin.com/learning/learning-java-collections/collection-types?u=76281980&t=75)** We can expand upon this view to include some of the most common concrete classes the framework provides as implementations of these interfaces.
 >
@@ -811,14 +801,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (1), [[Forms]] (1), data (1)
+> **Frameworks & Libraries:** [[Java]] (1), [[Forms]] (1)
 > **CLI Commands:** find (2)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### The Collection interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/the-collection-interface?u=76281980)
+#### [The Collection interface](https://www.linkedin.com/learning/learning-java-collections/the-collection-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -844,7 +833,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/learning-java-collections/the-collection-interface?u=76281980&t=70)** This generic type impacts how we use collection methods because it determines what arguments may be passed into them or what type of object they might return.
 >
-> **[1:20](https://www.linkedin.com/learning/learning-java-collections/the-collection-interface?u=76281980&t=80)** These are the 21 methods found on the collection interface as of Java 11.
+> **[1:20](https://www.linkedin.com/learning/learning-java-collections/the-collection-interface?u=76281980&t=80)** These are the 21 methods found on the collection interface as of [[Java]] 11.
 >
 > **[1:25](https://www.linkedin.com/learning/learning-java-collections/the-collection-interface?u=76281980&t=85)** I've placed them into several groups and added asterisks next to the optional methods.
 >
@@ -860,14 +849,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (6), next (2), [[Java]] (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **CLI Commands:** make (1)
 > **Versions:** java 11 (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Collection methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/collection-methods?u=76281980)
+#### [Collection methods](https://www.linkedin.com/learning/learning-java-collections/collection-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -949,14 +937,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (2)
 > **Code Identifiers:** removeall (2), addall (1), retainall (1), containsall (1), isempty (1)
 > **Definitions:** known as (1), is a  (1), means that (1)
 > **Cross-References:** later in (2)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a collection
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/creating-a-collection?u=76281980)
+#### [Creating a collection](https://www.linkedin.com/learning/learning-java-collections/creating-a-collection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -970,7 +956,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/learning-java-collections/creating-a-collection?u=76281980&t=22)** However, if I wanted to be more specific about the type, I could've switched over to use the set interface.
 >
-> **[0:28](https://www.linkedin.com/learning/learning-java-collections/creating-a-collection?u=76281980&t=28)** So let's make the change and import the set from java.util.set.
+> **[0:28](https://www.linkedin.com/learning/learning-java-collections/creating-a-collection?u=76281980&t=28)** So let's make the change and import the set from [[Java]].util.set.
 >
 > **[0:33](https://www.linkedin.com/learning/learning-java-collections/creating-a-collection?u=76281980&t=33)** Now, the reason this works is because the hash set implements the set interface.
 >
@@ -1004,7 +990,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/learning-java-collections/creating-a-collection?u=76281980&t=121)** I'm going to add a few of my favorite things.
 >
-> **[2:03](https://www.linkedin.com/learning/learning-java-collections/creating-a-collection?u=76281980&t=123)** So I love to snowboard, I love Linux, I also love to read, and I'm so excited about snowboarding, I'm going to add that twice.
+> **[2:03](https://www.linkedin.com/learning/learning-java-collections/creating-a-collection?u=76281980&t=123)** So I love to snowboard, I love [[Linux]], I also love to read, and I'm so excited about snowboarding, I'm going to add that twice.
 >
 > **[2:12](https://www.linkedin.com/learning/learning-java-collections/creating-a-collection?u=76281980&t=132)** All right, now our collection isn't so empty.
 >
@@ -1052,7 +1038,7 @@ created: 2026-05-02
 >
 > **[4:32](https://www.linkedin.com/learning/learning-java-collections/creating-a-collection?u=76281980&t=272)** So this is going to make your code a lot higher quality if you keep this point in mind.
 >
-> **[4:38](https://www.linkedin.com/learning/learning-java-collections/creating-a-collection?u=76281980&t=278)** I'm always on the lookout for it in a code review.
+> **[4:38](https://www.linkedin.com/learning/learning-java-collections/creating-a-collection?u=76281980&t=278)** I'm always on the lookout for it in a [[Code Review]].
 >
 > **[4:42](https://www.linkedin.com/learning/learning-java-collections/creating-a-collection?u=76281980&t=282)** All right, and just to prove it works, we'll go ahead and execute our code again.
 >
@@ -1064,13 +1050,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (4), [[Java]] (3), [[Linux]] (2), [[Code Review]] (1), next (1)
+> **Frameworks & Libraries:** [[Java]] (3), [[Linux]] (2), [[Code Review]] (1)
 > **CLI Commands:** make (2)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generic typing
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/generic-typing?u=76281980)
+#### [Generic typing](https://www.linkedin.com/learning/learning-java-collections/generic-typing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1094,7 +1079,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/learning-java-collections/generic-typing?u=76281980&t=51)** Let's see what happens.
 >
-> **[0:53](https://www.linkedin.com/learning/learning-java-collections/generic-typing?u=76281980&t=53)** You'll notice that our primitive long was autoboxed to its wrapper type java.lang.long.
+> **[0:53](https://www.linkedin.com/learning/learning-java-collections/generic-typing?u=76281980&t=53)** You'll notice that our primitive long was autoboxed to its wrapper type [[Java]].lang.long.
 >
 > **[0:59](https://www.linkedin.com/learning/learning-java-collections/generic-typing?u=76281980&t=59)** Now it's not a good practice, but right now we can add any type of element into our collection.
 >
@@ -1152,19 +1137,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (5), [[Java]] (2)
+> **Frameworks & Libraries:** [[Java]] (2)
 > **Env Vars:** ide (1)
 > **Versions:** java 5 (1)
 > **Definitions:** known as (1)
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Object comparison
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/object-comparison?u=76281980)
+#### [Object comparison](https://www.linkedin.com/learning/learning-java-collections/object-comparison?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-java-collections/object-comparison?u=76281980&t=0)** - [Instructor] When working with the Java collections framework, several collections and their methods rely heavily upon comparing objects.
+> **[0:00](https://www.linkedin.com/learning/learning-java-collections/object-comparison?u=76281980&t=0)** - [Instructor] When working with the [[Java]] collections framework, several collections and their methods rely heavily upon comparing objects.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-java-collections/object-comparison?u=76281980&t=8)** Just looking at the collection interface, we'll find a few of these methods.
 >
@@ -1206,13 +1190,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (5), next (1)
+> **Frameworks & Libraries:** [[Java]] (5)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### The equals method
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/the-equals-method?u=76281980)
+#### [The equals method](https://www.linkedin.com/learning/learning-java-collections/the-equals-method?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1274,7 +1257,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/learning-java-collections/the-equals-method?u=76281980&t=201)** Now, you'll notice HashCode is included there too.
 >
-> **[3:25](https://www.linkedin.com/learning/learning-java-collections/the-equals-method?u=76281980&t=205)** That's because there's some rules in the Java doc that say we must override HashCode when we override equals.
+> **[3:25](https://www.linkedin.com/learning/learning-java-collections/the-equals-method?u=76281980&t=205)** That's because there's some rules in the [[Java]] doc that say we must override HashCode when we override equals.
 >
 > **[3:33](https://www.linkedin.com/learning/learning-java-collections/the-equals-method?u=76281980&t=213)** We're not going to get into that right now.
 >
@@ -1312,7 +1295,7 @@ created: 2026-05-02
 >
 > **[5:33](https://www.linkedin.com/learning/learning-java-collections/the-equals-method?u=76281980&t=333)** Okay, so let me just tidy that up and then we're going to save that and now head over to our unit test.
 >
-> **[5:40](https://www.linkedin.com/learning/learning-java-collections/the-equals-method?u=76281980&t=340)** I'm going to go ahead right-click, go to run as JUnit test, and this time, you'll notice using the value-based comparison, our test pass.
+> **[5:40](https://www.linkedin.com/learning/learning-java-collections/the-equals-method?u=76281980&t=340)** I'm going to go ahead right-click, go to run as [[JUnit]] test, and this time, you'll notice using the value-based comparison, our test pass.
 >
 > **[5:51](https://www.linkedin.com/learning/learning-java-collections/the-equals-method?u=76281980&t=351)** Let's take a look at the console output.
 >
@@ -1332,7 +1315,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (3), next (1), hit (1), [[JUnit]] (1)
+> **Frameworks & Libraries:** [[Java]] (3), [[JUnit]] (1)
 > **CLI Commands:** make (5), find (2)
 > **UI Navigation:** right-click (2), go to (2), click on (1), select the (1), scroll down (1)
 > **Env Vars:** ide (2)
@@ -1341,14 +1324,13 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
 
-#### Challenge: Adding and removing collection elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/challenge-adding-and-removing-collection-elements?u=76281980)
+#### [Challenge: Adding and removing collection elements](https://www.linkedin.com/learning/learning-java-collections/challenge-adding-and-removing-collection-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-java-collections/challenge-adding-and-removing-collection-elements?u=76281980&t=0)** - [Instructor] Now it's your turn to tackle a programming challenge that will require you to create some collections and use their methods to add and remove a few elements.
 >
-> **[0:14](https://www.linkedin.com/learning/learning-java-collections/challenge-adding-and-removing-collection-elements?u=76281980&t=14)** In this challenge, the Landon Hotel is working on a room management system that uses Java collections to manage their inventory of rooms within a service.
+> **[0:14](https://www.linkedin.com/learning/learning-java-collections/challenge-adding-and-removing-collection-elements?u=76281980&t=14)** In this challenge, the Landon Hotel is working on a room management system that uses [[Java]] collections to manage their inventory of rooms within a service.
 >
 > **[0:24](https://www.linkedin.com/learning/learning-java-collections/challenge-adding-and-removing-collection-elements?u=76281980&t=24)** They've built skeleton methods on a room service class and have provided some comments about what each method should do, but they'll need your help in completing their implementations.
 >
@@ -1356,7 +1338,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/learning-java-collections/challenge-adding-and-removing-collection-elements?u=76281980&t=46)** Before you get started, I recommend reviewing the unit tests that were provided to help you validate your work.
 >
-> **[0:52](https://www.linkedin.com/learning/learning-java-collections/challenge-adding-and-removing-collection-elements?u=76281980&t=52)** Once you're done, just run the tests by right-clicking within it and then going to run as JUnit test.
+> **[0:52](https://www.linkedin.com/learning/learning-java-collections/challenge-adding-and-removing-collection-elements?u=76281980&t=52)** Once you're done, just run the tests by right-clicking within it and then going to run as [[JUnit]] test.
 >
 > **[1:00](https://www.linkedin.com/learning/learning-java-collections/challenge-adding-and-removing-collection-elements?u=76281980&t=60)** If you can get this bar to turn green, you've got it and your work is done.
 >
@@ -1448,7 +1430,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[JUnit]] (2), [[Programming]] (1), management (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[JUnit]] (2), [[Java]] (1)
 > **UI Navigation:** right-click (2), go to (2)
 > **Code Identifiers:** aslist (1), removeroom (1)
 > **Prerequisites:** you'll need (1), before you begin (1)
@@ -1457,8 +1439,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Challenge: Advanced collection problems
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/challenge-advanced-collection-problems?u=76281980)
+#### [Challenge: Advanced collection problems](https://www.linkedin.com/learning/learning-java-collections/challenge-advanced-collection-problems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1606,7 +1587,7 @@ created: 2026-05-02
 >
 > **[6:13](https://www.linkedin.com/learning/learning-java-collections/challenge-advanced-collection-problems?u=76281980&t=373)** It's time to run the tests.
 >
-> **[6:15](https://www.linkedin.com/learning/learning-java-collections/challenge-advanced-collection-problems?u=76281980&t=375)** So I'll just right-click within the unit tests, go to Run as, and then I'll select JUnit test.
+> **[6:15](https://www.linkedin.com/learning/learning-java-collections/challenge-advanced-collection-problems?u=76281980&t=375)** So I'll just right-click within the unit tests, go to Run as, and then I'll select [[JUnit]] test.
 >
 > **[6:21](https://www.linkedin.com/learning/learning-java-collections/challenge-advanced-collection-problems?u=76281980&t=381)** Hey, it looks like things past.
 >
@@ -1618,11 +1599,11 @@ created: 2026-05-02
 >
 > **[6:30](https://www.linkedin.com/learning/learning-java-collections/challenge-advanced-collection-problems?u=76281980&t=390)** When working with collections, using the right method to achieve your goals can save you quite a bit of code and build more concise solutions.
 >
-> **[6:38](https://www.linkedin.com/learning/learning-java-collections/challenge-advanced-collection-problems?u=76281980&t=398)** So anytime you feel like your collections code is getting a little bit cluttered, head over to the Java docs and see if you can find a method that does exactly what you want.
+> **[6:38](https://www.linkedin.com/learning/learning-java-collections/challenge-advanced-collection-problems?u=76281980&t=398)** So anytime you feel like your collections code is getting a little bit cluttered, head over to the [[Java]] docs and see if you can find a method that does exactly what you want.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), hit (1), generic (1), [[JUnit]] (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[JUnit]] (1), [[Java]] (1)
 > **Code Identifiers:** asarray (3), removeif (3), hasroom (2), getbytype (2), hashcode (1)
 > **UI Navigation:** select the (1), right-click (1), go to (1)
 > **CLI Commands:** find (2)
@@ -1635,12 +1616,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Iterating collection elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/iterating-collection-elements?u=76281980)
+#### [Iterating collection elements](https://www.linkedin.com/learning/learning-java-collections/iterating-collection-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-java-collections/iterating-collection-elements?u=76281980&t=0)** - [Instructor] When working with Java Collections, it's common to traverse or iterate through each element in the collection, one after the other.
+> **[0:00](https://www.linkedin.com/learning/learning-java-collections/iterating-collection-elements?u=76281980&t=0)** - [Instructor] When working with [[Java]] Collections, it's common to traverse or iterate through each element in the collection, one after the other.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-java-collections/iterating-collection-elements?u=76281980&t=8)** Initially, the framework provided an iterator for the task, or a basic loop was used.
 >
@@ -1678,7 +1658,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/learning-java-collections/iterating-collection-elements?u=76281980&t=122)** Let's move on to our last category, streams.
 >
-> **[2:05](https://www.linkedin.com/learning/learning-java-collections/iterating-collection-elements?u=76281980&t=125)** Streams support a functional programming style within Java.
+> **[2:05](https://www.linkedin.com/learning/learning-java-collections/iterating-collection-elements?u=76281980&t=125)** Streams support a [[Functional Programming]] style within Java.
 >
 > **[2:09](https://www.linkedin.com/learning/learning-java-collections/iterating-collection-elements?u=76281980&t=129)** When using this style, one or more intermediate operations are applied to a sequence of elements that flow from a source, like a collection, to form a pipeline.
 >
@@ -1694,12 +1674,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (5), next (3), functional (1), parallel (1), [[Functional Programming]] (1)
+> **Frameworks & Libraries:** [[Java]] (5), [[Functional Programming]] (1)
 > **Versions:** java 8 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Accessing collection elements with iterators
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/accessing-collection-elements-with-iterators?u=76281980)
+#### [Accessing collection elements with iterators](https://www.linkedin.com/learning/learning-java-collections/accessing-collection-elements-with-iterators?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1769,7 +1748,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/learning-java-collections/accessing-collection-elements-with-iterators?u=76281980&t=210)** All right, let's go ahead and we can execute this code, and there you can see how we can use a while loop and an iterator to traverse through a collection.
 >
-> **[3:42](https://www.linkedin.com/learning/learning-java-collections/accessing-collection-elements-with-iterators?u=76281980&t=222)** This was a popular approach for iterating a collection prior to Java 5.0 when the enhanced for loop was introduced.
+> **[3:42](https://www.linkedin.com/learning/learning-java-collections/accessing-collection-elements-with-iterators?u=76281980&t=222)** This was a popular approach for iterating a collection prior to [[Java]] 5.0 when the enhanced for loop was introduced.
 >
 > **[3:51](https://www.linkedin.com/learning/learning-java-collections/accessing-collection-elements-with-iterators?u=76281980&t=231)** This loop, also known as the for-each loop, provides a concise way to iterate through a collection.
 >
@@ -1803,22 +1782,21 @@ created: 2026-05-02
 >
 > **[5:54](https://www.linkedin.com/learning/learning-java-collections/accessing-collection-elements-with-iterators?u=76281980&t=354)** In these patterns, loops play an important role.
 >
-> **[5:57](https://www.linkedin.com/learning/learning-java-collections/accessing-collection-elements-with-iterators?u=76281980&t=357)** But as you'll soon see, we can achieve similar results in most cases using a functional programming style.
+> **[5:57](https://www.linkedin.com/learning/learning-java-collections/accessing-collection-elements-with-iterators?u=76281980&t=357)** But as you'll soon see, we can achieve similar results in most cases using a [[Functional Programming]] style.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (9), generic (1), [[Java]] (1), hit (1), [[Functional Programming]] (1)
+> **Frameworks & Libraries:** [[Java]] (1), [[Functional Programming]] (1)
 > **Definitions:** is a  (2), is called (2), known as (1)
 > **Env Vars:** ide (2)
 > **Versions:** java 5 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Modifying collections while iterating
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/modifying-collections-while-iterating?u=76281980)
+#### [Modifying collections while iterating](https://www.linkedin.com/learning/learning-java-collections/modifying-collections-while-iterating?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-java-collections/modifying-collections-while-iterating?u=76281980&t=0)** - [Instructor] When beginning to iterate through collections, most Java developers encounter the concurrent modification exception.
+> **[0:00](https://www.linkedin.com/learning/learning-java-collections/modifying-collections-while-iterating?u=76281980&t=0)** - [Instructor] When beginning to iterate through collections, most [[Java]] developers encounter the concurrent modification exception.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-java-collections/modifying-collections-while-iterating?u=76281980&t=7)** It's almost like a rite of passage.
 >
@@ -1908,19 +1886,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** concurrent (4), [[Java]] (1), application (1), next (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Definitions:** is a  (2)
 > **Code Identifiers:** removeall (1)
 > **Env Vars:** ide (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Accessing collection elements with streams
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/accessing-collection-elements-with-streams?u=76281980)
+#### [Accessing collection elements with streams](https://www.linkedin.com/learning/learning-java-collections/accessing-collection-elements-with-streams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-java-collections/accessing-collection-elements-with-streams?u=76281980&t=0)** - [Instructor] The Streams API and Lambdas added to Java 8 gave us a concise functional style for writing code.
+> **[0:00](https://www.linkedin.com/learning/learning-java-collections/accessing-collection-elements-with-streams?u=76281980&t=0)** - [Instructor] The Streams API and Lambdas added to [[Java]] 8 gave us a concise functional style for writing code.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-java-collections/accessing-collection-elements-with-streams?u=76281980&t=7)** Let me show you through an example.
 >
@@ -2034,7 +2011,7 @@ created: 2026-05-02
 >
 > **[5:18](https://www.linkedin.com/learning/learning-java-collections/accessing-collection-elements-with-streams?u=76281980&t=318)** One was allowed to process and the other was blocked.
 >
-> **[5:21](https://www.linkedin.com/learning/learning-java-collections/accessing-collection-elements-with-streams?u=76281980&t=321)** So that's how a stream works but I probably haven't sold you on the conciseness of the functional programming style.
+> **[5:21](https://www.linkedin.com/learning/learning-java-collections/accessing-collection-elements-with-streams?u=76281980&t=321)** So that's how a stream works but I probably haven't sold you on the conciseness of the [[Functional Programming]] style.
 >
 > **[5:29](https://www.linkedin.com/learning/learning-java-collections/accessing-collection-elements-with-streams?u=76281980&t=329)** And that's because I used those anonymous classes.
 >
@@ -2042,7 +2019,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (6), next (3), [[Java]] (2), api (1), application (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[Functional Programming]] (1)
 > **Definitions:** known as (2), is a  (2)
 > **Code Identifiers:** foreach (2), ispetfriendly (1)
 > **Tools:** terminal (2)
@@ -2051,8 +2028,7 @@ created: 2026-05-02
 > **Versions:** java 8 (1)
 > **UI Navigation:** click on (1)
 
-#### Lambda expressions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/lambda-expressions?u=76281980)
+#### [Lambda expressions](https://www.linkedin.com/learning/learning-java-collections/lambda-expressions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2120,13 +2096,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (4), next (2), [[Debugging]] (1)
 > **Code Identifiers:** foreach (1), ispetfriendly (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Stream operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/stream-operations?u=76281980)
+#### [Stream operations](https://www.linkedin.com/learning/learning-java-collections/stream-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2214,7 +2188,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), next (1)
 > **Code Identifiers:** tolist (1), getname (1), maptodouble (1), getrate (1)
 > **Env Vars:** api (4)
 > **Analogies:** imagine (2)
@@ -2223,8 +2196,7 @@ created: 2026-05-02
 > **Best Practices:** you should never (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Iterating collections
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/challenge-iterating-collections?u=76281980)
+#### [Challenge: Iterating collections](https://www.linkedin.com/learning/learning-java-collections/challenge-iterating-collections?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2334,7 +2306,7 @@ created: 2026-05-02
 >
 > **[5:08](https://www.linkedin.com/learning/learning-java-collections/challenge-iterating-collections?u=76281980&t=308)** Let's cross our fingers and head over to the unit tests.
 >
-> **[5:12](https://www.linkedin.com/learning/learning-java-collections/challenge-iterating-collections?u=76281980&t=312)** I'll just right click on the test, go to Run As, JUnit test, and hey, we passed.
+> **[5:12](https://www.linkedin.com/learning/learning-java-collections/challenge-iterating-collections?u=76281980&t=312)** I'll just right click on the test, go to Run As, [[JUnit]] test, and hey, we passed.
 >
 > **[5:17](https://www.linkedin.com/learning/learning-java-collections/challenge-iterating-collections?u=76281980&t=317)** Excellent.
 >
@@ -2342,7 +2314,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Programming]] (1), [[Search]] (1), [[JUnit]] (1)
+> **Frameworks & Libraries:** [[JUnit]] (1)
 > **Code Identifiers:** foreach (4), getroomsbycapacity (1), requiredcapacity (1), getroombyrateandtype (1)
 > **UI Navigation:** click on (1), go to (1)
 > **Definitions:** is a  (2)
@@ -2356,8 +2328,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Set
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/set?u=76281980)
+#### [Set](https://www.linkedin.com/learning/learning-java-collections/set?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2371,7 +2342,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/learning-java-collections/set?u=76281980&t=38)** That's because the set only adds two additional methods beyond those found on a collection interface.
 >
-> **[0:45](https://www.linkedin.com/learning/learning-java-collections/set?u=76281980&t=45)** These two additional methods, of() and copyOf(), were added in later versions of Java to help us create immutable sets.
+> **[0:45](https://www.linkedin.com/learning/learning-java-collections/set?u=76281980&t=45)** These two additional methods, of() and copyOf(), were added in later versions of [[Java]] to help us create immutable sets.
 >
 > **[0:53](https://www.linkedin.com/learning/learning-java-collections/set?u=76281980&t=53)** If we examine the type hierarchy of a set, you'll see the interfaces that extend it and other set implementations.
 >
@@ -2393,12 +2364,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (1), [[Search]] (1), next (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Code Identifiers:** copyof (1)
 > **Speakers:** - [instructor] (1)
 
-#### HashSet
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/hashset?u=76281980)
+#### [HashSet](https://www.linkedin.com/learning/learning-java-collections/hashset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2456,7 +2426,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/learning-java-collections/hashset?u=76281980&t=175)** It can be helpful for thread safety or sometimes for performance.
 >
-> **[2:59](https://www.linkedin.com/learning/learning-java-collections/hashset?u=76281980&t=179)** You'll notice that the Of method has several overloaded forms where we can add up to nine elements into the set, and there's even a VAR args form of this as well.
+> **[2:59](https://www.linkedin.com/learning/learning-java-collections/hashset?u=76281980&t=179)** You'll notice that the Of method has several overloaded [[Forms]] where we can add up to nine elements into the set, and there's even a VAR args form of this as well.
 >
 > **[3:12](https://www.linkedin.com/learning/learning-java-collections/hashset?u=76281980&t=192)** Let's go ahead and use the overloaded form that accepts two elements.
 >
@@ -2510,8 +2480,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### TreeSet
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/treeset?u=76281980)
+#### [TreeSet](https://www.linkedin.com/learning/learning-java-collections/treeset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2525,7 +2494,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/learning-java-collections/treeset?u=76281980&t=40)** This introduces some challenges when working with custom objects in a TreeSet.
 >
-> **[0:45](https://www.linkedin.com/learning/learning-java-collections/treeset?u=76281980&t=45)** There can be problems that are unique to your exact situation, so if you're using custom objects make sure you refer to the Java docs.
+> **[0:45](https://www.linkedin.com/learning/learning-java-collections/treeset?u=76281980&t=45)** There can be problems that are unique to your exact situation, so if you're using custom objects make sure you refer to the [[Java]] docs.
 >
 > **[0:54](https://www.linkedin.com/learning/learning-java-collections/treeset?u=76281980&t=54)** Let's walk through an example that uses a TreeSet to store integers.
 >
@@ -2575,7 +2544,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1), data (1), [[Java]] (1), generic (1), next (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Code Identifiers:** descendingset (2), numbertree (1), foreach (1), headset (1), tailset (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -2586,14 +2555,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### List interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/list-interface?u=76281980)
+#### [List interface](https://www.linkedin.com/learning/learning-java-collections/list-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-java-collections/list-interface?u=76281980&t=0)** - [Instructor] The List interface and its implementations are the next group of collections that we'll explore.
 >
-> **[0:06](https://www.linkedin.com/learning/learning-java-collections/list-interface?u=76281980&t=6)** Within this group, we'll find some of the most frequently used classes in Java, like an ArrayList and a LinkedList.
+> **[0:06](https://www.linkedin.com/learning/learning-java-collections/list-interface?u=76281980&t=6)** Within this group, we'll find some of the most frequently used classes in [[Java]], like an ArrayList and a LinkedList.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-java-collections/list-interface?u=76281980&t=13)** Lists are very helpful because they allow us to store an ordered group of the elements and provide a set of methods for working with those elements by their position in the structure using random access.
 >
@@ -2629,7 +2597,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/learning-java-collections/list-interface?u=76281980&t=126)** The LinkedList implementation uses a doubly linked list as its internal structure instead of an array.
 >
-> **[2:13](https://www.linkedin.com/learning/learning-java-collections/list-interface?u=76281980&t=133)** It uses nodes that contain references that link objects together into a sequence that forms the LinkedList.
+> **[2:13](https://www.linkedin.com/learning/learning-java-collections/list-interface?u=76281980&t=133)** It uses nodes that contain references that link objects together into a sequence that [[Forms]] the LinkedList.
 >
 > **[2:22](https://www.linkedin.com/learning/learning-java-collections/list-interface?u=76281980&t=142)** Each node in the list holds an element, a reference to the next element, and a reference to the previous element.
 >
@@ -2665,13 +2633,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Java]] (2), [[Forms]] (1), node (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[Forms]] (1)
 > **CLI Commands:** find (1), node (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### List implementations
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/list-implementations?u=76281980)
+#### [List implementations](https://www.linkedin.com/learning/learning-java-collections/list-implementations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2741,14 +2708,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1)
 > **API Endpoints:** get  (1)
 > **Definitions:** is an  (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor (1)
 
-#### ArrayList
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/arraylist?u=76281980)
+#### [ArrayList](https://www.linkedin.com/learning/learning-java-collections/arraylist?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2792,7 +2757,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/learning-java-collections/arraylist?u=76281980&t=116)** Okay, So we got our check-in list established just in time because two guests have just arrived.
 >
-> **[2:03](https://www.linkedin.com/learning/learning-java-collections/arraylist?u=76281980&t=123)** John has just walked into the lobby and he was followed closely by Maria.
+> **[2:03](https://www.linkedin.com/learning/learning-java-collections/arraylist?u=76281980&t=123)** [[John the Ripper|John]] has just walked into the lobby and he was followed closely by Maria.
 >
 > **[2:08](https://www.linkedin.com/learning/learning-java-collections/arraylist?u=76281980&t=128)** So we need to place John in the first position in our check-in list, and then Maria, in the second.
 >
@@ -2884,15 +2849,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), next (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (13)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), imagine (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Working with Lists
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/challenge-working-with-lists?u=76281980)
+#### [Challenge: Working with Lists](https://www.linkedin.com/learning/learning-java-collections/challenge-working-with-lists?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3032,7 +2996,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Programming]] (1)
 > **CLI Commands:** make (4), find (2)
 > **Prerequisites:** you'll need (2), initialization (1)
 > **Warnings:** caveat (1), be aware (1)
@@ -3040,18 +3003,18 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - now (1)
+> **Non-Speech:** (upbeat music) (1)
 
 
 ### 6. Queue and Deque
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Queue interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/queue-interface?u=76281980)
+#### [Queue interface](https://www.linkedin.com/learning/learning-java-collections/queue-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-java-collections/queue-interface?u=76281980&t=0)** - [Instructor] Next, we'll explore the interfaces and implementations related to queues within the Java collections framework.
+> **[0:00](https://www.linkedin.com/learning/learning-java-collections/queue-interface?u=76281980&t=0)** - [Instructor] Next, we'll explore the interfaces and implementations related to queues within the [[Java]] collections framework.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-java-collections/queue-interface?u=76281980&t=7)** If you've ever stood in a line you're familiar with a queue.
 >
@@ -3113,15 +3076,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (4), next (2), concurrent (1)
+> **Frameworks & Libraries:** [[Java]] (4)
 > **Definitions:** known as (2), is a  (1), we call this (1)
 > **Env Vars:** fifo (3)
 > **Cross-References:** we mentioned (1), later in (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Queue implementations
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/queue-implementations?u=76281980)
+#### [Queue implementations](https://www.linkedin.com/learning/learning-java-collections/queue-implementations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3155,11 +3117,11 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/learning-java-collections/queue-implementations?u=76281980&t=88)** Now you'll notice we could use the add method and this is one of the methods that will throw an exception if we attempt to add too many elements to a bounded queue.
 >
-> **[1:39](https://www.linkedin.com/learning/learning-java-collections/queue-implementations?u=76281980&t=99)** And we can see that within the Java docs.
+> **[1:39](https://www.linkedin.com/learning/learning-java-collections/queue-implementations?u=76281980&t=99)** And we can see that within the [[Java]] docs.
 >
 > **[1:41](https://www.linkedin.com/learning/learning-java-collections/queue-implementations?u=76281980&t=101)** it's always a good idea to take a peek at the behavior of the method within the IDE so you get the exact one you'd like.
 >
-> **[1:48](https://www.linkedin.com/learning/learning-java-collections/queue-implementations?u=76281980&t=108)** Now I don't want to throw an exception, so instead I'm going to use offer in order to add John into the queue.
+> **[1:48](https://www.linkedin.com/learning/learning-java-collections/queue-implementations?u=76281980&t=108)** Now I don't want to throw an exception, so instead I'm going to use offer in order to add [[John the Ripper|John]] into the queue.
 >
 > **[1:56](https://www.linkedin.com/learning/learning-java-collections/queue-implementations?u=76281980&t=116)** Okay, so now we have John in the queue.
 >
@@ -3251,21 +3213,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (1), generic (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (9), [[Java]] (1)
 > **Code Identifiers:** checkinqueue (1), programcomp (1), isloyaltyprogrammember (1)
 > **Env Vars:** ide (1), fifo (1)
 > **Cross-References:** we discussed (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deque interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/deque-interface?u=76281980)
+#### [Deque interface](https://www.linkedin.com/learning/learning-java-collections/deque-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-java-collections/deque-interface?u=76281980&t=0)** - [Instructor] The next collection interface will explore deque extends the queue interface and include some other ways that we can work with the linear collection of elements.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-java-collections/deque-interface?u=76281980&t=9)** The deque interface was introduced in Java six, adding a double ended queue to the collections framework.
+> **[0:09](https://www.linkedin.com/learning/learning-java-collections/deque-interface?u=76281980&t=9)** The deque interface was introduced in [[Java]] six, adding a double ended queue to the collections framework.
 >
 > **[0:16](https://www.linkedin.com/learning/learning-java-collections/deque-interface?u=76281980&t=16)** A deque allows elements to be added or removed from both ends of its linear structure.
 >
@@ -3283,7 +3244,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/learning-java-collections/deque-interface?u=76281980&t=63)** Let's move on and take a look at some of the interface methods on the deque.
 >
-> **[1:07](https://www.linkedin.com/learning/learning-java-collections/deque-interface?u=76281980&t=67)** To add elements to the front of a deque, the methods add an offer from the queue interface are suffix with the word first.
+> **[1:07](https://www.linkedin.com/learning/learning-java-collections/deque-interface?u=76281980&t=67)** To add elements to the front of a deque, the methods add an offer from the queue interface are suffix with the [[Microsoft Word|word]] first.
 >
 > **[1:16](https://www.linkedin.com/learning/learning-java-collections/deque-interface?u=76281980&t=76)** The suffix first is used to indicate that the operations are performed on the front of the structure.
 >
@@ -3333,18 +3294,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (4), next (2), [[Microsoft Word|Word]] (1), data (1)
+> **Frameworks & Libraries:** [[Java]] (4), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for example (1), similar to (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using an ArrayDeque as a stack
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/using-an-arraydeque-as-a-stack?u=76281980)
+#### [Using an ArrayDeque as a stack](https://www.linkedin.com/learning/learning-java-collections/using-an-arraydeque-as-a-stack?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-java-collections/using-an-arraydeque-as-a-stack?u=76281980&t=0)** - [Instructor] In Java, the ArrayDeck is the recommended implementation for when we need a stack, which is one of the most frequent ways that we'll work with the deck.
+> **[0:00](https://www.linkedin.com/learning/learning-java-collections/using-an-arraydeque-as-a-stack?u=76281980&t=0)** - [Instructor] In [[Java]], the ArrayDeck is the recommended implementation for when we need a stack, which is one of the most frequent ways that we'll work with the deck.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-java-collections/using-an-arraydeque-as-a-stack?u=76281980&t=9)** Let's work through a few examples to see how a deck works as a stack.
 >
@@ -3430,7 +3390,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Java]] (1), generic (1), application (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Analogies:** imagine (1), similar to (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** messagestack (1)
@@ -3442,8 +3402,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Map interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/map-interface?u=76281980)
+#### [Map interface](https://www.linkedin.com/learning/learning-java-collections/map-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3453,13 +3412,13 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/learning-java-collections/map-interface?u=76281980&t=11)** A map is sort of like a dictionary.
 >
-> **[0:13](https://www.linkedin.com/learning/learning-java-collections/map-interface?u=76281980&t=13)** The word represents the key, and the definition is the value.
+> **[0:13](https://www.linkedin.com/learning/learning-java-collections/map-interface?u=76281980&t=13)** The [[Microsoft Word|word]] represents the key, and the definition is the value.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-java-collections/map-interface?u=76281980&t=17)** If we want to find the definition of a word in a dictionary, we start our search by looking for the word, because that's the part we know.
 >
 > **[0:26](https://www.linkedin.com/learning/learning-java-collections/map-interface?u=76281980&t=26)** We use the word to find the part that we need to know, which is the definition.
 >
-> **[0:31](https://www.linkedin.com/learning/learning-java-collections/map-interface?u=76281980&t=31)** It's a similar concept in Java.
+> **[0:31](https://www.linkedin.com/learning/learning-java-collections/map-interface?u=76281980&t=31)** It's a similar concept in [[Java]].
 >
 > **[0:33](https://www.linkedin.com/learning/learning-java-collections/map-interface?u=76281980&t=33)** A map stores entries with an association between a key and a value.
 >
@@ -3517,7 +3476,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Search]] (2), generic (2), [[Java]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Java]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Cross-References:** earlier in (1)
 > **Analogies:** just like (1)
@@ -3525,8 +3484,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Collection views
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/collection-views?u=76281980)
+#### [Collection views](https://www.linkedin.com/learning/learning-java-collections/collection-views?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3568,20 +3526,19 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/learning-java-collections/collection-views?u=76281980&t=94)** There's quite a bit to learn about working with the map.
 >
-> **[1:37](https://www.linkedin.com/learning/learning-java-collections/collection-views?u=76281980&t=97)** But they're heavily used in Java.
+> **[1:37](https://www.linkedin.com/learning/learning-java-collections/collection-views?u=76281980&t=97)** But they're heavily used in [[Java]].
 >
 > **[1:39](https://www.linkedin.com/learning/learning-java-collections/collection-views?u=76281980&t=99)** So we'll go even deeper as we start to explore map implementations.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1), generic (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Code Identifiers:** entryset (2), keyset (1), getkey (1), getvalue (1)
 > **Definitions:** is a  (2)
 > **Warnings:** caveat (1), be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Map implementations
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/map-implementations?u=76281980)
+#### [Map implementations](https://www.linkedin.com/learning/learning-java-collections/map-implementations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3607,9 +3564,9 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/learning-java-collections/map-implementations?u=76281980&t=67)** To hash an object we run it through a hashing function.
 >
-> **[1:11](https://www.linkedin.com/learning/learning-java-collections/map-implementations?u=76281980&t=71)** So, we might take a string like LinkedIn and run it through a hash function to get its hash value.
+> **[1:11](https://www.linkedin.com/learning/learning-java-collections/map-implementations?u=76281980&t=71)** So, we might take a string like [[LinkedIn]] and run it through a hash function to get its hash value.
 >
-> **[1:17](https://www.linkedin.com/learning/learning-java-collections/map-implementations?u=76281980&t=77)** In Java, the hashCode method is used to produce an object's hash value.
+> **[1:17](https://www.linkedin.com/learning/learning-java-collections/map-implementations?u=76281980&t=77)** In [[Java]], the hashCode method is used to produce an object's hash value.
 >
 > **[1:21](https://www.linkedin.com/learning/learning-java-collections/map-implementations?u=76281980&t=81)** Here, I've included the hashCode logic that is used to produce the hash value for a UTF string.
 >
@@ -3645,7 +3602,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (2), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[LinkedIn]] (1)
 > **Code Identifiers:** hashcode (7)
 > **Definitions:** is a  (2), known as (2)
 > **Env Vars:** utf (1), ide (1)
@@ -3654,8 +3611,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### How a HashMap works
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/how-a-hashmap-works?u=76281980)
+#### [How a HashMap works](https://www.linkedin.com/learning/learning-java-collections/how-a-hashmap-works?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3705,14 +3661,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (8), [[Search]] (2), next (1)
 > **CLI Commands:** node (8), make (1)
 > **Code Identifiers:** hashcode (4)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Map methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/map-methods?u=76281980)
+#### [Map methods](https://www.linkedin.com/learning/learning-java-collections/map-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3730,7 +3684,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/learning-java-collections/map-methods?u=76281980&t=30)** So first I'm going to place Maria in Oxford by passing in Oxford as the key and then Maria as the value.
 >
-> **[0:39](https://www.linkedin.com/learning/learning-java-collections/map-methods?u=76281980&t=39)** Okay, then we can put John in his room.
+> **[0:39](https://www.linkedin.com/learning/learning-java-collections/map-methods?u=76281980&t=39)** Okay, then we can put [[John the Ripper|John]] in his room.
 >
 > **[0:42](https://www.linkedin.com/learning/learning-java-collections/map-methods?u=76281980&t=42)** It's going to be Piccadilly, so we'll go ahead and use the put method to associate John with Piccadilly.
 >
@@ -3810,13 +3764,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[John the Ripper|John]] (10)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** putifabsent (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Iterating Maps
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/iterating-maps?u=76281980)
+#### [Iterating Maps](https://www.linkedin.com/learning/learning-java-collections/iterating-maps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3876,14 +3830,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (1)
 > **Code Identifiers:** entryset (7), getvalue (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Working with Maps
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/challenge-working-with-maps?u=76281980)
+#### [Challenge: Working with Maps](https://www.linkedin.com/learning/learning-java-collections/challenge-working-with-maps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3955,7 +3907,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/learning-java-collections/challenge-working-with-maps?u=76281980&t=209)** Okay, let's go ahead and we'll test out that solution.
 >
-> **[3:32](https://www.linkedin.com/learning/learning-java-collections/challenge-working-with-maps?u=76281980&t=212)** So in the unit test, I'm just going to right-click go to run as and JUnit test.
+> **[3:32](https://www.linkedin.com/learning/learning-java-collections/challenge-working-with-maps?u=76281980&t=212)** So in the unit test, I'm just going to right-click go to run as and [[JUnit]] test.
 >
 > **[3:38](https://www.linkedin.com/learning/learning-java-collections/challenge-working-with-maps?u=76281980&t=218)** Excellent. It passed.
 >
@@ -3963,7 +3915,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[JUnit]] (1)
+> **Frameworks & Libraries:** [[JUnit]] (1)
 > **Code Identifiers:** totalrevenue (2), putifabsent (1), keyset (1), maptodouble (1), getrate (1)
 > **UI Navigation:** right-click (1), go to (1)
 > **CLI Commands:** make (1)
@@ -3976,8 +3928,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Ordering elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/ordering-elements?u=76281980)
+#### [Ordering elements](https://www.linkedin.com/learning/learning-java-collections/ordering-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3995,7 +3946,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/learning-java-collections/ordering-elements?u=76281980&t=46)** When writing code that must order objects, these same types of considerations appear.
 >
-> **[0:52](https://www.linkedin.com/learning/learning-java-collections/ordering-elements?u=76281980&t=52)** The concept of natural order also applies to most common Java data types.
+> **[0:52](https://www.linkedin.com/learning/learning-java-collections/ordering-elements?u=76281980&t=52)** The concept of natural order also applies to most common [[Java]] data types.
 >
 > **[0:58](https://www.linkedin.com/learning/learning-java-collections/ordering-elements?u=76281980&t=58)** Dates are naturally ordered chronologically, numbers like int and long use their numeric value and strings are ordered alphabetically.
 >
@@ -4051,13 +4002,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (3), data (3), next (1)
+> **Frameworks & Libraries:** [[Java]] (3)
 > **Analogies:** for example (1), picture (1), compare this to (1), similar to (1), think of it like (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sorting collections
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/sorting-collections?u=76281980)
+#### [Sorting collections](https://www.linkedin.com/learning/learning-java-collections/sorting-collections?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4151,7 +4101,7 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/learning-java-collections/sorting-collections?u=76281980&t=250)** And you'll see that we get the same result.
 >
-> **[4:13](https://www.linkedin.com/learning/learning-java-collections/sorting-collections?u=76281980&t=253)** Now in more recent versions of Java, a sort method was added to the list.
+> **[4:13](https://www.linkedin.com/learning/learning-java-collections/sorting-collections?u=76281980&t=253)** Now in more recent versions of [[Java]], a sort method was added to the list.
 >
 > **[4:18](https://www.linkedin.com/learning/learning-java-collections/sorting-collections?u=76281980&t=258)** So we can do something like this.
 >
@@ -4169,13 +4119,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (1), application (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Comparators
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/comparators?u=76281980)
+#### [Comparators](https://www.linkedin.com/learning/learning-java-collections/comparators?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4191,7 +4140,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/learning-java-collections/comparators?u=76281980&t=39)** I'm going to name this the RATE_COMPARATOR, and then we can begin to create our comparator.
 >
-> **[0:47](https://www.linkedin.com/learning/learning-java-collections/comparators?u=76281980&t=47)** To do that, I'm going to use the static methods found on the comparator that were added in Java 8.
+> **[0:47](https://www.linkedin.com/learning/learning-java-collections/comparators?u=76281980&t=47)** To do that, I'm going to use the static methods found on the comparator that were added in [[Java]] 8.
 >
 > **[0:55](https://www.linkedin.com/learning/learning-java-collections/comparators?u=76281980&t=55)** The first is the comparing method.
 >
@@ -4259,7 +4208,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), generic (2), [[Java]] (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Code Identifiers:** thencomparing (2), getrate (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** rate_comparator (1)
@@ -4267,8 +4216,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Finding elements in a collection
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/finding-elements-in-a-collection?u=76281980)
+#### [Finding elements in a collection](https://www.linkedin.com/learning/learning-java-collections/finding-elements-in-a-collection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4384,7 +4332,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (12)
 > **CLI Commands:** find (4)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
@@ -4394,12 +4341,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Course wrap-up
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/course-wrap-up?u=76281980)
+#### [Course wrap-up](https://www.linkedin.com/learning/learning-java-collections/course-wrap-up?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-java-collections/course-wrap-up?u=76281980&t=0)** - [Kevin] Thanks for watching this course on the Java collections framework.
+> **[0:00](https://www.linkedin.com/learning/learning-java-collections/course-wrap-up?u=76281980&t=0)** - [Kevin] Thanks for watching this course on the [[Java]] collections framework.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-java-collections/course-wrap-up?u=76281980&t=4)** Before we wrap up, I want to provide you with some ideas on where to go next and give you some information about my other courses.
 >
@@ -4417,9 +4363,9 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/learning-java-collections/course-wrap-up?u=76281980&t=46)** Generics are another section of the language you can explore that will help you better work with collections.
 >
-> **[0:52](https://www.linkedin.com/learning/learning-java-collections/course-wrap-up?u=76281980&t=52)** If you like my teaching style, I have a few other courses on the LinkedIn Learning platform that might interest you.
+> **[0:52](https://www.linkedin.com/learning/learning-java-collections/course-wrap-up?u=76281980&t=52)** If you like my teaching style, I have a few other courses on the [[LinkedIn]] Learning platform that might interest you.
 >
-> **[0:59](https://www.linkedin.com/learning/learning-java-collections/course-wrap-up?u=76281980&t=59)** I can teach you about other topics like GitOps, Microservices, APIs, Java, Spring, or Git if you're interested.
+> **[0:59](https://www.linkedin.com/learning/learning-java-collections/course-wrap-up?u=76281980&t=59)** I can teach you about other topics like GitOps, [[Microservices]], APIs, Java, Spring, or [[Git]] if you're interested.
 >
 > **[1:08](https://www.linkedin.com/learning/learning-java-collections/course-wrap-up?u=76281980&t=68)** If you want to, tag me when you post your course certificate.
 >
@@ -4435,7 +4381,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (6), [[LinkedIn]] (2), next (1), concurrent (1), [[Microservices]] (1)
+> **Frameworks & Libraries:** [[Java]] (6), [[LinkedIn]] (2), [[Microservices]] (1), [[Git]] (1)
 > **CLI Commands:** make (1), git (1)
 > **Warnings:** be aware (1)
 > **Prerequisites:** you'll need (1)

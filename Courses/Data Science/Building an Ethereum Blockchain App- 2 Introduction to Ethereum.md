@@ -70,16 +70,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to Ethereum
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/introduction-to-ethereum?u=76281980)
+#### [Introduction to Ethereum](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/introduction-to-ethereum?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/introduction-to-ethereum?u=76281980&t=1)** - In previous episodes, we've spent a lot of time talking about blockchain, what it is, and how it actually works.
+> **[0:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/introduction-to-ethereum?u=76281980&t=1)** - In previous episodes, we've spent a lot of time talking about [[Blockchain]], what it is, and how it actually works.
 >
-> **[0:07](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/introduction-to-ethereum?u=76281980&t=7)** Now that you understand Bitcoin and blockchain a little bit more, let's see how Ethereum fits into the bigger equation.
+> **[0:07](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/introduction-to-ethereum?u=76281980&t=7)** Now that you understand Bitcoin and blockchain a little bit more, let's see how [[Ethereum]] fits into the bigger equation.
 >
-> **[0:15](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/introduction-to-ethereum?u=76281980&t=15)** Blockchain was first implemented as a mechanism to support cryptocurrency.
+> **[0:15](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/introduction-to-ethereum?u=76281980&t=15)** Blockchain was first implemented as a mechanism to support [[Cryptocurrency]].
 >
 > **[0:21](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/introduction-to-ethereum?u=76281980&t=21)** So Bitcoin and blockchain kind of hit the scene at the same time.
 >
@@ -99,7 +98,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/introduction-to-ethereum?u=76281980&t=65)** He called it Ethereum.
 >
-> **[1:07](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/introduction-to-ethereum?u=76281980&t=67)** It has its own native cryptocurrency, and it implements smart contracts.
+> **[1:07](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/introduction-to-ethereum?u=76281980&t=67)** It has its own native cryptocurrency, and it implements [[Smart Contracts]].
 >
 > **[1:12](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/introduction-to-ethereum?u=76281980&t=72)** Smart contracts basically allow for more autonomy.
 >
@@ -113,7 +112,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/introduction-to-ethereum?u=76281980&t=101)** So to keep things in perspective, Ethereum is an implementation of blockchain technology.
 >
-> **[1:47](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/introduction-to-ethereum?u=76281980&t=107)** That's kind of like saying that Microsoft Word is an implementation of a word processor.
+> **[1:47](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/introduction-to-ethereum?u=76281980&t=107)** That's kind of like saying that [[Microsoft Word]] is an implementation of a [[Microsoft Word|word]] processor.
 >
 > **[1:53](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/introduction-to-ethereum?u=76281980&t=113)** And there are other word processors out there.
 >
@@ -139,16 +138,15 @@ created: 2026-05-02
 > **Analogies:** kind of like (1)
 > **Speakers:** - in (1)
 
-#### Ethereum in financial services
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-financial-services?u=76281980)
+#### [Ethereum in financial services](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-financial-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-financial-services?u=76281980&t=1)** - There are many areas into which if Ethereum fits very well.
+> **[0:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-financial-services?u=76281980&t=1)** - There are many areas into which if [[Ethereum]] fits very well.
 >
 > **[0:04](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-financial-services?u=76281980&t=4)** Now, it doesn't solve all problems, but there's some problems that it does solve very well.
 >
-> **[0:09](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-financial-services?u=76281980&t=9)** Since blockchain technology really started in cryptocurrency implementation.
+> **[0:09](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-financial-services?u=76281980&t=9)** Since [[Blockchain]] technology really started in [[Cryptocurrency]] implementation.
 >
 > **[0:15](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-financial-services?u=76281980&t=15)** It kind of makes sense, that one of the first areas that maps well to blockchain technology and the Ethereum would be financial services.
 >
@@ -200,7 +198,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-financial-services?u=76281980&t=147)** Ethereum removes as many of these middlemen and the overhead associated with them.
 >
-> **[2:33](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-financial-services?u=76281980&t=153)** And also with the smart contracts, Ethereum gives us the ability to automate many decisions.
+> **[2:33](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-financial-services?u=76281980&t=153)** And also with the [[Smart Contracts]], Ethereum gives us the ability to automate many decisions.
 >
 > **[2:40](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-financial-services?u=76281980&t=160)** In many cases, a transaction is not completed until it's been validated, or it cannot continue until preconditions are met.
 >
@@ -236,7 +234,7 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-financial-services?u=76281980&t=234)** That's easy for a blockchain of any type.
 >
-> **[3:57](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-financial-services?u=76281980&t=237)** But what about banking?
+> **[3:57](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-financial-services?u=76281980&t=237)** But what about [[Banking]]?
 >
 > **[3:58](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-financial-services?u=76281980&t=238)** Let's expand it a little bit and look at fiat currency versus cryptocurrency.
 >
@@ -274,7 +272,7 @@ created: 2026-05-02
 >
 > **[5:03](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-financial-services?u=76281980&t=303)** Those are just two types of cryptocurrency, but there's lots more than that.
 >
-> **[5:06](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-financial-services?u=76281980&t=306)** In fact, in Ethereum, you can create your own tokens.
+> **[5:06](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-financial-services?u=76281980&t=306)** In fact, in Ethereum, you can create your own [[Tokens]].
 >
 > **[5:11](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-financial-services?u=76281980&t=311)** That basically means, that for the first time in blockchain technology, you don't have to use what someone else tells you.
 >
@@ -326,19 +324,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethereum]] (14), [[Blockchain]] (9), [[Cryptocurrency]] (9), [[Tokens]] (4), data (2)
+> **Frameworks & Libraries:** [[Ethereum]] (14), [[Blockchain]] (9), [[Cryptocurrency]] (9), [[Tokens]] (4), [[Smart Contracts]] (2)
 > **Definitions:** means that (2), in other words (1), is called (1), is a  (1), basically means (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** find (2)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - there (1)
 
-#### Ethereum in digital identity management
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-digital-identity-management?u=76281980)
+#### [Ethereum in digital identity management](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-digital-identity-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-digital-identity-management?u=76281980&t=1)** - Another fertile area in which Ethereum just works very well is that of identity management.
+> **[0:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-digital-identity-management?u=76281980&t=1)** - Another fertile area in which [[Ethereum]] just works very well is that of identity management.
 >
 > **[0:07](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-digital-identity-management?u=76281980&t=7)** So let's first talk about identity.
 >
@@ -356,7 +353,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-digital-identity-management?u=76281980&t=37)** We also can have device identities.
 >
-> **[0:40](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-digital-identity-management?u=76281980&t=40)** And as we expand our universe into the IoT, the internet of things, we're starting to hear more and more about all these smart devices all over our houses.
+> **[0:40](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-digital-identity-management?u=76281980&t=40)** And as we expand our universe into the [[IoT]], the [[IoT|internet of things]], we're starting to hear more and more about all these smart devices all over our houses.
 >
 > **[0:50](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-digital-identity-management?u=76281980&t=50)** We've got smart refrigerators and smart toasters and smart ovens and all kinds of things.
 >
@@ -366,7 +363,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-digital-identity-management?u=76281980&t=62)** Well, in previous episodes, we talked about Ethereum allowing autonomy.
 >
-> **[1:08](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-digital-identity-management?u=76281980&t=68)** Okay, well, if Ethereum can provide us with autonomy, then we can write all kinds of smart contracts that collect information, or even instruct various devices how to do things.
+> **[1:08](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-digital-identity-management?u=76281980&t=68)** Okay, well, if Ethereum can provide us with autonomy, then we can write all kinds of [[Smart Contracts]] that collect information, or even instruct various devices how to do things.
 >
 > **[1:22](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-digital-identity-management?u=76281980&t=82)** Maybe we're collecting information from all around our house.
 >
@@ -394,11 +391,11 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-digital-identity-management?u=76281980&t=138)** So how does this map to Ethereum?
 >
-> **[2:20](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-digital-identity-management?u=76281980&t=140)** Ethereum bases everything on accounts, you have to have an Ethereum account to interact with the blockchain.
+> **[2:20](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-digital-identity-management?u=76281980&t=140)** Ethereum bases everything on accounts, you have to have an Ethereum account to interact with the [[Blockchain]].
 >
 > **[2:29](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-digital-identity-management?u=76281980&t=149)** When you create an Ethereum account, you basically ask to generate a pair of keys.
 >
-> **[2:35](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-digital-identity-management?u=76281980&t=155)** These two cryptography keys are used, are called public and private keys.
+> **[2:35](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-digital-identity-management?u=76281980&t=155)** These two [[Cryptography]] keys are used, are called public and private keys.
 >
 > **[2:40](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-digital-identity-management?u=76281980&t=160)** They're used for lots of different reasons.
 >
@@ -442,7 +439,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethereum]] (12), [[Blockchain]] (4), data (3), management (1), [[IoT]] (1)
+> **Frameworks & Libraries:** [[Ethereum]] (12), [[Blockchain]] (4), [[IoT]] (1), [[IoT|Internet of things]] (1), [[Smart Contracts]] (1)
 > **Definitions:** in other words (2), is an  (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** erc (1)
@@ -451,12 +448,11 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Prerequisites:** setup (1)
 
-#### Ethereum in industry applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-industry-applications?u=76281980)
+#### [Ethereum in industry applications](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-industry-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-industry-applications?u=76281980&t=1)** - There are many more industries in which Ethereum can be a good fit and solve some of the problems.
+> **[0:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-industry-applications?u=76281980&t=1)** - There are many more industries in which [[Ethereum]] can be a good fit and solve some of the problems.
 >
 > **[0:05](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-industry-applications?u=76281980&t=5)** Healthcare is one.
 >
@@ -464,7 +460,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-industry-applications?u=76281980&t=16)** These EHRs are stored in lots of different places.
 >
-> **[0:20](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-industry-applications?u=76281980&t=20)** Wouldn't it be cool if we could create one blockchain where our EHR lived?
+> **[0:20](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-industry-applications?u=76281980&t=20)** Wouldn't it be cool if we could create one [[Blockchain]] where our EHR lived?
 >
 > **[0:25](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-industry-applications?u=76281980&t=25)** And it lived in one place, and then, we had all the people, that needed to get to it, be able to go into one place, and we wouldn't have to share it.
 >
@@ -568,7 +564,7 @@ created: 2026-05-02
 >
 > **[5:14](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-industry-applications?u=76281980&t=314)** Even if it's not high-quality olive oil, you can trace a blockchain product all the way back to who produced it and when it was.
 >
-> **[5:21](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-industry-applications?u=76281980&t=321)** Now, I'm sure you've noticed that I've talked about smart contracts.
+> **[5:21](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-industry-applications?u=76281980&t=321)** Now, I'm sure you've noticed that I've talked about [[Smart Contracts]].
 >
 > **[5:24](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-industry-applications?u=76281980&t=324)** It's one of the big things that Ethereum introduced.
 >
@@ -582,7 +578,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (14), data (9), product (7), [[Ethereum]] (5), [[Smart Contracts]] (2)
+> **Frameworks & Libraries:** [[Blockchain]] (14), [[Ethereum]] (5), [[Smart Contracts]] (2)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** such as (2), for example (1)
 > **Env Vars:** ehr (2)
@@ -590,12 +586,11 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - there (1)
 
-#### Ethereum in government
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-government?u=76281980)
+#### [Ethereum in government](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-government?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-government?u=76281980&t=1)** - Remember that three of the most important features of Ethereum include transparency, integrity, and auditability.
+> **[0:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-government?u=76281980&t=1)** - Remember that three of the most important features of [[Ethereum]] include transparency, integrity, and auditability.
 >
 > **[0:08](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-government?u=76281980&t=8)** Sounds like those three would fit very well into a well operating government environment.
 >
@@ -603,9 +598,9 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-government?u=76281980&t=19)** What about tax payments?
 >
-> **[0:21](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-government?u=76281980&t=21)** You could actually pay your taxes using an Ethereum blockchain app, why not?
+> **[0:21](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-government?u=76281980&t=21)** You could actually pay your taxes using an Ethereum [[Blockchain]] app, why not?
 >
-> **[0:27](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-government?u=76281980&t=27)** You basically could just transfer cryptocurrency from your account to the government's account.
+> **[0:27](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-government?u=76281980&t=27)** You basically could just transfer [[Cryptocurrency]] from your account to the government's account.
 >
 > **[0:31](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-government?u=76281980&t=31)** It's transparent, it's auditable, and you can trust the fact that you're paying it and the government knows that you paid it, easy-peasy right?
 >
@@ -627,7 +622,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-government?u=76281980&t=73)** Blockchain voting actually gives us the ability to eradicate many of the problems with other voting systems.
 >
-> **[1:20](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-government?u=76281980&t=80)** One way that it would work is, we talked about different tokens, what if you created your own token, a voting token and every citizen got one token.
+> **[1:20](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-government?u=76281980&t=80)** One way that it would work is, we talked about different [[Tokens]], what if you created your own token, a voting token and every citizen got one token.
 >
 > **[1:29](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-in-government?u=76281980&t=89)** And you can spend it one time on whoever you wanted.
 >
@@ -651,20 +646,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (9), [[Ethereum]] (4), application (2), [[Cryptocurrency]] (1), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[Blockchain]] (9), [[Ethereum]] (4), [[Cryptocurrency]] (1), [[Tokens]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** we talked about (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - remember (1)
 
-#### Ethereum smart contracts
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-smart-contracts?u=76281980)
+#### [Ethereum smart contracts](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-smart-contracts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-smart-contracts?u=76281980&t=0)** - So earlier, we talked a lot about smart contracts, and how amazing that was when Ethereum was first introduced, but we really haven't talked much about what a smart contract really is.
+> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-smart-contracts?u=76281980&t=0)** - So earlier, we talked a lot about [[Smart Contracts]], and how amazing that was when [[Ethereum]] was first introduced, but we really haven't talked much about what a smart contract really is.
 >
-> **[0:11](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-smart-contracts?u=76281980&t=11)** Simply put a smart contract is the set of rules that must be followed to properly register a transaction in the blockchain.
+> **[0:11](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-smart-contracts?u=76281980&t=11)** Simply put a smart contract is the set of rules that must be followed to properly register a transaction in the [[Blockchain]].
 >
 > **[0:21](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ethereum-smart-contracts?u=76281980&t=21)** So, how do we do all that?
 >
@@ -722,18 +716,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (10), [[Ethereum]] (7), [[Smart Contracts]] (5), node (5), data (4)
+> **Frameworks & Libraries:** [[Blockchain]] (10), [[Ethereum]] (7), [[Smart Contracts]] (5)
 > **Env Vars:** evm (11), evms (1)
 > **CLI Commands:** node (5)
 > **Definitions:** in other words (1), is a  (1), is called (1), means that (1)
 > **Speakers:** - so (1)
 
-#### Ether (ETH) and the initial coin offering (ICO)
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ether-eth-and-the-initial-coin-offering-ico?u=76281980)
+#### [Ether (ETH) and the initial coin offering (ICO)](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ether-eth-and-the-initial-coin-offering-ico?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ether-eth-and-the-initial-coin-offering-ico?u=76281980&t=0)** - One of the other interesting features of a theorem is that it has its own native cryptocurrency and it's called Ether.
+> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ether-eth-and-the-initial-coin-offering-ico?u=76281980&t=0)** - One of the other interesting features of a theorem is that it has its own native [[Cryptocurrency]] and it's called Ether.
 >
 > **[0:07](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ether-eth-and-the-initial-coin-offering-ico?u=76281980&t=7)** And it's often referred to as just ETH.
 >
@@ -751,7 +744,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ether-eth-and-the-initial-coin-offering-ico?u=76281980&t=43)** In order to do any of these, you do need an exchange account and an exchange account gives you the ability to translate or to exchange money between a fiat currency and a cryptocurrency or actually, even between cryptocurrencies.
 >
-> **[0:59](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ether-eth-and-the-initial-coin-offering-ico?u=76281980&t=59)** You can trade Ether using your Ethereum address.
+> **[0:59](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ether-eth-and-the-initial-coin-offering-ico?u=76281980&t=59)** You can trade Ether using your [[Ethereum]] address.
 >
 > **[1:03](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ether-eth-and-the-initial-coin-offering-ico?u=76281980&t=63)** So an exchange account typically would associate a real life identity with one or more Ethereum addresses, giving the ability to link up, let's say, a bank account, a real live bank account with an Ethereum address.
 >
@@ -781,15 +774,15 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ether-eth-and-the-initial-coin-offering-ico?u=76281980&t=139)** That means is really important that you maintain these private keys.
 >
-> **[2:23](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ether-eth-and-the-initial-coin-offering-ico?u=76281980&t=143)** So, we use software or even hardware devices or sometimes we can even use a piece of paper that's called a wallet.
+> **[2:23](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ether-eth-and-the-initial-coin-offering-ico?u=76281980&t=143)** So, we use software or even [[Hardware]] devices or sometimes we can even use a piece of paper that's called a wallet.
 >
 > **[2:30](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ether-eth-and-the-initial-coin-offering-ico?u=76281980&t=150)** And a wallet is either software, hardware or physical device that allows us to store those private keys, so that we can present them in order to access our crypto assets.
 >
-> **[2:45](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ether-eth-and-the-initial-coin-offering-ico?u=76281980&t=165)** Crypto asset could be cryptocurrency or it could be anything else that's stored on the blockchain.
+> **[2:45](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ether-eth-and-the-initial-coin-offering-ico?u=76281980&t=165)** Crypto asset could be cryptocurrency or it could be anything else that's stored on the [[Blockchain]].
 >
 > **[2:51](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ether-eth-and-the-initial-coin-offering-ico?u=76281980&t=171)** So we'll use those private keys to access your Ether or whatever else you're storing on the blockchain.
 >
-> **[2:58](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ether-eth-and-the-initial-coin-offering-ico?u=76281980&t=178)** In an earlier episode, I mentioned that in Ethereum, you can create your own tokens.
+> **[2:58](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ether-eth-and-the-initial-coin-offering-ico?u=76281980&t=178)** In an earlier episode, I mentioned that in Ethereum, you can create your own [[Tokens]].
 >
 > **[3:02](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/ether-eth-and-the-initial-coin-offering-ico?u=76281980&t=182)** You can basically create your own cryptocurrency.
 >
@@ -845,7 +838,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cryptocurrency]] (14), [[Ethereum]] (8), business (7), [[Blockchain]] (5), [[Tokens]] (4)
+> **Frameworks & Libraries:** [[Cryptocurrency]] (14), [[Ethereum]] (8), [[Blockchain]] (5), [[Tokens]] (4), [[Hardware]] (2)
 > **Definitions:** is a  (3), in other words (3), is an  (1)
 > **Env Vars:** ico (2), eth (1), ipo (1)
 > **CLI Commands:** make (3)
@@ -853,8 +846,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - one (1)
 
-#### Decentralized autonomous organization (DAO)
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/decentralized-autonomous-organization-dao?u=76281980)
+#### [Decentralized autonomous organization (DAO)](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/decentralized-autonomous-organization-dao?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -862,15 +854,15 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/decentralized-autonomous-organization-dao?u=76281980&t=5)** It stands for Initial Coin Offering.
 >
-> **[0:07](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/decentralized-autonomous-organization-dao?u=76281980&t=7)** Remember that that's how many new blockchain businesses basically raise funds to go into business, and it could be any type of business.
+> **[0:07](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/decentralized-autonomous-organization-dao?u=76281980&t=7)** Remember that that's how many new [[Blockchain]] businesses basically raise funds to go into business, and it could be any type of business.
 >
 > **[0:14](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/decentralized-autonomous-organization-dao?u=76281980&t=14)** It could be a normal business or it could be more automatic or autonomous business.
 >
-> **[0:19](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/decentralized-autonomous-organization-dao?u=76281980&t=19)** In fact, there's a specific type of new business called a DAO, or Decentralized Autonomous Organization, that is possible with the Ethereum Blockchain.
+> **[0:19](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/decentralized-autonomous-organization-dao?u=76281980&t=19)** In fact, there's a specific type of new business called a DAO, or Decentralized Autonomous Organization, that is possible with the [[Ethereum]] Blockchain.
 >
 > **[0:32](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/decentralized-autonomous-organization-dao?u=76281980&t=32)** A DAO is effectively a business with little or no human interaction whatsoever.
 >
-> **[0:37](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/decentralized-autonomous-organization-dao?u=76281980&t=37)** All business decisions are made by smart contracts.
+> **[0:37](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/decentralized-autonomous-organization-dao?u=76281980&t=37)** All business decisions are made by [[Smart Contracts]].
 >
 > **[0:41](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/decentralized-autonomous-organization-dao?u=76281980&t=41)** So if you were able to write out all the rules of your business and how your business operates and code those into smart contracts, you could have your own DAO.
 >
@@ -914,7 +906,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (10), [[Blockchain]] (3), [[Ethereum]] (2), [[Smart Contracts]] (2)
+> **Frameworks & Libraries:** [[Blockchain]] (3), [[Ethereum]] (2), [[Smart Contracts]] (2)
 > **Env Vars:** dao (4), ico (1)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** go to (2)
@@ -923,12 +915,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - in (1)
 
-#### The Ethereum ecosystem
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/the-ethereum-ecosystem?u=76281980)
+#### [The Ethereum ecosystem](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/the-ethereum-ecosystem?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/the-ethereum-ecosystem?u=76281980&t=0)** - So we've talked a lot about what blockchain is, what Ethereum is and what you can do with it.
+> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/the-ethereum-ecosystem?u=76281980&t=0)** - So we've talked a lot about what [[Blockchain]] is, what [[Ethereum]] is and what you can do with it.
 >
 > **[0:06](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/the-ethereum-ecosystem?u=76281980&t=6)** But what are the pieces that actually make up a living breathing Ethereum environment.
 >
@@ -948,7 +939,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/the-ethereum-ecosystem?u=76281980&t=40)** Then, you have the EVM, which is the Ethereum Virtual Machine.
 >
-> **[0:45](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/the-ethereum-ecosystem?u=76281980&t=45)** It is the program that runs, that allows us to execute smart contracts and interact with the data in the blockchain.
+> **[0:45](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/the-ethereum-ecosystem?u=76281980&t=45)** It is the program that runs, that allows us to execute [[Smart Contracts]] and interact with the data in the blockchain.
 >
 > **[0:53](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/the-ethereum-ecosystem?u=76281980&t=53)** In order for us to run code and access data in the blockchain, through the smart contracts, we have to have an address.
 >
@@ -1036,7 +1027,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (20), [[Ethereum]] (8), data (6), database (2), [[Smart Contracts]] (2)
+> **Frameworks & Libraries:** [[Blockchain]] (20), [[Ethereum]] (8), [[Smart Contracts]] (2)
 > **CLI Commands:** make (7)
 > **Env Vars:** evm (5), ide (2)
 > **Definitions:** is a  (2), in other words (1), is called (1), stands for (1)
@@ -1045,18 +1036,17 @@ created: 2026-05-02
 > **Analogies:** kind of like (1)
 > **Speakers:** - so (1)
 
-#### Building blockchain apps
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/building-blockchain-apps?u=76281980)
+#### [Building blockchain apps](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/building-blockchain-apps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/building-blockchain-apps?u=76281980&t=1)** - Before we actually build our development environment and start writing code, let's take a step back and look at a few philosophical differences.
 >
-> **[0:10](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/building-blockchain-apps?u=76281980&t=10)** Writing smart contract code, or writing any blockchain application is a little different than traditional applications.
+> **[0:10](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/building-blockchain-apps?u=76281980&t=10)** Writing smart contract code, or writing any [[Blockchain]] application is a little different than traditional applications.
 >
 > **[0:17](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/building-blockchain-apps?u=76281980&t=17)** And there's several reasons for that.
 >
-> **[0:19](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/building-blockchain-apps?u=76281980&t=19)** And as long as we keep those in mind as we approach writing smart contracts, it'll be a little bit easier.
+> **[0:19](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/building-blockchain-apps?u=76281980&t=19)** And as long as we keep those in mind as we approach writing [[Smart Contracts]], it'll be a little bit easier.
 >
 > **[0:25](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/building-blockchain-apps?u=76281980&t=25)** We don't want to focus too much on just the smart contract stuff.
 >
@@ -1080,7 +1070,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/building-blockchain-apps?u=76281980&t=85)** So we've got the disparity in processing speed.
 >
-> **[1:29](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/building-blockchain-apps?u=76281980&t=89)** Also there's some times when you may want to reach out to the outside world to fetch information, that's very dangerous because if the data repository that you fetch information from somehow is different because of the different nodes, you can actually have non-deterministic output.
+> **[1:29](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/building-blockchain-apps?u=76281980&t=89)** Also there's some times when you may want to reach out to the outside world to [[Fetch]] information, that's very dangerous because if the data repository that you fetch information from somehow is different because of the different nodes, you can actually have non-deterministic output.
 >
 > **[1:47](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/building-blockchain-apps?u=76281980&t=107)** And that's a big problem.
 >
@@ -1138,7 +1128,7 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/building-blockchain-apps?u=76281980&t=242)** So always try to find the bugs before deployment.
 >
-> **[4:04](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/building-blockchain-apps?u=76281980&t=244)** Testing is always a big deal in any type of application development but it is so crucial when it comes to blockchain apps because you have to live with the sins of your previous bugs.
+> **[4:04](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/building-blockchain-apps?u=76281980&t=244)** Testing is always a big deal in any type of [[Application Development]] but it is so crucial when it comes to blockchain apps because you have to live with the sins of your previous bugs.
 >
 > **[4:17](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/building-blockchain-apps?u=76281980&t=257)** So try to catch them before they go out.
 >
@@ -1150,13 +1140,13 @@ created: 2026-05-02
 >
 > **[4:40](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/building-blockchain-apps?u=76281980&t=280)** All right.
 >
-> **[4:41](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/building-blockchain-apps?u=76281980&t=281)** So we've covered what Ethereum is and where it can be used.
+> **[4:41](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/building-blockchain-apps?u=76281980&t=281)** So we've covered what [[Ethereum]] is and where it can be used.
 >
 > **[4:45](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/building-blockchain-apps?u=76281980&t=285)** So now it's time for us to go build our own development environments so we can actually start writing our own smart contract code.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (14), data (12), application (2), node (2), [[Fetch]] (2)
+> **Frameworks & Libraries:** [[Blockchain]] (14), [[Fetch]] (2), [[Smart Contracts]] (1), [[Application Development]] (1), [[Ethereum]] (1)
 > **CLI Commands:** node (2), make (2), find (1), go build (1)
 > **Warnings:** be aware (4), keep in mind (1), be careful (1)
 > **Definitions:** means that (4), is a  (1)

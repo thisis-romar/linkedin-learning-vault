@@ -80,14 +80,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using design patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/using-design-patterns?u=76281980)
+#### [Using design patterns](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/using-design-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/using-design-patterns?u=76281980&t=0)** - [Diane] As UX designers we're challenged to sift through hundreds of potential interactions to create great interactive experiences.
 >
-> **[0:07](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/using-design-patterns?u=76281980&t=7)** With design patterns you can establish consistency for the user experience and get to better designs faster.
+> **[0:07](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/using-design-patterns?u=76281980&t=7)** With [[Design Patterns]] you can establish consistency for the [[User Experience (UX)|user experience]] and get to better designs faster.
 >
 > **[0:14](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/using-design-patterns?u=76281980&t=14)** You'll become versed in pattern design and understand some of the thinking behind common design paradigms.
 >
@@ -95,7 +94,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/using-design-patterns?u=76281980&t=24)** Using the concepts and ideas presented you'll be immersed in standard design patterns.
 >
-> **[0:29](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/using-design-patterns?u=76281980&t=29)** In my LinkedIn learning course I'll explain what design patterns are and how to apply them as well as key considerations when using them.
+> **[0:29](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/using-design-patterns?u=76281980&t=29)** In my [[LinkedIn]] learning course I'll explain what design patterns are and how to apply them as well as key considerations when using them.
 >
 > **[0:36](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/using-design-patterns?u=76281980&t=36)** I'm a UX designer experienced in creating and driving design pattern libraries.
 >
@@ -103,7 +102,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (4), ux (2), [[User Experience (UX)|User experience]] (1), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (4), [[User Experience (UX)|User experience]] (1), [[LinkedIn]] (1)
 > **Speakers:** - [diane] (1)
 
 
@@ -111,12 +110,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a design pattern?
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/what-is-a-design-pattern?u=76281980)
+#### [What is a design pattern?](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/what-is-a-design-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/what-is-a-design-pattern?u=76281980&t=0)** - [Instructor] As UX designers, we approach designing interfaces by using design patterns.
+> **[0:00](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/what-is-a-design-pattern?u=76281980&t=0)** - [Instructor] As UX designers, we approach designing interfaces by using [[Design Patterns]].
 >
 > **[0:05](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/what-is-a-design-pattern?u=76281980&t=5)** Design patterns are common solutions for common design problems.
 >
@@ -176,7 +174,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/what-is-a-design-pattern?u=76281980&t=173)** The combination of interaction patterns, technical, and visual specifications are collectively known as a design system.
 >
-> **[3:01](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/what-is-a-design-pattern?u=76281980&t=181)** Design systems are comprehensive and are used to help expedite development while maintaining visual and interaction consistency.
+> **[3:01](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/what-is-a-design-pattern?u=76281980&t=181)** [[Design Systems]] are comprehensive and are used to help expedite development while maintaining visual and interaction consistency.
 >
 > **[3:09](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/what-is-a-design-pattern?u=76281980&t=189)** Design systems help design scale.
 >
@@ -190,17 +188,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (6), [[Design Systems]] (3), ux (2), next (2), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (6), [[Design Systems]] (3)
 > **UI Navigation:** click on (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Why are design patterns useful?
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/why-are-design-patterns-useful?u=76281980)
+#### [Why are design patterns useful?](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/why-are-design-patterns-useful?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/why-are-design-patterns-useful?u=76281980&t=0)** - Design patterns are reusable design solutions for common design problems.
+> **[0:00](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/why-are-design-patterns-useful?u=76281980&t=0)** - [[Design Patterns]] are reusable design solutions for common design problems.
 >
 > **[0:05](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/why-are-design-patterns-useful?u=76281980&t=5)** They document how interaction should work for interface elements.
 >
@@ -250,18 +247,17 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/why-are-design-patterns-useful?u=76281980&t=149)** For example, we can create a form based on patterns, but we can't ensure that we're collecting the right information from our user.
 >
-> **[2:37](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/why-are-design-patterns-useful?u=76281980&t=157)** We will always need to apply design thinking to any design we approach, including designing with patterns.
+> **[2:37](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/why-are-design-patterns-useful?u=76281980&t=157)** We will always need to apply [[Design Thinking]] to any design we approach, including designing with patterns.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (2), ux (2), [[Design Thinking]] (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (2), [[Design Thinking]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** for example (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - design (1)
 
-#### Design pattern library vs. style guides
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/design-pattern-library-vs-style-guides?u=76281980)
+#### [Design pattern library vs. style guides](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/design-pattern-library-vs-style-guides?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -277,23 +273,23 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/design-pattern-library-vs-style-guides?u=76281980&t=38)** You can see in these guidelines that there's an emphasis on logo usage and color palettes.
 >
-> **[0:44](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/design-pattern-library-vs-style-guides?u=76281980&t=44)** This particular guide doesn't include any design patterns.
+> **[0:44](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/design-pattern-library-vs-style-guides?u=76281980&t=44)** This particular guide doesn't include any [[Design Patterns]].
 >
 > **[0:48](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/design-pattern-library-vs-style-guides?u=76281980&t=48)** The primary focus behind design patterns is to establish consistency in interaction.
 >
 > **[0:53](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/design-pattern-library-vs-style-guides?u=76281980&t=53)** As I mentioned previously, the user interface should be usable, and design patterns communicate how and when a pattern should be used with the goal of achieving a consistent and usable experience.
 >
-> **[1:05](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/design-pattern-library-vs-style-guides?u=76281980&t=65)** Here's an example of a design pattern library from the United States Web Design System.
+> **[1:05](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/design-pattern-library-vs-style-guides?u=76281980&t=65)** Here's an example of a design pattern library from the United States [[Web Design]] System.
 >
 > **[1:10](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/design-pattern-library-vs-style-guides?u=76281980&t=70)** These guidelines focus on what the pattern is, when to use it, and when to consider something else in the usage section.
 >
 > **[1:18](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/design-pattern-library-vs-style-guides?u=76281980&t=78)** This library has also been componentized so it includes code snippets as well.
 >
-> **[1:23](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/design-pattern-library-vs-style-guides?u=76281980&t=83)** Since the user interface is a reflection of the brand through style of interaction, animations, typography and color, it's not uncommon to see style guides combined with design pattern libraries.
+> **[1:23](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/design-pattern-library-vs-style-guides?u=76281980&t=83)** Since the user interface is a reflection of the brand through style of interaction, animations, [[Typography]] and color, it's not uncommon to see style guides combined with design pattern libraries.
 >
 > **[1:36](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/design-pattern-library-vs-style-guides?u=76281980&t=96)** Let's look at an example of a guide that contains both design libraries and brand guidelines.
 >
-> **[1:41](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/design-pattern-library-vs-style-guides?u=76281980&t=101)** Atlassian does this well.
+> **[1:41](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/design-pattern-library-vs-style-guides?u=76281980&t=101)** [[Atlassian]] does this well.
 >
 > **[1:43](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/design-pattern-library-vs-style-guides?u=76281980&t=103)** The brand guidelines are sectioned off, and the product guidelines include the design patterns or components with detail on how the patterns are used in all their interaction states.
 >
@@ -303,12 +299,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (6), web (2), [[Typography]] (1), [[Atlassian]] (1), product (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (6), [[Web Design]] (1), [[Typography]] (1), [[Atlassian]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### When to break a pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/when-to-break-a-pattern?u=76281980)
+#### [When to break a pattern](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/when-to-break-a-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -316,9 +311,9 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/when-to-break-a-pattern?u=76281980&t=10)** If the pattern satisfies your use case, then it's probably a good idea to go ahead and use it.
 >
-> **[0:15](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/when-to-break-a-pattern?u=76281980&t=15)** However, design patterns are only intended to cover about 80% of use cases.
+> **[0:15](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/when-to-break-a-pattern?u=76281980&t=15)** However, [[Design Patterns]] are only intended to cover about 80% of use cases.
 >
-> **[0:20](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/when-to-break-a-pattern?u=76281980&t=20)** For simple forms, or for simple flows, you'll likely find what you need using design patterns.
+> **[0:20](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/when-to-break-a-pattern?u=76281980&t=20)** For simple [[Forms]], or for simple flows, you'll likely find what you need using design patterns.
 >
 > **[0:26](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/when-to-break-a-pattern?u=76281980&t=26)** However, there are times when the design pattern in its default state may not work for your use case.
 >
@@ -358,24 +353,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (2), ux (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (2), [[Forms]] (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Anti patterns or dark patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/anti-patterns-or-dark-patterns?u=76281980)
+#### [Anti patterns or dark patterns](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/anti-patterns-or-dark-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/anti-patterns-or-dark-patterns?u=76281980&t=0)** - [Instructor] Design is a powerful mechanism to influence and encourage user behavior.
 >
-> **[0:04](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/anti-patterns-or-dark-patterns?u=76281980&t=4)** While design patterns encourage usable and consistent user experience, dark patterns use deceptive practices to influence behavior.
+> **[0:04](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/anti-patterns-or-dark-patterns?u=76281980&t=4)** While [[Design Patterns]] encourage usable and consistent [[User Experience (UX)|user experience]], dark patterns use deceptive practices to influence behavior.
 >
 > **[0:13](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/anti-patterns-or-dark-patterns?u=76281980&t=13)** In fact, this practice has recently gained some attention in the United States, with the proposed legislative bill encouraging tech companies to have their own review boards to ensure user interfaces aren't manipulative or intending to deceive consumers.
 >
-> **[0:29](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/anti-patterns-or-dark-patterns?u=76281980&t=29)** The New York Times also wrote an article about dark patterns in e-commerce, shedding light on shady practices of falsifying data and using fake names, locations, and data to create a fear of missing out on a deal.
+> **[0:29](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/anti-patterns-or-dark-patterns?u=76281980&t=29)** The New York Times also wrote an article about dark patterns in [[E-Commerce]], shedding light on shady practices of falsifying data and using fake names, locations, and data to create a fear of missing out on a deal.
 >
 > **[0:42](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/anti-patterns-or-dark-patterns?u=76281980&t=42)** As UX designers, we represent the voice of the user while meeting the needs of the business.
 >
@@ -395,7 +389,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/anti-patterns-or-dark-patterns?u=76281980&t=84)** While this is an egregious example, as designers, these are the type of decisions we influence when creating user experience.
 >
-> **[1:32](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/anti-patterns-or-dark-patterns?u=76281980&t=92)** It's important that we consider the ethics of the design and the user's choices and options, especially for e-commerce scenarios or for a task as serious as signing up for a credit card.
+> **[1:32](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/anti-patterns-or-dark-patterns?u=76281980&t=92)** It's important that we consider the [[Ethics]] of the design and the user's choices and options, especially for e-commerce scenarios or for a task as serious as signing up for a credit card.
 >
 > **[1:44](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/anti-patterns-or-dark-patterns?u=76281980&t=104)** Our role is to find the right balance between the user and business need, and most times we can do that through continuous feedback and iteration with customers.
 >
@@ -407,7 +401,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[User Experience (UX)|User experience]] (2), [[E-Commerce]] (2), data (2), [[Design Patterns]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2), [[E-Commerce]] (2), [[Design Patterns]] (1), [[Ethics]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
@@ -419,12 +413,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Global navigation
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/global-navigation?u=76281980)
+#### [Global navigation](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/global-navigation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/global-navigation?u=76281980&t=0)** - [Instructor] Global navigation is a foundational element of any digital user experience design.
+> **[0:00](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/global-navigation?u=76281980&t=0)** - [Instructor] Global navigation is a foundational element of any digital [[User Experience Design (UED)|user experience design]].
 >
 > **[0:05](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/global-navigation?u=76281980&t=5)** The global navigation reflects how your experience is organized and helps establish a sense of place while defining its structure.
 >
@@ -476,18 +469,17 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/global-navigation?u=76281980&t=148)** If you're creating a new pattern, or creating a pattern library, it's always a good idea to prototype the pattern to as close as the actual interaction as possible.
 >
-> **[2:37](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/global-navigation?u=76281980&t=157)** We want to make sure all states are accounted for, and we can use the prototype for usability testing the patterns.
+> **[2:37](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/global-navigation?u=76281980&t=157)** We want to make sure all states are accounted for, and we can use the prototype for [[Usability Testing]] the patterns.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), [[User Experience Design (UED)|User experience design]] (1), next (1), [[Usability Testing]] (1)
+> **Frameworks & Libraries:** [[User Experience Design (UED)|User experience design]] (1), [[Usability Testing]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** in the menu (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cards
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/cards?u=76281980)
+#### [Cards](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/cards?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -543,8 +535,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [tutor] (1)
 
-#### Tabs
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/tabs?u=76281980)
+#### [Tabs](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/tabs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -592,14 +583,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (1)
 > **Analogies:** for example (1), similar to (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Side navigation
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/side-navigation?u=76281980)
+#### [Side navigation](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/side-navigation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -652,8 +641,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Accordions
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/accordions?u=76281980)
+#### [Accordions](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/accordions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -715,8 +703,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Fitts's law, grouping, and cognitive load
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/fitts-s-law-grouping-and-cognitive-load?u=76281980)
+#### [Fitts's law, grouping, and cognitive load](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/fitts-s-law-grouping-and-cognitive-load?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -732,7 +719,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/fitts-s-law-grouping-and-cognitive-load?u=76281980&t=81)** Grouped elements in interface design help the user identify where things are based on the groupings.
 >
-> **[1:27](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/fitts-s-law-grouping-and-cognitive-load?u=76281980&t=87)** For example, when you use a document editing program like Word or Google Docs, you'll see the actions grouped across the top. Dashboards are another clear example of the grouping principle at work. Areas of the interface are sectioned off into related grouped information.
+> **[1:27](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/fitts-s-law-grouping-and-cognitive-load?u=76281980&t=87)** For example, when you use a document editing program like [[Microsoft Word|Word]] or [[Google]] Docs, you'll see the actions grouped across the top. [[Dashboards]] are another clear example of the grouping principle at work. Areas of the interface are sectioned off into related grouped information.
 >
 > **[1:45](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/fitts-s-law-grouping-and-cognitive-load?u=76281980&t=105)** Grouping makes it easier for users to look for the information when it's been organized and grouped into areas that map to their understanding.
 >
@@ -740,23 +727,22 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/fitts-s-law-grouping-and-cognitive-load?u=76281980&t=133)** If you've ever had the feeling of being overwhelmed by a website, either because the design was confusing or the task was daunting, you've likely experienced cognitive load. Typically, we can avoid overwhelming our users by simplifying the experience.
 >
-> **[2:30](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/fitts-s-law-grouping-and-cognitive-load?u=76281980&t=150)** Design patterns are helpful in reducing cognitive load, since we're presenting familiar paradigms to the user and they don't have to use their mental energy to use something like a dropdown.
+> **[2:30](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/fitts-s-law-grouping-and-cognitive-load?u=76281980&t=150)** [[Design Patterns]] are helpful in reducing cognitive load, since we're presenting familiar paradigms to the user and they don't have to use their mental energy to use something like a dropdown.
 >
 > **[2:40](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/fitts-s-law-grouping-and-cognitive-load?u=76281980&t=160)** Creating tasks into smaller sub tasks also help with simplification and reducing cognitive load.
 >
-> **[2:47](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/fitts-s-law-grouping-and-cognitive-load?u=76281980&t=167)** When organizing data and forms, we have to take these principles into account to create a simple experience.
+> **[2:47](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/fitts-s-law-grouping-and-cognitive-load?u=76281980&t=167)** When organizing data and [[Forms]], we have to take these principles into account to create a simple experience.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (1), [[Microsoft Word|Word]] (1), [[Google]] (1), [[Dashboards]] (1), [[Design Patterns]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Google]] (1), [[Dashboards]] (1), [[Design Patterns]] (1), [[Forms]] (1)
 > **UI Navigation:** click on (3), dropdown (1)
 > **CLI Commands:** find (1)
 > **Definitions:** refers to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - there (1)
 
-#### Text input
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/text-input?u=76281980)
+#### [Text input](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/text-input?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -764,7 +750,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/text-input?u=76281980&t=7)** Designing form elements require taking some of the smallest details into consideration to create a good form experience.
 >
-> **[0:14](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/text-input?u=76281980&t=14)** Generally speaking, people don't like filling out forms and oftentimes will drop out of the form if it's too long or the data being collected isn't clear.
+> **[0:14](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/text-input?u=76281980&t=14)** Generally speaking, people don't like filling out [[Forms]] and oftentimes will drop out of the form if it's too long or the data being collected isn't clear.
 >
 > **[0:24](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/text-input?u=76281980&t=24)** Text inputs, or text fields, are a single-input form that allows users to enter data.
 >
@@ -790,7 +776,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/text-input?u=76281980&t=104)** Forms are much easier to scan in a single column rather than a two-column layout.
 >
-> **[1:50](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/text-input?u=76281980&t=110)** In the case when an error does occur when the user is filling out information, it's convenient to have an inline validation to capture the error in real-time before the user submits the form.
+> **[1:50](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/text-input?u=76281980&t=110)** In the case when an error does occur when the user is filling out information, it's convenient to have an inline validation to capture the error in [[Real-Time]] before the user submits the form.
 >
 > **[2:01](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/text-input?u=76281980&t=121)** Inline validation can occur when the user tabs out of the field or moves the mouse out of the field, or in real-time as the user is typing.
 >
@@ -816,13 +802,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (3), data (3), [[Real-Time]] (3), application (2)
+> **Frameworks & Libraries:** [[Forms]] (3), [[Real-Time]] (3)
 > **Analogies:** for example (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Checkboxes, radio buttons, and dropdowns
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/checkboxes-radio-buttons-and-dropdowns?u=76281980)
+#### [Checkboxes, radio buttons, and dropdowns](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/checkboxes-radio-buttons-and-dropdowns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -832,7 +817,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/checkboxes-radio-buttons-and-dropdowns?u=76281980&t=13)** Checkboxes are used as a multi-select option for scenarios where the user can select multiple items at a time.
 >
-> **[0:20](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/checkboxes-radio-buttons-and-dropdowns?u=76281980&t=20)** By default, they can be unselected, and there's no requirement for them to be selected, so you sometimes see them as opt-ins at the bottom of forms.
+> **[0:20](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/checkboxes-radio-buttons-and-dropdowns?u=76281980&t=20)** By default, they can be unselected, and there's no requirement for them to be selected, so you sometimes see them as opt-ins at the bottom of [[Forms]].
 >
 > **[0:30](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/checkboxes-radio-buttons-and-dropdowns?u=76281980&t=30)** By comparison, radio buttons are used for a single selection use case, and by default, one should be selected.
 >
@@ -884,15 +869,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), [[Forms]] (1), data (1), application (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (2), means that (1)
 > **UI Navigation:** select the (2)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tooltips and popovers
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/tooltips-and-popovers?u=76281980)
+#### [Tooltips and popovers](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/tooltips-and-popovers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -930,7 +914,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/tooltips-and-popovers?u=76281980&t=90)** For some use cases, you may only want to activate something on click.
 >
-> **[1:35](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/tooltips-and-popovers?u=76281980&t=95)** For forms that have a lot of fields, or using language that users might not understand, I find it best to use a hover interaction if placing Tooltips within form fields.
+> **[1:35](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/tooltips-and-popovers?u=76281980&t=95)** For [[Forms]] that have a lot of fields, or using language that users might not understand, I find it best to use a hover interaction if placing Tooltips within form fields.
 >
 > **[1:45](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/tooltips-and-popovers?u=76281980&t=105)** This simplifies the experience, so the users don't have to click on everything to find more information, they can simply hover.
 >
@@ -944,21 +928,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Forms]] (1), application (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **CLI Commands:** find (3)
 > **UI Navigation:** click on (1)
 > **Analogies:** similar to (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Buttons
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/buttons?u=76281980)
+#### [Buttons](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/buttons?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/buttons?u=76281980&t=0)** - [Instructor] Buttons are used to trigger an action.
 >
-> **[0:03](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/buttons?u=76281980&t=3)** Buttons are a standard interface element for submitting forms, logging out or downloading items.
+> **[0:03](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/buttons?u=76281980&t=3)** Buttons are a standard interface element for submitting [[Forms]], logging out or downloading items.
 >
 > **[0:09](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/buttons?u=76281980&t=9)** They can be used any time you have an action you want the user to take.
 >
@@ -1006,15 +989,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[Forms]] (1), next (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Best Practices:** it's best to (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Links and breadcrumbs
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/links-and-breadcrumbs?u=76281980)
+#### [Links and breadcrumbs](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/links-and-breadcrumbs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1048,7 +1030,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/links-and-breadcrumbs?u=76281980&t=76)** Within blocks of text, links are use contextually, without call-to-action type language.
 >
-> **[1:22](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/links-and-breadcrumbs?u=76281980&t=82)** In this example, the link is in a block of content and the word alumni is linked to the alumni page.
+> **[1:22](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/links-and-breadcrumbs?u=76281980&t=82)** In this example, the link is in a block of content and the [[Microsoft Word|word]] alumni is linked to the alumni page.
 >
 > **[1:29](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/links-and-breadcrumbs?u=76281980&t=89)** We don't have to say, view alumni, which we would do if this was a standalone call-to-action.
 >
@@ -1084,14 +1066,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **UI Navigation:** click on (1), select the (1), navigate to (1)
 > **Analogies:** for example (3)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - links (1)
 
-#### Toggle switches
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/toggle-switches?u=76281980)
+#### [Toggle switches](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/toggle-switches?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1127,12 +1108,11 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Modals
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/modals?u=76281980)
+#### [Modals](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/modals?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/modals?u=76281980&t=0)** - [Instructor] Modals are windows that focus the user's attention.
+> **[0:00](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/modals?u=76281980&t=0)** - [Instructor] Modals are [[Windows]] that focus the user's attention.
 >
 > **[0:03](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/modals?u=76281980&t=3)** They're intended to keep users in the context of the task at hand rather than pulling them out of the experience.
 >
@@ -1148,9 +1128,9 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/modals?u=76281980&t=41)** Exceptions to this would be if you're exiting a flow and you want to display a confirmation before the user leaves.
 >
-> **[0:48](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/modals?u=76281980&t=48)** Sometimes you'll see this pattern on e-commerce websites.
+> **[0:48](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/modals?u=76281980&t=48)** Sometimes you'll see this pattern on [[E-Commerce]] websites.
 >
-> **[0:52](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/modals?u=76281980&t=52)** When modals are active, they typically have an opaque overlay over the rest of the interface to communicate to the user that they can't interact with the background.
+> **[0:52](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/modals?u=76281980&t=52)** When modals are active, they typically have an opaque overlay over the [[Representational State Transfer (REST)|rest]] of the interface to communicate to the user that they can't interact with the background.
 >
 > **[1:01](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/modals?u=76281980&t=61)** Usually, you'll need to close the modal manually or take an action.
 >
@@ -1186,7 +1166,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[E-Commerce]] (2), product (2), [[Windows]] (1), [[Representational State Transfer (REST)|Rest]] (1), data (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (2), [[Windows]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Prerequisites:** you'll need (1)
@@ -1197,8 +1177,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Feedback in UX
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/feedback-in-ux?u=76281980)
+#### [Feedback in UX](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/feedback-in-ux?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1246,21 +1225,20 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/feedback-in-ux?u=76281980&t=136)** These are all examples of feedback.
 >
-> **[2:19](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/feedback-in-ux?u=76281980&t=139)** Every time the users takes an action, the system should react to the input.
+> **[2:19](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/feedback-in-ux?u=76281980&t=139)** Every time the users takes an action, the system should [[React.js|react]] to the input.
 >
 > **[2:24](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/feedback-in-ux?u=76281980&t=144)** In every part of what we design, we always have to consider when it's appropriate to give feedback and which patterns are the correct patterns to reinforce the feedback.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (1), [[Search]] (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **UI Navigation:** click on (3), select the (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
 
-#### System messaging
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/system-messaging?u=76281980)
+#### [System messaging](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/system-messaging?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1328,14 +1306,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (1)
 > **Analogies:** for example (2)
 > **Warnings:** warning (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Progress indicators
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/progress-indicators?u=76281980)
+#### [Progress indicators](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/progress-indicators?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1377,12 +1353,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), next (1)
 > **UI Navigation:** navigate to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Progress meters
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/progress-meters?u=76281980)
+#### [Progress meters](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/progress-meters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1422,13 +1396,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), generic (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Progress indicators: Spinners
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/progress-indicators-spinners?u=76281980)
+#### [Progress indicators: Spinners](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/progress-indicators-spinners?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1450,19 +1422,19 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/progress-indicators-spinners?u=76281980&t=57)** In situations in which there's multiple items loading on different parts of the page, multiple spinners can be displayed in each location.
 >
-> **[1:06](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/progress-indicators-spinners?u=76281980&t=66)** This scenario can occur with experiences loading different types of data, dashboards, for example.
+> **[1:06](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/progress-indicators-spinners?u=76281980&t=66)** This scenario can occur with experiences loading different types of data, [[Dashboards]], for example.
 >
 > **[1:12](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/progress-indicators-spinners?u=76281980&t=72)** For page level processes, spinners can display in a modal overlay when waiting for the entire page to load, or within the page itself.
 >
 > **[1:21](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/progress-indicators-spinners?u=76281980&t=81)** Spinners are sometimes used in conjunction with other patterns to show that something is loading.
 >
-> **[1:26](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/progress-indicators-spinners?u=76281980&t=86)** It may be paired with wireframe-style graphics in which you'll see the page load with placeholder images until the content loads, or the content will be grayed out while the rest of the page is still loading.
+> **[1:26](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/progress-indicators-spinners?u=76281980&t=86)** It may be paired with wireframe-style graphics in which you'll see the page load with placeholder images until the content loads, or the content will be grayed out while the [[Representational State Transfer (REST)|rest]] of the page is still loading.
 >
 > **[1:37](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/progress-indicators-spinners?u=76281980&t=97)** Spinners are a common pattern for indeterminate processes and useful in a lot of different scenarios.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Dashboards]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1471,8 +1443,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Search input
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/search-input?u=76281980)
+#### [Search input](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/search-input?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1506,7 +1477,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/search-input?u=76281980&t=86)** Placeholder text gives context on how users can search on your site.
 >
-> **[1:31](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/search-input?u=76281980&t=91)** For example, in LinkedIn Learning search, there's placeholder text that allows you to search for skills, subjects, or software.
+> **[1:31](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/search-input?u=76281980&t=91)** For example, in [[LinkedIn]] Learning search, there's placeholder text that allows you to search for skills, subjects, or software.
 >
 > **[1:39](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/search-input?u=76281980&t=99)** This provides guidance on how to find information.
 >
@@ -1538,15 +1509,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (27), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** find (5)
 > **Definitions:** refers to (2), is a  (2)
 > **Analogies:** for example (3)
 > **UI Navigation:** dropdown (1)
 > **Speakers:** - [narrator] (1)
 
-#### Autocomplete
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/autocomplete?u=76281980)
+#### [Autocomplete](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/autocomplete?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1554,9 +1524,9 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/autocomplete?u=76281980&t=7)** Recognition is easier than recall when it comes to our memory, and this pattern reflects this idea.
 >
-> **[0:13](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/autocomplete?u=76281980&t=13)** Autocomplete refers to the behavior of typing two to three characters and seeing a real-time listing of results in the text input dropdown menu.
+> **[0:13](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/autocomplete?u=76281980&t=13)** Autocomplete refers to the behavior of typing two to three characters and seeing a [[Real-Time]] listing of results in the text input dropdown menu.
 >
-> **[0:21](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/autocomplete?u=76281980&t=21)** The terms from the autocomplete are usually derived from the sites controlled vocabulary or the selected terminology that the site uses to describe their products or services.
+> **[0:21](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/autocomplete?u=76281980&t=21)** The terms from the autocomplete are usually derived from the sites controlled vocabulary or the selected terminology that the site uses to describe their [[Microsoft Products|products]] or services.
 >
 > **[0:32](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/autocomplete?u=76281980&t=32)** For example, vehicle and car can both be common terms, but the site might use one term over the other.
 >
@@ -1588,27 +1558,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), [[Real-Time]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** dropdown (2), select the (1)
 > **Definitions:** is a  (2), refers to (1)
 > **Analogies:** for example (2), similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Search results
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/search-results?u=76281980)
+#### [Search results](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/search-results?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/search-results?u=76281980&t=0)** - [Instructor] The goal of the search results page are to give the user enough clarity to determine if their search resulted in the information they were looking for.
 >
-> **[0:08](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/search-results?u=76281980&t=8)** Search results pages have various layouts, but there's some standard design patterns which include the following elements: the search term used, the number of results, sorting, and filtering.
+> **[0:08](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/search-results?u=76281980&t=8)** Search results pages have various layouts, but there's some standard [[Design Patterns]] which include the following elements: the search term used, the number of results, sorting, and filtering.
 >
 > **[0:22](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/search-results?u=76281980&t=22)** We'll talk more about filtering in a different video.
 >
 > **[0:26](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/search-results?u=76281980&t=26)** Showing the search term helps the user understand why they're viewing the results.
 >
-> **[0:31](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/search-results?u=76281980&t=31)** For example, if the search term entered was pants, you might get results with brand names that include the word pants.
+> **[0:31](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/search-results?u=76281980&t=31)** For example, if the search term entered was pants, you might get results with brand names that include the [[Microsoft Word|word]] pants.
 >
 > **[0:38](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/search-results?u=76281980&t=38)** This helps the user understand why they're seeing a result that isn't a pair of pants, but rather, the brand name including the work pants.
 >
@@ -1642,7 +1611,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/search-results?u=76281980&t=125)** Search results have key considerations based on which information you want the user to focus on.
 >
-> **[2:11](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/search-results?u=76281980&t=131)** For content-rich sites, you may want to include metadata about the content, like tags, and a snippet of the content to help users determine if this is the content they want.
+> **[2:11](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/search-results?u=76281980&t=131)** For content-rich sites, you may want to include [[Metadata]] about the content, like tags, and a snippet of the content to help users determine if this is the content they want.
 >
 > **[2:21](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/search-results?u=76281980&t=141)** Search results have various layouts and require some experimentation on what might work for your use case.
 >
@@ -1650,14 +1619,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (13), [[Design Patterns]] (1), [[Microsoft Word|Word]] (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (1), [[Microsoft Word|Word]] (1), [[Metadata]] (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Filtering
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/filtering?u=76281980)
+#### [Filtering](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/filtering?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1681,7 +1649,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/filtering?u=76281980&t=53)** Filters can either be on the left, right, or top of the search results.
 >
-> **[0:57](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/filtering?u=76281980&t=57)** The layout is dictated by the amount of filters, visibility, and scalability.
+> **[0:57](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/filtering?u=76281980&t=57)** The layout is dictated by the amount of filters, visibility, and [[Scalability]].
 >
 > **[1:02](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/filtering?u=76281980&t=62)** If more filters are added, then spacial constraints need to be taken into consideration.
 >
@@ -1719,7 +1687,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (5), product (1), [[Scalability]] (1)
+> **Frameworks & Libraries:** [[Scalability]] (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1728,30 +1696,29 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next Steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/next-steps?u=76281980)
+#### [Next Steps](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/next-steps?u=76281980&t=0)** - [Instructor] Thanks for watching.
 >
-> **[0:02](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/next-steps?u=76281980&t=2)** You might find yourself working on an unfamiliar project and needing to ramp up on foundational design patterns quickly.
+> **[0:02](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/next-steps?u=76281980&t=2)** You might find yourself working on an unfamiliar project and needing to ramp up on foundational [[Design Patterns]] quickly.
 >
-> **[0:08](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/next-steps?u=76281980&t=8)** The techniques you've learned in this course for navigation, form and data controls, and communicating progress and feedback can be applied to creating sterling experiences that encourage usable and consistent user experience.
+> **[0:08](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/next-steps?u=76281980&t=8)** The techniques you've learned in this course for navigation, form and data controls, and communicating progress and feedback can be applied to creating sterling experiences that encourage usable and consistent [[User Experience (UX)|user experience]].
 >
 > **[0:22](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/next-steps?u=76281980&t=22)** Download the handouts as a guide to help you with your next project.
 >
-> **[0:26](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/next-steps?u=76281980&t=26)** You can check out my other courses, [[Interaction Design- Structure]] and [[UX Foundations- Prototyping]] to learn more, relevant material.
+> **[0:26](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/next-steps?u=76281980&t=26)** You can check out my other courses, [[Interaction Design- Structure]] and [[UX Foundations- [[Prototyping]]]] to learn more, relevant material.
 >
 > **[0:35](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/next-steps?u=76281980&t=35)** If you have any follow-up questions, feel free to post them on the Q&A on this course's page.
 >
 > **[0:40](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/next-steps?u=76281980&t=40)** I look forward to hearing your thoughts and questions.
 >
-> **[0:43](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/next-steps?u=76281980&t=43)** Also, feel free to follow me on LinkedIn or Twitter.
+> **[0:43](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/next-steps?u=76281980&t=43)** Also, feel free to follow me on [[LinkedIn]] or Twitter.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (1), data (1), [[User Experience (UX)|User experience]] (1), next (1), ux (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (1), [[User Experience (UX)|User experience]] (1), [[Prototyping]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)

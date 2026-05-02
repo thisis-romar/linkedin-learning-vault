@@ -120,8 +120,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Making data more useful
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/making-data-more-useful?u=76281980)
+#### [Making data more useful](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/making-data-more-useful?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -129,7 +128,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/making-data-more-useful?u=76281980&t=10)** Said another way, 14,500 hours of HD video are created every second.
 >
-> **[0:17](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/making-data-more-useful?u=76281980&t=17)** Hello, my name is Dr. John Johnson, CEO of Edgeworth Economics.
+> **[0:17](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/making-data-more-useful?u=76281980&t=17)** Hello, my name is Dr. [[John the Ripper|John]] Johnson, CEO of Edgeworth Economics.
 >
 > **[0:21](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/making-data-more-useful?u=76281980&t=21)** Welcome to my introductory course designed for business leaders, managers, and executives who must make data-driven decisions every day.
 >
@@ -139,7 +138,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/making-data-more-useful?u=76281980&t=40)** In the remainder of the course, we'll tackle conceptual approaches to data analysis.
 >
-> **[0:45](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/making-data-more-useful?u=76281980&t=45)** Understanding even simple statistical concepts will allow you to maximize efficiency and improve business operations.
+> **[0:45](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/making-data-more-useful?u=76281980&t=45)** Understanding even simple statistical concepts will allow you to maximize efficiency and improve [[Business Operations]].
 >
 > **[0:53](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/making-data-more-useful?u=76281980&t=53)** So what are you waiting for?
 >
@@ -147,13 +146,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), business (2)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (1), [[Business Operations]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ceo (1)
 > **Speakers:** - according (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -165,7 +163,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/what-you-should-know?u=76281980&t=25)** In fact, the key to using data effectively is to appropriately question the source of information and the results.
 >
-> **[0:32](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/what-you-should-know?u=76281980&t=32)** For this course, ensure that you have a basic knowledge of Microsoft Excel and know a bit about simple statistics.
+> **[0:32](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/what-you-should-know?u=76281980&t=32)** For this course, ensure that you have a basic knowledge of [[Microsoft Excel]] and know a bit about simple [[Statistics]].
 >
 > **[0:38](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/what-you-should-know?u=76281980&t=38)** We'll do a review of summary statistics, and then we'll dive into more complicated concepts.
 >
@@ -175,7 +173,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), business (4), [[Statistics]] (2), [[Analytics]] (1), [[Microsoft Excel]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Microsoft Excel]] (1)
 > **Speakers:** - data (1)
 
 
@@ -183,8 +181,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Business leaders and data analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/business-leaders-and-data-analytics?u=76281980)
+#### [Business leaders and data analytics](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/business-leaders-and-data-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -200,7 +197,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/business-leaders-and-data-analytics?u=76281980&t=33)** Southwest Airlines implemented an AI tool to better track, catalog, analyze, and forecast maintenance activities for its aircraft fleet.
 >
-> **[0:42](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/business-leaders-and-data-analytics?u=76281980&t=42)** The tool used generative AI and machine learning to review, correct, and improve how maintenance actions were recorded.
+> **[0:42](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/business-leaders-and-data-analytics?u=76281980&t=42)** The tool used [[Generative AI]] and machine learning to review, correct, and improve how maintenance actions were recorded.
 >
 > **[0:49](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/business-leaders-and-data-analytics?u=76281980&t=49)** Southwest used the resulting database to analyze past trends and predict future corrective maintenance requirements, reducing costly downtime for its fleet.
 >
@@ -212,11 +209,11 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/business-leaders-and-data-analytics?u=76281980&t=77)** It reported a 13% increase in its active rewards program member base in the subsequent quarter, equal to 4 million new members.
 >
-> **[1:26](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/business-leaders-and-data-analytics?u=76281980&t=86)** Other companies such as Salesforce, ServiceNow, Microsoft, and more are adding AI agents to the toolkits available to the teams to improve their performance and productivity.
+> **[1:26](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/business-leaders-and-data-analytics?u=76281980&t=86)** Other companies such as Salesforce, ServiceNow, [[Microsoft]], and more are adding [[AI Agents]] to the toolkits available to the teams to improve their performance and productivity.
 >
 > **[1:37](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/business-leaders-and-data-analytics?u=76281980&t=97)** These are only a few examples of how modern companies are adapting to the digital age.
 >
-> **[1:42](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/business-leaders-and-data-analytics?u=76281980&t=102)** The Bureau of Labor Statistics projects that STEM occupations will grow 10.4% between 2023 and 2033, as compared to a 3.6% growth rate for non-STEM employment.
+> **[1:42](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/business-leaders-and-data-analytics?u=76281980&t=102)** The Bureau of Labor [[Statistics]] projects that STEM occupations will grow 10.4% between 2023 and 2033, as compared to a 3.6% growth rate for non-STEM employment.
 >
 > **[1:54](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/business-leaders-and-data-analytics?u=76281980&t=114)** As a result, those mastering data and analytical skill sets will see the real world benefits in the years to come.
 >
@@ -226,15 +223,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), ai (7), [[Analytics]] (4), business (2), power (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[Microsoft]] (1), [[AI Agents]] (1), [[Statistics]] (1)
 > **Env Vars:** stem (2)
 > **Versions:** 10.4 (1), 3.6 (1)
 > **CLI Commands:** brew (1)
 > **Analogies:** such as (1)
 > **Speakers:** - in (1)
 
-#### Why learn data analytics in an AI world?
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/why-learn-data-analytics-in-an-ai-world?u=76281980)
+#### [Why learn data analytics in an AI world?](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/why-learn-data-analytics-in-an-ai-world?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -242,7 +238,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/why-learn-data-analytics-in-an-ai-world?u=76281980&t=3)** In a nutshell, AI analytics refers to the use of computerized tools to analyze data, uncover patterns, and generate actionable insights.
 >
-> **[0:12](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/why-learn-data-analytics-in-an-ai-world?u=76281980&t=12)** It combines statistical analysis capabilities, advanced machine learning algorithm techniques, and natural language processing to improve decision-making processes.
+> **[0:12](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/why-learn-data-analytics-in-an-ai-world?u=76281980&t=12)** It combines [[Statistical Analysis]] capabilities, advanced machine learning algorithm techniques, and [[Natural Language Processing (NLP)|natural language processing]] to improve [[Decision-Making]] processes.
 >
 > **[0:22](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/why-learn-data-analytics-in-an-ai-world?u=76281980&t=22)** The application of AI for data analytics are immense, and the industry is predicting that AI tools will soon be part of the air we breathe.
 >
@@ -252,11 +248,11 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/why-learn-data-analytics-in-an-ai-world?u=76281980&t=51)** This is because analyzing data is highly complex and laden with pitfalls that can render a finding not only erroneous but also counterproductive, potentially recommending actions that may actually undermine the business objective.
 >
-> **[1:05](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/why-learn-data-analytics-in-an-ai-world?u=76281980&t=65)** If you skip over first learning the basics of how to generate testable questions, prepare data, calculate statistics, and validate results, then you'll not know if your work is informative, misleading, or perhaps even fatally flawed.
+> **[1:05](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/why-learn-data-analytics-in-an-ai-world?u=76281980&t=65)** If you skip over first learning the basics of how to generate testable questions, prepare data, calculate [[Statistics]], and validate results, then you'll not know if your work is informative, misleading, or perhaps even fatally flawed.
 >
 > **[1:18](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/why-learn-data-analytics-in-an-ai-world?u=76281980&t=78)** An example of the complexities of data used in some AI tools can help us understand why it's important to start with the basics.
 >
-> **[1:26](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/why-learn-data-analytics-in-an-ai-world?u=76281980&t=86)** Procter & Gamble sells tens of thousands of products across nearly 180 different countries, with complex supply chains spiraling around the world.
+> **[1:26](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/why-learn-data-analytics-in-an-ai-world?u=76281980&t=86)** Procter & Gamble sells tens of thousands of [[Microsoft Products|products]] across nearly 180 different countries, with complex supply chains spiraling around the world.
 >
 > **[1:35](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/why-learn-data-analytics-in-an-ai-world?u=76281980&t=95)** In developing its internal AI analytics tool for its employees, it first had to integrate and standardize its business information into a consolidated database.
 >
@@ -270,7 +266,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/why-learn-data-analytics-in-an-ai-world?u=76281980&t=140)** Consequently, this course will begin to provide you the fundamentals every analyst needs to have in their toolbox.
 >
-> **[2:26](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/why-learn-data-analytics-in-an-ai-world?u=76281980&t=146)** You'll learn the basics of descriptive analytics, predictive analytics, and prescriptive analytics, each type answers a slightly different question.
+> **[2:26](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/why-learn-data-analytics-in-an-ai-world?u=76281980&t=146)** You'll learn the basics of descriptive analytics, [[Predictive Analytics]], and prescriptive analytics, each type answers a slightly different question.
 >
 > **[2:36](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/why-learn-data-analytics-in-an-ai-world?u=76281980&t=156)** Descriptive analytics answers what has happened in the past, predictive answers what might happen in the future, while prescriptive analytics attempts to answer the toughest question of all, what should we do going forward?
 >
@@ -280,13 +276,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (11), data (9), ai (7), business (2), [[Statistical Analysis]] (1)
+> **Frameworks & Libraries:** [[Statistical Analysis]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Decision-Making]] (1), [[Statistics]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** for example (1), such as (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - ai (1)
 
-#### Introduction to Red30 Tech
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/introduction-to-red30?u=76281980)
+#### [Introduction to Red30 Tech](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/introduction-to-red30?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -296,7 +291,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/introduction-to-red30?u=76281980&t=11)** Whether you can relate to the specific problems, the key point is for you to think about the following, knowing your role and what you can contribute to your team's data-driven efforts, and understanding how different situations call for different kinds of analyses.
 >
-> **[0:26](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/introduction-to-red30?u=76281980&t=26)** The first case study provides a basic review of the statistics you'll see in this course.
+> **[0:26](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/introduction-to-red30?u=76281980&t=26)** The first case study provides a basic review of the [[Statistics]] you'll see in this course.
 >
 > **[0:30](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/introduction-to-red30?u=76281980&t=30)** Before we start with the case study, let's learn a little bit about Red 30.
 >
@@ -312,14 +307,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), business (2), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - in (1), - [julie] (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** before we start (1)
 
-#### Types of data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/types-of-data?u=76281980)
+#### [Types of data](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/types-of-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -335,7 +329,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/types-of-data?u=76281980&t=38)** Qualitative data includes things such as summaries of written comments on customer cards collected from suggestion boxes at stores, results from interviews of store managers by an outside consultant, a paragraph taken from an employee's self-evaluation on a performance review.
 >
-> **[0:54](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/types-of-data?u=76281980&t=54)** While descriptive statistics can be generated from both of these information sets, their potential applications and tools you use to draw conclusions from them can be quite different.
+> **[0:54](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/types-of-data?u=76281980&t=54)** While descriptive [[Statistics]] can be generated from both of these information sets, their potential applications and tools you use to draw conclusions from them can be quite different.
 >
 > **[1:05](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/types-of-data?u=76281980&t=65)** Whether quantitative or qualitative, one phrase you'll hear often is that data is made up of a set of observations, the individual units being measured.
 >
@@ -351,13 +345,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **Analogies:** for example (5), such as (1)
 > **Env Vars:** gdp (1)
 > **Speakers:** - now (1)
 
-#### Case study 1: Performance at a Miami location
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-one-performance-at-miami-locations?u=76281980)
+#### [Case study 1: Performance at a Miami location](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-one-performance-at-miami-locations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -377,8 +370,7 @@ created: 2026-05-02
 >
 > **Speakers:** - [ajay] (1)
 
-#### Case study 1: Explanation
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-one-explanation?u=76281980)
+#### [Case study 1: Explanation](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-one-explanation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -420,7 +412,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-one-explanation?u=76281980&t=95)** The highest score, known as the max, is 10, and the lowest score, known as the min, is 1, so you have a range of 9.
 >
-> **[1:45](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-one-explanation?u=76281980&t=105)** The simplest and most commonly used statistics include what are called measures of central tendency: the average or the mean, the median, and the mode.
+> **[1:45](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-one-explanation?u=76281980&t=105)** The simplest and most commonly used [[Statistics]] include what are called measures of central tendency: the average or the mean, the median, and the mode.
 >
 > **[1:55](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-one-explanation?u=76281980&t=115)** Let's calculate the mean here.
 >
@@ -484,15 +476,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Statistics]] (5), hr (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (5)
 > **Definitions:** is a  (4), is an  (2), known as (2), is called (1)
 > **Analogies:** for example (3), picture (1)
 > **Versions:** 6.6 (2), 7.5 (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - for (1)
 
-#### Challenge: Calculate descriptives
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/challenge-calculate-descriptives?u=76281980)
+#### [Challenge: Calculate descriptives](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/challenge-calculate-descriptives?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -500,26 +491,25 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/challenge-calculate-descriptives?u=76281980&t=7)** You'll need to open exercise file 01_07.
 >
-> **[0:11](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/challenge-calculate-descriptives?u=76281980&t=11)** Calculate the descriptive statistics from the Q4 sale data, specifically mean, median, and mode.
+> **[0:11](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/challenge-calculate-descriptives?u=76281980&t=11)** Calculate the descriptive [[Statistics]] from the Q4 sale data, specifically mean, median, and mode.
 >
-> **[0:17](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/challenge-calculate-descriptives?u=76281980&t=17)** I encourage you to use the Excel formulas as you're going through the challenge.
+> **[0:17](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/challenge-calculate-descriptives?u=76281980&t=17)** I encourage you to use the [[Microsoft Excel|Excel]] formulas as you're going through the challenge.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (1), data (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Microsoft Excel|Excel]] (1)
 > **Exercise Files:** exercise file (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Calculate descriptives
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/solution-calculate-descriptives?u=76281980)
+#### [Solution: Calculate descriptives](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/solution-calculate-descriptives?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/solution-calculate-descriptives?u=76281980&t=0)** - [Instructor] For challenge 1, the initial state data can be found in Excel spreadsheet 01_07 If you'd like to just see the answers, you can look in the Excel spreadsheet 01_08.
+> **[0:00](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/solution-calculate-descriptives?u=76281980&t=0)** - [Instructor] For challenge 1, the initial state data can be found in [[Microsoft Excel|Excel]] spreadsheet 01_07 If you'd like to just see the answers, you can look in the Excel spreadsheet 01_08.
 >
-> **[0:17](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/solution-calculate-descriptives?u=76281980&t=17)** Challenge 1 asked you to calculate summary statistics for fourth quarter sales in this dataset.
+> **[0:17](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/solution-calculate-descriptives?u=76281980&t=17)** Challenge 1 asked you to calculate summary [[Statistics]] for fourth quarter sales in this dataset.
 >
 > **[0:23](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/solution-calculate-descriptives?u=76281980&t=23)** We're going to look at three particular summary statistics: the mean, the mode, and the median, and we're going to use Excel's built-in functions to calculate them.
 >
@@ -601,7 +591,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Microsoft Excel|Excel]] (6), hit (4), [[Statistics]] (3), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), [[Statistics]] (3)
 > **Env Vars:** b24 (2), c20 (2), b25 (2), mode (2), average (1)
 > **UI Navigation:** open the (3)
 > **Versions:** 13.78 (1), 13.75 (1)
@@ -614,18 +604,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Predictive analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/predictive-analytics?u=76281980)
+#### [Predictive analytics](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/predictive-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/predictive-analytics?u=76281980&t=0)** - Predictive analytics answers the question, what might happen in the future?
+> **[0:00](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/predictive-analytics?u=76281980&t=0)** - [[Predictive Analytics]] answers the question, what might happen in the future?
 >
 > **[0:04](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/predictive-analytics?u=76281980&t=4)** Amazon has offered a spin on that concept with its recommended for you feature.
 >
 > **[0:09](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/predictive-analytics?u=76281980&t=9)** This personalized recommendation system uses something called a collaborative filtering engine.
 >
-> **[0:14](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/predictive-analytics?u=76281980&t=14)** It looks at what's in your cart, your wishlist, and what you've bought recently, and recommends other products based on what other consumers have bought while purchasing those items.
+> **[0:14](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/predictive-analytics?u=76281980&t=14)** It looks at what's in your cart, your wishlist, and what you've bought recently, and recommends other [[Microsoft Products|products]] based on what other consumers have bought while purchasing those items.
 >
 > **[0:24](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/predictive-analytics?u=76281980&t=24)** The key here is that predictive analytics does not predict the future.
 >
@@ -641,7 +630,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/predictive-analytics?u=76281980&t=51)** They want you to buy at least one and increase their revenue.
 >
-> **[0:55](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/predictive-analytics?u=76281980&t=55)** So let's add to our list of descriptive statistics.
+> **[0:55](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/predictive-analytics?u=76281980&t=55)** So let's add to our list of descriptive [[Statistics]].
 >
 > **[0:59](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/predictive-analytics?u=76281980&t=59)** Another potentially useful one is a standard deviation, a measure of the relative spread of the data.
 >
@@ -667,14 +656,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Predictive Analytics]] (3), [[Statistics]] (2), feature (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (3), [[Statistics]] (2), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (1), means that (1)
 > **Best Practices:** recommended (2)
 > **Versions:** 99.7 (1)
 > **Speakers:** - predictive (1)
 
-#### Challenge: Make predictions
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/challenge-make-predictions?u=76281980)
+#### [Challenge: Make predictions](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/challenge-make-predictions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -684,7 +672,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/challenge-make-predictions?u=76281980&t=12)** You'll need exercise file 02_02 for this challenge.
 >
-> **[0:16](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/challenge-make-predictions?u=76281980&t=16)** If you want to find the answers to this exercise, you can look at Excel file 02_03 in challenge two.
+> **[0:16](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/challenge-make-predictions?u=76281980&t=16)** If you want to find the answers to this exercise, you can look at [[Microsoft Excel|Excel]] file 02_03 in challenge two.
 >
 > **[0:22](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/challenge-make-predictions?u=76281980&t=22)** We're going to calculate the range of sales that are within 68% of the mean.
 >
@@ -699,14 +687,13 @@ created: 2026-05-02
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Make predictions
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/solution-make-predictions?u=76281980)
+#### [Solution: Make predictions](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/solution-make-predictions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/solution-make-predictions?u=76281980&t=0)** (upbeat electronic music)
 >
-> **[0:05](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/solution-make-predictions?u=76281980&t=5)** - For challenge two, you're going to need the initial state data found in Excel file 02_02.
+> **[0:05](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/solution-make-predictions?u=76281980&t=5)** - For challenge two, you're going to need the initial state data found in [[Microsoft Excel|Excel]] file 02_02.
 >
 > **[0:12](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/solution-make-predictions?u=76281980&t=12)** If you'd like to skip right to the answers, you can look in Excel file 02_03.
 >
@@ -746,7 +733,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft Excel|Excel]] (2), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **Env Vars:** b24 (3), b25 (3), c20 (2), b26 (1)
 > **Versions:** 19.34 (2), 8.23 (2), 13.78 (1), 5.55 (1)
 > **Definitions:** means that (1)
@@ -754,8 +741,7 @@ created: 2026-05-02
 > **Speakers:** - for (1)
 > **Non-Speech:** (upbeat electronic music) (1)
 
-#### Prescriptive analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/prescriptive-analytics?u=76281980)
+#### [Prescriptive analytics](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/prescriptive-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -763,13 +749,13 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/prescriptive-analytics?u=76281980&t=6)** Questions of this type are usually the most difficult to answer as they're at the intersection of a few key areas.
 >
-> **[0:12](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/prescriptive-analytics?u=76281980&t=12)** Past events, future predictions, and business acumen.
+> **[0:12](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/prescriptive-analytics?u=76281980&t=12)** Past events, future predictions, and [[Business Acumen]].
 >
 > **[0:16](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/prescriptive-analytics?u=76281980&t=16)** We can see prescriptive analytics at work at Amazon as the company uses analytics to optimize their supply chain.
 >
 > **[0:23](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/prescriptive-analytics?u=76281980&t=23)** Amazon tracks the inventory of warehouses that are closest to the supplier and customer in order to decrease shipping costs and improve efficiency.
 >
-> **[0:31](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/prescriptive-analytics?u=76281980&t=31)** Amazon also analyzes the optimal delivery route, schedule and products through analytics in order to decrease shipping expenses.
+> **[0:31](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/prescriptive-analytics?u=76281980&t=31)** Amazon also analyzes the optimal delivery route, schedule and [[Microsoft Products|products]] through analytics in order to decrease shipping expenses.
 >
 > **[0:38](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/prescriptive-analytics?u=76281980&t=38)** Amazon's use of data gave it the agility many other retailers lacked early in the pandemic that allowed it to thrive.
 >
@@ -787,13 +773,13 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/prescriptive-analytics?u=76281980&t=82)** Remember, you don't have to be a statistician to think about data analytics thoughtfully, but you do have to know your role and what you can contribute to your team's data-driven efforts.
 >
-> **[1:31](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/prescriptive-analytics?u=76281980&t=91)** Understand how different situations call for different kinds of analysis and think about simple summary statistics, mean, median, mode and standard deviation, which help you identify patterns to explore further.
+> **[1:31](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/prescriptive-analytics?u=76281980&t=91)** Understand how different situations call for different kinds of analysis and think about simple summary [[Statistics]], mean, median, mode and standard deviation, which help you identify patterns to explore further.
 >
 > **[1:44](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/prescriptive-analytics?u=76281980&t=104)** Building off this basic understanding, let's move forward and think about how to ask the right questions using data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Analytics]] (6), [[Microsoft Products|Products]] (2), business (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Business Acumen]] (1), [[Statistics]] (1)
 > **Env Vars:** red30 (1)
 > **Speakers:** - let (1)
 
@@ -802,8 +788,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Guidelines for formulating questions
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/guidelines-for-formulating-questions?u=76281980)
+#### [Guidelines for formulating questions](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/guidelines-for-formulating-questions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -827,7 +812,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/guidelines-for-formulating-questions?u=76281980&t=66)** Data analytics is a powerful tool, but to appropriately use the tool, you must understand the data you're working with and stay organized to maintain focus on the question you want to answer.
 >
-> **[1:16](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/guidelines-for-formulating-questions?u=76281980&t=76)** In a Gartner research study on why big data projects fail, nearly all participants stated poor organization as the biggest factor.
+> **[1:16](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/guidelines-for-formulating-questions?u=76281980&t=76)** In a Gartner research study on why [[Big Data]] projects fail, nearly all participants stated poor organization as the biggest factor.
 >
 > **[1:25](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/guidelines-for-formulating-questions?u=76281980&t=85)** The process starts by asking the right questions.
 >
@@ -873,7 +858,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), business (1), [[Analytics]] (1), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[Big Data]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1)
@@ -881,8 +866,7 @@ created: 2026-05-02
 > **Prerequisites:** assuming you have (1)
 > **Speakers:** - in (1)
 
-#### Crafting better questions
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/crafting-better-questions?u=76281980)
+#### [Crafting better questions](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/crafting-better-questions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -908,12 +892,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), business (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - when (1)
 
-#### Case study 2: What is the right question?
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-two-what-is-the-right-question?u=76281980)
+#### [Case study 2: What is the right question?](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-two-what-is-the-right-question?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -969,16 +951,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), next (2)
 > **Speakers:** - [andreas] (4), - [katie] (4), - andreas (2), - let (1), - although (1)
 > **Analogies:** imagine (1), for example (1)
 
-#### Role of business acumen
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/role-of-business-acumen?u=76281980)
+#### [Role of business acumen](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/role-of-business-acumen?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/role-of-business-acumen?u=76281980&t=0)** - Business acumen plays an important role in structuring business data analytics.
+> **[0:00](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/role-of-business-acumen?u=76281980&t=0)** - [[Business Acumen]] plays an important role in structuring business data analytics.
 >
 > **[0:04](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/role-of-business-acumen?u=76281980&t=4)** After all, data doesn't exist in a vacuum, and the context provided by your business clarifies and puts your analyses into perspective.
 >
@@ -1010,11 +990,11 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/role-of-business-acumen?u=76281980&t=85)** Know your capabilities and you can form better questions.
 >
-> **[1:28](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/role-of-business-acumen?u=76281980&t=88)** With practice and experience, you'll understand how to structure your data collection and ask meaningful questions.
+> **[1:28](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/role-of-business-acumen?u=76281980&t=88)** With practice and experience, you'll understand how to structure your [[Data Collection]] and ask meaningful questions.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), business (7), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Business Acumen]] (3), [[Data Collection]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is an  (1)
 > **Warnings:** caveat (1)
@@ -1025,8 +1005,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data-collection issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/data-collection-issues?u=76281980)
+#### [Data-collection issues](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/data-collection-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1040,7 +1019,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/data-collection-issues?u=76281980&t=15)** If you're asked to find data that will help to cut costs, you might find yourself in over your head.
 >
-> **[0:21](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/data-collection-issues?u=76281980&t=21)** As data collection has become more refined in the last few years, maybe your firm has migrated to a data warehouse structure, a data lake, or now even a data lakehouse.
+> **[0:21](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/data-collection-issues?u=76281980&t=21)** As [[Data Collection]] has become more refined in the last few years, maybe your firm has migrated to a data warehouse structure, a data lake, or now even a data lakehouse.
 >
 > **[0:30](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/data-collection-issues?u=76281980&t=30)** The list of costs can go on and on.
 >
@@ -1052,9 +1031,9 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/data-collection-issues?u=76281980&t=45)** Different organizations within the same business may collect data differently.
 >
-> **[0:49](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/data-collection-issues?u=76281980&t=49)** Maybe your sales staff identifies workers by their first and last name, whereas human resources has assigned every employee an ID number for identification.
+> **[0:49](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/data-collection-issues?u=76281980&t=49)** Maybe your sales staff identifies workers by their first and last name, whereas [[Human Resources (HR)|human resources]] has assigned every employee an ID number for identification.
 >
-> **[0:58](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/data-collection-issues?u=76281980&t=58)** Without a structured data governance protocol, firms can be slowed by their inability to combine data sets that contain information on one topic, like employees.
+> **[0:58](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/data-collection-issues?u=76281980&t=58)** Without a structured [[Data Governance]] protocol, firms can be slowed by their inability to combine data sets that contain information on one topic, like employees.
 >
 > **[1:07](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/data-collection-issues?u=76281980&t=67)** Data can also differ geographically.
 >
@@ -1082,14 +1061,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), business (2), [[Human Resources (HR)|Human resources]] (1)
+> **Frameworks & Libraries:** [[Data Collection]] (2), [[Human Resources (HR)|Human resources]] (1), [[Data Governance]] (1)
 > **CLI Commands:** find (3)
 > **Cross-References:** in the last (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - which (1)
 
-#### Case study 3: Unclean data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-three-unclean-data?u=76281980)
+#### [Case study 3: Unclean data](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-three-unclean-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1109,19 +1087,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **URLs:** [stylishclothing.com](https://stylishclothing.com) (1), [clothing.com](https://clothing.com) (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [nasir] (1)
 
-#### Case study 3: Explanation
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-three-explanation?u=76281980)
+#### [Case study 3: Explanation](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-three-explanation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-three-explanation?u=76281980&t=0)** - This seems like the simplest possible question.
 >
-> **[0:03](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-three-explanation?u=76281980&t=3)** Nasir wants a list of top distributors from the sales databases to confirm some quarterly numbers, but the data doesn't seem to comport with what he needs.
+> **[0:03](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-three-explanation?u=76281980&t=3)** Nasir wants a list of top distributors from the sales [[Databases]] to confirm some quarterly numbers, but the data doesn't seem to comport with what he needs.
 >
 > **[0:12](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-three-explanation?u=76281980&t=12)** This is a great example of how databases kept for one purpose may not be ready for the data questions you need to answer.
 >
@@ -1169,13 +1145,13 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-three-explanation?u=76281980&t=153)** It may not seem this way when you're running an analysis, but combining hundreds of thousands of observations from different store locations is daunting, and most companies do not keep their data consistent across their various functions.
 >
-> **[2:45](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-three-explanation?u=76281980&t=165)** Sales data, human resources data, and customer data can be recorded with slight differences.
+> **[2:45](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-three-explanation?u=76281980&t=165)** Sales data, [[Human Resources (HR)|human resources]] data, and customer data can be recorded with slight differences.
 >
 > **[2:52](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-three-explanation?u=76281980&t=172)** So when crafting a data analysis, be aware that the raw data will not come ready to use.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Databases]] (3), database (1), [[Search]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Databases]] (3), [[Human Resources (HR)|Human resources]] (1)
 > **URLs:** [stylishclothing.com](https://stylishclothing.com) (5)
 > **CLI Commands:** find (3)
 > **Definitions:** is a  (3)
@@ -1184,8 +1160,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - this (1)
 
-#### Data failure: When data is just wrong
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/data-fail-when-data-is-just-wrong?u=76281980)
+#### [Data failure: When data is just wrong](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/data-fail-when-data-is-just-wrong?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1195,7 +1170,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/data-fail-when-data-is-just-wrong?u=76281980&t=13)** So was this a foreign invasion?
 >
-> **[0:15](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/data-fail-when-data-is-just-wrong?u=76281980&t=15)** In fact, this mistaken incursion had a source: bad data from an erroneous Google map, which showed the island within the Nicaraguan borders.
+> **[0:15](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/data-fail-when-data-is-just-wrong?u=76281980&t=15)** In fact, this mistaken incursion had a source: bad data from an erroneous [[Google]] map, which showed the island within the Nicaraguan borders.
 >
 > **[0:24](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/data-fail-when-data-is-just-wrong?u=76281980&t=24)** According to "The Telegraph," the president of Costa Rica made an appeal to Google, and after investigation, Google acknowledged the error in its maps.
 >
@@ -1235,7 +1210,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/data-fail-when-data-is-just-wrong?u=76281980&t=127)** This one is analogous to the fat finger problem.
 >
-> **[2:10](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/data-fail-when-data-is-just-wrong?u=76281980&t=130)** Excel and other database programs can only perform the calculations in the way you specify them.
+> **[2:10](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/data-fail-when-data-is-just-wrong?u=76281980&t=130)** [[Microsoft Excel|Excel]] and other database programs can only perform the calculations in the way you specify them.
 >
 > **[2:16](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/data-fail-when-data-is-just-wrong?u=76281980&t=136)** Imagine sales data depicting prices shift up or down one cell in Excel, which would cause the wrong sales to be linked together.
 >
@@ -1253,25 +1228,25 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/data-fail-when-data-is-just-wrong?u=76281980&t=175)** A weak foundation of data can lead to misinformed decisions.
 >
-> **[3:00](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/data-fail-when-data-is-just-wrong?u=76281980&t=180)** Performing the right statistical analysis on incorrect data may yield seemingly logical results, but if the data is wrong, then the results are misleading.
+> **[3:00](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/data-fail-when-data-is-just-wrong?u=76281980&t=180)** Performing the right [[Statistical Analysis]] on incorrect data may yield seemingly logical results, but if the data is wrong, then the results are misleading.
 >
-> **[3:09](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/data-fail-when-data-is-just-wrong?u=76281980&t=189)** Bad data can't be made up for by using statistics.
+> **[3:09](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/data-fail-when-data-is-just-wrong?u=76281980&t=189)** Bad data can't be made up for by using [[Statistics]].
 >
-> **[3:13](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/data-fail-when-data-is-just-wrong?u=76281980&t=193)** As AI tools proliferate, it is important to note that AI is not a solution for data problems and may exacerbate erroneous decision-making.
+> **[3:13](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/data-fail-when-data-is-just-wrong?u=76281980&t=193)** As AI tools proliferate, it is important to note that AI is not a solution for data problems and may exacerbate erroneous [[Decision-Making]].
 >
 > **[3:22](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/data-fail-when-data-is-just-wrong?u=76281980&t=202)** The same care and concern needs to go into preparing and using data in an AI tool as it would for every other analysis.
 >
-> **[3:31](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/data-fail-when-data-is-just-wrong?u=76281980&t=211)** For example, Pfizer created and deployed an AI platform named Charlie for use by thousands of its marketing personnel to assist with analysis, research, content creation, fact checking, legal reviews, and more.
+> **[3:31](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/data-fail-when-data-is-just-wrong?u=76281980&t=211)** For example, Pfizer created and deployed an AI platform named Charlie for use by thousands of its marketing personnel to assist with analysis, research, [[Content Creation]], fact checking, legal reviews, and more.
 >
 > **[3:44](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/data-fail-when-data-is-just-wrong?u=76281980&t=224)** Those responsible for building Charlie discussed the importance of getting the data right.
 >
-> **[3:50](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/data-fail-when-data-is-just-wrong?u=76281980&t=230)** They called out the serious concern of getting data wrong in the healthcare industry, which could lead to the life and death stakes if the wrong medicines get recommended.
+> **[3:50](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/data-fail-when-data-is-just-wrong?u=76281980&t=230)** They called out the serious concern of getting data wrong in the [[Healthcare Industry]], which could lead to the life and death stakes if the wrong medicines get recommended.
 >
 > **[3:59](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/data-fail-when-data-is-just-wrong?u=76281980&t=239)** And also pointed out the significant risks posed to companies if the data they use to train their AI models relied on bias data, which would only amplify those issues in subsequent business decisions.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (32), ai (5), [[Google]] (3), database (2), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Google]] (3), [[Microsoft Excel|Excel]] (2), [[Statistical Analysis]] (1), [[Statistics]] (1), [[Decision-Making]] (1)
 > **Analogies:** imagine (2), for example (2), analogous to (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** sap (1)
@@ -1284,12 +1259,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Nature of averages
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/nature-of-averages?u=76281980)
+#### [Nature of averages](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/nature-of-averages?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/nature-of-averages?u=76281980&t=0)** - Descriptive statistics summarize the basic features of a data set.
+> **[0:00](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/nature-of-averages?u=76281980&t=0)** - Descriptive [[Statistics]] summarize the basic features of a data set.
 >
 > **[0:04](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/nature-of-averages?u=76281980&t=4)** Used independently and unquestioned, these statistics can hide important information, but in combination, they enable a user to make educated choices.
 >
@@ -1299,12 +1273,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (3), data (2)
+> **Frameworks & Libraries:** [[Statistics]] (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - descriptive (1)
 
-#### Case study 4: Conversion rates and benchmark
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-four-conversion-rates-and-benchmark?u=76281980)
+#### [Case study 4: Conversion rates and benchmark](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-four-conversion-rates-and-benchmark?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1324,13 +1297,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (1), management (1), data (1)
 > **Env Vars:** red30 (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [sharon] (1)
 
-#### Case study 4: Explanation
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-four-explanation?u=76281980)
+#### [Case study 4: Explanation](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-four-explanation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1352,7 +1323,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-four-explanation?u=76281980&t=53)** Take a look at this graphical representation of the Red 30 conversion percentages for all 15 stores relative to the average conversion percentage.
 >
-> **[1:03](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-four-explanation?u=76281980&t=63)** Visualizing statistics is an important way to understand and process information.
+> **[1:03](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-four-explanation?u=76281980&t=63)** Visualizing [[Statistics]] is an important way to understand and process information.
 >
 > **[1:08](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-four-explanation?u=76281980&t=68)** This graph ranks orders the store's customer conversion percentages from lowest to highest.
 >
@@ -1388,7 +1359,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **Versions:** 17.6 (1), 14.1 (1), 35.9 (1)
 > **Definitions:** is a  (1), is an  (1), means that (1)
 > **CLI Commands:** find (1), make (1)
@@ -1397,8 +1368,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - now (1)
 
-#### Context is everything
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/context-is-everything?u=76281980)
+#### [Context is everything](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/context-is-everything?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1408,7 +1378,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/context-is-everything?u=76281980&t=18)** Similarly, you might not have been initially focused on Albany's high conversion percentage, but the interpretation would be quite different if you found out the store manager was running rogue sales promotions which were deeply discounting certain items.
 >
-> **[0:32](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/context-is-everything?u=76281980&t=32)** Here are a few tips when working with summary statistics.
+> **[0:32](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/context-is-everything?u=76281980&t=32)** Here are a few tips when working with summary [[Statistics]].
 >
 > **[0:36](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/context-is-everything?u=76281980&t=36)** First, although data analysis is useful, it must be interpreted in a broader context before drawing conclusions.
 >
@@ -1428,7 +1398,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (4), data (2)
+> **Frameworks & Libraries:** [[Statistics]] (4)
 > **Definitions:** is a  (1)
 > **Speakers:** - having (1)
 
@@ -1437,8 +1407,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Pros and cons
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/pros-and-cons?u=76281980)
+#### [Pros and cons](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/pros-and-cons?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1488,21 +1457,20 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/pros-and-cons?u=76281980&t=145)** The takeaway is that the pollsters failed to generate a random sample.
 >
-> **[2:30](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/pros-and-cons?u=76281980&t=150)** A random sample is a smaller subset of a population where each person in the population has an equal probability of being chosen to be in the subset.
+> **[2:30](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/pros-and-cons?u=76281980&t=150)** A random sample is a smaller subset of a population where each person in the population has an equal [[Probability]] of being chosen to be in the subset.
 >
 > **[2:40](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/pros-and-cons?u=76281980&t=160)** The lesson here is that if your sample is biased, your results will also be biased, and just like with "The Literary Digest," your data analysis will lead you to the wrong conclusion.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), business (1), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Probability]] (1)
 > **Versions:** 57.1 (1), 42.9 (1), 60.8 (1), 36.5 (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
 > **Speakers:** - for (1)
 
-#### Case study 5: Social media survey
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-five-social-media-survey?u=76281980)
+#### [Case study 5: Social media survey](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-five-social-media-survey?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1522,8 +1490,7 @@ created: 2026-05-02
 >
 > **Speakers:** - [dean] (1)
 
-#### Case study 5: Explanation
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-five-explanation?u=76281980)
+#### [Case study 5: Explanation](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-five-explanation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1548,8 +1515,7 @@ created: 2026-05-02
 > **Env Vars:** cmo (2)
 > **Speakers:** - despite (1)
 
-#### Case study 5: Statistical deep dive
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-five-statistical-deep-dive?u=76281980)
+#### [Case study 5: Statistical deep dive](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-five-statistical-deep-dive?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1607,7 +1573,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6)
 > **Ports:** :00 (4)
 > **Env Vars:** cmo (1)
 > **Exercise Files:** exercise file (1)
@@ -1620,8 +1585,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is cherry picking?
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/what-is-cherry-picking?u=76281980)
+#### [What is cherry picking?](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/what-is-cherry-picking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1631,7 +1595,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/what-is-cherry-picking?u=76281980&t=11)** The SEC filed a complaint alleging that the data didn't support the company's public statements about their product.
 >
-> **[0:18](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/what-is-cherry-picking?u=76281980&t=18)** It was alleged that the company systematically cherry-picked data by ignoring specific data points to ensure their products passed quality control tests.
+> **[0:18](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/what-is-cherry-picking?u=76281980&t=18)** It was alleged that the company systematically cherry-picked data by ignoring specific data points to ensure their [[Microsoft Products|products]] passed quality control tests.
 >
 > **[0:27](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/what-is-cherry-picking?u=76281980&t=27)** Cherry-picking is the selective use of data to support one's position while ignoring other data that tends to counter one's opinion.
 >
@@ -1673,7 +1637,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/what-is-cherry-picking?u=76281980&t=136)** After you institute the new dress code.
 >
-> **[2:19](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/what-is-cherry-picking?u=76281980&t=139)** As a manager at your firm, you question analytical results to avoid making decisions on cherry-picked statistics.
+> **[2:19](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/what-is-cherry-picking?u=76281980&t=139)** As a manager at your firm, you question analytical results to avoid making decisions on cherry-picked [[Statistics]].
 >
 > **[2:26](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/what-is-cherry-picking?u=76281980&t=146)** And while cherry-picking can be easy to overlook, there are some useful ways of identifying a situation where someone might be cherry-picking data.
 >
@@ -1681,14 +1645,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), product (1), [[Microsoft Products|Products]] (1), [[Statistics]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Statistics]] (1)
 > **Analogies:** for example (2), imagine (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** sec (1)
 > **Speakers:** - what (1)
 
-#### Case study 6: Revenue
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-six-revenue?u=76281980)
+#### [Case study 6: Revenue](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-six-revenue?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1718,17 +1681,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Speakers:** - one (1), - [keira] (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 
-#### Case study 6: Explanation
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-six-explanation?u=76281980)
+#### [Case study 6: Explanation](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-six-explanation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-six-explanation?u=76281980&t=0)** - So how would you go about assessing the statistics presented by your well-intentioned, but clearly advocating Portland manager?
+> **[0:00](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-six-explanation?u=76281980&t=0)** - So how would you go about assessing the [[Statistics]] presented by your well-intentioned, but clearly advocating Portland manager?
 >
 > **[0:07](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-six-explanation?u=76281980&t=7)** A good starting point is a closer look at the underlying data.
 >
@@ -1786,7 +1747,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Statistics]] (3), business (1)
+> **Frameworks & Libraries:** [[Statistics]] (3)
 > **Definitions:** is a  (2)
 > **Analogies:** picture (1), such as (1)
 > **CLI Commands:** find (1)
@@ -1799,8 +1760,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Hurricane Matthew
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/hurricane-matthew?u=76281980)
+#### [Hurricane Matthew](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/hurricane-matthew?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1812,7 +1772,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/hurricane-matthew?u=76281980&t=13)** Throughout the storm's lifespan, meteorologists were constantly updating governments and the general public about the hurricane's most likely path.
 >
-> **[0:21](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/hurricane-matthew?u=76281980&t=21)** This process is called forecasting and is a form of predictive analytics.
+> **[0:21](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/hurricane-matthew?u=76281980&t=21)** This process is called [[Forecasting]] and is a form of [[Predictive Analytics]].
 >
 > **[0:26](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/hurricane-matthew?u=76281980&t=26)** Forecasting is used by weatherman, pollsters, businesses, and many more who wish to better understand how future events might play out.
 >
@@ -1850,7 +1810,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/hurricane-matthew?u=76281980&t=122)** It is usually most successful at reducing the number of likely outcomes.
 >
-> **[2:06](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/hurricane-matthew?u=76281980&t=126)** For example, here, meteorologists could rule out New Jersey as the hurricane moved up the Eastern US seaboard and providing the likelihood of different outcomes, in this case, the high probability that Florida's Eastern coast would be hit.
+> **[2:06](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/hurricane-matthew?u=76281980&t=126)** For example, here, meteorologists could rule out New Jersey as the hurricane moved up the Eastern US seaboard and providing the likelihood of different outcomes, in this case, the high [[Probability]] that Florida's Eastern coast would be hit.
 >
 > **[2:21](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/hurricane-matthew?u=76281980&t=141)** In business, forecasts should be thought of in a similar fashion.
 >
@@ -1862,13 +1822,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forecasting]] (3), hit (3), [[Predictive Analytics]] (1), [[Probability]] (1), business (1)
+> **Frameworks & Libraries:** [[Forecasting]] (3), [[Predictive Analytics]] (1), [[Probability]] (1)
 > **Definitions:** in other words (2), is called (1), is a  (1), is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - in (1)
 
-#### Case study 7: Forecasting customer complaints
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-seven-forecasting-customer-complaints?u=76281980)
+#### [Case study 7: Forecasting customer complaints](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-seven-forecasting-customer-complaints?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1902,13 +1861,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (1), next (1)
 > **Speakers:** - [darnell] (1), - we (1)
 > **Env Vars:** cto (1)
 > **Cross-References:** next video (1)
 
-#### Case study 7: Explanation
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-seven-explanation?u=76281980)
+#### [Case study 7: Explanation](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-seven-explanation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1960,22 +1917,21 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-seven-explanation?u=76281980&t=147)** This implies that although the training may still have been effective at reducing complaints, it is nowhere near as effective as the simple before-and-after comparison of 43% implied.
 >
-> **[2:38](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-seven-explanation?u=76281980&t=158)** Forecasting always contains uncertainty and a part of good forecasts is identifying all other important factors in your predictions.
+> **[2:38](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-seven-explanation?u=76281980&t=158)** [[Forecasting]] always contains uncertainty and a part of good forecasts is identifying all other important factors in your predictions.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Forecasting]] (1)
+> **Frameworks & Libraries:** [[Forecasting]] (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Issues to consider
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/issues-to-consider?u=76281980)
+#### [Issues to consider](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/issues-to-consider?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/issues-to-consider?u=76281980&t=0)** - We just looked at a fairly simple example of forecasting.
+> **[0:00](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/issues-to-consider?u=76281980&t=0)** - We just looked at a fairly simple example of [[Forecasting]].
 >
 > **[0:03](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/issues-to-consider?u=76281980&t=3)** In a more rigorous forecasting model, you'd also want to contemplate other issues, including such things as what other factors might be different about the benchmark in treatment stores and how should you account for them.
 >
@@ -2006,8 +1962,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cause and effect
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/cause-and-effect?u=76281980)
+#### [Cause and effect](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/cause-and-effect?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2049,14 +2004,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (4)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1), for example (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - imagine (1)
 
-#### Case study 8: Boston revenue
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-eight-boston-revenue?u=76281980)
+#### [Case study 8: Boston revenue](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-eight-boston-revenue?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2070,7 +2023,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-eight-boston-revenue?u=76281980&t=13)** I've been tasked with getting to the bottom of this sales plateau and trying to diagnose what might be going on and what we can do to increase profits in Boston.
 >
-> **[0:21](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-eight-boston-revenue?u=76281980&t=21)** The store manager believes that the underlying cause of the problem is a decline in the sales of one of our key products, the long sleeved shirt.
+> **[0:21](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-eight-boston-revenue?u=76281980&t=21)** The store manager believes that the underlying cause of the problem is a decline in the sales of one of our key [[Microsoft Products|products]], the long sleeved shirt.
 >
 > **[0:30](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-eight-boston-revenue?u=76281980&t=30)** - [Instructor] Let's take a look at the data for four financial periods.
 >
@@ -2080,14 +2033,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Speakers:** - let (1), - [james] (1), - [instructor] (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is a  (1)
 
-#### Case study 8: Explanation
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-eight-explanation?u=76281980)
+#### [Case study 8: Explanation](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-eight-explanation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2149,13 +2101,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Speakers:** - if (1), - [james] (1), - [instructor] (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
 
-#### Causal questions
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/causal-questions?u=76281980)
+#### [Causal questions](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/causal-questions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2171,7 +2121,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Analytics]] (1), business (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - in (1)
 
@@ -2180,8 +2129,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing your learning journey in data analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/continuing-your-data-analytics-learning-journey?u=76281980)
+#### [Continuing your learning journey in data analytics](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/continuing-your-data-analytics-learning-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2193,7 +2141,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/continuing-your-data-analytics-learning-journey?u=76281980&t=16)** First, Martin Lindstrom's "Small Data: the Tiny Clues that Uncover Large Trends" is an entertaining look at data all around us.
 >
-> **[0:25](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/continuing-your-data-analytics-learning-journey?u=76281980&t=25)** Second, for an interesting take on how to use data to tell stories, look to Cole Nussbaumer Knaflic's "Storytelling With Data: a Data Visualization Guide for Business Professionals."
+> **[0:25](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/continuing-your-data-analytics-learning-journey?u=76281980&t=25)** Second, for an interesting take on how to use data to tell stories, look to Cole Nussbaumer Knaflic's "[[Storytelling]] With Data: a Data Visualization Guide for Business Professionals."
 >
 > **[0:38](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/continuing-your-data-analytics-learning-journey?u=76281980&t=38)** Finally, if you've enjoyed my insights, you can check out my book, "Everydata: the Misinformation Hidden in The Little Data You Consume Every Day" with Mike Gluck, or my TEDx Talk by the same name.
 >
@@ -2201,7 +2149,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), business (3), [[Analytics]] (2), [[Storytelling]] (1)
+> **Frameworks & Libraries:** [[Storytelling]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - i (1)

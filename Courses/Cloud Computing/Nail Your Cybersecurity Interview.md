@@ -80,12 +80,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Transforming your cybersecurity career
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/transforming-your-cybersecurity-career?u=76281980)
+#### [Transforming your cybersecurity career](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/transforming-your-cybersecurity-career?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/transforming-your-cybersecurity-career?u=76281980&t=1)** - Do you want to excel in your cyber security interview?
+> **[0:01](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/transforming-your-cybersecurity-career?u=76281980&t=1)** - Do you want to [[Microsoft Excel|excel]] in your cyber security interview?
 >
 > **[0:04](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/transforming-your-cybersecurity-career?u=76281980&t=4)** Do you want to be one of the top picks after the interview?
 >
@@ -101,24 +100,23 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/transforming-your-cybersecurity-career?u=76281980&t=33)** We'll talk about the only three categories of questions you need to be able to answer as well as the three types of people you'll meet in the interview itself.
 >
-> **[0:42](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/transforming-your-cybersecurity-career?u=76281980&t=42)** So I invite you to check out my LinkedIn Learning course on how to succeed in your cyber security interview.
+> **[0:42](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/transforming-your-cybersecurity-career?u=76281980&t=42)** So I invite you to check out my [[LinkedIn]] Learning course on how to succeed in your cyber security interview.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), career (2), [[Microsoft Excel|Excel]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[LinkedIn]] (1)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - do (1)
 
-#### How to get the most out of this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/how-to-get-the-most-out-of-this-course?u=76281980)
+#### [How to get the most out of this course](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/how-to-get-the-most-out-of-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/how-to-get-the-most-out-of-this-course?u=76281980&t=1)** - [Instructor] If you're watching this, I'm guessing you've been on several cybersecurity interviews or are about to go on one.
+> **[0:01](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/how-to-get-the-most-out-of-this-course?u=76281980&t=1)** - [Instructor] If you're watching this, I'm guessing you've been on several [[Cybersecurity]] interviews or are about to go on one.
 >
 > **[0:07](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/how-to-get-the-most-out-of-this-course?u=76281980&t=7)** The goal of this course is to help you do well, so as you go through this video series, I'd suggest you take some notes.
 >
-> **[0:14](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/how-to-get-the-most-out-of-this-course?u=76281980&t=14)** Also, while taking notes, reflect on your previous interviewing experiences, even if they haven't turned out so great.
+> **[0:14](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/how-to-get-the-most-out-of-this-course?u=76281980&t=14)** Also, while taking notes, reflect on your previous [[Interviewing]] experiences, even if they haven't turned out so great.
 >
 > **[0:21](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/how-to-get-the-most-out-of-this-course?u=76281980&t=21)** This reflection will enrich and inform your insights that much more.
 >
@@ -142,8 +140,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The anatomy of the cybersecurity interview
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/the-anatomy-of-the-cybersecurity-interview?u=76281980)
+#### [The anatomy of the cybersecurity interview](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/the-anatomy-of-the-cybersecurity-interview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -159,11 +156,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Speakers:** - [tu] (1)
 
-#### The three common types of cybersecurity interviews
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/the-three-common-types-of-cybersecurity-interviews?u=76281980)
+#### [The three common types of cybersecurity interviews](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/the-three-common-types-of-cybersecurity-interviews?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -175,7 +170,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/the-three-common-types-of-cybersecurity-interviews?u=76281980&t=17)** Let's jump into identifying the who's who.
 >
-> **[0:20](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/the-three-common-types-of-cybersecurity-interviews?u=76281980&t=20)** There are three roles which represent your interviewing audience, HR, management, and peers.
+> **[0:20](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/the-three-common-types-of-cybersecurity-interviews?u=76281980&t=20)** There are three roles which represent your [[Interviewing]] audience, HR, management, and peers.
 >
 > **[0:27](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/the-three-common-types-of-cybersecurity-interviews?u=76281980&t=27)** Each of these audiences are looking and listening for slightly different success criteria.
 >
@@ -183,7 +178,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/the-three-common-types-of-cybersecurity-interviews?u=76281980&t=35)** The HR interviewer's objective is to determine if you're a good fit for the organization and team.
 >
-> **[0:41](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/the-three-common-types-of-cybersecurity-interviews?u=76281980&t=41)** They're generally looking for behavioral and overall performance potential, to determine if you will mesh well with the organization's vision, mission and culture.
+> **[0:41](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/the-three-common-types-of-cybersecurity-interviews?u=76281980&t=41)** They're generally looking for behavioral and overall performance potential, to determine if you will [[Mesh]] well with the organization's vision, mission and culture.
 >
 > **[0:50](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/the-three-common-types-of-cybersecurity-interviews?u=76281980&t=50)** HR also serves as a qualifier, basically asking you a few role-specific questions to make sure you're knowledgeable about the role you applied for.
 >
@@ -217,16 +212,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hr (6), management (3), functional (3), [[Interviewing]] (1), [[Mesh]] (1)
+> **Frameworks & Libraries:** [[Interviewing]] (1), [[Mesh]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Your recon mission: Information collection
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/your-recon-mission-information-collection?u=76281980)
+#### [Your recon mission: Information collection](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/your-recon-mission-information-collection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/your-recon-mission-information-collection?u=76281980&t=1)** - [Instructor] When it comes to interviewing, knowledge is a significant power.
+> **[0:01](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/your-recon-mission-information-collection?u=76281980&t=1)** - [Instructor] When it comes to [[Interviewing]], knowledge is a significant power.
 >
 > **[0:05](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/your-recon-mission-information-collection?u=76281980&t=5)** In this phase we focus on information collection, your personal process which enables you to strategically leverage different types of information to gain interviewing success.
 >
@@ -234,11 +228,11 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/your-recon-mission-information-collection?u=76281980&t=25)** Multiple sources are available for you to become knowledgeable about an organization.
 >
-> **[0:30](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/your-recon-mission-information-collection?u=76281980&t=30)** Some sources to begin with are: the company website, Google news, [Indeed.com](https://Indeed.com), and industry forums.
+> **[0:30](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/your-recon-mission-information-collection?u=76281980&t=30)** Some sources to begin with are: the company website, [[Google]] news, [Indeed.com](https://Indeed.com), and industry forums.
 >
 > **[0:40](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/your-recon-mission-information-collection?u=76281980&t=40)** When preparing for an interview, you want to find out from your recruiter the names of the those you'll be interviewing with.
 >
-> **[0:46](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/your-recon-mission-information-collection?u=76281980&t=46)** Armed with these pieces of information, you can continue to gather additional data with the following sources: your network of professional peers, LinkedIn, Facebook, and Twitter.
+> **[0:46](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/your-recon-mission-information-collection?u=76281980&t=46)** Armed with these pieces of information, you can continue to gather additional data with the following sources: your network of professional peers, [[LinkedIn]], Facebook, and Twitter.
 >
 > **[0:59](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/your-recon-mission-information-collection?u=76281980&t=59)** LinkedIn can provide you with a wealth of data points and insights.
 >
@@ -262,7 +256,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/your-recon-mission-information-collection?u=76281980&t=126)** In the next scenario, if employees are in and out of an organization at different times for the same role within six to 12 month intervals, this may indicate there is an issue with the responsibilities and expectations for this particular role, or the role is not properly structured.
 >
-> **[2:25](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/your-recon-mission-information-collection?u=76281980&t=145)** Every cybersecurity job is the solution to an organizational challenge.
+> **[2:25](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/your-recon-mission-information-collection?u=76281980&t=145)** Every [[Cybersecurity]] job is the solution to an organizational challenge.
 >
 > **[2:30](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/your-recon-mission-information-collection?u=76281980&t=150)** The most important piece of information to obtain about a particular cybersecurity role is the problem.
 >
@@ -290,15 +284,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (4), [[Interviewing]] (3), data (2), management (2), [[Cybersecurity]] (2)
+> **Frameworks & Libraries:** [[LinkedIn]] (4), [[Interviewing]] (3), [[Cybersecurity]] (2), [[Google]] (1)
 > **Definitions:** is a  (2), is an  (2)
 > **URLs:** [glassdoor.com](https://glassdoor.com) (2), [indeed.com](https://indeed.com) (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prepare your self-promotion strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/prepare-your-self-promotion-strategy?u=76281980)
+#### [Prepare your self-promotion strategy](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/prepare-your-self-promotion-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -312,7 +305,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/prepare-your-self-promotion-strategy?u=76281980&t=29)** How have you previous demonstrated the skills the interviewer is looking for?
 >
-> **[0:34](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/prepare-your-self-promotion-strategy?u=76281980&t=34)** Interviewing boils down to good ol' fashion Hallmark of sales when you think about it, right?
+> **[0:34](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/prepare-your-self-promotion-strategy?u=76281980&t=34)** [[Interviewing]] boils down to good ol' fashion Hallmark of sales when you think about it, right?
 >
 > **[0:40](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/prepare-your-self-promotion-strategy?u=76281980&t=40)** Now that you're sitting in front of a potential employer a.k.a. buyer, who wants the skills and abilities which are written on your resume.
 >
@@ -378,7 +371,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Interviewing]] (2), [[Security]] (1), strengths (1), next (1)
+> **Frameworks & Libraries:** [[Interviewing]] (2)
 > **CLI Commands:** make (3)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
@@ -390,12 +383,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What not to do before an interview
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/what-not-to-do-before-an-interview?u=76281980)
+#### [What not to do before an interview](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/what-not-to-do-before-an-interview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/what-not-to-do-before-an-interview?u=76281980&t=1)** - [Instructor] Unlike other industries, when seeking to work in the cybersecurity space, there is an additional layer of scrutiny, and for good reason.
+> **[0:01](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/what-not-to-do-before-an-interview?u=76281980&t=1)** - [Instructor] Unlike other industries, when seeking to work in the [[Cybersecurity]] space, there is an additional layer of scrutiny, and for good reason.
 >
 > **[0:09](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/what-not-to-do-before-an-interview?u=76281980&t=9)** You are seeking to function as gatekeeper of the very core which enables an enterprise to be and remain in business.
 >
@@ -405,7 +397,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/what-not-to-do-before-an-interview?u=76281980&t=38)** Since this is the cybersecurity world, it's generally not recommended to disclose details about where you work and how you do that work.
 >
-> **[0:47](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/what-not-to-do-before-an-interview?u=76281980&t=47)** In the cybersecurity industry, it's a good best practice in general not to disclose the name of the organization for which you are going to be interviewing with.
+> **[0:47](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/what-not-to-do-before-an-interview?u=76281980&t=47)** In the cybersecurity industry, it's a good best practice in general not to disclose the name of the organization for which you are going to be [[Interviewing]] with.
 >
 > **[0:57](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/what-not-to-do-before-an-interview?u=76281980&t=57)** Certain three-letter agencies have a knack for canceling your interviewing opportunity with them altogether over this sort of thing.
 >
@@ -425,17 +417,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (6), business (2), [[Interviewing]] (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[Interviewing]] (2)
 > **Best Practices:** recommended (1), best practice (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Common cybersecurity interview questions you should prepare to answer
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/common-cybersecurity-interview-questions-you-should-prepare-to-answer?u=76281980)
+#### [Common cybersecurity interview questions you should prepare to answer](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/common-cybersecurity-interview-questions-you-should-prepare-to-answer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/common-cybersecurity-interview-questions-you-should-prepare-to-answer?u=76281980&t=1)** - [Instructor] When thinking about interview questions you should be prepared to answer, let's zoom out a bit to see the big picture.
+> **[0:01](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/common-cybersecurity-interview-questions-you-should-prepare-to-answer?u=76281980&t=1)** - [Instructor] When thinking about interview questions you should be prepared to answer, let's [[Zoom]] out a bit to see the big picture.
 >
 > **[0:06](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/common-cybersecurity-interview-questions-you-should-prepare-to-answer?u=76281980&t=6)** When you're able to see the big picture, you will capture the essence of what's being asked, which will enable you to answer with ease, poise, and confidence.
 >
@@ -467,9 +458,9 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/common-cybersecurity-interview-questions-you-should-prepare-to-answer?u=76281980&t=69)** You know what you want to do.
 >
-> **[1:11](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/common-cybersecurity-interview-questions-you-should-prepare-to-answer?u=76281980&t=71)** You answered this question with your resume, and hopefully in much more detail on your LinkedIn profile.
+> **[1:11](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/common-cybersecurity-interview-questions-you-should-prepare-to-answer?u=76281980&t=71)** You answered this question with your resume, and hopefully in much more detail on your [[LinkedIn]] profile.
 >
-> **[1:17](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/common-cybersecurity-interview-questions-you-should-prepare-to-answer?u=76281980&t=77)** Now you simply will add audience-appropriate levels of detail to what you have done, custom-tailored to interests of who you are interviewing with.
+> **[1:17](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/common-cybersecurity-interview-questions-you-should-prepare-to-answer?u=76281980&t=77)** Now you simply will add audience-appropriate levels of detail to what you have done, custom-tailored to interests of who you are [[Interviewing]] with.
 >
 > **[1:27](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/common-cybersecurity-interview-questions-you-should-prepare-to-answer?u=76281980&t=87)** For instance, if you're talking with a HR professional about a TCP/IP issue, they need enough detail to know that you have experience with the topic but don't need a story behind it.
 >
@@ -505,7 +496,7 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/common-cybersecurity-interview-questions-you-should-prepare-to-answer?u=76281980&t=226)** If you encounter a question you don't know, that's okay.
 >
-> **[3:50](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/common-cybersecurity-interview-questions-you-should-prepare-to-answer?u=76281980&t=230)** Working in cybersecurity is a process of continuous learning.
+> **[3:50](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/common-cybersecurity-interview-questions-you-should-prepare-to-answer?u=76281980&t=230)** Working in [[Cybersecurity]] is a process of continuous learning.
 >
 > **[3:53](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/common-cybersecurity-interview-questions-you-should-prepare-to-answer?u=76281980&t=233)** The underlying skill of all cybersecurity professionals is that we are problem-solvers and troubleshooters by trade.
 >
@@ -515,7 +506,7 @@ created: 2026-05-02
 >
 > **[4:14](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/common-cybersecurity-interview-questions-you-should-prepare-to-answer?u=76281980&t=254)** Give what sources you would use to research the problem.
 >
-> **[4:18](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/common-cybersecurity-interview-questions-you-should-prepare-to-answer?u=76281980&t=258)** Whether it be forums, coworkers, professional associations, or even Google, demonstrate to your interviewer that you know how to figure it out.
+> **[4:18](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/common-cybersecurity-interview-questions-you-should-prepare-to-answer?u=76281980&t=258)** Whether it be forums, coworkers, professional associations, or even [[Google]], demonstrate to your interviewer that you know how to figure it out.
 >
 > **[4:26](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/common-cybersecurity-interview-questions-you-should-prepare-to-answer?u=76281980&t=266)** Nothing can ruin an entire interview like attempting to answer a question you don't know and doing so would cause the interviewer to question your integrity.
 >
@@ -523,15 +514,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hr (2), [[Security]] (2), [[Cybersecurity]] (2), [[Zoom]] (1), game (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Zoom]] (1), [[LinkedIn]] (1), [[Interviewing]] (1), [[Google]] (1)
 > **CLI Commands:** find (3), make (2)
 > **Analogies:** picture (3), for instance (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** tcp (1)
 > **Speakers:** - [instructor] (1)
 
-#### Common cybersecurity interview questions you should prepare to ask
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/common-cybersecurity-interview-questions-you-should-prepare-to-ask?u=76281980)
+#### [Common cybersecurity interview questions you should prepare to ask](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/common-cybersecurity-interview-questions-you-should-prepare-to-ask?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -597,7 +587,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/common-cybersecurity-interview-questions-you-should-prepare-to-ask?u=76281980&t=187)** Your line of questioning here will be specific to team cohesion, performance, tools, and procedures.
 >
-> **[3:14](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/common-cybersecurity-interview-questions-you-should-prepare-to-ask?u=76281980&t=194)** For example, if you're applying for a security operations center analyst role, then one of the questions could be, what theme does the team use to monitor network activity for intrusions?
+> **[3:14](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/common-cybersecurity-interview-questions-you-should-prepare-to-ask?u=76281980&t=194)** For example, if you're applying for a [[Security Operations]] center analyst role, then one of the questions could be, what theme does the team use to monitor network activity for intrusions?
 >
 > **[3:25](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/common-cybersecurity-interview-questions-you-should-prepare-to-ask?u=76281980&t=205)** This job-function-specific question will help you to compare existing tools with similar tools you've used.
 >
@@ -611,7 +601,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (7), hr (2), [[Security]] (2), next (1)
+> **Frameworks & Libraries:** [[Security Operations]] (1)
 > **Analogies:** for instance (2), for example (2), picture (1), such as (1)
 > **CLI Commands:** make (3)
 > **Warnings:** keep in mind (1)
@@ -622,8 +612,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to thrive in the telephone interview
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/how-to-thrive-in-the-telephone-interview?u=76281980)
+#### [How to thrive in the telephone interview](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/how-to-thrive-in-the-telephone-interview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -647,7 +636,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/how-to-thrive-in-the-telephone-interview?u=76281980&t=79)** Your resume made the cut among many others which did not.
 >
-> **[1:24](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/how-to-thrive-in-the-telephone-interview?u=76281980&t=84)** So what would make you stand well above the rest?
+> **[1:24](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/how-to-thrive-in-the-telephone-interview?u=76281980&t=84)** So what would make you stand well above the [[Representational State Transfer (REST)|rest]]?
 >
 > **[1:27](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/how-to-thrive-in-the-telephone-interview?u=76281980&t=87)** It still holds true that employers hire for passion over many other factors.
 >
@@ -687,14 +676,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1), game (1), [[Security]] (1), data (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** navigate to (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to thrive during the in-person interview
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/how-to-thrive-during-the-in-person-interview?u=76281980)
+#### [How to thrive during the in-person interview](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/how-to-thrive-during-the-in-person-interview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -714,7 +702,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/how-to-thrive-during-the-in-person-interview?u=76281980&t=43)** This is the grand stand, so pouring your brimming enthusiasm on thick really counts here.
 >
-> **[0:48](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/how-to-thrive-during-the-in-person-interview?u=76281980&t=48)** Kick things off with your interviewer by talking weather, the drive, family, vacation, or you can even comment about the office space.
+> **[0:48](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/how-to-thrive-during-the-in-person-interview?u=76281980&t=48)** Kick things off with your interviewer by talking weather, the drive, family, vacation, or you can even comment about the [[Microsoft Office|office]] space.
 >
 > **[0:57](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/how-to-thrive-during-the-in-person-interview?u=76281980&t=57)** Small talk is not difficult just don't overthink it.
 >
@@ -830,21 +818,20 @@ created: 2026-05-02
 >
 > **[5:15](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/how-to-thrive-during-the-in-person-interview?u=76281980&t=315)** Thank your interviewer for their time and consideration and if they gave a specific date when you'd hear back inform them that you look forward to hearing back then.
 >
-> **[5:26](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/how-to-thrive-during-the-in-person-interview?u=76281980&t=326)** Closing strong is an essential part of interviewing.
+> **[5:26](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/how-to-thrive-during-the-in-person-interview?u=76281980&t=326)** Closing strong is an essential part of [[Interviewing]].
 >
 > **[5:28](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/how-to-thrive-during-the-in-person-interview?u=76281980&t=328)** If you are not practicing these steps you are definitely leaving the job opportunity up for grabs.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Security]] (1), data (1), [[Interviewing]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Interviewing]] (1)
 > **CLI Commands:** make (5), snap (1), find (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### What not to do during the cybersecurity interview
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/what-not-to-do-during-the-cybersecurity-interview?u=76281980)
+#### [What not to do during the cybersecurity interview](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/what-not-to-do-during-the-cybersecurity-interview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -886,7 +873,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/what-not-to-do-during-the-cybersecurity-interview?u=76281980&t=96)** Always leave home two hours early.
 >
-> **[1:39](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/what-not-to-do-during-the-cybersecurity-interview?u=76281980&t=99)** Stay nearby at a coffee shop, and by the 30 minute mark, begin moving in the direction of the office, which should place you in the lobby 15 to 20 minutes before your scheduled interview time.
+> **[1:39](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/what-not-to-do-during-the-cybersecurity-interview?u=76281980&t=99)** Stay nearby at a coffee shop, and by the 30 minute mark, begin moving in the direction of the [[Microsoft Office|office]], which should place you in the lobby 15 to 20 minutes before your scheduled interview time.
 >
 > **[1:51](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/what-not-to-do-during-the-cybersecurity-interview?u=76281980&t=111)** We all at some point have come to the conclusion that most people make snap judgements which influence their decisions before they're even aware of it.
 >
@@ -926,7 +913,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/what-not-to-do-during-the-cybersecurity-interview?u=76281980&t=219)** Talking too much about a cops and robbers background can be off-putting to a potential employer.
 >
-> **[3:45](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/what-not-to-do-during-the-cybersecurity-interview?u=76281980&t=225)** I've been coaching hundreds of budding cybersecurity professionals for several years, in person and virtually.
+> **[3:45](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/what-not-to-do-during-the-cybersecurity-interview?u=76281980&t=225)** I've been coaching hundreds of budding [[Cybersecurity]] professionals for several years, in person and virtually.
 >
 > **[3:51](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/what-not-to-do-during-the-cybersecurity-interview?u=76281980&t=231)** I've seen hundreds of times over, particularly in my cybersecurity group, budding professionals who were allured to the world of cybersecurity wanting to spread far and wide their juvenile exploits of infiltration, and sport digital villain profile masks.
 >
@@ -938,13 +925,13 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/what-not-to-do-during-the-cybersecurity-interview?u=76281980&t=256)** But in competitive times, it can make all the difference.
 >
-> **[4:20](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/what-not-to-do-during-the-cybersecurity-interview?u=76281980&t=260)** Keep in mind, interviewing and selecting the best candidate for the organization out of several interviews is not an easy task.
+> **[4:20](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/what-not-to-do-during-the-cybersecurity-interview?u=76281980&t=260)** Keep in mind, [[Interviewing]] and selecting the best candidate for the organization out of several interviews is not an easy task.
 >
 > **[4:27](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/what-not-to-do-during-the-cybersecurity-interview?u=76281980&t=267)** Yet if you take the time to preemptively raise your hand to be selected, this can many times swing the last deciding factor in your favor.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Microsoft Office|Office]] (2), business (1), [[Interviewing]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Microsoft Office|Office]] (2), [[Interviewing]] (1)
 > **CLI Commands:** make (4), find (1), snap (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1)
@@ -957,8 +944,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Three things to do before leaving the parking lot
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/three-things-to-do-before-leaving-the-parking-lot?u=76281980)
+#### [Three things to do before leaving the parking lot](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/three-things-to-do-before-leaving-the-parking-lot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -988,18 +974,17 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/three-things-to-do-before-leaving-the-parking-lot?u=76281980&t=74)** You might not be good with names but the most important name to capture upon arrival is the name of the admin at the front desk.
 >
-> **[1:21](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/three-things-to-do-before-leaving-the-parking-lot?u=76281980&t=81)** Reason being, this is the person who knows the email addresses of any additional people who may have joined in on the interviewing process who were not mentioned prior.
+> **[1:21](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/three-things-to-do-before-leaving-the-parking-lot?u=76281980&t=81)** Reason being, this is the person who knows the email addresses of any additional people who may have joined in on the [[Interviewing]] process who were not mentioned prior.
 >
 > **[1:30](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/three-things-to-do-before-leaving-the-parking-lot?u=76281980&t=90)** Prior to leaving, be sure to ask the admin for the first and last name of all interviewing parties involved so you can follow up with them later.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Interviewing]] (2), next (1)
+> **Frameworks & Libraries:** [[Interviewing]] (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 
-#### Documenting your interview experience
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/documenting-your-interview-experience?u=76281980)
+#### [Documenting your interview experience](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/documenting-your-interview-experience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1009,13 +994,13 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/documenting-your-interview-experience?u=76281980&t=10)** Being successful in the interview is your win either way, and here's why.
 >
-> **[0:15](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/documenting-your-interview-experience?u=76281980&t=15)** Interviewing is not only for landing the job, there are more rewards to be had by interviewing than meets the eye.
+> **[0:15](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/documenting-your-interview-experience?u=76281980&t=15)** [[Interviewing]] is not only for landing the job, there are more rewards to be had by interviewing than meets the eye.
 >
 > **[0:21](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/documenting-your-interview-experience?u=76281980&t=21)** Interviewing is full of learning and personal development opportunities.
 >
 > **[0:25](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/documenting-your-interview-experience?u=76281980&t=25)** Be willing to use interviewing as your test lab and everyone in the process as your test subjects.
 >
-> **[0:31](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/documenting-your-interview-experience?u=76281980&t=31)** Part of you objective was to figure out the cybersecurity challenges of the organization.
+> **[0:31](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/documenting-your-interview-experience?u=76281980&t=31)** Part of you objective was to figure out the [[Cybersecurity]] challenges of the organization.
 >
 > **[0:35](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/documenting-your-interview-experience?u=76281980&t=35)** By interviewing for a specific role, you gain real-world insights into the cybersecurity challenges faced from one organization to the next.
 >
@@ -1079,7 +1064,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Interviewing]] (19), [[Cybersecurity]] (7), [[Security]] (3), next (2)
+> **Frameworks & Libraries:** [[Interviewing]] (19), [[Cybersecurity]] (7)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -1091,12 +1076,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What to do while you wait
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/what-to-do-while-you-wait?u=76281980)
+#### [What to do while you wait](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/what-to-do-while-you-wait?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/what-to-do-while-you-wait?u=76281980&t=1)** [Instructor] Interviewing is a proactive sport and not a waiting game.
+> **[0:01](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/what-to-do-while-you-wait?u=76281980&t=1)** [Instructor] [[Interviewing]] is a proactive sport and not a waiting game.
 >
 > **[0:04](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/what-to-do-while-you-wait?u=76281980&t=4)** Let's take a look at the work you can do after the interview is over.
 >
@@ -1110,7 +1094,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/what-to-do-while-you-wait?u=76281980&t=25)** You will need that information to send the personal touch of a thank you note.
 >
-> **[0:30](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/what-to-do-while-you-wait?u=76281980&t=30)** Many do this via email, but if you really want to stand a cut above the rest, send a handwritten note.
+> **[0:30](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/what-to-do-while-you-wait?u=76281980&t=30)** Many do this via email, but if you really want to stand a cut above the [[Representational State Transfer (REST)|rest]], send a handwritten note.
 >
 > **[0:36](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/what-to-do-while-you-wait?u=76281980&t=36)** But do make it quick, as decisions are made within a day or two after your interview.
 >
@@ -1136,12 +1120,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Interviewing]] (1), game (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Interviewing]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1149,11 +1132,11 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/next-steps?u=76281980&t=5)** You've still got an interview to nail, right?
 >
-> **[0:08](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/next-steps?u=76281980&t=8)** To continue preparing, I suggest you check out our additional courses on cybersecurity training.
+> **[0:08](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/next-steps?u=76281980&t=8)** To continue preparing, I suggest you check out our additional courses on [[Cybersecurity]] training.
 >
 > **[0:13](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/next-steps?u=76281980&t=13)** Also, get connected with our community of other cybersecurity professionals.
 >
-> **[0:18](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/next-steps?u=76281980&t=18)** Join our InfoSec 101 Facebook group, and connect with me on LinkedIn.
+> **[0:18](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/next-steps?u=76281980&t=18)** Join our InfoSec 101 Facebook group, and connect with me on [[LinkedIn]].
 >
 > **[0:23](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/next-steps?u=76281980&t=23)** I'd love to know how the interview went.
 >

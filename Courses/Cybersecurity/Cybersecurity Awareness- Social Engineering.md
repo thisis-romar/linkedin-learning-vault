@@ -81,8 +81,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defeat social engineers and cyber scammers
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/defeat-social-engineers-and-cyber-scammers?u=76281980)
+#### [Defeat social engineers and cyber scammers](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/defeat-social-engineers-and-cyber-scammers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -106,11 +105,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), [[Engineering]] (1)
 > **Speakers:** - did (1)
 
-#### What is social engineering?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/what-is-social-engineering?u=76281980)
+#### [What is social engineering?](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/what-is-social-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -120,7 +117,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/what-is-social-engineering?u=76281980&t=9)** "It's not news that social engineering attacks "plague enterprises worldwide."
 >
-> **[0:14](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/what-is-social-engineering?u=76281980&t=14)** According to Proofpoint's "2023 State of the Phish Report," 84% of people surveyed stated they experienced phishing attacks in 2022.
+> **[0:14](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/what-is-social-engineering?u=76281980&t=14)** According to Proofpoint's "2023 State of the Phish Report," 84% of people surveyed stated they experienced [[Phishing]] attacks in 2022.
 >
 > **[0:23](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/what-is-social-engineering?u=76281980&t=23)** Social engineering is a tool that uses the knowledge of human behavior to deceive and manipulate people.
 >
@@ -128,7 +125,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/what-is-social-engineering?u=76281980&t=35)** Social engineering affects us all, even if we don't realize it.
 >
-> **[0:39](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/what-is-social-engineering?u=76281980&t=39)** Other examples of social engineering attacks include a phishing email pretending to be from Microsoft that warns you of unusual sign-in activity, scam calls telling you that your social security card has been suspended or unauthorized individuals entering into office spaces.
+> **[0:39](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/what-is-social-engineering?u=76281980&t=39)** Other examples of social engineering attacks include a phishing email pretending to be from [[Microsoft]] that warns you of unusual sign-in activity, scam calls telling you that your social security card has been suspended or unauthorized individuals entering into [[Microsoft Office|office]] spaces.
 >
 > **[0:59](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/what-is-social-engineering?u=76281980&t=59)** It's important to understand what social engineering is before learning what it could look like.
 >
@@ -136,7 +133,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (6), [[Phishing]] (2), [[Microsoft]] (1), [[Security]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (2), [[Microsoft]] (1), [[Microsoft Office|Office]] (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -146,8 +143,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Influence and decision-making
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/influence-and-decision-making?u=76281980)
+#### [Influence and decision-making](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/influence-and-decision-making?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -201,23 +197,22 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/influence-and-decision-making?u=76281980&t=151)** So as you can see, influence plays a role in creating an environment or circumstance that causes a person to make a decision that is favorable to the person of influence.
 >
-> **[2:41](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/influence-and-decision-making?u=76281980&t=161)** In the next video, we will discuss phishing and see how influence and decision making can play a role in it.
+> **[2:41](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/influence-and-decision-making?u=76281980&t=161)** In the next video, we will discuss [[Phishing]] and see how influence and decision making can play a role in it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (3), power (1), next (1), [[Phishing]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - before (1)
 
-#### Phishing
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/phishing?u=76281980)
+#### [Phishing](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/phishing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/phishing?u=76281980&t=0)** - The earliest phishing email I can remember was from a Nigerian prince.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/phishing?u=76281980&t=0)** - The earliest [[Phishing]] email I can remember was from a Nigerian prince.
 >
 > **[0:05](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/phishing?u=76281980&t=5)** The email said something along the lines of, "Hey, I've got this large amount of money that I need to claim but I'm running into an issue and need your help."
 >
@@ -257,7 +252,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/phishing?u=76281980&t=115)** There are lots of ways to defend yourself and your organization from phishing attacks.
 >
-> **[2:00](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/phishing?u=76281980&t=120)** Some of these methods require fancy technical solutions that researchers spend months, or even years, fine tuning.
+> **[2:00](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/phishing?u=76281980&t=120)** Some of these methods require fancy technical solutions that researchers spend months, or even years, [[Fine Tuning]].
 >
 > **[2:07](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/phishing?u=76281980&t=127)** Some ways are associated with policies and procedures, but the most important method of all is education.
 >
@@ -269,15 +264,15 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/phishing?u=76281980&t=157)** Not only will everyone be more mindful of what they click on, but your organization's network and information will be better protected.
 >
-> **[2:45](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/phishing?u=76281980&t=165)** If you'd like to learn more about phishing and what to look out for, head on over to the Cybersecurity Awareness Phishing Course, where I dive a bit deeper into the world of phishing attacks.
+> **[2:45](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/phishing?u=76281980&t=165)** If you'd like to learn more about phishing and what to look out for, head on over to the [[Cybersecurity]] Awareness Phishing Course, where I dive a bit deeper into the world of phishing attacks.
 >
-> **[2:57](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/phishing?u=76281980&t=177)** More targeted forms of phishing are only successful if the attacker is able to find information on a target to make the attacks more believable.
+> **[2:57](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/phishing?u=76281980&t=177)** More targeted [[Forms]] of phishing are only successful if the attacker is able to find information on a target to make the attacks more believable.
 >
 > **[3:05](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/phishing?u=76281980&t=185)** In the next video, we'll discuss how attackers gain that information.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (13), next (2), [[Fine Tuning]] (1), [[Security]] (1), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (13), [[Fine Tuning]] (1), [[Cybersecurity]] (1), [[Forms]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** aol (2)
 > **Cross-References:** in the next (1)
@@ -285,8 +280,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - the (1)
 
-#### Pretexting
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/pretexting?u=76281980)
+#### [Pretexting](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/pretexting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -342,26 +336,25 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/pretexting?u=76281980&t=119)** Making sure that employees do not share confidential or proprietary information is important, and should be covered in training.
 >
-> **[2:07](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/pretexting?u=76281980&t=127)** These steps are not just helpful for reducing the information available to attackers, they can also help with making other social engineering attacks harder to carry out like phishing.
+> **[2:07](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/pretexting?u=76281980&t=127)** These steps are not just helpful for reducing the information available to attackers, they can also help with making other social engineering attacks harder to carry out like [[Phishing]].
 >
 > **[2:17](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/pretexting?u=76281980&t=137)** We'll talk about phishing in the next video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Phishing]] (2), business (1), [[Search]] (1), data (1)
+> **Frameworks & Libraries:** [[Phishing]] (2)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - when (1)
 
-#### Vishing
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/vishing?u=76281980)
+#### [Vishing](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/vishing?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/vishing?u=76281980&t=0)** - [Instructor] If your phone rings and you don't recognize the number, against your better judgment, you pick up the phone because it could be a family emergency.
 >
-> **[0:08](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/vishing?u=76281980&t=8)** Someone from Microsoft is on the line and the conversation goes something like this.
+> **[0:08](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/vishing?u=76281980&t=8)** Someone from [[Microsoft]] is on the line and the conversation goes something like this.
 >
 > **[0:13](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/vishing?u=76281980&t=13)** ''Hello Alice.
 >
@@ -387,7 +380,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/vishing?u=76281980&t=52)** Have a nice day.''
 >
-> **[0:54](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/vishing?u=76281980&t=54)** This was an unsuccessful phishing attack.
+> **[0:54](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/vishing?u=76281980&t=54)** This was an unsuccessful [[Phishing]] attack.
 >
 > **[0:58](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/vishing?u=76281980&t=58)** Vishing attacks are phishing attacks made over the phone.
 >
@@ -413,14 +406,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (3), [[Microsoft]] (2), [[Security]] (1), next (1)
+> **Frameworks & Libraries:** [[Phishing]] (3), [[Microsoft]] (2)
 > **Prerequisites:** install (1), set up (1)
 > **Env Vars:** irs (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Baiting
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/baiting?u=76281980)
+#### [Baiting](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/baiting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -474,7 +466,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (1), [[Search]] (1), next (1)
 > **Env Vars:** usb (5)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** find (1)
@@ -482,8 +473,7 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Speakers:** - attackers (1)
 
-#### Tailgating and shoulder surfing
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/tailgating-and-shoulder-surfing?u=76281980)
+#### [Tailgating and shoulder surfing](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/tailgating-and-shoulder-surfing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -525,7 +515,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/tailgating-and-shoulder-surfing?u=76281980&t=108)** In offices with open space concepts, everyone can walk around everyone else's workspace and can possibly see what their coworkers are working on.
 >
-> **[1:56](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/tailgating-and-shoulder-surfing?u=76281980&t=116)** Do you have a privacy screen on your computer monitors?
+> **[1:56](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/tailgating-and-shoulder-surfing?u=76281980&t=116)** Do you have a [[Privacy]] screen on your computer monitors?
 >
 > **[2:00](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/tailgating-and-shoulder-surfing?u=76281980&t=120)** Does your cube have a sliding door so that you can work on confidential items without fear of someone seeing?
 >
@@ -545,11 +535,11 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/tailgating-and-shoulder-surfing?u=76281980&t=164)** The infographic available in this course can help with remembering these tips.
 >
-> **[2:48](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/tailgating-and-shoulder-surfing?u=76281980&t=168)** Cybersecurity awareness training provides a lot of help with equipping people like you with the knowledge to be safer, and we'll discuss that in the next video.
+> **[2:48](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/tailgating-and-shoulder-surfing?u=76281980&t=168)** [[Cybersecurity]] awareness training provides a lot of help with equipping people like you with the knowledge to be safer, and we'll discuss that in the next video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (2), feature (1), [[Security]] (1), [[Engineering]] (1), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (2), [[Cybersecurity]] (1)
 > **Warnings:** warning (1), be aware (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** atm (1)
@@ -557,14 +547,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Social engineering tactics
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/challenge-social-engineering-tactics?u=76281980)
+#### [Challenge: Social engineering tactics](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/challenge-social-engineering-tactics?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/challenge-social-engineering-tactics?u=76281980&t=0)** - [Instructor] Now it's time for this chapter's challenge.
 >
-> **[0:09](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/challenge-social-engineering-tactics?u=76281980&t=9)** I'll present a scenario and it's up to you as the newest cybersecurity expert to figure out what social engineering attacks are being used.
+> **[0:09](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/challenge-social-engineering-tactics?u=76281980&t=9)** I'll present a scenario and it's up to you as the newest [[Cybersecurity]] expert to figure out what social engineering attacks are being used.
 >
 > **[0:18](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/challenge-social-engineering-tactics?u=76281980&t=18)** As you come across each of the five social engineering attacks, type your guesses into the course's note-taking feature.
 >
@@ -626,14 +615,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (3), [[Cybersecurity]] (1), feature (1), [[Troubleshooting]] (1), next (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1)
 > **Env Vars:** cfo (4)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Social engineering tactics
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/solution-social-engineering-tactics?u=76281980)
+#### [Solution: Social engineering tactics](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/solution-social-engineering-tactics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -657,7 +645,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/solution-social-engineering-tactics?u=76281980&t=62)** The third social engineering attack occurred when Laura received an email about a past due bill.
 >
-> **[1:08](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/solution-social-engineering-tactics?u=76281980&t=68)** This was an example of phishing.
+> **[1:08](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/solution-social-engineering-tactics?u=76281980&t=68)** This was an example of [[Phishing]].
 >
 > **[1:10](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/solution-social-engineering-tactics?u=76281980&t=70)** The third social engineering attack occurred when Laura received an email about a past due bill.
 >
@@ -691,7 +679,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (8), [[Phishing]] (2), next (1)
+> **Frameworks & Libraries:** [[Phishing]] (2)
 > **Env Vars:** cfo (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -704,14 +692,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cybersecurity awareness training
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/cybersecurity-awareness-training?u=76281980)
+#### [Cybersecurity awareness training](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/cybersecurity-awareness-training?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/cybersecurity-awareness-training?u=76281980&t=0)** - In the previous chapter, we discussed different methods of social engineering.
 >
-> **[0:04](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/cybersecurity-awareness-training?u=76281980&t=4)** From phishing to shoulder surfing, attackers use many different methods to influence you.
+> **[0:04](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/cybersecurity-awareness-training?u=76281980&t=4)** From [[Phishing]] to shoulder surfing, attackers use many different methods to influence you.
 >
 > **[0:10](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/cybersecurity-awareness-training?u=76281980&t=10)** In this chapter, we'll discuss what tools we can use to defend ourselves against these attacks.
 >
@@ -727,7 +714,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/cybersecurity-awareness-training?u=76281980&t=57)** Let's say you're the head of security for an organization that is super secure.
 >
-> **[1:02](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/cybersecurity-awareness-training?u=76281980&t=62)** It's equipped with man traps, multiple guards walking the halls 24-7, video cameras at every corner, and every door requires two forms of ID to get through.
+> **[1:02](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/cybersecurity-awareness-training?u=76281980&t=62)** It's equipped with man traps, multiple guards walking the halls 24-7, video cameras at every corner, and every door requires two [[Forms]] of ID to get through.
 >
 > **[1:13](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/cybersecurity-awareness-training?u=76281980&t=73)** The company has spared no expense on security, and everything is top-of-the-line.
 >
@@ -735,17 +722,17 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/cybersecurity-awareness-training?u=76281980&t=83)** A breach has occurred and top secret files were stolen.
 >
-> **[1:27](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/cybersecurity-awareness-training?u=76281980&t=87)** You begin your incident response procedure, scratching your head and wondering how in the world you got breached.
+> **[1:27](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/cybersecurity-awareness-training?u=76281980&t=87)** You begin your [[Incident Response]] procedure, scratching your head and wondering how in the world you got breached.
 >
 > **[1:33](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/cybersecurity-awareness-training?u=76281980&t=93)** After reviewing some video footage, you identify that the breach occurred with the help of an employee.
 >
-> **[1:39](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/cybersecurity-awareness-training?u=76281980&t=99)** When interviewing that employee, they simply state that they were escorting another employee to retrieve something from the vault.
+> **[1:39](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/cybersecurity-awareness-training?u=76281980&t=99)** When [[Interviewing]] that employee, they simply state that they were escorting another employee to retrieve something from the vault.
 >
 > **[1:47](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/cybersecurity-awareness-training?u=76281980&t=107)** When you ask them why they did that, the employee stares back blankly at you and says, "Well, they forgot their badge at home."
 >
 > **[1:56](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/cybersecurity-awareness-training?u=76281980&t=116)** Training can take multiple different forms.
 >
-> **[1:59](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/cybersecurity-awareness-training?u=76281980&t=119)** Cybersecurity awareness training videos are very popular for obvious reasons.
+> **[1:59](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/cybersecurity-awareness-training?u=76281980&t=119)** [[Cybersecurity]] awareness training videos are very popular for obvious reasons.
 >
 > **[2:04](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/cybersecurity-awareness-training?u=76281980&t=124)** The information can be viewed at any time, no conference rooms need to be booked, and no food needs to be supplied.
 >
@@ -767,7 +754,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/cybersecurity-awareness-training?u=76281980&t=174)** Another option would be to outsource this role completely.
 >
-> **[2:58](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/cybersecurity-awareness-training?u=76281980&t=178)** There are a lot of companies that specialize in security awareness, like KnowBe4.
+> **[2:58](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/cybersecurity-awareness-training?u=76281980&t=178)** There are a lot of companies that specialize in [[Security Awareness]], like KnowBe4.
 >
 > **[3:02](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/cybersecurity-awareness-training?u=76281980&t=182)** If you have the budget but lack the time, maybe this option would be better for you.
 >
@@ -777,15 +764,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), [[Engineering]] (4), [[Forms]] (2), [[Phishing]] (1), [[Incident Response]] (1)
+> **Frameworks & Libraries:** [[Forms]] (2), [[Phishing]] (1), [[Incident Response]] (1), [[Interviewing]] (1), [[Cybersecurity]] (1)
 > **CLI Commands:** make (5)
 > **Cross-References:** previous chapter (1), we discussed (1), in the next (1)
 > **Ports:** :00 (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - in (1)
 
-#### Properly manage passwords
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/properly-manage-passwords?u=76281980)
+#### [Properly manage passwords](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/properly-manage-passwords?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -839,15 +825,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), [[Security]] (1), next (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - password (1)
 
-#### Install patches
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/install-patches?u=76281980)
+#### [Install patches](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/install-patches?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -903,19 +887,18 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/install-patches?u=76281980&t=132)** Patch management takes care of identified security holes, but those holes are typically exploited after a social engineering attack has occurred.
 >
-> **[2:20](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/install-patches?u=76281980&t=140)** To minimize the amount of phishing emails in particular, we would use a spam or email filter.
+> **[2:20](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/install-patches?u=76281980&t=140)** To minimize the amount of [[Phishing]] emails in particular, we would use a spam or email filter.
 >
 > **[2:26](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/install-patches?u=76281980&t=146)** We'll go over that in the next video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (3), [[Security]] (2), next (2), [[Engineering]] (1), [[Phishing]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (1)
 > **CLI Commands:** make (5), find (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - i (1)
 
-#### Spam filter
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/spam-filter?u=76281980)
+#### [Spam filter](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/spam-filter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -923,7 +906,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/spam-filter?u=76281980&t=4)** It keeps us informed about what's going on and allows us to communicate with our coworkers.
 >
-> **[0:09](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/spam-filter?u=76281980&t=9)** Having to manually filter through emails that are spam or phishing attacks on top of trying to keep track of legitimate emails can be cumbersome.
+> **[0:09](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/spam-filter?u=76281980&t=9)** Having to manually filter through emails that are spam or [[Phishing]] attacks on top of trying to keep track of legitimate emails can be cumbersome.
 >
 > **[0:18](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/spam-filter?u=76281980&t=18)** It could lead to missing emails, which could lead to missed deadlines and a lot of explaining.
 >
@@ -965,23 +948,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (2), [[Engineering]] (1), next (1)
+> **Frameworks & Libraries:** [[Phishing]] (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - in (1)
 
-#### Sandboxing
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/sandboxing?u=76281980)
+#### [Sandboxing](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/sandboxing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/sandboxing?u=76281980&t=0)** - Phishing attacks and social engineering attacks are getting more advanced every second.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/sandboxing?u=76281980&t=0)** - [[Phishing]] attacks and social engineering attacks are getting more advanced every second.
 >
 > **[0:06](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/sandboxing?u=76281980&t=6)** It can sometimes feel impossible to keep up with the trends as a security professional, but if you're not a security professional, you most likely don't care enough to keep up, which could result in row clicking or falling for sophisticated social engineering attacks.
 >
-> **[0:21](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/sandboxing?u=76281980&t=21)** In enters the bodyguard, it can take many forms that are beyond the scope of this course, but the underlying technology is the same.
+> **[0:21](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/sandboxing?u=76281980&t=21)** In enters the bodyguard, it can take many [[Forms]] that are beyond the scope of this course, but the underlying technology is the same.
 >
 > **[0:30](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/sandboxing?u=76281980&t=30)** It executes anything you want, and if you find that there is something bad about whatever you executed, no harm done, the actions were isolated from your machine.
 >
@@ -1027,7 +1009,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), [[Engineering]] (3), [[Phishing]] (1), [[Forms]] (1), next (1)
+> **Frameworks & Libraries:** [[Phishing]] (1), [[Forms]] (1)
 > **Analogies:** picture (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** cfo (1)
@@ -1035,8 +1017,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - phishing (1)
 
-#### Scan your attachments
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/scan-your-attachments?u=76281980)
+#### [Scan your attachments](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/scan-your-attachments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1088,14 +1069,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), [[Engineering]] (2), next (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - let (1)
 
-#### Anti-social engineering software
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/anti-social-engineering-software?u=76281980)
+#### [Anti-social engineering software](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/anti-social-engineering-software?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1119,7 +1098,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/anti-social-engineering-software?u=76281980&t=62)** Having antivirus software installed in your machine is critical.
 >
-> **[1:05](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/anti-social-engineering-software?u=76281980&t=65)** Windows comes with its own antivirus software built in but if you don't care for that one there are so many options out there like McAfee and Avast.
+> **[1:05](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/anti-social-engineering-software?u=76281980&t=65)** [[Windows]] comes with its own antivirus software built in but if you don't care for that one there are so many options out there like McAfee and Avast.
 >
 > **[1:14](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/anti-social-engineering-software?u=76281980&t=74)** Set it to scan daily and weekly and see if there's an option for the software to scan in real time.
 >
@@ -1139,7 +1118,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (3), [[Security]] (2), [[Windows]] (1), next (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** in the next (1)
 > **Definitions:** basically means (1)
@@ -1148,8 +1127,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [tutor] (1)
 
-#### Create policies and procedures
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/create-policies-and-procedures?u=76281980)
+#### [Create policies and procedures](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/create-policies-and-procedures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1215,23 +1193,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), data (2), web (1), next (1)
 > **CLI Commands:** make (6), find (1)
 > **Cross-References:** coming up (1), in the next (1)
 > **Speakers:** - there (1)
 
-#### Challenge: Safegarding your company from attacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/challenge-safegarding-your-company-from-attacks?u=76281980)
+#### [Challenge: Safegarding your company from attacks](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/challenge-safegarding-your-company-from-attacks?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/challenge-safegarding-your-company-from-attacks?u=76281980&t=0)** - [Instructor] This chapter's challenge is all about defending ourselves against social engineering attacks.
 >
-> **[0:09](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/challenge-safegarding-your-company-from-attacks?u=76281980&t=9)** As the newest cybersecurity expert on the block, we need your help.
+> **[0:09](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/challenge-safegarding-your-company-from-attacks?u=76281980&t=9)** As the newest [[Cybersecurity]] expert on the block, we need your help.
 >
 > **[0:13](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/challenge-safegarding-your-company-from-attacks?u=76281980&t=13)** Using the scenario we went over in the first challenge, provide a defense for each social engineering attack.
 >
-> **[0:19](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/challenge-safegarding-your-company-from-attacks?u=76281980&t=19)** As a reminder, the social engineering attacks are tailgating, shoulder surfing, phishing, baiting, and vishing.
+> **[0:19](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/challenge-safegarding-your-company-from-attacks?u=76281980&t=19)** As a reminder, the social engineering attacks are tailgating, shoulder surfing, [[Phishing]], baiting, and vishing.
 >
 > **[0:28](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/challenge-safegarding-your-company-from-attacks?u=76281980&t=28)** Leverage the knowledge obtained from this chapter in your answers and use the note-taking function to record your answers.
 >
@@ -1241,13 +1217,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (3), [[Cybersecurity]] (1), [[Phishing]] (1), next (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1), [[Phishing]] (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Safegarding your company from attacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/solution-safegarding-your-company-from-attacks?u=76281980)
+#### [Solution: Safegarding your company from attacks](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/solution-safegarding-your-company-from-attacks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1271,19 +1246,19 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/solution-safegarding-your-company-from-attacks?u=76281980&t=42)** There are a few options here.
 >
-> **[0:44](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/solution-safegarding-your-company-from-attacks?u=76281980&t=44)** You could use a privacy screen for your monitors.
+> **[0:44](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/solution-safegarding-your-company-from-attacks?u=76281980&t=44)** You could use a [[Privacy]] screen for your monitors.
 >
-> **[0:48](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/solution-safegarding-your-company-from-attacks?u=76281980&t=48)** You could resize the application windows to make it harder for someone looking over your shoulder.
+> **[0:48](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/solution-safegarding-your-company-from-attacks?u=76281980&t=48)** You could resize the application [[Windows]] to make it harder for someone looking over your shoulder.
 >
 > **[0:53](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/solution-safegarding-your-company-from-attacks?u=76281980&t=53)** Or you could be sure to look around before interacting with sensitive information.
 >
-> **[0:59](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/solution-safegarding-your-company-from-attacks?u=76281980&t=59)** The third attack was phishing.
+> **[0:59](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/solution-safegarding-your-company-from-attacks?u=76281980&t=59)** The third attack was [[Phishing]].
 >
-> **[1:02](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/solution-safegarding-your-company-from-attacks?u=76281980&t=62)** There are many ways to combat phishing, and my course Security Awareness: Phishing dives deeper into different phishing attack methods and how to defend against them.
+> **[1:02](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/solution-safegarding-your-company-from-attacks?u=76281980&t=62)** There are many ways to combat phishing, and my course [[Security Awareness]]: Phishing dives deeper into different phishing attack methods and how to defend against them.
 >
 > **[1:11](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/solution-safegarding-your-company-from-attacks?u=76281980&t=71)** The main method of defense mentioned in this course is to educate yourself on what phishing emails look like.
 >
-> **[1:16](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/solution-safegarding-your-company-from-attacks?u=76281980&t=76)** A quick Google search will pull up different examples of phishing emails.
+> **[1:16](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/solution-safegarding-your-company-from-attacks?u=76281980&t=76)** A quick [[Google]] search will pull up different examples of phishing emails.
 >
 > **[1:25](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/solution-safegarding-your-company-from-attacks?u=76281980&t=85)** The other piece of this attack was addressing the malware.
 >
@@ -1307,7 +1282,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/solution-safegarding-your-company-from-attacks?u=76281980&t=135)** The iPhone has a feature to block all calls from unknown numbers.
 >
-> **[2:19](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/solution-safegarding-your-company-from-attacks?u=76281980&t=139)** Some Android devices also have this feature.
+> **[2:19](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/solution-safegarding-your-company-from-attacks?u=76281980&t=139)** Some [[Android]] devices also have this feature.
 >
 > **[2:22](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/solution-safegarding-your-company-from-attacks?u=76281980&t=142)** If your phone does not have this feature, a third-party application like Robokiller can also work.
 >
@@ -1321,7 +1296,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (6), application (3), feature (3), [[Security]] (2), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (6), [[Privacy]] (1), [[Windows]] (1), [[Security Awareness]] (1), [[Google]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Code Identifiers:** iphone (1)
 > **Cross-References:** in the next (1)
@@ -1333,12 +1308,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Phishing simulations
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/phishing-simulations?u=76281980)
+#### [Phishing simulations](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/phishing-simulations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/phishing-simulations?u=76281980&t=0)** - Fire drills are a regular part of working in an office space.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/phishing-simulations?u=76281980&t=0)** - Fire drills are a regular part of working in an [[Microsoft Office|office]] space.
 >
 > **[0:04](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/phishing-simulations?u=76281980&t=4)** You've got your floor wardens and you've got policies and procedures for what to do in the event of a fire.
 >
@@ -1348,9 +1322,9 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/phishing-simulations?u=76281980&t=21)** You can do this with social engineering defense.
 >
-> **[0:24](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/phishing-simulations?u=76281980&t=24)** Phishing simulations are a popular and efficient way of testing employees on the security awareness training you've provided.
+> **[0:24](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/phishing-simulations?u=76281980&t=24)** [[Phishing]] simulations are a popular and efficient way of testing employees on the [[Security Awareness]] training you've provided.
 >
-> **[0:31](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/phishing-simulations?u=76281980&t=31)** A phishing simulation is a fake phishing campaign that is performed on the email addresses associated with the company.
+> **[0:31](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/phishing-simulations?u=76281980&t=31)** A phishing [[Simulation]] is a fake phishing campaign that is performed on the email addresses associated with the company.
 >
 > **[0:38](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/phishing-simulations?u=76281980&t=38)** It's made to look and feel like a real campaign, and this is typically and preferably done without prior knowledge, meaning no one knows this is a fake phishing attack except the security team.
 >
@@ -1360,7 +1334,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/phishing-simulations?u=76281980&t=60)** Phishing simulations inform the security team of who in the company could fall susceptible to a phishing attack.
 >
-> **[1:06](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/phishing-simulations?u=76281980&t=66)** In general, they learn how people react, what changes need to be made in the policies and procedures, and what updates they need to make in the security awareness training program.
+> **[1:06](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/phishing-simulations?u=76281980&t=66)** In general, they learn how people [[React.js|react]], what changes need to be made in the policies and procedures, and what updates they need to make in the security awareness training program.
 >
 > **[1:18](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/phishing-simulations?u=76281980&t=78)** As with every method of testing defenses, the security team can either choose to create and execute the phishing simulation in-house or outsource it.
 >
@@ -1374,18 +1348,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (10), [[Security]] (5), [[Simulation]] (3), [[Microsoft Office|Office]] (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (10), [[Simulation]] (3), [[Security Awareness]] (2), [[Microsoft Office|Office]] (1), [[React.js|React]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - fire (1)
 
-#### Penetration testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/penetration-testing?u=76281980)
+#### [Penetration testing](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/penetration-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/penetration-testing?u=76281980&t=0)** - [Instructor] We know that phishing simulations test the company on their defense against phishing attacks.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/penetration-testing?u=76281980&t=0)** - [Instructor] We know that [[Phishing]] simulations test the company on their defense against phishing attacks.
 >
 > **[0:05](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/penetration-testing?u=76281980&t=5)** In a similar sense, penetration tests test other defenses.
 >
@@ -1435,11 +1408,11 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/penetration-testing?u=76281980&t=129)** In this chapter, we went over how to test your defenses.
 >
-> **[2:13](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/penetration-testing?u=76281980&t=133)** In the next chapter, we'll discuss different types of cybersecurity awareness education.
+> **[2:13](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/penetration-testing?u=76281980&t=133)** In the next chapter, we'll discuss different types of [[Cybersecurity]] awareness education.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (2), [[Security]] (2), next (1), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (2), [[Cybersecurity]] (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -1450,14 +1423,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Active and passive education
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/active-and-passive-education?u=76281980)
+#### [Active and passive education](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/active-and-passive-education?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/active-and-passive-education?u=76281980&t=0)** - [Presenter] We've established that education is an important part of the fight against social engineers or people hackers.
 >
-> **[0:05](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/active-and-passive-education?u=76281980&t=5)** We've also discovered how cybersecurity awareness training plays a major role in protecting yourself against a host of security attacks.
+> **[0:05](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/active-and-passive-education?u=76281980&t=5)** We've also discovered how [[Cybersecurity]] awareness training plays a major role in protecting yourself against a host of security attacks.
 >
 > **[0:14](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/active-and-passive-education?u=76281980&t=14)** Taking that conversation a step further, let's discuss active and passive cybersecurity education.
 >
@@ -1485,7 +1457,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/active-and-passive-education?u=76281980&t=85)** Passive education is a type of learning that can be done without the learner's active participation.
 >
-> **[1:30](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/active-and-passive-education?u=76281980&t=90)** So things like posters, flyers strategically placed in common areas of the office, and inclusion of callouts to best security practices and company emails.
+> **[1:30](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/active-and-passive-education?u=76281980&t=90)** So things like posters, flyers strategically placed in common areas of the [[Microsoft Office|office]], and inclusion of callouts to best security practices and company emails.
 >
 > **[1:41](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/active-and-passive-education?u=76281980&t=101)** On the surface, passive education may seem like more trouble than it's worth.
 >
@@ -1493,20 +1465,19 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/active-and-passive-education?u=76281980&t=114)** In that same way, we can organically introduce someone to a cybersecurity practice while they're chatting with a coworker in a break room or waiting on the elevator, or even as they wait for others to join an in-person meeting.
 >
-> **[2:08](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/active-and-passive-education?u=76281980&t=128)** Along with active and passive cybersecurity education, personal data security can translate across all areas of your life.
+> **[2:08](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/active-and-passive-education?u=76281980&t=128)** Along with active and passive cybersecurity education, personal [[Data Security]] can translate across all areas of your life.
 >
 > **[2:16](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/active-and-passive-education?u=76281980&t=136)** We'll discuss this more in the next video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), [[Cybersecurity]] (4), product (2), [[Engineering]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[Microsoft Office|Office]] (1), [[Data Security]] (1)
 > **Cross-References:** we talked about (1), in the next (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [presenter] (1)
 
-#### Personal data security
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/personal-data-security?u=76281980)
+#### [Personal data security](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/personal-data-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1516,7 +1487,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/personal-data-security?u=76281980&t=12)** You may as well personally benefit from the material.
 >
-> **[0:15](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/personal-data-security?u=76281980&t=15)** Personal data security is the practice of applying best security practices to the protection of your own personal data.
+> **[0:15](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/personal-data-security?u=76281980&t=15)** Personal [[Data Security]] is the practice of applying best security practices to the protection of your own personal data.
 >
 > **[0:22](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/personal-data-security?u=76281980&t=22)** If you value your own data, you may have a deepened depreciation for the value of company data.
 >
@@ -1540,7 +1511,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/personal-data-security?u=76281980&t=72)** Digital security cannot be overlooked.
 >
-> **[1:16](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/personal-data-security?u=76281980&t=76)** In this chapter, we discussed different types of cybersecurity education as well as ways you can practice what you've learned in your personal life.
+> **[1:16](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/personal-data-security?u=76281980&t=76)** In this chapter, we discussed different types of [[Cybersecurity]] education as well as ways you can practice what you've learned in your personal life.
 >
 > **[1:24](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/personal-data-security?u=76281980&t=84)** You now have the knowledge necessary to keep you and your employer safe from potential attacks.
 >
@@ -1548,7 +1519,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), data (4), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[Data Security]] (1), [[Cybersecurity]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
 > **Cross-References:** we discussed (1)
@@ -1560,8 +1531,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continue your cybersecurity awareness journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/continue-your-cybersecurity-awareness-journey?u=76281980)
+#### [Continue your cybersecurity awareness journey](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/continue-your-cybersecurity-awareness-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1569,7 +1539,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/continue-your-cybersecurity-awareness-journey?u=76281980&t=2)** Congratulations.
 >
-> **[0:04](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/continue-your-cybersecurity-awareness-journey?u=76281980&t=4)** In this course, we learned different methods social engineers use to attack, like phishing and shoulder surfing.
+> **[0:04](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/continue-your-cybersecurity-awareness-journey?u=76281980&t=4)** In this course, we learned different methods social engineers use to attack, like [[Phishing]] and shoulder surfing.
 >
 > **[0:10](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/continue-your-cybersecurity-awareness-journey?u=76281980&t=10)** We learned how to defend ourselves using things like spam filters and password managers.
 >
@@ -1587,9 +1557,9 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/continue-your-cybersecurity-awareness-journey?u=76281980&t=49)** This is a great book that takes a deeper dive into the psychology behind influence.
 >
-> **[0:55](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/continue-your-cybersecurity-awareness-journey?u=76281980&t=55)** We talked about how influence and decision-making are the basic psychological principles behind human behavior.
+> **[0:55](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/continue-your-cybersecurity-awareness-journey?u=76281980&t=55)** We talked about how influence and [[Decision-Making]] are the basic psychological principles behind human behavior.
 >
-> **[1:03](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/continue-your-cybersecurity-awareness-journey?u=76281980&t=63)** For more information on phishing, you can check out my course Security Awareness: Phishing, where I take a deeper dive into what phishing is, how it can look, and what to do to defend yourself against phishing attacks.
+> **[1:03](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/continue-your-cybersecurity-awareness-journey?u=76281980&t=63)** For more information on phishing, you can check out my course [[Security Awareness]]: Phishing, where I take a deeper dive into what phishing is, how it can look, and what to do to defend yourself against phishing attacks.
 >
 > **[1:15](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/continue-your-cybersecurity-awareness-journey?u=76281980&t=75)** At the end of this course, you'll be able to download a certificate of completion and share it with your network.
 >
@@ -1605,7 +1575,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (5), [[Engineering]] (3), [[Security]] (2), [[Decision-Making]] (1), next (1)
+> **Frameworks & Libraries:** [[Phishing]] (5), [[Decision-Making]] (1), [[Security Awareness]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** is a  (1)

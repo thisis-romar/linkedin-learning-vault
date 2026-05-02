@@ -89,12 +89,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The art of asking the right questions
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/the-art-of-asking-the-right-questions?u=76281980)
+#### [The art of asking the right questions](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/the-art-of-asking-the-right-questions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/the-art-of-asking-the-right-questions?u=76281980&t=0)** - [Shane] When you think of strong problem management, what comes to mind?
+> **[0:00](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/the-art-of-asking-the-right-questions?u=76281980&t=0)** - [Shane] When you think of strong [[Problem Management]], what comes to mind?
 >
 > **[0:03](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/the-art-of-asking-the-right-questions?u=76281980&t=3)** I bet it's a far cry from an engineer asking you to try rebooting or gathering unrelated data before asking you to wait while they escalate an issue.
 >
@@ -112,15 +111,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Problem Management]] (3), career (2), data (1), next (1), management (1)
+> **Frameworks & Libraries:** [[Problem Management]] (3)
 > **Speakers:** - [shane] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/what-you-should-know?u=76281980&t=0)** - Before jumping into the world of problem management, it would be helpful to have some background with basic service management processes, such as help desk, incident, change and knowledge management.
+> **[0:00](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/what-you-should-know?u=76281980&t=0)** - Before jumping into the world of [[Problem Management]], it would be helpful to have some background with basic service management processes, such as help desk, incident, change and knowledge management.
 >
 > **[0:10](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/what-you-should-know?u=76281980&t=10)** If you don't, not to worry, instead, try to recall your last few experiences with customer service.
 >
@@ -144,7 +142,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), [[Problem Management]] (1), [[Troubleshooting]] (1), business (1)
+> **Frameworks & Libraries:** [[Problem Management]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** such as (1)
 > **Speakers:** - before (1)
@@ -154,12 +152,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to problem management
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/introduction-to-problem-management?u=76281980)
+#### [Introduction to problem management](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/introduction-to-problem-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/introduction-to-problem-management?u=76281980&t=0)** - [Instructor] Welcome to an introduction to problem management.
+> **[0:00](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/introduction-to-problem-management?u=76281980&t=0)** - [Instructor] Welcome to an introduction to [[Problem Management]].
 >
 > **[0:03](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/introduction-to-problem-management?u=76281980&t=3)** When it seems like everyone is involved in solving some sort of problem or another, it can be tough to understand and implement the systems, tools, roles, and responsibilities that can take your problem solving organization from good to great.
 >
@@ -231,7 +228,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/introduction-to-problem-management?u=76281980&t=174)** we aim to prioritize our map and identify which buildings, landmarks, parks, and roads are at risk of creating major issues and headaches for our residents.
 >
-> **[3:04](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/introduction-to-problem-management?u=76281980&t=184)** In technical terms, which of your products, hardware, and services are on shaky ground and are in need of maintenance.
+> **[3:04](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/introduction-to-problem-management?u=76281980&t=184)** In technical terms, which of your [[Microsoft Products|products]], [[Hardware]], and services are on shaky ground and are in need of maintenance.
 >
 > **[3:12](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/introduction-to-problem-management?u=76281980&t=192)** Depending on the impact of this maintenance or technical debt as it's called, we mark these assets as high risk.
 >
@@ -257,12 +254,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Problem Management]] (6), business (2), functional (1), teams (1), product (1)
+> **Frameworks & Libraries:** [[Problem Management]] (6), [[Microsoft Products|Products]] (1), [[Hardware]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Roles and responsibilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/roles-and-responsibilities?u=76281980)
+#### [Roles and responsibilities](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/roles-and-responsibilities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -270,7 +266,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/roles-and-responsibilities?u=76281980&t=10)** Here, I try to help you avoid this problem by giving you basic definitions to help make sure everyone on your team has a specific focus.
 >
-> **[0:18](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/roles-and-responsibilities?u=76281980&t=18)** Problem management can be split into three roles or hats.
+> **[0:18](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/roles-and-responsibilities?u=76281980&t=18)** [[Problem Management]] can be split into three roles or hats.
 >
 > **[0:21](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/roles-and-responsibilities?u=76281980&t=21)** These hats are usually worn by different people, depending on the needs of the moment, or sometimes in large organizations they can even be permanently assigned.
 >
@@ -302,16 +298,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Problem Management]] (2), product (1), business (1), management (1), next (1)
+> **Frameworks & Libraries:** [[Problem Management]] (2)
 > **CLI Commands:** make (3)
 > **Speakers:** - [instructor] (1)
 
-#### Key metrics and success factors
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/key-metrics-and-success-factors?u=76281980)
+#### [Key metrics and success factors](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/key-metrics-and-success-factors?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/key-metrics-and-success-factors?u=76281980&t=0)** - You may have heard that you can't improve what you don't measure and in problem management, there sure are a lot of measurements.
+> **[0:00](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/key-metrics-and-success-factors?u=76281980&t=0)** - You may have heard that you can't improve what you don't measure and in [[Problem Management]], there sure are a lot of measurements.
 >
 > **[0:06](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/key-metrics-and-success-factors?u=76281980&t=6)** Just out of the box, in most ticketing programs, you can measure by all sorts of acronyms but what are they and which ones matter?
 >
@@ -379,7 +374,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Problem Management]] (6), data (1), management (1), next (1)
+> **Frameworks & Libraries:** [[Problem Management]] (6)
 > **Analogies:** such as (3)
 > **CLI Commands:** find (1), make (1)
 > **Prerequisites:** set up (1), required to (1)
@@ -387,14 +382,13 @@ created: 2026-05-02
 > **Best Practices:** you should always (1)
 > **Speakers:** - you (1)
 
-#### Related processes and functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/related-processes-and-functions?u=76281980)
+#### [Related processes and functions](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/related-processes-and-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/related-processes-and-functions?u=76281980&t=0)** - [Instructor] In order to get big things done, individual teams have to act as a well-oiled machine.
 >
-> **[0:05](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/related-processes-and-functions?u=76281980&t=5)** And that means at minimum, you should seek to understand what they do, what their primary objectives are, and how problem management interacts with them.
+> **[0:05](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/related-processes-and-functions?u=76281980&t=5)** And that means at minimum, you should seek to understand what they do, what their primary objectives are, and how [[Problem Management]] interacts with them.
 >
 > **[0:13](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/related-processes-and-functions?u=76281980&t=13)** Have you ever had too many cooks in your kitchen?
 >
@@ -414,7 +408,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/related-processes-and-functions?u=76281980&t=66)** Like hawks, they're constantly scanning and watching the environment.
 >
-> **[1:10](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/related-processes-and-functions?u=76281980&t=70)** The team uses live charting, IoT devices, logging, and statistical analysis tools to help identify and pinpoint potential sources of upcoming failure.
+> **[1:10](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/related-processes-and-functions?u=76281980&t=70)** The team uses live charting, [[IoT]] devices, logging, and [[Statistical Analysis]] tools to help identify and pinpoint potential sources of upcoming failure.
 >
 > **[1:20](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/related-processes-and-functions?u=76281980&t=80)** Actually, come to think of it, event management is starting to sound like the FBI.
 >
@@ -430,13 +424,13 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/related-processes-and-functions?u=76281980&t=123)** These individuals generally belong to a specific product or a technical team and provide both skills to fight and prevent fires as well as expert testimony during investigations.
 >
-> **[2:14](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/related-processes-and-functions?u=76281980&t=134)** SMEs can both be in-house and employed by the organization or be external vendors on contract, such as Microsoft or Cisco.
+> **[2:14](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/related-processes-and-functions?u=76281980&t=134)** SMEs can both be in-house and employed by the organization or be external vendors on contract, such as [[Microsoft]] or Cisco.
 >
 > **[2:23](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/related-processes-and-functions?u=76281980&t=143)** The work and caseload of the detectives in problem management can often be so demanding that we split the problem management team into two groups.
 >
 > **[2:31](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/related-processes-and-functions?u=76281980&t=151)** One that focuses on identifying and understanding the cause of the incident or fire, and another that focuses on remediation and improvement.
 >
-> **[2:39](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/related-processes-and-functions?u=76281980&t=159)** In this case, a team of personal trainers forms the continuous improvement team, and they're tasked with prioritizing, selecting and executing projects that'll make the organization better, the same way a personal trainer might identify and improve you.
+> **[2:39](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/related-processes-and-functions?u=76281980&t=159)** In this case, a team of personal trainers [[Forms]] the continuous improvement team, and they're tasked with prioritizing, selecting and executing projects that'll make the organization better, the same way a personal trainer might identify and improve you.
 >
 > **[2:55](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/related-processes-and-functions?u=76281980&t=175)** Because so much is happening in the organization all at once, all teams interact with a group of air traffic controllers known as change management.
 >
@@ -464,7 +458,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (8), teams (7), [[Problem Management]] (5), [[IoT]] (1), [[Statistical Analysis]] (1)
+> **Frameworks & Libraries:** [[Problem Management]] (5), [[IoT]] (1), [[Statistical Analysis]] (1), [[Microsoft]] (1), [[Forms]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for instance (1), such as (1)
 > **Env Vars:** fbi (1)
@@ -477,8 +471,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tracking and trending
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/tracking-and-trending?u=76281980)
+#### [Tracking and trending](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/tracking-and-trending?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -494,7 +487,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/tracking-and-trending?u=76281980&t=20)** If you're not actively reviewing your data, you're at the mercy of the opinions and people around you, and you'll always end up being reactionary in your role.
 >
-> **[0:28](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/tracking-and-trending?u=76281980&t=28)** To be really successful at problem management requires that you brush up on your data analysis skills and start digging.
+> **[0:28](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/tracking-and-trending?u=76281980&t=28)** To be really successful at [[Problem Management]] requires that you brush up on your data analysis skills and start digging.
 >
 > **[0:34](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/tracking-and-trending?u=76281980&t=34)** Key places to start include case history of customer complaints, feedback about incidents, observational studies and even charts.
 >
@@ -514,9 +507,9 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/tracking-and-trending?u=76281980&t=97)** So let's find a way to break data down so that this information is in more manageable chunks.
 >
-> **[1:43](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/tracking-and-trending?u=76281980&t=103)** The way we can do this is you can start asking questions such as what products are generating the most noise?
+> **[1:43](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/tracking-and-trending?u=76281980&t=103)** The way we can do this is you can start asking questions such as what [[Microsoft Products|products]] are generating the most noise?
 >
-> **[1:50](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/tracking-and-trending?u=76281980&t=110)** What types of hardware or equipment are responsible?
+> **[1:50](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/tracking-and-trending?u=76281980&t=110)** What types of [[Hardware]] or equipment are responsible?
 >
 > **[1:54](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/tracking-and-trending?u=76281980&t=114)** What are the most repeated calls about?
 >
@@ -570,19 +563,19 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/tracking-and-trending?u=76281980&t=243)** It's a tough job and you'll have to get your hands wrapped around some tools to really supercharge your performance but it's absolutely worth it.
 >
-> **[4:10](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/tracking-and-trending?u=76281980&t=250)** I recommend building additional skill in tools like Excel, Power BI, Tableau, and MATLAB.
+> **[4:10](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/tracking-and-trending?u=76281980&t=250)** I recommend building additional skill in tools like [[Microsoft Excel|Excel]], [[Microsoft Power BI|Power BI]], [[Tableau]], and MATLAB.
 >
-> **[4:18](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/tracking-and-trending?u=76281980&t=258)** Learning a data analysis language like R, Python and SQL really help as well.
+> **[4:18](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/tracking-and-trending?u=76281980&t=258)** Learning a data analysis language like R, [[Python (Programming Language)|Python]] and [[SQL]] really help as well.
 >
 > **[4:24](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/tracking-and-trending?u=76281980&t=264)** It's especially important to practice how to retrieve and group data quickly and efficiently and these skills will last you a lifetime.
 >
-> **[4:32](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/tracking-and-trending?u=76281980&t=272)** So LinkedIn Learning is a fantastic resource for all of this.
+> **[4:32](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/tracking-and-trending?u=76281980&t=272)** So [[LinkedIn]] Learning is a fantastic resource for all of this.
 >
 > **[4:36](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/tracking-and-trending?u=76281980&t=276)** I highly suggest you check out some of the other videos available.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Problem Management]] (1), [[Microsoft Products|Products]] (1), [[Hardware]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Problem Management]] (1), [[Microsoft Products|Products]] (1), [[Hardware]] (1), [[Microsoft Excel|Excel]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **CLI Commands:** find (1), make (1), python (1)
 > **Tools:** safari (3)
 > **Env Vars:** matlab (1), sql (1)
@@ -595,8 +588,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Selecting high-value targets
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/selecting-high-value-targets?u=76281980)
+#### [Selecting high-value targets](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/selecting-high-value-targets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -610,7 +602,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/selecting-high-value-targets?u=76281980&t=18)** Let's discuss a controversial topic and get educated on how to select high-value targets.
 >
-> **[0:23](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/selecting-high-value-targets?u=76281980&t=23)** This will help you prove the value of problem management to the organization, improve your customer experience, and hopefully, after hitting those two goals, allow you to smooth things over after you tell your boss to leave you alone.
+> **[0:23](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/selecting-high-value-targets?u=76281980&t=23)** This will help you prove the value of [[Problem Management]] to the organization, improve your customer experience, and hopefully, after hitting those two goals, allow you to smooth things over after you tell your boss to leave you alone.
 >
 > **[0:34](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/selecting-high-value-targets?u=76281980&t=34)** Of all the metrics I find myself disagreeing with, the one that most bothers me is the idea that every incident of priority X requires a root cause investigation; or worse, the same statement, but with a time limit of like 48 hours on it.
 >
@@ -628,7 +620,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/selecting-high-value-targets?u=76281980&t=95)** Problems, like anything else in life, should be prioritized.
 >
-> **[1:39](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/selecting-high-value-targets?u=76281980&t=99)** The criteria for prioritization varies from organization to organization, but should include the following: First, the probability of actually being able to get to root cause based on the skill level of the team and access to the data.
+> **[1:39](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/selecting-high-value-targets?u=76281980&t=99)** The criteria for prioritization varies from organization to organization, but should include the following: First, the [[Probability]] of actually being able to get to root cause based on the skill level of the team and access to the data.
 >
 > **[1:52](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/selecting-high-value-targets?u=76281980&t=112)** Two, the probability of executing a project to eliminate the root cause, including getting it funded, scheduled and completed.
 >
@@ -676,7 +668,7 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/selecting-high-value-targets?u=76281980&t=252)** So start with the value formula and begin calculating the value of each of the projects or initiatives currently up for consideration.
 >
-> **[4:19](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/selecting-high-value-targets?u=76281980&t=259)** Using Excel can really help in reducing errors during this phase.
+> **[4:19](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/selecting-high-value-targets?u=76281980&t=259)** Using [[Microsoft Excel|Excel]] can really help in reducing errors during this phase.
 >
 > **[4:23](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/selecting-high-value-targets?u=76281980&t=263)** Once complete, sort the projects by overall value and use this as your to-do list.
 >
@@ -692,7 +684,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Problem Management]] (3), data (3), next (3), [[Probability]] (2), game (1)
+> **Frameworks & Libraries:** [[Problem Management]] (3), [[Probability]] (2), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (3)
 > **Definitions:** known as (2)
 > **Env Vars:** rca (1)
@@ -701,12 +693,11 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Prerequisites:** required to (1)
 
-#### Cause analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/cause-analysis?u=76281980)
+#### [Cause analysis](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/cause-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/cause-analysis?u=76281980&t=0)** - [Instructor] Understanding the bigger picture and taking action is what problem management is all about.
+> **[0:00](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/cause-analysis?u=76281980&t=0)** - [Instructor] Understanding the bigger picture and taking action is what [[Problem Management]] is all about.
 >
 > **[0:05](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/cause-analysis?u=76281980&t=5)** A key component in understanding and telling a story is the root cause analysis and investigation.
 >
@@ -799,8 +790,7 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
 
-#### Workarounds and known errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/workarounds-and-known-errors?u=76281980)
+#### [Workarounds and known errors](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/workarounds-and-known-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -818,7 +808,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/workarounds-and-known-errors?u=76281980&t=44)** Our collective behavior got so inconsistent around emergencies that we even developed an entire discipline around performing it well.
 >
-> **[0:52](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/workarounds-and-known-errors?u=76281980&t=52)** We call it incident management, and it's the sister process to problem management.
+> **[0:52](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/workarounds-and-known-errors?u=76281980&t=52)** We call it incident management, and it's the sister process to [[Problem Management]].
 >
 > **[0:57](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/workarounds-and-known-errors?u=76281980&t=57)** You see, when it's appropriate to do so, providing a half solution, an alternate way of doing things, or a temporary fix is not considered lazy.
 >
@@ -868,7 +858,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (4), database (4), [[Problem Management]] (2), next (2), power (2)
+> **Frameworks & Libraries:** [[Problem Management]] (2)
 > **Analogies:** imagine (1), for instance (1), such as (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -882,8 +872,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Managing known errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/managing-known-errors?u=76281980)
+#### [Managing known errors](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/managing-known-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -903,7 +892,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/managing-known-errors?u=76281980&t=54)** And finally some documentation in the known error database to make the magic truly come alive.
 >
-> **[0:59](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/managing-known-errors?u=76281980&t=59)** Maintaining this to do list of duct tape and leaks around our environments, is the job of problem management.
+> **[0:59](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/managing-known-errors?u=76281980&t=59)** Maintaining this to do list of duct tape and leaks around our environments, is the job of [[Problem Management]].
 >
 > **[1:05](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/managing-known-errors?u=76281980&t=65)** There are a few things you can do to make sure that this database is kept in tip top shape.
 >
@@ -933,7 +922,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/managing-known-errors?u=76281980&t=164)** Focus now on getting the known errors with the highest chance of recurrence, the biggest cost to our organization, and the biggest pain point for the customer solved, as quickly as possible.
 >
-> **[2:54](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/managing-known-errors?u=76281980&t=174)** Think of ways to also group your errors into categories, products, locations, or teams, so that this way you can get additional value out of remediation efforts.
+> **[2:54](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/managing-known-errors?u=76281980&t=174)** Think of ways to also group your errors into categories, [[Microsoft Products|products]], locations, or teams, so that this way you can get additional value out of remediation efforts.
 >
 > **[3:04](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/managing-known-errors?u=76281980&t=184)** You'll also find opportunities to feed two birds with one scone.
 >
@@ -953,14 +942,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), next (2), data (2), management (2), [[Problem Management]] (1)
+> **Frameworks & Libraries:** [[Problem Management]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** imagine (1), picture (1), such as (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Identifying permanent solutions
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/identifying-permanent-solutions?u=76281980)
+#### [Identifying permanent solutions](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/identifying-permanent-solutions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1014,7 +1002,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/identifying-permanent-solutions?u=76281980&t=162)** Typically workarounds and known errors that should become priority follow similar principles as selecting any other high value targets to work on.
 >
-> **[2:51](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/identifying-permanent-solutions?u=76281980&t=171)** First, we need to understand and maximize the probability of successful remediation.
+> **[2:51](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/identifying-permanent-solutions?u=76281980&t=171)** First, we need to understand and maximize the [[Probability]] of successful remediation.
 >
 > **[2:57](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/identifying-permanent-solutions?u=76281980&t=177)** That means understanding our current project load, free resources, and the skill level of those resources to complete remediation tasks successfully.
 >
@@ -1056,7 +1044,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (2), business (1), database (1), data (1), management (1)
+> **Frameworks & Libraries:** [[Probability]] (2)
 > **CLI Commands:** find (2), make (2)
 > **Analogies:** for instance (1), such as (1), picture (1)
 > **Best Practices:** make sure to (1)
@@ -1067,8 +1055,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Clarify and verify
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/clarify-and-verify?u=76281980)
+#### [Clarify and verify](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/clarify-and-verify?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1122,7 +1109,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/clarify-and-verify?u=76281980&t=66)** So you reacted to get on top of this.
 >
-> **[1:09](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/clarify-and-verify?u=76281980&t=69)** You must be wondering, why are you being called into the manager's office now for a reprimand?
+> **[1:09](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/clarify-and-verify?u=76281980&t=69)** You must be wondering, why are you being called into the manager's [[Microsoft Office|office]] now for a reprimand?
 >
 > **[1:14](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/clarify-and-verify?u=76281980&t=74)** It's because you didn't clarify and verify.
 >
@@ -1140,7 +1127,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/clarify-and-verify?u=76281980&t=103)** Such as what do you mean by the internet is down?
 >
-> **[1:45](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/clarify-and-verify?u=76281980&t=105)** And then, when they give you a clear answer, such as I can't log into Microsoft Outlook 365, verification is a step that means that you check this information either through tools, monitoring, yourself, or with the help of the client and customer.
+> **[1:45](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/clarify-and-verify?u=76281980&t=105)** And then, when they give you a clear answer, such as I can't log into [[Microsoft Outlook]] 365, verification is a step that means that you check this information either through tools, monitoring, yourself, or with the help of the client and customer.
 >
 > **[2:01](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/clarify-and-verify?u=76281980&t=121)** A simple way of verifying verbally is to ask an evidence based question, such as what do you see, feel, hear, touch, taste, or smell that tells you that this is the case?
 >
@@ -1170,8 +1157,7 @@ created: 2026-05-02
 > **Definitions:** means that (1), is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Problem statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/problem-statements?u=76281980)
+#### [Problem statements](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/problem-statements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1193,7 +1179,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/problem-statements?u=76281980&t=45)** That's huge.
 >
-> **[0:46](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/problem-statements?u=76281980&t=46)** If someone had told me such a small change to a subject line could make that much of a difference, I would laugh them out of my office.
+> **[0:46](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/problem-statements?u=76281980&t=46)** If someone had told me such a small change to a subject line could make that much of a difference, I would laugh them out of my [[Microsoft Office|office]].
 >
 > **[0:53](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/problem-statements?u=76281980&t=53)** But it's true.
 >
@@ -1219,7 +1205,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/problem-statements?u=76281980&t=105)** Let's try another.
 >
-> **[1:46](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/problem-statements?u=76281980&t=106)** Let's say a user comes to and says, Windows won't start.
+> **[1:46](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/problem-statements?u=76281980&t=106)** Let's say a user comes to and says, [[Windows]] won't start.
 >
 > **[1:50](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/problem-statements?u=76281980&t=110)** This time using our clarify and verify skills along with asking what object and what deviation.
 >
@@ -1251,13 +1237,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Microsoft Office|Office]] (1), teams (1), [[Windows]] (1), management (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Windows]] (1)
 > **CLI Commands:** make (1)
 > **Versions:** 192.168.1 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data gathering
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/data-gathering?u=76281980)
+#### [Data gathering](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/data-gathering?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1313,13 +1298,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), management (1)
 > **CLI Commands:** find (2), make (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identifying and testing possible causes
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/identifying-and-testing-possible-causes?u=76281980)
+#### [Identifying and testing possible causes](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/identifying-and-testing-possible-causes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1327,7 +1310,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/identifying-and-testing-possible-causes?u=76281980&t=6)** You used the 5W+2H method to get data such as what was affected, where this occurred, when it happened, who was involved, why the situation was handled the way it was, as well as statistical data, such as how much impact and how often this was occurring.
 >
-> **[0:23](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/identifying-and-testing-possible-causes?u=76281980&t=23)** It's now time for you to take all this information and let your brain's creative side mesh with the logical side and let's come up with some ideas.
+> **[0:23](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/identifying-and-testing-possible-causes?u=76281980&t=23)** It's now time for you to take all this information and let your brain's creative side [[Mesh]] with the logical side and let's come up with some ideas.
 >
 > **[0:31](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/identifying-and-testing-possible-causes?u=76281980&t=31)** It's important that we start idea generation with the right people in the room.
 >
@@ -1349,13 +1332,13 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/identifying-and-testing-possible-causes?u=76281980&t=97)** As these ideas are stated, format them into a list.
 >
-> **[1:40](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/identifying-and-testing-possible-causes?u=76281980&t=100)** It's best to make sure the ideas are specific, so reject one word and vague ideas such as network issue, and instead ask the team to fully explain their line of thinking.
+> **[1:40](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/identifying-and-testing-possible-causes?u=76281980&t=100)** It's best to make sure the ideas are specific, so reject one [[Microsoft Word|word]] and vague ideas such as network issue, and instead ask the team to fully explain their line of thinking.
 >
 > **[1:51](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/identifying-and-testing-possible-causes?u=76281980&t=111)** This will allow you to record ideas that are fully developed, such as network latency is too high.
 >
 > **[1:57](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/identifying-and-testing-possible-causes?u=76281980&t=117)** This subtle change will benefit you when it comes to evaluating multiple ideas that have similar roots.
 >
-> **[2:03](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/identifying-and-testing-possible-causes?u=76281980&t=123)** For instance, now we can evaluate network security is rejecting connections, and network firewall is overloaded separately from network latency is too high.
+> **[2:03](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/identifying-and-testing-possible-causes?u=76281980&t=123)** For instance, now we can evaluate [[Network Security]] is rejecting connections, and network firewall is overloaded separately from network latency is too high.
 >
 > **[2:13](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/identifying-and-testing-possible-causes?u=76281980&t=133)** At the end of this step, you should have a list of possible causes developed from the collective knowledge and experience of those in the room.
 >
@@ -1409,7 +1392,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Network Security]] (2), [[Mesh]] (1), teams (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Network Security]] (2), [[Mesh]] (1), [[Microsoft Word|Word]] (1)
 > **Analogies:** such as (6), for instance (1)
 > **CLI Commands:** make (3)
 > **Best Practices:** it's best to (1), make sure to (1)
@@ -1418,12 +1401,11 @@ created: 2026-05-02
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Decision-making
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/decision-making?u=76281980)
+#### [Decision-making](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/decision-making?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/decision-making?u=76281980&t=0)** - [Instructor] Ah, decision-making.
+> **[0:00](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/decision-making?u=76281980&t=0)** - [Instructor] Ah, [[Decision-Making]].
 >
 > **[0:02](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/decision-making?u=76281980&t=2)** My favorite process.
 >
@@ -1469,7 +1451,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/decision-making?u=76281980&t=118)** Third, we want to analyze available options.
 >
-> **[2:01](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/decision-making?u=76281980&t=121)** So I might do some initial research and arrive at Salesforce, ServiceNow, JIRA and Zendesk as my ticket candidates.
+> **[2:01](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/decision-making?u=76281980&t=121)** So I might do some initial research and arrive at Salesforce, ServiceNow, [[Jira]] and Zendesk as my ticket candidates.
 >
 > **[2:08](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/decision-making?u=76281980&t=128)** For each of these, I would want to specifically research and document the ability each tool has to meet my stated needs identified in step two.
 >
@@ -1513,15 +1495,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Decision-Making]] (1), product (1), [[Jira]] (1), database (1), data (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1), [[Jira]] (1)
 > **CLI Commands:** make (4)
 > **Analogies:** such as (1), for instance (1), for example (1)
 > **Env Vars:** jira (1)
 > **Tools:** jira (1)
 > **Speakers:** - [instructor] (1)
 
-#### Risk management
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/risk-management?u=76281980)
+#### [Risk management](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/risk-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1577,7 +1558,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/risk-management?u=76281980&t=131)** For example, what should I do if I put the wrong server model in?
 >
-> **[2:15](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/risk-management?u=76281980&t=135)** When thinking in this is document the different situations, levels of impact, and most importantly, how you should ideally react if placed in that situation in order to limit its impact.
+> **[2:15](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/risk-management?u=76281980&t=135)** When thinking in this is document the different situations, levels of impact, and most importantly, how you should ideally [[React.js|react]] if placed in that situation in order to limit its impact.
 >
 > **[2:27](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/risk-management?u=76281980&t=147)** In my example, to limit damage after installing an improper model I would immediately let my supervisor know and replace the improper model with the old model until I can get a new one.
 >
@@ -1621,7 +1602,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (4), next (2), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **CLI Commands:** make (4), rails (1)
 > **Prerequisites:** install (3), required to (1)
 > **Env Vars:** capa (2), a38d (1)
@@ -1629,12 +1610,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Action items and tasks
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/action-items-and-tasks?u=76281980)
+#### [Action items and tasks](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/action-items-and-tasks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/action-items-and-tasks?u=76281980&t=0)** - [Man] At the end of the problem management workflow, it's time to start the real work, and your team should have a series of action items referred to as problem tasks to implement that will help remediate the issue, prevent future occurrence and lower your incident volume.
+> **[0:00](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/action-items-and-tasks?u=76281980&t=0)** - [Man] At the end of the [[Problem Management]] workflow, it's time to start the real work, and your team should have a series of action items referred to as problem tasks to implement that will help remediate the issue, prevent future occurrence and lower your incident volume.
 >
 > **[0:13](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/action-items-and-tasks?u=76281980&t=13)** We'd look at the key components to problem tasks and suggest ways that you can stay organized when the pressure is still on.
 >
@@ -1650,7 +1630,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/action-items-and-tasks?u=76281980&t=52)** Those need to be scheduled, protected, followed up on, and at certain intervals known as milestones, reported back to management.
 >
-> **[0:59](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/action-items-and-tasks?u=76281980&t=59)** Tools such as ServiceNow, Remedy, Salesforce and Jira can help document these tasks, assign them to individuals or teams, and follow-up to ensure that they're completed.
+> **[0:59](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/action-items-and-tasks?u=76281980&t=59)** Tools such as ServiceNow, Remedy, Salesforce and [[Jira]] can help document these tasks, assign them to individuals or teams, and follow-up to ensure that they're completed.
 >
 > **[1:10](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/action-items-and-tasks?u=76281980&t=70)** To help visually understand how far along a task is completed, most of these tools also feature a state model that assigns a category to the task indicating its completion level.
 >
@@ -1676,7 +1656,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (3), [[Problem Management]] (1), [[Jira]] (1), teams (1), feature (1)
+> **Frameworks & Libraries:** [[Problem Management]] (1), [[Jira]] (1)
 > **Analogies:** imagine (1), such as (1)
 > **Tools:** jira (1)
 > **Definitions:** known as (1)
@@ -1688,8 +1668,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Problem clarification tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/problem-clarification-tools?u=76281980)
+#### [Problem clarification tools](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/problem-clarification-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1748,8 +1727,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prioritization tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/prioritization-tools?u=76281980)
+#### [Prioritization tools](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/prioritization-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1805,7 +1783,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/prioritization-tools?u=76281980&t=141)** When you're done, your list may have duplicate numbers, but they're all ordered in a manner in which they should be tackled.
 >
-> **[2:27](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/prioritization-tools?u=76281980&t=147)** This method works great if you're using a Kanban system or an app like Trello, Jira, or Microsoft Teams.
+> **[2:27](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/prioritization-tools?u=76281980&t=147)** This method works great if you're using a Kanban system or an app like [[Trello]], [[Jira]], or [[Microsoft Teams]].
 >
 > **[2:35](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/prioritization-tools?u=76281980&t=155)** Pain value analysis is a technique that gives you a broad view of impact in a manner that you can easily report on and sway opinion into action.
 >
@@ -1815,7 +1793,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/prioritization-tools?u=76281980&t=176)** However, if this is not available, you can set up a small chart and begin tracking categories and information as they happen in real time until a clear pattern emerges.
 >
-> **[3:06](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/prioritization-tools?u=76281980&t=186)** Typically, the pain value analysis will focus on items that cause discomfort to users, statistics about things like downtime, including both length and time period, cost to the business, and number of users impacted.
+> **[3:06](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/prioritization-tools?u=76281980&t=186)** Typically, the pain value analysis will focus on items that cause discomfort to users, [[Statistics]] about things like downtime, including both length and time period, cost to the business, and number of users impacted.
 >
 > **[3:19](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/prioritization-tools?u=76281980&t=199)** The use of any of these variables to create a custom pain formula will then result in the calculation that can help us focus on the type of incidents to go after first.
 >
@@ -1835,7 +1813,7 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/prioritization-tools?u=76281980&t=249)** For example, most likely, 20% of your clients contribute to about 80% of your revenue.
 >
-> **[4:16](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/prioritization-tools?u=76281980&t=256)** The goal of performing this analysis is so that you can focus your problem management efforts on the 20% of most critical incidents that impact customer experience.
+> **[4:16](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/prioritization-tools?u=76281980&t=256)** The goal of performing this analysis is so that you can focus your [[Problem Management]] efforts on the 20% of most critical incidents that impact customer experience.
 >
 > **[4:25](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/prioritization-tools?u=76281980&t=265)** The steps to performing this analysis are straightforward.
 >
@@ -1851,11 +1829,11 @@ created: 2026-05-02
 >
 > **[4:52](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/prioritization-tools?u=76281980&t=292)** In this example, I've charted the amount of downtime in minutes caused in the last three months by my team.
 >
-> **[4:59](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/prioritization-tools?u=76281980&t=299)** My categories include the names of the team, like the mail team, active directory team, storage team, database team, network, and a host of others.
+> **[4:59](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/prioritization-tools?u=76281980&t=299)** My categories include the names of the team, like the mail team, [[Active Directory]] team, storage team, database team, network, and a host of others.
 >
 > **[5:07](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/prioritization-tools?u=76281980&t=307)** But I could've also collected information like specific types of user complaints or even common symptoms.
 >
-> **[5:13](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/prioritization-tools?u=76281980&t=313)** Once I get this data in a spreadsheet, Excel has a handy Pareto tool chart that will produce the chart you see here.
+> **[5:13](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/prioritization-tools?u=76281980&t=313)** Once I get this data in a spreadsheet, [[Microsoft Excel|Excel]] has a handy Pareto tool chart that will produce the chart you see here.
 >
 > **[5:18](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/prioritization-tools?u=76281980&t=318)** To use this chart, I follow the 80% line over to where it intersects the curve and then draw a line down.
 >
@@ -1901,7 +1879,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Trello]] (1), [[Jira]] (1), [[Microsoft Teams]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Trello]] (1), [[Jira]] (1), [[Microsoft Teams]] (1), [[Statistics]] (1), [[Problem Management]] (1)
 > **Definitions:** is a  (3), is called (1), known as (1)
 > **Analogies:** for example (1), for instance (1), imagine (1)
 > **CLI Commands:** make (2)
@@ -1910,8 +1888,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Prerequisites:** set up (1)
 
-#### Possible cause identification
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/possible-cause-identification?u=76281980)
+#### [Possible cause identification](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/possible-cause-identification?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1949,11 +1926,11 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/possible-cause-identification?u=76281980&t=99)** And we search each of these distinctions for changes.
 >
-> **[1:42](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/possible-cause-identification?u=76281980&t=102)** The changes we find around these distinctions then forms the basis for any ideas that we have.
+> **[1:42](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/possible-cause-identification?u=76281980&t=102)** The changes we find around these distinctions then [[Forms]] the basis for any ideas that we have.
 >
 > **[1:48](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/possible-cause-identification?u=76281980&t=108)** For instance, let's say we have two machines and they can't seem to initiate file sharing.
 >
-> **[1:53](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/possible-cause-identification?u=76281980&t=113)** The difference between the machine having the issue and the machine not having the issue is that one of them is running Windows 10.
+> **[1:53](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/possible-cause-identification?u=76281980&t=113)** The difference between the machine having the issue and the machine not having the issue is that one of them is running [[Windows 10]].
 >
 > **[1:59](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/possible-cause-identification?u=76281980&t=119)** We ask ourselves, what's changed around that distinction, what's changed around Windows 10 with a specific eye towards file sharing?
 >
@@ -1983,7 +1960,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/possible-cause-identification?u=76281980&t=212)** In my example, we thought of many things.
 >
-> **[3:35](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/possible-cause-identification?u=76281980&t=215)** This included things like the logging software could be incorrect, network cables could be damaged, configuration reset, the network load not properly balanced, more users accessing the system, and even a hardware failure.
+> **[3:35](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/possible-cause-identification?u=76281980&t=215)** This included things like the logging software could be incorrect, network cables could be damaged, configuration reset, the network load not properly balanced, more users accessing the system, and even a [[Hardware]] failure.
 >
 > **[3:48](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/possible-cause-identification?u=76281980&t=228)** Notice how all these possible causes can neatly become organized in these categories.
 >
@@ -2019,15 +1996,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows 10]] (2), feature (1), [[Search]] (1), [[Forms]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Windows 10]] (2), [[Forms]] (1), [[Hardware]] (1)
 > **Definitions:** known as (3), is a  (1), is an  (1)
 > **Analogies:** for instance (2), for example (1), picture (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** coming up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cause mapping and avoidance tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/cause-mapping-and-avoidance-tools?u=76281980)
+#### [Cause mapping and avoidance tools](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/cause-mapping-and-avoidance-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2067,7 +2043,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/cause-mapping-and-avoidance-tools?u=76281980&t=116)** When searching for failure modes, both potential sources and actual historical sources are documented.
 >
-> **[2:02](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/cause-mapping-and-avoidance-tools?u=76281980&t=122)** Probability, severity, ability for detection, dormancy and other factors for the failure mode are also noted.
+> **[2:02](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/cause-mapping-and-avoidance-tools?u=76281980&t=122)** [[Probability]], severity, ability for detection, dormancy and other factors for the failure mode are also noted.
 >
 > **[2:11](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/cause-mapping-and-avoidance-tools?u=76281980&t=131)** The Effect Analysis portion of the tool, documents the consequences of each failure, in time, safety, cost and impact the end user.
 >
@@ -2079,15 +2055,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Probability]] (1)
 > **Definitions:** is a  (2), known as (1), defined as (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** fmea (1)
 > **Analogies:** such as (1)
 > **Speakers:** - visually (1)
 
-#### Investigation frameworks
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/investigation-frameworks?u=76281980)
+#### [Investigation frameworks](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/investigation-frameworks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2135,7 +2110,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/investigation-frameworks?u=76281980&t=148)** The process also includes steps to both create and congratulate your team.
 >
-> **[2:32](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/investigation-frameworks?u=76281980&t=152)** Six Sigma, this process uses the widely popular DMAIC framework of continuous improvement to define, measure, analyze, improve, and control projects.
+> **[2:32](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/investigation-frameworks?u=76281980&t=152)** [[Six Sigma]], this process uses the widely popular DMAIC framework of continuous improvement to define, measure, analyze, improve, and control projects.
 >
 > **[2:44](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/investigation-frameworks?u=76281980&t=164)** The primary focus is continuous improvement and it shines when trying to take a system from good to great.
 >
@@ -2143,7 +2118,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Six Sigma]] (2), strengths (1), data (1)
+> **Frameworks & Libraries:** [[Six Sigma]] (2)
 > **Definitions:** is a  (5)
 > **Env Vars:** pdca (1), dmaic (1)
 > **CLI Commands:** find (1)
@@ -2154,8 +2129,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2171,11 +2145,11 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/next-steps?u=76281980&t=29)** Next, improve your knowledge with other process improvement tools and frameworks.
 >
-> **[0:33](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/next-steps?u=76281980&t=33)** My favorites include Six Sigma, Lean and Kepner-Tregoe.
+> **[0:33](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/next-steps?u=76281980&t=33)** My favorites include [[Six Sigma]], Lean and Kepner-Tregoe.
 >
 > **[0:37](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/next-steps?u=76281980&t=37)** Root cause without execution will not lead to a reduction in incidents.
 >
-> **[0:41](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/next-steps?u=76281980&t=41)** So improving your skills in project management, data analysis, SQL and perhaps a scripting language will also be invaluable to your career.
+> **[0:41](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/next-steps?u=76281980&t=41)** So improving your skills in project management, data analysis, [[SQL]] and perhaps a scripting language will also be invaluable to your career.
 >
 > **[0:50](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/next-steps?u=76281980&t=50)** Attending conferences, hosted by major vendors, such as ServiceNow and Salesforce, also give you great insights into what tools and vendor solutions are out there to improve your discovery, organization and reuse of knowledge.
 >
@@ -2185,7 +2159,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/next-steps?u=76281980&t=71)** It's these small things that brighten my day and put a smile on my face.
 >
-> **[1:14](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/next-steps?u=76281980&t=74)** And finally, let's connect on LinkedIn.
+> **[1:14](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/next-steps?u=76281980&t=74)** And finally, let's connect on [[LinkedIn]].
 >
 > **[1:17](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/next-steps?u=76281980&t=77)** Let me know about your journey, share with me your success and let's keep in touch.
 >
@@ -2195,7 +2169,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), data (2), [[Six Sigma]] (1), management (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Six Sigma]] (1), [[SQL]] (1), [[LinkedIn]] (1)
 > **Analogies:** such as (2)
 > **Env Vars:** sql (1)
 > **Speakers:** - [narrator] (1)

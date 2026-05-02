@@ -79,14 +79,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The best dynamic Python data structure: Linked Lists
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/the-best-dynamic-python-data-structure-linked-lists?u=76281980)
+#### [The best dynamic Python data structure: Linked Lists](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/the-best-dynamic-python-data-structure-linked-lists?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/the-best-dynamic-python-data-structure-linked-lists?u=76281980&t=0)** - Do you like linked lists or looking to learn more about linked lists?
 >
-> **[0:03](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/the-best-dynamic-python-data-structure-linked-lists?u=76281980&t=3)** Well, you'll like linked lists on LinkedIn Learning.
+> **[0:03](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/the-best-dynamic-python-data-structure-linked-lists?u=76281980&t=3)** Well, you'll like linked lists on [[LinkedIn]] Learning.
 >
 > **[0:05](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/the-best-dynamic-python-data-structure-linked-lists?u=76281980&t=5)** Linked lists have everything: nodes, pointers, data, insertion, deletion, searching, and traversals.
 >
@@ -94,11 +93,11 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/the-best-dynamic-python-data-structure-linked-lists?u=76281980&t=14)** We even have the rare orthogonal linked list.
 >
-> **[0:17](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/the-best-dynamic-python-data-structure-linked-lists?u=76281980&t=17)** Hi, I'm Ryan Mitchell, author of "Web Scraping with Python" and lots of other Python things.
+> **[0:17](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/the-best-dynamic-python-data-structure-linked-lists?u=76281980&t=17)** Hi, I'm Ryan Mitchell, author of "Web Scraping with [[Python (Programming Language)|Python]]" and lots of other Python things.
 >
 > **[0:23](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/the-best-dynamic-python-data-structure-linked-lists?u=76281980&t=23)** I'm excited to introduce you to linked Lists.
 >
-> **[0:26](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/the-best-dynamic-python-data-structure-linked-lists?u=76281980&t=26)** They're one of my favorite dynamic data structures.
+> **[0:26](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/the-best-dynamic-python-data-structure-linked-lists?u=76281980&t=26)** They're one of my favorite dynamic [[Data Structures]].
 >
 > **[0:28](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/the-best-dynamic-python-data-structure-linked-lists?u=76281980&t=28)** By the end of this course, you'll get hands-on experience working with linked lists through code samples and challenges.
 >
@@ -108,12 +107,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Python (Programming Language)|Python]] (2), [[LinkedIn]] (1), web (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[LinkedIn]] (1), [[Data Structures]] (1)
 > **CLI Commands:** make (2), python (2)
 > **Speakers:** - do (1)
 
-#### What You Should Know
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/what-you-should-know?u=76281980)
+#### [What You Should Know](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -121,7 +119,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/what-you-should-know?u=76281980&t=7)** You are awesome, you are fantastic, but this is just not the first step for you.
 >
-> **[0:13](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/what-you-should-know?u=76281980&t=13)** Go check out an introductory Python course first, and I promise I will be here when you get back.
+> **[0:13](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/what-you-should-know?u=76281980&t=13)** Go check out an introductory [[Python (Programming Language)|Python]] course first, and I promise I will be here when you get back.
 >
 > **[0:21](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/what-you-should-know?u=76281980&t=21)** Okay, if you're still here, here's what you're going to want to know or brush up on.
 >
@@ -157,14 +155,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[Programming]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8)
 > **CLI Commands:** python (8), find (1), make (1)
 > **Cross-References:** next video (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - if (1)
 
-#### Using CoderPad
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/using-coderpad?u=76281980)
+#### [Using CoderPad](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/using-coderpad?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -172,7 +169,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/using-coderpad?u=76281980&t=7)** To get the most out of this course, you're going to want to follow along at home as well.
 >
-> **[0:11](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/using-coderpad?u=76281980&t=11)** I recommend that you download the course exercise files, available through a direct download link on this page, or through the course GitHub page, and the link to that is on the course site as well.
+> **[0:11](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/using-coderpad?u=76281980&t=11)** I recommend that you download the course exercise files, available through a direct download link on this page, or through the course [[GitHub]] page, and the link to that is on the course site as well.
 >
 > **[0:21](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/using-coderpad?u=76281980&t=21)** The course exercise files contain begin states and end states for each piece of code in each video in the course.
 >
@@ -180,13 +177,13 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/using-coderpad?u=76281980&t=33)** That way, you can write the code yourself or just play around with it and run what I've already written as you see fit.
 >
-> **[0:39](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/using-coderpad?u=76281980&t=39)** There are also three challenges in this course, and each challenge uses embedded software called CoderPad in order to provide you with an in-browser programming experience.
+> **[0:39](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/using-coderpad?u=76281980&t=39)** There are also three challenges in this course, and each challenge uses [[Embedded Software]] called CoderPad in order to provide you with an in-browser programming experience.
 >
 > **[0:48](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/using-coderpad?u=76281980&t=48)** Simply click over to the challenge, read the instructions, type your solution, and see how you did.
 >
 > **[0:54](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/using-coderpad?u=76281980&t=54)** I recommend that you use CoderPad on a desktop browser.
 >
-> **[0:57](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/using-coderpad?u=76281980&t=57)** You can use the LinkedIn Learning mobile app and write the code on your phone with your thumbs, but why would you do that to yourself?
+> **[0:57](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/using-coderpad?u=76281980&t=57)** You can use the [[LinkedIn]] Learning mobile app and write the code on your phone with your thumbs, but why would you do that to yourself?
 >
 > **[1:05](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/using-coderpad?u=76281980&t=65)** There are four screens in CoderPad.
 >
@@ -220,7 +217,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (1), [[Embedded Software]] (1), [[Programming]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[Embedded Software]] (1), [[LinkedIn]] (1)
 > **Exercise Files:** exercise files (2), download the (1)
 > **CLI Commands:** make (1)
 > **Tools:** github (1)
@@ -232,12 +229,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Lists, Linked Lists, and Memory
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/lists-linked-lists-and-memory?u=76281980)
+#### [Lists, Linked Lists, and Memory](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/lists-linked-lists-and-memory?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/lists-linked-lists-and-memory?u=76281980&t=0)** - [Narrator] The Python list, despite its lowercase spelling in Python, this is actually a class, the list class.
+> **[0:00](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/lists-linked-lists-and-memory?u=76281980&t=0)** - [Narrator] The [[Python (Programming Language)|Python]] list, despite its lowercase spelling in Python, this is actually a class, the list class.
 >
 > **[0:08](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/lists-linked-lists-and-memory?u=76281980&t=8)** Each list that we create is an instance of the list class, it's a list object.
 >
@@ -277,7 +273,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/lists-linked-lists-and-memory?u=76281980&t=101)** Now, some programming languages get around this problem by forcing you to declare the maximum number of things your list will hold upfront.
 >
-> **[1:47](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/lists-linked-lists-and-memory?u=76281980&t=107)** For example, this array declaration in Java.
+> **[1:47](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/lists-linked-lists-and-memory?u=76281980&t=107)** For example, this array declaration in [[Java]].
 >
 > **[1:50](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/lists-linked-lists-and-memory?u=76281980&t=110)** This is declaring a new integer array, the Java version of a list, that is 20 integer long.
 >
@@ -323,15 +319,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), next (3), [[Java]] (2), data (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Java]] (2)
 > **CLI Commands:** python (6), find (2), node (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** for example (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [narrator] (1)
 
-#### Practical Applications of Linked Lists
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/practical-applications-of-linked-lists?u=76281980)
+#### [Practical Applications of Linked Lists](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/practical-applications-of-linked-lists?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -379,15 +374,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (2), career (1), node (1)
 > **CLI Commands:** node (1)
 > **Cross-References:** coming up (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - because (1)
 
-#### Building a Linked List in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/building-a-linked-list-in-python?u=76281980)
+#### [Building a Linked List in Python](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/building-a-linked-list-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -429,7 +422,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/building-a-linked-list-in-python?u=76281980&t=70)** So let's add some, let's add an add function.
 >
-> **[1:14](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/building-a-linked-list-in-python?u=76281980&t=74)** Well maybe we'll call it an append function, that sounds a little more Python-ic.
+> **[1:14](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/building-a-linked-list-in-python?u=76281980&t=74)** Well maybe we'll call it an append function, that sounds a little more [[Python (Programming Language)|Python]]-ic.
 >
 > **[1:18](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/building-a-linked-list-in-python?u=76281980&t=78)** And what would also be nice is if we had some sort of wrapper around our node class that represented the list itself, a collection of nodes.
 >
@@ -437,7 +430,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/building-a-linked-list-in-python?u=76281980&t=90)** This is where my linked list starts, this is where it ends.
 >
-> **[1:33](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/building-a-linked-list-in-python?u=76281980&t=93)** Something that can maybe hold metadata about our list, like its length.
+> **[1:33](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/building-a-linked-list-in-python?u=76281980&t=93)** Something that can maybe hold [[Metadata]] about our list, like its length.
 >
 > **[1:36](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/building-a-linked-list-in-python?u=76281980&t=96)** So I'm going to make a class called LL, which stands for linked list.
 >
@@ -557,14 +550,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (24), next (19), data (8), [[Python (Programming Language)|Python]] (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Metadata]] (1)
 > **CLI Commands:** node (24), make (10), python (1), find (1)
 > **Definitions:** is a  (6)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Finding a middle ground
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/solution-finding-a-middle-ground?u=76281980)
+#### [Solution: Finding a middle ground](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/solution-finding-a-middle-ground?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -616,11 +608,11 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/solution-finding-a-middle-ground?u=76281980&t=110)** This approach of using two different pointers and returning the data from one pointer while checking the conditions of the second pointer can be used for all sorts of tricky interview questions.
 >
-> **[1:59](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/solution-finding-a-middle-ground?u=76281980&t=119)** So if you're in a job searching scenario, I do recommend you study it.
+> **[1:59](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/solution-finding-a-middle-ground?u=76281980&t=119)** So if you're in a [[Job Searching]] scenario, I do recommend you study it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), data (3), node (1), [[Job Searching]] (1)
+> **Frameworks & Libraries:** [[Job Searching]] (1)
 > **CLI Commands:** node (1)
 > **Code Identifiers:** get_midpoint (1)
 > **Definitions:** is a  (1)
@@ -632,12 +624,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Searching
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/searching?u=76281980)
+#### [Searching](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/searching?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/searching?u=76281980&t=0)** - [Instructor] Earlier I discussed some pros and cons of linked lists versus Python lists, arrays, tuples, et cetera.
+> **[0:00](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/searching?u=76281980&t=0)** - [Instructor] Earlier I discussed some pros and cons of linked lists versus [[Python (Programming Language)|Python]] lists, arrays, tuples, et cetera.
 >
 > **[0:06](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/searching?u=76281980&t=6)** Well, one thing is for sure, in an unsorted linked list, searching takes the same time as in any other unsorted linear data structure.
 >
@@ -675,7 +666,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/searching?u=76281980&t=98)** Great, it found it.
 >
-> **[1:41](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/searching?u=76281980&t=101)** So there's another way to write the search method that I want to talk about because it's a topic that's actually relevant to the whole rest of the course, and that is recursion.
+> **[1:41](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/searching?u=76281980&t=101)** So there's another way to write the search method that I want to talk about because it's a topic that's actually relevant to the whole [[Representational State Transfer (REST)|rest]] of the course, and that is recursion.
 >
 > **[1:50](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/searching?u=76281980&t=110)** So we can write another search method in our LL class.
 >
@@ -753,19 +744,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Search]] (12), node (8), next (7), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** node (8), python (2), find (1), make (1)
 > **Definitions:** is a  (2), means that (1)
 > **Code Identifiers:** additional_stuff (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deleting Nodes
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/deleting-nodes?u=76281980)
+#### [Deleting Nodes](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/deleting-nodes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/deleting-nodes?u=76281980&t=0)** - [Instructor] Linked lists, like many data structures, are extremely forgiving.
+> **[0:00](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/deleting-nodes?u=76281980&t=0)** - [Instructor] Linked lists, like many [[Data Structures]], are extremely forgiving.
 >
 > **[0:04](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/deleting-nodes?u=76281980&t=4)** Don't like a node? Just delete it.
 >
@@ -785,7 +775,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/deleting-nodes?u=76281980&t=57)** So here we're actually replacing the head itself with the next value.
 >
-> **[1:02](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/deleting-nodes?u=76281980&t=62)** The second value in the list now becomes the first value, there are no longer any references to the old head node, it goes flying off into space and hopefully it gets picked up by the Python garbage collector at some point.
+> **[1:02](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/deleting-nodes?u=76281980&t=62)** The second value in the list now becomes the first value, there are no longer any references to the old head node, it goes flying off into space and hopefully it gets picked up by the [[Python (Programming Language)|Python]] garbage collector at some point.
 >
 > **[1:14](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/deleting-nodes?u=76281980&t=74)** Now that all of the edge cases are taken care of, we can really start cruising.
 >
@@ -835,13 +825,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (18), next (15), data (13), [[Python (Programming Language)|Python]] (2), application (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Data Structures]] (1)
 > **CLI Commands:** node (18), find (4), python (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Inserting Nodes
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/inserting-nodes?u=76281980)
+#### [Inserting Nodes](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/inserting-nodes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -885,7 +874,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/inserting-nodes?u=76281980&t=127)** We check to see if the head exists and then we check to see if we need to replace the head.
 >
-> **[2:12](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/inserting-nodes?u=76281980&t=132)** And now as you might guess, we're going to just traverse through the list and handle the rest of the cases.
+> **[2:12](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/inserting-nodes?u=76281980&t=132)** And now as you might guess, we're going to just traverse through the list and handle the [[Representational State Transfer (REST)|rest]] of the cases.
 >
 > **[2:19](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/inserting-nodes?u=76281980&t=139)** All right, so current = self.head while current.next, do something and then keep traversing, current = current.next.
 >
@@ -933,7 +922,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), next (13), node (9), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** node (9), make (3)
 > **Code Identifiers:** new_node (5)
 > **Definitions:** means that (2), is a  (2)
@@ -941,8 +930,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Removing duplicates
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/solution-removing-duplicates?u=76281980)
+#### [Solution: Removing duplicates](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/solution-removing-duplicates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1010,7 +998,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (14), node (12), data (5)
 > **CLI Commands:** node (12)
 > **Cross-References:** in the next (3)
 > **Definitions:** is a  (2)
@@ -1023,8 +1010,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Circular Lists
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/circular-lists?u=76281980)
+#### [Circular Lists](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/circular-lists?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1174,7 +1160,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (12), node (8), data (5), game (2)
 > **CLI Commands:** node (8), make (6), find (1)
 > **Env Vars:** cll (4)
 > **Analogies:** for example (2), just like (1), such as (1)
@@ -1182,9 +1167,9 @@ created: 2026-05-02
 > **Definitions:** stands for (1), is a  (1)
 > **UI Navigation:** go to (1)
 > **Warnings:** note that (1)
+> **Speakers:** - [instructor] (1)
 
-#### Doubly Linked Lists
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/doubly-linked-lists?u=76281980)
+#### [Doubly Linked Lists](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/doubly-linked-lists?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1194,7 +1179,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/doubly-linked-lists?u=76281980&t=10)** The doubly linked list contains both next and previous pointers in order to let you traverse it both ways.
 >
-> **[0:16](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/doubly-linked-lists?u=76281980&t=16)** This obviously makes it easier to move back and forth and also to implement certain algorithms.
+> **[0:16](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/doubly-linked-lists?u=76281980&t=16)** This obviously makes it easier to move back and forth and also to implement certain [[Algorithms]].
 >
 > **[0:22](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/doubly-linked-lists?u=76281980&t=22)** For example, to delete a node in a singly linked list, we need to keep a reference to the previous node that linked to the node we wanted to delete.
 >
@@ -1220,7 +1205,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/doubly-linked-lists?u=76281980&t=91)** So passing some new data, make it a new node, and we need to make sure we use the DNode class for this.
 >
-> **[1:39](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/doubly-linked-lists?u=76281980&t=99)** Okay, and the rest of this is all going to seem pretty familiar.
+> **[1:39](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/doubly-linked-lists?u=76281980&t=99)** Okay, and the [[Representational State Transfer (REST)|rest]] of this is all going to seem pretty familiar.
 >
 > **[1:43](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/doubly-linked-lists?u=76281980&t=103)** So if self.head is none, self.head = new_node, and we're done.
 >
@@ -1304,7 +1289,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (20), next (12), data (4), [[Search]] (3), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** node (20), make (6), find (1)
 > **Code Identifiers:** new_node (4)
 > **Env Vars:** dll (2)
@@ -1312,8 +1297,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Orthogonal Linked Lists
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/orthogonal-linked-lists?u=76281980)
+#### [Orthogonal Linked Lists](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/orthogonal-linked-lists?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1337,7 +1321,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/orthogonal-linked-lists?u=76281980&t=74)** The basic strategy we're going to use is this.
 >
-> **[1:17](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/orthogonal-linked-lists?u=76281980&t=77)** Store two head lists, regular Python lists called row head and column head.
+> **[1:17](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/orthogonal-linked-lists?u=76281980&t=77)** Store two head lists, regular [[Python (Programming Language)|Python]] lists called row head and column head.
 >
 > **[1:24](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/orthogonal-linked-lists?u=76281980&t=84)** Now, you could make these head lists linked lists if you want, but they're going to remain the same size.
 >
@@ -1379,7 +1363,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/orthogonal-linked-lists?u=76281980&t=182)** In the science of linked lists, these empty nodes or dummy nodes are called sentinel nodes.
 >
-> **[3:08](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/orthogonal-linked-lists?u=76281980&t=188)** You don't touch them, but they hold your place and can make certain algorithms easier.
+> **[3:08](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/orthogonal-linked-lists?u=76281980&t=188)** You don't touch them, but they hold your place and can make certain [[Algorithms]] easier.
 >
 > **[3:13](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/orthogonal-linked-lists?u=76281980&t=193)** Then each node is slotted into its correct row and column with the pointers connected to any other non empty values in that row or column that might follow it.
 >
@@ -1461,7 +1445,7 @@ created: 2026-05-02
 >
 > **[7:34](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/orthogonal-linked-lists?u=76281980&t=454)** So current is equal to current.right?
 >
-> **[7:38](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/orthogonal-linked-lists?u=76281980&t=458)** And we just replace the word next with the word right, and then we should be good.
+> **[7:38](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/orthogonal-linked-lists?u=76281980&t=458)** And we just replace the [[Microsoft Word|word]] next with the word right, and then we should be good.
 >
 > **[7:44](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/orthogonal-linked-lists?u=76281980&t=464)** Now to do the insertion into the column, I'm going to just do the exact same thing.
 >
@@ -1505,7 +1489,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), node (9), [[Microsoft Word|Word]] (6), next (5), [[Algorithms]] (3)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), [[Algorithms]] (3), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** node (9), make (6), python (1)
 > **Code Identifiers:** row_head (2), new_node (2), col_head (1)
 > **Env Vars:** oll (1), ascii (1)
@@ -1513,12 +1497,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Fixing a doubly-linked list
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/solution-fixing-a-doubly-linked-list?u=76281980)
+#### [Solution: Fixing a doubly-linked list](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/solution-fixing-a-doubly-linked-list?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/solution-fixing-a-doubly-linked-list?u=76281980&t=0)** - [Instructor] These corrupted lists are no match for our Python skills.
+> **[0:00](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/solution-fixing-a-doubly-linked-list?u=76281980&t=0)** - [Instructor] These corrupted lists are no match for our [[Python (Programming Language)|Python]] skills.
 >
 > **[0:09](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/solution-fixing-a-doubly-linked-list?u=76281980&t=9)** With enough time and fiddling around with them, at least.
 >
@@ -1546,7 +1529,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/solution-fixing-a-doubly-linked-list?u=76281980&t=79)** And then I'm going to get a list of all the nodes going in the backwards direction.
 >
-> **[1:24](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/solution-fixing-a-doubly-linked-list?u=76281980&t=84)** So, when I wrote this, all I had to do was copy and paste the nodes_forward code, change the word forward to the word backward, the word head to the word tail, and the word next to the word previous and done.
+> **[1:24](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/solution-fixing-a-doubly-linked-list?u=76281980&t=84)** So, when I wrote this, all I had to do was copy and paste the nodes_forward code, change the [[Microsoft Word|word]] forward to the word backward, the word head to the word tail, and the word next to the word previous and done.
 >
 > **[1:35](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/solution-fixing-a-doubly-linked-list?u=76281980&t=95)** So it was really easy.
 >
@@ -1588,7 +1571,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), node (5), next (4), [[Python (Programming Language)|Python]] (3), data (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), [[Python (Programming Language)|Python]] (3)
 > **CLI Commands:** node (5), python (3)
 > **Code Identifiers:** nodes_forward (3), nodes_backward (2), all_nodes (2), list_fixer (1)
 > **Speakers:** - [instructor] (1)
@@ -1599,8 +1582,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1610,13 +1592,13 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/next-steps?u=76281980&t=9)** The linked list is not just a data structure.
 >
-> **[0:11](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/next-steps?u=76281980&t=11)** It's a programming concept that you'll find in many algorithms you learn and problems that you encounter throughout your career, not just in the job interview.
+> **[0:11](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/next-steps?u=76281980&t=11)** It's a programming concept that you'll find in many [[Algorithms]] you learn and problems that you encounter throughout your career, not just in the job interview.
 >
-> **[0:19](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/next-steps?u=76281980&t=19)** So if you're looking for another data structure that fills the voids in your life, I'd also suggest my course about trees in Python.
+> **[0:19](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/next-steps?u=76281980&t=19)** So if you're looking for another data structure that fills the voids in your life, I'd also suggest my course about trees in [[Python (Programming Language)|Python]].
 >
 > **[0:27](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/next-steps?u=76281980&t=27)** That's trees, the data structure, not just the arboreal plant.
 >
-> **[0:31](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/next-steps?u=76281980&t=31)** Trees are dynamic data structures similar to linked lists that fit nicely in the hierarchy of computer science data structures.
+> **[0:31](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/next-steps?u=76281980&t=31)** Trees are dynamic [[Data Structures]] similar to linked lists that fit nicely in the hierarchy of computer science data structures.
 >
 > **[0:38](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/next-steps?u=76281980&t=38)** I hope you'll continue to explore with me.
 >
@@ -1626,7 +1608,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Programming]] (1), [[Algorithms]] (1), career (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Data Structures]] (2), [[Algorithms]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (1), python (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** similar to (1)

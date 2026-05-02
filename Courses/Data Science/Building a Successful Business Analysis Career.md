@@ -74,8 +74,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Taking charge of your business analysis career
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/taking-charge-of-your-business-analysis-career?u=76281980)
+#### [Taking charge of your business analysis career](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/taking-charge-of-your-business-analysis-career?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -97,7 +96,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (5), business (3)
 > **Speakers:** - are (1)
 
 
@@ -105,8 +103,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is business analysis?
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/what-is-business-analysis?u=76281980)
+#### [What is business analysis?](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/what-is-business-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -174,7 +171,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/what-is-business-analysis?u=76281980&t=215)** Value is analyzed when comparing different solutions.
 >
-> **[3:39](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/what-is-business-analysis?u=76281980&t=219)** Take a moment now to write down those six core concepts in your notes or in your LinkedIn learning notebook.
+> **[3:39](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/what-is-business-analysis?u=76281980&t=219)** Take a moment now to write down those six core concepts in your notes or in your [[LinkedIn]] learning notebook.
 >
 > **[3:47](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/what-is-business-analysis?u=76281980&t=227)** Play with the model to see how you can use it to better communicate your profession and your role.
 >
@@ -182,18 +179,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (12), [[LinkedIn]] (2), career (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** iba (1), baccm (1)
 > **Speakers:** - have (1)
 
-#### Getting started in business analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/getting-started-in-business-analysis?u=76281980)
+#### [Getting started in business analysis](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/getting-started-in-business-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/getting-started-in-business-analysis?u=76281980&t=0)** - According to the US Bureau of Labor Statistics, the field of management analysts, which includes business analysts, is expected to see a 10% growth rate through 2032.
+> **[0:00](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/getting-started-in-business-analysis?u=76281980&t=0)** - According to the US Bureau of Labor [[Statistics]], the field of management analysts, which includes business analysts, is expected to see a 10% growth rate through 2032.
 >
 > **[0:14](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/getting-started-in-business-analysis?u=76281980&t=14)** This is quite exciting and possibly what interests you in the business analysis profession.
 >
@@ -215,13 +211,13 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/getting-started-in-business-analysis?u=76281980&t=100)** If so, your industry knowledge is marketable, even if your business analysis skills are still under development.
 >
-> **[1:49](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/getting-started-in-business-analysis?u=76281980&t=109)** You might be the perfect candidate who can bring deep expertise from aerospace, pharma, or banking.
+> **[1:49](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/getting-started-in-business-analysis?u=76281980&t=109)** You might be the perfect candidate who can bring deep expertise from aerospace, pharma, or [[Banking]].
 >
 > **[1:56](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/getting-started-in-business-analysis?u=76281980&t=116)** Hiring managers may value deep industry experience over extensive business analysis skills, finding the latter easier to develop.
 >
 > **[2:06](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/getting-started-in-business-analysis?u=76281980&t=126)** So don't worry if you think you don't have the business analysis experience you need.
 >
-> **[2:12](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/getting-started-in-business-analysis?u=76281980&t=132)** You can still be a prime candidate for roles that use business analysis, such as business subject matter expert, business intelligence analyst, business process analyst, or business architect.
+> **[2:12](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/getting-started-in-business-analysis?u=76281980&t=132)** You can still be a prime candidate for roles that use business analysis, such as business subject matter expert, [[Business Intelligence (BI)|business intelligence]] analyst, business process analyst, or business architect.
 >
 > **[2:28](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/getting-started-in-business-analysis?u=76281980&t=148)** Another way to transition into business analysis is to use organizational or functional job experience.
 >
@@ -229,7 +225,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/getting-started-in-business-analysis?u=76281980&t=169)** Also, within a single department, you might market a specific talent within it.
 >
-> **[2:55](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/getting-started-in-business-analysis?u=76281980&t=175)** For example, if your expertise is talent management within HR, you could provide business analysis support for this HR specialization.
+> **[2:55](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/getting-started-in-business-analysis?u=76281980&t=175)** For example, if your expertise is [[Talent Management]] within HR, you could provide business analysis support for this HR specialization.
 >
 > **[3:06](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/getting-started-in-business-analysis?u=76281980&t=186)** Hiring managers may also be interested if you have experience with a specific software, like a human resource information system, or HRIS.
 >
@@ -239,7 +235,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/getting-started-in-business-analysis?u=76281980&t=211)** You can bring technical skills straight out of college or from fulfilling other project-related roles.
 >
-> **[3:38](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/getting-started-in-business-analysis?u=76281980&t=218)** For example, project manager, product owner, quality assurance analyst, or IT architect, etc.
+> **[3:38](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/getting-started-in-business-analysis?u=76281980&t=218)** For example, project manager, product owner, [[Quality Assurance]] analyst, or IT architect, etc.
 >
 > **[3:48](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/getting-started-in-business-analysis?u=76281980&t=228)** What's valuable in IT is your knowledge of how projects are initiated and run, including team roles, responsibilities, and the tools and processes a delivery or solution team may be using.
 >
@@ -247,14 +243,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (19), hr (3), management (2), career (2), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Banking]] (1), [[Business Intelligence (BI)|Business intelligence]] (1), [[Talent Management]] (1), [[Quality Assurance]] (1)
 > **Analogies:** for example (3), such as (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** hris (1)
 > **Speakers:** - according (1)
 
-#### Business analysis career opportunities
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/business-analysis-career-opportunities?u=76281980)
+#### [Business analysis career opportunities](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/business-analysis-career-opportunities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -294,19 +289,19 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/business-analysis-career-opportunities?u=76281980&t=137)** The bottom of the model presents different business analysis specializations.
 >
-> **[2:23](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/business-analysis-career-opportunities?u=76281980&t=143)** Roles within business data analytics are those that use business analysis to discover, model, manage, understand, and use data to obtain insights that assist with business decision making.
+> **[2:23](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/business-analysis-career-opportunities?u=76281980&t=143)** Roles within business data analytics are those that use business analysis to discover, model, manage, understand, and use data to obtain insights that assist with [[Business Decision Making]].
 >
 > **[2:39](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/business-analysis-career-opportunities?u=76281980&t=159)** If you love data, this might be the space for you.
 >
-> **[2:44](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/business-analysis-career-opportunities?u=76281980&t=164)** Cybersecurity roles use business analysis to understand and protect IT systems, networks, connected devices, and data from cyber attacks.
+> **[2:44](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/business-analysis-career-opportunities?u=76281980&t=164)** [[Cybersecurity]] roles use business analysis to understand and protect IT systems, networks, connected devices, and data from cyber attacks.
 >
-> **[2:55](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/business-analysis-career-opportunities?u=76281980&t=175)** The agile space continues to be a hotbed of opportunity for business analysis professionals.
+> **[2:55](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/business-analysis-career-opportunities?u=76281980&t=175)** The [[Agile Development|agile]] space continues to be a hotbed of opportunity for business analysis professionals.
 >
-> **[3:02](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/business-analysis-career-opportunities?u=76281980&t=182)** While most opportunities exist on software teams, agile is also being used outside of software development.
+> **[3:02](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/business-analysis-career-opportunities?u=76281980&t=182)** While most opportunities exist on software teams, agile is also being used outside of [[Software Development]].
 >
 > **[3:10](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/business-analysis-career-opportunities?u=76281980&t=190)** Here, you'll be able to serve as a coach, architect, lead, or take responsibility for requirement solicitation and analysis for an agile development project.
 >
-> **[3:22](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/business-analysis-career-opportunities?u=76281980&t=202)** Product roles use business analysis to set product vision and strategy, and to prioritize and set direction for product development.
+> **[3:22](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/business-analysis-career-opportunities?u=76281980&t=202)** Product roles use business analysis to set product vision and strategy, and to prioritize and set direction for [[Product Development]].
 >
 > **[3:33](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/business-analysis-career-opportunities?u=76281980&t=213)** Here, you can pursue various product leadership roles or serve as a product representative.
 >
@@ -320,7 +315,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (14), career (5), data (4), product (4), [[Agile Development|Agile]] (3)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), [[Business Decision Making]] (1), [[Cybersecurity]] (1), [[Software Development]] (1), [[Product Development]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** iiba (1)
 > **Cross-References:** later in (1)
@@ -329,8 +324,7 @@ created: 2026-05-02
 > **Prerequisites:** before you begin (1)
 > **Speakers:** - if (1)
 
-#### Business analyst: A day in the life
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/business-analyst-a-day-in-the-life?u=76281980)
+#### [Business analyst: A day in the life](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/business-analyst-a-day-in-the-life?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -350,7 +344,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/business-analyst-a-day-in-the-life?u=76281980&t=46)** Meet Kalani, a Senior IT Business Analyst.
 >
-> **[0:50](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/business-analyst-a-day-in-the-life?u=76281980&t=50)** She works in banking, but her day is similar to any IT Business Analyst, regardless of industry.
+> **[0:50](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/business-analyst-a-day-in-the-life?u=76281980&t=50)** She works in [[Banking]], but her day is similar to any IT Business Analyst, regardless of industry.
 >
 > **[0:57](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/business-analyst-a-day-in-the-life?u=76281980&t=57)** It's Monday and Kalani's alarm is set for 5:00 AM.
 >
@@ -358,7 +352,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/business-analyst-a-day-in-the-life?u=76281980&t=73)** So this monthly touch point is invaluable, helping Kalani build rapport and maintain engagement.
 >
-> **[1:21](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/business-analyst-a-day-in-the-life?u=76281980&t=81)** Due to the early start, she takes the meeting from her home office.
+> **[1:21](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/business-analyst-a-day-in-the-life?u=76281980&t=81)** Due to the early start, she takes the meeting from her home [[Microsoft Office|office]].
 >
 > **[1:26](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/business-analyst-a-day-in-the-life?u=76281980&t=86)** Her call runs over, but she has enough time to grab breakfast and get ready for work.
 >
@@ -406,7 +400,7 @@ created: 2026-05-02
 >
 > **[4:24](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/business-analyst-a-day-in-the-life?u=76281980&t=264)** And like I said at the start of the movie, shadowing a Business Analyst is such a worthwhile exercise.
 >
-> **[4:31](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/business-analyst-a-day-in-the-life?u=76281980&t=271)** So right now, I want you to reach out to one Business Analyst in your LinkedIn network.
+> **[4:31](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/business-analyst-a-day-in-the-life?u=76281980&t=271)** So right now, I want you to reach out to one Business Analyst in your [[LinkedIn]] network.
 >
 > **[4:37](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/business-analyst-a-day-in-the-life?u=76281980&t=277)** Ask if you can job shadow them for a day or even a few hours.
 >
@@ -414,7 +408,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (17), [[Microsoft Office|Office]] (2), next (1), [[Banking]] (1), ux (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Banking]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
 > **Ports:** :00 (1)
 > **Cross-References:** later in (1)
@@ -428,8 +422,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Identify your business analysis career goals
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/identify-your-business-analysis-career-goals?u=76281980)
+#### [Identify your business analysis career goals](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/identify-your-business-analysis-career-goals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -471,7 +464,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/identify-your-business-analysis-career-goals?u=76281980&t=108)** There are endless ways you can achieve your career goal, but here are some examples of measurable objectives if your goal is to become, say, a product manager, Have a conversation with my manager in the next 30 days about my career goals.
 >
-> **[2:07](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/identify-your-business-analysis-career-goals?u=76281980&t=127)** Identify five high value courses on LinkedIn Learning and complete them in the next three months.
+> **[2:07](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/identify-your-business-analysis-career-goals?u=76281980&t=127)** Identify five high value courses on [[LinkedIn]] Learning and complete them in the next three months.
 >
 > **[2:15](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/identify-your-business-analysis-career-goals?u=76281980&t=135)** Attend a project management bootcamp in the next six months.
 >
@@ -499,14 +492,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (7), product (5), business (4), next (4), management (2)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Cross-References:** in the next (3)
 > **CLI Commands:** find (2)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - you (1)
 
-#### Inventory your business analysis skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/inventory-your-business-analysis-skills?u=76281980)
+#### [Inventory your business analysis skills](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/inventory-your-business-analysis-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -534,11 +526,11 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/inventory-your-business-analysis-skills?u=76281980&t=116)** Let's take a look at the six major categories.
 >
-> **[2:01](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/inventory-your-business-analysis-skills?u=76281980&t=121)** Analytical thinking and problem-solving includes skills like decision-making, problem-solving, and visual thinking.
+> **[2:01](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/inventory-your-business-analysis-skills?u=76281980&t=121)** Analytical thinking and problem-solving includes skills like [[Decision-Making]], problem-solving, and visual thinking.
 >
 > **[2:10](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/inventory-your-business-analysis-skills?u=76281980&t=130)** In business analysis, we use these competencies to break down complex information, provide clarity, and lead stakeholders through discussions.
 >
-> **[2:21](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/inventory-your-business-analysis-skills?u=76281980&t=141)** Behavioral characteristics include personal qualities like accountability, ethics, and trustworthiness, all of which help us develop strong rapport with our stakeholders and businesses.
+> **[2:21](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/inventory-your-business-analysis-skills?u=76281980&t=141)** Behavioral characteristics include personal qualities like [[Accountability]], [[Ethics]], and trustworthiness, all of which help us develop strong rapport with our stakeholders and businesses.
 >
 > **[2:36](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/inventory-your-business-analysis-skills?u=76281980&t=156)** Business knowledge is what we know about the areas we work in.
 >
@@ -556,7 +548,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/inventory-your-business-analysis-skills?u=76281980&t=209)** You can always add to your list later on.
 >
-> **[3:32](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/inventory-your-business-analysis-skills?u=76281980&t=212)** Place your list in Excel, my favorite, or another tool of your choice.
+> **[3:32](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/inventory-your-business-analysis-skills?u=76281980&t=212)** Place your list in [[Microsoft Excel|Excel]], my favorite, or another tool of your choice.
 >
 > **[3:38](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/inventory-your-business-analysis-skills?u=76281980&t=218)** After you've completed your brainstorming, come back to it one week later.
 >
@@ -574,7 +566,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (12), career (2), [[Decision-Making]] (1), [[Accountability]] (1), [[Ethics]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1), [[Accountability]] (1), [[Ethics]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** babok (2), iiba (1)
 > **CLI Commands:** find (2)
 > **Versions:** version 3 (1)
@@ -583,8 +575,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - over (1)
 
-#### Inventory your business analysis experience
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/inventory-your-business-analysis-experience?u=76281980)
+#### [Inventory your business analysis experience](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/inventory-your-business-analysis-experience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -600,7 +591,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/inventory-your-business-analysis-experience?u=76281980&t=38)** Only add tasks in the list if you've performed them.
 >
-> **[0:42](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/inventory-your-business-analysis-experience?u=76281980&t=42)** You can create your list in Excel or another tool of your choice.
+> **[0:42](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/inventory-your-business-analysis-experience?u=76281980&t=42)** You can create your list in [[Microsoft Excel|Excel]] or another tool of your choice.
 >
 > **[0:47](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/inventory-your-business-analysis-experience?u=76281980&t=47)** When you can't think of any further tasks, do some research to push yourself to generate at least one more idea.
 >
@@ -644,13 +635,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (8), [[Microsoft Excel|Excel]] (1), next (1), career (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Exercise Files:** exercise files (2)
 > **Speakers:** - something (1), - the (1)
 > **Env Vars:** babok (1)
 
-#### Identify your business analysis skills and experience gaps
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/identify-your-business-analysis-skills-and-experience-gaps?u=76281980)
+#### [Identify your business analysis skills and experience gaps](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/identify-your-business-analysis-skills-and-experience-gaps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -716,7 +706,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), job description (2), next (1)
 > **Exercise Files:** template (3), exercise files (1), download the (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** later in (1)
@@ -730,8 +719,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Find what motivates you as a business analyst
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/find-what-motivates-you-as-a-business-analyst?u=76281980)
+#### [Find what motivates you as a business analyst](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/find-what-motivates-you-as-a-business-analyst?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -775,7 +763,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/find-what-motivates-you-as-a-business-analyst?u=76281980&t=126)** Is there a specific industry that excites you?
 >
-> **[2:10](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/find-what-motivates-you-as-a-business-analyst?u=76281980&t=130)** Aerospace, entertainment, sustainability.
+> **[2:10](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/find-what-motivates-you-as-a-business-analyst?u=76281980&t=130)** Aerospace, entertainment, [[Sustainability]].
 >
 > **[2:14](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/find-what-motivates-you-as-a-business-analyst?u=76281980&t=134)** When I worked for a drug development company, I remember the passion people had knowing their work improved the lives of patients across the world.
 >
@@ -801,14 +789,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), career (4), teams (2), [[Sustainability]] (1)
+> **Frameworks & Libraries:** [[Sustainability]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** later in (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - i (1)
 
-#### Create a business analysis professional development plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/create-a-business-analysis-professional-development-plan?u=76281980)
+#### [Create a business analysis professional development plan](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/create-a-business-analysis-professional-development-plan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -854,13 +841,13 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/create-a-business-analysis-professional-development-plan?u=76281980&t=136)** Let's take a look at how Josh, an aspiring senior business analyst will do just that.
 >
-> **[2:23](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/create-a-business-analysis-professional-development-plan?u=76281980&t=143)** A position he's interested in requires proficiency in Jira.
+> **[2:23](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/create-a-business-analysis-professional-development-plan?u=76281980&t=143)** A position he's interested in requires proficiency in [[Jira]].
 >
 > **[2:28](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/create-a-business-analysis-professional-development-plan?u=76281980&t=148)** Josh self-assessed his entry level, so he's determined he has to do something to meet the job requirement.
 >
 > **[2:38](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/create-a-business-analysis-professional-development-plan?u=76281980&t=158)** What can he do?
 >
-> **[2:39](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/create-a-business-analysis-professional-development-plan?u=76281980&t=159)** Well, he can increase his experience by completing training in the form of LinkedIn Learning courses, webinars, in reading, and he'll practice using the tool.
+> **[2:39](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/create-a-business-analysis-professional-development-plan?u=76281980&t=159)** Well, he can increase his experience by completing training in the form of [[LinkedIn]] Learning courses, webinars, in reading, and he'll practice using the tool.
 >
 > **[2:53](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/create-a-business-analysis-professional-development-plan?u=76281980&t=173)** Using a scale of one to five, where five is most important, Josh identifies the importance each of these activities plays towards reaching his objective.
 >
@@ -902,7 +889,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (3), business (3), [[Jira]] (1), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[Jira]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** previous video (1)
 > **Tools:** jira (1)
@@ -911,8 +898,7 @@ created: 2026-05-02
 > **Prerequisites:** getting started (1)
 > **Speakers:** - american (1)
 
-#### How to create time estimates for your professional development plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/how-to-create-time-estimates-for-your-professional-development-plan?u=76281980)
+#### [How to create time estimates for your professional development plan](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/how-to-create-time-estimates-for-your-professional-development-plan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -968,7 +954,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/how-to-create-time-estimates-for-your-professional-development-plan?u=76281980&t=187)** 53.5 hours in total.
 >
-> **[3:10](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/how-to-create-time-estimates-for-your-professional-development-plan?u=76281980&t=190)** Now, this example is not intended to scare you away from getting certified, but I do want you to see how you can take something complex, multifaceted, and involved, like estimating the number of hours needed to study 98 techniques, and break it down into manageable chunks that you can work with, something you can estimate with a higher level of probability.
+> **[3:10](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/how-to-create-time-estimates-for-your-professional-development-plan?u=76281980&t=190)** Now, this example is not intended to scare you away from getting certified, but I do want you to see how you can take something complex, multifaceted, and involved, like estimating the number of hours needed to study 98 techniques, and break it down into manageable chunks that you can work with, something you can estimate with a higher level of [[Probability]].
 >
 > **[3:38](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/how-to-create-time-estimates-for-your-professional-development-plan?u=76281980&t=218)** How does this technique transfer to the items in your development plan?
 >
@@ -978,7 +964,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), career (1), [[Probability]] (1), next (1)
+> **Frameworks & Libraries:** [[Probability]] (1)
 > **Cross-References:** previous video (1), in the next (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** babok (1)
@@ -991,8 +977,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Opportunities to expand business analysis experience
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/opportunities-to-expand-business-analysis-experience?u=76281980)
+#### [Opportunities to expand business analysis experience](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/opportunities-to-expand-business-analysis-experience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1036,7 +1021,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/opportunities-to-expand-business-analysis-experience?u=76281980&t=119)** You can request access to the requirements management tool set and spend time learning how to use the tools the business analysts use.
 >
-> **[2:09](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/opportunities-to-expand-business-analysis-experience?u=76281980&t=129)** If you are just entering the job market from school, work with your advisors or your career development center to find an internship opportunity.
+> **[2:09](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/opportunities-to-expand-business-analysis-experience?u=76281980&t=129)** If you are just entering the job market from school, work with your advisors or your [[Career Development]] center to find an internship opportunity.
 >
 > **[2:19](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/opportunities-to-expand-business-analysis-experience?u=76281980&t=139)** Even if the position has a different job title than business analysts, it could be a good move if the role will help develop business analysis skills.
 >
@@ -1050,9 +1035,9 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/opportunities-to-expand-business-analysis-experience?u=76281980&t=164)** Those that provide opportunity to practice business analysis tasks and complete common deliverables are great choices.
 >
-> **[2:53](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/opportunities-to-expand-business-analysis-experience?u=76281980&t=173)** And did you know that LinkedIn Learning offers learning paths for business analysis?
+> **[2:53](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/opportunities-to-expand-business-analysis-experience?u=76281980&t=173)** And did you know that [[LinkedIn]] Learning offers learning paths for business analysis?
 >
-> **[2:59](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/opportunities-to-expand-business-analysis-experience?u=76281980&t=179)** I highly suggest you check out "Career Essentials in Business Analysis" by Microsoft and LinkedIn or "Getting Started as a Business Analyst."
+> **[2:59](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/opportunities-to-expand-business-analysis-experience?u=76281980&t=179)** I highly suggest you check out "Career Essentials in Business Analysis" by [[Microsoft]] and LinkedIn or "Getting Started as a Business Analyst."
 >
 > **[3:10](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/opportunities-to-expand-business-analysis-experience?u=76281980&t=190)** Lastly, read, then practice what you learn.
 >
@@ -1074,13 +1059,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (22), [[LinkedIn]] (2), ux (1), management (1), [[Career Development]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Career Development]] (1), [[Microsoft]] (1)
 > **CLI Commands:** find (3)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - you (1)
 
-#### Business analysis professional associations and certifications
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/business-analysis-professional-associations-and-certifications?u=76281980)
+#### [Business analysis professional associations and certifications](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/business-analysis-professional-associations-and-certifications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1100,9 +1084,9 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/business-analysis-professional-associations-and-certifications?u=76281980&t=56)** There are also numerous professional associations you might consider if your business analysis career is specialized.
 >
-> **[1:05](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/business-analysis-professional-associations-and-certifications?u=76281980&t=65)** The Association of Business Process Management supports Process Management Professionals, Data Management Association, or DAMA international supports data professionals.
+> **[1:05](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/business-analysis-professional-associations-and-certifications?u=76281980&t=65)** The Association of [[Business Process Management]] supports Process Management Professionals, [[Data Management]] Association, or DAMA international supports data professionals.
 >
-> **[1:18](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/business-analysis-professional-associations-and-certifications?u=76281980&t=78)** And several Agile professional associations like Agile Alliance and Scrum Alliance support Agiles.
+> **[1:18](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/business-analysis-professional-associations-and-certifications?u=76281980&t=78)** And several [[Agile Development|Agile]] professional associations like Agile Alliance and [[Scrum]] Alliance support Agiles.
 >
 > **[1:25](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/business-analysis-professional-associations-and-certifications?u=76281980&t=85)** As you look for ways to advance your business analysis career, consider membership in at least one professional organization.
 >
@@ -1140,7 +1124,7 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/business-analysis-professional-associations-and-certifications?u=76281980&t=231)** IIBA also offers certification for several business analysis specializations.
 >
-> **[3:58](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/business-analysis-professional-associations-and-certifications?u=76281980&t=238)** IIBA-AAC, Agile Analysis Certification, IIBA-CBDA, Business Data Analytics Certification, IIBA-CCA, Cybersecurity Analysis Certification, and IIBA-CPOA Product Ownership Analysis Certification.
+> **[3:58](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/business-analysis-professional-associations-and-certifications?u=76281980&t=238)** IIBA-AAC, Agile Analysis Certification, IIBA-CBDA, Business Data Analytics Certification, IIBA-CCA, [[Cybersecurity]] Analysis Certification, and IIBA-CPOA Product Ownership Analysis Certification.
 >
 > **[4:20](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/business-analysis-professional-associations-and-certifications?u=76281980&t=260)** As you build out your professional development plan, I suggest finding creative ways to use your member benefits and professional certification to advance your skills, get recognized and stand out.
 >
@@ -1148,14 +1132,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (20), career (5), management (3), data (3), [[Agile Development|Agile]] (3)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), [[Business Process Management]] (1), [[Data Management]] (1), [[Scrum]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** iiba (8), pmi (4), dama (1), ecba (1), ccba (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - over (1)
 
-#### Setting yourself apart in a competitive business analysis job market
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/setting-yourself-apart-in-a-competitive-business-analysis-job-market?u=76281980)
+#### [Setting yourself apart in a competitive business analysis job market](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/setting-yourself-apart-in-a-competitive-business-analysis-job-market?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1185,7 +1168,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/setting-yourself-apart-in-a-competitive-business-analysis-job-market?u=76281980&t=85)** At the global level, I worked on project teams who created "BABOK Guide Version Two" and "Version Three."
 >
-> **[1:32](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/setting-yourself-apart-in-a-competitive-business-analysis-job-market?u=76281980&t=92)** Eventually, I was IIBAs head of product development.
+> **[1:32](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/setting-yourself-apart-in-a-competitive-business-analysis-job-market?u=76281980&t=92)** Eventually, I was IIBAs head of [[Product Development]].
 >
 > **[1:37](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/setting-yourself-apart-in-a-competitive-business-analysis-job-market?u=76281980&t=97)** I went on and helped PMI publish several standards in business analysis, too.
 >
@@ -1223,15 +1206,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), career (2), teams (1), [[Product Development]] (1)
+> **Frameworks & Libraries:** [[Product Development]] (1)
 > **Env Vars:** iiba (2), cbap (1), babok (1), pmi (1)
 > **CLI Commands:** find (3)
 > **Exercise Files:** template (1)
 > **Analogies:** such as (1)
 > **Speakers:** - do (1)
 
-#### Networking for business analysts
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/networking-for-business-analysts?u=76281980)
+#### [Networking for business analysts](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/networking-for-business-analysts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1239,7 +1221,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/networking-for-business-analysts?u=76281980&t=11)** Most of the business analysts starting out don't find networking easy.
 >
-> **[0:16](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/networking-for-business-analysts?u=76281980&t=16)** It's a skill you have to work at to excel in it.
+> **[0:16](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/networking-for-business-analysts?u=76281980&t=16)** It's a skill you have to work at to [[Microsoft Excel|excel]] in it.
 >
 > **[0:20](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/networking-for-business-analysts?u=76281980&t=20)** In this video, I'll provide you a number of ideas to develop your networking skills and grow your professional network.
 >
@@ -1253,7 +1235,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/networking-for-business-analysts?u=76281980&t=60)** Your choices for impersonal networking opportunities are plentiful.
 >
-> **[1:04](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/networking-for-business-analysts?u=76281980&t=64)** Consider local chapter meetings hosted by your professional associations, in-person business analysis, project management, or agile conferences, and any collaborative opportunities your BA teams create at work, for example, communities of practice or brown bag lunch and learns.
+> **[1:04](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/networking-for-business-analysts?u=76281980&t=64)** Consider local chapter meetings hosted by your professional associations, in-person business analysis, project management, or [[Agile Development|agile]] conferences, and any collaborative opportunities your BA teams create at work, for example, communities of practice or brown bag lunch and learns.
 >
 > **[1:25](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/networking-for-business-analysts?u=76281980&t=85)** To get the most value out of any in-person networking event, prepare ahead of time, research the speakers, and jot down a few questions you'd be interested in having answered.
 >
@@ -1271,7 +1253,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/networking-for-business-analysts?u=76281980&t=149)** When networking online, consider taking part in several communities.
 >
-> **[2:34](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/networking-for-business-analysts?u=76281980&t=154)** IBA and PMI have various digital assets and online events as do training providers like LinkedIn Learning.
+> **[2:34](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/networking-for-business-analysts?u=76281980&t=154)** IBA and PMI have various digital assets and online events as do training providers like [[LinkedIn]] Learning.
 >
 > **[2:43](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/networking-for-business-analysts?u=76281980&t=163)** BA Times and Modern Analyst are two sites I've used to find articles and published business analysis content.
 >
@@ -1305,7 +1287,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), [[LinkedIn]] (5), career (3), [[Microsoft Excel|Excel]] (1), management (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (5), [[Microsoft Excel|Excel]] (1), [[Agile Development|Agile]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Analogies:** such as (2), picture (1), for example (1)
 > **Env Vars:** iba (1), pmi (1)
@@ -1318,8 +1300,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Owning your business analysis career
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/owning-your-business-analysis-career?u=76281980)
+#### [Owning your business analysis career](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/owning-your-business-analysis-career?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1349,7 +1330,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (8), career (3), next (1)
 > **CLI Commands:** find (1), make (1)
 > **Best Practices:** remember to (1), make sure to (1)
 > **Warnings:** keep in mind (1)

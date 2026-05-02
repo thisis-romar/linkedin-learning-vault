@@ -71,8 +71,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Long-term success as a marketer
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-habits-of-successful-marketers/long-term-success-as-a-marketer-16190565?u=76281980)
+#### [Long-term success as a marketer](https://www.linkedin.com/learning/the-habits-of-successful-marketers/long-term-success-as-a-marketer-16190565?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -108,7 +107,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (5)
 > **Speakers:** - [instructor] (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
@@ -118,8 +116,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Set goals for accountability
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-habits-of-successful-marketers/set-goals-for-accountability?u=76281980)
+#### [Set goals for accountability](https://www.linkedin.com/learning/the-habits-of-successful-marketers/set-goals-for-accountability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -169,18 +166,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (2), traffic (1), product (1), [[Analytics]] (1)
 > **Definitions:** basically means (1)
 > **Speakers:** - [instructor] (1)
 
-#### Inform decisions with data-driven research
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-habits-of-successful-marketers/inform-decisions-with-data-driven-research?u=76281980)
+#### [Inform decisions with data-driven research](https://www.linkedin.com/learning/the-habits-of-successful-marketers/inform-decisions-with-data-driven-research?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/the-habits-of-successful-marketers/inform-decisions-with-data-driven-research?u=76281980&t=0)** - As a marketer, you want to act more like a researcher and less like a mind reader.
 >
-> **[0:05](https://www.linkedin.com/learning/the-habits-of-successful-marketers/inform-decisions-with-data-driven-research?u=76281980&t=5)** Throughout your career, you'll see lots of lofty ideas and big predictions shared by marketers to inform their decision-making, but, in reality, these suggestions often lack proper evidence.
+> **[0:05](https://www.linkedin.com/learning/the-habits-of-successful-marketers/inform-decisions-with-data-driven-research?u=76281980&t=5)** Throughout your career, you'll see lots of lofty ideas and big predictions shared by marketers to inform their [[Decision-Making]], but, in reality, these suggestions often lack proper evidence.
 >
 > **[0:17](https://www.linkedin.com/learning/the-habits-of-successful-marketers/inform-decisions-with-data-driven-research?u=76281980&t=17)** To make better, more informed decisions, you need to conduct data-driven research that helps support the experience, perspective, and intuition you have as a marketer.
 >
@@ -192,7 +187,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/the-habits-of-successful-marketers/inform-decisions-with-data-driven-research?u=76281980&t=60)** Now, you're probably wondering, where do I find useful data to inform my marketing?
 >
-> **[1:05](https://www.linkedin.com/learning/the-habits-of-successful-marketers/inform-decisions-with-data-driven-research?u=76281980&t=65)** One source of insight is your first-party data, which is data gathered directly from your customers, whether on your company's website, app, products, CRM, or social media profiles.
+> **[1:05](https://www.linkedin.com/learning/the-habits-of-successful-marketers/inform-decisions-with-data-driven-research?u=76281980&t=65)** One source of insight is your first-party data, which is data gathered directly from your customers, whether on your company's website, app, [[Microsoft Products|products]], CRM, or social media profiles.
 >
 > **[1:18](https://www.linkedin.com/learning/the-habits-of-successful-marketers/inform-decisions-with-data-driven-research?u=76281980&t=78)** This is the most valuable data for your organization as it's direct insight into your specific audiences behaviors, action, and feedback, making it super relevant to your marketing.
 >
@@ -200,7 +195,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/the-habits-of-successful-marketers/inform-decisions-with-data-driven-research?u=76281980&t=101)** Think of first-party data as your North Star, helping you to better understand how customers are reacting to your existing products, messaging, and campaigns.
 >
-> **[1:50](https://www.linkedin.com/learning/the-habits-of-successful-marketers/inform-decisions-with-data-driven-research?u=76281980&t=110)** Another useful source of data is conducting primary market research, which is collecting insights on your customers outright, using surveys, interviews, focus groups, and more.
+> **[1:50](https://www.linkedin.com/learning/the-habits-of-successful-marketers/inform-decisions-with-data-driven-research?u=76281980&t=110)** Another useful source of data is conducting primary [[Market Research]], which is collecting insights on your customers outright, using surveys, interviews, focus groups, and more.
 >
 > **[2:01](https://www.linkedin.com/learning/the-habits-of-successful-marketers/inform-decisions-with-data-driven-research?u=76281980&t=121)** While this approach is more involved, requiring a budget and resources, you're able to directly address customers, asking them informed questions about their experiences.
 >
@@ -220,14 +215,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Decision-Making]] (2), [[Microsoft Products|Products]] (2), [[Market Research]] (2), career (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (2), [[Microsoft Products|Products]] (2), [[Market Research]] (2)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** crm (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - as (1)
 
-#### Balance big-picture thinking with the details
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-habits-of-successful-marketers/balance-big-picture-thinking-with-the-details?u=76281980)
+#### [Balance big-picture thinking with the details](https://www.linkedin.com/learning/the-habits-of-successful-marketers/balance-big-picture-thinking-with-the-details?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -243,7 +237,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/the-habits-of-successful-marketers/balance-big-picture-thinking-with-the-details?u=76281980&t=62)** You're likely naturally better at one or the other, but luckily you can work to improve upon either approach by implementing a few changes to your routine.
 >
-> **[1:12](https://www.linkedin.com/learning/the-habits-of-successful-marketers/balance-big-picture-thinking-with-the-details?u=76281980&t=72)** To nurture your big picture thinking skills as a marketer, get clear on what high-level goals each campaign is focused on from the start, and refer back to them to stay on track.
+> **[1:12](https://www.linkedin.com/learning/the-habits-of-successful-marketers/balance-big-picture-thinking-with-the-details?u=76281980&t=72)** To nurture your big picture [[Thinking Skills]] as a marketer, get clear on what high-level goals each campaign is focused on from the start, and refer back to them to stay on track.
 >
 > **[1:23](https://www.linkedin.com/learning/the-habits-of-successful-marketers/balance-big-picture-thinking-with-the-details?u=76281980&t=83)** The best way to keep these outcomes top of mind is to include the goals of a campaign at the start of any documentation your team is using to collaborate, and organize these specific initiatives.
 >
@@ -283,7 +277,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (2), [[Thinking Skills]] (1), next (1)
+> **Frameworks & Libraries:** [[Thinking Skills]] (1)
 > **Analogies:** picture (8)
 > **CLI Commands:** make (2), find (1)
 > **Prerequisites:** required to (1)
@@ -294,8 +288,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Embrace a persistent execution process
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-habits-of-successful-marketers/embrace-a-persistent-execution-process?u=76281980)
+#### [Embrace a persistent execution process](https://www.linkedin.com/learning/the-habits-of-successful-marketers/embrace-a-persistent-execution-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -329,7 +322,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/the-habits-of-successful-marketers/embrace-a-persistent-execution-process?u=76281980&t=130)** It's a way of quickly assessing which items are important to focus on, preventing you from wasting time on not essential tasks.
 >
-> **[2:17](https://www.linkedin.com/learning/the-habits-of-successful-marketers/embrace-a-persistent-execution-process?u=76281980&t=137)** Plus, you're able to be more agile as timelines and responsibilities change, since you can easily rearrange tasks, remove items, and take on new commitments with this list in hand.
+> **[2:17](https://www.linkedin.com/learning/the-habits-of-successful-marketers/embrace-a-persistent-execution-process?u=76281980&t=137)** Plus, you're able to be more [[Agile Development|agile]] as timelines and responsibilities change, since you can easily rearrange tasks, remove items, and take on new commitments with this list in hand.
 >
 > **[2:29](https://www.linkedin.com/learning/the-habits-of-successful-marketers/embrace-a-persistent-execution-process?u=76281980&t=149)** Lastly, avoid working in a silo and instead, actively communicate with other collaborators across teams to make sure everyone is clear on their responsibilities.
 >
@@ -341,7 +334,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), career (1), [[Agile Development|Agile]] (1), teams (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (1), for instance (1)
@@ -349,12 +342,11 @@ created: 2026-05-02
 > **Cross-References:** earlier in (1)
 > **Speakers:** - execution (1)
 
-#### Take risks by regularly experimenting
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-habits-of-successful-marketers/take-risks-by-regularly-experimenting?u=76281980)
+#### [Take risks by regularly experimenting](https://www.linkedin.com/learning/the-habits-of-successful-marketers/take-risks-by-regularly-experimenting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-habits-of-successful-marketers/take-risks-by-regularly-experimenting?u=76281980&t=0)** - [Instructor] President John F. Kennedy once said, "There are risks and costs to action, but they are far less than the long range risks of comfortable inaction."
+> **[0:00](https://www.linkedin.com/learning/the-habits-of-successful-marketers/take-risks-by-regularly-experimenting?u=76281980&t=0)** - [Instructor] President [[John the Ripper|John]] F. Kennedy once said, "There are risks and costs to action, but they are far less than the long range risks of comfortable inaction."
 >
 > **[0:11](https://www.linkedin.com/learning/the-habits-of-successful-marketers/take-risks-by-regularly-experimenting?u=76281980&t=11)** Taking risks is how marketing can help move your company forward, and in the process, help you build a list of accomplishments for your resume.
 >
@@ -400,15 +392,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), is an  (1)
 > **Cross-References:** coming up (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Aim to be adaptive as circumstances evolve
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-habits-of-successful-marketers/aim-to-be-adaptive-as-circumstances-evolve?u=76281980)
+#### [Aim to be adaptive as circumstances evolve](https://www.linkedin.com/learning/the-habits-of-successful-marketers/aim-to-be-adaptive-as-circumstances-evolve?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -418,7 +409,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/the-habits-of-successful-marketers/aim-to-be-adaptive-as-circumstances-evolve?u=76281980&t=14)** Marketing is a constantly evolving industry, given the rapid pace of technological advancements and persistent shifts in consumer behavior, requiring marketers to be nimble.
 >
-> **[0:25](https://www.linkedin.com/learning/the-habits-of-successful-marketers/aim-to-be-adaptive-as-circumstances-evolve?u=76281980&t=25)** Adaptability is an important skill for marketers to refine, as you'll need to react to relevant developments that impact your customers so you're able to continue to get their attention.
+> **[0:25](https://www.linkedin.com/learning/the-habits-of-successful-marketers/aim-to-be-adaptive-as-circumstances-evolve?u=76281980&t=25)** Adaptability is an important skill for marketers to refine, as you'll need to [[React.js|react]] to relevant developments that impact your customers so you're able to continue to get their attention.
 >
 > **[0:36](https://www.linkedin.com/learning/the-habits-of-successful-marketers/aim-to-be-adaptive-as-circumstances-evolve?u=76281980&t=36)** Not to mention, adaptability is career security for marketers, as you'll have the diverse skills, experience and temperament to take on a wider variety of projects and job functions.
 >
@@ -440,7 +431,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/the-habits-of-successful-marketers/aim-to-be-adaptive-as-circumstances-evolve?u=76281980&t=122)** That's the fancy terminology for your ability to adapt to a changing environment.
 >
-> **[2:07](https://www.linkedin.com/learning/the-habits-of-successful-marketers/aim-to-be-adaptive-as-circumstances-evolve?u=76281980&t=127)** Cognitive flexibility isn't something you excel at overnight, which is why trying marketing tasks you're unfamiliar with can help you gain hands-on experience to serve you later.
+> **[2:07](https://www.linkedin.com/learning/the-habits-of-successful-marketers/aim-to-be-adaptive-as-circumstances-evolve?u=76281980&t=127)** Cognitive flexibility isn't something you [[Microsoft Excel|excel]] at overnight, which is why trying marketing tasks you're unfamiliar with can help you gain hands-on experience to serve you later.
 >
 > **[2:17](https://www.linkedin.com/learning/the-habits-of-successful-marketers/aim-to-be-adaptive-as-circumstances-evolve?u=76281980&t=137)** This way, when the time comes to react quickly to an unexpected change, you'll be more prepared to search for information and identify signals to better inform how you take action.
 >
@@ -454,13 +445,13 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/the-habits-of-successful-marketers/aim-to-be-adaptive-as-circumstances-evolve?u=76281980&t=182)** Strategically developing skills across marketing disciplines helps you see the bigger picture of how to solve complex marketing challenges by deploying a range of channels and tactics.
 >
-> **[3:13](https://www.linkedin.com/learning/the-habits-of-successful-marketers/aim-to-be-adaptive-as-circumstances-evolve?u=76281980&t=193)** The last and possibly most important action you can take to be more adaptable is maintaining a positive outlook as changes come your way.
+> **[3:13](https://www.linkedin.com/learning/the-habits-of-successful-marketers/aim-to-be-adaptive-as-circumstances-evolve?u=76281980&t=193)** The last and possibly most important action you can take to be more adaptable is maintaining a positive [[Microsoft Outlook|outlook]] as changes come your way.
 >
 > **[3:22](https://www.linkedin.com/learning/the-habits-of-successful-marketers/aim-to-be-adaptive-as-circumstances-evolve?u=76281980&t=202)** Your capacity to problem-solve as you're forced to switch directions is impacted by your emotional state, which is why it is essential to apply this advice on your path to adaptability.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (3), next (2), career (1), [[Security]] (1), product (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[Microsoft Excel|Excel]] (1), [[Microsoft Outlook|Outlook]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Env Vars:** seo (1), sem (1)
 > **Analogies:** for instance (1), picture (1)
@@ -473,8 +464,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Sharpen your communication capabilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-habits-of-successful-marketers/sharpen-your-communication-capabilities?u=76281980)
+#### [Sharpen your communication capabilities](https://www.linkedin.com/learning/the-habits-of-successful-marketers/sharpen-your-communication-capabilities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -492,13 +482,13 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/the-habits-of-successful-marketers/sharpen-your-communication-capabilities?u=76281980&t=35)** Upleveling your communication capabilities can help you develop impactful campaigns, like this one, that are easier to understand, catch, and hold customer attention and, most of all, drive action.
 >
-> **[0:48](https://www.linkedin.com/learning/the-habits-of-successful-marketers/sharpen-your-communication-capabilities?u=76281980&t=48)** Fine tuning how you share information on a regular basis is a benefit to you as well, as you'll be better equipped to keep colleagues informed of your contributions and accomplishments.
+> **[0:48](https://www.linkedin.com/learning/the-habits-of-successful-marketers/sharpen-your-communication-capabilities?u=76281980&t=48)** [[Fine Tuning]] how you share information on a regular basis is a benefit to you as well, as you'll be better equipped to keep colleagues informed of your contributions and accomplishments.
 >
 > **[0:58](https://www.linkedin.com/learning/the-habits-of-successful-marketers/sharpen-your-communication-capabilities?u=76281980&t=58)** But with so many nuances to consider, it's easy for your messaging to fall flat whether you're crafting copy for an ad or emailing your boss.
 >
 > **[1:08](https://www.linkedin.com/learning/the-habits-of-successful-marketers/sharpen-your-communication-capabilities?u=76281980&t=68)** To kickstart your communication skills into high gear, always start by getting clear on the goal behind each message you're crafting.
 >
-> **[1:15](https://www.linkedin.com/learning/the-habits-of-successful-marketers/sharpen-your-communication-capabilities?u=76281980&t=75)** With awareness of what you're trying to accomplish with every Slack, email, ad, or campaign it'll be easier to focus on the details that matter most to achieve the desired outcome.
+> **[1:15](https://www.linkedin.com/learning/the-habits-of-successful-marketers/sharpen-your-communication-capabilities?u=76281980&t=75)** With awareness of what you're trying to accomplish with every [[Slack]], email, ad, or campaign it'll be easier to focus on the details that matter most to achieve the desired outcome.
 >
 > **[1:27](https://www.linkedin.com/learning/the-habits-of-successful-marketers/sharpen-your-communication-capabilities?u=76281980&t=87)** For example, if you're planning an internal presentation and the goal is to get approval of your email strategy, determine what must be conveyed to earn the buy-in you're after.
 >
@@ -524,15 +514,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), [[Fine Tuning]] (1), [[Slack]] (1)
+> **Frameworks & Libraries:** [[Fine Tuning]] (1), [[Slack]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Tools:** slack (1)
 > **Analogies:** for example (1)
 > **Speakers:** - communicating (1)
 
-#### Influence as a cross-functional partner
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-habits-of-successful-marketers/influence-as-a-cross-functional-partner?u=76281980)
+#### [Influence as a cross-functional partner](https://www.linkedin.com/learning/the-habits-of-successful-marketers/influence-as-a-cross-functional-partner?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -574,14 +563,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), functional (1), leadership (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [narrator] (1)
 
-#### Emphasize a customer-centric approach
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-habits-of-successful-marketers/emphasize-a-customer-centric-approach?u=76281980)
+#### [Emphasize a customer-centric approach](https://www.linkedin.com/learning/the-habits-of-successful-marketers/emphasize-a-customer-centric-approach?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -593,7 +580,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/the-habits-of-successful-marketers/emphasize-a-customer-centric-approach?u=76281980&t=15)** That's because marketing that's not personalized feels like a business transaction meant to generate results at all costs, misaligned to what's actually valuable to a customer.
 >
-> **[0:26](https://www.linkedin.com/learning/the-habits-of-successful-marketers/emphasize-a-customer-centric-approach?u=76281980&t=26)** Instead, it's your responsibility as a marketer to personalize everything you do in line with the customers you're trying to attract in order to get their attention and encourage them to react.
+> **[0:26](https://www.linkedin.com/learning/the-habits-of-successful-marketers/emphasize-a-customer-centric-approach?u=76281980&t=26)** Instead, it's your responsibility as a marketer to personalize everything you do in line with the customers you're trying to attract in order to get their attention and encourage them to [[React.js|react]].
 >
 > **[0:38](https://www.linkedin.com/learning/the-habits-of-successful-marketers/emphasize-a-customer-centric-approach?u=76281980&t=38)** By catering to a specific customer base, you'll be equipped to develop more thoughtful campaigns focused on their unique interests and providing useful solutions to their problems.
 >
@@ -607,11 +594,11 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/the-habits-of-successful-marketers/emphasize-a-customer-centric-approach?u=76281980&t=91)** For example, Starbucks communicates with a functional voice across their mobile app and in-store signage to be helpful and make it easier for customers to place an order.
 >
-> **[1:41](https://www.linkedin.com/learning/the-habits-of-successful-marketers/emphasize-a-customer-centric-approach?u=76281980&t=101)** At the same time, the brand uses an expressive voice across its social media, product messaging, and storytelling efforts to showcase Starbucks' unique personality.
+> **[1:41](https://www.linkedin.com/learning/the-habits-of-successful-marketers/emphasize-a-customer-centric-approach?u=76281980&t=101)** At the same time, the brand uses an expressive voice across its social media, product messaging, and [[Storytelling]] efforts to showcase Starbucks' unique personality.
 >
 > **[1:52](https://www.linkedin.com/learning/the-habits-of-successful-marketers/emphasize-a-customer-centric-approach?u=76281980&t=112)** Follow in their footsteps by determining what goal you're trying to achieve in different communication scenarios.
 >
-> **[1:59](https://www.linkedin.com/learning/the-habits-of-successful-marketers/emphasize-a-customer-centric-approach?u=76281980&t=119)** Like how Starbucks has different intentions when assisting customers with making an order versus highlighting key products, then based on the marketing channels your audience is active on, adapt the tone of the message to align with how customers communicate there so it's both appropriate and relevant.
+> **[1:59](https://www.linkedin.com/learning/the-habits-of-successful-marketers/emphasize-a-customer-centric-approach?u=76281980&t=119)** Like how Starbucks has different intentions when assisting customers with making an order versus highlighting key [[Microsoft Products|products]], then based on the marketing channels your audience is active on, adapt the tone of the message to align with how customers communicate there so it's both appropriate and relevant.
 >
 > **[2:16](https://www.linkedin.com/learning/the-habits-of-successful-marketers/emphasize-a-customer-centric-approach?u=76281980&t=136)** Finally, monitor important macro and micro trends and consumer behavior and adapt your marketing to these developments to stay relevant.
 >
@@ -623,13 +610,13 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/the-habits-of-successful-marketers/emphasize-a-customer-centric-approach?u=76281980&t=176)** On the other hand, micro trends are small specific trends only occurring amongst your customer base as these are identifiable by assessing your first-party customer data.
 >
-> **[3:07](https://www.linkedin.com/learning/the-habits-of-successful-marketers/emphasize-a-customer-centric-approach?u=76281980&t=187)** Whether reviewing your social media reporting, CRM, or a predictive analytics tool, monitor positive and negative patterns in your customer's behavior and respond accordingly.
+> **[3:07](https://www.linkedin.com/learning/the-habits-of-successful-marketers/emphasize-a-customer-centric-approach?u=76281980&t=187)** Whether reviewing your social media reporting, CRM, or a [[Predictive Analytics]] tool, monitor positive and negative patterns in your customer's behavior and respond accordingly.
 >
 > **[3:19](https://www.linkedin.com/learning/the-habits-of-successful-marketers/emphasize-a-customer-centric-approach?u=76281980&t=199)** There's no finish line when it comes to being customer-centric, so recognize personalization is an ongoing investment in keeping your marketing relevant.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[React.js|React]] (2), business (1), next (1), functional (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[React.js|React]] (2), [[Storytelling]] (1), [[Predictive Analytics]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** covid (1), crm (1)
 > **Definitions:** is an  (2)
@@ -641,8 +628,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Develop your creative abilities as a marketer
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-habits-of-successful-marketers/develop-your-creative-abilities-as-a-marketer?u=76281980)
+#### [Develop your creative abilities as a marketer](https://www.linkedin.com/learning/the-habits-of-successful-marketers/develop-your-creative-abilities-as-a-marketer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -660,7 +646,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/the-habits-of-successful-marketers/develop-your-creative-abilities-as-a-marketer?u=76281980&t=76)** This level of awareness can help you brainstorm new ideas more effectively as you have a knowledge base to pull from on what concepts your customers have been exposed to or not.
 >
-> **[1:27](https://www.linkedin.com/learning/the-habits-of-successful-marketers/develop-your-creative-abilities-as-a-marketer?u=76281980&t=87)** As a marketer, the application of the 20% principle could be broad, like reviewing the ins and outs of successful marketing campaigns from the past to see what's been done, or more specific like surveying consumers to get familiar with their understanding of the apparel industry's impact on climate change as a reference for your messaging on the topic.
+> **[1:27](https://www.linkedin.com/learning/the-habits-of-successful-marketers/develop-your-creative-abilities-as-a-marketer?u=76281980&t=87)** As a marketer, the application of the 20% principle could be broad, like reviewing the ins and outs of successful marketing campaigns from the past to see what's been done, or more specific like surveying consumers to get familiar with their understanding of the apparel industry's impact on [[Climate Change]] as a reference for your messaging on the topic.
 >
 > **[1:49](https://www.linkedin.com/learning/the-habits-of-successful-marketers/develop-your-creative-abilities-as-a-marketer?u=76281980&t=109)** Another recommendation for developing your creative skills is leaving some white space in your schedule for brainstorming.
 >
@@ -680,22 +666,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), [[Climate Change]] (1)
+> **Frameworks & Libraries:** [[Climate Change]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** defined as (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
-#### Use storytelling as a guiding principle
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-habits-of-successful-marketers/use-storytelling-as-a-guiding-principle?u=76281980)
+#### [Use storytelling as a guiding principle](https://www.linkedin.com/learning/the-habits-of-successful-marketers/use-storytelling-as-a-guiding-principle?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-habits-of-successful-marketers/use-storytelling-as-a-guiding-principle?u=76281980&t=0)** - [Brian] Storytelling is the currency of marketing.
+> **[0:00](https://www.linkedin.com/learning/the-habits-of-successful-marketers/use-storytelling-as-a-guiding-principle?u=76281980&t=0)** - [Brian] [[Storytelling]] is the currency of marketing.
 >
 > **[0:03](https://www.linkedin.com/learning/the-habits-of-successful-marketers/use-storytelling-as-a-guiding-principle?u=76281980&t=3)** Sharing engaging stories can help your company continually connect with audiences by providing them useful or entertaining information in exchange for their attention.
 >
-> **[0:14](https://www.linkedin.com/learning/the-habits-of-successful-marketers/use-storytelling-as-a-guiding-principle?u=76281980&t=14)** Stories resonate with audiences, as you're addressing their needs and interests as opposed to touting the merits of your products or services like you would in a typical advertisement.
+> **[0:14](https://www.linkedin.com/learning/the-habits-of-successful-marketers/use-storytelling-as-a-guiding-principle?u=76281980&t=14)** Stories resonate with audiences, as you're addressing their needs and interests as opposed to touting the merits of your [[Microsoft Products|products]] or services like you would in a typical advertisement.
 >
 > **[0:25](https://www.linkedin.com/learning/the-habits-of-successful-marketers/use-storytelling-as-a-guiding-principle?u=76281980&t=25)** This is a useful skill to master, as you'll be able to craft well-rounded, interesting narratives to your campaigns, which can also help you tell better stories about your career as well.
 >
@@ -735,14 +720,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Storytelling]] (3), business (2), [[Microsoft Products|Products]] (1), career (1), next (1)
+> **Frameworks & Libraries:** [[Storytelling]] (3), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [brian] (1)
 
-#### Observe and learn consistently as a marketer
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-habits-of-successful-marketers/observe-and-learn-consistently-as-a-marketer?u=76281980)
+#### [Observe and learn consistently as a marketer](https://www.linkedin.com/learning/the-habits-of-successful-marketers/observe-and-learn-consistently-as-a-marketer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -750,7 +734,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/the-habits-of-successful-marketers/observe-and-learn-consistently-as-a-marketer?u=76281980&t=11)** If you consider how rapidly TikTok and Instagram grew in popularity, it's a strong example of a change that required marketers to quickly learn how to effectively use these channels.
 >
-> **[0:23](https://www.linkedin.com/learning/the-habits-of-successful-marketers/observe-and-learn-consistently-as-a-marketer?u=76281980&t=23)** Observing and learning how to continue to excel with marketing is a daily practice that's required to ensure your messaging drives results and so you remain competitive as a marketer.
+> **[0:23](https://www.linkedin.com/learning/the-habits-of-successful-marketers/observe-and-learn-consistently-as-a-marketer?u=76281980&t=23)** Observing and learning how to continue to [[Microsoft Excel|excel]] with marketing is a daily practice that's required to ensure your messaging drives results and so you remain competitive as a marketer.
 >
 > **[0:36](https://www.linkedin.com/learning/the-habits-of-successful-marketers/observe-and-learn-consistently-as-a-marketer?u=76281980&t=36)** What worked last year with marketing, isn't likely to have the same impact now, which is why you must continually observe what's happening around you and learn how to adapt.
 >
@@ -792,7 +776,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1)
 > **Prerequisites:** required to (1)
@@ -803,8 +787,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Accept the development process
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-habits-of-successful-marketers/accept-the-development-process?u=76281980)
+#### [Accept the development process](https://www.linkedin.com/learning/the-habits-of-successful-marketers/accept-the-development-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -814,17 +797,17 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/the-habits-of-successful-marketers/accept-the-development-process?u=76281980&t=22)** One month, you might actively be working on your communication skills with colleagues, and another you'll test different ways of conducting research to learn more about your customers.
 >
-> **[0:33](https://www.linkedin.com/learning/the-habits-of-successful-marketers/accept-the-development-process?u=76281980&t=33)** You'll likely naturally Excel at certain skills over others, which is an opportunity to further understand your strengths and weaknesses, as well as what you enjoy doing marketing wise.
+> **[0:33](https://www.linkedin.com/learning/the-habits-of-successful-marketers/accept-the-development-process?u=76281980&t=33)** You'll likely naturally [[Microsoft Excel|Excel]] at certain skills over others, which is an opportunity to further understand your strengths and weaknesses, as well as what you enjoy doing marketing wise.
 >
 > **[0:44](https://www.linkedin.com/learning/the-habits-of-successful-marketers/accept-the-development-process?u=76281980&t=44)** While there's no one path to success as a marketer, mastering this set of skills will better position you to develop a career that's both rewarding and aligned to what motivates you.
 >
-> **[0:55](https://www.linkedin.com/learning/the-habits-of-successful-marketers/accept-the-development-process?u=76281980&t=55)** If you're looking for continued advice on your career as a marketer, be sure to check out my website at [brianhonigman.com](https://brianhonigman.com) or follow me on LinkedIn, where I regularly share updates on what's working with marketing today.
+> **[0:55](https://www.linkedin.com/learning/the-habits-of-successful-marketers/accept-the-development-process?u=76281980&t=55)** If you're looking for continued advice on your career as a marketer, be sure to check out my website at [brianhonigman.com](https://brianhonigman.com) or follow me on [[LinkedIn]], where I regularly share updates on what's working with marketing today.
 >
 > **[1:08](https://www.linkedin.com/learning/the-habits-of-successful-marketers/accept-the-development-process?u=76281980&t=68)** Thank you for taking this course, and best of luck.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (3), [[Microsoft Excel|Excel]] (1), strengths (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[LinkedIn]] (1)
 > **Definitions:** is an  (2)
 > **URLs:** [brianhonigman.com](https://brianhonigman.com) (1)
 > **Speakers:** - [brian] (1)

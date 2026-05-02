@@ -75,37 +75,37 @@ created: 2026-05-02
 > 38. [[Cloud Architecture- Advanced Concepts]] — 4 mentions
 > 39. [[Relational Databases Essential Training]] — 4 mentions
 > 40. [[Advanced SQL- Logical Query Processing, Part 1]] — 4 mentions
-> 41. [[Google Cloud Digital Leader Cert Prep- 2 Exploring Data Transformation with Google Cloud]] — 3 mentions
-> 42. [[Intermediate SQL- Data Reporting and Analysis]] — 3 mentions
-> 43. [[A Beginner's Guide to Public Cloud Options]] — 2 mentions
-> 44. [[Kali Linux for Advanced Pen Testing and Ethical Hacking]] — 2 mentions
-> 45. [[Penetration Testing Essential Training (2021)]] — 2 mentions
-> 46. [[Rust for Data Engineering]] — 2 mentions
-> 47. [[Data Ingestion with Python]] — 2 mentions
-> 48. [[LLM Foundations- Vector Databases for Caching and Retrieval Augmented Generation (RAG)]] — 2 mentions
-> 49. [[Azure Cloud Fundamentals- Explore Cloud Services]] — 2 mentions
-> 50. [[AWS for Developers- CLI Tips]] — 2 mentions
-> 51. [[Fundamentals of Data Transformation for Data Engineering]] — 2 mentions
-> 52. [[Learning Kubernetes]] — 1 mentions
-> 53. [[Learning SQL Programming]] — 1 mentions
-> 54. [[Finding New Career Paths with SQL]] — 1 mentions
-> 55. [[Cloud Computing Careers and Certifications]] — 1 mentions
-> 56. [[Ethical Hacking- Enumeration]] — 1 mentions
-> 57. [[Ethical Hacking- Evading IDS, Firewalls, and Honeypots]] — 1 mentions
-> 58. [[Cybersecurity with Cloud Computing]] — 1 mentions
-> 59. [[Dependency Mapping for Cloud Migration]] — 1 mentions
-> 60. [[Integrating AI into the Product Architecture]] — 1 mentions
-> 61. [[Cloud Security Architecture for the Enterprise]] — 1 mentions
-> 62. [[Offensive Penetration Testing]] — 1 mentions
-> 63. [[Learning Apache Airflow]] — 1 mentions
-> 64. [[Data Planning Strategy And Compliance For Ai Initiatives]] — 1 mentions
-> 65. [[Scalable Data Storage and Processing for AI Workloads]] — 1 mentions
-> 66. [[SQL for Data Analysis]] — 1 mentions
-> 67. [[Build Ai Agents And Automate Workflows With N8n]] — 1 mentions
-> 68. [[Hands-On AI- Building AI Agents with Model Context Protocol (MCP) and Agent2Agent (A2A)]] — 1 mentions
-> 69. [[Python Data Analysis for Healthcare]] — 1 mentions
-> 70. [[Introduction to Data Warehouses]] — 1 mentions
-> 71. [[Azure Understanding The Big Picture]] — 1 mentions
+> 41. [[Azure Understanding The Big Picture]] — 3 mentions
+> 42. [[Google Cloud Digital Leader Cert Prep- 2 Exploring Data Transformation with Google Cloud]] — 3 mentions
+> 43. [[Intermediate SQL- Data Reporting and Analysis]] — 3 mentions
+> 44. [[A Beginner's Guide to Public Cloud Options]] — 2 mentions
+> 45. [[Kali Linux for Advanced Pen Testing and Ethical Hacking]] — 2 mentions
+> 46. [[Penetration Testing Essential Training (2021)]] — 2 mentions
+> 47. [[Rust for Data Engineering]] — 2 mentions
+> 48. [[Data Ingestion with Python]] — 2 mentions
+> 49. [[LLM Foundations- Vector Databases for Caching and Retrieval Augmented Generation (RAG)]] — 2 mentions
+> 50. [[Azure Cloud Fundamentals- Explore Cloud Services]] — 2 mentions
+> 51. [[AWS for Developers- CLI Tips]] — 2 mentions
+> 52. [[Fundamentals of Data Transformation for Data Engineering]] — 2 mentions
+> 53. [[Learning Kubernetes]] — 1 mentions
+> 54. [[Learning SQL Programming]] — 1 mentions
+> 55. [[Finding New Career Paths with SQL]] — 1 mentions
+> 56. [[Cloud Computing Careers and Certifications]] — 1 mentions
+> 57. [[Ethical Hacking- Enumeration]] — 1 mentions
+> 58. [[Ethical Hacking- Evading IDS, Firewalls, and Honeypots]] — 1 mentions
+> 59. [[Cybersecurity with Cloud Computing]] — 1 mentions
+> 60. [[Dependency Mapping for Cloud Migration]] — 1 mentions
+> 61. [[Integrating AI into the Product Architecture]] — 1 mentions
+> 62. [[Cloud Security Architecture for the Enterprise]] — 1 mentions
+> 63. [[Offensive Penetration Testing]] — 1 mentions
+> 64. [[Learning Apache Airflow]] — 1 mentions
+> 65. [[Data Planning Strategy And Compliance For Ai Initiatives]] — 1 mentions
+> 66. [[Scalable Data Storage and Processing for AI Workloads]] — 1 mentions
+> 67. [[SQL for Data Analysis]] — 1 mentions
+> 68. [[Build Ai Agents And Automate Workflows With N8n]] — 1 mentions
+> 69. [[Hands-On AI- Building AI Agents with Model Context Protocol (MCP) and Agent2Agent (A2A)]] — 1 mentions
+> 70. [[Python Data Analysis for Healthcare]] — 1 mentions
+> 71. [[Introduction to Data Warehouses]] — 1 mentions
 > 72. [[SQL for Finance Professionals]] — 1 mentions
 > 73. [[Migrating from REST to GraphQL]] — 1 mentions
 > 74. [[Generative AI for Data Engineering- ChatGPT Power Tips]] — 1 mentions

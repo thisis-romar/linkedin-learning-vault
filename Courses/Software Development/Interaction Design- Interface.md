@@ -62,12 +62,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing the interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-interface/introducing-the-interface?u=76281980)
+#### [Introducing the interface](https://www.linkedin.com/learning/interaction-design-interface/introducing-the-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/interaction-design-interface/introducing-the-interface?u=76281980&t=1)** - When most people think about user experience, they typically think of the user interface.
+> **[0:01](https://www.linkedin.com/learning/interaction-design-interface/introducing-the-interface?u=76281980&t=1)** - When most people think about [[User Experience (UX)|user experience]], they typically think of the user interface.
 >
 > **[0:06](https://www.linkedin.com/learning/interaction-design-interface/introducing-the-interface?u=76281980&t=6)** These are the screens they interact with and the websites they use daily.
 >
@@ -83,7 +82,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), product (1), ux (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - when (1)
 
@@ -92,18 +91,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Aesthetics in user interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-interface/aesthetics-in-user-interface?u=76281980)
+#### [Aesthetics in user interface](https://www.linkedin.com/learning/interaction-design-interface/aesthetics-in-user-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/interaction-design-interface/aesthetics-in-user-interface?u=76281980&t=1)** - UX designers are responsible for the entire user experience, and aesthetics are an important part of that.
+> **[0:01](https://www.linkedin.com/learning/interaction-design-interface/aesthetics-in-user-interface?u=76281980&t=1)** - UX designers are responsible for the entire [[User Experience (UX)|user experience]], and aesthetics are an important part of that.
 >
 > **[0:07](https://www.linkedin.com/learning/interaction-design-interface/aesthetics-in-user-interface?u=76281980&t=7)** The user interface, or UI, is typically what people think of when they think of UX design.
 >
 > **[0:12](https://www.linkedin.com/learning/interaction-design-interface/aesthetics-in-user-interface?u=76281980&t=12)** The user interface is the output of the work we did to create the right flows and define the underlying structure based on the understanding we have of our customers and the business problem.
 >
-> **[0:23](https://www.linkedin.com/learning/interaction-design-interface/aesthetics-in-user-interface?u=76281980&t=23)** The role of visual design in user interface design is to first reinforce the brand.
+> **[0:23](https://www.linkedin.com/learning/interaction-design-interface/aesthetics-in-user-interface?u=76281980&t=23)** The role of visual design in [[User Interface Design]] is to first reinforce the brand.
 >
 > **[0:29](https://www.linkedin.com/learning/interaction-design-interface/aesthetics-in-user-interface?u=76281980&t=29)** The brand application for user interfaces can include things like color, animation, illustration, imagery, iconography, and tone of voice in a text.
 >
@@ -111,7 +109,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/interaction-design-interface/aesthetics-in-user-interface?u=76281980&t=49)** The brand is the emotional connection established with customers and reinforces the relationship in all touchpoints.
 >
-> **[0:56](https://www.linkedin.com/learning/interaction-design-interface/aesthetics-in-user-interface?u=76281980&t=56)** Design systems will often have branded elements baked into the components, so if you work with a design system, the brand will already be represented.
+> **[0:56](https://www.linkedin.com/learning/interaction-design-interface/aesthetics-in-user-interface?u=76281980&t=56)** [[Design Systems]] will often have branded elements baked into the components, so if you work with a design system, the brand will already be represented.
 >
 > **[1:05](https://www.linkedin.com/learning/interaction-design-interface/aesthetics-in-user-interface?u=76281980&t=65)** Second, visual design enhances aesthetic appeal.
 >
@@ -145,13 +143,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (2), [[User Experience (UX)|User experience]] (2), business (1), [[User Interface Design]] (1), application (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2), [[User Interface Design]] (1), [[Design Systems]] (1)
 > **Analogies:** for example (3)
 > **Definitions:** refers to (1), is an  (1)
 > **Speakers:** - ux (1)
 
-#### Gestalt principles
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-interface/gestalt-principles?u=76281980)
+#### [Gestalt principles](https://www.linkedin.com/learning/interaction-design-interface/gestalt-principles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -165,7 +162,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/interaction-design-interface/gestalt-principles?u=76281980&t=27)** Most of these principles are used in various design capacities, including iconography and logo design.
 >
-> **[0:33](https://www.linkedin.com/learning/interaction-design-interface/gestalt-principles?u=76281980&t=33)** The principles that mostly impact user interface design are proximity and similarity.
+> **[0:33](https://www.linkedin.com/learning/interaction-design-interface/gestalt-principles?u=76281980&t=33)** The principles that mostly impact [[User Interface Design]] are proximity and similarity.
 >
 > **[0:38](https://www.linkedin.com/learning/interaction-design-interface/gestalt-principles?u=76281980&t=38)** Let's focus on these.
 >
@@ -211,12 +208,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[User Interface Design]] (1), business (1), next (1)
+> **Frameworks & Libraries:** [[User Interface Design]] (1)
 > **Definitions:** is a  (2), refers to (1)
 > **Speakers:** - when (1)
 
-#### Grouping and organization
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-interface/grouping-and-organization?u=76281980)
+#### [Grouping and organization](https://www.linkedin.com/learning/interaction-design-interface/grouping-and-organization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -230,7 +226,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/interaction-design-interface/grouping-and-organization?u=76281980&t=23)** To accentuate relationships on the user interface we can manipulate position, size, shape, and the color of the elements.
 >
-> **[0:31](https://www.linkedin.com/learning/interaction-design-interface/grouping-and-organization?u=76281980&t=31)** Let's take a look at a simple example of grouping from Xcode, a code editor used to build Mac apps.
+> **[0:31](https://www.linkedin.com/learning/interaction-design-interface/grouping-and-organization?u=76281980&t=31)** Let's take a look at a simple example of grouping from [[Xcode]], a code editor used to build Mac apps.
 >
 > **[0:37](https://www.linkedin.com/learning/interaction-design-interface/grouping-and-organization?u=76281980&t=37)** This screenshot shows grouping of icons on the top bar.
 >
@@ -246,7 +242,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/interaction-design-interface/grouping-and-organization?u=76281980&t=73)** If we wanted to accentuate the Student Spotlight, we can manipulate both the size and position of the Student Spotlight module to draw more emphasis to it.
 >
-> **[1:22](https://www.linkedin.com/learning/interaction-design-interface/grouping-and-organization?u=76281980&t=82)** We can make it bigger than the rest of the modules.
+> **[1:22](https://www.linkedin.com/learning/interaction-design-interface/grouping-and-organization?u=76281980&t=82)** We can make it bigger than the [[Representational State Transfer (REST)|rest]] of the modules.
 >
 > **[1:25](https://www.linkedin.com/learning/interaction-design-interface/grouping-and-organization?u=76281980&t=85)** We can also show relationships by using color to show that items are related, or if we want to make our information stand out.
 >
@@ -280,14 +276,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Xcode]] (1), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[Xcode]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3)
 > **URLs:** [benefits.gov](https://benefits.gov) (1), [opentable.com](https://opentable.com) (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - two (1)
 
-#### Hierarchy
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-interface/hierarchy?u=76281980)
+#### [Hierarchy](https://www.linkedin.com/learning/interaction-design-interface/hierarchy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -301,7 +296,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/interaction-design-interface/hierarchy?u=76281980&t=25)** Headings establish hierarchy when used to separate sections of a page.
 >
-> **[0:30](https://www.linkedin.com/learning/interaction-design-interface/hierarchy?u=76281980&t=30)** Typically, larger headings are at the top of the page and are used in smaller sizes on the rest of the page.
+> **[0:30](https://www.linkedin.com/learning/interaction-design-interface/hierarchy?u=76281980&t=30)** Typically, larger headings are at the top of the page and are used in smaller sizes on the [[Representational State Transfer (REST)|rest]] of the page.
 >
 > **[0:37](https://www.linkedin.com/learning/interaction-design-interface/hierarchy?u=76281980&t=37)** Here's an example of how headings can help create more organization for this jury instructions web page.
 >
@@ -341,13 +336,13 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/interaction-design-interface/hierarchy?u=76281980&t=154)** Headings and ordering of content is a good place to start when beginning your layout and establishing priority.
 >
-> **[2:40](https://www.linkedin.com/learning/interaction-design-interface/hierarchy?u=76281980&t=160)** Hierarchy is one of the most important concepts to master when creating user interface design.
+> **[2:40](https://www.linkedin.com/learning/interaction-design-interface/hierarchy?u=76281980&t=160)** Hierarchy is one of the most important concepts to master when creating [[User Interface Design]].
 >
 > **[2:45](https://www.linkedin.com/learning/interaction-design-interface/hierarchy?u=76281980&t=165)** For your next project, think about how you want your users to understand the information and in what order and create a decisive hierarchy that supports that goal.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), web (1), [[Search]] (1), cloud (1), [[User Interface Design]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[User Interface Design]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - when (1)
@@ -357,8 +352,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Grids and information density
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-interface/grids-and-information-density?u=76281980)
+#### [Grids and information density](https://www.linkedin.com/learning/interaction-design-interface/grids-and-information-density?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -420,19 +414,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), product (1)
 > **Definitions:** means that (3)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Typography and legibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-interface/typography-and-legibility?u=76281980)
+#### [Typography and legibility](https://www.linkedin.com/learning/interaction-design-interface/typography-and-legibility?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/interaction-design-interface/typography-and-legibility?u=76281980&t=0)** - Content and typography are key for readability and scanability, which we can enhance through thoughtful content design.
+> **[0:00](https://www.linkedin.com/learning/interaction-design-interface/typography-and-legibility?u=76281980&t=0)** - Content and [[Typography]] are key for readability and scanability, which we can enhance through thoughtful content design.
 >
 > **[0:07](https://www.linkedin.com/learning/interaction-design-interface/typography-and-legibility?u=76281980&t=7)** Typography also helps with establishing hierarchy.
 >
@@ -476,14 +468,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Typography]] (3), next (2), application (1), ux (1)
+> **Frameworks & Libraries:** [[Typography]] (3)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - content (1)
 
-#### Use icons
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-interface/use-icons?u=76281980)
+#### [Use icons](https://www.linkedin.com/learning/interaction-design-interface/use-icons?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -555,20 +546,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1), product (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** template (1)
 > **Analogies:** for example (1)
 > **Speakers:** - icons (1)
 
-#### The power and importance of color
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-interface/the-power-and-importance-of-color?u=76281980)
+#### [The power and importance of color](https://www.linkedin.com/learning/interaction-design-interface/the-power-and-importance-of-color?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/interaction-design-interface/the-power-and-importance-of-color?u=76281980&t=1)** - Principles of grouping and similarity play a large role in interface design and color is one of the techniques we can use to associate objects to each other and convey a group or to convey a similarity.
 >
-> **[0:11](https://www.linkedin.com/learning/interaction-design-interface/the-power-and-importance-of-color?u=76281980&t=11)** Color can communicate emotion but in user interface design, we mostly use color for emphasis.
+> **[0:11](https://www.linkedin.com/learning/interaction-design-interface/the-power-and-importance-of-color?u=76281980&t=11)** Color can communicate emotion but in [[User Interface Design]], we mostly use color for emphasis.
 >
 > **[0:18](https://www.linkedin.com/learning/interaction-design-interface/the-power-and-importance-of-color?u=76281980&t=18)** Color enforces hierarchy by emphasizing elements over others.
 >
@@ -580,11 +569,11 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/interaction-design-interface/the-power-and-importance-of-color?u=76281980&t=40)** Color, if used correctly, increases scannability as it allows our eye to pick up differences quickly and draws emphasis to elements on the page.
 >
-> **[0:49](https://www.linkedin.com/learning/interaction-design-interface/the-power-and-importance-of-color?u=76281980&t=49)** In this example, the light red status message stands out against the rest of the text and our eye is drawn to it.
+> **[0:49](https://www.linkedin.com/learning/interaction-design-interface/the-power-and-importance-of-color?u=76281980&t=49)** In this example, the light red status message stands out against the [[Representational State Transfer (REST)|rest]] of the text and our eye is drawn to it.
 >
 > **[0:57](https://www.linkedin.com/learning/interaction-design-interface/the-power-and-importance-of-color?u=76281980&t=57)** Color also reinforces brand and in user interface design, we typically see color being used in UI elements like buttons and form fields to reflect the brand color palette.
 >
-> **[1:08](https://www.linkedin.com/learning/interaction-design-interface/the-power-and-importance-of-color?u=76281980&t=68)** In this example from the United States Web Design System, the colors reflect the brand from their color palette.
+> **[1:08](https://www.linkedin.com/learning/interaction-design-interface/the-power-and-importance-of-color?u=76281980&t=68)** In this example from the United States [[Web Design]] System, the colors reflect the brand from their color palette.
 >
 > **[1:15](https://www.linkedin.com/learning/interaction-design-interface/the-power-and-importance-of-color?u=76281980&t=75)** When designing an experience with a lot of color, you'll want to use the colors in your brand palette but only use color to emphasize and enhance information.
 >
@@ -594,7 +583,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/interaction-design-interface/the-power-and-importance-of-color?u=76281980&t=93)** Gray is a utilitarian neutral color that is used as a background against white containers, or to group related information without overwhelming the content.
 >
-> **[1:43](https://www.linkedin.com/learning/interaction-design-interface/the-power-and-importance-of-color?u=76281980&t=103)** And here's an example from Word where the background behind the document is gray.
+> **[1:43](https://www.linkedin.com/learning/interaction-design-interface/the-power-and-importance-of-color?u=76281980&t=103)** And here's an example from [[Microsoft Word|Word]] where the background behind the document is gray.
 >
 > **[1:48](https://www.linkedin.com/learning/interaction-design-interface/the-power-and-importance-of-color?u=76281980&t=108)** Gradients and drop shadows come in and out of trends but they do serve the purpose of adding depth to elements by manipulating the light source.
 >
@@ -610,7 +599,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/interaction-design-interface/the-power-and-importance-of-color?u=76281980&t=151)** The text communicates the button action, using color alone might exclude color blind users.
 >
-> **[2:37](https://www.linkedin.com/learning/interaction-design-interface/the-power-and-importance-of-color?u=76281980&t=157)** We need to be cognizant of the many different users that use our products and services and who will experience our user interface.
+> **[2:37](https://www.linkedin.com/learning/interaction-design-interface/the-power-and-importance-of-color?u=76281980&t=157)** We need to be cognizant of the many different users that use our [[Microsoft Products|products]] and services and who will experience our user interface.
 >
 > **[2:44](https://www.linkedin.com/learning/interaction-design-interface/the-power-and-importance-of-color?u=76281980&t=164)** Secondly, we also have to have contrast ratio that's high enough for people to distinguish elements from the background.
 >
@@ -626,7 +615,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[User Interface Design]] (2), [[Representational State Transfer (REST)|Rest]] (1), web (1), [[Analytics]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[User Interface Design]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Web Design]] (1), [[Microsoft Word|Word]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** ios (1)
 > **Definitions:** is a  (1)
@@ -639,8 +628,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Incorporate illustrations
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-interface/incorporate-illustrations?u=76281980)
+#### [Incorporate illustrations](https://www.linkedin.com/learning/interaction-design-interface/incorporate-illustrations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -650,13 +638,13 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/interaction-design-interface/incorporate-illustrations?u=76281980&t=9)** Similar to icons, illustrations represent the brand and reflect the company's style.
 >
-> **[0:14](https://www.linkedin.com/learning/interaction-design-interface/incorporate-illustrations?u=76281980&t=14)** Onboarding can be a daunting and confusing process for some products, and it can be difficult to communicate how to get through the experience.
+> **[0:14](https://www.linkedin.com/learning/interaction-design-interface/incorporate-illustrations?u=76281980&t=14)** Onboarding can be a daunting and confusing process for some [[Microsoft Products|products]], and it can be difficult to communicate how to get through the experience.
 >
 > **[0:21](https://www.linkedin.com/learning/interaction-design-interface/incorporate-illustrations?u=76281980&t=21)** You can simplify the message by using supporting illustrations.
 >
 > **[0:26](https://www.linkedin.com/learning/interaction-design-interface/incorporate-illustrations?u=76281980&t=26)** When used in onboarding, illustrations can add an element of warmth, personality, fun and approachability to what might otherwise be a dull process.
 >
-> **[0:35](https://www.linkedin.com/learning/interaction-design-interface/incorporate-illustrations?u=76281980&t=35)** In this example from a Google product onboarding, the illustrations add an engaging feel to invite you to explore your timeline.
+> **[0:35](https://www.linkedin.com/learning/interaction-design-interface/incorporate-illustrations?u=76281980&t=35)** In this example from a [[Google]] product onboarding, the illustrations add an engaging feel to invite you to explore your timeline.
 >
 > **[0:42](https://www.linkedin.com/learning/interaction-design-interface/incorporate-illustrations?u=76281980&t=42)** You might consider an illustration over a photograph, because the idea you want to communicate might not be captured as easily through a photo, especially for complex processes.
 >
@@ -694,13 +682,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), [[Google]] (2), [[Microsoft Products|Products]] (1), feature (1), next (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - illustrations (1)
 
-#### Present data in design
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-interface/present-data-in-design?u=76281980)
+#### [Present data in design](https://www.linkedin.com/learning/interaction-design-interface/present-data-in-design?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -746,21 +733,20 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/interaction-design-interface/present-data-in-design?u=76281980&t=126)** It's a common pattern to have hover states over graphs to show more details and information.
 >
-> **[2:12](https://www.linkedin.com/learning/interaction-design-interface/present-data-in-design?u=76281980&t=132)** In this example from Google Analytics, they offer a lot of ways to interact with the data, which is very helpful when you want to view your data in different ways.
+> **[2:12](https://www.linkedin.com/learning/interaction-design-interface/present-data-in-design?u=76281980&t=132)** In this example from [[Google]] Analytics, they offer a lot of ways to interact with the data, which is very helpful when you want to view your data in different ways.
 >
 > **[2:20](https://www.linkedin.com/learning/interaction-design-interface/present-data-in-design?u=76281980&t=140)** When thinking about designing for data presentation, make sure you know what data's insightful and meaningful for your users to design it with them in mind.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Google]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Visual interest with animation
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-interface/visual-interest-with-animation?u=76281980)
+#### [Visual interest with animation](https://www.linkedin.com/learning/interaction-design-interface/visual-interest-with-animation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -768,7 +754,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/interaction-design-interface/visual-interest-with-animation?u=76281980&t=7)** The first purpose is to provide feedback to the user.
 >
-> **[0:10](https://www.linkedin.com/learning/interaction-design-interface/visual-interest-with-animation?u=76281980&t=10)** Feedback is important in user experience, because our users always need to be aware of what the system is doing.
+> **[0:10](https://www.linkedin.com/learning/interaction-design-interface/visual-interest-with-animation?u=76281980&t=10)** Feedback is important in [[User Experience (UX)|user experience]], because our users always need to be aware of what the system is doing.
 >
 > **[0:16](https://www.linkedin.com/learning/interaction-design-interface/visual-interest-with-animation?u=76281980&t=16)** Every action the user takes, the system responds.
 >
@@ -816,7 +802,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (2), [[User Experience (UX)|User experience]] (1), data (1), functional (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -828,8 +814,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Take the interface further
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-interface/take-the-interface-further?u=76281980)
+#### [Take the interface further](https://www.linkedin.com/learning/interaction-design-interface/take-the-interface-further?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -843,7 +828,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/interaction-design-interface/take-the-interface-further?u=76281980&t=25)** I look forward to reading your thoughts and questions.
 >
-> **[0:28](https://www.linkedin.com/learning/interaction-design-interface/take-the-interface-further?u=76281980&t=28)** You can check out my other LinkedIn Learning interaction design courses on prototyping and structure for more relevant material.
+> **[0:28](https://www.linkedin.com/learning/interaction-design-interface/take-the-interface-further?u=76281980&t=28)** You can check out my other [[LinkedIn]] Learning interaction design courses on [[Prototyping]] and structure for more relevant material.
 >
 > **[0:35](https://www.linkedin.com/learning/interaction-design-interface/take-the-interface-further?u=76281980&t=35)** And also feel free to follow me on LinkedIn or Twitter.
 >
@@ -851,7 +836,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2), ux (1), [[Prototyping]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Prototyping]] (1)
 > **Speakers:** - thanks (1)
 
 

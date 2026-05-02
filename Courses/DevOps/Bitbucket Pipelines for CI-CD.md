@@ -83,18 +83,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### From commit to deployment with Bitbucket Pipelines
-> [LinkedIn Learning](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/from-commit-to-deployment-with-bitbucket-pipelines?u=76281980)
+#### [From commit to deployment with Bitbucket Pipelines](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/from-commit-to-deployment-with-bitbucket-pipelines?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/from-commit-to-deployment-with-bitbucket-pipelines?u=76281980&t=0)** - [Michael] In the fast-paced world of software development, efficiency and automation are essential.
+> **[0:00](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/from-commit-to-deployment-with-bitbucket-pipelines?u=76281980&t=0)** - [Michael] In the fast-paced world of [[Software Development]], efficiency and automation are essential.
 >
-> **[0:06](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/from-commit-to-deployment-with-bitbucket-pipelines?u=76281980&t=6)** Bitbucket Pipelines is an automation tool that helps us integrate code, deliver artifacts, and deploy applications simply by pushing code to a GI repository.
+> **[0:06](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/from-commit-to-deployment-with-bitbucket-pipelines?u=76281980&t=6)** [[Bitbucket]] Pipelines is an automation tool that helps us integrate code, deliver artifacts, and deploy applications simply by pushing code to a GI repository.
 >
 > **[0:17](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/from-commit-to-deployment-with-bitbucket-pipelines?u=76281980&t=17)** Over the years, I've come to appreciate using Bitbucket Pipelines for projects that need simple, effective CI/CD.
 >
-> **[0:25](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/from-commit-to-deployment-with-bitbucket-pipelines?u=76281980&t=25)** Hi, I'm Michael Jenkins.
+> **[0:25](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/from-commit-to-deployment-with-bitbucket-pipelines?u=76281980&t=25)** Hi, I'm Michael [[Jenkins]].
 >
 > **[0:27](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/from-commit-to-deployment-with-bitbucket-pipelines?u=76281980&t=27)** Are you ready to enhance your software development workflow?
 >
@@ -102,14 +101,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Bitbucket]] (3), [[Software Development]] (2), [[Automation]] (2), ci (2), cd (2)
+> **Frameworks & Libraries:** [[Bitbucket]] (3), [[Software Development]] (2), [[Jenkins]] (1)
 > **Tools:** bitbucket (3)
 > **CLI Commands:** cd (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [michael] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -117,13 +115,13 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/what-you-should-know?u=76281980&t=6)** You should also know that this course has built-in features to help you out along the way.
 >
-> **[0:12](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/what-you-should-know?u=76281980&t=12)** You should already be familiar with using Bitbucket, a cloud-based service for hosting Git repositories.
+> **[0:12](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/what-you-should-know?u=76281980&t=12)** You should already be familiar with using [[Bitbucket]], a cloud-based service for hosting [[Git]] repositories.
 >
 > **[0:19](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/what-you-should-know?u=76281980&t=19)** You should already know how to create Bitbucket workspaces, projects, and repositories.
 >
 > **[0:25](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/what-you-should-know?u=76281980&t=25)** If you need to get up to speed, I highly recommend completing my course Learning Bitbucket.
 >
-> **[0:31](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/what-you-should-know?u=76281980&t=31)** Learning Bitbucket lays the foundation for the content in this course, and also includes steps for creating Atlassian and Bitbucket accounts.
+> **[0:31](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/what-you-should-know?u=76281980&t=31)** Learning Bitbucket lays the foundation for the content in this course, and also includes steps for creating [[Atlassian]] and Bitbucket accounts.
 >
 > **[0:40](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/what-you-should-know?u=76281980&t=40)** Bitbucket pipelines uses container images extensively.
 >
@@ -143,9 +141,9 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/what-you-should-know?u=76281980&t=81)** This is for the security of your account and any pipelines that can build artifacts or deploy applications.
 >
-> **[1:28](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/what-you-should-know?u=76281980&t=88)** If you need suggestions, take a look at tools from Authy, Google, Microsoft, or 1Password.
+> **[1:28](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/what-you-should-know?u=76281980&t=88)** If you need suggestions, take a look at tools from Authy, [[Google]], [[Microsoft]], or 1Password.
 >
-> **[1:36](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/what-you-should-know?u=76281980&t=96)** If you're planning to complete the deployment examples and challenges, you'll also need an account with Amazon Web Services.
+> **[1:36](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/what-you-should-know?u=76281980&t=96)** If you're planning to complete the deployment examples and challenges, you'll also need an account with [[Amazon Web Services (AWS)|Amazon Web Services]].
 >
 > **[1:42](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/what-you-should-know?u=76281980&t=102)** Browse to aws.[amazon.com/free](https://amazon.com/free) and follow the steps there to create an account using the AWS free tier.
 >
@@ -171,7 +169,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Bitbucket]] (7), aws (2), cloud (1), [[Git]] (1), [[Atlassian]] (1)
+> **Frameworks & Libraries:** [[Bitbucket]] (7), [[Git]] (1), [[Atlassian]] (1), [[Google]] (1), [[Microsoft]] (1)
 > **CLI Commands:** find (3), aws (2), git (1), docker (1)
 > **Tools:** bitbucket (7)
 > **Env Vars:** yaml (3), aws (1)
@@ -180,14 +178,13 @@ created: 2026-05-02
 > **URLs:** [amazon.com](https://amazon.com) (1)
 > **Speakers:** - [presenter] (1)
 
-#### Overview of CI/CD
-> [LinkedIn Learning](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/overview-of-ci-cd?u=76281980)
+#### [Overview of CI/CD](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/overview-of-ci-cd?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/overview-of-ci-cd?u=76281980&t=0)** - [Instructor] Let's take a moment to get familiar with the software development process most commonly known as CI/CD.
+> **[0:00](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/overview-of-ci-cd?u=76281980&t=0)** - [Instructor] Let's take a moment to get familiar with the [[Software Development]] process most commonly known as CI/CD.
 >
-> **[0:07](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/overview-of-ci-cd?u=76281980&t=7)** For the simplest definition, CI/CD is an acronym for three phases of software development, continuous integration, continuous delivery, and continuous deployment.
+> **[0:07](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/overview-of-ci-cd?u=76281980&t=7)** For the simplest definition, CI/CD is an acronym for three phases of software development, [[Continuous Integration (CI)|continuous integration]], [[Continuous Delivery (CD)|continuous delivery]], and continuous deployment.
 >
 > **[0:20](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/overview-of-ci-cd?u=76281980&t=20)** With continuous integration, developers work on their code in a local environment and commit their changes to a shared repository on a regular basis.
 >
@@ -217,22 +214,21 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/overview-of-ci-cd?u=76281980&t=120)** Using a well-defined continuous deployment pipeline, development teams can release software quickly and reliably, giving them more time to focus on feature development and other engineering tasks.
 >
-> **[2:13](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/overview-of-ci-cd?u=76281980&t=133)** Now that we have a better understanding of CI/CD, we can discuss how Bitbucket Pipelines helps us automate each step of the CI/CD process.
+> **[2:13](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/overview-of-ci-cd?u=76281980&t=133)** Now that we have a better understanding of CI/CD, we can discuss how [[Bitbucket]] Pipelines helps us automate each step of the CI/CD process.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cd (6), ci (5), [[Continuous Delivery (CD)|Continuous delivery]] (4), [[Software Development]] (2), [[Continuous Integration (CI)|Continuous integration]] (2)
+> **Frameworks & Libraries:** [[Continuous Delivery (CD)|Continuous delivery]] (4), [[Software Development]] (2), [[Continuous Integration (CI)|Continuous integration]] (2), [[Bitbucket]] (1)
 > **CLI Commands:** cd (6)
 > **Definitions:** known as (1), is an  (1), in other words (1)
 > **Tools:** bitbucket (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding pipeline limits
-> [LinkedIn Learning](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/understanding-pipeline-limits?u=76281980)
+#### [Understanding pipeline limits](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/understanding-pipeline-limits?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/understanding-pipeline-limits?u=76281980&t=1)** - [Instructor] The Bitbucket Free Tier comes with some pretty genuine allowances, but there are a few limitations you need to know about.
+> **[0:01](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/understanding-pipeline-limits?u=76281980&t=1)** - [Instructor] The [[Bitbucket]] Free Tier comes with some pretty genuine allowances, but there are a few limitations you need to know about.
 >
 > **[0:08](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/understanding-pipeline-limits?u=76281980&t=8)** Bitbucket provides unlimited public and private repositories for individuals and teams with less than five members.
 >
@@ -250,7 +246,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Bitbucket]] (4), teams (1)
+> **Frameworks & Libraries:** [[Bitbucket]] (4)
 > **Tools:** bitbucket (4)
 > **Env Vars:** lfs (1)
 > **Exercise Files:** exercise files (1)
@@ -262,14 +258,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/create-a-pipeline?u=76281980)
+#### [Create a pipeline](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/create-a-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/create-a-pipeline?u=76281980&t=0)** - [Instructor] Let's create our first pipeline.
 >
-> **[0:03](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/create-a-pipeline?u=76281980&t=3)** I'm logged into my Bitbucket account and I've already created a workspace, project and repository.
+> **[0:03](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/create-a-pipeline?u=76281980&t=3)** I'm logged into my [[Bitbucket]] account and I've already created a workspace, project and repository.
 >
 > **[0:09](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/create-a-pipeline?u=76281980&t=9)** On the repository homepage, I'll select pipelines from the left side menu.
 >
@@ -277,7 +272,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/create-a-pipeline?u=76281980&t=21)** Having two-step verification, also known as 2FActor or 2FA, is required before we can start using pipelines.
 >
-> **[0:28](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/create-a-pipeline?u=76281980&t=28)** Atlassian has this feature in place to help keep our code repositories secure, so I'll follow the link for two-step verification.
+> **[0:28](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/create-a-pipeline?u=76281980&t=28)** [[Atlassian]] has this feature in place to help keep our code repositories secure, so I'll follow the link for two-step verification.
 >
 > **[0:37](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/create-a-pipeline?u=76281980&t=37)** On this screen, I'll follow the instructions to set up my 2FA device.
 >
@@ -297,7 +292,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/create-a-pipeline?u=76281980&t=87)** I'll select Create your First Pipeline.
 >
-> **[1:31](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/create-a-pipeline?u=76281980&t=91)** On the pipeline creation page, we can choose templates for different types of software projects.
+> **[1:31](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/create-a-pipeline?u=76281980&t=91)** On the pipeline creation page, we can choose templates for different types of [[Software Projects]].
 >
 > **[1:37](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/create-a-pipeline?u=76281980&t=97)** This is helpful if we already have code, but since I'm starting with an empty repo, I'll select Starter Pipeline.
 >
@@ -327,7 +322,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Atlassian]] (2), [[Bitbucket]] (1), feature (1), application (1), [[Software Projects]] (1)
+> **Frameworks & Libraries:** [[Atlassian]] (2), [[Bitbucket]] (1), [[Software Projects]] (1)
 > **Exercise Files:** exercise files (1), template (1)
 > **Definitions:** is a  (1), known as (1)
 > **Cross-References:** go back to (1)
@@ -335,16 +330,15 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Bitbucket Pipelines configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/bitbucket-pipelines-configuration?u=76281980)
+#### [Bitbucket Pipelines configuration](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/bitbucket-pipelines-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/bitbucket-pipelines-configuration?u=76281980&t=0)** - [Instructor] Bitbucket pipelines are configured in a file at the root of the repository named bitbucket-pipelines.yml.
+> **[0:00](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/bitbucket-pipelines-configuration?u=76281980&t=0)** - [Instructor] [[Bitbucket]] pipelines are configured in a file at the root of the repository named bitbucket-pipelines.yml.
 >
 > **[0:07](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/bitbucket-pipelines-configuration?u=76281980&t=7)** For developers, having the configuration in the repo is a benefit.
 >
-> **[0:11](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/bitbucket-pipelines-configuration?u=76281980&t=11)** We can treat the pipeline as code and track changes to it with the rest of the files in the repo.
+> **[0:11](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/bitbucket-pipelines-configuration?u=76281980&t=11)** We can treat the pipeline as code and track changes to it with the [[Representational State Transfer (REST)|rest]] of the files in the repo.
 >
 > **[0:17](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/bitbucket-pipelines-configuration?u=76281980&t=17)** The configuration uses a YAML format, which allows for easy interpretation by both humans and computers.
 >
@@ -366,7 +360,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/bitbucket-pipelines-configuration?u=76281980&t=82)** The default trigger will run the associated pipeline on every push to the repository.
 >
-> **[1:28](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/bitbucket-pipelines-configuration?u=76281980&t=88)** This is particularly useful for software development.
+> **[1:28](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/bitbucket-pipelines-configuration?u=76281980&t=88)** This is particularly useful for [[Software Development]].
 >
 > **[1:32](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/bitbucket-pipelines-configuration?u=76281980&t=92)** For example, we can use the default trigger to run integration pipelines on every push to the repo while using a specific branch name or other trigger configurations to start deployments manually.
 >
@@ -388,7 +382,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Bitbucket]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Software Development]] (1), parallel (1), web (1)
+> **Frameworks & Libraries:** [[Bitbucket]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Software Development]] (1)
 > **CLI Commands:** find (2), docker (1)
 > **Tools:** bitbucket (3)
 > **Env Vars:** yaml (2)
@@ -397,12 +391,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 
-#### Configure pipeline stages
-> [LinkedIn Learning](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/configure-pipeline-stages?u=76281980)
+#### [Configure pipeline stages](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/configure-pipeline-stages?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/configure-pipeline-stages?u=76281980&t=0)** - [Instructor] I'm logged into my Bitbucket account and I'm viewing a previous run of the starter pipeline configuration.
+> **[0:00](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/configure-pipeline-stages?u=76281980&t=0)** - [Instructor] I'm logged into my [[Bitbucket]] account and I'm viewing a previous run of the starter pipeline configuration.
 >
 > **[0:06](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/configure-pipeline-stages?u=76281980&t=6)** From this screen, I can see a visualization of the pipeline with the three integration steps running in parallel at the start of the pipeline, followed by two deployment steps.
 >
@@ -424,17 +417,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Bitbucket]] (1), parallel (1)
+> **Frameworks & Libraries:** [[Bitbucket]] (1)
 > **Tools:** bitbucket (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configure pipeline triggers
-> [LinkedIn Learning](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/congiure-pipeline-triggers?u=76281980)
+#### [Configure pipeline triggers](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/congiure-pipeline-triggers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/congiure-pipeline-triggers?u=76281980&t=1)** - [Instructor] Let's look at some of the ways we can trigger Bitbucket pipelines.
+> **[0:01](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/congiure-pipeline-triggers?u=76281980&t=1)** - [Instructor] Let's look at some of the ways we can trigger [[Bitbucket]] pipelines.
 >
 > **[0:05](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/congiure-pipeline-triggers?u=76281980&t=5)** The most common triggers are the default trigger, branches, and pull requests.
 >
@@ -550,7 +542,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (7), [[Bitbucket]] (5), web (2), [[Security]] (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Bitbucket]] (5)
 > **Tools:** bitbucket (5)
 > **Analogies:** for example (2), just like (1)
 > **CLI Commands:** make (2)
@@ -559,14 +551,13 @@ created: 2026-05-02
 > **Env Vars:** yaml (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use YAML anchors
-> [LinkedIn Learning](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-yaml-anchors?u=76281980)
+#### [Use YAML anchors](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-yaml-anchors?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-yaml-anchors?u=76281980&t=0)** - [Instructor] As you add more pipelines and triggers to a single file, you may start to see the same code being used in multiple places.
 >
-> **[0:08](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-yaml-anchors?u=76281980&t=8)** This is an excellent opportunity to use the DRY approach to software development.
+> **[0:08](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-yaml-anchors?u=76281980&t=8)** This is an excellent opportunity to use the DRY approach to [[Software Development]].
 >
 > **[0:13](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-yaml-anchors?u=76281980&t=13)** In this case, DRY stands for Don't Repeat Yourself.
 >
@@ -584,7 +575,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-yaml-anchors?u=76281980&t=62)** Once our anchors are in place, we can refer to them in multiple locations using a step block and then an asterisk character followed by the anchor's alias.
 >
-> **[1:13](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-yaml-anchors?u=76281980&t=73)** When the pipeline configuration is processed by Bitbucket, the reference to the alias will be replaced by the code and the anchor.
+> **[1:13](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-yaml-anchors?u=76281980&t=73)** When the pipeline configuration is processed by [[Bitbucket]], the reference to the alias will be replaced by the code and the anchor.
 >
 > **[1:21](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-yaml-anchors?u=76281980&t=81)** In some cases, we'll need to override top level values in a YAML anchor like the name.
 >
@@ -619,8 +610,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Create a pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/challenge-create-a-pipeline?u=76281980)
+#### [Challenge: Create a pipeline](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/challenge-create-a-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -630,13 +620,13 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/challenge-create-a-pipeline?u=76281980&t=8)** That means it's time for a challenge to apply what you've learned.
 >
-> **[0:12](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/challenge-create-a-pipeline?u=76281980&t=12)** In this challenge, you're part of a software development team working on an open source application, the amazing mobile app.
+> **[0:12](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/challenge-create-a-pipeline?u=76281980&t=12)** In this challenge, you're part of a [[Software Development]] team working on an open source application, the amazing mobile app.
 >
-> **[0:20](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/challenge-create-a-pipeline?u=76281980&t=20)** The team is already using Bitbucket for code repositories, and now they're ready to start using Bitbucket pipelines to automate their CI CD workflows.
+> **[0:20](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/challenge-create-a-pipeline?u=76281980&t=20)** The team is already using [[Bitbucket]] for code repositories, and now they're ready to start using Bitbucket pipelines to automate their CI CD workflows.
 >
 > **[0:30](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/challenge-create-a-pipeline?u=76281980&t=30)** You've been assigned to create a pipeline configuration to help the team understand the capabilities of Bitbucket pipelines.
 >
-> **[0:37](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/challenge-create-a-pipeline?u=76281980&t=37)** The configuration needs to include steps for continuous integration and continuous deployments to multiple environments.
+> **[0:37](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/challenge-create-a-pipeline?u=76281980&t=37)** The configuration needs to include steps for [[Continuous Integration (CI)|continuous integration]] and continuous deployments to multiple environments.
 >
 > **[0:45](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/challenge-create-a-pipeline?u=76281980&t=45)** The code also needs to be easy to maintain and visualize.
 >
@@ -672,7 +662,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Bitbucket]] (4), feature (2), [[Software Development]] (1), application (1), ci (1)
+> **Frameworks & Libraries:** [[Bitbucket]] (4), [[Software Development]] (1), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **Tools:** bitbucket (4)
 > **Exercise Files:** template (2), exercise files (1)
 > **CLI Commands:** cd (1), find (1)
@@ -680,8 +670,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (lively music) (1)
 
-#### Solution: Create a pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/solution-create-a-pipeline?u=76281980)
+#### [Solution: Create a pipeline](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/solution-create-a-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -693,7 +682,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/solution-create-a-pipeline?u=76281980&t=14)** I cloned the repo to my local system, so I'll go there now to edit the file.
 >
-> **[0:22](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/solution-create-a-pipeline?u=76281980&t=22)** I'm on my local system now and I'm editing the bitbucket-pipelines.yaml file.
+> **[0:22](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/solution-create-a-pipeline?u=76281980&t=22)** I'm on my local system now and I'm editing the [[Bitbucket]]-pipelines.yaml file.
 >
 > **[0:27](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/solution-create-a-pipeline?u=76281980&t=27)** The first thing I know I need to do is add triggers for branches.
 >
@@ -839,7 +828,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (12), parallel (8), next (3), [[Bitbucket]] (2), web (1)
+> **Frameworks & Libraries:** [[Bitbucket]] (2)
 > **CLI Commands:** make (6)
 > **Code Identifiers:** build_and_test (3), security_scan (2), deployment_to_staging (1)
 > **Env Vars:** yaml (4)
@@ -853,8 +842,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Variables and secrets
-> [LinkedIn Learning](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/variables-and-secrets?u=76281980)
+#### [Variables and secrets](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/variables-and-secrets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -912,7 +900,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/variables-and-secrets?u=76281980&t=172)** And finally, predefined variables are given the least precedence.
 >
-> **[2:57](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/variables-and-secrets?u=76281980&t=177)** I'm logged into my Bitbucket account and I'm on the Workspace Overview page.
+> **[2:57](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/variables-and-secrets?u=76281980&t=177)** I'm logged into my [[Bitbucket]] account and I'm on the Workspace Overview page.
 >
 > **[3:02](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/variables-and-secrets?u=76281980&t=182)** To set variables from here, I'll select this cog in the upper right-hand corner, and then I'll select workspace settings.
 >
@@ -942,7 +930,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), api (1), next (1), ci (1), cd (1)
+> **Frameworks & Libraries:** [[Bitbucket]] (1)
 > **UI Navigation:** scroll down (4), select the (1)
 > **CLI Commands:** make (2), find (1), cd (1)
 > **Env Vars:** api (1)
@@ -951,8 +939,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** setup (1)
 
-#### Use environment and deployment variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-environments-and-deployment-variables?u=76281980)
+#### [Use environment and deployment variables](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-environments-and-deployment-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -962,7 +949,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-environments-and-deployment-variables?u=76281980&t=14)** For pipelines that deploy to multiple environments, we might be inclined to create pipeline steps specific to each environment.
 >
-> **[0:23](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-environments-and-deployment-variables?u=76281980&t=23)** But if those steps share the same code and commands, then our pipeline isn't dry, meaning we haven't followed the software development tenant, don't repeat yourself.
+> **[0:23](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-environments-and-deployment-variables?u=76281980&t=23)** But if those steps share the same code and commands, then our pipeline isn't dry, meaning we haven't followed the [[Software Development]] tenant, don't repeat yourself.
 >
 > **[0:33](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-environments-and-deployment-variables?u=76281980&t=33)** Instead, we can use deployment variables and YAML anchors to streamline the code in a way that allows us to use the same step for multiple environments.
 >
@@ -970,7 +957,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-environments-and-deployment-variables?u=76281980&t=54)** Let's see how to apply this in a demo.
 >
-> **[0:58](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-environments-and-deployment-variables?u=76281980&t=58)** I'm logged into my Bitbucket account and I've selected the deployments tab in the repository settings for this repo.
+> **[0:58](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-environments-and-deployment-variables?u=76281980&t=58)** I'm logged into my [[Bitbucket]] account and I've selected the deployments tab in the repository settings for this repo.
 >
 > **[1:05](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-environments-and-deployment-variables?u=76281980&t=65)** Environments are collected into three groups, test, staging, and production.
 >
@@ -1008,15 +995,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Bitbucket]] (3), [[Software Development]] (1), web (1)
+> **Frameworks & Libraries:** [[Bitbucket]] (3), [[Software Development]] (1)
 > **Tools:** bitbucket (3)
 > **UI Navigation:** scroll down (1), select the (1)
 > **Env Vars:** yaml (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create and share artifacts
-> [LinkedIn Learning](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/create-and-share-artifacts?u=76281980)
+#### [Create and share artifacts](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/create-and-share-artifacts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1046,7 +1032,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/create-and-share-artifacts?u=76281980&t=80)** In these cases, we can use variables in the script section to use the same file names used by previous steps.
 >
-> **[1:28](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/create-and-share-artifacts?u=76281980&t=88)** Let's go to the Bitbucket web interface and review the output of a pipeline with artifacts.
+> **[1:28](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/create-and-share-artifacts?u=76281980&t=88)** Let's go to the [[Bitbucket]] web interface and review the output of a pipeline with artifacts.
 >
 > **[1:35](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/create-and-share-artifacts?u=76281980&t=95)** In this short pipeline run, we have two steps, one creating artifacts and another using them.
 >
@@ -1062,7 +1048,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Bitbucket]] (1), web (1)
+> **Frameworks & Libraries:** [[Bitbucket]] (1)
 > **Env Vars:** jar (1), zip (1)
 > **Warnings:** note that (1), keep in mind (1)
 > **Tools:** bitbucket (1)
@@ -1071,8 +1057,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create and download packages
-> [LinkedIn Learning](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/create-and-download-packages?u=76281980)
+#### [Create and download packages](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/create-and-download-packages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1088,7 +1073,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/create-and-download-packages?u=76281980&t=38)** In these cases, packages offer a much better solution.
 >
-> **[0:43](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/create-and-download-packages?u=76281980&t=43)** Packages are artifacts that are exposed by the downloads feature in Bitbucket.
+> **[0:43](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/create-and-download-packages?u=76281980&t=43)** Packages are artifacts that are exposed by the downloads feature in [[Bitbucket]].
 >
 > **[0:49](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/create-and-download-packages?u=76281980&t=49)** Using the Downloads page, we can access packages from a consistent location whenever we need to.
 >
@@ -1122,7 +1107,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/create-and-download-packages?u=76281980&t=162)** from a pipeline step.
 >
-> **[2:45](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/create-and-download-packages?u=76281980&t=165)** Let's use a demonstration to see how access tokens, pipes, uploads, and downloads all come together.
+> **[2:45](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/create-and-download-packages?u=76281980&t=165)** Let's use a demonstration to see how access [[Tokens]], pipes, uploads, and downloads all come together.
 >
 > **[2:53](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/create-and-download-packages?u=76281980&t=173)** Let's start by creating an access token.
 >
@@ -1184,7 +1169,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Bitbucket]] (9), api (2), [[Tokens]] (2), feature (1), web (1)
+> **Frameworks & Libraries:** [[Bitbucket]] (9), [[Tokens]] (2)
 > **Tools:** bitbucket (9)
 > **Env Vars:** api (2), url (1), bitbucket_access_token (1)
 > **UI Navigation:** scroll down (3), open the (1)
@@ -1193,8 +1178,7 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Documentation:** specification (1)
 
-#### Challenge: Deploy an artifact
-> [LinkedIn Learning](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/challenge-deploy-an-artifact?u=76281980)
+#### [Challenge: Deploy an artifact](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/challenge-deploy-an-artifact?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1204,13 +1188,13 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/challenge-deploy-an-artifact?u=76281980&t=15)** In this challenge, you'll continue your role as the CICD subject matter expert for the amazing mobile app development team.
 >
-> **[0:23](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/challenge-deploy-an-artifact?u=76281980&t=23)** The dev team is making great progress with the pipeline configuration you created in the previous challenge, and the rest of the company is buzzing with interest.
+> **[0:23](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/challenge-deploy-an-artifact?u=76281980&t=23)** The dev team is making great progress with the pipeline configuration you created in the previous challenge, and the [[Representational State Transfer (REST)|rest]] of the company is buzzing with interest.
 >
-> **[0:33](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/challenge-deploy-an-artifact?u=76281980&t=33)** Now the plugin team needs help updating their continuous delivery workflow.
+> **[0:33](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/challenge-deploy-an-artifact?u=76281980&t=33)** Now the plugin team needs help updating their [[Continuous Delivery (CD)|continuous delivery]] workflow.
 >
 > **[0:38](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/challenge-deploy-an-artifact?u=76281980&t=38)** Their goal is to share plugins as packages that anyone in the community can download.
 >
-> **[0:43](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/challenge-deploy-an-artifact?u=76281980&t=43)** With your knowledge of Bitbucket Pipelines, the team is confident you can help.
+> **[0:43](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/challenge-deploy-an-artifact?u=76281980&t=43)** With your knowledge of [[Bitbucket]] Pipelines, the team is confident you can help.
 >
 > **[0:49](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/challenge-deploy-an-artifact?u=76281980&t=49)** Take these steps to complete the challenge.
 >
@@ -1238,7 +1222,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Bitbucket]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1), next (1)
+> **Frameworks & Libraries:** [[Bitbucket]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1)
 > **Exercise Files:** zip file (2), exercise files (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** cicd (1), url (1)
@@ -1247,8 +1231,7 @@ created: 2026-05-02
 > **Speakers:** - [presenter] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Deploy an artifact
-> [LinkedIn Learning](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/solution-deploy-an-artifact?u=76281980)
+#### [Solution: Deploy an artifact](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/solution-deploy-an-artifact?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1264,7 +1247,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/solution-deploy-an-artifact?u=76281980&t=34)** I'm in the web interface for the repo, and I'll start by creating the access token.
 >
-> **[0:39](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/solution-deploy-an-artifact?u=76281980&t=39)** From the sidebar menu, I'll select repository settings, and then access tokens, and then create repository access token.
+> **[0:39](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/solution-deploy-an-artifact?u=76281980&t=39)** From the sidebar menu, I'll select repository settings, and then access [[Tokens]], and then create repository access token.
 >
 > **[0:48](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/solution-deploy-an-artifact?u=76281980&t=48)** I need to give this token a name, so I'll call it "upload."
 >
@@ -1294,7 +1277,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/solution-deploy-an-artifact?u=76281980&t=106)** And now I can create a variable where I can store this particular token.
 >
-> **[1:53](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/solution-deploy-an-artifact?u=76281980&t=113)** I'm going to use the name "Bitbucket Access Token," and then I will paste in the value for the token.
+> **[1:53](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/solution-deploy-an-artifact?u=76281980&t=113)** I'm going to use the name "[[Bitbucket]] Access Token," and then I will paste in the value for the token.
 >
 > **[2:02](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/solution-deploy-an-artifact?u=76281980&t=122)** I want to make sure that this check mark that says "secured" is definitely active, because I want this value to be treated as a secret and hidden in any log output or anything like that.
 >
@@ -1388,7 +1371,7 @@ created: 2026-05-02
 >
 > **[5:53](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/solution-deploy-an-artifact?u=76281980&t=353)** Okay, I'm in my terminal now.
 >
-> **[5:55](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/solution-deploy-an-artifact?u=76281980&t=355)** I'm going to run git status real quick, and I do have the modified pipeline file.
+> **[5:55](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/solution-deploy-an-artifact?u=76281980&t=355)** I'm going to run [[Git]] status real quick, and I do have the modified pipeline file.
 >
 > **[6:00](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/solution-deploy-an-artifact?u=76281980&t=360)** If I ran git diff on that I would probably see the changes there I added.
 >
@@ -1490,7 +1473,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Bitbucket]] (8), web (4), [[Git]] (4), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[Bitbucket]] (8), [[Git]] (4), [[Tokens]] (1)
 > **Tools:** bitbucket (8), terminal (2)
 > **CLI Commands:** make (4), git (4), find (1)
 > **UI Navigation:** go to (5), scroll down (3)
@@ -1504,12 +1487,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use default images and tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-default-images-and-tools?u=76281980)
+#### [Use default images and tools](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-default-images-and-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-default-images-and-tools?u=76281980&t=0)** - [Instructor] Every step in a Bitbucket pipeline is run in a docker container.
+> **[0:00](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-default-images-and-tools?u=76281980&t=0)** - [Instructor] Every step in a [[Bitbucket]] pipeline is run in a docker container.
 >
 > **[0:04](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-default-images-and-tools?u=76281980&t=4)** Using containers and pipelines allows us to have consistent reproducible build environments isolated from previous pipeline runs.
 >
@@ -1521,9 +1503,9 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-default-images-and-tools?u=76281980&t=37)** If no image is defined, then Bitbucket will use a default image for us.
 >
-> **[0:44](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-default-images-and-tools?u=76281980&t=44)** The default images used by Bitbucket pipelines are maintained by Atlassian and hosted on Docker hub.
+> **[0:44](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-default-images-and-tools?u=76281980&t=44)** The default images used by Bitbucket pipelines are maintained by [[Atlassian]] and hosted on Docker hub.
 >
-> **[0:50](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-default-images-and-tools?u=76281980&t=50)** The default image is based on the Ubuntu Linux operating system.
+> **[0:50](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-default-images-and-tools?u=76281980&t=50)** The default image is based on the [[Ubuntu]] [[Linux]] operating system.
 >
 > **[0:55](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-default-images-and-tools?u=76281980&t=55)** This means we can access standard Linux commands in our pipeline along with additional commands that get installed, so we can use them out of the box.
 >
@@ -1533,27 +1515,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Bitbucket]] (3), [[Linux]] (2), [[Atlassian]] (1), [[Ubuntu]] (1), web (1)
+> **Frameworks & Libraries:** [[Bitbucket]] (3), [[Linux]] (2), [[Atlassian]] (1), [[Ubuntu]] (1)
 > **Tools:** bitbucket (3)
 > **CLI Commands:** docker (2)
 > **Exercise Files:** exercise files (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use public and custom images
-> [LinkedIn Learning](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-public-and-custom-images?u=76281980)
+#### [Use public and custom images](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-public-and-custom-images?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-public-and-custom-images?u=76281980&t=0)** - [Instructor] Atlassian provides a default image for pipelines with some tools already installed.
+> **[0:00](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-public-and-custom-images?u=76281980&t=0)** - [Instructor] [[Atlassian]] provides a default image for pipelines with some tools already installed.
 >
 > **[0:06](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-public-and-custom-images?u=76281980&t=6)** More than likely, though, your projects will need additional tools to build, compile or deploy your software.
 >
 > **[0:12](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-public-and-custom-images?u=76281980&t=12)** In these cases, you'll either install your tools at runtime or select another image for your pipeline steps.
 >
-> **[0:20](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-public-and-custom-images?u=76281980&t=20)** Since the default image is based on Ubuntu, we can use Ubuntu's advanced packaging tool, better known as APT, to install just about any Linux-based tool or application needed by a pipeline.
+> **[0:20](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-public-and-custom-images?u=76281980&t=20)** Since the default image is based on [[Ubuntu]], we can use Ubuntu's advanced packaging tool, better known as APT, to install just about any [[Linux]]-based tool or application needed by a pipeline.
 >
-> **[0:32](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-public-and-custom-images?u=76281980&t=32)** In this example, the pipeline is installing the Rust compiler.
+> **[0:32](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-public-and-custom-images?u=76281980&t=32)** In this example, the pipeline is installing the [[Rust (Programming Language)|Rust]] compiler.
 >
 > **[0:37](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-public-and-custom-images?u=76281980&t=37)** The Pipeline runs apt-get update, followed by apt-get install -y in the name of the package.
 >
@@ -1567,7 +1548,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-public-and-custom-images?u=76281980&t=68)** So any uninstalled tools that need to be accessed multiple times would need to be run in the same step, or they'd need to be installed all over again in a new step.
 >
-> **[1:19](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-public-and-custom-images?u=76281980&t=79)** Unfortunately, this approach leads to pipelines that use up precious build time in our Bitbucket accounts.
+> **[1:19](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-public-and-custom-images?u=76281980&t=79)** Unfortunately, this approach leads to pipelines that use up precious build time in our [[Bitbucket]] accounts.
 >
 > **[1:26](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-public-and-custom-images?u=76281980&t=86)** For those of us on the free tier, we only have 50 minutes each month.
 >
@@ -1591,7 +1572,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-public-and-custom-images?u=76281980&t=147)** It can be hosted on your company's internal network.
 >
-> **[2:31](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-public-and-custom-images?u=76281980&t=151)** Also, if the container registry requires authentication, the pipeline will need to be configured with a username, password and any other type of authorization tokens needed to access the image.
+> **[2:31](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-public-and-custom-images?u=76281980&t=151)** Also, if the container registry requires authentication, the pipeline will need to be configured with a username, password and any other type of authorization [[Tokens]] needed to access the image.
 >
 > **[2:43](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-public-and-custom-images?u=76281980&t=163)** Let's continue exploring pipelines and public images in the Bitbucket web interface.
 >
@@ -1621,7 +1602,7 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-public-and-custom-images?u=76281980&t=249)** In this last example, the pipeline is configured to use the default image globally.
 >
-> **[4:15](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-public-and-custom-images?u=76281980&t=255)** In the first step, the versions for Node.js and Python are echoed to the output.
+> **[4:15](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-public-and-custom-images?u=76281980&t=255)** In the first step, the versions for [[Node.js]] and [[Python (Programming Language)|Python]] are echoed to the output.
 >
 > **[4:20](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-public-and-custom-images?u=76281980&t=260)** The following steps override the global image by calling specific images for Node.js and Python.
 >
@@ -1638,12 +1619,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Definitions:** known as (1)
 
-#### Use services
-> [LinkedIn Learning](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-services?u=76281980)
+#### [Use services](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-services?u=76281980&t=1)** - Bitbucket pipelines includes a very useful feature known as, services.
+> **[0:01](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-services?u=76281980&t=1)** - [[Bitbucket]] pipelines includes a very useful feature known as, services.
 >
 > **[0:06](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-services?u=76281980&t=6)** Services are additional containers that run along with the container images running our pipeline steps.
 >
@@ -1691,7 +1671,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-services?u=76281980&t=165)** I've added the exercise files as well.
 >
-> **[2:51](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-services?u=76281980&t=171)** The code for this demo is a Python application that connects to a postgres database.
+> **[2:51](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-services?u=76281980&t=171)** The code for this demo is a [[Python (Programming Language)|Python]] application that connects to a [[PostgreSQL|postgres]] database.
 >
 > **[2:59](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-services?u=76281980&t=179)** The test suite exercises the application by calling each function from the application, confirming the database connection is in place, and then creating a table and inserting data.
 >
@@ -1717,7 +1697,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), application (4), [[Bitbucket]] (3), [[PostgreSQL|Postgres]] (3), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Bitbucket]] (3), [[PostgreSQL|Postgres]] (3), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** find (2), python (2)
 > **Tools:** bitbucket (3)
 > **Versions:** 127.0.0 (1), python 3 (1)
@@ -1726,8 +1706,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 
-#### Challenge: Create a pipeline with images and services
-> [LinkedIn Learning](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/challenge-create-a-pipeline-with-images-and-services?u=76281980)
+#### [Challenge: Create a pipeline with images and services](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/challenge-create-a-pipeline-with-images-and-services?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1737,15 +1716,15 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/challenge-create-a-pipeline-with-images-and-services?u=76281980&t=8)** A piping hot challenge is ready for us to enjoy.
 >
-> **[0:12](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/challenge-create-a-pipeline-with-images-and-services?u=76281980&t=12)** In this challenge, you're continuing your role as the Bitbucket Pipelines expert supporting the amazing mobile app.
+> **[0:12](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/challenge-create-a-pipeline-with-images-and-services?u=76281980&t=12)** In this challenge, you're continuing your role as the [[Bitbucket]] Pipelines expert supporting the amazing mobile app.
 >
-> **[0:19](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/challenge-create-a-pipeline-with-images-and-services?u=76281980&t=19)** A recently deployed feature allows users to create backups with cloud storage.
+> **[0:19](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/challenge-create-a-pipeline-with-images-and-services?u=76281980&t=19)** A recently deployed feature allows users to create backups with [[Cloud Storage]].
 >
-> **[0:24](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/challenge-create-a-pipeline-with-images-and-services?u=76281980&t=24)** The data is managed by two microservices.
+> **[0:24](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/challenge-create-a-pipeline-with-images-and-services?u=76281980&t=24)** The data is managed by two [[Microservices]].
 >
-> **[0:27](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/challenge-create-a-pipeline-with-images-and-services?u=76281980&t=27)** One microservice is written in Python, and the other is written in Ruby.
+> **[0:27](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/challenge-create-a-pipeline-with-images-and-services?u=76281980&t=27)** One microservice is written in [[Python (Programming Language)|Python]], and the other is written in Ruby.
 >
-> **[0:33](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/challenge-create-a-pipeline-with-images-and-services?u=76281980&t=33)** Both services connect to a cluster of Postgres databases to manage the stored data.
+> **[0:33](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/challenge-create-a-pipeline-with-images-and-services?u=76281980&t=33)** Both services connect to a cluster of [[PostgreSQL|Postgres]] [[Databases]] to manage the stored data.
 >
 > **[0:38](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/challenge-create-a-pipeline-with-images-and-services?u=76281980&t=38)** Before making any updates to the feature, the development team would like to test both microservices in the same pipeline.
 >
@@ -1771,7 +1750,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), data (2), [[Microservices]] (2), [[Python (Programming Language)|Python]] (2), [[PostgreSQL|Postgres]] (2)
+> **Frameworks & Libraries:** [[Microservices]] (2), [[Python (Programming Language)|Python]] (2), [[PostgreSQL|Postgres]] (2), [[Bitbucket]] (1), [[Cloud Storage]] (1)
 > **CLI Commands:** python (2), ruby (2), make (2), find (1)
 > **Exercise Files:** exercise files (2)
 > **Cross-References:** in the next (1)
@@ -1779,14 +1758,13 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Create a pipeline with images and services
-> [LinkedIn Learning](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/solution-create-a-pipeline-with-images-and-services?u=76281980)
+#### [Solution: Create a pipeline with images and services](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/solution-create-a-pipeline-with-images-and-services?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/solution-create-a-pipeline-with-images-and-services?u=76281980&t=0)** - [Instructor] This sounds like it's going to be a fun challenge, so let's jump right in.
 >
-> **[0:10](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/solution-create-a-pipeline-with-images-and-services?u=76281980&t=10)** I'm logged into my Bitbucket account and I've already created a new repo.
+> **[0:10](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/solution-create-a-pipeline-with-images-and-services?u=76281980&t=10)** I'm logged into my [[Bitbucket]] account and I've already created a new repo.
 >
 > **[0:14](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/solution-create-a-pipeline-with-images-and-services?u=76281980&t=14)** I cloned the repo and added the exercise files for my local system.
 >
@@ -1796,11 +1774,11 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/solution-create-a-pipeline-with-images-and-services?u=76281980&t=46)** This challenge is all about working with services and images.
 >
-> **[0:50](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/solution-create-a-pipeline-with-images-and-services?u=76281980&t=50)** So the first thing that we need to do to set up this pipeline is to add the definition for the Postgres database service.
+> **[0:50](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/solution-create-a-pipeline-with-images-and-services?u=76281980&t=50)** So the first thing that we need to do to set up this pipeline is to add the definition for the [[PostgreSQL|Postgres]] database service.
 >
 > **[0:58](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/solution-create-a-pipeline-with-images-and-services?u=76281980&t=58)** In the read me file, we do have a snippet that's provided, so I'm just going to go to the read me and copy that snippet.
 >
-> **[1:06](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/solution-create-a-pipeline-with-images-and-services?u=76281980&t=66)** Go back to my pipeline definition, or rather my pipeline configuration because we need to add here the word definitions, and then that's exactly where I'm going to paste that snippet in.
+> **[1:06](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/solution-create-a-pipeline-with-images-and-services?u=76281980&t=66)** Go back to my pipeline definition, or rather my pipeline configuration because we need to add here the [[Microsoft Word|word]] definitions, and then that's exactly where I'm going to paste that snippet in.
 >
 > **[1:19](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/solution-create-a-pipeline-with-images-and-services?u=76281980&t=79)** And I might need to clean up my formatting just a little bit.
 >
@@ -1816,7 +1794,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/solution-create-a-pipeline-with-images-and-services?u=76281980&t=106)** Okay, under each step, I'm just going to go under the name here.
 >
-> **[1:50](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/solution-create-a-pipeline-with-images-and-services?u=76281980&t=110)** We'll start with Python and I know we need to add services and then the name of the service, which is database.
+> **[1:50](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/solution-create-a-pipeline-with-images-and-services?u=76281980&t=110)** We'll start with [[Python (Programming Language)|Python]] and I know we need to add services and then the name of the service, which is database.
 >
 > **[2:02](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/solution-create-a-pipeline-with-images-and-services?u=76281980&t=122)** And actually, no, it's not a block like that.
 >
@@ -1882,7 +1860,7 @@ created: 2026-05-02
 >
 > **[5:51](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/solution-create-a-pipeline-with-images-and-services?u=76281980&t=351)** So I'm in my terminal now.
 >
-> **[5:52](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/solution-create-a-pipeline-with-images-and-services?u=76281980&t=352)** I'm going to run git status just to make sure I haven't done anything crazy with any other file.
+> **[5:52](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/solution-create-a-pipeline-with-images-and-services?u=76281980&t=352)** I'm going to run [[Git]] status just to make sure I haven't done anything crazy with any other file.
 >
 > **[5:59](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/solution-create-a-pipeline-with-images-and-services?u=76281980&t=359)** Yes, the pipeline's configuration, that's the only file that I wanted to modify.
 >
@@ -2000,7 +1978,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (16), database (14), [[Bitbucket]] (8), [[Git]] (4), [[PostgreSQL|Postgres]] (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (16), [[Bitbucket]] (8), [[Git]] (4), [[PostgreSQL|Postgres]] (3), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** ruby (17), python (16), make (6), git (4)
 > **Tools:** bitbucket (8), terminal (4)
 > **Env Vars:** yaml (11)
@@ -2014,18 +1992,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/next-steps?u=76281980&t=0)** - [Michael] Thanks for sticking with me to the end of this course.
 >
-> **[0:03](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/next-steps?u=76281980&t=3)** I hope you enjoyed learning about the different ways we can use Bitbucket Pipelines to automate the CI/CD process.
+> **[0:03](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/next-steps?u=76281980&t=3)** I hope you enjoyed learning about the different ways we can use [[Bitbucket]] Pipelines to automate the CI/CD process.
 >
 > **[0:10](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/next-steps?u=76281980&t=10)** As you continue working with Bitbucket, tap into the Q&A section to ask a question, provide an answer, or just to participate in conversations with other folks using Bitbucket Pipelines.
 >
-> **[0:22](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/next-steps?u=76281980&t=22)** If you're ready to take your pipelines to the next level, join me in my course, Advanced Bitbucket Pipelines, right here in the LinkedIn Learning Library.
+> **[0:22](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/next-steps?u=76281980&t=22)** If you're ready to take your pipelines to the next level, join me in my course, Advanced Bitbucket Pipelines, right here in the [[LinkedIn]] Learning Library.
 >
 > **[0:31](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/next-steps?u=76281980&t=31)** We'll take an even deeper dive into advanced features, like developing custom pipes and more.
 >
@@ -2033,7 +2010,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Bitbucket]] (5), ci (1), cd (1), next (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Bitbucket]] (5), [[LinkedIn]] (1)
 > **Tools:** bitbucket (5)
 > **CLI Commands:** cd (1)
 > **Speakers:** - [michael] (1)

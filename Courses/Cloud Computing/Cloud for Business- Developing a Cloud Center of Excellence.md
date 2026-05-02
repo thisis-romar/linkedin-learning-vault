@@ -74,12 +74,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Beginning your cloud center of excellence
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/beginning-your-cloud-center-of-excellence?u=76281980)
+#### [Beginning your cloud center of excellence](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/beginning-your-cloud-center-of-excellence?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/beginning-your-cloud-center-of-excellence?u=76281980&t=0)** - [Lee] Cloud computing is becoming a central tool for enterprise IT departments.
+> **[0:00](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/beginning-your-cloud-center-of-excellence?u=76281980&t=0)** - [Lee] [[Cloud Computing]] is becoming a central tool for enterprise IT departments.
 >
 > **[0:04](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/beginning-your-cloud-center-of-excellence?u=76281980&t=4)** More and more of the cloud and cloud processes have become a differentiator for companies trying to stay competitive in a fast-moving industry, but successfully integrating a cloud mindset into your organization isn't easy and many companies fail.
 >
@@ -95,23 +94,22 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/beginning-your-cloud-center-of-excellence?u=76281980&t=49)** Now I consult with major companies on their cloud architecture and cloud strategies.
 >
-> **[0:54](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/beginning-your-cloud-center-of-excellence?u=76281980&t=54)** Join me in this LinkedIn Learning course as we discuss building out a Cloud Center of Excellence and integrating it into your organization.
+> **[0:54](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/beginning-your-cloud-center-of-excellence?u=76281980&t=54)** Join me in this [[LinkedIn]] Learning course as we discuss building out a Cloud Center of Excellence and integrating it into your organization.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (11), aws (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** make (1), aws (1)
 > **Env Vars:** ccoe (1), aws (1)
 > **Speakers:** - [lee] (1)
 
-#### What is a cloud center of excellence (CCoE)
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/what-is-a-cloud-center-of-excellence-ccoe?u=76281980)
+#### [What is a cloud center of excellence (CCoE)](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/what-is-a-cloud-center-of-excellence-ccoe?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/what-is-a-cloud-center-of-excellence-ccoe?u=76281980&t=0)** - [Instructor] In the past few years, cloud computing has become a dominant trend in enterprise IT departments.
+> **[0:00](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/what-is-a-cloud-center-of-excellence-ccoe?u=76281980&t=0)** - [Instructor] In the past few years, [[Cloud Computing]] has become a dominant trend in enterprise IT departments.
 >
-> **[0:06](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/what-is-a-cloud-center-of-excellence-ccoe?u=76281980&t=6)** As the benefits of moving to the cloud have become clearer and clearer, more companies have moved their infrastructure into public clouds, like AWS or Azure.
+> **[0:06](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/what-is-a-cloud-center-of-excellence-ccoe?u=76281980&t=6)** As the benefits of moving to the cloud have become clearer and clearer, more companies have moved their infrastructure into public clouds, like AWS or [[Microsoft Azure|Azure]].
 >
 > **[0:16](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/what-is-a-cloud-center-of-excellence-ccoe?u=76281980&t=16)** As they make this move, they face a challenge that is often overlooked.
 >
@@ -145,7 +143,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/what-is-a-cloud-center-of-excellence-ccoe?u=76281980&t=150)** Ambassadors from the CCoE are embedded in every other team in the organization.
 >
-> **[2:36](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/what-is-a-cloud-center-of-excellence-ccoe?u=76281980&t=156)** These ambassadors act as a conduit between the CCoE and the rest of the organization, providing information and support to teams as they need it.
+> **[2:36](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/what-is-a-cloud-center-of-excellence-ccoe?u=76281980&t=156)** These ambassadors act as a conduit between the CCoE and the [[Representational State Transfer (REST)|rest]] of the organization, providing information and support to teams as they need it.
 >
 > **[2:47](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/what-is-a-cloud-center-of-excellence-ccoe?u=76281980&t=167)** The CCoE provides a conduit for the development teams and operations teams, along with a conduit to cloud vendors and partners.
 >
@@ -157,20 +155,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (24), teams (6), aws (1), [[Microsoft Azure|Azure]] (1), data (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (2), [[Microsoft Azure|Azure]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** aws (1), make (1)
 > **Env Vars:** aws (1)
 > **Speakers:** - [instructor] (1)
 
-#### Why do you need a CCoE?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/why-do-you-need-a-ccoe?u=76281980)
+#### [Why do you need a CCoE?](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/why-do-you-need-a-ccoe?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/why-do-you-need-a-ccoe?u=76281980&t=0)** - [Instructor] There are as many ways to construct a CCoE as there are ways to construct an IT department.
 >
-> **[0:07](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/why-do-you-need-a-ccoe?u=76281980&t=7)** But at its core, the CCoE is an organizational structure that is designed to accelerate the adoption and institution of cloud products, cloud principles and a cloud mindset into an organization.
+> **[0:07](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/why-do-you-need-a-ccoe?u=76281980&t=7)** But at its core, the CCoE is an organizational structure that is designed to accelerate the adoption and institution of cloud [[Microsoft Products|products]], cloud principles and a cloud mindset into an organization.
 >
 > **[0:21](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/why-do-you-need-a-ccoe?u=76281980&t=21)** They are designed to be the beacon that helps drive an organization to become a more cloud native organization.
 >
@@ -182,11 +179,11 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/why-do-you-need-a-ccoe?u=76281980&t=49)** This might involve bringing in training programs or creating custom programs.
 >
-> **[0:54](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/why-do-you-need-a-ccoe?u=76281980&t=54)** It might involve holding office hours and other on-demand training that's needed by your organization.
+> **[0:54](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/why-do-you-need-a-ccoe?u=76281980&t=54)** It might involve holding [[Microsoft Office|office]] hours and other on-demand training that's needed by your organization.
 >
 > **[1:02](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/why-do-you-need-a-ccoe?u=76281980&t=62)** They create cloud tooling that is used across the entire organization.
 >
-> **[1:07](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/why-do-you-need-a-ccoe?u=76281980&t=67)** This includes things like cloud provisioning tools and processes, CI/CD, DevOps tailored for the cloud, resource tagging, reports, these sorts of things.
+> **[1:07](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/why-do-you-need-a-ccoe?u=76281980&t=67)** This includes things like cloud provisioning tools and processes, CI/CD, [[DevOps]] tailored for the cloud, resource tagging, reports, these sorts of things.
 >
 > **[1:18](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/why-do-you-need-a-ccoe?u=76281980&t=78)** They established standards for how the cloud will be used in the organization.
 >
@@ -220,9 +217,9 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/why-do-you-need-a-ccoe?u=76281980&t=180)** In particular, the CCoE can accelerate the cloud migration process by centralizing and focusing your cloud activities, you make your move to become a cloud-centric organization faster and more effective.
 >
-> **[3:16](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/why-do-you-need-a-ccoe?u=76281980&t=196)** Ensuring compatibility with other IT systems and applications, the CCoE figures out how to fit cloud systems into the rest of the IT infrastructure within the company.
+> **[3:16](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/why-do-you-need-a-ccoe?u=76281980&t=196)** Ensuring compatibility with other IT systems and applications, the CCoE figures out how to fit cloud systems into the [[Representational State Transfer (REST)|rest]] of the IT infrastructure within the company.
 >
-> **[3:26](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/why-do-you-need-a-ccoe?u=76281980&t=206)** And it establishes a plan for coexistence and integration between cloud and non-cloud infrastructure components.
+> **[3:26](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/why-do-you-need-a-ccoe?u=76281980&t=206)** And it establishes a plan for coexistence and integration between cloud and non-[[Cloud Infrastructure]] components.
 >
 > **[3:35](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/why-do-you-need-a-ccoe?u=76281980&t=215)** Optimizing cloud performance and reliability to meet expected service level agreements.
 >
@@ -238,21 +235,20 @@ created: 2026-05-02
 >
 > **[4:18](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/why-do-you-need-a-ccoe?u=76281980&t=258)** And finally, make sure the entire organization has a consistent baseline understanding about how the cloud is and will be utilized across the organization.
 >
-> **[4:31](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/why-do-you-need-a-ccoe?u=76281980&t=271)** By achieving all of these things, CCoEs can help organizations realize many benefits, such as increased agility, scalability, lower costs, et cetera.
+> **[4:31](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/why-do-you-need-a-ccoe?u=76281980&t=271)** By achieving all of these things, CCoEs can help organizations realize many benefits, such as increased agility, [[Scalability]], lower costs, et cetera.
 >
 > **[4:43](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/why-do-you-need-a-ccoe?u=76281980&t=283)** However, perhaps most importantly, CCoEs allow companies to become more competitive in the modern digital world today.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (28), management (2), [[Microsoft Products|Products]] (1), teams (1), leadership (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Microsoft Office|Office]] (1), [[DevOps]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Cloud Infrastructure]] (1)
 > **CLI Commands:** make (5), cd (1)
 > **Definitions:** is an  (1), is a  (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a cloud center of excellence
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/creating-a-cloud-center-of-excellence?u=76281980)
+#### [Creating a cloud center of excellence](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/creating-a-cloud-center-of-excellence?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -266,7 +262,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/creating-a-cloud-center-of-excellence?u=76281980&t=31)** A CCOE will not be effective unless the organizational management is behind the initiative.
 >
-> **[0:38](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/creating-a-cloud-center-of-excellence?u=76281980&t=38)** The CCOE is most effective when management uses it as a structure in order to bring the rest of the organization along with the value of being a cloud-centric organization.
+> **[0:38](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/creating-a-cloud-center-of-excellence?u=76281980&t=38)** The CCOE is most effective when management uses it as a structure in order to bring the [[Representational State Transfer (REST)|rest]] of the organization along with the value of being a cloud-centric organization.
 >
 > **[0:50](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/creating-a-cloud-center-of-excellence?u=76281980&t=50)** The CCOE is the implementation vessel for management's wishes, it is not a way to convince upper management of the effectiveness of the cloud.
 >
@@ -298,7 +294,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (19), management (5), business (3), leadership (3), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** ccoe (7)
 > **Definitions:** is a  (2)
 > **Prerequisites:** prerequisite (1)
@@ -309,8 +305,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Structure and service of a CCoE
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/structure-and-service-of-a-ccoe?u=76281980)
+#### [Structure and service of a CCoE](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/structure-and-service-of-a-ccoe?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -322,7 +317,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/structure-and-service-of-a-ccoe?u=76281980&t=18)** The cloud center of excellence should be positioned very high organizationally within the company.
 >
-> **[0:24](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/structure-and-service-of-a-ccoe?u=76281980&t=24)** The management of the CCoE needs to work closely and as a peer with other parts of the organization, specifically application development teams, IT operations teams, the security team, and all the product management teams.
+> **[0:24](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/structure-and-service-of-a-ccoe?u=76281980&t=24)** The management of the CCoE needs to work closely and as a peer with other parts of the organization, specifically [[Application Development]] teams, IT operations teams, the security team, and all the product management teams.
 >
 > **[0:44](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/structure-and-service-of-a-ccoe?u=76281980&t=44)** The head of the cloud center of excellence needs to be a senior leader within the company management structure.
 >
@@ -336,7 +331,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/structure-and-service-of-a-ccoe?u=76281980&t=86)** The cloud center of excellence should be well-funded and have the resources necessary to carry out its mandate.
 >
-> **[1:33](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/structure-and-service-of-a-ccoe?u=76281980&t=93)** This includes everything from people to hardware to external vendor products and relationships.
+> **[1:33](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/structure-and-service-of-a-ccoe?u=76281980&t=93)** This includes everything from people to [[Hardware]] to external vendor [[Microsoft Products|products]] and relationships.
 >
 > **[1:40](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/structure-and-service-of-a-ccoe?u=76281980&t=100)** This diagram shows a high-level view of the organization of a CCoE.
 >
@@ -366,7 +361,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/structure-and-service-of-a-ccoe?u=76281980&t=186)** SMEs in cloud and related technology are critical resources of information for the CCoE leadership, the embedded ambassadors and the CCoE champion.
 >
-> **[3:17](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/structure-and-service-of-a-ccoe?u=76281980&t=197)** These subject matter experts typically include cloud architects, operational architects, DevOps specialists, and related disciplines.
+> **[3:17](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/structure-and-service-of-a-ccoe?u=76281980&t=197)** These subject matter experts typically include cloud architects, operational architects, [[DevOps]] specialists, and related disciplines.
 >
 > **[3:28](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/structure-and-service-of-a-ccoe?u=76281980&t=208)** Partner management.
 >
@@ -390,7 +385,7 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/structure-and-service-of-a-ccoe?u=76281980&t=256)** The CCoE needs a clear set of objectives and a clear focus based on data and analytics.
 >
-> **[4:23](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/structure-and-service-of-a-ccoe?u=76281980&t=263)** Collecting, correlating, and processing metrics and analytics from the cloud and related systems and presenting them in a manner that meets the needs of upper management, CCoE management and ambassadors and the rest of the organization is the responsibility of this analytics team.
+> **[4:23](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/structure-and-service-of-a-ccoe?u=76281980&t=263)** Collecting, correlating, and processing metrics and analytics from the cloud and related systems and presenting them in a manner that meets the needs of upper management, CCoE management and ambassadors and the [[Representational State Transfer (REST)|rest]] of the organization is the responsibility of this analytics team.
 >
 > **[4:42](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/structure-and-service-of-a-ccoe?u=76281980&t=282)** And finally, training.
 >
@@ -402,13 +397,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (14), management (9), teams (7), [[Analytics]] (4), leadership (3)
+> **Frameworks & Libraries:** [[Application Development]] (1), [[Hardware]] (1), [[Microsoft Products|Products]] (1), [[DevOps]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Single team and central management
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/single-team-and-central-management?u=76281980)
+#### [Single team and central management](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/single-team-and-central-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -436,7 +430,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/single-team-and-central-management?u=76281980&t=78)** There are new concepts, new way of doing things that are involved in using the cloud, and centralized knowledge makes sure that the company doesn't go off in multiple, inconsistent directions.
 >
-> **[1:31](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/single-team-and-central-management?u=76281980&t=91)** Which leads of course to consistent decision-making.
+> **[1:31](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/single-team-and-central-management?u=76281980&t=91)** Which leads of course to consistent [[Decision-Making]].
 >
 > **[1:34](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/single-team-and-central-management?u=76281980&t=94)** Many companies go astray when one group goes in one direction, and another group goes in another direction.
 >
@@ -474,23 +468,22 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/single-team-and-central-management?u=76281980&t=208)** Centralized management also allows you to provide a fresh set of eyes on existing problems.
 >
-> **[3:35](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/single-team-and-central-management?u=76281980&t=215)** Since the CCoE is external to the rest of the organization, it means a fresh perspective can be applied to problems that those groups are running into.
+> **[3:35](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/single-team-and-central-management?u=76281980&t=215)** Since the CCoE is external to the [[Representational State Transfer (REST)|rest]] of the organization, it means a fresh perspective can be applied to problems that those groups are running into.
 >
 > **[3:45](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/single-team-and-central-management?u=76281980&t=225)** You can come up with ideas that may not be possible from within the main engineering or the main operations org structures.
 >
-> **[3:54](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/single-team-and-central-management?u=76281980&t=234)** And you can help lower walls and barriers between various other groups within the company in areas of cloud computing, specifically between engineering and operations, and operations and security, and product management and engineering, and product management and operations.
+> **[3:54](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/single-team-and-central-management?u=76281980&t=234)** And you can help lower walls and barriers between various other groups within the company in areas of [[Cloud Computing]], specifically between engineering and operations, and operations and security, and product management and engineering, and product management and operations.
 >
 > **[4:11](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/single-team-and-central-management?u=76281980&t=251)** Since this team is outside of all of them, they can facilitate better communications as an outside moderator and voice of reason about the impact of cloud on the entire company.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (15), management (5), [[Engineering]] (3), [[Decision-Making]] (2), product (2)
+> **Frameworks & Libraries:** [[Decision-Making]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Cloud Computing]] (1)
 > **Env Vars:** ceo (1), coo (1), cto (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Embedded CCoE ambassadors
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/embedded-ccoe-ambassadors?u=76281980)
+#### [Embedded CCoE ambassadors](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/embedded-ccoe-ambassadors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -528,9 +521,9 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/embedded-ccoe-ambassadors?u=76281980&t=102)** They attend all the staff meetings, planning meetings, and organizational meetings of their assigned groups.
 >
-> **[1:49](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/embedded-ccoe-ambassadors?u=76281980&t=109)** And they're involved in all the decision-making that goes on within those groups.
+> **[1:49](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/embedded-ccoe-ambassadors?u=76281980&t=109)** And they're involved in all the [[Decision-Making]] that goes on within those groups.
 >
-> **[1:53](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/embedded-ccoe-ambassadors?u=76281980&t=113)** They are members of the assigned group, yet they coordinate centrally back with the other ambassadors and the rest of the CCoE team.
+> **[1:53](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/embedded-ccoe-ambassadors?u=76281980&t=113)** They are members of the assigned group, yet they coordinate centrally back with the other ambassadors and the [[Representational State Transfer (REST)|rest]] of the CCoE team.
 >
 > **[2:03](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/embedded-ccoe-ambassadors?u=76281980&t=123)** They're influencers, they're communicators.
 >
@@ -564,7 +557,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), teams (5), [[Security]] (3), [[Representational State Transfer (REST)|Rest]] (3), [[Decision-Making]] (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[Decision-Making]] (2)
 > **Warnings:** watch out (1)
 > **Speakers:** - now (1)
 
@@ -573,8 +566,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Subject matter experts (SMEs)
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/subject-matter-experts-smes?u=76281980)
+#### [Subject matter experts (SMEs)](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/subject-matter-experts-smes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -598,7 +590,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/subject-matter-experts-smes?u=76281980&t=62)** And finally, and probably most importantly, they advise CCoE leadership and company leadership about all things cloud.
 >
-> **[1:10](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/subject-matter-experts-smes?u=76281980&t=70)** They are the brain trust of cloud thought leadership within the company.
+> **[1:10](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/subject-matter-experts-smes?u=76281980&t=70)** They are the brain trust of cloud [[Thought Leadership]] within the company.
 >
 > **[1:15](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/subject-matter-experts-smes?u=76281980&t=75)** The SME role is a different and distinct role and ideally, their job responsibility is as a full-time SME.
 >
@@ -622,7 +614,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/subject-matter-experts-smes?u=76281980&t=137)** Yet in the larger cloud center of excellence, SMEs can be highly specialized.
 >
-> **[2:23](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/subject-matter-experts-smes?u=76281980&t=143)** You can have an SME that's an AWS expert, another one that's a Google Cloud expert, another one that just specializes on serverless computing, one that just specializes in data storage and one that specializes specifically in artificial intelligence and machine learning, et cetera.
+> **[2:23](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/subject-matter-experts-smes?u=76281980&t=143)** You can have an SME that's an AWS expert, another one that's a [[Google Cloud Platform (GCP)|Google Cloud]] expert, another one that just specializes on [[Serverless Computing]], one that just specializes in [[Data Storage]] and one that specializes specifically in [[Artificial Intelligence (AI)|artificial intelligence]] and machine learning, et cetera.
 >
 > **[2:42](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/subject-matter-experts-smes?u=76281980&t=162)** Finally, the SMEs play a role in helping construct any outbound thought leadership that goes outside of the organization.
 >
@@ -638,7 +630,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (13), teams (5), [[Analytics]] (3), leadership (3), [[Thought Leadership]] (2)
+> **Frameworks & Libraries:** [[Thought Leadership]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Serverless Computing]] (1), [[Data Storage]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Env Vars:** sme (3), aws (1)
 > **CLI Commands:** make (1), aws (1)
 > **Definitions:** is a  (1)
@@ -646,8 +638,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Management advocate
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/management-advocate?u=76281980)
+#### [Management advocate](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/management-advocate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -663,11 +654,11 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/management-advocate?u=76281980&t=48)** The champion should be a senior member of the Cloud Center of Excellence leadership team.
 >
-> **[0:53](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/management-advocate?u=76281980&t=53)** They may also provide senior SME leadership to the rest of the CCoE organization as well.
+> **[0:53](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/management-advocate?u=76281980&t=53)** They may also provide senior SME leadership to the [[Representational State Transfer (REST)|rest]] of the CCoE organization as well.
 >
 > **[1:01](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/management-advocate?u=76281980&t=61)** They can even be the technical leader for the SMEs themselves within the CCoE.
 >
-> **[1:07](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/management-advocate?u=76281980&t=67)** Or the role may simply be a high-level advocacy role with expertise in cloud computing and the skills necessary in communicating upwards within an organization.
+> **[1:07](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/management-advocate?u=76281980&t=67)** Or the role may simply be a high-level advocacy role with expertise in [[Cloud Computing]] and the skills necessary in communicating upwards within an organization.
 >
 > **[1:22](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/management-advocate?u=76281980&t=82)** In general, don't skimp on this role.
 >
@@ -685,21 +676,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (10), management (6), leadership (2), teams (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Cloud Computing]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** sme (1)
 > **Speakers:** - [instructor] (1)
 
-#### Team education, training, and best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/team-education-training-and-best-practices?u=76281980)
+#### [Team education, training, and best practices](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/team-education-training-and-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/team-education-training-and-best-practices?u=76281980&t=0)** - [Instructor] A core responsibility of the CCoE is to educate the rest of the organization on cloud concepts, operating in the cloud and cloud best practices.
+> **[0:00](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/team-education-training-and-best-practices?u=76281980&t=0)** - [Instructor] A core responsibility of the CCoE is to educate the [[Representational State Transfer (REST)|rest]] of the organization on cloud concepts, operating in the cloud and cloud best practices.
 >
 > **[0:11](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/team-education-training-and-best-practices?u=76281980&t=11)** For a large CCoE representing a large enterprise, this could be constructed as a formal training, an educational arm within the CCoE, but for a smaller CCoE, this might be heavily leveraging existing cloud education training.
 >
-> **[0:28](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/team-education-training-and-best-practices?u=76281980&t=28)** Many companies offer in-depth cloud training courses, including LinkedIn Learning.
+> **[0:28](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/team-education-training-and-best-practices?u=76281980&t=28)** Many companies offer in-depth cloud training courses, including [[LinkedIn]] Learning.
 >
 > **[0:33](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/team-education-training-and-best-practices?u=76281980&t=33)** In either case, the CCoE is responsible for cloud training across the entire organization.
 >
@@ -725,22 +715,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (12), [[Representational State Transfer (REST)|Rest]] (2), [[LinkedIn]] (1), teams (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud partner management and advocacy
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/cloud-partner-management-and-advocacy?u=76281980)
+#### [Cloud partner management and advocacy](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/cloud-partner-management-and-advocacy?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/cloud-partner-management-and-advocacy?u=76281980&t=0)** - [Instructor] As a company looks towards cloud competency, they will be creating partnerships with many cloud-centric organizations.
 >
-> **[0:08](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/cloud-partner-management-and-advocacy?u=76281980&t=8)** These are cloud providers, such as, you know, Amazon Web Services, Google Cloud Platform, Microsoft Azure, IBM, et cetera.
+> **[0:08](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/cloud-partner-management-and-advocacy?u=76281980&t=8)** These are cloud providers, such as, you know, [[Amazon Web Services (AWS)|Amazon Web Services]], [[Google Cloud Platform (GCP)|Google Cloud Platform]], [[Microsoft Azure]], IBM, et cetera.
 >
-> **[0:17](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/cloud-partner-management-and-advocacy?u=76281980&t=17)** But additionally, it's the various SaaS and IaaS providers that the organization needs to engage with to get their business done.
+> **[0:17](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/cloud-partner-management-and-advocacy?u=76281980&t=17)** But additionally, it's the various [[SaaS]] and [[IaaS]] providers that the organization needs to engage with to get their business done.
 >
-> **[0:26](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/cloud-partner-management-and-advocacy?u=76281980&t=26)** These are companies like database providers, you know, load balance providers and SaaS services from email to marketing management tools, to DevOps and CI/CD providers, to security providers, to customer management software.
+> **[0:26](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/cloud-partner-management-and-advocacy?u=76281980&t=26)** These are companies like database providers, you know, load balance providers and SaaS services from email to marketing management tools, to [[DevOps]] and CI/CD providers, to security providers, to customer management software.
 >
 > **[0:45](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/cloud-partner-management-and-advocacy?u=76281980&t=45)** SaaS plays an incredibly important and significantly larger role in cloud-based companies, so managing the relationships with SaaS providers is increasingly important.
 >
@@ -754,19 +743,18 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/cloud-partner-management-and-advocacy?u=76281980&t=105)** This is an outward facing role with close ties to the SMEs and other architecture groups across the organization.
 >
-> **[1:53](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/cloud-partner-management-and-advocacy?u=76281980&t=113)** And it's an important role for managing the connection between your company and its new role as a cloud leader and the rest of the cloud industry.
+> **[1:53](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/cloud-partner-management-and-advocacy?u=76281980&t=113)** And it's an important role for managing the connection between your company and its new role as a cloud leader and the [[Representational State Transfer (REST)|rest]] of the cloud industry.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (9), management (7), [[SaaS]] (4), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Google Cloud Platform (GCP)|Google cloud platform]] (1)
+> **Frameworks & Libraries:** [[SaaS]] (4), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Google Cloud Platform (GCP)|Google cloud platform]] (1), [[Microsoft Azure]] (1), [[IaaS]] (1)
 > **CLI Commands:** cd (1)
 > **Env Vars:** ibm (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating and managing tools and processes
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/creating-and-managing-tools-and-processes?u=76281980)
+#### [Creating and managing tools and processes](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/creating-and-managing-tools-and-processes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -784,7 +772,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/creating-and-managing-tools-and-processes?u=76281980&t=49)** The Cloud Center of Excellence needs one or more tool teams that build and support the tooling and processes necessary to enable the use of the cloud within the organization.
 >
-> **[1:02](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/creating-and-managing-tools-and-processes?u=76281980&t=62)** They must work closely with other tooling and infrastructure teams in other parts of the organization, and integrate the cloud tooling into the rest of the corporate tool set, but they also must champion the specific needs for cloud projects within the existing tools teams.
+> **[1:02](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/creating-and-managing-tools-and-processes?u=76281980&t=62)** They must work closely with other tooling and infrastructure teams in other parts of the organization, and integrate the cloud tooling into the [[Representational State Transfer (REST)|rest]] of the corporate tool set, but they also must champion the specific needs for cloud projects within the existing tools teams.
 >
 > **[1:20](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/creating-and-managing-tools-and-processes?u=76281980&t=80)** The cloud shouldn't be a separate thing.
 >
@@ -822,15 +810,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (24), teams (8), [[Representational State Transfer (REST)|Rest]] (2), aws (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2)
 > **CLI Commands:** make (2), aws (2), find (1)
 > **Env Vars:** ccoe (2), aws (2)
 > **Analogies:** for example (1), for instance (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### External advocacy
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/external-advocacy?u=76281980)
+#### [External advocacy](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/external-advocacy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -850,7 +837,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/external-advocacy?u=76281980&t=62)** This is the role and responsibility of the External Advocacy Group of the Cloud Center of Excellence.
 >
-> **[1:08](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/external-advocacy?u=76281980&t=68)** Specifically, they're responsible for coordinating with corporate marketing to craft the appropriate messaging for how the cloud is improving your company and its products.
+> **[1:08](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/external-advocacy?u=76281980&t=68)** Specifically, they're responsible for coordinating with corporate marketing to craft the appropriate messaging for how the cloud is improving your company and its [[Microsoft Products|products]].
 >
 > **[1:21](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/external-advocacy?u=76281980&t=81)** They create a strategy to leverage customer and industry publicity that can improve the company stature.
 >
@@ -864,7 +851,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (14), power (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Best Practices:** don't forget (1)
@@ -875,8 +862,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Power of analytics: Were you successful?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/power-of-analytics-were-you-successful?u=76281980)
+#### [Power of analytics: Were you successful?](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/power-of-analytics-were-you-successful?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -914,7 +900,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/power-of-analytics-were-you-successful?u=76281980&t=106)** The goals that you want to measure can get into specific goals that are the cause of the organization's move to the cloud.
 >
-> **[1:53](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/power-of-analytics-were-you-successful?u=76281980&t=113)** Things like decreased infrastructure cost, decreased new initiative startup time, increased flexibility in architecture, increased reliability, availability, scalability, et cetera.
+> **[1:53](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/power-of-analytics-were-you-successful?u=76281980&t=113)** Things like decreased infrastructure cost, decreased new initiative startup time, increased flexibility in architecture, increased reliability, availability, [[Scalability]], et cetera.
 >
 > **[2:05](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/power-of-analytics-were-you-successful?u=76281980&t=125)** The specifics will vary a lot from organization to organization, but overall, the Cloud Center of Excellence should be given the goal of cloud adoption and acceptance organization-wide, and metrics and measure towards that goal should be and are appropriate.
 >
@@ -922,14 +908,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (12), next (3), teams (2), management (1), hr (1)
+> **Frameworks & Libraries:** [[Scalability]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### What should you measure?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/what-should-you-measure?u=76281980)
+#### [What should you measure?](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/what-should-you-measure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -943,7 +928,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/what-should-you-measure?u=76281980&t=20)** Visibility and influence the cloud has on company conversations.
 >
-> **[0:25](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/what-should-you-measure?u=76281980&t=25)** This can be measured by the increase in inside company conversations about the cloud that occur, on places like Slack, bulletin boards, coffee talks, or how it shows up on employee surveys.
+> **[0:25](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/what-should-you-measure?u=76281980&t=25)** This can be measured by the increase in inside company conversations about the cloud that occur, on places like [[Slack]], bulletin boards, coffee talks, or how it shows up on employee surveys.
 >
 > **[0:39](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/what-should-you-measure?u=76281980&t=39)** The executive visibility of the cloud and knowledge versus misinformation.
 >
@@ -957,7 +942,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/what-should-you-measure?u=76281980&t=56)** Have there been financial improvements, performance improvements, improved development speed across the organization?
 >
-> **[1:04](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/what-should-you-measure?u=76281980&t=64)** Is there a decrease in technical debt, a decrease in customer support issues, customers' complaints?
+> **[1:04](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/what-should-you-measure?u=76281980&t=64)** Is there a decrease in technical debt, a decrease in [[Customer Support]] issues, customers' complaints?
 >
 > **[1:11](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/what-should-you-measure?u=76281980&t=71)** Make sure that these are things that can actually be tracked specifically to cloud specific projects and improvements.
 >
@@ -969,7 +954,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (7), [[Slack]] (1), [[Customer Support]] (1)
+> **Frameworks & Libraries:** [[Slack]] (1), [[Customer Support]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** ccoe (1)
 > **Tools:** slack (1)
@@ -980,8 +965,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Where to go from here
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/where-to-go-from-here?u=76281980)
+#### [Where to go from here](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/where-to-go-from-here?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -997,7 +981,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/where-to-go-from-here?u=76281980&t=47)** A Cloud Center of Excellence can help your organization get over the momentum hurdles to endorse and embrace the cloud as a tool for building modern digital applications.
 >
-> **[0:59](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/where-to-go-from-here?u=76281980&t=59)** If you're struggling to help your company adopt a cloud-centric organization, there are a pair of LinkedIn Learning courses that I made that might be able to help you.
+> **[0:59](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/where-to-go-from-here?u=76281980&t=59)** If you're struggling to help your company adopt a cloud-centric organization, there are a pair of [[LinkedIn]] Learning courses that I made that might be able to help you.
 >
 > **[1:10](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/where-to-go-from-here?u=76281980&t=70)** The first one is [[Framing Cloud Discussions for the C-Suite]].
 >
@@ -1015,15 +999,15 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/where-to-go-from-here?u=76281980&t=122)** This course helps IT professionals specifically learn the business and tech-related basics of orchestrating and managing an effective cloud architecture within a larger organization.
 >
-> **[2:16](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/where-to-go-from-here?u=76281980&t=136)** And check out my website [leeatchison.com](https://leeatchison.com), which has articles and resources on cloud computing and organizational, architectural and technical management.
+> **[2:16](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/where-to-go-from-here?u=76281980&t=136)** And check out my website [leeatchison.com](https://leeatchison.com), which has articles and resources on [[Cloud Computing]] and organizational, architectural and technical management.
 >
 > **[2:26](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/where-to-go-from-here?u=76281980&t=146)** You'll find many articles and links to my books and courses.
 >
-> **[2:30](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/where-to-go-from-here?u=76281980&t=150)** And don't forget to check out the rest of the LinkedIn Learning course library for many other cloud-related courses.
+> **[2:30](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/where-to-go-from-here?u=76281980&t=150)** And don't forget to check out the [[Representational State Transfer (REST)|rest]] of the LinkedIn Learning course library for many other cloud-related courses.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (19), [[LinkedIn]] (2), web (1), business (1), management (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Cloud Computing]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (2)
 > **URLs:** [leeatchison.com](https://leeatchison.com) (1)
 > **Best Practices:** don't forget (1)

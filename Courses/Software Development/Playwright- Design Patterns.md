@@ -88,8 +88,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explore design patterns in Playwright
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-design-patterns/welcome?u=76281980)
+#### [Explore design patterns in Playwright](https://www.linkedin.com/learning/playwright-design-patterns/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -111,11 +110,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (1), next (1), data (1)
 > **Speakers:** - [qambar] (1)
 
-#### Setting up your local environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-design-patterns/setting-up-your-local-environment?u=76281980)
+#### [Setting up your local environment](https://www.linkedin.com/learning/playwright-design-patterns/setting-up-your-local-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -127,13 +124,13 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/playwright-design-patterns/setting-up-your-local-environment?u=76281980&t=13)** This way, you can get hands-on experience and learn on the spot.
 >
-> **[0:17](https://www.linkedin.com/learning/playwright-design-patterns/setting-up-your-local-environment?u=76281980&t=17)** I'll walk you through each step in real-time and we'll build the framework together.
+> **[0:17](https://www.linkedin.com/learning/playwright-design-patterns/setting-up-your-local-environment?u=76281980&t=17)** I'll walk you through each step in [[Real-Time]] and we'll build the framework together.
 >
 > **[0:22](https://www.linkedin.com/learning/playwright-design-patterns/setting-up-your-local-environment?u=76281980&t=22)** Of course, if you need to refer back, you'll also find the full code in the resources.
 >
 > **[0:27](https://www.linkedin.com/learning/playwright-design-patterns/setting-up-your-local-environment?u=76281980&t=27)** So I'm inside the folder and I'm on the terminal.
 >
-> **[0:30](https://www.linkedin.com/learning/playwright-design-patterns/setting-up-your-local-environment?u=76281980&t=30)** I will start writing the command npm init and right now the folder is empty, so playwright@latest.
+> **[0:30](https://www.linkedin.com/learning/playwright-design-patterns/setting-up-your-local-environment?u=76281980&t=30)** I will start writing the command [[npm]] init and right now the folder is empty, so playwright@latest.
 >
 > **[0:41](https://www.linkedin.com/learning/playwright-design-patterns/setting-up-your-local-environment?u=76281980&t=41)** At this point, it'll ask me, what language do I want to choose?
 >
@@ -151,7 +148,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/playwright-design-patterns/setting-up-your-local-environment?u=76281980&t=88)** And then I enable them later on.
 >
-> **[1:31](https://www.linkedin.com/learning/playwright-design-patterns/setting-up-your-local-environment?u=76281980&t=91)** Secondly, we have got the package.json file.
+> **[1:31](https://www.linkedin.com/learning/playwright-design-patterns/setting-up-your-local-environment?u=76281980&t=91)** Secondly, we have got the package.[[JSON]] file.
 >
 > **[1:35](https://www.linkedin.com/learning/playwright-design-patterns/setting-up-your-local-environment?u=76281980&t=95)** You can put this test run command inside the script if you need to.
 >
@@ -185,7 +182,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Real-Time]] (1), [[npm]] (1), [[JSON]] (1), functional (1), next (1)
+> **Frameworks & Libraries:** [[Real-Time]] (1), [[npm]] (1), [[JSON]] (1)
 > **CLI Commands:** find (2), npx (2), npm (1)
 > **Prerequisites:** set up (3), setup (1)
 > **File Paths:** playwright.config (1), package.json (1)
@@ -198,8 +195,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a design pattern?
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-design-patterns/what-is-a-design-pattern?u=76281980)
+#### [What is a design pattern?](https://www.linkedin.com/learning/playwright-design-patterns/what-is-a-design-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -209,7 +205,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/playwright-design-patterns/what-is-a-design-pattern?u=76281980&t=10)** Without a clear structure, maintaining the code becomes a nightmare.
 >
-> **[0:14](https://www.linkedin.com/learning/playwright-design-patterns/what-is-a-design-pattern?u=76281980&t=14)** This is where design patterns come in.
+> **[0:14](https://www.linkedin.com/learning/playwright-design-patterns/what-is-a-design-pattern?u=76281980&t=14)** This is where [[Design Patterns]] come in.
 >
 > **[0:17](https://www.linkedin.com/learning/playwright-design-patterns/what-is-a-design-pattern?u=76281980&t=17)** They provide systematic solutions to common coding problems, allowing you to keep your code structured, efficient, and scalable over time.
 >
@@ -227,24 +223,23 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/playwright-design-patterns/what-is-a-design-pattern?u=76281980&t=63)** Without these patterns, future changes can become unnecessarily complex and time-consuming.
 >
-> **[1:10](https://www.linkedin.com/learning/playwright-design-patterns/what-is-a-design-pattern?u=76281980&t=70)** In this course, we'll dive into several crucial design patterns used in Playwright, each one designed to make your test automation more maintainable and efficient.
+> **[1:10](https://www.linkedin.com/learning/playwright-design-patterns/what-is-a-design-pattern?u=76281980&t=70)** In this course, we'll dive into several crucial design patterns used in Playwright, each one designed to make your [[Test Automation]] more maintainable and efficient.
 >
 > **[1:22](https://www.linkedin.com/learning/playwright-design-patterns/what-is-a-design-pattern?u=76281980&t=82)** We'll cover the page object model, which organizes your test code and simplifies interaction with web elements, fixtures, which streamline test setup and tear down, behavior-driven development, which allows you to write tests in human readable format, and data-driven testing, a powerful approach to testing multiple scenarios with minimal effort.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (4), web application (1), functional (1), [[Test Automation]] (1), web (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (4), [[Test Automation]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [presenter] (1)
 
-#### Types of design pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-design-patterns/types-of-design-pattern?u=76281980)
+#### [Types of design pattern](https://www.linkedin.com/learning/playwright-design-patterns/types-of-design-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/playwright-design-patterns/types-of-design-pattern?u=76281980&t=0)** - [Instructor] Design patterns are strategies that help solve common problems in software development.
+> **[0:00](https://www.linkedin.com/learning/playwright-design-patterns/types-of-design-pattern?u=76281980&t=0)** - [Instructor] [[Design Patterns]] are strategies that help solve common problems in [[Software Development]].
 >
 > **[0:05](https://www.linkedin.com/learning/playwright-design-patterns/types-of-design-pattern?u=76281980&t=5)** They are divided into three main types, structural patterns.
 >
@@ -280,7 +275,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[Design Patterns]] (1), [[Software Development]] (1), data (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (1), [[Software Development]] (1)
 > **Analogies:** just like (2)
 > **Speakers:** - [instructor] (1)
 
@@ -289,8 +284,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to fixtures
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-design-patterns/introduction-to-fixtures?u=76281980)
+#### [Introduction to fixtures](https://www.linkedin.com/learning/playwright-design-patterns/introduction-to-fixtures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -328,13 +322,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), management (1), next (1)
 > **Prerequisites:** setup (5), set up (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### What are Playwright fixtures?
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-design-patterns/what-are-playwright-fixtures?u=76281980)
+#### [What are Playwright fixtures?](https://www.linkedin.com/learning/playwright-design-patterns/what-are-playwright-fixtures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -380,15 +372,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), teams (1), next (1), application (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** previous video (1), next video (1)
 > **Prerequisites:** setup (2)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up fixtures in Playwright
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-design-patterns/setting-up-fixtures-in-playwright?u=76281980)
+#### [Setting up fixtures in Playwright](https://www.linkedin.com/learning/playwright-design-patterns/setting-up-fixtures-in-playwright?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -448,11 +438,11 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/playwright-design-patterns/setting-up-fixtures-in-playwright?u=76281980&t=215)** As you can see, using built-in fixtures can streamline your tests by automatically handling the browser lifecycle allowing you to focus more on writing test logic.
 >
-> **[3:46](https://www.linkedin.com/learning/playwright-design-patterns/setting-up-fixtures-in-playwright?u=76281980&t=226)** In the next video, we'll explore even more ways to optimize your test automation using playwright fixtures.
+> **[3:46](https://www.linkedin.com/learning/playwright-design-patterns/setting-up-fixtures-in-playwright?u=76281980&t=226)** In the next video, we'll explore even more ways to optimize your [[Test Automation]] using playwright fixtures.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Test Automation]] (1)
+> **Frameworks & Libraries:** [[Test Automation]] (1)
 > **UI Navigation:** go to (3)
 > **CLI Commands:** make (1), npx (1)
 > **Code Identifiers:** getbyrole (1)
@@ -461,8 +451,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - in (1)
 
-#### Creating custom fixtures
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-design-patterns/creating-custom-fixtures?u=76281980)
+#### [Creating custom fixtures](https://www.linkedin.com/learning/playwright-design-patterns/creating-custom-fixtures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -546,15 +535,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10)
 > **Env Vars:** url (4)
 > **URLs:** [example.com](https://example.com) (1), [will.com](https://will.com) (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Automatic fixtures
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-design-patterns/automatic-fixtures?u=76281980)
+#### [Automatic fixtures](https://www.linkedin.com/learning/playwright-design-patterns/automatic-fixtures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -600,14 +587,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **Definitions:** is a  (3), is an  (2), means that (1)
 > **Code Identifiers:** authenticateduser (3)
 > **Prerequisites:** setup (2)
 > **Speakers:** - [instructor] (1)
 
-#### Fixture scope and isolation
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-design-patterns/fixture-scope-and-isolation?u=76281980)
+#### [Fixture scope and isolation](https://www.linkedin.com/learning/playwright-design-patterns/fixture-scope-and-isolation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -685,8 +670,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Fixture best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-design-patterns/fixture-best-practices?u=76281980)
+#### [Fixture best practices](https://www.linkedin.com/learning/playwright-design-patterns/fixture-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -730,7 +714,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/playwright-design-patterns/fixture-best-practices?u=76281980&t=101)** Context and request fixtures.
 >
-> **[1:43](https://www.linkedin.com/learning/playwright-design-patterns/fixture-best-practices?u=76281980&t=103)** Context manages isolated sessions, and requests is great for API testing without a browser.
+> **[1:43](https://www.linkedin.com/learning/playwright-design-patterns/fixture-best-practices?u=76281980&t=103)** Context manages isolated sessions, and requests is great for [[API Testing]] without a browser.
 >
 > **[1:50](https://www.linkedin.com/learning/playwright-design-patterns/fixture-best-practices?u=76281980&t=110)** Advance fixtures, trace captures detailed test traces, and artifacts handle screenshots, videos, and more.
 >
@@ -742,7 +726,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), api (1)
+> **Frameworks & Libraries:** [[API Testing]] (1)
 > **Prerequisites:** setup (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** api (1)
@@ -756,8 +740,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a page object model?
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-design-patterns/what-is-a-page-object-model?u=76281980)
+#### [What is a page object model?](https://www.linkedin.com/learning/playwright-design-patterns/what-is-a-page-object-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -795,15 +778,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web application (2)
 > **Env Vars:** pom (9)
 > **Analogies:** just like (2), imagine (1), for example (1), it's like (1)
 > **CLI Commands:** find (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a basic page object model
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-design-patterns/creating-a-basic-page-object-model?u=76281980)
+#### [Creating a basic page object model](https://www.linkedin.com/learning/playwright-design-patterns/creating-a-basic-page-object-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -877,7 +858,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (1), next (1)
 > **Code Identifiers:** emaillocator (1), getbyrole (1), passwordlocator (1), signinbuttonlocator (1)
 > **Env Vars:** pom (3), api (1)
 > **UI Navigation:** right-click (1), click on (1), dropdown (1), scroll down (1)
@@ -885,8 +865,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implementing the page object model in tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-design-patterns/implementing-the-page-object-model-in-tests?u=76281980)
+#### [Implementing the page object model in tests](https://www.linkedin.com/learning/playwright-design-patterns/implementing-the-page-object-model-in-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -952,7 +931,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Env Vars:** url (6), pom (1)
 > **Code Identifiers:** loginpage (2), login_page (1), emaillocator (1), signinbutton (1), tocontain (1)
 > **File Paths:** login_page.pom.ts (1), test.spec.ts (1), login-page.pom (1)
@@ -960,9 +938,9 @@ created: 2026-05-02
 > **URLs:** [https://binaryville.com/account](https://binaryville.com/account) (1), [example.com](https://example.com) (1)
 > **Cross-References:** previous video (1), in the next (1)
 > **CLI Commands:** npx (1)
+> **Documentation:** spec (1)
 
-#### Combining page object model with fixtures
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-design-patterns/combining-page-object-model-with-fixtures?u=76281980)
+#### [Combining page object model with fixtures](https://www.linkedin.com/learning/playwright-design-patterns/combining-page-object-model-with-fixtures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1015,8 +993,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating reusable and maintainable page object models
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-design-patterns/creating-reusable-and-maintainable-page-object-models?u=76281980)
+#### [Creating reusable and maintainable page object models](https://www.linkedin.com/learning/playwright-design-patterns/creating-reusable-and-maintainable-page-object-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1087,8 +1064,7 @@ created: 2026-05-02
 > **URLs:** [example.com](https://example.com) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Best practices for page object models
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-design-patterns/best-practices-for-page-object-models?u=76281980)
+#### [Best practices for page object models](https://www.linkedin.com/learning/playwright-design-patterns/best-practices-for-page-object-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1150,7 +1126,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), application (2), next (1)
 > **Env Vars:** pom (13)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** surl (1)
@@ -1163,8 +1138,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to behavior driven development (BDD)
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-design-patterns/introduction-to-behavior-driven-development-bdd?u=76281980)
+#### [Introduction to behavior driven development (BDD)](https://www.linkedin.com/learning/playwright-design-patterns/introduction-to-behavior-driven-development-bdd?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1200,7 +1174,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/playwright-design-patterns/introduction-to-behavior-driven-development-bdd?u=76281980&t=116)** It turns development into a truly collaborative effort, making sure your team delivers what really matters.
 >
-> **[2:04](https://www.linkedin.com/learning/playwright-design-patterns/introduction-to-behavior-driven-development-bdd?u=76281980&t=124)** BDD fits perfectly into agile practices like continuous integration and continuous delivery.
+> **[2:04](https://www.linkedin.com/learning/playwright-design-patterns/introduction-to-behavior-driven-development-bdd?u=76281980&t=124)** BDD fits perfectly into [[Agile Development|agile]] practices like [[Continuous Integration (CI)|continuous integration]] and [[Continuous Delivery (CD)|continuous delivery]].
 >
 > **[2:10](https://www.linkedin.com/learning/playwright-design-patterns/introduction-to-behavior-driven-development-bdd?u=76281980&t=130)** In an agile environment where quick feedback and alteration are key, BDD ensures that every release delivers features that align with business expectations.
 >
@@ -1212,13 +1186,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), [[Agile Development|Agile]] (2), [[Continuous Integration (CI)|Continuous integration]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), [[Continuous Integration (CI)|Continuous integration]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1)
 > **Env Vars:** bdd (9)
 > **Analogies:** imagine (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Writing BDD scenarios using Cucumber
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-design-patterns/writing-bdd-scenarios-using-cucumber?u=76281980)
+#### [Writing BDD scenarios using Cucumber](https://www.linkedin.com/learning/playwright-design-patterns/writing-bdd-scenarios-using-cucumber?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1258,7 +1231,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (3), next (1)
 > **Env Vars:** url (1), bdd (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **Prerequisites:** install (2)
@@ -1266,9 +1238,9 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
+> **Speakers:** - [instructor] (1)
 
-#### Setting up Cucumber in your project
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-design-patterns/setting-up-cucumber-in-your-project?u=76281980)
+#### [Setting up Cucumber in your project](https://www.linkedin.com/learning/playwright-design-patterns/setting-up-cucumber-in-your-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1276,9 +1248,9 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/playwright-design-patterns/setting-up-cucumber-in-your-project?u=76281980&t=7)** This is where your scenarios come to life, turning those plain language steps into real executable tests.
 >
-> **[0:15](https://www.linkedin.com/learning/playwright-design-patterns/setting-up-cucumber-in-your-project?u=76281980&t=15)** So first of all, I will install the Cucumber and ts-node so npm install --save-dev @cucumber/cucumber ts-node.
+> **[0:15](https://www.linkedin.com/learning/playwright-design-patterns/setting-up-cucumber-in-your-project?u=76281980&t=15)** So first of all, I will install the Cucumber and ts-node so [[npm]] install --save-dev @cucumber/cucumber ts-node.
 >
-> **[0:29](https://www.linkedin.com/learning/playwright-design-patterns/setting-up-cucumber-in-your-project?u=76281980&t=29)** So once it installs these two libraries, you can see them getting updated in the package, JSON.
+> **[0:29](https://www.linkedin.com/learning/playwright-design-patterns/setting-up-cucumber-in-your-project?u=76281980&t=29)** So once it installs these two libraries, you can see them getting updated in the package, [[JSON]].
 >
 > **[0:37](https://www.linkedin.com/learning/playwright-design-patterns/setting-up-cucumber-in-your-project?u=76281980&t=37)** There you go. So now you have installed both of them.
 >
@@ -1336,7 +1308,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (4), node (3), feature (3), next (3), [[npm]] (2)
+> **Frameworks & Libraries:** [[JSON]] (4), [[npm]] (2)
 > **CLI Commands:** node (3), npm (2)
 > **Env Vars:** json (3), bdd (1)
 > **File Paths:** cucumber.json (1), tsconfig.json (1), loginsteps.ts (1)
@@ -1345,8 +1317,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **UI Navigation:** go to (1)
 
-#### Writing your first step definition
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-design-patterns/writing-your-first-step-definition?u=76281980)
+#### [Writing your first step definition](https://www.linkedin.com/learning/playwright-design-patterns/writing-your-first-step-definition?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1466,7 +1437,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), feature (2)
 > **Code Identifiers:** beforeeach (2), aftereach (2), newpage (2), getbyrole (2), loginsteps (1)
 > **Env Vars:** url (6), bdd (2), npmt (1)
 > **URLs:** [https://binaryvile.com/account](https://binaryvile.com/account) (1), [example.com](https://example.com) (1)
@@ -1474,9 +1444,9 @@ created: 2026-05-02
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (2)
 > **Prerequisites:** before we start (1)
+> **Speakers:** - [instructor] (1)
 
-#### Centralizing setup and running a BDD test
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-design-patterns/centralizing-setup-and-running-a-bdd-test?u=76281980)
+#### [Centralizing setup and running a BDD test](https://www.linkedin.com/learning/playwright-design-patterns/centralizing-setup-and-running-a-bdd-test?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1508,7 +1478,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/playwright-design-patterns/centralizing-setup-and-running-a-bdd-test?u=76281980&t=109)** Now, let's try and run this test.
 >
-> **[1:55](https://www.linkedin.com/learning/playwright-design-patterns/centralizing-setup-and-running-a-bdd-test?u=76281980&t=115)** So, npm t, let's see what happens.
+> **[1:55](https://www.linkedin.com/learning/playwright-design-patterns/centralizing-setup-and-running-a-bdd-test?u=76281980&t=115)** So, [[npm]] t, let's see what happens.
 >
 > **[1:59](https://www.linkedin.com/learning/playwright-design-patterns/centralizing-setup-and-running-a-bdd-test?u=76281980&t=119)** As you can see, the test still works.
 >
@@ -1524,8 +1494,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Combining BDD with page object model
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-design-patterns/combining-bdd-with-page-object-model?u=76281980)
+#### [Combining BDD with page object model](https://www.linkedin.com/learning/playwright-design-patterns/combining-bdd-with-page-object-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1623,7 +1592,7 @@ created: 2026-05-02
 >
 > **[5:31](https://www.linkedin.com/learning/playwright-design-patterns/combining-bdd-with-page-object-model?u=76281980&t=331)** Now let's try and when these tests and see what happens.
 >
-> **[5:36](https://www.linkedin.com/learning/playwright-design-patterns/combining-bdd-with-page-object-model?u=76281980&t=336)** So npm t.
+> **[5:36](https://www.linkedin.com/learning/playwright-design-patterns/combining-bdd-with-page-object-model?u=76281980&t=336)** So [[npm]] t.
 >
 > **[5:42](https://www.linkedin.com/learning/playwright-design-patterns/combining-bdd-with-page-object-model?u=76281980&t=342)** And as you can see, the tests are still running, they're passing, there are no issues.
 >
@@ -1631,7 +1600,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[npm]] (1)
+> **Frameworks & Libraries:** [[npm]] (1)
 > **Code Identifiers:** loginpage (4), emaillocator (2), signinbuttonlocator (2), passwordlocator (1)
 > **CLI Commands:** make (2), find (1), npm (1)
 > **Env Vars:** url (2), bdd (2)
@@ -1645,8 +1614,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to data-driven testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-design-patterns/introduction-to-data-driven-testing?u=76281980)
+#### [Introduction to data-driven testing](https://www.linkedin.com/learning/playwright-design-patterns/introduction-to-data-driven-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1668,13 +1636,13 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/playwright-design-patterns/introduction-to-data-driven-testing?u=76281980&t=44)** And finally, it's scalable.
 >
-> **[0:46](https://www.linkedin.com/learning/playwright-design-patterns/introduction-to-data-driven-testing?u=76281980&t=46)** As your app grows, you simply update the data files and the same test logic handles the rest.
+> **[0:46](https://www.linkedin.com/learning/playwright-design-patterns/introduction-to-data-driven-testing?u=76281980&t=46)** As your app grows, you simply update the data files and the same test logic handles the [[Representational State Transfer (REST)|rest]].
 >
 > **[0:51](https://www.linkedin.com/learning/playwright-design-patterns/introduction-to-data-driven-testing?u=76281980&t=51)** Let's break it down into three steps.
 >
 > **[0:53](https://www.linkedin.com/learning/playwright-design-patterns/introduction-to-data-driven-testing?u=76281980&t=53)** Step number one, prepare your test data.
 >
-> **[0:56](https://www.linkedin.com/learning/playwright-design-patterns/introduction-to-data-driven-testing?u=76281980&t=56)** Whether in JSON, CSV, or another format, this is where you define all the inputs for your test.
+> **[0:56](https://www.linkedin.com/learning/playwright-design-patterns/introduction-to-data-driven-testing?u=76281980&t=56)** Whether in [[JSON]], CSV, or another format, this is where you define all the inputs for your test.
 >
 > **[1:02](https://www.linkedin.com/learning/playwright-design-patterns/introduction-to-data-driven-testing?u=76281980&t=62)** Step two, write a generic test script that can handle various inputs.
 >
@@ -1688,7 +1656,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/playwright-design-patterns/introduction-to-data-driven-testing?u=76281980&t=88)** In user authentication, you can validate login processes across user credentials, ensuring security.
 >
-> **[1:35](https://www.linkedin.com/learning/playwright-design-patterns/introduction-to-data-driven-testing?u=76281980&t=95)** And for e-commerce, you can ensure the checkout process is smooth no matter what's in the cart.
+> **[1:35](https://www.linkedin.com/learning/playwright-design-patterns/introduction-to-data-driven-testing?u=76281980&t=95)** And for [[E-Commerce]], you can ensure the checkout process is smooth no matter what's in the cart.
 >
 > **[1:41](https://www.linkedin.com/learning/playwright-design-patterns/introduction-to-data-driven-testing?u=76281980&t=101)** These are just a few examples of where data-driven testing can make a real-world impact.
 >
@@ -1700,15 +1668,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), application (2), next (2), power (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[JSON]] (1), [[E-Commerce]] (1)
 > **Analogies:** imagine (1), think of it as (1), it's like (1), for example (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** json (1), csv (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [presenter] (1)
 
-#### Setting up data for data-driven testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-design-patterns/setting-up-data-for-data-driven-testing?u=76281980)
+#### [Setting up data for data-driven testing](https://www.linkedin.com/learning/playwright-design-patterns/setting-up-data-for-data-driven-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1718,7 +1685,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/playwright-design-patterns/setting-up-data-for-data-driven-testing?u=76281980&t=9)** And with the right setup, you'll be able to test multiple scenarios with ease.
 >
-> **[0:13](https://www.linkedin.com/learning/playwright-design-patterns/setting-up-data-for-data-driven-testing?u=76281980&t=13)** So, to get started, I'm going to click on the parent folder and click on Create New Folder, and the new folder name would be data, and inside data I will create a file call loginData.json.
+> **[0:13](https://www.linkedin.com/learning/playwright-design-patterns/setting-up-data-for-data-driven-testing?u=76281980&t=13)** So, to get started, I'm going to click on the parent folder and click on Create New Folder, and the new folder name would be data, and inside data I will create a file call loginData.[[JSON]].
 >
 > **[0:27](https://www.linkedin.com/learning/playwright-design-patterns/setting-up-data-for-data-driven-testing?u=76281980&t=27)** This file is an array of objects containing email.
 >
@@ -1728,7 +1695,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/playwright-design-patterns/setting-up-data-for-data-driven-testing?u=76281980&t=41)** And the password is pass123.
 >
-> **[0:49](https://www.linkedin.com/learning/playwright-design-patterns/setting-up-data-for-data-driven-testing?u=76281980&t=49)** And then, second is john.smith example, 123.
+> **[0:49](https://www.linkedin.com/learning/playwright-design-patterns/setting-up-data-for-data-driven-testing?u=76281980&t=49)** And then, second is [[John the Ripper|john]].smith example, 123.
 >
 > **[0:56](https://www.linkedin.com/learning/playwright-design-patterns/setting-up-data-for-data-driven-testing?u=76281980&t=56)** So I'll try one before in the password.
 >
@@ -1748,7 +1715,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[JSON]] (2), next (1)
+> **Frameworks & Libraries:** [[JSON]] (2), [[John the Ripper|John]] (1)
 > **Prerequisites:** setup (2), set up (1)
 > **UI Navigation:** click on (2)
 > **File Paths:** logindata.json (1)
@@ -1757,8 +1724,7 @@ created: 2026-05-02
 > **Env Vars:** json (1)
 > **Cross-References:** in the next (1)
 
-#### Implementing data-driven testing in Playwright
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-design-patterns/implementing-data-driven-testing-in-playwright?u=76281980)
+#### [Implementing data-driven testing in Playwright](https://www.linkedin.com/learning/playwright-design-patterns/implementing-data-driven-testing-in-playwright?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1838,7 +1804,7 @@ created: 2026-05-02
 >
 > **[4:41](https://www.linkedin.com/learning/playwright-design-patterns/implementing-data-driven-testing-in-playwright?u=76281980&t=281)** So, I'm going to open the playwright report to show you the test titles, and this is what the report looks like.
 >
-> **[4:54](https://www.linkedin.com/learning/playwright-design-patterns/implementing-data-driven-testing-in-playwright?u=76281980&t=294)** User can log in with email this, which is test1@[eightexample.com](https://eightexample.com), John Smith and Dave Smith.
+> **[4:54](https://www.linkedin.com/learning/playwright-design-patterns/implementing-data-driven-testing-in-playwright?u=76281980&t=294)** User can log in with email this, which is test1@[eightexample.com](https://eightexample.com), [[John the Ripper|John]] Smith and Dave Smith.
 >
 > **[5:01](https://www.linkedin.com/learning/playwright-design-patterns/implementing-data-driven-testing-in-playwright?u=76281980&t=301)** With data-driven testing in place, our test suite is now more scalable and efficient.
 >
@@ -1846,7 +1812,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (1)
 > **Code Identifiers:** foreach (2), tohaveurl (1)
 > **URLs:** [binaryville.com](https://binaryville.com) (1), [example.com](https://example.com) (1), [eightexample.com](https://eightexample.com) (1)
 > **CLI Commands:** make (1), npx (1)
@@ -1860,8 +1826,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-design-patterns/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/playwright-design-patterns/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1889,7 +1854,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)

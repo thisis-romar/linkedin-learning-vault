@@ -113,8 +113,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The essentials of finance
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/the-essentials-of-finance?u=76281980)
+#### [The essentials of finance](https://www.linkedin.com/learning/finance-foundations-24834241/the-essentials-of-finance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -136,11 +135,11 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/finance-foundations-24834241/the-essentials-of-finance?u=76281980&t=30)** - [Kay] And we'll talk about trading stocks and bonds.
 >
-> **[0:32](https://www.linkedin.com/learning/finance-foundations-24834241/the-essentials-of-finance?u=76281980&t=32)** We'll look at the IPOs of Microsoft and Facebook.
+> **[0:32](https://www.linkedin.com/learning/finance-foundations-24834241/the-essentials-of-finance?u=76281980&t=32)** We'll look at the IPOs of [[Microsoft]] and Facebook.
 >
 > **[0:35](https://www.linkedin.com/learning/finance-foundations-24834241/the-essentials-of-finance?u=76281980&t=35)** - [Jim] We'll learn what an investment bank is.
 >
-> **[0:37](https://www.linkedin.com/learning/finance-foundations-24834241/the-essentials-of-finance?u=76281980&t=37)** - And we'll end with some basic principles of personal financial planning.
+> **[0:37](https://www.linkedin.com/learning/finance-foundations-24834241/the-essentials-of-finance?u=76281980&t=37)** - And we'll end with some basic principles of personal [[Financial Planning]].
 >
 > **[0:41](https://www.linkedin.com/learning/finance-foundations-24834241/the-essentials-of-finance?u=76281980&t=41)** - Hi. I'm Jim Stice.
 >
@@ -154,12 +153,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Microsoft]] (1), [[Financial Planning]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Financial Planning]] (1)
 > **Speakers:** - and (2), - [kay] (2), - [jim] (2), - it (1), - deciding (1)
 > **Env Vars:** capm (1)
 
-#### What you should know before watching this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/what-you-should-know-before-watching-this-course?u=76281980)
+#### [What you should know before watching this course](https://www.linkedin.com/learning/finance-foundations-24834241/what-you-should-know-before-watching-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -197,7 +195,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), power (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - so (1)
@@ -207,8 +204,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The board of directors discusses finance
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/the-board-of-directors-discusses-finance?u=76281980)
+#### [The board of directors discusses finance](https://www.linkedin.com/learning/finance-foundations-24834241/the-board-of-directors-discusses-finance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -248,7 +244,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/finance-foundations-24834241/the-board-of-directors-discusses-finance?u=76281980&t=68)** - [Jim] Well, we discussed our inventory.
 >
-> **[1:10](https://www.linkedin.com/learning/finance-foundations-24834241/the-board-of-directors-discusses-finance?u=76281980&t=70)** The company was a consumer products company, and the inventory can lose value rapidly as consumer tastes change.
+> **[1:10](https://www.linkedin.com/learning/finance-foundations-24834241/the-board-of-directors-discusses-finance?u=76281980&t=70)** The company was a consumer [[Microsoft Products|products]] company, and the inventory can lose value rapidly as consumer tastes change.
 >
 > **[1:17](https://www.linkedin.com/learning/finance-foundations-24834241/the-board-of-directors-discusses-finance?u=76281980&t=77)** - Okay. So you talked about inventory management.
 >
@@ -304,13 +300,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), management (2), business (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **Speakers:** - okay (4), - now (3), - [jim] (3), - what (2), - well (2)
 > **Cross-References:** we discussed (1)
 > **Definitions:** in other words (1)
 
-#### Finance inside of companies
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/finance-inside-of-companies?u=76281980)
+#### [Finance inside of companies](https://www.linkedin.com/learning/finance-foundations-24834241/finance-inside-of-companies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -386,8 +381,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - so (1)
 
-#### Finance outside of companies
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/finance-outside-of-companies?u=76281980)
+#### [Finance outside of companies](https://www.linkedin.com/learning/finance-foundations-24834241/finance-outside-of-companies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -461,8 +455,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing risk and return
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/introducing-risk-and-return?u=76281980)
+#### [Introducing risk and return](https://www.linkedin.com/learning/finance-foundations-24834241/introducing-risk-and-return?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -532,12 +525,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), [[Security]] (1)
 > **Speakers:** - okay (4), - let (2), - that (1), - return (1), - well (1)
 > **Definitions:** in other words (1), is a  (1)
 
-#### What is risk?
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/what-is-risk?u=76281980)
+#### [What is risk?](https://www.linkedin.com/learning/finance-foundations-24834241/what-is-risk?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -637,14 +628,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), product (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (3)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - let (1)
 
-#### Why we don’t like risk
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/why-we-don-t-like-risk?u=76281980)
+#### [Why we don’t like risk](https://www.linkedin.com/learning/finance-foundations-24834241/why-we-don-t-like-risk?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -754,14 +743,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** fdic (1)
 > **Analogies:** for example (1)
 > **Speakers:** - as (1)
 
-#### Reducing risk through diversification
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/reducing-risk-through-diversification?u=76281980)
+#### [Reducing risk through diversification](https://www.linkedin.com/learning/finance-foundations-24834241/reducing-risk-through-diversification?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -827,9 +814,9 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/finance-foundations-24834241/reducing-risk-through-diversification?u=76281980&t=151)** That's extra risk, but you're not going to be paid for bearing risk that can be eliminated or reduced through diversification.
 >
-> **[2:39](https://www.linkedin.com/learning/finance-foundations-24834241/reducing-risk-through-diversification?u=76281980&t=159)** Think of Microsoft, for example.
+> **[2:39](https://www.linkedin.com/learning/finance-foundations-24834241/reducing-risk-through-diversification?u=76281980&t=159)** Think of [[Microsoft]], for example.
 >
-> **[2:41](https://www.linkedin.com/learning/finance-foundations-24834241/reducing-risk-through-diversification?u=76281980&t=161)** They have laptop computers and Xboxes and cloud computing and software, and on and on and on.
+> **[2:41](https://www.linkedin.com/learning/finance-foundations-24834241/reducing-risk-through-diversification?u=76281980&t=161)** They have laptop computers and Xboxes and [[Cloud Computing]] and software, and on and on and on.
 >
 > **[2:48](https://www.linkedin.com/learning/finance-foundations-24834241/reducing-risk-through-diversification?u=76281980&t=168)** If Microsoft invests all of its resources into one product line, they're exposed to all kinds of risks from good and bad events, but if they spread their resources over a whole bunch of product lines, then the random bad things in one product line will be balanced out by random good things in other product lines.
 >
@@ -851,12 +838,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (8), [[Microsoft]] (3), cloud (1)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Cloud Computing]] (1)
 > **Analogies:** for example (2), such as (1)
 > **Speakers:** - we (1)
 
-#### Beta: The concept
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/beta-the-concept?u=76281980)
+#### [Beta: The concept](https://www.linkedin.com/learning/finance-foundations-24834241/beta-the-concept?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -966,14 +952,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), database (1)
 > **Definitions:** is called (1), in other words (1), is a  (1), means that (1)
 > **Env Vars:** capm (2)
 > **Analogies:** for example (1), imagine (1)
 > **Speakers:** - risk (1)
 
-#### Beta: Examples
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/beta-examples?u=76281980)
+#### [Beta: Examples](https://www.linkedin.com/learning/finance-foundations-24834241/beta-examples?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1015,7 +999,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/finance-foundations-24834241/beta-examples?u=76281980&t=87)** Now, let's consider companies with beta around one.
 >
-> **[1:32](https://www.linkedin.com/learning/finance-foundations-24834241/beta-examples?u=76281980&t=92)** Alphabet, parent company of Google, Microsoft, and Apple all have betas around one.
+> **[1:32](https://www.linkedin.com/learning/finance-foundations-24834241/beta-examples?u=76281980&t=92)** Alphabet, parent company of [[Google]], [[Microsoft]], and Apple all have betas around one.
 >
 > **[1:40](https://www.linkedin.com/learning/finance-foundations-24834241/beta-examples?u=76281980&t=100)** This reflects the broad importance of technology in our economy.
 >
@@ -1055,8 +1039,7 @@ created: 2026-05-02
 > **Analogies:** such as (2)
 > **Speakers:** - let (1)
 
-#### Risk-free rate
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/risk-free-rate?u=76281980)
+#### [Risk-free rate](https://www.linkedin.com/learning/finance-foundations-24834241/risk-free-rate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1130,15 +1113,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Analogies:** imagine (2), for example (1)
 > **Versions:** 2.5 (1)
 > **Definitions:** in other words (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - the (1)
 
-#### Equity risk premium
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/equity-risk-premium?u=76281980)
+#### [Equity risk premium](https://www.linkedin.com/learning/finance-foundations-24834241/equity-risk-premium?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1182,7 +1163,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/finance-foundations-24834241/equity-risk-premium?u=76281980&t=119)** For you and I, let's just remember the two historical numbers, the risk-free rate, about 5%, and the equity risk premium about 6%.
 >
-> **[2:09](https://www.linkedin.com/learning/finance-foundations-24834241/equity-risk-premium?u=76281980&t=129)** These numbers will assist us in evaluating the expected returns of alternative investments, and evaluating alternative investments is at the heart of corporate finance.
+> **[2:09](https://www.linkedin.com/learning/finance-foundations-24834241/equity-risk-premium?u=76281980&t=129)** These numbers will assist us in evaluating the expected returns of alternative investments, and evaluating alternative investments is at the heart of [[Corporate Finance]].
 
 > [!info]- Semantic Content
 >
@@ -1191,12 +1172,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - another (1)
 
-#### Capital asset pricing model (CAPM)
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/capital-asset-pricing-model-capm?u=76281980)
+#### [Capital asset pricing model (CAPM)](https://www.linkedin.com/learning/finance-foundations-24834241/capital-asset-pricing-model-capm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/finance-foundations-24834241/capital-asset-pricing-model-capm?u=76281980&t=0)** - We are now standing at the center of much of corporate finance, evaluating the trade-off between anticipated risk and expected return.
+> **[0:00](https://www.linkedin.com/learning/finance-foundations-24834241/capital-asset-pricing-model-capm?u=76281980&t=0)** - We are now standing at the center of much of [[Corporate Finance]], evaluating the trade-off between anticipated risk and expected return.
 >
 > **[0:10](https://www.linkedin.com/learning/finance-foundations-24834241/capital-asset-pricing-model-capm?u=76281980&t=10)** Again, more anticipated risk means more expected return.
 >
@@ -1270,7 +1250,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Corporate Finance]] (2), next (1)
+> **Frameworks & Libraries:** [[Corporate Finance]] (2)
 > **Versions:** 1.41 (2), 8.5 (2), 13.5 (2), 3.1 (2), 0.52 (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** capm (2)
@@ -1282,8 +1262,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of financial statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/overview-of-financial-statements?u=76281980)
+#### [Overview of financial statements](https://www.linkedin.com/learning/finance-foundations-24834241/overview-of-financial-statements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1291,7 +1270,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/finance-foundations-24834241/overview-of-financial-statements?u=76281980&t=11)** - To identify and determine and manage resources, you need information.
 >
-> **[0:16](https://www.linkedin.com/learning/finance-foundations-24834241/overview-of-financial-statements?u=76281980&t=16)** - One source of that information is a company's financial statements: the balance sheet, the income statement, and the statement of cash flows.
+> **[0:16](https://www.linkedin.com/learning/finance-foundations-24834241/overview-of-financial-statements?u=76281980&t=16)** - One source of that information is a company's [[Financial Statements]]: the balance sheet, the income statement, and the statement of cash flows.
 >
 > **[0:23](https://www.linkedin.com/learning/finance-foundations-24834241/overview-of-financial-statements?u=76281980&t=23)** - Let's define the items found in these three financial statements.
 >
@@ -1303,7 +1282,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/finance-foundations-24834241/overview-of-financial-statements?u=76281980&t=54)** Of this amount, 55 billion was the cost of inventory sitting on the shelves of the 10,616 Walmart stores around the world.
 >
-> **[1:04](https://www.linkedin.com/learning/finance-foundations-24834241/overview-of-financial-statements?u=76281980&t=64)** Most of the rest of the $252 billion in assets was in the form of land, buildings and the shelves, display cases, and other equipment in the stores.
+> **[1:04](https://www.linkedin.com/learning/finance-foundations-24834241/overview-of-financial-statements?u=76281980&t=64)** Most of the [[Representational State Transfer (REST)|rest]] of the $252 billion in assets was in the form of land, buildings and the shelves, display cases, and other equipment in the stores.
 >
 > **[1:12](https://www.linkedin.com/learning/finance-foundations-24834241/overview-of-financial-statements?u=76281980&t=72)** - A balance sheet also shows the three general sources that companies use to get money to buy assets.
 >
@@ -1329,7 +1308,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/finance-foundations-24834241/overview-of-financial-statements?u=76281980&t=130)** - The income statement contains revenues and expenses.
 >
-> **[2:13](https://www.linkedin.com/learning/finance-foundations-24834241/overview-of-financial-statements?u=76281980&t=133)** - [Presenter] The revenue amount is the amount of assets generated through doing business operations.
+> **[2:13](https://www.linkedin.com/learning/finance-foundations-24834241/overview-of-financial-statements?u=76281980&t=133)** - [Presenter] The revenue amount is the amount of assets generated through doing [[Business Operations]].
 >
 > **[2:19](https://www.linkedin.com/learning/finance-foundations-24834241/overview-of-financial-statements?u=76281980&t=139)** In 2023, Walmart generated $648 billion in assets, cash or credit/debit card electronic transfers, through the selling of stuff to you and to me.
 >
@@ -1365,13 +1344,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), [[Financial Statements]] (4), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[Financial Statements]] (4), [[Business Operations]] (3), [[Representational State Transfer (REST)|Rest]] (2)
 > **Speakers:** - [presenter] (10), - the (2), - and (2), - finance (1), - to (1)
 > **Definitions:** is a  (4), is called (2)
 > **Analogies:** for example (2), such as (1)
 
-#### The balance sheet
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/the-balance-sheet?u=76281980)
+#### [The balance sheet](https://www.linkedin.com/learning/finance-foundations-24834241/the-balance-sheet?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1485,18 +1463,17 @@ created: 2026-05-02
 >
 > **[4:37](https://www.linkedin.com/learning/finance-foundations-24834241/the-balance-sheet?u=76281980&t=277)** Should Walmart have borrowed a little more or a little less?
 >
-> **[4:41](https://www.linkedin.com/learning/finance-foundations-24834241/the-balance-sheet?u=76281980&t=281)** This question of financing mix is a key question of corporate finance that we'll address in detail later in this course.
+> **[4:41](https://www.linkedin.com/learning/finance-foundations-24834241/the-balance-sheet?u=76281980&t=281)** This question of financing mix is a key question of [[Corporate Finance]] that we'll address in detail later in this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), [[Corporate Finance]] (1)
+> **Frameworks & Libraries:** [[Corporate Finance]] (1)
 > **Definitions:** is a  (3), is called (1)
 > **Cross-References:** later in (1)
 > **Analogies:** such as (1)
 > **Speakers:** - let (1)
 
-#### The income statement
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/the-income-statement?u=76281980)
+#### [The income statement](https://www.linkedin.com/learning/finance-foundations-24834241/the-income-statement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1512,7 +1489,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/finance-foundations-24834241/the-income-statement?u=76281980&t=20)** That's it. That's the income statement.
 >
-> **[0:23](https://www.linkedin.com/learning/finance-foundations-24834241/the-income-statement?u=76281980&t=23)** But what does the word revenue mean?
+> **[0:23](https://www.linkedin.com/learning/finance-foundations-24834241/the-income-statement?u=76281980&t=23)** But what does the [[Microsoft Word|word]] revenue mean?
 >
 > **[0:25](https://www.linkedin.com/learning/finance-foundations-24834241/the-income-statement?u=76281980&t=25)** The meaning is kind of subtle but important.
 >
@@ -1538,15 +1515,15 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/finance-foundations-24834241/the-income-statement?u=76281980&t=76)** Revenue tells us that a company obtains some of its assets through work, through providing value to its customers.
 >
-> **[1:24](https://www.linkedin.com/learning/finance-foundations-24834241/the-income-statement?u=76281980&t=84)** So how do companies generate assets through business operations?
+> **[1:24](https://www.linkedin.com/learning/finance-foundations-24834241/the-income-statement?u=76281980&t=84)** So how do companies generate assets through [[Business Operations]]?
 >
 > **[1:27](https://www.linkedin.com/learning/finance-foundations-24834241/the-income-statement?u=76281980&t=87)** Well, that depends on what the business is.
 >
-> **[1:30](https://www.linkedin.com/learning/finance-foundations-24834241/the-income-statement?u=76281980&t=90)** Microsoft, for example, generates assets by collecting it from you and me through selling software, hardware, and services.
+> **[1:30](https://www.linkedin.com/learning/finance-foundations-24834241/the-income-statement?u=76281980&t=90)** [[Microsoft]], for example, generates assets by collecting it from you and me through selling software, [[Hardware]], and services.
 >
 > **[1:40](https://www.linkedin.com/learning/finance-foundations-24834241/the-income-statement?u=76281980&t=100)** How does Walmart generate assets through doing business?
 >
-> **[1:42](https://www.linkedin.com/learning/finance-foundations-24834241/the-income-statement?u=76281980&t=102)** Well, they sell products to you and me, and they sell us memberships in their Sam's Club.
+> **[1:42](https://www.linkedin.com/learning/finance-foundations-24834241/the-income-statement?u=76281980&t=102)** Well, they sell [[Microsoft Products|products]] to you and me, and they sell us memberships in their Sam's Club.
 >
 > **[1:48](https://www.linkedin.com/learning/finance-foundations-24834241/the-income-statement?u=76281980&t=108)** So that's the way Walmart generates assets through doing business.
 >
@@ -1600,7 +1577,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/finance-foundations-24834241/the-income-statement?u=76281980&t=235)** This illustrates an important point.
 >
-> **[3:57](https://www.linkedin.com/learning/finance-foundations-24834241/the-income-statement?u=76281980&t=237)** The financial statements are only one measure of a company's performance.
+> **[3:57](https://www.linkedin.com/learning/finance-foundations-24834241/the-income-statement?u=76281980&t=237)** The [[Financial Statements]] are only one measure of a company's performance.
 >
 > **[4:01](https://www.linkedin.com/learning/finance-foundations-24834241/the-income-statement?u=76281980&t=241)** A very important measure, but only one measure.
 >
@@ -1618,18 +1595,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (10), [[Microsoft]] (2), [[Hardware]] (2), [[Microsoft Word|Word]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Business Operations]] (3), [[Microsoft]] (2), [[Hardware]] (2), [[Microsoft Word|Word]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** for example (3)
 > **Definitions:** is an  (1), defined as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - the (1)
 
-#### The statement of cash flows
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/the-statement-of-cash-flows?u=76281980)
+#### [The statement of cash flows](https://www.linkedin.com/learning/finance-foundations-24834241/the-statement-of-cash-flows?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/finance-foundations-24834241/the-statement-of-cash-flows?u=76281980&t=0)** - The statement of cash flows is the baby of the financial statements.
+> **[0:00](https://www.linkedin.com/learning/finance-foundations-24834241/the-statement-of-cash-flows?u=76281980&t=0)** - The statement of cash flows is the baby of the [[Financial Statements]].
 >
 > **[0:04](https://www.linkedin.com/learning/finance-foundations-24834241/the-statement-of-cash-flows?u=76281980&t=4)** The balance sheet and the income statement, they've been around for over 500 years.
 >
@@ -1671,7 +1647,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/finance-foundations-24834241/the-statement-of-cash-flows?u=76281980&t=100)** The next category of cash flows is investing activities.
 >
-> **[1:43](https://www.linkedin.com/learning/finance-foundations-24834241/the-statement-of-cash-flows?u=76281980&t=103)** Here, the word investing means investing in the productive capacity of the business.
+> **[1:43](https://www.linkedin.com/learning/finance-foundations-24834241/the-statement-of-cash-flows?u=76281980&t=103)** Here, the [[Microsoft Word|word]] investing means investing in the productive capacity of the business.
 >
 > **[1:49](https://www.linkedin.com/learning/finance-foundations-24834241/the-statement-of-cash-flows?u=76281980&t=109)** So cash outflows from investing activities are buying new buildings, buying new land, buying new machines.
 >
@@ -1721,7 +1697,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/finance-foundations-24834241/the-statement-of-cash-flows?u=76281980&t=192)** Let's look at some cash flow numbers for five companies about which you may have heard.
 >
-> **[3:17](https://www.linkedin.com/learning/finance-foundations-24834241/the-statement-of-cash-flows?u=76281980&t=197)** Microsoft, Apple, ExxonMobil, Walmart, and Tesla.
+> **[3:17](https://www.linkedin.com/learning/finance-foundations-24834241/the-statement-of-cash-flows?u=76281980&t=197)** [[Microsoft]], Apple, ExxonMobil, Walmart, and Tesla.
 >
 > **[3:22](https://www.linkedin.com/learning/finance-foundations-24834241/the-statement-of-cash-flows?u=76281980&t=202)** These numbers are for 2024, and are in billions of US dollars.
 >
@@ -1757,17 +1733,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), [[Financial Statements]] (1), next (1), [[Microsoft Word|Word]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (1), [[Microsoft Word|Word]] (1), [[Microsoft]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - the (1)
 
-#### Widely-used ratios: Debt ratio and current ratio
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/widely-used-ratios-debt-ratio-and-current-ratio?u=76281980)
+#### [Widely-used ratios: Debt ratio and current ratio](https://www.linkedin.com/learning/finance-foundations-24834241/widely-used-ratios-debt-ratio-and-current-ratio?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/finance-foundations-24834241/widely-used-ratios-debt-ratio-and-current-ratio?u=76281980&t=0)** - You can get a lot of information from the financial statements just by doing a simple thing: divide one accounting number by another.
+> **[0:00](https://www.linkedin.com/learning/finance-foundations-24834241/widely-used-ratios-debt-ratio-and-current-ratio?u=76281980&t=0)** - You can get a lot of information from the [[Financial Statements]] just by doing a simple thing: divide one accounting number by another.
 >
 > **[0:08](https://www.linkedin.com/learning/finance-foundations-24834241/widely-used-ratios-debt-ratio-and-current-ratio?u=76281980&t=8)** The results of these calculations are called financial ratios.
 >
@@ -1849,7 +1824,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Financial Statements]] (1), business (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (1)
 > **Definitions:** is a  (7), is an  (1)
 > **Versions:** 0.83 (2), 76.9 (1), 92.4 (1)
 > **Analogies:** for example (3)
@@ -1857,8 +1832,7 @@ created: 2026-05-02
 > **Best Practices:** general rule (1)
 > **Speakers:** - you (1)
 
-#### Return on sales, asset turnover, and return on equity
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/return-on-sales-asset-turnover-and-return-on-equity?u=76281980)
+#### [Return on sales, asset turnover, and return on equity](https://www.linkedin.com/learning/finance-foundations-24834241/return-on-sales-asset-turnover-and-return-on-equity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1878,7 +1852,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/finance-foundations-24834241/return-on-sales-asset-turnover-and-return-on-equity?u=76281980&t=46)** Now, if we had the time, we could do an interesting item by item comparison of the Walmart and Target income statements to see why Walmart's return on sales is just half as large as Target's.
 >
-> **[0:59](https://www.linkedin.com/learning/finance-foundations-24834241/return-on-sales-asset-turnover-and-return-on-equity?u=76281980&t=59)** For a high tech company, such as Google or Apple or Microsoft, return on sales is often over 20%.
+> **[0:59](https://www.linkedin.com/learning/finance-foundations-24834241/return-on-sales-asset-turnover-and-return-on-equity?u=76281980&t=59)** For a high tech company, such as [[Google]] or Apple or [[Microsoft]], return on sales is often over 20%.
 >
 > **[1:07](https://www.linkedin.com/learning/finance-foundations-24834241/return-on-sales-asset-turnover-and-return-on-equity?u=76281980&t=67)** The sales of high tech businesses can be very profitable.
 >
@@ -1936,8 +1910,7 @@ created: 2026-05-02
 > **Best Practices:** general rule (1)
 > **Speakers:** - another (1)
 
-#### Widely-used ratios: Price-earnings ratio
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/widely-used-ratios-price-earnings-ratio?u=76281980)
+#### [Widely-used ratios: Price-earnings ratio](https://www.linkedin.com/learning/finance-foundations-24834241/widely-used-ratios-price-earnings-ratio?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2005,13 +1978,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1)
 > **Versions:** 3.36 (1), 15.5 (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - the (1)
 
-#### Forecasting financial statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/forecasting-financial-statements?u=76281980)
+#### [Forecasting financial statements](https://www.linkedin.com/learning/finance-foundations-24834241/forecasting-financial-statements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2021,7 +1992,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/finance-foundations-24834241/forecasting-financial-statements?u=76281980&t=10)** They want to know about the future.
 >
-> **[0:12](https://www.linkedin.com/learning/finance-foundations-24834241/forecasting-financial-statements?u=76281980&t=12)** People say that looking at financial statements is like trying to drive your car by looking in the rear view mirror to see where you've been.
+> **[0:12](https://www.linkedin.com/learning/finance-foundations-24834241/forecasting-financial-statements?u=76281980&t=12)** People say that looking at [[Financial Statements]] is like trying to drive your car by looking in the rear view mirror to see where you've been.
 >
 > **[0:19](https://www.linkedin.com/learning/finance-foundations-24834241/forecasting-financial-statements?u=76281980&t=19)** But I'm going to go with Winston Churchill on this topic.
 >
@@ -2033,7 +2004,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/finance-foundations-24834241/forecasting-financial-statements?u=76281980&t=45)** We can make some reasonable assumption about a company's future performance, and it is then fairly straightforward to see what future financial statements might look like.
 >
-> **[0:54](https://www.linkedin.com/learning/finance-foundations-24834241/forecasting-financial-statements?u=76281980&t=54)** To illustrate, let's discuss forecasting a company's income statement.
+> **[0:54](https://www.linkedin.com/learning/finance-foundations-24834241/forecasting-financial-statements?u=76281980&t=54)** To illustrate, let's discuss [[Forecasting]] a company's income statement.
 >
 > **[0:59](https://www.linkedin.com/learning/finance-foundations-24834241/forecasting-financial-statements?u=76281980&t=59)** The same general concept apply if we were looking at the balance sheet.
 >
@@ -2101,7 +2072,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Financial Statements]] (5), next (3), [[Forecasting]] (2)
+> **Frameworks & Libraries:** [[Financial Statements]] (5), [[Forecasting]] (2)
 > **Analogies:** for example (3), such as (1), picture (1)
 > **CLI Commands:** make (2)
 > **Definitions:** in other words (1)
@@ -2112,8 +2083,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing short-term financial management
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/introducing-short-term-financial-management?u=76281980)
+#### [Introducing short-term financial management](https://www.linkedin.com/learning/finance-foundations-24834241/introducing-short-term-financial-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2171,12 +2141,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), product (1)
 > **Speakers:** - okay (3), - well (2), - on (2), - nike (1), - yeah (1)
 > **Analogies:** such as (1)
 
-#### The operating cycle
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/the-operating-cycle?u=76281980)
+#### [The operating cycle](https://www.linkedin.com/learning/finance-foundations-24834241/the-operating-cycle?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2238,12 +2206,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), business (2), prompt (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - remember (1)
 
-#### Cash management
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/cash-management?u=76281980)
+#### [Cash management](https://www.linkedin.com/learning/finance-foundations-24834241/cash-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2321,15 +2287,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (3)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - let (1)
 
-#### Managing receivables and inventory
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/managing-receivables-and-inventory?u=76281980)
+#### [Managing receivables and inventory](https://www.linkedin.com/learning/finance-foundations-24834241/managing-receivables-and-inventory?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2399,13 +2363,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), management (1)
 > **Definitions:** is called (2)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - a (1)
 
-#### Obtaining short-term financing
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/obtaining-short-term-financing?u=76281980)
+#### [Obtaining short-term financing](https://www.linkedin.com/learning/finance-foundations-24834241/obtaining-short-term-financing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2475,7 +2437,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), business (1), next (1)
 > **Analogies:** such as (4), for example (3)
 > **Definitions:** is a  (2), is called (2), means that (1)
 > **Env Vars:** ibm (2), iou (2)
@@ -2484,8 +2445,7 @@ created: 2026-05-02
 > **Versions:** 4.33 (1)
 > **Speakers:** - an (1)
 
-#### Internal controls
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/internal-controls?u=76281980)
+#### [Internal controls](https://www.linkedin.com/learning/finance-foundations-24834241/internal-controls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2495,7 +2455,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/finance-foundations-24834241/internal-controls?u=76281980&t=8)** Internal controls, something only accountants would care about, but internal control is the label given to the important systems in place inside a company to make sure that the company does what it is supposed to do, that it satisfies its obligations, and that everything gets recorded.
 >
-> **[0:27](https://www.linkedin.com/learning/finance-foundations-24834241/internal-controls?u=76281980&t=27)** Turns out, if you don't have a data collection system, if you don't have a paper trail, then you're not able to manage your processes at all.
+> **[0:27](https://www.linkedin.com/learning/finance-foundations-24834241/internal-controls?u=76281980&t=27)** Turns out, if you don't have a [[Data Collection]] system, if you don't have a paper trail, then you're not able to manage your processes at all.
 >
 > **[0:35](https://www.linkedin.com/learning/finance-foundations-24834241/internal-controls?u=76281980&t=35)** You may have heard of the Sarbanes-Oxley Act.
 >
@@ -2559,7 +2519,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1), data (1)
+> **Frameworks & Libraries:** [[Data Collection]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1), is an  (1)
 > **UI Navigation:** go to (1)
@@ -2571,14 +2531,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing long-term financing
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/introducing-long-term-financing?u=76281980)
+#### [Introducing long-term financing](https://www.linkedin.com/learning/finance-foundations-24834241/introducing-long-term-financing?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/finance-foundations-24834241/introducing-long-term-financing?u=76281980&t=0)** - US census data revealed that the median selling price for the new homes sold in the United States in the month October, 2024 was $425,300.
 >
-> **[0:12](https://www.linkedin.com/learning/finance-foundations-24834241/introducing-long-term-financing?u=76281980&t=12)** - One of the key questions in corporate finance is whether you can impact the value of an asset, such as a house or an entire company, by strategically choosing the mix of borrowing and owner investment used to finance the purchase of the asset.
+> **[0:12](https://www.linkedin.com/learning/finance-foundations-24834241/introducing-long-term-financing?u=76281980&t=12)** - One of the key questions in [[Corporate Finance]] is whether you can impact the value of an asset, such as a house or an entire company, by strategically choosing the mix of borrowing and owner investment used to finance the purchase of the asset.
 >
 > **[0:25](https://www.linkedin.com/learning/finance-foundations-24834241/introducing-long-term-financing?u=76281980&t=25)** This topic area is called capital structure.
 >
@@ -2618,7 +2577,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/finance-foundations-24834241/introducing-long-term-financing?u=76281980&t=115)** - (chuckles) Well, absolutely.
 >
-> **[1:56](https://www.linkedin.com/learning/finance-foundations-24834241/introducing-long-term-financing?u=76281980&t=116)** The probability that financial distress could cause you to lose the house is much greater if you have a mortgage loan.
+> **[1:56](https://www.linkedin.com/learning/finance-foundations-24834241/introducing-long-term-financing?u=76281980&t=116)** The [[Probability]] that financial distress could cause you to lose the house is much greater if you have a mortgage loan.
 >
 > **[2:03](https://www.linkedin.com/learning/finance-foundations-24834241/introducing-long-term-financing?u=76281980&t=123)** If you can't make your mortgage payments, eventually you're going to lose the house.
 >
@@ -2644,14 +2603,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Corporate Finance]] (2), data (1), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Corporate Finance]] (2), [[Probability]] (1)
 > **Speakers:** - so (3), - [instructor] (2), - us (1), - one (1), - let (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is called (1)
 > **Analogies:** such as (1)
 
-#### Does capital structure matter? No?
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/does-capital-structure-matter-no?u=76281980)
+#### [Does capital structure matter? No?](https://www.linkedin.com/learning/finance-foundations-24834241/does-capital-structure-matter-no?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2701,7 +2659,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/finance-foundations-24834241/does-capital-structure-matter-no?u=76281980&t=116)** Does capital structure impact the value of the company?
 >
-> **[2:00](https://www.linkedin.com/learning/finance-foundations-24834241/does-capital-structure-matter-no?u=76281980&t=120)** Now in the area of corporate finance, this is the question, does capital structure impact value?
+> **[2:00](https://www.linkedin.com/learning/finance-foundations-24834241/does-capital-structure-matter-no?u=76281980&t=120)** Now in the area of [[Corporate Finance]], this is the question, does capital structure impact value?
 >
 > **[2:07](https://www.linkedin.com/learning/finance-foundations-24834241/does-capital-structure-matter-no?u=76281980&t=127)** To talk about this, we need to do a little historical discussion.
 >
@@ -2727,14 +2685,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Corporate Finance]] (1)
+> **Frameworks & Libraries:** [[Corporate Finance]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** in other words (1), defined as (1)
 > **Analogies:** such as (2)
 > **Speakers:** - let (1)
 
-#### Does capital structure matter? Yes?
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/does-capital-structure-matter-yes?u=76281980)
+#### [Does capital structure matter? Yes?](https://www.linkedin.com/learning/finance-foundations-24834241/does-capital-structure-matter-yes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2792,13 +2749,13 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/finance-foundations-24834241/does-capital-structure-matter-yes?u=76281980&t=187)** When the labor union comes to that company and says, "Listen, we want higher wages," this high leverage company can respond, "Well, we'd like to give you higher wages but we can't because we have to make sure that we can make all these interest payments."
 >
-> **[3:22](https://www.linkedin.com/learning/finance-foundations-24834241/does-capital-structure-matter-yes?u=76281980&t=202)** Companies with higher borrowing have been shown to have less employee slack.
+> **[3:22](https://www.linkedin.com/learning/finance-foundations-24834241/does-capital-structure-matter-yes?u=76281980&t=202)** Companies with higher borrowing have been shown to have less employee [[Slack]].
 >
 > **[3:26](https://www.linkedin.com/learning/finance-foundations-24834241/does-capital-structure-matter-yes?u=76281980&t=206)** Things are run more tightly.
 >
 > **[3:28](https://www.linkedin.com/learning/finance-foundations-24834241/does-capital-structure-matter-yes?u=76281980&t=208)** Now, that's maybe not a pleasant situation to be in as an employee, but it does increase the value of the company from the standpoint of the owners.
 >
-> **[3:38](https://www.linkedin.com/learning/finance-foundations-24834241/does-capital-structure-matter-yes?u=76281980&t=218)** But too much leverage increases the probability of bankruptcy.
+> **[3:38](https://www.linkedin.com/learning/finance-foundations-24834241/does-capital-structure-matter-yes?u=76281980&t=218)** But too much leverage increases the [[Probability]] of bankruptcy.
 >
 > **[3:42](https://www.linkedin.com/learning/finance-foundations-24834241/does-capital-structure-matter-yes?u=76281980&t=222)** A company going through bankruptcy proceedings is in a very costly situation in terms of legal fees.
 >
@@ -2814,14 +2771,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (2), [[Slack]] (1), management (1)
+> **Frameworks & Libraries:** [[Probability]] (2), [[Slack]] (1)
 > **CLI Commands:** make (6)
 > **Tools:** slack (1)
 > **Analogies:** for example (1)
 > **Speakers:** - in (1)
 
-#### Does capital structure matter? Factors influencing optimal capital structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/does-capital-structure-matter-factors-influencing-optimal-capital-structure?u=76281980)
+#### [Does capital structure matter? Factors influencing optimal capital structure](https://www.linkedin.com/learning/finance-foundations-24834241/does-capital-structure-matter-factors-influencing-optimal-capital-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2857,7 +2813,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/finance-foundations-24834241/does-capital-structure-matter-factors-influencing-optimal-capital-structure?u=76281980&t=76)** With volatile cash flows, banks are probably going to insist that you borrow relatively less.
 >
-> **[1:22](https://www.linkedin.com/learning/finance-foundations-24834241/does-capital-structure-matter-factors-influencing-optimal-capital-structure?u=76281980&t=82)** Let's look at two examples, two of your favorite companies and mine, Walmart and Google, they have very different capital structures.
+> **[1:22](https://www.linkedin.com/learning/finance-foundations-24834241/does-capital-structure-matter-factors-influencing-optimal-capital-structure?u=76281980&t=82)** Let's look at two examples, two of your favorite companies and mine, Walmart and [[Google]], they have very different capital structures.
 >
 > **[1:32](https://www.linkedin.com/learning/finance-foundations-24834241/does-capital-structure-matter-factors-influencing-optimal-capital-structure?u=76281980&t=92)** If you loan $20 billion to Walmart, what will they probably do with the money?
 >
@@ -2911,13 +2867,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (13), business (4)
+> **Frameworks & Libraries:** [[Google]] (13)
 > **Analogies:** for example (2), imagine (1)
 > **Definitions:** means that (1)
 > **Speakers:** - so (1)
 
-#### Cost of capital: All debt or all equity financing
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/cost-of-capital-all-debt-or-all-equity-financing?u=76281980)
+#### [Cost of capital: All debt or all equity financing](https://www.linkedin.com/learning/finance-foundations-24834241/cost-of-capital-all-debt-or-all-equity-financing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3019,14 +2974,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2)
 > **Definitions:** in other words (2), is a  (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - the (1)
 
-#### Cost of capital: Split debt-equity financing
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/cost-of-capital-split-debt-equity-financing?u=76281980)
+#### [Cost of capital: Split debt-equity financing](https://www.linkedin.com/learning/finance-foundations-24834241/cost-of-capital-split-debt-equity-financing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3132,12 +3085,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - when (1)
 
-#### Weighted-average cost of capital
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/weighted-average-cost-of-capital?u=76281980)
+#### [Weighted-average cost of capital](https://www.linkedin.com/learning/finance-foundations-24834241/weighted-average-cost-of-capital?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3179,11 +3130,11 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/finance-foundations-24834241/weighted-average-cost-of-capital?u=76281980&t=160)** If my cost of capital is just 9%, I can find many more attractive projects than if my cost of capital is 15%.
 >
-> **[2:48](https://www.linkedin.com/learning/finance-foundations-24834241/weighted-average-cost-of-capital?u=76281980&t=168)** The objective of corporate finance and capital structure is to find the capital structure that will provide the lowest weighted average cost of capital, the WACC.
+> **[2:48](https://www.linkedin.com/learning/finance-foundations-24834241/weighted-average-cost-of-capital?u=76281980&t=168)** The objective of [[Corporate Finance]] and capital structure is to find the capital structure that will provide the lowest weighted average cost of capital, the WACC.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), [[Corporate Finance]] (1)
+> **Frameworks & Libraries:** [[Corporate Finance]] (1)
 > **Env Vars:** wacc (11)
 > **Versions:** 10.5 (5), 0.9 (1)
 > **CLI Commands:** find (3)
@@ -3194,8 +3145,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing securities markets
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/introducing-securities-markets?u=76281980)
+#### [Introducing securities markets](https://www.linkedin.com/learning/finance-foundations-24834241/introducing-securities-markets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3255,13 +3205,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2)
 > **Speakers:** - okay (2), - a (1), - [jim] (1), - do (1), - i (1)
 > **Env Vars:** iou (1)
 > **Definitions:** refers to (1)
 
-#### The difference between a stock and a bond
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/the-difference-between-a-stock-and-a-bond?u=76281980)
+#### [The difference between a stock and a bond](https://www.linkedin.com/learning/finance-foundations-24834241/the-difference-between-a-stock-and-a-bond?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3366,8 +3314,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - let (1)
 
-#### Stock markets
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/stock-markets?u=76281980)
+#### [Stock markets](https://www.linkedin.com/learning/finance-foundations-24834241/stock-markets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3446,8 +3393,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Speakers:** - now (1)
 
-#### Bond markets
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/bond-markets?u=76281980)
+#### [Bond markets](https://www.linkedin.com/learning/finance-foundations-24834241/bond-markets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3542,8 +3488,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - there (1)
 
-#### Publicly-traded shares: What impacts the share price?
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/publicly-traded-shares-what-impacts-the-share-price?u=76281980)
+#### [Publicly-traded shares: What impacts the share price?](https://www.linkedin.com/learning/finance-foundations-24834241/publicly-traded-shares-what-impacts-the-share-price?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3633,14 +3578,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Definitions:** is called (2), is a  (2)
 > **Analogies:** for example (3)
 > **Env Vars:** ipo (1)
 > **Speakers:** - so (1)
 
-#### Initial public offering (IPO): Microsoft
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/initial-public-offering-ipo-microsoft?u=76281980)
+#### [Initial public offering (IPO): Microsoft](https://www.linkedin.com/learning/finance-foundations-24834241/initial-public-offering-ipo-microsoft?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3652,7 +3595,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/finance-foundations-24834241/initial-public-offering-ipo-microsoft?u=76281980&t=24)** Let's take a look at an example of a company that went public almost 40 years ago.
 >
-> **[0:28](https://www.linkedin.com/learning/finance-foundations-24834241/initial-public-offering-ipo-microsoft?u=76281980&t=28)** Microsoft went public on March 13th of 1986.
+> **[0:28](https://www.linkedin.com/learning/finance-foundations-24834241/initial-public-offering-ipo-microsoft?u=76281980&t=28)** [[Microsoft]] went public on March 13th of 1986.
 >
 > **[0:33](https://www.linkedin.com/learning/finance-foundations-24834241/initial-public-offering-ipo-microsoft?u=76281980&t=33)** The company had been operating since 1975 as a privately-held company.
 >
@@ -3740,19 +3683,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (9), data (2)
+> **Frameworks & Libraries:** [[Microsoft]] (9)
 > **Versions:** 16.50 (5), 1.10 (3), 27.75 (1)
 > **Env Vars:** ipo (8)
 > **Definitions:** is called (1), in other words (1), is a  (1), is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - when (1)
 
-#### Can you pick stocks in the stock market?
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/can-you-pick-stocks-in-the-stock-market?u=76281980)
+#### [Can you pick stocks in the stock market?](https://www.linkedin.com/learning/finance-foundations-24834241/can-you-pick-stocks-in-the-stock-market?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/finance-foundations-24834241/can-you-pick-stocks-in-the-stock-market?u=76281980&t=0)** - Can we as individual investors use our ability to analyze financial data and economic trends to identify winning and losing stocks?
+> **[0:00](https://www.linkedin.com/learning/finance-foundations-24834241/can-you-pick-stocks-in-the-stock-market?u=76281980&t=0)** - Can we as individual investors use our ability to analyze [[Financial Data]] and economic trends to identify winning and losing stocks?
 >
 > **[0:10](https://www.linkedin.com/learning/finance-foundations-24834241/can-you-pick-stocks-in-the-stock-market?u=76281980&t=10)** No.
 >
@@ -3812,7 +3754,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Financial Data]] (2), data (2)
+> **Frameworks & Libraries:** [[Financial Data]] (2)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -3823,8 +3765,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing financial institutions
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/introducing-financial-institutions?u=76281980)
+#### [Introducing financial institutions](https://www.linkedin.com/learning/finance-foundations-24834241/introducing-financial-institutions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3892,7 +3833,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1)
 > **Speakers:** - well (3), - no (2), - so (2), - and (2), - okay (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), such as (1)
@@ -3900,8 +3840,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Prerequisites:** set up (1)
 
-#### Traditional banks
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/traditional-banks?u=76281980)
+#### [Traditional banks](https://www.linkedin.com/learning/finance-foundations-24834241/traditional-banks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3987,7 +3926,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), data (1), management (1), next (1)
 > **Versions:** 3.3 (2), 2.8 (2), 1.1 (1), 2.2 (1), 1.9 (1)
 > **Env Vars:** bnp (4)
 > **CLI Commands:** make (3)
@@ -3995,8 +3933,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - financial (1)
 
-#### Investment banks
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/investment-banks?u=76281980)
+#### [Investment banks](https://www.linkedin.com/learning/finance-foundations-24834241/investment-banks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4074,7 +4011,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/finance-foundations-24834241/investment-banks?u=76281980&t=228)** The analysts at Credit Suisse can make recommendations about traditional stock and bond investments.
 >
-> **[3:54](https://www.linkedin.com/learning/finance-foundations-24834241/investment-banks?u=76281980&t=234)** Credit Suisse also gives investment advice for real estate, gold, industrial metals, agricultural products, and other commodity investments.
+> **[3:54](https://www.linkedin.com/learning/finance-foundations-24834241/investment-banks?u=76281980&t=234)** Credit Suisse also gives investment advice for real estate, gold, industrial metals, agricultural [[Microsoft Products|products]], and other commodity investments.
 >
 > **[4:04](https://www.linkedin.com/learning/finance-foundations-24834241/investment-banks?u=76281980&t=244)** Or Credit Suisse can help you invest in non-public companies, often called a private equity fund, or do some mathematical reduction in your overall risk through hedge fund investing, or even through helping you act as an insurance company for the risks faced by other companies.
 >
@@ -4091,8 +4028,7 @@ created: 2026-05-02
 > **Env Vars:** ipo (1)
 > **Speakers:** - an (1)
 
-#### Investment funds: Index funds
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/investment-funds-index-funds?u=76281980)
+#### [Investment funds: Index funds](https://www.linkedin.com/learning/finance-foundations-24834241/investment-funds-index-funds?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4166,15 +4102,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1)
 > **Definitions:** is called (1), stands for (1), is a  (1)
 > **CLI Commands:** find (1)
 > **Versions:** 0.04 (1)
 > **Analogies:** for example (1)
 > **Speakers:** - a (1)
 
-#### Investment funds: Managed funds, private-equity funds, and hedge funds
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/investment-funds-managed-funds-private-equity-funds-and-hedge-funds?u=76281980)
+#### [Investment funds: Managed funds, private-equity funds, and hedge funds](https://www.linkedin.com/learning/finance-foundations-24834241/investment-funds-managed-funds-private-equity-funds-and-hedge-funds?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4256,15 +4190,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (3), express (1)
 > **Versions:** 9.3 (1), 10.2 (1), 19.8 (1)
 > **Env Vars:** amu (1), ceo (1)
 > **Analogies:** such as (1), for example (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Insurance companies
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/insurance-companies?u=76281980)
+#### [Insurance companies](https://www.linkedin.com/learning/finance-foundations-24834241/insurance-companies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4308,7 +4240,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/finance-foundations-24834241/insurance-companies?u=76281980&t=95)** Doctors pay insurance companies to help them with medical malpractice.
 >
-> **[1:40](https://www.linkedin.com/learning/finance-foundations-24834241/insurance-companies?u=76281980&t=100)** Other companies buy business interruption insurance in case some outside event hinders or stops their business operations.
+> **[1:40](https://www.linkedin.com/learning/finance-foundations-24834241/insurance-companies?u=76281980&t=100)** Other companies buy business interruption insurance in case some outside event hinders or stops their [[Business Operations]].
 >
 > **[1:48](https://www.linkedin.com/learning/finance-foundations-24834241/insurance-companies?u=76281980&t=108)** Companies that ensure businesses include Zurich Insurance, Travelers Insurance, and AIG.
 >
@@ -4350,7 +4282,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4)
+> **Frameworks & Libraries:** [[Business Operations]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** such as (2)
 > **Env Vars:** aig (1)
@@ -4361,8 +4293,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing capital budgeting
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/introducing-capital-budgeting?u=76281980)
+#### [Introducing capital budgeting](https://www.linkedin.com/learning/finance-foundations-24834241/introducing-capital-budgeting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4452,17 +4383,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1)
 > **Speakers:** - well (5), - okay (2), - yeah (2), - i (1), - money (1)
 
-#### Capital budgeting overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/capital-budgeting-overview?u=76281980)
+#### [Capital budgeting overview](https://www.linkedin.com/learning/finance-foundations-24834241/capital-budgeting-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/finance-foundations-24834241/capital-budgeting-overview?u=76281980&t=0)** - Capital budgeting is making long-term asset purchase decisions.
 >
-> **[0:06](https://www.linkedin.com/learning/finance-foundations-24834241/capital-budgeting-overview?u=76281980&t=6)** Capital, that's the word we use to refer to the financing obtained by a business in order to buy these long-term assets.
+> **[0:06](https://www.linkedin.com/learning/finance-foundations-24834241/capital-budgeting-overview?u=76281980&t=6)** Capital, that's the [[Microsoft Word|word]] we use to refer to the financing obtained by a business in order to buy these long-term assets.
 >
 > **[0:13](https://www.linkedin.com/learning/finance-foundations-24834241/capital-budgeting-overview?u=76281980&t=13)** Budgeting.
 >
@@ -4554,14 +4483,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - capital (1)
 
-#### The importance of the time value of money
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/the-importance-of-the-time-value-of-money?u=76281980)
+#### [The importance of the time value of money](https://www.linkedin.com/learning/finance-foundations-24834241/the-importance-of-the-time-value-of-money?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4613,7 +4541,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/finance-foundations-24834241/the-importance-of-the-time-value-of-money?u=76281980&t=142)** If we're going to receive a hundred thousand dollars one year from now, how much is that worth today?
 >
-> **[2:27](https://www.linkedin.com/learning/finance-foundations-24834241/the-importance-of-the-time-value-of-money?u=76281980&t=147)** Well, we can figure out using a business calculator or an Excel spreadsheet that a hundred thousand dollars to be received a year from now is the equivalent of receiving $90,910 today.
+> **[2:27](https://www.linkedin.com/learning/finance-foundations-24834241/the-importance-of-the-time-value-of-money?u=76281980&t=147)** Well, we can figure out using a business calculator or an [[Microsoft Excel|Excel]] spreadsheet that a hundred thousand dollars to be received a year from now is the equivalent of receiving $90,910 today.
 >
 > **[2:42](https://www.linkedin.com/learning/finance-foundations-24834241/the-importance-of-the-time-value-of-money?u=76281980&t=162)** Another way to think of this is that if I invest, $90,910 today at 10% a year from now, that amount will have grown to a hundred thousand dollars.
 >
@@ -4627,15 +4555,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), business (2), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **Definitions:** in other words (1), is called (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - let (1)
 
-#### Example: Buying a car in Hong Kong
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/example-buying-a-car-in-hong-kong?u=76281980)
+#### [Example: Buying a car in Hong Kong](https://www.linkedin.com/learning/finance-foundations-24834241/example-buying-a-car-in-hong-kong?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4683,7 +4610,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/finance-foundations-24834241/example-buying-a-car-in-hong-kong?u=76281980&t=107)** If the interest rate is 10%, the present value of saving $10,000 each year for five years is $37,908.
 >
-> **[1:57](https://www.linkedin.com/learning/finance-foundations-24834241/example-buying-a-car-in-hong-kong?u=76281980&t=117)** This number can be computed using a business calculator or an Excel spreadsheet.
+> **[1:57](https://www.linkedin.com/learning/finance-foundations-24834241/example-buying-a-car-in-hong-kong?u=76281980&t=117)** This number can be computed using a business calculator or an [[Microsoft Excel|Excel]] spreadsheet.
 >
 > **[2:03](https://www.linkedin.com/learning/finance-foundations-24834241/example-buying-a-car-in-hong-kong?u=76281980&t=123)** Well, computationally, this is a pretty easy decision to make.
 >
@@ -4731,7 +4658,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), business (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Definitions:** is a  (3), is called (2), in other words (1)
 > **Env Vars:** npv (3)
 > **CLI Commands:** make (1)
@@ -4742,28 +4669,27 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is fintech?
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/what-is-fintech?u=76281980)
+#### [What is fintech?](https://www.linkedin.com/learning/finance-foundations-24834241/what-is-fintech?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/finance-foundations-24834241/what-is-fintech?u=76281980&t=0)** - [Instructor 1] FinTech is the use of technology in the field of finance.
 >
-> **[0:04](https://www.linkedin.com/learning/finance-foundations-24834241/what-is-fintech?u=76281980&t=4)** One example of FinTech is the use of banking apps on smartphones, rather than physically visiting a bank.
+> **[0:04](https://www.linkedin.com/learning/finance-foundations-24834241/what-is-fintech?u=76281980&t=4)** One example of FinTech is the use of [[Banking]] apps on smartphones, rather than physically visiting a bank.
 >
-> **[0:10](https://www.linkedin.com/learning/finance-foundations-24834241/what-is-fintech?u=76281980&t=10)** - FinTech also involves financial data being collected and transmitted automatically through sensors connected to the internet.
+> **[0:10](https://www.linkedin.com/learning/finance-foundations-24834241/what-is-fintech?u=76281980&t=10)** - FinTech also involves [[Financial Data]] being collected and transmitted automatically through sensors connected to the internet.
 >
 > **[0:18](https://www.linkedin.com/learning/finance-foundations-24834241/what-is-fintech?u=76281980&t=18)** For example, a sensor in the factory of a loan customer can be used to monitor production quantity.
 >
 > **[0:24](https://www.linkedin.com/learning/finance-foundations-24834241/what-is-fintech?u=76281980&t=24)** - Another example, sensors confirming vehicle usage detail for auto insurance purposes, or grain quality in storage silos, webcams monitoring foot traffic in a retail shopping mall to help determine rental rates.
 >
-> **[0:38](https://www.linkedin.com/learning/finance-foundations-24834241/what-is-fintech?u=76281980&t=38)** - FinTech is artificial intelligence programs exploring vast quantities of big data to detect patterns, make forecast, and design financial products specifically tailored to the needs of an individual customer.
+> **[0:38](https://www.linkedin.com/learning/finance-foundations-24834241/what-is-fintech?u=76281980&t=38)** - FinTech is [[Artificial Intelligence (AI)|artificial intelligence]] programs exploring vast quantities of [[Big Data]] to detect patterns, make forecast, and design financial [[Microsoft Products|products]] specifically tailored to the needs of an individual customer.
 >
 > **[0:52](https://www.linkedin.com/learning/finance-foundations-24834241/what-is-fintech?u=76281980&t=52)** - [Instructor 1] FinTech is online markets matching investors with companies that want to borrow money or companies that are seeking additional funds from new owners.
 >
-> **[1:00](https://www.linkedin.com/learning/finance-foundations-24834241/what-is-fintech?u=76281980&t=60)** - FinTech is blockchain technology replacing the centralized databases of big financial institutions and storing cryptographically secure data on many computers in a network.
+> **[1:00](https://www.linkedin.com/learning/finance-foundations-24834241/what-is-fintech?u=76281980&t=60)** - FinTech is [[Blockchain]] technology replacing the centralized [[Databases]] of big financial institutions and storing cryptographically secure data on many computers in a network.
 >
-> **[1:14](https://www.linkedin.com/learning/finance-foundations-24834241/what-is-fintech?u=76281980&t=74)** - And speaking of cryptography, the highest profile example of FinTech is cryptocurrency, an electronic currency that's not controlled by any centralized bank or government.
+> **[1:14](https://www.linkedin.com/learning/finance-foundations-24834241/what-is-fintech?u=76281980&t=74)** - And speaking of [[Cryptography]], the highest profile example of FinTech is [[Cryptocurrency]], an electronic currency that's not controlled by any centralized bank or government.
 >
 > **[1:24](https://www.linkedin.com/learning/finance-foundations-24834241/what-is-fintech?u=76281980&t=84)** - [Instructor 2] With many people spending lots of time isolated in their homes during the COVID pandemic, the growth of FinTech was accelerated in 2020.
 >
@@ -4831,18 +4757,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cryptocurrency]] (5), [[Banking]] (2), [[Blockchain]] (2), [[Financial Data]] (1), traffic (1)
+> **Frameworks & Libraries:** [[Cryptocurrency]] (5), [[Banking]] (2), [[Blockchain]] (2), [[Financial Data]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Speakers:** - fintech (4), - [instructor (3), - well (3), - and (2), - yeah (2)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** for example (2)
 > **Env Vars:** covid (1)
 
-#### Blockchain: Introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/blockchain-introduction?u=76281980)
+#### [Blockchain: Introduction](https://www.linkedin.com/learning/finance-foundations-24834241/blockchain-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/finance-foundations-24834241/blockchain-introduction?u=76281980&t=0)** - [Instructor] A blockchain is a distributed data storage system in which data are stored simultaneously on many network computers in time-stamped groups, or blocks, that are linked, or chained, to previously-stored blocks of data.
+> **[0:00](https://www.linkedin.com/learning/finance-foundations-24834241/blockchain-introduction?u=76281980&t=0)** - [Instructor] A [[Blockchain]] is a distributed [[Data Storage]] system in which data are stored simultaneously on many network computers in time-stamped groups, or blocks, that are linked, or chained, to previously-stored blocks of data.
 >
 > **[0:19](https://www.linkedin.com/learning/finance-foundations-24834241/blockchain-introduction?u=76281980&t=19)** Imagine a network of five people who pay money to and collect money from one another on a regular basis.
 >
@@ -4878,7 +4803,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/finance-foundations-24834241/blockchain-introduction?u=76281980&t=181)** That is a lot of work.
 >
-> **[3:03](https://www.linkedin.com/learning/finance-foundations-24834241/blockchain-introduction?u=76281980&t=183)** This is how data security is maintained in a blockchain system.
+> **[3:03](https://www.linkedin.com/learning/finance-foundations-24834241/blockchain-introduction?u=76281980&t=183)** This is how [[Data Security]] is maintained in a blockchain system.
 >
 > **[3:07](https://www.linkedin.com/learning/finance-foundations-24834241/blockchain-introduction?u=76281980&t=187)** Let's consider how a blockchain system is different from a traditional bank account information system.
 >
@@ -4894,7 +4819,7 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/finance-foundations-24834241/blockchain-introduction?u=76281980&t=240)** In the United States, for example, large banks have traditionally proved to be reliable in maintaining accurate financial records for depositors, borrowers, and the transactions with each.
 >
-> **[4:12](https://www.linkedin.com/learning/finance-foundations-24834241/blockchain-introduction?u=76281980&t=252)** So continued use of centralized databases by large, trustworthy banks probably makes sense.
+> **[4:12](https://www.linkedin.com/learning/finance-foundations-24834241/blockchain-introduction?u=76281980&t=252)** So continued use of centralized [[Databases]] by large, trustworthy banks probably makes sense.
 >
 > **[4:19](https://www.linkedin.com/learning/finance-foundations-24834241/blockchain-introduction?u=76281980&t=259)** But in a developing economy or in an economy where there has just been a major financial meltdown, a blockchain system makes more sense because responsibility for maintaining the database is shared among the network of users.
 >
@@ -4904,17 +4829,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[Blockchain]] (12), [[Security]] (3), database (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Blockchain]] (12), [[Data Security]] (3), [[Data Storage]] (2), [[Databases]] (1)
 > **Analogies:** such as (2), imagine (1), for example (1)
 > **Definitions:** is a  (3)
 > **Speakers:** - [instructor] (1)
 
-#### Cryptocurrency
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/cryptocurrency?u=76281980)
+#### [Cryptocurrency](https://www.linkedin.com/learning/finance-foundations-24834241/cryptocurrency?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/finance-foundations-24834241/cryptocurrency?u=76281980&t=0)** - So, what exactly is cryptocurrency?
+> **[0:00](https://www.linkedin.com/learning/finance-foundations-24834241/cryptocurrency?u=76281980&t=0)** - So, what exactly is [[Cryptocurrency]]?
 >
 > **[0:04](https://www.linkedin.com/learning/finance-foundations-24834241/cryptocurrency?u=76281980&t=4)** I'm sure you've heard of it.
 >
@@ -4924,7 +4848,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/finance-foundations-24834241/cryptocurrency?u=76281980&t=14)** Well, let's see if we can take away some of the mystery.
 >
-> **[0:17](https://www.linkedin.com/learning/finance-foundations-24834241/cryptocurrency?u=76281980&t=17)** Cryptocurrency is a decentralized electronic currency whose existence and ownership are documented through cryptographically secured data in a blockchain.
+> **[0:17](https://www.linkedin.com/learning/finance-foundations-24834241/cryptocurrency?u=76281980&t=17)** Cryptocurrency is a decentralized electronic currency whose existence and ownership are documented through cryptographically secured data in a [[Blockchain]].
 >
 > **[0:29](https://www.linkedin.com/learning/finance-foundations-24834241/cryptocurrency?u=76281980&t=29)** Now, here are three necessary characteristics of a reliable currency.
 >
@@ -4940,7 +4864,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/finance-foundations-24834241/cryptocurrency?u=76281980&t=61)** The world is not going to be suddenly flooded with extra gold.
 >
-> **[1:05](https://www.linkedin.com/learning/finance-foundations-24834241/cryptocurrency?u=76281980&t=65)** Now, with $100 bills and all other forms of US money, the supply is limited by the policies of the US Central Bank, the Federal Reserve.
+> **[1:05](https://www.linkedin.com/learning/finance-foundations-24834241/cryptocurrency?u=76281980&t=65)** Now, with $100 bills and all other [[Forms]] of US money, the supply is limited by the policies of the US Central Bank, the Federal Reserve.
 >
 > **[1:14](https://www.linkedin.com/learning/finance-foundations-24834241/cryptocurrency?u=76281980&t=74)** If we trust the Federal Reserve to set good policies, then US currency is a reliable currency.
 >
@@ -5014,7 +4938,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (6), [[Cryptocurrency]] (5), next (3), data (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Blockchain]] (6), [[Cryptocurrency]] (5), [[Forms]] (1)
 > **Cross-References:** we discussed (1), previous video (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -5023,8 +4947,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - so (1)
 
-#### Alternative financing
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/alternative-financing?u=76281980)
+#### [Alternative financing](https://www.linkedin.com/learning/finance-foundations-24834241/alternative-financing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5110,7 +5033,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (11), data (1), next (1), product (1)
 > **Versions:** 1.2 (3), 1.7 (1)
 > **Analogies:** such as (3), for example (1)
 > **CLI Commands:** make (2)
@@ -5124,8 +5046,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing personal financing planning
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/introducing-personal-financing-planning?u=76281980)
+#### [Introducing personal financing planning](https://www.linkedin.com/learning/finance-foundations-24834241/introducing-personal-financing-planning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5189,7 +5110,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/finance-foundations-24834241/introducing-personal-financing-planning?u=76281980&t=112)** In fact, if a financial plan seems too good to be true, then it probably is too good to be true.
 >
-> **[1:58](https://www.linkedin.com/learning/finance-foundations-24834241/introducing-personal-financing-planning?u=76281980&t=118)** - Real financial planning is simple.
+> **[1:58](https://www.linkedin.com/learning/finance-foundations-24834241/introducing-personal-financing-planning?u=76281980&t=118)** - Real [[Financial Planning]] is simple.
 >
 > **[2:01](https://www.linkedin.com/learning/finance-foundations-24834241/introducing-personal-financing-planning?u=76281980&t=121)** In fact, the backbone of personal financial planning is this simple commitment.
 >
@@ -5199,12 +5120,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Financial Planning]] (3), traffic (1)
+> **Frameworks & Libraries:** [[Financial Planning]] (3)
 > **Speakers:** - well (3), - all (2), - so (2), - yes (1), - okay (1)
 > **CLI Commands:** make (2)
 
-#### The secret to financial security
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/the-secret-to-financial-security?u=76281980)
+#### [The secret to financial security](https://www.linkedin.com/learning/finance-foundations-24834241/the-secret-to-financial-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5300,20 +5220,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), next (1)
 > **CLI Commands:** make (6)
 > **Cross-References:** go back to (1), in the next (1)
 > **Env Vars:** covid (1)
 > **Speakers:** - okay (1)
 
-#### The importance of personal budgeting
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/the-importance-of-personal-budgeting?u=76281980)
+#### [The importance of personal budgeting](https://www.linkedin.com/learning/finance-foundations-24834241/the-importance-of-personal-budgeting?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/finance-foundations-24834241/the-importance-of-personal-budgeting?u=76281980&t=0)** - Now, let's be honest.
 >
-> **[0:02](https://www.linkedin.com/learning/finance-foundations-24834241/the-importance-of-personal-budgeting?u=76281980&t=2)** Budget is not a fun word.
+> **[0:02](https://www.linkedin.com/learning/finance-foundations-24834241/the-importance-of-personal-budgeting?u=76281980&t=2)** Budget is not a fun [[Microsoft Word|word]].
 >
 > **[0:05](https://www.linkedin.com/learning/finance-foundations-24834241/the-importance-of-personal-budgeting?u=76281980&t=5)** Imagine giving the average person the choice of one of the following, go to the dentist for a root canal, give a speech in front of a thousand people, prepare a personal budget.
 >
@@ -5405,7 +5323,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Microsoft Word|Word]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Cross-References:** in the next (1), go back to (1)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1), such as (1)
@@ -5413,8 +5331,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - now (1)
 
-#### Simple savings and investment plans
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/simple-savings-and-investment-plans?u=76281980)
+#### [Simple savings and investment plans](https://www.linkedin.com/learning/finance-foundations-24834241/simple-savings-and-investment-plans?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5484,7 +5401,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), product (1)
 > **Analogies:** such as (2)
 > **URLs:** [daveramsey.com](https://daveramsey.com) (1)
 > **Speakers:** - let (1)
@@ -5494,8 +5410,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Reviewing corporate finance
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/reviewing-corporate-finance?u=76281980)
+#### [Reviewing corporate finance](https://www.linkedin.com/learning/finance-foundations-24834241/reviewing-corporate-finance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5505,7 +5420,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/finance-foundations-24834241/reviewing-corporate-finance?u=76281980&t=9)** - [Instructor] Finance is deciding what you should buy, how you should get the money to buy it, and how you should manage it once you have it.
 >
-> **[0:16](https://www.linkedin.com/learning/finance-foundations-24834241/reviewing-corporate-finance?u=76281980&t=16)** Then we talked about the financial statements, the balance sheet, the income statement, and the statement of cash flows.
+> **[0:16](https://www.linkedin.com/learning/finance-foundations-24834241/reviewing-corporate-finance?u=76281980&t=16)** Then we talked about the [[Financial Statements]], the balance sheet, the income statement, and the statement of cash flows.
 >
 > **[0:22](https://www.linkedin.com/learning/finance-foundations-24834241/reviewing-corporate-finance?u=76281980&t=22)** - We discussed short-term financial management, which is monitoring and controlling the cash flows in and out of a business, monitoring the receivables, the inventory, and the payables.
 >
@@ -5521,7 +5436,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/finance-foundations-24834241/reviewing-corporate-finance?u=76281980&t=57)** - Then we talked about capital budgeting and the importance of considering the time value of money.
 >
-> **[1:03](https://www.linkedin.com/learning/finance-foundations-24834241/reviewing-corporate-finance?u=76281980&t=63)** - And we ended with a short discussion of personal financial planning, which is really quite simple.
+> **[1:03](https://www.linkedin.com/learning/finance-foundations-24834241/reviewing-corporate-finance?u=76281980&t=63)** - And we ended with a short discussion of personal [[Financial Planning]], which is really quite simple.
 >
 > **[1:09](https://www.linkedin.com/learning/finance-foundations-24834241/reviewing-corporate-finance?u=76281980&t=69)** We boiled our thoughts down into two simple things.
 >
@@ -5533,15 +5448,15 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/finance-foundations-24834241/reviewing-corporate-finance?u=76281980&t=80)** I've heard a little bit here, but I want to know more.
 >
-> **[1:23](https://www.linkedin.com/learning/finance-foundations-24834241/reviewing-corporate-finance?u=76281980&t=83)** - And fortunately, we've prepared many additional finance related courses that are available here in the LinkedIn Learning Library.
+> **[1:23](https://www.linkedin.com/learning/finance-foundations-24834241/reviewing-corporate-finance?u=76281980&t=83)** - And fortunately, we've prepared many additional finance related courses that are available here in the [[LinkedIn]] Learning Library.
 >
-> **[1:31](https://www.linkedin.com/learning/finance-foundations-24834241/reviewing-corporate-finance?u=76281980&t=91)** - Courses like financial statement analysis, treasury management, business valuation, global finance and accounting issues, environmental, social and governance, or ESG and corporate governance to name a few.
+> **[1:31](https://www.linkedin.com/learning/finance-foundations-24834241/reviewing-corporate-finance?u=76281980&t=91)** - Courses like [[Financial Statement Analysis]], treasury management, business valuation, global finance and accounting issues, environmental, social and governance, or ESG and corporate governance to name a few.
 >
 > **[1:46](https://www.linkedin.com/learning/finance-foundations-24834241/reviewing-corporate-finance?u=76281980&t=106)** So enjoy, best wishes to you.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), business (2), [[Financial Statements]] (1), [[Financial Planning]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (1), [[Financial Planning]] (1), [[LinkedIn]] (1), [[Financial Statement Analysis]] (1)
 > **Speakers:** - we (3), - then (3), - and (2), - let (1), - the (1)
 > **Cross-References:** we talked about (5), we discussed (1)
 > **CLI Commands:** make (1)

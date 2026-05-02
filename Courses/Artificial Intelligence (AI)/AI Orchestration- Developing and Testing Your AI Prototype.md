@@ -82,12 +82,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Developing an AI prototype
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/developing-an-ai-prototype?u=76281980)
+#### [Developing an AI prototype](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/developing-an-ai-prototype?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/developing-an-ai-prototype?u=76281980&t=0)** - [Nayan] Artificial intelligence is transforming industries at an unprecedented pace, but taking an AI idea from concept to a functional prototype can feel overwhelming.
+> **[0:00](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/developing-an-ai-prototype?u=76281980&t=0)** - [Nayan] [[Artificial Intelligence (AI)|Artificial intelligence]] is transforming industries at an unprecedented pace, but taking an AI idea from concept to a functional prototype can feel overwhelming.
 >
 > **[0:10](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/developing-an-ai-prototype?u=76281980&t=10)** How do you choose the right tools, build a model, and test it for real-world performance?
 >
@@ -97,38 +96,37 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/developing-an-ai-prototype?u=76281980&t=27)** Whether you're building a simple sentiment analysis tool or a more complex LLM-based model, this course will give you the skills you need to bring your AI ideas to life.
 >
-> **[0:39](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/developing-an-ai-prototype?u=76281980&t=39)** Hi, I'm Nayan Saxena, a deep learning expert, and in this course, we'll walk through the end-to-end process of building an AI prototype, from selecting the right frameworks, to training, debugging, and testing your models, so let's dive right in.
+> **[0:39](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/developing-an-ai-prototype?u=76281980&t=39)** Hi, I'm Nayan Saxena, a [[Deep Learning]] expert, and in this course, we'll walk through the end-to-end process of building an AI prototype, from selecting the right frameworks, to training, debugging, and testing your models, so let's dive right in.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), functional (1), llm (1), [[Deep Learning]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Deep Learning]] (1)
 > **Env Vars:** llm (1)
 > **Speakers:** - [nayan] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/what-you-should-know?u=76281980&t=0)** - [Instructor] Before we dive into the course, it's important to take a look at what you need to know as prerequisites to understand the course better.
 >
-> **[0:07](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/what-you-should-know?u=76281980&t=7)** What's required is that you have some comfort with the Python programming language, especially for data manipulation and algorithms.
+> **[0:07](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/what-you-should-know?u=76281980&t=7)** What's required is that you have some comfort with the [[Python (Programming Language)|Python]] programming language, especially for [[Data Manipulation]] and [[Algorithms]].
 >
 > **[0:15](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/what-you-should-know?u=76281980&t=15)** It's also important that you know how to work with Jupyter Notebooks, as we'll be using some of the Jupyter Notebook functionalities to write our AI MVPs.
 >
-> **[0:25](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/what-you-should-know?u=76281980&t=25)** It's also important that you have basic machine learning knowledge, familiarity with key concepts like neural networks, loss functions, and gradient descent.
+> **[0:25](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/what-you-should-know?u=76281980&t=25)** It's also important that you have basic machine learning knowledge, familiarity with key concepts like [[Neural Networks]], loss functions, and gradient descent.
 >
-> **[0:33](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/what-you-should-know?u=76281980&t=33)** And finally, if you have some knowledge of large language models, including their structure, capabilities, and applications, that would be useful as well.
+> **[0:33](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/what-you-should-know?u=76281980&t=33)** And finally, if you have some knowledge of [[Large Language Models (LLM)|large language models]], including their structure, capabilities, and applications, that would be useful as well.
 >
 > **[0:42](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/what-you-should-know?u=76281980&t=42)** Now let's take a look at how you can set up your environment for the course.
 >
-> **[0:48](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/what-you-should-know?u=76281980&t=48)** First, head on over to the course GitHub page where you will see an MVP Transformer For TextJupyter Notebook.
+> **[0:48](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/what-you-should-know?u=76281980&t=48)** First, head on over to the course [[GitHub]] page where you will see an MVP Transformer For TextJupyter Notebook.
 >
 > **[0:57](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/what-you-should-know?u=76281980&t=57)** Click on this, and on the top right corner, you'll see a download button.
 >
 > **[1:02](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/what-you-should-know?u=76281980&t=62)** Press that and download the file.
 >
-> **[1:06](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/what-you-should-know?u=76281980&t=66)** Once the file is downloaded, what you can do is head on over to Google Colab, click on File, Upload notebook, and then choose the Download file.
+> **[1:06](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/what-you-should-know?u=76281980&t=66)** Once the file is downloaded, what you can do is head on over to [[Google]] Colab, click on File, Upload notebook, and then choose the Download file.
 >
 > **[1:17](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/what-you-should-know?u=76281980&t=77)** And there you go.
 >
@@ -136,7 +134,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (2), [[Python (Programming Language)|Python]] (1), [[Programming]] (1), [[Data Manipulation]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Python (Programming Language)|Python]] (1), [[Data Manipulation]] (1), [[Algorithms]] (1), [[Neural Networks]] (1)
 > **Tools:** jupyter (2), colab (2), github (1)
 > **UI Navigation:** click on (2)
 > **CLI Commands:** python (1)
@@ -150,8 +148,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is an AI MVP?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/what-is-an-ai-mvp?u=76281980)
+#### [What is an AI MVP?](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/what-is-an-ai-mvp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -219,7 +216,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/what-is-an-ai-mvp?u=76281980&t=158)** Choose a simple model.
 >
-> **[2:39](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/what-is-an-ai-mvp?u=76281980&t=159)** For instance, if we're building an AI MVP for text classification, I might start with logistic regression instead of a full transformer model, like GPT-4.
+> **[2:39](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/what-is-an-ai-mvp?u=76281980&t=159)** For instance, if we're building an AI MVP for text classification, I might start with [[Logistic Regression]] instead of a full transformer model, like [[GPT-4]].
 >
 > **[2:49](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/what-is-an-ai-mvp?u=76281980&t=169)** And finally, we train the AI MVP.
 >
@@ -239,7 +236,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/what-is-an-ai-mvp?u=76281980&t=215)** So let's take a look at some real-world AI MVP examples.
 >
-> **[3:39](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/what-is-an-ai-mvp?u=76281980&t=219)** First, we have Google Duplex.
+> **[3:39](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/what-is-an-ai-mvp?u=76281980&t=219)** First, we have [[Google]] Duplex.
 >
 > **[3:41](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/what-is-an-ai-mvp?u=76281980&t=221)** This is quite interesting because when it was first introduced, it was not a full-fledged AI assistant.
 >
@@ -255,13 +252,13 @@ created: 2026-05-02
 >
 > **[4:13](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/what-is-an-ai-mvp?u=76281980&t=253)** Over time, more features were added based on real-world data and feedback.
 >
-> **[4:18](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/what-is-an-ai-mvp?u=76281980&t=258)** And finally, we have ChatGPT.
+> **[4:18](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/what-is-an-ai-mvp?u=76281980&t=258)** And finally, we have [[ChatGPT]].
 >
 > **[4:21](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/what-is-an-ai-mvp?u=76281980&t=261)** The earliest models were simple chatbots with limited context awareness.
 >
 > **[4:25](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/what-is-an-ai-mvp?u=76281980&t=265)** It wasn't until OpenAI iterated on feedback and improved model architectures that it became the highly capable assistant we know today.
 >
-> **[4:33](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/what-is-an-ai-mvp?u=76281980&t=273)** These examples show that successful AI products start small with an MVP and improve over time through iteration and learning.
+> **[4:33](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/what-is-an-ai-mvp?u=76281980&t=273)** These examples show that successful AI [[Microsoft Products|products]] start small with an MVP and improve over time through iteration and learning.
 >
 > **[4:43](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/what-is-an-ai-mvp?u=76281980&t=283)** So a strong AI MVP has to be focused, lightweight, and designed for rapid iteration and learning.
 >
@@ -269,19 +266,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (25), data (8), [[Google]] (4), next (2), chatbot (2)
+> **Frameworks & Libraries:** [[Google]] (4), [[Logistic Regression]] (1), [[GPT-4]] (1), [[ChatGPT]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** mvp (14), api (1), gpt (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Choosing tools and frameworks for AI prototyping
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/choosing-tools-and-frameworks-for-ai-prototyping?u=76281980)
+#### [Choosing tools and frameworks for AI prototyping](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/choosing-tools-and-frameworks-for-ai-prototyping?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/choosing-tools-and-frameworks-for-ai-prototyping?u=76281980&t=0)** - [Instructor] How do we select the right AI framework, API, or development tool for rapid prototyping?
+> **[0:00](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/choosing-tools-and-frameworks-for-ai-prototyping?u=76281980&t=0)** - [Instructor] How do we select the right AI framework, API, or development tool for rapid [[Prototyping]]?
 >
 > **[0:06](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/choosing-tools-and-frameworks-for-ai-prototyping?u=76281980&t=6)** Let's try to understand this concept in more detail.
 >
@@ -301,7 +297,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/choosing-tools-and-frameworks-for-ai-prototyping?u=76281980&t=47)** How fast can you build the prototype and test it?
 >
-> **[0:50](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/choosing-tools-and-frameworks-for-ai-prototyping?u=76281980&t=50)** Scalability, which is, will the tool be able to handle real world demands.
+> **[0:50](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/choosing-tools-and-frameworks-for-ai-prototyping?u=76281980&t=50)** [[Scalability]], which is, will the tool be able to handle real world demands.
 >
 > **[0:57](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/choosing-tools-and-frameworks-for-ai-prototyping?u=76281980&t=57)** Cost.
 >
@@ -313,21 +309,21 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/choosing-tools-and-frameworks-for-ai-prototyping?u=76281980&t=72)** There are three major AI prototyping approaches that can help us here.
 >
-> **[1:17](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/choosing-tools-and-frameworks-for-ai-prototyping?u=76281980&t=77)** First, traditional AI frameworks.
+> **[1:17](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/choosing-tools-and-frameworks-for-ai-prototyping?u=76281980&t=77)** First, [[Traditional AI]] frameworks.
 >
-> **[1:20](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/choosing-tools-and-frameworks-for-ai-prototyping?u=76281980&t=80)** If you need full control over your model architecture, frameworks like TensorFlow, PyTorch, and JAX, let you build from scratch.
+> **[1:20](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/choosing-tools-and-frameworks-for-ai-prototyping?u=76281980&t=80)** If you need full control over your model architecture, frameworks like [[TensorFlow]], [[PyTorch]], and JAX, let you build from scratch.
 >
-> **[1:30](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/choosing-tools-and-frameworks-for-ai-prototyping?u=76281980&t=90)** However, this requires data collection, model training, and access to compute resources.
+> **[1:30](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/choosing-tools-and-frameworks-for-ai-prototyping?u=76281980&t=90)** However, this requires [[Data Collection]], model training, and access to compute resources.
 >
 > **[1:38](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/choosing-tools-and-frameworks-for-ai-prototyping?u=76281980&t=98)** Then we have API based AI services.
 >
-> **[1:42](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/choosing-tools-and-frameworks-for-ai-prototyping?u=76281980&t=102)** If you need fast results, using pre-trained models from OpenAI, Anthropic, AWS Bedrock, Azure AI, or Google Vertex AI, you can use these services that provide AI without training from scratch.
+> **[1:42](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/choosing-tools-and-frameworks-for-ai-prototyping?u=76281980&t=102)** If you need fast results, using pre-trained models from OpenAI, Anthropic, AWS Bedrock, [[Microsoft Azure|Azure]] AI, or [[Google]] [[Vertex]] AI, you can use these services that provide AI without training from scratch.
 >
 > **[1:59](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/choosing-tools-and-frameworks-for-ai-prototyping?u=76281980&t=119)** You simply need to request to an API and the AI generates a response.
 >
 > **[2:04](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/choosing-tools-and-frameworks-for-ai-prototyping?u=76281980&t=124)** And finally, we have cloud AI platforms.
 >
-> **[2:08](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/choosing-tools-and-frameworks-for-ai-prototyping?u=76281980&t=128)** If you need to fine tune models or deploy large scale applications, SageMaker, Vertex AI, Azure, ML, and Hugging Face, allow you to train, fine tune, and then deploy the AI at scale.
+> **[2:08](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/choosing-tools-and-frameworks-for-ai-prototyping?u=76281980&t=128)** If you need to fine tune models or deploy large scale applications, SageMaker, Vertex AI, Azure, ML, and [[Hugging Face]], allow you to train, fine tune, and then deploy the AI at scale.
 >
 > **[2:22](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/choosing-tools-and-frameworks-for-ai-prototyping?u=76281980&t=142)** Each of these tools have their own pros and cons, and I encourage you to evaluate them depending on the problem you're trying to solve.
 >
@@ -337,11 +333,11 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/choosing-tools-and-frameworks-for-ai-prototyping?u=76281980&t=167)** These provide flexibility, but require domain expertise.
 >
-> **[2:52](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/choosing-tools-and-frameworks-for-ai-prototyping?u=76281980&t=172)** If you want plug-and-play AI services, you can use APIs like OpenAI's GPT, Anthropic Claude, AWS Bedrock, or Azure AI.
+> **[2:52](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/choosing-tools-and-frameworks-for-ai-prototyping?u=76281980&t=172)** If you want plug-and-play AI services, you can use APIs like OpenAI's GPT, [[Anthropic Claude]], AWS Bedrock, or Azure AI.
 >
 > **[3:02](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/choosing-tools-and-frameworks-for-ai-prototyping?u=76281980&t=182)** These services let you send a simple request to a powerful AI model without needing to train anything or having too much domain knowledge.
 >
-> **[3:12](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/choosing-tools-and-frameworks-for-ai-prototyping?u=76281980&t=192)** And to scale, we have cloud AI platforms like AWS SageMaker, Google Vertex AI, and Hugging Face, which will allow you to train, fine tune and deploy AI models efficiently.
+> **[3:12](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/choosing-tools-and-frameworks-for-ai-prototyping?u=76281980&t=192)** And to scale, we have cloud AI platforms like [[AWS SageMaker]], Google Vertex AI, and Hugging Face, which will allow you to train, fine tune and deploy AI models efficiently.
 >
 > **[3:27](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/choosing-tools-and-frameworks-for-ai-prototyping?u=76281980&t=207)** Note how some of these API based services overlap with the cloud-based services.
 >
@@ -361,14 +357,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (21), api (6), cloud (6), aws (4), [[Scalability]] (3)
+> **Frameworks & Libraries:** [[Scalability]] (3), [[Traditional AI]] (3), [[Microsoft Azure|Azure]] (3), [[Vertex]] (3), [[Prototyping]] (2)
 > **Env Vars:** api (6), aws (4), gpt (2), jax (1)
 > **CLI Commands:** aws (4), make (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building an MVP from scratch
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/building-an-mvp-from-scratch?u=76281980)
+#### [Building an MVP from scratch](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/building-an-mvp-from-scratch?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -398,15 +393,15 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/building-an-mvp-from-scratch?u=76281980&t=55)** You can see that here.
 >
-> **[0:58](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/building-an-mvp-from-scratch?u=76281980&t=58)** Next, we'll see the magic of transformer models like DistilBERT.
+> **[0:58](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/building-an-mvp-from-scratch?u=76281980&t=58)** Next, we'll see the magic of [[Transformer Models]] like DistilBERT.
 >
 > **[1:03](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/building-an-mvp-from-scratch?u=76281980&t=63)** These models are pre-trained and we'll be starting from one of these checkpoints.
 >
 > **[1:08](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/building-an-mvp-from-scratch?u=76281980&t=68)** These models have already learned language patterns from massive data sets, so we can fine tune them for specific tasks such as ours with relatively little data.
 >
-> **[1:19](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/building-an-mvp-from-scratch?u=76281980&t=79)** First, I'll be loading the DistilBERT tokenizer, which will convert text to numerical tokens.
+> **[1:19](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/building-an-mvp-from-scratch?u=76281980&t=79)** First, I'll be loading the DistilBERT tokenizer, which will convert text to numerical [[Tokens]].
 >
-> **[1:26](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/building-an-mvp-from-scratch?u=76281980&t=86)** This tokenization step is crucial because neural networks can't process raw text.
+> **[1:26](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/building-an-mvp-from-scratch?u=76281980&t=86)** This tokenization step is crucial because [[Neural Networks]] can't process raw text.
 >
 > **[1:32](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/building-an-mvp-from-scratch?u=76281980&t=92)** The tokenizer handles all of the complexities of language, and it will split our words, handle punctuation, and add special tokens needed by our model to fine tune on the text that we just created.
 >
@@ -444,7 +439,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), product (4), [[Tokens]] (2), next (1), [[Transformer Models]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (2), [[Transformer Models]] (1), [[Neural Networks]] (1)
 > **Prerequisites:** install (1), set up (1)
 > **Env Vars:** bert (1)
 > **Definitions:** is a  (1)
@@ -457,18 +452,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Common AI prototype issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/common-ai-prototype-issues?u=76281980)
+#### [Common AI prototype issues](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/common-ai-prototype-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/common-ai-prototype-issues?u=76281980&t=0)** - [Instructor] Let's try to understand the key pitfalls in AI prototyping, and how to avoid them.
+> **[0:00](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/common-ai-prototype-issues?u=76281980&t=0)** - [Instructor] Let's try to understand the key pitfalls in AI [[Prototyping]], and how to avoid them.
 >
-> **[0:06](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/common-ai-prototype-issues?u=76281980&t=6)** AI prototypes often fail due to fundamental problems in model training, data quality, and system design.
+> **[0:06](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/common-ai-prototype-issues?u=76281980&t=6)** AI prototypes often fail due to fundamental problems in model training, [[Data Quality]], and system design.
 >
-> **[0:13](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/common-ai-prototype-issues?u=76281980&t=13)** These arise both in traditional machine learning models and large language models.
+> **[0:13](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/common-ai-prototype-issues?u=76281980&t=13)** These arise both in traditional machine learning models and [[Large Language Models (LLM)|large language models]].
 >
-> **[0:19](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/common-ai-prototype-issues?u=76281980&t=19)** So for traditional AI models, we have three major problems.
+> **[0:19](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/common-ai-prototype-issues?u=76281980&t=19)** So for [[Traditional AI]] models, we have three major problems.
 >
 > **[0:24](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/common-ai-prototype-issues?u=76281980&t=24)** First is overfitting, where the model memorizes the training data instead of learning general patterns.
 >
@@ -510,7 +504,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/common-ai-prototype-issues?u=76281980&t=163)** So these hyperparameters are learning rate, bad size, number of epochs, or if you're using a gradient booster tree, then the length of your tree, the number of nodes and so on.
 >
-> **[2:55](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/common-ai-prototype-issues?u=76281980&t=175)** Performing feature engineering is also quite useful to fix this issue to extract better insights from raw data, because this may indicate what we're about to talk about next, which is data quality.
+> **[2:55](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/common-ai-prototype-issues?u=76281980&t=175)** Performing [[Feature Engineering]] is also quite useful to fix this issue to extract better insights from raw data, because this may indicate what we're about to talk about next, which is data quality.
 >
 > **[3:08](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/common-ai-prototype-issues?u=76281980&t=188)** Data quality will fail your model if the data is not good.
 >
@@ -536,25 +530,24 @@ created: 2026-05-02
 >
 > **[4:37](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/common-ai-prototype-issues?u=76281980&t=277)** If your system pulls bad information, your outputs will be misleading.
 >
-> **[4:41](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/common-ai-prototype-issues?u=76281980&t=281)** So solutions would include fine-tuning models and using RAG to improve accuracy using hybrid search methods like BM25 plus vector search for better document retrieval, and using APIs with batch processing and caching.
+> **[4:41](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/common-ai-prototype-issues?u=76281980&t=281)** So solutions would include fine-tuning models and using RAG to improve accuracy using hybrid search methods like BM25 plus vector search for better document retrieval, and using APIs with [[Batch Processing]] and caching.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), ai (5), feature (2), rag (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[Data Quality]] (5), [[Prototyping]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[Traditional AI]] (1), [[Feature Engineering]] (1)
 > **Env Vars:** rag (2), llm (1), api (1), bm25 (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Debugging overfitting and underfitting
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/debugging-overfitting-and-underfitting?u=76281980)
+#### [Debugging overfitting and underfitting](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/debugging-overfitting-and-underfitting?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/debugging-overfitting-and-underfitting?u=76281980&t=0)** - [Instructor] It's time now to tackle one of the most fundamental challenges in machine learning, the balance between underfitting and overfitting.
 >
-> **[0:08](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/debugging-overfitting-and-underfitting?u=76281980&t=8)** With transformer models having millions of parameters, finding that sweet spot becomes especially critical.
+> **[0:08](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/debugging-overfitting-and-underfitting?u=76281980&t=8)** With [[Transformer Models]] having millions of parameters, finding that sweet spot becomes especially critical.
 >
 > **[0:15](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/debugging-overfitting-and-underfitting?u=76281980&t=15)** In our notebook, we'll be creating three different versions of our original sentiment analysis MVP.
 >
@@ -612,7 +605,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/debugging-overfitting-and-underfitting?u=76281980&t=209)** If we look at the graphs, they display the same information visually.
 >
-> **[3:33](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/debugging-overfitting-and-underfitting?u=76281980&t=213)** As we can see, the underfit model versus the balanced model show a stark difference in how the training and test accuracy compare.
+> **[3:33](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/debugging-overfitting-and-underfitting?u=76281980&t=213)** As we can see, the underfit model versus the balanced model show a [[Stark (Accessibility Software)|stark]] difference in how the training and test accuracy compare.
 >
 > **[3:44](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/debugging-overfitting-and-underfitting?u=76281980&t=224)** This demonstrates that the classic machine learning dilemma is true.
 >
@@ -626,7 +619,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Transformer Models]] (1), next (1), [[Stark (Accessibility Software)|Stark]] (1)
+> **Frameworks & Libraries:** [[Transformer Models]] (1), [[Stark (Accessibility Software)|Stark]] (1)
 > **Env Vars:** mvp (1)
 > **Cross-References:** as you saw (1)
 > **Definitions:** is a  (1)
@@ -634,8 +627,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Handling data-related errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/handling-data-related-errors?u=76281980)
+#### [Handling data-related errors](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/handling-data-related-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -657,7 +649,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/handling-data-related-errors?u=76281980&t=45)** Missing data is a silent killer.
 >
-> **[0:47](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/handling-data-related-errors?u=76281980&t=47)** It sneaks in from human errors, system failures, or even privacy related data removals.
+> **[0:47](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/handling-data-related-errors?u=76281980&t=47)** It sneaks in from human errors, system failures, or even [[Privacy]] related data removals.
 >
 > **[0:54](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/handling-data-related-errors?u=76281980&t=54)** If missing data is minimal, you might drop the affected rows, but if the gaps are large, better techniques are needed.
 >
@@ -665,7 +657,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/handling-data-related-errors?u=76281980&t=67)** We can take it one step further and use ML-based imputation using models like KNN or Bayesian methods to predict missing values.
 >
-> **[1:17](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/handling-data-related-errors?u=76281980&t=77)** And, finally, if nothing works, it's good to use robust ML algorithms like XGBoost and LightGBM as examples, which can handle missing data natively.
+> **[1:17](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/handling-data-related-errors?u=76281980&t=77)** And, finally, if nothing works, it's good to use robust ML [[Algorithms]] like XGBoost and LightGBM as examples, which can handle missing data natively.
 >
 > **[1:29](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/handling-data-related-errors?u=76281980&t=89)** Noisy data occurs when the dataset contains inaccurate, mislabeled, or redundant information.
 >
@@ -677,7 +669,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/handling-data-related-errors?u=76281980&t=120)** To fix noisy data, clean the data set by removing duplicates and correcting mislabeled entries.
 >
-> **[2:07](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/handling-data-related-errors?u=76281980&t=127)** You can use pandas for this.
+> **[2:07](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/handling-data-related-errors?u=76281980&t=127)** You can use [[Pandas (Software)|pandas]] for this.
 >
 > **[2:09](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/handling-data-related-errors?u=76281980&t=129)** Train models with noise-resistant losses.
 >
@@ -687,7 +679,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/handling-data-related-errors?u=76281980&t=152)** Outliers are extreme values that can distort AI models.
 >
-> **[2:36](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/handling-data-related-errors?u=76281980&t=156)** They might be caused by faulty data collection or genuine rare events.
+> **[2:36](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/handling-data-related-errors?u=76281980&t=156)** They might be caused by faulty [[Data Collection]] or genuine rare events.
 >
 > **[2:42](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/handling-data-related-errors?u=76281980&t=162)** Usually outliers are detected using box plots and Z-scores to identify extreme values, and interquartile range is used to define thresholds.
 >
@@ -699,7 +691,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/handling-data-related-errors?u=76281980&t=180)** They can be transformed using log scaling or clipping to reduce their impact.
 >
-> **[3:05](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/handling-data-related-errors?u=76281980&t=185)** And they can be handled with robust models like decision trees, which are less sensitive.
+> **[3:05](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/handling-data-related-errors?u=76281980&t=185)** And they can be handled with robust models like [[Decision Trees]], which are less sensitive.
 >
 > **[3:12](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/handling-data-related-errors?u=76281980&t=192)** And finally, we have data leakage, which is our silent model killer.
 >
@@ -713,7 +705,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/handling-data-related-errors?u=76281980&t=235)** To prevent data leakage, ensure strict separation of training and test data sets.
 >
-> **[4:01](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/handling-data-related-errors?u=76281980&t=241)** Use time-based splits in forecasting problems, and double check feature selection pipelines to avoid unintentional leaks.
+> **[4:01](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/handling-data-related-errors?u=76281980&t=241)** Use time-based splits in [[Forecasting]] problems, and double check feature selection pipelines to avoid unintentional leaks.
 >
 > **[4:10](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/handling-data-related-errors?u=76281980&t=250)** To systematically debug data related issues, take a look at this flow chart.
 >
@@ -729,7 +721,7 @@ created: 2026-05-02
 >
 > **[4:38](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/handling-data-related-errors?u=76281980&t=278)** If the data is noisy, you can clean it or use noise resistant models.
 >
-> **[4:43](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/handling-data-related-errors?u=76281980&t=283)** If outliers are present, analyze them with box plots and scaling techniques, and if you suspect data leakage, check how your data split is working and review feature engineering steps.
+> **[4:43](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/handling-data-related-errors?u=76281980&t=283)** If outliers are present, analyze them with box plots and scaling techniques, and if you suspect data leakage, check how your data split is working and review [[Feature Engineering]] steps.
 >
 > **[4:56](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/handling-data-related-errors?u=76281980&t=296)** To systematically debug data related issues, follow this structured process.
 >
@@ -745,13 +737,13 @@ created: 2026-05-02
 >
 > **[5:28](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/handling-data-related-errors?u=76281980&t=328)** So good data is good AI.
 >
-> **[5:30](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/handling-data-related-errors?u=76281980&t=330)** Always prioritize high data quality when you move from your MVP to productionization.
+> **[5:30](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/handling-data-related-errors?u=76281980&t=330)** Always prioritize high [[Data Quality]] when you move from your MVP to productionization.
 >
 > **[5:37](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/handling-data-related-errors?u=76281980&t=337)** Make sure you handle these issues before using more specialized techniques or models.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (43), ai (8), feature (3), [[Feature Engineering]] (2), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[Feature Engineering]] (2), [[Privacy]] (1), [[Algorithms]] (1), [[Pandas (Software)|Pandas]] (1), [[Data Collection]] (1)
 > **Env Vars:** knn (1), maml (1), mvp (1)
 > **CLI Commands:** node (1), make (1)
 > **Definitions:** is a  (2)
@@ -764,14 +756,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why testing matters in AI development
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/why-testing-matters-in-ai-development?u=76281980)
+#### [Why testing matters in AI development](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/why-testing-matters-in-ai-development?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/why-testing-matters-in-ai-development?u=76281980&t=0)** - [Instructor] Let's take a look at how to ensure your AI models are accurate, generalizable, and robust.
 >
-> **[0:07](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/why-testing-matters-in-ai-development?u=76281980&t=7)** In traditional software testing, the goal is simple.
+> **[0:07](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/why-testing-matters-in-ai-development?u=76281980&t=7)** In traditional [[Software Testing]], the goal is simple.
 >
 > **[0:10](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/why-testing-matters-in-ai-development?u=76281980&t=10)** Verify that the program produces the expected output for a given input.
 >
@@ -819,7 +810,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/why-testing-matters-in-ai-development?u=76281980&t=122)** Testing should uncover unfair predictions.
 >
-> **[2:06](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/why-testing-matters-in-ai-development?u=76281980&t=126)** And finally, efficiency and scalability.
+> **[2:06](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/why-testing-matters-in-ai-development?u=76281980&t=126)** And finally, efficiency and [[Scalability]].
 >
 > **[2:09](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/why-testing-matters-in-ai-development?u=76281980&t=129)** Can the AI system that we've built handle real-world user loads without slowing down?
 >
@@ -831,7 +822,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/why-testing-matters-in-ai-development?u=76281980&t=150)** Every component in the pipeline, data pre-processing, model inference, post-processing, must be tested individually in isolation.
 >
-> **[2:39](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/why-testing-matters-in-ai-development?u=76281980&t=159)** This is what unit testing means.
+> **[2:39](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/why-testing-matters-in-ai-development?u=76281980&t=159)** This is what [[Unit Testing]] means.
 >
 > **[2:42](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/why-testing-matters-in-ai-development?u=76281980&t=162)** Before even testing the model, we need to verify that the data pre-processing steps like tokenization, normalization, and feature scaling work.
 >
@@ -849,7 +840,7 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/why-testing-matters-in-ai-development?u=76281980&t=220)** So here's a structured pipeline for AI testing.
 >
-> **[3:44](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/why-testing-matters-in-ai-development?u=76281980&t=224)** We start with data quality checks.
+> **[3:44](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/why-testing-matters-in-ai-development?u=76281980&t=224)** We start with [[Data Quality]] checks.
 >
 > **[3:46](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/why-testing-matters-in-ai-development?u=76281980&t=226)** If issues exist, first, fix the imbalances and biases in our data.
 >
@@ -871,24 +862,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (18), data (14), [[Software Testing]] (2), [[Unit Testing]] (2), next (1)
+> **Frameworks & Libraries:** [[Software Testing]] (2), [[Unit Testing]] (2), [[Scalability]] (1), [[Data Quality]] (1)
 > **Definitions:** means that (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Unit testing for AI components
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/unit-testing-for-ai-components?u=76281980)
+#### [Unit testing for AI components](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/unit-testing-for-ai-components?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/unit-testing-for-ai-components?u=76281980&t=0)** - [Instructor] It's time now to take a look at how to ensure AI reliability by testing pre-processing, feature engineering, and inference pipelines.
+> **[0:00](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/unit-testing-for-ai-components?u=76281980&t=0)** - [Instructor] It's time now to take a look at how to ensure AI reliability by testing pre-processing, [[Feature Engineering]], and inference pipelines.
 >
 > **[0:07](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/unit-testing-for-ai-components?u=76281980&t=7)** So let's dive right in.
 >
-> **[0:10](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/unit-testing-for-ai-components?u=76281980&t=10)** Unit testing in AI is about testing individual components, pre-processing pipelines, feature transformations, and model inference before they are combined into a full system.
+> **[0:10](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/unit-testing-for-ai-components?u=76281980&t=10)** [[Unit Testing]] in AI is about testing individual components, pre-processing pipelines, feature transformations, and model inference before they are combined into a full system.
 >
-> **[0:21](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/unit-testing-for-ai-components?u=76281980&t=21)** Keep in mind, AI testing differs from traditional software testing because AI is non-deterministic.
+> **[0:21](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/unit-testing-for-ai-components?u=76281980&t=21)** Keep in mind, AI testing differs from traditional [[Software Testing]] because AI is non-deterministic.
 >
 > **[0:27](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/unit-testing-for-ai-components?u=76281980&t=27)** The same input might not always give the same output.
 >
@@ -902,13 +892,13 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/unit-testing-for-ai-components?u=76281980&t=56)** However, you can use whatever you feel best in your given situation.
 >
-> **[1:01](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/unit-testing-for-ai-components?u=76281980&t=61)** First, we have data processing.
+> **[1:01](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/unit-testing-for-ai-components?u=76281980&t=61)** First, we have [[Data Processing]].
 >
 > **[1:04](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/unit-testing-for-ai-components?u=76281980&t=64)** Some common errors here include missing values, mislabeled or shuffled data, and data leakage.
 >
-> **[1:10](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/unit-testing-for-ai-components?u=76281980&t=70)** And to prevent these issues, we can implement simple assertions in Python to cast these errors.
+> **[1:10](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/unit-testing-for-ai-components?u=76281980&t=70)** And to prevent these issues, we can implement simple assertions in [[Python (Programming Language)|Python]] to cast these errors.
 >
-> **[1:17](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/unit-testing-for-ai-components?u=76281980&t=77)** For instance, I can use pandas to check for missing values and ensure all the inputs in our features are complete.
+> **[1:17](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/unit-testing-for-ai-components?u=76281980&t=77)** For instance, I can use [[Pandas (Software)|pandas]] to check for missing values and ensure all the inputs in our features are complete.
 >
 > **[1:24](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/unit-testing-for-ai-components?u=76281980&t=84)** Next, I can verify the labels and check for any extreme labels in our dataset.
 >
@@ -988,7 +978,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), ai (6), [[Feature Engineering]] (4), api (4), [[Unit Testing]] (3)
+> **Frameworks & Libraries:** [[Feature Engineering]] (4), [[Unit Testing]] (3), [[Python (Programming Language)|Python]] (3), [[Software Testing]] (1), [[Data Processing]] (1)
 > **Env Vars:** api (4), llm (3), rag (1)
 > **CLI Commands:** python (3), make (1)
 > **Analogies:** for instance (3)
@@ -996,8 +986,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (2)
 > **Speakers:** - [instructor] (1)
 
-#### Performance testing your AI model
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/performance-testing-your-ai-model?u=76281980)
+#### [Performance testing your AI model](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/performance-testing-your-ai-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1063,7 +1052,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (1), product (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** mvp (1)
 > **Analogies:** for instance (1)
@@ -1075,8 +1063,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Transitioning from prototype to production
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/transitioning-from-prototype-to-production?u=76281980)
+#### [Transitioning from prototype to production](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/transitioning-from-prototype-to-production?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1096,7 +1083,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/transitioning-from-prototype-to-production?u=76281980&t=35)** You have to think about latency, reliability, and security.
 >
-> **[0:41](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/transitioning-from-prototype-to-production?u=76281980&t=41)** Specifically, when it comes to scalability, your model will be used by millions of people, so it has to be able to handle millions of requests.
+> **[0:41](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/transitioning-from-prototype-to-production?u=76281980&t=41)** Specifically, when it comes to [[Scalability]], your model will be used by millions of people, so it has to be able to handle millions of requests.
 >
 > **[0:49](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/transitioning-from-prototype-to-production?u=76281980&t=49)** Then we have to be able to monitor data drift, failures and bias in real time, the latency has to be low.
 >
@@ -1106,17 +1093,17 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/transitioning-from-prototype-to-production?u=76281980&t=70)** We need a solid deployment pipeline.
 >
-> **[1:12](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/transitioning-from-prototype-to-production?u=76281980&t=72)** A typical deployment pipeline moving from prototype to production involves pre-processing and data pipelines, which are real-time versus batch processing.
+> **[1:12](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/transitioning-from-prototype-to-production?u=76281980&t=72)** A typical deployment pipeline moving from prototype to production involves pre-processing and [[Data Pipelines]], which are [[Real-Time]] versus [[Batch Processing]].
 >
 > **[1:23](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/transitioning-from-prototype-to-production?u=76281980&t=83)** We have model hosting, which includes APIs like OpenAI, Cohere versus self-hosted models, which we can host on TorchServe using FastAPI or on AWS.
 >
-> **[1:37](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/transitioning-from-prototype-to-production?u=76281980&t=97)** Then we have version control where we keep record of the model version using MLflow or DVC.
+> **[1:37](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/transitioning-from-prototype-to-production?u=76281980&t=97)** Then we have [[Version Control]] where we keep record of the model version using [[MLflow]] or DVC.
 >
 > **[1:45](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/transitioning-from-prototype-to-production?u=76281980&t=105)** And finally, we have observability, which involves monitoring and logging using tools like Prometheus, Grafana, or Weights & Biases.
 >
 > **[1:56](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/transitioning-from-prototype-to-production?u=76281980&t=116)** The AI deployment pipeline is quite simple.
 >
-> **[1:59](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/transitioning-from-prototype-to-production?u=76281980&t=119)** When we look at the flow chart, it starts off with the data ingestion step, moving on to pre-processing, then we have our model inference endpoint or API.
+> **[1:59](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/transitioning-from-prototype-to-production?u=76281980&t=119)** When we look at the flow chart, it starts off with the [[Data Ingestion]] step, moving on to pre-processing, then we have our model inference endpoint or API.
 >
 > **[2:09](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/transitioning-from-prototype-to-production?u=76281980&t=129)** Next, it subdivides into two steps.
 >
@@ -1130,21 +1117,21 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/transitioning-from-prototype-to-production?u=76281980&t=160)** For instance, fraud detection must be real-time, but something like customer churn prediction can be done in batches vernight.
 >
-> **[2:49](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/transitioning-from-prototype-to-production?u=76281980&t=169)** APIs like the OpenAI API now also support batch inference, and it is significantly cheaper.
+> **[2:49](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/transitioning-from-prototype-to-production?u=76281980&t=169)** APIs like the [[OpenAI API]] now also support batch inference, and it is significantly cheaper.
 >
 > **[2:57](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/transitioning-from-prototype-to-production?u=76281980&t=177)** Now, how do you deploy the model?
 >
 > **[2:59](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/transitioning-from-prototype-to-production?u=76281980&t=179)** That matters as well.
 >
-> **[3:01](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/transitioning-from-prototype-to-production?u=76281980&t=181)** We can use APIs like AWS Bedrock or OpenAI, or use self-hosted models like Hugging Face or FastAPI.
+> **[3:01](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/transitioning-from-prototype-to-production?u=76281980&t=181)** We can use APIs like AWS Bedrock or OpenAI, or use self-hosted models like [[Hugging Face]] or FastAPI.
 >
-> **[3:09](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/transitioning-from-prototype-to-production?u=76281980&t=189)** The cheaper alternatives require more setup on our end, whereas going with industry standard providers like AWS or Azure provide us speed at a greater cost.
+> **[3:09](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/transitioning-from-prototype-to-production?u=76281980&t=189)** The cheaper alternatives require more setup on our end, whereas going with industry standard providers like AWS or [[Microsoft Azure|Azure]] provide us speed at a greater cost.
 >
 > **[3:23](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/transitioning-from-prototype-to-production?u=76281980&t=203)** Once deployed, we need to ensure that our model can increase its capacity.
 >
 > **[3:29](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/transitioning-from-prototype-to-production?u=76281980&t=209)** This is where scaling comes in.
 >
-> **[3:30](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/transitioning-from-prototype-to-production?u=76281980&t=210)** We can use Kubernetes for auto scaling, caching with Redis to speed up system responses, and load balancing to prevent system failures.
+> **[3:30](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/transitioning-from-prototype-to-production?u=76281980&t=210)** We can use [[Kubernetes]] for auto scaling, caching with [[Redis]] to speed up system responses, and load balancing to prevent system failures.
 >
 > **[3:40](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/transitioning-from-prototype-to-production?u=76281980&t=220)** Model optimization techniques like quantization and distillation also helps significantly.
 >
@@ -1160,7 +1147,7 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/transitioning-from-prototype-to-production?u=76281980&t=247)** This is why monitoring tools like Weights and Biases, Prometheus, and Grafana are crucial for tracking performance and triggering alerts when accuracy drops.
 >
-> **[4:19](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/transitioning-from-prototype-to-production?u=76281980&t=259)** The ELK stack is also an industry standard stack for AI monitoring, which uses ElasticSearch Logstash,and Kibana.
+> **[4:19](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/transitioning-from-prototype-to-production?u=76281980&t=259)** The ELK stack is also an industry standard stack for AI monitoring, which uses [[Elasticsearch]] Logstash,and Kibana.
 >
 > **[4:27](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/transitioning-from-prototype-to-production?u=76281980&t=267)** So taking an AI prototype to production is one of the hardest but most rewarding parts of the development cycle.
 >
@@ -1168,7 +1155,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), data (5), aws (3), api (2), [[Real-Time]] (2)
+> **Frameworks & Libraries:** [[Real-Time]] (2), [[Scalability]] (1), [[Data Pipelines]] (1), [[Batch Processing]] (1), [[Version Control]] (1)
 > **Env Vars:** api (3), aws (3), mvp (1), dvc (1), onix (1)
 > **CLI Commands:** aws (3), make (1)
 > **Tools:** jupyter (1)
@@ -1177,12 +1164,11 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Optimizing your prototype for scalability
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/optimizing-your-prototype-for-scalability?u=76281980)
+#### [Optimizing your prototype for scalability](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/optimizing-your-prototype-for-scalability?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/optimizing-your-prototype-for-scalability?u=76281980&t=0)** - [Instructor] It's time now to focus on making our sentiment analysis MVP model ready for real-world deployment by optimizing for performance and scalability.
+> **[0:00](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/optimizing-your-prototype-for-scalability?u=76281980&t=0)** - [Instructor] It's time now to focus on making our sentiment analysis MVP model ready for real-world deployment by optimizing for performance and [[Scalability]].
 >
 > **[0:10](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/optimizing-your-prototype-for-scalability?u=76281980&t=10)** So, let's take a look at how we can do this.
 >
@@ -1234,19 +1220,18 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/optimizing-your-prototype-for-scalability?u=76281980&t=167)** These are just some examples, but you can use any optimization technique under the hood that I've mentioned here, and these are essential for real-world deployment.
 >
-> **[2:57](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/optimizing-your-prototype-for-scalability?u=76281980&t=177)** An unoptimized model might cost 10 times more to run and provide a poor user experience compared to one that's been properly optimized.
+> **[2:57](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/optimizing-your-prototype-for-scalability?u=76281980&t=177)** An unoptimized model might cost 10 times more to run and provide a poor [[User Experience (UX)|user experience]] compared to one that's been properly optimized.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Scalability]] (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[Scalability]] (1), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** onnx (2), mvp (1), jit (1)
 > **Definitions:** is a  (2)
 > **Code Identifiers:** measure_model_performance (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Common production pitfalls
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/common-production-pitfalls?u=76281980)
+#### [Common production pitfalls](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/common-production-pitfalls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1258,7 +1243,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/common-production-pitfalls?u=76281980&t=24)** Even more concerning is concept drift, where relationships between input features and output changes, making your model completely outdated.
 >
-> **[0:33](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/common-production-pitfalls?u=76281980&t=33)** Scalability is another issue.
+> **[0:33](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/common-production-pitfalls?u=76281980&t=33)** [[Scalability]] is another issue.
 >
 > **[0:36](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/common-production-pitfalls?u=76281980&t=36)** Your model might work fine with a small data set, but in production it has to handle thousands or even millions per requests.
 >
@@ -1286,7 +1271,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/common-production-pitfalls?u=76281980&t=110)** To detect drift, we can use metrics like KL divergence, Chi-Square tests, and even population stability indices.
 >
-> **[1:58](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/common-production-pitfalls?u=76281980&t=118)** There's also multiple tools like EvidentlyAI, Fiddler AI, MLflow monitoring, and so on, that can help us.
+> **[1:58](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/common-production-pitfalls?u=76281980&t=118)** There's also multiple tools like EvidentlyAI, Fiddler AI, [[MLflow]] monitoring, and so on, that can help us.
 >
 > **[2:05](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/common-production-pitfalls?u=76281980&t=125)** To fix drift, retraining your model regularly is key.
 >
@@ -1296,21 +1281,21 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/common-production-pitfalls?u=76281980&t=141)** Many companies struggle with high inference costs.
 >
-> **[2:24](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/common-production-pitfalls?u=76281980&t=144)** Running large models like GPT-4, Claude, or Mistral can be expensive and slow, and so if your model takes too long to generate a response, it's unusable for real-time applications, no matter how good it is.
+> **[2:24](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/common-production-pitfalls?u=76281980&t=144)** Running large models like [[GPT-4]], Claude, or Mistral can be expensive and slow, and so if your model takes too long to generate a response, it's unusable for [[Real-Time]] applications, no matter how good it is.
 >
 > **[2:36](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/common-production-pitfalls?u=76281980&t=156)** To solve this, we use model quantization, which is one of the more basic techniques to reduce latency.
 >
-> **[2:42](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/common-production-pitfalls?u=76281980&t=162)** There's also pruning, which can remove unnecessary neurons from your deep learning models, and additionally, caching frequently used responses, and batching multiple requests together can also significantly improve performance.
+> **[2:42](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/common-production-pitfalls?u=76281980&t=162)** There's also pruning, which can remove unnecessary neurons from your [[Deep Learning]] models, and additionally, caching frequently used responses, and batching multiple requests together can also significantly improve performance.
 >
 > **[2:56](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/common-production-pitfalls?u=76281980&t=176)** Finally, there's a few security considerations we always need to keep in the back of our minds.
 >
 > **[3:02](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/common-production-pitfalls?u=76281980&t=182)** One of the biggest risks is prompt injection attacks, where malicious users trick models into exposing sensitive information.
 >
-> **[3:09](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/common-production-pitfalls?u=76281980&t=189)** API security is another major concern, irrespective of if you're using a custom API or a model hosted on Azure or any API based service.
+> **[3:09](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/common-production-pitfalls?u=76281980&t=189)** API security is another major concern, irrespective of if you're using a custom API or a model hosted on [[Microsoft Azure|Azure]] or any API based service.
 >
 > **[3:20](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/common-production-pitfalls?u=76281980&t=200)** If an API key is exposed, anyone can use it.
 >
-> **[3:24](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/common-production-pitfalls?u=76281980&t=204)** And finally, we need to make sure we're implementing rate limits, access controls, and secure cloud hosting, on AWS Azure or even Google Cloud, to help mitigate these risks.
+> **[3:24](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/common-production-pitfalls?u=76281980&t=204)** And finally, we need to make sure we're implementing rate limits, access controls, and secure cloud hosting, on AWS Azure or even [[Google Cloud Platform (GCP)|Google Cloud]], to help mitigate these risks.
 >
 > **[3:36](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/common-production-pitfalls?u=76281980&t=216)** So let's take a look at a final flow chart to debug any production AI model.
 >
@@ -1334,7 +1319,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), ai (6), api (4), [[Security]] (3), [[Microsoft Azure|Azure]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Scalability]] (1), [[MLflow]] (1), [[GPT-4]] (1), [[Real-Time]] (1)
 > **Env Vars:** api (4), gpt (1), aws (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1), aws (1)
@@ -1345,12 +1330,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps and additional resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/next-steps-and-additional-resources?u=76281980)
+#### [Next steps and additional resources](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/next-steps-and-additional-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/next-steps-and-additional-resources?u=76281980&t=0)** - [Instructor] As we wrap up our journey through the exciting world of AI orchestration and prototype development, I want to take a moment to say thank you for being part of this learning experience.
+> **[0:00](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/next-steps-and-additional-resources?u=76281980&t=0)** - [Instructor] As we wrap up our journey through the exciting world of [[AI Orchestration]] and prototype development, I want to take a moment to say thank you for being part of this learning experience.
 >
 > **[0:11](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/next-steps-and-additional-resources?u=76281980&t=11)** Throughout this course, we've explored the fundamentals of building AI MVPs, testing, debugging, and optimizing AI applications for production.
 >
@@ -1358,13 +1342,13 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/next-steps-and-additional-resources?u=76281980&t=28)** But of course, the learning doesn't stop here.
 >
-> **[0:30](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/next-steps-and-additional-resources?u=76281980&t=30)** If you're looking to expand your knowledge on AI orchestration and working with LMS, I highly encourage checking out another LinkedIn learning course called Introduction to AI Orchestration with LangChain and LlamaIndex.
+> **[0:30](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/next-steps-and-additional-resources?u=76281980&t=30)** If you're looking to expand your knowledge on AI orchestration and working with LMS, I highly encourage checking out another [[LinkedIn]] learning course called Introduction to AI Orchestration with [[LangChain]] and [[LlamaIndex]].
 >
 > **[0:45](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/next-steps-and-additional-resources?u=76281980&t=45)** It's a fantastic next step for those looking to build more advanced AI-powered applications.
 >
 > **[0:51](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/next-steps-and-additional-resources?u=76281980&t=51)** Additionally, I invite you to visit my website where I regularly share updates and news on what I've been working on.
 >
-> **[1:00](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/next-steps-and-additional-resources?u=76281980&t=60)** For real-time updates and discussions, let's connect on LinkedIn.
+> **[1:00](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/next-steps-and-additional-resources?u=76281980&t=60)** For [[Real-Time]] updates and discussions, let's connect on LinkedIn.
 >
 > **[1:04](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/next-steps-and-additional-resources?u=76281980&t=64)** Feel free to send me a connect request, and I'd love to hear from you about your experience working on AI orchestration, LLM workflows, debugging, and more.
 >
@@ -1378,7 +1362,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), [[Orchestration]] (4), [[Debugging]] (2), [[LinkedIn]] (2), [[LangChain]] (1)
+> **Frameworks & Libraries:** [[AI Orchestration]] (4), [[LinkedIn]] (2), [[LangChain]] (1), [[LlamaIndex]] (1), [[Real-Time]] (1)
 > **Env Vars:** lms (1), llm (1)
 > **Speakers:** - [instructor] (1)
 

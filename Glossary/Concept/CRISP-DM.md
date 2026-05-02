@@ -17,7 +17,7 @@ tags:
   - topic/software-development
   - topic/database-management
   - topic/cloud-computing
-course_count: 19
+course_count: 20
 created: 2026-05-02
 ---
 
@@ -25,7 +25,7 @@ created: 2026-05-02
 
 # CRISP-DM
 
-> **Type:** Concept | **Courses:** 19 | **Topics:** [[Data Science]], [[Artificial Intelligence (AI)]], [[Software Development]], [[Database Management]], [[Cloud Computing]]
+> **Type:** Concept | **Courses:** 20 | **Topics:** [[Data Science]], [[Artificial Intelligence (AI)]], [[Software Development]], [[Database Management]], [[Cloud Computing]]
 
 ## Courses
 
@@ -40,16 +40,17 @@ created: 2026-05-02
 9. [[Executive Guide to AutoML]] — 4 mentions
 10. [[Data Science Foundations- Fundamentals]] — 4 mentions
 
-> [!note]- See all 19 courses
+> [!note]- See all 20 courses
 > 11. [[Certified Analytics Professional (CAP) Cert Prep]] — 4 mentions
 > 12. [[Data Science for Java Developers]] — 3 mentions
 > 13. [[The Non Technical Skills Of Effective Data Scientists]] — 2 mentions
 > 14. [[Predictive Analytics Essential Training For Executives]] — 1 mentions
 > 15. [[Executive Guide to Predictive Modeling Strategy at Scale]] — 1 mentions
 > 16. [[Python- Working with Predictive Analytics]] — 1 mentions
-> 17. [[Machine Learning and AI Foundations- Classification Modeling]] — 1 mentions
-> 18. [[Machine Learning and AI Foundations- Clustering and Association]] — 1 mentions
-> 19. [[Python- Working with Predictive Analytics (2019)]] — 1 mentions
+> 17. [[AI Foundations- Ideating and Prototyping]] — 1 mentions
+> 18. [[Machine Learning and AI Foundations- Classification Modeling]] — 1 mentions
+> 19. [[Machine Learning and AI Foundations- Clustering and Association]] — 1 mentions
+> 20. [[Python- Working with Predictive Analytics (2019)]] — 1 mentions
 
 ## Learning Paths
 

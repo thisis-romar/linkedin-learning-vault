@@ -99,8 +99,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learn hands-on to extract, manipulate, edit, and delete real data
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/learn-hands-on-to-extract-manipulate-edit-and-delete-real-data?u=76281980)
+#### [Learn hands-on to extract, manipulate, edit, and delete real data](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/learn-hands-on-to-extract-manipulate-edit-and-delete-real-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -108,7 +107,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/learn-hands-on-to-extract-manipulate-edit-and-delete-real-data?u=76281980&t=3)** Do you need to know how to insert new data, delete rows, and update what already exists?
 >
-> **[0:09](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/learn-hands-on-to-extract-manipulate-edit-and-delete-real-data?u=76281980&t=9)** Then this course on Intermediate SQL is for you.
+> **[0:09](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/learn-hands-on-to-extract-manipulate-edit-and-delete-real-data?u=76281980&t=9)** Then this course on Intermediate [[SQL]] is for you.
 >
 > **[0:12](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/learn-hands-on-to-extract-manipulate-edit-and-delete-real-data?u=76281980&t=12)** Using Sakila practice database, we will extract, manipulate, edit, and delete real data.
 >
@@ -116,24 +115,23 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/learn-hands-on-to-extract-manipulate-edit-and-delete-real-data?u=76281980&t=24)** I've used SQL for nearly 20 years through different jobs and industries and now use it to drive my data visualizations.
 >
-> **[0:32](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/learn-hands-on-to-extract-manipulate-edit-and-delete-real-data?u=76281980&t=32)** I want to help you demystify databases and SQL with this course, so let's get going.
+> **[0:32](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/learn-hands-on-to-extract-manipulate-edit-and-delete-real-data?u=76281980&t=32)** I want to help you demystify [[Databases]] and SQL with this course, so let's get going.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[SQL]] (3), database (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Databases]] (1)
 > **Env Vars:** sql (3)
 > **Speakers:** - [emma] (1)
 
-#### Who this course is for
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/who-this-course-is-for?u=76281980)
+#### [Who this course is for](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/who-this-course-is-for?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/who-this-course-is-for?u=76281980&t=0)** - [Instructor] SQL Intermediate Data Manipulation will suit anyone who has an interest in learning how to edit data in an SQL database.
+> **[0:00](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/who-this-course-is-for?u=76281980&t=0)** - [Instructor] [[SQL]] Intermediate [[Data Manipulation]] will suit anyone who has an interest in learning how to edit data in an SQL database.
 >
 > **[0:07](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/who-this-course-is-for?u=76281980&t=7)** We will cover all types of data manipulation from reporting it to changing it or deleting it.
 >
-> **[0:13](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/who-this-course-is-for?u=76281980&t=13)** You will need a basic understanding of relational databases, and select queries to follow this course.
+> **[0:13](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/who-this-course-is-for?u=76281980&t=13)** You will need a basic understanding of [[Relational Databases]], and select queries to follow this course.
 >
 > **[0:19](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/who-this-course-is-for?u=76281980&t=19)** It's intended as a follow-on from my SQL Reporting and Analysis course, but this is not a prerequisite.
 >
@@ -141,25 +139,24 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/who-this-course-is-for?u=76281980&t=30)** You do not need to work in IT.
 >
-> **[0:32](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/who-this-course-is-for?u=76281980&t=32)** SQL is a useful language for lots of business people, such as data analysts, as well as people who need to set up their own databases for small businesses or hobbies.
+> **[0:32](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/who-this-course-is-for?u=76281980&t=32)** SQL is a useful language for lots of business people, such as data analysts, as well as people who need to set up their own [[Databases]] for small businesses or hobbies.
 >
 > **[0:41](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/who-this-course-is-for?u=76281980&t=41)** So if this sounds like you, let's get going.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (5), [[Data Manipulation]] (2), data (2), database (1), [[Relational Databases]] (1)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Data Manipulation]] (2), [[Relational Databases]] (1), [[Databases]] (1)
 > **Env Vars:** sql (5)
 > **Prerequisites:** prerequisite (1), set up (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### What can you do with intermediate SQL?
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/what-can-you-do-with-intermediate-sql?u=76281980)
+#### [What can you do with intermediate SQL?](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/what-can-you-do-with-intermediate-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/what-can-you-do-with-intermediate-sql?u=76281980&t=0)** - [Instructor] SQL stands for Structured Query Language.
+> **[0:00](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/what-can-you-do-with-intermediate-sql?u=76281980&t=0)** - [Instructor] [[SQL]] stands for Structured Query Language.
 >
 > **[0:03](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/what-can-you-do-with-intermediate-sql?u=76281980&t=3)** We will focus on Intermediate SQL, which for our purposes means the ability to manipulate data in a database.
 >
@@ -167,7 +164,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/what-can-you-do-with-intermediate-sql?u=76281980&t=16)** There are many varieties of SQL depending on the vendor.
 >
-> **[0:19](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/what-can-you-do-with-intermediate-sql?u=76281980&t=19)** We will focus on MySQL, but I'll point out differences to Oracle, Microsoft, and PostgreSQL, too.
+> **[0:19](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/what-can-you-do-with-intermediate-sql?u=76281980&t=19)** We will focus on [[MySQL]], but I'll point out differences to Oracle, [[Microsoft]], and [[PostgreSQL]], too.
 >
 > **[0:26](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/what-can-you-do-with-intermediate-sql?u=76281980&t=26)** In this course, we will be focusing on tables and data.
 >
@@ -177,7 +174,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/what-can-you-do-with-intermediate-sql?u=76281980&t=46)** We will touch upon drop, truncate, and alter, but most DDL commands are out of scope.
 >
-> **[0:53](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/what-can-you-do-with-intermediate-sql?u=76281980&t=53)** Next up, we have DML, Data Manipulation Language.
+> **[0:53](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/what-can-you-do-with-intermediate-sql?u=76281980&t=53)** Next up, we have DML, [[Data Manipulation]] Language.
 >
 > **[0:57](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/what-can-you-do-with-intermediate-sql?u=76281980&t=57)** DML lets you add, delete, and edit the data in a database and this is our main focus.
 >
@@ -195,7 +192,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[SQL]] (4), database (3), [[MySQL]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[MySQL]] (1), [[Microsoft]] (1), [[PostgreSQL]] (1), [[Data Manipulation]] (1)
 > **Env Vars:** sql (4), ddl (2), dml (2), dcl (1), tcl (1)
 > **CLI Commands:** mysql (1)
 > **Definitions:** stands for (1)
@@ -207,16 +204,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Get familiar with phpMyAdmin
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/get-familiar-with-phpmyadmin?u=76281980)
+#### [Get familiar with phpMyAdmin](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/get-familiar-with-phpmyadmin?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/get-familiar-with-phpmyadmin?u=76281980&t=0)** - [Instructor] Let's get ready to code in SQL by getting familiar with phpMyAdmin, an open source database software with a very long name.
+> **[0:00](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/get-familiar-with-phpmyadmin?u=76281980&t=0)** - [Instructor] Let's get ready to code in [[SQL]] by getting familiar with phpMyAdmin, an open source database software with a very long name.
 >
-> **[0:08](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/get-familiar-with-phpmyadmin?u=76281980&t=8)** phpMyAdmin is particularly well suited for creating databases to power websites, and it's the software used by the Sakila demo database, which we're going to use in this course.
+> **[0:08](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/get-familiar-with-phpmyadmin?u=76281980&t=8)** phpMyAdmin is particularly well suited for creating [[Databases]] to power websites, and it's the software used by the Sakila demo database, which we're going to use in this course.
 >
-> **[0:19](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/get-familiar-with-phpmyadmin?u=76281980&t=19)** phpMyAdmin uses MySQL, we will also cover Oracle SQL, Microsoft's Transact-SQL, and PostgreSQL, but we cannot run these commands in phpMyAdmin because they won't work.
+> **[0:19](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/get-familiar-with-phpmyadmin?u=76281980&t=19)** phpMyAdmin uses [[MySQL]], we will also cover Oracle SQL, [[Microsoft]]'s [[Transact-SQL (T-SQL)|Transact-SQL]], and [[PostgreSQL]], but we cannot run these commands in phpMyAdmin because they won't work.
 >
 > **[0:32](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/get-familiar-with-phpmyadmin?u=76281980&t=32)** I'll point out where commands differ between these main types of SQL.
 >
@@ -258,7 +254,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), [[MySQL]] (8), [[SQL]] (5), [[Databases]] (2), power (1)
+> **Frameworks & Libraries:** [[MySQL]] (8), [[SQL]] (5), [[Databases]] (2), [[Microsoft]] (1), [[Transact-SQL (T-SQL)|Transact-sql]] (1)
 > **CLI Commands:** mysql (8), find (1)
 > **Code Identifiers:** phpmyadmin (7)
 > **Env Vars:** sql (6)
@@ -267,14 +263,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Understand the demo database
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/understand-the-demo-database?u=76281980)
+#### [Understand the demo database](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/understand-the-demo-database?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/understand-the-demo-database?u=76281980&t=0)** - [Instructor] The sakila demo database was created for a fictional and old fashioned movie rental business where you went into a real physical shop and left with a real physical movie on a DVD or a VHS.
 >
-> **[0:13](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/understand-the-demo-database?u=76281980&t=13)** If you look on the left hand side, you can see Tables and Views listed under the word sakila.
+> **[0:13](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/understand-the-demo-database?u=76281980&t=13)** If you look on the left hand side, you can see Tables and Views listed under the [[Microsoft Word|word]] sakila.
 >
 > **[0:19](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/understand-the-demo-database?u=76281980&t=19)** And normally we would have functions and procedures listed there as well but they have disappeared.
 >
@@ -306,7 +301,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/understand-the-demo-database?u=76281980&t=111)** The city and country tables are glorified lists.
 >
-> **[1:54](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/understand-the-demo-database?u=76281980&t=114)** The data is structured this way to preserve data integrity so system users will be able to pick city or country from a dropdown list, which prevents typos.
+> **[1:54](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/understand-the-demo-database?u=76281980&t=114)** The data is structured this way to preserve [[Data Integrity]] so system users will be able to pick city or country from a dropdown list, which prevents typos.
 >
 > **[2:03](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/understand-the-demo-database?u=76281980&t=123)** The last of the three core tables is payment.
 >
@@ -344,7 +339,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), database (3), business (1), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Data Integrity]] (2), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** inventory_id (2), customer_ids (1)
 > **Env Vars:** dvd (2), vhs (1)
 > **UI Navigation:** dropdown (2)
@@ -352,14 +347,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using ChatGPT to check SQL code
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/using-chatgpt-to-check-sql-code?u=76281980)
+#### [Using ChatGPT to check SQL code](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/using-chatgpt-to-check-sql-code?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/using-chatgpt-to-check-sql-code?u=76281980&t=0)** - The days of posting questions into a forum and waiting hopefully and hopelessly for a response are gone, you'll be pleased to know.
 >
-> **[0:09](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/using-chatgpt-to-check-sql-code?u=76281980&t=9)** If you haven't got into ChatGPT yet or any other large language model, it can really help you on your learning journey.
+> **[0:09](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/using-chatgpt-to-check-sql-code?u=76281980&t=9)** If you haven't got into [[ChatGPT]] yet or any other large language model, it can really help you on your learning journey.
 >
 > **[0:17](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/using-chatgpt-to-check-sql-code?u=76281980&t=17)** It is the ultimate patient teacher.
 >
@@ -405,7 +399,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/using-chatgpt-to-check-sql-code?u=76281980&t=179)** Not to say you don't need this course.
 >
-> **[3:01](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/using-chatgpt-to-check-sql-code?u=76281980&t=181)** You still definitely need this course to understand the basics of SQL and why the language is structured the way it is.
+> **[3:01](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/using-chatgpt-to-check-sql-code?u=76281980&t=181)** You still definitely need this course to understand the basics of [[SQL]] and why the language is structured the way it is.
 >
 > **[3:06](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/using-chatgpt-to-check-sql-code?u=76281980&t=186)** But this is your number one super helpful learning companion, and I urge you to get on board with ChatGPT.
 
@@ -423,8 +417,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The basic SELECT query
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/the-basic-select-query?u=76281980)
+#### [The basic SELECT query](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/the-basic-select-query?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -464,15 +457,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2)
 > **Env Vars:** select (7), where (3), order (2), distinct (1)
 > **SQL:** select (7), where (3), order by (2)
 > **Warnings:** note that (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Aggregated results with GROUP BY
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/aggregated-results-with-group-by?u=76281980)
+#### [Aggregated results with GROUP BY](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/aggregated-results-with-group-by?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -518,15 +509,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **Non-Speech:** (typing) (4)
 > **Code Identifiers:** payment_id (2)
 > **Env Vars:** instructor (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Wildcards and aliases
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/wildcards-and-aliases?u=76281980)
+#### [Wildcards and aliases](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/wildcards-and-aliases?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -548,7 +537,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/wildcards-and-aliases?u=76281980&t=43)** A epic drama of a feminist.
 >
-> **[0:46](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/wildcards-and-aliases?u=76281980&t=46)** Okay, so it's compared that to the word film and found nothing.
+> **[0:46](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/wildcards-and-aliases?u=76281980&t=46)** Okay, so it's compared that to the [[Microsoft Word|word]] film and found nothing.
 >
 > **[0:51](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/wildcards-and-aliases?u=76281980&t=51)** Now, what if we say select star from film where description like drama?
 >
@@ -560,13 +549,13 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/wildcards-and-aliases?u=76281980&t=74)** It can stand for any number of other characters.
 >
-> **[1:17](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/wildcards-and-aliases?u=76281980&t=77)** SQL uses two wild cards; the percent sign and the underscore.
+> **[1:17](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/wildcards-and-aliases?u=76281980&t=77)** [[SQL]] uses two wild cards; the percent sign and the underscore.
 >
 > **[1:22](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/wildcards-and-aliases?u=76281980&t=82)** The percent sign is more accommodating than the underscore.
 >
 > **[1:25](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/wildcards-and-aliases?u=76281980&t=85)** Let's just go to this SQL screen instead.
 >
-> **[1:29](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/wildcards-and-aliases?u=76281980&t=89)** Select star from actor where first name like John percent.
+> **[1:29](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/wildcards-and-aliases?u=76281980&t=89)** Select star from actor where first name like [[John the Ripper|John]] percent.
 >
 > **[1:45](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/wildcards-and-aliases?u=76281980&t=105)** This will return a match for John as we'd expect, and for Johnny.
 >
@@ -652,7 +641,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (5), [[Microsoft Word|Word]] (3), database (1)
+> **Frameworks & Libraries:** [[SQL]] (5), [[John the Ripper|John]] (4), [[Microsoft Word|Word]] (3)
 > **CLI Commands:** make (4), find (1)
 > **Env Vars:** sql (5)
 > **Analogies:** for example (2), similar to (1), it's like (1), such as (1)
@@ -661,8 +650,7 @@ created: 2026-05-02
 > **Non-Speech:** (keyboard typing) (2)
 > **Cross-References:** in the last (1)
 
-#### Merging tables with JOIN
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/merging-tables-with-join?u=76281980)
+#### [Merging tables with JOIN](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/merging-tables-with-join?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -688,7 +676,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/merging-tables-with-join?u=76281980&t=53)** That's because an unqualified joined statement is interpreted as an inner join.
 >
-> **[0:59](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/merging-tables-with-join?u=76281980&t=59)** And when I say unqualified join statement I mean if you haven't put inner, outer, left, or right in front of it, you just put the word join.
+> **[0:59](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/merging-tables-with-join?u=76281980&t=59)** And when I say unqualified join statement I mean if you haven't put inner, outer, left, or right in front of it, you just put the [[Microsoft Word|word]] join.
 >
 > **[1:07](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/merging-tables-with-join?u=76281980&t=67)** The top left Venn diagram here shows an inner join, so that's a join as well.
 >
@@ -744,7 +732,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), database (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **SQL:** join (4)
 > **Env Vars:** join (4)
 > **CLI Commands:** find (1)
@@ -753,8 +741,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Use string functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/use-string-functions?u=76281980)
+#### [Use string functions](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/use-string-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -762,7 +749,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/use-string-functions?u=76281980&t=5)** They might capitalize the text, locate one string inside another, replace all the spaces with underscores, or act as a VLOOKUP and many, many other things.
 >
-> **[0:15](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/use-string-functions?u=76281980&t=15)** Each version of SQL has different string functions but some are common across versions.
+> **[0:15](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/use-string-functions?u=76281980&t=15)** Each version of [[SQL]] has different string functions but some are common across versions.
 >
 > **[0:19](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/use-string-functions?u=76281980&t=19)** And luckily for us, these are the most useful.
 >
@@ -776,7 +763,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/use-string-functions?u=76281980&t=45)** And there we get all the names.
 >
-> **[0:47](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/use-string-functions?u=76281980&t=47)** Now notice that one there meant the start of the word so it's not zero indexed.
+> **[0:47](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/use-string-functions?u=76281980&t=47)** Now notice that one there meant the start of the [[Microsoft Word|word]] so it's not zero indexed.
 >
 > **[0:53](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/use-string-functions?u=76281980&t=53)** In some cases you need zero to indicate the start, in this case not.
 >
@@ -826,7 +813,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/use-string-functions?u=76281980&t=176)** So we'll say, SELECT TRIM leading A space, 'cause we want to take the space away as well, FROM description as trimmed FROM film.
 >
-> **[3:10](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/use-string-functions?u=76281980&t=190)** And this should work in MySQL, Oracle and Postgre.
+> **[3:10](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/use-string-functions?u=76281980&t=190)** And this should work in [[MySQL]], Oracle and Postgre.
 >
 > **[3:15](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/use-string-functions?u=76281980&t=195)** And there you can see all of those As have gone.
 >
@@ -834,7 +821,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/use-string-functions?u=76281980&t=204)** Or you could use the word both to take characters from both ends.
 >
-> **[3:29](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/use-string-functions?u=76281980&t=209)** In Microsoft, that instead would be select trim A FROM description AS trimmed from film.
+> **[3:29](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/use-string-functions?u=76281980&t=209)** In [[Microsoft]], that instead would be select trim A FROM description AS trimmed from film.
 >
 > **[3:37](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/use-string-functions?u=76281980&t=217)** So if you're using the trim function, you are not using leading or trailing.
 >
@@ -930,7 +917,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (6), [[Microsoft Word|Word]] (5), [[MySQL]] (3), database (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[SQL]] (6), [[Microsoft Word|Word]] (5), [[MySQL]] (3), [[Microsoft]] (1)
 > **Env Vars:** sql (6), abc (6), select (5), replace (4), length (4)
 > **CLI Commands:** mysql (3), find (2)
 > **SQL:** select (5)
@@ -939,8 +926,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use number functions with grouped data
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/use-number-functions-with-grouped-data?u=76281980)
+#### [Use number functions with grouped data](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/use-number-functions-with-grouped-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1004,7 +990,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/use-number-functions-with-grouped-data?u=76281980&t=159)** And what I'm doing here really is making sure that this is a fair comparison.
 >
-> **[2:43](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/use-number-functions-with-grouped-data?u=76281980&t=163)** This is just an analysis thing, rather than an SQL thing.
+> **[2:43](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/use-number-functions-with-grouped-data?u=76281980&t=163)** This is just an analysis thing, rather than an [[SQL]] thing.
 >
 > **[2:47](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/use-number-functions-with-grouped-data?u=76281980&t=167)** It doesn't appear to be a fair comparison.
 >
@@ -1048,7 +1034,7 @@ created: 2026-05-02
 >
 > **[4:46](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/use-number-functions-with-grouped-data?u=76281980&t=286)** And so that's returned with a position of zero.
 >
-> **[4:49](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/use-number-functions-with-grouped-data?u=76281980&t=289)** It's not something you would often use, but imagine how long that would take in Excel.
+> **[4:49](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/use-number-functions-with-grouped-data?u=76281980&t=289)** It's not something you would often use, but imagine how long that would take in [[Microsoft Excel|Excel]].
 >
 > **[4:56](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/use-number-functions-with-grouped-data?u=76281980&t=296)** Another function I use a great deal is mod, short for modifier.
 >
@@ -1082,7 +1068,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), [[SQL]] (4), power (1), data (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Microsoft Excel|Excel]] (1)
 > **Versions:** 2.99 (3), 0.99 (2), 4.2 (2), 11.99 (1), 2.8 (1)
 > **Code Identifiers:** yr_mth (3), payment_id (3)
 > **Env Vars:** sql (4)
@@ -1090,14 +1076,13 @@ created: 2026-05-02
 > **Analogies:** imagine (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use date functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/use-date-functions?u=76281980)
+#### [Use date functions](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/use-date-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/use-date-functions?u=76281980&t=0)** - [Instructor] Dates are tricky, there's no getting around it.
 >
-> **[0:03](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/use-date-functions?u=76281980&t=3)** Part of the problem is that SQL date handling differs widely between versions of SQL.
+> **[0:03](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/use-date-functions?u=76281980&t=3)** Part of the problem is that [[SQL]] date handling differs widely between versions of SQL.
 >
 > **[0:08](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/use-date-functions?u=76281980&t=8)** I can't give you a definitive guide because many settings such as currency or thousand separators are set at the database level with your local settings.
 >
@@ -1111,13 +1096,13 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/use-date-functions?u=76281980&t=44)** It can be stored as a date, date time or a time stamp.
 >
-> **[0:49](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/use-date-functions?u=76281980&t=49)** Time stamps are not generally human readable but they take up less space in the database and are indexed faster, so databases love them.
+> **[0:49](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/use-date-functions?u=76281980&t=49)** Time stamps are not generally human readable but they take up less space in the database and are indexed faster, so [[Databases]] love them.
 >
 > **[0:57](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/use-date-functions?u=76281980&t=57)** The actual number of a time stamp is the number of seconds since midnight on the 1st of January, 1970, which is also called the Unix epoch.
 >
 > **[1:06](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/use-date-functions?u=76281980&t=66)** So if you need to store dates earlier than 1970 or while we're on the subject, years past 2038 do not use time stamp.
 >
-> **[1:15](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/use-date-functions?u=76281980&t=75)** In MySQL, dates are stored in the format, like that.
+> **[1:15](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/use-date-functions?u=76281980&t=75)** In [[MySQL]], dates are stored in the format, like that.
 >
 > **[1:24](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/use-date-functions?u=76281980&t=84)** You can display the date in other ways but you cannot change the default for how it is stored.
 >
@@ -1141,13 +1126,13 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/use-date-functions?u=76281980&t=181)** Just adding a zero has changed the way that time is formatted.
 >
-> **[3:07](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/use-date-functions?u=76281980&t=187)** In Transact-SQL, you would use 'GETDATE' and 'CURRENT_TIMESTAMP' to get the current date and time.
+> **[3:07](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/use-date-functions?u=76281980&t=187)** In [[Transact-SQL (T-SQL)|Transact-SQL]], you would use 'GETDATE' and 'CURRENT_TIMESTAMP' to get the current date and time.
 >
 > **[3:15](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/use-date-functions?u=76281980&t=195)** To see the date format that's setting the one that you're currently using in T-SQL run 'DBCC USEROPTIONS' semicolon.
 >
 > **[3:23](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/use-date-functions?u=76281980&t=203)** This will give you the format that the database will expect to receive dates in and the format in which it will display dates.
 >
-> **[3:30](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/use-date-functions?u=76281980&t=210)** This site has a better summary of the Microsoft of the kind of date formats that you can use.
+> **[3:30](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/use-date-functions?u=76281980&t=210)** This site has a better summary of the [[Microsoft]] of the kind of date formats that you can use.
 >
 > **[3:35](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/use-date-functions?u=76281980&t=215)** It shows how you can work out your database settings.
 >
@@ -1155,7 +1140,7 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/use-date-functions?u=76281980&t=229)** The site also explains how to use 'FORMAT', one of the most powerful and varied functions in any version of SQL.
 >
-> **[3:56](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/use-date-functions?u=76281980&t=236)** PostgreSQL uses yyyy/mm/dd format for inserting and retrieving date values, but lets you insert and retrieve in various alternative formats.
+> **[3:56](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/use-date-functions?u=76281980&t=236)** [[PostgreSQL]] uses yyyy/mm/dd format for inserting and retrieving date values, but lets you insert and retrieve in various alternative formats.
 >
 > **[4:09](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/use-date-functions?u=76281980&t=249)** As with the other versions of SQL, you can set up a date format preference for the database to remember or you can convert the format ad hoc as you pull data out.
 >
@@ -1195,7 +1180,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), [[SQL]] (6), [[MySQL]] (4), data (3), [[Databases]] (1)
+> **Frameworks & Libraries:** [[SQL]] (6), [[MySQL]] (4), [[Databases]] (1), [[Transact-SQL (T-SQL)|Transact-sql]] (1), [[Microsoft]] (1)
 > **Env Vars:** sql (7), set (2), select (1), date_format (1), curdate (1)
 > **CLI Commands:** mysql (4), make (1)
 > **Analogies:** for example (3), such as (1)
@@ -1204,12 +1189,11 @@ created: 2026-05-02
 > **URLs:** [postgre.com](https://postgre.com) (1)
 > **SQL:** select (1)
 
-#### Challenge: Report average cost by staff
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/challenge-report-average-cost-by-staff?u=76281980)
+#### [Challenge: Report average cost by staff](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/challenge-report-average-cost-by-staff?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/challenge-report-average-cost-by-staff?u=76281980&t=0)** - [Instructor] Imagine you work in the movie rental head office doing payment analysis and you want to know if there is any difference between staff members in the average cost of the movies they've rented out in 2006.
+> **[0:00](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/challenge-report-average-cost-by-staff?u=76281980&t=0)** - [Instructor] Imagine you work in the movie rental head [[Microsoft Office|office]] doing payment analysis and you want to know if there is any difference between staff members in the average cost of the movies they've rented out in 2006.
 >
 > **[0:18](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/challenge-report-average-cost-by-staff?u=76281980&t=18)** You're going to look at the payment and staff tables and compare the average cost of the amount column by staff member.
 >
@@ -1231,8 +1215,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Report average cost by staff
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/solution-report-average-cost-by-staff?u=76281980)
+#### [Solution: Report average cost by staff](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/solution-report-average-cost-by-staff?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1272,11 +1255,11 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/solution-report-average-cost-by-staff?u=76281980&t=100)** And there we go.
 >
-> **[1:41](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/solution-report-average-cost-by-staff?u=76281980&t=101)** We can see that John Stevens had, on average, a higher rental rate than his colleague, Mike.
+> **[1:41](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/solution-report-average-cost-by-staff?u=76281980&t=101)** We can see that [[John the Ripper|John]] Stevens had, on average, a higher rental rate than his colleague, Mike.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** concat (1)
 > **Speakers:** - and (1)
@@ -1287,8 +1270,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### UPDATE fields in a table
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/update-fields-in-a-table?u=76281980)
+#### [UPDATE fields in a table](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/update-fields-in-a-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1320,7 +1302,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/update-fields-in-a-table?u=76281980&t=66)** Say update the actor table, and those backs ticks again are in my sequel feature.
 >
-> **[1:12](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/update-fields-in-a-table?u=76281980&t=72)** You might not need them or might not even be able to use them depending on which version of SQL you are using.
+> **[1:12](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/update-fields-in-a-table?u=76281980&t=72)** You might not need them or might not even be able to use them depending on which version of [[SQL]] you are using.
 >
 > **[1:18](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/update-fields-in-a-table?u=76281980&t=78)** Update actors, set first name equal to Penny where the actor ID is equal to one.
 >
@@ -1332,7 +1314,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/update-fields-in-a-table?u=76281980&t=104)** Now sometimes we want to update based on a value in a different table and not just a hard coded value.
 >
-> **[1:50](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/update-fields-in-a-table?u=76281980&t=110)** So when we use the word Penny, we were providing a hard coded value.
+> **[1:50](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/update-fields-in-a-table?u=76281980&t=110)** So when we use the [[Microsoft Word|word]] Penny, we were providing a hard coded value.
 >
 > **[1:54](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/update-fields-in-a-table?u=76281980&t=114)** We typed a static value in.
 >
@@ -1434,14 +1416,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), data (2), database (2), feature (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[SQL]] (1)
 > **Env Vars:** sql (1), substr (1)
 > **Code Identifiers:** phpmyadmin (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [speaker] (1)
 
-#### Common issues with the UPDATE command
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/common-issues-with-the-update-command?u=76281980)
+#### [Common issues with the UPDATE command](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/common-issues-with-the-update-command?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1461,7 +1442,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/common-issues-with-the-update-command?u=76281980&t=35)** It's currently for the top row it says forty seven MySakila Drive, So it might appear confusing that we're using the same field name as table name, but that's down to whoever designed this database.
 >
-> **[0:46](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/common-issues-with-the-update-command?u=76281980&t=46)** So let's try running that, we're going to try and set the address field to be null error, it says, and it won't let me scroll to the error, which is helpful, but here it says under MySQL said, it says hashtag 1 0 4 8 column address cannot be null.
+> **[0:46](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/common-issues-with-the-update-command?u=76281980&t=46)** So let's try running that, we're going to try and set the address field to be null error, it says, and it won't let me scroll to the error, which is helpful, but here it says under [[MySQL]] said, it says hashtag 1 0 4 8 column address cannot be null.
 >
 > **[1:02](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/common-issues-with-the-update-command?u=76281980&t=62)** So let's look at the structure tab and see what's going on, and the address field there, which is line two.
 >
@@ -1509,7 +1490,7 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/common-issues-with-the-update-command?u=76281980&t=231)** Okay, we've got English seven, Italian seven, Japanese eight, and so on.
 >
-> **[3:56](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/common-issues-with-the-update-command?u=76281980&t=236)** Now this table is telling you that the length of the word English is seven.
+> **[3:56](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/common-issues-with-the-update-command?u=76281980&t=236)** Now this table is telling you that the length of the [[Microsoft Word|word]] English is seven.
 >
 > **[4:02](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/common-issues-with-the-update-command?u=76281980&t=242)** And of course that sounds about right, but behind the scenes the database has gone off and stored each of these fields as a char of twenty.
 >
@@ -1563,13 +1544,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), database (8), [[MySQL]] (4), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[MySQL]] (4), [[Microsoft Word|Word]] (2)
 > **CLI Commands:** mysql (4), find (1)
 > **Definitions:** is a  (2), is an  (1), in other words (1)
 > **Speakers:** - things (1)
 
-#### Automating your query creation
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/automating-your-query-creation?u=76281980)
+#### [Automating your query creation](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/automating-your-query-creation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1577,7 +1557,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/automating-your-query-creation?u=76281980&t=5)** If the thought of doing your task manually fills you with dread, consider automating your query creation.
 >
-> **[0:11](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/automating-your-query-creation?u=76281980&t=11)** I tend to use Excel for this, and I'm going to show you how I do it.
+> **[0:11](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/automating-your-query-creation?u=76281980&t=11)** I tend to use [[Microsoft Excel|Excel]] for this, and I'm going to show you how I do it.
 >
 > **[0:14](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/automating-your-query-creation?u=76281980&t=14)** Now, you can run multiple update queries by separating them with semicolons.
 >
@@ -1649,7 +1629,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), next (1), database (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4)
 > **Env Vars:** update (3), where (3), set (2), concat (2)
 > **SQL:** update (3), where (3)
 > **Code Identifiers:** film_id (3), phpmyadmin (2)
@@ -1658,8 +1638,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Updating a field using JOIN
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/updating-a-field-using-join?u=76281980)
+#### [Updating a field using JOIN](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/updating-a-field-using-join?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1703,15 +1682,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Updating dynamically
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/updating-dynamically?u=76281980)
+#### [Updating dynamically](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/updating-dynamically?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1885,14 +1862,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), hit (1), next (1), data (1)
 > **Definitions:** is a  (2), is called (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (2)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Update the film table using JOIN
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/challenge-update-the-film-table-using-join?u=76281980)
+#### [Challenge: Update the film table using JOIN](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/challenge-update-the-film-table-using-join?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1912,12 +1887,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Update the film table using JOIN
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/solution-update-the-film-table-using-join?u=76281980)
+#### [Solution: Update the film table using JOIN](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/solution-update-the-film-table-using-join?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1957,7 +1930,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/solution-update-the-film-table-using-join?u=76281980&t=111)** So the next step is to get the year of last update.
 >
-> **[1:57](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/solution-update-the-film-table-using-join?u=76281980&t=117)** And in my SQL there is a year date function that we can use which is handy.
+> **[1:57](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/solution-update-the-film-table-using-join?u=76281980&t=117)** And in my [[SQL]] there is a year date function that we can use which is handy.
 >
 > **[2:04](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/solution-update-the-film-table-using-join?u=76281980&t=124)** And there we have extracted the year, which in most cases is already the same as the release year.
 >
@@ -1975,7 +1948,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** sql (1)
@@ -1987,8 +1960,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### INSERT rows into a table
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/insert-rows-into-a-table?u=76281980)
+#### [INSERT rows into a table](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/insert-rows-into-a-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2100,7 +2072,7 @@ created: 2026-05-02
 >
 > **[4:18](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/insert-rows-into-a-table?u=76281980&t=258)** That's worked using a variable.
 >
-> **[4:21](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/insert-rows-into-a-table?u=76281980&t=261)** Now, the variable name will be different in different versions of SQL by the way, but all of them have a version.
+> **[4:21](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/insert-rows-into-a-table?u=76281980&t=261)** Now, the variable name will be different in different versions of [[SQL]] by the way, but all of them have a version.
 >
 > **[4:28](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/insert-rows-into-a-table?u=76281980&t=268)** So let's look now at the different method.
 >
@@ -2152,7 +2124,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), database (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** sqla (1), sql (1)
 > **UI Navigation:** select the (1), click on (1)
@@ -2161,8 +2133,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Prerequisites:** set up (1)
 
-#### Common issues with the INSERT command
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/common-issues-with-the-insert-command?u=76281980)
+#### [Common issues with the INSERT command](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/common-issues-with-the-insert-command?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2186,7 +2157,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/common-issues-with-the-insert-command?u=76281980&t=55)** It's important to read and understand your errors.
 >
-> **[0:59](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/common-issues-with-the-insert-command?u=76281980&t=59)** Primary key fields automatically check for uniqueness in most versions of SQL, and so the row was not inserted.
+> **[0:59](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/common-issues-with-the-insert-command?u=76281980&t=59)** Primary key fields automatically check for uniqueness in most versions of [[SQL]], and so the row was not inserted.
 >
 > **[1:05](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/common-issues-with-the-insert-command?u=76281980&t=65)** if we'd specified a new value for category ID there, such as 17, that would've worked.
 >
@@ -2318,7 +2289,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), database (5), [[SQL]] (2)
+> **Frameworks & Libraries:** [[SQL]] (2)
 > **Env Vars:** sql (2), null (1), unique (1)
 > **Versions:** 5.33333 (3), 5.33 (1)
 > **Analogies:** such as (2), for example (1)
@@ -2327,12 +2298,11 @@ created: 2026-05-02
 > **Code Identifiers:** phpmyadmin (1)
 > **UI Navigation:** go to (1)
 
-#### Using MERGE instead of UPDATE/INSERT
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/using-merge-instead-of-update-insert?u=76281980)
+#### [Using MERGE instead of UPDATE/INSERT](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/using-merge-instead-of-update-insert?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/using-merge-instead-of-update-insert?u=76281980&t=0)** - SQL has been around since the seventies but the merge command was only entered into the SQL standard in 2008.
+> **[0:00](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/using-merge-instead-of-update-insert?u=76281980&t=0)** - [[SQL]] has been around since the seventies but the merge command was only entered into the SQL standard in 2008.
 >
 > **[0:07](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/using-merge-instead-of-update-insert?u=76281980&t=7)** So it's a relative newcomer.
 >
@@ -2356,7 +2326,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/using-merge-instead-of-update-insert?u=76281980&t=67)** Now the merge statement in its normal form is not available on my SQL.
 >
-> **[1:11](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/using-merge-instead-of-update-insert?u=76281980&t=71)** And so we are going to look at the T SQL syntax for SQL Server, Microsoft SQL Server first.
+> **[1:11](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/using-merge-instead-of-update-insert?u=76281980&t=71)** And so we are going to look at the T SQL syntax for [[Microsoft SQL Server|SQL Server]], [[Microsoft SQL Server]] first.
 >
 > **[1:17](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/using-merge-instead-of-update-insert?u=76281980&t=77)** There's a pretty good explanation at SQL Shack, which we are going to look at now.
 >
@@ -2370,7 +2340,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/using-merge-instead-of-update-insert?u=76281980&t=109)** And then it uses an insert statement to populate each of those tables.
 >
-> **[1:53](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/using-merge-instead-of-update-insert?u=76281980&t=113)** So we have source and target, each of them has four rows and then at the end it says select star from source products and target products.
+> **[1:53](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/using-merge-instead-of-update-insert?u=76281980&t=113)** So we have source and target, each of them has four rows and then at the end it says select star from source [[Microsoft Products|products]] and target products.
 >
 > **[2:01](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/using-merge-instead-of-update-insert?u=76281980&t=121)** And these two tables that you can see now are the source at the top and the target at the bottom.
 >
@@ -2476,7 +2446,7 @@ created: 2026-05-02
 >
 > **[7:08](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/using-merge-instead-of-update-insert?u=76281980&t=428)** The insert runs first, that's the top line.
 >
-> **[7:11](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/using-merge-instead-of-update-insert?u=76281980&t=431)** And if it throws an error by duplicating the primary key or unique index, MySQL quashes the error and then runs the uptake, which is the second row.
+> **[7:11](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/using-merge-instead-of-update-insert?u=76281980&t=431)** And if it throws an error by duplicating the primary key or unique index, [[MySQL]] quashes the error and then runs the uptake, which is the second row.
 >
 > **[7:22](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/using-merge-instead-of-update-insert?u=76281980&t=442)** So it works a little bit differently than the merge statement.
 >
@@ -2506,7 +2476,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (9), database (9), product (7), [[Microsoft Products|Products]] (6), [[MySQL]] (2)
+> **Frameworks & Libraries:** [[SQL]] (9), [[Microsoft Products|Products]] (6), [[MySQL]] (2), [[Microsoft SQL Server|Sql server]] (1), [[Microsoft SQL Server]] (1)
 > **Env Vars:** sql (11)
 > **CLI Commands:** mysql (2), find (1)
 > **Warnings:** note that (2), be careful (1)
@@ -2515,8 +2485,7 @@ created: 2026-05-02
 > **Code Identifiers:** mysql (1)
 > **Analogies:** such as (1)
 
-#### Duplicate table with SELECT
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/duplicate-table-with-select?u=76281980)
+#### [Duplicate table with SELECT](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/duplicate-table-with-select?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2560,11 +2529,11 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/duplicate-table-with-select?u=76281980&t=117)** So that's a bad example but it doesn't copy across your triggers and your constraints and it copies across everything else.
 >
-> **[2:06](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/duplicate-table-with-select?u=76281980&t=126)** One alternative to create table in Oracle or SQL server anyway is select into, and the syntax goes like this.
+> **[2:06](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/duplicate-table-with-select?u=76281980&t=126)** One alternative to create table in Oracle or [[Microsoft SQL Server|SQL server]] anyway is select into, and the syntax goes like this.
 >
 > **[2:17](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/duplicate-table-with-select?u=76281980&t=137)** Select star into category, say category three from category.
 >
-> **[2:26](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/duplicate-table-with-select?u=76281980&t=146)** Okay, I can't press go 'cause it doesn't work in my SQL.
+> **[2:26](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/duplicate-table-with-select?u=76281980&t=146)** Okay, I can't press go 'cause it doesn't work in my [[SQL]].
 >
 > **[2:29](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/duplicate-table-with-select?u=76281980&t=149)** This will again, copy the data and the structure but not the constraints, keys, indexes, or triggers.
 >
@@ -2632,15 +2601,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), data (4), [[SQL]] (3), [[Microsoft SQL Server|Sql server]] (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** sql (4)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1), for instance (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Insert a row into the film table
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/challenge-insert-a-row-into-the-film-table?u=76281980)
+#### [Challenge: Insert a row into the film table](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/challenge-insert-a-row-into-the-film-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2662,13 +2630,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat pop music) (1)
 
-#### Solution: Insert a row into the film table
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/solution-insert-a-row-into-the-film-table?u=76281980)
+#### [Solution: Insert a row into the film table](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/solution-insert-a-row-into-the-film-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2682,7 +2648,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/solution-insert-a-row-into-the-film-table?u=76281980&t=36)** We're going to need title, because it says NULL, No, and we're going to need language ID, which is also not nullable.
 >
-> **[0:45](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/solution-insert-a-row-into-the-film-table?u=76281980&t=45)** But look, the rest are either nullable or they have a default value.
+> **[0:45](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/solution-insert-a-row-into-the-film-table?u=76281980&t=45)** But look, the [[Representational State Transfer (REST)|rest]] are either nullable or they have a default value.
 >
 > **[0:50](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/solution-insert-a-row-into-the-film-table?u=76281980&t=50)** Scroll back up so you can see the column headings.
 >
@@ -2696,7 +2662,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), database (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** null (2)
 > **Versions:** 4.99 (1)
 > **Speakers:** - [instructor] (1)
@@ -2707,8 +2673,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### DELETE rows from a table
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/delete-rows-from-a-table?u=76281980)
+#### [DELETE rows from a table](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/delete-rows-from-a-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2736,7 +2701,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/delete-rows-from-a-table?u=76281980&t=69)** And then we'll get category two again, an action which incidentally was the first row in the table, has gone.
 >
-> **[1:15](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/delete-rows-from-a-table?u=76281980&t=75)** Databases are like living organisms, parts of them grow, other parts die and you regularly need to change the very structure of the database to stay relevant to the outside world.
+> **[1:15](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/delete-rows-from-a-table?u=76281980&t=75)** [[Databases]] are like living organisms, parts of them grow, other parts die and you regularly need to change the very structure of the database to stay relevant to the outside world.
 >
 > **[1:26](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/delete-rows-from-a-table?u=76281980&t=86)** Imagine that you run an annual marathon and keep a table full of all the runners.
 >
@@ -2782,7 +2747,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/delete-rows-from-a-table?u=76281980&t=203)** Let's see what it says.
 >
-> **[3:24](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/delete-rows-from-a-table?u=76281980&t=204)** MySQL said, "1451 cannot delete or update a parent row, foreign key constraint fails."
+> **[3:24](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/delete-rows-from-a-table?u=76281980&t=204)** [[MySQL]] said, "1451 cannot delete or update a parent row, foreign key constraint fails."
 >
 > **[3:32](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/delete-rows-from-a-table?u=76281980&t=212)** So let's look now at the structure tab and relation view and see what constraints are there.
 >
@@ -2816,15 +2781,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), data (3), [[Databases]] (1), [[MySQL]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[MySQL]] (1)
 > **Analogies:** imagine (2), for example (1)
 > **CLI Commands:** mysql (1)
 > **Code Identifiers:** phpmyadmin (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [teacher] (1)
 
-#### DROP an entire table
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/drop-an-entire-table?u=76281980)
+#### [DROP an entire table](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/drop-an-entire-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2912,14 +2876,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), database (1)
 > **Env Vars:** drop (5)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - [narrator] (1)
 
-#### ALTER TABLE for modifying fields
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/alter-table-for-modifying-fields?u=76281980)
+#### [ALTER TABLE for modifying fields](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/alter-table-for-modifying-fields?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2969,7 +2931,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/alter-table-for-modifying-fields?u=76281980&t=138)** To make this change in the database we need to change the data type.
 >
-> **[2:22](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/alter-table-for-modifying-fields?u=76281980&t=142)** My Sequel has a data type called year not all versions of SQL do, but otherwise you could just use a numeric data type of length four.
+> **[2:22](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/alter-table-for-modifying-fields?u=76281980&t=142)** My Sequel has a data type called year not all versions of [[SQL]] do, but otherwise you could just use a numeric data type of length four.
 >
 > **[2:32](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/alter-table-for-modifying-fields?u=76281980&t=152)** But within My Sequel, we're going to say alter table customer, modify column, date of birth year.
 >
@@ -2985,7 +2947,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), database (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (1)
 > **Env Vars:** sql (1)
@@ -2994,8 +2956,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - sometimes (1)
 
-#### Problems with foreign key constraints
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/problems-with-foreign-key-constraints?u=76281980)
+#### [Problems with foreign key constraints](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/problems-with-foreign-key-constraints?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3045,7 +3006,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/problems-with-foreign-key-constraints?u=76281980&t=136)** And this is just to serve as a reminder, be very careful using delete.
 >
-> **[2:21](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/problems-with-foreign-key-constraints?u=76281980&t=141)** You can use SQL to modify the constraints set up or you can use this screen as I'm showing you now and do it manually.
+> **[2:21](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/problems-with-foreign-key-constraints?u=76281980&t=141)** You can use [[SQL]] to modify the constraints set up or you can use this screen as I'm showing you now and do it manually.
 >
 > **[2:28](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/problems-with-foreign-key-constraints?u=76281980&t=148)** The important takeaway point here is remember that these setups exist and could be triggered without you intending it.
 >
@@ -3053,7 +3014,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), hit (1), data (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Code Identifiers:** film_id (2), category_id (1)
 > **Prerequisites:** setup (1), set up (1)
 > **Env Vars:** sql (1)
@@ -3062,8 +3023,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Challenge: Delete from the country table
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/challenge-delete-from-the-country-table?u=76281980)
+#### [Challenge: Delete from the country table](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/challenge-delete-from-the-country-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3079,7 +3039,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/challenge-delete-from-the-country-table?u=76281980&t=28)** I've tried to minimize this in this course, but in this one example, I want you to understand how an apparently small deletion can have big consequences across the database.
 >
-> **[0:39](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/challenge-delete-from-the-country-table?u=76281980&t=39)** A word of advice, read any error messages you come across carefully and find a way to change any tables you need in order to allow the deletion of the row that you've chosen from the country table.
+> **[0:39](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/challenge-delete-from-the-country-table?u=76281980&t=39)** A [[Microsoft Word|word]] of advice, read any error messages you come across carefully and find a way to change any tables you need in order to allow the deletion of the row that you've chosen from the country table.
 >
 > **[0:51](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/challenge-delete-from-the-country-table?u=76281980&t=51)** This could easily take you 10 minutes.
 >
@@ -3087,14 +3047,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Delete from the country table
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/solution-delete-from-the-country-table?u=76281980)
+#### [Solution: Delete from the country table](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/solution-delete-from-the-country-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3270,7 +3229,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3)
 > **UI Navigation:** go to (2)
 > **Code Identifiers:** fk_city_country (1)
 > **Cross-References:** go back to (1)
@@ -3282,12 +3240,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/next-steps?u=76281980&t=0)** - [Emma] I really hope that you feel this course has taken you forward in your understanding of SQL.
+> **[0:00](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/next-steps?u=76281980&t=0)** - [Emma] I really hope that you feel this course has taken you forward in your understanding of [[SQL]].
 >
 > **[0:05](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/next-steps?u=76281980&t=5)** You should now feel confident to edit, insert, and delete data from your database.
 >
@@ -3297,7 +3254,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), [[SQL]] (1), data (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [emma] (1)
 

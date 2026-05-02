@@ -90,16 +90,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Get going with data access in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jdbc-24697410/get-going-with-data-access-in-java?u=76281980)
+#### [Get going with data access in Java](https://www.linkedin.com/learning/learning-jdbc-24697410/get-going-with-data-access-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-jdbc-24697410/get-going-with-data-access-in-java?u=76281980&t=0)** - [Frank] Most applications need access to data.
 >
-> **[0:03](https://www.linkedin.com/learning/learning-jdbc-24697410/get-going-with-data-access-in-java?u=76281980&t=3)** In the Java world, the starting place is Java Database Connectivity, or JDBC.
+> **[0:03](https://www.linkedin.com/learning/learning-jdbc-24697410/get-going-with-data-access-in-java?u=76281980&t=3)** In the [[Java]] world, the starting place is [[Java Database Connectivity (JDBC)|Java Database Connectivity]], or [[Java Database Connectivity (JDBC)|JDBC]].
 >
-> **[0:09](https://www.linkedin.com/learning/learning-jdbc-24697410/get-going-with-data-access-in-java?u=76281980&t=9)** Effectively using JDBC is a matter of focusing on both the use of well-structured SQL and consistent use of the JDBC libraries.
+> **[0:09](https://www.linkedin.com/learning/learning-jdbc-24697410/get-going-with-data-access-in-java?u=76281980&t=9)** Effectively using JDBC is a matter of focusing on both the use of well-structured [[SQL]] and consistent use of the JDBC libraries.
 >
 > **[0:19](https://www.linkedin.com/learning/learning-jdbc-24697410/get-going-with-data-access-in-java?u=76281980&t=19)** Hi, my name is Frank Moley.
 >
@@ -109,19 +108,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java Database Connectivity (JDBC)|Jdbc]] (5), data (2), [[Java]] (1), [[Java Database Connectivity (JDBC)|Java database connectivity]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Java Database Connectivity (JDBC)|Jdbc]] (5), [[Java]] (1), [[Java Database Connectivity (JDBC)|Java database connectivity]] (1), [[SQL]] (1)
 > **Env Vars:** jdbc (5), sql (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [frank] (1)
 
-#### What you need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jdbc-24697410/what-you-need-to-know?u=76281980)
+#### [What you need to know](https://www.linkedin.com/learning/learning-jdbc-24697410/what-you-need-to-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-jdbc-24697410/what-you-need-to-know?u=76281980&t=0)** - [Instructor] There are a few things that you need to know to be successful in this course.
 >
-> **[0:04](https://www.linkedin.com/learning/learning-jdbc-24697410/what-you-need-to-know?u=76281980&t=4)** Java Database Connectivity, or JDBC, is a Java technology.
+> **[0:04](https://www.linkedin.com/learning/learning-jdbc-24697410/what-you-need-to-know?u=76281980&t=4)** [[Java Database Connectivity (JDBC)|Java Database Connectivity]], or [[Java Database Connectivity (JDBC)|JDBC]], is a [[Java]] technology.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-jdbc-24697410/what-you-need-to-know?u=76281980&t=9)** As such, you will need to have basic Java knowledge.
 >
@@ -131,11 +129,11 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/learning-jdbc-24697410/what-you-need-to-know?u=76281980&t=25)** We also will be leveraging Maven a bit, so some basic Maven knowledge will help.
 >
-> **[0:31](https://www.linkedin.com/learning/learning-jdbc-24697410/what-you-need-to-know?u=76281980&t=31)** If you need to brush up on Maven, check out my course here on the LinkedIn Learning Library, "Introducing Maven".
+> **[0:31](https://www.linkedin.com/learning/learning-jdbc-24697410/what-you-need-to-know?u=76281980&t=31)** If you need to brush up on Maven, check out my course here on the [[LinkedIn]] Learning Library, "Introducing Maven".
 >
-> **[0:40](https://www.linkedin.com/learning/learning-jdbc-24697410/what-you-need-to-know?u=76281980&t=40)** This course uses GitHub Codsepaces to simplify the initial setup for you.
+> **[0:40](https://www.linkedin.com/learning/learning-jdbc-24697410/what-you-need-to-know?u=76281980&t=40)** This course uses [[GitHub]] Codsepaces to simplify the initial setup for you.
 >
-> **[0:45](https://www.linkedin.com/learning/learning-jdbc-24697410/what-you-need-to-know?u=76281980&t=45)** I'm going to walk through how I use GitHub Codespaces for this course.
+> **[0:45](https://www.linkedin.com/learning/learning-jdbc-24697410/what-you-need-to-know?u=76281980&t=45)** I'm going to walk through how I use GitHub [[Codespaces]] for this course.
 >
 > **[0:51](https://www.linkedin.com/learning/learning-jdbc-24697410/what-you-need-to-know?u=76281980&t=51)** Now we're going to start here in GitHub and this is the course documentation and I'm going to go over here to the Code button and I'm going to create a codespace.
 >
@@ -145,7 +143,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/learning-jdbc-24697410/what-you-need-to-know?u=76281980&t=72)** The reason for that is it needs to set up the virtual machine with the Docker images.
 >
-> **[1:16](https://www.linkedin.com/learning/learning-jdbc-24697410/what-you-need-to-know?u=76281980&t=76)** Now, what you're actually running is a development environment in a Docker image, and attached to that, using Docker Compose, is a database that is running and it's a traditional Postgres database running in a containerized environment with a local file system.
+> **[1:16](https://www.linkedin.com/learning/learning-jdbc-24697410/what-you-need-to-know?u=76281980&t=76)** Now, what you're actually running is a development environment in a Docker image, and attached to that, using Docker [[Jetpack Compose|Compose]], is a database that is running and it's a traditional [[PostgreSQL|Postgres]] database running in a containerized environment with a local file system.
 >
 > **[1:32](https://www.linkedin.com/learning/learning-jdbc-24697410/what-you-need-to-know?u=76281980&t=92)** That way, changes to the file system will actually withstand a restart.
 >
@@ -165,7 +163,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (4), [[GitHub]] (4), [[Codespaces]] (2), [[Jetpack Compose|Compose]] (2), database (2)
+> **Frameworks & Libraries:** [[Java]] (4), [[GitHub]] (4), [[Codespaces]] (2), [[Jetpack Compose|Compose]] (2), [[Java Database Connectivity (JDBC)|Java database connectivity]] (1)
 > **Tools:** github (4), terminal (2), vs code (1)
 > **CLI Commands:** docker (4), find (1)
 > **Definitions:** is a  (3)
@@ -179,14 +177,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Relational database management systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jdbc-24697410/relational-database-management-systems?u=76281980)
+#### [Relational database management systems](https://www.linkedin.com/learning/learning-jdbc-24697410/relational-database-management-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jdbc-24697410/relational-database-management-systems?u=76281980&t=0)** - [Instructor] JDBC is a technology for interacting with relational databases.
+> **[0:00](https://www.linkedin.com/learning/learning-jdbc-24697410/relational-database-management-systems?u=76281980&t=0)** - [Instructor] [[Java Database Connectivity (JDBC)|JDBC]] is a technology for interacting with [[Relational Databases]].
 >
-> **[0:05](https://www.linkedin.com/learning/learning-jdbc-24697410/relational-database-management-systems?u=76281980&t=5)** As such, an introduction to relational database management systems, or RDBMS, and relational theory is warranted in this course.
+> **[0:05](https://www.linkedin.com/learning/learning-jdbc-24697410/relational-database-management-systems?u=76281980&t=5)** As such, an introduction to relational [[Database Management]] systems, or RDBMS, and relational theory is warranted in this course.
 >
 > **[0:15](https://www.linkedin.com/learning/learning-jdbc-24697410/relational-database-management-systems?u=76281980&t=15)** Prior to relational databases, flat file systems were how data was traditionally stored.
 >
@@ -194,7 +191,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/learning-jdbc-24697410/relational-database-management-systems?u=76281980&t=32)** IBM would eventually begin developing System R at that same facility.
 >
-> **[0:39](https://www.linkedin.com/learning/learning-jdbc-24697410/relational-database-management-systems?u=76281980&t=39)** Larry Ellison of Software Development Laboratories, soon to be Relational Software Incorporated, mimicked most of the RDBMS, except for, of course, the error codes from System R and created a product called Oracle Database.
+> **[0:39](https://www.linkedin.com/learning/learning-jdbc-24697410/relational-database-management-systems?u=76281980&t=39)** Larry Ellison of [[Software Development]] Laboratories, soon to be Relational Software Incorporated, mimicked most of the RDBMS, except for, of course, the error codes from System R and created a product called Oracle Database.
 >
 > **[0:56](https://www.linkedin.com/learning/learning-jdbc-24697410/relational-database-management-systems?u=76281980&t=56)** They were the first to market.
 >
@@ -210,15 +207,15 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/learning-jdbc-24697410/relational-database-management-systems?u=76281980&t=88)** No RDBMS today implements all of these rules.
 >
-> **[1:34](https://www.linkedin.com/learning/learning-jdbc-24697410/relational-database-management-systems?u=76281980&t=94)** Part of the paper yielded the concept of normalized databases and normal form.
+> **[1:34](https://www.linkedin.com/learning/learning-jdbc-24697410/relational-database-management-systems?u=76281980&t=94)** Part of the paper yielded the concept of normalized [[Databases]] and normal form.
 >
 > **[1:40](https://www.linkedin.com/learning/learning-jdbc-24697410/relational-database-management-systems?u=76281980&t=100)** BCNF, or Boyce-Codd Normal Form, was a result of work after the paper on a stricter version of Third Normal Form.
 >
-> **[1:50](https://www.linkedin.com/learning/learning-jdbc-24697410/relational-database-management-systems?u=76281980&t=110)** Codd's Theorem of dealing with the equality of relational algebra and relational calculus is named after him.
+> **[1:50](https://www.linkedin.com/learning/learning-jdbc-24697410/relational-database-management-systems?u=76281980&t=110)** Codd's Theorem of dealing with the equality of relational algebra and relational [[Calculus]] is named after him.
 >
-> **[1:59](https://www.linkedin.com/learning/learning-jdbc-24697410/relational-database-management-systems?u=76281980&t=119)** I would be remiss if I didn't at least mention NoSQL databases.
+> **[1:59](https://www.linkedin.com/learning/learning-jdbc-24697410/relational-database-management-systems?u=76281980&t=119)** I would be remiss if I didn't at least mention [[NoSQL]] databases.
 >
-> **[2:03](https://www.linkedin.com/learning/learning-jdbc-24697410/relational-database-management-systems?u=76281980&t=123)** In the market today, especially in cloud computing, relational models have significant issues.
+> **[2:03](https://www.linkedin.com/learning/learning-jdbc-24697410/relational-database-management-systems?u=76281980&t=123)** In the market today, especially in [[Cloud Computing]], relational models have significant issues.
 >
 > **[2:11](https://www.linkedin.com/learning/learning-jdbc-24697410/relational-database-management-systems?u=76281980&t=131)** NoSQL has risen in many of these markets where globally distributed database is key.
 >
@@ -240,7 +237,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/learning-jdbc-24697410/relational-database-management-systems?u=76281980&t=200)** If you need to have atomic transactions, especially large-scale atomic transactions, those really require RDBMS or some sort of a transaction manager that can span a NoSQL database.
 >
-> **[3:36](https://www.linkedin.com/learning/learning-jdbc-24697410/relational-database-management-systems?u=76281980&t=216)** No SQL databases, however, Excel in distributed systems because many of them were designed from the ground up to work in a distributed fashion, whereas RDBMS was not the case.
+> **[3:36](https://www.linkedin.com/learning/learning-jdbc-24697410/relational-database-management-systems?u=76281980&t=216)** No [[SQL]] databases, however, [[Microsoft Excel|Excel]] in distributed systems because many of them were designed from the ground up to work in a distributed fashion, whereas RDBMS was not the case.
 >
 > **[3:49](https://www.linkedin.com/learning/learning-jdbc-24697410/relational-database-management-systems?u=76281980&t=229)** When RDBMS databases were first created, it was a single server, and that's no longer the case.
 >
@@ -252,28 +249,27 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), data (7), [[Databases]] (4), [[NoSQL]] (4), [[Relational Databases]] (2)
+> **Frameworks & Libraries:** [[Databases]] (4), [[NoSQL]] (4), [[Relational Databases]] (2), [[Database Management]] (2), [[Java Database Connectivity (JDBC)|Jdbc]] (1)
 > **Env Vars:** rdbms (10), ibm (4), jdbc (1), db2 (1), bcnf (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Java Database Connectivity
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jdbc-24697410/java-database-connectivity?u=76281980)
+#### [Java Database Connectivity](https://www.linkedin.com/learning/learning-jdbc-24697410/java-database-connectivity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jdbc-24697410/java-database-connectivity?u=76281980&t=0)** - [Instructor] Java Database Connectivity is a technology within Java used to connect to relational databases.
+> **[0:00](https://www.linkedin.com/learning/learning-jdbc-24697410/java-database-connectivity?u=76281980&t=0)** - [Instructor] [[Java Database Connectivity (JDBC)|Java Database Connectivity]] is a technology within [[Java]] used to connect to [[Relational Databases]].
 >
-> **[0:08](https://www.linkedin.com/learning/learning-jdbc-24697410/java-database-connectivity?u=76281980&t=8)** We're going to start with some deep understanding of what JDBC is and what it focuses on.
+> **[0:08](https://www.linkedin.com/learning/learning-jdbc-24697410/java-database-connectivity?u=76281980&t=8)** We're going to start with some deep understanding of what [[Java Database Connectivity (JDBC)|JDBC]] is and what it focuses on.
 >
 > **[0:15](https://www.linkedin.com/learning/learning-jdbc-24697410/java-database-connectivity?u=76281980&t=15)** As alluded to JDBC stands for Java Database Connectivity.
 >
 > **[0:20](https://www.linkedin.com/learning/learning-jdbc-24697410/java-database-connectivity?u=76281980&t=20)** It is an API for client-side access to relational databases.
 >
-> **[0:26](https://www.linkedin.com/learning/learning-jdbc-24697410/java-database-connectivity?u=76281980&t=26)** It is specifically relational database focused or RDBMS, but one thing that you will find is many of the NoSQL providers mimic JDBC in the way that they operate.
+> **[0:26](https://www.linkedin.com/learning/learning-jdbc-24697410/java-database-connectivity?u=76281980&t=26)** It is specifically relational database focused or RDBMS, but one thing that you will find is many of the [[NoSQL]] providers mimic JDBC in the way that they operate.
 >
-> **[0:39](https://www.linkedin.com/learning/learning-jdbc-24697410/java-database-connectivity?u=76281980&t=39)** In fact, we see that in their languages, their query languages, that they look very much like SQL and the drivers work very much the same way as we would see with JDBC.
+> **[0:39](https://www.linkedin.com/learning/learning-jdbc-24697410/java-database-connectivity?u=76281980&t=39)** In fact, we see that in their languages, their query languages, that they look very much like [[SQL]] and the drivers work very much the same way as we would see with JDBC.
 >
 > **[0:50](https://www.linkedin.com/learning/learning-jdbc-24697410/java-database-connectivity?u=76281980&t=50)** So even though JDBC is focused on RDBMS systems, there are similarities.
 >
@@ -281,9 +277,9 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/learning-jdbc-24697410/java-database-connectivity?u=76281980&t=67)** One of the benefits of using JDBC, especially with ANSI standard SQL, is we get universal data access.
 >
-> **[1:16](https://www.linkedin.com/learning/learning-jdbc-24697410/java-database-connectivity?u=76281980&t=76)** What this means is we can actually swap out our databases as we're developing our systems with little to no impact.
+> **[1:16](https://www.linkedin.com/learning/learning-jdbc-24697410/java-database-connectivity?u=76281980&t=76)** What this means is we can actually swap out our [[Databases]] as we're developing our systems with little to no impact.
 >
-> **[1:23](https://www.linkedin.com/learning/learning-jdbc-24697410/java-database-connectivity?u=76281980&t=83)** In fact, this is a technology that I use quite often when I'm doing POC work with Spring Boot, where I'll use an embedded H2 database and then when I deploy, it will actually use a Postgres database because of the way that these are Swappable.
+> **[1:23](https://www.linkedin.com/learning/learning-jdbc-24697410/java-database-connectivity?u=76281980&t=83)** In fact, this is a technology that I use quite often when I'm doing POC work with [[Spring Boot]], where I'll use an embedded H2 database and then when I deploy, it will actually use a [[PostgreSQL|Postgres]] database because of the way that these are Swappable.
 >
 > **[1:40](https://www.linkedin.com/learning/learning-jdbc-24697410/java-database-connectivity?u=76281980&t=100)** As long as you stick with using ANSI standard SQL in your queries, you should not have any issues using JDBC with any underlying database, as long as it too is ANSI standard.
 >
@@ -325,7 +321,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java Database Connectivity (JDBC)|Jdbc]] (13), database (9), [[SQL]] (9), [[Databases]] (3), application (3)
+> **Frameworks & Libraries:** [[Java Database Connectivity (JDBC)|Jdbc]] (13), [[SQL]] (9), [[Databases]] (3), [[Java Database Connectivity (JDBC)|Java database connectivity]] (2), [[Java]] (2)
 > **Env Vars:** jdbc (13), sql (9), ansi (5), api (2), rdbms (2)
 > **Definitions:** is a  (5), stands for (1), is an  (1)
 > **Versions:** java 9 (1), version 4 (1)
@@ -333,12 +329,11 @@ created: 2026-05-02
 > **Documentation:** spec (1)
 > **Speakers:** - [instructor] (1)
 
-#### Terminology of JDBC
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jdbc-24697410/terminology-of-jdbc?u=76281980)
+#### [Terminology of JDBC](https://www.linkedin.com/learning/learning-jdbc-24697410/terminology-of-jdbc?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jdbc-24697410/terminology-of-jdbc?u=76281980&t=0)** - [Instructor] Let's spend a little bit of time and get up to speed with the terminology of JDBC.
+> **[0:00](https://www.linkedin.com/learning/learning-jdbc-24697410/terminology-of-jdbc?u=76281980&t=0)** - [Instructor] Let's spend a little bit of time and get up to speed with the terminology of [[Java Database Connectivity (JDBC)|JDBC]].
 >
 > **[0:05](https://www.linkedin.com/learning/learning-jdbc-24697410/terminology-of-jdbc?u=76281980&t=5)** So when I'm talking about things in the course, you understand specifically what I'm saying.
 >
@@ -350,7 +345,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/learning-jdbc-24697410/terminology-of-jdbc?u=76281980&t=31)** We won't be using DataSource in this course because quite honestly, it's not worth it for what we're doing.
 >
-> **[0:38](https://www.linkedin.com/learning/learning-jdbc-24697410/terminology-of-jdbc?u=76281980&t=38)** But if you ever take one of my spring courses, for instance, you'll see I use DataSource exclusively because I'm not actually managing the connection the spring framework is.
+> **[0:38](https://www.linkedin.com/learning/learning-jdbc-24697410/terminology-of-jdbc?u=76281980&t=38)** But if you ever take one of my spring courses, for instance, you'll see I use DataSource exclusively because I'm not actually managing the connection the [[Spring Framework]] is.
 >
 > **[0:46](https://www.linkedin.com/learning/learning-jdbc-24697410/terminology-of-jdbc?u=76281980&t=46)** And this is usually when data source comes into play, when you're allowing the container to manage the connections for you.
 >
@@ -362,7 +357,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/learning-jdbc-24697410/terminology-of-jdbc?u=76281980&t=77)** Now, what do we do on these connections and we perform executions?
 >
-> **[1:22](https://www.linkedin.com/learning/learning-jdbc-24697410/terminology-of-jdbc?u=76281980&t=82)** The Statement is the representation of SQL to be executed against the database.
+> **[1:22](https://www.linkedin.com/learning/learning-jdbc-24697410/terminology-of-jdbc?u=76281980&t=82)** The Statement is the representation of [[SQL]] to be executed against the database.
 >
 > **[1:28](https://www.linkedin.com/learning/learning-jdbc-24697410/terminology-of-jdbc?u=76281980&t=88)** Many times we talk about writing a SQL Statement.
 >
@@ -418,25 +413,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (6), database (6), data (5), [[Java Database Connectivity (JDBC)|Jdbc]] (2), [[Spring Framework]] (1)
+> **Frameworks & Libraries:** [[SQL]] (6), [[Java Database Connectivity (JDBC)|Jdbc]] (2), [[Spring Framework]] (1)
 > **Env Vars:** sql (6), jdbc (2), rdbms (1)
 > **Definitions:** is a  (5), is an  (2), means that (1)
 > **Analogies:** for instance (1), it's like (1)
 > **Best Practices:** you should never (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to PostgreSQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jdbc-24697410/introduction-to-postgresql?u=76281980)
+#### [Introduction to PostgreSQL](https://www.linkedin.com/learning/learning-jdbc-24697410/introduction-to-postgresql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jdbc-24697410/introduction-to-postgresql?u=76281980&t=0)** - [Instructor] Now for our last introductory video, and this is where we're going to talk about the database that we're going to be using for this course, which is PostgreSQL.
+> **[0:00](https://www.linkedin.com/learning/learning-jdbc-24697410/introduction-to-postgresql?u=76281980&t=0)** - [Instructor] Now for our last introductory video, and this is where we're going to talk about the database that we're going to be using for this course, which is [[PostgreSQL]].
 >
 > **[0:09](https://www.linkedin.com/learning/learning-jdbc-24697410/introduction-to-postgresql?u=76281980&t=9)** So what is PostgreSQL?
 >
-> **[0:11](https://www.linkedin.com/learning/learning-jdbc-24697410/introduction-to-postgresql?u=76281980&t=11)** Well, first and foremost, it's an object-relational database management system that extends a traditional RDBMS to the object-oriented space.
+> **[0:11](https://www.linkedin.com/learning/learning-jdbc-24697410/introduction-to-postgresql?u=76281980&t=11)** Well, first and foremost, it's an object-relational [[Database Management]] system that extends a traditional RDBMS to the object-oriented space.
 >
-> **[0:23](https://www.linkedin.com/learning/learning-jdbc-24697410/introduction-to-postgresql?u=76281980&t=23)** It is free and open-source software.
+> **[0:23](https://www.linkedin.com/learning/learning-jdbc-24697410/introduction-to-postgresql?u=76281980&t=23)** It is free and [[Open-Source Software]].
 >
 > **[0:26](https://www.linkedin.com/learning/learning-jdbc-24697410/introduction-to-postgresql?u=76281980&t=26)** It's part of the reason I kind of love it is because it is an open source database with a lot of maintainers that is highly effective to be used in production systems.
 >
@@ -448,7 +442,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/learning-jdbc-24697410/introduction-to-postgresql?u=76281980&t=56)** You do get materialized and updatable views with PostgreSQL.
 >
-> **[1:02](https://www.linkedin.com/learning/learning-jdbc-24697410/introduction-to-postgresql?u=76281980&t=62)** You can, as with many other databases, execute triggers.
+> **[1:02](https://www.linkedin.com/learning/learning-jdbc-24697410/introduction-to-postgresql?u=76281980&t=62)** You can, as with many other [[Databases]], execute triggers.
 >
 > **[1:06](https://www.linkedin.com/learning/learning-jdbc-24697410/introduction-to-postgresql?u=76281980&t=66)** Triggers are a powerful mechanism, such that when a topple is updated, it can fire a process.
 >
@@ -464,11 +458,11 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/learning-jdbc-24697410/introduction-to-postgresql?u=76281980&t=103)** First of all, it's very easy to run locally.
 >
-> **[1:46](https://www.linkedin.com/learning/learning-jdbc-24697410/introduction-to-postgresql?u=76281980&t=106)** In fact, every single one of my development machines, as well as my personal machines, has PostgreSQL running in a Kubernetes cluster.
+> **[1:46](https://www.linkedin.com/learning/learning-jdbc-24697410/introduction-to-postgresql?u=76281980&t=106)** In fact, every single one of my development machines, as well as my personal machines, has PostgreSQL running in a [[Kubernetes]] cluster.
 >
 > **[1:54](https://www.linkedin.com/learning/learning-jdbc-24697410/introduction-to-postgresql?u=76281980&t=114)** That's just how I do my work.
 >
-> **[1:56](https://www.linkedin.com/learning/learning-jdbc-24697410/introduction-to-postgresql?u=76281980&t=116)** It supports a very large section of ANSI-standard SQL.
+> **[1:56](https://www.linkedin.com/learning/learning-jdbc-24697410/introduction-to-postgresql?u=76281980&t=116)** It supports a very large section of ANSI-standard [[SQL]].
 >
 > **[2:01](https://www.linkedin.com/learning/learning-jdbc-24697410/introduction-to-postgresql?u=76281980&t=121)** In fact, it is fully ANSI-standard compliant, but it does not support every single optional flavor of ANSI standard.
 >
@@ -482,26 +476,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), [[PostgreSQL]] (6), [[Security]] (3), management (1), open-source (1)
+> **Frameworks & Libraries:** [[PostgreSQL]] (6), [[Database Management]] (1), [[Open-Source Software]] (1), [[Databases]] (1), [[Kubernetes]] (1)
 > **Env Vars:** ansi (3), rdbms (1), acid (1), sql (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** docker (2)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up Postgresql
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jdbc-24697410/setting-up-postgresql?u=76281980)
+#### [Setting up Postgresql](https://www.linkedin.com/learning/learning-jdbc-24697410/setting-up-postgresql?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-jdbc-24697410/setting-up-postgresql?u=76281980&t=0)** - [Instructor] So now it's time to actually do some work.
 >
-> **[0:02](https://www.linkedin.com/learning/learning-jdbc-24697410/setting-up-postgresql?u=76281980&t=2)** And we're going to start by getting our Postgres database up and running in the appropriate fashion.
+> **[0:02](https://www.linkedin.com/learning/learning-jdbc-24697410/setting-up-postgresql?u=76281980&t=2)** And we're going to start by getting our [[PostgreSQL|Postgres]] database up and running in the appropriate fashion.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-jdbc-24697410/setting-up-postgresql?u=76281980&t=10)** I want you to jump over to your Codespaces environment and the first thing that we're going to do is we're going to open up this dat folder.
+> **[0:10](https://www.linkedin.com/learning/learning-jdbc-24697410/setting-up-postgresql?u=76281980&t=10)** I want you to jump over to your [[Codespaces]] environment and the first thing that we're going to do is we're going to open up this dat folder.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-jdbc-24697410/setting-up-postgresql?u=76281980&t=17)** And you'll see that there's two files here.
 >
-> **[0:19](https://www.linkedin.com/learning/learning-jdbc-24697410/setting-up-postgresql?u=76281980&t=19)** There's a data.sql file that creates a schema, several tables, populates that with a bunch of data and then adds a function to our database.
+> **[0:19](https://www.linkedin.com/learning/learning-jdbc-24697410/setting-up-postgresql?u=76281980&t=19)** There's a data.[[SQL]] file that creates a schema, several tables, populates that with a bunch of data and then adds a function to our database.
 >
 > **[0:30](https://www.linkedin.com/learning/learning-jdbc-24697410/setting-up-postgresql?u=76281980&t=30)** I also have provided a script and that script we are going to use to actually load our database.
 >
@@ -529,13 +522,13 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/learning-jdbc-24697410/setting-up-postgresql?u=76281980&t=108)** And you'll see that I actually got data back.
 >
-> **[1:51](https://www.linkedin.com/learning/learning-jdbc-24697410/setting-up-postgresql?u=76281980&t=111)** Now throughout the rest of this course we can use the psql client in our terminal to actually look at the state of the data at any point in time.
+> **[1:51](https://www.linkedin.com/learning/learning-jdbc-24697410/setting-up-postgresql?u=76281980&t=111)** Now throughout the [[Representational State Transfer (REST)|rest]] of this course we can use the psql client in our terminal to actually look at the state of the data at any point in time.
 >
 > **[2:02](https://www.linkedin.com/learning/learning-jdbc-24697410/setting-up-postgresql?u=76281980&t=122)** We probably won't need to do it often, but it is nice to know how to do it in case you need to.
 >
-> **[2:08](https://www.linkedin.com/learning/learning-jdbc-24697410/setting-up-postgresql?u=76281980&t=128)** Now while we're here I do want you to take a look at a couple files from devcontainer, specifically the docker-compose.
+> **[2:08](https://www.linkedin.com/learning/learning-jdbc-24697410/setting-up-postgresql?u=76281980&t=128)** Now while we're here I do want you to take a look at a couple files from devcontainer, specifically the docker-[[Jetpack Compose|compose]].
 >
-> **[2:16](https://www.linkedin.com/learning/learning-jdbc-24697410/setting-up-postgresql?u=76281980&t=136)** You will see that we are running our Java development container which is where we're actually working in right now and it is connecting to a database in the same docker-compose file and that is a postgres database.
+> **[2:16](https://www.linkedin.com/learning/learning-jdbc-24697410/setting-up-postgresql?u=76281980&t=136)** You will see that we are running our [[Java]] development container which is where we're actually working in right now and it is connecting to a database in the same docker-compose file and that is a postgres database.
 >
 > **[2:32](https://www.linkedin.com/learning/learning-jdbc-24697410/setting-up-postgresql?u=76281980&t=152)** What I specifically want you to look at here is line 11 through 14.
 >
@@ -545,7 +538,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (10), [[PostgreSQL|Postgres]] (4), data (4), [[Jetpack Compose|Compose]] (2), [[Codespaces]] (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (4), [[Jetpack Compose|Compose]] (2), [[Codespaces]] (1), [[SQL]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** psql (2), docker (2)
 > **UI Navigation:** go to (3)
 > **File Paths:** data.sql (1), load-db.sh (1)
@@ -553,8 +546,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating the project
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jdbc-24697410/creating-the-project?u=76281980)
+#### [Creating the project](https://www.linkedin.com/learning/learning-jdbc-24697410/creating-the-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -562,7 +554,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/learning-jdbc-24697410/creating-the-project?u=76281980&t=5)** So let's go ahead and get that set up.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-jdbc-24697410/creating-the-project?u=76281980&t=9)** I want you to navigate back over to Codespaces, and go ahead and pop open the terminal.
+> **[0:09](https://www.linkedin.com/learning/learning-jdbc-24697410/creating-the-project?u=76281980&t=9)** I want you to navigate back over to [[Codespaces]], and go ahead and pop open the terminal.
 >
 > **[0:15](https://www.linkedin.com/learning/learning-jdbc-24697410/creating-the-project?u=76281980&t=15)** And from within the terminal, we're going to use a Maven command.
 >
@@ -574,7 +566,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/learning-jdbc-24697410/creating-the-project?u=76281980&t=33)** Choose anything that you would like.
 >
-> **[0:35](https://www.linkedin.com/learning/learning-jdbc-24697410/creating-the-project?u=76281980&t=35)** And then I'm going to do LIL for LinkedIn Learning, I'm going to create an artifact ID of learning JDBC.
+> **[0:35](https://www.linkedin.com/learning/learning-jdbc-24697410/creating-the-project?u=76281980&t=35)** And then I'm going to do LIL for [[LinkedIn]] Learning, I'm going to create an artifact ID of learning [[Java Database Connectivity (JDBC)|JDBC]].
 >
 > **[0:47](https://www.linkedin.com/learning/learning-jdbc-24697410/creating-the-project?u=76281980&t=47)** Now we're going to do a dash D archetype artifact ID.
 >
@@ -590,7 +582,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/learning-jdbc-24697410/creating-the-project?u=76281980&t=85)** And that project is in generic Maven structure, where you have a source folder and then within there, a main and a test folder.
 >
-> **[1:32](https://www.linkedin.com/learning/learning-jdbc-24697410/creating-the-project?u=76281980&t=92)** And within there you have an app.java in main at the base package, which equals our group name.
+> **[1:32](https://www.linkedin.com/learning/learning-jdbc-24697410/creating-the-project?u=76281980&t=92)** And within there you have an app.[[Java]] in main at the base package, which equals our group name.
 >
 > **[1:39](https://www.linkedin.com/learning/learning-jdbc-24697410/creating-the-project?u=76281980&t=99)** There's also a palm file available.
 >
@@ -610,7 +602,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), application (2), data (1), [[Codespaces]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Codespaces]] (1), [[LinkedIn]] (1), [[Java Database Connectivity (JDBC)|Jdbc]] (1), [[Java]] (1)
 > **Env Vars:** lil (1), jdbc (1)
 > **Tools:** terminal (2)
 > **File Paths:** app.java (1)
@@ -619,8 +611,7 @@ created: 2026-05-02
 > **UI Navigation:** open the (1)
 > **Definitions:** is a  (1)
 
-#### Create, read, update, and delete (CRUD)
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jdbc-24697410/create-read-update-and-delete-crud?u=76281980)
+#### [Create, read, update, and delete (CRUD)](https://www.linkedin.com/learning/learning-jdbc-24697410/create-read-update-and-delete-crud?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -634,19 +625,19 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/learning-jdbc-24697410/create-read-update-and-delete-crud?u=76281980&t=27)** You create, you read, you update, and you delete.
 >
-> **[0:32](https://www.linkedin.com/learning/learning-jdbc-24697410/create-read-update-and-delete-crud?u=76281980&t=32)** This is all part of what is called data manipulation language, or DML.
+> **[0:32](https://www.linkedin.com/learning/learning-jdbc-24697410/create-read-update-and-delete-crud?u=76281980&t=32)** This is all part of what is called [[Data Manipulation]] language, or DML.
 >
 > **[0:37](https://www.linkedin.com/learning/learning-jdbc-24697410/create-read-update-and-delete-crud?u=76281980&t=37)** Now, there is more to DML than just insert, update, select, and delete.
 >
 > **[0:43](https://www.linkedin.com/learning/learning-jdbc-24697410/create-read-update-and-delete-crud?u=76281980&t=43)** But, those CRUD operations are contained within DML.
 >
-> **[0:49](https://www.linkedin.com/learning/learning-jdbc-24697410/create-read-update-and-delete-crud?u=76281980&t=49)** Most SQL statements are an extension of these four main functions, at least the SQL statements that developers most often use.
+> **[0:49](https://www.linkedin.com/learning/learning-jdbc-24697410/create-read-update-and-delete-crud?u=76281980&t=49)** Most [[SQL]] statements are an extension of these four main functions, at least the SQL statements that developers most often use.
 >
-> **[1:00](https://www.linkedin.com/learning/learning-jdbc-24697410/create-read-update-and-delete-crud?u=76281980&t=60)** So I want to talk a little bit about some thoughts around what you can do to more effectively write JDBC code.
+> **[1:00](https://www.linkedin.com/learning/learning-jdbc-24697410/create-read-update-and-delete-crud?u=76281980&t=60)** So I want to talk a little bit about some thoughts around what you can do to more effectively write [[Java Database Connectivity (JDBC)|JDBC]] code.
 >
 > **[1:09](https://www.linkedin.com/learning/learning-jdbc-24697410/create-read-update-and-delete-crud?u=76281980&t=69)** You have to learn SQL.
 >
-> **[1:11](https://www.linkedin.com/learning/learning-jdbc-24697410/create-read-update-and-delete-crud?u=76281980&t=71)** SQL is core to being an API developer dealing with databases.
+> **[1:11](https://www.linkedin.com/learning/learning-jdbc-24697410/create-read-update-and-delete-crud?u=76281980&t=71)** SQL is core to being an API developer dealing with [[Databases]].
 >
 > **[1:16](https://www.linkedin.com/learning/learning-jdbc-24697410/create-read-update-and-delete-crud?u=76281980&t=76)** And though we're going to write SQL queries in this course, it is a very cursory glance of SQL.
 >
@@ -658,11 +649,11 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/learning-jdbc-24697410/create-read-update-and-delete-crud?u=76281980&t=106)** Relational algebra is also in the same boat.
 >
-> **[1:49](https://www.linkedin.com/learning/learning-jdbc-24697410/create-read-update-and-delete-crud?u=76281980&t=109)** You don't need to become an expert in relational algebra, but when you are talking about relations and tuples, as opposed to rows and tables, it actually does convey a very real meaning that you kind of lose when you're talking about rows and tables, because those could be anything, including an Excel spreadsheet.
+> **[1:49](https://www.linkedin.com/learning/learning-jdbc-24697410/create-read-update-and-delete-crud?u=76281980&t=109)** You don't need to become an expert in relational algebra, but when you are talking about relations and tuples, as opposed to rows and tables, it actually does convey a very real meaning that you kind of lose when you're talking about rows and tables, because those could be anything, including an [[Microsoft Excel|Excel]] spreadsheet.
 >
 > **[2:09](https://www.linkedin.com/learning/learning-jdbc-24697410/create-read-update-and-delete-crud?u=76281980&t=129)** When we're talking about tuples and relations, we're actually talking about relational algebra, and you need to understand indexes.
 >
-> **[2:17](https://www.linkedin.com/learning/learning-jdbc-24697410/create-read-update-and-delete-crud?u=76281980&t=137)** This is very, very important when you are doing database systems because indexes are how you select your data in the quickest time possible.
+> **[2:17](https://www.linkedin.com/learning/learning-jdbc-24697410/create-read-update-and-delete-crud?u=76281980&t=137)** This is very, very important when you are doing [[Database Systems]] because indexes are how you select your data in the quickest time possible.
 >
 > **[2:30](https://www.linkedin.com/learning/learning-jdbc-24697410/create-read-update-and-delete-crud?u=76281980&t=150)** Let's talk a little bit now about the process of creating data.
 >
@@ -722,7 +713,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[SQL]] (7), database (6), api (2), [[Data Manipulation]] (1)
+> **Frameworks & Libraries:** [[SQL]] (7), [[Data Manipulation]] (1), [[Java Database Connectivity (JDBC)|Jdbc]] (1), [[Databases]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** sql (7), crud (5), select (4), dml (3), insert (3)
 > **SQL:** select (4), update (3)
 > **Definitions:** is a  (3), is an  (2), is called (1)
@@ -735,8 +726,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using a driver
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jdbc-24697410/using-a-driver?u=76281980)
+#### [Using a driver](https://www.linkedin.com/learning/learning-jdbc-24697410/using-a-driver?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -748,7 +738,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/learning-jdbc-24697410/using-a-driver?u=76281980&t=14)** Scroll down to the dependency section and let's add a new dependency.
 >
-> **[0:20](https://www.linkedin.com/learning/learning-jdbc-24697410/using-a-driver?u=76281980&t=20)** We will start with our group ID and it's org.postgresql.
+> **[0:20](https://www.linkedin.com/learning/learning-jdbc-24697410/using-a-driver?u=76281980&t=20)** We will start with our group ID and it's org.[[PostgreSQL]].
 >
 > **[0:27](https://www.linkedin.com/learning/learning-jdbc-24697410/using-a-driver?u=76281980&t=27)** And now an artifact ID of Postgresql.
 >
@@ -756,7 +746,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/learning-jdbc-24697410/using-a-driver?u=76281980&t=41)** Allow Maven to do its download.
 >
-> **[0:44](https://www.linkedin.com/learning/learning-jdbc-24697410/using-a-driver?u=76281980&t=44)** And while it's doing that, let's open up source main Java.
+> **[0:44](https://www.linkedin.com/learning/learning-jdbc-24697410/using-a-driver?u=76281980&t=44)** And while it's doing that, let's open up source main [[Java]].
 >
 > **[0:49](https://www.linkedin.com/learning/learning-jdbc-24697410/using-a-driver?u=76281980&t=49)** And at our base package, let's create a new package called data.util.
 >
@@ -764,7 +754,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/learning-jdbc-24697410/using-a-driver?u=76281980&t=61)** And in there let's create a new Java class, and we are going to call this database utils.
 >
-> **[1:12](https://www.linkedin.com/learning/learning-jdbc-24697410/using-a-driver?u=76281980&t=72)** Now we need to add a few strings to begin with, so private static final string URL, and the URL is going to be equal to JDBC colon Postgresql colon slash slash local host colon 5432, which is the default port slash local db, which is the name of our database.
+> **[1:12](https://www.linkedin.com/learning/learning-jdbc-24697410/using-a-driver?u=76281980&t=72)** Now we need to add a few strings to begin with, so private static final string URL, and the URL is going to be equal to [[Java Database Connectivity (JDBC)|JDBC]] colon Postgresql colon slash slash local host colon 5432, which is the default port slash local db, which is the name of our database.
 >
 > **[1:43](https://www.linkedin.com/learning/learning-jdbc-24697410/using-a-driver?u=76281980&t=103)** Now let's go ahead and do a string of username.
 >
@@ -774,7 +764,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/learning-jdbc-24697410/using-a-driver?u=76281980&t=119)** So our username is local DB user.
 >
-> **[2:01](https://www.linkedin.com/learning/learning-jdbc-24697410/using-a-driver?u=76281980&t=121)** And remember, you can get these values from the Docker compose.
+> **[2:01](https://www.linkedin.com/learning/learning-jdbc-24697410/using-a-driver?u=76281980&t=121)** And remember, you can get these values from the Docker [[Jetpack Compose|compose]].
 >
 > **[2:09](https://www.linkedin.com/learning/learning-jdbc-24697410/using-a-driver?u=76281980&t=129)** Go ahead and set our password.
 >
@@ -794,7 +784,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/learning-jdbc-24697410/using-a-driver?u=76281980&t=211)** And the last thing that we're going to do is a private static connection called connection.
 >
-> **[3:41](https://www.linkedin.com/learning/learning-jdbc-24697410/using-a-driver?u=76281980&t=221)** And that connection needs to be imported from java.sql, which is where JDBC lives.
+> **[3:41](https://www.linkedin.com/learning/learning-jdbc-24697410/using-a-driver?u=76281980&t=221)** And that connection needs to be imported from java.[[SQL]], which is where JDBC lives.
 >
 > **[3:49](https://www.linkedin.com/learning/learning-jdbc-24697410/using-a-driver?u=76281980&t=229)** All right, so now let's create a method, so public static connection get connection.
 >
@@ -838,7 +828,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (5), [[Java]] (4), database (4), [[PostgreSQL]] (3), data (2)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Java]] (4), [[PostgreSQL]] (3), [[Java Database Connectivity (JDBC)|Jdbc]] (2), [[Jetpack Compose|Compose]] (1)
 > **Env Vars:** sql (4), url (3), jdbc (2), ssw (1)
 > **CLI Commands:** docker (1), make (1)
 > **UI Navigation:** go to (1), scroll down (1)
@@ -847,8 +837,7 @@ created: 2026-05-02
 > **Exercise Files:** source code (1)
 > **Warnings:** warning (1)
 
-#### The Data Access Object (DAO) pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jdbc-24697410/the-data-access-object-dao-pattern?u=76281980)
+#### [The Data Access Object (DAO) pattern](https://www.linkedin.com/learning/learning-jdbc-24697410/the-data-access-object-dao-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -856,7 +845,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/learning-jdbc-24697410/the-data-access-object-dao-pattern?u=76281980&t=6)** To do data access, there are several objects that you need to start with, especially in either the DAO pattern or the repository pattern.
 >
-> **[0:14](https://www.linkedin.com/learning/learning-jdbc-24697410/the-data-access-object-dao-pattern?u=76281980&t=14)** The purpose of this is to provide an abstraction between JDBC and the rest of your code.
+> **[0:14](https://www.linkedin.com/learning/learning-jdbc-24697410/the-data-access-object-dao-pattern?u=76281980&t=14)** The purpose of this is to provide an abstraction between [[Java Database Connectivity (JDBC)|JDBC]] and the [[Representational State Transfer (REST)|rest]] of your code.
 >
 > **[0:22](https://www.linkedin.com/learning/learning-jdbc-24697410/the-data-access-object-dao-pattern?u=76281980&t=22)** It can be just abstraction or it can be a true object.
 >
@@ -958,15 +947,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Representational State Transfer (REST)|Rest]] (2), [[Java Database Connectivity (JDBC)|Jdbc]] (1), oop (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Java Database Connectivity (JDBC)|Jdbc]] (1)
 > **Env Vars:** dao (15), dto (5), jdbc (1), crud (1), oop (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (4)
 > **Warnings:** common mistake (1)
 > **Speakers:** - [narrator] (1)
 
-#### Understanding result sets
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jdbc-24697410/understanding-result-sets?u=76281980)
+#### [Understanding result sets](https://www.linkedin.com/learning/learning-jdbc-24697410/understanding-result-sets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -974,11 +962,11 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/learning-jdbc-24697410/understanding-result-sets?u=76281980&t=6)** And if you remember, the result set is how we get data back from the database when we execute a query.
 >
-> **[0:14](https://www.linkedin.com/learning/learning-jdbc-24697410/understanding-result-sets?u=76281980&t=14)** So the first thing I want you to do is to open up the DAT folder and look at the data.sql file.
+> **[0:14](https://www.linkedin.com/learning/learning-jdbc-24697410/understanding-result-sets?u=76281980&t=14)** So the first thing I want you to do is to open up the DAT folder and look at the data.[[SQL]] file.
 >
 > **[0:19](https://www.linkedin.com/learning/learning-jdbc-24697410/understanding-result-sets?u=76281980&t=19)** This is going to give you all of the table definitions that we are going to be using as we build out our domain objects.
 >
-> **[0:27](https://www.linkedin.com/learning/learning-jdbc-24697410/understanding-result-sets?u=76281980&t=27)** So let's go into learning JVC, and source main Java.
+> **[0:27](https://www.linkedin.com/learning/learning-jdbc-24697410/understanding-result-sets?u=76281980&t=27)** So let's go into learning JVC, and source main [[Java]].
 >
 > **[0:31](https://www.linkedin.com/learning/learning-jdbc-24697410/understanding-result-sets?u=76281980&t=31)** In our data package, let's create a new Java package, and this one will be called entity.
 >
@@ -1052,7 +1040,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (11), data (4), database (3), [[SQL]] (2), next (2)
+> **Frameworks & Libraries:** [[Java]] (11), [[SQL]] (2)
 > **Env Vars:** uuid (5), dao (5), dat (1), jvc (1)
 > **Code Identifiers:** getall (1), getone (1), processresultset (1), setserviceid (1), getobject (1)
 > **File Paths:** data.sql (1), java.sql (1)
@@ -1060,8 +1048,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reading all data
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jdbc-24697410/reading-all-data?u=76281980)
+#### [Reading all data](https://www.linkedin.com/learning/learning-jdbc-24697410/reading-all-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1069,7 +1056,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/learning-jdbc-24697410/reading-all-data?u=76281980&t=9)** So go ahead and open up your service DAO.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-jdbc-24697410/reading-all-data?u=76281980&t=11)** Now I'm going to show you the pattern that I use when I'm writing these things because I think it's very important to keep your SQL separate from the actual code itself as much as possible.
+> **[0:11](https://www.linkedin.com/learning/learning-jdbc-24697410/reading-all-data?u=76281980&t=11)** Now I'm going to show you the pattern that I use when I'm writing these things because I think it's very important to keep your [[SQL]] separate from the actual code itself as much as possible.
 >
 > **[0:24](https://www.linkedin.com/learning/learning-jdbc-24697410/reading-all-data?u=76281980&t=24)** So the first thing that we're going to do is we're going to go ahead and create a logger here.
 >
@@ -1157,7 +1144,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[SQL]] (4), database (1), application (1)
+> **Frameworks & Libraries:** [[SQL]] (4)
 > **Env Vars:** dao (5), sql (4)
 > **Code Identifiers:** getconnection (1), processresultsset (1), foreach (1), printline (1)
 > **File Paths:** data.sql (1)
@@ -1166,12 +1153,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reading instance data
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jdbc-24697410/reading-instance-data?u=76281980)
+#### [Reading instance data](https://www.linkedin.com/learning/learning-jdbc-24697410/reading-instance-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jdbc-24697410/reading-instance-data?u=76281980&t=0)** - [Instructor] So passing a simple SQL statement to the database and processing it is one thing, but what happens when we actually have to provide that query some dynamic data?
+> **[0:00](https://www.linkedin.com/learning/learning-jdbc-24697410/reading-instance-data?u=76281980&t=0)** - [Instructor] So passing a simple [[SQL]] statement to the database and processing it is one thing, but what happens when we actually have to provide that query some dynamic data?
 >
 > **[0:11](https://www.linkedin.com/learning/learning-jdbc-24697410/reading-instance-data?u=76281980&t=11)** And that's what we're going to do here when we read a single instance data.
 >
@@ -1215,7 +1201,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/learning-jdbc-24697410/reading-instance-data?u=76281980&t=141)** It's worth setting, rephrase.
 >
-> **[2:23](https://www.linkedin.com/learning/learning-jdbc-24697410/reading-instance-data?u=76281980&t=143)** It's worth stating that because all too often in Java we're on zero based arrays.
+> **[2:23](https://www.linkedin.com/learning/learning-jdbc-24697410/reading-instance-data?u=76281980&t=143)** It's worth stating that because all too often in [[Java]] we're on zero based arrays.
 >
 > **[2:28](https://www.linkedin.com/learning/learning-jdbc-24697410/reading-instance-data?u=76281980&t=148)** So now we will do a results set, equals statement dot execute query.
 >
@@ -1251,13 +1237,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (2), database (2), data (2), [[Java]] (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Java]] (1)
 > **Env Vars:** sql (2), dao (2)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating data
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jdbc-24697410/creating-data?u=76281980)
+#### [Creating data](https://www.linkedin.com/learning/learning-jdbc-24697410/creating-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1265,7 +1250,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/learning-jdbc-24697410/creating-data?u=76281980&t=10)** Okay, so let's jump back into our service DAO.
 >
-> **[0:12](https://www.linkedin.com/learning/learning-jdbc-24697410/creating-data?u=76281980&t=12)** And as you might imagine, we're going to start by creating our SQL statement.
+> **[0:12](https://www.linkedin.com/learning/learning-jdbc-24697410/creating-data?u=76281980&t=12)** And as you might imagine, we're going to start by creating our [[SQL]] statement.
 >
 > **[0:19](https://www.linkedin.com/learning/learning-jdbc-24697410/creating-data?u=76281980&t=19)** We will call it Create.
 >
@@ -1309,7 +1294,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/learning-jdbc-24697410/creating-data?u=76281980&t=111)** But now in here, the first thing we want to do in our try statement is set auto commit equal to false.
 >
-> **[1:57](https://www.linkedin.com/learning/learning-jdbc-24697410/creating-data?u=76281980&t=117)** Now in Postgres, this is how we set it up to be transactional.
+> **[1:57](https://www.linkedin.com/learning/learning-jdbc-24697410/creating-data?u=76281980&t=117)** Now in [[PostgreSQL|Postgres]], this is how we set it up to be transactional.
 >
 > **[2:02](https://www.linkedin.com/learning/learning-jdbc-24697410/creating-data?u=76281980&t=122)** So we now we're going to create a rollback segment that we can roll back if we need to.
 >
@@ -1421,7 +1406,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (5), database (4), [[PostgreSQL|Postgres]] (1), functional (1)
+> **Frameworks & Libraries:** [[SQL]] (5), [[PostgreSQL|Postgres]] (1)
 > **Env Vars:** sql (5), dao (4), uuid (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
@@ -1430,14 +1415,13 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Best Practices:** good practice (1)
 
-#### Updating data
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jdbc-24697410/updating-data?u=76281980)
+#### [Updating data](https://www.linkedin.com/learning/learning-jdbc-24697410/updating-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-jdbc-24697410/updating-data?u=76281980&t=0)** - [Instructor] So, now that we've done the create, it's time to do the next step, which is an update which will look very similar to the create.
 >
-> **[0:06](https://www.linkedin.com/learning/learning-jdbc-24697410/updating-data?u=76281980&t=6)** Obviously, the SQL statement will be a little bit different.
+> **[0:06](https://www.linkedin.com/learning/learning-jdbc-24697410/updating-data?u=76281980&t=6)** Obviously, the [[SQL]] statement will be a little bit different.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-jdbc-24697410/updating-data?u=76281980&t=11)** So like we've done before, let's go to the service DAO class and let's create our SQL statement.
 >
@@ -1525,7 +1509,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (2), next (1), database (1)
+> **Frameworks & Libraries:** [[SQL]] (2)
 > **Code Identifiers:** getserviceid (2), getone (2), setstring (1), getname (1), setbigdecimal (1)
 > **Env Vars:** sql (2), dao (1), update (1)
 > **Versions:** 13.45 (2), 4.35 (1)
@@ -1534,8 +1518,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **SQL:** update (1)
 
-#### Deleting data
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jdbc-24697410/deleting-data?u=76281980)
+#### [Deleting data](https://www.linkedin.com/learning/learning-jdbc-24697410/deleting-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1593,18 +1576,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), database (1)
 > **Code Identifiers:** service_id (1), getconnection (1), setautocommit (1), servicedao (1), newservice (1)
 > **Env Vars:** crud (2)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### The Repository pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jdbc-24697410/the-repository-pattern?u=76281980)
+#### [The Repository pattern](https://www.linkedin.com/learning/learning-jdbc-24697410/the-repository-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-jdbc-24697410/the-repository-pattern?u=76281980&t=1)** - [Narrator] Now the DAO pattern is great and all, but the reality is most of us today in a microservices world leverage the repository pattern much more.
+> **[0:01](https://www.linkedin.com/learning/learning-jdbc-24697410/the-repository-pattern?u=76281980&t=1)** - [Narrator] Now the DAO pattern is great and all, but the reality is most of us today in a [[Microservices]] world leverage the repository pattern much more.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-jdbc-24697410/the-repository-pattern?u=76281980&t=10)** So let's talk a little bit about the repository pattern.
 >
@@ -1624,9 +1605,9 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/learning-jdbc-24697410/the-repository-pattern?u=76281980&t=52)** But as I also alluded to, the joining that we would do in a database, if that existed in this case, we would actually do it in code.
 >
-> **[1:00](https://www.linkedin.com/learning/learning-jdbc-24697410/the-repository-pattern?u=76281980&t=60)** And that is a big distinction and it works really well, especially in NoSQL environments.
+> **[1:00](https://www.linkedin.com/learning/learning-jdbc-24697410/the-repository-pattern?u=76281980&t=60)** And that is a big distinction and it works really well, especially in [[NoSQL]] environments.
 >
-> **[1:06](https://www.linkedin.com/learning/learning-jdbc-24697410/the-repository-pattern?u=76281980&t=66)** Now when we're talking about distribution of our databases, we have to remember that complex joins in a database require it to be a single-instance database.
+> **[1:06](https://www.linkedin.com/learning/learning-jdbc-24697410/the-repository-pattern?u=76281980&t=66)** Now when we're talking about distribution of our [[Databases]], we have to remember that complex joins in a database require it to be a single-instance database.
 >
 > **[1:17](https://www.linkedin.com/learning/learning-jdbc-24697410/the-repository-pattern?u=76281980&t=77)** So if we have two tables that we need to join across, they actually have to be in the same database in order for us to do that.
 >
@@ -1668,19 +1649,18 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/learning-jdbc-24697410/the-repository-pattern?u=76281980&t=248)** Now I'm not saying that that's hard to do, it's just something to consider when you're making the decision of, do I go with the DAO or do I go with this repository pattern?
 >
-> **[4:17](https://www.linkedin.com/learning/learning-jdbc-24697410/the-repository-pattern?u=76281980&t=257)** If you want a little bit more view of repositories, take a look at any of my Spring courses here on the LinkedIn Learning Library, because Spring inherently uses the repository pattern exclusively, and I've done that in all of those courses.
+> **[4:17](https://www.linkedin.com/learning/learning-jdbc-24697410/the-repository-pattern?u=76281980&t=257)** If you want a little bit more view of repositories, take a look at any of my Spring courses here on the [[LinkedIn]] Learning Library, because Spring inherently uses the repository pattern exclusively, and I've done that in all of those courses.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (19), [[Databases]] (5), data (4), [[Microservices]] (2), application (2)
+> **Frameworks & Libraries:** [[Databases]] (5), [[Microservices]] (2), [[NoSQL]] (1), [[LinkedIn]] (1)
 > **Env Vars:** dao (7)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [narrator] (1)
 
-#### Challenge: Implement a DAO
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jdbc-24697410/challenge-implement-a-dao?u=76281980)
+#### [Challenge: Implement a DAO](https://www.linkedin.com/learning/learning-jdbc-24697410/challenge-implement-a-dao?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1700,13 +1680,13 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/learning-jdbc-24697410/challenge-implement-a-dao?u=76281980&t=53)** That being said, the primary focus of this challenge is the Customer domain or the Customer's table within the database.
 >
-> **[1:00](https://www.linkedin.com/learning/learning-jdbc-24697410/challenge-implement-a-dao?u=76281980&t=60)** Remember, you can take a look at the data.sql file to look at the structure of that table and anything else that you may need.
+> **[1:00](https://www.linkedin.com/learning/learning-jdbc-24697410/challenge-implement-a-dao?u=76281980&t=60)** Remember, you can take a look at the data.[[SQL]] file to look at the structure of that table and anything else that you may need.
 >
 > **[1:08](https://www.linkedin.com/learning/learning-jdbc-24697410/challenge-implement-a-dao?u=76281980&t=68)** I'll be back next with my solution to this challenge.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), database (1), data (1), [[SQL]] (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** dao (4)
 > **Code Identifiers:** getall (1), getone (1)
 > **File Paths:** data.sql (1)
@@ -1714,8 +1694,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Implement a DAO
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jdbc-24697410/solution-implement-a-dao?u=76281980)
+#### [Solution: Implement a DAO](https://www.linkedin.com/learning/learning-jdbc-24697410/solution-implement-a-dao?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1755,11 +1734,11 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/learning-jdbc-24697410/solution-implement-a-dao?u=76281980&t=107)** So, we've got CRUD done, but there's still a little bit more that we can work with.
 >
-> **[1:51](https://www.linkedin.com/learning/learning-jdbc-24697410/solution-implement-a-dao?u=76281980&t=111)** So in the next video, we're going to actually take you into the next step, a little bit more advanced use of SQL, in order to do the work that we would do with JDBC.
+> **[1:51](https://www.linkedin.com/learning/learning-jdbc-24697410/solution-implement-a-dao?u=76281980&t=111)** So in the next video, we're going to actually take you into the next step, a little bit more advanced use of [[SQL]], in order to do the work that we would do with [[Java Database Connectivity (JDBC)|JDBC]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), next (2), data (1), [[SQL]] (1), [[Java Database Connectivity (JDBC)|Jdbc]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[Java Database Connectivity (JDBC)|Jdbc]] (1)
 > **Env Vars:** get_one (4), create (3), update (3), delete (3), dao (2)
 > **Code Identifiers:** getall (1), getone (1), processresultsset (1)
 > **SQL:** update (3)
@@ -1773,8 +1752,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using stored procedures
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jdbc-24697410/using-stored-procedures?u=76281980)
+#### [Using stored procedures](https://www.linkedin.com/learning/learning-jdbc-24697410/using-stored-procedures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1782,7 +1760,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/learning-jdbc-24697410/using-stored-procedures?u=76281980&t=5)** In our case, we're going to use a function, but the behavior is very much the same.
 >
-> **[0:12](https://www.linkedin.com/learning/learning-jdbc-24697410/using-stored-procedures?u=76281980&t=12)** The first thing that I want to do is open up the data of that SQL file, and if you go to the very bottom of it, you will see that we have a function created that will create a product based on some data, so let's go ahead and do that, so we're going to go to "src," "main," "java," and open up the "entity" package and we will create a new Java file in there, and we are going to call this "SimpleProduct."
+> **[0:12](https://www.linkedin.com/learning/learning-jdbc-24697410/using-stored-procedures?u=76281980&t=12)** The first thing that I want to do is open up the data of that [[SQL]] file, and if you go to the very bottom of it, you will see that we have a function created that will create a product based on some data, so let's go ahead and do that, so we're going to go to "src," "main," "[[Java]]," and open up the "entity" package and we will create a new Java file in there, and we are going to call this "SimpleProduct."
 >
 > **[0:43](https://www.linkedin.com/learning/learning-jdbc-24697410/using-stored-procedures?u=76281980&t=43)** Now, we need to put a few values in here, so "private String name," we'll add one above that, "private UUID," call it "productId," "private BigDecimal price," "private UUID vendorId," "private String vendorName," "private String contact," "private String phoneNumber," "private String email," and "private String address."
 >
@@ -1836,11 +1814,11 @@ created: 2026-05-02
 >
 > **[8:43](https://www.linkedin.com/learning/learning-jdbc-24697410/using-stored-procedures?u=76281980&t=523)** So now, if we run our system, you will see at the bottom here that we actually have created a "SIMPLE PRODUCT" and we have an ID, so now, what I want to do is do a "psql -U $POSTGRES_USER -d
 >
-> **[9:05](https://www.linkedin.com/learning/learning-jdbc-24697410/using-stored-procedures?u=76281980&t=545)** $ POSTGRES_DB -h local host," and I will do a "select * from wisdom.products," where "product_id" equals, and I'll grab this value, and put it into quotes, and you'll see that we have a product that we just added in the product database through that function.
+> **[9:05](https://www.linkedin.com/learning/learning-jdbc-24697410/using-stored-procedures?u=76281980&t=545)** $ POSTGRES_DB -h local host," and I will do a "select * from wisdom.[[Microsoft Products|products]]," where "product_id" equals, and I'll grab this value, and put it into quotes, and you'll see that we have a product that we just added in the product database through that function.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), [[Java]] (3), data (2), database (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Java]] (3), [[SQL]] (1), [[Microsoft Products|Products]] (1)
 > **Code Identifiers:** productid (3), vendorname (3), createproduct (2), returnval (2), setstring (2)
 > **Env Vars:** uuid (7), create (2), simple (2), product (2), sql (1)
 > **CLI Commands:** make (3), psql (1)
@@ -1848,14 +1826,13 @@ created: 2026-05-02
 > **Versions:** 45.67 (1)
 > **Speakers:** - [person] (1)
 
-#### Ordering and limiting results
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jdbc-24697410/ordering-and-limiting-results?u=76281980)
+#### [Ordering and limiting results](https://www.linkedin.com/learning/learning-jdbc-24697410/ordering-and-limiting-results?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-jdbc-24697410/ordering-and-limiting-results?u=76281980&t=0)** - [Instructor] So now we're going to walk through the concept of ordering, and limiting results, and doing so through buying variables.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-jdbc-24697410/ordering-and-limiting-results?u=76281980&t=8)** So what I want you to do is to go into source main Java, open up the Dao package and go to the service Dao.
+> **[0:08](https://www.linkedin.com/learning/learning-jdbc-24697410/ordering-and-limiting-results?u=76281980&t=8)** So what I want you to do is to go into source main [[Java]], open up the Dao package and go to the service Dao.
 >
 > **[0:20](https://www.linkedin.com/learning/learning-jdbc-24697410/ordering-and-limiting-results?u=76281980&t=20)** Now at the very top, we're going to do a private static final String, GET_ALL_LIMIT, and we're going to set that equal to select service id, name, price from wisdom.services order by name limit ?.
 >
@@ -1887,7 +1864,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/learning-jdbc-24697410/ordering-and-limiting-results?u=76281980&t=164)** We can then close that result set.
 >
-> **[2:49](https://www.linkedin.com/learning/learning-jdbc-24697410/ordering-and-limiting-results?u=76281980&t=169)** We will catch a SQL exception.
+> **[2:49](https://www.linkedin.com/learning/learning-jdbc-24697410/ordering-and-limiting-results?u=76281980&t=169)** We will catch a [[SQL]] exception.
 >
 > **[2:55](https://www.linkedin.com/learning/learning-jdbc-24697410/ordering-and-limiting-results?u=76281980&t=175)** And as we've done so many times before, we'll call into DatabaseUtils, handleSqLException ServiceDao.getAll.
 >
@@ -1921,8 +1898,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Paging
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jdbc-24697410/paging?u=76281980)
+#### [Paging](https://www.linkedin.com/learning/learning-jdbc-24697410/paging?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1930,7 +1906,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/learning-jdbc-24697410/paging?u=76281980&t=6)** So paging is a concept that varies between each database.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-jdbc-24697410/paging?u=76281980&t=9)** I'm going to show you a pattern that works on Postgres and a couple other databases out there.
+> **[0:09](https://www.linkedin.com/learning/learning-jdbc-24697410/paging?u=76281980&t=9)** I'm going to show you a pattern that works on [[PostgreSQL|Postgres]] and a couple other [[Databases]] out there.
 >
 > **[0:15](https://www.linkedin.com/learning/learning-jdbc-24697410/paging?u=76281980&t=15)** The key here is how we manage pages.
 >
@@ -1978,7 +1954,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/learning-jdbc-24697410/paging?u=76281980&t=213)** We'll set our customers equal to this .process results set, passing in the results set and then we will do a results set.close.
 >
-> **[3:44](https://www.linkedin.com/learning/learning-jdbc-24697410/paging?u=76281980&t=224)** And now we can catch our SQL exception.
+> **[3:44](https://www.linkedin.com/learning/learning-jdbc-24697410/paging?u=76281980&t=224)** And now we can catch our [[SQL]] exception.
 >
 > **[3:51](https://www.linkedin.com/learning/learning-jdbc-24697410/paging?u=76281980&t=231)** And if we get an exception, we will do our database utils.handle SQL exception.
 >
@@ -2020,7 +1996,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), [[PostgreSQL|Postgres]] (2), [[SQL]] (2), [[Databases]] (1), web (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (2), [[SQL]] (2), [[Databases]] (1)
 > **Env Vars:** dao (3), sql (2)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** setint (2)
@@ -2028,8 +2004,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Connection pooling and management
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jdbc-24697410/connection-pooling-and-management?u=76281980)
+#### [Connection pooling and management](https://www.linkedin.com/learning/learning-jdbc-24697410/connection-pooling-and-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2093,19 +2068,18 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/learning-jdbc-24697410/connection-pooling-and-management?u=76281980&t=206)** You'll see this a lot if you're doing Spring, especially a little bit older Spring.
 >
-> **[3:30](https://www.linkedin.com/learning/learning-jdbc-24697410/connection-pooling-and-management?u=76281980&t=210)** And then there's HikariCP, which is probably the one that I have used the most just because it's the one that was selected and it's the one that we just operated with when I was doing a lot more Java development as opposed to architecture.
+> **[3:30](https://www.linkedin.com/learning/learning-jdbc-24697410/connection-pooling-and-management?u=76281980&t=210)** And then there's HikariCP, which is probably the one that I have used the most just because it's the one that was selected and it's the one that we just operated with when I was doing a lot more [[Java]] development as opposed to architecture.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), database (1), data (1), web (1), next (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Env Vars:** jvm (4), tcp (2), dbcp (1), cpo (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** apache (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding transactions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jdbc-24697410/understanding-transactions?u=76281980)
+#### [Understanding transactions](https://www.linkedin.com/learning/learning-jdbc-24697410/understanding-transactions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2133,7 +2107,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/learning-jdbc-24697410/understanding-transactions?u=76281980&t=64)** It can at that point be committed or written to disk in a way that it can then be read by other systems.
 >
-> **[1:13](https://www.linkedin.com/learning/learning-jdbc-24697410/understanding-transactions?u=76281980&t=73)** Many databases implement this by putting the data into swap until you get to this point.
+> **[1:13](https://www.linkedin.com/learning/learning-jdbc-24697410/understanding-transactions?u=76281980&t=73)** Many [[Databases]] implement this by putting the data into swap until you get to this point.
 >
 > **[1:21](https://www.linkedin.com/learning/learning-jdbc-24697410/understanding-transactions?u=76281980&t=81)** Now, each database is a little bit different, but the most important concept here to understand is that the data sits in a state where it is not readable by other operations until the commit has occurred.
 >
@@ -2187,13 +2161,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Databases]] (1), database (1), application (1)
+> **Frameworks & Libraries:** [[Databases]] (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** rdbms (1)
 > **Speakers:** - [presenter] (1)
 
-#### Exception handling in JDBC
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jdbc-24697410/exception-handling-in-jdbc?u=76281980)
+#### [Exception handling in JDBC](https://www.linkedin.com/learning/learning-jdbc-24697410/exception-handling-in-jdbc?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2201,7 +2174,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/learning-jdbc-24697410/exception-handling-in-jdbc?u=76281980&t=7)** So first of all, why have we gone through all of this work?
 >
-> **[0:11](https://www.linkedin.com/learning/learning-jdbc-24697410/exception-handling-in-jdbc?u=76281980&t=11)** Error handling in JDBC quite honestly can be a nightmare if you don't manage it.
+> **[0:11](https://www.linkedin.com/learning/learning-jdbc-24697410/exception-handling-in-jdbc?u=76281980&t=11)** Error handling in [[Java Database Connectivity (JDBC)|JDBC]] quite honestly can be a nightmare if you don't manage it.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-jdbc-24697410/exception-handling-in-jdbc?u=76281980&t=17)** Everything is a SQLException, and you have to actually unpack the exception to see what the actual error code coming from the database is and what that means.
 >
@@ -2225,7 +2198,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/learning-jdbc-24697410/exception-handling-in-jdbc?u=76281980&t=94)** We tend to look at the most common past and build a named exception for these.
 >
-> **[1:39](https://www.linkedin.com/learning/learning-jdbc-24697410/exception-handling-in-jdbc?u=76281980&t=99)** Then you would have a generic exception that is named for the rest of them.
+> **[1:39](https://www.linkedin.com/learning/learning-jdbc-24697410/exception-handling-in-jdbc?u=76281980&t=99)** Then you would have a generic exception that is named for the [[Representational State Transfer (REST)|rest]] of them.
 >
 > **[1:44](https://www.linkedin.com/learning/learning-jdbc-24697410/exception-handling-in-jdbc?u=76281980&t=104)** But by putting it into your codes, you can actually handle it much easier because you know the common cases and how to handle flow control.
 >
@@ -2263,7 +2236,7 @@ created: 2026-05-02
 >
 > **[4:13](https://www.linkedin.com/learning/learning-jdbc-24697410/exception-handling-in-jdbc?u=76281980&t=253)** The leaking of data access technology into higher levels creates a very tight coupling in your code that is not the best way to do it when you ultimately have to split it up or change the underlying code to be a different database.
 >
-> **[4:30](https://www.linkedin.com/learning/learning-jdbc-24697410/exception-handling-in-jdbc?u=76281980&t=270)** Let's say you go from an RDBMS to a NoSQL, now those SQLExceptions that you threw from layer to layer all have to be converted into the new database exception.
+> **[4:30](https://www.linkedin.com/learning/learning-jdbc-24697410/exception-handling-in-jdbc?u=76281980&t=270)** Let's say you go from an RDBMS to a [[NoSQL]], now those SQLExceptions that you threw from layer to layer all have to be converted into the new database exception.
 >
 > **[4:43](https://www.linkedin.com/learning/learning-jdbc-24697410/exception-handling-in-jdbc?u=76281980&t=283)** It's just not an effective way to do it.
 >
@@ -2271,7 +2244,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), generic (3), data (3), application (2), [[Java Database Connectivity (JDBC)|Jdbc]] (1)
+> **Frameworks & Libraries:** [[Java Database Connectivity (JDBC)|Jdbc]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[NoSQL]] (1)
 > **Env Vars:** jdbc (1), http (1), rdbms (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2281,12 +2254,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### JPA and ORM
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jdbc-24697410/jpa-and-orm?u=76281980)
+#### [JPA and ORM](https://www.linkedin.com/learning/learning-jdbc-24697410/jpa-and-orm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jdbc-24697410/jpa-and-orm?u=76281980&t=0)** - [Instructor] I would be remiss in a course on JDBC if I didn't at least touch on JPA and ORMs.
+> **[0:00](https://www.linkedin.com/learning/learning-jdbc-24697410/jpa-and-orm?u=76281980&t=0)** - [Instructor] I would be remiss in a course on [[Java Database Connectivity (JDBC)|JDBC]] if I didn't at least touch on JPA and ORMs.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-jdbc-24697410/jpa-and-orm?u=76281980&t=8)** So why would you use JDBC?
 >
@@ -2298,7 +2270,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/learning-jdbc-24697410/jpa-and-orm?u=76281980&t=36)** JDBC gives your DBAs much more control, however, which can improve performance.
 >
-> **[0:43](https://www.linkedin.com/learning/learning-jdbc-24697410/jpa-and-orm?u=76281980&t=43)** In fact, I've built patterns where all of my JDBC statements, my SQL statements, were written into a properties file that my DBAs would actually be able to peruse and edit.
+> **[0:43](https://www.linkedin.com/learning/learning-jdbc-24697410/jpa-and-orm?u=76281980&t=43)** In fact, I've built patterns where all of my JDBC statements, my [[SQL]] statements, were written into a properties file that my DBAs would actually be able to peruse and edit.
 >
 > **[0:55](https://www.linkedin.com/learning/learning-jdbc-24697410/jpa-and-orm?u=76281980&t=55)** And we injected those into applications at runtime.
 >
@@ -2308,7 +2280,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/learning-jdbc-24697410/jpa-and-orm?u=76281980&t=73)** So let's talk a little bit about what ORM is.
 >
-> **[1:16](https://www.linkedin.com/learning/learning-jdbc-24697410/jpa-and-orm?u=76281980&t=76)** An object relational mapper, ORM allows you to interact with databases through objects themselves instead of SQL statements.
+> **[1:16](https://www.linkedin.com/learning/learning-jdbc-24697410/jpa-and-orm?u=76281980&t=76)** An object relational mapper, ORM allows you to interact with [[Databases]] through objects themselves instead of SQL statements.
 >
 > **[1:27](https://www.linkedin.com/learning/learning-jdbc-24697410/jpa-and-orm?u=76281980&t=87)** Technically a technique, but most devs call the library and ORM.
 >
@@ -2318,7 +2290,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/learning-jdbc-24697410/jpa-and-orm?u=76281980&t=116)** Hibernate, as I alluded to, is a very common implementation of a library that uses object relational mapping or ORM.
 >
-> **[2:06](https://www.linkedin.com/learning/learning-jdbc-24697410/jpa-and-orm?u=76281980&t=126)** Now all of this is built on the Java persistence API or JPA.
+> **[2:06](https://www.linkedin.com/learning/learning-jdbc-24697410/jpa-and-orm?u=76281980&t=126)** Now all of this is built on the [[Java]] persistence API or JPA.
 >
 > **[2:12](https://www.linkedin.com/learning/learning-jdbc-24697410/jpa-and-orm?u=76281980&t=132)** This is a standard Java EE Jakarta EE specification for ORM.
 >
@@ -2332,25 +2304,24 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/learning-jdbc-24697410/jpa-and-orm?u=76281980&t=177)** I did allude to the fact, however, that ORM comes with a cost.
 >
-> **[3:01](https://www.linkedin.com/learning/learning-jdbc-24697410/jpa-and-orm?u=76281980&t=181)** You do run the risk of doing things like generating Cartesian products, especially if you use a DAO pattern.
+> **[3:01](https://www.linkedin.com/learning/learning-jdbc-24697410/jpa-and-orm?u=76281980&t=181)** You do run the risk of doing things like generating Cartesian [[Microsoft Products|products]], especially if you use a DAO pattern.
 >
 > **[3:09](https://www.linkedin.com/learning/learning-jdbc-24697410/jpa-and-orm?u=76281980&t=189)** My general recommendation is if you are doing JPA, go ahead and do a repository pattern to avoid any of those potential pitfalls.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java Database Connectivity (JDBC)|Jdbc]] (6), [[SQL]] (4), [[Java]] (2), [[Databases]] (1), api (1)
+> **Frameworks & Libraries:** [[Java Database Connectivity (JDBC)|Jdbc]] (6), [[SQL]] (4), [[Java]] (2), [[Databases]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** orm (9), jdbc (6), jpa (4), sql (4), dba (1)
 > **Definitions:** is a  (3), is an  (2)
 > **Documentation:** specification (1)
 > **Exercise Files:** boilerplate (1)
 > **Speakers:** - [instructor] (1)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jdbc-24697410/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/learning-jdbc-24697410/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jdbc-24697410/next-steps?u=76281980&t=0)** - [Instructor] Now I want to talk about some next steps in your journey with JDBC.
+> **[0:00](https://www.linkedin.com/learning/learning-jdbc-24697410/next-steps?u=76281980&t=0)** - [Instructor] Now I want to talk about some next steps in your journey with [[Java Database Connectivity (JDBC)|JDBC]].
 >
 > **[0:05](https://www.linkedin.com/learning/learning-jdbc-24697410/next-steps?u=76281980&t=5)** Before we get there, I want to talk a little bit about what we've learned.
 >
@@ -2366,15 +2337,15 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/learning-jdbc-24697410/next-steps?u=76281980&t=41)** Well, I would advise you to spend a little bit of time and learn JPA.
 >
-> **[0:46](https://www.linkedin.com/learning/learning-jdbc-24697410/next-steps?u=76281980&t=46)** In addition, I would encourage you to study Spring data access patterns because they really focus on the repository pattern as well as using JPA, and it's a great bridge between all of these technologies.
+> **[0:46](https://www.linkedin.com/learning/learning-jdbc-24697410/next-steps?u=76281980&t=46)** In addition, I would encourage you to study [[Spring Data]] access patterns because they really focus on the repository pattern as well as using JPA, and it's a great bridge between all of these technologies.
 >
 > **[1:00](https://www.linkedin.com/learning/learning-jdbc-24697410/next-steps?u=76281980&t=60)** Of course, you should learn Hibernate if you're going to do JPA and look at the pros and cons of it.
 >
-> **[1:07](https://www.linkedin.com/learning/learning-jdbc-24697410/next-steps?u=76281980&t=67)** And I can't emphasize enough the power of learning SQL.
+> **[1:07](https://www.linkedin.com/learning/learning-jdbc-24697410/next-steps?u=76281980&t=67)** And I can't emphasize enough the power of learning [[SQL]].
 >
 > **[1:11](https://www.linkedin.com/learning/learning-jdbc-24697410/next-steps?u=76281980&t=71)** Whether you're using JPA or you're using JDBC or any other database technology, understanding the underlying SQL is a very valuable proposition.
 >
-> **[1:23](https://www.linkedin.com/learning/learning-jdbc-24697410/next-steps?u=76281980&t=83)** Now, my commitment to you does not end with this course, and there's a few ways that you can get ahold of me, on LinkedIn through the Question and Answer section, on this course or through my profile, also on Twitter, now called X, using @fpmoles, and StackOverflow or GitHub by the same handle.
+> **[1:23](https://www.linkedin.com/learning/learning-jdbc-24697410/next-steps?u=76281980&t=83)** Now, my commitment to you does not end with this course, and there's a few ways that you can get ahold of me, on [[LinkedIn]] through the Question and Answer section, on this course or through my profile, also on Twitter, now called X, using @fpmoles, and StackOverflow or [[GitHub]] by the same handle.
 >
 > **[1:46](https://www.linkedin.com/learning/learning-jdbc-24697410/next-steps?u=76281980&t=106)** Now, the fact that you've spent this time with me is not lost on me at all.
 >
@@ -2388,7 +2359,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java Database Connectivity (JDBC)|Jdbc]] (3), database (3), next (2), [[SQL]] (2), [[Spring Data]] (1)
+> **Frameworks & Libraries:** [[Java Database Connectivity (JDBC)|Jdbc]] (3), [[SQL]] (2), [[Spring Data]] (1), [[LinkedIn]] (1), [[GitHub]] (1)
 > **Env Vars:** jpa (5), jdbc (3), sql (2), rdbms (1), crud (1)
 > **CLI Commands:** find (1)
 > **Tools:** github (1)

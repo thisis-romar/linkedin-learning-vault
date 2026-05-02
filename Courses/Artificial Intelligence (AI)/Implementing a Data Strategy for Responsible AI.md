@@ -97,18 +97,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data strategy essentials for responsible generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/data-strategy-essentials-for-responsible-generative-ai?u=76281980)
+#### [Data strategy essentials for responsible generative AI](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/data-strategy-essentials-for-responsible-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/data-strategy-essentials-for-responsible-generative-ai?u=76281980&t=0)** - Are you uncertain if you're following responsible AI practices when using generative AI tools?
+> **[0:00](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/data-strategy-essentials-for-responsible-generative-ai?u=76281980&t=0)** - Are you uncertain if you're following [[Responsible AI]] practices when using [[Generative AI Tools]]?
 >
 > **[0:07](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/data-strategy-essentials-for-responsible-generative-ai?u=76281980&t=7)** You may feel that they are at odds with each other, but they aren't.
 >
 > **[0:12](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/data-strategy-essentials-for-responsible-generative-ai?u=76281980&t=12)** You need to understand how to integrate responsible actions and having a clear data strategy is your entry point.
 >
-> **[0:21](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/data-strategy-essentials-for-responsible-generative-ai?u=76281980&t=21)** In this course, I'll teach you data considerations, implications, and issues commonly observed throughout the generative AI product development lifecycle.
+> **[0:21](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/data-strategy-essentials-for-responsible-generative-ai?u=76281980&t=21)** In this course, I'll teach you data considerations, implications, and issues commonly observed throughout the [[Generative AI]] [[Product Development]] lifecycle.
 >
 > **[0:34](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/data-strategy-essentials-for-responsible-generative-ai?u=76281980&t=34)** We'll walk through the stages of development, highlighting data approaches and methods that support responsible generative AI uses.
 >
@@ -122,7 +121,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Generative AI Tools]] (2), [[Generative AI]] (2), [[Responsible AI]] (1), [[Product Development]] (1)
+> **Frameworks & Libraries:** [[Generative AI Tools]] (2), [[Generative AI]] (2), [[Responsible AI]] (1), [[Product Development]] (1)
 > **Speakers:** - are (1)
 
 
@@ -130,8 +129,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Origins of data
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/origins-of-data?u=76281980)
+#### [Origins of data](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/origins-of-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -153,7 +151,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/origins-of-data?u=76281980&t=33)** We've been in the data industry long enough to know that the perception of data isn't the reality of data.
 >
-> **[0:41](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/origins-of-data?u=76281980&t=41)** Data comes in many, many forms.
+> **[0:41](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/origins-of-data?u=76281980&t=41)** Data comes in many, many [[Forms]].
 >
 > **[0:46](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/origins-of-data?u=76281980&t=46)** Data are commonly referred to as numbers, but data are also text, audio, visual, media, graphs and charts.
 >
@@ -163,7 +161,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/origins-of-data?u=76281980&t=78)** There's a suite of systems and platforms tap to help us manage our roles better.
 >
-> **[1:25](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/origins-of-data?u=76281980&t=85)** And of course, we adopt the use of other apps for banking, entertainment, and the like.
+> **[1:25](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/origins-of-data?u=76281980&t=85)** And of course, we adopt the use of other apps for [[Banking]], entertainment, and the like.
 >
 > **[1:33](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/origins-of-data?u=76281980&t=93)** The origins of data starts and ends with us.
 >
@@ -171,16 +169,15 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/origins-of-data?u=76281980&t=108)** While we're part of the AI tool app and platform development team, let's never lose sight of our own data consumption and production cycle.
 >
-> **[2:00](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/origins-of-data?u=76281980&t=120)** It'll make us better stewards of transparency, accountability, and governance within the AI ecosystem.
+> **[2:00](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/origins-of-data?u=76281980&t=120)** It'll make us better stewards of transparency, [[Accountability]], and governance within the AI ecosystem.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), ai (2), [[Forms]] (1), web (1), [[Banking]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Banking]] (1), [[Accountability]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Transparency: What happens to data
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/transparency-what-happens-to-data?u=76281980)
+#### [Transparency: What happens to data](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/transparency-what-happens-to-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -190,7 +187,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/transparency-what-happens-to-data?u=76281980&t=12)** You're one of the very few people who understands and sees how data is translated.
 >
-> **[0:18](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/transparency-what-happens-to-data?u=76281980&t=18)** You see how lines of code turn into algorithms, algorithms are tested for quality and performance using curated data sets.
+> **[0:18](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/transparency-what-happens-to-data?u=76281980&t=18)** You see how lines of code turn into [[Algorithms]], algorithms are tested for quality and performance using curated data sets.
 >
 > **[0:28](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/transparency-what-happens-to-data?u=76281980&t=28)** These algorithms are knit together to grow into systems, and these systems are packaged into tools and platforms so that individuals and company can use them.
 >
@@ -198,7 +195,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/transparency-what-happens-to-data?u=76281980&t=50)** Data in its truest form is inherently messy.
 >
-> **[0:55](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/transparency-what-happens-to-data?u=76281980&t=55)** That's why metadata exists.
+> **[0:55](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/transparency-what-happens-to-data?u=76281980&t=55)** That's why [[Metadata]] exists.
 >
 > **[0:58](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/transparency-what-happens-to-data?u=76281980&t=58)** Metadata helps you better understand the context of the data you're trying to work with.
 >
@@ -214,7 +211,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/transparency-what-happens-to-data?u=76281980&t=97)** And last, archive, where you're curating, indexing, or destroying existing data elements.
 >
-> **[1:46](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/transparency-what-happens-to-data?u=76281980&t=106)** The output of each stage serves as input into the next one, and with that, data integrity and quality needs to be reaffirmed by you as one of the stewards of transparency.
+> **[1:46](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/transparency-what-happens-to-data?u=76281980&t=106)** The output of each stage serves as input into the next one, and with that, [[Data Integrity]] and quality needs to be reaffirmed by you as one of the stewards of transparency.
 >
 > **[2:01](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/transparency-what-happens-to-data?u=76281980&t=121)** You're clear-eyed in your work life.
 >
@@ -232,12 +229,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Algorithms]] (4), next (3), ai (2), [[Metadata]] (2)
+> **Frameworks & Libraries:** [[Algorithms]] (4), [[Metadata]] (2), [[Data Integrity]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Accountability: Data-guiding decision
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/accountability-data-guiding-decision?u=76281980)
+#### [Accountability: Data-guiding decision](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/accountability-data-guiding-decision?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -253,7 +249,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/accountability-data-guiding-decision?u=76281980&t=41)** And lastly, both reports collect dust on the digital shelf and never looked at again.
 >
-> **[0:51](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/accountability-data-guiding-decision?u=76281980&t=51)** Robust accountability tactics is the next major part of building and sustaining a more responsible AI company.
+> **[0:51](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/accountability-data-guiding-decision?u=76281980&t=51)** Robust [[Accountability]] tactics is the next major part of building and sustaining a more [[Responsible AI]] company.
 >
 > **[1:00](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/accountability-data-guiding-decision?u=76281980&t=60)** An organization's response to its AI systems failing customers is indicative of their corporate citizenship.
 >
@@ -277,9 +273,9 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/accountability-data-guiding-decision?u=76281980&t=144)** [OCED.ai](https://OCED.ai) has curated a list of over 100 metrics to help data and AI teams wrangle the accuracy, reliability, and adaptability of their AI models and systems.
 >
-> **[2:41](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/accountability-data-guiding-decision?u=76281980&t=161)** Many companies concentrate their accountability efforts on keeping tabs on their data quality scores, data availability percentages, rate of data incidents, and data uses and adoption rates.
+> **[2:41](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/accountability-data-guiding-decision?u=76281980&t=161)** Many companies concentrate their accountability efforts on keeping tabs on their [[Data Quality]] scores, data availability percentages, rate of data incidents, and data uses and adoption rates.
 >
-> **[2:59](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/accountability-data-guiding-decision?u=76281980&t=179)** Some companies align their accountability practices around the FAIR principles, which stands for findable, such that metadata and data can easily be found for both humans and computers.
+> **[2:59](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/accountability-data-guiding-decision?u=76281980&t=179)** Some companies align their accountability practices around the FAIR principles, which stands for findable, such that [[Metadata]] and data can easily be found for both humans and computers.
 >
 > **[3:17](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/accountability-data-guiding-decision?u=76281980&t=197)** Accessible, so that people know how that data can be accessed via proper credentialing.
 >
@@ -295,21 +291,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), ai (7), [[Accountability]] (6), teams (3), leadership (2)
+> **Frameworks & Libraries:** [[Accountability]] (6), [[Responsible AI]] (1), [[Data Quality]] (1), [[Metadata]] (1)
 > **Env Vars:** oced (1), fair (1)
 > **URLs:** [oced.ai](https://oced.ai) (1)
 > **Definitions:** stands for (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Governance: Data ethics and data equity
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/governance-data-ethics-and-data-equity?u=76281980)
+#### [Governance: Data ethics and data equity](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/governance-data-ethics-and-data-equity?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/governance-data-ethics-and-data-equity?u=76281980&t=0)** - [Instructor] Many teams work in silos when building their more responsible data and AI practices.
 >
-> **[0:08](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/governance-data-ethics-and-data-equity?u=76281980&t=8)** Here's where data and AI governance is instrumental.
+> **[0:08](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/governance-data-ethics-and-data-equity?u=76281980&t=8)** Here's where data and [[AI Governance]] is instrumental.
 >
 > **[0:12](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/governance-data-ethics-and-data-equity?u=76281980&t=12)** Companies that seek to coordinate their data and AI governance require intentional leadership, strategy, and execution plans.
 >
@@ -319,7 +314,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/governance-data-ethics-and-data-equity?u=76281980&t=35)** Companies start with establishing a common language around their data and AI governance.
 >
-> **[0:43](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/governance-data-ethics-and-data-equity?u=76281980&t=43)** One key term is data ethics.
+> **[0:43](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/governance-data-ethics-and-data-equity?u=76281980&t=43)** One key term is [[Data Ethics]].
 >
 > **[0:47](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/governance-data-ethics-and-data-equity?u=76281980&t=47)** My definition has two parts: creating systemic ways that promotes responsible and sustainable use of data and identifying, defending, and recommending right and wrong conduct when it comes to data.
 >
@@ -327,7 +322,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/governance-data-ethics-and-data-equity?u=76281980&t=76)** Companies have been aligning their customer relationship data operations to be in GDPR compliant.
 >
-> **[1:25](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/governance-data-ethics-and-data-equity?u=76281980&t=85)** That entails providing structures, not only around transparency and accountability, but also confidentiality, accuracy, data minimization, storage limitation, and purpose limitation.
+> **[1:25](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/governance-data-ethics-and-data-equity?u=76281980&t=85)** That entails providing structures, not only around transparency and [[Accountability]], but also confidentiality, accuracy, data minimization, storage limitation, and purpose limitation.
 >
 > **[1:43](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/governance-data-ethics-and-data-equity?u=76281980&t=103)** Another key term is data equity.
 >
@@ -337,9 +332,9 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/governance-data-ethics-and-data-equity?u=76281980&t=128)** Data equity in practice has been interpreted as risk management by data and AI industries.
 >
-> **[2:17](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/governance-data-ethics-and-data-equity?u=76281980&t=137)** One comprehensive attempt to capture and carry out data equity was created by the National Institute of Standards and Technology, or NIST.
+> **[2:17](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/governance-data-ethics-and-data-equity?u=76281980&t=137)** One comprehensive attempt to capture and carry out data equity was created by the National Institute of Standards and Technology, or [[NIST]].
 >
-> **[2:28](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/governance-data-ethics-and-data-equity?u=76281980&t=148)** NIST's Artificial Intelligence Risk Management Framework, or AI RMF, serves as a practical guide for companies to center people in AI development.
+> **[2:28](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/governance-data-ethics-and-data-equity?u=76281980&t=148)** NIST's [[Artificial Intelligence (AI)|Artificial Intelligence]] [[Risk Management Framework (RMF)|Risk Management Framework]], or AI RMF, serves as a practical guide for companies to center people in AI development.
 >
 > **[2:42](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/governance-data-ethics-and-data-equity?u=76281980&t=162)** NIST's AI RMF consists of four pillars.
 >
@@ -357,19 +352,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), ai (13), management (3), [[NIST]] (3), rmf (2)
+> **Frameworks & Libraries:** [[AI Governance]] (4), [[NIST]] (3), [[Data Ethics]] (1), [[Accountability]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Env Vars:** nist (3), gdpr (2), rmf (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data and the AI development lifecycle
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/data-and-the-ai-development-lifecycle?u=76281980)
+#### [Data and the AI development lifecycle](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/data-and-the-ai-development-lifecycle?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/data-and-the-ai-development-lifecycle?u=76281980&t=0)** - [Instructor] The connection between data and AI is undeniable.
 >
-> **[0:05](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/data-and-the-ai-development-lifecycle?u=76281980&t=5)** Data fuels the algorithms that make up AI systems, tools, and platforms.
+> **[0:05](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/data-and-the-ai-development-lifecycle?u=76281980&t=5)** Data fuels the [[Algorithms]] that make up AI systems, tools, and platforms.
 >
 > **[0:12](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/data-and-the-ai-development-lifecycle?u=76281980&t=12)** There's so much conversation about AI that data gets lost in the shuffle.
 >
@@ -383,11 +377,11 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/data-and-the-ai-development-lifecycle?u=76281980&t=39)** It can serve as a tool to potentially gain competitive advantage, boost operational efficiency, and automate repetitive tasks.
 >
-> **[0:49](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/data-and-the-ai-development-lifecycle?u=76281980&t=49)** It can also deliver harms that perpetuate false information, sidestep confidentiality, and infringe on people's privacy.
+> **[0:49](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/data-and-the-ai-development-lifecycle?u=76281980&t=49)** It can also deliver harms that perpetuate false information, sidestep confidentiality, and infringe on people's [[Privacy]].
 >
 > **[1:01](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/data-and-the-ai-development-lifecycle?u=76281980&t=61)** So a separate data life cycle operates within each stage of the AI development life cycle.
 >
-> **[1:09](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/data-and-the-ai-development-lifecycle?u=76281980&t=69)** While many variations of the data life cycle exist, the more accurate representation performed by enterprise companies consists of six data management phases.
+> **[1:09](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/data-and-the-ai-development-lifecycle?u=76281980&t=69)** While many variations of the data life cycle exist, the more accurate representation performed by enterprise companies consists of six [[Data Management]] phases.
 >
 > **[1:24](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/data-and-the-ai-development-lifecycle?u=76281980&t=84)** These phases are self-explanatory.
 >
@@ -405,13 +399,13 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/data-and-the-ai-development-lifecycle?u=76281980&t=129)** Then we have the AI development life cycles.
 >
-> **[2:13](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/data-and-the-ai-development-lifecycle?u=76281980&t=133)** The predictive AI development life cycle has seven phases, while the generative AI project life cycle has four.
+> **[2:13](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/data-and-the-ai-development-lifecycle?u=76281980&t=133)** The [[Predictive AI]] development life cycle has seven phases, while the [[Generative AI]] project life cycle has four.
 >
 > **[2:23](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/data-and-the-ai-development-lifecycle?u=76281980&t=143)** For predictive AI development life cycles, you're likely familiar with each phase.
 >
 > **[2:30](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/data-and-the-ai-development-lifecycle?u=76281980&t=150)** Problem definition and requirement analysis starts us off.
 >
-> **[2:36](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/data-and-the-ai-development-lifecycle?u=76281980&t=156)** Data collection and preparation comes next.
+> **[2:36](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/data-and-the-ai-development-lifecycle?u=76281980&t=156)** [[Data Collection]] and preparation comes next.
 >
 > **[2:40](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/data-and-the-ai-development-lifecycle?u=76281980&t=160)** Then there's model selection and training.
 >
@@ -439,7 +433,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), ai (8), [[Generative AI]] (5), next (2), [[Predictive AI]] (2)
+> **Frameworks & Libraries:** [[Generative AI]] (5), [[Predictive AI]] (2), [[Algorithms]] (1), [[Privacy]] (1), [[Data Management]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -448,24 +442,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Expansion of data sources
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/expansion-of-data-sources?u=76281980)
+#### [Expansion of data sources](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/expansion-of-data-sources?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/expansion-of-data-sources?u=76281980&t=0)** - [Instructor] AI lifecycles all start at the same place: the data.
 >
-> **[0:05](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/expansion-of-data-sources?u=76281980&t=5)** And for the generative AI project lifecycle, the goal is to clarify an appropriate use case to anchor the product development process.
+> **[0:05](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/expansion-of-data-sources?u=76281980&t=5)** And for the [[Generative AI]] project lifecycle, the goal is to clarify an appropriate use case to anchor the [[Product Development]] process.
 >
 > **[0:18](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/expansion-of-data-sources?u=76281980&t=18)** Having the right data that's of quality and quantity is a standard requirement, but the protocols concerning data sourcing don't follow an industry standard.
 >
 > **[0:31](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/expansion-of-data-sources?u=76281980&t=31)** The opaqueness around where the data comes from has become a top concern for customers and companies alike.
 >
-> **[0:42](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/expansion-of-data-sources?u=76281980&t=42)** Companies want to make sure that their data creation and/or data collection methods are performed in lawful ways.
+> **[0:42](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/expansion-of-data-sources?u=76281980&t=42)** Companies want to make sure that their data creation and/or [[Data Collection]] methods are performed in lawful ways.
 >
 > **[0:50](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/expansion-of-data-sources?u=76281980&t=50)** They want to be clear on the originating source of the data.
 >
-> **[0:56](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/expansion-of-data-sources?u=76281980&t=56)** There are four common ways to obtain data for AI products.
+> **[0:56](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/expansion-of-data-sources?u=76281980&t=56)** There are four common ways to obtain data for AI [[Microsoft Products|products]].
 >
 > **[1:01](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/expansion-of-data-sources?u=76281980&t=61)** There's web scraping, public datasets, customer data, or synthetic data generation.
 >
@@ -481,7 +474,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/expansion-of-data-sources?u=76281980&t=111)** They range in format type, number of rows, task or application, creative commons, license category, and modality.
 >
-> **[2:03](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/expansion-of-data-sources?u=76281980&t=123)** For example, Hugging Face offers a versatile collection of datasets for you to choose from.
+> **[2:03](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/expansion-of-data-sources?u=76281980&t=123)** For example, [[Hugging Face]] offers a versatile collection of datasets for you to choose from.
 >
 > **[2:11](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/expansion-of-data-sources?u=76281980&t=131)** Then you have the choice of using customer data, which comes with greater risks.
 >
@@ -489,7 +482,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/expansion-of-data-sources?u=76281980&t=150)** So you could design your AI product around your ideal customers.
 >
-> **[2:36](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/expansion-of-data-sources?u=76281980&t=156)** On the negative side, you have to be diligent in protecting your customer's sensitive information, adhering to privacy laws, and getting your customer's consent.
+> **[2:36](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/expansion-of-data-sources?u=76281980&t=156)** On the negative side, you have to be diligent in protecting your customer's sensitive information, adhering to [[Privacy]] laws, and getting your customer's consent.
 >
 > **[2:50](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/expansion-of-data-sources?u=76281980&t=170)** Lastly, there's synthetic data generation.
 >
@@ -509,23 +502,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), ai (6), web (2), next (2), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[Product Development]] (1), [[Data Collection]] (1), [[Microsoft Products|Products]] (1), [[Hugging Face]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (2)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Real-time data processing
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/real-time-data-processing?u=76281980)
+#### [Real-time data processing](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/real-time-data-processing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/real-time-data-processing?u=76281980&t=0)** - [Narrator] One of the distinctive features of generative AI tools is for them to ingest and find connections for new data quickly.
+> **[0:00](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/real-time-data-processing?u=76281980&t=0)** - [Narrator] One of the distinctive features of [[Generative AI Tools]] is for them to ingest and find connections for new data quickly.
 >
 > **[0:10](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/real-time-data-processing?u=76281980&t=10)** The relevancy and accuracy of these new connections can be unreliable.
 >
-> **[0:16](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/real-time-data-processing?u=76281980&t=16)** There are both benefits and challenges to real-time data processing for generative AI.
+> **[0:16](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/real-time-data-processing?u=76281980&t=16)** There are both benefits and challenges to [[Real-Time]] [[Data Processing]] for [[Generative AI]].
 >
 > **[0:23](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/real-time-data-processing?u=76281980&t=23)** The four prevalent benefits include improved accuracy that's gained by the AI models incorporating the most recent data and revising predictions instantly.
 >
@@ -539,7 +531,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/real-time-data-processing?u=76281980&t=76)** Now, on the flip side, the challenges are what you may expect.
 >
-> **[1:22](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/real-time-data-processing?u=76281980&t=82)** Data quality issues arise when inconsistencies are introduced into the generative AI system.
+> **[1:22](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/real-time-data-processing?u=76281980&t=82)** [[Data Quality]] issues arise when inconsistencies are introduced into the generative AI system.
 >
 > **[1:30](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/real-time-data-processing?u=76281980&t=90)** For example, timeliness, freshness, or completeness could be at odds with each other or the usability or validity checks can't be resolved.
 >
@@ -549,7 +541,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/real-time-data-processing?u=76281980&t=124)** This lag can lead to overclocking, system stalls, and data loss.
 >
-> **[2:12](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/real-time-data-processing?u=76281980&t=132)** Scalability is the other big challenge.
+> **[2:12](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/real-time-data-processing?u=76281980&t=132)** [[Scalability]] is the other big challenge.
 >
 > **[2:16](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/real-time-data-processing?u=76281980&t=136)** The computational load to process huge amounts of data can be too demanding on AI models and systems.
 >
@@ -565,17 +557,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Scalability]] (4), [[Generative AI]] (3), ai (3), next (2)
+> **Frameworks & Libraries:** [[Scalability]] (4), [[Generative AI]] (3), [[Data Processing]] (2), [[Generative AI Tools]] (1), [[Real-Time]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Scalability and efficiency changes
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/scalability-and-efficiency-changes?u=76281980)
+#### [Scalability and efficiency changes](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/scalability-and-efficiency-changes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/scalability-and-efficiency-changes?u=76281980&t=0)** - [Narrator] Regardless of the AI product type you're building, you're regularly weighing the scalability possibilities with their corresponding efficiency impacts.
+> **[0:00](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/scalability-and-efficiency-changes?u=76281980&t=0)** - [Narrator] Regardless of the AI product type you're building, you're regularly weighing the [[Scalability]] possibilities with their corresponding efficiency impacts.
 >
 > **[0:10](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/scalability-and-efficiency-changes?u=76281980&t=10)** Hopefully, you're not making these decisions alone.
 >
@@ -585,15 +576,15 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/scalability-and-efficiency-changes?u=76281980&t=32)** Commonly garbage in, garbage out refers to input data being of poor quality.
 >
-> **[0:40](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/scalability-and-efficiency-changes?u=76281980&t=40)** But for generative AI, it also includes effective data management and observing computational limits.
+> **[0:40](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/scalability-and-efficiency-changes?u=76281980&t=40)** But for [[Generative AI]], it also includes effective [[Data Management]] and observing computational limits.
 >
 > **[0:50](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/scalability-and-efficiency-changes?u=76281980&t=50)** You have to ensure that you don't overload any AI model with data, especially during the test and validation phase.
 >
-> **[1:00](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/scalability-and-efficiency-changes?u=76281980&t=60)** The last thing you want is for the ingestion of too much data to stall your data processing progress, or to introduce data incompleteness given the dropping of data packets so you slowly increase data workloads while checking that there's little to no performance degradation.
+> **[1:00](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/scalability-and-efficiency-changes?u=76281980&t=60)** The last thing you want is for the ingestion of too much data to stall your [[Data Processing]] progress, or to introduce data incompleteness given the dropping of data packets so you slowly increase data workloads while checking that there's little to no performance degradation.
 >
-> **[1:25](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/scalability-and-efficiency-changes?u=76281980&t=85)** In addition to recalibrating data workloads and performing better data cleaning, model architecture optimizations offer ways to help manage generative AI efficiently.
+> **[1:25](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/scalability-and-efficiency-changes?u=76281980&t=85)** In addition to recalibrating data workloads and performing better [[Data Cleaning]], model architecture optimizations offer ways to help manage generative AI efficiently.
 >
-> **[1:39](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/scalability-and-efficiency-changes?u=76281980&t=99)** Model architecture optimizations come in three forms.
+> **[1:39](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/scalability-and-efficiency-changes?u=76281980&t=99)** Model architecture optimizations come in three [[Forms]].
 >
 > **[1:44](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/scalability-and-efficiency-changes?u=76281980&t=104)** Efficient architectures, model pruning, and quantization.
 >
@@ -619,18 +610,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), ai (4), [[Generative AI]] (3), [[Scalability]] (2), product (1)
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[Scalability]] (2), [[Data Management]] (1), [[Data Processing]] (1), [[Data Cleaning]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** refers to (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
-#### Enhanced data governance
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/enhanced-data-governance?u=76281980)
+#### [Enhanced data governance](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/enhanced-data-governance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/enhanced-data-governance?u=76281980&t=0)** - [Instructor] Getting your data into a valuable form isn't just a technical exercise of data translation, it's a data governance one too.
+> **[0:00](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/enhanced-data-governance?u=76281980&t=0)** - [Instructor] Getting your data into a valuable form isn't just a technical exercise of data translation, it's a [[Data Governance]] one too.
 >
 > **[0:11](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/enhanced-data-governance?u=76281980&t=11)** You're part of your organization's ecosystem in ensuring accessible, usable, secure, and trustworthy data.
 >
@@ -648,7 +638,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/enhanced-data-governance?u=76281980&t=81)** They're intended to be proactive in finding vulnerabilities before these vulnerabilities cause larger problems.
 >
-> **[1:31](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/enhanced-data-governance?u=76281980&t=91)** So, four, having a privacy policy that is easy to find, read and understand, five, reviewing third-party services and vendors, and ensuring they are GDPR compliance, and six, appoint a data protection officer if your organization's core activities involve processing sensitive data or monitoring individuals at a large scale.
+> **[1:31](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/enhanced-data-governance?u=76281980&t=91)** So, four, having a [[Privacy]] policy that is easy to find, read and understand, five, reviewing third-party services and vendors, and ensuring they are GDPR compliance, and six, appoint a data protection officer if your organization's core activities involve processing sensitive data or monitoring individuals at a large scale.
 >
 > **[2:04](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/enhanced-data-governance?u=76281980&t=124)** GDPR compliance is an important and big lift.
 >
@@ -660,9 +650,9 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/enhanced-data-governance?u=76281980&t=159)** Data masking replaces the true personal identifiable information, or PII, with fake equivalents, while data anonymization erases or encrypts PII instead.
 >
-> **[2:55](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/enhanced-data-governance?u=76281980&t=175)** Nearly three out of every four organizations are performing data quality checks as part of their GDPR compliance implementation.
+> **[2:55](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/enhanced-data-governance?u=76281980&t=175)** Nearly three out of every four organizations are performing [[Data Quality]] checks as part of their GDPR compliance implementation.
 >
-> **[3:06](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/enhanced-data-governance?u=76281980&t=186)** These checks routinely validate the organization's data for accuracy and completeness as to head off data integrity issues.
+> **[3:06](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/enhanced-data-governance?u=76281980&t=186)** These checks routinely validate the organization's data for accuracy and completeness as to head off [[Data Integrity]] issues.
 >
 > **[3:17](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/enhanced-data-governance?u=76281980&t=197)** And nearly four out of every 10 organizations are performing data risk assessments.
 >
@@ -676,7 +666,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), [[Privacy]] (1), database (1), ai (1)
+> **Frameworks & Libraries:** [[Data Governance]] (2), [[Privacy]] (1), [[Data Quality]] (1), [[Data Integrity]] (1)
 > **Env Vars:** gdpr (6), pii (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
@@ -687,22 +677,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Foundation models of generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/foundation-models-of-generative-ai?u=76281980)
+#### [Foundation models of generative AI](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/foundation-models-of-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/foundation-models-of-generative-ai?u=76281980&t=0)** - [Instructor] Generative AI had its public release in late 2022.
+> **[0:00](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/foundation-models-of-generative-ai?u=76281980&t=0)** - [Instructor] [[Generative AI]] had its public release in late 2022.
 >
 > **[0:05](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/foundation-models-of-generative-ai?u=76281980&t=5)** This meant that people with little to no background could both consume and produce new AI-aided tools.
 >
-> **[0:15](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/foundation-models-of-generative-ai?u=76281980&t=15)** Some reports state that over 2,000 generative AI tools are currently available, and they span industries, sectors, and modalities.
+> **[0:15](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/foundation-models-of-generative-ai?u=76281980&t=15)** Some reports state that over 2,000 [[Generative AI Tools]] are currently available, and they span industries, sectors, and modalities.
 >
-> **[0:26](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/foundation-models-of-generative-ai?u=76281980&t=26)** Popular ones include Microsoft Copilot, GitHub Copilot, Midjourney, Grammarly, DALLE-3, and Google Gemini.
+> **[0:26](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/foundation-models-of-generative-ai?u=76281980&t=26)** Popular ones include [[Microsoft Copilot]], [[GitHub Copilot]], [[Midjourney]], Grammarly, DALLE-3, and [[Google Gemini]].
 >
 > **[0:38](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/foundation-models-of-generative-ai?u=76281980&t=38)** The backbone of generative AI lies in its neural network architecture.
 >
-> **[0:44](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/foundation-models-of-generative-ai?u=76281980&t=44)** This architecture has its foundation in deep learning with a general framework of connected layers.
+> **[0:44](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/foundation-models-of-generative-ai?u=76281980&t=44)** This architecture has its foundation in [[Deep Learning]] with a general framework of connected layers.
 >
 > **[0:53](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/foundation-models-of-generative-ai?u=76281980&t=53)** The input layer receives data from various sources, and hidden layers use the Inputs features to make an algorithmic guess of the relationship between the existing inputs.
 >
@@ -718,7 +707,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/foundation-models-of-generative-ai?u=76281980&t=121)** You usually don't hear transformer unless provided in the formal name of GPT, Generative Pretrained Transformer.
 >
-> **[2:13](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/foundation-models-of-generative-ai?u=76281980&t=133)** Natural language processing tasks like text summarization and question/answering are frequent applications.
+> **[2:13](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/foundation-models-of-generative-ai?u=76281980&t=133)** [[Natural Language Processing (NLP)|Natural language processing]] tasks like text summarization and question/answering are frequent applications.
 >
 > **[2:22](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/foundation-models-of-generative-ai?u=76281980&t=142)** The transformer model isn't only applicable to text, though.
 >
@@ -736,23 +725,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (4), data (3), ai (1), [[Generative AI Tools]] (1), [[Microsoft Copilot]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (4), [[Generative AI Tools]] (1), [[Microsoft Copilot]] (1), [[GitHub Copilot]] (1), [[Midjourney]] (1)
 > **Env Vars:** dalle (1), gpt (1)
 > **CLI Commands:** make (1)
 > **Tools:** github (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adapting foundation models
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/adapting-foundation-models?u=76281980)
+#### [Adapting foundation models](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/adapting-foundation-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/adapting-foundation-models?u=76281980&t=0)** - [Instructor] In building generative AI models, you recognize the initial crucial step involves getting the training of that model correct.
+> **[0:00](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/adapting-foundation-models?u=76281980&t=0)** - [Instructor] In building [[Generative AI]] models, you recognize the initial crucial step involves getting the training of that model correct.
 >
 > **[0:09](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/adapting-foundation-models?u=76281980&t=9)** The model starts as an empty shell with random initializations of the model's parameters.
 >
-> **[0:17](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/adapting-foundation-models?u=76281980&t=17)** It hasn't activated any of the transformer architecture's components yet, using mathematical operations and statistics.
+> **[0:17](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/adapting-foundation-models?u=76281980&t=17)** It hasn't activated any of the transformer architecture's components yet, using mathematical operations and [[Statistics]].
 >
 > **[0:26](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/adapting-foundation-models?u=76281980&t=26)** Your model needs to be trained using a massive dataset.
 >
@@ -766,7 +754,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/adapting-foundation-models?u=76281980&t=75)** The three main techniques used to perform the task-specific training after the pre-training has been done are fine-tuning, adapters, or in-context learning.
 >
-> **[1:32](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/adapting-foundation-models?u=76281980&t=92)** Fine tuning works like this.
+> **[1:32](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/adapting-foundation-models?u=76281980&t=92)** [[Fine Tuning]] works like this.
 >
 > **[1:35](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/adapting-foundation-models?u=76281980&t=95)** It further tweaks the pre-trained model by training it on a smaller, task-specific dataset.
 >
@@ -786,7 +774,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/adapting-foundation-models?u=76281980&t=168)** In-context learning, it serves as another alternative to fine-tuning, by responding to a new task request using a small set of examples, also called shots.
 >
-> **[3:05](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/adapting-foundation-models?u=76281980&t=185)** This is a prompt engineering method applied as part of the prompt with zero, one, or a few shots.
+> **[3:05](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/adapting-foundation-models?u=76281980&t=185)** This is a [[Prompt Engineering]] method applied as part of the prompt with zero, one, or a few shots.
 >
 > **[3:16](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/adapting-foundation-models?u=76281980&t=196)** In-context learning relies on a robust inference framework.
 >
@@ -796,12 +784,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (1), [[Statistics]] (1), [[Fine Tuning]] (1), [[Prompt Engineering]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[Statistics]] (1), [[Fine Tuning]] (1), [[Prompt Engineering]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Scaling foundation models
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/scaling-foundation-models?u=76281980)
+#### [Scaling foundation models](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/scaling-foundation-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -849,7 +836,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/scaling-foundation-models?u=76281980&t=163)** Latent space representation compresses complex data into lower dimensional representation.
 >
-> **[2:51](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/scaling-foundation-models?u=76281980&t=171)** It helps to simplify complex data structures and reveal hidden patterns.
+> **[2:51](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/scaling-foundation-models?u=76281980&t=171)** It helps to simplify complex [[Data Structures]] and reveal hidden patterns.
 >
 > **[2:56](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/scaling-foundation-models?u=76281980&t=176)** AI models can better build relationships for similar data points while not creating connections for dissimilar data points.
 >
@@ -867,16 +854,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), business (1), prompt (1), ai (1), next (1)
+> **Frameworks & Libraries:** [[Data Structures]] (1)
 > **Cross-References:** we discussed (1), in the next (1)
 > **Speakers:** - [narrator] (1)
 
-#### Societal impacts of foundation models
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/societal-impacts-of-foundation-models?u=76281980)
+#### [Societal impacts of foundation models](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/societal-impacts-of-foundation-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/societal-impacts-of-foundation-models?u=76281980&t=0)** - [Instructor] Now that you've built this well-functioning task-specific pre-trained model, be aware of five common issues that still plague generative AI tools.
+> **[0:00](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/societal-impacts-of-foundation-models?u=76281980&t=0)** - [Instructor] Now that you've built this well-functioning task-specific pre-trained model, be aware of five common issues that still plague [[Generative AI Tools]].
 >
 > **[0:12](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/societal-impacts-of-foundation-models?u=76281980&t=12)** One, an adequate content filtering.
 >
@@ -884,13 +870,13 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/societal-impacts-of-foundation-models?u=76281980&t=22)** Three, lack of adversarial robustness.
 >
-> **[0:27](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/societal-impacts-of-foundation-models?u=76281980&t=27)** Four, limited explainability and accountability, and five unsatisfactory privacy safeguards.
+> **[0:27](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/societal-impacts-of-foundation-models?u=76281980&t=27)** Four, limited explainability and [[Accountability]], and five unsatisfactory [[Privacy]] safeguards.
 >
-> **[0:37](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/societal-impacts-of-foundation-models?u=76281980&t=37)** Now, not all output produced by generative AI models is real, it's realistic though.
+> **[0:37](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/societal-impacts-of-foundation-models?u=76281980&t=37)** Now, not all output produced by [[Generative AI]] models is real, it's realistic though.
 >
 > **[0:44](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/societal-impacts-of-foundation-models?u=76281980&t=44)** Misinformation, hate speech, and other harmful content can be mixed in with the relevant content.
 >
-> **[0:53](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/societal-impacts-of-foundation-models?u=76281980&t=53)** Using advanced adaptive filtering along with human and automated content moderation algorithms could help address the inadequate content filtering issue.
+> **[0:53](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/societal-impacts-of-foundation-models?u=76281980&t=53)** Using advanced adaptive filtering along with human and automated content moderation [[Algorithms]] could help address the inadequate content filtering issue.
 >
 > **[1:06](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/societal-impacts-of-foundation-models?u=76281980&t=66)** Inadequate content filtering became a problem, because manipulated content wasn't sufficiently detected before the output sequence ran.
 >
@@ -934,7 +920,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Accountability]] (3), [[Privacy]] (3), [[Generative AI]] (3), [[Generative AI Tools]] (2), data (2)
+> **Frameworks & Libraries:** [[Accountability]] (3), [[Privacy]] (3), [[Generative AI]] (3), [[Generative AI Tools]] (2), [[Algorithms]] (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
 > **Warnings:** be aware (1)
@@ -945,16 +931,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Securing generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/securing-generative-ai?u=76281980)
+#### [Securing generative AI](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/securing-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/securing-generative-ai?u=76281980&t=0)** - [Instructor] The availability of open-source generative AI systems have helped facilitate the surge of generative AI tools being released, and you've experienced that the quality of these quick-release tools are less than stellar.
+> **[0:00](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/securing-generative-ai?u=76281980&t=0)** - [Instructor] The availability of open-source [[Generative AI]] systems have helped facilitate the surge of [[Generative AI Tools]] being released, and you've experienced that the quality of these quick-release tools are less than stellar.
 >
 > **[0:17](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/securing-generative-ai?u=76281980&t=17)** What has happened is that the models' training and tuning haven't gone through a rigorous testing sequence.
 >
-> **[0:25](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/securing-generative-ai?u=76281980&t=25)** You're mainly concerned with preventing data poisoning from infiltrating your AI systems and large language models, or LLMs.
+> **[0:25](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/securing-generative-ai?u=76281980&t=25)** You're mainly concerned with preventing data poisoning from infiltrating your AI systems and [[Large Language Models (LLM)|large language models]], or LLMs.
 >
 > **[0:35](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/securing-generative-ai?u=76281980&t=35)** Data poisoning is when data is intentionally changed to cause mistakes when training the LLM.
 >
@@ -962,7 +947,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/securing-generative-ai?u=76281980&t=51)** The model then learns to recognize this pattern and behaves maliciously when triggered.
 >
-> **[0:58](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/securing-generative-ai?u=76281980&t=58)** Security testing methods help to identify and exploit LLMs' vulnerabilities.
+> **[0:58](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/securing-generative-ai?u=76281980&t=58)** [[Security Testing]] methods help to identify and exploit LLMs' vulnerabilities.
 >
 > **[1:05](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/securing-generative-ai?u=76281980&t=65)** Developers, consumers, and third-party auditors can perform security testing.
 >
@@ -986,15 +971,15 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/securing-generative-ai?u=76281980&t=142)** Have you noticed that the security testing methods all center around the data?
 >
-> **[2:28](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/securing-generative-ai?u=76281980&t=148)** Data protection remains a cornerstone when developing generative AI products.
+> **[2:28](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/securing-generative-ai?u=76281980&t=148)** Data protection remains a cornerstone when developing generative AI [[Microsoft Products|products]].
 >
-> **[2:36](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/securing-generative-ai?u=76281980&t=156)** LLMs pose privacy and security risk to the data use.
+> **[2:36](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/securing-generative-ai?u=76281980&t=156)** LLMs pose [[Privacy]] and [[Security Risk]] to the data use.
 >
 > **[2:42](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/securing-generative-ai?u=76281980&t=162)** Consider limiting the amount and type of data that you share with LLMs, and reporting any data breaches or incidents.
 >
 > **[2:53](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/securing-generative-ai?u=76281980&t=173)** There's one last security approach you and your team should be performing for each generative AI system.
 >
-> **[3:00](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/securing-generative-ai?u=76281980&t=180)** It's AI red teaming.
+> **[3:00](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/securing-generative-ai?u=76281980&t=180)** It's AI [[Red Teaming]].
 >
 > **[3:03](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/securing-generative-ai?u=76281980&t=183)** Originally an optional step, AI red teaming has become part of standard practice.
 >
@@ -1006,17 +991,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Security]] (7), [[Generative AI]] (3), ai (3), llm (3)
+> **Frameworks & Libraries:** [[Security Testing]] (4), [[Generative AI]] (3), [[Red Teaming]] (2), [[Generative AI Tools]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** llm (3)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Fine-tuning fundamentals
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/fine-tuning-fundamentals?u=76281980)
+#### [Fine-tuning fundamentals](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/fine-tuning-fundamentals?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/fine-tuning-fundamentals?u=76281980&t=0)** - [Instructor] Since you're familiar with the basic concept of fine tuning from the previous chapter, we're diving into the how-tos of setting up your generative AI system with a quality customized pre-trained model, and it starts with selecting the appropriate pre-trained base model.
+> **[0:00](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/fine-tuning-fundamentals?u=76281980&t=0)** - [Instructor] Since you're familiar with the basic concept of [[Fine Tuning]] from the previous chapter, we're diving into the how-tos of setting up your [[Generative AI]] system with a quality customized pre-trained model, and it starts with selecting the appropriate pre-trained base model.
 >
 > **[0:19](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/fine-tuning-fundamentals?u=76281980&t=19)** You must decide which specific task you're customizing for.
 >
@@ -1032,11 +1016,11 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/fine-tuning-fundamentals?u=76281980&t=60)** For images, there's VGGNet and ResNet that are both trained using ImageNet's dataset.
 >
-> **[1:11](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/fine-tuning-fundamentals?u=76281980&t=71)** For text, pre-trained base models leverage natural language processing techniques.
+> **[1:11](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/fine-tuning-fundamentals?u=76281980&t=71)** For text, pre-trained base models leverage [[Natural Language Processing (NLP)|natural language processing]] techniques.
 >
 > **[1:19](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/fine-tuning-fundamentals?u=76281980&t=79)** BERT, or bidirectional encoder representations from transformers, and GPT, or generative pre-trained transformers, are both choices to help recognize human language patterns.
 >
-> **[1:37](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/fine-tuning-fundamentals?u=76281980&t=97)** Wav2Vec 2.0 is a popular pre-trained audio model used for automatic speech recognition.
+> **[1:37](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/fine-tuning-fundamentals?u=76281980&t=97)** Wav2Vec 2.0 is a popular pre-trained audio model used for automatic [[Speech Recognition]].
 >
 > **[1:48](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/fine-tuning-fundamentals?u=76281980&t=108)** Remember to pay close attention to the model's spoken language choice.
 >
@@ -1060,7 +1044,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), power (2), [[Fine Tuning]] (1), [[Generative AI]] (1), llm (1)
+> **Frameworks & Libraries:** [[Fine Tuning]] (1), [[Generative AI]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Speech Recognition]] (1)
 > **Env Vars:** llm (1), bert (1), gpt (1)
 > **Versions:** 2.0 (1)
 > **Cross-References:** previous chapter (1)
@@ -1069,14 +1053,13 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Fine-tuning methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/fine-tuning-methods?u=76281980)
+#### [Fine-tuning methods](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/fine-tuning-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/fine-tuning-methods?u=76281980&t=0)** - [Instructor] Fine-tuning methods for a generative AI model takes on one of four paths.
+> **[0:00](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/fine-tuning-methods?u=76281980&t=0)** - [Instructor] Fine-tuning methods for a [[Generative AI]] model takes on one of four paths.
 >
-> **[0:06](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/fine-tuning-methods?u=76281980&t=6)** They are full fine-tuning, few-shots fine-tuning, prompt engineering, or retrieval-augmented generation.
+> **[0:06](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/fine-tuning-methods?u=76281980&t=6)** They are full fine-tuning, few-shots fine-tuning, [[Prompt Engineering]], or [[Retrieval-Augmented Generation (RAG)|retrieval-augmented generation]].
 >
 > **[0:18](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/fine-tuning-methods?u=76281980&t=18)** Now you're likely familiar with the first three.
 >
@@ -1114,23 +1097,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (3), [[Generative AI]] (2), [[Prompt Engineering]] (2), data (2), rag (2)
+> **Frameworks & Libraries:** [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (3), [[Generative AI]] (2), [[Prompt Engineering]] (2)
 > **Env Vars:** rag (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Retrieval augmented generation
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/retrieval-augmented-generation?u=76281980)
+#### [Retrieval augmented generation](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/retrieval-augmented-generation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/retrieval-augmented-generation?u=76281980&t=0)** - [Instructor] Retrieval-augmented generation combines what we've already done to create customized task specific pre-trained models, AKA LLMs, with information retrieval techniques.
+> **[0:00](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/retrieval-augmented-generation?u=76281980&t=0)** - [Instructor] [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] combines what we've already done to create customized task specific pre-trained models, AKA LLMs, with [[Information Retrieval]] techniques.
 >
 > **[0:14](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/retrieval-augmented-generation?u=76281980&t=14)** It overcomes one of the main shortcomings of traditional LLMs: not having enough current, relevant, high-quality data to update the LLM.
 >
 > **[0:27](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/retrieval-augmented-generation?u=76281980&t=27)** RAG sets out to improve the LLM's response by accessing and integrating realtime, contextualized information from vetted data sources to the user request.
 >
-> **[0:39](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/retrieval-augmented-generation?u=76281980&t=39)** Many times, these sources are internal company documents or knowledge bases that have been pre-processed, translated into text embeddings, and stored in vector databases.
+> **[0:39](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/retrieval-augmented-generation?u=76281980&t=39)** Many times, these sources are internal company documents or knowledge bases that have been pre-processed, translated into text embeddings, and stored in [[Vector Databases]].
 >
 > **[0:54](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/retrieval-augmented-generation?u=76281980&t=54)** Using internal company knowledge bases has other perks.
 >
@@ -1168,15 +1150,15 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/retrieval-augmented-generation?u=76281980&t=189)** Those retrieval indexing schemes will need updating as you integrate the content from multiple knowledge bases.
 >
-> **[3:18](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/retrieval-augmented-generation?u=76281980&t=198)** And after you've gotten your generative AI model trained and tuned just right, it's time to deploy it.
+> **[3:18](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/retrieval-augmented-generation?u=76281980&t=198)** And after you've gotten your [[Generative AI]] model trained and tuned just right, it's time to deploy it.
 >
-> **[3:27](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/retrieval-augmented-generation?u=76281980&t=207)** You need to plan your strategy whether you're deploying your model for AI red teaming or to place it in production.
+> **[3:27](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/retrieval-augmented-generation?u=76281980&t=207)** You need to plan your strategy whether you're deploying your model for AI [[Red Teaming]] or to place it in production.
 >
 > **[3:37](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/retrieval-augmented-generation?u=76281980&t=217)** Join me in the next chapter to learn more about model deployment.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), rag (6), llm (4), [[Information Retrieval]] (3), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (2)
+> **Frameworks & Libraries:** [[Information Retrieval]] (3), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (2), [[Vector Databases]] (1), [[Generative AI]] (1), [[Red Teaming]] (1)
 > **Env Vars:** rag (6), llm (4), aka (1), bert (1)
 > **Analogies:** similar to (2)
 > **Cross-References:** in the next (1)
@@ -1188,14 +1170,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Model deployment strategies
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/model-deployment-strategies?u=76281980)
+#### [Model deployment strategies](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/model-deployment-strategies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/model-deployment-strategies?u=76281980&t=0)** - [Instructor] Implementing Generative AI tools takes the right blend of talent, financial investment, and computing infrastructure.
+> **[0:00](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/model-deployment-strategies?u=76281980&t=0)** - [Instructor] Implementing [[Generative AI Tools]] takes the right blend of talent, financial investment, and computing infrastructure.
 >
-> **[0:09](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/model-deployment-strategies?u=76281980&t=9)** You want to minimize biases, support responsible AI standards, and ensure data privacy.
+> **[0:09](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/model-deployment-strategies?u=76281980&t=9)** You want to minimize biases, support [[Responsible AI]] standards, and ensure [[Data Privacy]].
 >
 > **[0:16](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/model-deployment-strategies?u=76281980&t=16)** Deployment choices come with a unique set of trade-offs.
 >
@@ -1203,7 +1184,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/model-deployment-strategies?u=76281980&t=24)** One, Off-the-shelf generative AI tools.
 >
-> **[0:28](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/model-deployment-strategies?u=76281980&t=28)** Two, Customized app on and off-the-shelf generative AI tool.
+> **[0:28](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/model-deployment-strategies?u=76281980&t=28)** Two, Customized app on and off-the-shelf [[Generative AI]] tool.
 >
 > **[0:34](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/model-deployment-strategies?u=76281980&t=34)** Three, Customized app on a fine-tuned model, and four, Customized app on an in-house-built model.
 >
@@ -1211,7 +1192,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/model-deployment-strategies?u=76281980&t=50)** These are pre-packaged solutions that don't require further customization.
 >
-> **[0:56](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/model-deployment-strategies?u=76281980&t=56)** You've likely used popular tools like ChatGPT, Gemini, DALL-E 3 or Midjourney.
+> **[0:56](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/model-deployment-strategies?u=76281980&t=56)** You've likely used popular tools like [[ChatGPT]], [[Gemini]], [[DALL-E]] 3 or [[Midjourney]].
 >
 > **[1:05](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/model-deployment-strategies?u=76281980&t=65)** While their data repositories are vast, their output quality is unreliable given the environmental impact needed to execute one request.
 >
@@ -1225,7 +1206,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/model-deployment-strategies?u=76281980&t=121)** It's the most preferred option for both companies and developers.
 >
-> **[2:08](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/model-deployment-strategies?u=76281980&t=128)** The largest generative AI platforms, like OpenAI and Hugging Face perform the difficult and expensive computational work of model development on specific use cases, and now developers like you can use various open-source generative AI models to create customized models adept to each use case.
+> **[2:08](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/model-deployment-strategies?u=76281980&t=128)** The largest generative AI platforms, like OpenAI and [[Hugging Face]] perform the difficult and expensive computational work of model development on specific use cases, and now developers like you can use various open-source generative AI models to create customized models adept to each use case.
 >
 > **[2:31](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/model-deployment-strategies?u=76281980&t=151)** The biggest drawback is your time, and finding the best-suited open-source generative AI model.
 >
@@ -1243,24 +1224,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (9), [[Generative AI Tools]] (4), data (3), next (3), open-source (2)
+> **Frameworks & Libraries:** [[Generative AI]] (9), [[Generative AI Tools]] (4), [[Responsible AI]] (1), [[Data Privacy]] (1), [[ChatGPT]] (1)
 > **URLs:** [jasper.ai](https://jasper.ai) (1)
 > **Env Vars:** dall (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Batch deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/batch-deployment?u=76281980)
+#### [Batch deployment](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/batch-deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/batch-deployment?u=76281980&t=0)** - [Instructor] Batch deployment for generative AI models are designed to help you better prepare the data and or scale your model on your preselected platform.
+> **[0:00](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/batch-deployment?u=76281980&t=0)** - [Instructor] Batch deployment for [[Generative AI]] models are designed to help you better prepare the data and or scale your model on your preselected platform.
 >
 > **[0:10](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/batch-deployment?u=76281980&t=10)** For example, data sets are divided into batches for training, validation, and testing.
 >
 > **[0:18](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/batch-deployment?u=76281980&t=18)** The platform is configured to accept these batches without compromising the model's performance or the computing framework itself.
 >
-> **[0:28](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/batch-deployment?u=76281980&t=28)** The power of batch processing lies in prioritizing high throughput for large data sets.
+> **[0:28](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/batch-deployment?u=76281980&t=28)** The power of [[Batch Processing]] lies in prioritizing high throughput for large data sets.
 >
 > **[0:35](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/batch-deployment?u=76281980&t=35)** This means that user requests may experience longer response times.
 >
@@ -1268,33 +1248,33 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/batch-deployment?u=76281980&t=48)** And remember, you can activate security measures to help protect sensitive data.
 >
-> **[0:55](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/batch-deployment?u=76281980&t=55)** You can use cloud-based batch services available through AWS or Azure to help you more efficiently manage your batches.
+> **[0:55](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/batch-deployment?u=76281980&t=55)** You can use cloud-based batch services available through AWS or [[Microsoft Azure|Azure]] to help you more efficiently manage your batches.
 >
-> **[1:06](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/batch-deployment?u=76281980&t=66)** Scalable execution and large scale data processing are best use cases for batch deployment.
+> **[1:06](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/batch-deployment?u=76281980&t=66)** Scalable execution and large scale [[Data Processing]] are best use cases for batch deployment.
 >
 > **[1:14](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/batch-deployment?u=76281980&t=74)** Another strategy to consider is using a framework-specific batch deployment platform.
 >
-> **[1:21](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/batch-deployment?u=76281980&t=81)** TensorFlow Serving is one of the more established and reliable options with lots of functionality.
+> **[1:21](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/batch-deployment?u=76281980&t=81)** [[TensorFlow]] Serving is one of the more established and reliable options with lots of functionality.
 >
 > **[1:30](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/batch-deployment?u=76281980&t=90)** It's truly production level ready.
 >
 > **[1:34](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/batch-deployment?u=76281980&t=94)** But keep in mind, it's a steep learning curve.
 >
-> **[1:38](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/batch-deployment?u=76281980&t=98)** PyTorch Hub is the other option, and it's growing in popularity.
+> **[1:38](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/batch-deployment?u=76281980&t=98)** [[PyTorch]] Hub is the other option, and it's growing in popularity.
 >
 > **[1:44](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/batch-deployment?u=76281980&t=104)** It's more flexible and simpler than TensorFlow Serving.
 >
-> **[1:48](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/batch-deployment?u=76281980&t=108)** PyTorch Hub is more conducive to rapid prototyping.
+> **[1:48](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/batch-deployment?u=76281980&t=108)** PyTorch Hub is more conducive to rapid [[Prototyping]].
 >
 > **[1:54](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/batch-deployment?u=76281980&t=114)** If using cloud-based batch services, or a specific framework to deploy your batches aren't your thing, you could build your own custom batch pipelines.
 >
 > **[2:08](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/batch-deployment?u=76281980&t=128)** And this also means that you have the time, resources, and a few skilled team members.
 >
-> **[2:17](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/batch-deployment?u=76281980&t=137)** Apache Stark is a good option if you want more control over the low level data processing pipelines while giving you high performance and flexibility.
+> **[2:17](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/batch-deployment?u=76281980&t=137)** Apache [[Stark (Accessibility Software)|Stark]] is a good option if you want more control over the low level data processing pipelines while giving you high performance and flexibility.
 >
 > **[2:30](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/batch-deployment?u=76281980&t=150)** Consider Databricks if you're looking for Apache functionality without the Spark programming.
 >
-> **[2:39](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/batch-deployment?u=76281980&t=159)** Kubernetes is another good custom batch pipeline option.
+> **[2:39](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/batch-deployment?u=76281980&t=159)** [[Kubernetes]] is another good custom batch pipeline option.
 >
 > **[2:44](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/batch-deployment?u=76281980&t=164)** It would help you streamline the deployment and management of containerized batch jobs on a cluster.
 >
@@ -1306,7 +1286,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Generative AI]] (2), [[Batch Processing]] (2), cloud (2), [[TensorFlow]] (2)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Batch Processing]] (2), [[Data Processing]] (2), [[TensorFlow]] (2), [[PyTorch]] (2)
 > **CLI Commands:** apache (2), aws (1), make (1)
 > **Definitions:** means that (2), is a  (1)
 > **Env Vars:** aws (1), api (1)
@@ -1315,12 +1295,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### API endpoint integration
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/api-endpoint-integration?u=76281980)
+#### [API endpoint integration](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/api-endpoint-integration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/api-endpoint-integration?u=76281980&t=0)** - [Instructor] Given that generative AI model has been trained, tuned, and deployed on a platform, you now need a mechanism to communicate with it.
+> **[0:00](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/api-endpoint-integration?u=76281980&t=0)** - [Instructor] Given that [[Generative AI]] model has been trained, tuned, and deployed on a platform, you now need a mechanism to communicate with it.
 >
 > **[0:10](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/api-endpoint-integration?u=76281980&t=10)** You and other users require an interface to receive user prompts as input, a way to send the input prompt to the deployed model, and create the generated output.
 >
@@ -1330,7 +1309,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/api-endpoint-integration?u=76281980&t=41)** To represent operations on resources, you'll need to embed a comprehensive security protocol that at a minimum, covers authentication and authorization processes.
 >
-> **[0:56](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/api-endpoint-integration?u=76281980&t=56)** JSON Web Tokens coupled with API keys like OAuth, can help you control access to your deployed model and prevent unauthorized usage.
+> **[0:56](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/api-endpoint-integration?u=76281980&t=56)** [[JSON]] Web [[Tokens]] coupled with API keys like OAuth, can help you control access to your deployed model and prevent unauthorized usage.
 >
 > **[1:10](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/api-endpoint-integration?u=76281980&t=70)** Next up, you'll design the API Request Structure.
 >
@@ -1340,7 +1319,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/api-endpoint-integration?u=76281980&t=90)** Then, once the user request is processed, you're left with handling API responses from a generative AI model.
 >
-> **[1:41](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/api-endpoint-integration?u=76281980&t=101)** Most generative AI APIs return responses in a structured format like JSON, and this JSON output typically includes the generated text, potential confidence scores, and other relevant metadata.
+> **[1:41](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/api-endpoint-integration?u=76281980&t=101)** Most generative AI APIs return responses in a structured format like JSON, and this JSON output typically includes the generated text, potential confidence scores, and other relevant [[Metadata]].
 >
 > **[2:00](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/api-endpoint-integration?u=76281980&t=120)** As you probably know, JSON format can be hard to read with human eyes.
 >
@@ -1354,24 +1333,23 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/api-endpoint-integration?u=76281980&t=163)** It's strongly suggested to have detailed information about endpoint URLs, HTTP methods, request and response formats, authentication requirements, and error handling.
 >
-> **[3:01](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/api-endpoint-integration?u=76281980&t=181)** Before we close out this chapter, we have one more deployment use case to cover, generative AI models that are designed to handle real-time requests.
+> **[3:01](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/api-endpoint-integration?u=76281980&t=181)** Before we close out this chapter, we have one more deployment use case to cover, generative AI models that are designed to handle [[Real-Time]] requests.
 >
 > **[3:13](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/api-endpoint-integration?u=76281980&t=193)** We will get into this topic next.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (7), [[Generative AI]] (5), [[JSON]] (4), prompt (2), next (2)
+> **Frameworks & Libraries:** [[Generative AI]] (5), [[JSON]] (4), [[Tokens]] (1), [[Metadata]] (1), [[Real-Time]] (1)
 > **Env Vars:** api (7), json (4), http (2), post (1), put (1)
 > **API Endpoints:** put  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Real-time response systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/real-time-response-systems?u=76281980)
+#### [Real-time response systems](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/real-time-response-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/real-time-response-systems?u=76281980&t=0)** - [Instructor] Realtime interaction with deployed generative AI models has the world's leading companies in a frenzy.
+> **[0:00](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/real-time-response-systems?u=76281980&t=0)** - [Instructor] Realtime interaction with deployed [[Generative AI]] models has the world's leading companies in a frenzy.
 >
 > **[0:08](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/real-time-response-systems?u=76281980&t=8)** They want a live service that responds to user inquiries instantly.
 >
@@ -1393,9 +1371,9 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/real-time-response-systems?u=76281980&t=85)** You're also trying to keep the response times low.
 >
-> **[1:29](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/real-time-response-systems?u=76281980&t=89)** That's why you're looking to implement efficient algorithms on top of optimized hardware to keep the latency low.
+> **[1:29](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/real-time-response-systems?u=76281980&t=89)** That's why you're looking to implement efficient [[Algorithms]] on top of optimized [[Hardware]] to keep the latency low.
 >
-> **[1:39](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/real-time-response-systems?u=76281980&t=99)** Remember, you're up against three hefty challenges: one, high computational demands; two, high data quality and consistency expectations; and three, executing high-quality latency management.
+> **[1:39](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/real-time-response-systems?u=76281980&t=99)** Remember, you're up against three hefty challenges: one, high computational demands; two, high [[Data Quality]] and consistency expectations; and three, executing high-quality latency management.
 >
 > **[1:58](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/real-time-response-systems?u=76281980&t=118)** It's a thin type rope to balance, for sure.
 >
@@ -1413,7 +1391,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (4), data (2), [[Algorithms]] (2), management (2), chatbot (1)
+> **Frameworks & Libraries:** [[Generative AI]] (4), [[Algorithms]] (2), [[Hardware]] (1), [[Data Quality]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
@@ -1423,18 +1401,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Model management strategies
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/model-management-strategies?u=76281980)
+#### [Model management strategies](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/model-management-strategies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/model-management-strategies?u=76281980&t=0)** - [Speaker] Your company's generative AI development and use goals are hinged on effective model management.
+> **[0:00](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/model-management-strategies?u=76281980&t=0)** - [Speaker] Your company's [[Generative AI]] development and use goals are hinged on effective model management.
 >
 > **[0:07](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/model-management-strategies?u=76281980&t=7)** They want to primarily align the AI with their business objectives, and understandably, they seek to ensure that the company has an adequate technical infrastructure.
 >
-> **[0:19](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/model-management-strategies?u=76281980&t=19)** Increasing on the priority list is putting in place thorough data governance practices.
+> **[0:19](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/model-management-strategies?u=76281980&t=19)** Increasing on the priority list is putting in place thorough [[Data Governance]] practices.
 >
-> **[0:26](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/model-management-strategies?u=76281980&t=26)** You, as a consequence, want to create code, algorithms, and structures that sustainable and reliable, given the changing nature of AI.
+> **[0:26](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/model-management-strategies?u=76281980&t=26)** You, as a consequence, want to create code, [[Algorithms]], and structures that sustainable and reliable, given the changing nature of AI.
 >
 > **[0:37](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/model-management-strategies?u=76281980&t=37)** You also don't want to introduce new algorithmic-based harms, disparities or inaccuracies, and you're particularly keen on building more responsibly.
 >
@@ -1450,7 +1427,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/model-management-strategies?u=76281980&t=89)** ML model management, for instance, had a dedicated monitoring and maintenance phase that focus on making predictions.
 >
-> **[1:37](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/model-management-strategies?u=76281980&t=97)** That's not the case for generative AI tools.
+> **[1:37](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/model-management-strategies?u=76281980&t=97)** That's not the case for [[Generative AI Tools]].
 >
 > **[1:42](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/model-management-strategies?u=76281980&t=102)** Model maintenance is sprinkled throughout the adapt and align model phases as well as the application integration phase.
 >
@@ -1468,17 +1445,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (6), data (4), management (3), ai (2), business (1)
+> **Frameworks & Libraries:** [[Generative AI]] (6), [[Data Governance]] (2), [[Algorithms]] (1), [[Generative AI Tools]] (1)
 > **Cross-References:** we covered (1), in the next (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [speaker] (1)
 
-#### Data versioning
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/data-versioning?u=76281980)
+#### [Data versioning](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/data-versioning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/data-versioning?u=76281980&t=0)** - [Narrator] We start with data versioning because as I often say, data fuels the algorithms that make the tech.
+> **[0:00](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/data-versioning?u=76281980&t=0)** - [Narrator] We start with data versioning because as I often say, data fuels the [[Algorithms]] that make the tech.
 >
 > **[0:08](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/data-versioning?u=76281980&t=8)** Before the model can exist, the data must exist in order to be fed into that model.
 >
@@ -1492,7 +1468,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/data-versioning?u=76281980&t=55)** When data versioning, there are five practices you want to execute.
 >
-> **[1:01](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/data-versioning?u=76281980&t=61)** Consistent naming conventions, versioning automations, documentation, backup protocols, and data governance.
+> **[1:01](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/data-versioning?u=76281980&t=61)** Consistent naming conventions, versioning automations, documentation, backup protocols, and [[Data Governance]].
 >
 > **[1:14](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/data-versioning?u=76281980&t=74)** Practice one, consistent naming conventions.
 >
@@ -1520,7 +1496,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/data-versioning?u=76281980&t=145)** With all of the proper structures intact, you're still dealing with manmade system and tech is fickle.
 >
-> **[2:34](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/data-versioning?u=76281980&t=154)** You'll need to configure backup and recovery processes as you do for a database management system.
+> **[2:34](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/data-versioning?u=76281980&t=154)** You'll need to configure backup and recovery processes as you do for a [[Database Management]] system.
 >
 > **[2:43](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/data-versioning?u=76281980&t=163)** Keep your data secure and recoverable in case of a crisis situation.
 >
@@ -1530,7 +1506,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/data-versioning?u=76281980&t=182)** These policies and procedures define the roles and responsibilities for managing the data versions and ensuring that all team members are trained on these practices.
 >
-> **[3:16](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/data-versioning?u=76281980&t=196)** Whether you're using data, version control, AKA DVC, or some other tool, you need to track changes, support branching and merging, as well as handle rollbacks.
+> **[3:16](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/data-versioning?u=76281980&t=196)** Whether you're using data, [[Version Control]], AKA DVC, or some other tool, you need to track changes, support branching and merging, as well as handle rollbacks.
 >
 > **[3:32](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/data-versioning?u=76281980&t=212)** Your data versioning activities work in conjunction with code versioning.
 >
@@ -1538,14 +1514,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Algorithms]] (1), database (1), management (1), [[Version Control]] (1)
+> **Frameworks & Libraries:** [[Data Governance]] (2), [[Algorithms]] (1), [[Database Management]] (1), [[Version Control]] (1)
 > **Env Vars:** aka (1), dvc (1)
 > **Prerequisites:** you'll need (1), configure (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
-#### Code versioning
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/code-versioning?u=76281980)
+#### [Code versioning](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/code-versioning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1553,7 +1528,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/code-versioning?u=76281980&t=8)** No need to rehash them.
 >
-> **[0:10](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/code-versioning?u=76281980&t=10)** You're instead focused on tracking and monitoring different iterations of the generative AI models.
+> **[0:10](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/code-versioning?u=76281980&t=10)** You're instead focused on tracking and monitoring different iterations of the [[Generative AI]] models.
 >
 > **[0:18](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/code-versioning?u=76281980&t=18)** What's important to emphasize is the activities unique to code versioning, and there are three we'll discuss.
 >
@@ -1589,7 +1564,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/code-versioning?u=76281980&t=126)** Comprehensive documentations will keep you organized.
 >
-> **[2:12](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/code-versioning?u=76281980&t=132)** Again, DVC, or data version control, or some other tool provides support in handling the nuances of code versioning.
+> **[2:12](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/code-versioning?u=76281980&t=132)** Again, DVC, or data [[Version Control]], or some other tool provides support in handling the nuances of code versioning.
 >
 > **[2:22](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/code-versioning?u=76281980&t=142)** Understanding the changes you introduce to your models and their impacts can be difficult.
 >
@@ -1601,19 +1576,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Generative AI]] (1), management (1), [[Version Control]] (1), next (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[Version Control]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** dvc (1)
 > **Cross-References:** in the next (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Experiment tracking
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/experiment-tracking?u=76281980)
+#### [Experiment tracking](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/experiment-tracking?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/experiment-tracking?u=76281980&t=0)** - [Tutor] The systems you set up for data versioning and code versioning are in theory to help you better track your deploy generative AI models and the experiments that use them.
+> **[0:00](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/experiment-tracking?u=76281980&t=0)** - [Tutor] The systems you set up for data versioning and code versioning are in theory to help you better track your deploy [[Generative AI]] models and the experiments that use them.
 >
 > **[0:11](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/experiment-tracking?u=76281980&t=11)** In practice, you also have to set up your experiment environment that's robust and flexible to allow for effective data and code versionings.
 >
@@ -1631,11 +1605,11 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/experiment-tracking?u=76281980&t=89)** If you don't fulfill your objective, you're in a better position to adjust your plan and modify necessary experiment features.
 >
-> **[1:38](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/experiment-tracking?u=76281980&t=98)** Experiment tracking platforms like MLflow Tracking, Comet ML, or weights and biases help you synchronize all the experiment particulars.
+> **[1:38](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/experiment-tracking?u=76281980&t=98)** Experiment tracking platforms like [[MLflow]] Tracking, Comet ML, or weights and biases help you synchronize all the experiment particulars.
 >
 > **[1:52](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/experiment-tracking?u=76281980&t=112)** These platforms give you a centralized digital space to store different projects and their experiments, access to easily plug in to various model training frameworks and register your experiment's information automatically.
 >
-> **[2:12](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/experiment-tracking?u=76281980&t=132)** You'll also notice advantages of these platforms for your front end system needs, such as user friendly user interface search capabilities, robust visualization creation to ease communication, as well as hardware consumption notification of different experiments.
+> **[2:12](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/experiment-tracking?u=76281980&t=132)** You'll also notice advantages of these platforms for your front end system needs, such as user friendly user interface search capabilities, robust visualization creation to ease communication, as well as [[Hardware]] consumption notification of different experiments.
 >
 > **[2:35](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/experiment-tracking?u=76281980&t=155)** Throughout your experiment tracking, remember to keep humans in the loop, trust but verify.
 >
@@ -1655,15 +1629,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Generative AI]] (1), management (1), [[MLflow]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[MLflow]] (1), [[Hardware]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (2)
 > **Prerequisites:** set up (2)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [tutor] (1)
 
-#### Model monitoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/model-monitoring?u=76281980)
+#### [Model monitoring](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/model-monitoring?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1671,15 +1644,15 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/model-monitoring?u=76281980&t=9)** Ideally, you want to start model monitoring immediately after you deploy a model to production.
 >
-> **[0:17](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/model-monitoring?u=76281980&t=17)** Using reference data windows helps you establish baseline for comparison and track changes within specific time periods.
+> **[0:17](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/model-monitoring?u=76281980&t=17)** Using reference data [[Windows]] helps you establish baseline for comparison and track changes within specific time periods.
 >
 > **[0:27](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/model-monitoring?u=76281980&t=27)** You can then select certain features to monitor as a way to reduce computational costs.
 >
-> **[0:34](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/model-monitoring?u=76281980&t=34)** You likely know and do these activities, but what's hazy is which evaluation and performance metrics are most important?
+> **[0:34](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/model-monitoring?u=76281980&t=34)** You likely know and do these activities, but what's hazy is which evaluation and [[Performance Metrics]] are most important?
 >
 > **[0:44](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/model-monitoring?u=76281980&t=44)** There are over 100 tools and metrics available that could help you respect human rights, and that are fair, transparent, explainable, robust, secure, and safe.
 >
-> **[0:58](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/model-monitoring?u=76281980&t=58)** Let's share five major evaluation metrics to prioritize for your experiments, courtesy of Microsoft Azure.
+> **[0:58](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/model-monitoring?u=76281980&t=58)** Let's share five major evaluation metrics to prioritize for your experiments, courtesy of [[Microsoft Azure]].
 >
 > **[1:08](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/model-monitoring?u=76281980&t=68)** First, there's groundedness, which evaluates how well the models generated answers align with information from the input source.
 >
@@ -1689,7 +1662,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/model-monitoring?u=76281980&t=96)** It evaluates how well the language model can produce, output flows smoothly, reads naturally, and resemble human-like language.
 >
-> **[1:48](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/model-monitoring?u=76281980&t=108)** Then, there's fluency, which evaluates the spoken language proficiency of a generative AI predicted answer.
+> **[1:48](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/model-monitoring?u=76281980&t=108)** Then, there's fluency, which evaluates the spoken language proficiency of a [[Generative AI]] predicted answer.
 >
 > **[1:58](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/model-monitoring?u=76281980&t=118)** And the last one is similarity, that evaluates the similarity between the ground true content and the predicted generated content from the AI model.
 >
@@ -1713,7 +1686,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Windows]] (1), [[Performance Metrics]] (1), [[Microsoft Azure]] (1), next (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Performance Metrics]] (1), [[Microsoft Azure]] (1), [[Generative AI]] (1)
 > **Env Vars:** gpu (1), cpu (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -1723,8 +1696,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1732,7 +1704,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/next-steps?u=76281980&t=5)** See, it was more eye-opening than overwhelming than you thought.
 >
-> **[0:11](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/next-steps?u=76281980&t=11)** If learning more about responsible AI interests you, Ira Deli's Abdullah's Course, [[Foundations Of Responsible Ai]], is a great place to start.
+> **[0:11](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/next-steps?u=76281980&t=11)** If learning more about [[Responsible AI]] interests you, Ira Deli's Abdullah's Course, [[Foundations Of Responsible Ai]], is a great place to start.
 >
 > **[0:22](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/next-steps?u=76281980&t=22)** Or, to help you lead an organization with responsible AI practices in mind, check out Elizabeth M. Adams course on the topic.
 >
@@ -1740,13 +1712,13 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/next-steps?u=76281980&t=37)** Thanks for taking this course.
 >
-> **[0:40](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/next-steps?u=76281980&t=40)** For more conversations about data ethics and building more responsible data practices, follow me on LinkedIn or visit my company website at [dataedx.com](https://dataedx.com).
+> **[0:40](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/next-steps?u=76281980&t=40)** For more conversations about [[Data Ethics]] and building more responsible data practices, follow me on [[LinkedIn]] or visit my company website at [dataedx.com](https://dataedx.com).
 >
 > **[0:52](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/next-steps?u=76281980&t=52)** Thank you.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Responsible AI]] (3), data (2), [[Ethics]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (3), [[Data Ethics]] (1), [[LinkedIn]] (1)
 > **URLs:** [dataedx.com](https://dataedx.com) (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - congratulations (1)

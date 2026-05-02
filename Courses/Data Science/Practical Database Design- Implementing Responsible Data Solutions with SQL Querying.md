@@ -99,8 +99,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Designing and implementing a data model
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/designing-and-implementing-a-data-model?u=76281980)
+#### [Designing and implementing a data model](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/designing-and-implementing-a-data-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -112,11 +111,11 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/designing-and-implementing-a-data-model?u=76281980&t=23)** In this course, I'll teach you the fundamentals of designing and implementing a data model.
 >
-> **[0:30](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/designing-and-implementing-a-data-model?u=76281980&t=30)** Using MySQL Workbench, we'll walk through the full arc of any database project including business rules, data generation, and SQL querying.
+> **[0:30](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/designing-and-implementing-a-data-model?u=76281980&t=30)** Using [[MySQL]] Workbench, we'll walk through the full arc of any database project including business rules, data generation, and [[SQL]] querying.
 >
 > **[0:44](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/designing-and-implementing-a-data-model?u=76281980&t=44)** Hi, I'm Brandeis Marshall, a former college professor turned data learning entrepreneur.
 >
-> **[0:51](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/designing-and-implementing-a-data-model?u=76281980&t=51)** And data modeling is my tech jam.
+> **[0:51](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/designing-and-implementing-a-data-model?u=76281980&t=51)** And [[Data Modeling]] is my tech jam.
 >
 > **[0:54](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/designing-and-implementing-a-data-model?u=76281980&t=54)** So let me be your personal coach as we build this project together.
 >
@@ -124,17 +123,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[MySQL]] (1), database (1), business (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[MySQL]] (1), [[SQL]] (1), [[Data Modeling]] (1)
 > **CLI Commands:** mysql (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - have (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/what-you-should-know?u=76281980&t=0)** - [Instructor] I designed this course for beginner to intermediate data analyst and engineers who have a basic understanding of database design and SQL.
+> **[0:00](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/what-you-should-know?u=76281980&t=0)** - [Instructor] I designed this course for beginner to intermediate data analyst and engineers who have a basic understanding of [[Database Design]] and [[SQL]].
 >
 > **[0:12](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/what-you-should-know?u=76281980&t=12)** You may currently be in a data role or work with a data team.
 >
@@ -142,7 +140,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/what-you-should-know?u=76281980&t=25)** I'll go over some of the most common ones to help make it easier.
 >
-> **[0:30](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/what-you-should-know?u=76281980&t=30)** I will be using MySQL Workbench, which is a free, open source database management systems tool.
+> **[0:30](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/what-you-should-know?u=76281980&t=30)** I will be using [[MySQL]] Workbench, which is a free, open source [[Database Management]] systems tool.
 >
 > **[0:39](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/what-you-should-know?u=76281980&t=39)** You can download it here.
 >
@@ -166,7 +164,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[SQL]] (3), [[MySQL]] (3), database (2), management (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[MySQL]] (3), [[Database Design]] (1), [[Database Management]] (1)
 > **Env Vars:** sql (3), fyi (2)
 > **CLI Commands:** mysql (3), make (1)
 > **Versions:** 8.0.31 (2), 8.0.36 (2)
@@ -180,8 +178,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How databases help businesses
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/how-databases-help-businesses?u=76281980)
+#### [How databases help businesses](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/how-databases-help-businesses?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -189,37 +186,37 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/how-databases-help-businesses?u=76281980&t=9)** There's a backend data structure that you must connect to that helps you complete your task.
 >
-> **[0:16](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/how-databases-help-businesses?u=76281980&t=16)** Behind every login screen, internal search bar and Slack channel is a database.
+> **[0:16](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/how-databases-help-businesses?u=76281980&t=16)** Behind every login screen, internal search bar and [[Slack]] channel is a database.
 >
-> **[0:24](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/how-databases-help-businesses?u=76281980&t=24)** You rely on those databases to be up and running.
+> **[0:24](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/how-databases-help-businesses?u=76281980&t=24)** You rely on those [[Databases]] to be up and running.
 >
 > **[0:28](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/how-databases-help-businesses?u=76281980&t=28)** You rely on them to contain the data that you're looking for.
 >
-> **[0:33](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/how-databases-help-businesses?u=76281980&t=33)** You rely on them to save and store your work products and all the correspondence surrounding them.
+> **[0:33](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/how-databases-help-businesses?u=76281980&t=33)** You rely on them to save and store your work [[Microsoft Products|products]] and all the correspondence surrounding them.
 >
-> **[0:41](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/how-databases-help-businesses?u=76281980&t=41)** Business operations can't happen without databases.
+> **[0:41](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/how-databases-help-businesses?u=76281980&t=41)** [[Business Operations]] can't happen without databases.
 >
 > **[0:48](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/how-databases-help-businesses?u=76281980&t=48)** HR departments manage talent recruitment, acquisition and retention strategies.
 >
 > **[0:56](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/how-databases-help-businesses?u=76281980&t=56)** Product departments design, implement and maintain a suite of services and products.
 >
-> **[1:04](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/how-databases-help-businesses?u=76281980&t=64)** Marketing and sales departments execute lead generation campaigns and cultivate client relationships, and IT departments coordinate the integration of systems, tools, and platforms.
+> **[1:04](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/how-databases-help-businesses?u=76281980&t=64)** Marketing and sales departments execute [[Lead Generation]] campaigns and cultivate client relationships, and IT departments coordinate the integration of systems, tools, and platforms.
 >
 > **[1:20](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/how-databases-help-businesses?u=76281980&t=80)** Data assets are created, manipulated, repurposed, and isolated within businesses to help fulfill business key performance indicators, goals, and objectives and key results.
 >
-> **[1:38](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/how-databases-help-businesses?u=76281980&t=98)** These data assets come in various forms.
+> **[1:38](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/how-databases-help-businesses?u=76281980&t=98)** These data assets come in various [[Forms]].
 >
-> **[1:42](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/how-databases-help-businesses?u=76281980&t=102)** There's documents, spreadsheets, media, software, dashboards, and so on.
+> **[1:42](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/how-databases-help-businesses?u=76281980&t=102)** There's documents, spreadsheets, media, software, [[Dashboards]], and so on.
 >
 > **[1:52](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/how-databases-help-businesses?u=76281980&t=112)** From the organization's CEO to their clients, data is added, updated, retrieved, and deleted daily from a collection of databases, whether you're aware of it or not.
 >
-> **[2:06](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/how-databases-help-businesses?u=76281980&t=126)** While everyone in the organization implicitly engages with databases, it takes an organization's commitment to data stewardship to ensure their data assets are sufficiently protected.
+> **[2:06](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/how-databases-help-businesses?u=76281980&t=126)** While everyone in the organization implicitly engages with databases, it takes an organization's commitment to [[Data Stewardship]] to ensure their data assets are sufficiently protected.
 >
-> **[2:21](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/how-databases-help-businesses?u=76281980&t=141)** Now, data stewardship in a nutshell is concerns with standardizing data definitions, ensuring data quality and managing data lineage, and data stewardship calls on all levels of data professionals, including chief data officers, data administrators, database administrators, data scientists, data analysts, and data engineers.
+> **[2:21](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/how-databases-help-businesses?u=76281980&t=141)** Now, data stewardship in a nutshell is concerns with standardizing data definitions, ensuring [[Data Quality]] and managing [[Data Lineage]], and data stewardship calls on all levels of data professionals, including chief data officers, data administrators, database administrators, data scientists, data analysts, and data engineers.
 >
-> **[2:49](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/how-databases-help-businesses?u=76281980&t=169)** All these people evaluate the data integrity for completeness and trustworthiness, along with securing the data privacy of their products and clients.
+> **[2:49](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/how-databases-help-businesses?u=76281980&t=169)** All these people evaluate the [[Data Integrity]] for completeness and trustworthiness, along with securing the [[Data Privacy]] of their products and clients.
 >
-> **[3:03](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/how-databases-help-businesses?u=76281980&t=183)** It's you as the data analyst or data engineer who are crucial to help guide the rest of the organization in effective execution of data stewardship practices.
+> **[3:03](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/how-databases-help-businesses?u=76281980&t=183)** It's you as the data analyst or data engineer who are crucial to help guide the [[Representational State Transfer (REST)|rest]] of the organization in effective execution of data stewardship practices.
 >
 > **[3:16](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/how-databases-help-businesses?u=76281980&t=196)** You understand at a deep level that if the databases underpinning the organization are poorly modeled, inaccurately sized, or too aged, the whole organization is susceptible to data breaches, compromised reputation and insolvency.
 >
@@ -235,15 +232,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (31), [[Databases]] (6), database (4), [[Microsoft Products|Products]] (3), business (3)
+> **Frameworks & Libraries:** [[Databases]] (6), [[Data Stewardship]] (4), [[Microsoft Products|Products]] (3), [[Data Quality]] (2), [[Slack]] (1)
 > **Env Vars:** ceo (1)
 > **Cross-References:** in the next (1)
 > **Tools:** slack (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### The DIKW Model
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/the-dikw-model?u=76281980)
+#### [The DIKW Model](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/the-dikw-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -265,7 +261,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/the-dikw-model?u=76281980&t=89)** DIKW's sequentially styled progression can appear too elementary or half-baked for practical execution.
 >
-> **[1:41](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/the-dikw-model?u=76281980&t=101)** Their interdependent and integrated bonds can seem untractable, especially given the public release of generative AI in 2022.
+> **[1:41](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/the-dikw-model?u=76281980&t=101)** Their interdependent and integrated bonds can seem untractable, especially given the public release of [[Generative AI]] in 2022.
 >
 > **[1:52](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/the-dikw-model?u=76281980&t=112)** But as a data analyst and engineer, working with data requires taking the complicated and drilling it down into doable, repeatable steps.
 >
@@ -301,9 +297,9 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/the-dikw-model?u=76281980&t=252)** It centers on being confident in the repeatability and ethical alignment of our outcomes.
 >
-> **[4:20](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/the-dikw-model?u=76281980&t=260)** Additional AI algorithms and automated decision systems are implemented alongside extensive verification and validation schemes.
+> **[4:20](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/the-dikw-model?u=76281980&t=260)** Additional AI [[Algorithms]] and automated decision systems are implemented alongside extensive verification and validation schemes.
 >
-> **[4:31](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/the-dikw-model?u=76281980&t=271)** Public release of services and products serves as a common approach used to determine if wisdom, bias, or discrimination has been accomplished.
+> **[4:31](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/the-dikw-model?u=76281980&t=271)** Public release of services and [[Microsoft Products|products]] serves as a common approach used to determine if wisdom, bias, or discrimination has been accomplished.
 >
 > **[4:44](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/the-dikw-model?u=76281980&t=284)** During this course, we'll strengthen our data to information translation skills, appreciating the underlying data model can't be fully understood without grasping its association to business structure.
 >
@@ -311,14 +307,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), next (3), business (2), [[Generative AI]] (1), product (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[Algorithms]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** dikw (6), dikm (1), ceo (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** stands for (1)
 > **Speakers:** - [instructor] (1)
 
-#### What's a business rule?
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/what-s-a-business-rule?u=76281980)
+#### [What's a business rule?](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/what-s-a-business-rule?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -328,9 +323,9 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/what-s-a-business-rule?u=76281980&t=13)** This sort of application is client facing with tangible impacts.
 >
-> **[0:19](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/what-s-a-business-rule?u=76281980&t=19)** It makes us feel good to see clients interacting with dashboards.
+> **[0:19](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/what-s-a-business-rule?u=76281980&t=19)** It makes us feel good to see clients interacting with [[Dashboards]].
 >
-> **[0:23](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/what-s-a-business-rule?u=76281980&t=23)** Within the organization, it's easier to explicitly distinguish the value of the data team from the software development team.
+> **[0:23](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/what-s-a-business-rule?u=76281980&t=23)** Within the organization, it's easier to explicitly distinguish the value of the data team from the [[Software Development]] team.
 >
 > **[0:31](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/what-s-a-business-rule?u=76281980&t=31)** Data flows in and out of each business unit.
 >
@@ -378,17 +373,16 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/what-s-a-business-rule?u=76281980&t=222)** An organization runs only as effectively as its ability to translate business function to implementable business rules.
 >
-> **[3:54](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/what-s-a-business-rule?u=76281980&t=234)** Now that we've discussed business rules, let's turn our attention to what exactly is a business operation, and we need to distinguish between business rules and business operations.
+> **[3:54](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/what-s-a-business-rule?u=76281980&t=234)** Now that we've discussed business rules, let's turn our attention to what exactly is a business operation, and we need to distinguish between business rules and [[Business Operations]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (23), data (10), product (2), application (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (1), [[Software Development]] (1), [[Business Operations]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### A business rule vs. a business operation
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-operation?u=76281980)
+#### [A business rule vs. a business operation](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-operation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -396,7 +390,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-operation?u=76281980&t=2)** Why do I need to know what a business operation is?
 >
-> **[0:07](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-operation?u=76281980&t=7)** Business operations are outside of my wheelhouse.
+> **[0:07](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-operation?u=76281980&t=7)** [[Business Operations]] are outside of my wheelhouse.
 >
 > **[0:10](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-operation?u=76281980&t=10)** I also don't want to take on any more responsibility.
 >
@@ -416,7 +410,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-operation?u=76281980&t=54)** At a basic level, business operations are the strategic arm of the organization.
 >
-> **[1:01](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-operation?u=76281980&t=61)** There's forecasting, quality control, and supply chain management activities that need to be ironed out.
+> **[1:01](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-operation?u=76281980&t=61)** There's [[Forecasting]], quality control, and [[Supply Chain Management]] activities that need to be ironed out.
 >
 > **[1:09](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-operation?u=76281980&t=69)** And these are on top of the HR, finance, and product department activities I've previously mentioned.
 >
@@ -426,7 +420,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-operation?u=76281980&t=103)** The company's leadership would set the vision for this work while other departments handle the implementation.
 >
-> **[1:52](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-operation?u=76281980&t=112)** Those of us in data roles, particularly data analyst and data engineers, focus on how to represent the digital aspects of the leadership's vision through data management business rules.
+> **[1:52](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-operation?u=76281980&t=112)** Those of us in data roles, particularly data analyst and data engineers, focus on how to represent the digital aspects of the leadership's vision through [[Data Management]] business rules.
 >
 > **[2:07](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-operation?u=76281980&t=127)** Nothing more.
 >
@@ -444,17 +438,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (14), data (12), leadership (2), [[Forecasting]] (1), [[Supply Chain Management]] (1)
+> **Frameworks & Libraries:** [[Business Operations]] (5), [[Forecasting]] (1), [[Supply Chain Management]] (1), [[Data Management]] (1)
 > **Analogies:** for instance (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [narrator] (1)
 
-#### A business rule vs. a business practice
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-practice?u=76281980)
+#### [A business rule vs. a business practice](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-practice?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-practice?u=76281980&t=0)** - [Instructor] We discussed business operations to provide you with the aerial view of how business rules fit within it.
+> **[0:00](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-practice?u=76281980&t=0)** - [Instructor] We discussed [[Business Operations]] to provide you with the aerial view of how business rules fit within it.
 >
 > **[0:07](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-practice?u=76281980&t=7)** But business practices aren't as formal, stable, or clear.
 >
@@ -466,7 +459,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-practice?u=76281980&t=40)** The team's dynamics, both good and bad habits, establish how that team communicates and collaborates to complete their assigned projects.
 >
-> **[0:52](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-practice?u=76281980&t=52)** A good example of a data-focused business practice is how a team establishes their slate of data products and services.
+> **[0:52](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-practice?u=76281980&t=52)** A good example of a data-focused business practice is how a team establishes their slate of data [[Microsoft Products|products]] and services.
 >
 > **[1:01](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-practice?u=76281980&t=61)** This tech stack discussion is a frequent topic.
 >
@@ -476,7 +469,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-practice?u=76281980&t=76)** Does your team rely on using both types of systems, or stick with just one?
 >
-> **[1:22](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-practice?u=76281980&t=82)** For instance, each team member has a preferred programming language, certain familiarity with specific systems, preferred slate of data tools, and ways to complete data modeling and analytics tasks.
+> **[1:22](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-practice?u=76281980&t=82)** For instance, each team member has a preferred programming language, certain familiarity with specific systems, preferred slate of data tools, and ways to complete [[Data Modeling]] and analytics tasks.
 >
 > **[1:38](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-practice?u=76281980&t=98)** Teams deal with how to effectively leverage their individual skillset, while not using every data tool, system, and platform available.
 >
@@ -490,9 +483,9 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-practice?u=76281980&t=139)** They give generic guardrails to help keep business practices relevant to the organization's needs.
 >
-> **[2:26](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-practice?u=76281980&t=146)** For instance, an organization may decide to create a business rule that stipulates the use of a certain database management system.
+> **[2:26](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-practice?u=76281980&t=146)** For instance, an organization may decide to create a business rule that stipulates the use of a certain [[Database Management]] system.
 >
-> **[2:36](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-practice?u=76281980&t=156)** Now, the development of the data team's business practices will be only for that database management system, and they'll implement it in accordance to standard data governance principles.
+> **[2:36](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-practice?u=76281980&t=156)** Now, the development of the data team's business practices will be only for that database management system, and they'll implement it in accordance to standard [[Data Governance]] principles.
 >
 > **[2:49](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-practice?u=76281980&t=169)** This process repeats for each project the data team works on.
 >
@@ -504,26 +497,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (17), data (10), database (2), management (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Business Operations]] (2), [[Database Management]] (2), [[Microsoft Products|Products]] (1), [[Data Modeling]] (1), [[Data Governance]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for instance (2)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - [instructor] (1)
 
-#### A business rule vs. a business policy
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-policy?u=76281980)
+#### [A business rule vs. a business policy](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-policy?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-policy?u=76281980&t=0)** - [Host] It may seem unnatural for business policies and business rules to be part of the same conversation, but in day-to-day data team activities, much of our work is guided by the organization's business policies.
 >
-> **[0:16](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-policy?u=76281980&t=16)** Business policies take on one of three forms, facilitating regulatory or restrictive.
+> **[0:16](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-policy?u=76281980&t=16)** Business policies take on one of three [[Forms]], facilitating regulatory or restrictive.
 >
 > **[0:24](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-policy?u=76281980&t=24)** Each type of business policy provides a blueprint for defining limits of how the organization's team members should be making decisions.
 >
 > **[0:34](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-policy?u=76281980&t=34)** Ideally, a business policy is clear, concise, simple, inclusive, and stable in practice however, conflicting business policies are unearthed as they can be developed in silos.
 >
-> **[0:51](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-policy?u=76281980&t=51)** Data governance committees are formed internally to help provide sufficient and regular checks and balances given specific compliance stipulations.
+> **[0:51](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-policy?u=76281980&t=51)** [[Data Governance]] committees are formed internally to help provide sufficient and regular checks and balances given specific compliance stipulations.
 >
 > **[1:02](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-policy?u=76281980&t=62)** For instance, let's revisit the business rule that checks the dimensions of an Instagram post prior to posting to the profile's timeline.
 >
@@ -531,19 +523,19 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-policy?u=76281980&t=81)** The data governance committee of data and legal experts would figure out what constitutes explicit and inappropriate content, as well as agree to how to algorithmically establish those parameters.
 >
-> **[1:37](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-policy?u=76281980&t=97)** The banking, insurance and healthcare industries contend with more comprehensive national oversight to help minimize data privacy breaches.
+> **[1:37](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-policy?u=76281980&t=97)** The [[Banking]], insurance and healthcare industries contend with more comprehensive national oversight to help minimize [[Data Privacy]] breaches.
 >
-> **[1:48](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-policy?u=76281980&t=108)** In other industries, business policies concerning data management activities aren't common.
+> **[1:48](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-policy?u=76281980&t=108)** In other industries, business policies concerning [[Data Management]] activities aren't common.
 >
-> **[1:55](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-policy?u=76281980&t=115)** The public release of generative AI in March, 2023 has altered this landscape.
+> **[1:55](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-policy?u=76281980&t=115)** The public release of [[Generative AI]] in March, 2023 has altered this landscape.
 >
-> **[2:02](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-policy?u=76281980&t=122)** Many organizations are looking and some are shaping agile implementable AI policies to support better transparency, accountability, and governance.
+> **[2:02](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-policy?u=76281980&t=122)** Many organizations are looking and some are shaping [[Agile Development|agile]] implementable AI policies to support better transparency, [[Accountability]], and governance.
 >
 > **[2:15](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-policy?u=76281980&t=135)** As you can see, business policies serve as an additional layer of protection for the organization.
 >
 > **[2:22](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-policy?u=76281980&t=142)** They also help support the effective implementation of business rules.
 >
-> **[2:28](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-policy?u=76281980&t=148)** The ultimate goals of business policies within the data management space remain constant to improve data quality, maintain a high standard of documentation, and keep data secure.
+> **[2:28](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-policy?u=76281980&t=148)** The ultimate goals of business policies within the data management space remain constant to improve [[Data Quality]], maintain a high standard of documentation, and keep data secure.
 >
 > **[2:42](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-policy?u=76281980&t=162)** There have been a lot of terms and scenarios shared so far.
 >
@@ -553,12 +545,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (17), data (9), management (2), [[Forms]] (1), [[Banking]] (1)
+> **Frameworks & Libraries:** [[Data Governance]] (2), [[Data Management]] (2), [[Forms]] (1), [[Banking]] (1), [[Data Privacy]] (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [host] (1)
 
-#### Example business rules
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/example-business-rules?u=76281980)
+#### [Example business rules](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/example-business-rules?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -596,7 +587,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), data (3), product (1), next (1)
 > **Definitions:** is a  (2)
 > **Exercise Files:** exercise files (1)
 > **Prerequisites:** set up (1)
@@ -606,14 +596,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Entities and relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/entities-and-relationships?u=76281980)
+#### [Entities and relationships](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/entities-and-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/entities-and-relationships?u=76281980&t=0)** - [Instructor] Databases have come a long way since they were created in the 1960s and SQL was invented in the early 1970s.
+> **[0:00](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/entities-and-relationships?u=76281980&t=0)** - [Instructor] [[Databases]] have come a long way since they were created in the 1960s and [[SQL]] was invented in the early 1970s.
 >
-> **[0:10](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/entities-and-relationships?u=76281980&t=10)** We have document databases, graph databases, cloud databases, relational databases, and so much more.
+> **[0:10](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/entities-and-relationships?u=76281980&t=10)** We have document databases, graph databases, cloud databases, [[Relational Databases]], and so much more.
 >
 > **[0:19](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/entities-and-relationships?u=76281980&t=19)** Regardless of the database type, the building blocks of a useful database starts with well-constructed business rules.
 >
@@ -663,13 +652,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), [[Databases]] (4), business (2), [[SQL]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Databases]] (4), [[SQL]] (1), [[Relational Databases]] (1)
 > **Analogies:** for example (2), for instance (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cardinalities
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/cardinalities?u=76281980)
+#### [Cardinalities](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/cardinalities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -717,24 +705,23 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/cardinalities?u=76281980&t=201)** Using entities, relationships and cardinalities, you have the basics of creating a data model that can represent many aspects that are part of the business world.
 >
-> **[3:35](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/cardinalities?u=76281980&t=215)** It can also be structured enough to follow the rules of core database design.
+> **[3:35](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/cardinalities?u=76281980&t=215)** It can also be structured enough to follow the rules of core [[Database Design]].
 >
 > **[3:43](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/cardinalities?u=76281980&t=223)** Next up, we'll start to bring these concepts together for database requirement specifications.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), data (2), business (1), next (1)
+> **Frameworks & Libraries:** [[Database Design]] (1)
 > **Analogies:** for instance (2), for example (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Scoping the database requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/scoping-the-database-requirements?u=76281980)
+#### [Scoping the database requirements](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/scoping-the-database-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/scoping-the-database-requirements?u=76281980&t=1)** - [Narrator] Our recap of the entity relationship model tapped into the foundational mechanics of good database design.
+> **[0:01](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/scoping-the-database-requirements?u=76281980&t=1)** - [Narrator] Our recap of the entity relationship model tapped into the foundational mechanics of good [[Database Design]].
 >
 > **[0:08](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/scoping-the-database-requirements?u=76281980&t=8)** However, before we proceed with the digital workings of database design, let's take a minute to emphasize the less discussed analog and more tactical aspects.
 >
@@ -776,12 +763,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (12), data (4), leadership (2), business (2)
+> **Frameworks & Libraries:** [[Database Design]] (5)
 > **CLI Commands:** make (6)
 > **Speakers:** - [narrator] (1)
 
-#### Analyzing the overall data requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/analyzing-the-overall-data-requirements?u=76281980)
+#### [Analyzing the overall data requirements](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/analyzing-the-overall-data-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -791,9 +777,9 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/analyzing-the-overall-data-requirements?u=76281980&t=13)** They tend to be assumed or gathered over time, but it's as important as business requirements and software requirements documentations.
 >
-> **[0:22](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/analyzing-the-overall-data-requirements?u=76281980&t=22)** Both business operations and software development become easier to map out and manage when there's a solid data plan.
+> **[0:22](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/analyzing-the-overall-data-requirements?u=76281980&t=22)** Both [[Business Operations]] and [[Software Development]] become easier to map out and manage when there's a solid data plan.
 >
-> **[0:32](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/analyzing-the-overall-data-requirements?u=76281980&t=32)** For most of you, you'll join an organization with an existing database management system.
+> **[0:32](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/analyzing-the-overall-data-requirements?u=76281980&t=32)** For most of you, you'll join an organization with an existing [[Database Management]] system.
 >
 > **[0:39](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/analyzing-the-overall-data-requirements?u=76281980&t=39)** Your intention then is to find, review, and understand the existing data requirements documentation and cross your fingers that the documentation closely reflects what's happening in practice.
 >
@@ -807,7 +793,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/analyzing-the-overall-data-requirements?u=76281980&t=88)** Data requirements appear within business operations and software development specification documents, for instance.
 >
-> **[1:36](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/analyzing-the-overall-data-requirements?u=76281980&t=96)** The five main parts of a data requirements document are entities, entity features called attributes, relationships, data validation rules, and data storage, and retrieval approaches.
+> **[1:36](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/analyzing-the-overall-data-requirements?u=76281980&t=96)** The five main parts of a data requirements document are entities, entity features called attributes, relationships, [[Data Validation]] rules, and [[Data Storage]], and retrieval approaches.
 >
 > **[1:53](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/analyzing-the-overall-data-requirements?u=76281980&t=113)** We've talked extensively about entities and relationships already, so we'll move on to describing the other elements of data requirements.
 >
@@ -829,7 +815,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/analyzing-the-overall-data-requirements?u=76281980&t=178)** Lastly, we must concern ourselves with the data storage and retrieval approaches.
 >
-> **[3:05](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/analyzing-the-overall-data-requirements?u=76281980&t=185)** These methods are looking to make data management efficient.
+> **[3:05](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/analyzing-the-overall-data-requirements?u=76281980&t=185)** These methods are looking to make [[Data Management]] efficient.
 >
 > **[3:09](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/analyzing-the-overall-data-requirements?u=76281980&t=189)** We want to choose the best database structure, create effective indexing schemes, and implement optimized data access methods.
 >
@@ -847,7 +833,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), business (5), database (3), [[Software Development]] (2), management (2)
+> **Frameworks & Libraries:** [[Business Operations]] (2), [[Software Development]] (2), [[Data Validation]] (2), [[Data Storage]] (2), [[Database Management]] (1)
 > **Analogies:** for example (2), for instance (1), picture (1)
 > **CLI Commands:** find (1), make (1)
 > **Documentation:** the documentation (1), specification (1)
@@ -855,8 +841,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Connecting entities, relationships, and business rules
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/connecting-entities-relationships-and-business-rules?u=76281980)
+#### [Connecting entities, relationships, and business rules](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/connecting-entities-relationships-and-business-rules?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -884,7 +869,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/connecting-entities-relationships-and-business-rules?u=76281980&t=92)** The entities are therefore brainiac and post.
 >
-> **[1:37](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/connecting-entities-relationships-and-business-rules?u=76281980&t=97)** The word can in this sentence indicates that a brainiac may or may not have uploaded a post or uploaded many posts, so that confirms an optional mini-relationship on the post entity side.
+> **[1:37](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/connecting-entities-relationships-and-business-rules?u=76281980&t=97)** The [[Microsoft Word|word]] can in this sentence indicates that a brainiac may or may not have uploaded a post or uploaded many posts, so that confirms an optional mini-relationship on the post entity side.
 >
 > **[1:56](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/connecting-entities-relationships-and-business-rules?u=76281980&t=116)** A post having one author reflects that a post can't exist without a brainiac, so that lends itself to establishing a mandatory one relationship.
 >
@@ -936,20 +921,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), business (6), data (1), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Identifying data integrity requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/identifying-data-integrity-requirements?u=76281980)
+#### [Identifying data integrity requirements](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/identifying-data-integrity-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/identifying-data-integrity-requirements?u=76281980&t=0)** - [Lecturer] Our conceptual database model gives us a great overview of how business rules show up in the data model and how they're connected to each other.
 >
-> **[0:10](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/identifying-data-integrity-requirements?u=76281980&t=10)** What we've created so far is a great visual, but it's not ready to be implemented within a database management system or DBMS.
+> **[0:10](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/identifying-data-integrity-requirements?u=76281980&t=10)** What we've created so far is a great visual, but it's not ready to be implemented within a [[Database Management]] system or DBMS.
 >
 > **[0:21](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/identifying-data-integrity-requirements?u=76281980&t=21)** One more element is missing, the attributes for each entity.
 >
@@ -1019,7 +1003,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), data (3), business (1), management (1)
+> **Frameworks & Libraries:** [[Database Management]] (1)
 > **Env Vars:** dbms (2)
 > **Definitions:** is a  (1), known as (1)
 > **Speakers:** - [lecturer] (1)
@@ -1029,12 +1013,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The data you're given: Now what?
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/the-data-you-re-given-now-what?u=76281980)
+#### [The data you're given: Now what?](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/the-data-you-re-given-now-what?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/the-data-you-re-given-now-what?u=76281980&t=0)** - [Narrator] Before we explore the database tool, we're sketching out the type of data that'll eventually populate this database and imagine what good sample data criteria is.
+> **[0:00](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/the-data-you-re-given-now-what?u=76281980&t=0)** - [Narrator] Before we explore the database tool, we're [[Sketching]] out the type of data that'll eventually populate this database and imagine what good sample data criteria is.
 >
 > **[0:13](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/the-data-you-re-given-now-what?u=76281980&t=13)** This will help build our confidence in our data model.
 >
@@ -1082,7 +1065,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/the-data-you-re-given-now-what?u=76281980&t=176)** I wouldn't want to share content that another party hadn't given their permission.
 >
-> **[3:02](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/the-data-you-re-given-now-what?u=76281980&t=182)** Data ownership, privacy, confidentiality, and what constitutes as vulnerable data features take on a whole new meaning in this situation.
+> **[3:02](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/the-data-you-re-given-now-what?u=76281980&t=182)** Data ownership, [[Privacy]], confidentiality, and what constitutes as vulnerable data features take on a whole new meaning in this situation.
 >
 > **[3:14](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/the-data-you-re-given-now-what?u=76281980&t=194)** Either way, you have a beginning of a process for using existing datasets.
 >
@@ -1098,7 +1081,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), database (3), [[Search]] (3), [[Privacy]] (2), [[Sketching]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (2), [[Sketching]] (1)
 > **Analogies:** imagine (2)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
@@ -1106,8 +1089,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Asking questions of the data
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/asking-questions-of-the-data?u=76281980)
+#### [Asking questions of the data](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/asking-questions-of-the-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1141,13 +1123,13 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/asking-questions-of-the-data?u=76281980&t=94)** It's time to apply an algorithmic approach.
 >
-> **[1:37](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/asking-questions-of-the-data?u=76281980&t=97)** There are three methods that'll help us assess the completeness and accuracy of our dataset if we're able to read it into a data analysis platform like Python pandas.
+> **[1:37](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/asking-questions-of-the-data?u=76281980&t=97)** There are three methods that'll help us assess the completeness and accuracy of our dataset if we're able to read it into a data analysis platform like [[Python (Programming Language)|Python]] [[Pandas (Software)|pandas]].
 >
 > **[1:50](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/asking-questions-of-the-data?u=76281980&t=110)** First up, the info method, when executed, provides us with the number of entries, number of columns, number of entries for each column, data type of each column, and the amount of memory usage.
 >
 > **[2:06](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/asking-questions-of-the-data?u=76281980&t=126)** The ideal output would be that all the number of entries and the number of injuries for each column are the same.
 >
-> **[2:15](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/asking-questions-of-the-data?u=76281980&t=135)** Next, the describe method gives us the descriptive statistics about each numerical column.
+> **[2:15](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/asking-questions-of-the-data?u=76281980&t=135)** Next, the describe method gives us the descriptive [[Statistics]] about each numerical column.
 >
 > **[2:24](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/asking-questions-of-the-data?u=76281980&t=144)** That's the count again, mean, standard deviation, minimum, 25%, 50%, and 75% quantiles, and the maximum values.
 >
@@ -1175,24 +1157,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Pandas (Software)|Pandas]] (2), next (2), [[Statistics]] (2), database (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (2), [[Statistics]] (2), [[Python (Programming Language)|Python]] (1)
 > **Analogies:** for example (1), for instance (1)
 > **CLI Commands:** python (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### The data you're creating: Pros and cons
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/the-data-you-re-creating-pros-and-cons?u=76281980)
+#### [The data you're creating: Pros and cons](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/the-data-you-re-creating-pros-and-cons?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/the-data-you-re-creating-pros-and-cons?u=76281980&t=0)** - [Instructor] Some data environments elect to create synthetic data sets themselves or license them from other organizations.
 >
-> **[0:08](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/the-data-you-re-creating-pros-and-cons?u=76281980&t=8)** The banking and credit lending industry use synthetic financial data to improve fraud detection.
+> **[0:08](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/the-data-you-re-creating-pros-and-cons?u=76281980&t=8)** The [[Banking]] and credit lending industry use synthetic [[Financial Data]] to improve fraud detection.
 >
 > **[0:16](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/the-data-you-re-creating-pros-and-cons?u=76281980&t=16)** Manufacturing companies use synthetic data for better quality control testing and predictive maintenance processes.
 >
-> **[0:26](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/the-data-you-re-creating-pros-and-cons?u=76281980&t=26)** AI-powered companies use synthetic data to test the robustness of their facial feature recognition and natural language processing systems.
+> **[0:26](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/the-data-you-re-creating-pros-and-cons?u=76281980&t=26)** AI-powered companies use synthetic data to test the robustness of their facial feature recognition and [[Natural Language Processing (NLP)|natural language processing]] systems.
 >
 > **[0:37](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/the-data-you-re-creating-pros-and-cons?u=76281980&t=37)** In doing so, there are expected pros and cons.
 >
@@ -1204,9 +1185,9 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/the-data-you-re-creating-pros-and-cons?u=76281980&t=63)** Number two, you have the opportunity to save costs.
 >
-> **[1:08](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/the-data-you-re-creating-pros-and-cons?u=76281980&t=68)** Once data generation is complete, an organization isn't spending a bunch of money repeatedly on real dataset licenses, and you're avoiding the real world data collection process, which is notoriously very costly.
+> **[1:08](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/the-data-you-re-creating-pros-and-cons?u=76281980&t=68)** Once data generation is complete, an organization isn't spending a bunch of money repeatedly on real dataset licenses, and you're avoiding the real world [[Data Collection]] process, which is notoriously very costly.
 >
-> **[1:28](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/the-data-you-re-creating-pros-and-cons?u=76281980&t=88)** And number three, you significantly reduce concerns around data ownership and privacy.
+> **[1:28](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/the-data-you-re-creating-pros-and-cons?u=76281980&t=88)** And number three, you significantly reduce concerns around data ownership and [[Privacy]].
 >
 > **[1:35](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/the-data-you-re-creating-pros-and-cons?u=76281980&t=95)** You can keep sensitive data safe, and it also allows organizations to circumvent regulatory and compliance expectations.
 >
@@ -1234,17 +1215,16 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/the-data-you-re-creating-pros-and-cons?u=76281980&t=193)** We have the pros of potentially generating diverse and realistic data, saving cost, and keeping sensitive data safe.
 >
-> **[3:23](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/the-data-you-re-creating-pros-and-cons?u=76281980&t=203)** We've shared several limitations of choosing an inadequate data generation model, dealing with a slew of data integrity issues, and not being able to assess reliability.
+> **[3:23](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/the-data-you-re-creating-pros-and-cons?u=76281980&t=203)** We've shared several limitations of choosing an inadequate data generation model, dealing with a slew of [[Data Integrity]] issues, and not being able to assess reliability.
 >
 > **[3:37](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/the-data-you-re-creating-pros-and-cons?u=76281980&t=217)** We'll finish up this chapter with important questions to ask if you're planning on developing your own synthetic data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[Banking]] (1), [[Financial Data]] (1), ai (1), feature (1)
+> **Frameworks & Libraries:** [[Banking]] (1), [[Financial Data]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Data Collection]] (1), [[Privacy]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Asking questions of your made-up data
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/asking-questions-of-your-madeup-data?u=76281980)
+#### [Asking questions of your made-up data](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/asking-questions-of-your-madeup-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1268,7 +1248,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/asking-questions-of-your-madeup-data?u=76281980&t=67)** Which scenarios are important to represent?
 >
-> **[1:11](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/asking-questions-of-your-madeup-data?u=76281980&t=71)** And which benchmarking tools help to assess data quality?
+> **[1:11](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/asking-questions-of-your-madeup-data?u=76281980&t=71)** And which benchmarking tools help to assess [[Data Quality]]?
 >
 > **[1:17](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/asking-questions-of-your-madeup-data?u=76281980&t=77)** These considerations and other ones that come up in discussion should be placed in context to the project's goals, scope, and timeline.
 >
@@ -1308,7 +1288,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), strengths (1), business (1), open-source (1)
+> **Frameworks & Libraries:** [[Data Quality]] (2)
 > **Speakers:** - [presenter] (1)
 
 
@@ -1316,18 +1296,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of MySQL Workbench
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/overview-of-mysql-workbench?u=76281980)
+#### [Overview of MySQL Workbench](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/overview-of-mysql-workbench?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/overview-of-mysql-workbench?u=76281980&t=0)** - [Instructor] We're ready to digitize your pen and paper logical database model for the Brainery.
 >
-> **[0:07](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/overview-of-mysql-workbench?u=76281980&t=7)** You can choose from a range of database management systems.
+> **[0:07](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/overview-of-mysql-workbench?u=76281980&t=7)** You can choose from a range of [[Database Management]] systems.
 >
-> **[0:12](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/overview-of-mysql-workbench?u=76281980&t=12)** We're using MySQL Workbench.
+> **[0:12](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/overview-of-mysql-workbench?u=76281980&t=12)** We're using [[MySQL]] Workbench.
 >
-> **[0:15](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/overview-of-mysql-workbench?u=76281980&t=15)** MySQL Workbench provides data analysts, engineers, and other database professionals with a single platform to store their data model, datasets, develop their SQL queries, and conduct some database maintenance.
+> **[0:15](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/overview-of-mysql-workbench?u=76281980&t=15)** MySQL Workbench provides data analysts, engineers, and other database professionals with a single platform to store their data model, datasets, develop their [[SQL]] queries, and conduct some database maintenance.
 >
 > **[0:34](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/overview-of-mysql-workbench?u=76281980&t=34)** It's completely free so you don't have to worry about pesky licensing fees.
 >
@@ -1347,7 +1326,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/overview-of-mysql-workbench?u=76281980&t=92)** Now click on the icon representing three entities and two relationships.
 >
-> **[1:41](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/overview-of-mysql-workbench?u=76281980&t=101)** You've just launched the data modeling side of MySQL Workbench.
+> **[1:41](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/overview-of-mysql-workbench?u=76281980&t=101)** You've just launched the [[Data Modeling]] side of MySQL Workbench.
 >
 > **[1:47](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/overview-of-mysql-workbench?u=76281980&t=107)** And to create a new data model, click on the + sign.
 >
@@ -1385,7 +1364,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MySQL]] (8), data (7), database (5), [[SQL]] (3), management (1)
+> **Frameworks & Libraries:** [[MySQL]] (8), [[SQL]] (3), [[Database Management]] (1), [[Data Modeling]] (1)
 > **CLI Commands:** mysql (8), find (1)
 > **Env Vars:** sql (3), eer (3)
 > **UI Navigation:** click on (3)
@@ -1394,14 +1373,13 @@ created: 2026-05-02
 > **Prerequisites:** install (1), configure (1)
 > **Best Practices:** don't forget (1)
 
-#### Creating entities in MySQL Workbench
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/creating-entities-in-mysql-workbench?u=76281980)
+#### [Creating entities in MySQL Workbench](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/creating-entities-in-mysql-workbench?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/creating-entities-in-mysql-workbench?u=76281980&t=0)** - [Instructor] It's time to set up some data entry.
 >
-> **[0:04](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/creating-entities-in-mysql-workbench?u=76281980&t=4)** We need to set up our digital data modeling environment.
+> **[0:04](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/creating-entities-in-mysql-workbench?u=76281980&t=4)** We need to set up our digital [[Data Modeling]] environment.
 >
 > **[0:09](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/creating-entities-in-mysql-workbench?u=76281980&t=9)** So remember you saved that file.
 >
@@ -1453,7 +1431,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/creating-entities-in-mysql-workbench?u=76281980&t=177)** And a primary key is also non-null.
 >
-> **[3:00](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/creating-entities-in-mysql-workbench?u=76281980&t=180)** So by default, when you double click on the column name, the column name that MySQL Workbench creates is ID Brainiac.
+> **[3:00](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/creating-entities-in-mysql-workbench?u=76281980&t=180)** So by default, when you double click on the column name, the column name that [[MySQL]] Workbench creates is ID Brainiac.
 >
 > **[3:13](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/creating-entities-in-mysql-workbench?u=76281980&t=193)** I don't particularly like that naming scheme.
 >
@@ -1467,7 +1445,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/creating-entities-in-mysql-workbench?u=76281980&t=228)** Also what you'll notice is that both PK and NN have been marked.
 >
-> **[3:57](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/creating-entities-in-mysql-workbench?u=76281980&t=237)** The rest of the data types you don't need to be concerned about.
+> **[3:57](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/creating-entities-in-mysql-workbench?u=76281980&t=237)** The [[Representational State Transfer (REST)|rest]] of the data types you don't need to be concerned about.
 >
 > **[4:02](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/creating-entities-in-mysql-workbench?u=76281980&t=242)** So now you can move on to your next attribute name or column name.
 >
@@ -1495,7 +1473,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), next (3), [[MySQL]] (2), database (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[MySQL]] (2), [[Data Modeling]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (4), mysql (2)
 > **UI Navigation:** double-click (3), open the (1), click on (1)
 > **SQL:** varchar (2)
@@ -1504,8 +1482,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (2)
 > **Cross-References:** in the next (1)
 
-#### Creating relationships in MySQL Workbench
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/creating-relationships-in-mysql-workbench?u=76281980)
+#### [Creating relationships in MySQL Workbench](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/creating-relationships-in-mysql-workbench?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1587,7 +1564,7 @@ created: 2026-05-02
 >
 > **[5:12](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/creating-relationships-in-mysql-workbench?u=76281980&t=312)** So now I'm done with a DirectMessage entity.
 >
-> **[5:17](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/creating-relationships-in-mysql-workbench?u=76281980&t=317)** Now, to make things a little bit easier to see, you can now move the secondary window down so you can reveal the rest of your tables.
+> **[5:17](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/creating-relationships-in-mysql-workbench?u=76281980&t=317)** Now, to make things a little bit easier to see, you can now move the secondary window down so you can reveal the [[Representational State Transfer (REST)|rest]] of your tables.
 >
 > **[5:27](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/creating-relationships-in-mysql-workbench?u=76281980&t=327)** And now we can move on to the second type of relationship that we're going to go over to today.
 >
@@ -1679,7 +1656,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (6)
 > **UI Navigation:** select the (5), click on (1)
 > **Definitions:** is a  (4), means that (2)
@@ -1688,16 +1665,15 @@ created: 2026-05-02
 > **Env Vars:** varchar (1)
 > **Speakers:** - [narrator] (1)
 
-#### Confirming identifying and non-identifying relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/confirming-identifying-and-non-identifying-relationships?u=76281980)
+#### [Confirming identifying and non-identifying relationships](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/confirming-identifying-and-non-identifying-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/confirming-identifying-and-non-identifying-relationships?u=76281980&t=0)** - [Lecturer] So, I've completed the other relationships that I have in my logical database design, and this is what it looks like.
+> **[0:00](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/confirming-identifying-and-non-identifying-relationships?u=76281980&t=0)** - [Lecturer] So, I've completed the other relationships that I have in my logical [[Database Design]], and this is what it looks like.
 >
 > **[0:08](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/confirming-identifying-and-non-identifying-relationships?u=76281980&t=8)** So, you've looked at all of your pen and paper sketches of the logical database model many, many times by now.
 >
-> **[0:17](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/confirming-identifying-and-non-identifying-relationships?u=76281980&t=17)** Your MySQL Workbench data model should be looking pretty close to what you actually have on paper, right?
+> **[0:17](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/confirming-identifying-and-non-identifying-relationships?u=76281980&t=17)** Your [[MySQL]] Workbench data model should be looking pretty close to what you actually have on paper, right?
 >
 > **[0:26](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/confirming-identifying-and-non-identifying-relationships?u=76281980&t=26)** And that's a replica.
 >
@@ -1767,7 +1743,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), [[MySQL]] (2), data (1)
+> **Frameworks & Libraries:** [[MySQL]] (2), [[Database Design]] (1)
 > **CLI Commands:** mysql (2), make (2)
 > **Definitions:** is a  (1), means that (1)
 > **Env Vars:** fyi (1)
@@ -1775,20 +1751,19 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Creating the database schema
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/creating-the-database-schema?u=76281980)
+#### [Creating the database schema](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/creating-the-database-schema?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/creating-the-database-schema?u=76281980&t=0)** - [Instructor] With the meticulous attention that you paid to the database design, you've set yourself up for an easy creation of the database schema, and MySQL Workbench does the heavy lifting for you.
+> **[0:00](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/creating-the-database-schema?u=76281980&t=0)** - [Instructor] With the meticulous attention that you paid to the [[Database Design]], you've set yourself up for an easy creation of the database schema, and [[MySQL]] Workbench does the heavy lifting for you.
 >
 > **[0:16](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/creating-the-database-schema?u=76281980&t=16)** The database schema, as a reminder, is the blueprint that describes how the data is connected to each other and amongst the tables.
 >
-> **[0:28](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/creating-the-database-schema?u=76281980&t=28)** It consists of SQL create table definitions.
+> **[0:28](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/creating-the-database-schema?u=76281980&t=28)** It consists of [[SQL]] create table definitions.
 >
 > **[0:32](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/creating-the-database-schema?u=76281980&t=32)** The syntax goes like this.
 >
-> **[0:36](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/creating-the-database-schema?u=76281980&t=36)** Key word create table with user-defined table name, open parentheses, then list each column name with accompanying data type, list the primary keys, list the foreign keys, as needed, and then close the parentheses with the semicolon at the end.
+> **[0:36](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/creating-the-database-schema?u=76281980&t=36)** Key [[Microsoft Word|word]] create table with user-defined table name, open parentheses, then list each column name with accompanying data type, list the primary keys, list the foreign keys, as needed, and then close the parentheses with the semicolon at the end.
 >
 > **[1:02](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/creating-the-database-schema?u=76281980&t=62)** Since your data model has been inputted into MySQL Workbench, you can generate the database schema with just a few clicks.
 >
@@ -1836,7 +1811,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), [[MySQL]] (5), [[SQL]] (4), data (3), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[MySQL]] (5), [[SQL]] (4), [[Database Design]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** mysql (5), make (1)
 > **Env Vars:** sql (4), drop (1), create (1)
 > **UI Navigation:** go to (1)
@@ -1847,18 +1822,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of the SELECT statement
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/overview-of-the-select-statement?u=76281980)
+#### [Overview of the SELECT statement](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/overview-of-the-select-statement?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/overview-of-the-select-statement?u=76281980&t=0)** - [Instructor] Knowing SQL has skyrocketed as a preferred skill for data analysts and engineers.
+> **[0:00](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/overview-of-the-select-statement?u=76281980&t=0)** - [Instructor] Knowing [[SQL]] has skyrocketed as a preferred skill for data analysts and engineers.
 >
 > **[0:07](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/overview-of-the-select-statement?u=76281980&t=7)** Learning SQL has stayed relatively the same since the early 1970s.
 >
 > **[0:13](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/overview-of-the-select-statement?u=76281980&t=13)** The emphasis is placed on learning the mechanics of structuring an SQL statement.
 >
-> **[0:20](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/overview-of-the-select-statement?u=76281980&t=20)** However, we should also focus on understanding the decision-making implications of what an SQL query is retrieving.
+> **[0:20](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/overview-of-the-select-statement?u=76281980&t=20)** However, we should also focus on understanding the [[Decision-Making]] implications of what an SQL query is retrieving.
 >
 > **[0:30](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/overview-of-the-select-statement?u=76281980&t=30)** Let's discuss the mechanics first.
 >
@@ -1902,7 +1876,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/overview-of-the-select-statement?u=76281980&t=204)** Now, we can't overlook how null entries can disqualify a row from appearing in a result set, and therefore, making a result sets incomplete.
 >
-> **[3:37](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/overview-of-the-select-statement?u=76281980&t=217)** We also can't overlook how important both primary keys and foreign keys are to our database design.
+> **[3:37](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/overview-of-the-select-statement?u=76281980&t=217)** We also can't overlook how important both primary keys and foreign keys are to our [[Database Design]].
 >
 > **[3:46](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/overview-of-the-select-statement?u=76281980&t=226)** Without solid primary keys and foreign keys, our SQL querying would return lackluster results.
 >
@@ -1912,17 +1886,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (9), data (4), database (2), next (2), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[SQL]] (9), [[Decision-Making]] (1), [[Database Design]] (1)
 > **Env Vars:** sql (9)
 > **Analogies:** for example (3)
 > **Speakers:** - [instructor] (1)
 
-#### Another toy dataset
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/another-toy-dataset?u=76281980)
+#### [Another toy dataset](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/another-toy-dataset?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/another-toy-dataset?u=76281980&t=0)** - [Instructor] Now that we have the database schema, we need to upload it into our MySQL Workbench database partition.
+> **[0:00](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/another-toy-dataset?u=76281980&t=0)** - [Instructor] Now that we have the database schema, we need to upload it into our [[MySQL]] Workbench database partition.
 >
 > **[0:11](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/another-toy-dataset?u=76281980&t=11)** Starting on the home screen, we'll select the MySQL connections, local instance.
 >
@@ -1942,7 +1915,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/another-toy-dataset?u=76281980&t=60)** Again, this is outside of this course, so don't need to worry about it.
 >
-> **[1:06](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/another-toy-dataset?u=76281980&t=66)** The main panel has the ability for you to write your SQL scripts.
+> **[1:06](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/another-toy-dataset?u=76281980&t=66)** The main panel has the ability for you to write your [[SQL]] scripts.
 >
 > **[1:11](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/another-toy-dataset?u=76281980&t=71)** Each number is lined with a particular number associated with it.
 >
@@ -1992,7 +1965,7 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/another-toy-dataset?u=76281980&t=242)** You're going to have to start over again and make the corrections before you can complete that script file.
 >
-> **[4:12](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/another-toy-dataset?u=76281980&t=252)** In the secondary window, you'll also see what time, what action was taken or what the command was, how long the command took, which is the duration or fetch time, as well as the response.
+> **[4:12](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/another-toy-dataset?u=76281980&t=252)** In the secondary window, you'll also see what time, what action was taken or what the command was, how long the command took, which is the duration or [[Fetch]] time, as well as the response.
 >
 > **[4:26](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/another-toy-dataset?u=76281980&t=266)** The response lets you know how many rows were affected by issuing that particular SQL command.
 >
@@ -2008,7 +1981,7 @@ created: 2026-05-02
 >
 > **[5:21](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/another-toy-dataset?u=76281980&t=321)** It's typically performed by another system.
 >
-> **[5:24](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/another-toy-dataset?u=76281980&t=324)** For instance, on an e-commerce invoice, the items bought, their quantity, total price and details are automatically added to the corresponding database tables.
+> **[5:24](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/another-toy-dataset?u=76281980&t=324)** For instance, on an [[E-Commerce]] invoice, the items bought, their quantity, total price and details are automatically added to the corresponding database tables.
 >
 > **[5:38](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/another-toy-dataset?u=76281980&t=338)** It's part of the transaction operations and processing to track fulfillment orders.
 >
@@ -2062,7 +2035,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (11), database (9), data (6), [[MySQL]] (5), next (2)
+> **Frameworks & Libraries:** [[SQL]] (11), [[MySQL]] (5), [[Fetch]] (1), [[E-Commerce]] (1)
 > **Env Vars:** sql (11)
 > **UI Navigation:** select the (4), go to (2), scroll up (2)
 > **CLI Commands:** mysql (5), make (2)
@@ -2071,14 +2044,13 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### SELECT-FROM clauses
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/select-from-clauses?u=76281980)
+#### [SELECT-FROM clauses](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/select-from-clauses?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/select-from-clauses?u=76281980&t=0)** - [Instructor] Checking the contents of these database tables that you just added, data may seem unnecessary, but I can attest that there have been times when I've added the wrong data to a table.
 >
-> **[0:16](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/select-from-clauses?u=76281980&t=16)** So I make it part of my practice to run two types of SQL queries that only use the SELECT and FROM clauses.
+> **[0:16](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/select-from-clauses?u=76281980&t=16)** So I make it part of my practice to run two types of [[SQL]] queries that only use the SELECT and FROM clauses.
 >
 > **[0:29](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/select-from-clauses?u=76281980&t=29)** To display the data entries from a subset of tables of a specific table, we use a certain SQL syntax.
 >
@@ -2096,7 +2068,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/select-from-clauses?u=76281980&t=114)** It went super fast.
 >
-> **[1:56](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/select-from-clauses?u=76281980&t=116)** So let me now show you the windows that opened up below.
+> **[1:56](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/select-from-clauses?u=76281980&t=116)** So let me now show you the [[Windows]] that opened up below.
 >
 > **[2:02](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/select-from-clauses?u=76281980&t=122)** So the first window that opens up is actually what's called your result grid.
 >
@@ -2112,7 +2084,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/select-from-clauses?u=76281980&t=186)** Now, you can repeat this type of query for the other tables.
 >
-> **[3:10](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/select-from-clauses?u=76281980&t=190)** As an example, let me go through one more table, and you can do the rest on your own.
+> **[3:10](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/select-from-clauses?u=76281980&t=190)** As an example, let me go through one more table, and you can do the [[Representational State Transfer (REST)|rest]] on your own.
 >
 > **[3:17](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/select-from-clauses?u=76281980&t=197)** So let me try doing the SELECT FROM query for the brainiac.
 >
@@ -2180,11 +2152,11 @@ created: 2026-05-02
 >
 > **[8:17](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/select-from-clauses?u=76281980&t=497)** Your data analytics group may require additional routines that examine the completeness or validity of the data.
 >
-> **[8:26](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/select-from-clauses?u=76281980&t=506)** While data quality is a high priority, we're here to create and run SQL queries to uncover meaningful insights, and that starts with adding a WHERE clause to our SQL SELECT statements.
+> **[8:26](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/select-from-clauses?u=76281980&t=506)** While [[Data Quality]] is a high priority, we're here to create and run SQL queries to uncover meaningful insights, and that starts with adding a WHERE clause to our SQL SELECT statements.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (11), data (9), database (1), [[Windows]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[SQL]] (11), [[Windows]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Data Quality]] (1)
 > **Env Vars:** sql (11), select (8), where (1)
 > **SQL:** select (8), where (1)
 > **Definitions:** is a  (2)
@@ -2193,18 +2165,17 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Analogies:** for example (1)
 
-#### SELECT-FROM-WHERE clauses
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/select-from-where-clauses?u=76281980)
+#### [SELECT-FROM-WHERE clauses](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/select-from-where-clauses?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/select-from-where-clauses?u=76281980&t=0)** - [Instructor] The majority of your SQL queries will include two or more tables.
+> **[0:00](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/select-from-where-clauses?u=76281980&t=0)** - [Instructor] The majority of your [[SQL]] queries will include two or more tables.
 >
 > **[0:07](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/select-from-where-clauses?u=76281980&t=7)** They require you to correctly use the primary keys and foreign keys to filter out relevant data.
 >
 > **[0:16](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/select-from-where-clauses?u=76281980&t=16)** The WHERE clause allows you to match rows with the information that's related to each other across tables.
 >
-> **[0:25](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/select-from-where-clauses?u=76281980&t=25)** Suppose you want to know a list of posts with the word I-P-S-U-M.
+> **[0:25](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/select-from-where-clauses?u=76281980&t=25)** Suppose you want to know a list of posts with the [[Microsoft Word|word]] I-P-S-U-M.
 >
 > **[0:36](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/select-from-where-clauses?u=76281980&t=36)** So of course, what you want to make sure that you identify are the two tables that you'll need.
 >
@@ -2272,7 +2243,7 @@ created: 2026-05-02
 >
 > **[5:21](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/select-from-where-clauses?u=76281980&t=321)** Good data Rick, Joy, B, Lady Mo, and Nina M.
 >
-> **[5:31](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/select-from-where-clauses?u=76281980&t=331)** As you can see, I like collapsing the windows, so it's easier in order to see what are the SQL scripts that I'm running, and then to see the results separately.
+> **[5:31](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/select-from-where-clauses?u=76281980&t=331)** As you can see, I like collapsing the [[Windows]], so it's easier in order to see what are the SQL scripts that I'm running, and then to see the results separately.
 >
 > **[5:45](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/select-from-where-clauses?u=76281980&t=345)** Okay, last example.
 >
@@ -2312,7 +2283,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (9), data (3), [[Microsoft Word|Word]] (3), next (2), [[Scripting]] (1)
+> **Frameworks & Libraries:** [[SQL]] (9), [[Microsoft Word|Word]] (3), [[Windows]] (1)
 > **Env Vars:** sql (9), where (4), select (4)
 > **SQL:** where (4), select (4)
 > **CLI Commands:** make (5), find (1)
@@ -2321,8 +2292,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **UI Navigation:** select the (1)
 
-#### GROUP BY and ORDER BY clauses
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/group-by-and-order-by-clauses?u=76281980)
+#### [GROUP BY and ORDER BY clauses](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/group-by-and-order-by-clauses?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2334,7 +2304,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/group-by-and-order-by-clauses?u=76281980&t=20)** Suppose we want to display the Friends of each Brainiac.
 >
-> **[0:24](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/group-by-and-order-by-clauses?u=76281980&t=24)** Now, I've gone ahead and written this query out, so let me go ahead and copy and paste it into the SQL Scripting Window.
+> **[0:24](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/group-by-and-order-by-clauses?u=76281980&t=24)** Now, I've gone ahead and written this query out, so let me go ahead and copy and paste it into the [[SQL]] Scripting Window.
 >
 > **[0:32](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/group-by-and-order-by-clauses?u=76281980&t=32)** (keyboard clicks) As you can tell, we are using both of the tables, Brainiac and Friend.
 >
@@ -2416,13 +2386,13 @@ created: 2026-05-02
 >
 > **[5:51](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/group-by-and-order-by-clauses?u=76281980&t=351)** And of course, S is last.
 >
-> **[5:55](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/group-by-and-order-by-clauses?u=76281980&t=355)** Now we've gone through several fundamentals of Database Design, Implementation, and SQL Querying.
+> **[5:55](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/group-by-and-order-by-clauses?u=76281980&t=355)** Now we've gone through several fundamentals of [[Database Design]], Implementation, and SQL Querying.
 >
 > **[6:03](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/group-by-and-order-by-clauses?u=76281980&t=363)** It's time to bring it all together, and for you to gain practice in building your own database.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (5), database (3), [[Scripting]] (2), data (1)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Database Design]] (1)
 > **Env Vars:** group (10), sql (5), order (4), select (4), having (4)
 > **SQL:** group by (10), order by (4), select (4), having (4), where (3)
 > **CLI Commands:** make (5)
@@ -2435,8 +2405,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Bringing it all together
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/bringing-it-all-together?u=76281980)
+#### [Bringing it all together](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/bringing-it-all-together?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2470,15 +2439,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), next (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Final project: The Brainery
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/final-project-the-brainery?u=76281980)
+#### [Final project: The Brainery](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/final-project-the-brainery?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2514,8 +2481,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2525,19 +2491,19 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/next-steps?u=76281980&t=5)** It wasn't as overwhelming as you'd imagined, right?
 >
-> **[0:09](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/next-steps?u=76281980&t=9)** If you're interested in gaining more practice in SQL, check out Kedeisha Bryan's advanced SQL course, or to learn more about leading a responsible AI organization, Elizabeth M. Adams has a great course on this topic.
+> **[0:09](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/next-steps?u=76281980&t=9)** If you're interested in gaining more practice in [[SQL]], check out Kedeisha Bryan's advanced SQL course, or to learn more about leading a [[Responsible AI]] organization, Elizabeth M. Adams has a great course on this topic.
 >
 > **[0:29](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/next-steps?u=76281980&t=29)** Well, we've reached the end of our time together for now.
 >
 > **[0:34](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/next-steps?u=76281980&t=34)** Thanks for taking this course.
 >
-> **[0:36](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/next-steps?u=76281980&t=36)** For more conversations about data ethics and building more responsible data practices, follow me on LinkedIn or visit my company website at [dataedx.com](https://dataedx.com).
+> **[0:36](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/next-steps?u=76281980&t=36)** For more conversations about [[Data Ethics]] and building more responsible data practices, follow me on [[LinkedIn]] or visit my company website at [dataedx.com](https://dataedx.com).
 >
 > **[0:50](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/next-steps?u=76281980&t=50)** Thank you for watching.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (2), data (2), [[Responsible AI]] (1), [[Ethics]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Responsible AI]] (1), [[Data Ethics]] (1), [[LinkedIn]] (1)
 > **Env Vars:** sql (2)
 > **URLs:** [dataedx.com](https://dataedx.com) (1)
 > **Speakers:** - congratulations (1)

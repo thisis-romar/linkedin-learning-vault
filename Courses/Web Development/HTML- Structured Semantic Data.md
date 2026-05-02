@@ -80,29 +80,27 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Appreciating the value of the semantic web
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-structured-semantic-data/appreciating-the-value-of-the-semantic-web-23000145?u=76281980)
+#### [Appreciating the value of the semantic web](https://www.linkedin.com/learning/html-structured-semantic-data/appreciating-the-value-of-the-semantic-web-23000145?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/html-structured-semantic-data/appreciating-the-value-of-the-semantic-web-23000145?u=76281980&t=0)** - Semantic data makes your content accessible to more humans and robots, and isn't that what you want in the first place?
 >
-> **[0:08](https://www.linkedin.com/learning/html-structured-semantic-data/appreciating-the-value-of-the-semantic-web-23000145?u=76281980&t=8)** Once you've learned how to properly work with structured data, creating attractive and interesting listings in search results, and in applications like Google Maps is within your reach.
+> **[0:08](https://www.linkedin.com/learning/html-structured-semantic-data/appreciating-the-value-of-the-semantic-web-23000145?u=76281980&t=8)** Once you've learned how to properly work with structured data, creating attractive and interesting listings in search results, and in applications like [[Google]] Maps is within your reach.
 >
-> **[0:18](https://www.linkedin.com/learning/html-structured-semantic-data/appreciating-the-value-of-the-semantic-web-23000145?u=76281980&t=18)** In this course, we'll dive into micro data and JSON LD to better organize your website's content, so it can be easily read by search engines and other AI.
+> **[0:18](https://www.linkedin.com/learning/html-structured-semantic-data/appreciating-the-value-of-the-semantic-web-23000145?u=76281980&t=18)** In this course, we'll dive into micro data and [[JSON]] LD to better organize your website's content, so it can be easily read by search engines and other AI.
 >
 > **[0:29](https://www.linkedin.com/learning/html-structured-semantic-data/appreciating-the-value-of-the-semantic-web-23000145?u=76281980&t=29)** I'm Jen Kramer, an educator and web developer, and I've been organizing websites for many years.
 >
-> **[0:36](https://www.linkedin.com/learning/html-structured-semantic-data/appreciating-the-value-of-the-semantic-web-23000145?u=76281980&t=36)** So if you're ready, let's get started with HTML structured semantic data.
+> **[0:36](https://www.linkedin.com/learning/html-structured-semantic-data/appreciating-the-value-of-the-semantic-web-23000145?u=76281980&t=36)** So if you're ready, let's get started with [[HTML]] structured semantic data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Search]] (2), [[Google]] (1), [[JSON]] (1), ai (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[JSON]] (1), [[HTML]] (1)
 > **Env Vars:** json (1), html (1)
 > **Speakers:** - semantic (1)
 
-#### Introducing schema.org, a standardized way of describing items
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-structured-semantic-data/introducing-schema-org-a-standardized-way-of-describing-items?u=76281980)
+#### [Introducing schema.org, a standardized way of describing items](https://www.linkedin.com/learning/html-structured-semantic-data/introducing-schema-org-a-standardized-way-of-describing-items?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -184,7 +182,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Search]] (2), [[Programming]] (1), generic (1), next (1)
 > **Definitions:** is a  (4)
 > **URLs:** [schema.org](https://schema.org) (2)
 > **CLI Commands:** find (1)
@@ -193,8 +190,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - there (1)
 
-#### Comparing JSON-LD, RDFa, and microdata for implementing data schemes
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-structured-semantic-data/comparing-json-ld-rdfa-and-microdata-for-implementing-data-schemes?u=76281980)
+#### [Comparing JSON-LD, RDFa, and microdata for implementing data schemes](https://www.linkedin.com/learning/html-structured-semantic-data/comparing-json-ld-rdfa-and-microdata-for-implementing-data-schemes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -202,7 +198,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/html-structured-semantic-data/comparing-json-ld-rdfa-and-microdata-for-implementing-data-schemes?u=76281980&t=8)** There are several ways to do this.
 >
-> **[0:10](https://www.linkedin.com/learning/html-structured-semantic-data/comparing-json-ld-rdfa-and-microdata-for-implementing-data-schemes?u=76281980&t=10)** As mentioned on the [schema.org](https://schema.org) homepage, three methods are RDFa, microdata and JSON-LD.
+> **[0:10](https://www.linkedin.com/learning/html-structured-semantic-data/comparing-json-ld-rdfa-and-microdata-for-implementing-data-schemes?u=76281980&t=10)** As mentioned on the [schema.org](https://schema.org) homepage, three methods are RDFa, microdata and [[JSON]]-LD.
 >
 > **[0:22](https://www.linkedin.com/learning/html-structured-semantic-data/comparing-json-ld-rdfa-and-microdata-for-implementing-data-schemes?u=76281980&t=22)** Fundamentally, these are three different ways of solving the same problem, they identify elements of a data scheme described at [schema.org](https://schema.org) website.
 >
@@ -210,9 +206,9 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/html-structured-semantic-data/comparing-json-ld-rdfa-and-microdata-for-implementing-data-schemes?u=76281980&t=38)** Let's take a quick peek at these methodologies.
 >
-> **[0:42](https://www.linkedin.com/learning/html-structured-semantic-data/comparing-json-ld-rdfa-and-microdata-for-implementing-data-schemes?u=76281980&t=42)** Our RDFa and microdata are very similar and that they are incorporated into the HTML markup of the webpage via attributes.
+> **[0:42](https://www.linkedin.com/learning/html-structured-semantic-data/comparing-json-ld-rdfa-and-microdata-for-implementing-data-schemes?u=76281980&t=42)** Our RDFa and microdata are very similar and that they are incorporated into the [[HTML]] markup of the webpage via attributes.
 >
-> **[0:52](https://www.linkedin.com/learning/html-structured-semantic-data/comparing-json-ld-rdfa-and-microdata-for-implementing-data-schemes?u=76281980&t=52)** JSON-LD stands for the JavaScript Object Notation for Linked Data.
+> **[0:52](https://www.linkedin.com/learning/html-structured-semantic-data/comparing-json-ld-rdfa-and-microdata-for-implementing-data-schemes?u=76281980&t=52)** JSON-LD stands for the [[JavaScript]] Object Notation for Linked Data.
 >
 > **[0:58](https://www.linkedin.com/learning/html-structured-semantic-data/comparing-json-ld-rdfa-and-microdata-for-implementing-data-schemes?u=76281980&t=58)** Like all JavaScript, it's embedded in the webpage using script tags or it's linked as a separate file.
 >
@@ -244,7 +240,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/html-structured-semantic-data/comparing-json-ld-rdfa-and-microdata-for-implementing-data-schemes?u=76281980&t=202)** So which one should you use, what's best?
 >
-> **[3:26](https://www.linkedin.com/learning/html-structured-semantic-data/comparing-json-ld-rdfa-and-microdata-for-implementing-data-schemes?u=76281980&t=206)** These days it seems the Google prefers JSON-LD fourth search results and it's currently a W3C candidate recommendation as of this recording with the latest update in April, 2020.
+> **[3:26](https://www.linkedin.com/learning/html-structured-semantic-data/comparing-json-ld-rdfa-and-microdata-for-implementing-data-schemes?u=76281980&t=206)** These days it seems the [[Google]] prefers JSON-LD fourth search results and it's currently a W3C candidate recommendation as of this recording with the latest update in April, 2020.
 >
 > **[3:39](https://www.linkedin.com/learning/html-structured-semantic-data/comparing-json-ld-rdfa-and-microdata-for-implementing-data-schemes?u=76281980&t=219)** Microdata is integrated into HTML five.
 >
@@ -284,7 +280,7 @@ created: 2026-05-02
 >
 > **[5:52](https://www.linkedin.com/learning/html-structured-semantic-data/comparing-json-ld-rdfa-and-microdata-for-implementing-data-schemes?u=76281980&t=352)** If you're building a page from scratch, writing your own HTML, it's relatively straight forward to add this stuff.
 >
-> **[5:58](https://www.linkedin.com/learning/html-structured-semantic-data/comparing-json-ld-rdfa-and-microdata-for-implementing-data-schemes?u=76281980&t=358)** However, if you're using some kind of no code tool or a content management system or if you're not a coder, it would be difficult to add this type of markup.
+> **[5:58](https://www.linkedin.com/learning/html-structured-semantic-data/comparing-json-ld-rdfa-and-microdata-for-implementing-data-schemes?u=76281980&t=358)** However, if you're using some kind of no code tool or a [[Content Management]] system or if you're not a coder, it would be difficult to add this type of markup.
 >
 > **[6:08](https://www.linkedin.com/learning/html-structured-semantic-data/comparing-json-ld-rdfa-and-microdata-for-implementing-data-schemes?u=76281980&t=368)** It's much easier to add the JSON-LD as an afterthought for the page 'cause that can be added by our programmer or you can use one of Google's tools to add it.
 >
@@ -312,7 +308,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (23), [[HTML]] (10), [[Google]] (6), data (5), [[JavaScript]] (5)
+> **Frameworks & Libraries:** [[JSON]] (23), [[HTML]] (10), [[Google]] (6), [[JavaScript]] (5), [[Content Management]] (1)
 > **Env Vars:** json (22), html (10), w3c (2), url (1), rdf (1)
 > **URLs:** [schema.org](https://schema.org) (5)
 > **Documentation:** w3c (2), specification (1)
@@ -326,8 +322,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using itemscope and itemtype to add meaning
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-structured-semantic-data/using-itemscope-and-itemtype-to-add-meaning?u=76281980)
+#### [Using itemscope and itemtype to add meaning](https://www.linkedin.com/learning/html-structured-semantic-data/using-itemscope-and-itemtype-to-add-meaning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -339,11 +334,11 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/html-structured-semantic-data/using-itemscope-and-itemtype-to-add-meaning?u=76281980&t=17)** Microdata is just one of the several ways that we could be expressing this information.
 >
-> **[0:23](https://www.linkedin.com/learning/html-structured-semantic-data/using-itemscope-and-itemtype-to-add-meaning?u=76281980&t=23)** And it's part of the HTML five specification.
+> **[0:23](https://www.linkedin.com/learning/html-structured-semantic-data/using-itemscope-and-itemtype-to-add-meaning?u=76281980&t=23)** And it's part of the [[HTML]] five specification.
 >
 > **[0:27](https://www.linkedin.com/learning/html-structured-semantic-data/using-itemscope-and-itemtype-to-add-meaning?u=76281980&t=27)** So let's go on ahead and get started here inside of your exercise files folder for chapter one, we have this starter file.
 >
-> **[0:35](https://www.linkedin.com/learning/html-structured-semantic-data/using-itemscope-and-itemtype-to-add-meaning?u=76281980&t=35)** And if you just take a look at that really quickly, I haven't given you any CSS, I haven't given you any JavaScript, I've just kept this very simple and focused on this little bit of HTML.
+> **[0:35](https://www.linkedin.com/learning/html-structured-semantic-data/using-itemscope-and-itemtype-to-add-meaning?u=76281980&t=35)** And if you just take a look at that really quickly, I haven't given you any CSS, I haven't given you any [[JavaScript]], I've just kept this very simple and focused on this little bit of HTML.
 >
 > **[0:47](https://www.linkedin.com/learning/html-structured-semantic-data/using-itemscope-and-itemtype-to-add-meaning?u=76281980&t=47)** So as you read through this, you'll notice pretty quickly that this is about Nadia's garden restaurant.
 >
@@ -375,7 +370,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/html-structured-semantic-data/using-itemscope-and-itemtype-to-add-meaning?u=76281980&t=151)** And then inside of this div tag, we're going to add two things.
 >
-> **[2:35](https://www.linkedin.com/learning/html-structured-semantic-data/using-itemscope-and-itemtype-to-add-meaning?u=76281980&t=155)** So the first one is we're simply going to say items scope, just that word.
+> **[2:35](https://www.linkedin.com/learning/html-structured-semantic-data/using-itemscope-and-itemtype-to-add-meaning?u=76281980&t=155)** So the first one is we're simply going to say items scope, just that [[Microsoft Word|word]].
 >
 > **[2:42](https://www.linkedin.com/learning/html-structured-semantic-data/using-itemscope-and-itemtype-to-add-meaning?u=76281980&t=162)** It is an attribute, it has no value to it.
 >
@@ -391,7 +386,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[HTML]] (3), express (1), css (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[JavaScript]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** html (3), url (3), css (1)
 > **URLs:** [schema.org](https://schema.org) (4)
 > **Definitions:** is a  (1), is an  (1), refers to (1)
@@ -400,8 +395,7 @@ created: 2026-05-02
 > **Documentation:** specification (1)
 > **Speakers:** - [narrator] (1)
 
-#### Adding itemprop to expand on meaning
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-structured-semantic-data/adding-itemprop-to-expand-on-meaning?u=76281980)
+#### [Adding itemprop to expand on meaning](https://www.linkedin.com/learning/html-structured-semantic-data/adding-itemprop-to-expand-on-meaning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -435,7 +429,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/html-structured-semantic-data/adding-itemprop-to-expand-on-meaning?u=76281980&t=101)** Finally, at the bottom of the restaurant schema page, you'll find some really helpful information down here at the bottom.
 >
-> **[1:49](https://www.linkedin.com/learning/html-structured-semantic-data/adding-itemprop-to-expand-on-meaning?u=76281980&t=109)** This is going to give you examples of restaurant listings that are here and it'll show you then how does that information look marked up with microdata with RDFa and with JSON-LD.
+> **[1:49](https://www.linkedin.com/learning/html-structured-semantic-data/adding-itemprop-to-expand-on-meaning?u=76281980&t=109)** This is going to give you examples of restaurant listings that are here and it'll show you then how does that information look marked up with microdata with RDFa and with [[JSON]]-LD.
 >
 > **[2:03](https://www.linkedin.com/learning/html-structured-semantic-data/adding-itemprop-to-expand-on-meaning?u=76281980&t=123)** So, this is useful to take a look at down here at the bottom as you start to puzzle through your own work.
 >
@@ -453,7 +447,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/html-structured-semantic-data/adding-itemprop-to-expand-on-meaning?u=76281980&t=161)** And I've put it right here inside of the h1 tag, and the value of that name property is the contents of that h1 tag.
 >
-> **[2:49](https://www.linkedin.com/learning/html-structured-semantic-data/adding-itemprop-to-expand-on-meaning?u=76281980&t=169)** On the [schema.org](https://schema.org) website, you will see instances where they've added a div tags or span tags to mark up some of this information, but you can absolutely incorporate this with HTML as well.
+> **[2:49](https://www.linkedin.com/learning/html-structured-semantic-data/adding-itemprop-to-expand-on-meaning?u=76281980&t=169)** On the [schema.org](https://schema.org) website, you will see instances where they've added a div tags or span tags to mark up some of this information, but you can absolutely incorporate this with [[HTML]] as well.
 >
 > **[3:02](https://www.linkedin.com/learning/html-structured-semantic-data/adding-itemprop-to-expand-on-meaning?u=76281980&t=182)** If you read here in the next paragraph that sounds like a description of the restaurant.
 >
@@ -479,7 +473,7 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/html-structured-semantic-data/adding-itemprop-to-expand-on-meaning?u=76281980&t=240)** That's the property that we're looking for here.
 >
-> **[4:03](https://www.linkedin.com/learning/html-structured-semantic-data/adding-itemprop-to-expand-on-meaning?u=76281980&t=243)** And if you take a look at that specification, ultimately, this information may wind up on Google in a search engine listing result and so forth.
+> **[4:03](https://www.linkedin.com/learning/html-structured-semantic-data/adding-itemprop-to-expand-on-meaning?u=76281980&t=243)** And if you take a look at that specification, ultimately, this information may wind up on [[Google]] in a search engine listing result and so forth.
 >
 > **[4:11](https://www.linkedin.com/learning/html-structured-semantic-data/adding-itemprop-to-expand-on-meaning?u=76281980&t=251)** So even though it's proper to code this with a relative URL, normally when putting together a web page.
 >
@@ -533,7 +527,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (5), web (2), business (1), [[JSON]] (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (5), [[JSON]] (1), [[Google]] (1)
 > **Env Vars:** html (4), url (3), tel (2), json (1)
 > **CLI Commands:** find (4)
 > **Analogies:** for example (3), just like (1)
@@ -542,16 +536,15 @@ created: 2026-05-02
 > **Definitions:** is an  (1), is a  (1), in other words (1)
 > **Warnings:** note that (2)
 
-#### Embedding schemas in schemas
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-structured-semantic-data/embedding-schemas-in-schemas?u=76281980)
+#### [Embedding schemas in schemas](https://www.linkedin.com/learning/html-structured-semantic-data/embedding-schemas-in-schemas?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/html-structured-semantic-data/embedding-schemas-in-schemas?u=76281980&t=0)** - [Instructor] I'm back here on the [schema.org](https://schema.org) website for our restaurant, and if you scroll down just a little bit into this, under organization you'll see that address is one of the items that might be associated with our particular restaurant, you'll notice right immediately after that, it gives us two options, either it's a postal address or it's text, and as you know, the address that we had for our restaurant is pretty complex, it had a physical address, which is made up of a street address It has a city, a state and a zip code all associated with it, and so you might be wondering if you can call out those pieces of data individually?
 >
-> **[0:42](https://www.linkedin.com/learning/html-structured-semantic-data/embedding-schemas-in-schemas?u=76281980&t=42)** And that is absolutely true, if you click on postal address right here from this schema, this will take you to a special schema for a postal address, and here you'll see that we have the ability to code for example, a post office box number or street address, or it can give us a country, It can give us a region, all that type of information may be very helpful to us in marking up our address a little bit more fully.
+> **[0:42](https://www.linkedin.com/learning/html-structured-semantic-data/embedding-schemas-in-schemas?u=76281980&t=42)** And that is absolutely true, if you click on postal address right here from this schema, this will take you to a special schema for a postal address, and here you'll see that we have the ability to code for example, a post [[Microsoft Office|office]] box number or street address, or it can give us a country, It can give us a region, all that type of information may be very helpful to us in marking up our address a little bit more fully.
 >
-> **[1:09](https://www.linkedin.com/learning/html-structured-semantic-data/embedding-schemas-in-schemas?u=76281980&t=69)** So in other words, what we're going to do now is, even though I already have my code set up, to indicate that it's an address, we're now going to put a schema inside of a schema, so if you go ahead and open up your exercise files, and then scroll on down here, just a little bit to the address portion of your HTML, which is down around line 17, at the moment, we have a span tag going around, the address, 6410 Via Real Carpinteria California, and, that is indicating that this is our address, well now what we're going to do is we're going to indicate that the kind of address that we have here is a postal address, so we're just going to add to this more schemas, so right directly inside of the same span tag,
+> **[1:09](https://www.linkedin.com/learning/html-structured-semantic-data/embedding-schemas-in-schemas?u=76281980&t=69)** So in other words, what we're going to do now is, even though I already have my code set up, to indicate that it's an address, we're now going to put a schema inside of a schema, so if you go ahead and open up your exercise files, and then scroll on down here, just a little bit to the address portion of your [[HTML]], which is down around line 17, at the moment, we have a span tag going around, the address, 6410 Via Real Carpinteria California, and, that is indicating that this is our address, well now what we're going to do is we're going to indicate that the kind of address that we have here is a postal address, so we're just going to add to this more schemas, so right directly inside of the same span tag,
 >
 > **[1:58](https://www.linkedin.com/learning/html-structured-semantic-data/embedding-schemas-in-schemas?u=76281980&t=118)** it still goes around the address, and that's exactly what we need it to do, we'll go ahead and add the following, once again, another item scope, and then an item type, equals, and in this case, we're going to take the one from our postal address, so we'll go ahead and copy our [schema.org](https://schema.org) postal address URL, and then we'll go ahead and paste that right here into our code.
 >
@@ -571,7 +564,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), data (1), [[Microsoft Office|Office]] (1), [[HTML]] (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[HTML]] (1)
 > **Definitions:** in other words (1), is a  (1), is an  (1)
 > **CLI Commands:** make (1), find (1)
 > **URLs:** [schema.org](https://schema.org) (2)
@@ -580,8 +573,7 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Exercise Files:** exercise files (1)
 
-#### Using the meta tag for information that cannot be marked up
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-structured-semantic-data/using-the-meta-tag-for-information-that-cannot-be-marked-up?u=76281980)
+#### [Using the meta tag for information that cannot be marked up](https://www.linkedin.com/learning/html-structured-semantic-data/using-the-meta-tag-for-information-that-cannot-be-marked-up?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -593,7 +585,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/html-structured-semantic-data/using-the-meta-tag-for-information-that-cannot-be-marked-up?u=76281980&t=18)** We know what that means is humans, the restaurant is going to open at 5:30 PM every night but Monday a closing hour isn't specified because some restaurants close when things seem slow, rather than closing according to our regular schedule.
 >
-> **[0:32](https://www.linkedin.com/learning/html-structured-semantic-data/using-the-meta-tag-for-information-that-cannot-be-marked-up?u=76281980&t=32)** You may be wondering why the time is flagged here but not the days of the week, the HTML time tag is designed for very specific dates and times on the calendar, not general ranges like those written here.
+> **[0:32](https://www.linkedin.com/learning/html-structured-semantic-data/using-the-meta-tag-for-information-that-cannot-be-marked-up?u=76281980&t=32)** You may be wondering why the time is flagged here but not the days of the week, the [[HTML]] time tag is designed for very specific dates and times on the calendar, not general ranges like those written here.
 >
 > **[0:45](https://www.linkedin.com/learning/html-structured-semantic-data/using-the-meta-tag-for-information-that-cannot-be-marked-up?u=76281980&t=45)** We aren't stating that the restaurant is open December 1st to January 23rd, for example, therefore this time tag isn't used for marking up the days of the week in this particular scenario.
 >
@@ -660,18 +652,17 @@ created: 2026-05-02
 > **URLs:** [schema.org](https://schema.org) (1)
 > **Env Vars:** html (1)
 
-#### Using the Structured Data Markup Helper for microdata
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-structured-semantic-data/using-the-structured-data-markup-helper-for-microdata?u=76281980)
+#### [Using the Structured Data Markup Helper for microdata](https://www.linkedin.com/learning/html-structured-semantic-data/using-the-structured-data-markup-helper-for-microdata?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-structured-semantic-data/using-the-structured-data-markup-helper-for-microdata?u=76281980&t=0)** - Some of you may know that Google offers a Markup Helper, which will write some of this Microdata Markup for you.
+> **[0:00](https://www.linkedin.com/learning/html-structured-semantic-data/using-the-structured-data-markup-helper-for-microdata?u=76281980&t=0)** - Some of you may know that [[Google]] offers a Markup Helper, which will write some of this Microdata Markup for you.
 >
 > **[0:07](https://www.linkedin.com/learning/html-structured-semantic-data/using-the-structured-data-markup-helper-for-microdata?u=76281980&t=7)** However, there's some drawbacks to this approach.
 >
 > **[0:09](https://www.linkedin.com/learning/html-structured-semantic-data/using-the-structured-data-markup-helper-for-microdata?u=76281980&t=9)** Let's take a quick peek at this Markup Helper and see how it works.
 >
-> **[0:13](https://www.linkedin.com/learning/html-structured-semantic-data/using-the-structured-data-markup-helper-for-microdata?u=76281980&t=13)** In your exercise files, folders, 0105, in the begin folder, go to the file inside called Markup.html.
+> **[0:13](https://www.linkedin.com/learning/html-structured-semantic-data/using-the-structured-data-markup-helper-for-microdata?u=76281980&t=13)** In your exercise files, folders, 0105, in the begin folder, go to the file inside called Markup.[[HTML]].
 >
 > **[0:22](https://www.linkedin.com/learning/html-structured-semantic-data/using-the-structured-data-markup-helper-for-microdata?u=76281980&t=22)** This is our original HTML Markup from the start of the chapter.
 >
@@ -797,7 +788,7 @@ created: 2026-05-02
 >
 > **[6:14](https://www.linkedin.com/learning/html-structured-semantic-data/using-the-structured-data-markup-helper-for-microdata?u=76281980&t=374)** And this is going to generate our Markup.
 >
-> **[6:18](https://www.linkedin.com/learning/html-structured-semantic-data/using-the-structured-data-markup-helper-for-microdata?u=76281980&t=378)** In this case, it's done it as JSON-LD, which I'll talk about later in the course.
+> **[6:18](https://www.linkedin.com/learning/html-structured-semantic-data/using-the-structured-data-markup-helper-for-microdata?u=76281980&t=378)** In this case, it's done it as [[JSON]]-LD, which I'll talk about later in the course.
 >
 > **[6:22](https://www.linkedin.com/learning/html-structured-semantic-data/using-the-structured-data-markup-helper-for-microdata?u=76281980&t=382)** You can switch this to Microdata up here on the top, and it will go ahead and give you this HTML now output in the Microdata format.
 >
@@ -821,7 +812,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (11), [[HTML]] (8), data (7), [[Search]] (2), next (2)
+> **Frameworks & Libraries:** [[Google]] (11), [[HTML]] (8), [[JSON]] (1)
 > **Env Vars:** url (7), html (6), css (1), json (1)
 > **UI Navigation:** click on (3), go to (2), scroll down (1)
 > **Cross-References:** previous video (1), later in (1), in the next (1), next video (1)
@@ -830,18 +821,17 @@ created: 2026-05-02
 > **URLs:** [googleusercontent.com](https://googleusercontent.com) (1)
 > **Ports:** :30 (1)
 
-#### Testing your microdata markup with the Structured Data Testing Tool
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-structured-semantic-data/testing-your-microdata-markup-with-the-structured-data-testing-tool?u=76281980)
+#### [Testing your microdata markup with the Structured Data Testing Tool](https://www.linkedin.com/learning/html-structured-semantic-data/testing-your-microdata-markup-with-the-structured-data-testing-tool?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/html-structured-semantic-data/testing-your-microdata-markup-with-the-structured-data-testing-tool?u=76281980&t=0)** - [Instructor] Now that we have our markup completed, there's two tests we should run.
 >
-> **[0:04](https://www.linkedin.com/learning/html-structured-semantic-data/testing-your-microdata-markup-with-the-structured-data-testing-tool?u=76281980&t=4)** The first is always validate your HTML markup to make sure it's correctly formed.
+> **[0:04](https://www.linkedin.com/learning/html-structured-semantic-data/testing-your-microdata-markup-with-the-structured-data-testing-tool?u=76281980&t=4)** The first is always validate your [[HTML]] markup to make sure it's correctly formed.
 >
 > **[0:08](https://www.linkedin.com/learning/html-structured-semantic-data/testing-your-microdata-markup-with-the-structured-data-testing-tool?u=76281980&t=8)** Especially after adding all of these extra tags to the document, it's really easy to mis-nest some tags or make a syntax error.
 >
-> **[0:15](https://www.linkedin.com/learning/html-structured-semantic-data/testing-your-microdata-markup-with-the-structured-data-testing-tool?u=76281980&t=15)** So we need to run it through first that validator, and then we're going to try running this through Google's Structured Data Testing Tool to see how we did with our microdata markup.
+> **[0:15](https://www.linkedin.com/learning/html-structured-semantic-data/testing-your-microdata-markup-with-the-structured-data-testing-tool?u=76281980&t=15)** So we need to run it through first that validator, and then we're going to try running this through [[Google]]'s Structured Data Testing Tool to see how we did with our microdata markup.
 >
 > **[0:26](https://www.linkedin.com/learning/html-structured-semantic-data/testing-your-microdata-markup-with-the-structured-data-testing-tool?u=76281980&t=26)** In your exercise files folder for 01-06, I've given you two files in that begin folder.
 >
@@ -867,13 +857,13 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/html-structured-semantic-data/testing-your-microdata-markup-with-the-structured-data-testing-tool?u=76281980&t=100)** And at this particular point, we are going to go ahead and test our structured data.
 >
-> **[1:45](https://www.linkedin.com/learning/html-structured-semantic-data/testing-your-microdata-markup-with-the-structured-data-testing-tool?u=76281980&t=105)** We're not going to fetch it from a URL, because once again, we still have been put this online, but we can put in our code snippets.
+> **[1:45](https://www.linkedin.com/learning/html-structured-semantic-data/testing-your-microdata-markup-with-the-structured-data-testing-tool?u=76281980&t=105)** We're not going to [[Fetch]] it from a URL, because once again, we still have been put this online, but we can put in our code snippets.
 >
 > **[1:52](https://www.linkedin.com/learning/html-structured-semantic-data/testing-your-microdata-markup-with-the-structured-data-testing-tool?u=76281980&t=112)** So just paste that same HTML in place one more time, and say run test.
 >
 > **[1:58](https://www.linkedin.com/learning/html-structured-semantic-data/testing-your-microdata-markup-with-the-structured-data-testing-tool?u=76281980&t=118)** So Google is rendering the results over here on the side.
 >
-> **[2:01](https://www.linkedin.com/learning/html-structured-semantic-data/testing-your-microdata-markup-with-the-structured-data-testing-tool?u=76281980&t=121)** This is in JSON LD format, which I'm going to talk about extensively in the next chapter.
+> **[2:01](https://www.linkedin.com/learning/html-structured-semantic-data/testing-your-microdata-markup-with-the-structured-data-testing-tool?u=76281980&t=121)** This is in [[JSON]] LD format, which I'm going to talk about extensively in the next chapter.
 >
 > **[2:06](https://www.linkedin.com/learning/html-structured-semantic-data/testing-your-microdata-markup-with-the-structured-data-testing-tool?u=76281980&t=126)** The important thing here is that it says that there's one error and two warnings down here on the bottom, so let's look closely at that.
 >
@@ -889,7 +879,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/html-structured-semantic-data/testing-your-microdata-markup-with-the-structured-data-testing-tool?u=76281980&t=179)** Now you need to ask yourself about your goal.
 >
-> **[3:01](https://www.linkedin.com/learning/html-structured-semantic-data/testing-your-microdata-markup-with-the-structured-data-testing-tool?u=76281980&t=181)** Is it to get an enhanced listing in Google or one of Google's products, like Google Maps, for example, or is it to satisfy some other search engine?
+> **[3:01](https://www.linkedin.com/learning/html-structured-semantic-data/testing-your-microdata-markup-with-the-structured-data-testing-tool?u=76281980&t=181)** Is it to get an enhanced listing in Google or one of Google's [[Microsoft Products|products]], like Google Maps, for example, or is it to satisfy some other search engine?
 >
 > **[3:11](https://www.linkedin.com/learning/html-structured-semantic-data/testing-your-microdata-markup-with-the-structured-data-testing-tool?u=76281980&t=191)** So we'll talk more about enhanced listings later in the course, but if it's to satisfy Google in some way, then we definitely need to add these items to our page.
 >
@@ -901,7 +891,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/html-structured-semantic-data/testing-your-microdata-markup-with-the-structured-data-testing-tool?u=76281980&t=214)** Price range, it serves cuisines, it sees as warnings, as lesser problems, but if you think about restaurant listings you might have seen on Google Maps or elsewhere in the Google universe, you'll probably recall that there's usually a picture of the restaurant or a picture of food, and it usually tells you something about price range and the kinds of cuisine that it serves.
 >
-> **[3:54](https://www.linkedin.com/learning/html-structured-semantic-data/testing-your-microdata-markup-with-the-structured-data-testing-tool?u=76281980&t=234)** So if we go back to our HTML here, let me turn on my word wrap, then we can go ahead and add this information, and you'd be welcome, of course, to add a few sentences here that would indicate the type of cuisine, and so forth, or you can keep this simple and just add this as metatags.
+> **[3:54](https://www.linkedin.com/learning/html-structured-semantic-data/testing-your-microdata-markup-with-the-structured-data-testing-tool?u=76281980&t=234)** So if we go back to our HTML here, let me turn on my [[Microsoft Word|word]] wrap, then we can go ahead and add this information, and you'd be welcome, of course, to add a few sentences here that would indicate the type of cuisine, and so forth, or you can keep this simple and just add this as metatags.
 >
 > **[4:13](https://www.linkedin.com/learning/html-structured-semantic-data/testing-your-microdata-markup-with-the-structured-data-testing-tool?u=76281980&t=253)** Make sure, of course, that those metatags appear somewhere inside of the div that starts here on line 10 and ends on line 26.
 >
@@ -971,7 +961,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (22), [[HTML]] (12), data (5), [[Fetch]] (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Google]] (22), [[HTML]] (12), [[Fetch]] (1), [[JSON]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** html (8), url (3), json (1)
 > **Analogies:** picture (7), for example (1)
 > **CLI Commands:** make (3), find (2)
@@ -980,8 +970,7 @@ created: 2026-05-02
 > **URLs:** [w3.org](https://w3.org) (1), [schema.org](https://schema.org) (1), [nadias-garden.com](https://nadias-garden.com) (1)
 > **Definitions:** is an  (2), is a  (1)
 
-#### Challenge: Marking up a document with microdata
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-structured-semantic-data/challenge-marking-up-a-document-with-microdata?u=76281980)
+#### [Challenge: Marking up a document with microdata](https://www.linkedin.com/learning/html-structured-semantic-data/challenge-marking-up-a-document-with-microdata?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -989,7 +978,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/html-structured-semantic-data/challenge-marking-up-a-document-with-microdata?u=76281980&t=5)** - [Instructor] With all that fabulous information about microdata, it's time for a challenge.
 >
-> **[0:11](https://www.linkedin.com/learning/html-structured-semantic-data/challenge-marking-up-a-document-with-microdata?u=76281980&t=11)** So in this particular challenge, I've given you an HTML document describing a bottle of Two Trees Olive Oil, The Delicate Flavor, and what I'd like for you to do is to mark up this document with the appropriate microdata.
+> **[0:11](https://www.linkedin.com/learning/html-structured-semantic-data/challenge-marking-up-a-document-with-microdata?u=76281980&t=11)** So in this particular challenge, I've given you an [[HTML]] document describing a bottle of Two Trees Olive Oil, The Delicate Flavor, and what I'd like for you to do is to mark up this document with the appropriate microdata.
 >
 > **[0:25](https://www.linkedin.com/learning/html-structured-semantic-data/challenge-marking-up-a-document-with-microdata?u=76281980&t=25)** Some things you want to think about as you work through this challenge.
 >
@@ -1015,7 +1004,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), data (2), next (1)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **URLs:** [schema.org](https://schema.org) (3)
 > **Env Vars:** html (2), w3c (1)
 > **CLI Commands:** make (2)
@@ -1024,8 +1013,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 
-#### Solution: Marking up a document with microdata
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-structured-semantic-data/solution-marking-up-a-document-with-microdata?u=76281980)
+#### [Solution: Marking up a document with microdata](https://www.linkedin.com/learning/html-structured-semantic-data/solution-marking-up-a-document-with-microdata?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1049,7 +1037,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/html-structured-semantic-data/solution-marking-up-a-document-with-microdata?u=76281980&t=116)** Then I have a brief description of that and then down here inside of the details tag here, I've included an SKU.
 >
-> **[2:06](https://www.linkedin.com/learning/html-structured-semantic-data/solution-marking-up-a-document-with-microdata?u=76281980&t=126)** Those are the specific numbers that go with these kinds of products, and then here's my offers, which comes from the product and then of course the aggregate offer offers more detail for this so that I've included that structure here as well, which includes a price currency of U.S. dollars and then the low price of $24.50.
+> **[2:06](https://www.linkedin.com/learning/html-structured-semantic-data/solution-marking-up-a-document-with-microdata?u=76281980&t=126)** Those are the specific numbers that go with these kinds of [[Microsoft Products|products]], and then here's my offers, which comes from the product and then of course the aggregate offer offers more detail for this so that I've included that structure here as well, which includes a price currency of U.S. dollars and then the low price of $24.50.
 >
 > **[2:28](https://www.linkedin.com/learning/html-structured-semantic-data/solution-marking-up-a-document-with-microdata?u=76281980&t=148)** I don't have a high price here because this is not on sale.
 >
@@ -1065,7 +1053,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (8), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** url (1), sku (1)
 > **Versions:** 24.50 (2)
@@ -1079,16 +1067,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Writing JSON-LD by hand
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-structured-semantic-data/writing-json-ld-by-hand?u=76281980)
+#### [Writing JSON-LD by hand](https://www.linkedin.com/learning/html-structured-semantic-data/writing-json-ld-by-hand?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-structured-semantic-data/writing-json-ld-by-hand?u=76281980&t=0)** - [Instructor] Google's preferred methodology for structured data is through JSON-LD.
+> **[0:00](https://www.linkedin.com/learning/html-structured-semantic-data/writing-json-ld-by-hand?u=76281980&t=0)** - [Instructor] [[Google]]'s preferred methodology for structured data is through [[JSON]]-LD.
 >
 > **[0:05](https://www.linkedin.com/learning/html-structured-semantic-data/writing-json-ld-by-hand?u=76281980&t=5)** Not only is this information useful for webpages, it's becoming important for home devices like Alexa and Google Home.
 >
-> **[0:13](https://www.linkedin.com/learning/html-structured-semantic-data/writing-json-ld-by-hand?u=76281980&t=13)** Even if you're not a JavaScript person, writing the JSON-LD document is a relatively straightforward thing to do.
+> **[0:13](https://www.linkedin.com/learning/html-structured-semantic-data/writing-json-ld-by-hand?u=76281980&t=13)** Even if you're not a [[JavaScript]] person, writing the JSON-LD document is a relatively straightforward thing to do.
 >
 > **[0:19](https://www.linkedin.com/learning/html-structured-semantic-data/writing-json-ld-by-hand?u=76281980&t=19)** In this video, I'll get you started writing it by hand.
 >
@@ -1106,7 +1093,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/html-structured-semantic-data/writing-json-ld-by-hand?u=76281980&t=52)** In other words, if you have 100 pages on your website, and you want every page to have structured data, then you'd have to embed a JSON-LD script on every one of those hundred pages individually, It's not possible to have a single central JSON-LD document and then link to it from other pages as you might want to do with other JavaScript, the contents different on every page.
 >
-> **[1:14](https://www.linkedin.com/learning/html-structured-semantic-data/writing-json-ld-by-hand?u=76281980&t=74)** So to get started, open up the Nadia dot html file from the begin folder, in folder 02-01 in your Exercise Files folder.
+> **[1:14](https://www.linkedin.com/learning/html-structured-semantic-data/writing-json-ld-by-hand?u=76281980&t=74)** So to get started, open up the Nadia dot [[HTML]] file from the begin folder, in folder 02-01 in your Exercise Files folder.
 >
 > **[1:24](https://www.linkedin.com/learning/html-structured-semantic-data/writing-json-ld-by-hand?u=76281980&t=84)** This is the same starting document we worked with in the previous chapter on microdata.
 >
@@ -1176,7 +1163,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (9), data (5), [[JavaScript]] (4), [[Google]] (3), [[HTML]] (2)
+> **Frameworks & Libraries:** [[JSON]] (9), [[JavaScript]] (4), [[Google]] (3), [[HTML]] (2)
 > **Env Vars:** json (9), url (1)
 > **URLs:** [schema.org](https://schema.org) (3), [gmail.com](https://gmail.com) (1), [nadias-garden.com](https://nadias-garden.com) (1)
 > **CLI Commands:** make (3)
@@ -1185,14 +1172,13 @@ created: 2026-05-02
 > **File Paths:** nadias-garden.com/menu.html (1)
 > **Ports:** :30 (1)
 
-#### Working with the Structured Data Markup Helper
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-structured-semantic-data/working-with-the-structured-data-markup-helper?u=76281980)
+#### [Working with the Structured Data Markup Helper](https://www.linkedin.com/learning/html-structured-semantic-data/working-with-the-structured-data-markup-helper?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-structured-semantic-data/working-with-the-structured-data-markup-helper?u=76281980&t=0)** - [Instructor] In the previous video, I showed you how to write just a tiny little bit of JSON-LD.
+> **[0:00](https://www.linkedin.com/learning/html-structured-semantic-data/working-with-the-structured-data-markup-helper?u=76281980&t=0)** - [Instructor] In the previous video, I showed you how to write just a tiny little bit of [[JSON]]-LD.
 >
-> **[0:05](https://www.linkedin.com/learning/html-structured-semantic-data/working-with-the-structured-data-markup-helper?u=76281980&t=5)** There's a lot more that we need to add to this particular bunch of script and the fastest way to do this is most likely using Google's Structured Data Markup Helper, and you could continue to write this code by hand, but I think most of you are probably going to take that route as you put together this information in your document, so let's go on ahead and open up your exercise file, this nadia.html in the 02-03 folder.
+> **[0:05](https://www.linkedin.com/learning/html-structured-semantic-data/working-with-the-structured-data-markup-helper?u=76281980&t=5)** There's a lot more that we need to add to this particular bunch of script and the fastest way to do this is most likely using [[Google]]'s Structured Data Markup Helper, and you could continue to write this code by hand, but I think most of you are probably going to take that route as you put together this information in your document, so let's go on ahead and open up your exercise file, this nadia.[[HTML]] in the 02-03 folder.
 >
 > **[0:32](https://www.linkedin.com/learning/html-structured-semantic-data/working-with-the-structured-data-markup-helper?u=76281980&t=32)** We're just going to go ahead and highlight everything, and copy it, and we're going to go to Google's Structured Data Markup Helper.
 >
@@ -1250,7 +1236,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (11), data (5), [[HTML]] (4), [[JSON]] (3), web (1)
+> **Frameworks & Libraries:** [[Google]] (11), [[HTML]] (4), [[JSON]] (3)
 > **Env Vars:** json (3), html (3), url (2), create (1)
 > **UI Navigation:** go to (2), scroll down (2), click on (2)
 > **Cross-References:** previous video (1), as you saw (1), go back to (1), in the next (1)
@@ -1259,12 +1245,11 @@ created: 2026-05-02
 > **URLs:** [googleusercontent.com](https://googleusercontent.com) (1), [nadias-garden.com](https://nadias-garden.com) (1)
 > **Definitions:** is a  (1), is an  (1)
 
-#### Testing our JSON-LD code with the Structured Data Testing Tool
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-structured-semantic-data/testing-our-json-ld-code-with-the-structured-data-testing-tool?u=76281980)
+#### [Testing our JSON-LD code with the Structured Data Testing Tool](https://www.linkedin.com/learning/html-structured-semantic-data/testing-our-json-ld-code-with-the-structured-data-testing-tool?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-structured-semantic-data/testing-our-json-ld-code-with-the-structured-data-testing-tool?u=76281980&t=0)** - [Instructor] Now that we've gone ahead and used the markup tool to get our JSON LD written the next thing always to do is to test it and make sure that it's working correctly for Google.
+> **[0:00](https://www.linkedin.com/learning/html-structured-semantic-data/testing-our-json-ld-code-with-the-structured-data-testing-tool?u=76281980&t=0)** - [Instructor] Now that we've gone ahead and used the markup tool to get our [[JSON]] LD written the next thing always to do is to test it and make sure that it's working correctly for [[Google]].
 >
 > **[0:10](https://www.linkedin.com/learning/html-structured-semantic-data/testing-our-json-ld-code-with-the-structured-data-testing-tool?u=76281980&t=10)** And so if you go on ahead and open up your exercise file for this chapter go on ahead and highlight everything, copy, and we're going to go back again to the Google Structured Data Testing Tool.
 >
@@ -1272,7 +1257,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/html-structured-semantic-data/testing-our-json-ld-code-with-the-structured-data-testing-tool?u=76281980&t=27)** We don't have one 'cause we haven't put it on the web, but we can put in a code snippet instead.
 >
-> **[0:32](https://www.linkedin.com/learning/html-structured-semantic-data/testing-our-json-ld-code-with-the-structured-data-testing-tool?u=76281980&t=32)** Go on ahead and paste your HTML here and then say run test.
+> **[0:32](https://www.linkedin.com/learning/html-structured-semantic-data/testing-our-json-ld-code-with-the-structured-data-testing-tool?u=76281980&t=32)** Go on ahead and paste your [[HTML]] here and then say run test.
 >
 > **[0:37](https://www.linkedin.com/learning/html-structured-semantic-data/testing-our-json-ld-code-with-the-structured-data-testing-tool?u=76281980&t=37)** And what's going to happen is that it will go on ahead and basically give you back the same JSON LD you already have written.
 >
@@ -1292,18 +1277,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (4), [[JSON]] (3), next (1), data (1), web (1)
+> **Frameworks & Libraries:** [[Google]] (4), [[JSON]] (3), [[HTML]] (1)
 > **Env Vars:** json (3), url (1), html (1)
 > **CLI Commands:** make (2)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Marking up a document with JSON-LD
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-structured-semantic-data/challenge-marking-up-a-document-with-json-ld?u=76281980)
+#### [Challenge: Marking up a document with JSON-LD](https://www.linkedin.com/learning/html-structured-semantic-data/challenge-marking-up-a-document-with-json-ld?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-structured-semantic-data/challenge-marking-up-a-document-with-json-ld?u=76281980&t=0)** - [Instructor] So, now that we've gone ahead and talked about JSON-LD, it's time for you to give this a try on your own.
+> **[0:00](https://www.linkedin.com/learning/html-structured-semantic-data/challenge-marking-up-a-document-with-json-ld?u=76281980&t=0)** - [Instructor] So, now that we've gone ahead and talked about [[JSON]]-LD, it's time for you to give this a try on your own.
 >
 > **[0:12](https://www.linkedin.com/learning/html-structured-semantic-data/challenge-marking-up-a-document-with-json-ld?u=76281980&t=12)** And so it's time for another challenge here, this time dealing with JSON-LD Markup.
 >
@@ -1323,7 +1307,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/html-structured-semantic-data/challenge-marking-up-a-document-with-json-ld?u=76281980&t=68)** You could write it from scratch, straight out of your head, using the syntax that you learned in this chapter if you're a programmer that might be an easy thing to do or you could go to the bottom of the page on the [schema.org](https://schema.org) website, where there's examples presented for JSON-LD of various types.
 >
-> **[1:27](https://www.linkedin.com/learning/html-structured-semantic-data/challenge-marking-up-a-document-with-json-ld?u=76281980&t=87)** Find an example that's close to what you want, paste that in your document and edit it accordingly or you could work with Google's Structured Data Markup Helper and use that to identify the various pieces of code that you need to have.
+> **[1:27](https://www.linkedin.com/learning/html-structured-semantic-data/challenge-marking-up-a-document-with-json-ld?u=76281980&t=87)** Find an example that's close to what you want, paste that in your document and edit it accordingly or you could work with [[Google]]'s Structured Data Markup Helper and use that to identify the various pieces of code that you need to have.
 >
 > **[1:41](https://www.linkedin.com/learning/html-structured-semantic-data/challenge-marking-up-a-document-with-json-ld?u=76281980&t=101)** Then finally, as always, even if you use Google's Structured Data Markup Helper, make sure you check your markup using the Structured Data Testing Tool to make sure that you've selected everything that's important, everything Google wants to see in the document and just to double check and make sure everything's all in place.
 >
@@ -1333,7 +1317,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (5), [[Google]] (3), data (3), web (2), next (1)
+> **Frameworks & Libraries:** [[JSON]] (5), [[Google]] (3)
 > **Env Vars:** json (5)
 > **CLI Commands:** make (3), find (1)
 > **URLs:** [schema.org](https://schema.org) (1)
@@ -1342,8 +1326,7 @@ created: 2026-05-02
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Marking up a document with JSON-LD
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-structured-semantic-data/solution-marking-up-a-document-with-json-ld?u=76281980)
+#### [Solution: Marking up a document with JSON-LD](https://www.linkedin.com/learning/html-structured-semantic-data/solution-marking-up-a-document-with-json-ld?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1353,13 +1336,13 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/html-structured-semantic-data/solution-marking-up-a-document-with-json-ld?u=76281980&t=16)** So, this is my answer.
 >
-> **[0:19](https://www.linkedin.com/learning/html-structured-semantic-data/solution-marking-up-a-document-with-json-ld?u=76281980&t=19)** In the head of my document, I've gone ahead and included my JSON-LD and it looks just like this, as follows.
+> **[0:19](https://www.linkedin.com/learning/html-structured-semantic-data/solution-marking-up-a-document-with-json-ld?u=76281980&t=19)** In the head of my document, I've gone ahead and included my [[JSON]]-LD and it looks just like this, as follows.
 >
 > **[0:26](https://www.linkedin.com/learning/html-structured-semantic-data/solution-marking-up-a-document-with-json-ld?u=76281980&t=26)** So, first of all, of course, we went to [Schema.org](https://Schema.org), and I'm using the product schema in order to describe a bottle of olive oil.
 >
 > **[0:35](https://www.linkedin.com/learning/html-structured-semantic-data/solution-marking-up-a-document-with-json-ld?u=76281980&t=35)** I've given it a category of "Organic Extra Virgin Olive Oil," with a name of "Delicate," which is the flavor of this particular olive oil.
 >
-> **[0:43](https://www.linkedin.com/learning/html-structured-semantic-data/solution-marking-up-a-document-with-json-ld?u=76281980&t=43)** I've given a path to an image, remember to make sure that that's an absolute link because this type of stuff is used by places like Google and they are not within your own website, so, don't use your relative URLs here.
+> **[0:43](https://www.linkedin.com/learning/html-structured-semantic-data/solution-marking-up-a-document-with-json-ld?u=76281980&t=43)** I've given a path to an image, remember to make sure that that's an absolute link because this type of stuff is used by places like [[Google]] and they are not within your own website, so, don't use your relative URLs here.
 >
 > **[0:59](https://www.linkedin.com/learning/html-structured-semantic-data/solution-marking-up-a-document-with-json-ld?u=76281980&t=59)** Description came straight off this web page, along with the SKU, the product number.
 >
@@ -1377,7 +1360,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[JSON]] (1), [[Google]] (1), web (1), next (1)
+> **Frameworks & Libraries:** [[JSON]] (1), [[Google]] (1)
 > **Env Vars:** json (1), sku (1)
 > **CLI Commands:** make (1)
 > **URLs:** [schema.org](https://schema.org) (1)
@@ -1391,12 +1374,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding rich search results from Google
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-structured-semantic-data/understanding-rich-search-results-from-google?u=76281980)
+#### [Understanding rich search results from Google](https://www.linkedin.com/learning/html-structured-semantic-data/understanding-rich-search-results-from-google?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-structured-semantic-data/understanding-rich-search-results-from-google?u=76281980&t=0)** - [Narrator] In your time using Google, you've likely found some interesting looking listings in the search results.
+> **[0:00](https://www.linkedin.com/learning/html-structured-semantic-data/understanding-rich-search-results-from-google?u=76281980&t=0)** - [Narrator] In your time using [[Google]], you've likely found some interesting looking listings in the search results.
 >
 > **[0:06](https://www.linkedin.com/learning/html-structured-semantic-data/understanding-rich-search-results-from-google?u=76281980&t=6)** For example, if I search Google for versatile cake frosting, I get these beautiful results here.
 >
@@ -1438,17 +1420,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (7), [[Search]] (7), data (2), business (1)
+> **Frameworks & Libraries:** [[Google]] (7)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Writing JSON-LD code for rich search results with a recipe
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-structured-semantic-data/writing-json-ld-code-for-rich-search-results-with-a-recipe?u=76281980)
+#### [Writing JSON-LD code for rich search results with a recipe](https://www.linkedin.com/learning/html-structured-semantic-data/writing-json-ld-code-for-rich-search-results-with-a-recipe?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-structured-semantic-data/writing-json-ld-code-for-rich-search-results-with-a-recipe?u=76281980&t=0)** - [Instructor] Let's start experimenting with Google's structured data formula by working with a recipe.
+> **[0:00](https://www.linkedin.com/learning/html-structured-semantic-data/writing-json-ld-code-for-rich-search-results-with-a-recipe?u=76281980&t=0)** - [Instructor] Let's start experimenting with [[Google]]'s structured data formula by working with a recipe.
 >
 > **[0:06](https://www.linkedin.com/learning/html-structured-semantic-data/writing-json-ld-code-for-rich-search-results-with-a-recipe?u=76281980&t=6)** This page explains what we need to know about the recipe formula.
 >
@@ -1478,11 +1459,11 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/html-structured-semantic-data/writing-json-ld-code-for-rich-search-results-with-a-recipe?u=76281980&t=81)** So, what I'm going to do is I'm just going to copy this whole script tag right here, from that <script> tag down to the </script> tag, we'll go ahead and copy that.
 >
-> **[1:32](https://www.linkedin.com/learning/html-structured-semantic-data/writing-json-ld-code-for-rich-search-results-with-a-recipe?u=76281980&t=92)** And then we'll go ahead and open up in your exercise files, in Chapter 3, number two, we're going to open up recipe.html.
+> **[1:32](https://www.linkedin.com/learning/html-structured-semantic-data/writing-json-ld-code-for-rich-search-results-with-a-recipe?u=76281980&t=92)** And then we'll go ahead and open up in your exercise files, in Chapter 3, number two, we're going to open up recipe.[[HTML]].
 >
-> **[1:40](https://www.linkedin.com/learning/html-structured-semantic-data/writing-json-ld-code-for-rich-search-results-with-a-recipe?u=76281980&t=100)** And up here in the head of the document, we can go ahead and paste in all of that JSON LD that you just copied.
+> **[1:40](https://www.linkedin.com/learning/html-structured-semantic-data/writing-json-ld-code-for-rich-search-results-with-a-recipe?u=76281980&t=100)** And up here in the head of the document, we can go ahead and paste in all of that [[JSON]] LD that you just copied.
 >
-> **[1:48](https://www.linkedin.com/learning/html-structured-semantic-data/writing-json-ld-code-for-rich-search-results-with-a-recipe?u=76281980&t=108)** If you take a look at the rest of that webpage, down here on the bottom, you'll see that this is the recipe for Versatile Cake Frosting from Topsy Turvy Cake Design, and you can see all of the information that's down here on the bottom.
+> **[1:48](https://www.linkedin.com/learning/html-structured-semantic-data/writing-json-ld-code-for-rich-search-results-with-a-recipe?u=76281980&t=108)** If you take a look at the [[Representational State Transfer (REST)|rest]] of that webpage, down here on the bottom, you'll see that this is the recipe for Versatile Cake Frosting from Topsy Turvy Cake Design, and you can see all of the information that's down here on the bottom.
 >
 > **[2:00](https://www.linkedin.com/learning/html-structured-semantic-data/writing-json-ld-code-for-rich-search-results-with-a-recipe?u=76281980&t=120)** So, somehow we need to repurpose this information into JSON-LD, so let's go on ahead and go through that now.
 >
@@ -1614,7 +1595,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (6), [[Search]] (5), [[JSON]] (3), data (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Google]] (6), [[JSON]] (3), [[HTML]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (5), is an  (1), means that (1)
 > **Env Vars:** json (3), url (3)
 > **CLI Commands:** make (5)
@@ -1623,8 +1604,7 @@ created: 2026-05-02
 > **URLs:** [schema.org](https://schema.org) (1)
 > **Tools:** vs code (1)
 
-#### Testing and previewing the rich results code
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-structured-semantic-data/testing-and-previewing-the-rich-results-code?u=76281980)
+#### [Testing and previewing the rich results code](https://www.linkedin.com/learning/html-structured-semantic-data/testing-and-previewing-the-rich-results-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1634,7 +1614,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/html-structured-semantic-data/testing-and-previewing-the-rich-results-code?u=76281980&t=9)** This is a different type of test that I haven't showed you before.
 >
-> **[0:12](https://www.linkedin.com/learning/html-structured-semantic-data/testing-and-previewing-the-rich-results-code?u=76281980&t=12)** The point of using JSON-LD and marking up this particular recipe was to give us some fabulous looking search results.
+> **[0:12](https://www.linkedin.com/learning/html-structured-semantic-data/testing-and-previewing-the-rich-results-code?u=76281980&t=12)** The point of using [[JSON]]-LD and marking up this particular recipe was to give us some fabulous looking search results.
 >
 > **[0:21](https://www.linkedin.com/learning/html-structured-semantic-data/testing-and-previewing-the-rich-results-code?u=76281980&t=21)** And, so we've gone ahead and followed that formula here.
 >
@@ -1646,9 +1626,9 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/html-structured-semantic-data/testing-and-previewing-the-rich-results-code?u=76281980&t=35)** And the recipe as we currently have it.
 >
-> **[0:38](https://www.linkedin.com/learning/html-structured-semantic-data/testing-and-previewing-the-rich-results-code?u=76281980&t=38)** Go on ahead and select all of the HTML and copy it.
+> **[0:38](https://www.linkedin.com/learning/html-structured-semantic-data/testing-and-previewing-the-rich-results-code?u=76281980&t=38)** Go on ahead and select all of the [[HTML]] and copy it.
 >
-> **[0:42](https://www.linkedin.com/learning/html-structured-semantic-data/testing-and-previewing-the-rich-results-code?u=76281980&t=42)** Then we're going to come to the Google rich results test.
+> **[0:42](https://www.linkedin.com/learning/html-structured-semantic-data/testing-and-previewing-the-rich-results-code?u=76281980&t=42)** Then we're going to come to the [[Google]] rich results test.
 >
 > **[0:47](https://www.linkedin.com/learning/html-structured-semantic-data/testing-and-previewing-the-rich-results-code?u=76281980&t=47)** This is going to indicate whether your page is supporting rich results.
 >
@@ -1776,7 +1756,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (8), [[Search]] (6), [[JSON]] (3), [[HTML]] (2), data (1)
+> **Frameworks & Libraries:** [[Google]] (8), [[JSON]] (3), [[HTML]] (2)
 > **Env Vars:** json (3), html (2), url (1)
 > **Definitions:** is a  (2)
 > **Analogies:** picture (2)
@@ -1785,18 +1765,17 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
 
-#### Challenge: Rich search results for courses
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-structured-semantic-data/challenge-rich-search-results-for-courses?u=76281980)
+#### [Challenge: Rich search results for courses](https://www.linkedin.com/learning/html-structured-semantic-data/challenge-rich-search-results-for-courses?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/html-structured-semantic-data/challenge-rich-search-results-for-courses?u=76281980&t=0)** - [Instructor] One final challenge here for you in this course and that of course has to do with rich search results.
 >
-> **[0:13](https://www.linkedin.com/learning/html-structured-semantic-data/challenge-rich-search-results-for-courses?u=76281980&t=13)** So let's see if you can figure out how to get a course listing up in Google with the appropriate rich search result formatting.
+> **[0:13](https://www.linkedin.com/learning/html-structured-semantic-data/challenge-rich-search-results-for-courses?u=76281980&t=13)** So let's see if you can figure out how to get a course listing up in [[Google]] with the appropriate rich search result formatting.
 >
 > **[0:25](https://www.linkedin.com/learning/html-structured-semantic-data/challenge-rich-search-results-for-courses?u=76281980&t=25)** So how might you go about approaching this particular problem?
 >
-> **[0:28](https://www.linkedin.com/learning/html-structured-semantic-data/challenge-rich-search-results-for-courses?u=76281980&t=28)** There is a starter HTML file in your exercise files.
+> **[0:28](https://www.linkedin.com/learning/html-structured-semantic-data/challenge-rich-search-results-for-courses?u=76281980&t=28)** There is a starter [[HTML]] file in your exercise files.
 >
 > **[0:31](https://www.linkedin.com/learning/html-structured-semantic-data/challenge-rich-search-results-for-courses?u=76281980&t=31)** Make sure you take a look at that.
 >
@@ -1804,7 +1783,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/html-structured-semantic-data/challenge-rich-search-results-for-courses?u=76281980&t=39)** So make sure you look at the Google documentation and find what it has to offer for a course.
 >
-> **[0:46](https://www.linkedin.com/learning/html-structured-semantic-data/challenge-rich-search-results-for-courses?u=76281980&t=46)** Then you're going to want to copy the sample JSON-LD, drop that into your HTML document, edit it appropriately, and make sure that the data that's there is matching the course data that you are working with.
+> **[0:46](https://www.linkedin.com/learning/html-structured-semantic-data/challenge-rich-search-results-for-courses?u=76281980&t=46)** Then you're going to want to copy the sample [[JSON]]-LD, drop that into your HTML document, edit it appropriately, and make sure that the data that's there is matching the course data that you are working with.
 >
 > **[1:01](https://www.linkedin.com/learning/html-structured-semantic-data/challenge-rich-search-results-for-courses?u=76281980&t=61)** And then finally, you're going to want to verify your listing with the rich results test website.
 >
@@ -1816,7 +1795,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), data (3), [[Google]] (2), [[HTML]] (2), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[HTML]] (2), [[JSON]] (1)
 > **CLI Commands:** make (4), find (2)
 > **Env Vars:** html (2), json (1)
 > **Cross-References:** in the next (1)
@@ -1825,16 +1804,15 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Rich search results for courses
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-structured-semantic-data/solution-rich-search-results-for-courses?u=76281980)
+#### [Solution: Rich search results for courses](https://www.linkedin.com/learning/html-structured-semantic-data/solution-rich-search-results-for-courses?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/html-structured-semantic-data/solution-rich-search-results-for-courses?u=76281980&t=0)** - [Instructor] All right, so how'd you do with the rich search results challenge?
 >
-> **[0:10](https://www.linkedin.com/learning/html-structured-semantic-data/solution-rich-search-results-for-courses?u=76281980&t=10)** So, hopefully you started here, inside of the Google documentation, and you found the reference here for a course.
+> **[0:10](https://www.linkedin.com/learning/html-structured-semantic-data/solution-rich-search-results-for-courses?u=76281980&t=10)** So, hopefully you started here, inside of the [[Google]] documentation, and you found the reference here for a course.
 >
-> **[0:19](https://www.linkedin.com/learning/html-structured-semantic-data/solution-rich-search-results-for-courses?u=76281980&t=19)** And you took a look at this information, it gave you some starter, introductory code here, that you could just copy and paste into your HTML document that I gave you in your exercise files folder, and you could start to make changes to that.
+> **[0:19](https://www.linkedin.com/learning/html-structured-semantic-data/solution-rich-search-results-for-courses?u=76281980&t=19)** And you took a look at this information, it gave you some starter, introductory code here, that you could just copy and paste into your [[HTML]] document that I gave you in your exercise files folder, and you could start to make changes to that.
 >
 > **[0:35](https://www.linkedin.com/learning/html-structured-semantic-data/solution-rich-search-results-for-courses?u=76281980&t=35)** Notice that there are some guidelines here.
 >
@@ -1846,7 +1824,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/html-structured-semantic-data/solution-rich-search-results-for-courses?u=76281980&t=76)** So once you've gone ahead and done that, this is what my text wound up looking like here.
 >
-> **[1:22](https://www.linkedin.com/learning/html-structured-semantic-data/solution-rich-search-results-for-courses?u=76281980&t=82)** So inside of my JSON-LD, this was [schema.org](https://schema.org), a type of course, the name, all this information came from the stuff down here below, the name is [[Crafting Meaningful HTML]], which is another course that you can watch with me here at LinkedIn Learning.
+> **[1:22](https://www.linkedin.com/learning/html-structured-semantic-data/solution-rich-search-results-for-courses?u=76281980&t=82)** So inside of my [[JSON]]-LD, this was [schema.org](https://schema.org), a type of course, the name, all this information came from the stuff down here below, the name is [[Crafting Meaningful HTML]], which is another course that you can watch with me here at [[LinkedIn]] Learning.
 >
 > **[1:38](https://www.linkedin.com/learning/html-structured-semantic-data/solution-rich-search-results-for-courses?u=76281980&t=98)** And then the description is just simply, "Learn to structure documents with semantic HTML," which I wrote based on the, obviously, much longer description that I have here, inside of this course, so you'd have to shorten that up a little bit.
 >
@@ -1874,7 +1852,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), [[HTML]] (4), [[Google]] (3), [[LinkedIn]] (2), [[JSON]] (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[Google]] (3), [[LinkedIn]] (2), [[JSON]] (1)
 > **Env Vars:** html (4), json (1)
 > **Definitions:** is an  (2), is a  (1)
 > **CLI Commands:** make (2)
@@ -1888,8 +1866,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-structured-semantic-data/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/html-structured-semantic-data/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1899,11 +1876,11 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/html-structured-semantic-data/next-steps?u=76281980&t=9)** If you're interested in taking some other courses with me that may also be of interest I have a couple of recommendations for you.
 >
-> **[0:16](https://www.linkedin.com/learning/html-structured-semantic-data/next-steps?u=76281980&t=16)** So if you are watching information about structured data and web semantics, chances are you're interested in meaningful HTML as well.
+> **[0:16](https://www.linkedin.com/learning/html-structured-semantic-data/next-steps?u=76281980&t=16)** So if you are watching information about structured data and web semantics, chances are you're interested in meaningful [[HTML]] as well.
 >
 > **[0:24](https://www.linkedin.com/learning/html-structured-semantic-data/next-steps?u=76281980&t=24)** And I have a course that's for you called [[Crafting Meaningful HTML]] which will talk about all of the wild and wonderful HTML tags that are out there that can bring extra meaning to your document.
 >
-> **[0:38](https://www.linkedin.com/learning/html-structured-semantic-data/next-steps?u=76281980&t=38)** I also have a course called HTML tables that's a deep dive about HTML tables including ways to make them accessible and meaningful to search engines and accessibility products.
+> **[0:38](https://www.linkedin.com/learning/html-structured-semantic-data/next-steps?u=76281980&t=38)** I also have a course called HTML tables that's a deep dive about HTML tables including ways to make them accessible and meaningful to search engines and accessibility [[Microsoft Products|products]].
 >
 > **[0:50](https://www.linkedin.com/learning/html-structured-semantic-data/next-steps?u=76281980&t=50)** And finally if you're just interested in search engines in general, if you're interested in marketing and content and other aspects of your website beyond the code you might be interested in my series called the accidental web designer where I have little short bursts of information that'll give you some high level quick bits of information about those types of topics.
 >
@@ -1911,7 +1888,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (5), web (3), data (2), [[Search]] (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[HTML]] (5), [[Microsoft Products|Products]] (1)
 > **Env Vars:** html (5)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)

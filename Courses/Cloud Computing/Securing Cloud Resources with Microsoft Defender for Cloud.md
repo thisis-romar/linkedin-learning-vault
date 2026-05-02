@@ -91,14 +91,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Importance of securing your workloads on the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/importance-of-securing-your-workloads-on-the-cloud?u=76281980)
+#### [Importance of securing your workloads on the cloud](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/importance-of-securing-your-workloads-on-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/importance-of-securing-your-workloads-on-the-cloud?u=76281980&t=0)** - Now more than ever, you hear about the importance of securing your workloads posted on the cloud.
 >
-> **[0:08](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/importance-of-securing-your-workloads-on-the-cloud?u=76281980&t=8)** Microsoft Defender for Cloud is your one-stop shop for looking at and managing cloud security parameters.
+> **[0:08](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/importance-of-securing-your-workloads-on-the-cloud?u=76281980&t=8)** [[Microsoft Defender]] for Cloud is your one-stop shop for looking at and managing [[Cloud Security]] parameters.
 >
 > **[0:15](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/importance-of-securing-your-workloads-on-the-cloud?u=76281980&t=15)** Cloud security is one of the most rewarding and lucrative career paths.
 >
@@ -112,7 +111,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/importance-of-securing-your-workloads-on-the-cloud?u=76281980&t=40)** I'm a cloud architect by profession and I love to share my knowledge with others.
 >
-> **[0:46](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/importance-of-securing-your-workloads-on-the-cloud?u=76281980&t=46)** In this course, you'll be learning how Defender for Cloud gives us a single pane of glass visibility across our hybrid and multicloud environments, helping us in managing the security posture of our resources.
+> **[0:46](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/importance-of-securing-your-workloads-on-the-cloud?u=76281980&t=46)** In this course, you'll be learning how [[Microsoft Defender|Defender]] for Cloud gives us a single pane of glass visibility across our hybrid and multicloud environments, helping us in managing the security posture of our resources.
 >
 > **[1:01](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/importance-of-securing-your-workloads-on-the-cloud?u=76281980&t=61)** We will cover all the aspects of Microsoft Defender for Cloud and you'll get hands-on practice.
 >
@@ -122,15 +121,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), [[Security]] (5), [[Microsoft Defender]] (3), career (1), [[Microsoft Defender|Defender]] (1)
+> **Frameworks & Libraries:** [[Microsoft Defender]] (3), [[Cloud Security]] (2), [[Microsoft Defender|Defender]] (1)
 > **Speakers:** - now (1)
 
-#### Track your spending in Azure
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/track-your-spending-in-azure?u=76281980)
+#### [Track your spending in Azure](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/track-your-spending-in-azure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/track-your-spending-in-azure?u=76281980&t=0)** - [Instructor] Azure offers a free trial account, which has a 30 day valid date from the date of creation.
+> **[0:00](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/track-your-spending-in-azure?u=76281980&t=0)** - [Instructor] [[Microsoft Azure|Azure]] offers a free trial account, which has a 30 day valid date from the date of creation.
 >
 > **[0:06](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/track-your-spending-in-azure?u=76281980&t=6)** This account gives users free trial credit of US$200, which can be consumed within the first 30 days for creating most of the available Azure services.
 >
@@ -138,7 +136,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/track-your-spending-in-azure?u=76281980&t=28)** Further, these credits can't be transferred to any other Azure subscription.
 >
-> **[0:33](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/track-your-spending-in-azure?u=76281980&t=33)** All you need to create this account is a valid credit or debit card, a working phone number, and a Microsoft or a GitHub account.
+> **[0:33](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/track-your-spending-in-azure?u=76281980&t=33)** All you need to create this account is a valid credit or debit card, a working phone number, and a [[Microsoft]] or a [[GitHub]] account.
 >
 > **[0:44](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/track-your-spending-in-azure?u=76281980&t=44)** Your credit or debit card will not be charged except for a temporary authorization hold.
 >
@@ -146,11 +144,11 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/track-your-spending-in-azure?u=76281980&t=66)** Visit HTTPS Azure link to create your free trial account.
 >
-> **[1:12](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/track-your-spending-in-azure?u=76281980&t=72)** Once you are done creating the free trial account, follow along with me in learning Microsoft Defender for Cloud Services.
+> **[1:12](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/track-your-spending-in-azure?u=76281980&t=72)** Once you are done creating the free trial account, follow along with me in learning [[Microsoft Defender]] for [[Cloud Services]].
 >
 > **[1:19](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/track-your-spending-in-azure?u=76281980&t=79)** Let me also guide you on tracking your spending to keep an eye on the budget.
 >
-> **[1:25](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/track-your-spending-in-azure?u=76281980&t=85)** Once the trial account has been created, you can navigate to the cost management plus billing section in the Azure portal.
+> **[1:25](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/track-your-spending-in-azure?u=76281980&t=85)** Once the trial account has been created, you can navigate to the [[Cost Management]] plus billing section in the Azure portal.
 >
 > **[1:33](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/track-your-spending-in-azure?u=76281980&t=93)** Inside Azure portal, search for cost management and you'll get cost management plus billing service.
 >
@@ -208,7 +206,7 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/track-your-spending-in-azure?u=76281980&t=247)** And you do not miss on deleting the resources and they're left being utilized accidentally.
 >
-> **[4:14](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/track-your-spending-in-azure?u=76281980&t=254)** Further, one of the important practices is to stop the virtual machines when they are not in use to save compute costs.
+> **[4:14](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/track-your-spending-in-azure?u=76281980&t=254)** Further, one of the important practices is to stop the [[Virtual Machines]] when they are not in use to save compute costs.
 >
 > **[4:23](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/track-your-spending-in-azure?u=76281980&t=263)** Follow these small tips to judiciously plan your expenditure in Azure.
 
@@ -228,20 +226,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Microsoft Defender for Cloud overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-for-cloud-overview?u=76281980)
+#### [Microsoft Defender for Cloud overview](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-for-cloud-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-for-cloud-overview?u=76281980&t=0)** - [Instructor] What is Defender for Cloud?
+> **[0:00](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-for-cloud-overview?u=76281980&t=0)** - [Instructor] What is [[Microsoft Defender|Defender]] for Cloud?
 >
-> **[0:03](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-for-cloud-overview?u=76281980&t=3)** Microsoft Defender for Cloud is a solution for Cloud Security Posture Management and threat protection.
+> **[0:03](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-for-cloud-overview?u=76281980&t=3)** [[Microsoft Defender]] for Cloud is a solution for [[Cloud Security]] Posture Management and threat protection.
 >
 > **[0:10](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-for-cloud-overview?u=76281980&t=10)** It strengthens the security posture of your cloud resources.
 >
-> **[0:14](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-for-cloud-overview?u=76281980&t=14)** And with its integrated Microsoft Defender plans, Defender for Cloud protects workloads running in Azure, hybrid, and other cloud platforms.
+> **[0:14](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-for-cloud-overview?u=76281980&t=14)** And with its integrated Microsoft Defender plans, Defender for Cloud protects workloads running in [[Microsoft Azure|Azure]], hybrid, and other cloud platforms.
 >
-> **[0:25](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-for-cloud-overview?u=76281980&t=25)** Defender for Cloud provides the tools needed to harden your resources, track your security posture, protect against cyberattacks, and streamline security management.
+> **[0:25](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-for-cloud-overview?u=76281980&t=25)** Defender for Cloud provides the tools needed to harden your resources, track your security posture, protect against cyberattacks, and streamline [[Security Management]].
 >
 > **[0:37](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-for-cloud-overview?u=76281980&t=37)** Microsoft Defender for Cloud's features cover the two broad pillars of cloud security, namely, Cloud Security Posture Management and Cloud Workload Protection.
 >
@@ -269,7 +266,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-for-cloud-overview?u=76281980&t=121)** There are a few ways to open Microsoft Defender for Cloud service.
 >
-> **[2:06](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-for-cloud-overview?u=76281980&t=126)** Go to the search bar on the top and start typing Microsoft.
+> **[2:06](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-for-cloud-overview?u=76281980&t=126)** Go to the search bar on the top and start typing [[Microsoft]].
 >
 > **[2:11](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-for-cloud-overview?u=76281980&t=131)** It opens up the Microsoft Defender for Cloud in the search results.
 >
@@ -283,7 +280,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-for-cloud-overview?u=76281980&t=154)** When you open Microsoft Defender for Cloud, the first page that opens is the Overview dashboard.
 >
-> **[2:41](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-for-cloud-overview?u=76281980&t=161)** This interactive dashboard provides a unified view into security posture of your hybrid cloud workloads.
+> **[2:41](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-for-cloud-overview?u=76281980&t=161)** This interactive dashboard provides a unified view into security posture of your [[Hybrid Cloud]] workloads.
 >
 > **[2:49](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-for-cloud-overview?u=76281980&t=169)** The top menu bar offers a list of resources: Azure subscriptions.
 >
@@ -309,7 +306,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-for-cloud-overview?u=76281980&t=223)** The higher the score the lower is the identified risk level.
 >
-> **[3:49](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-for-cloud-overview?u=76281980&t=229)** Next is the Regulatory compliance.
+> **[3:49](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-for-cloud-overview?u=76281980&t=229)** Next is the [[Regulatory Compliance]].
 >
 > **[3:52](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-for-cloud-overview?u=76281980&t=232)** Defender for Cloud provides insight into your compliance posture based on continuous assessment of your Azure environment.
 >
@@ -341,9 +338,9 @@ created: 2026-05-02
 >
 > **[5:33](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-for-cloud-overview?u=76281980&t=333)** Next is the Information protection section.
 >
-> **[5:36](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-for-cloud-overview?u=76281980&t=336)** Information protection comprises Azure Purview, which is a unified data governance solution that helps you manage and govern your on-premises, multi-cloud, and software-as-a-service data.
+> **[5:36](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-for-cloud-overview?u=76281980&t=336)** Information protection comprises Azure Purview, which is a unified [[Data Governance]] solution that helps you manage and govern your on-premises, multi-cloud, and software-as-a-service data.
 >
-> **[5:50](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-for-cloud-overview?u=76281980&t=350)** It easily creates a holistic, up-to-date map of your data landscape with automated data discovery, sensitive data classification, and end-to-end data lineage.
+> **[5:50](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-for-cloud-overview?u=76281980&t=350)** It easily creates a holistic, up-to-date map of your data landscape with automated data discovery, sensitive [[Data Classification]], and end-to-end [[Data Lineage]].
 >
 > **[6:03](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-for-cloud-overview?u=76281980&t=363)** It also enables data consumers to find valuable and trustworthy data.
 >
@@ -369,7 +366,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (34), [[Security]] (28), [[Microsoft Defender]] (17), [[Microsoft Defender|Defender]] (12), next (7)
+> **Frameworks & Libraries:** [[Microsoft Defender]] (17), [[Microsoft Defender|Defender]] (12), [[Microsoft Azure|Azure]] (5), [[Cloud Security]] (3), [[Microsoft]] (3)
 > **CLI Commands:** find (2), aws (1)
 > **Env Vars:** aws (1), gcp (1)
 > **UI Navigation:** go to (1), click on (1)
@@ -378,16 +375,15 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enable Microsoft Defender for Cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/enable-microsoft-defender-for-cloud?u=76281980)
+#### [Enable Microsoft Defender for Cloud](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/enable-microsoft-defender-for-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/enable-microsoft-defender-for-cloud?u=76281980&t=0)** - [Narrator] Defender for Cloud provides unified security management and threat protection across your hybrid and multi-cloud workloads.
+> **[0:00](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/enable-microsoft-defender-for-cloud?u=76281980&t=0)** - [Narrator] [[Microsoft Defender|Defender]] for Cloud provides unified [[Security Management]] and threat protection across your hybrid and multi-cloud workloads.
 >
 > **[0:09](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/enable-microsoft-defender-for-cloud?u=76281980&t=9)** It strengthens the security posture of your cloud resources.
 >
-> **[0:13](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/enable-microsoft-defender-for-cloud?u=76281980&t=13)** And with its integrated Microsoft Defender plans, Defender for Cloud protects your workloads running in Azure, hybrid, and other cloud platforms.
+> **[0:13](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/enable-microsoft-defender-for-cloud?u=76281980&t=13)** And with its integrated [[Microsoft Defender]] plans, Defender for Cloud protects your workloads running in [[Microsoft Azure|Azure]], hybrid, and other cloud platforms.
 >
 > **[0:24](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/enable-microsoft-defender-for-cloud?u=76281980&t=24)** Enabling Microsoft Defender for Cloud.
 >
@@ -403,9 +399,9 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/enable-microsoft-defender-for-cloud?u=76281980&t=71)** This feature provides a secure score that helps you in understanding the current security posture of your subscription.
 >
-> **[1:21](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/enable-microsoft-defender-for-cloud?u=76281980&t=81)** Under continuous assessment, we have two subdivisions, namely, vulnerability assessment and regulatory compliance.
+> **[1:21](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/enable-microsoft-defender-for-cloud?u=76281980&t=81)** Under continuous assessment, we have two subdivisions, namely, [[Vulnerability Assessment]] and [[Regulatory Compliance]].
 >
-> **[1:31](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/enable-microsoft-defender-for-cloud?u=76281980&t=91)** Defender for Cloud includes vulnerability assessment solutions for your virtual machines, container registries, and SQL servers as a part of the enhanced security features.
+> **[1:31](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/enable-microsoft-defender-for-cloud?u=76281980&t=91)** Defender for Cloud includes vulnerability assessment solutions for your [[Virtual Machines]], container registries, and [[SQL]] servers as a part of the enhanced security features.
 >
 > **[1:44](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/enable-microsoft-defender-for-cloud?u=76281980&t=104)** Some of the scanners are powered by Qualys, but you don't need a Qualys license, or even a Qualys account.
 >
@@ -421,11 +417,11 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/enable-microsoft-defender-for-cloud?u=76281980&t=144)** These alerts are generated when Defender for Cloud detects a threat in any area of your environment.
 >
-> **[2:32](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/enable-microsoft-defender-for-cloud?u=76281980&t=152)** Integration with Microsoft Sentinel helps with third-party SIEM tools.
+> **[2:32](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/enable-microsoft-defender-for-cloud?u=76281980&t=152)** Integration with [[Microsoft]] Sentinel helps with third-party SIEM tools.
 >
 > **[2:40](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/enable-microsoft-defender-for-cloud?u=76281980&t=160)** These alerts can also be integrated with Microsoft Sentinel.
 >
-> **[2:45](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/enable-microsoft-defender-for-cloud?u=76281980&t=165)** In addition to defending your Azure environment, you can add Azure Defender capabilities to your hybrid cloud environment to protect your non-Azure servers.
+> **[2:45](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/enable-microsoft-defender-for-cloud?u=76281980&t=165)** In addition to defending your Azure environment, you can add Azure Defender capabilities to your [[Hybrid Cloud]] environment to protect your non-Azure servers.
 >
 > **[2:56](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/enable-microsoft-defender-for-cloud?u=76281980&t=176)** Azure Defender also enables users to protect their virtual machines in other clouds such as AWS and GCP.
 >
@@ -473,7 +469,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Defender|Defender]] (17), cloud (16), [[Security]] (15), [[Microsoft Azure|Azure]] (11), [[Microsoft Defender]] (7)
+> **Frameworks & Libraries:** [[Microsoft Defender|Defender]] (17), [[Microsoft Azure|Azure]] (11), [[Microsoft Defender]] (7), [[Security Management]] (3), [[Regulatory Compliance]] (3)
 > **UI Navigation:** click on (3), navigate to (2), select the (1)
 > **Env Vars:** sql (1), siem (1), aws (1), gcp (1), dns (1)
 > **CLI Commands:** aws (1)
@@ -482,14 +478,13 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Review your security recommendations
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/review-your-security-recommendations?u=76281980)
+#### [Review your security recommendations](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/review-your-security-recommendations?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/review-your-security-recommendations?u=76281980&t=0)** - What are recommendations?
 >
-> **[0:03](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/review-your-security-recommendations?u=76281980&t=3)** Defender for Cloud analyzes the security state of your resources to identify potential vulnerabilities.
+> **[0:03](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/review-your-security-recommendations?u=76281980&t=3)** [[Microsoft Defender|Defender]] for Cloud analyzes the security state of your resources to identify potential vulnerabilities.
 >
 > **[0:10](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/review-your-security-recommendations?u=76281980&t=10)** On identifying potential security vulnerabilities, Defender for Cloud creates recommendations that guide you through the process of configuring the needed security controls.
 >
@@ -503,9 +498,9 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/review-your-security-recommendations?u=76281980&t=51)** Resources that need recommendation action implementation.
 >
-> **[0:55](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/review-your-security-recommendations?u=76281980&t=55)** Now, let's navigate to the Azure portal.
+> **[0:55](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/review-your-security-recommendations?u=76281980&t=55)** Now, let's navigate to the [[Microsoft Azure|Azure]] portal.
 >
-> **[0:59](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/review-your-security-recommendations?u=76281980&t=59)** Start by navigating to the Recommendations section under Microsoft Defender for Cloud.
+> **[0:59](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/review-your-security-recommendations?u=76281980&t=59)** Start by navigating to the Recommendations section under [[Microsoft Defender]] for Cloud.
 >
 > **[1:06](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/review-your-security-recommendations?u=76281980&t=66)** This page shows secure score which is a combined score based on the selected environments.
 >
@@ -553,7 +548,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/review-your-security-recommendations?u=76281980&t=221)** Under the value you see lists of all the resources for which we see a recommendation.
 >
-> **[3:49](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/review-your-security-recommendations?u=76281980&t=229)** We'll filter the list by virtual machines.
+> **[3:49](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/review-your-security-recommendations?u=76281980&t=229)** We'll filter the list by [[Virtual Machines]].
 >
 > **[3:52](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/review-your-security-recommendations?u=76281980&t=232)** Click Okay.
 >
@@ -571,7 +566,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), cloud (4), [[Microsoft Azure|Azure]] (4), [[Microsoft Defender|Defender]] (3), [[Virtual Machines]] (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Microsoft Defender|Defender]] (3), [[Virtual Machines]] (3), [[Microsoft Defender]] (1)
 > **CLI Commands:** aws (2), find (1), make (1)
 > **Env Vars:** aws (2), gcp (2)
 > **UI Navigation:** navigate to (1), toggle (1)
@@ -580,8 +575,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - what (1)
 
-#### Remediate recommendations
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/remediate-recommendations?u=76281980)
+#### [Remediate recommendations](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/remediate-recommendations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -599,7 +593,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/remediate-recommendations?u=76281980&t=30)** Fix helps us to permanently resolve a recommendation on multiple resources.
 >
-> **[0:36](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/remediate-recommendations?u=76281980&t=36)** Enforce, using the enforce option, you can take advantage of Azure policies, deploy if not exist, effect, and automatically remediate non-compliant resources upon creation.
+> **[0:36](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/remediate-recommendations?u=76281980&t=36)** Enforce, using the enforce option, you can take advantage of [[Microsoft Azure|Azure]] policies, deploy if not exist, effect, and automatically remediate non-compliant resources upon creation.
 >
 > **[0:50](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/remediate-recommendations?u=76281980&t=50)** Deny, deny effect prevents creation of unhealthy resources.
 >
@@ -613,7 +607,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/remediate-recommendations?u=76281980&t=76)** Under Response action, you get Fix, Deny, Enforce, and None, the set of remediation actions that we just discussed.
 >
-> **[1:28](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/remediate-recommendations?u=76281980&t=88)** In our case, we are opening All network ports should be restricted on network security groups.
+> **[1:28](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/remediate-recommendations?u=76281980&t=88)** In our case, we are opening All network ports should be restricted on [[Network Security]] groups.
 >
 > **[1:35](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/remediate-recommendations?u=76281980&t=95)** The page shows Severity, Freshness interval, and Tactics and techniques featuring the maximum amount of reflection time taken for remediating issues.
 >
@@ -625,7 +619,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/remediate-recommendations?u=76281980&t=132)** Occasionally, a resource will be listed that you feel shouldn't be included or a recommendation will show in a scope where you feel it doesn't belong.
 >
-> **[2:23](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/remediate-recommendations?u=76281980&t=143)** The resource might have been remediated by a process not tracked by Defender for Cloud.
+> **[2:23](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/remediate-recommendations?u=76281980&t=143)** The resource might have been remediated by a process not tracked by [[Microsoft Defender|Defender]] for Cloud.
 >
 > **[2:29](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/remediate-recommendations?u=76281980&t=149)** In such scenarios, exemption comes into the picture.
 >
@@ -667,7 +661,7 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/remediate-recommendations?u=76281980&t=242)** Now from the Response actions screen, we will choose the recommendation that we need to fix.
 >
-> **[4:11](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/remediate-recommendations?u=76281980&t=251)** Here, we will work upon the recommendation Microsoft Defender for Resource Manager should be enabled.
+> **[4:11](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/remediate-recommendations?u=76281980&t=251)** Here, we will work upon the recommendation [[Microsoft Defender]] for Resource Manager should be enabled.
 >
 > **[4:17](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/remediate-recommendations?u=76281980&t=257)** You see a small fix icon towards the right of the recommendation.
 >
@@ -783,20 +777,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), [[Security]] (7), [[Microsoft Defender|Defender]] (4), cloud (3), [[Microsoft Defender]] (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), [[Microsoft Defender|Defender]] (4), [[Microsoft Defender]] (3), [[Network Security]] (1)
 > **UI Navigation:** click on (12), select the (3), navigate to (1), go to (1)
 > **Analogies:** picture (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Disable a recommendation
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/disable-a-recommendation?u=76281980)
+#### [Disable a recommendation](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/disable-a-recommendation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/disable-a-recommendation?u=76281980&t=0)** - Disabling a security recommendation.
 >
-> **[0:04](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/disable-a-recommendation?u=76281980&t=4)** Azure enables industry-standard policies and recommendations as a part of their best practices.
+> **[0:04](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/disable-a-recommendation?u=76281980&t=4)** [[Microsoft Azure|Azure]] enables industry-standard policies and recommendations as a part of their best practices.
 >
 > **[0:11](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/disable-a-recommendation?u=76281980&t=11)** The main aim is to follow compliance regulations and avoid any type of security breach.
 >
@@ -806,11 +799,11 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/disable-a-recommendation?u=76281980&t=31)** To disable a recommendation, disable the specific policy that generates the recommendation.
 >
-> **[0:38](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/disable-a-recommendation?u=76281980&t=38)** Remember, you must have the Microsoft Defender for Cloud plans enabled on your subscription.
+> **[0:38](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/disable-a-recommendation?u=76281980&t=38)** Remember, you must have the [[Microsoft Defender]] for Cloud plans enabled on your subscription.
 >
 > **[0:45](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/disable-a-recommendation?u=76281980&t=45)** Let's navigate to the Azure portal and learn how to disable a recommendation.
 >
-> **[0:52](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/disable-a-recommendation?u=76281980&t=52)** In Defender for Cloud, navigate to the environment settings tab and open the subscription for which you want to disable the recommendation.
+> **[0:52](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/disable-a-recommendation?u=76281980&t=52)** In [[Microsoft Defender|Defender]] for Cloud, navigate to the environment settings tab and open the subscription for which you want to disable the recommendation.
 >
 > **[1:03](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/disable-a-recommendation?u=76281980&t=63)** Go to the security policy section.
 >
@@ -848,14 +841,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), [[Microsoft Azure|Azure]] (2), cloud (2), [[Microsoft Defender]] (1), [[Microsoft Defender|Defender]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Microsoft Defender]] (1), [[Microsoft Defender|Defender]] (1)
 > **UI Navigation:** navigate to (3), open the (2), go to (1), click on (1)
 > **Tools:** azure portal (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - disabling (1)
 
-#### Automate recommendation responses using Workflow Automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/automate-recommendation-responses-using-workflow-automation?u=76281980)
+#### [Automate recommendation responses using Workflow Automation](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/automate-recommendation-responses-using-workflow-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -865,11 +857,11 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/automate-recommendation-responses-using-workflow-automation?u=76281980&t=16)** Further, when done correctly automation improves your organization's security posture by ensuring consistent and well-timed response to remediate security alerts.
 >
-> **[0:29](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/automate-recommendation-responses-using-workflow-automation?u=76281980&t=29)** Microsoft Defender for Cloud provides a workflow automation feature.
+> **[0:29](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/automate-recommendation-responses-using-workflow-automation?u=76281980&t=29)** [[Microsoft Defender]] for Cloud provides a workflow automation feature.
 >
 > **[0:34](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/automate-recommendation-responses-using-workflow-automation?u=76281980&t=34)** This feature triggers a Logic App, which comprises a series of pre-defined steps that run automatically when the trigger conditions are met.
 >
-> **[0:45](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/automate-recommendation-responses-using-workflow-automation?u=76281980&t=45)** From Defender for Cloud side bar, select workflow automation.
+> **[0:45](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/automate-recommendation-responses-using-workflow-automation?u=76281980&t=45)** From [[Microsoft Defender|Defender]] for Cloud side bar, select workflow automation.
 >
 > **[0:50](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/automate-recommendation-responses-using-workflow-automation?u=76281980&t=50)** This page allows you to create a new automation rule.
 >
@@ -885,7 +877,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/automate-recommendation-responses-using-workflow-automation?u=76281980&t=82)** Choose the trigger conditions that will automatically trigger the configured action.
 >
-> **[1:29](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/automate-recommendation-responses-using-workflow-automation?u=76281980&t=89)** Defend for Cloud data type gives you an option to select either a security alert, recommendation, or regulatory compliance standards.
+> **[1:29](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/automate-recommendation-responses-using-workflow-automation?u=76281980&t=89)** Defend for Cloud data type gives you an option to select either a security alert, recommendation, or [[Regulatory Compliance]] standards.
 >
 > **[1:39](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/automate-recommendation-responses-using-workflow-automation?u=76281980&t=99)** I'll choose security alerts. Alert name should contain.
 >
@@ -935,7 +927,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/automate-recommendation-responses-using-workflow-automation?u=76281980&t=194)** After about four minutes, the deployment has been completed successfully.
 >
-> **[3:19](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/automate-recommendation-responses-using-workflow-automation?u=76281980&t=199)** Going forward, whenever you receive any security alert that contains the keyword malicious you shall receive an automated email in your Outlook as per the design of a Logic App also.
+> **[3:19](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/automate-recommendation-responses-using-workflow-automation?u=76281980&t=199)** Going forward, whenever you receive any security alert that contains the keyword malicious you shall receive an automated email in your [[Microsoft Outlook|Outlook]] as per the design of a Logic App also.
 >
 > **[3:35](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/automate-recommendation-responses-using-workflow-automation?u=76281980&t=215)** When you open the workflow automation, you see the workflow automation has been enabled.
 >
@@ -945,7 +937,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (9), [[Security]] (8), cloud (4), [[Microsoft Defender]] (2), feature (2)
+> **Frameworks & Libraries:** [[Microsoft Defender]] (2), [[Microsoft Defender|Defender]] (1), [[Regulatory Compliance]] (1), [[Microsoft Outlook|Outlook]] (1)
 > **UI Navigation:** go to (2), click on (1), select the (1), open the (1)
 > **CLI Commands:** docker (1)
 > **Speakers:** - security (1)
@@ -955,32 +947,31 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Working with security alerts
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/working-with-security-alerts?u=76281980)
+#### [Working with security alerts](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/working-with-security-alerts?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/working-with-security-alerts?u=76281980&t=0)** - [Instructor] Investigate and respond to security alerts.
 >
-> **[0:04](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/working-with-security-alerts?u=76281980&t=4)** Alerts are the notifications that Defender for Cloud generates when it detects threats on your resources.
+> **[0:04](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/working-with-security-alerts?u=76281980&t=4)** Alerts are the notifications that [[Microsoft Defender|Defender]] for Cloud generates when it detects threats on your resources.
 >
 > **[0:12](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/working-with-security-alerts?u=76281980&t=12)** Defender for Cloud prioritizes the list of alerts, along with the information needed for you to quickly investigate the problem.
 >
 > **[0:21](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/working-with-security-alerts?u=76281980&t=21)** It also provides recommendations for how you can remediate an attack.
 >
-> **[0:27](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/working-with-security-alerts?u=76281980&t=27)** Microsoft Defender for Cloud provides a unified view for all security alerts.
+> **[0:27](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/working-with-security-alerts?u=76281980&t=27)** [[Microsoft Defender]] for Cloud provides a unified view for all security alerts.
 >
-> **[0:33](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/working-with-security-alerts?u=76281980&t=33)** It continuously analyzes your hybrid cloud workloads using advanced analytics and threat intelligence.
+> **[0:33](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/working-with-security-alerts?u=76281980&t=33)** It continuously analyzes your [[Hybrid Cloud]] workloads using advanced analytics and threat intelligence.
 >
-> **[0:40](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/working-with-security-alerts?u=76281980&t=40)** You can also integrate alerts from other security products and services into Defender for Cloud.
+> **[0:40](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/working-with-security-alerts?u=76281980&t=40)** You can also integrate alerts from other security [[Microsoft Products|products]] and services into Defender for Cloud.
 >
-> **[0:47](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/working-with-security-alerts?u=76281980&t=47)** Once an alert is raised, swift action is needed to investigate and remediate the potential security issues.
+> **[0:47](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/working-with-security-alerts?u=76281980&t=47)** Once an alert is raised, [[Swift (Programming Language)|swift]] action is needed to investigate and remediate the potential security issues.
 >
-> **[0:56](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/working-with-security-alerts?u=76281980&t=56)** Microsoft security researchers are constantly on the lookout for threats.
+> **[0:56](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/working-with-security-alerts?u=76281980&t=56)** [[Microsoft Security]] researchers are constantly on the lookout for threats.
 >
 > **[1:02](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/working-with-security-alerts?u=76281980&t=62)** The wide-reaching and diverse collection of data sets enables them to discover new attack patterns and trends across their on-premises, consumer, and enterprise products, as well as their online services.
 >
-> **[1:18](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/working-with-security-alerts?u=76281980&t=78)** As a result, Defender for Cloud can rapidly update its detection algorithms as attackers release new and increasingly sophisticated exploits.
+> **[1:18](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/working-with-security-alerts?u=76281980&t=78)** As a result, Defender for Cloud can rapidly update its detection [[Algorithms]] as attackers release new and increasingly sophisticated exploits.
 >
 > **[1:30](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/working-with-security-alerts?u=76281980&t=90)** Let's review alerts within Defender for Cloud now.
 >
@@ -1022,7 +1013,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/working-with-security-alerts?u=76281980&t=217)** That gives detailed information, which can help you to investigate the suspicious activity.
 >
-> **[3:44](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/working-with-security-alerts?u=76281980&t=224)** You can find the Account, Azure resource, the Cloud adoption and the IP, then there is a Take Actions button.
+> **[3:44](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/working-with-security-alerts?u=76281980&t=224)** You can find the Account, [[Microsoft Azure|Azure]] resource, the Cloud adoption and the IP, then there is a Take Actions button.
 >
 > **[3:55](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/working-with-security-alerts?u=76281980&t=235)** After you have investigated a security alert and understood its scope, you can respond to the alert by clicking the Take action tab.
 >
@@ -1048,7 +1039,7 @@ created: 2026-05-02
 >
 > **[5:25](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/working-with-security-alerts?u=76281980&t=325)** Now, let's look at this vulnerability alert.
 >
-> **[5:30](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/working-with-security-alerts?u=76281980&t=330)** It gives us an option that machines should have a vulnerability assessment solution, and then there is an option to fix this recommendation.
+> **[5:30](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/working-with-security-alerts?u=76281980&t=330)** It gives us an option that machines should have a [[Vulnerability Assessment]] solution, and then there is an option to fix this recommendation.
 >
 > **[5:39](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/working-with-security-alerts?u=76281980&t=339)** We click on the Fix, choose the Option to deploy the integrated vulnerability scanner powered by Qualys and click Proceed.
 >
@@ -1066,7 +1057,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (10), cloud (9), [[Microsoft Defender|Defender]] (6), data (3), [[Microsoft Defender]] (2)
+> **Frameworks & Libraries:** [[Microsoft Defender|Defender]] (6), [[Microsoft Defender]] (2), [[Microsoft Products|Products]] (2), [[Hybrid Cloud]] (1), [[Swift (Programming Language)|Swift]] (1)
 > **UI Navigation:** click on (6), go to (1)
 > **Definitions:** is a  (2), is an  (2)
 > **Env Vars:** att (1), mitre (1)
@@ -1074,14 +1065,13 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deep dive into inventory
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/deep-dive-into-inventory?u=76281980)
+#### [Deep dive into inventory](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/deep-dive-into-inventory?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/deep-dive-into-inventory?u=76281980&t=0)** - The asset inventory page provides a single pane for viewing the security posture of the resources connected to Microsoft Defender for Cloud.
+> **[0:00](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/deep-dive-into-inventory?u=76281980&t=0)** - The asset inventory page provides a single pane for viewing the security posture of the resources connected to [[Microsoft Defender]] for Cloud.
 >
-> **[0:09](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/deep-dive-into-inventory?u=76281980&t=9)** Defender for Cloud periodically analyzes the security state of resources connected to your subscription for identifying potential security vulnerabilities.
+> **[0:09](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/deep-dive-into-inventory?u=76281980&t=9)** [[Microsoft Defender|Defender]] for Cloud periodically analyzes the security state of resources connected to your subscription for identifying potential security vulnerabilities.
 >
 > **[0:20](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/deep-dive-into-inventory?u=76281980&t=20)** It then provides you with the recommendations on their remediation.
 >
@@ -1149,18 +1139,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), [[Security]] (5), [[Microsoft Defender]] (5), [[Microsoft Defender|Defender]] (3), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Defender]] (5), [[Microsoft Defender|Defender]] (3)
 > **UI Navigation:** navigate to (1)
 > **Speakers:** - the (1)
 
-#### Onboard non-Azure servers to Defender for Cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/onboard-non-azure-servers-to-defender-for-cloud?u=76281980)
+#### [Onboard non-Azure servers to Defender for Cloud](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/onboard-non-azure-servers-to-defender-for-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/onboard-non-azure-servers-to-defender-for-cloud?u=76281980&t=0)** - [Instructor] Onboard Servers to Defender for Cloud.
+> **[0:00](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/onboard-non-azure-servers-to-defender-for-cloud?u=76281980&t=0)** - [Instructor] Onboard Servers to [[Microsoft Defender|Defender]] for Cloud.
 >
-> **[0:04](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/onboard-non-azure-servers-to-defender-for-cloud?u=76281980&t=4)** Defender for Cloud can monitor the security posture of your non-Azure computers, but first you need to connect them to Azure.
+> **[0:04](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/onboard-non-azure-servers-to-defender-for-cloud?u=76281980&t=4)** Defender for Cloud can monitor the security posture of your non-[[Microsoft Azure|Azure]] computers, but first you need to connect them to Azure.
 >
 > **[0:13](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/onboard-non-azure-servers-to-defender-for-cloud?u=76281980&t=13)** You can connect your non-Azure computers in any of the following ways.
 >
@@ -1180,7 +1169,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/onboard-non-azure-servers-to-defender-for-cloud?u=76281980&t=108)** Click on next, agree, select connect the agent to Azure log analytics workspace, select next, copy the workspace ID and primary key from your Defender page, for me, I'm selecting the commercial Cloud, in case you were working with US government, China, or any other Cloud select AC for your requirements.
 >
-> **[2:17](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/onboard-non-azure-servers-to-defender-for-cloud?u=76281980&t=137)** Click next, use Microsoft update, it's a recommended option, select that button, click next and install, the installation takes about a minute.
+> **[2:17](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/onboard-non-azure-servers-to-defender-for-cloud?u=76281980&t=137)** Click next, use [[Microsoft]] update, it's a recommended option, select that button, click next and install, the installation takes about a minute.
 >
 > **[2:31](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/onboard-non-azure-servers-to-defender-for-cloud?u=76281980&t=151)** Once the installation has been completed, click on the finish button.
 >
@@ -1192,7 +1181,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/onboard-non-azure-servers-to-defender-for-cloud?u=76281980&t=184)** That is its successfully connected to the Microsoft OMS suite.
 >
-> **[3:10](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/onboard-non-azure-servers-to-defender-for-cloud?u=76281980&t=190)** Now, after some time you will be able to see two Windows computers connected to my log analytics workspace.
+> **[3:10](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/onboard-non-azure-servers-to-defender-for-cloud?u=76281980&t=190)** Now, after some time you will be able to see two [[Windows]] computers connected to my log analytics workspace.
 >
 > **[3:18](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/onboard-non-azure-servers-to-defender-for-cloud?u=76281980&t=198)** You can also verify the status from the Azure portal, log in to Azure log analytics workspace, open AWS integration workspace, the workspace that was created initially, go to the agent's management section and you will see it displays two Windows computers connected.
 >
@@ -1206,7 +1195,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (17), [[Microsoft Defender|Defender]] (8), [[Analytics]] (8), cloud (7), aws (6)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (17), [[Microsoft Defender|Defender]] (8), [[Microsoft]] (3), [[Windows]] (2)
 > **Env Vars:** aws (6), oms (2), mma (1)
 > **UI Navigation:** click on (4), go to (2), navigate to (1)
 > **CLI Commands:** aws (6)
@@ -1215,12 +1204,11 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Warnings:** note that (1)
 
-#### Learning about workbooks
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/learning-about-workbooks?u=76281980)
+#### [Learning about workbooks](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/learning-about-workbooks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/learning-about-workbooks?u=76281980&t=0)** - Azure monitor workbooks, provide a flexible canvas for data analysis and creation of rich visual reports.
+> **[0:00](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/learning-about-workbooks?u=76281980&t=0)** - [[Microsoft Azure|Azure]] monitor workbooks, provide a flexible canvas for data analysis and creation of rich visual reports.
 >
 > **[0:07](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/learning-about-workbooks?u=76281980&t=7)** Within the Azure portal, they allow you to tap into multiple data sources from across Azure and combine them into unified interactive experiences.
 >
@@ -1228,13 +1216,13 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/learning-about-workbooks?u=76281980&t=28)** Azure provides five types of inbuilt workbooks.
 >
-> **[0:31](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/learning-about-workbooks?u=76281980&t=31)** Namely secure score over time, compliance over time, vulnerability assessment findings, active alerts, and the system updates.
+> **[0:31](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/learning-about-workbooks?u=76281980&t=31)** Namely secure score over time, compliance over time, [[Vulnerability Assessment]] findings, active alerts, and the system updates.
 >
 > **[0:44](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/learning-about-workbooks?u=76281980&t=44)** The secure score over time workbook is used to track your subscriptions score and changes to recommendations for your resources.
 >
 > **[0:54](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/learning-about-workbooks?u=76281980&t=54)** Compliance over time workbook is used to build the status of subscriptions compliance with the regulatory or industry standards selected by you.
 >
-> **[1:06](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/learning-about-workbooks?u=76281980&t=66)** The vulnerability assessment findings workbook is based on the vulnerability findings in your virtual machines.
+> **[1:06](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/learning-about-workbooks?u=76281980&t=66)** The vulnerability assessment findings workbook is based on the vulnerability findings in your [[Virtual Machines]].
 >
 > **[1:13](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/learning-about-workbooks?u=76281980&t=73)** It allows us to view findings of vulnerability scans of our Azure resources.
 >
@@ -1246,7 +1234,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/learning-about-workbooks?u=76281980&t=105)** Now let's navigate to the Azure portal and learn more about the workbooks.
 >
-> **[1:52](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/learning-about-workbooks?u=76281980&t=112)** Click on the workbooks tab under the general section of Microsoft Defender for Cloud.
+> **[1:52](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/learning-about-workbooks?u=76281980&t=112)** Click on the workbooks tab under the general section of [[Microsoft Defender]] for Cloud.
 >
 > **[1:58](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/learning-about-workbooks?u=76281980&t=118)** Here, you'll see all the workbooks that we discussed previously.
 >
@@ -1318,7 +1306,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft Azure|Azure]] (6), [[Vulnerability Assessment]] (3), [[Analytics]] (3), [[Microsoft Defender]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Vulnerability Assessment]] (3), [[Microsoft Defender]] (2), [[Virtual Machines]] (1)
 > **UI Navigation:** select the (4), navigate to (2), click on (2), toggle (1), dropdown (1)
 > **Prerequisites:** configure (3)
 > **Tools:** azure portal (2)
@@ -1326,14 +1314,13 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - azure (1)
 
-#### Learning all about security policy
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/learning-all-about-security-policy?u=76281980)
+#### [Learning all about security policy](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/learning-all-about-security-policy?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/learning-all-about-security-policy?u=76281980&t=0)** - [Instructor] What is a security policy?
 >
-> **[0:03](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/learning-all-about-security-policy?u=76281980&t=3)** An Azure Policy definition is a rule about specific security conditions that you want controlled.
+> **[0:03](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/learning-all-about-security-policy?u=76281980&t=3)** An [[Microsoft Azure|Azure]] Policy definition is a rule about specific security conditions that you want controlled.
 >
 > **[0:10](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/learning-all-about-security-policy?u=76281980&t=10)** Built-in definitions include things like controlling what type of resources can be deployed or enforced.
 >
@@ -1341,11 +1328,11 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/learning-all-about-security-policy?u=76281980&t=22)** To implement these policy definitions, whether built-in or custom, you will need to assign them.
 >
-> **[0:29](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/learning-all-about-security-policy?u=76281980&t=29)** You can assign any of these policies through the Azure Portal, PowerShell or Azure CLI.
+> **[0:29](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/learning-all-about-security-policy?u=76281980&t=29)** You can assign any of these policies through the Azure Portal, [[Powershell]] or Azure [[CLI]].
 >
 > **[0:36](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/learning-all-about-security-policy?u=76281980&t=36)** Policies can be disabled or enabled as per your requirements.
 >
-> **[0:42](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/learning-all-about-security-policy?u=76281980&t=42)** There are different types of policies in Azure: Defender for Cloud mainly uses audit policies that checks specific conditions and configurations and then reports on compliance.
+> **[0:42](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/learning-all-about-security-policy?u=76281980&t=42)** There are different types of policies in Azure: [[Microsoft Defender|Defender]] for Cloud mainly uses audit policies that checks specific conditions and configurations and then reports on compliance.
 >
 > **[0:56](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/learning-all-about-security-policy?u=76281980&t=56)** There are also enforce policies that can be used to apply security settings.
 >
@@ -1359,7 +1346,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/learning-all-about-security-policy?u=76281980&t=99)** We will now learn about the functionality of a security policy.
 >
-> **[1:45](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/learning-all-about-security-policy?u=76281980&t=105)** Select Environment Settings Options under the Management tab of Microsoft Defender for Cloud.
+> **[1:45](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/learning-all-about-security-policy?u=76281980&t=105)** Select Environment Settings Options under the Management tab of [[Microsoft Defender]] for Cloud.
 >
 > **[1:51](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/learning-all-about-security-policy?u=76281980&t=111)** Select the subscription where you want to see your policies.
 >
@@ -1381,7 +1368,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/learning-all-about-security-policy?u=76281980&t=172)** Industry and regulatory standards comprise global security standards.
 >
-> **[2:57](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/learning-all-about-security-policy?u=76281980&t=177)** Pick the standard that you want to add to your regulatory compliance dashboard and then assign it to your subscription.
+> **[2:57](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/learning-all-about-security-policy?u=76281980&t=177)** Pick the standard that you want to add to your [[Regulatory Compliance]] dashboard and then assign it to your subscription.
 >
 > **[3:06](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/learning-all-about-security-policy?u=76281980&t=186)** The industry and regulatory standards comprise global security standards.
 >
@@ -1427,7 +1414,7 @@ created: 2026-05-02
 >
 > **[5:19](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/learning-all-about-security-policy?u=76281980&t=319)** A new page opens up.
 >
-> **[5:21](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/learning-all-about-security-policy?u=76281980&t=321)** We will choose "Azure backup should be enabled "for virtual machines."
+> **[5:21](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/learning-all-about-security-policy?u=76281980&t=321)** We will choose "Azure backup should be enabled "for [[Virtual Machines]]."
 >
 > **[5:25](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/learning-all-about-security-policy?u=76281980&t=325)** This is a built-in Azure policy.
 >
@@ -1435,7 +1422,7 @@ created: 2026-05-02
 >
 > **[5:30](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/learning-all-about-security-policy?u=76281980&t=330)** Click Next.
 >
-> **[5:32](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/learning-all-about-security-policy?u=76281980&t=332)** You can further create controls specifying additional metadata.
+> **[5:32](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/learning-all-about-security-policy?u=76281980&t=332)** You can further create controls specifying additional [[Metadata]].
 >
 > **[5:38](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/learning-all-about-security-policy?u=76281980&t=338)** I will be leaving this as default.
 >
@@ -1455,7 +1442,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (14), [[Microsoft Azure|Azure]] (10), cloud (4), [[Regulatory Compliance]] (3), next (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), [[Regulatory Compliance]] (3), [[Microsoft Defender|Defender]] (2), [[Microsoft Defender]] (2), [[Powershell]] (1)
 > **Definitions:** is a  (6), is an  (1)
 > **UI Navigation:** click on (4), select the (2)
 > **Env Vars:** cli (1), iso (1)
@@ -1468,12 +1455,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Secure Score: Access and track your secure score
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/secure-score-access-and-track-your-secure-score?u=76281980)
+#### [Secure Score: Access and track your secure score](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/secure-score-access-and-track-your-secure-score?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/secure-score-access-and-track-your-secure-score?u=76281980&t=0)** - [Tutor] Secure score is the central feature of Microsoft Defender for Cloud, which is used to measure the security posture of your subscription.
+> **[0:00](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/secure-score-access-and-track-your-secure-score?u=76281980&t=0)** - [Tutor] Secure score is the central feature of [[Microsoft Defender]] for Cloud, which is used to measure the security posture of your subscription.
 >
 > **[0:08](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/secure-score-access-and-track-your-secure-score?u=76281980&t=8)** This feature continually assesses resources, subscriptions, and security issues related to your organization.
 >
@@ -1483,15 +1469,15 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/secure-score-access-and-track-your-secure-score?u=76281980&t=36)** Higher the secure score, lower is the identified risk level for your subscription.
 >
-> **[0:43](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/secure-score-access-and-track-your-secure-score?u=76281980&t=43)** Microsoft secure score helps organizations report on the current state of their security posture, improve their security posture by providing discoverability, visibility, guidance, and control.
+> **[0:43](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/secure-score-access-and-track-your-secure-score?u=76281980&t=43)** [[Microsoft]] secure score helps organizations report on the current state of their security posture, improve their security posture by providing discoverability, visibility, guidance, and control.
 >
 > **[0:58](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/secure-score-access-and-track-your-secure-score?u=76281980&t=58)** It also enables organizations to compare the benchmarks and establish key performance indicators also known as KPIs.
 >
-> **[1:08](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/secure-score-access-and-track-your-secure-score?u=76281980&t=68)** By implementing Microsoft secure score, organizations gain access to robust visualization of matrix and trends, integration with other Microsoft products, score comparison with similar organizations, and much more.
+> **[1:08](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/secure-score-access-and-track-your-secure-score?u=76281980&t=68)** By implementing Microsoft secure score, organizations gain access to robust visualization of matrix and trends, integration with other [[Microsoft Products]], score comparison with similar organizations, and much more.
 >
-> **[1:26](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/secure-score-access-and-track-your-secure-score?u=76281980&t=86)** Let's look at the secure score feature for Microsoft Defender for Cloud on the Azure portal now.
+> **[1:26](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/secure-score-access-and-track-your-secure-score?u=76281980&t=86)** Let's look at the secure score feature for Microsoft Defender for Cloud on the [[Microsoft Azure|Azure]] portal now.
 >
-> **[1:33](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/secure-score-access-and-track-your-secure-score?u=76281980&t=93)** Clicking on the security posture tab under Cloud security takes us to the secure score.
+> **[1:33](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/secure-score-access-and-track-your-secure-score?u=76281980&t=93)** Clicking on the security posture tab under [[Cloud Security]] takes us to the secure score.
 >
 > **[1:41](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/secure-score-access-and-track-your-secure-score?u=76281980&t=101)** The secure score is shown as a percentage value which comprises of multiple recommendations, number of unhealthy resources, the subscription for which we are looking for the score, and the management groups.
 >
@@ -1573,7 +1559,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (12), [[Microsoft Azure|Azure]] (5), feature (3), cloud (3), management (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Microsoft Defender]] (2), [[Microsoft]] (2), [[Microsoft Products]] (1), [[Cloud Security]] (1)
 > **UI Navigation:** click on (2), go to (1), select the (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
@@ -1582,22 +1568,21 @@ created: 2026-05-02
 > **Definitions:** known as (1)
 > **Analogies:** for instance (1)
 
-#### Microsoft Defender regulatory compliance
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-regulatory-compliance?u=76281980)
+#### [Microsoft Defender regulatory compliance](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-regulatory-compliance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-regulatory-compliance?u=76281980&t=0)** - [Instructor] Microsoft defender's regulatory compliance.
+> **[0:00](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-regulatory-compliance?u=76281980&t=0)** - [Instructor] [[Microsoft Defender]]'s [[Regulatory Compliance]].
 >
 > **[0:04](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-regulatory-compliance?u=76281980&t=4)** The regulatory compliance dashboard represents industry standards, regulatory standards, and benchmarks.
 >
 > **[0:11](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-regulatory-compliance?u=76281980&t=11)** It displays your compliance posture, relative to the standards and regulations that are important to you.
 >
-> **[0:19](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-regulatory-compliance?u=76281980&t=19)** Each standard is an initiative defined in Azure policy.
+> **[0:19](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-regulatory-compliance?u=76281980&t=19)** Each standard is an initiative defined in [[Microsoft Azure|Azure]] policy.
 >
 > **[0:23](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-regulatory-compliance?u=76281980&t=23)** This dashboard provides insights into your compliance posture based on how your meeting specific compliance requirements.
 >
-> **[0:32](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-regulatory-compliance?u=76281980&t=32)** Let's jump into the Defender for Cloud, to learn how to add regulatory standards to our dashboard.
+> **[0:32](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-regulatory-compliance?u=76281980&t=32)** Let's jump into the [[Microsoft Defender|Defender]] for Cloud, to learn how to add regulatory standards to our dashboard.
 >
 > **[0:41](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-regulatory-compliance?u=76281980&t=41)** From Defender for Cloud's menu, select regulatory compliance.
 >
@@ -1611,7 +1596,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-regulatory-compliance?u=76281980&t=69)** Then comes the audit reports.
 >
-> **[1:11](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-regulatory-compliance?u=76281980&t=71)** The audit reports gives the entire data on the latest privacy, security, and compliance-related information.
+> **[1:11](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-regulatory-compliance?u=76281980&t=71)** The audit reports gives the entire data on the latest [[Privacy]], security, and compliance-related information.
 >
 > **[1:19](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-regulatory-compliance?u=76281980&t=79)** Clicking the open button, opens the detailed audit report page.
 >
@@ -1619,7 +1604,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-regulatory-compliance?u=76281980&t=90)** You have the download link here.
 >
-> **[1:35](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-regulatory-compliance?u=76281980&t=95)** The next insight gives you the link to fetch detail information about Azure security benchmark.
+> **[1:35](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-regulatory-compliance?u=76281980&t=95)** The next insight gives you the link to [[Fetch]] detail information about Azure security benchmark.
 >
 > **[1:42](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-regulatory-compliance?u=76281980&t=102)** The compliance report initiative, lets you download a PDF report with your compliance status for one of the supported standards.
 >
@@ -1651,7 +1636,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-regulatory-compliance?u=76281980&t=184)** And therefore, this report is only a partial view of your overall compliance status.
 >
-> **[3:11](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-regulatory-compliance?u=76281980&t=191)** Microsoft tracks the regulatory standards and automatically improves its coverage in some of the packages over time.
+> **[3:11](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-regulatory-compliance?u=76281980&t=191)** [[Microsoft]] tracks the regulatory standards and automatically improves its coverage in some of the packages over time.
 >
 > **[3:19](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-regulatory-compliance?u=76281980&t=199)** For example, here you see ISO 27001, which is now being improved.
 >
@@ -1665,7 +1650,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Regulatory Compliance]] (4), [[Microsoft Defender|Defender]] (4), cloud (4), [[Security]] (4), [[Microsoft Azure|Azure]] (2)
+> **Frameworks & Libraries:** [[Regulatory Compliance]] (4), [[Microsoft Defender|Defender]] (4), [[Microsoft Azure|Azure]] (2), [[Microsoft]] (2), [[Microsoft Defender]] (1)
 > **Env Vars:** pdf (2), iso (2), csv (1), pci (1), dss (1)
 > **UI Navigation:** click on (3), go to (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -1674,20 +1659,19 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Analogies:** for example (1)
 
-#### Configure autoprovisioning
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/configure-autoprovisioning?u=76281980)
+#### [Configure autoprovisioning](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/configure-autoprovisioning?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/configure-autoprovisioning?u=76281980&t=0)** - [Tutor] Configure auto-provisioning for agents and extensions.
 >
-> **[0:05](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/configure-autoprovisioning?u=76281980&t=5)** Microsoft Defender for Cloud collect security data and events from Azure Virtual Machines, Virtual Machine Skill Sets, IAAs containers, and non Azure servers including on-premises machines to monitor the security vulnerabilities and threats.
+> **[0:05](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/configure-autoprovisioning?u=76281980&t=5)** [[Microsoft Defender]] for Cloud collect security data and events from [[Microsoft Azure|Azure]] [[Virtual Machines]], Virtual Machine Skill Sets, [[IaaS]] containers, and non Azure servers including on-premises machines to monitor the security vulnerabilities and threats.
 >
 > **[0:24](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/configure-autoprovisioning?u=76281980&t=24)** Data is collected using the Log Analytics agent which reads various security related configurations and event logs from the machine and copies data to your workspace for analysis.
 >
-> **[0:38](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/configure-autoprovisioning?u=76281980&t=38)** Example, Operating system type and version, Windows event logs, running processes, machine name, IP addresses, and logged-in user, et cetera.
+> **[0:38](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/configure-autoprovisioning?u=76281980&t=38)** Example, Operating system type and version, [[Windows]] event logs, running processes, machine name, IP addresses, and logged-in user, et cetera.
 >
-> **[0:52](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/configure-autoprovisioning?u=76281980&t=52)** The data is also collected using security extensions such as Azure policy add on for Kubernetes which can provide Cloud data to Microsoft Defender regarding specialized resource types.
+> **[0:52](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/configure-autoprovisioning?u=76281980&t=52)** The data is also collected using security extensions such as Azure policy add on for [[Kubernetes]] which can provide Cloud data to Microsoft Defender regarding specialized resource types.
 >
 > **[1:05](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/configure-autoprovisioning?u=76281980&t=65)** Now, what is auto-provisioning?
 >
@@ -1695,7 +1679,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/configure-autoprovisioning?u=76281980&t=82)** How does auto-provisioning work?
 >
-> **[1:25](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/configure-autoprovisioning?u=76281980&t=85)** Defender for Cloud's auto-provisioning settings has a toggle for each type of supported extension.
+> **[1:25](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/configure-autoprovisioning?u=76281980&t=85)** [[Microsoft Defender|Defender]] for Cloud's auto-provisioning settings has a toggle for each type of supported extension.
 >
 > **[1:31](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/configure-autoprovisioning?u=76281980&t=91)** When you enable auto-provisioning for an extension, you can assign the appropriate DeployIfNotExist policy to ensure that the extension is provisioned on all the existing and future resources of that type.
 >
@@ -1737,7 +1721,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Security]] (8), data (7), [[Analytics]] (5), cloud (4)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Microsoft Defender]] (2), [[Microsoft Defender|Defender]] (2), [[Virtual Machines]] (1), [[IaaS]] (1)
 > **UI Navigation:** toggle (3), navigate to (1), select the (1), click on (1)
 > **Tools:** azure portal (1)
 > **Analogies:** such as (1)
@@ -1745,8 +1729,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [tutor] (1)
 
-#### Set up email notification
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/set-up-email-notification?u=76281980)
+#### [Set up email notification](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/set-up-email-notification?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1754,7 +1737,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/set-up-email-notification?u=76281980&t=3)** Security alerts need to reach the right people in your organization.
 >
-> **[0:07](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/set-up-email-notification?u=76281980&t=7)** By default, Defender for Cloud subscription owners get an email whenever a high severity alert is triggered.
+> **[0:07](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/set-up-email-notification?u=76281980&t=7)** By default, [[Microsoft Defender|Defender]] for Cloud subscription owners get an email whenever a high severity alert is triggered.
 >
 > **[0:15](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/set-up-email-notification?u=76281980&t=15)** Defender for Cloud allows us to define our own preferences for sending out email notifications.
 >
@@ -1766,7 +1749,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/set-up-email-notification?u=76281980&t=57)** Now, we will walk through the steps for setting email notifications for whatever subscriptions.
 >
-> **[1:05](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/set-up-email-notification?u=76281980&t=65)** Under Microsoft Defender for Cloud, navigate to the Environment settings tab.
+> **[1:05](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/set-up-email-notification?u=76281980&t=65)** Under [[Microsoft Defender]] for Cloud, navigate to the Environment settings tab.
 >
 > **[1:12](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/set-up-email-notification?u=76281980&t=72)** Click on the subscription where you want to set your email notification.
 >
@@ -1796,18 +1779,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), [[Security]] (3), [[Microsoft Defender|Defender]] (3), [[Microsoft Defender]] (1)
+> **Frameworks & Libraries:** [[Microsoft Defender|Defender]] (3), [[Microsoft Defender]] (1)
 > **UI Navigation:** click on (2), navigate to (1), select the (1)
 > **Speakers:** - setting (1)
 
-#### Configure CI/CD with Defender for Cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/configure-ci-cd-with-defender-for-cloud?u=76281980)
+#### [Configure CI/CD with Defender for Cloud](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/configure-ci-cd-with-defender-for-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/configure-ci-cd-with-defender-for-cloud?u=76281980&t=0)** - [Instructor] Microsoft Defender for Endpoint protects your Windows and Linux machines whether they're hosted in Azure, hybrid clouds, or on premises.
+> **[0:00](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/configure-ci-cd-with-defender-for-cloud?u=76281980&t=0)** - [Instructor] [[Microsoft Defender]] for Endpoint protects your [[Windows]] and [[Linux]] machines whether they're hosted in [[Microsoft Azure|Azure]], hybrid clouds, or on premises.
 >
-> **[0:11](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/configure-ci-cd-with-defender-for-cloud?u=76281980&t=11)** Defender for Endpoint sensor collects a vast array of behavioral signals from your machines.
+> **[0:11](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/configure-ci-cd-with-defender-for-cloud?u=76281980&t=11)** [[Microsoft Defender|Defender]] for Endpoint sensor collects a vast array of behavioral signals from your machines.
 >
 > **[0:18](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/configure-ci-cd-with-defender-for-cloud?u=76281980&t=18)** Additionally, it readily adapts to changing threats and provides actionable alerts.
 >
@@ -1817,7 +1799,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/configure-ci-cd-with-defender-for-cloud?u=76281980&t=42)** Towards the left, fourth option you will see as integration choose that option.
 >
-> **[0:47](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/configure-ci-cd-with-defender-for-cloud?u=76281980&t=47)** Now, to enable Defender for Cloud to integrate with other Microsoft security services, you need to allow services to access your data.
+> **[0:47](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/configure-ci-cd-with-defender-for-cloud?u=76281980&t=47)** Now, to enable Defender for Cloud to integrate with other [[Microsoft Security]] services, you need to allow services to access your data.
 >
 > **[0:56](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/configure-ci-cd-with-defender-for-cloud?u=76281980&t=56)** Hence you need to check both the check boxes, allow Microsoft Defender for Cloud apps to access my data, and allow Microsoft Defender for Endpoint to access my data.
 >
@@ -1861,27 +1843,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), [[Microsoft Defender]] (4), [[Microsoft Defender|Defender]] (4), data (3), feature (3)
+> **Frameworks & Libraries:** [[Microsoft Defender]] (4), [[Microsoft Defender|Defender]] (4), [[Windows]] (1), [[Linux]] (1), [[Microsoft Azure|Azure]] (1)
 > **CLI Commands:** cd (3)
 > **UI Navigation:** click on (2), navigate to (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Continuous export
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/continuous-export?u=76281980)
+#### [Continuous export](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/continuous-export?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/continuous-export?u=76281980&t=0)** - [Woman] Microsoft Defender for Cloud generates detailed security alerts and recommendations.
+> **[0:00](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/continuous-export?u=76281980&t=0)** - [Woman] [[Microsoft Defender]] for Cloud generates detailed security alerts and recommendations.
 >
 > **[0:06](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/continuous-export?u=76281980&t=6)** These recommendations can be viewed and exported through different programmatic tools like Continuous export.
 >
 > **[0:14](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/continuous-export?u=76281980&t=14)** It allows users to customize what would be exported and where it would be saved.
 >
-> **[0:21](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/continuous-export?u=76281980&t=21)** These alerts can be sent to an Azure Event hub or to a specific Log Analytics workspace as per your requirements.
+> **[0:21](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/continuous-export?u=76281980&t=21)** These alerts can be sent to an [[Microsoft Azure|Azure]] Event hub or to a specific Log Analytics workspace as per your requirements.
 >
-> **[0:31](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/continuous-export?u=76281980&t=31)** Exporting Defender for Cloud's data facilitates integration with third-party SIEM and Azure Data Explorer.
+> **[0:31](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/continuous-export?u=76281980&t=31)** Exporting [[Microsoft Defender|Defender]] for Cloud's data facilitates integration with third-party SIEM and Azure Data Explorer.
 >
 > **[0:41](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/continuous-export?u=76281980&t=41)** Even though the feature is called Continuous, there is an option to export weekly snapshots as well.
 >
@@ -1903,7 +1884,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/continuous-export?u=76281980&t=97)** You can choose the severity of alert that needs to be exported.
 >
-> **[1:43](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/continuous-export?u=76281980&t=103)** Here I'm selecting all severities, include the secure score, security alerts and regulatory compliance.
+> **[1:43](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/continuous-export?u=76281980&t=103)** Here I'm selecting all severities, include the secure score, security alerts and [[Regulatory Compliance]].
 >
 > **[1:54](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/continuous-export?u=76281980&t=114)** Under export frequency, select the streaming updates checkbox and snapshots, which is still in preview.
 >
@@ -1955,7 +1936,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), cloud (4), data (4), [[Microsoft Defender|Defender]] (3), [[Microsoft Azure|Azure]] (2)
+> **Frameworks & Libraries:** [[Microsoft Defender|Defender]] (3), [[Microsoft Azure|Azure]] (2), [[Microsoft Defender]] (1), [[Regulatory Compliance]] (1)
 > **UI Navigation:** click on (4), select the (3), navigate to (1), checkbox (1)
 > **Env Vars:** csv (2), siem (1)
 > **Definitions:** is called (1), is an  (1)
@@ -1967,18 +1948,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Get started with Firewall Manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/get-started-with-firewall-manager?u=76281980)
+#### [Get started with Firewall Manager](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/get-started-with-firewall-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/get-started-with-firewall-manager?u=76281980&t=0)** - [Instructor] The firewall manager is a cloud-based, fully managed network security service.
+> **[0:00](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/get-started-with-firewall-manager?u=76281980&t=0)** - [Instructor] The firewall manager is a cloud-based, fully managed [[Network Security]] service.
 >
-> **[0:06](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/get-started-with-firewall-manager?u=76281980&t=6)** It provides central security policy and route management for all your Azure resources.
+> **[0:06](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/get-started-with-firewall-manager?u=76281980&t=6)** It provides central security policy and route management for all your [[Microsoft Azure|Azure]] resources.
 >
 > **[0:13](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/get-started-with-firewall-manager?u=76281980&t=13)** Azure Firewall Manager enables you to centralize management of multiple instances of Azure firewall.
 >
-> **[0:21](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/get-started-with-firewall-manager?u=76281980&t=21)** It is a fully stateful firewall as a service with built-in high availability and unrestricted cloud scalability.
+> **[0:21](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/get-started-with-firewall-manager?u=76281980&t=21)** It is a fully stateful firewall as a service with built-in high availability and unrestricted cloud [[Scalability]].
 >
 > **[0:30](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/get-started-with-firewall-manager?u=76281980&t=30)** You can centrally create and enforce applications and network connectivity policies across subscriptions and virtual networks.
 >
@@ -2016,7 +1996,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/get-started-with-firewall-manager?u=76281980&t=144)** Threat intelligence based filtering can be enabled for your firewall to alert and deny traffic from or to non malicious IP addresses and domains.
 >
-> **[2:36](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/get-started-with-firewall-manager?u=76281980&t=156)** The IP addresses and domains are sourced from the Microsoft threat intelligence feed.
+> **[2:36](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/get-started-with-firewall-manager?u=76281980&t=156)** The IP addresses and domains are sourced from the [[Microsoft]] threat intelligence feed.
 >
 > **[2:43](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/get-started-with-firewall-manager?u=76281980&t=163)** Multiple public IP addresses.
 >
@@ -2034,7 +2014,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/get-started-with-firewall-manager?u=76281980&t=211)** An Azure virtual van hub is a Microsoft-managed resource that lets you easily create hub and spoke architectures.
 >
-> **[3:41](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/get-started-with-firewall-manager?u=76281980&t=221)** When security and routing policies are associated with such a hub, it's referred to as a secured virtual hub.
+> **[3:41](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/get-started-with-firewall-manager?u=76281980&t=221)** When security and [[Routing]] policies are associated with such a hub, it's referred to as a secured virtual hub.
 >
 > **[3:49](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/get-started-with-firewall-manager?u=76281980&t=229)** Azure firewall policy.
 >
@@ -2080,18 +2060,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (21), traffic (12), application (4), cloud (3), management (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (21), [[Scalability]] (2), [[Microsoft]] (2), [[Network Security]] (1), [[Routing]] (1)
 > **Env Vars:** nat (2), https (2), dnat (1), http (1)
 > **Definitions:** is a  (4)
 > **Prerequisites:** configure (4)
 > **Speakers:** - [instructor] (1)
 
-#### Create Azure Firewall policies
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/create-azure-firewall-policies?u=76281980)
+#### [Create Azure Firewall policies](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/create-azure-firewall-policies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/create-azure-firewall-policies?u=76281980&t=0)** - [Instructor] What is an Azure Firewall policy?
+> **[0:00](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/create-azure-firewall-policies?u=76281980&t=0)** - [Instructor] What is an [[Microsoft Azure|Azure]] Firewall policy?
 >
 > **[0:03](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/create-azure-firewall-policies?u=76281980&t=3)** Controlling outbound network traffic is a trivial part of an overall security plan.
 >
@@ -2121,7 +2100,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/create-azure-firewall-policies?u=76281980&t=91)** Now, let's jump into the hands-on practice, configuring firewall policy rules.
 >
-> **[1:38](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/create-azure-firewall-policies?u=76281980&t=98)** Navigate to the Firewall Manager option under the Microsoft Defender for Cloud.
+> **[1:38](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/create-azure-firewall-policies?u=76281980&t=98)** Navigate to the Firewall Manager option under the [[Microsoft Defender]] for Cloud.
 >
 > **[1:45](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/create-azure-firewall-policies?u=76281980&t=105)** A new page opens up where you see Azure Firewall Policies under the Security section.
 >
@@ -2139,9 +2118,9 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/create-azure-firewall-policies?u=76281980&t=159)** Select the firewall and then click Create.
 >
-> **[2:43](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/create-azure-firewall-policies?u=76281980&t=163)** As you know, Azure Firewall is a managed cloud-based network security service that protects your Azure virtual network resources.
+> **[2:43](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/create-azure-firewall-policies?u=76281980&t=163)** As you know, Azure Firewall is a managed cloud-based [[Network Security]] service that protects your Azure virtual network resources.
 >
-> **[2:52](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/create-azure-firewall-policies?u=76281980&t=172)** It is a fully stateful firewall as a service with built-in high availability and unrestricted cloud scalability.
+> **[2:52](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/create-azure-firewall-policies?u=76281980&t=172)** It is a fully stateful firewall as a service with built-in high availability and unrestricted cloud [[Scalability]].
 >
 > **[3:01](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/create-azure-firewall-policies?u=76281980&t=181)** Now, let's choose the resource group where we need to deploy our firewall.
 >
@@ -2161,7 +2140,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/create-azure-firewall-policies?u=76281980&t=223)** Now, under the Firewall policy, we'll select Add new to add a new firewall policy.
 >
-> **[3:50](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/create-azure-firewall-policies?u=76281980&t=230)** I'll give the name of policy as LinkedIn-Demo-policy.
+> **[3:50](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/create-azure-firewall-policies?u=76281980&t=230)** I'll give the name of policy as [[LinkedIn]]-Demo-policy.
 >
 > **[3:54](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/create-azure-firewall-policies?u=76281980&t=234)** Policy tier would be standard.
 >
@@ -2221,7 +2200,7 @@ created: 2026-05-02
 >
 > **[5:56](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/create-azure-firewall-policies?u=76281980&t=356)** Open that newly created firewall policy and we will create an application rule.
 >
-> **[6:02](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/create-azure-firewall-policies?u=76281980&t=362)** This application rule will allow outbound access to www.[google.com](https://google.com).
+> **[6:02](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/create-azure-firewall-policies?u=76281980&t=362)** This application rule will allow outbound access to www.[[[Google]].com](https://google.com).
 >
 > **[6:08](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/create-azure-firewall-policies?u=76281980&t=368)** Click on the name of the policy.
 >
@@ -2345,7 +2324,7 @@ created: 2026-05-02
 >
 > **[10:58](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/create-azure-firewall-policies?u=76281980&t=658)** As expected, because we had white listed the Google, it has opened this website for us.
 >
-> **[11:06](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/create-azure-firewall-policies?u=76281980&t=666)** Now, let's open another browser and try [microsoft.com](https://microsoft.com).
+> **[11:06](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/create-azure-firewall-policies?u=76281980&t=666)** Now, let's open another browser and try [[[Microsoft]].com](https://microsoft.com).
 >
 > **[11:14](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/create-azure-firewall-policies?u=76281980&t=674)** So, you can see the action is denied.
 >
@@ -2357,7 +2336,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), application (6), [[Google]] (5), traffic (4), [[Security]] (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), [[Google]] (5), [[Microsoft]] (2), [[Microsoft Defender]] (1), [[Network Security]] (1)
 > **Env Vars:** dnat (7), rdp (4), fqdn (2), dns (2), ssl (1)
 > **UI Navigation:** click on (9), select the (4), go to (3), navigate to (1)
 > **Definitions:** is a  (5), is an  (2)
@@ -2366,8 +2345,7 @@ created: 2026-05-02
 > **URLs:** [google.com](https://google.com) (3), [microsoft.com](https://microsoft.com) (1)
 > **CLI Commands:** find (1)
 
-#### Secure your virtual hub
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/secure-your-virtual-hub?u=76281980)
+#### [Secure your virtual hub](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/secure-your-virtual-hub?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2375,7 +2353,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/secure-your-virtual-hub?u=76281980&t=3)** What is a virtual hub?
 >
-> **[0:05](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/secure-your-virtual-hub?u=76281980&t=5)** A secured virtual hub is an Azure Virtual WAN hub with associated security and routing policies configured by Azure Firewall Manager.
+> **[0:05](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/secure-your-virtual-hub?u=76281980&t=5)** A secured virtual hub is an [[Microsoft Azure|Azure]] Virtual WAN hub with associated security and [[Routing]] policies configured by Azure Firewall Manager.
 >
 > **[0:17](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/secure-your-virtual-hub?u=76281980&t=17)** A secured hub can be used to filter traffic between virtual networks, virtual network and branch offices, and filter traffic to the internet.
 >
@@ -2393,7 +2371,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/secure-your-virtual-hub?u=76281980&t=76)** As a prerequisite, we have already created two VNets and also defined their respective subnets in our Azure portal.
 >
-> **[1:25](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/secure-your-virtual-hub?u=76281980&t=85)** From Microsoft Defender for Cloud, click on Firewall Manager.
+> **[1:25](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/secure-your-virtual-hub?u=76281980&t=85)** From [[Microsoft Defender]] for Cloud, click on Firewall Manager.
 >
 > **[1:30](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/secure-your-virtual-hub?u=76281980&t=90)** Now under deployment, you will see virtual hubs.
 >
@@ -2459,7 +2437,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/secure-your-virtual-hub?u=76281980&t=230)** Once the peering has been created successfully, we will be creating firewall policies to secure our hub.
 >
-> **[3:58](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/secure-your-virtual-hub?u=76281980&t=238)** Firstly, we will add an application rule for allowing *.[microsoft.com](https://microsoft.com).
+> **[3:58](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/secure-your-virtual-hub?u=76281980&t=238)** Firstly, we will add an application rule for allowing *.[[[Microsoft]].com](https://microsoft.com).
 >
 > **[4:04](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/secure-your-virtual-hub?u=76281980&t=244)** Next, we will add a DNAT rule so that we can connect a remote desktop to Srv-01 virtual machine.
 >
@@ -2541,7 +2519,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (13), traffic (11), [[Security]] (5), next (4), [[Routing]] (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (13), [[Routing]] (3), [[Microsoft]] (2), [[Microsoft Defender]] (1)
 > **UI Navigation:** click on (6), select the (2), open the (2), navigate to (1)
 > **Env Vars:** wan (3), dns (2), rdp (2), dnat (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (2)
@@ -2550,14 +2528,13 @@ created: 2026-05-02
 > **Prerequisites:** configure (1), prerequisite (1)
 > **Warnings:** warning (1)
 
-#### Secure your hub virtual network
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/secure-your-hub-virtual-network?u=76281980)
+#### [Secure your hub virtual network](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/secure-your-hub-virtual-network?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/secure-your-hub-virtual-network?u=76281980&t=0)** - [Instructor] What is a hub virtual network?
 >
-> **[0:03](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/secure-your-hub-virtual-network?u=76281980&t=3)** Hub virtual network is a standard Azure virtual network that can be easily created and managed.
+> **[0:03](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/secure-your-hub-virtual-network?u=76281980&t=3)** Hub virtual network is a standard [[Microsoft Azure|Azure]] virtual network that can be easily created and managed.
 >
 > **[0:10](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/secure-your-hub-virtual-network?u=76281980&t=10)** When security policies are associated with it, it's referred to as hub virtual network.
 >
@@ -2565,7 +2542,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/secure-your-hub-virtual-network?u=76281980&t=23)** Uses of hub virtual network.
 >
-> **[0:27](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/secure-your-hub-virtual-network?u=76281980&t=27)** The hub virtual network can be used to secure your hybrid network traffic destined to the private IP address, secure your Azure PaaS resources, and also secure connectivity to the internet.
+> **[0:27](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/secure-your-hub-virtual-network?u=76281980&t=27)** The hub virtual network can be used to secure your hybrid network traffic destined to the private IP address, secure your Azure [[PaaS]] resources, and also secure connectivity to the internet.
 >
 > **[0:42](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/secure-your-hub-virtual-network?u=76281980&t=42)** We can configure hub virtual network by creating a few resources.
 >
@@ -2603,7 +2580,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/secure-your-hub-virtual-network?u=76281980&t=138)** The second route would be a default route, from the spoke through the firewall IP address named UDR-DG.
 >
-> **[2:26](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/secure-your-hub-virtual-network?u=76281980&t=146)** Next, we shall create two virtual machines.
+> **[2:26](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/secure-your-hub-virtual-network?u=76281980&t=146)** Next, we shall create two [[Virtual Machines]].
 >
 > **[2:30](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/secure-your-hub-virtual-network?u=76281980&t=150)** One would be placed in the workload subnet and the other in the on-premises subnet.
 >
@@ -2673,7 +2650,7 @@ created: 2026-05-02
 >
 > **[5:59](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/secure-your-hub-virtual-network?u=76281980&t=359)** Next, I converted my VNet hub into a secured virtual network.
 >
-> **[6:04](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/secure-your-hub-virtual-network?u=76281980&t=364)** To do so, I went to the firewall manager under Microsoft Defender for Cloud.
+> **[6:04](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/secure-your-hub-virtual-network?u=76281980&t=364)** To do so, I went to the firewall manager under [[Microsoft Defender]] for Cloud.
 >
 > **[6:11](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/secure-your-hub-virtual-network?u=76281980&t=371)** Under deployment, selected the virtual network.
 >
@@ -2801,7 +2778,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** vpn (9), [[Microsoft Azure|Azure]] (8), next (7), web (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[PaaS]] (1), [[Virtual Machines]] (1), [[Microsoft Defender]] (1)
 > **Env Vars:** vpn (9), rdp (4), udr (2), iis (2), sku (2)
 > **UI Navigation:** go to (4), click on (4), navigate to (2)
 > **Prerequisites:** setup (3), configure (2), set up (1)
@@ -2809,12 +2786,11 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Security partner providers
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/security-partner-providers?u=76281980)
+#### [Security partner providers](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/security-partner-providers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/security-partner-providers?u=76281980&t=0)** - [Instructor] Security Partner Providers Security partner providers in Azure Firewall Manager enables us to use our familiar, best-in-breed, third-party security as a service offering to protect Internet access for our users.
+> **[0:00](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/security-partner-providers?u=76281980&t=0)** - [Instructor] Security Partner Providers Security partner providers in [[Microsoft Azure|Azure]] Firewall Manager enables us to use our familiar, best-in-breed, third-party security as a service offering to protect Internet access for our users.
 >
 > **[0:18](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/security-partner-providers?u=76281980&t=18)** With a quick configuration, we can secure a hub with the supported security partner, route and filter Internet traffic from our VNet or branch locations within our region.
 >
@@ -2824,7 +2800,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/security-partner-providers?u=76281980&t=50)** Let's look at the procedure of deploying our own third-party security partner from one of these available options.
 >
-> **[0:59](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/security-partner-providers?u=76281980&t=59)** Under Microsoft Defender for Cloud open Firewall Manager, here, under security you see the option Security Partner Providers.
+> **[0:59](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/security-partner-providers?u=76281980&t=59)** Under [[Microsoft Defender]] for Cloud open Firewall Manager, here, under security you see the option Security Partner Providers.
 >
 > **[1:09](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/security-partner-providers?u=76281980&t=69)** Click on the security partner providers.
 >
@@ -2900,15 +2876,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (22), [[Microsoft Azure|Azure]] (7), traffic (3), next (3), management (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Microsoft Defender]] (1)
 > **Env Vars:** wan (4), cidr (1), vwan (1), vpn (1)
 > **UI Navigation:** click on (4), go to (2), checkbox (1)
 > **Prerequisites:** setup (1), set up (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### DDoS protection plans
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/ddos-protection-plans?u=76281980)
+#### [DDoS protection plans](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/ddos-protection-plans?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2922,11 +2897,11 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/ddos-protection-plans?u=76281980&t=24)** What is a DDoS protection plan?
 >
-> **[0:27](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/ddos-protection-plans?u=76281980&t=27)** Basic DDoS protection is integrated into Azure platform by default with no additional cost. DDoS protection plan can be linked to multiple VNets within your organization.
+> **[0:27](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/ddos-protection-plans?u=76281980&t=27)** Basic DDoS protection is integrated into [[Microsoft Azure|Azure]] platform by default with no additional cost. DDoS protection plan can be linked to multiple VNets within your organization.
 >
 > **[0:41](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/ddos-protection-plans?u=76281980&t=41)** Let's learn the steps to create a DDoS protection plan.
 >
-> **[0:46](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/ddos-protection-plans?u=76281980&t=46)** Under the Microsoft defender for Cloud, navigate to the Firewall Manager under Microsoft defender for Cloud. Here under security you see the DDoS protection plans.
+> **[0:46](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/ddos-protection-plans?u=76281980&t=46)** Under the [[Microsoft Defender]] for Cloud, navigate to the Firewall Manager under Microsoft defender for Cloud. Here under security you see the DDoS protection plans.
 >
 > **[0:59](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/ddos-protection-plans?u=76281980&t=59)** This feature is still in preview for now.
 >
@@ -2976,7 +2951,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Microsoft Defender]] (2), cloud (2), application (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Microsoft Defender]] (2)
 > **UI Navigation:** click on (4), navigate to (1)
 > **Definitions:** is a  (3), stands for (1)
 > **Tools:** azure portal (1)
@@ -2988,16 +2963,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Integrate security solutions and data sources
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/integrate-security-solutions-and-data-sources?u=76281980)
+#### [Integrate security solutions and data sources](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/integrate-security-solutions-and-data-sources?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/integrate-security-solutions-and-data-sources?u=76281980&t=0)** - [Instructor] All about security solution integration.
 >
-> **[0:03](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/integrate-security-solutions-and-data-sources?u=76281980&t=3)** Defender for Cloud makes it easy to enable integrated security solutions in Azure.
+> **[0:03](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/integrate-security-solutions-and-data-sources?u=76281980&t=3)** [[Microsoft Defender|Defender]] for Cloud makes it easy to enable integrated security solutions in [[Microsoft Azure|Azure]].
 >
-> **[0:09](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/integrate-security-solutions-and-data-sources?u=76281980&t=9)** It can provision the agents on your virtual machines.
+> **[0:09](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/integrate-security-solutions-and-data-sources?u=76281980&t=9)** It can provision the agents on your [[Virtual Machines]].
 >
 > **[0:13](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/integrate-security-solutions-and-data-sources?u=76281980&t=13)** Security events from partner solutions are automatically collected, aggregated and displayed as alerts and incidents.
 >
@@ -3075,15 +3049,15 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/integrate-security-solutions-and-data-sources?u=76281980&t=207)** A 30-day free trial period will be available for our Log Analytics workspace.
 >
-> **[3:34](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/integrate-security-solutions-and-data-sources?u=76281980&t=214)** And you can see that Microsoft Defender for server will be applied $15 per node per month.
+> **[3:34](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/integrate-security-solutions-and-data-sources?u=76281980&t=214)** And you can see that [[Microsoft Defender]] for server will be applied $15 per node per month.
 >
 > **[3:40](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/integrate-security-solutions-and-data-sources?u=76281980&t=220)** You can also click on pricing details to know more about the cost.
 >
 > **[3:47](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/integrate-security-solutions-and-data-sources?u=76281980&t=227)** Now, you get an option to Add Server.
 >
-> **[3:50](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/integrate-security-solutions-and-data-sources?u=76281980&t=230)** Here, currently you see there are zero Windows computers connected and zero Linux computers connected.
+> **[3:50](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/integrate-security-solutions-and-data-sources?u=76281980&t=230)** Here, currently you see there are zero [[Windows]] computers connected and zero [[Linux]] computers connected.
 >
-> **[3:57](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/integrate-security-solutions-and-data-sources?u=76281980&t=237)** For Windows server, you can download an agent for your operating system, then install and configure it using the keys for your workspace ID.
+> **[3:57](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/integrate-security-solutions-and-data-sources?u=76281980&t=237)** For [[Windows Server]], you can download an agent for your operating system, then install and configure it using the keys for your workspace ID.
 >
 > **[4:06](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/integrate-security-solutions-and-data-sources?u=76281980&t=246)** So here you see, you can download the agent for your operating system, then install and configure it using the keys for your workspace ID.
 >
@@ -3101,7 +3075,7 @@ created: 2026-05-02
 >
 > **[5:00](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/integrate-security-solutions-and-data-sources?u=76281980&t=300)** Click Next.
 >
-> **[5:03](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/integrate-security-solutions-and-data-sources?u=76281980&t=303)** It is recommended to use Microsoft Update.
+> **[5:03](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/integrate-security-solutions-and-data-sources?u=76281980&t=303)** It is recommended to use [[Microsoft]] Update.
 >
 > **[5:07](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/integrate-security-solutions-and-data-sources?u=76281980&t=307)** Click Next and click Install.
 >
@@ -3229,7 +3203,7 @@ created: 2026-05-02
 >
 > **[9:48](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/integrate-security-solutions-and-data-sources?u=76281980&t=588)** Minimum instance count is one, maximum five.
 >
-> **[9:52](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/integrate-security-solutions-and-data-sources?u=76281980&t=592)** I've kept rest everything as default.
+> **[9:52](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/integrate-security-solutions-and-data-sources?u=76281980&t=592)** I've kept [[Representational State Transfer (REST)|rest]] everything as default.
 >
 > **[9:55](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/integrate-security-solutions-and-data-sources?u=76281980&t=595)** Here, I will create a new virtual network.
 >
@@ -3255,7 +3229,7 @@ created: 2026-05-02
 >
 > **[10:43](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/integrate-security-solutions-and-data-sources?u=76281980&t=643)** Click on Add.
 >
-> **[10:45](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/integrate-security-solutions-and-data-sources?u=76281980&t=645)** Next, I'll go to the Configuration tab and add a routing rule over here.
+> **[10:45](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/integrate-security-solutions-and-data-sources?u=76281980&t=645)** Next, I'll go to the Configuration tab and add a [[Routing]] rule over here.
 >
 > **[10:51](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/integrate-security-solutions-and-data-sources?u=76281980&t=651)** A routing rule is used to send traffic from a given frontend IP address to one or more backend targets.
 >
@@ -3285,7 +3259,7 @@ created: 2026-05-02
 >
 > **[11:47](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/integrate-security-solutions-and-data-sources?u=76281980&t=707)** IIS has been installed on both the VMs.
 >
-> **[11:51](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/integrate-security-solutions-and-data-sources?u=76281980&t=711)** This is the PowerShell command that can be used to install the IIS on your Windows servers.
+> **[11:51](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/integrate-security-solutions-and-data-sources?u=76281980&t=711)** This is the [[Powershell]] command that can be used to install the IIS on your Windows servers.
 >
 > **[11:59](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/integrate-security-solutions-and-data-sources?u=76281980&t=719)** Now, we are going to add our virtual machines to our backend pool.
 >
@@ -3355,9 +3329,9 @@ created: 2026-05-02
 >
 > **[14:23](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/integrate-security-solutions-and-data-sources?u=76281980&t=863)** I have implemented Microsoft Defender's security solution in one of our partners environment.
 >
-> **[14:30](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/integrate-security-solutions-and-data-sources?u=76281980&t=870)** This solution enables them in eliminating third-party security products and associated vendor relationships.
+> **[14:30](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/integrate-security-solutions-and-data-sources?u=76281980&t=870)** This solution enables them in eliminating third-party security [[Microsoft Products|products]] and associated vendor relationships.
 >
-> **[14:38](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/integrate-security-solutions-and-data-sources?u=76281980&t=878)** Integrating Microsoft Defender helped the customer to overcome data challenges encountered with modern cybersecurity.
+> **[14:38](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/integrate-security-solutions-and-data-sources?u=76281980&t=878)** Integrating Microsoft Defender helped the customer to overcome data challenges encountered with modern [[Cybersecurity]].
 >
 > **[14:46](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/integrate-security-solutions-and-data-sources?u=76281980&t=886)** It also helps them integrate alerts from multiple locations in a single place.
 >
@@ -3365,7 +3339,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (14), [[Microsoft Azure|Azure]] (13), application (12), [[Security]] (11), data (7)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (13), [[Microsoft Defender|Defender]] (5), [[Microsoft Defender]] (5), [[Windows]] (5), [[Virtual Machines]] (4)
 > **UI Navigation:** click on (23), go to (8), select the (6), navigate to (1), open the (1)
 > **Env Vars:** waf (14), siem (4), add (3), aws (2), mma (2)
 > **Prerequisites:** install (4), configure (3), setup (2)
@@ -3374,8 +3348,7 @@ created: 2026-05-02
 > **Tools:** azure portal (1), powershell (1)
 > **Best Practices:** recommended (2)
 
-#### Configuring workflow automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/configuring-workflow-automation?u=76281980)
+#### [Configuring workflow automation](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/configuring-workflow-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3383,13 +3356,13 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/configuring-workflow-automation?u=76281980&t=3)** Security experts recommend including automation to your security solutions to reduce overheads and enhance consistency as well as to avoid human errors that can be caused due to manual interventions.
 >
-> **[0:18](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/configuring-workflow-automation?u=76281980&t=18)** Workflow automation feature enables users to trigger Logic apps, providing notifications for security alerts, recommendations, and changes made to the regulatory compliance.
+> **[0:18](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/configuring-workflow-automation?u=76281980&t=18)** Workflow automation feature enables users to trigger Logic apps, providing notifications for security alerts, recommendations, and changes made to the [[Regulatory Compliance]].
 >
 > **[0:32](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/configuring-workflow-automation?u=76281980&t=32)** Logic apps help in triggering automated alert emails, which can be directed to specific users in your organization.
 >
 > **[0:40](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/configuring-workflow-automation?u=76281980&t=40)** Let's learn how to create a Logic app and define the conditions where the alerts can be triggered automatically.
 >
-> **[0:48](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/configuring-workflow-automation?u=76281980&t=48)** From Defender for Cloud sidebar, select Workflow automation.
+> **[0:48](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/configuring-workflow-automation?u=76281980&t=48)** From [[Microsoft Defender|Defender]] for Cloud sidebar, select Workflow automation.
 >
 > **[0:53](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/configuring-workflow-automation?u=76281980&t=53)** This page allows users to create new automation rules as well as enable, disable or delete any existing rule.
 >
@@ -3439,7 +3412,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/configuring-workflow-automation?u=76281980&t=163)** I'll select that Logic app.
 >
-> **[2:46](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/configuring-workflow-automation?u=76281980&t=166)** If you wish to learn more about creating Logic apps, please refer to the LinkedIn course, Azure Logic App.
+> **[2:46](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/configuring-workflow-automation?u=76281980&t=166)** If you wish to learn more about creating Logic apps, please refer to the [[LinkedIn]] course, [[Microsoft Azure|Azure]] Logic App.
 >
 > **[2:54](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/configuring-workflow-automation?u=76281980&t=174)** Click create and your Workflow automation Logic is ready.
 >
@@ -3467,7 +3440,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (18), [[Security]] (7), feature (2), [[Regulatory Compliance]] (2), [[Microsoft Defender|Defender]] (1)
+> **Frameworks & Libraries:** [[Regulatory Compliance]] (2), [[Microsoft Defender|Defender]] (1), [[LinkedIn]] (1), [[Microsoft Azure|Azure]] (1)
 > **UI Navigation:** click on (2), select the (1)
 > **Prerequisites:** configure (2), set up (1)
 > **Speakers:** - [instructor] (1)
@@ -3477,32 +3450,31 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### More about Azure security
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/more-about-azure-security?u=76281980)
+#### [More about Azure security](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/more-about-azure-security?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/more-about-azure-security?u=76281980&t=0)** - Security is integrated into every aspect of Azure.
+> **[0:00](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/more-about-azure-security?u=76281980&t=0)** - Security is integrated into every aspect of [[Microsoft Azure|Azure]].
 >
 > **[0:04](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/more-about-azure-security?u=76281980&t=4)** Azure offers unique security advantages derived from global security intelligence, sophisticated customer-facing controls, and a secure hardened infrastructure.
 >
-> **[0:16](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/more-about-azure-security?u=76281980&t=16)** In this course, we did explore all the areas of one of the major services in Azure security, namely Microsoft Defender for Cloud, and learned how it can help us in defending our cyberspace.
+> **[0:16](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/more-about-azure-security?u=76281980&t=16)** In this course, we did explore all the areas of one of the major services in Azure security, namely [[Microsoft Defender]] for Cloud, and learned how it can help us in defending our cyberspace.
 >
 > **[0:30](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/more-about-azure-security?u=76281980&t=30)** Now that you all are well versed with the concept of Microsoft Defender for Cloud, it's time to take the next step to further develop your knowledge in the field of Azure security.
 >
-> **[0:42](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/more-about-azure-security?u=76281980&t=42)** You can visit Microsoft doc's link.
+> **[0:42](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/more-about-azure-security?u=76281980&t=42)** You can visit [[Microsoft]] doc's link.
 >
-> **[0:46](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/more-about-azure-security?u=76281980&t=46)** This page takes you through the concepts of cloud security.
+> **[0:46](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/more-about-azure-security?u=76281980&t=46)** This page takes you through the concepts of [[Cloud Security]].
 >
 > **[0:50](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/more-about-azure-security?u=76281980&t=50)** It also directs you towards using best practices and recommendations to secure your cloud deployments.
 >
-> **[0:57](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/more-about-azure-security?u=76281980&t=57)** If you're planning to write your SC-200, that is Microsoft Security Operations Analyst exam in the new future, congratulations, you have already covered approximately 30% of the exam topics while going through my course on Microsoft Defender for Cloud.
+> **[0:57](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/more-about-azure-security?u=76281980&t=57)** If you're planning to write your SC-200, that is [[Microsoft Security]] Operations Analyst exam in the new future, congratulations, you have already covered approximately 30% of the exam topics while going through my course on Microsoft Defender for Cloud.
 >
-> **[1:16](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/more-about-azure-security?u=76281980&t=76)** Feel free to connect with me on my LinkedIn profile and share how you applied, what you learned in this course.
+> **[1:16](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/more-about-azure-security?u=76281980&t=76)** Feel free to connect with me on my [[LinkedIn]] profile and share how you applied, what you learned in this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), cloud (5), [[Microsoft Azure|Azure]] (4), [[Microsoft Defender]] (3), next (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Microsoft Defender]] (3), [[Microsoft]] (1), [[Cloud Security]] (1), [[Microsoft Security]] (1)
 > **Speakers:** - security (1)
 
 

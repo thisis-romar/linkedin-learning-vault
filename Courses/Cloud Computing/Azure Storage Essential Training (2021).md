@@ -93,16 +93,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to Azure Storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/introduction-to-azure-storage?u=76281980)
+#### [Introduction to Azure Storage](https://www.linkedin.com/learning/azure-storage-essential-training-2021/introduction-to-azure-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/introduction-to-azure-storage?u=76281980&t=0)** - [Charbel] Azure Storage is Microsoft cloud storage solution for more than data storage.
+> **[0:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/introduction-to-azure-storage?u=76281980&t=0)** - [Charbel] [[Microsoft Azure|Azure]] Storage is [[Microsoft]] [[Cloud Storage]] solution for more than [[Data Storage]].
 >
-> **[0:04](https://www.linkedin.com/learning/azure-storage-essential-training-2021/introduction-to-azure-storage?u=76281980&t=4)** Azure Storage offers a massively scalable object store for data objects, file systems service for the cloud in messaging store for relevant messaging and in SQL store.
+> **[0:04](https://www.linkedin.com/learning/azure-storage-essential-training-2021/introduction-to-azure-storage?u=76281980&t=4)** Azure Storage offers a massively scalable object store for data objects, file systems service for the cloud in messaging store for relevant messaging and in [[SQL]] store.
 >
-> **[0:15](https://www.linkedin.com/learning/azure-storage-essential-training-2021/introduction-to-azure-storage?u=76281980&t=15)** In this course, you will learn how to leverage the Azure Storage service to store files, cue messages and the blowups to offload the heavy lifting of storage management in your data center.
+> **[0:15](https://www.linkedin.com/learning/azure-storage-essential-training-2021/introduction-to-azure-storage?u=76281980&t=15)** In this course, you will learn how to leverage the Azure Storage service to store files, cue messages and the blowups to offload the heavy lifting of [[Storage Management]] in your data center.
 >
 > **[0:25](https://www.linkedin.com/learning/azure-storage-essential-training-2021/introduction-to-azure-storage?u=76281980&t=25)** These stores can be shared securely and used by websites, mobile apps, desktop applications, on premises users and a branch offices from anywhere in the world.
 >
@@ -110,26 +109,25 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/azure-storage-essential-training-2021/introduction-to-azure-storage?u=76281980&t=38)** I've been working with Microsoft technologies for almost 20 years.
 >
-> **[0:41](https://www.linkedin.com/learning/azure-storage-essential-training-2021/introduction-to-azure-storage?u=76281980&t=41)** I am also a Microsoft MVP, Microsoft Certified Trainer MCT and Certified Cloud Security Professional CCSP.
+> **[0:41](https://www.linkedin.com/learning/azure-storage-essential-training-2021/introduction-to-azure-storage?u=76281980&t=41)** I am also a Microsoft MVP, Microsoft Certified Trainer MCT and Certified [[Cloud Security]] Professional CCSP.
 >
-> **[0:49](https://www.linkedin.com/learning/azure-storage-essential-training-2021/introduction-to-azure-storage?u=76281980&t=49)** If you are ready to take your Azure Storage skills to the next level, then come join me in my LinkedIn learning course on Azure Storage.
+> **[0:49](https://www.linkedin.com/learning/azure-storage-essential-training-2021/introduction-to-azure-storage?u=76281980&t=49)** If you are ready to take your Azure Storage skills to the next level, then come join me in my [[LinkedIn]] learning course on Azure Storage.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Microsoft]] (4), cloud (3), data (3), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Microsoft]] (4), [[Cloud Storage]] (1), [[Data Storage]] (1), [[SQL]] (1)
 > **Env Vars:** sql (1), mvp (1), mct (1), ccsp (1)
 > **Speakers:** - [charbel] (1)
 
-#### Azure Storage services
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-services?u=76281980)
+#### [Azure Storage services](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-services?u=76281980&t=0)** - [Instructor] Azure Storage is a service that you can use to store files, messages, tables, and other types of data.
+> **[0:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-services?u=76281980&t=0)** - [Instructor] [[Microsoft Azure|Azure]] Storage is a service that you can use to store files, messages, tables, and other types of data.
 >
 > **[0:06](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-services?u=76281980&t=6)** It's a scalable, secure, easy to manage and can be accessed from anywhere.
 >
-> **[0:11](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-services?u=76281980&t=11)** Azure Storage is also used by IaaS virtual machines and PaaS cloud services, and offers two years a standard HDD and a premium tier based on SSD.
+> **[0:11](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-services?u=76281980&t=11)** Azure Storage is also used by [[IaaS]] [[Virtual Machines]] and [[PaaS]] [[Cloud Services]], and offers two years a standard HDD and a premium tier based on SSD.
 >
 > **[0:22](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-services?u=76281980&t=22)** Azure Storage includes four data services.
 >
@@ -141,9 +139,9 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-services?u=76281980&t=46)** Azure Table storage is now part of Azure Cosmos DB and is out of the scope for this course.
 >
-> **[0:53](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-services?u=76281980&t=53)** Azure Blob storage is Microsoft object storage solution for the cloud.
+> **[0:53](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-services?u=76281980&t=53)** Azure Blob storage is [[Microsoft]] object storage solution for the cloud.
 >
-> **[0:56](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-services?u=76281980&t=56)** Blob storage is optimized for storing massive amounts of unstructured data such as stacks or binary data.
+> **[0:56](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-services?u=76281980&t=56)** Blob storage is optimized for storing massive amounts of [[Unstructured Data]] such as stacks or binary data.
 >
 > **[1:03](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-services?u=76281980&t=63)** Blob storage is ideal for serving images or documents directly to a browser.
 >
@@ -157,9 +155,9 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-services?u=76281980&t=80)** Objects and Blob storage can be accessed from anywhere in the world via HTTP or HTTPS.
 >
-> **[1:26](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-services?u=76281980&t=86)** Users or clients application can access Blobs via URLs, the Azure storage risk, API, Azure PowerShell, Azure CLI, or with the Azure Storage client library.
+> **[1:26](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-services?u=76281980&t=86)** Users or clients application can access Blobs via URLs, the Azure storage risk, API, Azure [[Powershell]], Azure [[CLI]], or with the Azure Storage client library.
 >
-> **[1:37](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-services?u=76281980&t=97)** The Storage client libraries are available for multiple languages, including .NET, Java, Node.js, for multiple languages, including .NET, Java, Node.js, Python, PHP, and Ruby.
+> **[1:37](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-services?u=76281980&t=97)** The Storage client libraries are available for multiple languages, including .NET, [[Java]], [[Node.js]], for multiple languages, including .NET, Java, Node.js, [[Python (Programming Language)|Python]], [[PHP]], and Ruby.
 >
 > **[1:46](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-services?u=76281980&t=106)** Azure Files enables you to setup, highly available network file share that can be accessed by using the standard Server Message Block, SMB and NFS protocols.
 >
@@ -187,7 +185,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (19), data (10), application (5), cloud (3), [[Virtual Machines]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (19), [[Virtual Machines]] (2), [[Java]] (2), [[Node.js]] (2), [[IaaS]] (1)
 > **Env Vars:** net (2), hdd (1), ssd (1), http (1), https (1)
 > **CLI Commands:** node (2), python (1), php (1), ruby (1), find (1)
 > **File Paths:** node.js (2)
@@ -201,12 +199,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Azure Storage accounts and replication
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-accounts-and-replication?u=76281980)
+#### [Azure Storage accounts and replication](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-accounts-and-replication?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-accounts-and-replication?u=76281980&t=0)** - [Instructor] Azure storage accounts, replication strategies and access.
+> **[0:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-accounts-and-replication?u=76281980&t=0)** - [Instructor] [[Microsoft Azure|Azure]] storage accounts, replication strategies and access.
 >
 > **[0:05](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-accounts-and-replication?u=76281980&t=5)** Azure storage offers several types of storage accounts.
 >
@@ -220,7 +217,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-accounts-and-replication?u=76281980&t=30)** Recommended for scenarios was high transaction rates using smaller objects or requiring consistently low storage latency.
 >
-> **[0:38](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-accounts-and-replication?u=76281980&t=38)** General-purpose v1 accounts, this is legacy account type for blobs, files, queues and tables Microsoft recommends using general-purpose v2 instead one possible.
+> **[0:38](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-accounts-and-replication?u=76281980&t=38)** General-purpose v1 accounts, this is legacy account type for blobs, files, queues and tables [[Microsoft]] recommends using general-purpose v2 instead one possible.
 >
 > **[0:50](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-accounts-and-replication?u=76281980&t=50)** General-purpose v2, this is basic storage account type for blobs, files, queues and table.
 >
@@ -234,7 +231,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-accounts-and-replication?u=76281980&t=76)** However, use a general-purpose v2 account instead one possible.
 >
-> **[1:21](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-accounts-and-replication?u=76281980&t=81)** Azure storage uses replication copies of your data so that it's protected from planned and unplanned events ranging from transients hardware feeder to network or power outages and even massive natural disasters.
+> **[1:21](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-accounts-and-replication?u=76281980&t=81)** Azure storage uses replication copies of your data so that it's protected from planned and unplanned events ranging from transients [[Hardware]] feeder to network or power outages and even massive natural disasters.
 >
 > **[1:35](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-accounts-and-replication?u=76281980&t=95)** You can choose to duplicate your data within the same data center across zonal data centers within the same region, or even across regions.
 >
@@ -306,19 +303,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[Microsoft Azure|Azure]] (7), [[Microsoft]] (4), application (2), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Microsoft]] (4), [[Hardware]] (1)
 > **Env Vars:** grs (11), zrs (4), url (2), lrs (2), sla (1)
 > **Best Practices:** recommended (3)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Binary large object storage (Blob)
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/binary-large-object-storage-blob?u=76281980)
+#### [Binary large object storage (Blob)](https://www.linkedin.com/learning/azure-storage-essential-training-2021/binary-large-object-storage-blob?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/binary-large-object-storage-blob?u=76281980&t=0)** - [Instructor] Azure Blob Storage is a service that stores unstructured data in the cloud, as objects Blobs.
+> **[0:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/binary-large-object-storage-blob?u=76281980&t=0)** - [Instructor] [[Microsoft Azure|Azure]] Blob Storage is a service that stores [[Unstructured Data]] in the cloud, as objects Blobs.
 >
 > **[0:06](https://www.linkedin.com/learning/azure-storage-essential-training-2021/binary-large-object-storage-blob?u=76281980&t=6)** Blob storage can store any type of texts or binary data such as document, media file, or application distorter.
 >
@@ -344,12 +340,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), data (3), [[Unstructured Data]] (1), cloud (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Unstructured Data]] (1)
 > **Analogies:** such as (2), think of it as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Blob containers
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/blob-containers?u=76281980)
+#### [Blob containers](https://www.linkedin.com/learning/azure-storage-essential-training-2021/blob-containers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -359,7 +354,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/azure-storage-essential-training-2021/blob-containers?u=76281980&t=6)** A storage account can contain an unlimited number of containers, and the container can store an unlimited number of blobs.
 >
-> **[0:15](https://www.linkedin.com/learning/azure-storage-essential-training-2021/blob-containers?u=76281980&t=15)** Let's start by creating a blob container in the Azure portal.
+> **[0:15](https://www.linkedin.com/learning/azure-storage-essential-training-2021/blob-containers?u=76281980&t=15)** Let's start by creating a blob container in the [[Microsoft Azure|Azure]] portal.
 >
 > **[0:19](https://www.linkedin.com/learning/azure-storage-essential-training-2021/blob-containers?u=76281980&t=19)** This then requires that you already have a storage account.
 >
@@ -367,7 +362,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/azure-storage-essential-training-2021/blob-containers?u=76281980&t=28)** Select Add Container and enter a name.
 >
-> **[0:32](https://www.linkedin.com/learning/azure-storage-essential-training-2021/blob-containers?u=76281980&t=32)** For example, LinkedIn-container01.
+> **[0:32](https://www.linkedin.com/learning/azure-storage-essential-training-2021/blob-containers?u=76281980&t=32)** For example, [[LinkedIn]]-container01.
 >
 > **[0:39](https://www.linkedin.com/learning/azure-storage-essential-training-2021/blob-containers?u=76281980&t=39)** The name may only contain lowercase letters, numbers, and hyphens, and must begin with a letter or a number.
 >
@@ -387,11 +382,11 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/azure-storage-essential-training-2021/blob-containers?u=76281980&t=83)** As you can see, LinkedIn-container01 gets created.
 >
-> **[1:27](https://www.linkedin.com/learning/azure-storage-essential-training-2021/blob-containers?u=76281980&t=87)** Let's create now a second blob container with Azure PowerShell.
+> **[1:27](https://www.linkedin.com/learning/azure-storage-essential-training-2021/blob-containers?u=76281980&t=87)** Let's create now a second blob container with Azure [[Powershell]].
 >
 > **[1:32](https://www.linkedin.com/learning/azure-storage-essential-training-2021/blob-containers?u=76281980&t=92)** We can create a blob container with PowerShell using the new AzStorageContainer command.
 >
-> **[1:38](https://www.linkedin.com/learning/azure-storage-essential-training-2021/blob-containers?u=76281980&t=98)** You can also use the Cloud Shell where all the modules are constantly being updated by Microsoft.
+> **[1:38](https://www.linkedin.com/learning/azure-storage-essential-training-2021/blob-containers?u=76281980&t=98)** You can also use the Cloud Shell where all the modules are constantly being updated by [[Microsoft]].
 >
 > **[1:43](https://www.linkedin.com/learning/azure-storage-essential-training-2021/blob-containers?u=76281980&t=103)** Here, I define the characteristic of the environment and the resource properties that I need.
 >
@@ -409,19 +404,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[LinkedIn]] (4), [[Powershell]] (3), data (2), cloud (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[LinkedIn]] (4), [[Powershell]] (3), [[Microsoft]] (1)
 > **Tools:** azure portal (3), powershell (3)
 > **UI Navigation:** navigate to (1), click on (1)
 > **Analogies:** for example (2)
 > **Code Identifiers:** storagekey (1)
 > **Speakers:** - a (1)
 
-#### Blob access tiers
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/blob-access-tiers?u=76281980)
+#### [Blob access tiers](https://www.linkedin.com/learning/azure-storage-essential-training-2021/blob-access-tiers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/blob-access-tiers?u=76281980&t=0)** - [Tutor] Azure storage provides different options for accessing blob database on usage patterns.
+> **[0:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/blob-access-tiers?u=76281980&t=0)** - [Tutor] [[Microsoft Azure|Azure]] storage provides different options for accessing blob database on usage patterns.
 >
 > **[0:07](https://www.linkedin.com/learning/azure-storage-essential-training-2021/blob-access-tiers?u=76281980&t=7)** Take a look at how each access tier in the Azure storage is optimized for a particular pattern of data usage.
 >
@@ -493,15 +487,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), [[Microsoft Azure|Azure]] (7), [[Search]] (2), database (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7)
 > **UI Navigation:** select the (2), switch to (1), navigate to (1), click on (1), dropdown (1)
 > **Env Vars:** grs (3), lrs (1)
 > **Tools:** azure portal (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [tutor] (1)
 
-#### Blob lifecycle management
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/blob-lifecycle-management?u=76281980)
+#### [Blob lifecycle management](https://www.linkedin.com/learning/azure-storage-essential-training-2021/blob-lifecycle-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -515,7 +508,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/azure-storage-essential-training-2021/blob-lifecycle-management?u=76281980&t=15)** While other data sets are actively read and modified throughout their lifetimes.
 >
-> **[0:20](https://www.linkedin.com/learning/azure-storage-essential-training-2021/blob-lifecycle-management?u=76281980&t=20)** Azure Blob Storage lifecycle management offers a rich, rule-based policy for general-purpose v2 and blob storage accounts.
+> **[0:20](https://www.linkedin.com/learning/azure-storage-essential-training-2021/blob-lifecycle-management?u=76281980&t=20)** [[Microsoft Azure|Azure]] Blob Storage lifecycle management offers a rich, rule-based policy for general-purpose v2 and blob storage accounts.
 >
 > **[0:28](https://www.linkedin.com/learning/azure-storage-essential-training-2021/blob-lifecycle-management?u=76281980&t=28)** You can use the policy to transition your data to the appropriate access tiers or expires at the end of the data's lifecycle.
 >
@@ -545,7 +538,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/azure-storage-essential-training-2021/blob-lifecycle-management?u=76281980&t=104)** Let's look at how to manage life cycle management policies through the Azure portal.
 >
-> **[1:49](https://www.linkedin.com/learning/azure-storage-essential-training-2021/blob-lifecycle-management?u=76281980&t=109)** Please note that you can also use PowerShell and ARM templates method.
+> **[1:49](https://www.linkedin.com/learning/azure-storage-essential-training-2021/blob-lifecycle-management?u=76281980&t=109)** Please note that you can also use [[Powershell]] and ARM templates method.
 >
 > **[1:52](https://www.linkedin.com/learning/azure-storage-essential-training-2021/blob-lifecycle-management?u=76281980&t=112)** Sign in to the Azure portal.
 >
@@ -575,7 +568,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/azure-storage-essential-training-2021/blob-lifecycle-management?u=76281980&t=178)** Set the prefix match to filter on blobs.
 >
-> **[3:01](https://www.linkedin.com/learning/azure-storage-essential-training-2021/blob-lifecycle-management?u=76281980&t=181)** In this example, LinkedIn-lifecycle-container01/log container that begins with the prefix log will be filter.
+> **[3:01](https://www.linkedin.com/learning/azure-storage-essential-training-2021/blob-lifecycle-management?u=76281980&t=181)** In this example, [[LinkedIn]]-lifecycle-container01/log container that begins with the prefix log will be filter.
 >
 > **[3:11](https://www.linkedin.com/learning/azure-storage-essential-training-2021/blob-lifecycle-management?u=76281980&t=191)** Finally, click Add to add the new policy.
 >
@@ -585,15 +578,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Microsoft Azure|Azure]] (5), management (5), next (2), cloud (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Powershell]] (1), [[LinkedIn]] (1)
 > **Tools:** azure portal (3), powershell (1)
 > **Env Vars:** arm (1)
 > **UI Navigation:** select the (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing blobs
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/managing-blobs?u=76281980)
+#### [Managing blobs](https://www.linkedin.com/learning/azure-storage-essential-training-2021/managing-blobs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -601,7 +593,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/azure-storage-essential-training-2021/managing-blobs?u=76281980&t=7)** A Blob can be any type and size file.
 >
-> **[0:09](https://www.linkedin.com/learning/azure-storage-essential-training-2021/managing-blobs?u=76281980&t=9)** Azure Storage offer three types of blobs.
+> **[0:09](https://www.linkedin.com/learning/azure-storage-essential-training-2021/managing-blobs?u=76281980&t=9)** [[Microsoft Azure|Azure]] Storage offer three types of blobs.
 >
 > **[0:12](https://www.linkedin.com/learning/azure-storage-essential-training-2021/managing-blobs?u=76281980&t=12)** Block blobs, Page blobs, and Append blobs.
 >
@@ -619,7 +611,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/azure-storage-essential-training-2021/managing-blobs?u=76281980&t=46)** Page blobs can be up to eight terabyte in size, and are more efficient for a frequent read-write operations.
 >
-> **[0:53](https://www.linkedin.com/learning/azure-storage-essential-training-2021/managing-blobs?u=76281980&t=53)** Azure Virtual Machines use page blobs as operating system and data discs.
+> **[0:53](https://www.linkedin.com/learning/azure-storage-essential-training-2021/managing-blobs?u=76281980&t=53)** Azure [[Virtual Machines]] use page blobs as operating system and data discs.
 >
 > **[0:58](https://www.linkedin.com/learning/azure-storage-essential-training-2021/managing-blobs?u=76281980&t=58)** It's important to remember once the blob has been created you cannot change its type.
 >
@@ -629,7 +621,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/azure-storage-essential-training-2021/managing-blobs?u=76281980&t=76)** The Authentication Type is one of the advanced settings.
 >
-> **[1:20](https://www.linkedin.com/learning/azure-storage-essential-training-2021/managing-blobs?u=76281980&t=80)** You can choose between Storage account key or Azure AD user account.
+> **[1:20](https://www.linkedin.com/learning/azure-storage-essential-training-2021/managing-blobs?u=76281980&t=80)** You can choose between Storage account key or [[Microsoft Entra ID|Azure AD]] user account.
 >
 > **[1:24](https://www.linkedin.com/learning/azure-storage-essential-training-2021/managing-blobs?u=76281980&t=84)** By default, the storage account key is used.
 >
@@ -641,7 +633,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/azure-storage-essential-training-2021/managing-blobs?u=76281980&t=112)** You can use the following methods.
 >
-> **[1:55](https://www.linkedin.com/learning/azure-storage-essential-training-2021/managing-blobs?u=76281980&t=115)** AzCopy easy to use command-line tool for Windows and Linux that copies to and from blob storage across container or across storage accounts.
+> **[1:55](https://www.linkedin.com/learning/azure-storage-essential-training-2021/managing-blobs?u=76281980&t=115)** AzCopy easy to use command-line tool for [[Windows]] and [[Linux]] that copies to and from blob storage across container or across storage accounts.
 >
 > **[2:05](https://www.linkedin.com/learning/azure-storage-essential-training-2021/managing-blobs?u=76281980&t=125)** The Azure Storage Data Movement library is a .NET library for moving data between Azure Storage services.
 >
@@ -655,7 +647,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/azure-storage-essential-training-2021/managing-blobs?u=76281980&t=157)** Azure Data Box Disk is a service for transferring on-premises data to Blob storage when null data sets or network constraints, make uploading the data over the wire unrealistic.
 >
-> **[2:49](https://www.linkedin.com/learning/azure-storage-essential-training-2021/managing-blobs?u=76281980&t=169)** You can use Azure Data Box Disk to request solid-state disks from Microsoft.
+> **[2:49](https://www.linkedin.com/learning/azure-storage-essential-training-2021/managing-blobs?u=76281980&t=169)** You can use Azure Data Box Disk to request solid-state disks from [[Microsoft]].
 >
 > **[2:54](https://www.linkedin.com/learning/azure-storage-essential-training-2021/managing-blobs?u=76281980&t=174)** You can then copy your data to those disks and ship them back to Microsoft to be uploaded into your Blob storage.
 >
@@ -697,7 +689,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Microsoft Azure|Azure]] (14), [[Microsoft]] (3), [[Microsoft Entra ID|Azure ad]] (2), [[Linux]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (14), [[Microsoft]] (3), [[Microsoft Entra ID|Azure ad]] (2), [[Linux]] (2), [[Virtual Machines]] (1)
 > **UI Navigation:** select the (4), navigate to (2), open the (1), right-click (1)
 > **CLI Commands:** make (2), find (1)
 > **Tools:** azure portal (3)
@@ -711,24 +703,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Azure Files
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-files?u=76281980)
+#### [Azure Files](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-files?u=76281980&t=0)** - [Instructor] Azure Files and the common use cases of file storage.
+> **[0:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-files?u=76281980&t=0)** - [Instructor] [[Microsoft Azure|Azure]] Files and the common use cases of file storage.
 >
 > **[0:03](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-files?u=76281980&t=3)** Azure Files offer shared storage for applications using the industry standard SMB protocol and the Network File System, NFS, protocol.
 >
-> **[0:11](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-files?u=76281980&t=11)** Azure Virtual Machines and cloud services can share file data across application components via mounted shares.
+> **[0:11](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-files?u=76281980&t=11)** Azure [[Virtual Machines]] and [[Cloud Services]] can share file data across application components via mounted shares.
 >
 > **[0:18](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-files?u=76281980&t=18)** And on-premises application can also access file data under share.
 >
 > **[0:22](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-files?u=76281980&t=22)** That means that multiple VMs can share the same files with both read and write access.
 >
-> **[0:28](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-files?u=76281980&t=28)** You can also read the files using the REST API interface or the storage client libraries.
+> **[0:28](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-files?u=76281980&t=28)** You can also read the files using the [[Representational State Transfer (REST)|REST]] API interface or the storage client libraries.
 >
-> **[0:34](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-files?u=76281980&t=34)** Applications running in Azure virtual machines, Windows, Linux, or other cloud services, can mount a file storage share to access file data, just as an application would mount typical SMB or NFS share.
+> **[0:34](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-files?u=76281980&t=34)** Applications running in Azure virtual machines, [[Windows]], [[Linux]], or other cloud services, can mount a file storage share to access file data, just as an application would mount typical SMB or NFS share.
 >
 > **[0:48](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-files?u=76281980&t=48)** Any number of Azure virtual machines or roles can mount and access the file storage share simultaneously.
 >
@@ -756,30 +747,29 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (13), data (6), cloud (5), application (5), [[Virtual Machines]] (4)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (13), [[Virtual Machines]] (4), [[Windows]] (4), [[Linux]] (4), [[Cloud Services]] (3)
 > **Env Vars:** smb (3), nfs (3), rest (1), api (1), nas (1)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Azure Files vs. Azure Blobs
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-files-vs-azure-blobs?u=76281980)
+#### [Azure Files vs. Azure Blobs](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-files-vs-azure-blobs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-files-vs-azure-blobs?u=76281980&t=0)** - [Instructor] Sometimes it's difficult to decide when to use Azure file shares instead of blobs or disk shares in your project.
+> **[0:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-files-vs-azure-blobs?u=76281980&t=0)** - [Instructor] Sometimes it's difficult to decide when to use [[Microsoft Azure|Azure]] file shares instead of blobs or disk shares in your project.
 >
 > **[0:08](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-files-vs-azure-blobs?u=76281980&t=8)** Let's compare different features and discuss when to use each one.
 >
-> **[0:12](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-files-vs-azure-blobs?u=76281980&t=12)** If we compare Azure files to Azure blob side-by-side, we see that Azure files provides in SMB and NFS interface, client libraries, and the REST interface, that allows access from anywhere to store files.
+> **[0:12](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-files-vs-azure-blobs?u=76281980&t=12)** If we compare Azure files to Azure blob side-by-side, we see that Azure files provides in SMB and NFS interface, client libraries, and the [[Representational State Transfer (REST)|REST]] interface, that allows access from anywhere to store files.
 >
-> **[0:26](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-files-vs-azure-blobs?u=76281980&t=26)** Azure blobs provides client libraries and the REST interface, that allows unstructured data with flat namespace to be stored and accessed at a massive scale in the blobs.
+> **[0:26](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-files-vs-azure-blobs?u=76281980&t=26)** Azure blobs provides client libraries and the REST interface, that allows [[Unstructured Data]] with flat namespace to be stored and accessed at a massive scale in the blobs.
 >
 > **[0:38](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-files-vs-azure-blobs?u=76281980&t=38)** Let me explain when to use Azure files versus blobs.
 >
 > **[0:42](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-files-vs-azure-blobs?u=76281980&t=42)** You can use Azure files to lift and shift an application to the cloud, which already uses the native file system APIs to share data between it and other applications running in Azure.
 >
-> **[0:53](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-files-vs-azure-blobs?u=76281980&t=53)** You will want to store development and debugging tools that need to be accessed from many virtual machines.
+> **[0:53](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-files-vs-azure-blobs?u=76281980&t=53)** You will want to store development and debugging tools that need to be accessed from many [[Virtual Machines]].
 >
 > **[0:59](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-files-vs-azure-blobs?u=76281980&t=59)** Azure blobs, on the other hand, can be used if you want your application to support streaming and random-access scenarios, and you want to be able to access application data from anywhere.
 >
@@ -801,18 +791,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (17), application (3), [[Representational State Transfer (REST)|Rest]] (2), data (2), [[Virtual Machines]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (17), [[Representational State Transfer (REST)|Rest]] (2), [[Virtual Machines]] (2), [[Unstructured Data]] (1)
 > **Env Vars:** rest (2), smb (1), nfs (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing file shares
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/managing-file-shares?u=76281980)
+#### [Managing file shares](https://www.linkedin.com/learning/azure-storage-essential-training-2021/managing-file-shares?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/managing-file-shares?u=76281980&t=0)** - [Instructor] Now let's look at how to manage Azure file shares from Windows, Linux and macOS.
+> **[0:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/managing-file-shares?u=76281980&t=0)** - [Instructor] Now let's look at how to manage [[Microsoft Azure|Azure]] file shares from [[Windows]], [[Linux]] and macOS.
 >
-> **[0:07](https://www.linkedin.com/learning/azure-storage-essential-training-2021/managing-file-shares?u=76281980&t=7)** You can connect to your Azure file share with Windows, including Windows Client and Windows Server.
+> **[0:07](https://www.linkedin.com/learning/azure-storage-essential-training-2021/managing-file-shares?u=76281980&t=7)** You can connect to your Azure file share with Windows, including Windows Client and [[Windows Server]].
 >
 > **[0:12](https://www.linkedin.com/learning/azure-storage-essential-training-2021/managing-file-shares?u=76281980&t=12)** All this information is available by selecting connect from you file share page in the Azure portal.
 >
@@ -846,7 +835,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/azure-storage-essential-training-2021/managing-file-shares?u=76281980&t=105)** The secure transfer option is enabled by default, which is required to enhance the security of your storage account by only allowing requests to the storage account by a secure connection.
 >
-> **[1:56](https://www.linkedin.com/learning/azure-storage-essential-training-2021/managing-file-shares?u=76281980&t=116)** For example, when calling REST APIs to access your storage account, you must connect using HTTPS.
+> **[1:56](https://www.linkedin.com/learning/azure-storage-essential-training-2021/managing-file-shares?u=76281980&t=116)** For example, when calling [[Representational State Transfer (REST)|REST]] APIs to access your storage account, you must connect using HTTPS.
 >
 > **[2:03](https://www.linkedin.com/learning/azure-storage-essential-training-2021/managing-file-shares?u=76281980&t=123)** Any request using HTTP will be rejected when the secure transfer required is enabled.
 >
@@ -874,7 +863,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/azure-storage-essential-training-2021/managing-file-shares?u=76281980&t=208)** Notice the ability to add a directory, delete the share, change the access tier and edit the quota.
 >
-> **[3:41](https://www.linkedin.com/learning/azure-storage-essential-training-2021/managing-file-shares?u=76281980&t=221)** To create a file share with PowerShell, first you need to gather the storage account name and the storage account key.
+> **[3:41](https://www.linkedin.com/learning/azure-storage-essential-training-2021/managing-file-shares?u=76281980&t=221)** To create a file share with [[Powershell]], first you need to gather the storage account name and the storage account key.
 >
 > **[3:49](https://www.linkedin.com/learning/azure-storage-essential-training-2021/managing-file-shares?u=76281980&t=229)** I'll start first by setting the resourceGroupName variable, the storageAccountName and I will get my storage account resource using the Get-AzAtorageAccount and then I will get my storage account key and store them in a variable called storageAccountKeys.
 >
@@ -918,7 +907,7 @@ created: 2026-05-02
 >
 > **[6:41](https://www.linkedin.com/learning/azure-storage-essential-training-2021/managing-file-shares?u=76281980&t=401)** There are therefore three categories to consider: storage accounts, standard and premium, Azure file shares and files.
 >
-> **[6:50](https://www.linkedin.com/learning/azure-storage-essential-training-2021/managing-file-shares?u=76281980&t=410)** For more information about Azure file's credibility and performance targets, please read this credibility guide by Microsoft.
+> **[6:50](https://www.linkedin.com/learning/azure-storage-essential-training-2021/managing-file-shares?u=76281980&t=410)** For more information about Azure file's credibility and performance targets, please read this credibility guide by [[Microsoft]].
 >
 > **[6:57](https://www.linkedin.com/learning/azure-storage-essential-training-2021/managing-file-shares?u=76281980&t=417)** Now you are ready to manage Azure file shares for Azure files.
 
@@ -933,12 +922,11 @@ created: 2026-05-02
 > **Prerequisites:** you need to have (1), required to (1)
 > **CLI Commands:** find (1)
 
-#### File share snapshots
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/file-share-snapshots?u=76281980)
+#### [File share snapshots](https://www.linkedin.com/learning/azure-storage-essential-training-2021/file-share-snapshots?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/file-share-snapshots?u=76281980&t=0)** - [Instructor] Azure files provide the capability to take Share Snapshots of file shares.
+> **[0:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/file-share-snapshots?u=76281980&t=0)** - [Instructor] [[Microsoft Azure|Azure]] files provide the capability to take Share Snapshots of file shares.
 >
 > **[0:05](https://www.linkedin.com/learning/azure-storage-essential-training-2021/file-share-snapshots?u=76281980&t=5)** Share Snapshots capture the share state at that point in time.
 >
@@ -1008,7 +996,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), application (4), [[Microsoft Azure|Azure]] (3), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3)
 > **Cross-References:** go back to (2)
 > **UI Navigation:** click on (2)
 > **Analogies:** such as (1), imagine (1)
@@ -1016,12 +1004,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Replacing on-premises server with Azure Files
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/replacing-on-premises-server-with-azure-files?u=76281980)
+#### [Replacing on-premises server with Azure Files](https://www.linkedin.com/learning/azure-storage-essential-training-2021/replacing-on-premises-server-with-azure-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/replacing-on-premises-server-with-azure-files?u=76281980&t=0)** - [Instructor] It's time to look at how to replace your on-premises server with Azure Files, where you have the ability to take an Azure File Share and domain join it to your local Active Directory Domain Services.
+> **[0:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/replacing-on-premises-server-with-azure-files?u=76281980&t=0)** - [Instructor] It's time to look at how to replace your on-premises server with [[Microsoft Azure|Azure]] Files, where you have the ability to take an Azure File Share and domain join it to your local [[Active Directory]] Domain Services.
 >
 > **[0:12](https://www.linkedin.com/learning/azure-storage-essential-training-2021/replacing-on-premises-server-with-azure-files?u=76281980&t=12)** This can be done in just one simple step, or just like an on-premises server.
 >
@@ -1029,7 +1016,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/azure-storage-essential-training-2021/replacing-on-premises-server-with-azure-files?u=76281980&t=25)** Now before you enable Active Directory authentication for Azure File Shares, there are some things that you need to be aware of.
 >
-> **[0:32](https://www.linkedin.com/learning/azure-storage-essential-training-2021/replacing-on-premises-server-with-azure-files?u=76281980&t=32)** First, you need to select or create an Active Directory environment and then sync it to Azure AD with Azure AD Connect.
+> **[0:32](https://www.linkedin.com/learning/azure-storage-essential-training-2021/replacing-on-premises-server-with-azure-files?u=76281980&t=32)** First, you need to select or create an Active Directory environment and then sync it to [[Microsoft Entra ID|Azure AD]] with Azure AD Connect.
 >
 > **[0:40](https://www.linkedin.com/learning/azure-storage-essential-training-2021/replacing-on-premises-server-with-azure-files?u=76281980&t=40)** Next is to domain-join an on-premises machine, or an Azure IS VM to your Active Directory Domain Services.
 >
@@ -1037,7 +1024,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/azure-storage-essential-training-2021/replacing-on-premises-server-with-azure-files?u=76281980&t=62)** For optimal performance, we recommend that you deploy the storage account in the same region as the clients from which you plan access shared.
 >
-> **[1:11](https://www.linkedin.com/learning/azure-storage-essential-training-2021/replacing-on-premises-server-with-azure-files?u=76281980&t=71)** Now you need to download and unzip the Az Files Hybrid module from GitHub.
+> **[1:11](https://www.linkedin.com/learning/azure-storage-essential-training-2021/replacing-on-premises-server-with-azure-files?u=76281980&t=71)** Now you need to download and unzip the Az Files Hybrid module from [[GitHub]].
 >
 > **[1:16](https://www.linkedin.com/learning/azure-storage-essential-training-2021/replacing-on-premises-server-with-azure-files?u=76281980&t=76)** At the time of this recording, I'm using the latest version.
 >
@@ -1049,7 +1036,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/azure-storage-essential-training-2021/replacing-on-premises-server-with-azure-files?u=76281980&t=91)** Here, I have a storage account with a file share that I would like to be able to mount from on-premises.
 >
-> **[1:37](https://www.linkedin.com/learning/azure-storage-essential-training-2021/replacing-on-premises-server-with-azure-files?u=76281980&t=97)** To domain-join the storage account, I will open file share, and I will import the AZ File Hybrid PowerShell module which gives me the cmdlet that I will need to do the job.
+> **[1:37](https://www.linkedin.com/learning/azure-storage-essential-training-2021/replacing-on-premises-server-with-azure-files?u=76281980&t=97)** To domain-join the storage account, I will open file share, and I will import the AZ File Hybrid [[Powershell]] module which gives me the cmdlet that I will need to do the job.
 >
 > **[1:47](https://www.linkedin.com/learning/azure-storage-essential-training-2021/replacing-on-premises-server-with-azure-files?u=76281980&t=107)** And then I will set the resource group name variable, and the storage account name.
 >
@@ -1107,7 +1094,7 @@ created: 2026-05-02
 >
 > **[4:58](https://www.linkedin.com/learning/azure-storage-essential-training-2021/replacing-on-premises-server-with-azure-files?u=76281980&t=298)** Much like how an on-premises file server or NAS device receives an IP address within the dedicated address space of your on-premises network.
 >
-> **[5:06](https://www.linkedin.com/learning/azure-storage-essential-training-2021/replacing-on-premises-server-with-azure-files?u=76281980&t=306)** Next, you need to tunnel the traffic over a virtual private network, VPN, or ExpressRoute.
+> **[5:06](https://www.linkedin.com/learning/azure-storage-essential-training-2021/replacing-on-premises-server-with-azure-files?u=76281980&t=306)** Next, you need to tunnel the traffic over a [[Virtual Private Network (VPN)|virtual private network]], VPN, or ExpressRoute.
 >
 > **[5:12](https://www.linkedin.com/learning/azure-storage-essential-training-2021/replacing-on-premises-server-with-azure-files?u=76281980&t=312)** So when you establish your network tunnel between your on-premises network in Azure, you are preparing your on-premises network with one or more virtual net source in Azure.
 >
@@ -1117,7 +1104,7 @@ created: 2026-05-02
 >
 > **[5:30](https://www.linkedin.com/learning/azure-storage-essential-training-2021/replacing-on-premises-server-with-azure-files?u=76281980&t=330)** So for connections to your storage account to go over your network tunnel, the fully qualified domain name, FQDN, of your storage account, must resolve to your private endpoint's private IP address.
 >
-> **[5:42](https://www.linkedin.com/learning/azure-storage-essential-training-2021/replacing-on-premises-server-with-azure-files?u=76281980&t=342)** To achieve this, you must follow the storage endpoint suffix call to [windows.net](https://windows.net), to the Azure private DNS service accessible from within your virtual network.
+> **[5:42](https://www.linkedin.com/learning/azure-storage-essential-training-2021/replacing-on-premises-server-with-azure-files?u=76281980&t=342)** To achieve this, you must follow the storage endpoint suffix call to [[[Windows]].net](https://windows.net), to the Azure private DNS service accessible from within your virtual network.
 >
 > **[5:51](https://www.linkedin.com/learning/azure-storage-essential-training-2021/replacing-on-premises-server-with-azure-files?u=76281980&t=351)** And finally, an optional step is to configure DFS namespace.
 >
@@ -1131,7 +1118,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (15), [[Active Directory]] (5), [[Microsoft Entra ID|Azure ad]] (3), next (3), dns (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (15), [[Active Directory]] (5), [[Microsoft Entra ID|Azure ad]] (3), [[Powershell]] (2), [[GitHub]] (1)
 > **Env Vars:** smb (3), dns (3), acl (2), aes256 (1), iam (1)
 > **Analogies:** just like (4), similar to (1), for example (1)
 > **CLI Commands:** az (3), unzip (1)
@@ -1140,14 +1127,13 @@ created: 2026-05-02
 > **Ports:** port 445 (2)
 > **Prerequisites:** configure (2)
 
-#### Azure File Sync
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-file-sync?u=76281980)
+#### [Azure File Sync](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-file-sync?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-file-sync?u=76281980&t=0)** - [Instructor ] Azure File Sync is a service that helps you centralize your organizations file share in Azure files while keeping the flexibility, performance and compatibility of from premises file server.
+> **[0:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-file-sync?u=76281980&t=0)** - [Instructor ] [[Microsoft Azure|Azure]] File Sync is a service that helps you centralize your organizations file share in Azure files while keeping the flexibility, performance and compatibility of from premises file server.
 >
-> **[0:11](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-file-sync?u=76281980&t=11)** Azure File Sync transform Windows server into a quick cache of your Azure file share.
+> **[0:11](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-file-sync?u=76281980&t=11)** Azure File Sync transform [[Windows Server]] into a quick cache of your Azure file share.
 >
 > **[0:15](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-file-sync?u=76281980&t=15)** You can use any protocols that's available on Windows server to access your data locally including SMB, NFS, and NFTPs.
 >
@@ -1157,7 +1143,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-file-sync?u=76281980&t=33)** The first one is lift and shift, well you can move your applications that require access between Azure and on premises systems.
 >
-> **[0:40](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-file-sync?u=76281980&t=40)** This would provide the right access to the same data across Windows servers and Azure files.
+> **[0:40](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-file-sync?u=76281980&t=40)** This would provide the right access to the same data across [[Windows]] servers and Azure files.
 >
 > **[0:45](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-file-sync?u=76281980&t=45)** This lets company with multiple offices have a need to share files with all sites.
 >
@@ -1165,7 +1151,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-file-sync?u=76281980&t=57)** Once File Sync is implemented, Azure backup will backup your on premises data.
 >
-> **[1:01](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-file-sync?u=76281980&t=61)** Also, you it can restore file metadata immediately and then recalled data as needed for rapid disaster recovery.
+> **[1:01](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-file-sync?u=76281980&t=61)** Also, you it can restore file [[Metadata]] immediately and then recalled data as needed for rapid disaster recovery.
 >
 > **[1:08](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-file-sync?u=76281980&t=68)** And then file archiving.
 >
@@ -1229,19 +1215,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (30), data (7), cloud (6), [[Windows Server]] (3), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (30), [[Windows Server]] (3), [[Windows]] (1), [[Metadata]] (1)
 > **Definitions:** is a  (4), is an  (2), is called (1)
 > **Env Vars:** smb (1), nfs (1), url (1), etl (1)
 > **Analogies:** for example (2), such as (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor (1)
 
-#### Implementing Azure File Sync
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/implementing-azure-file-sync?u=76281980)
+#### [Implementing Azure File Sync](https://www.linkedin.com/learning/azure-storage-essential-training-2021/implementing-azure-file-sync?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/implementing-azure-file-sync?u=76281980&t=0)** - [Instructor] Let's now look at how to implement Azure File Sync and set up file synchronization.
+> **[0:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/implementing-azure-file-sync?u=76281980&t=0)** - [Instructor] Let's now look at how to implement [[Microsoft Azure|Azure]] File Sync and set up file synchronization.
 >
 > **[0:05](https://www.linkedin.com/learning/azure-storage-essential-training-2021/implementing-azure-file-sync?u=76281980&t=5)** There are several high level steps for configuring Azure File Sync as shown in the diagram.
 >
@@ -1251,7 +1236,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/azure-storage-essential-training-2021/implementing-azure-file-sync?u=76281980&t=18)** You will need to provide name, subscription, resource group, and the location.
 >
-> **[0:23](https://www.linkedin.com/learning/azure-storage-essential-training-2021/implementing-azure-file-sync?u=76281980&t=23)** Next, you need to prepare Windows Server to use with Azure File Sync.
+> **[0:23](https://www.linkedin.com/learning/azure-storage-essential-training-2021/implementing-azure-file-sync?u=76281980&t=23)** Next, you need to prepare [[Windows Server]] to use with Azure File Sync.
 >
 > **[0:27](https://www.linkedin.com/learning/azure-storage-essential-training-2021/implementing-azure-file-sync?u=76281980&t=27)** For each server that you intended to use with Azure File Sync including server nodes in the Failover Cluster, you will need to configure the server.
 >
@@ -1263,7 +1248,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/azure-storage-essential-training-2021/implementing-azure-file-sync?u=76281980&t=53)** The Azure File Sync Agent installation package should install relatively quickly.
 >
-> **[0:57](https://www.linkedin.com/learning/azure-storage-essential-training-2021/implementing-azure-file-sync?u=76281980&t=57)** We recommend that you keep the default installation path and that you enable Microsoft Update to keep the Azure File Sync Agent up to date.
+> **[0:57](https://www.linkedin.com/learning/azure-storage-essential-training-2021/implementing-azure-file-sync?u=76281980&t=57)** We recommend that you keep the default installation path and that you enable [[Microsoft]] Update to keep the Azure File Sync Agent up to date.
 >
 > **[1:05](https://www.linkedin.com/learning/azure-storage-essential-training-2021/implementing-azure-file-sync?u=76281980&t=65)** The final step is to Register Windows Server with a Storage Sync Service.
 >
@@ -1289,7 +1274,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/implementing-azure-file-sync?u=76281980&t=120)** Click on Sync group and then, give the Sync group a descriptive name.
 >
-> **[2:05](https://www.linkedin.com/learning/azure-storage-essential-training-2021/implementing-azure-file-sync?u=76281980&t=125)** I will use "LinkedIn Sync Group 1" in this demo.
+> **[2:05](https://www.linkedin.com/learning/azure-storage-essential-training-2021/implementing-azure-file-sync?u=76281980&t=125)** I will use "[[LinkedIn]] Sync Group 1" in this demo.
 >
 > **[2:09](https://www.linkedin.com/learning/azure-storage-essential-training-2021/implementing-azure-file-sync?u=76281980&t=129)** Choose your subscription.
 >
@@ -1323,7 +1308,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (18), [[Windows Server]] (4), next (3), cloud (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (18), [[Windows Server]] (4), [[Microsoft]] (1), [[LinkedIn]] (1)
 > **Prerequisites:** install (3), set up (2), configure (1)
 > **UI Navigation:** select the (3), click on (1)
 > **Tools:** azure portal (3)
@@ -1337,12 +1322,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Azure Storage queues
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-queues?u=76281980)
+#### [Azure Storage queues](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-queues?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-queues?u=76281980&t=0)** - [Presenter] Azure Storage Queues, is essentially a queuing service built on top of Azure Storage for storing large numbers of messages.
+> **[0:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-queues?u=76281980&t=0)** - [Presenter] [[Microsoft Azure|Azure]] Storage Queues, is essentially a queuing service built on top of Azure Storage for storing large numbers of messages.
 >
 > **[0:07](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-queues?u=76281980&t=7)** You can access messages from anywhere in the world via authenticating calls using HTTP or HTTPS.
 >
@@ -1376,7 +1360,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-queues?u=76281980&t=108)** And then similarly, we can add some resilience by decoupling components in this way, by having momentary blips and availability of them processing messages, being essentially invisible to the client submitting message into the queue.
 >
-> **[2:02](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-queues?u=76281980&t=122)** From Microsoft's Architecture Guidance, there is actually a very good example that we use a lot.
+> **[2:02](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-queues?u=76281980&t=122)** From [[Microsoft]]'s Architecture Guidance, there is actually a very good example that we use a lot.
 >
 > **[2:06](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-queues?u=76281980&t=126)** The idea is to take a web app as an example and consider how much traffic might be driven at that web app, whether eBay, Amazon or otherwise, you are going to have a lot of requests coming in for a service.
 >
@@ -1414,19 +1398,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (12), web application (5), [[Microsoft Azure|Azure]] (4), data (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Microsoft]] (1)
 > **Env Vars:** http (1), https (1)
 > **Code Identifiers:** ebay (1)
 > **Speakers:** - [presenter] (1)
 
-#### Managing queues
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/managing-queues?u=76281980)
+#### [Managing queues](https://www.linkedin.com/learning/azure-storage-essential-training-2021/managing-queues?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/managing-queues?u=76281980&t=0)** - [Instructor] Azure Queue Storage is a service for storing large numbers of messages that can be accessed from anywhere in the world via HTTP or HTTPS.
+> **[0:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/managing-queues?u=76281980&t=0)** - [Instructor] [[Microsoft Azure|Azure]] Queue Storage is a service for storing large numbers of messages that can be accessed from anywhere in the world via HTTP or HTTPS.
 >
-> **[0:09](https://www.linkedin.com/learning/azure-storage-essential-training-2021/managing-queues?u=76281980&t=9)** In this demo, I will show you the common Queue Storage operation that you can perform with PowerShell.
+> **[0:09](https://www.linkedin.com/learning/azure-storage-essential-training-2021/managing-queues?u=76281980&t=9)** In this demo, I will show you the common Queue Storage operation that you can perform with [[Powershell]].
 >
 > **[0:14](https://www.linkedin.com/learning/azure-storage-essential-training-2021/managing-queues?u=76281980&t=14)** To follow this demo, you need to have a storage account deployed and use the latest Azure PowerShell AZ module.
 >
@@ -1478,7 +1461,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/azure-storage-essential-training-2021/managing-queues?u=76281980&t=162)** I will set to 10 seconds by running this command.
 >
-> **[2:47](https://www.linkedin.com/learning/azure-storage-essential-training-2021/managing-queues?u=76281980&t=167)** Next, I will read the queue by calling the Microsoft Azure storage queue, CloudQueue.GetMessage method.
+> **[2:47](https://www.linkedin.com/learning/azure-storage-essential-training-2021/managing-queues?u=76281980&t=167)** Next, I will read the queue by calling the [[Microsoft Azure]] storage queue, CloudQueue.GetMessage method.
 >
 > **[2:53](https://www.linkedin.com/learning/azure-storage-essential-training-2021/managing-queues?u=76281980&t=173)** You get the next message in the queue.
 >
@@ -1500,7 +1483,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), next (4), [[Powershell]] (2), cloud (2), [[Microsoft Azure]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Powershell]] (2), [[Microsoft Azure]] (2)
 > **Code Identifiers:** resourcegroupname (1), storageacc (1), addmessage (1), queuemessage (1), invisibletimeout (1)
 > **Tools:** azure portal (4), powershell (2)
 > **Env Vars:** http (1), https (1), utf (1), net (1)
@@ -1509,12 +1492,11 @@ created: 2026-05-02
 > **Prerequisites:** you need to have (1), install (1)
 > **Documentation:** the documentation (1)
 
-#### Developing with queues
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/developing-with-queues?u=76281980)
+#### [Developing with queues](https://www.linkedin.com/learning/azure-storage-essential-training-2021/developing-with-queues?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/developing-with-queues?u=76281980&t=0)** - [Instructor] Now let's take a look at some of the Azure Storage Queue capabilities from code using .NET.
+> **[0:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/developing-with-queues?u=76281980&t=0)** - [Instructor] Now let's take a look at some of the [[Microsoft Azure|Azure]] Storage Queue capabilities from code using .NET.
 >
 > **[0:07](https://www.linkedin.com/learning/azure-storage-essential-training-2021/developing-with-queues?u=76281980&t=7)** Here I have Visual Studio 2019.
 >
@@ -1524,7 +1506,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/azure-storage-essential-training-2021/developing-with-queues?u=76281980&t=20)** Go to File, New, Project.
 >
-> **[0:25](https://www.linkedin.com/learning/azure-storage-essential-training-2021/developing-with-queues?u=76281980&t=25)** Select Windows as a platform, then select Console App, .NET Framework and click Next.
+> **[0:25](https://www.linkedin.com/learning/azure-storage-essential-training-2021/developing-with-queues?u=76281980&t=25)** Select [[Windows]] as a platform, then select Console App, .NET Framework and click Next.
 >
 > **[0:32](https://www.linkedin.com/learning/azure-storage-essential-training-2021/developing-with-queues?u=76281980&t=32)** I'll give the project a name.
 >
@@ -1540,7 +1522,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/azure-storage-essential-training-2021/developing-with-queues?u=76281980&t=49)** From our solution, select Manage NuGet Package for Solution.
 >
-> **[0:56](https://www.linkedin.com/learning/azure-storage-essential-training-2021/developing-with-queues?u=76281980&t=56)** Select Browse and search online for Microsoft.Azure.Storage.Queue.
+> **[0:56](https://www.linkedin.com/learning/azure-storage-essential-training-2021/developing-with-queues?u=76281980&t=56)** Select Browse and search online for [[Microsoft]].Azure.Storage.Queue.
 >
 > **[1:04](https://www.linkedin.com/learning/azure-storage-essential-training-2021/developing-with-queues?u=76281980&t=64)** Select your project and click Install.
 >
@@ -1630,7 +1612,7 @@ created: 2026-05-02
 >
 > **[4:56](https://www.linkedin.com/learning/azure-storage-essential-training-2021/developing-with-queues?u=76281980&t=296)** I'll enter the first message.
 >
-> **[4:58](https://www.linkedin.com/learning/azure-storage-essential-training-2021/developing-with-queues?u=76281980&t=298)** Hello, Welcome to LinkedIn Learning!
+> **[4:58](https://www.linkedin.com/learning/azure-storage-essential-training-2021/developing-with-queues?u=76281980&t=298)** Hello, Welcome to [[LinkedIn]] Learning!
 >
 > **[5:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/developing-with-queues?u=76281980&t=300)** And I will hit yes again.
 >
@@ -1684,11 +1666,11 @@ created: 2026-05-02
 >
 > **[6:49](https://www.linkedin.com/learning/azure-storage-essential-training-2021/developing-with-queues?u=76281980&t=409)** Now you are familiar with Azure Queue Storage using .NET.
 >
-> **[6:52](https://www.linkedin.com/learning/azure-storage-essential-training-2021/developing-with-queues?u=76281980&t=412)** You can find more information in the documentation and how to write code with other languages, such as Java, Ruby and Python.
+> **[6:52](https://www.linkedin.com/learning/azure-storage-essential-training-2021/developing-with-queues?u=76281980&t=412)** You can find more information in the documentation and how to write code with other languages, such as [[Java]], Ruby and [[Python (Programming Language)|Python]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (17), hit (6), application (3), next (2), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (17), [[Microsoft]] (2), [[LinkedIn]] (2), [[Windows]] (1), [[Java]] (1)
 > **Tools:** azure portal (5), visual studio (2)
 > **Prerequisites:** install (4), configure (1)
 > **CLI Commands:** find (2), ruby (1), python (1)
@@ -1702,12 +1684,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Securing storage data
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/securing-storage-data?u=76281980)
+#### [Securing storage data](https://www.linkedin.com/learning/azure-storage-essential-training-2021/securing-storage-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/securing-storage-data?u=76281980&t=0)** - Storage security is a core element of cloud security.
+> **[0:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/securing-storage-data?u=76281980&t=0)** - Storage security is a core element of [[Cloud Security]].
 >
 > **[0:03](https://www.linkedin.com/learning/azure-storage-essential-training-2021/securing-storage-data?u=76281980&t=3)** It's very important to know where your data is located and in which region.
 >
@@ -1717,9 +1698,9 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/azure-storage-essential-training-2021/securing-storage-data?u=76281980&t=20)** It is a concept that information which has been converted and stored in binary digital form, is subject to the laws of the country in which it's located.
 >
-> **[0:28](https://www.linkedin.com/learning/azure-storage-essential-training-2021/securing-storage-data?u=76281980&t=28)** Many of the current concern that surrounds data sovereignty relate to enforcing privacy regulation, and preventing data that is stored in a foreign country or region from being subpoenaed by the host country or regions government.
+> **[0:28](https://www.linkedin.com/learning/azure-storage-essential-training-2021/securing-storage-data?u=76281980&t=28)** Many of the current concern that surrounds data sovereignty relate to enforcing [[Privacy]] regulation, and preventing data that is stored in a foreign country or region from being subpoenaed by the host country or regions government.
 >
-> **[0:41](https://www.linkedin.com/learning/azure-storage-essential-training-2021/securing-storage-data?u=76281980&t=41)** In Azure, your data might be replicated within a selected geographic area for enhanced data durability in case of major data center disaster, and in some cases, will not be replicated outside it.
+> **[0:41](https://www.linkedin.com/learning/azure-storage-essential-training-2021/securing-storage-data?u=76281980&t=41)** In [[Microsoft Azure|Azure]], your data might be replicated within a selected geographic area for enhanced data durability in case of major data center disaster, and in some cases, will not be replicated outside it.
 >
 > **[0:54](https://www.linkedin.com/learning/azure-storage-essential-training-2021/securing-storage-data?u=76281980&t=54)** Azure operates in multiple geographies around the world.
 >
@@ -1775,17 +1756,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Microsoft Azure|Azure]] (9), application (3), [[Security]] (2), power (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Cloud Security]] (1), [[Privacy]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** such as (2)
 > **Speakers:** - storage (1)
 
-#### Storage security and authorization
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/storage-security-and-authorization?u=76281980)
+#### [Storage security and authorization](https://www.linkedin.com/learning/azure-storage-essential-training-2021/storage-security-and-authorization?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/storage-security-and-authorization?u=76281980&t=0)** - [Instructor] Azure Storage provides a comprehensive set of security capabilities that together enables developers to build secure applications.
+> **[0:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/storage-security-and-authorization?u=76281980&t=0)** - [Instructor] [[Microsoft Azure|Azure]] Storage provides a comprehensive set of security capabilities that together enables developers to build secure applications.
 >
 > **[0:07](https://www.linkedin.com/learning/azure-storage-essential-training-2021/storage-security-and-authorization?u=76281980&t=7)** In this lesson, we will focus on storage encryption, access control for a storage account, and authorization options.
 >
@@ -1793,9 +1773,9 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/azure-storage-essential-training-2021/storage-security-and-authorization?u=76281980&t=18)** By default, all data written to Azure Storage is automatically encrypted using Storage Service Encryption.
 >
-> **[0:24](https://www.linkedin.com/learning/azure-storage-essential-training-2021/storage-security-and-authorization?u=76281980&t=24)** Azure Active Directory and role-based access control are supported for Azure Storage authentication for both resource management operation and data operations.
+> **[0:24](https://www.linkedin.com/learning/azure-storage-essential-training-2021/storage-security-and-authorization?u=76281980&t=24)** [[Microsoft Entra ID|Azure Active Directory]] and role-based access control are supported for Azure Storage authentication for both resource management operation and data operations.
 >
-> **[0:33](https://www.linkedin.com/learning/azure-storage-essential-training-2021/storage-security-and-authorization?u=76281980&t=33)** You can assign RBAC roles scoped to the storage account to security principal, and use Azure AD to authorize resource management operations such as key management.
+> **[0:33](https://www.linkedin.com/learning/azure-storage-essential-training-2021/storage-security-and-authorization?u=76281980&t=33)** You can assign RBAC roles scoped to the storage account to security principal, and use [[Microsoft Entra ID|Azure AD]] to authorize resource management operations such as key management.
 >
 > **[0:42](https://www.linkedin.com/learning/azure-storage-essential-training-2021/storage-security-and-authorization?u=76281980&t=42)** And Azure AD integration is supported for data operation on the blob and queue services.
 >
@@ -1815,7 +1795,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/azure-storage-essential-training-2021/storage-security-and-authorization?u=76281980&t=96)** With Azure AD, you can use role-based access control to grant access to blob and queue resources to users, groups, or applications.
 >
-> **[1:45](https://www.linkedin.com/learning/azure-storage-essential-training-2021/storage-security-and-authorization?u=76281980&t=105)** Azure file supports identity-based authorization over Server Message Block, SMB, through Azure Active Directory Domain Services and traditional Active Directory.
+> **[1:45](https://www.linkedin.com/learning/azure-storage-essential-training-2021/storage-security-and-authorization?u=76281980&t=105)** Azure file supports identity-based authorization over Server Message Block, SMB, through Azure Active Directory Domain Services and traditional [[Active Directory]].
 >
 > **[1:55](https://www.linkedin.com/learning/azure-storage-essential-training-2021/storage-security-and-authorization?u=76281980&t=115)** You can use RBAC for fine-grain control over a client's access to Azure file resource in a storage account.
 >
@@ -1839,18 +1819,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (15), data (6), [[Security]] (5), [[Microsoft Entra ID|Azure active directory]] (4), management (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (15), [[Microsoft Entra ID|Azure active directory]] (4), [[Microsoft Entra ID|Azure ad]] (3), [[Active Directory]] (1)
 > **Env Vars:** rbac (2), uri (2), https (1), smb3 (1), smb (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Shared access signatures
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/shared-access-signatures?u=76281980)
+#### [Shared access signatures](https://www.linkedin.com/learning/azure-storage-essential-training-2021/shared-access-signatures?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/shared-access-signatures?u=76281980&t=0)** - [Instructor] Now we are diving deep into shared access signatures to see how to grant restricted access rights to our Azure storage resources.
+> **[0:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/shared-access-signatures?u=76281980&t=0)** - [Instructor] Now we are diving deep into shared access signatures to see how to grant restricted access rights to our [[Microsoft Azure|Azure]] storage resources.
 >
 > **[0:08](https://www.linkedin.com/learning/azure-storage-essential-training-2021/shared-access-signatures?u=76281980&t=8)** A shared access signature is a secure way to share your storage resources without compromising your account keys.
 >
@@ -1894,7 +1873,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/azure-storage-essential-training-2021/shared-access-signatures?u=76281980&t=159)** You can also delegate access to read, write and delete operations on blob containers, tables, queues and file share that are not permitted with a service-level SAS.
 >
-> **[2:51](https://www.linkedin.com/learning/azure-storage-essential-training-2021/shared-access-signatures?u=76281980&t=171)** You can create a user delegation SAS which is secured with Azure Active Directory credentials.
+> **[2:51](https://www.linkedin.com/learning/azure-storage-essential-training-2021/shared-access-signatures?u=76281980&t=171)** You can create a user delegation SAS which is secured with [[Microsoft Entra ID|Azure Active Directory]] credentials.
 >
 > **[2:57](https://www.linkedin.com/learning/azure-storage-essential-training-2021/shared-access-signatures?u=76281980&t=177)** This type of SAS is supported for Blob service only and can be used to grant access to containers and blobs.
 >
@@ -1904,7 +1883,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/azure-storage-essential-training-2021/shared-access-signatures?u=76281980&t=205)** Azure ID Authentication is available for all general purpose and a blob storage account in all public regions and national clouds.
 >
-> **[3:33](https://www.linkedin.com/learning/azure-storage-essential-training-2021/shared-access-signatures?u=76281980&t=213)** It provides built-in roles for authorizing access to blob and a queue data using Azure AD and OAuth 2.0 access token.
+> **[3:33](https://www.linkedin.com/learning/azure-storage-essential-training-2021/shared-access-signatures?u=76281980&t=213)** It provides built-in roles for authorizing access to blob and a queue data using [[Microsoft Entra ID|Azure AD]] and OAuth 2.0 access token.
 >
 > **[3:42](https://www.linkedin.com/learning/azure-storage-essential-training-2021/shared-access-signatures?u=76281980&t=222)** Storage roles are provided including owner, contributor and reader.
 >
@@ -1920,7 +1899,7 @@ created: 2026-05-02
 >
 > **[4:19](https://www.linkedin.com/learning/azure-storage-essential-training-2021/shared-access-signatures?u=76281980&t=259)** Let's see how to create a shared access signature in the Azure portal.
 >
-> **[4:23](https://www.linkedin.com/learning/azure-storage-essential-training-2021/shared-access-signatures?u=76281980&t=263)** Please note that you can accomplish the same steps using Azure PowerShell or CLI.
+> **[4:23](https://www.linkedin.com/learning/azure-storage-essential-training-2021/shared-access-signatures?u=76281980&t=263)** Please note that you can accomplish the same steps using Azure [[Powershell]] or [[CLI]].
 >
 > **[4:28](https://www.linkedin.com/learning/azure-storage-essential-training-2021/shared-access-signatures?u=76281980&t=268)** This demo requires that you have a storage account with a blob container and an uploaded file.
 >
@@ -1958,7 +1937,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), application (3), [[Microsoft Entra ID|Azure ad]] (3), data (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Microsoft Entra ID|Azure ad]] (3), [[Microsoft Entra ID|Azure active directory]] (2), [[Powershell]] (1), [[CLI]] (1)
 > **Env Vars:** sas (16), url (4), https (2), uri (1), rbac (1)
 > **Analogies:** for example (4), such as (1)
 > **Tools:** azure portal (2), powershell (1)
@@ -1967,14 +1946,13 @@ created: 2026-05-02
 > **UI Navigation:** select the (1), click on (1)
 > **Prerequisites:** configure (2)
 
-#### Storage Service Encryption
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/storage-service-encryption?u=76281980)
+#### [Storage Service Encryption](https://www.linkedin.com/learning/azure-storage-essential-training-2021/storage-service-encryption?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/storage-service-encryption?u=76281980&t=0)** - [Instructor] Azure Storage automatically encrypts your data when persisting it to the cloud.
+> **[0:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/storage-service-encryption?u=76281980&t=0)** - [Instructor] [[Microsoft Azure|Azure]] Storage automatically encrypts your data when persisting it to the cloud.
 >
-> **[0:05](https://www.linkedin.com/learning/azure-storage-essential-training-2021/storage-service-encryption?u=76281980&t=5)** Azure Storage Service Encryption for data at rest helps to protect your data to meet your organization's security and compliance commitments.
+> **[0:05](https://www.linkedin.com/learning/azure-storage-essential-training-2021/storage-service-encryption?u=76281980&t=5)** Azure Storage Service Encryption for data at [[Representational State Transfer (REST)|rest]] helps to protect your data to meet your organization's security and compliance commitments.
 >
 > **[0:13](https://www.linkedin.com/learning/azure-storage-essential-training-2021/storage-service-encryption?u=76281980&t=13)** With this feature, the Azure Storage platform automatically encrypts your data before persisting it to Azure managed disks, Azure Blob, Queue, Table storage, or Azure Files and decrypts the data before retrieval.
 >
@@ -1992,7 +1970,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/azure-storage-essential-training-2021/storage-service-encryption?u=76281980&t=69)** And there is no additional cost for Azure storage encryption.
 >
-> **[1:13](https://www.linkedin.com/learning/azure-storage-essential-training-2021/storage-service-encryption?u=76281980&t=73)** By default, Storage Service Encryption is managed by Microsoft keys.
+> **[1:13](https://www.linkedin.com/learning/azure-storage-essential-training-2021/storage-service-encryption?u=76281980&t=73)** By default, Storage Service Encryption is managed by [[Microsoft]] keys.
 >
 > **[1:17](https://www.linkedin.com/learning/azure-storage-essential-training-2021/storage-service-encryption?u=76281980&t=77)** You can rely on Microsoft-managed keys for the encryption of your storage account or you can manage encryption with your own keys known as customer-managed keys.
 >
@@ -2012,7 +1990,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/azure-storage-essential-training-2021/storage-service-encryption?u=76281980&t=139)** A customer-managed key is used to encrypt all data in all services in your storage account.
 >
-> **[2:25](https://www.linkedin.com/learning/azure-storage-essential-training-2021/storage-service-encryption?u=76281980&t=145)** Customer-managed keys uses Azure Key Vault that provides highly available and scalable secure storage for RSA cryptographic keys, baked by FIPS 140 level two validated hardware security modules.
+> **[2:25](https://www.linkedin.com/learning/azure-storage-essential-training-2021/storage-service-encryption?u=76281980&t=145)** Customer-managed keys uses Azure Key Vault that provides highly available and scalable secure storage for RSA cryptographic keys, baked by FIPS 140 level two validated [[Hardware]] security modules.
 >
 > **[2:38](https://www.linkedin.com/learning/azure-storage-essential-training-2021/storage-service-encryption?u=76281980&t=158)** In the second option, you can specify a customer-provided key on Blob Storage operations.
 >
@@ -2040,14 +2018,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (14), data (12), [[Microsoft]] (4), [[Security]] (3), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (14), [[Microsoft]] (4), [[Representational State Transfer (REST)|Rest]] (2), [[Hardware]] (1)
 > **Env Vars:** rsa (1), fips (1)
 > **Documentation:** the documentation (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Blob storage access policies
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/blob-storage-access-policies?u=76281980)
+#### [Blob storage access policies](https://www.linkedin.com/learning/azure-storage-essential-training-2021/blob-storage-access-policies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2059,7 +2036,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/azure-storage-essential-training-2021/blob-storage-access-policies?u=76281980&t=23)** Most organizations that do not have a clearly defined data retention policy tend to use a default keep everything retention policy.
 >
-> **[0:31](https://www.linkedin.com/learning/azure-storage-essential-training-2021/blob-storage-access-policies?u=76281980&t=31)** However, this pose additional risks in a cloud services scenarios.
+> **[0:31](https://www.linkedin.com/learning/azure-storage-essential-training-2021/blob-storage-access-policies?u=76281980&t=31)** However, this pose additional risks in a [[Cloud Services]] scenarios.
 >
 > **[0:35](https://www.linkedin.com/learning/azure-storage-essential-training-2021/blob-storage-access-policies?u=76281980&t=35)** For example, a data retention policy for cloud service providers can be considered as for the duration of the subscription.
 >
@@ -2075,11 +2052,11 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/azure-storage-essential-training-2021/blob-storage-access-policies?u=76281980&t=67)** Although such question, most likely pertain to data that has not been classified correctly.
 >
-> **[1:13](https://www.linkedin.com/learning/azure-storage-essential-training-2021/blob-storage-access-policies?u=76281980&t=73)** Data classification rules that pertain to data retention must be addressed when moving to the cloud and that cloud solution can help mitigate risk.
+> **[1:13](https://www.linkedin.com/learning/azure-storage-essential-training-2021/blob-storage-access-policies?u=76281980&t=73)** [[Data Classification]] rules that pertain to data retention must be addressed when moving to the cloud and that cloud solution can help mitigate risk.
 >
 > **[1:21](https://www.linkedin.com/learning/azure-storage-essential-training-2021/blob-storage-access-policies?u=76281980&t=81)** Some data protection technologies such as Encryption, Rights Management, and Data Loss Prevention solutions can help mitigate cloud risks.
 >
-> **[1:30](https://www.linkedin.com/learning/azure-storage-essential-training-2021/blob-storage-access-policies?u=76281980&t=90)** The answer to data recovery and disposal for organizations is immutable storage for Azure Blob storage.
+> **[1:30](https://www.linkedin.com/learning/azure-storage-essential-training-2021/blob-storage-access-policies?u=76281980&t=90)** The answer to data recovery and disposal for organizations is immutable storage for [[Microsoft Azure|Azure]] Blob storage.
 >
 > **[1:36](https://www.linkedin.com/learning/azure-storage-essential-training-2021/blob-storage-access-policies?u=76281980&t=96)** Immutable storage for Azure Blob storage enables you to store business critical data objects in a WORM, write once, read many state.
 >
@@ -2139,7 +2116,7 @@ created: 2026-05-02
 >
 > **[4:24](https://www.linkedin.com/learning/azure-storage-essential-training-2021/blob-storage-access-policies?u=76281980&t=264)** Let's now look at how to create a storage access policy for Blobs in the Azure portal.
 >
-> **[4:30](https://www.linkedin.com/learning/azure-storage-essential-training-2021/blob-storage-access-policies?u=76281980&t=270)** Please note that you can accomplish the same steps using Azure PowerShell or CLI.
+> **[4:30](https://www.linkedin.com/learning/azure-storage-essential-training-2021/blob-storage-access-policies?u=76281980&t=270)** Please note that you can accomplish the same steps using Azure [[Powershell]] or [[CLI]].
 >
 > **[4:34](https://www.linkedin.com/learning/azure-storage-essential-training-2021/blob-storage-access-policies?u=76281980&t=274)** This then require that you have a storage account with a Blob Container.
 >
@@ -2173,7 +2150,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), [[Microsoft Azure|Azure]] (8), cloud (5), feature (2), [[Data Classification]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Cloud Services]] (1), [[Data Classification]] (1), [[Powershell]] (1), [[CLI]] (1)
 > **Env Vars:** worm (2), cli (1)
 > **Tools:** azure portal (2), powershell (1)
 > **Analogies:** such as (2), for example (1)
@@ -2182,12 +2159,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Prerequisites:** configure (1)
 
-#### Storage security best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/storage-security-best-practices?u=76281980)
+#### [Storage security best practices](https://www.linkedin.com/learning/azure-storage-essential-training-2021/storage-security-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/storage-security-best-practices?u=76281980&t=0)** - [Instructor] I am sure you would agree that Azure storage security best practices will minimize risks to your environment.
+> **[0:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/storage-security-best-practices?u=76281980&t=0)** - [Instructor] I am sure you would agree that [[Microsoft Azure|Azure]] storage security best practices will minimize risks to your environment.
 >
 > **[0:07](https://www.linkedin.com/learning/azure-storage-essential-training-2021/storage-security-best-practices?u=76281980&t=7)** When you use Shared Access Signatures in your applications, you should be aware of two potential risks.
 >
@@ -2265,7 +2241,7 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/azure-storage-essential-training-2021/storage-security-best-practices?u=76281980&t=248)** Suppose rogue admins left the company but still have the access keys at hand.
 >
-> **[4:13](https://www.linkedin.com/learning/azure-storage-essential-training-2021/storage-security-best-practices?u=76281980&t=253)** They cannot use them for inappropriate authentication against public-exposed storage accounts after their Azure AD accounts have been disabled.
+> **[4:13](https://www.linkedin.com/learning/azure-storage-essential-training-2021/storage-security-best-practices?u=76281980&t=253)** They cannot use them for inappropriate authentication against public-exposed storage accounts after their [[Microsoft Entra ID|Azure AD]] accounts have been disabled.
 >
 > **[4:21](https://www.linkedin.com/learning/azure-storage-essential-training-2021/storage-security-best-practices?u=76281980&t=261)** For many cases where storage accounts are publicly exposed, this might be a good option because it forces users to properly authenticate with Azure AD accounts to get access to the data.
 >
@@ -2273,7 +2249,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), data (6), [[Security]] (3), [[Microsoft Azure|Azure]] (2), [[Microsoft Entra ID|Azure ad]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Microsoft Entra ID|Azure ad]] (2)
 > **Env Vars:** sas (18), https (1), http (1)
 > **Warnings:** be aware (2), be careful (1), keep in mind (1)
 > **Definitions:** known as (1)
@@ -2285,24 +2261,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Azure Storage Explorer
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-explorer?u=76281980)
+#### [Azure Storage Explorer](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-explorer?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-explorer?u=76281980&t=0)** - [Instructor] Managing data efficiently is important.
 >
-> **[0:03](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-explorer?u=76281980&t=3)** Let's look at the Azure Storage Explorer to manage your storage accounts.
+> **[0:03](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-explorer?u=76281980&t=3)** Let's look at the [[Microsoft Azure|Azure]] Storage Explorer to manage your storage accounts.
 >
-> **[0:07](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-explorer?u=76281980&t=7)** Azure Storage Explorer is a standalone application that makes it easy to work with Azure storage data on Windows, macOS, and Linux.
+> **[0:07](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-explorer?u=76281980&t=7)** Azure Storage Explorer is a standalone application that makes it easy to work with Azure storage data on [[Windows]], macOS, and [[Linux]].
 >
 > **[0:16](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-explorer?u=76281980&t=16)** With storage Explorer you can access multiple accounts and subscription and manage all your storage content where you can create, delete, view, and edit your storage resources.
 >
 > **[0:28](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-explorer?u=76281980&t=28)** As a storage Explorer requires both management Azure Resource Manager and data layer permissions.
 >
-> **[0:34](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-explorer?u=76281980&t=34)** After you sign in to Azure first you need Azure Active Directory permissions which gives you access to your storage account, the container in the account, and the data in the containers.
+> **[0:34](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-explorer?u=76281980&t=34)** After you sign in to Azure first you need [[Microsoft Entra ID|Azure Active Directory]] permissions which gives you access to your storage account, the container in the account, and the data in the containers.
 >
-> **[0:45](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-explorer?u=76281980&t=45)** If you have permissions only at the data layer, consider choosing to sign in using Azure AD option while attaching to a resource.
+> **[0:45](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-explorer?u=76281980&t=45)** If you have permissions only at the data layer, consider choosing to sign in using [[Microsoft Entra ID|Azure AD]] option while attaching to a resource.
 >
 > **[0:53](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-explorer?u=76281980&t=53)** With the Storage Explorer, you can connect and manage your storage account in several ways.
 >
@@ -2354,7 +2329,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (30), next (7), data (5), application (2), management (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (30), [[Windows]] (1), [[Linux]] (1), [[Microsoft Entra ID|Azure active directory]] (1), [[Microsoft Entra ID|Azure ad]] (1)
 > **Env Vars:** sas (5)
 > **CLI Commands:** find (1), make (1), node (1)
 > **Tools:** azure portal (3)
@@ -2363,12 +2338,11 @@ created: 2026-05-02
 > **Versions:** version 1 (1)
 > **Definitions:** is a  (1)
 
-#### Import/Export service
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/import-export-service?u=76281980)
+#### [Import/Export service](https://www.linkedin.com/learning/azure-storage-essential-training-2021/import-export-service?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/import-export-service?u=76281980&t=0)** - [Instructor] There is another storage management solution called the Azure Import and Export service.
+> **[0:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/import-export-service?u=76281980&t=0)** - [Instructor] There is another [[Storage Management]] solution called the [[Microsoft Azure|Azure]] Import and Export service.
 >
 > **[0:06](https://www.linkedin.com/learning/azure-storage-essential-training-2021/import-export-service?u=76281980&t=6)** Azure Import and Export services is used to securely import large amounts of data to Azure Blob Storage and Azure Files by shipping disk drives to an Azure data center.
 >
@@ -2414,7 +2388,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/azure-storage-essential-training-2021/import-export-service?u=76281980&t=172)** As part of the job definition, you specify the blobs you want to export, the return address and your carrier account number.
 >
-> **[3:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/import-export-service?u=76281980&t=180)** Microsoft will ship your disks back to you after the export process is complete.
+> **[3:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/import-export-service?u=76281980&t=180)** [[Microsoft]] will ship your disks back to you after the export process is complete.
 >
 > **[3:05](https://www.linkedin.com/learning/azure-storage-essential-training-2021/import-export-service?u=76281980&t=185)** You ship the required number of disks to the Azure region hosting the storage account, then update the job by providing the shipment tracking number.
 >
@@ -2426,24 +2400,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (30), data (22), [[Storage Management]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (30), [[Storage Management]] (1), [[Microsoft]] (1)
 > **Tools:** azure portal (3)
 > **Prerequisites:** install (1), you'll need (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### AzCopy
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azcopy?u=76281980)
+#### [AzCopy](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azcopy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azcopy?u=76281980&t=0)** - [Instructor] Let's look at an alternative method for transferring data to Azure storage with the AzCopy Tool.
+> **[0:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azcopy?u=76281980&t=0)** - [Instructor] Let's look at an alternative method for transferring data to [[Microsoft Azure|Azure]] storage with the AzCopy Tool.
 >
-> **[0:07](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azcopy?u=76281980&t=7)** AzCopy v10 is the next generation command-line utility for copying data to and from Microsoft Azure Blob and File storage, which offers a redesigned command-line interface and the new architecture for high-performance consistent data transfers.
+> **[0:07](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azcopy?u=76281980&t=7)** AzCopy v10 is the next generation command-line utility for copying data to and from [[Microsoft Azure]] Blob and File storage, which offers a redesigned command-line interface and the new architecture for high-performance consistent data transfers.
 >
 > **[0:23](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azcopy?u=76281980&t=23)** Using AzCopy, you can copy data between a file system and a storage account or between storage accounts.
 >
-> **[0:30](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azcopy?u=76281980&t=30)** AzCopy is also available on Windows, Linux and macOS.
+> **[0:30](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azcopy?u=76281980&t=30)** AzCopy is also available on [[Windows]], [[Linux]] and macOS.
 >
 > **[0:35](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azcopy?u=76281980&t=35)** Let's talk about the AzCopy new features.
 >
@@ -2459,15 +2432,15 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azcopy?u=76281980&t=64)** You can list and remove files and Blobs in a given path.
 >
-> **[1:08](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azcopy?u=76281980&t=68)** This is just a small subset of the new features, you can find the entire list of features on GitHub.
+> **[1:08](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azcopy?u=76281980&t=68)** This is just a small subset of the new features, you can find the entire list of features on [[GitHub]].
 >
-> **[1:15](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azcopy?u=76281980&t=75)** AzCopy supports two authentification options, Azure Active Directory supported for Blob and Azure Data Like Storage, Gen2 services.
+> **[1:15](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azcopy?u=76281980&t=75)** AzCopy supports two authentification options, [[Microsoft Entra ID|Azure Active Directory]] supported for Blob and Azure Data Like Storage, Gen2 services.
 >
 > **[1:24](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azcopy?u=76281980&t=84)** You need to use AzCopy with the log in parameter to sign in using Azure Active Directory.
 >
 > **[1:30](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azcopy?u=76281980&t=90)** The user should have the storage blob data contributor role assigned, to right to blob storage using Azure ID authentication.
 >
-> **[1:38](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azcopy?u=76281980&t=98)** The second option is shared access signature tokens supported for Blob and Azure files.
+> **[1:38](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azcopy?u=76281980&t=98)** The second option is shared access signature [[Tokens]] supported for Blob and Azure files.
 >
 > **[1:44](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azcopy?u=76281980&t=104)** You need to add the SAS token to the block path on the command line to use it.
 >
@@ -2531,7 +2504,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (13), data (8), [[Windows]] (3), prompt (3), next (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (13), [[Windows]] (3), [[Linux]] (2), [[Microsoft Entra ID|Azure active directory]] (2), [[Tokens]] (2)
 > **Tools:** command prompt (3), command line (2), github (1), windows terminal (1), azure portal (1)
 > **Env Vars:** url (4), sas (2)
 > **CLI Commands:** make (2), find (1)
@@ -2540,12 +2513,11 @@ created: 2026-05-02
 > **Versions:** version 10 (1)
 > **Documentation:** the documentation (1)
 
-#### Using Azure storage SDK
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/using-azure-storage-sdk?u=76281980)
+#### [Using Azure storage SDK](https://www.linkedin.com/learning/azure-storage-essential-training-2021/using-azure-storage-sdk?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/using-azure-storage-sdk?u=76281980&t=0)** - [Instructor] I want to show you Azure Storage SDK for Blob using .NET.
+> **[0:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/using-azure-storage-sdk?u=76281980&t=0)** - [Instructor] I want to show you [[Microsoft Azure|Azure]] Storage SDK for Blob using .NET.
 >
 > **[0:05](https://www.linkedin.com/learning/azure-storage-essential-training-2021/using-azure-storage-sdk?u=76281980&t=5)** To follow along, you will need an Azure Storage account and optionally a Blob container created, Visual Studio 2019, or the free community edition and some familiarity of C-sharp knowledge for .NET.
 >
@@ -2563,7 +2535,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/using-azure-storage-sdk?u=76281980&t=60)** Once the project is created we need to add a few packages from our Solution Explorer right click and select manage nugget packages for solution.
 >
-> **[1:12](https://www.linkedin.com/learning/azure-storage-essential-training-2021/using-azure-storage-sdk?u=76281980&t=72)** Select browse and search online for Microsoft Azure Storage Blob.
+> **[1:12](https://www.linkedin.com/learning/azure-storage-essential-training-2021/using-azure-storage-sdk?u=76281980&t=72)** Select browse and search online for [[Microsoft Azure]] Storage Blob.
 >
 > **[1:19](https://www.linkedin.com/learning/azure-storage-essential-training-2021/using-azure-storage-sdk?u=76281980&t=79)** You can also use Azure Storage File Shares or Storage Queues client library to do the same.
 >
@@ -2605,7 +2577,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/azure-storage-essential-training-2021/using-azure-storage-sdk?u=76281980&t=206)** The configuration manager namespace to put out the connection string from AppConfig.
 >
-> **[3:32](https://www.linkedin.com/learning/azure-storage-essential-training-2021/using-azure-storage-sdk?u=76281980&t=212)** We also need the cloud storage account and the Blob storage type namespaces.
+> **[3:32](https://www.linkedin.com/learning/azure-storage-essential-training-2021/using-azure-storage-sdk?u=76281980&t=212)** We also need the [[Cloud Storage]] account and the Blob storage type namespaces.
 >
 > **[3:37](https://www.linkedin.com/learning/azure-storage-essential-training-2021/using-azure-storage-sdk?u=76281980&t=217)** Now we are ready to upload and download files from our Blob Storage.
 >
@@ -2651,11 +2623,11 @@ created: 2026-05-02
 >
 > **[6:04](https://www.linkedin.com/learning/azure-storage-essential-training-2021/using-azure-storage-sdk?u=76281980&t=364)** Open the file and see that the message we edit previously is written to the text file.
 >
-> **[6:10](https://www.linkedin.com/learning/azure-storage-essential-training-2021/using-azure-storage-sdk?u=76281980&t=370)** If you want to learn how to write advanced code with other languages, such as Java, Ruby, and PHP the documentation will point you in the right direction.
+> **[6:10](https://www.linkedin.com/learning/azure-storage-essential-training-2021/using-azure-storage-sdk?u=76281980&t=370)** If you want to learn how to write advanced code with other languages, such as [[Java]], Ruby, and [[PHP]] the documentation will point you in the right direction.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), application (4), next (3), [[Search]] (2), [[Microsoft Azure]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Microsoft Azure]] (2), [[Cloud Storage]] (1), [[Java]] (1), [[PHP]] (1)
 > **UI Navigation:** click on (5), navigate to (2), open the (2), go to (2), select the (1)
 > **Env Vars:** net (3), sdk (2), php (1)
 > **Tools:** visual studio (3), azure portal (2)
@@ -2669,14 +2641,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Protecting Azure file shares
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/protecting-azure-file-shares?u=76281980)
+#### [Protecting Azure file shares](https://www.linkedin.com/learning/azure-storage-essential-training-2021/protecting-azure-file-shares?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/protecting-azure-file-shares?u=76281980&t=0)** - [Narrator] We all know backing up our data is essential.
 >
-> **[0:04](https://www.linkedin.com/learning/azure-storage-essential-training-2021/protecting-azure-file-shares?u=76281980&t=4)** Azure Backup is the Azure-based service you can use to backup or protect and restore your data in the Microsoft Cloud.
+> **[0:04](https://www.linkedin.com/learning/azure-storage-essential-training-2021/protecting-azure-file-shares?u=76281980&t=4)** [[Microsoft Azure|Azure]] Backup is the Azure-based service you can use to backup or protect and restore your data in the [[Microsoft]] Cloud.
 >
 > **[0:11](https://www.linkedin.com/learning/azure-storage-essential-training-2021/protecting-azure-file-shares?u=76281980&t=11)** Azure Backup replaces your existing on premises or offsite backup solution with a cloud based solution that is consistent, secure and cost competitive.
 >
@@ -2744,7 +2715,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/azure-storage-essential-training-2021/protecting-azure-file-shares?u=76281980&t=193)** You can also use Advanced Threat Protection to protect Azure Files, Azure Files Shares, Azure detects storage into, in addition to blob containers and Azure File Sync service.
 >
-> **[3:25](https://www.linkedin.com/learning/azure-storage-essential-training-2021/protecting-azure-file-shares?u=76281980&t=205)** For this you need to use Azure Defender for storage account.
+> **[3:25](https://www.linkedin.com/learning/azure-storage-essential-training-2021/protecting-azure-file-shares?u=76281980&t=205)** For this you need to use Azure [[Microsoft Defender|Defender]] for storage account.
 >
 > **[3:29](https://www.linkedin.com/learning/azure-storage-essential-training-2021/protecting-azure-file-shares?u=76281980&t=209)** Enabled on your subscription under the pricing and setting page in Azure Security Center.
 >
@@ -2756,19 +2727,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (24), data (17), cloud (4), [[Microsoft Defender|Defender]] (3), [[Security]] (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (24), [[Microsoft Defender|Defender]] (3), [[Microsoft]] (1)
 > **Env Vars:** lrs (2), grs (2)
 > **Definitions:** is a  (1), in other words (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [narrator] (1)
 
-#### Backing up Azure file shares
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/backing-up-azure-file-shares?u=76281980)
+#### [Backing up Azure file shares](https://www.linkedin.com/learning/azure-storage-essential-training-2021/backing-up-azure-file-shares?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/backing-up-azure-file-shares?u=76281980&t=0)** - Let's see how to back up Azure File Shares.
+> **[0:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/backing-up-azure-file-shares?u=76281980&t=0)** - Let's see how to back up [[Microsoft Azure|Azure]] File Shares.
 >
 > **[0:03](https://www.linkedin.com/learning/azure-storage-essential-training-2021/backing-up-azure-file-shares?u=76281980&t=3)** At the high level, here are four steps to enable backup for Azure File Shares.
 >
@@ -2848,23 +2818,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (13), next (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (13)
 > **Tools:** azure portal (3)
 > **Prerequisites:** configure (3)
 > **UI Navigation:** dropdown (1), select the (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - let (1)
 
-#### Protecting Azure Blob storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/protecting-azure-blob-storage?u=76281980)
+#### [Protecting Azure Blob storage](https://www.linkedin.com/learning/azure-storage-essential-training-2021/protecting-azure-blob-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/protecting-azure-blob-storage?u=76281980&t=0)** - We know that data is the most important asset for any organization.
 >
-> **[0:04](https://www.linkedin.com/learning/azure-storage-essential-training-2021/protecting-azure-blob-storage?u=76281980&t=4)** Let's look at how to protect that data in Azure Blob Storage.
+> **[0:04](https://www.linkedin.com/learning/azure-storage-essential-training-2021/protecting-azure-blob-storage?u=76281980&t=4)** Let's look at how to protect that data in [[Microsoft Azure|Azure]] Blob Storage.
 >
-> **[0:09](https://www.linkedin.com/learning/azure-storage-essential-training-2021/protecting-azure-blob-storage?u=76281980&t=9)** Microsoft recently introduced a new solution called "Operational Backup for Azure Blobs."
+> **[0:09](https://www.linkedin.com/learning/azure-storage-essential-training-2021/protecting-azure-blob-storage?u=76281980&t=9)** [[Microsoft]] recently introduced a new solution called "Operational Backup for Azure Blobs."
 >
 > **[0:15](https://www.linkedin.com/learning/azure-storage-essential-training-2021/protecting-azure-blob-storage?u=76281980&t=15)** It is a managed local data protection solution that lets you protect your block blobs from various data loss scenarios like corruptions, blob deletions and accidental storage account deletion.
 >
@@ -2898,7 +2867,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/azure-storage-essential-training-2021/protecting-azure-blob-storage?u=76281980&t=125)** Computer clusters processes the same set of objects locally in different regions to increase efficiency.
 >
-> **[2:12](https://www.linkedin.com/learning/azure-storage-essential-training-2021/protecting-azure-blob-storage?u=76281980&t=132)** Data is consolidated in a single location for processing analytics and then distribute it to dashboards and your offices worldwide.
+> **[2:12](https://www.linkedin.com/learning/azure-storage-essential-training-2021/protecting-azure-blob-storage?u=76281980&t=132)** Data is consolidated in a single location for processing analytics and then distribute it to [[Dashboards]] and your offices worldwide.
 >
 > **[2:19](https://www.linkedin.com/learning/azure-storage-essential-training-2021/protecting-azure-blob-storage?u=76281980&t=139)** You can move your data to archive up the replication completion using life cycle management policies to minimize the cost.
 >
@@ -2910,7 +2879,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/azure-storage-essential-training-2021/protecting-azure-blob-storage?u=76281980&t=159)** Object application as in currency copies, block blobs in a container, according to rules that you configure.
 >
-> **[2:46](https://www.linkedin.com/learning/azure-storage-essential-training-2021/protecting-azure-blob-storage?u=76281980&t=166)** The contents of the blob, any version associated with the blob and the blobs metadata and properties are all copied from the source container to the destination container.
+> **[2:46](https://www.linkedin.com/learning/azure-storage-essential-training-2021/protecting-azure-blob-storage?u=76281980&t=166)** The contents of the blob, any version associated with the blob and the blobs [[Metadata]] and properties are all copied from the source container to the destination container.
 >
 > **[2:56](https://www.linkedin.com/learning/azure-storage-essential-training-2021/protecting-azure-blob-storage?u=76281980&t=176)** Objects replication requires that block version is enabled on both the source and destination accounts.
 >
@@ -2930,18 +2899,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Microsoft Azure|Azure]] (5), management (2), [[Microsoft]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Microsoft]] (1), [[Dashboards]] (1), [[Metadata]] (1)
 > **Definitions:** is a  (2), known as (1)
 > **Env Vars:** url (1), worm (1)
 > **Prerequisites:** configure (2)
 > **Speakers:** - we (1)
 
-#### Backing up and replication for Azure Blob storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/backing-up-and-replication-for-azure-blob-storage?u=76281980)
+#### [Backing up and replication for Azure Blob storage](https://www.linkedin.com/learning/azure-storage-essential-training-2021/backing-up-and-replication-for-azure-blob-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/backing-up-and-replication-for-azure-blob-storage?u=76281980&t=0)** - [Instructor] Let's see how to backup and replicate Azure blobs.
+> **[0:00](https://www.linkedin.com/learning/azure-storage-essential-training-2021/backing-up-and-replication-for-azure-blob-storage?u=76281980&t=0)** - [Instructor] Let's see how to backup and replicate [[Microsoft Azure|Azure]] blobs.
 >
 > **[0:04](https://www.linkedin.com/learning/azure-storage-essential-training-2021/backing-up-and-replication-for-azure-blob-storage?u=76281980&t=4)** At a high level, there are five steps to enable backup for Azure blobs storage.
 >
@@ -3065,7 +3033,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (13), next (8), data (7), application (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (13)
 > **Prerequisites:** configure (6), set up (1)
 > **UI Navigation:** select the (3), navigate to (2)
 > **Tools:** azure portal (4)
@@ -3079,8 +3047,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning never stops
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/learning-never-stops?u=76281980)
+#### [Learning never stops](https://www.linkedin.com/learning/azure-storage-essential-training-2021/learning-never-stops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3088,19 +3055,19 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/azure-storage-essential-training-2021/learning-never-stops?u=76281980&t=3)** You made it to the end.
 >
-> **[0:05](https://www.linkedin.com/learning/azure-storage-essential-training-2021/learning-never-stops?u=76281980&t=5)** I would like to hear your feedback about this course so please feel free to reach out and connect with me on LinkedIn.
+> **[0:05](https://www.linkedin.com/learning/azure-storage-essential-training-2021/learning-never-stops?u=76281980&t=5)** I would like to hear your feedback about this course so please feel free to reach out and connect with me on [[LinkedIn]].
 >
 > **[0:12](https://www.linkedin.com/learning/azure-storage-essential-training-2021/learning-never-stops?u=76281980&t=12)** You can also connect with me on my personal blog.
 >
-> **[0:15](https://www.linkedin.com/learning/azure-storage-essential-training-2021/learning-never-stops?u=76281980&t=15)** On my website, you can find a step-by-step guides around Azure Storage, networking, hybrid scenarios and Cloud security.
+> **[0:15](https://www.linkedin.com/learning/azure-storage-essential-training-2021/learning-never-stops?u=76281980&t=15)** On my website, you can find a step-by-step guides around [[Microsoft Azure|Azure]] Storage, networking, hybrid scenarios and [[Cloud Security]].
 >
 > **[0:26](https://www.linkedin.com/learning/azure-storage-essential-training-2021/learning-never-stops?u=76281980&t=26)** You can also connect with me on Twitter.
 >
 > **[0:29](https://www.linkedin.com/learning/azure-storage-essential-training-2021/learning-never-stops?u=76281980&t=29)** Learning never stops.
 >
-> **[0:31](https://www.linkedin.com/learning/azure-storage-essential-training-2021/learning-never-stops?u=76281980&t=31)** To continue learning about Azure Storage and get guided access in a Sandbox environment, I highly recommend the following eight modules for the Microsoft Learn platform.
+> **[0:31](https://www.linkedin.com/learning/azure-storage-essential-training-2021/learning-never-stops?u=76281980&t=31)** To continue learning about Azure Storage and get guided access in a Sandbox environment, I highly recommend the following eight modules for the [[Microsoft]] Learn platform.
 >
-> **[0:40](https://www.linkedin.com/learning/azure-storage-essential-training-2021/learning-never-stops?u=76281980&t=40)** Finally, I recommend you stay up to date with the latest storage announcement on the Microsoft Azure site.
+> **[0:40](https://www.linkedin.com/learning/azure-storage-essential-training-2021/learning-never-stops?u=76281980&t=40)** Finally, I recommend you stay up to date with the latest storage announcement on the [[Microsoft Azure]] site.
 >
 > **[0:47](https://www.linkedin.com/learning/azure-storage-essential-training-2021/learning-never-stops?u=76281980&t=47)** I hope this course has been informative for you and I would like to thank you for watching.
 >
@@ -3108,7 +3075,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[LinkedIn]] (1), cloud (1), [[Security]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[LinkedIn]] (1), [[Cloud Security]] (1), [[Microsoft]] (1), [[Microsoft Azure]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [charbel] (1)
 

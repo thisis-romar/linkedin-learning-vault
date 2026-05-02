@@ -80,8 +80,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-programming-foundations/welcome?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/web-programming-foundations/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -103,9 +102,9 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/web-programming-foundations/welcome?u=76281980&t=56)** That server holds a document written in a markup language the browser can understand.
 >
-> **[1:02](https://www.linkedin.com/learning/web-programming-foundations/welcome?u=76281980&t=62)** That document in turn links to other files on the server and on the web, including images and videos, a style sheet describing what the content should look like, and maybe some JavaScript to add interactivity.
+> **[1:02](https://www.linkedin.com/learning/web-programming-foundations/welcome?u=76281980&t=62)** That document in turn links to other files on the server and on the web, including images and videos, a style sheet describing what the content should look like, and maybe some [[JavaScript]] to add interactivity.
 >
-> **[1:14](https://www.linkedin.com/learning/web-programming-foundations/welcome?u=76281980&t=74)** Those files were created by web designers and developers in accordance with strict rules of web standards, content hierarchy, and accessibility to make them easy to parse for servers and browsers and easy to read and understand for humans.
+> **[1:14](https://www.linkedin.com/learning/web-programming-foundations/welcome?u=76281980&t=74)** Those files were created by web designers and developers in accordance with strict rules of [[Web Standards]], content hierarchy, and accessibility to make them easy to parse for servers and browsers and easy to read and understand for humans.
 >
 > **[1:28](https://www.linkedin.com/learning/web-programming-foundations/welcome?u=76281980&t=88)** When you type that URL and press enter or click that link, a request is sent to the server to get that document and all its related files.
 >
@@ -125,7 +124,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (10), [[JavaScript]] (2)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Web Standards]] (1)
 > **Env Vars:** url (4)
 > **UI Navigation:** click on (3)
 > **CLI Commands:** make (2)
@@ -137,8 +136,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### From URL to website
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-programming-foundations/from-url-to-website?u=76281980)
+#### [From URL to website](https://www.linkedin.com/learning/web-programming-foundations/from-url-to-website?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -170,33 +168,32 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/web-programming-foundations/from-url-to-website?u=76281980&t=92)** The server retrieves all the data, aka the resource, and sends it back to the browser.
 >
-> **[1:38](https://www.linkedin.com/learning/web-programming-foundations/from-url-to-website?u=76281980&t=98)** The resource received by the browser is in all likelihood an HTML, or Hypertext Markup Language document.
+> **[1:38](https://www.linkedin.com/learning/web-programming-foundations/from-url-to-website?u=76281980&t=98)** The resource received by the browser is in all likelihood an [[HTML]], or Hypertext Markup Language document.
 >
 > **[1:46](https://www.linkedin.com/learning/web-programming-foundations/from-url-to-website?u=76281980&t=106)** HTML is the universal document language for the worldwide web.
 >
 > **[1:50](https://www.linkedin.com/learning/web-programming-foundations/from-url-to-website?u=76281980&t=110)** This HTML document contains all the contents of the page as well as references to media items like images, audio and video.
 >
-> **[1:58](https://www.linkedin.com/learning/web-programming-foundations/from-url-to-website?u=76281980&t=118)** It also contains links to cascading style sheets, or CSS, containing instructions on how the content should be displayed in the browser, and possibly JavaScript, small programs that run in the browser.
+> **[1:58](https://www.linkedin.com/learning/web-programming-foundations/from-url-to-website?u=76281980&t=118)** It also contains links to [[Cascading Style Sheets (CSS)|cascading style sheets]], or CSS, containing instructions on how the content should be displayed in the browser, and possibly [[JavaScript]], small programs that run in the browser.
 >
 > **[2:11](https://www.linkedin.com/learning/web-programming-foundations/from-url-to-website?u=76281980&t=131)** Finally, the browser puts the HTML and CSS and JavaScript together and paints the view you see in the viewport, the space inside the browser where the web is displayed.
 >
 > **[2:22](https://www.linkedin.com/learning/web-programming-foundations/from-url-to-website?u=76281980&t=142)** All of this back and forth and putting together happens really fast, usually in a few seconds or less, and most of it is automated and largely out of our control.
 >
-> **[2:31](https://www.linkedin.com/learning/web-programming-foundations/from-url-to-website?u=76281980&t=151)** Front-end web development is focused on how to make the stuff that ends up in the browser.
+> **[2:31](https://www.linkedin.com/learning/web-programming-foundations/from-url-to-website?u=76281980&t=151)** Front-end [[Web Development]] is focused on how to make the stuff that ends up in the browser.
 >
 > **[2:37](https://www.linkedin.com/learning/web-programming-foundations/from-url-to-website?u=76281980&t=157)** Knowing how it gets there helps explain some of the things we do when we build the creations that live on the web.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (6), [[HTML]] (4), dns (3), data (2), css (2)
+> **Frameworks & Libraries:** [[HTML]] (4), [[JavaScript]] (2), [[Cascading Style Sheets (CSS)|Cascading style sheets]] (1), [[Web Development]] (1)
 > **Env Vars:** url (6), html (4), dns (3), css (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - let (1)
 
-#### The web, in a browser
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-programming-foundations/the-web-in-a-browser?u=76281980)
+#### [The web, in a browser](https://www.linkedin.com/learning/web-programming-foundations/the-web-in-a-browser?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -226,14 +223,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), css (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** css (1)
 > **Speakers:** - so (1)
 
-#### The structure of a web document visualized
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-programming-foundations/the-structure-of-a-web-document-visualized?u=76281980)
+#### [The structure of a web document visualized](https://www.linkedin.com/learning/web-programming-foundations/the-structure-of-a-web-document-visualized?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -264,18 +259,17 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### The node tree: How the browser sees a web document
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-programming-foundations/the-node-tree-how-the-browser-sees-a-web-document?u=76281980)
+#### [The node tree: How the browser sees a web document](https://www.linkedin.com/learning/web-programming-foundations/the-node-tree-how-the-browser-sees-a-web-document?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/web-programming-foundations/the-node-tree-how-the-browser-sees-a-web-document?u=76281980&t=0)** - Any time a browser is asked to display an HTML document, it creates a document object model or DOM, which is a structural representation of the elements in the document and their relationships.
+> **[0:00](https://www.linkedin.com/learning/web-programming-foundations/the-node-tree-how-the-browser-sees-a-web-document?u=76281980&t=0)** - Any time a browser is asked to display an [[HTML]] document, it creates a [[Document Object Model (DOM)|document object model]] or DOM, which is a structural representation of the elements in the document and their relationships.
 >
 > **[0:12](https://www.linkedin.com/learning/web-programming-foundations/the-node-tree-how-the-browser-sees-a-web-document?u=76281980&t=12)** This document object model can be visualized as a DOM tree, where each element is a leaf or node, and the connections are branches.
 >
 > **[0:21](https://www.linkedin.com/learning/web-programming-foundations/the-node-tree-how-the-browser-sees-a-web-document?u=76281980&t=21)** When you add new elements to an HTML document, you are effectively adding a node to this DOM tree.
 >
-> **[0:27](https://www.linkedin.com/learning/web-programming-foundations/the-node-tree-how-the-browser-sees-a-web-document?u=76281980&t=27)** When you target elements using CS or Javascript, you ask the browser to follow the branches all the way from the root to the node or nodes in question.
+> **[0:27](https://www.linkedin.com/learning/web-programming-foundations/the-node-tree-how-the-browser-sees-a-web-document?u=76281980&t=27)** When you target elements using CS or [[JavaScript]], you ask the browser to follow the branches all the way from the root to the node or nodes in question.
 >
 > **[0:36](https://www.linkedin.com/learning/web-programming-foundations/the-node-tree-how-the-browser-sees-a-web-document?u=76281980&t=36)** This is called either walking or traversing or navigating the DOM.
 >
@@ -289,18 +283,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dom (5), node (4), [[HTML]] (2), [[Document Object Model (DOM)|Document object model]] (2), web (2)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Document Object Model (DOM)|Document object model]] (2), [[JavaScript]] (1)
 > **Env Vars:** dom (4), html (2)
 > **CLI Commands:** node (4), find (1)
 > **Definitions:** is a  (4), is called (1)
 > **Speakers:** - any (1)
 
-#### HTML: The source code of the web
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-programming-foundations/html-the-source-code-of-the-web?u=76281980)
+#### [HTML: The source code of the web](https://www.linkedin.com/learning/web-programming-foundations/html-the-source-code-of-the-web?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/web-programming-foundations/html-the-source-code-of-the-web?u=76281980&t=0)** - At the core of all of elements and boxes and nodes and trees is the web document itself written in Hypertext Markup Language, or HTML.
+> **[0:00](https://www.linkedin.com/learning/web-programming-foundations/html-the-source-code-of-the-web?u=76281980&t=0)** - At the core of all of elements and boxes and nodes and trees is the web document itself written in Hypertext Markup Language, or [[HTML]].
 >
 > **[0:11](https://www.linkedin.com/learning/web-programming-foundations/html-the-source-code-of-the-web?u=76281980&t=11)** HTML was created to allow humans to write highly-structured documents which could be interpreted consistently and universally by any rendering engine supporting the language.
 >
@@ -308,7 +301,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/web-programming-foundations/html-the-source-code-of-the-web?u=76281980&t=29)** For example, this is a first-level heading, this is a paragraph, this is a link, this is an emphasized text, this is an blockquote, this is an image, etc.
 >
-> **[0:38](https://www.linkedin.com/learning/web-programming-foundations/html-the-source-code-of-the-web?u=76281980&t=38)** However, HTML does not provide instructions about the control flow or processing or interactions with that content.
+> **[0:38](https://www.linkedin.com/learning/web-programming-foundations/html-the-source-code-of-the-web?u=76281980&t=38)** However, HTML does not provide instructions about the [[Control Flow]] or processing or interactions with that content.
 >
 > **[0:46](https://www.linkedin.com/learning/web-programming-foundations/html-the-source-code-of-the-web?u=76281980&t=46)** This allows the reader, commonly known as a client, so a web browser or some other application, to decide how to handle the different types of content which makes HTML incredibly versatile and accessible.
 >
@@ -336,19 +329,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (11), dom (5), web (3), application (2), node (2)
+> **Frameworks & Libraries:** [[HTML]] (11), [[Control Flow]] (1)
 > **Env Vars:** html (11), dom (5)
 > **Definitions:** is a  (4), is an  (3), known as (1)
 > **CLI Commands:** make (3), node (2), find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - at (1)
 
-#### The web document is a document with superpowers
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-programming-foundations/the-web-document-is-a-document-with-superpowers?u=76281980)
+#### [The web document is a document with superpowers](https://www.linkedin.com/learning/web-programming-foundations/the-web-document-is-a-document-with-superpowers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/web-programming-foundations/the-web-document-is-a-document-with-superpowers?u=76281980&t=0)** - I've shown you how what is displayed in the browser's view port is actually a rendering of an HTML document downloaded from a server somewhere in the world.
+> **[0:00](https://www.linkedin.com/learning/web-programming-foundations/the-web-document-is-a-document-with-superpowers?u=76281980&t=0)** - I've shown you how what is displayed in the browser's view port is actually a rendering of an [[HTML]] document downloaded from a server somewhere in the world.
 >
 > **[0:09](https://www.linkedin.com/learning/web-programming-foundations/the-web-document-is-a-document-with-superpowers?u=76281980&t=9)** This is an important realization, not just because it shows you how the web works at a fundamental level, but also because it reminds us of what the web is for.
 >
@@ -396,7 +388,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (13), [[HTML]] (6), application (1)
+> **Frameworks & Libraries:** [[HTML]] (6)
 > **Env Vars:** html (6), pdf (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
@@ -407,8 +399,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The dual purpose of web code
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-programming-foundations/the-dual-purpose-of-web-code?u=76281980)
+#### [The dual purpose of web code](https://www.linkedin.com/learning/web-programming-foundations/the-dual-purpose-of-web-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -444,13 +435,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), css (1), next (1)
 > **Env Vars:** css (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - when (1)
 
-#### Content and structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-programming-foundations/content-and-structure?u=76281980)
+#### [Content and structure](https://www.linkedin.com/learning/web-programming-foundations/content-and-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -458,7 +447,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/web-programming-foundations/content-and-structure?u=76281980&t=5)** To carry that meaning to other humans through the web, we need to mark up these documents so the browser understands the structure of that content.
 >
-> **[0:13](https://www.linkedin.com/learning/web-programming-foundations/content-and-structure?u=76281980&t=13)** HTML is a declarative, semantic, markup language, meaning we can use it to communicate meaning to whatever client application opens the document.
+> **[0:13](https://www.linkedin.com/learning/web-programming-foundations/content-and-structure?u=76281980&t=13)** [[HTML]] is a declarative, semantic, markup language, meaning we can use it to communicate meaning to whatever client application opens the document.
 >
 > **[0:22](https://www.linkedin.com/learning/web-programming-foundations/content-and-structure?u=76281980&t=22)** Let's look at an example.
 >
@@ -470,15 +459,15 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/web-programming-foundations/content-and-structure?u=76281980&t=45)** By adding a beginning element tag, like header, before the content of a section and a corresponding end element tag, like end header, at the end, we tell the browser, "consider this section "of content and everything that appears inside it, "the content of the header of this document, "and handle it appropriately."
 >
-> **[1:05](https://www.linkedin.com/learning/web-programming-foundations/content-and-structure?u=76281980&t=65)** The browser will then check with the supplied style sheets, JavaScript files, and any default behaviors before rendering out this content and painting it in the browser.
+> **[1:05](https://www.linkedin.com/learning/web-programming-foundations/content-and-structure?u=76281980&t=65)** The browser will then check with the supplied style sheets, [[JavaScript]] files, and any default behaviors before rendering out this content and painting it in the browser.
 >
 > **[1:15](https://www.linkedin.com/learning/web-programming-foundations/content-and-structure?u=76281980&t=75)** This semantic structure you see here is present throughout the entire HTML document.
 >
 > **[1:21](https://www.linkedin.com/learning/web-programming-foundations/content-and-structure?u=76281980&t=81)** Every part of the document is marked up with a tag describing its function, headings, paragraphs, emphasized and strongly emphasized texts, block quotes and citation, addresses, ordered and unordered lists, links, buttons, the list goes on.
 >
-> **[1:35](https://www.linkedin.com/learning/web-programming-foundations/content-and-structure?u=76281980&t=95)** For each of these elements, the browser generates a corresponding node and places it on the node tree of the document object model.
+> **[1:35](https://www.linkedin.com/learning/web-programming-foundations/content-and-structure?u=76281980&t=95)** For each of these elements, the browser generates a corresponding node and places it on the node tree of the [[Document Object Model (DOM)|document object model]].
 >
-> **[1:42](https://www.linkedin.com/learning/web-programming-foundations/content-and-structure?u=76281980&t=102)** Once that tree is populated, a user can instruct the client to fetch any of these elements either through direct interaction or through code.
+> **[1:42](https://www.linkedin.com/learning/web-programming-foundations/content-and-structure?u=76281980&t=102)** Once that tree is populated, a user can instruct the client to [[Fetch]] any of these elements either through direct interaction or through code.
 >
 > **[1:51](https://www.linkedin.com/learning/web-programming-foundations/content-and-structure?u=76281980&t=111)** Let's say, for example, you want to navigate the browser to a specific section or area within the document.
 >
@@ -502,7 +491,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), [[HTML]] (4), node (3), application (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[JavaScript]] (1), [[Document Object Model (DOM)|Document object model]] (1), [[Fetch]] (1)
 > **CLI Commands:** node (3), find (2)
 > **Env Vars:** html (4)
 > **UI Navigation:** click on (2), navigate to (1)
@@ -510,12 +499,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Metadata and purpose
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-programming-foundations/metadata-and-purpose?u=76281980)
+#### [Metadata and purpose](https://www.linkedin.com/learning/web-programming-foundations/metadata-and-purpose?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/web-programming-foundations/metadata-and-purpose?u=76281980&t=0)** - [Instructor] In addition to the standard content and markup, all web documents contain metadata that further describes the document and it's contents.
+> **[0:00](https://www.linkedin.com/learning/web-programming-foundations/metadata-and-purpose?u=76281980&t=0)** - [Instructor] In addition to the standard content and markup, all web documents contain [[Metadata]] that further describes the document and it's contents.
 >
 > **[0:08](https://www.linkedin.com/learning/web-programming-foundations/metadata-and-purpose?u=76281980&t=8)** Some of this metadata provides a literal description of the document and what it contains.
 >
@@ -529,7 +517,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/web-programming-foundations/metadata-and-purpose?u=76281980&t=35)** To assist humans in finding and accessing the content they are looking for, and to assist clients, search engines and other tools in cleaning meaningful data about the document and it's content, again, to assist human users.
 >
-> **[0:48](https://www.linkedin.com/learning/web-programming-foundations/metadata-and-purpose?u=76281980&t=48)** In the head section of a standard HTML document you'll find things like the human language the content is written in, the character set used, the text direction if the language is right to left, the title of the document to be displayed in the browser tab, associated style sheets and JavaScript references and other information.
+> **[0:48](https://www.linkedin.com/learning/web-programming-foundations/metadata-and-purpose?u=76281980&t=48)** In the head section of a standard [[HTML]] document you'll find things like the human language the content is written in, the character set used, the text direction if the language is right to left, the title of the document to be displayed in the browser tab, associated style sheets and [[JavaScript]] references and other information.
 >
 > **[1:06](https://www.linkedin.com/learning/web-programming-foundations/metadata-and-purpose?u=76281980&t=66)** All this information is provided to the browser or whatever client accesses the document, but it's not displayed to the human because it's meta information.
 >
@@ -541,19 +529,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), data (4), [[Metadata]] (3), web (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (3), [[HTML]] (1), [[JavaScript]] (1)
 > **CLI Commands:** find (3)
 > **Env Vars:** aria (2), html (1)
 > **Speakers:** - [instructor] (1)
 
-#### Accessibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-programming-foundations/accessibility?u=76281980)
+#### [Accessibility](https://www.linkedin.com/learning/web-programming-foundations/accessibility?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/web-programming-foundations/accessibility?u=76281980&t=0)** - I want to talk about a really important concept in web programming, accessibility.
 >
-> **[0:06](https://www.linkedin.com/learning/web-programming-foundations/accessibility?u=76281980&t=6)** Accessibility is one of the core concepts of the web, yet in the 30-some years since the first web page was published, web accessibility has largely taken a back seat to more attractive issues, like how to make things look pretty, or how to add fancy interactions.
+> **[0:06](https://www.linkedin.com/learning/web-programming-foundations/accessibility?u=76281980&t=6)** Accessibility is one of the core concepts of the web, yet in the 30-some years since the first web page was published, [[Web Accessibility]] has largely taken a back seat to more attractive issues, like how to make things look pretty, or how to add fancy interactions.
 >
 > **[0:21](https://www.linkedin.com/learning/web-programming-foundations/accessibility?u=76281980&t=21)** All that is finally changing thanks to the tireless work of the web accessibility community.
 >
@@ -571,7 +558,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/web-programming-foundations/accessibility?u=76281980&t=80)** The good news is web accessibility is neither complicated nor expensive, if it's built in from the start.
 >
-> **[1:27](https://www.linkedin.com/learning/web-programming-foundations/accessibility?u=76281980&t=87)** Semantic standards-compliant HTML is accessible by default.
+> **[1:27](https://www.linkedin.com/learning/web-programming-foundations/accessibility?u=76281980&t=87)** Semantic standards-compliant [[HTML]] is accessible by default.
 >
 > **[1:32](https://www.linkedin.com/learning/web-programming-foundations/accessibility?u=76281980&t=92)** Accessibility issues are introduced when we start trying to make a simple web document look and act fancy.
 >
@@ -609,7 +596,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (9), [[Web Accessibility]] (4), [[HTML]] (2), [[Programming]] (1), product (1)
+> **Frameworks & Libraries:** [[Web Accessibility]] (4), [[HTML]] (2)
 > **CLI Commands:** make (10)
 > **Env Vars:** html (2)
 > **Definitions:** is a  (1)
@@ -620,8 +607,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The web browser of today and of tomorrow
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-programming-foundations/the-web-browser-of-today-and-of-tomorrow?u=76281980)
+#### [The web browser of today and of tomorrow](https://www.linkedin.com/learning/web-programming-foundations/the-web-browser-of-today-and-of-tomorrow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -637,7 +623,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/web-programming-foundations/the-web-browser-of-today-and-of-tomorrow?u=76281980&t=25)** Earlier in the course, I described the web browser as an application for reading and viewing web documents, more specifically the purpose of the web browser is to make it easy for humans to access and navigate between web documents.
 >
-> **[0:40](https://www.linkedin.com/learning/web-programming-foundations/the-web-browser-of-today-and-of-tomorrow?u=76281980&t=40)** It downloads HTML and other markup and code files and outputs styled and formatted content for us humans to access.
+> **[0:40](https://www.linkedin.com/learning/web-programming-foundations/the-web-browser-of-today-and-of-tomorrow?u=76281980&t=40)** It downloads [[HTML]] and other markup and code files and outputs styled and formatted content for us humans to access.
 >
 > **[0:48](https://www.linkedin.com/learning/web-programming-foundations/the-web-browser-of-today-and-of-tomorrow?u=76281980&t=48)** The inherent challenge of the browser is that it is an interpreter and only recently have we gotten to a point that most browsers interpret the same code in more or less the same way.
 >
@@ -679,7 +665,7 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/web-programming-foundations/the-web-browser-of-today-and-of-tomorrow?u=76281980&t=224)** Our job is to make sure everything we build is accessible and works in all browsers, both the ones we use ourselves and the ones others use.
 >
-> **[3:55](https://www.linkedin.com/learning/web-programming-foundations/the-web-browser-of-today-and-of-tomorrow?u=76281980&t=235)** To get there, we follow accessibility and web standards, employ progressive enhancements to provide a great experience for everyone and an enhanced experience for those on modern platforms and make sure our content delivery is not dependent on current browser features.
+> **[3:55](https://www.linkedin.com/learning/web-programming-foundations/the-web-browser-of-today-and-of-tomorrow?u=76281980&t=235)** To get there, we follow accessibility and [[Web Standards]], employ progressive enhancements to provide a great experience for everyone and an enhanced experience for those on modern platforms and make sure our content delivery is not dependent on current browser features.
 >
 > **[4:13](https://www.linkedin.com/learning/web-programming-foundations/the-web-browser-of-today-and-of-tomorrow?u=76281980&t=253)** To meet that last requirement, more and more services now provide their content through a restful API, meaning the content is fully separated from the presentation and can be requested by any website or app, or any tool to be presented in the way preferred by the user.
 >
@@ -687,21 +673,20 @@ created: 2026-05-02
 >
 > **[4:41](https://www.linkedin.com/learning/web-programming-foundations/the-web-browser-of-today-and-of-tomorrow?u=76281980&t=281)** Here's the key take away, even though the content we publish on the web today should work in old browsers, it should not be built for those browsers.
 >
-> **[4:51](https://www.linkedin.com/learning/web-programming-foundations/the-web-browser-of-today-and-of-tomorrow?u=76281980&t=291)** Instead, the content should be separated from its presentation and browser-specific solutions like CSS and JavaScript should be added on as one option for accessing that content.
+> **[4:51](https://www.linkedin.com/learning/web-programming-foundations/the-web-browser-of-today-and-of-tomorrow?u=76281980&t=291)** Instead, the content should be separated from its presentation and browser-specific solutions like CSS and [[JavaScript]] should be added on as one option for accessing that content.
 >
 > **[5:03](https://www.linkedin.com/learning/web-programming-foundations/the-web-browser-of-today-and-of-tomorrow?u=76281980&t=303)** That's the way to build solutions for today and for the future.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (18), application (1), [[HTML]] (1), api (1), css (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[Web Standards]] (1), [[JavaScript]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** html (1), api (1), css (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Cross-References:** earlier in (1)
 > **Speakers:** - so (1)
 
-#### What is a code editor?
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-programming-foundations/what-is-a-code-editor?u=76281980)
+#### [What is a code editor?](https://www.linkedin.com/learning/web-programming-foundations/what-is-a-code-editor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -711,11 +696,11 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/web-programming-foundations/what-is-a-code-editor?u=76281980&t=23)** There are a myriad of code editors and types of code editors, all customized to fit a specific work situation, coding language, or practice, but they all have one crucial thing in common.
 >
-> **[0:36](https://www.linkedin.com/learning/web-programming-foundations/what-is-a-code-editor?u=76281980&t=36)** They are used to write or develop the code that powers the web and since that code, HTML, CSS, JavaScript, and so on, is open and uncompiled, it doesn't matter which code editor you use and you can open the same files and work with them in any code editor at any time.
+> **[0:36](https://www.linkedin.com/learning/web-programming-foundations/what-is-a-code-editor?u=76281980&t=36)** They are used to write or develop the code that powers the web and since that code, [[HTML]], CSS, [[JavaScript]], and so on, is open and uncompiled, it doesn't matter which code editor you use and you can open the same files and work with them in any code editor at any time.
 >
 > **[0:56](https://www.linkedin.com/learning/web-programming-foundations/what-is-a-code-editor?u=76281980&t=56)** In other words, for the most part, code editor preference is exactly that, a preference.
 >
-> **[1:02](https://www.linkedin.com/learning/web-programming-foundations/what-is-a-code-editor?u=76281980&t=62)** Some people like one code editor over another, some code editors provide better support for specific languages or coding practices than others, and in the end, they all produce the same output.
+> **[1:02](https://www.linkedin.com/learning/web-programming-foundations/what-is-a-code-editor?u=76281980&t=62)** Some people like one code editor over another, some code editors provide better support for specific languages or [[Coding Practices]] than others, and in the end, they all produce the same output.
 >
 > **[1:15](https://www.linkedin.com/learning/web-programming-foundations/what-is-a-code-editor?u=76281980&t=75)** While code editors vary tremendously on appearance and functionality, they have some key traits in common that help you write better code.
 >
@@ -773,15 +758,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), application (2), [[HTML]] (2), css (2), [[JavaScript]] (2)
+> **Frameworks & Libraries:** [[HTML]] (2), [[JavaScript]] (2), [[Coding Practices]] (1)
 > **Env Vars:** wysiwyg (4), html (2), css (2)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1), in other words (1)
 > **UI Navigation:** open the (1)
 > **Speakers:** - all (1)
 
-#### Developer tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-programming-foundations/developer-tools?u=76281980)
+#### [Developer tools](https://www.linkedin.com/learning/web-programming-foundations/developer-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -789,7 +773,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/web-programming-foundations/developer-tools?u=76281980&t=5)** These are tools built into every browser that let you see what's going on behind the scenes, and even manipulate what code the browser is working with to figure out how things work, and how to make them work better.
 >
-> **[0:15](https://www.linkedin.com/learning/web-programming-foundations/developer-tools?u=76281980&t=15)** Historically, developer tools were an add-on to most browsers, but today they are a standard feature; open any browser, and you can right click on any element in a web document to inspect its markup, what styles apply to it, and even run JavaScript code in the console.
+> **[0:15](https://www.linkedin.com/learning/web-programming-foundations/developer-tools?u=76281980&t=15)** Historically, developer tools were an add-on to most browsers, but today they are a standard feature; open any browser, and you can right click on any element in a web document to inspect its markup, what styles apply to it, and even run [[JavaScript]] code in the console.
 >
 > **[0:31](https://www.linkedin.com/learning/web-programming-foundations/developer-tools?u=76281980&t=31)** This gives you, as a web developer, full insight into what's happening when you tell the browser to open a document, and it's an essential tool, both when you develop new documents and write new code, and when you're debugging existing documents to figure out what's going on, and how to make it work properly.
 >
@@ -813,7 +797,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/web-programming-foundations/developer-tools?u=76281980&t=117)** So this is the code that's actually running in the browser.
 >
-> **[2:00](https://www.linkedin.com/learning/web-programming-foundations/developer-tools?u=76281980&t=120)** From here I now have complete control over the html, so if I want to change the text from "Book Now!"
+> **[2:00](https://www.linkedin.com/learning/web-programming-foundations/developer-tools?u=76281980&t=120)** From here I now have complete control over the [[HTML]], so if I want to change the text from "Book Now!"
 >
 > **[2:05](https://www.linkedin.com/learning/web-programming-foundations/developer-tools?u=76281980&t=125)** to "ha-ha", or something else, I can do that and it happens automatically.
 >
@@ -861,11 +845,11 @@ created: 2026-05-02
 >
 > **[5:40](https://www.linkedin.com/learning/web-programming-foundations/developer-tools?u=76281980&t=340)** You can even preview any one of your sites in mobile mode, and select different types of mobile devices, and the different types of mobile networks, so you can see exactly how everything works.
 >
-> **[5:51](https://www.linkedin.com/learning/web-programming-foundations/developer-tools?u=76281980&t=351)** Browser tools are an essential part of web development.
+> **[5:51](https://www.linkedin.com/learning/web-programming-foundations/developer-tools?u=76281980&t=351)** Browser tools are an essential part of [[Web Development]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dom (7), web (4), [[JavaScript]] (3), css (2), feature (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[HTML]] (1), [[Web Development]] (1)
 > **Env Vars:** dom (7), cta (3), css (2), hex (1), rgb (1)
 > **CLI Commands:** make (5), find (3), node (1)
 > **UI Navigation:** click on (6), open the (1)
@@ -879,14 +863,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### HTML
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-programming-foundations/html?u=76281980)
+#### [HTML](https://www.linkedin.com/learning/web-programming-foundations/html?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/web-programming-foundations/html?u=76281980&t=0)** - At it's core, the web runs on three main programming and markup languages.
 >
-> **[0:05](https://www.linkedin.com/learning/web-programming-foundations/html?u=76281980&t=5)** HTML for content, CSS for style and JavaScript for interactivity.
+> **[0:05](https://www.linkedin.com/learning/web-programming-foundations/html?u=76281980&t=5)** [[HTML]] for content, CSS for style and [[JavaScript]] for interactivity.
 >
 > **[0:11](https://www.linkedin.com/learning/web-programming-foundations/html?u=76281980&t=11)** In this chapter, we'll look at each of these in detail to figure out what they are, how they work, and how they work together.
 >
@@ -900,7 +883,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/web-programming-foundations/html?u=76281980&t=53)** That's when I started building stuff on the web, and trust me when I say it was not great.
 >
-> **[0:59](https://www.linkedin.com/learning/web-programming-foundations/html?u=76281980&t=59)** Thankfully, we've moved on from the days of static web documents to dynamic web applications powered by content management systems or custom template-based solutions.
+> **[0:59](https://www.linkedin.com/learning/web-programming-foundations/html?u=76281980&t=59)** Thankfully, we've moved on from the days of static web documents to dynamic web applications powered by [[Content Management Systems (CMS)|content management systems]] or custom template-based solutions.
 >
 > **[1:09](https://www.linkedin.com/learning/web-programming-foundations/html?u=76281980&t=69)** Whereas static HTML documents were written entirely by hand, modern CMS or template-based solutions render the final HTML documents either on the server before they are sent to the browser or in the browser itself.
 >
@@ -926,19 +909,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (13), web (8), application (3), [[JavaScript]] (2), data (2)
+> **Frameworks & Libraries:** [[HTML]] (13), [[JavaScript]] (2), [[Content Management Systems (CMS)|Content management systems]] (1)
 > **Env Vars:** html (13), css (1), cms (1)
 > **Exercise Files:** template (3)
 > **Definitions:** is an  (1), in other words (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - at (1)
 
-#### CSS
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-programming-foundations/css?u=76281980)
+#### [CSS](https://www.linkedin.com/learning/web-programming-foundations/css?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/web-programming-foundations/css?u=76281980&t=0)** - [Tutor] CCS or Cascading Style Sheets is the presentational markup used to give the browser instructions about the appearance of HTML elements.
+> **[0:00](https://www.linkedin.com/learning/web-programming-foundations/css?u=76281980&t=0)** - [Tutor] CCS or [[Cascading Style Sheets (CSS)|Cascading Style Sheets]] is the presentational markup used to give the browser instructions about the appearance of [[HTML]] elements.
 >
 > **[0:08](https://www.linkedin.com/learning/web-programming-foundations/css?u=76281980&t=8)** CSS was introduced to create a clear separation between the content, HTML markup and its presentation, CSS rules, this was in response to an early trend of using tables and frames and layers to force layouts on a vertical document by building presentational elements right into the HTML, thereby mixing the content with things that were not meaningful and also messing up the content in the process.
 >
@@ -962,25 +944,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (12), [[HTML]] (7), dom (2), [[Cascading Style Sheets (CSS)|Cascading style sheets]] (1), node (1)
+> **Frameworks & Libraries:** [[HTML]] (7), [[Cascading Style Sheets (CSS)|Cascading style sheets]] (1)
 > **Env Vars:** css (12), html (7), dom (2), ccs (1)
 > **CLI Commands:** node (1), make (1)
 > **Definitions:** in other words (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [tutor] (1)
 
-#### JavaScript
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-programming-foundations/javascript?u=76281980)
+#### [JavaScript](https://www.linkedin.com/learning/web-programming-foundations/javascript?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/web-programming-foundations/javascript?u=76281980&t=0)** - [Instructor] JavaScript is the third markup language used to make up the front end of a web document.
+> **[0:00](https://www.linkedin.com/learning/web-programming-foundations/javascript?u=76281980&t=0)** - [Instructor] [[JavaScript]] is the third markup language used to make up the front end of a web document.
 >
-> **[0:06](https://www.linkedin.com/learning/web-programming-foundations/javascript?u=76281980&t=6)** For simplicity, I like to call JavaScript the interactive layer that sits on top of HTML and CSS.
+> **[0:06](https://www.linkedin.com/learning/web-programming-foundations/javascript?u=76281980&t=6)** For simplicity, I like to call JavaScript the interactive layer that sits on top of [[HTML]] and CSS.
 >
 > **[0:12](https://www.linkedin.com/learning/web-programming-foundations/javascript?u=76281980&t=12)** JavaScript is a scripting language that runs in the browser and interacts with the HTML markup and CSS rules to change what you see and what you can do.
 >
-> **[0:21](https://www.linkedin.com/learning/web-programming-foundations/javascript?u=76281980&t=21)** What sets JavaScript apart from other web programming languages like PHP and Ruby is it executes in the browser rather than on the server.
+> **[0:21](https://www.linkedin.com/learning/web-programming-foundations/javascript?u=76281980&t=21)** What sets JavaScript apart from other web programming languages like [[PHP]] and Ruby is it executes in the browser rather than on the server.
 >
 > **[0:29](https://www.linkedin.com/learning/web-programming-foundations/javascript?u=76281980&t=29)** In other words, the interactivity happens locally on whatever device is accessing the document, and in many cases it can run even if the internet and the connection to the web server is cut.
 >
@@ -990,7 +971,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/web-programming-foundations/javascript?u=76281980&t=60)** In recent years, JavaScript has migrated from the browser to other environments, meaning you can now create server-side JavaScript applications and populate sites almost entirely using JavaScript.
 >
-> **[1:12](https://www.linkedin.com/learning/web-programming-foundations/javascript?u=76281980&t=72)** When you visit a site like [linkedin.com](https://linkedin.com), you're seeing a basic HTML and CSS document generated and managed almost entirely using JavaScript that loads content, adds interactivity, and makes the site feel less like a web document than an interactive application.
+> **[1:12](https://www.linkedin.com/learning/web-programming-foundations/javascript?u=76281980&t=72)** When you visit a site like [[[LinkedIn]].com](https://linkedin.com), you're seeing a basic HTML and CSS document generated and managed almost entirely using JavaScript that loads content, adds interactivity, and makes the site feel less like a web document than an interactive application.
 >
 > **[1:28](https://www.linkedin.com/learning/web-programming-foundations/javascript?u=76281980&t=88)** Practically speaking, JavaScript is a scripting language that allows you to write small programs that run in the browser and change the HTML and CSS of the current document.
 >
@@ -1002,23 +983,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (14), [[HTML]] (7), css (6), web (4), dom (3)
+> **Frameworks & Libraries:** [[JavaScript]] (14), [[HTML]] (7), [[PHP]] (1), [[LinkedIn]] (1)
 > **Env Vars:** html (7), css (6), dom (3), php (1)
 > **CLI Commands:** make (3), php (1), ruby (1)
 > **Definitions:** is a  (2), in other words (1)
 > **URLs:** [linkedin.com](https://linkedin.com) (1)
 > **Speakers:** - [instructor] (1)
 
-#### The Document Object Model (DOM)
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-programming-foundations/the-document-object-model-dom?u=76281980)
+#### [The Document Object Model (DOM)](https://www.linkedin.com/learning/web-programming-foundations/the-document-object-model-dom?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/web-programming-foundations/the-document-object-model-dom?u=76281980&t=0)** - [Instructor] Any time we're talking about the content that's being rendered in the browser, we are talking about the DOM, the Document Object Model.
+> **[0:00](https://www.linkedin.com/learning/web-programming-foundations/the-document-object-model-dom?u=76281980&t=0)** - [Instructor] Any time we're talking about the content that's being rendered in the browser, we are talking about the DOM, the [[Document Object Model (DOM)|Document Object Model]].
 >
 > **[0:07](https://www.linkedin.com/learning/web-programming-foundations/the-document-object-model-dom?u=76281980&t=7)** The DOM is the browser's model for the document displayed.
 >
-> **[0:11](https://www.linkedin.com/learning/web-programming-foundations/the-document-object-model-dom?u=76281980&t=11)** In HTML, every piece of content is wrapped in a beginning and an end tag, creating an HTML element.
+> **[0:11](https://www.linkedin.com/learning/web-programming-foundations/the-document-object-model-dom?u=76281980&t=11)** In [[HTML]], every piece of content is wrapped in a beginning and an end tag, creating an HTML element.
 >
 > **[0:19](https://www.linkedin.com/learning/web-programming-foundations/the-document-object-model-dom?u=76281980&t=19)** Each of these elements is a DOM object, typically referred to as a node.
 >
@@ -1050,25 +1030,24 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/web-programming-foundations/the-document-object-model-dom?u=76281980&t=116)** Well, here in the browser with the developer tools open, it is on full display.
 >
-> **[2:02](https://www.linkedin.com/learning/web-programming-foundations/the-document-object-model-dom?u=76281980&t=122)** The browser creates the DOM based on the semantic markup in the HTML document.
+> **[2:02](https://www.linkedin.com/learning/web-programming-foundations/the-document-object-model-dom?u=76281980&t=122)** The browser creates the DOM based on the [[Semantic Markup]] in the HTML document.
 >
-> **[2:07](https://www.linkedin.com/learning/web-programming-foundations/the-document-object-model-dom?u=76281980&t=127)** We can then use CSS rules and JavaScript to apply presentational elements and behaviors to elements and content in the document by targeting these nodes in the DOM.
+> **[2:07](https://www.linkedin.com/learning/web-programming-foundations/the-document-object-model-dom?u=76281980&t=127)** We can then use CSS rules and [[JavaScript]] to apply presentational elements and behaviors to elements and content in the document by targeting these nodes in the DOM.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (12), [[HTML]] (8), dom (7), css (3), [[Document Object Model (DOM)|Document object model]] (2)
+> **Frameworks & Libraries:** [[HTML]] (8), [[Document Object Model (DOM)|Document object model]] (2), [[Semantic Markup]] (1), [[JavaScript]] (1)
 > **Env Vars:** dom (7), html (7), css (3)
 > **CLI Commands:** node (12), find (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Events
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-programming-foundations/events?u=76281980)
+#### [Events](https://www.linkedin.com/learning/web-programming-foundations/events?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/web-programming-foundations/events?u=76281980&t=0)** - [Instructor] Any time something happens in a browser, an event is triggered, and JavaScript can use these events to trigger further behaviors.
+> **[0:00](https://www.linkedin.com/learning/web-programming-foundations/events?u=76281980&t=0)** - [Instructor] Any time something happens in a browser, an event is triggered, and [[JavaScript]] can use these events to trigger further behaviors.
 >
 > **[0:08](https://www.linkedin.com/learning/web-programming-foundations/events?u=76281980&t=8)** Now everything that happens in the browser is registered as an event.
 >
@@ -1098,7 +1077,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/web-programming-foundations/events?u=76281980&t=66)** In our basic rundown of the parts that make up the web, the event is the last link in a chain.
 >
-> **[1:12](https://www.linkedin.com/learning/web-programming-foundations/events?u=76281980&t=72)** To recap, the HTML markup describes the document and identifies each unique object within that document using semantic tags.
+> **[1:12](https://www.linkedin.com/learning/web-programming-foundations/events?u=76281980&t=72)** To recap, the [[HTML]] markup describes the document and identifies each unique object within that document using semantic tags.
 >
 > **[1:20](https://www.linkedin.com/learning/web-programming-foundations/events?u=76281980&t=80)** These tags are turned into nodes on the DOM tree.
 >
@@ -1112,7 +1091,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (4), dom (4), node (2), web (2), [[HTML]] (2)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[HTML]] (2)
 > **Env Vars:** dom (4), html (2), css (2), url (1)
 > **CLI Commands:** node (2), make (1)
 > **UI Navigation:** open the (1)
@@ -1120,8 +1099,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Putting it all together
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-programming-foundations/putting-it-all-together?u=76281980)
+#### [Putting it all together](https://www.linkedin.com/learning/web-programming-foundations/putting-it-all-together?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1135,7 +1113,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/web-programming-foundations/putting-it-all-together?u=76281980&t=40)** On the surface, you have to manually reload the browser every time you make a change in the editor, and that can be really annoying.
 >
-> **[0:48](https://www.linkedin.com/learning/web-programming-foundations/putting-it-all-together?u=76281980&t=48)** But more importantly, running an HTML document from your computer like this, directly in your browser, is not the same as running an HTML document from a web server.
+> **[0:48](https://www.linkedin.com/learning/web-programming-foundations/putting-it-all-together?u=76281980&t=48)** But more importantly, running an [[HTML]] document from your computer like this, directly in your browser, is not the same as running an HTML document from a web server.
 >
 > **[0:58](https://www.linkedin.com/learning/web-programming-foundations/putting-it-all-together?u=76281980&t=58)** You miss a bunch of the web functionality, and many features will not work.
 >
@@ -1145,7 +1123,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/web-programming-foundations/putting-it-all-together?u=76281980&t=78)** But these are large, complex applications meant for large, complex sites that require set up and configuration.
 >
-> **[1:26](https://www.linkedin.com/learning/web-programming-foundations/putting-it-all-together?u=76281980&t=86)** If all you want to do is quickly spin up a couple of HTML documents with some CSS and JavaScript, there are simpler ways of getting the real experience in your browser.
+> **[1:26](https://www.linkedin.com/learning/web-programming-foundations/putting-it-all-together?u=76281980&t=86)** If all you want to do is quickly spin up a couple of HTML documents with some CSS and [[JavaScript]], there are simpler ways of getting the real experience in your browser.
 >
 > **[1:35](https://www.linkedin.com/learning/web-programming-foundations/putting-it-all-together?u=76281980&t=95)** Most modern code editors, including Visual Studio Code, which is what I'm using in this course, and Atom, has extensions for live servers.
 >
@@ -1175,7 +1153,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (8), [[HTML]] (3), css (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[JavaScript]] (1)
 > **Tools:** visual studio (3), firefox (1), atom (1), command line (1)
 > **Env Vars:** html (3), mamp (1), css (1)
 > **CLI Commands:** make (2)
@@ -1188,8 +1166,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-programming-foundations/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/web-programming-foundations/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1199,13 +1176,13 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/web-programming-foundations/next-steps?u=76281980&t=12)** This knowledge becomes the foundation on which you build your web programming practice and we have all the courses to get you going.
 >
-> **[0:19](https://www.linkedin.com/learning/web-programming-foundations/next-steps?u=76281980&t=19)** With HTML, CSS, and [[JavaScript Essential Training]] and advanced courses on content management systems, like WordPress, server and front-end scripting, restful APIs, JavaScript frameworks and more, all paths are open to you, as you build your skills and learn now to make new functional, accessible, creative and inspiring content and experiences for the web.
+> **[0:19](https://www.linkedin.com/learning/web-programming-foundations/next-steps?u=76281980&t=19)** With [[HTML]], CSS, and [[[[JavaScript]] Essential Training]] and advanced courses on [[Content Management Systems (CMS)|content management systems]], like [[WordPress]], server and front-end scripting, restful APIs, JavaScript frameworks and more, all paths are open to you, as you build your skills and learn now to make new functional, accessible, creative and inspiring content and experiences for the web.
 >
-> **[0:41](https://www.linkedin.com/learning/web-programming-foundations/next-steps?u=76281980&t=41)** I love hearing from you about how you use what you've learned in my courses and I'm excited to hear about your journey as you dive into web development.
+> **[0:41](https://www.linkedin.com/learning/web-programming-foundations/next-steps?u=76281980&t=41)** I love hearing from you about how you use what you've learned in my courses and I'm excited to hear about your journey as you dive into [[Web Development]].
 >
-> **[0:48](https://www.linkedin.com/learning/web-programming-foundations/next-steps?u=76281980&t=48)** You can find me on Twitter at Morten because that's my name, where I talk about web design and the internet, and politics, and music and dancing.
+> **[0:48](https://www.linkedin.com/learning/web-programming-foundations/next-steps?u=76281980&t=48)** You can find me on Twitter at Morten because that's my name, where I talk about [[Web Design]] and the internet, and politics, and music and dancing.
 >
-> **[0:55](https://www.linkedin.com/learning/web-programming-foundations/next-steps?u=76281980&t=55)** And you can follow me on LinkedIn and read my articles on LinkedIn Pulse.
+> **[0:55](https://www.linkedin.com/learning/web-programming-foundations/next-steps?u=76281980&t=55)** And you can follow me on [[LinkedIn]] and read my articles on LinkedIn Pulse.
 >
 > **[1:00](https://www.linkedin.com/learning/web-programming-foundations/next-steps?u=76281980&t=60)** I'm always up for a chat about the internet and how we use it, so don't hesitate to reach out.
 >
@@ -1213,7 +1190,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (6), [[Programming]] (2), [[JavaScript]] (2), [[LinkedIn]] (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[LinkedIn]] (2), [[HTML]] (1), [[Content Management Systems (CMS)|Content management systems]] (1), [[WordPress]] (1)
 > **CLI Commands:** make (1), find (1), go build (1)
 > **Env Vars:** html (1), css (1)
 > **Cross-References:** in the next (1)

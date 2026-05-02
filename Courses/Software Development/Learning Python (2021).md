@@ -94,12 +94,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/learning-python-22821893?u=76281980)
+#### [Learning Python](https://www.linkedin.com/learning/learning-python-2021/learning-python-22821893?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-python-2021/learning-python-22821893?u=76281980&t=0)** - The Python programming language has become one of the most popular languages in the world.
+> **[0:00](https://www.linkedin.com/learning/learning-python-2021/learning-python-22821893?u=76281980&t=0)** - The [[Python (Programming Language)|Python]] programming language has become one of the most popular languages in the world.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-python-2021/learning-python-22821893?u=76281980&t=4)** Python has an easy to learn structure.
 >
@@ -111,26 +110,25 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/learning-python-2021/learning-python-22821893?u=76281980&t=29)** Then we'll move on to working with some of Python's built in high level data types, such as dates, times and files.
 >
-> **[0:37](https://www.linkedin.com/learning/learning-python-2021/learning-python-22821893?u=76281980&t=37)** Finally, we'll wrap up by processing information such as HTML, XML, and JSON.
+> **[0:37](https://www.linkedin.com/learning/learning-python-2021/learning-python-22821893?u=76281980&t=37)** Finally, we'll wrap up by processing information such as [[HTML]], XML, and [[JSON]].
 >
 > **[0:43](https://www.linkedin.com/learning/learning-python-2021/learning-python-22821893?u=76281980&t=43)** If you're ready to start building the next generation of cross platform applications that run on the client as well as the cloud, let's get started learning Python.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Programming]] (3), cloud (2), data (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[HTML]] (1), [[JSON]] (1)
 > **CLI Commands:** python (5)
 > **Env Vars:** html (1), xml (1), json (1)
 > **Analogies:** such as (2)
 > **Speakers:** - the (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/learning-python-2021/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-python-2021/what-you-should-know?u=76281980&t=0)** - [Instructor] Before we get started, there are some concepts that you should already be familiar with in order to get the most value out of this course.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-python-2021/what-you-should-know?u=76281980&t=7)** This course is designed to quickly get you up and running with the Python programming language.
+> **[0:07](https://www.linkedin.com/learning/learning-python-2021/what-you-should-know?u=76281980&t=7)** This course is designed to quickly get you up and running with the [[Python (Programming Language)|Python]] programming language.
 >
 > **[0:12](https://www.linkedin.com/learning/learning-python-2021/what-you-should-know?u=76281980&t=12)** It is not intended to be a general introduction to the fundamentals of programming itself.
 >
@@ -140,7 +138,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/learning-python-2021/what-you-should-know?u=76281980&t=32)** It does a great job of introducing the fundamentals of programming.
 >
-> **[0:35](https://www.linkedin.com/learning/learning-python-2021/what-you-should-know?u=76281980&t=35)** If you have prior experience with other programming languages like JavaScript, that will also be very helpful.
+> **[0:35](https://www.linkedin.com/learning/learning-python-2021/what-you-should-know?u=76281980&t=35)** If you have prior experience with other programming languages like [[JavaScript]], that will also be very helpful.
 >
 > **[0:41](https://www.linkedin.com/learning/learning-python-2021/what-you-should-know?u=76281980&t=41)** And it's okay if you don't, you will still be able to benefit from the course.
 >
@@ -154,19 +152,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (7), [[JavaScript]] (3), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2)
 > **Tools:** terminal (1), visual studio (1)
 > **Analogies:** such as (1), similar to (1)
 > **Env Vars:** ide (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/exercise-files?u=76281980)
+#### [Exercise files](https://www.linkedin.com/learning/learning-python-2021/exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-python-2021/exercise-files?u=76281980&t=0)** - [Instructor] I've provided a set of exercise files to accompany this course, which you can download from the associated GitHub repository.
+> **[0:00](https://www.linkedin.com/learning/learning-python-2021/exercise-files?u=76281980&t=0)** - [Instructor] I've provided a set of exercise files to accompany this course, which you can download from the associated [[GitHub]] repository.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-python-2021/exercise-files?u=76281980&t=7)** You can see here that I've placed them on my desktop so that they're easy to access, but you can place them wherever is most convenient for you.
 >
@@ -205,20 +202,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Installing Python on Windows
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/installing-python-on-windows?u=76281980)
+#### [Installing Python on Windows](https://www.linkedin.com/learning/learning-python-2021/installing-python-on-windows?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-python-2021/installing-python-on-windows?u=76281980&t=0)** - [Instructor] Let's begin by making sure that Python is properly installed and configured on your computer.
+> **[0:00](https://www.linkedin.com/learning/learning-python-2021/installing-python-on-windows?u=76281980&t=0)** - [Instructor] Let's begin by making sure that [[Python (Programming Language)|Python]] is properly installed and configured on your computer.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-python-2021/installing-python-on-windows?u=76281980&t=5)** So here on my machine, I'm going to open a terminal window, and then in the terminal window, I'm going to type py.
 >
-> **[0:13](https://www.linkedin.com/learning/learning-python-2021/installing-python-on-windows?u=76281980&t=13)** I could also just type the word Python by itself, but I'm going to type py --version, and hit the enter key.
+> **[0:13](https://www.linkedin.com/learning/learning-python-2021/installing-python-on-windows?u=76281980&t=13)** I could also just type the [[Microsoft Word|word]] Python by itself, but I'm going to type py --version, and hit the enter key.
 >
 > **[0:20](https://www.linkedin.com/learning/learning-python-2021/installing-python-on-windows?u=76281980&t=20)** And you can see that I'm using Python 3.9 on my computer.
 >
-> **[0:24](https://www.linkedin.com/learning/learning-python-2021/installing-python-on-windows?u=76281980&t=24)** Now, if you're on Windows and you didn't get a result that looks like this, the word Python followed by a version number, then you probably got some kind of error message or the version number you have is less than 3.9.
+> **[0:24](https://www.linkedin.com/learning/learning-python-2021/installing-python-on-windows?u=76281980&t=24)** Now, if you're on [[Windows]] and you didn't get a result that looks like this, the word Python followed by a version number, then you probably got some kind of error message or the version number you have is less than 3.9.
 >
 > **[0:36](https://www.linkedin.com/learning/learning-python-2021/installing-python-on-windows?u=76281980&t=36)** So in either case, that means you need to install the latest version of Python on your machine.
 >
@@ -246,7 +242,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[Microsoft Word|Word]] (2), [[Windows]] (2), hit (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[Microsoft Word|Word]] (2), [[Windows]] (2)
 > **CLI Commands:** python (9), make (1)
 > **Versions:** 3.9 (2), python 3 (1)
 > **Tools:** terminal (3)
@@ -254,14 +250,13 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Installing Python on Mac
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/installing-python-on-mac?u=76281980)
+#### [Installing Python on Mac](https://www.linkedin.com/learning/learning-python-2021/installing-python-on-mac?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-python-2021/installing-python-on-mac?u=76281980&t=0)** - [Instructor] Installing Python on the Mac is pretty much the same as installing it on Windows.
+> **[0:00](https://www.linkedin.com/learning/learning-python-2021/installing-python-on-mac?u=76281980&t=0)** - [Instructor] Installing [[Python (Programming Language)|Python]] on the Mac is pretty much the same as installing it on [[Windows]].
 >
-> **[0:04](https://www.linkedin.com/learning/learning-python-2021/installing-python-on-mac?u=76281980&t=4)** Now, the good news is if you're watching this on a Mac or Linux machine, chances are, you've already got Python installed on your system, but it might not be the most recent version.
+> **[0:04](https://www.linkedin.com/learning/learning-python-2021/installing-python-on-mac?u=76281980&t=4)** Now, the good news is if you're watching this on a Mac or [[Linux]] machine, chances are, you've already got Python installed on your system, but it might not be the most recent version.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-python-2021/installing-python-on-mac?u=76281980&t=13)** The Mac ships with Python as does many versions of Linux.
 >
@@ -279,7 +274,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/learning-python-2021/installing-python-on-mac?u=76281980&t=53)** So I'm going to type python3 --version and you can see that I'm using Python 3.9 on my computer.
 >
-> **[1:01](https://www.linkedin.com/learning/learning-python-2021/installing-python-on-mac?u=76281980&t=61)** Now if you didn't get a result that looks like this, the word Python followed by a version number, you probably got some kind of error message, or maybe you got a version number that's older than this.
+> **[1:01](https://www.linkedin.com/learning/learning-python-2021/installing-python-on-mac?u=76281980&t=61)** Now if you didn't get a result that looks like this, the [[Microsoft Word|word]] Python followed by a version number, you probably got some kind of error message, or maybe you got a version number that's older than this.
 >
 > **[1:11](https://www.linkedin.com/learning/learning-python-2021/installing-python-on-mac?u=76281980&t=71)** And that means that Python is not on your computer, or you need to go get the latest version.
 >
@@ -312,16 +307,15 @@ created: 2026-05-02
 > **Prerequisites:** make sure you have (1), install (1)
 > **URLs:** [python.org](https://python.org) (1)
 
-#### Choosing an editor or IDE
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/choosing-an-editor-or-ide?u=76281980)
+#### [Choosing an editor or IDE](https://www.linkedin.com/learning/learning-python-2021/choosing-an-editor-or-ide?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-python-2021/choosing-an-editor-or-ide?u=76281980&t=0)** - [Instructor] There are a lot of great tools out there for working with the Python programming language, and in this course, you can use any code editor that you want.
+> **[0:00](https://www.linkedin.com/learning/learning-python-2021/choosing-an-editor-or-ide?u=76281980&t=0)** - [Instructor] There are a lot of great tools out there for working with the [[Python (Programming Language)|Python]] programming language, and in this course, you can use any code editor that you want.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-python-2021/choosing-an-editor-or-ide?u=76281980&t=8)** I'm going to be using Visual Studio Code from Microsoft.
+> **[0:08](https://www.linkedin.com/learning/learning-python-2021/choosing-an-editor-or-ide?u=76281980&t=8)** I'm going to be using Visual Studio Code from [[Microsoft]].
 >
-> **[0:11](https://www.linkedin.com/learning/learning-python-2021/choosing-an-editor-or-ide?u=76281980&t=11)** It has great support for Python editing, and it's free, and it runs on Mac, Windows and Linux.
+> **[0:11](https://www.linkedin.com/learning/learning-python-2021/choosing-an-editor-or-ide?u=76281980&t=11)** It has great support for Python editing, and it's free, and it runs on Mac, [[Windows]] and [[Linux]].
 >
 > **[0:17](https://www.linkedin.com/learning/learning-python-2021/choosing-an-editor-or-ide?u=76281980&t=17)** It also has a wide variety of plugins available, which will help when working with Python.
 >
@@ -331,11 +325,11 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/learning-python-2021/choosing-an-editor-or-ide?u=76281980&t=44)** In a separate video, we'll see how to run the example files directly from the terminal.
 >
-> **[0:48](https://www.linkedin.com/learning/learning-python-2021/choosing-an-editor-or-ide?u=76281980&t=48)** So you can go that route if you want to, or if you're using a different editor, it will still be very easy to follow along with the rest of the course.
+> **[0:48](https://www.linkedin.com/learning/learning-python-2021/choosing-an-editor-or-ide?u=76281980&t=48)** So you can go that route if you want to, or if you're using a different editor, it will still be very easy to follow along with the [[Representational State Transfer (REST)|rest]] of the course.
 >
 > **[0:55](https://www.linkedin.com/learning/learning-python-2021/choosing-an-editor-or-ide?u=76281980&t=55)** So once you have Visual Studio Code installed, launch it, and then once it's launched, click on the extensions icon, which is this one right here, these little square boxes.
 >
-> **[1:05](https://www.linkedin.com/learning/learning-python-2021/choosing-an-editor-or-ide?u=76281980&t=65)** Once you click on the square boxes up here in this little search box, we're going to type the word Python, because we're going to install the Python extension.
+> **[1:05](https://www.linkedin.com/learning/learning-python-2021/choosing-an-editor-or-ide?u=76281980&t=65)** Once you click on the square boxes up here in this little search box, we're going to type the [[Microsoft Word|word]] Python, because we're going to install the Python extension.
 >
 > **[1:13](https://www.linkedin.com/learning/learning-python-2021/choosing-an-editor-or-ide?u=76281980&t=73)** And usually it's the first result, this one right here, you can see it's from Microsoft, it has a ton of downloads, there are other options for working with Python, but this is the one that you should be using.
 >
@@ -383,7 +377,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (17), [[Windows]] (3), [[Search]] (3), [[Microsoft]] (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (17), [[Windows]] (3), [[Microsoft]] (2), [[Linux]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** python (17), make (4), find (1)
 > **Tools:** vs code (11), visual studio (3), terminal (1)
 > **UI Navigation:** click on (6), open the (1), drag and drop (1), in the menu (1)
@@ -392,8 +386,7 @@ created: 2026-05-02
 > **Exercise Files:** download the (1), exercise files (1)
 > **Code Identifiers:** helloworld_start (1)
 
-#### How to run the Python examples
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/how-to-run-the-python-examples?u=76281980)
+#### [How to run the Python examples](https://www.linkedin.com/learning/learning-python-2021/how-to-run-the-python-examples?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -403,15 +396,15 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/learning-python-2021/how-to-run-the-python-examples?u=76281980&t=9)** And we've seen how to get that set up in a previous video, but using VS Code isn't required.
 >
-> **[0:14](https://www.linkedin.com/learning/learning-python-2021/how-to-run-the-python-examples?u=76281980&t=14)** You can use any editor you want, and it's important to know how to run Python programs outside of the development environment that you're using.
+> **[0:14](https://www.linkedin.com/learning/learning-python-2021/how-to-run-the-python-examples?u=76281980&t=14)** You can use any editor you want, and it's important to know how to run [[Python (Programming Language)|Python]] programs outside of the development environment that you're using.
 >
 > **[0:21](https://www.linkedin.com/learning/learning-python-2021/how-to-run-the-python-examples?u=76281980&t=21)** So, here's what we're going to do.
 >
 > **[0:22](https://www.linkedin.com/learning/learning-python-2021/how-to-run-the-python-examples?u=76281980&t=22)** First, open the terminal program for your computer.
 >
-> **[0:25](https://www.linkedin.com/learning/learning-python-2021/how-to-run-the-python-examples?u=76281980&t=25)** On the Mac and Linux this is usually called terminal.
+> **[0:25](https://www.linkedin.com/learning/learning-python-2021/how-to-run-the-python-examples?u=76281980&t=25)** On the Mac and [[Linux]] this is usually called terminal.
 >
-> **[0:28](https://www.linkedin.com/learning/learning-python-2021/how-to-run-the-python-examples?u=76281980&t=28)** On Windows this is either PowerShell, or the regular command prompt.
+> **[0:28](https://www.linkedin.com/learning/learning-python-2021/how-to-run-the-python-examples?u=76281980&t=28)** On [[Windows]] this is either [[Powershell]], or the regular command prompt.
 >
 > **[0:32](https://www.linkedin.com/learning/learning-python-2021/how-to-run-the-python-examples?u=76281980&t=32)** Now, it's beyond the scope of this course to explain how the terminal works.
 >
@@ -457,7 +450,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[Linux]] (4), [[Windows]] (4), [[Powershell]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[Linux]] (4), [[Windows]] (4), [[Powershell]] (1)
 > **CLI Commands:** python (9), python3 (2)
 > **Tools:** terminal (3), visual studio (2), vs code (2), powershell (1), command prompt (1)
 > **Exercise Files:** exercise files (2)
@@ -466,8 +459,7 @@ created: 2026-05-02
 > **Versions:** 2.7 (1)
 > **Cross-References:** previous video (1)
 
-#### CoderPad Challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/coderpad-challenges?u=76281980)
+#### [CoderPad Challenges](https://www.linkedin.com/learning/learning-python-2021/coderpad-challenges?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -477,7 +469,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/learning-python-2021/coderpad-challenges?u=76281980&t=17)** These challenges are hosted by CoderPad and they appear in the same area of the course page where you watch the course's videos.
 >
-> **[0:24](https://www.linkedin.com/learning/learning-python-2021/coderpad-challenges?u=76281980&t=24)** We recommend using a desktop browser for the best experience with the code challenges but you can use the LinkedIn Learning mobile app if you prefer.
+> **[0:24](https://www.linkedin.com/learning/learning-python-2021/coderpad-challenges?u=76281980&t=24)** We recommend using a desktop browser for the best experience with the code challenges but you can use the [[LinkedIn]] Learning mobile app if you prefer.
 >
 > **[0:33](https://www.linkedin.com/learning/learning-python-2021/coderpad-challenges?u=76281980&t=33)** The Code Challenge has four areas.
 >
@@ -525,7 +517,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** scroll down (1)
@@ -537,16 +529,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building Hello World
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/building-hello-world?u=76281980)
+#### [Building Hello World](https://www.linkedin.com/learning/learning-python-2021/building-hello-world?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-python-2021/building-hello-world?u=76281980&t=0)** - [Instructor] Now that we have Python installed and our tools set up, it's time to start writing some actual Python code.
+> **[0:00](https://www.linkedin.com/learning/learning-python-2021/building-hello-world?u=76281980&t=0)** - [Instructor] Now that we have [[Python (Programming Language)|Python]] installed and our tools set up, it's time to start writing some actual Python code.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-python-2021/building-hello-world?u=76281980&t=6)** But before we fire up our text editor and just start diving in, we're first going to use Python's interpreted mode in the command line interface to see how easy it is to write and run Python.
 >
-> **[0:17](https://www.linkedin.com/learning/learning-python-2021/building-hello-world?u=76281980&t=17)** So here I've started up my terminal program, and you can do the same on your computer, doesn't matter if it's Windows or Mac, and I'm going to type Python by itself and hit return.
+> **[0:17](https://www.linkedin.com/learning/learning-python-2021/building-hello-world?u=76281980&t=17)** So here I've started up my terminal program, and you can do the same on your computer, doesn't matter if it's [[Windows]] or Mac, and I'm going to type Python by itself and hit return.
 >
 > **[0:27](https://www.linkedin.com/learning/learning-python-2021/building-hello-world?u=76281980&t=27)** And remember on the Mac, you're going to have to do Python three, okay?
 >
@@ -560,9 +551,9 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/learning-python-2021/building-hello-world?u=76281980&t=53)** So I'm going to go ahead and type 2+2, and you can see that the answer comes back as four.
 >
-> **[0:59](https://www.linkedin.com/learning/learning-python-2021/building-hello-world?u=76281980&t=59)** Now, Python is an interpreted language, like some other common ones in use today, for example like JavaScript in the browser.
+> **[0:59](https://www.linkedin.com/learning/learning-python-2021/building-hello-world?u=76281980&t=59)** Now, Python is an interpreted language, like some other common ones in use today, for example like [[JavaScript]] in the browser.
 >
-> **[1:05](https://www.linkedin.com/learning/learning-python-2021/building-hello-world?u=76281980&t=65)** In other words, it's not like Java or C or C++, the application does not need to be compiled and then built into an executable before you can run it.
+> **[1:05](https://www.linkedin.com/learning/learning-python-2021/building-hello-world?u=76281980&t=65)** In other words, it's not like [[Java]] or C or C++, the application does not need to be compiled and then built into an executable before you can run it.
 >
 > **[1:16](https://www.linkedin.com/learning/learning-python-2021/building-hello-world?u=76281980&t=76)** The Python interpreter simply takes each line of code as it comes across it, and then interprets and executes the code.
 >
@@ -594,7 +585,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/learning-python-2021/building-hello-world?u=76281980&t=166)** I mean, obviously real programs are going to be a lot more complex than this, but you can use the Python interpreter in command line mode to try out some simple things.
 >
-> **[2:56](https://www.linkedin.com/learning/learning-python-2021/building-hello-world?u=76281980&t=176)** Okay, now let's type the word exit and with an open and closed parentheses, so we're actually calling the exit function and that will exit us out of the Python interpreter and then back into the terminal command line.
+> **[2:56](https://www.linkedin.com/learning/learning-python-2021/building-hello-world?u=76281980&t=176)** Okay, now let's type the [[Microsoft Word|word]] exit and with an open and closed parentheses, so we're actually calling the exit function and that will exit us out of the Python interpreter and then back into the terminal command line.
 >
 > **[3:09](https://www.linkedin.com/learning/learning-python-2021/building-hello-world?u=76281980&t=189)** Okay, so now we've seen how to write and execute some basic Python statements, let's start up our code editor and write our first Python program.
 >
@@ -700,7 +691,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (36), hit (5), [[Java]] (2), [[Windows]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (36), [[Java]] (2), [[Windows]] (1), [[JavaScript]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** python (36)
 > **Tools:** terminal (7), command line (4), vs code (4), visual studio (1)
 > **Definitions:** is a  (2), is an  (1), in other words (1), is called (1), means that (1)
@@ -709,12 +700,11 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **UI Navigation:** click on (1)
 
-#### Variables and expressions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/variables-and-expressions?u=76281980)
+#### [Variables and expressions](https://www.linkedin.com/learning/learning-python-2021/variables-and-expressions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-python-2021/variables-and-expressions?u=76281980&t=0)** - [Instructor] All right now, let's take a look at how the Python language works with variables and data types.
+> **[0:00](https://www.linkedin.com/learning/learning-python-2021/variables-and-expressions?u=76281980&t=0)** - [Instructor] All right now, let's take a look at how the [[Python (Programming Language)|Python]] language works with variables and data types.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-python-2021/variables-and-expressions?u=76281980&t=5)** So in my editor, I'm going to open up the variables_start file.
 >
@@ -956,7 +946,7 @@ created: 2026-05-02
 >
 > **[9:48](https://www.linkedin.com/learning/learning-python-2021/variables-and-expressions?u=76281980&t=588)** Now, if I actually want to affect the value of the global variable, I have to tell the function that there is a global variable named mystr, and that's the value it should make changes to.
 >
-> **[10:01](https://www.linkedin.com/learning/learning-python-2021/variables-and-expressions?u=76281980&t=601)** So what I'm going to do is I'm going to write the word global, and then I'm going to use the variable name of mystr.
+> **[10:01](https://www.linkedin.com/learning/learning-python-2021/variables-and-expressions?u=76281980&t=601)** So what I'm going to do is I'm going to write the [[Microsoft Word|word]] global, and then I'm going to use the variable name of mystr.
 >
 > **[10:07](https://www.linkedin.com/learning/learning-python-2021/variables-and-expressions?u=76281980&t=607)** So the global statement with the name of the variable indicates to Python that this variable exists in the global namespace and is declared somewhere else.
 >
@@ -988,11 +978,11 @@ created: 2026-05-02
 >
 > **[11:23](https://www.linkedin.com/learning/learning-python-2021/variables-and-expressions?u=76281980&t=683)** And that's because right here on line 54, I've deleted the variable, which essentially means you can undefined variables in real time by using the del statement.
 >
-> **[11:35](https://www.linkedin.com/learning/learning-python-2021/variables-and-expressions?u=76281980&t=695)** All right, so that's a quick look at using variables and data types in Python, and we're going to take what we've learned in this video, and we'll use it throughout the rest of the course.
+> **[11:35](https://www.linkedin.com/learning/learning-python-2021/variables-and-expressions?u=76281980&t=695)** All right, so that's a quick look at using variables and data types in Python, and we're going to take what we've learned in this video, and we'll use it throughout the [[Representational State Transfer (REST)|rest]] of the course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), data (6), next (1), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** python (12), make (5)
 > **Cross-References:** go back to (3), earlier in (1), later in (1)
 > **Tools:** terminal (4), vs code (1)
@@ -1001,14 +991,13 @@ created: 2026-05-02
 > **Code Identifiers:** variables_start (1)
 > **Speakers:** - [instructor] (1)
 
-#### Python functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/python-functions?u=76281980)
+#### [Python functions](https://www.linkedin.com/learning/learning-python-2021/python-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-python-2021/python-functions?u=76281980&t=0)** - [Instructor] Most applications, regardless of the programming language that they are written in, are broken up into smaller blocks known as functions.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-python-2021/python-functions?u=76281980&t=7)** And Python's no different.
+> **[0:07](https://www.linkedin.com/learning/learning-python-2021/python-functions?u=76281980&t=7)** And [[Python (Programming Language)|Python]]'s no different.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-python-2021/python-functions?u=76281980&t=9)** Functions give us a way of organizing our programs so that they are more understandable and modular.
 >
@@ -1030,7 +1019,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/learning-python-2021/python-functions?u=76281980&t=45)** The colon indicates that you're starting the scope or body of a function.
 >
-> **[0:50](https://www.linkedin.com/learning/learning-python-2021/python-functions?u=76281980&t=50)** In other languages like Java and C, for example, use curly braces for this, but Python uses the colon and then white space indentation.
+> **[0:50](https://www.linkedin.com/learning/learning-python-2021/python-functions?u=76281980&t=50)** In other languages like [[Java]] and C, for example, use curly braces for this, but Python uses the colon and then white space indentation.
 >
 > **[0:59](https://www.linkedin.com/learning/learning-python-2021/python-functions?u=76281980&t=59)** So I'm going to add a print statement here.
 >
@@ -1318,7 +1307,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (11), [[Python (Programming Language)|Python]] (9), next (2), [[Programming]] (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[Java]] (1)
 > **CLI Commands:** python (9)
 > **Code Identifiers:** multi_add (3), functions_start (1)
 > **Analogies:** for example (1), just like (1), similar to (1)
@@ -1327,8 +1316,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Warnings:** keep in mind (1)
 
-#### Conditional structures
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/conditional-structures?u=76281980)
+#### [Conditional structures](https://www.linkedin.com/learning/learning-python-2021/conditional-structures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1338,7 +1326,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/learning-python-2021/conditional-structures?u=76281980&t=12)** And that's where conditional logic comes into play.
 >
-> **[0:15](https://www.linkedin.com/learning/learning-python-2021/conditional-structures?u=76281980&t=15)** So in the code editor, I'm going to open up "conditionals_start" and in Python, conditionals are handled using the "if" statement.
+> **[0:15](https://www.linkedin.com/learning/learning-python-2021/conditional-structures?u=76281980&t=15)** So in the code editor, I'm going to open up "conditionals_start" and in [[Python (Programming Language)|Python]], conditionals are handled using the "if" statement.
 >
 > **[0:23](https://www.linkedin.com/learning/learning-python-2021/conditional-structures?u=76281980&t=23)** And so you can see here in the main function, I've got two variables, X and Y, and they are 10 and 100 to start with.
 >
@@ -1532,7 +1520,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), feature (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6)
 > **CLI Commands:** python (6), make (6)
 > **Versions:** python 3 (3), 3.10 (2)
 > **Tools:** terminal (4)
@@ -1541,12 +1529,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Prerequisites:** make sure you have (1)
 
-#### Loops
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/loops?u=76281980)
+#### [Loops](https://www.linkedin.com/learning/learning-python-2021/loops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-python-2021/loops?u=76281980&t=0)** - [Instructor] Running a block of code over and over again, via a construct known as a loop is also a very common scenario in programming and Python provides a couple of ways of doing that, which we're going to take a look at now.
+> **[0:00](https://www.linkedin.com/learning/learning-python-2021/loops?u=76281980&t=0)** - [Instructor] Running a block of code over and over again, via a construct known as a loop is also a very common scenario in programming and [[Python (Programming Language)|Python]] provides a couple of ways of doing that, which we're going to take a look at now.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-python-2021/loops?u=76281980&t=13)** So in the editor, let's go ahead and open up loops underscore start, and you can see here, I've got a function called main and a variable named X, which I'm initializing to zero.
 >
@@ -1580,7 +1567,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/learning-python-2021/loops?u=76281980&t=137)** For loops in Python, work a little bit differently than you might be used to seeing in other languages.
 >
-> **[2:22](https://www.linkedin.com/learning/learning-python-2021/loops?u=76281980&t=142)** So some languages like JavaScript and C and Java, they have this concept of an index variable that counts the number of iterations in the for-loop.
+> **[2:22](https://www.linkedin.com/learning/learning-python-2021/loops?u=76281980&t=142)** So some languages like [[JavaScript]] and C and [[Java]], they have this concept of an index variable that counts the number of iterations in the for-loop.
 >
 > **[2:31](https://www.linkedin.com/learning/learning-python-2021/loops?u=76281980&t=151)** So for example, in JavaScript, you might see something that looks like this.
 >
@@ -1656,7 +1643,7 @@ created: 2026-05-02
 >
 > **[6:33](https://www.linkedin.com/learning/learning-python-2021/loops?u=76281980&t=393)** So in this case, my code says if X modular two is equal to zero, in other words, take X divided by two and if the value left over is equal to zero, then continue.
 >
-> **[6:47](https://www.linkedin.com/learning/learning-python-2021/loops?u=76281980&t=407)** And continue means skip the rest of the code inside the loop and then just go back up to the top and do the next iteration.
+> **[6:47](https://www.linkedin.com/learning/learning-python-2021/loops?u=76281980&t=407)** And continue means skip the [[Representational State Transfer (REST)|rest]] of the code inside the loop and then just go back up to the top and do the next iteration.
 >
 > **[6:55](https://www.linkedin.com/learning/learning-python-2021/loops?u=76281980&t=415)** Now, the rest of the loop in this case is just this print statement, it's only one statement, but if there were more statements here, they would all be skipped, okay?
 >
@@ -1692,19 +1679,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[JavaScript]] (2), [[Representational State Transfer (REST)|Rest]] (2), next (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[JavaScript]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Java]] (1)
 > **CLI Commands:** python (6)
 > **Analogies:** for example (2), just like (1)
 > **Definitions:** known as (1), in other words (1)
 > **Prerequisites:** initialization (1)
 > **Speakers:** - [instructor] (1)
 
-#### Classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/classes?u=76281980)
+#### [Classes](https://www.linkedin.com/learning/learning-python-2021/classes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-python-2021/classes?u=76281980&t=0)** - Python is an object-oriented programming language.
+> **[0:00](https://www.linkedin.com/learning/learning-python-2021/classes?u=76281980&t=0)** - [[Python (Programming Language)|Python]] is an [[Object-Oriented Programming (OOP)|object-oriented programming]] language.
 >
 > **[0:03](https://www.linkedin.com/learning/learning-python-2021/classes?u=76281980&t=3)** And this means that you can create and use your own classes.
 >
@@ -1730,7 +1716,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/learning-python-2021/classes?u=76281980&t=67)** Now, the init method is the function that Python calls when the object has been created and it's time to initialize the object's data.
 >
-> **[1:16](https://www.linkedin.com/learning/learning-python-2021/classes?u=76281980&t=76)** So I'm going to create some parentheses and inside the init functions parentheses, the parameter list, I'm going to put the word "self" okay.
+> **[1:16](https://www.linkedin.com/learning/learning-python-2021/classes?u=76281980&t=76)** So I'm going to create some parentheses and inside the init functions parentheses, the parameter list, I'm going to put the [[Microsoft Word|word]] "self" okay.
 >
 > **[1:25](https://www.linkedin.com/learning/learning-python-2021/classes?u=76281980&t=85)** There are several different functions that have these double underscores in them.
 >
@@ -1910,19 +1896,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), data (3), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), [[Microsoft Word|Word]] (2), application (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), [[Microsoft Word|Word]] (2)
 > **CLI Commands:** python (7), make (1)
 > **Analogies:** for example (3), imagine (1)
 > **Definitions:** is an  (1), means that (1), is a  (1)
 > **Code Identifiers:** classes_start (1)
 > **Speakers:** - python (1)
 
-#### Importing and using modules
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/importing-and-using-modules?u=76281980)
+#### [Importing and using modules](https://www.linkedin.com/learning/learning-python-2021/importing-and-using-modules?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-python-2021/importing-and-using-modules?u=76281980&t=0)** - [Instructor] One of the most powerful features of the Python ecosystem is the large number of library modules of pre-built code that you can use in your programs.
+> **[0:00](https://www.linkedin.com/learning/learning-python-2021/importing-and-using-modules?u=76281980&t=0)** - [Instructor] One of the most powerful features of the [[Python (Programming Language)|Python]] ecosystem is the large number of library modules of pre-built code that you can use in your programs.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-python-2021/importing-and-using-modules?u=76281980&t=9)** The standard Python installation contains quite a few of these modules, and some of which we're going to learn more about later in the course, but, before we get there, let's take a look at a simple example that shows how to take advantage of all this code that you don't have to write yourself.
 >
@@ -1952,13 +1937,13 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/learning-python-2021/importing-and-using-modules?u=76281980&t=109)** All right, so, once again, let's run this, and, sure enough, there's Pi, right there, 3.14159 and so on and so forth.
 >
-> **[2:02](https://www.linkedin.com/learning/learning-python-2021/importing-and-using-modules?u=76281980&t=122)** So for the rest of this course, we're going to use some other great modules to perform useful work, such as manipulating dates and times, working with files, and even processing internet-based data like XML and JSON.
+> **[2:02](https://www.linkedin.com/learning/learning-python-2021/importing-and-using-modules?u=76281980&t=122)** So for the [[Representational State Transfer (REST)|rest]] of this course, we're going to use some other great modules to perform useful work, such as manipulating dates and times, working with files, and even processing internet-based data like XML and [[JSON]].
 >
 > **[2:14](https://www.linkedin.com/learning/learning-python-2021/importing-and-using-modules?u=76281980&t=134)** But before moving on, though, I suggest taking a few moments and trying out some of the other math functions to get the feel for what it's like to work with modules.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Representational State Transfer (REST)|Rest]] (1), data (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[JSON]] (1)
 > **CLI Commands:** python (3), make (1)
 > **Env Vars:** sqrt (1), xml (1), json (1)
 > **Analogies:** for example (1), such as (1), it's like (1)
@@ -1967,14 +1952,13 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **Tools:** terminal (1)
 
-#### Using exceptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/using-exceptions?u=76281980)
+#### [Using exceptions](https://www.linkedin.com/learning/learning-python-2021/using-exceptions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-python-2021/using-exceptions?u=76281980&t=0)** - [Instructor] Programs run into problems and errors all the time so it's a good practice to have a plan for handling them when they happen.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-python-2021/using-exceptions?u=76281980&t=7)** And in Python, one way to do this is through exception handling.
+> **[0:07](https://www.linkedin.com/learning/learning-python-2021/using-exceptions?u=76281980&t=7)** And in [[Python (Programming Language)|Python]], one way to do this is through exception handling.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-python-2021/using-exceptions?u=76281980&t=10)** So here in my editor, I'm going to open up the exceptions_start file, and I'll start off by writing some code that I know is going to generate an error.
 >
@@ -2091,8 +2075,7 @@ created: 2026-05-02
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Palindromes
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/solution-palindromes-22819998?u=76281980)
+#### [Solution: Palindromes](https://www.linkedin.com/learning/learning-python-2021/solution-palindromes-22819998?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2110,7 +2093,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/learning-python-2021/solution-palindromes-22819998?u=76281980&t=37)** So I create a new string and then I have a for loop that checks each character in the test string.
 >
-> **[0:46](https://www.linkedin.com/learning/learning-python-2021/solution-palindromes-22819998?u=76281980&t=46)** And I'm using the isalnum function which is a built-in function for Python string objects.
+> **[0:46](https://www.linkedin.com/learning/learning-python-2021/solution-palindromes-22819998?u=76281980&t=46)** And I'm using the isalnum function which is a built-in function for [[Python (Programming Language)|Python]] string objects.
 >
 > **[0:52](https://www.linkedin.com/learning/learning-python-2021/solution-palindromes-22819998?u=76281980&t=52)** This function checks to see if a character is alphanumeric, and if it is then I add it to my new string, otherwise I skip over it.
 >
@@ -2142,7 +2125,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Programming]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (3), means that (1)
 > **CLI Commands:** python (1)
 > **UI Navigation:** click on (1)
@@ -2153,12 +2136,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Reading and writing files
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/reading-and-writing-files?u=76281980)
+#### [Reading and writing files](https://www.linkedin.com/learning/learning-python-2021/reading-and-writing-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-python-2021/reading-and-writing-files?u=76281980&t=0)** - [Instructor] So now that we've taken a look at the basics of the Python language, we're going to turn our attention to using the rich library of predefined code that comes with Python in order to build functionality into Python applications.
+> **[0:00](https://www.linkedin.com/learning/learning-python-2021/reading-and-writing-files?u=76281980&t=0)** - [Instructor] So now that we've taken a look at the basics of the [[Python (Programming Language)|Python]] language, we're going to turn our attention to using the rich library of predefined code that comes with Python in order to build functionality into Python applications.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-python-2021/reading-and-writing-files?u=76281980&t=13)** Python provides built-in methods for working with files and directories.
 >
@@ -2198,7 +2180,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/learning-python-2021/reading-and-writing-files?u=76281980&t=174)** What I want to do is specify A, to indicate that I'm going to append data to the file instead of overriding all the existing content.
 >
-> **[3:03](https://www.linkedin.com/learning/learning-python-2021/reading-and-writing-files?u=76281980&t=183)** And the rest of the code is the same, which means that 10 new lines will be written to the existing file, so let's just distinguish those by putting in this word new so now we write out this as some new text.
+> **[3:03](https://www.linkedin.com/learning/learning-python-2021/reading-and-writing-files?u=76281980&t=183)** And the [[Representational State Transfer (REST)|rest]] of the code is the same, which means that 10 new lines will be written to the existing file, so let's just distinguish those by putting in this [[Microsoft Word|word]] new so now we write out this as some new text.
 >
 > **[3:16](https://www.linkedin.com/learning/learning-python-2021/reading-and-writing-files?u=76281980&t=196)** Okay, so let's go ahead and save this and let's run it.
 >
@@ -2238,7 +2220,7 @@ created: 2026-05-02
 >
 > **[5:49](https://www.linkedin.com/learning/learning-python-2021/reading-and-writing-files?u=76281980&t=349)** So it's save and let's run, and you can see once again, that the text is being printed out to the terminal.
 >
-> **[5:59](https://www.linkedin.com/learning/learning-python-2021/reading-and-writing-files?u=76281980&t=359)** In this case, cause I'm on windows and I had a manual new line character in each one of these text lines, you can see that there's an extra blank line being added.
+> **[5:59](https://www.linkedin.com/learning/learning-python-2021/reading-and-writing-files?u=76281980&t=359)** In this case, cause I'm on [[Windows]] and I had a manual new line character in each one of these text lines, you can see that there's an extra blank line being added.
 >
 > **[6:09](https://www.linkedin.com/learning/learning-python-2021/reading-and-writing-files?u=76281980&t=369)** Don't worry about that for now.
 >
@@ -2248,7 +2230,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), data (7), next (1), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1), [[Windows]] (1)
 > **CLI Commands:** python (7), make (2)
 > **Definitions:** means that (3), is a  (2)
 > **UI Navigation:** open the (3)
@@ -2256,8 +2238,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with OS path utilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/working-with-os-path-utilities?u=76281980)
+#### [Working with OS path utilities](https://www.linkedin.com/learning/learning-python-2021/working-with-os-path-utilities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2265,7 +2246,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/learning-python-2021/working-with-os-path-utilities?u=76281980&t=6)** So for example, you might need to find out information about a file, whether it exists, what the path of the file is, whether a given file is a directory or whatever.
 >
-> **[0:16](https://www.linkedin.com/learning/learning-python-2021/working-with-os-path-utilities?u=76281980&t=16)** So Python provides path related utilities to help you do this and we're going to examine that now.
+> **[0:16](https://www.linkedin.com/learning/learning-python-2021/working-with-os-path-utilities?u=76281980&t=16)** So [[Python (Programming Language)|Python]] provides path related utilities to help you do this and we're going to examine that now.
 >
 > **[0:22](https://www.linkedin.com/learning/learning-python-2021/working-with-os-path-utilities?u=76281980&t=22)** So here in the editor, let's go ahead and open up the ospathutils.start.
 >
@@ -2291,7 +2272,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/learning-python-2021/working-with-os-path-utilities?u=76281980&t=67)** So let's go ahead and save and run that before we do anything else.
 >
-> **[1:12](https://www.linkedin.com/learning/learning-python-2021/working-with-os-path-utilities?u=76281980&t=72)** And when I run that, you can see that nt is being printed out because believe it or not, the official name of Windows is actually nt, internally.
+> **[1:12](https://www.linkedin.com/learning/learning-python-2021/working-with-os-path-utilities?u=76281980&t=72)** And when I run that, you can see that nt is being printed out because believe it or not, the official name of [[Windows]] is actually nt, internally.
 >
 > **[1:23](https://www.linkedin.com/learning/learning-python-2021/working-with-os-path-utilities?u=76281980&t=83)** So that's the string that comes back when we print the OS name.
 >
@@ -2299,7 +2280,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/learning-python-2021/working-with-os-path-utilities?u=76281980&t=90)** Oh and by the way, this is going to be different based on your operating system.
 >
-> **[1:33](https://www.linkedin.com/learning/learning-python-2021/working-with-os-path-utilities?u=76281980&t=93)** If you're running this on Linux or a Mac, you're going to see something different here.
+> **[1:33](https://www.linkedin.com/learning/learning-python-2021/working-with-os-path-utilities?u=76281980&t=93)** If you're running this on [[Linux]] or a Mac, you're going to see something different here.
 >
 > **[1:37](https://www.linkedin.com/learning/learning-python-2021/working-with-os-path-utilities?u=76281980&t=97)** So I'm running on Windows.
 >
@@ -2479,7 +2460,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (2), data (1), [[Python (Programming Language)|Python]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Python (Programming Language)|Python]] (1), [[Linux]] (1)
 > **Definitions:** is a  (6), is an  (1)
 > **File Paths:** textfile.txt (6)
 > **CLI Commands:** make (2), find (1), python (1)
@@ -2488,12 +2469,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using filesystem shell methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/using-filesystem-shell-methods?u=76281980)
+#### [Using filesystem shell methods](https://www.linkedin.com/learning/learning-python-2021/using-filesystem-shell-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-python-2021/using-filesystem-shell-methods?u=76281980&t=0)** - [Instructor] So far in this chapter, we've seen how to create files and how to get information about files, and Python provides a set of utilities for manipulating files using the operating system's shell utilities, and that's what we're going to look at in this example.
+> **[0:00](https://www.linkedin.com/learning/learning-python-2021/using-filesystem-shell-methods?u=76281980&t=0)** - [Instructor] So far in this chapter, we've seen how to create files and how to get information about files, and [[Python (Programming Language)|Python]] provides a set of utilities for manipulating files using the operating system's shell utilities, and that's what we're going to look at in this example.
 >
 > **[0:15](https://www.linkedin.com/learning/learning-python-2021/using-filesystem-shell-methods?u=76281980&t=15)** So let's start by opening up the Shell_start code.
 >
@@ -2665,7 +2645,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), next (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6)
 > **CLI Commands:** make (11), python (6)
 > **File Paths:** textfile.txt (12), newfile.txt (4)
 > **Exercise Files:** zip file (10)
@@ -2674,8 +2654,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1), similar to (1)
 > **UI Navigation:** right-click (1)
 
-#### Solution: Files
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/solution-files-22818995?u=76281980)
+#### [Solution: Files](https://www.linkedin.com/learning/learning-python-2021/solution-files-22818995?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2689,7 +2668,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/learning-python-2021/solution-files-22818995?u=76281980&t=34)** Then I have a variable that contains the name of the Deps Directory, and I made it a variable because I'm going to use it several times.
 >
-> **[0:41](https://www.linkedin.com/learning/learning-python-2021/solution-files-22818995?u=76281980&t=41)** So to get a list of the contents of the directory, I can use the listdr function, which is contained within the OS module, which is part of the Python Standard Library.
+> **[0:41](https://www.linkedin.com/learning/learning-python-2021/solution-files-22818995?u=76281980&t=41)** So to get a list of the contents of the directory, I can use the listdr function, which is contained within the OS module, which is part of the [[Python (Programming Language)|Python]] Standard Library.
 >
 > **[0:52](https://www.linkedin.com/learning/learning-python-2021/solution-files-22818995?u=76281980&t=52)** That will give me a list of file names, but those file names don't have the directory path in them.
 >
@@ -2715,7 +2694,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (3), python (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2725,8 +2704,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The date, time, and datetime classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/the-date-time-and-datetime-classes?u=76281980)
+#### [The date, time, and datetime classes](https://www.linkedin.com/learning/learning-python-2021/the-date-time-and-datetime-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2740,7 +2718,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/learning-python-2021/the-date-time-and-datetime-classes?u=76281980&t=22)** All right.
 >
-> **[0:24](https://www.linkedin.com/learning/learning-python-2021/the-date-time-and-datetime-classes?u=76281980&t=24)** So, in order to get this rich functionality that Python provides your application, you have to tell the Python interpreter to go get it from somewhere.
+> **[0:24](https://www.linkedin.com/learning/learning-python-2021/the-date-time-and-datetime-classes?u=76281980&t=24)** So, in order to get this rich functionality that [[Python (Programming Language)|Python]] provides your application, you have to tell the Python interpreter to go get it from somewhere.
 >
 > **[0:32](https://www.linkedin.com/learning/learning-python-2021/the-date-time-and-datetime-classes?u=76281980&t=32)** And the way that you do that and we've seen this a little earlier in the course, is by using something called an import statement.
 >
@@ -2856,7 +2834,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), application (2), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5)
 > **CLI Commands:** python (5)
 > **Tools:** terminal (3), visual studio (1)
 > **Analogies:** for example (1), imagine (1), just like (1)
@@ -2865,12 +2843,11 @@ created: 2026-05-02
 > **Cross-References:** earlier in (1)
 > **UI Navigation:** go to (1)
 
-#### Formatting time output
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/formatting-time-output?u=76281980)
+#### [Formatting time output](https://www.linkedin.com/learning/learning-python-2021/formatting-time-output?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-python-2021/formatting-time-output?u=76281980&t=0)** - [Instructor] Now that we've seen how to retrieve basic date and time information in Python, let's take a look at how to format that information using a set of predefined string formatting codes.
+> **[0:00](https://www.linkedin.com/learning/learning-python-2021/formatting-time-output?u=76281980&t=0)** - [Instructor] Now that we've seen how to retrieve basic date and time information in [[Python (Programming Language)|Python]], let's take a look at how to format that information using a set of predefined string formatting codes.
 >
 > **[0:12](https://www.linkedin.com/learning/learning-python-2021/formatting-time-output?u=76281980&t=12)** So in my editor, I'm going to open up the formatting start example.
 >
@@ -2994,7 +2971,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), data (4), [[Programming]] (1), application (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5)
 > **CLI Commands:** python (5), find (1)
 > **Ports:** :50 (2), :30 (1)
 > **Analogies:** for example (2)
@@ -3002,8 +2979,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using timedelta objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/using-timedelta-objects?u=76281980)
+#### [Using timedelta objects](https://www.linkedin.com/learning/learning-python-2021/using-timedelta-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3011,7 +2987,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/learning-python-2021/using-timedelta-objects?u=76281980&t=9)** So for example, given a particular date, you might want to calculate a date in the future or the past relative to that date.
 >
-> **[0:16](https://www.linkedin.com/learning/learning-python-2021/using-timedelta-objects?u=76281980&t=16)** And we can use the timedelta class in Python to help us with this.
+> **[0:16](https://www.linkedin.com/learning/learning-python-2021/using-timedelta-objects?u=76281980&t=16)** And we can use the timedelta class in [[Python (Programming Language)|Python]] to help us with this.
 >
 > **[0:21](https://www.linkedin.com/learning/learning-python-2021/using-timedelta-objects?u=76281980&t=21)** So that's what we're going to look at in this example here in my editor I'm going to open up timedeltas_start, and you can see I've already imported some of the modules and classes I'm going to need.
 >
@@ -3171,7 +3147,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (9), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2)
 > **Tools:** terminal (2)
 > **Code Identifiers:** timedeltas_start (1)
@@ -3179,14 +3155,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with calendars
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/working-with-calendars?u=76281980)
+#### [Working with calendars](https://www.linkedin.com/learning/learning-python-2021/working-with-calendars?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-python-2021/working-with-calendars?u=76281980&t=0)** - [Instructor] All right, let's wrap up this chapter by taking a look at a few examples of how to work with calendars in Python.
+> **[0:00](https://www.linkedin.com/learning/learning-python-2021/working-with-calendars?u=76281980&t=0)** - [Instructor] All right, let's wrap up this chapter by taking a look at a few examples of how to work with calendars in [[Python (Programming Language)|Python]].
 >
-> **[0:06](https://www.linkedin.com/learning/learning-python-2021/working-with-calendars?u=76281980&t=6)** So Python's library provides a couple of useful utilities for working with calendars in both text and HTML formats, as well as some other date and calendar utilities.
+> **[0:06](https://www.linkedin.com/learning/learning-python-2021/working-with-calendars?u=76281980&t=6)** So Python's library provides a couple of useful utilities for working with calendars in both text and [[HTML]] formats, as well as some other date and calendar utilities.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-python-2021/working-with-calendars?u=76281980&t=17)** So let's take a look at the module for how to work with this.
 >
@@ -3402,7 +3377,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[HTML]] (4), next (2), application (1), power (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[HTML]] (4)
 > **Code Identifiers:** month_name (3), day_name (2), calendars_start (1), month_names (1)
 > **Env Vars:** html (4), friday (3)
 > **CLI Commands:** python (4)
@@ -3411,8 +3386,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Dates and times
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/solution-dates-and-times-22818990?u=76281980)
+#### [Solution: Dates and times](https://www.linkedin.com/learning/learning-python-2021/solution-dates-and-times-22818990?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3484,12 +3458,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Fetching Internet data
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/fetching-internet-data?u=76281980)
+#### [Fetching Internet data](https://www.linkedin.com/learning/learning-python-2021/fetching-internet-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-python-2021/fetching-internet-data?u=76281980&t=0)** - [Instructor] One of the areas where Python really shines is in retrieving and working with data from the internet, such as JSON, XML and HTML.
+> **[0:00](https://www.linkedin.com/learning/learning-python-2021/fetching-internet-data?u=76281980&t=0)** - [Instructor] One of the areas where [[Python (Programming Language)|Python]] really shines is in retrieving and working with data from the internet, such as [[JSON]], XML and [[HTML]].
 >
 > **[0:09](https://www.linkedin.com/learning/learning-python-2021/fetching-internet-data?u=76281980&t=9)** In this chapter we'll see how to work with all three of these data types.
 >
@@ -3511,7 +3484,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/learning-python-2021/fetching-internet-data?u=76281980&t=66)** So I'm going to just give it a URL, a simple one.
 >
-> **[1:11](https://www.linkedin.com/learning/learning-python-2021/fetching-internet-data?u=76281980&t=71)** So I'll just go ahead and get some data from [google.com](https://google.com).
+> **[1:11](https://www.linkedin.com/learning/learning-python-2021/fetching-internet-data?u=76281980&t=71)** So I'll just go ahead and get some data from [[[Google]].com](https://google.com).
 >
 > **[1:15](https://www.linkedin.com/learning/learning-python-2021/fetching-internet-data?u=76281980&t=75)** This will give me back a web response object.
 >
@@ -3567,7 +3540,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Google]] (4), [[Python (Programming Language)|Python]] (3), [[HTML]] (3), web (3)
+> **Frameworks & Libraries:** [[Google]] (4), [[Python (Programming Language)|Python]] (3), [[HTML]] (3), [[JSON]] (1)
 > **Env Vars:** url (7), html (3), http (2), json (1), xml (1)
 > **CLI Commands:** python (3), make (3)
 > **Analogies:** for example (2), such as (1), similar to (1)
@@ -3576,20 +3549,19 @@ created: 2026-05-02
 > **Code Identifiers:** inetdata_start (1)
 > **URLs:** [google.com](https://google.com) (1)
 
-#### Working with JSON data
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/working-with-json-data?u=76281980)
+#### [Working with JSON data](https://www.linkedin.com/learning/learning-python-2021/working-with-json-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-python-2021/working-with-json-data?u=76281980&t=0)** - [Instructor] In this example, we're going to take what we learned in the previous video to see how to use Python, to connect to a Real-time JSON data feed and process the information.
+> **[0:00](https://www.linkedin.com/learning/learning-python-2021/working-with-json-data?u=76281980&t=0)** - [Instructor] In this example, we're going to take what we learned in the previous video to see how to use [[Python (Programming Language)|Python]], to connect to a [[Real-Time]] [[JSON]] data feed and process the information.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-python-2021/working-with-json-data?u=76281980&t=10)** JSON stands for the JavaScript Object Notation, and you'll run into this a lot when you're working with data from various different sources on the internet.
+> **[0:10](https://www.linkedin.com/learning/learning-python-2021/working-with-json-data?u=76281980&t=10)** JSON stands for the [[JavaScript]] Object Notation, and you'll run into this a lot when you're working with data from various different sources on the internet.
 >
 > **[0:18](https://www.linkedin.com/learning/learning-python-2021/working-with-json-data?u=76281980&t=18)** The data feed that we're going to be using is the US Geological Surveys Earthquakes Data Feed, and I have their homepage open here.
 >
 > **[0:26](https://www.linkedin.com/learning/learning-python-2021/working-with-json-data?u=76281980&t=26)** You can see here that the earthquake data feed is provided by the USGS, and they provide the feed in a variety of formats.
 >
-> **[0:34](https://www.linkedin.com/learning/learning-python-2021/working-with-json-data?u=76281980&t=34)** So they have ATOM, and they've got Google Earth KML, they provide JSON.
+> **[0:34](https://www.linkedin.com/learning/learning-python-2021/working-with-json-data?u=76281980&t=34)** So they have ATOM, and they've got [[Google]] Earth KML, they provide JSON.
 >
 > **[0:39](https://www.linkedin.com/learning/learning-python-2021/working-with-json-data?u=76281980&t=39)** And if you click on this link right here, that GeoJSON Summary Feed, then you'll get this page.
 >
@@ -3649,7 +3621,7 @@ created: 2026-05-02
 >
 > **[4:18](https://www.linkedin.com/learning/learning-python-2021/working-with-json-data?u=76281980&t=258)** So once we've done that, we can access that object like we would any other Python object.
 >
-> **[4:24](https://www.linkedin.com/learning/learning-python-2021/working-with-json-data?u=76281980&t=264)** So for example, according to the GeoJSON spec, there's a property named Title in the metadata section, so let's go ahead and print that out.
+> **[4:24](https://www.linkedin.com/learning/learning-python-2021/working-with-json-data?u=76281980&t=264)** So for example, according to the GeoJSON spec, there's a property named Title in the [[Metadata]] section, so let's go ahead and print that out.
 >
 > **[4:34](https://www.linkedin.com/learning/learning-python-2021/working-with-json-data?u=76281980&t=274)** So I'll check to see if there is a title key in the JSON, and I'm going to check the metadata section.
 >
@@ -3791,7 +3763,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), [[JSON]] (24), [[Python (Programming Language)|Python]] (9), [[Metadata]] (7), [[JavaScript]] (2)
+> **Frameworks & Libraries:** [[JSON]] (24), [[Python (Programming Language)|Python]] (9), [[Metadata]] (7), [[JavaScript]] (2), [[Real-Time]] (1)
 > **Env Vars:** json (24), url (6), usgs (3), atom (1), kml (1)
 > **CLI Commands:** python (9), make (3), find (1)
 > **Documentation:** spec (5), the documentation (1)
@@ -3800,12 +3772,11 @@ created: 2026-05-02
 > **Code Identifiers:** weburl (3), jsondata_start (1)
 > **Cross-References:** go back to (3), previous video (1)
 
-#### Parsing and processing HTML
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/parsing-and-processing-html?u=76281980)
+#### [Parsing and processing HTML](https://www.linkedin.com/learning/learning-python-2021/parsing-and-processing-html?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-python-2021/parsing-and-processing-html?u=76281980&t=0)** - Python provides a built-in way for parsing structured data, such as HTML, as well as other kinds of data like we just saw previously with Jason.
+> **[0:00](https://www.linkedin.com/learning/learning-python-2021/parsing-and-processing-html?u=76281980&t=0)** - [[Python (Programming Language)|Python]] provides a built-in way for parsing structured data, such as [[HTML]], as well as other kinds of data like we just saw previously with Jason.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-python-2021/parsing-and-processing-html?u=76281980&t=9)** In this example, we're going to see how to create our own HTML parser based on the HTML parser class that Python provides.
 >
@@ -3879,7 +3850,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/learning-python-2021/parsing-and-processing-html?u=76281980&t=230)** Okay. So far so good.
 >
-> **[3:51](https://www.linkedin.com/learning/learning-python-2021/parsing-and-processing-html?u=76281980&t=231)** All right, let's go ahead and close that terminal and let's go ahead and fill out the rest of our functions.
+> **[3:51](https://www.linkedin.com/learning/learning-python-2021/parsing-and-processing-html?u=76281980&t=231)** All right, let's go ahead and close that terminal and let's go ahead and fill out the [[Representational State Transfer (REST)|rest]] of our functions.
 >
 > **[3:59](https://www.linkedin.com/learning/learning-python-2021/parsing-and-processing-html?u=76281980&t=239)** So let's go ahead and fill out handle data because it's basically the same as the one for comments.
 >
@@ -3983,7 +3954,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (27), data (15), [[Python (Programming Language)|Python]] (5), web (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[HTML]] (27), [[Python (Programming Language)|Python]] (5), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** html (27), url (2)
 > **CLI Commands:** python (5), make (3)
 > **Analogies:** for example (3), such as (1)
@@ -3992,18 +3963,17 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - python (1)
 
-#### Manipulating XML
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/manipulating-xml?u=76281980)
+#### [Manipulating XML](https://www.linkedin.com/learning/learning-python-2021/manipulating-xml?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-python-2021/manipulating-xml?u=76281980&t=0)** - Sometimes when you're processing markup like XML or HTML, you don't want to build a parser that just runs through the document one line at a time.
+> **[0:00](https://www.linkedin.com/learning/learning-python-2021/manipulating-xml?u=76281980&t=0)** - Sometimes when you're processing markup like XML or [[HTML]], you don't want to build a parser that just runs through the document one line at a time.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-python-2021/manipulating-xml?u=76281980&t=9)** What you'll need to do is have the entire document in memory so you can manipulate it.
 >
 > **[0:14](https://www.linkedin.com/learning/learning-python-2021/manipulating-xml?u=76281980&t=14)** In other words, you'll operate on the Documents Object Model or DOM.
 >
-> **[0:18](https://www.linkedin.com/learning/learning-python-2021/manipulating-xml?u=76281980&t=18)** In this example, we'll see how to use the XML Mini DOM class that Python provides to load an XML file and then operate on the document while it's in memory.
+> **[0:18](https://www.linkedin.com/learning/learning-python-2021/manipulating-xml?u=76281980&t=18)** In this example, we'll see how to use the XML Mini DOM class that [[Python (Programming Language)|Python]] provides to load an XML file and then operate on the document while it's in memory.
 >
 > **[0:28](https://www.linkedin.com/learning/learning-python-2021/manipulating-xml?u=76281980&t=28)** So let's open up the XML parsing start file.
 >
@@ -4031,7 +4001,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/learning-python-2021/manipulating-xml?u=76281980&t=120)** So there'll be doc.firstchild.tagname.
 >
-> **[2:05](https://www.linkedin.com/learning/learning-python-2021/manipulating-xml?u=76281980&t=125)** Now, if these property names don't look familiar to you, there are standard names that are used in the Document Object Model, things like no name and first child and tag name, these are all standard properties of DOM elements.
+> **[2:05](https://www.linkedin.com/learning/learning-python-2021/manipulating-xml?u=76281980&t=125)** Now, if these property names don't look familiar to you, there are standard names that are used in the [[Document Object Model (DOM)|Document Object Model]], things like no name and first child and tag name, these are all standard properties of DOM elements.
 >
 > **[2:19](https://www.linkedin.com/learning/learning-python-2021/manipulating-xml?u=76281980&t=139)** So let's just save and run what we have.
 >
@@ -4073,7 +4043,7 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/learning-python-2021/manipulating-xml?u=76281980&t=249)** All right. So there's four skills listed.
 >
-> **[4:11](https://www.linkedin.com/learning/learning-python-2021/manipulating-xml?u=76281980&t=251)** So that seems to be working and there they are JavaScript, Python, C-sharp and HTML, okay.
+> **[4:11](https://www.linkedin.com/learning/learning-python-2021/manipulating-xml?u=76281980&t=251)** So that seems to be working and there they are [[JavaScript]], Python, C-sharp and HTML, okay.
 >
 > **[4:17](https://www.linkedin.com/learning/learning-python-2021/manipulating-xml?u=76281980&t=257)** So it looks like, again, everything seems to be working.
 >
@@ -4137,7 +4107,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dom (10), [[Python (Programming Language)|Python]] (4), [[HTML]] (3), node (2), [[JavaScript]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[HTML]] (3), [[JavaScript]] (2), [[Document Object Model (DOM)|Document object model]] (1)
 > **Env Vars:** xml (16), dom (8), html (3), w3c (2)
 > **CLI Commands:** python (4), make (3), node (2)
 > **Code Identifiers:** jquery (3)
@@ -4151,14 +4121,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Where to go next
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/where-to-go-next?u=76281980)
+#### [Where to go next](https://www.linkedin.com/learning/learning-python-2021/where-to-go-next?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-python-2021/where-to-go-next?u=76281980&t=0)** - All right.
 >
-> **[0:01](https://www.linkedin.com/learning/learning-python-2021/where-to-go-next?u=76281980&t=1)** Well, that brings us to the conclusion of Learning Python.
+> **[0:01](https://www.linkedin.com/learning/learning-python-2021/where-to-go-next?u=76281980&t=1)** Well, that brings us to the conclusion of Learning [[Python (Programming Language)|Python]].
 >
 > **[0:03](https://www.linkedin.com/learning/learning-python-2021/where-to-go-next?u=76281980&t=3)** If you like what you've seen in this course, and you think that Python might be a good fit for projects that you're working on, there are a few places you can go next from here.
 >
@@ -4166,7 +4135,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/learning-python-2021/where-to-go-next?u=76281980&t=23)** To learn more about these modules, check out the Python Standard Library Essential Training Course.
 >
-> **[0:28](https://www.linkedin.com/learning/learning-python-2021/where-to-go-next?u=76281980&t=28)** During this course, we saw how to use Python to access information over the internet and process data formats like JSON and XML.
+> **[0:28](https://www.linkedin.com/learning/learning-python-2021/where-to-go-next?u=76281980&t=28)** During this course, we saw how to use Python to access information over the internet and process data formats like [[JSON]] and XML.
 >
 > **[0:36](https://www.linkedin.com/learning/learning-python-2021/where-to-go-next?u=76281980&t=36)** To go even deeper into this subject, check out the course, Python, XML, JSON, and the web.
 >
@@ -4176,7 +4145,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/learning-python-2021/where-to-go-next?u=76281980&t=56)** Python is a very capable object oriented programming language, and we looked at some of the object oriented features in this course.
 >
-> **[1:02](https://www.linkedin.com/learning/learning-python-2021/where-to-go-next?u=76281980&t=62)** If you want to learn even more about how to build great object oriented programs, then consider watching the [[Python Object-Oriented Programming]] course.
+> **[1:02](https://www.linkedin.com/learning/learning-python-2021/where-to-go-next?u=76281980&t=62)** If you want to learn even more about how to build great object oriented programs, then consider watching the [[Python [[Object-Oriented Programming (OOP)|Object-Oriented Programming]]]] course.
 >
 > **[1:10](https://www.linkedin.com/learning/learning-python-2021/where-to-go-next?u=76281980&t=70)** And finally, if you want to take your Python skills to the next level, consider watching the Advanced Python course.
 >
@@ -4188,7 +4157,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (13), next (2), [[JSON]] (2), data (1), web (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (13), [[JSON]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **CLI Commands:** python (13), find (1)
 > **Env Vars:** json (2), xml (2)
 > **URLs:** [python.org](https://python.org) (1)

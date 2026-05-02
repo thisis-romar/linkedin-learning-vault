@@ -90,12 +90,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Programming an object-oriented text adventure game
-> [LinkedIn Learning](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/programming-an-object-oriented-text-adventure-game?u=76281980)
+#### [Programming an object-oriented text adventure game](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/programming-an-object-oriented-text-adventure-game?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/programming-an-object-oriented-text-adventure-game?u=76281980&t=0)** - [Instructor] In this course we're going to learn the basics of object-oriented programming by creating a simple text adventure game.
+> **[0:00](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/programming-an-object-oriented-text-adventure-game?u=76281980&t=0)** - [Instructor] In this course we're going to learn the basics of [[Object-Oriented Programming (OOP)|object-oriented programming]] by creating a simple text adventure game.
 >
 > **[0:06](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/programming-an-object-oriented-text-adventure-game?u=76281980&t=6)** While there's lots of content out there on the theory behind object-oriented programming, I wanted to take a more hands-on approach by actually seeing how the core concepts of encapsulation, inheritance, polymorphism, and abstraction work.
 >
@@ -109,21 +108,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (4), game (1)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (4)
 > **Speakers:** - [instructor] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/what-you-should-know?u=76281980&t=0)** - [Instructor] This course is intended for intermediate developers that have a basic knowledge of how C Sharp works, have experienced writing classes, and want to learn more about the concepts of object-oriented programming and practice.
+> **[0:00](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/what-you-should-know?u=76281980&t=0)** - [Instructor] This course is intended for intermediate developers that have a basic knowledge of how C Sharp works, have experienced writing classes, and want to learn more about the concepts of [[Object-Oriented Programming (OOP)|object-oriented programming]] and practice.
 >
 > **[0:11](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/what-you-should-know?u=76281980&t=11)** I'm going to assume that you've already read a little bit about the theory behind object-oriented programming or come from a language that uses it.
 >
 > **[0:18](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/what-you-should-know?u=76281980&t=18)** You'll need to get .NET 6 set up on your computer but any future versions of .NET will work, since the code we'll be writing will focus on the core features of the language.
 >
-> **[0:27](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/what-you-should-know?u=76281980&t=27)** If you do not have .NET set up, please go ahead and download a copy of Visual Studio for the Mac or Windows.
+> **[0:27](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/what-you-should-know?u=76281980&t=27)** If you do not have .NET set up, please go ahead and download a copy of Visual Studio for the Mac or [[Windows]].
 >
 > **[0:34](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/what-you-should-know?u=76281980&t=34)** It'll automatically set up your dev environment and make it easier to code our game.
 >
@@ -133,7 +131,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), game (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), [[Windows]] (1)
 > **Prerequisites:** set up (5), you'll need (2)
 > **Env Vars:** net (4), sdk (1)
 > **Tools:** visual studio (2), command line (1)
@@ -146,14 +144,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting up .NET 6
-> [LinkedIn Learning](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/setting-up-dot-net-6?u=76281980)
+#### [Setting up .NET 6](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/setting-up-dot-net-6?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/setting-up-dot-net-6?u=76281980&t=0)** - [Instructor] So once you have your IDE installed, it's time for us to create a new project.
 >
-> **[0:05](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/setting-up-dot-net-6?u=76281980&t=5)** For this course, I'm going to be using Visual Studio for the Mac but it'll be very similar to Visual Studio and Windows.
+> **[0:05](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/setting-up-dot-net-6?u=76281980&t=5)** For this course, I'm going to be using Visual Studio for the Mac but it'll be very similar to Visual Studio and [[Windows]].
 >
 > **[0:11](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/setting-up-dot-net-6?u=76281980&t=11)** To get started, we'll click new and select a console application from the default C# templates.
 >
@@ -161,7 +158,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/setting-up-dot-net-6?u=76281980&t=25)** And then we can name our project, oop-adventure.
 >
-> **[0:31](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/setting-up-dot-net-6?u=76281980&t=31)** Let's uncheck the put the project in a sub folder so that all of our code exists in the root and then we'll select use git version control so that you can can version control your code as you work through the course.
+> **[0:31](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/setting-up-dot-net-6?u=76281980&t=31)** Let's uncheck the put the project in a sub folder so that all of our code exists in the root and then we'll select use [[Git]] [[Version Control]] so that you can can version control your code as you work through the course.
 >
 > **[0:43](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/setting-up-dot-net-6?u=76281980&t=43)** When you're ready, hit create and Visual Studio will load up the default project.
 >
@@ -191,7 +188,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/setting-up-dot-net-6?u=76281980&t=155)** We'll use this token to replace with the player's name once we read it from the console or if we set it to the default value, then just write to your OOP Adventure, then let's pass in the name.
 >
-> **[2:50](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/setting-up-dot-net-6?u=76281980&t=170)** If we pass in any additional arguments to the Console.WriteLine, it'll automatically replace it with the tokens in the string.
+> **[2:50](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/setting-up-dot-net-6?u=76281980&t=170)** If we pass in any additional arguments to the Console.WriteLine, it'll automatically replace it with the [[Tokens]] in the string.
 >
 > **[2:57](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/setting-up-dot-net-6?u=76281980&t=177)** In this case, name will replace the zero token.
 >
@@ -217,7 +214,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (5), game (4), oop (2), [[Version Control]] (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Version Control]] (2), [[Windows]] (1), [[Git]] (1), [[Tokens]] (1)
 > **Tools:** visual studio (3), terminal (1), command line (1)
 > **CLI Commands:** make (3), git (1)
 > **UI Navigation:** click on (2), open the (1), go to (1)
@@ -226,20 +223,19 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Exercise Files:** template (1)
 
-#### Classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/classes?u=76281980)
+#### [Classes](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/classes?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/classes?u=76281980&t=0)** - [Instructor] Up until this point, our program's been very basic.
 >
-> **[0:03](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/classes?u=76281980&t=3)** This is functional programming, every line gets executed in order and once all the code is done executing, the program quits.
+> **[0:03](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/classes?u=76281980&t=3)** This is [[Functional Programming]], every line gets executed in order and once all the code is done executing, the program quits.
 >
 > **[0:12](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/classes?u=76281980&t=12)** This is how coding used to be 30 plus years ago.
 >
 > **[0:16](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/classes?u=76281980&t=16)** Now, when we talk about object oriented programming, we can get into how to build more complicated logic and scale it.
 >
-> **[0:23](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/classes?u=76281980&t=23)** Object-oriented programming is based on the concept of wrapping code around logic in special containers called objects.
+> **[0:23](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/classes?u=76281980&t=23)** [[Object-Oriented Programming (OOP)|Object-oriented programming]] is based on the concept of wrapping code around logic in special containers called objects.
 >
 > **[0:30](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/classes?u=76281980&t=30)** In C#, we use classes to define each of these objects.
 >
@@ -315,7 +311,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[Functional Programming]] (1), [[Programming]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), hit (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **CLI Commands:** make (3)
 > **Exercise Files:** template (3)
 > **Tools:** visual studio (2)
@@ -324,8 +320,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Extending a class
-> [LinkedIn Learning](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/extending-a-class?u=76281980)
+#### [Extending a class](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/extending-a-class?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -409,7 +404,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), game (1), hit (1)
 > **Definitions:** is a  (2), is an  (2), we call this (1), is called (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -417,14 +411,14 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Analogies:** just like (1)
 > **Warnings:** note that (1)
+> **Speakers:** - [instructor] (1)
 
 
 ### 2. Scope
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Scope
-> [LinkedIn Learning](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/scope?u=76281980)
+#### [Scope](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/scope?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -516,7 +510,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (5), next (3), oop (1), [[Programming]] (1), data (1)
 > **UI Navigation:** click on (2), select the (2), go to (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** oop (1)
@@ -525,12 +518,11 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Singleton
-> [LinkedIn Learning](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/singleton?u=76281980)
+#### [Singleton](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/singleton?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/singleton?u=76281980&t=0)** - [Instructor] When we talk about building a full OOP app, we can implement several design patterns, which are solutions to common problems we find when designing complex systems.
+> **[0:00](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/singleton?u=76281980&t=0)** - [Instructor] When we talk about building a full OOP app, we can implement several [[Design Patterns]], which are solutions to common problems we find when designing complex systems.
 >
 > **[0:10](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/singleton?u=76281980&t=10)** A common one is how do you access a single instance of a class throughout your application?
 >
@@ -584,7 +576,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/singleton?u=76281980&t=197)** Now, whenever we want to access the current language, all we need to do is reference the text.language getter.
 >
-> **[3:24](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/singleton?u=76281980&t=204)** The last thing we need to do is instantiate the language, we'll do this by creating a new public method, that will allow us to register a single instance of our language, that can be used throughout the rest of our game.
+> **[3:24](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/singleton?u=76281980&t=204)** The last thing we need to do is instantiate the language, we'll do this by creating a new public method, that will allow us to register a single instance of our language, that can be used throughout the [[Representational State Transfer (REST)|rest]] of our game.
 >
 > **[3:38](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/singleton?u=76281980&t=218)** We'll make this a static method.
 >
@@ -624,15 +616,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (3), [[Representational State Transfer (REST)|Rest]] (2), oop (1), [[Design Patterns]] (1), application (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Design Patterns]] (1)
 > **CLI Commands:** make (5), find (1)
 > **Env Vars:** oop (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Partial classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/partial-classes?u=76281980)
+#### [Partial classes](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/partial-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -652,7 +643,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/partial-classes?u=76281980&t=53)** Now that we have the house class, we can use our namespace and begin writing out our partial class.
 >
-> **[1:03](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/partial-classes?u=76281980&t=63)** In order to do this, we're going to use the key word partial when defining the class name.
+> **[1:03](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/partial-classes?u=76281980&t=63)** In order to do this, we're going to use the key [[Microsoft Word|word]] partial when defining the class name.
 >
 > **[1:09](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/partial-classes?u=76281980&t=69)** We can still use public, partial, class, and house.
 >
@@ -730,7 +721,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), game (3), [[Microsoft Word|Word]] (2), next (2), web application (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (2), select the (1)
 > **Definitions:** means that (1), is a  (1)
@@ -744,8 +735,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The room
-> [LinkedIn Learning](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/the-room?u=76281980)
+#### [The room](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/the-room?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -781,7 +771,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/the-room?u=76281980&t=122)** We're going to create a template for the default room name that says room and the zero token will be replaced by the room's unique ID.
 >
-> **[2:13](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/the-room?u=76281980&t=133)** And in parentheses, we'll replace the one in two tokens with its X and Y position on the grid.
+> **[2:13](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/the-room?u=76281980&t=133)** And in parentheses, we'll replace the one in two [[Tokens]] with its X and Y position on the grid.
 >
 > **[2:20](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/the-room?u=76281980&t=140)** This will help us debug later as we move around from room to room.
 >
@@ -809,15 +799,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (1), [[Tokens]] (1), next (1)
+> **Frameworks & Libraries:** [[Tokens]] (1)
 > **Exercise Files:** template (4)
 > **Prerequisites:** set up (3)
 > **CLI Commands:** make (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Room movement
-> [LinkedIn Learning](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/room-movement?u=76281980)
+#### [Room movement](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/room-movement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -839,7 +828,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/room-movement?u=76281980&t=58)** We're going to use some simple math later on that'll allow us to calculate which room we are in and what the correct index is inside of our one dimensional array.
 >
-> **[1:08](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/room-movement?u=76281980&t=68)** Now let's go to our house.move partial file and add the rest of our move logic.
+> **[1:08](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/room-movement?u=76281980&t=68)** Now let's go to our house.move partial file and add the [[Representational State Transfer (REST)|rest]] of our move logic.
 >
 > **[1:14](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/room-movement?u=76281980&t=74)** The first thing we're going to need to do is add a public property that represents the current room that the player is in.
 >
@@ -865,14 +854,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Representational State Transfer (REST)|Rest]] (1), game (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** go to (3)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/actions?u=76281980)
+#### [Actions](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/actions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -972,14 +960,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (4), next (2)
 > **Definitions:** is a  (2), means that (1), is called (1), is an  (1)
 > **Analogies:** similar to (1), just like (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Execute action
-> [LinkedIn Learning](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/execute-action?u=76281980)
+#### [Execute action](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/execute-action?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1043,14 +1029,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (2)
 > **Tools:** visual studio (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Go action
-> [LinkedIn Learning](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/go-action?u=76281980)
+#### [Go action](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/go-action?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1152,7 +1136,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5)
 > **UI Navigation:** go to (2)
 > **Definitions:** means that (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -1161,8 +1144,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Action loop
-> [LinkedIn Learning](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/action-loop?u=76281980)
+#### [Action loop](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/action-loop?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1246,7 +1228,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (6), next (2), [[Debugging]] (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
@@ -1257,8 +1238,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating rooms
-> [LinkedIn Learning](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/creating-rooms?u=76281980)
+#### [Creating rooms](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/creating-rooms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1344,7 +1324,7 @@ created: 2026-05-02
 >
 > **[4:29](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/creating-rooms?u=76281980&t=269)** The last thing we need to do now is give the room a unique name based on its index, its column and its row.
 >
-> **[4:37](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/creating-rooms?u=76281980&t=277)** (computer keyboard clicking) If we go back into the English class, you'll see that the default room name has three tokens, zero, one and two.
+> **[4:37](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/creating-rooms?u=76281980&t=277)** (computer keyboard clicking) If we go back into the English class, you'll see that the default room name has three [[Tokens]], zero, one and two.
 >
 > **[4:51](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/creating-rooms?u=76281980&t=291)** We're going to be using the string format in order to pass those values in and to replace the tokens with the index, the column and the row.
 >
@@ -1354,14 +1334,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), node (2), [[Tokens]] (2)
+> **Frameworks & Libraries:** [[Tokens]] (2)
 > **Non-Speech:** (computer keyboard clicking) (7)
 > **CLI Commands:** make (3), node (2), find (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Calculating neighbors
-> [LinkedIn Learning](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/calculating-neighbors?u=76281980)
+#### [Calculating neighbors](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/calculating-neighbors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1407,13 +1386,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Overriding methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/overriding-methods?u=76281980)
+#### [Overriding methods](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/overriding-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1445,7 +1422,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/overriding-methods?u=76281980&t=75)** The RoomOld property will be the template that says "You return to" and uses a single token as well.
 >
-> **[1:22](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/overriding-methods?u=76281980&t=82)** Finally, the And property will just be the word "and".
+> **[1:22](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/overriding-methods?u=76281980&t=82)** Finally, the And property will just be the [[Microsoft Word|word]] "and".
 >
 > **[1:25](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/overriding-methods?u=76281980&t=85)** Now let's go into our Room class.
 >
@@ -1523,7 +1500,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Microsoft Word|Word]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **Exercise Files:** template (4)
 > **Cross-References:** in the next (2)
 > **Definitions:** is a  (2)
@@ -1531,8 +1508,7 @@ created: 2026-05-02
 > **Code Identifiers:** joinedwordlist (1)
 > **Speakers:** - [instructor] (1)
 
-#### Joining words
-> [LinkedIn Learning](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/joining-words?u=76281980)
+#### [Joining words](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/joining-words?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1546,7 +1522,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/joining-words?u=76281980&t=26)** Now let's go into our English class and set these two strings.
 >
-> **[0:32](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/joining-words?u=76281980&t=32)** Now it's time for us to add the logic for our joined word list method.
+> **[0:32](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/joining-words?u=76281980&t=32)** Now it's time for us to add the logic for our joined [[Microsoft Word|word]] list method.
 >
 > **[0:36](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/joining-words?u=76281980&t=36)** In order to do that, we're going to create a new partial file that will add the functionality onto the existing language class.
 >
@@ -1626,7 +1602,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (15), next (4), game (3)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (15)
 > **CLI Commands:** make (8)
 > **Cross-References:** previous video (1), go back to (1), in the next (1)
 > **Prerequisites:** set up (1), before we start (1)
@@ -1635,8 +1611,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Decorating rooms
-> [LinkedIn Learning](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/decorating-rooms?u=76281980)
+#### [Decorating rooms](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/decorating-rooms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1670,7 +1645,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/decorating-rooms?u=76281980&t=85)** Now it's time for us to create the room description.
 >
-> **[1:28](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/decorating-rooms?u=76281980&t=88)** We're going to select the first item in the room descriptions list so that each room, if it doesn't have a random name, defaults to the word normal.
+> **[1:28](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/decorating-rooms?u=76281980&t=88)** We're going to select the first item in the room descriptions list so that each room, if it doesn't have a random name, defaults to the [[Microsoft Word|word]] normal.
 >
 > **[1:38](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/decorating-rooms?u=76281980&t=98)** Now we're going to create a condition that'll test to see how many items are still in our room description list and if it's greater than one, we'll randomly pick whether we should add a new description or not.
 >
@@ -1704,7 +1679,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **Definitions:** means that (2)
 > **UI Navigation:** select the (1)
 > **Best Practices:** don't forget (1)
@@ -1715,8 +1690,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Items
-> [LinkedIn Learning](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/items?u=76281980)
+#### [Items](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/items?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1762,12 +1736,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (3), next (1)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Inventory
-> [LinkedIn Learning](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/inventory?u=76281980)
+#### [Inventory](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/inventory?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1799,7 +1771,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/inventory?u=76281980&t=84)** We're going to create a public method called Add that accepts an item.
 >
-> **[1:28](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/inventory?u=76281980&t=88)** Instead of routing the inventory's Add to the item list Add method we're going to create our own method, and I'll illustrate that even though we're calling the item's Add method and passing it the item, we could also add some additional logic before we call the Items.Add method in case we want to check whether the inventory is full or if the item already exists.
+> **[1:28](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/inventory?u=76281980&t=88)** Instead of [[Routing]] the inventory's Add to the item list Add method we're going to create our own method, and I'll illustrate that even though we're calling the item's Add method and passing it the item, we could also add some additional logic before we call the Items.Add method in case we want to check whether the inventory is full or if the item already exists.
 >
 > **[1:55](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/inventory?u=76281980&t=115)** Let's go ahead and do the same thing for the Public.Remove method.
 >
@@ -1811,7 +1783,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (2), [[Routing]] (1), next (1)
+> **Frameworks & Libraries:** [[Routing]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** net (1)
 > **Cross-References:** in the next (1)
@@ -1819,8 +1791,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using items
-> [LinkedIn Learning](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/using-items?u=76281980)
+#### [Using items](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/using-items?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1922,18 +1893,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4)
 > **CLI Commands:** find (20), make (2)
 > **Code Identifiers:** itemname (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Interfaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/interfaces?u=76281980)
+#### [Interfaces](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/interfaces?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/interfaces?u=76281980&t=0)** - [Instructor] Up until this point we've been hard coding all of our types to classes but one of the advantages of object-oriented programming is that we can use something called interfaces to decouple our code.
+> **[0:00](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/interfaces?u=76281980&t=0)** - [Instructor] Up until this point we've been hard coding all of our types to classes but one of the advantages of [[Object-Oriented Programming (OOP)|object-oriented programming]] is that we can use something called interfaces to decouple our code.
 >
 > **[0:11](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/interfaces?u=76281980&t=11)** An interface is a contract between two classes that define all of the public properties and methods that can be used.
 >
@@ -2043,7 +2012,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), hit (1)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **CLI Commands:** make (6)
 > **Tools:** visual studio (5)
 > **Definitions:** is a  (2), is an  (1), means that (1), we call this (1)
@@ -2052,8 +2021,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1), dropdown (1)
 > **Code Identifiers:** iinventory (1)
 
-#### Creating a backpack
-> [LinkedIn Learning](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/creating-a-backpack?u=76281980)
+#### [Creating a backpack](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/creating-a-backpack?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2073,7 +2041,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/creating-a-backpack?u=76281980&t=60)** Inside of our constructor, we're going to get a reference to the inventory we want the Backpack to explore and set it to the private field of the inventory inside of the Backpack itself.
 >
-> **[1:14](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/creating-a-backpack?u=76281980&t=74)** Now we need to give this action a name, so we're going to override the base action classes Name property and set it to the word Backpack.
+> **[1:14](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/creating-a-backpack?u=76281980&t=74)** Now we need to give this action a name, so we're going to override the base action classes Name property and set it to the [[Microsoft Word|word]] Backpack.
 >
 > **[1:23](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/creating-a-backpack?u=76281980&t=83)** We're going to have to create a new property called Backpack on our Language class
 >
@@ -2123,13 +2091,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (2), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Cross-References:** we talked about (1), in the next (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a chest
-> [LinkedIn Learning](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/creating-a-chest?u=76281980)
+#### [Creating a chest](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/creating-a-chest?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2163,7 +2130,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/creating-a-chest?u=76281980&t=120)** Also pay attention to the fact that each of the items names are using a lowercase letter to begin with.
 >
-> **[2:07](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/creating-a-chest?u=76281980&t=127)** Once that's been created, we can now go back to our Chest and add the rest of our code.
+> **[2:07](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/creating-a-chest?u=76281980&t=127)** Once that's been created, we can now go back to our Chest and add the [[Representational State Transfer (REST)|rest]] of our code.
 >
 > **[2:14](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/creating-a-chest?u=76281980&t=134)** Since we want the Chest to be locked and the player needs to have a Key in order to unlock the Chest, we're going to need to create a boolean called locked and we're going to set it to true by default.
 >
@@ -2221,7 +2188,7 @@ created: 2026-05-02
 >
 > **[5:49](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/creating-a-chest?u=76281980&t=349)** Now back in our Chest class, we can pass in the list of items.
 >
-> **[5:54](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/creating-a-chest?u=76281980&t=354)** In order to do this, we're going to need to use the string format on the ChestFound string and pass in a joined word list of items using And.
+> **[5:54](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/creating-a-chest?u=76281980&t=354)** In order to do this, we're going to need to use the string format on the ChestFound string and pass in a joined [[Microsoft Word|word]] list of items using And.
 >
 > **[6:15](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/creating-a-chest?u=76281980&t=375)** Now we need to add each of the items from the Chest into the player.
 >
@@ -2235,7 +2202,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (8), [[Representational State Transfer (REST)|Rest]] (2), game (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** go back to (2)
 > **Tools:** visual studio (1)
@@ -2248,8 +2215,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating a key and gold
-> [LinkedIn Learning](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/creating-a-key-and-gold?u=76281980)
+#### [Creating a key and gold](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/creating-a-key-and-gold?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2287,7 +2253,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/creating-a-key-and-gold?u=76281980&t=161)** Now let's go ahead and add the values for these properties to our English class.
 >
-> **[2:49](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/creating-a-key-and-gold?u=76281980&t=169)** For gold, we'll create a template that has two tokens with the word gold in the middle.
+> **[2:49](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/creating-a-key-and-gold?u=76281980&t=169)** For gold, we'll create a template that has two [[Tokens]] with the [[Microsoft Word|word]] gold in the middle.
 >
 > **[2:54](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/creating-a-key-and-gold?u=76281980&t=174)** The first token will be the number of gold and the second token will be coin or coins based on whether the value is greater than one.
 >
@@ -2315,15 +2281,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Microsoft Word|Word]] (3), game (2), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Tokens]] (1)
 > **CLI Commands:** make (6), find (1)
 > **Cross-References:** previous video (1), go back to (1)
 > **UI Navigation:** toggle (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Populating items
-> [LinkedIn Learning](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/populating-items?u=76281980)
+#### [Populating items](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/populating-items?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2397,7 +2362,7 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/populating-items?u=76281980&t=250)** First, let's create a new variable called pluralPre.
 >
-> **[4:18](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/populating-items?u=76281980&t=258)** Up first, we need to use the correct word based on how many items are in the room.
+> **[4:18](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/populating-items?u=76281980&t=258)** Up first, we need to use the correct [[Microsoft Word|word]] based on how many items are in the room.
 >
 > **[4:23](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/populating-items?u=76281980&t=263)** So we'll test whether the items length is greater than 1.
 >
@@ -2425,7 +2390,7 @@ created: 2026-05-02
 >
 > **[5:25](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/populating-items?u=76281980&t=325)** (keyboard keys clicking) Now let's set the value of the total items to the following string template.
 >
-> **[5:36](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/populating-items?u=76281980&t=336)** Notice how we have three tokens in this string.
+> **[5:36](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/populating-items?u=76281980&t=336)** Notice how we have three [[Tokens]] in this string.
 >
 > **[5:40](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/populating-items?u=76281980&t=340)** When we go back into our room, we're going to need to modify the new string that we're appending and call string.Format and pass in the pluralPre,
 >
@@ -2465,7 +2430,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Microsoft Word|Word]] (3), game (3), [[Tokens]] (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Tokens]] (2)
 > **Non-Speech:** (keyboard keys clicking) (8)
 > **CLI Commands:** make (6), find (1)
 > **Code Identifiers:** pluralpre (2), pluralpost (2)
@@ -2474,8 +2439,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1), navigate to (1)
 > **Exercise Files:** template (1)
 
-#### Take action
-> [LinkedIn Learning](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/take-action?u=76281980)
+#### [Take action](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/take-action?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2527,7 +2491,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/take-action?u=76281980&t=174)** Remember that when the player enters text into the console and hits return we're going to split it based on the spaces in the string.
 >
-> **[3:02](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/take-action?u=76281980&t=182)** So if we see that there's only one item in the argument, that means that the player has only written the word take and hasn't given a target for us to actually take.
+> **[3:02](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/take-action?u=76281980&t=182)** So if we see that there's only one item in the argument, that means that the player has only written the [[Microsoft Word|word]] take and hasn't given a target for us to actually take.
 >
 > **[3:13](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/take-action?u=76281980&t=193)** In that case, we're just going to throw an error for not taken.
 >
@@ -2593,15 +2557,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), game (3), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **UI Navigation:** click on (1), go to (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** template (1)
 > **Definitions:** means that (1)
 > **Analogies:** just like (1)
 
-#### Use action
-> [LinkedIn Learning](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/use-action?u=76281980)
+#### [Use action](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/use-action?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2665,7 +2628,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (5), next (2)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** arg (3)
 > **UI Navigation:** open the (1)
@@ -2679,26 +2641,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing with C#
-> [LinkedIn Learning](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/continuing-with-c-sharp?u=76281980)
+#### [Continuing with C#](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/continuing-with-c-sharp?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/continuing-with-c-sharp?u=76281980&t=0)** - [Jesse] At this point, you should have practical knowledge of how object-oriented programming works in C#.
+> **[0:00](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/continuing-with-c-sharp?u=76281980&t=0)** - [Jesse] At this point, you should have practical knowledge of how [[Object-Oriented Programming (OOP)|object-oriented programming]] works in C#.
 >
 > **[0:05](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/continuing-with-c-sharp?u=76281980&t=5)** We've created classes, we've extended them and we've even abstracted them out by decoupling our code and using interfaces for composition.
 >
-> **[0:14](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/continuing-with-c-sharp?u=76281980&t=14)** While the game is very basic in its current form, hopefully you have a better sense of the design patterns we have used to add new items and actions to the game.
+> **[0:14](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/continuing-with-c-sharp?u=76281980&t=14)** While the game is very basic in its current form, hopefully you have a better sense of the [[Design Patterns]] we have used to add new items and actions to the game.
 >
 > **[0:22](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/continuing-with-c-sharp?u=76281980&t=22)** It should be easy to extend any of our base classes and customize the game in order to finish it.
 >
-> **[0:28](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/continuing-with-c-sharp?u=76281980&t=28)** If you'd like to learn more about .NET, C# or object-oriented programming, I suggest checking out my other course on C# Framework design.
+> **[0:28](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/continuing-with-c-sharp?u=76281980&t=28)** If you'd like to learn more about .NET, C# or object-oriented programming, I suggest checking out my other course on C# [[Framework Design]].
 >
 > **[0:37](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/continuing-with-c-sharp?u=76281980&t=37)** Thanks for watching the course and I hope to see you next time.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (3), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), [[Design Patterns]] (1), [[Framework Design]] (1), next (1)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), [[Design Patterns]] (1), [[Framework Design]] (1)
 > **Env Vars:** net (1)
 > **Speakers:** - [jesse] (1)
 

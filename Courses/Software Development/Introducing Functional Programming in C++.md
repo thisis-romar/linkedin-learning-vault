@@ -85,12 +85,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Unleash the power functional programming in C++
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/unleash-the-power-functional-programming-in-c-plus-plus?u=76281980)
+#### [Unleash the power functional programming in C++](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/unleash-the-power-functional-programming-in-c-plus-plus?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/unleash-the-power-functional-programming-in-c-plus-plus?u=76281980&t=0)** - [Troy] Functional programming in C++ allows you to write less code that is also more powerful.
+> **[0:00](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/unleash-the-power-functional-programming-in-c-plus-plus?u=76281980&t=0)** - [Troy] [[Functional Programming]] in C++ allows you to write less code that is also more powerful.
 >
 > **[0:05](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/unleash-the-power-functional-programming-in-c-plus-plus?u=76281980&t=5)** Functional programming teaches us to tell the computer what we want instead of telling it how to do it.
 >
@@ -100,12 +99,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Functional Programming]] (2), functional (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [troy] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -127,13 +125,13 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/what-you-should-know?u=76281980&t=32)** I will be using the Clang Compiler from a command line.
 >
-> **[0:35](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/what-you-should-know?u=76281980&t=35)** However, GCC and Microsoft compilers will also work.
+> **[0:35](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/what-you-should-know?u=76281980&t=35)** However, GCC and [[Microsoft]] compilers will also work.
 >
 > **[0:39](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/what-you-should-know?u=76281980&t=39)** For this course, I've downloaded the Boost RxCpp and Catch2 libraries.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1), next (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1)
 > **Tools:** visual studio (2), command line (1)
 > **Env Vars:** gcc (1)
 > **Definitions:** is a  (1)
@@ -145,12 +143,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Benefits of functional programming
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/benefits-of-functional-programming?u=76281980)
+#### [Benefits of functional programming](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/benefits-of-functional-programming?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/benefits-of-functional-programming?u=76281980&t=1)** - [Narrator] Functional programming has many benefits.
+> **[0:01](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/benefits-of-functional-programming?u=76281980&t=1)** - [Narrator] [[Functional Programming]] has many benefits.
 >
 > **[0:03](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/benefits-of-functional-programming?u=76281980&t=3)** Here are my top three.
 >
@@ -164,7 +161,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/benefits-of-functional-programming?u=76281980&t=25)** We try to avoid data mutations so all of our variables tend to be immutable.
 >
-> **[0:30](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/benefits-of-functional-programming?u=76281980&t=30)** Immutable is just a fancy word for a constant.
+> **[0:30](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/benefits-of-functional-programming?u=76281980&t=30)** Immutable is just a fancy [[Microsoft Word|word]] for a constant.
 >
 > **[0:34](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/benefits-of-functional-programming?u=76281980&t=34)** If you can't change variables, loops are difficult to implement so recursion is preferred.
 >
@@ -192,18 +189,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Functional Programming]] (4), functional (2), data (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (4), [[Microsoft Word|Word]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Unit testing functional programming
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/unit-testing-functional-programming?u=76281980)
+#### [Unit testing functional programming](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/unit-testing-functional-programming?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/unit-testing-functional-programming?u=76281980&t=1)** - [Instructor] One of the nice benefits of functional programming is easier testing, not having classes to mock or instantiate makes testing simpler, using pure functions whose outputs solely depends on their inputs, means the tests almost write themselves.
+> **[0:01](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/unit-testing-functional-programming?u=76281980&t=1)** - [Instructor] One of the nice benefits of [[Functional Programming]] is easier testing, not having classes to mock or instantiate makes testing simpler, using pure functions whose outputs solely depends on their inputs, means the tests almost write themselves.
 >
-> **[0:16](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/unit-testing-functional-programming?u=76281980&t=16)** Let's take a quick look at unit testing a C++ program written functionally.
+> **[0:16](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/unit-testing-functional-programming?u=76281980&t=16)** Let's take a quick look at [[Unit Testing]] a C++ program written functionally.
 >
 > **[0:21](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/unit-testing-functional-programming?u=76281980&t=21)** We'll download the open source, Catch2, unit test framework.
 >
@@ -247,7 +243,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Functional Programming]] (1), [[Unit Testing]] (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (1), [[Unit Testing]] (1)
 > **Tools:** visual studio (2), terminal (2)
 > **File Paths:** main.cpp (3)
 > **UI Navigation:** scroll down (1), go to (1), right-click (1)
@@ -261,8 +257,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Enabling C++ 17
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/enabling-c-plus-plus-17?u=76281980)
+#### [Enabling C++ 17](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/enabling-c-plus-plus-17?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -270,7 +265,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/enabling-c-plus-plus-17?u=76281980&t=6)** We won't always need it, but it doesn't hurt to have it available.
 >
-> **[0:09](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/enabling-c-plus-plus-17?u=76281980&t=9)** Each of the three big compilers, Microsoft, Clang and GCC has excellent C++ 17 support.
+> **[0:09](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/enabling-c-plus-plus-17?u=76281980&t=9)** Each of the three big compilers, [[Microsoft]], Clang and GCC has excellent C++ 17 support.
 >
 > **[0:17](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/enabling-c-plus-plus-17?u=76281980&t=17)** Here are the command line flags to activate it.
 >
@@ -304,7 +299,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (1), [[Microsoft]] (1), next (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1)
 > **Tools:** command line (2), terminal (2), visual studio (1)
 > **Env Vars:** gcc (1), cxx (1)
 > **Warnings:** warning (2)
@@ -312,14 +307,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### transform instead of map
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/transform-instead-of-map?u=76281980)
+#### [transform instead of map](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/transform-instead-of-map?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/transform-instead-of-map?u=76281980&t=1)** - [Instructor] The first methods that newbie functional programmers learn are map, filter and reduce.
 >
-> **[0:06](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/transform-instead-of-map?u=76281980&t=6)** A lot of languages, databases, and libraries have these methods, but unfortunately they don't exist in C++.
+> **[0:06](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/transform-instead-of-map?u=76281980&t=6)** A lot of languages, [[Databases]], and libraries have these methods, but unfortunately they don't exist in C++.
 >
 > **[0:13](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/transform-instead-of-map?u=76281980&t=13)** But don't fret, we have substitutes available.
 >
@@ -329,7 +323,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/transform-instead-of-map?u=76281980&t=29)** We could create implementations of them from scratch, but that usually isn't a good idea.
 >
-> **[0:34](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/transform-instead-of-map?u=76281980&t=34)** The algorithms of the standard library have had over 20 years of optimizations and improvements.
+> **[0:34](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/transform-instead-of-map?u=76281980&t=34)** The [[Algorithms]] of the standard library have had over 20 years of optimizations and improvements.
 >
 > **[0:40](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/transform-instead-of-map?u=76281980&t=40)** So let's go back to visual studio code.
 >
@@ -391,15 +385,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (2), [[Databases]] (1), [[Algorithms]] (1), data (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[Algorithms]] (1)
 > **Speakers:** - [instructor] (1), - std (1), - wall (1)
 > **File Paths:** main.cpp (2)
 > **Tools:** visual studio (1), terminal (1)
 > **Cross-References:** go back to (1)
 > **Prerequisites:** initialization (1)
 
-#### copy_if instead of filter
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/copy-if-instead-of-filter?u=76281980)
+#### [copy_if instead of filter](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/copy-if-instead-of-filter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -449,7 +442,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1)
 > **Code Identifiers:** copy_if (5), filteredcollection (3), back_inserter (2), outcollection (2)
 > **Speakers:** - [instructor] (1), - std (1), - wall (1)
 > **File Paths:** main.cpp (1)
@@ -457,8 +449,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll up (1)
 > **Definitions:** is an  (1)
 
-#### accumulate instead of reduce
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/accumulate-instead-of-reduce?u=76281980)
+#### [accumulate instead of reduce](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/accumulate-instead-of-reduce?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -498,18 +489,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Tools:** terminal (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### bind
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/bind?u=76281980)
+#### [bind](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/bind?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/bind?u=76281980&t=1)** - [Instructor] In functional programming, partial application is a technique which creates a new function with a smaller number of arguments from an old one.
+> **[0:01](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/bind?u=76281980&t=1)** - [Instructor] In [[Functional Programming]], partial application is a technique which creates a new function with a smaller number of arguments from an old one.
 >
 > **[0:09](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/bind?u=76281980&t=9)** The number of arguments a function accepts is called its arity.
 >
@@ -619,14 +608,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Functional Programming]] (1), application (1), functional (1), hit (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (1)
 > **Definitions:** is a  (5), is called (1)
 > **CLI Commands:** make (1)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/functions?u=76281980)
+#### [Functions](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -778,15 +766,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (2), next (1)
 > **Code Identifiers:** demofunction (5), push_back (4)
 > **Definitions:** is a  (7), known as (1)
 > **Tools:** terminal (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Lambda functions: Curry
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/lambda-functions-curry?u=76281980)
+#### [Lambda functions: Curry](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/lambda-functions-curry?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -834,7 +820,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** addcurry (4)
 > **Prerequisites:** set up (2)
 > **File Paths:** main.cpp (1)
@@ -842,8 +827,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Lambda functions: Closures
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/lambda-functions-closures?u=76281980)
+#### [Lambda functions: Closures](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/lambda-functions-closures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -895,8 +879,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Factorial continuous add
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/challenge-factorial-continuous-add?u=76281980)
+#### [Challenge: Factorial continuous add](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/challenge-factorial-continuous-add?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -920,8 +903,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (techno sound effects) (1)
 
-#### Solution: Factorial continuous add
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/solution-factorial-continuous-add?u=76281980)
+#### [Solution: Factorial continuous add](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/solution-factorial-continuous-add?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1011,14 +993,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### C++ templates
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/c-plus-plus-templates?u=76281980)
+#### [C++ templates](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/c-plus-plus-templates?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/c-plus-plus-templates?u=76281980&t=1)** - [Narrator] Template Metaprogramming or TMP is a form of C++ programming.
 >
-> **[0:05](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/c-plus-plus-templates?u=76281980&t=5)** TMP is a Turing complete, functional programming language built-in to C++.
+> **[0:05](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/c-plus-plus-templates?u=76281980&t=5)** TMP is a Turing complete, [[Functional Programming]] language built-in to C++.
 >
 > **[0:11](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/c-plus-plus-templates?u=76281980&t=11)** TMP variables are always immutable.
 >
@@ -1030,7 +1011,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/c-plus-plus-templates?u=76281980&t=25)** We have our include files, which are just iostream and vector and we're using the namespace std.
 >
-> **[0:31](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/c-plus-plus-templates?u=76281980&t=31)** So, let's first create an example function, which demonstrates how to do the same thing using generic programming.
+> **[0:31](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/c-plus-plus-templates?u=76281980&t=31)** So, let's first create an example function, which demonstrates how to do the same thing using [[Generic Programming]].
 >
 > **[0:37](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/c-plus-plus-templates?u=76281980&t=37)** So, we're going to say template, which is a keyword here.
 >
@@ -1050,7 +1031,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/c-plus-plus-templates?u=76281980&t=94)** So the code's going to look through here.
 >
-> **[1:36](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/c-plus-plus-templates?u=76281980&t=96)** It's going to say, oh we're calling cube with the integer eight, so type name becomes an integer and it's going to be integer T and it's going to instantiate this function, or another word for that is create the function in runtime.
+> **[1:36](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/c-plus-plus-templates?u=76281980&t=96)** It's going to say, oh we're calling cube with the integer eight, so type name becomes an integer and it's going to be integer T and it's going to instantiate this function, or another [[Microsoft Word|word]] for that is create the function in runtime.
 >
 > **[1:49](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/c-plus-plus-templates?u=76281980&t=109)** And then that function is actually going to get called in runtime.
 >
@@ -1112,7 +1093,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generic Programming]] (3), [[Programming]] (1), [[Functional Programming]] (1), generic (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Generic Programming]] (3), [[Functional Programming]] (1), [[Microsoft Word|Word]] (1)
 > **Exercise Files:** template (10)
 > **Code Identifiers:** tocube (9)
 > **Env Vars:** tmp (6)
@@ -1120,8 +1101,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - [narrator] (1)
 
-#### Factorial
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/factorial?u=76281980)
+#### [Factorial](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/factorial?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1217,7 +1197,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), generic (1)
 > **Exercise Files:** template (10)
 > **File Paths:** main.cpp (1)
 > **Cross-References:** go back to (1)
@@ -1226,16 +1205,15 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### The Standard Template Library
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/the-standard-template-library?u=76281980)
+#### [The Standard Template Library](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/the-standard-template-library?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/the-standard-template-library?u=76281980&t=1)** - [Instructor] The Standard Template Library is a subset of the C++ Standard Library.
 >
-> **[0:05](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/the-standard-template-library?u=76281980&t=5)** To make the library flexible and able to work with a wide variety of types, it is implemented using both template metaprogramming and generic programming.
+> **[0:05](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/the-standard-template-library?u=76281980&t=5)** To make the library flexible and able to work with a wide variety of types, it is implemented using both template metaprogramming and [[Generic Programming]].
 >
-> **[0:15](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/the-standard-template-library?u=76281980&t=15)** The STL consists of four components, algorithms, containers, functions, and iterators.
+> **[0:15](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/the-standard-template-library?u=76281980&t=15)** The STL consists of four components, [[Algorithms]], containers, functions, and iterators.
 >
 > **[0:20](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/the-standard-template-library?u=76281980&t=20)** Before you write a new algorithm, you should check here first to see if it already exists in the STL.
 >
@@ -1254,8 +1232,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Functional programming libraries
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/functional-programming-libraries?u=76281980)
+#### [Functional programming libraries](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/functional-programming-libraries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1265,7 +1242,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/functional-programming-libraries?u=76281980&t=10)** Unfortunately, it has not had a new release since 2009.
 >
-> **[0:14](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/functional-programming-libraries?u=76281980&t=14)** The Boost.MPL library is a header only C++ O3 base general purpose template metaprogramming framework of compile time algorithms, sequences, and metafunctions.
+> **[0:14](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/functional-programming-libraries?u=76281980&t=14)** The Boost.MPL library is a header only C++ O3 base general purpose template metaprogramming framework of compile time [[Algorithms]], sequences, and metafunctions.
 >
 > **[0:26](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/functional-programming-libraries?u=76281980&t=26)** Boost.Fusion is a library for working with heterogeneous collections of data, commonly referred to as tuples.
 >
@@ -1281,15 +1258,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (1), data (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **Definitions:** is a  (4)
 > **Env Vars:** mpl (2)
 > **Exercise Files:** template (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Boost.Hana
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/boost-hana?u=76281980)
+#### [Boost.Hana](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/boost-hana?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1359,7 +1335,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/boost-hana?u=76281980&t=212)** We're also going to pass to it the vehicles collection.
 >
-> **[3:36](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/boost-hana?u=76281980&t=216)** And this time we're going to do a little functional composition, so we're going to say hana::compose.
+> **[3:36](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/boost-hana?u=76281980&t=216)** And this time we're going to do a little functional composition, so we're going to say hana::[[Jetpack Compose|compose]].
 >
 > **[3:41](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/boost-hana?u=76281980&t=221)** Hana::compose takes two or more functions and makes them one function.
 >
@@ -1393,7 +1369,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Jetpack Compose|Compose]] (4), functional (3), power (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (4)
 > **Code Identifiers:** bed_length (7), has_bed_length (3), make_tuple (1), is_valid (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** mpl (1), stl (1)
@@ -1402,8 +1378,7 @@ created: 2026-05-02
 > **Versions:** 8.5 (1)
 > **Tools:** terminal (1)
 
-#### Challenge: Fibonacci generator
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/challenge-fibonacci-generator?u=76281980)
+#### [Challenge: Fibonacci generator](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/challenge-fibonacci-generator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1423,13 +1398,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (techno sound effects) (1)
 
-#### Solution: Fibonacci generator
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/solution-fibonacci-generator?u=76281980)
+#### [Solution: Fibonacci generator](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/solution-fibonacci-generator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1483,7 +1456,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Programming]] (1)
 > **Exercise Files:** template (5)
 > **UI Navigation:** go to (2)
 > **Speakers:** - [instructor] (1), - capital (1)
@@ -1491,18 +1463,18 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
+> **Prerequisites:** set up (1)
 
 
 ### 4. Functional Reactive Programming
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Intro to Reactive Extensions
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/intro-to-reactive-extensions?u=76281980)
+#### [Intro to Reactive Extensions](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/intro-to-reactive-extensions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/intro-to-reactive-extensions?u=76281980&t=1)** - [Narrator] ReactiveX combines the best parts of the Observer and Iterator patterns and functional programming.
+> **[0:01](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/intro-to-reactive-extensions?u=76281980&t=1)** - [Narrator] ReactiveX combines the best parts of the Observer and Iterator patterns and [[Functional Programming]].
 >
 > **[0:06](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/intro-to-reactive-extensions?u=76281980&t=6)** It abstracts away dirty details and leaves fewer lines of more powerful code.
 >
@@ -1516,11 +1488,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Functional Programming]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (1)
 > **Speakers:** - [narrator] (1)
 
-#### RxCpp library
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/rxcpp-library?u=76281980)
+#### [RxCpp library](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/rxcpp-library?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1530,7 +1501,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/rxcpp-library?u=76281980&t=11)** It can convert STL containers like list invectors to observables.
 >
-> **[0:15](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/rxcpp-library?u=76281980&t=15)** You'll want to clone the RxCpp repo from GitHub, and put the header files where your code can find them.
+> **[0:15](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/rxcpp-library?u=76281980&t=15)** You'll want to clone the RxCpp repo from [[GitHub]], and put the header files where your code can find them.
 >
 > **[0:22](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/rxcpp-library?u=76281980&t=22)** Now it's time to check out ReactiveX using the RxCpp library.
 >
@@ -1624,7 +1595,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[GitHub]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Tools:** github (1), terminal (1)
 > **Speakers:** - [instructor] (1), - capital (1)
@@ -1633,8 +1604,7 @@ created: 2026-05-02
 > **Analogies:** kind of like (1)
 > **Prerequisites:** set up (1)
 
-#### Challenge: Word frequency counter
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/challenge-word-frequency-counter?u=76281980)
+#### [Challenge: Word frequency counter](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/challenge-word-frequency-counter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1653,8 +1623,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (techno sound effects) (1)
 
-#### Solution: Word frequency counter
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/solution-word-frequency-counter?u=76281980)
+#### [Solution: Word frequency counter](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/solution-word-frequency-counter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1720,7 +1689,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Tools:** visual studio (1), terminal (1)
 > **File Paths:** main.cpp (1)
 > **UI Navigation:** go to (1)
@@ -1732,20 +1700,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/next-steps-2?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/next-steps-2?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/next-steps-2?u=76281980&t=1)** - [Instructor] Thank you for viewing this course.
 >
-> **[0:03](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/next-steps-2?u=76281980&t=3)** Using functional programming techniques has helped me make my code more solid and hopefully they will help yours as well.
+> **[0:03](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/next-steps-2?u=76281980&t=3)** Using [[Functional Programming]] techniques has helped me make my code more solid and hopefully they will help yours as well.
 >
 > **[0:09](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/next-steps-2?u=76281980&t=9)** Template metaprogramming is one of the most challenging aspects of C++ programming.
 >
 > **[0:14](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/next-steps-2?u=76281980&t=14)** It is the thing that separates those who write powerful libraries from those who use them.
 >
-> **[0:19](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/next-steps-2?u=76281980&t=19)** If you'd like to continue your journey, check out the LinkedIn Learning course on the C++ Standard Template Library.
+> **[0:19](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/next-steps-2?u=76281980&t=19)** If you'd like to continue your journey, check out the [[LinkedIn]] Learning course on the C++ Standard Template Library.
 >
 > **[0:26](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/next-steps-2?u=76281980&t=26)** Be sure to learn more about Boost.Hana and RxCpp at their websites.
 >
@@ -1757,7 +1724,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Functional Programming]] (1), [[Programming]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (1), [[LinkedIn]] (1)
 > **Exercise Files:** template (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)

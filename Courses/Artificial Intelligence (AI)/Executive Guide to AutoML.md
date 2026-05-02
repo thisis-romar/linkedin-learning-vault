@@ -77,8 +77,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How AutoML is changing analytics teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-automl/how-automl-is-changing-analytics-teams?u=76281980)
+#### [How AutoML is changing analytics teams](https://www.linkedin.com/learning/executive-guide-to-automl/how-automl-is-changing-analytics-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -96,12 +95,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (1), [[Analytics]] (1), leadership (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - this (1)
 
-#### What you should know?
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-automl/what-you-should-know?u=76281980)
+#### [What you should know?](https://www.linkedin.com/learning/executive-guide-to-automl/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -109,7 +106,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/executive-guide-to-automl/what-you-should-know?u=76281980&t=6)** The only prerequisite is an interest in machine learning models and a rough idea of what we're trying to accomplish when we build predictive models with machine learning.
 >
-> **[0:16](https://www.linkedin.com/learning/executive-guide-to-automl/what-you-should-know?u=76281980&t=16)** If you're starting absolutely from scratch, you could consider taking Predictive Analytics Essentials for Executives first, but if you have a particular interest in AutoML, you'll likely be okay taking this course first.
+> **[0:16](https://www.linkedin.com/learning/executive-guide-to-automl/what-you-should-know?u=76281980&t=16)** If you're starting absolutely from scratch, you could consider taking [[Predictive Analytics]] Essentials for Executives first, but if you have a particular interest in AutoML, you'll likely be okay taking this course first.
 >
 > **[0:33](https://www.linkedin.com/learning/executive-guide-to-automl/what-you-should-know?u=76281980&t=33)** The other course will provide some very helpful context.
 >
@@ -119,7 +116,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/executive-guide-to-automl/what-you-should-know?u=76281980&t=61)** If you are going to be a practitioner and it will be your job to actually build the models, this course won't give you enough to achieve that goal.
 >
-> **[1:10](https://www.linkedin.com/learning/executive-guide-to-automl/what-you-should-know?u=76281980&t=70)** You'll want to consider taking the practitioner course, Predictive Analytics Essentials Data Mining.
+> **[1:10](https://www.linkedin.com/learning/executive-guide-to-automl/what-you-should-know?u=76281980&t=70)** You'll want to consider taking the practitioner course, Predictive Analytics Essentials [[Data Mining]].
 >
 > **[1:16](https://www.linkedin.com/learning/executive-guide-to-automl/what-you-should-know?u=76281980&t=76)** If you're curious about AutoML, it's probably okay to watch this first, but eventually you'll need some important information from the other course.
 >
@@ -127,7 +124,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Predictive Analytics]] (2)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (2), [[Data Mining]] (1)
 > **Definitions:** is an  (2)
 > **Prerequisites:** prerequisite (1), you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -137,8 +134,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is AutoML?
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-automl/what-is-automl?u=76281980)
+#### [What is AutoML?](https://www.linkedin.com/learning/executive-guide-to-automl/what-is-automl?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -146,7 +142,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/executive-guide-to-automl/what-is-automl?u=76281980&t=11)** It's that simple.
 >
-> **[0:13](https://www.linkedin.com/learning/executive-guide-to-automl/what-is-automl?u=76281980&t=13)** What isn't simple is navigating exactly what tasks we mean, and what kinds of experts we mean The data science community and even the most optimistic and ambitious vendors agree.
+> **[0:13](https://www.linkedin.com/learning/executive-guide-to-automl/what-is-automl?u=76281980&t=13)** What isn't simple is navigating exactly what tasks we mean, and what kinds of experts we mean The [[Data Science]] community and even the most optimistic and ambitious vendors agree.
 >
 > **[0:27](https://www.linkedin.com/learning/executive-guide-to-automl/what-is-automl?u=76281980&t=27)** We haven't reached the point where we have true end-to-end automation.
 >
@@ -154,7 +150,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/executive-guide-to-automl/what-is-automl?u=76281980&t=36)** The current state of affairs is that some tasks in the machine learning life cycle are largely a solved problem.
 >
-> **[0:44](https://www.linkedin.com/learning/executive-guide-to-automl/what-is-automl?u=76281980&t=44)** Others are receiving lots of R&D with vendors competing to address them, and others remain tasks for data scientists and business leadership.
+> **[0:44](https://www.linkedin.com/learning/executive-guide-to-automl/what-is-automl?u=76281980&t=44)** Others are receiving lots of R&D with vendors competing to address them, and others remain tasks for data scientists and [[Business Leadership]].
 >
 > **[0:54](https://www.linkedin.com/learning/executive-guide-to-automl/what-is-automl?u=76281980&t=54)** So someone with expertise has to oversee this process, but AutoML potentially makes their work much more efficient.
 >
@@ -168,11 +164,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Automation]] (1), business (1), leadership (1)
+> **Frameworks & Libraries:** [[Data Science]] (1), [[Business Leadership]] (1)
 > **Speakers:** - the (1)
 
-#### Understanding supervised machine learning on structured data
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-automl/understanding-supervised-machine-learning-on-structured-data?u=76281980)
+#### [Understanding supervised machine learning on structured data](https://www.linkedin.com/learning/executive-guide-to-automl/understanding-supervised-machine-learning-on-structured-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -206,7 +201,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/executive-guide-to-automl/understanding-supervised-machine-learning-on-structured-data?u=76281980&t=102)** I'm going to say classification for now.
 >
-> **[1:44](https://www.linkedin.com/learning/executive-guide-to-automl/understanding-supervised-machine-learning-on-structured-data?u=76281980&t=104)** Classification is a type of supervised learning.
+> **[1:44](https://www.linkedin.com/learning/executive-guide-to-automl/understanding-supervised-machine-learning-on-structured-data?u=76281980&t=104)** Classification is a type of [[Supervised Learning]].
 >
 > **[1:47](https://www.linkedin.com/learning/executive-guide-to-automl/understanding-supervised-machine-learning-on-structured-data?u=76281980&t=107)** When we say supervised learning on structured data in terms of this website, that's classification on tabular data.
 >
@@ -238,7 +233,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/executive-guide-to-automl/understanding-supervised-machine-learning-on-structured-data?u=76281980&t=182)** Is that a dataset that looks like this is somewhat jumping in the middle of the process, but it's what's typically used for demonstrations and for practice, including by data scientists when they need to rehearse something or try out a new piece of software.
 >
-> **[3:18](https://www.linkedin.com/learning/executive-guide-to-automl/understanding-supervised-machine-learning-on-structured-data?u=76281980&t=198)** Let's take a look at this in Excel.
+> **[3:18](https://www.linkedin.com/learning/executive-guide-to-automl/understanding-supervised-machine-learning-on-structured-data?u=76281980&t=198)** Let's take a look at this in [[Microsoft Excel|Excel]].
 >
 > **[3:21](https://www.linkedin.com/learning/executive-guide-to-automl/understanding-supervised-machine-learning-on-structured-data?u=76281980&t=201)** Okay, so I think you can see why it's called tabular or structured.
 >
@@ -256,20 +251,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), business (2), application (2), [[Search]] (2), [[Supervised Learning]] (2)
+> **Frameworks & Libraries:** [[Supervised Learning]] (2), [[Microsoft Excel|Excel]] (2)
 > **UI Navigation:** scroll down (2), go to (1), click on (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** uci (1)
 > **Speakers:** - it (1)
 
-#### Data engineering and ML Ops
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-automl/data-engineering-and-ml-ops?u=76281980)
+#### [Data engineering and ML Ops](https://www.linkedin.com/learning/executive-guide-to-automl/data-engineering-and-ml-ops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/executive-guide-to-automl/data-engineering-and-ml-ops?u=76281980&t=0)** - To get a thorough understanding of the machine learning lifecycle, it's helpful to discuss two aspects, the broad view, where data science tasks fit into analytics overall, and the narrow view, getting more specific about the building of machine learning models.
+> **[0:00](https://www.linkedin.com/learning/executive-guide-to-automl/data-engineering-and-ml-ops?u=76281980&t=0)** - To get a thorough understanding of the machine learning lifecycle, it's helpful to discuss two aspects, the broad view, where [[Data Science]] tasks fit into analytics overall, and the narrow view, getting more specific about the building of machine learning models.
 >
-> **[0:23](https://www.linkedin.com/learning/executive-guide-to-automl/data-engineering-and-ml-ops?u=76281980&t=23)** The use of terms data engineering and ML Ops varies a bit from team to team, but there's a growing consensus that they are different skills with different career paths.
+> **[0:23](https://www.linkedin.com/learning/executive-guide-to-automl/data-engineering-and-ml-ops?u=76281980&t=23)** The use of terms [[Data Engineering]] and ML Ops varies a bit from team to team, but there's a growing consensus that they are different skills with different career paths.
 >
 > **[0:39](https://www.linkedin.com/learning/executive-guide-to-automl/data-engineering-and-ml-ops?u=76281980&t=39)** Data engineering work is done before model building and ML Ops is done after model building.
 >
@@ -307,13 +301,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Engineering]] (6), data (5), career (3), [[Analytics]] (2), teams (2)
+> **Frameworks & Libraries:** [[Data Engineering]] (6), [[Data Science]] (2)
 > **Definitions:** refers to (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - to (1)
 
-#### Understanding the ML lifecycle
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-automl/understanding-the-ml-lifecycle?u=76281980)
+#### [Understanding the ML lifecycle](https://www.linkedin.com/learning/executive-guide-to-automl/understanding-the-ml-lifecycle?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -323,7 +316,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/executive-guide-to-automl/understanding-the-ml-lifecycle?u=76281980&t=11)** Which are the tasks that a data scientist has to worry about, and how do we come to understand which tasks AutoML is capable of automating?
 >
-> **[0:25](https://www.linkedin.com/learning/executive-guide-to-automl/understanding-the-ml-lifecycle?u=76281980&t=25)** I'm a fan of a particular articulation of the lifecycle called CRISP-DM, the Cross-Industry Standard Process for Data Mining.
+> **[0:25](https://www.linkedin.com/learning/executive-guide-to-automl/understanding-the-ml-lifecycle?u=76281980&t=25)** I'm a fan of a particular articulation of the lifecycle called [[CRISP-DM]], the Cross-Industry Standard Process for [[Data Mining]].
 >
 > **[0:37](https://www.linkedin.com/learning/executive-guide-to-automl/understanding-the-ml-lifecycle?u=76281980&t=37)** Now, you may encounter some others, but I like CRISP-DM because it's tool-agnostic, it's independent both by industry and by use case, and it was carefully researched and well-documented over multiple years.
 >
@@ -345,7 +338,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/executive-guide-to-automl/understanding-the-ml-lifecycle?u=76281980&t=114)** You are determining the suitability of the data in its current state to solve the machine learning problem.
 >
-> **[2:01](https://www.linkedin.com/learning/executive-guide-to-automl/understanding-the-ml-lifecycle?u=76281980&t=121)** Data preparation then addresses the shortcomings in the data as identified in data understanding.
+> **[2:01](https://www.linkedin.com/learning/executive-guide-to-automl/understanding-the-ml-lifecycle?u=76281980&t=121)** [[Data Preparation]] then addresses the shortcomings in the data as identified in data understanding.
 >
 > **[2:09](https://www.linkedin.com/learning/executive-guide-to-automl/understanding-the-ml-lifecycle?u=76281980&t=129)** I've actually dedicated an entire course to how data understanding produces a task list for data preparation.
 >
@@ -361,29 +354,28 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/executive-guide-to-automl/understanding-the-ml-lifecycle?u=76281980&t=161)** The evaluation phase, in contrast, requires that you translate back into the language of the business.
 >
-> **[2:48](https://www.linkedin.com/learning/executive-guide-to-automl/understanding-the-ml-lifecycle?u=76281980&t=168)** So it's not all about accuracy, it's about the suitability of the model to solving the business problem, and therefore, you should use business metrics as defined during the business understanding phase if you're going to evaluate if you've succeeded.
+> **[2:48](https://www.linkedin.com/learning/executive-guide-to-automl/understanding-the-ml-lifecycle?u=76281980&t=168)** So it's not all about accuracy, it's about the suitability of the model to solving the business problem, and therefore, you should use [[Business Metrics]] as defined during the business understanding phase if you're going to evaluate if you've succeeded.
 >
 > **[3:06](https://www.linkedin.com/learning/executive-guide-to-automl/understanding-the-ml-lifecycle?u=76281980&t=186)** Deployment then takes the model and puts it into production.
 >
-> **[3:11](https://www.linkedin.com/learning/executive-guide-to-automl/understanding-the-ml-lifecycle?u=76281980&t=191)** Scaling and scoring models efficiently takes a somewhat different set of skills than building models, which is why MLOps has been trending lately.
+> **[3:11](https://www.linkedin.com/learning/executive-guide-to-automl/understanding-the-ml-lifecycle?u=76281980&t=191)** Scaling and scoring models efficiently takes a somewhat different set of skills than building models, which is why [[MLOps]] has been trending lately.
 >
 > **[3:23](https://www.linkedin.com/learning/executive-guide-to-automl/understanding-the-ml-lifecycle?u=76281980&t=203)** There's much more to it than that, of course.
 >
 > **[3:26](https://www.linkedin.com/learning/executive-guide-to-automl/understanding-the-ml-lifecycle?u=76281980&t=206)** In addition to the six phases, there are 24 explicitly named tasks and many recommendations for documentations in CRISP-DM.
 >
-> **[3:36](https://www.linkedin.com/learning/executive-guide-to-automl/understanding-the-ml-lifecycle?u=76281980&t=216)** I discuss it in my Predictive Analytics Essentials Data Mining Course.
+> **[3:36](https://www.linkedin.com/learning/executive-guide-to-automl/understanding-the-ml-lifecycle?u=76281980&t=216)** I discuss it in my [[Predictive Analytics]] Essentials Data Mining Course.
 >
 > **[3:42](https://www.linkedin.com/learning/executive-guide-to-automl/understanding-the-ml-lifecycle?u=76281980&t=222)** For this course, CRISP-DM is going to serve to help us organize the course because we'll revisit each phase and ask, where can AutoML potentially help us on the tasks required during this phase?
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), business (7), [[CRISP-DM]] (4), [[MLOps]] (1), [[Predictive Analytics]] (1)
+> **Frameworks & Libraries:** [[CRISP-DM]] (4), [[Data Mining]] (2), [[Data Preparation]] (2), [[Business Metrics]] (1), [[MLOps]] (1)
 > **Env Vars:** crisp (4)
 > **Prerequisites:** required to (1)
 > **Speakers:** - what (1)
 
-#### The challenge of ML problem definition
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-automl/the-challenge-of-ml-problem-definition?u=76281980)
+#### [The challenge of ML problem definition](https://www.linkedin.com/learning/executive-guide-to-automl/the-challenge-of-ml-problem-definition?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -395,7 +387,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/executive-guide-to-automl/the-challenge-of-ml-problem-definition?u=76281980&t=22)** These competitions have been a powerful way for data scientists to hone their skills and to prove to others that they have what it takes.
 >
-> **[0:30](https://www.linkedin.com/learning/executive-guide-to-automl/the-challenge-of-ml-problem-definition?u=76281980&t=30)** I think overall it's been a very positive influence on the data science community but it has created some confusion and occasionally inspired some weird behaviors.
+> **[0:30](https://www.linkedin.com/learning/executive-guide-to-automl/the-challenge-of-ml-problem-definition?u=76281980&t=30)** I think overall it's been a very positive influence on the [[Data Science]] community but it has created some confusion and occasionally inspired some weird behaviors.
 >
 > **[0:41](https://www.linkedin.com/learning/executive-guide-to-automl/the-challenge-of-ml-problem-definition?u=76281980&t=41)** Accuracy is everything in these competitions so the resulting models tend to be highly complex with the top teams fighting over a very small fraction of a single percent of accuracy.
 >
@@ -421,7 +413,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), business (2), express (1), teams (1)
+> **Frameworks & Libraries:** [[Data Science]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
@@ -434,8 +426,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Which phases have been automated most successfully?
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-automl/which-phases-have-been-automated-most-successfully?u=76281980)
+#### [Which phases have been automated most successfully?](https://www.linkedin.com/learning/executive-guide-to-automl/which-phases-have-been-automated-most-successfully?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -447,7 +438,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/executive-guide-to-automl/which-phases-have-been-automated-most-successfully?u=76281980&t=28)** For data understanding, a number of tools attempt to automate the generation of reports and graphics.
 >
-> **[0:36](https://www.linkedin.com/learning/executive-guide-to-automl/which-phases-have-been-automated-most-successfully?u=76281980&t=36)** Data preparation is a hot area of research and competition.
+> **[0:36](https://www.linkedin.com/learning/executive-guide-to-automl/which-phases-have-been-automated-most-successfully?u=76281980&t=36)** [[Data Preparation]] is a hot area of research and competition.
 >
 > **[0:40](https://www.linkedin.com/learning/executive-guide-to-automl/which-phases-have-been-automated-most-successfully?u=76281980&t=40)** It is perhaps the biggest market differentiator at the moment.
 >
@@ -463,17 +454,16 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/executive-guide-to-automl/which-phases-have-been-automated-most-successfully?u=76281980&t=76)** Deployment is something that all tools have to make some attempt to address.
 >
-> **[1:21](https://www.linkedin.com/learning/executive-guide-to-automl/which-phases-have-been-automated-most-successfully?u=76281980&t=81)** However, as we've discussed, it's been increasingly interpreted as a distinct phase so some teams will choose to explore pairing AutoML tools with MLOps.
+> **[1:21](https://www.linkedin.com/learning/executive-guide-to-automl/which-phases-have-been-automated-most-successfully?u=76281980&t=81)** However, as we've discussed, it's been increasingly interpreted as a distinct phase so some teams will choose to explore pairing AutoML tools with [[MLOps]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), business (2), [[Automation]] (1), teams (1), [[MLOps]] (1)
+> **Frameworks & Libraries:** [[Data Preparation]] (1), [[MLOps]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - we (1)
 
-#### The challenge of automating data understanding
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-automl/the-challenge-of-automating-data-understanding?u=76281980)
+#### [The challenge of automating data understanding](https://www.linkedin.com/learning/executive-guide-to-automl/the-challenge-of-automating-data-understanding?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -493,7 +483,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/executive-guide-to-automl/the-challenge-of-automating-data-understanding?u=76281980&t=30)** It can even automatically act on certain things that it finds.
 >
-> **[0:35](https://www.linkedin.com/learning/executive-guide-to-automl/the-challenge-of-automating-data-understanding?u=76281980&t=35)** For instance, most AutoML will do some missing data processing and outlier detection.
+> **[0:35](https://www.linkedin.com/learning/executive-guide-to-automl/the-challenge-of-automating-data-understanding?u=76281980&t=35)** For instance, most AutoML will do some missing [[Data Processing]] and outlier detection.
 >
 > **[0:42](https://www.linkedin.com/learning/executive-guide-to-automl/the-challenge-of-automating-data-understanding?u=76281980&t=42)** I attended an [H2O.AI](https://H2O.AI) conference and had the opportunity to see Leland Wilkinson speak there.
 >
@@ -507,7 +497,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/executive-guide-to-automl/the-challenge-of-automating-data-understanding?u=76281980&t=84)** With almost no instruction the software could generate a remarkable report about the entire data set.
 >
-> **[1:30](https://www.linkedin.com/learning/executive-guide-to-automl/the-challenge-of-automating-data-understanding?u=76281980&t=90)** I was very impressed but also struck by the substantial amount of statistics knowledge that he assumed in his lecture.
+> **[1:30](https://www.linkedin.com/learning/executive-guide-to-automl/the-challenge-of-automating-data-understanding?u=76281980&t=90)** I was very impressed but also struck by the substantial amount of [[Statistics]] knowledge that he assumed in his lecture.
 >
 > **[1:39](https://www.linkedin.com/learning/executive-guide-to-automl/the-challenge-of-automating-data-understanding?u=76281980&t=99)** Yet the report was ultimately designed for human consumption.
 >
@@ -519,7 +509,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), ai (2), product (1), [[Statistics]] (1), business (1)
+> **Frameworks & Libraries:** [[Data Processing]] (1), [[Statistics]] (1)
 > **Env Vars:** h2o (3)
 > **CLI Commands:** make (1)
 > **URLs:** [h2o.ai](https://h2o.ai) (1)
@@ -528,14 +518,13 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - there (1)
 
-#### What AutoML can and can't do during data prep
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-automl/what-automl-can-and-can-t-do-during-data-prep?u=76281980)
+#### [What AutoML can and can't do during data prep](https://www.linkedin.com/learning/executive-guide-to-automl/what-automl-can-and-can-t-do-during-data-prep?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/executive-guide-to-automl/what-automl-can-and-can-t-do-during-data-prep?u=76281980&t=1)** - Data prep isn't just about data cleaning.
+> **[0:01](https://www.linkedin.com/learning/executive-guide-to-automl/what-automl-can-and-can-t-do-during-data-prep?u=76281980&t=1)** - Data prep isn't just about [[Data Cleaning]].
 >
-> **[0:05](https://www.linkedin.com/learning/executive-guide-to-automl/what-automl-can-and-can-t-do-during-data-prep?u=76281980&t=5)** The toughest yet most important part involves what is called feature engineering.
+> **[0:05](https://www.linkedin.com/learning/executive-guide-to-automl/what-automl-can-and-can-t-do-during-data-prep?u=76281980&t=5)** The toughest yet most important part involves what is called [[Feature Engineering]].
 >
 > **[0:12](https://www.linkedin.com/learning/executive-guide-to-automl/what-automl-can-and-can-t-do-during-data-prep?u=76281980&t=12)** AutoML has made considerable strides in recent years.
 >
@@ -549,7 +538,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/executive-guide-to-automl/what-automl-can-and-can-t-do-during-data-prep?u=76281980&t=42)** Let me explain with a specific example.
 >
-> **[0:45](https://www.linkedin.com/learning/executive-guide-to-automl/what-automl-can-and-can-t-do-during-data-prep?u=76281980&t=45)** Here's a classic example that data scientists would encounter in data science 101.
+> **[0:45](https://www.linkedin.com/learning/executive-guide-to-automl/what-automl-can-and-can-t-do-during-data-prep?u=76281980&t=45)** Here's a classic example that data scientists would encounter in [[Data Science]] 101.
 >
 > **[0:51](https://www.linkedin.com/learning/executive-guide-to-automl/what-automl-can-and-can-t-do-during-data-prep?u=76281980&t=51)** It's called one hot encoding.
 >
@@ -565,9 +554,9 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/executive-guide-to-automl/what-automl-can-and-can-t-do-during-data-prep?u=76281980&t=87)** The theory explaining why this is done is not especially important at the moment.
 >
-> **[1:33](https://www.linkedin.com/learning/executive-guide-to-automl/what-automl-can-and-can-t-do-during-data-prep?u=76281980&t=93)** You would learn this in a course on linear regression and other data science courses.
+> **[1:33](https://www.linkedin.com/learning/executive-guide-to-automl/what-automl-can-and-can-t-do-during-data-prep?u=76281980&t=93)** You would learn this in a course on [[Linear Regression]] and other data science courses.
 >
-> **[1:37](https://www.linkedin.com/learning/executive-guide-to-automl/what-automl-can-and-can-t-do-during-data-prep?u=76281980&t=97)** In fact, this is discussed quite often in the LinkedIn Learning Library.
+> **[1:37](https://www.linkedin.com/learning/executive-guide-to-automl/what-automl-can-and-can-t-do-during-data-prep?u=76281980&t=97)** In fact, this is discussed quite often in the [[LinkedIn]] Learning Library.
 >
 > **[1:41](https://www.linkedin.com/learning/executive-guide-to-automl/what-automl-can-and-can-t-do-during-data-prep?u=76281980&t=101)** What is important is that AutoML can easily recognize this situation and can act even though it has no understanding of what variable one means in the real world.
 >
@@ -581,11 +570,11 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/executive-guide-to-automl/what-automl-can-and-can-t-do-during-data-prep?u=76281980&t=151)** And by churn I simply mean that a previously loyal customer gets frustrated and switches airlines.
 >
-> **[2:40](https://www.linkedin.com/learning/executive-guide-to-automl/what-automl-can-and-can-t-do-during-data-prep?u=76281980&t=160)** You would think that machine learning is smart enough that you just load the variables and it takes care of the rest.
+> **[2:40](https://www.linkedin.com/learning/executive-guide-to-automl/what-automl-can-and-can-t-do-during-data-prep?u=76281980&t=160)** You would think that machine learning is smart enough that you just load the variables and it takes care of the [[Representational State Transfer (REST)|rest]].
 >
 > **[2:47](https://www.linkedin.com/learning/executive-guide-to-automl/what-automl-can-and-can-t-do-during-data-prep?u=76281980&t=167)** Why not just put in all the transactions and it finds the pattern on its own?
 >
-> **[2:53](https://www.linkedin.com/learning/executive-guide-to-automl/what-automl-can-and-can-t-do-during-data-prep?u=76281980&t=173)** I've learned over the years that many are quite surprised at how much help the modeling algorithms need.
+> **[2:53](https://www.linkedin.com/learning/executive-guide-to-automl/what-automl-can-and-can-t-do-during-data-prep?u=76281980&t=173)** I've learned over the years that many are quite surprised at how much help the modeling [[Algorithms]] need.
 >
 > **[3:02](https://www.linkedin.com/learning/executive-guide-to-automl/what-automl-can-and-can-t-do-during-data-prep?u=76281980&t=182)** For instance, we could try dividing fees and dollars over the last 12 months by their total spend and put that ratio in a new variable that we could call luggage fee ratio.
 >
@@ -627,14 +616,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Feature Engineering]] (3), [[Algorithms]] (2), [[Linear Regression]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Feature Engineering]] (3), [[Data Science]] (2), [[Algorithms]] (2), [[Data Cleaning]] (1), [[Linear Regression]] (1)
 > **Env Vars:** v1_a (1), v1_c (1)
 > **Definitions:** is called (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - data (1)
 
-#### AutoML's capabilities during the modeling phase
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-automl/automl-s-capabilities-during-the-modeling-phase?u=76281980)
+#### [AutoML's capabilities during the modeling phase](https://www.linkedin.com/learning/executive-guide-to-automl/automl-s-capabilities-during-the-modeling-phase?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -642,13 +630,13 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/executive-guide-to-automl/automl-s-capabilities-during-the-modeling-phase?u=76281980&t=5)** In fact, it's hard to imagine that there are any data scientists out there that aren't taking advantage of some kind of automation, programming loop, or other shortcut.
 >
-> **[0:18](https://www.linkedin.com/learning/executive-guide-to-automl/automl-s-capabilities-during-the-modeling-phase?u=76281980&t=18)** First, there's always some kind of tournament of algorithms.
+> **[0:18](https://www.linkedin.com/learning/executive-guide-to-automl/automl-s-capabilities-during-the-modeling-phase?u=76281980&t=18)** First, there's always some kind of tournament of [[Algorithms]].
 >
 > **[0:23](https://www.linkedin.com/learning/executive-guide-to-automl/automl-s-capabilities-during-the-modeling-phase?u=76281980&t=23)** It's a simple matter to run all of the available modeling algorithms, and AutoML has been doing this for decades.
 >
 > **[0:32](https://www.linkedin.com/learning/executive-guide-to-automl/automl-s-capabilities-during-the-modeling-phase?u=76281980&t=32)** Data scientists have many different ways to build models in their toolkit.
 >
-> **[0:38](https://www.linkedin.com/learning/executive-guide-to-automl/automl-s-capabilities-during-the-modeling-phase?u=76281980&t=38)** You may even be familiar with some of them, or at least the more famous ones like decision trees, neural networks, random forests, XGBoost and so on.
+> **[0:38](https://www.linkedin.com/learning/executive-guide-to-automl/automl-s-capabilities-during-the-modeling-phase?u=76281980&t=38)** You may even be familiar with some of them, or at least the more famous ones like [[Decision Trees]], [[Neural Networks]], random forests, XGBoost and so on.
 >
 > **[0:51](https://www.linkedin.com/learning/executive-guide-to-automl/automl-s-capabilities-during-the-modeling-phase?u=76281980&t=51)** All software vendors are drawing upon a similar set of these approaches, and it's a simple matter on contemporary machines to run them all and then report back on which ones did the best job.
 >
@@ -730,11 +718,11 @@ created: 2026-05-02
 >
 > **[5:21](https://www.linkedin.com/learning/executive-guide-to-automl/automl-s-capabilities-during-the-modeling-phase?u=76281980&t=321)** It's working very hard to find those optimal values.
 >
-> **[5:26](https://www.linkedin.com/learning/executive-guide-to-automl/automl-s-capabilities-during-the-modeling-phase?u=76281980&t=326)** So the modeling phase is where AutoML is the most mature, and it can save your data science team a lot of time.
+> **[5:26](https://www.linkedin.com/learning/executive-guide-to-automl/automl-s-capabilities-during-the-modeling-phase?u=76281980&t=326)** So the modeling phase is where AutoML is the most mature, and it can save your [[Data Science]] team a lot of time.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Algorithms]] (5), [[Decision Trees]] (2), [[Search]] (2), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (5), [[Decision Trees]] (2), [[Neural Networks]] (1), [[Data Science]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Versions:** 23.46 (1), 29.68 (1), 26.43 (1)
 > **Definitions:** is a  (2)
@@ -742,8 +730,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - the (1)
 
-#### Comparing model accuracy and business evaluation
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-automl/comparing-model-accuracy-and-business-evaluation?u=76281980)
+#### [Comparing model accuracy and business evaluation](https://www.linkedin.com/learning/executive-guide-to-automl/comparing-model-accuracy-and-business-evaluation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -769,7 +756,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/executive-guide-to-automl/comparing-model-accuracy-and-business-evaluation?u=76281980&t=59)** The bigger concern is that we have to use a technical measure because it's convenient for ranking purposes, but it's not really getting at what we care about.
 >
-> **[1:10](https://www.linkedin.com/learning/executive-guide-to-automl/comparing-model-accuracy-and-business-evaluation?u=76281980&t=70)** I love to quote Tom Khabaza's Nine Laws of Data Mining.
+> **[1:10](https://www.linkedin.com/learning/executive-guide-to-automl/comparing-model-accuracy-and-business-evaluation?u=76281980&t=70)** I love to quote Tom Khabaza's Nine Laws of [[Data Mining]].
 >
 > **[1:15](https://www.linkedin.com/learning/executive-guide-to-automl/comparing-model-accuracy-and-business-evaluation?u=76281980&t=75)** Here is his Value Law, and he states, "The value of data mining results is not determined by the accuracy or stability of predictive models."
 >
@@ -783,7 +770,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/executive-guide-to-automl/comparing-model-accuracy-and-business-evaluation?u=76281980&t=110)** Well, there's a lot of them.
 >
-> **[1:53](https://www.linkedin.com/learning/executive-guide-to-automl/comparing-model-accuracy-and-business-evaluation?u=76281980&t=113)** So what we really want to do during the evaluation phase, and this has to be done outside of AutoML, so the way that you can think about it is that AutoML is going to give you your semi-finalists but you should choose the best model taking into account not only accuracy, but also your business metrics.
+> **[1:53](https://www.linkedin.com/learning/executive-guide-to-automl/comparing-model-accuracy-and-business-evaluation?u=76281980&t=113)** So what we really want to do during the evaluation phase, and this has to be done outside of AutoML, so the way that you can think about it is that AutoML is going to give you your semi-finalists but you should choose the best model taking into account not only accuracy, but also your [[Business Metrics]].
 >
 > **[2:14](https://www.linkedin.com/learning/executive-guide-to-automl/comparing-model-accuracy-and-business-evaluation?u=76281980&t=134)** Here are just a few.
 >
@@ -827,14 +814,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), strengths (1), business (1), power (1), teams (1)
+> **Frameworks & Libraries:** [[Data Mining]] (2), [[Business Metrics]] (1)
 > **Env Vars:** mape (1), roi (1)
 > **CLI Commands:** find (1)
 > **Best Practices:** you should always (1)
 > **Speakers:** - [instructor] (1)
 
-#### Monitoring and maintaining models
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-automl/monitoring-and-maintaining-models?u=76281980)
+#### [Monitoring and maintaining models](https://www.linkedin.com/learning/executive-guide-to-automl/monitoring-and-maintaining-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -850,7 +836,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/executive-guide-to-automl/monitoring-and-maintaining-models?u=76281980&t=44)** It's not just that the world changes, the models degrade because our internal processes and knowledge is influenced by the use of the model, and it could even be individuals outside of the organization like our company's customers.
 >
-> **[1:03](https://www.linkedin.com/learning/executive-guide-to-automl/monitoring-and-maintaining-models?u=76281980&t=63)** Tom Khabaza puts it this way in the "Nine Laws of Data Mining", "All patterns are subject to change because they reflect not only a changing world but also our changing understanding."
+> **[1:03](https://www.linkedin.com/learning/executive-guide-to-automl/monitoring-and-maintaining-models?u=76281980&t=63)** Tom Khabaza puts it this way in the "Nine Laws of [[Data Mining]]", "All patterns are subject to change because they reflect not only a changing world but also our changing understanding."
 >
 > **[1:17](https://www.linkedin.com/learning/executive-guide-to-automl/monitoring-and-maintaining-models?u=76281980&t=77)** How can Auto ML help with this?
 >
@@ -868,13 +854,13 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/executive-guide-to-automl/monitoring-and-maintaining-models?u=76281980&t=135)** Since there was a careful development and evaluation process to choose the initial champion, it will have the initial advantage.
 >
-> **[2:24](https://www.linkedin.com/learning/executive-guide-to-automl/monitoring-and-maintaining-models?u=76281980&t=144)** But when there's a new champion that wins by a non-trivial amount, it indicates that the original model has potentially degraded and the data science team should take a look.
+> **[2:24](https://www.linkedin.com/learning/executive-guide-to-automl/monitoring-and-maintaining-models?u=76281980&t=144)** But when there's a new champion that wins by a non-trivial amount, it indicates that the original model has potentially degraded and the [[Data Science]] team should take a look.
 >
 > **[2:37](https://www.linkedin.com/learning/executive-guide-to-automl/monitoring-and-maintaining-models?u=76281980&t=157)** It's a powerful way to leverage the power of Auto ML while monitoring a large number of models in a scalable way.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), business (1), power (1)
+> **Frameworks & Libraries:** [[Data Mining]] (1), [[Data Science]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -883,8 +869,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The AutoML vendor landscape
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-automl/the-automl-vendor-landscape?u=76281980)
+#### [The AutoML vendor landscape](https://www.linkedin.com/learning/executive-guide-to-automl/the-automl-vendor-landscape?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -916,13 +901,13 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/executive-guide-to-automl/the-automl-vendor-landscape?u=76281980&t=84)** Then we shouldn't forget this third category.
 >
-> **[1:27](https://www.linkedin.com/learning/executive-guide-to-automl/the-automl-vendor-landscape?u=76281980&t=87)** It gets less attention these days, but there are many general purpose predictive analytics platforms, some of which that have been around for decades and that have large user communities that are primarily targeted at data scientists, but have added AutoML functionality in addition to their other features.
+> **[1:27](https://www.linkedin.com/learning/executive-guide-to-automl/the-automl-vendor-landscape?u=76281980&t=87)** It gets less attention these days, but there are many general purpose [[Predictive Analytics]] platforms, some of which that have been around for decades and that have large user communities that are primarily targeted at data scientists, but have added AutoML functionality in addition to their other features.
 >
 > **[1:50](https://www.linkedin.com/learning/executive-guide-to-automl/the-automl-vendor-landscape?u=76281980&t=110)** This as well is not a comprehensive list.
 >
-> **[1:54](https://www.linkedin.com/learning/executive-guide-to-automl/the-automl-vendor-landscape?u=76281980&t=114)** So what happens if you try to research this or perhaps to try to find a market research report or some reviews?
+> **[1:54](https://www.linkedin.com/learning/executive-guide-to-automl/the-automl-vendor-landscape?u=76281980&t=114)** So what happens if you try to research this or perhaps to try to find a [[Market Research]] report or some reviews?
 >
-> **[2:01](https://www.linkedin.com/learning/executive-guide-to-automl/the-automl-vendor-landscape?u=76281980&t=121)** Well, one report you might come across is Gartner's report on what they call Multipersona Data Science and Machine Learning platforms, which they define as, "A cohesive and composable portfolio of products and capabilities, offering augmented and automated support to a diversity of user types and their collaboration."
+> **[2:01](https://www.linkedin.com/learning/executive-guide-to-automl/the-automl-vendor-landscape?u=76281980&t=121)** Well, one report you might come across is Gartner's report on what they call Multipersona [[Data Science]] and Machine Learning platforms, which they define as, "A cohesive and composable portfolio of [[Microsoft Products|products]] and capabilities, offering augmented and automated support to a diversity of user types and their collaboration."
 >
 > **[2:29](https://www.linkedin.com/learning/executive-guide-to-automl/the-automl-vendor-landscape?u=76281980&t=149)** They go on to say, "This is achieved by bringing the power of data science and machine learning to a wider nontechnical and technical audience while hiding complexity under the hood by automation and augmentation throughout all phases."
 >
@@ -936,24 +921,23 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/executive-guide-to-automl/the-automl-vendor-landscape?u=76281980&t=201)** So here it is, including the definitions that I just quoted, and you can see there's a bunch of them and you can sort by industry and company size.
 >
-> **[3:33](https://www.linkedin.com/learning/executive-guide-to-automl/the-automl-vendor-landscape?u=76281980&t=213)** You see one that wasn't in the slide, Alteryx, which is well known, Metlab, IBM SPSS statistics, which is different than IBM SPSS model, or by the way, RapidMiner and many, many more.
+> **[3:33](https://www.linkedin.com/learning/executive-guide-to-automl/the-automl-vendor-landscape?u=76281980&t=213)** You see one that wasn't in the slide, Alteryx, which is well known, Metlab, [[IBM SPSS]] [[Statistics]], which is different than IBM SPSS model, or by the way, RapidMiner and many, many more.
 >
 > **[3:47](https://www.linkedin.com/learning/executive-guide-to-automl/the-automl-vendor-landscape?u=76281980&t=227)** So I think if you're interested in researching AutoML it's probably because you want to understand these kinds of platforms that assist, automate, and augment, as Gartner is describing in this report.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), ai (2), [[IBM SPSS]] (2), product (1), [[Predictive Analytics]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[IBM SPSS]] (2), [[Predictive Analytics]] (1), [[Market Research]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** h2o (2), ibm (2), spss (2), flaml (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demonstrating AutoML with KNIME
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-automl/demonstrating-automl-with-knime?u=76281980)
+#### [Demonstrating AutoML with KNIME](https://www.linkedin.com/learning/executive-guide-to-automl/demonstrating-automl-with-knime?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/executive-guide-to-automl/demonstrating-automl-with-knime?u=76281980&t=0)** - [Speaker] I've chosen for our example an example in the Knime analytics platform.
+> **[0:00](https://www.linkedin.com/learning/executive-guide-to-automl/demonstrating-automl-with-knime?u=76281980&t=0)** - [Speaker] I've chosen for our example an example in the [[Knime]] analytics platform.
 >
 > **[0:07](https://www.linkedin.com/learning/executive-guide-to-automl/demonstrating-automl-with-knime?u=76281980&t=7)** So the reason that I've done this is that it's open source, so anybody can try it.
 >
@@ -1039,7 +1023,7 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/executive-guide-to-automl/demonstrating-automl-with-knime?u=76281980&t=250)** Then you're going to double click on it and by double clicking on it, you'll get the example in a window in the center here.
 >
-> **[4:19](https://www.linkedin.com/learning/executive-guide-to-automl/demonstrating-automl-with-knime?u=76281980&t=259)** Now, your version of Knime might look a little different in that you might have a lot of small windows blocking your view.
+> **[4:19](https://www.linkedin.com/learning/executive-guide-to-automl/demonstrating-automl-with-knime?u=76281980&t=259)** Now, your version of Knime might look a little different in that you might have a lot of small [[Windows]] blocking your view.
 >
 > **[4:27](https://www.linkedin.com/learning/executive-guide-to-automl/demonstrating-automl-with-knime?u=76281980&t=267)** I've closed a number of those windows, so you can see what's going on.
 >
@@ -1063,9 +1047,9 @@ created: 2026-05-02
 >
 > **[5:11](https://www.linkedin.com/learning/executive-guide-to-automl/demonstrating-automl-with-knime?u=76281980&t=311)** Then here's where the actual regression modeling is done.
 >
-> **[5:15](https://www.linkedin.com/learning/executive-guide-to-automl/demonstrating-automl-with-knime?u=76281980&t=315)** Now remember, the basic idea of modeling in AutoML is that we're trying all the possible algorithms.
+> **[5:15](https://www.linkedin.com/learning/executive-guide-to-automl/demonstrating-automl-with-knime?u=76281980&t=315)** Now remember, the basic idea of modeling in AutoML is that we're trying all the possible [[Algorithms]].
 >
-> **[5:20](https://www.linkedin.com/learning/executive-guide-to-automl/demonstrating-automl-with-knime?u=76281980&t=320)** So if we right click and configure, we see that it's going to try regression tree, linear regression, polynomial regression, H20s, GLM model and a whole bunch of others.
+> **[5:20](https://www.linkedin.com/learning/executive-guide-to-automl/demonstrating-automl-with-knime?u=76281980&t=320)** So if we right click and configure, we see that it's going to try regression tree, [[Linear Regression]], polynomial regression, H20s, GLM model and a whole bunch of others.
 >
 > **[5:34](https://www.linkedin.com/learning/executive-guide-to-automl/demonstrating-automl-with-knime?u=76281980&t=334)** And its identified count as the target column.
 >
@@ -1143,7 +1127,7 @@ created: 2026-05-02
 >
 > **[9:33](https://www.linkedin.com/learning/executive-guide-to-automl/demonstrating-automl-with-knime?u=76281980&t=573)** And that's very important because the test data was not the data that was used to build the model but becomes more important to evaluate the performance of the model.
 >
-> **[9:42](https://www.linkedin.com/learning/executive-guide-to-automl/demonstrating-automl-with-knime?u=76281980&t=582)** And when we right click on that and go to statistics, for instance, we get a bunch of them.
+> **[9:42](https://www.linkedin.com/learning/executive-guide-to-automl/demonstrating-automl-with-knime?u=76281980&t=582)** And when we right click on that and go to [[Statistics]], for instance, we get a bunch of them.
 >
 > **[9:50](https://www.linkedin.com/learning/executive-guide-to-automl/demonstrating-automl-with-knime?u=76281980&t=590)** We get the R squared, we get the root mean squared error that we were referring to earlier but we also get a bunch of others.
 >
@@ -1169,7 +1153,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[Knime]] (17), [[Algorithms]] (6), node (3), [[Windows]] (2)
+> **Frameworks & Libraries:** [[Knime]] (17), [[Algorithms]] (6), [[Windows]] (2), [[Statistics]] (2), [[Linear Regression]] (1)
 > **UI Navigation:** click on (8), go to (5), scroll down (2), drag and drop (2)
 > **Env Vars:** h2o (3), uci (2), glm (1)
 > **CLI Commands:** node (3), make (2)
@@ -1178,8 +1162,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (2), install (1)
 > **Analogies:** for instance (1)
 
-#### A metaphor for AutoML
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-automl/a-metaphor-for-automl?u=76281980)
+#### [A metaphor for AutoML](https://www.linkedin.com/learning/executive-guide-to-automl/a-metaphor-for-automl?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1215,14 +1198,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), ai (1)
 > **Analogies:** picture (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - i (1)
 
-#### Advice for team composition
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-automl/advice-for-team-composition?u=76281980)
+#### [Advice for team composition](https://www.linkedin.com/learning/executive-guide-to-automl/advice-for-team-composition?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1246,7 +1227,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/executive-guide-to-automl/advice-for-team-composition?u=76281980&t=51)** But then she goes on to explain that data prep is so important that the data scientist has to be quite hands-on in producing the final product.
 >
-> **[1:02](https://www.linkedin.com/learning/executive-guide-to-automl/advice-for-team-composition?u=76281980&t=62)** As she puts it, "Data preparation is their job.
+> **[1:02](https://www.linkedin.com/learning/executive-guide-to-automl/advice-for-team-composition?u=76281980&t=62)** As she puts it, "[[Data Preparation]] is their job.
 >
 > **[1:06](https://www.linkedin.com/learning/executive-guide-to-automl/advice-for-team-composition?u=76281980&t=66)** "If you are not good at data preparation, "you are not a good data scientist."
 >
@@ -1276,7 +1257,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/executive-guide-to-automl/advice-for-team-composition?u=76281980&t=172)** Finally, the business user.
 >
-> **[2:55](https://www.linkedin.com/learning/executive-guide-to-automl/advice-for-team-composition?u=76281980&t=175)** From time to time, folks use the phrase citizen data scientist to describe a business user who with the help of technology can perform data science tasks.
+> **[2:55](https://www.linkedin.com/learning/executive-guide-to-automl/advice-for-team-composition?u=76281980&t=175)** From time to time, folks use the phrase citizen data scientist to describe a business user who with the help of technology can perform [[Data Science]] tasks.
 >
 > **[3:06](https://www.linkedin.com/learning/executive-guide-to-automl/advice-for-team-composition?u=76281980&t=186)** Sometimes the phrase is the democratization of data science and machine learning.
 >
@@ -1290,15 +1271,15 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/executive-guide-to-automl/advice-for-team-composition?u=76281980&t=227)** If the goal is purely exploratory, then what we are really democratizing is the access to data and the ability to explore it.
 >
-> **[3:57](https://www.linkedin.com/learning/executive-guide-to-automl/advice-for-team-composition?u=76281980&t=237)** If that is more consistent with your goals, than perhaps many business users would probably be just as well served with a good business intelligence tool.
+> **[3:57](https://www.linkedin.com/learning/executive-guide-to-automl/advice-for-team-composition?u=76281980&t=237)** If that is more consistent with your goals, than perhaps many business users would probably be just as well served with a good [[Business Intelligence (BI)|business intelligence]] tool.
 >
 > **[4:09](https://www.linkedin.com/learning/executive-guide-to-automl/advice-for-team-composition?u=76281980&t=249)** In general, I think it's good advice to decentralize access to data, but to centralize machine learning model production.
 >
-> **[4:19](https://www.linkedin.com/learning/executive-guide-to-automl/advice-for-team-composition?u=76281980&t=259)** Each organization will have to navigate this, while prototyping models can be powerful, models that are sent into production should be carefully reviewed and aligned with business goals.
+> **[4:19](https://www.linkedin.com/learning/executive-guide-to-automl/advice-for-team-composition?u=76281980&t=259)** Each organization will have to navigate this, while [[Prototyping]] models can be powerful, models that are sent into production should be carefully reviewed and aligned with business goals.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), business (10), product (2), leadership (2), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (3), [[Data Preparation]] (2), [[Business Intelligence (BI)|Business intelligence]] (1), [[Prototyping]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** tdwi (1)
 > **Best Practices:** it's best to (1)
@@ -1310,8 +1291,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-automl/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/executive-guide-to-automl/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1327,15 +1307,15 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/executive-guide-to-automl/next-steps?u=76281980&t=33)** And it's also specifically developed for analytics leaders.
 >
-> **[0:38](https://www.linkedin.com/learning/executive-guide-to-automl/next-steps?u=76281980&t=38)** [[Predictive Analytics Essential Training For Executives]] discusses each of the Christian phases and puts them into a more complete context.
+> **[0:38](https://www.linkedin.com/learning/executive-guide-to-automl/next-steps?u=76281980&t=38)** [[[[Predictive Analytics]] Essential Training For Executives]] discusses each of the Christian phases and puts them into a more complete context.
 >
-> **[0:48](https://www.linkedin.com/learning/executive-guide-to-automl/next-steps?u=76281980&t=48)** Whichever learning experience you choose next, I hope you'll follow me on LinkedIn and you'll let me know about your progress.
+> **[0:48](https://www.linkedin.com/learning/executive-guide-to-automl/next-steps?u=76281980&t=48)** Whichever learning experience you choose next, I hope you'll follow me on [[LinkedIn]] and you'll let me know about your progress.
 >
 > **[0:56](https://www.linkedin.com/learning/executive-guide-to-automl/next-steps?u=76281980&t=56)** And if you see me at a conference, I hope that you'll say hi.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Analytics]] (1), [[Predictive Analytics]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (1), [[LinkedIn]] (1)
 > **Speakers:** - so (1)
 
 

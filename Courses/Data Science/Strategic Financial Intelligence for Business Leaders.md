@@ -84,8 +84,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Financial intelligence
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/financial-intelligence?u=76281980)
+#### [Financial intelligence](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/financial-intelligence?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -97,7 +96,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/financial-intelligence?u=76281980&t=16)** Because finance is the language of business, and if you can't speak it, you can't lead.
 >
-> **[0:21](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/financial-intelligence?u=76281980&t=21)** Hi, I'm Oana Labes, a CPA, entrepreneur, educator, and LinkedIn content creator whose strategic finance insights have impacted hundreds of millions worldwide.
+> **[0:21](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/financial-intelligence?u=76281980&t=21)** Hi, I'm Oana Labes, a CPA, entrepreneur, educator, and [[LinkedIn]] content creator whose strategic finance insights have impacted hundreds of millions worldwide.
 >
 > **[0:33](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/financial-intelligence?u=76281980&t=33)** Whether you're a CEO, an executive, or an ambitious leader, this course is your opportunity to build real confidence in the numbers and to use them to make smarter, faster, and more impactful business decisions.
 >
@@ -105,13 +104,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), leadership (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Env Vars:** cpa (1), ceo (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - when (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -137,7 +135,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), ai (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** mba (1)
 > **Speakers:** - if (1)
@@ -147,8 +144,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why financial intelligence is every leader’s secret weapon
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/why-financial-intelligence-is-every-leader-s-secret-weapon?u=76281980)
+#### [Why financial intelligence is every leader’s secret weapon](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/why-financial-intelligence-is-every-leader-s-secret-weapon?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -196,14 +192,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), leadership (1), management (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** cfo (2)
 > **Definitions:** in other words (1)
 > **Speakers:** - if (1)
 
-#### How leaders use financial insights to drive strategic decisions
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-leaders-use-financial-insights-to-drive-strategic-decisions?u=76281980)
+#### [How leaders use financial insights to drive strategic decisions](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-leaders-use-financial-insights-to-drive-strategic-decisions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -317,7 +311,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), strengths (1)
 > **Env Vars:** ceo (4), cfo (3)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -329,12 +322,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Connecting the dots: How key financial statements reveal business health
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/connecting-the-dots-how-key-financial-statements-reveal-business-health?u=76281980)
+#### [Connecting the dots: How key financial statements reveal business health](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/connecting-the-dots-how-key-financial-statements-reveal-business-health?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/connecting-the-dots-how-key-financial-statements-reveal-business-health?u=76281980&t=1)** - The operating activity of every business, no matter the size or industry, gets presented across three core financial statements.
+> **[0:01](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/connecting-the-dots-how-key-financial-statements-reveal-business-health?u=76281980&t=1)** - The operating activity of every business, no matter the size or industry, gets presented across three core [[Financial Statements]].
 >
 > **[0:09](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/connecting-the-dots-how-key-financial-statements-reveal-business-health?u=76281980&t=9)** Together, these statements show how the business is performing, how healthy it really is, and what it can achieve going forward.
 >
@@ -378,14 +370,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (13), [[Financial Statements]] (3), data (1), hit (1), product (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (3)
 > **CLI Commands:** make (2)
 > **Analogies:** picture (1), just like (1)
 > **Warnings:** warning (1)
 > **Speakers:** - the (1)
 
-#### The income statement
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/the-income-statement?u=76281980)
+#### [The income statement](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/the-income-statement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -411,13 +402,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), next (1)
 > **Cross-References:** in the next (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - to (1)
 
-#### The balance sheet
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/the-balance-sheet?u=76281980)
+#### [The balance sheet](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/the-balance-sheet?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -455,13 +444,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (9), next (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Speakers:** - the (1)
 
-#### The cash flow statement
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/the-cash-flow-statement?u=76281980)
+#### [The cash flow statement](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/the-cash-flow-statement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -529,18 +516,17 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/the-cash-flow-statement?u=76281980&t=195)** It's about understanding the drivers, anticipating the pinch points, and shaping a capital strategy that fits your business.
 >
-> **[3:25](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/the-cash-flow-statement?u=76281980&t=205)** In the next video, we'll show you how to tie the full story together across your financial statements, spotting red flags, connecting performance to liquidity, and making sure growth doesn't lead you into financial trouble.
+> **[3:25](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/the-cash-flow-statement?u=76281980&t=205)** In the next video, we'll show you how to tie the full story together across your [[Financial Statements]], spotting red flags, connecting performance to liquidity, and making sure growth doesn't lead you into financial trouble.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), next (2), hit (1), game (1), [[Financial Statements]] (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** picture (1)
 > **Speakers:** - all (1)
 
-#### Let's talk about financial health
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/let-s-talk-about-financial-health?u=76281980)
+#### [Let's talk about financial health](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/let-s-talk-about-financial-health?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -596,8 +582,7 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - let (1)
 
-#### Red flags in the income statement
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/red-flags-in-the-income-statement?u=76281980)
+#### [Red flags in the income statement](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/red-flags-in-the-income-statement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -635,11 +620,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), product (1), business (1), management (1)
 > **Speakers:** - let (1)
 
-#### Red flags in the balance sheet
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/red-flags-in-the-balance-sheet?u=76281980)
+#### [Red flags in the balance sheet](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/red-flags-in-the-balance-sheet?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -699,7 +682,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/red-flags-in-the-balance-sheet?u=76281980&t=174)** Because the longer cash stays stuck in the system, the more pressure you put on liquidity.
 >
-> **[2:59](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/red-flags-in-the-balance-sheet?u=76281980&t=179)** And successful businesses excel at moving quickly, not only in the market, but also in how they manage their balance sheets.
+> **[2:59](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/red-flags-in-the-balance-sheet?u=76281980&t=179)** And successful businesses [[Microsoft Excel|excel]] at moving quickly, not only in the market, but also in how they manage their balance sheets.
 >
 > **[3:08](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/red-flags-in-the-balance-sheet?u=76281980&t=188)** The bottom line is this, a weak balance sheet isn't always obvious, but strained liquidity, rising debt, and shrinking equity mean losing your margin for error.
 >
@@ -711,12 +694,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (9), next (4), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Definitions:** means that (1)
 > **Speakers:** - all (1)
 
-#### Red flags in the cash flow statement
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/red-flags-in-the-cash-flow-statement?u=76281980)
+#### [Red flags in the cash flow statement](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/red-flags-in-the-cash-flow-statement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -790,13 +772,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), next (1)
 > **Definitions:** is a  (1)
 > **Warnings:** warning (1)
 > **Speakers:** - alright (1)
 
-#### Red flags cheat sheet
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/red-flags-cheat-sheet?u=76281980)
+#### [Red flags cheat sheet](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/red-flags-cheat-sheet?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -806,7 +786,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/red-flags-cheat-sheet?u=76281980&t=11)** So, keep this in mind.
 >
-> **[0:13](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/red-flags-cheat-sheet?u=76281980&t=13)** Reading financial statements in isolation can really obscure your problems, but if you analyze them with financial intelligence and you connect performance with liquidity, with efficiency, and with leverage, you can spot signals early and you can act really promptly on them.
+> **[0:13](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/red-flags-cheat-sheet?u=76281980&t=13)** Reading [[Financial Statements]] in isolation can really obscure your problems, but if you analyze them with financial intelligence and you connect performance with liquidity, with efficiency, and with leverage, you can spot signals early and you can act really promptly on them.
 >
 > **[0:32](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/red-flags-cheat-sheet?u=76281980&t=32)** This is the key difference between reacting to a crisis and preventing one.
 >
@@ -818,7 +798,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Financial Statements]] (2), next (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (2)
 > **Exercise Files:** download the (1), exercise files (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - to (1)
@@ -828,8 +808,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to use capital allocation as a strategic
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-use-capital-allocation-as-a-strategic?u=76281980)
+#### [How to use capital allocation as a strategic](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-use-capital-allocation-as-a-strategic?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -891,14 +870,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), leadership (1), business (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - let (1)
 
-#### Where capital comes from and where it goes
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/where-capital-comes-from-and-where-it-goes?u=76281980)
+#### [Where capital comes from and where it goes](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/where-capital-comes-from-and-where-it-goes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -922,7 +899,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/where-capital-comes-from-and-where-it-goes?u=76281980&t=55)** So now that you understand the sources of capital typically available to a company, let's break down the main ways you'll want to make use of that capital.
 >
-> **[1:05](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/where-capital-comes-from-and-where-it-goes?u=76281980&t=65)** Organic growth expands your existing business operations.
+> **[1:05](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/where-capital-comes-from-and-where-it-goes?u=76281980&t=65)** Organic growth expands your existing [[Business Operations]].
 >
 > **[1:09](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/where-capital-comes-from-and-where-it-goes?u=76281980&t=69)** For example, investing in research and development, or scaling sales and marketing capabilities.
 >
@@ -942,14 +919,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1)
+> **Frameworks & Libraries:** [[Business Operations]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - now (1)
 
-#### How to turn strategy into a capital plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-turn-strategy-into-a-capital-plan?u=76281980)
+#### [How to turn strategy into a capital plan](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-turn-strategy-into-a-capital-plan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1011,7 +987,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-turn-strategy-into-a-capital-plan?u=76281980&t=133)** It's a living process.
 >
-> **[2:15](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-turn-strategy-into-a-capital-plan?u=76281980&t=135)** So build in review cycles, watch your liquidity position, stress test your assumptions, stay agile enough to pivot so your capital stays productive and most importantly, it stays aligned with your strategy.
+> **[2:15](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-turn-strategy-into-a-capital-plan?u=76281980&t=135)** So build in review cycles, watch your liquidity position, stress test your assumptions, stay [[Agile Development|agile]] enough to pivot so your capital stays productive and most importantly, it stays aligned with your strategy.
 >
 > **[2:32](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-turn-strategy-into-a-capital-plan?u=76281980&t=152)** Now that you have a capital planning system, the next question is how do you actually pick the right investments to fund?
 >
@@ -1019,14 +995,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), strengths (1), [[Automation]] (1), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** swot (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - where (1)
 
-#### How to pick the right investments
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-pick-the-right-investments?u=76281980)
+#### [How to pick the right investments](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-pick-the-right-investments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1056,7 +1031,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-pick-the-right-investments?u=76281980&t=71)** Are there any legal, regulatory, or other barriers to consider?
 >
-> **[1:16](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-pick-the-right-investments?u=76281980&t=76)** How will your competition react to your investment decision?
+> **[1:16](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-pick-the-right-investments?u=76281980&t=76)** How will your competition [[React.js|react]] to your investment decision?
 >
 > **[1:22](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-pick-the-right-investments?u=76281980&t=82)** Once you've cleared strategic fit, then you move on to financial return potential.
 >
@@ -1102,7 +1077,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **Env Vars:** npv (2), irr (2), roi (1)
 > **CLI Commands:** make (2), find (1)
 > **Speakers:** - your (1)
@@ -1112,8 +1087,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to translate strategy into measurable execution
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-translate-strategy-into-measurable-execution?u=76281980)
+#### [How to translate strategy into measurable execution](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-translate-strategy-into-measurable-execution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1127,7 +1101,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-translate-strategy-into-measurable-execution?u=76281980&t=29)** You'll probably need capital, talent and systems.
 >
-> **[0:34](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-translate-strategy-into-measurable-execution?u=76281980&t=34)** Next, zoom into year one.
+> **[0:34](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-translate-strategy-into-measurable-execution?u=76281980&t=34)** Next, [[Zoom]] into year one.
 >
 > **[0:36](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-translate-strategy-into-measurable-execution?u=76281980&t=36)** That is your 12-month operating budget.
 >
@@ -1191,7 +1165,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), teams (3), next (2), product (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **Analogies:** picture (1), for example (1)
 > **Env Vars:** ebitda (1)
 > **Cross-References:** in the next (1)
@@ -1199,8 +1173,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - once (1)
 
-#### How to use long-range plans, budgets, and forecasts
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-use-long-range-plans-budgets-and-forecasts?u=76281980)
+#### [How to use long-range plans, budgets, and forecasts](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-use-long-range-plans-budgets-and-forecasts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1208,7 +1181,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-use-long-range-plans-budgets-and-forecasts?u=76281980&t=8)** It will map your business goals to the revenue targets, to funding needs, and to major investments required to achieve those objectives.
 >
-> **[0:16](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-use-long-range-plans-budgets-and-forecasts?u=76281980&t=16)** The next step, as we saw earlier, is to zoom in with an annual budget for every year of that plan based on today's assumptions, but keep in mind, assumptions change.
+> **[0:16](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-use-long-range-plans-budgets-and-forecasts?u=76281980&t=16)** The next step, as we saw earlier, is to [[Zoom]] in with an annual budget for every year of that plan based on today's assumptions, but keep in mind, assumptions change.
 >
 > **[0:28](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-use-long-range-plans-budgets-and-forecasts?u=76281980&t=28)** Actual results may differ from what you initially projected.
 >
@@ -1232,7 +1205,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-use-long-range-plans-budgets-and-forecasts?u=76281980&t=70)** They help you steer, not just report.
 >
-> **[1:13](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-use-long-range-plans-budgets-and-forecasts?u=76281980&t=73)** Paired with quarterly reviews, they help you stay agile and focused on your long-term vision.
+> **[1:13](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-use-long-range-plans-budgets-and-forecasts?u=76281980&t=73)** Paired with quarterly reviews, they help you stay [[Agile Development|agile]] and focused on your long-term vision.
 >
 > **[1:20](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-use-long-range-plans-budgets-and-forecasts?u=76281980&t=80)** Notice the playbook.
 >
@@ -1246,15 +1219,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), next (1), [[Zoom]] (1), data (1), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1), [[Agile Development|Agile]] (1)
 > **Env Vars:** gps (1)
 > **Cross-References:** as we saw (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - your (1)
 
-#### How to spot the gaps before they become problems
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-spot-the-gaps-before-they-become-problems?u=76281980)
+#### [How to spot the gaps before they become problems](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-spot-the-gaps-before-they-become-problems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1362,7 +1334,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), next (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** ebitda (1)
 > **Cross-References:** earlier in (1)
@@ -1370,9 +1341,9 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Best Practices:** don't forget (1)
 > **Warnings:** keep in mind (1)
+> **Speakers:** - let (1)
 
-#### What good financial performance really means
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/what-good-financial-performance-really-means?u=76281980)
+#### [What good financial performance really means](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/what-good-financial-performance-really-means?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1408,7 +1379,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (1), data (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we discussed (1)
 > **Analogies:** for instance (1)
@@ -1419,8 +1389,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to make numbers make sense
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-make-numbers-make-sense?u=76281980)
+#### [How to make numbers make sense](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-make-numbers-make-sense?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1428,7 +1397,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-make-numbers-make-sense?u=76281980&t=8)** You saw how strategic choices like investing in growth, scaling revenues, extending credit terms all show up in your numbers.
 >
-> **[0:18](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-make-numbers-make-sense?u=76281980&t=18)** And we discussed how making strategic connections across all your three financial statements and the different financial health dimensions is all critical to make better business decisions.
+> **[0:18](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-make-numbers-make-sense?u=76281980&t=18)** And we discussed how making strategic connections across all your three [[Financial Statements]] and the different financial health dimensions is all critical to make better business decisions.
 >
 > **[0:31](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-make-numbers-make-sense?u=76281980&t=31)** But here's the thing.
 >
@@ -1436,7 +1405,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-make-numbers-make-sense?u=76281980&t=37)** And to drive action, you must communicate in a way that drives action.
 >
-> **[0:42](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-make-numbers-make-sense?u=76281980&t=42)** That's where financial storytelling becomes vital.
+> **[0:42](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-make-numbers-make-sense?u=76281980&t=42)** That's where financial [[Storytelling]] becomes vital.
 >
 > **[0:46](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-make-numbers-make-sense?u=76281980&t=46)** A CEO doesn't need 100 rows of general ledger data.
 >
@@ -1478,14 +1447,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), teams (2), [[Financial Statements]] (1), [[Storytelling]] (1), data (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (1), [[Storytelling]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** ceo (2)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - so (1)
 
-#### How to frame impactful executive updates
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-frame-impactful-executive-updates?u=76281980)
+#### [How to frame impactful executive updates](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-frame-impactful-executive-updates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1549,7 +1517,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-frame-impactful-executive-updates?u=76281980&t=155)** Use this in offsites planning sessions or investor conversations.
 >
-> **[2:39](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-frame-impactful-executive-updates?u=76281980&t=159)** It allows you to zoom out in order to connect enterprise value with execution, start with your vision.
+> **[2:39](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-frame-impactful-executive-updates?u=76281980&t=159)** It allows you to [[Zoom]] out in order to connect enterprise value with execution, start with your vision.
 >
 > **[2:47](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-frame-impactful-executive-updates?u=76281980&t=167)** What are you trying to achieve long-term?
 >
@@ -1569,13 +1537,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), teams (3), next (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **Env Vars:** kpi (2), cfo (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - you (1)
 
-#### How to tailor your message to your audience
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-tailor-your-message-to-your-audience?u=76281980)
+#### [How to tailor your message to your audience](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-tailor-your-message-to-your-audience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1625,7 +1592,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-tailor-your-message-to-your-audience?u=76281980&t=112)** The bottom line is this.
 >
-> **[1:54](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-tailor-your-message-to-your-audience?u=76281980&t=114)** Strategic financial communication is storytelling with purpose.
+> **[1:54](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-tailor-your-message-to-your-audience?u=76281980&t=114)** Strategic financial communication is [[Storytelling]] with purpose.
 >
 > **[1:59](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-tailor-your-message-to-your-audience?u=76281980&t=119)** It's not about simplifying, it's about making the numbers useful to the person in front of you.
 >
@@ -1637,12 +1604,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), next (1), teams (1), [[Storytelling]] (1), data (1)
+> **Frameworks & Libraries:** [[Storytelling]] (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - let (1)
 
-#### How to end your executive updates
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-end-your-executive-updates?u=76281980)
+#### [How to end your executive updates](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-end-your-executive-updates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1686,7 +1652,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-end-your-executive-updates?u=76281980&t=99)** First, your audience knows exactly what you want from them.
 >
-> **[1:43](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-end-your-executive-updates?u=76281980&t=103)** Second, they see financial data as a tool to support smart decisions.
+> **[1:43](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-end-your-executive-updates?u=76281980&t=103)** Second, they see [[Financial Data]] as a tool to support smart decisions.
 >
 > **[1:50](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-end-your-executive-updates?u=76281980&t=110)** And third, they see you as a strategic leader who can translate key numbers into action.
 >
@@ -1696,7 +1662,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), leadership (2), business (1), product (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Financial Data]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ebitda (1)
 > **Cross-References:** in the next (1)
@@ -1708,16 +1674,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Conclusion
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/conclusion?u=76281980)
+#### [Conclusion](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/conclusion?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/conclusion?u=76281980&t=0)** - You have now gone on a full journey through the real meaning and role of strategic financial intelligence, and we've covered a lot.
 >
-> **[0:10](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/conclusion?u=76281980&t=10)** We reframed financial intelligence, not as a technical skill, but as the foundation of [[Executive Leadership]].
+> **[0:10](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/conclusion?u=76281980&t=10)** We reframed financial intelligence, not as a technical skill, but as the foundation of [[[[Executive Leadership]]]].
 >
-> **[0:17](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/conclusion?u=76281980&t=17)** We covered how to connect business decisions with financial consequences, how to translate financial data into action, and how to communicate with executives, with boards, lenders, and teams, each through their own lens.
+> **[0:17](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/conclusion?u=76281980&t=17)** We covered how to connect business decisions with financial consequences, how to translate [[Financial Data]] into action, and how to communicate with executives, with boards, lenders, and teams, each through their own lens.
 >
 > **[0:33](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/conclusion?u=76281980&t=33)** But why does that matter?
 >
@@ -1729,7 +1694,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/conclusion?u=76281980&t=71)** And financial leadership is about making sure that direction is sustainable, the resources are aligned, and the numbers actually support where you're headed.
 >
-> **[1:23](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/conclusion?u=76281980&t=83)** If this resonated with you and you want to build true financial leadership, consider following me on LinkedIn.
+> **[1:23](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/conclusion?u=76281980&t=83)** If this resonated with you and you want to build true financial leadership, consider following me on [[LinkedIn]].
 >
 > **[1:30](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/conclusion?u=76281980&t=90)** You can also visit [oanalabes.com](https://oanalabes.com) to explore more learning opportunities, executive tools, and upcoming events.
 >
@@ -1755,7 +1720,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (4), [[Executive Leadership]] (1), business (1), [[Financial Data]] (1), teams (1)
+> **Frameworks & Libraries:** [[Executive Leadership]] (1), [[Financial Data]] (1), [[LinkedIn]] (1)
 > **Cross-References:** we covered (1), as you saw (1)
 > **URLs:** [oanalabes.com](https://oanalabes.com) (1)
 > **Env Vars:** ceo (1)

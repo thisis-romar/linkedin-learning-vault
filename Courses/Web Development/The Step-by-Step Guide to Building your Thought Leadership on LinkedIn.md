@@ -69,12 +69,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why become a thought leader on LinkedIn?
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/why-become-a-thought-leader-on-linkedin?u=76281980)
+#### [Why become a thought leader on LinkedIn?](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/why-become-a-thought-leader-on-linkedin?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/why-become-a-thought-leader-on-linkedin?u=76281980&t=1)** - In February of 2017, I shared a story on LinkedIn about a little girl that used to dream of working in the really tall building with the pointy top by the river.
+> **[0:01](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/why-become-a-thought-leader-on-linkedin?u=76281980&t=1)** - In February of 2017, I shared a story on [[LinkedIn]] about a little girl that used to dream of working in the really tall building with the pointy top by the river.
 >
 > **[0:10](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/why-become-a-thought-leader-on-linkedin?u=76281980&t=10)** That girl grew up, worked hard, and persevered to work in one of the most iconic skyscrapers in London, but having reached her childhood dream of working in the city, having the nice designer clothes, and traveling internationally, she realized that her definition of success was wrong.
 >
@@ -86,9 +85,9 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/why-become-a-thought-leader-on-linkedin?u=76281980&t=43)** I've been named LinkedIn Top Voice for the UK twice and I'm also the co-founder of the global networking movement, LinkedIn Local, which is the biggest running campaign on LinkedIn.
 >
-> **[0:53](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/why-become-a-thought-leader-on-linkedin?u=76281980&t=53)** In my LinkedIn Learning course you'll see a step by step guide to building your thought leadership in an authentic voice, growing your audience with brand ambassadors, and tinkering to find the best strategy that works for you.
+> **[0:53](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/why-become-a-thought-leader-on-linkedin?u=76281980&t=53)** In my LinkedIn Learning course you'll see a step by step guide to building your [[Thought Leadership]] in an authentic voice, growing your audience with brand ambassadors, and tinkering to find the best strategy that works for you.
 >
-> **[1:04](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/why-become-a-thought-leader-on-linkedin?u=76281980&t=64)** And I'll also show you exactly how I've attracted work from companies such as Shell, Deloitte, BP, Dyson, and Microsoft all through building my thought leadership on LinkedIn.
+> **[1:04](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/why-become-a-thought-leader-on-linkedin?u=76281980&t=64)** And I'll also show you exactly how I've attracted work from companies such as Shell, Deloitte, BP, Dyson, and [[Microsoft]] all through building my thought leadership on LinkedIn.
 >
 > **[1:15](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/why-become-a-thought-leader-on-linkedin?u=76281980&t=75)** I'll share examples from some of my favorite thought leaders in the UK, ranging from entrepreneurs to business leaders, and by the end of this course you'll be sharing your story in an authentic and relatable way, as well as knowing how to create a deeper connection with your network.
 >
@@ -100,7 +99,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (7), [[Thought Leadership]] (3), power (1), career (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (7), [[Thought Leadership]] (3), [[Microsoft]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** known as (1)
 > **Analogies:** such as (1)
@@ -111,12 +110,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What values do you embody?
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-values-do-you-embody?u=76281980)
+#### [What values do you embody?](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-values-do-you-embody?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-values-do-you-embody?u=76281980&t=1)** - As a thought leader on LinkedIn, people will read your words, but what they're really connecting to are your values.
+> **[0:01](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-values-do-you-embody?u=76281980&t=1)** - As a thought leader on [[LinkedIn]], people will read your words, but what they're really connecting to are your values.
 >
 > **[0:07](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-values-do-you-embody?u=76281980&t=7)** Ruth Rubin, a client of mine and CEO of a large recruitment company, took a risk in sharing a personal story from an incident she had witnessed on the London Tube.
 >
@@ -132,7 +130,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-values-do-you-embody?u=76281980&t=56)** So why did Ruth's post resonate with so many people in her network?
 >
-> **[1:00](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-values-do-you-embody?u=76281980&t=60)** Well it says a lot about her leadership and one of her values, unity.
+> **[1:00](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-values-do-you-embody?u=76281980&t=60)** Well it says a lot about her leadership and one of her values, [[Unity]].
 >
 > **[1:05](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-values-do-you-embody?u=76281980&t=65)** Let's start by understanding what your values actually are.
 >
@@ -156,7 +154,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-values-do-you-embody?u=76281980&t=113)** If you asked my network what my number one most important value was, I would guarantee that they would say authenticity.
 >
-> **[2:01](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-values-do-you-embody?u=76281980&t=121)** When I have conversations with people and the word authentic pops up, it's usually followed with, " I'm so sorry, that's your word."
+> **[2:01](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-values-do-you-embody?u=76281980&t=121)** When I have conversations with people and the [[Microsoft Word|word]] authentic pops up, it's usually followed with, " I'm so sorry, that's your word."
 >
 > **[2:08](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-values-do-you-embody?u=76281980&t=128)** I have to remind people that I can't actually trademark authenticity.
 >
@@ -172,7 +170,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-values-do-you-embody?u=76281980&t=155)** Once you know what your values are, the hardest and also easiest part of the process is embodying your values.
 >
-> **[2:42](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-values-do-you-embody?u=76281980&t=162)** The best type of audience to attract when building your thought leadership is one that shares the same values as you.
+> **[2:42](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-values-do-you-embody?u=76281980&t=162)** The best type of audience to attract when building your [[Thought Leadership]] is one that shares the same values as you.
 >
 > **[2:49](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-values-do-you-embody?u=76281980&t=169)** That's the audience that will be not only the most interested, but also the ones that share your content.
 >
@@ -190,14 +188,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[LinkedIn]] (2), leadership (1), [[Unity]] (1), [[Thought Leadership]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[LinkedIn]] (2), [[Unity]] (1), [[Thought Leadership]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** ceo (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - as (1)
 
-#### What makes you unique?
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-makes-you-unique?u=76281980)
+#### [What makes you unique?](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-makes-you-unique?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -211,7 +208,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-makes-you-unique?u=76281980&t=16)** And in order to be noticed, you have to stand out from the crowd.
 >
-> **[0:20](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-makes-you-unique?u=76281980&t=20)** It only takes reading two LinkedIn profiles to read the same dreary skill set.
+> **[0:20](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-makes-you-unique?u=76281980&t=20)** It only takes reading two [[LinkedIn]] profiles to read the same dreary skill set.
 >
 > **[0:25](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-makes-you-unique?u=76281980&t=25)** What I'd like to get you to do is to define your personal unique selling proposition as a thought leader.
 >
@@ -289,7 +286,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** strengths (3), career (3), leadership (2), [[LinkedIn]] (1), power (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** find (3), make (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - i (1)
@@ -299,14 +296,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What does your shop window say about you?
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-does-your-shop-window-say-about-you?u=76281980)
+#### [What does your shop window say about you?](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-does-your-shop-window-say-about-you?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-does-your-shop-window-say-about-you?u=76281980&t=1)** - Imagine you're walking down the high street and you're looking to buy a pair of shoes.
 >
-> **[0:05](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-does-your-shop-window-say-about-you?u=76281980&t=5)** You walk past many shop windows, and finally you catch sight of the most gorgeous red heels that you know will go perfectly with your outfit.
+> **[0:05](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-does-your-shop-window-say-about-you?u=76281980&t=5)** You walk past many shop [[Windows]], and finally you catch sight of the most gorgeous red heels that you know will go perfectly with your outfit.
 >
 > **[0:14](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-does-your-shop-window-say-about-you?u=76281980&t=14)** Your heart stops as you see them in the shop window.
 >
@@ -326,7 +322,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-does-your-shop-window-say-about-you?u=76281980&t=57)** So what does a good shop window look like, and more importantly, how do we make people want to stay in and see what's on offer?
 >
-> **[1:06](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-does-your-shop-window-say-about-you?u=76281980&t=66)** Let's first concentrate on what your shop window looks like, your LinkedIn banner, and what your shop assistant looks like, yes, that's you, and what you look like in your LinkedIn profile photo.
+> **[1:06](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-does-your-shop-window-say-about-you?u=76281980&t=66)** Let's first concentrate on what your shop window looks like, your [[LinkedIn]] banner, and what your shop assistant looks like, yes, that's you, and what you look like in your LinkedIn profile photo.
 >
 > **[1:17](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-does-your-shop-window-say-about-you?u=76281980&t=77)** Your LinkedIn banner is all about having a visual impact on the person stopping by your profile, and giving them the first taster of what you have to offer.
 >
@@ -382,20 +378,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (5), [[Windows]] (1), next (1), leadership (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (5), [[Windows]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - imagine (1)
 
-#### What is your key message?
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-is-your-key-message?u=76281980)
+#### [What is your key message?](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-is-your-key-message?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-is-your-key-message?u=76281980&t=1)** - Being able to describe what you do for a living in one fell swoop is an art worth mustering.
 >
-> **[0:06](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-is-your-key-message?u=76281980&t=6)** Whether you're using it to introduce yourself in networking events, bumping into new people in the elevator, or more importantly, in your LinkedIn headline.
+> **[0:06](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-is-your-key-message?u=76281980&t=6)** Whether you're using it to introduce yourself in networking events, bumping into new people in the elevator, or more importantly, in your [[LinkedIn]] headline.
 >
 > **[0:15](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-is-your-key-message?u=76281980&t=15)** Your LinkedIn profile headline is a place to succinctly and interestingly capture people's attention.
 >
@@ -435,7 +430,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-is-your-key-message?u=76281980&t=93)** This first version works particularly well for those wanting to be really specific about one thing they do or deliver.
 >
-> **[1:40](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-is-your-key-message?u=76281980&t=100)** Example one, helping coaches, consultants, and entrepreneurs get noticed on LinkedIn through Thought Leadership.
+> **[1:40](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-is-your-key-message?u=76281980&t=100)** Example one, helping coaches, consultants, and entrepreneurs get noticed on LinkedIn through [[Thought Leadership]].
 >
 > **[1:47](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-is-your-key-message?u=76281980&t=107)** This second version particularly works well for those that have a portfolio career.
 >
@@ -453,12 +448,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (7), [[Thought Leadership]] (3), next (1), career (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (7), [[Thought Leadership]] (3)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - being (1)
 
-#### Writing your career story
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/writing-your-career-story?u=76281980)
+#### [Writing your career story](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/writing-your-career-story?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -470,7 +464,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/writing-your-career-story?u=76281980&t=17)** So here we go.
 >
-> **[0:19](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/writing-your-career-story?u=76281980&t=19)** By day, I coach C-suite executive consultants, entrepreneurs, and businesses on how to get noticed on LinkedIn, grow their own brands, and leverage the platform to achieve their goals.
+> **[0:19](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/writing-your-career-story?u=76281980&t=19)** By day, I coach C-suite executive consultants, entrepreneurs, and businesses on how to get noticed on [[LinkedIn]], grow their own brands, and leverage the platform to achieve their goals.
 >
 > **[0:29](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/writing-your-career-story?u=76281980&t=29)** By night, I turn into a superhero LinkedIn blogger under the hashtag #AuthenticAlex.
 >
@@ -480,9 +474,9 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/writing-your-career-story?u=76281980&t=39)** It's essentially your professional chat up line.
 >
-> **[0:42](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/writing-your-career-story?u=76281980&t=42)** It is your opportunity to allow your audience to know you, like you, and trust you, which is fundamental in building your thought leadership.
+> **[0:42](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/writing-your-career-story?u=76281980&t=42)** It is your opportunity to allow your audience to know you, like you, and trust you, which is fundamental in building your [[Thought Leadership]].
 >
-> **[0:51](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/writing-your-career-story?u=76281980&t=51)** One of my favorite ways of doing this is taking the reader through your career journey through storytelling, which means having a beginning, a middle, and an end.
+> **[0:51](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/writing-your-career-story?u=76281980&t=51)** One of my favorite ways of doing this is taking the reader through your career journey through [[Storytelling]], which means having a beginning, a middle, and an end.
 >
 > **[1:00](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/writing-your-career-story?u=76281980&t=60)** Now unless you are the queen, you want to be writing your career story in the first person, as you instantly distance yourself from the reader when writing in any other tense.
 >
@@ -540,7 +534,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (7), [[LinkedIn]] (4), next (2), [[Thought Leadership]] (1), [[Storytelling]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (4), [[Thought Leadership]] (1), [[Storytelling]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Env Vars:** usp (1)
 > **Definitions:** is a  (1)
@@ -552,14 +546,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Your thought leadership content map
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/your-thought-leadership-content-map?u=76281980)
+#### [Your thought leadership content map](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/your-thought-leadership-content-map?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/your-thought-leadership-content-map?u=76281980&t=1)** - There is no point in walking towards your destination without a content roadmap.
 >
-> **[0:06](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/your-thought-leadership-content-map?u=76281980&t=6)** If you're going to embark on a journey to build your thought leadership, it needs thought, it needs attention, and it needs planning.
+> **[0:06](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/your-thought-leadership-content-map?u=76281980&t=6)** If you're going to embark on a journey to build your [[Thought Leadership]], it needs thought, it needs attention, and it needs planning.
 >
 > **[0:13](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/your-thought-leadership-content-map?u=76281980&t=13)** Before setting out to change your profile, to position yourself as a thought leader or create thought leadership content, you need to spend some time strategizing.
 >
@@ -579,7 +572,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/your-thought-leadership-content-map?u=76281980&t=59)** Who are you trying to reach with your expertise, and what job titles do these people have, and where do they work?
 >
-> **[1:07](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/your-thought-leadership-content-map?u=76281980&t=67)** Once you know the who, the next thing is beginning to connect with them on LinkedIn, if you're not already.
+> **[1:07](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/your-thought-leadership-content-map?u=76281980&t=67)** Once you know the who, the next thing is beginning to connect with them on [[LinkedIn]], if you're not already.
 >
 > **[1:14](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/your-thought-leadership-content-map?u=76281980&t=74)** The third question is what, what is it that you want to say to this audience?
 >
@@ -625,17 +618,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Thought Leadership]] (5), [[LinkedIn]] (2), leadership (1), next (1)
+> **Frameworks & Libraries:** [[Thought Leadership]] (5), [[LinkedIn]] (2)
 > **Env Vars:** pdf (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - there (1)
 
-#### Strategies to building your thought leadership
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/strategies-to-building-your-thought-leadership?u=76281980)
+#### [Strategies to building your thought leadership](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/strategies-to-building-your-thought-leadership?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/strategies-to-building-your-thought-leadership?u=76281980&t=0)** - When I look back at my journey of having built my own thought leadership, I realized clearly that it really wasn't just about using LinkedIn that grew my audience.
+> **[0:00](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/strategies-to-building-your-thought-leadership?u=76281980&t=0)** - When I look back at my journey of having built my own [[Thought Leadership]], I realized clearly that it really wasn't just about using [[LinkedIn]] that grew my audience.
 >
 > **[0:10](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/strategies-to-building-your-thought-leadership?u=76281980&t=10)** Whilst creating content on LinkedIn is an effective way of building your thought leadership, engaging in different strategies enables you to grow at a much faster pace.
 >
@@ -643,7 +635,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/strategies-to-building-your-thought-leadership?u=76281980&t=27)** Speaking engagements.
 >
-> **[0:28](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/strategies-to-building-your-thought-leadership?u=76281980&t=28)** Due to the content I was creating on LinkedIn on topics very specific like networking, personal branding, and mental health, people started to reach out to me to speak at their conference or in their businesses.
+> **[0:28](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/strategies-to-building-your-thought-leadership?u=76281980&t=28)** Due to the content I was creating on LinkedIn on topics very specific like networking, [[Personal Branding]], and mental health, people started to reach out to me to speak at their conference or in their businesses.
 >
 > **[0:41](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/strategies-to-building-your-thought-leadership?u=76281980&t=41)** This gave me an opportunity to share more of me and in a much more impactful way, by connecting with an audience face-to-face.
 >
@@ -683,7 +675,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/strategies-to-building-your-thought-leadership?u=76281980&t=164)** He believes that solutions to challenges can often lie in experience design.
 >
-> **[2:50](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/strategies-to-building-your-thought-leadership?u=76281980&t=170)** Whenever you see Danny's content on your LinkedIn feed, he's either speaking at a conference, hosting Mindchimp events for L&D specialists, or interviewing his peers and other experts in L&D on his Mindchimp podcast.
+> **[2:50](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/strategies-to-building-your-thought-leadership?u=76281980&t=170)** Whenever you see Danny's content on your LinkedIn feed, he's either speaking at a conference, hosting Mindchimp events for L&D specialists, or [[Interviewing]] his peers and other experts in L&D on his Mindchimp podcast.
 >
 > **[3:03](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/strategies-to-building-your-thought-leadership?u=76281980&t=183)** Remember, that whilst LinkedIn isn't the only tool to build your thought leadership, it's the flagship that brings all of your thought leadership together.
 
@@ -699,8 +691,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What holds you back?
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-holds-you-back?u=76281980)
+#### [What holds you back?](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-holds-you-back?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -720,7 +711,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-holds-you-back?u=76281980&t=25)** Very often, we all feel the same way, no matter our job title or how much experience we have.
 >
-> **[0:30](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-holds-you-back?u=76281980&t=30)** So when people ask me for advice about starting their content creation journey, I always say just do it, then go run down the road, hide under the park bench, and then come back after an hour and see how it did.
+> **[0:30](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-holds-you-back?u=76281980&t=30)** So when people ask me for advice about starting their [[Content Creation]] journey, I always say just do it, then go run down the road, hide under the park bench, and then come back after an hour and see how it did.
 >
 > **[0:42](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-holds-you-back?u=76281980&t=42)** Now whilst that might be a joke, it's not entirely.
 >
@@ -736,7 +727,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-holds-you-back?u=76281980&t=73)** She is a successful business owner, providing HR consultancy services.
 >
-> **[1:17](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-holds-you-back?u=76281980&t=77)** Over the next three steps, we're going to break down the limiting beliefs she had that was holding her back from building her thought leadership.
+> **[1:17](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-holds-you-back?u=76281980&t=77)** Over the next three steps, we're going to break down the limiting beliefs she had that was holding her back from building her [[Thought Leadership]].
 >
 > **[1:25](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-holds-you-back?u=76281980&t=85)** Step one, identify what's holding you back.
 >
@@ -770,18 +761,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Thought Leadership]] (2), [[Content Creation]] (1), hr (1), next (1)
+> **Frameworks & Libraries:** [[Thought Leadership]] (2), [[Content Creation]] (1)
 > **CLI Commands:** go run (1), make (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - putting (1)
 
-#### The power of authenticity and vulnerability
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/the-power-of-authenticity-and-vulnerability?u=76281980)
+#### [The power of authenticity and vulnerability](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/the-power-of-authenticity-and-vulnerability?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/the-power-of-authenticity-and-vulnerability?u=76281980&t=1)** - I have talked about some of the scariest topics there is to talk about on LinkedIn.
+> **[0:01](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/the-power-of-authenticity-and-vulnerability?u=76281980&t=1)** - I have talked about some of the scariest topics there is to talk about on [[LinkedIn]].
 >
 > **[0:06](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/the-power-of-authenticity-and-vulnerability?u=76281980&t=6)** I often get asked how I post such personal stories on a platform that's deemed professional.
 >
@@ -801,7 +791,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/the-power-of-authenticity-and-vulnerability?u=76281980&t=56)** I also choose wisely when it's the right time to share things.
 >
-> **[1:00](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/the-power-of-authenticity-and-vulnerability?u=76281980&t=60)** To many, this is the most daunting part of thought leadership, and I think often the most underutilized.
+> **[1:00](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/the-power-of-authenticity-and-vulnerability?u=76281980&t=60)** To many, this is the most daunting part of [[Thought Leadership]], and I think often the most underutilized.
 >
 > **[1:07](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/the-power-of-authenticity-and-vulnerability?u=76281980&t=67)** We stay in our comfort zones of being the expert and showing that we all have our act together, but actually, what people want to see, is our humanness.
 >
@@ -845,12 +835,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Thought Leadership]] (2), business (1), hit (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Thought Leadership]] (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - i (1)
 
-#### Digital storytelling
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/digital-storytelling?u=76281980)
+#### [Digital storytelling](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/digital-storytelling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -860,7 +849,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/digital-storytelling?u=76281980&t=14)** For millennia stories have been a fundamental way we communicate information to each other.
 >
-> **[0:20](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/digital-storytelling?u=76281980&t=20)** Evolution has hardwired our brain for storytelling.
+> **[0:20](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/digital-storytelling?u=76281980&t=20)** Evolution has hardwired our brain for [[Storytelling]].
 >
 > **[0:24](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/digital-storytelling?u=76281980&t=24)** And research suggests that our brain activates when we hear stories.
 >
@@ -886,7 +875,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/digital-storytelling?u=76281980&t=73)** You need to provide something to instantly grab people's attention and intrigue them enough to want to see more.
 >
-> **[1:20](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/digital-storytelling?u=76281980&t=80)** Remember, when you're writing a post on LinkedIn people can only see the first two to three sentences on a post.
+> **[1:20](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/digital-storytelling?u=76281980&t=80)** Remember, when you're writing a post on [[LinkedIn]] people can only see the first two to three sentences on a post.
 >
 > **[1:27](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/digital-storytelling?u=76281980&t=87)** How are you going to stand out and get someone to stop scrolling?
 >
@@ -934,12 +923,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What impact will you make?
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-impact-will-you-make?u=76281980)
+#### [What impact will you make?](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-impact-will-you-make?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-impact-will-you-make?u=76281980&t=1)** - I never imagined that meeting a LinkedIn connection of mine offline would change my views on leadership.
+> **[0:01](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-impact-will-you-make?u=76281980&t=1)** - I never imagined that meeting a [[LinkedIn]] connection of mine offline would change my views on leadership.
 >
 > **[0:07](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-impact-will-you-make?u=76281980&t=7)** I was meeting Nicole Johnston for a coffee offline, having engaged in many conversations with her on LinkedIn.
 >
@@ -949,9 +937,9 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-impact-will-you-make?u=76281980&t=25)** That it wasn't about power or hierarchy, and that it was much more about inspiring and influencing people.
 >
-> **[0:32](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-impact-will-you-make?u=76281980&t=32)** After that conversation, I realized that I was in fact a leader, a word that for a very long time remained uncomfortable for me, let alone associate myself to.
+> **[0:32](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-impact-will-you-make?u=76281980&t=32)** After that conversation, I realized that I was in fact a leader, a [[Microsoft Word|word]] that for a very long time remained uncomfortable for me, let alone associate myself to.
 >
-> **[0:44](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-impact-will-you-make?u=76281980&t=44)** There are many challenges to embarking on your thought leadership journey.
+> **[0:44](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-impact-will-you-make?u=76281980&t=44)** There are many challenges to embarking on your [[Thought Leadership]] journey.
 >
 > **[0:47](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-impact-will-you-make?u=76281980&t=47)** But the one that I would absolutely say is essential is starting to see yourself as a leader.
 >
@@ -967,7 +955,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-impact-will-you-make?u=76281980&t=70)** To really embrace my voice, my vulnerability, and to show up in all my true and raw glory.
 >
-> **[1:16](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-impact-will-you-make?u=76281980&t=76)** With grit and a little encouragement, I've trodden this path just so you can, too.
+> **[1:16](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-impact-will-you-make?u=76281980&t=76)** With [[Grit]] and a little encouragement, I've trodden this path just so you can, too.
 >
 > **[1:21](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-impact-will-you-make?u=76281980&t=81)** The prompts in this course are made to help you dip your toe in the water as and when is comfortable for you.
 >
@@ -987,7 +975,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2), leadership (2), [[Thought Leadership]] (2), power (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Thought Leadership]] (2), [[Microsoft Word|Word]] (1), [[Grit]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - i (1)

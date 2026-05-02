@@ -83,12 +83,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI assisted development with AWS
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/ai-assisted-development-with-aws?u=76281980)
+#### [AI assisted development with AWS](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/ai-assisted-development-with-aws?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/ai-assisted-development-with-aws?u=76281980&t=0)** Is artificial intelligence going to lead to a robot revolution that overthrows humanity?
+> **[0:00](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/ai-assisted-development-with-aws?u=76281980&t=0)** Is [[Artificial Intelligence (AI)|artificial intelligence]] going to lead to a robot revolution that overthrows humanity?
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/ai-assisted-development-with-aws?u=76281980&t=7)** Maybe, but not today.
 >
@@ -98,7 +97,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/ai-assisted-development-with-aws?u=76281980&t=16)** Just like the calculator sped up people's ability to do quick calculations, AI can assist developers by making us quicker and helping us to write better code and catch mistakes.
 >
-> **[0:28](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/ai-assisted-development-with-aws?u=76281980&t=28)** Amazon Web Services has several AI tools for assisting developers.
+> **[0:28](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/ai-assisted-development-with-aws?u=76281980&t=28)** [[Amazon Web Services (AWS)|Amazon Web Services]] has several AI tools for assisting developers.
 >
 > **[0:33](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/ai-assisted-development-with-aws?u=76281980&t=33)** My name is JV, and I'm not AI-generated yet.
 >
@@ -106,16 +105,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/what-you-should-know?u=76281980&t=0)** If you're new to working with Amazon Web Services, I highly recommend, you check out my other course first, [[Aws Essential Training For Developers]], to learn about the fundamentals of creating a new AWS account for the first time and some of the best practices for managing user accounts.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/what-you-should-know?u=76281980&t=0)** If you're new to working with [[Amazon Web Services (AWS)|Amazon Web Services]], I highly recommend, you check out my other course first, [[Aws Essential Training For Developers]], to learn about the fundamentals of creating a new AWS account for the first time and some of the best practices for managing user accounts.
 >
 > **[0:19](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/what-you-should-know?u=76281980&t=19)** In this course, I'll be using an IAM user within my AWS account.
 >
@@ -123,9 +121,9 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/what-you-should-know?u=76281980&t=34)** And if you've worked with any kind of AI before, you'll know that the results can be unpredictable.
 >
-> **[0:42](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/what-you-should-know?u=76281980&t=42)** We'll look at some services that use generative AI, so if your results don't exactly match mine, that's okay.
+> **[0:42](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/what-you-should-know?u=76281980&t=42)** We'll look at some services that use [[Generative AI]], so if your results don't exactly match mine, that's okay.
 >
-> **[0:50](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/what-you-should-know?u=76281980&t=50)** The goal of this course is to show you what's possible with AI as a developer, not to create working code that will execute. Even though the code examples are in Python, you don't have to know any Python to go through this course.
+> **[0:50](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/what-you-should-know?u=76281980&t=50)** The goal of this course is to show you what's possible with AI as a developer, not to create working code that will execute. Even though the code examples are in [[Python (Programming Language)|Python]], you don't have to know any Python to go through this course.
 >
 > **[1:06](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/what-you-should-know?u=76281980&t=66)** In your mind, when you see Python on the screen, just substitute out your preferred language of choice.
 >
@@ -133,7 +131,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/what-you-should-know?u=76281980&t=85)** Check out the exercise files, Q&A, and comments for this course for any updated notes on things that might have changed in AWS.
 >
-> **[1:34](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/what-you-should-know?u=76281980&t=94)** There's a GitHub repository for this course that includes forks of sample code provided by AWS for testing out these services.
+> **[1:34](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/what-you-should-know?u=76281980&t=94)** There's a [[GitHub]] repository for this course that includes forks of sample code provided by AWS for testing out these services.
 >
 > **[1:43](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/what-you-should-know?u=76281980&t=103)** If any of the sample code changes as these services change, I'll update the repository.
 >
@@ -141,7 +139,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (7), [[Python (Programming Language)|Python]] (3), ai (2), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Generative AI]] (1), [[GitHub]] (1)
 > **CLI Commands:** aws (7), python (3)
 > **Env Vars:** aws (7), iam (2)
 > **Exercise Files:** sample code (2), exercise files (1)
@@ -153,8 +151,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI coding assistants
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/ai-coding-assistants?u=76281980)
+#### [AI coding assistants](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/ai-coding-assistants?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -164,7 +161,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/ai-coding-assistants?u=76281980&t=34)** Coding assistant can also download a language server that runs in the background on your computer that is programmed with the rules and documentation of your particular programming language.
 >
-> **[0:46](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/ai-coding-assistants?u=76281980&t=46)** Microsoft calls this feature IntelliSense, but other editors have similar features.
+> **[0:46](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/ai-coding-assistants?u=76281980&t=46)** [[Microsoft]] calls this feature IntelliSense, but other editors have similar features.
 >
 > **[0:53](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/ai-coding-assistants?u=76281980&t=53)** So if you type 'print' to use the print function and then type an open parentheses to start the parameter list for your function call, the language server can show you helpful tooltips about this function.
 >
@@ -172,7 +169,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/ai-coding-assistants?u=76281980&t=85)** But what if your code editor could peer into the future and know the next block of code that you'll need to write?
 >
-> **[1:34](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/ai-coding-assistants?u=76281980&t=94)** Pairing artificial intelligence with your coding assistant takes autocompletion to the next level.
+> **[1:34](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/ai-coding-assistants?u=76281980&t=94)** Pairing [[Artificial Intelligence (AI)|artificial intelligence]] with your coding assistant takes autocompletion to the next level.
 >
 > **[1:42](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/ai-coding-assistants?u=76281980&t=102)** Using a large language model or LLM, which is like your phone keyboard's auto suggestion feature, if it was bitten by a radioactive spider and gained superpowers, allowing your code editor to pull not only from your source code's documentation, but also from millions of lines of code from other projects.
 >
@@ -182,15 +179,15 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/ai-coding-assistants?u=76281980&t=158)** There are several AI coding assistants that are being offered right now, and more are being released all the time.
 >
-> **[2:46](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/ai-coding-assistants?u=76281980&t=166)** GitHub Copilot was released by Microsoft and easily plugs into the Visual Studio products.
+> **[2:46](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/ai-coding-assistants?u=76281980&t=166)** [[GitHub Copilot]] was released by Microsoft and easily plugs into the Visual Studio [[Microsoft Products|products]].
 >
 > **[2:54](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/ai-coding-assistants?u=76281980&t=174)** If you're interested in seeing what GitHub Copilot can do for you, search our catalog specifically for the keywords of GitHub Copilot.
 >
-> **[3:02](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/ai-coding-assistants?u=76281980&t=182)** The branding of Copilot is being used in other products to augment other Microsoft products, but GitHub Copilot is specifically for code editors.
+> **[3:02](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/ai-coding-assistants?u=76281980&t=182)** The branding of [[Microsoft Copilot|Copilot]] is being used in other products to augment other [[Microsoft Products]], but GitHub Copilot is specifically for code editors.
 >
 > **[3:14](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/ai-coding-assistants?u=76281980&t=194)** Not to be upstaged, Amazon has also launched their own AI coding assistant called CodeWhisperer.
 >
-> **[3:23](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/ai-coding-assistants?u=76281980&t=203)** It has similar features to Copilot, but whereas Copilot was trained on more general code bases, CodeWhisperer has targeted training that helps it produce better suggestions when writing code for Amazon Web Services.
+> **[3:23](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/ai-coding-assistants?u=76281980&t=203)** It has similar features to Copilot, but whereas Copilot was trained on more general code bases, CodeWhisperer has targeted training that helps it produce better suggestions when writing code for [[Amazon Web Services (AWS)|Amazon Web Services]].
 >
 > **[3:38](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/ai-coding-assistants?u=76281980&t=218)** It has a tighter integration into the AWS ecosystem, and it is trained for making code that conforms to AWS best practices.
 >
@@ -198,7 +195,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub Copilot]] (4), next (3), [[Microsoft Copilot|Copilot]] (3), [[Programming]] (2), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[GitHub Copilot]] (4), [[Microsoft Copilot|Copilot]] (3), [[Microsoft]] (2), [[Microsoft Products|Products]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Tools:** github (4), visual studio (1)
 > **CLI Commands:** aws (2), make (1)
 > **Env Vars:** aws (2), llm (1)
@@ -207,8 +204,7 @@ created: 2026-05-02
 > **Code Identifiers:** email_address (1)
 > **Documentation:** the documentation (1)
 
-#### AWS Toolkit
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/aws-toolkit?u=76281980)
+#### [AWS Toolkit](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/aws-toolkit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -216,7 +212,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/aws-toolkit?u=76281980&t=6)** Visual Studio Code is one of the most popular IDEs and does a great job of showing off the capabilities of CodeWhisperer.
 >
-> **[0:15](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/aws-toolkit?u=76281980&t=15)** If you don't already have Visual Studio Code installed, you can download it from Microsoft's website.
+> **[0:15](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/aws-toolkit?u=76281980&t=15)** If you don't already have Visual Studio Code installed, you can download it from [[Microsoft]]'s website.
 >
 > **[0:22](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/aws-toolkit?u=76281980&t=22)** Within Visual Studio Code, in the lower left corner, click the settings gear and click on "Extensions."
 >
@@ -242,7 +238,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (10), [[Microsoft]] (1), [[Search]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1)
 > **Env Vars:** aws (10), iam (1)
 > **CLI Commands:** aws (10)
 > **Tools:** visual studio (4)
@@ -250,16 +246,15 @@ created: 2026-05-02
 > **Prerequisites:** install (1), you'll need (1)
 > **Cross-References:** go back to (1)
 
-#### Autogenerating code
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/autogenerating-code?u=76281980)
+#### [Autogenerating code](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/autogenerating-code?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/autogenerating-code?u=76281980&t=0)** Amazon has some sample code that they've provided to demo the features of Code Guru, and we can use the sample code to see what CodeWhisperer can do.
 >
-> **[0:10](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/autogenerating-code?u=76281980&t=10)** Included with this course is a GitHub repository that includes forks of these sample Amazon repositories.
+> **[0:10](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/autogenerating-code?u=76281980&t=10)** Included with this course is a [[GitHub]] repository that includes forks of these sample Amazon repositories.
 >
-> **[0:19](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/autogenerating-code?u=76281980&t=19)** You'll need to already have Git set up within Visual Studio Code, but if you don't, Microsoft has a great tutorial in the docs for Visual Studio Code.
+> **[0:19](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/autogenerating-code?u=76281980&t=19)** You'll need to already have [[Git]] set up within Visual Studio Code, but if you don't, [[Microsoft]] has a great tutorial in the docs for Visual Studio Code.
 >
 > **[0:30](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/autogenerating-code?u=76281980&t=30)** If this is your first time working with Git, we've got several courses in the catalog.
 >
@@ -285,7 +280,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/autogenerating-code?u=76281980&t=127)** Click "Yes, I trust the authors."
 >
-> **[2:11](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/autogenerating-code?u=76281980&t=131)** Within the working copy of this repository, go into the Amazon-codeguru-reviewer-sample-app-Python folder.
+> **[2:11](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/autogenerating-code?u=76281980&t=131)** Within the working copy of this repository, go into the Amazon-codeguru-reviewer-sample-app-[[Python (Programming Language)|Python]] folder.
 >
 > **[2:24](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/autogenerating-code?u=76281980&t=144)** Click inside the SRC folder and then go into the main and Python folder, and then click on the lambda_handler.py file.
 >
@@ -331,11 +326,11 @@ created: 2026-05-02
 >
 > **[5:17](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/autogenerating-code?u=76281980&t=317)** It's showing you where you need to fill in your own bucket name and object key for your text file.
 >
-> **[5:25](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/autogenerating-code?u=76281980&t=325)** It will continue to autosuggest code when it has hints for you, and the code will usually be context aware, so it'll even include variable names used within the rest of your code.
+> **[5:25](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/autogenerating-code?u=76281980&t=325)** It will continue to autosuggest code when it has hints for you, and the code will usually be context aware, so it'll even include variable names used within the [[Representational State Transfer (REST)|rest]] of your code.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (11), hit (8), [[Git]] (6), next (4), aws (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (11), [[Git]] (6), [[GitHub]] (1), [[Microsoft]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** python (11), git (6), aws (2), make (1)
 > **Tools:** terminal (6), visual studio (5), github (1)
 > **Env Vars:** aws (2), pwd (1), url (1), src (1)
@@ -349,16 +344,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Shift-left testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/shift-left-testing?u=76281980)
+#### [Shift-left testing](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/shift-left-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/shift-left-testing?u=76281980&t=0)** Artificial intelligence isn't only transforming the way you write code, but it's also transforming the ways that you can test your code for errors.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/shift-left-testing?u=76281980&t=0)** [[Artificial Intelligence (AI)|Artificial intelligence]] isn't only transforming the way you write code, but it's also transforming the ways that you can test your code for errors.
 >
-> **[0:10](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/shift-left-testing?u=76281980&t=10)** The software Development Lifecycle, abbreviated as SDLC, refers to the entire timeline of the planning, design and creation of your code, to its deployment to real users and even its eventual sunset.
+> **[0:10](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/shift-left-testing?u=76281980&t=10)** The [[Software Development]] Lifecycle, abbreviated as SDLC, refers to the entire timeline of the planning, design and creation of your code, to its deployment to real users and even its eventual sunset.
 >
-> **[0:27](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/shift-left-testing?u=76281980&t=27)** Even when you're using agile development practices to build your software in short iterations, you'll be doing shorter cycles of the SDLC.
+> **[0:27](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/shift-left-testing?u=76281980&t=27)** Even when you're using [[Agile Development|agile]] development practices to build your software in short iterations, you'll be doing shorter cycles of the SDLC.
 >
 > **[0:38](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/shift-left-testing?u=76281980&t=38)** People define the phases of the software development lifecycle differently, but generally, it's broken down into these phases.
 >
@@ -378,27 +372,26 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/shift-left-testing?u=76281980&t=100)** This is called shift left testing because you're moving the testing phase more to the left side and earlier in your development process.
 >
-> **[1:51](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/shift-left-testing?u=76281980&t=111)** Some of these practices include continuous integration or CI and test-driven development abbreviated as TDD, where you are continually testing your code and the new code from your teammates against a set of tests you defined ahead of time.
+> **[1:51](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/shift-left-testing?u=76281980&t=111)** Some of these practices include [[Continuous Integration (CI)|continuous integration]] or CI and [[Test-Driven Development]] abbreviated as TDD, where you are continually testing your code and the new code from your teammates against a set of tests you defined ahead of time.
 >
 > **[2:11](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/shift-left-testing?u=76281980&t=131)** But these tests only catch the bugs you programmed them to look for.
 >
 > **[2:16](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/shift-left-testing?u=76281980&t=136)** What about all the bugs and software vulnerabilities you didn't write tests for?
 >
-> **[2:22](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/shift-left-testing?u=76281980&t=142)** Amazon Web Services has a solution for that with CodeGuru.
+> **[2:22](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/shift-left-testing?u=76281980&t=142)** [[Amazon Web Services (AWS)|Amazon Web Services]] has a solution for that with CodeGuru.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Software Development]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Agile Development|Agile]] (1), [[Continuous Integration (CI)|Continuous integration]] (1), ci (1)
+> **Frameworks & Libraries:** [[Software Development]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Agile Development|Agile]] (1), [[Continuous Integration (CI)|Continuous integration]] (1), [[Test-Driven Development]] (1)
 > **Env Vars:** sdlc (2), tdd (1)
 > **Cross-References:** earlier in (2)
 > **Definitions:** refers to (1), is called (1)
 
-#### AWS CodeGuru Security
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/aws-codeguru-security?u=76281980)
+#### [AWS CodeGuru Security](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/aws-codeguru-security?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/aws-codeguru-security?u=76281980&t=0)** There are a few products under the name of CodeGuru in Amazon Web Services.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/aws-codeguru-security?u=76281980&t=0)** There are a few [[Microsoft Products|products]] under the name of CodeGuru in [[Amazon Web Services (AWS)|Amazon Web Services]].
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/aws-codeguru-security?u=76281980&t=6)** The first one we're going to look at is called CodeGuru Security.
 >
@@ -406,7 +399,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/aws-codeguru-security?u=76281980&t=20)** It can integrate directly into your code editor like Visual Studio, or you can connect it to your build process, and it can scan your source code every time a developer changes code within your code repository.
 >
-> **[0:37](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/aws-codeguru-security?u=76281980&t=37)** It works with several popular programming languages such as JavaScript, Python, and Java.
+> **[0:37](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/aws-codeguru-security?u=76281980&t=37)** It works with several popular programming languages such as [[JavaScript]], [[Python (Programming Language)|Python]], and [[Java]].
 >
 > **[0:45](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/aws-codeguru-security?u=76281980&t=45)** Another product that uses the CodeGuru name is called CodeGuru Reviewer.
 >
@@ -422,7 +415,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), product (3), [[Python (Programming Language)|Python]] (2), [[Microsoft Products|Products]] (1), web (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Microsoft Products|Products]] (1), [[JavaScript]] (1), [[Java]] (1)
 > **CLI Commands:** python (2), aws (1), find (1)
 > **Exercise Files:** source code (3)
 > **Definitions:** is called (3)
@@ -430,14 +423,13 @@ created: 2026-05-02
 > **Tools:** visual studio (1)
 > **Analogies:** such as (1)
 
-#### Track changes with AWS CodeCommit
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/track-changes-with-aws-codecommit?u=76281980)
+#### [Track changes with AWS CodeCommit](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/track-changes-with-aws-codecommit?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/track-changes-with-aws-codecommit?u=76281980&t=0)** You can integrate CodeGuru Security into your development pipeline using a variety of the popular tools for source control and continuous integration.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/track-changes-with-aws-codecommit?u=76281980&t=0)** You can integrate CodeGuru Security into your development pipeline using a variety of the popular tools for source control and [[Continuous Integration (CI)|continuous integration]].
 >
-> **[0:10](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/track-changes-with-aws-codecommit?u=76281980&t=10)** The documentation has guides to integrate CodeGuru security with GitHub, GitLab, Bitbucket, several IDEs, and you can even use the AWS API through the AWS CLI to write your own integration.
+> **[0:10](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/track-changes-with-aws-codecommit?u=76281980&t=10)** The documentation has guides to integrate CodeGuru security with [[GitHub]], GitLab, [[Bitbucket]], several IDEs, and you can even use the AWS API through the AWS [[CLI]] to write your own integration.
 >
 > **[0:28](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/track-changes-with-aws-codecommit?u=76281980&t=28)** AWS has its own integration into its own CI/CD product, which is called AWS CodePipeline.
 >
@@ -473,7 +465,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (7), [[Security]] (3), [[GitHub]] (2), [[Search]] (2), [[Continuous Integration (CI)|Continuous integration]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (2), [[Continuous Integration (CI)|Continuous integration]] (1), [[Bitbucket]] (1), [[CLI]] (1)
 > **Env Vars:** aws (7), iam (2), https (2), url (2), api (1)
 > **CLI Commands:** aws (7), make (2), cd (1)
 > **Tools:** github (2), gitlab (1), bitbucket (1), aws console (1), visual studio (1)
@@ -482,8 +474,7 @@ created: 2026-05-02
 > **Exercise Files:** source code (1)
 > **Definitions:** is called (1)
 
-#### Visual Studio Code and AWS CodeCommit
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/visual-studio-code-and-aws-codecommit?u=76281980)
+#### [Visual Studio Code and AWS CodeCommit](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/visual-studio-code-and-aws-codecommit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -491,13 +482,13 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/visual-studio-code-and-aws-codecommit?u=76281980&t=8)** Since we're currently in the working copy of the course's sample repo, type, 'CD, space, dot, dot' to go up a directory.
 >
-> **[0:19](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/visual-studio-code-and-aws-codecommit?u=76281980&t=19)** Now, type, 'Git, space, clone, space' and then paste in the URL of the CodeCommit repository that we just created.
+> **[0:19](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/visual-studio-code-and-aws-codecommit?u=76281980&t=19)** Now, type, '[[Git]], space, clone, space' and then paste in the URL of the CodeCommit repository that we just created.
 >
 > **[0:30](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/visual-studio-code-and-aws-codecommit?u=76281980&t=30)** Visual Studio Code should prompt you at the top for the username and password that you just created under your IAM account.
 >
 > **[0:40](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/visual-studio-code-and-aws-codecommit?u=76281980&t=40)** Click on the "Explorer" tab within Visual Studio Code on the left hand side.
 >
-> **[0:47](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/visual-studio-code-and-aws-codecommit?u=76281980&t=47)** On the Python file from the course sample repo that we used earlier, right-click on it and click "Copy."
+> **[0:47](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/visual-studio-code-and-aws-codecommit?u=76281980&t=47)** On the [[Python (Programming Language)|Python]] file from the course sample repo that we used earlier, right-click on it and click "Copy."
 >
 > **[0:55](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/visual-studio-code-and-aws-codecommit?u=76281980&t=55)** Under the top menu, under file, select, 'Open Folder.'
 >
@@ -535,15 +526,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (6), [[Python (Programming Language)|Python]] (2), [[Security]] (2), cd (1), prompt (1)
+> **Frameworks & Libraries:** [[Git]] (6), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** git (6), python (2), cd (1), aws (1)
 > **Tools:** terminal (5), visual studio (3), aws console (1)
 > **UI Navigation:** click on (4), right-click (2), navigate to (1)
 > **Env Vars:** url (1), iam (1), aws (1)
 > **Exercise Files:** sample code (1)
 
-#### CodeGuru with AWS CodePipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/codeguru-with-aws-codepipeline?u=76281980)
+#### [CodeGuru with AWS CodePipeline](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/codeguru-with-aws-codepipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -601,7 +591,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (5), next (4), [[Security]] (3), [[Search]] (1), ci (1)
 > **CLI Commands:** aws (5), make (1), cd (1)
 > **Env Vars:** aws (5), iam (1)
 > **UI Navigation:** click on (6)
@@ -609,8 +598,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1), you'll need (1), set up (1)
 > **Code Identifiers:** create_complete (1)
 
-#### CodeGuru Dashboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/codeguru-dashboard?u=76281980)
+#### [CodeGuru Dashboard](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/codeguru-dashboard?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -634,7 +622,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/codeguru-dashboard?u=76281980&t=70)** Look at the code highlighted underneath the code snippet.
 >
-> **[1:14](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/codeguru-dashboard?u=76281980&t=74)** It's telling us that using the open function like this can cause resource leaks, and that may cause Python to eat up memory resources on the server if a bunch of people are accessing this code, or the files that's opening are really big.
+> **[1:14](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/codeguru-dashboard?u=76281980&t=74)** It's telling us that using the open function like this can cause resource leaks, and that may cause [[Python (Programming Language)|Python]] to eat up memory resources on the server if a bunch of people are accessing this code, or the files that's opening are really big.
 >
 > **[1:30](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/codeguru-dashboard?u=76281980&t=90)** Under the vulnerability name, click on the "Resource leak" link.
 >
@@ -644,21 +632,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), aws (1), [[Search]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **UI Navigation:** click on (6)
 > **CLI Commands:** aws (1), python (1)
 > **Env Vars:** aws (1), cwe400 (1)
 > **Tools:** aws console (1)
 > **Exercise Files:** source code (1)
 
-#### CodeGuru Detector Library
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/codeguru-detector-library?u=76281980)
+#### [CodeGuru Detector Library](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/codeguru-detector-library?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/codeguru-detector-library?u=76281980&t=0)** The CodeGuru detector library contains the vulnerabilities and the rules that CodeGuru is using to scan your code.
 >
-> **[0:09](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/codeguru-detector-library?u=76281980&t=9)** On the left hand side of the page, you can see all the detectors that are currently programmed for Python, and Amazon is adding more and more to make CodeGuru even better.
+> **[0:09](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/codeguru-detector-library?u=76281980&t=9)** On the left hand side of the page, you can see all the detectors that are currently programmed for [[Python (Programming Language)|Python]], and Amazon is adding more and more to make CodeGuru even better.
 >
 > **[0:22](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/codeguru-detector-library?u=76281980&t=22)** You can click on the links to learn more about the vulnerabilities as they were originally published.
 >
@@ -688,14 +675,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (3), [[Security]] (3), [[Python (Programming Language)|Python]] (2), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** aws (3), python (2), make (1)
 > **Exercise Files:** source code (3), sample code (2)
 > **UI Navigation:** click on (4)
 > **Env Vars:** aws (3)
 
-#### Closing a finding in CodeGuru Security
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/closing-a-finding-in-codeguru-security?u=76281980)
+#### [Closing a finding in CodeGuru Security](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/closing-a-finding-in-codeguru-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -719,9 +705,9 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/closing-a-finding-in-codeguru-security?u=76281980&t=79)** And just like before, we'll need to indent all the lines that come after this statement.
 >
-> **[1:26](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/closing-a-finding-in-codeguru-security?u=76281980&t=86)** And now, this should have fixed the problem. Underneath file, Click "Save" or command S or ctrl S for Windows.
+> **[1:26](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/closing-a-finding-in-codeguru-security?u=76281980&t=86)** And now, this should have fixed the problem. Underneath file, Click "Save" or command S or ctrl S for [[Windows]].
 >
-> **[1:37](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/closing-a-finding-in-codeguru-security?u=76281980&t=97)** Under the terminal tab, type, 'Git, space, status' and you'll see that our sample file has been modified.
+> **[1:37](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/closing-a-finding-in-codeguru-security?u=76281980&t=97)** Under the terminal tab, type, '[[Git]], space, status' and you'll see that our sample file has been modified.
 >
 > **[1:47](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/closing-a-finding-in-codeguru-security?u=76281980&t=107)** Type, 'Git, space, commit space, dash am, space' and then within double quotes, put in your commit message.
 >
@@ -753,13 +739,13 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/closing-a-finding-in-codeguru-security?u=76281980&t=202)** It will show you any findings underneath the problems tab.
 >
-> **[3:27](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/closing-a-finding-in-codeguru-security?u=76281980&t=207)** It won't send these findings up to the Cloud Guru Security dashboard for the rest of your team to see.
+> **[3:27](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/closing-a-finding-in-codeguru-security?u=76281980&t=207)** It won't send these findings up to the Cloud Guru Security dashboard for the [[Representational State Transfer (REST)|rest]] of your team to see.
 >
 > **[3:33](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/closing-a-finding-in-codeguru-security?u=76281980&t=213)** But running a security scan within VS Code is a great way to check your code before you commit it, just to see if it's going to detect any new findings.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), [[Git]] (3), [[Windows]] (1), hit (1), aws (1)
+> **Frameworks & Libraries:** [[Git]] (3), [[Windows]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (5), scroll down (1), switch to (1)
 > **Tools:** visual studio (2), vs code (2), terminal (1), aws console (1)
 > **CLI Commands:** git (3), aws (1)
@@ -773,8 +759,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Shift-right testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/shift-right-testing?u=76281980)
+#### [Shift-right testing](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/shift-right-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -790,22 +775,21 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/shift-right-testing?u=76281980&t=70)** A Profiler will let you know when you have bottlenecks in your code that are slowing it down, or if you have code that is consuming too much memory.
 >
-> **[1:19](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/shift-right-testing?u=76281980&t=79)** Amazon Web Services has a few services that will give you observability into how your code is running, and one of those is CodeGuru Profiler.
+> **[1:19](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/shift-right-testing?u=76281980&t=79)** [[Amazon Web Services (AWS)|Amazon Web Services]] has a few services that will give you observability into how your code is running, and one of those is CodeGuru Profiler.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (4), application (2), [[Amazon Web Services (AWS)|Amazon web services]] (1)
+> **Frameworks & Libraries:** [[Amazon Web Services (AWS)|Amazon web services]] (1)
 > **Env Vars:** apm (2)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Prerequisites:** install (1)
 
-#### CodeGuru Profiler
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/codeguru-profiler?u=76281980)
+#### [CodeGuru Profiler](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/codeguru-profiler?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/codeguru-profiler?u=76281980&t=0)** CodeGuru Profiler is a profiler that can be installed into Java or Python applications.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/codeguru-profiler?u=76281980&t=0)** CodeGuru Profiler is a profiler that can be installed into [[Java]] or [[Python (Programming Language)|Python]] applications.
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/codeguru-profiler?u=76281980&t=7)** Since it can be installed into the JVM for Java applications, it can be used with any language that uses the JVM.
 >
@@ -819,7 +803,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (2), [[Python (Programming Language)|Python]] (2), aws (2), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2), aws (2), pip (1)
 > **Env Vars:** jvm (2), aws (2)
 > **Exercise Files:** source code (1), sample code (1)
@@ -827,8 +811,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** install (1)
 
-#### CodeGuru Profiler with Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/codeguru-profiler-with-python?u=76281980)
+#### [CodeGuru Profiler with Python](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/codeguru-profiler-with-python?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -862,7 +845,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/codeguru-profiler-with-python?u=76281980&t=103)** Under the Add Permissions pulldown, click "Create inline policy."
 >
-> **[1:49](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/codeguru-profiler-with-python?u=76281980&t=109)** Click the "JSON" button in the editor.
+> **[1:49](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/codeguru-profiler-with-python?u=76281980&t=109)** Click the "[[JSON]]" button in the editor.
 >
 > **[1:53](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/codeguru-profiler-with-python?u=76281980&t=113)** Inside the highlighted curly brackets, replace it with this bit of code.
 >
@@ -880,7 +863,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/codeguru-profiler-with-python?u=76281980&t=168)** For function name, type, 'profiler-demo-' and put the same unique value you used earlier.
 >
-> **[2:59](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/codeguru-profiler-with-python?u=76281980&t=179)** Set the runtime to Python 3.8.
+> **[2:59](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/codeguru-profiler-with-python?u=76281980&t=179)** Set the runtime to [[Python (Programming Language)|Python]] 3.8.
 >
 > **[3:07](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/codeguru-profiler-with-python?u=76281980&t=187)** If you don't see Python 3.8 listed, select the next highest version closest to it.
 >
@@ -906,7 +889,7 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/codeguru-profiler-with-python?u=76281980&t=261)** Scroll down and click on the "Code" tab.
 >
-> **[4:27](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/codeguru-profiler-with-python?u=76281980&t=267)** In Visual Studio Code, open the folder of the working copy of this course's GitHub repo.
+> **[4:27](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/codeguru-profiler-with-python?u=76281980&t=267)** In Visual Studio Code, open the folder of the working copy of this course's [[GitHub]] repo.
 >
 > **[4:35](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/codeguru-profiler-with-python?u=76281980&t=275)** Go underneath the folder titled, AWS-CodeGuru-Profiler-Python-Demo-Application.
 >
@@ -948,7 +931,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (5), aws (4), next (4), [[Python (Programming Language)|Python]] (3), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[JSON]] (1), [[GitHub]] (1)
 > **UI Navigation:** click on (10), scroll down (4), select the (3), scroll up (1), open the (1)
 > **CLI Commands:** aws (4), python (3), make (1), find (1)
 > **Env Vars:** aws (4), iam (1), json (1), s3_bucket (1)
@@ -957,8 +940,7 @@ created: 2026-05-02
 > **File Paths:** lambda_function.py (1)
 > **Exercise Files:** github repo (1)
 
-#### CodeGuru Profiler groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/codeguru-profiler-groups?u=76281980)
+#### [CodeGuru Profiler groups](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/codeguru-profiler-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -978,11 +960,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), data (3)
 > **UI Navigation:** click on (1)
 
-#### CodeGuru Profiler reports
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/codeguru-profiler-reports?u=76281980)
+#### [CodeGuru Profiler reports](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/codeguru-profiler-reports?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1032,7 +1012,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (2), data (1), api (1)
 > **Env Vars:** cpu (8), aws (2), http (1), api (1)
 > **CLI Commands:** aws (2), make (2), find (2)
 > **UI Navigation:** click on (5), scroll down (1)
@@ -1044,8 +1023,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Removing costs from CodeGuru
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/removing-costs-from-codeguru?u=76281980)
+#### [Removing costs from CodeGuru](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/removing-costs-from-codeguru?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1093,13 +1071,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1), [[Search]] (1), aws (1)
 > **UI Navigation:** click on (4), select the (3), scroll down (1)
 > **CLI Commands:** find (1), aws (1)
 > **Env Vars:** aws (1)
 
-#### More AI services
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/more-ai-services?u=76281980)
+#### [More AI services](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/more-ai-services?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1107,7 +1083,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/more-ai-services?u=76281980&t=7)** You might have seen prompts for Amazon Q within Visual Studio Code after installing the AWS toolkit.
 >
-> **[0:16](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/more-ai-services?u=76281980&t=16)** This generative AI will allow you to ask it questions, and it can be a great resource for quickly summarizing information found in the AWS documentation.
+> **[0:16](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/more-ai-services?u=76281980&t=16)** This [[Generative AI]] will allow you to ask it questions, and it can be a great resource for quickly summarizing information found in the AWS documentation.
 >
 > **[0:29](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/more-ai-services?u=76281980&t=29)** You can also check out new AI services as they are launched underneath the AI section of the Machine Learning category of services on the AWS homepage.
 >
@@ -1117,7 +1093,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), aws (3), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1)
 > **CLI Commands:** aws (3)
 > **Env Vars:** aws (3)
 > **Tools:** visual studio (1)

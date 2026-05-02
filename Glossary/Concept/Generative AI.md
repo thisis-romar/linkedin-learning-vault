@@ -17,7 +17,7 @@ tags:
   - topic/software-development
   - topic/cloud-computing
   - topic/security
-course_count: 281
+course_count: 282
 created: 2026-05-02
 ---
 
@@ -25,7 +25,7 @@ created: 2026-05-02
 
 # Generative AI
 
-> **Type:** Concept | **Courses:** 281 | **Topics:** [[Artificial Intelligence (AI)]], [[Data Science]], [[Software Development]], [[Cloud Computing]], [[Cybersecurity]]
+> **Type:** Concept | **Courses:** 282 | **Topics:** [[Artificial Intelligence (AI)]], [[Data Science]], [[Software Development]], [[Cloud Computing]], [[Cybersecurity]]
 
 ## Courses
 
@@ -40,7 +40,7 @@ created: 2026-05-02
 9. [[Generative Ai Skills For Creative Content Opportunities Issues And Ethics]] — 54 mentions
 10. [[Creating a Responsible Generative AI Use Policy]] — 54 mentions
 
-> [!note]- See all 281 courses
+> [!note]- See all 282 courses
 > 11. [[Generative AI and Workplace Transformation]] — 54 mentions
 > 12. [[Generative AI Approaches to Business Challenges]] — 53 mentions
 > 13. [[Building a Generative AI Tech Strategy]] — 52 mentions
@@ -69,7 +69,7 @@ created: 2026-05-02
 > 36. [[Learning XAI- Explainable Artificial Intelligence]] — 21 mentions
 > 37. [[Introduction to AI Governance]] — 20 mentions
 > 38. [[Introduction to Generative AI with GPT]] — 20 mentions
-> 39. [[Generative AI- Introduction to Large Language Models]] — 17 mentions
+> 39. [[Generative AI- Introduction to Large Language Models]] — 18 mentions
 > 40. [[LLM Foundations- Building Effective Applications for Enterprises]] — 17 mentions
 > 41. [[How to Keep Your Team on the Bleeding Edge of AI Innovation]] — 16 mentions
 > 42. [[Red Teaming for Generative AI- Building Robust and Responsible Solutions]] — 15 mentions
@@ -299,25 +299,26 @@ created: 2026-05-02
 > 266. [[Introduction to Generative Adversarial Networks (GANs)]] — 1 mentions
 > 267. [[Azure AI for Developers- Building AI Agents]] — 1 mentions
 > 268. [[GraphRAG Essential Training]] — 1 mentions
-> 269. [[A Content Marketer's Guide to Responsible AI]] — 1 mentions
-> 270. [[Azure Essential Training for Developers]] — 1 mentions
-> 271. [[AI in Cybersecurity- The Future of Red Teaming and Blue Teaming]] — 1 mentions
-> 272. [[Automated Data Governance in Practice]] — 1 mentions
-> 273. [[UX for AI- Design Practices for AI Developers]] — 1 mentions
-> 274. [[Cloud NoSQL for SQL Professionals]] — 1 mentions
-> 275. [[Tech Career Skills- Searching, Interviewing, and Landing a Job]] — 1 mentions
-> 276. [[Data Science and Analytics Career Paths and Certifications- First Steps]] — 1 mentions
-> 277. [[Learning GitHub Codespaces for Enterprise]] — 1 mentions
-> 278. [[GitHub Foundations- Privacy, Security, and Administration]] — 1 mentions
-> 279. [[AI Product Development- Secure by Design]] — 1 mentions
-> 280. [[MLOps and Data Pipeline Orchestration for AI Systems]] — 1 mentions
-> 281. [[Introduction to MLSecOps]] — 1 mentions
+> 269. [[History of Responsible AI- From Principles to Professionalization by All Tech Is Human]] — 1 mentions
+> 270. [[A Content Marketer's Guide to Responsible AI]] — 1 mentions
+> 271. [[Azure Essential Training for Developers]] — 1 mentions
+> 272. [[AI in Cybersecurity- The Future of Red Teaming and Blue Teaming]] — 1 mentions
+> 273. [[Automated Data Governance in Practice]] — 1 mentions
+> 274. [[UX for AI- Design Practices for AI Developers]] — 1 mentions
+> 275. [[Cloud NoSQL for SQL Professionals]] — 1 mentions
+> 276. [[Tech Career Skills- Searching, Interviewing, and Landing a Job]] — 1 mentions
+> 277. [[Data Science and Analytics Career Paths and Certifications- First Steps]] — 1 mentions
+> 278. [[Learning GitHub Codespaces for Enterprise]] — 1 mentions
+> 279. [[GitHub Foundations- Privacy, Security, and Administration]] — 1 mentions
+> 280. [[AI Product Development- Secure by Design]] — 1 mentions
+> 281. [[MLOps and Data Pipeline Orchestration for AI Systems]] — 1 mentions
+> 282. [[Introduction to MLSecOps]] — 1 mentions
 
 ## Learning Paths
 
-1. [[Understanding Generative AI for Tech Leaders]] — 635 total mentions
+1. [[Understanding Generative AI for Tech Leaders]] — 636 total mentions
 2. [[Foundational AI Skills for Azure Administration]] — 268 total mentions
-3. [[Become an AI Engineer]] — 266 total mentions
+3. [[Become an AI Engineer]] — 267 total mentions
 4. [[Applying AI as a Tech Leader]] — 233 total mentions
 5. [[AI Boot Camp for Small and Medium-Sized Businesses (SMBs)]] — 224 total mentions
 6. [[Explore a Career as a Cloud Administrator]] — 223 total mentions

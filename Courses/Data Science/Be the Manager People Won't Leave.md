@@ -63,8 +63,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Be the manager people won't leave
-> [LinkedIn Learning](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-the-manager-people-won-t-leave-23794103?u=76281980)
+#### [Be the manager people won't leave](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-the-manager-people-won-t-leave-23794103?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -86,7 +85,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hr (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - i (1)
 
@@ -95,8 +93,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Be someone people trust, no matter what
-> [LinkedIn Learning](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-someone-people-trust-no-matter-what-23749098?u=76281980)
+#### [Be someone people trust, no matter what](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-someone-people-trust-no-matter-what-23749098?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -160,12 +157,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), leadership (1)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - years (1)
 
-#### Be an example of integrity
-> [LinkedIn Learning](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-an-example-of-integrity-23789418?u=76281980)
+#### [Be an example of integrity](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-an-example-of-integrity-23789418?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -237,13 +232,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1), next (1), career (1), teams (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
 > **Speakers:** - my (1)
 
-#### Be relentlessly inclusive
-> [LinkedIn Learning](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-relentlessly-inclusive-23793209?u=76281980)
+#### [Be relentlessly inclusive](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-relentlessly-inclusive-23793209?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -265,7 +258,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-relentlessly-inclusive-23793209?u=76281980&t=63)** So just like you learned how to hold an effective meeting or provide feedback to someone who isn't performing, you've got to commit to learning the basics of inclusion.
 >
-> **[1:13](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-relentlessly-inclusive-23793209?u=76281980&t=73)** LinkedIn Learning offers courses and paths to create a more inclusive work environment and help you recognize your personal biases.
+> **[1:13](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-relentlessly-inclusive-23793209?u=76281980&t=73)** [[LinkedIn]] Learning offers courses and paths to create a more inclusive work environment and help you recognize your personal biases.
 >
 > **[1:22](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-relentlessly-inclusive-23793209?u=76281980&t=82)** Commit to 10 minutes of learning each day, and get started.
 >
@@ -301,7 +294,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), hr (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
@@ -312,8 +305,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Be obsessed with learning and development
-> [LinkedIn Learning](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-obsessed-with-learning-and-development-23789419?u=76281980)
+#### [Be obsessed with learning and development](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-obsessed-with-learning-and-development-23789419?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -333,7 +325,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-obsessed-with-learning-and-development-23789419?u=76281980&t=42)** I did my research and quickly learned that board employees are super disengaged, prone to conflict, and suffer burnout at a higher rate.
 >
-> **[0:52](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-obsessed-with-learning-and-development-23789419?u=76281980&t=52)** Hey, don't just take my word for it.
+> **[0:52](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-obsessed-with-learning-and-development-23789419?u=76281980&t=52)** Hey, don't just take my [[Microsoft Word|word]] for it.
 >
 > **[0:54](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-obsessed-with-learning-and-development-23789419?u=76281980&t=54)** Harvard Business Review found that employees who are learning at work, experience less anxiety and stress.
 >
@@ -347,7 +339,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-obsessed-with-learning-and-development-23789419?u=76281980&t=84)** Plan to learn something new every week.
 >
-> **[1:28](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-obsessed-with-learning-and-development-23789419?u=76281980&t=88)** Invite your employees to schedule 10 minutes on their calendars every day to learn something new, whether it's watching a LinkedIn learning course, reading an article from their favorite magazine, or talking to someone on another team.
+> **[1:28](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-obsessed-with-learning-and-development-23789419?u=76281980&t=88)** Invite your employees to schedule 10 minutes on their calendars every day to learn something new, whether it's watching a [[LinkedIn]] learning course, reading an article from their favorite magazine, or talking to someone on another team.
 >
 > **[1:43](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-obsessed-with-learning-and-development-23789419?u=76281980&t=103)** Putting it on the calendar, it's a strategy used by gurus such as Steve Jobs and Elon Musk to ensure ongoing, personal and professional development.
 >
@@ -369,7 +361,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-obsessed-with-learning-and-development-23789419?u=76281980&t=156)** Are they expecting significant life changes in the future that require developing new personal skills?
 >
-> **[2:43](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-obsessed-with-learning-and-development-23789419?u=76281980&t=163)** Do they just need some PTO to rest their tired brains?
+> **[2:43](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-obsessed-with-learning-and-development-23789419?u=76281980&t=163)** Do they just need some PTO to [[Representational State Transfer (REST)|rest]] their tired brains?
 >
 > **[2:47](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-obsessed-with-learning-and-development-23789419?u=76281980&t=167)** Just like your customers want unique experiences tailored to them, your employees want a customized learning plan that is realistic, attainable, and practical.
 >
@@ -391,19 +383,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hr (2), career (1), [[Microsoft Word|Word]] (1), business (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[LinkedIn]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** such as (1), just like (1), for example (1)
 > **Env Vars:** pto (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - early (1)
 
-#### Be open to another way
-> [LinkedIn Learning](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-open-to-another-way-23790416?u=76281980)
+#### [Be open to another way](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-open-to-another-way-23790416?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-open-to-another-way-23790416?u=76281980&t=0)** - As a human resources consultant, I spend a lot of time reading employee surveys and talking to people about their feelings, and something that comes up again and again is that workers are worried about taking risks.
+> **[0:00](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-open-to-another-way-23790416?u=76281980&t=0)** - As a [[Human Resources (HR)|human resources]] consultant, I spend a lot of time reading employee surveys and talking to people about their feelings, and something that comes up again and again is that workers are worried about taking risks.
 >
 > **[0:14](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-open-to-another-way-23790416?u=76281980&t=14)** Why is that? They think you, their manager, are afraid of failure.
 >
@@ -461,15 +452,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Human Resources (HR)|Human resources]] (1), teams (1), data (1)
+> **Frameworks & Libraries:** [[Human Resources (HR)|Human resources]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** nasa (1), ibm (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - as (1)
 
-#### Be an advocate for change
-> [LinkedIn Learning](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-an-advocate-for-change-23790418?u=76281980)
+#### [Be an advocate for change](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-an-advocate-for-change-23790418?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -525,7 +515,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hr (2), business (1), leadership (1)
 > **Env Vars:** csr (5)
 > **CLI Commands:** make (3)
 > **Definitions:** known as (1)
@@ -537,8 +526,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Be a next-level mentor
-> [LinkedIn Learning](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-a-next-level-mentor-23791279?u=76281980)
+#### [Be a next-level mentor](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-a-next-level-mentor-23791279?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -602,13 +590,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), career (1)
 > **Definitions:** is an  (1)
 > **Analogies:** picture (1)
 > **Speakers:** - exceptional (1)
 
-#### Be a fun-loving boss
-> [LinkedIn Learning](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-a-fun-loving-boss-23792271?u=76281980)
+#### [Be a fun-loving boss](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-a-fun-loving-boss-23792271?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -620,7 +606,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-a-fun-loving-boss-23792271?u=76281980&t=18)** But lately, it feels like fun can be a luxury, and nothing is worse than forced fun when employees are coerced into bonding and it backfires.
 >
-> **[0:27](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-a-fun-loving-boss-23792271?u=76281980&t=27)** So what can a manager do to create a culture where fun isn't a taboo word?
+> **[0:27](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-a-fun-loving-boss-23792271?u=76281980&t=27)** So what can a manager do to create a culture where fun isn't a taboo [[Microsoft Word|word]]?
 >
 > **[0:32](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-a-fun-loving-boss-23792271?u=76281980&t=32)** Well, fun can be personal, subjective, and different based on upbringing or cultural experiences.
 >
@@ -636,7 +622,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-a-fun-loving-boss-23792271?u=76281980&t=68)** Contact your local chamber of commerce and ask them for suggestions.
 >
-> **[1:12](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-a-fun-loving-boss-23792271?u=76281980&t=72)** Tap in your network on LinkedIn and post a question.
+> **[1:12](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-a-fun-loving-boss-23792271?u=76281980&t=72)** Tap in your network on [[LinkedIn]] and post a question.
 >
 > **[1:15](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-a-fun-loving-boss-23792271?u=76281980&t=75)** Ask for ideas or contact a local university or professional association.
 >
@@ -679,14 +665,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - just (1)
 
-#### Be a leader who isn't afraid to love
-> [LinkedIn Learning](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-a-leader-who-isn-t-afraid-to-love-23790417?u=76281980)
+#### [Be a leader who isn't afraid to love](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-a-leader-who-isn-t-afraid-to-love-23790417?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-a-leader-who-isn-t-afraid-to-love-23790417?u=76281980&t=0)** - "Love" is not a word you hear at work very often.
+> **[0:00](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-a-leader-who-isn-t-afraid-to-love-23790417?u=76281980&t=0)** - "Love" is not a [[Microsoft Word|word]] you hear at work very often.
 >
-> **[0:04](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-a-leader-who-isn-t-afraid-to-love-23790417?u=76281980&t=4)** I'm a seasoned HR pro, and many of my colleagues in human resources would say that love is the last thing we need at work.
+> **[0:04](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-a-leader-who-isn-t-afraid-to-love-23790417?u=76281980&t=4)** I'm a seasoned HR pro, and many of my colleagues in [[Human Resources (HR)|human resources]] would say that love is the last thing we need at work.
 >
 > **[0:12](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-a-leader-who-isn-t-afraid-to-love-23790417?u=76281980&t=12)** You might not want to say the word "love" around an employment lawyer either.
 >
@@ -758,7 +743,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), hr (2), [[Human Resources (HR)|Human resources]] (1), power (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Human Resources (HR)|Human resources]] (1)
 > **Definitions:** is a  (1)
 
 

@@ -88,12 +88,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The value of visual analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/the-value-of-visual-analysis?u=76281980)
+#### [The value of visual analysis](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/the-value-of-visual-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/the-value-of-visual-analysis?u=76281980&t=0)** - Whether you're reading a newspaper, examining a PowerPoint presentation, walking down the street, studying at school, graphs and tables and data images are everywhere, and there's a reason for that.
+> **[0:00](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/the-value-of-visual-analysis?u=76281980&t=0)** - Whether you're reading a newspaper, examining a [[Microsoft PowerPoint|PowerPoint]] presentation, walking down the street, studying at school, graphs and tables and data images are everywhere, and there's a reason for that.
 >
 > **[0:13](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/the-value-of-visual-analysis?u=76281980&t=13)** Good data visualization is one of the best tools to get complicated analytical messages across to other people.
 >
@@ -107,7 +106,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/the-value-of-visual-analysis?u=76281980&t=60)** And in this course, I want to show you the power of data visualization and how you can analyze complex data using visual techniques.
 >
-> **[1:10](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/the-value-of-visual-analysis?u=76281980&t=70)** Hi, my name is Franz Buscha and I'm an expert in statistics and econometrics.
+> **[1:10](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/the-value-of-visual-analysis?u=76281980&t=70)** Hi, my name is Franz Buscha and I'm an expert in [[Statistics]] and econometrics.
 >
 > **[1:16](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/the-value-of-visual-analysis?u=76281980&t=76)** I've been looking at data and visualizing data for over 20 years.
 >
@@ -123,7 +122,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), power (2), [[Microsoft PowerPoint|Powerpoint]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (1), [[Statistics]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - whether (1)
 
@@ -132,8 +131,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Types of data
-> [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/types-of-data?u=76281980)
+#### [Types of data](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/types-of-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -157,7 +155,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/types-of-data?u=76281980&t=63)** Modern datasets can be extremely large, and it's not unusual to have a dataset with a thousand variables and over 100,000 observations.
 >
-> **[1:14](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/types-of-data?u=76281980&t=74)** At its highest level, each data variable comes in two forms, string data or numeric data.
+> **[1:14](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/types-of-data?u=76281980&t=74)** At its highest level, each data variable comes in two [[Forms]], string data or numeric data.
 >
 > **[1:21](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/types-of-data?u=76281980&t=81)** String variables are data that contains any non-numeric characters in a column of data.
 >
@@ -185,7 +183,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/types-of-data?u=76281980&t=144)** For example, string data is hard to visualize, but not impossible.
 >
-> **[2:28](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/types-of-data?u=76281980&t=148)** Word clouds are an example of a visualization technique that shows which words occur most frequently.
+> **[2:28](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/types-of-data?u=76281980&t=148)** [[Microsoft Word|Word]] clouds are an example of a visualization technique that shows which words occur most frequently.
 >
 > **[2:35](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/types-of-data?u=76281980&t=155)** Numeric data is often much easier to visualize, and in this course I'll walk you through the many different ways of visualizing numeric data.
 >
@@ -205,15 +203,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (29), [[Forms]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Microsoft Word|Word]] (1)
 > **Analogies:** such as (5), for example (3)
 > **Prerequisites:** set up (1), you'll need (1)
 > **Env Vars:** gdp (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - you (1)
 
-#### Basic graph elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/basic-graph-elements?u=76281980)
+#### [Basic graph elements](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/basic-graph-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -251,7 +248,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/basic-graph-elements?u=76281980&t=85)** My advice is that title should always be kept as short as possible.
 >
-> **[1:30](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/basic-graph-elements?u=76281980&t=90)** A good word range is one to four words for a main title, three to seven words for a subtitle, and one to two words for an axis title.
+> **[1:30](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/basic-graph-elements?u=76281980&t=90)** A good [[Microsoft Word|word]] range is one to four words for a main title, three to seven words for a subtitle, and one to two words for an axis title.
 >
 > **[1:40](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/basic-graph-elements?u=76281980&t=100)** If you have a very long name, consider using vertical or angle text.
 >
@@ -287,7 +284,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/basic-graph-elements?u=76281980&t=186)** They represent the actual values of the data being visualized.
 >
-> **[3:11](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/basic-graph-elements?u=76281980&t=191)** Traditional markers are often black dots, but data markers can take other forms.
+> **[3:11](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/basic-graph-elements?u=76281980&t=191)** Traditional markers are often black dots, but data markers can take other [[Forms]].
 >
 > **[3:17](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/basic-graph-elements?u=76281980&t=197)** For example, to differentiate different categories of data, you can also use crosses, diamonds, and square markers.
 >
@@ -335,19 +332,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), next (5), [[Microsoft Word|Word]] (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Forms]] (1)
 > **Analogies:** such as (4), for example (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - data (1)
 
-#### Univariate, bivariate, and multivariate analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/univariate-bivariate-and-multivariate-analysis?u=76281980)
+#### [Univariate, bivariate, and multivariate analysis](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/univariate-bivariate-and-multivariate-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/univariate-bivariate-and-multivariate-analysis?u=76281980&t=0)** - Statistical data analysis is complex, and by extension, so is data visualization.
+> **[0:00](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/univariate-bivariate-and-multivariate-analysis?u=76281980&t=0)** - [[Statistical Data Analysis]] is complex, and by extension, so is data visualization.
 >
 > **[0:06](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/univariate-bivariate-and-multivariate-analysis?u=76281980&t=6)** There are many different kinds of statistical methods for data analysis, and even experts don't know them all.
 >
@@ -379,9 +375,9 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/univariate-bivariate-and-multivariate-analysis?u=76281980&t=103)** Or not at all?
 >
-> **[1:45](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/univariate-bivariate-and-multivariate-analysis?u=76281980&t=105)** Bivariate analysis is probably the statistical analysis that suits itself best for data visualization.
+> **[1:45](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/univariate-bivariate-and-multivariate-analysis?u=76281980&t=105)** Bivariate analysis is probably the [[Statistical Analysis]] that suits itself best for data visualization.
 >
-> **[1:52](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/univariate-bivariate-and-multivariate-analysis?u=76281980&t=112)** Plotting raw data on a graph and eyeballing it is often much more powerful than estimating correlation coefficients or other statistics that aggregate all the data into a single number.
+> **[1:52](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/univariate-bivariate-and-multivariate-analysis?u=76281980&t=112)** Plotting raw data on a graph and eyeballing it is often much more powerful than estimating correlation coefficients or other [[Statistics]] that aggregate all the data into a single number.
 >
 > **[2:03](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/univariate-bivariate-and-multivariate-analysis?u=76281980&t=123)** Scatter plots are the best known example of bivariate plots.
 >
@@ -427,7 +423,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Statistical Analysis]] (3), [[Statistical Data Analysis]] (2), [[Statistics]] (2)
+> **Frameworks & Libraries:** [[Statistical Analysis]] (3), [[Statistical Data Analysis]] (2), [[Statistics]] (2)
 > **Analogies:** such as (3), for example (3)
 > **CLI Commands:** find (2), make (2)
 > **Env Vars:** mri (1)
@@ -440,8 +436,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Histograms
-> [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/histograms?u=76281980)
+#### [Histograms](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/histograms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -453,7 +448,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/histograms?u=76281980&t=20)** Here is a histogram of average daily temperatures in January for cities in the United States.
 >
-> **[0:26](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/histograms?u=76281980&t=26)** On the X axis, there's temperature in Fahrenheit, and on the Y axis, you see the word 'Density.'
+> **[0:26](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/histograms?u=76281980&t=26)** On the X axis, there's temperature in Fahrenheit, and on the Y axis, you see the [[Microsoft Word|word]] 'Density.'
 >
 > **[0:32](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/histograms?u=76281980&t=32)** Histograms are often presented with densities on the Y axis.
 >
@@ -513,13 +508,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Best Practices:** general rule (1)
 > **Speakers:** - histograms (1)
 
-#### Density plots
-> [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/density-plots?u=76281980)
+#### [Density plots](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/density-plots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -593,14 +587,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), next (1)
 > **Analogies:** similar to (1), picture (1)
 > **Best Practices:** you should always (1), rule of thumb (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - are (1)
 
-#### Strip plots
-> [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/strip-plots?u=76281980)
+#### [Strip plots](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/strip-plots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -650,13 +642,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), business (1), feature (1)
 > **Analogies:** similar to (3), for example (1), just like (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - today (1)
 
-#### Box plots
-> [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/box-plots?u=76281980)
+#### [Box plots](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/box-plots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -680,7 +670,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/box-plots?u=76281980&t=57)** Box plots graphically present what is called the five-number summary.
 >
-> **[1:02](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/box-plots?u=76281980&t=62)** These are statistics that include the minimum, the first quartile, the second quartile, also called the median, the third quartile, and the maximum.
+> **[1:02](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/box-plots?u=76281980&t=62)** These are [[Statistics]] that include the minimum, the first quartile, the second quartile, also called the median, the third quartile, and the maximum.
 >
 > **[1:13](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/box-plots?u=76281980&t=73)** So how do you read the statistics?
 >
@@ -740,7 +730,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Statistics]] (2), next (2)
+> **Frameworks & Libraries:** [[Statistics]] (2)
 > **Definitions:** is an  (3), is a  (2), is called (2), in other words (1), means that (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
@@ -751,8 +741,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Bar graphs and dot plots
-> [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/bar-graphs-and-dot-plots?u=76281980)
+#### [Bar graphs and dot plots](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/bar-graphs-and-dot-plots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -834,7 +823,7 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/bar-graphs-and-dot-plots?u=76281980&t=237)** They're brilliant at plotting many categories.
 >
-> **[4:01](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/bar-graphs-and-dot-plots?u=76281980&t=241)** Overall, bar charts excel at simplicity.
+> **[4:01](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/bar-graphs-and-dot-plots?u=76281980&t=241)** Overall, bar charts [[Microsoft Excel|excel]] at simplicity.
 >
 > **[4:03](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/bar-graphs-and-dot-plots?u=76281980&t=243)** They're easy to grade and easy to understand.
 >
@@ -842,13 +831,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), feature (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Definitions:** is a  (3), means that (1)
 > **Analogies:** picture (1)
 > **Speakers:** - bar (1)
 
-#### Pie charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/pie-charts?u=76281980)
+#### [Pie charts](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/pie-charts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -856,7 +844,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/pie-charts?u=76281980&t=3)** The main advantage of pie charts compared to many other categorical visualization techniques is that pie charts are commonly used in pop culture and news.
 >
-> **[0:14](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/pie-charts?u=76281980&t=14)** A background in data science is not necessary to be able to relate to them.
+> **[0:14](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/pie-charts?u=76281980&t=14)** A background in [[Data Science]] is not necessary to be able to relate to them.
 >
 > **[0:19](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/pie-charts?u=76281980&t=19)** And in this lesson I'm going to walk you through what pie charts are and how you can navigate using one.
 >
@@ -896,7 +884,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/pie-charts?u=76281980&t=138)** Whilst a value of 360 as a hundred percent will be intuitive to many people, it won't be as intuitive as a value of 100.
 >
-> **[2:28](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/pie-charts?u=76281980&t=148)** So if you want to access detailed statistics, you need to perform complex angle measurements and radial computation, and that is a disadvantage.
+> **[2:28](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/pie-charts?u=76281980&t=148)** So if you want to access detailed [[Statistics]], you need to perform complex angle measurements and radial computation, and that is a disadvantage.
 >
 > **[2:39](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/pie-charts?u=76281980&t=159)** It is possible to add percentage and frequency values to the slices, like in this example, but to a large extent, this is not very satisfying.
 >
@@ -932,14 +920,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Statistics]] (1), next (1)
+> **Frameworks & Libraries:** [[Data Science]] (1), [[Statistics]] (1)
 > **Definitions:** known as (1), in other words (1), is a  (1)
 > **CLI Commands:** make (2)
 > **Warnings:** be careful (1)
 > **Speakers:** - do (1)
 
-#### Radar plots
-> [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/radar-plots?u=76281980)
+#### [Radar plots](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/radar-plots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -951,7 +938,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/radar-plots?u=76281980&t=17)** Like pie charts, radar plots offer a circular visualization of categorical data.
 >
-> **[0:23](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/radar-plots?u=76281980&t=23)** But compared to pie charts, radar plots excel at plotting many categories, whilst pie charts tend to be limited to a handful of categories.
+> **[0:23](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/radar-plots?u=76281980&t=23)** But compared to pie charts, radar plots [[Microsoft Excel|excel]] at plotting many categories, whilst pie charts tend to be limited to a handful of categories.
 >
 > **[0:34](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/radar-plots?u=76281980&t=34)** A key advantage is that you can make comparisons between many groups quickly.
 >
@@ -997,9 +984,9 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/radar-plots?u=76281980&t=158)** For added identification, I also added markers to each spoke, although this isn't necessary.
 >
-> **[2:44](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/radar-plots?u=76281980&t=164)** Like pie charts, radar plots are not about detailed statistics, but about general comparison across groups.
+> **[2:44](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/radar-plots?u=76281980&t=164)** Like pie charts, radar plots are not about detailed [[Statistics]], but about general comparison across groups.
 >
-> **[2:52](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/radar-plots?u=76281980&t=172)** Here is a word of warning: Do not confuse area with importance.
+> **[2:52](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/radar-plots?u=76281980&t=172)** Here is a [[Microsoft Word|word]] of warning: Do not confuse area with importance.
 >
 > **[2:56](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/radar-plots?u=76281980&t=176)** In pie charts, the area is associated with a numerical quantity.
 >
@@ -1009,7 +996,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (2), web (1), next (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Statistics]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (4), is an  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** picture (1)
@@ -1021,8 +1008,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Multiple histogram and density plots
-> [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/multiple-histogram-and-density-plots?u=76281980)
+#### [Multiple histogram and density plots](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/multiple-histogram-and-density-plots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1096,15 +1082,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** for example (2)
 > **Best Practices:** general rule (1)
 > **Warnings:** note that (1)
 > **Speakers:** - did (1)
 
-#### Multiple box and violin plots
-> [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/multiple-box-and-violin-plots?u=76281980)
+#### [Multiple box and violin plots](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/multiple-box-and-violin-plots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1114,7 +1098,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/multiple-box-and-violin-plots?u=76281980&t=12)** But if you need to plot 10 or 20 distributions, then you need to use multiple box plots.
 >
-> **[0:18](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/multiple-box-and-violin-plots?u=76281980&t=18)** And in this lesson, I'm going to show you where box plots excel and how to use a combination of density and box plots.
+> **[0:18](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/multiple-box-and-violin-plots?u=76281980&t=18)** And in this lesson, I'm going to show you where box plots [[Microsoft Excel|excel]] and how to use a combination of density and box plots.
 >
 > **[0:26](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/multiple-box-and-violin-plots?u=76281980&t=26)** Box plots have real power in comparing many distributions across groups.
 >
@@ -1172,13 +1156,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), power (3), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Definitions:** is a  (3), is called (1)
 > **Analogies:** for example (1)
 > **Speakers:** - what (1)
 
-#### Multiple bar graphs and dot plots
-> [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/multiple-bar-graphs-and-dot-plots?u=76281980)
+#### [Multiple bar graphs and dot plots](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/multiple-bar-graphs-and-dot-plots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1248,7 +1231,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/multiple-bar-graphs-and-dot-plots?u=76281980&t=194)** Here's an example.
 >
-> **[3:16](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/multiple-bar-graphs-and-dot-plots?u=76281980&t=196)** Dot charts tend to excel at graphing information over many groups, and they're particularly suited to plotting data over many categorical variables.
+> **[3:16](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/multiple-bar-graphs-and-dot-plots?u=76281980&t=196)** Dot charts tend to [[Microsoft Excel|excel]] at graphing information over many groups, and they're particularly suited to plotting data over many categorical variables.
 >
 > **[3:25](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/multiple-bar-graphs-and-dot-plots?u=76281980&t=205)** Dot charts are also easy to read and they're intuitive.
 >
@@ -1258,14 +1241,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** such as (1), picture (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - today (1)
 
-#### Multiple pie and radar plots
-> [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/multiple-pie-and-radar-plots?u=76281980)
+#### [Multiple pie and radar plots](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/multiple-pie-and-radar-plots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1277,7 +1259,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/multiple-pie-and-radar-plots?u=76281980&t=20)** Circular visualizations are often easier on the eye and can be more intuitive to many readers.
 >
-> **[0:27](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/multiple-pie-and-radar-plots?u=76281980&t=27)** Note, communicating precise statistics is not as clear as compared to bar graphs, which is a disadvantage of using circular visualization methods.
+> **[0:27](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/multiple-pie-and-radar-plots?u=76281980&t=27)** Note, communicating precise [[Statistics]] is not as clear as compared to bar graphs, which is a disadvantage of using circular visualization methods.
 >
 > **[0:38](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/multiple-pie-and-radar-plots?u=76281980&t=38)** Look at a scenario where you'd want to compare data across two categorical variables using a pie chart.
 >
@@ -1317,7 +1299,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/multiple-pie-and-radar-plots?u=76281980&t=173)** However, I think an even better way to visualize and analyze this data is via a radar plot.
 >
-> **[3:01](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/multiple-pie-and-radar-plots?u=76281980&t=181)** Radar plots excel at comparing multiple categorical variables, especially if the variables have many groups.
+> **[3:01](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/multiple-pie-and-radar-plots?u=76281980&t=181)** Radar plots [[Microsoft Excel|excel]] at comparing multiple categorical variables, especially if the variables have many groups.
 >
 > **[3:08](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/multiple-pie-and-radar-plots?u=76281980&t=188)** So here's a radar plot visualization of the same data.
 >
@@ -1331,7 +1313,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Statistics]] (1), next (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Microsoft Excel|Excel]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (1)
 > **Warnings:** note that (1)
@@ -1342,8 +1324,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Scatter plots
-> [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/scatter-plots?u=76281980)
+#### [Scatter plots](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/scatter-plots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1423,14 +1404,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), next (1)
 > **Definitions:** is a  (3), is called (1), is an  (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (2)
 > **Speakers:** - what (1)
 
-#### Lines of best fit
-> [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/lines-of-best-fit?u=76281980)
+#### [Lines of best fit](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/lines-of-best-fit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1462,7 +1441,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/lines-of-best-fit?u=76281980&t=89)** Great!
 >
-> **[1:30](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/lines-of-best-fit?u=76281980&t=90)** Lines of best fit excel at summarizing data relationships and are the perfect companion for scatter plots.
+> **[1:30](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/lines-of-best-fit?u=76281980&t=90)** Lines of best fit [[Microsoft Excel|excel]] at summarizing data relationships and are the perfect companion for scatter plots.
 >
 > **[1:38](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/lines-of-best-fit?u=76281980&t=98)** At the same time, there are some difficult choices that you need to make.
 >
@@ -1542,15 +1521,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Microsoft Excel|Excel]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Definitions:** means that (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Documentation:** specification (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - a (1)
 
-#### Line plots
-> [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/line-plots?u=76281980)
+#### [Line plots](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/line-plots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1638,15 +1616,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), next (2)
 > **Definitions:** is a  (4), in other words (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - visualizing (1)
 
-#### Table plots
-> [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/table-plots?u=76281980)
+#### [Table plots](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/table-plots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1680,7 +1656,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/table-plots?u=76281980&t=112)** Of course, a disadvantage of table plots is that they contain less detail than traditional numerical tables.
 >
-> **[1:59](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/table-plots?u=76281980&t=119)** So if you want the best of both worlds, you can also add the relevant cell statistics back in.
+> **[1:59](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/table-plots?u=76281980&t=119)** So if you want the best of both worlds, you can also add the relevant cell [[Statistics]] back in.
 >
 > **[2:06](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/table-plots?u=76281980&t=126)** Here's an example of that.
 >
@@ -1720,7 +1696,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Statistics]] (3), next (1)
+> **Frameworks & Libraries:** [[Statistics]] (3)
 > **Definitions:** is a  (2)
 > **Speakers:** - when (1)
 
@@ -1729,8 +1705,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Matrix scatter and trellis plots
-> [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/matrix-scatter-and-trellis-plots?u=76281980)
+#### [Matrix scatter and trellis plots](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/matrix-scatter-and-trellis-plots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1772,7 +1747,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/matrix-scatter-and-trellis-plots?u=76281980&t=125)** For example, some relationships look non-linear, and some appear to have multiple groups within them.
 >
-> **[2:13](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/matrix-scatter-and-trellis-plots?u=76281980&t=133)** Would not be possible to determine that from basic summary statistics.
+> **[2:13](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/matrix-scatter-and-trellis-plots?u=76281980&t=133)** Would not be possible to determine that from basic summary [[Statistics]].
 >
 > **[2:18](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/matrix-scatter-and-trellis-plots?u=76281980&t=138)** However, this is a poor version of a matrix scatterplot.
 >
@@ -1810,13 +1785,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **Definitions:** is a  (5)
 > **Analogies:** for example (2), imagine (1)
 > **Speakers:** - multivariate (1)
 
-#### Bubble plots
-> [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/bubble-plots?u=76281980)
+#### [Bubble plots](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/bubble-plots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1908,7 +1882,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), power (2)
 > **Env Vars:** gdp (6)
 > **Definitions:** is a  (3), is an  (2)
 > **Warnings:** keep in mind (1), be careful (1)
@@ -1916,8 +1889,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - bubble (1)
 
-#### Contour plots
-> [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/contour-plots?u=76281980)
+#### [Contour plots](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/contour-plots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1995,7 +1967,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** imagine (1)
 > **Best Practices:** remember to (1)
@@ -2006,8 +1977,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Time to visualize
-> [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/time-to-visualize?u=76281980)
+#### [Time to visualize](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/time-to-visualize?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2021,17 +1991,17 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/time-to-visualize?u=76281980&t=30)** If you want to learn more about graphing and data visualization, here are some useful tips.
 >
-> **[0:36](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/time-to-visualize?u=76281980&t=36)** First, you need to build up your skills with a statistics program.
+> **[0:36](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/time-to-visualize?u=76281980&t=36)** First, you need to build up your skills with a [[Statistics]] program.
 >
-> **[0:40](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/time-to-visualize?u=76281980&t=40)** An easy one is Microsoft Excel.
+> **[0:40](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/time-to-visualize?u=76281980&t=40)** An easy one is [[Microsoft Excel]].
 >
-> **[0:43](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/time-to-visualize?u=76281980&t=43)** Excel provides a wide range of basic graphing tools, and most of the graphs presented here are accessible via Excel.
+> **[0:43](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/time-to-visualize?u=76281980&t=43)** [[Microsoft Excel|Excel]] provides a wide range of basic graphing tools, and most of the graphs presented here are accessible via Excel.
 >
-> **[0:52](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/time-to-visualize?u=76281980&t=52)** For those who want to access more complicated graphs, you should look to train yourself on a general purpose statistical software, R, STATA, SPSS are all common examples.
+> **[0:52](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/time-to-visualize?u=76281980&t=52)** For those who want to access more complicated graphs, you should look to train yourself on a general purpose statistical software, R, [[Stata]], SPSS are all common examples.
 >
 > **[1:05](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/time-to-visualize?u=76281980&t=65)** These programs have access to many more data visualization options, and they really allow you to craft and shape your data visualization.
 >
-> **[1:14](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/time-to-visualize?u=76281980&t=74)** If you want to go 100% professional, you'll need to learn Python coding.
+> **[1:14](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/time-to-visualize?u=76281980&t=74)** If you want to go 100% professional, you'll need to learn [[Python (Programming Language)|Python]] coding.
 >
 > **[1:20](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/time-to-visualize?u=76281980&t=80)** Here you can build graphs from the ground up and create some of the most powerful visualizations available.
 >
@@ -2041,7 +2011,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/time-to-visualize?u=76281980&t=94)** There are lots of courses for beginner, intermediate and advanced learners.
 >
-> **[1:39](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/time-to-visualize?u=76281980&t=99)** Check out platforms like LinkedIn Learning.
+> **[1:39](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/time-to-visualize?u=76281980&t=99)** Check out platforms like [[LinkedIn]] Learning.
 >
 > **[1:41](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/time-to-visualize?u=76281980&t=101)** I'm sure you'll find one suitable for your needs.
 >
@@ -2049,7 +2019,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/time-to-visualize?u=76281980&t=111)** There's a fine art to beautiful graphs and also aspects of human behavior.
 >
-> **[1:56](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/time-to-visualize?u=76281980&t=116)** For example, you can learn about color theory to know which colors match or contrast best, or you can learn about Gestalt Theory, that tries to explain how the mind perceives, forms and organizes visual behavior.
+> **[1:56](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/time-to-visualize?u=76281980&t=116)** For example, you can learn about color theory to know which colors match or contrast best, or you can learn about Gestalt Theory, that tries to explain how the mind perceives, [[Forms]] and organizes visual behavior.
 >
 > **[2:11](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/time-to-visualize?u=76281980&t=131)** And most importantly, stay curious.
 >
@@ -2057,11 +2027,11 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/time-to-visualize?u=76281980&t=135)** You can stay in touch with me via LinkedIn.
 >
-> **[2:18](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/time-to-visualize?u=76281980&t=138)** Good luck in your future journey through the amazing world of data science and statistics.
+> **[2:18](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/time-to-visualize?u=76281980&t=138)** Good luck in your future journey through the amazing world of [[Data Science]] and statistics.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Statistics]] (4), [[Microsoft Excel|Excel]] (2), [[LinkedIn]] (2), [[Microsoft Excel]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (4), [[Microsoft Excel|Excel]] (2), [[LinkedIn]] (2), [[Microsoft Excel]] (1), [[Stata]] (1)
 > **CLI Commands:** python (1), find (1)
 > **Env Vars:** stata (1), spss (1)
 > **Analogies:** for example (1)

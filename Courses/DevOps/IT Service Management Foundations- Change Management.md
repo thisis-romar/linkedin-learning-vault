@@ -86,8 +86,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Managing change with minimal pain
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-change-management/managing-change-with-minimal-pain-27999131?u=76281980)
+#### [Managing change with minimal pain](https://www.linkedin.com/learning/it-service-management-foundations-change-management/managing-change-with-minimal-pain-27999131?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -101,13 +100,13 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/it-service-management-foundations-change-management/managing-change-with-minimal-pain-27999131?u=76281980&t=34)** Howdy, I'm Ernest Mueller.
 >
-> **[0:36](https://www.linkedin.com/learning/it-service-management-foundations-change-management/managing-change-with-minimal-pain-27999131?u=76281980&t=36)** I'm an experienced engineering leader who's built processes to ensure operational excellence for organizations large and small.
+> **[0:36](https://www.linkedin.com/learning/it-service-management-foundations-change-management/managing-change-with-minimal-pain-27999131?u=76281980&t=36)** I'm an experienced engineering leader who's built processes to ensure [[Operational Excellence]] for organizations large and small.
 >
-> **[0:44](https://www.linkedin.com/learning/it-service-management-foundations-change-management/managing-change-with-minimal-pain-27999131?u=76281980&t=44)** Join me for my LinkedIn Learning course on managing IT change with minimal pain.
+> **[0:44](https://www.linkedin.com/learning/it-service-management-foundations-change-management/managing-change-with-minimal-pain-27999131?u=76281980&t=44)** Join me for my [[LinkedIn]] Learning course on managing IT change with minimal pain.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1), [[Engineering]] (1), [[Operational Excellence]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Operational Excellence]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - in (1)
 
@@ -116,8 +115,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The Change Challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-change-management/the-change-challenge?u=76281980)
+#### [The Change Challenge](https://www.linkedin.com/learning/it-service-management-foundations-change-management/the-change-challenge?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -163,14 +161,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (3), application (1), cloud (1), [[Security]] (1), career (1)
 > **Env Vars:** sre (1), sox (1), pci (1), iso (1), hipaa (1)
 > **Cross-References:** coming up (1), in the next (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Change management, the key to excellence
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-the-key-to-excellence?u=76281980)
+#### [Change management, the key to excellence](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-the-key-to-excellence?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -180,7 +176,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-the-key-to-excellence?u=76281980&t=10)** The IT Process Institute went and investigated hundreds of companies and published their research in the "Visible OPS Handbook".
 >
-> **[0:19](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-the-key-to-excellence?u=76281980&t=19)** They determined which companies had technology departments that were high-performing, as defined by high availability of their services; a high successful change rate, in other words, changes released to users that don't result in a degraded service; low amounts of unplanned work, like critical bug fixes and incident response; and being highly compliant.
+> **[0:19](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-the-key-to-excellence?u=76281980&t=19)** They determined which companies had technology departments that were high-performing, as defined by high availability of their services; a high successful change rate, in other words, changes released to users that don't result in a degraded service; low amounts of unplanned work, like critical bug fixes and [[Incident Response]]; and being highly compliant.
 >
 > **[0:41](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-the-key-to-excellence?u=76281980&t=41)** These are all things you want too, right?
 >
@@ -192,9 +188,9 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-the-key-to-excellence?u=76281980&t=86)** More recent research bears this out.
 >
-> **[1:29](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-the-key-to-excellence?u=76281980&t=89)** The 2019 Dora and Google Cloud-authored "Accelerate State of DevOps" report analyzed responses from 31,000 professionals worldwide over six years.
+> **[1:29](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-the-key-to-excellence?u=76281980&t=89)** The 2019 Dora and [[Google Cloud Platform (GCP)|Google Cloud]]-authored "Accelerate State of [[DevOps]]" report analyzed responses from 31,000 professionals worldwide over six years.
 >
-> **[1:40](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-the-key-to-excellence?u=76281980&t=100)** After applying some vigorous data science to the results, they found something similar.
+> **[1:40](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-the-key-to-excellence?u=76281980&t=100)** After applying some vigorous [[Data Science]] to the results, they found something similar.
 >
 > **[1:48](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-the-key-to-excellence?u=76281980&t=108)** Here's a diagram showing their findings and the positive and negative correlations of various practices to software delivery performance, and overall business performance.
 >
@@ -208,7 +204,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-the-key-to-excellence?u=76281980&t=155)** We'll explore that differentiation more in this course as well.
 >
-> **[2:40](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-the-key-to-excellence?u=76281980&t=160)** In John Allspaw's master's thesis on how teams resolved internet service outages, he found that the very first heuristic they commonly used was to look for relationships between recent changes and the issue.
+> **[2:40](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-the-key-to-excellence?u=76281980&t=160)** In [[John the Ripper|John]] Allspaw's master's thesis on how teams resolved internet service outages, he found that the very first heuristic they commonly used was to look for relationships between recent changes and the issue.
 >
 > **[2:54](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-the-key-to-excellence?u=76281980&t=174)** The new Puppet and CircleCI 2020 "State of DevOps" report discusses change management as being one of the three primary areas to create structural improvement in an organization.
 >
@@ -226,33 +222,32 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-the-key-to-excellence?u=76281980&t=241)** And these things contribute to the success of your organization.
 >
-> **[4:05](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-the-key-to-excellence?u=76281980&t=245)** I'll see you in the next video, where we'll dive into change management, and how it fits in with the rest of the process puzzle you no doubt have in your org.
+> **[4:05](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-the-key-to-excellence?u=76281980&t=245)** I'll see you in the next video, where we'll dive into change management, and how it fits in with the [[Representational State Transfer (REST)|rest]] of the process puzzle you no doubt have in your org.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (11), business (3), [[DevOps]] (2), [[Incident Response]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (2), [[Incident Response]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Data Science]] (1), [[John the Ripper|John]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ops (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### A maze of twisty little processes, all alike
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-change-management/a-maze-of-twisty-little-processes-all-alike?u=76281980)
+#### [A maze of twisty little processes, all alike](https://www.linkedin.com/learning/it-service-management-foundations-change-management/a-maze-of-twisty-little-processes-all-alike?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/it-service-management-foundations-change-management/a-maze-of-twisty-little-processes-all-alike?u=76281980&t=0)** - [Instructor] Welcome back.
 >
-> **[0:01](https://www.linkedin.com/learning/it-service-management-foundations-change-management/a-maze-of-twisty-little-processes-all-alike?u=76281980&t=1)** Change management is one part of many process pieces that fit together into the overall puzzle of IT Service Management.
+> **[0:01](https://www.linkedin.com/learning/it-service-management-foundations-change-management/a-maze-of-twisty-little-processes-all-alike?u=76281980&t=1)** Change management is one part of many process pieces that fit together into the overall puzzle of [[IT Service Management]].
 >
-> **[0:10](https://www.linkedin.com/learning/it-service-management-foundations-change-management/a-maze-of-twisty-little-processes-all-alike?u=76281980&t=10)** IT Service Management is the overall practice of using processes to continuously enhance the quality and user experience of the IT services that organizations provide to customers and users.
+> **[0:10](https://www.linkedin.com/learning/it-service-management-foundations-change-management/a-maze-of-twisty-little-processes-all-alike?u=76281980&t=10)** IT Service Management is the overall practice of using processes to continuously enhance the quality and [[User Experience (UX)|user experience]] of the IT services that organizations provide to customers and users.
 >
 > **[0:24](https://www.linkedin.com/learning/it-service-management-foundations-change-management/a-maze-of-twisty-little-processes-all-alike?u=76281980&t=24)** Different ITSM frameworks define different lists of processes.
 >
-> **[0:28](https://www.linkedin.com/learning/it-service-management-foundations-change-management/a-maze-of-twisty-little-processes-all-alike?u=76281980&t=28)** ITIL v3 has 26 separate process areas and ITIL v4 has even more.
+> **[0:28](https://www.linkedin.com/learning/it-service-management-foundations-change-management/a-maze-of-twisty-little-processes-all-alike?u=76281980&t=28)** [[ITIL]] v3 has 26 separate process areas and ITIL v4 has even more.
 >
-> **[0:35](https://www.linkedin.com/learning/it-service-management-foundations-change-management/a-maze-of-twisty-little-processes-all-alike?u=76281980&t=35)** Even this slightly smaller list of 14 process areas from the FitSM framework is complicated and raises questions about where change management begins and something like configuration management or release management ends.
+> **[0:35](https://www.linkedin.com/learning/it-service-management-foundations-change-management/a-maze-of-twisty-little-processes-all-alike?u=76281980&t=35)** Even this slightly smaller list of 14 process areas from the FitSM framework is complicated and raises questions about where change management begins and something like [[Configuration Management]] or release management ends.
 >
 > **[0:50](https://www.linkedin.com/learning/it-service-management-foundations-change-management/a-maze-of-twisty-little-processes-all-alike?u=76281980&t=50)** To explore this, first let's define a configuration item.
 >
@@ -270,7 +265,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/it-service-management-foundations-change-management/a-maze-of-twisty-little-processes-all-alike?u=76281980&t=108)** A deployed application is a configuration item, but not an asset.
 >
-> **[1:53](https://www.linkedin.com/learning/it-service-management-foundations-change-management/a-maze-of-twisty-little-processes-all-alike?u=76281980&t=113)** And while within the IT sphere, you might say that all assets are configuration items, your company likely manages a wider set of assets that don't count as IT configuration items, from trucks to office supplies.
+> **[1:53](https://www.linkedin.com/learning/it-service-management-foundations-change-management/a-maze-of-twisty-little-processes-all-alike?u=76281980&t=113)** And while within the IT sphere, you might say that all assets are configuration items, your company likely manages a wider set of assets that don't count as IT configuration items, from trucks to [[Microsoft Office|office]] supplies.
 >
 > **[2:07](https://www.linkedin.com/learning/it-service-management-foundations-change-management/a-maze-of-twisty-little-processes-all-alike?u=76281980&t=127)** In asset management, you're tracking assets in order to determine their current value, depreciation, support contracts, or warranties and risk.
 >
@@ -278,7 +273,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/it-service-management-foundations-change-management/a-maze-of-twisty-little-processes-all-alike?u=76281980&t=140)** Simply put, it's the processes of dealing with making changes to our IT configuration items in a safe, prompt, and traceable way.
 >
-> **[2:30](https://www.linkedin.com/learning/it-service-management-foundations-change-management/a-maze-of-twisty-little-processes-all-alike?u=76281980&t=150)** Be careful, the term change management is also used for organizational change management, about how you introduce changes to your people and management structure, which is a very different thing.
+> **[2:30](https://www.linkedin.com/learning/it-service-management-foundations-change-management/a-maze-of-twisty-little-processes-all-alike?u=76281980&t=150)** Be careful, the term change management is also used for [[Organizational Change Management]], about how you introduce changes to your people and management structure, which is a very different thing.
 >
 > **[2:43](https://www.linkedin.com/learning/it-service-management-foundations-change-management/a-maze-of-twisty-little-processes-all-alike?u=76281980&t=163)** Release management is harder to distinguish from change management and different process frameworks separate the two processes in slightly different ways.
 >
@@ -290,9 +285,9 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/it-service-management-foundations-change-management/a-maze-of-twisty-little-processes-all-alike?u=76281980&t=204)** In general, there's a lot of confusion about the difference between the two in process world, possibly indicating that it's an obsolete distinction.
 >
-> **[3:33](https://www.linkedin.com/learning/it-service-management-foundations-change-management/a-maze-of-twisty-little-processes-all-alike?u=76281980&t=213)** In a modern environment with automated infrastructure provisioning and continuous delivery, the line between controlling a change and performing a release fades.
+> **[3:33](https://www.linkedin.com/learning/it-service-management-foundations-change-management/a-maze-of-twisty-little-processes-all-alike?u=76281980&t=213)** In a modern environment with automated infrastructure provisioning and [[Continuous Delivery (CD)|continuous delivery]], the line between controlling a change and performing a release fades.
 >
-> **[3:43](https://www.linkedin.com/learning/it-service-management-foundations-change-management/a-maze-of-twisty-little-processes-all-alike?u=76281980&t=223)** And in the DevOps world, an adversarial model of a change manager protecting the systems while a release manager pushes for changes is counterproductive.
+> **[3:43](https://www.linkedin.com/learning/it-service-management-foundations-change-management/a-maze-of-twisty-little-processes-all-alike?u=76281980&t=223)** And in the [[DevOps]] world, an adversarial model of a change manager protecting the systems while a release manager pushes for changes is counterproductive.
 >
 > **[3:53](https://www.linkedin.com/learning/it-service-management-foundations-change-management/a-maze-of-twisty-little-processes-all-alike?u=76281980&t=233)** It's okay to decide whether this is actually a helpful distinction for you and your organization or not.
 >
@@ -306,15 +301,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (15), [[IT Service Management]] (2), [[ITIL]] (2), [[Configuration Management]] (2), application (2)
+> **Frameworks & Libraries:** [[IT Service Management]] (2), [[ITIL]] (2), [[Configuration Management]] (2), [[User Experience (UX)|User experience]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** itsm (2), itil (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### The changing face of change management
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-change-management/the-changing-face-of-change-management?u=76281980)
+#### [The changing face of change management](https://www.linkedin.com/learning/it-service-management-foundations-change-management/the-changing-face-of-change-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -324,9 +318,9 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/it-service-management-foundations-change-management/the-changing-face-of-change-management?u=76281980&t=13)** I'll discuss the biggest three.
 >
-> **[0:14](https://www.linkedin.com/learning/it-service-management-foundations-change-management/the-changing-face-of-change-management?u=76281980&t=14)** ITIL, ISO 20000-1, and COBIT.
+> **[0:14](https://www.linkedin.com/learning/it-service-management-foundations-change-management/the-changing-face-of-change-management?u=76281980&t=14)** [[ITIL]], ISO 20000-1, and COBIT.
 >
-> **[0:20](https://www.linkedin.com/learning/it-service-management-foundations-change-management/the-changing-face-of-change-management?u=76281980&t=20)** Possibly the most well-known IT service management implementation is ITIL.
+> **[0:20](https://www.linkedin.com/learning/it-service-management-foundations-change-management/the-changing-face-of-change-management?u=76281980&t=20)** Possibly the most well-known [[IT Service Management]] implementation is ITIL.
 >
 > **[0:25](https://www.linkedin.com/learning/it-service-management-foundations-change-management/the-changing-face-of-change-management?u=76281980&t=25)** The IT infrastructure library.
 >
@@ -378,7 +372,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/it-service-management-foundations-change-management/the-changing-face-of-change-management?u=76281980&t=147)** It can be whatever's relevant for a given change.
 >
-> **[2:31](https://www.linkedin.com/learning/it-service-management-foundations-change-management/the-changing-face-of-change-management?u=76281980&t=151)** In configuration management, they also removed the requirement for a configuration management database.
+> **[2:31](https://www.linkedin.com/learning/it-service-management-foundations-change-management/the-changing-face-of-change-management?u=76281980&t=151)** In [[Configuration Management]], they also removed the requirement for a configuration management database.
 >
 > **[2:36](https://www.linkedin.com/learning/it-service-management-foundations-change-management/the-changing-face-of-change-management?u=76281980&t=156)** They just require you to track configuration information.
 >
@@ -388,7 +382,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/it-service-management-foundations-change-management/the-changing-face-of-change-management?u=76281980&t=170)** COBIT stands for Control Objectives For Information and Related Technology.
 >
-> **[2:55](https://www.linkedin.com/learning/it-service-management-foundations-change-management/the-changing-face-of-change-management?u=76281980&t=175)** It's a framework created by the ISACA or Information Systems Audit and Control Association for IT governance and management.
+> **[2:55](https://www.linkedin.com/learning/it-service-management-foundations-change-management/the-changing-face-of-change-management?u=76281980&t=175)** It's a framework created by the ISACA or Information Systems Audit and Control Association for [[IT Governance]] and management.
 >
 > **[3:03](https://www.linkedin.com/learning/it-service-management-foundations-change-management/the-changing-face-of-change-management?u=76281980&t=183)** It consists of smiling auditors just like this one.
 >
@@ -412,7 +406,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (10), [[ITIL]] (8), [[IT Service Management]] (3), [[Configuration Management]] (2), product (1)
+> **Frameworks & Libraries:** [[ITIL]] (8), [[IT Service Management]] (3), [[Configuration Management]] (2), [[IT Governance]] (1)
 > **Env Vars:** itil (8), cobit (5), itsm (2), iso (2), cab (1)
 > **Versions:** 8.5 (1), 5.1 (1)
 > **Definitions:** stands for (1), is a  (1)
@@ -425,8 +419,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Change management overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-overview?u=76281980)
+#### [Change management overview](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -494,7 +487,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-overview?u=76281980&t=158)** You may need preliminary approval even for a pre-production environment.
 >
-> **[2:43](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-overview?u=76281980&t=163)** You may have multiple windows to make the change.
+> **[2:43](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-overview?u=76281980&t=163)** You may have multiple [[Windows]] to make the change.
 >
 > **[2:45](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-overview?u=76281980&t=165)** Don't confuse process with reality.
 >
@@ -518,14 +511,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (5), next (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **CLI Commands:** make (6)
 > **Env Vars:** itsm (1), dora (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Change management roles
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-roles?u=76281980)
+#### [Change management roles](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-roles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -557,7 +549,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-roles?u=76281980&t=86)** I have trouble keeping on top of all the changes that just my team generates.
 >
-> **[1:30](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-roles?u=76281980&t=90)** The Puppet "State of DevOps Report" found this approach to be unwise.
+> **[1:30](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-roles?u=76281980&t=90)** The Puppet "State of [[DevOps]] Report" found this approach to be unwise.
 >
 > **[1:36](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-roles?u=76281980&t=96)** Change generation, management, and approval should be as decentralized as you can, not just to maintain velocity, but also so that the people managing those changes know what they're talking about and can make good decisions.
 >
@@ -587,14 +579,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (3), game (1), next (1), [[Automation]] (1), [[DevOps]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** cab (2), itsm (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prepare the change
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-change-management/prepare-the-change?u=76281980)
+#### [Prepare the change](https://www.linkedin.com/learning/it-service-management-foundations-change-management/prepare-the-change?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -634,7 +625,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/it-service-management-foundations-change-management/prepare-the-change?u=76281980&t=124)** But this is a process discipline that starts well prior to the traditional change management process and needs all the technologists in the organization to understand its importance and take the time to add the context needed as they do their work.
 >
-> **[2:20](https://www.linkedin.com/learning/it-service-management-foundations-change-management/prepare-the-change?u=76281980&t=140)** On my software development team, every piece of code starts with a JIRA ticket.
+> **[2:20](https://www.linkedin.com/learning/it-service-management-foundations-change-management/prepare-the-change?u=76281980&t=140)** On my [[Software Development]] team, every piece of code starts with a [[Jira]] ticket.
 >
 > **[2:25](https://www.linkedin.com/learning/it-service-management-foundations-change-management/prepare-the-change?u=76281980&t=145)** Every line of code is committed to a get source code repository with a comment containing that ticket number.
 >
@@ -646,7 +637,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/it-service-management-foundations-change-management/prepare-the-change?u=76281980&t=168)** So you can have forward and backward traceability.
 >
-> **[2:51](https://www.linkedin.com/learning/it-service-management-foundations-change-management/prepare-the-change?u=76281980&t=171)** You can check out the course, DevOps Foundations, Continuous Integration, Continuous Delivery here in the library for more on that topic.
+> **[2:51](https://www.linkedin.com/learning/it-service-management-foundations-change-management/prepare-the-change?u=76281980&t=171)** You can check out the course, [[DevOps]] Foundations, [[Continuous Integration (CI)|Continuous Integration]], [[Continuous Delivery (CD)|Continuous Delivery]] here in the library for more on that topic.
 >
 > **[3:00](https://www.linkedin.com/learning/it-service-management-foundations-change-management/prepare-the-change?u=76281980&t=180)** Always remember, the change management process isn't the start, it's at the end of the relay race of your software or systems implementation process and it needs to smoothly take the handoff in order to gain its full benefits.
 >
@@ -654,7 +645,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (3), [[Engineering]] (1), [[Security]] (1), [[Software Development]] (1), [[Jira]] (1)
+> **Frameworks & Libraries:** [[Software Development]] (1), [[Jira]] (1), [[DevOps]] (1), [[Continuous Integration (CI)|Continuous integration]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1)
 > **Env Vars:** pci (2), dss (1), jira (1)
 > **CLI Commands:** make (2)
 > **Documentation:** spec (1)
@@ -663,8 +654,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Validate the change
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-change-management/validate-the-change?u=76281980)
+#### [Validate the change](https://www.linkedin.com/learning/it-service-management-foundations-change-management/validate-the-change?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -680,11 +670,11 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/it-service-management-foundations-change-management/validate-the-change?u=76281980&t=33)** In IT, you have various kinds of changes that people can be making.
 >
-> **[0:37](https://www.linkedin.com/learning/it-service-management-foundations-change-management/validate-the-change?u=76281980&t=37)** Custom applications, your staff, or contractors, right, installations of commercial-off-the-shelf, or COTS, third-party software, hardware or network installation, cloud services, and more.
+> **[0:37](https://www.linkedin.com/learning/it-service-management-foundations-change-management/validate-the-change?u=76281980&t=37)** Custom applications, your staff, or contractors, right, installations of commercial-off-the-shelf, or COTS, third-party software, [[Hardware]] or network installation, [[Cloud Services]], and more.
 >
 > **[0:49](https://www.linkedin.com/learning/it-service-management-foundations-change-management/validate-the-change?u=76281980&t=49)** And you want to test them for their fitness.
 >
-> **[0:52](https://www.linkedin.com/learning/it-service-management-foundations-change-management/validate-the-change?u=76281980&t=52)** Some of these, like application development, have a fairly detailed body of practice for testing them that's grown up around their process.
+> **[0:52](https://www.linkedin.com/learning/it-service-management-foundations-change-management/validate-the-change?u=76281980&t=52)** Some of these, like [[Application Development]], have a fairly detailed body of practice for testing them that's grown up around their process.
 >
 > **[0:59](https://www.linkedin.com/learning/it-service-management-foundations-change-management/validate-the-change?u=76281980&t=59)** Others less so.
 >
@@ -710,7 +700,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/it-service-management-foundations-change-management/validate-the-change?u=76281980&t=131)** For third-party software, has it been tested on all the different configurations you have?
 >
-> **[2:16](https://www.linkedin.com/learning/it-service-management-foundations-change-management/validate-the-change?u=76281980&t=136)** A desktop tool that's planned for Mac and Windows users should have been tested on various versions to make sure entire classes of user won't be adversely effected.
+> **[2:16](https://www.linkedin.com/learning/it-service-management-foundations-change-management/validate-the-change?u=76281980&t=136)** A desktop tool that's planned for Mac and [[Windows]] users should have been tested on various versions to make sure entire classes of user won't be adversely effected.
 >
 > **[2:27](https://www.linkedin.com/learning/it-service-management-foundations-change-management/validate-the-change?u=76281980&t=147)** It wouldn't hurt to check its performance and compliance, too.
 >
@@ -762,14 +752,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (3), application (3), cloud (2), [[Application Development]] (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[Application Development]] (2), [[Cloud Services]] (1), [[Windows]] (1)
 > **CLI Commands:** make (8)
 > **Definitions:** is a  (1), in other words (1)
 > **Env Vars:** cots (1)
 > **Speakers:** - [narrator] (1)
 
-#### Request the change
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-change-management/request-the-change?u=76281980)
+#### [Request the change](https://www.linkedin.com/learning/it-service-management-foundations-change-management/request-the-change?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -803,7 +792,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/it-service-management-foundations-change-management/request-the-change?u=76281980&t=52)** Just most of those changes are considered either pre-production or not risky or not on a controlled system or whatever.
 >
-> **[0:59](https://www.linkedin.com/learning/it-service-management-foundations-change-management/request-the-change?u=76281980&t=59)** But every word you type into something is a change.
+> **[0:59](https://www.linkedin.com/learning/it-service-management-foundations-change-management/request-the-change?u=76281980&t=59)** But every [[Microsoft Word|word]] you type into something is a change.
 >
 > **[1:04](https://www.linkedin.com/learning/it-service-management-foundations-change-management/request-the-change?u=76281980&t=64)** It's in your best interest to make as many changes as you can safe enough to become routine changes.
 >
@@ -811,7 +800,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/it-service-management-foundations-change-management/request-the-change?u=76281980&t=77)** If you habitually make small changes, they're easier to understand and control, test and roll back.
 >
-> **[1:23](https://www.linkedin.com/learning/it-service-management-foundations-change-management/request-the-change?u=76281980&t=83)** Small batches are the fundamental building block of an effective and agile organization.
+> **[1:23](https://www.linkedin.com/learning/it-service-management-foundations-change-management/request-the-change?u=76281980&t=83)** Small batches are the fundamental building block of an effective and [[Agile Development|agile]] organization.
 >
 > **[1:29](https://www.linkedin.com/learning/it-service-management-foundations-change-management/request-the-change?u=76281980&t=89)** So instead of punishing small changes by making them go through a heavy change approval process, we recognize their inherent safety.
 >
@@ -869,7 +858,7 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/it-service-management-foundations-change-management/request-the-change?u=76281980&t=233)** At this point, you'll probably want a tool to lodge these change requests so you can have some consistency in filling them out, route them to approvers, and so on.
 >
-> **[4:01](https://www.linkedin.com/learning/it-service-management-foundations-change-management/request-the-change?u=76281980&t=241)** ServiceNow and Jira are the two most common among enterprises I've worked with, but there's many more.
+> **[4:01](https://www.linkedin.com/learning/it-service-management-foundations-change-management/request-the-change?u=76281980&t=241)** ServiceNow and [[Jira]] are the two most common among enterprises I've worked with, but there's many more.
 >
 > **[4:07](https://www.linkedin.com/learning/it-service-management-foundations-change-management/request-the-change?u=76281980&t=247)** Anything will work.
 >
@@ -899,7 +888,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (2), hit (1), [[Microsoft Word|Word]] (1), [[Agile Development|Agile]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Agile Development|Agile]] (1), [[Jira]] (1)
 > **CLI Commands:** make (10)
 > **Definitions:** is a  (2), known as (1)
 > **Tools:** jira (1)
@@ -907,8 +896,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Approve the change
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-change-management/approve-the-change?u=76281980)
+#### [Approve the change](https://www.linkedin.com/learning/it-service-management-foundations-change-management/approve-the-change?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -950,7 +938,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/it-service-management-foundations-change-management/approve-the-change?u=76281980&t=116)** This is even faster with higher quality and guaranteed traceability.
 >
-> **[2:01](https://www.linkedin.com/learning/it-service-management-foundations-change-management/approve-the-change?u=76281980&t=121)** At that same cybersecurity company, we did a lot of this with runbook automation using a runbook automation tool called Rundeck, available in commercial or open source versions.
+> **[2:01](https://www.linkedin.com/learning/it-service-management-foundations-change-management/approve-the-change?u=76281980&t=121)** At that same [[Cybersecurity]] company, we did a lot of this with runbook automation using a runbook automation tool called Rundeck, available in commercial or open source versions.
 >
 > **[2:13](https://www.linkedin.com/learning/it-service-management-foundations-change-management/approve-the-change?u=76281980&t=133)** We had all kinds of standard system rebuilds, restarts, backups, and such built into it as code.
 >
@@ -1006,11 +994,11 @@ created: 2026-05-02
 >
 > **[5:11](https://www.linkedin.com/learning/it-service-management-foundations-change-management/approve-the-change?u=76281980&t=311)** Others usually should be either informed or consulted as part of the change preparation.
 >
-> **[5:17](https://www.linkedin.com/learning/it-service-management-foundations-change-management/approve-the-change?u=76281980&t=317)** But too many approvers is usually a sign of dysfunction in an attempt to spread around or cloud real accountability.
+> **[5:17](https://www.linkedin.com/learning/it-service-management-foundations-change-management/approve-the-change?u=76281980&t=317)** But too many approvers is usually a sign of dysfunction in an attempt to spread around or cloud real [[Accountability]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (3), [[Security]] (3), [[Automation]] (2), [[Cybersecurity]] (1), business (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1), [[Accountability]] (1)
 > **Env Vars:** raci (2)
 > **Cross-References:** earlier in (2)
 > **CLI Commands:** make (1)
@@ -1018,8 +1006,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Schedule the change
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-change-management/schedule-the-change?u=76281980)
+#### [Schedule the change](https://www.linkedin.com/learning/it-service-management-foundations-change-management/schedule-the-change?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1037,13 +1024,13 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/it-service-management-foundations-change-management/schedule-the-change?u=76281980&t=33)** So, depending on the organization and service, an approval may just be a yes, and now whoever applies changes to production should figure out when, or it may be a yes, but it has to happen at a certain time.
 >
-> **[0:47](https://www.linkedin.com/learning/it-service-management-foundations-change-management/schedule-the-change?u=76281980&t=47)** You may have pre-established change or maintenance windows for your service that constrain your choices.
+> **[0:47](https://www.linkedin.com/learning/it-service-management-foundations-change-management/schedule-the-change?u=76281980&t=47)** You may have pre-established change or maintenance [[Windows]] for your service that constrain your choices.
 >
 > **[0:54](https://www.linkedin.com/learning/it-service-management-foundations-change-management/schedule-the-change?u=76281980&t=54)** This will be impacted by the downtime requirements and risk profile of the change.
 >
 > **[0:59](https://www.linkedin.com/learning/it-service-management-foundations-change-management/schedule-the-change?u=76281980&t=59)** Changes not requiring downtime and low on risk can usually be done anytime.
 >
-> **[1:04](https://www.linkedin.com/learning/it-service-management-foundations-change-management/schedule-the-change?u=76281980&t=64)** Most mature, continuous delivery pipelines do this and push code changes to production as they're tested.
+> **[1:04](https://www.linkedin.com/learning/it-service-management-foundations-change-management/schedule-the-change?u=76281980&t=64)** Most mature, [[Continuous Delivery (CD)|continuous delivery]] pipelines do this and push code changes to production as they're tested.
 >
 > **[1:11](https://www.linkedin.com/learning/it-service-management-foundations-change-management/schedule-the-change?u=76281980&t=71)** Or, an IT department may release new OS patches for users that'll be applied whenever they decide to next restart their desktop.
 >
@@ -1093,14 +1080,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (1), next (1), feature (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (1)
 > **CLI Commands:** make (6)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Communicate the change
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-change-management/communicate-the-change?u=76281980)
+#### [Communicate the change](https://www.linkedin.com/learning/it-service-management-foundations-change-management/communicate-the-change?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1136,13 +1122,13 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/it-service-management-foundations-change-management/communicate-the-change?u=76281980&t=95)** For technical audiences being very specific in linking to tickets, code commits or further details is appreciated.
 >
-> **[1:44](https://www.linkedin.com/learning/it-service-management-foundations-change-management/communicate-the-change?u=76281980&t=104)** As for when you communicate it, usually you'll communicate it in two windows, before the change with just enough lead time for people to prepare, but not too far before because people forget, and immediately upon making the change so that they know what really happened.
+> **[1:44](https://www.linkedin.com/learning/it-service-management-foundations-change-management/communicate-the-change?u=76281980&t=104)** As for when you communicate it, usually you'll communicate it in two [[Windows]], before the change with just enough lead time for people to prepare, but not too far before because people forget, and immediately upon making the change so that they know what really happened.
 >
 > **[2:04](https://www.linkedin.com/learning/it-service-management-foundations-change-management/communicate-the-change?u=76281980&t=124)** And finally, where, as in what communication channel do you use to communicate?
 >
 > **[2:09](https://www.linkedin.com/learning/it-service-management-foundations-change-management/communicate-the-change?u=76281980&t=129)** This is tricky.
 >
-> **[2:10](https://www.linkedin.com/learning/it-service-management-foundations-change-management/communicate-the-change?u=76281980&t=130)** You want channels to get the word out but don't get ignored due to noisiness.
+> **[2:10](https://www.linkedin.com/learning/it-service-management-foundations-change-management/communicate-the-change?u=76281980&t=130)** You want channels to get the [[Microsoft Word|word]] out but don't get ignored due to noisiness.
 >
 > **[2:15](https://www.linkedin.com/learning/it-service-management-foundations-change-management/communicate-the-change?u=76281980&t=135)** Emails about upcoming changes are not as effective as you'd like.
 >
@@ -1168,7 +1154,7 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/it-service-management-foundations-change-management/communicate-the-change?u=76281980&t=220)** Let people opt out if they want but don't skimp.
 >
-> **[3:44](https://www.linkedin.com/learning/it-service-management-foundations-change-management/communicate-the-change?u=76281980&t=224)** I remember when I had been working as a release manager for a SAS company for a short time, a business side VP called me into her office to talk.
+> **[3:44](https://www.linkedin.com/learning/it-service-management-foundations-change-management/communicate-the-change?u=76281980&t=224)** I remember when I had been working as a release manager for a SAS company for a short time, a business side VP called me into her [[Microsoft Office|office]] to talk.
 >
 > **[3:52](https://www.linkedin.com/learning/it-service-management-foundations-change-management/communicate-the-change?u=76281980&t=232)** I didn't know what to expect, but she told me that she and her people were getting better communication about our releases and what was going into them than she'd ever had at that company.
 >
@@ -1188,15 +1174,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), management (2), [[Windows]] (1), [[Microsoft Word|Word]] (1), teams (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Microsoft Word|Word]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** sas (2)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Perform the change
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-change-management/perform-the-change?u=76281980)
+#### [Perform the change](https://www.linkedin.com/learning/it-service-management-foundations-change-management/perform-the-change?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1250,7 +1235,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/it-service-management-foundations-change-management/perform-the-change?u=76281980&t=96)** Focus on really reducing the risk where it matters in the change itself.
 >
-> **[1:42](https://www.linkedin.com/learning/it-service-management-foundations-change-management/perform-the-change?u=76281980&t=102)** Adopting DevOps practices continuous delivery infrastructure as code can allow you to do this regardless of your business type or technical stack.
+> **[1:42](https://www.linkedin.com/learning/it-service-management-foundations-change-management/perform-the-change?u=76281980&t=102)** Adopting [[DevOps]] practices [[Continuous Delivery (CD)|continuous delivery]] [[Infrastructure as code (IaC)|infrastructure as code]] can allow you to do this regardless of your business type or technical stack.
 >
 > **[1:51](https://www.linkedin.com/learning/it-service-management-foundations-change-management/perform-the-change?u=76281980&t=111)** The DevOps fundamental series of courses here in the library can help you with continually testing and releasing small bits of code, treating infrastructure changes as code and monitoring for issues from your changes.
 >
@@ -1290,14 +1275,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), traffic (3), [[DevOps]] (2), game (1), [[Continuous Delivery (CD)|Continuous delivery]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Infrastructure as code (IaC)|Infrastructure as code]] (1)
 > **CLI Commands:** make (9)
 > **Definitions:** is an  (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Track the change
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-change-management/track-the-change?u=76281980)
+#### [Track the change](https://www.linkedin.com/learning/it-service-management-foundations-change-management/track-the-change?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1337,7 +1321,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/it-service-management-foundations-change-management/track-the-change?u=76281980&t=93)** This isn't the place for paragraphs of detail.
 >
-> **[1:37](https://www.linkedin.com/learning/it-service-management-foundations-change-management/track-the-change?u=76281980&t=97)** And finally, it needs to be heavily cross-linked to other technical artifacts, tickets, builds, release notes, other databases, and so on to most effectively serve those audit and operational goals.
+> **[1:37](https://www.linkedin.com/learning/it-service-management-foundations-change-management/track-the-change?u=76281980&t=97)** And finally, it needs to be heavily cross-linked to other technical artifacts, tickets, builds, release notes, other [[Databases]], and so on to most effectively serve those audit and operational goals.
 >
 > **[1:51](https://www.linkedin.com/learning/it-service-management-foundations-change-management/track-the-change?u=76281980&t=111)** Change tracking systems can be basic as long as they're easy for people and computers to put messages into and they're readily available for everyone to read.
 >
@@ -1345,11 +1329,11 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/it-service-management-foundations-change-management/track-the-change?u=76281980&t=126)** You'd send in an email with a specially formatted subject line, and then you could search on the who, when, and what systems were affected.
 >
-> **[2:15](https://www.linkedin.com/learning/it-service-management-foundations-change-management/track-the-change?u=76281980&t=135)** More recently, I've been at places that have used chat systems like Slack for this.
+> **[2:15](https://www.linkedin.com/learning/it-service-management-foundations-change-management/track-the-change?u=76281980&t=135)** More recently, I've been at places that have used chat systems like [[Slack]] for this.
 >
 > **[2:20](https://www.linkedin.com/learning/it-service-management-foundations-change-management/track-the-change?u=76281980&t=140)** Once we used the event stream in the monitoring product Datadog where we could log events via a GUI, or from chat, or from a command line script, or via API inside our build system and runbooks.
 >
-> **[2:33](https://www.linkedin.com/learning/it-service-management-foundations-change-management/track-the-change?u=76281980&t=153)** You may be tempted to use your ticketing system, like Jira or ServiceNow, as the change tracking system.
+> **[2:33](https://www.linkedin.com/learning/it-service-management-foundations-change-management/track-the-change?u=76281980&t=153)** You may be tempted to use your ticketing system, like [[Jira]] or ServiceNow, as the change tracking system.
 >
 > **[2:39](https://www.linkedin.com/learning/it-service-management-foundations-change-management/track-the-change?u=76281980&t=159)** This is usually problematic.
 >
@@ -1381,14 +1365,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Automation]] (1), [[Databases]] (1), database (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[Slack]] (1), [[Jira]] (1)
 > **Tools:** slack (1), command line (1), jira (1)
 > **Env Vars:** gui (1), api (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Review the change
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-change-management/review-the-change?u=76281980)
+#### [Review the change](https://www.linkedin.com/learning/it-service-management-foundations-change-management/review-the-change?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1434,7 +1417,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/it-service-management-foundations-change-management/review-the-change?u=76281980&t=112)** Too much change control can actually reduce your successful change rate.
 >
-> **[1:56](https://www.linkedin.com/learning/it-service-management-foundations-change-management/review-the-change?u=76281980&t=116)** As people react to the delay like any other defect in the system, and try to route around it, by making risky changes, and standard changes.
+> **[1:56](https://www.linkedin.com/learning/it-service-management-foundations-change-management/review-the-change?u=76281980&t=116)** As people [[React.js|react]] to the delay like any other defect in the system, and try to route around it, by making risky changes, and standard changes.
 >
 > **[2:04](https://www.linkedin.com/learning/it-service-management-foundations-change-management/review-the-change?u=76281980&t=124)** Lumping more than one change request because of the overhead in getting an approval.
 >
@@ -1482,9 +1465,9 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/it-service-management-foundations-change-management/review-the-change?u=76281980&t=225)** And finally, retrospect, individual changes.
 >
-> **[3:49](https://www.linkedin.com/learning/it-service-management-foundations-change-management/review-the-change?u=76281980&t=229)** This is most frequently done when changes go wrong, often as part of an incident response.
+> **[3:49](https://www.linkedin.com/learning/it-service-management-foundations-change-management/review-the-change?u=76281980&t=229)** This is most frequently done when changes go wrong, often as part of an [[Incident Response]].
 >
-> **[3:55](https://www.linkedin.com/learning/it-service-management-foundations-change-management/review-the-change?u=76281980&t=235)** While you can learn more about that in the related courses, DevOps Foundations Incident Management, and DevOps Foundations Effective Postmortems, here in the library.
+> **[3:55](https://www.linkedin.com/learning/it-service-management-foundations-change-management/review-the-change?u=76281980&t=235)** While you can learn more about that in the related courses, [[DevOps]] Foundations Incident Management, and DevOps Foundations Effective Postmortems, here in the library.
 >
 > **[4:04](https://www.linkedin.com/learning/it-service-management-foundations-change-management/review-the-change?u=76281980&t=244)** Don't limit your reviews to breaking changes.
 >
@@ -1506,7 +1489,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (4), [[DevOps]] (2), [[React.js|React]] (1), [[Incident Response]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (2), [[React.js|React]] (1), [[Incident Response]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
 > **Env Vars:** dora (1)
@@ -1515,8 +1498,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Challenge: Creating your own change management process
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-change-management/challenge-creating-your-own-change-management-process?u=76281980)
+#### [Challenge: Creating your own change management process](https://www.linkedin.com/learning/it-service-management-foundations-change-management/challenge-creating-your-own-change-management-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1560,15 +1542,15 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/it-service-management-foundations-change-management/challenge-creating-your-own-change-management-process?u=76281980&t=115)** Tool-wise I find that many people just use their ticketing system.
 >
-> **[1:58](https://www.linkedin.com/learning/it-service-management-foundations-change-management/challenge-creating-your-own-change-management-process?u=76281980&t=118)** Jira or Remedy or Zendesk are similar and add change approvals into their workflow.
+> **[1:58](https://www.linkedin.com/learning/it-service-management-foundations-change-management/challenge-creating-your-own-change-management-process?u=76281980&t=118)** [[Jira]] or Remedy or Zendesk are similar and add change approvals into their workflow.
 >
-> **[2:05](https://www.linkedin.com/learning/it-service-management-foundations-change-management/challenge-creating-your-own-change-management-process?u=76281980&t=125)** Others use IT process automation software where service now is probably the single most popular along with Alemba and many more.
+> **[2:05](https://www.linkedin.com/learning/it-service-management-foundations-change-management/challenge-creating-your-own-change-management-process?u=76281980&t=125)** Others use [[IT Process Automation]] software where service now is probably the single most popular along with Alemba and many more.
 >
 > **[2:14](https://www.linkedin.com/learning/it-service-management-foundations-change-management/challenge-creating-your-own-change-management-process?u=76281980&t=134)** Just about every large software vendor has one that they'll sell you.
 >
 > **[2:18](https://www.linkedin.com/learning/it-service-management-foundations-change-management/challenge-creating-your-own-change-management-process?u=76281980&t=138)** I only find this necessary in the most complex and possibly over complex environments.
 >
-> **[2:24](https://www.linkedin.com/learning/it-service-management-foundations-change-management/challenge-creating-your-own-change-management-process?u=76281980&t=144)** For example, my last job our change tooling was just Jira for work tracking, change request, and approval, integration into Slack and email for communication, integration and to get hub and Travis CI to trace developer changes through the pipeline and a dedicated Slack channel for change tracking.
+> **[2:24](https://www.linkedin.com/learning/it-service-management-foundations-change-management/challenge-creating-your-own-change-management-process?u=76281980&t=144)** For example, my last job our change tooling was just Jira for work tracking, change request, and approval, integration into [[Slack]] and email for communication, integration and to get hub and Travis CI to trace developer changes through the pipeline and a dedicated Slack channel for change tracking.
 >
 > **[2:42](https://www.linkedin.com/learning/it-service-management-foundations-change-management/challenge-creating-your-own-change-management-process?u=76281980&t=162)** And that was it.
 >
@@ -1586,7 +1568,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/it-service-management-foundations-change-management/challenge-creating-your-own-change-management-process?u=76281980&t=197)** Would be a director.
 >
-> **[3:19](https://www.linkedin.com/learning/it-service-management-foundations-change-management/challenge-creating-your-own-change-management-process?u=76281980&t=199)** Re-word things so all your audience can understand it.
+> **[3:19](https://www.linkedin.com/learning/it-service-management-foundations-change-management/challenge-creating-your-own-change-management-process?u=76281980&t=199)** Re-[[Microsoft Word|word]] things so all your audience can understand it.
 >
 > **[3:24](https://www.linkedin.com/learning/it-service-management-foundations-change-management/challenge-creating-your-own-change-management-process?u=76281980&t=204)** Second, evaluate it and make a first guess at your successful change rate and change lead time metrics using this process.
 >
@@ -1620,15 +1602,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (7), [[Jira]] (2), [[Slack]] (2), web (1), [[IT Process Automation]] (1)
+> **Frameworks & Libraries:** [[Jira]] (2), [[Slack]] (2), [[IT Process Automation]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2), find (2)
 > **Tools:** jira (2), slack (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (gentle upbeat music) (1)
 
-#### Solution: Example change management processes
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-change-management/solution-example-change-management-processes?u=76281980)
+#### [Solution: Example change management processes](https://www.linkedin.com/learning/it-service-management-foundations-change-management/solution-example-change-management-processes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1666,7 +1647,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/it-service-management-foundations-change-management/solution-example-change-management-processes?u=76281980&t=115)** I then explained how to perform the change.
 >
-> **[1:58](https://www.linkedin.com/learning/it-service-management-foundations-change-management/solution-example-change-management-processes?u=76281980&t=118)** Really just a section on change tracking using our Slack along with a simple change tracking message.
+> **[1:58](https://www.linkedin.com/learning/it-service-management-foundations-change-management/solution-example-change-management-processes?u=76281980&t=118)** Really just a section on change tracking using our [[Slack]] along with a simple change tracking message.
 >
 > **[2:05](https://www.linkedin.com/learning/it-service-management-foundations-change-management/solution-example-change-management-processes?u=76281980&t=125)** It closes with a brief note on change communication.
 >
@@ -1686,7 +1667,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/it-service-management-foundations-change-management/solution-example-change-management-processes?u=76281980&t=179)** The tools used are all mentioned in line here.
 >
-> **[3:01](https://www.linkedin.com/learning/it-service-management-foundations-change-management/solution-example-change-management-processes?u=76281980&t=181)** Jira for ticketing, GitHub for the code repo, Slack, and email, and status page for communication.
+> **[3:01](https://www.linkedin.com/learning/it-service-management-foundations-change-management/solution-example-change-management-processes?u=76281980&t=181)** [[Jira]] for ticketing, [[GitHub]] for the code repo, Slack, and email, and status page for communication.
 >
 > **[3:09](https://www.linkedin.com/learning/it-service-management-foundations-change-management/solution-example-change-management-processes?u=76281980&t=189)** So there you go.
 >
@@ -1702,7 +1683,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), management (3), next (2), [[Slack]] (2), cloud (1)
+> **Frameworks & Libraries:** [[Slack]] (2), [[Jira]] (1), [[GitHub]] (1)
 > **Tools:** slack (2), jira (1), github (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
@@ -1716,8 +1697,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Starting change management
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-change-management/starting-change-management?u=76281980)
+#### [Starting change management](https://www.linkedin.com/learning/it-service-management-foundations-change-management/starting-change-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1731,7 +1711,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/it-service-management-foundations-change-management/starting-change-management?u=76281980&t=33)** That's one of the major topics of The Visible Ops Handbook.
 >
-> **[0:37](https://www.linkedin.com/learning/it-service-management-foundations-change-management/starting-change-management?u=76281980&t=37)** It's subtitles implementing ITIL in four practical and audit-able steps, but its primary focus is on change management.
+> **[0:37](https://www.linkedin.com/learning/it-service-management-foundations-change-management/starting-change-management?u=76281980&t=37)** It's subtitles implementing [[ITIL]] in four practical and audit-able steps, but its primary focus is on change management.
 >
 > **[0:46](https://www.linkedin.com/learning/it-service-management-foundations-change-management/starting-change-management?u=76281980&t=46)** It describes four phases to implementing change management in an existing environment.
 >
@@ -1739,7 +1719,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/it-service-management-foundations-change-management/starting-change-management?u=76281980&t=58)** You begin with the systems that are the most fragile and cause the most unplanned work and implement change control on them first.
 >
-> **[1:06](https://www.linkedin.com/learning/it-service-management-foundations-change-management/starting-change-management?u=76281980&t=66)** You reduce or remove access to them, document your new change process, notify stakeholders of the change, create change windows to allow changes to be made the right way and then reinforce following the process.
+> **[1:06](https://www.linkedin.com/learning/it-service-management-foundations-change-management/starting-change-management?u=76281980&t=66)** You reduce or remove access to them, document your new change process, notify stakeholders of the change, create change [[Windows]] to allow changes to be made the right way and then reinforce following the process.
 >
 > **[1:22](https://www.linkedin.com/learning/it-service-management-foundations-change-management/starting-change-management?u=76281980&t=82)** It can be useful in this phase to do what they call electrifying the fence, which has put tooling in place to detect changes to these systems.
 >
@@ -1751,7 +1731,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/it-service-management-foundations-change-management/starting-change-management?u=76281980&t=116)** Of course, also get incident responders to log the changes they make as these are some of the riskiest changes being made in your environment.
 >
-> **[2:05](https://www.linkedin.com/learning/it-service-management-foundations-change-management/starting-change-management?u=76281980&t=125)** Flush out your change process, identify who you want to approve changes, settle on a change tracking system and get the rest of the basics in place.
+> **[2:05](https://www.linkedin.com/learning/it-service-management-foundations-change-management/starting-change-management?u=76281980&t=125)** Flush out your change process, identify who you want to approve changes, settle on a change tracking system and get the [[Representational State Transfer (REST)|rest]] of the basics in place.
 >
 > **[2:15](https://www.linkedin.com/learning/it-service-management-foundations-change-management/starting-change-management?u=76281980&t=135)** This first phase should help you get your availability up and the amount of time team spend on unplanned work down.
 >
@@ -1761,7 +1741,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/it-service-management-foundations-change-management/starting-change-management?u=76281980&t=157)** If you have a fundamentally uncontrolled environment where you don't even know what all services even exist, let alone what business functions depend on them or how they're monitored and maintained, it's time to correct that.
 >
-> **[2:51](https://www.linkedin.com/learning/it-service-management-foundations-change-management/starting-change-management?u=76281980&t=171)** In the olden days, this was done with a central configuration management database or CMDB.
+> **[2:51](https://www.linkedin.com/learning/it-service-management-foundations-change-management/starting-change-management?u=76281980&t=171)** In the olden days, this was done with a central [[Configuration Management]] database or CMDB.
 >
 > **[2:59](https://www.linkedin.com/learning/it-service-management-foundations-change-management/starting-change-management?u=76281980&t=179)** In most organizations today, the number and diversity of computing assets make that in feasible and more distributed and automated approaches are necessary, but you still need some kind of service registry that lets people understand the high-level dependencies between your systems.
 >
@@ -1769,7 +1749,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/it-service-management-foundations-change-management/starting-change-management?u=76281980&t=217)** Phase three is create a repeatable build library.
 >
-> **[3:41](https://www.linkedin.com/learning/it-service-management-foundations-change-management/starting-change-management?u=76281980&t=221)** This involves focusing on repeatable build processes and automating system configuration, so that you have more reliability in the changes you intend to release to production and have additional discipline around that production release?
+> **[3:41](https://www.linkedin.com/learning/it-service-management-foundations-change-management/starting-change-management?u=76281980&t=221)** This involves focusing on repeatable build processes and automating [[System Configuration]], so that you have more reliability in the changes you intend to release to production and have additional discipline around that production release?
 >
 > **[3:56](https://www.linkedin.com/learning/it-service-management-foundations-change-management/starting-change-management?u=76281980&t=236)** Close the loop by ensuring that production changes are reflected in pre-production environments as well, so change validation can be accurate.
 >
@@ -1789,14 +1769,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (4), [[Automation]] (2), [[ITIL]] (1), [[Windows]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[ITIL]] (1), [[Windows]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Configuration Management]] (1), [[System Configuration]] (1)
 > **CLI Commands:** make (4), find (2)
 > **Env Vars:** itil (1), cmdb (1)
 > **Definitions:** is called (1), is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Change management antipatterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-antipatterns?u=76281980)
+#### [Change management antipatterns](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-antipatterns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1810,7 +1789,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-antipatterns?u=76281980&t=40)** At a technical level, that's implementing change detection and making changes automated.
 >
-> **[0:46](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-antipatterns?u=76281980&t=46)** And at a staff level, straightforward accountability for people who don't follow the process.
+> **[0:46](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-antipatterns?u=76281980&t=46)** And at a staff level, straightforward [[Accountability]] for people who don't follow the process.
 >
 > **[0:53](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-antipatterns?u=76281980&t=53)** But this is usually a starter problem.
 >
@@ -1824,23 +1803,23 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-antipatterns?u=76281980&t=89)** But more gates and a heavier process don't actually reduce risks, they increase it.
 >
-> **[1:35](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-antipatterns?u=76281980&t=95)** The Accelerate State of DevOps 2019 survey found that heavyweight change processes hindered both speed and stability.
+> **[1:35](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-antipatterns?u=76281980&t=95)** The Accelerate State of [[DevOps]] 2019 survey found that heavyweight change processes hindered both speed and stability.
 >
 > **[1:45](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-antipatterns?u=76281980&t=105)** In their research, respondents using change advisory boards or other heavy approval processes were 2.6 times more likely to be low performers and see an increase in change failure rates, largely because it promotes releasing larger batches more slowly.
 >
-> **[2:04](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-antipatterns?u=76281980&t=124)** The previous incarnations of the big process frameworks were strongly prescriptive and recommended heavy centralized models with rigid configuration management databases and distant change advisory boards to perform change management.
+> **[2:04](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-antipatterns?u=76281980&t=124)** The previous incarnations of the big process frameworks were strongly prescriptive and recommended heavy centralized models with rigid [[Configuration Management]] [[Databases]] and distant change advisory boards to perform change management.
 >
-> **[2:20](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-antipatterns?u=76281980&t=140)** This approach translated from the language of ITIL, which I will not utter here.
+> **[2:20](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-antipatterns?u=76281980&t=140)** This approach translated from the language of [[ITIL]], which I will not utter here.
 >
 > **[2:25](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-antipatterns?u=76281980&t=145)** In the common tongue it says, "One CMDB to rule them all, one CAB to bind them, one process to bring them all and in the darkness bind them."
 >
-> **[2:38](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-antipatterns?u=76281980&t=158)** But in their latest updated versions, they're allowing for distributed agile ways of fulfilling these needs, reflecting both the fact that computing has changed over the last decade and brave sacrifice of numerous habits.
+> **[2:38](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-antipatterns?u=76281980&t=158)** But in their latest updated versions, they're allowing for distributed [[Agile Development|agile]] ways of fulfilling these needs, reflecting both the fact that computing has changed over the last decade and brave sacrifice of numerous habits.
 >
 > **[2:52](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-antipatterns?u=76281980&t=172)** ISO doesn't require a CMDB anymore.
 >
 > **[2:55](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-antipatterns?u=76281980&t=175)** ITIL doesn't require a CAB.
 >
-> **[2:58](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-antipatterns?u=76281980&t=178)** And COBIT says can get audit compliance with DevOps and continuous delivery processes just fine.
+> **[2:58](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-antipatterns?u=76281980&t=178)** And COBIT says can get audit compliance with DevOps and [[Continuous Delivery (CD)|continuous delivery]] processes just fine.
 >
 > **[3:05](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-antipatterns?u=76281980&t=185)** So if you're in one of those orgs that's been ignoring new successful practices for a decade because they value adherence to one of these process frameworks more than what works, you're in luck.
 >
@@ -1868,9 +1847,9 @@ created: 2026-05-02
 >
 > **[4:27](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-antipatterns?u=76281980&t=267)** Ideally coupled with automatic deployments, qualifies.
 >
-> **[4:33](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-antipatterns?u=76281980&t=273)** The book "Lean Enterprise" has a good case study on how the e-commerce site Etsy implemented PCI DSS separation of duties with simple peer reviews.
+> **[4:33](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-antipatterns?u=76281980&t=273)** The book "Lean Enterprise" has a good case study on how the [[E-Commerce]] site Etsy implemented PCI DSS separation of duties with simple peer reviews.
 >
-> **[4:44](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-antipatterns?u=76281980&t=284)** When I worked at AT&T Cybersecurity, we passed audits from SOX to PCI to SOC 2 to HIPAA to ISO to FedRAMP using a fundamentally continuous delivery DevOps-based model where individual code and infrastructure changes were reviewed and approved by other engineers and automatically tested and deployed with only high-risk changes being flagged for additional review.
+> **[4:44](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-antipatterns?u=76281980&t=284)** When I worked at AT&T [[Cybersecurity]], we passed audits from SOX to PCI to SOC 2 to HIPAA to ISO to FedRAMP using a fundamentally continuous delivery DevOps-based model where individual code and infrastructure changes were reviewed and approved by other engineers and automatically tested and deployed with only high-risk changes being flagged for additional review.
 >
 > **[5:09](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-antipatterns?u=76281980&t=309)** We didn't need a full-time change manager or a change review board to interact with individual changes.
 >
@@ -1884,13 +1863,13 @@ created: 2026-05-02
 >
 > **[5:58](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-antipatterns?u=76281980&t=358)** Then shift your CABs over to doing strategic process-improvement work and business policy decisions based on the current state of change risk in your organization instead of doing individual change approvals.
 >
-> **[6:13](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-antipatterns?u=76281980&t=373)** The DORA team at Google has developed a lot of publicly available guidance on streamlining change approval that you can dig into in detail for more ideas.
+> **[6:13](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-antipatterns?u=76281980&t=373)** The DORA team at [[Google]] has developed a lot of publicly available guidance on streamlining change approval that you can dig into in detail for more ideas.
 >
 > **[6:23](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-antipatterns?u=76281980&t=383)** Remember, to paraphrase Princess Leia throwing shade at Grand Moff Tarkin in "Star Wars," the more you tighten your grip, the more changes slip through your fingers.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (4), management (3), [[ITIL]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (2), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (4), [[ITIL]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (2), [[Accountability]] (1), [[Configuration Management]] (1)
 > **Env Vars:** pci (5), iso (3), cobit (2), itil (2), cmdb (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -1899,8 +1878,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Warnings:** be careful (1)
 
-#### The human cost of change management
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-change-management/the-human-cost-of-change-management?u=76281980)
+#### [The human cost of change management](https://www.linkedin.com/learning/it-service-management-foundations-change-management/the-human-cost-of-change-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1922,7 +1900,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/it-service-management-foundations-change-management/the-human-cost-of-change-management?u=76281980&t=66)** Let's talk about making a clear process.
 >
-> **[1:10](https://www.linkedin.com/learning/it-service-management-foundations-change-management/the-human-cost-of-change-management?u=76281980&t=70)** The Accelerate State of DevOps Report did research on this.
+> **[1:10](https://www.linkedin.com/learning/it-service-management-foundations-change-management/the-human-cost-of-change-management?u=76281980&t=70)** The Accelerate State of [[DevOps]] Report did research on this.
 >
 > **[1:13](https://www.linkedin.com/learning/it-service-management-foundations-change-management/the-human-cost-of-change-management?u=76281980&t=73)** They found the change processes that people understand all the steps of and are confident that they understand how they work are more effective.
 >
@@ -1960,7 +1938,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/it-service-management-foundations-change-management/the-human-cost-of-change-management?u=76281980&t=223)** The Accelerate Report did research on that too.
 >
-> **[3:46](https://www.linkedin.com/learning/it-service-management-foundations-change-management/the-human-cost-of-change-management?u=76281980&t=226)** They found like Google research paper before them that a clear change management process correlated positively to a culture of psychological safety, which correlates to all manner of other positive outcomes.
+> **[3:46](https://www.linkedin.com/learning/it-service-management-foundations-change-management/the-human-cost-of-change-management?u=76281980&t=226)** They found like [[Google]] research paper before them that a clear change management process correlated positively to a culture of psychological safety, which correlates to all manner of other positive outcomes.
 >
 > **[4:01](https://www.linkedin.com/learning/it-service-management-foundations-change-management/the-human-cost-of-change-management?u=76281980&t=241)** And they found clear change control can even reduce burnout, which is a literal killer of technical staff worldwide.
 >
@@ -1982,7 +1960,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (5), cloud (2), [[DevOps]] (1), database (1), data (1)
+> **Frameworks & Libraries:** [[DevOps]] (1), [[Google]] (1)
 > **CLI Commands:** make (10), find (1)
 > **Env Vars:** etto (2)
 > **Versions:** 1.8 (1)
@@ -1990,16 +1968,15 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI and change management
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-change-management/ai-and-change-management-add?u=76281980)
+#### [AI and change management](https://www.linkedin.com/learning/it-service-management-foundations-change-management/ai-and-change-management-add?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-service-management-foundations-change-management/ai-and-change-management-add?u=76281980&t=0)** - And one last word on a late-breaking topic, AI.
+> **[0:00](https://www.linkedin.com/learning/it-service-management-foundations-change-management/ai-and-change-management-add?u=76281980&t=0)** - And one last [[Microsoft Word|word]] on a late-breaking topic, AI.
 >
 > **[0:05](https://www.linkedin.com/learning/it-service-management-foundations-change-management/ai-and-change-management-add?u=76281980&t=5)** There's an AI revolution going on right now in computing.
 >
-> **[0:08](https://www.linkedin.com/learning/it-service-management-foundations-change-management/ai-and-change-management-add?u=76281980&t=8)** Gen AI and large language models are being applied to nearly everything.
+> **[0:08](https://www.linkedin.com/learning/it-service-management-foundations-change-management/ai-and-change-management-add?u=76281980&t=8)** Gen AI and [[Large Language Models (LLM)|large language models]] are being applied to nearly everything.
 >
 > **[0:13](https://www.linkedin.com/learning/it-service-management-foundations-change-management/ai-and-change-management-add?u=76281980&t=13)** How does AI apply to the world of change management?
 >
@@ -2025,7 +2002,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/it-service-management-foundations-change-management/ai-and-change-management-add?u=76281980&t=102)** For example, their change risk prediction feature can calculate a risk credit score for a planned release to help people understand how impactful a given change or batch of changes may be.
 >
-> **[1:54](https://www.linkedin.com/learning/it-service-management-foundations-change-management/ai-and-change-management-add?u=76281980&t=114)** Even my colleague and fellow LinkedIn Learning instructor, Peco Karayanev, has a startup named Autoptic that uses AI on your system telemetry to detect what effect production changes had immediately upon release.
+> **[1:54](https://www.linkedin.com/learning/it-service-management-foundations-change-management/ai-and-change-management-add?u=76281980&t=114)** Even my colleague and fellow [[LinkedIn]] Learning instructor, Peco Karayanev, has a startup named Autoptic that uses AI on your system telemetry to detect what effect production changes had immediately upon release.
 >
 > **[2:09](https://www.linkedin.com/learning/it-service-management-foundations-change-management/ai-and-change-management-add?u=76281980&t=129)** And of course, your corpus of changes becomes valuable information to feed into LLMs to be smarter about reasoning about your environment as time goes on.
 >
@@ -2037,7 +2014,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/it-service-management-foundations-change-management/ai-and-change-management-add?u=76281980&t=164)** But keep in mind that any information you put in to a public LLM is not private or secure.
 >
-> **[2:50](https://www.linkedin.com/learning/it-service-management-foundations-change-management/ai-and-change-management-add?u=76281980&t=170)** So don't paste your company confidential information into Gemini or ChatGPT.
+> **[2:50](https://www.linkedin.com/learning/it-service-management-foundations-change-management/ai-and-change-management-add?u=76281980&t=170)** So don't paste your company confidential information into [[Gemini]] or [[ChatGPT]].
 >
 > **[2:56](https://www.linkedin.com/learning/it-service-management-foundations-change-management/ai-and-change-management-add?u=76281980&t=176)** These are some ways that AI can help you be more accurate and efficient in your change management process.
 >
@@ -2051,7 +2028,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/it-service-management-foundations-change-management/ai-and-change-management-add?u=76281980&t=202)** More and more of what we previously considered to be application functionality is moving into the LLM itself.
 >
-> **[3:30](https://www.linkedin.com/learning/it-service-management-foundations-change-management/ai-and-change-management-add?u=76281980&t=210)** Model changes can affect accuracy, performance, bias, and user experience in unpredictable ways, which affect both downstream systems and end user trust and satisfaction.
+> **[3:30](https://www.linkedin.com/learning/it-service-management-foundations-change-management/ai-and-change-management-add?u=76281980&t=210)** Model changes can affect accuracy, performance, bias, and [[User Experience (UX)|user experience]] in unpredictable ways, which affect both downstream systems and end user trust and satisfaction.
 >
 > **[3:43](https://www.linkedin.com/learning/it-service-management-foundations-change-management/ai-and-change-management-add?u=76281980&t=223)** So you'll need new techniques to reason about them and their risk.
 >
@@ -2063,7 +2040,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (18), management (6), llm (3), [[Microsoft Word|Word]] (1), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[LinkedIn]] (1), [[Gemini]] (1), [[ChatGPT]] (1)
 > **Env Vars:** llm (3)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -2077,8 +2054,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Be the change you want to approve
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-change-management/be-the-change-you-want-to-approve?u=76281980)
+#### [Be the change you want to approve](https://www.linkedin.com/learning/it-service-management-foundations-change-management/be-the-change-you-want-to-approve?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2098,7 +2074,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/it-service-management-foundations-change-management/be-the-change-you-want-to-approve?u=76281980&t=54)** What's the easiest paths for them to use for communication and documentation.
 >
-> **[0:59](https://www.linkedin.com/learning/it-service-management-foundations-change-management/be-the-change-you-want-to-approve?u=76281980&t=59)** If they're in Slack and Confluence all day, then it's Slack and Confluence.
+> **[0:59](https://www.linkedin.com/learning/it-service-management-foundations-change-management/be-the-change-you-want-to-approve?u=76281980&t=59)** If they're in [[Slack]] and [[Confluence]] all day, then it's Slack and Confluence.
 >
 > **[1:04](https://www.linkedin.com/learning/it-service-management-foundations-change-management/be-the-change-you-want-to-approve?u=76281980&t=64)** Build your process to fit their needs.
 >
@@ -2130,7 +2106,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (6), [[Slack]] (2), [[Confluence]] (2), data (1)
+> **Frameworks & Libraries:** [[Slack]] (2), [[Confluence]] (2)
 > **Tools:** slack (2), confluence (2)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise files (1)

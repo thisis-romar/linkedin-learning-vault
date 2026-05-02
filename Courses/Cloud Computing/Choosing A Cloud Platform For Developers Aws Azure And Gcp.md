@@ -88,16 +88,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Considering the cloud choices
-> [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/considering-the-cloud-choices?u=76281980)
+#### [Considering the cloud choices](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/considering-the-cloud-choices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/considering-the-cloud-choices?u=76281980&t=0)** - [Xian] You keep hearing about the cloud and about companies building their software projects on the cloud.
+> **[0:00](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/considering-the-cloud-choices?u=76281980&t=0)** - [Xian] You keep hearing about the cloud and about companies building their [[Software Projects]] on the cloud.
 >
 > **[0:05](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/considering-the-cloud-choices?u=76281980&t=5)** Should you be moving to the cloud too?
 >
-> **[0:08](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/considering-the-cloud-choices?u=76281980&t=8)** There's Amazon Web Services, Microsoft Azure, Google Cloud Platform.
+> **[0:08](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/considering-the-cloud-choices?u=76281980&t=8)** There's [[Amazon Web Services (AWS)|Amazon Web Services]], [[Microsoft Azure]], [[Google Cloud Platform (GCP)|Google Cloud Platform]].
 >
 > **[0:12](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/considering-the-cloud-choices?u=76281980&t=12)** So many choices and tools.
 >
@@ -107,29 +106,28 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/considering-the-cloud-choices?u=76281980&t=18)** In this course, we'll walk through the options available for developing in the cloud.
 >
-> **[0:22](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/considering-the-cloud-choices?u=76281980&t=22)** Along the way, we'll demystify concepts like artificial intelligence, serverless, and docker as they apply to the cloud.
+> **[0:22](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/considering-the-cloud-choices?u=76281980&t=22)** Along the way, we'll demystify concepts like [[Artificial Intelligence (AI)|artificial intelligence]], serverless, and docker as they apply to the cloud.
 >
-> **[0:31](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/considering-the-cloud-choices?u=76281980&t=31)** We'll also discuss related topics, such as compliance and prototyping.
+> **[0:31](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/considering-the-cloud-choices?u=76281980&t=31)** We'll also discuss related topics, such as compliance and [[Prototyping]].
 >
 > **[0:35](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/considering-the-cloud-choices?u=76281980&t=35)** Hi, I'm Xian Ke.
 >
 > **[0:37](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/considering-the-cloud-choices?u=76281980&t=37)** This course contains many insights from my experiences working on software projects for Fortune 500 enterprises and for Silicon Valley startups.
 >
-> **[0:45](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/considering-the-cloud-choices?u=76281980&t=45)** My goal is to help you navigate the ever-changing technology landscape and to make good decisions for your software development projects.
+> **[0:45](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/considering-the-cloud-choices?u=76281980&t=45)** My goal is to help you navigate the ever-changing technology landscape and to make good decisions for your [[Software Development]] projects.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), [[Software Projects]] (2), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Microsoft Azure]] (1), [[Google Cloud Platform (GCP)|Google cloud platform]] (1)
+> **Frameworks & Libraries:** [[Software Projects]] (2), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Microsoft Azure]] (1), [[Google Cloud Platform (GCP)|Google cloud platform]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** docker (1), make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [xian] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/what-you-should-know-14484241?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/what-you-should-know-14484241?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/what-you-should-know-14484241?u=76281980&t=0)** - [Instructor] To get the most from this course, you should have an understanding of how your existing software projects have been developed.
+> **[0:00](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/what-you-should-know-14484241?u=76281980&t=0)** - [Instructor] To get the most from this course, you should have an understanding of how your existing [[Software Projects]] have been developed.
 >
 > **[0:06](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/what-you-should-know-14484241?u=76281980&t=6)** You should have an interest in learning more about how newer software tools can benefit your current and future projects.
 >
@@ -149,12 +147,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Solutions before cloud computing
-> [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/solutions-before-cloud-computing-14491062?u=76281980)
+#### [Solutions before cloud computing](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/solutions-before-cloud-computing-14491062?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/solutions-before-cloud-computing-14491062?u=76281980&t=0)** - [Instructor] To better understand how Cloud Computing can benefit your projects, it's worth reviewing the technology solutions that existed before the current generation of Cloud Services arose.
+> **[0:00](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/solutions-before-cloud-computing-14491062?u=76281980&t=0)** - [Instructor] To better understand how [[Cloud Computing]] can benefit your projects, it's worth reviewing the technology solutions that existed before the current generation of [[Cloud Services]] arose.
 >
 > **[0:11](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/solutions-before-cloud-computing-14491062?u=76281980&t=11)** The term Cloud really just refers to the internet.
 >
@@ -170,9 +167,9 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/solutions-before-cloud-computing-14491062?u=76281980&t=41)** If we were building a web application in the 1990s, we might decide to host the application on a computer server that resides On-Premise.
 >
-> **[0:49](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/solutions-before-cloud-computing-14491062?u=76281980&t=49)** This computer would physically sit inside our office, serving up data and web pages upon user request.
+> **[0:49](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/solutions-before-cloud-computing-14491062?u=76281980&t=49)** This computer would physically sit inside our [[Microsoft Office|office]], serving up data and web pages upon user request.
 >
-> **[0:56](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/solutions-before-cloud-computing-14491062?u=76281980&t=56)** We will be responsible for maintaining this computer, updating software and hardware for reliability and security.
+> **[0:56](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/solutions-before-cloud-computing-14491062?u=76281980&t=56)** We will be responsible for maintaining this computer, updating software and [[Hardware]] for reliability and security.
 >
 > **[1:03](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/solutions-before-cloud-computing-14491062?u=76281980&t=63)** Alternatively, instead of keeping a computer server On-Premise in our office, our web app could be hosted Offsite within a farm of computer servers.
 >
@@ -186,15 +183,15 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/solutions-before-cloud-computing-14491062?u=76281980&t=96)** Management of the physical machines is delegated to a team of people responsible for keeping the electricity on and a computer's running a high reliability.
 >
-> **[1:45](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/solutions-before-cloud-computing-14491062?u=76281980&t=105)** As the application developer owner, we're still responsible for operational configurations and of course, for apps and user experience.
+> **[1:45](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/solutions-before-cloud-computing-14491062?u=76281980&t=105)** As the application developer owner, we're still responsible for operational configurations and of course, for apps and [[User Experience (UX)|user experience]].
 >
-> **[1:54](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/solutions-before-cloud-computing-14491062?u=76281980&t=114)** The current generation of Cloud Computing Solutions was spurred in part by Amazon's 2006 introduction of Elastic Compute Cloud, EC2, and simple storage services, S3.
+> **[1:54](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/solutions-before-cloud-computing-14491062?u=76281980&t=114)** The current generation of Cloud Computing Solutions was spurred in part by Amazon's 2006 introduction of Elastic Compute Cloud, [[Amazon EC2|EC2]], and simple storage services, S3.
 >
 > **[2:07](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/solutions-before-cloud-computing-14491062?u=76281980&t=127)** With EC2, people could rent and configure virtual computing instances for hosting apps.
 >
 > **[2:13](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/solutions-before-cloud-computing-14491062?u=76281980&t=133)** With S3, people could store files of any size without thinking about hard drive limitations.
 >
-> **[2:19](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/solutions-before-cloud-computing-14491062?u=76281980&t=139)** By watching this video, you've expressed interest in using the latest Cloud Computing Solutions from Amazon, Microsoft, Google, and others.
+> **[2:19](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/solutions-before-cloud-computing-14491062?u=76281980&t=139)** By watching this video, you've expressed interest in using the latest Cloud Computing Solutions from Amazon, [[Microsoft]], [[Google]], and others.
 >
 > **[2:28](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/solutions-before-cloud-computing-14491062?u=76281980&t=148)** The decision to use one of these Cloud providers is not always super clear.
 >
@@ -202,7 +199,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (10), web (3), application (2), [[Microsoft Office|Office]] (2), [[Amazon EC2|Ec2]] (2)
+> **Frameworks & Libraries:** [[Cloud Computing]] (4), [[Microsoft Office|Office]] (2), [[Amazon EC2|Ec2]] (2), [[Cloud Services]] (1), [[Hardware]] (1)
 > **Env Vars:** ec2 (2)
 > **CLI Commands:** make (1)
 > **Tools:** command line (1)
@@ -210,18 +207,17 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Evaluate urgency of cloud migration
-> [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/evaluate-urgency-of-cloud-migration?u=76281980)
+#### [Evaluate urgency of cloud migration](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/evaluate-urgency-of-cloud-migration?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/evaluate-urgency-of-cloud-migration?u=76281980&t=0)** - [Instructor] Technology is full of buzzwords and futuristic ideas.
 >
-> **[0:04](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/evaluate-urgency-of-cloud-migration?u=76281980&t=4)** Remember when Google Glass appeared and we envisioned a future where everyone walked around town with cameras and computers on their faces?
+> **[0:04](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/evaluate-urgency-of-cloud-migration?u=76281980&t=4)** Remember when [[Google]] Glass appeared and we envisioned a future where everyone walked around town with cameras and computers on their faces?
 >
 > **[0:11](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/evaluate-urgency-of-cloud-migration?u=76281980&t=11)** Just because the technology exists doesn't mean that we must change everything to make use of it in the next 24 hours.
 >
-> **[0:16](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/evaluate-urgency-of-cloud-migration?u=76281980&t=16)** Keep this in mind with cloud services as well.
+> **[0:16](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/evaluate-urgency-of-cloud-migration?u=76281980&t=16)** Keep this in mind with [[Cloud Services]] as well.
 >
 > **[0:19](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/evaluate-urgency-of-cloud-migration?u=76281980&t=19)** Take some time to understand the potential benefits and challenges, including to test on prototypes or limited parts of the system.
 >
@@ -247,7 +243,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/evaluate-urgency-of-cloud-migration?u=76281980&t=80)** Dropbox, the online storage service, made a different decision.
 >
-> **[1:24](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/evaluate-urgency-of-cloud-migration?u=76281980&t=84)** Dropbox started off in 2007 using cloud storage for user files.
+> **[1:24](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/evaluate-urgency-of-cloud-migration?u=76281980&t=84)** Dropbox started off in 2007 using [[Cloud Storage]] for user files.
 >
 > **[1:28](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/evaluate-urgency-of-cloud-migration?u=76281980&t=88)** After a lot of growth, Dropbox took on an infrastructure optimization project in 2015 to migrate most of its users' files to its own custom servers and data centers away from the cloud.
 >
@@ -259,7 +255,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/evaluate-urgency-of-cloud-migration?u=76281980&t=116)** There are also companies like Facebook that have always managed their own infrastructure, including building out massive data centers.
 >
-> **[2:02](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/evaluate-urgency-of-cloud-migration?u=76281980&t=122)** When Facebook has acquired companies, they've taken on migration projects to host products on the main Facebook infrastructure, Instagram and WhatsApp are two acquire products that migrated from cloud providers to Facebook's custom infrastructure.
+> **[2:02](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/evaluate-urgency-of-cloud-migration?u=76281980&t=122)** When Facebook has acquired companies, they've taken on migration projects to host [[Microsoft Products|products]] on the main Facebook infrastructure, Instagram and WhatsApp are two acquire products that migrated from cloud providers to Facebook's custom infrastructure.
 >
 > **[2:16](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/evaluate-urgency-of-cloud-migration?u=76281980&t=136)** A potential downside of such a decision would be that service outages can affect multiple products.
 >
@@ -267,35 +263,34 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (10), data (5), [[Microsoft Products|Products]] (3), next (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Google]] (1), [[Cloud Services]] (1), [[Cloud Storage]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Establish goals for cloud migration
-> [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/establish-goals-for-cloud-migration-14487167?u=76281980)
+#### [Establish goals for cloud migration](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/establish-goals-for-cloud-migration-14487167?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/establish-goals-for-cloud-migration-14487167?u=76281980&t=0)** - [Instructor] If your company already has existing infrastructure, you'll have various data points on its functionality, reliability, scalability, security, costs, and ease of use.
+> **[0:00](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/establish-goals-for-cloud-migration-14487167?u=76281980&t=0)** - [Instructor] If your company already has existing infrastructure, you'll have various data points on its functionality, reliability, [[Scalability]], security, costs, and ease of use.
 >
 > **[0:10](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/establish-goals-for-cloud-migration-14487167?u=76281980&t=10)** Perhaps the best reason for migrating infrastructure is that the previous technology solution has become a bottleneck for product and business growth.
 >
-> **[0:17](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/establish-goals-for-cloud-migration-14487167?u=76281980&t=17)** For example, too many outages that are affecting product quality and customer retention or scaling issues that are preventing new customers from being onboarded smoothly enough or functionality and ease of use issues that are adversely affecting the speed of product development.
+> **[0:17](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/establish-goals-for-cloud-migration-14487167?u=76281980&t=17)** For example, too many outages that are affecting product quality and customer retention or scaling issues that are preventing new customers from being onboarded smoothly enough or functionality and ease of use issues that are adversely affecting the speed of [[Product Development]].
 >
 > **[0:32](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/establish-goals-for-cloud-migration-14487167?u=76281980&t=32)** I've heard security cited as a reason both to move toward the cloud and to move away from the cloud.
 >
-> **[0:37](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/establish-goals-for-cloud-migration-14487167?u=76281980&t=37)** In my past life, I worked at Microsoft on a product that encrypted hard drive data.
+> **[0:37](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/establish-goals-for-cloud-migration-14487167?u=76281980&t=37)** In my past life, I worked at [[Microsoft]] on a product that encrypted hard drive data.
 >
 > **[0:42](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/establish-goals-for-cloud-migration-14487167?u=76281980&t=42)** This product addressed the security concern that anyone with physical access to computers and servers could walk away with sensitive information.
 >
-> **[0:49](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/establish-goals-for-cloud-migration-14487167?u=76281980&t=49)** I then worked at Google on a product that collected and analyzed web traffic data and stored it on Google servers.
+> **[0:49](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/establish-goals-for-cloud-migration-14487167?u=76281980&t=49)** I then worked at [[Google]] on a product that collected and analyzed web traffic data and stored it on Google servers.
 >
 > **[0:55](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/establish-goals-for-cloud-migration-14487167?u=76281980&t=55)** Some security departments expressed concern that to use this product, a third party company would need to store their sensitive traffic data.
 >
 > **[1:03](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/establish-goals-for-cloud-migration-14487167?u=76281980&t=63)** My point here is that any change can trigger potential fears.
 >
-> **[1:06](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/establish-goals-for-cloud-migration-14487167?u=76281980&t=66)** Just as we as consumers have gotten comfortable with storing our credit card information at online sites like Amazon, we can have a reasonable degree of trust that the current generation of top cloud providers are working to minimize the downside risks of their products.
+> **[1:06](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/establish-goals-for-cloud-migration-14487167?u=76281980&t=66)** Just as we as consumers have gotten comfortable with storing our credit card information at online sites like Amazon, we can have a reasonable degree of trust that the current generation of top cloud providers are working to minimize the downside risks of their [[Microsoft Products|products]].
 >
 > **[1:20](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/establish-goals-for-cloud-migration-14487167?u=76281980&t=80)** For those of us who lack an unlimited budget, cost is another factor to consider.
 >
@@ -303,7 +298,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/establish-goals-for-cloud-migration-14487167?u=76281980&t=89)** But I also have to caution companies who say that they wish to move the cloud simply because they think it will lower their costs.
 >
-> **[1:35](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/establish-goals-for-cloud-migration-14487167?u=76281980&t=95)** A migration can be a large undertaking with its own costs in human resources, time and quality control.
+> **[1:35](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/establish-goals-for-cloud-migration-14487167?u=76281980&t=95)** A migration can be a large undertaking with its own costs in [[Human Resources (HR)|human resources]], time and quality control.
 >
 > **[1:41](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/establish-goals-for-cloud-migration-14487167?u=76281980&t=101)** Operating on cloud can also be more expensive depending on the situation.
 >
@@ -313,7 +308,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/establish-goals-for-cloud-migration-14487167?u=76281980&t=120)** I also believe it's helpful to consider technology changes in the context of an organization's broader situation.
 >
-> **[2:07](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/establish-goals-for-cloud-migration-14487167?u=76281980&t=127)** While serving as a technology consultant, I've recommended that a small company keep going on their status quo non-cloud infrastructure until the company's customer needs can more clearly justify new infrastructure investments, including a migration to the cloud.
+> **[2:07](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/establish-goals-for-cloud-migration-14487167?u=76281980&t=127)** While serving as a technology consultant, I've recommended that a small company keep going on their status quo non-[[Cloud Infrastructure]] until the company's customer needs can more clearly justify new infrastructure investments, including a migration to the cloud.
 >
 > **[2:22](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/establish-goals-for-cloud-migration-14487167?u=76281980&t=142)** The quality of customer service from the cloud providers can become influential in how your company can best make use of the cloud.
 >
@@ -325,7 +320,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (12), product (6), data (4), [[Security]] (4), [[Scalability]] (2)
+> **Frameworks & Libraries:** [[Scalability]] (2), [[Google]] (2), [[Microsoft Products|Products]] (2), [[Product Development]] (1), [[Microsoft]] (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** recommended (1)
@@ -337,16 +332,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Current major cloud providers
-> [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/current-major-cloud-providers-14489110?u=76281980)
+#### [Current major cloud providers](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/current-major-cloud-providers-14489110?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/current-major-cloud-providers-14489110?u=76281980&t=0)** - [Instructor] Currently in the United States, the top-three cloud providers are Amazon Web Services, Microsoft Azure and Google Cloud Platform.
+> **[0:00](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/current-major-cloud-providers-14489110?u=76281980&t=0)** - [Instructor] Currently in the United States, the top-three cloud providers are [[Amazon Web Services (AWS)|Amazon Web Services]], [[Microsoft Azure]] and [[Google Cloud Platform (GCP)|Google Cloud Platform]].
 >
 > **[0:08](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/current-major-cloud-providers-14489110?u=76281980&t=8)** Other cloud providers include IBM, Oracle and Alibaba.
 >
-> **[0:13](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/current-major-cloud-providers-14489110?u=76281980&t=13)** We'll be going over the baseline functionality available in the Amazon, Microsoft and Google clouds.
+> **[0:13](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/current-major-cloud-providers-14489110?u=76281980&t=13)** We'll be going over the baseline functionality available in the Amazon, [[Microsoft]] and [[Google]] clouds.
 >
 > **[0:19](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/current-major-cloud-providers-14489110?u=76281980&t=19)** Note that we don't have to choose one cloud provider for all of our functionality needs.
 >
@@ -354,25 +348,25 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/current-major-cloud-providers-14489110?u=76281980&t=28)** Each provider has a number of options to store your data and files.
 >
-> **[0:32](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/current-major-cloud-providers-14489110?u=76281980&t=32)** If you already use databases in your existing infrastructure, there's a matching option in the cloud.
+> **[0:32](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/current-major-cloud-providers-14489110?u=76281980&t=32)** If you already use [[Databases]] in your existing infrastructure, there's a matching option in the cloud.
 >
-> **[0:38](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/current-major-cloud-providers-14489110?u=76281980&t=38)** SQL databases are popular for storing data into structured tables.
+> **[0:38](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/current-major-cloud-providers-14489110?u=76281980&t=38)** [[SQL]] databases are popular for storing data into structured tables.
 >
-> **[0:42](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/current-major-cloud-providers-14489110?u=76281980&t=42)** Cloud options for SQL databases include Amazon Aurora, Azure SQL Database and Google Cloud SQL.
+> **[0:42](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/current-major-cloud-providers-14489110?u=76281980&t=42)** Cloud options for SQL databases include Amazon Aurora, [[Microsoft Azure|Azure]] SQL Database and [[Google Cloud Platform (GCP)|Google Cloud]] SQL.
 >
 > **[0:50](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/current-major-cloud-providers-14489110?u=76281980&t=50)** Not all data needs to be stored in databases.
 >
-> **[0:53](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/current-major-cloud-providers-14489110?u=76281980&t=53)** One of the most popular cloud services allows your applications to store objects, such as text files, image files, or video files into buckets and folders.
+> **[0:53](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/current-major-cloud-providers-14489110?u=76281980&t=53)** One of the most popular [[Cloud Services]] allows your applications to store objects, such as text files, image files, or video files into buckets and folders.
 >
 > **[1:02](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/current-major-cloud-providers-14489110?u=76281980&t=62)** The relevant cloud services include Amazon S3, Azure Blob Storage, and Google Cloud Storage.
 >
 > **[1:09](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/current-major-cloud-providers-14489110?u=76281980&t=69)** Any computer system that does anything interesting requires some code to be executed.
 >
-> **[1:14](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/current-major-cloud-providers-14489110?u=76281980&t=74)** If you're moving an existing application from your own physical machines to the cloud, virtual machines allow you to do the migration without rewriting code.
+> **[1:14](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/current-major-cloud-providers-14489110?u=76281980&t=74)** If you're moving an existing application from your own physical machines to the cloud, [[Virtual Machines]] allow you to do the migration without rewriting code.
 >
-> **[1:22](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/current-major-cloud-providers-14489110?u=76281980&t=82)** Offerings include Amazon EC2, Azure Virtual Machines and Google Compute Engine.
+> **[1:22](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/current-major-cloud-providers-14489110?u=76281980&t=82)** Offerings include [[Amazon EC2]], Azure Virtual Machines and Google Compute Engine.
 >
-> **[1:28](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/current-major-cloud-providers-14489110?u=76281980&t=88)** If you are building or rewriting applications and want to think even less about infrastructure, there are Platform as a Service solutions to operate one layer above virtual servers.
+> **[1:28](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/current-major-cloud-providers-14489110?u=76281980&t=88)** If you are building or rewriting applications and want to think even less about infrastructure, there are [[PaaS|Platform as a Service]] solutions to operate one layer above virtual servers.
 >
 > **[1:38](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/current-major-cloud-providers-14489110?u=76281980&t=98)** As an application developer, I like these solutions because they can simplify a lot of infrastructure decisions.
 >
@@ -386,31 +380,30 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/current-major-cloud-providers-14489110?u=76281980&t=123)** Once you have code running and it's accessing collecting data, you almost always need to do some data analysis to surface insights.
 >
-> **[2:11](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/current-major-cloud-providers-14489110?u=76281980&t=131)** The current generation of cloud providers include various tools that address challenges with the rapidly increasing tide of data, so-called big data.
+> **[2:11](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/current-major-cloud-providers-14489110?u=76281980&t=131)** The current generation of cloud providers include various tools that address challenges with the rapidly increasing tide of data, so-called [[Big Data]].
 >
 > **[2:19](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/current-major-cloud-providers-14489110?u=76281980&t=139)** When you need to make predictions or recommendations based on collected data, machine learning methods can become useful.
 >
-> **[2:25](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/current-major-cloud-providers-14489110?u=76281980&t=145)** These methods are a part of the larger field of artificial intelligence.
+> **[2:25](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/current-major-cloud-providers-14489110?u=76281980&t=145)** These methods are a part of the larger field of [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[2:30](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/current-major-cloud-providers-14489110?u=76281980&t=150)** It's a term that describes how computers can add value to human tasks.
 >
 > **[2:34](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/current-major-cloud-providers-14489110?u=76281980&t=154)** The major cloud providers include artificial intelligence tools, such as machine learning or visual recognition.
 >
-> **[2:40](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/current-major-cloud-providers-14489110?u=76281980&t=160)** Each cloud provider also has basic administrative tools, such as user management, billing management and monitoring.
+> **[2:40](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/current-major-cloud-providers-14489110?u=76281980&t=160)** Each cloud provider also has basic administrative tools, such as [[User Management]], billing management and monitoring.
 >
 > **[2:47](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/current-major-cloud-providers-14489110?u=76281980&t=167)** Cloud services have grown more complex over the years, and it's up to us to simplify things and figure out what tools are most relevant for our needs.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (12), data (7), [[Databases]] (4), [[SQL]] (4), [[Google]] (3)
+> **Frameworks & Libraries:** [[Databases]] (4), [[SQL]] (4), [[Google]] (3), [[Microsoft Azure|Azure]] (3), [[Cloud Services]] (3)
 > **Env Vars:** sql (4), ec2 (2), ibm (1)
 > **Analogies:** such as (4), for example (1)
 > **CLI Commands:** make (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Storing data and files
-> [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/storing-data-and-files-14489111?u=76281980)
+#### [Storing data and files](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/storing-data-and-files-14489111?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -422,27 +415,27 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/storing-data-and-files-14489111?u=76281980&t=19)** Dropbox, build their synchronized file service on S3 and use this successfully for many years.
 >
-> **[0:26](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/storing-data-and-files-14489111?u=76281980&t=26)** Amazon S3 and Google Cloud Storage use similar terminology for their object storage solutions.
+> **[0:26](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/storing-data-and-files-14489111?u=76281980&t=26)** Amazon S3 and [[Google Cloud Platform (GCP)|Google Cloud]] Storage use similar terminology for their object storage solutions.
 >
 > **[0:32](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/storing-data-and-files-14489111?u=76281980&t=32)** Files are organized into buckets and folders within buckets.
 >
 > **[0:36](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/storing-data-and-files-14489111?u=76281980&t=36)** There are no practical limits on how many objects you can store.
 >
-> **[0:39](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/storing-data-and-files-14489111?u=76281980&t=39)** You can even store HTML, CSS, and image files into a bucket and configure it to serve a public website made out of static pages.
+> **[0:39](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/storing-data-and-files-14489111?u=76281980&t=39)** You can even store [[HTML]], CSS, and image files into a bucket and configure it to serve a public website made out of static pages.
 >
-> **[0:48](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/storing-data-and-files-14489111?u=76281980&t=48)** Microsoft Azure uses slightly different terminology for their Azure Storage.
+> **[0:48](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/storing-data-and-files-14489111?u=76281980&t=48)** [[Microsoft Azure]] uses slightly different terminology for their [[Microsoft Azure|Azure]] Storage.
 >
 > **[0:52](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/storing-data-and-files-14489111?u=76281980&t=52)** You create a storage account and then create a container within that account that can be filled with blobs.
 >
 > **[1:09](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/storing-data-and-files-14489111?u=76281980&t=69)** Blobs can be any file you want to upload and can also be made public and accessible through the web.
 >
-> **[1:22](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/storing-data-and-files-14489111?u=76281980&t=82)** Data that store point of files can also be organized into databases of rows and columns.
+> **[1:22](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/storing-data-and-files-14489111?u=76281980&t=82)** Data that store point of files can also be organized into [[Databases]] of rows and columns.
 >
 > **[1:28](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/storing-data-and-files-14489111?u=76281980&t=88)** For example, each row of a database table can refer to a register user for an application and each column can contain data on the user's preferences.
 >
 > **[1:37](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/storing-data-and-files-14489111?u=76281980&t=97)** Databases have seen continue innovation in recent years as demands increase on the volume of data that needs to be stored in a how quickly that data can be accessed and analyzed.
 >
-> **[1:47](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/storing-data-and-files-14489111?u=76281980&t=107)** If you have existing applications that use relational SQL Databases, it's simplest to migrate to the same type of database in the cloud.
+> **[1:47](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/storing-data-and-files-14489111?u=76281980&t=107)** If you have existing applications that use relational [[SQL]] Databases, it's simplest to migrate to the same type of database in the cloud.
 >
 > **[1:55](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/storing-data-and-files-14489111?u=76281980&t=115)** Cloud options for SQL Databases include: Amazon Aurora, Azure SQL Database and Google Cloud SQL.
 >
@@ -450,11 +443,11 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/storing-data-and-files-14489111?u=76281980&t=125)** Some applications that specialized requirements on their databases.
 >
-> **[2:09](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/storing-data-and-files-14489111?u=76281980&t=129)** In 2006, a team at Google published a research paper describing how they had built their own distributed data store called Bigtable.
+> **[2:09](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/storing-data-and-files-14489111?u=76281980&t=129)** In 2006, a team at [[Google]] published a research paper describing how they had built their own distributed data store called Bigtable.
 >
 > **[2:17](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/storing-data-and-files-14489111?u=76281980&t=137)** Bigtable could store millions of gigabytes of web pages across thousands of machines.
 >
-> **[2:21](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/storing-data-and-files-14489111?u=76281980&t=141)** It helps spurred the development of other distributed non-relational databases, so-called NoSQL Databases.
+> **[2:21](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/storing-data-and-files-14489111?u=76281980&t=141)** It helps spurred the development of other distributed non-[[Relational Databases]], so-called [[NoSQL]] Databases.
 >
 > **[2:28](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/storing-data-and-files-14489111?u=76281980&t=148)** Today, Google Cloud Bigtable is available more broadly.
 >
@@ -472,39 +465,38 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), database (8), [[SQL]] (8), [[Databases]] (6), cloud (4)
+> **Frameworks & Libraries:** [[SQL]] (8), [[Databases]] (6), [[Google Cloud Platform (GCP)|Google cloud]] (4), [[NoSQL]] (4), [[Microsoft Azure|Azure]] (3)
 > **Env Vars:** sql (8), html (1), css (1)
 > **Definitions:** short for (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Executing code
-> [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/executing-code-14487163?u=76281980)
+#### [Executing code](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/executing-code-14487163?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/executing-code-14487163?u=76281980&t=1)** - [Instructor] In the cloud, we have numerous options for running code written in various programming languages.
 >
-> **[0:06](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/executing-code-14487163?u=76281980&t=6)** Currently popular programming languages and frameworks include Node.js, JavaScript and Python.
+> **[0:06](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/executing-code-14487163?u=76281980&t=6)** Currently popular programming languages and frameworks include [[Node.js]], [[JavaScript]] and [[Python (Programming Language)|Python]].
 >
 > **[0:12](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/executing-code-14487163?u=76281980&t=12)** Of course, we're definitely not limited to using just a few languages or tools.
 >
 > **[0:17](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/executing-code-14487163?u=76281980&t=17)** Anything you can build and deploy that resides within on-premises computers can be set up in the cloud by recreating the same environment in a virtual machine.
 >
-> **[0:26](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/executing-code-14487163?u=76281980&t=26)** The key idea is that you can rent the computing power you need without having to buy physical hardware.
+> **[0:26](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/executing-code-14487163?u=76281980&t=26)** The key idea is that you can rent the computing power you need without having to buy physical [[Hardware]].
 >
 > **[0:32](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/executing-code-14487163?u=76281980&t=32)** Let's take a look at the variety of computing environments available to us.
 >
-> **[0:35](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/executing-code-14487163?u=76281980&t=35)** We'll use Azure Virtual Machines for demonstration purposes.
+> **[0:35](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/executing-code-14487163?u=76281980&t=35)** We'll use [[Microsoft Azure|Azure]] [[Virtual Machines]] for demonstration purposes.
 >
-> **[0:39](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/executing-code-14487163?u=76281980&t=39)** Amazon EC2 and Google Compute Engine have similar offerings.
+> **[0:39](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/executing-code-14487163?u=76281980&t=39)** [[Amazon EC2]] and [[Google]] Compute Engine have similar offerings.
 >
 > **[0:44](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/executing-code-14487163?u=76281980&t=44)** We name our virtual machine instance and specify which region of the world it should be located.
 >
 > **[0:49](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/executing-code-14487163?u=76281980&t=49)** Locating an instance in a region allows for faster response times from that region.
 >
-> **[0:54](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/executing-code-14487163?u=76281980&t=54)** We can choose an operating system among many variants of Windows or Linux.
+> **[0:54](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/executing-code-14487163?u=76281980&t=54)** We can choose an operating system among many variants of [[Windows]] or [[Linux]].
 >
 > **[0:58](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/executing-code-14487163?u=76281980&t=58)** These operating systems exist on pre-built disk images.
 >
@@ -520,7 +512,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/executing-code-14487163?u=76281980&t=88)** As an application developer, I like to think even less about infrastructure decisions and run my code on higher level platforms.
 >
-> **[1:35](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/executing-code-14487163?u=76281980&t=95)** These Platform as a Service options include: Google App Engine, Amazon Elastic Beanstalk, and Microsoft App Service.
+> **[1:35](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/executing-code-14487163?u=76281980&t=95)** These [[PaaS|Platform as a Service]] options include: Google App Engine, Amazon Elastic Beanstalk, and [[Microsoft]] App Service.
 >
 > **[1:44](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/executing-code-14487163?u=76281980&t=104)** A few years ago, I needed to migrate an old static website to a new provider.
 >
@@ -532,7 +524,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/executing-code-14487163?u=76281980&t=119)** Heroku is simple and cost-effective for smaller applications and prototypes, though gets pricier as your usage scales.
 >
-> **[2:07](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/executing-code-14487163?u=76281980&t=127)** Another way to run code in the cloud is to what is called serverless computing.
+> **[2:07](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/executing-code-14487163?u=76281980&t=127)** Another way to run code in the cloud is to what is called [[Serverless Computing]].
 >
 > **[2:11](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/executing-code-14487163?u=76281980&t=131)** Basically, serverless lets you run a chunk of code whenever an event occurs.
 >
@@ -542,7 +534,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/executing-code-14487163?u=76281980&t=144)** However, serverless can be very cost effective and efficient to build, and it's a default architecture for newer applications such as handling voice commands from Amazon Alexa or Google home devices.
 >
-> **[2:36](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/executing-code-14487163?u=76281980&t=156)** Serverless solutions include AWS Lambda, Google Cloud Functions and Azure Cloud Functions.
+> **[2:36](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/executing-code-14487163?u=76281980&t=156)** Serverless solutions include AWS Lambda, [[Google Cloud Platform (GCP)|Google Cloud]] Functions and Azure Cloud Functions.
 >
 > **[2:42](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/executing-code-14487163?u=76281980&t=162)** Finally, the idea of putting code into lightweight containers has become more popular in recent years because of the ability for these containers to be run from many environments.
 >
@@ -550,7 +542,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), [[Google]] (4), [[Programming]] (2), [[Node.js]] (2), [[Microsoft Azure|Azure]] (2)
+> **Frameworks & Libraries:** [[Google]] (4), [[Node.js]] (2), [[Microsoft Azure|Azure]] (2), [[JavaScript]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** node (2), python (1), ruby (1), rails (1), aws (1)
 > **Env Vars:** ec2 (1), cpu (1), gpu (1), aws (1)
 > **Analogies:** for example (2), such as (1)
@@ -559,40 +551,39 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Analytics and insights
-> [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/analytics-and-insights-14490099?u=76281980)
+#### [Analytics and insights](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/analytics-and-insights-14490099?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/analytics-and-insights-14490099?u=76281980&t=0)** - [Instructor] Historically, web servers such as Apache generated logs that stored every page view as a line in a text file containing the time of visit, the user's IP address, and so on.
+> **[0:00](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/analytics-and-insights-14490099?u=76281980&t=0)** - [Instructor] Historically, [[Web Servers]] such as Apache generated logs that stored every page view as a line in a text file containing the time of visit, the user's IP address, and so on.
 >
-> **[0:11](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/analytics-and-insights-14490099?u=76281980&t=11)** To make it easier to gather insights, tools like Google Analytics evolved to collect tracking data from web and mobile apps and to automatically generate relevant reports.
+> **[0:11](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/analytics-and-insights-14490099?u=76281980&t=11)** To make it easier to gather insights, tools like [[Google]] Analytics evolved to collect tracking data from web and mobile apps and to automatically generate relevant reports.
 >
 > **[0:21](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/analytics-and-insights-14490099?u=76281980&t=21)** The digital world has grown more complex as we gather more and more data from all kinds of places, including, but not limited to, the web.
 >
-> **[0:29](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/analytics-and-insights-14490099?u=76281980&t=29)** As the size of the data increases to a thousand gigabytes and one million gigabytes, it becomes unwieldy and slow to use regular databases to handle these terabytes and petabytes of data.
+> **[0:29](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/analytics-and-insights-14490099?u=76281980&t=29)** As the size of the data increases to a thousand gigabytes and one million gigabytes, it becomes unwieldy and slow to use regular [[Databases]] to handle these terabytes and petabytes of data.
 >
-> **[0:40](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/analytics-and-insights-14490099?u=76281980&t=40)** The cloud tools for data warehousing and analysis offered by Amazon, Microsoft, and Google exist in a wider ecosystem of open-source and third-party tools.
+> **[0:40](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/analytics-and-insights-14490099?u=76281980&t=40)** The cloud tools for [[Data Warehousing]] and analysis offered by Amazon, [[Microsoft]], and Google exist in a wider ecosystem of open-source and third-party tools.
 >
-> **[0:50](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/analytics-and-insights-14490099?u=76281980&t=50)** If you find your existing databases sufficient, then there's not an urgent need to make use of so-called big data solutions.
+> **[0:50](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/analytics-and-insights-14490099?u=76281980&t=50)** If you find your existing databases sufficient, then there's not an urgent need to make use of so-called [[Big Data]] solutions.
 >
 > **[0:57](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/analytics-and-insights-14490099?u=76281980&t=57)** New solutions generally evolve because developers and business folks encounter roadblocks and challenges with previously existing solutions.
 >
 > **[1:05](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/analytics-and-insights-14490099?u=76281980&t=65)** Data warehouses are used to store massive amounts of historical data for later querying and analysis.
 >
-> **[1:12](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/analytics-and-insights-14490099?u=76281980&t=72)** Options include Amazon Redshift, Google BigQuery, and Azure SQL Data Warehouse.
+> **[1:12](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/analytics-and-insights-14490099?u=76281980&t=72)** Options include Amazon Redshift, Google BigQuery, and [[Microsoft Azure|Azure]] [[SQL]] Data Warehouse.
 >
 > **[1:19](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/analytics-and-insights-14490099?u=76281980&t=79)** Providers of these solutions compete with each other on performance, cost, and ease of use.
 >
 > **[1:24](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/analytics-and-insights-14490099?u=76281980&t=84)** The marketing of these solutions can be confusing and/or misleading, so objective perspectives are helpful.
 >
-> **[1:30](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/analytics-and-insights-14490099?u=76281980&t=90)** Third-party data warehousing solutions, such as Snowflake, have also gotten positive reviews from their customers.
+> **[1:30](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/analytics-and-insights-14490099?u=76281980&t=90)** Third-party data warehousing solutions, such as [[Snowflake]], have also gotten positive reviews from their customers.
 >
-> **[1:36](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/analytics-and-insights-14490099?u=76281980&t=96)** Real-time data streaming and processing is another area of recent innovation.
+> **[1:36](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/analytics-and-insights-14490099?u=76281980&t=96)** [[Real-Time]] [[Data Streaming]] and processing is another area of recent innovation.
 >
-> **[1:41](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/analytics-and-insights-14490099?u=76281980&t=101)** Options here include Amazon Kinesis, Google Cloud Dataflow, and Azure Stream Analytics.
+> **[1:41](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/analytics-and-insights-14490099?u=76281980&t=101)** Options here include Amazon Kinesis, [[Google Cloud Platform (GCP)|Google Cloud]] Dataflow, and Azure Stream Analytics.
 >
-> **[1:48](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/analytics-and-insights-14490099?u=76281980&t=108)** Some of these solutions are inspired by open-source software, such as Apache Kafka, a system originally developed at LinkedIn to handle vast amounts of real-time data, such as site events and mail messages.
+> **[1:48](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/analytics-and-insights-14490099?u=76281980&t=108)** Some of these solutions are inspired by [[Open-Source Software]], such as [[Apache Kafka]], a system originally developed at [[LinkedIn]] to handle vast amounts of real-time data, such as site events and mail messages.
 >
 > **[2:00](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/analytics-and-insights-14490099?u=76281980&t=120)** Other analysis tools provide easier querying and visualization abilities.
 >
@@ -602,7 +593,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/analytics-and-insights-14490099?u=76281980&t=137)** Perhaps it's best to develop a custom implementation based on your specific product and business needs.
 >
-> **[2:23](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/analytics-and-insights-14490099?u=76281980&t=143)** Companies such as Tableau and Looker have solutions that have become popular in recent years.
+> **[2:23](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/analytics-and-insights-14490099?u=76281980&t=143)** Companies such as [[Tableau]] and Looker have solutions that have become popular in recent years.
 >
 > **[2:28](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/analytics-and-insights-14490099?u=76281980&t=148)** Another aspect of data analysis involves making predictions or recommendations based on collected data.
 >
@@ -610,15 +601,15 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/analytics-and-insights-14490099?u=76281980&t=164)** My perspective is that machine learning in its current state is still highly prone to trial and error, and its effectiveness greatly depends on the quality of the collected data.
 >
-> **[2:53](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/analytics-and-insights-14490099?u=76281980&t=173)** It's easiest to utilize pre-built machine learning and artificial intelligence solutions that best fit your specific product and business needs.
+> **[2:53](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/analytics-and-insights-14490099?u=76281980&t=173)** It's easiest to utilize pre-built machine learning and [[Artificial Intelligence (AI)|artificial intelligence]] solutions that best fit your specific product and business needs.
 >
-> **[3:01](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/analytics-and-insights-14490099?u=76281980&t=181)** For example, image and text recognition solutions from Amazon, Google, and Microsoft, such as Amazon Rekognition, Google Cloud Translation, and Azure Computer Vision.
+> **[3:01](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/analytics-and-insights-14490099?u=76281980&t=181)** For example, image and text recognition solutions from Amazon, Google, and Microsoft, such as Amazon Rekognition, Google Cloud Translation, and Azure [[Computer Vision]].
 >
-> **[3:12](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/analytics-and-insights-14490099?u=76281980&t=192)** We'll talk more about prototyping specialized functionality later in this course.
+> **[3:12](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/analytics-and-insights-14490099?u=76281980&t=192)** We'll talk more about [[Prototyping]] specialized functionality later in this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Google]] (5), [[Microsoft Azure|Azure]] (5), web (3), business (3)
+> **Frameworks & Libraries:** [[Google]] (5), [[Microsoft Azure|Azure]] (5), [[Google Cloud Platform (GCP)|Google cloud]] (3), [[Databases]] (2), [[Data Warehousing]] (2)
 > **Analogies:** such as (6), for example (1)
 > **CLI Commands:** apache (2), make (2), find (1)
 > **Env Vars:** sql (1)
@@ -631,22 +622,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Amazon Web Services
-> [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/amazon-web-services-14485189?u=76281980)
+#### [Amazon Web Services](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/amazon-web-services-14485189?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/amazon-web-services-14485189?u=76281980&t=0)** - [Instructor] Amazon was the first company to make cloud infrastructure available to developers at other companies.
+> **[0:00](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/amazon-web-services-14485189?u=76281980&t=0)** - [Instructor] Amazon was the first company to make [[Cloud Infrastructure]] available to developers at other companies.
 >
-> **[0:06](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/amazon-web-services-14485189?u=76281980&t=6)** This head start allow Amazon to have the largest share of the cloud computing market as of 2019.
+> **[0:06](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/amazon-web-services-14485189?u=76281980&t=6)** This head start allow Amazon to have the largest share of the [[Cloud Computing]] market as of 2019.
 >
-> **[0:12](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/amazon-web-services-14485189?u=76281980&t=12)** Two of the earliest Amazon Web Services offerings are still among their most well-known, Amazon Simple Storage Service, S3, and Amazon Elastic Compute Cloud, EC2.
+> **[0:12](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/amazon-web-services-14485189?u=76281980&t=12)** Two of the earliest [[Amazon Web Services (AWS)|Amazon Web Services]] offerings are still among their most well-known, Amazon Simple Storage Service, S3, and Amazon Elastic Compute Cloud, [[Amazon EC2|EC2]].
 >
 > **[0:24](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/amazon-web-services-14485189?u=76281980&t=24)** S3 is like the developer's version of Dropbox that can automatically scale across millions of gigabytes.
 >
-> **[0:30](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/amazon-web-services-14485189?u=76281980&t=30)** S3 is so well used that in the few times when there was an S3 service outage, dozens of popular services, including Airbnb, Medium and Slack also experienced issues.
+> **[0:30](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/amazon-web-services-14485189?u=76281980&t=30)** S3 is so well used that in the few times when there was an S3 service outage, dozens of popular services, including Airbnb, Medium and [[Slack]] also experienced issues.
 >
-> **[0:41](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/amazon-web-services-14485189?u=76281980&t=41)** EC2 allows teams to rent machine instances that are analogous to setting up physical machines, but without the physical effort or upfront hardware purchases.
+> **[0:41](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/amazon-web-services-14485189?u=76281980&t=41)** EC2 allows teams to rent machine instances that are analogous to setting up physical machines, but without the physical effort or upfront [[Hardware]] purchases.
 >
 > **[0:50](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/amazon-web-services-14485189?u=76281980&t=50)** If you want to migrate existing on-premises software to the cloud, a basic approach is called lift and shift.
 >
@@ -660,11 +650,11 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/amazon-web-services-14485189?u=76281980&t=80)** And the migration of on-premises applications with Lambda will likely require significant code rewrites and testing.
 >
-> **[1:27](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/amazon-web-services-14485189?u=76281980&t=87)** Because Amazon was the first to market with Lambda before similar offerings from Microsoft and Google, some people use Lambda synonymously with serverless and microservices, words that basically describe a more modular, lightweight way of implementing applications.
+> **[1:27](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/amazon-web-services-14485189?u=76281980&t=87)** Because Amazon was the first to market with Lambda before similar offerings from [[Microsoft]] and [[Google]], some people use Lambda synonymously with serverless and [[Microservices]], words that basically describe a more modular, lightweight way of implementing applications.
 >
 > **[1:44](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/amazon-web-services-14485189?u=76281980&t=104)** AWS also has proprietary offerings, such as the Aurora Database that may be beneficial to users.
 >
-> **[1:50](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/amazon-web-services-14485189?u=76281980&t=110)** Amazon claims that Aurora is up to five times faster than standard MySQL databases, and three times faster than PostgresSQL databases, at a price that's 1/10 that of a commercial database.
+> **[1:50](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/amazon-web-services-14485189?u=76281980&t=110)** Amazon claims that Aurora is up to five times faster than standard [[MySQL]] [[Databases]], and three times faster than PostgresSQL databases, at a price that's 1/10 that of a commercial database.
 >
 > **[2:03](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/amazon-web-services-14485189?u=76281980&t=123)** That sounds great, and some companies are indeed planning to migrate to Aurora.
 >
@@ -672,7 +662,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/amazon-web-services-14485189?u=76281980&t=134)** Some users have seen higher per hour pricing with Aurora compared to their previous solution, a cost that can sometimes be justified by database performance gains.
 >
-> **[2:24](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/amazon-web-services-14485189?u=76281980&t=144)** In general, if your existing database is delivering on the product and user experience requirements you want, migration for the sake of migration is probably not useful.
+> **[2:24](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/amazon-web-services-14485189?u=76281980&t=144)** In general, if your existing database is delivering on the product and [[User Experience (UX)|user experience]] requirements you want, migration for the sake of migration is probably not useful.
 >
 > **[2:34](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/amazon-web-services-14485189?u=76281980&t=154)** Over the years, Amazon has developed an ecosystem around their cloud offerings, partly because it's complex and overwhelming to wade through all the AWS options and configurations.
 >
@@ -686,7 +676,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), database (5), [[Amazon EC2|Ec2]] (4), aws (4), [[Databases]] (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (4), [[Databases]] (2), [[Cloud Infrastructure]] (1), [[Cloud Computing]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1)
 > **Env Vars:** ec2 (4), aws (4)
 > **CLI Commands:** aws (4), make (1), mysql (1)
 > **Analogies:** such as (2), analogous to (1)
@@ -695,18 +685,17 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Google Cloud Platform
-> [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/google-cloud-platform-14485187?u=76281980)
+#### [Google Cloud Platform](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/google-cloud-platform-14485187?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/google-cloud-platform-14485187?u=76281980&t=0)** - [Instructor] Google has a reputation for designing simple-to-use consumer products.
+> **[0:00](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/google-cloud-platform-14485187?u=76281980&t=0)** - [Instructor] [[Google]] has a reputation for designing simple-to-use consumer [[Microsoft Products|products]].
 >
 > **[0:04](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/google-cloud-platform-14485187?u=76281980&t=4)** They're technically advanced under the hood.
 >
-> **[0:06](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/google-cloud-platform-14485187?u=76281980&t=6)** When the millennial Snapchat founder started to build their app in 2011, they felt too overwhelmed by Amazon Web Services, and so use Google App Engine instead.
+> **[0:06](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/google-cloud-platform-14485187?u=76281980&t=6)** When the millennial Snapchat founder started to build their app in 2011, they felt too overwhelmed by [[Amazon Web Services (AWS)|Amazon Web Services]], and so use Google App Engine instead.
 >
-> **[0:16](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/google-cloud-platform-14485187?u=76281980&t=16)** Today, App Engine is part of the Google Cloud Platform, and continues to offer a platform as a service developer experience that requires less infrastructure configuration than creating virtual machines.
+> **[0:16](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/google-cloud-platform-14485187?u=76281980&t=16)** Today, App Engine is part of the [[Google Cloud Platform (GCP)|Google Cloud Platform]], and continues to offer a [[PaaS|platform as a service]] developer experience that requires less infrastructure configuration than creating [[Virtual Machines]].
 >
 > **[0:28](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/google-cloud-platform-14485187?u=76281980&t=28)** Because of the reduced configuration requirements, App Engine is also marketed as a serverless platform.
 >
@@ -714,13 +703,13 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/google-cloud-platform-14485187?u=76281980&t=41)** Historically, despite Google's popularity with consumers, their cloud developer ecosystem has been slower to build up.
 >
-> **[0:48](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/google-cloud-platform-14485187?u=76281980&t=48)** As such, data from 2018 showed that there are fewer enterprises who are on Google's Cloud compare with Amazon and Microsoft.
+> **[0:48](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/google-cloud-platform-14485187?u=76281980&t=48)** As such, data from 2018 showed that there are fewer enterprises who are on Google's Cloud compare with Amazon and [[Microsoft]].
 >
-> **[0:56](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/google-cloud-platform-14485187?u=76281980&t=56)** One way that Google has been differentiating themselves is by their investments in artificial intelligence and machine learning.
+> **[0:56](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/google-cloud-platform-14485187?u=76281980&t=56)** One way that Google has been differentiating themselves is by their investments in [[Artificial Intelligence (AI)|artificial intelligence]] and machine learning.
 >
 > **[1:03](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/google-cloud-platform-14485187?u=76281980&t=63)** These are computational approaches that can enable applications to tackle business and research problems an behalf of humans.
 >
-> **[1:10](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/google-cloud-platform-14485187?u=76281980&t=70)** Google created custom machine learning hardware called Tensor Processing Units, TPUs.
+> **[1:10](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/google-cloud-platform-14485187?u=76281980&t=70)** Google created custom machine learning [[Hardware]] called Tensor Processing Units, TPUs.
 >
 > **[1:15](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/google-cloud-platform-14485187?u=76281980&t=75)** This hardware is used to process workloads for search, street view, photos and translate.
 >
@@ -734,7 +723,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/google-cloud-platform-14485187?u=76281980&t=107)** Colab users can run code on GPU or TPU hardware for free.
 >
-> **[1:52](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/google-cloud-platform-14485187?u=76281980&t=112)** By making a tool easy and free to use, Google is expanding access to students, and others who might not have tried other Google Cloud Services.
+> **[1:52](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/google-cloud-platform-14485187?u=76281980&t=112)** By making a tool easy and free to use, Google is expanding access to students, and others who might not have tried other [[Google Cloud Platform (GCP)|Google Cloud]] Services.
 >
 > **[2:01](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/google-cloud-platform-14485187?u=76281980&t=121)** Artificial intelligence beginners, enthusiasts may also be interested in Google's AutoML, a pay tool set that automatically generates, and trains machine learning models.
 >
@@ -742,7 +731,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/google-cloud-platform-14485187?u=76281980&t=143)** Later in this course, we'll go more into how to prototype specialized functionality to best fit your applications needs.
 >
-> **[2:31](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/google-cloud-platform-14485187?u=76281980&t=151)** Kubernetes is an open-source project initiated by Google that now has contributors, and supporters across industry, including Microsoft and Amazon.
+> **[2:31](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/google-cloud-platform-14485187?u=76281980&t=151)** [[Kubernetes]] is an open-source project initiated by Google that now has contributors, and supporters across industry, including Microsoft and Amazon.
 >
 > **[2:40](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/google-cloud-platform-14485187?u=76281980&t=160)** Kubernetes helps make distributed cloud applications easier to reliably maintain, and scale.
 >
@@ -754,7 +743,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (13), cloud (9), [[Artificial Intelligence (AI)|Artificial intelligence]] (4), [[Hardware]] (4), [[Kubernetes]] (4)
+> **Frameworks & Libraries:** [[Google]] (13), [[Artificial Intelligence (AI)|Artificial intelligence]] (4), [[Hardware]] (4), [[Kubernetes]] (4), [[Virtual Machines]] (2)
 > **Env Vars:** tpu (3), gpu (1)
 > **Cross-References:** later in (2)
 > **Tools:** colab (2)
@@ -763,26 +752,25 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft Azure
-> [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/microsoft-azure-14487162?u=76281980)
+#### [Microsoft Azure](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/microsoft-azure-14487162?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/microsoft-azure-14487162?u=76281980&t=0)** - [Narrator] Microsoft has strong brand recognition and usage among enterprises, which has helped the company gain adoption for its Azure Cloud Platform.
+> **[0:00](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/microsoft-azure-14487162?u=76281980&t=0)** - [Narrator] [[Microsoft]] has strong brand recognition and usage among enterprises, which has helped the company gain adoption for its [[Microsoft Azure|Azure]] Cloud Platform.
 >
-> **[0:08](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/microsoft-azure-14487162?u=76281980&t=8)** A lot of companies already use Microsoft SQL Server, Windows Server, .NET, Active Directory, and other products.
+> **[0:08](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/microsoft-azure-14487162?u=76281980&t=8)** A lot of companies already use [[Microsoft SQL Server]], [[Windows Server]], .NET, [[Active Directory]], and other [[Microsoft Products|products]].
 >
 > **[0:15](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/microsoft-azure-14487162?u=76281980&t=15)** For those companies, it can be a natural fit to consider Azure for their cloud needs.
 >
-> **[0:21](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/microsoft-azure-14487162?u=76281980&t=21)** Historically, Microsoft has appreciated the value of developers, having gained dominance in the operating systems market, partly due to the availability of Windows applications.
+> **[0:21](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/microsoft-azure-14487162?u=76281980&t=21)** Historically, Microsoft has appreciated the value of developers, having gained dominance in the operating systems market, partly due to the availability of [[Windows]] applications.
 >
-> **[0:31](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/microsoft-azure-14487162?u=76281980&t=31)** As the developer ecosystem expanded to mobile phones, Microsoft could not reach the same scale for Windows mobile, ultimately ceding the mobile market to Apple and Android.
+> **[0:31](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/microsoft-azure-14487162?u=76281980&t=31)** As the developer ecosystem expanded to mobile phones, Microsoft could not reach the same scale for Windows mobile, ultimately ceding the mobile market to Apple and [[Android]].
 >
 > **[0:41](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/microsoft-azure-14487162?u=76281980&t=41)** Now that developers and enterprises are making use of the cloud, Microsoft is motivated to avoid conceding either market share or mind share.
 >
 > **[0:49](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/microsoft-azure-14487162?u=76281980&t=49)** The quality and reputation of Microsoft's cloud offerings have improved in recent years.
 >
-> **[0:54](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/microsoft-azure-14487162?u=76281980&t=54)** I remember in 2015, when Microsoft Azure offered very generous credits for startups in Silicon Valley to build on their platform.
+> **[0:54](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/microsoft-azure-14487162?u=76281980&t=54)** I remember in 2015, when [[Microsoft Azure]] offered very generous credits for startups in Silicon Valley to build on their platform.
 >
 > **[1:02](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/microsoft-azure-14487162?u=76281980&t=62)** And even then, many startups were reluctant to build on Azure due to concerns about platform reliability.
 >
@@ -792,9 +780,9 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/microsoft-azure-14487162?u=76281980&t=83)** This code editor can be configured to more easily deploy to Azure, including to the Azure App Service.
 >
-> **[1:30](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/microsoft-azure-14487162?u=76281980&t=90)** Also in 2018, Microsoft acquired GitHub, a cloud-based hosting service for code that's very popular among both enterprises and the open source community.
+> **[1:30](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/microsoft-azure-14487162?u=76281980&t=90)** Also in 2018, Microsoft acquired [[GitHub]], a cloud-based hosting service for code that's very popular among both enterprises and the open source community.
 >
-> **[1:40](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/microsoft-azure-14487162?u=76281980&t=100)** In general, most functionality that folks can do on Google and Amazon's cloud platforms can be done on Azure.
+> **[1:40](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/microsoft-azure-14487162?u=76281980&t=100)** In general, most functionality that folks can do on [[Google]] and Amazon's cloud platforms can be done on Azure.
 >
 > **[1:46](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/microsoft-azure-14487162?u=76281980&t=106)** With the help of Microsoft's experience Working with enterprises, usage of Azure has grown to a number two market share position after Amazon.
 >
@@ -806,11 +794,11 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/microsoft-azure-14487162?u=76281980&t=138)** The majority of companies are not like startups or technology companies that can both build from scratch and can customize a technology with fleets of engineers.
 >
-> **[2:27](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/microsoft-azure-14487162?u=76281980&t=147)** These companies often already have licenses for various Microsoft products and can transport them to the cloud as well.
+> **[2:27](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/microsoft-azure-14487162?u=76281980&t=147)** These companies often already have licenses for various [[Microsoft Products]] and can transport them to the cloud as well.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (10), cloud (9), [[Microsoft Azure|Azure]] (7), [[Windows]] (3), [[Microsoft Azure]] (3)
+> **Frameworks & Libraries:** [[Microsoft]] (10), [[Microsoft Azure|Azure]] (7), [[Windows]] (3), [[Microsoft Azure]] (3), [[Microsoft Products|Products]] (2)
 > **Env Vars:** sql (1), net (1)
 > **Tools:** visual studio (1), github (1)
 > **Definitions:** is a  (1)
@@ -821,12 +809,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Business regulations overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/business-regulations-overview-14490100?u=76281980)
+#### [Business regulations overview](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/business-regulations-overview-14490100?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/business-regulations-overview-14490100?u=76281980&t=0)** - [Instructor] A top reason that companies are reluctant to migrate to the cloud involves their need to comply with existing business regulations, including policies around security and privacy.
+> **[0:00](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/business-regulations-overview-14490100?u=76281980&t=0)** - [Instructor] A top reason that companies are reluctant to migrate to the cloud involves their need to comply with existing business regulations, including policies around security and [[Privacy]].
 >
 > **[0:11](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/business-regulations-overview-14490100?u=76281980&t=11)** Technology tends to evolve faster than laws, and the people who write compliance policies are often not well versed in the latest technologies.
 >
@@ -838,17 +825,17 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/business-regulations-overview-14490100?u=76281980&t=39)** I believe the fear and confusion around cloud compliance will lessen even more over time.
 >
-> **[0:44](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/business-regulations-overview-14490100?u=76281980&t=44)** As an example, it wasn't too long ago that people were afraid to provide their credit card information online to E-commerce websites.
+> **[0:44](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/business-regulations-overview-14490100?u=76281980&t=44)** As an example, it wasn't too long ago that people were afraid to provide their credit card information online to [[E-Commerce]] websites.
 >
-> **[0:51](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/business-regulations-overview-14490100?u=76281980&t=51)** Those security and privacy issues may never be perfectly resolved.
+> **[0:51](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/business-regulations-overview-14490100?u=76281980&t=51)** Those security and [[Privacy Issues]] may never be perfectly resolved.
 >
 > **[0:55](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/business-regulations-overview-14490100?u=76281980&t=55)** The benefits often outweighed the potential issues.
 >
 > **[0:59](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/business-regulations-overview-14490100?u=76281980&t=59)** We can also create processes to help address issues quickly, as they arise.
 >
-> **[1:04](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/business-regulations-overview-14490100?u=76281980&t=64)** Access and data security are key aspects of compliance and general application health.
+> **[1:04](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/business-regulations-overview-14490100?u=76281980&t=64)** Access and [[Data Security]] are key aspects of compliance and general application health.
 >
-> **[1:09](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/business-regulations-overview-14490100?u=76281980&t=69)** Identity and access management, IAM solutions, are included on Amazon, Google, and Microsoft clouds.
+> **[1:09](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/business-regulations-overview-14490100?u=76281980&t=69)** Identity and access management, IAM solutions, are included on Amazon, [[Google]], and [[Microsoft]] clouds.
 >
 > **[1:17](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/business-regulations-overview-14490100?u=76281980&t=77)** Each cloud account has a root user, who is able to administrate everything in that account.
 >
@@ -862,7 +849,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/business-regulations-overview-14490100?u=76281980&t=107)** Encrypting a cloud data store can be done by setting a configuration option.
 >
-> **[1:52](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/business-regulations-overview-14490100?u=76281980&t=112)** By doing so, the data is protected at rest, so that anyone with access to the hard drive won't be able to read the data.
+> **[1:52](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/business-regulations-overview-14490100?u=76281980&t=112)** By doing so, the data is protected at [[Representational State Transfer (REST)|rest]], so that anyone with access to the hard drive won't be able to read the data.
 >
 > **[2:00](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/business-regulations-overview-14490100?u=76281980&t=120)** In the simplest option, the cloud provider transparently manages access to the encryption key.
 >
@@ -876,19 +863,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (11), data (6), [[Security]] (4), business (2), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (1), [[E-Commerce]] (1), [[Privacy Issues]] (1), [[Data Security]] (1), [[Google]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** iam (1), https (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### GDPR (EU data regulations)
-> [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/gdpr-eu-data-regulations-14489114?u=76281980)
+#### [GDPR (EU data regulations)](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/gdpr-eu-data-regulations-14489114?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/gdpr-eu-data-regulations-14489114?u=76281980&t=0)** - [Instructor] General Data Protection Regulation, GDPR, is a European Union law related to data security and privacy.
+> **[0:00](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/gdpr-eu-data-regulations-14489114?u=76281980&t=0)** - [Instructor] General Data Protection Regulation, GDPR, is a European Union law related to [[Data Security]] and [[Privacy]].
 >
 > **[0:08](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/gdpr-eu-data-regulations-14489114?u=76281980&t=8)** It applies to companies that collect personal data from EU residents, even if the companies are based outside the EU.
 >
@@ -918,7 +904,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/gdpr-eu-data-regulations-14489114?u=76281980&t=100)** GDPR requires cloud providers to provide sufficient guarantees in a written contract about the data that they're processing on behalf of their customers.
 >
-> **[1:50](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/gdpr-eu-data-regulations-14489114?u=76281980&t=110)** Amazon, Google, and Microsoft have all met this bar.
+> **[1:50](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/gdpr-eu-data-regulations-14489114?u=76281980&t=110)** Amazon, [[Google]], and [[Microsoft]] have all met this bar.
 >
 > **[1:54](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/gdpr-eu-data-regulations-14489114?u=76281980&t=114)** In addition, each cloud provider has published materials to help their customers understand and comply with data protection regulations.
 >
@@ -948,7 +934,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), cloud (5), [[Security]] (2), [[Privacy]] (2), business (1)
+> **Frameworks & Libraries:** [[Privacy]] (2), [[Data Security]] (1), [[Google]] (1), [[Microsoft]] (1)
 > **Env Vars:** gdpr (9), iam (1), https (1)
 > **CLI Commands:** make (2)
 > **Best Practices:** make sure to (2)
@@ -957,12 +943,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### HIPAA (US health care regulations)
-> [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/hipaa-us-health-care-regulations?u=76281980)
+#### [HIPAA (US health care regulations)](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/hipaa-us-health-care-regulations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/hipaa-us-health-care-regulations?u=76281980&t=0)** - [Instructor] The US Health Insurance Portability and Accountability Act, HIPAA, governs the handling of protected health information.
+> **[0:00](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/hipaa-us-health-care-regulations?u=76281980&t=0)** - [Instructor] The US Health Insurance Portability and [[Accountability]] Act, HIPAA, governs the handling of protected health information.
 >
 > **[0:08](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/hipaa-us-health-care-regulations?u=76281980&t=8)** HIPAA applies to any American organization that interacts with patient healthcare data, including medical records and prescription payment information.
 >
@@ -970,7 +955,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/hipaa-us-health-care-regulations?u=76281980&t=21)** As of January 2019, the US Department of Health and Human Services has imposed a civil penalty in 62 cases and an average fine of about $1.5 million per case.
 >
-> **[0:34](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/hipaa-us-health-care-regulations?u=76281980&t=34)** Often following complaints, many types of organizations have been investigated, including major medical centers, hospitals, and a small health provider office.
+> **[0:34](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/hipaa-us-health-care-regulations?u=76281980&t=34)** Often following complaints, many types of organizations have been investigated, including major medical centers, hospitals, and a small health provider [[Microsoft Office|office]].
 >
 > **[0:44](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/hipaa-us-health-care-regulations?u=76281980&t=44)** According to the US government, the most frequently investigated HIPAA violations involve these five areas.
 >
@@ -982,7 +967,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/hipaa-us-health-care-regulations?u=76281980&t=90)** This case was settled with a $4.3 million fine.
 >
-> **[1:35](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/hipaa-us-health-care-regulations?u=76281980&t=95)** In 2015, a large health benefit company discovered that cyber attackers had gained access to 79 million patient names, social security numbers, and more, through phishing emails.
+> **[1:35](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/hipaa-us-health-care-regulations?u=76281980&t=95)** In 2015, a large health benefit company discovered that cyber attackers had gained access to 79 million patient names, social security numbers, and more, through [[Phishing]] emails.
 >
 > **[1:49](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/hipaa-us-health-care-regulations?u=76281980&t=109)** This case was settled with a $16 million fine.
 >
@@ -994,7 +979,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/hipaa-us-health-care-regulations?u=76281980&t=135)** As such, the company must have a written HIPAA Business Associate Agreement with the cloud provider.
 >
-> **[2:22](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/hipaa-us-health-care-regulations?u=76281980&t=142)** Thankfully, Amazon, Microsoft, and Google all have such agreements available.
+> **[2:22](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/hipaa-us-health-care-regulations?u=76281980&t=142)** Thankfully, Amazon, [[Microsoft]], and [[Google]] all have such agreements available.
 >
 > **[2:27](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/hipaa-us-health-care-regulations?u=76281980&t=147)** These HIPAA specific agreements, and related materials, should be reviewed separately for each cloud provider that your company chooses to use.
 >
@@ -1010,11 +995,11 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/hipaa-us-health-care-regulations?u=76281980&t=183)** However, the intent behind the law is similar to other data protection policies around the world.
 >
-> **[3:09](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/hipaa-us-health-care-regulations?u=76281980&t=189)** By understanding the requirements and following good security practices around access control, encryption, and documentation, you and your company will reduce the risk of data breaches and user privacy violations.
+> **[3:09](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/hipaa-us-health-care-regulations?u=76281980&t=189)** By understanding the requirements and following good security practices around access control, encryption, and documentation, you and your company will reduce the risk of data breaches and user [[Privacy]] violations.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (7), data (6), [[Security]] (2), business (2), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Accountability]] (1), [[Microsoft Office|Office]] (1), [[Phishing]] (1), [[Microsoft]] (1), [[Google]] (1)
 > **Env Vars:** hipaa (10), usb (1)
 > **Versions:** 1.5 (1), 4.3 (1)
 > **Speakers:** - [instructor] (1)
@@ -1024,8 +1009,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Assess current skills and needs
-> [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/assess-current-skills-and-needs-14485188?u=76281980)
+#### [Assess current skills and needs](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/assess-current-skills-and-needs-14485188?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1033,7 +1017,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/assess-current-skills-and-needs-14485188?u=76281980&t=9)** If you've decided to put energy toward cloud projects, one of the first steps involves creating a team who will be responsible for tackling cloud-related challenges.
 >
-> **[0:18](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/assess-current-skills-and-needs-14485188?u=76281980&t=18)** Small teams can be more agile than large teams, even within large enterprises, smaller teams with a sufficient sense of ownership and autonomy can help quickly drive towards a business, and technological solutions.
+> **[0:18](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/assess-current-skills-and-needs-14485188?u=76281980&t=18)** Small teams can be more [[Agile Development|agile]] than large teams, even within large enterprises, smaller teams with a sufficient sense of ownership and autonomy can help quickly drive towards a business, and technological solutions.
 >
 > **[0:31](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/assess-current-skills-and-needs-14485188?u=76281980&t=31)** Where relevant, these teams can make use of the broader set of resources and experiences inside, and outside the organization.
 >
@@ -1043,7 +1027,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/assess-current-skills-and-needs-14485188?u=76281980&t=57)** This team can also help clarify the current set of skills, and needs within your organization, as well as the current unknowns that will require more investigation.
 >
-> **[1:06](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/assess-current-skills-and-needs-14485188?u=76281980&t=66)** Since the current generation of cloud services has seen a lot of growth, and changes in recent years, it's important for your cloud team to be open to new possibilities, and new solutions.
+> **[1:06](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/assess-current-skills-and-needs-14485188?u=76281980&t=66)** Since the current generation of [[Cloud Services]] has seen a lot of growth, and changes in recent years, it's important for your cloud team to be open to new possibilities, and new solutions.
 >
 > **[1:17](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/assess-current-skills-and-needs-14485188?u=76281980&t=77)** It can be natural for people to gravitate to what they already know, what feels like the least change, or what is the most popular trend at the moment.
 >
@@ -1069,14 +1053,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (11), teams (4), [[Agile Development|Agile]] (1), business (1), data (1)
+> **Frameworks & Libraries:** [[Cloud Services]] (2), [[Agile Development|Agile]] (1)
 > **Warnings:** be aware (1), keep in mind (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Evolve roles and expertise
-> [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/evolve-roles-and-expertise-14486208?u=76281980)
+#### [Evolve roles and expertise](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/evolve-roles-and-expertise-14486208?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1124,7 +1107,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/evolve-roles-and-expertise-14486208?u=76281980&t=149)** Allow your team to adapt and evolve your cloud projects, while documenting and remembering the many lessons learned along the journey.
 >
-> **[2:37](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/evolve-roles-and-expertise-14486208?u=76281980&t=157)** As the number of cloud-based tools has expanded in recent years, the field of DevOps has emerged to help application developers more efficiently and reliably release their latest app versions.
+> **[2:37](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/evolve-roles-and-expertise-14486208?u=76281980&t=157)** As the number of cloud-based tools has expanded in recent years, the field of [[DevOps]] has emerged to help application developers more efficiently and reliably release their latest app versions.
 >
 > **[2:49](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/evolve-roles-and-expertise-14486208?u=76281980&t=169)** DevOps responsibilities can include the automation of infrastructure setups and the monitoring of deployed code.
 >
@@ -1132,18 +1115,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), [[DevOps]] (2), application (2), [[Programming]] (1), next (1)
+> **Frameworks & Libraries:** [[DevOps]] (2)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Prioritize learning and testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/prioritize-learning-and-testing-14490097?u=76281980)
+#### [Prioritize learning and testing](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/prioritize-learning-and-testing-14490097?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/prioritize-learning-and-testing-14490097?u=76281980&t=0)** - [Instructor] The best organizations know that not everything they pursue will succeed a hundred percent of the time, yet they're able to learn from various iterations, and come up with new solutions based on their learnings.
 >
-> **[0:12](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/prioritize-learning-and-testing-14490097?u=76281980&t=12)** An important advantage in pursuing an iterative, and agile approach to cloud projects is it allows a team to more quickly learn whether potential solutions will fit specific organizational needs.
+> **[0:12](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/prioritize-learning-and-testing-14490097?u=76281980&t=12)** An important advantage in pursuing an iterative, and [[Agile Development|agile]] approach to cloud projects is it allows a team to more quickly learn whether potential solutions will fit specific organizational needs.
 >
 > **[0:23](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/prioritize-learning-and-testing-14490097?u=76281980&t=23)** I'd also encourage team members to tackle some of the most uncertain or difficult areas first, so that there's more time to come up with workable solutions.
 >
@@ -1157,15 +1139,15 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/prioritize-learning-and-testing-14490097?u=76281980&t=63)** In general, building the cloud should make your test efforts more efficient not less.
 >
-> **[1:08](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/prioritize-learning-and-testing-14490097?u=76281980&t=68)** Software testing can get complex.
+> **[1:08](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/prioritize-learning-and-testing-14490097?u=76281980&t=68)** [[Software Testing]] can get complex.
 >
-> **[1:11](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/prioritize-learning-and-testing-14490097?u=76281980&t=71)** There's functionality testing, but also stress and load testing, compliance testing, security testing, resilience testing, and testing on various browsers and devices.
+> **[1:11](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/prioritize-learning-and-testing-14490097?u=76281980&t=71)** There's functionality testing, but also stress and [[Load Testing]], compliance testing, [[Security Testing]], resilience testing, and testing on various browsers and devices.
 >
-> **[1:22](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/prioritize-learning-and-testing-14490097?u=76281980&t=82)** I've seen successful products apply an 80/20 prioritized approach with testing that's also time-limited.
+> **[1:22](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/prioritize-learning-and-testing-14490097?u=76281980&t=82)** I've seen successful [[Microsoft Products|products]] apply an 80/20 prioritized approach with testing that's also time-limited.
 >
-> **[1:29](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/prioritize-learning-and-testing-14490097?u=76281980&t=89)** For any particular iteration, you can potentially find the most serious issues with 20% of the total possible testing work including by doing manual testing.
+> **[1:29](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/prioritize-learning-and-testing-14490097?u=76281980&t=89)** For any particular iteration, you can potentially find the most serious issues with 20% of the total possible testing work including by doing [[Manual Testing]].
 >
-> **[1:39](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/prioritize-learning-and-testing-14490097?u=76281980&t=99)** For increase agility, I prefer end-to-end testing over unit testing since end-users can encounter issues, a span, one or more component units.
+> **[1:39](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/prioritize-learning-and-testing-14490097?u=76281980&t=99)** For increase agility, I prefer [[End-to-end Testing]] over [[Unit Testing]] since end-users can encounter issues, a span, one or more component units.
 >
 > **[1:48](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/prioritize-learning-and-testing-14490097?u=76281980&t=108)** For me, testing doesn't imply an academic exercise to make sure that every single line of application code is called upon by test code at all possible situations.
 >
@@ -1181,7 +1163,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), data (2), [[Microsoft Products|Products]] (2), [[Agile Development|Agile]] (1), [[Software Testing]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Agile Development|Agile]] (1), [[Software Testing]] (1), [[Load Testing]] (1), [[Security Testing]] (1)
 > **CLI Commands:** make (2), find (2)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
@@ -1191,8 +1173,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Evaluate specialized functionality
-> [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/evaluate-specialized-functionality-14486209?u=76281980)
+#### [Evaluate specialized functionality](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/evaluate-specialized-functionality-14486209?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1200,11 +1181,11 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/evaluate-specialized-functionality-14486209?u=76281980&t=5)** Some of this functionality is currently relevant to only a small subset of developers.
 >
-> **[0:11](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/evaluate-specialized-functionality-14486209?u=76281980&t=11)** For example, in 2018, Amazon Web Services launched RoboMaker, a service for robotics developers.
+> **[0:11](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/evaluate-specialized-functionality-14486209?u=76281980&t=11)** For example, in 2018, [[Amazon Web Services (AWS)|Amazon Web Services]] launched RoboMaker, a service for robotics developers.
 >
-> **[0:18](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/evaluate-specialized-functionality-14486209?u=76281980&t=18)** Microsoft has been investing in mixed reality, an ecosystem that blends physical and digital worlds.
+> **[0:18](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/evaluate-specialized-functionality-14486209?u=76281980&t=18)** [[Microsoft]] has been investing in mixed reality, an ecosystem that blends physical and digital worlds.
 >
-> **[0:25](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/evaluate-specialized-functionality-14486209?u=76281980&t=25)** Mixed reality developers can create applications for the HoloLens and Azure Kinect devices.
+> **[0:25](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/evaluate-specialized-functionality-14486209?u=76281980&t=25)** Mixed reality developers can create applications for the HoloLens and [[Microsoft Azure|Azure]] Kinect devices.
 >
 > **[0:31](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/evaluate-specialized-functionality-14486209?u=76281980&t=31)** To evaluate specialized functionality, it's helpful to draft use cases before diving into the available tools.
 >
@@ -1238,7 +1219,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/evaluate-specialized-functionality-14486209?u=76281980&t=118)** I'm still interested in how technology can help improve my customer's store experience.
 >
-> **[2:03](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/evaluate-specialized-functionality-14486209?u=76281980&t=123)** I consider whether customers might want to interact with Google Home and Amazon Alexa to ask questions about purchases.
+> **[2:03](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/evaluate-specialized-functionality-14486209?u=76281980&t=123)** I consider whether customers might want to interact with [[Google]] Home and Amazon Alexa to ask questions about purchases.
 >
 > **[2:10](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/evaluate-specialized-functionality-14486209?u=76281980&t=130)** If so, I can look into creating a voice app for one of those devices.
 >
@@ -1260,14 +1241,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (2), [[Microsoft]] (2), [[Microsoft Azure|Azure]] (2), [[Amazon Web Services (AWS)|Amazon web services]] (1), open-source (1)
+> **Frameworks & Libraries:** [[Microsoft]] (2), [[Microsoft Azure|Azure]] (2), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Google]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1), such as (1)
 > **Env Vars:** ros (1)
 > **Speakers:** - [narrator] (1)
 
-#### Gather insights through implementation
-> [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/gather-insights-through-implementation-14491060?u=76281980)
+#### [Gather insights through implementation](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/gather-insights-through-implementation-14491060?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1275,15 +1255,15 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/gather-insights-through-implementation-14491060?u=76281980&t=4)** Prototypes can help you sort out the benefits and limitations of your ideas and tools and can become reference points for what a fully productionized solution would be.
 >
-> **[0:13](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/gather-insights-through-implementation-14491060?u=76281980&t=13)** In many cases, it's difficult to predict how users will react to a solution without putting implementations in front of them.
+> **[0:13](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/gather-insights-through-implementation-14491060?u=76281980&t=13)** In many cases, it's difficult to predict how users will [[React.js|react]] to a solution without putting implementations in front of them.
 >
 > **[0:21](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/gather-insights-through-implementation-14491060?u=76281980&t=21)** Prototypes are less costly and faster to build than fully polished solutions.
 >
-> **[0:25](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/gather-insights-through-implementation-14491060?u=76281980&t=25)** There's even the concept of paper prototypes for digital products, hand drawn sketches and diagrams that are used for soliciting feedback for further learning and iteration.
+> **[0:25](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/gather-insights-through-implementation-14491060?u=76281980&t=25)** There's even the concept of paper prototypes for digital [[Microsoft Products|products]], hand drawn sketches and diagrams that are used for soliciting feedback for further learning and iteration.
 >
 > **[0:36](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/gather-insights-through-implementation-14491060?u=76281980&t=36)** As described earlier in this course, different cloud providers have different strengths and each provider is working on improving their offerings to better serve their user base.
 >
-> **[0:45](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/gather-insights-through-implementation-14491060?u=76281980&t=45)** Prototypes with different cloud providers can help you decide which cloud services to use for which scenarios.
+> **[0:45](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/gather-insights-through-implementation-14491060?u=76281980&t=45)** Prototypes with different cloud providers can help you decide which [[Cloud Services]] to use for which scenarios.
 >
 > **[0:52](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/gather-insights-through-implementation-14491060?u=76281980&t=52)** For agility's sake, you might want to choose a default cloud provider for basic functionalities.
 >
@@ -1291,7 +1271,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/gather-insights-through-implementation-14491060?u=76281980&t=65)** Prototypes can unearth limitations that might be tough to discover otherwise.
 >
-> **[1:09](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/gather-insights-through-implementation-14491060?u=76281980&t=69)** Several years ago, I was recommended to use a particular software development framework for building a new mobile application.
+> **[1:09](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/gather-insights-through-implementation-14491060?u=76281980&t=69)** Several years ago, I was recommended to use a particular [[Software Development]] framework for building a new mobile application.
 >
 > **[1:16](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/gather-insights-through-implementation-14491060?u=76281980&t=76)** This framework fit my needs at the time and worked well with the cloud services that I used.
 >
@@ -1305,7 +1285,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/gather-insights-through-implementation-14491060?u=76281980&t=104)** We had reached the limits of that particular software development framework after some initial iterations.
 >
-> **[1:50](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/gather-insights-through-implementation-14491060?u=76281980&t=110)** To provide a better user experience with faster load times, we need to rebuild the applications with a different software framework.
+> **[1:50](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/gather-insights-through-implementation-14491060?u=76281980&t=110)** To provide a better [[User Experience (UX)|user experience]] with faster load times, we need to rebuild the applications with a different software framework.
 >
 > **[1:58](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/gather-insights-through-implementation-14491060?u=76281980&t=118)** Besides gathering insights, setting milestones to demonstrate prototype versions is a great way to keep projects moving along.
 >
@@ -1313,25 +1293,24 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/gather-insights-through-implementation-14491060?u=76281980&t=128)** If the goal is to launch a new product within one year, it's much better to have a prototype within one month than to be in a dark about how things can go for half a year.
 >
-> **[2:17](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/gather-insights-through-implementation-14491060?u=76281980&t=137)** Note that in some very agile and innovative work cultures, project timelines are set ambitiously.
+> **[2:17](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/gather-insights-through-implementation-14491060?u=76281980&t=137)** Note that in some very [[Agile Development|agile]] and innovative work cultures, project timelines are set ambitiously.
 >
 > **[2:23](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/gather-insights-through-implementation-14491060?u=76281980&t=143)** By setting up agile release processes for your cloud projects, you can minimize the cost of missing deadlines while also gathering more insights for the longterm.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (7), mobile application (3), [[Software Development]] (2), [[Agile Development|Agile]] (2), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[Cloud Services]] (3), [[Software Development]] (2), [[Agile Development|Agile]] (2), [[React.js|React]] (1), [[Microsoft Products|Products]] (1)
 > **Cross-References:** earlier in (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Image-to-text prototype example
-> [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/image-to-text-prototype-example-14485184?u=76281980)
+#### [Image-to-text prototype example](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/image-to-text-prototype-example-14485184?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/image-to-text-prototype-example-14485184?u=76281980&t=0)** - [Instructor] We're going to consider a prototype related to artificial intelligence, a way of getting computers to do things on behalf of users.
+> **[0:00](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/image-to-text-prototype-example-14485184?u=76281980&t=0)** - [Instructor] We're going to consider a prototype related to [[Artificial Intelligence (AI)|artificial intelligence]], a way of getting computers to do things on behalf of users.
 >
 > **[0:08](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/image-to-text-prototype-example-14485184?u=76281980&t=8)** We want to allow user to send the computer program a photo with a text in it.
 >
@@ -1355,9 +1334,9 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/image-to-text-prototype-example-14485184?u=76281980&t=59)** To get this done, we can develop a custom API or application programming interface that evaluates and connects to different text detection engines.
 >
-> **[1:08](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/image-to-text-prototype-example-14485184?u=76281980&t=68)** For this scenario, we'll implement an input page and a backend API that connects to Google, Amazon and Microsoft engines.
+> **[1:08](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/image-to-text-prototype-example-14485184?u=76281980&t=68)** For this scenario, we'll implement an input page and a backend API that connects to [[Google]], Amazon and [[Microsoft]] engines.
 >
-> **[1:17](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/image-to-text-prototype-example-14485184?u=76281980&t=77)** We'll use HTML for the input page and JavaScript and Node.js for the backend.
+> **[1:17](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/image-to-text-prototype-example-14485184?u=76281980&t=77)** We'll use [[HTML]] for the input page and [[JavaScript]] and [[Node.js]] for the backend.
 >
 > **[1:23](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/image-to-text-prototype-example-14485184?u=76281980&t=83)** This Node.js backend uses a few frameworks to enable the functionality we need, including Express and EJS.
 >
@@ -1393,7 +1372,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), feature (4), api (2), [[Google]] (2), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Google]] (2), [[Microsoft]] (2), [[JavaScript]] (2), [[Node.js]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Env Vars:** api (2), html (1), ejs (1)
 > **CLI Commands:** node (2), make (1)
 > **File Paths:** node.js (2)
@@ -1406,8 +1385,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Switch cloud providers as needed
-> [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/switch-cloud-providers-as-needed-14484243?u=76281980)
+#### [Switch cloud providers as needed](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/switch-cloud-providers-as-needed-14484243?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1419,7 +1397,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/switch-cloud-providers-as-needed-14484243?u=76281980&t=15)** Walkman devices, videotapes, and blockbuster stores have all become obsolete for the most part.
 >
-> **[0:21](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/switch-cloud-providers-as-needed-14484243?u=76281980&t=21)** Cloud services can also rise and fall.
+> **[0:21](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/switch-cloud-providers-as-needed-14484243?u=76281980&t=21)** [[Cloud Services]] can also rise and fall.
 >
 > **[0:24](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/switch-cloud-providers-as-needed-14484243?u=76281980&t=24)** Parse was a mobile cloud provider that supported over 500,000 apps, but then close shop in 2017.
 >
@@ -1435,15 +1413,15 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/switch-cloud-providers-as-needed-14484243?u=76281980&t=75)** This adaptable design makes maintenance and upgrades easier for everyone.
 >
-> **[1:20](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/switch-cloud-providers-as-needed-14484243?u=76281980&t=80)** In the JavaScript code that sets up our custom detect text API, we have a variable request engine that captures the text detection engine that the API consumer has asked for.
+> **[1:20](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/switch-cloud-providers-as-needed-14484243?u=76281980&t=80)** In the [[JavaScript]] code that sets up our custom detect text API, we have a variable request engine that captures the text detection engine that the API consumer has asked for.
 >
 > **[1:33](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/switch-cloud-providers-as-needed-14484243?u=76281980&t=93)** The API consumer can be a mobile app, a web app, or any other software.
 >
-> **[1:38](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/switch-cloud-providers-as-needed-14484243?u=76281980&t=98)** We configure a default engine, which is Google for this prototype.
+> **[1:38](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/switch-cloud-providers-as-needed-14484243?u=76281980&t=98)** We configure a default engine, which is [[Google]] for this prototype.
 >
 > **[1:43](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/switch-cloud-providers-as-needed-14484243?u=76281980&t=103)** We then use a JavaScript switch statement to declare supported engines and what actions to take for each case.
 >
-> **[1:51](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/switch-cloud-providers-as-needed-14484243?u=76281980&t=111)** The supported engines are Amazon, Google, and Microsoft.
+> **[1:51](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/switch-cloud-providers-as-needed-14484243?u=76281980&t=111)** The supported engines are Amazon, Google, and [[Microsoft]].
 >
 > **[1:56](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/switch-cloud-providers-as-needed-14484243?u=76281980&t=116)** We also have an all case that calls upon all three engines for evaluation purposes.
 >
@@ -1467,13 +1445,13 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/switch-cloud-providers-as-needed-14484243?u=76281980&t=183)** For this example, there's no significant benefit in designing the code to allow switching to different providers for archiving images and sending email.
 >
-> **[3:12](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/switch-cloud-providers-as-needed-14484243?u=76281980&t=192)** The functionality is basic and doesn't directly affect any user experience of detecting texts or images.
+> **[3:12](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/switch-cloud-providers-as-needed-14484243?u=76281980&t=192)** The functionality is basic and doesn't directly affect any [[User Experience (UX)|user experience]] of detecting texts or images.
 >
 > **[3:18](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/switch-cloud-providers-as-needed-14484243?u=76281980&t=198)** The basic should work with all the popular cloud providers.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (9), api (6), [[JavaScript]] (2), [[Google]] (2), power (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Google]] (2), [[Cloud Services]] (1), [[Microsoft]] (1), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** api (6)
 > **Analogies:** analogous to (1), such as (1)
 > **Prerequisites:** configure (1), set up (1)
@@ -1482,8 +1460,7 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Speakers:** - providing (1)
 
-#### Containers for your code
-> [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/containers-for-your-code-14484245?u=76281980)
+#### [Containers for your code](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/containers-for-your-code-14484245?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1493,19 +1470,19 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/containers-for-your-code-14484245?u=76281980&t=10)** They help avoid the issue of code that works on one machine environment, but doesn't on a different machine environment.
 >
-> **[0:18](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/containers-for-your-code-14484245?u=76281980&t=18)** Unlike virtual machines, where an operating system must be installed, containers are lighter weight and run on top of existing operating systems.
+> **[0:18](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/containers-for-your-code-14484245?u=76281980&t=18)** Unlike [[Virtual Machines]], where an operating system must be installed, containers are lighter weight and run on top of existing operating systems.
 >
 > **[0:27](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/containers-for-your-code-14484245?u=76281980&t=27)** They can be portable to run on development laptops, on-premise data centers, or on cloud providers virtual machines.
 >
 > **[0:34](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/containers-for-your-code-14484245?u=76281980&t=34)** Docker is an open source format that initiated a wave of containerization starting 2013 and has become the standard format for containers.
 >
-> **[0:43](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/containers-for-your-code-14484245?u=76281980&t=43)** Today, Docker containers can run on Amazon Web Services, Google Cloud Platform, Microsoft Azure, and more.
+> **[0:43](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/containers-for-your-code-14484245?u=76281980&t=43)** Today, Docker containers can run on [[Amazon Web Services (AWS)|Amazon Web Services]], [[Google Cloud Platform (GCP)|Google Cloud Platform]], [[Microsoft Azure]], and more.
 >
 > **[0:51](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/containers-for-your-code-14484245?u=76281980&t=51)** Docker containers are created from Docker images that specify container contents.
 >
 > **[0:57](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/containers-for-your-code-14484245?u=76281980&t=57)** Additional tools exist for managing Docker containers.
 >
-> **[1:00](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/containers-for-your-code-14484245?u=76281980&t=60)** They include Kubernetes, an open source project that helps to maintain and scale containerize applications.
+> **[1:00](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/containers-for-your-code-14484245?u=76281980&t=60)** They include [[Kubernetes]], an open source project that helps to maintain and scale containerize applications.
 >
 > **[1:07](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/containers-for-your-code-14484245?u=76281980&t=67)** In the San Francisco Bay area, it's increasingly common to hear of companies who migrated their virtual machine applications to run in Docker containers managed by Kubernetes.
 >
@@ -1513,9 +1490,9 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/containers-for-your-code-14484245?u=76281980&t=86)** The benefit of crossing this hurdle is related to longer term development agility for larger scale distributed applications.
 >
-> **[1:34](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/containers-for-your-code-14484245?u=76281980&t=94)** This is agility is similar to the offer by platform as a service solutions, such as Google App Engine, Amazon Elastic Beanstalk, Microsoft App Service and Heroku.
+> **[1:34](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/containers-for-your-code-14484245?u=76281980&t=94)** This is agility is similar to the offer by [[PaaS|platform as a service]] solutions, such as [[Google]] App Engine, Amazon Elastic Beanstalk, [[Microsoft]] App Service and Heroku.
 >
-> **[1:45](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/containers-for-your-code-14484245?u=76281980&t=105)** It's also similar to the agility offered by serverless solutions, such as AWS Lambda, Google Cloud Functions and Azure Cloud Functions.
+> **[1:45](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/containers-for-your-code-14484245?u=76281980&t=105)** It's also similar to the agility offered by serverless solutions, such as AWS Lambda, [[Google Cloud Platform (GCP)|Google Cloud]] Functions and [[Microsoft Azure|Azure]] Cloud Functions.
 >
 > **[1:54](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/containers-for-your-code-14484245?u=76281980&t=114)** However, the container approach appeals to developers and operations staff who seek more control over the infrastructure.
 >
@@ -1529,7 +1506,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/containers-for-your-code-14484245?u=76281980&t=150)** It's important to start from trusted Docker image sources.
 >
-> **[2:34](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/containers-for-your-code-14484245?u=76281980&t=154)** Otherwise there's a security risk that the starting Docker image was maliciously designed to take over your cloud computing resources.
+> **[2:34](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/containers-for-your-code-14484245?u=76281980&t=154)** Otherwise there's a [[Security Risk]] that the starting Docker image was maliciously designed to take over your [[Cloud Computing]] resources.
 >
 > **[2:42](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/containers-for-your-code-14484245?u=76281980&t=162)** After building our Hello World Docker image, we upload it to container registry.
 >
@@ -1545,7 +1522,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (10), cloud (5), [[Virtual Machines]] (3), [[Google]] (3), [[Microsoft Azure|Azure]] (3)
+> **Frameworks & Libraries:** [[Kubernetes]] (10), [[Virtual Machines]] (3), [[Google]] (3), [[Microsoft Azure|Azure]] (3), [[Amazon Web Services (AWS)|Amazon web services]] (1)
 > **CLI Commands:** docker (14), aws (1), node (1)
 > **Analogies:** similar to (2), such as (2), for example (1)
 > **Ports:** port 80 (1)
@@ -1553,8 +1530,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Streamline cloud processes
-> [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/streamline-cloud-processes-14486205?u=76281980)
+#### [Streamline cloud processes](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/streamline-cloud-processes-14486205?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1562,13 +1538,13 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/streamline-cloud-processes-14486205?u=76281980&t=7)** I like to think from the end user's perspective.
 >
-> **[0:09](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/streamline-cloud-processes-14486205?u=76281980&t=9)** An end users tend to be unaware of whether application code is in Docker containers, or whether Amazon, Google, Microsoft, or others are serving as cloud providers.
+> **[0:09](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/streamline-cloud-processes-14486205?u=76281980&t=9)** An end users tend to be unaware of whether application code is in Docker containers, or whether Amazon, [[Google]], [[Microsoft]], or others are serving as cloud providers.
 >
 > **[0:18](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/streamline-cloud-processes-14486205?u=76281980&t=18)** In this way, cloud provider and infrastructure details are like computer programming languages.
 >
-> **[0:24](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/streamline-cloud-processes-14486205?u=76281980&t=24)** It's possible to deliver an end user experience with multiple programming languages.
+> **[0:24](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/streamline-cloud-processes-14486205?u=76281980&t=24)** It's possible to deliver an end [[User Experience (UX)|user experience]] with multiple programming languages.
 >
-> **[0:29](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/streamline-cloud-processes-14486205?u=76281980&t=29)** For more popular languages like JavaScript and Python to less commonly use languages like Closure or Go that still have its fans.
+> **[0:29](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/streamline-cloud-processes-14486205?u=76281980&t=29)** For more popular languages like [[JavaScript]] and [[Python (Programming Language)|Python]] to less commonly use languages like Closure or Go that still have its fans.
 >
 > **[0:37](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/streamline-cloud-processes-14486205?u=76281980&t=37)** As we saw with the image detect prototype described earlier in this course, for some scenarios, choosing a specific technology provider does make a significant difference to end user experience.
 >
@@ -1576,11 +1552,11 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/streamline-cloud-processes-14486205?u=76281980&t=55)** Technology and infrastructure details also impact organizational agility and developer's day to day work experience.
 >
-> **[1:02](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/streamline-cloud-processes-14486205?u=76281980&t=62)** For example if all of your existing developers work on Microsoft Windows and use Microsoft development tools, it will probably be faster to launch a new application based on Microsoft technologies.
+> **[1:02](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/streamline-cloud-processes-14486205?u=76281980&t=62)** For example if all of your existing developers work on Microsoft [[Windows]] and use Microsoft development tools, it will probably be faster to launch a new application based on Microsoft technologies.
 >
 > **[1:13](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/streamline-cloud-processes-14486205?u=76281980&t=73)** Even so continuous training with an eye toward end user benefits can help developers and organizations be more adaptable.
 >
-> **[1:21](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/streamline-cloud-processes-14486205?u=76281980&t=81)** Streamlining your organization's cloud development processes can be measurable to some extent.
+> **[1:21](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/streamline-cloud-processes-14486205?u=76281980&t=81)** Streamlining your organization's [[Cloud Development]] processes can be measurable to some extent.
 >
 > **[1:26](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/streamline-cloud-processes-14486205?u=76281980&t=86)** Consider whether it can be easier or faster for application developers to deploy new code to a pre production test environment.
 >
@@ -1592,13 +1568,13 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/streamline-cloud-processes-14486205?u=76281980&t=106)** Automated testing can be very helpful, but does required time to write and maintain automated test cases.
 >
-> **[1:52](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/streamline-cloud-processes-14486205?u=76281980&t=112)** For products are likely to quickly change based on end user feedback, high quality manual testing, or a mix of automated and manual testing can be useful shortcuts.
+> **[1:52](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/streamline-cloud-processes-14486205?u=76281980&t=112)** For [[Microsoft Products|products]] are likely to quickly change based on end user feedback, high quality [[Manual Testing]], or a mix of automated and manual testing can be useful shortcuts.
 >
 > **[2:02](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/streamline-cloud-processes-14486205?u=76281980&t=122)** Once there's sufficient testing, code should be deployed to production for further feedback and iteration.
 >
 > **[2:07](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/streamline-cloud-processes-14486205?u=76281980&t=127)** The use of feature flags to hide incomplete production code can also help with iteration.
 >
-> **[2:13](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/streamline-cloud-processes-14486205?u=76281980&t=133)** By streamlining how developers can get high quality code and features into production the organization and business can be more agile and responsive to customer needs.
+> **[2:13](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/streamline-cloud-processes-14486205?u=76281980&t=133)** By streamlining how developers can get high quality code and features into production the organization and business can be more [[Agile Development|agile]] and responsive to customer needs.
 >
 > **[2:22](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/streamline-cloud-processes-14486205?u=76281980&t=142)** The organization of code can also be a controversial topic.
 >
@@ -1614,7 +1590,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (4), application (3), cloud (2), [[Programming]] (2), [[User Experience (UX)|User experience]] (2)
+> **Frameworks & Libraries:** [[Microsoft]] (4), [[User Experience (UX)|User experience]] (2), [[Manual Testing]] (2), [[Google]] (1), [[JavaScript]] (1)
 > **CLI Commands:** docker (1), python (1), make (1), find (1)
 > **Cross-References:** as we saw (1), earlier in (1)
 > **Analogies:** for example (2)
@@ -1625,8 +1601,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing the cloud platform journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/continuing-the-cloud-platform-journey?u=76281980)
+#### [Continuing the cloud platform journey](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/continuing-the-cloud-platform-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1636,11 +1611,11 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/continuing-the-cloud-platform-journey?u=76281980&t=12)** In the next 30 days, I would encourage you to choose three cloud tools and to understand them better with hands-on practice.
 >
-> **[0:19](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/continuing-the-cloud-platform-journey?u=76281980&t=19)** For example, try uploading a file to Amazon S3, connecting with the Microsoft Cognitive Services API, or building a demo app with Google App Engine.
+> **[0:19](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/continuing-the-cloud-platform-journey?u=76281980&t=19)** For example, try uploading a file to Amazon S3, connecting with the [[Microsoft]] Cognitive Services API, or building a demo app with [[Google]] App Engine.
 >
 > **[0:29](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/continuing-the-cloud-platform-journey?u=76281980&t=29)** The more you try things, the better you can understand how various tools can be utilized to reach your organizational and project goals.
 >
-> **[0:36](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/continuing-the-cloud-platform-journey?u=76281980&t=36)** Additional videos in the LinkedIn Learning library and the latest tutorials on cloud providers' websites can assist you in this endeavor.
+> **[0:36](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/continuing-the-cloud-platform-journey?u=76281980&t=36)** Additional videos in the [[LinkedIn]] Learning library and the latest tutorials on cloud providers' websites can assist you in this endeavor.
 >
 > **[0:43](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/continuing-the-cloud-platform-journey?u=76281980&t=43)** You can also message me on LinkedIn, if you'd like.
 >
@@ -1648,7 +1623,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (2), [[LinkedIn]] (2), next (1), [[Microsoft]] (1), api (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Microsoft]] (1), [[Google]] (1)
 > **Env Vars:** api (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)

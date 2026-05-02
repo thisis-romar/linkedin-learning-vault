@@ -65,8 +65,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Build your own custom GPTs with ChatGPT
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/build-your-own-custom-gpts-with-chatgpt?u=76281980)
+#### [Build your own custom GPTs with ChatGPT](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/build-your-own-custom-gpts-with-chatgpt?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -80,7 +79,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/build-your-own-custom-gpts-with-chatgpt?u=76281980&t=19)** Let me explain.
 >
-> **[0:20](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/build-your-own-custom-gpts-with-chatgpt?u=76281980&t=20)** GPTs are a new feature of ChatGBT that allows you to create custom versions of ChatGPT with custom instructions, custom knowledge, and custom actions.
+> **[0:20](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/build-your-own-custom-gpts-with-chatgpt?u=76281980&t=20)** GPTs are a new feature of ChatGBT that allows you to create custom versions of [[ChatGPT]] with custom instructions, custom knowledge, and custom actions.
 >
 > **[0:30](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/build-your-own-custom-gpts-with-chatgpt?u=76281980&t=30)** This unlocks a whole new marketplace of ideas for AI, and coincidentally, will also be available through a real marketplace.
 >
@@ -90,7 +89,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), feature (1), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - let (1)
 
@@ -99,8 +98,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a GPT?
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/what-is-a-gpt?u=76281980)
+#### [What is a GPT?](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/what-is-a-gpt?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -116,7 +114,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/what-is-a-gpt?u=76281980&t=57)** Because the key to this is while the interface may change and while buttons may move around and while new features may be added or old features be removed, the core functionality will not change.
 >
-> **[1:08](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/what-is-a-gpt?u=76281980&t=68)** And the core functionality of GPTs is to customize your own version of ChatGPT to make it more specialized.
+> **[1:08](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/what-is-a-gpt?u=76281980&t=68)** And the core functionality of GPTs is to customize your own version of [[ChatGPT]] to make it more specialized.
 >
 > **[1:18](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/what-is-a-gpt?u=76281980&t=78)** GPTs were introduced in November, 2023, exactly one week ago from when I'm recording this.
 >
@@ -134,7 +132,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/what-is-a-gpt?u=76281980&t=121)** Then if you want extended functionality, like for example, let the bot go and look up things on the internet, you can activate web search.
 >
-> **[2:09](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/what-is-a-gpt?u=76281980&t=129)** If you wanted to generate images, you can activate Dall-E 3, And if you wanted to process information, for example, process spreadsheets or even run some code, you can activate the code interpreter.
+> **[2:09](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/what-is-a-gpt?u=76281980&t=129)** If you wanted to generate images, you can activate [[DALL-E]] 3, And if you wanted to process information, for example, process spreadsheets or even run some code, you can activate the code interpreter.
 >
 > **[2:21](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/what-is-a-gpt?u=76281980&t=141)** On top of that, you can also upload reference documents into the system, so when you ask it questions, it'll reference those documents and provide answers.
 >
@@ -156,11 +154,11 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/what-is-a-gpt?u=76281980&t=234)** This all makes me really excited about our shared future with AI and how we will build that future together.
 >
-> **[3:59](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/what-is-a-gpt?u=76281980&t=239)** So in the rest of the course, we'll take a deep dive and look at how to use GPTs, how to build your own GPTS, and how to leverage all of this advanced functionality.
+> **[3:59](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/what-is-a-gpt?u=76281980&t=239)** So in the [[Representational State Transfer (REST)|rest]] of the course, we'll take a deep dive and look at how to use GPTs, how to build your own GPTS, and how to leverage all of this advanced functionality.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (5), ai (3), feature (2), data (2), prompt (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[DALL-E]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** gpt (4), api (1), gpts (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -168,12 +166,11 @@ created: 2026-05-02
 > **Warnings:** caveat (1)
 > **Speakers:** - before (1)
 
-#### Using existing GPTs
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/using-existing-gpts?u=76281980)
+#### [Using existing GPTs](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/using-existing-gpts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/using-existing-gpts?u=76281980&t=0)** - GPTs are part of ChatGPT.
+> **[0:00](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/using-existing-gpts?u=76281980&t=0)** - GPTs are part of [[ChatGPT]].
 >
 > **[0:02](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/using-existing-gpts?u=76281980&t=2)** And to get to them, you go to ChatGPT.
 >
@@ -237,7 +234,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (3), next (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3)
 > **Env Vars:** gpt (8)
 > **CLI Commands:** find (3)
 > **Definitions:** is a  (3)
@@ -246,14 +243,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - gpts (1)
 
-#### Creating a GPT from scratch
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/creating-a-gpt-from-scratch?u=76281980)
+#### [Creating a GPT from scratch](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/creating-a-gpt-from-scratch?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/creating-a-gpt-from-scratch?u=76281980&t=0)** - All right, let's create a GPT from scratch.
 >
-> **[0:03](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/creating-a-gpt-from-scratch?u=76281980&t=3)** To do that, you go to ChatGPT, go to Explore, and then select Create a GPT.
+> **[0:03](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/creating-a-gpt-from-scratch?u=76281980&t=3)** To do that, you go to [[ChatGPT]], go to Explore, and then select Create a GPT.
 >
 > **[0:09](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/creating-a-gpt-from-scratch?u=76281980&t=9)** Here you have two options.
 >
@@ -265,7 +261,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/creating-a-gpt-from-scratch?u=76281980&t=33)** These two features work together to help you create your GPT.
 >
-> **[0:37](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/creating-a-gpt-from-scratch?u=76281980&t=37)** So in my example, I want to create a GPT that helps me write better code for web development projects, and importantly sources information from trusted sources on the web to do so.
+> **[0:37](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/creating-a-gpt-from-scratch?u=76281980&t=37)** So in my example, I want to create a GPT that helps me write better code for [[Web Development]] projects, and importantly sources information from trusted sources on the web to do so.
 >
 > **[0:48](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/creating-a-gpt-from-scratch?u=76281980&t=48)** First, I'll give it some basic instructions.
 >
@@ -285,7 +281,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/creating-a-gpt-from-scratch?u=76281980&t=103)** Once the name is created, it'll also start generating an automatic profile picture for me.
 >
-> **[1:47](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/creating-a-gpt-from-scratch?u=76281980&t=107)** And for this, it uses DALL-E three.
+> **[1:47](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/creating-a-gpt-from-scratch?u=76281980&t=107)** And for this, it uses [[DALL-E]] three.
 >
 > **[1:52](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/creating-a-gpt-from-scratch?u=76281980&t=112)** When the generation is complete, it asks me, is this a good image or do you want me to do another one?
 >
@@ -371,7 +367,7 @@ created: 2026-05-02
 >
 > **[6:00](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/creating-a-gpt-from-scratch?u=76281980&t=360)** You can go in and edit the prompt in any way you want, add anything you want in addition, and basically do whatever you want.
 >
-> **[6:06](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/creating-a-gpt-from-scratch?u=76281980&t=366)** This is prompt engineering. This is where you do it.
+> **[6:06](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/creating-a-gpt-from-scratch?u=76281980&t=366)** This is [[Prompt Engineering]]. This is where you do it.
 >
 > **[6:09](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/creating-a-gpt-from-scratch?u=76281980&t=369)** Then below we have a series of conversations starters.
 >
@@ -427,7 +423,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (10), [[ChatGPT]] (4), prompt (4), [[Web Development]] (3), [[DALL-E]] (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (4), [[Web Development]] (3), [[DALL-E]] (2), [[Prompt Engineering]] (1)
 > **Env Vars:** gpt (24), mdn (3), dall (2), css (1)
 > **CLI Commands:** make (5)
 > **Prerequisites:** configure (4)
@@ -436,8 +432,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (3)
 > **Definitions:** is a  (2)
 
-#### Adding web browsing, image creation, and data processing
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/adding-web-browsing-image-creation-and-data-processing?u=76281980)
+#### [Adding web browsing, image creation, and data processing](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/adding-web-browsing-image-creation-and-data-processing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -447,7 +442,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/adding-web-browsing-image-creation-and-data-processing?u=76281980&t=9)** I'll create a new GPT and this time I'll go directly to configure and call it color, Adult Coloring GPT.
 >
-> **[0:21](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/adding-web-browsing-image-creation-and-data-processing?u=76281980&t=21)** This GPT will use the DALL-E 3 capability to generate adult coloring pages.
+> **[0:21](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/adding-web-browsing-image-creation-and-data-processing?u=76281980&t=21)** This GPT will use the [[DALL-E]] 3 capability to generate adult coloring pages.
 >
 > **[0:26](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/adding-web-browsing-image-creation-and-data-processing?u=76281980&t=26)** First, we need to put in an instruction, so this is the prompt.
 >
@@ -469,7 +464,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/adding-web-browsing-image-creation-and-data-processing?u=76281980&t=87)** But as you can see, the capability automatically kicks in when I activate it.
 >
-> **[1:31](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/adding-web-browsing-image-creation-and-data-processing?u=76281980&t=91)** The key here is each GPT you build can have one of, two of, or all three of these advanced capabilities activated, web browsing, image generation, and advanced code interpretation.
+> **[1:31](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/adding-web-browsing-image-creation-and-data-processing?u=76281980&t=91)** The key here is each GPT you build can have one of, two of, or all three of these advanced capabilities activated, web browsing, image generation, and advanced [[Code Interpretation]].
 >
 > **[1:43](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/adding-web-browsing-image-creation-and-data-processing?u=76281980&t=103)** The advanced code interpretation feature is actually quite interesting because it allows the GPT to run code on its own.
 >
@@ -479,7 +474,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DALL-E]] (4), [[Code Interpretation]] (2), prompt (1), web (1), feature (1)
+> **Frameworks & Libraries:** [[DALL-E]] (4), [[Code Interpretation]] (2)
 > **Env Vars:** gpt (10), dall (4)
 > **CLI Commands:** make (1)
 > **UI Navigation:** scroll down (1)
@@ -488,12 +483,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - one (1)
 
-#### Adding knowledge to GPTs by uploading data
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/adding-knowledge-to-gpts-by-uploading-data?u=76281980)
+#### [Adding knowledge to GPTs by uploading data](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/adding-knowledge-to-gpts-by-uploading-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/adding-knowledge-to-gpts-by-uploading-data?u=76281980&t=0)** - GPTs introduced some new advanced features to ChatGPT interaction that have not been available in ChatGPT until now and still are not available in ChatGPT.
+> **[0:00](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/adding-knowledge-to-gpts-by-uploading-data?u=76281980&t=0)** - GPTs introduced some new advanced features to [[ChatGPT]] interaction that have not been available in ChatGPT until now and still are not available in ChatGPT.
 >
 > **[0:09](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/adding-knowledge-to-gpts-by-uploading-data?u=76281980&t=9)** They're only available in GPTs.
 >
@@ -551,7 +545,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (4), prompt (2), rag (2), feature (2), llm (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (4)
 > **Env Vars:** gpt (4), rag (2), llm (1)
 > **Analogies:** for example (4)
 > **Definitions:** refers to (2)
@@ -560,14 +554,13 @@ created: 2026-05-02
 > **Warnings:** caveat (1)
 > **Prerequisites:** configure (1)
 
-#### Exploring privacy and copyright
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/exploring-privacy-and-copyright?u=76281980)
+#### [Exploring privacy and copyright](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/exploring-privacy-and-copyright?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/exploring-privacy-and-copyright?u=76281980&t=0)** - Okay, when I first saw this knowledge feature, I had an immediate question and there's a good chance you have the same question, so let's address it.
 >
-> **[0:07](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/exploring-privacy-and-copyright?u=76281980&t=7)** What exactly happens to copyright and privacy when you upload documents into a GPT, especially if that GPT is shared with other people?
+> **[0:07](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/exploring-privacy-and-copyright?u=76281980&t=7)** What exactly happens to copyright and [[Privacy]] when you upload documents into a GPT, especially if that GPT is shared with other people?
 >
 > **[0:17](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/exploring-privacy-and-copyright?u=76281980&t=17)** Does OpenAI protect the privacy and is OpenAI looking into the files?
 >
@@ -577,7 +570,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/exploring-privacy-and-copyright?u=76281980&t=37)** What I'll do instead is point at the features that exist inside the interface and also what OpenAI has said publicly about this, and then you can use that information to make your own decisions about how to work with this system.
 >
-> **[0:49](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/exploring-privacy-and-copyright?u=76281980&t=49)** Now, to understand what is happening with the knowledge inside GPTs, we first have to take a look at what is happening to your regular interactions in ChatGPT.
+> **[0:49](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/exploring-privacy-and-copyright?u=76281980&t=49)** Now, to understand what is happening with the knowledge inside GPTs, we first have to take a look at what is happening to your regular interactions in [[ChatGPT]].
 >
 > **[0:58](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/exploring-privacy-and-copyright?u=76281980&t=58)** If you open ChatGPT, click on your name at the bottom, then go to Settings and Beta, you get a series of settings, including this one here, Data Controls.
 >
@@ -597,7 +590,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/exploring-privacy-and-copyright?u=76281980&t=101)** So therefore, it was always meant to collect data and look at these interchanges.
 >
-> **[1:45](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/exploring-privacy-and-copyright?u=76281980&t=105)** Secondly, because we are now working with non-deterministic systems, these large language models are unpredictable in their behavior, so it's very important for the people who are building these systems to know how they interact and observe when people are trying to do the same thing many times and not getting the results they want.
+> **[1:45](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/exploring-privacy-and-copyright?u=76281980&t=105)** Secondly, because we are now working with non-deterministic systems, these [[Large Language Models (LLM)|large language models]] are unpredictable in their behavior, so it's very important for the people who are building these systems to know how they interact and observe when people are trying to do the same thing many times and not getting the results they want.
 >
 > **[2:03](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/exploring-privacy-and-copyright?u=76281980&t=123)** So we're in a bit of a dilemma here as users.
 >
@@ -673,7 +666,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (8), data (8), feature (2), [[Privacy]] (2), api (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (8), [[Privacy]] (2), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** gpt (12), api (2), llm (1)
 > **UI Navigation:** click on (1), go to (1), in the sidebar (1), open the (1)
 > **Definitions:** is a  (3)
@@ -681,12 +674,11 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - okay (1)
 
-#### Adding custom actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/adding-custom-actions?u=76281980)
+#### [Adding custom actions](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/adding-custom-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/adding-custom-actions?u=76281980&t=0)** - The second new feature introduced by GPT is actions, and I think this is the feature that's going to change the entire landscape around both ChatGPT, GPTs and how we interact with AI, here's why.
+> **[0:00](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/adding-custom-actions?u=76281980&t=0)** - The second new feature introduced by GPT is actions, and I think this is the feature that's going to change the entire landscape around both [[ChatGPT]], GPTs and how we interact with AI, here's why.
 >
 > **[0:13](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/adding-custom-actions?u=76281980&t=13)** Actions allow us to use GPTs to talk to external services and their APIs.
 >
@@ -760,7 +752,7 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/adding-custom-actions?u=76281980&t=238)** This is the full response.
 >
-> **[4:00](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/adding-custom-actions?u=76281980&t=240)** So this is JSON data about the UV index in the location.
+> **[4:00](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/adding-custom-actions?u=76281980&t=240)** So this is [[JSON]] data about the UV index in the location.
 >
 > **[4:04](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/adding-custom-actions?u=76281980&t=244)** So you know, we could just return this, but this is not human readable unless you really know what you're doing.
 >
@@ -768,7 +760,7 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/adding-custom-actions?u=76281980&t=256)** Now that you see what's possible here, you see why I'm saying this is going to be revolutionary?
 >
-> **[4:21](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/adding-custom-actions?u=76281980&t=261)** Because while this is a really trivial example that just goes and gets some UV data and returns it to us, this same functionality can be used for things like controlling IOT devices, or populating databases or pulling data from databases or interacting with automation services.
+> **[4:21](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/adding-custom-actions?u=76281980&t=261)** Because while this is a really trivial example that just goes and gets some UV data and returns it to us, this same functionality can be used for things like controlling [[IoT]] devices, or populating [[Databases]] or pulling data from databases or interacting with automation services.
 >
 > **[4:40](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/adding-custom-actions?u=76281980&t=280)** The opportunity here is boundless because we are now just using the GPT as a conversational layer to external services, and we can build those external services in any way we want.
 >
@@ -776,7 +768,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (13), data (6), feature (3), [[ChatGPT]] (2), [[Databases]] (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Databases]] (2), [[JSON]] (1), [[IoT]] (1)
 > **Env Vars:** gpt (14), api (10), http (1), json (1), iot (1)
 > **UI Navigation:** go to (2), click on (1)
 > **URLs:** [openuv.io](https://openuv.io) (2)
@@ -790,8 +782,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Going further
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/going-further?u=76281980)
+#### [Going further](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/going-further?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -799,7 +790,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/going-further?u=76281980&t=3)** Now, before you go out and try to do this on your own, a couple of things to keep in mind.
 >
-> **[0:07](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/going-further?u=76281980&t=7)** Number one, as of this recording in November 2023, GPTs are only available to ChatGPT Plus and ChatGPT Enterprise subscribers.
+> **[0:07](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/going-further?u=76281980&t=7)** Number one, as of this recording in November 2023, GPTs are only available to [[ChatGPT]] Plus and ChatGPT Enterprise subscribers.
 >
 > **[0:16](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/going-further?u=76281980&t=16)** That means paid subscribers.
 >
@@ -833,7 +824,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/going-further?u=76281980&t=107)** So I anticipate, especially in the actions space, that a lot of things will change and a lot of functionality will come online in the near future.
 >
-> **[1:56](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/going-further?u=76281980&t=116)** On top of that, we have lots of courses on how to use ChatGPT, how to use large language models and how to use AI, in particular courses on things like prompt engineering.
+> **[1:56](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/going-further?u=76281980&t=116)** On top of that, we have lots of courses on how to use ChatGPT, how to use [[Large Language Models (LLM)|large language models]] and how to use AI, in particular courses on things like [[Prompt Engineering]].
 >
 > **[2:06](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/going-further?u=76281980&t=126)** And all of this still applies to GPTs.
 >
@@ -843,7 +834,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (3), ai (2), feature (1), [[Large Language Models (LLM)|Large language models]] (1), [[Prompt Engineering]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Large Language Models (LLM)|Large language models]] (1), [[Prompt Engineering]] (1)
 > **CLI Commands:** make (1), go build (1)
 > **Cross-References:** in the next (1)
 > **Documentation:** the documentation (1)

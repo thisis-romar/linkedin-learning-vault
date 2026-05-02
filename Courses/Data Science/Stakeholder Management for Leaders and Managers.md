@@ -75,8 +75,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The power of stakeholder management
-> [LinkedIn Learning](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/the-power-of-stakeholder-management?u=76281980)
+#### [The power of stakeholder management](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/the-power-of-stakeholder-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -96,7 +95,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), teams (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - have (1)
 
@@ -105,8 +103,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Identifying your stakeholders
-> [LinkedIn Learning](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/identifying-your-stakeholders?u=76281980)
+#### [Identifying your stakeholders](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/identifying-your-stakeholders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -176,15 +173,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), management (2), leadership (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ceo (1)
 > **Analogies:** for example (1)
 > **Speakers:** - in (1)
 
-#### Internal stakeholders: Employees and management
-> [LinkedIn Learning](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/internal-stakeholders-employees-and-management?u=76281980)
+#### [Internal stakeholders: Employees and management](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/internal-stakeholders-employees-and-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -218,7 +213,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/internal-stakeholders-employees-and-management?u=76281980&t=81)** Your job is to help employees connect their daily work to your company's guiding principles and broader strategic goals.
 >
-> **[1:29](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/internal-stakeholders-employees-and-management?u=76281980&t=89)** Let's use Google's mission as an example here to organize the world's information and make it universally accessible and useful.
+> **[1:29](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/internal-stakeholders-employees-and-management?u=76281980&t=89)** Let's use [[Google]]'s mission as an example here to organize the world's information and make it universally accessible and useful.
 >
 > **[1:38](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/internal-stakeholders-employees-and-management?u=76281980&t=98)** That may seem grand, but it provides a guiding principle for everyone, from a software engineer writing code, to an HR manager, improving a hiring process.
 >
@@ -232,7 +227,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/internal-stakeholders-employees-and-management?u=76281980&t=135)** You may have heard the saying, people don't leave companies, they leave bosses.
 >
-> **[2:20](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/internal-stakeholders-employees-and-management?u=76281980&t=140)** Well, this is particularly true when it comes to stakeholder engagement.
+> **[2:20](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/internal-stakeholders-employees-and-management?u=76281980&t=140)** Well, this is particularly true when it comes to [[Stakeholder Engagement]].
 >
 > **[2:25](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/internal-stakeholders-employees-and-management?u=76281980&t=145)** When managers embody the organization's values and create a positive environment, employees are more likely to follow suit.
 >
@@ -246,7 +241,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/internal-stakeholders-employees-and-management?u=76281980&t=184)** They take action, make decisions, and improve processes.
 >
-> **[3:09](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/internal-stakeholders-employees-and-management?u=76281980&t=189)** This sense of accountability drives better business results.
+> **[3:09](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/internal-stakeholders-employees-and-management?u=76281980&t=189)** This sense of [[Accountability]] drives better business results.
 >
 > **[3:13](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/internal-stakeholders-employees-and-management?u=76281980&t=193)** Look at Toyota and its kaizen, or continuous improvement model.
 >
@@ -266,13 +261,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), leadership (2), business (2), power (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Stakeholder Engagement]] (1), [[Accountability]] (1)
 > **Analogies:** for example (2), picture (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - when (1)
 
-#### Shareholders and owners
-> [LinkedIn Learning](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/shareholders-owners?u=76281980)
+#### [Shareholders and owners](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/shareholders-owners?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -300,11 +294,11 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/shareholders-owners?u=76281980&t=90)** For both types of shareholders, their relationship with the company is primarily financial.
 >
-> **[1:36](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/shareholders-owners?u=76281980&t=96)** Unlike employees or customers, they're not involved in day-to-day operations or directly impacted by the company's products or services.
+> **[1:36](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/shareholders-owners?u=76281980&t=96)** Unlike employees or customers, they're not involved in day-to-day operations or directly impacted by the company's [[Microsoft Products|products]] or services.
 >
 > **[1:44](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/shareholders-owners?u=76281980&t=104)** Their interest lies in the company's ability to generate profits so the value of their investment grows.
 >
-> **[1:51](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/shareholders-owners?u=76281980&t=111)** But when particular individual or institutional investors hold significant percentages of a company's stock, they have greater influence over decision-making.
+> **[1:51](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/shareholders-owners?u=76281980&t=111)** But when particular individual or institutional investors hold significant percentages of a company's stock, they have greater influence over [[Decision-Making]].
 >
 > **[2:00](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/shareholders-owners?u=76281980&t=120)** If financial outcomes meet or exceed expectations, shareholders can be powerful allies.
 >
@@ -336,24 +330,23 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/shareholders-owners?u=76281980&t=238)** Their financial backing can fuel your company's growth, but managing them requires focusing their attention on long-term success rather than short-term financial gains.
 >
-> **[4:09](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/shareholders-owners?u=76281980&t=249)** You'll need a careful balance of transparency, strategic foresight, and a commitment to long-term sustainability.
+> **[4:09](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/shareholders-owners?u=76281980&t=249)** You'll need a careful balance of transparency, strategic foresight, and a commitment to long-term [[Sustainability]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Microsoft Products|Products]] (1), [[Decision-Making]] (1), leadership (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Decision-Making]] (1), [[Sustainability]] (1)
 > **Analogies:** for instance (1), such as (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - in (1)
 
-#### External stakeholders: Customers, suppliers, and communities
-> [LinkedIn Learning](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/external-stakeholders-customers-suppliers-and-communities?u=76281980)
+#### [External stakeholders: Customers, suppliers, and communities](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/external-stakeholders-customers-suppliers-and-communities?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/external-stakeholders-customers-suppliers-and-communities?u=76281980&t=0)** - Imagine a thriving global company that sells clothing.
 >
-> **[0:04](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/external-stakeholders-customers-suppliers-and-communities?u=76281980&t=4)** They buy their products from suppliers around the world.
+> **[0:04](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/external-stakeholders-customers-suppliers-and-communities?u=76281980&t=4)** They buy their [[Microsoft Products|products]] from suppliers around the world.
 >
 > **[0:08](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/external-stakeholders-customers-suppliers-and-communities?u=76281980&t=8)** At first, everything seems great.
 >
@@ -397,7 +390,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/external-stakeholders-customers-suppliers-and-communities?u=76281980&t=132)** They represent the places your company operates and are deeply invested in your company's social and economic impact.
 >
-> **[2:18](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/external-stakeholders-customers-suppliers-and-communities?u=76281980&t=138)** They're concerned about job creation, local economic development, and environmental sustainability.
+> **[2:18](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/external-stakeholders-customers-suppliers-and-communities?u=76281980&t=138)** They're concerned about job creation, local economic development, and [[Environmental Sustainability]].
 >
 > **[2:25](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/external-stakeholders-customers-suppliers-and-communities?u=76281980&t=145)** In other words, how your organization's operations affect quality of life.
 >
@@ -425,7 +418,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), business (2), next (2), hit (1), [[Environmental Sustainability]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Environmental Sustainability]] (1)
 > **Analogies:** imagine (1), such as (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - imagine (1)
@@ -435,14 +428,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The power/interest stakeholder matrix
-> [LinkedIn Learning](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/the-power-interest-stakeholder-matrix?u=76281980)
+#### [The power/interest stakeholder matrix](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/the-power-interest-stakeholder-matrix?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/the-power-interest-stakeholder-matrix?u=76281980&t=0)** - Your company is about to launch a new product and it's a game changer.
 >
-> **[0:05](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/the-power-interest-stakeholder-matrix?u=76281980&t=5)** Your market research shows that customers are interested and willing to buy.
+> **[0:05](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/the-power-interest-stakeholder-matrix?u=76281980&t=5)** Your [[Market Research]] shows that customers are interested and willing to buy.
 >
 > **[0:10](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/the-power-interest-stakeholder-matrix?u=76281980&t=10)** But as you're preparing to roll it out, another division asks you how this will affect existing product lines.
 >
@@ -512,7 +504,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/the-power-interest-stakeholder-matrix?u=76281980&t=207)** Your customer service group falls into this category.
 >
-> **[3:30](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/the-power-interest-stakeholder-matrix?u=76281980&t=210)** As employees, they may not have a lot of say over the products your company launches, but they certainly are impacted by them.
+> **[3:30](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/the-power-interest-stakeholder-matrix?u=76281980&t=210)** As employees, they may not have a lot of say over the [[Microsoft Products|products]] your company launches, but they certainly are impacted by them.
 >
 > **[3:38](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/the-power-interest-stakeholder-matrix?u=76281980&t=218)** This internal stakeholder can offer important insights to make the launch a success.
 >
@@ -546,15 +538,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (12), product (8), next (2), game (1), [[Market Research]] (1)
+> **Frameworks & Libraries:** [[Market Research]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** refers to (1)
 > **Analogies:** for example (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - your (1)
 
-#### Balancing competing interests and managing trade-offs
-> [LinkedIn Learning](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/balancing-competing-interests-and-managing-trade-offs?u=76281980)
+#### [Balancing competing interests and managing trade-offs](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/balancing-competing-interests-and-managing-trade-offs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -594,7 +585,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/balancing-competing-interests-and-managing-trade-offs?u=76281980&t=119)** Let's say you're allocating budget.
 >
-> **[2:02](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/balancing-competing-interests-and-managing-trade-offs?u=76281980&t=122)** If your marketing team wants more money for an advertising campaign, but your R and D team needs additional resources for new product development, evaluate which option has a more significant impact on the product's overall success.
+> **[2:02](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/balancing-competing-interests-and-managing-trade-offs?u=76281980&t=122)** If your marketing team wants more money for an advertising campaign, but your R and D team needs additional resources for new [[Product Development]], evaluate which option has a more significant impact on the product's overall success.
 >
 > **[2:17](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/balancing-competing-interests-and-managing-trade-offs?u=76281980&t=137)** Five, communicate transparently and manage expectations.
 >
@@ -614,13 +605,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (7), [[Product Development]] (1), product (1)
+> **Frameworks & Libraries:** [[Product Development]] (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - so (1)
 
-#### Understanding stakeholder motivations and behaviors
-> [LinkedIn Learning](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/understanding-stakeholder-motivations-and-behaviors?u=76281980)
+#### [Understanding stakeholder motivations and behaviors](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/understanding-stakeholder-motivations-and-behaviors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -666,7 +656,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/understanding-stakeholder-motivations-and-behaviors?u=76281980&t=129)** In addition to those inside the organization, ethical considerations and social responsibility is often prioritized by community groups or regulators.
 >
-> **[2:18](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/understanding-stakeholder-motivations-and-behaviors?u=76281980&t=138)** Here the focus is on elements like environmental sustainability, corporate social responsibility, or how the project affects the jobs and economy of local communities.
+> **[2:18](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/understanding-stakeholder-motivations-and-behaviors?u=76281980&t=138)** Here the focus is on elements like [[Environmental Sustainability]], corporate social responsibility, or how the project affects the jobs and economy of local communities.
 >
 > **[2:29](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/understanding-stakeholder-motivations-and-behaviors?u=76281980&t=149)** It's important to demonstrate your commitment to ethical practices and the long-term health of your physical and social environment.
 >
@@ -684,12 +674,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1), [[Environmental Sustainability]] (1)
+> **Frameworks & Libraries:** [[Environmental Sustainability]] (1)
 > **Analogies:** such as (2), for instance (1)
 > **Speakers:** - stakeholders (1)
 
-#### Navigating stakeholder power dynamics
-> [LinkedIn Learning](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/navigating-stakeholder-power-dynamics?u=76281980)
+#### [Navigating stakeholder power dynamics](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/navigating-stakeholder-power-dynamics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -701,7 +690,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/navigating-stakeholder-power-dynamics?u=76281980&t=14)** IT is concerned about the timeline, warning you that more resources are needed to avoid system crashes.
 >
-> **[0:20](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/navigating-stakeholder-power-dynamics?u=76281980&t=20)** Meanwhile, senior management is pressuring you to stay on budget, and now the legal team is asking about data security compliance.
+> **[0:20](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/navigating-stakeholder-power-dynamics?u=76281980&t=20)** Meanwhile, senior management is pressuring you to stay on budget, and now the legal team is asking about [[Data Security]] compliance.
 >
 > **[0:28](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/navigating-stakeholder-power-dynamics?u=76281980&t=28)** You're caught in a web of power dynamics.
 >
@@ -709,7 +698,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/navigating-stakeholder-power-dynamics?u=76281980&t=39)** Navigating this is a critical part of your role, and key to keeping your project on track.
 >
-> **[0:45](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/navigating-stakeholder-power-dynamics?u=76281980&t=45)** Stakeholder power can take many forms, so let's explore the most common types.
+> **[0:45](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/navigating-stakeholder-power-dynamics?u=76281980&t=45)** Stakeholder power can take many [[Forms]], so let's explore the most common types.
 >
 > **[0:51](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/navigating-stakeholder-power-dynamics?u=76281980&t=51)** First, formal authority.
 >
@@ -779,7 +768,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (14), management (2), data (1), [[Security]] (1), web (1)
+> **Frameworks & Libraries:** [[Data Security]] (1), [[Forms]] (1)
 > **Analogies:** for example (2), imagine (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)
@@ -792,8 +781,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Aligning stakeholders with organization strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/aligning-stakeholders-with-organization-strategy?u=76281980)
+#### [Aligning stakeholders with organization strategy](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/aligning-stakeholders-with-organization-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -821,7 +809,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/aligning-stakeholders-with-organization-strategy?u=76281980&t=58)** For example, if your company's top priority is cost leadership, providing goods or services at the lowest possible price, everyone needs to know that this should drive decisions in every department.
 >
-> **[1:10](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/aligning-stakeholders-with-organization-strategy?u=76281980&t=70)** Whether it's procurement, marketing, or product development, stakeholders should be reminded to see how their roles align with this overarching goal.
+> **[1:10](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/aligning-stakeholders-with-organization-strategy?u=76281980&t=70)** Whether it's procurement, marketing, or [[Product Development]], stakeholders should be reminded to see how their roles align with this overarching goal.
 >
 > **[1:19](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/aligning-stakeholders-with-organization-strategy?u=76281980&t=79)** But clarity isn't enough.
 >
@@ -829,7 +817,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/aligning-stakeholders-with-organization-strategy?u=76281980&t=85)** Aligning stakeholders with strategy is a two-way process.
 >
-> **[1:29](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/aligning-stakeholders-with-organization-strategy?u=76281980&t=89)** Once you've communicated the company's objectives, invite stakeholders to share in decision-making to determine how to best achieve key goals.
+> **[1:29](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/aligning-stakeholders-with-organization-strategy?u=76281980&t=89)** Once you've communicated the company's objectives, invite stakeholders to share in [[Decision-Making]] to determine how to best achieve key goals.
 >
 > **[1:37](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/aligning-stakeholders-with-organization-strategy?u=76281980&t=97)** When you focus people on overarching goals at the beginning of their decision-making process, you can more easily generate buy-in.
 >
@@ -857,14 +845,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Decision-Making]] (2), product (1), leadership (1), [[Product Development]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (2), [[Product Development]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - how (1)
 
-#### Managing stakeholder expectations
-> [LinkedIn Learning](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/managing-stakeholder-expectations?u=76281980)
+#### [Managing stakeholder expectations](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/managing-stakeholder-expectations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -910,7 +897,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/managing-stakeholder-expectations?u=76281980&t=121)** Cost savings will accrue more gradually.
 >
-> **[2:04](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/managing-stakeholder-expectations?u=76281980&t=124)** Incorrect expectations can also prompt people to react negatively to a project before it finishes.
+> **[2:04](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/managing-stakeholder-expectations?u=76281980&t=124)** Incorrect expectations can also prompt people to [[React.js|react]] negatively to a project before it finishes.
 >
 > **[2:10](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/managing-stakeholder-expectations?u=76281980&t=130)** Let's say you tell a key supplier that you'll need a substantial increase in inventory they provide in six months.
 >
@@ -936,14 +923,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), prompt (1), [[React.js|React]] (1), product (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **Analogies:** imagine (1), such as (1)
 > **Definitions:** known as (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - imagine (1)
 
-#### KPIs for stakeholder management
-> [LinkedIn Learning](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/kpis-for-stakeholder-management?u=76281980)
+#### [KPIs for stakeholder management](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/kpis-for-stakeholder-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -957,7 +943,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/kpis-for-stakeholder-management?u=76281980&t=21)** These offer a quantifiable method to track the success of your strategies, ensuring you're aligned with strategic goals.
 >
-> **[0:28](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/kpis-for-stakeholder-management?u=76281980&t=28)** KPIs also facilitate better decision-making by providing you with actionable data.
+> **[0:28](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/kpis-for-stakeholder-management?u=76281980&t=28)** KPIs also facilitate better [[Decision-Making]] by providing you with actionable data.
 >
 > **[0:34](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/kpis-for-stakeholder-management?u=76281980&t=34)** Whether it's identifying where stakeholders' concerns lie or measuring how well your company meets expectations, KPIs allow you to proactively manage relationships.
 >
@@ -981,7 +967,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/kpis-for-stakeholder-management?u=76281980&t=95)** For your suppliers, consider tracking the percentage of orders delivered on time.
 >
-> **[1:40](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/kpis-for-stakeholder-management?u=76281980&t=100)** This directly impacts your supply chain efficiency and overall business operations.
+> **[1:40](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/kpis-for-stakeholder-management?u=76281980&t=100)** This directly impacts your supply chain efficiency and overall [[Business Operations]].
 >
 > **[1:45](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/kpis-for-stakeholder-management?u=76281980&t=105)** This KPI will tell you whether suppliers are reliable partners or if adjustments are needed.
 >
@@ -993,7 +979,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/kpis-for-stakeholder-management?u=76281980&t=133)** And when it comes to your internal stakeholders, consider measuring employee turnover rate or conducting a regular culture survey.
 >
-> **[2:21](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/kpis-for-stakeholder-management?u=76281980&t=141)** You could also calculate how well [[Executive Leadership]]'s decisions align with company strategy, or even assess the performance of the company's board of directors by looking at timeliness and quality of their decisions or adherence to governance best practices.
+> **[2:21](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/kpis-for-stakeholder-management?u=76281980&t=141)** You could also calculate how well [[[[Executive Leadership]]]]'s decisions align with company strategy, or even assess the performance of the company's board of directors by looking at timeliness and quality of their decisions or adherence to governance best practices.
 >
 > **[2:38](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/kpis-for-stakeholder-management?u=76281980&t=158)** Once the right KPIs are established, set up a process for ongoing monitoring and review.
 >
@@ -1005,22 +991,21 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/kpis-for-stakeholder-management?u=76281980&t=182)** So be sure you're focusing on direct ties between what you measure and your business strategy.
 >
-> **[3:07](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/kpis-for-stakeholder-management?u=76281980&t=187)** If you seek innovation, choose KPIs that track the number of new products or services offered.
+> **[3:07](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/kpis-for-stakeholder-management?u=76281980&t=187)** If you seek innovation, choose KPIs that track the number of new [[Microsoft Products|products]] or services offered.
 >
-> **[3:13](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/kpis-for-stakeholder-management?u=76281980&t=193)** If cost management is your goal, use KPIs focused on efficiency.
+> **[3:13](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/kpis-for-stakeholder-management?u=76281980&t=193)** If [[Cost Management]] is your goal, use KPIs focused on efficiency.
 >
-> **[3:18](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/kpis-for-stakeholder-management?u=76281980&t=198)** Aligning these metrics ensures that stakeholder engagement supports your broader business objectives and fosters long-term sustainable relationships.
+> **[3:18](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/kpis-for-stakeholder-management?u=76281980&t=198)** Aligning these metrics ensures that [[Stakeholder Engagement]] supports your broader business objectives and fosters long-term sustainable relationships.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Decision-Making]] (1), data (1), product (1), [[Executive Leadership]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1), [[Business Operations]] (1), [[Executive Leadership]] (1), [[Microsoft Products|Products]] (1), [[Cost Management]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** kpi (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - so (1)
 
-#### Continuous improvement stakeholder strategies
-> [LinkedIn Learning](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/continuous-improvement-stakeholder-strategies?u=76281980)
+#### [Continuous improvement stakeholder strategies](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/continuous-improvement-stakeholder-strategies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1044,7 +1029,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/continuous-improvement-stakeholder-strategies?u=76281980&t=50)** Stakeholders' needs, expectations, and influence change over time.
 >
-> **[0:54](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/continuous-improvement-stakeholder-strategies?u=76281980&t=54)** If your stakeholder engagement strategies remain static, they can become inefficient or even irrelevant.
+> **[0:54](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/continuous-improvement-stakeholder-strategies?u=76281980&t=54)** If your [[Stakeholder Engagement]] strategies remain static, they can become inefficient or even irrelevant.
 >
 > **[1:01](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/continuous-improvement-stakeholder-strategies?u=76281980&t=61)** A focus on continuous improvement identifies gaps, refined strategies and implements new approaches, and the foundation of continuous improvement is feedback.
 >
@@ -1080,7 +1065,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/continuous-improvement-stakeholder-strategies?u=76281980&t=156)** Number four, use social media.
 >
-> **[2:39](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/continuous-improvement-stakeholder-strategies?u=76281980&t=159)** Monitor social media platforms to gather unfiltered feedback from stakeholders discussing your company, products or services.
+> **[2:39](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/continuous-improvement-stakeholder-strategies?u=76281980&t=159)** Monitor social media platforms to gather unfiltered feedback from stakeholders discussing your company, [[Microsoft Products|products]] or services.
 >
 > **[2:47](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/continuous-improvement-stakeholder-strategies?u=76281980&t=167)** Tools like social listening platforms can spot trends, issues, or opportunities for improvement.
 >
@@ -1090,17 +1075,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), [[Stakeholder Engagement]] (1), functional (1), teams (1), data (1)
+> **Frameworks & Libraries:** [[Stakeholder Engagement]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - there (1)
 
-#### Managing stakeholders during a crisis
-> [LinkedIn Learning](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/managing-stakeholders-during-a-crisis?u=76281980)
+#### [Managing stakeholders during a crisis](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/managing-stakeholders-during-a-crisis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/managing-stakeholders-during-a-crisis?u=76281980&t=0)** - Imagine a major data security breach at a financial services company.
+> **[0:00](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/managing-stakeholders-during-a-crisis?u=76281980&t=0)** - Imagine a major [[Data Security]] breach at a financial services company.
 >
 > **[0:05](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/managing-stakeholders-during-a-crisis?u=76281980&t=5)** Sensitive customer data is exposed and the news causes panic among customers, regulators and the media.
 >
@@ -1168,7 +1152,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), management (2), [[Security]] (1), next (1)
+> **Frameworks & Libraries:** [[Data Security]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** imagine (1)
@@ -1179,8 +1163,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Never stop communicating
-> [LinkedIn Learning](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/never-stop-communicating?u=76281980)
+#### [Never stop communicating](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/never-stop-communicating?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1212,13 +1195,13 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/never-stop-communicating?u=76281980&t=72)** People who feel comfortable with you are more likely to report concerns or potential risks, allowing your organization to address issues before they escalate into a crisis.
 >
-> **[1:24](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/never-stop-communicating?u=76281980&t=84)** Remember, stakeholder management isn't just a task, it's a journey of building trust, fostering collaboration, and aligning goals.
+> **[1:24](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/never-stop-communicating?u=76281980&t=84)** Remember, stakeholder management isn't just a task, it's a journey of [[Building Trust]], fostering collaboration, and aligning goals.
 >
 > **[1:33](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/never-stop-communicating?u=76281980&t=93)** When you understand the diverse interests and perspectives of your stakeholders, you mitigate risks while unlocking opportunities for innovation and growth.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), [[Building Trust]] (1)
+> **Frameworks & Libraries:** [[Building Trust]] (1)
 > **Warnings:** warning (1)
 > **Speakers:** - have (1)
 

@@ -91,22 +91,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Build AI agents with Azure
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/build-ai-agents-with-azure?u=76281980)
+#### [Build AI agents with Azure](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/build-ai-agents-with-azure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/build-ai-agents-with-azure?u=76281980&t=0)** - [Instructor] Have you been hearing all the buzz about AI agents, but have no idea how to actually build them?
+> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/build-ai-agents-with-azure?u=76281980&t=0)** - [Instructor] Have you been hearing all the buzz about [[AI Agents]], but have no idea how to actually build them?
 >
-> **[0:06](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/build-ai-agents-with-azure?u=76281980&t=6)** What if you could harness tools like Azure OpenAI, Python, and GitHub to create intelligent agents that transform your organization?
+> **[0:06](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/build-ai-agents-with-azure?u=76281980&t=6)** What if you could harness tools like [[Microsoft Azure|Azure]] OpenAI, [[Python (Programming Language)|Python]], and [[GitHub]] to create intelligent agents that transform your organization?
 >
 > **[0:14](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/build-ai-agents-with-azure?u=76281980&t=14)** That's exactly what this course will teach you.
 >
-> **[0:17](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/build-ai-agents-with-azure?u=76281980&t=17)** From streamlining workflows to creating conversational AI or advanced applications, mastering these tools will keep you ahead of the curve.
+> **[0:17](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/build-ai-agents-with-azure?u=76281980&t=17)** From streamlining workflows to creating [[Conversational AI]] or advanced applications, mastering these tools will keep you ahead of the curve.
 >
 > **[0:27](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/build-ai-agents-with-azure?u=76281980&t=27)** On the flip side, not knowing how to leverage them could leave you struggling to keep up.
 >
-> **[0:32](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/build-ai-agents-with-azure?u=76281980&t=32)** I'm Ziggy Zulueta, a Microsoft Most Valuable Professional AI and a Microsoft Certified Trainer.
+> **[0:32](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/build-ai-agents-with-azure?u=76281980&t=32)** I'm Ziggy Zulueta, a [[Microsoft]] Most Valuable Professional AI and a Microsoft Certified Trainer.
 >
 > **[0:39](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/build-ai-agents-with-azure?u=76281980&t=39)** I've helped countless developers unlock the full potential of Azure and OpenAI technologies.
 >
@@ -114,29 +113,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), ai (2), [[Microsoft]] (2), [[Python (Programming Language)|Python]] (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Microsoft]] (2), [[AI Agents]] (1), [[Python (Programming Language)|Python]] (1), [[GitHub]] (1)
 > **CLI Commands:** python (1)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/what-you-should-know?u=76281980&t=0)** - [Instructor] We have the following prerequisites for this course.
 >
-> **[0:04](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/what-you-should-know?u=76281980&t=4)** All the videos on this course will cover code developed in Python, hence an understanding of Python would be needed.
+> **[0:04](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/what-you-should-know?u=76281980&t=4)** All the videos on this course will cover code developed in [[Python (Programming Language)|Python]], hence an understanding of Python would be needed.
 >
-> **[0:12](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/what-you-should-know?u=76281980&t=12)** In addition, we require you to have a GitHub account and have some experience using GitHub code spaces to be able to run the notebooks in this course.
+> **[0:12](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/what-you-should-know?u=76281980&t=12)** In addition, we require you to have a [[GitHub]] account and have some experience using GitHub code spaces to be able to run the notebooks in this course.
 >
 > **[0:23](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/what-you-should-know?u=76281980&t=23)** Alternatively, the notebooks can also be run locally via Visual Studio Code.
 >
-> **[0:29](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/what-you-should-know?u=76281980&t=29)** Finally, it is important that one has access to Azure Open AI because you'll use its models throughout the course.
+> **[0:29](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/what-you-should-know?u=76281980&t=29)** Finally, it is important that one has access to [[Microsoft Azure|Azure]] Open AI because you'll use its models throughout the course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[GitHub]] (2), [[Microsoft Azure|Azure]] (1), ai (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[GitHub]] (2), [[Microsoft Azure|Azure]] (1)
 > **Tools:** github (2), visual studio (1)
 > **CLI Commands:** python (2)
 > **Speakers:** - [instructor] (1)
@@ -146,16 +144,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding AI agents
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/understanding-ai-agents?u=76281980)
+#### [Understanding AI agents](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/understanding-ai-agents?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/understanding-ai-agents?u=76281980&t=0)** - [Instructor] AI agents are systems or programs capable of autonomously performing tasks for a user or another system by using a workflow and available tools.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/understanding-ai-agents?u=76281980&t=0)** - [Instructor] [[AI Agents]] are systems or programs capable of autonomously performing tasks for a user or another system by using a workflow and available tools.
 >
 > **[0:12](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/understanding-ai-agents?u=76281980&t=12)** They are designed to perform specific tasks, answer questions, and automate processes for users.
 >
-> **[0:19](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/understanding-ai-agents?u=76281980&t=19)** Unlike standalone large language models, agents have these common features.
+> **[0:19](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/understanding-ai-agents?u=76281980&t=19)** Unlike standalone [[Large Language Models (LLM)|large language models]], agents have these common features.
 >
 > **[0:26](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/understanding-ai-agents?u=76281980&t=26)** Agents can plan and sequence actions to achieve specific goals.
 >
@@ -173,7 +170,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/understanding-ai-agents?u=76281980&t=104)** An agent, for example, can behave differently based on different information it is receiving or how other agents interact with it.
 >
-> **[1:52](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/understanding-ai-agents?u=76281980&t=112)** A coder agent, for example, may realize that it does not have the necessary Python packages to run a script in its sandbox environment, and thus will adjust appropriately by installing the necessary library in the sandbox environment.
+> **[1:52](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/understanding-ai-agents?u=76281980&t=112)** A coder agent, for example, may realize that it does not have the necessary [[Python (Programming Language)|Python]] packages to run a script in its sandbox environment, and thus will adjust appropriately by installing the necessary library in the sandbox environment.
 >
 > **[2:08](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/understanding-ai-agents?u=76281980&t=128)** A critique agent may also tell another agent to adjust its output, because it's not acting based on its design parameters.
 >
@@ -187,21 +184,20 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/understanding-ai-agents?u=76281980&t=163)** There are many frameworks available to facilitate the development and deployment of AI agents.
 >
-> **[2:49](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/understanding-ai-agents?u=76281980&t=169)** In this course, we'll focus on frameworks that have been developed by Microsoft or work seamlessly with Azure OpenAI.
+> **[2:49](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/understanding-ai-agents?u=76281980&t=169)** In this course, we'll focus on frameworks that have been developed by [[Microsoft]] or work seamlessly with [[Microsoft Azure|Azure]] OpenAI.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), product (3), [[Large Language Models (LLM)|Large language models]] (2), [[Search]] (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (4), [[Large Language Models (LLM)|Large language models]] (2), [[Python (Programming Language)|Python]] (1), [[Microsoft]] (1), [[Microsoft Azure|Azure]] (1)
 > **Analogies:** for example (5)
 > **CLI Commands:** make (1), python (1)
 > **Speakers:** - [instructor] (1)
 
-#### OpenAI API Assistants overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/openai-api-assistants-overview?u=76281980)
+#### [OpenAI API Assistants overview](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/openai-api-assistants-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/openai-api-assistants-overview?u=76281980&t=0)** - [Instructor] The Azure Open AI Assistants API is a feature of Azure OpenAI that enables developers to easily build powerful AI Assistants within their applications.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/openai-api-assistants-overview?u=76281980&t=0)** - [Instructor] The [[Microsoft Azure|Azure]] Open AI Assistants API is a feature of Azure OpenAI that enables developers to easily build powerful AI Assistants within their applications.
 >
 > **[0:12](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/openai-api-assistants-overview?u=76281980&t=12)** The Chat Completions API the developers normally use was lightweight and powerful, but it was inherently stateless.
 >
@@ -219,11 +215,11 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/openai-api-assistants-overview?u=76281980&t=73)** The API also has a File Search tool that helps you extract the right data from your files to augment the model's responses.
 >
-> **[1:22](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/openai-api-assistants-overview?u=76281980&t=82)** We previously needed to manually chunk our documents and create and store the embeddings for retrieval-augmented generation systems to work.
+> **[1:22](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/openai-api-assistants-overview?u=76281980&t=82)** We previously needed to manually chunk our documents and create and store the embeddings for [[Retrieval-Augmented Generation (RAG)|retrieval-augmented generation]] systems to work.
 >
 > **[1:32](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/openai-api-assistants-overview?u=76281980&t=92)** However, the Assistants API automatically parses and chunks your documents, creates and stores the embeddings, and uses both vector and keyword search to retrieve relevant content to answer user queries.
 >
-> **[1:48](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/openai-api-assistants-overview?u=76281980&t=108)** The API also has a Code Interpreter tool that writes and runs Python code In a sandbox environment.
+> **[1:48](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/openai-api-assistants-overview?u=76281980&t=108)** The API also has a Code Interpreter tool that writes and runs [[Python (Programming Language)|Python]] code In a sandbox environment.
 >
 > **[1:55](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/openai-api-assistants-overview?u=76281980&t=115)** We previously needed to manually run code created by a language model and work with the model through iterations to get the right code.
 >
@@ -285,7 +281,7 @@ created: 2026-05-02
 >
 > **[4:47](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/openai-api-assistants-overview?u=76281980&t=287)** You can check the prices in this website.
 >
-> **[4:53](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/openai-api-assistants-overview?u=76281980&t=293)** As an example, if we are using a GPT-4 Omni model for the Assistant that uses Code interpreter, we will be charged these input and output rates based on how many tokens were used.
+> **[4:53](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/openai-api-assistants-overview?u=76281980&t=293)** As an example, if we are using a [[GPT-4]] Omni model for the Assistant that uses Code interpreter, we will be charged these input and output rates based on how many [[Tokens]] were used.
 >
 > **[5:09](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/openai-api-assistants-overview?u=76281980&t=309)** From there, we then add the session charges for the Code Interpreter.
 >
@@ -293,15 +289,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (10), [[Microsoft Azure|Azure]] (4), ai (4), [[Search]] (2), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Python (Programming Language)|Python]] (2), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1), [[GPT-4]] (1), [[Tokens]] (1)
 > **Env Vars:** api (10), gpt (1)
 > **Definitions:** is a  (5), means that (1), is an  (1)
 > **CLI Commands:** python (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Function calling
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/function-calling?u=76281980)
+#### [Function calling](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/function-calling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -311,7 +306,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/function-calling?u=76281980&t=10)** This notebook guides you through each step.
 >
-> **[0:15](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/function-calling?u=76281980&t=15)** We first need to create an environment file that contains the needed Azure OpenAI parameters, and we then load the Azure configurations in our notebook.
+> **[0:15](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/function-calling?u=76281980&t=15)** We first need to create an environment file that contains the needed [[Microsoft Azure|Azure]] OpenAI parameters, and we then load the Azure configurations in our notebook.
 >
 > **[0:30](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/function-calling?u=76281980&t=30)** We then define our functions.
 >
@@ -325,9 +320,9 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/function-calling?u=76281980&t=56)** The first two functions, as you can see, does not require a parameter, while the weather function requires a country parameter.
 >
-> **[1:06](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/function-calling?u=76281980&t=66)** These are the JSON definitions of the functions.
+> **[1:06](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/function-calling?u=76281980&t=66)** These are the [[JSON]] definitions of the functions.
 >
-> **[1:11](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/function-calling?u=76281980&t=71)** We then need to create the functions using Python.
+> **[1:11](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/function-calling?u=76281980&t=71)** We then need to create the functions using [[Python (Programming Language)|Python]].
 >
 > **[1:15](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/function-calling?u=76281980&t=75)** For now, we hardcoded the values, but imagine that you will call other external APIs to extract the needed values.
 >
@@ -397,7 +392,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), api (2), ai (2), [[JSON]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[JSON]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** api (2), json (1), usa (1)
 > **Cross-References:** we mentioned (1), previous video (1)
 > **CLI Commands:** python (1)
@@ -405,8 +400,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### File search
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/file-search?u=76281980)
+#### [File search](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/file-search?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -416,7 +410,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/file-search?u=76281980&t=22)** The OpenAI documentation discusses the different features and limitations of the tool.
 >
-> **[0:31](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/file-search?u=76281980&t=31)** When it performs document chunking, the current size of each chunk is 800 tokens, with an overlap of 400 tokens.
+> **[0:31](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/file-search?u=76281980&t=31)** When it performs document chunking, the current size of each chunk is 800 [[Tokens]], with an overlap of 400 tokens.
 >
 > **[0:41](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/file-search?u=76281980&t=41)** It uses a text embedding three large embedding model at 256 dimensions, and 20 chunks are always added to the context.
 >
@@ -428,11 +422,11 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/file-search?u=76281980&t=77)** There's currently no way to modify the chunking, embedding, or retrieval settings.
 >
-> **[1:23](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/file-search?u=76281980&t=83)** Parsing of images within documents is also not supported, and finally, retrievals over structured file formats like CSV or JSON line files is not supported.
+> **[1:23](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/file-search?u=76281980&t=83)** Parsing of images within documents is also not supported, and finally, retrievals over structured file formats like CSV or [[JSON]] line files is not supported.
 >
 > **[1:40](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/file-search?u=76281980&t=100)** Going to the code, we do the following.
 >
-> **[1:43](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/file-search?u=76281980&t=103)** We first load our Azure configuration, we then create a vector store, which we shall provide to the assistant later.
+> **[1:43](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/file-search?u=76281980&t=103)** We first load our [[Microsoft Azure|Azure]] configuration, we then create a vector store, which we shall provide to the assistant later.
 >
 > **[1:55](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/file-search?u=76281980&t=115)** Our data files are PDF files from a NASA book.
 >
@@ -476,18 +470,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (6), [[Microsoft Azure|Azure]] (3), rag (3), [[Tokens]] (2), data (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Tokens]] (2), [[JSON]] (1)
 > **Env Vars:** pdf (3), csv (1), json (1), nasa (1)
 > **Analogies:** such as (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Code Interpreter
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/code-interpreter?u=76281980)
+#### [Code Interpreter](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/code-interpreter?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/code-interpreter?u=76281980&t=0)** - [Instructor] Code interpreter allows the assistants API to write and run Python code in a sandbox execution environment.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/code-interpreter?u=76281980&t=0)** - [Instructor] Code interpreter allows the assistants API to write and run [[Python (Programming Language)|Python]] code in a sandbox execution environment.
 >
 > **[0:07](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/code-interpreter?u=76281980&t=7)** With code interpreter enabled, your assistant can run code it alternatively to solve challenging code, math and data analysis problems.
 >
@@ -497,7 +490,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/code-interpreter?u=76281980&t=35)** Code interpreter will use Python code to get the answers from our data analysis queries.
 >
-> **[0:41](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/code-interpreter?u=76281980&t=41)** As always, we load our Azure configuration and create an Azure OpenAI Client.
+> **[0:41](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/code-interpreter?u=76281980&t=41)** As always, we load our [[Microsoft Azure|Azure]] configuration and create an Azure OpenAI Client.
 >
 > **[0:54](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/code-interpreter?u=76281980&t=54)** We then prepare our file to be used by the assistant.
 >
@@ -525,7 +518,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/code-interpreter?u=76281980&t=157)** In this scenario, we wanted to create a column chart that contains the top 10 sightings per year.
 >
-> **[2:48](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/code-interpreter?u=76281980&t=168)** The image file is also saved in our GitHub code spaces.
+> **[2:48](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/code-interpreter?u=76281980&t=168)** The image file is also saved in our [[GitHub]] code spaces.
 >
 > **[3:05](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/code-interpreter?u=76281980&t=185)** Finally, don't forget to delete the assistant after.
 >
@@ -533,29 +526,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), data (4), [[Microsoft Azure|Azure]] (2), api (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Microsoft Azure|Azure]] (2), [[GitHub]] (1)
 > **CLI Commands:** python (4)
 > **Env Vars:** api (1), csv (1)
 > **Tools:** github (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Multi-agent collaboration
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/multi-agent-collaboration?u=76281980)
+#### [Multi-agent collaboration](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/multi-agent-collaboration?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/multi-agent-collaboration?u=76281980&t=0)** - This notebook shows you how three assistants can work together.
 >
-> **[0:04](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/multi-agent-collaboration?u=76281980&t=4)** The vision assistant would then get the image created, provide criticisms, and instruct the Dall-e assistant on how to modify the image using a new enhanced prompt.
+> **[0:04](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/multi-agent-collaboration?u=76281980&t=4)** The vision assistant would then get the image created, provide criticisms, and instruct the [[DALL-E]] assistant on how to modify the image using a new enhanced prompt.
 >
 > **[0:16](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/multi-agent-collaboration?u=76281980&t=16)** A user proxy would streamline conversations between the user and the other two specialized agents.
 >
 > **[0:22](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/multi-agent-collaboration?u=76281980&t=22)** This user proxy does the important job of ensuring the two agents perform the required tasks.
 >
-> **[0:30](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/multi-agent-collaboration?u=76281980&t=30)** For this example, we would need to use a Dall-e model for the Dall-e assistant, a model that can handle image input such as GPT-4 to revision for the vision assistant and GPT-4 Omni for the user proxy.
+> **[0:30](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/multi-agent-collaboration?u=76281980&t=30)** For this example, we would need to use a Dall-e model for the Dall-e assistant, a model that can handle image input such as [[GPT-4]] to revision for the vision assistant and GPT-4 Omni for the user proxy.
 >
-> **[0:48](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/multi-agent-collaboration?u=76281980&t=48)** We first load the Azure configurations from our environment file.
+> **[0:48](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/multi-agent-collaboration?u=76281980&t=48)** We first load the [[Microsoft Azure|Azure]] configurations from our environment file.
 >
 > **[0:57](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/multi-agent-collaboration?u=76281980&t=57)** We then create the three different Azure OpenAI clients with the different deployments.
 >
@@ -631,17 +623,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DALL-E]] (10), prompt (9), next (4), [[GPT-4]] (2), [[Microsoft Azure|Azure]] (2)
+> **Frameworks & Libraries:** [[DALL-E]] (10), [[GPT-4]] (2), [[Microsoft Azure|Azure]] (2)
 > **Env Vars:** gpt (2)
 > **Analogies:** such as (1)
 > **Speakers:** - this (1)
 
-#### Creating assistants in Azure AI Foundry
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/creating-assistants-in-azure-ai-foundry?u=76281980)
+#### [Creating assistants in Azure AI Foundry](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/creating-assistants-in-azure-ai-foundry?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/creating-assistants-in-azure-ai-foundry?u=76281980&t=0)** - [Instructor] You can also create assistants using Azure AI Foundry Azure OpenAI service.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/creating-assistants-in-azure-ai-foundry?u=76281980&t=0)** - [Instructor] You can also create assistants using [[Azure AI Foundry]] [[Microsoft Azure|Azure]] OpenAI service.
 >
 > **[0:06](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/creating-assistants-in-azure-ai-foundry?u=76281980&t=6)** Go to your Azure OpenAI resource in the Azure portal, and click Go to Azure AI Foundry portal.
 >
@@ -667,7 +658,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/creating-assistants-in-azure-ai-foundry?u=76281980&t=124)** Once the files have been uploaded successfully, we can then immediately use the assistant.
 >
-> **[2:17](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/creating-assistants-in-azure-ai-foundry?u=76281980&t=137)** As of this recording, the function calling is limited right now as you cannot enter your Python code.
+> **[2:17](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/creating-assistants-in-azure-ai-foundry?u=76281980&t=137)** As of this recording, the function calling is limited right now as you cannot enter your [[Python (Programming Language)|Python]] code.
 >
 > **[2:27](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/creating-assistants-in-azure-ai-foundry?u=76281980&t=147)** In addition, it is not possible to create a multi-agent system using Azure AI Foundry.
 >
@@ -675,7 +666,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Azure AI Foundry]] (3), [[Search]] (2), data (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Azure AI Foundry]] (3), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** csv (2), pdf (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** python (1)
@@ -684,8 +675,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Analogies:** similar to (1)
 
-#### Challenge: Create agents using Assistants API
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/challenge-create-agents-using-assistants-api?u=76281980)
+#### [Challenge: Create agents using Assistants API](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/challenge-create-agents-using-assistants-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -693,17 +683,17 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/challenge-create-agents-using-assistants-api?u=76281980&t=8)** Your objective is to create a hiking agent for Contoso Company.
 >
-> **[0:13](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/challenge-create-agents-using-assistants-api?u=76281980&t=13)** This agent will recommend hiking information, using information provided from its functions, and will also recommend products from Contoso's product line using File Search.
+> **[0:13](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/challenge-create-agents-using-assistants-api?u=76281980&t=13)** This agent will recommend hiking information, using information provided from its functions, and will also recommend [[Microsoft Products|products]] from Contoso's product line using File Search.
 >
 > **[0:26](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/challenge-create-agents-using-assistants-api?u=76281980&t=26)** You need to perform the following tasks.
 >
-> **[0:29](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/challenge-create-agents-using-assistants-api?u=76281980&t=29)** First, you need to create an Azure OpenAI resource that supports Assistants.
+> **[0:29](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/challenge-create-agents-using-assistants-api?u=76281980&t=29)** First, you need to create an [[Microsoft Azure|Azure]] OpenAI resource that supports Assistants.
 >
 > **[0:36](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/challenge-create-agents-using-assistants-api?u=76281980&t=36)** Enter the needed information, such as the endpoint, key, deployment, and API version in an environment file.
 >
 > **[0:44](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/challenge-create-agents-using-assistants-api?u=76281980&t=44)** Second, you should use the product PDF files as the source of documents.
 >
-> **[0:50](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/challenge-create-agents-using-assistants-api?u=76281980&t=50)** The files are located in GitHub repository in the Data and Products folder.
+> **[0:50](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/challenge-create-agents-using-assistants-api?u=76281980&t=50)** The files are located in [[GitHub]] repository in the Data and Products folder.
 >
 > **[0:56](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/challenge-create-agents-using-assistants-api?u=76281980&t=56)** Third, you need to create functions to provide basic hiking information.
 >
@@ -721,21 +711,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), product (2), [[Search]] (2), [[Microsoft Azure|Azure]] (1), api (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Microsoft Azure|Azure]] (1), [[GitHub]] (1)
 > **Env Vars:** api (1), pdf (1)
 > **CLI Commands:** find (1)
 > **Tools:** github (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Create agents using Assistants API
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/solution-create-agents-using-assistants-api?u=76281980)
+#### [Solution: Create agents using Assistants API](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/solution-create-agents-using-assistants-api?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/solution-create-agents-using-assistants-api?u=76281980&t=0)** - [Instructor] So here's the solution to our challenge.
 >
-> **[0:08](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/solution-create-agents-using-assistants-api?u=76281980&t=8)** We first create our Azure Open AI resource and place the needed parameters in the environment file.
+> **[0:08](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/solution-create-agents-using-assistants-api?u=76281980&t=8)** We first create our [[Microsoft Azure|Azure]] Open AI resource and place the needed parameters in the environment file.
 >
 > **[0:15](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/solution-create-agents-using-assistants-api?u=76281980&t=15)** We then load our Azure configurations in the notebook.
 >
@@ -745,7 +734,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/solution-create-agents-using-assistants-api?u=76281980&t=34)** get_destinations and get_hiking_budget do not need parameters, and we can specify a country parameter to the get_weather tool.
 >
-> **[0:47](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/solution-create-agents-using-assistants-api?u=76281980&t=47)** The Python definition of each function is then pretty straightforward.
+> **[0:47](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/solution-create-agents-using-assistants-api?u=76281980&t=47)** The [[Python (Programming Language)|Python]] definition of each function is then pretty straightforward.
 >
 > **[0:55](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/solution-create-agents-using-assistants-api?u=76281980&t=55)** We then create our vector store.
 >
@@ -785,7 +774,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), ai (1), [[Python (Programming Language)|Python]] (1), [[Search]] (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** get_destinations (2), get_hiking_budget (2), get_weather (2), file_search (1), tool_resources (1)
 > **CLI Commands:** python (1)
 > **Best Practices:** don't forget (1)
@@ -797,18 +786,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Semantic Kernel Agent Framework overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/semantic-kernel-agent-framework-overview?u=76281980)
+#### [Semantic Kernel Agent Framework overview](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/semantic-kernel-agent-framework-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/semantic-kernel-agent-framework-overview?u=76281980&t=0)** - [Instructor] Creating assistants using the Azure OpenAI Assistants API was challenging to set up.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/semantic-kernel-agent-framework-overview?u=76281980&t=0)** - [Instructor] Creating assistants using the [[Microsoft Azure|Azure]] OpenAI Assistants API was challenging to set up.
 >
-> **[0:07](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/semantic-kernel-agent-framework-overview?u=76281980&t=7)** The Python code needed a lot of work and getting used to.
+> **[0:07](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/semantic-kernel-agent-framework-overview?u=76281980&t=7)** The [[Python (Programming Language)|Python]] code needed a lot of work and getting used to.
 >
 > **[0:11](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/semantic-kernel-agent-framework-overview?u=76281980&t=11)** Frameworks are present to help developers make agents easier.
 >
-> **[0:16](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/semantic-kernel-agent-framework-overview?u=76281980&t=16)** The Semantic Kernel Agent Framework provides a platform within the Semantic Kernel ecosystem that allows developers to build AI agents and the ability to incorporate agentic patterns into any application based on the same patterns and features that exist in the core Semantic Kernel framework.
+> **[0:16](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/semantic-kernel-agent-framework-overview?u=76281980&t=16)** The [[Semantic Kernel]] Agent Framework provides a platform within the Semantic Kernel ecosystem that allows developers to build [[AI Agents]] and the ability to incorporate agentic patterns into any application based on the same patterns and features that exist in the core Semantic Kernel framework.
 >
 > **[0:36](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/semantic-kernel-agent-framework-overview?u=76281980&t=36)** Whenever we create an agent, a kernel instance is required as it provides the foundational context and capabilities for the agent's functionality.
 >
@@ -820,7 +808,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/semantic-kernel-agent-framework-overview?u=76281980&t=77)** Chat Completion Agent is a protocol for a chat-based interaction with an AI model where the chat history is maintained and presented to the model with each request.
 >
-> **[1:29](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/semantic-kernel-agent-framework-overview?u=76281980&t=89)** This implementation allows you to connect to many different language models, such as Azure OpenAI, Hugging Face, Mistral, and others.
+> **[1:29](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/semantic-kernel-agent-framework-overview?u=76281980&t=89)** This implementation allows you to connect to many different language models, such as Azure OpenAI, [[Hugging Face]], Mistral, and others.
 >
 > **[1:39](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/semantic-kernel-agent-framework-overview?u=76281980&t=99)** A service selector is available to identify which AI model you want to use.
 >
@@ -850,13 +838,13 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/semantic-kernel-agent-framework-overview?u=76281980&t=210)** The Semantic Kernel Agent Framework as of this recording is in preview and is subject to change.
 >
-> **[3:37](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/semantic-kernel-agent-framework-overview?u=76281980&t=217)** Hence, we highly recommend that you continually visit its Microsoft Learn documentation, and its developer blog to get the latest updates on the framework.
+> **[3:37](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/semantic-kernel-agent-framework-overview?u=76281980&t=217)** Hence, we highly recommend that you continually visit its [[Microsoft]] Learn documentation, and its developer blog to get the latest updates on the framework.
 >
 > **[3:47](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/semantic-kernel-agent-framework-overview?u=76281980&t=227)** You can find the blog through this link.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Semantic Kernel]] (4), ai (4), [[Microsoft Azure|Azure]] (3), [[Search]] (2), api (1)
+> **Frameworks & Libraries:** [[Semantic Kernel]] (4), [[Microsoft Azure|Azure]] (3), [[Python (Programming Language)|Python]] (1), [[AI Agents]] (1), [[Hugging Face]] (1)
 > **Cross-References:** previous chapter (2), we discussed (1), in the next (1)
 > **CLI Commands:** python (1), make (1), find (1)
 > **Definitions:** is a  (2)
@@ -865,14 +853,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Chat completion agent and adding plugins
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/chat-completion-agent-and-adding-plugins?u=76281980)
+#### [Chat completion agent and adding plugins](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/chat-completion-agent-and-adding-plugins?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/chat-completion-agent-and-adding-plugins?u=76281980&t=0)** - [Instructor] Let's create our first Semantic Kernel Agent using the Chat Completion Agent.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/chat-completion-agent-and-adding-plugins?u=76281980&t=0)** - [Instructor] Let's create our first [[Semantic Kernel]] Agent using the Chat Completion Agent.
 >
-> **[0:05](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/chat-completion-agent-and-adding-plugins?u=76281980&t=5)** In this notebook, we will create a travel agent similar to the travel assistant we created using the Azure OpenAI Assistants API.
+> **[0:05](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/chat-completion-agent-and-adding-plugins?u=76281980&t=5)** In this notebook, we will create a travel agent similar to the travel assistant we created using the [[Microsoft Azure|Azure]] OpenAI Assistants API.
 >
 > **[0:14](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/chat-completion-agent-and-adding-plugins?u=76281980&t=14)** You first need to install the Semantic Kernel library to ensure you have the latest version and features.
 >
@@ -940,7 +927,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Semantic Kernel]] (4), [[Microsoft Azure|Azure]] (4), api (2), next (1)
+> **Frameworks & Libraries:** [[Semantic Kernel]] (4), [[Microsoft Azure|Azure]] (4)
 > **Cross-References:** previous chapter (1), we discussed (1), previous video (1), in the next (1)
 > **Env Vars:** api (2)
 > **Analogies:** similar to (2)
@@ -948,12 +935,11 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### OpenAI Assistant Agent: Code Interpreter
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/openai-assistant-agent-code-interpreter?u=76281980)
+#### [OpenAI Assistant Agent: Code Interpreter](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/openai-assistant-agent-code-interpreter?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/openai-assistant-agent-code-interpreter?u=76281980&t=0)** - [Instructor] The Semantic Kernel OpenAI assistant agent allows you to use the capabilities of OpenAI assistant APIs, such as the code interpreter.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/openai-assistant-agent-code-interpreter?u=76281980&t=0)** - [Instructor] The [[Semantic Kernel]] OpenAI assistant agent allows you to use the capabilities of OpenAI assistant APIs, such as the code interpreter.
 >
 > **[0:10](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/openai-assistant-agent-code-interpreter?u=76281980&t=10)** In this note, we will have the code interpreter write and execute code to answer questions from a dataset containing two CSV files.
 >
@@ -973,7 +959,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/openai-assistant-agent-code-interpreter?u=76281980&t=78)** We then create a thread.
 >
-> **[1:23](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/openai-assistant-agent-code-interpreter?u=76281980&t=83)** Once the agent is created, you can also see the agent in Azure AI Foundry.
+> **[1:23](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/openai-assistant-agent-code-interpreter?u=76281980&t=83)** Once the agent is created, you can also see the agent in [[Azure AI Foundry]].
 >
 > **[1:35](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/openai-assistant-agent-code-interpreter?u=76281980&t=95)** The code interpreter can create images.
 >
@@ -989,7 +975,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/openai-assistant-agent-code-interpreter?u=76281980&t=144)** Running the first user query, you'll see that the agent was able to open the files as CSVs and was successful.
 >
-> **[2:31](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/openai-assistant-agent-code-interpreter?u=76281980&t=151)** It studied the structure of each file and then created an executed Python code to find the result.
+> **[2:31](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/openai-assistant-agent-code-interpreter?u=76281980&t=151)** It studied the structure of each file and then created an executed [[Python (Programming Language)|Python]] code to find the result.
 >
 > **[2:43](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/openai-assistant-agent-code-interpreter?u=76281980&t=163)** We can then append messages to the thread.
 >
@@ -1003,15 +989,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Azure AI Foundry]] (2), [[Python (Programming Language)|Python]] (2), [[Semantic Kernel]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Azure AI Foundry]] (2), [[Python (Programming Language)|Python]] (2), [[Semantic Kernel]] (1)
 > **CLI Commands:** python (2), find (2)
 > **Env Vars:** csv (3), api (1)
 > **UI Navigation:** open the (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### OpenAI Assistant Agent: File search
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/openai-assistant-agent-file-search?u=76281980)
+#### [OpenAI Assistant Agent: File search](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/openai-assistant-agent-file-search?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1067,26 +1052,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2)
 > **Code Identifiers:** reformat_citations (3), vector_store_filename (1), run_agent (1), get_thread_messages (1)
 > **Cross-References:** previous chapter (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Agent collaboration
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/agent-collaboration?u=76281980)
+#### [Agent collaboration](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/agent-collaboration?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/agent-collaboration?u=76281980&t=0)** - The agent group chat allows us to create a multi-agent system with ease.
 >
-> **[0:05](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/agent-collaboration?u=76281980&t=5)** We will create the same multi-agent system from the previous chapter, but this time using Semantic Kernel, and you will see how easier it is to implement this.
+> **[0:05](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/agent-collaboration?u=76281980&t=5)** We will create the same multi-agent system from the previous chapter, but this time using [[Semantic Kernel]], and you will see how easier it is to implement this.
 >
-> **[0:16](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/agent-collaboration?u=76281980&t=16)** We'll have a Dall-e assistant that creates images, a vision assistant to critique the image and provide an enhanced prompt, any manager that counts the number of images generated.
+> **[0:16](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/agent-collaboration?u=76281980&t=16)** We'll have a [[DALL-E]] assistant that creates images, a vision assistant to critique the image and provide an enhanced prompt, any manager that counts the number of images generated.
 >
 > **[0:29](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/agent-collaboration?u=76281980&t=29)** The manager will determine when the conversation should be terminated.
 >
-> **[0:36](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/agent-collaboration?u=76281980&t=36)** We first load their Azure configurations, and then we create our Azure OpenAI clients, but this time only for Dall-e and vision agents.
+> **[0:36](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/agent-collaboration?u=76281980&t=36)** We first load their [[Microsoft Azure|Azure]] configurations, and then we create our Azure OpenAI clients, but this time only for Dall-e and vision agents.
 >
 > **[0:53](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/agent-collaboration?u=76281980&t=53)** We then create two plugins.
 >
@@ -1156,22 +1139,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DALL-E]] (12), prompt (4), [[Microsoft Azure|Azure]] (2), [[Semantic Kernel]] (1), generic (1)
+> **Frameworks & Libraries:** [[DALL-E]] (12), [[Microsoft Azure|Azure]] (2), [[Semantic Kernel]] (1)
 > **Cross-References:** previous chapter (1)
 > **Speakers:** - the (1)
 
-#### Challenge: Creating agents with Semantic Kernal
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/challenge-creating-agents-with-sk?u=76281980)
+#### [Challenge: Creating agents with Semantic Kernal](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/challenge-creating-agents-with-sk?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/challenge-creating-agents-with-sk?u=76281980&t=0)** (bright electronic music)
 >
-> **[0:05](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/challenge-creating-agents-with-sk?u=76281980&t=5)** - [Instructor] It's time for the next challenge using the Semantic Kernel Agent Framework.
+> **[0:05](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/challenge-creating-agents-with-sk?u=76281980&t=5)** - [Instructor] It's time for the next challenge using the [[Semantic Kernel]] Agent Framework.
 >
 > **[0:12](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/challenge-creating-agents-with-sk?u=76281980&t=12)** Your objective is to create a hiking agent for the Contoso Company.
 >
-> **[0:18](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/challenge-creating-agents-with-sk?u=76281980&t=18)** This agent will recommend hiking information, using information provided to it, and will also recommend products from Contoso's product line.
+> **[0:18](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/challenge-creating-agents-with-sk?u=76281980&t=18)** This agent will recommend hiking information, using information provided to it, and will also recommend [[Microsoft Products|products]] from Contoso's product line.
 >
 > **[0:28](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/challenge-creating-agents-with-sk?u=76281980&t=28)** Your tasks are the following.
 >
@@ -1201,13 +1183,13 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/challenge-creating-agents-with-sk?u=76281980&t=122)** And finally, you should delete the file's thread and agent once you are completed.
 >
-> **[2:10](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/challenge-creating-agents-with-sk?u=76281980&t=130)** It is a given that you should be creating an Azure OpenAI resource and saving the required parameters in the environment file.
+> **[2:10](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/challenge-creating-agents-with-sk?u=76281980&t=130)** It is a given that you should be creating an [[Microsoft Azure|Azure]] OpenAI resource and saving the required parameters in the environment file.
 >
 > **[2:18](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/challenge-creating-agents-with-sk?u=76281980&t=138)** Since Semantic Kernel automatically handles getting your configuration from the file, you just need to ensure that you use the proper naming conventions.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Semantic Kernel]] (3), [[Microsoft Products|Products]] (3), product (3), [[Search]] (2), next (1)
+> **Frameworks & Libraries:** [[Semantic Kernel]] (3), [[Microsoft Products|Products]] (3), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** pdf (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -1215,8 +1197,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright electronic music) (1)
 
-#### Solution: Creating agents with Semantic Kernal
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/solution-creating-agents-with-sk?u=76281980)
+#### [Solution: Creating agents with Semantic Kernal](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/solution-creating-agents-with-sk?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1246,7 +1227,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/solution-creating-agents-with-sk?u=76281980&t=102)** And the third question uses the get_hiking_budget and get_weather functions.
 >
-> **[1:52](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/solution-creating-agents-with-sk?u=76281980&t=112)** We have a challenging question by asking the agent to recommend products based on a total budget.
+> **[1:52](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/solution-creating-agents-with-sk?u=76281980&t=112)** We have a challenging question by asking the agent to recommend [[Microsoft Products|products]] based on a total budget.
 >
 > **[2:06](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/solution-creating-agents-with-sk?u=76281980&t=126)** The agent first computes that $150 is needed to hike for three days in the US.
 >
@@ -1256,7 +1237,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **Code Identifiers:** get_destinations (2), get_hiking_budget (2), get_weather (2), reformat_citations (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - so (1)
@@ -1267,16 +1248,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AutoGen overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-overview?u=76281980)
+#### [AutoGen overview](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-overview?u=76281980&t=0)** - AutoGen is an open source framework designed by Microsoft researchers AI Frontiers Lab to build AI agent systems.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-overview?u=76281980&t=0)** - AutoGen is an open source framework designed by [[Microsoft]] researchers AI Frontiers Lab to build AI agent systems.
 >
-> **[0:09](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-overview?u=76281980&t=9)** It simplifies the creation and orchestration of event driven distributed agent applications, enabling multiple large language models, tools, and advanced multi-agent design patterns.
+> **[0:09](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-overview?u=76281980&t=9)** It simplifies the creation and orchestration of event driven distributed agent applications, enabling multiple [[Large Language Models (LLM)|large language models]], tools, and advanced multi-agent [[Design Patterns]].
 >
-> **[0:23](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-overview?u=76281980&t=23)** AutoGen requires Python 3.10 or later.
+> **[0:23](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-overview?u=76281980&t=23)** AutoGen requires [[Python (Programming Language)|Python]] 3.10 or later.
 >
 > **[0:27](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-overview?u=76281980&t=27)** The current stable version as of this recording is version 0.4.
 >
@@ -1286,13 +1266,13 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-overview?u=76281980&t=49)** This API is normally for advanced developers.
 >
-> **[0:53](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-overview?u=76281980&t=53)** AgentChat API built on top of the Core API implements a simpler API for rapid prototyping.
+> **[0:53](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-overview?u=76281980&t=53)** AgentChat API built on top of the Core API implements a simpler API for rapid [[Prototyping]].
 >
 > **[1:01](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-overview?u=76281980&t=61)** For those starting out with AutoGen, we suggest using this library.
 >
 > **[1:06](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-overview?u=76281980&t=66)** Finally, the Extensions API enables first and third party extensions, continuously expanding framework capabilities.
 >
-> **[1:15](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-overview?u=76281980&t=75)** It supports specific implementations of large language model clients, such as OpenAI, Azure OpenAI and capabilities such as code execution.
+> **[1:15](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-overview?u=76281980&t=75)** It supports specific implementations of large language model clients, such as OpenAI, [[Microsoft Azure|Azure]] OpenAI and capabilities such as code execution.
 >
 > **[1:26](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-overview?u=76281980&t=86)** The ecosystem also supports two essential developer tools.
 >
@@ -1304,11 +1284,11 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-overview?u=76281980&t=116)** Before we continue, I would also like to share this article.
 >
-> **[2:00](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-overview?u=76281980&t=120)** Both Semantic Kernel and AutoGen are being improved and developed by Microsoft.
+> **[2:00](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-overview?u=76281980&t=120)** Both [[Semantic Kernel]] and AutoGen are being improved and developed by Microsoft.
 >
 > **[2:09](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-overview?u=76281980&t=129)** The current thinking is to use Semantic Kernel for production use.
 >
-> **[2:13](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-overview?u=76281980&t=133)** Semantic Kernel is supported by Microsoft through services such as the Microsoft Unified Customer Support.
+> **[2:13](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-overview?u=76281980&t=133)** Semantic Kernel is supported by Microsoft through services such as the Microsoft Unified [[Customer Support]].
 >
 > **[2:20](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-overview?u=76281980&t=140)** AutoGen is not supported for production use.
 >
@@ -1318,7 +1298,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (8), [[Microsoft]] (4), [[Semantic Kernel]] (3), ai (2), [[Microsoft Azure|Azure]] (2)
+> **Frameworks & Libraries:** [[Microsoft]] (4), [[Semantic Kernel]] (3), [[Microsoft Azure|Azure]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Design Patterns]] (1)
 > **Env Vars:** api (8), gui (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** python (1), docker (1)
@@ -1327,8 +1307,7 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Definitions:** is an  (1)
 
-#### AutoGen Assistant Agent
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-assistant-agent?u=76281980)
+#### [AutoGen Assistant Agent](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-assistant-agent?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1340,7 +1319,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-assistant-agent?u=76281980&t=15)** Best to always check the documentation and see what the latest version and updates are.
 >
-> **[0:24](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-assistant-agent?u=76281980&t=24)** The next step is to create an Azure OpenAI resource.
+> **[0:24](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-assistant-agent?u=76281980&t=24)** The next step is to create an [[Microsoft Azure|Azure]] OpenAI resource.
 >
 > **[0:27](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-assistant-agent?u=76281980&t=27)** Save the needed configurations in your configuration file and load them in the notebook.
 >
@@ -1422,7 +1401,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), api (4), next (2), ai (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4)
 > **Code Identifiers:** run_stream (2), on_messages (2), get_weather (1), chat_message (1), inner_messages (1)
 > **Env Vars:** api (4), gpt (1)
 > **Documentation:** the documentation (1)
@@ -1430,8 +1409,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Other AutoGen agents
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/other-autogen-agents?u=76281980)
+#### [Other AutoGen agents](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/other-autogen-agents?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1463,7 +1441,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/other-autogen-agents?u=76281980&t=119)** We then create an agent.
 >
-> **[2:02](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/other-autogen-agents?u=76281980&t=122)** Notice that the syntax is very similar to creating an agent using the OpenAI Assistant API and Semantic Kernel.
+> **[2:02](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/other-autogen-agents?u=76281980&t=122)** Notice that the syntax is very similar to creating an agent using the OpenAI Assistant API and [[Semantic Kernel]].
 >
 > **[2:10](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/other-autogen-agents?u=76281980&t=130)** We defined the name, description, client, model, instructions, set the tools to file_search, and specify a vector store in the tool_resources.
 >
@@ -1483,7 +1461,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/other-autogen-agents?u=76281980&t=204)** It is typically used within a team with another agent that generates code snippets to be executed.
 >
-> **[3:33](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/other-autogen-agents?u=76281980&t=213)** Docker must be properly set up in your GitHub Codespaces environment for this to work.
+> **[3:33](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/other-autogen-agents?u=76281980&t=213)** Docker must be properly set up in your [[GitHub]] [[Codespaces]] environment for this to work.
 >
 > **[3:41](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/other-autogen-agents?u=76281980&t=221)** We first create a DockerCommandLineCodeExecutor and provide it a working directory.
 >
@@ -1503,13 +1481,13 @@ created: 2026-05-02
 >
 > **[4:36](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/other-autogen-agents?u=76281980&t=276)** Finally, the docker_code_executor must be stopped.
 >
-> **[4:44](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/other-autogen-agents?u=76281980&t=284)** You'll also observe that a Python file was created in the same working directory we specified that contains the code.
+> **[4:44](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/other-autogen-agents?u=76281980&t=284)** You'll also observe that a [[Python (Programming Language)|Python]] file was created in the same working directory we specified that contains the code.
 >
 > **[4:54](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/other-autogen-agents?u=76281980&t=294)** Now that we have discussed the different agents in AutoGen, let us create a team for these agents to collaborate with each other.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (6), [[Search]] (4), api (3), data (1), [[Semantic Kernel]] (1)
+> **Frameworks & Libraries:** [[Semantic Kernel]] (1), [[GitHub]] (1), [[Codespaces]] (1), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** docker_code_executor (3), on_messages (2), file_search (1), tool_resources (1), code_interpreter (1)
 > **CLI Commands:** docker (2), python (1)
 > **Env Vars:** api (3)
@@ -1518,8 +1496,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Prerequisites:** set up (1)
 
-#### AutoGen RoundRobinGroupChat
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-roundrobingroupchat?u=76281980)
+#### [AutoGen RoundRobinGroupChat](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-roundrobingroupchat?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1531,11 +1508,11 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-roundrobingroupchat?u=76281980&t=20)** Each agent during its turn broadcast's its response to all other agents, ensuring that the entire team maintains a consistent context.
 >
-> **[0:30](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-roundrobingroupchat?u=76281980&t=30)** We first load their Azure configuration and create an Azure OpenAI client.
+> **[0:30](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-roundrobingroupchat?u=76281980&t=30)** We first load their [[Microsoft Azure|Azure]] configuration and create an Azure OpenAI client.
 >
 > **[0:43](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-roundrobingroupchat?u=76281980&t=43)** We first create two agents.
 >
-> **[0:46](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-roundrobingroupchat?u=76281980&t=46)** The second agent provides constructive feedback and must respond with approved word in order to terminate the conversation.
+> **[0:46](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-roundrobingroupchat?u=76281980&t=46)** The second agent provides constructive feedback and must respond with approved [[Microsoft Word|word]] in order to terminate the conversation.
 >
 > **[0:57](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-roundrobingroupchat?u=76281980&t=57)** We then create a text termination condition and specify the word approve as the termination text.
 >
@@ -1597,7 +1574,7 @@ created: 2026-05-02
 >
 > **[5:06](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-roundrobingroupchat?u=76281980&t=306)** We already discussed external termination.
 >
-> **[5:14](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-roundrobingroupchat?u=76281980&t=314)** Token usage termination terminates the conversation when the specified number of tokens have been used.
+> **[5:14](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-roundrobingroupchat?u=76281980&t=314)** Token usage termination terminates the conversation when the specified number of [[Tokens]] have been used.
 >
 > **[5:26](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-roundrobingroupchat?u=76281980&t=326)** Timeout termination terminates the conversation when the specified time has elapsed.
 >
@@ -1605,13 +1582,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Microsoft Word|Word]] (2), teams (1), next (1), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Microsoft Word|Word]] (2), [[Tokens]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding humans in the loop
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/adding-humans-in-the-loop?u=76281980)
+#### [Adding humans in the loop](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/adding-humans-in-the-loop?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1627,7 +1603,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/adding-humans-in-the-loop?u=76281980&t=46)** We then create a UserProxyAgent and use input as the input function to get user inputs from the console.
 >
-> **[0:56](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/adding-humans-in-the-loop?u=76281980&t=56)** We specify the approved word as the word that needs to be mentioned to terminate the conversation.
+> **[0:56](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/adding-humans-in-the-loop?u=76281980&t=56)** We specify the approved [[Microsoft Word|word]] as the word that needs to be mentioned to terminate the conversation.
 >
 > **[1:07](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/adding-humans-in-the-loop?u=76281980&t=67)** We then create a RoundRobinGroupChat by specifying the participants and the termination condition.
 >
@@ -1675,7 +1651,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), application (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **Definitions:** is a  (1), is called (1)
 > **Code Identifiers:** max_turns (1)
 > **Cross-References:** in the last (1)
@@ -1683,8 +1659,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### AutoGen SelectorGroupChat
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-selectorgroupchat?u=76281980)
+#### [AutoGen SelectorGroupChat](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-selectorgroupchat?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1706,9 +1681,9 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-selectorgroupchat?u=76281980&t=63)** When the conversation ends, the team returns the task result object containing the conversation history from this task.
 >
-> **[1:12](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-selectorgroupchat?u=76281980&t=72)** In this notebook, we'll create the same DALL-E and Vision multi-agent system we have created in previous videos.
+> **[1:12](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-selectorgroupchat?u=76281980&t=72)** In this notebook, we'll create the same [[DALL-E]] and Vision multi-agent system we have created in previous videos.
 >
-> **[1:21](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-selectorgroupchat?u=76281980&t=81)** We again load our Azure configuration and create the Azure OpenAI chat completion client and the Azure OpenAI clients for our other agents.
+> **[1:21](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-selectorgroupchat?u=76281980&t=81)** We again load our [[Microsoft Azure|Azure]] configuration and create the Azure OpenAI chat completion client and the Azure OpenAI clients for our other agents.
 >
 > **[1:38](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-selectorgroupchat?u=76281980&t=98)** We now create our agents.
 >
@@ -1768,14 +1743,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DALL-E]] (9), next (7), [[Microsoft Azure|Azure]] (3), prompt (3)
+> **Frameworks & Libraries:** [[DALL-E]] (9), [[Microsoft Azure|Azure]] (3)
 > **Env Vars:** dall (9)
 > **Code Identifiers:** generate_image (2), run_stream (2), analyze_image (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### AutoGen Swarm
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-swarm?u=76281980)
+#### [AutoGen Swarm](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-swarm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1833,15 +1807,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (1), next (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** previous video (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [presenter] (1)
 
-#### AutoGen Magentic-One
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-magentic-one?u=76281980)
+#### [AutoGen Magentic-One](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-magentic-one?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1869,7 +1841,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-magentic-one?u=76281980&t=118)** This notebook will show you different examples of how we can use Magentic-One.
 >
-> **[2:08](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-magentic-one?u=76281980&t=128)** We first load our Azure configuration and create an Azure OpenAI Client.
+> **[2:08](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-magentic-one?u=76281980&t=128)** We first load our [[Microsoft Azure|Azure]] configuration and create an Azure OpenAI Client.
 >
 > **[2:19](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-magentic-one?u=76281980&t=139)** We create a helper function to print out the detailed breakdown of the conversation.
 >
@@ -1887,7 +1859,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-magentic-one?u=76281980&t=212)** The third example shows you how it can work with a code executor agent.
 >
-> **[3:36](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-magentic-one?u=76281980&t=216)** In this scenario, the orchestrator creates a Python code that the code executor will execute.
+> **[3:36](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-magentic-one?u=76281980&t=216)** In this scenario, the orchestrator creates a [[Python (Programming Language)|Python]] code that the code executor will execute.
 >
 > **[3:50](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-magentic-one?u=76281980&t=230)** In this scenario, we are asking Magentic-One to solve queries from our Bigfoot dataset similar to what we have done in the previous videos.
 >
@@ -1923,15 +1895,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (3), web (2), [[Microsoft Azure|Azure]] (2), [[Python (Programming Language)|Python]] (2), product (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2), find (1), docker (1), make (1)
 > **Env Vars:** llm (3), csv (1)
 > **Definitions:** is an  (3), is a  (1)
 > **Analogies:** such as (1), similar to (1), imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Creating agents with AutoGen
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/challenge-creating-agents-with-autogen?u=76281980)
+#### [Challenge: Creating agents with AutoGen](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/challenge-creating-agents-with-autogen?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1941,7 +1912,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/challenge-creating-agents-with-autogen?u=76281980&t=24)** This document must be saved in AutoGen output folder.
 >
-> **[0:31](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/challenge-creating-agents-with-autogen?u=76281980&t=31)** Using Azure OpenAI with a GPT-4 Omni model, you will create the following agents, a planning agent that delegates tasks, a multimodal web surfer that looks for weather information in the internet, a hiking agent that provides a hiking plan, a product agent that answers product recommendations from a file search tool.
+> **[0:31](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/challenge-creating-agents-with-autogen?u=76281980&t=31)** Using [[Microsoft Azure|Azure]] OpenAI with a [[GPT-4]] Omni model, you will create the following agents, a planning agent that delegates tasks, a multimodal web surfer that looks for weather information in the internet, a hiking agent that provides a hiking plan, a product agent that answers product recommendations from a file search tool.
 >
 > **[0:56](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/challenge-creating-agents-with-autogen?u=76281980&t=56)** I suggest you use an OpenAI assistance agent for this product agent.
 >
@@ -1965,21 +1936,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (7), [[Microsoft Azure|Azure]] (1), [[GPT-4]] (1), web (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1), [[GPT-4]] (1)
 > **Env Vars:** gpt (1), usa (1)
 > **Analogies:** such as (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Creating agents with AutoGen
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/solution-creating-agents-with-autogen?u=76281980)
+#### [Solution: Creating agents with AutoGen](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/solution-creating-agents-with-autogen?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/solution-creating-agents-with-autogen?u=76281980&t=0)** - [Lecturer] So here's the solution to our challenge.
 >
-> **[0:11](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/solution-creating-agents-with-autogen?u=76281980&t=11)** We load our Azure configurations from the environment file and create an Azure open AI chat completion client.
+> **[0:11](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/solution-creating-agents-with-autogen?u=76281980&t=11)** We load our [[Microsoft Azure|Azure]] configurations from the environment file and create an Azure open AI chat completion client.
 >
 > **[0:21](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/solution-creating-agents-with-autogen?u=76281980&t=21)** We then create our agents.
 >
@@ -2061,7 +2031,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (11), [[Microsoft Azure|Azure]] (2), web (2), data (2), ai (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2)
 > **Code Identifiers:** openai (1)
 > **Cross-References:** as you saw (1)
 > **Analogies:** such as (1)
@@ -2073,8 +2043,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Key takeaways and next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/key-takeaways-and-next-steps?u=76281980)
+#### [Key takeaways and next steps](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/key-takeaways-and-next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2084,7 +2053,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/key-takeaways-and-next-steps?u=76281980&t=11)** Here's to summarize what you have learned in this course.
 >
-> **[0:14](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/key-takeaways-and-next-steps?u=76281980&t=14)** AI agents are systems or programs capable of autonomously performing tasks for a user or another system by using a workflow and available tools.
+> **[0:14](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/key-takeaways-and-next-steps?u=76281980&t=14)** [[AI Agents]] are systems or programs capable of autonomously performing tasks for a user or another system by using a workflow and available tools.
 >
 > **[0:25](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/key-takeaways-and-next-steps?u=76281980&t=25)** They can plan and sequence actions to achieve specific goals, use tools or plugins to perform different tasks effectively, perceive and process information from their environment, and remember past interactions and behaviors.
 >
@@ -2092,11 +2061,11 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/key-takeaways-and-next-steps?u=76281980&t=43)** We discussed in this course the following.
 >
-> **[0:46](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/key-takeaways-and-next-steps?u=76281980&t=46)** The Azure OpenAI Assistants API provides you the ability to create assistants with function calling, file search, and code interpreter capabilities.
+> **[0:46](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/key-takeaways-and-next-steps?u=76281980&t=46)** The [[Microsoft Azure|Azure]] OpenAI Assistants API provides you the ability to create assistants with function calling, file search, and code interpreter capabilities.
 >
-> **[0:55](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/key-takeaways-and-next-steps?u=76281980&t=55)** We also showed you how you can create an assistant using Azure AI Foundry.
+> **[0:55](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/key-takeaways-and-next-steps?u=76281980&t=55)** We also showed you how you can create an assistant using [[Azure AI Foundry]].
 >
-> **[1:00](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/key-takeaways-and-next-steps?u=76281980&t=60)** We then discussed the production-ready Sematic Kernel Agent Framework that is supported by Microsoft.
+> **[1:00](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/key-takeaways-and-next-steps?u=76281980&t=60)** We then discussed the production-ready Sematic Kernel Agent Framework that is supported by [[Microsoft]].
 >
 > **[1:07](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/key-takeaways-and-next-steps?u=76281980&t=67)** We showed you how you can create complex agent systems with a lot less code.
 >
@@ -2134,21 +2103,21 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/key-takeaways-and-next-steps?u=76281980&t=168)** These technologies are very new and will continue to change with new capabilities and replacements.
 >
-> **[2:54](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/key-takeaways-and-next-steps?u=76281980&t=174)** There should be a new version of Semantic Kernel and AutoGen by the time you're watching this course.
+> **[2:54](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/key-takeaways-and-next-steps?u=76281980&t=174)** There should be a new version of [[Semantic Kernel]] and AutoGen by the time you're watching this course.
 >
 > **[3:00](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/key-takeaways-and-next-steps?u=76281980&t=180)** You may perhaps want to explore other frameworks.
 >
 > **[3:03](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/key-takeaways-and-next-steps?u=76281980&t=183)** To be honest, I would rather stick to just one framework.
 >
-> **[3:07](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/key-takeaways-and-next-steps?u=76281980&t=187)** But if there's already a library that your team is already using to build generative AI applications, chances are they do have an agent framework equivalent.
+> **[3:07](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/key-takeaways-and-next-steps?u=76281980&t=187)** But if there's already a library that your team is already using to build [[Generative AI]] applications, chances are they do have an agent framework equivalent.
 >
-> **[3:16](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/key-takeaways-and-next-steps?u=76281980&t=196)** Finally, you may want to study other topics, such as deployment, security, evaluating agent performance, and responsible AI.
+> **[3:16](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/key-takeaways-and-next-steps?u=76281980&t=196)** Finally, you may want to study other topics, such as deployment, security, evaluating agent performance, and [[Responsible AI]].
 >
 > **[3:26](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/key-takeaways-and-next-steps?u=76281980&t=206)** As you eventually implement these in your business, these topics and considerations would be very necessary.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (3), next (3), [[Search]] (2), management (2), ai (1)
+> **Frameworks & Libraries:** [[AI Agents]] (1), [[Microsoft Azure|Azure]] (1), [[Azure AI Foundry]] (1), [[Microsoft]] (1), [[Semantic Kernel]] (1)
 > **Env Vars:** api (3)
 > **Analogies:** such as (3)
 > **Cross-References:** we discussed (2)

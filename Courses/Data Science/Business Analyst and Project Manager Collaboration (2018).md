@@ -80,8 +80,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Teaming up for results
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/teaming-up-for-results?u=76281980)
+#### [Teaming up for results](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/teaming-up-for-results?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -93,7 +92,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/teaming-up-for-results?u=76281980&t=32)** Pat the PM and Bailey the BA will take us through common scenarios and areas where partnership between these two roles is a must, things like planning and scope management.
 >
-> **[0:45](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/teaming-up-for-results?u=76281980&t=45)** They will guide us through the key mindsets and considerations, such as changing requirements and stakeholder engagement.
+> **[0:45](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/teaming-up-for-results?u=76281980&t=45)** They will guide us through the key mindsets and considerations, such as changing requirements and [[Stakeholder Engagement]].
 >
 > **[0:53](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/teaming-up-for-results?u=76281980&t=53)** You will learn from Pat and Bailey that this deep collaboration will build trust with stakeholders, foster an environment for stakeholder engagement, and help the entire team focus on the outcomes that matter with the project.
 >
@@ -103,7 +102,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Stakeholder Engagement]] (2), management (1)
+> **Frameworks & Libraries:** [[Stakeholder Engagement]] (2)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - in (1)
@@ -113,8 +112,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why projects fail
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/why-projects-fail?u=76281980)
+#### [Why projects fail](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/why-projects-fail?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -124,7 +122,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/why-projects-fail?u=76281980&t=16)** Let's look at a few ideas.
 >
-> **[0:18](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/why-projects-fail?u=76281980&t=18)** First, lack of stakeholder engagement and involvement, and this includes engaged sponsors and sponsors having clear vision and objectives.
+> **[0:18](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/why-projects-fail?u=76281980&t=18)** First, lack of [[Stakeholder Engagement]] and involvement, and this includes engaged sponsors and sponsors having clear vision and objectives.
 >
 > **[0:29](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/why-projects-fail?u=76281980&t=29)** The BA and PM have key roles in helping the leaders take the vision and objectives and turn them from strategy to execution.
 >
@@ -174,13 +172,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Stakeholder Engagement]] (2), product (2), business (2), next (1), teams (1)
+> **Frameworks & Libraries:** [[Stakeholder Engagement]] (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - we (1)
 
-#### Goals of the roles
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/goals-of-the-roles?u=76281980)
+#### [Goals of the roles](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/goals-of-the-roles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -202,11 +199,11 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/goals-of-the-roles?u=76281980&t=53)** If a project has a PM and no BA or no one performing the BA role or perhaps the BA role isn't done well, the project is at a high risk of building the wrong thing.
 >
-> **[1:06](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/goals-of-the-roles?u=76281980&t=66)** This is realized when users get the product and react that it's not what they needed.
+> **[1:06](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/goals-of-the-roles?u=76281980&t=66)** This is realized when users get the product and [[React.js|react]] that it's not what they needed.
 >
 > **[1:12](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/goals-of-the-roles?u=76281980&t=72)** Often it's too late and too much has been spent before leaders realize that there has been waste in building the wrong thing.
 >
-> **[1:21](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/goals-of-the-roles?u=76281980&t=81)** On the flip side, if a project has a BA and no PM, or no one performing the PM role, or the PM role isn't done well, the project has a high risk of running into schedule and budget issues and the analysis takes too much priority over the budget and schedule, or potentially decision-making is impeded by focus on other areas.
+> **[1:21](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/goals-of-the-roles?u=76281980&t=81)** On the flip side, if a project has a BA and no PM, or no one performing the PM role, or the PM role isn't done well, the project has a high risk of running into schedule and budget issues and the analysis takes too much priority over the budget and schedule, or potentially [[Decision-Making]] is impeded by focus on other areas.
 >
 > **[1:44](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/goals-of-the-roles?u=76281980&t=104)** Depending on the project approach and methodology, various factors and roles can influence these dynamics.
 >
@@ -226,14 +223,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), product (1), [[React.js|React]] (1), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1), [[Decision-Making]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - many (1)
 
-#### Project vs. product
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/project-vs-product-8540167?u=76281980)
+#### [Project vs. product](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/project-vs-product-8540167?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -289,14 +285,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (14), management (2), business (1)
 > **Env Vars:** crm (4)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - many (1)
 
-#### Why collaboration is key
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/why-collaboration-is-key-8534969?u=76281980)
+#### [Why collaboration is key](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/why-collaboration-is-key-8534969?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -338,7 +332,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/why-collaboration-is-key-8534969?u=76281980&t=121)** When a PM and BA work together in managing stakeholders, communications, risk and scope, it builds trust, reduces risk and engages stakeholders.
 >
-> **[2:14](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/why-collaboration-is-key-8534969?u=76281980&t=134)** This leads to better quality products and great relationships that ultimately leads to getting the project done on time, within budget and while meeting the needs of stakeholders and delivering value.
+> **[2:14](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/why-collaboration-is-key-8534969?u=76281980&t=134)** This leads to better quality [[Microsoft Products|products]] and great relationships that ultimately leads to getting the project done on time, within budget and while meeting the needs of stakeholders and delivering value.
 >
 > **[2:28](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/why-collaboration-is-key-8534969?u=76281980&t=148)** Many things go into successful projects, and there is no doubt that collaboration is at the top of the list.
 
@@ -350,8 +344,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - pat (1)
 
-#### Where the roles overlap
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/where-the-roles-overlap?u=76281980)
+#### [Where the roles overlap](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/where-the-roles-overlap?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -407,12 +400,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (4), product (3), next (2), business (1), functional (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - project (1)
 
-#### The triple constraint
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/the-triple-constraint-8541081?u=76281980)
+#### [The triple constraint](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/the-triple-constraint-8541081?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -450,7 +441,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/the-triple-constraint-8541081?u=76281980&t=89)** Project managers and BAs collaborate together with leaders to understand which of the three triple constraint areas are the most important to meeting objectives and delivering value.
 >
-> **[1:41](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/the-triple-constraint-8541081?u=76281980&t=101)** The PM and BA need to be in sync together with both the leaders and the team in understanding which of the three will lead decision-making.
+> **[1:41](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/the-triple-constraint-8541081?u=76281980&t=101)** The PM and BA need to be in sync together with both the leaders and the team in understanding which of the three will lead [[Decision-Making]].
 >
 > **[1:51](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/the-triple-constraint-8541081?u=76281980&t=111)** This decision can impact strategy and how well the project executes on a leader strategy.
 >
@@ -480,13 +471,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), teams (2), management (1), [[Decision-Making]] (1), hit (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1)
 > **Cross-References:** coming up (1)
 > **Analogies:** for example (1)
 > **Speakers:** - pat (1)
 
-#### Model partnership
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/model-partnership?u=76281980)
+#### [Model partnership](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/model-partnership?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -544,8 +534,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Portfolio-level collaboration
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/portfolio-level-collaboration-8536783?u=76281980)
+#### [Portfolio-level collaboration](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/portfolio-level-collaboration-8536783?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -621,17 +610,16 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/portfolio-level-collaboration-8536783?u=76281980&t=273)** Working together on this with a blend of skills PMs and BAs bring to the table can benefit portfolio planning in big ways.
 >
-> **[4:43](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/portfolio-level-collaboration-8536783?u=76281980&t=283)** It can bring a powerful decision-making process to strategic alignment that can make all the difference.
+> **[4:43](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/portfolio-level-collaboration-8536783?u=76281980&t=283)** It can bring a powerful [[Decision-Making]] process to strategic alignment that can make all the difference.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), next (2), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1)
 > **CLI Commands:** make (4)
 > **Analogies:** picture (1)
 > **Speakers:** - at (1)
 
-#### Scoping
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/scoping-8539225?u=76281980)
+#### [Scoping](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/scoping-8539225?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -663,7 +651,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/scoping-8539225?u=76281980&t=101)** Missing functional scope impacts schedule, resources, and budget.
 >
-> **[1:46](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/scoping-8539225?u=76281980&t=106)** Pat and Bailey are tied together in this area to ensure a smooth scope understanding and decision-making.
+> **[1:46](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/scoping-8539225?u=76281980&t=106)** Pat and Bailey are tied together in this area to ensure a smooth scope understanding and [[Decision-Making]].
 >
 > **[1:53](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/scoping-8539225?u=76281980&t=113)** And the technical scope is about what technologies are impacted.
 >
@@ -705,13 +693,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (7), product (5), teams (3), next (1), leadership (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - scope (1)
 
-#### Estimating and planning
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/estimating-and-planning-8534964?u=76281980)
+#### [Estimating and planning](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/estimating-and-planning-8534964?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -775,14 +762,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (10), next (1), business (1), management (1)
 > **Analogies:** picture (1), imagine (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - so (1)
 
-#### Requirements and analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/requirements-and-analysis-8537626?u=76281980)
+#### [Requirements and analysis](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/requirements-and-analysis-8537626?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -834,16 +819,15 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/requirements-and-analysis-8537626?u=76281980&t=196)** This allows Pat, Bailey and the business leaders to discuss key requirements and decisions.
 >
-> **[3:24](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/requirements-and-analysis-8537626?u=76281980&t=204)** Requirements analysis is so important to projects, and bringing the PM into it at the appropriate places makes it even better.
+> **[3:24](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/requirements-and-analysis-8537626?u=76281980&t=204)** [[Requirements Analysis]] is so important to projects, and bringing the PM into it at the appropriate places makes it even better.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (4), business (3), [[Requirements Analysis]] (1)
+> **Frameworks & Libraries:** [[Requirements Analysis]] (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - requirements (1)
 
-#### Development and testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/development-and-testing-8537633?u=76281980)
+#### [Development and testing](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/development-and-testing-8537633?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -889,14 +873,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1), next (1)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1)
 > **Analogies:** picture (1)
 > **Speakers:** - during (1)
 
-#### Implementation
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/implementation-8537632?u=76281980)
+#### [Implementation](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/implementation-8537632?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -944,13 +926,13 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/implementation-8537632?u=76281980&t=145)** All of these pieces need to be taken into account in these critical decisions and moments of implementation.
 >
-> **[2:33](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/implementation-8537632?u=76281980&t=153)** Pat and Bailey makes sure all the angles are considered in the decision-making.
+> **[2:33](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/implementation-8537632?u=76281980&t=153)** Pat and Bailey makes sure all the angles are considered in the [[Decision-Making]].
 >
 > **[2:38](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/implementation-8537632?u=76281980&t=158)** And both Pat and Bailey have a powerful lens to provide value together as the project heads towards hopefully a rewarding implementation.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - so (1)
@@ -960,8 +942,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Communications
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/communications-8541082?u=76281980)
+#### [Communications](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/communications-8541082?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1016,8 +997,7 @@ created: 2026-05-02
 > **Best Practices:** the key is (1)
 > **Speakers:** - pat (1)
 
-#### Risk management
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/risk-management-8540169?u=76281980)
+#### [Risk management](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/risk-management-8540169?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1067,12 +1047,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (3), next (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - when (1)
 
-#### Stakeholder management
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/stakeholder-management-8538297?u=76281980)
+#### [Stakeholder management](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/stakeholder-management-8538297?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1122,14 +1100,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2)
 > **Analogies:** imagine (2)
 > **Env Vars:** crm (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - pat (1)
 
-#### Scope management and change
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/scope-management-and-change-8539226?u=76281980)
+#### [Scope management and change](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/scope-management-and-change-8539226?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1159,7 +1135,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/scope-management-and-change-8539226?u=76281980&t=74)** This is easier when iterations are short and work in progress is small.
 >
-> **[1:19](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/scope-management-and-change-8539226?u=76281980&t=79)** Agile teams experience this with their work.
+> **[1:19](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/scope-management-and-change-8539226?u=76281980&t=79)** [[Agile Development|Agile]] teams experience this with their work.
 >
 > **[1:22](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/scope-management-and-change-8539226?u=76281980&t=82)** However, teams that have a larger work in progress and longer iterations need to manage change carefully.
 >
@@ -1187,7 +1163,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), business (1), career (1), [[Agile Development|Agile]] (1), management (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** crm (1)
 > **Speakers:** - i (1)
@@ -1197,8 +1173,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Leverage each other's skill sets
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/leverage-each-other-s-skill-sets?u=76281980)
+#### [Leverage each other's skill sets](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/leverage-each-other-s-skill-sets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1218,7 +1193,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3)
 > **Speakers:** - business (1)
 
 

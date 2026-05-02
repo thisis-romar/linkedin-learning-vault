@@ -7,19 +7,19 @@ aliases:
   - Virtual Private Network
 linkedin_topics:
   - Cybersecurity
-  - Cloud Computing
   - Network and System Administration
-  - Data Science
+  - Cloud Computing
   - DevOps
+  - Data Science
 tags:
   - glossary
   - type/concept
   - topic/security
-  - topic/cloud-computing
   - topic/network-and-system-administration
-  - topic/data-science
+  - topic/cloud-computing
   - topic/devops
-course_count: 25
+  - topic/data-science
+course_count: 26
 created: 2026-05-02
 ---
 
@@ -27,7 +27,7 @@ created: 2026-05-02
 
 # Virtual Private Network (VPN)
 
-> **Type:** Concept | **Courses:** 25 | **Topics:** [[Cybersecurity]], [[Cloud Computing]], [[Network and System Administration]], [[Data Science]], [[DevOps]]
+> **Type:** Concept | **Courses:** 26 | **Topics:** [[Cybersecurity]], [[Network and System Administration]], [[Cloud Computing]], [[DevOps]], [[Data Science]]
 
 ## Courses
 
@@ -42,7 +42,7 @@ created: 2026-05-02
 9. [[Cybersecurity Awareness- Cybersecurity Terminology]] — 1 mentions
 10. [[A Beginner's Guide to Public Cloud Options]] — 1 mentions
 
-> [!note]- See all 25 courses
+> [!note]- See all 26 courses
 > 11. [[Cloud Computing- Understanding Networking]] — 1 mentions
 > 12. [[Ethical Hacking- Enumeration]] — 1 mentions
 > 13. [[Ethical Hacking- Cryptography]] — 1 mentions
@@ -51,24 +51,25 @@ created: 2026-05-02
 > 16. [[Windows 10- Networking]] — 1 mentions
 > 17. [[IT Security Foundations- Network Security]] — 1 mentions
 > 18. [[Vulnerability Management with Nessus]] — 1 mentions
-> 19. [[Networking Foundations- Local Area Networks (LANs)]] — 1 mentions
-> 20. [[Building a Privacy Program in the Age of GenAI]] — 1 mentions
-> 21. [[Privacy in the New World of Work]] — 1 mentions
-> 22. [[Azure Storage Essential Training (2021)]] — 1 mentions
-> 23. [[Windows Server 2019 Essential Training]] — 1 mentions
-> 24. [[Cybersecurity At Work]] — 1 mentions
-> 25. [[Cybersecurity Awareness- IoT Devices]] — 1 mentions
+> 19. [[Networking Foundations Networking Basics]] — 1 mentions
+> 20. [[Networking Foundations- Local Area Networks (LANs)]] — 1 mentions
+> 21. [[Building a Privacy Program in the Age of GenAI]] — 1 mentions
+> 22. [[Privacy in the New World of Work]] — 1 mentions
+> 23. [[Azure Storage Essential Training (2021)]] — 1 mentions
+> 24. [[Windows Server 2019 Essential Training]] — 1 mentions
+> 25. [[Cybersecurity At Work]] — 1 mentions
+> 26. [[Cybersecurity Awareness- IoT Devices]] — 1 mentions
 
 ## Learning Paths
 
 1. [[Infrastructure Management on Microsoft Azure- Top Skills for IT Professionals]] — 8 total mentions
-2. [[Explore a Career in IT Support]] — 4 total mentions
-3. [[Network Administration- Build Core Skills for Network Management and Security]] — 4 total mentions
+2. [[Network Administration- Build Core Skills for Network Management and Security]] — 5 total mentions
+3. [[Explore a Career in IT Support]] — 4 total mentions
 4. [[Build Your Cybersecurity Awareness Skills]] — 4 total mentions
 5. [[Cisco Network Security- Safeguarding Network Integrity and Data]] — 3 total mentions
-6. [[Azure Administration for Beginners- Management Tools, Services, and Security]] — 2 total mentions
-7. [[Networking and Administration Fundamentals]] — 2 total mentions
-8. [[The Top Skills IT Professionals Have Right Now]] — 2 total mentions
+6. [[Networking and Administration Fundamentals]] — 3 total mentions
+7. [[The Top Skills IT Professionals Have Right Now]] — 3 total mentions
+8. [[Azure Administration for Beginners- Management Tools, Services, and Security]] — 2 total mentions
 9. [[Mastering Multiprotocol Label Switching (MPLS)]] — 2 total mentions
 10. [[Cybersecurity for Sales Professionals]] — 2 total mentions
 

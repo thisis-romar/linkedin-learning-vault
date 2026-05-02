@@ -91,12 +91,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building blocks of Spring
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/building-blocks-of-spring?u=76281980)
+#### [Building blocks of Spring](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/building-blocks-of-spring?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/building-blocks-of-spring?u=76281980&t=0)** - [Frank] Fully harnessing the power of the Spring Framework makes you more effective as a developer in the framework.
+> **[0:00](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/building-blocks-of-spring?u=76281980&t=0)** - [Frank] Fully harnessing the power of the [[Spring Framework]] makes you more effective as a developer in the framework.
 >
 > **[0:08](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/building-blocks-of-spring?u=76281980&t=8)** Learn to debug, extend, and maximize its value.
 >
@@ -110,17 +109,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Framework]] (3), power (1)
+> **Frameworks & Libraries:** [[Spring Framework]] (3)
 > **Speakers:** - [frank] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/what-you-should-know?u=76281980&t=0)** - [Instructor] Before we kick off our learning of the Spring framework in depth, there are a few key things you need to know, and have set up on your machine.
+> **[0:00](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/what-you-should-know?u=76281980&t=0)** - [Instructor] Before we kick off our learning of the [[Spring Framework]] in depth, there are a few key things you need to know, and have set up on your machine.
 >
-> **[0:10](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/what-you-should-know?u=76281980&t=10)** The Spring framework itself is written in Java, and was designed for the JVM.
+> **[0:10](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/what-you-should-know?u=76281980&t=10)** The Spring framework itself is written in [[Java]], and was designed for the JVM.
 >
 > **[0:16](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/what-you-should-know?u=76281980&t=16)** We will be using Java as our development language for this course.
 >
@@ -152,7 +150,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/what-you-should-know?u=76281980&t=94)** The key here is to understand, and use the IDE that is most comfortable to you in order to develop in Java.
 >
-> **[1:45](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/what-you-should-know?u=76281980&t=105)** We will also be using Maven for dependency management, but we won't really focus on it at all.
+> **[1:45](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/what-you-should-know?u=76281980&t=105)** We will also be using Maven for [[Dependency Management]], but we won't really focus on it at all.
 >
 > **[1:52](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/what-you-should-know?u=76281980&t=112)** Just ensure you either have Maven installed on your machine or know how to use the embedded wrappers to mimic what I will be doing.
 >
@@ -166,13 +164,13 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/what-you-should-know?u=76281980&t=146)** You don't need to be an expert, but some understanding of the framework, and its utilization will help you grasp the deeper concepts of how the framework itself operates.
 >
-> **[2:40](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/what-you-should-know?u=76281980&t=160)** I have a course on LinkedIn Learning called Learning Spring with Spring Boot 3.
+> **[2:40](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/what-you-should-know?u=76281980&t=160)** I have a course on [[LinkedIn]] Learning called Learning Spring with [[Spring Boot]] 3.
 >
 > **[2:45](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/what-you-should-know?u=76281980&t=165)** That should give you a good jumpstart.
 >
 > **[2:49](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/what-you-should-know?u=76281980&t=169)** As previously mentioned, you should know Java.
 >
-> **[2:53](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/what-you-should-know?u=76281980&t=173)** Now, Spring can be used with other JVM languages like Kotlin for instance, but we are going to use Java in this course.
+> **[2:53](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/what-you-should-know?u=76281980&t=173)** Now, Spring can be used with other JVM languages like [[Kotlin]] for instance, but we are going to use Java in this course.
 >
 > **[3:02](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/what-you-should-know?u=76281980&t=182)** If you need a refresher on that, there are several good courses in the LinkedIn Learning Library on learning Java.
 >
@@ -188,7 +186,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (10), [[LinkedIn]] (3), [[Spring Framework]] (2), [[Dependency Management]] (2), [[Programming]] (2)
+> **Frameworks & Libraries:** [[Java]] (10), [[LinkedIn]] (3), [[Spring Framework]] (2), [[Dependency Management]] (2), [[Spring Boot]] (1)
 > **Env Vars:** jdk (4), ide (4), jvm (2), jre (1), aop (1)
 > **Prerequisites:** set up (1), you need to have (1), you'll need (1), install (1), prerequisite (1)
 > **CLI Commands:** make (1), apache (1)
@@ -202,12 +200,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to Spring
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/introduction-to-spring?u=76281980)
+#### [Introduction to Spring](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/introduction-to-spring?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/introduction-to-spring?u=76281980&t=0)** - [Instructor] As we dig into the Spring Framework in depth, it is important to level set on exactly what Spring is and why it has become the most popular framework for the JDK.
+> **[0:00](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/introduction-to-spring?u=76281980&t=0)** - [Instructor] As we dig into the [[Spring Framework]] in depth, it is important to level set on exactly what Spring is and why it has become the most popular framework for the JDK.
 >
 > **[0:12](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/introduction-to-spring?u=76281980&t=12)** Spring is a framework that provides the plumbing for an application, so you as the developer can focus on business processes or user needs instead of the underlying needs of the application.
 >
@@ -225,7 +222,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/introduction-to-spring?u=76281980&t=61)** However, Spring is fully capable of supporting internet-focused applications.
 >
-> **[1:07](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/introduction-to-spring?u=76281980&t=67)** With the advent of microservices architectures where Java is the language of choice, Spring really shines with Spring Boot and embedded application servers.
+> **[1:07](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/introduction-to-spring?u=76281980&t=67)** With the advent of [[Microservices]] architectures where [[Java]] is the language of choice, Spring really shines with [[Spring Boot]] and embedded application servers.
 >
 > **[1:19](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/introduction-to-spring?u=76281980&t=79)** Spring is really lightweight.
 >
@@ -259,7 +256,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/introduction-to-spring?u=76281980&t=208)** I have mentioned business logic a lot already and it is a key win for Spring.
 >
-> **[3:34](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/introduction-to-spring?u=76281980&t=214)** Think of how complex and repetitive it is to set up a JDBC connection, build a query, and execute it, and then read the results into an object all while shutting down the results set and the connection.
+> **[3:34](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/introduction-to-spring?u=76281980&t=214)** Think of how complex and repetitive it is to set up a [[Java Database Connectivity (JDBC)|JDBC]] connection, build a query, and execute it, and then read the results into an object all while shutting down the results set and the connection.
 >
 > **[3:50](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/introduction-to-spring?u=76281980&t=230)** Now repeat that for every database query in your application.
 >
@@ -273,13 +270,13 @@ created: 2026-05-02
 >
 > **[4:14](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/introduction-to-spring?u=76281980&t=254)** And ultimately that is really what you care about.
 >
-> **[4:19](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/introduction-to-spring?u=76281980&t=259)** Another big benefit of Spring is the dependency injection aspect of the framework.
+> **[4:19](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/introduction-to-spring?u=76281980&t=259)** Another big benefit of Spring is the [[Dependency Injection]] aspect of the framework.
 >
 > **[4:25](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/introduction-to-spring?u=76281980&t=265)** Spring manages all of your runtime dependencies by allowing the framework to maintain these objects, you don't have to deal with the creation and maintenance of these objects.
 >
 > **[4:36](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/introduction-to-spring?u=76281980&t=276)** This greatly decreases the complexity of your code, which of course improves your maintainability.
 >
-> **[4:44](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/introduction-to-spring?u=76281980&t=284)** It also helps you avoid some of the most common issues around memory management that can creep into Java-based applications even with its automatic garbage collection.
+> **[4:44](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/introduction-to-spring?u=76281980&t=284)** It also helps you avoid some of the most common issues around [[Memory Management]] that can creep into Java-based applications even with its automatic garbage collection.
 >
 > **[4:56](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/introduction-to-spring?u=76281980&t=296)** With Spring, you create these objects once.
 >
@@ -293,7 +290,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (10), business (4), [[Java]] (3), [[Spring Boot]] (3), [[Dependency Injection]] (2)
+> **Frameworks & Libraries:** [[Java]] (3), [[Spring Boot]] (3), [[Dependency Injection]] (2), [[Spring Framework]] (1), [[Microservices]] (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Env Vars:** jdk (1), war (1), jms (1), jdbc (1)
 > **CLI Commands:** make (1)
@@ -301,14 +298,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### The inversion of control (IoC) container
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-inversion-of-control-ioc-container?u=76281980)
+#### [The inversion of control (IoC) container](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-inversion-of-control-ioc-container?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-inversion-of-control-ioc-container?u=76281980&t=0)** - [Instructor] The inversion of control pattern is fundamental to the operation of the Spring framework.
+> **[0:00](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-inversion-of-control-ioc-container?u=76281980&t=0)** - [Instructor] The inversion of control pattern is fundamental to the operation of the [[Spring Framework]].
 >
-> **[0:05](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-inversion-of-control-ioc-container?u=76281980&t=5)** It is critical for users of the framework to understand not only the benefits of inversion control, and dependency injection in general, but also to understand the consequences of using this pattern.
+> **[0:05](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-inversion-of-control-ioc-container?u=76281980&t=5)** It is critical for users of the framework to understand not only the benefits of inversion control, and [[Dependency Injection]] in general, but also to understand the consequences of using this pattern.
 >
 > **[0:20](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-inversion-of-control-ioc-container?u=76281980&t=20)** Inversion of control adds a new dimension to how you write your code.
 >
@@ -328,7 +324,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-inversion-of-control-ioc-container?u=76281980&t=80)** If however, your class can treat the dependency as optional or can accept multiple, but variable concrete implementations of the dependency, then and only then can it be injected via setter injection.
 >
-> **[1:36](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-inversion-of-control-ioc-container?u=76281980&t=96)** So let's take a look at a traditional dependency management graph so we can visualize the difference, especially with some kind of complexity.
+> **[1:36](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-inversion-of-control-ioc-container?u=76281980&t=96)** So let's take a look at a traditional [[Dependency Management]] graph so we can visualize the difference, especially with some kind of complexity.
 >
 > **[1:45](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-inversion-of-control-ioc-container?u=76281980&t=105)** So we're going to start our example with a class called Main.
 >
@@ -346,7 +342,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-inversion-of-control-ioc-container?u=76281980&t=136)** So now we're four layers deep of object construction just to create a single class.
 >
-> **[2:23](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-inversion-of-control-ioc-container?u=76281980&t=143)** This level of complexity exists in many Java programs.
+> **[2:23](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-inversion-of-control-ioc-container?u=76281980&t=143)** This level of complexity exists in many [[Java]] programs.
 >
 > **[2:27](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-inversion-of-control-ioc-container?u=76281980&t=147)** In fact, it exists in many object-oriented languages in general.
 >
@@ -406,7 +402,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Dependency Injection]] (3), business (2), [[Spring Framework]] (1), [[Dependency Management]] (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Dependency Injection]] (3), [[Spring Framework]] (1), [[Dependency Management]] (1), [[Java]] (1)
 > **Env Vars:** ioc (8), api (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -418,12 +414,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to the ApplicationContext
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/introduction-to-the-applicationcontext?u=76281980)
+#### [Introduction to the ApplicationContext](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/introduction-to-the-applicationcontext?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/introduction-to-the-applicationcontext?u=76281980&t=0)** - [Instructor] The Application Context and more specifically, the BeanFactory is one of the most important components of the Spring Framework.
+> **[0:00](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/introduction-to-the-applicationcontext?u=76281980&t=0)** - [Instructor] The Application Context and more specifically, the BeanFactory is one of the most important components of the [[Spring Framework]].
 >
 > **[0:08](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/introduction-to-the-applicationcontext?u=76281980&t=8)** As we dig in deeper to the Framework as a whole, we need to fully understand the application context and the role it plays during runtime of our applications.
 >
@@ -443,7 +438,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/introduction-to-the-applicationcontext?u=76281980&t=61)** The application context encapsulates it to provide a user access to the BeanFactory under very controlled situations.
 >
-> **[1:10](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/introduction-to-the-applicationcontext?u=76281980&t=70)** As such, it provides metadata for bean creation.
+> **[1:10](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/introduction-to-the-applicationcontext?u=76281980&t=70)** As such, it provides [[Metadata]] for bean creation.
 >
 > **[1:15](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/introduction-to-the-applicationcontext?u=76281980&t=75)** We will talk a lot about bean configuration, but no matter the mechanism that you use to configure your beans, the application context serves to take that configuration and to allow the framework to use it to build the IoC container itself.
 >
@@ -491,7 +486,7 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/introduction-to-the-applicationcontext?u=76281980&t=239)** The parent context can interact with the child context, but the other is not usually possible.
 >
-> **[4:07](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/introduction-to-the-applicationcontext?u=76281980&t=247)** This makes sense if you think about OOP in general because there is always a parent context and the rest are children, much like a dependency graph for your business objects.
+> **[4:07](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/introduction-to-the-applicationcontext?u=76281980&t=247)** This makes sense if you think about OOP in general because there is always a parent context and the [[Representational State Transfer (REST)|rest]] are children, much like a dependency graph for your business objects.
 >
 > **[4:17](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/introduction-to-the-applicationcontext?u=76281980&t=257)** We aren't going to go into too much depth here on multiple application contexts, however.
 >
@@ -499,7 +494,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (19), [[Spring Framework]] (3), [[Metadata]] (1), web (1), oop (1)
+> **Frameworks & Libraries:** [[Spring Framework]] (3), [[Metadata]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is an  (1), means that (1)
 > **Env Vars:** oop (1)
 > **Cross-References:** as we saw (1)
@@ -507,8 +502,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuration of Spring with Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/configuration-of-spring-with-java?u=76281980)
+#### [Configuration of Spring with Java](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/configuration-of-spring-with-java?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -522,7 +516,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/configuration-of-spring-with-java?u=76281980&t=34)** First off, it provides natural language syntax.
 >
-> **[0:37](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/configuration-of-spring-with-java?u=76281980&t=37)** There is no other language schema or structure to consider, you just use Java.
+> **[0:37](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/configuration-of-spring-with-java?u=76281980&t=37)** There is no other language schema or structure to consider, you just use [[Java]].
 >
 > **[0:43](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/configuration-of-spring-with-java?u=76281980&t=43)** It also provides compile time checking of object creation and syntax because it's the native language.
 >
@@ -548,7 +542,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/configuration-of-spring-with-java?u=76281980&t=140)** We're then going to add a dependency section and the first dependency that we are going to add is Spring core.
 >
-> **[2:27](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/configuration-of-spring-with-java?u=76281980&t=147)** Now Spring core comes from org.Spring framework and we will simply pass in Spring.version.
+> **[2:27](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/configuration-of-spring-with-java?u=76281980&t=147)** Now Spring core comes from org.[[Spring Framework]] and we will simply pass in Spring.version.
 >
 > **[2:37](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/configuration-of-spring-with-java?u=76281980&t=157)** Now we're going to add another dependency and that is going to be Spring.context once again from org.Spring framework.
 >
@@ -616,7 +610,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (11), [[Java]] (4), [[Spring Framework]] (2), power (1)
+> **Frameworks & Libraries:** [[Java]] (4), [[Spring Framework]] (2)
 > **Env Vars:** ide (3), xml (2)
 > **Definitions:** is an  (2)
 > **Analogies:** imagine (2)
@@ -625,8 +619,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Prerequisites:** configure (1)
 
-#### Work with the environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/work-with-the-environment?u=76281980)
+#### [Work with the environment](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/work-with-the-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -726,15 +719,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (11), data (5), cloud (1), next (1)
 > **UI Navigation:** go to (3)
 > **Env Vars:** ide (1), app_name (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Profiles
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/profiles?u=76281980)
+#### [Profiles](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/profiles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -802,15 +793,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2)
 > **File Paths:** application.config (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Spring Expression Language
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/spring-expression-language?u=76281980)
+#### [Spring Expression Language](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/spring-expression-language?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -868,17 +857,16 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/spring-expression-language?u=76281980&t=176)** Of course, it doesn't have to be a boolean, you could get a string, you could get a number.
 >
-> **[3:00](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/spring-expression-language?u=76281980&t=180)** Anything you can do in Java, you can do in Spring Expression Language, for the most part, and it gives you just another layer of flexibility when configuring your application context.
+> **[3:00](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/spring-expression-language?u=76281980&t=180)** Anything you can do in [[Java]], you can do in Spring Expression Language, for the most part, and it gives you just another layer of flexibility when configuring your application context.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (1), [[Java]] (1), application (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Bean scopes
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/bean-scopes?u=76281980)
+#### [Bean scopes](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/bean-scopes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -914,7 +902,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/bean-scopes?u=76281980&t=99)** This means that once the instance is no longer needed or referenced, it becomes available for garbage collection.
 >
-> **[1:46](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/bean-scopes?u=76281980&t=106)** A definition of the prototype or it's metadata is stored in the IoC container.
+> **[1:46](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/bean-scopes?u=76281980&t=106)** A definition of the prototype or it's [[Metadata]] is stored in the IoC container.
 >
 > **[1:52](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/bean-scopes?u=76281980&t=112)** When an instance is needed, it is created based on the definition within the IoC and Spring hands the instance over and then releases the handle.
 >
@@ -944,7 +932,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), data (3), web (2), career (1), next (1)
+> **Frameworks & Libraries:** [[Metadata]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **Warnings:** be aware (1), be careful (1), keep in mind (1)
 > **Analogies:** similar to (2)
@@ -952,8 +940,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Proxies
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/proxies?u=76281980)
+#### [Proxies](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/proxies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -985,7 +972,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/proxies?u=76281980&t=88)** One way that I have experienced this was in transactional rollbacks.
 >
-> **[1:33](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/proxies?u=76281980&t=93)** When I've written some JDBC template code using transactions, internal calls burnt me because the rollback on exception wasn't handled because it wasn't part of the proxy, yet the transactional behavior was within the proxy.
+> **[1:33](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/proxies?u=76281980&t=93)** When I've written some [[Java Database Connectivity (JDBC)|JDBC]] template code using transactions, internal calls burnt me because the rollback on exception wasn't handled because it wasn't part of the proxy, yet the transactional behavior was within the proxy.
 >
 > **[1:50](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/proxies?u=76281980&t=110)** So keep this in mind if you are making calls from a method in a class to another method in a class that you have to be very careful that the proxy behavior you expect most likely isn't going to be there.
 
@@ -1003,12 +990,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The component scan
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-component-scan?u=76281980)
+#### [The component scan](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-component-scan?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-component-scan?u=76281980&t=0)** - [Instructor] If you've ever used Spring Boot, the auto configuration is partially achieved through component scanning mixed with conditional configurations.
+> **[0:00](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-component-scan?u=76281980&t=0)** - [Instructor] If you've ever used [[Spring Boot]], the auto configuration is partially achieved through component scanning mixed with conditional configurations.
 >
 > **[0:08](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-component-scan?u=76281980&t=8)** In fact, for many classes, external configuration isn't needed as component scanning can solve the configuration for you.
 >
@@ -1026,7 +1012,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-component-scan?u=76281980&t=61)** It uses other annotations to direct the IOC container to build the dependency graph.
 >
-> **[1:08](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-component-scan?u=76281980&t=68)** Dependency Injection is achieved as mentioned through component scanning.
+> **[1:08](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-component-scan?u=76281980&t=68)** [[Dependency Injection]] is achieved as mentioned through component scanning.
 >
 > **[1:13](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-component-scan?u=76281980&t=73)** It is achieved mainly through the annotation, autowired.
 >
@@ -1052,7 +1038,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-component-scan?u=76281980&t=153)** To start the component scanning engine, you need to prime the pump, so to speak.
 >
-> **[2:38](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-component-scan?u=76281980&t=158)** You will need some form of Java or XML configuration to start component scanning on your own.
+> **[2:38](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-component-scan?u=76281980&t=158)** You will need some form of [[Java]] or XML configuration to start component scanning on your own.
 >
 > **[2:45](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-component-scan?u=76281980&t=165)** If you are using Spring Boot, you are getting auto configuration through this method by a special annotation.
 >
@@ -1062,19 +1048,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Boot]] (2), [[Dependency Injection]] (1), application (1), [[Java]] (1), next (1)
+> **Frameworks & Libraries:** [[Spring Boot]] (2), [[Dependency Injection]] (1), [[Java]] (1)
 > **Env Vars:** ioc (3), xml (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** in the next (1)
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implementing component scanning
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/implementing-component-scanning?u=76281980)
+#### [Implementing component scanning](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/implementing-component-scanning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/implementing-component-scanning?u=76281980&t=0)** - [Instructor] So now that we've spent some initial time learning about component scanning, let's put it into practice in our application, and replace our Java config with component scanning.
+> **[0:00](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/implementing-component-scanning?u=76281980&t=0)** - [Instructor] So now that we've spent some initial time learning about component scanning, let's put it into practice in our application, and replace our [[Java]] config with component scanning.
 >
 > **[0:11](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/implementing-component-scanning?u=76281980&t=11)** All right, the first thing that I want you to do is open up source main Java, the service package, and let's start with the greeting service class.
 >
@@ -1142,19 +1127,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[Java]] (3)
+> **Frameworks & Libraries:** [[Java]] (3)
 > **UI Navigation:** go to (5)
 > **Env Vars:** lil (1), fid (1), ioc (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Lifecycle methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/lifecycle-methods?u=76281980)
+#### [Lifecycle methods](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/lifecycle-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/lifecycle-methods?u=76281980&t=0)** - [Instructor] Sometimes you have behavior that you need to perform within a class that requires the dependency injection to be completed, but this behavior needs to be done before the application is ready to use or right before it's destroyed.
+> **[0:00](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/lifecycle-methods?u=76281980&t=0)** - [Instructor] Sometimes you have behavior that you need to perform within a class that requires the [[Dependency Injection]] to be completed, but this behavior needs to be done before the application is ready to use or right before it's destroyed.
 >
 > **[0:15](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/lifecycle-methods?u=76281980&t=15)** Enter into the picture lifecycle methods/ While Spring is starting up, and the next chapter is going to be entirely focused on this behavior, the system is actually not usable, and at the same time occurring during shutdown.
 >
@@ -1218,7 +1202,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), data (2), database (2), [[Dependency Injection]] (1), next (1)
+> **Frameworks & Libraries:** [[Dependency Injection]] (1)
 > **Definitions:** is a  (2), means that (1), is an  (1), is called (1)
 > **Env Vars:** ioc (2), jsr (1)
 > **CLI Commands:** make (1)
@@ -1232,12 +1216,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why the lifecycle is so important
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/why-the-lifecycle-is-so-important?u=76281980)
+#### [Why the lifecycle is so important](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/why-the-lifecycle-is-so-important?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/why-the-lifecycle-is-so-important?u=76281980&t=0)** - [Instructor] The lifecycle of the Spring application explains the various states your application goes through while being managed by the Spring framework.
+> **[0:00](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/why-the-lifecycle-is-so-important?u=76281980&t=0)** - [Instructor] The lifecycle of the Spring application explains the various states your application goes through while being managed by the [[Spring Framework]].
 >
 > **[0:09](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/why-the-lifecycle-is-so-important?u=76281980&t=9)** It is critical for Spring developers to fully understand this lifecycle.
 >
@@ -1273,7 +1256,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/why-the-lifecycle-is-so-important?u=76281980&t=141)** I have used my knowledge of Spring and proxies to design toolkits that allowed us to inject desired behavior, like encryption, audit logging, and various other crosscutting concerns, on applications I have been involved with because I understood the lifecycle.
 >
-> **[2:41](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/why-the-lifecycle-is-so-important?u=76281980&t=161)** Spring is open-source software.
+> **[2:41](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/why-the-lifecycle-is-so-important?u=76281980&t=161)** Spring is [[Open-Source Software]].
 >
 > **[2:43](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/why-the-lifecycle-is-so-important?u=76281980&t=163)** And as such, it needs a community.
 >
@@ -1295,13 +1278,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), open-source (4), [[Debugging]] (2), [[Spring Framework]] (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Open-Source Software]] (2), [[Spring Framework]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### The overall picture
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-overall-picture?u=76281980)
+#### [The overall picture](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-overall-picture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1315,7 +1297,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-overall-picture?u=76281980&t=32)** The next phase is the use phase.
 >
-> **[0:34](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-overall-picture?u=76281980&t=34)** The largest majority of time is actually spent in this phase, but most of the interaction with the Spring framework here is behind the scenes.
+> **[0:34](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-overall-picture?u=76281980&t=34)** The largest majority of time is actually spent in this phase, but most of the interaction with the [[Spring Framework]] here is behind the scenes.
 >
 > **[0:44](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-overall-picture?u=76281980&t=44)** You may be using abstractions from Spring, but during the use phase, most of the work by the framework is through proxies applied during the initialization phase.
 >
@@ -1333,17 +1315,16 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-overall-picture?u=76281980&t=95)** The second is the bean initialization and instantiation phase where your bean objects are actually created and ultimately managed by the framework.
 >
-> **[1:47](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-overall-picture?u=76281980&t=107)** This is a high level overview of the initialization phase, and we will talk about each individual stage as we go through the rest of this chapter.
+> **[1:47](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-overall-picture?u=76281980&t=107)** This is a high level overview of the initialization phase, and we will talk about each individual stage as we go through the [[Representational State Transfer (REST)|rest]] of this chapter.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), next (1), [[Spring Framework]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Spring Framework]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Prerequisites:** initialization (7), setup (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### The init phase: Loading bean definitions
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-init-phase-loading-bean-definitions?u=76281980)
+#### [The init phase: Loading bean definitions](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-init-phase-loading-bean-definitions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1357,7 +1338,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-init-phase-loading-bean-definitions?u=76281980&t=26)** JavaConfig is the first that we will talk about.
 >
-> **[0:28](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-init-phase-loading-bean-definitions?u=76281980&t=28)** This is the most different of the loading of bean definitions because the objects are constructed as part of reading the definitions, so keep that in mind as we go through the rest of this chapter.
+> **[0:28](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-init-phase-loading-bean-definitions?u=76281980&t=28)** This is the most different of the loading of bean definitions because the objects are constructed as part of reading the definitions, so keep that in mind as we go through the [[Representational State Transfer (REST)|rest]] of this chapter.
 >
 > **[0:40](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-init-phase-loading-bean-definitions?u=76281980&t=40)** This configuration strategy impacts how many of these beans can be initialized.
 >
@@ -1367,7 +1348,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-init-phase-loading-bean-definitions?u=76281980&t=59)** The XML file or files are read to prime the bean definitions.
 >
-> **[1:04](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-init-phase-loading-bean-definitions?u=76281980&t=64)** The final way we will talk about, and we've already seen, is component scanning and ultimately auto-configuration is driven by Spring Boot.
+> **[1:04](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-init-phase-loading-bean-definitions?u=76281980&t=64)** The final way we will talk about, and we've already seen, is component scanning and ultimately auto-configuration is driven by [[Spring Boot]].
 >
 > **[1:14](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-init-phase-loading-bean-definitions?u=76281980&t=74)** This works very much the same way as XML config, except that there is not an XML definition.
 >
@@ -1399,7 +1380,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-init-phase-loading-bean-definitions?u=76281980&t=164)** Again, references, but they've all been loaded into the BeanFactory.
 >
-> **[2:50](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-init-phase-loading-bean-definitions?u=76281980&t=170)** Beans are just metadata.
+> **[2:50](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-init-phase-loading-bean-definitions?u=76281980&t=170)** Beans are just [[Metadata]].
 >
 > **[2:52](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-init-phase-loading-bean-definitions?u=76281980&t=172)** I can't say this enough because it is very important to remember.
 >
@@ -1415,13 +1396,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[Metadata]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Spring Boot]] (1), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Spring Boot]] (1)
 > **Env Vars:** xml (5)
 > **Prerequisites:** initialization (2)
 > **Speakers:** - [instructor] (1)
 
-#### Init: Bean factory post-processing
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/init-bean-factory-post-processing?u=76281980)
+#### [Init: Bean factory post-processing](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/init-bean-factory-post-processing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1439,7 +1419,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/init-bean-factory-post-processing?u=76281980&t=43)** The most common example that you may encounter, and we've actually already used it through an annotation, is the PropertySourcesPlaceholderConfigurer.
 >
-> **[0:53](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/init-bean-factory-post-processing?u=76281980&t=53)** During this portion, we load the properties into the context and then can apply them to the definitions of the beans, because at this point, those objects haven't been created, but we need to have that metadata in order to create the beans in a later step.
+> **[0:53](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/init-bean-factory-post-processing?u=76281980&t=53)** During this portion, we load the properties into the context and then can apply them to the definitions of the beans, because at this point, those objects haven't been created, but we need to have that [[Metadata]] in order to create the beans in a later step.
 >
 > **[1:12](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/init-bean-factory-post-processing?u=76281980&t=72)** So BeanFactoryPostProcessors have a very valid purpose.
 >
@@ -1459,7 +1439,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/init-bean-factory-post-processing?u=76281980&t=123)** But as I said, it's very common to use existing ones, things like registering scope or properties like we've previously seen.
 >
-> **[2:11](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/init-bean-factory-post-processing?u=76281980&t=131)** So let's talk a little bit about BeanFactoryPostProcessors if you are using Java config.
+> **[2:11](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/init-bean-factory-post-processing?u=76281980&t=131)** So let's talk a little bit about BeanFactoryPostProcessors if you are using [[Java]] config.
 >
 > **[2:17](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/init-bean-factory-post-processing?u=76281980&t=137)** If you do this and you want to have your own BeanFactoryPostProcessor, the bean definition itself must be static.
 >
@@ -1487,13 +1467,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (2), [[Metadata]] (1), data (1), next (1), [[Orchestration]] (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[Metadata]] (1)
 > **Env Vars:** jvm (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Init: Bean instantiation
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/init-bean-instantiation?u=76281980)
+#### [Init: Bean instantiation](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/init-bean-instantiation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1547,24 +1526,23 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/init-bean-instantiation?u=76281980&t=170)** That doesn't change.
 >
-> **[2:53](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/init-bean-instantiation?u=76281980&t=173)** Every object in the BeanFactory has now been constructed, but none of them are available for use yet by the Spring Framework.
+> **[2:53](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/init-bean-instantiation?u=76281980&t=173)** Every object in the BeanFactory has now been constructed, but none of them are available for use yet by the [[Spring Framework]].
 >
 > **[3:05](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/init-bean-instantiation?u=76281980&t=185)** Anything that you did during construction cannot rely on Spring, which is why we talked about those lifecycle methods because none of this, including the framework itself, are available for use by your application at this point in time.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[Spring Framework]] (1)
+> **Frameworks & Libraries:** [[Spring Framework]] (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** we talked about (1)
 > **Prerequisites:** initialization (1)
 > **Speakers:** - [instructor] (1)
 
-#### Init: Setters
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/init-setters?u=76281980)
+#### [Init: Setters](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/init-setters?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/init-setters?u=76281980&t=0)** - [Instructor] After objects are constructed, we can now call the setters on them, and this is what the Spring framework does next.
+> **[0:00](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/init-setters?u=76281980&t=0)** - [Instructor] After objects are constructed, we can now call the setters on them, and this is what the [[Spring Framework]] does next.
 >
 > **[0:08](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/init-setters?u=76281980&t=8)** So back to our overview of where we are.
 >
@@ -1600,13 +1578,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Framework]] (1), next (1)
+> **Frameworks & Libraries:** [[Spring Framework]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Prerequisites:** initialization (1)
 > **Speakers:** - [instructor] (1)
 
-#### Init: Bean post-processing
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/init-bean-post-processing?u=76281980)
+#### [Init: Bean post-processing](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/init-bean-post-processing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1668,15 +1645,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), generic (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** we talked about (1)
 > **Analogies:** imagine (1)
 > **Prerequisites:** initialization (1)
 > **Speakers:** - [instructor] (1)
 
-#### Init: Differences based on configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/init-differences-based-on-configuration?u=76281980)
+#### [Init: Differences based on configuration](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/init-differences-based-on-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1684,7 +1659,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/init-differences-based-on-configuration?u=76281980&t=14)** What we're specifically talking about in our overview is the instantiate bean and the setters being called.
 >
-> **[0:22](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/init-differences-based-on-configuration?u=76281980&t=22)** So, as we've talked about almost ad nauseum, Java Config has one of the biggest differences.
+> **[0:22](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/init-differences-based-on-configuration?u=76281980&t=22)** So, as we've talked about almost ad nauseum, [[Java]] Config has one of the biggest differences.
 >
 > **[0:28](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/init-differences-based-on-configuration?u=76281980&t=28)** The initialization and setters are merged because they call the method annotated with @Bean.
 >
@@ -1729,8 +1704,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### The use phase
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-use-phase?u=76281980)
+#### [The use phase](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-use-phase?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1776,13 +1750,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (14)
 > **Definitions:** is a  (2), is an  (1)
 > **Prerequisites:** initialization (2)
 > **Speakers:** - [instructor] (1)
 
-#### The destruction phase
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-destruction-phase?u=76281980)
+#### [The destruction phase](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-destruction-phase?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1824,7 +1796,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-destruction-phase?u=76281980&t=116)** Prototype beans are never impacted by an application context close because when a prototype or a session or a request bean is served to the application, Spring actually releases the handle at that point.
 >
-> **[2:13](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-destruction-phase?u=76281980&t=133)** Remember those beans, we only keep the metadata in the IOC.
+> **[2:13](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-destruction-phase?u=76281980&t=133)** Remember those beans, we only keep the [[Metadata]] in the IOC.
 >
 > **[2:18](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-destruction-phase?u=76281980&t=138)** We create them as we need them, and at that point, Spring releases them so they will be garbage collected like every other object that you create outside of Spring itself.
 >
@@ -1840,7 +1812,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (9), cloud (1), [[Metadata]] (1), data (1)
+> **Frameworks & Libraries:** [[Metadata]] (1)
 > **Definitions:** is called (3), is an  (2), is a  (2)
 > **Env Vars:** ioc (2)
 > **Speakers:** - [instructor] (1)
@@ -1850,8 +1822,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Aspecting in Spring
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/aspecting-in-spring?u=76281980)
+#### [Aspecting in Spring](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/aspecting-in-spring?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1959,15 +1930,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), [[Security]] (3), [[Programming]] (2), career (1), management (1)
 > **Definitions:** is a  (4), is called (1)
 > **Env Vars:** pii (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Define aspect-oriented programming (AOP) pointcuts
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/define-aspect-oriented-programming-aop-pointcuts?u=76281980)
+#### [Define aspect-oriented programming (AOP) pointcuts](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/define-aspect-oriented-programming-aop-pointcuts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2053,7 +2022,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), next (1)
 > **Definitions:** is an  (5)
 > **Env Vars:** slf4j (1), method (1), runtime (1)
 > **Code Identifiers:** log4j (1), executelogging (1)
@@ -2062,14 +2030,13 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implement AOP advice: Before
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/implement-aop-advice-before?u=76281980)
+#### [Implement AOP advice: Before](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/implement-aop-advice-before?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/implement-aop-advice-before?u=76281980&t=0)** - [Instructor] Now that we have a pointcut in our framework to execute against, let's create our before advice to execute before a join point.
 >
-> **[0:09](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/implement-aop-advice-before?u=76281980&t=9)** So the first thing I want you to do is go src/main/java in our aspect and open up the LoggingAspect.
+> **[0:09](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/implement-aop-advice-before?u=76281980&t=9)** So the first thing I want you to do is go src/main/[[Java]] in our aspect and open up the LoggingAspect.
 >
 > **[0:17](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/implement-aop-advice-before?u=76281980&t=17)** We need to create a private static final Logger, grab one from org.slf4j, we will call this LOGGER, we get it from the LoggerFactory and we will simply pass in our LoggingAspect.class.
 >
@@ -2117,7 +2084,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (1), application (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Code Identifiers:** joinpoint (2), executelogging (1), logmethodcall (1), getargs (1), aslist (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
@@ -2125,8 +2092,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implement AOP advice: After
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/implement-aop-advice-after?u=76281980)
+#### [Implement AOP advice: After](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/implement-aop-advice-after?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2180,13 +2146,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1)
 > **Code Identifiers:** returnvalue (4)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implement AOP advice: Around
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/implement-aop-advice-around?u=76281980)
+#### [Implement AOP advice: Around](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/implement-aop-advice-around?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2254,7 +2218,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/implement-aop-advice-around?u=76281980&t=219)** But we've now paused it because we told it to, but that time calculation still continues.
 >
-> **[3:44](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/implement-aop-advice-around?u=76281980&t=224)** So we've gone in, we've executed the method, we then go in, we execute the method, we come back, we pause, we do the rest of our logging, and then we return that value, which continues execution on the main thread.
+> **[3:44](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/implement-aop-advice-around?u=76281980&t=224)** So we've gone in, we've executed the method, we then go in, we execute the method, we come back, we pause, we do the [[Representational State Transfer (REST)|rest]] of our logging, and then we return that value, which continues execution on the main thread.
 >
 > **[3:58](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/implement-aop-advice-around?u=76281980&t=238)** This is how you do around.
 >
@@ -2267,8 +2231,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Building your own aspect
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/challenge-building-your-own-aspect?u=76281980)
+#### [Challenge: Building your own aspect](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/challenge-building-your-own-aspect?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2288,7 +2251,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/challenge-building-your-own-aspect?u=76281980&t=34)** So, each time a method is called, you will count it, you'll apply it wherever you want, you will report them by method name, and you apply the counter at the method level.
 >
-> **[0:45](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/challenge-building-your-own-aspect?u=76281980&t=45)** The rest is up to you.
+> **[0:45](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/challenge-building-your-own-aspect?u=76281980&t=45)** The [[Representational State Transfer (REST)|rest]] is up to you.
 >
 > **[0:48](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/challenge-building-your-own-aspect?u=76281980&t=48)** Have fun doing this.
 >
@@ -2301,8 +2264,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright electronic music) (1)
 
-#### Solution: Building your own aspect
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/solution-building-your-own-aspect?u=76281980)
+#### [Solution: Building your own aspect](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/solution-building-your-own-aspect?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2336,7 +2298,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), next (1)
 > **Code Identifiers:** countingmap (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -2347,8 +2308,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2374,7 +2334,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/next-steps?u=76281980&t=61)** Of course, certification would be a great option.
 >
-> **[1:04](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/next-steps?u=76281980&t=64)** This course along with my course, Learning Spring With Spring Boot 3 or Spring Essential Training, either of which mixed with this course will provide you all of the material that you need to be successful with a little bit of practice for the Spring certification exam.
+> **[1:04](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/next-steps?u=76281980&t=64)** This course along with my course, Learning Spring With [[Spring Boot]] 3 or Spring Essential Training, either of which mixed with this course will provide you all of the material that you need to be successful with a little bit of practice for the Spring certification exam.
 >
 > **[1:24](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/next-steps?u=76281980&t=84)** Obviously, we've touched on aspecting.
 >
@@ -2388,7 +2348,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/next-steps?u=76281980&t=113)** And continue learning.
 >
-> **[1:54](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/next-steps?u=76281980&t=114)** Even if you don't have professional examples of aspecting or lifecycle use cases, you can always use CodeKatas to create instances of these in your GitHub repo to practice these skills and get better at them.
+> **[1:54](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/next-steps?u=76281980&t=114)** Even if you don't have professional examples of aspecting or lifecycle use cases, you can always use CodeKatas to create instances of these in your [[GitHub]] repo to practice these skills and get better at them.
 >
 > **[2:09](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/next-steps?u=76281980&t=129)** I'd like to end this course like I end all my courses, by simply saying thank you.
 >
@@ -2400,7 +2360,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/next-steps?u=76281980&t=150)** I encourage you to follow me on Twitter, now X, GitHub, StackOverflow, where my handle on all of those is @fpmoles.
 >
-> **[2:39](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/next-steps?u=76281980&t=159)** If you have questions about this or any of my courses on LinkedIn Learning, leverage the question and answer section for that course.
+> **[2:39](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/next-steps?u=76281980&t=159)** If you have questions about this or any of my courses on [[LinkedIn]] Learning, leverage the question and answer section for that course.
 >
 > **[2:48](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/next-steps?u=76281980&t=168)** I respond to them all the time.
 >
@@ -2408,13 +2368,13 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/next-steps?u=76281980&t=173)** That being said, thank you for your time.
 >
-> **[2:55](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/next-steps?u=76281980&t=175)** I hope you have found Spring Framework In-Depth to be very valuable, and look forward to seeing you on the next course.
+> **[2:55](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/next-steps?u=76281980&t=175)** I hope you have found [[Spring Framework]] In-Depth to be very valuable, and look forward to seeing you on the next course.
 >
 > **[3:02](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/next-steps?u=76281980&t=182)** Continue learning because we should never stop learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[GitHub]] (2), [[Spring Boot]] (1), [[LinkedIn]] (1), [[Spring Framework]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (2), [[Spring Boot]] (1), [[LinkedIn]] (1), [[Spring Framework]] (1)
 > **Tools:** github (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** we discussed (1)

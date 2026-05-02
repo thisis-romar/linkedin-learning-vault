@@ -102,14 +102,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### PLC programming using a 3D factory simulation software
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/plc-programming-using-a-3d-factory-simulation-software-22833119?u=76281980)
+#### [PLC programming using a 3D factory simulation software](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/plc-programming-using-a-3d-factory-simulation-software-22833119?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/plc-programming-using-a-3d-factory-simulation-software-22833119?u=76281980&t=0)** - Wouldn't it be nice that even without having access to real devices, that you could practice PLC programming using factory setting?
+> **[0:00](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/plc-programming-using-a-3d-factory-simulation-software-22833119?u=76281980&t=0)** - Wouldn't it be nice that even without having access to real devices, that you could practice [[PLC Programming]] using factory setting?
 >
-> **[0:09](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/plc-programming-using-a-3d-factory-simulation-software-22833119?u=76281980&t=9)** Well, Factor IO is a 3D factory simulation software for learning automation technologies and it's a great tool to practice PLC programming.
+> **[0:09](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/plc-programming-using-a-3d-factory-simulation-software-22833119?u=76281980&t=9)** Well, Factor IO is a 3D factory [[Simulation Software]] for learning automation technologies and it's a great tool to practice PLC programming.
 >
 > **[0:19](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/plc-programming-using-a-3d-factory-simulation-software-22833119?u=76281980&t=19)** Using a simulator PLC, I will go through few projects like programming a control panel to control a conveyor belt programming filling a water tank with a timer and programming conveyor belt to separate boxes by height.
 >
@@ -121,13 +120,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (5), plc (3), [[Simulation Software]] (1), [[Automation]] (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[PLC Programming]] (2), [[Simulation Software]] (1)
 > **Env Vars:** plc (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - wouldn (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -137,18 +135,17 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/what-you-should-know?u=76281980&t=28)** And I will cover four projects during this course, like, programming a control panel, conveyor belts to separate boxes and filling a water tank.
 >
-> **[0:41](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/what-you-should-know?u=76281980&t=41)** I will cover everything needed for this course, but if you need a refresher on the basics, or, if you have zero experience with ladder logic programming, I recommend that you check out my course, Learning PLC Ladder Logic, that we have in the library to get you prepared for this course.
+> **[0:41](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/what-you-should-know?u=76281980&t=41)** I will cover everything needed for this course, but if you need a refresher on the basics, or, if you have zero experience with ladder logic programming, I recommend that you check out my course, Learning [[PLC Ladder Logic]], that we have in the library to get you prepared for this course.
 >
 > **[1:02](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/what-you-should-know?u=76281980&t=62)** And also, you can check out the Learning Path, Become a PLC Developer, where I have designed the courses to cover the concept from the basic to more advanced level.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (3), plc (2)
+> **Frameworks & Libraries:** [[PLC Ladder Logic]] (1)
 > **Env Vars:** plc (2)
 > **Speakers:** - before (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/using-the-exercise-files?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -176,7 +173,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/using-the-exercise-files?u=76281980&t=88)** And now you would go to where you saved the exercise files.
 >
-> **[1:33](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/using-the-exercise-files?u=76281980&t=93)** So for me, they are saved on my desktop in a folder named LinkedIn Learning.
+> **[1:33](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/using-the-exercise-files?u=76281980&t=93)** So for me, they are saved on my desktop in a folder named [[LinkedIn]] Learning.
 >
 > **[1:39](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/using-the-exercise-files?u=76281980&t=99)** Then I'm going to click on the exercise files, choosing the chapter that I want to open the file from.
 >
@@ -238,8 +235,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Connected Components Workbench software introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/connected-components-workbench-software-introduction?u=76281980)
+#### [Connected Components Workbench software introduction](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/connected-components-workbench-software-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -265,15 +261,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** plc (3), [[Automation]] (1), next (1)
 > **Env Vars:** plc (3)
 > **Cross-References:** next chapter (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Connected Components Workbench software download guide
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/connected-components-workbench-software-download-guide?u=76281980)
+#### [Connected Components Workbench software download guide](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/connected-components-workbench-software-download-guide?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -297,7 +291,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/connected-components-workbench-software-download-guide?u=76281980&t=69)** I'm going to go ahead and select the first option and click on Download.
 >
-> **[1:15](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/connected-components-workbench-software-download-guide?u=76281980&t=75)** Then here it's already selected, so I'm going to zoom out a little bit and then click Download Now.
+> **[1:15](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/connected-components-workbench-software-download-guide?u=76281980&t=75)** Then here it's already selected, so I'm going to [[Zoom]] out a little bit and then click Download Now.
 >
 > **[1:26](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/connected-components-workbench-software-download-guide?u=76281980&t=86)** Then here, obviously, click Accept and Download for the terms and conditions.
 >
@@ -319,7 +313,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (1), [[Zoom]] (1), application (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **UI Navigation:** click on (6), scroll down (2), select the (1)
 > **Cross-References:** go back to (1)
 > **Exercise Files:** download the (1)
@@ -328,8 +322,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### CCW software interface tour
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/ccw-software-interface-tour?u=76281980)
+#### [CCW software interface tour](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/ccw-software-interface-tour?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -427,7 +420,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** plc (16)
 > **Env Vars:** plc (16), pdf (1)
 > **UI Navigation:** click on (5), select the (4), go to (1)
 > **Analogies:** picture (2), for example (2), similar to (1)
@@ -436,8 +428,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### CCW Micro800 PLC simulator
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/ccw-micro800-plc-simulator?u=76281980)
+#### [CCW Micro800 PLC simulator](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/ccw-micro800-plc-simulator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -445,7 +436,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/ccw-micro800-plc-simulator?u=76281980&t=10)** Now, if you go to the software and click on "Controller" and then you click on "General" here, this is the full name Catalog ID of this specific PLC type.
 >
-> **[0:23](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/ccw-micro800-plc-simulator?u=76281980&t=23)** Now, the SIM at the end of the name is to indicate that this is a simulation.
+> **[0:23](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/ccw-micro800-plc-simulator?u=76281980&t=23)** Now, the SIM at the end of the name is to indicate that this is a [[Simulation]].
 >
 > **[0:30](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/ccw-micro800-plc-simulator?u=76281980&t=30)** When checking this manual for the same PLC Catalog ID name, then this simulator would be mimicking this specific PLC type.
 >
@@ -473,7 +464,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/ccw-micro800-plc-simulator?u=76281980&t=114)** So, the first one is actually for this address.
 >
-> **[1:59](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/ccw-micro800-plc-simulator?u=76281980&t=119)** The second one is for this one, and then the same for the rest.
+> **[1:59](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/ccw-micro800-plc-simulator?u=76281980&t=119)** The second one is for this one, and then the same for the [[Representational State Transfer (REST)|rest]].
 >
 > **[2:06](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/ccw-micro800-plc-simulator?u=76281980&t=126)** And then if I scroll down to the input addresses, then this address here is actually the address of the first input pin.
 >
@@ -497,15 +488,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** plc (11), [[Representational State Transfer (REST)|Rest]] (2), power (2), [[Simulation]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Simulation]] (1)
 > **Env Vars:** plc (11), sim (1), off (1)
 > **UI Navigation:** click on (5), go to (3), open the (1), scroll down (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
 
-#### Establishing the connection path for the PLC Simulator
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/establishing-the-connection-path-for-the-plc-simulator?u=76281980)
+#### [Establishing the connection path for the PLC Simulator](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/establishing-the-connection-path-for-the-plc-simulator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -585,7 +575,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** plc (18), power (1)
 > **Env Vars:** plc (18)
 > **UI Navigation:** click on (9), open the (1), go to (1)
 > **Analogies:** picture (2)
@@ -594,8 +583,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### CCW software demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/ccw-software-demo?u=76281980)
+#### [CCW software demo](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/ccw-software-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -705,7 +693,7 @@ created: 2026-05-02
 >
 > **[5:05](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/ccw-software-demo?u=76281980&t=305)** One thought I want to share before we proceed.
 >
-> **[5:09](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/ccw-software-demo?u=76281980&t=309)** The simulator PLC is a great tool to use it to learn and test your PLC programming skills.
+> **[5:09](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/ccw-software-demo?u=76281980&t=309)** The simulator PLC is a great tool to use it to learn and test your [[PLC Programming]] skills.
 >
 > **[5:17](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/ccw-software-demo?u=76281980&t=317)** However, remember that the simulator PLC can be similar to an actual PLC, but not the same.
 >
@@ -721,7 +709,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** plc (15), hit (2), power (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[PLC Programming]] (1)
 > **Env Vars:** plc (15), xic (1)
 > **UI Navigation:** click on (9), open the (2), go to (2), dropdown (1), scroll down (1)
 > **Definitions:** is a  (4), is an  (1), means that (1)
@@ -735,12 +723,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Factory I/O overview and download
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/factory-i-o-overview-and-download?u=76281980)
+#### [Factory I/O overview and download](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/factory-i-o-overview-and-download?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/factory-i-o-overview-and-download?u=76281980&t=0)** - Factory I/O is a 3D factory simulation for learning automation technologies.
+> **[0:00](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/factory-i-o-overview-and-download?u=76281980&t=0)** - Factory I/O is a 3D factory [[Simulation]] for learning automation technologies.
 >
 > **[0:06](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/factory-i-o-overview-and-download?u=76281980&t=6)** A very great tool as a PLC training platform to practice any of the automation and industrial applications.
 >
@@ -760,7 +747,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (2), plc (2), [[Simulation]] (1)
+> **Frameworks & Libraries:** [[Simulation]] (1)
 > **Env Vars:** plc (2)
 > **Prerequisites:** you'll need (1), install (1)
 > **UI Navigation:** click on (1)
@@ -768,8 +755,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - factory (1)
 
-#### Factory I/O software tour
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/factory-i-o-software-tour?u=76281980)
+#### [Factory I/O software tour](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/factory-i-o-software-tour?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -865,7 +851,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** plc (12), application (1), next (1), hit (1), data (1)
 > **Env Vars:** plc (12), bool (2)
 > **UI Navigation:** click on (6), dropdown (1)
 > **Analogies:** for example (6)
@@ -874,8 +859,7 @@ created: 2026-05-02
 > **Prerequisites:** getting started (1)
 > **Speakers:** - now (1)
 
-#### Connect Factory I/O software with CCW software
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/connect-factory-i-o-software-with-ccw-software?u=76281980)
+#### [Connect Factory I/O software with CCW software](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/connect-factory-i-o-software-with-ccw-software?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -957,7 +941,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** plc (13), next (2), power (2)
 > **Env Vars:** plc (13)
 > **UI Navigation:** click on (4), select the (1), dropdown (1), go to (1), open the (1)
 > **Cross-References:** go back to (4), previous chapter (1)
@@ -971,8 +954,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Control panel project
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/control-panel-project?u=76281980)
+#### [Control panel project](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/control-panel-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1020,14 +1002,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** plc (4), power (1)
 > **UI Navigation:** click on (4), dropdown (1), go to (1), scroll down (1)
 > **Env Vars:** plc (4)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ladder logic program in CCW software
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/ladder-logic-program-in-ccw-software?u=76281980)
+#### [Ladder logic program in CCW software](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/ladder-logic-program-in-ccw-software?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1109,7 +1089,7 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/ladder-logic-program-in-ccw-software?u=76281980&t=245)** And for this one, I'm going to select the start push button.
 >
-> **[4:10](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/ladder-logic-program-in-ccw-software?u=76281980&t=250)** For our simulation, we probably won't need this step as you cannot press two push buttons at the same time.
+> **[4:10](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/ladder-logic-program-in-ccw-software?u=76281980&t=250)** For our [[Simulation]], we probably won't need this step as you cannot press two push buttons at the same time.
 >
 > **[4:18](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/ladder-logic-program-in-ccw-software?u=76281980&t=258)** However, if this is a real setting, then you need to ensure that only one push button is pressed at a time.
 >
@@ -1137,14 +1117,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** plc (5), [[Programming]] (1), [[Simulation]] (1), next (1), power (1)
+> **Frameworks & Libraries:** [[Simulation]] (1)
 > **Env Vars:** led (6), plc (5), xic (3), xio (3)
 > **UI Navigation:** go to (4), select the (4), scroll down (3), click on (3), dropdown (2)
 > **Definitions:** is a  (4), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Project demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/project-demo-16978713?u=76281980)
+#### [Project demo](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/project-demo-16978713?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1188,7 +1167,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** plc (3)
 > **Env Vars:** led (4), plc (3)
 > **UI Navigation:** click on (4), go to (1), select the (1)
 > **Cross-References:** go back to (2)
@@ -1199,8 +1177,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Conveyor belt project
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/conveyor-belt-project?u=76281980)
+#### [Conveyor belt project](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/conveyor-belt-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1250,15 +1227,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** plc (2), next (1)
 > **CLI Commands:** find (2), make (2)
 > **Definitions:** is a  (3)
 > **Env Vars:** plc (2)
 > **Cross-References:** previous chapter (1)
 > **Speakers:** - [instructor] (1)
 
-#### Part 1: Programming
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/part-1-programming?u=76281980)
+#### [Part 1: Programming](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/part-1-programming?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1338,7 +1313,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), [[Programming]] (1), plc (1), next (1)
 > **Env Vars:** xic (6), led (2), xio (2), plc (1)
 > **UI Navigation:** scroll down (1), select the (1)
 > **CLI Commands:** find (1)
@@ -1346,8 +1320,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - for (1)
 
-#### Part 2: Programming
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/part-2-programming?u=76281980)
+#### [Part 2: Programming](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/part-2-programming?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1392,8 +1365,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Project demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/project-demo-16980134?u=76281980)
+#### [Project demo](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/project-demo-16980134?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1433,15 +1405,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** plc (5), power (1)
 > **UI Navigation:** click on (5), go to (1)
 > **Env Vars:** plc (5)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (2)
 > **Speakers:** - [narrator] (1)
 
-#### Optional: Retroreflective sensors overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/optional-retroreflective-sensors-overview?u=76281980)
+#### [Optional: Retroreflective sensors overview](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/optional-retroreflective-sensors-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1484,8 +1454,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Filling a water tank project
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/filling-a-water-tank-project?u=76281980)
+#### [Filling a water tank project](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/filling-a-water-tank-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1545,15 +1514,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** plc (4), [[Programming]] (4), next (1), power (1)
 > **Env Vars:** plc (4)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (2)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [narrator] (1)
 
-#### Step 1: Program fill and discharge pushbuttons
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/step-1-program-fill-and-discharge-pushbuttons?u=76281980)
+#### [Step 1: Program fill and discharge pushbuttons](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/step-1-program-fill-and-discharge-pushbuttons?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1623,15 +1590,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), next (1)
 > **UI Navigation:** go to (5), scroll down (2), dropdown (1), select the (1)
 > **Env Vars:** led (4), xio (2), xic (1)
 > **CLI Commands:** find (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Step 2: Adding timer (TON) in CCW software
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/step-2-adding-timer-ton-in-ccw-software?u=76281980)
+#### [Step 2: Adding timer (TON) in CCW software](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/step-2-adding-timer-ton-in-ccw-software?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1747,7 +1712,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), feature (1), hit (1)
 > **UI Navigation:** click on (4), select the (2)
 > **Env Vars:** xic (1), xio (1), ton (1)
 > **Definitions:** stands for (1), is a  (1), is an  (1)
@@ -1756,8 +1720,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Step 3, part 1: Showing time on display in Factory I/O
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/step-3-part-1-showing-time-on-display-in-factory-i-o?u=76281980)
+#### [Step 3, part 1: Showing time on display in Factory I/O](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/step-3-part-1-showing-time-on-display-in-factory-i-o?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1819,15 +1782,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), next (2)
 > **UI Navigation:** click on (2), go to (2), right-click (1), select the (1)
 > **Env Vars:** bcd (1), ton (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Project demo 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/project-demo-1?u=76281980)
+#### [Project demo 1](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/project-demo-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1867,15 +1828,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** plc (4), power (1)
 > **UI Navigation:** click on (5), go to (1), select the (1)
 > **Env Vars:** plc (4)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Step 3, part 2: Showing time on display in Factory I/O
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/step-3-part-2-showing-time-on-display-in-factory-i-o?u=76281980)
+#### [Step 3, part 2: Showing time on display in Factory I/O](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/step-3-part-2-showing-time-on-display-in-factory-i-o?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1987,7 +1946,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), plc (4), [[Programming]] (3), hit (2), power (1)
 > **UI Navigation:** go to (6), click on (3), scroll down (2), select the (2), open the (1)
 > **Env Vars:** plc (4), xio (4), mov (1), any_to_lreal (1), xic (1)
 > **Versions:** 0.001 (4)
@@ -1995,9 +1953,9 @@ created: 2026-05-02
 > **Definitions:** is a  (2), is an  (1)
 > **Exercise Files:** download the (1)
 > **Best Practices:** good practice (1)
+> **Speakers:** - [instructor] (1)
 
-#### Final project demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/final-project-demo?u=76281980)
+#### [Final project demo](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/final-project-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2031,7 +1989,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** plc (5), power (1)
 > **UI Navigation:** click on (5), go to (1)
 > **Env Vars:** plc (5)
 > **CLI Commands:** make (2)
@@ -2043,8 +2000,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Sorting boxes by height project
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/sorting-boxes-by-height-project?u=76281980)
+#### [Sorting boxes by height project](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/sorting-boxes-by-height-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2088,15 +2044,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** plc (2), [[Programming]] (2), [[Search]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** plc (2)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding the Factory I/O scene, part 1: Entry conveyor and light array
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/understanding-the-factory-i-o-scene-part-1-entry-conveyor-and-light-array?u=76281980)
+#### [Understanding the Factory I/O scene, part 1: Entry conveyor and light array](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/understanding-the-factory-i-o-scene-part-1-entry-conveyor-and-light-array?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2162,15 +2116,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (1), hit (1)
 > **UI Navigation:** click on (5), select the (2)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (1)
 > **Warnings:** note that (1)
 > **Speakers:** - this (1)
 
-#### Understanding the Factory I/O scene, part 2: Chain transfer
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/understanding-the-factory-i-o-scene-part-2-chain-transfer?u=76281980)
+#### [Understanding the Factory I/O scene, part 2: Chain transfer](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/understanding-the-factory-i-o-scene-part-2-chain-transfer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2220,14 +2172,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1)
 > **UI Navigation:** go to (1), click on (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding the Factory I/O scene, part 3: Right and left conveyors
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/understanding-the-factory-i-o-scene-part-3-right-and-left-conveyors?u=76281980)
+#### [Understanding the Factory I/O scene, part 3: Right and left conveyors](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/understanding-the-factory-i-o-scene-part-3-right-and-left-conveyors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2257,8 +2207,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Step 1: Program Start button to start the entry conveyor
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/step-1-program-start-button-to-start-the-entry-conveyor?u=76281980)
+#### [Step 1: Program Start button to start the entry conveyor](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/step-1-program-start-button-to-start-the-entry-conveyor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2378,15 +2327,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (7), next (2)
 > **Env Vars:** xic (7), xio (2)
 > **UI Navigation:** go to (5), scroll down (3), click on (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
 
-#### Step 2: Program moving into the chain transfer
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/step-2-program-moving-into-the-chain-transfer?u=76281980)
+#### [Step 2: Program moving into the chain transfer](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/step-2-program-moving-into-the-chain-transfer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2426,14 +2373,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1)
 > **Env Vars:** xic (1), xio (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - the (1)
 
-#### Step 3: Program sorting the small boxes
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/step-3-program-sorting-the-small-boxes?u=76281980)
+#### [Step 3: Program sorting the small boxes](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/step-3-program-sorting-the-small-boxes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2553,7 +2498,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), [[Programming]] (1)
 > **Env Vars:** xic (7), xio (4)
 > **UI Navigation:** go to (7), select the (1)
 > **Definitions:** is a  (6)
@@ -2562,8 +2506,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Step 4: Program sorting the large boxes
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/step-4-program-sorting-the-large-boxes?u=76281980)
+#### [Step 4: Program sorting the large boxes](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/step-4-program-sorting-the-large-boxes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2589,7 +2532,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/step-4-program-sorting-the-large-boxes?u=76281980&t=85)** So this instruction means that the large box bit is on until the box is transferred to the right.
 >
-> **[1:36](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/step-4-program-sorting-the-large-boxes?u=76281980&t=96)** Now the rest has a similar operation to what we had for the small box.
+> **[1:36](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/step-4-program-sorting-the-large-boxes?u=76281980&t=96)** Now the [[Representational State Transfer (REST)|rest]] has a similar operation to what we had for the small box.
 >
 > **[1:42](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/step-4-program-sorting-the-large-boxes?u=76281980&t=102)** Once there is a box on the chain transfer and it is a large box then transfer right.
 >
@@ -2618,8 +2561,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Project demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/project-demo?u=76281980)
+#### [Project demo](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/project-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2665,7 +2607,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** plc (3), power (1)
 > **UI Navigation:** click on (6), go to (2)
 > **Env Vars:** plc (3)
 > **Cross-References:** go back to (2)
@@ -2678,8 +2619,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Troubleshooting tips
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/troubleshooting-tips?u=76281980)
+#### [Troubleshooting tips](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/troubleshooting-tips?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2711,7 +2651,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/troubleshooting-tips?u=76281980&t=151)** So always make sure to drag the right sensor into the right address.
 >
-> **[2:38](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/troubleshooting-tips?u=76281980&t=158)** If your simulation within Factory I/O scene is delayed, or it behaves differently than expected, then you can adjust the time scale from here.
+> **[2:38](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/troubleshooting-tips?u=76281980&t=158)** If your [[Simulation]] within Factory I/O scene is delayed, or it behaves differently than expected, then you can adjust the time scale from here.
 >
 > **[2:50](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/troubleshooting-tips?u=76281980&t=170)** You can select slow motion, neutral or fast mode.
 >
@@ -2727,7 +2667,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** plc (6), power (3), [[Troubleshooting]] (2), [[Simulation]] (1)
+> **Frameworks & Libraries:** [[Simulation]] (1)
 > **Env Vars:** plc (6), iter (1)
 > **UI Navigation:** click on (3), go to (1), open the (1)
 > **CLI Commands:** make (2)
@@ -2741,8 +2681,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2752,7 +2691,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/next-steps?u=76281980&t=6)** In this course, I used a simulator PLC to work on industrial application scenarios with Factory I/O software using ladder logic programming.
 >
-> **[0:20](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/next-steps?u=76281980&t=20)** If you'd like to learn more about PLC ladder logic programming, I recommend checking out the Learning Path, Become a PLC Developer, where I have designed the courses to cover the concept from the basic to more advanced level.
+> **[0:20](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/next-steps?u=76281980&t=20)** If you'd like to learn more about [[PLC Ladder Logic]] programming, I recommend checking out the Learning Path, Become a PLC Developer, where I have designed the courses to cover the concept from the basic to more advanced level.
 >
 > **[0:39](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/next-steps?u=76281980&t=39)** You can also check these courses, PLC Industrial Sensors, that gives you an overview of different industrial sensors.
 >
@@ -2766,7 +2705,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** plc (5), [[Automation]] (3), [[Programming]] (2), application (1), next (1)
+> **Frameworks & Libraries:** [[PLC Ladder Logic]] (1)
 > **Env Vars:** plc (5)
 > **Speakers:** - thanks (1)
 

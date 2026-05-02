@@ -74,8 +74,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing the scenario
-> [LinkedIn Learning](https://www.linkedin.com/learning/migrating-to-azure/introducing-the-scenario?u=76281980)
+#### [Introducing the scenario](https://www.linkedin.com/learning/migrating-to-azure/introducing-the-scenario?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -91,7 +90,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/migrating-to-azure/introducing-the-scenario?u=76281980&t=21)** To support their business H + rely on several different line of business applications that they host themselves on premise.
 >
-> **[0:29](https://www.linkedin.com/learning/migrating-to-azure/introducing-the-scenario?u=76281980&t=29)** Now I wouldn't call this a data center as such, but they do have a rack of servers in their main office that hosts things such as their accounting system, Dynamics CRM, Microsoft Exchange, and some production management software that's essential to the day-to-day operations of their business.
+> **[0:29](https://www.linkedin.com/learning/migrating-to-azure/introducing-the-scenario?u=76281980&t=29)** Now I wouldn't call this a data center as such, but they do have a rack of servers in their main [[Microsoft Office|office]] that hosts things such as their accounting system, Dynamics CRM, [[Microsoft]] Exchange, and some production management software that's essential to the day-to-day operations of their business.
 >
 > **[0:45](https://www.linkedin.com/learning/migrating-to-azure/introducing-the-scenario?u=76281980&t=45)** In addition to this, they also have a website that's hosted for them by a third party hosting provider.
 >
@@ -105,7 +104,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/migrating-to-azure/introducing-the-scenario?u=76281980&t=68)** Many of the servers are several years old, and the cost of maintaining them is starting to mount up.
 >
-> **[1:13](https://www.linkedin.com/learning/migrating-to-azure/introducing-the-scenario?u=76281980&t=73)** And it's not just the hardware that needs maintaining, the software too need regular updates and daily management.
+> **[1:13](https://www.linkedin.com/learning/migrating-to-azure/introducing-the-scenario?u=76281980&t=73)** And it's not just the [[Hardware]] that needs maintaining, the software too need regular updates and daily management.
 >
 > **[1:20](https://www.linkedin.com/learning/migrating-to-azure/introducing-the-scenario?u=76281980&t=80)** And while George tries his best, he's struggling to keep on top of it.
 >
@@ -157,7 +156,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/migrating-to-azure/introducing-the-scenario?u=76281980&t=177)** But there is another option.
 >
-> **[2:59](https://www.linkedin.com/learning/migrating-to-azure/introducing-the-scenario?u=76281980&t=179)** Instead of hosting all their software and services themselves, H + could migrate their infrastructure to Microsoft Azure.
+> **[2:59](https://www.linkedin.com/learning/migrating-to-azure/introducing-the-scenario?u=76281980&t=179)** Instead of hosting all their software and services themselves, H + could migrate their infrastructure to [[Microsoft Azure]].
 >
 > **[3:08](https://www.linkedin.com/learning/migrating-to-azure/introducing-the-scenario?u=76281980&t=188)** Now I know what you're going to say next, "What's Microsoft Azure?"
 >
@@ -165,9 +164,9 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/migrating-to-azure/introducing-the-scenario?u=76281980&t=198)** Microsoft Azure is a cloud platform.
 >
-> **[3:21](https://www.linkedin.com/learning/migrating-to-azure/introducing-the-scenario?u=76281980&t=201)** Now there are several cloud platforms, including Amazon Web Services and Google Cloud.
+> **[3:21](https://www.linkedin.com/learning/migrating-to-azure/introducing-the-scenario?u=76281980&t=201)** Now there are several cloud platforms, including [[Amazon Web Services (AWS)|Amazon Web Services]] and [[Google Cloud Platform (GCP)|Google Cloud]].
 >
-> **[3:26](https://www.linkedin.com/learning/migrating-to-azure/introducing-the-scenario?u=76281980&t=206)** Azure is the offering from Microsoft.
+> **[3:26](https://www.linkedin.com/learning/migrating-to-azure/introducing-the-scenario?u=76281980&t=206)** [[Microsoft Azure|Azure]] is the offering from Microsoft.
 >
 > **[3:29](https://www.linkedin.com/learning/migrating-to-azure/introducing-the-scenario?u=76281980&t=209)** Now, you can think of the cloud platform as a collection of services that your company can use to drive your business.
 >
@@ -181,15 +180,15 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/migrating-to-azure/introducing-the-scenario?u=76281980&t=242)** Many services are even free, up to a certain point.
 >
-> **[4:05](https://www.linkedin.com/learning/migrating-to-azure/introducing-the-scenario?u=76281980&t=245)** And there are many tools available for cost management.
+> **[4:05](https://www.linkedin.com/learning/migrating-to-azure/introducing-the-scenario?u=76281980&t=245)** And there are many tools available for [[Cost Management]].
 >
-> **[4:09](https://www.linkedin.com/learning/migrating-to-azure/introducing-the-scenario?u=76281980&t=249)** Now cloud services fall into three categories.
+> **[4:09](https://www.linkedin.com/learning/migrating-to-azure/introducing-the-scenario?u=76281980&t=249)** Now [[Cloud Services]] fall into three categories.
 >
-> **[4:12](https://www.linkedin.com/learning/migrating-to-azure/introducing-the-scenario?u=76281980&t=252)** Firstly, you have infrastructure as a service.
+> **[4:12](https://www.linkedin.com/learning/migrating-to-azure/introducing-the-scenario?u=76281980&t=252)** Firstly, you have [[IaaS|infrastructure as a service]].
 >
-> **[4:15](https://www.linkedin.com/learning/migrating-to-azure/introducing-the-scenario?u=76281980&t=255)** Here we're normally talking about virtual machines.
+> **[4:15](https://www.linkedin.com/learning/migrating-to-azure/introducing-the-scenario?u=76281980&t=255)** Here we're normally talking about [[Virtual Machines]].
 >
-> **[4:18](https://www.linkedin.com/learning/migrating-to-azure/introducing-the-scenario?u=76281980&t=258)** Azure offers Windows virtual machines, Linux virtual machines, and a range of container services.
+> **[4:18](https://www.linkedin.com/learning/migrating-to-azure/introducing-the-scenario?u=76281980&t=258)** Azure offers [[Windows]] virtual machines, [[Linux]] virtual machines, and a range of container services.
 >
 > **[4:24](https://www.linkedin.com/learning/migrating-to-azure/introducing-the-scenario?u=76281980&t=264)** There are also many other services in this category too.
 >
@@ -201,7 +200,7 @@ created: 2026-05-02
 >
 > **[4:43](https://www.linkedin.com/learning/migrating-to-azure/introducing-the-scenario?u=76281980&t=283)** I'll talk about this more later on in the course.
 >
-> **[4:46](https://www.linkedin.com/learning/migrating-to-azure/introducing-the-scenario?u=76281980&t=286)** You then have Platform as a Service.
+> **[4:46](https://www.linkedin.com/learning/migrating-to-azure/introducing-the-scenario?u=76281980&t=286)** You then have [[PaaS|Platform as a Service]].
 >
 > **[4:49](https://www.linkedin.com/learning/migrating-to-azure/introducing-the-scenario?u=76281980&t=289)** Now with Platform as a Service, Microsoft is still responsible for the hardware and networking side of things, but this time they also look after the operating system side of things as well.
 >
@@ -213,7 +212,7 @@ created: 2026-05-02
 >
 > **[5:24](https://www.linkedin.com/learning/migrating-to-azure/introducing-the-scenario?u=76281980&t=324)** App Servers Mobile apps, which can be used to provide backends for pairing mobile applications.
 >
-> **[5:30](https://www.linkedin.com/learning/migrating-to-azure/introducing-the-scenario?u=76281980&t=330)** We also have services like Azure SQL, which is a managed SQL server offering.
+> **[5:30](https://www.linkedin.com/learning/migrating-to-azure/introducing-the-scenario?u=76281980&t=330)** We also have services like Azure [[SQL]], which is a managed [[Microsoft SQL Server|SQL server]] offering.
 >
 > **[5:35](https://www.linkedin.com/learning/migrating-to-azure/introducing-the-scenario?u=76281980&t=335)** Cosmos DB, which is a powerful, and highly scalable database.
 >
@@ -223,7 +222,7 @@ created: 2026-05-02
 >
 > **[5:50](https://www.linkedin.com/learning/migrating-to-azure/introducing-the-scenario?u=76281980&t=350)** But hopefully this gives you a sense of what's available.
 >
-> **[5:53](https://www.linkedin.com/learning/migrating-to-azure/introducing-the-scenario?u=76281980&t=353)** Finally, we have Software as a Service.
+> **[5:53](https://www.linkedin.com/learning/migrating-to-azure/introducing-the-scenario?u=76281980&t=353)** Finally, we have [[SaaS|Software as a Service]].
 >
 > **[5:56](https://www.linkedin.com/learning/migrating-to-azure/introducing-the-scenario?u=76281980&t=356)** Now think back to H +'s software.
 >
@@ -231,7 +230,7 @@ created: 2026-05-02
 >
 > **[6:04](https://www.linkedin.com/learning/migrating-to-azure/introducing-the-scenario?u=76281980&t=364)** They maintain the hardware and the software, and they pay for all of it.
 >
-> **[6:09](https://www.linkedin.com/learning/migrating-to-azure/introducing-the-scenario?u=76281980&t=369)** Now both Dynamics CRM and Exchange can be purchased on a Software as a Service model, as well as software like Microsoft Office, which is available through Microsoft Office 365.
+> **[6:09](https://www.linkedin.com/learning/migrating-to-azure/introducing-the-scenario?u=76281980&t=369)** Now both Dynamics CRM and Exchange can be purchased on a Software as a Service model, as well as software like [[Microsoft Office]], which is available through Microsoft Office 365.
 >
 > **[6:20](https://www.linkedin.com/learning/migrating-to-azure/introducing-the-scenario?u=76281980&t=380)** With Software as a Service, it's like a subscription.
 >
@@ -255,25 +254,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (11), [[Microsoft Azure|Azure]] (7), [[Microsoft]] (6), [[Hardware]] (6), cloud (5)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Microsoft]] (6), [[Hardware]] (6), [[PaaS|Platform as a service]] (4), [[Microsoft Azure]] (3)
 > **Env Vars:** crm (4), sql (2), api (1)
 > **Definitions:** is a  (5)
 > **Analogies:** such as (4), it's like (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - [narrator] (1)
 
-#### The Microsoft Cloud Adoption Framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/migrating-to-azure/the-microsoft-cloud-adoption-framework?u=76281980)
+#### [The Microsoft Cloud Adoption Framework](https://www.linkedin.com/learning/migrating-to-azure/the-microsoft-cloud-adoption-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/migrating-to-azure/the-microsoft-cloud-adoption-framework?u=76281980&t=0)** - [Instructor] Microsoft has published a set of guidance called the Cloud Adoption Framework.
+> **[0:00](https://www.linkedin.com/learning/migrating-to-azure/the-microsoft-cloud-adoption-framework?u=76281980&t=0)** - [Instructor] [[Microsoft]] has published a set of guidance called the Cloud Adoption Framework.
 >
 > **[0:05](https://www.linkedin.com/learning/migrating-to-azure/the-microsoft-cloud-adoption-framework?u=76281980&t=5)** And it's designed to give you everything you need for your business to succeed in the cloud.
 >
 > **[0:10](https://www.linkedin.com/learning/migrating-to-azure/the-microsoft-cloud-adoption-framework?u=76281980&t=10)** It's made up of best practice guidance, documentation and tools that IT professionals, cloud architects, and key business decision makers need to achieve their objectives.
 >
-> **[0:22](https://www.linkedin.com/learning/migrating-to-azure/the-microsoft-cloud-adoption-framework?u=76281980&t=22)** The Cloud Adoption Framework talks about aligning your business and technical strategies, how to deliver operational excellence.
+> **[0:22](https://www.linkedin.com/learning/migrating-to-azure/the-microsoft-cloud-adoption-framework?u=76281980&t=22)** The Cloud Adoption Framework talks about aligning your business and technical strategies, how to deliver [[Operational Excellence]].
 >
 > **[0:31](https://www.linkedin.com/learning/migrating-to-azure/the-microsoft-cloud-adoption-framework?u=76281980&t=31)** And this is where I have a problem.
 >
@@ -295,7 +293,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/migrating-to-azure/the-microsoft-cloud-adoption-framework?u=76281980&t=94)** Now, the fact that you're watching this course suggests that you're already working through this.
 >
-> **[1:38](https://www.linkedin.com/learning/migrating-to-azure/the-microsoft-cloud-adoption-framework?u=76281980&t=98)** Now, there is nothing Azure-specific here.
+> **[1:38](https://www.linkedin.com/learning/migrating-to-azure/the-microsoft-cloud-adoption-framework?u=76281980&t=98)** Now, there is nothing [[Microsoft Azure|Azure]]-specific here.
 >
 > **[1:41](https://www.linkedin.com/learning/migrating-to-azure/the-microsoft-cloud-adoption-framework?u=76281980&t=101)** This is what every business does whenever they engage in any new project.
 >
@@ -347,14 +345,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (9), cloud (8), [[Microsoft Azure|Azure]] (3), management (3), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Microsoft]] (1), [[Operational Excellence]] (1)
 > **Definitions:** is an  (2)
 > **Analogies:** such as (2)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Motivations for migration
-> [LinkedIn Learning](https://www.linkedin.com/learning/migrating-to-azure/motivations-for-migration?u=76281980)
+#### [Motivations for migration](https://www.linkedin.com/learning/migrating-to-azure/motivations-for-migration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -394,7 +391,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/migrating-to-azure/motivations-for-migration?u=76281980&t=110)** Now, Angela is the sales director of H+.
 >
-> **[1:53](https://www.linkedin.com/learning/migrating-to-azure/motivations-for-migration?u=76281980&t=113)** Now, Angela is non-technical, so telling Angela that we're migrating to Azure really isn't going to excite her at all.
+> **[1:53](https://www.linkedin.com/learning/migrating-to-azure/motivations-for-migration?u=76281980&t=113)** Now, Angela is non-technical, so telling Angela that we're migrating to [[Microsoft Azure|Azure]] really isn't going to excite her at all.
 >
 > **[2:01](https://www.linkedin.com/learning/migrating-to-azure/motivations-for-migration?u=76281980&t=121)** But if we define business focused outcomes like increasing sales and improving customer relationships, then she's likely to engage more in the project.
 >
@@ -448,7 +445,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (16), cloud (5), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** ceo (1), crm (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** template (1)
@@ -456,8 +453,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Defining a migration strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/migrating-to-azure/defining-a-migration-strategy?u=76281980)
+#### [Defining a migration strategy](https://www.linkedin.com/learning/migrating-to-azure/defining-a-migration-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -473,11 +469,11 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/migrating-to-azure/defining-a-migration-strategy?u=76281980&t=39)** So step one, in defining your plan is a thorough audit of your existing assets.
 >
-> **[0:46](https://www.linkedin.com/learning/migrating-to-azure/defining-a-migration-strategy?u=76281980&t=46)** Now this includes any hardware, it includes operating systems, storage, networking.
+> **[0:46](https://www.linkedin.com/learning/migrating-to-azure/defining-a-migration-strategy?u=76281980&t=46)** Now this includes any [[Hardware]], it includes operating systems, storage, networking.
 >
 > **[0:53](https://www.linkedin.com/learning/migrating-to-azure/defining-a-migration-strategy?u=76281980&t=53)** You need to document software versions too as well as any dependencies that they might have.
 >
-> **[0:58](https://www.linkedin.com/learning/migrating-to-azure/defining-a-migration-strategy?u=76281980&t=58)** Perhaps your accounting software requires a specific version of Java.
+> **[0:58](https://www.linkedin.com/learning/migrating-to-azure/defining-a-migration-strategy?u=76281980&t=58)** Perhaps your accounting software requires a specific version of [[Java]].
 >
 > **[1:03](https://www.linkedin.com/learning/migrating-to-azure/defining-a-migration-strategy?u=76281980&t=63)** Another thing to think about here is are all of these assets in use?
 >
@@ -525,23 +521,22 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/migrating-to-azure/defining-a-migration-strategy?u=76281980&t=196)** Take George an example.
 >
-> **[3:18](https://www.linkedin.com/learning/migrating-to-azure/defining-a-migration-strategy?u=76281980&t=198)** He's been administering the local active directory domain for many years.
+> **[3:18](https://www.linkedin.com/learning/migrating-to-azure/defining-a-migration-strategy?u=76281980&t=198)** He's been administering the local [[Active Directory]] domain for many years.
 >
 > **[3:23](https://www.linkedin.com/learning/migrating-to-azure/defining-a-migration-strategy?u=76281980&t=203)** So already has many of the skills he needs but in order to work with as your active directory he's going to need to do a little training.
 >
-> **[3:31](https://www.linkedin.com/learning/migrating-to-azure/defining-a-migration-strategy?u=76281980&t=211)** Resources like LinkedIn learning can help greatly with this.
+> **[3:31](https://www.linkedin.com/learning/migrating-to-azure/defining-a-migration-strategy?u=76281980&t=211)** Resources like [[LinkedIn]] learning can help greatly with this.
 >
-> **[3:35](https://www.linkedin.com/learning/migrating-to-azure/defining-a-migration-strategy?u=76281980&t=215)** Another option is to engage with a Microsoft partner to help with some of the more complex aspects of the project and while this will certainly increase costs it may help to eliminate some of the risk involved.
+> **[3:35](https://www.linkedin.com/learning/migrating-to-azure/defining-a-migration-strategy?u=76281980&t=215)** Another option is to engage with a [[Microsoft]] partner to help with some of the more complex aspects of the project and while this will certainly increase costs it may help to eliminate some of the risk involved.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), business (4), [[Hardware]] (3), teams (3), [[Active Directory]] (2)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[Active Directory]] (2), [[Java]] (1), [[LinkedIn]] (1), [[Microsoft]] (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Planning for migration
-> [LinkedIn Learning](https://www.linkedin.com/learning/migrating-to-azure/planning-for-migration?u=76281980)
+#### [Planning for migration](https://www.linkedin.com/learning/migrating-to-azure/planning-for-migration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -549,13 +544,13 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/migrating-to-azure/planning-for-migration?u=76281980&t=4)** So George and some of the key people across the business have spent some time together and defined their motivations for the project as well as defining some business objectives.
 >
-> **[0:14](https://www.linkedin.com/learning/migrating-to-azure/planning-for-migration?u=76281980&t=14)** George has also completed a full audit of the current estate and some old hardware and software has been decommissioned as it's no longer needed.
+> **[0:14](https://www.linkedin.com/learning/migrating-to-azure/planning-for-migration?u=76281980&t=14)** George has also completed a full audit of the current estate and some old [[Hardware]] and software has been decommissioned as it's no longer needed.
 >
 > **[0:24](https://www.linkedin.com/learning/migrating-to-azure/planning-for-migration?u=76281980&t=24)** Let's take a look at what he's come up with.
 >
-> **[0:26](https://www.linkedin.com/learning/migrating-to-azure/planning-for-migration?u=76281980&t=26)** So George has identified 10 physical servers, all running Windows Server 2016.
+> **[0:26](https://www.linkedin.com/learning/migrating-to-azure/planning-for-migration?u=76281980&t=26)** So George has identified 10 physical servers, all running [[Windows Server]] 2016.
 >
-> **[0:33](https://www.linkedin.com/learning/migrating-to-azure/planning-for-migration?u=76281980&t=33)** These servers host Exchange, Dynamic CRM, some SQL Server databases, and the production management software.
+> **[0:33](https://www.linkedin.com/learning/migrating-to-azure/planning-for-migration?u=76281980&t=33)** These servers host Exchange, Dynamic CRM, some [[Microsoft SQL Server|SQL Server]] [[Databases]], and the production management software.
 >
 > **[0:41](https://www.linkedin.com/learning/migrating-to-azure/planning-for-migration?u=76281980&t=41)** There's also a Raid storage device on the network for file shares and backups, as well as networks, which is security groups, a firewall, and all of the usual things you'd expect on a corporate network.
 >
@@ -573,17 +568,17 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/migrating-to-azure/planning-for-migration?u=76281980&t=82)** Now, this software currently runs on Windows Server 2016 and it's backed by a SQL Server database.
 >
-> **[1:29](https://www.linkedin.com/learning/migrating-to-azure/planning-for-migration?u=76281980&t=89)** There are multiple instances of SQL running in a high availability cluster, which is offering some performance and resilience benefits.
+> **[1:29](https://www.linkedin.com/learning/migrating-to-azure/planning-for-migration?u=76281980&t=89)** There are multiple instances of [[SQL]] running in a high availability cluster, which is offering some performance and resilience benefits.
 >
 > **[1:36](https://www.linkedin.com/learning/migrating-to-azure/planning-for-migration?u=76281980&t=96)** Now, this software also communicates with devices installed on the production floor.
 >
 > **[1:42](https://www.linkedin.com/learning/migrating-to-azure/planning-for-migration?u=76281980&t=102)** These sensors monitor the rate of production and provide feedback so the production plan can be constantly updated.
 >
-> **[1:49](https://www.linkedin.com/learning/migrating-to-azure/planning-for-migration?u=76281980&t=109)** So this entire business process and all of the assets it contains forms one workload.
+> **[1:49](https://www.linkedin.com/learning/migrating-to-azure/planning-for-migration?u=76281980&t=109)** So this entire business process and all of the assets it contains [[Forms]] one workload.
 >
 > **[1:55](https://www.linkedin.com/learning/migrating-to-azure/planning-for-migration?u=76281980&t=115)** Once you've identified all of the processes and defined your workloads, you need to give them a priority, which is the most important workload for the business.
 >
-> **[2:06](https://www.linkedin.com/learning/migrating-to-azure/planning-for-migration?u=76281980&t=126)** Now, each workload contains a collection of assets, be that virtual machines, data, infrastructure, or applications.
+> **[2:06](https://www.linkedin.com/learning/migrating-to-azure/planning-for-migration?u=76281980&t=126)** Now, each workload contains a collection of assets, be that [[Virtual Machines]], data, infrastructure, or applications.
 >
 > **[2:13](https://www.linkedin.com/learning/migrating-to-azure/planning-for-migration?u=76281980&t=133)** And each of these assets will need to be migrated.
 >
@@ -593,9 +588,9 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/migrating-to-azure/planning-for-migration?u=76281980&t=145)** Take data in a SQL Server database as an example.
 >
-> **[2:29](https://www.linkedin.com/learning/migrating-to-azure/planning-for-migration?u=76281980&t=149)** Well, first you're going to need to provision a suitable Azure SQL instance.
+> **[2:29](https://www.linkedin.com/learning/migrating-to-azure/planning-for-migration?u=76281980&t=149)** Well, first you're going to need to provision a suitable [[Microsoft Azure|Azure]] SQL instance.
 >
-> **[2:33](https://www.linkedin.com/learning/migrating-to-azure/planning-for-migration?u=76281980&t=153)** You're going to need to configure access and permissions, perhaps using Active Directory.
+> **[2:33](https://www.linkedin.com/learning/migrating-to-azure/planning-for-migration?u=76281980&t=153)** You're going to need to configure access and permissions, perhaps using [[Active Directory]].
 >
 > **[2:38](https://www.linkedin.com/learning/migrating-to-azure/planning-for-migration?u=76281980&t=158)** You're going to need to create databases and implement some form of backup and recovery plan.
 >
@@ -603,7 +598,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/migrating-to-azure/planning-for-migration?u=76281980&t=171)** Now, you're going to need to document all of these tasks that form part of that workload.
 >
-> **[2:57](https://www.linkedin.com/learning/migrating-to-azure/planning-for-migration?u=76281980&t=177)** And you can use something such as Microsoft Project for this or you could use Azure DevOps.
+> **[2:57](https://www.linkedin.com/learning/migrating-to-azure/planning-for-migration?u=76281980&t=177)** And you can use something such as [[Microsoft]] Project for this or you could use Azure [[DevOps]].
 >
 > **[3:02](https://www.linkedin.com/learning/migrating-to-azure/planning-for-migration?u=76281980&t=182)** Microsoft provides a template for Azure DevOps to make this easier.
 >
@@ -625,7 +620,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), data (4), [[Microsoft Azure|Azure]] (4), [[Microsoft SQL Server|Sql server]] (3), database (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Microsoft SQL Server|Sql server]] (3), [[Windows Server]] (2), [[Databases]] (2), [[SQL]] (2)
 > **Env Vars:** sql (5), crm (1)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** such as (2)
@@ -634,8 +629,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Choosing the right first project
-> [LinkedIn Learning](https://www.linkedin.com/learning/migrating-to-azure/choosing-the-right-first-project?u=76281980)
+#### [Choosing the right first project](https://www.linkedin.com/learning/migrating-to-azure/choosing-the-right-first-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -661,7 +655,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/migrating-to-azure/choosing-the-right-first-project?u=76281980&t=67)** One of the things that H-Plus needs to do is move the hosting of their website.
 >
-> **[1:12](https://www.linkedin.com/learning/migrating-to-azure/choosing-the-right-first-project?u=76281980&t=72)** And they're considering hosting it in Azure App Service.
+> **[1:12](https://www.linkedin.com/learning/migrating-to-azure/choosing-the-right-first-project?u=76281980&t=72)** And they're considering hosting it in [[Microsoft Azure|Azure]] App Service.
 >
 > **[1:16](https://www.linkedin.com/learning/migrating-to-azure/choosing-the-right-first-project?u=76281980&t=76)** A good first project might be to set up a non-production test or development environment for this.
 >
@@ -679,11 +673,11 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/migrating-to-azure/choosing-the-right-first-project?u=76281980&t=112)** We'd no longer need the storage device on-premise and having this data in the cloud would give us better disaster recovery options.
 >
-> **[2:00](https://www.linkedin.com/learning/migrating-to-azure/choosing-the-right-first-project?u=76281980&t=120)** Migrating on-premise Active Directory domains to the cloud can also offer early gains and gives a foundation that you can build on as you move throughout the project.
+> **[2:00](https://www.linkedin.com/learning/migrating-to-azure/choosing-the-right-first-project?u=76281980&t=120)** Migrating on-premise [[Active Directory]] domains to the cloud can also offer early gains and gives a foundation that you can build on as you move throughout the project.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), data (4), [[Microsoft Azure|Azure]] (2), parallel (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Active Directory]] (1)
 > **Prerequisites:** setup (1), set up (1)
 > **Speakers:** - [instructor] (1)
 
@@ -692,12 +686,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Organizing resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/migrating-to-azure/organizing-resources?u=76281980)
+#### [Organizing resources](https://www.linkedin.com/learning/migrating-to-azure/organizing-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/migrating-to-azure/organizing-resources?u=76281980&t=0)** - [Instructor] Before you can start migrating your workloads to Azure, it's important to have your environment set up correctly.
+> **[0:00](https://www.linkedin.com/learning/migrating-to-azure/organizing-resources?u=76281980&t=0)** - [Instructor] Before you can start migrating your workloads to [[Microsoft Azure|Azure]], it's important to have your environment set up correctly.
 >
 > **[0:08](https://www.linkedin.com/learning/migrating-to-azure/organizing-resources?u=76281980&t=8)** In this module, we're going to look at the things that you need to do to get Azure ready.
 >
@@ -727,7 +720,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/migrating-to-azure/organizing-resources?u=76281980&t=89)** They inherit any policies from the subscription that they belong to.
 >
-> **[1:34](https://www.linkedin.com/learning/migrating-to-azure/organizing-resources?u=76281980&t=94)** Finally, we have the services themselves, such as web apps, virtual machines and databases that sit within these resource groups.
+> **[1:34](https://www.linkedin.com/learning/migrating-to-azure/organizing-resources?u=76281980&t=94)** Finally, we have the services themselves, such as web apps, [[Virtual Machines]] and [[Databases]] that sit within these resource groups.
 >
 > **[1:41](https://www.linkedin.com/learning/migrating-to-azure/organizing-resources?u=76281980&t=101)** Again, these will inherit any policies from their parent container.
 >
@@ -751,7 +744,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/migrating-to-azure/organizing-resources?u=76281980&t=176)** How you organize your cloud-based resources is critical to how you manage and secure those resources.
 >
-> **[3:02](https://www.linkedin.com/learning/migrating-to-azure/organizing-resources?u=76281980&t=182)** It also has an impact on how you track any costs associated with running your cloud services.
+> **[3:02](https://www.linkedin.com/learning/migrating-to-azure/organizing-resources?u=76281980&t=182)** It also has an impact on how you track any costs associated with running your [[Cloud Services]].
 >
 > **[3:08](https://www.linkedin.com/learning/migrating-to-azure/organizing-resources?u=76281980&t=188)** So when you're setting up your cloud environment, there are a few things to consider.
 >
@@ -845,7 +838,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), management (8), cloud (3), data (3), business (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Virtual Machines]] (1), [[Databases]] (1), [[Cloud Services]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** such as (3), imagine (1)
 > **Definitions:** known as (2), is called (1)
@@ -854,12 +847,11 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing access
-> [LinkedIn Learning](https://www.linkedin.com/learning/migrating-to-azure/managing-access?u=76281980)
+#### [Managing access](https://www.linkedin.com/learning/migrating-to-azure/managing-access?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/migrating-to-azure/managing-access?u=76281980&t=0)** - [Instructor] In this video, we're going to be looking at how you can secure access to your Azure resources using what's known as role-based access control.
+> **[0:00](https://www.linkedin.com/learning/migrating-to-azure/managing-access?u=76281980&t=0)** - [Instructor] In this video, we're going to be looking at how you can secure access to your [[Microsoft Azure|Azure]] resources using what's known as role-based access control.
 >
 > **[0:08](https://www.linkedin.com/learning/migrating-to-azure/managing-access?u=76281980&t=8)** Being able to control who has access to your Azure subscription and the resources it contains is an essential part of how you manage your digital estate.
 >
@@ -869,7 +861,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/migrating-to-azure/managing-access?u=76281980&t=33)** That is we want to give users the minimum amount of access required to perform their job.
 >
-> **[0:38](https://www.linkedin.com/learning/migrating-to-azure/managing-access?u=76281980&t=38)** Now, while we can assign roles to certain users in our organization we can also assign roles to active directory groups, service principles or managed identities.
+> **[0:38](https://www.linkedin.com/learning/migrating-to-azure/managing-access?u=76281980&t=38)** Now, while we can assign roles to certain users in our organization we can also assign roles to [[Active Directory]] groups, service principles or managed identities.
 >
 > **[0:49](https://www.linkedin.com/learning/migrating-to-azure/managing-access?u=76281980&t=49)** So instead of giving everybody at age plus sport unrestricted access to the entire Azure subscription we can limit access only to those resources that users need.
 >
@@ -891,7 +883,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/migrating-to-azure/managing-access?u=76281980&t=109)** Okay so in this demo, we going to look at how we can provide a read only view of resources to Angela.
 >
-> **[1:56](https://www.linkedin.com/learning/migrating-to-azure/managing-access?u=76281980&t=116)** Angela already has a user account defined in Azure active directory but we need her to be able to view any resources that are created.
+> **[1:56](https://www.linkedin.com/learning/migrating-to-azure/managing-access?u=76281980&t=116)** Angela already has a user account defined in [[Microsoft Entra ID|Azure active directory]] but we need her to be able to view any resources that are created.
 >
 > **[2:04](https://www.linkedin.com/learning/migrating-to-azure/managing-access?u=76281980&t=124)** We don't however want her to be able to create or change anything.
 >
@@ -927,7 +919,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Active Directory]] (1), management (1), [[Microsoft Entra ID|Azure active directory]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Active Directory]] (1), [[Microsoft Entra ID|Azure active directory]] (1)
 > **Definitions:** known as (2), is an  (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** iim (1)
@@ -935,18 +927,17 @@ created: 2026-05-02
 > **UI Navigation:** navigate to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing costs
-> [LinkedIn Learning](https://www.linkedin.com/learning/migrating-to-azure/managing-costs?u=76281980)
+#### [Managing costs](https://www.linkedin.com/learning/migrating-to-azure/managing-costs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/migrating-to-azure/managing-costs?u=76281980&t=0)** - [Instructor] Cost management is key once you're in the cloud.
+> **[0:00](https://www.linkedin.com/learning/migrating-to-azure/managing-costs?u=76281980&t=0)** - [Instructor] [[Cost Management]] is key once you're in the cloud.
 >
 > **[0:03](https://www.linkedin.com/learning/migrating-to-azure/managing-costs?u=76281980&t=3)** And in this video, we're going to be exploring some best practices for managing costs and setting budgets.
 >
 > **[0:09](https://www.linkedin.com/learning/migrating-to-azure/managing-costs?u=76281980&t=9)** So why is cost management important?
 >
-> **[0:11](https://www.linkedin.com/learning/migrating-to-azure/managing-costs?u=76281980&t=11)** Cost management is an important aspect of running any business and H+ are keen to effectively plan and control any costs associated with our Azure migration.
+> **[0:11](https://www.linkedin.com/learning/migrating-to-azure/managing-costs?u=76281980&t=11)** Cost management is an important aspect of running any business and H+ are keen to effectively plan and control any costs associated with our [[Microsoft Azure|Azure]] migration.
 >
 > **[0:21](https://www.linkedin.com/learning/migrating-to-azure/managing-costs?u=76281980&t=21)** Now, it's easy to manage costs in Azure so let's look at what options we have.
 >
@@ -1026,14 +1017,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cost Management]] (9), [[Microsoft Azure|Azure]] (5), cloud (1), business (1), feature (1)
+> **Frameworks & Libraries:** [[Cost Management]] (9), [[Microsoft Azure|Azure]] (5)
 > **Tools:** azure portal (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Monitoring and reporting in Azure
-> [LinkedIn Learning](https://www.linkedin.com/learning/migrating-to-azure/monitoring-and-reporting-in-azure?u=76281980)
+#### [Monitoring and reporting in Azure](https://www.linkedin.com/learning/migrating-to-azure/monitoring-and-reporting-in-azure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1045,7 +1035,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/migrating-to-azure/monitoring-and-reporting-in-azure?u=76281980&t=9)** Are there any changes you can make to make your services run more efficiently?
 >
-> **[0:14](https://www.linkedin.com/learning/migrating-to-azure/monitoring-and-reporting-in-azure?u=76281980&t=14)** Azure offers a range of services to help with this.
+> **[0:14](https://www.linkedin.com/learning/migrating-to-azure/monitoring-and-reporting-in-azure?u=76281980&t=14)** [[Microsoft Azure|Azure]] offers a range of services to help with this.
 >
 > **[0:17](https://www.linkedin.com/learning/migrating-to-azure/monitoring-and-reporting-in-azure?u=76281980&t=17)** Let's take a look.
 >
@@ -1087,7 +1077,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/migrating-to-azure/monitoring-and-reporting-in-azure?u=76281980&t=107)** You can see a global view of the status of Azure resources, and also see a personalized view of just the services and regions that you use.
 >
-> **[1:57](https://www.linkedin.com/learning/migrating-to-azure/monitoring-and-reporting-in-azure?u=76281980&t=117)** Now Microsoft post information here about active service issues, so that you can better understand the impact that these might have on your service.
+> **[1:57](https://www.linkedin.com/learning/migrating-to-azure/monitoring-and-reporting-in-azure?u=76281980&t=117)** Now [[Microsoft]] post information here about active service issues, so that you can better understand the impact that these might have on your service.
 >
 > **[2:05](https://www.linkedin.com/learning/migrating-to-azure/monitoring-and-reporting-in-azure?u=76281980&t=125)** Microsoft also publishes planned maintenance events here.
 >
@@ -1107,7 +1097,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/migrating-to-azure/monitoring-and-reporting-in-azure?u=76281980&t=166)** You need your services to continue to work, even if the data center goes down.
 >
-> **[2:51](https://www.linkedin.com/learning/migrating-to-azure/monitoring-and-reporting-in-azure?u=76281980&t=171)** These recommendations help with that, and might include things such as adding virtual machines to a scale set, or using Azure Traffic Manager.
+> **[2:51](https://www.linkedin.com/learning/migrating-to-azure/monitoring-and-reporting-in-azure?u=76281980&t=171)** These recommendations help with that, and might include things such as adding [[Virtual Machines]] to a scale set, or using Azure Traffic Manager.
 >
 > **[3:00](https://www.linkedin.com/learning/migrating-to-azure/monitoring-and-reporting-in-azure?u=76281980&t=180)** Security is also very important.
 >
@@ -1119,7 +1109,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/migrating-to-azure/monitoring-and-reporting-in-azure?u=76281980&t=200)** Advisor can also help reduce your costs by recommending you shut down unused resources.
 >
-> **[3:26](https://www.linkedin.com/learning/migrating-to-azure/monitoring-and-reporting-in-azure?u=76281980&t=206)** Finally, there is operational excellence.
+> **[3:26](https://www.linkedin.com/learning/migrating-to-azure/monitoring-and-reporting-in-azure?u=76281980&t=206)** Finally, there is [[Operational Excellence]].
 >
 > **[3:30](https://www.linkedin.com/learning/migrating-to-azure/monitoring-and-reporting-in-azure?u=76281980&t=210)** Here we're talking about management and policy.
 >
@@ -1141,7 +1131,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (16), data (7), [[Security]] (6), management (2), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (16), [[Microsoft]] (2), [[Virtual Machines]] (2), [[Operational Excellence]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Env Vars:** cpu (2)
 > **Analogies:** such as (2)
@@ -1150,12 +1140,11 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Warnings:** troubleshoot (1)
 
-#### Working with Azure Monitor
-> [LinkedIn Learning](https://www.linkedin.com/learning/migrating-to-azure/working-with-azure-monitor?u=76281980)
+#### [Working with Azure Monitor](https://www.linkedin.com/learning/migrating-to-azure/working-with-azure-monitor?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/migrating-to-azure/working-with-azure-monitor?u=76281980&t=0)** - [Instructor] , Okay, so let's start off with a little tour of Azure Monitor.
+> **[0:00](https://www.linkedin.com/learning/migrating-to-azure/working-with-azure-monitor?u=76281980&t=0)** - [Instructor] , Okay, so let's start off with a little tour of [[Microsoft Azure|Azure]] Monitor.
 >
 > **[0:04](https://www.linkedin.com/learning/migrating-to-azure/working-with-azure-monitor?u=76281980&t=4)** To access Azure Monitor, you need to select Monitor here on the left-hand menu.
 >
@@ -1249,7 +1238,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (11), data (7), next (2), application (2), web (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (11)
 > **Prerequisites:** configure (3), set up (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
@@ -1257,8 +1246,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Best practice guidance
-> [LinkedIn Learning](https://www.linkedin.com/learning/migrating-to-azure/best-practice-guidance?u=76281980)
+#### [Best practice guidance](https://www.linkedin.com/learning/migrating-to-azure/best-practice-guidance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1272,7 +1260,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/migrating-to-azure/best-practice-guidance?u=76281980&t=25)** This will make things much easier going forward.
 >
-> **[0:29](https://www.linkedin.com/learning/migrating-to-azure/best-practice-guidance?u=76281980&t=29)** Now Microsoft recommends that you create at least two Azure subscriptions.
+> **[0:29](https://www.linkedin.com/learning/migrating-to-azure/best-practice-guidance?u=76281980&t=29)** Now [[Microsoft]] recommends that you create at least two [[Microsoft Azure|Azure]] subscriptions.
 >
 > **[0:33](https://www.linkedin.com/learning/migrating-to-azure/best-practice-guidance?u=76281980&t=33)** One for production workloads and one for non-production or development tasks.
 >
@@ -1302,11 +1290,11 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/migrating-to-azure/best-practice-guidance?u=76281980&t=113)** So the first thing you need to do is centralize your identity management.
 >
-> **[1:57](https://www.linkedin.com/learning/migrating-to-azure/best-practice-guidance?u=76281980&t=117)** If you're anything like H Plus Sport then you already run an active directory domain on-premise that manages your corporate accounts.
+> **[1:57](https://www.linkedin.com/learning/migrating-to-azure/best-practice-guidance?u=76281980&t=117)** If you're anything like H Plus Sport then you already run an [[Active Directory]] domain on-premise that manages your corporate accounts.
 >
-> **[2:05](https://www.linkedin.com/learning/migrating-to-azure/best-practice-guidance?u=76281980&t=125)** You should however create an Azure active directory instance and make this the principal authority for everything.
+> **[2:05](https://www.linkedin.com/learning/migrating-to-azure/best-practice-guidance?u=76281980&t=125)** You should however create an [[Microsoft Entra ID|Azure active directory]] instance and make this the principal authority for everything.
 >
-> **[2:12](https://www.linkedin.com/learning/migrating-to-azure/best-practice-guidance?u=76281980&t=132)** You can use Azure AD Connect to keep your on-premise and your Azure instances of active directory in sync.
+> **[2:12](https://www.linkedin.com/learning/migrating-to-azure/best-practice-guidance?u=76281980&t=132)** You can use [[Microsoft Entra ID|Azure AD]] Connect to keep your on-premise and your Azure instances of active directory in sync.
 >
 > **[2:18](https://www.linkedin.com/learning/migrating-to-azure/best-practice-guidance?u=76281980&t=138)** Now we live in a mobiled fast world and we need our users to be able to access our applications and services no matter where they are or what device they're using.
 >
@@ -1314,7 +1302,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/migrating-to-azure/best-practice-guidance?u=76281980&t=152)** This will ensure that your users can use the same set of credentials to access both on-premise and cloud resources, regardless of where they are or what device they're using.
 >
-> **[2:43](https://www.linkedin.com/learning/migrating-to-azure/best-practice-guidance?u=76281980&t=163)** To help keep your identity accounts secure you should enforce multi-factor authentication.
+> **[2:43](https://www.linkedin.com/learning/migrating-to-azure/best-practice-guidance?u=76281980&t=163)** To help keep your identity accounts secure you should enforce [[Multi-factor Authentication]].
 >
 > **[2:49](https://www.linkedin.com/learning/migrating-to-azure/best-practice-guidance?u=76281980&t=169)** This two-step authentication process greatly increases security by sending a code to a mobile phone or a known email address or by using an app like Microsoft authenticator.
 >
@@ -1328,7 +1316,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Active Directory]] (4), cloud (2), [[Microsoft]] (2), management (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Active Directory]] (4), [[Microsoft]] (2), [[Microsoft Entra ID|Azure ad]] (1), [[Multi-factor Authentication]] (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (2)
 > **Best Practices:** best practice (2)
@@ -1339,12 +1327,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Exploring migration scenarios
-> [LinkedIn Learning](https://www.linkedin.com/learning/migrating-to-azure/exploring-migration-scenarios?u=76281980)
+#### [Exploring migration scenarios](https://www.linkedin.com/learning/migrating-to-azure/exploring-migration-scenarios?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/migrating-to-azure/exploring-migration-scenarios?u=76281980&t=0)** - [Instructor] So far, we've looked at how we can plan our Azure migration and also at how we can ensure our Azure environment is set up and ready.
+> **[0:00](https://www.linkedin.com/learning/migrating-to-azure/exploring-migration-scenarios?u=76281980&t=0)** - [Instructor] So far, we've looked at how we can plan our [[Microsoft Azure|Azure]] migration and also at how we can ensure our Azure environment is set up and ready.
 >
 > **[0:09](https://www.linkedin.com/learning/migrating-to-azure/exploring-migration-scenarios?u=76281980&t=9)** In this module we're going to start by getting our hands dirty and look at actually migrating resources to the Cloud.
 >
@@ -1374,7 +1361,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/migrating-to-azure/exploring-migration-scenarios?u=76281980&t=117)** It may also be you have a third party application like the Production Management software at H+ Sport.
 >
-> **[2:04](https://www.linkedin.com/learning/migrating-to-azure/exploring-migration-scenarios?u=76281980&t=124)** This currently runs on Windows Virtual Machines on premise.
+> **[2:04](https://www.linkedin.com/learning/migrating-to-azure/exploring-migration-scenarios?u=76281980&t=124)** This currently runs on [[Windows]] [[Virtual Machines]] on premise.
 >
 > **[2:08](https://www.linkedin.com/learning/migrating-to-azure/exploring-migration-scenarios?u=76281980&t=128)** H+ don't have access to the source code so can't make any changes.
 >
@@ -1382,9 +1369,9 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/migrating-to-azure/exploring-migration-scenarios?u=76281980&t=139)** The refactor pattern, also known as repackaging, takes things one step further.
 >
-> **[2:26](https://www.linkedin.com/learning/migrating-to-azure/exploring-migration-scenarios?u=76281980&t=146)** This time you do modify the code of your application, but you only make the minimal amount of changes so that your application can use the Azure platform as a service products.
+> **[2:26](https://www.linkedin.com/learning/migrating-to-azure/exploring-migration-scenarios?u=76281980&t=146)** This time you do modify the code of your application, but you only make the minimal amount of changes so that your application can use the Azure [[PaaS|platform as a service]] [[Microsoft Products|products]].
 >
-> **[2:37](https://www.linkedin.com/learning/migrating-to-azure/exploring-migration-scenarios?u=76281980&t=157)** H+, for example, could modify their website to work on Azure App Service, or perhaps make the changes necessary to move the SQL databases to Azure SQL.
+> **[2:37](https://www.linkedin.com/learning/migrating-to-azure/exploring-migration-scenarios?u=76281980&t=157)** H+, for example, could modify their website to work on Azure App Service, or perhaps make the changes necessary to move the [[SQL]] [[Databases]] to Azure SQL.
 >
 > **[2:48](https://www.linkedin.com/learning/migrating-to-azure/exploring-migration-scenarios?u=76281980&t=168)** Now, this pattern is not always appropriate.
 >
@@ -1394,11 +1381,11 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/migrating-to-azure/exploring-migration-scenarios?u=76281980&t=184)** Now here, you're focusing on modifying and extending the code within your application to really get the best out of the Cloud, making sure your application is scalable and resilient.
 >
-> **[3:17](https://www.linkedin.com/learning/migrating-to-azure/exploring-migration-scenarios?u=76281980&t=197)** Now, this might involve rewrites of applications and the adoption of new patterns and practices, such as microservices.
+> **[3:17](https://www.linkedin.com/learning/migrating-to-azure/exploring-migration-scenarios?u=76281980&t=197)** Now, this might involve rewrites of applications and the adoption of new patterns and practices, such as [[Microservices]].
 >
 > **[3:25](https://www.linkedin.com/learning/migrating-to-azure/exploring-migration-scenarios?u=76281980&t=205)** It's not just applications though, databases can also be re-architected.
 >
-> **[3:31](https://www.linkedin.com/learning/migrating-to-azure/exploring-migration-scenarios?u=76281980&t=211)** You could re-architect both relational and non-relational databases to a fully managed database solution, such as your Azure SQL or Cosmos DB.
+> **[3:31](https://www.linkedin.com/learning/migrating-to-azure/exploring-migration-scenarios?u=76281980&t=211)** You could re-architect both relational and non-[[Relational Databases]] to a fully managed database solution, such as your Azure SQL or Cosmos DB.
 >
 > **[3:41](https://www.linkedin.com/learning/migrating-to-azure/exploring-migration-scenarios?u=76281980&t=221)** You typically use this pattern when you need to make big changes or add new capabilities to your applications, or when changes just have to be made to make the application work in the Cloud.
 >
@@ -1410,7 +1397,7 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/migrating-to-azure/exploring-migration-scenarios?u=76281980&t=256)** Sometimes applications just aren't suitable for migration to the Cloud and the costs and risks of doing so just might not be worth it.
 >
-> **[4:25](https://www.linkedin.com/learning/migrating-to-azure/exploring-migration-scenarios?u=76281980&t=265)** Often, the functionality that those apps provide can easily be rebuilt using Cloud services.
+> **[4:25](https://www.linkedin.com/learning/migrating-to-azure/exploring-migration-scenarios?u=76281980&t=265)** Often, the functionality that those apps provide can easily be rebuilt using [[Cloud Services]].
 >
 > **[4:31](https://www.linkedin.com/learning/migrating-to-azure/exploring-migration-scenarios?u=76281980&t=271)** Again, though, this does typically need some developer resource.
 >
@@ -1422,7 +1409,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (11), cloud (10), [[Microsoft Azure|Azure]] (9), [[SQL]] (3), [[Virtual Machines]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[SQL]] (3), [[Virtual Machines]] (2), [[PaaS|Platform as a service]] (2), [[Databases]] (2)
 > **CLI Commands:** make (7)
 > **Env Vars:** sql (3)
 > **Analogies:** such as (2), for example (1)
@@ -1431,16 +1418,15 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introducing Azure Migrate
-> [LinkedIn Learning](https://www.linkedin.com/learning/migrating-to-azure/introducing-azure-migrate?u=76281980)
+#### [Introducing Azure Migrate](https://www.linkedin.com/learning/migrating-to-azure/introducing-azure-migrate?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/migrating-to-azure/introducing-azure-migrate?u=76281980&t=0)** - [Instructor] One of the tools that Microsoft offers that can make migration much easier is the Azure migration service.
+> **[0:00](https://www.linkedin.com/learning/migrating-to-azure/introducing-azure-migrate?u=76281980&t=0)** - [Instructor] One of the tools that [[Microsoft]] offers that can make migration much easier is the [[Microsoft Azure|Azure]] migration service.
 >
 > **[0:07](https://www.linkedin.com/learning/migrating-to-azure/introducing-azure-migrate?u=76281980&t=7)** Actually the Azure migration service is more a collection of tools that help you to assess your current workloads.
 >
-> **[0:13](https://www.linkedin.com/learning/migrating-to-azure/introducing-azure-migrate?u=76281980&t=13)** That is your virtual machines, physical machines, databases and web apps and helps you to prepare them for migration.
+> **[0:13](https://www.linkedin.com/learning/migrating-to-azure/introducing-azure-migrate?u=76281980&t=13)** That is your [[Virtual Machines]], physical machines, [[Databases]] and web apps and helps you to prepare them for migration.
 >
 > **[0:22](https://www.linkedin.com/learning/migrating-to-azure/introducing-azure-migrate?u=76281980&t=22)** Once you've assessed your workloads they can even perform the actual migration by replicating resources in Azure.
 >
@@ -1498,7 +1484,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (13), [[Virtual Machines]] (3), data (2), [[Microsoft]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (13), [[Virtual Machines]] (3), [[Microsoft]] (1), [[Databases]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** csv (2)
 > **Prerequisites:** install (2)
@@ -1507,12 +1493,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Migrating a virtual machine
-> [LinkedIn Learning](https://www.linkedin.com/learning/migrating-to-azure/migrating-a-virtual-machine?u=76281980)
+#### [Migrating a virtual machine](https://www.linkedin.com/learning/migrating-to-azure/migrating-a-virtual-machine?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/migrating-to-azure/migrating-a-virtual-machine?u=76281980&t=0)** - [Instructor] So, in this demo we're going to explore how we migrate a Virtual Machine to Azure using Azure Migrate.
+> **[0:00](https://www.linkedin.com/learning/migrating-to-azure/migrating-a-virtual-machine?u=76281980&t=0)** - [Instructor] So, in this demo we're going to explore how we migrate a Virtual Machine to [[Microsoft Azure|Azure]] using Azure Migrate.
 >
 > **[0:07](https://www.linkedin.com/learning/migrating-to-azure/migrating-a-virtual-machine?u=76281980&t=7)** So, in the previous video we created an Azure server migration project and we talked about how you can either deploy tools to your network or use a CSV file to provide the migration data to Azure.
 >
@@ -1530,7 +1515,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/migrating-to-azure/migrating-a-virtual-machine?u=76281980&t=51)** The columns with the asterisks are required fields, everything else is optional.
 >
-> **[0:57](https://www.linkedin.com/learning/migrating-to-azure/migrating-a-virtual-machine?u=76281980&t=57)** Now, I'm going to be migrating three Virtual Machines so I can replace the data like so.
+> **[0:57](https://www.linkedin.com/learning/migrating-to-azure/migrating-a-virtual-machine?u=76281980&t=57)** Now, I'm going to be migrating three [[Virtual Machines]] so I can replace the data like so.
 >
 > **[1:03](https://www.linkedin.com/learning/migrating-to-azure/migrating-a-virtual-machine?u=76281980&t=63)** I'm not providing values for every column but there's enough data here for Azure Migrate to work with.
 >
@@ -1582,7 +1567,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (13), data (6), [[Virtual Machines]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (13), [[Virtual Machines]] (2)
 > **UI Navigation:** select the (4)
 > **Exercise Files:** template (3), download the (1)
 > **Env Vars:** csv (3)
@@ -1591,28 +1576,27 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Prerequisites:** install (1)
 
-#### Migrating SQL Server
-> [LinkedIn Learning](https://www.linkedin.com/learning/migrating-to-azure/migrating-sql-server?u=76281980)
+#### [Migrating SQL Server](https://www.linkedin.com/learning/migrating-to-azure/migrating-sql-server?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/migrating-to-azure/migrating-sql-server?u=76281980&t=0)** - [Instructor] Okay, so we've seen how the Azure Migrate Services can be used to assess and migrate virtual machine workloads.
+> **[0:00](https://www.linkedin.com/learning/migrating-to-azure/migrating-sql-server?u=76281980&t=0)** - [Instructor] Okay, so we've seen how the [[Microsoft Azure|Azure]] Migrate Services can be used to assess and migrate virtual machine workloads.
 >
-> **[0:07](https://www.linkedin.com/learning/migrating-to-azure/migrating-sql-server?u=76281980&t=7)** It can also be used to migrate SQL Server instances to Azure.
+> **[0:07](https://www.linkedin.com/learning/migrating-to-azure/migrating-sql-server?u=76281980&t=7)** It can also be used to migrate [[Microsoft SQL Server|SQL Server]] instances to Azure.
 >
 > **[0:12](https://www.linkedin.com/learning/migrating-to-azure/migrating-sql-server?u=76281980&t=12)** So here we are back in Azure Migrate.
 >
-> **[0:14](https://www.linkedin.com/learning/migrating-to-azure/migrating-sql-server?u=76281980&t=14)** And here on the left-hand side, under Migration Goals, we can select databases.
+> **[0:14](https://www.linkedin.com/learning/migrating-to-azure/migrating-sql-server?u=76281980&t=14)** And here on the left-hand side, under Migration Goals, we can select [[Databases]].
 >
 > **[0:20](https://www.linkedin.com/learning/migrating-to-azure/migrating-sql-server?u=76281980&t=20)** Now, as before there are two steps here, the assessment step and the migration step.
 >
-> **[0:26](https://www.linkedin.com/learning/migrating-to-azure/migrating-sql-server?u=76281980&t=26)** Now, with databases we need to install Microsoft's Data Migration Assistant tool.
+> **[0:26](https://www.linkedin.com/learning/migrating-to-azure/migrating-sql-server?u=76281980&t=26)** Now, with databases we need to install [[Microsoft]]'s Data Migration Assistant tool.
 >
 > **[0:32](https://www.linkedin.com/learning/migrating-to-azure/migrating-sql-server?u=76281980&t=32)** This you install on your SQL Server instance.
 >
 > **[0:35](https://www.linkedin.com/learning/migrating-to-azure/migrating-sql-server?u=76281980&t=35)** Then you can use it to analyze your database schemers and check for compatibility.
 >
-> **[0:40](https://www.linkedin.com/learning/migrating-to-azure/migrating-sql-server?u=76281980&t=40)** Now, this process is really similar to migrating virtual machines.
+> **[0:40](https://www.linkedin.com/learning/migrating-to-azure/migrating-sql-server?u=76281980&t=40)** Now, this process is really similar to migrating [[Virtual Machines]].
 >
 > **[0:44](https://www.linkedin.com/learning/migrating-to-azure/migrating-sql-server?u=76281980&t=44)** So similar in fact that I'm not going to show it in this demo.
 >
@@ -1620,7 +1604,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/migrating-to-azure/migrating-sql-server?u=76281980&t=53)** Let's actually create a new SQL Server managed instance.
 >
-> **[0:57](https://www.linkedin.com/learning/migrating-to-azure/migrating-sql-server?u=76281980&t=57)** This is SQL Server running as a platform as a service.
+> **[0:57](https://www.linkedin.com/learning/migrating-to-azure/migrating-sql-server?u=76281980&t=57)** This is SQL Server running as a [[PaaS|platform as a service]].
 >
 > **[1:01](https://www.linkedin.com/learning/migrating-to-azure/migrating-sql-server?u=76281980&t=61)** No virtual machines to worry about here.
 >
@@ -1630,7 +1614,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/migrating-to-azure/migrating-sql-server?u=76281980&t=83)** Now, to create a SQL Server managed instance, let's start by selecting the menu here at the top and click and create a resource.
 >
-> **[1:33](https://www.linkedin.com/learning/migrating-to-azure/migrating-sql-server?u=76281980&t=93)** Select Databases and then click Azure SQL managed instance.
+> **[1:33](https://www.linkedin.com/learning/migrating-to-azure/migrating-sql-server?u=76281980&t=93)** Select Databases and then click Azure [[SQL]] managed instance.
 >
 > **[1:38](https://www.linkedin.com/learning/migrating-to-azure/migrating-sql-server?u=76281980&t=98)** The first thing we need to do here is select a subscription and either sell it to an existing resource group or create a new one.
 >
@@ -1668,19 +1652,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (10), [[Databases]] (5), [[Microsoft Azure|Azure]] (4), database (4), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (10), [[Databases]] (5), [[Microsoft Azure|Azure]] (4), [[Microsoft]] (2), [[Virtual Machines]] (2)
 > **Env Vars:** sql (11)
 > **Prerequisites:** configure (3), install (2)
 > **UI Navigation:** select the (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Migrating data
-> [LinkedIn Learning](https://www.linkedin.com/learning/migrating-to-azure/migrating-data?u=76281980)
+#### [Migrating data](https://www.linkedin.com/learning/migrating-to-azure/migrating-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/migrating-to-azure/migrating-data?u=76281980&t=0)** - [Presenter] Okay, so we've looked at how we can create a SQL Server managed instance in Azure, and that will give us a platform to host our databases.
+> **[0:00](https://www.linkedin.com/learning/migrating-to-azure/migrating-data?u=76281980&t=0)** - [Presenter] Okay, so we've looked at how we can create a [[Microsoft SQL Server|SQL Server]] managed instance in [[Microsoft Azure|Azure]], and that will give us a platform to host our [[Databases]].
 >
 > **[0:08](https://www.linkedin.com/learning/migrating-to-azure/migrating-data?u=76281980&t=8)** But what about the data?
 >
@@ -1692,7 +1675,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/migrating-to-azure/migrating-data?u=76281980&t=24)** There are accounting records, invoices, purchase orders, that sort of thing.
 >
-> **[0:30](https://www.linkedin.com/learning/migrating-to-azure/migrating-data?u=76281980&t=30)** There's all the user documents for every individual user account, word documents, images, spreadsheets.
+> **[0:30](https://www.linkedin.com/learning/migrating-to-azure/migrating-data?u=76281980&t=30)** There's all the user documents for every individual user account, [[Microsoft Word|word]] documents, images, spreadsheets.
 >
 > **[0:37](https://www.linkedin.com/learning/migrating-to-azure/migrating-data?u=76281980&t=37)** We then have our production files that feed into our production software.
 >
@@ -1724,9 +1707,9 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/migrating-to-azure/migrating-data?u=76281980&t=110)** Data Box isn't actually a single product, as such.
 >
-> **[1:53](https://www.linkedin.com/learning/migrating-to-azure/migrating-data?u=76281980&t=113)** There are several different Data Box products that you can choose from depending on your needs, and they fall into two categories, online and offline.
+> **[1:53](https://www.linkedin.com/learning/migrating-to-azure/migrating-data?u=76281980&t=113)** There are several different Data Box [[Microsoft Products|products]] that you can choose from depending on your needs, and they fall into two categories, online and offline.
 >
-> **[2:04](https://www.linkedin.com/learning/migrating-to-azure/migrating-data?u=76281980&t=124)** The offline Data Box products are physical devices that Microsoft actually ship out to you.
+> **[2:04](https://www.linkedin.com/learning/migrating-to-azure/migrating-data?u=76281980&t=124)** The offline Data Box products are physical devices that [[Microsoft]] actually ship out to you.
 >
 > **[2:11](https://www.linkedin.com/learning/migrating-to-azure/migrating-data?u=76281980&t=131)** You load your data onto these encrypted drives, and then ship them back to Microsoft where they connect them to the cloud and upload the data.
 >
@@ -1762,14 +1745,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (30), [[Microsoft Azure|Azure]] (15), cloud (4), [[Microsoft]] (3), product (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (15), [[Microsoft]] (3), [[Microsoft Products|Products]] (2), [[Microsoft SQL Server|Sql server]] (1), [[Databases]] (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Env Vars:** sql (1), nfs (1), smb (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [presenter] (1)
 
-#### Migration best practces
-> [LinkedIn Learning](https://www.linkedin.com/learning/migrating-to-azure/migration-best-practces?u=76281980)
+#### [Migration best practces](https://www.linkedin.com/learning/migrating-to-azure/migration-best-practces?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1777,11 +1759,11 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/migrating-to-azure/migration-best-practces?u=76281980&t=3)** What things do you need to be doing to ensure speedy and effective migration?
 >
-> **[0:08](https://www.linkedin.com/learning/migrating-to-azure/migration-best-practces?u=76281980&t=8)** Well, let's start by talking about virtual machines.
+> **[0:08](https://www.linkedin.com/learning/migrating-to-azure/migration-best-practces?u=76281980&t=8)** Well, let's start by talking about [[Virtual Machines]].
 >
 > **[0:12](https://www.linkedin.com/learning/migrating-to-azure/migration-best-practces?u=76281980&t=12)** Many companies use VMware for hosting and managing their virtual machines.
 >
-> **[0:16](https://www.linkedin.com/learning/migrating-to-azure/migration-best-practces?u=76281980&t=16)** And if that's the case for your company, that Microsoft recommends you migrate the entire VMware host to Azure.
+> **[0:16](https://www.linkedin.com/learning/migrating-to-azure/migration-best-practces?u=76281980&t=16)** And if that's the case for your company, that [[Microsoft]] recommends you migrate the entire VMware host to [[Microsoft Azure|Azure]].
 >
 > **[0:24](https://www.linkedin.com/learning/migrating-to-azure/migration-best-practces?u=76281980&t=24)** This can really accelerate the migration process because every VMware host that you migrate to Azure can move several workloads.
 >
@@ -1791,7 +1773,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/migrating-to-azure/migration-best-practces?u=76281980&t=44)** Database instances should also be a priority.
 >
-> **[0:48](https://www.linkedin.com/learning/migrating-to-azure/migration-best-practces?u=76281980&t=48)** Moving the entire database instance, be that SQL server, Oracle, MySQL, will also move the databases that those instances serve.
+> **[0:48](https://www.linkedin.com/learning/migrating-to-azure/migration-best-practces?u=76281980&t=48)** Moving the entire database instance, be that [[Microsoft SQL Server|SQL server]], Oracle, [[MySQL]], will also move the [[Databases]] that those instances serve.
 >
 > **[0:58](https://www.linkedin.com/learning/migrating-to-azure/migration-best-practces?u=76281980&t=58)** Moving these instances will accelerate the migration of those workloads and services that those databases support.
 >
@@ -1835,7 +1817,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/migrating-to-azure/migration-best-practces?u=76281980&t=155)** And first up is IP addresses.
 >
-> **[2:37](https://www.linkedin.com/learning/migrating-to-azure/migration-best-practces?u=76281980&t=157)** You need to plan your IP addressing.
+> **[2:37](https://www.linkedin.com/learning/migrating-to-azure/migration-best-practces?u=76281980&t=157)** You need to plan your [[IP Addressing]].
 >
 > **[2:40](https://www.linkedin.com/learning/migrating-to-azure/migration-best-practces?u=76281980&t=160)** And it's very important that the virtual network address space doesn't overlap with any on-premise network address range.
 >
@@ -1861,7 +1843,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Microsoft Azure|Azure]] (5), [[Virtual Machines]] (3), [[Databases]] (3), database (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Virtual Machines]] (3), [[Databases]] (3), [[Microsoft]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **CLI Commands:** mysql (1), make (1)
 > **Analogies:** just like (1), such as (1)
 > **Best Practices:** best practice (2)
@@ -1875,8 +1857,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Start innovating
-> [LinkedIn Learning](https://www.linkedin.com/learning/migrating-to-azure/start-innovating?u=76281980)
+#### [Start innovating](https://www.linkedin.com/learning/migrating-to-azure/start-innovating?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1886,7 +1867,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/migrating-to-azure/start-innovating?u=76281980&t=10)** Now, we can look at the final stage, innovation.
 >
-> **[0:15](https://www.linkedin.com/learning/migrating-to-azure/start-innovating?u=76281980&t=15)** Once you've migrated your resources into Azure, the next ongoing process is to innovate.
+> **[0:15](https://www.linkedin.com/learning/migrating-to-azure/start-innovating?u=76281980&t=15)** Once you've migrated your resources into [[Microsoft Azure|Azure]], the next ongoing process is to innovate.
 >
 > **[0:24](https://www.linkedin.com/learning/migrating-to-azure/start-innovating?u=76281980&t=24)** That is to unlock new business opportunities, and expand your capabilities by leveraging the advanced features of the Azure platform.
 >
@@ -1908,7 +1889,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/migrating-to-azure/start-innovating?u=76281980&t=79)** Now at the moment, that data is hard to access.
 >
-> **[1:22](https://www.linkedin.com/learning/migrating-to-azure/start-innovating?u=76281980&t=82)** Buried away in databases, in a format that's hard to understand.
+> **[1:22](https://www.linkedin.com/learning/migrating-to-azure/start-innovating?u=76281980&t=82)** Buried away in [[Databases]], in a format that's hard to understand.
 >
 > **[1:27](https://www.linkedin.com/learning/migrating-to-azure/start-innovating?u=76281980&t=87)** If you could somehow surface that data in an easily understandable way, that non-technical people could easily access, then they could use that data to drive business decisions.
 >
@@ -1922,7 +1903,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/migrating-to-azure/start-innovating?u=76281980&t=125)** It's serverless, code free, and requires no infrastructure setup or management.
 >
-> **[2:11](https://www.linkedin.com/learning/migrating-to-azure/start-innovating?u=76281980&t=131)** There are also services like Time Series Insights, Power BI, and the various different database technologies available like Cosmos DB and Data Warehouse.
+> **[2:11](https://www.linkedin.com/learning/migrating-to-azure/start-innovating?u=76281980&t=131)** There are also services like Time Series Insights, [[Microsoft Power BI|Power BI]], and the various different database technologies available like Cosmos DB and Data Warehouse.
 >
 > **[2:22](https://www.linkedin.com/learning/migrating-to-azure/start-innovating?u=76281980&t=142)** Next up we have Applications.
 >
@@ -1932,13 +1913,13 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/migrating-to-azure/start-innovating?u=76281980&t=166)** Now that could be using something like Azure App Service.
 >
-> **[2:49](https://www.linkedin.com/learning/migrating-to-azure/start-innovating?u=76281980&t=169)** App Service is a platform as a service hosting environment for your applications, so no infrastructure to manage, and no operating system to maintain.
+> **[2:49](https://www.linkedin.com/learning/migrating-to-azure/start-innovating?u=76281980&t=169)** App Service is a [[PaaS|platform as a service]] hosting environment for your applications, so no infrastructure to manage, and no operating system to maintain.
 >
 > **[2:58](https://www.linkedin.com/learning/migrating-to-azure/start-innovating?u=76281980&t=178)** It can also automatically scale to meet the demands of your users.
 >
 > **[3:03](https://www.linkedin.com/learning/migrating-to-azure/start-innovating?u=76281980&t=183)** You could incorporate Azure Cognitive Services into your app.
 >
-> **[3:07](https://www.linkedin.com/learning/migrating-to-azure/start-innovating?u=76281980&t=187)** Azure Cognitive Services is a set of advanced APIs that uses Microsoft supported artificial intelligence and machine learning algorithms to offer advanced features such as translation, content moderation, speech recognition and computer vision.
+> **[3:07](https://www.linkedin.com/learning/migrating-to-azure/start-innovating?u=76281980&t=187)** Azure Cognitive Services is a set of advanced APIs that uses [[Microsoft]] supported [[Artificial Intelligence (AI)|artificial intelligence]] and machine learning [[Algorithms]] to offer advanced features such as translation, content moderation, [[Speech Recognition]] and [[Computer Vision]].
 >
 > **[3:25](https://www.linkedin.com/learning/migrating-to-azure/start-innovating?u=76281980&t=205)** Adding advanced features in your app like this can greatly increase customer engagement, and opens up a lot of new opportunities.
 >
@@ -1972,19 +1953,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), [[Microsoft Azure|Azure]] (13), [[Artificial Intelligence (AI)|Artificial intelligence]] (5), business (4), next (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (13), [[Artificial Intelligence (AI)|Artificial intelligence]] (5), [[Databases]] (1), [[Microsoft Power BI|Power bi]] (1), [[PaaS|Platform as a service]] (1)
 > **Definitions:** is a  (4), we call this (1), is an  (1)
 > **Analogies:** such as (4), imagine (1)
 > **Prerequisites:** set up (1), setup (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introducing PaaS
-> [LinkedIn Learning](https://www.linkedin.com/learning/migrating-to-azure/introducing-paas?u=76281980)
+#### [Introducing PaaS](https://www.linkedin.com/learning/migrating-to-azure/introducing-paas?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/migrating-to-azure/introducing-paas?u=76281980&t=0)** - [Instructor] Okay, so let's look now at platform as a service.
+> **[0:00](https://www.linkedin.com/learning/migrating-to-azure/introducing-paas?u=76281980&t=0)** - [Instructor] Okay, so let's look now at [[PaaS|platform as a service]].
 >
 > **[0:04](https://www.linkedin.com/learning/migrating-to-azure/introducing-paas?u=76281980&t=4)** Platform as a service will be critical to any efforts you make to innovate in the cloud.
 >
@@ -1996,19 +1976,19 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/migrating-to-azure/introducing-paas?u=76281980&t=26)** With platform as a service, you purchase the resources you need on a pay-as-you-go basis, only paying for the resources you need when you use them.
 >
-> **[0:36](https://www.linkedin.com/learning/migrating-to-azure/introducing-paas?u=76281980&t=36)** Just like infrastructure as a service, platform as a service includes all of the infrastructure that you need.
+> **[0:36](https://www.linkedin.com/learning/migrating-to-azure/introducing-paas?u=76281980&t=36)** Just like [[IaaS|infrastructure as a service]], platform as a service includes all of the infrastructure that you need.
 >
 > **[0:42](https://www.linkedin.com/learning/migrating-to-azure/introducing-paas?u=76281980&t=42)** That is the networking and storage that's provisioned in the data center.
 >
-> **[0:47](https://www.linkedin.com/learning/migrating-to-azure/introducing-paas?u=76281980&t=47)** As well as this, it includes all the middleware such as development tools, databases, management systems, and much more.
+> **[0:47](https://www.linkedin.com/learning/migrating-to-azure/introducing-paas?u=76281980&t=47)** As well as this, it includes all the middleware such as development tools, [[Databases]], management systems, and much more.
 >
-> **[0:53](https://www.linkedin.com/learning/migrating-to-azure/introducing-paas?u=76281980&t=53)** It's designed to support the complete application development lifecycle, supporting you with building testing, deploying, managing, and updating your applications.
+> **[0:53](https://www.linkedin.com/learning/migrating-to-azure/introducing-paas?u=76281980&t=53)** It's designed to support the complete [[Application Development]] lifecycle, supporting you with building testing, deploying, managing, and updating your applications.
 >
 > **[1:04](https://www.linkedin.com/learning/migrating-to-azure/introducing-paas?u=76281980&t=64)** There are no software licenses to deal with.
 >
 > **[1:07](https://www.linkedin.com/learning/migrating-to-azure/introducing-paas?u=76281980&t=67)** All you need to do is manage the applications and services that you develop.
 >
-> **[1:11](https://www.linkedin.com/learning/migrating-to-azure/introducing-paas?u=76281980&t=71)** And Azure takes care of everything else.
+> **[1:11](https://www.linkedin.com/learning/migrating-to-azure/introducing-paas?u=76281980&t=71)** And [[Microsoft Azure|Azure]] takes care of everything else.
 >
 > **[1:14](https://www.linkedin.com/learning/migrating-to-azure/introducing-paas?u=76281980&t=74)** Platform as a service has many advantages over a traditional infrastructure as a service approach.
 >
@@ -2020,7 +2000,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/migrating-to-azure/introducing-paas?u=76281980&t=104)** It's also much easier to build applications that target multiple platforms, including web, mobile, and desktop, again, making it easier to engage with customers.
 >
-> **[1:56](https://www.linkedin.com/learning/migrating-to-azure/introducing-paas?u=76281980&t=116)** Another great benefit of platform as a service is that it gives you access to advanced, sophisticated tools such as machine learning and business intelligence that could well be unaffordable if you were to try and purchase them or license them outright.
+> **[1:56](https://www.linkedin.com/learning/migrating-to-azure/introducing-paas?u=76281980&t=116)** Another great benefit of platform as a service is that it gives you access to advanced, sophisticated tools such as machine learning and [[Business Intelligence (BI)|business intelligence]] that could well be unaffordable if you were to try and purchase them or license them outright.
 >
 > **[2:11](https://www.linkedin.com/learning/migrating-to-azure/introducing-paas?u=76281980&t=131)** It's also much easier to build highly scalable and resilient applications.
 >
@@ -2030,21 +2010,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PaaS|Platform as a service]] (9), cloud (3), [[IaaS|Infrastructure as a service]] (2), application (1), data (1)
+> **Frameworks & Libraries:** [[PaaS|Platform as a service]] (9), [[IaaS|Infrastructure as a service]] (2), [[Databases]] (1), [[Application Development]] (1), [[Microsoft Azure|Azure]] (1)
 > **Analogies:** such as (3), just like (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introducing App Service
-> [LinkedIn Learning](https://www.linkedin.com/learning/migrating-to-azure/introducing-app-service?u=76281980)
+#### [Introducing App Service](https://www.linkedin.com/learning/migrating-to-azure/introducing-app-service?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/migrating-to-azure/introducing-app-service?u=76281980&t=0)** - [Instructor] In Azure, the first platform is a service product that you'll probably come across is App Service.
+> **[0:00](https://www.linkedin.com/learning/migrating-to-azure/introducing-app-service?u=76281980&t=0)** - [Instructor] In [[Microsoft Azure|Azure]], the first platform is a service product that you'll probably come across is App Service.
 >
 > **[0:06](https://www.linkedin.com/learning/migrating-to-azure/introducing-app-service?u=76281980&t=6)** App Service is a fully managed service for building and deploying web applications and API.
 >
-> **[0:13](https://www.linkedin.com/learning/migrating-to-azure/introducing-app-service?u=76281980&t=13)** It supports a variety of languages and technologies including dot net, dot net core, node JS, Java, Python and PHP and it can even work with containers.
+> **[0:13](https://www.linkedin.com/learning/migrating-to-azure/introducing-app-service?u=76281980&t=13)** It supports a variety of languages and technologies including dot net, dot net core, node JS, [[Java]], [[Python (Programming Language)|Python]] and [[PHP]] and it can even work with containers.
 >
 > **[0:25](https://www.linkedin.com/learning/migrating-to-azure/introducing-app-service?u=76281980&t=25)** Let's head over to the Azure portal and look at how we can deploy the H Plus Sport website to Azure App Service.
 >
@@ -2068,7 +2047,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/migrating-to-azure/introducing-app-service?u=76281980&t=88)** I'm going to select dot net.
 >
-> **[1:31](https://www.linkedin.com/learning/migrating-to-azure/introducing-app-service?u=76281980&t=91)** Now, depending on your application you can have either a Windows environment or a Linux environment.
+> **[1:31](https://www.linkedin.com/learning/migrating-to-azure/introducing-app-service?u=76281980&t=91)** Now, depending on your application you can have either a [[Windows]] environment or a [[Linux]] environment.
 >
 > **[1:38](https://www.linkedin.com/learning/migrating-to-azure/introducing-app-service?u=76281980&t=98)** Next select a region and finally configure your App Service plan.
 >
@@ -2090,7 +2069,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/migrating-to-azure/introducing-app-service?u=76281980&t=158)** We can also use the deployment center here to publish from a range of different services.
 >
-> **[2:44](https://www.linkedin.com/learning/migrating-to-azure/introducing-app-service?u=76281980&t=164)** There are all the usual services like GitHub and Azure Repos but also some you might not expect like OneDrive and Dropbox.
+> **[2:44](https://www.linkedin.com/learning/migrating-to-azure/introducing-app-service?u=76281980&t=164)** There are all the usual services like [[GitHub]] and Azure Repos but also some you might not expect like [[Microsoft OneDrive|OneDrive]] and Dropbox.
 >
 > **[2:53](https://www.linkedin.com/learning/migrating-to-azure/introducing-app-service?u=76281980&t=173)** Let me show you how easy it is to publish your website from Dropbox.
 >
@@ -2124,7 +2103,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), node (2), [[Java]] (2), next (2), traffic (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Java]] (2), [[Python (Programming Language)|Python]] (1), [[PHP]] (1), [[Windows]] (1)
 > **CLI Commands:** node (2), docker (2), make (2), python (1), php (1)
 > **Tools:** azure portal (2), visual studio (2), github (1)
 > **Env Vars:** api (1), php (1), cpu (1)
@@ -2133,8 +2112,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (2)
 > **Cross-References:** go back to (1)
 
-#### Going serverless
-> [LinkedIn Learning](https://www.linkedin.com/learning/migrating-to-azure/going-serverless?u=76281980)
+#### [Going serverless](https://www.linkedin.com/learning/migrating-to-azure/going-serverless?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2148,13 +2126,13 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/migrating-to-azure/going-serverless?u=76281980&t=15)** In fact there are probably thousands of them but not that you need to worry about any of that.
 >
-> **[0:21](https://www.linkedin.com/learning/migrating-to-azure/going-serverless?u=76281980&t=21)** With serverless computing you don't worry about infrastructure or resources at all.
+> **[0:21](https://www.linkedin.com/learning/migrating-to-azure/going-serverless?u=76281980&t=21)** With [[Serverless Computing]] you don't worry about infrastructure or resources at all.
 >
 > **[0:26](https://www.linkedin.com/learning/migrating-to-azure/going-serverless?u=76281980&t=26)** In fact all you do is write the code that has to be executed.
 >
 > **[0:30](https://www.linkedin.com/learning/migrating-to-azure/going-serverless?u=76281980&t=30)** Consider this example.
 >
-> **[0:32](https://www.linkedin.com/learning/migrating-to-azure/going-serverless?u=76281980&t=32)** On the website customers can write reviews sharing their experiences with our great products.
+> **[0:32](https://www.linkedin.com/learning/migrating-to-azure/going-serverless?u=76281980&t=32)** On the website customers can write reviews sharing their experiences with our great [[Microsoft Products|products]].
 >
 > **[0:39](https://www.linkedin.com/learning/migrating-to-azure/going-serverless?u=76281980&t=39)** Now, currently the marketing team have to manually moderate these reviews which takes considerable time.
 >
@@ -2164,7 +2142,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/migrating-to-azure/going-serverless?u=76281980&t=58)** As reviews are added, they're placed on a queue and any images associated or dropped into blob storage.
 >
-> **[1:06](https://www.linkedin.com/learning/migrating-to-azure/going-serverless?u=76281980&t=66)** The function app starts when a new review is added to the queue and it invokes the content moderation and computer vision APIs which are part of Azure cognitive services.
+> **[1:06](https://www.linkedin.com/learning/migrating-to-azure/going-serverless?u=76281980&t=66)** The function app starts when a new review is added to the queue and it invokes the content moderation and [[Computer Vision]] APIs which are part of [[Microsoft Azure|Azure]] cognitive services.
 >
 > **[1:18](https://www.linkedin.com/learning/migrating-to-azure/going-serverless?u=76281980&t=78)** These are used to moderate the review and once complete, the review is added to cosmos DB, the website then retrieves moderated reviews from cosmos DB.
 >
@@ -2244,7 +2222,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), web (2), [[Serverless Computing]] (1), [[Microsoft Products|Products]] (1), [[Computer Vision]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Serverless Computing]] (1), [[Microsoft Products|Products]] (1), [[Computer Vision]] (1)
 > **Env Vars:** http (2)
 > **UI Navigation:** go to (1), click on (1)
 > **Definitions:** means that (1), is a  (1)
@@ -2253,12 +2231,11 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Prerequisites:** required to (1)
 
-#### Artificial intelligence
-> [LinkedIn Learning](https://www.linkedin.com/learning/migrating-to-azure/artificial-intelligence?u=76281980)
+#### [Artificial intelligence](https://www.linkedin.com/learning/migrating-to-azure/artificial-intelligence?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/migrating-to-azure/artificial-intelligence?u=76281980&t=0)** - [Instructor] So now I want to talk about artificial intelligence.
+> **[0:00](https://www.linkedin.com/learning/migrating-to-azure/artificial-intelligence?u=76281980&t=0)** - [Instructor] So now I want to talk about [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[0:04](https://www.linkedin.com/learning/migrating-to-azure/artificial-intelligence?u=76281980&t=4)** Artificial intelligence or AI is an area of technology that enables computers to simulate human behavior.
 >
@@ -2280,7 +2257,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/migrating-to-azure/artificial-intelligence?u=76281980&t=56)** It's in your car, maybe even your vacuum cleaner.
 >
-> **[1:00](https://www.linkedin.com/learning/migrating-to-azure/artificial-intelligence?u=76281980&t=60)** For companies like H Plus, machine learning can be used for all sorts of things such as predicting future trends, inventory management, forecasting demand, and sales forecasting.
+> **[1:00](https://www.linkedin.com/learning/migrating-to-azure/artificial-intelligence?u=76281980&t=60)** For companies like H Plus, machine learning can be used for all sorts of things such as predicting future trends, inventory management, [[Forecasting]] demand, and sales forecasting.
 >
 > **[1:16](https://www.linkedin.com/learning/migrating-to-azure/artificial-intelligence?u=76281980&t=76)** Now, machine learning is a complex area of computer science so we're not going to be getting bogged down in the technical here but let's look at a high-level view of how machine learning works.
 >
@@ -2302,11 +2279,11 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/migrating-to-azure/artificial-intelligence?u=76281980&t=127)** And how you do this will depend very much on your application.
 >
-> **[2:11](https://www.linkedin.com/learning/migrating-to-azure/artificial-intelligence?u=76281980&t=131)** So Azure provides a range of products to allow you to work with artificial intelligence and machine learning, the main one being Azure Machine Learning.
+> **[2:11](https://www.linkedin.com/learning/migrating-to-azure/artificial-intelligence?u=76281980&t=131)** So [[Microsoft Azure|Azure]] provides a range of [[Microsoft Products|products]] to allow you to work with artificial intelligence and machine learning, the main one being Azure Machine Learning.
 >
 > **[2:21](https://www.linkedin.com/learning/migrating-to-azure/artificial-intelligence?u=76281980&t=141)** Azure Machine Learning is a powerful enterprise-ready machine learning platform and it gives you everything you need to work with machine learning.
 >
-> **[2:30](https://www.linkedin.com/learning/migrating-to-azure/artificial-intelligence?u=76281980&t=150)** You can use a range of languages and tools to design and build your models, including Python, R, and Visual Studio.
+> **[2:30](https://www.linkedin.com/learning/migrating-to-azure/artificial-intelligence?u=76281980&t=150)** You can use a range of languages and tools to design and build your models, including [[Python (Programming Language)|Python]], R, and Visual Studio.
 >
 > **[2:39](https://www.linkedin.com/learning/migrating-to-azure/artificial-intelligence?u=76281980&t=159)** Now, you may be thinking that this is something that's only good for data scientists but that's not the case.
 >
@@ -2314,7 +2291,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/migrating-to-azure/artificial-intelligence?u=76281980&t=171)** Beginners can use the Azure Machine Learning Designer for an effortless drag-and-drop experience.
 >
-> **[2:56](https://www.linkedin.com/learning/migrating-to-azure/artificial-intelligence?u=76281980&t=176)** And automated machine learning is designed so that anyone can easily build highly accurate machine learning models.
+> **[2:56](https://www.linkedin.com/learning/migrating-to-azure/artificial-intelligence?u=76281980&t=176)** And [[Automated Machine Learning (AutoML)|automated machine learning]] is designed so that anyone can easily build highly accurate machine learning models.
 >
 > **[3:04](https://www.linkedin.com/learning/migrating-to-azure/artificial-intelligence?u=76281980&t=184)** Now, don't get me wrong.
 >
@@ -2324,25 +2301,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Azure|Azure]] (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (4), [[Forecasting]] (2), ai (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (4), [[Forecasting]] (2), [[Microsoft Products|Products]] (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (1), python (1)
 > **Tools:** visual studio (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Automating repetitive tasks
-> [LinkedIn Learning](https://www.linkedin.com/learning/migrating-to-azure/automating-repetitive-tasks?u=76281980)
+#### [Automating repetitive tasks](https://www.linkedin.com/learning/migrating-to-azure/automating-repetitive-tasks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/migrating-to-azure/automating-repetitive-tasks?u=76281980&t=0)** - [Instructor] The Azure power platform is a set of tools that enables you to quickly build applications, analyze data, automate processes and build virtual agents all without writing code.
+> **[0:00](https://www.linkedin.com/learning/migrating-to-azure/automating-repetitive-tasks?u=76281980&t=0)** - [Instructor] The [[Microsoft Azure|Azure]] power platform is a set of tools that enables you to quickly build applications, analyze data, automate processes and build virtual agents all without writing code.
 >
 > **[0:14](https://www.linkedin.com/learning/migrating-to-azure/automating-repetitive-tasks?u=76281980&t=14)** The apps and services you build with power platform can even be connected to Azure services as well as hundreds of other apps enabling you to build really powerful tools in no time at all.
 >
 > **[0:27](https://www.linkedin.com/learning/migrating-to-azure/automating-repetitive-tasks?u=76281980&t=27)** There are four main tools within the power platform.
 >
-> **[0:30](https://www.linkedin.com/learning/migrating-to-azure/automating-repetitive-tasks?u=76281980&t=30)** Power BI is a self-service data analytics solution that lets you build powerful visualizations of your data and share those across your organization or embed them in your application or website.
+> **[0:30](https://www.linkedin.com/learning/migrating-to-azure/automating-repetitive-tasks?u=76281980&t=30)** [[Microsoft Power BI|Power BI]] is a self-service data analytics solution that lets you build powerful visualizations of your data and share those across your organization or embed them in your application or website.
 >
 > **[0:46](https://www.linkedin.com/learning/migrating-to-azure/automating-repetitive-tasks?u=76281980&t=46)** It's a great way of unlocking insights into your company's data.
 >
@@ -2354,7 +2330,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/migrating-to-azure/automating-repetitive-tasks?u=76281980&t=84)** Power Virtual Agents enable you to create intelligent no code chat bots which you can easily embed in your website.
 >
-> **[1:33](https://www.linkedin.com/learning/migrating-to-azure/automating-repetitive-tasks?u=76281980&t=93)** You can also integrate these with existing services by calling customer workflows, using Power Automate as well as being able to extend them further using the Microsoft bot framework.
+> **[1:33](https://www.linkedin.com/learning/migrating-to-azure/automating-repetitive-tasks?u=76281980&t=93)** You can also integrate these with existing services by calling customer workflows, using Power Automate as well as being able to extend them further using the [[Microsoft]] bot framework.
 >
 > **[1:44](https://www.linkedin.com/learning/migrating-to-azure/automating-repetitive-tasks?u=76281980&t=104)** Visit the Power Apps website for more information on these services.
 >
@@ -2436,7 +2412,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (13), [[Microsoft Azure|Azure]] (10), data (5), cloud (3), [[Automation]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), [[Microsoft Power BI|Power bi]] (1), [[Microsoft]] (1)
 > **Definitions:** is a  (3)
 > **Cross-References:** we covered (1), we talked about (1)
 > **Analogies:** such as (2)

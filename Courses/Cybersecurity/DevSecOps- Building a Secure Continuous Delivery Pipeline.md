@@ -86,8 +86,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Securing your CI/CD pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/securing-your-ci-cd-pipeline?u=76281980)
+#### [Securing your CI/CD pipeline](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/securing-your-ci-cd-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -97,13 +96,13 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/securing-your-ci-cd-pipeline?u=76281980&t=13)** Hi, I'm James Wickett, and I'm the Head of Research at Signal Sciences.
 >
-> **[0:17](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/securing-your-ci-cd-pipeline?u=76281980&t=17)** I help software delivery teams defend web applications, microservices, and APIs in production from the real attacks they actually face.
+> **[0:17](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/securing-your-ci-cd-pipeline?u=76281980&t=17)** I help software delivery teams defend web applications, [[Microservices]], and APIs in production from the real attacks they actually face.
 >
 > **[0:25](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/securing-your-ci-cd-pipeline?u=76281980&t=25)** The possibility of providing more secure software at a way faster rate than ever really excites me.
 >
-> **[0:32](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/securing-your-ci-cd-pipeline?u=76281980&t=32)** In this course, we survey the continuous delivery pipeline through the lens of security and break it up into five key stages, Develop, Inherit, Build, Deploy, and Operate.
+> **[0:32](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/securing-your-ci-cd-pipeline?u=76281980&t=32)** In this course, we survey the [[Continuous Delivery (CD)|continuous delivery]] pipeline through the lens of security and break it up into five key stages, Develop, Inherit, Build, Deploy, and Operate.
 >
-> **[0:45](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/securing-your-ci-cd-pipeline?u=76281980&t=45)** In each of these stages, we'll look for practices and tools that can fit into a DevSecOps Toolchain approach and implement security across the entire breadth of the continuous delivery pipeline.
+> **[0:45](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/securing-your-ci-cd-pipeline?u=76281980&t=45)** In each of these stages, we'll look for practices and tools that can fit into a [[DevSecOps]] Toolchain approach and implement security across the entire breadth of the continuous delivery pipeline.
 >
 > **[0:56](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/securing-your-ci-cd-pipeline?u=76281980&t=56)** Don't worry if you don't have much experience as a developer or you feel you aren't enough of a security expert.
 >
@@ -113,21 +112,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), [[Continuous Delivery (CD)|Continuous delivery]] (2), teams (1), web (1), [[Microservices]] (1)
+> **Frameworks & Libraries:** [[Continuous Delivery (CD)|Continuous delivery]] (2), [[Microservices]] (1), [[DevSecOps]] (1)
 > **Speakers:** - [james] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/what-you-should-know?u=76281980&t=0)** - [Instructor] To get the most out of this course, you'll want to have a basic understanding of how software is delivered in a DevOps or a DevSecOps context.
+> **[0:00](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/what-you-should-know?u=76281980&t=0)** - [Instructor] To get the most out of this course, you'll want to have a basic understanding of how software is delivered in a [[DevOps]] or a [[DevSecOps]] context.
 >
-> **[0:08](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/what-you-should-know?u=76281980&t=8)** In this course, we use Docker, Git, and work a lot on the command line.
+> **[0:08](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/what-you-should-know?u=76281980&t=8)** In this course, we use Docker, [[Git]], and work a lot on the command line.
 >
 > **[0:12](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/what-you-should-know?u=76281980&t=12)** Since this course serves as an overview rather than a step-by-step walkthrough, you don't have to be a pro at this, however, some familiarity with these concepts will be helpful for you.
 >
-> **[0:22](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/what-you-should-know?u=76281980&t=22)** It would also help to be familiar with continuous integration and continuous delivery practices, but we'll cover the basics throughout this course.
+> **[0:22](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/what-you-should-know?u=76281980&t=22)** It would also help to be familiar with [[Continuous Integration (CI)|continuous integration]] and [[Continuous Delivery (CD)|continuous delivery]] practices, but we'll cover the basics throughout this course.
 
 > [!info]- Semantic Content
 >
@@ -141,8 +139,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Traditional InfoSec is in crisis
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/traditional-infosec-is-in-crisis?u=76281980)
+#### [Traditional InfoSec is in crisis](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/traditional-infosec-is-in-crisis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -152,7 +149,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/traditional-infosec-is-in-crisis?u=76281980&t=11)** I say this because security has lost its identity and often doesn't seem relevant to the day-to-day business of an organization.
 >
-> **[0:18](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/traditional-infosec-is-in-crisis?u=76281980&t=18)** However, like many crisis situations, this can get better but before we dive into the remedy, DevSecOps, let's explore why security is at an inflection point in many organizations.
+> **[0:18](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/traditional-infosec-is-in-crisis?u=76281980&t=18)** However, like many crisis situations, this can get better but before we dive into the remedy, [[DevSecOps]], let's explore why security is at an inflection point in many organizations.
 >
 > **[0:32](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/traditional-infosec-is-in-crisis?u=76281980&t=32)** There are three major issues at play here.
 >
@@ -166,7 +163,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/traditional-infosec-is-in-crisis?u=76281980&t=58)** This means that the crisis has precipitated by an orders of magnitude staffing problem.
 >
-> **[1:04](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/traditional-infosec-is-in-crisis?u=76281980&t=64)** Operations developers attempted to solve their part of this problem back in 2009 when DevOps was originally coined and the movement was realized but now it's security's turn.
+> **[1:04](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/traditional-infosec-is-in-crisis?u=76281980&t=64)** Operations developers attempted to solve their part of this problem back in 2009 when [[DevOps]] was originally coined and the movement was realized but now it's security's turn.
 >
 > **[1:14](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/traditional-infosec-is-in-crisis?u=76281980&t=74)** Okay, the second issue is that security people are often seen as outsiders and not part of the teams delivering value.
 >
@@ -186,7 +183,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/traditional-infosec-is-in-crisis?u=76281980&t=123)** The final issue is security's roots.
 >
-> **[2:06](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/traditional-infosec-is-in-crisis?u=76281980&t=126)** It was born out of the Waterfall methodology for software development.
+> **[2:06](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/traditional-infosec-is-in-crisis?u=76281980&t=126)** It was born out of the Waterfall methodology for [[Software Development]].
 >
 > **[2:10](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/traditional-infosec-is-in-crisis?u=76281980&t=130)** Waterfall treats a project as a month's long series of linear tasks and security performs their tasks only at the very end.
 >
@@ -210,21 +207,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (19), business (2), [[DevSecOps]] (2), [[DevOps]] (2), teams (1)
+> **Frameworks & Libraries:** [[DevSecOps]] (2), [[DevOps]] (2), [[Software Development]] (1)
 > **Env Vars:** pci (1), isc (1), cssip (1)
 > **Definitions:** is an  (1), means that (1), is called (1)
 > **CLI Commands:** find (2)
 > **Ports:** :10 (2)
 > **Speakers:** - [instructor] (1)
 
-#### Introducing DevSecOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/introducing-devsecops?u=76281980)
+#### [Introducing DevSecOps](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/introducing-devsecops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/introducing-devsecops?u=76281980&t=0)** - [Instructor] Information security, as we know it, is struggling considerably to keep up with today's fast-paced DevOps world.
+> **[0:00](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/introducing-devsecops?u=76281980&t=0)** - [Instructor] Information security, as we know it, is struggling considerably to keep up with today's fast-paced [[DevOps]] world.
 >
-> **[0:07](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/introducing-devsecops?u=76281980&t=7)** DevSecOps is the way to approach that problem differently, and bring security to the DevOps party.
+> **[0:07](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/introducing-devsecops?u=76281980&t=7)** [[DevSecOps]] is the way to approach that problem differently, and bring security to the DevOps party.
 >
 > **[0:13](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/introducing-devsecops?u=76281980&t=13)** To start, let's lay out a definition of DevSecOps.
 >
@@ -236,7 +232,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/introducing-devsecops?u=76281980&t=30)** So to really understand DevSecOps, it's important to understand DevOps.
 >
-> **[0:37](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/introducing-devsecops?u=76281980&t=37)** If you're a student of software development, and haven't watched the DevOps Foundations courses here available in the library, then I recommend you do that.
+> **[0:37](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/introducing-devsecops?u=76281980&t=37)** If you're a student of [[Software Development]], and haven't watched the DevOps Foundations courses here available in the library, then I recommend you do that.
 >
 > **[0:46](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/introducing-devsecops?u=76281980&t=46)** In those courses, Ernest Mueller and I break down DevOps and its main areas of practice.
 >
@@ -266,7 +262,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/introducing-devsecops?u=76281980&t=131)** Security can really take a page out of the DevOps playbook and automate compliance standards and audit tasks.
 >
-> **[2:18](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/introducing-devsecops?u=76281980&t=138)** Many of the code scanners, penetration testing tools, and security tools can be automated.
+> **[2:18](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/introducing-devsecops?u=76281980&t=138)** Many of the code scanners, [[Penetration Testing]] tools, and security tools can be automated.
 >
 > **[2:23](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/introducing-devsecops?u=76281980&t=143)** Throughout the course, we'll show you how to do this across the entire pipeline.
 >
@@ -274,27 +270,26 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/introducing-devsecops?u=76281980&t=157)** As we go throughout the course, I'll show you examples of how to do just this.
 >
-> **[2:42](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/introducing-devsecops?u=76281980&t=162)** In fact, the major goal of the course is to evaluate tools for a DevSecOps tool chain, which can be used inside a continuous delivery pipeline.
+> **[2:42](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/introducing-devsecops?u=76281980&t=162)** In fact, the major goal of the course is to evaluate tools for a DevSecOps tool chain, which can be used inside a [[Continuous Delivery (CD)|continuous delivery]] pipeline.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (11), [[DevOps]] (11), [[DevSecOps]] (6), [[Software Development]] (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (11), [[DevSecOps]] (6), [[Software Development]] (1), [[Penetration Testing]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### The continuous delivery pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/the-continuous-delivery-pipeline?u=76281980)
+#### [The continuous delivery pipeline](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/the-continuous-delivery-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/the-continuous-delivery-pipeline?u=76281980&t=0)** - [Instructor] Before we jump straight in to adding security into our pipeline, let's review the pipeline stages.
 >
-> **[0:06](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/the-continuous-delivery-pipeline?u=76281980&t=6)** You'll hear people refer to this also as CI, continuous integration, or CD, continuous delivery, or sometimes jammed altogether as CICD pipeline.
+> **[0:06](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/the-continuous-delivery-pipeline?u=76281980&t=6)** You'll hear people refer to this also as CI, [[Continuous Integration (CI)|continuous integration]], or CD, [[Continuous Delivery (CD)|continuous delivery]], or sometimes jammed altogether as CICD pipeline.
 >
 > **[0:17](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/the-continuous-delivery-pipeline?u=76281980&t=17)** These can all mean separate things, but we're conflating them all here, just as you'll probably experience in the industry.
 >
-> **[0:24](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/the-continuous-delivery-pipeline?u=76281980&t=24)** If you're interested in a deeper look into the differences of these terms, as well as a deeper dive into the topics of continuous delivery and continuous integration, then I suggest checking out the course at DevOps Foundations: Continuous Delivery Continuous Integration.
+> **[0:24](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/the-continuous-delivery-pipeline?u=76281980&t=24)** If you're interested in a deeper look into the differences of these terms, as well as a deeper dive into the topics of continuous delivery and continuous integration, then I suggest checking out the course at [[DevOps]] Foundations: Continuous Delivery Continuous Integration.
 >
 > **[0:39](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/the-continuous-delivery-pipeline?u=76281980&t=39)** It's available right here in the library.
 >
@@ -312,7 +307,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/the-continuous-delivery-pipeline?u=76281980&t=72)** The develop stage is where the design and development of an application and its features happens.
 >
-> **[1:18](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/the-continuous-delivery-pipeline?u=76281980&t=78)** This includes all the development practices like version control, sprint planning and unit testing.
+> **[1:18](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/the-continuous-delivery-pipeline?u=76281980&t=78)** This includes all the development practices like [[Version Control]], sprint planning and [[Unit Testing]].
 >
 > **[1:25](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/the-continuous-delivery-pipeline?u=76281980&t=85)** Inherit is an often overlooked stage because it's the most invisible.
 >
@@ -340,20 +335,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[Security]] (3), [[Continuous Integration (CI)|Continuous integration]] (3), [[Continuous Delivery (CD)|Continuous delivery]] (3), ci (2)
+> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (3), [[Continuous Delivery (CD)|Continuous delivery]] (3), [[DevOps]] (1), [[Version Control]] (1), [[Unit Testing]] (1)
 > **CLI Commands:** cd (1)
 > **Env Vars:** cicd (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Goals for a DevSecOps toolchain approach
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/goals-for-a-devsecops-toolchain-approach?u=76281980)
+#### [Goals for a DevSecOps toolchain approach](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/goals-for-a-devsecops-toolchain-approach?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/goals-for-a-devsecops-toolchain-approach?u=76281980&t=0)** - [Instructor] This course is meant to help you build out a security toolchain that can work in a CI/CD pipeline.
 >
-> **[0:06](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/goals-for-a-devsecops-toolchain-approach?u=76281980&t=6)** We dealt this as a DevSecOps Toolchain approach.
+> **[0:06](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/goals-for-a-devsecops-toolchain-approach?u=76281980&t=6)** We dealt this as a [[DevSecOps]] Toolchain approach.
 >
 > **[0:10](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/goals-for-a-devsecops-toolchain-approach?u=76281980&t=10)** Now one quick note.
 >
@@ -377,7 +371,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/goals-for-a-devsecops-toolchain-approach?u=76281980&t=52)** You don't need a pipeline already established to use this course, but if that's your situation, try to find discrete steps and tools that you can fit together as you assemble the pipeline.
 >
-> **[1:02](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/goals-for-a-devsecops-toolchain-approach?u=76281980&t=62)** And check out that DevOps Foundation CI/CD course I mentioned earlier.
+> **[1:02](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/goals-for-a-devsecops-toolchain-approach?u=76281980&t=62)** And check out that [[DevOps]] Foundation CI/CD course I mentioned earlier.
 >
 > **[1:06](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/goals-for-a-devsecops-toolchain-approach?u=76281980&t=66)** So, what are the goals as we evaluate building a DevSecOps toolchain?
 >
@@ -425,7 +419,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ci (7), cd (7), [[Security]] (3), [[DevSecOps]] (2), [[DevOps]] (1)
+> **Frameworks & Libraries:** [[DevSecOps]] (2), [[DevOps]] (1)
 > **CLI Commands:** cd (7), find (2), apt (1)
 > **Definitions:** is a  (2), means that (1)
 > **Warnings:** note that (1), keep in mind (1), warning (1)
@@ -437,8 +431,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Secure development practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/secure-development-practices?u=76281980)
+#### [Secure development practices](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/secure-development-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -446,13 +439,13 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/secure-development-practices?u=76281980&t=2)** This is a really big topic as the develop stage encapsulates all the efforts from design to code commit.
 >
-> **[0:08](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/secure-development-practices?u=76281980&t=8)** In some organizations and products, this stage might consist of hundreds of developers working with a multitude of tools to complete this stage.
+> **[0:08](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/secure-development-practices?u=76281980&t=8)** In some organizations and [[Microsoft Products|products]], this stage might consist of hundreds of developers working with a multitude of tools to complete this stage.
 >
 > **[0:15](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/secure-development-practices?u=76281980&t=15)** For others, it might just be one or two people.
 >
 > **[0:18](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/secure-development-practices?u=76281980&t=18)** For our purposes, we're going to look at three key security practices in this stage of the pipeline.
 >
-> **[0:23](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/secure-development-practices?u=76281980&t=23)** They are threat modeling, development standards, and static code analysis.
+> **[0:23](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/secure-development-practices?u=76281980&t=23)** They are [[Threat Modeling]], development standards, and static code analysis.
 >
 > **[0:28](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/secure-development-practices?u=76281980&t=28)** We'll discuss these now and then we'll look at some tooling to address each one of these in following videos.
 >
@@ -462,7 +455,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/secure-development-practices?u=76281980&t=40)** This is often done by taking a data flow diagram and then mapping the elements using Stride.
 >
-> **[0:46](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/secure-development-practices?u=76281980&t=46)** Stride is a pneumonic developed by Microsoft.
+> **[0:46](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/secure-development-practices?u=76281980&t=46)** Stride is a pneumonic developed by [[Microsoft]].
 >
 > **[0:50](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/secure-development-practices?u=76281980&t=50)** In the process of threat modeling, you might ask, can this element or flow be spoofed?
 >
@@ -480,11 +473,11 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/secure-development-practices?u=76281980&t=77)** But it's a slow process that works best when the underlying model of the system doesn't change much.
 >
-> **[1:22](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/secure-development-practices?u=76281980&t=82)** This is definitely a problem in the modern landscape of [[Agile Software Development]] where everything changes all the time.
+> **[1:22](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/secure-development-practices?u=76281980&t=82)** This is definitely a problem in the modern landscape of [[[[Agile Software Development]]]] where everything changes all the time.
 >
-> **[1:28](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/secure-development-practices?u=76281980&t=88)** To address this, there's been a rise in threat modeling that works with agile development.
+> **[1:28](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/secure-development-practices?u=76281980&t=88)** To address this, there's been a rise in threat modeling that works with [[Agile Development|agile]] development.
 >
-> **[1:33](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/secure-development-practices?u=76281980&t=93)** There are a few approaches I recommend, the OWASP App Threat Modeling Cheat Sheet, the OWASP App Sec Verification Standard, and the Mozilla Rapid Risk Assessment.
+> **[1:33](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/secure-development-practices?u=76281980&t=93)** There are a few approaches I recommend, the [[OWASP]] App Threat Modeling Cheat Sheet, the OWASP App Sec Verification Standard, and the Mozilla Rapid Risk Assessment.
 >
 > **[1:44](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/secure-development-practices?u=76281980&t=104)** To see this in action, we'll take a deeper look at the Mozilla Rapid Risk Assessment in a later video.
 >
@@ -500,7 +493,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/secure-development-practices?u=76281980&t=136)** Security can fit in here too by specifying tools that look for secrets that have been accidentally put into the code.
 >
-> **[2:22](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/secure-development-practices?u=76281980&t=142)** Two great options are git-secrets and git-hound.
+> **[2:22](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/secure-development-practices?u=76281980&t=142)** Two great options are [[Git]]-secrets and git-hound.
 >
 > **[2:26](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/secure-development-practices?u=76281980&t=146)** We'll look at how to use git-secrets in an upcoming video.
 >
@@ -510,15 +503,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Threat Modeling]] (7), [[Git]] (3), [[Security]] (2), data (2), [[OWASP]] (2)
+> **Frameworks & Libraries:** [[Threat Modeling]] (7), [[Git]] (3), [[OWASP]] (2), [[Microsoft Products|Products]] (1), [[Microsoft]] (1)
 > **CLI Commands:** git (3)
 > **Env Vars:** owasp (2)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Static code analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/static-code-analysis?u=76281980)
+#### [Static code analysis](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/static-code-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -526,19 +518,19 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/static-code-analysis?u=76281980&t=5)** This is where you analyze code for vulnerabilities.
 >
-> **[0:08](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/static-code-analysis?u=76281980&t=8)** This is commonly done using a [[Static Application Security Testing]] tool, or SAST.
+> **[0:08](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/static-code-analysis?u=76281980&t=8)** This is commonly done using a [[Static [[Application Security]] Testing]] tool, or SAST.
 >
 > **[0:13](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/static-code-analysis?u=76281980&t=13)** The tools are able to do testing without actually running the code, which is why it's called static code analysis.
 >
-> **[0:20](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/static-code-analysis?u=76281980&t=20)** SAST tools use data flow models, control flow graphs, and taint analysis to determine whether there's a vulnerability in the code or not.
+> **[0:20](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/static-code-analysis?u=76281980&t=20)** SAST tools use data flow models, [[Control Flow]] graphs, and taint analysis to determine whether there's a vulnerability in the code or not.
 >
 > **[0:29](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/static-code-analysis?u=76281980&t=29)** There are a lot of options for static code analysis, but your choice of tool generally depends on the languages you're using.
 >
 > **[0:37](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/static-code-analysis?u=76281980&t=37)** If you're looking for an open-source option for Ruby, there's be Brakeman.
 >
-> **[0:41](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/static-code-analysis?u=76281980&t=41)** For PHP, there's Phan.
+> **[0:41](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/static-code-analysis?u=76281980&t=41)** For [[PHP]], there's Phan.
 >
-> **[0:43](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/static-code-analysis?u=76281980&t=43)** For Java Web Apps, there's Find Security Bugs.
+> **[0:43](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/static-code-analysis?u=76281980&t=43)** For [[Java]] Web Apps, there's Find Security Bugs.
 >
 > **[0:46](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/static-code-analysis?u=76281980&t=46)** Node has NodeJsScan.
 >
@@ -578,15 +570,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), open-source (2), application (1), data (1), [[Control Flow]] (1)
+> **Frameworks & Libraries:** [[Security Testing]] (1), [[Control Flow]] (1), [[PHP]] (1), [[Java]] (1)
 > **CLI Commands:** find (6), ruby (1), php (1), node (1)
 > **Env Vars:** sast (5), php (1), ide (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tool: Keeping secrets with git-secrets
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tool-keeping-secrets-with-git-secrets?u=76281980)
+#### [Tool: Keeping secrets with git-secrets](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tool-keeping-secrets-with-git-secrets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -594,15 +585,15 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tool-keeping-secrets-with-git-secrets?u=76281980&t=6)** One of these misconfigurations is credential leakage.
 >
-> **[0:09](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tool-keeping-secrets-with-git-secrets?u=76281980&t=9)** Did a Junior Developer put the password in the application, or did they put the AWS Access Keys in version control?
+> **[0:09](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tool-keeping-secrets-with-git-secrets?u=76281980&t=9)** Did a Junior Developer put the password in the application, or did they put the AWS Access Keys in [[Version Control]]?
 >
 > **[0:16](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tool-keeping-secrets-with-git-secrets?u=76281980&t=16)** You know, for testing?
 >
 > **[0:18](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tool-keeping-secrets-with-git-secrets?u=76281980&t=18)** Well, this sort of thing happens, but we can check for it with ease in a CICD pipeline.
 >
-> **[0:24](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tool-keeping-secrets-with-git-secrets?u=76281980&t=24)** To do this, we'll use Git Secrets.
+> **[0:24](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tool-keeping-secrets-with-git-secrets?u=76281980&t=24)** To do this, we'll use [[Git]] Secrets.
 >
-> **[0:28](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tool-keeping-secrets-with-git-secrets?u=76281980&t=28)** First let's fire up a browser, and head over to Git Secrets page at [Github.com/awslabs/git-secrets](https://Github.com/awslabs/git-secrets) Down in the read-me, we can see some example usage, as well as how to install it for Linux, Mac, and Windows.
+> **[0:28](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tool-keeping-secrets-with-git-secrets?u=76281980&t=28)** First let's fire up a browser, and head over to Git Secrets page at [[[GitHub]].com/awslabs/git-secrets](https://Github.com/awslabs/git-secrets) Down in the read-me, we can see some example usage, as well as how to install it for [[Linux]], Mac, and [[Windows]].
 >
 > **[0:44](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tool-keeping-secrets-with-git-secrets?u=76281980&t=44)** I've already installed this on my machine, but if you want to follow along, follow the installation instructions found here.
 >
@@ -616,7 +607,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tool-keeping-secrets-with-git-secrets?u=76281980&t=63)** First we need to clone the repo so we can work with the local copy.
 >
-> **[1:08](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tool-keeping-secrets-with-git-secrets?u=76281980&t=68)** So here I am in a terminal, and I'm typing git clone https colon, slash, slash [github.com](https://github.com) slash wickett slash word dash cloud dash generator dot git.
+> **[1:08](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tool-keeping-secrets-with-git-secrets?u=76281980&t=68)** So here I am in a terminal, and I'm typing git clone https colon, slash, slash [github.com](https://github.com) slash wickett slash [[Microsoft Word|word]] dash cloud dash generator dot git.
 >
 > **[1:28](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tool-keeping-secrets-with-git-secrets?u=76281980&t=88)** Okay great.
 >
@@ -654,7 +645,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tool-keeping-secrets-with-git-secrets?u=76281980&t=161)** Which returns the exit code of the last process.
 >
-> **[2:44](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tool-keeping-secrets-with-git-secrets?u=76281980&t=164)** Because of this, git secrets is perfect for Jenkins, or a CI system as most of those systems will stop a build on a non zero exit code.
+> **[2:44](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tool-keeping-secrets-with-git-secrets?u=76281980&t=164)** Because of this, git secrets is perfect for [[Jenkins]], or a CI system as most of those systems will stop a build on a non zero exit code.
 >
 > **[2:52](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tool-keeping-secrets-with-git-secrets?u=76281980&t=172)** Okay, let's scrap all this and remove all these keys from our read-me.
 >
@@ -694,7 +685,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (20), aws (4), [[Version Control]] (4), [[GitHub]] (2), application (1)
+> **Frameworks & Libraries:** [[Git]] (20), [[Version Control]] (4), [[GitHub]] (2), [[Linux]] (1), [[Windows]] (1)
 > **CLI Commands:** git (20), aws (4)
 > **Env Vars:** aws (4), cicd (2), cidc (1)
 > **Tools:** github (2), vim (2), terminal (1), command line (1)
@@ -703,12 +694,11 @@ created: 2026-05-02
 > **Exercise Files:** clone the repo (1)
 > **Definitions:** is a  (1)
 
-#### Tool: Rapid Risk Assessment
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tool-rapid-risk-assessment?u=76281980)
+#### [Tool: Rapid Risk Assessment](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tool-rapid-risk-assessment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tool-rapid-risk-assessment?u=76281980&t=0)** - [Instructor] Threat modeling is a great practice, and I've had success with it in the past.
+> **[0:00](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tool-rapid-risk-assessment?u=76281980&t=0)** - [Instructor] [[Threat Modeling]] is a great practice, and I've had success with it in the past.
 >
 > **[0:05](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tool-rapid-risk-assessment?u=76281980&t=5)** But generally threat modeling works well with established software or services.
 >
@@ -732,9 +722,9 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tool-rapid-risk-assessment?u=76281980&t=50)** It's also easy to update.
 >
-> **[0:51](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tool-rapid-risk-assessment?u=76281980&t=51)** It serves as a guide that's fluid and moves with the practice of software development.
+> **[0:51](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tool-rapid-risk-assessment?u=76281980&t=51)** It serves as a guide that's fluid and moves with the practice of [[Software Development]].
 >
-> **[0:56](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tool-rapid-risk-assessment?u=76281980&t=56)** Really, this could probably be dubbed, agile threat modeling and not be too far off the mark.
+> **[0:56](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tool-rapid-risk-assessment?u=76281980&t=56)** Really, this could probably be dubbed, [[Agile Development|agile]] threat modeling and not be too far off the mark.
 >
 > **[1:02](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tool-rapid-risk-assessment?u=76281980&t=62)** The goal here is within about 30 minutes, to answer questions like is there anything obvious we should really look at fixing, right now?
 >
@@ -746,11 +736,11 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tool-rapid-risk-assessment?u=76281980&t=93)** I'm scrolling down to, create a copy of the template.
 >
-> **[1:36](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tool-rapid-risk-assessment?u=76281980&t=96)** When I click that it opens up a template for an RRA in Google Docs.
+> **[1:36](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tool-rapid-risk-assessment?u=76281980&t=96)** When I click that it opens up a template for an RRA in [[Google]] Docs.
 >
 > **[1:41](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tool-rapid-risk-assessment?u=76281980&t=101)** It's written as if you were a Mozilla employee, so you might want to adjust that.
 >
-> **[1:45](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tool-rapid-risk-assessment?u=76281980&t=105)** But notice that there's some metadata about the service up at the top.
+> **[1:45](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tool-rapid-risk-assessment?u=76281980&t=105)** But notice that there's some [[Metadata]] about the service up at the top.
 >
 > **[1:49](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tool-rapid-risk-assessment?u=76281980&t=109)** Next we have the data dictionary.
 >
@@ -792,11 +782,11 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tool-rapid-risk-assessment?u=76281980&t=186)** It also helps build out a more complete threat model, while the service is being developed.
 >
-> **[3:11](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tool-rapid-risk-assessment?u=76281980&t=191)** This process works great for agile teams and while it isn't a software tool, this is definitely something you'll want to add to your DevSecOps tool shed.
+> **[3:11](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tool-rapid-risk-assessment?u=76281980&t=191)** This process works great for agile teams and while it isn't a software tool, this is definitely something you'll want to add to your [[DevSecOps]] tool shed.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Threat Modeling]] (3), [[Security]] (3), [[Agile Development|Agile]] (2), teams (2), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Threat Modeling]] (3), [[Agile Development|Agile]] (2), [[Software Development]] (1), [[Google]] (1), [[Metadata]] (1)
 > **Exercise Files:** template (3)
 > **Env Vars:** rra (2)
 > **Definitions:** is a  (2)
@@ -810,8 +800,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What's in your app?
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/what-s-in-your-app?u=76281980)
+#### [What's in your app?](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/what-s-in-your-app?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -821,7 +810,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/what-s-in-your-app?u=76281980&t=17)** This is a real problem.
 >
-> **[0:19](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/what-s-in-your-app?u=76281980&t=19)** In the 2018 DevSecOps Community Survey, 31% of respondents suspect or have verified a breach related to an open source component in the last 12 months.
+> **[0:19](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/what-s-in-your-app?u=76281980&t=19)** In the 2018 [[DevSecOps]] Community Survey, 31% of respondents suspect or have verified a breach related to an open source component in the last 12 months.
 >
 > **[0:31](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/what-s-in-your-app?u=76281980&t=31)** Many headline grabbing breaches within the last three years are related because many of them were due to inherited components.
 >
@@ -843,9 +832,9 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/what-s-in-your-app?u=76281980&t=93)** By publishing a BOM, you have a quick reference for what libraries and versions are shipping with a particular application.
 >
-> **[1:41](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/what-s-in-your-app?u=76281980&t=101)** At Signal Sciences, we are a go dev shop and we have a jenkins job that runs a daily BOM and reports back on the libraries we are rendering and how out of date each one is.
+> **[1:41](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/what-s-in-your-app?u=76281980&t=101)** At Signal Sciences, we are a go dev shop and we have a [[Jenkins]] job that runs a daily BOM and reports back on the libraries we are rendering and how out of date each one is.
 >
-> **[1:50](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/what-s-in-your-app?u=76281980&t=110)** This gets pumped into our slack channel for the engineering team to keep an eye on and it keeps creates a positive feedback loop.
+> **[1:50](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/what-s-in-your-app?u=76281980&t=110)** This gets pumped into our [[Slack]] channel for the engineering team to keep an eye on and it keeps creates a positive feedback loop.
 >
 > **[1:57](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/what-s-in-your-app?u=76281980&t=117)** Now I know that not everyone is a go shop and these tools are very language specific.
 >
@@ -853,19 +842,19 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/what-s-in-your-app?u=76281980&t=130)** The goal here is to find a tool that you can put into your CI/CD pipeline that checks for dependencies that make you vulnerable.
 >
-> **[2:16](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/what-s-in-your-app?u=76281980&t=136)** The tools themselves need to be up to date and have access to current Vul databases with the most recent Common Vulnerability Exposures or CVE's in them.
+> **[2:16](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/what-s-in-your-app?u=76281980&t=136)** The tools themselves need to be up to date and have access to current Vul [[Databases]] with the most recent Common Vulnerability Exposures or CVE's in them.
 >
 > **[2:26](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/what-s-in-your-app?u=76281980&t=146)** Instead of doing goling examples, I'd like to look at two tools for other languages in the upcoming videos.
 >
-> **[2:32](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/what-s-in-your-app?u=76281980&t=152)** First, we'll look at a popular job option, OWASP Dependency Check.
+> **[2:32](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/what-s-in-your-app?u=76281980&t=152)** First, we'll look at a popular job option, [[OWASP]] Dependency Check.
 >
-> **[2:36](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/what-s-in-your-app?u=76281980&t=156)** And next we'll look at a javascript option called Retire.js.
+> **[2:36](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/what-s-in-your-app?u=76281980&t=156)** And next we'll look at a [[JavaScript]] option called Retire.js.
 >
 > **[2:40](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/what-s-in-your-app?u=76281980&t=160)** Both run in CI environments easily, so let's take them for a spin.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), ci (3), cd (2), [[DevSecOps]] (2), [[Jenkins]] (1)
+> **Frameworks & Libraries:** [[DevSecOps]] (2), [[Jenkins]] (1), [[Slack]] (1), [[Databases]] (1), [[OWASP]] (1)
 > **Env Vars:** bom (4), loc (2), cve (1), owasp (1)
 > **CLI Commands:** cd (2), ruby (1), find (1), make (1)
 > **Definitions:** is a  (4)
@@ -874,12 +863,11 @@ created: 2026-05-02
 > **Tools:** slack (1)
 > **Speakers:** - [narrator] (1)
 
-#### OWASP Dependency Check in practice
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/owasp-dependency-check-in-practice?u=76281980)
+#### [OWASP Dependency Check in practice](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/owasp-dependency-check-in-practice?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/owasp-dependency-check-in-practice?u=76281980&t=0)** - [Instructor] Let's take a look at OWASP Dependency Check.
+> **[0:00](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/owasp-dependency-check-in-practice?u=76281980&t=0)** - [Instructor] Let's take a look at [[OWASP]] Dependency Check.
 >
 > **[0:03](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/owasp-dependency-check-in-practice?u=76281980&t=3)** This is a software composition analysis tool.
 >
@@ -891,19 +879,19 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/owasp-dependency-check-in-practice?u=76281980&t=31)** Evidence found by the tool is then grouped into collections, by vendor, product, and version.
 >
-> **[0:36](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/owasp-dependency-check-in-practice?u=76281980&t=36)** Next OWASP Dependency Check compares what it finds to the National Vulnerability Database, which is maintained by [nist.gov](https://nist.gov).
+> **[0:36](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/owasp-dependency-check-in-practice?u=76281980&t=36)** Next OWASP Dependency Check compares what it finds to the National Vulnerability Database, which is maintained by [[[NIST]].gov](https://nist.gov).
 >
 > **[0:45](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/owasp-dependency-check-in-practice?u=76281980&t=45)** It uses a Lucene index and fuzzy matching to determine if the evidence it found matches against the NVD.
 >
 > **[0:52](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/owasp-dependency-check-in-practice?u=76281980&t=52)** There are a lot of options to get started with OWASP Dependency Check, but we're going to use it on the command line to get a feel for how it works.
 >
-> **[1:00](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/owasp-dependency-check-in-practice?u=76281980&t=60)** To install the command line or CLI plugin, there are instructions for any operating system at jeremylong.[gethub.io/dependencycheck](https://gethub.io/dependencycheck)/, dependency-check-cli/index.html.
+> **[1:00](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/owasp-dependency-check-in-practice?u=76281980&t=60)** To install the command line or [[CLI]] plugin, there are instructions for any operating system at jeremylong.[gethub.io/dependencycheck](https://gethub.io/dependencycheck)/, dependency-check-cli/index.[[HTML]].
 >
 > **[1:15](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/owasp-dependency-check-in-practice?u=76281980&t=75)** When you install and run it for the first time, it takes a little while for it to download a local copy of the NVD.
 >
 > **[1:21](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/owasp-dependency-check-in-practice?u=76281980&t=81)** However, subsequent runs are much faster, as it only has to download updates to stay current.
 >
-> **[1:28](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/owasp-dependency-check-in-practice?u=76281980&t=88)** I already have it installed here, so let's get a Java app and use OWASP Dependency Check, to evaluate it.
+> **[1:28](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/owasp-dependency-check-in-practice?u=76281980&t=88)** I already have it installed here, so let's get a [[Java]] app and use OWASP Dependency Check, to evaluate it.
 >
 > **[1:34](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/owasp-dependency-check-in-practice?u=76281980&t=94)** I'm just going to download an old version of an Apache http client from a Maven Artifact Repository, to use as a sample app.
 >
@@ -945,17 +933,17 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/owasp-dependency-check-in-practice?u=76281980&t=184)** You can choose to suppress certain findings right here and it'll give you some config to put with your project.
 >
-> **[3:10](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/owasp-dependency-check-in-practice?u=76281980&t=190)** Once you tune it for one application, you can then set it up in Jenkins to scan on each build and get very accurate results.
+> **[3:10](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/owasp-dependency-check-in-practice?u=76281980&t=190)** Once you tune it for one application, you can then set it up in [[Jenkins]] to scan on each build and get very accurate results.
 >
 > **[3:18](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/owasp-dependency-check-in-practice?u=76281980&t=198)** There is much more to this tool, but this gives you the basics.
 >
 > **[3:22](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/owasp-dependency-check-in-practice?u=76281980&t=202)** It has an extensive list of integrations and plugins, so it's worth your time to do the initial setup and get this into your pipeline.
 >
-> **[3:28](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/owasp-dependency-check-in-practice?u=76281980&t=208)** In our next video, let's turn to the front end and work with a tool that can help you reign in all the JavaScript dependencies.
+> **[3:28](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/owasp-dependency-check-in-practice?u=76281980&t=208)** In our next video, let's turn to the front end and work with a tool that can help you reign in all the [[JavaScript]] dependencies.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OWASP]] (7), application (3), next (3), [[HTML]] (3), [[CLI]] (2)
+> **Frameworks & Libraries:** [[OWASP]] (7), [[HTML]] (3), [[CLI]] (2), [[NIST]] (1), [[Java]] (1)
 > **Env Vars:** owasp (7), jar (3), nvd (2), cli (1)
 > **Tools:** command line (3)
 > **Prerequisites:** install (2), setup (1)
@@ -964,26 +952,25 @@ created: 2026-05-02
 > **URLs:** [nist.gov](https://nist.gov) (1), [gethub.io](https://gethub.io) (1)
 > **Cross-References:** next video (1)
 
-#### JavaScript security with Retire.js: Installation
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/javascript-security-with-retire-js-installation?u=76281980)
+#### [JavaScript security with Retire.js: Installation](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/javascript-security-with-retire-js-installation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/javascript-security-with-retire-js-installation?u=76281980&t=0)** - [Instructor] Now let's look at software composition analysis and inheritance security for JavaScript.
+> **[0:00](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/javascript-security-with-retire-js-installation?u=76281980&t=0)** - [Instructor] Now let's look at software composition analysis and inheritance security for [[JavaScript]].
 >
-> **[0:05](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/javascript-security-with-retire-js-installation?u=76281980&t=5)** This means that if your using a vulnerable version of jQuery, then our tool will throw an error code that will stop the continuous delivery pipeline.
+> **[0:05](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/javascript-security-with-retire-js-installation?u=76281980&t=5)** This means that if your using a vulnerable version of jQuery, then our tool will throw an error code that will stop the [[Continuous Delivery (CD)|continuous delivery]] pipeline.
 >
 > **[0:13](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/javascript-security-with-retire-js-installation?u=76281980&t=13)** The tool we'll be using is Retire.js and it's made just for this purpose.
 >
 > **[0:18](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/javascript-security-with-retire-js-installation?u=76281980&t=18)** Let's use Retire.js in a Docker container.
 >
-> **[0:21](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/javascript-security-with-retire-js-installation?u=76281980&t=21)** We use Docker here, because it's a portable way to integrate security testing for CI systems like Jenkins.
+> **[0:21](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/javascript-security-with-retire-js-installation?u=76281980&t=21)** We use Docker here, because it's a portable way to integrate [[Security Testing]] for CI systems like [[Jenkins]].
 >
 > **[0:27](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/javascript-security-with-retire-js-installation?u=76281980&t=27)** Let's head over to the command line.
 >
 > **[0:29](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/javascript-security-with-retire-js-installation?u=76281980&t=29)** I have a forked repo of a Dockerized version of Retire.js.
 >
-> **[0:33](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/javascript-security-with-retire-js-installation?u=76281980&t=33)** I'm going to clone this by typing git space clone and the project repo URL, [github.com/wickett/docker-retire.js.git](https://github.com/wickett/docker-retire.js.git).
+> **[0:33](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/javascript-security-with-retire-js-installation?u=76281980&t=33)** I'm going to clone this by typing [[Git]] space clone and the project repo URL, [[[GitHub]].com/wickett/docker-retire.js.git](https://github.com/wickett/docker-retire.js.git).
 >
 > **[0:48](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/javascript-security-with-retire-js-installation?u=76281980&t=48)** Let's move into the repo, and then type cat Dockerfile.
 >
@@ -1007,7 +994,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), [[Git]] (2), [[JavaScript]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1), ci (1)
+> **Frameworks & Libraries:** [[Git]] (2), [[JavaScript]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Security Testing]] (1), [[Jenkins]] (1)
 > **CLI Commands:** docker (5), git (2), cat (1), node (1)
 > **File Paths:** retire.js (5), github.com/wickett/docker-retire.js (1)
 > **Tools:** command line (1), github (1)
@@ -1016,12 +1003,11 @@ created: 2026-05-02
 > **Env Vars:** url (1)
 > **Definitions:** means that (1)
 
-#### JavaScript security with Retire.js: Testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/javascript-security-with-retire-js-testing?u=76281980)
+#### [JavaScript security with Retire.js: Testing](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/javascript-security-with-retire-js-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/javascript-security-with-retire-js-testing?u=76281980&t=1)** - For testing, I'm just going to use the word cloud generator app that we used in an earlier movie, but really, any project with JavaScript in it will do.
+> **[0:01](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/javascript-security-with-retire-js-testing?u=76281980&t=1)** - For testing, I'm just going to use the [[Microsoft Word|word]] cloud generator app that we used in an earlier movie, but really, any project with [[JavaScript]] in it will do.
 >
 > **[0:09](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/javascript-security-with-retire-js-testing?u=76281980&t=9)** Okay, let me move into the directory.
 >
@@ -1061,7 +1047,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/javascript-security-with-retire-js-testing?u=76281980&t=115)** Because of this, retire dot js is perfect for your CI-CD pipeline.
 >
-> **[1:59](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/javascript-security-with-retire-js-testing?u=76281980&t=119)** And it fits nicely into a CI buildsystem like Jenkins or Travis.
+> **[1:59](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/javascript-security-with-retire-js-testing?u=76281980&t=119)** And it fits nicely into a CI buildsystem like [[Jenkins]] or Travis.
 >
 > **[2:03](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/javascript-security-with-retire-js-testing?u=76281980&t=123)** But that's not all.
 >
@@ -1075,18 +1061,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ci (3), [[JavaScript]] (2), application (2), [[Microsoft Word|Word]] (1), cloud (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Microsoft Word|Word]] (1), [[Jenkins]] (1)
 > **CLI Commands:** docker (1), rm (1), find (1), wget (1), cd (1)
 > **Tools:** firefox (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - for (1)
 
-#### Options for software composition analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/options-for-software-composition-analysis?u=76281980)
+#### [Options for software composition analysis](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/options-for-software-composition-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/options-for-software-composition-analysis?u=76281980&t=0)** - [Instructor] Okay, we've covered two tools so far, OWASP dependency check and Retire.js.
+> **[0:00](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/options-for-software-composition-analysis?u=76281980&t=0)** - [Instructor] Okay, we've covered two tools so far, [[OWASP]] dependency check and Retire.js.
 >
 > **[0:05](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/options-for-software-composition-analysis?u=76281980&t=5)** Both of these are great tools, but there are several others that are worth considering.
 >
@@ -1098,7 +1083,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/options-for-software-composition-analysis?u=76281980&t=23)** What's great is, that it doesn't require a network connection, which means that it's really fast to run.
 >
-> **[0:28](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/options-for-software-composition-analysis?u=76281980&t=28)** Another open source option to look at is PHP Security Checker.
+> **[0:28](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/options-for-software-composition-analysis?u=76281980&t=28)** Another open source option to look at is [[PHP]] Security Checker.
 >
 > **[0:33](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/options-for-software-composition-analysis?u=76281980&t=33)** Like the others, it looks for common libraries that you're using, but shouldn't be.
 >
@@ -1128,15 +1113,15 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/options-for-software-composition-analysis?u=76281980&t=95)** So they might be overweight for what you're trying to do.
 >
-> **[1:38](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/options-for-software-composition-analysis?u=76281980&t=98)** However, you should give them a look if you're all in on containers, Kubernetes, or serverless.
+> **[1:38](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/options-for-software-composition-analysis?u=76281980&t=98)** However, you should give them a look if you're all in on containers, [[Kubernetes]], or serverless.
 >
 > **[1:43](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/options-for-software-composition-analysis?u=76281980&t=103)** In this section, we covered a few other option for tools to find out what you're software is really made of.
 >
-> **[1:49](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/options-for-software-composition-analysis?u=76281980&t=109)** And the hope is, that this gives you some places to discover new options for tooling to test for inheritance vulnerabilities by doing software composition analysis in your continuous delivery pipeline.
+> **[1:49](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/options-for-software-composition-analysis?u=76281980&t=109)** And the hope is, that this gives you some places to discover new options for tooling to test for inheritance vulnerabilities by doing software composition analysis in your [[Continuous Delivery (CD)|continuous delivery]] pipeline.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), [[OWASP]] (1), [[PHP]] (1), data (1), [[Kubernetes]] (1)
+> **Frameworks & Libraries:** [[OWASP]] (1), [[PHP]] (1), [[Kubernetes]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1)
 > **CLI Commands:** ruby (1), php (1), docker (1), find (1)
 > **Env Vars:** owasp (1), php (1)
 > **File Paths:** retire.js (1)
@@ -1148,12 +1133,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Security testing in the build stage
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/security-testing-in-the-build-stage?u=76281980)
+#### [Security testing in the build stage](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/security-testing-in-the-build-stage?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/security-testing-in-the-build-stage?u=76281980&t=0)** - [Man] The build stage is what most developers and operations folks think of when they think of continuous integration.
+> **[0:00](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/security-testing-in-the-build-stage?u=76281980&t=0)** - [Man] The build stage is what most developers and operations folks think of when they think of [[Continuous Integration (CI)|continuous integration]].
 >
 > **[0:06](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/security-testing-in-the-build-stage?u=76281980&t=6)** This is where all the previous stages we talked about gets verified.
 >
@@ -1169,13 +1153,13 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/security-testing-in-the-build-stage?u=76281980&t=35)** This stage applies to any software that is getting prepared for the deploy stage.
 >
-> **[0:39](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/security-testing-in-the-build-stage?u=76281980&t=39)** Yes, this includes combined binaries, but also zipped-up artifacts, images, HTML, JavaScript, infrastructure code, and even your cloud config.
+> **[0:39](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/security-testing-in-the-build-stage?u=76281980&t=39)** Yes, this includes combined binaries, but also zipped-up artifacts, images, [[HTML]], [[JavaScript]], infrastructure code, and even your cloud config.
 >
-> **[0:50](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/security-testing-in-the-build-stage?u=76281980&t=50)** If you're struggling with this concept, check out the DevOps Foundations: Continuous Integration/Continuous Delivery course here in the library where we dive into the topic in much more depth.
+> **[0:50](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/security-testing-in-the-build-stage?u=76281980&t=50)** If you're struggling with this concept, check out the [[DevOps]] Foundations: Continuous Integration/[[Continuous Delivery (CD)|Continuous Delivery]] course here in the library where we dive into the topic in much more depth.
 >
 > **[0:59](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/security-testing-in-the-build-stage?u=76281980&t=59)** Let's move on to the security considerations for the build stage.
 >
-> **[1:03](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/security-testing-in-the-build-stage?u=76281980&t=63)** First, let's talk outside-in security testing.
+> **[1:03](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/security-testing-in-the-build-stage?u=76281980&t=63)** First, let's talk outside-in [[Security Testing]].
 >
 > **[1:07](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/security-testing-in-the-build-stage?u=76281980&t=67)** This is testing that interacts with the software from the outside.
 >
@@ -1189,7 +1173,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/security-testing-in-the-build-stage?u=76281980&t=92)** But we now look for ways to emulate actions of attackers with your software.
 >
-> **[1:37](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/security-testing-in-the-build-stage?u=76281980&t=97)** One category of tools that we put into the build phase for this purpose is [[Dynamic Application Security Testing]] or DAST tools.
+> **[1:37](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/security-testing-in-the-build-stage?u=76281980&t=97)** One category of tools that we put into the build phase for this purpose is [[Dynamic [[Application Security]] Testing]] or DAST tools.
 >
 > **[1:45](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/security-testing-in-the-build-stage?u=76281980&t=105)** These are commercial and open source scanners that try to attack your applications.
 >
@@ -1229,7 +1213,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), next (5), [[Continuous Integration (CI)|Continuous integration]] (2), application (2), [[Automation]] (2)
+> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (2), [[HTML]] (1), [[JavaScript]] (1), [[DevOps]] (1), [[Security Testing]] (1)
 > **Env Vars:** bdd (2), ssh (2), html (1), dast (1)
 > **CLI Commands:** ssh (2), make (1)
 > **Cross-References:** we talked about (1), earlier in (1), in the next (1)
@@ -1237,14 +1221,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [man] (1)
 
-#### AppSec scanning with DAST tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/appsec-scanning-with-dast-tools?u=76281980)
+#### [AppSec scanning with DAST tools](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/appsec-scanning-with-dast-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/appsec-scanning-with-dast-tools?u=76281980&t=0)** - Application security is a class of security problems that has withstood the test of time.
+> **[0:00](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/appsec-scanning-with-dast-tools?u=76281980&t=0)** - [[Application Security]] is a class of security problems that has withstood the test of time.
 >
-> **[0:06](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/appsec-scanning-with-dast-tools?u=76281980&t=6)** Over 15 years ago the open web application security project known as OWASP was started to address this space.
+> **[0:06](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/appsec-scanning-with-dast-tools?u=76281980&t=6)** Over 15 years ago the open [[Web Application Security]] project known as [[OWASP]] was started to address this space.
 >
 > **[0:13](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/appsec-scanning-with-dast-tools?u=76281980&t=13)** However even today application security is still going strong.
 >
@@ -1262,7 +1245,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/appsec-scanning-with-dast-tools?u=76281980&t=51)** Many of these are application security vulnerabilities and they hinge on injection of user data to take control of the app or the user's browser.
 >
-> **[1:00](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/appsec-scanning-with-dast-tools?u=76281980&t=60)** So in the case of cross-site scripting, you can inject a bit of JavaScript like this one here.
+> **[1:00](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/appsec-scanning-with-dast-tools?u=76281980&t=60)** So in the case of cross-site scripting, you can inject a bit of [[JavaScript]] like this one here.
 >
 > **[1:05](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/appsec-scanning-with-dast-tools?u=76281980&t=65)** It gets access to the user's session token and admits it to an evil site that only the attacker controls.
 >
@@ -1288,7 +1271,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/appsec-scanning-with-dast-tools?u=76281980&t=130)** They do all sorts of things from cross-site scripting to command execution and they even have fingerprinting and spidering built in.
 >
-> **[2:17](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/appsec-scanning-with-dast-tools?u=76281980&t=137)** Open source options like Arachni, Nikto, and Zap are great.
+> **[2:17](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/appsec-scanning-with-dast-tools?u=76281980&t=137)** Open source options like Arachni, [[Nikto]], and Zap are great.
 >
 > **[2:22](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/appsec-scanning-with-dast-tools?u=76281980&t=142)** Zap is the most fully featured, it has roots at Mozilla and OWASP and has an API that makes it possible to integrate into CI systems.
 >
@@ -1300,7 +1283,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/appsec-scanning-with-dast-tools?u=76281980&t=168)** Next sequel injection shortened as SQLi, is a vector of attack where attackers try to pass valid sequel through a web application or API and get a response from the database.
 >
-> **[2:59](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/appsec-scanning-with-dast-tools?u=76281980&t=179)** There's only one tool to recommend here that's the Swiss Army knife of SQLi, Sqlmap.
+> **[2:59](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/appsec-scanning-with-dast-tools?u=76281980&t=179)** There's only one tool to recommend here that's the Swiss Army knife of SQLi, [[SQLmap]].
 >
 > **[3:05](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/appsec-scanning-with-dast-tools?u=76281980&t=185)** Its open source, constantly updated, and really powerful.
 >
@@ -1314,15 +1297,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (10), application (8), [[OWASP]] (7), [[Scripting]] (4), api (3)
+> **Frameworks & Libraries:** [[Application Security]] (8), [[OWASP]] (7), [[Web Application Security]] (1), [[JavaScript]] (1), [[Nikto]] (1)
 > **Env Vars:** owasp (6), dast (4), api (3), ssl (3), tls (2)
 > **Definitions:** is a  (2), known as (1)
 > **URLs:** [owasp.org](https://owasp.org) (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - application (1)
 
-#### Gauntlt in practice
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/gauntlt-in-practice?u=76281980)
+#### [Gauntlt in practice](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/gauntlt-in-practice?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1334,7 +1316,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/gauntlt-in-practice?u=76281980&t=12)** The tool I'm talking about is Gauntlt.
 >
-> **[0:15](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/gauntlt-in-practice?u=76281980&t=15)** I've got a whole course on this in the library called [[DevSecOps- Automated Security Testing]].
+> **[0:15](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/gauntlt-in-practice?u=76281980&t=15)** I've got a whole course on this in the library called [[[[DevSecOps]]- Automated [[Security Testing]]]].
 >
 > **[0:21](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/gauntlt-in-practice?u=76281980&t=21)** This video will just be a quick look at the tool, but if you want a full hands-on experience, be sure to check out that other course.
 >
@@ -1432,7 +1414,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), [[Scripting]] (5), next (3), [[DevSecOps]] (2), teams (1)
+> **Frameworks & Libraries:** [[DevSecOps]] (2), [[Security Testing]] (1)
 > **CLI Commands:** docker (7), make (2), rm (1), find (1)
 > **Env Vars:** dast (4), cicd (1), url (1)
 > **Tools:** vim (3), command line (1)
@@ -1446,14 +1428,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Security in the deploy phase
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/security-in-the-deploy-phase?u=76281980)
+#### [Security in the deploy phase](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/security-in-the-deploy-phase?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/security-in-the-deploy-phase?u=76281980&t=0)** - [Instructor] The deploy phase is where software moves from testing to where the customers area able to operate it for the very first time.
 >
-> **[0:07](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/security-in-the-deploy-phase?u=76281980&t=7)** When we're doing full continuous delivery this might happen several times a day.
+> **[0:07](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/security-in-the-deploy-phase?u=76281980&t=7)** When we're doing full [[Continuous Delivery (CD)|continuous delivery]] this might happen several times a day.
 >
 > **[0:12](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/security-in-the-deploy-phase?u=76281980&t=12)** At my company we move code to production 10 to 15 times a day on average.
 >
@@ -1465,7 +1446,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/security-in-the-deploy-phase?u=76281980&t=36)** First, securing the actual deployment.
 >
-> **[0:39](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/security-in-the-deploy-phase?u=76281980&t=39)** By that I mean accountability and audit ability of the deployment.
+> **[0:39](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/security-in-the-deploy-phase?u=76281980&t=39)** By that I mean [[Accountability]] and audit ability of the deployment.
 >
 > **[0:44](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/security-in-the-deploy-phase?u=76281980&t=44)** Knowing what code went out, who wrote it, who authorized it and logging for all of that, which needs to be tamper proof.
 >
@@ -1491,13 +1472,13 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/security-in-the-deploy-phase?u=76281980&t=102)** In a Dev seq ops approach we want to automate as many compliance checks as possible so that we are assuring compliance daily or better.
 >
-> **[1:50](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/security-in-the-deploy-phase?u=76281980&t=110)** Remember waterfall is gone, this is Agile security.
+> **[1:50](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/security-in-the-deploy-phase?u=76281980&t=110)** Remember waterfall is gone, this is [[Agile Development|Agile]] security.
 >
 > **[1:54](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/security-in-the-deploy-phase?u=76281980&t=114)** The last question to ask is, is there a repeatable mechanism to push changes to production.
 >
 > **[1:59](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/security-in-the-deploy-phase?u=76281980&t=119)** We trust the deployment tool to make the changes so that each deploy becomes a routine process that's repeatable, auditable and never done by an individual.
 >
-> **[2:08](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/security-in-the-deploy-phase?u=76281980&t=128)** This follows the guidance in the Agile Application Security book.
+> **[2:08](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/security-in-the-deploy-phase?u=76281980&t=128)** This follows the guidance in the Agile [[Application Security]] book.
 >
 > **[2:12](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/security-in-the-deploy-phase?u=76281980&t=132)** That deploys can be treated as standard or routine changes that have been preapproved by management and that don't require a heavyweight change review meeting.
 >
@@ -1505,14 +1486,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), [[Continuous Delivery (CD)|Continuous delivery]] (2), application (2), [[Agile Development|Agile]] (2), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Continuous Delivery (CD)|Continuous delivery]] (2), [[Agile Development|Agile]] (2), [[Accountability]] (1), [[Application Security]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Rundeck for deployments
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/rundeck-for-deployments?u=76281980)
+#### [Rundeck for deployments](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/rundeck-for-deployments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1524,7 +1504,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/rundeck-for-deployments?u=76281980&t=19)** Rundeck started as an open-source project from Damon Edwards and the DTO Solutions team.
 >
-> **[0:23](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/rundeck-for-deployments?u=76281980&t=23)** DTO is the first true DevOps consultant practice and helped DevOps grow in the early years.
+> **[0:23](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/rundeck-for-deployments?u=76281980&t=23)** DTO is the first true [[DevOps]] consultant practice and helped DevOps grow in the early years.
 >
 > **[0:29](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/rundeck-for-deployments?u=76281980&t=29)** They found themselves going to client after client, building the same workflow automation tooling.
 >
@@ -1546,7 +1526,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/rundeck-for-deployments?u=76281980&t=76)** Deployment is different for every application and system, so in Rundeck, you make a job that is fit for that specific app and give access to the engineers that are allowed to make the deployment happen.
 >
-> **[1:26](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/rundeck-for-deployments?u=76281980&t=86)** You can also assure that the artifacts that came out of Jenkins are the artifacts that are being deployed to production, with the Jenkins plugin for it.
+> **[1:26](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/rundeck-for-deployments?u=76281980&t=86)** You can also assure that the artifacts that came out of [[Jenkins]] are the artifacts that are being deployed to production, with the Jenkins plugin for it.
 >
 > **[1:33](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/rundeck-for-deployments?u=76281980&t=93)** Lastly, we can create self-service workflows.
 >
@@ -1562,29 +1542,28 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/rundeck-for-deployments?u=76281980&t=119)** All that is possible with workflow automation.
 >
-> **[2:02](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/rundeck-for-deployments?u=76281980&t=122)** Here we have been mostly concerned with how this tool can help with deployment, but there is also a SANS research paper, written by John Becker, and he cites improved collaboration across security and DevOps because of Rundeck.
+> **[2:02](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/rundeck-for-deployments?u=76281980&t=122)** Here we have been mostly concerned with how this tool can help with deployment, but there is also a SANS research paper, written by [[John the Ripper|John]] Becker, and he cites improved collaboration across security and DevOps because of Rundeck.
 >
 > **[2:15](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/rundeck-for-deployments?u=76281980&t=135)** He also goes on to say that as Rundeck is adopted across the enterprise, it becomes more valuable to more teams.
 >
 > **[2:21](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/rundeck-for-deployments?u=76281980&t=141)** And he calls out auditors and incident responders as the ones who would benefit the most from it.
 >
-> **[2:26](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/rundeck-for-deployments?u=76281980&t=146)** Speaking of auditors, now is probably a good time to talk about how to integrate audit and compliance in your DevSecOps toolchain, since they're part of the software delivery pipeline, if you like it or not.
+> **[2:26](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/rundeck-for-deployments?u=76281980&t=146)** Speaking of auditors, now is probably a good time to talk about how to integrate audit and compliance in your [[DevSecOps]] toolchain, since they're part of the software delivery pipeline, if you like it or not.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (3), [[Security]] (3), open-source (2), [[Automation]] (2), [[Jenkins]] (2)
+> **Frameworks & Libraries:** [[DevOps]] (3), [[Jenkins]] (2), [[John the Ripper|John]] (1), [[DevSecOps]] (1)
 > **Env Vars:** dto (2), sans (1)
 > **CLI Commands:** make (2)
 > **URLs:** [rundeck.org](https://rundeck.org) (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tricks for making compliance happy
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tricks-for-making-compliance-happy?u=76281980)
+#### [Tricks for making compliance happy](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tricks-for-making-compliance-happy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tricks-for-making-compliance-happy?u=76281980&t=0)** - When I talk to people about the benefits of devops and devsecops, there's always one major pushback that I get, you guessed it.
+> **[0:00](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tricks-for-making-compliance-happy?u=76281980&t=0)** - When I talk to people about the benefits of [[DevOps]] and [[DevSecOps]], there's always one major pushback that I get, you guessed it.
 >
 > **[0:07](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tricks-for-making-compliance-happy?u=76281980&t=7)** Compliance.
 >
@@ -1596,7 +1575,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tricks-for-making-compliance-happy?u=76281980&t=22)** Whenever I speak with auditors, they seem hesitant at first but after explaining how a software delivery pipeline works, they actually get excited.
 >
-> **[0:30](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tricks-for-making-compliance-happy?u=76281980&t=30)** In a sense by doing CI and CD, you are expressing a version of what Itil and Waterfall always promised.
+> **[0:30](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tricks-for-making-compliance-happy?u=76281980&t=30)** In a sense by doing CI and CD, you are expressing a version of what [[ITIL]] and Waterfall always promised.
 >
 > **[0:37](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tricks-for-making-compliance-happy?u=76281980&t=37)** That is, you get change control along with all the auto ability and login that goes along with it.
 >
@@ -1614,7 +1593,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tricks-for-making-compliance-happy?u=76281980&t=71)** This a 20 page pdf which addresses head on the problem of developer's pushing their own code.
 >
-> **[1:16](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tricks-for-making-compliance-happy?u=76281980&t=76)** It include steps and advice for how auditors can fulfill all their testing and evidence gathering in the continuous delivery pipeline.
+> **[1:16](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tricks-for-making-compliance-happy?u=76281980&t=76)** It include steps and advice for how auditors can fulfill all their testing and evidence gathering in the [[Continuous Delivery (CD)|continuous delivery]] pipeline.
 >
 > **[1:23](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tricks-for-making-compliance-happy?u=76281980&t=83)** We've provided them with the exercise files here for the course.
 >
@@ -1626,7 +1605,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tricks-for-making-compliance-happy?u=76281980&t=102)** The project has a devops risk control matrix that speaks the language of both groups simultaneously.
 >
-> **[1:48](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tricks-for-making-compliance-happy?u=76281980&t=108)** The team behind this effort included representatives from Capital One, Microsoft, CB Labs and more.
+> **[1:48](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tricks-for-making-compliance-happy?u=76281980&t=108)** The team behind this effort included representatives from Capital One, [[Microsoft]], CB Labs and more.
 >
 > **[1:55](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tricks-for-making-compliance-happy?u=76281980&t=115)** All with either security and devops backgrounds or audit and compliance backgrounds.
 >
@@ -1666,7 +1645,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (6), ci (3), [[DevSecOps]] (2), [[Security]] (2), cd (2)
+> **Frameworks & Libraries:** [[DevOps]] (6), [[DevSecOps]] (2), [[ITIL]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Microsoft]] (1)
 > **CLI Commands:** cd (2), ssh (2)
 > **Definitions:** is a  (1), is an  (1)
 > **URLs:** [dearauditor.org](https://dearauditor.org) (1)
@@ -1680,8 +1659,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Keeping security in operate
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/keeping-security-in-operate?u=76281980)
+#### [Keeping security in operate](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/keeping-security-in-operate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1689,13 +1667,13 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/keeping-security-in-operate?u=76281980&t=6)** This is where we operate our application or service or, put simply, runtime is our application in production.
 >
-> **[0:13](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/keeping-security-in-operate?u=76281980&t=13)** Runtime is often the most forgotten place of the pipeline, and in DevSecOps in general.
+> **[0:13](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/keeping-security-in-operate?u=76281980&t=13)** Runtime is often the most forgotten place of the pipeline, and in [[DevSecOps]] in general.
 >
-> **[0:19](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/keeping-security-in-operate?u=76281980&t=19)** This is because most people think about putting security testing in place closer to development, which makes a ton of sense, and we even have a handy mantra to describe the process.
+> **[0:19](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/keeping-security-in-operate?u=76281980&t=19)** This is because most people think about putting [[Security Testing]] in place closer to development, which makes a ton of sense, and we even have a handy mantra to describe the process.
 >
 > **[0:28](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/keeping-security-in-operate?u=76281980&t=28)** We call it Shift left.
 >
-> **[0:30](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/keeping-security-in-operate?u=76281980&t=30)** However, in continuous delivery, we can't just stop with deployment.
+> **[0:30](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/keeping-security-in-operate?u=76281980&t=30)** However, in [[Continuous Delivery (CD)|continuous delivery]], we can't just stop with deployment.
 >
 > **[0:34](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/keeping-security-in-operate?u=76281980&t=34)** We also have to see our application in use in order to inform our next development cycle.
 >
@@ -1743,7 +1721,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/keeping-security-in-operate?u=76281980&t=160)** This instrumentation can key you in on weaknesses, or can also show you what's abnormal.
 >
-> **[2:46](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/keeping-security-in-operate?u=76281980&t=166)** An easy way to start with this is to integrate with Slack or other chat ops applications, and emit relevant security information to the developers who support an application.
+> **[2:46](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/keeping-security-in-operate?u=76281980&t=166)** An easy way to start with this is to integrate with [[Slack]] or other chat ops applications, and emit relevant security information to the developers who support an application.
 >
 > **[2:55](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/keeping-security-in-operate?u=76281980&t=175)** The last ingredient is being attacker driven.
 >
@@ -1761,18 +1739,17 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/keeping-security-in-operate?u=76281980&t=199)** Instead, deal with ones that are actually happening against your organization today.
 >
-> **[3:23](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/keeping-security-in-operate?u=76281980&t=203)** Well next up, let's talk about a few modern approaches to application security that are changing the game.
+> **[3:23](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/keeping-security-in-operate?u=76281980&t=203)** Well next up, let's talk about a few modern approaches to [[Application Security]] that are changing the game.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (10), [[Security]] (7), api (4), [[DevSecOps]] (3), next (3)
+> **Frameworks & Libraries:** [[DevSecOps]] (3), [[Security Testing]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Slack]] (1), [[Application Security]] (1)
 > **Env Vars:** api (4), ids (1), waf (1), cicd (1)
 > **CLI Commands:** make (2)
 > **Tools:** slack (1)
 > **Speakers:** - [instructor] (1)
 
-#### Modern application security
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/modern-application-security?u=76281980)
+#### [Modern application security](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/modern-application-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1786,7 +1763,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/modern-application-security?u=76281980&t=24)** If their findings are valid vulnerabilities, then they receive a prize and often money.
 >
-> **[0:29](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/modern-application-security?u=76281980&t=29)** Not surprisingly Google and Mozilla do them but also the federal government does them too.
+> **[0:29](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/modern-application-security?u=76281980&t=29)** Not surprisingly [[Google]] and Mozilla do them but also the federal government does them too.
 >
 > **[0:35](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/modern-application-security?u=76281980&t=35)** Running a bug bounty can be a little tricky.
 >
@@ -1822,7 +1799,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/modern-application-security?u=76281980&t=107)** But this new breed of tools are considerably less false positive prone and way more effective overall.
 >
-> **[1:53](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/modern-application-security?u=76281980&t=113)** These products solve for OWASP injection attacks but the reason why this area is growing is that they offer the ability to instrument other parts of your application.
+> **[1:53](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/modern-application-security?u=76281980&t=113)** These [[Microsoft Products|products]] solve for [[OWASP]] injection attacks but the reason why this area is growing is that they offer the ability to instrument other parts of your application.
 >
 > **[2:02](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/modern-application-security?u=76281980&t=122)** Want to stop application abuse or account takeovers or ATOs it's over called?
 >
@@ -1840,9 +1817,9 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/modern-application-security?u=76281980&t=158)** However, any of these tools is better than having none of them.
 >
-> **[2:41](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/modern-application-security?u=76281980&t=161)** Most of these are limited to Java and .NET, notably Waratek and Contrast.
+> **[2:41](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/modern-application-security?u=76281980&t=161)** Most of these are limited to [[Java]] and .NET, notably Waratek and Contrast.
 >
-> **[2:45](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/modern-application-security?u=76281980&t=165)** Prevoty and tCell have more language support adding in PHP, Python and Ruby and Signal Sciences takes a different architectural approach that allows it to be a little more platform and language agnostic.
+> **[2:45](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/modern-application-security?u=76281980&t=165)** Prevoty and tCell have more language support adding in [[PHP]], [[Python (Programming Language)|Python]] and Ruby and Signal Sciences takes a different architectural approach that allows it to be a little more platform and language agnostic.
 >
 > **[2:57](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/modern-application-security?u=76281980&t=177)** In the next video, we'll take a look at what types of instrumentation these provide and why they are such great tools for runtime defense.
 >
@@ -1850,7 +1827,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[Security]] (2), next (2), [[Google]] (1), web application (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Microsoft Products|Products]] (1), [[OWASP]] (1), [[Java]] (1), [[PHP]] (1)
 > **Env Vars:** waf (2), rasp (1), owasp (1), elk (1), net (1)
 > **CLI Commands:** find (2), php (1), python (1), ruby (1)
 > **Code Identifiers:** tcell (1)
@@ -1858,8 +1835,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Signal Sciences in practice
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/signal-sciences-in-practice?u=76281980)
+#### [Signal Sciences in practice](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/signal-sciences-in-practice?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1879,7 +1855,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/signal-sciences-in-practice?u=76281980&t=31)** In a browser, lets head over to Signal Sciences.
 >
-> **[0:34](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/signal-sciences-in-practice?u=76281980&t=34)** You can see that, right up front, OWASP injection attacks are being detected.
+> **[0:34](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/signal-sciences-in-practice?u=76281980&t=34)** You can see that, right up front, [[OWASP]] injection attacks are being detected.
 >
 > **[0:38](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/signal-sciences-in-practice?u=76281980&t=38)** We can take a quick look at what is happening, and see the requests that are triggering these events.
 >
@@ -1925,11 +1901,11 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/signal-sciences-in-practice?u=76281980&t=151)** If we were interested, we could drill down deeper into any of these items and see more details.
 >
-> **[2:36](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/signal-sciences-in-practice?u=76281980&t=156)** These tools also integrate across your DevSecOps Toolchain.
+> **[2:36](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/signal-sciences-in-practice?u=76281980&t=156)** These tools also integrate across your [[DevSecOps]] Toolchain.
 >
 > **[2:40](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/signal-sciences-in-practice?u=76281980&t=160)** I'm going to manage, and then look in at Integrations.
 >
-> **[2:44](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/signal-sciences-in-practice?u=76281980&t=164)** And we can see Slack, PagerDuty and a lot of other options in here.
+> **[2:44](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/signal-sciences-in-practice?u=76281980&t=164)** And we can see [[Slack]], PagerDuty and a lot of other options in here.
 >
 > **[2:48](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/signal-sciences-in-practice?u=76281980&t=168)** These integrations promote the involvement of others in your organization.
 >
@@ -1939,11 +1915,11 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/signal-sciences-in-practice?u=76281980&t=180)** To wrap up, this is an exciting space, and I think it is only getting better.
 >
-> **[3:04](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/signal-sciences-in-practice?u=76281980&t=184)** Moving application security and defense out of CDNs and proxies and closer to the application is definitely going to be the new way to secure applications.
+> **[3:04](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/signal-sciences-in-practice?u=76281980&t=184)** Moving [[Application Security]] and defense out of CDNs and proxies and closer to the application is definitely going to be the new way to secure applications.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), product (3), [[OWASP]] (2), [[Security]] (2), next (1)
+> **Frameworks & Libraries:** [[OWASP]] (2), [[DevSecOps]] (1), [[Slack]] (1), [[Application Security]] (1)
 > **Env Vars:** owasp (2), http (2), rasp (1), waf (1)
 > **Prerequisites:** set up (2), setup (1), configure (1)
 > **Definitions:** means that (1), is an  (1)
@@ -1952,8 +1928,7 @@ created: 2026-05-02
 > **Tools:** slack (1)
 > **UI Navigation:** click on (1)
 
-#### Cloud security monitoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/cloud-security-monitoring?u=76281980)
+#### [Cloud security monitoring](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/cloud-security-monitoring?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1967,13 +1942,13 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/cloud-security-monitoring?u=76281980&t=16)** Of course, you promised yourself once you got it working, you'd go back and set it back to normal, which of course there's probably only a 50-50 chance there that that would ever happen.
 >
-> **[0:26](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/cloud-security-monitoring?u=76281980&t=26)** With developers sharing access to the cloud infrastructure, this story plays out at company after company and has created a new breed of offerings around this space that we will call cloud security monitoring.
+> **[0:26](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/cloud-security-monitoring?u=76281980&t=26)** With developers sharing access to the [[Cloud Infrastructure]], this story plays out at company after company and has created a new breed of offerings around this space that we will call [[Cloud Security]] monitoring.
 >
 > **[0:37](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/cloud-security-monitoring?u=76281980&t=37)** These tools check for configuration in the cloud to make sure that it hasn't changed from its last known good state.
 >
 > **[0:42](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/cloud-security-monitoring?u=76281980&t=42)** They also assess whether you are in or out of compliance across your entire cloud infrastructure.
 >
-> **[0:47](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/cloud-security-monitoring?u=76281980&t=47)** Some products call this as compliance's codes since you assert your standards for your cloud infrastructure in code.
+> **[0:47](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/cloud-security-monitoring?u=76281980&t=47)** Some [[Microsoft Products|products]] call this as compliance's codes since you assert your standards for your cloud infrastructure in code.
 >
 > **[0:54](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/cloud-security-monitoring?u=76281980&t=54)** Audit is the next piece which is similar to compliance, but this is the auditability and the ability to know what happened in the past.
 >
@@ -1981,7 +1956,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/cloud-security-monitoring?u=76281980&t=64)** Many of the products out there also offer hardening recommendations and can alert if you're setting configuration that is not aligned with current best practices for hardening for whatever cloud provider you're using.
 >
-> **[1:16](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/cloud-security-monitoring?u=76281980&t=76)** There are several software as a service offerings for this product category such as Threat Stack, AlienVault, and [Evident.io](https://Evident.io).
+> **[1:16](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/cloud-security-monitoring?u=76281980&t=76)** There are several [[SaaS|software as a service]] offerings for this product category such as Threat Stack, AlienVault, and [Evident.io](https://Evident.io).
 >
 > **[1:29](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/cloud-security-monitoring?u=76281980&t=89)** If you're doing a multi-cloud infrastructure, then these are often the best bets for you.
 >
@@ -1989,7 +1964,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/cloud-security-monitoring?u=76281980&t=96)** But if you're using their other products, AlienVault makes a pretty compelling offering for the whole solution.
 >
-> **[1:42](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/cloud-security-monitoring?u=76281980&t=102)** However, if you're all in one cloud provider like Amazon Web Services, then you can get pretty far with the services AWS provides.
+> **[1:42](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/cloud-security-monitoring?u=76281980&t=102)** However, if you're all in one cloud provider like [[Amazon Web Services (AWS)|Amazon Web Services]], then you can get pretty far with the services AWS provides.
 >
 > **[1:50](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/cloud-security-monitoring?u=76281980&t=110)** These include the not so excitingly named but very powerful AWS Config along with CloudTrail, Inspector, and GuardDuty.
 >
@@ -1997,11 +1972,11 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/cloud-security-monitoring?u=76281980&t=132)** And many people swear by it as the best way to get this feature set to secure their cloud infrastructure.
 >
-> **[2:17](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/cloud-security-monitoring?u=76281980&t=137)** No matter what option you go with here, be sure to put one of these solutions in your DevSecOps tool chain.
+> **[2:17](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/cloud-security-monitoring?u=76281980&t=137)** No matter what option you go with here, be sure to put one of these solutions in your [[DevSecOps]] tool chain.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cloud Infrastructure]] (6), cloud (4), [[Microsoft Products|Products]] (3), aws (3), application (1)
+> **Frameworks & Libraries:** [[Cloud Infrastructure]] (6), [[Microsoft Products|Products]] (3), [[Cloud Security]] (1), [[SaaS|Software as a service]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1)
 > **CLI Commands:** aws (3), make (1)
 > **Env Vars:** aws (3)
 > **Analogies:** similar to (1), such as (1)
@@ -2013,8 +1988,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2038,9 +2012,9 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/next-steps?u=76281980&t=42)** It's that security provides value to the organization by making security normal or just on by default.
 >
-> **[0:51](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/next-steps?u=76281980&t=51)** Security just becomes part of the way we ship software, not some separate team that operates outside of the rest of the software engineering team.
+> **[0:51](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/next-steps?u=76281980&t=51)** Security just becomes part of the way we ship software, not some separate team that operates outside of the [[Representational State Transfer (REST)|rest]] of the software engineering team.
 >
-> **[0:59](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/next-steps?u=76281980&t=59)** This is DevSecOps.
+> **[0:59](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/next-steps?u=76281980&t=59)** This is [[DevSecOps]].
 >
 > **[1:01](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/next-steps?u=76281980&t=61)** It is fun, exciting, and to be honest, a little daunting.
 >
@@ -2052,19 +2026,19 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/next-steps?u=76281980&t=86)** This means that in the coming weeks, take time to implement just one tool or practice from the course.
 >
-> **[1:32](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/next-steps?u=76281980&t=92)** Start with an easy win, maybe by adding OWASP dependency check or maybe Gauntlet to your build system.
+> **[1:32](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/next-steps?u=76281980&t=92)** Start with an easy win, maybe by adding [[OWASP]] dependency check or maybe Gauntlet to your build system.
 >
-> **[1:40](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/next-steps?u=76281980&t=100)** As you work your way through the pipeline, you might want to also check out a book that I've found pretty useful, Agile Application Security.
+> **[1:40](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/next-steps?u=76281980&t=100)** As you work your way through the pipeline, you might want to also check out a book that I've found pretty useful, [[Agile Development|Agile]] [[Application Security]].
 >
 > **[1:47](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/next-steps?u=76281980&t=107)** It can serve as a resource for you, and I found the sections on audit and compliance to be particularly helpful.
 >
-> **[1:53](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/next-steps?u=76281980&t=113)** As I have mentioned throughout the course, there are other courses in the library on automating security testing, and the entire DevOps Foundations series, which can serve as a great refresher on DevOps.
+> **[1:53](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/next-steps?u=76281980&t=113)** As I have mentioned throughout the course, there are other courses in the library on automating [[Security Testing]], and the entire [[DevOps]] Foundations series, which can serve as a great refresher on DevOps.
 >
 > **[2:03](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/next-steps?u=76281980&t=123)** Well, thank you for watching this course and I wish you luck in your DevSecOps journey.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (9), next (2), [[DevSecOps]] (2), [[DevOps]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[DevSecOps]] (2), [[DevOps]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[OWASP]] (1), [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** owasp (1)
 > **Definitions:** means that (1)

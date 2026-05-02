@@ -95,8 +95,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Managing database performance
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/managing-database-performance?u=76281980)
+#### [Managing database performance](https://www.linkedin.com/learning/database-foundations-database-management/managing-database-performance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -106,7 +105,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/database-foundations-database-management/managing-database-performance?u=76281980&t=6)** There are other components of a database that are equally important to a stable performance and complete system.
 >
-> **[0:13](https://www.linkedin.com/learning/database-foundations-database-management/managing-database-performance?u=76281980&t=13)** And in my LinkedIn learning course, database foundations database management, I'm going to introduce you to the supporting cast of database characters.
+> **[0:13](https://www.linkedin.com/learning/database-foundations-database-management/managing-database-performance?u=76281980&t=13)** And in my [[LinkedIn]] learning course, database foundations [[Database Management]], I'm going to introduce you to the supporting cast of database characters.
 >
 > **[0:22](https://www.linkedin.com/learning/database-foundations-database-management/managing-database-performance?u=76281980&t=22)** We'll get to know view objects, which store select queries for later use.
 >
@@ -114,9 +113,9 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/database-foundations-database-management/managing-database-performance?u=76281980&t=30)** We'll explore the query optimizer in execution plans to understand how to improve the performance of the system.
 >
-> **[0:38](https://www.linkedin.com/learning/database-foundations-database-management/managing-database-performance?u=76281980&t=38)** And with stored procedures, we can introduce programming elements to the database that'll create a consistent end-user experience.
+> **[0:38](https://www.linkedin.com/learning/database-foundations-database-management/managing-database-performance?u=76281980&t=38)** And with stored procedures, we can introduce programming elements to the database that'll create a consistent end-[[User Experience (UX)|user experience]].
 >
-> **[0:46](https://www.linkedin.com/learning/database-foundations-database-management/managing-database-performance?u=76281980&t=46)** Hi, my name is Adam Wilbert, and I've made it my career to introduce people to the world of database development.
+> **[0:46](https://www.linkedin.com/learning/database-foundations-database-management/managing-database-performance?u=76281980&t=46)** Hi, my name is Adam Wilbert, and I've made it my career to introduce people to the world of [[Database Development]].
 >
 > **[0:53](https://www.linkedin.com/learning/database-foundations-database-management/managing-database-performance?u=76281980&t=53)** We'll cover all these topics and more in this, the third course in the database foundation series.
 >
@@ -124,11 +123,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), [[LinkedIn]] (1), management (1), [[Security]] (1), data (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Database Management]] (1), [[User Experience (UX)|User experience]] (1), [[Database Development]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/database-foundations-database-management/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -138,38 +136,36 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/database-foundations-database-management/what-you-should-know?u=76281980&t=16)** In the first course, we covered the client/server model and the structure of a relational database.
 >
-> **[0:21](https://www.linkedin.com/learning/database-foundations-database-management/what-you-should-know?u=76281980&t=21)** The second course was all about building data tables using the SQL language and creating relationships with primary and foreign keys.
+> **[0:21](https://www.linkedin.com/learning/database-foundations-database-management/what-you-should-know?u=76281980&t=21)** The second course was all about building data tables using the [[SQL]] language and creating relationships with primary and foreign keys.
 >
 > **[0:30](https://www.linkedin.com/learning/database-foundations-database-management/what-you-should-know?u=76281980&t=30)** If you feel comfortable with all of those topics, then you're ready to move forward here.
 >
-> **[0:35](https://www.linkedin.com/learning/database-foundations-database-management/what-you-should-know?u=76281980&t=35)** If you need a refresher or are looking to get started in your journey on relational database development, then I'd suggest beginning with Database Foundations, Intro to Databases followed by the Data Structures course first before continuing on here.
+> **[0:35](https://www.linkedin.com/learning/database-foundations-database-management/what-you-should-know?u=76281980&t=35)** If you need a refresher or are looking to get started in your journey on relational [[Database Development]], then I'd suggest beginning with Database Foundations, Intro to [[Databases]] followed by the [[Data Structures]] course first before continuing on here.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), data (2), [[SQL]] (1), [[Database Development]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[Database Development]] (1), [[Databases]] (1), [[Data Structures]] (1)
 > **Env Vars:** sql (1)
 > **Cross-References:** we covered (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set up the database servers
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/set-up-the-database-servers-23386460?u=76281980)
+#### [Set up the database servers](https://www.linkedin.com/learning/database-foundations-database-management/set-up-the-database-servers-23386460?u=76281980)
 
-#### Create the Two Trees database
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/create-the-two-trees-database?u=76281980)
+#### [Create the Two Trees database](https://www.linkedin.com/learning/database-foundations-database-management/create-the-two-trees-database?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-database-management/create-the-two-trees-database?u=76281980&t=0)** - [Instructor] For this course, we're going to continue working with data for a company called TwoTrees that manufactures a line of olive oil products.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-database-management/create-the-two-trees-database?u=76281980&t=0)** - [Instructor] For this course, we're going to continue working with data for a company called TwoTrees that manufactures a line of olive oil [[Microsoft Products|products]].
 >
 > **[0:08](https://www.linkedin.com/learning/database-foundations-database-management/create-the-two-trees-database?u=76281980&t=8)** I want to make sure that everyone gets the same results as I do in working with the data.
 >
-> **[0:13](https://www.linkedin.com/learning/database-foundations-database-management/create-the-two-trees-database?u=76281980&t=13)** And I don't want things to get mixed up with databases that you may have created in the prior courses.
+> **[0:13](https://www.linkedin.com/learning/database-foundations-database-management/create-the-two-trees-database?u=76281980&t=13)** And I don't want things to get mixed up with [[Databases]] that you may have created in the prior courses.
 >
 > **[0:19](https://www.linkedin.com/learning/database-foundations-database-management/create-the-two-trees-database?u=76281980&t=19)** So let's take a moment and create a fresh database that includes a number of different tables and rows of data so that we have something interesting to work with.
 >
-> **[0:29](https://www.linkedin.com/learning/database-foundations-database-management/create-the-two-trees-database?u=76281980&t=29)** I'm going to close the three tabs that are currently open in my Azure Data Studio window.
+> **[0:29](https://www.linkedin.com/learning/database-foundations-database-management/create-the-two-trees-database?u=76281980&t=29)** I'm going to close the three tabs that are currently open in my [[Microsoft Azure|Azure]] Data Studio window.
 >
-> **[0:34](https://www.linkedin.com/learning/database-foundations-database-management/create-the-two-trees-database?u=76281980&t=34)** Then I'm going to go and start with the SQL server instance I'll right click on it and choose new query.
+> **[0:34](https://www.linkedin.com/learning/database-foundations-database-management/create-the-two-trees-database?u=76281980&t=34)** Then I'm going to go and start with the [[Microsoft SQL Server|SQL server]] instance I'll right click on it and choose new query.
 >
 > **[0:41](https://www.linkedin.com/learning/database-foundations-database-management/create-the-two-trees-database?u=76281980&t=41)** The first thing we need to do is create a database.
 >
@@ -231,7 +227,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/database-foundations-database-management/create-the-two-trees-database?u=76281980&t=207)** So that's the database setup on our SQL server instance.
 >
-> **[3:30](https://www.linkedin.com/learning/database-foundations-database-management/create-the-two-trees-database?u=76281980&t=210)** Let's go ahead and close this tab down and I'm not going to save any changes to the script and we'll do the same thing for our PostgreSQL.
+> **[3:30](https://www.linkedin.com/learning/database-foundations-database-management/create-the-two-trees-database?u=76281980&t=210)** Let's go ahead and close this tab down and I'm not going to save any changes to the script and we'll do the same thing for our [[PostgreSQL]].
 >
 > **[3:37](https://www.linkedin.com/learning/database-foundations-database-management/create-the-two-trees-database?u=76281980&t=217)** First, I'll right click on the database servers name and choose new query.
 >
@@ -305,7 +301,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (17), data (12), [[PostgreSQL]] (7), [[Microsoft Products|Products]] (6), [[Databases]] (3)
+> **Frameworks & Libraries:** [[PostgreSQL]] (7), [[Microsoft Products|Products]] (6), [[Databases]] (3), [[Microsoft Azure|Azure]] (3), [[Microsoft SQL Server|Sql server]] (3)
 > **UI Navigation:** click on (5), scroll down (4), dropdown (2), right-click (1)
 > **CLI Commands:** make (6), find (1)
 > **Env Vars:** sql (3), dbf (2), txt (1)
@@ -319,8 +315,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Save queries as database view objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/save-queries-as-database-view-objects?u=76281980)
+#### [Save queries as database view objects](https://www.linkedin.com/learning/database-foundations-database-management/save-queries-as-database-view-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -344,7 +339,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/database-foundations-database-management/save-queries-as-database-view-objects?u=76281980&t=72)** The main differentiator between tables and views is that tables store data and views do not.
 >
-> **[1:20](https://www.linkedin.com/learning/database-foundations-database-management/save-queries-as-database-view-objects?u=76281980&t=80)** Views create a virtual table made up of rows and columns from one or more of your databases tables.
+> **[1:20](https://www.linkedin.com/learning/database-foundations-database-management/save-queries-as-database-view-objects?u=76281980&t=80)** Views create a virtual table made up of rows and columns from one or more of your [[Databases]] tables.
 >
 > **[1:29](https://www.linkedin.com/learning/database-foundations-database-management/save-queries-as-database-view-objects?u=76281980&t=89)** So what are the benefits of using views?
 >
@@ -352,7 +347,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/database-foundations-database-management/save-queries-as-database-view-objects?u=76281980&t=102)** Second, they don't take up very much space in the database since they don't actually store any data.
 >
-> **[1:48](https://www.linkedin.com/learning/database-foundations-database-management/save-queries-as-database-view-objects?u=76281980&t=108)** They merely fetch the requested data from the original tables when they're called, and third, views benefit security and development tasks by creating a bridge between the user that's requesting information from the database and the data itself.
+> **[1:48](https://www.linkedin.com/learning/database-foundations-database-management/save-queries-as-database-view-objects?u=76281980&t=108)** They merely [[Fetch]] the requested data from the original tables when they're called, and third, views benefit security and development tasks by creating a bridge between the user that's requesting information from the database and the data itself.
 >
 > **[2:04](https://www.linkedin.com/learning/database-foundations-database-management/save-queries-as-database-view-objects?u=76281980&t=124)** This allows you to change or mask the internal structure of the database in ways that are easy to manage with a minimum of disruption to the users of your database.
 >
@@ -360,11 +355,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), data (6), [[Databases]] (1), [[Fetch]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[Fetch]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a database view
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/create-a-database-view?u=76281980)
+#### [Create a database view](https://www.linkedin.com/learning/database-foundations-database-management/create-a-database-view?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -376,11 +370,11 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/database-foundations-database-management/create-a-database-view?u=76281980&t=20)** The file CreateView-Start in the exercise files includes this query that pulls information from a number of tables in the two trees database.
 >
-> **[0:29](https://www.linkedin.com/learning/database-foundations-database-management/create-a-database-view?u=76281980&t=29)** The syntax is exactly the same on both the SQL server and Postgres platforms.
+> **[0:29](https://www.linkedin.com/learning/database-foundations-database-management/create-a-database-view?u=76281980&t=29)** The syntax is exactly the same on both the [[Microsoft SQL Server|SQL server]] and [[PostgreSQL|Postgres]] platforms.
 >
 > **[0:34](https://www.linkedin.com/learning/database-foundations-database-management/create-a-database-view?u=76281980&t=34)** So we can run this on either database successfully.
 >
-> **[0:37](https://www.linkedin.com/learning/database-foundations-database-management/create-a-database-view?u=76281980&t=37)** I'm going to demonstrate this on the Postgres SQL database.
+> **[0:37](https://www.linkedin.com/learning/database-foundations-database-management/create-a-database-view?u=76281980&t=37)** I'm going to demonstrate this on the Postgres [[SQL]] database.
 >
 > **[0:40](https://www.linkedin.com/learning/database-foundations-database-management/create-a-database-view?u=76281980&t=40)** So right click on the two trees database in the Postgres server, choose new query, and then paste in the text from the exercise files.
 >
@@ -388,7 +382,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/database-foundations-database-management/create-a-database-view?u=76281980&t=51)** This data provides a detailed look at each line of every order that's been placed.
 >
-> **[0:57](https://www.linkedin.com/learning/database-foundations-database-management/create-a-database-view?u=76281980&t=57)** We can see the order ID number, a row for each line item in the order, who placed the order and when, and some information about the products that were ordered over here on the right.
+> **[0:57](https://www.linkedin.com/learning/database-foundations-database-management/create-a-database-view?u=76281980&t=57)** We can see the order ID number, a row for each line item in the order, who placed the order and when, and some information about the [[Microsoft Products|products]] that were ordered over here on the right.
 >
 > **[1:08](https://www.linkedin.com/learning/database-foundations-database-management/create-a-database-view?u=76281980&t=68)** This query can be really useful in exploring the data that split up across four different data tables in the two trees database.
 >
@@ -500,7 +494,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (16), data (11), [[PostgreSQL|Postgres]] (3), [[Microsoft Products|Products]] (2), [[Microsoft SQL Server|Sql server]] (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (3), [[Microsoft Products|Products]] (2), [[Microsoft SQL Server|Sql server]] (1), [[SQL]] (1)
 > **UI Navigation:** click on (3), in the sidebar (1), dropdown (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** just like (2), for instance (1), for example (1)
@@ -509,8 +503,7 @@ created: 2026-05-02
 > **Code Identifiers:** order_details (1)
 > **Speakers:** - [instructor] (1)
 
-#### Views and database maintenance
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/views-and-database-maintenance?u=76281980)
+#### [Views and database maintenance](https://www.linkedin.com/learning/database-foundations-database-management/views-and-database-maintenance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -578,7 +571,7 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/database-foundations-database-management/views-and-database-maintenance?u=76281980&t=239)** PostgresSQL was smart enough to recognize that the column renaming process would break the view, so it fixed it here as well.
 >
-> **[4:10](https://www.linkedin.com/learning/database-foundations-database-management/views-and-database-maintenance?u=76281980&t=250)** This behavior with the alias doesn't actually occur in SQL Server though.
+> **[4:10](https://www.linkedin.com/learning/database-foundations-database-management/views-and-database-maintenance?u=76281980&t=250)** This behavior with the alias doesn't actually occur in [[Microsoft SQL Server|SQL Server]] though.
 >
 > **[4:14](https://www.linkedin.com/learning/database-foundations-database-management/views-and-database-maintenance?u=76281980&t=254)** So if you rename a table column on that platform you'll actually break the view and it'll have to be recreated using the correct names manually.
 >
@@ -620,7 +613,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), data (6), [[Microsoft SQL Server|Sql server]] (3)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3)
 > **CLI Commands:** make (5), find (2)
 > **UI Navigation:** select the (3), click on (2), right-click (1), scroll down (1)
 > **Env Vars:** sql (3), rdbms (1)
@@ -629,8 +622,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Views and database security
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/views-and-database-security?u=76281980)
+#### [Views and database security](https://www.linkedin.com/learning/database-foundations-database-management/views-and-database-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -654,7 +646,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/database-foundations-database-management/views-and-database-security?u=76281980&t=78)** A view based off of that table then uses a group by clause with some aggregate functions.
 >
-> **[1:24](https://www.linkedin.com/learning/database-foundations-database-management/views-and-database-security?u=76281980&t=84)** Researchers would then query the view to access summary statistics, such as the minimum, maximum, and average test score without revealing the sensitive details about each student's individual grades.
+> **[1:24](https://www.linkedin.com/learning/database-foundations-database-management/views-and-database-security?u=76281980&t=84)** Researchers would then query the view to access summary [[Statistics]], such as the minimum, maximum, and average test score without revealing the sensitive details about each student's individual grades.
 >
 > **[1:40](https://www.linkedin.com/learning/database-foundations-database-management/views-and-database-security?u=76281980&t=100)** And third, views can provide a base for other queries eliminating the need to reveal all of your data tables and columns while still giving users the ability to construct the queries that meet their changing needs.
 >
@@ -668,13 +660,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), database (4), [[Security]] (4), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **Analogies:** for instance (2), such as (2)
 > **Best Practices:** you should always (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Create a view
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/challenge-create-a-view?u=76281980)
+#### [Challenge: Create a view](https://www.linkedin.com/learning/database-foundations-database-management/challenge-create-a-view?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -698,14 +689,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), management (1), data (1), product (1), next (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Create a view
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/solution-create-a-view?u=76281980)
+#### [Solution: Create a view](https://www.linkedin.com/learning/database-foundations-database-management/solution-create-a-view?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -715,7 +704,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/database-foundations-database-management/solution-create-a-view?u=76281980&t=14)** I'm going to continue working on the two trees database.
 >
-> **[0:17](https://www.linkedin.com/learning/database-foundations-database-management/solution-create-a-view?u=76281980&t=17)** That's in my PostgreSQL server, since that's the one I've been working on and making changes to.
+> **[0:17](https://www.linkedin.com/learning/database-foundations-database-management/solution-create-a-view?u=76281980&t=17)** That's in my [[PostgreSQL]] server, since that's the one I've been working on and making changes to.
 >
 > **[0:23](https://www.linkedin.com/learning/database-foundations-database-management/solution-create-a-view?u=76281980&t=23)** So let's go ahead and right click on that and choose new query and get started here.
 >
@@ -861,7 +850,7 @@ created: 2026-05-02
 >
 > **[5:37](https://www.linkedin.com/learning/database-foundations-database-management/solution-create-a-view?u=76281980&t=337)** Okay, so there's our order lines table and it gets going to give me the quantity of each product that was ordered on each line but it doesn't tell me anything about price.
 >
-> **[5:45](https://www.linkedin.com/learning/database-foundations-database-management/solution-create-a-view?u=76281980&t=345)** And so for the price information, we need to take a look at the products table.
+> **[5:45](https://www.linkedin.com/learning/database-foundations-database-management/solution-create-a-view?u=76281980&t=345)** And so for the price information, we need to take a look at the [[Microsoft Products|products]] table.
 >
 > **[5:52](https://www.linkedin.com/learning/database-foundations-database-management/solution-create-a-view?u=76281980&t=352)** Let's pick in that one real quick.
 >
@@ -983,11 +972,11 @@ created: 2026-05-02
 >
 > **[10:43](https://www.linkedin.com/learning/database-foundations-database-management/solution-create-a-view?u=76281980&t=643)** So if you came up with a different solution that still gets the same relevant information then that's still really all that's important.
 >
-> **[10:51](https://www.linkedin.com/learning/database-foundations-database-management/solution-create-a-view?u=76281980&t=651)** I'm going to save my SQL commands as solution-views-complete in the exercise files so that you can compare your code against mine.
+> **[10:51](https://www.linkedin.com/learning/database-foundations-database-management/solution-create-a-view?u=76281980&t=651)** I'm going to save my [[SQL]] commands as solution-views-complete in the exercise files so that you can compare your code against mine.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (11), database (2), product (2), [[PostgreSQL]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (11), [[PostgreSQL]] (1), [[SQL]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Versions:** 15.99 (1), 26.99 (1)
 > **UI Navigation:** click on (1), select the (1)
@@ -1001,8 +990,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The query optimizer
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/the-query-optimizer?u=76281980)
+#### [The query optimizer](https://www.linkedin.com/learning/database-foundations-database-management/the-query-optimizer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1016,7 +1004,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/database-foundations-database-management/the-query-optimizer?u=76281980&t=40)** Half a second might not seem like much but multiply that out times a million requests in a day and it quickly adds up to a significant savings in time, resources, and ultimately money.
 >
-> **[0:55](https://www.linkedin.com/learning/database-foundations-database-management/the-query-optimizer?u=76281980&t=55)** One technique for speeding up queries is to throw more hardware at the problem.
+> **[0:55](https://www.linkedin.com/learning/database-foundations-database-management/the-query-optimizer?u=76281980&t=55)** One technique for speeding up queries is to throw more [[Hardware]] at the problem.
 >
 > **[0:59](https://www.linkedin.com/learning/database-foundations-database-management/the-query-optimizer?u=76281980&t=59)** Upgrading to faster memory or hard disks, splitting data tables and indexes across additional drives that can be read and written to simultaneously, adding additional processor cores.
 >
@@ -1028,7 +1016,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/database-foundations-database-management/the-query-optimizer?u=76281980&t=93)** However, it's always going to be better to address query performance in software first by understanding what happens when you execute a query and how the database engine processes your request.
 >
-> **[1:48](https://www.linkedin.com/learning/database-foundations-database-management/the-query-optimizer?u=76281980&t=108)** One of the things that makes the SQL language popular is that you use it to describe the end result that you want.
+> **[1:48](https://www.linkedin.com/learning/database-foundations-database-management/the-query-optimizer?u=76281980&t=108)** One of the things that makes the [[SQL]] language popular is that you use it to describe the end result that you want.
 >
 > **[1:55](https://www.linkedin.com/learning/database-foundations-database-management/the-query-optimizer?u=76281980&t=115)** Compare that to most other programming languages where you explicitly script out every step in a process.
 >
@@ -1082,14 +1070,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (13), data (5), [[Hardware]] (2), [[SQL]] (2), cloud (1)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[SQL]] (2)
 > **Definitions:** is a  (2), is an  (1), in other words (1), is called (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** sql (2)
 > **Speakers:** - [instructor] (1)
 
-#### Reading execution plans
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/reading-execution-plans?u=76281980)
+#### [Reading execution plans](https://www.linkedin.com/learning/database-foundations-database-management/reading-execution-plans?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1109,7 +1096,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/database-foundations-database-management/reading-execution-plans?u=76281980&t=45)** So the optimizer knows basic information about the structure of the table and whether any particular columns have indexes.
 >
-> **[0:52](https://www.linkedin.com/learning/database-foundations-database-management/reading-execution-plans?u=76281980&t=52)** It will also sometimes know and approximate number of data rows that the table contains and some additional statistics about the distribution of values.
+> **[0:52](https://www.linkedin.com/learning/database-foundations-database-management/reading-execution-plans?u=76281980&t=52)** It will also sometimes know and approximate number of data rows that the table contains and some additional [[Statistics]] about the distribution of values.
 >
 > **[1:01](https://www.linkedin.com/learning/database-foundations-database-management/reading-execution-plans?u=76281980&t=61)** But it doesn't know anything about the actual values that the table contains.
 >
@@ -1127,7 +1114,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/database-foundations-database-management/reading-execution-plans?u=76281980&t=129)** Other platforms keep a record or a cache of old plans for later review.
 >
-> **[2:15](https://www.linkedin.com/learning/database-foundations-database-management/reading-execution-plans?u=76281980&t=135)** SQL server, for example, can choose one plan the first time a query is executed, deliberately choose a different plan the second time the same query is executed, and then compare the results of each method.
+> **[2:15](https://www.linkedin.com/learning/database-foundations-database-management/reading-execution-plans?u=76281980&t=135)** [[Microsoft SQL Server|SQL server]], for example, can choose one plan the first time a query is executed, deliberately choose a different plan the second time the same query is executed, and then compare the results of each method.
 >
 > **[2:27](https://www.linkedin.com/learning/database-foundations-database-management/reading-execution-plans?u=76281980&t=147)** Over time, this internal and automatic AB testing can guide the optimizer to make even better execution plan choices.
 >
@@ -1205,35 +1192,34 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), database (6), [[Statistics]] (1), [[Microsoft SQL Server|Sql server]] (1), node (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **CLI Commands:** find (3), make (2), node (1)
 > **Env Vars:** rdbms (3), sql (1)
 > **Definitions:** known as (1), is called (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### View a SQL Server execution plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/view-a-sql-server-execution-plan?u=76281980)
+#### [View a SQL Server execution plan](https://www.linkedin.com/learning/database-foundations-database-management/view-a-sql-server-execution-plan?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-database-management/view-a-sql-server-execution-plan?u=76281980&t=0)** - [Instructor] Different relational database management systems will have different capabilities when it comes to displaying information about query plans.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-database-management/view-a-sql-server-execution-plan?u=76281980&t=0)** - [Instructor] Different relational [[Database Management]] systems will have different capabilities when it comes to displaying information about query plans.
 >
 > **[0:08](https://www.linkedin.com/learning/database-foundations-database-management/view-a-sql-server-execution-plan?u=76281980&t=8)** And each RDBMS will decide on different plans by the internal optimizers even when given the exact same query on the exact same data.
 >
-> **[0:17](https://www.linkedin.com/learning/database-foundations-database-management/view-a-sql-server-execution-plan?u=76281980&t=17)** So, specific performance tuning strategies are highly variable.
+> **[0:17](https://www.linkedin.com/learning/database-foundations-database-management/view-a-sql-server-execution-plan?u=76281980&t=17)** So, specific [[Performance Tuning]] strategies are highly variable.
 >
 > **[0:21](https://www.linkedin.com/learning/database-foundations-database-management/view-a-sql-server-execution-plan?u=76281980&t=21)** It'll be unique for every database and platform.
 >
 > **[0:25](https://www.linkedin.com/learning/database-foundations-database-management/view-a-sql-server-execution-plan?u=76281980&t=25)** But most platforms will allow you to review the query plan so that you can see what's happening behind the scenes and how your queries progress from the written command to the final result.
 >
-> **[0:37](https://www.linkedin.com/learning/database-foundations-database-management/view-a-sql-server-execution-plan?u=76281980&t=37)** I want to take a look first at how query plan information is exposed in SQL server.
+> **[0:37](https://www.linkedin.com/learning/database-foundations-database-management/view-a-sql-server-execution-plan?u=76281980&t=37)** I want to take a look first at how query plan information is exposed in [[Microsoft SQL Server|SQL server]].
 >
-> **[0:42](https://www.linkedin.com/learning/database-foundations-database-management/view-a-sql-server-execution-plan?u=76281980&t=42)** And then we can compare to how PostgreSQL displays the same plan information.
+> **[0:42](https://www.linkedin.com/learning/database-foundations-database-management/view-a-sql-server-execution-plan?u=76281980&t=42)** And then we can compare to how [[PostgreSQL]] displays the same plan information.
 >
 > **[0:48](https://www.linkedin.com/learning/database-foundations-database-management/view-a-sql-server-execution-plan?u=76281980&t=48)** I currently have the text from the ExecutionPlan-Start file here in a new query window that's connected to my SQL server database.
 >
-> **[0:57](https://www.linkedin.com/learning/database-foundations-database-management/view-a-sql-server-execution-plan?u=76281980&t=57)** To get here, just right click on the databases name and your connection sidebar, choose new query and then paste in the text from the exercise files.
+> **[0:57](https://www.linkedin.com/learning/database-foundations-database-management/view-a-sql-server-execution-plan?u=76281980&t=57)** To get here, just right click on the [[Databases]] name and your connection sidebar, choose new query and then paste in the text from the exercise files.
 >
 > **[1:06](https://www.linkedin.com/learning/database-foundations-database-management/view-a-sql-server-execution-plan?u=76281980&t=66)** Now, before we get too far, I need to make one small change to the structure of this database.
 >
@@ -1253,9 +1239,9 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/database-foundations-database-management/view-a-sql-server-execution-plan?u=76281980&t=125)** In fact, let's just highlight everything from line 10 down to 19 and run it so we can see the result.
 >
-> **[2:13](https://www.linkedin.com/learning/database-foundations-database-management/view-a-sql-server-execution-plan?u=76281980&t=133)** Now, this query pulls information from four different data tables and then it aggregates all of the individual order data into some useful statistics about each customer.
+> **[2:13](https://www.linkedin.com/learning/database-foundations-database-management/view-a-sql-server-execution-plan?u=76281980&t=133)** Now, this query pulls information from four different data tables and then it aggregates all of the individual order data into some useful [[Statistics]] about each customer.
 >
-> **[2:23](https://www.linkedin.com/learning/database-foundations-database-management/view-a-sql-server-execution-plan?u=76281980&t=143)** We get the company name as well as a count of how many orders they've placed and the total amount of money that they spent with two trees products.
+> **[2:23](https://www.linkedin.com/learning/database-foundations-database-management/view-a-sql-server-execution-plan?u=76281980&t=143)** We get the company name as well as a count of how many orders they've placed and the total amount of money that they spent with two trees [[Microsoft Products|products]].
 >
 > **[2:33](https://www.linkedin.com/learning/database-foundations-database-management/view-a-sql-server-execution-plan?u=76281980&t=153)** In order to view the query plan that allowed the RDBMS to translate our query into these results, we can use the explained button up here on the top of the toolbar.
 >
@@ -1331,7 +1317,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (10), database (7), data (7), [[Microsoft SQL Server|Sql server]] (3), [[PostgreSQL]] (3)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3), [[PostgreSQL]] (3), [[Databases]] (3), [[Database Management]] (1), [[Performance Tuning]] (1)
 > **CLI Commands:** node (10), make (4), find (1)
 > **Env Vars:** sql (3), rdbms (2), column (1), cpo (1)
 > **Code Identifiers:** sp_rename (2), company_name (1)
@@ -1340,18 +1326,17 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Analogies:** picture (1)
 
-#### View a PostgreSQL execution plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/view-a-postgresql-execution-plan?u=76281980)
+#### [View a PostgreSQL execution plan](https://www.linkedin.com/learning/database-foundations-database-management/view-a-postgresql-execution-plan?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-database-management/view-a-postgresql-execution-plan?u=76281980&t=0)** - [Instructor] We just reviewed the query execution plan, as it's displayed for a SQL Server database.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-database-management/view-a-postgresql-execution-plan?u=76281980&t=0)** - [Instructor] We just reviewed the query execution plan, as it's displayed for a [[Microsoft SQL Server|SQL Server]] database.
 >
-> **[0:05](https://www.linkedin.com/learning/database-foundations-database-management/view-a-postgresql-execution-plan?u=76281980&t=5)** Now let's take a look at the same information in PostgreSQL.
+> **[0:05](https://www.linkedin.com/learning/database-foundations-database-management/view-a-postgresql-execution-plan?u=76281980&t=5)** Now let's take a look at the same information in [[PostgreSQL]].
 >
 > **[0:09](https://www.linkedin.com/learning/database-foundations-database-management/view-a-postgresql-execution-plan?u=76281980&t=9)** I'm going to move this down on my screen a little bit, and copy all of the exercise file scripts to my clipboard.
 >
-> **[0:16](https://www.linkedin.com/learning/database-foundations-database-management/view-a-postgresql-execution-plan?u=76281980&t=16)** And then I'm going to collapse my SQL Server database and come over the the Postgres version.
+> **[0:16](https://www.linkedin.com/learning/database-foundations-database-management/view-a-postgresql-execution-plan?u=76281980&t=16)** And then I'm going to collapse my SQL Server database and come over the the [[PostgreSQL|Postgres]] version.
 >
 > **[0:20](https://www.linkedin.com/learning/database-foundations-database-management/view-a-postgresql-execution-plan?u=76281980&t=20)** Let's right click on it, choose new query, and paste in all of that text.
 >
@@ -1389,7 +1374,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/database-foundations-database-management/view-a-postgresql-execution-plan?u=76281980&t=112)** Inside of the node, we have some information about the cost of each node, and time spent, listed out here in the parentheses.
 >
-> **[2:00](https://www.linkedin.com/learning/database-foundations-database-management/view-a-postgresql-execution-plan?u=76281980&t=120)** After the index scan, we generate some hash keys from a scan of the products table, here on line number 12.
+> **[2:00](https://www.linkedin.com/learning/database-foundations-database-management/view-a-postgresql-execution-plan?u=76281980&t=120)** After the index scan, we generate some hash keys from a scan of the [[Microsoft Products|products]] table, here on line number 12.
 >
 > **[2:08](https://www.linkedin.com/learning/database-foundations-database-management/view-a-postgresql-execution-plan?u=76281980&t=128)** Eventually, this all gets fed into a hash join, up on line number four.
 >
@@ -1413,7 +1398,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), database (4), node (4), [[PostgreSQL|Postgres]] (3), [[PostgreSQL]] (2)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), [[PostgreSQL|Postgres]] (3), [[PostgreSQL]] (2), [[Microsoft Products|Products]] (2)
 > **Env Vars:** sql (4), rdbms (1)
 > **CLI Commands:** node (4)
 > **UI Navigation:** click on (1)
@@ -1422,22 +1407,21 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Control query plans with hints
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/control-query-plans-with-hints?u=76281980)
+#### [Control query plans with hints](https://www.linkedin.com/learning/database-foundations-database-management/control-query-plans-with-hints?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-database-management/control-query-plans-with-hints?u=76281980&t=0)** - [Instructor] The query optimizers included with each relational database management system have gotten really good over the years.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-database-management/control-query-plans-with-hints?u=76281980&t=0)** - [Instructor] The query optimizers included with each relational [[Database Management]] system have gotten really good over the years.
 >
 > **[0:08](https://www.linkedin.com/learning/database-foundations-database-management/control-query-plans-with-hints?u=76281980&t=8)** A lot of engineering resources have been poured into making sure that they operate at the highest levels, and choose the most optimal execution plans.
 >
-> **[0:17](https://www.linkedin.com/learning/database-foundations-database-management/control-query-plans-with-hints?u=76281980&t=17)** So the best practice is to just let them do their job in determining how best to fetch your data and return the results that you've asked for in your queries.
+> **[0:17](https://www.linkedin.com/learning/database-foundations-database-management/control-query-plans-with-hints?u=76281980&t=17)** So the best practice is to just let them do their job in determining how best to [[Fetch]] your data and return the results that you've asked for in your queries.
 >
 > **[0:26](https://www.linkedin.com/learning/database-foundations-database-management/control-query-plans-with-hints?u=76281980&t=26)** However, some RDBMS platforms do allow you to override the query optimizer, and force a particular technique.
 >
 > **[0:35](https://www.linkedin.com/learning/database-foundations-database-management/control-query-plans-with-hints?u=76281980&t=35)** This involves adding hints into the syntax of your query.
 >
-> **[0:40](https://www.linkedin.com/learning/database-foundations-database-management/control-query-plans-with-hints?u=76281980&t=40)** To review, let's start with the same query that we executed in the prior movie on SQL server.
+> **[0:40](https://www.linkedin.com/learning/database-foundations-database-management/control-query-plans-with-hints?u=76281980&t=40)** To review, let's start with the same query that we executed in the prior movie on [[Microsoft SQL Server|SQL server]].
 >
 > **[0:45](https://www.linkedin.com/learning/database-foundations-database-management/control-query-plans-with-hints?u=76281980&t=45)** I'm going to highlight lines two through 11 in the script here, and then press the explain button.
 >
@@ -1485,7 +1469,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft SQL Server|Sql server]] (2), database (1), management (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), [[Database Management]] (1), [[Fetch]] (1)
 > **Env Vars:** sql (2), rdbms (1)
 > **Best Practices:** best practice (1), it's best to (1)
 > **CLI Commands:** find (1)
@@ -1497,8 +1481,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Transactions and data consistency
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/transactions-and-data-consistency?u=76281980)
+#### [Transactions and data consistency](https://www.linkedin.com/learning/database-foundations-database-management/transactions-and-data-consistency?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1532,13 +1515,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), data (4), product (1)
 > **Definitions:** means that (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### ACID properties
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/acid-properties?u=76281980)
+#### [ACID properties](https://www.linkedin.com/learning/database-foundations-database-management/acid-properties?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1580,19 +1561,18 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/database-foundations-database-management/acid-properties?u=76281980&t=100)** While all of these properties of transactions are important to the integrity of your data, they're not actually something that you'll typically need to worry about.
 >
-> **[1:48](https://www.linkedin.com/learning/database-foundations-database-management/acid-properties?u=76281980&t=108)** All relational database management systems, automatically enforce these four principles on all of the transactions that you create in your databases.
+> **[1:48](https://www.linkedin.com/learning/database-foundations-database-management/acid-properties?u=76281980&t=108)** All relational [[Database Management]] systems, automatically enforce these four principles on all of the transactions that you create in your [[Databases]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), database (2), management (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Database Management]] (1), [[Databases]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** refers to (1), means that (1)
 > **Env Vars:** acid (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Commit and rollback transactions
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/commit-and-rollback-transactions?u=76281980)
+#### [Commit and rollback transactions](https://www.linkedin.com/learning/database-foundations-database-management/commit-and-rollback-transactions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1600,7 +1580,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/database-foundations-database-management/commit-and-rollback-transactions?u=76281980&t=10)** In order to create a transaction, we need to tell the server when the batch of commands is starting and when we've reached the end.
 >
-> **[0:18](https://www.linkedin.com/learning/database-foundations-database-management/commit-and-rollback-transactions?u=76281980&t=18)** The commands to do this are the same on both SQL server and PostgreSQL.
+> **[0:18](https://www.linkedin.com/learning/database-foundations-database-management/commit-and-rollback-transactions?u=76281980&t=18)** The commands to do this are the same on both [[Microsoft SQL Server|SQL server]] and [[PostgreSQL]].
 >
 > **[0:23](https://www.linkedin.com/learning/database-foundations-database-management/commit-and-rollback-transactions?u=76281980&t=23)** And in fact, they're pretty standard across most RDBMS platforms.
 >
@@ -1732,20 +1712,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (14), data (6), [[PostgreSQL]] (2), [[Microsoft SQL Server|Sql server]] (1), product (1)
+> **Frameworks & Libraries:** [[PostgreSQL]] (2), [[Microsoft SQL Server|Sql server]] (1)
 > **UI Navigation:** click on (1), open the (1), select the (1)
 > **Env Vars:** sql (1), rdbms (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
-#### Understanding concurrency and locks
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/understanding-concurrency-and-locks?u=76281980)
+#### [Understanding concurrency and locks](https://www.linkedin.com/learning/database-foundations-database-management/understanding-concurrency-and-locks?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/database-foundations-database-management/understanding-concurrency-and-locks?u=76281980&t=0)** - [Instructor] When you start working with transactions, two important concepts come into play.
 >
-> **[0:05](https://www.linkedin.com/learning/database-foundations-database-management/understanding-concurrency-and-locks?u=76281980&t=5)** Let's spend a few minutes and understand how relational databases deal with multiple concurrent users and data access locks.
+> **[0:05](https://www.linkedin.com/learning/database-foundations-database-management/understanding-concurrency-and-locks?u=76281980&t=5)** Let's spend a few minutes and understand how [[Relational Databases]] deal with multiple concurrent users and data access locks.
 >
 > **[0:15](https://www.linkedin.com/learning/database-foundations-database-management/understanding-concurrency-and-locks?u=76281980&t=15)** Concurrent access occurs when two or more users are performing activities with the same row of data at the same time.
 >
@@ -1785,7 +1764,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/database-foundations-database-management/understanding-concurrency-and-locks?u=76281980&t=163)** This happens when a transaction reads a table twice but another process sneaks in and removes or adds new rows in between both of those reads.
 >
-> **[2:53](https://www.linkedin.com/learning/database-foundations-database-management/understanding-concurrency-and-locks?u=76281980&t=173)** In order to combat all of these problems, relational database management systems employ a number of table and row locking strategies to prevent simultaneous access from occurring by concurrent users.
+> **[2:53](https://www.linkedin.com/learning/database-foundations-database-management/understanding-concurrency-and-locks?u=76281980&t=173)** In order to combat all of these problems, relational [[Database Management]] systems employ a number of table and row locking strategies to prevent simultaneous access from occurring by concurrent users.
 >
 > **[3:07](https://www.linkedin.com/learning/database-foundations-database-management/understanding-concurrency-and-locks?u=76281980&t=187)** Locks prevent two different transactions from accessing the same data resources at the same time either at the entire table level or at the individual row level.
 >
@@ -1805,7 +1784,7 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/database-foundations-database-management/understanding-concurrency-and-locks?u=76281980&t=243)** Alternatively RDBMSs can also allow parallel execution of simultaneous transactions under certain circumstances.
 >
-> **[4:11](https://www.linkedin.com/learning/database-foundations-database-management/understanding-concurrency-and-locks?u=76281980&t=251)** As long as precautions are taken to isolate the effects of these transactions from affecting each other The SQL specification outlines four isolation levels that could be applied to transactions depending on the kinds of concurrency issues that need to be mitigated against.
+> **[4:11](https://www.linkedin.com/learning/database-foundations-database-management/understanding-concurrency-and-locks?u=76281980&t=251)** As long as precautions are taken to isolate the effects of these transactions from affecting each other The [[SQL]] specification outlines four isolation levels that could be applied to transactions depending on the kinds of concurrency issues that need to be mitigated against.
 >
 > **[4:31](https://www.linkedin.com/learning/database-foundations-database-management/understanding-concurrency-and-locks?u=76281980&t=271)** These give database managers some agency in deciding which trade-offs between performance and reliability are acceptable and which ones aren't.
 >
@@ -1837,7 +1816,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), database (5), concurrent (3), [[Relational Databases]] (1), management (1)
+> **Frameworks & Libraries:** [[Relational Databases]] (1), [[Database Management]] (1), [[SQL]] (1)
 > **Env Vars:** rdbms (2), sql (1)
 > **Definitions:** is called (1), means that (1)
 > **Documentation:** specification (1)
@@ -1848,12 +1827,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explore the system tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/explore-the-system-tables?u=76281980)
+#### [Explore the system tables](https://www.linkedin.com/learning/database-foundations-database-management/explore-the-system-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-database-management/explore-the-system-tables?u=76281980&t=0)** - [Instructor] One of the more interesting aspects about relational database management systems at least to me, is that they use internal system databases and tables to manage your personal databases and tables.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-database-management/explore-the-system-tables?u=76281980&t=0)** - [Instructor] One of the more interesting aspects about relational [[Database Management]] systems at least to me, is that they use internal system [[Databases]] and tables to manage your personal databases and tables.
 >
 > **[0:14](https://www.linkedin.com/learning/database-foundations-database-management/explore-the-system-tables?u=76281980&t=14)** The thing that I find interesting is that it's exactly the same database objects that are used.
 >
@@ -1863,7 +1841,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/database-foundations-database-management/explore-the-system-tables?u=76281980&t=34)** When you update the data type that I a column holds, that information is also saved into a system table.
 >
-> **[0:40](https://www.linkedin.com/learning/database-foundations-database-management/explore-the-system-tables?u=76281980&t=40)** System tables hold the building blocks for the relational databases that you develop.
+> **[0:40](https://www.linkedin.com/learning/database-foundations-database-management/explore-the-system-tables?u=76281980&t=40)** System tables hold the building blocks for the [[Relational Databases]] that you develop.
 >
 > **[0:47](https://www.linkedin.com/learning/database-foundations-database-management/explore-the-system-tables?u=76281980&t=47)** The wonderful thing about this is that these tables are often available for you to read through and they can provide a wealth of information about how your database is constructed and the settings and options that are enabled.
 >
@@ -1881,7 +1859,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/database-foundations-database-management/explore-the-system-tables?u=76281980&t=98)** And this is one of the few areas of learning about relational databases that's going to be completely unique for each platform.
 >
-> **[1:46](https://www.linkedin.com/learning/database-foundations-database-management/explore-the-system-tables?u=76281980&t=106)** You can find documentation on the tables that SQL Server uses at this URL.
+> **[1:46](https://www.linkedin.com/learning/database-foundations-database-management/explore-the-system-tables?u=76281980&t=106)** You can find documentation on the tables that [[Microsoft SQL Server|SQL Server]] uses at this URL.
 >
 > **[1:51](https://www.linkedin.com/learning/database-foundations-database-management/explore-the-system-tables?u=76281980&t=111)** In fact, SQL Server uses view objects to provide access to the underlying information.
 >
@@ -1889,7 +1867,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/database-foundations-database-management/explore-the-system-tables?u=76281980&t=121)** In any case, this page links to a wealth of information about the catalog views that are available and what each column in the view represents.
 >
-> **[2:09](https://www.linkedin.com/learning/database-foundations-database-management/explore-the-system-tables?u=76281980&t=129)** PostgreSQL has similar functionality.
+> **[2:09](https://www.linkedin.com/learning/database-foundations-database-management/explore-the-system-tables?u=76281980&t=129)** [[PostgreSQL]] has similar functionality.
 >
 > **[2:12](https://www.linkedin.com/learning/database-foundations-database-management/explore-the-system-tables?u=76281980&t=132)** They call these tables system catalogs and they're all listed out at this URL.
 >
@@ -1941,15 +1919,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (13), [[Databases]] (7), [[Microsoft SQL Server|Sql server]] (5), management (2), data (2)
+> **Frameworks & Libraries:** [[Databases]] (7), [[Microsoft SQL Server|Sql server]] (5), [[Database Management]] (2), [[Relational Databases]] (2), [[PostgreSQL]] (2)
 > **Env Vars:** sql (5), rdbms (2), url (2)
 > **CLI Commands:** find (3), make (1)
 > **Analogies:** for example (1), just like (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Duplicate tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/duplicate-tables?u=76281980)
+#### [Duplicate tables](https://www.linkedin.com/learning/database-foundations-database-management/duplicate-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1961,11 +1938,11 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/database-foundations-database-management/duplicate-tables?u=76281980&t=27)** You can create the table structure and populate the rows with information by duplicating an existing table.
 >
-> **[0:34](https://www.linkedin.com/learning/database-foundations-database-management/duplicate-tables?u=76281980&t=34)** Let's take a look at how this works in the PostgreSQL server.
+> **[0:34](https://www.linkedin.com/learning/database-foundations-database-management/duplicate-tables?u=76281980&t=34)** Let's take a look at how this works in the [[PostgreSQL]] server.
 >
 > **[0:37](https://www.linkedin.com/learning/database-foundations-database-management/duplicate-tables?u=76281980&t=37)** I'll create a new query window attached to that database server.
 >
-> **[0:42](https://www.linkedin.com/learning/database-foundations-database-management/duplicate-tables?u=76281980&t=42)** First, I want to review the current contents of the inventory.products table.
+> **[0:42](https://www.linkedin.com/learning/database-foundations-database-management/duplicate-tables?u=76281980&t=42)** First, I want to review the current contents of the inventory.[[Microsoft Products|products]] table.
 >
 > **[0:52](https://www.linkedin.com/learning/database-foundations-database-management/duplicate-tables?u=76281980&t=52)** Now, as you can see, there are lots of products in this table.
 >
@@ -1999,7 +1976,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/database-foundations-database-management/duplicate-tables?u=76281980&t=148)** Keep in mind that these rows are a duplicate of the original source and are completely separate data rows, so changes to one table won't be reflected in the other.
 >
-> **[2:39](https://www.linkedin.com/learning/database-foundations-database-management/duplicate-tables?u=76281980&t=159)** We can do the same thing in SQL Server with a slightly different syntax.
+> **[2:39](https://www.linkedin.com/learning/database-foundations-database-management/duplicate-tables?u=76281980&t=159)** We can do the same thing in [[Microsoft SQL Server|SQL Server]] with a slightly different syntax.
 >
 > **[2:43](https://www.linkedin.com/learning/database-foundations-database-management/duplicate-tables?u=76281980&t=163)** Let's open up a new query window attached to that database server.
 >
@@ -2021,11 +1998,11 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/database-foundations-database-management/duplicate-tables?u=76281980&t=236)** And once again, there is the new duplicated values in a brand-new data table.
 >
-> **[4:01](https://www.linkedin.com/learning/database-foundations-database-management/duplicate-tables?u=76281980&t=241)** And that's how you can use a little bit of SQL to create a duplicate table object in your relational databases.
+> **[4:01](https://www.linkedin.com/learning/database-foundations-database-management/duplicate-tables?u=76281980&t=241)** And that's how you can use a little bit of [[SQL]] to create a duplicate table object in your [[Relational Databases]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (8), data (5), database (3), [[PostgreSQL]] (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (8), [[PostgreSQL]] (1), [[Microsoft SQL Server|Sql server]] (1), [[SQL]] (1), [[Relational Databases]] (1)
 > **Env Vars:** create (3), table (3), select (3), sql (2), into (2)
 > **SQL:** create table (3), select (3), where (2)
 > **Code Identifiers:** category_id (3), beauty_products (3)
@@ -2034,14 +2011,13 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Delete data with TRUNCATE
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/delete-data-with-truncate?u=76281980)
+#### [Delete data with TRUNCATE](https://www.linkedin.com/learning/database-foundations-database-management/delete-data-with-truncate?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/database-foundations-database-management/delete-data-with-truncate?u=76281980&t=0)** - [Instructor] Earlier in this series, we learned that you can remove data rows from a table with a DELETE command.
 >
-> **[0:06](https://www.linkedin.com/learning/database-foundations-database-management/delete-data-with-truncate?u=76281980&t=6)** For instance, let's review the beauty_products table that we just created in a prior movie in the Postgres SQL database.
+> **[0:06](https://www.linkedin.com/learning/database-foundations-database-management/delete-data-with-truncate?u=76281980&t=6)** For instance, let's review the beauty_products table that we just created in a prior movie in the [[PostgreSQL|Postgres]] [[SQL]] database.
 >
 > **[0:21](https://www.linkedin.com/learning/database-foundations-database-management/delete-data-with-truncate?u=76281980&t=21)** This table currently contains seven rows of data.
 >
@@ -2081,7 +2057,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[PostgreSQL|Postgres]] (1), [[SQL]] (1), database (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (1), [[SQL]] (1)
 > **Env Vars:** delete (5), truncate (3), ogec004 (2), where (2), table (2)
 > **API Endpoints:** delete  (5)
 > **Code Identifiers:** beauty_products (4)
@@ -2090,16 +2066,15 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Prerequisites:** you'll need (1)
 
-#### Remove database objects with DROP
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/remove-database-objects-with-drop?u=76281980)
+#### [Remove database objects with DROP](https://www.linkedin.com/learning/database-foundations-database-management/remove-database-objects-with-drop?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/database-foundations-database-management/remove-database-objects-with-drop?u=76281980&t=0)** - [Instructor] When tables become obsolete or are otherwise no longer needed in the database, you can get rid of them entirely with a single line of code.
 >
-> **[0:09](https://www.linkedin.com/learning/database-foundations-database-management/remove-database-objects-with-drop?u=76281980&t=9)** In the prior movie, we created a copy of some data and then stored it in a new table called beauty products.
+> **[0:09](https://www.linkedin.com/learning/database-foundations-database-management/remove-database-objects-with-drop?u=76281980&t=9)** In the prior movie, we created a copy of some data and then stored it in a new table called beauty [[Microsoft Products|products]].
 >
-> **[0:16](https://www.linkedin.com/learning/database-foundations-database-management/remove-database-objects-with-drop?u=76281980&t=16)** Let's take a look at it by expanding the two trees database in the PostgreSQL server and then open up the tables folder.
+> **[0:16](https://www.linkedin.com/learning/database-foundations-database-management/remove-database-objects-with-drop?u=76281980&t=16)** Let's take a look at it by expanding the two trees database in the [[PostgreSQL]] server and then open up the tables folder.
 >
 > **[0:22](https://www.linkedin.com/learning/database-foundations-database-management/remove-database-objects-with-drop?u=76281980&t=22)** Now I'm not seeing it here, so I'm going to right-click and choose refresh, and there is the table that we created in the last movie.
 >
@@ -2137,14 +2112,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), data (2), [[Microsoft Products|Products]] (1), [[PostgreSQL]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[PostgreSQL]] (1)
 > **UI Navigation:** right-click (2), go to (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create temporary tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/create-temporary-tables?u=76281980)
+#### [Create temporary tables](https://www.linkedin.com/learning/database-foundations-database-management/create-temporary-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2156,13 +2130,13 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/database-foundations-database-management/create-temporary-tables?u=76281980&t=24)** They can only be read and written to by the user that created them.
 >
-> **[0:29](https://www.linkedin.com/learning/database-foundations-database-management/create-temporary-tables?u=76281980&t=29)** To see how this works, let's once again, create a new query window connected to the Postgres servers to tree database.
+> **[0:29](https://www.linkedin.com/learning/database-foundations-database-management/create-temporary-tables?u=76281980&t=29)** To see how this works, let's once again, create a new query window connected to the [[PostgreSQL|Postgres]] servers to tree database.
 >
 > **[0:36](https://www.linkedin.com/learning/database-foundations-database-management/create-temporary-tables?u=76281980&t=36)** Postgres uses the create temporary table command to well create a temporary table.
 >
-> **[0:46](https://www.linkedin.com/learning/database-foundations-database-management/create-temporary-tables?u=76281980&t=46)** Other than the inclusion of the temporary keyword the rest of the command is exactly the same as creating a standard permanent data table.
+> **[0:46](https://www.linkedin.com/learning/database-foundations-database-management/create-temporary-tables?u=76281980&t=46)** Other than the inclusion of the temporary keyword the [[Representational State Transfer (REST)|rest]] of the command is exactly the same as creating a standard permanent data table.
 >
-> **[0:54](https://www.linkedin.com/learning/database-foundations-database-management/create-temporary-tables?u=76281980&t=54)** We can create a temporary table here that's populated with data about all of the infused oil products by copying it out of the products table.
+> **[0:54](https://www.linkedin.com/learning/database-foundations-database-management/create-temporary-tables?u=76281980&t=54)** We can create a temporary table here that's populated with data about all of the infused oil [[Microsoft Products|products]] by copying it out of the products table.
 >
 > **[1:04](https://www.linkedin.com/learning/database-foundations-database-management/create-temporary-tables?u=76281980&t=64)** I'll name this table, infused oils temp.
 >
@@ -2184,11 +2158,11 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/database-foundations-database-management/create-temporary-tables?u=76281980&t=129)** So you right click on tables and choose refresh but nope, it doesn't show up.
 >
-> **[2:14](https://www.linkedin.com/learning/database-foundations-database-management/create-temporary-tables?u=76281980&t=134)** Temporary tables don't get saved into the same location as the rest of the databases tables.
+> **[2:14](https://www.linkedin.com/learning/database-foundations-database-management/create-temporary-tables?u=76281980&t=134)** Temporary tables don't get saved into the same location as the rest of the [[Databases]] tables.
 >
 > **[2:20](https://www.linkedin.com/learning/database-foundations-database-management/create-temporary-tables?u=76281980&t=140)** In fact, if you were paying very close attention you might have realized that we didn't include the typical schema inventory in the create temporary table command.
 >
-> **[2:30](https://www.linkedin.com/learning/database-foundations-database-management/create-temporary-tables?u=76281980&t=150)** Temporary tables in PostgreSQL cannot include schemas but we just viewed the tables contents.
+> **[2:30](https://www.linkedin.com/learning/database-foundations-database-management/create-temporary-tables?u=76281980&t=150)** Temporary tables in [[PostgreSQL]] cannot include schemas but we just viewed the tables contents.
 >
 > **[2:37](https://www.linkedin.com/learning/database-foundations-database-management/create-temporary-tables?u=76281980&t=157)** So it has to exist somewhere, right?
 >
@@ -2232,7 +2206,7 @@ created: 2026-05-02
 >
 > **[4:25](https://www.linkedin.com/learning/database-foundations-database-management/create-temporary-tables?u=76281980&t=265)** You'll notice that it's been removed from the database.
 >
-> **[4:29](https://www.linkedin.com/learning/database-foundations-database-management/create-temporary-tables?u=76281980&t=269)** Now, SQL Server has similar functionality when it comes to temporary tables.
+> **[4:29](https://www.linkedin.com/learning/database-foundations-database-management/create-temporary-tables?u=76281980&t=269)** Now, [[Microsoft SQL Server|SQL Server]] has similar functionality when it comes to temporary tables.
 >
 > **[4:34](https://www.linkedin.com/learning/database-foundations-database-management/create-temporary-tables?u=76281980&t=274)** There is a difference in syntax though.
 >
@@ -2262,7 +2236,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), database (6), [[Microsoft SQL Server|Sql server]] (6), [[PostgreSQL]] (5), [[Microsoft Products|Products]] (4)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (6), [[PostgreSQL]] (5), [[Microsoft Products|Products]] (4), [[PostgreSQL|Postgres]] (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** sql (6)
 > **Analogies:** just like (4)
 > **CLI Commands:** find (3)
@@ -2275,14 +2249,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Add programming elements to the database
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/add-programming-elements-to-the-database?u=76281980)
+#### [Add programming elements to the database](https://www.linkedin.com/learning/database-foundations-database-management/add-programming-elements-to-the-database?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/database-foundations-database-management/add-programming-elements-to-the-database?u=76281980&t=0)** - [Instructor] Functions and stored procedures are two additional types of database objects that are supported across the majority of RDBMS platforms.
 >
-> **[0:10](https://www.linkedin.com/learning/database-foundations-database-management/add-programming-elements-to-the-database?u=76281980&t=10)** They'll be useful when you want to integrate more traditional programming routines into your databases and will greatly expand the capabilities of these systems that you design.
+> **[0:10](https://www.linkedin.com/learning/database-foundations-database-management/add-programming-elements-to-the-database?u=76281980&t=10)** They'll be useful when you want to integrate more traditional programming routines into your [[Databases]] and will greatly expand the capabilities of these systems that you design.
 >
 > **[0:21](https://www.linkedin.com/learning/database-foundations-database-management/add-programming-elements-to-the-database?u=76281980&t=21)** Functions are the simpler of the two objects.
 >
@@ -2292,9 +2265,9 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/database-foundations-database-management/add-programming-elements-to-the-database?u=76281980&t=37)** The user sends in a calendar date to the function, and the function returns the corresponding day of the week.
 >
-> **[0:44](https://www.linkedin.com/learning/database-foundations-database-management/add-programming-elements-to-the-database?u=76281980&t=44)** Now, if you've ever used a spreadsheet app like Excel, then you've almost certainly used functions before.
+> **[0:44](https://www.linkedin.com/learning/database-foundations-database-management/add-programming-elements-to-the-database?u=76281980&t=44)** Now, if you've ever used a spreadsheet app like [[Microsoft Excel|Excel]], then you've almost certainly used functions before.
 >
-> **[0:51](https://www.linkedin.com/learning/database-foundations-database-management/add-programming-elements-to-the-database?u=76281980&t=51)** Like Excel, relational database management systems come with dozens of built-in functions that can handle common tasks, and if those aren't enough, you can create and save your own custom functions right inside of your database.
+> **[0:51](https://www.linkedin.com/learning/database-foundations-database-management/add-programming-elements-to-the-database?u=76281980&t=51)** Like Excel, relational [[Database Management]] systems come with dozens of built-in functions that can handle common tasks, and if those aren't enough, you can create and save your own custom functions right inside of your database.
 >
 > **[1:05](https://www.linkedin.com/learning/database-foundations-database-management/add-programming-elements-to-the-database?u=76281980&t=65)** This makes it possible to write functions that are unique for your specific needs and data, and because they're stored on the server, every user of your database has access to the same set of functions and will get the same results when they use them.
 >
@@ -2312,9 +2285,9 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/database-foundations-database-management/add-programming-elements-to-the-database?u=76281980&t=148)** The languages that are supported in a stored procedure will vary from platform to platform.
 >
-> **[2:34](https://www.linkedin.com/learning/database-foundations-database-management/add-programming-elements-to-the-database?u=76281980&t=154)** Some, like Microsoft Access, only allow a single language, like Microsoft Visual Basic.
+> **[2:34](https://www.linkedin.com/learning/database-foundations-database-management/add-programming-elements-to-the-database?u=76281980&t=154)** Some, like [[Microsoft]] Access, only allow a single language, like Microsoft Visual Basic.
 >
-> **[2:40](https://www.linkedin.com/learning/database-foundations-database-management/add-programming-elements-to-the-database?u=76281980&t=160)** Other RDBMS platforms are wide open and allow programs to be written in a number of languages, such as C, Pearl, or Python.
+> **[2:40](https://www.linkedin.com/learning/database-foundations-database-management/add-programming-elements-to-the-database?u=76281980&t=160)** Other RDBMS platforms are wide open and allow programs to be written in a number of languages, such as C, Pearl, or [[Python (Programming Language)|Python]].
 >
 > **[2:50](https://www.linkedin.com/learning/database-foundations-database-management/add-programming-elements-to-the-database?u=76281980&t=170)** They do this by passing code to external handlers, which interpret and execute the commands in the procedure and then pass results and status messages back to the database engine.
 >
@@ -2330,14 +2303,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), [[Programming]] (5), [[Microsoft Excel|Excel]] (2), data (2), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Microsoft]] (2), [[Databases]] (1), [[Database Management]] (1), [[Python (Programming Language)|Python]] (1)
 > **Analogies:** such as (2), for instance (1), compare this to (1), just like (1)
 > **Env Vars:** rdbms (3)
 > **CLI Commands:** make (1), python (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a function
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/create-a-function?u=76281980)
+#### [Create a function](https://www.linkedin.com/learning/database-foundations-database-management/create-a-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2361,7 +2333,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/database-foundations-database-management/create-a-function?u=76281980&t=57)** We can streamline this process by creating a function that takes the company name as an input and returns the corresponding ID number.
 >
-> **[1:08](https://www.linkedin.com/learning/database-foundations-database-management/create-a-function?u=76281980&t=68)** I've written out these scripts to do this on both the SQL Server and the PostgreSQL platform.
+> **[1:08](https://www.linkedin.com/learning/database-foundations-database-management/create-a-function?u=76281980&t=68)** I've written out these scripts to do this on both the [[Microsoft SQL Server|SQL Server]] and the [[PostgreSQL]] platform.
 >
 > **[1:13](https://www.linkedin.com/learning/database-foundations-database-management/create-a-function?u=76281980&t=73)** The syntax is a little bit different.
 >
@@ -2439,11 +2411,11 @@ created: 2026-05-02
 >
 > **[4:41](https://www.linkedin.com/learning/database-foundations-database-management/create-a-function?u=76281980&t=281)** And there's your first database function.
 >
-> **[4:43](https://www.linkedin.com/learning/database-foundations-database-management/create-a-function?u=76281980&t=283)** With some careful planning, they can add a great new layer of usability enhancements for all of your databases end users.
+> **[4:43](https://www.linkedin.com/learning/database-foundations-database-management/create-a-function?u=76281980&t=283)** With some careful planning, they can add a great new layer of usability enhancements for all of your [[Databases]] end users.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft SQL Server|Sql server]] (5), database (4), [[PostgreSQL]] (4), next (2)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (5), [[PostgreSQL]] (4), [[Databases]] (1)
 > **Code Identifiers:** fetch_id (3), search_name (2), two_trees (1), customer_id (1)
 > **Env Vars:** sql (5), fv418 (1), bv446 (1)
 > **CLI Commands:** find (4), make (1)
@@ -2451,8 +2423,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a stored procedure in PostgreSQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/create-a-stored-procedure-in-postgresql?u=76281980)
+#### [Create a stored procedure in PostgreSQL](https://www.linkedin.com/learning/database-foundations-database-management/create-a-stored-procedure-in-postgresql?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2464,7 +2435,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/database-foundations-database-management/create-a-stored-procedure-in-postgresql?u=76281980&t=29)** When a customizable parameter is incorporated and passed into a store procedure, the flexibility of the routine is increased.
 >
-> **[0:37](https://www.linkedin.com/learning/database-foundations-database-management/create-a-stored-procedure-in-postgresql?u=76281980&t=37)** Let's create a custom procedure in PostgreSQL to store some data in a new temporary table.
+> **[0:37](https://www.linkedin.com/learning/database-foundations-database-management/create-a-stored-procedure-in-postgresql?u=76281980&t=37)** Let's create a custom procedure in [[PostgreSQL]] to store some data in a new temporary table.
 >
 > **[0:45](https://www.linkedin.com/learning/database-foundations-database-management/create-a-stored-procedure-in-postgresql?u=76281980&t=45)** Now I've got the script from the exercise files already attached to a query window that's attached to my PostgreSQL database.
 >
@@ -2486,9 +2457,9 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/database-foundations-database-management/create-a-stored-procedure-in-postgresql?u=76281980&t=93)** I'll call it first name and it'll be a var char 50 data type.
 >
-> **[1:39](https://www.linkedin.com/learning/database-foundations-database-management/create-a-stored-procedure-in-postgresql?u=76281980&t=99)** Next, PostgreSQL needs to know what language the rest of the script is written in.
+> **[1:39](https://www.linkedin.com/learning/database-foundations-database-management/create-a-stored-procedure-in-postgresql?u=76281980&t=99)** Next, PostgreSQL needs to know what language the [[Representational State Transfer (REST)|rest]] of the script is written in.
 >
-> **[1:45](https://www.linkedin.com/learning/database-foundations-database-management/create-a-stored-procedure-in-postgresql?u=76281980&t=105)** I'm just using standard SQL code but you could also use something like Python, or some other language if you want it.
+> **[1:45](https://www.linkedin.com/learning/database-foundations-database-management/create-a-stored-procedure-in-postgresql?u=76281980&t=105)** I'm just using standard [[SQL]] code but you could also use something like [[Python (Programming Language)|Python]], or some other language if you want it.
 >
 > **[1:52](https://www.linkedin.com/learning/database-foundations-database-management/create-a-stored-procedure-in-postgresql?u=76281980&t=112)** After that, the code that you want the procedure to execute is listed here on line number 10.
 >
@@ -2546,21 +2517,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), database (7), [[PostgreSQL]] (6), [[Programming]] (2), next (1)
+> **Frameworks & Libraries:** [[PostgreSQL]] (6), [[Representational State Transfer (REST)|Rest]] (1), [[SQL]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (2), python (1)
 > **Env Vars:** sql (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a stored procedure in SQL Server
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/create-a-stored-procedure-in-sql-server?u=76281980)
+#### [Create a stored procedure in SQL Server](https://www.linkedin.com/learning/database-foundations-database-management/create-a-stored-procedure-in-sql-server?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-database-management/create-a-stored-procedure-in-sql-server?u=76281980&t=0)** - [Instructor] In the prior movie, we created a stored procedure on the PostgreSQL platform.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-database-management/create-a-stored-procedure-in-sql-server?u=76281980&t=0)** - [Instructor] In the prior movie, we created a stored procedure on the [[PostgreSQL]] platform.
 >
-> **[0:06](https://www.linkedin.com/learning/database-foundations-database-management/create-a-stored-procedure-in-sql-server?u=76281980&t=6)** And I thought it might be valuable to run through that exact same example again on the SQL server database.
+> **[0:06](https://www.linkedin.com/learning/database-foundations-database-management/create-a-stored-procedure-in-sql-server?u=76281980&t=6)** And I thought it might be valuable to run through that exact same example again on the [[Microsoft SQL Server|SQL server]] database.
 >
 > **[0:12](https://www.linkedin.com/learning/database-foundations-database-management/create-a-stored-procedure-in-sql-server?u=76281980&t=12)** That way, you can see that the overall technique is the same, even if there are slight variations in syntax that's required.
 >
@@ -2612,14 +2582,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (8), [[PostgreSQL]] (5), database (2), next (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (8), [[PostgreSQL]] (5)
 > **Env Vars:** sql (8)
 > **Analogies:** just like (2)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Write a stored procedure
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/challenge-write-a-stored-procedure?u=76281980)
+#### [Challenge: Write a stored procedure](https://www.linkedin.com/learning/database-foundations-database-management/challenge-write-a-stored-procedure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2645,19 +2614,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), next (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (lively music) (1)
 
-#### Solution: Write a stored procedure
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/solution-write-a-stored-procedure?u=76281980)
+#### [Solution: Write a stored procedure](https://www.linkedin.com/learning/database-foundations-database-management/solution-write-a-stored-procedure?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/database-foundations-database-management/solution-write-a-stored-procedure?u=76281980&t=0)** - [Instructor] I hope you were able to create the store procedure for filling in new rows, into the customer's table.
 >
-> **[0:13](https://www.linkedin.com/learning/database-foundations-database-management/solution-write-a-stored-procedure?u=76281980&t=13)** Let's walk through the solution here in PostgreSQL first, and then I'm going to show how the syntax changes when you move over to SQL server.
+> **[0:13](https://www.linkedin.com/learning/database-foundations-database-management/solution-write-a-stored-procedure?u=76281980&t=13)** Let's walk through the solution here in [[PostgreSQL]] first, and then I'm going to show how the syntax changes when you move over to [[Microsoft SQL Server|SQL server]].
 >
 > **[0:21](https://www.linkedin.com/learning/database-foundations-database-management/solution-write-a-stored-procedure?u=76281980&t=21)** So let's right click on the two trees database and the PostgreSQL database server and choose New Query.
 >
@@ -2687,7 +2654,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/database-foundations-database-management/solution-write-a-stored-procedure?u=76281980&t=88)** And for the data types, we can refer back to the original script where we created the database.
 >
-> **[1:34](https://www.linkedin.com/learning/database-foundations-database-management/solution-write-a-stored-procedure?u=76281980&t=94)** Unfortunately here inside of Azure Data Studio we don't have easy access to see what the different columns are.
+> **[1:34](https://www.linkedin.com/learning/database-foundations-database-management/solution-write-a-stored-procedure?u=76281980&t=94)** Unfortunately here inside of [[Microsoft Azure|Azure]] Data Studio we don't have easy access to see what the different columns are.
 >
 > **[1:41](https://www.linkedin.com/learning/database-foundations-database-management/solution-write-a-stored-procedure?u=76281980&t=101)** It just tells me it's pvchar, varchar and so on.
 >
@@ -2715,7 +2682,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/database-foundations-database-management/solution-write-a-stored-procedure?u=76281980&t=194)** So, PostgreSQL needs a language line.
 >
-> **[3:18](https://www.linkedin.com/learning/database-foundations-database-management/solution-write-a-stored-procedure?u=76281980&t=198)** So I'm going to say LANGUAGE SQL and then we say, AS followed by $2 signs then we are going to insert those values into the sales.customers table.
+> **[3:18](https://www.linkedin.com/learning/database-foundations-database-management/solution-write-a-stored-procedure?u=76281980&t=198)** So I'm going to say LANGUAGE [[SQL]] and then we say, AS followed by $2 signs then we are going to insert those values into the sales.customers table.
 >
 > **[3:32](https://www.linkedin.com/learning/database-foundations-database-management/solution-write-a-stored-procedure?u=76281980&t=212)** And we're going to pass in the values of whatever our parameters are.
 >
@@ -2809,7 +2776,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Microsoft SQL Server|Sql server]] (7), database (7), [[PostgreSQL]] (5), next (2)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (7), [[PostgreSQL]] (5), [[SQL]] (2), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** sql (9), char (3), varchar (3), language (2), create (1)
 > **Code Identifiers:** insert_customer (5), customer_id (4), company_name (1)
 > **CLI Commands:** make (6)
@@ -2823,22 +2790,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/database-foundations-database-management/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-database-management/next-steps?u=76281980&t=0)** - [Instructor] Congratulations on reaching the end of Database Foundations, Database Management.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-database-management/next-steps?u=76281980&t=0)** - [Instructor] Congratulations on reaching the end of Database Foundations, [[Database Management]].
 >
-> **[0:05](https://www.linkedin.com/learning/database-foundations-database-management/next-steps?u=76281980&t=5)** I hope you now have a better understanding of some of the technologies and systems that are available to you when developing and maintaining your relational databases.
+> **[0:05](https://www.linkedin.com/learning/database-foundations-database-management/next-steps?u=76281980&t=5)** I hope you now have a better understanding of some of the technologies and systems that are available to you when developing and maintaining your [[Relational Databases]].
 >
-> **[0:15](https://www.linkedin.com/learning/database-foundations-database-management/next-steps?u=76281980&t=15)** Next up in this series, we're going to be diving into the topic of database administration and tackle topics around backup and recovery techniques, user accounts and security, and much more.
+> **[0:15](https://www.linkedin.com/learning/database-foundations-database-management/next-steps?u=76281980&t=15)** Next up in this series, we're going to be diving into the topic of [[Database Administration]] and tackle topics around backup and recovery techniques, user accounts and security, and much more.
 >
-> **[0:27](https://www.linkedin.com/learning/database-foundations-database-management/next-steps?u=76281980&t=27)** So look for that course soon in the LinkedIn Learning Library.
+> **[0:27](https://www.linkedin.com/learning/database-foundations-database-management/next-steps?u=76281980&t=27)** So look for that course soon in the [[LinkedIn]] Learning Library.
 >
-> **[0:31](https://www.linkedin.com/learning/database-foundations-database-management/next-steps?u=76281980&t=31)** Until then, you might want to take a look at a few other related courses for more specific information about working with transactions and store procedures on the SQL server platform.
+> **[0:31](https://www.linkedin.com/learning/database-foundations-database-management/next-steps?u=76281980&t=31)** Until then, you might want to take a look at a few other related courses for more specific information about working with transactions and store procedures on the [[Microsoft SQL Server|SQL server]] platform.
 >
-> **[0:40](https://www.linkedin.com/learning/database-foundations-database-management/next-steps?u=76281980&t=40)** Take a look at my course, Programming Databases with Transact-SQL.
+> **[0:40](https://www.linkedin.com/learning/database-foundations-database-management/next-steps?u=76281980&t=40)** Take a look at my course, Programming [[Databases]] with [[Transact-SQL (T-SQL)|Transact-SQL]].
 >
 > **[0:46](https://www.linkedin.com/learning/database-foundations-database-management/next-steps?u=76281980&t=46)** If you want to explore concepts that will help you begin to integrate databases into an application, I'd recommend starting with the course from author Scott Simpson called Foundations of Programming, Databases.
 >
@@ -2848,7 +2814,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (3), database (2), next (2), [[Programming]] (2), management (1)
+> **Frameworks & Libraries:** [[Databases]] (3), [[Database Management]] (1), [[Relational Databases]] (1), [[Database Administration]] (1), [[LinkedIn]] (1)
 > **Env Vars:** sql (2)
 > **Speakers:** - [instructor] (1)
 

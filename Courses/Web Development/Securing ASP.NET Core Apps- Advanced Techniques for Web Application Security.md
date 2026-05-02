@@ -80,8 +80,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Secure your .NET Core apps
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/secure-your-dot-net-core-apps?u=76281980)
+#### [Secure your .NET Core apps](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/secure-your-dot-net-core-apps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -93,7 +92,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/secure-your-dot-net-core-apps?u=76281980&t=19)** Hi, my name is Ervis Trupja and I'm a freelance full stack developer and trainer.
 >
-> **[0:25](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/secure-your-dot-net-core-apps?u=76281980&t=25)** In this course, you learn how to prevent common vulnerabilities in your .NET applications, and how to use the [ASP.NET](https://ASP.NET) identity framework to secure your data.
+> **[0:25](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/secure-your-dot-net-core-apps?u=76281980&t=25)** In this course, you learn how to prevent common vulnerabilities in your .NET applications, and how to use the [[[ASP.NET]]](https://ASP.NET) identity framework to secure your data.
 >
 > **[0:38](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/secure-your-dot-net-core-apps?u=76281980&t=38)** You'll also discover the benefits of using different types of authentication and authorization to build secure applications for your users.
 >
@@ -101,13 +100,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), data (2), web (1), [[ASP.NET]] (1)
+> **Frameworks & Libraries:** [[ASP.NET]] (1)
 > **Env Vars:** net (3), asp (1)
 > **URLs:** [asp.net](https://asp.net) (1)
 > **Speakers:** - [ervis] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -115,7 +113,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/what-you-should-know?u=76281980&t=6)** This is a .NET security course and I'll be using two different apps so you can better learn things by doing.
 >
-> **[0:14](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/what-you-should-know?u=76281980&t=14)** I'm going to use an [ASP.NET](https://ASP.NET) MVC app, and an [ASP.NET](https://ASP.NET) Web API app.
+> **[0:14](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/what-you-should-know?u=76281980&t=14)** I'm going to use an [[[ASP.NET]]](https://ASP.NET) MVC app, and an [ASP.NET](https://ASP.NET) Web API app.
 >
 > **[0:20](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/what-you-should-know?u=76281980&t=20)** Any experience with these frameworks is recommended, but it is not required.
 >
@@ -127,7 +125,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1), [[ASP.NET MVC]] (1), [[ASP.NET Web API]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[ASP.NET MVC]] (1), [[ASP.NET Web API]] (1)
 > **Env Vars:** net (6), asp (2), mvc (1), api (1)
 > **URLs:** [asp.net](https://asp.net) (2)
 > **Exercise Files:** download the (1), exercise files (1)
@@ -141,18 +139,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Common security vulnerabilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/common-security-vulnerabilities?u=76281980)
+#### [Common security vulnerabilities](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/common-security-vulnerabilities?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/common-security-vulnerabilities?u=76281980&t=0)** - [Instructor] Common security vulnerabilities are weaknesses in a software or hardware system that can be exploited by attackers to gain unauthorized access to sensitive data or to cause damage to a system.
+> **[0:00](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/common-security-vulnerabilities?u=76281980&t=0)** - [Instructor] Common security vulnerabilities are weaknesses in a software or [[Hardware]] system that can be exploited by attackers to gain unauthorized access to sensitive data or to cause damage to a system.
 >
 > **[0:14](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/common-security-vulnerabilities?u=76281980&t=14)** During this course, you'll learn about the common security vulnerabilities and how to secure your apps from such vulnerabilities.
 >
 > **[0:23](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/common-security-vulnerabilities?u=76281980&t=23)** Let us start with the first one, which is the injection attack.
 >
-> **[0:27](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/common-security-vulnerabilities?u=76281980&t=27)** Injection attack includes different types of attacks, such as the SQL injections, the command injections, CRLF injections, and also the LDAP injections.
+> **[0:27](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/common-security-vulnerabilities?u=76281980&t=27)** Injection attack includes different types of attacks, such as the [[SQL]] injections, the command injections, CRLF injections, and also the LDAP injections.
 >
 > **[0:40](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/common-security-vulnerabilities?u=76281980&t=40)** The SQL injection attack involves injecting malicious SQL code into an application in order to gain access to sensitive data stored in a database.
 >
@@ -196,7 +193,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), [[Security]] (3), [[SQL]] (3), next (3), data (2)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Hardware]] (1)
 > **Env Vars:** ldap (4), sql (3), crlf (2), http (1), pdf (1)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** such as (1), for example (1)
@@ -205,8 +202,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Injection attack
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/injection-attack?u=76281980)
+#### [Injection attack](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/injection-attack?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -214,7 +210,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/injection-attack?u=76281980&t=11)** We have mentioned on the last part that there are four important injection attack types.
 >
-> **[0:17](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/injection-attack?u=76281980&t=17)** We do have the SQL injection and this type of attack targets websites or web applications that use SQL database to store data.
+> **[0:17](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/injection-attack?u=76281980&t=17)** We do have the [[SQL]] injection and this type of attack targets websites or web applications that use SQL database to store data.
 >
 > **[0:27](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/injection-attack?u=76281980&t=27)** The attacker will inject the malicious SQL code into the website by using, let's say an input form or by using a text area, which is then executed by the database.
 >
@@ -228,7 +224,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/injection-attack?u=76281980&t=86)** The LDAP or the Lightweight Directory Access Protocol Injection type is a type of attack that involves injecting malicious code into LDAP search query in order to retrieve sensitive information.
 >
-> **[1:43](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/injection-attack?u=76281980&t=103)** Application security testing can reveal injection flaws which you can make sure that you fix before you push your app to production.
+> **[1:43](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/injection-attack?u=76281980&t=103)** [[Application Security]] testing can reveal injection flaws which you can make sure that you fix before you push your app to production.
 >
 > **[1:52](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/injection-attack?u=76281980&t=112)** Now let us go to Visual Studio and check one of the attacks in action.
 >
@@ -308,7 +304,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (8), database (5), application (2), [[Search]] (2), web (1)
+> **Frameworks & Libraries:** [[SQL]] (8), [[Application Security]] (1)
 > **Env Vars:** sql (8), drop (4), table (4), ldap (2), clrf (1)
 > **Code Identifiers:** userid (12)
 > **SQL:** drop table (4)
@@ -317,8 +313,7 @@ created: 2026-05-02
 > **Tools:** visual studio (2)
 > **CLI Commands:** make (1)
 
-#### File upload attack
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/file-upload-attack?u=76281980)
+#### [File upload attack](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/file-upload-attack?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -348,7 +343,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/file-upload-attack?u=76281980&t=99)** We can also verify and allow only specific file extensions.
 >
-> **[1:44](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/file-upload-attack?u=76281980&t=104)** So let us say the users can only upload PNG files or PDF files, but not JSON or let's say JavaScript files.
+> **[1:44](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/file-upload-attack?u=76281980&t=104)** So let us say the users can only upload PNG files or PDF files, but not [[JSON]] or let's say [[JavaScript]] files.
 >
 > **[1:55](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/file-upload-attack?u=76281980&t=115)** Next, you can also set a maximum name length and a file size.
 >
@@ -476,7 +471,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (3), [[JavaScript]] (2), next (2), web (1), web application (1)
+> **Frameworks & Libraries:** [[JSON]] (3), [[JavaScript]] (2)
 > **Env Vars:** pdf (13), json (3), txt (2), png (1), api (1)
 > **Analogies:** for example (3), imagine (2), picture (1)
 > **UI Navigation:** go to (3), select the (1)
@@ -485,8 +480,7 @@ created: 2026-05-02
 > **Tools:** visual studio (2)
 > **Speakers:** - [instructor] (1)
 
-#### Authentication attack
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/authentication-attack?u=76281980)
+#### [Authentication attack](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/authentication-attack?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -512,13 +506,13 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/authentication-attack?u=76281980&t=101)** Another technique is password hashing, and the last one is training.
 >
-> **[1:46](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/authentication-attack?u=76281980&t=106)** And this is actually the most important one, is that you need to train the users so they're not prone to phishing or scams that they might receive via their email addresses.
+> **[1:46](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/authentication-attack?u=76281980&t=106)** And this is actually the most important one, is that you need to train the users so they're not prone to [[Phishing]] or scams that they might receive via their email addresses.
 >
 > **[1:59](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/authentication-attack?u=76281980&t=119)** Now, let's go to Visual Studio and see how we can add lockout configuration in a .net application.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1), [[Phishing]] (1), application (1)
+> **Frameworks & Libraries:** [[Phishing]] (1)
 > **Definitions:** is an  (1), means that (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** mfa (1)
@@ -526,8 +520,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### XSS and CSRF attack
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/xss-and-csrf-attack?u=76281980)
+#### [XSS and CSRF attack](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/xss-and-csrf-attack?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -535,13 +528,13 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/xss-and-csrf-attack?u=76281980&t=14)** In cross-site scripting attacks, hackers inject client-side code into a legitimate website or a web application.
 >
-> **[0:22](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/xss-and-csrf-attack?u=76281980&t=22)** A cross-site scripting vulnerability can lead to advanced attacks, such as cookie theft, phishing, key logging, and identity theft.
+> **[0:22](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/xss-and-csrf-attack?u=76281980&t=22)** A cross-site scripting vulnerability can lead to advanced attacks, such as cookie theft, [[Phishing]], key logging, and identity theft.
 >
 > **[0:33](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/xss-and-csrf-attack?u=76281980&t=33)** Let us say you have a web application, you have a Search bar, and a Search button.
 >
 > **[0:39](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/xss-and-csrf-attack?u=76281980&t=39)** Whenever you click the Search, you display some results.
 >
-> **[0:41](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/xss-and-csrf-attack?u=76281980&t=41)** But some users, instead of typing a text or some numbers, they paste a JavaScript code.
+> **[0:41](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/xss-and-csrf-attack?u=76281980&t=41)** But some users, instead of typing a text or some numbers, they paste a [[JavaScript]] code.
 >
 > **[0:49](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/xss-and-csrf-attack?u=76281980&t=49)** And this JavaScript code might try to get the cookies that you have in your browser.
 >
@@ -549,7 +542,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/xss-and-csrf-attack?u=76281980&t=60)** The key answer is to encoding everything.
 >
-> **[1:03](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/xss-and-csrf-attack?u=76281980&t=63)** Encode the HTML parameters, encode the JavaScript parameters, and also, encode the URL parameters.
+> **[1:03](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/xss-and-csrf-attack?u=76281980&t=63)** Encode the [[HTML]] parameters, encode the JavaScript parameters, and also, encode the URL parameters.
 >
 > **[1:14](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/xss-and-csrf-attack?u=76281980&t=74)** Last but not least, make sure that you validate and test your apps.
 >
@@ -577,13 +570,13 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/xss-and-csrf-attack?u=76281980&t=182)** Like, for example, after the user logs in or provide the credentials, you can ask them to reauthenticate, or you can ask them some captcha challenges.
 >
-> **[3:14](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/xss-and-csrf-attack?u=76281980&t=194)** And also, one-time tokens can provide a strong defense against the CSRF.
+> **[3:14](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/xss-and-csrf-attack?u=76281980&t=194)** And also, one-time [[Tokens]] can provide a strong defense against the CSRF.
 >
 > **[3:21](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/xss-and-csrf-attack?u=76281980&t=201)** Last but not least, adding custom request headers is an especially effective defense for API endpoints because this way users can only add custom headers using JavaScript and must add the headers within their origin.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (4), [[Scripting]] (3), web application (3), [[Search]] (3), game (3)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[Phishing]] (1), [[HTML]] (1), [[Tokens]] (1)
 > **Env Vars:** csrf (3), xss (2), html (1), url (1), api (1)
 > **Analogies:** for example (3), such as (1), imagine (1)
 > **CLI Commands:** make (1)
@@ -591,8 +584,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### CORS attack
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/cors-attack?u=76281980)
+#### [CORS attack](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/cors-attack?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -618,7 +610,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (3), application (1)
 > **Env Vars:** cors (5), api (3)
 > **UI Navigation:** go to (2), navigate to (1), scroll down (1)
 > **CLI Commands:** make (1)
@@ -626,18 +617,18 @@ created: 2026-05-02
 > **Tools:** visual studio (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** configure (1)
+> **Speakers:** - [instructor] (1)
 
 
 ### 2. Securing .NET Web Applications with Authentication
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is authentication?
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/what-is-authentication?u=76281980)
+#### [What is authentication?](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/what-is-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/what-is-authentication?u=76281980&t=0)** - [Instructor] Word definition.
+> **[0:00](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/what-is-authentication?u=76281980&t=0)** - [Instructor] [[Microsoft Word|Word]] definition.
 >
 > **[0:02](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/what-is-authentication?u=76281980&t=2)** Authentication is the process of verifying identity of a user.
 >
@@ -649,7 +640,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/what-is-authentication?u=76281980&t=27)** So in other words, the company systems know the identity of the first person, so the first person is authenticated by the systems, but the systems do not know the identity of the person B, since the person B doesn't have a badge, this means that the person B is not authenticated by the company, or let's say, by the company systems.
 >
-> **[0:50](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/what-is-authentication?u=76281980&t=50)** In .NET, there are different authentication types, we have simple or basic authentication, we have cookie-based authentication, social-provider authentication, and in the social-provider authentication, we can basically use our social media profiles to log in to the apps, like for example, you can use your Facebook profile, your Twitter profile, your LinkedIn profile, et cetera.
+> **[0:50](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/what-is-authentication?u=76281980&t=50)** In .NET, there are different authentication types, we have simple or basic authentication, we have cookie-based authentication, social-provider authentication, and in the social-provider authentication, we can basically use our social media profiles to log in to the apps, like for example, you can use your Facebook profile, your Twitter profile, your [[LinkedIn]] profile, et cetera.
 >
 > **[1:18](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/what-is-authentication?u=76281980&t=78)** We also have two-factor authentication, API-key authentication, and token-based authentication.
 >
@@ -657,32 +648,31 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[LinkedIn]] (1), api (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[LinkedIn]] (1)
 > **Env Vars:** net (1), api (1)
 > **Definitions:** in other words (1), means that (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identity on ASP.NET Core
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/identity-on-asp-dot-net-core?u=76281980)
+#### [Identity on ASP.NET Core](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/identity-on-asp-dot-net-core?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/identity-on-asp-dot-net-core?u=76281980&t=0)** - [Instructor] Before we get started with the authentication types, let us talk about the [ASP.NET](https://ASP.NET) Identity.
+> **[0:00](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/identity-on-asp-dot-net-core?u=76281980&t=0)** - [Instructor] Before we get started with the authentication types, let us talk about the [[[ASP.NET]]](https://ASP.NET) Identity.
 >
-> **[0:07](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/identity-on-asp-dot-net-core?u=76281980&t=7)** [ASP.NET](https://ASP.NET) Identity is an API which is built by Microsoft with all the default features that are necessary to set up an authentication system.
+> **[0:07](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/identity-on-asp-dot-net-core?u=76281980&t=7)** [ASP.NET](https://ASP.NET) Identity is an API which is built by [[Microsoft]] with all the default features that are necessary to set up an authentication system.
 >
-> **[0:18](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/identity-on-asp-dot-net-core?u=76281980&t=18)** This includes user management, password management, profile, roles, claims management, and much more.
+> **[0:18](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/identity-on-asp-dot-net-core?u=76281980&t=18)** This includes [[User Management]], password management, profile, roles, claims management, and much more.
 >
 > **[0:27](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/identity-on-asp-dot-net-core?u=76281980&t=27)** With [ASP.NET](https://ASP.NET) Identity, you have one identity system for all, which means that you can use the [ASP.NET](https://ASP.NET) Identity in an MVC app, in a web API app, in a SignalR, et cetera.
 >
 > **[0:42](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/identity-on-asp-dot-net-core?u=76281980&t=42)** [ASP.NET](https://ASP.NET) Identity uses the Entity Framework to store user data in a database.
 >
-> **[0:48](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/identity-on-asp-dot-net-core?u=76281980&t=48)** And you can store data in SharePoint, in Azure, in MySQL, SQL, and much more.
+> **[0:48](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/identity-on-asp-dot-net-core?u=76281980&t=48)** And you can store data in [[SharePoint]], in [[Microsoft Azure|Azure]], in [[MySQL]], [[SQL]], and much more.
 >
 > **[0:56](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/identity-on-asp-dot-net-core?u=76281980&t=56)** It also includes classes for managing user accounts, user roles, claims, and provides methods for creating and verifying passwords, as well as for handling forgotten passwords and user lockouts which we have also seen on the previous chapter.
 >
-> **[1:12](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/identity-on-asp-dot-net-core?u=76281980&t=72)** Last but not least, [ASP.NET](https://ASP.NET) Identity provides features such as multifactor authentication, external authentication providers, and integration with social media logging providers such as Google, Facebook, Twitter, LinkedIn, et cetera.
+> **[1:12](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/identity-on-asp-dot-net-core?u=76281980&t=72)** Last but not least, [ASP.NET](https://ASP.NET) Identity provides features such as multifactor authentication, external authentication providers, and integration with social media logging providers such as [[Google]], Facebook, Twitter, [[LinkedIn]], et cetera.
 >
 > **[1:29](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/identity-on-asp-dot-net-core?u=76281980&t=89)** Now, let us go to Visual Studio and see an example of creating an MVC application using Identity.
 >
@@ -716,7 +706,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/identity-on-asp-dot-net-core?u=76281980&t=190)** So in here, you can see that we do have a simple app.
 >
-> **[3:12](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/identity-on-asp-dot-net-core?u=76281980&t=192)** The name is SecurityApp.MVC, we have Home, we have Privacy, and here on the top right, we do have two important buttons.
+> **[3:12](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/identity-on-asp-dot-net-core?u=76281980&t=192)** The name is SecurityApp.MVC, we have Home, we have [[Privacy]], and here on the top right, we do have two important buttons.
 >
 > **[3:18](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/identity-on-asp-dot-net-core?u=76281980&t=198)** The first one is the Register button, and here you have the Register page where you can enter your email address, password, and confirm password, then you have the Log in button.
 >
@@ -756,7 +746,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ASP.NET]] (6), next (4), api (3), database (3), management (2)
+> **Frameworks & Libraries:** [[ASP.NET]] (6), [[Microsoft]] (1), [[User Management]] (1), [[SharePoint]] (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** net (9), asp (7), mvc (6), api (3), sql (1)
 > **URLs:** [asp.net](https://asp.net) (7), [lastname.com](https://lastname.com) (1), [trupja.com](https://trupja.com) (1)
 > **UI Navigation:** go to (4), select the (1)
@@ -765,8 +755,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1), means that (1)
 > **Versions:** 7.0 (1)
 
-#### Simple authentication with [Authorize] attribute
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/simple-authentication-with-authorize-attribute?u=76281980)
+#### [Simple authentication with [Authorize] attribute](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/simple-authentication-with-authorize-attribute?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -774,7 +763,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/simple-authentication-with-authorize-attribute?u=76281980&t=7)** And that is easily done by using the authorize attribute.
 >
-> **[0:11](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/simple-authentication-with-authorize-attribute?u=76281980&t=11)** Before we check how to add the authorize attribute, let us go to Visual Studio and check how the default configuration of the [ASP.NET](https://ASP.NET) identity is done.
+> **[0:11](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/simple-authentication-with-authorize-attribute?u=76281980&t=11)** Before we check how to add the authorize attribute, let us go to Visual Studio and check how the default configuration of the [[[ASP.NET]]](https://ASP.NET) identity is done.
 >
 > **[0:23](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/simple-authentication-with-authorize-attribute?u=76281980&t=23)** In Visual Studio let us start with the solution explorer and then in here go to the Program.cs.
 >
@@ -786,7 +775,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/simple-authentication-with-authorize-attribute?u=76281980&t=50)** To find that connection, go to the solution explorer.
 >
-> **[0:52](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/simple-authentication-with-authorize-attribute?u=76281980&t=52)** Then go to the appsettings.json file.
+> **[0:52](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/simple-authentication-with-authorize-attribute?u=76281980&t=52)** Then go to the appsettings.[[JSON]] file.
 >
 > **[0:56](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/simple-authentication-with-authorize-attribute?u=76281980&t=56)** In here you have the connection strings, so here when you have builder.configuration.GetConnectionString, this method will automatically search for a section in the appsettings.json file named Connection Strings.
 >
@@ -798,7 +787,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/simple-authentication-with-authorize-attribute?u=76281980&t=91)** You can see it's aspnet then SecurityApp.mvc and then a code.
 >
-> **[1:37](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/simple-authentication-with-authorize-attribute?u=76281980&t=97)** The Trusted Connection, True and multiple active results sets is equal to true means that we can log into this database using Windows authentication.
+> **[1:37](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/simple-authentication-with-authorize-attribute?u=76281980&t=97)** The Trusted Connection, True and multiple active results sets is equal to true means that we can log into this database using [[Windows]] authentication.
 >
 > **[1:49](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/simple-authentication-with-authorize-attribute?u=76281980&t=109)** So let us copy this value.
 >
@@ -810,7 +799,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/simple-authentication-with-authorize-attribute?u=76281980&t=126)** So add a connection.
 >
-> **[2:08](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/simple-authentication-with-authorize-attribute?u=76281980&t=128)** We're going to selecting your Microsoft SQL server continue.
+> **[2:08](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/simple-authentication-with-authorize-attribute?u=76281980&t=128)** We're going to selecting your [[Microsoft SQL Server]] continue.
 >
 > **[2:13](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/simple-authentication-with-authorize-attribute?u=76281980&t=133)** The server name is going to be this value.
 >
@@ -830,7 +819,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/simple-authentication-with-authorize-attribute?u=76281980&t=204)** After the connection string, we do have in here add default identity.
 >
-> **[3:31](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/simple-authentication-with-authorize-attribute?u=76281980&t=211)** So this is going to set the IdentityUser class which comes from the Microsoft AspNet Core Identity as the default class for working with user data.
+> **[3:31](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/simple-authentication-with-authorize-attribute?u=76281980&t=211)** So this is going to set the IdentityUser class which comes from the [[Microsoft]] AspNet Core Identity as the default class for working with user data.
 >
 > **[3:42](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/simple-authentication-with-authorize-attribute?u=76281980&t=222)** And then in here it will say that I want to work with user data using the Entity framework core or just the Entity framework version seven.
 >
@@ -840,7 +829,7 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/simple-authentication-with-authorize-attribute?u=76281980&t=255)** Now let us check how the authorized attribute works.
 >
-> **[4:19](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/simple-authentication-with-authorize-attribute?u=76281980&t=259)** So if I run the app, you can see that I can go to home I can go to privacy and I don't need to be logged in.
+> **[4:19](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/simple-authentication-with-authorize-attribute?u=76281980&t=259)** So if I run the app, you can see that I can go to home I can go to [[Privacy]] and I don't need to be logged in.
 >
 > **[4:28](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/simple-authentication-with-authorize-attribute?u=76281980&t=268)** Let us update the code so when you navigate to the privacy you need to be authenticated to access this page.
 >
@@ -870,7 +859,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (7), data (6), [[Microsoft]] (4), database (3), [[JSON]] (2)
+> **Frameworks & Libraries:** [[Privacy]] (7), [[Microsoft]] (4), [[JSON]] (2), [[Windows]] (2), [[ASP.NET]] (1)
 > **UI Navigation:** go to (10), open the (1), navigate to (1)
 > **Env Vars:** asp (1), net (1), mssql (1), sql (1), run (1)
 > **URLs:** [trupja.com](https://trupja.com) (2), [asp.net](https://asp.net) (1)
@@ -879,8 +868,7 @@ created: 2026-05-02
 > **Versions:** 7.0.1 (2)
 > **Tools:** visual studio (2)
 
-#### Cookie-based authentication
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/cookie-based-authentication?u=76281980)
+#### [Cookie-based authentication](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/cookie-based-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -922,7 +910,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/cookie-based-authentication?u=76281980&t=109)** So ervis@[trupja.com](https://trupja.com), then the password is trupja@1, and I click the login button.
 >
-> **[1:59](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/cookie-based-authentication?u=76281980&t=119)** You'll see that once you click the login button, a record is added in the cookies section which is AspNetCore.Identitiy.Application, and this is the default cookie name for the [ASP.NET](https://ASP.NET) Identity.
+> **[1:59](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/cookie-based-authentication?u=76281980&t=119)** You'll see that once you click the login button, a record is added in the cookies section which is AspNetCore.Identitiy.Application, and this is the default cookie name for the [[[ASP.NET]]](https://ASP.NET) Identity.
 >
 > **[2:16](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/cookie-based-authentication?u=76281980&t=136)** So you can see that our app by default is using the cookie-based authentication.
 >
@@ -1012,7 +1000,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ASP.NET]] (4), data (2), application (2), [[Search]] (1), [[ASP.NET Core]] (1)
+> **Frameworks & Libraries:** [[ASP.NET]] (4), [[ASP.NET Core]] (1)
 > **UI Navigation:** go to (13), right-click (2), checkbox (2), select the (1)
 > **Env Vars:** asp (5), net (5)
 > **URLs:** [asp.net](https://asp.net) (5), [trupja.com](https://trupja.com) (1)
@@ -1021,12 +1009,11 @@ created: 2026-05-02
 > **Tools:** visual studio (2)
 > **CLI Commands:** find (1)
 
-#### Social media provider authentication
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/social-media-provider-authentication?u=76281980)
+#### [Social media provider authentication](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/social-media-provider-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/social-media-provider-authentication?u=76281980&t=0)** - Social provider authentication is a type of authentication that allows users to log into your app using their existing social media platform accounts such as LinkedIn, Facebook, Twitter, Google, et cetera.
+> **[0:00](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/social-media-provider-authentication?u=76281980&t=0)** - Social provider authentication is a type of authentication that allows users to log into your app using their existing social media platform accounts such as [[LinkedIn]], Facebook, Twitter, [[Google]], et cetera.
 >
 > **[0:16](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/social-media-provider-authentication?u=76281980&t=16)** This is a great authentication type to allow users to directly access your app without the need to create yet another account.
 >
@@ -1038,7 +1025,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/social-media-provider-authentication?u=76281980&t=45)** So, for that I'll just go to the solution explorer, then I'll right click on the project, then manage NuGet packages.
 >
-> **[0:54](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/social-media-provider-authentication?u=76281980&t=54)** Go in here to the browse tab, now in here let us search for microsoft.aspnetcore.authentication.google.
+> **[0:54](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/social-media-provider-authentication?u=76281980&t=54)** Go in here to the browse tab, now in here let us search for [[Microsoft]].aspnetcore.authentication.google.
 >
 > **[1:10](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/social-media-provider-authentication?u=76281980&t=70)** Let us select this package and then we are going to install the latest stable version, which is the version 7.0.1, and click the install button, then accept the license and the package is successfully installed.
 >
@@ -1098,7 +1085,7 @@ created: 2026-05-02
 >
 > **[4:47](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/social-media-provider-authentication?u=76281980&t=287)** So, I'll just copy the client ID, go back to Visual Studio and then in here I'll just stop the app for now.
 >
-> **[4:54](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/social-media-provider-authentication?u=76281980&t=294)** Go to the solution explorer, then go to the appsettings.json file.
+> **[4:54](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/social-media-provider-authentication?u=76281980&t=294)** Go to the solution explorer, then go to the appsettings.[[JSON]] file.
 >
 > **[4:59](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/social-media-provider-authentication?u=76281980&t=299)** And then, in here I'll type authentication, then Google and then we are pasting the first value, which is a key, and the second value is going to be the secret, so let us go and copy the secret.
 >
@@ -1144,7 +1131,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (15), [[LinkedIn]] (3), [[JSON]] (3), next (2), application (2)
+> **Frameworks & Libraries:** [[Google]] (15), [[LinkedIn]] (3), [[JSON]] (3), [[Microsoft]] (1)
 > **UI Navigation:** go to (12), click on (1), navigate to (1), dropdown (1), select the (1)
 > **Env Vars:** mvc (2), api (1), url (1), json (1)
 > **Prerequisites:** install (3), set up (2)
@@ -1153,8 +1140,7 @@ created: 2026-05-02
 > **URLs:** [console.cloud](https://console.cloud) (1), [google.com](https://google.com) (1)
 > **Versions:** version 7 (1), 0.1 (1)
 
-#### Email account verification
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/email-account-verification?u=76281980)
+#### [Email account verification](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/email-account-verification?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1202,7 +1188,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/email-account-verification?u=76281980&t=127)** And here you can see that it has three parameters of the email.
 >
-> **[2:11](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/email-account-verification?u=76281980&t=131)** So this is the email address, the subject of the email, and the HTML template.
+> **[2:11](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/email-account-verification?u=76281980&t=131)** So this is the email address, the subject of the email, and the [[HTML]] template.
 >
 > **[2:19](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/email-account-verification?u=76281980&t=139)** In here, for us to be able to send out the email we need an API key from SendGrid.
 >
@@ -1230,7 +1216,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/email-account-verification?u=76281980&t=215)** Now this is not an ideal solution.
 >
-> **[3:36](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/email-account-verification?u=76281980&t=216)** Normally you'd save the API key in the app settings, the Json file and just load the API key from there.
+> **[3:36](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/email-account-verification?u=76281980&t=216)** Normally you'd save the API key in the app settings, the [[JSON]] file and just load the API key from there.
 >
 > **[3:43](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/email-account-verification?u=76281980&t=223)** Next we're going to create the send grid client or I'll just name it var client is equal to new SendGrid client.
 >
@@ -1296,7 +1282,7 @@ created: 2026-05-02
 >
 > **[7:08](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/email-account-verification?u=76281980&t=428)** Looks all good.
 >
-> **[7:09](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/email-account-verification?u=76281980&t=429)** Now let us run our project, and I'll sign up this time with my Outlook account.
+> **[7:09](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/email-account-verification?u=76281980&t=429)** Now let us run our project, and I'll sign up this time with my [[Microsoft Outlook|Outlook]] account.
 >
 > **[7:17](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/email-account-verification?u=76281980&t=437)** So I'll log out from my existing account and go to register.
 >
@@ -1372,7 +1358,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (13), [[Microsoft Outlook|Outlook]] (5), [[HTML]] (4), [[Search]] (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (5), [[HTML]] (4), [[JSON]] (1)
 > **Env Vars:** api (13), html (4), mvc (3), msg (1), url (1)
 > **UI Navigation:** go to (15), scroll down (3), select the (2), dropdown (1), open the (1)
 > **Prerequisites:** install (3), configure (1)
@@ -1381,8 +1367,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **Definitions:** is called (1), means that (1)
 
-#### API-key authentication
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/api-key-authentication?u=76281980)
+#### [API-key authentication](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/api-key-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1390,7 +1375,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/api-key-authentication?u=76281980&t=8)** The other APIs add a key to each API request, and then our API can use that key to identify the application or the API and authorize the request.
 >
-> **[0:22](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/api-key-authentication?u=76281980&t=22)** The key can be used to also perform other things like rate limiting, statistics, and similar actions.
+> **[0:22](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/api-key-authentication?u=76281980&t=22)** The key can be used to also perform other things like rate limiting, [[Statistics]], and similar actions.
 >
 > **[0:31](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/api-key-authentication?u=76281980&t=31)** So let us say you have built an API to check the weather.
 >
@@ -1408,7 +1393,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/api-key-authentication?u=76281980&t=74)** To add the API key authentication, we can follow three simple steps.
 >
-> **[1:19](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/api-key-authentication?u=76281980&t=79)** First of all, we need to have a data storage where we store all the keys so we need to create a database to store the keys.
+> **[1:19](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/api-key-authentication?u=76281980&t=79)** First of all, we need to have a [[Data Storage]] where we store all the keys so we need to create a database to store the keys.
 >
 > **[1:26](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/api-key-authentication?u=76281980&t=86)** Then next, we need to create a custom attribute for API key authentication, and then decorate the controllers with this custom attribute.
 >
@@ -1490,7 +1475,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (31), data (3), database (3), application (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Data Storage]] (2), [[Statistics]] (1)
 > **Env Vars:** api (31), http (1)
 > **Code Identifiers:** apikey (5), apikeyvalue (4)
 > **Definitions:** is a  (1), is called (1), means that (1)
@@ -1499,8 +1484,7 @@ created: 2026-05-02
 > **Tools:** visual studio (1)
 > **Analogies:** for example (1)
 
-#### Token-based authentication
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/token-based-authentication?u=76281980)
+#### [Token-based authentication](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/token-based-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1528,13 +1512,13 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/token-based-authentication?u=76281980&t=104)** Now, this is just a really high level overview of the token-based authentication, because there are a lot of benefits that come with using token-based authentication, which definitely cannot be mentioned in a single video.
 >
-> **[1:58](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/token-based-authentication?u=76281980&t=118)** For that, I've created a detailed course named, "[ASP.NET](https://ASP.NET) Core: Token-Based Authentication", which you can find in LinkedIn Learning Library.
+> **[1:58](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/token-based-authentication?u=76281980&t=118)** For that, I've created a detailed course named, "[[[ASP.NET]]](https://ASP.NET) Core: Token-Based Authentication", which you can find in [[LinkedIn]] Learning Library.
 >
 > **[2:07](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/token-based-authentication?u=76281980&t=127)** This course is going to teach everything you need to know about token-based authentications, so go and check it out.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[ASP.NET Core]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[ASP.NET Core]] (1), [[LinkedIn]] (1)
 > **Env Vars:** asp (1), net (1)
 > **CLI Commands:** find (1)
 > **URLs:** [asp.net](https://asp.net) (1)
@@ -1547,8 +1531,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is authorization?
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/what-is-authorization?u=76281980)
+#### [What is authorization?](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/what-is-authorization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1562,7 +1545,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/what-is-authorization?u=76281980&t=32)** Now let us take the same example and try to understand authorization.
 >
-> **[0:39](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/what-is-authorization?u=76281980&t=39)** In authorization, both persons have company badges so they are both able to access the company building, but if they try to access a certain office, let us say a manager office, only the user who is authorized as a manager is able to access.
+> **[0:39](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/what-is-authorization?u=76281980&t=39)** In authorization, both persons have company badges so they are both able to access the company building, but if they try to access a certain [[Microsoft Office|office]], let us say a manager office, only the user who is authorized as a manager is able to access.
 >
 > **[0:58](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/what-is-authorization?u=76281980&t=58)** So basically only the person B who has the manager role can access that office.
 >
@@ -1570,7 +1553,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/what-is-authorization?u=76281980&t=71)** But in the authorization, we do also check the user roles and other credentials of the user.
 >
-> **[1:18](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/what-is-authorization?u=76281980&t=78)** In [ASP.NET](https://ASP.NET), we can implement different authorization types.
+> **[1:18](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/what-is-authorization?u=76281980&t=78)** In [[[ASP.NET]]](https://ASP.NET), we can implement different authorization types.
 >
 > **[1:22](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/what-is-authorization?u=76281980&t=82)** Some of these authorization types are the simple role-based authorization, the claims-based authorization, and the resource-based authorization for which we are going to talk more in the upcoming parts.
 
@@ -1582,8 +1565,7 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Simple role-based authorization
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/simple-role-based-authorization?u=76281980)
+#### [Simple role-based authorization](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/simple-role-based-authorization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1601,7 +1583,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/simple-role-based-authorization?u=76281980&t=56)** It's Authorize.
 >
-> **[0:58](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/simple-role-based-authorization?u=76281980&t=58)** Let me add the namespace and the namespace for the Authorize is the Microsoft.AspNetCore.Authorization.
+> **[0:58](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/simple-role-based-authorization?u=76281980&t=58)** Let me add the namespace and the namespace for the Authorize is the [[Microsoft]].AspNetCore.Authorization.
 >
 > **[1:07](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/simple-role-based-authorization?u=76281980&t=67)** Let us say I don't want the users to just be authenticated, I want them to also have the role admin.
 >
@@ -1625,7 +1607,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (7), data (4), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1)
 > **Env Vars:** api (7), net (1)
 > **UI Navigation:** go to (2)
 > **Analogies:** for example (2)
@@ -1633,12 +1615,11 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Claims-based authorization
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/claims-based-authorization?u=76281980)
+#### [Claims-based authorization](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/claims-based-authorization?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/claims-based-authorization?u=76281980&t=0)** - [Instructor] A claim is a word or multiple words that tell you something about a user.
+> **[0:00](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/claims-based-authorization?u=76281980&t=0)** - [Instructor] A claim is a [[Microsoft Word|word]] or multiple words that tell you something about a user.
 >
 > **[0:07](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/claims-based-authorization?u=76281980&t=7)** For example, let us say that you are a teacher at school and you have a list of students who are allowed to enter your class.
 >
@@ -1862,7 +1843,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (6), database (2), [[Microsoft Word|Word]] (1), [[Search]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **UI Navigation:** go to (10), scroll down (2), scroll up (1)
 > **Env Vars:** api (6)
 > **Definitions:** is a  (2), means that (1), is an  (1)
@@ -1871,8 +1852,7 @@ created: 2026-05-02
 > **Tools:** visual studio (1)
 > **Prerequisites:** configure (1)
 
-#### Resource-based authorization
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/resource-based-authorization?u=76281980)
+#### [Resource-based authorization](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/resource-based-authorization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1934,7 +1914,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (1)
 > **UI Navigation:** go to (2)
 > **Analogies:** similar to (1), for example (1)
 > **Env Vars:** api (1)
@@ -1946,8 +1925,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Where to go next?
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/where-to-go-next?u=76281980)
+#### [Where to go next?](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/where-to-go-next?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1957,7 +1935,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/where-to-go-next?u=76281980&t=13)** We started by talking about the common security vulnerabilities like different injection attacks, the file upload attack, the authentication attack, and much more.
 >
-> **[0:23](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/where-to-go-next?u=76281980&t=23)** Then next, you learned how to add authentication to an [ASP.NET](https://ASP.NET) application, and you learned about the simple authentication, the cookie-based authentication, Google authentication, API key, and token based.
+> **[0:23](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/where-to-go-next?u=76281980&t=23)** Then next, you learned how to add authentication to an [[[ASP.NET]]](https://ASP.NET) application, and you learned about the simple authentication, the cookie-based authentication, [[Google]] authentication, API key, and token based.
 >
 > **[0:39](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/where-to-go-next?u=76281980&t=39)** By the end of this course, you also learned about authorization and you learned how to add simple role-based authorization, claims-based authorization, and the resource-based authorization to an [ASP.NET](https://ASP.NET) application.
 >
@@ -1965,7 +1943,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/where-to-go-next?u=76281980&t=61)** Next, you can try and work some more with the authentication and authorization types.
 >
-> **[1:07](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/where-to-go-next?u=76281980&t=67)** Like for example, you can try to add LinkedIn authentication or Facebook authentication to the MVC app, or you can also try and research about authorization types like View-based authorization.
+> **[1:07](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/where-to-go-next?u=76281980&t=67)** Like for example, you can try to add [[LinkedIn]] authentication or Facebook authentication to the MVC app, or you can also try and research about authorization types like View-based authorization.
 >
 > **[1:22](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/where-to-go-next?u=76281980&t=82)** In any case, if you have any questions about this course or .NET technologies in general, feel free to get in touch with me via Twitter or LinkedIn.
 >
@@ -1973,7 +1951,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[LinkedIn]] (3), [[ASP.NET]] (2), application (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[ASP.NET]] (2), [[Google]] (1)
 > **Env Vars:** net (5), asp (2), api (1), mvc (1)
 > **URLs:** [asp.net](https://asp.net) (2)
 > **Analogies:** for example (1)

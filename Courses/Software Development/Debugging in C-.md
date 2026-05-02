@@ -84,8 +84,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Debugging in C#
-> [LinkedIn Learning](https://www.linkedin.com/learning/debugging-in-c-sharp/debugging-in-c-sharp?u=76281980)
+#### [Debugging in C#](https://www.linkedin.com/learning/debugging-in-c-sharp/debugging-in-c-sharp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -95,7 +94,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/debugging-in-c-sharp/debugging-in-c-sharp?u=76281980&t=15)** So if you're tired of facing those confusing errors in your code, and not sure where to start to fix them, I'm here to help.
 >
-> **[0:23](https://www.linkedin.com/learning/debugging-in-c-sharp/debugging-in-c-sharp?u=76281980&t=23)** Hi, I'm Kathryn Hodge, and in this LinkedIn Learning course, I'll walk through examples where we use the debugging tools available in Visual Studio code.
+> **[0:23](https://www.linkedin.com/learning/debugging-in-c-sharp/debugging-in-c-sharp?u=76281980&t=23)** Hi, I'm Kathryn Hodge, and in this [[LinkedIn]] Learning course, I'll walk through examples where we use the debugging tools available in Visual Studio code.
 >
 > **[0:33](https://www.linkedin.com/learning/debugging-in-c-sharp/debugging-in-c-sharp?u=76281980&t=33)** Ultimately you'll learn how to proactively avoid common mistakes and bugs through defensive programming, resulting in more secure and reliable programs.
 >
@@ -103,14 +102,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Debugging]] (2), [[LinkedIn]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Tools:** visual studio (2)
 > **Env Vars:** ide (1)
 > **Warnings:** common error (1)
 > **Speakers:** - [kathryn] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/debugging-in-c-sharp/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/debugging-in-c-sharp/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -124,7 +122,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/debugging-in-c-sharp/what-you-should-know?u=76281980&t=24)** If you don't have it installed, or have never used this IDE before, don't worry.
 >
-> **[0:29](https://www.linkedin.com/learning/debugging-in-c-sharp/what-you-should-know?u=76281980&t=29)** All you need to do is download Visual Studio Code, and then download the .net CLI tools.
+> **[0:29](https://www.linkedin.com/learning/debugging-in-c-sharp/what-you-should-know?u=76281980&t=29)** All you need to do is download Visual Studio Code, and then download the .net [[CLI]] tools.
 >
 > **[0:36](https://www.linkedin.com/learning/debugging-in-c-sharp/what-you-should-know?u=76281980&t=36)** Alright, now you're set up and ready to go.
 >
@@ -140,8 +138,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [presenter] (1)
 
-#### How to use CoderPad
-> [LinkedIn Learning](https://www.linkedin.com/learning/debugging-in-c-sharp/how-to-use-coderpad?u=76281980)
+#### [How to use CoderPad](https://www.linkedin.com/learning/debugging-in-c-sharp/how-to-use-coderpad?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -151,7 +148,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/debugging-in-c-sharp/how-to-use-coderpad?u=76281980&t=17)** These challenges are hosted by CoderPad, and they appear in the same area of the course page where you watch the course's videos.
 >
-> **[0:25](https://www.linkedin.com/learning/debugging-in-c-sharp/how-to-use-coderpad?u=76281980&t=25)** We recommend using a desktop browser for the best experience, but you can use the LinkedIn Learning mobile app if you prefer.
+> **[0:25](https://www.linkedin.com/learning/debugging-in-c-sharp/how-to-use-coderpad?u=76281980&t=25)** We recommend using a desktop browser for the best experience, but you can use the [[LinkedIn]] Learning mobile app if you prefer.
 >
 > **[0:33](https://www.linkedin.com/learning/debugging-in-c-sharp/how-to-use-coderpad?u=76281980&t=33)** The code challenge has four main areas: Instructions, a console for output, a code editor for your answer, and another code editor where you can see how your code is used.
 >
@@ -189,7 +186,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** click on (1)
@@ -200,8 +197,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is debugging?
-> [LinkedIn Learning](https://www.linkedin.com/learning/debugging-in-c-sharp/what-is-debugging?u=76281980)
+#### [What is debugging?](https://www.linkedin.com/learning/debugging-in-c-sharp/what-is-debugging?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -211,7 +207,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/debugging-in-c-sharp/what-is-debugging?u=76281980&t=15)** Debugging involves locating and correcting code errors in a computer program.
 >
-> **[0:20](https://www.linkedin.com/learning/debugging-in-c-sharp/what-is-debugging?u=76281980&t=20)** It is part of the software testing process and is an integral part of the entire software development lifecycle.
+> **[0:20](https://www.linkedin.com/learning/debugging-in-c-sharp/what-is-debugging?u=76281980&t=20)** It is part of the [[Software Testing]] process and is an integral part of the entire [[Software Development]] lifecycle.
 >
 > **[0:27](https://www.linkedin.com/learning/debugging-in-c-sharp/what-is-debugging?u=76281980&t=27)** We often call these errors bugs.
 >
@@ -243,14 +239,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Debugging]] (3), [[Software Testing]] (1), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Software Testing]] (1), [[Software Development]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** is an  (3)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is a print statement?
-> [LinkedIn Learning](https://www.linkedin.com/learning/debugging-in-c-sharp/what-is-a-print-statement?u=76281980)
+#### [What is a print statement?](https://www.linkedin.com/learning/debugging-in-c-sharp/what-is-a-print-statement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -290,13 +285,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Debugging]] (3), data (1), application (1)
 > **Tools:** terminal (1), visual studio (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [kathryn] (1)
 
-#### What is a breakpoint?
-> [LinkedIn Learning](https://www.linkedin.com/learning/debugging-in-c-sharp/what-is-a-breakpoint?u=76281980)
+#### [What is a breakpoint?](https://www.linkedin.com/learning/debugging-in-c-sharp/what-is-a-breakpoint?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -432,7 +425,7 @@ created: 2026-05-02
 >
 > **[5:21](https://www.linkedin.com/learning/debugging-in-c-sharp/what-is-a-breakpoint?u=76281980&t=321)** We also have that logpoint, here.
 >
-> **[5:24](https://www.linkedin.com/learning/debugging-in-c-sharp/what-is-a-breakpoint?u=76281980&t=324)** Right now, this only works for node JS in Javascript but it might be coming to C sharp soon.
+> **[5:24](https://www.linkedin.com/learning/debugging-in-c-sharp/what-is-a-breakpoint?u=76281980&t=324)** Right now, this only works for node JS in [[JavaScript]] but it might be coming to C sharp soon.
 >
 > **[5:31](https://www.linkedin.com/learning/debugging-in-c-sharp/what-is-a-breakpoint?u=76281980&t=331)** Sometimes these breakpoints can get annoying if you add them over time.
 >
@@ -446,7 +439,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (7), [[Debugging]] (2), application (1), node (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **CLI Commands:** make (1), node (1)
 > **Code Identifiers:** triplenumber (1)
 > **Tools:** visual studio (1)
@@ -454,8 +447,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [speaker] (1)
 
-#### Inspecting values of variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/debugging-in-c-sharp/inspecting-values-of-variables?u=76281980)
+#### [Inspecting values of variables](https://www.linkedin.com/learning/debugging-in-c-sharp/inspecting-values-of-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -505,7 +497,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/debugging-in-c-sharp/inspecting-values-of-variables?u=76281980&t=97)** And in our console we get eight, which is the maximum of the two numbers, the maximum of three and eight, our inputs.
 >
-> **[1:44](https://www.linkedin.com/learning/debugging-in-c-sharp/inspecting-values-of-variables?u=76281980&t=104)** Let's add that break point again and take a deeper look at some of these side windows.
+> **[1:44](https://www.linkedin.com/learning/debugging-in-c-sharp/inspecting-values-of-variables?u=76281980&t=104)** Let's add that break point again and take a deeper look at some of these side [[Windows]].
 >
 > **[1:49](https://www.linkedin.com/learning/debugging-in-c-sharp/inspecting-values-of-variables?u=76281980&t=109)** So if we run the program again, you saw our local variables end up in this Variables window here.
 >
@@ -566,12 +558,11 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Execution in debug mode
-> [LinkedIn Learning](https://www.linkedin.com/learning/debugging-in-c-sharp/execution-in-debug-mode?u=76281980)
+#### [Execution in debug mode](https://www.linkedin.com/learning/debugging-in-c-sharp/execution-in-debug-mode?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/debugging-in-c-sharp/execution-in-debug-mode?u=76281980&t=1)** - [Instructor] When debugging code, we often use breakpoints to stop the program's execution and inspect the internal state of the given variables.
+> **[0:01](https://www.linkedin.com/learning/debugging-in-c-sharp/execution-in-debug-mode?u=76281980&t=1)** - [Instructor] When [[Debugging Code]], we often use breakpoints to stop the program's execution and inspect the internal state of the given variables.
 >
 > **[0:09](https://www.linkedin.com/learning/debugging-in-c-sharp/execution-in-debug-mode?u=76281980&t=9)** We did this before, but sometimes, we want to add a little more control over how and when our program is executing.
 >
@@ -641,15 +632,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[Debugging Code]] (1), hit (1)
+> **Frameworks & Libraries:** [[Debugging Code]] (1)
 > **Cross-References:** go back to (1), later in (1)
 > **UI Navigation:** click on (1), go to (1)
 > **CLI Commands:** make (1)
 > **Tools:** visual studio (1)
 > **Speakers:** - [instructor] (1)
 
-#### The debugging process
-> [LinkedIn Learning](https://www.linkedin.com/learning/debugging-in-c-sharp/the-debugging-process?u=76281980)
+#### [The debugging process](https://www.linkedin.com/learning/debugging-in-c-sharp/the-debugging-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -699,14 +689,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Debugging]] (4), next (3)
 > **CLI Commands:** find (5), make (1)
 > **Exercise Files:** source code (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Find the bug in string truncation
-> [LinkedIn Learning](https://www.linkedin.com/learning/debugging-in-c-sharp/solution-find-the-bug-in-string-truncation?u=76281980)
+#### [Solution: Find the bug in string truncation](https://www.linkedin.com/learning/debugging-in-c-sharp/solution-find-the-bug-in-string-truncation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -801,8 +789,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Covering edge cases
-> [LinkedIn Learning](https://www.linkedin.com/learning/debugging-in-c-sharp/covering-edge-cases?u=76281980)
+#### [Covering edge cases](https://www.linkedin.com/learning/debugging-in-c-sharp/covering-edge-cases?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -894,8 +881,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - just (1)
 
-#### Defensive programming
-> [LinkedIn Learning](https://www.linkedin.com/learning/debugging-in-c-sharp/defensive-programming?u=76281980)
+#### [Defensive programming](https://www.linkedin.com/learning/debugging-in-c-sharp/defensive-programming?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -963,19 +949,18 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/debugging-in-c-sharp/defensive-programming?u=76281980&t=178)** Defensive programming prevents applications from going into and continuing within the wrong state.
 >
-> **[3:04](https://www.linkedin.com/learning/debugging-in-c-sharp/defensive-programming?u=76281980&t=184)** This can be detrimental in the space of databases, because you do not want bugs in your data, or incorrect saved data.
+> **[3:04](https://www.linkedin.com/learning/debugging-in-c-sharp/defensive-programming?u=76281980&t=184)** This can be detrimental in the space of [[Databases]], because you do not want bugs in your data, or incorrect saved data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (7), data (2), application (1), hit (1), generic (1)
+> **Frameworks & Libraries:** [[Databases]] (1)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** testshape (4)
 > **Definitions:** is a  (2)
 > **Analogies:** it's like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Side effects
-> [LinkedIn Learning](https://www.linkedin.com/learning/debugging-in-c-sharp/side-effects?u=76281980)
+#### [Side effects](https://www.linkedin.com/learning/debugging-in-c-sharp/side-effects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1043,11 +1028,11 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/debugging-in-c-sharp/side-effects?u=76281980&t=222)** It's all up to you as the developer.
 >
-> **[3:45](https://www.linkedin.com/learning/debugging-in-c-sharp/side-effects?u=76281980&t=225)** Ultimately to prevent unintended side effects, we usually use buffers, variables, or other data structures so we don't have to modify the original piece of data.
+> **[3:45](https://www.linkedin.com/learning/debugging-in-c-sharp/side-effects?u=76281980&t=225)** Ultimately to prevent unintended side effects, we usually use buffers, variables, or other [[Data Structures]] so we don't have to modify the original piece of data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (1), generic (1)
+> **Frameworks & Libraries:** [[Data Structures]] (1)
 > **Code Identifiers:** fullname (3), addgenericlastname (1)
 > **CLI Commands:** make (2), find (1)
 > **Tools:** visual studio (1)
@@ -1055,8 +1040,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [narrator] (1)
 
-#### Solution: Discount calculator
-> [LinkedIn Learning](https://www.linkedin.com/learning/debugging-in-c-sharp/solution-discount-calculator?u=76281980)
+#### [Solution: Discount calculator](https://www.linkedin.com/learning/debugging-in-c-sharp/solution-discount-calculator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1103,8 +1087,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### NullReferenceException
-> [LinkedIn Learning](https://www.linkedin.com/learning/debugging-in-c-sharp/nullreferenceexception?u=76281980)
+#### [NullReferenceException](https://www.linkedin.com/learning/debugging-in-c-sharp/nullreferenceexception?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1186,13 +1169,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1), data (1), hit (1), next (1)
 > **Definitions:** is a  (3), means that (2)
 > **Prerequisites:** initialization (1)
 > **Speakers:** - [instructor] (1)
 
-#### IndexOutOfRangeException
-> [LinkedIn Learning](https://www.linkedin.com/learning/debugging-in-c-sharp/indexoutofrangeexception?u=76281980)
+#### [IndexOutOfRangeException](https://www.linkedin.com/learning/debugging-in-c-sharp/indexoutofrangeexception?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1254,7 +1235,7 @@ created: 2026-05-02
 >
 > **[4:40](https://www.linkedin.com/learning/debugging-in-c-sharp/indexoutofrangeexception?u=76281980&t=280)** So first, we'll add the number 10 and then 2 and then 38, 19, 5, until each item has been added to the sum and we'll get that same value for our sum as we did before.
 >
-> **[4:55](https://www.linkedin.com/learning/debugging-in-c-sharp/indexoutofrangeexception?u=76281980&t=295)** Another way we could write this is we can add something called using System.Linq at the top.
+> **[4:55](https://www.linkedin.com/learning/debugging-in-c-sharp/indexoutofrangeexception?u=76281980&t=295)** Another way we could write this is we can add something called using System.[[Language Integrated Query (LINQ)|Linq]] at the top.
 >
 > **[5:03](https://www.linkedin.com/learning/debugging-in-c-sharp/indexoutofrangeexception?u=76281980&t=303)** We can actually use a LINQ query to access the different items in this array.
 >
@@ -1274,13 +1255,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Language Integrated Query (LINQ)|Linq]] (2), [[Programming]] (1), hit (1)
+> **Frameworks & Libraries:** [[Language Integrated Query (LINQ)|Linq]] (2)
 > **Warnings:** common error (1), be careful (1)
 > **Env Vars:** linq (1)
 > **Speakers:** - [instructor] (1)
 
-#### Logical errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/debugging-in-c-sharp/logical-errors?u=76281980)
+#### [Logical errors](https://www.linkedin.com/learning/debugging-in-c-sharp/logical-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1393,8 +1373,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** finished (1)
 
-#### Using a reference like a value
-> [LinkedIn Learning](https://www.linkedin.com/learning/debugging-in-c-sharp/using-a-reference-like-a-value?u=76281980)
+#### [Using a reference like a value](https://www.linkedin.com/learning/debugging-in-c-sharp/using-a-reference-like-a-value?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1456,8 +1435,7 @@ created: 2026-05-02
 > **Warnings:** pitfall (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Library management system
-> [LinkedIn Learning](https://www.linkedin.com/learning/debugging-in-c-sharp/4250042?u=76281980)
+#### [Solution: Library management system](https://www.linkedin.com/learning/debugging-in-c-sharp/4250042?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1526,8 +1504,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Basic code challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/debugging-in-c-sharp/basic-code-challenge?u=76281980)
+#### [Basic code challenge](https://www.linkedin.com/learning/debugging-in-c-sharp/basic-code-challenge?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1556,8 +1533,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat electronic music) (1)
 
-#### Basic code challenge: Solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/debugging-in-c-sharp/basic-code-challenge-solution?u=76281980)
+#### [Basic code challenge: Solution](https://www.linkedin.com/learning/debugging-in-c-sharp/basic-code-challenge-solution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1631,7 +1607,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/debugging-in-c-sharp/basic-code-challenge-solution?u=76281980&t=216)** So now we're at sixteen, our I has been incremented.
 >
-> **[3:39](https://www.linkedin.com/learning/debugging-in-c-sharp/basic-code-challenge-solution?u=76281980&t=219)** We're continuing through the rest of this program.
+> **[3:39](https://www.linkedin.com/learning/debugging-in-c-sharp/basic-code-challenge-solution?u=76281980&t=219)** We're continuing through the [[Representational State Transfer (REST)|rest]] of this program.
 >
 > **[3:42](https://www.linkedin.com/learning/debugging-in-c-sharp/basic-code-challenge-solution?u=76281980&t=222)** And it's looking good, so we'll remove that break point, we'll continue with the execution.
 >
@@ -1659,19 +1635,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (7), next (3), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (6)
 > **UI Navigation:** scroll down (1), go to (1), scroll up (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [woman] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Logical code challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/debugging-in-c-sharp/logical-code-challenge?u=76281980)
+#### [Logical code challenge](https://www.linkedin.com/learning/debugging-in-c-sharp/logical-code-challenge?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/debugging-in-c-sharp/logical-code-challenge?u=76281980&t=0)** - [Woman] Let's tackle another debugging code challenge.
+> **[0:00](https://www.linkedin.com/learning/debugging-in-c-sharp/logical-code-challenge?u=76281980&t=0)** - [Woman] Let's tackle another [[Debugging Code]] challenge.
 >
 > **[0:08](https://www.linkedin.com/learning/debugging-in-c-sharp/logical-code-challenge?u=76281980&t=8)** For this challenge, we have some code that attempts to find the BMI, or body mass index, for each patient in a collection of patients.
 >
@@ -1725,15 +1700,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Debugging Code]] (1), next (1), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[Debugging Code]] (1)
 > **Env Vars:** bmi (13)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [woman] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Logical code challenge: Solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/debugging-in-c-sharp/logical-code-challenge-solution?u=76281980)
+#### [Logical code challenge: Solution](https://www.linkedin.com/learning/debugging-in-c-sharp/logical-code-challenge-solution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1907,7 +1881,7 @@ created: 2026-05-02
 >
 > **[8:47](https://www.linkedin.com/learning/debugging-in-c-sharp/logical-code-challenge-solution?u=76281980&t=527)** The BMI we calculated is 16.78.
 >
-> **[8:52](https://www.linkedin.com/learning/debugging-in-c-sharp/logical-code-challenge-solution?u=76281980&t=532)** So let's go to Google here and I've already inputted the values, but if we have 6.44 as our feet and we have the correct pounds for our weight we get 16.8 as our BMI, which is exactly what we did here in our console.
+> **[8:52](https://www.linkedin.com/learning/debugging-in-c-sharp/logical-code-challenge-solution?u=76281980&t=532)** So let's go to [[Google]] here and I've already inputted the values, but if we have 6.44 as our feet and we have the correct pounds for our weight we get 16.8 as our BMI, which is exactly what we did here in our console.
 >
 > **[9:09](https://www.linkedin.com/learning/debugging-in-c-sharp/logical-code-challenge-solution?u=76281980&t=549)** The only difference is that the BMI there is rounded up.
 >
@@ -1917,7 +1891,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **Env Vars:** bmi (12)
 > **Versions:** 6.44 (2), 77.3 (1), 142.65 (1), 16.78 (1), 16.8 (1)
 > **CLI Commands:** find (3), make (2)
@@ -1926,8 +1900,7 @@ created: 2026-05-02
 > **Prerequisites:** initialization (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Find bug in factorial function
-> [LinkedIn Learning](https://www.linkedin.com/learning/debugging-in-c-sharp/solution-find-bug-in-factorial-function?u=76281980)
+#### [Solution: Find bug in factorial function](https://www.linkedin.com/learning/debugging-in-c-sharp/solution-find-bug-in-factorial-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1983,7 +1956,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1993,8 +1965,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/debugging-in-c-sharp/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/debugging-in-c-sharp/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2012,7 +1983,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ide (1)
 > **Tools:** visual studio (1)

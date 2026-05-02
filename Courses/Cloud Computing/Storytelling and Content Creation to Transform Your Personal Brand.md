@@ -78,8 +78,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Master the art of storytelling
-> [LinkedIn Learning](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/master-the-art-of-storytelling?u=76281980)
+#### [Master the art of storytelling](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/master-the-art-of-storytelling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -91,7 +90,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/master-the-art-of-storytelling?u=76281980&t=13)** Hey, my name's Ash Rathod, a brand story strategist who has coached founders, business leaders, and individuals from startups to Fortune 500 companies.
 >
-> **[0:23](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/master-the-art-of-storytelling?u=76281980&t=23)** In this course, we'll explore how storytelling can supercharge your personal brand by transforming it from good to great.
+> **[0:23](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/master-the-art-of-storytelling?u=76281980&t=23)** In this course, we'll explore how [[Storytelling]] can supercharge your personal brand by transforming it from good to great.
 >
 > **[0:31](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/master-the-art-of-storytelling?u=76281980&t=31)** You'll learn how to craft engaging content that doesn't just tell a story, it tells your story.
 >
@@ -101,7 +100,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), business (1), [[Storytelling]] (1)
+> **Frameworks & Libraries:** [[Storytelling]] (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - imagine (1)
 
@@ -110,8 +109,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The power of mindset
-> [LinkedIn Learning](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/the-power-of-mindset?u=76281980)
+#### [The power of mindset](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/the-power-of-mindset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -193,13 +191,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** fopo (2)
 > **Speakers:** - have (1)
 
-#### The art of resilience
-> [LinkedIn Learning](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/the-art-of-resilience?u=76281980)
+#### [The art of resilience](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/the-art-of-resilience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -221,7 +217,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/the-art-of-resilience?u=76281980&t=27)** Resilience is the ability to recover and thrive when you have setbacks.
 >
-> **[0:32](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/the-art-of-resilience?u=76281980&t=32)** When it comes to creating content and telling stories on LinkedIn, it's so important to stay motivated to achieve your goals.
+> **[0:32](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/the-art-of-resilience?u=76281980&t=32)** When it comes to creating content and telling stories on [[LinkedIn]], it's so important to stay motivated to achieve your goals.
 >
 > **[0:40](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/the-art-of-resilience?u=76281980&t=40)** I'll always remember this quote from Nelson Mandela.
 >
@@ -278,8 +274,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - i (1)
 
-#### Building a growth mindset
-> [LinkedIn Learning](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/building-a-growth-mindset?u=76281980)
+#### [Building a growth mindset](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/building-a-growth-mindset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -305,7 +300,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/building-a-growth-mindset?u=76281980&t=52)** Instead of saying, "I can't do this," you say, "I can't do this yet."
 >
-> **[0:58](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/building-a-growth-mindset?u=76281980&t=58)** It's a small shift in language that can have a significant impact on your outlook.
+> **[0:58](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/building-a-growth-mindset?u=76281980&t=58)** It's a small shift in language that can have a significant impact on your [[Microsoft Outlook|outlook]].
 >
 > **[1:03](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/building-a-growth-mindset?u=76281980&t=63)** It will reinforce the idea that with time and effort, you can improve.
 >
@@ -333,13 +328,13 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/building-a-growth-mindset?u=76281980&t=135)** Actively seek feedback on your content and consider each piece of advice as an opportunity to learn and improve.
 >
-> **[2:23](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/building-a-growth-mindset?u=76281980&t=143)** You'll soon realize developing and maintaining a growth mindset is a dynamic process that can significantly enhance your content creation journey.
+> **[2:23](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/building-a-growth-mindset?u=76281980&t=143)** You'll soon realize developing and maintaining a growth mindset is a dynamic process that can significantly enhance your [[Content Creation]] journey.
 >
 > **[2:33](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/building-a-growth-mindset?u=76281980&t=153)** Now it's time to put these skills into practice, and remember every step forward, no matter how small, is a victory in your growth journey.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), power (2), hit (1), [[Microsoft Outlook|Outlook]] (1), [[Content Creation]] (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (1), [[Content Creation]] (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
@@ -350,8 +345,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### 6P framework for creating compelling stories
-> [LinkedIn Learning](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/6p-framework-for-creating-compelling-stories?u=76281980)
+#### [6P framework for creating compelling stories](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/6p-framework-for-creating-compelling-stories?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -361,7 +355,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/6p-framework-for-creating-compelling-stories?u=76281980&t=8)** More specifically, let me introduce you to the 6P Framework.
 >
-> **[0:13](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/6p-framework-for-creating-compelling-stories?u=76281980&t=13)** This is a powerful tool for storytelling that I've developed and used for brand stories, creative campaigns, and more recently, writing posts on LinkedIn.
+> **[0:13](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/6p-framework-for-creating-compelling-stories?u=76281980&t=13)** This is a powerful tool for [[Storytelling]] that I've developed and used for brand stories, creative campaigns, and more recently, writing posts on [[LinkedIn]].
 >
 > **[0:23](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/6p-framework-for-creating-compelling-stories?u=76281980&t=23)** It's inspired by Joseph Campbell's Hero's Journey.
 >
@@ -385,7 +379,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/6p-framework-for-creating-compelling-stories?u=76281980&t=63)** He's the protagonist who we follow through JK Rowling's series.
 >
-> **[1:07](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/6p-framework-for-creating-compelling-stories?u=76281980&t=67)** His character journey forms the heart of the story.
+> **[1:07](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/6p-framework-for-creating-compelling-stories?u=76281980&t=67)** His character journey [[Forms]] the heart of the story.
 >
 > **[1:11](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/6p-framework-for-creating-compelling-stories?u=76281980&t=71)** Next, we have the present stage.
 >
@@ -431,15 +425,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Storytelling]] (3), [[LinkedIn]] (1), [[Forms]] (1), next (1), power (1)
+> **Frameworks & Libraries:** [[Storytelling]] (3), [[LinkedIn]] (1), [[Forms]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Prerequisites:** before we start (1)
 > **Speakers:** - ever (1)
 
-#### Crafting a story that engages your audience
-> [LinkedIn Learning](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/crafting-a-story-that-engages-your-audience?u=76281980)
+#### [Crafting a story that engages your audience](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/crafting-a-story-that-engages-your-audience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -451,7 +444,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/crafting-a-story-that-engages-your-audience?u=76281980&t=10)** This had a massive impact on my business because I was unable to fully be myself.
 >
-> **[0:15](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/crafting-a-story-that-engages-your-audience?u=76281980&t=15)** That's how my first LinkedIn post started over three years ago.
+> **[0:15](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/crafting-a-story-that-engages-your-audience?u=76281980&t=15)** That's how my first [[LinkedIn]] post started over three years ago.
 >
 > **[0:18](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/crafting-a-story-that-engages-your-audience?u=76281980&t=18)** With under 1,000 followers and just a few people engaging on my previous posts, this particular post reached over 100,000 views and it changed the direction of my LinkedIn journey.
 >
@@ -501,23 +494,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[LinkedIn]] (2), power (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2)
 > **CLI Commands:** find (2)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - the (1)
 
-#### Harnessing the power of emotion to drive engagement
-> [LinkedIn Learning](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/harnessing-the-power-of-emotion-to-drive-engagement?u=76281980)
+#### [Harnessing the power of emotion to drive engagement](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/harnessing-the-power-of-emotion-to-drive-engagement?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/harnessing-the-power-of-emotion-to-drive-engagement?u=76281980&t=0)** - Most people think storytelling is an art, but that's only partly correct.
+> **[0:00](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/harnessing-the-power-of-emotion-to-drive-engagement?u=76281980&t=0)** - Most people think [[Storytelling]] is an art, but that's only partly correct.
 >
 > **[0:05](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/harnessing-the-power-of-emotion-to-drive-engagement?u=76281980&t=5)** It's actually an art and a science.
 >
 > **[0:08](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/harnessing-the-power-of-emotion-to-drive-engagement?u=76281980&t=8)** Neuroscience to be precise.
 >
-> **[0:11](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/harnessing-the-power-of-emotion-to-drive-engagement?u=76281980&t=11)** See, the key to captivating your audience and effective content creation lies in understanding our brains.
+> **[0:11](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/harnessing-the-power-of-emotion-to-drive-engagement?u=76281980&t=11)** See, the key to captivating your audience and effective [[Content Creation]] lies in understanding our brains.
 >
 > **[0:18](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/harnessing-the-power-of-emotion-to-drive-engagement?u=76281980&t=18)** I'm going to walk you through the power of neuroscience in storytelling and introduce you to a revolutionary concept, you'll understand how to evoke emotions and boost engagement in your audience.
 >
@@ -533,7 +525,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/harnessing-the-power-of-emotion-to-drive-engagement?u=76281980&t=63)** Let me give you an example.
 >
-> **[1:05](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/harnessing-the-power-of-emotion-to-drive-engagement?u=76281980&t=65)** Imagine you're writing a LinkedIn post about a struggle you faced when building your personal brand.
+> **[1:05](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/harnessing-the-power-of-emotion-to-drive-engagement?u=76281980&t=65)** Imagine you're writing a [[LinkedIn]] post about a struggle you faced when building your personal brand.
 >
 > **[1:10](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/harnessing-the-power-of-emotion-to-drive-engagement?u=76281980&t=70)** If you share your feelings of frustration, uncertainty, and eventual triumph, your audience will relate to it, and you'll most likely trigger their mirror neurons, causing them to feel and empathize with your experiences, like as if they're their own.
 >
@@ -573,7 +565,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Storytelling]] (2), [[Content Creation]] (1), power (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Storytelling]] (2), [[Content Creation]] (1), [[LinkedIn]] (1)
 > **Analogies:** imagine (2), for instance (1), such as (1)
 > **Env Vars:** cta (1), ctt (1), ctf (1)
 > **CLI Commands:** make (1)
@@ -585,8 +577,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding your audience
-> [LinkedIn Learning](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/understanding-your-audience?u=76281980)
+#### [Understanding your audience](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/understanding-your-audience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -628,7 +619,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/understanding-your-audience?u=76281980&t=111)** They may also feel overwhelmed or suffer with imposter syndrome, which is the Pit state.
 >
-> **[1:57](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/understanding-your-audience?u=76281980&t=117)** And I can help by offering storytelling, brand strategy, or LinkedIn training, which speaks to the Progress state, leading them to growth, success, and clarity, which is the final Power state.
+> **[1:57](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/understanding-your-audience?u=76281980&t=117)** And I can help by offering [[Storytelling]], brand strategy, or [[LinkedIn]] training, which speaks to the Progress state, leading them to growth, success, and clarity, which is the final Power state.
 >
 > **[2:10](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/understanding-your-audience?u=76281980&t=130)** From all of this, we're able to then create content ideas for posts.
 >
@@ -650,12 +641,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (3), hit (2), [[Storytelling]] (2), power (2), next (1)
+> **Frameworks & Libraries:** [[Storytelling]] (2), [[LinkedIn]] (1)
 > **Analogies:** imagine (1), for example (1)
 > **Speakers:** - imagine (1)
 
-#### Finding inspiration for content
-> [LinkedIn Learning](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/finding-inspiration-for-content?u=76281980)
+#### [Finding inspiration for content](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/finding-inspiration-for-content?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -687,7 +677,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/finding-inspiration-for-content?u=76281980&t=87)** They offer raw, unfiltered insights into their desires, concerns, challenges, and preferences.
 >
-> **[1:35](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/finding-inspiration-for-content?u=76281980&t=95)** See, most platforms that have comment sections like LinkedIn, YouTube, and Reddit, are all incredible places to find inspiration.
+> **[1:35](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/finding-inspiration-for-content?u=76281980&t=95)** See, most platforms that have comment sections like [[LinkedIn]], YouTube, and Reddit, are all incredible places to find inspiration.
 >
 > **[1:43](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/finding-inspiration-for-content?u=76281980&t=103)** Any comments that have high engagement, up votes, or likes on one platform are likely to resonate on another platform too.
 >
@@ -697,7 +687,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/finding-inspiration-for-content?u=76281980&t=120)** Let's take an example.
 >
-> **[2:02](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/finding-inspiration-for-content?u=76281980&t=122)** Suppose you notice frequent conversations around the struggle to find environmentally friendly products.
+> **[2:02](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/finding-inspiration-for-content?u=76281980&t=122)** Suppose you notice frequent conversations around the struggle to find environmentally friendly [[Microsoft Products|products]].
 >
 > **[2:08](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/finding-inspiration-for-content?u=76281980&t=128)** There's a story right there.
 >
@@ -705,13 +695,13 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/finding-inspiration-for-content?u=76281980&t=133)** A series on this theme would resonate so much with others sharing similar struggles.
 >
-> **[2:19](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/finding-inspiration-for-content?u=76281980&t=139)** Another approach to inspiration is keeping track of trending topics related to your pillars via tools like Google Trends, BuzzSumo, Twitter.
+> **[2:19](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/finding-inspiration-for-content?u=76281980&t=139)** Another approach to inspiration is keeping track of trending topics related to your pillars via tools like [[Google]] Trends, BuzzSumo, Twitter.
 >
 > **[2:29](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/finding-inspiration-for-content?u=76281980&t=149)** Trending topics can be a goldmine for timely, relevant content.
 >
 > **[2:33](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/finding-inspiration-for-content?u=76281980&t=153)** For instance, if zero waste lifestyle is trending, you could create content around, say, Jake's journey towards a zero waste lifestyle.
 >
-> **[2:41](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/finding-inspiration-for-content?u=76281980&t=161)** Remember, books, podcasts, newsletters, webinars, and conferences are also valuable sources of content inspiration.
+> **[2:41](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/finding-inspiration-for-content?u=76281980&t=161)** Remember, books, podcasts, [[Newsletters]], webinars, and conferences are also valuable sources of content inspiration.
 >
 > **[2:50](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/finding-inspiration-for-content?u=76281980&t=170)** An innovative idea from a podcast or a discussion at a conference could spark a content idea.
 >
@@ -731,18 +721,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Microsoft Products|Products]] (1), [[Google]] (1), [[Newsletters]] (1), power (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Microsoft Products|Products]] (1), [[Google]] (1), [[Newsletters]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Analogies:** for instance (2), imagine (1), for example (1)
 > **Env Vars:** diy (1)
 > **Speakers:** - imagine (1)
 
-#### Creating a plan for consistent, engaging content
-> [LinkedIn Learning](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/creating-a-plan-for-consistent-engaging-content?u=76281980)
+#### [Creating a plan for consistent, engaging content](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/creating-a-plan-for-consistent-engaging-content?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/creating-a-plan-for-consistent-engaging-content?u=76281980&t=0)** - I once worked with a client who was at the beginning of her LinkedIn journey.
+> **[0:00](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/creating-a-plan-for-consistent-engaging-content?u=76281980&t=0)** - I once worked with a client who was at the beginning of her [[LinkedIn]] journey.
 >
 > **[0:04](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/creating-a-plan-for-consistent-engaging-content?u=76281980&t=4)** She was enthusiastic about sharing her experience and growing her audience.
 >
@@ -760,13 +749,13 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/creating-a-plan-for-consistent-engaging-content?u=76281980&t=36)** She was ready to give in, but it wasn't that her coaching program was not valuable.
 >
-> **[0:42](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/creating-a-plan-for-consistent-engaging-content?u=76281980&t=42)** It's because she failed to realize the magic of the 80/20 rule in content creation.
+> **[0:42](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/creating-a-plan-for-consistent-engaging-content?u=76281980&t=42)** It's because she failed to realize the magic of the 80/20 rule in [[Content Creation]].
 >
 > **[0:48](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/creating-a-plan-for-consistent-engaging-content?u=76281980&t=48)** It states that 80% of your content should educate, entertain, inspire or motivate, and the remaining 20% should focus on selling or direct calls to action.
 >
 > **[0:59](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/creating-a-plan-for-consistent-engaging-content?u=76281980&t=59)** The first part builds familiarity, likability, and trust, positioning you as a trusted advisor.
 >
-> **[1:06](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/creating-a-plan-for-consistent-engaging-content?u=76281980&t=66)** Then that gives you permission for the second part, the 20% where you can sell content to promote your products and services.
+> **[1:06](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/creating-a-plan-for-consistent-engaging-content?u=76281980&t=66)** Then that gives you permission for the second part, the 20% where you can sell content to promote your [[Microsoft Products|products]] and services.
 >
 > **[1:15](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/creating-a-plan-for-consistent-engaging-content?u=76281980&t=75)** Let me give you an example.
 >
@@ -788,7 +777,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/creating-a-plan-for-consistent-engaging-content?u=76281980&t=119)** If not, it's time to rethink your strategy.
 >
-> **[2:03](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/creating-a-plan-for-consistent-engaging-content?u=76281980&t=123)** To keep you focused, start by creating a weekly plan on an Excel sheet or something similar.
+> **[2:03](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/creating-a-plan-for-consistent-engaging-content?u=76281980&t=123)** To keep you focused, start by creating a weekly plan on an [[Microsoft Excel|Excel]] sheet or something similar.
 >
 > **[2:08](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/creating-a-plan-for-consistent-engaging-content?u=76281980&t=128)** Decide what topics you'll post about each day based on your 6P framework and mix up the formats, text posts, videos, carousels, you name it.
 >
@@ -806,14 +795,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tips and tricks for compelling storytelling
-> [LinkedIn Learning](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/tips-and-tricks-for-compelling-storytelling?u=76281980)
+#### [Tips and tricks for compelling storytelling](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/tips-and-tricks-for-compelling-storytelling?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/tips-and-tricks-for-compelling-storytelling?u=76281980&t=1)** - Ever feel like your storytelling lacks a punch, like there's something missing that keeps your audience disengaged?
+> **[0:01](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/tips-and-tricks-for-compelling-storytelling?u=76281980&t=1)** - Ever feel like your [[Storytelling]] lacks a punch, like there's something missing that keeps your audience disengaged?
 >
-> **[0:08](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/tips-and-tricks-for-compelling-storytelling?u=76281980&t=8)** Well, let me walk you through some simple, yet effective storytelling tips that will keep your audience glued to every single word you say.
+> **[0:08](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/tips-and-tricks-for-compelling-storytelling?u=76281980&t=8)** Well, let me walk you through some simple, yet effective storytelling tips that will keep your audience glued to every single [[Microsoft Word|word]] you say.
 >
 > **[0:17](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/tips-and-tricks-for-compelling-storytelling?u=76281980&t=17)** You'll understand how to engage your audience and really make your story resonate.
 >
@@ -895,14 +883,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Storytelling]] (5), [[Microsoft Word|Word]] (1), express (1)
+> **Frameworks & Libraries:** [[Storytelling]] (5), [[Microsoft Word|Word]] (1)
 > **Analogies:** for example (2), for instance (1), it's like (1), picture (1), just like (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - ever (1)
 
-#### Crafting an engagement strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/crafting-an-engagement-strategy?u=76281980)
+#### [Crafting an engagement strategy](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/crafting-an-engagement-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -916,7 +903,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/crafting-an-engagement-strategy?u=76281980&t=19)** Human psychology, backed by several studies, underline the importance of social engagement when it comes to what becomes popular, seen, and shared.
 >
-> **[0:29](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/crafting-an-engagement-strategy?u=76281980&t=29)** Let's dig into why this is important on LinkedIn and why simply publishing content isn't enough if you want to be seen and remembered.
+> **[0:29](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/crafting-an-engagement-strategy?u=76281980&t=29)** Let's dig into why this is important on [[LinkedIn]] and why simply publishing content isn't enough if you want to be seen and remembered.
 >
 > **[0:39](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/crafting-an-engagement-strategy?u=76281980&t=39)** There are three things worth noting when it comes to the role others play and what you need to do to facilitate this.
 >
@@ -977,8 +964,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - build (1)
 
-#### Optimize your content distribution strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/optimize-your-content-distribution-strategy?u=76281980)
+#### [Optimize your content distribution strategy](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/optimize-your-content-distribution-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -986,7 +972,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/optimize-your-content-distribution-strategy?u=76281980&t=7)** Well, for me, it's all about finding smart ways to share your content.
 >
-> **[0:12](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/optimize-your-content-distribution-strategy?u=76281980&t=12)** Let's explore four super helpful ideas to get your LinkedIn posts out to more people, not just on LinkedIn, but all over the web too.
+> **[0:12](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/optimize-your-content-distribution-strategy?u=76281980&t=12)** Let's explore four super helpful ideas to get your [[LinkedIn]] posts out to more people, not just on LinkedIn, but all over the web too.
 >
 > **[0:21](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/optimize-your-content-distribution-strategy?u=76281980&t=21)** First up, let's talk about content syndication.
 >
@@ -1014,7 +1000,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/optimize-your-content-distribution-strategy?u=76281980&t=78)** When you collaborate, you also support each other and you also borrow each other's audiences and reach.
 >
-> **[1:24](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/optimize-your-content-distribution-strategy?u=76281980&t=84)** And finally, don't forget about good old email marketing.
+> **[1:24](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/optimize-your-content-distribution-strategy?u=76281980&t=84)** And finally, don't forget about good old [[Email Marketing]].
 >
 > **[1:29](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/optimize-your-content-distribution-strategy?u=76281980&t=89)** Even though we're all about social media these days, email is still a powerful way to share your content.
 >
@@ -1042,7 +1028,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (12), [[Analytics]] (2), web (1), next (1), [[Email Marketing]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (12), [[Email Marketing]] (1)
 > **Analogies:** imagine (3), for instance (1)
 > **Definitions:** known as (1)
 > **Best Practices:** don't forget (1)
@@ -1053,12 +1039,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Mastering brand storytelling
-> [LinkedIn Learning](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/mastering-brand-storytelling?u=76281980)
+#### [Mastering brand storytelling](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/mastering-brand-storytelling?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/mastering-brand-storytelling?u=76281980&t=0)** - As we descend into the final leg of our journey, I'm excited to share with you a few advanced narrative structures that will further elevate your storytelling.
+> **[0:00](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/mastering-brand-storytelling?u=76281980&t=0)** - As we descend into the final leg of our journey, I'm excited to share with you a few advanced narrative structures that will further elevate your [[Storytelling]].
 >
 > **[0:10](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/mastering-brand-storytelling?u=76281980&t=10)** These narratives aren't the quick write-ups you churn out on a busy day.
 >
@@ -1112,7 +1097,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/mastering-brand-storytelling?u=76281980&t=166)** Now it's your turn, over to you.
 >
-> **[2:49](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/mastering-brand-storytelling?u=76281980&t=169)** I invite you to draft a brief story using one of these narrative structures and share it on your LinkedIn profile.
+> **[2:49](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/mastering-brand-storytelling?u=76281980&t=169)** I invite you to draft a brief story using one of these narrative structures and share it on your [[LinkedIn]] profile.
 >
 > **[2:56](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/mastering-brand-storytelling?u=76281980&t=176)** Go ahead and download the exercise file and look through the examples.
 >
@@ -1128,7 +1113,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Storytelling]] (2), next (1), career (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Storytelling]] (2), [[LinkedIn]] (1)
 > **Exercise Files:** download the (2), exercise files (1), exercise file (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Speakers:** - as (1)

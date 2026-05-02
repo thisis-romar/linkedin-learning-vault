@@ -73,12 +73,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Take the mystery out of web accessibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-accessibility-for-developers/take-the-mystery-out-of-web-accessibility?u=76281980)
+#### [Take the mystery out of web accessibility](https://www.linkedin.com/learning/web-accessibility-for-developers/take-the-mystery-out-of-web-accessibility?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/web-accessibility-for-developers/take-the-mystery-out-of-web-accessibility?u=76281980&t=0)** - Have you been delving into the world of web accessibility?
+> **[0:00](https://www.linkedin.com/learning/web-accessibility-for-developers/take-the-mystery-out-of-web-accessibility?u=76281980&t=0)** - Have you been delving into the world of [[Web Accessibility]]?
 >
 > **[0:03](https://www.linkedin.com/learning/web-accessibility-for-developers/take-the-mystery-out-of-web-accessibility?u=76281980&t=3)** Heard terms like WCAG, ARIA, AXE, or JAWS?
 >
@@ -103,12 +102,11 @@ created: 2026-05-02
 > **CLI Commands:** make (2)
 > **Speakers:** - have (1)
 
-#### Why accessibility matters
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-accessibility-for-developers/why-accessibility-matters?u=76281980)
+#### [Why accessibility matters](https://www.linkedin.com/learning/web-accessibility-for-developers/why-accessibility-matters?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/web-accessibility-for-developers/why-accessibility-matters?u=76281980&t=0)** - [Instructor] Before we dive in, let's first ask ourselves, why does web accessibility matter?
+> **[0:00](https://www.linkedin.com/learning/web-accessibility-for-developers/why-accessibility-matters?u=76281980&t=0)** - [Instructor] Before we dive in, let's first ask ourselves, why does [[Web Accessibility]] matter?
 >
 > **[0:05](https://www.linkedin.com/learning/web-accessibility-for-developers/why-accessibility-matters?u=76281980&t=5)** What does web accessibility even mean?
 >
@@ -132,7 +130,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/web-accessibility-for-developers/why-accessibility-matters?u=76281980&t=51)** Information has been placed out on the internet and is available for access via web browser or user agent.
 >
-> **[0:57](https://www.linkedin.com/learning/web-accessibility-for-developers/why-accessibility-matters?u=76281980&t=57)** Browsers can be used by a broad population and are assistive in some ways to those with disabilities, but they don't provide a way to access all content, so some people use hardware and software assistive devices.
+> **[0:57](https://www.linkedin.com/learning/web-accessibility-for-developers/why-accessibility-matters?u=76281980&t=57)** Browsers can be used by a broad population and are assistive in some ways to those with disabilities, but they don't provide a way to access all content, so some people use [[Hardware]] and software assistive devices.
 >
 > **[1:10](https://www.linkedin.com/learning/web-accessibility-for-developers/why-accessibility-matters?u=76281980&t=70)** These include screen readers, screen magnifiers, captioning, voice recognition, alternative keyboards, and alternative pointing devices.
 >
@@ -162,7 +160,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/web-accessibility-for-developers/why-accessibility-matters?u=76281980&t=161)** Accessibility is not a nice to have or something that can be put off until the end.
 >
-> **[2:46](https://www.linkedin.com/learning/web-accessibility-for-developers/why-accessibility-matters?u=76281980&t=166)** It should be incorporated into every aspect of the software development lifecycle.
+> **[2:46](https://www.linkedin.com/learning/web-accessibility-for-developers/why-accessibility-matters?u=76281980&t=166)** It should be incorporated into every aspect of the [[Software Development]] lifecycle.
 >
 > **[2:51](https://www.linkedin.com/learning/web-accessibility-for-developers/why-accessibility-matters?u=76281980&t=171)** And yet, looking at the top million websites on the internet, only about 4% of them are considered fully accessible.
 >
@@ -176,7 +174,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Web Accessibility]] (3), web (1), [[Hardware]] (1), business (1), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Web Accessibility]] (3), [[Hardware]] (1), [[Software Development]] (1)
 > **Env Vars:** ada (3), doj (1)
 > **Definitions:** is a  (2), means that (1)
 > **Analogies:** for example (2), picture (1)
@@ -188,8 +186,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Your keyboard and computer
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-accessibility-for-developers/your-keyboard-and-computer?u=76281980)
+#### [Your keyboard and computer](https://www.linkedin.com/learning/web-accessibility-for-developers/your-keyboard-and-computer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -205,7 +202,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/web-accessibility-for-developers/your-keyboard-and-computer?u=76281980&t=35)** Now let's see how to navigate this same website without using a mouse.
 >
-> **[0:39](https://www.linkedin.com/learning/web-accessibility-for-developers/your-keyboard-and-computer?u=76281980&t=39)** I'll be demonstrating on a Mac, but similar functionality exists for Windows-based computers as well.
+> **[0:39](https://www.linkedin.com/learning/web-accessibility-for-developers/your-keyboard-and-computer?u=76281980&t=39)** I'll be demonstrating on a Mac, but similar functionality exists for [[Windows]]-based computers as well.
 >
 > **[0:45](https://www.linkedin.com/learning/web-accessibility-for-developers/your-keyboard-and-computer?u=76281980&t=45)** Check out the course handout for more information.
 >
@@ -281,7 +278,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), [[Windows]] (1), game (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **Speakers:** - [narrator] (4), - [instructor] (3), - the (1)
 > **URLs:** [binaryville.com](https://binaryville.com) (1)
 > **Tools:** firefox (1)
@@ -290,14 +287,13 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Prerequisites:** set up (1)
 
-#### NVDA and JAWS
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-accessibility-for-developers/nvda-and-jaws?u=76281980)
+#### [NVDA and JAWS](https://www.linkedin.com/learning/web-accessibility-for-developers/nvda-and-jaws?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/web-accessibility-for-developers/nvda-and-jaws?u=76281980&t=0)** - [Instructor] Though a lot of testing can be done using just voiceover on a Mac or narrator on Windows, in reality, these are not the most commonly used tools out there.
+> **[0:00](https://www.linkedin.com/learning/web-accessibility-for-developers/nvda-and-jaws?u=76281980&t=0)** - [Instructor] Though a lot of testing can be done using just voiceover on a Mac or narrator on [[Windows]], in reality, these are not the most commonly used tools out there.
 >
-> **[0:09](https://www.linkedin.com/learning/web-accessibility-for-developers/nvda-and-jaws?u=76281980&t=9)** Instead, there are more widely used screen readers developed by companies that specialize in building accessibility tools.
+> **[0:09](https://www.linkedin.com/learning/web-accessibility-for-developers/nvda-and-jaws?u=76281980&t=9)** Instead, there are more widely used screen readers developed by companies that specialize in [[Building Accessibility]] tools.
 >
 > **[0:15](https://www.linkedin.com/learning/web-accessibility-for-developers/nvda-and-jaws?u=76281980&t=15)** Let's look at two of them.
 >
@@ -305,11 +301,11 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/web-accessibility-for-developers/nvda-and-jaws?u=76281980&t=18)** NonVisual Desktop Access, or NVDA, is a free screen reader available for Windows PCs.
 >
-> **[0:25](https://www.linkedin.com/learning/web-accessibility-for-developers/nvda-and-jaws?u=76281980&t=25)** It can be used in web browsers, email clients, office programs, music players, and other programs.
+> **[0:25](https://www.linkedin.com/learning/web-accessibility-for-developers/nvda-and-jaws?u=76281980&t=25)** It can be used in web browsers, email clients, [[Microsoft Office|office]] programs, music players, and other programs.
 >
 > **[0:31](https://www.linkedin.com/learning/web-accessibility-for-developers/nvda-and-jaws?u=76281980&t=31)** It has been translated into over 50 languages.
 >
-> **[0:34](https://www.linkedin.com/learning/web-accessibility-for-developers/nvda-and-jaws?u=76281980&t=34)** According to user statistics from the NV access server, there are an average of 47,000 users per day.
+> **[0:34](https://www.linkedin.com/learning/web-accessibility-for-developers/nvda-and-jaws?u=76281980&t=34)** According to user [[Statistics]] from the NV access server, there are an average of 47,000 users per day.
 >
 > **[0:41](https://www.linkedin.com/learning/web-accessibility-for-developers/nvda-and-jaws?u=76281980&t=41)** Let's dig into how NVDA is used.
 >
@@ -343,9 +339,9 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/web-accessibility-for-developers/nvda-and-jaws?u=76281980&t=109)** Like NVDA, there are navigation quick keys to move the virtual cursor between features of the page, such as links and headings.
 >
-> **[1:57](https://www.linkedin.com/learning/web-accessibility-for-developers/nvda-and-jaws?u=76281980&t=117)** In addition, users compress the arrow keys to read line by line, word by word, and character by character.
+> **[1:57](https://www.linkedin.com/learning/web-accessibility-for-developers/nvda-and-jaws?u=76281980&t=117)** In addition, users compress the arrow keys to read line by line, [[Microsoft Word|word]] by word, and character by character.
 >
-> **[2:04](https://www.linkedin.com/learning/web-accessibility-for-developers/nvda-and-jaws?u=76281980&t=124)** Another mode for navigating websites is Forms Mode.
+> **[2:04](https://www.linkedin.com/learning/web-accessibility-for-developers/nvda-and-jaws?u=76281980&t=124)** Another mode for navigating websites is [[Forms]] Mode.
 >
 > **[2:07](https://www.linkedin.com/learning/web-accessibility-for-developers/nvda-and-jaws?u=76281980&t=127)** The virtual cursor keyboard commands will not pass through to form fields on the page.
 >
@@ -367,7 +363,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (3), [[Microsoft Word|Word]] (2), web (1), [[Microsoft Office|Office]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Microsoft Word|Word]] (2), [[Microsoft Office|Office]] (1), [[Statistics]] (1), [[Forms]] (1)
 > **Env Vars:** nvda (7), jaws (5), aria (3)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (1)
@@ -380,8 +376,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to WCAG
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-accessibility-for-developers/introduction-to-wcag?u=76281980)
+#### [Introduction to WCAG](https://www.linkedin.com/learning/web-accessibility-for-developers/introduction-to-wcag?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -391,7 +386,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/web-accessibility-for-developers/introduction-to-wcag?u=76281980&t=15)** Web Content Accessibility Guidelines or WCAG are recommendations for making web content more accessible to people with disabilities.
 >
-> **[0:23](https://www.linkedin.com/learning/web-accessibility-for-developers/introduction-to-wcag?u=76281980&t=23)** They're written by the Web Accessibility Initiative, WAI, of the Worldwide Web Consortium, W3C.
+> **[0:23](https://www.linkedin.com/learning/web-accessibility-for-developers/introduction-to-wcag?u=76281980&t=23)** They're written by the [[Web Accessibility]] Initiative, WAI, of the Worldwide Web Consortium, W3C.
 >
 > **[0:31](https://www.linkedin.com/learning/web-accessibility-for-developers/introduction-to-wcag?u=76281980&t=31)** More specifically, continuous work is done by an accessibility guidelines working group to refine existing guidelines and create new guidelines.
 >
@@ -469,7 +464,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), [[Web Accessibility]] (1), seo (1), [[Search]] (1), next (1)
+> **Frameworks & Libraries:** [[Web Accessibility]] (1)
 > **Env Vars:** wcag (8), wai (1), w3c (1), seo (1), aaa (1)
 > **CLI Commands:** make (4)
 > **Analogies:** such as (2)
@@ -478,8 +473,7 @@ created: 2026-05-02
 > **Documentation:** w3c (1)
 > **Warnings:** note that (1)
 
-#### Perceivable
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-accessibility-for-developers/perceivable?u=76281980)
+#### [Perceivable](https://www.linkedin.com/learning/web-accessibility-for-developers/perceivable?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -566,14 +560,13 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - the (1)
 
-#### Operable
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-accessibility-for-developers/operable?u=76281980)
+#### [Operable](https://www.linkedin.com/learning/web-accessibility-for-developers/operable?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/web-accessibility-for-developers/operable?u=76281980&t=0)** - [Narrator] WCAG Principle number two is operable, which states that user interface components and navigation must be operable.
 >
-> **[0:07](https://www.linkedin.com/learning/web-accessibility-for-developers/operable?u=76281980&t=7)** If any principle embodies the word accessible, it is operable.
+> **[0:07](https://www.linkedin.com/learning/web-accessibility-for-developers/operable?u=76281980&t=7)** If any principle embodies the [[Microsoft Word|word]] accessible, it is operable.
 >
 > **[0:12](https://www.linkedin.com/learning/web-accessibility-for-developers/operable?u=76281980&t=12)** It's basically letting us know that all parts of the site should be accessible by input devices, controllable regardless of the timing of events, and should be navigable.
 >
@@ -639,7 +632,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Env Vars:** wcag (3), aaa (2)
 > **Versions:** 2.4.3 (3), 2.4 (1)
 > **CLI Commands:** find (2), make (1)
@@ -648,8 +641,7 @@ created: 2026-05-02
 > **Analogies:** think of it like (1), just like (1)
 > **Cross-References:** go back to (1)
 
-#### Understandable and robust
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-accessibility-for-developers/understandable-and-robust?u=76281980)
+#### [Understandable and robust](https://www.linkedin.com/learning/web-accessibility-for-developers/understandable-and-robust?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -679,7 +671,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/web-accessibility-for-developers/understandable-and-robust?u=76281980&t=46)** Just like in website design where we might use a design system to maintain consistency, it is just as important to be consistent here.
 >
-> **[0:53](https://www.linkedin.com/learning/web-accessibility-for-developers/understandable-and-robust?u=76281980&t=53)** In fact, building accessibility into your design system is a great idea.
+> **[0:53](https://www.linkedin.com/learning/web-accessibility-for-developers/understandable-and-robust?u=76281980&t=53)** In fact, [[Building Accessibility]] into your design system is a great idea.
 >
 > **[0:58](https://www.linkedin.com/learning/web-accessibility-for-developers/understandable-and-robust?u=76281980&t=58)** Let's click on requirement 3.3.3.
 >
@@ -707,7 +699,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1), [[Building Accessibility]] (1)
+> **Frameworks & Libraries:** [[Building Accessibility]] (1)
 > **Versions:** 3.2.4 (1), 3.3.3 (1), 4.1.2 (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (2)
@@ -716,8 +708,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Find information on WCAG
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-accessibility-for-developers/challenge-find-information-on-wcag?u=76281980)
+#### [Challenge: Find information on WCAG](https://www.linkedin.com/learning/web-accessibility-for-developers/challenge-find-information-on-wcag?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -733,7 +724,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/web-accessibility-for-developers/challenge-find-information-on-wcag?u=76281980&t=48)** One report that scans the top million pages for accessibility errors notes that low contrast text is the top accessibility error found.
 >
-> **[0:55](https://www.linkedin.com/learning/web-accessibility-for-developers/challenge-find-information-on-wcag?u=76281980&t=55)** You can look in the course handout for more information on these statistics.
+> **[0:55](https://www.linkedin.com/learning/web-accessibility-for-developers/challenge-find-information-on-wcag?u=76281980&t=55)** You can look in the course handout for more information on these [[Statistics]].
 >
 > **[1:00](https://www.linkedin.com/learning/web-accessibility-for-developers/challenge-find-information-on-wcag?u=76281980&t=60)** What I want you to do is click on Show Techniques and Failures for this Success Criterion, read situations A and B, and determine if a 16-point non-bold font with 3:1 contrast ratio is sufficient to meet this Success Criterion.
 >
@@ -741,7 +732,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (1), next (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **Versions:** 1.1.1 (2), 1.4.3 (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** wcag (2)
@@ -750,8 +741,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Find information on WCAG
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-accessibility-for-developers/solution-find-information-on-wcag?u=76281980)
+#### [Solution: Find information on WCAG](https://www.linkedin.com/learning/web-accessibility-for-developers/solution-find-information-on-wcag?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -833,7 +823,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), business (2), web (1)
 > **Versions:** 1.1.1 (2), 1.4.3 (2), 4.5 (2)
 > **UI Navigation:** click on (5), open the (1)
 > **Definitions:** is a  (4), is an  (1)
@@ -841,20 +830,20 @@ created: 2026-05-02
 > **CLI Commands:** find (2)
 > **Cross-References:** go back to (1), later in (1)
 > **Speakers:** - [instructor] (1)
+> **Non-Speech:** (upbeat music) (1)
 
 
 ### 3. Accessibility Tools
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Manual testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-accessibility-for-developers/manual-testing?u=76281980)
+#### [Manual testing](https://www.linkedin.com/learning/web-accessibility-for-developers/manual-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/web-accessibility-for-developers/manual-testing?u=76281980&t=1)** - Web browsers provide built-in tools for manually testing for accessibility issues, which you can later triage and fix.
 >
-> **[0:08](https://www.linkedin.com/learning/web-accessibility-for-developers/manual-testing?u=76281980&t=8)** I'll be demonstrating web browser built-in accessibility tools in Firefox for Mac, but accessibility tools with varying functionality are available in all browsers for Mac and Windows.
+> **[0:08](https://www.linkedin.com/learning/web-accessibility-for-developers/manual-testing?u=76281980&t=8)** I'll be demonstrating web browser built-in accessibility tools in Firefox for Mac, but accessibility tools with varying functionality are available in all browsers for Mac and [[Windows]].
 >
 > **[0:20](https://www.linkedin.com/learning/web-accessibility-for-developers/manual-testing?u=76281980&t=20)** Check out the course handout for instructions on how to access the tools in other browsers.
 >
@@ -914,11 +903,11 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/web-accessibility-for-developers/manual-testing?u=76281980&t=159)** Looks like in addition to the one contrast item, we've got quite a few text labels missing that we should look into.
 >
-> **[2:46](https://www.linkedin.com/learning/web-accessibility-for-developers/manual-testing?u=76281980&t=166)** Pretty handy that we can do all this manual testing from our browser.
+> **[2:46](https://www.linkedin.com/learning/web-accessibility-for-developers/manual-testing?u=76281980&t=166)** Pretty handy that we can do all this [[Manual Testing]] from our browser.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), [[Windows]] (1), next (1), [[Manual Testing]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Manual Testing]] (1)
 > **UI Navigation:** click on (2), go to (1), select the (1), dropdown (1)
 > **Env Vars:** wcag (2)
 > **Tools:** firefox (2)
@@ -927,8 +916,7 @@ created: 2026-05-02
 > **URLs:** [binaryville.com](https://binaryville.com) (1)
 > **Versions:** 2.37 (1)
 
-#### Automated testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-accessibility-for-developers/automated-testing?u=76281980)
+#### [Automated testing](https://www.linkedin.com/learning/web-accessibility-for-developers/automated-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -966,13 +954,13 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/web-accessibility-for-developers/automated-testing?u=76281980&t=73)** Later, we'll run this on a website with a few issues and see how those results get reported and what we can do about them.
 >
-> **[1:19](https://www.linkedin.com/learning/web-accessibility-for-developers/automated-testing?u=76281980&t=79)** Now, automated testing shouldn't be used instead of manual testing, but rather, in addition to manual testing to catch as many accessibility issues as possible.
+> **[1:19](https://www.linkedin.com/learning/web-accessibility-for-developers/automated-testing?u=76281980&t=79)** Now, automated testing shouldn't be used instead of [[Manual Testing]], but rather, in addition to manual testing to catch as many accessibility issues as possible.
 >
 > **[1:28](https://www.linkedin.com/learning/web-accessibility-for-developers/automated-testing?u=76281980&t=88)** Now that we've seen how to use axes to look for accessibility issues, in the next video, we'll look at online tools that can help us dig deeper into items like contrast checks.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Manual Testing]] (2), next (1)
+> **Frameworks & Libraries:** [[Manual Testing]] (2)
 > **Tools:** firefox (4)
 > **Prerequisites:** install (3)
 > **UI Navigation:** open the (1), click on (1)
@@ -980,8 +968,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Helper tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-accessibility-for-developers/helper-tools?u=76281980)
+#### [Helper tools](https://www.linkedin.com/learning/web-accessibility-for-developers/helper-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -993,7 +980,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/web-accessibility-for-developers/helper-tools?u=76281980&t=14)** Once you have found a color contrast issue on your website, how do you repair it?
 >
-> **[0:18](https://www.linkedin.com/learning/web-accessibility-for-developers/helper-tools?u=76281980&t=18)** Some photo editors like Figma have plugins that can provide contrast information.
+> **[0:18](https://www.linkedin.com/learning/web-accessibility-for-developers/helper-tools?u=76281980&t=18)** Some photo editors like [[Figma (Software)|Figma]] have plugins that can provide contrast information.
 >
 > **[0:23](https://www.linkedin.com/learning/web-accessibility-for-developers/helper-tools?u=76281980&t=23)** However, if you don't have access to a tool like that or want a quick way to play with possible color combinations, an online contrast checker is the way to go.
 >
@@ -1027,7 +1014,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** seo (2), [[Figma (Software)|Figma]] (1), next (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (1)
 > **Env Vars:** seo (2), wic (1)
 > **Tools:** figma (1), firefox (1)
 > **CLI Commands:** make (1)
@@ -1041,8 +1028,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Identify conformance goals
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-accessibility-for-developers/identify-conformance-goals?u=76281980)
+#### [Identify conformance goals](https://www.linkedin.com/learning/web-accessibility-for-developers/identify-conformance-goals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1112,8 +1098,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - prior (1)
 
-#### Do automated testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-accessibility-for-developers/do-automated-testing?u=76281980)
+#### [Do automated testing](https://www.linkedin.com/learning/web-accessibility-for-developers/do-automated-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1179,7 +1164,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), feature (1)
 > **UI Navigation:** go to (4), click on (1)
 > **CLI Commands:** find (1), make (1)
 > **Versions:** 1.4 (1), 0.3 (1)
@@ -1188,12 +1172,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Do targeted manual testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-accessibility-for-developers/do-targeted-manual-testing?u=76281980)
+#### [Do targeted manual testing](https://www.linkedin.com/learning/web-accessibility-for-developers/do-targeted-manual-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/web-accessibility-for-developers/do-targeted-manual-testing?u=76281980&t=0)** - [Instructor] Like I mentioned before, X won't catch all accessibility issues on your website, so it's a good idea to do manual testing as well.
+> **[0:00](https://www.linkedin.com/learning/web-accessibility-for-developers/do-targeted-manual-testing?u=76281980&t=0)** - [Instructor] Like I mentioned before, X won't catch all accessibility issues on your website, so it's a good idea to do [[Manual Testing]] as well.
 >
 > **[0:08](https://www.linkedin.com/learning/web-accessibility-for-developers/do-targeted-manual-testing?u=76281980&t=8)** We'll use Firefox and our newly acquired accessibility knowledge to do some manual testing on our website.
 >
@@ -1225,7 +1208,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/web-accessibility-for-developers/do-targeted-manual-testing?u=76281980&t=82)** Let's keep looking.
 >
-> **[1:24](https://www.linkedin.com/learning/web-accessibility-for-developers/do-targeted-manual-testing?u=76281980&t=84)** Number two is the logo, three is home, four is products.
+> **[1:24](https://www.linkedin.com/learning/web-accessibility-for-developers/do-targeted-manual-testing?u=76281980&t=84)** Number two is the logo, three is home, four is [[Microsoft Products|products]].
 >
 > **[1:28](https://www.linkedin.com/learning/web-accessibility-for-developers/do-targeted-manual-testing?u=76281980&t=88)** Then 25 is about.
 >
@@ -1277,7 +1260,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Manual Testing]] (3), [[Microsoft Products|Products]] (2), next (2)
+> **Frameworks & Libraries:** [[Manual Testing]] (3), [[Microsoft Products|Products]] (2)
 > **UI Navigation:** open the (2), go to (1), click on (1)
 > **CLI Commands:** find (2), make (1)
 > **Tools:** firefox (3)
@@ -1285,8 +1268,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Triage issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-accessibility-for-developers/triage-issues?u=76281980)
+#### [Triage issues](https://www.linkedin.com/learning/web-accessibility-for-developers/triage-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1296,7 +1278,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/web-accessibility-for-developers/triage-issues?u=76281980&t=12)** There are various ways those priority levels could be established, so let's talk through some of them.
 >
-> **[0:17](https://www.linkedin.com/learning/web-accessibility-for-developers/triage-issues?u=76281980&t=17)** On this slide, I've consolidated all of the accessibility issues we found using both axe and manual testing that we need to triage.
+> **[0:17](https://www.linkedin.com/learning/web-accessibility-for-developers/triage-issues?u=76281980&t=17)** On this slide, I've consolidated all of the accessibility issues we found using both axe and [[Manual Testing]] that we need to triage.
 >
 > **[0:24](https://www.linkedin.com/learning/web-accessibility-for-developers/triage-issues?u=76281980&t=24)** There are six altogether.
 >
@@ -1350,7 +1332,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/web-accessibility-for-developers/triage-issues?u=76281980&t=152)** Another way of ordering our list of issues would be by taking the easier or smaller ones first.
 >
-> **[2:38](https://www.linkedin.com/learning/web-accessibility-for-developers/triage-issues?u=76281980&t=158)** Many developers are familiar with the concept of sizing tickets for Agile estimation, but here's a quick refresher.
+> **[2:38](https://www.linkedin.com/learning/web-accessibility-for-developers/triage-issues?u=76281980&t=158)** Many developers are familiar with the concept of sizing tickets for [[Agile Development|Agile]] estimation, but here's a quick refresher.
 >
 > **[2:44](https://www.linkedin.com/learning/web-accessibility-for-developers/triage-issues?u=76281980&t=164)** You can use actual number of hours, a relative scale of numbers, like the Fibonacci sequence, or another relative scale, like T-shirt sizing, to estimate how long each task will take.
 >
@@ -1372,7 +1354,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Manual Testing]] (1), web application (1), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Manual Testing]] (1), [[Agile Development|Agile]] (1)
 > **Env Vars:** wcag (3), mdn (1), ceo (1)
 > **CLI Commands:** make (2)
 > **Versions:** 1.4.3 (2)
@@ -1381,8 +1363,7 @@ created: 2026-05-02
 > **Documentation:** mdn (1)
 > **Tools:** firefox (1)
 
-#### Challenge: Run axe on a website
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-accessibility-for-developers/challenge-run-axe-on-a-website?u=76281980)
+#### [Challenge: Run axe on a website](https://www.linkedin.com/learning/web-accessibility-for-developers/challenge-run-axe-on-a-website?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1398,14 +1379,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Run axe on a website
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-accessibility-for-developers/solution-run-axe-on-a-website?u=76281980)
+#### [Solution: Run axe on a website](https://www.linkedin.com/learning/web-accessibility-for-developers/solution-run-axe-on-a-website?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1435,8 +1414,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Repair accessibility issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-accessibility-for-developers/repair-accessibility-issues?u=76281980)
+#### [Repair accessibility issues](https://www.linkedin.com/learning/web-accessibility-for-developers/repair-accessibility-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1478,7 +1456,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/web-accessibility-for-developers/repair-accessibility-issues?u=76281980&t=93)** So again, we'll increase the opacity.
 >
-> **[1:36](https://www.linkedin.com/learning/web-accessibility-for-developers/repair-accessibility-issues?u=76281980&t=96)** Like any software development, we would test this locally and iterate if needed.
+> **[1:36](https://www.linkedin.com/learning/web-accessibility-for-developers/repair-accessibility-issues?u=76281980&t=96)** Like any [[Software Development]], we would test this locally and iterate if needed.
 >
 > **[1:41](https://www.linkedin.com/learning/web-accessibility-for-developers/repair-accessibility-issues?u=76281980&t=101)** If the contrast ratio didn't pass locally in ACCs, we would adjust more.
 >
@@ -1488,7 +1466,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/web-accessibility-for-developers/repair-accessibility-issues?u=76281980&t=117)** The first two robot images under Explore Binaryville are missing alternate text.
 >
-> **[2:02](https://www.linkedin.com/learning/web-accessibility-for-developers/repair-accessibility-issues?u=76281980&t=122)** In the HTML code, we'll find Delores's image.
+> **[2:02](https://www.linkedin.com/learning/web-accessibility-for-developers/repair-accessibility-issues?u=76281980&t=122)** In the [[HTML]] code, we'll find Delores's image.
 >
 > **[2:06](https://www.linkedin.com/learning/web-accessibility-for-developers/repair-accessibility-issues?u=76281980&t=126)** The nice thing here is that we literally just have to add what they're telling us to add, the alt tag and a description.
 >
@@ -1552,7 +1530,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), css (2), [[Software Development]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Software Development]] (1), [[HTML]] (1)
 > **Env Vars:** accs (5), css (2), wigac (1), html (1), svg (1)
 > **CLI Commands:** make (6), find (2)
 > **Versions:** 4.5 (1), 0.75 (1), 1.4.3 (1)
@@ -1561,12 +1539,11 @@ created: 2026-05-02
 > **Tools:** firefox (1)
 > **Definitions:** is a  (1)
 
-#### Retest after repairs
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-accessibility-for-developers/retest-after-repairs?u=76281980)
+#### [Retest after repairs](https://www.linkedin.com/learning/web-accessibility-for-developers/retest-after-repairs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/web-accessibility-for-developers/retest-after-repairs?u=76281980&t=0)** - [Instructor] Now that we've made our repairs, we can use axe and manual testing to verify that our repairs were successful.
+> **[0:00](https://www.linkedin.com/learning/web-accessibility-for-developers/retest-after-repairs?u=76281980&t=0)** - [Instructor] Now that we've made our repairs, we can use axe and [[Manual Testing]] to verify that our repairs were successful.
 >
 > **[0:07](https://www.linkedin.com/learning/web-accessibility-for-developers/retest-after-repairs?u=76281980&t=7)** Before running axe, let's remind ourselves that our first page had two issues caught by axe, menu item contrast, and missing alt tags.
 >
@@ -1625,8 +1602,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-accessibility-for-developers/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/web-accessibility-for-developers/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1636,9 +1612,9 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/web-accessibility-for-developers/next-steps?u=76281980&t=9)** Now that you've built a foundation of accessibility knowledge, here are some next steps you can take.
 >
-> **[0:15](https://www.linkedin.com/learning/web-accessibility-for-developers/next-steps?u=76281980&t=15)** First, you can connect with me on LinkedIn and share your accessibility journeys with me.
+> **[0:15](https://www.linkedin.com/learning/web-accessibility-for-developers/next-steps?u=76281980&t=15)** First, you can connect with me on [[LinkedIn]] and share your accessibility journeys with me.
 >
-> **[0:20](https://www.linkedin.com/learning/web-accessibility-for-developers/next-steps?u=76281980&t=20)** Next, LinkedIn has many other courses on web accessibility, and I'd encourage you to keep learning.
+> **[0:20](https://www.linkedin.com/learning/web-accessibility-for-developers/next-steps?u=76281980&t=20)** Next, LinkedIn has many other courses on [[Web Accessibility]], and I'd encourage you to keep learning.
 >
 > **[0:26](https://www.linkedin.com/learning/web-accessibility-for-developers/next-steps?u=76281980&t=26)** Here're some that I would recommend.
 >
@@ -1648,7 +1624,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[LinkedIn]] (2), [[Web Accessibility]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Web Accessibility]] (1)
 > **Speakers:** - so (1)
 
 

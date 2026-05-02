@@ -83,8 +83,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why use Razor Pages?
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/why-use-razor-pages?u=76281980)
+#### [Why use Razor Pages?](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/why-use-razor-pages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -94,26 +93,25 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/why-use-razor-pages?u=76281980&t=20)** Next, you learn about data binding in Razor Pages where you learn about one way, two way, and event data binding.
 >
-> **[0:28](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/why-use-razor-pages?u=76281980&t=28)** You'll also learn about model binding and data forms validation.
+> **[0:28](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/why-use-razor-pages?u=76281980&t=28)** You'll also learn about model binding and data [[Forms]] validation.
 >
-> **[0:34](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/why-use-razor-pages?u=76281980&t=34)** Then you learn how to configure Entity framework core in a Razor Pages application and how to get and store data in an SQL server database using the Entity framework core.
+> **[0:34](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/why-use-razor-pages?u=76281980&t=34)** Then you learn how to configure Entity framework core in a Razor Pages application and how to get and store data in an [[Microsoft SQL Server|SQL server]] database using the Entity framework core.
 >
 > **[0:45](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/why-use-razor-pages?u=76281980&t=45)** By the end of these cores, you'll also learn about securing Razor Page applications, where you'll learn about the difference between authentication and authorization, and also learn about simple, role based, and claims based authorization.
 >
 > **[1:01](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/why-use-razor-pages?u=76281980&t=61)** Hi, my name is Ervis Trupja and I'm a freelance full stack developer and trainer.
 >
-> **[1:07](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/why-use-razor-pages?u=76281980&t=67)** Join me in my LinkedIn learning course as we explore the Razor Pages framework by building a simple application.
+> **[1:07](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/why-use-razor-pages?u=76281980&t=67)** Join me in my [[LinkedIn]] learning course as we explore the Razor Pages framework by building a simple application.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), application (2), web (1), next (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Microsoft SQL Server|Sql server]] (1), [[LinkedIn]] (1)
 > **Env Vars:** mvc (1), sql (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - razor (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -133,7 +131,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), [[Programming]] (1)
 > **Env Vars:** net (3), anp (1), npc (1)
 > **URLs:** [anp.net](https://anp.net) (1)
 > **Versions:** 6.0 (1)
@@ -146,20 +143,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is ASP.NET Razor Pages?
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/what-is-asp-dot-net-razor-pages?u=76281980)
+#### [What is ASP.NET Razor Pages?](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/what-is-asp-dot-net-razor-pages?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/what-is-asp-dot-net-razor-pages?u=76281980&t=0)** - [Narrator] Per definition, "[ASP.NET](https://ASP.NET) Razor Pages is a server-side, page-focused framework that enables building dynamic, data-driven websites with clean separation of concerns."
+> **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/what-is-asp-dot-net-razor-pages?u=76281980&t=0)** - [Narrator] Per definition, "[[[ASP.NET]]](https://ASP.NET) Razor Pages is a server-side, page-focused framework that enables building dynamic, data-driven websites with clean separation of concerns."
 >
-> **[0:14](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/what-is-asp-dot-net-razor-pages?u=76281980&t=14)** Razor Pages is also known as a cross-platform development framework because apps built with Razor Pages can be deployed to Windows, Unix and Mac operating systems.
+> **[0:14](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/what-is-asp-dot-net-razor-pages?u=76281980&t=14)** Razor Pages is also known as a [[Cross-platform Development]] framework because apps built with Razor Pages can be deployed to [[Windows]], Unix and Mac operating systems.
 >
 > **[0:26](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/what-is-asp-dot-net-razor-pages?u=76281980&t=26)** There are other frameworks that you could use to build cross-platform applications, but what are the key benefits of using Razor Pages over other frameworks?
 >
 > **[0:36](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/what-is-asp-dot-net-razor-pages?u=76281980&t=36)** First of all, the Razor Pages is a really lightweight and a very flexible framework.
 >
-> **[0:43](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/what-is-asp-dot-net-razor-pages?u=76281980&t=43)** It also provides the developers with full control over rendered HTML.
+> **[0:43](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/what-is-asp-dot-net-razor-pages?u=76281980&t=43)** It also provides the developers with full control over rendered [[HTML]].
 >
 > **[0:49](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/what-is-asp-dot-net-razor-pages?u=76281980&t=49)** Last but not least, Razor Pages is the recommended framework for cross-platform, server-side HTML generation.
 >
@@ -167,7 +163,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/what-is-asp-dot-net-razor-pages?u=76281980&t=67)** The Razor Pages framework is really for any developer with any level of expertise.
 >
-> **[1:12](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/what-is-asp-dot-net-razor-pages?u=76281980&t=72)** If you are a developer with experience in any page-centric frameworks like PHP, [ASP.NET](https://ASP.NET) Web Pages, or [ASP.NET](https://ASP.NET) Web Forms, you can grasp this framework even faster.
+> **[1:12](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/what-is-asp-dot-net-razor-pages?u=76281980&t=72)** If you are a developer with experience in any page-centric frameworks like [[PHP]], [ASP.NET](https://ASP.NET) Web Pages, or [ASP.NET](https://ASP.NET) Web [[Forms]], you can grasp this framework even faster.
 >
 > **[1:25](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/what-is-asp-dot-net-razor-pages?u=76281980&t=85)** This framework is easy to learn, and you can start building apps really quickly.
 >
@@ -183,7 +179,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (3), [[ASP.NET Razor]] (2), cross-platform (2), [[ASP.NET]] (2), web (2)
+> **Frameworks & Libraries:** [[HTML]] (3), [[ASP.NET Razor]] (2), [[ASP.NET]] (2), [[Cross-platform Development]] (1), [[Windows]] (1)
 > **Env Vars:** net (7), asp (4), html (3), php (1), sdk (1)
 > **URLs:** [asp.net](https://asp.net) (4)
 > **Definitions:** is a  (2)
@@ -192,12 +188,11 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Prerequisites:** you need to have (1)
 
-#### ASP.NET Razor Pages vs. ASP.NET MVC
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/asp-dot-net-razor-pages-vs-asp-dot-net-mvc?u=76281980)
+#### [ASP.NET Razor Pages vs. ASP.NET MVC](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/asp-dot-net-razor-pages-vs-asp-dot-net-mvc?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/asp-dot-net-razor-pages-vs-asp-dot-net-mvc?u=76281980&t=0)** - Razor pages are often compared with the [ASP.NET](https://ASP.NET) MVC framework.
+> **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/asp-dot-net-razor-pages-vs-asp-dot-net-mvc?u=76281980&t=0)** - Razor pages are often compared with the [[[ASP.NET]]](https://ASP.NET) MVC framework.
 >
 > **[0:06](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/asp-dot-net-razor-pages-vs-asp-dot-net-mvc?u=76281980&t=6)** The truth is that these two frameworks have a lot in common but they also have some key differences.
 >
@@ -213,7 +208,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/asp-dot-net-razor-pages-vs-asp-dot-net-mvc?u=76281980&t=42)** Let us say, you are in the browser and you click a link, which requests data from home/index The MVC application is going to receive this request.
 >
-> **[0:55](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/asp-dot-net-razor-pages-vs-asp-dot-net-mvc?u=76281980&t=55)** Then it's going to use the [ASP.NET](https://ASP.NET) routing to decide which controller and action to trigger, and then use the [ASP.NET](https://ASP.NET) view engine to locate and render the view So the user can see the result.
+> **[0:55](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/asp-dot-net-razor-pages-vs-asp-dot-net-mvc?u=76281980&t=55)** Then it's going to use the [ASP.NET](https://ASP.NET) [[Routing]] to decide which controller and action to trigger, and then use the [ASP.NET](https://ASP.NET) view engine to locate and render the view So the user can see the result.
 >
 > **[1:12](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/asp-dot-net-razor-pages-vs-asp-dot-net-mvc?u=76281980&t=72)** As you can see in here the keywords are controller and action and [ASP.NET](https://ASP.NET) routing is the one that decides which controller and which action to call.
 >
@@ -271,7 +266,7 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/asp-dot-net-razor-pages-vs-asp-dot-net-mvc?u=76281980&t=256)** So welcome.cshtml In Razor Pages, for each C sharp HDML file which is a view that the user gets to see.
 >
-> **[4:24](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/asp-dot-net-razor-pages-vs-asp-dot-net-mvc?u=76281980&t=264)** We have a file C sharp, HTML dot C sharps so dot CS which is where all the logic is placed.
+> **[4:24](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/asp-dot-net-razor-pages-vs-asp-dot-net-mvc?u=76281980&t=264)** We have a file C sharp, [[HTML]] dot C sharps so dot CS which is where all the logic is placed.
 >
 > **[4:33](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/asp-dot-net-razor-pages-vs-asp-dot-net-mvc?u=76281980&t=273)** So for example, if we would have a simpler request let's say just home, then the [ASP.NET](https://ASP.NET) routing is going to search within the pages folder for a file named home dot C sharp HDML.
 >
@@ -309,13 +304,13 @@ created: 2026-05-02
 >
 > **[6:50](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/asp-dot-net-razor-pages-vs-asp-dot-net-mvc?u=76281980&t=410)** This makes the Razor Pages more structured and easy to understand compared to MVC which is spread in multiple folders.
 >
-> **[6:59](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/asp-dot-net-razor-pages-vs-asp-dot-net-mvc?u=76281980&t=419)** But MVC on the other hand is really good framework for the web applications, which have a lot of dynamic server views, single page applications rest API calls, et cetera.
+> **[6:59](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/asp-dot-net-razor-pages-vs-asp-dot-net-mvc?u=76281980&t=419)** But MVC on the other hand is really good framework for the web applications, which have a lot of dynamic server views, single page applications [[Representational State Transfer (REST)|rest]] API calls, et cetera.
 >
-> **[7:13](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/asp-dot-net-razor-pages-vs-asp-dot-net-mvc?u=76281980&t=433)** But Razor Pages are perfect for simple static pages that are read only or have lots of data input forms.
+> **[7:13](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/asp-dot-net-razor-pages-vs-asp-dot-net-mvc?u=76281980&t=433)** But Razor Pages are perfect for simple static pages that are read only or have lots of data input [[Forms]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (7), data (5), [[ASP.NET]] (5), application (4), [[Search]] (3)
+> **Frameworks & Libraries:** [[Routing]] (7), [[ASP.NET]] (5), [[ASP.NET MVC]] (1), [[HTML]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** mvc (14), asp (6), net (6), hdml (4), http (1)
 > **URLs:** [asp.net](https://asp.net) (6)
 > **Analogies:** for example (4), similar to (1)
@@ -323,8 +318,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - razor (1)
 
-#### Creating an empty ASP.NET Razor Pages project
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/creating-an-empty-asp-dot-net-razor-pages-project?u=76281980)
+#### [Creating an empty ASP.NET Razor Pages project](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/creating-an-empty-asp-dot-net-razor-pages-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -338,7 +332,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/creating-an-empty-asp-dot-net-razor-pages-project?u=76281980&t=19)** Project.
 >
-> **[0:21](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/creating-an-empty-asp-dot-net-razor-pages-project?u=76281980&t=21)** From the project templates in here, I'm going to select the [ASP.NET](https://ASP.NET) Core Web App.
+> **[0:21](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/creating-an-empty-asp-dot-net-razor-pages-project?u=76281980&t=21)** From the project templates in here, I'm going to select the [[[ASP.NET]]](https://ASP.NET) Core Web App.
 >
 > **[0:26](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/creating-an-empty-asp-dot-net-razor-pages-project?u=76281980&t=26)** And you can see in the description which says that, "A project template for creating an [ASP.NET](https://ASP.NET) Core application with example [ASP.NET](https://ASP.NET) Razor Pages content."
 >
@@ -374,15 +368,15 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/creating-an-empty-asp-dot-net-razor-pages-project?u=76281980&t=104)** And here you can see that it's a pretty simple project.
 >
-> **[1:47](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/creating-an-empty-asp-dot-net-razor-pages-project?u=76281980&t=107)** So it has the Connected Services, which is used to connect your app to third-party services, like Azure services, Google services, et cetera.
+> **[1:47](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/creating-an-empty-asp-dot-net-razor-pages-project?u=76281980&t=107)** So it has the Connected Services, which is used to connect your app to third-party services, like [[Microsoft Azure|Azure]] services, [[Google]] services, et cetera.
 >
 > **[1:55](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/creating-an-empty-asp-dot-net-razor-pages-project?u=76281980&t=115)** Inside the Dependencies, you have the Analyzers, which are used to analyze the code for errors or mistakes.
 >
 > **[2:03](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/creating-an-empty-asp-dot-net-razor-pages-project?u=76281980&t=123)** Then you have the Frameworks.
 >
-> **[2:04](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/creating-an-empty-asp-dot-net-razor-pages-project?u=76281980&t=124)** And here, by default, we're going to have just the Microsoft.[NETCore.App](https://NETCore.App) and the [AspNetCore.App](https://AspNetCore.App).
+> **[2:04](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/creating-an-empty-asp-dot-net-razor-pages-project?u=76281980&t=124)** And here, by default, we're going to have just the [[Microsoft]].[NETCore.App](https://NETCore.App) and the [AspNetCore.App](https://AspNetCore.App).
 >
-> **[2:12](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/creating-an-empty-asp-dot-net-razor-pages-project?u=76281980&t=132)** Then inside the Properties, we have the launchSettings.json file.
+> **[2:12](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/creating-an-empty-asp-dot-net-razor-pages-project?u=76281980&t=132)** Then inside the Properties, we have the launchSettings.[[JSON]] file.
 >
 > **[2:16](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/creating-an-empty-asp-dot-net-razor-pages-project?u=76281980&t=136)** And inside this file, you can basically define profiles for your projects or how you want to execute your project.
 >
@@ -396,7 +390,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/creating-an-empty-asp-dot-net-razor-pages-project?u=76281980&t=172)** Then next, we have the root folder.
 >
-> **[2:55](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/creating-an-empty-asp-dot-net-razor-pages-project?u=76281980&t=175)** And the root folder contains static assets for the app, like HDML files, so let's say, static HDML files, JavaScript files, CSS, images that you want to load in your app.
+> **[2:55](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/creating-an-empty-asp-dot-net-razor-pages-project?u=76281980&t=175)** And the root folder contains static assets for the app, like HDML files, so let's say, static HDML files, [[JavaScript]] files, CSS, images that you want to load in your app.
 >
 > **[3:07](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/creating-an-empty-asp-dot-net-razor-pages-project?u=76281980&t=187)** And in here, you can see that they are separated in three different folders.
 >
@@ -418,7 +412,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/creating-an-empty-asp-dot-net-razor-pages-project?u=76281980&t=230)** In here you're going to see that we have some pages.
 >
-> **[3:52](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/creating-an-empty-asp-dot-net-razor-pages-project?u=76281980&t=232)** So we have the Error page, we have the Index, and we have the Privacy.
+> **[3:52](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/creating-an-empty-asp-dot-net-razor-pages-project?u=76281980&t=232)** So we have the Error page, we have the Index, and we have the [[Privacy]].
 >
 > **[3:57](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/creating-an-empty-asp-dot-net-razor-pages-project?u=76281980&t=237)** Now, for each cshtml, we have the cshtml.cs, which is used to write the logic.
 >
@@ -478,7 +472,7 @@ created: 2026-05-02
 >
 > **[6:15](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/creating-an-empty-asp-dot-net-razor-pages-project?u=76281980&t=375)** And then, down here, we have this line, UseHttpsRedirection, which is used to redirect HTTP requests to HTTPS.
 >
-> **[6:24](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/creating-an-empty-asp-dot-net-razor-pages-project?u=76281980&t=384)** We have the UseStaticFiles, which enables static files such as HTML, CSS, and images, and JavaScript files to be served.
+> **[6:24](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/creating-an-empty-asp-dot-net-razor-pages-project?u=76281980&t=384)** We have the UseStaticFiles, which enables static files such as [[HTML]], CSS, and images, and JavaScript files to be served.
 >
 > **[6:33](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/creating-an-empty-asp-dot-net-razor-pages-project?u=76281980&t=393)** So if you want to use files from this folder, you need to have this enabled.
 >
@@ -488,7 +482,7 @@ created: 2026-05-02
 >
 > **[6:58](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/creating-an-empty-asp-dot-net-razor-pages-project?u=76281980&t=418)** Then we have the MapRazorPages.
 >
-> **[7:00](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/creating-an-empty-asp-dot-net-razor-pages-project?u=76281980&t=420)** And this method is used to configure the endpoint routing for the Razor Pages.
+> **[7:00](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/creating-an-empty-asp-dot-net-razor-pages-project?u=76281980&t=420)** And this method is used to configure the endpoint [[Routing]] for the Razor Pages.
 >
 > **[7:06](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/creating-an-empty-asp-dot-net-razor-pages-project?u=76281980&t=426)** So basically, this is the method that is used for the [ASP.NET](https://ASP.NET) route to be able to recognize an [ASP.NET](https://ASP.NET) Razor Page request.
 >
@@ -496,7 +490,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (8), [[JavaScript]] (4), css (4), [[ASP.NET Core]] (3), web (3)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[ASP.NET Core]] (3), [[ASP.NET Razor]] (2), [[JSON]] (2), [[Privacy]] (2)
 > **Env Vars:** net (12), asp (7), css (3), https (2), iis (2)
 > **UI Navigation:** select the (4), go to (3), dropdown (3)
 > **URLs:** [asp.net](https://asp.net) (7), [netcore.app](https://netcore.app) (1), [aspnetcore.app](https://aspnetcore.app) (1)
@@ -505,8 +499,7 @@ created: 2026-05-02
 > **File Paths:** launchsettings.json (1), appsettings.json (1)
 > **Tools:** visual studio (2)
 
-#### Key ASP.NET Razor Pages concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/key-asp-dot-net-razor-pages-concepts?u=76281980)
+#### [Key ASP.NET Razor Pages concepts](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/key-asp-dot-net-razor-pages-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -514,7 +507,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/key-asp-dot-net-razor-pages-concepts?u=76281980&t=13)** The most important concept is the Razor Pages, that's a Razor page or a Razor file.
 >
-> **[0:19](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/key-asp-dot-net-razor-pages-concepts?u=76281980&t=19)** The Razor pages or Razor files are files that contain both the client sides of the HTML and also the C sharp code.
+> **[0:19](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/key-asp-dot-net-razor-pages-concepts?u=76281980&t=19)** The Razor pages or Razor files are files that contain both the client sides of the [[HTML]] and also the C sharp code.
 >
 > **[0:28](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/key-asp-dot-net-razor-pages-concepts?u=76281980&t=28)** So these are the C sharp and also the C sharp code.
 >
@@ -550,7 +543,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), data (4), application (1)
+> **Frameworks & Libraries:** [[HTML]] (4)
 > **Env Vars:** html (4)
 > **UI Navigation:** go to (2), navigate to (1)
 > **Analogies:** for instance (1), for example (1)
@@ -564,8 +557,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data binding in ASP.NET Razor Pages
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/data-binding-in-asp-dot-net-razor-pages?u=76281980)
+#### [Data binding in ASP.NET Razor Pages](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/data-binding-in-asp-dot-net-razor-pages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -615,13 +607,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), application (2), business (1)
 > **Definitions:** is a  (2)
 > **Analogies:** picture (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### ASP.NET Razor Pages application overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/asp-dot-net-razor-pages-application-overview?u=76281980)
+#### [ASP.NET Razor Pages application overview](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/asp-dot-net-razor-pages-application-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -673,7 +663,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/asp-dot-net-razor-pages-application-overview?u=76281980&t=170)** Now, if you want to navigate to the test page that we just added, you can simply just go in here and then click test and then press enter.
 >
-> **[3:00](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/asp-dot-net-razor-pages-application-overview?u=76281980&t=180)** You'll see that you get just an empty screen because the csharp HTML file doesn't have any call.
+> **[3:00](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/asp-dot-net-razor-pages-application-overview?u=76281980&t=180)** You'll see that you get just an empty screen because the csharp [[HTML]] file doesn't have any call.
 >
 > **[3:07](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/asp-dot-net-razor-pages-application-overview?u=76281980&t=187)** But if I go to visual studio, for example, and then you go to test dot csharp HTML, and I'm just going to add an H1 tag, which says hello from test page, then save and click this button, the hot reload.
 >
@@ -687,7 +677,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/asp-dot-net-razor-pages-application-overview?u=76281980&t=223)** So just right click, then delete.
 >
-> **[3:46](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/asp-dot-net-razor-pages-application-overview?u=76281980&t=226)** We do not need the privacy, as well.
+> **[3:46](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/asp-dot-net-razor-pages-application-overview?u=76281980&t=226)** We do not need the [[Privacy]], as well.
 >
 > **[3:49](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/asp-dot-net-razor-pages-application-overview?u=76281980&t=229)** So, then we are going to remove the error.
 >
@@ -699,7 +689,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), data (2), [[HTML]] (2), database (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Privacy]] (1)
 > **UI Navigation:** go to (7), navigate to (1)
 > **Tools:** visual studio (5)
 > **Env Vars:** html (2), crud (1)
@@ -708,8 +698,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### One-way data binding in ASP.NET Razor Pages
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/one-way-data-binding-in-asp-dot-net-razor-pages?u=76281980)
+#### [One-way data binding in ASP.NET Razor Pages](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/one-way-data-binding-in-asp-dot-net-razor-pages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -719,7 +708,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/one-way-data-binding-in-asp-dot-net-razor-pages?u=76281980&t=15)** The data will still be hard coded data, but not on a view.
 >
-> **[0:19](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/one-way-data-binding-in-asp-dot-net-razor-pages?u=76281980&t=19)** You'll learn on the next chapter how to get data from an SQL database using the entity framework core.
+> **[0:19](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/one-way-data-binding-in-asp-dot-net-razor-pages?u=76281980&t=19)** You'll learn on the next chapter how to get data from an [[SQL]] database using the entity framework core.
 >
 > **[0:27](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/one-way-data-binding-in-asp-dot-net-razor-pages?u=76281980&t=27)** So for now, let us go to visual studio and see it in action.
 >
@@ -847,7 +836,7 @@ created: 2026-05-02
 >
 > **[6:27](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/one-way-data-binding-in-asp-dot-net-razor-pages?u=76281980&t=387)** And then the movie ID is going to be @_movie.id.
 >
-> **[6:37](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/one-way-data-binding-in-asp-dot-net-razor-pages?u=76281980&t=397)** Now we're going to talk more about the routing on the upcoming parts.
+> **[6:37](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/one-way-data-binding-in-asp-dot-net-razor-pages?u=76281980&t=397)** Now we're going to talk more about the [[Routing]] on the upcoming parts.
 >
 > **[6:42](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/one-way-data-binding-in-asp-dot-net-razor-pages?u=76281980&t=402)** So let us save all the changes and let us run the project to see the result.
 >
@@ -877,7 +866,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), next (2), database (2), [[SQL]] (1), [[Routing]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[Routing]] (1)
 > **UI Navigation:** go to (10)
 > **Cross-References:** next chapter (2), go back to (2)
 > **Tools:** visual studio (3)
@@ -886,14 +875,13 @@ created: 2026-05-02
 > **Code Identifiers:** var_movie (1)
 > **Speakers:** - [instructor] (1)
 
-#### Two-way data binding in ASP.NET Razor Pages
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/two-way-data-binding-in-asp-dot-net-razor-pages?u=76281980)
+#### [Two-way data binding in ASP.NET Razor Pages](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/two-way-data-binding-in-asp-dot-net-razor-pages?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/two-way-data-binding-in-asp-dot-net-razor-pages?u=76281980&t=0)** - [Instructor] On this part, you are going to learn about two-way data binding.
 >
-> **[0:05](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/two-way-data-binding-in-asp-dot-net-razor-pages?u=76281980&t=5)** We have mentioned on the first part of this chapter, that an example of two-way data binding, is when we use forms.
+> **[0:05](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/two-way-data-binding-in-asp-dot-net-razor-pages?u=76281980&t=5)** We have mentioned on the first part of this chapter, that an example of two-way data binding, is when we use [[Forms]].
 >
 > **[0:13](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/two-way-data-binding-in-asp-dot-net-razor-pages?u=76281980&t=13)** So, we can get data to a form, but, also submit data from a form.
 >
@@ -929,7 +917,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/two-way-data-binding-in-asp-dot-net-razor-pages?u=76281980&t=103)** So, for this form, let us define the method.
 >
-> **[1:47](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/two-way-data-binding-in-asp-dot-net-razor-pages?u=76281980&t=107)** The method is going to be post, and then to bind the values from the C# file in the C# HTML, we are going to use the name property.
+> **[1:47](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/two-way-data-binding-in-asp-dot-net-razor-pages?u=76281980&t=107)** The method is going to be post, and then to bind the values from the C# file in the C# [[HTML]], we are going to use the name property.
 >
 > **[1:58](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/two-way-data-binding-in-asp-dot-net-razor-pages?u=76281980&t=118)** So in here, input, and then name.
 >
@@ -1001,7 +989,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Forms]] (1), [[HTML]] (1), database (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[HTML]] (1)
 > **UI Navigation:** go to (9), right-click (2)
 > **Tools:** visual studio (2)
 > **Env Vars:** html (1)
@@ -1010,8 +998,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Event binding in ASP.NET Razor Pages
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/event-binding-in-asp-dot-net-razor-pages?u=76281980)
+#### [Event binding in ASP.NET Razor Pages](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/event-binding-in-asp-dot-net-razor-pages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1025,7 +1012,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/event-binding-in-asp-dot-net-razor-pages?u=76281980&t=26)** So let us go to visual studio and see it in action.
 >
-> **[0:30](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/event-binding-in-asp-dot-net-razor-pages?u=76281980&t=30)** In visual studio, I'll just use the at movie csharp HTML file, And then I am going to create an, A tag.
+> **[0:30](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/event-binding-in-asp-dot-net-razor-pages?u=76281980&t=30)** In visual studio, I'll just use the at movie csharp [[HTML]] file, And then I am going to create an, A tag.
 >
 > **[0:40](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/event-binding-in-asp-dot-net-razor-pages?u=76281980&t=40)** Then you're going to type asp, then page, then handler, is equal to.
 >
@@ -1079,8 +1066,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - with (1)
 
-#### Model binding ASP.NET Razor Pages
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/model-binding-asp-dot-net-razor-pages?u=76281980)
+#### [Model binding ASP.NET Razor Pages](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/model-binding-asp-dot-net-razor-pages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1174,7 +1160,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), application (2)
 > **UI Navigation:** go to (6), scroll up (1)
 > **Tools:** visual studio (2)
 > **Cross-References:** go back to (1)
@@ -1182,14 +1167,13 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - when (1)
 
-#### Form data validation in ASP.NET Razor Pages
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/form-data-validation-in-asp-dot-net-razor-pages?u=76281980)
+#### [Form data validation in ASP.NET Razor Pages](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/form-data-validation-in-asp-dot-net-razor-pages?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/form-data-validation-in-asp-dot-net-razor-pages?u=76281980&t=0)** - When it comes to working with forms, it's really important that you validate the data before you store them in the database.
+> **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/form-data-validation-in-asp-dot-net-razor-pages?u=76281980&t=0)** - When it comes to working with [[Forms]], it's really important that you validate the data before you store them in the database.
 >
-> **[0:08](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/form-data-validation-in-asp-dot-net-razor-pages?u=76281980&t=8)** To validate forms, you can either use JavaScript code on the front end, or you can validate the form data on the back end.
+> **[0:08](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/form-data-validation-in-asp-dot-net-razor-pages?u=76281980&t=8)** To validate forms, you can either use [[JavaScript]] code on the front end, or you can validate the form data on the back end.
 >
 > **[0:16](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/form-data-validation-in-asp-dot-net-razor-pages?u=76281980&t=16)** On this part, you'll learn how to validate forms on the back end side and show the errors on the front end side.
 >
@@ -1351,7 +1335,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Forms]] (3), database (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Forms]] (3), [[JavaScript]] (1)
 > **UI Navigation:** go to (6), scroll down (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** hdml (1), asp (1)
@@ -1365,12 +1349,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting up Entity Framework Core in ASP.NET Razor Pages
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/setting-up-entity-framework-core-in-asp-dot-net-razor-pages?u=76281980)
+#### [Setting up Entity Framework Core in ASP.NET Razor Pages](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/setting-up-entity-framework-core-in-asp-dot-net-razor-pages?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/setting-up-entity-framework-core-in-asp-dot-net-razor-pages?u=76281980&t=0)** - [Instructor] Throughout this chapter, you are going to learn how to use Entity Framework Core to interact with an SQL server database.
+> **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/setting-up-entity-framework-core-in-asp-dot-net-razor-pages?u=76281980&t=0)** - [Instructor] Throughout this chapter, you are going to learn how to use Entity Framework Core to interact with an [[Microsoft SQL Server|SQL server]] database.
 >
 > **[0:09](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/setting-up-entity-framework-core-in-asp-dot-net-razor-pages?u=76281980&t=9)** For that we are going to follow three simple steps.
 >
@@ -1384,11 +1367,11 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/setting-up-entity-framework-core-in-asp-dot-net-razor-pages?u=76281980&t=26)** We need to install three packages.
 >
-> **[0:30](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/setting-up-entity-framework-core-in-asp-dot-net-razor-pages?u=76281980&t=30)** The Microsoft Entity Framework Core.
+> **[0:30](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/setting-up-entity-framework-core-in-asp-dot-net-razor-pages?u=76281980&t=30)** The [[Microsoft]] Entity Framework Core.
 >
 > **[0:32](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/setting-up-entity-framework-core-in-asp-dot-net-razor-pages?u=76281980&t=32)** The Microsoft.EntityFrameWorkCore.SqlServer, and the Microsoft.EntityFrameWorkCore.Tools.
 >
-> **[0:40](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/setting-up-entity-framework-core-in-asp-dot-net-razor-pages?u=76281980&t=40)** The SQL server package, is a Microsoft SQL server database provider for Entity Framework Core.
+> **[0:40](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/setting-up-entity-framework-core-in-asp-dot-net-razor-pages?u=76281980&t=40)** The SQL server package, is a [[Microsoft SQL Server]] database provider for Entity Framework Core.
 >
 > **[0:48](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/setting-up-entity-framework-core-in-asp-dot-net-razor-pages?u=76281980&t=48)** The tools package, enables the no get package manager console to be used for Entity Framework Core commands.
 >
@@ -1412,11 +1395,11 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/setting-up-entity-framework-core-in-asp-dot-net-razor-pages?u=76281980&t=89)** I'll just click the drop down, so we can load all the available server names.
 >
-> **[1:36](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/setting-up-entity-framework-core-in-asp-dot-net-razor-pages?u=76281980&t=96)** And here you can see that I have two options the SQL express, and the SQL server.
+> **[1:36](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/setting-up-entity-framework-core-in-asp-dot-net-razor-pages?u=76281980&t=96)** And here you can see that I have two options the [[SQL]] express, and the SQL server.
 >
 > **[1:40](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/setting-up-entity-framework-core-in-asp-dot-net-razor-pages?u=76281980&t=100)** I'm going to select, let's say the second one.
 >
-> **[1:43](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/setting-up-entity-framework-core-in-asp-dot-net-razor-pages?u=76281980&t=103)** I'm going to use windows authentication, and the database name is going to be movies app and then dash DB.
+> **[1:43](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/setting-up-entity-framework-core-in-asp-dot-net-razor-pages?u=76281980&t=103)** I'm going to use [[Windows]] authentication, and the database name is going to be movies app and then dash DB.
 >
 > **[1:52](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/setting-up-entity-framework-core-in-asp-dot-net-razor-pages?u=76281980&t=112)** And I click the okay button to create this database.
 >
@@ -1434,7 +1417,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/setting-up-entity-framework-core-in-asp-dot-net-razor-pages?u=76281980&t=135)** Now we have said that to store the database connection strings.
 >
-> **[2:18](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/setting-up-entity-framework-core-in-asp-dot-net-razor-pages?u=76281980&t=138)** We use the app settings JSON file.
+> **[2:18](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/setting-up-entity-framework-core-in-asp-dot-net-razor-pages?u=76281980&t=138)** We use the app settings [[JSON]] file.
 >
 > **[2:21](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/setting-up-entity-framework-core-in-asp-dot-net-razor-pages?u=76281980&t=141)** So in here I'll just go to appsettings.json.
 >
@@ -1614,7 +1597,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (21), [[Microsoft SQL Server|Sql server]] (11), data (9), [[Microsoft]] (6), [[JSON]] (4)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (11), [[Microsoft]] (6), [[JSON]] (4), [[SQL]] (3), [[Microsoft SQL Server]] (1)
 > **Env Vars:** sql (15), json (3)
 > **UI Navigation:** go to (12), select the (2), open the (1)
 > **Prerequisites:** install (5), configure (3)
@@ -1623,8 +1606,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding and storing data in a database
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/adding-and-storing-data-in-a-database?u=76281980)
+#### [Adding and storing data in a database](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/adding-and-storing-data-in-a-database?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1704,14 +1686,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), database (5), next (2)
 > **UI Navigation:** go to (6), scroll up (1), click on (1)
 > **CLI Commands:** make (1)
 > **Tools:** visual studio (1)
 > **Speakers:** - now (1)
 
-#### Getting data from a database
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/getting-data-from-a-database?u=76281980)
+#### [Getting data from a database](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/getting-data-from-a-database?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1787,14 +1767,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), database (5), next (2)
 > **UI Navigation:** go to (4), click on (1)
 > **Tools:** visual studio (2)
 > **Analogies:** for example (1)
 > **Speakers:** - on (1)
 
-#### Getting data by ID from a database
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/getting-data-by-id-from-a-database?u=76281980)
+#### [Getting data by ID from a database](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/getting-data-by-id-from-a-database?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1962,7 +1940,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), database (4), application (2)
 > **UI Navigation:** go to (9), open the (2), click on (1)
 > **Env Vars:** url (2), htm (1), http (1)
 > **Analogies:** for example (2), just like (1)
@@ -1970,15 +1947,15 @@ created: 2026-05-02
 > **Non-Speech:** (typing) (3)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1), means that (1)
+> **File Paths:** htm.c (1)
 
-#### Service configuration in ASP.NET Razor Pages
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/service-configuration-in-asp-dot-net-razor-pages?u=76281980)
+#### [Service configuration in ASP.NET Razor Pages](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/service-configuration-in-asp-dot-net-razor-pages?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/service-configuration-in-asp-dot-net-razor-pages?u=76281980&t=0)** - [Instructor] So far, you have learned how to add data to the database and also how to get data from the database.
 >
-> **[0:07](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/service-configuration-in-asp-dot-net-razor-pages?u=76281980&t=7)** In all cases, you have had to inject the application context, which is configured to use an SQL Server database.
+> **[0:07](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/service-configuration-in-asp-dot-net-razor-pages?u=76281980&t=7)** In all cases, you have had to inject the application context, which is configured to use an [[Microsoft SQL Server|SQL Server]] database.
 >
 > **[0:15](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/service-configuration-in-asp-dot-net-razor-pages?u=76281980&t=15)** This is not a good practice, especially if you do not want to be database type dependent.
 >
@@ -2224,7 +2201,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), data (8), application (2), [[Microsoft SQL Server|Sql server]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (1)
 > **UI Navigation:** go to (12), click on (1), scroll down (1)
 > **Prerequisites:** configure (4)
 > **Env Vars:** sql (1)
@@ -2238,8 +2215,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Authentication vs. authorization
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/authentication-vs-authorization?u=76281980)
+#### [Authentication vs. authorization](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/authentication-vs-authorization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2293,12 +2269,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[Security]] (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Simple authorization in ASP.NET Razor Pages
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/simple-authorization-in-asp-dot-net-razor-pages?u=76281980)
+#### [Simple authorization in ASP.NET Razor Pages](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/simple-authorization-in-asp-dot-net-razor-pages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2310,7 +2284,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/simple-authorization-in-asp-dot-net-razor-pages?u=76281980&t=13)** Now, to add simple authorization is as simple as just adding in here the authorize attribute.
 >
-> **[0:23](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/simple-authorization-in-asp-dot-net-razor-pages?u=76281980&t=23)** And for the authorize attribute, let us import the necessary namespace, which is the Microsoft.AspNet.Core.Authorization.
+> **[0:23](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/simple-authorization-in-asp-dot-net-razor-pages?u=76281980&t=23)** And for the authorize attribute, let us import the necessary namespace, which is the [[Microsoft]].AspNet.Core.Authorization.
 >
 > **[0:32](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/simple-authorization-in-asp-dot-net-razor-pages?u=76281980&t=32)** And this way, we have set this page model to be accessed just by authenticated users.
 >
@@ -2388,8 +2362,7 @@ created: 2026-05-02
 > **Tools:** visual studio (1)
 > **Speakers:** - [instructor] (1)
 
-#### Role-based authorization in ASP.NET Razor Pages
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/role-based-authorization-in-asp-dot-net-razor-pages?u=76281980)
+#### [Role-based authorization in ASP.NET Razor Pages](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/role-based-authorization-in-asp-dot-net-razor-pages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2403,7 +2376,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/role-based-authorization-in-asp-dot-net-razor-pages?u=76281980&t=37)** For that, let us go to Visual Studio and see direction.
 >
-> **[0:42](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/role-based-authorization-in-asp-dot-net-razor-pages?u=76281980&t=42)** In Visual Studio, just go to the AddMovie.c#html.c# file.
+> **[0:42](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/role-based-authorization-in-asp-dot-net-razor-pages?u=76281980&t=42)** In Visual Studio, just go to the AddMovie.[[C#]][[HTML]].c# file.
 >
 > **[0:47](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/role-based-authorization-in-asp-dot-net-razor-pages?u=76281980&t=47)** And here, on the Authorized attribute, the only thing that we need to do is that we need to add the condition check roles.
 >
@@ -2468,8 +2441,7 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Analogies:** for example (1)
 
-#### Claims-based authorization in ASP.NET Razor Pages
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/claims-based-authorization-in-asp-dot-net-razor-pages?u=76281980)
+#### [Claims-based authorization in ASP.NET Razor Pages](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/claims-based-authorization-in-asp-dot-net-razor-pages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2540,8 +2512,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps for learning more about Razor Pages
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/next-steps-for-learning-more-about-razor-pages?u=76281980)
+#### [Next steps for learning more about Razor Pages](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/next-steps-for-learning-more-about-razor-pages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2551,9 +2522,9 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/next-steps-for-learning-more-about-razor-pages?u=76281980&t=21)** The next you learned about the data binding in Razor Pages, where you learned about the one way data binding, like showing data on a table, two way data binding like four validation and event data binding like binding a button click event.
 >
-> **[0:40](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/next-steps-for-learning-more-about-razor-pages?u=76281980&t=40)** Last but not least, you also learned about model binding and data forms validation.
+> **[0:40](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/next-steps-for-learning-more-about-razor-pages?u=76281980&t=40)** Last but not least, you also learned about model binding and data [[Forms]] validation.
 >
-> **[0:47](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/next-steps-for-learning-more-about-razor-pages?u=76281980&t=47)** Next, you learned how to configure entity framework core to work with SQL server database, where you learned how to get data from a database and also send data to the database.
+> **[0:47](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/next-steps-for-learning-more-about-razor-pages?u=76281980&t=47)** Next, you learned how to configure entity framework core to work with [[Microsoft SQL Server|SQL server]] database, where you learned how to get data from a database and also send data to the database.
 >
 > **[1:00](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/next-steps-for-learning-more-about-razor-pages?u=76281980&t=60)** By the end of this course you learned about securing Razor Pages where you learned about the difference between authentication and authorization, and also learned about simple, role based and claims based authorization.
 >
@@ -2563,13 +2534,13 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/next-steps-for-learning-more-about-razor-pages?u=76281980&t=85)** For example, you can try to update data in the database and also delete data from the database.
 >
-> **[1:32](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/next-steps-for-learning-more-about-razor-pages?u=76281980&t=92)** In any case, if you have any questions about this course or the .NET technologies in general, feel free to get in touch with me via Twitter or LinkedIn.
+> **[1:32](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/next-steps-for-learning-more-about-razor-pages?u=76281980&t=92)** In any case, if you have any questions about this course or the .NET technologies in general, feel free to get in touch with me via Twitter or [[LinkedIn]].
 >
 > **[1:43](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/next-steps-for-learning-more-about-razor-pages?u=76281980&t=103)** And if you want to learn more about the .NET technologies check out my other courses here on LinkedIn Learning Library.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), database (5), next (4), [[LinkedIn]] (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Forms]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** net (3), sql (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** configure (1)

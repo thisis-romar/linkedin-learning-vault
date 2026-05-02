@@ -75,24 +75,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Microsoft Azure Essentials Professional Certificate: Introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/microsoft-azure-essentials-professional-certificate-introduction?u=76281980)
+#### [Microsoft Azure Essentials Professional Certificate: Introduction](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/microsoft-azure-essentials-professional-certificate-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/microsoft-azure-essentials-professional-certificate-introduction?u=76281980&t=6)** Hello, welcome to Microsoft Azure Essentials.
+> **[0:06](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/microsoft-azure-essentials-professional-certificate-introduction?u=76281980&t=6)** Hello, welcome to [[Microsoft Azure]] Essentials.
 >
 > **[0:11](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/microsoft-azure-essentials-professional-certificate-introduction?u=76281980&t=11)** My name is Jim Cheshire, and I'll be your guide through this course as you learn all about Microsoft Azure.
 >
-> **[0:19](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/microsoft-azure-essentials-professional-certificate-introduction?u=76281980&t=19)** In my day job, I'm a Director of Supportability at Microsoft, and my job covers several different Azure services.
+> **[0:19](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/microsoft-azure-essentials-professional-certificate-introduction?u=76281980&t=19)** In my day job, I'm a Director of Supportability at [[Microsoft]], and my job covers several different [[Microsoft Azure|Azure]] services.
 >
-> **[0:28](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/microsoft-azure-essentials-professional-certificate-introduction?u=76281980&t=28)** I'm also the author of the book, Microsoft Azure Fundamentals, AZ-900 Exam Ref by Microsoft Press, and I have several video training courses available through Microsoft Press and here on LinkedIn.
+> **[0:28](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/microsoft-azure-essentials-professional-certificate-introduction?u=76281980&t=28)** I'm also the author of the book, Microsoft Azure Fundamentals, AZ-900 Exam Ref by Microsoft Press, and I have several video training courses available through Microsoft Press and here on [[LinkedIn]].
 >
 > **[0:44](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/microsoft-azure-essentials-professional-certificate-introduction?u=76281980&t=44)** My goal in this course is to not only introduce you to Microsoft Azure, but also to ground you in some of the core concepts that you need to understand in any cloud environment.
 >
 > **[0:57](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/microsoft-azure-essentials-professional-certificate-introduction?u=76281980&t=57)** We'll start off by looking at a big-picture introduction to the cloud.
 >
-> **[1:02](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/microsoft-azure-essentials-professional-certificate-introduction?u=76281980&t=62)** We'll include a little history of the cloud, and then we'll cover some of the benefits and terms you'll need to grasp as you dive into cloud computing.
+> **[1:02](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/microsoft-azure-essentials-professional-certificate-introduction?u=76281980&t=62)** We'll include a little history of the cloud, and then we'll cover some of the benefits and terms you'll need to grasp as you dive into [[Cloud Computing]].
 >
 > **[1:12](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/microsoft-azure-essentials-professional-certificate-introduction?u=76281980&t=72)** We'll then go a little bit deeper and learn about cloud service categories and deployment models, including why you might choose different models in the cloud.
 >
@@ -100,13 +99,13 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/microsoft-azure-essentials-professional-certificate-introduction?u=76281980&t=95)** After that, we'll start our journey into what Microsoft Azure offers, beginning with a tour of the Azure Portal, your web-based tool for creating and managing your Azure resources.
 >
-> **[1:49](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/microsoft-azure-essentials-professional-certificate-introduction?u=76281980&t=109)** We'll learn all about different Azure resource types, including virtual machines, networking, storage, and managed services that can make your cloud experience a much easier one.
+> **[1:49](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/microsoft-azure-essentials-professional-certificate-introduction?u=76281980&t=109)** We'll learn all about different Azure resource types, including [[Virtual Machines]], networking, storage, and managed services that can make your cloud experience a much easier one.
 >
 > **[2:03](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/microsoft-azure-essentials-professional-certificate-introduction?u=76281980&t=123)** We'll then journey further into Azure and discover how storage works, and we'll look at different options available to you for hosting applications, including hosting your your applications in a serverless environment.
 >
 > **[2:19](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/microsoft-azure-essentials-professional-certificate-introduction?u=76281980&t=139)** We'll talk about networking in Azure, and I'll explain it in clear terms so that you can understand the different networking components and how they work.
 >
-> **[2:30](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/microsoft-azure-essentials-professional-certificate-introduction?u=76281980&t=150)** We'll also cover some of the data and artificial intelligence services that Azure has to offer.
+> **[2:30](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/microsoft-azure-essentials-professional-certificate-introduction?u=76281980&t=150)** We'll also cover some of the data and [[Artificial Intelligence (AI)|artificial intelligence]] services that Azure has to offer.
 >
 > **[2:37](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/microsoft-azure-essentials-professional-certificate-introduction?u=76281980&t=157)** Moving on, we'll talk about how to monitor your Azure services.
 >
@@ -124,7 +123,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (15), cloud (9), [[Microsoft Azure]] (6), [[Microsoft]] (4), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (15), [[Microsoft Azure]] (6), [[Microsoft]] (4), [[LinkedIn]] (1), [[Cloud Computing]] (1)
 > **CLI Commands:** az (1), make (1)
 > **Tools:** azure portal (1)
 > **Analogies:** picture (1)
@@ -135,14 +134,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning objectives
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives-30680026?u=76281980)
+#### [Learning objectives](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives-30680026?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives-30680026?u=76281980&t=7)** Okay, you can be honest with me.
 >
-> **[0:10](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives-30680026?u=76281980&t=10)** When you first read the title of this lesson, What is Cloud Computing?
+> **[0:10](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives-30680026?u=76281980&t=10)** When you first read the title of this lesson, What is [[Cloud Computing]]?
 >
 > **[0:16](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives-30680026?u=76281980&t=16)** You probably already had a pretty good idea of what the answer is.
 >
@@ -172,22 +170,21 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives-30680026?u=76281980&t=73)** We'll also introduce the shared responsibility model and we'll talk about some key benefits of the cloud, including some cloud terminology that will be important to you for future lessons.
 >
-> **[1:26](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives-30680026?u=76281980&t=86)** We'll also talk about IaaS, PaaS, and SaaS cloud services, and we'll cover details on public, private, and hybrid clouds.
+> **[1:26](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives-30680026?u=76281980&t=86)** We'll also talk about [[IaaS]], [[PaaS]], and [[SaaS]] [[Cloud Services]], and we'll cover details on public, private, and hybrid clouds.
 >
 > **[1:37](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives-30680026?u=76281980&t=97)** So let's get started with a brief, and I mean very brief, history lesson on computing.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), [[IaaS]] (1), [[PaaS]] (1), [[SaaS]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (2), [[IaaS]] (1), [[PaaS]] (1), [[SaaS]] (1), [[Cloud Services]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 
-#### The evolution of computing
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/the-evolution-of-computing?u=76281980)
+#### [The evolution of computing](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/the-evolution-of-computing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/the-evolution-of-computing?u=76281980&t=6)** Let's start off with a little history of the evolution of cloud computing.
+> **[0:06](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/the-evolution-of-computing?u=76281980&t=6)** Let's start off with a little history of the evolution of [[Cloud Computing]].
 >
 > **[0:12](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/the-evolution-of-computing?u=76281980&t=12)** And really what we're talking about here is how did we get here?
 >
@@ -207,7 +204,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/the-evolution-of-computing?u=76281980&t=54)** All of the decisions are your own.
 >
-> **[0:57](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/the-evolution-of-computing?u=76281980&t=57)** And of course, playing into that is you have better regulatory compliance or easier regulatory compliance.
+> **[0:57](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/the-evolution-of-computing?u=76281980&t=57)** And of course, playing into that is you have better [[Regulatory Compliance]] or easier regulatory compliance.
 >
 > **[1:04](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/the-evolution-of-computing?u=76281980&t=64)** And when I say regulatory compliance, I'm talking about regulations that could be imposed by a country or the region where you operate, but it could also be by the nature of the business that you're in.
 >
@@ -235,7 +232,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/the-evolution-of-computing?u=76281980&t=172)** Certainly not as efficient in utilization.
 >
-> **[2:54](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/the-evolution-of-computing?u=76281980&t=174)** It's not agile.
+> **[2:54](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/the-evolution-of-computing?u=76281980&t=174)** It's not [[Agile Development|agile]].
 >
 > **[2:55](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/the-evolution-of-computing?u=76281980&t=175)** What I mean by that is, if you want to add additional capability, like you want to add more machines, you can't do that really quickly.
 >
@@ -323,7 +320,7 @@ created: 2026-05-02
 >
 > **[7:31](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/the-evolution-of-computing?u=76281980&t=451)** Let's look at the benefits.
 >
-> **[7:32](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/the-evolution-of-computing?u=76281980&t=452)** no capital hardware costs, capital costs meaning that upfront cost for all of that infrastructure.
+> **[7:32](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/the-evolution-of-computing?u=76281980&t=452)** no capital [[Hardware]] costs, capital costs meaning that upfront cost for all of that infrastructure.
 >
 > **[7:38](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/the-evolution-of-computing?u=76281980&t=458)** You don't have that in a Cloud environment.
 >
@@ -335,7 +332,7 @@ created: 2026-05-02
 >
 > **[7:56](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/the-evolution-of-computing?u=76281980&t=476)** The Cloud is agile.
 >
-> **[7:58](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/the-evolution-of-computing?u=76281980&t=478)** What that means is you can very easily add additional capability, whether that is maybe something as low level as more cores in a CPU or double the number of virtual machines.
+> **[7:58](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/the-evolution-of-computing?u=76281980&t=478)** What that means is you can very easily add additional capability, whether that is maybe something as low level as more cores in a CPU or double the number of [[Virtual Machines]].
 >
 > **[8:14](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/the-evolution-of-computing?u=76281980&t=494)** You can do this very quickly in the cloud.
 >
@@ -349,7 +346,7 @@ created: 2026-05-02
 >
 > **[8:41](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/the-evolution-of-computing?u=76281980&t=521)** So as you're storing data in the Cloud, you can make sure that you have multiple copies of your data in multiple places.
 >
-> **[8:47](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/the-evolution-of-computing?u=76281980&t=527)** We're going to talk quite a bit more about not only what the true benefit of that is, but how you can implement that in Azure as we get further along in this course.
+> **[8:47](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/the-evolution-of-computing?u=76281980&t=527)** We're going to talk quite a bit more about not only what the true benefit of that is, but how you can implement that in [[Microsoft Azure|Azure]] as we get further along in this course.
 >
 > **[8:57](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/the-evolution-of-computing?u=76281980&t=537)** Then of course, global.
 >
@@ -383,19 +380,19 @@ created: 2026-05-02
 >
 > **[10:16](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/the-evolution-of-computing?u=76281980&t=616)** Also, there are possible complexities and really this falls into play mostly when you're dealing with trying to integrate things that are in the cloud with things that are on-premises or something like that.
 >
-> **[10:30](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/the-evolution-of-computing?u=76281980&t=630)** Sometimes when you have complicated system configuration like that, you might have some complexities to deal with.
+> **[10:30](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/the-evolution-of-computing?u=76281980&t=630)** Sometimes when you have complicated [[System Configuration]] like that, you might have some complexities to deal with.
 >
 > **[10:39](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/the-evolution-of-computing?u=76281980&t=639)** Now, cloud providers give you a lot of services and tools that make that way easier than it could be, but it still does introduce some complexity.
 >
 > **[10:49](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/the-evolution-of-computing?u=76281980&t=649)** So let's look at some everyday cloud examples, because you know there are a lot of uses of the cloud that people really don't think about all the time.
 >
-> **[11:02](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/the-evolution-of-computing?u=76281980&t=662)** Mostly when we think about cloud nowadays, people are thinking about big data centers and virtual machines hosted someplace out in the ether somewhere.
+> **[11:02](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/the-evolution-of-computing?u=76281980&t=662)** Mostly when we think about cloud nowadays, people are thinking about [[Big Data]] centers and virtual machines hosted someplace out in the ether somewhere.
 >
 > **[11:14](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/the-evolution-of-computing?u=76281980&t=674)** It's actually way more than that.
 >
-> **[11:17](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/the-evolution-of-computing?u=76281980&t=677)** For example, e-mail providers such as [Outlook.com](https://Outlook.com) or Gmail, or what we used to have Hotmail.
+> **[11:17](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/the-evolution-of-computing?u=76281980&t=677)** For example, e-mail providers such as [[[Microsoft Outlook|Outlook]].com](https://Outlook.com) or Gmail, or what we used to have Hotmail.
 >
-> **[11:27](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/the-evolution-of-computing?u=76281980&t=687)** There are all these e-mail providers that are all actually Cloud services.
+> **[11:27](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/the-evolution-of-computing?u=76281980&t=687)** There are all these e-mail providers that are all actually [[Cloud Services]].
 >
 > **[11:32](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/the-evolution-of-computing?u=76281980&t=692)** And so we think about the way that we used to use e-mail, you'd have to do quite a bit of configuration to get e-mail hosted for you.
 >
@@ -433,11 +430,11 @@ created: 2026-05-02
 >
 > **[13:07](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/the-evolution-of-computing?u=76281980&t=787)** The cloud allows us to have cloud solutions with disk space in enormous amounts available for relatively low cost.
 >
-> **[13:17](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/the-evolution-of-computing?u=76281980&t=797)** So for example, I'm a Microsoft 365 subscriber.
+> **[13:17](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/the-evolution-of-computing?u=76281980&t=797)** So for example, I'm a [[Microsoft 365]] subscriber.
 >
 > **[13:20](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/the-evolution-of-computing?u=76281980&t=800)** I have the family plan.
 >
-> **[13:22](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/the-evolution-of-computing?u=76281980&t=802)** So every one of my family gets Microsoft Office through that plan, but they also get one terabyte of OneDrive disk space in the cloud.
+> **[13:22](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/the-evolution-of-computing?u=76281980&t=802)** So every one of my family gets [[Microsoft Office]] through that plan, but they also get one terabyte of [[Microsoft OneDrive|OneDrive]] disk space in the cloud.
 >
 > **[13:33](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/the-evolution-of-computing?u=76281980&t=813)** And I find myself thinking, wow, one terabyte.
 >
@@ -453,7 +450,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (29), data (26), business (5), [[Agile Development|Agile]] (5), [[Regulatory Compliance]] (3)
+> **Frameworks & Libraries:** [[Cloud Computing]] (6), [[Agile Development|Agile]] (5), [[Regulatory Compliance]] (3), [[Virtual Machines]] (2), [[Hardware]] (1)
 > **CLI Commands:** make (8), find (1)
 > **Analogies:** for example (4), such as (1)
 > **Prerequisites:** you need to have (1), required to (1)
@@ -462,12 +459,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** means that (1)
 
-#### What “the cloud” really means
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/what-the-cloud-really-means?u=76281980)
+#### [What “the cloud” really means](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/what-the-cloud-really-means?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/what-the-cloud-really-means?u=76281980&t=6)** Now that we've laid some groundwork about the cloud and what cloud computing is at a really high level, let's dig in a little bit and let's talk about what the cloud really means.
+> **[0:06](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/what-the-cloud-really-means?u=76281980&t=6)** Now that we've laid some groundwork about the cloud and what [[Cloud Computing]] is at a really high level, let's dig in a little bit and let's talk about what the cloud really means.
 >
 > **[0:21](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/what-the-cloud-really-means?u=76281980&t=21)** And we're going to start with this concept of a shared responsibility model.
 >
@@ -505,7 +501,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/what-the-cloud-really-means?u=76281980&t=177)** It could also mean multiple instances of something.
 >
-> **[3:01](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/what-the-cloud-really-means?u=76281980&t=181)** If you need to have two virtual machines, it's very easy for you to add a second one.
+> **[3:01](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/what-the-cloud-really-means?u=76281980&t=181)** If you need to have two [[Virtual Machines]], it's very easy for you to add a second one.
 >
 > **[3:07](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/what-the-cloud-really-means?u=76281980&t=187)** Now, you can also remove that second one if you don't want to pay for it anymore.
 >
@@ -527,13 +523,13 @@ created: 2026-05-02
 >
 > **[4:31](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/what-the-cloud-really-means?u=76281980&t=271)** A region is just a specific geographic location where a Cloud provider operates data centers and all the other facilities that are necessary for implementation of the Cloud.
 >
-> **[4:44](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/what-the-cloud-really-means?u=76281980&t=284)** Like for example, in Azure, an Azure region is located in a specific city, and you can actually drive up to that region and see it.
+> **[4:44](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/what-the-cloud-really-means?u=76281980&t=284)** Like for example, in [[Microsoft Azure|Azure]], an Azure region is located in a specific city, and you can actually drive up to that region and see it.
 >
 > **[4:53](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/what-the-cloud-really-means?u=76281980&t=293)** It's a fenced off facility that has data centers and all the other things necessary to operate Azure within that region.
 >
 > **[5:01](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/what-the-cloud-really-means?u=76281980&t=301)** Now, within a region, we have data centers, which is just a building within a region that houses all the servers and the power facilities and the networking components, all that thing that's necessary to operate the Cloud.
 >
-> **[5:14](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/what-the-cloud-really-means?u=76281980&t=314)** We also have Cloud services, which is just a capability that's provided to you by the Cloud platform.
+> **[5:14](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/what-the-cloud-really-means?u=76281980&t=314)** We also have [[Cloud Services]], which is just a capability that's provided to you by the Cloud platform.
 >
 > **[5:22](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/what-the-cloud-really-means?u=76281980&t=322)** There are a lot of different categories of services such as compute, storage, or database services, etc.
 >
@@ -557,7 +553,7 @@ created: 2026-05-02
 >
 > **[6:48](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/what-the-cloud-really-means?u=76281980&t=408)** All of that is agility.
 >
-> **[6:51](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/what-the-cloud-really-means?u=76281980&t=411)** Scalability is the ability to react easily and sometimes automatically to adjusting needs based on load or based on your capacity needs.
+> **[6:51](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/what-the-cloud-really-means?u=76281980&t=411)** [[Scalability]] is the ability to [[React.js|react]] easily and sometimes automatically to adjusting needs based on load or based on your capacity needs.
 >
 > **[7:03](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/what-the-cloud-really-means?u=76281980&t=423)** You might need more virtual machines, fewer virtual machines, more powerful virtual machines, or less powerful virtual machines.
 >
@@ -585,7 +581,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (39), [[Virtual Machines]] (6), data (4), [[Microsoft Azure|Azure]] (4), [[Security]] (3)
+> **Frameworks & Libraries:** [[Virtual Machines]] (6), [[Microsoft Azure|Azure]] (4), [[Scalability]] (2), [[Cloud Computing]] (1), [[Cloud Services]] (1)
 > **Analogies:** for example (3), such as (2), think of it as (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2), means that (1)
@@ -593,8 +589,7 @@ created: 2026-05-02
 > **Env Vars:** cpu (1)
 > **Cross-References:** we talked about (1)
 
-#### Cloud service categories
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-service-categories?u=76281980)
+#### [Cloud service categories](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-service-categories?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -602,7 +597,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-service-categories?u=76281980&t=15)** I'm going to use a restaurant analogy to explain these different cloud service categories.
 >
-> **[0:21](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-service-categories?u=76281980&t=21)** We're going to start off with Infrastructure as a Service or IaaS.
+> **[0:21](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-service-categories?u=76281980&t=21)** We're going to start off with [[IaaS|Infrastructure as a Service]] or [[IaaS]].
 >
 > **[0:27](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-service-categories?u=76281980&t=27)** So, if we think about that from a restaurant scenario, an analogy using a restaurant, in infrastructure as a service, the people who own the restaurant provide kitchen space, they provide all of the infrastructure, which would be things like ovens, and sinks, and dishwashers, and freezers.
 >
@@ -622,7 +617,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-service-categories?u=76281980&t=123)** So that's an analogy for IaaS or infrastructure as a service.
 >
-> **[2:09](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-service-categories?u=76281980&t=129)** Now, if we move to platform as a service, now the restaurant provider provides the kitchen space, and the ovens, and sinks, and dishwasher, and freezers, and prep areas like they did before, but they also now provide food items and ingredients and standardized recipes.
+> **[2:09](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-service-categories?u=76281980&t=129)** Now, if we move to [[PaaS|platform as a service]], now the restaurant provider provides the kitchen space, and the ovens, and sinks, and dishwasher, and freezers, and prep areas like they did before, but they also now provide food items and ingredients and standardized recipes.
 >
 > **[2:29](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-service-categories?u=76281980&t=149)** So you've lost some of your flexibility here.
 >
@@ -646,7 +641,7 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-service-categories?u=76281980&t=222)** What you provide is the content that plugs into that platform.
 >
-> **[3:47](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-service-categories?u=76281980&t=227)** Now, if we think about a SAS environment or software as a service, the restaurant provides just as with IIS and PAS, the kitchen space, the oven, sinks, dishwashers, freezers, prep areas, but also food items and ingredients, and also standardized recipes and cooking and serving.
+> **[3:47](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-service-categories?u=76281980&t=227)** Now, if we think about a SAS environment or [[SaaS|software as a service]], the restaurant provides just as with IIS and PAS, the kitchen space, the oven, sinks, dishwashers, freezers, prep areas, but also food items and ingredients, and also standardized recipes and cooking and serving.
 >
 > **[4:08](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-service-categories?u=76281980&t=248)** So in this scenario, your responsibility is to consume, to eat.
 >
@@ -662,19 +657,19 @@ created: 2026-05-02
 >
 > **[4:50](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-service-categories?u=76281980&t=290)** You're just simply a consumer.
 >
-> **[4:52](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-service-categories?u=76281980&t=292)** Could also be something like [Outlook.com](https://Outlook.com) for providing e-mail.
+> **[4:52](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-service-categories?u=76281980&t=292)** Could also be something like [[[Microsoft Outlook|Outlook]].com](https://Outlook.com) for providing e-mail.
 >
 > **[4:56](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-service-categories?u=76281980&t=296)** So you use that service to read your e-mail, to consume your e-mail, but you don't have any capability or visibility into the platform itself.
 >
 > **[5:09](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-service-categories?u=76281980&t=309)** All of that is provided by the Cloud provider.
 >
-> **[5:12](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-service-categories?u=76281980&t=312)** So IaaS, PaaS, and SaaS.
+> **[5:12](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-service-categories?u=76281980&t=312)** So IaaS, [[PaaS]], and [[SaaS]].
 >
 > **[5:15](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-service-categories?u=76281980&t=315)** Now, one of the things that's interesting here, and you may have already caught on to this, is this aligns very nicely with the shared responsibility model that we talked about earlier.
 >
 > **[5:25](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-service-categories?u=76281980&t=325)** Remember that I said that there are some decisions that you can make that change where that balance is.
 >
-> **[5:32](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-service-categories?u=76281980&t=332)** Here is where that decision-making comes into play.
+> **[5:32](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-service-categories?u=76281980&t=332)** Here is where that [[Decision-Making]] comes into play.
 >
 > **[5:35](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-service-categories?u=76281980&t=335)** It's your choices that affect your balance of responsibility and control.
 >
@@ -702,7 +697,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (16), [[IaaS]] (4), [[Microsoft Outlook|Outlook]] (3), [[SaaS]] (3), [[PaaS]] (2)
+> **Frameworks & Libraries:** [[IaaS]] (4), [[Microsoft Outlook|Outlook]] (3), [[SaaS]] (3), [[PaaS]] (2), [[IaaS|Infrastructure as a service]] (1)
 > **URLs:** [outlook.com](https://outlook.com) (3)
 > **Env Vars:** sas (1), iis (1), pas (1)
 > **Definitions:** means that (2), is a  (1)
@@ -710,18 +705,17 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 
-#### Cloud deployment models
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-deployment-models?u=76281980)
+#### [Cloud deployment models](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-deployment-models?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-deployment-models?u=76281980&t=7)** Let's talk about Cloud Deployment Models.
 >
-> **[0:11](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-deployment-models?u=76281980&t=11)** When we think about Cloud Deployment Models, we're also describing three different types of Clouds, public Clouds, private Clouds, and hybrid Cloud.
+> **[0:11](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-deployment-models?u=76281980&t=11)** When we think about Cloud Deployment Models, we're also describing three different types of Clouds, public Clouds, [[Private Clouds]], and [[Hybrid Cloud]].
 >
 > **[0:21](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-deployment-models?u=76281980&t=21)** We're going to start off talking about the public Cloud, which we frequently refer to as a multi-tenant environment, a tenant meaning someone who's using that Cloud.
 >
-> **[0:33](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-deployment-models?u=76281980&t=33)** So this would refer to something like [Azure.com](https://Azure.com).
+> **[0:33](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-deployment-models?u=76281980&t=33)** So this would refer to something like [[[Microsoft Azure|Azure]].com](https://Azure.com).
 >
 > **[0:37](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-deployment-models?u=76281980&t=37)** If you go to portal.[azure.com](https://azure.com) to get to the Azure portal, that's the public Cloud.
 >
@@ -729,7 +723,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-deployment-models?u=76281980&t=53)** So that's why we call it a multi-tenant environment.
 >
-> **[0:56](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-deployment-models?u=76281980&t=56)** lots of different people all using the same physical hardware and infrastructure.
+> **[0:56](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-deployment-models?u=76281980&t=56)** lots of different people all using the same physical [[Hardware]] and infrastructure.
 >
 > **[1:02](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-deployment-models?u=76281980&t=62)** Now the public cloud has a lot of advantages, the first being fast deployment.
 >
@@ -765,7 +759,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-deployment-models?u=76281980&t=157)** It's owned by you.
 >
-> **[2:39](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-deployment-models?u=76281980&t=159)** Now, this obviously gives you privacy.
+> **[2:39](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-deployment-models?u=76281980&t=159)** Now, this obviously gives you [[Privacy]].
 >
 > **[2:43](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-deployment-models?u=76281980&t=163)** You know, if you're a company that operates maybe a healthcare business and you have very sensitive data that you're dealing with.
 >
@@ -833,9 +827,9 @@ created: 2026-05-02
 >
 > **[6:41](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-deployment-models?u=76281980&t=401)** A lot of times this has to do with the type of business you operate and how sensitive your data is.
 >
-> **[6:46](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-deployment-models?u=76281980&t=406)** Also, for people who have very strict regulatory compliance.
+> **[6:46](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-deployment-models?u=76281980&t=406)** Also, for people who have very strict [[Regulatory Compliance]].
 >
-> **[6:51](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-deployment-models?u=76281980&t=411)** That could be a healthcare industry or maybe a legal firm or someone else that has very sensitive data that is controlled by regulations either in their region or in their industry.
+> **[6:51](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-deployment-models?u=76281980&t=411)** That could be a [[Healthcare Industry]] or maybe a legal firm or someone else that has very sensitive data that is controlled by regulations either in their region or in their industry.
 >
 > **[7:03](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-deployment-models?u=76281980&t=423)** And finally, if you have customized configurations that are difficult to implement in a public cloud, that flexibility you have in a private cloud might make those things something that you can easily accomplish.
 >
@@ -857,7 +851,7 @@ created: 2026-05-02
 >
 > **[8:12](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-deployment-models?u=76281980&t=492)** Why do enterprises choose hybrid?
 >
-> **[8:16](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-deployment-models?u=76281980&t=496)** Well the first is they can take advantage of the fact that in the public cloud infrastructure is upgraded by the Cloud provider and they don't have to pay for the cost of upgrading those things.
+> **[8:16](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-deployment-models?u=76281980&t=496)** Well the first is they can take advantage of the fact that in the public [[Cloud Infrastructure]] is upgraded by the Cloud provider and they don't have to pay for the cost of upgrading those things.
 >
 > **[8:28](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-deployment-models?u=76281980&t=508)** So that's a big benefit to an enterprise that might be using a very large number of computers.
 >
@@ -875,7 +869,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (60), data (12), [[Hybrid Cloud]] (6), [[Microsoft Azure|Azure]] (4), [[Privacy]] (3)
+> **Frameworks & Libraries:** [[Hybrid Cloud]] (6), [[Microsoft Azure|Azure]] (4), [[Privacy]] (3), [[Private Clouds]] (1), [[Hardware]] (1)
 > **CLI Commands:** make (2)
 > **URLs:** [azure.com](https://azure.com) (2)
 > **Definitions:** is a  (2)
@@ -889,20 +883,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning objectives
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives-30701004?u=76281980)
+#### [Learning objectives](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives-30701004?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:06](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives-30701004?u=76281980&t=6)** We've laid a solid foundation in lesson one.
 >
-> **[0:11](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives-30701004?u=76281980&t=11)** Let's build on that as we begin applying the concepts we just learned about to Microsoft Azure.
+> **[0:11](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives-30701004?u=76281980&t=11)** Let's build on that as we begin applying the concepts we just learned about to [[Microsoft Azure]].
 >
-> **[0:18](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives-30701004?u=76281980&t=18)** In this lesson, we're going to start with the basics, and then we'll learn about how Azure was designed to support the benefits we learned about in lesson one.
+> **[0:18](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives-30701004?u=76281980&t=18)** In this lesson, we're going to start with the basics, and then we'll learn about how [[Microsoft Azure|Azure]] was designed to support the benefits we learned about in lesson one.
 >
 > **[0:30](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives-30701004?u=76281980&t=30)** We'll then go on a tour of the Azure portal and I'll show you how you can personalize and customize the Azure portal to your own liking.
 >
-> **[0:41](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives-30701004?u=76281980&t=41)** You'll also start learning about specific Azure resource types, such as virtual machines and Azure networking.
+> **[0:41](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives-30701004?u=76281980&t=41)** You'll also start learning about specific Azure resource types, such as [[Virtual Machines]] and Azure networking.
 >
 > **[0:49](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives-30701004?u=76281980&t=49)** We'll also talk about storing files in Azure using different storage services, and you'll learn the basics of some of the app hosting options you have in Azure.
 >
@@ -920,25 +913,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Microsoft]] (1), [[Virtual Machines]] (1), next (1), [[Microsoft Azure]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Microsoft]] (1), [[Virtual Machines]] (1), [[Microsoft Azure]] (1)
 > **Tools:** azure portal (2)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
 
-#### What is Microsoft Azure?
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/what-is-microsoft-azure?u=76281980)
+#### [What is Microsoft Azure?](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/what-is-microsoft-azure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/what-is-microsoft-azure?u=76281980&t=6)** Now that we've set the groundwork, we've talked about some Cloud terminology, benefits of the Cloud, different types of Cloud services and deployment models, or types of Clouds.
+> **[0:06](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/what-is-microsoft-azure?u=76281980&t=6)** Now that we've set the groundwork, we've talked about some Cloud terminology, benefits of the Cloud, different types of [[Cloud Services]] and deployment models, or types of Clouds.
 >
-> **[0:20](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/what-is-microsoft-azure?u=76281980&t=20)** Let's get into the specifics of Microsoft Azure, beginning with a conversation about what Microsoft Azure actually is.
+> **[0:20](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/what-is-microsoft-azure?u=76281980&t=20)** Let's get into the specifics of [[Microsoft Azure]], beginning with a conversation about what Microsoft Azure actually is.
 >
-> **[0:30](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/what-is-microsoft-azure?u=76281980&t=30)** So Azure is not just for deployment hosting.
+> **[0:30](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/what-is-microsoft-azure?u=76281980&t=30)** So [[Microsoft Azure|Azure]] is not just for deployment hosting.
 >
 > **[0:34](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/what-is-microsoft-azure?u=76281980&t=34)** There are a lot of features inside of Azure that fall outside of just hosting applications.
 >
-> **[0:39](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/what-is-microsoft-azure?u=76281980&t=39)** In fact, you can use Azure to control access to other resources, whether those resources are in Azure or in another Cloud someplace like Amazon Web Services or Google's Cloud Platform, or even on-premises.
+> **[0:39](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/what-is-microsoft-azure?u=76281980&t=39)** In fact, you can use Azure to control access to other resources, whether those resources are in Azure or in another Cloud someplace like [[Amazon Web Services (AWS)|Amazon Web Services]] or [[Google]]'s Cloud Platform, or even on-premises.
 >
 > **[0:56](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/what-is-microsoft-azure?u=76281980&t=56)** Azure has datacenters that are all over the world.
 >
@@ -960,7 +952,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/what-is-microsoft-azure?u=76281980&t=118)** We've talked about a lot of those things so far.
 >
-> **[2:02](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/what-is-microsoft-azure?u=76281980&t=122)** But there are also a lot of startup companies that will use the Cloud, because it makes it very easy for them to deploy services quickly, to test different environments, and to easily react to changing needs over time.
+> **[2:02](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/what-is-microsoft-azure?u=76281980&t=122)** But there are also a lot of startup companies that will use the Cloud, because it makes it very easy for them to deploy services quickly, to test different environments, and to easily [[React.js|react]] to changing needs over time.
 >
 > **[2:16](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/what-is-microsoft-azure?u=76281980&t=136)** Governments also use Azure because it allows them to have the regulations and compliance with different policies that they need inside of a Cloud environment.
 >
@@ -968,7 +960,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/what-is-microsoft-azure?u=76281980&t=164)** Then small application developers love the Cloud, because it's very flexible for them, it's very quick for them to spin things up, and it's very cost-effective for them.
 >
-> **[2:55](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/what-is-microsoft-azure?u=76281980&t=175)** In other words, everybody uses Cloud computing nowadays.
+> **[2:55](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/what-is-microsoft-azure?u=76281980&t=175)** In other words, everybody uses [[Cloud Computing]] nowadays.
 >
 > **[3:01](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/what-is-microsoft-azure?u=76281980&t=181)** The spectrum of people who utilize the Cloud is incredibly diverse and incredibly broad.
 >
@@ -978,15 +970,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (15), [[Microsoft Azure|Azure]] (13), [[Microsoft]] (2), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (13), [[Microsoft]] (2), [[Cloud Services]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Google]] (1)
 > **Definitions:** is a  (1), in other words (1)
 
-#### Azure architecture basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/azure-architecture-basics?u=76281980)
+#### [Azure architecture basics](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/azure-architecture-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/azure-architecture-basics?u=76281980&t=6)** Continuing on our conversation about how we can tie some of the concepts that we've talked about already into the specifics in Microsoft Azure, let's talk about regions and availability zones and how the way that they're set up allows Azure to implement some of the concepts that we've talked about.
+> **[0:06](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/azure-architecture-basics?u=76281980&t=6)** Continuing on our conversation about how we can tie some of the concepts that we've talked about already into the specifics in [[Microsoft Azure]], let's talk about regions and availability zones and how the way that they're set up allows [[Microsoft Azure|Azure]] to implement some of the concepts that we've talked about.
 >
 > **[0:28](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/azure-architecture-basics?u=76281980&t=28)** start with regions.
 >
@@ -1012,7 +1003,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/azure-architecture-basics?u=76281980&t=148)** If you deploy your resources to multiple availability zones, that allows you to be protected from faults that might occur in one of those datacenters.
 >
-> **[2:41](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/azure-architecture-basics?u=76281980&t=161)** Now, there are a couple of different ways that you can deploy to these, one is, if you're using a service such as virtual machines, you would have to explicitly deploy to these.
+> **[2:41](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/azure-architecture-basics?u=76281980&t=161)** Now, there are a couple of different ways that you can deploy to these, one is, if you're using a service such as [[Virtual Machines]], you would have to explicitly deploy to these.
 >
 > **[2:52](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/azure-architecture-basics?u=76281980&t=172)** But other services allow you to automatically deploy to them, and we're going to look at some of those services a little bit later on.
 >
@@ -1060,7 +1051,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (25), data (2), [[Microsoft]] (1), power (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (25), [[Microsoft]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
@@ -1069,12 +1060,11 @@ created: 2026-05-02
 > **Cross-References:** we talked about (1)
 > **Exercise Files:** template (1)
 
-#### Navigating the Azure portal
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/navigating-the-azure-portal?u=76281980)
+#### [Navigating the Azure portal](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/navigating-the-azure-portal?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/navigating-the-azure-portal?u=76281980&t=6)** There are a few different ways that you can create and manage your Azure resources.
+> **[0:06](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/navigating-the-azure-portal?u=76281980&t=6)** There are a few different ways that you can create and manage your [[Microsoft Azure|Azure]] resources.
 >
 > **[0:11](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/navigating-the-azure-portal?u=76281980&t=11)** There are command line tools that are available.
 >
@@ -1110,7 +1100,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/navigating-the-azure-portal?u=76281980&t=124)** So now service health is no longer a favorite.
 >
-> **[2:08](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/navigating-the-azure-portal?u=76281980&t=128)** Now let's say that Microsoft Enter ID right here actually is something that's a favorite of mine, and I'd like that to be on the menu.
+> **[2:08](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/navigating-the-azure-portal?u=76281980&t=128)** Now let's say that [[Microsoft]] Enter ID right here actually is something that's a favorite of mine, and I'd like that to be on the menu.
 >
 > **[2:16](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/navigating-the-azure-portal?u=76281980&t=136)** I can hover over that, go over to the star right here, and click the star to fill it in, and now you'll see Microsoft Enter ID at the bottom of the menu.
 >
@@ -1144,7 +1134,7 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/navigating-the-azure-portal?u=76281980&t=229)** What you're going to see is a dashboard that I have already created.
 >
-> **[3:54](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/navigating-the-azure-portal?u=76281980&t=234)** Now that I've applied that, I'm going to click Microsoft Azure here to go back to the homepage.
+> **[3:54](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/navigating-the-azure-portal?u=76281980&t=234)** Now that I've applied that, I'm going to click [[Microsoft Azure]] here to go back to the homepage.
 >
 > **[4:00](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/navigating-the-azure-portal?u=76281980&t=240)** Notice this is entirely different now.
 >
@@ -1174,7 +1164,7 @@ created: 2026-05-02
 >
 > **[5:15](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/navigating-the-azure-portal?u=76281980&t=315)** Now this is just one dashboard, my VM dashboard.
 >
-> **[5:19](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/navigating-the-azure-portal?u=76281980&t=319)** I can click create right here and I can create many different dashboards and then switch between them.
+> **[5:19](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/navigating-the-azure-portal?u=76281980&t=319)** I can click create right here and I can create many different [[Dashboards]] and then switch between them.
 >
 > **[5:26](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/navigating-the-azure-portal?u=76281980&t=326)** So the really great thing about dashboards is that you can configure those according to what type of resource you want to keep an eye on.
 >
@@ -1198,7 +1188,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (12), [[Dashboards]] (4), [[Microsoft]] (2), web (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (12), [[Dashboards]] (4), [[Microsoft]] (2), [[Microsoft Azure]] (1)
 > **Tools:** azure portal (6), command line (2)
 > **UI Navigation:** go to (5), click on (1), scroll down (1)
 > **Definitions:** is a  (3), is an  (1)
@@ -1207,12 +1197,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1), configure (1)
 > **URLs:** [azure.com](https://azure.com) (1)
 
-#### Core Azure resource types
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/core-azure-resource-types?u=76281980)
+#### [Core Azure resource types](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/core-azure-resource-types?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/core-azure-resource-types?u=76281980&t=6)** Let's have a look at a few of the core Azure resource types, and we'll start off with virtual machines.
+> **[0:06](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/core-azure-resource-types?u=76281980&t=6)** Let's have a look at a few of the core [[Microsoft Azure|Azure]] resource types, and we'll start off with [[Virtual Machines]].
 >
 > **[0:14](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/core-azure-resource-types?u=76281980&t=14)** Now, Azure virtual machines are only charged to you when they're allocated to you.
 >
@@ -1228,7 +1217,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/core-azure-resource-types?u=76281980&t=65)** Virtual machines are designed to be highly available.
 >
-> **[1:09](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/core-azure-resource-types?u=76281980&t=69)** And in fact, Microsoft guarantees an uptime of these of at least 98%.
+> **[1:09](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/core-azure-resource-types?u=76281980&t=69)** And in fact, [[Microsoft]] guarantees an uptime of these of at least 98%.
 >
 > **[1:17](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/core-azure-resource-types?u=76281980&t=77)** Now, there are some changes that you can make in configuration to increase that level of agreement on availability.
 >
@@ -1252,7 +1241,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/core-azure-resource-types?u=76281980&t=168)** For example, you have Azure Blob Storage, Azure Files, and Azure Disks.
 >
-> **[2:54](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/core-azure-resource-types?u=76281980&t=174)** Blob Storage is used for storing unstructured data.
+> **[2:54](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/core-azure-resource-types?u=76281980&t=174)** Blob Storage is used for storing [[Unstructured Data]].
 >
 > **[2:58](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/core-azure-resource-types?u=76281980&t=178)** The same types of things that you would typically store, for example, on a hard drive.
 >
@@ -1272,9 +1261,9 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/core-azure-resource-types?u=76281980&t=237)** And there are a lot of different managed services that you can use for hosting applications.
 >
-> **[4:03](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/core-azure-resource-types?u=76281980&t=243)** These are PaaS services.
+> **[4:03](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/core-azure-resource-types?u=76281980&t=243)** These are [[PaaS]] services.
 >
-> **[4:05](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/core-azure-resource-types?u=76281980&t=245)** So they're platform as a service.
+> **[4:05](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/core-azure-resource-types?u=76281980&t=245)** So they're [[PaaS|platform as a service]].
 >
 > **[4:08](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/core-azure-resource-types?u=76281980&t=248)** Probably the most common one or the most popular one is Azure App Service.
 >
@@ -1286,7 +1275,7 @@ created: 2026-05-02
 >
 > **[4:55](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/core-azure-resource-types?u=76281980&t=295)** Another service that actually runs on Azure App Service is Azure Functions.
 >
-> **[4:59](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/core-azure-resource-types?u=76281980&t=299)** And Functions is designed for creating microservices.
+> **[4:59](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/core-azure-resource-types?u=76281980&t=299)** And Functions is designed for creating [[Microservices]].
 >
 > **[5:03](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/core-azure-resource-types?u=76281980&t=303)** So a microservice is where you have very small components that fit together to create a larger deployment.
 >
@@ -1296,7 +1285,7 @@ created: 2026-05-02
 >
 > **[5:21](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/core-azure-resource-types?u=76281980&t=321)** They do some work and then they provide some kind of output.
 >
-> **[5:25](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/core-azure-resource-types?u=76281980&t=325)** So for example, you might have an Azure function that watches a OneDrive folder.
+> **[5:25](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/core-azure-resource-types?u=76281980&t=325)** So for example, you might have an Azure function that watches a [[Microsoft OneDrive|OneDrive]] folder.
 >
 > **[5:30](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/core-azure-resource-types?u=76281980&t=330)** And when somebody puts an image file in that OneDrive folder, that kicks off your Azure function, which takes that image file as the input, compresses it to a different file format, stores it in a different folder where it's storing compressed images, and then returns to the user the URL path to that compressed file folder.
 >
@@ -1304,7 +1293,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (24), [[Virtual Machines]] (6), [[Microsoft OneDrive|Onedrive]] (2), [[Microsoft]] (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (24), [[Virtual Machines]] (6), [[Microsoft OneDrive|Onedrive]] (2), [[Microsoft]] (1), [[PaaS]] (1)
 > **Env Vars:** http (3), url (2), vpn (1), unc (1)
 > **Definitions:** is a  (2), means that (1), in other words (1), is called (1)
 > **Analogies:** for example (3)
@@ -1315,12 +1304,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning objectives
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives?u=76281980)
+#### [Learning objectives](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:07](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives?u=76281980&t=7)** Welcome to this lesson on Azure Services for Modern Workloads, where we'll be continuing our pattern of building on what we've already learned, and we'll go deeper into the services offered in Azure.
+> **[0:07](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives?u=76281980&t=7)** Welcome to this lesson on [[Microsoft Azure|Azure]] Services for Modern Workloads, where we'll be continuing our pattern of building on what we've already learned, and we'll go deeper into the services offered in Azure.
 >
 > **[0:22](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives?u=76281980&t=22)** We'll start off with Azure Storage.
 >
@@ -1330,9 +1318,9 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives?u=76281980&t=38)** We'll then build on what you learned previously about hosting applications in Azure.
 >
-> **[0:44](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives?u=76281980&t=44)** You'll learn about using containers and virtual machines.
+> **[0:44](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives?u=76281980&t=44)** You'll learn about using containers and [[Virtual Machines]].
 >
-> **[0:49](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives?u=76281980&t=49)** And we'll talk about choosing between an IaaS service and a PaaS service for hosting apps.
+> **[0:49](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives?u=76281980&t=49)** And we'll talk about choosing between an [[IaaS]] service and a [[PaaS]] service for hosting apps.
 >
 > **[0:56](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives?u=76281980&t=56)** We'll also cover serverless options and, spoiler alert, serverless doesn't mean there are no servers.
 >
@@ -1350,16 +1338,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (11), [[IaaS]] (1), [[PaaS]] (1), next (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (11), [[IaaS]] (1), [[PaaS]] (1)
 > **Cross-References:** later in (1)
 > **Analogies:** such as (1)
 
-#### Azure storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/azure-storage?u=76281980)
+#### [Azure storage](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/azure-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/azure-storage?u=76281980&t=6)** I introduced the concept of storage in Azure earlier.
+> **[0:06](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/azure-storage?u=76281980&t=6)** I introduced the concept of storage in [[Microsoft Azure|Azure]] earlier.
 >
 > **[0:12](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/azure-storage?u=76281980&t=12)** Let's talk in a bit more detail about a couple of different storage services in Azure, starting with Blob Storage.
 >
@@ -1379,9 +1366,9 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/azure-storage?u=76281980&t=56)** In Azure Files, as I talked about before, is a way for you to store files in Azure and then access them using a UNC path like backslash, backslash, server name, backslash, share name.
 >
-> **[1:10](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/azure-storage?u=76281980&t=70)** In Windows, you can map that to a drive letter.
+> **[1:10](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/azure-storage?u=76281980&t=70)** In [[Windows]], you can map that to a drive letter.
 >
-> **[1:13](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/azure-storage?u=76281980&t=73)** In Linux, you could create a mount point so that you can more easily get to that file share.
+> **[1:13](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/azure-storage?u=76281980&t=73)** In [[Linux]], you could create a mount point so that you can more easily get to that file share.
 >
 > **[1:19](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/azure-storage?u=76281980&t=79)** The really interesting thing about Azure Files is that you You can install a utility on-premises called Azure File Sync.
 >
@@ -1457,20 +1444,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (11), data (4), next (2), [[Windows]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (11), [[Windows]] (1), [[Linux]] (1)
 > **Definitions:** is a  (2), is an  (1), stands for (1)
 > **Prerequisites:** install (2)
 > **Env Vars:** unc (1)
 > **Cross-References:** in the next (1)
 
-#### Compute and app hosting options
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/compute-and-app-hosting-options?u=76281980)
+#### [Compute and app hosting options](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/compute-and-app-hosting-options?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/compute-and-app-hosting-options?u=76281980&t=6)** There are several different compute and app hosting options in Azure.
+> **[0:06](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/compute-and-app-hosting-options?u=76281980&t=6)** There are several different compute and app hosting options in [[Microsoft Azure|Azure]].
 >
-> **[0:11](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/compute-and-app-hosting-options?u=76281980&t=11)** I'm going to start off talking about Azure Virtual Machines.
+> **[0:11](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/compute-and-app-hosting-options?u=76281980&t=11)** I'm going to start off talking about Azure [[Virtual Machines]].
 >
 > **[0:15](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/compute-and-app-hosting-options?u=76281980&t=15)** But first, when I say compute, what I'm talking about is just an Azure service that offers for you those things that you would typically get in a server, like CPU, memory, disk space, things like that.
 >
@@ -1480,9 +1466,9 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/compute-and-app-hosting-options?u=76281980&t=58)** There's flexible billing in virtual machines, and so you could just pay flat outright for a virtual machine, but also you have some flexibility in things like licensing.
 >
-> **[1:10](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/compute-and-app-hosting-options?u=76281980&t=70)** Since virtual machines is an IaaS service, the operating system is your responsibility.
+> **[1:10](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/compute-and-app-hosting-options?u=76281980&t=70)** Since virtual machines is an [[IaaS]] service, the operating system is your responsibility.
 >
-> **[1:18](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/compute-and-app-hosting-options?u=76281980&t=78)** But if you already have a license, let's say for a Windows Server, you can actually bring that license to virtual machines and that way you can save money on them.
+> **[1:18](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/compute-and-app-hosting-options?u=76281980&t=78)** But if you already have a license, let's say for a [[Windows Server]], you can actually bring that license to virtual machines and that way you can save money on them.
 >
 > **[1:28](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/compute-and-app-hosting-options?u=76281980&t=88)** There are some other billing options as well in virtual machines that allow you to save money.
 >
@@ -1494,7 +1480,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/compute-and-app-hosting-options?u=76281980&t=129)** You have to make sure that anything that's necessary for your application on that virtual machine is installed and configured correctly.
 >
-> **[2:17](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/compute-and-app-hosting-options?u=76281980&t=137)** Microsoft's not going to do any of that for you because it's an IaaS service.
+> **[2:17](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/compute-and-app-hosting-options?u=76281980&t=137)** [[Microsoft]]'s not going to do any of that for you because it's an IaaS service.
 >
 > **[2:22](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/compute-and-app-hosting-options?u=76281980&t=142)** Now another compute option is containers.
 >
@@ -1546,9 +1532,9 @@ created: 2026-05-02
 >
 > **[5:43](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/compute-and-app-hosting-options?u=76281980&t=343)** Maybe you want to run some code that does some image manipulation really quickly and then it's done, something like that.
 >
-> **[5:51](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/compute-and-app-hosting-options?u=76281980&t=351)** If you want a really scalable option, Azure Kubernetes Service is a much better choice.
+> **[5:51](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/compute-and-app-hosting-options?u=76281980&t=351)** If you want a really scalable option, Azure [[Kubernetes]] Service is a much better choice.
 >
-> **[5:57](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/compute-and-app-hosting-options?u=76281980&t=357)** This is Kubernetes, which is a container orchestration service, not unique to Microsoft, it's not a Microsoft technology, but Azure Kubernetes service is a PaaS service that offers hosted Kubernetes in the Cloud.
+> **[5:57](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/compute-and-app-hosting-options?u=76281980&t=357)** This is Kubernetes, which is a container orchestration service, not unique to Microsoft, it's not a Microsoft technology, but Azure Kubernetes service is a [[PaaS]] service that offers hosted Kubernetes in the Cloud.
 >
 > **[6:14](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/compute-and-app-hosting-options?u=76281980&t=374)** The reason why that's so compelling is because the hardest thing about Kubernetes is configuring it and making sure that it's scaling containers correctly and it's very performant.
 >
@@ -1572,13 +1558,13 @@ created: 2026-05-02
 >
 > **[7:15](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/compute-and-app-hosting-options?u=76281980&t=435)** You control how the operating system is configured.
 >
-> **[7:18](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/compute-and-app-hosting-options?u=76281980&t=438)** You control everything that's installed in that environment if you want a very specific version of a certain runtime for example like PHP or Python or something like that you can just install whatever you want on the operating system because you own that so lots of flexibility lots of responsibility if you're hosting on a PaaS service you offload a lot of that management burden to the cloud provider so you're no longer are responsible for keeping the operating system up to date or anything like that, because you don't own the operating system, that's the cloud provider's domain.
+> **[7:18](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/compute-and-app-hosting-options?u=76281980&t=438)** You control everything that's installed in that environment if you want a very specific version of a certain runtime for example like [[PHP]] or [[Python (Programming Language)|Python]] or something like that you can just install whatever you want on the operating system because you own that so lots of flexibility lots of responsibility if you're hosting on a PaaS service you offload a lot of that management burden to the cloud provider so you're no longer are responsible for keeping the operating system up to date or anything like that, because you don't own the operating system, that's the cloud provider's domain.
 >
 > **[7:59](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/compute-and-app-hosting-options?u=76281980&t=479)** And so they will update the operating system and make sure it's running for you and that kind of thing.
 >
 > **[8:04](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/compute-and-app-hosting-options?u=76281980&t=484)** They also provide for you a lot of different options that are available for kind of turnkey operations.
 >
-> **[8:11](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/compute-and-app-hosting-options?u=76281980&t=491)** So what I mean by that is in app service, for example, where you can host a web application, If you want to allow people to authenticate to your app service application, using credentials they already own, like maybe their Facebook username and password or their Google username and password, you can very easily do that just by flipping a switch to turn on authentication and providing just a little bit of information that comes from Facebook or Google so that it knows how to access their log on stuff.
+> **[8:11](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/compute-and-app-hosting-options?u=76281980&t=491)** So what I mean by that is in app service, for example, where you can host a web application, If you want to allow people to authenticate to your app service application, using credentials they already own, like maybe their Facebook username and password or their [[Google]] username and password, you can very easily do that just by flipping a switch to turn on authentication and providing just a little bit of information that comes from Facebook or Google so that it knows how to access their log on stuff.
 >
 > **[8:47](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/compute-and-app-hosting-options?u=76281980&t=527)** You don't have to write any code.
 >
@@ -1614,7 +1600,7 @@ created: 2026-05-02
 >
 > **[10:06](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/compute-and-app-hosting-options?u=76281980&t=606)** So some event happens, and then a serverless application runs some code and then usually returns some output.
 >
-> **[10:16](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/compute-and-app-hosting-options?u=76281980&t=616)** So earlier I was talking about an example with Azure Functions, where you might have a folder in OneDrive that Azure Functions is watching.
+> **[10:16](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/compute-and-app-hosting-options?u=76281980&t=616)** So earlier I was talking about an example with Azure Functions, where you might have a folder in [[Microsoft OneDrive|OneDrive]] that Azure Functions is watching.
 >
 > **[10:26](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/compute-and-app-hosting-options?u=76281980&t=626)** And when an event happens, like someone copies a file into that folder, you could actually have your serverless code, pick up that file, run some image manipulation, store it someplace else, and then return a path to where that new storage location is.
 >
@@ -1626,7 +1612,7 @@ created: 2026-05-02
 >
 > **[11:12](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/compute-and-app-hosting-options?u=76281980&t=672)** And because your code is usually small and runs fairly quickly, your resource usage costs are usually very low in a serverless environment.
 >
-> **[11:25](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/compute-and-app-hosting-options?u=76281980&t=685)** And in fact, serverless is frequently used to host what we call microservices, which are very small pieces of code that by themselves do something useful.
+> **[11:25](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/compute-and-app-hosting-options?u=76281980&t=685)** And in fact, serverless is frequently used to host what we call [[Microservices]], which are very small pieces of code that by themselves do something useful.
 >
 > **[11:35](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/compute-and-app-hosting-options?u=76281980&t=695)** But when you put all of them together, you can build a larger deployment that's even more useful out of those microservices.
 
@@ -1641,12 +1627,11 @@ created: 2026-05-02
 > **Cross-References:** later in (1), we talked about (1)
 > **UI Navigation:** switch to (1)
 
-#### Azure networking for humans
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/azure-networking-for-humans?u=76281980)
+#### [Azure networking for humans](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/azure-networking-for-humans?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/azure-networking-for-humans?u=76281980&t=6)** Let's talk about networking in Azure and because networking has a tendency to be a little bit of a complicated topic, I'm going to give you an analogy that just kind of works for our human mind.
+> **[0:06](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/azure-networking-for-humans?u=76281980&t=6)** Let's talk about networking in [[Microsoft Azure|Azure]] and because networking has a tendency to be a little bit of a complicated topic, I'm going to give you an analogy that just kind of works for our human mind.
 >
 > **[0:19](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/azure-networking-for-humans?u=76281980&t=19)** We're going to use a neighborhood as an analogy for these different networking concepts.
 >
@@ -1724,24 +1709,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (4), [[Microsoft Azure|Azure]] (2), cloud (1), management (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Data and AI services overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/data-and-ai-services-overview?u=76281980)
+#### [Data and AI services overview](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/data-and-ai-services-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/data-and-ai-services-overview?u=76281980&t=6)** Continuing our journey on different Azure services, let's talk about data and AI services that are available in Azure, starting with Azure SQL Database.
+> **[0:06](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/data-and-ai-services-overview?u=76281980&t=6)** Continuing our journey on different [[Microsoft Azure|Azure]] services, let's talk about data and AI services that are available in Azure, starting with Azure [[SQL]] Database.
 >
-> **[0:19](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/data-and-ai-services-overview?u=76281980&t=19)** Now, Azure SQL Database is fully managed SQL Server in the Cloud, and SQL Server is a database technology that we've had for a very long time.
+> **[0:19](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/data-and-ai-services-overview?u=76281980&t=19)** Now, Azure SQL Database is fully managed [[Microsoft SQL Server|SQL Server]] in the Cloud, and SQL Server is a database technology that we've had for a very long time.
 >
-> **[0:28](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/data-and-ai-services-overview?u=76281980&t=28)** This is a managed or PaaS version of SQL Server running in the Cloud.
+> **[0:28](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/data-and-ai-services-overview?u=76281980&t=28)** This is a managed or [[PaaS]] version of SQL Server running in the Cloud.
 >
-> **[0:34](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/data-and-ai-services-overview?u=76281980&t=34)** So you're offloading the management of SQL Server to Microsoft, the Cloud provider.
+> **[0:34](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/data-and-ai-services-overview?u=76281980&t=34)** So you're offloading the management of SQL Server to [[Microsoft]], the Cloud provider.
 >
-> **[0:41](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/data-and-ai-services-overview?u=76281980&t=41)** Now, this gives you high reliability, high scalability, and high security, because all of that is managed by Microsoft.
+> **[0:41](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/data-and-ai-services-overview?u=76281980&t=41)** Now, this gives you high reliability, high [[Scalability]], and high security, because all of that is managed by Microsoft.
 >
 > **[0:51](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/data-and-ai-services-overview?u=76281980&t=51)** You don't have to worry about any of these things.
 >
@@ -1759,7 +1743,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/data-and-ai-services-overview?u=76281980&t=113)** It's unstructured.
 >
-> **[1:54](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/data-and-ai-services-overview?u=76281980&t=114)** you can store anything in it and it's fully managed it's a pass service so again you get that reliability and offloading of the management burden to the cloud provider now we also have ai services obviously in azure we're going to talk about azure cognitive services that are really compelling because this provides ai without all the complexity of ai these are pre-built AI services, artificial intelligence services, and because they're pre-built and they're easy to use, they're easily integrated into your applications.
+> **[1:54](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/data-and-ai-services-overview?u=76281980&t=114)** you can store anything in it and it's fully managed it's a pass service so again you get that reliability and offloading of the management burden to the cloud provider now we also have ai services obviously in azure we're going to talk about azure cognitive services that are really compelling because this provides ai without all the complexity of ai these are pre-built AI services, [[Artificial Intelligence (AI)|artificial intelligence]] services, and because they're pre-built and they're easy to use, they're easily integrated into your applications.
 >
 > **[2:36](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/data-and-ai-services-overview?u=76281980&t=156)** They're scalable, they're secure, and there are a lot of different options available in cognitive services.
 >
@@ -1771,7 +1755,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/data-and-ai-services-overview?u=76281980&t=187)** There's speech, which can convert speech to text or text to speech.
 >
-> **[3:14](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/data-and-ai-services-overview?u=76281980&t=194)** And this enables real-time translation across different languages.
+> **[3:14](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/data-and-ai-services-overview?u=76281980&t=194)** And this enables [[Real-Time]] translation across different languages.
 >
 > **[3:20](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/data-and-ai-services-overview?u=76281980&t=200)** It's amazing.
 >
@@ -1793,27 +1777,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (12), database (8), data (6), ai (6), [[SQL]] (6)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (12), [[SQL]] (6), [[Microsoft SQL Server|Sql server]] (5), [[Microsoft]] (2), [[PaaS]] (1)
 > **Env Vars:** sql (11), ocr (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 
-#### Monitoring and keeping things healthy
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/monitoring-and-keeping-things-healthy?u=76281980)
+#### [Monitoring and keeping things healthy](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/monitoring-and-keeping-things-healthy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/monitoring-and-keeping-things-healthy?u=76281980&t=6)** We've looked at quite a lot of different Azure services now.
+> **[0:06](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/monitoring-and-keeping-things-healthy?u=76281980&t=6)** We've looked at quite a lot of different [[Microsoft Azure|Azure]] services now.
 >
-> **[0:11](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/monitoring-and-keeping-things-healthy?u=76281980&t=11)** We've looked at IaaS services, we've looked at PaaS services, and we talked about the fact that no matter what type of service you choose, there are some amount of responsibility that's yours.
+> **[0:11](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/monitoring-and-keeping-things-healthy?u=76281980&t=11)** We've looked at [[IaaS]] services, we've looked at [[PaaS]] services, and we talked about the fact that no matter what type of service you choose, there are some amount of responsibility that's yours.
 >
 > **[0:25](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/monitoring-and-keeping-things-healthy?u=76281980&t=25)** Now, let's talk about how can you monitor your applications, so that you can take that responsibility seriously, and make sure that your applications are remaining healthy.
 >
-> **[0:41](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/monitoring-and-keeping-things-healthy?u=76281980&t=41)** One of the great tools in Azure for doing that is Azure Monitor, which gives you centralized monitoring of things like virtual machines and applications, allows you to detect and troubleshoot issues, oftentimes before your users even know something's happening.
+> **[0:41](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/monitoring-and-keeping-things-healthy?u=76281980&t=41)** One of the great tools in Azure for doing that is Azure Monitor, which gives you centralized monitoring of things like [[Virtual Machines]] and applications, allows you to detect and troubleshoot issues, oftentimes before your users even know something's happening.
 >
 > **[1:00](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/monitoring-and-keeping-things-healthy?u=76281980&t=60)** You can track all your applications with metrics that are specific to those types of applications, and it just gives you that one unified view into all your applications.
 >
-> **[1:12](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/monitoring-and-keeping-things-healthy?u=76281980&t=72)** Lots of different charts and graphs that you can use to track data over time in real-time.
+> **[1:12](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/monitoring-and-keeping-things-healthy?u=76281980&t=72)** Lots of different charts and graphs that you can use to track data over time in [[Real-Time]].
 >
 > **[1:20](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/monitoring-and-keeping-things-healthy?u=76281980&t=80)** Now, obviously, you don't want to be this guy who's just sitting there staring at the screen all the time.
 >
@@ -1875,7 +1858,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), [[Microsoft Azure|Azure]] (3), [[Virtual Machines]] (2), [[IaaS]] (1), [[PaaS]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Virtual Machines]] (2), [[IaaS]] (1), [[PaaS]] (1), [[Real-Time]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** sms (1), cpu (1)
 > **Warnings:** troubleshoot (1), watch out (1)
@@ -1888,14 +1871,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning objectives
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives-30690032?u=76281980)
+#### [Learning objectives](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives-30690032?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:06](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives-30690032?u=76281980&t=6)** We've arrived at the final lesson of our course, Security, Governance, and Cost Essentials.
 >
-> **[0:13](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives-30690032?u=76281980&t=13)** You've already learned a lot about Azure services and how you can use Azure to host your applications.
+> **[0:13](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives-30690032?u=76281980&t=13)** You've already learned a lot about [[Microsoft Azure|Azure]] services and how you can use Azure to host your applications.
 >
 > **[0:20](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives-30690032?u=76281980&t=20)** Now we need to add some icing to that cake and cover some of the topics that will help you remain secure, predictable, and cost-efficient.
 >
@@ -1903,7 +1885,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives-30690032?u=76281980&t=37)** I'll explain what IntraID is, and we'll talk about how IntraID can help you protect not only your Azure resources, but also resources in other clouds and on-premises.
 >
-> **[0:52](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives-30690032?u=76281980&t=52)** We'll then continue our neighborhood analogy that we used with networking in the previous lesson to introduce the concept of network security groups, and we'll talk about other ways to secure your Azure resources, including Azure Key Vault, and how you can use many different services in Azure to protect you from threats.
+> **[0:52](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives-30690032?u=76281980&t=52)** We'll then continue our neighborhood analogy that we used with networking in the previous lesson to introduce the concept of [[Network Security]] groups, and we'll talk about other ways to secure your Azure resources, including Azure Key Vault, and how you can use many different services in Azure to protect you from threats.
 >
 > **[1:15](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives-30690032?u=76281980&t=75)** Next, we'll talk about governance, and don't worry, it's not as boring as it sounds.
 >
@@ -1913,7 +1895,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives-30690032?u=76281980&t=102)** We'll go into depth on costs in Azure and how you can keep an eye on costs, and ways you can avoid being surprised, and not in a good way, when you get your Azure invoice.
 >
-> **[1:56](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives-30690032?u=76281980&t=116)** We'll pull everything together into a real-world demo of an application using a PaaS service, a virtual machine, Azure Storage, and some of the identity features in Azure.
+> **[1:56](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives-30690032?u=76281980&t=116)** We'll pull everything together into a real-world demo of an application using a [[PaaS]] service, a virtual machine, Azure Storage, and some of the identity features in Azure.
 >
 > **[2:10](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives-30690032?u=76281980&t=130)** We will close out the lesson with a roadmap you can use to continue your learning in the Azure world.
 >
@@ -1921,14 +1903,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (16), [[Security]] (2), next (1), application (1), [[PaaS]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (16), [[PaaS]] (1)
 
-#### Identity basics with Entra ID
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/identity-basics-with-entra-id?u=76281980)
+#### [Identity basics with Entra ID](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/identity-basics-with-entra-id?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:07](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/identity-basics-with-entra-id?u=76281980&t=7)** Intra-ID used to be called Microsoft Azure Active Directory Services and it changed to Intra-ID, which was a good change because when people thought about Azure Active Directory, they thought, well, this must be Windows Active Directory in the cloud, like a PaaS service.
+> **[0:07](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/identity-basics-with-entra-id?u=76281980&t=7)** Intra-ID used to be called [[Microsoft Azure]] [[Active Directory]] Services and it changed to Intra-ID, which was a good change because when people thought about [[Microsoft Entra ID|Azure Active Directory]], they thought, well, this must be [[Windows]] Active Directory in the cloud, like a [[PaaS]] service.
 >
 > **[0:29](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/identity-basics-with-entra-id?u=76281980&t=29)** that's not really what it is.
 >
@@ -1944,7 +1925,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/identity-basics-with-entra-id?u=76281980&t=64)** And the reason I say that is because in Intra-ID, an identity could be a person, someone logging into your service, but it could also be an application.
 >
-> **[1:17](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/identity-basics-with-entra-id?u=76281980&t=77)** It could also be a managed identity, and a managed identity is a special identity type that represents Azure services within a certain region.
+> **[1:17](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/identity-basics-with-entra-id?u=76281980&t=77)** It could also be a managed identity, and a managed identity is a special identity type that represents [[Microsoft Azure|Azure]] services within a certain region.
 >
 > **[1:28](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/identity-basics-with-entra-id?u=76281980&t=88)** Now that might be a little bit confusing right now.
 >
@@ -1976,7 +1957,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/identity-basics-with-entra-id?u=76281980&t=170)** and not just your Azure services, also on-premises and across clouds.
 >
-> **[2:56](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/identity-basics-with-entra-id?u=76281980&t=176)** So if you have resources that are running, for example, in Amazon Web Services, you can use Microsoft Intra-ID to give people access to those Amazon Web Services resources, or give them access to resources on servers that are running on-premises.
+> **[2:56](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/identity-basics-with-entra-id?u=76281980&t=176)** So if you have resources that are running, for example, in [[Amazon Web Services (AWS)|Amazon Web Services]], you can use [[Microsoft]] Intra-ID to give people access to those Amazon Web Services resources, or give them access to resources on servers that are running on-premises.
 >
 > **[3:18](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/identity-basics-with-entra-id?u=76281980&t=198)** Now, when we talk about who and what are you, when it comes down to intra-ID, we have to recognize that, as I said, users aren't just people.
 >
@@ -1998,7 +1979,7 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/identity-basics-with-entra-id?u=76281980&t=268)** When we do our demo a little bit later, I'm gonna show you how all of this works.
 >
-> **[4:36](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/identity-basics-with-entra-id?u=76281980&t=276)** Another really cool feature of Intra-ID is that it allows you to implement multi-factor authentication.
+> **[4:36](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/identity-basics-with-entra-id?u=76281980&t=276)** Another really cool feature of Intra-ID is that it allows you to implement [[Multi-factor Authentication]].
 >
 > **[4:43](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/identity-basics-with-entra-id?u=76281980&t=283)** This is extremely important in today's world because there are a lot of bad guys out there.
 >
@@ -2054,20 +2035,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), web (7), application (6), web application (5), [[Amazon Web Services (AWS)|Amazon web services]] (4)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Amazon Web Services (AWS)|Amazon web services]] (4), [[Microsoft Azure]] (1), [[Active Directory]] (1), [[Microsoft Entra ID|Azure active directory]] (1)
 > **Definitions:** is an  (2), is a  (2)
 > **Analogies:** for example (4)
 > **Env Vars:** rbac (3)
 > **Cross-References:** we talked about (1)
 
-#### Protecting your cloud resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/protecting-your-cloud-resources?u=76281980)
+#### [Protecting your cloud resources](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/protecting-your-cloud-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:06](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/protecting-your-cloud-resources?u=76281980&t=6)** Now, let's talk about how you can protect your Cloud resources.
 >
-> **[0:11](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/protecting-your-cloud-resources?u=76281980&t=11)** We'll start off talking about network security groups.
+> **[0:11](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/protecting-your-cloud-resources?u=76281980&t=11)** We'll start off talking about [[Network Security]] groups.
 >
 > **[0:16](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/protecting-your-cloud-resources?u=76281980&t=16)** We're going to continue this neighborhood analogy as we talk about how network security groups work.
 >
@@ -2085,7 +2065,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/protecting-your-cloud-resources?u=76281980&t=58)** You can have multiple rules in your network security groups and they use a rule priority to determine the order in which those rules are applied.
 >
-> **[1:10](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/protecting-your-cloud-resources?u=76281980&t=70)** There are some default rules that come with Azure automatically that are designed to protect the security of your virtual networks.
+> **[1:10](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/protecting-your-cloud-resources?u=76281980&t=70)** There are some default rules that come with [[Microsoft Azure|Azure]] automatically that are designed to protect the security of your virtual networks.
 >
 > **[1:20](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/protecting-your-cloud-resources?u=76281980&t=80)** Another service in Azure that allows us to keep things secure is Azure Key Vault.
 >
@@ -2115,7 +2095,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/protecting-your-cloud-resources?u=76281980&t=161)** By something strange happening, what I mean is that it will intelligently monitor your applications and your networks and everything else, and if something just seems out of sorts, it can raise the alarm.
 >
-> **[2:55](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/protecting-your-cloud-resources?u=76281980&t=175)** For example, for every networking card in a computer, there is a hardware ID associated with that card, and that hardware ID gets sent along with all the network traffic.
+> **[2:55](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/protecting-your-cloud-resources?u=76281980&t=175)** For example, for every networking card in a computer, there is a [[Hardware]] ID associated with that card, and that hardware ID gets sent along with all the network traffic.
 >
 > **[3:07](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/protecting-your-cloud-resources?u=76281980&t=187)** Now, if Azure notices that in a network conversation with a particular computer, all of a sudden that hardware ID changes.
 >
@@ -2125,9 +2105,9 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/protecting-your-cloud-resources?u=76281980&t=203)** Now in Azure, we have a lot of different services that are available to help you with threat protection.
 >
-> **[3:29](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/protecting-your-cloud-resources?u=76281980&t=209)** One is Microsoft Defender for Cloud, which you kind of get by default as a user for Azure because this is one of the key things that protects Azure from distributed denial of service attacks.
+> **[3:29](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/protecting-your-cloud-resources?u=76281980&t=209)** One is [[Microsoft Defender]] for Cloud, which you kind of get by default as a user for Azure because this is one of the key things that protects Azure from distributed denial of service attacks.
 >
-> **[3:41](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/protecting-your-cloud-resources?u=76281980&t=221)** We also have Microsoft Sentinel, which watches applications and make sure everything is on the up and up.
+> **[3:41](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/protecting-your-cloud-resources?u=76281980&t=221)** We also have [[Microsoft]] Sentinel, which watches applications and make sure everything is on the up and up.
 >
 > **[3:48](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/protecting-your-cloud-resources?u=76281980&t=228)** We have Azure Monitor, which we talked about earlier, which incorporates also Azure Alerts.
 >
@@ -2137,21 +2117,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (12), [[Network Security]] (6), application (3), [[Hardware]] (3), cloud (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (12), [[Network Security]] (6), [[Hardware]] (3), [[Microsoft]] (2), [[Microsoft Defender]] (1)
 > **Definitions:** means that (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we talked about (1)
 > **Exercise Files:** source code (1)
 > **Analogies:** for example (1)
 
-#### Governance made simple
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/governance-made-simple?u=76281980)
+#### [Governance made simple](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/governance-made-simple?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/governance-made-simple?u=76281980&t=6)** I briefly mentioned Azure Policy and I said that Azure Policy allows you to create rules that are evaluated when resources are created and managed, which is true.
+> **[0:06](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/governance-made-simple?u=76281980&t=6)** I briefly mentioned [[Microsoft Azure|Azure]] Policy and I said that Azure Policy allows you to create rules that are evaluated when resources are created and managed, which is true.
 >
-> **[0:22](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/governance-made-simple?u=76281980&t=22)** And for example, you could create a rule that says, I want all of my virtual machines to to be in a certain region.
+> **[0:22](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/governance-made-simple?u=76281980&t=22)** And for example, you could create a rule that says, I want all of my [[Virtual Machines]] to to be in a certain region.
 >
 > **[0:31](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/governance-made-simple?u=76281980&t=31)** That could be a rule that's defined in Azure Policy, and then that gets enforced when virtual machines are created.
 >
@@ -2209,24 +2188,23 @@ created: 2026-05-02
 >
 > **[4:50](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/governance-made-simple?u=76281980&t=290)** You can use tags in any way you see fit.
 >
-> **[4:53](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/governance-made-simple?u=76281980&t=293)** One thing though that tags will also do for you is give you easier cost management because when you get your Azure bill it comes in a comma separated values file that you can open in something like Excel and filter on, and your tags, the name and value, appear in that invoice.
+> **[4:53](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/governance-made-simple?u=76281980&t=293)** One thing though that tags will also do for you is give you easier [[Cost Management]] because when you get your Azure bill it comes in a comma separated values file that you can open in something like [[Microsoft Excel|Excel]] and filter on, and your tags, the name and value, appear in that invoice.
 >
 > **[5:14](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/governance-made-simple?u=76281980&t=314)** So you can filter your invoice on those tags, and it gives you easier ability to manage costs.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (18), vpn (3), [[Virtual Machines]] (2), [[Analytics]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (18), [[Virtual Machines]] (2), [[Cost Management]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** vpn (3), rbac (1)
 > **Analogies:** for example (2), kind of like (1)
 > **CLI Commands:** find (1)
 > **Tools:** azure portal (1)
 
-#### Azure pricing and cost management
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/azure-pricing-and-cost-management?u=76281980)
+#### [Azure pricing and cost management](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/azure-pricing-and-cost-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/azure-pricing-and-cost-management?u=76281980&t=6)** Now, let's dig a little bit into Azure Pricing and Cost Management.
+> **[0:06](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/azure-pricing-and-cost-management?u=76281980&t=6)** Now, let's dig a little bit into [[Microsoft Azure|Azure]] Pricing and [[Cost Management]].
 >
 > **[0:11](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/azure-pricing-and-cost-management?u=76281980&t=11)** This is an area where people have a lot of interest, because one of the big value propositions of moving to the Cloud, is that you move from owning to consuming, and so you save a lot of money.
 >
@@ -2276,11 +2254,11 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/azure-pricing-and-cost-management?u=76281980&t=156)** The other thing that you have to keep in mind is that costs differ between different regions, even in the same country.
 >
-> **[2:43](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/azure-pricing-and-cost-management?u=76281980&t=163)** You know, the cost that Microsoft incurs for electricity and all of the other things that it has to pay for in a data center, differs depending on which region of the country they're in, and so your costs will differ based upon which region you host in.
+> **[2:43](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/azure-pricing-and-cost-management?u=76281980&t=163)** You know, the cost that [[Microsoft]] incurs for electricity and all of the other things that it has to pay for in a data center, differs depending on which region of the country they're in, and so your costs will differ based upon which region you host in.
 >
 > **[2:59](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/azure-pricing-and-cost-management?u=76281980&t=179)** Then there are different pricing models.
 >
-> **[3:02](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/azure-pricing-and-cost-management?u=76281980&t=182)** For example, for SQL Server, Azure SQL Database, and Microsoft Virtual Machines, you can save money if you commit to a certain level of consumption in advance.
+> **[3:02](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/azure-pricing-and-cost-management?u=76281980&t=182)** For example, for [[Microsoft SQL Server|SQL Server]], Azure [[SQL]] Database, and Microsoft [[Virtual Machines]], you can save money if you commit to a certain level of consumption in advance.
 >
 > **[3:14](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/azure-pricing-and-cost-management?u=76281980&t=194)** Like you might say, we're going to have 50 VMs and we promise that we will have them for a period of a year, you get a price break for doing that.
 >
@@ -2360,7 +2338,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (14), cloud (10), [[Cost Management]] (4), data (3), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (14), [[Cost Management]] (4), [[Microsoft]] (2), [[Microsoft SQL Server|Sql server]] (1), [[SQL]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is an  (2), means that (1)
 > **Env Vars:** sql (2)
@@ -2369,38 +2347,36 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Warnings:** keep in mind (1)
 
-#### Putting it all together
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/putting-it-all-together?u=76281980)
+#### [Putting it all together](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/putting-it-all-together?u=76281980)
 
 
 ### Summary
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Microsoft Azure Essentials Professional Certificate: Summary
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/microsoft-azure-essentials-professional-certificate-summary?u=76281980)
+#### [Microsoft Azure Essentials Professional Certificate: Summary](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/microsoft-azure-essentials-professional-certificate-summary?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/microsoft-azure-essentials-professional-certificate-summary?u=76281980&t=7)** Well, you've reached the end of the course, and what a journey it's been!
 >
-> **[0:13](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/microsoft-azure-essentials-professional-certificate-summary?u=76281980&t=13)** This course was intentionally called Microsoft Azure Essentials, but I hope you feel that you've gotten a lot more than you might have expected from this course.
+> **[0:13](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/microsoft-azure-essentials-professional-certificate-summary?u=76281980&t=13)** This course was intentionally called [[Microsoft Azure]] Essentials, but I hope you feel that you've gotten a lot more than you might have expected from this course.
 >
-> **[0:25](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/microsoft-azure-essentials-professional-certificate-summary?u=76281980&t=25)** You learned about cloud computing in general and how the cloud can benefit you so you can now impress your friends by talking about things like scalability, agility, elasticity, and fault tolerance.
+> **[0:25](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/microsoft-azure-essentials-professional-certificate-summary?u=76281980&t=25)** You learned about [[Cloud Computing]] in general and how the cloud can benefit you so you can now impress your friends by talking about things like [[Scalability]], agility, elasticity, and fault tolerance.
 >
-> **[0:41](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/microsoft-azure-essentials-professional-certificate-summary?u=76281980&t=41)** You learned all about IaaS, PaaS, and SaaS services, and you know the pros and cons of each.
+> **[0:41](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/microsoft-azure-essentials-professional-certificate-summary?u=76281980&t=41)** You learned all about [[IaaS]], [[PaaS]], and [[SaaS]] services, and you know the pros and cons of each.
 >
 > **[0:50](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/microsoft-azure-essentials-professional-certificate-summary?u=76281980&t=50)** You also learned about the cloud pyramid and how it can help you find the best fit for your needs when it comes to choosing a cloud service category.
 >
-> **[1:01](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/microsoft-azure-essentials-professional-certificate-summary?u=76281980&t=61)** You also learned about different deployment models like public cloud, private cloud and hybrid cloud.
+> **[1:01](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/microsoft-azure-essentials-professional-certificate-summary?u=76281980&t=61)** You also learned about different deployment models like public cloud, private cloud and [[Hybrid Cloud]].
 >
-> **[1:08](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/microsoft-azure-essentials-professional-certificate-summary?u=76281980&t=68)** You learned how Azure was designed in a way that provides the best benefits of the cloud.
+> **[1:08](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/microsoft-azure-essentials-professional-certificate-summary?u=76281980&t=68)** You learned how [[Microsoft Azure|Azure]] was designed in a way that provides the best benefits of the cloud.
 >
 > **[1:16](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/microsoft-azure-essentials-professional-certificate-summary?u=76281980&t=76)** You learned a bit about Availability Zones for Reliability, and you learned how you can use Azure Resource Groups to keep yourself organized.
 >
 > **[1:28](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/microsoft-azure-essentials-professional-certificate-summary?u=76281980&t=88)** You took a tour of the Azure Portal, and you learned about different Azure Resource Types you can create and manage in the portal.
 >
-> **[1:37](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/microsoft-azure-essentials-professional-certificate-summary?u=76281980&t=97)** Resource Types such as Virtual Machines, Virtual Networks, Azure Storage, and Azure App Service.
+> **[1:37](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/microsoft-azure-essentials-professional-certificate-summary?u=76281980&t=97)** Resource Types such as [[Virtual Machines]], Virtual Networks, Azure Storage, and Azure App Service.
 >
 > **[1:45](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/microsoft-azure-essentials-professional-certificate-summary?u=76281980&t=105)** You also learned how you can use blob storage most effectively using the right storage tier.
 >
@@ -2422,7 +2398,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (11), cloud (11), [[IaaS]] (2), [[PaaS]] (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (11), [[IaaS]] (2), [[PaaS]] (2), [[Microsoft]] (1), [[Cloud Computing]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Tools:** azure portal (1)
 > **Analogies:** such as (1)

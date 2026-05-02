@@ -80,12 +80,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Practical applications of generative AI for marketers
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/practical-applications-of-generative-ai-for-marketers?u=76281980)
+#### [Practical applications of generative AI for marketers](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/practical-applications-of-generative-ai-for-marketers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/practical-applications-of-generative-ai-for-marketers?u=76281980&t=0)** - Generative AI is the hottest, fastest growing, most powerful technology to come down the pike since the internet itself.
+> **[0:00](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/practical-applications-of-generative-ai-for-marketers?u=76281980&t=0)** - [[Generative AI]] is the hottest, fastest growing, most powerful technology to come down the pike since the internet itself.
 >
 > **[0:07](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/practical-applications-of-generative-ai-for-marketers?u=76281980&t=7)** This course is about bending generative AI to your will better than others.
 >
@@ -97,22 +96,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (5), career (1), next (1)
+> **Frameworks & Libraries:** [[Generative AI]] (5)
 > **CLI Commands:** make (1)
 > **Speakers:** - generative (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/what-you-should-know?u=76281980&t=0)** - [Narrator] For getting the most out of this course, you should have a clear idea about what generative AI is and a solid working knowledge of tools like ChatGPT, Google Gemini, or Anthropic Claude.
+> **[0:00](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/what-you-should-know?u=76281980&t=0)** - [Narrator] For getting the most out of this course, you should have a clear idea about what [[Generative AI]] is and a solid working knowledge of tools like [[ChatGPT]], [[Google Gemini]], or [[Anthropic Claude]].
 >
 > **[0:11](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/what-you-should-know?u=76281980&t=11)** It doesn't matter which one.
 >
 > **[0:13](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/what-you-should-know?u=76281980&t=13)** This is not a hands-on keyboard course.
 >
-> **[0:16](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/what-you-should-know?u=76281980&t=16)** This is a mind expanding framework for using generative AI tools in ways you've never used a computer before.
+> **[0:16](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/what-you-should-know?u=76281980&t=16)** This is a mind expanding framework for using [[Generative AI Tools]] in ways you've never used a computer before.
 
 > [!info]- Semantic Content
 >
@@ -125,12 +123,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Analogies for working with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/analogies-for-working-with-ai?u=76281980)
+#### [Analogies for working with AI](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/analogies-for-working-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/analogies-for-working-with-ai?u=76281980&t=0)** - What's the fastest way to grasp the essentials of how generative AI can give you marketing superpowers?
+> **[0:00](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/analogies-for-working-with-ai?u=76281980&t=0)** - What's the fastest way to grasp the essentials of how [[Generative AI]] can give you marketing superpowers?
 >
 > **[0:07](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/analogies-for-working-with-ai?u=76281980&t=7)** Analogies.
 >
@@ -146,11 +143,11 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/analogies-for-working-with-ai?u=76281980&t=32)** Oh, they know a lot and they sound like they know everything, but mostly they're making things up to sound smarter than they are.
 >
-> **[0:39](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/analogies-for-working-with-ai?u=76281980&t=39)** An intern might know about your business, your products, your customers, but they don't have years of experience like you do.
+> **[0:39](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/analogies-for-working-with-ai?u=76281980&t=39)** An intern might know about your business, your [[Microsoft Products|products]], your customers, but they don't have years of experience like you do.
 >
 > **[0:47](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/analogies-for-working-with-ai?u=76281980&t=47)** That means you'll need to watch them closely and learn how to ask them to do certain things the way you want them done.
 >
-> **[0:54](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/analogies-for-working-with-ai?u=76281980&t=54)** The command "create an email marketing report" will produce a wide variety of outputs if the intern has never seen an example.
+> **[0:54](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/analogies-for-working-with-ai?u=76281980&t=54)** The command "create an [[Email Marketing]] report" will produce a wide variety of outputs if the intern has never seen an example.
 >
 > **[1:02](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/analogies-for-working-with-ai?u=76281980&t=62)** The next analogy is the old owl, seen as wise and yet very cryptic.
 >
@@ -198,22 +195,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (4), [[Email Marketing]] (2), business (1), [[Microsoft Products|Products]] (1), next (1)
+> **Frameworks & Libraries:** [[Generative AI]] (4), [[Email Marketing]] (2), [[Microsoft Products|Products]] (1)
 > **Env Vars:** ceo (2)
 > **Definitions:** is an  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - what (1)
 
-#### Content generation: Generative AI's starting point
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/content-generation-generative-ai-s-starting-point?u=76281980)
+#### [Content generation: Generative AI's starting point](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/content-generation-generative-ai-s-starting-point?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/content-generation-generative-ai-s-starting-point?u=76281980&t=0)** - [Instructor] Generative AI can generate all kinds of text and pictures, saving you an enormous amount of time, provided you understand its limitations.
+> **[0:00](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/content-generation-generative-ai-s-starting-point?u=76281980&t=0)** - [Instructor] [[Generative AI]] can generate all kinds of text and pictures, saving you an enormous amount of time, provided you understand its limitations.
 >
 > **[0:08](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/content-generation-generative-ai-s-starting-point?u=76281980&t=8)** This lesson will keep you from falling into the trap of cranking out bad copy and boring pictures, setting you up for success.
 >
-> **[0:17](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/content-generation-generative-ai-s-starting-point?u=76281980&t=17)** Generative AI specifically large language models, are known as GPTs.
+> **[0:17](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/content-generation-generative-ai-s-starting-point?u=76281980&t=17)** Generative AI specifically [[Large Language Models (LLM)|large language models]], are known as GPTs.
 >
 > **[0:22](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/content-generation-generative-ai-s-starting-point?u=76281980&t=22)** That stands for Generative Pre-trained Transformers.
 >
@@ -223,7 +219,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/content-generation-generative-ai-s-starting-point?u=76281980&t=34)** Tossed in hundreds of thousands of books and academic papers, and built a mathematical model of the English language.
 >
-> **[0:41](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/content-generation-generative-ai-s-starting-point?u=76281980&t=41)** They then predict the most likely next word or phrase.
+> **[0:41](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/content-generation-generative-ai-s-starting-point?u=76281980&t=41)** They then predict the most likely next [[Microsoft Word|word]] or phrase.
 >
 > **[0:46](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/content-generation-generative-ai-s-starting-point?u=76281980&t=46)** The results are seemingly articulate, but they're rather bland.
 >
@@ -233,7 +229,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/content-generation-generative-ai-s-starting-point?u=76281980&t=63)** Generative AI is very long-winded.
 >
-> **[1:05](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/content-generation-generative-ai-s-starting-point?u=76281980&t=65)** For example, when I asked ChatGPT to rewrite a statement, it gave me this.
+> **[1:05](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/content-generation-generative-ai-s-starting-point?u=76281980&t=65)** For example, when I asked [[ChatGPT]] to rewrite a statement, it gave me this.
 >
 > **[1:10](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/content-generation-generative-ai-s-starting-point?u=76281980&t=70)** "When working with generative AI, one of the key responsibilities you'll encounter is the need to condense and refine its outputs.
 >
@@ -257,7 +253,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/content-generation-generative-ai-s-starting-point?u=76281980&t=136)** This will get you a long way toward better drafts, but keep in mind, they are only drafts.
 >
-> **[2:22](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/content-generation-generative-ai-s-starting-point?u=76281980&t=142)** For more on this, I'm going to recommend Martin Waxman's LinkedIn learning course on [[Generative AI for Digital Marketers]].
+> **[2:22](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/content-generation-generative-ai-s-starting-point?u=76281980&t=142)** For more on this, I'm going to recommend Martin Waxman's [[LinkedIn]] learning course on [[Generative AI for Digital Marketers]].
 >
 > **[2:30](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/content-generation-generative-ai-s-starting-point?u=76281980&t=150)** Graphic artists are finding similar difficulties with creating pictures.
 >
@@ -281,7 +277,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (7), next (2), [[Microsoft Word|Word]] (2), ai (2), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (7), [[Microsoft Word|Word]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[ChatGPT]] (1), [[LinkedIn]] (1)
 > **Definitions:** known as (1), stands for (1), refers to (1)
 > **Analogies:** for example (1), picture (1)
 > **Tools:** notion (1)
@@ -289,18 +285,17 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using generative AI for admin tasks and internal communications
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/using-generative-ai-for-admin-tasks-and-internal-comms?u=76281980)
+#### [Using generative AI for admin tasks and internal communications](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/using-generative-ai-for-admin-tasks-and-internal-comms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/using-generative-ai-for-admin-tasks-and-internal-comms?u=76281980&t=0)** - [Instructor] Generating emails, newsletters and landing pages is great, but I want you to benefit from using generative AI as an operational tool as well.
+> **[0:00](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/using-generative-ai-for-admin-tasks-and-internal-comms?u=76281980&t=0)** - [Instructor] Generating emails, [[Newsletters]] and landing pages is great, but I want you to benefit from using [[Generative AI]] as an operational tool as well.
 >
 > **[0:10](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/using-generative-ai-for-admin-tasks-and-internal-comms?u=76281980&t=10)** This will make you more productive on those admin and internal communication tasks that we always feel keep us from doing our real work of creating new ways to communicate with prospects and customers.
 >
 > **[0:20](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/using-generative-ai-for-admin-tasks-and-internal-comms?u=76281980&t=20)** There are so many ways that you can use generative AI that it's good to have a list of top use cases on hand just as a reference.
 >
-> **[0:29](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/using-generative-ai-for-admin-tasks-and-internal-comms?u=76281980&t=29)** Filtered Technologies published an article in "The Harvard Business Review" after combing through tens of thousands of posts on sites like Reddit and Quora to see what people are using ChatGPT for.
+> **[0:29](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/using-generative-ai-for-admin-tasks-and-internal-comms?u=76281980&t=29)** Filtered Technologies published an article in "The Harvard Business Review" after combing through tens of thousands of posts on sites like Reddit and Quora to see what people are using [[ChatGPT]] for.
 >
 > **[0:40](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/using-generative-ai-for-admin-tasks-and-internal-comms?u=76281980&t=40)** Top of the list, exploring interesting topics and zeroing in on that thing you can't quite put your finger on that isn't really googleable, like, "What was that movie where the guy replaces a painting he stole from a museum in order to get the girl?"
 >
@@ -308,23 +303,23 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/using-generative-ai-for-admin-tasks-and-internal-comms?u=76281980&t=57)** Really good movie.
 >
-> **[0:59](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/using-generative-ai-for-admin-tasks-and-internal-comms?u=76281980&t=59)** Of the business uses they found, the most common were editing text, drafting emails, writing Excel formulas, writing resumes, generating employee appraisals, language translation, writing job postings, and the big one, summarizing long documents, videos and meetings.
+> **[0:59](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/using-generative-ai-for-admin-tasks-and-internal-comms?u=76281980&t=59)** Of the business uses they found, the most common were editing text, drafting emails, writing [[Microsoft Excel|Excel]] formulas, writing resumes, generating employee appraisals, language translation, writing job postings, and the big one, summarizing long documents, videos and meetings.
 >
 > **[1:19](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/using-generative-ai-for-admin-tasks-and-internal-comms?u=76281980&t=79)** Tools like ChatGPT are great for internal messages and collaboration too.
 >
 > **[1:23](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/using-generative-ai-for-admin-tasks-and-internal-comms?u=76281980&t=83)** They can help with all those routine communications, like regular project progress updates, sending out meeting reminders and summaries, or aid in the design, distribution and analysis of employee feedback surveys.
 >
-> **[1:36](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/using-generative-ai-for-admin-tasks-and-internal-comms?u=76281980&t=96)** Anytime you need to help others with a new process or policy, a generative AI tool can help organize and explain technical documentation, process manuals, policy documents.
+> **[1:36](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/using-generative-ai-for-admin-tasks-and-internal-comms?u=76281980&t=96)** Anytime you need to help others with a new process or policy, a generative AI tool can help organize and explain [[Technical Documentation]], process manuals, policy documents.
 >
 > **[1:48](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/using-generative-ai-for-admin-tasks-and-internal-comms?u=76281980&t=108)** These are crucial for consistent operations and onboarding new team members.
 >
 > **[1:53](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/using-generative-ai-for-admin-tasks-and-internal-comms?u=76281980&t=113)** Generative AI can also support the maintenance of an internal knowledge base by summarizing key project learnings, best practices, or troubleshooting guides.
 >
-> **[2:03](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/using-generative-ai-for-admin-tasks-and-internal-comms?u=76281980&t=123)** It can suggest tools and platforms for better team collaboration, depending on your needs, such as project management software, communication platforms, or collaboration writing tools.
+> **[2:03](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/using-generative-ai-for-admin-tasks-and-internal-comms?u=76281980&t=123)** It can suggest tools and platforms for better [[Team Collaboration]], depending on your needs, such as project management software, communication platforms, or collaboration writing tools.
 >
 > **[2:13](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/using-generative-ai-for-admin-tasks-and-internal-comms?u=76281980&t=133)** Or create meeting agendas based on project requirements and team updates.
 >
-> **[2:18](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/using-generative-ai-for-admin-tasks-and-internal-comms?u=76281980&t=138)** Think of all the time that you spend in meetings that could've been a Zoom call, and the Zoom calls that could've been an email.
+> **[2:18](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/using-generative-ai-for-admin-tasks-and-internal-comms?u=76281980&t=138)** Think of all the time that you spend in meetings that could've been a [[Zoom]] call, and the Zoom calls that could've been an email.
 >
 > **[2:25](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/using-generative-ai-for-admin-tasks-and-internal-comms?u=76281980&t=145)** Keep generative AI in mind for tasks it can do for you.
 >
@@ -332,13 +327,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (5), business (2), [[ChatGPT]] (2), [[Zoom]] (2), [[Newsletters]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (5), [[ChatGPT]] (2), [[Zoom]] (2), [[Newsletters]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Simple marketing tasks generative AI can do in a heartbeat
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/simple-marketing-tasks-generative-ai-can-do-in-a-heartbeat?u=76281980)
+#### [Simple marketing tasks generative AI can do in a heartbeat](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/simple-marketing-tasks-generative-ai-can-do-in-a-heartbeat?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -358,7 +352,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/simple-marketing-tasks-generative-ai-can-do-in-a-heartbeat?u=76281980&t=29)** Spell check is getting a big upgrade.
 >
-> **[0:32](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/simple-marketing-tasks-generative-ai-can-do-in-a-heartbeat?u=76281980&t=32)** There are so many tasks generative AI can do.
+> **[0:32](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/simple-marketing-tasks-generative-ai-can-do-in-a-heartbeat?u=76281980&t=32)** There are so many tasks [[Generative AI]] can do.
 >
 > **[0:35](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/simple-marketing-tasks-generative-ai-can-do-in-a-heartbeat?u=76281980&t=35)** How do you choose?
 >
@@ -392,7 +386,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/simple-marketing-tasks-generative-ai-can-do-in-a-heartbeat?u=76281980&t=100)** Let's take lead scoring as an example and go through the steps of getting your generative AI to do it for you.
 >
-> **[1:45](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/simple-marketing-tasks-generative-ai-can-do-in-a-heartbeat?u=76281980&t=105)** Start by providing information about your business, the target audience, your products, and what does qualified lead mean in your company?
+> **[1:45](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/simple-marketing-tasks-generative-ai-can-do-in-a-heartbeat?u=76281980&t=105)** Start by providing information about your business, the target audience, your [[Microsoft Products|products]], and what does qualified lead mean in your company?
 >
 > **[1:54](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/simple-marketing-tasks-generative-ai-can-do-in-a-heartbeat?u=76281980&t=114)** What are the key indicators that that lead is likely to convert?
 >
@@ -444,7 +438,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/simple-marketing-tasks-generative-ai-can-do-in-a-heartbeat?u=76281980&t=214)** If there are any analytical models or specific tools or methods you prefer, mention them.
 >
-> **[3:40](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/simple-marketing-tasks-generative-ai-can-do-in-a-heartbeat?u=76281980&t=220)** Please use logistic regression to analyze the data as this method has worked well for us in the past.
+> **[3:40](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/simple-marketing-tasks-generative-ai-can-do-in-a-heartbeat?u=76281980&t=220)** Please use [[Logistic Regression]] to analyze the data as this method has worked well for us in the past.
 >
 > **[3:45](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/simple-marketing-tasks-generative-ai-can-do-in-a-heartbeat?u=76281980&t=225)** If you believe another method could be more effective, feel free to suggest and justify your choice.
 >
@@ -456,19 +450,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Generative AI]] (2), [[Microsoft Products|Products]] (2), next (2), management (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Microsoft Products|Products]] (2), [[Logistic Regression]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** crm (1)
 > **Cross-References:** coming up (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Performing sophisticated marketing tasks with generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/performing-sophisticated-marketing-tasks-with-generative-ai?u=76281980)
+#### [Performing sophisticated marketing tasks with generative AI](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/performing-sophisticated-marketing-tasks-with-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/performing-sophisticated-marketing-tasks-with-generative-ai?u=76281980&t=0)** - [Instructor] Generative AI can link tasks together to execute projects.
+> **[0:00](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/performing-sophisticated-marketing-tasks-with-generative-ai?u=76281980&t=0)** - [Instructor] [[Generative AI]] can link tasks together to execute projects.
 >
 > **[0:05](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/performing-sophisticated-marketing-tasks-with-generative-ai?u=76281980&t=5)** Does that make you feel a little queasy?
 >
@@ -476,7 +469,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/performing-sophisticated-marketing-tasks-with-generative-ai?u=76281980&t=8)** I want you to understand how to use this amazing technology without worrying about losing your job.
 >
-> **[0:14](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/performing-sophisticated-marketing-tasks-with-generative-ai?u=76281980&t=14)** Ethan Mollick, professor of entrepreneurship at Wharton School of Business likes to say that a job is a bundle of tasks.
+> **[0:14](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/performing-sophisticated-marketing-tasks-with-generative-ai?u=76281980&t=14)** Ethan Mollick, professor of [[Entrepreneurship]] at Wharton School of Business likes to say that a job is a bundle of tasks.
 >
 > **[0:22](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/performing-sophisticated-marketing-tasks-with-generative-ai?u=76281980&t=22)** Generative AI is great at some of those tasks, but it's going to be a long time before it can do a job.
 >
@@ -488,17 +481,17 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/performing-sophisticated-marketing-tasks-with-generative-ai?u=76281980&t=50)** So you can be comfortable with the idea that you can automate a series of tasks into a project.
 >
-> **[0:57](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/performing-sophisticated-marketing-tasks-with-generative-ai?u=76281980&t=57)** If you have coding skills, you might want to dive headfirst into a tool like LangChain, but don't go away, 'cause you don't have to.
+> **[0:57](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/performing-sophisticated-marketing-tasks-with-generative-ai?u=76281980&t=57)** If you have coding skills, you might want to dive headfirst into a tool like [[LangChain]], but don't go away, 'cause you don't have to.
 >
 > **[1:04](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/performing-sophisticated-marketing-tasks-with-generative-ai?u=76281980&t=64)** Just give me a second to explain.
 >
-> **[1:06](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/performing-sophisticated-marketing-tasks-with-generative-ai?u=76281980&t=66)** LangChain is a toolbox for creating apps using large language models.
+> **[1:06](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/performing-sophisticated-marketing-tasks-with-generative-ai?u=76281980&t=66)** LangChain is a toolbox for creating apps using [[Large Language Models (LLM)|large language models]].
 >
 > **[1:12](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/performing-sophisticated-marketing-tasks-with-generative-ai?u=76281980&t=72)** It's got building blocks and shortcuts to customize apps that understand and use generative AI to interact with users or to process information.
 >
 > **[1:21](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/performing-sophisticated-marketing-tasks-with-generative-ai?u=76281980&t=81)** For example, if an app needs to comprehend and respond to customer emails, a developer can use specific components to parse, understand, and generate responses.
 >
-> **[1:32](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/performing-sophisticated-marketing-tasks-with-generative-ai?u=76281980&t=92)** For the rest of us, there is the ability to create your own personalized GPTs in open AI's ChatGPT, or create Gems in Google's Gemini.
+> **[1:32](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/performing-sophisticated-marketing-tasks-with-generative-ai?u=76281980&t=92)** For the [[Representational State Transfer (REST)|rest]] of us, there is the ability to create your own personalized GPTs in open AI's [[ChatGPT]], or create Gems in [[Google]]'s [[Gemini]].
 >
 > **[1:45](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/performing-sophisticated-marketing-tasks-with-generative-ai?u=76281980&t=105)** For example, give your bot or agent access to a Google Sheet to get up to date answers.
 >
@@ -508,7 +501,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/performing-sophisticated-marketing-tasks-with-generative-ai?u=76281980&t=122)** And, "When I get a new email, if it's promotional, label it is promotional and archive it.
 >
-> **[2:07](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/performing-sophisticated-marketing-tasks-with-generative-ai?u=76281980&t=127)** If it's personal, draft a reply for me to review, and DM me in Slack."
+> **[2:07](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/performing-sophisticated-marketing-tasks-with-generative-ai?u=76281980&t=127)** If it's personal, draft a reply for me to review, and DM me in [[Slack]]."
 >
 > **[2:12](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/performing-sophisticated-marketing-tasks-with-generative-ai?u=76281980&t=132)** So think about the tasks that go into a project, and see what you can automate.
 >
@@ -552,12 +545,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creative campaign development with generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/creative-campaign-development-with-generative-ai?u=76281980)
+#### [Creative campaign development with generative AI](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/creative-campaign-development-with-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/creative-campaign-development-with-generative-ai?u=76281980&t=1)** - It's often said that you should treat your generative AI tool like a really smart intern.
+> **[0:01](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/creative-campaign-development-with-generative-ai?u=76281980&t=1)** - It's often said that you should treat your [[Generative AI]] tool like a really smart intern.
 >
 > **[0:06](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/creative-campaign-development-with-generative-ai?u=76281980&t=6)** You have to tell it exactly what you want and even give it some examples.
 >
@@ -597,11 +589,11 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/creative-campaign-development-with-generative-ai?u=76281980&t=125)** Companies like [automatecreative.net](https://automatecreative.net) and [ariel.com](https://ariel.com)'s agent.
 >
-> **[2:11](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/creative-campaign-development-with-generative-ai?u=76281980&t=131)** In the next video, we'll look at how to measure the outcome of your marketing strategy.
+> **[2:11](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/creative-campaign-development-with-generative-ai?u=76281980&t=131)** In the next video, we'll look at how to measure the outcome of your [[Marketing Strategy]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Generative AI]] (3), next (2), product (1), [[Marketing Strategy]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[Marketing Strategy]] (1)
 > **URLs:** [automatecreative.net](https://automatecreative.net) (1), [ariel.com](https://ariel.com) (1)
 > **Best Practices:** make sure to (1), don't forget (1)
 > **CLI Commands:** make (1)
@@ -609,8 +601,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - it (1)
 
-#### How generative AI aids marketing measurement
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/how-generative-ai-aids-marketing-measurement?u=76281980)
+#### [How generative AI aids marketing measurement](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/how-generative-ai-aids-marketing-measurement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -618,7 +609,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/how-generative-ai-aids-marketing-measurement?u=76281980&t=3)** Measure the outcome.
 >
-> **[0:05](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/how-generative-ai-aids-marketing-measurement?u=76281980&t=5)** Generative AI can help you measure, report, and present marketing results in a fraction of the time it would normally take.
+> **[0:05](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/how-generative-ai-aids-marketing-measurement?u=76281980&t=5)** [[Generative AI]] can help you measure, report, and present marketing results in a fraction of the time it would normally take.
 >
 > **[0:12](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/how-generative-ai-aids-marketing-measurement?u=76281980&t=12)** The less time you spend collecting, merging, and reporting on data, the more time you can devote to strategy.
 >
@@ -626,25 +617,25 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/how-generative-ai-aids-marketing-measurement?u=76281980&t=28)** Measurement starts with key performance indicators or KPIs.
 >
-> **[0:32](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/how-generative-ai-aids-marketing-measurement?u=76281980&t=32)** Hey, ChatGPT, which KPIs are the most relevant for my campaign promoting left-handed sewing machines given the goals of increasing awareness, lowering customer acquisition cost, and increasing customer lifetime value?
+> **[0:32](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/how-generative-ai-aids-marketing-measurement?u=76281980&t=32)** Hey, [[ChatGPT]], which KPIs are the most relevant for my campaign promoting left-handed sewing machines given the goals of increasing awareness, lowering customer acquisition cost, and increasing customer lifetime value?
 >
 > **[0:44](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/how-generative-ai-aids-marketing-measurement?u=76281980&t=44)** The system will hand you a lovely list of metrics to monitor.
 >
 > **[0:48](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/how-generative-ai-aids-marketing-measurement?u=76281980&t=48)** Hey, ChatGPT, can you help me capture the right data and create relevant reports for those KPIs?
 >
-> **[0:54](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/how-generative-ai-aids-marketing-measurement?u=76281980&t=54)** Out comes a list that might include guiding you through setting up Google Analytics for your website, including goals and events to monitor actions like signups or purchases.
+> **[0:54](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/how-generative-ai-aids-marketing-measurement?u=76281980&t=54)** Out comes a list that might include guiding you through setting up [[Google]] Analytics for your website, including goals and events to monitor actions like signups or purchases.
 >
 > **[1:05](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/how-generative-ai-aids-marketing-measurement?u=76281980&t=65)** It can also guide you through which metrics to focus on for reach, impressions, and engagement on social media.
 >
-> **[1:11](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/how-generative-ai-aids-marketing-measurement?u=76281980&t=71)** And then comes hands-on data manipulation.
+> **[1:11](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/how-generative-ai-aids-marketing-measurement?u=76281980&t=71)** And then comes hands-on [[Data Manipulation]].
 >
-> **[1:15](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/how-generative-ai-aids-marketing-measurement?u=76281980&t=75)** Hey, ChatGPT, can you help me write an API for Power BI to get data from Google Analytics, Salesforce, and Facebook?
+> **[1:15](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/how-generative-ai-aids-marketing-measurement?u=76281980&t=75)** Hey, ChatGPT, can you help me write an API for [[Microsoft Power BI|Power BI]] to get data from Google Analytics, Salesforce, and Facebook?
 >
 > **[1:23](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/how-generative-ai-aids-marketing-measurement?u=76281980&t=83)** Hey, ChatGPT, what are some options for formatting these reports and data visualizations for clarity based on best practices?
 >
 > **[1:32](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/how-generative-ai-aids-marketing-measurement?u=76281980&t=92)** Hey, ChatGPT, can you please set up an alert system that lets me know when certain KPIs are above or below certain thresholds and recommend what those thresholds should be?
 >
-> **[1:42](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/how-generative-ai-aids-marketing-measurement?u=76281980&t=102)** It will not only give you a plan of attack, it can also provide some draft Python code to get you started.
+> **[1:42](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/how-generative-ai-aids-marketing-measurement?u=76281980&t=102)** It will not only give you a plan of attack, it can also provide some draft [[Python (Programming Language)|Python]] code to get you started.
 >
 > **[1:49](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/how-generative-ai-aids-marketing-measurement?u=76281980&t=109)** You're getting the picture, right?
 >
@@ -656,25 +647,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (6), data (4), [[Generative AI]] (2), power (2), [[Google]] (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (6), [[Generative AI]] (2), [[Google]] (2), [[Data Manipulation]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** api (1)
 > **Analogies:** picture (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identifying marketing insights with generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/identifying-marketing-insights-with-generative-ai?u=76281980)
+#### [Identifying marketing insights with generative AI](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/identifying-marketing-insights-with-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/identifying-marketing-insights-with-generative-ai?u=76281980&t=0)** - [Instructor] Now that you have generative AI helping you with data collection, tracking, and integration, you have time to analyze your marketing results rather than just report on them.
+> **[0:00](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/identifying-marketing-insights-with-generative-ai?u=76281980&t=0)** - [Instructor] Now that you have [[Generative AI]] helping you with [[Data Collection]], tracking, and integration, you have time to analyze your marketing results rather than just report on them.
 >
 > **[0:11](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/identifying-marketing-insights-with-generative-ai?u=76281980&t=11)** This is where generative AI moves you from simply being more efficient to being more insightful.
 >
 > **[0:16](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/identifying-marketing-insights-with-generative-ai?u=76281980&t=16)** It's time to move on to real analytics where you become a trusted advisor to the company.
 >
-> **[0:22](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/identifying-marketing-insights-with-generative-ai?u=76281980&t=22)** Hey, ChatGPT, Combine the performance results from the variety of data streams you have access to into a single spreadsheet for further analysis.
+> **[0:22](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/identifying-marketing-insights-with-generative-ai?u=76281980&t=22)** Hey, [[ChatGPT]], Combine the performance results from the variety of data streams you have access to into a single spreadsheet for further analysis.
 >
 > **[0:32](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/identifying-marketing-insights-with-generative-ai?u=76281980&t=32)** Now, ChatGPT, using advanced analytics and machine learning, and you don't need to go into any more detail than that, it knows what machine learning is, use the performance data in this spreadsheet to predict future trends in behavior and campaign performance and recommend adjustments to targeting messaging and budgeting.
 >
@@ -700,15 +690,15 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/identifying-marketing-insights-with-generative-ai?u=76281980&t=94)** That's how you find actionable insights to help improve campaign performance and optimize spending across channels, but that's just performance.
 >
-> **[1:44](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/identifying-marketing-insights-with-generative-ai?u=76281980&t=104)** The other side of the coin is making recommendations to the rest of the organization based on your analysis.
+> **[1:44](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/identifying-marketing-insights-with-generative-ai?u=76281980&t=104)** The other side of the coin is making recommendations to the [[Representational State Transfer (REST)|rest]] of the organization based on your analysis.
 >
 > **[1:50](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/identifying-marketing-insights-with-generative-ai?u=76281980&t=110)** This advice can be far-ranging, from making the buying process smoother to changing your product mix or creating a recommendation engine.
 >
-> **[1:59](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/identifying-marketing-insights-with-generative-ai?u=76281980&t=119)** Hey, ChatGPT, here's some screenshots of our e-commerce webpages.
+> **[1:59](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/identifying-marketing-insights-with-generative-ai?u=76281980&t=119)** Hey, ChatGPT, here's some screenshots of our [[E-Commerce]] webpages.
 >
 > **[2:04](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/identifying-marketing-insights-with-generative-ai?u=76281980&t=124)** What might we do to lower cart abandonment rates and increase conversion?
 >
-> **[2:09](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/identifying-marketing-insights-with-generative-ai?u=76281980&t=129)** Hey, ChatGPT, here's the landing page for Product X and landing pages from our competitors' products.
+> **[2:09](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/identifying-marketing-insights-with-generative-ai?u=76281980&t=129)** Hey, ChatGPT, here's the landing page for Product X and landing pages from our competitors' [[Microsoft Products|products]].
 >
 > **[2:16](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/identifying-marketing-insights-with-generative-ai?u=76281980&t=136)** For each of our identified personas, what benefits do our competitors talk about that we're missing?
 >
@@ -732,7 +722,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (5), [[Generative AI]] (4), data (3), [[Analytics]] (2), product (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[Generative AI]] (4), [[Data Collection]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[E-Commerce]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** just like (1)
 > **Warnings:** caution (1)
@@ -744,8 +734,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Asking generative AI to help you ask it
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/asking-generative-ai-to-help-you-ask-it?u=76281980)
+#### [Asking generative AI to help you ask it](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/asking-generative-ai-to-help-you-ask-it?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -753,7 +742,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/asking-generative-ai-to-help-you-ask-it?u=76281980&t=8)** They're great at finding, calculating, reformatting, and have been doing it faster and faster every day.
 >
-> **[0:14](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/asking-generative-ai-to-help-you-ask-it?u=76281980&t=14)** But generative AI is a completely different thing altogether.
+> **[0:14](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/asking-generative-ai-to-help-you-ask-it?u=76281980&t=14)** But [[Generative AI]] is a completely different thing altogether.
 >
 > **[0:19](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/asking-generative-ai-to-help-you-ask-it?u=76281980&t=19)** I want to rewire your mind so you appreciate the unique ways you can put generative AI to work.
 >
@@ -765,7 +754,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/asking-generative-ai-to-help-you-ask-it?u=76281980&t=40)** It's a program written in code to execute a function.
 >
-> **[0:45](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/asking-generative-ai-to-help-you-ask-it?u=76281980&t=45)** In the recent past, computing has become more probabilistic, leveraging statistical models and predictive analytics.
+> **[0:45](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/asking-generative-ai-to-help-you-ask-it?u=76281980&t=45)** In the recent past, computing has become more probabilistic, leveraging statistical models and [[Predictive Analytics]].
 >
 > **[0:52](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/asking-generative-ai-to-help-you-ask-it?u=76281980&t=52)** The machine can look at a pile of data about your marketing efforts and churn out predictions about when to send out emails or when to post on social media.
 >
@@ -775,7 +764,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/asking-generative-ai-to-help-you-ask-it?u=76281980&t=70)** It generates things.
 >
-> **[1:12](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/asking-generative-ai-to-help-you-ask-it?u=76281980&t=72)** Generative AI is a predictive algorithm, but instead of predicting email open rates, shopping cart value, or customer churn, it predicts the next word or phrase in response to your prompt.
+> **[1:12](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/asking-generative-ai-to-help-you-ask-it?u=76281980&t=72)** Generative AI is a predictive algorithm, but instead of predicting email open rates, shopping cart value, or customer churn, it predicts the next [[Microsoft Word|word]] or phrase in response to your prompt.
 >
 > **[1:25](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/asking-generative-ai-to-help-you-ask-it?u=76281980&t=85)** It is not a database.
 >
@@ -809,19 +798,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (7), [[Microsoft Word|Word]] (3), data (2), next (2), [[Predictive Analytics]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (7), [[Microsoft Word|Word]] (3), [[Predictive Analytics]] (1)
 > **CLI Commands:** cat (2), make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Warnings:** don't make the mistake (1)
 > **Speakers:** - from (1)
 
-#### Asking generative AI for its opinion: Brainstorming
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/asking-generative-ai-for-its-opinion-brainstorming?u=76281980)
+#### [Asking generative AI for its opinion: Brainstorming](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/asking-generative-ai-for-its-opinion-brainstorming?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/asking-generative-ai-for-its-opinion-brainstorming?u=76281980&t=0)** - [Instructor] The worst thing you can do is take any output from generative AI and use it directly.
+> **[0:00](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/asking-generative-ai-for-its-opinion-brainstorming?u=76281980&t=0)** - [Instructor] The worst thing you can do is take any output from [[Generative AI]] and use it directly.
 >
 > **[0:06](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/asking-generative-ai-for-its-opinion-brainstorming?u=76281980&t=6)** To get the best out of generative AI, you want to embrace it as a philosopher rather than an answer bot.
 >
@@ -865,7 +853,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/asking-generative-ai-for-its-opinion-brainstorming?u=76281980&t=126)** Instruct it to ask you three clarifying questions about your needs, evaluate your response, write a better prompt, and then ask you three more questions.
 >
-> **[2:15](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/asking-generative-ai-for-its-opinion-brainstorming?u=76281980&t=135)** Tell it to repeat this process until you give it the word, done.
+> **[2:15](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/asking-generative-ai-for-its-opinion-brainstorming?u=76281980&t=135)** Tell it to repeat this process until you give it the [[Microsoft Word|word]], done.
 >
 > **[2:20](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/asking-generative-ai-for-its-opinion-brainstorming?u=76281980&t=140)** It will keep cycling through questions until you think that they're not helpful anymore, until you just want to get on with it and then say, done.
 >
@@ -875,7 +863,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/asking-generative-ai-for-its-opinion-brainstorming?u=76281980&t=159)** How do you do that?
 >
-> **[2:42](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/asking-generative-ai-for-its-opinion-brainstorming?u=76281980&t=162)** Arnold Chevalier, a professor at IMD Business School suggests considering five types of questions in any decision-making process, and they're very useful for generative AI as well.
+> **[2:42](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/asking-generative-ai-for-its-opinion-brainstorming?u=76281980&t=162)** Arnold Chevalier, a professor at IMD Business School suggests considering five types of questions in any [[Decision-Making]] process, and they're very useful for generative AI as well.
 >
 > **[2:55](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/asking-generative-ai-for-its-opinion-brainstorming?u=76281980&t=175)** So here are the five.
 >
@@ -911,22 +899,21 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/asking-generative-ai-for-its-opinion-brainstorming?u=76281980&t=233)** Focus on developing unique solutions, uncovering non-obvious insights, mind mapping alternative approaches, identifying unintended consequences.
 >
-> **[4:06](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/asking-generative-ai-for-its-opinion-brainstorming?u=76281980&t=246)** Have these kinds of conversations with your generative AI system and your critical thinking skills will double overnight.
+> **[4:06](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/asking-generative-ai-for-its-opinion-brainstorming?u=76281980&t=246)** Have these kinds of conversations with your generative AI system and your critical [[Thinking Skills]] will double overnight.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (7), prompt (4), business (2), product (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (7), [[Microsoft Word|Word]] (1), [[Decision-Making]] (1), [[Thinking Skills]] (1)
 > **Env Vars:** gpt (1), imd (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Asking generative AI to be your teacher or mentor
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/asking-generative-ai-to-be-your-teacher-mentor?u=76281980)
+#### [Asking generative AI to be your teacher or mentor](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/asking-generative-ai-to-be-your-teacher-mentor?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/asking-generative-ai-to-be-your-teacher-mentor?u=76281980&t=0)** - [Instructor] Generative AI is great as a guide, and you will benefit when you leverage it as a mentor.
+> **[0:00](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/asking-generative-ai-to-be-your-teacher-mentor?u=76281980&t=0)** - [Instructor] [[Generative AI]] is great as a guide, and you will benefit when you leverage it as a mentor.
 >
 > **[0:06](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/asking-generative-ai-to-be-your-teacher-mentor?u=76281980&t=6)** You only need to know a few tricks to put this powerful tool to work, and that's what this video is about.
 >
@@ -934,9 +921,9 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/asking-generative-ai-to-be-your-teacher-mentor?u=76281980&t=19)** And it'll give you a list of things to do, and even include a list of references.
 >
-> **[0:23](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/asking-generative-ai-to-be-your-teacher-mentor?u=76281980&t=23)** But if you want to learn to play the piano, write Python code, or run a marathon, you'll need to ask it to develop training materials or guides designed specifically for you.
+> **[0:23](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/asking-generative-ai-to-be-your-teacher-mentor?u=76281980&t=23)** But if you want to learn to play the piano, write [[Python (Programming Language)|Python]] code, or run a marathon, you'll need to ask it to develop training materials or guides designed specifically for you.
 >
-> **[0:36](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/asking-generative-ai-to-be-your-teacher-mentor?u=76281980&t=36)** If you know something about music already, you've written C++ or JavaScript in the past, and are something of an athlete, the advice you get will be different than if you've never played a musical instrument, have never written any code, or you're a couch potato.
+> **[0:36](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/asking-generative-ai-to-be-your-teacher-mentor?u=76281980&t=36)** If you know something about music already, you've written C++ or [[JavaScript]] in the past, and are something of an athlete, the advice you get will be different than if you've never played a musical instrument, have never written any code, or you're a couch potato.
 >
 > **[0:50](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/asking-generative-ai-to-be-your-teacher-mentor?u=76281980&t=50)** That's why it's crucial to start with your specific goals and context about your starting point.
 >
@@ -974,7 +961,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/asking-generative-ai-to-be-your-teacher-mentor?u=76281980&t=133)** Auditory learners might enjoy narrated explanations.
 >
-> **[2:16](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/asking-generative-ai-to-be-your-teacher-mentor?u=76281980&t=136)** Ask ChatGPT to give you some audio files you can listen to like a podcast.
+> **[2:16](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/asking-generative-ai-to-be-your-teacher-mentor?u=76281980&t=136)** Ask [[ChatGPT]] to give you some audio files you can listen to like a podcast.
 >
 > **[2:21](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/asking-generative-ai-to-be-your-teacher-mentor?u=76281980&t=141)** Maybe you're a kinesthetic learner, who prefers to learn by doing with hands-on experience.
 >
@@ -1014,18 +1001,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (4), [[ChatGPT]] (2), [[Python (Programming Language)|Python]] (1), [[JavaScript]] (1), ai (1)
+> **Frameworks & Libraries:** [[Generative AI]] (4), [[ChatGPT]] (2), [[Python (Programming Language)|Python]] (1), [[JavaScript]] (1)
 > **Best Practices:** remember to (1), you should always (1)
 > **Prerequisites:** you'll need (2)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 
-#### Long-term career planning and development with GenAI
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/long-term-career-planning-and-development-with-genai?u=76281980)
+#### [Long-term career planning and development with GenAI](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/long-term-career-planning-and-development-with-genai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/long-term-career-planning-and-development-with-genai?u=76281980&t=0)** - [Narrator] Shaken up by how generative AI changes the working landscape?
+> **[0:00](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/long-term-career-planning-and-development-with-genai?u=76281980&t=0)** - [Narrator] Shaken up by how [[Generative AI]] changes the working landscape?
 >
 > **[0:04](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/long-term-career-planning-and-development-with-genai?u=76281980&t=4)** Wondering what your job will look like in five years, even two years?
 >
@@ -1039,7 +1025,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/long-term-career-planning-and-development-with-genai?u=76281980&t=38)** Give your generative AI of choice a complete description of your current situation.
 >
-> **[0:44](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/long-term-career-planning-and-development-with-genai?u=76281980&t=44)** Upload your resume and the text from your LinkedIn profile.
+> **[0:44](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/long-term-career-planning-and-development-with-genai?u=76281980&t=44)** Upload your resume and the text from your [[LinkedIn]] profile.
 >
 > **[0:47](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/long-term-career-planning-and-development-with-genai?u=76281980&t=47)** Include your favorite blog posts or published papers.
 >
@@ -1085,7 +1071,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (8), [[Generative AI]] (5), [[LinkedIn]] (2), product (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (5), [[LinkedIn]] (2)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -1096,12 +1082,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Organizational readiness and executive alignment
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/organizational-readiness-and-executive-alignment?u=76281980)
+#### [Organizational readiness and executive alignment](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/organizational-readiness-and-executive-alignment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/organizational-readiness-and-executive-alignment?u=76281980&t=0)** - [Instructor] Do you keep bumping into hurdles and roadblocks at your company about generative AI?
+> **[0:00](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/organizational-readiness-and-executive-alignment?u=76281980&t=0)** - [Instructor] Do you keep bumping into hurdles and roadblocks at your company about [[Generative AI]]?
 >
 > **[0:05](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/organizational-readiness-and-executive-alignment?u=76281980&t=5)** You love it and have found it to be extraordinarily useful, but others are dubious, suspicious, or just seasoned against change.
 >
@@ -1159,7 +1144,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/organizational-readiness-and-executive-alignment?u=76281980&t=149)** We have policies and guidelines about using generative AI.
 >
-> **[2:34](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/organizational-readiness-and-executive-alignment?u=76281980&t=154)** We have data security policies in place.
+> **[2:34](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/organizational-readiness-and-executive-alignment?u=76281980&t=154)** We have [[Data Security]] policies in place.
 >
 > **[2:37](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/organizational-readiness-and-executive-alignment?u=76281980&t=157)** We have a generative AI training program in place.
 >
@@ -1183,16 +1168,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (14), ai (4), [[Security]] (3), management (2), data (1)
+> **Frameworks & Libraries:** [[Generative AI]] (14), [[Data Security]] (1)
 > **CLI Commands:** make (3), find (2), rails (1)
 > **Speakers:** - [instructor] (1)
 
-#### Training the whole company on generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/training-the-whole-company-on-generative-ai?u=76281980)
+#### [Training the whole company on generative AI](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/training-the-whole-company-on-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/training-the-whole-company-on-generative-ai?u=76281980&t=0)** - [Instructor] Knowing how to get the most out of generative AI will help you in your job and your career.
+> **[0:00](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/training-the-whole-company-on-generative-ai?u=76281980&t=0)** - [Instructor] Knowing how to get the most out of [[Generative AI]] will help you in your job and your career.
 >
 > **[0:06](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/training-the-whole-company-on-generative-ai?u=76281980&t=6)** This lesson puts you in the driver's seat to help your whole company.
 >
@@ -1202,7 +1186,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/training-the-whole-company-on-generative-ai?u=76281980&t=26)** And appropriate use means training in keeping with policies and guidelines.
 >
-> **[0:31](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/training-the-whole-company-on-generative-ai?u=76281980&t=31)** And those policies and guidelines have to align with the company's values, ethics, and objectives.
+> **[0:31](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/training-the-whole-company-on-generative-ai?u=76281980&t=31)** And those policies and guidelines have to align with the company's values, [[Ethics]], and objectives.
 >
 > **[0:37](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/training-the-whole-company-on-generative-ai?u=76281980&t=37)** It also needs to be an organic training program to keep up with the advances in technology.
 >
@@ -1228,13 +1212,13 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/training-the-whole-company-on-generative-ai?u=76281980&t=109)** After all, examples and exercises win the day.
 >
-> **[1:54](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/training-the-whole-company-on-generative-ai?u=76281980&t=114)** Make sure to include enough material on the ethical uses of AI, including biases, fairness, and privacy concerns.
+> **[1:54](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/training-the-whole-company-on-generative-ai?u=76281980&t=114)** Make sure to include enough material on the ethical uses of AI, including biases, fairness, and [[Privacy]] concerns.
 >
-> **[2:02](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/training-the-whole-company-on-generative-ai?u=76281980&t=122)** You'll want to create or find introductory courses as well as schedule workshops, seminars, and office hours, so people can readily ask questions as they learn.
+> **[2:02](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/training-the-whole-company-on-generative-ai?u=76281980&t=122)** You'll want to create or find introductory courses as well as schedule workshops, seminars, and [[Microsoft Office|office]] hours, so people can readily ask questions as they learn.
 >
-> **[2:11](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/training-the-whole-company-on-generative-ai?u=76281980&t=131)** And yes, check out the wealth of LinkedIn learning courses already available.
+> **[2:11](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/training-the-whole-company-on-generative-ai?u=76281980&t=131)** And yes, check out the wealth of [[LinkedIn]] learning courses already available.
 >
-> **[2:17](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/training-the-whole-company-on-generative-ai?u=76281980&t=137)** Occasionally, bring in AI researchers, industry leaders and vendors specializing in AI solutions to keep the range of instruction fresh.
+> **[2:17](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/training-the-whole-company-on-generative-ai?u=76281980&t=137)** Occasionally, bring in AI researchers, industry leaders and vendors specializing in [[AI Solutions]] to keep the range of instruction fresh.
 >
 > **[2:28](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/training-the-whole-company-on-generative-ai?u=76281980&t=148)** Plan for generative AI training for new hires as part of their onboarding, and create a learning library where people can share new use cases, as well as tricks, tips, and traps to avoid.
 >
@@ -1246,21 +1230,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (7), ai (4), career (1), [[Ethics]] (1), management (1)
+> **Frameworks & Libraries:** [[Generative AI]] (7), [[Ethics]] (1), [[Privacy]] (1), [[Microsoft Office|Office]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Integrating GenAI into processes, products, and services
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/integrating-gen-ai-into-processes-products-and-services?u=76281980)
+#### [Integrating GenAI into processes, products, and services](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/integrating-gen-ai-into-processes-products-and-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/integrating-gen-ai-into-processes-products-and-services?u=76281980&t=0)** - [Instructor] So far, we've focused on you as an individual using generative AI to boost your own capabilities.
+> **[0:00](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/integrating-gen-ai-into-processes-products-and-services?u=76281980&t=0)** - [Instructor] So far, we've focused on you as an individual using [[Generative AI]] to boost your own capabilities.
 >
 > **[0:08](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/integrating-gen-ai-into-processes-products-and-services?u=76281980&t=8)** To really put your career on a rocket ship, this lesson shows the path to transforming your whole company.
 >
-> **[0:16](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/integrating-gen-ai-into-processes-products-and-services?u=76281980&t=16)** Integrating generative AI into your processes, products, and services requires all of the prior steps.
+> **[0:16](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/integrating-gen-ai-into-processes-products-and-services?u=76281980&t=16)** Integrating generative AI into your processes, [[Microsoft Products|products]], and services requires all of the prior steps.
 >
 > **[0:23](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/integrating-gen-ai-into-processes-products-and-services?u=76281980&t=23)** You have to have trained people, and before that, you will have had to produce policies and guidelines.
 >
@@ -1300,7 +1283,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/integrating-gen-ai-into-processes-products-and-services?u=76281980&t=129)** It will be as normal tomorrow as having a website is today.
 >
-> **[2:14](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/integrating-gen-ai-into-processes-products-and-services?u=76281980&t=134)** Do you really want to stand head and shoulders above the rest?
+> **[2:14](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/integrating-gen-ai-into-processes-products-and-services?u=76281980&t=134)** Do you really want to stand head and shoulders above the [[Representational State Transfer (REST)|rest]]?
 >
 > **[2:17](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/integrating-gen-ai-into-processes-products-and-services?u=76281980&t=137)** Study what Douglas Engelbart said about improving the process improvement process.
 >
@@ -1308,22 +1291,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (7), [[Microsoft Products|Products]] (5), career (1), ai (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (7), [[Microsoft Products|Products]] (5), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Measuring the value and long-term impact of GenAI
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/measuring-the-value-and-long-term-impact-of-gen-ai?u=76281980)
+#### [Measuring the value and long-term impact of GenAI](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/measuring-the-value-and-long-term-impact-of-gen-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/measuring-the-value-and-long-term-impact-of-gen-ai?u=76281980&t=0)** - [Lecturer] This generative AI stuff is wildly exciting, but how valuable is it really?
+> **[0:00](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/measuring-the-value-and-long-term-impact-of-gen-ai?u=76281980&t=0)** - [Lecturer] This [[Generative AI]] stuff is wildly exciting, but how valuable is it really?
 >
 > **[0:07](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/measuring-the-value-and-long-term-impact-of-gen-ai?u=76281980&t=7)** I want you to be able to clearly explain and report on the value this new technology brings to the table.
 >
 > **[0:14](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/measuring-the-value-and-long-term-impact-of-gen-ai?u=76281980&t=14)** This video will give you the metrics that matter and turn you into a process improvement leader.
 >
-> **[0:21](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/measuring-the-value-and-long-term-impact-of-gen-ai?u=76281980&t=21)** Let's start with standard business metrics and add creativity metrics to the mix.
+> **[0:21](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/measuring-the-value-and-long-term-impact-of-gen-ai?u=76281980&t=21)** Let's start with standard [[Business Metrics]] and add creativity metrics to the mix.
 >
 > **[0:26](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/measuring-the-value-and-long-term-impact-of-gen-ai?u=76281980&t=26)** There are five top metrics that matter to every business, increase revenue, lower expenses, make customers happier, increase productivity, and lower risk.
 >
@@ -1351,7 +1333,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/measuring-the-value-and-long-term-impact-of-gen-ai?u=76281980&t=101)** Which group came up with ideas that were the most original, the most diverse, the most feasible, likely to have the biggest business impact with the highest return on investment in the least amount of time?
 >
-> **[1:53](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/measuring-the-value-and-long-term-impact-of-gen-ai?u=76281980&t=113)** How about measuring the improvement in your research-and-development-to-product conversion rates and new-products-to-margin conversion rates?
+> **[1:53](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/measuring-the-value-and-long-term-impact-of-gen-ai?u=76281980&t=113)** How about measuring the improvement in your research-and-development-to-product conversion rates and new-[[Microsoft Products|products]]-to-margin conversion rates?
 >
 > **[2:01](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/measuring-the-value-and-long-term-impact-of-gen-ai?u=76281980&t=121)** How much faster are you able to come up with new ideas, turn them into products, and make those products profitable?
 >
@@ -1383,7 +1365,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (6), business (4), [[Microsoft Products|Products]] (3), next (3), power (1)
+> **Frameworks & Libraries:** [[Generative AI]] (6), [[Microsoft Products|Products]] (3), [[Business Metrics]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** roi (1)
 > **Analogies:** such as (1)
@@ -1394,8 +1376,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing to leverage AI to support your marketing
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/continuing-to-leverage-ai-to-support-your-marketing?u=76281980)
+#### [Continuing to leverage AI to support your marketing](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/continuing-to-leverage-ai-to-support-your-marketing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1407,9 +1388,9 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/continuing-to-leverage-ai-to-support-your-marketing?u=76281980&t=18)** You are also prepared to take a leadership role in bringing this new technology into your company, to another company, or starting your own company.
 >
-> **[0:27](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/continuing-to-leverage-ai-to-support-your-marketing?u=76281980&t=27)** For more background on machine learning, the predecessor to generative AI, take a look at my book, "Artificial Intelligence for Marketing Practical Applications."
+> **[0:27](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/continuing-to-leverage-ai-to-support-your-marketing?u=76281980&t=27)** For more background on machine learning, the predecessor to [[Generative AI]], take a look at my book, "[[Artificial Intelligence (AI)|Artificial Intelligence]] for Marketing Practical Applications."
 >
-> **[0:36](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/continuing-to-leverage-ai-to-support-your-marketing?u=76281980&t=36)** Also, check out other courses on LinkedIn Learning, like What Is Generative AI?
+> **[0:36](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/continuing-to-leverage-ai-to-support-your-marketing?u=76281980&t=36)** Also, check out other courses on [[LinkedIn]] Learning, like What Is Generative AI?
 >
 > **[0:41](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/continuing-to-leverage-ai-to-support-your-marketing?u=76281980&t=41)** [[Generative AI for Business Leaders]], [[Introduction to Generative AI with GPT]].
 >
@@ -1421,7 +1402,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (5), [[LinkedIn]] (3), leadership (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), business (1)
+> **Frameworks & Libraries:** [[Generative AI]] (5), [[LinkedIn]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** gpt (1)
 > **Speakers:** - well (1)

@@ -73,8 +73,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Benefits of Getting Things Done
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-things-done/benefits-of-getting-things-done-23474905?u=76281980)
+#### [Benefits of Getting Things Done](https://www.linkedin.com/learning/getting-things-done/benefits-of-getting-things-done-23474905?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -95,8 +94,7 @@ created: 2026-05-02
 > **Definitions:** known as (1)
 > **Speakers:** - you (1)
 
-#### The five steps of Getting Things Done
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-things-done/the-five-steps-of-getting-things-done?u=76281980)
+#### [The five steps of Getting Things Done](https://www.linkedin.com/learning/getting-things-done/the-five-steps-of-getting-things-done?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -158,7 +156,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1), in other words (1)
 > **Analogies:** picture (2)
@@ -170,8 +167,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Step 1: Capturing things
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-things-done/step-1-capturing-things?u=76281980)
+#### [Step 1: Capturing things](https://www.linkedin.com/learning/getting-things-done/step-1-capturing-things?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -233,7 +229,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/getting-things-done/step-1-capturing-things?u=76281980&t=156)** Because that's the luckiest place in the world.
 >
-> **[2:39](https://www.linkedin.com/learning/getting-things-done/step-1-capturing-things?u=76281980&t=159)** Your head is a terrible office.
+> **[2:39](https://www.linkedin.com/learning/getting-things-done/step-1-capturing-things?u=76281980&t=159)** Your head is a terrible [[Microsoft Office|office]].
 >
 > **[2:41](https://www.linkedin.com/learning/getting-things-done/step-1-capturing-things?u=76281980&t=161)** Your head is for having ideas, not for holding them.
 >
@@ -271,15 +267,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (2), cat (1)
 > **Definitions:** is a  (3)
 > **Best Practices:** best practice (2)
 > **Cross-References:** coming up (1)
 > **Speakers:** - first (1)
 
-#### Step 2: Clarifying meaning
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-things-done/step-2-clarifying-meaning?u=76281980)
+#### [Step 2: Clarifying meaning](https://www.linkedin.com/learning/getting-things-done/step-2-clarifying-meaning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -289,7 +284,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/getting-things-done/step-2-clarifying-meaning?u=76281980&t=6)** Well, in a way, you could think of it as processing the stuff that you've captured.
 >
-> **[0:11](https://www.linkedin.com/learning/getting-things-done/step-2-clarifying-meaning?u=76281980&t=11)** Most people still have some thinking and decision-making about stuff that's on their lists.
+> **[0:11](https://www.linkedin.com/learning/getting-things-done/step-2-clarifying-meaning?u=76281980&t=11)** Most people still have some thinking and [[Decision-Making]] about stuff that's on their lists.
 >
 > **[0:17](https://www.linkedin.com/learning/getting-things-done/step-2-clarifying-meaning?u=76281980&t=17)** Very often I'll see things on a to-do list that look like "Mom" or "Bank" or "Doctor" or "Strategic plan," and that's great.
 >
@@ -389,15 +384,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), [[Decision-Making]] (3)
+> **Frameworks & Libraries:** [[Decision-Making]] (3)
 > **Definitions:** is a  (4), is an  (2)
 > **CLI Commands:** make (3)
 > **Analogies:** for instance (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - so (1)
 
-#### Do, delegate, defer
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-things-done/do-delegate-defer-23480316?u=76281980)
+#### [Do, delegate, defer](https://www.linkedin.com/learning/getting-things-done/do-delegate-defer-23480316?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -455,7 +449,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/getting-things-done/do-delegate-defer-23480316?u=76281980&t=115)** That's then what I need to then organize as a reminder of work to do that only I can do.
 >
-> **[2:00](https://www.linkedin.com/learning/getting-things-done/do-delegate-defer-23480316?u=76281980&t=120)** That's a long document I need to draft, or that's a spreadsheet that I need to fill out or to design, or that's a presentation that I actually need to craft in PowerPoint or Keynote.
+> **[2:00](https://www.linkedin.com/learning/getting-things-done/do-delegate-defer-23480316?u=76281980&t=120)** That's a long document I need to draft, or that's a spreadsheet that I need to fill out or to design, or that's a presentation that I actually need to craft in [[Microsoft PowerPoint|PowerPoint]] or Keynote.
 >
 > **[2:11](https://www.linkedin.com/learning/getting-things-done/do-delegate-defer-23480316?u=76281980&t=131)** You might want to see are there any two-minute actions sitting around you that you could do right now just to get a feel for that.
 >
@@ -473,12 +467,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Microsoft PowerPoint|Powerpoint]] (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Speakers:** - once (1)
 
-#### Step 3: Organizing where things belong
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-things-done/step-3-organizing-where-things-belong?u=76281980)
+#### [Step 3: Organizing where things belong](https://www.linkedin.com/learning/getting-things-done/step-3-organizing-where-things-belong?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -502,7 +495,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/getting-things-done/step-3-organizing-where-things-belong?u=76281980&t=72)** So people have found organizing them by context to be very useful.
 >
-> **[1:15](https://www.linkedin.com/learning/getting-things-done/step-3-organizing-where-things-belong?u=76281980&t=75)** For instance, you could create an at office list or an at phone list or an at computer list.
+> **[1:15](https://www.linkedin.com/learning/getting-things-done/step-3-organizing-where-things-belong?u=76281980&t=75)** For instance, you could create an at [[Microsoft Office|office]] list or an at phone list or an at computer list.
 >
 > **[1:21](https://www.linkedin.com/learning/getting-things-done/step-3-organizing-where-things-belong?u=76281980&t=81)** Common one is errands.
 >
@@ -528,14 +521,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** means that (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - well (1)
 
-#### Step 4: Reflecting on and reviewing your tasks
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-things-done/step-4-reflecting-on-and-reviewing-your-tasks?u=76281980)
+#### [Step 4: Reflecting on and reviewing your tasks](https://www.linkedin.com/learning/getting-things-done/step-4-reflecting-on-and-reviewing-your-tasks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -595,14 +587,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **CLI Commands:** make (6)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - well (1)
 
-#### Step 5: Engaging the tasks
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-things-done/step-5-engaging-the-tasks?u=76281980)
+#### [Step 5: Engaging the tasks](https://www.linkedin.com/learning/getting-things-done/step-5-engaging-the-tasks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -656,7 +646,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (1)
 > **CLI Commands:** make (5)
 > **Best Practices:** best practice (2)
 > **Definitions:** is an  (1)
@@ -667,8 +656,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What makes getting things done different?
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-things-done/what-makes-getting-things-done-different-23474904?u=76281980)
+#### [What makes getting things done different?](https://www.linkedin.com/learning/getting-things-done/what-makes-getting-things-done-different-23474904?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -696,7 +684,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/getting-things-done/what-makes-getting-things-done-different-23474904?u=76281980&t=93)** That's where people's attention is.
 >
-> **[1:35](https://www.linkedin.com/learning/getting-things-done/what-makes-getting-things-done-different-23474904?u=76281980&t=95)** So we meet people where they are and then allow them to get control of that, and once they see how to do that, they can do that for the rest of their life about anything.
+> **[1:35](https://www.linkedin.com/learning/getting-things-done/what-makes-getting-things-done-different-23474904?u=76281980&t=95)** So we meet people where they are and then allow them to get control of that, and once they see how to do that, they can do that for the [[Representational State Transfer (REST)|rest]] of their life about anything.
 >
 > **[1:43](https://www.linkedin.com/learning/getting-things-done/what-makes-getting-things-done-different-23474904?u=76281980&t=103)** We're focused on priorities all the time. All the time.
 >
@@ -710,13 +698,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (3), [[Representational State Transfer (REST)|Rest]] (1), hit (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** gtd (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - one (1)
 
-#### How long does it take to implement?
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-things-done/how-long-does-it-take-to-implement-23478704?u=76281980)
+#### [How long does it take to implement?](https://www.linkedin.com/learning/getting-things-done/how-long-does-it-take-to-implement-23478704?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -766,13 +753,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), game (1), power (1)
 > **Env Vars:** roi (1)
 > **Definitions:** is called (1)
 > **Speakers:** - we (1)
 
-#### How do I stick with it?
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-things-done/how-do-i-stick-with-it-23477836?u=76281980)
+#### [How do I stick with it?](https://www.linkedin.com/learning/getting-things-done/how-do-i-stick-with-it-23477836?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -808,14 +793,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), game (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** kind of like (1)
 > **Speakers:** - i (1)
 
-#### How to scale Getting Things Done
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-things-done/how-to-scale-getting-things-done-23478707?u=76281980)
+#### [How to scale Getting Things Done](https://www.linkedin.com/learning/getting-things-done/how-to-scale-getting-things-done-23478707?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -851,7 +834,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), business (1)
 > **Env Vars:** gtd (4)
 > **Analogies:** it's like (1)
 > **Speakers:** - this (1)
@@ -861,8 +843,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting started with Getting Things Done
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-things-done/getting-started-with-getting-things-done?u=76281980)
+#### [Getting started with Getting Things Done](https://www.linkedin.com/learning/getting-things-done/getting-started-with-getting-things-done?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -902,7 +883,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Warnings:** caution (1)

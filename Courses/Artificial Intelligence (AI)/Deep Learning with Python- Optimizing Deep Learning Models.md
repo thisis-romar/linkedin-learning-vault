@@ -95,12 +95,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Optimizing deep learning models
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/optimizing-deep-learning-models?u=76281980)
+#### [Optimizing deep learning models](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/optimizing-deep-learning-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/optimizing-deep-learning-models?u=76281980&t=0)** - Achieving optimal performance with deep learning models requires more than just building a deep neural network.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/optimizing-deep-learning-models?u=76281980&t=0)** - Achieving optimal performance with [[Deep Learning]] models requires more than just building a deep neural network.
 >
 > **[0:06](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/optimizing-deep-learning-models?u=76281980&t=6)** It demands an understanding of how to optimize these models to ensure efficiency, stability, and generalization.
 >
@@ -114,7 +113,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/optimizing-deep-learning-models?u=76281980&t=29)** That's what we'll cover in this course.
 >
-> **[0:31](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/optimizing-deep-learning-models?u=76281980&t=31)** You'll learn not just the theory behind these methods, but also how to implement them effectively in deep learning workflows using Python.
+> **[0:31](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/optimizing-deep-learning-models?u=76281980&t=31)** You'll learn not just the theory behind these methods, but also how to implement them effectively in deep learning workflows using [[Python (Programming Language)|Python]].
 >
 > **[0:40](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/optimizing-deep-learning-models?u=76281980&t=40)** My name is Fred Nwanganga.
 >
@@ -124,18 +123,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Deep Learning]] (3), [[Python (Programming Language)|Python]] (1), data (1), ai (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (3), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - achieving (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/what-you-should-know?u=76281980&t=0)** - [Presenter] Before we get started, let's go over some of the background knowledge that you should have in order to get the most out of this course.
 >
-> **[0:07](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/what-you-should-know?u=76281980&t=7)** First, I assume that you have a fundamental understanding of neural networks and deep learning, if you don't, I recommend that you review the first course of the series, "Deep Learning with Python: Foundations."
+> **[0:07](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/what-you-should-know?u=76281980&t=7)** First, I assume that you have a fundamental understanding of [[Neural Networks]] and [[Deep Learning]], if you don't, I recommend that you review the first course of the series, "Deep Learning with [[Python (Programming Language)|Python]]: Foundations."
 >
 > **[0:21](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/what-you-should-know?u=76281980&t=21)** Second, it'll be helpful if you are reasonably comfortable coding in Python.
 >
@@ -152,18 +150,17 @@ created: 2026-05-02
 > **Tools:** jupyter (1)
 > **Speakers:** - [presenter] (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/using-the-exercise-files?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/using-the-exercise-files?u=76281980&t=0)** - [Instructor] This course is delivered using GitHub Codespaces, a development environment hosted in the cloud.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/using-the-exercise-files?u=76281980&t=0)** - [Instructor] This course is delivered using [[GitHub]] [[Codespaces]], a development environment hosted in the cloud.
 >
 > **[0:07](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/using-the-exercise-files?u=76281980&t=7)** You won't have to install packages or set up anything.
 >
 > **[0:10](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/using-the-exercise-files?u=76281980&t=10)** It's all done for you in the environment.
 >
-> **[0:14](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/using-the-exercise-files?u=76281980&t=14)** The best way to become proficient in optimizing the deep learning model in Python is to practice doing so yourself.
+> **[0:14](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/using-the-exercise-files?u=76281980&t=14)** The best way to become proficient in optimizing the [[Deep Learning]] model in [[Python (Programming Language)|Python]] is to practice doing so yourself.
 >
 > **[0:21](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/using-the-exercise-files?u=76281980&t=21)** The exercise files you need for this course will be provided to you in the course GitHub repo.
 >
@@ -193,7 +190,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (3), [[Codespaces]] (1), cloud (1), [[Deep Learning]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Codespaces]] (1), [[Deep Learning]] (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (3), means that (1)
 > **Tools:** github (3)
 > **Exercise Files:** exercise files (2), github repo (1)
@@ -206,12 +203,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The importance of optimizing deep learning models
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/the-importance-of-optimizing-deep-learning-models?u=76281980)
+#### [The importance of optimizing deep learning models](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/the-importance-of-optimizing-deep-learning-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/the-importance-of-optimizing-deep-learning-models?u=76281980&t=0)** - [Instructor] Optimizing a deep learning model involves a range of strategies and algorithms aimed at improving the performance of neural networks during training and evaluation.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/the-importance-of-optimizing-deep-learning-models?u=76281980&t=0)** - [Instructor] Optimizing a [[Deep Learning]] model involves a range of strategies and [[Algorithms]] aimed at improving the performance of [[Neural Networks]] during training and evaluation.
 >
 > **[0:11](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/the-importance-of-optimizing-deep-learning-models?u=76281980&t=11)** The goal is to strike the right balance between training efficiency and model generalizability.
 >
@@ -229,7 +225,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/the-importance-of-optimizing-deep-learning-models?u=76281980&t=68)** Model optimization involves various strategies and techniques, each contributing uniquely to building a robust deep learning model.
 >
-> **[1:17](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/the-importance-of-optimizing-deep-learning-models?u=76281980&t=77)** Continuous monitoring of training and validation metrics helps identify overfitting or underfitting early.
+> **[1:17](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/the-importance-of-optimizing-deep-learning-models?u=76281980&t=77)** [[Continuous Monitoring]] of training and validation metrics helps identify overfitting or underfitting early.
 >
 > **[1:24](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/the-importance-of-optimizing-deep-learning-models?u=76281980&t=84)** This feedback loop guides adjustments to ensure the model stays on track.
 >
@@ -255,7 +251,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Deep Learning]] (4), data (3), [[Algorithms]] (1), [[Neural Networks]] (1), [[Continuous Monitoring]] (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (4), [[Algorithms]] (1), [[Neural Networks]] (1), [[Continuous Monitoring]] (1)
 > **Analogies:** such as (4)
 > **Env Vars:** adam (1)
 > **Definitions:** is a  (1)
@@ -266,8 +262,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The bias-variance trade-off
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/the-bias-variance-tradeoff?u=76281980)
+#### [The bias-variance trade-off](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/the-bias-variance-tradeoff?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -277,7 +272,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/the-bias-variance-tradeoff?u=76281980&t=18)** When a model has high bias, it struggles to capture the underlying complexity of the data, leading to poor performance on both the training and test sets, a situation known as underfitting.
 >
-> **[0:31](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/the-bias-variance-tradeoff?u=76281980&t=31)** For example, using the linear regression model on non-linear data results in high bias because the linear model oversimplifies the relationship, missing critical patterns and producing inaccurate predictions.
+> **[0:31](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/the-bias-variance-tradeoff?u=76281980&t=31)** For example, using the [[Linear Regression]] model on non-linear data results in high bias because the linear model oversimplifies the relationship, missing critical patterns and producing inaccurate predictions.
 >
 > **[0:46](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/the-bias-variance-tradeoff?u=76281980&t=46)** In contrast, variance refers to errors caused by a model being overly sensitive to the details of the training data.
 >
@@ -305,7 +300,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/the-bias-variance-tradeoff?u=76281980&t=166)** Adjusting key hyperparameters such as the learning rate, batch size, or model depth can allow the model to better capture the underlying patterns.
 >
-> **[2:56](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/the-bias-variance-tradeoff?u=76281980&t=176)** Selecting more advanced architectures like convolutional neural networks can also be beneficial, particularly when working with complex data where simpler models fall short.
+> **[2:56](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/the-bias-variance-tradeoff?u=76281980&t=176)** Selecting more advanced architectures like [[Convolutional Neural Networks (CNN)|convolutional neural networks]] can also be beneficial, particularly when working with complex data where simpler models fall short.
 >
 > **[3:08](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/the-bias-variance-tradeoff?u=76281980&t=188)** Additionally, using the appropriate optimizer can significantly improve the training process, enabling the model to converge more effectively and learn complex patterns.
 >
@@ -313,14 +308,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Linear Regression]] (1), application (1), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (1), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1)
 > **Definitions:** refers to (2), known as (2), is a  (1)
 > **Analogies:** such as (2), for example (1), for instance (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Lasso and ridge regularization
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/lasso-and-ridge-regularization?u=76281980)
+#### [Lasso and ridge regularization](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/lasso-and-ridge-regularization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -360,7 +354,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/lasso-and-ridge-regularization?u=76281980&t=175)** L2 regularization is particularly effective in situations where all input features are expected to contribute meaningfully to the prediction what should be controlled to prevent overfitting.
 >
-> **[3:07](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/lasso-and-ridge-regularization?u=76281980&t=187)** For example, in a deep learning model used for image classification where every pixel might hold some importance, L2 regularization helps balance the contribution of each feature by preventing some weights from becoming excessively large.
+> **[3:07](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/lasso-and-ridge-regularization?u=76281980&t=187)** For example, in a [[Deep Learning]] model used for image classification where every pixel might hold some importance, L2 regularization helps balance the contribution of each feature by preventing some weights from becoming excessively large.
 >
 > **[3:22](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/lasso-and-ridge-regularization?u=76281980&t=202)** This helps maintain a smooth decision boundary, which is crucial for making accurate predictions on new data.
 >
@@ -372,17 +366,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), feature (5), [[Deep Learning]] (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (1)
 > **Definitions:** is a  (2), known as (2)
 > **Analogies:** for instance (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Applying L1 regularization to a deep learning model
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/applying-l1-regularization-to-a-deep-learning-model?u=76281980)
+#### [Applying L1 regularization to a deep learning model](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/applying-l1-regularization-to-a-deep-learning-model?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/applying-l1-regularization-to-a-deep-learning-model?u=76281980&t=0)** - [Instructor] In this video, you will learn how to apply L1 Regularization, also known as Lasso regularization, to a deep learning model in order to reduce overfitting, I will be running the code in the 02_03e file.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/applying-l1-regularization-to-a-deep-learning-model?u=76281980&t=0)** - [Instructor] In this video, you will learn how to apply L1 Regularization, also known as Lasso regularization, to a [[Deep Learning]] model in order to reduce overfitting, I will be running the code in the 02_03e file.
 >
 > **[0:16](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/applying-l1-regularization-to-a-deep-learning-model?u=76281980&t=16)** You can follow along by completing the empty code cells in the 02_03b file.
 >
@@ -404,7 +397,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/applying-l1-regularization-to-a-deep-learning-model?u=76281980&t=80)** This means that the regularization parameter is set to 0.001.
 >
-> **[1:25](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/applying-l1-regularization-to-a-deep-learning-model?u=76281980&t=85)** So to do this, we begin by importing l1 from tensorflow.keras.regularizers.
+> **[1:25](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/applying-l1-regularization-to-a-deep-learning-model?u=76281980&t=85)** So to do this, we begin by importing l1 from [[TensorFlow]].keras.regularizers.
 >
 > **[1:32](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/applying-l1-regularization-to-a-deep-learning-model?u=76281980&t=92)** Then we define our model.
 >
@@ -434,11 +427,11 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/applying-l1-regularization-to-a-deep-learning-model?u=76281980&t=192)** Good job.
 >
-> **[3:13](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/applying-l1-regularization-to-a-deep-learning-model?u=76281980&t=193)** You now know how to use L1 Regularization to reduce overfitting in a deep learning model in Python.
+> **[3:13](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/applying-l1-regularization-to-a-deep-learning-model?u=76281980&t=193)** You now know how to use L1 Regularization to reduce overfitting in a deep learning model in [[Python (Programming Language)|Python]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Deep Learning]] (2), [[TensorFlow]] (1), next (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (2), [[TensorFlow]] (1), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** kernel_regularizer (2), batch_size (1), validation_split (1)
 > **Versions:** 0.001 (2), 0.1 (1)
 > **CLI Commands:** make (1), python (1)
@@ -446,12 +439,11 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Applying L2 regularization to a deep learning model
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/applying-l2-regularization-to-a-deep-learning-model?u=76281980)
+#### [Applying L2 regularization to a deep learning model](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/applying-l2-regularization-to-a-deep-learning-model?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/applying-l2-regularization-to-a-deep-learning-model?u=76281980&t=0)** - [Instructor] In this video, you will learn how to apply L2 Regularization, also known as Ridge Regularization, to a deep learning model in order to reduce overfitting, I'll be writing a code in the 02_04e file.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/applying-l2-regularization-to-a-deep-learning-model?u=76281980&t=0)** - [Instructor] In this video, you will learn how to apply L2 Regularization, also known as Ridge Regularization, to a [[Deep Learning]] model in order to reduce overfitting, I'll be writing a code in the 02_04e file.
 >
 > **[0:15](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/applying-l2-regularization-to-a-deep-learning-model?u=76281980&t=15)** You can follow along by completing the empty code cells in the 02_04b file.
 >
@@ -473,7 +465,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/applying-l2-regularization-to-a-deep-learning-model?u=76281980&t=74)** So in this example, we set the regularization parameter to 0.001.
 >
-> **[1:21](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/applying-l2-regularization-to-a-deep-learning-model?u=76281980&t=81)** Before we begin, we import L2 from tensorflow.keras.regularizers.
+> **[1:21](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/applying-l2-regularization-to-a-deep-learning-model?u=76281980&t=81)** Before we begin, we import L2 from [[TensorFlow]].keras.regularizers.
 >
 > **[1:28](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/applying-l2-regularization-to-a-deep-learning-model?u=76281980&t=88)** Then we define our model.
 >
@@ -505,11 +497,11 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/applying-l2-regularization-to-a-deep-learning-model?u=76281980&t=187)** Great work.
 >
-> **[3:08](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/applying-l2-regularization-to-a-deep-learning-model?u=76281980&t=188)** You now know how to use L2 Regularization to reduce overfitting in a deep learning model in Python.
+> **[3:08](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/applying-l2-regularization-to-a-deep-learning-model?u=76281980&t=188)** You now know how to use L2 Regularization to reduce overfitting in a deep learning model in [[Python (Programming Language)|Python]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Deep Learning]] (2), [[TensorFlow]] (1), next (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (2), [[TensorFlow]] (1), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** kernel_regularizer (2), batch_size (1), validation_split (1)
 > **Definitions:** is a  (2), known as (1), means that (1)
 > **CLI Commands:** make (1), python (1)
@@ -517,8 +509,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Elastic Net regularization
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/elasticnet-regularization?u=76281980)
+#### [Elastic Net regularization](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/elasticnet-regularization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -552,17 +543,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (4), data (1)
 > **Definitions:** defined as (1), is a  (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dropout regularization
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/dropout-regularization?u=76281980)
+#### [Dropout regularization](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/dropout-regularization?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/dropout-regularization?u=76281980&t=0)** - [Instructor] Dropout regularization is a powerful and widely used technique in deep learning designed to prevent overfitting in neural networks.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/dropout-regularization?u=76281980&t=0)** - [Instructor] Dropout regularization is a powerful and widely used technique in [[Deep Learning]] designed to prevent overfitting in [[Neural Networks]].
 >
 > **[0:09](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/dropout-regularization?u=76281980&t=9)** Overfitting occurs when a model learns not just the true underlying patterns in the training data, but also the noise and irrelevant details, leading to poor generalization on unseen data.
 >
@@ -594,7 +583,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/dropout-regularization?u=76281980&t=121)** Secondly, dropout is easy to implement and computationally inexpensive, making it an attractive option for regularizing neural networks.
 >
-> **[2:11](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/dropout-regularization?u=76281980&t=131)** Finally, dropout has been shown to improve the generalization of various types of neural networks, including feedforward networks, convolutional neural networks, and recurrent neural networks.
+> **[2:11](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/dropout-regularization?u=76281980&t=131)** Finally, dropout has been shown to improve the generalization of various types of neural networks, including feedforward networks, [[Convolutional Neural Networks (CNN)|convolutional neural networks]], and recurrent neural networks.
 >
 > **[2:24](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/dropout-regularization?u=76281980&t=144)** There are some limitations to dropout regularization.
 >
@@ -604,17 +593,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Neural Networks]] (4), data (4), [[Deep Learning]] (1), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (4), [[Deep Learning]] (1), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Applying dropout regularization to a deep learning model
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/applying-dropout-regularization-to-a-deep-learning-model?u=76281980)
+#### [Applying dropout regularization to a deep learning model](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/applying-dropout-regularization-to-a-deep-learning-model?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/applying-dropout-regularization-to-a-deep-learning-model?u=76281980&t=0)** - [Instructor] In this video, you will learn how to apply dropout regularization to a deep learning model in order to reduce overfitting.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/applying-dropout-regularization-to-a-deep-learning-model?u=76281980&t=0)** - [Instructor] In this video, you will learn how to apply dropout regularization to a [[Deep Learning]] model in order to reduce overfitting.
 >
 > **[0:09](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/applying-dropout-regularization-to-a-deep-learning-model?u=76281980&t=9)** I'll be writing the code in the 02_07e file.
 >
@@ -638,7 +626,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/applying-dropout-regularization-to-a-deep-learning-model?u=76281980&t=86)** Here we specify the dropout percentage as 0.5, which means that 50% of the neurons will be zeroed out during each forward pass.
 >
-> **[1:36](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/applying-dropout-regularization-to-a-deep-learning-model?u=76281980&t=96)** To begin, we import dropout from tensorflow.keras.layers.
+> **[1:36](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/applying-dropout-regularization-to-a-deep-learning-model?u=76281980&t=96)** To begin, we import dropout from [[TensorFlow]].keras.layers.
 >
 > **[1:43](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/applying-dropout-regularization-to-a-deep-learning-model?u=76281980&t=103)** Then when we define the structure of our model, we include a dropout layer in between each of the dense layers.
 >
@@ -666,11 +654,11 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/applying-dropout-regularization-to-a-deep-learning-model?u=76281980&t=190)** Excellent work.
 >
-> **[3:11](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/applying-dropout-regularization-to-a-deep-learning-model?u=76281980&t=191)** You now know how to use dropouts regularization to reduce overfitting in a deep learning model in Python.
+> **[3:11](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/applying-dropout-regularization-to-a-deep-learning-model?u=76281980&t=191)** You now know how to use dropouts regularization to reduce overfitting in a deep learning model in [[Python (Programming Language)|Python]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Deep Learning]] (2), [[TensorFlow]] (1), next (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (2), [[TensorFlow]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (1), python (1)
 > **Versions:** 0.5 (1), 0.1 (1)
 > **Definitions:** is a  (1), means that (1)
@@ -683,14 +671,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Common loss functions in deep learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/common-loss-functions-in-deep-learning?u=76281980)
+#### [Common loss functions in deep learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/common-loss-functions-in-deep-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/common-loss-functions-in-deep-learning?u=76281980&t=0)** - [Instructor] In machine learning, a loss function is a mathematical function that quantifies the error or difference between the predicted outputs of a model, and the actual target values in the training data.
 >
-> **[0:13](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/common-loss-functions-in-deep-learning?u=76281980&t=13)** In deep learning, loss functions serve as the foundation for training neural networks, as they provide the feedback or error necessary for the optimization process to update the model's parameters, which are the weights and the biases.
+> **[0:13](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/common-loss-functions-in-deep-learning?u=76281980&t=13)** In [[Deep Learning]], loss functions serve as the foundation for training [[Neural Networks]], as they provide the feedback or error necessary for the optimization process to update the model's parameters, which are the weights and the biases.
 >
 > **[0:27](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/common-loss-functions-in-deep-learning?u=76281980&t=27)** By minimizing the value of the loss function, the model learns to make predictions that are increasingly accurate over time.
 >
@@ -724,7 +711,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/common-loss-functions-in-deep-learning?u=76281980&t=175)** For multi-class classification problems, where the goal is to assign an input to one of several possible classes, the categorical cross-entropy loss is widely used.
 >
-> **[3:07](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/common-loss-functions-in-deep-learning?u=76281980&t=187)** Similar to binary cross-entropy, this loss function compares the predictive probability distribution over all classes with the actual class labels.
+> **[3:07](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/common-loss-functions-in-deep-learning?u=76281980&t=187)** Similar to binary cross-entropy, this loss function compares the predictive [[Probability]] distribution over all classes with the actual class labels.
 >
 > **[3:17](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/common-loss-functions-in-deep-learning?u=76281980&t=197)** Mathematically, it is defined as shown here, where N is a number of samples, K is a number of classes, YIJ is a binary indicator for whether sample I belongs to class J, and Y hat IJ is the predicted probability for sample I being in Class J.
 >
@@ -746,19 +733,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Deep Learning]] (3), data (2), [[Probability]] (2), [[Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (3), [[Probability]] (2), [[Neural Networks]] (1)
 > **Definitions:** is a  (6), defined as (2), known as (1)
 > **Env Vars:** mse (4), mae (2), yij (1)
 > **Analogies:** for example (1), similar to (1), for instance (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Batch gradient descent
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/batch-gradient-descent?u=76281980)
+#### [Batch gradient descent](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/batch-gradient-descent?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/batch-gradient-descent?u=76281980&t=0)** - [Instructor] In deep learning, optimization algorithms play a fundamental role in how neural networks are trained.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/batch-gradient-descent?u=76281980&t=0)** - [Instructor] In [[Deep Learning]], optimization [[Algorithms]] play a fundamental role in how [[Neural Networks]] are trained.
 >
 > **[0:07](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/batch-gradient-descent?u=76281980&t=7)** They govern how the weights and biases of a model are updated during each iteration of training to minimize the loss function.
 >
@@ -816,14 +802,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (4), [[Deep Learning]] (3), data (2), [[Neural Networks]] (1), strengths (1)
+> **Frameworks & Libraries:** [[Algorithms]] (4), [[Deep Learning]] (3), [[Neural Networks]] (1)
 > **CLI Commands:** find (2)
 > **Analogies:** imagine (1), such as (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Stochastic gradient descent (SGD)
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/stochastic-gradient-descent-sgd?u=76281980)
+#### [Stochastic gradient descent (SGD)](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/stochastic-gradient-descent-sgd?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -847,7 +832,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/stochastic-gradient-descent-sgd?u=76281980&t=78)** The noise in the updates can help the algorithm jump out of suboptimal solutions and potentially find a better global minimum.
 >
-> **[1:26](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/stochastic-gradient-descent-sgd?u=76281980&t=86)** This makes SGD particularly useful in training deep learning models with complex loss surfaces where local minima are common obstacles.
+> **[1:26](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/stochastic-gradient-descent-sgd?u=76281980&t=86)** This makes SGD particularly useful in training [[Deep Learning]] models with complex loss surfaces where local minima are common obstacles.
 >
 > **[1:37](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/stochastic-gradient-descent-sgd?u=76281980&t=97)** However, the high variance in updates is also one of SGD's significant limitations.
 >
@@ -871,14 +856,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Deep Learning]] (1), parallel (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (1)
 > **Env Vars:** sgd (8)
 > **CLI Commands:** find (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Mini-batch gradient descent
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/mini-batch-gradient-descent?u=76281980)
+#### [Mini-batch gradient descent](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/mini-batch-gradient-descent?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -892,7 +876,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/mini-batch-gradient-descent?u=76281980&t=38)** One of the primary benefits of mini-batch gradient descent is its computational efficiency.
 >
-> **[0:44](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/mini-batch-gradient-descent?u=76281980&t=44)** By processing batches of data, it leverages the power of vectorization and optimized hardware like GPUs and TPUs.
+> **[0:44](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/mini-batch-gradient-descent?u=76281980&t=44)** By processing batches of data, it leverages the power of vectorization and optimized [[Hardware]] like GPUs and TPUs.
 >
 > **[0:53](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/mini-batch-gradient-descent?u=76281980&t=53)** This can significantly speed up computations compared to processing single samples as in SGD.
 >
@@ -912,7 +896,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/mini-batch-gradient-descent?u=76281980&t=113)** Smaller batches can be used when memory is limited, while larger batches can exploit more computational power when available.
 >
-> **[2:01](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/mini-batch-gradient-descent?u=76281980&t=121)** This adaptability makes many batch gradient descent a versatile tool in the deep learning toolkit.
+> **[2:01](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/mini-batch-gradient-descent?u=76281980&t=121)** This adaptability makes many batch gradient descent a versatile tool in the [[Deep Learning]] toolkit.
 >
 > **[2:09](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/mini-batch-gradient-descent?u=76281980&t=129)** However, choosing the optimal batch size can be tricky and may require experimentation.
 >
@@ -926,7 +910,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/mini-batch-gradient-descent?u=76281980&t=168)** This can become a problem when dealing with very large datasets or when working with models that have a large number of parameters.
 >
-> **[2:55](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/mini-batch-gradient-descent?u=76281980&t=175)** In such cases, even mini-batch gradient descent can become resource intensive, potentially necessitating the use of specialized hardware or cloud computing resources.
+> **[2:55](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/mini-batch-gradient-descent?u=76281980&t=175)** In such cases, even mini-batch gradient descent can become resource intensive, potentially necessitating the use of specialized hardware or [[Cloud Computing]] resources.
 >
 > **[3:07](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/mini-batch-gradient-descent?u=76281980&t=187)** Lastly, mini-batch gradient descent may still converge to a suboptimal solution if the batch size is not appropriately chosen.
 >
@@ -936,14 +920,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Hardware]] (3), power (2), parallel (1), [[Deep Learning]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[Deep Learning]] (1), [[Cloud Computing]] (1)
 > **Env Vars:** sgd (5)
 > **Analogies:** similar to (2), picture (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [presenter] (1)
 
-#### Adaptive Gradient Algorithm (AdaGrad)
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/adaptive-gradient-algorithm-adagrad?u=76281980)
+#### [Adaptive Gradient Algorithm (AdaGrad)](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/adaptive-gradient-algorithm-adagrad?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -961,11 +944,11 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/adaptive-gradient-algorithm-adagrad?u=76281980&t=64)** Finding the right learning rate is crucial for effective and efficient training.
 >
-> **[1:10](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/adaptive-gradient-algorithm-adagrad?u=76281980&t=70)** Traditional optimization algorithms like sarcastic gradient descent use a fixed learning rate, which can be challenging to tune and may not be optimal throughout the learning process.
+> **[1:10](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/adaptive-gradient-algorithm-adagrad?u=76281980&t=70)** Traditional optimization [[Algorithms]] like sarcastic gradient descent use a fixed learning rate, which can be challenging to tune and may not be optimal throughout the learning process.
 >
 > **[1:21](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/adaptive-gradient-algorithm-adagrad?u=76281980&t=81)** Adaptive optimizes, on the other hand, adjust the learning rate dynamically for each parameter based on the history of gradients, allowing for more efficient and faster convergence.
 >
-> **[1:34](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/adaptive-gradient-algorithm-adagrad?u=76281980&t=94)** There are a variety of adaptive optimizers we can choose from when training a deep learning model.
+> **[1:34](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/adaptive-gradient-algorithm-adagrad?u=76281980&t=94)** There are a variety of adaptive optimizers we can choose from when training a [[Deep Learning]] model.
 >
 > **[1:41](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/adaptive-gradient-algorithm-adagrad?u=76281980&t=101)** Let's begin with AdaGrad, short for adaptive gradient algorithm.
 >
@@ -973,7 +956,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/adaptive-gradient-algorithm-adagrad?u=76281980&t=118)** This means that parameters associated with frequently occurring features receive smaller updates, while those with infrequent features receive larger updates.
 >
-> **[2:10](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/adaptive-gradient-algorithm-adagrad?u=76281980&t=130)** This property makes AdaGrad particularly well-suited for dealing with sparse data and natural language processing tasks, where some features occur much less frequently than others.
+> **[2:10](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/adaptive-gradient-algorithm-adagrad?u=76281980&t=130)** This property makes AdaGrad particularly well-suited for dealing with sparse data and [[Natural Language Processing (NLP)|natural language processing]] tasks, where some features occur much less frequently than others.
 >
 > **[2:22](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/adaptive-gradient-algorithm-adagrad?u=76281980&t=142)** One of the key benefits of AdaGrad is its ability to adapt the learning rate for each parameter.
 >
@@ -1015,13 +998,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Algorithms]] (1), [[Deep Learning]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Deep Learning]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Definitions:** means that (2), is a  (1), in other words (1), short for (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Root Mean Square Propagation (RMSProp)
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/root-mean-square-propagation-rmsprop?u=76281980)
+#### [Root Mean Square Propagation (RMSProp)](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/root-mean-square-propagation-rmsprop?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1039,7 +1021,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/root-mean-square-propagation-rmsprop?u=76281980&t=56)** RMSProp is particularly effective in training models on non-stationary objectives, where the underlying data distribution changes over time.
 >
-> **[1:06](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/root-mean-square-propagation-rmsprop?u=76281980&t=66)** It also handles noisy and sparse gradients well, making it suitable for training recurrent neural networks and other complex architectures.
+> **[1:06](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/root-mean-square-propagation-rmsprop?u=76281980&t=66)** It also handles noisy and sparse gradients well, making it suitable for training recurrent [[Neural Networks]] and other complex architectures.
 >
 > **[1:16](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/root-mean-square-propagation-rmsprop?u=76281980&t=76)** Furthermore, RMSProp is relatively easy to implement.
 >
@@ -1061,13 +1043,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adaptive Delta (AdaDelta)
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/adaptive-delta-adadelta?u=76281980)
+#### [Adaptive Delta (AdaDelta)](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/adaptive-delta-adadelta?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1079,11 +1060,11 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/adaptive-delta-adadelta?u=76281980&t=41)** By focusing on recent gradients, it maintains a consistent learning rate throughout training, facilitating better convergence.
 >
-> **[0:50](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/adaptive-delta-adadelta?u=76281980&t=50)** Additionally, AdaDelta performs well on problems with sparse gradients, similar to AdaGrad, making it suitable for various applications in natural language processing on other domains where data sparsity is a concern.
+> **[0:50](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/adaptive-delta-adadelta?u=76281980&t=50)** Additionally, AdaDelta performs well on problems with sparse gradients, similar to AdaGrad, making it suitable for various applications in [[Natural Language Processing (NLP)|natural language processing]] on other domains where data sparsity is a concern.
 >
 > **[1:06](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/adaptive-delta-adadelta?u=76281980&t=66)** While AdaDelta addresses some of the limitations of AdaGrad, it introduces additional complexity to the optimization algorithm.
 >
-> **[1:14](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/adaptive-delta-adadelta?u=76281980&t=74)** It's calculations are more intricate, which can make it more challenging to understand and implement correctly, especially for those new to deep learning.
+> **[1:14](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/adaptive-delta-adadelta?u=76281980&t=74)** It's calculations are more intricate, which can make it more challenging to understand and implement correctly, especially for those new to [[Deep Learning]].
 >
 > **[1:24](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/adaptive-delta-adadelta?u=76281980&t=84)** AdaDelta is less widely used compared to optimizers like Adam and RMSprop.
 >
@@ -1093,14 +1074,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (1), data (1), [[Deep Learning]] (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Deep Learning]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** similar to (2)
 > **Speakers:** - [instructor] (1)
 
-#### Adaptive Moment Estimation (Adam)
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/adaptive-momentum-estimation-adam?u=76281980)
+#### [Adaptive Moment Estimation (Adam)](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/adaptive-momentum-estimation-adam?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1118,7 +1098,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/adaptive-momentum-estimation-adam?u=76281980&t=50)** ADAM is designed to be competitionally efficient, have little memory requirements, and be well-suited for problems with large data and parameters.
 >
-> **[0:59](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/adaptive-momentum-estimation-adam?u=76281980&t=59)** It has become one of the most popular optimizers in deep learning due to its robust performance across a wide range of applications.
+> **[0:59](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/adaptive-momentum-estimation-adam?u=76281980&t=59)** It has become one of the most popular optimizers in [[Deep Learning]] due to its robust performance across a wide range of applications.
 >
 > **[1:07](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/adaptive-momentum-estimation-adam?u=76281980&t=67)** In fact, it is a good default choice for most problems.
 >
@@ -1126,7 +1106,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/adaptive-momentum-estimation-adam?u=76281980&t=78)** By considering both the first and second moments of the gradients, ADAM adjust the learning rates more effectively and can converge faster than other optimizers.
 >
-> **[1:29](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/adaptive-momentum-estimation-adam?u=76281980&t=89)** This makes it particularly useful for training deep neural networks and models with large parameter spaces.
+> **[1:29](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/adaptive-momentum-estimation-adam?u=76281980&t=89)** This makes it particularly useful for training deep [[Neural Networks]] and models with large parameter spaces.
 >
 > **[1:36](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/adaptive-momentum-estimation-adam?u=76281980&t=96)** ADAM often requires less tuning of hyperparameters, compared to RMSProp and AdaGrad.
 >
@@ -1148,11 +1128,11 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/adaptive-momentum-estimation-adam?u=76281980&t=169)** Also, ADAM requires additional memory to store the first and second moment estimates for each parameter.
 >
-> **[2:56](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/adaptive-momentum-estimation-adam?u=76281980&t=176)** For very large models, this can lead to increased memory usage, which might be a constraint in some environments, especially when using limited hardware resources.
+> **[2:56](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/adaptive-momentum-estimation-adam?u=76281980&t=176)** For very large models, this can lead to increased memory usage, which might be a constraint in some environments, especially when using limited [[Hardware]] resources.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Deep Learning]] (2), [[Neural Networks]] (2), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (2), [[Neural Networks]] (2), [[Hardware]] (1)
 > **Env Vars:** adam (9)
 > **Definitions:** known as (2), is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1162,12 +1142,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Parameters versus hyperparameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/parameters-versus-hyperparameters?u=76281980)
+#### [Parameters versus hyperparameters](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/parameters-versus-hyperparameters?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/parameters-versus-hyperparameters?u=76281980&t=0)** - [Instructor] In machine learning and deep learning, parameters and hyperparameters are fundamental concepts that play distinct roles in model design, training, and optimization.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/parameters-versus-hyperparameters?u=76281980&t=0)** - [Instructor] In machine learning and [[Deep Learning]], parameters and hyperparameters are fundamental concepts that play distinct roles in model design, training, and optimization.
 >
 > **[0:12](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/parameters-versus-hyperparameters?u=76281980&t=12)** Parameters are the internal variables of a model that are learned from the training data during the training process.
 >
@@ -1177,7 +1156,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/parameters-versus-hyperparameters?u=76281980&t=27)** Instead, they're optimized by the learning algorithm to minimize the loss function, which measures the difference between the model's predictions and the actual data.
 >
-> **[0:37](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/parameters-versus-hyperparameters?u=76281980&t=37)** For example, consider a simple linear regression model that predicts house prices based on square footage.
+> **[0:37](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/parameters-versus-hyperparameters?u=76281980&t=37)** For example, consider a simple [[Linear Regression]] model that predicts house prices based on square footage.
 >
 > **[0:45](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/parameters-versus-hyperparameters?u=76281980&t=45)** The model can be represented by the equation shown here, where Y is the predicted house price, X is the input feature square footage, W is the weight or slope of the line, and B, is the bias, also known as the Y intercept.
 >
@@ -1239,19 +1218,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Deep Learning]] (3), [[Linear Regression]] (1), feature (1), next (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (3), [[Linear Regression]] (1)
 > **Analogies:** for example (1), similar to (1), such as (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Key hyperparameters in deep learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/key-hyperparameters-in-deep-learning?u=76281980)
+#### [Key hyperparameters in deep learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/key-hyperparameters-in-deep-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/key-hyperparameters-in-deep-learning?u=76281980&t=0)** - [Narrator] In deep learning, hyperparameters are external settings that define how a neural network is structured and trained.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/key-hyperparameters-in-deep-learning?u=76281980&t=0)** - [Narrator] In [[Deep Learning]], hyperparameters are external settings that define how a neural network is structured and trained.
 >
 > **[0:08](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/key-hyperparameters-in-deep-learning?u=76281980&t=8)** Unlike parameters which are learned during training, hyperparameters are set before training begins and have a significant impact on the model's ability to learn and generalize.
 >
@@ -1279,7 +1257,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/key-hyperparameters-in-deep-learning?u=76281980&t=141)** A good starting point is to pick a relatively moderate batch size between 32 and 256, balancing the available computational resources with stable training behavior.
 >
-> **[2:34](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/key-hyperparameters-in-deep-learning?u=76281980&t=154)** If your hardware is limited in memory, you may need to opt for smaller batches.
+> **[2:34](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/key-hyperparameters-in-deep-learning?u=76281980&t=154)** If your [[Hardware]] is limited in memory, you may need to opt for smaller batches.
 >
 > **[2:39](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/key-hyperparameters-in-deep-learning?u=76281980&t=159)** Conversely, if you have ample GPU memory, you can try larger batches, but consider increasing the learning rates slightly to maintain a good training pace.
 >
@@ -1309,13 +1287,13 @@ created: 2026-05-02
 >
 > **[4:13](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/key-hyperparameters-in-deep-learning?u=76281980&t=253)** If the model underfits, meaning it's not capturing the complexity in your data, gradually increase depth or width and see if performance improves.
 >
-> **[4:23](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/key-hyperparameters-in-deep-learning?u=76281980&t=263)** When working on well-studied tasks, consider using well-known architectures, like ResNet for image classification, or BERT variants for natural language processing.
+> **[4:23](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/key-hyperparameters-in-deep-learning?u=76281980&t=263)** When working on well-studied tasks, consider using well-known architectures, like ResNet for image classification, or BERT variants for [[Natural Language Processing (NLP)|natural language processing]].
 >
 > **[4:34](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/key-hyperparameters-in-deep-learning?u=76281980&t=274)** These models have been extensively tested and provided a reliable starting framework.
 >
 > **[4:40](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/key-hyperparameters-in-deep-learning?u=76281980&t=280)** As the model grows in size, incorporate regularization methods like dropout, weight decay, or batch normalization to keep training stable and to prevent overfitting.
 >
-> **[4:52](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/key-hyperparameters-in-deep-learning?u=76281980&t=292)** One of the most popular and straightforward forms of regularization is dropout.
+> **[4:52](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/key-hyperparameters-in-deep-learning?u=76281980&t=292)** One of the most popular and straightforward [[Forms]] of regularization is dropout.
 >
 > **[4:58](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/key-hyperparameters-in-deep-learning?u=76281980&t=298)** The dropout rate defines a fraction of neurons randomly dropped or turned off during training.
 >
@@ -1365,7 +1343,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Deep Learning]] (2), [[Search]] (1), [[Hardware]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (2), [[Hardware]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Forms]] (1)
 > **Prerequisites:** initialization (7)
 > **Analogies:** such as (4)
 > **Versions:** 0.001 (1), 0.0001 (1), 0.1 (1)
@@ -1374,12 +1352,11 @@ created: 2026-05-02
 > **Env Vars:** gpu (1), bert (1)
 > **CLI Commands:** node (1)
 
-#### Methods for hyperparameter tuning
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/methods-for-hyperparameter-tuning?u=76281980)
+#### [Methods for hyperparameter tuning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/methods-for-hyperparameter-tuning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/methods-for-hyperparameter-tuning?u=76281980&t=0)** - [Instructor] Hyperparameter tuning is a critical step in training deep learning models as it involves finding the optimal settings for hyperparameters that control the training process and the model architecture.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/methods-for-hyperparameter-tuning?u=76281980&t=0)** - [Instructor] Hyperparameter tuning is a critical step in training [[Deep Learning]] models as it involves finding the optimal settings for hyperparameters that control the training process and the model architecture.
 >
 > **[0:13](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/methods-for-hyperparameter-tuning?u=76281980&t=13)** Unlike model parameters, which are learned automatically during training, hyperparameters must be set before training begins and directly influence the model's performance, convergence, and generalization ability.
 >
@@ -1461,19 +1438,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (21), [[Deep Learning]] (1), next (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (1)
 > **Versions:** 0.1 (2), 0.00001 (1), 0.0001 (1)
 > **Analogies:** for instance (2), for example (1), think of it like (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Defining a tunable deep learning model in Keras
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/defining-a-tunable-deep-learning-model-in-keras?u=76281980)
+#### [Defining a tunable deep learning model in Keras](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/defining-a-tunable-deep-learning-model-in-keras?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/defining-a-tunable-deep-learning-model-in-keras?u=76281980&t=1)** - [Instructor] In this video, you'll learn how to define a tuneable deep learning model in preparation for hyperparameter tuning.
+> **[0:01](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/defining-a-tunable-deep-learning-model-in-keras?u=76281980&t=1)** - [Instructor] In this video, you'll learn how to define a tuneable [[Deep Learning]] model in preparation for hyperparameter tuning.
 >
 > **[0:09](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/defining-a-tunable-deep-learning-model-in-keras?u=76281980&t=9)** I will run the code in the 04_04e file.
 >
@@ -1499,7 +1475,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/defining-a-tunable-deep-learning-model-in-keras?u=76281980&t=86)** First is the dropout layer.
 >
-> **[1:28](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/defining-a-tunable-deep-learning-model-in-keras?u=76281980&t=88)** So we import Dropout from tensorflow.keras.layers.
+> **[1:28](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/defining-a-tunable-deep-learning-model-in-keras?u=76281980&t=88)** So we import Dropout from [[TensorFlow]].keras.layers.
 >
 > **[1:33](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/defining-a-tunable-deep-learning-model-in-keras?u=76281980&t=93)** Next, we import the Adam optimizer from tensorflow.keras.optimizers.
 >
@@ -1589,7 +1565,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), next (4), [[Deep Learning]] (2), [[TensorFlow]] (2), data (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (2), [[TensorFlow]] (2)
 > **Versions:** 0.1 (5), 0.5 (3), 0.2 (1), 0.3 (1), 0.4 (1)
 > **Definitions:** is called (2), is a  (1)
 > **CLI Commands:** make (1), find (1)
@@ -1598,8 +1574,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using KerasTuner for hyperparameter tuning
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/using-kerastuner-for-hyperparameter-tuning?u=76281980)
+#### [Using KerasTuner for hyperparameter tuning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/using-kerastuner-for-hyperparameter-tuning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1671,13 +1646,13 @@ created: 2026-05-02
 >
 > **[6:42](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/using-kerastuner-for-hyperparameter-tuning?u=76281980&t=402)** So what we did here was a very basic hyperparameter search.
 >
-> **[6:45](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/using-kerastuner-for-hyperparameter-tuning?u=76281980&t=405)** We can do something much more extensive than what we've done here, but just the little part that we did here was able to improve the performance of our model, so as... If you've been following along between this video and the one before this, it means that you now know how to tune the hyperparameters of a deep-learning model in Python using Keras Tuner.
+> **[6:45](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/using-kerastuner-for-hyperparameter-tuning?u=76281980&t=405)** We can do something much more extensive than what we've done here, but just the little part that we did here was able to improve the performance of our model, so as... If you've been following along between this video and the one before this, it means that you now know how to tune the hyperparameters of a deep-learning model in [[Python (Programming Language)|Python]] using Keras Tuner.
 >
 > **[7:10](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/using-kerastuner-for-hyperparameter-tuning?u=76281980&t=430)** Good job.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (11), next (2), data (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Versions:** 0.1 (1), 0.40 (1), 0.20 (1), 0.001 (1), 0.0649 (1)
 > **CLI Commands:** find (2), make (1), python (1)
 > **Definitions:** means that (3), is a  (1)
@@ -1691,12 +1666,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Batch normalization
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/batch-normalization?u=76281980)
+#### [Batch normalization](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/batch-normalization?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/batch-normalization?u=76281980&t=0)** - [Instructor] In deep learning, as model parameters are updated during training, the distribution of input values in each layer could change as the model learns.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/batch-normalization?u=76281980&t=0)** - [Instructor] In [[Deep Learning]], as model parameters are updated during training, the distribution of input values in each layer could change as the model learns.
 >
 > **[0:11](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/batch-normalization?u=76281980&t=11)** This change known as internal covariate shift can slow down the learning process and make it more challenging.
 >
@@ -1732,25 +1706,24 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/batch-normalization?u=76281980&t=153)** It depends heavily on the mini batch size, as small mini batches may not yield accurate estimates of the mean and variance, leading to degraded performance.
 >
-> **[2:44](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/batch-normalization?u=76281980&t=164)** Additionally, the computational overhead from extra operations, such as calculating statistics and normalizing inputs can slightly increase training time.
+> **[2:44](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/batch-normalization?u=76281980&t=164)** Additionally, the computational overhead from extra operations, such as calculating [[Statistics]] and normalizing inputs can slightly increase training time.
 >
 > **[2:55](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/batch-normalization?u=76281980&t=175)** Finally, batch normalization is less effective for tasks where batch sizes are small or for recurrent architectures with long sequences.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Deep Learning]] (1), feature (1), next (1), data (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (1), [[Statistics]] (1)
 > **Definitions:** is a  (3), known as (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Prerequisites:** initialization (1)
 > **Speakers:** - [instructor] (1)
 
-#### Applying batch normalization to a deep learning model
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/applying-batch-normalization-to-a-deep-learning-model?u=76281980)
+#### [Applying batch normalization to a deep learning model](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/applying-batch-normalization-to-a-deep-learning-model?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/applying-batch-normalization-to-a-deep-learning-model?u=76281980&t=0)** - [Instructor] In this video, you'll learn how to apply batch normalization to a deep learning model.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/applying-batch-normalization-to-a-deep-learning-model?u=76281980&t=0)** - [Instructor] In this video, you'll learn how to apply batch normalization to a [[Deep Learning]] model.
 >
 > **[0:07](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/applying-batch-normalization-to-a-deep-learning-model?u=76281980&t=7)** I'll be writing the code in the 05_02e file.
 >
@@ -1762,7 +1735,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/applying-batch-normalization-to-a-deep-learning-model?u=76281980&t=39)** So the first thing I need to do here is actually select the kernel for my environment.
 >
-> **[0:44](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/applying-batch-normalization-to-a-deep-learning-model?u=76281980&t=44)** So Python Environments.
+> **[0:44](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/applying-batch-normalization-to-a-deep-learning-model?u=76281980&t=44)** So [[Python (Programming Language)|Python]] Environments.
 >
 > **[0:46](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/applying-batch-normalization-to-a-deep-learning-model?u=76281980&t=46)** I'm going to say Python 3.10.
 >
@@ -1812,7 +1785,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Deep Learning]] (4), [[Python (Programming Language)|Python]] (4), next (4), data (2)
+> **Frameworks & Libraries:** [[Deep Learning]] (4), [[Python (Programming Language)|Python]] (4)
 > **CLI Commands:** python (4)
 > **Env Vars:** gpu (2)
 > **UI Navigation:** select the (1), click on (1)
@@ -1821,12 +1794,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Gradient clipping
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/gradient-clipping?u=76281980)
+#### [Gradient clipping](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/gradient-clipping?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/gradient-clipping?u=76281980&t=0)** - [Instructor] Gradient Clipping is a technique used in deep learning to prevent the gradients of a model from becoming excessively large during training.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/gradient-clipping?u=76281980&t=0)** - [Instructor] Gradient Clipping is a technique used in [[Deep Learning]] to prevent the gradients of a model from becoming excessively large during training.
 >
 > **[0:10](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/gradient-clipping?u=76281980&t=10)** This phenomenon known as exploding gradients occurs when the gradients of the loss function respectively model's parameters grow excessively large during back propagation, this can destabilize training cause numerical issues and prevent the model from converging to an optimal solution.
 >
@@ -1878,7 +1850,7 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/gradient-clipping?u=76281980&t=249)** One of its primary advantages is that it stabilizes the training process by limiting the size of gradients, it prevents erratic updates to model parameters resulting in smoother convergence.
 >
-> **[4:21](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/gradient-clipping?u=76281980&t=261)** This stability is especially beneficial for deep networks and recurrent neural networks where exploding gradients are more common due to the long chains of back propagation through many layers or timestamps.
+> **[4:21](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/gradient-clipping?u=76281980&t=261)** This stability is especially beneficial for deep networks and recurrent [[Neural Networks]] where exploding gradients are more common due to the long chains of back propagation through many layers or timestamps.
 >
 > **[4:35](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/gradient-clipping?u=76281980&t=275)** Gradient clipping also comes with certain limitations.
 >
@@ -1898,12 +1870,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Applying gradient clipping to a deep learning model
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/applying-gradient-clipping-to-a-deep-learning-model?u=76281980)
+#### [Applying gradient clipping to a deep learning model](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/applying-gradient-clipping-to-a-deep-learning-model?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/applying-gradient-clipping-to-a-deep-learning-model?u=76281980&t=0)** - In this video, you will learn how to apply gradient clipping to a deep learning model in Python.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/applying-gradient-clipping-to-a-deep-learning-model?u=76281980&t=0)** - In this video, you will learn how to apply gradient clipping to a [[Deep Learning]] model in [[Python (Programming Language)|Python]].
 >
 > **[0:07](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/applying-gradient-clipping-to-a-deep-learning-model?u=76281980&t=7)** I'll be writing the code in the 05_04 E file.
 >
@@ -1959,15 +1930,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Deep Learning]] (4), [[Python (Programming Language)|Python]] (3), next (2)
+> **Frameworks & Libraries:** [[Deep Learning]] (4), [[Python (Programming Language)|Python]] (3)
 > **CLI Commands:** python (3), make (1)
 > **Versions:** 1.0 (2), 3.10 (1)
 > **UI Navigation:** click on (1), scroll up (1)
 > **Warnings:** note that (2)
 > **Speakers:** - in (1)
 
-#### Early stopping and checkpointing
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/early-stopping-and-checkpointing?u=76281980)
+#### [Early stopping and checkpointing](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/early-stopping-and-checkpointing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2023,17 +1993,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), data (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
-#### Learning rate scheduling
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/learning-rate-scheduling?u=76281980)
+#### [Learning rate scheduling](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/learning-rate-scheduling?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/learning-rate-scheduling?u=76281980&t=0)** - [Instructor] Learning rate scheduling is a technique used in deep learning to adjust the learning rate during the training process to improve convergence and model performance.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/learning-rate-scheduling?u=76281980&t=0)** - [Instructor] Learning rate scheduling is a technique used in [[Deep Learning]] to adjust the learning rate during the training process to improve convergence and model performance.
 >
 > **[0:11](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/learning-rate-scheduling?u=76281980&t=11)** The learning rate is one of the most important settings because it determines how the model adjust its internal parameters, weights and biases, and response to errors.
 >
@@ -2049,7 +2017,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/learning-rate-scheduling?u=76281980&t=67)** There are several strategies to learn with scheduling, each with its own unique characteristics.
 >
-> **[1:13](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/learning-rate-scheduling?u=76281980&t=73)** Step decay reduces the learning rate by a fixed factor at regular intervals, providing a straightforward way to accelerate training early on while fine tuning later.
+> **[1:13](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/learning-rate-scheduling?u=76281980&t=73)** Step decay reduces the learning rate by a fixed factor at regular intervals, providing a straightforward way to accelerate training early on while [[Fine Tuning]] later.
 >
 > **[1:24](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/learning-rate-scheduling?u=76281980&t=84)** This is like turning down the volume on a speaker in steps.
 >
@@ -2105,18 +2073,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Deep Learning]] (1), [[Fine Tuning]] (1), data (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (1), [[Fine Tuning]] (1)
 > **Analogies:** analogous to (2), think of it as (1), such as (1), for example (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Training a deep learning model using callbacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/training-a-deep-learning-model-using-callbacks?u=76281980)
+#### [Training a deep learning model using callbacks](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/training-a-deep-learning-model-using-callbacks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/training-a-deep-learning-model-using-callbacks?u=76281980&t=0)** - [Instructor] In this video, you will learn how to use callbacks to apply early stopping and linear rate scheduling to a deep learning model in Python.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/training-a-deep-learning-model-using-callbacks?u=76281980&t=0)** - [Instructor] In this video, you will learn how to use callbacks to apply early stopping and linear rate scheduling to a [[Deep Learning]] model in [[Python (Programming Language)|Python]].
 >
 > **[0:10](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/training-a-deep-learning-model-using-callbacks?u=76281980&t=10)** I'll be running the code in the 05_07e file.
 >
@@ -2224,7 +2191,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Deep Learning]] (6), [[Python (Programming Language)|Python]] (3), data (2)
+> **Frameworks & Libraries:** [[Deep Learning]] (6), [[Python (Programming Language)|Python]] (3)
 > **Code Identifiers:** early_stopping (2), restore_best_weights (1), my_callbacks (1)
 > **Definitions:** means that (2), is an  (1), known as (1)
 > **CLI Commands:** python (3)
@@ -2238,18 +2205,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing to optimize deep learning models
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/continuing-to-optimize-deep-learning-models?u=76281980)
+#### [Continuing to optimize deep learning models](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/continuing-to-optimize-deep-learning-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/continuing-to-optimize-deep-learning-models?u=76281980&t=0)** - [Instructor] Congrats on completing deep learning with Python, optimizing deep learning models.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/continuing-to-optimize-deep-learning-models?u=76281980&t=0)** - [Instructor] Congrats on completing [[Deep Learning]] with [[Python (Programming Language)|Python]], optimizing deep learning models.
 >
 > **[0:06](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/continuing-to-optimize-deep-learning-models?u=76281980&t=6)** You've taken a critical step in mastering the techniques needed to fine tune and enhance the performance of deep learning models.
 >
 > **[0:13](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/continuing-to-optimize-deep-learning-models?u=76281980&t=13)** By now, you should have a solid understanding of key optimization strategies, including regularization techniques such as lasso, ridge and dropout.
 >
-> **[0:23](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/continuing-to-optimize-deep-learning-models?u=76281980&t=23)** Advanced optimization algorithms like RMSprop and Adam.
+> **[0:23](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/continuing-to-optimize-deep-learning-models?u=76281980&t=23)** Advanced optimization [[Algorithms]] like RMSprop and Adam.
 >
 > **[0:28](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/continuing-to-optimize-deep-learning-models?u=76281980&t=28)** Approaches to hyper parameter tuning and advanced training techniques like batch normalization, early stopping, green clipping, and learning rate scheduling.
 >
@@ -2261,7 +2227,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/continuing-to-optimize-deep-learning-models?u=76281980&t=54)** The best way to solidify your understanding is through practice.
 >
-> **[0:58](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/continuing-to-optimize-deep-learning-models?u=76281980&t=58)** Take on projects that challenge you to optimize models for various tasks, such as image classification, text analysis, or time series forecasting.
+> **[0:58](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/continuing-to-optimize-deep-learning-models?u=76281980&t=58)** Take on projects that challenge you to optimize models for various tasks, such as image classification, text analysis, or time series [[Forecasting]].
 >
 > **[1:09](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/continuing-to-optimize-deep-learning-models?u=76281980&t=69)** Experiment with tuning hyper parameters, applying advanced regularization techniques, and implementing adaptive optimizers like Adam and RMSprop.
 >
@@ -2273,9 +2239,9 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/continuing-to-optimize-deep-learning-models?u=76281980&t=103)** Stay tuned for additional deep learning with Python courses in the series.
 >
-> **[1:48](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/continuing-to-optimize-deep-learning-models?u=76281980&t=108)** Additionally, you can check out other courses on recurrent neural networks and long short-term memory networks, as well as the groundbreaking transformer architecture, which has revolutionized natural language processing and other domains.
+> **[1:48](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/continuing-to-optimize-deep-learning-models?u=76281980&t=108)** Additionally, you can check out other courses on recurrent [[Neural Networks]] and long short-term memory networks, as well as the groundbreaking transformer architecture, which has revolutionized [[Natural Language Processing (NLP)|natural language processing]] and other domains.
 >
-> **[2:04](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/continuing-to-optimize-deep-learning-models?u=76281980&t=124)** Next, explore a course on convolutional neural networks to deepen your understanding of computer vision.
+> **[2:04](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/continuing-to-optimize-deep-learning-models?u=76281980&t=124)** Next, explore a course on [[Convolutional Neural Networks (CNN)|convolutional neural networks]] to deepen your understanding of [[Computer Vision]].
 >
 > **[2:11](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/continuing-to-optimize-deep-learning-models?u=76281980&t=131)** CNNs are the backbone of tasks like image classification, object detection, and segmentation, and this course will help you master the architecture and applications.
 >
@@ -2297,7 +2263,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Deep Learning]] (6), ai (4), [[Python (Programming Language)|Python]] (2), next (2), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (6), [[Python (Programming Language)|Python]] (2), [[Algorithms]] (1), [[Forecasting]] (1), [[Neural Networks]] (1)
 > **CLI Commands:** python (2)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)

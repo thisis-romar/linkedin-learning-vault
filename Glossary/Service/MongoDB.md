@@ -54,9 +54,9 @@ created: 2026-05-02
 > 21. [[React- Authentication]] — 12 mentions
 > 22. [[Node Js Security]] — 10 mentions
 > 23. [[Advanced Data Processing- Batch, Real-Time, and Cloud Architectures for AI]] — 7 mentions
-> 24. [[Create a CRM Mobile Application with React Native]] — 7 mentions
-> 25. [[React Native Ecosystem and Workflow]] — 7 mentions
-> 26. [[Azure Understanding The Big Picture]] — 6 mentions
+> 24. [[Azure Understanding The Big Picture]] — 7 mentions
+> 25. [[Create a CRM Mobile Application with React Native]] — 7 mentions
+> 26. [[React Native Ecosystem and Workflow]] — 7 mentions
 > 27. [[Choosing A Database Postgresql Mysql Mongo And Cloud]] — 5 mentions
 > 28. [[Node.js- Securing RESTful APIs]] — 4 mentions
 > 29. [[Express Essentials- Build Powerful Web Apps with Node.js]] — 4 mentions
@@ -64,24 +64,24 @@ created: 2026-05-02
 > 31. [[DevOps Foundations- Infrastructure as Code]] — 2 mentions
 > 32. [[Data Engineering Foundations]] — 2 mentions
 > 33. [[Data Planning Strategy And Compliance For Ai Initiatives]] — 2 mentions
-> 34. [[Data Ingestion with Python]] — 2 mentions
-> 35. [[Redis Essential Training]] — 2 mentions
-> 36. [[Processing Text with Python Essential Training]] — 2 mentions
-> 37. [[Learning GitHub Codespaces for Enterprise]] — 2 mentions
-> 38. [[Red Hat Certified Engineer (EX294) Cert Prep- 3 Managing Systems with Ansible]] — 2 mentions
-> 39. [[OWASP Top 10- -9 Security Logging and Monitoring Failures and -10 Server-Side Request Forgery]] — 2 mentions
-> 40. [[Programming Foundations Databases]] — 1 mentions
-> 41. [[A Beginner's Guide to Public Cloud Options]] — 1 mentions
-> 42. [[Cloud Computing Careers and Certifications]] — 1 mentions
-> 43. [[Cybersecurity with Cloud Computing]] — 1 mentions
-> 44. [[Microsoft Azure Synapse for Developers]] — 1 mentions
-> 45. [[Dependency Mapping for Cloud Migration]] — 1 mentions
-> 46. [[Cloud Architecture- Advanced Concepts]] — 1 mentions
-> 47. [[Data Management Essential Training]] — 1 mentions
-> 48. [[MLOps Essentials- Model Development and Integration]] — 1 mentions
-> 49. [[ETL in Python and SQL]] — 1 mentions
-> 50. [[Understanding Artificial Intelligence Concepts And Terminology With Iso Iec 22989]] — 1 mentions
-> 51. [[Scalable Data Storage and Processing for AI Workloads]] — 1 mentions
+> 34. [[Scalable Data Storage and Processing for AI Workloads]] — 2 mentions
+> 35. [[Data Ingestion with Python]] — 2 mentions
+> 36. [[Redis Essential Training]] — 2 mentions
+> 37. [[Processing Text with Python Essential Training]] — 2 mentions
+> 38. [[Learning GitHub Codespaces for Enterprise]] — 2 mentions
+> 39. [[Red Hat Certified Engineer (EX294) Cert Prep- 3 Managing Systems with Ansible]] — 2 mentions
+> 40. [[OWASP Top 10- -9 Security Logging and Monitoring Failures and -10 Server-Side Request Forgery]] — 2 mentions
+> 41. [[Programming Foundations Databases]] — 1 mentions
+> 42. [[A Beginner's Guide to Public Cloud Options]] — 1 mentions
+> 43. [[Cloud Computing Careers and Certifications]] — 1 mentions
+> 44. [[Cybersecurity with Cloud Computing]] — 1 mentions
+> 45. [[Microsoft Azure Synapse for Developers]] — 1 mentions
+> 46. [[Dependency Mapping for Cloud Migration]] — 1 mentions
+> 47. [[Cloud Architecture- Advanced Concepts]] — 1 mentions
+> 48. [[Data Management Essential Training]] — 1 mentions
+> 49. [[MLOps Essentials- Model Development and Integration]] — 1 mentions
+> 50. [[ETL in Python and SQL]] — 1 mentions
+> 51. [[Understanding Artificial Intelligence Concepts And Terminology With Iso Iec 22989]] — 1 mentions
 > 52. [[Build Ai Agents And Automate Workflows With N8n]] — 1 mentions
 > 53. [[Rust for Data Engineering]] — 1 mentions
 > 54. [[AWS- Storage and Data Management]] — 1 mentions

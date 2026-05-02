@@ -75,12 +75,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Practice with R programming
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-code-challenges-data-science/practice-with-r-programming?u=76281980)
+#### [Practice with R programming](https://www.linkedin.com/learning/r-code-challenges-data-science/practice-with-r-programming?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/r-code-challenges-data-science/practice-with-r-programming?u=76281980&t=0)** - [Mark] Hello, and welcome to R Code Challenges for Data Science.
+> **[0:00](https://www.linkedin.com/learning/r-code-challenges-data-science/practice-with-r-programming?u=76281980&t=0)** - [Mark] Hello, and welcome to R Code Challenges for [[Data Science]].
 >
 > **[0:04](https://www.linkedin.com/learning/r-code-challenges-data-science/practice-with-r-programming?u=76281980&t=4)** In this course, we'll explore creative and efficient ways to use R to solve a range of problems.
 >
@@ -92,12 +91,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
+> **Frameworks & Libraries:** [[Data Science]] (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [mark] (1)
 
-#### CoderPad
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-code-challenges-data-science/coderpad?u=76281980)
+#### [CoderPad](https://www.linkedin.com/learning/r-code-challenges-data-science/coderpad?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -145,7 +143,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** showpackages (3), showhints (2), showexpectedresult (1), expectedresults (1)
 > **Cross-References:** next video (1)
 > **Warnings:** note that (1)
@@ -157,12 +154,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Solution: Subsetting
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-subsetting?u=76281980)
+#### [Solution: Subsetting](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-subsetting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-subsetting?u=76281980&t=0)** - [Instructor] Working with big data almost always involves subsetting the dataset.
+> **[0:00](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-subsetting?u=76281980&t=0)** - [Instructor] Working with [[Big Data]] almost always involves subsetting the dataset.
 >
 > **[0:06](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-subsetting?u=76281980&t=6)** You only want the parts that you're interested in, and it's kind of like eating a watermelon.
 >
@@ -258,11 +254,11 @@ created: 2026-05-02
 >
 > **[5:40](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-subsetting?u=76281980&t=340)** You'll notice that I didn't have to use any flow control statements, such as switches or if then.
 >
-> **[5:47](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-subsetting?u=76281980&t=347)** This is one of the unique features of R, being able to subset databases without having to step through each line.
+> **[5:47](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-subsetting?u=76281980&t=347)** This is one of the unique features of R, being able to subset [[Databases]] without having to step through each line.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), database (2), [[Big Data]] (1), next (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Big Data]] (1), [[Databases]] (1)
 > **Code Identifiers:** worldpop (5), worldpoptime (1), worldpopdensity (1), worldpopvariant (1)
 > **Analogies:** kind of like (1), such as (1)
 > **CLI Commands:** find (1)
@@ -271,16 +267,15 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 
-#### Solution: Join three datasets
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-join-three-datasets?u=76281980)
+#### [Solution: Join three datasets](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-join-three-datasets?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-join-three-datasets?u=76281980&t=0)** - [Instructor] Data scientists spend 80% of their time 2 cleaning and joining datasets. 3 The other 20% of the time 4 they spend complaining about cleaning data sets. 5 So, cleaning and joining data sets is very important 6 and that's what this challenge is all about. 7 I've given you three data sets that are related 8 and you are asked to come up with some conclusions 9 based on houseColor versus maximumIncome. 10 Comparing house color to income 11 is a somewhat silly analysis, 12 but it's a great way to demonstrate 13 how R can be used to identify these correlations. 14 So, let's take a look at how I solve this problem. 15 You were given a set of databases, 16 AcmeData and StarResearch, asked to join them, 17
+> **[0:00](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-join-three-datasets?u=76281980&t=0)** - [Instructor] Data scientists spend 80% of their time 2 cleaning and joining datasets. 3 The other 20% of the time 4 they spend complaining about cleaning data sets. 5 So, cleaning and joining data sets is very important 6 and that's what this challenge is all about. 7 I've given you three data sets that are related 8 and you are asked to come up with some conclusions 9 based on houseColor versus maximumIncome. 10 Comparing house color to income 11 is a somewhat silly analysis, 12 but it's a great way to demonstrate 13 how R can be used to identify these correlations. 14 So, let's take a look at how I solve this problem. 15 You were given a set of [[Databases]], 16 AcmeData and StarResearch, asked to join them, 17
 >
 > **[0:52](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-join-three-datasets?u=76281980&t=52)** and then set up categories that would identify house color 18 and then result in the maximum income for each house color. 19 In line 5, I jump right into merging 20 AcmeData_Demographic and AcmeData_Survey by surveyID. 21 So, let's take a look at those two databases. 22 Here's demographic. 23 It's only two columns or variables. 24 The first is named firstName 25 and the second is the surveyID. 26 The AcmeData_Survey has that same surveyID column, 27 but this time it's related to Income, houseColor and Age. 28 In line 5, we use a simple merge command 29 to create the acmeData data frame. 30 Now if we look at acmeData, 31
 >
-> **[1:43](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-join-three-datasets?u=76281980&t=103)** you'll see that we have surveyID, 32 firstName, Income, houseColor, and Age. 33 This is comparable to an SQL JOIN. 34 Before we can bring in StarResearch, we need to make sure 35 that the column names or variable names are the same 36 between StarResearch and acmeData, 37 and that's what Line 10 accomplishes. 38 We just change the name to common names. 39 Line 11 rearranges StarResearch 40 so that it is in the same order 41 as the acmeData values we just looked at. 42 Let's take a quick look at StarResearch, 43 and you'll see the surveyID, firstName, 44 Income, houseColor, and Age is the same as acmeData. 45 With the column names or variables named the same, 46
+> **[1:43](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-join-three-datasets?u=76281980&t=103)** you'll see that we have surveyID, 32 firstName, Income, houseColor, and Age. 33 This is comparable to an [[SQL]] JOIN. 34 Before we can bring in StarResearch, we need to make sure 35 that the column names or variable names are the same 36 between StarResearch and acmeData, 37 and that's what Line 10 accomplishes. 38 We just change the name to common names. 39 Line 11 rearranges StarResearch 40 so that it is in the same order 41 as the acmeData values we just looked at. 42 Let's take a quick look at StarResearch, 43 and you'll see the surveyID, firstName, 44 Income, houseColor, and Age is the same as acmeData. 45 With the column names or variables named the same, 46
 >
 > **[2:32](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-join-three-datasets?u=76281980&t=152)** I can now use R's rbind to glue acmeData 47 to the top of StarResearch, 48 and that's what line 14 accomplishes. 49 I now have a data frame called allTheData. 50 Let's take a look at that. 51 Over here in the right hand side 52 you can see allTheData as 18,000 observations, 53 which is quite a bit more than acmeData or StarResearch. 54 Either one. 55 In line 16, I use the by command. 56 Now you may not have been familiar with this, 57 so let's take a look at the help value for by. 58 And what we find out is the function of by 59 is just simply a wrap around tapply. 60 Tapply being a member of the apply set of functions. 61 So to understand by, you'll need to understand tapply. 62
 >
@@ -290,7 +285,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Databases]] (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Databases]] (2), [[SQL]] (1)
 > **Code Identifiers:** acmedata (7), housecolor (6), surveyid (5), firstname (5), allthedata (3)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** sql (1), join (1)
@@ -299,8 +294,7 @@ created: 2026-05-02
 > **SQL:** join (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Palindrome
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-palindrome?u=76281980)
+#### [Solution: Palindrome](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-palindrome?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -312,7 +306,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-palindrome?u=76281980&t=22)** If I define is.palindrome and I give it a value,
 >
-> **[0:31](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-palindrome?u=76281980&t=31)** I'll say, "Mark", it should return FALSE because that word does not look the same forward as backward.
+> **[0:31](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-palindrome?u=76281980&t=31)** I'll say, "Mark", it should return FALSE because that [[Microsoft Word|word]] does not look the same forward as backward.
 >
 > **[0:41](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-palindrome?u=76281980&t=41)** If I give it a true palindrome, let's say, "Race car", I should return TRUE.
 >
@@ -399,8 +393,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Password validator
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-password-validator?u=76281980)
+#### [Solution: Password validator](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-password-validator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -480,8 +473,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Solution: Fizz buzz
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-fizz-buzz?u=76281980)
+#### [Solution: Fizz buzz](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-fizz-buzz?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -573,7 +565,7 @@ created: 2026-05-02
 >
 > **[5:12](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-fizz-buzz?u=76281980&t=312)** Going back to the code, in line 18, I repeat this, but I use the value of buzz.
 >
-> **[5:18](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-fizz-buzz?u=76281980&t=318)** So line 19 identifies which values of numbers is modulo buzz equal to zero, and then I use that mask to put in the word buzz anywhere it's true.
+> **[5:18](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-fizz-buzz?u=76281980&t=318)** So line 19 identifies which values of numbers is modulo buzz equal to zero, and then I use that mask to put in the [[Microsoft Word|word]] buzz anywhere it's true.
 >
 > **[5:33](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-fizz-buzz?u=76281980&t=333)** The third and final task I need to accomplish is to identify fizzBuzz, which is multiples of fizz and buzz.
 >
@@ -589,15 +581,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (2), hit (2), next (1), [[Microsoft Word|Word]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** fizzbuzz (7), fizzbuzzvector (5), whichfizz (3)
 > **Analogies:** kind of like (1), such as (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Create a random door code
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-create-a-random-door-code?u=76281980)
+#### [Solution: Create a random door code](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-create-a-random-door-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -711,8 +702,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (2)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Comparing stock price and interest rates
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-comparing-stock-price-and-interest-rates?u=76281980)
+#### [Solution: Comparing stock price and interest rates](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-comparing-stock-price-and-interest-rates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -742,7 +732,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-comparing-stock-price-and-interest-rates?u=76281980&t=79)** Now I can step into the function itself.
 >
-> **[1:22](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-comparing-stock-price-and-interest-rates?u=76281980&t=82)** In line nine, you'll see that I'm using a merge function, which is very similar to an SQL join.
+> **[1:22](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-comparing-stock-price-and-interest-rates?u=76281980&t=82)** In line nine, you'll see that I'm using a merge function, which is very similar to an [[SQL]] join.
 >
 > **[1:29](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-comparing-stock-price-and-interest-rates?u=76281980&t=89)** I'm going to merge AAPL, which is one of the data sets I've had, with interest rates, another dataset I have.
 >
@@ -782,7 +772,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[SQL]] (2), hit (1)
+> **Frameworks & Libraries:** [[SQL]] (2)
 > **Env Vars:** aapl (3), sql (2), cor (1)
 > **Definitions:** is a  (3), is an  (1), defined as (1)
 > **Prerequisites:** you'll need (2), setup (1)
@@ -796,8 +786,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Solution: Play rock, paper, scissors, lizard, spock
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-play-rock-paper-scissors-lizard-spock?u=76281980)
+#### [Solution: Play rock, paper, scissors, lizard, spock](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-play-rock-paper-scissors-lizard-spock?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -901,15 +890,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1)
 > **CLI Commands:** find (3)
 > **Prerequisites:** set up (3)
 > **Definitions:** is an  (1), means that (1)
 > **Warnings:** warning (2)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Dealing with unexpected data
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-dealing-with-unexpected-data?u=76281980)
+#### [Solution: Dealing with unexpected data](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-dealing-with-unexpected-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1011,11 +998,11 @@ created: 2026-05-02
 >
 > **[5:39](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-dealing-with-unexpected-data?u=76281980&t=339)** Oh, and then of course, in line 23, we subtract the count of any empty strings.
 >
-> **[5:46](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-dealing-with-unexpected-data?u=76281980&t=346)** Again, in data science, one of the important things you'll need to do is clean up the data, and part of that is recognizing what kind of data or what type of data you've been handed, and act appropriately.
+> **[5:46](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-dealing-with-unexpected-data?u=76281980&t=346)** Again, in [[Data Science]], one of the important things you'll need to do is clean up the data, and part of that is recognizing what kind of data or what type of data you've been handed, and act appropriately.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8)
+> **Frameworks & Libraries:** [[Data Science]] (1)
 > **Code Identifiers:** mysterymeat (9), mysterysum (6), cumulativestrings (5), valindx (4)
 > **CLI Commands:** make (2), find (2)
 > **Definitions:** is a  (2)
@@ -1024,8 +1011,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Warnings:** be aware (1)
 
-#### Solution: Find the middle city
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-find-the-missing-city?u=76281980)
+#### [Solution: Find the middle city](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-find-the-missing-city?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1093,7 +1079,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-find-the-missing-city?u=76281980&t=190)** I want to find out all of the mid cities between only starts and only ends are the same.
 >
-> **[3:17](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-find-the-missing-city?u=76281980&t=197)** Merge is very much like SQL merge.
+> **[3:17](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-find-the-missing-city?u=76281980&t=197)** Merge is very much like [[SQL]] merge.
 >
 > **[3:20](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-find-the-missing-city?u=76281980&t=200)** In this case, I've chosen to merge only starts with only ends by the column labeled mid city.
 >
@@ -1139,7 +1125,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), hit (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** cdp (5), dist (1), sql (1)
 > **CLI Commands:** find (5)
 > **UI Navigation:** go to (1), click on (1)
@@ -1152,8 +1138,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-code-challenges-data-science/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/r-code-challenges-data-science/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1169,13 +1154,13 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/r-code-challenges-data-science/next-steps?u=76281980&t=36)** I encourage you to browse the extensive collection of courses available in this library.
 >
-> **[0:40](https://www.linkedin.com/learning/r-code-challenges-data-science/next-steps?u=76281980&t=40)** You'll find courses on statistics, visualization, and data analysis, all using the R programming language.
+> **[0:40](https://www.linkedin.com/learning/r-code-challenges-data-science/next-steps?u=76281980&t=40)** You'll find courses on [[Statistics]], visualization, and data analysis, all using the R programming language.
 >
-> **[0:49](https://www.linkedin.com/learning/r-code-challenges-data-science/next-steps?u=76281980&t=49)** I look forward to your comments both in this course and in the general LinkedIn community.
+> **[0:49](https://www.linkedin.com/learning/r-code-challenges-data-science/next-steps?u=76281980&t=49)** I look forward to your comments both in this course and in the general [[LinkedIn]] community.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (5), data (2), [[Statistics]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (2)
 > **Speakers:** - [mark] (1)
 

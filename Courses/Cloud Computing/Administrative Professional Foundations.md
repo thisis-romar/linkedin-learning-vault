@@ -74,8 +74,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/welcome?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -95,12 +94,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (1)
 > **Documentation:** official guide (1)
 > **Speakers:** - did (1)
 
-#### The administrative support professional needed in every office
-> [LinkedIn Learning](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/the-administrative-support-professional-needed-in-every-office?u=76281980)
+#### [The administrative support professional needed in every office](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/the-administrative-support-professional-needed-in-every-office?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -124,7 +121,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/the-administrative-support-professional-needed-in-every-office?u=76281980&t=79)** My passion for administrative work began in high school, when secretarial courses were a core part of the curriculum.
 >
-> **[1:27](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/the-administrative-support-professional-needed-in-every-office?u=76281980&t=87)** I learned to type on a typewriter, mastered shorthand dictation, and absorbed office etiquette skills that laid the foundation for my career.
+> **[1:27](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/the-administrative-support-professional-needed-in-every-office?u=76281980&t=87)** I learned to type on a typewriter, mastered shorthand dictation, and absorbed [[Microsoft Office|office]] etiquette skills that laid the foundation for my career.
 >
 > **[1:39](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/the-administrative-support-professional-needed-in-every-office?u=76281980&t=99)** These classes weren't just coursework to me.
 >
@@ -158,13 +155,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (5), leadership (1), strengths (1), [[Microsoft Office|Office]] (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - the (1)
 
-#### Administrative professional career path and growth opportunities
-> [LinkedIn Learning](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/administrative-professional-career-path-and-growth-opportunities?u=76281980)
+#### [Administrative professional career path and growth opportunities](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/administrative-professional-career-path-and-growth-opportunities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -178,7 +174,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/administrative-professional-career-path-and-growth-opportunities?u=76281980&t=31)** Compensation within the field varies significantly, influenced by factors such as geographic location, years of experience, and the level of supervision required.
 >
-> **[0:43](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/administrative-professional-career-path-and-growth-opportunities?u=76281980&t=43)** Entry-level positions, such as receptionist, clerk, office assistant, and some administrative assistants, serve as the backbone of an office.
+> **[0:43](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/administrative-professional-career-path-and-growth-opportunities?u=76281980&t=43)** Entry-level positions, such as receptionist, clerk, [[Microsoft Office|office]] assistant, and some administrative assistants, serve as the backbone of an office.
 >
 > **[0:55](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/administrative-professional-career-path-and-growth-opportunities?u=76281980&t=55)** These roles ensure smooth daily operations, provide customer service, and support team members across the organization.
 >
@@ -194,7 +190,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/administrative-professional-career-path-and-growth-opportunities?u=76281980&t=131)** These roles often require specialized degrees, extensive experience, certifications, and a deep understanding of the profession.
 >
-> **[2:22](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/administrative-professional-career-path-and-growth-opportunities?u=76281980&t=142)** At this level, these professionals frequently supervise direct reports and have extensive decision-making authority and responsibilities, including designing office processes, overseeing daily operations, and contributing to strategic planning.
+> **[2:22](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/administrative-professional-career-path-and-growth-opportunities?u=76281980&t=142)** At this level, these professionals frequently supervise direct reports and have extensive [[Decision-Making]] authority and responsibilities, including designing office processes, overseeing daily operations, and contributing to strategic planning.
 >
 > **[2:41](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/administrative-professional-career-path-and-growth-opportunities?u=76281980&t=161)** More often than not, the reporting manager for these roles is usually an executive level partner of that organization.
 >
@@ -226,13 +222,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (5), career (5), management (2), teams (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (5), [[Decision-Making]] (1)
 > **Analogies:** such as (3)
 > **Definitions:** is a  (2)
 > **Speakers:** - the (1)
 
-#### Getting started on your administrative career
-> [LinkedIn Learning](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/getting-started-on-your-administrative-career?u=76281980)
+#### [Getting started on your administrative career](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/getting-started-on-your-administrative-career?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -244,7 +239,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/getting-started-on-your-administrative-career?u=76281980&t=31)** The first step is to assess your current skills.
 >
-> **[0:35](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/getting-started-on-your-administrative-career?u=76281980&t=35)** The most essential skills for this profession include organizational abilities, verbal and written communication, time management, technological proficiency, and customer service skills.
+> **[0:35](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/getting-started-on-your-administrative-career?u=76281980&t=35)** The most essential skills for this profession include organizational abilities, verbal and written communication, time management, technological proficiency, and [[Customer Service Skills]].
 >
 > **[0:49](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/getting-started-on-your-administrative-career?u=76281980&t=49)** Administrative professionals must be highly adaptable, detail-oriented, and capable of multitasking efficiently.
 >
@@ -256,17 +251,17 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/getting-started-on-your-administrative-career?u=76281980&t=83)** Fortunately, many resources are available to help you upskill and enhance your qualifications.
 >
-> **[1:30](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/getting-started-on-your-administrative-career?u=76281980&t=90)** Taking courses like this on LinkedIn Learning is an excellent way to build and refine your skills.
+> **[1:30](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/getting-started-on-your-administrative-career?u=76281980&t=90)** Taking courses like this on [[LinkedIn]] Learning is an excellent way to build and refine your skills.
 >
 > **[1:37](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/getting-started-on-your-administrative-career?u=76281980&t=97)** Online learning platforms offer a variety of classes that ensure you receive relevant and up-to-date training.
 >
-> **[1:46](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/getting-started-on-your-administrative-career?u=76281980&t=106)** From mastering office software to learning advanced business communication techniques, these courses can provide a solid foundation for success.
+> **[1:46](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/getting-started-on-your-administrative-career?u=76281980&t=106)** From mastering [[Microsoft Office|office]] software to learning advanced business communication techniques, these courses can provide a solid foundation for success.
 >
 > **[1:56](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/getting-started-on-your-administrative-career?u=76281980&t=116)** Additionally, reviewing job descriptions for administrative support professional roles can provide valuable insight into the qualifications and skills employers are looking for.
 >
 > **[2:09](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/getting-started-on-your-administrative-career?u=76281980&t=129)** Certifications can also boost your qualifications and demonstrate your expertise to potential employers.
 >
-> **[2:18](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/getting-started-on-your-administrative-career?u=76281980&t=138)** On the technical side, Microsoft and Google offer certifications in various office technologies, which can be particularly beneficial for showcasing proficiency in essential software.
+> **[2:18](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/getting-started-on-your-administrative-career?u=76281980&t=138)** On the technical side, [[Microsoft]] and [[Google]] offer certifications in various office technologies, which can be particularly beneficial for showcasing proficiency in essential software.
 >
 > **[2:33](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/getting-started-on-your-administrative-career?u=76281980&t=153)** Additionally, industry recognized certifications like the PACE, Professional Administrative Certification of Excellence, offered by the American Society for Administrative Professionals, and the CAP, Certified Administrative Professional, certification provided by the International Association for Administrative Professionals can validate your knowledge and make you a stronger candidate.
 >
@@ -290,7 +285,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (4), [[Microsoft Office|Office]] (4), business (2), management (1), [[Customer Service Skills]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (4), [[Customer Service Skills]] (1), [[LinkedIn]] (1), [[Microsoft]] (1), [[Google]] (1)
 > **Env Vars:** pace (1), cap (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** the key is (1)
@@ -301,8 +296,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Confidentiality in the workplace
-> [LinkedIn Learning](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/confidentiality-in-the-workplace?u=76281980)
+#### [Confidentiality in the workplace](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/confidentiality-in-the-workplace?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -320,7 +314,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/confidentiality-in-the-workplace?u=76281980&t=58)** These details are highly sensitive and should never be shared beyond those authorized to receive them, such as HR or other designated personnel.
 >
-> **[1:10](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/confidentiality-in-the-workplace?u=76281980&t=70)** Mishandling this information, even inadvertently, can lead to breaches of privacy, potential legal ramifications, and loss of trust.
+> **[1:10](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/confidentiality-in-the-workplace?u=76281980&t=70)** Mishandling this information, even inadvertently, can lead to breaches of [[Privacy]], potential legal ramifications, and loss of trust.
 >
 > **[1:21](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/confidentiality-in-the-workplace?u=76281980&t=81)** Confidential documents should never be left out or unattended.
 >
@@ -332,7 +326,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/confidentiality-in-the-workplace?u=76281980&t=116)** Computers should never be left unlocked when unattended and passwords should be changed periodically and never shared.
 >
-> **[2:05](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/confidentiality-in-the-workplace?u=76281980&t=125)** Many companies implement multi-factor authentication and encryption to enhance security further, and admin should proactively follow best practices.
+> **[2:05](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/confidentiality-in-the-workplace?u=76281980&t=125)** Many companies implement [[Multi-factor Authentication]] and encryption to enhance security further, and admin should proactively follow best practices.
 >
 > **[2:17](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/confidentiality-in-the-workplace?u=76281980&t=137)** Another critical area of confidentiality is managing calendar details for the people or team you support.
 >
@@ -368,14 +362,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hr (1), [[Privacy]] (1), [[Multi-factor Authentication]] (1), [[Security]] (1), business (1)
+> **Frameworks & Libraries:** [[Privacy]] (1), [[Multi-factor Authentication]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1)
 > **Warnings:** caution (1)
 > **Speakers:** - administrative (1)
 
-#### Emotional intelligence techniques for office success
-> [LinkedIn Learning](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/emotional-intelligence-techniques-for-office-success?u=76281980)
+#### [Emotional intelligence techniques for office success](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/emotional-intelligence-techniques-for-office-success?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -417,7 +410,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/emotional-intelligence-techniques-for-office-success?u=76281980&t=144)** This is especially critical in administrative support roles.
 >
-> **[2:29](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/emotional-intelligence-techniques-for-office-success?u=76281980&t=149)** Admins are often the steady force in chaotic environments, setting the emotional tone for an office more than the boss does.
+> **[2:29](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/emotional-intelligence-techniques-for-office-success?u=76281980&t=149)** Admins are often the steady force in chaotic environments, setting the emotional tone for an [[Microsoft Office|office]] more than the boss does.
 >
 > **[2:39](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/emotional-intelligence-techniques-for-office-success?u=76281980&t=159)** Our ability to navigate complex interactions gracefully and with composure makes all the difference.
 >
@@ -441,12 +434,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (4), career (3), game (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **Versions:** 2.0 (1)
 > **Speakers:** - if (1)
 
-#### Supporting multiple executives and teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/supporting-multiple-executives-and-teams?u=76281980)
+#### [Supporting multiple executives and teams](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/supporting-multiple-executives-and-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -512,14 +504,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (4), management (2), career (1)
 > **URLs:** [monday.com](https://monday.com) (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** good practice (1)
 > **Speakers:** - throughout (1)
 
-#### Customer service excellence for admin professionals
-> [LinkedIn Learning](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/customer-service-excellence-for-admin-professionals?u=76281980)
+#### [Customer service excellence for admin professionals](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/customer-service-excellence-for-admin-professionals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -547,7 +537,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/customer-service-excellence-for-admin-professionals?u=76281980&t=106)** When you are intentional about how you allocate your time, you enhance your ability to meet deadlines, provide timely responses and handle urgent requests with confidence.
 >
-> **[1:59](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/customer-service-excellence-for-admin-professionals?u=76281980&t=119)** Building trust is fundamental to long-term success in any administrative role.
+> **[1:59](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/customer-service-excellence-for-admin-professionals?u=76281980&t=119)** [[Building Trust]] is fundamental to long-term success in any administrative role.
 >
 > **[2:06](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/customer-service-excellence-for-admin-professionals?u=76281980&t=126)** Trust is established when your actions consistently align with your words.
 >
@@ -555,7 +545,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/customer-service-excellence-for-admin-professionals?u=76281980&t=142)** The first time someone believes in your reliability is easy.
 >
-> **[2:26](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/customer-service-excellence-for-admin-professionals?u=76281980&t=146)** Maintaining that trust requires ongoing integrity and accountability.
+> **[2:26](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/customer-service-excellence-for-admin-professionals?u=76281980&t=146)** Maintaining that trust requires ongoing integrity and [[Accountability]].
 >
 > **[2:32](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/customer-service-excellence-for-admin-professionals?u=76281980&t=152)** Failing to keep your promises can quickly erode credibility that harms customer loyalty.
 >
@@ -579,13 +569,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), [[Building Trust]] (1), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Building Trust]] (1), [[Accountability]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - administrative (1)
 
-#### Building strong and collaborative teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/building-strong-and-collaborative-teams?u=76281980)
+#### [Building strong and collaborative teams](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/building-strong-and-collaborative-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -645,17 +634,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (6), career (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** heart (2)
 > **Speakers:** - building (1)
 
-#### Administrative leadership skills for managing others
-> [LinkedIn Learning](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/administrative-leadership-skills-for-managing-others?u=76281980)
+#### [Administrative leadership skills for managing others](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/administrative-leadership-skills-for-managing-others?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/administrative-leadership-skills-for-managing-others?u=76281980&t=0)** - Throughout your administrative career, you will likely manage others in the office, whether they're colleagues, direct reports, or the executives you support.
+> **[0:00](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/administrative-leadership-skills-for-managing-others?u=76281980&t=0)** - Throughout your administrative career, you will likely manage others in the [[Microsoft Office|office]], whether they're colleagues, direct reports, or the executives you support.
 >
 > **[0:11](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/administrative-leadership-skills-for-managing-others?u=76281980&t=11)** Each scenario requires a unique skillset to manage up, across and down effectively.
 >
@@ -675,7 +662,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/administrative-leadership-skills-for-managing-others?u=76281980&t=95)** Without this skill, your projects can stall, hindering company-wide progress.
 >
-> **[1:41](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/administrative-leadership-skills-for-managing-others?u=76281980&t=101)** Successful collaboration across departments requires relationship building, mutual respect, and a shared commitment to the company's success.
+> **[1:41](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/administrative-leadership-skills-for-managing-others?u=76281980&t=101)** Successful collaboration across departments requires [[Relationship Building]], mutual respect, and a shared commitment to the company's success.
 >
 > **[1:52](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/administrative-leadership-skills-for-managing-others?u=76281980&t=112)** Without these elements, internal conflicts can arise, creating unnecessary roadblocks.
 >
@@ -709,7 +696,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (2), leadership (2), [[Microsoft Office|Office]] (1), [[Relationship Building]] (1), teams (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Relationship Building]] (1)
 > **Speakers:** - throughout (1)
 
 
@@ -717,8 +704,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Calendar and schedule management for maximum efficiency
-> [LinkedIn Learning](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/calendar-and-schedule-management-for-maximum-efficiency?u=76281980)
+#### [Calendar and schedule management for maximum efficiency](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/calendar-and-schedule-management-for-maximum-efficiency?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -794,7 +780,7 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/calendar-and-schedule-management-for-maximum-efficiency?u=76281980&t=249)** Managing calendars and schedules isn't just about organizing meetings.
 >
-> **[4:14](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/calendar-and-schedule-management-for-maximum-efficiency?u=76281980&t=254)** It's about creating space for productivity, strategic thinking, and meaningful work.
+> **[4:14](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/calendar-and-schedule-management-for-maximum-efficiency?u=76281980&t=254)** It's about creating space for productivity, [[Strategic Thinking]], and meaningful work.
 >
 > **[4:21](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/calendar-and-schedule-management-for-maximum-efficiency?u=76281980&t=261)** When done well, the executive or team you support can operate at their highest level knowing their time is in expert hands.
 >
@@ -804,14 +790,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), game (1), hit (1), [[Automation]] (1), teams (1)
+> **Frameworks & Libraries:** [[Strategic Thinking]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - managing (1)
 
-#### Effective meeting support and note-taking
-> [LinkedIn Learning](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/effective-meeting-support-and-note-taking?u=76281980)
+#### [Effective meeting support and note-taking](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/effective-meeting-support-and-note-taking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -857,11 +842,11 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/effective-meeting-support-and-note-taking?u=76281980&t=166)** Here are some of the best AI-powered tools that can transform the way you manage meeting notes.
 >
-> **[2:53](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/effective-meeting-support-and-note-taking?u=76281980&t=173)** [Otter.ai](https://Otter.ai) is a real-time transcription, automatic summaries, and speaker identification tool.
+> **[2:53](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/effective-meeting-support-and-note-taking?u=76281980&t=173)** [Otter.ai](https://Otter.ai) is a [[Real-Time]] transcription, automatic summaries, and speaker identification tool.
 >
 > **[3:02](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/effective-meeting-support-and-note-taking?u=76281980&t=182)** [Fireflies.ai](https://Fireflies.ai) integrates with various platforms, records meetings, and provides searchable transcripts.
 >
-> **[3:11](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/effective-meeting-support-and-note-taking?u=76281980&t=191)** Microsoft Copilot seamlessly works with Teams to generate action points and key takeaways.
+> **[3:11](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/effective-meeting-support-and-note-taking?u=76281980&t=191)** [[Microsoft Copilot]] seamlessly works with Teams to generate action points and key takeaways.
 >
 > **[3:19](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/effective-meeting-support-and-note-taking?u=76281980&t=199)** Fathom records, transcribes, and highlights key meeting moments, making follow-ups effortless.
 >
@@ -873,7 +858,7 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/effective-meeting-support-and-note-taking?u=76281980&t=234)** It's essential.
 >
-> **[3:56](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/effective-meeting-support-and-note-taking?u=76281980&t=236)** These tools free up valuable time, allowing executives to focus on strategic decision-making instead of drowning in meeting overload.
+> **[3:56](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/effective-meeting-support-and-note-taking?u=76281980&t=236)** These tools free up valuable time, allowing executives to focus on strategic [[Decision-Making]] instead of drowning in meeting overload.
 >
 > **[4:07](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/effective-meeting-support-and-note-taking?u=76281980&t=247)** As an administrative professional, leveraging these innovations will enhance your efficiency and demonstrate your expertise in optimizing workplace productivity.
 >
@@ -883,20 +868,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Real-Time]] (1), [[Microsoft Copilot]] (1), teams (1), management (1)
+> **Frameworks & Libraries:** [[Real-Time]] (1), [[Microsoft Copilot]] (1), [[Decision-Making]] (1)
 > **URLs:** [otter.ai](https://otter.ai) (1), [fireflies.ai](https://fireflies.ai) (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - effective (1)
 
-#### Email management strategies
-> [LinkedIn Learning](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/email-management-strategies?u=76281980)
+#### [Email management strategies](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/email-management-strategies?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/email-management-strategies?u=76281980&t=0)** - In most workplaces, email remains the primary tool for communication.
 >
-> **[0:06](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/email-management-strategies?u=76281980&t=6)** It's fast, widely accessible, and easy to use, making it the go-to for professionals inside and outside the office.
+> **[0:06](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/email-management-strategies?u=76281980&t=6)** It's fast, widely accessible, and easy to use, making it the go-to for professionals inside and outside the [[Microsoft Office|office]].
 >
 > **[0:16](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/email-management-strategies?u=76281980&t=16)** Email is also relatively secure, cost effective, and familiar, so it continues to be a critical part of daily operations.
 >
@@ -924,7 +908,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/email-management-strategies?u=76281980&t=119)** But beyond time management, there are apps and tools designed to streamline your inbox and improve efficiency.
 >
-> **[2:07](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/email-management-strategies?u=76281980&t=127)** Some of the most effective tools for email management include Microsoft Outlook rules and focused inbox, which helps categorize and prioritize emails automatically, reducing clutter and ensuring important messages stand out.
+> **[2:07](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/email-management-strategies?u=76281980&t=127)** Some of the most effective tools for email management include [[Microsoft Outlook]] rules and focused inbox, which helps categorize and prioritize emails automatically, reducing clutter and ensuring important messages stand out.
 >
 > **[2:25](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/email-management-strategies?u=76281980&t=145)** Gmail filters and labels enables the automatic sorting of emails into folders, making tracking essential messages easier and minimizing distractions.
 >
@@ -944,18 +928,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (4), [[Microsoft Office|Office]] (1), [[Microsoft Outlook]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Microsoft Outlook]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - in (1)
 
-#### Remote work best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/remote-work-best-practices?u=76281980)
+#### [Remote work best practices](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/remote-work-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/remote-work-best-practices?u=76281980&t=0)** - In today's post-COVID world, working remotely, whether full-time or in a hybrid setup, has become the norm for many professionals.
 >
-> **[0:11](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/remote-work-best-practices?u=76281980&t=11)** While the flexibility of remote work offers numerous benefits, it also requires a different approach to productivity, communication, and career growth than spending five days a week in an office.
+> **[0:11](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/remote-work-best-practices?u=76281980&t=11)** While the flexibility of remote work offers numerous benefits, it also requires a different approach to productivity, communication, and career growth than spending five days a week in an [[Microsoft Office|office]].
 >
 > **[0:26](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/remote-work-best-practices?u=76281980&t=26)** At its core, remote work means that you and your employer have agreed that your job can be performed from an alternate location outside of a company building.
 >
@@ -1017,7 +1000,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (4), career (3), ai (1), leadership (1), management (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (4)
 > **URLs:** [peoplebox.ai](https://peoplebox.ai) (1), [indeed.com](https://indeed.com) (1)
 > **Prerequisites:** setup (1), set up (1)
 > **CLI Commands:** make (1)
@@ -1025,12 +1008,11 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - in (1)
 
-#### Leveraging artificial intelligence
-> [LinkedIn Learning](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/leveraging-artificial-intelligence?u=76281980)
+#### [Leveraging artificial intelligence](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/leveraging-artificial-intelligence?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/leveraging-artificial-intelligence?u=76281980&t=0)** - There has been concern about artificial intelligence and the fear that technology might replace the critical administrative support profession, but I don't believe that's going to happen.
+> **[0:00](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/leveraging-artificial-intelligence?u=76281980&t=0)** - There has been concern about [[Artificial Intelligence (AI)|artificial intelligence]] and the fear that technology might replace the critical administrative support profession, but I don't believe that's going to happen.
 >
 > **[0:14](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/leveraging-artificial-intelligence?u=76281980&t=14)** While automation will take over specific routine tasks, high tech will never replace high touch.
 >
@@ -1060,7 +1042,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/leveraging-artificial-intelligence?u=76281980&t=114)** AI can handle scheduling, email management, and meeting coordination, responsibilities that admins will continue to oversee.
 >
-> **[2:05](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/leveraging-artificial-intelligence?u=76281980&t=125)** With AI streamlining these, what once felt tedious and time consuming becomes swift, efficient and effortless.
+> **[2:05](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/leveraging-artificial-intelligence?u=76281980&t=125)** With AI streamlining these, what once felt tedious and time consuming becomes [[Swift (Programming Language)|swift]], efficient and effortless.
 >
 > **[2:15](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/leveraging-artificial-intelligence?u=76281980&t=135)** Beyond task automation, AI has enhanced my ability to communicate effectively.
 >
@@ -1084,22 +1066,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), leadership (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Automation]] (2), teams (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Swift (Programming Language)|Swift]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - there (1)
 
-#### Event planning and coordination
-> [LinkedIn Learning](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/event-planning-and-coordination?u=76281980)
+#### [Event planning and coordination](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/event-planning-and-coordination?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/event-planning-and-coordination?u=76281980&t=0)** - In most administrative professional roles, you'll be called on to plan or coordinate an event sooner or later.
 >
-> **[0:09](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/event-planning-and-coordination?u=76281980&t=9)** It's just part of the territory, Whether it's a large scale conference, a department retreat, a virtual webinar, or an in-office celebration, events come in many shapes and sizes.
+> **[0:09](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/event-planning-and-coordination?u=76281980&t=9)** It's just part of the territory, Whether it's a large scale conference, a department retreat, a virtual webinar, or an in-[[Microsoft Office|office]] celebration, events come in many shapes and sizes.
 >
 > **[0:23](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/event-planning-and-coordination?u=76281980&t=23)** Sometimes you'll have an entire team to help you manage every moving part.
 >
-> **[0:28](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/event-planning-and-coordination?u=76281980&t=28)** Other times the responsibility will rest entirely on your shoulders.
+> **[0:28](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/event-planning-and-coordination?u=76281980&t=28)** Other times the responsibility will [[Representational State Transfer (REST)|rest]] entirely on your shoulders.
 >
 > **[0:33](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/event-planning-and-coordination?u=76281980&t=33)** Regardless of the setup, one thing is sure, you've got to be ready to jump into action and execute with excellence at a moment's notice.
 >
@@ -1167,14 +1148,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Representational State Transfer (REST)|Rest]] (1), power (1), management (1), career (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Prerequisites:** setup (1), set up (1), you'll need (1)
 > **Env Vars:** cmp (1), csep (1)
 > **Analogies:** such as (1)
 > **Speakers:** - in (1)
 
-#### Organizational skills to stay ahead in the workplace
-> [LinkedIn Learning](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/organizational-skills-to-stay-ahead-in-the-workplace?u=76281980)
+#### [Organizational skills to stay ahead in the workplace](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/organizational-skills-to-stay-ahead-in-the-workplace?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1184,7 +1164,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/organizational-skills-to-stay-ahead-in-the-workplace?u=76281980&t=21)** You'll also be the one helping those you support stay organized too.
 >
-> **[0:26](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/organizational-skills-to-stay-ahead-in-the-workplace?u=76281980&t=26)** If you serve in an office management capacity, your influence extends further.
+> **[0:26](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/organizational-skills-to-stay-ahead-in-the-workplace?u=76281980&t=26)** If you serve in an [[Microsoft Office|office]] management capacity, your influence extends further.
 >
 > **[0:32](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/organizational-skills-to-stay-ahead-in-the-workplace?u=76281980&t=32)** You're responsible for creating order in the entire workspace.
 >
@@ -1250,12 +1230,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), management (2), power (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - one (1)
 
-#### Essential communication skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/essential-communication-skills?u=76281980)
+#### [Essential communication skills](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/essential-communication-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1271,7 +1250,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/essential-communication-skills?u=76281980&t=39)** Communication isn't just about words.
 >
-> **[0:43](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/essential-communication-skills?u=76281980&t=43)** Your body language, facial expressions, and gestures speak volumes often before you even say a word.
+> **[0:43](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/essential-communication-skills?u=76281980&t=43)** Your body language, facial expressions, and gestures speak volumes often before you even say a [[Microsoft Word|word]].
 >
 > **[0:52](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/essential-communication-skills?u=76281980&t=52)** In fact, according to body language expert, Albert Mehrabian, communication is broken down into three key elements, 55% nonverbal, 38% vocal tone, and only 7% actual words.
 >
@@ -1319,7 +1298,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - clear (1)
@@ -1329,8 +1308,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps to advance your career
-> [LinkedIn Learning](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/next-steps-to-advance-your-career?u=76281980)
+#### [Next steps to advance your career](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/next-steps-to-advance-your-career?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1342,7 +1320,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/next-steps-to-advance-your-career?u=76281980&t=29)** And investing in your growth can open doors to more significant responsibilities, higher salaries, and increased job satisfaction.
 >
-> **[0:39](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/next-steps-to-advance-your-career?u=76281980&t=39)** A great place to start is where you are now, on the LinkedIn Learning platform.
+> **[0:39](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/next-steps-to-advance-your-career?u=76281980&t=39)** A great place to start is where you are now, on the [[LinkedIn]] Learning platform.
 >
 > **[0:45](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/next-steps-to-advance-your-career?u=76281980&t=45)** There is a wealth of courses designed to help you master critical skills like communication, time management, organization, and business writing.
 >
@@ -1374,7 +1352,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/next-steps-to-advance-your-career?u=76281980&t=195)** Never underestimate the power of reading.
 >
-> **[3:19](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/next-steps-to-advance-your-career?u=76281980&t=199)** Many accomplished administrative professionals have penned insightful guides packed with real world strategies for success from books on leadership and productivity to personal branding and business etiquette.
+> **[3:19](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/next-steps-to-advance-your-career?u=76281980&t=199)** Many accomplished administrative professionals have penned insightful guides packed with real world strategies for success from books on leadership and productivity to [[Personal Branding]] and business etiquette.
 >
 > **[3:33](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/next-steps-to-advance-your-career?u=76281980&t=213)** Building a professional library tailored to your career goals will give you a competitive edge.
 >
@@ -1390,7 +1368,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (4), leadership (3), management (2), [[LinkedIn]] (2), business (2)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Personal Branding]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** asap (1), iaap (1)
 > **Speakers:** - professional (1)

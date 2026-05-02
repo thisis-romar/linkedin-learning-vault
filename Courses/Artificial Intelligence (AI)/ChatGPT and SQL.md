@@ -85,22 +85,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The future is now: Intro to AI for data analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-and-sql/the-future-is-now-intro-to-ai-for-data-analytics?u=76281980)
+#### [The future is now: Intro to AI for data analytics](https://www.linkedin.com/learning/chatgpt-and-sql/the-future-is-now-intro-to-ai-for-data-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/chatgpt-and-sql/the-future-is-now-intro-to-ai-for-data-analytics?u=76281980&t=0)** - Hey everyone, and welcome to ChatGPT for Data Analytics.
+> **[0:00](https://www.linkedin.com/learning/chatgpt-and-sql/the-future-is-now-intro-to-ai-for-data-analytics?u=76281980&t=0)** - Hey everyone, and welcome to [[ChatGPT]] for Data Analytics.
 >
 > **[0:04](https://www.linkedin.com/learning/chatgpt-and-sql/the-future-is-now-intro-to-ai-for-data-analytics?u=76281980&t=4)** AI is changing the world around us and completely revolutionizing the way that we work.
 >
 > **[0:09](https://www.linkedin.com/learning/chatgpt-and-sql/the-future-is-now-intro-to-ai-for-data-analytics?u=76281980&t=9)** As data professionals, we now have access to tools that give us superpowers to work smarter and faster than ever before.
 >
-> **[0:16](https://www.linkedin.com/learning/chatgpt-and-sql/the-future-is-now-intro-to-ai-for-data-analytics?u=76281980&t=16)** In this course, we'll introduce you to the world of deep learning and generative AI, explore the rapid rise of large language models like ChatGPT, and Google Bard, and get you up and running with free tools that will take your skills to the next level.
+> **[0:16](https://www.linkedin.com/learning/chatgpt-and-sql/the-future-is-now-intro-to-ai-for-data-analytics?u=76281980&t=16)** In this course, we'll introduce you to the world of [[Deep Learning]] and [[Generative AI]], explore the rapid rise of [[Large Language Models (LLM)|large language models]] like ChatGPT, and [[Google]] Bard, and get you up and running with free tools that will take your skills to the next level.
 >
-> **[0:31](https://www.linkedin.com/learning/chatgpt-and-sql/the-future-is-now-intro-to-ai-for-data-analytics?u=76281980&t=31)** Next, we'll dive into the art of prompt engineering, review tips and best practices for generating consistent, accurate model outputs, and address common limitations and pitfalls to be aware of.
+> **[0:31](https://www.linkedin.com/learning/chatgpt-and-sql/the-future-is-now-intro-to-ai-for-data-analytics?u=76281980&t=31)** Next, we'll dive into the art of [[Prompt Engineering]], review tips and best practices for generating consistent, accurate model outputs, and address common limitations and pitfalls to be aware of.
 >
-> **[0:43](https://www.linkedin.com/learning/chatgpt-and-sql/the-future-is-now-intro-to-ai-for-data-analytics?u=76281980&t=43)** From there, we'll walk through some of the most powerful and practical ChatGPT use cases for data science and analytics.
+> **[0:43](https://www.linkedin.com/learning/chatgpt-and-sql/the-future-is-now-intro-to-ai-for-data-analytics?u=76281980&t=43)** From there, we'll walk through some of the most powerful and practical ChatGPT use cases for [[Data Science]] and analytics.
 >
 > **[0:50](https://www.linkedin.com/learning/chatgpt-and-sql/the-future-is-now-intro-to-ai-for-data-analytics?u=76281980&t=50)** You'll practice using ChatGPT to explain and interpret code, generate formulas from scratch, diagnose and troubleshoot errors, optimize complex queries, and much, much more.
 >
@@ -112,14 +111,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (4), data (4), [[Analytics]] (2), ai (2), next (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (4), [[Deep Learning]] (1), [[Generative AI]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[Google]] (1)
 > **Warnings:** be aware (1), troubleshoot (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - hey (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Setting expectations
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-and-sql/setting-expectations?u=76281980)
+#### [Setting expectations](https://www.linkedin.com/learning/chatgpt-and-sql/setting-expectations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -127,23 +125,23 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/chatgpt-and-sql/setting-expectations?u=76281980&t=3)** First off, this course is designed to be an overview of how data professionals can use AI tools.
 >
-> **[0:09](https://www.linkedin.com/learning/chatgpt-and-sql/setting-expectations?u=76281980&t=9)** We'll introduce the broader AI landscape and tools like ChatGPT, and we'll review practical use cases for data analysts, but we won't be diving deeply into how these large language models actually work or give an exhaustive list of everything that they're capable of.
+> **[0:09](https://www.linkedin.com/learning/chatgpt-and-sql/setting-expectations?u=76281980&t=9)** We'll introduce the broader AI landscape and tools like [[ChatGPT]], and we'll review practical use cases for data analysts, but we won't be diving deeply into how these [[Large Language Models (LLM)|large language models]] actually work or give an exhaustive list of everything that they're capable of.
 >
 > **[0:25](https://www.linkedin.com/learning/chatgpt-and-sql/setting-expectations?u=76281980&t=25)** Next, we'll be using the free versions of these AI tools for the course demos.
 >
-> **[0:30](https://www.linkedin.com/learning/chatgpt-and-sql/setting-expectations?u=76281980&t=30)** We'll quickly touch on some paid options and alternative tools, but the majority of what you see will be shown using the free versions of either ChatGPT or Google Bard.
+> **[0:30](https://www.linkedin.com/learning/chatgpt-and-sql/setting-expectations?u=76281980&t=30)** We'll quickly touch on some paid options and alternative tools, but the majority of what you see will be shown using the free versions of either ChatGPT or [[Google]] Bard.
 >
 > **[0:41](https://www.linkedin.com/learning/chatgpt-and-sql/setting-expectations?u=76281980&t=41)** Perhaps most importantly, AI is a rapidly evolving field, and these tools will change very, very quickly.
 >
-> **[0:49](https://www.linkedin.com/learning/chatgpt-and-sql/setting-expectations?u=76281980&t=49)** This technology is moving fast, and that means that existing products are going to change, new vendors and tools will emerge, but hopefully the core concepts and best practices you learn in this course will remain relevant.
+> **[0:49](https://www.linkedin.com/learning/chatgpt-and-sql/setting-expectations?u=76281980&t=49)** This technology is moving fast, and that means that existing [[Microsoft Products|products]] are going to change, new vendors and tools will emerge, but hopefully the core concepts and best practices you learn in this course will remain relevant.
 >
 > **[1:02](https://www.linkedin.com/learning/chatgpt-and-sql/setting-expectations?u=76281980&t=62)** Last but not least, this course is designed to be modular to fit your needs.
 >
 > **[1:06](https://www.linkedin.com/learning/chatgpt-and-sql/setting-expectations?u=76281980&t=66)** The first half of the course is designed for everyone.
 >
-> **[1:09](https://www.linkedin.com/learning/chatgpt-and-sql/setting-expectations?u=76281980&t=69)** It's where we'll talk about the AI landscape, we'll introduce these different tools, talk about prompt engineering, best practices, and so on.
+> **[1:09](https://www.linkedin.com/learning/chatgpt-and-sql/setting-expectations?u=76281980&t=69)** It's where we'll talk about the AI landscape, we'll introduce these different tools, talk about [[Prompt Engineering]], best practices, and so on.
 >
-> **[1:17](https://www.linkedin.com/learning/chatgpt-and-sql/setting-expectations?u=76281980&t=77)** But the second half is structured so that you can focus specifically on the tools you use most as an analyst, Excel, Sheets, SQL, Power BI, or Python.
+> **[1:17](https://www.linkedin.com/learning/chatgpt-and-sql/setting-expectations?u=76281980&t=77)** But the second half is structured so that you can focus specifically on the tools you use most as an analyst, [[Microsoft Excel|Excel]], Sheets, [[SQL]], [[Microsoft Power BI|Power BI]], or [[Python (Programming Language)|Python]].
 >
 > **[1:28](https://www.linkedin.com/learning/chatgpt-and-sql/setting-expectations?u=76281980&t=88)** Now of course, remember that what you see on our screens during the demos won't always match what you're seeing on yours, especially given how these AI tools actually work.
 >
@@ -153,7 +151,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), data (2), [[ChatGPT]] (2), [[Large Language Models (LLM)|Large language models]] (1), next (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Google]] (1), [[Microsoft Products|Products]] (1), [[Prompt Engineering]] (1)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** sql (1)
@@ -164,8 +162,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why AI is a game-changer for data analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-and-sql/why-ai-is-a-game-changer-for-data-analysis?u=76281980)
+#### [Why AI is a game-changer for data analysis](https://www.linkedin.com/learning/chatgpt-and-sql/why-ai-is-a-game-changer-for-data-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -175,7 +172,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/chatgpt-and-sql/why-ai-is-a-game-changer-for-data-analysis?u=76281980&t=7)** The world is changing fast.
 >
-> **[0:10](https://www.linkedin.com/learning/chatgpt-and-sql/why-ai-is-a-game-changer-for-data-analysis?u=76281980&t=10)** AI tools like ChatGPT, Google Bard, and others are just allowing people to do things that were really complicated and took lots of time in now a matter of minutes, sometimes even seconds.
+> **[0:10](https://www.linkedin.com/learning/chatgpt-and-sql/why-ai-is-a-game-changer-for-data-analysis?u=76281980&t=10)** AI tools like [[ChatGPT]], [[Google]] Bard, and others are just allowing people to do things that were really complicated and took lots of time in now a matter of minutes, sometimes even seconds.
 >
 > **[0:21](https://www.linkedin.com/learning/chatgpt-and-sql/why-ai-is-a-game-changer-for-data-analysis?u=76281980&t=21)** This technology is a total game changer.
 >
@@ -213,7 +210,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/chatgpt-and-sql/why-ai-is-a-game-changer-for-data-analysis?u=76281980&t=87)** The thing to understand is that the skills required to be an effective analyst are going to shift.
 >
-> **[1:33](https://www.linkedin.com/learning/chatgpt-and-sql/why-ai-is-a-game-changer-for-data-analysis?u=76281980&t=93)** We call these three core skills the Analytics Trifecta: strategic thinking, technical proficiency, and communication skills.
+> **[1:33](https://www.linkedin.com/learning/chatgpt-and-sql/why-ai-is-a-game-changer-for-data-analysis?u=76281980&t=93)** We call these three core skills the Analytics Trifecta: [[Strategic Thinking]], technical proficiency, and communication skills.
 >
 > **[1:41](https://www.linkedin.com/learning/chatgpt-and-sql/why-ai-is-a-game-changer-for-data-analysis?u=76281980&t=101)** This is what separates a good analyst from one that's truly great, a real 10x analyst that can help take an organization to the next level.
 >
@@ -247,7 +244,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/chatgpt-and-sql/why-ai-is-a-game-changer-for-data-analysis?u=76281980&t=211)** This is just the most recent tool.
 >
-> **[3:33](https://www.linkedin.com/learning/chatgpt-and-sql/why-ai-is-a-game-changer-for-data-analysis?u=76281980&t=213)** There have been others before it, like Tableau and Power BI coming in and becoming a very valuable skillset for the data world.
+> **[3:33](https://www.linkedin.com/learning/chatgpt-and-sql/why-ai-is-a-game-changer-for-data-analysis?u=76281980&t=213)** There have been others before it, like [[Tableau]] and [[Microsoft Power BI|Power BI]] coming in and becoming a very valuable skillset for the data world.
 >
 > **[3:41](https://www.linkedin.com/learning/chatgpt-and-sql/why-ai-is-a-game-changer-for-data-analysis?u=76281980&t=221)** There will be other tools in the future.
 >
@@ -255,14 +252,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), data (8), [[Strategic Thinking]] (4), career (3), business (3)
+> **Frameworks & Libraries:** [[Strategic Thinking]] (4), [[ChatGPT]] (2), [[Google]] (1), [[Tableau]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI use cases for data analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-and-sql/ai-use-cases-for-data-analytics?u=76281980)
+#### [AI use cases for data analytics](https://www.linkedin.com/learning/chatgpt-and-sql/ai-use-cases-for-data-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -286,13 +282,13 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/chatgpt-and-sql/ai-use-cases-for-data-analytics?u=76281980&t=34)** You can generate step-by-step tutorials.
 >
-> **[0:37](https://www.linkedin.com/learning/chatgpt-and-sql/ai-use-cases-for-data-analytics?u=76281980&t=37)** You can ask for data visualization tips to help improve your data storytelling, and you can use it to automate tasks, research some specific technical topics, or even generate sample data.
+> **[0:37](https://www.linkedin.com/learning/chatgpt-and-sql/ai-use-cases-for-data-analytics?u=76281980&t=37)** You can ask for data visualization tips to help improve your [[Data Storytelling]], and you can use it to automate tasks, research some specific technical topics, or even generate sample data.
 >
 > **[0:48](https://www.linkedin.com/learning/chatgpt-and-sql/ai-use-cases-for-data-analytics?u=76281980&t=48)** This list is not meant to be exhaustive.
 >
 > **[0:50](https://www.linkedin.com/learning/chatgpt-and-sql/ai-use-cases-for-data-analytics?u=76281980&t=50)** These are just some of the most common and powerful use cases that we've explored.
 >
-> **[0:55](https://www.linkedin.com/learning/chatgpt-and-sql/ai-use-cases-for-data-analytics?u=76281980&t=55)** We'll also show you videos where you can dive into Excel, Google Sheets, Power BI, SQL, and Python, and you can get some more specific walkthroughs of each of these different use cases in action.
+> **[0:55](https://www.linkedin.com/learning/chatgpt-and-sql/ai-use-cases-for-data-analytics?u=76281980&t=55)** We'll also show you videos where you can dive into [[Microsoft Excel|Excel]], [[Google]] Sheets, [[Microsoft Power BI|Power BI]], [[SQL]], and [[Python (Programming Language)|Python]], and you can get some more specific walkthroughs of each of these different use cases in action.
 >
 > **[1:07](https://www.linkedin.com/learning/chatgpt-and-sql/ai-use-cases-for-data-analytics?u=76281980&t=67)** I hope to check those out and just remember that some of these use cases are already firing on all cylinders for these AI tools.
 >
@@ -302,7 +298,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), data (2), [[Analytics]] (1), [[Troubleshooting]] (1), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[Data Storytelling]] (1), [[Microsoft Excel|Excel]] (1), [[Google]] (1), [[Microsoft Power BI|Power bi]] (1), [[SQL]] (1)
 > **CLI Commands:** make (1), python (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
@@ -312,14 +308,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The AI landscape
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-and-sql/the-ai-landscape?u=76281980)
+#### [The AI landscape](https://www.linkedin.com/learning/chatgpt-and-sql/the-ai-landscape?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/chatgpt-and-sql/the-ai-landscape?u=76281980&t=0)** - [Instructor] Before we dive into specific AI tools like ChatGPT and Google Bard, it's worth taking a step back and understanding the broader AI landscape.
+> **[0:00](https://www.linkedin.com/learning/chatgpt-and-sql/the-ai-landscape?u=76281980&t=0)** - [Instructor] Before we dive into specific AI tools like [[ChatGPT]] and [[Google]] Bard, it's worth taking a step back and understanding the broader AI landscape.
 >
-> **[0:09](https://www.linkedin.com/learning/chatgpt-and-sql/the-ai-landscape?u=76281980&t=9)** Artificial intelligence is a very broad term that relates to machines and computer systems that mimic functions associated with human intelligence, like decision-making, image recognition, self-driving cars, and more.
+> **[0:09](https://www.linkedin.com/learning/chatgpt-and-sql/the-ai-landscape?u=76281980&t=9)** [[Artificial Intelligence (AI)|Artificial intelligence]] is a very broad term that relates to machines and computer systems that mimic functions associated with human intelligence, like [[Decision-Making]], image recognition, self-driving cars, and more.
 >
 > **[0:22](https://www.linkedin.com/learning/chatgpt-and-sql/the-ai-landscape?u=76281980&t=22)** Within the field of artificial intelligence lies machine learning.
 >
@@ -329,13 +324,13 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/chatgpt-and-sql/the-ai-landscape?u=76281980&t=37)** And that more data piece is critical in explaining why we've seen an explosion in AI and machine learning in the past few decades.
 >
-> **[0:44](https://www.linkedin.com/learning/chatgpt-and-sql/the-ai-landscape?u=76281980&t=44)** With the proliferation of the internet, mobile devices, internet of things, we're now generating more data than we ever have, and that's enabled machine learning to become more accurate than it ever could have been prior to some of these inventions.
+> **[0:44](https://www.linkedin.com/learning/chatgpt-and-sql/the-ai-landscape?u=76281980&t=44)** With the proliferation of the internet, mobile devices, [[IoT|internet of things]], we're now generating more data than we ever have, and that's enabled machine learning to become more accurate than it ever could have been prior to some of these inventions.
 >
-> **[0:58](https://www.linkedin.com/learning/chatgpt-and-sql/the-ai-landscape?u=76281980&t=58)** And within machine learning lies deep learning.
+> **[0:58](https://www.linkedin.com/learning/chatgpt-and-sql/the-ai-landscape?u=76281980&t=58)** And within machine learning lies [[Deep Learning]].
 >
-> **[1:00](https://www.linkedin.com/learning/chatgpt-and-sql/the-ai-landscape?u=76281980&t=60)** This is a very complex family of algorithms that's designed to mimic the human brain and learn almost exclusively without human intervention.
+> **[1:00](https://www.linkedin.com/learning/chatgpt-and-sql/the-ai-landscape?u=76281980&t=60)** This is a very complex family of [[Algorithms]] that's designed to mimic the human brain and learn almost exclusively without human intervention.
 >
-> **[1:09](https://www.linkedin.com/learning/chatgpt-and-sql/the-ai-landscape?u=76281980&t=69)** Large language models like ChatGPT and Google Bard fall within this category.
+> **[1:09](https://www.linkedin.com/learning/chatgpt-and-sql/the-ai-landscape?u=76281980&t=69)** [[Large Language Models (LLM)|Large language models]] like ChatGPT and Google Bard fall within this category.
 >
 > **[1:14](https://www.linkedin.com/learning/chatgpt-and-sql/the-ai-landscape?u=76281980&t=74)** And speaking of the human brain, there's still one area where these models are not able to approach what humans are able to do, and that brings up the conversation between weak versus strong AI.
 >
@@ -355,7 +350,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/chatgpt-and-sql/the-ai-landscape?u=76281980&t=133)** As of now, we haven't seen any strong AI systems implemented, but this is likely on the horizon and possibly within our lifetimes.
 >
-> **[2:21](https://www.linkedin.com/learning/chatgpt-and-sql/the-ai-landscape?u=76281980&t=141)** And just in case you were wondering, both machine learning and deep learning have their roots and statistics.
+> **[2:21](https://www.linkedin.com/learning/chatgpt-and-sql/the-ai-landscape?u=76281980&t=141)** And just in case you were wondering, both machine learning and deep learning have their roots and [[Statistics]].
 >
 > **[2:26](https://www.linkedin.com/learning/chatgpt-and-sql/the-ai-landscape?u=76281980&t=146)** A lot of the algorithms rely on statistical concepts.
 >
@@ -373,33 +368,32 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/chatgpt-and-sql/the-ai-landscape?u=76281980&t=192)** They're often picking up millions or billions of nuances and data that we really can't understand or detect.
 >
-> **[3:18](https://www.linkedin.com/learning/chatgpt-and-sql/the-ai-landscape?u=76281980&t=198)** But now let's take a look at generative AI specifically.
+> **[3:18](https://www.linkedin.com/learning/chatgpt-and-sql/the-ai-landscape?u=76281980&t=198)** But now let's take a look at [[Generative AI]] specifically.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[ChatGPT]] (4), data (4), [[Algorithms]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (3)
+> **Frameworks & Libraries:** [[ChatGPT]] (4), [[Algorithms]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Deep Learning]] (3), [[Google]] (2)
 > **Definitions:** is a  (3), defined as (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generative AI and large language models
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-and-sql/generative-ai-large-language-models?u=76281980)
+#### [Generative AI and large language models](https://www.linkedin.com/learning/chatgpt-and-sql/generative-ai-large-language-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/chatgpt-and-sql/generative-ai-large-language-models?u=76281980&t=1)** - [Instructor] Generative AI systems are deep learning models capable of generating original text, images and other types of media in response to user prompts.
+> **[0:01](https://www.linkedin.com/learning/chatgpt-and-sql/generative-ai-large-language-models?u=76281980&t=1)** - [Instructor] [[Generative AI]] systems are [[Deep Learning]] models capable of generating original text, images and other types of media in response to user prompts.
 >
-> **[0:09](https://www.linkedin.com/learning/chatgpt-and-sql/generative-ai-large-language-models?u=76281980&t=9)** Large language models, which is what we're focused on in this course, are generative AI models focused on producing text output specifically.
+> **[0:09](https://www.linkedin.com/learning/chatgpt-and-sql/generative-ai-large-language-models?u=76281980&t=9)** [[Large Language Models (LLM)|Large language models]], which is what we're focused on in this course, are generative AI models focused on producing text output specifically.
 >
-> **[0:17](https://www.linkedin.com/learning/chatgpt-and-sql/generative-ai-large-language-models?u=76281980&t=17)** Other generative AI models include DALL-E and Midjourney, which are used to generate images.
+> **[0:17](https://www.linkedin.com/learning/chatgpt-and-sql/generative-ai-large-language-models?u=76281980&t=17)** Other generative AI models include [[DALL-E]] and [[Midjourney]], which are used to generate images.
 >
-> **[0:22](https://www.linkedin.com/learning/chatgpt-and-sql/generative-ai-large-language-models?u=76281980&t=22)** And if you haven't heard of these two tools yet, I highly suggest taking a look for Midjourney images on Google.
+> **[0:22](https://www.linkedin.com/learning/chatgpt-and-sql/generative-ai-large-language-models?u=76281980&t=22)** And if you haven't heard of these two tools yet, I highly suggest taking a look for Midjourney images on [[Google]].
 >
 > **[0:28](https://www.linkedin.com/learning/chatgpt-and-sql/generative-ai-large-language-models?u=76281980&t=28)** You'll find some very interesting images that have been created by AI.
 >
-> **[0:32](https://www.linkedin.com/learning/chatgpt-and-sql/generative-ai-large-language-models?u=76281980&t=32)** And so just to give us a little bit of insight into how complex these algorithms really are, let's take a look at a simple language model.
+> **[0:32](https://www.linkedin.com/learning/chatgpt-and-sql/generative-ai-large-language-models?u=76281980&t=32)** And so just to give us a little bit of insight into how complex these [[Algorithms]] really are, let's take a look at a simple language model.
 >
-> **[0:39](https://www.linkedin.com/learning/chatgpt-and-sql/generative-ai-large-language-models?u=76281980&t=39)** So maybe the first prototype of ChatGPT looks something like this.
+> **[0:39](https://www.linkedin.com/learning/chatgpt-and-sql/generative-ai-large-language-models?u=76281980&t=39)** So maybe the first prototype of [[ChatGPT]] looks something like this.
 >
 > **[0:44](https://www.linkedin.com/learning/chatgpt-and-sql/generative-ai-large-language-models?u=76281980&t=44)** I prompt the machine, the capital of France is and we hope to see the capital of France is Paris and returned.
 >
@@ -409,7 +403,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/chatgpt-and-sql/generative-ai-large-language-models?u=76281980&t=59)** The model doesn't know that Paris is the correct response, but suggests the answer that it thinks is most probable in the given context.
 >
-> **[1:06](https://www.linkedin.com/learning/chatgpt-and-sql/generative-ai-large-language-models?u=76281980&t=66)** So 99 times out of 100 when we see the capital of France is the last word there will be Paris.
+> **[1:06](https://www.linkedin.com/learning/chatgpt-and-sql/generative-ai-large-language-models?u=76281980&t=66)** So 99 times out of 100 when we see the capital of France is the last [[Microsoft Word|word]] there will be Paris.
 >
 > **[1:13](https://www.linkedin.com/learning/chatgpt-and-sql/generative-ai-large-language-models?u=76281980&t=73)** But this model has to compare Paris with thousands of words and determine that it had the strongest relationship with words like capital and France.
 >
@@ -417,7 +411,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/chatgpt-and-sql/generative-ai-large-language-models?u=76281980&t=86)** But remember that the word capital has multiple meanings, that France has had other capitals historically, and that the blank could also be things like beautiful, a popular tourist destination, et cetera.
 >
-> **[1:37](https://www.linkedin.com/learning/chatgpt-and-sql/generative-ai-large-language-models?u=76281980&t=97)** So even though we expect the answer to be Paris, these models have to rank the probability that Paris is the correct answer against thousands, if not hundreds of thousands of other options that might have some probability of being correct.
+> **[1:37](https://www.linkedin.com/learning/chatgpt-and-sql/generative-ai-large-language-models?u=76281980&t=97)** So even though we expect the answer to be Paris, these models have to rank the [[Probability]] that Paris is the correct answer against thousands, if not hundreds of thousands of other options that might have some probability of being correct.
 >
 > **[1:50](https://www.linkedin.com/learning/chatgpt-and-sql/generative-ai-large-language-models?u=76281980&t=110)** And when we take that a step further, our large language model has to do a lot more work.
 >
@@ -463,7 +457,7 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/chatgpt-and-sql/generative-ai-large-language-models?u=76281980&t=242)** And LLMs like ChatGPT are among the most sophisticated deep learning models ever built.
 >
-> **[4:08](https://www.linkedin.com/learning/chatgpt-and-sql/generative-ai-large-language-models?u=76281980&t=248)** GPT-4, which currently powers premium versions of ChatGPT cost over a hundred million dollars and took 11 months of computing to train with some of the most state-of-the-art compute available to us.
+> **[4:08](https://www.linkedin.com/learning/chatgpt-and-sql/generative-ai-large-language-models?u=76281980&t=248)** [[GPT-4]], which currently powers premium versions of ChatGPT cost over a hundred million dollars and took 11 months of computing to train with some of the most state-of-the-art compute available to us.
 >
 > **[4:20](https://www.linkedin.com/learning/chatgpt-and-sql/generative-ai-large-language-models?u=76281980&t=260)** So these are incredibly complex and expensive algorithms that have unparalleled access to data and unparalleled complexity.
 >
@@ -471,18 +465,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (9), [[Generative AI]] (4), [[Deep Learning]] (4), data (4), prompt (3)
+> **Frameworks & Libraries:** [[ChatGPT]] (9), [[Generative AI]] (4), [[Deep Learning]] (4), [[Large Language Models (LLM)|Large language models]] (2), [[Midjourney]] (2)
 > **Env Vars:** gpt (2), dall (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** stands for (1), known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### The road to ChatGPT
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-and-sql/the-road-to-chatgpt?u=76281980)
+#### [The road to ChatGPT](https://www.linkedin.com/learning/chatgpt-and-sql/the-road-to-chatgpt?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/chatgpt-and-sql/the-road-to-chatgpt?u=76281980&t=0)** - [Instructor] AI tools like ChatGPT became widely popular in late 2022, but they owe their success to more than 60 years of research and development in artificial intelligence systems.
+> **[0:00](https://www.linkedin.com/learning/chatgpt-and-sql/the-road-to-chatgpt?u=76281980&t=0)** - [Instructor] AI tools like [[ChatGPT]] became widely popular in late 2022, but they owe their success to more than 60 years of research and development in [[Artificial Intelligence (AI)|artificial intelligence]] systems.
 >
 > **[0:11](https://www.linkedin.com/learning/chatgpt-and-sql/the-road-to-chatgpt?u=76281980&t=11)** Outside of AI research, we also saw massive surges in computing power, storage capabilities, data generation, and much more.
 >
@@ -490,7 +483,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/chatgpt-and-sql/the-road-to-chatgpt?u=76281980&t=28)** So this chart here shows the increasing complexity of neural network models over time.
 >
-> **[0:33](https://www.linkedin.com/learning/chatgpt-and-sql/the-road-to-chatgpt?u=76281980&t=33)** So on our x-axis, we have time, and on our y-axis, we have the number of model parameters that specific neural networks had.
+> **[0:33](https://www.linkedin.com/learning/chatgpt-and-sql/the-road-to-chatgpt?u=76281980&t=33)** So on our x-axis, we have time, and on our y-axis, we have the number of model parameters that specific [[Neural Networks]] had.
 >
 > **[0:42](https://www.linkedin.com/learning/chatgpt-and-sql/the-road-to-chatgpt?u=76281980&t=42)** And so the term artificial intelligence was only coined in 1955, and a few years later, the first neural network algorithm was implemented.
 >
@@ -506,7 +499,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/chatgpt-and-sql/the-road-to-chatgpt?u=76281980&t=95)** AI research really started to pick back up again in the mid-'80s after a novel neural network architecture was created.
 >
-> **[1:42](https://www.linkedin.com/learning/chatgpt-and-sql/the-road-to-chatgpt?u=76281980&t=102)** Multilayer perceptrons, which helped solve the issues researchers found in the late '60s, as well as back propagation, which was a technique for allowing these algorithms to solve for their own errors better, were implemented in the same algorithm, and this made them much more powerful and opened up the door to new practical applications.
+> **[1:42](https://www.linkedin.com/learning/chatgpt-and-sql/the-road-to-chatgpt?u=76281980&t=102)** Multilayer perceptrons, which helped solve the issues researchers found in the late '60s, as well as back propagation, which was a technique for allowing these [[Algorithms]] to solve for their own errors better, were implemented in the same algorithm, and this made them much more powerful and opened up the door to new practical applications.
 >
 > **[2:02](https://www.linkedin.com/learning/chatgpt-and-sql/the-road-to-chatgpt?u=76281980&t=122)** In the meantime, corporations were starting to get invested into the artificial intelligence game.
 >
@@ -518,7 +511,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/chatgpt-and-sql/the-road-to-chatgpt?u=76281980&t=153)** This opened up the door to a widespread array of practical applications that had tremendous economic benefit, and we really started to see a lot more interest back in neural networks once again.
 >
-> **[2:44](https://www.linkedin.com/learning/chatgpt-and-sql/the-road-to-chatgpt?u=76281980&t=164)** In the mid-2000s, the first neural network with deep learning capabilities was developed, and this is one of the most important breakthroughs that led to some of the AI tools we saw today.
+> **[2:44](https://www.linkedin.com/learning/chatgpt-and-sql/the-road-to-chatgpt?u=76281980&t=164)** In the mid-2000s, the first neural network with [[Deep Learning]] capabilities was developed, and this is one of the most important breakthroughs that led to some of the AI tools we saw today.
 >
 > **[2:54](https://www.linkedin.com/learning/chatgpt-and-sql/the-road-to-chatgpt?u=76281980&t=174)** And so just to point out, from about 1955 to about 2010, we saw about a two-year doubling in terms of the number of parameters that models had.
 >
@@ -526,7 +519,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/chatgpt-and-sql/the-road-to-chatgpt?u=76281980&t=190)** So every four months, these models are getting twice as complex as they were before.
 >
-> **[3:16](https://www.linkedin.com/learning/chatgpt-and-sql/the-road-to-chatgpt?u=76281980&t=196)** We're not necessarily forecasting that this doubling is going to progress at the same rate.
+> **[3:16](https://www.linkedin.com/learning/chatgpt-and-sql/the-road-to-chatgpt?u=76281980&t=196)** We're not necessarily [[Forecasting]] that this doubling is going to progress at the same rate.
 >
 > **[3:21](https://www.linkedin.com/learning/chatgpt-and-sql/the-road-to-chatgpt?u=76281980&t=201)** It may increase.
 >
@@ -546,11 +539,11 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/chatgpt-and-sql/the-road-to-chatgpt?u=76281980&t=243)** This was powered by deep learning, and Go was considered a much more challenging problem for computers to solve than chess, which was a little bit more predictable in terms of what players could do.
 >
-> **[4:13](https://www.linkedin.com/learning/chatgpt-and-sql/the-road-to-chatgpt?u=76281980&t=253)** In 2017, researchers at Google published a paper on transformer layers, introducing them into neural networks.
+> **[4:13](https://www.linkedin.com/learning/chatgpt-and-sql/the-road-to-chatgpt?u=76281980&t=253)** In 2017, researchers at [[Google]] published a paper on transformer layers, introducing them into neural networks.
 >
 > **[4:21](https://www.linkedin.com/learning/chatgpt-and-sql/the-road-to-chatgpt?u=76281980&t=261)** Transformer layers were the last key piece of machine learning research necessary to create algorithms like ChatGPT.
 >
-> **[4:28](https://www.linkedin.com/learning/chatgpt-and-sql/the-road-to-chatgpt?u=76281980&t=268)** And from there, shortly after we seen GPT-1, GPT-2, GPT-3, and finally, GPT-4 all released in about a five-year span.
+> **[4:28](https://www.linkedin.com/learning/chatgpt-and-sql/the-road-to-chatgpt?u=76281980&t=268)** And from there, shortly after we seen GPT-1, GPT-2, GPT-3, and finally, [[GPT-4]] all released in about a five-year span.
 >
 > **[4:37](https://www.linkedin.com/learning/chatgpt-and-sql/the-road-to-chatgpt?u=76281980&t=277)** And in terms of model parameters, GPT-1 had about a hundred million parameters, while GPT-4 had over 1 trillion, representing about a 10,000 times increase in terms of model complexity.
 >
@@ -562,19 +555,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), [[ChatGPT]] (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (4), [[Neural Networks]] (4), [[GPT-4]] (4)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (4), [[Neural Networks]] (4), [[GPT-4]] (4), [[Deep Learning]] (3)
 > **Env Vars:** gpt (9), ibm (2), mit (1), eliza (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generative AI tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-and-sql/generative-ai-tools?u=76281980)
+#### [Generative AI tools](https://www.linkedin.com/learning/chatgpt-and-sql/generative-ai-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/chatgpt-and-sql/generative-ai-tools?u=76281980&t=0)** - [Narrator] The rate of adoption for modern AI tools is unprecedented.
 >
-> **[0:04](https://www.linkedin.com/learning/chatgpt-and-sql/generative-ai-tools?u=76281980&t=4)** ChatGPT became the fastest growing online product in history, reaching 1 million users in only five days.
+> **[0:04](https://www.linkedin.com/learning/chatgpt-and-sql/generative-ai-tools?u=76281980&t=4)** [[ChatGPT]] became the fastest growing online product in history, reaching 1 million users in only five days.
 >
 > **[0:11](https://www.linkedin.com/learning/chatgpt-and-sql/generative-ai-tools?u=76281980&t=11)** So if it felt like ChatGPT came out of nowhere, it sort of did.
 >
@@ -598,9 +590,9 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/chatgpt-and-sql/generative-ai-tools?u=76281980&t=73)** So we expect a lot of areas of traditional work to be transformed or augmented by these tools.
 >
-> **[1:20](https://www.linkedin.com/learning/chatgpt-and-sql/generative-ai-tools?u=76281980&t=80)** But in this course, we'll be primarily focused on two tools, OpenAI's ChatGPT, and Google's Gemini, two of the most popular GPT tools on the market.
+> **[1:20](https://www.linkedin.com/learning/chatgpt-and-sql/generative-ai-tools?u=76281980&t=80)** But in this course, we'll be primarily focused on two tools, OpenAI's ChatGPT, and [[Google]]'s [[Gemini]], two of the most popular GPT tools on the market.
 >
-> **[1:29](https://www.linkedin.com/learning/chatgpt-and-sql/generative-ai-tools?u=76281980&t=89)** ChatGPT was developed by OpenAI, which has a very close relationship with Microsoft.
+> **[1:29](https://www.linkedin.com/learning/chatgpt-and-sql/generative-ai-tools?u=76281980&t=89)** ChatGPT was developed by OpenAI, which has a very close relationship with [[Microsoft]].
 >
 > **[1:34](https://www.linkedin.com/learning/chatgpt-and-sql/generative-ai-tools?u=76281980&t=94)** And Gemini was developed in-house at Google.
 >
@@ -622,23 +614,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (8), [[Gemini]] (6), ai (5), [[Google]] (4), product (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (8), [[Gemini]] (6), [[Google]] (4), [[Microsoft]] (1)
 > **Versions:** 3.5 (1), 2.5 (1)
 > **Definitions:** known as (2)
 > **Env Vars:** gpt (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [narrator] (1)
 
-#### Warning: Pitfalls of ChatGPT
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-and-sql/warning-pitfalls-of-chatgpt?u=76281980)
+#### [Warning: Pitfalls of ChatGPT](https://www.linkedin.com/learning/chatgpt-and-sql/warning-pitfalls-of-chatgpt?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/chatgpt-and-sql/warning-pitfalls-of-chatgpt?u=76281980&t=0)** - [Narrator] Okay, so I've just spent the last several videos hyping up the achievements and capabilities of artificial intelligence, and while modern AI tools are certainly impressive and often very useful, they are by no means perfect tools, and so we need to be aware of some common pitfalls to get the most out of these tools and working with them.
+> **[0:00](https://www.linkedin.com/learning/chatgpt-and-sql/warning-pitfalls-of-chatgpt?u=76281980&t=0)** - [Narrator] Okay, so I've just spent the last several videos hyping up the achievements and capabilities of [[Artificial Intelligence (AI)|artificial intelligence]], and while modern AI tools are certainly impressive and often very useful, they are by no means perfect tools, and so we need to be aware of some common pitfalls to get the most out of these tools and working with them.
 >
 > **[0:19](https://www.linkedin.com/learning/chatgpt-and-sql/warning-pitfalls-of-chatgpt?u=76281980&t=19)** The first and probably most concerning is that LLMs are known to hallucinate facts with total confidence.
 >
-> **[0:25](https://www.linkedin.com/learning/chatgpt-and-sql/warning-pitfalls-of-chatgpt?u=76281980&t=25)** There's a famous case circulating on social media, where a user asked ChatGPT to perform some research on a medical topic.
+> **[0:25](https://www.linkedin.com/learning/chatgpt-and-sql/warning-pitfalls-of-chatgpt?u=76281980&t=25)** There's a famous case circulating on social media, where a user asked [[ChatGPT]] to perform some research on a medical topic.
 >
 > **[0:32](https://www.linkedin.com/learning/chatgpt-and-sql/warning-pitfalls-of-chatgpt?u=76281980&t=32)** ChatGPT provided an extremely comprehensive response and cited a number of research papers and authors along the way.
 >
@@ -658,13 +649,13 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/chatgpt-and-sql/warning-pitfalls-of-chatgpt?u=76281980&t=98)** LLMs may not understand specific business context or the why behind the responses they produce.
 >
-> **[1:44](https://www.linkedin.com/learning/chatgpt-and-sql/warning-pitfalls-of-chatgpt?u=76281980&t=104)** So, when I'm working with ChatGPT to help me with Python code, it tends to do very well with the what and how.
+> **[1:44](https://www.linkedin.com/learning/chatgpt-and-sql/warning-pitfalls-of-chatgpt?u=76281980&t=104)** So, when I'm working with ChatGPT to help me with [[Python (Programming Language)|Python]] code, it tends to do very well with the what and how.
 >
 > **[1:50](https://www.linkedin.com/learning/chatgpt-and-sql/warning-pitfalls-of-chatgpt?u=76281980&t=110)** What function should I use to perform this analysis and how should I perform them?
 >
 > **[1:55](https://www.linkedin.com/learning/chatgpt-and-sql/warning-pitfalls-of-chatgpt?u=76281980&t=115)** But it struggles with the why.
 >
-> **[1:56](https://www.linkedin.com/learning/chatgpt-and-sql/warning-pitfalls-of-chatgpt?u=76281980&t=116)** If I need to filter some retail sales data down to a specific set of products, it will tell me how to do that, but it won't necessarily understand why I'm filtering down to a specific set of products.
+> **[1:56](https://www.linkedin.com/learning/chatgpt-and-sql/warning-pitfalls-of-chatgpt?u=76281980&t=116)** If I need to filter some retail sales data down to a specific set of [[Microsoft Products|products]], it will tell me how to do that, but it won't necessarily understand why I'm filtering down to a specific set of products.
 >
 > **[2:08](https://www.linkedin.com/learning/chatgpt-and-sql/warning-pitfalls-of-chatgpt?u=76281980&t=128)** And finally, LLMs are not capable of common sense or human judgment.
 >
@@ -680,25 +671,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (6), data (2), [[Microsoft Products|Products]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), ai (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (6), [[Microsoft Products|Products]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (1), python (1)
 > **Warnings:** be aware (2)
 > **Speakers:** - [narrator] (1)
 
-#### Accessing ChatGPT and Google Bard
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-and-sql/accessing-chatgpt-google-bard?u=76281980)
+#### [Accessing ChatGPT and Google Bard](https://www.linkedin.com/learning/chatgpt-and-sql/accessing-chatgpt-google-bard?u=76281980)
 
 
 ### 3. Prompt Engineering
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Intro to prompt engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-and-sql/intro-to-prompt-engineering?u=76281980)
+#### [Intro to prompt engineering](https://www.linkedin.com/learning/chatgpt-and-sql/intro-to-prompt-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/chatgpt-and-sql/intro-to-prompt-engineering?u=76281980&t=0)** - [Instructor] Hey everybody, In this video we are going to talk about prompt engineering.
+> **[0:00](https://www.linkedin.com/learning/chatgpt-and-sql/intro-to-prompt-engineering?u=76281980&t=0)** - [Instructor] Hey everybody, In this video we are going to talk about [[Prompt Engineering]].
 >
 > **[0:04](https://www.linkedin.com/learning/chatgpt-and-sql/intro-to-prompt-engineering?u=76281980&t=4)** You may have heard the term prompt engineering in the context of AI tools.
 >
@@ -706,7 +695,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/chatgpt-and-sql/intro-to-prompt-engineering?u=76281980&t=14)** Don't worry, this is all pretty simple and we'll walk you through it step-by-step.
 >
-> **[0:18](https://www.linkedin.com/learning/chatgpt-and-sql/intro-to-prompt-engineering?u=76281980&t=18)** So first, a prompt is a question or a set of instructions that is going to serve as the input for AI tools like ChatGPT or Google Bard.
+> **[0:18](https://www.linkedin.com/learning/chatgpt-and-sql/intro-to-prompt-engineering?u=76281980&t=18)** So first, a prompt is a question or a set of instructions that is going to serve as the input for AI tools like [[ChatGPT]] or [[Google]] Bard.
 >
 > **[0:28](https://www.linkedin.com/learning/chatgpt-and-sql/intro-to-prompt-engineering?u=76281980&t=28)** And prompt engineering is the practice of writing prompts that are going to generate the most effective and accurate responses.
 >
@@ -716,7 +705,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/chatgpt-and-sql/intro-to-prompt-engineering?u=76281980&t=43)** It doesn't have to be a question.
 >
-> **[0:44](https://www.linkedin.com/learning/chatgpt-and-sql/intro-to-prompt-engineering?u=76281980&t=44)** It could be some direction. You could see the example, can you please explain how the offset function works in Excel?
+> **[0:44](https://www.linkedin.com/learning/chatgpt-and-sql/intro-to-prompt-engineering?u=76281980&t=44)** It could be some direction. You could see the example, can you please explain how the offset function works in [[Microsoft Excel|Excel]]?
 >
 > **[0:51](https://www.linkedin.com/learning/chatgpt-and-sql/intro-to-prompt-engineering?u=76281980&t=51)** And you'll get back a response like this, the responses will vary.
 >
@@ -742,19 +731,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (8), ai (4), [[Prompt Engineering]] (3), [[ChatGPT]] (2), [[Google]] (2)
+> **Frameworks & Libraries:** [[Prompt Engineering]] (3), [[ChatGPT]] (2), [[Google]] (2), [[Microsoft Excel|Excel]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Best Practices:** pro tip (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prompt tip: Be clear and specific
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-and-sql/prompt-tip-be-clear-specific?u=76281980)
+#### [Prompt tip: Be clear and specific](https://www.linkedin.com/learning/chatgpt-and-sql/prompt-tip-be-clear-specific?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/chatgpt-and-sql/prompt-tip-be-clear-specific?u=76281980&t=0)** - [Instructor] Hey everybody.
 >
-> **[0:00](https://www.linkedin.com/learning/chatgpt-and-sql/prompt-tip-be-clear-specific?u=76281980&t=0)** In this video we're going to go through our first tip for prompt engineering to get better results from your AI tools.
+> **[0:00](https://www.linkedin.com/learning/chatgpt-and-sql/prompt-tip-be-clear-specific?u=76281980&t=0)** In this video we're going to go through our first tip for [[Prompt Engineering]] to get better results from your AI tools.
 >
 > **[0:07](https://www.linkedin.com/learning/chatgpt-and-sql/prompt-tip-be-clear-specific?u=76281980&t=7)** And that tip is to be clear and specific.
 >
@@ -762,7 +750,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/chatgpt-and-sql/prompt-tip-be-clear-specific?u=76281980&t=14)** So let's go through an example.
 >
-> **[0:16](https://www.linkedin.com/learning/chatgpt-and-sql/prompt-tip-be-clear-specific?u=76281980&t=16)** Here we've got a question, we're working in Excel, and we want to know how to calculate year over year growth.
+> **[0:16](https://www.linkedin.com/learning/chatgpt-and-sql/prompt-tip-be-clear-specific?u=76281980&t=16)** Here we've got a question, we're working in [[Microsoft Excel|Excel]], and we want to know how to calculate year over year growth.
 >
 > **[0:21](https://www.linkedin.com/learning/chatgpt-and-sql/prompt-tip-be-clear-specific?u=76281980&t=21)** The response that we get back is good, but it could be even better if we told the AI tool exactly what we are trying to do.
 >
@@ -786,20 +774,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Microsoft Excel|Excel]] (3), data (2), [[Prompt Engineering]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Prompt Engineering]] (1)
 > **Env Vars:** c100 (1), b100 (1)
 > **Best Practices:** pro tip (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prompt tip: Provide context
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-and-sql/prompt-tip-provide-context?u=76281980)
+#### [Prompt tip: Provide context](https://www.linkedin.com/learning/chatgpt-and-sql/prompt-tip-provide-context?u=76281980)
 
-#### Prompt tip: Establish roles
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-and-sql/prompt-tip-establish-roles?u=76281980)
+#### [Prompt tip: Establish roles](https://www.linkedin.com/learning/chatgpt-and-sql/prompt-tip-establish-roles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/chatgpt-and-sql/prompt-tip-establish-roles?u=76281980&t=0)** - [Instructor] In this video, we're going to give you our next prompt engineering tip to get better results from AI tools like ChatGPT and Google Bard, and that's to establish roles.
+> **[0:00](https://www.linkedin.com/learning/chatgpt-and-sql/prompt-tip-establish-roles?u=76281980&t=0)** - [Instructor] In this video, we're going to give you our next [[Prompt Engineering]] tip to get better results from AI tools like [[ChatGPT]] and [[Google]] Bard, and that's to establish roles.
 >
 > **[0:08](https://www.linkedin.com/learning/chatgpt-and-sql/prompt-tip-establish-roles?u=76281980&t=8)** What that means is you can assign a role that the AI tool is going to play, and you can also assign a role that you, yourself, as the receiver of the information, is going to play.
 >
@@ -815,15 +801,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), data (3), [[ChatGPT]] (2), next (1), [[Prompt Engineering]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Prompt Engineering]] (1), [[Google]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prompt tip: Set the tone
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-and-sql/prompt-tip-set-the-tone?u=76281980)
+#### [Prompt tip: Set the tone](https://www.linkedin.com/learning/chatgpt-and-sql/prompt-tip-set-the-tone?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/chatgpt-and-sql/prompt-tip-set-the-tone?u=76281980&t=0)** - In this video, we're going to walk you through another tip for prompt engineering to get better results from AI tools like ChatGPT and Google Bard.
+> **[0:00](https://www.linkedin.com/learning/chatgpt-and-sql/prompt-tip-set-the-tone?u=76281980&t=0)** - In this video, we're going to walk you through another tip for [[Prompt Engineering]] to get better results from AI tools like [[ChatGPT]] and [[Google]] Bard.
 >
 > **[0:08](https://www.linkedin.com/learning/chatgpt-and-sql/prompt-tip-set-the-tone?u=76281980&t=8)** This time we're going to be talking about setting the tone, which can have a major impact on what you see as a response.
 >
@@ -851,7 +836,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), prompt (2), [[Prompt Engineering]] (1), [[ChatGPT]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Prompt Engineering]] (1), [[ChatGPT]] (1), [[Google]] (1)
 > **Best Practices:** pro tip (1)
 > **Speakers:** - in (1)
 
@@ -860,14 +845,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Intro to ChatGPT for SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-and-sql/intro-to-chatgpt-for-sql?u=76281980)
+#### [Intro to ChatGPT for SQL](https://www.linkedin.com/learning/chatgpt-and-sql/intro-to-chatgpt-for-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/chatgpt-and-sql/intro-to-chatgpt-for-sql?u=76281980&t=0)** - [Instructor] Hey, everybody.
 >
-> **[0:00](https://www.linkedin.com/learning/chatgpt-and-sql/intro-to-chatgpt-for-sql?u=76281980&t=0)** In this section, we're going to talk about some common SQL use cases for AI tools like ChatGPT and Google Bard.
+> **[0:00](https://www.linkedin.com/learning/chatgpt-and-sql/intro-to-chatgpt-for-sql?u=76281980&t=0)** In this section, we're going to talk about some common [[SQL]] use cases for AI tools like [[ChatGPT]] and [[Google]] Bard.
 >
 > **[0:07](https://www.linkedin.com/learning/chatgpt-and-sql/intro-to-chatgpt-for-sql?u=76281980&t=7)** Here are some of the topics that we'll cover.
 >
@@ -905,18 +889,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (8), ai (6), [[ChatGPT]] (2), [[Google]] (2)
+> **Frameworks & Libraries:** [[SQL]] (8), [[ChatGPT]] (2), [[Google]] (2)
 > **Env Vars:** sql (8)
 > **Speakers:** - [instructor] (1)
 
-#### Explain fundamental SQL concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-and-sql/explain-fundamental-sql-concepts?u=76281980)
+#### [Explain fundamental SQL concepts](https://www.linkedin.com/learning/chatgpt-and-sql/explain-fundamental-sql-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/chatgpt-and-sql/explain-fundamental-sql-concepts?u=76281980&t=0)** - [Instructor] Hey, everybody.
 >
-> **[0:00](https://www.linkedin.com/learning/chatgpt-and-sql/explain-fundamental-sql-concepts?u=76281980&t=0)** In this video we're going to use ChatGPT and Google Bard to explain some SQL concepts and topics.
+> **[0:00](https://www.linkedin.com/learning/chatgpt-and-sql/explain-fundamental-sql-concepts?u=76281980&t=0)** In this video we're going to use [[ChatGPT]] and [[Google]] Bard to explain some [[SQL]] concepts and topics.
 >
 > **[0:06](https://www.linkedin.com/learning/chatgpt-and-sql/explain-fundamental-sql-concepts?u=76281980&t=6)** This is a very common use case.
 >
@@ -1058,21 +1041,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[SQL]] (8), [[Google]] (3), ai (3), database (3)
+> **Frameworks & Libraries:** [[SQL]] (8), [[Google]] (3), [[ChatGPT]] (2)
 > **Env Vars:** sql (8)
 > **Definitions:** is a  (4)
 > **Analogies:** such as (2), for example (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Explain a SQL query
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-and-sql/explain-a-sql-query?u=76281980)
+#### [Explain a SQL query](https://www.linkedin.com/learning/chatgpt-and-sql/explain-a-sql-query?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/chatgpt-and-sql/explain-a-sql-query?u=76281980&t=0)** - [Instructor] Hi, everyone.
 >
-> **[0:01](https://www.linkedin.com/learning/chatgpt-and-sql/explain-a-sql-query?u=76281980&t=1)** In this video we're going to talk through how you can use ChatGPT or Google Bard or any other chat-based AI tool to explain a SQL query that you're working with if you don't know exactly what's going on.
+> **[0:01](https://www.linkedin.com/learning/chatgpt-and-sql/explain-a-sql-query?u=76281980&t=1)** In this video we're going to talk through how you can use [[ChatGPT]] or [[Google]] Bard or any other chat-based AI tool to explain a [[SQL]] query that you're working with if you don't know exactly what's going on.
 >
 > **[0:12](https://www.linkedin.com/learning/chatgpt-and-sql/explain-a-sql-query?u=76281980&t=12)** Like anytime we're using these tools, I'm going to prompt the AI tool with a little context.
 >
@@ -1236,28 +1218,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[Google]] (4), [[SQL]] (3), [[ChatGPT]] (2), data (2)
+> **Frameworks & Libraries:** [[Google]] (4), [[SQL]] (3), [[ChatGPT]] (2)
 > **Env Vars:** sql (3)
 > **Definitions:** means that (1), is a  (1)
 > **Warnings:** be careful (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add comments to a SQL query
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-and-sql/add-comments-to-a-sql-query?u=76281980)
+#### [Add comments to a SQL query](https://www.linkedin.com/learning/chatgpt-and-sql/add-comments-to-a-sql-query?u=76281980)
 
-#### Debug and troubleshoot SQL code
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-and-sql/debug-and-troubleshoot-sql-code?u=76281980)
+#### [Debug and troubleshoot SQL code](https://www.linkedin.com/learning/chatgpt-and-sql/debug-and-troubleshoot-sql-code?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/chatgpt-and-sql/debug-and-troubleshoot-sql-code?u=76281980&t=0)** - [Instructor] Hi everyone.
 >
-> **[0:01](https://www.linkedin.com/learning/chatgpt-and-sql/debug-and-troubleshoot-sql-code?u=76281980&t=1)** In this video we're going to be walking through another use case where SQL Analysts can use tools like Chat GPT or Google Bard in their workflow to improve their performance.
+> **[0:01](https://www.linkedin.com/learning/chatgpt-and-sql/debug-and-troubleshoot-sql-code?u=76281980&t=1)** In this video we're going to be walking through another use case where [[SQL]] Analysts can use tools like Chat GPT or [[Google]] Bard in their workflow to improve their performance.
 >
 > **[0:13](https://www.linkedin.com/learning/chatgpt-and-sql/debug-and-troubleshoot-sql-code?u=76281980&t=13)** And the use case we're going to be talking about today is using chat GPT or other tools to troubleshoot your errors in your SQL code.
 >
-> **[0:22](https://www.linkedin.com/learning/chatgpt-and-sql/debug-and-troubleshoot-sql-code?u=76281980&t=22)** So let's jump into MySQL Workbench.
+> **[0:22](https://www.linkedin.com/learning/chatgpt-and-sql/debug-and-troubleshoot-sql-code?u=76281980&t=22)** So let's jump into [[MySQL]] Workbench.
 >
 > **[0:25](https://www.linkedin.com/learning/chatgpt-and-sql/debug-and-troubleshoot-sql-code?u=76281980&t=25)** I'll show you this pretty simple query.
 >
@@ -1367,7 +1347,7 @@ created: 2026-05-02
 >
 > **[4:13](https://www.linkedin.com/learning/chatgpt-and-sql/debug-and-troubleshoot-sql-code?u=76281980&t=253)** But in the response when you're using any kind of a SQL editor, you can pull back the response here that you get as an error code.
 >
-> **[4:22](https://www.linkedin.com/learning/chatgpt-and-sql/debug-and-troubleshoot-sql-code?u=76281980&t=262)** And I'm going to do a little prompt engineering and try to improve the prompt and see if we can get a better result here.
+> **[4:22](https://www.linkedin.com/learning/chatgpt-and-sql/debug-and-troubleshoot-sql-code?u=76281980&t=262)** And I'm going to do a little [[Prompt Engineering]] and try to improve the prompt and see if we can get a better result here.
 >
 > **[4:28](https://www.linkedin.com/learning/chatgpt-and-sql/debug-and-troubleshoot-sql-code?u=76281980&t=268)** So first, I'm going to copy the error code in here, and then I'm going to go back and get the beginning of the prompt and I'm going to say same thing, senior analysts helping me out.
 >
@@ -1443,7 +1423,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (13), prompt (4), data (3), ai (3), next (2)
+> **Frameworks & Libraries:** [[SQL]] (13), [[Google]] (1), [[MySQL]] (1), [[Prompt Engineering]] (1)
 > **Env Vars:** sql (13), gpt (7)
 > **Definitions:** means that (2), is a  (2), is an  (1), defined as (1)
 > **Best Practices:** best practice (1), good practice (1)
@@ -1452,14 +1432,13 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a SQL query from scratch
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-and-sql/create-a-sql-query-from-scratch?u=76281980)
+#### [Create a SQL query from scratch](https://www.linkedin.com/learning/chatgpt-and-sql/create-a-sql-query-from-scratch?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/chatgpt-and-sql/create-a-sql-query-from-scratch?u=76281980&t=0)** - [Instructor] Hey everybody.
 >
-> **[0:01](https://www.linkedin.com/learning/chatgpt-and-sql/create-a-sql-query-from-scratch?u=76281980&t=1)** In this video we're going to be talking about how a SQL analyst can use AI tools like ChatGPT and Google Bard to create SQL queries from scratch.
+> **[0:01](https://www.linkedin.com/learning/chatgpt-and-sql/create-a-sql-query-from-scratch?u=76281980&t=1)** In this video we're going to be talking about how a [[SQL]] analyst can use AI tools like [[ChatGPT]] and [[Google]] Bard to create SQL queries from scratch.
 >
 > **[0:11](https://www.linkedin.com/learning/chatgpt-and-sql/create-a-sql-query-from-scratch?u=76281980&t=11)** So like we always do, I'm going to provide some context here.
 >
@@ -1489,7 +1468,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/chatgpt-and-sql/create-a-sql-query-from-scratch?u=76281980&t=66)** I'm just going to copy this.
 >
-> **[1:08](https://www.linkedin.com/learning/chatgpt-and-sql/create-a-sql-query-from-scratch?u=76281980&t=68)** I'm going to start a new chat and I'm going to try GPT-4 and just see if that will work any faster.
+> **[1:08](https://www.linkedin.com/learning/chatgpt-and-sql/create-a-sql-query-from-scratch?u=76281980&t=68)** I'm going to start a new chat and I'm going to try [[GPT-4]] and just see if that will work any faster.
 >
 > **[1:16](https://www.linkedin.com/learning/chatgpt-and-sql/create-a-sql-query-from-scratch?u=76281980&t=76)** There we go.
 >
@@ -1517,7 +1496,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/chatgpt-and-sql/create-a-sql-query-from-scratch?u=76281980&t=129)** The data will actually make sense, but sometimes this will actually fail depending on your implementation.
 >
-> **[2:15](https://www.linkedin.com/learning/chatgpt-and-sql/create-a-sql-query-from-scratch?u=76281980&t=135)** So for example, if you're using MySQL Workbench, there's two settings.
+> **[2:15](https://www.linkedin.com/learning/chatgpt-and-sql/create-a-sql-query-from-scratch?u=76281980&t=135)** So for example, if you're using [[MySQL]] Workbench, there's two settings.
 >
 > **[2:19](https://www.linkedin.com/learning/chatgpt-and-sql/create-a-sql-query-from-scratch?u=76281980&t=139)** There's a setting that will allow this to run.
 >
@@ -1675,7 +1654,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (6), ai (4), [[ChatGPT]] (3), [[Google]] (2), next (2)
+> **Frameworks & Libraries:** [[SQL]] (6), [[ChatGPT]] (3), [[Google]] (2), [[GPT-4]] (2), [[MySQL]] (1)
 > **Env Vars:** sql (6), usd (5), gpt (3)
 > **CLI Commands:** make (3), mysql (1)
 > **Definitions:** is a  (2), is called (1)
@@ -1684,14 +1663,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Best Practices:** remember to (1)
 
-#### Optimize SQL queries
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-and-sql/optimize-sql-queries?u=76281980)
+#### [Optimize SQL queries](https://www.linkedin.com/learning/chatgpt-and-sql/optimize-sql-queries?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/chatgpt-and-sql/optimize-sql-queries?u=76281980&t=0)** - [Instructor] Hi, everyone.
 >
-> **[0:01](https://www.linkedin.com/learning/chatgpt-and-sql/optimize-sql-queries?u=76281980&t=1)** In this video, we're going to talk about how a SQL database analyst can use AI tools like ChatGPT and Google Bard to improve their workflow and the specific use case we're talking about here is helping to optimize your SQL queries.
+> **[0:01](https://www.linkedin.com/learning/chatgpt-and-sql/optimize-sql-queries?u=76281980&t=1)** In this video, we're going to talk about how a [[SQL]] database analyst can use AI tools like [[ChatGPT]] and [[Google]] Bard to improve their workflow and the specific use case we're talking about here is helping to optimize your SQL queries.
 >
 > **[0:16](https://www.linkedin.com/learning/chatgpt-and-sql/optimize-sql-queries?u=76281980&t=16)** For me, there's really two places that this comes up on the job.
 >
@@ -1845,7 +1823,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (6), [[ChatGPT]] (6), next (3), [[Google]] (2), database (1)
+> **Frameworks & Libraries:** [[SQL]] (6), [[ChatGPT]] (6), [[Google]] (2)
 > **Env Vars:** distinct (8), sql (6), where (5), varchar (2), select (1)
 > **Code Identifiers:** student_id (13), attribution_clean (3), studentattribution_clean (1)
 > **SQL:** where (5), varchar (2), select (1)
@@ -1859,12 +1837,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Key takeaways and next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-and-sql/key-takeaways-next-steps?u=76281980)
+#### [Key takeaways and next steps](https://www.linkedin.com/learning/chatgpt-and-sql/key-takeaways-next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/chatgpt-and-sql/key-takeaways-next-steps?u=76281980&t=0)** - [Instructor] All right, so we just took a look at a ton of different ways analysts can use ChatGPT and Google Bard in their day-to-day work.
+> **[0:00](https://www.linkedin.com/learning/chatgpt-and-sql/key-takeaways-next-steps?u=76281980&t=0)** - [Instructor] All right, so we just took a look at a ton of different ways analysts can use [[ChatGPT]] and [[Google]] Bard in their day-to-day work.
 >
 > **[0:07](https://www.linkedin.com/learning/chatgpt-and-sql/key-takeaways-next-steps?u=76281980&t=7)** In some of the demos, ChatGPT and Bard performed amazingly well and gave us exactly what we needed.
 >
@@ -1876,7 +1853,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/chatgpt-and-sql/key-takeaways-next-steps?u=76281980&t=30)** So we expect there to be more cases where they perform exceptionally well and fewer where they fall flat.
 >
-> **[0:36](https://www.linkedin.com/learning/chatgpt-and-sql/key-takeaways-next-steps?u=76281980&t=36)** And so analysts who are able to leverage these tools will be able to stay competitive and excel in the age of AI.
+> **[0:36](https://www.linkedin.com/learning/chatgpt-and-sql/key-takeaways-next-steps?u=76281980&t=36)** And so analysts who are able to leverage these tools will be able to stay competitive and [[Microsoft Excel|excel]] in the age of AI.
 >
 > **[0:43](https://www.linkedin.com/learning/chatgpt-and-sql/key-takeaways-next-steps?u=76281980&t=43)** Analysts who shun these tools or stay out of the game will have a harder time keeping up with their colleagues that are AI-augmented.
 >
@@ -1884,7 +1861,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/chatgpt-and-sql/key-takeaways-next-steps?u=76281980&t=55)** Again, we expect this to get better over time, but you still always have to take these responses with a grain of salt and remember that you're ultimately responsible for verifying the accuracy of the model output.
 >
-> **[1:08](https://www.linkedin.com/learning/chatgpt-and-sql/key-takeaways-next-steps?u=76281980&t=68)** Prompt engineering can dramatically improve response quality.
+> **[1:08](https://www.linkedin.com/learning/chatgpt-and-sql/key-takeaways-next-steps?u=76281980&t=68)** [[Prompt Engineering]] can dramatically improve response quality.
 >
 > **[1:12](https://www.linkedin.com/learning/chatgpt-and-sql/key-takeaways-next-steps?u=76281980&t=72)** If you want to get good results, you need to provide good input.
 >
@@ -1898,7 +1875,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/chatgpt-and-sql/key-takeaways-next-steps?u=76281980&t=96)** In terms of revolutionizing the way analysts work, ChatGPT and Bard are only the beginning.
 >
-> **[1:42](https://www.linkedin.com/learning/chatgpt-and-sql/key-takeaways-next-steps?u=76281980&t=102)** In just the handful of months it's been since ChatGPT was released, we've already heard major announcements from companies like Microsoft and Tableau on integrating AI tools into the software analysts use on a daily basis.
+> **[1:42](https://www.linkedin.com/learning/chatgpt-and-sql/key-takeaways-next-steps?u=76281980&t=102)** In just the handful of months it's been since ChatGPT was released, we've already heard major announcements from companies like [[Microsoft]] and [[Tableau]] on integrating AI tools into the software analysts use on a daily basis.
 >
 > **[1:54](https://www.linkedin.com/learning/chatgpt-and-sql/key-takeaways-next-steps?u=76281980&t=114)** So these AI tools are going to be increasingly integrated with our analytics work.
 >
@@ -1920,7 +1897,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/chatgpt-and-sql/key-takeaways-next-steps?u=76281980&t=173)** So at Maven Analytics, we've always preached this, but this has never been more important.
 >
-> **[2:58](https://www.linkedin.com/learning/chatgpt-and-sql/key-takeaways-next-steps?u=76281980&t=178)** As tools like ChatGPT begin to automate more complex technical tasks, focus on developing your uniquely human skills, like problem solving, strategic thinking, communication, and business acumen.
+> **[2:58](https://www.linkedin.com/learning/chatgpt-and-sql/key-takeaways-next-steps?u=76281980&t=178)** As tools like ChatGPT begin to automate more complex technical tasks, focus on developing your uniquely human skills, like problem solving, [[Strategic Thinking]], communication, and [[Business Acumen]].
 >
 > **[3:09](https://www.linkedin.com/learning/chatgpt-and-sql/key-takeaways-next-steps?u=76281980&t=189)** If you're able to continue to grow in these areas, then AI is only going to make you better at your job.
 >
@@ -1934,7 +1911,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), [[ChatGPT]] (7), [[Analytics]] (3), [[Google]] (1), data (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (7), [[Google]] (1), [[Microsoft Excel|Excel]] (1), [[Prompt Engineering]] (1), [[Microsoft]] (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** as we saw (2)
 > **Analogies:** just like (1), picture (1)

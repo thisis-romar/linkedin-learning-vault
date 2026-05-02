@@ -86,20 +86,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Advanced decision trees with SPSS
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/advanced-decision-trees-with-spss?u=76281980)
+#### [Advanced decision trees with SPSS](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/advanced-decision-trees-with-spss?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/advanced-decision-trees-with-spss?u=76281980&t=0)** - [Keith] We're about to continue the journey that began with the decision trees with SPSS course.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/advanced-decision-trees-with-spss?u=76281980&t=0)** - [Keith] We're about to continue the journey that began with the [[Decision Trees]] with SPSS course.
 >
-> **[0:06](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/advanced-decision-trees-with-spss?u=76281980&t=6)** We've already learned about the two most popular and influential decision tree algorithms, but there are many more options than just those two.
+> **[0:06](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/advanced-decision-trees-with-spss?u=76281980&t=6)** We've already learned about the two most popular and influential decision tree [[Algorithms]], but there are many more options than just those two.
 >
 > **[0:15](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/advanced-decision-trees-with-spss?u=76281980&t=15)** I'm Keith McCormick and decision tree algorithms have been a constant companion during my nearly 30 years building predictive models.
 >
 > **[0:22](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/advanced-decision-trees-with-spss?u=76281980&t=22)** And this course, we'll learn about the QUEST algorithm and the very influential C5 algorithm.
 >
-> **[0:29](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/advanced-decision-trees-with-spss?u=76281980&t=29)** We'll also learn about some newer algorithms that have become available in IBM SPSS model or through Python libraries.
+> **[0:29](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/advanced-decision-trees-with-spss?u=76281980&t=29)** We'll also learn about some newer algorithms that have become available in [[IBM SPSS]] model or through [[Python (Programming Language)|Python]] libraries.
 >
 > **[0:38](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/advanced-decision-trees-with-spss?u=76281980&t=38)** There's a lot to cover, so let's dive right in.
 
@@ -110,18 +109,17 @@ created: 2026-05-02
 > **CLI Commands:** python (1)
 > **Speakers:** - [keith] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/what-you-should-know?u=76281980&t=0)** - [Narrator] This class is perfect for anyone with an interest in data science that wants to understand how decision trees work.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/what-you-should-know?u=76281980&t=0)** - [Narrator] This class is perfect for anyone with an interest in [[Data Science]] that wants to understand how [[Decision Trees]] work.
 >
 > **[0:06](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/what-you-should-know?u=76281980&t=6)** First, I urge you to check out the first decision trees course right here in the video library.
 >
 > **[0:13](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/what-you-should-know?u=76281980&t=13)** It assumes relatively little about the subject but will completely prepare you for this course.
 >
-> **[0:18](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/what-you-should-know?u=76281980&t=18)** Perhaps you have a particular interest in the QUEST or C5 algorithms which we're covering in this course, so you're tempted to start with this class.
+> **[0:18](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/what-you-should-know?u=76281980&t=18)** Perhaps you have a particular interest in the QUEST or C5 [[Algorithms]] which we're covering in this course, so you're tempted to start with this class.
 >
 > **[0:28](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/what-you-should-know?u=76281980&t=28)** Even if that's true, I would watch at least the first chapter of the previous course.
 >
@@ -131,7 +129,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/what-you-should-know?u=76281980&t=43)** The focus is thoroughly on the concepts though, so you won't need to know a great deal about the software, and if you're using different software, you should be able to learn a great deal about decision trees that you can apply in any environment.
 >
-> **[0:57](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/what-you-should-know?u=76281980&t=57)** How much statistics should you know?
+> **[0:57](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/what-you-should-know?u=76281980&t=57)** How much [[Statistics]] should you know?
 >
 > **[0:59](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/what-you-should-know?u=76281980&t=59)** Well, the course is as much about machine learning as it is about statistics.
 >
@@ -139,13 +137,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Decision Trees]] (4), [[Statistics]] (2), data (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Decision Trees]] (4), [[Statistics]] (2), [[Data Science]] (1), [[Algorithms]] (1)
 > **Env Vars:** quest (1), spss (1)
 > **Prerequisites:** prerequisite (1)
 > **Speakers:** - [narrator] (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/using-the-exercise-files?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -167,13 +164,13 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/using-the-exercise-files?u=76281980&t=44)** After you download it, go ahead and put it in the Exercise Files folder, as I've done.
 >
-> **[0:51](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/using-the-exercise-files?u=76281980&t=51)** If you want to click along, and I encourage you to do so, you'll want to get a copy of the IBM SPSS Modeler Trial.
+> **[0:51](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/using-the-exercise-files?u=76281980&t=51)** If you want to click along, and I encourage you to do so, you'll want to get a copy of the [[IBM SPSS]] Modeler Trial.
 >
 > **[0:59](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/using-the-exercise-files?u=76281980&t=59)** You'll have to get an IBM ID, but it's completely free, and the trial will last about 30 days, which should be more than enough time to work through the course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Search]] (1), [[IBM SPSS]] (1)
+> **Frameworks & Libraries:** [[IBM SPSS]] (1)
 > **Env Vars:** ibm (2), spss (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** go to (1), click on (1)
@@ -187,8 +184,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/overview?u=76281980)
+#### [Overview](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -206,7 +202,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/overview?u=76281980&t=27)** CART, Classification And Regression Trees, came out in 1984.
 >
-> **[0:33](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/overview?u=76281980&t=33)** So those algorithms were well known when QUEST came out in 1997.
+> **[0:33](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/overview?u=76281980&t=33)** So those [[Algorithms]] were well known when QUEST came out in 1997.
 >
 > **[0:39](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/overview?u=76281980&t=39)** So what were they trying to improve upon?
 >
@@ -236,14 +232,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Algorithms]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **Env Vars:** quest (7), cart (4), chaid (3)
 > **Definitions:** is an  (1), stands for (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### How QUEST handles nominal variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/how-quest-handles-nominal-variables?u=76281980)
+#### [How QUEST handles nominal variables](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/how-quest-handles-nominal-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -273,7 +268,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/how-quest-handles-nominal-variables?u=76281980&t=97)** Passenger class, sex, age, fare and embarked are among them.
 >
-> **[1:45](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/how-quest-handles-nominal-variables?u=76281980&t=105)** Now remember that whenever you're building a predictive analytics model, you need a method of validating your results.
+> **[1:45](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/how-quest-handles-nominal-variables?u=76281980&t=105)** Now remember that whenever you're building a [[Predictive Analytics]] model, you need a method of validating your results.
 >
 > **[1:52](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/how-quest-handles-nominal-variables?u=76281980&t=112)** In Modeler, the easiest way to do that is a partition node.
 >
@@ -313,7 +308,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/how-quest-handles-nominal-variables?u=76281980&t=217)** Notice for the other variables, it's doing a different calculation.
 >
-> **[3:40](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/how-quest-handles-nominal-variables?u=76281980&t=220)** But for all of them an adjusted probability can be used to rank the variables and that's how embarked is showing up fourth.
+> **[3:40](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/how-quest-handles-nominal-variables?u=76281980&t=220)** But for all of them an adjusted [[Probability]] can be used to rank the variables and that's how embarked is showing up fourth.
 >
 > **[3:50](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/how-quest-handles-nominal-variables?u=76281980&t=230)** I'm going to choose embarked and ask Modeler to grow a branch on the tree.
 >
@@ -335,7 +330,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (9), data (6), [[Probability]] (2), [[Predictive Analytics]] (1)
+> **Frameworks & Libraries:** [[Probability]] (2), [[Predictive Analytics]] (1)
 > **CLI Commands:** node (9), make (1)
 > **Env Vars:** quest (7)
 > **Definitions:** is a  (4)
@@ -344,8 +339,7 @@ created: 2026-05-02
 > **Versions:** 38.32 (1)
 > **Cross-References:** as we saw (1)
 
-#### How QUEST handles ordinal and continuous variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/how-quest-handles-ordinal-and-continuous-variables?u=76281980)
+#### [How QUEST handles ordinal and continuous variables](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/how-quest-handles-ordinal-and-continuous-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -463,15 +457,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (2), next (1)
 > **Env Vars:** quest (7), qda (1)
 > **Versions:** 72.5 (2), 0.000 (1)
 > **Definitions:** is a  (2), in other words (1)
 > **CLI Commands:** node (2)
 > **Speakers:** - [narrator] (1)
 
-#### How QUEST handles missing data
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/how-quest-handles-missing-data?u=76281980)
+#### [How QUEST handles missing data](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/how-quest-handles-missing-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -543,15 +535,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), node (7)
 > **CLI Commands:** node (7), find (1)
 > **UI Navigation:** go to (2)
 > **Versions:** 4.3 (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Pruning in QUEST
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/pruning-in-quest?u=76281980)
+#### [Pruning in QUEST](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/pruning-in-quest?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -585,7 +575,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/pruning-in-quest?u=76281980&t=70)** So you can see here that it's grown one, two, three, four, five levels.
 >
-> **[1:16](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/pruning-in-quest?u=76281980&t=76)** We can zoom in a little bit and take a look.
+> **[1:16](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/pruning-in-quest?u=76281980&t=76)** We can [[Zoom]] in a little bit and take a look.
 >
 > **[1:18](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/pruning-in-quest?u=76281980&t=78)** It split first on passenger class, not surprising given what we know about the history of the accident.
 >
@@ -624,8 +614,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [narrator] (1)
 
-#### Stopping rules in QUEST
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/stopping-rules-in-quest?u=76281980)
+#### [Stopping rules in QUEST](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/stopping-rules-in-quest?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -659,7 +648,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (1)
 > **Versions:** 0.05 (1), 0.01 (1), 0.1 (1)
 > **Env Vars:** quest (2)
 > **Definitions:** is a  (2)
@@ -672,16 +660,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### ID3 and C4.5
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/id3-and-c4-5?u=76281980)
+#### [ID3 and C4.5](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/id3-and-c4-5?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/id3-and-c4-5?u=76281980&t=0)** - [Narrator] As you explore and do reading about C5, you may come across two other algorithms, C4.5 and ID3.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/id3-and-c4-5?u=76281980&t=0)** - [Narrator] As you explore and do reading about C5, you may come across two other [[Algorithms]], C4.5 and ID3.
 >
 > **[0:09](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/id3-and-c4-5?u=76281980&t=9)** Let's take a moment to connect the dots between the three.
 >
-> **[0:13](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/id3-and-c4-5?u=76281980&t=13)** John Ross Quinlan is the common denominator.
+> **[0:13](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/id3-and-c4-5?u=76281980&t=13)** [[John the Ripper|John]] Ross Quinlan is the common denominator.
 >
 > **[0:16](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/id3-and-c4-5?u=76281980&t=16)** He's developed all three of them.
 >
@@ -709,14 +696,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (2)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[John the Ripper|John]] (1)
 > **CLI Commands:** find (3)
 > **Env Vars:** id3 (2)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [narrator] (1)
 
-#### Winnowing attributes
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/winnowing-attributes?u=76281980)
+#### [Winnowing attributes](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/winnowing-attributes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -794,7 +780,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (6), data (5), feature (1)
 > **CLI Commands:** node (6), find (2), make (1)
 > **Analogies:** similar to (2), imagine (1), it's like (1)
 > **Versions:** node 22 (1), node 24 (1)
@@ -802,8 +787,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Rule sets
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/rule-sets?u=76281980)
+#### [Rule sets](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/rule-sets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -811,7 +795,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/rule-sets?u=76281980&t=9)** The motivation is, is that trees can get quite complex.
 >
-> **[0:14](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/rule-sets?u=76281980&t=14)** Let's zoom out bit and take a look.
+> **[0:14](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/rule-sets?u=76281980&t=14)** Let's [[Zoom]] out bit and take a look.
 >
 > **[0:17](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/rule-sets?u=76281980&t=17)** We can see that there's a lot going on in this tree.
 >
@@ -854,8 +838,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [narrator] (1)
 
-#### Understanding information gain
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/understanding-information-gain?u=76281980)
+#### [Understanding information gain](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/understanding-information-gain?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -925,7 +908,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), node (2), hit (1)
 > **CLI Commands:** node (2), find (1)
 > **Env Vars:** id3 (3)
 > **Versions:** 1.0 (1)
@@ -933,8 +915,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Pruning in C5.0
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/pruning-in-c5-0?u=76281980)
+#### [Pruning in C5.0](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/pruning-in-c5-0?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1000,7 +981,7 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/pruning-in-c5-0?u=76281980&t=252)** So, let's take a look.
 >
-> **[4:13](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/pruning-in-c5-0?u=76281980&t=253)** Let's turn off global pruning and let this run, and as we zoom out, we get a sense of the tree here.
+> **[4:13](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/pruning-in-c5-0?u=76281980&t=253)** Let's turn off global pruning and let this run, and as we [[Zoom]] out, we get a sense of the tree here.
 >
 > **[4:25](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/pruning-in-c5-0?u=76281980&t=265)** It's actually a quite large complex tree.
 >
@@ -1028,7 +1009,7 @@ created: 2026-05-02
 >
 > **[5:32](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/pruning-in-c5-0?u=76281980&t=332)** In fact, given what we know about the passenger, these are probably bachelors traveling to North America for work or something.
 >
-> **[5:40](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/pruning-in-c5-0?u=76281980&t=340)** But we see that in the unpruned tree, there's an entire branch that forms there splitting on fare and then splitting on age and then actually splitting on fare again.
+> **[5:40](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/pruning-in-c5-0?u=76281980&t=340)** But we see that in the unpruned tree, there's an entire branch that [[Forms]] there splitting on fare and then splitting on age and then actually splitting on fare again.
 >
 > **[5:52](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/pruning-in-c5-0?u=76281980&t=352)** Whereas in the pruned tree, those 69 males traveling without siblings or spouses don't further branch at all.
 >
@@ -1070,7 +1051,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), node (3), [[Zoom]] (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[Forms]] (1)
 > **CLI Commands:** node (3), make (2), find (1)
 > **Tools:** notion (2)
 > **Definitions:** means that (1), is a  (1)
@@ -1078,8 +1059,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### How C5.0 handles missing data
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/how-c5-0-handles-missing-data?u=76281980)
+#### [How C5.0 handles missing data](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/how-c5-0-handles-missing-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1107,7 +1087,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/how-c5-0-handles-missing-data?u=76281980&t=83)** And then he does exactly the same thing again when he goes to score the data through the tree.
 >
-> **[1:29](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/how-c5-0-handles-missing-data?u=76281980&t=89)** What ends up happening is you get a probability that you've gone down one branch or the other, and that's how he's able to score record at deployment time.
+> **[1:29](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/how-c5-0-handles-missing-data?u=76281980&t=89)** What ends up happening is you get a [[Probability]] that you've gone down one branch or the other, and that's how he's able to score record at deployment time.
 >
 > **[1:37](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/how-c5-0-handles-missing-data?u=76281980&t=97)** He also comments on contrasting this with surrogates, which, of course, is the technique that's used in CART.
 >
@@ -1123,7 +1103,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/how-c5-0-handles-missing-data?u=76281980&t=127)** Then he goes on to explain that in certain domains he has doubts that those surrogates would be present.
 >
-> **[2:13](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/how-c5-0-handles-missing-data?u=76281980&t=133)** Let's briefly recap missing data in decision trees in general.
+> **[2:13](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/how-c5-0-handles-missing-data?u=76281980&t=133)** Let's briefly recap missing data in [[Decision Trees]] in general.
 >
 > **[2:18](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/how-c5-0-handles-missing-data?u=76281980&t=138)** CHAID treats missing as a separate category.
 >
@@ -1143,7 +1123,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Decision Trees]] (2), [[Probability]] (1), strengths (1)
+> **Frameworks & Libraries:** [[Decision Trees]] (2), [[Probability]] (1)
 > **Env Vars:** cart (2), chaid (2), quest (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
@@ -1154,8 +1134,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Ensembles
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/ensembles?u=76281980)
+#### [Ensembles](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/ensembles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1191,7 +1170,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/ensembles?u=76281980&t=106)** Let's take a look.
 >
-> **[1:48](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/ensembles?u=76281980&t=108)** $C is the prediction of the C5, so for Mr. Owen Harris, the prediction is that he is going to die in the accident, but for Mrs. John Bradley, the prediction is that she is going to survive.
+> **[1:48](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/ensembles?u=76281980&t=108)** $C is the prediction of the C5, so for Mr. Owen Harris, the prediction is that he is going to die in the accident, but for Mrs. [[John the Ripper|John]] Bradley, the prediction is that she is going to survive.
 >
 > **[2:04](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/ensembles?u=76281980&t=124)** The next column is the confidence of that model.
 >
@@ -1239,7 +1218,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (4), data (2), next (2)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (1)
 > **CLI Commands:** node (4), find (2), make (1)
 > **Definitions:** is a  (3)
 > **Cross-References:** in the next (1), we discussed (1)
@@ -1247,8 +1226,7 @@ created: 2026-05-02
 > **Env Vars:** xfc (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is bagging?
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/what-is-bagging?u=76281980)
+#### [What is bagging?](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/what-is-bagging?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1318,7 +1296,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/what-is-bagging?u=76281980&t=192)** So, for instance, Miss Allen was chosen twice in the first sample, but not at all in the second or the third.
 >
-> **[3:18](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/what-is-bagging?u=76281980&t=198)** Mrs. John Jacob Astor was picked once in the first sample, four times in the second sample, and once again in the third sample.
+> **[3:18](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/what-is-bagging?u=76281980&t=198)** Mrs. [[John the Ripper|John]] Jacob Astor was picked once in the first sample, four times in the second sample, and once again in the third sample.
 >
 > **[3:27](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/what-is-bagging?u=76281980&t=207)** One more passenger was picked once in the first and second samples, and then four times in the third sample.
 >
@@ -1392,7 +1370,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), node (3), next (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (1)
 > **CLI Commands:** node (3)
 > **UI Navigation:** checkbox (1), go to (1), click on (1)
 > **Analogies:** imagine (2), for instance (1)
@@ -1401,8 +1379,7 @@ created: 2026-05-02
 > **Env Vars:** cart (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using bagging for feature selection
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/using-bagging-for-feature-selection?u=76281980)
+#### [Using bagging for feature selection](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/using-bagging-for-feature-selection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1478,15 +1455,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (4), node (2)
 > **CLI Commands:** node (2), make (1), find (1)
 > **Analogies:** for instance (2), imagine (1)
 > **Tools:** notion (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Random forests
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/random-forests?u=76281980)
+#### [Random forests](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/random-forests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1504,7 +1479,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/random-forests?u=76281980&t=36)** Imagine the following.
 >
-> **[0:38](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/random-forests?u=76281980&t=38)** Let's say that because you have big data, you're building your model on multiple machines.
+> **[0:38](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/random-forests?u=76281980&t=38)** Let's say that because you have [[Big Data]], you're building your model on multiple machines.
 >
 > **[0:43](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/random-forests?u=76281980&t=43)** Well, you can build 10 trees on each of 10 machines, and then once they're built, combine those 100 trees together.
 >
@@ -1546,15 +1521,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), node (2), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[Big Data]] (1)
 > **Env Vars:** cart (6)
 > **CLI Commands:** node (2)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is boosting?
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/what-is-boosting-23437053?u=76281980)
+#### [What is boosting?](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/what-is-boosting-23437053?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1610,7 +1584,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (3), feature (2), data (1)
 > **Versions:** 18.4 (2), 85.31 (1), 77.27 (1), 83.52 (1)
 > **CLI Commands:** node (3)
 > **UI Navigation:** checkbox (2), click on (1)
@@ -1618,9 +1591,9 @@ created: 2026-05-02
 > **Definitions:** is a  (1), is an  (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** similar to (1)
+> **Speakers:** - [instructor] (1)
 
-#### What is XGBoost?
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/what-is-xgboost?u=76281980)
+#### [What is XGBoost?](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/what-is-xgboost?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1628,7 +1601,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/what-is-xgboost?u=76281980&t=3)** XGBoost has a lot of moving parts, so before we do a demo, let's prepare by mentioning a couple of key points.
 >
-> **[0:11](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/what-is-xgboost?u=76281980&t=11)** First, as we'll see, it's implemented through Python.
+> **[0:11](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/what-is-xgboost?u=76281980&t=11)** First, as we'll see, it's implemented through [[Python (Programming Language)|Python]].
 >
 > **[0:16](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/what-is-xgboost?u=76281980&t=16)** That means you can also read the XGBoost documentation online for the Python library, because it's the same algorithm.
 >
@@ -1656,13 +1629,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2), make (1)
 > **Env Vars:** spss (2)
 > **Speakers:** - [instructor] (1)
 
-#### XGBoost Tree node
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/xgboost-tree-node?u=76281980)
+#### [XGBoost Tree node](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/xgboost-tree-node?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1670,7 +1642,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/xgboost-tree-node?u=76281980&t=13)** So let's give XGBoost a try right here in Modeler, picking up in the same stream where we lift off.
 >
-> **[0:21](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/xgboost-tree-node?u=76281980&t=21)** So we want to go to the Python tab, and over here in the Python tab we see XG Boost Stream.
+> **[0:21](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/xgboost-tree-node?u=76281980&t=21)** So we want to go to the [[Python (Programming Language)|Python]] tab, and over here in the Python tab we see XG Boost Stream.
 >
 > **[0:28](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/xgboost-tree-node?u=76281980&t=28)** Even though this is implemented through Python, it looks just like any other modeling node would.
 >
@@ -1716,11 +1688,11 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/xgboost-tree-node?u=76281980&t=159)** So the checkbox style boosting seems to have done a better job in this particular instance.
 >
-> **[2:44](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/xgboost-tree-node?u=76281980&t=164)** But XG Boost is one of the most famous algorithms in use today, and I wanted to make sure that you knew that it was available through the Python tab right here in SPSS Modeler.
+> **[2:44](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/xgboost-tree-node?u=76281980&t=164)** But XG Boost is one of the most famous [[Algorithms]] in use today, and I wanted to make sure that you knew that it was available through the Python tab right here in SPSS Modeler.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), node (2), [[Search]] (2), data (2), power (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Algorithms]] (1)
 > **CLI Commands:** python (4), node (2), find (2), make (1)
 > **UI Navigation:** checkbox (4), go to (2)
 > **Cross-References:** go back to (1), we talked about (1)
@@ -1728,14 +1700,13 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Costs and priors
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/costs-and-priors?u=76281980)
+#### [Costs and priors](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/costs-and-priors?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/costs-and-priors?u=76281980&t=0)** - [Instructor] Now I'd like to talk about costs.
 >
-> **[0:03](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/costs-and-priors?u=76281980&t=3)** Now, costs are a feature that almost all the decision tree algorithms have, but I'm going to demonstrate them via CART, because CART has a really nice feature that some of the other algorithms doesn't have in regards to costs.
+> **[0:03](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/costs-and-priors?u=76281980&t=3)** Now, costs are a feature that almost all the decision tree [[Algorithms]] have, but I'm going to demonstrate them via CART, because CART has a really nice feature that some of the other algorithms doesn't have in regards to costs.
 >
 > **[0:22](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/costs-and-priors?u=76281980&t=22)** I'm going to start by opening a stream that I've created for just this purpose.
 >
@@ -1811,7 +1782,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (3), [[Algorithms]] (2), node (2), data (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2)
 > **Env Vars:** cart (7)
 > **CLI Commands:** node (2)
 > **Versions:** 1.0 (1), 5.0 (1)
@@ -1819,8 +1790,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### XGBoost Linear
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/xgboost-linear?u=76281980)
+#### [XGBoost Linear](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/xgboost-linear?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1828,7 +1798,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/xgboost-linear?u=76281980&t=1)** We're going to stay in the same stream.
 >
-> **[0:03](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/xgboost-linear?u=76281980&t=3)** And under the Python tab, I've got XG Boost Linear, which is implemented through Python.
+> **[0:03](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/xgboost-linear?u=76281980&t=3)** And under the [[Python (Programming Language)|Python]] tab, I've got XG Boost Linear, which is implemented through Python.
 >
 > **[0:10](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/xgboost-linear?u=76281980&t=10)** I'm going to bend this arrow over here because I don't need anything coming out of the cart predictor node there.
 >
@@ -1874,7 +1844,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (4), [[Python (Programming Language)|Python]] (3), [[Search]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3)
 > **CLI Commands:** node (4), python (3)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
@@ -1885,12 +1855,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/next-steps-23432056?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/next-steps-23432056?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/next-steps-23432056?u=76281980&t=0)** - [Instructor] If you've completed both decision tree courses, you've learned a lot about SPSS and some important algorithms.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/next-steps-23432056?u=76281980&t=0)** - [Instructor] If you've completed both decision tree courses, you've learned a lot about SPSS and some important [[Algorithms]].
 >
 > **[0:08](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/next-steps-23432056?u=76281980&t=8)** So I want to thank you very much for joining me.
 >
@@ -1906,13 +1875,13 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/next-steps-23432056?u=76281980&t=49)** I also have a course dedicated to this topic, explainable AI.
 >
-> **[0:55](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/next-steps-23432056?u=76281980&t=55)** If you're not following me yet on LinkedIn, please do so and consider attending one of my office hours.
+> **[0:55](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/next-steps-23432056?u=76281980&t=55)** If you're not following me yet on [[LinkedIn]], please do so and consider attending one of my [[Microsoft Office|office]] hours.
 >
 > **[1:01](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/next-steps-23432056?u=76281980&t=61)** And if you see me at a conference, I hope you'll say hi.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (2), next (1), ai (1), [[LinkedIn]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[LinkedIn]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** spss (2)
 > **Speakers:** - [instructor] (1)
 

@@ -57,16 +57,14 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building and training basic neural networks
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-blocks-for-deep-learning-in-the-wolfram-language/building-and-training-basic-neural-networks?u=76281980)
+#### [Building and training basic neural networks](https://www.linkedin.com/learning/building-blocks-for-deep-learning-in-the-wolfram-language/building-and-training-basic-neural-networks?u=76281980)
 
 
 ### 2. Recurrent Neural Networks
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Recurrent neural networks
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-blocks-for-deep-learning-in-the-wolfram-language/recurrent-neural-networks?u=76281980)
+#### [Recurrent neural networks](https://www.linkedin.com/learning/building-blocks-for-deep-learning-in-the-wolfram-language/recurrent-neural-networks?u=76281980)
 
 
 ## Instructor

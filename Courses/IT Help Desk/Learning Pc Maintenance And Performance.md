@@ -74,8 +74,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Keeping your computer in tiptop shape
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/keeping-your-computer-in-tiptop-shape?u=76281980)
+#### [Keeping your computer in tiptop shape](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/keeping-your-computer-in-tiptop-shape?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -87,11 +86,11 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/keeping-your-computer-in-tiptop-shape?u=76281980&t=14)** The two go together, and the result is that the computer system runs well, and you get the full worth of your technology investment.
 >
-> **[0:21](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/keeping-your-computer-in-tiptop-shape?u=76281980&t=21)** In this course, I review some simple items in Windows you can check or configure to handle the maintenance task, and confirm that your system is running at peak performance.
+> **[0:21](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/keeping-your-computer-in-tiptop-shape?u=76281980&t=21)** In this course, I review some simple items in [[Windows]] you can check or configure to handle the maintenance task, and confirm that your system is running at peak performance.
 >
 > **[0:30](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/keeping-your-computer-in-tiptop-shape?u=76281980&t=30)** Hello, I'm Dan Gookin.
 >
-> **[0:32](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/keeping-your-computer-in-tiptop-shape?u=76281980&t=32)** Welcome to PC Maintenance and Performance Fundamentals for Windows 10.
+> **[0:32](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/keeping-your-computer-in-tiptop-shape?u=76281980&t=32)** Welcome to PC Maintenance and Performance Fundamentals for [[Windows 10]].
 >
 > **[0:36](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/keeping-your-computer-in-tiptop-shape?u=76281980&t=36)** Now it's time to get started exploring PC maintenance and performance fundamentals for Windows 10.
 
@@ -106,11 +105,9 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Applying account security
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/applying-account-security?u=76281980)
+#### [Applying account security](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/applying-account-security?u=76281980)
 
-#### Fighting malware
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/fighting-malware?u=76281980)
+#### [Fighting malware](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/fighting-malware?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -118,7 +115,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/fighting-malware?u=76281980&t=5)** It's a job you must take seriously.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/fighting-malware?u=76281980&t=8)** Pay a visit to the Windows Security Center.
+> **[0:08](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/fighting-malware?u=76281980&t=8)** Pay a visit to the [[Windows]] Security Center.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/fighting-malware?u=76281980&t=10)** Tap the Windows key to bring up the start menu, type security, and choose this item, Windows Security.
 >
@@ -158,7 +155,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/fighting-malware?u=76281980&t=105)** Ensure that real time protection is active.
 >
-> **[1:47](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/fighting-malware?u=76281980&t=107)** This setting means that Microsoft Defender's Antivirus program is always looking for threats.
+> **[1:47](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/fighting-malware?u=76281980&t=107)** This setting means that [[Microsoft Defender]]'s Antivirus program is always looking for threats.
 >
 > **[1:53](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/fighting-malware?u=76281980&t=113)** It's a good thing.
 >
@@ -198,19 +195,18 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/fighting-malware?u=76281980&t=201)** Don't be too quick to click on the yes button prompt in a user account control or firewall warning.
 >
-> **[3:27](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/fighting-malware?u=76281980&t=207)** Windows Defender can keep your computer safe from infection and disaster, but to be successful, you must be its active partner.
+> **[3:27](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/fighting-malware?u=76281980&t=207)** Windows [[Microsoft Defender|Defender]] can keep your computer safe from infection and disaster, but to be successful, you must be its active partner.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (6), [[Security]] (6), [[Engineering]] (2), feature (1), [[Microsoft Defender]] (1)
+> **Frameworks & Libraries:** [[Windows]] (6), [[Microsoft Defender]] (1), [[Microsoft Defender|Defender]] (1)
 > **UI Navigation:** open the (1), click on (1)
 > **Analogies:** for example (1), such as (1)
 > **Warnings:** warning (2)
 > **Definitions:** means that (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Using a firewall
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/using-a-firewall?u=76281980)
+#### [Using a firewall](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/using-a-firewall?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -224,7 +220,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/using-a-firewall?u=76281980&t=25)** That's the point of the firewall.
 >
-> **[0:27](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/using-a-firewall?u=76281980&t=27)** To review the Windows Firewall settings, open the Windows Security Center.
+> **[0:27](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/using-a-firewall?u=76281980&t=27)** To review the [[Windows]] Firewall settings, open the Windows Security Center.
 >
 > **[0:32](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/using-a-firewall?u=76281980&t=32)** Tap the start key on the PC keyboard and type security, and open this item, Windows Security.
 >
@@ -236,7 +232,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/using-a-firewall?u=76281980&t=53)** To peruse which programs are allowed through the firewall, choose allow an app through the firewall.
 >
-> **[1:00](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/using-a-firewall?u=76281980&t=60)** This list includes the web browser, email, cloud storage apps, internet utilities such as FTP, as well as multiplayer games.
+> **[1:00](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/using-a-firewall?u=76281980&t=60)** This list includes the web browser, email, [[Cloud Storage]] apps, internet utilities such as FTP, as well as multiplayer games.
 >
 > **[1:09](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/using-a-firewall?u=76281980&t=69)** You can add a program to the list manually, but instead, I recommend that you just wait until you see a firewall warning.
 >
@@ -258,11 +254,11 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/using-a-firewall?u=76281980&t=126)** Like all good computer tools, the firewall does its job without much interference from you.
 >
-> **[2:12](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/using-a-firewall?u=76281980&t=132)** It pops up notices when needed, but beyond that, you can rest assured that it's working and helping to keep your computer system safe.
+> **[2:12](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/using-a-firewall?u=76281980&t=132)** It pops up notices when needed, but beyond that, you can [[Representational State Transfer (REST)|rest]] assured that it's working and helping to keep your computer system safe.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), [[Windows]] (3), traffic (1), web (1), cloud (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Cloud Storage]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
 > **Warnings:** warning (2)
@@ -270,8 +266,7 @@ created: 2026-05-02
 > **UI Navigation:** open the (1)
 > **Speakers:** - [narrator] (1)
 
-#### Setting internet security
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/setting-internet-security?u=76281980)
+#### [Setting internet security](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/setting-internet-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -299,7 +294,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/setting-internet-security?u=76281980&t=58)** It's also just as difficult for someone else to guess as those random jumble passwords.
 >
-> **[1:05](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/setting-internet-security?u=76281980&t=65)** To avoid a phishing scam, ensure that you're signed into the proper website.
+> **[1:05](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/setting-internet-security?u=76281980&t=65)** To avoid a [[Phishing]] scam, ensure that you're signed into the proper website.
 >
 > **[1:10](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/setting-internet-security?u=76281980&t=70)** Secure websites use the URL HTTPS where the S means secure.
 >
@@ -309,7 +304,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/setting-internet-security?u=76281980&t=87)** There you unwittingly submit your account name and password or even more secure information such as your bank account number.
 >
-> **[1:36](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/setting-internet-security?u=76281980&t=96)** To help avoid a phishing scam, use the Windows Smart Screen Tool.
+> **[1:36](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/setting-internet-security?u=76281980&t=96)** To help avoid a phishing scam, use the [[Windows]] Smart Screen Tool.
 >
 > **[1:40](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/setting-internet-security?u=76281980&t=100)** Open the Windows Security Center, pop up the start menu and type security and choose this item, Windows Security.
 >
@@ -341,7 +336,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (4), [[Phishing]] (3), web (3), [[Security]] (3), [[Search]] (2)
+> **Frameworks & Libraries:** [[Windows]] (4), [[Phishing]] (3)
 > **Env Vars:** https (2), url (1)
 > **Analogies:** such as (2), for example (1)
 > **UI Navigation:** open the (1)
@@ -349,18 +344,17 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Applying data encryption
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/applying-data-encryption?u=76281980)
+#### [Applying data encryption](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/applying-data-encryption?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/applying-data-encryption?u=76281980&t=0)** - [Instructor] The data encryption tool in Windows 10 is called BitLocker.
+> **[0:00](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/applying-data-encryption?u=76281980&t=0)** - [Instructor] The data encryption tool in [[Windows 10]] is called BitLocker.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/applying-data-encryption?u=76281980&t=4)** You apply this encryption to any media attached to your computer.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/applying-data-encryption?u=76281980&t=7)** Start by opening a file explorer window.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/applying-data-encryption?u=76281980&t=10)** Press the Windows e keyboard shortcut.
+> **[0:10](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/applying-data-encryption?u=76281980&t=10)** Press the [[Windows]] e keyboard shortcut.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/applying-data-encryption?u=76281980&t=13)** From the left side of the window, choose this PC to view attached media available to the computer and select the drive you want to encrypt.
 >
@@ -378,7 +372,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/applying-data-encryption?u=76281980&t=53)** I don't, so I'm using a password.
 >
-> **[0:57](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/applying-data-encryption?u=76281980&t=57)** Microsoft recognizes that humans often lose passwords.
+> **[0:57](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/applying-data-encryption?u=76281980&t=57)** [[Microsoft]] recognizes that humans often lose passwords.
 >
 > **[1:01](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/applying-data-encryption?u=76281980&t=61)** So here are three recovery options.
 >
@@ -450,15 +444,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Windows]] (3), next (2), [[Windows 10]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Windows 10]] (1), [[Microsoft]] (1)
 > **Definitions:** is called (1), is a  (1), is an  (1)
 > **UI Navigation:** select the (2)
 > **Analogies:** for example (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Encrypting a thumb drive
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/challenge-encrypting-a-thumb-drive?u=76281980)
+#### [Challenge: Encrypting a thumb drive](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/challenge-encrypting-a-thumb-drive?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -478,7 +471,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/challenge-encrypting-a-thumb-drive?u=76281980&t=37)** After applying BitLocker encryption, eject or remove the drive.
 >
-> **[0:41](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/challenge-encrypting-a-thumb-drive?u=76281980&t=41)** Then, reinsert it to ensure that it's encrypted, and Windows prompts for a password.
+> **[0:41](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/challenge-encrypting-a-thumb-drive?u=76281980&t=41)** Then, reinsert it to ensure that it's encrypted, and [[Windows]] prompts for a password.
 >
 > **[0:47](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/challenge-encrypting-a-thumb-drive?u=76281980&t=47)** Enter the password to gain access to the drive.
 >
@@ -490,17 +483,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Encrypting a thumb drive
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/solution-encrypting-a-thumb-drive?u=76281980)
+#### [Solution: Encrypting a thumb drive](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/solution-encrypting-a-thumb-drive?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/solution-encrypting-a-thumb-drive?u=76281980&t=0)** - [Instructor] Here's a File Explorer window, which you can summon by pressing the Windows + E keyboard shortcut.
+> **[0:00](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/solution-encrypting-a-thumb-drive?u=76281980&t=0)** - [Instructor] Here's a File Explorer window, which you can summon by pressing the [[Windows]] + E keyboard shortcut.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/solution-encrypting-a-thumb-drive?u=76281980&t=10)** This is your base of operations for applying BitLocker encryption in this case to a thumb drive.
 >
@@ -552,7 +544,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Windows]] (2)
+> **Frameworks & Libraries:** [[Windows]] (2)
 > **UI Navigation:** select the (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -563,8 +555,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Configuring Windows Backup
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/configuring-windows-backup?u=76281980)
+#### [Configuring Windows Backup](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/configuring-windows-backup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -578,17 +569,17 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/configuring-windows-backup?u=76281980&t=21)** If so, you can use the safety copy to restore the files and recover the system.
 >
-> **[0:28](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/configuring-windows-backup?u=76281980&t=28)** Backup in Windows 10 comes in these forms.
+> **[0:28](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/configuring-windows-backup?u=76281980&t=28)** Backup in [[Windows 10]] comes in these [[Forms]].
 >
-> **[0:31](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/configuring-windows-backup?u=76281980&t=31)** Cloud backup using Microsoft OneDrive, providing you have a subscription, file history, and the traditional backup program.
+> **[0:31](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/configuring-windows-backup?u=76281980&t=31)** Cloud backup using [[Microsoft OneDrive]], providing you have a subscription, file history, and the traditional backup program.
 >
-> **[0:39](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/configuring-windows-backup?u=76281980&t=39)** Beyond Windows third-party backup utilities are also available, including cloud backup.
+> **[0:39](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/configuring-windows-backup?u=76281980&t=39)** Beyond [[Windows]] third-party backup utilities are also available, including cloud backup.
 >
 > **[0:46](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/configuring-windows-backup?u=76281980&t=46)** Cloud backup works anywhere, and internet connection is available.
 >
 > **[0:49](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/configuring-windows-backup?u=76281980&t=49)** Files are routinely saved to the cloud as well as available on local storage.
 >
-> **[0:54](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/configuring-windows-backup?u=76281980&t=54)** The limitation here is available cloud storage.
+> **[0:54](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/configuring-windows-backup?u=76281980&t=54)** The limitation here is available [[Cloud Storage]].
 >
 > **[0:57](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/configuring-windows-backup?u=76281980&t=57)** If you exceed the quota, you must pay, and some cloud storage apps incur a monthly fee regardless.
 >
@@ -610,7 +601,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/configuring-windows-backup?u=76281980&t=127)** Here you see the three options I just described.
 >
-> **[2:10](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/configuring-windows-backup?u=76281980&t=130)** The OneDrive option appears if you subscribe to this cloud storage service.
+> **[2:10](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/configuring-windows-backup?u=76281980&t=130)** The [[Microsoft OneDrive|OneDrive]] option appears if you subscribe to this cloud storage service.
 >
 > **[2:15](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/configuring-windows-backup?u=76281980&t=135)** The other two require an external drive, which I've attached to this computer.
 >
@@ -654,11 +645,11 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/configuring-windows-backup?u=76281980&t=246)** And of course, since I just activated file history, there are no previous versions of this file, but there will be.
 >
-> **[4:12](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/configuring-windows-backup?u=76281980&t=252)** Rest assured, after time, your data will be backed up and kept safe and secure thanks to file history.
+> **[4:12](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/configuring-windows-backup?u=76281980&t=252)** [[Representational State Transfer (REST)|Rest]] assured, after time, your data will be backed up and kept safe and secure thanks to file history.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), [[Windows]] (3), [[Security]] (2), [[Windows 10]] (2), feature (2)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Cloud Storage]] (3), [[Windows 10]] (2), [[Microsoft OneDrive|Onedrive]] (2), [[Forms]] (1)
 > **Env Vars:** ssd (2)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
@@ -667,8 +658,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Recovering files and folders
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/recovering-files-and-folders?u=76281980)
+#### [Recovering files and folders](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/recovering-files-and-folders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -680,7 +670,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/recovering-files-and-folders?u=76281980&t=13)** This restoration is the entire point of creating a safety copy, the backup.
 >
-> **[0:19](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/recovering-files-and-folders?u=76281980&t=19)** Windows 10 File History provides for two ways to recover a file or group of files.
+> **[0:19](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/recovering-files-and-folders?u=76281980&t=19)** [[Windows 10]] File History provides for two ways to recover a file or group of files.
 >
 > **[0:24](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/recovering-files-and-folders?u=76281980&t=24)** You can restore an older version of a file, which is the File History feature in action, or you can recover files or folders that were accidentally deleted and cannot otherwise be recovered.
 >
@@ -720,7 +710,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/recovering-files-and-folders?u=76281980&t=128)** This is the older version recovered by File History.
 >
-> **[2:13](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/recovering-files-and-folders?u=76281980&t=133)** You can use this same procedure to restore folders, though a better way is to use the restore feature found in the Windows backup program.
+> **[2:13](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/recovering-files-and-folders?u=76281980&t=133)** You can use this same procedure to restore folders, though a better way is to use the restore feature found in the [[Windows]] backup program.
 >
 > **[2:21](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/recovering-files-and-folders?u=76281980&t=141)** Tap the Windows key and type File History until you see this item, Restore your files with File History.
 >
@@ -746,14 +736,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (4), [[Windows]] (2), [[Windows 10]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Windows 10]] (1)
 > **UI Navigation:** right-click (1), go to (1), click on (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Restoring a file
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/challenge-restoring-a-file?u=76281980)
+#### [Challenge: Restoring a file](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/challenge-restoring-a-file?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -783,7 +772,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/challenge-restoring-a-file?u=76281980&t=62)** And I'm going to put some content in here and there's my file.
 >
-> **[1:08](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/challenge-restoring-a-file?u=76281980&t=68)** I'll save it, then I'll open it in about a couple hours, add some things and I'll repeat this process over the rest of the day.
+> **[1:08](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/challenge-restoring-a-file?u=76281980&t=68)** I'll save it, then I'll open it in about a couple hours, add some things and I'll repeat this process over the [[Representational State Transfer (REST)|rest]] of the day.
 >
 > **[1:19](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/challenge-restoring-a-file?u=76281980&t=79)** File history won't be available on this file until the interval set has passed, which I've set it to an hour.
 >
@@ -803,14 +792,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (quiet upbeat music) (1)
 
-#### Solution: Restoring a file
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/solution-restoring-a-file?u=76281980)
+#### [Solution: Restoring a file](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/solution-restoring-a-file?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -876,7 +864,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), feature (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** click on (1), open the (1)
 > **Definitions:** is a  (1)
@@ -884,12 +871,11 @@ created: 2026-05-02
 > **Speakers:** - your (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Creating a system image
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/creating-a-system-image?u=76281980)
+#### [Creating a system image](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/creating-a-system-image?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/creating-a-system-image?u=76281980&t=0)** - [Instructor] Some PCs keep a recovery copy of Windows on a special disk partition located on the primary storage device.
+> **[0:00](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/creating-a-system-image?u=76281980&t=0)** - [Instructor] Some PCs keep a recovery copy of [[Windows]] on a special disk partition located on the primary storage device.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/creating-a-system-image?u=76281980&t=7)** To confirm, open the Disk Management Console.
 >
@@ -907,7 +893,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/creating-a-system-image?u=76281980&t=37)** Drive C is the Windows primary storage media, holding Windows, your programs, and all your files and folders.
 >
-> **[0:43](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/creating-a-system-image?u=76281980&t=43)** The recovery partition is accessed through the Windows Recovery Menu, a special startup screen that helps troubleshoot and repair Windows 10.
+> **[0:43](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/creating-a-system-image?u=76281980&t=43)** The recovery partition is accessed through the Windows Recovery Menu, a special startup screen that helps troubleshoot and repair [[Windows 10]].
 >
 > **[0:51](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/creating-a-system-image?u=76281980&t=51)** Don't worry if you don't see the recovery partition here.
 >
@@ -963,14 +949,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (7), management (5), next (2), [[Windows 10]] (1)
+> **Frameworks & Libraries:** [[Windows]] (7), [[Windows 10]] (1)
 > **Env Vars:** efi (1), recovery (1)
 > **Warnings:** troubleshoot (1), be aware (1)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Restoring the system
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/restoring-the-system?u=76281980)
+#### [Restoring the system](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/restoring-the-system?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -994,7 +979,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/restoring-the-system?u=76281980&t=48)** From the menu presented, choose the option to select the startup media or boot drive and select the recovery media from the list.
 >
-> **[0:57](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/restoring-the-system?u=76281980&t=57)** Upon success, you see the Windows Recovery Menu.
+> **[0:57](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/restoring-the-system?u=76281980&t=57)** Upon success, you see the [[Windows]] Recovery Menu.
 >
 > **[1:00](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/restoring-the-system?u=76281980&t=60)** Choose the option to restore the system image.
 >
@@ -1039,12 +1024,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Configuring Windows Update
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/configuring-windows-update?u=76281980)
+#### [Configuring Windows Update](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/configuring-windows-update?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/configuring-windows-update?u=76281980&t=0)** - [Instructor] Beyond antivirus, strong passwords and backup, another key part of your computer's security strategy is Windows update.
+> **[0:00](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/configuring-windows-update?u=76281980&t=0)** - [Instructor] Beyond antivirus, strong passwords and backup, another key part of your computer's security strategy is [[Windows]] update.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/configuring-windows-update?u=76281980&t=8)** You must maintain the operating system.
 >
@@ -1054,7 +1038,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/configuring-windows-update?u=76281980&t=27)** This screen informs me that Windows is up to date.
 >
-> **[0:30](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/configuring-windows-update?u=76281980&t=30)** It last checked in with the Microsoft mothership at 6:19 AM this morning, and it's checking all the time, for these updates, no optional updates are available.
+> **[0:30](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/configuring-windows-update?u=76281980&t=30)** It last checked in with the [[Microsoft]] mothership at 6:19 AM this morning, and it's checking all the time, for these updates, no optional updates are available.
 >
 > **[0:41](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/configuring-windows-update?u=76281980&t=41)** If they were, they would appear here.
 >
@@ -1118,7 +1102,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/configuring-windows-update?u=76281980&t=209)** Not every program is updated via the Windows update service.
 >
-> **[3:33](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/configuring-windows-update?u=76281980&t=213)** For example, the Adobe Creative Cloud suite of programs runs its own update service, which happens automatically.
+> **[3:33](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/configuring-windows-update?u=76281980&t=213)** For example, the [[Adobe Creative Cloud]] suite of programs runs its own update service, which happens automatically.
 >
 > **[3:40](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/configuring-windows-update?u=76281980&t=220)** Other programs may also check for updates and bother you when an update is available.
 >
@@ -1126,7 +1110,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (10), [[Security]] (3), [[Microsoft]] (1), next (1), [[Adobe Creative Cloud]] (1)
+> **Frameworks & Libraries:** [[Windows]] (10), [[Microsoft]] (1), [[Adobe Creative Cloud]] (1)
 > **Ports:** :00 (5), :19 (1)
 > **Analogies:** for example (3), kind of like (1)
 > **UI Navigation:** open the (1), toggle (1)
@@ -1134,12 +1118,11 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Updating Windows
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/updating-windows?u=76281980)
+#### [Updating Windows](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/updating-windows?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/updating-windows?u=76281980&t=0)** - [Narrator] Windows updates are installed automatically, but you can manually check for and install an update at any time.
+> **[0:00](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/updating-windows?u=76281980&t=0)** - [Narrator] [[Windows]] updates are installed automatically, but you can manually check for and install an update at any time.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/updating-windows?u=76281980&t=6)** For example, before you head out with your laptop to an area without internet access, by being proactive, you can allot time for the update and not stress about it later.
 >
@@ -1203,7 +1186,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/updating-windows?u=76281980&t=162)** After installing major updates, an update notification appears explaining the updates were installed, and describing new features and options, allowing you to enable them or review what they do.
 >
-> **[2:54](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/updating-windows?u=76281980&t=174)** It's my observation that Microsoft consistently distributes regular updates on specific weekdays.
+> **[2:54](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/updating-windows?u=76281980&t=174)** It's my observation that [[Microsoft]] consistently distributes regular updates on specific weekdays.
 >
 > **[3:00](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/updating-windows?u=76281980&t=180)** Major updates come about once a month.
 >
@@ -1215,7 +1198,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/updating-windows?u=76281980&t=198)** Otherwise, install updates as they arrive as part of your computer security and maintenance regimen.
 >
-> **[3:24](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/updating-windows?u=76281980&t=204)** Many Windows 10 computers can run the Windows 11 operating system.
+> **[3:24](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/updating-windows?u=76281980&t=204)** Many [[Windows 10]] computers can run the Windows 11 operating system.
 >
 > **[3:28](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/updating-windows?u=76281980&t=208)** If so, you see a prompt urging you to make the update.
 >
@@ -1229,19 +1212,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (13), [[Security]] (3), [[Windows 10]] (3), [[Microsoft]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Windows]] (13), [[Windows 10]] (3), [[Microsoft]] (1)
 > **Prerequisites:** install (4)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Rolling back a recent update
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/rolling-back-a-recent-update?u=76281980)
+#### [Rolling back a recent update](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/rolling-back-a-recent-update?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/rolling-back-a-recent-update?u=76281980&t=0)** - [Instructor] Microsoft takes steps to ensure that updating Windows doesn't cause problems, but sometimes it does.
+> **[0:00](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/rolling-back-a-recent-update?u=76281980&t=0)** - [Instructor] [[Microsoft]] takes steps to ensure that updating [[Windows]] doesn't cause problems, but sometimes it does.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/rolling-back-a-recent-update?u=76281980&t=7)** When an update problem happens, you can roll back the update.
 >
@@ -1311,7 +1293,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (8), [[Microsoft]] (3), [[Security]] (1), feature (1), database (1)
+> **Frameworks & Libraries:** [[Windows]] (8), [[Microsoft]] (3)
 > **CLI Commands:** find (1)
 > **Env Vars:** kb5037768 (1)
 > **UI Navigation:** select the (1)
@@ -1323,8 +1305,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Monitoring system resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/monitoring-system-resources?u=76281980)
+#### [Monitoring system resources](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/monitoring-system-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1344,7 +1325,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/monitoring-system-resources?u=76281980&t=44)** Press Control + Shift + Escape, and if you see the limited version of the Task Manager, as shown here, click More details and you can see that the Task Manager contains a lot of detailed information.
 >
-> **[1:00](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/monitoring-system-resources?u=76281980&t=60)** Here on the Processes tab, you see every running program in the computer, including background tasks, windows, everything.
+> **[1:00](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/monitoring-system-resources?u=76281980&t=60)** Here on the Processes tab, you see every running program in the computer, including background tasks, [[Windows]], everything.
 >
 > **[1:08](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/monitoring-system-resources?u=76281980&t=68)** In the table, you see columns representing the resources I mentioned earlier: CPU, memory, disk, network, and GPU right over there.
 >
@@ -1410,7 +1391,7 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/monitoring-system-resources?u=76281980&t=249)** When this approach doesn't work, the program may be malicious.
 >
-> **[4:13](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/monitoring-system-resources?u=76281980&t=253)** If so, I recommend using anti-spyware software, such as Windows Defender, which is designed to fully remove the infection.
+> **[4:13](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/monitoring-system-resources?u=76281980&t=253)** If so, I recommend using anti-spyware software, such as Windows [[Microsoft Defender|Defender]], which is designed to fully remove the infection.
 
 > [!info]- Semantic Content
 >
@@ -1422,12 +1403,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Upgrading hardware
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/upgrading-hardware?u=76281980)
+#### [Upgrading hardware](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/upgrading-hardware?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/upgrading-hardware?u=76281980&t=0)** - [Narrator] Computer performance is hardware based.
+> **[0:00](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/upgrading-hardware?u=76281980&t=0)** - [Narrator] Computer performance is [[Hardware]] based.
 >
 > **[0:02](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/upgrading-hardware?u=76281980&t=2)** Software drives the hardware, but it's designed to work best when the hardware is fast and plentiful.
 >
@@ -1459,7 +1439,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/upgrading-hardware?u=76281980&t=83)** The only issue with this type of media expansion is that you must remember to use the media for storage and installing programs.
 >
-> **[1:31](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/upgrading-hardware?u=76281980&t=91)** Windows wants to do everything on Drive C by default.
+> **[1:31](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/upgrading-hardware?u=76281980&t=91)** [[Windows]] wants to do everything on Drive C by default.
 >
 > **[1:35](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/upgrading-hardware?u=76281980&t=95)** You must be diligent to install programs on and use the new storage instead of the already full Drive C.
 >
@@ -1502,12 +1482,11 @@ created: 2026-05-02
 > **URLs:** [crucial.com](https://crucial.com) (1)
 > **Warnings:** be aware (1)
 
-#### Adjusting performance options
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/adjusting-performance-options?u=76281980)
+#### [Adjusting performance options](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/adjusting-performance-options?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/adjusting-performance-options?u=76281980&t=0)** - [Instructor] To help fine-tune your PC's performance, Windows comes with the Performance Options dialogue box.
+> **[0:00](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/adjusting-performance-options?u=76281980&t=0)** - [Instructor] To help fine-tune your PC's performance, [[Windows]] comes with the Performance Options dialogue box.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/adjusting-performance-options?u=76281980&t=6)** To view it, tap the Windows key and type Adjust, and choose this item, Adjust the Appearance and Performance of Windows.
 >
@@ -1565,7 +1544,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (7), power (2), data (1), [[Security]] (1), feature (1)
+> **Frameworks & Libraries:** [[Windows]] (7)
 > **CLI Commands:** find (1)
 > **Env Vars:** dep (1)
 > **Analogies:** for example (1)
@@ -1576,8 +1555,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1593,7 +1571,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/next-steps?u=76281980&t=26)** My book, "Troubleshooting & Maintaining PCs All-in-One for Dummies" goes into a lot of detail on keeping your computer happy and running smoothly.
 >
-> **[0:35](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/next-steps?u=76281980&t=35)** I'm available on LinkedIn as Dan Gookin, Mad Genius.
+> **[0:35](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/next-steps?u=76281980&t=35)** I'm available on [[LinkedIn]] as Dan Gookin, Mad Genius.
 >
 > **[0:39](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/next-steps?u=76281980&t=39)** Check out my profile when you get a chance or send me a message.
 >
@@ -1607,7 +1585,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Troubleshooting]] (3), [[Search]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - i (1)
 

@@ -82,8 +82,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Course introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/course-introduction?u=76281980)
+#### [Course introduction](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/course-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -91,45 +90,44 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/course-introduction?u=76281980&t=13)** In this course, I'll show you how to create powerful AI assistants using OpenAI's Assistants API with Node and Express.
 >
-> **[0:23](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/course-introduction?u=76281980&t=23)** You'll learn to harness advanced AI capabilities without dealing with embeddings or vector databases.
+> **[0:23](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/course-introduction?u=76281980&t=23)** You'll learn to harness advanced AI capabilities without dealing with embeddings or [[Vector Databases]].
 >
 > **[0:29](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/course-introduction?u=76281980&t=29)** The API takes care of all of that for you.
 >
-> **[0:32](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/course-introduction?u=76281980&t=32)** Hi, I'm Guil Hernandez, a software development instructor and developer with over 15 years of experience.
+> **[0:32](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/course-introduction?u=76281980&t=32)** Hi, I'm Guil Hernandez, a [[Software Development]] instructor and developer with over 15 years of experience.
 >
 > **[0:38](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/course-introduction?u=76281980&t=38)** So if you're ready to bring intelligent assistants to life with ease, join me and let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), api (2), node (1), express (1), [[Vector Databases]] (1)
+> **Frameworks & Libraries:** [[Vector Databases]] (1), [[Software Development]] (1)
 > **Env Vars:** api (2)
 > **CLI Commands:** node (1)
 > **Speakers:** - [guil] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/what-you-should-know?u=76281980&t=0)** - [Lecturer] Before getting started with building intelligent AI Assistants using OpenAI's Assistants API, I want to make sure you're well-prepared to get the most out of this course.
 >
-> **[0:10](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/what-you-should-know?u=76281980&t=10)** This course is geared towards developers with an intermediate understanding of JavaScript.
+> **[0:10](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/what-you-should-know?u=76281980&t=10)** This course is geared towards developers with an intermediate understanding of [[JavaScript]].
 >
 > **[0:15](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/what-you-should-know?u=76281980&t=15)** We'll be writing server side code, so familiarity with Node is essential.
 >
-> **[0:20](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/what-you-should-know?u=76281980&t=20)** Experience with Express.js will be highly beneficial as well.
+> **[0:20](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/what-you-should-know?u=76281980&t=20)** Experience with [[Express.js]] will be highly beneficial as well.
 >
 > **[0:24](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/what-you-should-know?u=76281980&t=24)** So, for example, you're in great shape if you've built restful APIs or web applications using Express.
 >
 > **[0:30](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/what-you-should-know?u=76281980&t=30)** We'll be integrating the OpenAI Assistants API into our applications.
 >
-> **[0:35](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/what-you-should-know?u=76281980&t=35)** So prior experience working with the OpenAI API, such as generating text completions will help you grasp the concepts more quickly.
+> **[0:35](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/what-you-should-know?u=76281980&t=35)** So prior experience working with the [[OpenAI API]], such as generating text completions will help you grasp the concepts more quickly.
 >
 > **[0:46](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/what-you-should-know?u=76281980&t=46)** Now, while not strictly required, having a background in retrieval augmented generation, or RAG, will enhance your understanding of how AI Assistants can access external knowledge to provide more accurate and context-aware responses.
 >
-> **[1:01](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/what-you-should-know?u=76281980&t=61)** RAG involves combining large language models with external data sources to improve the quality and relevance of generated content.
+> **[1:01](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/what-you-should-know?u=76281980&t=61)** RAG involves combining [[Large Language Models (LLM)|large language models]] with external data sources to improve the quality and relevance of generated content.
 >
-> **[1:10](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/what-you-should-know?u=76281980&t=70)** If you're new to RAG, or need a refresher on concepts like embeddings and vector databases, I recommend checking out my course, Creating a Chat Tool Using OpenAI models and Pinecone.
+> **[1:10](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/what-you-should-know?u=76281980&t=70)** If you're new to RAG, or need a refresher on concepts like embeddings and [[Vector Databases]], I recommend checking out my course, Creating a Chat Tool Using OpenAI models and [[Pinecone]].
 >
 > **[1:21](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/what-you-should-know?u=76281980&t=81)** This course teaches you how to build a context aware chatbot using OpenAI's models and Pinecone's vector databases.
 >
@@ -137,7 +135,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/what-you-should-know?u=76281980&t=95)** Since we'll be dealing with API calls and potentially long running operations, it's important to be comfortable with asynchronous programming patterns and JavaScript.
 >
-> **[1:44](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/what-you-should-know?u=76281980&t=104)** It will also be helpful to be familiar with terms like models, tokens, prompts, and completions.
+> **[1:44](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/what-you-should-know?u=76281980&t=104)** It will also be helpful to be familiar with terms like models, [[Tokens]], prompts, and completions.
 >
 > **[1:50](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/what-you-should-know?u=76281980&t=110)** If some of these topics are unfamiliar, I encourage you to take some time to brush up on these areas to maximize your learning experience.
 >
@@ -149,7 +147,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), api (4), rag (3), [[JavaScript]] (2), [[Vector Databases]] (2)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Vector Databases]] (2), [[Pinecone]] (2), [[Express.js]] (1), [[OpenAI API]] (1)
 > **Env Vars:** api (5), rag (3)
 > **CLI Commands:** make (2), node (1)
 > **Analogies:** for example (1), such as (1)
@@ -157,16 +155,15 @@ created: 2026-05-02
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Introduction to AI assistants
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/introduction-to-ai-assistants?u=76281980)
+#### [Introduction to AI assistants](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/introduction-to-ai-assistants?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/introduction-to-ai-assistants?u=76281980&t=0)** - [Instructor] Artificial intelligence has come a long way in recent years, and one of its most intriguing advancements is the development of AI assistants.
+> **[0:00](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/introduction-to-ai-assistants?u=76281980&t=0)** - [Instructor] [[Artificial Intelligence (AI)|Artificial intelligence]] has come a long way in recent years, and one of its most intriguing advancements is the development of AI assistants.
 >
 > **[0:10](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/introduction-to-ai-assistants?u=76281980&t=10)** But what exactly are AI assistants and how do they change how we interact with technology?
 >
-> **[0:17](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/introduction-to-ai-assistants?u=76281980&t=17)** Well, you're likely familiar with assistants like Siri or Alexa, but today's generative AI can go far beyond these examples in many ways.
+> **[0:17](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/introduction-to-ai-assistants?u=76281980&t=17)** Well, you're likely familiar with assistants like Siri or Alexa, but today's [[Generative AI]] can go far beyond these examples in many ways.
 >
 > **[0:26](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/introduction-to-ai-assistants?u=76281980&t=26)** Imagine creating an assistant that accesses specialized knowledge, interprets code, analyzes data, and more, capabilities that can transform industries, like business, education, healthcare, and other industries.
 >
@@ -176,9 +173,9 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/introduction-to-ai-assistants?u=76281980&t=59)** For example, assistants can call Open AI's models with specific instructions to tune their personality and capabilities.
 >
-> **[1:07](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/introduction-to-ai-assistants?u=76281980&t=67)** It internally handles embeddings, vector databases and context management so that you can can focus on the assistant's behavior and functionality.
+> **[1:07](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/introduction-to-ai-assistants?u=76281980&t=67)** It internally handles embeddings, [[Vector Databases]] and context management so that you can can focus on the assistant's behavior and functionality.
 >
-> **[1:16](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/introduction-to-ai-assistants?u=76281980&t=76)** And with some of the recent updates, the Assistants API includes function calling and the code interpreter, enabling your assistant to fetch data from external sources or perform real-time code execution.
+> **[1:16](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/introduction-to-ai-assistants?u=76281980&t=76)** And with some of the recent updates, the Assistants API includes function calling and the code interpreter, enabling your assistant to [[Fetch]] data from external sources or perform [[Real-Time]] code execution.
 >
 > **[1:30](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/introduction-to-ai-assistants?u=76281980&t=90)** This makes assistants more interactive and dynamic, offering enhanced user experiences.
 >
@@ -192,19 +189,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), api (3), data (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Generative AI]] (1), [[Vector Databases]] (1), [[Fetch]] (1), [[Real-Time]] (1)
 > **Env Vars:** api (3)
 > **Analogies:** imagine (1), for example (1)
 > **Prerequisites:** set up (1), configure (1)
 > **CLI Commands:** node (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up the development environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/setting-up-the-development-environment?u=76281980)
+#### [Setting up the development environment](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/setting-up-the-development-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/setting-up-the-development-environment?u=76281980&t=0)** - [Narrator] All right, so this lesson focuses on setting up the development environment using the starter files provided in the GitHub repository linked to this course.
+> **[0:00](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/setting-up-the-development-environment?u=76281980&t=0)** - [Narrator] All right, so this lesson focuses on setting up the development environment using the starter files provided in the [[GitHub]] repository linked to this course.
 >
 > **[0:10](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/setting-up-the-development-environment?u=76281980&t=10)** The starter files include the initial project setup and some boilerplate code to help kick things off more quickly.
 >
@@ -218,19 +214,19 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/setting-up-the-development-environment?u=76281980&t=46)** So now let's take a moment to familiarize ourselves with the project structure.
 >
-> **[0:51](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/setting-up-the-development-environment?u=76281980&t=51)** The starter files include the index.js file, which contains the main Express.js application code.
+> **[0:51](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/setting-up-the-development-environment?u=76281980&t=51)** The starter files include the index.js file, which contains the main [[Express.js]] application code.
 >
 > **[0:59](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/setting-up-the-development-environment?u=76281980&t=59)** There's also a file named assistant.js, which will contain the script to create the assistants.
 >
 > **[1:06](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/setting-up-the-development-environment?u=76281980&t=66)** There's also upload.js, which will hold our scripts to upload and manage documents.
 >
-> **[1:13](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/setting-up-the-development-environment?u=76281980&t=73)** In the public directory, you'll find a few files for static assets such as your HTML, CSS, and the client-side JavaScript, here in main.js.
+> **[1:13](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/setting-up-the-development-environment?u=76281980&t=73)** In the public directory, you'll find a few files for static assets such as your [[HTML]], CSS, and the client-side [[JavaScript]], here in main.js.
 >
-> **[1:25](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/setting-up-the-development-environment?u=76281980&t=85)** And in the main directory, the package.json file contains the project metadata and dependencies.
+> **[1:25](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/setting-up-the-development-environment?u=76281980&t=85)** And in the main directory, the package.[[JSON]] file contains the project [[Metadata]] and dependencies.
 >
 > **[1:33](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/setting-up-the-development-environment?u=76281980&t=93)** The project already lists the necessary dependencies here in the package.json file.
 >
-> **[1:37](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/setting-up-the-development-environment?u=76281980&t=97)** So, we can install them by opening up the terminal and running npm install.
+> **[1:37](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/setting-up-the-development-environment?u=76281980&t=97)** So, we can install them by opening up the terminal and running [[npm]] install.
 >
 > **[1:45](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/setting-up-the-development-environment?u=76281980&t=105)** So, this command is going to install packages like dotenv, express, and the openai Node SDK, which we'll use later in this course.
 >
@@ -246,7 +242,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/setting-up-the-development-environment?u=76281980&t=149)** I'll go ahead and do the same.
 >
-> **[2:33](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/setting-up-the-development-environment?u=76281980&t=153)** Now, remember to keep your API key secure and never commit the .env file to version control.
+> **[2:33](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/setting-up-the-development-environment?u=76281980&t=153)** Now, remember to keep your API key secure and never commit the .env file to [[Version Control]].
 >
 > **[2:39](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/setting-up-the-development-environment?u=76281980&t=159)** In fact, I've already listed it here in the gitignore file.
 >
@@ -276,7 +272,7 @@ created: 2026-05-02
 >
 > **[4:11](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/setting-up-the-development-environment?u=76281980&t=251)** Now let's go ahead and test that route, which remember is /app-test, and good.
 >
-> **[4:18](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/setting-up-the-development-environment?u=76281980&t=258)** If everything is set up correctly, you should see the message, "OpenAI API key is loaded. Ready to connect!"
+> **[4:18](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/setting-up-the-development-environment?u=76281980&t=258)** If everything is set up correctly, you should see the message, "[[OpenAI API]] key is loaded. Ready to connect!"
 >
 > **[4:25](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/setting-up-the-development-environment?u=76281980&t=265)** Now if for some reason there is an error, go ahead and double check that the API key is stored correctly.
 >
@@ -284,7 +280,7 @@ created: 2026-05-02
 >
 > **[4:42](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/setting-up-the-development-environment?u=76281980&t=282)** Now if you go back to the main URL, what should happen is if you enter a message here in this text field and click the Submit button, that is going to kick off a request to the OpenAI API.
 >
-> **[4:58](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/setting-up-the-development-environment?u=76281980&t=298)** Now in this case, if you open up the main.js file here in the public folder, you'll see the sendQuery function, and it's making a fetch request to the query route.
+> **[4:58](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/setting-up-the-development-environment?u=76281980&t=298)** Now in this case, if you open up the main.js file here in the public folder, you'll see the sendQuery function, and it's making a [[Fetch]] request to the query route.
 >
 > **[5:12](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/setting-up-the-development-environment?u=76281980&t=312)** And what it's currently doing, is just displaying the user message as the assistant message.
 >
@@ -302,7 +298,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (5), [[JSON]] (4), [[OpenAI API]] (3), [[GitHub]] (2), application (2)
+> **Frameworks & Libraries:** [[JSON]] (4), [[OpenAI API]] (3), [[GitHub]] (2), [[npm]] (2), [[Express.js]] (1)
 > **Env Vars:** api (8), sdk (2), openai_api_key (2), url (2), html (1)
 > **Prerequisites:** set up (10), install (3), setup (1)
 > **File Paths:** index.js (4), main.js (2), package.json (2), express.js (1), assistant.js (1)
@@ -316,8 +312,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating your first assistant
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/creating-your-first-assistant?u=76281980)
+#### [Creating your first assistant](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/creating-your-first-assistant?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -325,9 +320,9 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/creating-your-first-assistant?u=76281980&t=8)** This assistant will serve as the foundation for a smart Document Search tool that can interact with users and provide meaningful responses.
 >
-> **[0:18](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/creating-your-first-assistant?u=76281980&t=18)** The OpenAI Assistants API as you've learned simplifies building AI assistants by internally handling complex tasks like embeddings, semantic search, and context management.
+> **[0:18](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/creating-your-first-assistant?u=76281980&t=18)** The OpenAI Assistants API as you've learned simplifies building AI assistants by internally handling complex tasks like embeddings, [[Semantic Search]], and context management.
 >
-> **[0:33](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/creating-your-first-assistant?u=76281980&t=33)** This means there's no need to manually manage conversation history or deal with any vector databases.
+> **[0:33](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/creating-your-first-assistant?u=76281980&t=33)** This means there's no need to manually manage conversation history or deal with any [[Vector Databases]].
 >
 > **[0:39](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/creating-your-first-assistant?u=76281980&t=39)** The API takes care of all of it.
 >
@@ -433,7 +428,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (7), api (6), node (3), next (2), ai (1)
+> **Frameworks & Libraries:** [[Semantic Search]] (1), [[Vector Databases]] (1)
 > **Env Vars:** api (6), sdk (1), gpt (1)
 > **File Paths:** assistant.js (4)
 > **CLI Commands:** node (3), make (1)
@@ -442,8 +437,7 @@ created: 2026-05-02
 > **Analogies:** just like (2), such as (1)
 > **URLs:** [openai.com](https://openai.com) (1)
 
-#### Enabling File Search
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/enabling-file-search?u=76281980)
+#### [Enabling File Search](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/enabling-file-search?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -653,7 +647,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (9), node (6), next (4), ai (1), api (1)
 > **Code Identifiers:** updateassistant (3), vectorstore (3), uploadfile (2), fileid (2), updatedassistant (2)
 > **File Paths:** assistant.js (5), upload.js (4), contract.txt (3), assistants.js (1)
 > **CLI Commands:** node (6)
@@ -661,9 +654,9 @@ created: 2026-05-02
 > **Env Vars:** api (1), sdk (1)
 > **Documentation:** the docs (2)
 > **Tools:** terminal (2)
+> **Analogies:** just like (2)
 
-#### Creating and running a thread
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/creating-and-running-a-thread?u=76281980)
+#### [Creating and running a thread](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/creating-and-running-a-thread?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -897,7 +890,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), node (2), api (1), database (1)
 > **Code Identifiers:** threadid (10), assistantid (4), getassistantresponse (4), createthread (2), addmessage (1)
 > **File Paths:** assistant.js (4), contract.txt (2)
 > **CLI Commands:** node (2), make (1)
@@ -905,9 +897,9 @@ created: 2026-05-02
 > **Tools:** terminal (2)
 > **UI Navigation:** scroll down (1), scroll up (1)
 > **Definitions:** is a  (2)
+> **Analogies:** just like (1), such as (1)
 
-#### Uploading and managing documents
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/uploading-and-managing-documents?u=76281980)
+#### [Uploading and managing documents](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/uploading-and-managing-documents?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -959,7 +951,7 @@ created: 2026-05-02
 >
 > **[5:31](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/uploading-and-managing-documents?u=76281980&t=331)** Now, an upcoming lesson is going to test the assistant's ability to access the expanded knowledge base.
 >
-> **[5:40](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/uploading-and-managing-documents?u=76281980&t=340)** So you see with multiple documents uploaded, the assistant searches across all available files when responding to queries, and the assistant's API is going to handle the indexing and the retrieval processes internally, so manually managing embeddings or vector databases is unnecessary.
+> **[5:40](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/uploading-and-managing-documents?u=76281980&t=340)** So you see with multiple documents uploaded, the assistant searches across all available files when responding to queries, and the assistant's API is going to handle the indexing and the retrieval processes internally, so manually managing embeddings or [[Vector Databases]] is unnecessary.
 >
 > **[6:01](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/uploading-and-managing-documents?u=76281980&t=361)** Finally, you also want to be mindful of any usage limits or costs associated with uploading and storing multiple documents, so you might want to regularly monitor your OpenAI account to ensure you stay within any prescribed limits and token usage.
 >
@@ -967,7 +959,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (5), next (1), management (1), api (1), [[Vector Databases]] (1)
+> **Frameworks & Libraries:** [[Vector Databases]] (1)
 > **Code Identifiers:** listfiles (3), vectorstores (1), vectorstoreid (1), vectorstorefiles (1)
 > **Analogies:** such as (3), for instance (1), for example (1)
 > **File Paths:** policy.txt (1), guidelines.txt (1), upload.js (1), assistant.js (1)
@@ -976,8 +968,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (2)
 > **URLs:** [openai.com](https://openai.com) (1)
 
-#### Challenge: Uploading and managing documents
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/challenge-uploading-and-managing-documents?u=76281980)
+#### [Challenge: Uploading and managing documents](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/challenge-uploading-and-managing-documents?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1033,7 +1024,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2), next (2), data (1), [[Search]] (1)
 > **File Paths:** faq.txt (4), guidelines.txt (1)
 > **Env Vars:** api (2), faq (2)
 > **Analogies:** for example (4)
@@ -1041,9 +1031,9 @@ created: 2026-05-02
 > **Prerequisites:** install (1), you'll need (1)
 > **Cross-References:** in the next (1)
 > **Documentation:** api reference (1)
+> **Exercise Files:** download the (1)
 
-#### Solution: Uploading and managing documents
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/solution-uploading-and-managing-documents?u=76281980)
+#### [Solution: Uploading and managing documents](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/solution-uploading-and-managing-documents?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1165,7 +1155,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), node (3), [[Search]] (1), career (1), api (1)
 > **File Paths:** faq.txt (6), upload.js (5), assistant.js (3), file.txt (1), assistants.js (1)
 > **Code Identifiers:** vectorstoreid (3), uploadfile (2), filename (2), fileid (2), addmessage (2)
 > **CLI Commands:** node (3), make (2)
@@ -1173,14 +1162,14 @@ created: 2026-05-02
 > **Analogies:** such as (2), for example (1), for instance (1)
 > **URLs:** [xyzrobotics.com](https://xyzrobotics.com) (1)
 > **Documentation:** the docs (1)
+> **Definitions:** in other words (1)
 
 
 ### 2. Implementing Core Features
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Handling user input and generating responses
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/handling-user-input-and-generating-responses?u=76281980)
+#### [Handling user input and generating responses](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/handling-user-input-and-generating-responses?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1288,17 +1277,17 @@ created: 2026-05-02
 >
 > **[7:02](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/handling-user-input-and-generating-responses?u=76281980&t=422)** That was a lot of code, so now let's have a look at the frontend interface for users to interact with the assistants.
 >
-> **[7:08](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/handling-user-input-and-generating-responses?u=76281980&t=428)** In the public directory of our project, if you open up index.html, you'll notice that we create the UI with a text input for the user query and a button to send the query.
+> **[7:08](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/handling-user-input-and-generating-responses?u=76281980&t=428)** In the public directory of our project, if you open up index.[[HTML]], you'll notice that we create the UI with a text input for the user query and a button to send the query.
 >
 > **[7:21](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/handling-user-input-and-generating-responses?u=76281980&t=441)** So clicking the button is going to kick off the request to the query route handler we just worked on.
 >
-> **[7:28](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/handling-user-input-and-generating-responses?u=76281980&t=448)** Now, inside the main.js file of the public directory, you'll notice that we defined a set query function that's going to send the user message to the server using the fetch API.
+> **[7:28](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/handling-user-input-and-generating-responses?u=76281980&t=448)** Now, inside the main.js file of the public directory, you'll notice that we defined a set query function that's going to send the user message to the server using the [[Fetch]] API.
 >
 > **[7:41](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/handling-user-input-and-generating-responses?u=76281980&t=461)** And we're passing fetch the usual method, headers, and body, and we display the assistants response or an error message here in the responseDiv with data.response.
 >
 > **[7:56](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/handling-user-input-and-generating-responses?u=76281980&t=476)** And you'll notice that we are setting the response text initially to, "Assistant is thinking," when the user sends the query, just to give the app a little bit more responsiveness.
 >
-> **[8:07](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/handling-user-input-and-generating-responses?u=76281980&t=487)** All right, so if you start the server by running npm start and then head over to local host 3000 in your browser, you should see the assistant interface.
+> **[8:07](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/handling-user-input-and-generating-responses?u=76281980&t=487)** All right, so if you start the server by running [[npm]] start and then head over to local host 3000 in your browser, you should see the assistant interface.
 >
 > **[8:18](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/handling-user-input-and-generating-responses?u=76281980&t=498)** And from here, you can try entering a query related to the content of your uploaded documents.
 >
@@ -1316,7 +1305,7 @@ created: 2026-05-02
 >
 > **[9:17](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/handling-user-input-and-generating-responses?u=76281980&t=557)** Perfect, so the assistant is processing my query and displaying the response based on the documents I uploaded earlier.
 >
-> **[9:26](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/handling-user-input-and-generating-responses?u=76281980&t=566)** And as you'll notice, to ensure that the application handles errors gracefully, I've included error handling in both the server route as well as the frontend JavaScript to inform the user if something goes wrong.
+> **[9:26](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/handling-user-input-and-generating-responses?u=76281980&t=566)** And as you'll notice, to ensure that the application handles errors gracefully, I've included error handling in both the server route as well as the frontend [[JavaScript]] to inform the user if something goes wrong.
 >
 > **[9:43](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/handling-user-input-and-generating-responses?u=76281980&t=583)** All right, integrating user input handling and response generation into your web application creates an interactive assistant that can process queries and provide meaningful answers based on your custom knowledge base.
 >
@@ -1326,7 +1315,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), data (4), api (3), application (2), [[Fetch]] (2)
+> **Frameworks & Libraries:** [[Fetch]] (2), [[HTML]] (1), [[npm]] (1), [[JavaScript]] (1)
 > **Code Identifiers:** threadid (11), messagesresponse (3), threadresponse (2), assistant_id (2), allmessages (2)
 > **File Paths:** assistant.js (4), index.js (1), index.html (1), main.js (1), policy.txt (1)
 > **CLI Commands:** make (2), npm (1)
@@ -1335,8 +1324,7 @@ created: 2026-05-02
 > **Analogies:** for example (2), just like (1)
 > **Prerequisites:** set up (2)
 
-#### Customizing assistant responses
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/customizing-assistant-responses?u=76281980)
+#### [Customizing assistant responses](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/customizing-assistant-responses?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1344,7 +1332,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/customizing-assistant-responses?u=76281980&t=12)** So now I want to enhance the assistant by customizing its responses according to different document types and user inputs.
 >
-> **[0:22](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/customizing-assistant-responses?u=76281980&t=22)** This will make the assistant more friendly, effective, and even provide a better user experience.
+> **[0:22](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/customizing-assistant-responses?u=76281980&t=22)** This will make the assistant more friendly, effective, and even provide a better [[User Experience (UX)|user experience]].
 >
 > **[0:29](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/customizing-assistant-responses?u=76281980&t=29)** By default, the assistant provides responses, based on the content of the uploaded documents.
 >
@@ -1432,9 +1420,9 @@ created: 2026-05-02
 >
 > **[5:33](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/customizing-assistant-responses?u=76281980&t=333)** We no longer need to call that function.
 >
-> **[5:36](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/customizing-assistant-responses?u=76281980&t=336)** Then run my project again with NPM start.
+> **[5:36](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/customizing-assistant-responses?u=76281980&t=336)** Then run my project again with [[npm]] start.
 >
-> **[5:41](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/customizing-assistant-responses?u=76281980&t=341)** All right, so with the instructions updated, the assistant can now adjust its responses, based on the content of the documents without needing additional metadata or explicit user intents, for instance.
+> **[5:41](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/customizing-assistant-responses?u=76281980&t=341)** All right, so with the instructions updated, the assistant can now adjust its responses, based on the content of the documents without needing additional [[Metadata]] or explicit user intents, for instance.
 >
 > **[6:02](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/customizing-assistant-responses?u=76281980&t=362)** All right, so back in my app, I'll ask some more questions.
 >
@@ -1514,7 +1502,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), web application (1), [[User Experience (UX)|User experience]] (1), node (1), [[npm]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), [[npm]] (1), [[Metadata]] (1)
 > **CLI Commands:** make (6), node (1), npm (1), find (1)
 > **Analogies:** for instance (4), for example (4), such as (1)
 > **Env Vars:** ted (2), faq (2), npm (1), xyx (1)
@@ -1523,8 +1511,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **UI Navigation:** scroll down (1)
 
-#### Challenge: Implementing streaming responses
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/challenge-implementing-streaming-responses?u=76281980)
+#### [Challenge: Implementing streaming responses](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/challenge-implementing-streaming-responses?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1534,7 +1521,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/challenge-implementing-streaming-responses?u=76281980&t=15)** While functional, this approach can maybe lead to delays, especially with longer responses like this one.
 >
-> **[0:23](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/challenge-implementing-streaming-responses?u=76281980&t=23)** To enhance the user experience, you can implement streaming responses, which allows the Assistant to send parts of its reply as they become available.
+> **[0:23](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/challenge-implementing-streaming-responses?u=76281980&t=23)** To enhance the [[User Experience (UX)|user experience]], you can implement streaming responses, which allows the Assistant to send parts of its reply as they become available.
 >
 > **[0:34](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/challenge-implementing-streaming-responses?u=76281980&t=34)** And this makes interactions feel more immediate and engaging.
 >
@@ -1548,7 +1535,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/challenge-implementing-streaming-responses?u=76281980&t=65)** Your task is to modify your Assistant app to support streaming responses from the Assistant to the user.
 >
-> **[1:13](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/challenge-implementing-streaming-responses?u=76281980&t=73)** Download the latest files with this video, and you'll see that I'm providing you with the client side code here in main.js that handles streaming, and your job is to implement the server side functionality using the OpenAI API here in index.js.
+> **[1:13](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/challenge-implementing-streaming-responses?u=76281980&t=73)** Download the latest files with this video, and you'll see that I'm providing you with the client side code here in main.js that handles streaming, and your job is to implement the server side functionality using the [[OpenAI API]] here in index.js.
 >
 > **[1:32](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/challenge-implementing-streaming-responses?u=76281980&t=92)** So first, in your public main.js file, the client side code has been updated to handle streaming responses, so let's have a look at the latest updates.
 >
@@ -1602,7 +1589,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2), [[OpenAI API]] (2), data (2), api (2), next (2)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2), [[OpenAI API]] (2)
 > **Env Vars:** api (4), utf (1)
 > **File Paths:** main.js (2), index.js (2)
 > **Code Identifiers:** responsediv (1), createandrun (1)
@@ -1611,8 +1598,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **UI Navigation:** open the (1)
 
-#### Solution: Implementing streaming responses
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/solution-implementing-streaming-responses?u=76281980)
+#### [Solution: Implementing streaming responses](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/solution-implementing-streaming-responses?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1644,7 +1630,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/solution-implementing-streaming-responses?u=76281980&t=120)** The property stream is what's going to enable streaming, and you need to set it to true.
 >
-> **[2:06](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/solution-implementing-streaming-responses?u=76281980&t=126)** So this is going to tell the OpenAI assistant to begin returning tokens as they are generated rather than waiting for a full completion.
+> **[2:06](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/solution-implementing-streaming-responses?u=76281980&t=126)** So this is going to tell the OpenAI assistant to begin returning [[Tokens]] as they are generated rather than waiting for a full completion.
 >
 > **[2:17](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/solution-implementing-streaming-responses?u=76281980&t=137)** So notice here in createAndRun, we are starting a thread with a message array where the role is user and the content is the user message we're getting from the request body, so it's doing all of that here at once in one function, super handy.
 >
@@ -1702,7 +1688,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Tokens]] (2), api (1)
+> **Frameworks & Libraries:** [[Tokens]] (2)
 > **Code Identifiers:** createandrun (2), setheader (1)
 > **Env Vars:** api (1), utf (1)
 > **Cross-References:** previous video (2)
@@ -1711,8 +1697,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
 
-#### Controlling token length and formatting
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/controlling-token-length-and-formatting?u=76281980)
+#### [Controlling token length and formatting](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/controlling-token-length-and-formatting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1736,11 +1721,11 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/controlling-token-length-and-formatting?u=76281980&t=90)** Then I'll comment it back out.
 >
-> **[1:32](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/controlling-token-length-and-formatting?u=76281980&t=92)** Then run my server again with NPM start.
+> **[1:32](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/controlling-token-length-and-formatting?u=76281980&t=92)** Then run my server again with [[npm]] start.
 >
-> **[1:36](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/controlling-token-length-and-formatting?u=76281980&t=96)** Next, the max completion tokens parameter allows you to limit the number of completion tokens.
+> **[1:36](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/controlling-token-length-and-formatting?u=76281980&t=96)** Next, the max completion [[Tokens]] parameter allows you to limit the number of completion tokens.
 >
-> **[1:44](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/controlling-token-length-and-formatting?u=76281980&t=104)** That is words or word pieces that the assistant can use over the course of one run.
+> **[1:44](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/controlling-token-length-and-formatting?u=76281980&t=104)** That is words or [[Microsoft Word|word]] pieces that the assistant can use over the course of one run.
 >
 > **[1:51](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/controlling-token-length-and-formatting?u=76281980&t=111)** This helps control the length of the assistance replies, for example.
 >
@@ -1774,7 +1759,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/controlling-token-length-and-formatting?u=76281980&t=210)** And we can do that by, for example, replacing any new line characters with BR tags.
 >
-> **[3:38](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/controlling-token-length-and-formatting?u=76281980&t=218)** And I'll apply those changes in my client side JavaScript.
+> **[3:38](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/controlling-token-length-and-formatting?u=76281980&t=218)** And I'll apply those changes in my client side [[JavaScript]].
 >
 > **[3:42](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/controlling-token-length-and-formatting?u=76281980&t=222)** So in my public directory, I'll open up the main digest file and scroll down to my while loop here where I'm reading the data from the response body in small chunks.
 >
@@ -1782,7 +1767,7 @@ created: 2026-05-02
 >
 > **[4:11](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/controlling-token-length-and-formatting?u=76281980&t=251)** So right below I'll say chunk equals, then we want to chunk.replace, and then here we'll add a little bit of regex that replaces any new line with BR tags, just like that.
 >
-> **[4:29](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/controlling-token-length-and-formatting?u=76281980&t=269)** And the other change I want to make here is instead of a pending text content to the dom, we'll replace it with inner HTML.
+> **[4:29](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/controlling-token-length-and-formatting?u=76281980&t=269)** And the other change I want to make here is instead of a pending text content to the dom, we'll replace it with inner [[HTML]].
 >
 > **[4:40](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/controlling-token-length-and-formatting?u=76281980&t=280)** That way we're appending HTML to the dom, and we're using text content and a couple other places here.
 >
@@ -1824,7 +1809,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (10), [[Microsoft Word|Word]] (2), dom (2), [[HTML]] (2), [[npm]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (10), [[Microsoft Word|Word]] (2), [[HTML]] (2), [[npm]] (1), [[JavaScript]] (1)
 > **Analogies:** for example (4), for instance (1), just like (1), such as (1)
 > **CLI Commands:** make (2), npm (1), find (1)
 > **File Paths:** assistant.js (1), nodeassistant.js (1), index.js (1)
@@ -1838,8 +1823,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to the Code Interpreter
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/introduction-to-the-code-interpreter?u=76281980)
+#### [Introduction to the Code Interpreter](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/introduction-to-the-code-interpreter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1851,7 +1835,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/introduction-to-the-code-interpreter?u=76281980&t=21)** For instance, we've already had a look at the file search tool.
 >
-> **[0:25](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/introduction-to-the-code-interpreter?u=76281980&t=25)** Now, code interpreter enables your assistant to run Python codes securely in an isolated environment.
+> **[0:25](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/introduction-to-the-code-interpreter?u=76281980&t=25)** Now, code interpreter enables your assistant to run [[Python (Programming Language)|Python]] codes securely in an isolated environment.
 >
 > **[0:33](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/introduction-to-the-code-interpreter?u=76281980&t=33)** With this capability, your assistant can solve mathematical problems or equations, manipulate and analyze data provided by the user, also execute code on the fly.
 >
@@ -1911,7 +1895,7 @@ created: 2026-05-02
 >
 > **[4:38](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/introduction-to-the-code-interpreter?u=76281980&t=278)** Now so far we've been asking our assistant some fairly simple questions that maybe the assistant can respond without code interpreter.
 >
-> **[4:49](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/introduction-to-the-code-interpreter?u=76281980&t=289)** As you'll learn in an upcoming video, you'll use the code interpreter to perform tasks that might require actual computation or more data processing, for example, if your query involves any file manipulation or data analysis.
+> **[4:49](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/introduction-to-the-code-interpreter?u=76281980&t=289)** As you'll learn in an upcoming video, you'll use the code interpreter to perform tasks that might require actual computation or more [[Data Processing]], for example, if your query involves any file manipulation or data analysis.
 >
 > **[5:05](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/introduction-to-the-code-interpreter?u=76281980&t=305)** For instance, I might ask it a tricky Python related question.
 >
@@ -1927,7 +1911,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Python (Programming Language)|Python]] (4), [[Search]] (3), api (2), feature (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Data Processing]] (1)
 > **Analogies:** for instance (2), for example (2), such as (2), it's like (1)
 > **CLI Commands:** python (4), make (1), node (1)
 > **Versions:** 0.8 (1), 78.5 (1), 78.54 (1)
@@ -1936,8 +1920,7 @@ created: 2026-05-02
 > **UI Navigation:** open the (1), scroll down (1)
 > **Code Identifiers:** code_interpreter (1)
 
-#### Leveraging Code Interpreter for data analysis and iterative problem solving
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/leveraging-code-interpreter-for-data-analysis-and-iterative-problem-solving?u=76281980)
+#### [Leveraging Code Interpreter for data analysis and iterative problem solving](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/leveraging-code-interpreter-for-data-analysis-and-iterative-problem-solving?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1945,13 +1928,13 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/leveraging-code-interpreter-for-data-analysis-and-iterative-problem-solving?u=76281980&t=7)** Now, I'll take things a step further by exploring how the assistant can perform more advanced data analysis.
 >
-> **[0:14](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/leveraging-code-interpreter-for-data-analysis-and-iterative-problem-solving?u=76281980&t=14)** You'll learn how to upload data files, process them, and even generate insightful summaries and statistics.
+> **[0:14](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/leveraging-code-interpreter-for-data-analysis-and-iterative-problem-solving?u=76281980&t=14)** You'll learn how to upload data files, process them, and even generate insightful summaries and [[Statistics]].
 >
 > **[0:20](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/leveraging-code-interpreter-for-data-analysis-and-iterative-problem-solving?u=76281980&t=20)** First, to enable the assistant to analyze data you'll start by uploading a data file it can work with.
 >
 > **[0:27](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/leveraging-code-interpreter-for-data-analysis-and-iterative-problem-solving?u=76281980&t=27)** So, be sure to prepare your data file, and here are some helpful tips for that.
 >
-> **[0:32](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/leveraging-code-interpreter-for-data-analysis-and-iterative-problem-solving?u=76281980&t=32)** The API supports common data files like CSV, JSON, text files and PDF files.
+> **[0:32](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/leveraging-code-interpreter-for-data-analysis-and-iterative-problem-solving?u=76281980&t=32)** The API supports common data files like CSV, [[JSON]], text files and PDF files.
 >
 > **[0:38](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/leveraging-code-interpreter-for-data-analysis-and-iterative-problem-solving?u=76281980&t=38)** So, make sure that your data files are well structured.
 >
@@ -1965,7 +1948,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/leveraging-code-interpreter-for-data-analysis-and-iterative-problem-solving?u=76281980&t=74)** As you can see, it's quite a bit of data to analyze.
 >
-> **[1:18](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/leveraging-code-interpreter-for-data-analysis-and-iterative-problem-solving?u=76281980&t=78)** So, now I'm going to use the OpenAI API to upload this file to the assistant.
+> **[1:18](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/leveraging-code-interpreter-for-data-analysis-and-iterative-problem-solving?u=76281980&t=78)** So, now I'm going to use the [[OpenAI API]] to upload this file to the assistant.
 >
 > **[1:25](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/leveraging-code-interpreter-for-data-analysis-and-iterative-problem-solving?u=76281980&t=85)** Now, I could do that in upload.js, for example.
 >
@@ -2025,7 +2008,7 @@ created: 2026-05-02
 >
 > **[5:10](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/leveraging-code-interpreter-for-data-analysis-and-iterative-problem-solving?u=76281980&t=310)** There we go.
 >
-> **[5:12](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/leveraging-code-interpreter-for-data-analysis-and-iterative-problem-solving?u=76281980&t=312)** Now, the one thing to keep in mind is that when you are performing data analysis with Code Interpreter, for instance, that does consume more tokens.
+> **[5:12](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/leveraging-code-interpreter-for-data-analysis-and-iterative-problem-solving?u=76281980&t=312)** Now, the one thing to keep in mind is that when you are performing data analysis with Code Interpreter, for instance, that does consume more [[Tokens]].
 >
 > **[5:22](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/leveraging-code-interpreter-for-data-analysis-and-iterative-problem-solving?u=76281980&t=322)** So, I'm going to increase the max_completion_tokens value to let's say 550.
 >
@@ -2065,7 +2048,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), next (4), api (2), product (2), [[Tokens]] (2)
+> **Frameworks & Libraries:** [[Tokens]] (2), [[Statistics]] (1), [[JSON]] (1), [[OpenAI API]] (1)
 > **Code Identifiers:** sales_data (4), updateassistant (2), datafileid (2), createandrun (1), tool_resources (1)
 > **Env Vars:** api (3), csv (3), json (1), pdf (1), xyz (1)
 > **File Paths:** sales_data.csv (4), assistant.js (2), upload.js (1), index.js (1)
@@ -2074,8 +2057,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1), node (1)
 > **Definitions:** is a  (2)
 
-#### Integrating function calling
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/integrating-function-calling?u=76281980)
+#### [Integrating function calling](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/integrating-function-calling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2085,7 +2067,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/integrating-function-calling?u=76281980&t=20)** So function calling.
 >
-> **[0:21](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/integrating-function-calling?u=76281980&t=21)** If you read the documents here, you'll learn that it allows the assistant to call functions in your code base, letting it perform actions or fetch data it couldn't otherwise.
+> **[0:21](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/integrating-function-calling?u=76281980&t=21)** If you read the documents here, you'll learn that it allows the assistant to call functions in your code base, letting it perform actions or [[Fetch]] data it couldn't otherwise.
 >
 > **[0:32](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/integrating-function-calling?u=76281980&t=32)** It provides real time data to users which enhances the assistant's usefulness and it keeps the assistant focused on conversation while your code handles specific tasks.
 >
@@ -2095,7 +2077,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/integrating-function-calling?u=76281980&t=63)** So you can search by the city for instance, here's an example of an endpoint that searches some fake weather data from Miami.
 >
-> **[1:11](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/integrating-function-calling?u=76281980&t=71)** So here's the five day weather forecast, JSON data.
+> **[1:11](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/integrating-function-calling?u=76281980&t=71)** So here's the five day weather forecast, [[JSON]] data.
 >
 > **[1:16](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/integrating-function-calling?u=76281980&t=76)** When you download the latest starter files with this video, you'll find a new file in your project named Functions.js.
 >
@@ -2227,7 +2209,7 @@ created: 2026-05-02
 >
 > **[8:42](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/integrating-function-calling?u=76281980&t=522)** Fantastic.
 >
-> **[8:45](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/integrating-function-calling?u=76281980&t=525)** Now I'll go back to my project and run it with NPM start.
+> **[8:45](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/integrating-function-calling?u=76281980&t=525)** Now I'll go back to my project and run it with [[npm]] start.
 >
 > **[8:51](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/integrating-function-calling?u=76281980&t=531)** And if I head over to my assistant and then ask it a question such as, hi there, how are you doing?
 >
@@ -2335,7 +2317,7 @@ created: 2026-05-02
 >
 > **[14:45](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/integrating-function-calling?u=76281980&t=885)** All right, so why does all of this code matter?
 >
-> **[14:49](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/integrating-function-calling?u=76281980&t=889)** Well again, the assistant indicates it needs real-time data by setting its status to requires action.
+> **[14:49](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/integrating-function-calling?u=76281980&t=889)** Well again, the assistant indicates it needs [[Real-Time]] data by setting its status to requires action.
 >
 > **[14:56](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/integrating-function-calling?u=76281980&t=896)** Then we interpret the function calls it wants with tool calls, we run those calls locally and submit the results and we keep doing it over and over again.
 >
@@ -2441,7 +2423,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), api (9), [[Fetch]] (5), next (4), [[JSON]] (3)
+> **Frameworks & Libraries:** [[Fetch]] (5), [[JSON]] (3), [[npm]] (3), [[Real-Time]] (1)
 > **Env Vars:** api (9), json (3), npm (3), gpt (1), czy (1)
 > **File Paths:** assistant.js (6), functions.js (2), index.js (2), day.js (1)
 > **Analogies:** for example (6), for instance (2), such as (2), just like (1)
@@ -2455,8 +2437,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2474,21 +2455,21 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/next-steps?u=76281980&t=35)** For instance, you might explore function calling further for more complex workflows, such as using tools to make your assistant act more like an intelligent agent.
 >
-> **[0:46](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/next-steps?u=76281980&t=46)** And if you're looking for more courses to dive deeper, check out courses like "Integrating Generative AI Into Your Web Projects" by Sandy Ludowski.
+> **[0:46](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/next-steps?u=76281980&t=46)** And if you're looking for more courses to dive deeper, check out courses like "Integrating [[Generative AI]] Into Your Web Projects" by Sandy Ludowski.
 >
-> **[0:54](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/next-steps?u=76281980&t=54)** And "Hands-on OpenAI API, Building a Real World Solution" by Rodrigo Diaz Concha.
+> **[0:54](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/next-steps?u=76281980&t=54)** And "Hands-on [[OpenAI API]], Building a Real World Solution" by Rodrigo Diaz Concha.
 >
 > **[1:02](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/next-steps?u=76281980&t=62)** And remember to download your certificate of completion for this course to show your new skills to colleagues and friends.
 >
 > **[1:09](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/next-steps?u=76281980&t=69)** And if you have questions or want to share your thoughts on the course, feel free to submit them in the course Q and A.
 >
-> **[1:15](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/next-steps?u=76281980&t=75)** If you'd like to get in touch, be sure to visit my LinkedIn and reach out.
+> **[1:15](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/next-steps?u=76281980&t=75)** If you'd like to get in touch, be sure to visit my [[LinkedIn]] and reach out.
 >
 > **[1:19](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/next-steps?u=76281980&t=79)** Thanks and happy exploring and building with generative AI.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (2), [[Search]] (1), data (1), api (1), web (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[OpenAI API]] (1), [[LinkedIn]] (1)
 > **Env Vars:** api (2)
 > **Analogies:** for instance (1), such as (1)
 > **CLI Commands:** make (1)

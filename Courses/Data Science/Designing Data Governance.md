@@ -76,8 +76,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building a data-driven culture
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-data-governance/building-a-data-driven-culture?u=76281980)
+#### [Building a data-driven culture](https://www.linkedin.com/learning/designing-data-governance/building-a-data-driven-culture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -87,9 +86,9 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/designing-data-governance/building-a-data-driven-culture?u=76281980&t=7)** You have to give it value by using the right quality data to solve your most pressing business problems.
 >
-> **[0:12](https://www.linkedin.com/learning/designing-data-governance/building-a-data-driven-culture?u=76281980&t=12)** Here's the good news. You can design data governance, the people, processes, and tools to manage your data at scale into your business plan.
+> **[0:12](https://www.linkedin.com/learning/designing-data-governance/building-a-data-driven-culture?u=76281980&t=12)** Here's the good news. You can design [[Data Governance]], the people, processes, and tools to manage your data at scale into your business plan.
 >
-> **[0:20](https://www.linkedin.com/learning/designing-data-governance/building-a-data-driven-culture?u=76281980&t=20)** I'm Lauren Maffeo and I'm here to help you connect your big data back to your business strategy.
+> **[0:20](https://www.linkedin.com/learning/designing-data-governance/building-a-data-driven-culture?u=76281980&t=20)** I'm Lauren Maffeo and I'm here to help you connect your [[Big Data]] back to your business strategy.
 >
 > **[0:26](https://www.linkedin.com/learning/designing-data-governance/building-a-data-driven-culture?u=76281980&t=26)** When we're done with this course, you'll have a plan to build the data-driven culture that most leaders can only dream of.
 >
@@ -97,21 +96,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), business (4), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[Data Governance]] (1), [[Big Data]] (1)
 
 
 ### 1. Find Your Data Framework
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Clarifying your company's mission statement
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-data-governance/clarifying-your-company-s-mission-statement?u=76281980)
+#### [Clarifying your company's mission statement](https://www.linkedin.com/learning/designing-data-governance/clarifying-your-company-s-mission-statement?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/designing-data-governance/clarifying-your-company-s-mission-statement?u=76281980&t=0)** Whether you manage a sales team or a hospital, you should be empowered to boost your team's outcomes using data.
 >
-> **[0:06](https://www.linkedin.com/learning/designing-data-governance/clarifying-your-company-s-mission-statement?u=76281980&t=6)** It's been implied that having lots of data is inherently valuable, but if you work with big data yourself, you know that's not true.
+> **[0:06](https://www.linkedin.com/learning/designing-data-governance/clarifying-your-company-s-mission-statement?u=76281980&t=6)** It's been implied that having lots of data is inherently valuable, but if you work with [[Big Data]] yourself, you know that's not true.
 >
 > **[0:13](https://www.linkedin.com/learning/designing-data-governance/clarifying-your-company-s-mission-statement?u=76281980&t=13)** Data has no value if you don't know what it is, where it lives, and how you want to use it within your business.
 >
@@ -149,25 +147,24 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/designing-data-governance/clarifying-your-company-s-mission-statement?u=76281980&t=84)** What's the point of using data at all?
 >
-> **[1:26](https://www.linkedin.com/learning/designing-data-governance/clarifying-your-company-s-mission-statement?u=76281980&t=86)** This can be answered when you write a data governance mission statement, which we'll talk about next.
+> **[1:26](https://www.linkedin.com/learning/designing-data-governance/clarifying-your-company-s-mission-statement?u=76281980&t=86)** This can be answered when you write a [[Data Governance]] mission statement, which we'll talk about next.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), business (4), [[Big Data]] (1), next (1)
+> **Frameworks & Libraries:** [[Big Data]] (1), [[Data Governance]] (1)
 > **CLI Commands:** make (1)
 
-#### Writing your data governance mission statement
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-data-governance/writing-your-data-governance-mission-statement?u=76281980)
+#### [Writing your data governance mission statement](https://www.linkedin.com/learning/designing-data-governance/writing-your-data-governance-mission-statement?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/designing-data-governance/writing-your-data-governance-mission-statement?u=76281980&t=0)** You know why your company exists and the value it brings to the world.
 >
-> **[0:04](https://www.linkedin.com/learning/designing-data-governance/writing-your-data-governance-mission-statement?u=76281980&t=4)** Now zoom in.
+> **[0:04](https://www.linkedin.com/learning/designing-data-governance/writing-your-data-governance-mission-statement?u=76281980&t=4)** Now [[Zoom]] in.
 >
 > **[0:05](https://www.linkedin.com/learning/designing-data-governance/writing-your-data-governance-mission-statement?u=76281980&t=5)** How does your company's data fulfill that value?
 >
-> **[0:09](https://www.linkedin.com/learning/designing-data-governance/writing-your-data-governance-mission-statement?u=76281980&t=9)** Let's answer that question by writing a data governance mission statement.
+> **[0:09](https://www.linkedin.com/learning/designing-data-governance/writing-your-data-governance-mission-statement?u=76281980&t=9)** Let's answer that question by writing a [[Data Governance]] mission statement.
 >
 > **[0:13](https://www.linkedin.com/learning/designing-data-governance/writing-your-data-governance-mission-statement?u=76281980&t=13)** This statement is your North Star for how to use data in your business.
 >
@@ -195,7 +192,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/designing-data-governance/writing-your-data-governance-mission-statement?u=76281980&t=66)** Who would collect, clean, and manage this data?
 >
-> **[1:10](https://www.linkedin.com/learning/designing-data-governance/writing-your-data-governance-mission-statement?u=76281980&t=70)** Where would these colleagues store the data? In on-premise server? In Amazon Web Services environment?
+> **[1:10](https://www.linkedin.com/learning/designing-data-governance/writing-your-data-governance-mission-statement?u=76281980&t=70)** Where would these colleagues store the data? In on-premise server? In [[Amazon Web Services (AWS)|Amazon Web Services]] environment?
 >
 > **[1:16](https://www.linkedin.com/learning/designing-data-governance/writing-your-data-governance-mission-statement?u=76281980&t=76)** Maybe neither.
 >
@@ -209,7 +206,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/designing-data-governance/writing-your-data-governance-mission-statement?u=76281980&t=97)** Instead, try something like this.
 >
-> **[1:39](https://www.linkedin.com/learning/designing-data-governance/writing-your-data-governance-mission-statement?u=76281980&t=99)** "Our organization will enable all team leads to access data within our BI analytics software of choice, like Tableau or Databricks.
+> **[1:39](https://www.linkedin.com/learning/designing-data-governance/writing-your-data-governance-mission-statement?u=76281980&t=99)** "Our organization will enable all team leads to access data within our BI analytics software of choice, like [[Tableau]] or Databricks.
 >
 > **[1:47](https://www.linkedin.com/learning/designing-data-governance/writing-your-data-governance-mission-statement?u=76281980&t=107)** This will empower everyone to achieve our shared business goal of increasing customer satisfaction scores by 10% by 2025."
 >
@@ -233,15 +230,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (35), business (4), [[Zoom]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1), teams (1)
+> **Frameworks & Libraries:** [[Data Governance]] (8), [[Zoom]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Tableau]] (1)
 > **CLI Commands:** make (1)
 
-#### What are frameworks, and how can they help data governance?
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-data-governance/what-are-frameworks-and-how-can-they-help-data-governance?u=76281980)
+#### [What are frameworks, and how can they help data governance?](https://www.linkedin.com/learning/designing-data-governance/what-are-frameworks-and-how-can-they-help-data-governance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/designing-data-governance/what-are-frameworks-and-how-can-they-help-data-governance?u=76281980&t=0)** Once you're clear on your company and data governance mission statements, the next step is to adopt a framework.
+> **[0:00](https://www.linkedin.com/learning/designing-data-governance/what-are-frameworks-and-how-can-they-help-data-governance?u=76281980&t=0)** Once you're clear on your company and [[Data Governance]] mission statements, the next step is to adopt a framework.
 >
 > **[0:06](https://www.linkedin.com/learning/designing-data-governance/what-are-frameworks-and-how-can-they-help-data-governance?u=76281980&t=6)** Think of data governance frameworks like you would software frameworks.
 >
@@ -251,9 +247,9 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/designing-data-governance/what-are-frameworks-and-how-can-they-help-data-governance?u=76281980&t=23)** Data on its own has minimal value if you don't know how or why you want to use it.
 >
-> **[0:28](https://www.linkedin.com/learning/designing-data-governance/what-are-frameworks-and-how-can-they-help-data-governance?u=76281980&t=28)** For instance, let's say that your digital marketing director gives your data scientists a set of statistics about user behavior on your website.
+> **[0:28](https://www.linkedin.com/learning/designing-data-governance/what-are-frameworks-and-how-can-they-help-data-governance?u=76281980&t=28)** For instance, let's say that your digital marketing director gives your data scientists a set of [[Statistics]] about user behavior on your website.
 >
-> **[0:36](https://www.linkedin.com/learning/designing-data-governance/what-are-frameworks-and-how-can-they-help-data-governance?u=76281980&t=36)** Your data science team wants to build an algorithm predicting which user demographics are more likely to buy certain products and which web pages each user segment is most likely to visit.
+> **[0:36](https://www.linkedin.com/learning/designing-data-governance/what-are-frameworks-and-how-can-they-help-data-governance?u=76281980&t=36)** Your [[Data Science]] team wants to build an algorithm predicting which user demographics are more likely to buy certain [[Microsoft Products|products]] and which web pages each user segment is most likely to visit.
 >
 > **[0:46](https://www.linkedin.com/learning/designing-data-governance/what-are-frameworks-and-how-can-they-help-data-governance?u=76281980&t=46)** In this scenario, data is the statistics which share information about user behavior.
 >
@@ -265,19 +261,19 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/designing-data-governance/what-are-frameworks-and-how-can-they-help-data-governance?u=76281980&t=75)** Gartner's data governance framework is especially helpful because it covers the key areas your data governance efforts will need to address. Values and outcomes.
 >
-> **[1:24](https://www.linkedin.com/learning/designing-data-governance/what-are-frameworks-and-how-can-they-help-data-governance?u=76281980&t=84)** A value-based framework ensures that all your efforts to govern big data tie back to your organization's mission statement or its reason for existing.
+> **[1:24](https://www.linkedin.com/learning/designing-data-governance/what-are-frameworks-and-how-can-they-help-data-governance?u=76281980&t=84)** A value-based framework ensures that all your efforts to govern [[Big Data]] tie back to your organization's mission statement or its reason for existing.
 >
 > **[1:33](https://www.linkedin.com/learning/designing-data-governance/what-are-frameworks-and-how-can-they-help-data-governance?u=76281980&t=93)** Trust. This helps you maximize data's value while minimizing its harm.
 >
-> **[1:37](https://www.linkedin.com/learning/designing-data-governance/what-are-frameworks-and-how-can-they-help-data-governance?u=76281980&t=97)** Accountability. You know who's responsible for decisions about data across all of your teams.
+> **[1:37](https://www.linkedin.com/learning/designing-data-governance/what-are-frameworks-and-how-can-they-help-data-governance?u=76281980&t=97)** [[Accountability]]. You know who's responsible for decisions about data across all of your teams.
 >
-> **[1:43](https://www.linkedin.com/learning/designing-data-governance/what-are-frameworks-and-how-can-they-help-data-governance?u=76281980&t=103)** Transparency and ethics. This is a clear rationale for how your organization collects data, which data it collects, and why it does so.
+> **[1:43](https://www.linkedin.com/learning/designing-data-governance/what-are-frameworks-and-how-can-they-help-data-governance?u=76281980&t=103)** Transparency and [[Ethics]]. This is a clear rationale for how your organization collects data, which data it collects, and why it does so.
 >
 > **[1:51](https://www.linkedin.com/learning/designing-data-governance/what-are-frameworks-and-how-can-they-help-data-governance?u=76281980&t=111)** If you're collecting user data to profit from it, you need to say so.
 >
 > **[1:55](https://www.linkedin.com/learning/designing-data-governance/what-are-frameworks-and-how-can-they-help-data-governance?u=76281980&t=115)** Risk and security.
 >
-> **[1:57](https://www.linkedin.com/learning/designing-data-governance/what-are-frameworks-and-how-can-they-help-data-governance?u=76281980&t=117)** This keeps your company risk-aware by putting data security at the center of your C-suite conversations. Education and training.
+> **[1:57](https://www.linkedin.com/learning/designing-data-governance/what-are-frameworks-and-how-can-they-help-data-governance?u=76281980&t=117)** This keeps your company risk-aware by putting [[Data Security]] at the center of your C-suite conversations. Education and training.
 >
 > **[2:05](https://www.linkedin.com/learning/designing-data-governance/what-are-frameworks-and-how-can-they-help-data-governance?u=76281980&t=125)** This is your plan to help all colleagues learn why data governance matters and how they can help. Collaboration and culture.
 >
@@ -289,7 +285,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/designing-data-governance/what-are-frameworks-and-how-can-they-help-data-governance?u=76281980&t=144)** How can you collect user analytics in a way that those users can trust?
 >
-> **[2:29](https://www.linkedin.com/learning/designing-data-governance/what-are-frameworks-and-how-can-they-help-data-governance?u=76281980&t=149)** How will you reduce risk in the data collection and publication processes?
+> **[2:29](https://www.linkedin.com/learning/designing-data-governance/what-are-frameworks-and-how-can-they-help-data-governance?u=76281980&t=149)** How will you reduce risk in the [[Data Collection]] and publication processes?
 >
 > **[2:33](https://www.linkedin.com/learning/designing-data-governance/what-are-frameworks-and-how-can-they-help-data-governance?u=76281980&t=153)** Which teams will collaborate on this work, and who's accountable for which pieces of data?
 >
@@ -299,7 +295,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), [[Security]] (4), next (2), business (2), [[Statistics]] (2)
+> **Frameworks & Libraries:** [[Data Governance]] (6), [[Statistics]] (2), [[Data Science]] (2), [[Microsoft Products|Products]] (1), [[Big Data]] (1)
 > **Analogies:** for instance (1), for example (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ciso (1)
@@ -310,8 +306,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are data stewards?
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-data-governance/what-are-data-stewards?u=76281980)
+#### [What are data stewards?](https://www.linkedin.com/learning/designing-data-governance/what-are-data-stewards?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -319,7 +314,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/designing-data-governance/what-are-data-stewards?u=76281980&t=4)** On top of that, the average CTO schedule is full as is.
 >
-> **[0:07](https://www.linkedin.com/learning/designing-data-governance/what-are-data-stewards?u=76281980&t=7)** So how can you ensure data quality at all stages of every data pipeline?
+> **[0:07](https://www.linkedin.com/learning/designing-data-governance/what-are-data-stewards?u=76281980&t=7)** So how can you ensure [[Data Quality]] at all stages of every data pipeline?
 >
 > **[0:12](https://www.linkedin.com/learning/designing-data-governance/what-are-data-stewards?u=76281980&t=12)** Use data stewards.
 >
@@ -333,7 +328,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/designing-data-governance/what-are-data-stewards?u=76281980&t=50)** They have deep knowledge of the company strategy, customer pain points, collaboration processes, and cultural nuances.
 >
-> **[0:57](https://www.linkedin.com/learning/designing-data-governance/what-are-data-stewards?u=76281980&t=57)** This knowledge is invaluable to colleagues in data engineering, data science, and data architecture.
+> **[0:57](https://www.linkedin.com/learning/designing-data-governance/what-are-data-stewards?u=76281980&t=57)** This knowledge is invaluable to colleagues in [[Data Engineering]], [[Data Science]], and [[Data Architecture]].
 >
 > **[1:03](https://www.linkedin.com/learning/designing-data-governance/what-are-data-stewards?u=76281980&t=63)** They need those insights to inform their own work.
 >
@@ -345,7 +340,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/designing-data-governance/what-are-data-stewards?u=76281980&t=79)** A tactical individual contributor, example, could be.
 >
-> **[1:22](https://www.linkedin.com/learning/designing-data-governance/what-are-data-stewards?u=76281980&t=82)** Let's say your data team must redesign the taxonomy within a database about cars. Before that content reaches its database, a team of statisticians collects, downloads, cleans, and analyzes the data for their specific products.
+> **[1:22](https://www.linkedin.com/learning/designing-data-governance/what-are-data-stewards?u=76281980&t=82)** Let's say your data team must redesign the taxonomy within a database about cars. Before that content reaches its database, a team of statisticians collects, downloads, cleans, and analyzes the data for their specific [[Microsoft Products|products]].
 >
 > **[1:36](https://www.linkedin.com/learning/designing-data-governance/what-are-data-stewards?u=76281980&t=96)** This expertise varies per statistician, whereas one statistician owns the data for BMWs, another owns the data for Audis.
 >
@@ -359,7 +354,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/designing-data-governance/what-are-data-stewards?u=76281980&t=137)** Who collects this data, and where is it stored before it reaches the main database?
 >
-> **[2:22](https://www.linkedin.com/learning/designing-data-governance/what-are-data-stewards?u=76281980&t=142)** How many databases does this data live in?
+> **[2:22](https://www.linkedin.com/learning/designing-data-governance/what-are-data-stewards?u=76281980&t=142)** How many [[Databases]] does this data live in?
 >
 > **[2:24](https://www.linkedin.com/learning/designing-data-governance/what-are-data-stewards?u=76281980&t=144)** Are they on-premise or in the cloud?
 >
@@ -379,17 +374,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (35), database (6), business (4), [[Microsoft Products|Products]] (2), product (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Data Quality]] (1), [[Data Engineering]] (1), [[Data Science]] (1), [[Data Architecture]] (1)
 > **Env Vars:** bmw (2), cto (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 
-#### Key tasks that data stewards perform
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-data-governance/key-tasks-that-data-stewards-perform?u=76281980)
+#### [Key tasks that data stewards perform](https://www.linkedin.com/learning/designing-data-governance/key-tasks-that-data-stewards-perform?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/designing-data-governance/key-tasks-that-data-stewards-perform?u=76281980&t=0)** You know the data stewards play a key role driving data governance.
+> **[0:00](https://www.linkedin.com/learning/designing-data-governance/key-tasks-that-data-stewards-perform?u=76281980&t=0)** You know the data stewards play a key role driving [[Data Governance]].
 >
 > **[0:04](https://www.linkedin.com/learning/designing-data-governance/key-tasks-that-data-stewards-perform?u=76281980&t=4)** They don't replace data scientists, engineers, or any other key roles.
 >
@@ -399,7 +393,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/designing-data-governance/key-tasks-that-data-stewards-perform?u=76281980&t=24)** They can do a lot of things.
 >
-> **[0:25](https://www.linkedin.com/learning/designing-data-governance/key-tasks-that-data-stewards-perform?u=76281980&t=25)** Data stewards could help your data team define metadata.
+> **[0:25](https://www.linkedin.com/learning/designing-data-governance/key-tasks-that-data-stewards-perform?u=76281980&t=25)** Data stewards could help your data team define [[Metadata]].
 >
 > **[0:29](https://www.linkedin.com/learning/designing-data-governance/key-tasks-that-data-stewards-perform?u=76281980&t=29)** Metadata is often called data about data because it helps you find the piece of data that you're looking for.
 >
@@ -411,7 +405,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/designing-data-governance/key-tasks-that-data-stewards-perform?u=76281980&t=57)** If this director serves as a customer data steward, they can keep clean, organized, and secure records of this data to share with colleagues as needed.
 >
-> **[1:06](https://www.linkedin.com/learning/designing-data-governance/key-tasks-that-data-stewards-perform?u=76281980&t=66)** Data stewards can also advise on system architecture.
+> **[1:06](https://www.linkedin.com/learning/designing-data-governance/key-tasks-that-data-stewards-perform?u=76281980&t=66)** Data stewards can also advise on [[System Architecture]].
 >
 > **[1:09](https://www.linkedin.com/learning/designing-data-governance/key-tasks-that-data-stewards-perform?u=76281980&t=69)** If data stewards lack a data architect's insights and expertise, they can still help architects with their work.
 >
@@ -443,7 +437,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/designing-data-governance/key-tasks-that-data-stewards-perform?u=76281980&t=151)** They also know how to define a date within this context.
 >
-> **[2:34](https://www.linkedin.com/learning/designing-data-governance/key-tasks-that-data-stewards-perform?u=76281980&t=154)** After all, the word "Date" can reference several different things.
+> **[2:34](https://www.linkedin.com/learning/designing-data-governance/key-tasks-that-data-stewards-perform?u=76281980&t=154)** After all, the [[Microsoft Word|word]] "Date" can reference several different things.
 >
 > **[2:38](https://www.linkedin.com/learning/designing-data-governance/key-tasks-that-data-stewards-perform?u=76281980&t=158)** Data stewards can serve business and technical roles along with performing a wide range of tasks.
 >
@@ -451,12 +445,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (35), [[Metadata]] (4), database (3), business (2), product (1)
+> **Frameworks & Libraries:** [[Metadata]] (4), [[Data Governance]] (1), [[System Architecture]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (4)
 > **Analogies:** for example (1)
 
-#### Differences between business and technical data stewards
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-data-governance/differences-between-business-and-technical-data-stewards?u=76281980)
+#### [Differences between business and technical data stewards](https://www.linkedin.com/learning/designing-data-governance/differences-between-business-and-technical-data-stewards?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -474,17 +467,17 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/designing-data-governance/differences-between-business-and-technical-data-stewards?u=76281980&t=26)** One statistician/steward owns the process for Audis, the other owns it for BMWs.
 >
-> **[0:32](https://www.linkedin.com/learning/designing-data-governance/differences-between-business-and-technical-data-stewards?u=76281980&t=32)** Both stewards own the data classification scheme for metadata and metadata which falls under their areas of expertise.
+> **[0:32](https://www.linkedin.com/learning/designing-data-governance/differences-between-business-and-technical-data-stewards?u=76281980&t=32)** Both stewards own the [[Data Classification]] scheme for [[Metadata]] and metadata which falls under their areas of expertise.
 >
 > **[0:39](https://www.linkedin.com/learning/designing-data-governance/differences-between-business-and-technical-data-stewards?u=76281980&t=39)** In our car database, a statistician who produces data releases for BMWs would serve as a steward for BMWs taxonomic hierarchies.
 >
-> **[0:48](https://www.linkedin.com/learning/designing-data-governance/differences-between-business-and-technical-data-stewards?u=76281980&t=48)** This involves collaborating with colleagues to make sure that these hierarchies are accurate, organized, informative, and intuitive; collecting data and confirming that this data and associated metadata meets quality standards; reviewing and assessing current taxonomies for commodity line items; writing the documentation required for these commodity line items; and leading data governance training for their departments.
+> **[0:48](https://www.linkedin.com/learning/designing-data-governance/differences-between-business-and-technical-data-stewards?u=76281980&t=48)** This involves collaborating with colleagues to make sure that these hierarchies are accurate, organized, informative, and intuitive; collecting data and confirming that this data and associated metadata meets quality standards; reviewing and assessing current taxonomies for commodity line items; writing the documentation required for these commodity line items; and leading [[Data Governance]] training for their departments.
 >
 > **[1:16](https://www.linkedin.com/learning/designing-data-governance/differences-between-business-and-technical-data-stewards?u=76281980&t=76)** Technical stewards own data for systems, pipelines, and implementation.
 >
 > **[1:21](https://www.linkedin.com/learning/designing-data-governance/differences-between-business-and-technical-data-stewards?u=76281980&t=81)** These stewards help colleagues learn how to model, create, maintain, and transfer data between systems.
 >
-> **[1:27](https://www.linkedin.com/learning/designing-data-governance/differences-between-business-and-technical-data-stewards?u=76281980&t=87)** Technical data stewardship tasks might be to maintain all requirements for system implementations, manage data marts, data warehouses, data lakes, and data mesh architecture, build and integrate those systems, define parameters for metadata, confirm which data they need to assign different types of content or assets, set limits for which data users and admins can work with, share advice on how to move data from an on-premise to a cloud-based environment, and build data models and algorithms that are defined by business priorities.
+> **[1:27](https://www.linkedin.com/learning/designing-data-governance/differences-between-business-and-technical-data-stewards?u=76281980&t=87)** Technical [[Data Stewardship]] tasks might be to maintain all requirements for system implementations, manage data marts, data warehouses, [[Data Lakes]], and data [[Mesh]] architecture, build and integrate those systems, define parameters for metadata, confirm which data they need to assign different types of content or assets, set limits for which data users and admins can work with, share advice on how to move data from an on-premise to a cloud-based environment, and build data models and [[Algorithms]] that are defined by business priorities.
 >
 > **[2:01](https://www.linkedin.com/learning/designing-data-governance/differences-between-business-and-technical-data-stewards?u=76281980&t=121)** Whether they hold business or technical roles, data stewards own the strategic and tactical decisions for data within their respective domains.
 >
@@ -492,13 +485,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), business (4), [[Metadata]] (4), database (2), [[Data Classification]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (4), [[Data Classification]] (1), [[Data Governance]] (1), [[Data Stewardship]] (1), [[Data Lakes]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we discussed (1)
 > **Documentation:** the documentation (1)
 
-#### Motivating data stewards to help
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-data-governance/motivating-data-stewards-to-help?u=76281980)
+#### [Motivating data stewards to help](https://www.linkedin.com/learning/designing-data-governance/motivating-data-stewards-to-help?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -542,7 +534,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/designing-data-governance/motivating-data-stewards-to-help?u=76281980&t=114)** That mission statement you wrote and the mission statement for handling data will help you here.
 >
-> **[1:59](https://www.linkedin.com/learning/designing-data-governance/motivating-data-stewards-to-help?u=76281980&t=119)** All of your stewards need to unite around a shared goal, but they also need to see how data stewardship will help them in their own roles.
+> **[1:59](https://www.linkedin.com/learning/designing-data-governance/motivating-data-stewards-to-help?u=76281980&t=119)** All of your stewards need to unite around a shared goal, but they also need to see how [[Data Stewardship]] will help them in their own roles.
 >
 > **[2:06](https://www.linkedin.com/learning/designing-data-governance/motivating-data-stewards-to-help?u=76281980&t=126)** So if you haven't shared these statements with your would-be stewards, now's the time.
 >
@@ -560,7 +552,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), business (3), functional (1), [[Engineering]] (1), management (1)
+> **Frameworks & Libraries:** [[Data Stewardship]] (2)
 > **CLI Commands:** make (1)
 > **Best Practices:** don't forget (1)
 > **Prerequisites:** you'll need (1)
@@ -570,8 +562,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a data governance council?
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-data-governance/what-is-a-data-governance-council?u=76281980)
+#### [What is a data governance council?](https://www.linkedin.com/learning/designing-data-governance/what-is-a-data-governance-council?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -581,7 +572,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/designing-data-governance/what-is-a-data-governance-council?u=76281980&t=16)** Approaching digital transformations this way ensures that their work will have minimal impact.
 >
-> **[0:22](https://www.linkedin.com/learning/designing-data-governance/what-is-a-data-governance-council?u=76281980&t=22)** Data governance councils do the opposite.
+> **[0:22](https://www.linkedin.com/learning/designing-data-governance/what-is-a-data-governance-council?u=76281980&t=22)** [[Data Governance]] councils do the opposite.
 >
 > **[0:25](https://www.linkedin.com/learning/designing-data-governance/what-is-a-data-governance-council?u=76281980&t=25)** Once you have your data strategy in place and the right stewards to fulfill it, you'll need a way to keep everyone on the same page working towards the same goal.
 >
@@ -605,14 +596,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), business (2), power (1), next (1), management (1)
+> **Frameworks & Libraries:** [[Data Governance]] (6)
 > **Prerequisites:** you'll need (4)
 > **CLI Commands:** make (1)
 > **Cross-References:** later in (1)
 > **Warnings:** be aware (1)
 
-#### Finding an effective sponsor for data governance council
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-data-governance/finding-an-effective-sponsor-for-data-governance-council?u=76281980)
+#### [Finding an effective sponsor for data governance council](https://www.linkedin.com/learning/designing-data-governance/finding-an-effective-sponsor-for-data-governance-council?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -622,7 +612,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/designing-data-governance/finding-an-effective-sponsor-for-data-governance-council?u=76281980&t=12)** Sponsors advocate for your work by ensuring that it gets the resources and visibility to thrive.
 >
-> **[0:18](https://www.linkedin.com/learning/designing-data-governance/finding-an-effective-sponsor-for-data-governance-council?u=76281980&t=18)** Rather than spending months searching for buy-in only to realize you've talked to the wrong people, you'll confirm that your data governance council's work has support from someone with the power and connections to advocate for your work, even when your council is not in the room.
+> **[0:18](https://www.linkedin.com/learning/designing-data-governance/finding-an-effective-sponsor-for-data-governance-council?u=76281980&t=18)** Rather than spending months searching for buy-in only to realize you've talked to the wrong people, you'll confirm that your [[Data Governance]] council's work has support from someone with the power and connections to advocate for your work, even when your council is not in the room.
 >
 > **[0:32](https://www.linkedin.com/learning/designing-data-governance/finding-an-effective-sponsor-for-data-governance-council?u=76281980&t=32)** If you're in a C-suite role yourself, you still need a sponsor.
 >
@@ -636,7 +626,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/designing-data-governance/finding-an-effective-sponsor-for-data-governance-council?u=76281980&t=56)** You'll start by selecting a data-focused project to shepherd through production.
 >
-> **[1:01](https://www.linkedin.com/learning/designing-data-governance/finding-an-effective-sponsor-for-data-governance-council?u=76281980&t=61)** To achieve this goal, your data stewards will need to choose the right tech stack, build processes to confirm data quality, ensure that all data meets security standards, and document a strategy to prevent data drift post-production, amongst other tasks.
+> **[1:01](https://www.linkedin.com/learning/designing-data-governance/finding-an-effective-sponsor-for-data-governance-council?u=76281980&t=61)** To achieve this goal, your data stewards will need to choose the right tech stack, build processes to confirm [[Data Quality]], ensure that all data meets security standards, and document a strategy to prevent data drift post-production, amongst other tasks.
 >
 > **[1:16](https://www.linkedin.com/learning/designing-data-governance/finding-an-effective-sponsor-for-data-governance-council?u=76281980&t=76)** Since this work falls under the CIOs domain, your data governance council will need the CIO's buy-in.
 >
@@ -660,21 +650,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), business (2), power (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Data Governance]] (5), [[Data Quality]] (1)
 > **Env Vars:** cio (2), ceo (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 
-#### Convincing colleagues to join your data governance council
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-data-governance/convincing-colleagues-to-join-your-data-governance-council?u=76281980)
+#### [Convincing colleagues to join your data governance council](https://www.linkedin.com/learning/designing-data-governance/convincing-colleagues-to-join-your-data-governance-council?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/designing-data-governance/convincing-colleagues-to-join-your-data-governance-council?u=76281980&t=0)** If you gain one message from this course, I hope it's that all your data governance work should have a higher purpose.
+> **[0:00](https://www.linkedin.com/learning/designing-data-governance/convincing-colleagues-to-join-your-data-governance-council?u=76281980&t=0)** If you gain one message from this course, I hope it's that all your [[Data Governance]] work should have a higher purpose.
 >
 > **[0:06](https://www.linkedin.com/learning/designing-data-governance/convincing-colleagues-to-join-your-data-governance-council?u=76281980&t=6)** The hype around data, coupled with how quickly it's created, leads most organizations to greenlight data projects without the right strategy for them to succeed.
 >
-> **[0:15](https://www.linkedin.com/learning/designing-data-governance/convincing-colleagues-to-join-your-data-governance-council?u=76281980&t=15)** A 2021 executive survey by NewVantage Partners found that while 92% of surveyed firms reported investing in big data and AI initiatives faster, most companies either failed to make progress or even lost progress managing data as a business asset.
+> **[0:15](https://www.linkedin.com/learning/designing-data-governance/convincing-colleagues-to-join-your-data-governance-council?u=76281980&t=15)** A 2021 executive survey by NewVantage Partners found that while 92% of surveyed firms reported investing in [[Big Data]] and AI initiatives faster, most companies either failed to make progress or even lost progress managing data as a business asset.
 >
 > **[0:31](https://www.linkedin.com/learning/designing-data-governance/convincing-colleagues-to-join-your-data-governance-council?u=76281980&t=31)** Only 29% achieved transformational business outcomes with data, while less than one in four respondents said their company was data-driven within the past year.
 >
@@ -698,7 +687,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/designing-data-governance/convincing-colleagues-to-join-your-data-governance-council?u=76281980&t=85)** The data governance council is comprised of data administrators and other senior officials who have planning, policy-level, and management responsibility for data within their functional areas.
 >
-> **[1:37](https://www.linkedin.com/learning/designing-data-governance/convincing-colleagues-to-join-your-data-governance-council?u=76281980&t=97)** The data governance office will be ex-officio members.
+> **[1:37](https://www.linkedin.com/learning/designing-data-governance/convincing-colleagues-to-join-your-data-governance-council?u=76281980&t=97)** The data governance [[Microsoft Office|office]] will be ex-officio members.
 >
 > **[1:40](https://www.linkedin.com/learning/designing-data-governance/convincing-colleagues-to-join-your-data-governance-council?u=76281980&t=100)** The data governance council will: Review and approve data governance policy, standards, guidelines, and procedures, further the overall vision and guiding principles of data governance, resolve issues escalated by data stewards, escalate issues to the executive IT committee, monitor and review overall data governance program, hold ongoing meetings.
 >
@@ -708,7 +697,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/designing-data-governance/convincing-colleagues-to-join-your-data-governance-council?u=76281980&t=139)** If you follow this model, you'll write seven principles based on the framework you learned earlier in this course.
 >
-> **[2:25](https://www.linkedin.com/learning/designing-data-governance/convincing-colleagues-to-join-your-data-governance-council?u=76281980&t=145)** Trust, transparency and ethics, values and outcomes, risk and security, accountability and decision rights, collaboration and culture, and education and training.
+> **[2:25](https://www.linkedin.com/learning/designing-data-governance/convincing-colleagues-to-join-your-data-governance-council?u=76281980&t=145)** Trust, transparency and [[Ethics]], values and outcomes, risk and security, [[Accountability]] and decision rights, collaboration and culture, and education and training.
 >
 > **[2:37](https://www.linkedin.com/learning/designing-data-governance/convincing-colleagues-to-join-your-data-governance-council?u=76281980&t=157)** Anyone in your organization who uses business data needs principles to inform how they'll use it and who owns it.
 >
@@ -720,13 +709,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (28), business (3), [[Big Data]] (1), ai (1), next (1)
+> **Frameworks & Libraries:** [[Data Governance]] (13), [[Big Data]] (1), [[Microsoft Office|Office]] (1), [[Ethics]] (1), [[Accountability]] (1)
 > **CLI Commands:** make (1)
 > **Versions:** 37.8 (1)
 > **Cross-References:** earlier in (1)
 
-#### Prioritizing actions for your data governance council
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-data-governance/prioritizing-actions-for-your-data-governance-council?u=76281980)
+#### [Prioritizing actions for your data governance council](https://www.linkedin.com/learning/designing-data-governance/prioritizing-actions-for-your-data-governance-council?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -746,11 +734,11 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/designing-data-governance/prioritizing-actions-for-your-data-governance-council?u=76281980&t=41)** I remember completing my journalism internships in high school and college, giddy at the thought of never needing to measure my work's worth in numbers.
 >
-> **[0:48](https://www.linkedin.com/learning/designing-data-governance/prioritizing-actions-for-your-data-governance-council?u=76281980&t=48)** Less than a decade later, my digital articles lived and died by Google Analytics.
+> **[0:48](https://www.linkedin.com/learning/designing-data-governance/prioritizing-actions-for-your-data-governance-council?u=76281980&t=48)** Less than a decade later, my digital articles lived and died by [[Google]] Analytics.
 >
 > **[0:53](https://www.linkedin.com/learning/designing-data-governance/prioritizing-actions-for-your-data-governance-council?u=76281980&t=53)** No matter your role, data plays a part, even if your work is more qualitative.
 >
-> **[0:58](https://www.linkedin.com/learning/designing-data-governance/prioritizing-actions-for-your-data-governance-council?u=76281980&t=58)** The traditional hierarchy involves data flowing down from the CIO's office with the IT security team controlling all departments access to it.
+> **[0:58](https://www.linkedin.com/learning/designing-data-governance/prioritizing-actions-for-your-data-governance-council?u=76281980&t=58)** The traditional hierarchy involves data flowing down from the CIO's [[Microsoft Office|office]] with the IT security team controlling all departments access to it.
 >
 > **[1:06](https://www.linkedin.com/learning/designing-data-governance/prioritizing-actions-for-your-data-governance-council?u=76281980&t=66)** This approach often fails because folks are less open to rules thrust upon them, especially if they had no say in creating them and can't see how they affect their own work.
 >
@@ -762,11 +750,11 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/designing-data-governance/prioritizing-actions-for-your-data-governance-council?u=76281980&t=100)** Each steward should have a clearly defined freedom to work with the council's chair on matters that impact their own data domains.
 >
-> **[1:47](https://www.linkedin.com/learning/designing-data-governance/prioritizing-actions-for-your-data-governance-council?u=76281980&t=107)** Autonomy to build data quality standards within their data domains.
+> **[1:47](https://www.linkedin.com/learning/designing-data-governance/prioritizing-actions-for-your-data-governance-council?u=76281980&t=107)** Autonomy to build [[Data Quality]] standards within their data domains.
 >
 > **[1:52](https://www.linkedin.com/learning/designing-data-governance/prioritizing-actions-for-your-data-governance-council?u=76281980&t=112)** Freedom to collaborate cross-functionally with colleagues who own different data domains.
 >
-> **[1:57](https://www.linkedin.com/learning/designing-data-governance/prioritizing-actions-for-your-data-governance-council?u=76281980&t=117)** Rewards for assuming a leadership role advancing data governance in the organization.
+> **[1:57](https://www.linkedin.com/learning/designing-data-governance/prioritizing-actions-for-your-data-governance-council?u=76281980&t=117)** Rewards for assuming a leadership role advancing [[Data Governance]] in the organization.
 >
 > **[2:02](https://www.linkedin.com/learning/designing-data-governance/prioritizing-actions-for-your-data-governance-council?u=76281980&t=122)** If you manage a budget, consider allocating some of it to bonuses that you can give each steward.
 >
@@ -784,7 +772,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), business (2), leadership (2), [[Google]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Data Governance]] (3), [[Google]] (1), [[Microsoft Office|Office]] (1), [[Data Quality]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** cio (1)
 > **Versions:** 48.5 (1)
@@ -796,14 +784,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining data domains
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-data-governance/defining-data-domains?u=76281980)
+#### [Defining data domains](https://www.linkedin.com/learning/designing-data-governance/defining-data-domains?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/designing-data-governance/defining-data-domains?u=76281980&t=0)** Once your data council and stewards are in place, you'll start working on one of your key projects, defining data domains for your organization.
 >
-> **[0:08](https://www.linkedin.com/learning/designing-data-governance/defining-data-domains?u=76281980&t=8)** A key part of data governance involves correctly categorizing data within all organizational systems and keeping it consistent across systems.
+> **[0:08](https://www.linkedin.com/learning/designing-data-governance/defining-data-domains?u=76281980&t=8)** A key part of [[Data Governance]] involves correctly categorizing data within all organizational systems and keeping it consistent across systems.
 >
 > **[0:17](https://www.linkedin.com/learning/designing-data-governance/defining-data-domains?u=76281980&t=17)** So having all stewards align on data domains is the most crucial project you can start working on.
 >
@@ -811,7 +798,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/designing-data-governance/defining-data-domains?u=76281980&t=28)** It helps to think of every department in your organization as its own data domain, each with its own subdomains.
 >
-> **[0:34](https://www.linkedin.com/learning/designing-data-governance/defining-data-domains?u=76281980&t=34)** For example, human resources is one data domain. Within that domain, HR data has several subdomains like recruiting, onboarding, time tracking, and benefits.
+> **[0:34](https://www.linkedin.com/learning/designing-data-governance/defining-data-domains?u=76281980&t=34)** For example, [[Human Resources (HR)|human resources]] is one data domain. Within that domain, HR data has several subdomains like recruiting, onboarding, time tracking, and benefits.
 >
 > **[0:45](https://www.linkedin.com/learning/designing-data-governance/defining-data-domains?u=76281980&t=45)** The exact number of data domains depends on your industry.
 >
@@ -819,9 +806,9 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/designing-data-governance/defining-data-domains?u=76281980&t=54)** Data domains define the model schema and other attributes for each respective business area.
 >
-> **[0:59](https://www.linkedin.com/learning/designing-data-governance/defining-data-domains?u=76281980&t=59)** For example, you might choose to have data domains for customers, employees, and products.
+> **[0:59](https://www.linkedin.com/learning/designing-data-governance/defining-data-domains?u=76281980&t=59)** For example, you might choose to have data domains for customers, employees, and [[Microsoft Products|products]].
 >
-> **[1:05](https://www.linkedin.com/learning/designing-data-governance/defining-data-domains?u=76281980&t=65)** The stewards who oversee each domain will define the attributes, format, and metadata, which confirms how domains should expect to store the data.
+> **[1:05](https://www.linkedin.com/learning/designing-data-governance/defining-data-domains?u=76281980&t=65)** The stewards who oversee each domain will define the attributes, format, and [[Metadata]], which confirms how domains should expect to store the data.
 >
 > **[1:13](https://www.linkedin.com/learning/designing-data-governance/defining-data-domains?u=76281980&t=73)** Your systems need to know how to store and categorize data across the business, so you must make binary standards that data can fit into.
 >
@@ -859,14 +846,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (41), business (4), [[Human Resources (HR)|Human resources]] (1), hr (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Data Governance]] (4), [[Human Resources (HR)|Human resources]] (1), [[Microsoft Products|Products]] (1), [[Metadata]] (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1)
 > **UI Navigation:** dropdown (1)
 > **Definitions:** is a  (1)
 
-#### Data dictionaries
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-data-governance/data-dictionaries?u=76281980)
+#### [Data dictionaries](https://www.linkedin.com/learning/designing-data-governance/data-dictionaries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -876,7 +862,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/designing-data-governance/data-dictionaries?u=76281980&t=20)** This dictionary is a comprehensive space to define rules, regulations, and definitions for your organization's data.
 >
-> **[0:27](https://www.linkedin.com/learning/designing-data-governance/data-dictionaries?u=76281980&t=27)** Data dictionaries play a key role in your data governance efforts.
+> **[0:27](https://www.linkedin.com/learning/designing-data-governance/data-dictionaries?u=76281980&t=27)** Data dictionaries play a key role in your [[Data Governance]] efforts.
 >
 > **[0:30](https://www.linkedin.com/learning/designing-data-governance/data-dictionaries?u=76281980&t=30)** They reinforce data domains, subdomains, and help teams avoid inconsistencies with data.
 >
@@ -892,7 +878,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/designing-data-governance/data-dictionaries?u=76281980&t=61)** Subject matter experts write glossaries with business users in mind, so readers shouldn't need high levels of technical acumen.
 >
-> **[1:08](https://www.linkedin.com/learning/designing-data-governance/data-dictionaries?u=76281980&t=68)** Business glossaries can document metadata associated with terms in the dictionary.
+> **[1:08](https://www.linkedin.com/learning/designing-data-governance/data-dictionaries?u=76281980&t=68)** Business glossaries can document [[Metadata]] associated with terms in the dictionary.
 >
 > **[1:12](https://www.linkedin.com/learning/designing-data-governance/data-dictionaries?u=76281980&t=72)** That said, data dictionaries have some key distinctions.
 >
@@ -912,18 +898,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (27), business (3), teams (2), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Data Governance]] (2), [[Metadata]] (1)
 > **Env Vars:** ceo (1)
 > **Definitions:** is a  (1)
 
-#### Writing data dictionaries
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-data-governance/writing-data-dictionaries?u=76281980)
+#### [Writing data dictionaries](https://www.linkedin.com/learning/designing-data-governance/writing-data-dictionaries?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/designing-data-governance/writing-data-dictionaries?u=76281980&t=0)** If you're not sure where to start with your data dictionary, look at a database your organization uses.
 >
-> **[0:06](https://www.linkedin.com/learning/designing-data-governance/writing-data-dictionaries?u=76281980&t=6)** Data dictionaries act like catalogs that show how data inside databases relates to each other.
+> **[0:06](https://www.linkedin.com/learning/designing-data-governance/writing-data-dictionaries?u=76281980&t=6)** Data dictionaries act like catalogs that show how data inside [[Databases]] relates to each other.
 >
 > **[0:11](https://www.linkedin.com/learning/designing-data-governance/writing-data-dictionaries?u=76281980&t=11)** These dictionaries grow in importance as you build your analytics stack.
 >
@@ -939,7 +924,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/designing-data-governance/writing-data-dictionaries?u=76281980&t=53)** If so, use that space to document your own work rather than storing your data dictionary in a separate tool.
 >
-> **[1:00](https://www.linkedin.com/learning/designing-data-governance/writing-data-dictionaries?u=76281980&t=60)** Your data governance council's work will flow most smoothly if you keep your work stored in as few places as possible.
+> **[1:00](https://www.linkedin.com/learning/designing-data-governance/writing-data-dictionaries?u=76281980&t=60)** Your [[Data Governance]] council's work will flow most smoothly if you keep your work stored in as few places as possible.
 >
 > **[1:07](https://www.linkedin.com/learning/designing-data-governance/writing-data-dictionaries?u=76281980&t=67)** Data projects have a lot of moving parts, and your data stewards have a lot in their plates.
 >
@@ -955,18 +940,17 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/designing-data-governance/writing-data-dictionaries?u=76281980&t=106)** Lacking this information up front will cause delays once the project begins.
 >
-> **[1:51](https://www.linkedin.com/learning/designing-data-governance/writing-data-dictionaries?u=76281980&t=111)** Worse, it can cause consistent data quality risks.
+> **[1:51](https://www.linkedin.com/learning/designing-data-governance/writing-data-dictionaries?u=76281980&t=111)** Worse, it can cause consistent [[Data Quality]] risks.
 >
 > **[1:53](https://www.linkedin.com/learning/designing-data-governance/writing-data-dictionaries?u=76281980&t=113)** So documenting your data up-front will save you and your colleagues major headaches in the long run.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), database (4), [[Databases]] (2), [[Analytics]] (1), business (1)
+> **Frameworks & Libraries:** [[Databases]] (2), [[Data Governance]] (2), [[Data Quality]] (1)
 > **CLI Commands:** find (1)
 > **Prerequisites:** you'll need (1)
 
-#### Prioritizing projects for your data governance council
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-data-governance/prioritizing-projects-for-your-data-governance-council?u=76281980)
+#### [Prioritizing projects for your data governance council](https://www.linkedin.com/learning/designing-data-governance/prioritizing-projects-for-your-data-governance-council?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -974,7 +958,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/designing-data-governance/prioritizing-projects-for-your-data-governance-council?u=76281980&t=10)** You also can't change everything at once.
 >
-> **[0:12](https://www.linkedin.com/learning/designing-data-governance/prioritizing-projects-for-your-data-governance-council?u=76281980&t=12)** If your data governance council wants to succeed, you'll need to choose a project that the business cares about.
+> **[0:12](https://www.linkedin.com/learning/designing-data-governance/prioritizing-projects-for-your-data-governance-council?u=76281980&t=12)** If your [[Data Governance]] council wants to succeed, you'll need to choose a project that the business cares about.
 >
 > **[0:18](https://www.linkedin.com/learning/designing-data-governance/prioritizing-projects-for-your-data-governance-council?u=76281980&t=18)** To keep your data governance council focused on the right tasks, choose one specific process that you're trying to improve, and add every single step it takes to currently complete that process no matter how small. Your goal is to show all the work needed to complete one specific process. Your end result will be the blueprint for the step that you'll take next.
 >
@@ -988,13 +972,13 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/designing-data-governance/prioritizing-projects-for-your-data-governance-council?u=76281980&t=63)** And without the psychological safety established earlier, your stewards won't feel comfortable telling the truth.
 >
-> **[1:09](https://www.linkedin.com/learning/designing-data-governance/prioritizing-projects-for-your-data-governance-council?u=76281980&t=69)** As you make this map, it might help to start by listing operations, data architecture, and data engineering as key departments in Lanes 1, 2, and 3.
+> **[1:09](https://www.linkedin.com/learning/designing-data-governance/prioritizing-projects-for-your-data-governance-council?u=76281980&t=69)** As you make this map, it might help to start by listing operations, [[Data Architecture]], and [[Data Engineering]] as key departments in Lanes 1, 2, and 3.
 >
 > **[1:17](https://www.linkedin.com/learning/designing-data-governance/prioritizing-projects-for-your-data-governance-council?u=76281980&t=77)** From there, you can get more granular about which parts of the process each department owns.
 >
 > **[1:22](https://www.linkedin.com/learning/designing-data-governance/prioritizing-projects-for-your-data-governance-council?u=76281980&t=82)** This is an awesome opportunity to find possible roadblocks and start solutioning for your future state.
 >
-> **[1:28](https://www.linkedin.com/learning/designing-data-governance/prioritizing-projects-for-your-data-governance-council?u=76281980&t=88)** As your data stewardship team builds the current state process map, keep some crucial ground rules in mind.
+> **[1:28](https://www.linkedin.com/learning/designing-data-governance/prioritizing-projects-for-your-data-governance-council?u=76281980&t=88)** As your [[Data Stewardship]] team builds the current state process map, keep some crucial ground rules in mind.
 >
 > **[1:33](https://www.linkedin.com/learning/designing-data-governance/prioritizing-projects-for-your-data-governance-council?u=76281980&t=93)** You'll note that all the work we've done thus far, from crafting your data's mission statement to building a process map, is cultural.
 >
@@ -1032,7 +1016,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), business (4), next (1), [[Data Architecture]] (1), [[Data Engineering]] (1)
+> **Frameworks & Libraries:** [[Data Governance]] (3), [[Data Architecture]] (1), [[Data Engineering]] (1), [[Data Stewardship]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Prerequisites:** you'll need (2)
@@ -1043,14 +1027,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps and additional resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-data-governance/next-steps-and-additional-resources?u=76281980)
+#### [Next steps and additional resources](https://www.linkedin.com/learning/designing-data-governance/next-steps-and-additional-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/designing-data-governance/next-steps-and-additional-resources?u=76281980&t=0)** Thanks for taking this course with me.
 >
-> **[0:02](https://www.linkedin.com/learning/designing-data-governance/next-steps-and-additional-resources?u=76281980&t=2)** You've reached the end and you have the data governance plan to prove it.
+> **[0:02](https://www.linkedin.com/learning/designing-data-governance/next-steps-and-additional-resources?u=76281980&t=2)** You've reached the end and you have the [[Data Governance]] plan to prove it.
 >
 > **[0:05](https://www.linkedin.com/learning/designing-data-governance/next-steps-and-additional-resources?u=76281980&t=5)** You've designed the blueprint for a data-driven culture that helps colleagues across all teams use the right data for the right use cases to help everyone level up.
 >
@@ -1060,7 +1043,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/designing-data-governance/next-steps-and-additional-resources?u=76281980&t=23)** If you'd like to share your experience designing data governance, please reach out.
 >
-> **[0:27](https://www.linkedin.com/learning/designing-data-governance/next-steps-and-additional-resources?u=76281980&t=27)** I'd love to connect with you on LinkedIn.
+> **[0:27](https://www.linkedin.com/learning/designing-data-governance/next-steps-and-additional-resources?u=76281980&t=27)** I'd love to connect with you on [[LinkedIn]].
 >
 > **[0:30](https://www.linkedin.com/learning/designing-data-governance/next-steps-and-additional-resources?u=76281980&t=30)** If you're ready for the next steps on your data governance journey, I hope you'll consider buying my book, Designing Data Governance from the Ground Up.
 >
@@ -1078,7 +1061,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), teams (1), [[LinkedIn]] (1), next (1), feature (1)
+> **Frameworks & Libraries:** [[Data Governance]] (6), [[LinkedIn]] (1)
 > **Env Vars:** cdo (1)
 > **Cross-References:** we discussed (1)
 

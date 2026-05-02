@@ -81,8 +81,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Need to troubleshoot your network?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/need-to-troubleshoot-your-network?u=76281980)
+#### [Need to troubleshoot your network?](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/need-to-troubleshoot-your-network?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -92,21 +91,21 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/need-to-troubleshoot-your-network?u=76281980&t=15)** Troubleshooting your network is more than just figuring out issues with TCP/IP.
 >
-> **[0:19](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/need-to-troubleshoot-your-network?u=76281980&t=19)** In my course, Learning Network Troubleshooting, you'll learn how to troubleshoot and fix wired and wifi network issues, VPN problems for road warriors, and triaging the most important issues when hit with a storm of networking problems.
+> **[0:19](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/need-to-troubleshoot-your-network?u=76281980&t=19)** In my course, Learning [[Network Troubleshooting]], you'll learn how to troubleshoot and fix wired and wifi network issues, VPN problems for road warriors, and triaging the most important issues when hit with a storm of networking problems.
 >
-> **[0:33](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/need-to-troubleshoot-your-network?u=76281980&t=33)** You'll also learn how to use command line, PowerShell, and Linux troubleshooting tools.
+> **[0:33](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/need-to-troubleshoot-your-network?u=76281980&t=33)** You'll also learn how to use command line, [[Powershell]], and [[Linux]] troubleshooting tools.
 >
 > **[0:38](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/need-to-troubleshoot-your-network?u=76281980&t=38)** You'll even learn about all the different components that make up a modern network.
 >
 > **[0:42](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/need-to-troubleshoot-your-network?u=76281980&t=42)** My name is Robert McMillen.
 >
-> **[0:44](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/need-to-troubleshoot-your-network?u=76281980&t=44)** I'm a Microsoft Certified Trainer, and Solutions Expert.
+> **[0:44](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/need-to-troubleshoot-your-network?u=76281980&t=44)** I'm a [[Microsoft]] Certified Trainer, and Solutions Expert.
 >
 > **[0:47](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/need-to-troubleshoot-your-network?u=76281980&t=47)** I invite you to join me to learn all of these new network troubleshooting skills in my course, Learning Network Troubleshooting.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Network Troubleshooting]] (3), [[Troubleshooting]] (2), cloud (1), vpn (1), hit (1)
+> **Frameworks & Libraries:** [[Network Troubleshooting]] (3), [[Powershell]] (1), [[Linux]] (1), [[Microsoft]] (1)
 > **Env Vars:** tcp (1), vpn (1)
 > **Tools:** command line (1), powershell (1)
 > **CLI Commands:** make (1)
@@ -119,8 +118,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to determine the severity of network problems
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/how-to-determine-the-severity-of-network-problems?u=76281980)
+#### [How to determine the severity of network problems](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/how-to-determine-the-severity-of-network-problems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -184,7 +182,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/how-to-determine-the-severity-of-network-problems?u=76281980&t=171)** Each user needs to have at least a single IP address, but now the average user requires up to five or even 10 addresses when you add in VoIP phones, tablets, cell phones, computers, and more.
 >
-> **[3:04](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/how-to-determine-the-severity-of-network-problems?u=76281980&t=184)** And internet of things will further add to this issue as more devices come online.
+> **[3:04](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/how-to-determine-the-severity-of-network-problems?u=76281980&t=184)** And [[IoT|internet of things]] will further add to this issue as more devices come online.
 >
 > **[3:09](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/how-to-determine-the-severity-of-network-problems?u=76281980&t=189)** Remote access can be a real hassle, VPNs can be blocked based on their usable protocols at restaurants and hotels among other locations.
 >
@@ -196,15 +194,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), hr (1), dns (1), [[Internet of Things (IoT)|Internet of things]] (1)
+> **Frameworks & Libraries:** [[IoT|Internet of things]] (1)
 > **CLI Commands:** find (4)
 > **Env Vars:** dns (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Fixing corporate resource issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/fixing-corporate-resource-issues?u=76281980)
+#### [Fixing corporate resource issues](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/fixing-corporate-resource-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -218,9 +215,9 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/fixing-corporate-resource-issues?u=76281980&t=24)** When it comes to email, one of the things we need to ask ourselves, is email local or in the cloud?
 >
-> **[0:30](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/fixing-corporate-resource-issues?u=76281980&t=30)** If email's local, then you shouldn't have any issues accessing it from say Microsoft Outlook or Outlook on the web.
+> **[0:30](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/fixing-corporate-resource-issues?u=76281980&t=30)** If email's local, then you shouldn't have any issues accessing it from say [[Microsoft Outlook]] or [[Microsoft Outlook|Outlook]] on the web.
 >
-> **[0:37](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/fixing-corporate-resource-issues?u=76281980&t=37)** However, if it's in the cloud, we'll need to make sure that we edit DNS to point from our local infrastructure to Microsoft cloud.
+> **[0:37](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/fixing-corporate-resource-issues?u=76281980&t=37)** However, if it's in the cloud, we'll need to make sure that we edit DNS to point from our local infrastructure to [[Microsoft]] cloud.
 >
 > **[0:45](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/fixing-corporate-resource-issues?u=76281980&t=45)** How are we connected?
 >
@@ -240,7 +237,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/fixing-corporate-resource-issues?u=76281980&t=88)** And could internal site issues be caused by DNS?
 >
-> **[1:31](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/fixing-corporate-resource-issues?u=76281980&t=91)** For example, if your public domain is also the name of your active directory domain then when users try to connect to email, they may try to connect internally rather than to the cloud if that's where your email's being hosted.
+> **[1:31](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/fixing-corporate-resource-issues?u=76281980&t=91)** For example, if your public domain is also the name of your [[Active Directory]] domain then when users try to connect to email, they may try to connect internally rather than to the cloud if that's where your email's being hosted.
 >
 > **[1:45](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/fixing-corporate-resource-issues?u=76281980&t=105)** So we need to make some changes in order to allow DNS to point the right direction for email.
 >
@@ -250,7 +247,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/fixing-corporate-resource-issues?u=76281980&t=117)** Where does the connection stop?
 >
-> **[2:00](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/fixing-corporate-resource-issues?u=76281980&t=120)** If we're having routing issues, then it's a good idea to find out where the beginning and where the ending is for our users.
+> **[2:00](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/fixing-corporate-resource-issues?u=76281980&t=120)** If we're having [[Routing]] issues, then it's a good idea to find out where the beginning and where the ending is for our users.
 >
 > **[2:07](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/fixing-corporate-resource-issues?u=76281980&t=127)** Could the issues be caused by DNS, but not internal, could it be caused by public DNS?
 >
@@ -262,7 +259,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/fixing-corporate-resource-issues?u=76281980&t=154)** It could be a computer firewall issue.
 >
-> **[2:36](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/fixing-corporate-resource-issues?u=76281980&t=156)** Not only do we have the Windows firewall to be concerned about, but we also may see a firewall built in by an anti-malware program.
+> **[2:36](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/fixing-corporate-resource-issues?u=76281980&t=156)** Not only do we have the [[Windows]] firewall to be concerned about, but we also may see a firewall built in by an anti-malware program.
 >
 > **[2:44](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/fixing-corporate-resource-issues?u=76281980&t=164)** And it could be an individual device outage that you just can't get to because it's remote to your location.
 >
@@ -276,7 +273,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/fixing-corporate-resource-issues?u=76281980&t=198)** Is that VPN down?
 >
-> **[3:21](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/fixing-corporate-resource-issues?u=76281980&t=201)** Many times when we have access to Azure or AWS from our local LAN, we need to set up a special VPN tunnel from our office to those cloud resources.
+> **[3:21](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/fixing-corporate-resource-issues?u=76281980&t=201)** Many times when we have access to [[Microsoft Azure|Azure]] or AWS from our local LAN, we need to set up a special VPN tunnel from our [[Microsoft Office|office]] to those cloud resources.
 >
 > **[3:32](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/fixing-corporate-resource-issues?u=76281980&t=212)** And we need to find out if the VPN tunnel is down that may be causing our issues.
 >
@@ -306,7 +303,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (11), dns (6), vpn (4), [[Microsoft Outlook|Outlook]] (3), web (3)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (3), [[Microsoft Outlook]] (2), [[Microsoft]] (1), [[Active Directory]] (1), [[Routing]] (1)
 > **Env Vars:** dns (6), vpn (4), isp (3), lan (2), mapi (2)
 > **CLI Commands:** make (4), find (2), aws (1)
 > **Prerequisites:** set up (4), setup (1), you'll need (1)
@@ -314,18 +311,17 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Breaking down basic TCP/IP issues and causes
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/breaking-down-basic-tcp-ip-issues-and-causes?u=76281980)
+#### [Breaking down basic TCP/IP issues and causes](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/breaking-down-basic-tcp-ip-issues-and-causes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/breaking-down-basic-tcp-ip-issues-and-causes?u=76281980&t=0)** - [Narrator] IP structure is another key area of network troubleshooting.
+> **[0:00](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/breaking-down-basic-tcp-ip-issues-and-causes?u=76281980&t=0)** - [Narrator] IP structure is another key area of [[Network Troubleshooting]].
 >
 > **[0:04](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/breaking-down-basic-tcp-ip-issues-and-causes?u=76281980&t=4)** First, we need to determine if you're using IPv4 or IPv6 addressing schemes.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/breaking-down-basic-tcp-ip-issues-and-causes?u=76281980&t=10)** By default you'll use both even if you didn't set it up that way.
 >
-> **[0:13](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/breaking-down-basic-tcp-ip-issues-and-causes?u=76281980&t=13)** And that's because Microsoft and other operating systems create a v4 and a v6 address by default.
+> **[0:13](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/breaking-down-basic-tcp-ip-issues-and-causes?u=76281980&t=13)** And that's because [[Microsoft]] and other operating systems create a v4 and a v6 address by default.
 >
 > **[0:19](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/breaking-down-basic-tcp-ip-issues-and-causes?u=76281980&t=19)** Most organizations use v4 on the inside.
 >
@@ -333,7 +329,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/breaking-down-basic-tcp-ip-issues-and-causes?u=76281980&t=27)** For now we only care about the inside and I'll assume you're using v4.
 >
-> **[0:31](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/breaking-down-basic-tcp-ip-issues-and-causes?u=76281980&t=31)** Without getting into too much of a tutorial on IP addressing, I'll just mention that the most common IP issues are due to incorrect sub-netting.
+> **[0:31](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/breaking-down-basic-tcp-ip-issues-and-causes?u=76281980&t=31)** Without getting into too much of a tutorial on [[IP Addressing]], I'll just mention that the most common IP issues are due to incorrect sub-netting.
 >
 > **[0:39](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/breaking-down-basic-tcp-ip-issues-and-causes?u=76281980&t=39)** Here's an IP address that is common in many homes and businesses.
 >
@@ -355,7 +351,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/breaking-down-basic-tcp-ip-issues-and-causes?u=76281980&t=88)** Therefore, this common problem can be fixed by making sure that all network devices which we call hosts use the same subnet mask and the same network address.
 >
-> **[1:38](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/breaking-down-basic-tcp-ip-issues-and-causes?u=76281980&t=98)** Another common problem has to do with the rest of the IP configuration.
+> **[1:38](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/breaking-down-basic-tcp-ip-issues-and-causes?u=76281980&t=98)** Another common problem has to do with the [[Representational State Transfer (REST)|rest]] of the IP configuration.
 >
 > **[1:43](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/breaking-down-basic-tcp-ip-issues-and-causes?u=76281980&t=103)** We need to make sure that the user is accessing a valid DNS server and has a way out of this network and into the next.
 >
@@ -381,7 +377,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/breaking-down-basic-tcp-ip-issues-and-causes?u=76281980&t=161)** Sometimes we need multiple different IP addresses for various different reasons.
 >
-> **[2:44](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/breaking-down-basic-tcp-ip-issues-and-causes?u=76281980&t=164)** One could be I'm routing to a different subnet.
+> **[2:44](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/breaking-down-basic-tcp-ip-issues-and-causes?u=76281980&t=164)** One could be I'm [[Routing]] to a different subnet.
 >
 > **[2:46](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/breaking-down-basic-tcp-ip-issues-and-causes?u=76281980&t=166)** Another could be that I'm also hosting VPN which requires a separate IP address.
 >
@@ -395,7 +391,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/breaking-down-basic-tcp-ip-issues-and-causes?u=76281980&t=191)** And what that does is it keeps things from resolving names to IP addresses, which makes things just take longer.
 >
-> **[3:17](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/breaking-down-basic-tcp-ip-issues-and-causes?u=76281980&t=197)** So I'm going to put in an IP address here for Google DNS.
+> **[3:17](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/breaking-down-basic-tcp-ip-issues-and-causes?u=76281980&t=197)** So I'm going to put in an IP address here for [[Google]] DNS.
 >
 > **[3:22](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/breaking-down-basic-tcp-ip-issues-and-causes?u=76281980&t=202)** Let's watch the route that it takes to get there.
 >
@@ -437,7 +433,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (5), lan (3), [[Routing]] (3), [[IP Addressing]] (2), next (2)
+> **Frameworks & Libraries:** [[Routing]] (3), [[IP Addressing]] (2), [[Network Troubleshooting]] (1), [[Microsoft]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** dns (5), lan (3), vpn (1), vlan (1)
 > **Versions:** 192.168.21 (2), 192.168.1 (1), 255.255.00 (1), 21.1 (1)
 > **CLI Commands:** make (3), find (1)
@@ -450,8 +446,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Common home networking issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-networking-issues?u=76281980)
+#### [Common home networking issues](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-networking-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -491,7 +486,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-networking-issues?u=76281980&t=96)** You'll need to make sure you click select users and add in the users that you want.
 >
-> **[1:41](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-networking-issues?u=76281980&t=101)** Typically you'll add in the remote desktop users group, and then you'll just want to make sure that all the users that need to have access are in that group in active directory.
+> **[1:41](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-networking-issues?u=76281980&t=101)** Typically you'll add in the remote desktop users group, and then you'll just want to make sure that all the users that need to have access are in that group in [[Active Directory]].
 >
 > **[1:53](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-networking-issues?u=76281980&t=113)** You can also create your own custom group.
 >
@@ -511,21 +506,21 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-networking-issues?u=76281980&t=173)** Another thing you want to check is that the firewall is allowing that traffic.
 >
-> **[2:58](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-networking-issues?u=76281980&t=178)** So if go we back into all control panel items and then go into the windows defender firewall, you want to make sure that port 3389 is open.
+> **[2:58](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-networking-issues?u=76281980&t=178)** So if go we back into all control panel items and then go into the [[Windows]] [[Microsoft Defender|defender]] firewall, you want to make sure that port 3389 is open.
 >
 > **[3:10](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-networking-issues?u=76281980&t=190)** I'll click on advanced settings, and then inbound rules, and then I'll scroll down to the remote desktop area and just make sure that all of these rules are enabled.
 >
 > **[3:26](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-networking-issues?u=76281980&t=206)** If they're not enabled you'll see that there is no green check mark next to them.
 >
-> **[3:33](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-networking-issues?u=76281980&t=213)** And this not only works for servers but it also works with Windows 10 professional or enterprise workstation operating systems as well.
+> **[3:33](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-networking-issues?u=76281980&t=213)** And this not only works for servers but it also works with [[Windows 10]] professional or enterprise workstation operating systems as well.
 >
 > **[3:41](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-networking-issues?u=76281980&t=221)** However in a server you can have many different people all access the server at the same time.
 >
 > **[3:46](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-networking-issues?u=76281980&t=226)** But on a Windows 10 computer you can only have one access at a time.
 >
-> **[3:50](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-networking-issues?u=76281980&t=230)** Another thing we want to check would be the routing and remote access.
+> **[3:50](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-networking-issues?u=76281980&t=230)** Another thing we want to check would be the [[Routing]] and remote access.
 >
-> **[3:54](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-networking-issues?u=76281980&t=234)** If you're using the Windows server as the VPN host.
+> **[3:54](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-networking-issues?u=76281980&t=234)** If you're using the [[Windows Server]] as the VPN host.
 >
 > **[3:59](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-networking-issues?u=76281980&t=239)** You want to make sure that the green arrow is on and then you go into properties, make sure everything is set up the way it's supposed to be based on the type of VPN you're using.
 >
@@ -563,9 +558,9 @@ created: 2026-05-02
 >
 > **[5:39](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-networking-issues?u=76281980&t=339)** So I'm actually doubly remoted in.
 >
-> **[5:42](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-networking-issues?u=76281980&t=342)** If you're having printing issues trying to print through remote desktop or from the office, then you may want to take a look at the printer drivers on your Windows 10 computer if you're using Windows.
+> **[5:42](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-networking-issues?u=76281980&t=342)** If you're having printing issues trying to print through remote desktop or from the [[Microsoft Office|office]], then you may want to take a look at the printer drivers on your Windows 10 computer if you're using Windows.
 >
-> **[5:54](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-networking-issues?u=76281980&t=354)** And also if you're using Macintosh or Linux look for drivers there as well.
+> **[5:54](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-networking-issues?u=76281980&t=354)** And also if you're using Macintosh or [[Linux]] look for drivers there as well.
 >
 > **[5:58](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-networking-issues?u=76281980&t=358)** You can see my default printer drivers for the OfficeJet 3830.
 >
@@ -627,7 +622,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** vpn (8), dns (4), [[Active Directory]] (3), [[Windows]] (3), [[Windows 10]] (3)
+> **Frameworks & Libraries:** [[Active Directory]] (3), [[Windows]] (3), [[Windows 10]] (3), [[Microsoft Defender|Defender]] (1), [[Routing]] (1)
 > **Env Vars:** vpn (8), dns (4), rdp (2), sstp (2), ssl (1)
 > **CLI Commands:** make (19)
 > **UI Navigation:** click on (5), go to (3), scroll down (1)
@@ -636,12 +631,11 @@ created: 2026-05-02
 > **Analogies:** such as (1), for instance (1)
 > **Prerequisites:** you'll need (1), set up (1)
 
-#### Common home wireless issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-wireless-issues?u=76281980)
+#### [Common home wireless issues](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-wireless-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-wireless-issues?u=76281980&t=0)** - Wifi connections are becoming the dominant type of connection between the PC and the corporate network as well as the internet in both the home and the office.
+> **[0:00](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-wireless-issues?u=76281980&t=0)** - Wifi connections are becoming the dominant type of connection between the PC and the corporate network as well as the internet in both the home and the [[Microsoft Office|office]].
 >
 > **[0:10](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-wireless-issues?u=76281980&t=10)** So, it's likely that system administrators going forward will be troubleshooting wireless issues just as much if not more than wired ones.
 >
@@ -713,7 +707,7 @@ created: 2026-05-02
 >
 > **[4:31](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-wireless-issues?u=76281980&t=271)** Now that requires a lot more setup and more knowledge but by setting this up you're going to end up using separate usernames and passwords for each user that connects.
 >
-> **[4:41](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-wireless-issues?u=76281980&t=281)** And you can even connect that to active directory, so that way they use the same username and password they use to log into their windows computer.
+> **[4:41](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-wireless-issues?u=76281980&t=281)** And you can even connect that to [[Active Directory]], so that way they use the same username and password they use to log into their [[Windows]] computer.
 >
 > **[4:50](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-wireless-issues?u=76281980&t=290)** We're going to close the 5GHz settings and take a look at Guest.
 >
@@ -725,7 +719,7 @@ created: 2026-05-02
 >
 > **[5:18](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-wireless-issues?u=76281980&t=318)** You can see that this model also has a different sub-net as well as a DHCP server.
 >
-> **[5:24](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-wireless-issues?u=76281980&t=324)** And this DHCP server operates independently from the DHCP server you might have on your windows server or a router or a switch.
+> **[5:24](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-wireless-issues?u=76281980&t=324)** And this DHCP server operates independently from the DHCP server you might have on your [[Windows Server]] or a router or a switch.
 >
 > **[5:32](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-wireless-issues?u=76281980&t=332)** This will assign IP addresses to guest users and it will allow them to get out to the internet and nothing else.
 >
@@ -741,7 +735,7 @@ created: 2026-05-02
 >
 > **[6:27](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-wireless-issues?u=76281980&t=387)** So, you have lots more options where you don't have to worry about having an issue where one is stepping on the other because of overlapping.
 >
-> **[6:35](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-wireless-issues?u=76281980&t=395)** In many wireless access points, you're also going to see a tools menu, and these are the same types of tools that you would see in a windows computer, or Linux computer, you see Ping, Traceroute, NSlookup, Speed Test, Device Discovery, all these different things can help determine if you're having an issue from the access point itself.
+> **[6:35](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-wireless-issues?u=76281980&t=395)** In many wireless access points, you're also going to see a tools menu, and these are the same types of tools that you would see in a windows computer, or [[Linux]] computer, you see Ping, Traceroute, NSlookup, Speed Test, Device Discovery, all these different things can help determine if you're having an issue from the access point itself.
 >
 > **[6:55](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-wireless-issues?u=76281980&t=415)** It doesn't help if a computer can connect to the access point, but the access point can not connect to anything else.
 >
@@ -753,7 +747,7 @@ created: 2026-05-02
 >
 > **[7:19](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-wireless-issues?u=76281980&t=439)** So we know that that's working properly.
 >
-> **[7:21](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-wireless-issues?u=76281980&t=441)** We can also traceroute out to the internet And we'll use Google's DNS server and we can see that that's successful as well.
+> **[7:21](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-wireless-issues?u=76281980&t=441)** We can also traceroute out to the internet And we'll use [[Google]]'s DNS server and we can see that that's successful as well.
 >
 > **[7:32](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-wireless-issues?u=76281980&t=452)** Wireless problems can be difficult to overcome, however, if you can connect to a wired connection in your home or office ISP switch then you can avoid all these issues as far as wireless goes.
 >
@@ -763,7 +757,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (5), [[Security]] (4), [[Microsoft Office|Office]] (2), [[Troubleshooting]] (2), [[Windows]] (2)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Windows]] (2), [[Active Directory]] (1), [[Windows Server]] (1), [[Linux]] (1)
 > **Env Vars:** dns (5), dhcp (4), wpa2 (2), tkip (2), ssid (1)
 > **CLI Commands:** make (4), find (1)
 > **Versions:** 2.4 (4)
@@ -772,14 +766,13 @@ created: 2026-05-02
 > **UI Navigation:** dropdown (1), scroll down (1)
 > **Definitions:** known as (1)
 
-#### Internet provider problems
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/internet-provider-problems?u=76281980)
+#### [Internet provider problems](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/internet-provider-problems?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/internet-provider-problems?u=76281980&t=0)** - [Instructor] Sometimes we're having problems getting out to the internet, and it could be multiple different reasons as to why that's happening.
 >
-> **[0:06](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/internet-provider-problems?u=76281980&t=6)** It could be a problem with your server, it could be a problem with your Windows workstation, such as Windows 11.
+> **[0:06](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/internet-provider-problems?u=76281980&t=6)** It could be a problem with your server, it could be a problem with your [[Windows]] workstation, such as Windows 11.
 >
 > **[0:12](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/internet-provider-problems?u=76281980&t=12)** I'm in a Windows 2025 server, and what I'm going to do is I'm going to go to the Start button, and from here I'm going to go to settings.
 >
@@ -833,7 +826,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/internet-provider-problems?u=76281980&t=153)** I'm going to go to the search box at the bottom and type in CMD for command.
 >
-> **[2:40](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/internet-provider-problems?u=76281980&t=160)** You could also open up PowerShell, as that also has the command aliases built into it.
+> **[2:40](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/internet-provider-problems?u=76281980&t=160)** You could also open up [[Powershell]], as that also has the command aliases built into it.
 >
 > **[2:45](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/internet-provider-problems?u=76281980&t=165)** So either one should work.
 >
@@ -859,7 +852,7 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/internet-provider-problems?u=76281980&t=222)** I'll go ahead and clear the screen once again.
 >
-> **[3:45](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/internet-provider-problems?u=76281980&t=225)** And now we're going to trace route, which in Windows terms is going to be tracert, and we're going to trace all the way out to Google's DNS server.
+> **[3:45](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/internet-provider-problems?u=76281980&t=225)** And now we're going to trace route, which in Windows terms is going to be tracert, and we're going to trace all the way out to [[Google]]'s DNS server.
 >
 > **[3:56](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/internet-provider-problems?u=76281980&t=236)** Now, if you don't want it to resolve all the different names along the way, which I like to not have happen, then you can just type in the -d command.
 >
@@ -871,7 +864,7 @@ created: 2026-05-02
 >
 > **[4:18](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/internet-provider-problems?u=76281980&t=258)** That's okay.
 >
-> **[4:19](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/internet-provider-problems?u=76281980&t=259)** Sometimes either you're going to see a timeout or it's just going to refuse to send a ping back, but in most cases, you're going to see that it will get to its destination if there's no routing issues.
+> **[4:19](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/internet-provider-problems?u=76281980&t=259)** Sometimes either you're going to see a timeout or it's just going to refuse to send a ping back, but in most cases, you're going to see that it will get to its destination if there's no [[Routing]] issues.
 >
 > **[4:32](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/internet-provider-problems?u=76281980&t=272)** Another thing to watch for is how many hops.
 >
@@ -975,7 +968,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (29), [[Windows]] (8), [[Google]] (4), [[Routing]] (3), [[Search]] (1)
+> **Frameworks & Libraries:** [[Windows]] (8), [[Google]] (4), [[Routing]] (3), [[Powershell]] (1)
 > **Env Vars:** dns (29), dhcp (8), ipv6 (4), ipv4 (4), https (1)
 > **UI Navigation:** click on (7), go to (5)
 > **CLI Commands:** make (7)
@@ -989,12 +982,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Most common issues with corporate wireless
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/most-common-issues-with-corporate-wireless?u=76281980)
+#### [Most common issues with corporate wireless](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/most-common-issues-with-corporate-wireless?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/most-common-issues-with-corporate-wireless?u=76281980&t=0)** - [Instructor] Cybersecurity has become one of the key concerns for many in our virtual world, especially regarding cybersecurity for personal and privacy rights.
+> **[0:00](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/most-common-issues-with-corporate-wireless?u=76281980&t=0)** - [Instructor] [[Cybersecurity]] has become one of the key concerns for many in our virtual world, especially regarding cybersecurity for personal and [[Privacy]] rights.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/most-common-issues-with-corporate-wireless?u=76281980&t=10)** There's technically no completely safe wireless.
 >
@@ -1006,7 +998,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/most-common-issues-with-corporate-wireless?u=76281980&t=32)** And this is due to spoofing gateways by using man in the middle attacks, wireless sniffers, and more.
 >
-> **[0:39](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/most-common-issues-with-corporate-wireless?u=76281980&t=39)** Wireless antenna dampeners can help keep from getting hacked outside your office from war drivers.
+> **[0:39](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/most-common-issues-with-corporate-wireless?u=76281980&t=39)** Wireless antenna dampeners can help keep from getting hacked outside your [[Microsoft Office|office]] from war drivers.
 >
 > **[0:46](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/most-common-issues-with-corporate-wireless?u=76281980&t=46)** Even when we're connected to the internet, many users commonly experience unstable or slow connection speeds with their wireless connections.
 >
@@ -1022,7 +1014,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/most-common-issues-with-corporate-wireless?u=76281980&t=78)** Heat maps tell you where there's going to be dead spots, or too many wifi signals that can cause cross-talk.
 >
-> **[1:24](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/most-common-issues-with-corporate-wireless?u=76281980&t=84)** Many higher-end products, like Cisco and Aruba, support this type of technology.
+> **[1:24](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/most-common-issues-with-corporate-wireless?u=76281980&t=84)** Many higher-end [[Microsoft Products|products]], like Cisco and Aruba, support this type of technology.
 >
 > **[1:28](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/most-common-issues-with-corporate-wireless?u=76281980&t=88)** There are also handheld tools to detect signal interference that are on the market.
 >
@@ -1054,15 +1046,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Privacy]] (1), data (1), [[Security]] (1), traffic (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Privacy]] (1), [[Microsoft Office|Office]] (1), [[Microsoft Products|Products]] (1)
 > **Versions:** 2.4 (2), 802.11 (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** aes (1), ssid (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
-#### Troubleshooting Wi-Fi interference
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/troubleshooting-wi-fi-interference?u=76281980)
+#### [Troubleshooting Wi-Fi interference](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/troubleshooting-wi-fi-interference?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1104,7 +1095,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), game (1), [[Security]] (1)
 > **Analogies:** such as (5)
 > **Versions:** 2.4 (1)
 > **UI Navigation:** switch to (1)
@@ -1117,8 +1107,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What VPN types work in hotels and restaurants
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/what-vpn-types-work-in-hotels-and-restaurants?u=76281980)
+#### [What VPN types work in hotels and restaurants](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/what-vpn-types-work-in-hotels-and-restaurants?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1126,9 +1115,9 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/what-vpn-types-work-in-hotels-and-restaurants?u=76281980&t=6)** IPsec is also known as IP security, is used heavily by Cisco, SonicWall, OpenVPN and many others.
 >
-> **[0:15](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/what-vpn-types-work-in-hotels-and-restaurants?u=76281980&t=15)** SSTP or SSL is used by Windows, Cisco AnyConnect and others as well.
+> **[0:15](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/what-vpn-types-work-in-hotels-and-restaurants?u=76281980&t=15)** SSTP or SSL is used by [[Windows]], Cisco AnyConnect and others as well.
 >
-> **[0:21](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/what-vpn-types-work-in-hotels-and-restaurants?u=76281980&t=21)** This relies on certificate based security and IKEv2 which stands for internet key exchange, which is known in a Windows server.
+> **[0:21](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/what-vpn-types-work-in-hotels-and-restaurants?u=76281980&t=21)** This relies on certificate based security and IKEv2 which stands for internet key exchange, which is known in a [[Windows Server]].
 >
 > **[0:29](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/what-vpn-types-work-in-hotels-and-restaurants?u=76281980&t=29)** Is very useful for slow connections where you don't have to be reauthenticated in case your connection gets dropped.
 >
@@ -1146,19 +1135,19 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/what-vpn-types-work-in-hotels-and-restaurants?u=76281980&t=65)** Apple and Cisco however, have retired their Poin-to-Point Tunneling Protocol VPNs.
 >
-> **[1:11](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/what-vpn-types-work-in-hotels-and-restaurants?u=76281980&t=71)** In 2008, Microsoft came out with Direct Access and that worked on Windows servers.
+> **[1:11](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/what-vpn-types-work-in-hotels-and-restaurants?u=76281980&t=71)** In 2008, [[Microsoft]] came out with Direct Access and that worked on Windows servers.
 >
 > **[1:16](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/what-vpn-types-work-in-hotels-and-restaurants?u=76281980&t=76)** And the way this worked was when you opened up your computer and logged in it automatically connected to VPN without having to enable the client.
 >
 > **[1:25](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/what-vpn-types-work-in-hotels-and-restaurants?u=76281980&t=85)** It hasn't worked that well.
 >
-> **[1:26](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/what-vpn-types-work-in-hotels-and-restaurants?u=76281980&t=86)** However, because of a lot of complexity and problems with the protocol but always on VPN for Windows 10 has started taking over, which does similar things as Direct Access except it does it from the Windows 10 computer rather than being pushed out from the server.
+> **[1:26](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/what-vpn-types-work-in-hotels-and-restaurants?u=76281980&t=86)** However, because of a lot of complexity and problems with the protocol but always on VPN for [[Windows 10]] has started taking over, which does similar things as Direct Access except it does it from the Windows 10 computer rather than being pushed out from the server.
 >
 > **[1:44](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/what-vpn-types-work-in-hotels-and-restaurants?u=76281980&t=104)** Of all these different protocols what works in hotels and restaurants and other public places?
 >
 > **[1:50](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/what-vpn-types-work-in-hotels-and-restaurants?u=76281980&t=110)** The best one would be SSTP or SSL VPN.
 >
-> **[1:54](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/what-vpn-types-work-in-hotels-and-restaurants?u=76281980&t=114)** SSTP as it's called in a Windows server, SSL VPN as it's called in other products.
+> **[1:54](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/what-vpn-types-work-in-hotels-and-restaurants?u=76281980&t=114)** SSTP as it's called in a Windows server, SSL VPN as it's called in other [[Microsoft Products|products]].
 >
 > **[1:59](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/what-vpn-types-work-in-hotels-and-restaurants?u=76281980&t=119)** And that's because it uses port 443 which by default is not going to be blocked by many firewalls in public places.
 >
@@ -1184,7 +1173,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** vpn (10), [[Windows]] (5), [[Windows Server]] (3), [[Security]] (2), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Windows]] (5), [[Windows Server]] (3), [[Microsoft]] (2), [[Windows 10]] (2), [[Microsoft Products|Products]] (1)
 > **Env Vars:** vpn (10), ssl (4), l2tp (4), sstp (3), pptp (1)
 > **Definitions:** known as (2), stands for (1)
 > **Ports:** port 443 (2)
@@ -1192,14 +1181,13 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### VPN works but cannot access any resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/vpn-works-but-cannot-access-any-resources?u=76281980)
+#### [VPN works but cannot access any resources](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/vpn-works-but-cannot-access-any-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/vpn-works-but-cannot-access-any-resources?u=76281980&t=0)** - [Instructor] I'm in my Windows server and I've gone ahead and installed the remote access server role.
+> **[0:00](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/vpn-works-but-cannot-access-any-resources?u=76281980&t=0)** - [Instructor] I'm in my [[Windows Server]] and I've gone ahead and installed the remote access server role.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/vpn-works-but-cannot-access-any-resources?u=76281980&t=5)** And after doing that, if you go to Tools and Server Manager, you're going to see the option for routing and remote access.
+> **[0:05](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/vpn-works-but-cannot-access-any-resources?u=76281980&t=5)** And after doing that, if you go to Tools and Server Manager, you're going to see the option for [[Routing]] and remote access.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/vpn-works-but-cannot-access-any-resources?u=76281980&t=11)** And there's a lot of different reasons why things don't work, even if you can connect in VPN, using routing and remote access.
 >
@@ -1225,7 +1213,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/vpn-works-but-cannot-access-any-resources?u=76281980&t=88)** So now we can see our service has started and it automatically added in all these different types of ports and things like that into our configuration.
 >
-> **[1:39](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/vpn-works-but-cannot-access-any-resources?u=76281980&t=99)** So I'm going to right click on the server and choose properties and show you some other areas that can definitely cause problems with Windows VPN.
+> **[1:39](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/vpn-works-but-cannot-access-any-resources?u=76281980&t=99)** So I'm going to right click on the server and choose properties and show you some other areas that can definitely cause problems with [[Windows]] VPN.
 >
 > **[1:49](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/vpn-works-but-cannot-access-any-resources?u=76281980&t=109)** First off, I'm just using IPV4, but if you're using IPV6, then you'll need to check the box that you see here and configure IPV6 on your firewall to be able to route any of those packets to this server.
 >
@@ -1291,7 +1279,7 @@ created: 2026-05-02
 >
 > **[5:33](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/vpn-works-but-cannot-access-any-resources?u=76281980&t=333)** It's possible it might get fixed at one point, but it hasn't been up until now.
 >
-> **[5:40](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/vpn-works-but-cannot-access-any-resources?u=76281980&t=340)** We can also just go to the action tab at the top scan for hardware changes, and it'll go ahead Now I can close Device Manager, and now I'm going to go into Windows 11 and perform the same task where I uninstall all the different ports just as I did on the server.
+> **[5:40](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/vpn-works-but-cannot-access-any-resources?u=76281980&t=340)** We can also just go to the action tab at the top scan for [[Hardware]] changes, and it'll go ahead Now I can close Device Manager, and now I'm going to go into Windows 11 and perform the same task where I uninstall all the different ports just as I did on the server.
 >
 > **[5:58](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/vpn-works-but-cannot-access-any-resources?u=76281980&t=358)** I'm in Windows 11, and once again, we'll go into Device Manager and do the same task.
 >
@@ -1343,11 +1331,11 @@ created: 2026-05-02
 >
 > **[8:55](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/vpn-works-but-cannot-access-any-resources?u=76281980&t=535)** If this doesn't work for you, then that means that your DNS is possibly pointing to an outdated DNS server or one on the internet, which it shouldn't be if your server is on the domain.
 >
-> **[9:08](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/vpn-works-but-cannot-access-any-resources?u=76281980&t=548)** There are many reasons for VPN to fail, so be sure to follow all the steps needed to connect and you'll be able to open resources without issue in your local area network while away from the office.
+> **[9:08](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/vpn-works-but-cannot-access-any-resources?u=76281980&t=548)** There are many reasons for VPN to fail, so be sure to follow all the steps needed to connect and you'll be able to open resources without issue in your [[Local Area Network (LAN)|local area network]] while away from the [[Microsoft Office|office]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** vpn (18), dns (9), [[Windows Server]] (6), [[Windows]] (6), [[Routing]] (5)
+> **Frameworks & Libraries:** [[Windows Server]] (6), [[Windows]] (6), [[Routing]] (5), [[Hardware]] (1), [[Local Area Network (LAN)|Local area network]] (1)
 > **Env Vars:** vpn (18), dns (9), l2tp (3), sstp (3), dhcp (3)
 > **CLI Commands:** make (7)
 > **UI Navigation:** click on (4), go to (3)
@@ -1356,8 +1344,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1), means that (1)
 > **URLs:** [techpublishing.net](https://techpublishing.net) (1)
 
-#### Common VPN error codes and how to fix them
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-vpn-error-codes-and-how-to-fix-them?u=76281980)
+#### [Common VPN error codes and how to fix them](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-vpn-error-codes-and-how-to-fix-them?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1367,7 +1354,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-vpn-error-codes-and-how-to-fix-them?u=76281980&t=17)** Also, sometimes you'll see that when some network firewalls block the VPN traffic, the device will loose the connection to the local network.
 >
-> **[0:24](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-vpn-error-codes-and-how-to-fix-them?u=76281980&t=24)** The possible solution for error code 609 is a built in diagnostic with repair that's provided in Windows, provided you're using the Windows VPN option.
+> **[0:24](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-vpn-error-codes-and-how-to-fix-them?u=76281980&t=24)** The possible solution for error code 609 is a built in diagnostic with repair that's provided in [[Windows]], provided you're using the Windows VPN option.
 >
 > **[0:34](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-vpn-error-codes-and-how-to-fix-them?u=76281980&t=34)** When you click the diagnostic button, which is shown on the error page of the VPN connection, it gives a repair option, which will try to fix the issue automatically.
 >
@@ -1385,7 +1372,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-vpn-error-codes-and-how-to-fix-them?u=76281980&t=91)** Error 13801 is due to an incorrect username and password or the password expired and the user didn't change it in time.
 >
-> **[1:39](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-vpn-error-codes-and-how-to-fix-them?u=76281980&t=99)** You'll need to go into active directory or the name of the VPN host and reset the password for that user.
+> **[1:39](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-vpn-error-codes-and-how-to-fix-them?u=76281980&t=99)** You'll need to go into [[Active Directory]] or the name of the VPN host and reset the password for that user.
 >
 > **[1:46](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-vpn-error-codes-and-how-to-fix-them?u=76281980&t=106)** And finally, the codes 691 and 789 are error codes due to L2TP VPN type and it's usually due to an expired certificate or an incorrect pre-shared key.
 >
@@ -1397,7 +1384,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** vpn (11), [[Windows]] (2), traffic (1), [[Active Directory]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Active Directory]] (1)
 > **Env Vars:** vpn (11), l2tp (2)
 > **Definitions:** is a  (3)
 > **Prerequisites:** you'll need (2)
@@ -1409,14 +1396,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Windows command-line tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-command-line-tools?u=76281980)
+#### [Windows command-line tools](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-command-line-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-command-line-tools?u=76281980&t=0)** - [Instructor] I'm in a Windows 2019 server.
+> **[0:00](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-command-line-tools?u=76281980&t=0)** - [Instructor] I'm in a [[Windows]] 2019 server.
 >
-> **[0:02](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-command-line-tools?u=76281980&t=2)** Although, you can open up these tools I'm about to show you in the workstation operating system such as Windows 10 as well.
+> **[0:02](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-command-line-tools?u=76281980&t=2)** Although, you can open up these tools I'm about to show you in the workstation operating system such as [[Windows 10]] as well.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-command-line-tools?u=76281980&t=9)** And I'm going to right click on the Start button, and I'm going to choose Search, and I'm going to type in CMD, short for command, and instead of left clicking and opening it, what you want to do is right click on it, and choose to Run as an administrator.
 >
@@ -1476,7 +1462,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-command-line-tools?u=76281980&t=198)** But after the /an or the -an, whichever one you use, I like to put in a pipe command.
 >
-> **[3:24](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-command-line-tools?u=76281980&t=204)** And a pipe command, what that does is, it allows us to put in the word more after it.
+> **[3:24](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-command-line-tools?u=76281980&t=204)** And a pipe command, what that does is, it allows us to put in the [[Microsoft Word|word]] more after it.
 >
 > **[3:28](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-command-line-tools?u=76281980&t=208)** And then we only see one page at a time, because as you saw, when I typed netstat without the pipe more, it scrolled through many different pages.
 >
@@ -1504,7 +1490,7 @@ created: 2026-05-02
 >
 > **[4:42](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-command-line-tools?u=76281980&t=282)** Such as, we're seeing a lot of different ports connecting to 389, which is LDAP, which is the lightweight directory application protocol.
 >
-> **[4:50](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-command-line-tools?u=76281980&t=290)** It's used when other computers want to look up an object, say an active directory for example.
+> **[4:50](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-command-line-tools?u=76281980&t=290)** It's used when other computers want to look up an object, say an [[Active Directory]] for example.
 >
 > **[4:57](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-command-line-tools?u=76281980&t=297)** However, on the right-hand side, we can see that they're using ports that are very high up in the 20,000 and up range.
 >
@@ -1534,7 +1520,7 @@ created: 2026-05-02
 >
 > **[6:32](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-command-line-tools?u=76281980&t=392)** You can also be specific and say, "What's the name server lookup for a particular website?"
 >
-> **[6:37](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-command-line-tools?u=76281980&t=397)** So if I put in [google.com](https://google.com), then you can see that it first starts out by looking at my local server, which is a DNS server at .110, which is called DC1.
+> **[6:37](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-command-line-tools?u=76281980&t=397)** So if I put in [[[Google]].com](https://google.com), then you can see that it first starts out by looking at my local server, which is a DNS server at .110, which is called DC1.
 >
 > **[6:50](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-command-line-tools?u=76281980&t=410)** Then what it did was it got redirected off to [google.com](https://google.com)'s DNS server.
 >
@@ -1598,15 +1584,15 @@ created: 2026-05-02
 >
 > **[9:37](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-command-line-tools?u=76281980&t=577)** So how I'd use this in troubleshooting is, I know the firewall's blocking ICNP traffic, however I do know that the computer, in some capacity, is up and running.
 >
-> **[9:47](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-command-line-tools?u=76281980&t=587)** There are many more different types of troubleshooting tools that can help you with fixing any TCP/IP, or networking issues that come with all versions of Microsoft Windows operating systems.
+> **[9:47](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-command-line-tools?u=76281980&t=587)** There are many more different types of troubleshooting tools that can help you with fixing any TCP/IP, or networking issues that come with all versions of [[Microsoft]] Windows operating systems.
 >
-> **[9:59](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-command-line-tools?u=76281980&t=599)** And besides command line, you can also use PowerShell.
+> **[9:59](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-command-line-tools?u=76281980&t=599)** And besides command line, you can also use [[Powershell]].
 >
 > **[10:03](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-command-line-tools?u=76281980&t=603)** So check out all the different tools at docs.[microsoft.com](https://microsoft.com).
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (10), [[Windows]] (3), [[Windows 10]] (2), [[Active Directory]] (2), [[Google]] (2)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Windows 10]] (2), [[Active Directory]] (2), [[Google]] (2), [[Microsoft]] (2)
 > **Env Vars:** dns (10), tcp (3), ldap (3), arp (3), listening (2)
 > **Analogies:** such as (5), for instance (1), for example (1)
 > **CLI Commands:** make (4), find (2)
@@ -1615,12 +1601,11 @@ created: 2026-05-02
 > **URLs:** [google.com](https://google.com) (2), [microsoft.com](https://microsoft.com) (1)
 > **Versions:** 192.168.21 (2), 172.217 (1)
 
-#### PowerShell tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/powershell-tools-10143327?u=76281980)
+#### [PowerShell tools](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/powershell-tools-10143327?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/powershell-tools-10143327?u=76281980&t=0)** - [Instructor] I'm on my Windows 11 computer, and let's take a look at some PowerShell tools that can also help with network troubleshooting.
+> **[0:00](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/powershell-tools-10143327?u=76281980&t=0)** - [Instructor] I'm on my [[Windows]] 11 computer, and let's take a look at some [[Powershell]] tools that can also help with [[Network Troubleshooting]].
 >
 > **[0:07](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/powershell-tools-10143327?u=76281980&t=7)** So I'm going to right-click on my start button, and I'll choose "Windows Terminal (Admin)" just to make sure I have all the rights I need to run any of the tools.
 >
@@ -1642,7 +1627,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/powershell-tools-10143327?u=76281980&t=140)** If you see something in the hundreds or thousands of milliseconds trying to ping something internally, than you could have multiple different issues such as the device you're trying to ping is having problems, maybe it has all the resources being used and it's having a difficult time replying, or you could have something wrong with the networks which you're plugged into.
 >
-> **[2:39](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/powershell-tools-10143327?u=76281980&t=159)** I've had many times where I would go to troubleshoot this exact issue and the "PingReplyDetails" would be very high in the milliseconds, and it would turn out that you would have several Ethernet cords that were plugged into the same switch, so say the same switch port one was plugged into port 10 as well, that caused a routing loop and it caused everything to slow down.
+> **[2:39](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/powershell-tools-10143327?u=76281980&t=159)** I've had many times where I would go to troubleshoot this exact issue and the "PingReplyDetails" would be very high in the milliseconds, and it would turn out that you would have several Ethernet cords that were plugged into the same switch, so say the same switch port one was plugged into port 10 as well, that caused a [[Routing]] loop and it caused everything to slow down.
 >
 > **[3:03](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/powershell-tools-10143327?u=76281980&t=183)** At one point, I even had one client that had 100 different routing loops, and it took several hours to undo to get it to work properly, so these types of loops tend to cause high milliseconds under those "PingReplyDetails."
 >
@@ -1652,7 +1637,7 @@ created: 2026-05-02
 >
 > **[4:11](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/powershell-tools-10143327?u=76281980&t=251)** Let's look at another one in PowerShell.
 >
-> **[4:14](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/powershell-tools-10143327?u=76281980&t=254)** For instance, let's do an "nslookup," which looks up the DNS server for a particular name or IP address, so I'll do "nslookup" followed by the DNS IP address for Google, and here, you can see "dns.google" is the name, but we don't have to just do it that way, we could also put in the name as well, I'll try [microsoft.com](https://microsoft.com), and it tells us all the different DNS servers that are servicing [microsoft.com](https://microsoft.com).
+> **[4:14](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/powershell-tools-10143327?u=76281980&t=254)** For instance, let's do an "nslookup," which looks up the DNS server for a particular name or IP address, so I'll do "nslookup" followed by the DNS IP address for [[Google]], and here, you can see "dns.google" is the name, but we don't have to just do it that way, we could also put in the name as well, I'll try [[[Microsoft]].com](https://microsoft.com), and it tells us all the different DNS servers that are servicing [microsoft.com](https://microsoft.com).
 >
 > **[4:46](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/powershell-tools-10143327?u=76281980&t=286)** Now, if you don't get a response, that means that you've got a DNS problem.
 >
@@ -1678,11 +1663,11 @@ created: 2026-05-02
 >
 > **[8:04](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/powershell-tools-10143327?u=76281980&t=484)** Although PowerShell commandlets may have more characters, more things you have to type, they also have more switches, more options, and can be changed easily and added into a PowerShell script.
 >
-> **[8:15](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/powershell-tools-10143327?u=76281980&t=495)** It's possible Microsoft may take away regular commands sometime in the future, so it would be a good idea to learn PowerShell equivalents, which is also starting to now work in some distributions of Linux.
+> **[8:15](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/powershell-tools-10143327?u=76281980&t=495)** It's possible Microsoft may take away regular commands sometime in the future, so it would be a good idea to learn PowerShell equivalents, which is also starting to now work in some distributions of [[Linux]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (11), dns (8), [[Windows]] (4), [[Microsoft]] (4), next (3)
+> **Frameworks & Libraries:** [[Powershell]] (11), [[Windows]] (4), [[Microsoft]] (4), [[Routing]] (2), [[Google]] (2)
 > **Tools:** powershell (11), windows terminal (1), terminal (1), command line (1)
 > **Env Vars:** dns (7), rtt (1), established (1), close_wait (1), https (1)
 > **Definitions:** means that (3), is a  (1)
@@ -1691,12 +1676,11 @@ created: 2026-05-02
 > **Ports:** port 10 (1), port 443 (1), port 3389 (1)
 > **CLI Commands:** make (2)
 
-#### Linux networking tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/linux-networking-tools-10140421?u=76281980)
+#### [Linux networking tools](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/linux-networking-tools-10140421?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/linux-networking-tools-10140421?u=76281980&t=0)** - Linux has its set of networking tools similar to Microsoft Windows, and some of the commands are even the same or very similar.
+> **[0:00](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/linux-networking-tools-10140421?u=76281980&t=0)** - [[Linux]] has its set of networking tools similar to [[Microsoft]] [[Windows]], and some of the commands are even the same or very similar.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/linux-networking-tools-10140421?u=76281980&t=7)** For instance, IP config in Windows is similar to IF or interface config in Linux.
 >
@@ -1734,9 +1718,9 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/linux-networking-tools-10140421?u=76281980&t=113)** However, it's spelled differently.
 >
-> **[1:54](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/linux-networking-tools-10140421?u=76281980&t=114)** This is the way we do it in Windows, but in Linux we actually spell out the entire word, followed by whatever IP address you would like to go to.
+> **[1:54](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/linux-networking-tools-10140421?u=76281980&t=114)** This is the way we do it in Windows, but in Linux we actually spell out the entire [[Microsoft Word|word]], followed by whatever IP address you would like to go to.
 >
-> **[2:05](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/linux-networking-tools-10140421?u=76281980&t=125)** And we can see that it traced all the way through 10 different hops to get to Google's DNS.
+> **[2:05](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/linux-networking-tools-10140421?u=76281980&t=125)** And we can see that it traced all the way through 10 different hops to get to [[Google]]'s DNS.
 >
 > **[2:11](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/linux-networking-tools-10140421?u=76281980&t=131)** And of course, trace route and ping are excellent tools to tell us whether or not we're connected.
 >
@@ -1766,7 +1750,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/linux-networking-tools-10140421?u=76281980&t=209)** It's got port 80 and 443 so it must have a web server on it.
 >
-> **[3:33](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/linux-networking-tools-10140421?u=76281980&t=213)** It's got LDAP, which means that it's probably a domain controller for a Windows server.
+> **[3:33](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/linux-networking-tools-10140421?u=76281980&t=213)** It's got LDAP, which means that it's probably a domain controller for a [[Windows Server]].
 >
 > **[3:38](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/linux-networking-tools-10140421?u=76281980&t=218)** All different kinds of ports that are showing are open.
 >
@@ -1778,11 +1762,11 @@ created: 2026-05-02
 >
 > **[4:13](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/linux-networking-tools-10140421?u=76281980&t=253)** If we do the NETSTAT dash I, then it also gives a great network tool to tell us if we're transmitting and receiving okay.
 >
-> **[4:25](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/linux-networking-tools-10140421?u=76281980&t=265)** Between all these different Linux networking tools, we should be able to deduce any issues we have with our network interface cards, the local area network, and internet connection.
+> **[4:25](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/linux-networking-tools-10140421?u=76281980&t=265)** Between all these different Linux networking tools, we should be able to deduce any issues we have with our network interface cards, the [[Local Area Network (LAN)|local area network]], and internet connection.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (8), dns (8), [[Windows]] (7), [[Microsoft]] (4), hit (2)
+> **Frameworks & Libraries:** [[Linux]] (8), [[Windows]] (7), [[Microsoft]] (4), [[Google]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** dns (8), netstat (2), ipv6 (1), dig (1), ldap (1)
 > **Analogies:** similar to (3), for instance (1)
 > **Definitions:** means that (2), is a  (1)
@@ -1791,12 +1775,11 @@ created: 2026-05-02
 > **Ports:** port 80 (1)
 > **UI Navigation:** go to (1)
 
-#### Windows routing command-line tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-routing-command-line-tools-10141327?u=76281980)
+#### [Windows routing command-line tools](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-routing-command-line-tools-10141327?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-routing-command-line-tools-10141327?u=76281980&t=0)** - [Instructor] There are simple command line tools that we see in all versions of Windows, but there's also some commands that can help us with tracing routing.
+> **[0:00](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-routing-command-line-tools-10141327?u=76281980&t=0)** - [Instructor] There are simple command line tools that we see in all versions of [[Windows]], but there's also some commands that can help us with tracing [[Routing]].
 >
 > **[0:09](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-routing-command-line-tools-10141327?u=76281980&t=9)** And tracing routing is really important because it not only tells us where we currently are, but where we can go.
 >
@@ -1804,7 +1787,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-routing-command-line-tools-10141327?u=76281980&t=21)** And this basically just tells us how we can get out to a specific area and tells us how we get there.
 >
-> **[0:28](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-routing-command-line-tools-10141327?u=76281980&t=28)** So for instance, if I type in pathping, and I put in Google's DNS address, then it's going to go out and find how many hops it takes to get out to that address.
+> **[0:28](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-routing-command-line-tools-10141327?u=76281980&t=28)** So for instance, if I type in pathping, and I put in [[Google]]'s DNS address, then it's going to go out and find how many hops it takes to get out to that address.
 >
 > **[0:41](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-routing-command-line-tools-10141327?u=76281980&t=41)** But for more experienced users the traceroute command is the best way to go.
 >
@@ -1852,7 +1835,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-routing-command-line-tools-10141327?u=76281980&t=182)** However, ping has a lot more useful types of switches in it, besides without a switch as we see here.
 >
-> **[3:11](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-routing-command-line-tools-10141327?u=76281980&t=191)** So, what I'm going to do is show you how to use network troubleshooting tools using the ping command and the different switches.
+> **[3:11](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-routing-command-line-tools-10141327?u=76281980&t=191)** So, what I'm going to do is show you how to use [[Network Troubleshooting]] tools using the ping command and the different switches.
 >
 > **[3:17](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-routing-command-line-tools-10141327?u=76281980&t=197)** So let's start out by doing a ping -t.
 >
@@ -1866,7 +1849,7 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-routing-command-line-tools-10141327?u=76281980&t=245)** Just pressing Control + C keys will stop the -t.
 >
-> **[4:10](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-routing-command-line-tools-10141327?u=76281980&t=250)** Now, in Linux and Unix, it automatically does continuous ping, but in windows it will only do four.
+> **[4:10](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-routing-command-line-tools-10141327?u=76281980&t=250)** Now, in [[Linux]] and Unix, it automatically does continuous ping, but in windows it will only do four.
 >
 > **[4:16](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-routing-command-line-tools-10141327?u=76281980&t=256)** And there's other great switches along with ping, such as you can do a -a and then type in an IP address.
 >
@@ -1880,7 +1863,7 @@ created: 2026-05-02
 >
 > **[4:54](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-routing-command-line-tools-10141327?u=76281980&t=294)** Now, the reason for that is if I go to ping an address and I receive an IPV6 reponse, then I may want to do -4, because that way I'll only get the TCP/IP version four address if that's really what I'm expecting.
 >
-> **[5:07](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-routing-command-line-tools-10141327?u=76281980&t=307)** And by default all Microsoft computers will respond on both IPV6 and IPV4 unless you manually uncheck one of the two.
+> **[5:07](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-routing-command-line-tools-10141327?u=76281980&t=307)** And by default all [[Microsoft]] computers will respond on both IPV6 and IPV4 unless you manually uncheck one of the two.
 >
 > **[5:16](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-routing-command-line-tools-10141327?u=76281980&t=316)** I like to use this next one, it's the -l.
 >
@@ -1916,11 +1899,11 @@ created: 2026-05-02
 >
 > **[7:07](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-routing-command-line-tools-10141327?u=76281980&t=427)** However, we can see other subnets that I'm connected to as well.
 >
-> **[7:13](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-routing-command-line-tools-10141327?u=76281980&t=433)** Besides command line tools to run various different routing commands, there's also PowerShell that you can use using different syntax you can find out from docs.[microsoft.com](https://microsoft.com).
+> **[7:13](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-routing-command-line-tools-10141327?u=76281980&t=433)** Besides command line tools to run various different routing commands, there's also [[Powershell]] that you can use using different syntax you can find out from docs.[microsoft.com](https://microsoft.com).
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (7), dns (4), [[Windows]] (2), [[Google]] (2), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Routing]] (7), [[Windows]] (2), [[Google]] (2), [[Microsoft]] (2), [[Network Troubleshooting]] (1)
 > **Env Vars:** dns (4), isp (2), vlan (2), ipv6 (2), tcp (1)
 > **CLI Commands:** find (5), make (1)
 > **Analogies:** such as (4), for instance (1), for example (1)
@@ -1929,20 +1912,19 @@ created: 2026-05-02
 > **URLs:** [google.com](https://google.com) (1), [microsoft.com](https://microsoft.com) (1)
 > **UI Navigation:** go to (2)
 
-#### Wireshark basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/wireshark-basics?u=76281980)
+#### [Wireshark basics](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/wireshark-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/wireshark-basics?u=76281980&t=0)** - [Instructor] I'm going to try on my black hat and my white hat in order to show how a hacker's going to try to find open ports on a Windows server or computer.
+> **[0:00](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/wireshark-basics?u=76281980&t=0)** - [Instructor] I'm going to try on my black hat and my white hat in order to show how a hacker's going to try to find open ports on a [[Windows Server]] or computer.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/wireshark-basics?u=76281980&t=11)** So for my black hat computer, I'm on a Windows 11 computer and I'm at [nmap.org](https://nmap.org).
+> **[0:11](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/wireshark-basics?u=76281980&t=11)** So for my black hat computer, I'm on a [[Windows]] 11 computer and I'm at [[[Nmap]].org](https://nmap.org).
 >
 > **[0:15](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/wireshark-basics?u=76281980&t=15)** This is going to allow me to install a program that will scan any server or computer that I'd like.
 >
 > **[0:23](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/wireshark-basics?u=76281980&t=23)** So I'm going to download the executable from [nmap.org](https://nmap.org) and then run that installation.
 >
-> **[0:30](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/wireshark-basics?u=76281980&t=30)** And I'm going to go to my server and I'm going to install another program called Wireshark.
+> **[0:30](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/wireshark-basics?u=76281980&t=30)** And I'm going to go to my server and I'm going to install another program called [[Wireshark]].
 >
 > **[0:35](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/wireshark-basics?u=76281980&t=35)** And Wireshark is going to watch any packets that I use to try to hack into that server from nmap on my Windows 11 computer, and we can use that in order to troubleshoot to find out if anyone's trying to hack our computer, or if there's any kind of open ports than when we're doing some sort of a white hack scan just to see if there's any threats that we need to lock down.
 >
@@ -2074,7 +2056,7 @@ created: 2026-05-02
 >
 > **[6:54](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/wireshark-basics?u=76281980&t=414)** So what do I do about that?
 >
-> **[6:55](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/wireshark-basics?u=76281980&t=415)** Well, you can go into Windows Defender Firewall, and you can block it.
+> **[6:55](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/wireshark-basics?u=76281980&t=415)** Well, you can go into Windows [[Microsoft Defender|Defender]] Firewall, and you can block it.
 >
 > **[7:03](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/wireshark-basics?u=76281980&t=423)** So I'll open up Windows Defender Firewall, and I'll click on Inbound Rules.
 >
@@ -2104,7 +2086,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (11), [[Windows]] (9), traffic (8), [[Windows Server]] (2), dns (2)
+> **Frameworks & Libraries:** [[Wireshark]] (11), [[Windows]] (9), [[Nmap]] (7), [[Windows Server]] (2), [[Microsoft Defender|Defender]] (2)
 > **Env Vars:** udp (3), ldap (2), sip (2), tcp (2), dns (2)
 > **Ports:** port 80 (5), port 53 (1), port 445 (1)
 > **UI Navigation:** click on (4), go to (1), scroll down (1)
@@ -2118,8 +2100,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Modern network design
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/modern-network-design?u=76281980)
+#### [Modern network design](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/modern-network-design?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2135,9 +2116,9 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/modern-network-design?u=76281980&t=40)** This is going to be the switch that not only is that the center of your network, but it's also going to be able to route as a router would.
 >
-> **[0:49](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/modern-network-design?u=76281980&t=49)** This layer three switch can provide what's called inter-VLAN routing and you can also put it in an HA pair.
+> **[0:49](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/modern-network-design?u=76281980&t=49)** This layer three switch can provide what's called inter-VLAN [[Routing]] and you can also put it in an HA pair.
 >
-> **[0:55](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/modern-network-design?u=76281980&t=55)** So you could actually have two switches here, where if one fails, then the other one picks up the slack.
+> **[0:55](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/modern-network-design?u=76281980&t=55)** So you could actually have two switches here, where if one fails, then the other one picks up the [[Slack]].
 >
 > **[1:01](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/modern-network-design?u=76281980&t=61)** Next we have layer two switches.
 >
@@ -2151,11 +2132,11 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/modern-network-design?u=76281980&t=97)** The firewall would then be connected out to the internet cloud.
 >
-> **[1:41](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/modern-network-design?u=76281980&t=101)** And there may be various different hops between the firewall and the destination, but we refer to the cloud as being any and all connections outside our local area network that are not connected to say remote offices.
+> **[1:41](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/modern-network-design?u=76281980&t=101)** And there may be various different hops between the firewall and the destination, but we refer to the cloud as being any and all connections outside our [[Local Area Network (LAN)|local area network]] that are not connected to say remote offices.
 >
 > **[1:55](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/modern-network-design?u=76281980&t=115)** And that would be our internet connection.
 >
-> **[1:58](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/modern-network-design?u=76281980&t=118)** Now we can add in our servers, we'll start with our active directory domain controller server and then we'll add in our DHCP DNS servers, and that way we can automatically send out IPs to computers that don't have them statically set and DNS would allow us to resolve names to IP addresses.
+> **[1:58](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/modern-network-design?u=76281980&t=118)** Now we can add in our servers, we'll start with our [[Active Directory]] domain controller server and then we'll add in our DHCP DNS servers, and that way we can automatically send out IPs to computers that don't have them statically set and DNS would allow us to resolve names to IP addresses.
 >
 > **[2:18](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/modern-network-design?u=76281980&t=138)** We also need to have some file and print servers.
 >
@@ -2173,13 +2154,13 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/modern-network-design?u=76281980&t=183)** Of course, you've got to have email, and many companies are using email in-house in larger organizations because it's more economical.
 >
-> **[3:11](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/modern-network-design?u=76281980&t=191)** Whereas larger organizations are going to use email out in the cloud, such as at Office or Microsoft 365.
+> **[3:11](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/modern-network-design?u=76281980&t=191)** Whereas larger organizations are going to use email out in the cloud, such as at [[Microsoft Office|Office]] or [[Microsoft 365]].
 >
 > **[3:18](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/modern-network-design?u=76281980&t=198)** And you may also have a VPN server.
 >
 > **[3:20](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/modern-network-design?u=76281980&t=200)** Although the VPN server could be on the firewall.
 >
-> **[3:22](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/modern-network-design?u=76281980&t=202)** it could also be on a Windows, Linux or other type of server.
+> **[3:22](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/modern-network-design?u=76281980&t=202)** it could also be on a [[Windows]], [[Linux]] or other type of server.
 >
 > **[3:27](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/modern-network-design?u=76281980&t=207)** Of course, if it is on the inside of your network and not on the firewall, you'll need to port forward the appropriate ports.
 >
@@ -2199,7 +2180,7 @@ created: 2026-05-02
 >
 > **[4:18](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/modern-network-design?u=76281980&t=258)** It really depends on bandwidth availability, and if you have the type of switches that can separate data from voice.
 >
-> **[4:28](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/modern-network-design?u=76281980&t=268)** If you have multiple offices, then you're probably going to have an SD-WAN or MPLS connection connected to your remote office or remote offices.
+> **[4:28](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/modern-network-design?u=76281980&t=268)** If you have multiple offices, then you're probably going to have an SD-WAN or [[Multiprotocol Label Switching (MPLS)|MPLS]] connection connected to your remote office or remote offices.
 >
 > **[4:37](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/modern-network-design?u=76281980&t=277)** Although SD-Wan is one of the latest types of connections that you can use, there are others such as you could use VPN tunnels using traditional internet.
 >
@@ -2219,17 +2200,17 @@ created: 2026-05-02
 >
 > **[5:35](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/modern-network-design?u=76281980&t=335)** It might be through Comcast, AT&T or others.
 >
-> **[5:39](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/modern-network-design?u=76281980&t=339)** Many companies also have resources out on cloud servers such as at AWS or at Microsoft Azure.
+> **[5:39](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/modern-network-design?u=76281980&t=339)** Many companies also have resources out on cloud servers such as at AWS or at [[Microsoft Azure]].
 >
-> **[5:46](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/modern-network-design?u=76281980&t=346)** And these connections can be a special VPN connection that's proprietary to say Microsoft Azure, or it could just be port forwards that happened through the Azure firewall or AWS firewall.
+> **[5:46](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/modern-network-design?u=76281980&t=346)** And these connections can be a special VPN connection that's proprietary to say Microsoft Azure, or it could just be port forwards that happened through the [[Microsoft Azure|Azure]] firewall or AWS firewall.
 >
-> **[5:59](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/modern-network-design?u=76281980&t=359)** And finally, you've got Internet of Things devices, such as streaming music, you might have clocks for people clocking in when they come into work or when they leave, as well as other devices.
+> **[5:59](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/modern-network-design?u=76281980&t=359)** And finally, you've got [[IoT|Internet of Things]] devices, such as streaming music, you might have clocks for people clocking in when they come into work or when they leave, as well as other devices.
 >
 > **[6:15](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/modern-network-design?u=76281980&t=375)** The modern network is constantly changing and using faster and more secure devices every year.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (5), cloud (4), vpn (4), [[Routing]] (2), dns (2)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (5), [[Routing]] (2), [[Multiprotocol Label Switching (MPLS)|Mpls]] (2), [[Microsoft Azure]] (2), [[Slack]] (1)
 > **Env Vars:** vpn (4), vlan (2), dns (2), san (2), wan (2)
 > **Analogies:** such as (5), picture (1)
 > **Prerequisites:** you'll need (2), setup (1), set up (1)
@@ -2238,16 +2219,15 @@ created: 2026-05-02
 > **Tools:** slack (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to fix data packets stuck en route
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/how-to-fix-data-packets-stuck-en-route?u=76281980)
+#### [How to fix data packets stuck en route](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/how-to-fix-data-packets-stuck-en-route?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/how-to-fix-data-packets-stuck-en-route?u=76281980&t=0)** - [Instructor] Traffic flow problems don't always happen from the inside out or the outside in from a LAN to a WAN.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/how-to-fix-data-packets-stuck-en-route?u=76281980&t=7)** They also happen between different subnets or VLANs inside the local area network.
+> **[0:07](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/how-to-fix-data-packets-stuck-en-route?u=76281980&t=7)** They also happen between different subnets or VLANs inside the [[Local Area Network (LAN)|local area network]].
 >
-> **[0:13](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/how-to-fix-data-packets-stuck-en-route?u=76281980&t=13)** As we can see here, we have two different computers that want to communicate with each other, and they're using a core L3 switch, which means it's a layer three switch, and it's capable of inter-VLAN routing.
+> **[0:13](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/how-to-fix-data-packets-stuck-en-route?u=76281980&t=13)** As we can see here, we have two different computers that want to communicate with each other, and they're using a core L3 switch, which means it's a layer three switch, and it's capable of inter-VLAN [[Routing]].
 >
 > **[0:24](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/how-to-fix-data-packets-stuck-en-route?u=76281980&t=24)** And we see the two different VLANs.
 >
@@ -2269,7 +2249,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/how-to-fix-data-packets-stuck-en-route?u=76281980&t=78)** I'll type in the subnet, which is the two dot zero subnet.
 >
-> **[1:22](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/how-to-fix-data-packets-stuck-en-route?u=76281980&t=82)** And now we need to add in the word 'mask,' followed by the subnet mask.
+> **[1:22](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/how-to-fix-data-packets-stuck-en-route?u=76281980&t=82)** And now we need to add in the [[Microsoft Word|word]] 'mask,' followed by the subnet mask.
 >
 > **[1:28](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/how-to-fix-data-packets-stuck-en-route?u=76281980&t=88)** And now we need to add in the gateway, which is going to be our layer three switch that connects us into our VLAN two.
 >
@@ -2355,7 +2335,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (4), traffic (1), lan (1), [[Local Area Network (LAN)|Local area network]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Routing]] (4), [[Local Area Network (LAN)|Local area network]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** vlan (14), lan (1), wan (1), ipv4 (1), com4 (1)
 > **Prerequisites:** set up (7), you'll need (1), setup (1)
 > **CLI Commands:** make (4), find (1)
@@ -2364,12 +2344,11 @@ created: 2026-05-02
 > **UI Navigation:** scroll up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Troubleshooting open firewall ports
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/troubleshooting-open-firewall-ports?u=76281980)
+#### [Troubleshooting open firewall ports](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/troubleshooting-open-firewall-ports?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/troubleshooting-open-firewall-ports?u=76281980&t=0)** - [Instructor] I'm on my Windows 11 computer and I'm going to open up PowerShell by right clicking and choosing to open the Windows terminal for admin.
+> **[0:00](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/troubleshooting-open-firewall-ports?u=76281980&t=0)** - [Instructor] I'm on my [[Windows]] 11 computer and I'm going to open up [[Powershell]] by right clicking and choosing to open the Windows terminal for admin.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/troubleshooting-open-firewall-ports?u=76281980&t=9)** And what I want to do is use PowerShell in order to find out if a specific port is open and also how to troubleshoot that in the Windows firewall on the computer and trying to connect to.
 >
@@ -2453,7 +2432,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (4), [[Powershell]] (3), prompt (1), application (1), data (1)
+> **Frameworks & Libraries:** [[Windows]] (4), [[Powershell]] (3)
 > **Env Vars:** tcp (6), udp (3)
 > **Tools:** powershell (3), windows terminal (1), terminal (1), command prompt (1), command line (1)
 > **Definitions:** is a  (5)
@@ -2467,22 +2446,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/next-steps?u=76281980&t=0)** - [Robert] Thank you for joining me in our course on network troubleshooting.
+> **[0:00](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/next-steps?u=76281980&t=0)** - [Robert] Thank you for joining me in our course on [[Network Troubleshooting]].
 >
-> **[0:04](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/next-steps?u=76281980&t=4)** You learned how to fix many common and not so common networking issues with the home and office.
+> **[0:04](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/next-steps?u=76281980&t=4)** You learned how to fix many common and not so common networking issues with the home and [[Microsoft Office|office]].
 >
-> **[0:09](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/next-steps?u=76281980&t=9)** You learned how to fix issues using command-line, PowerShell, and other utilities, using both the Windows and Linux operating systems.
+> **[0:09](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/next-steps?u=76281980&t=9)** You learned how to fix issues using command-line, [[Powershell]], and other utilities, using both the [[Windows]] and [[Linux]] operating systems.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/next-steps?u=76281980&t=17)** We also learned about Cisco and the operating system firewalls to solve connectivity problems between VLANs, subnets, and the internet.
 >
 > **[0:25](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/next-steps?u=76281980&t=25)** You learned about the modern network environment and how to put on your black and white hat for checking network connectivity and security.
 >
-> **[0:33](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/next-steps?u=76281980&t=33)** If you would like to see more of my courses, please check out my related course entitled Common Work From Home: Troubleshooting for IT Admins and Plan and Configure a Microsoft Teams Environment.
+> **[0:33](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/next-steps?u=76281980&t=33)** If you would like to see more of my courses, please check out my related course entitled Common Work From Home: Troubleshooting for IT Admins and Plan and Configure a [[Microsoft Teams]] Environment.
 >
 > **[0:46](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/next-steps?u=76281980&t=46)** I look forward to working with you again very soon.
 

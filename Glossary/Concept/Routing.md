@@ -97,28 +97,28 @@ created: 2026-05-02
 > 64. [[IT Security Foundations- Network Security]] — 3 mentions
 > 65. [[Cloud Security Architecture for the Enterprise]] — 3 mentions
 > 66. [[Advanced Express]] — 3 mentions
-> 67. [[React- Creating and Hosting a Full-Stack Site]] — 3 mentions
-> 68. [[Cisco Network Security- Cisco Firewall Technologies]] — 3 mentions
-> 69. [[Creating Spring Boot Microservices]] — 3 mentions
-> 70. [[Learning AI for Business Analysis]] — 3 mentions
-> 71. [[AI Orchestration- Foundations]] — 3 mentions
-> 72. [[SOLIDWORKS 2024 Essential Training]] — 3 mentions
-> 73. [[React- Software Architecture]] — 3 mentions
-> 74. [[Spring On Kubernetes Deploying And Managing Cloud Native Applications]] — 3 mentions
-> 75. [[Wireshark- Malware and Forensics]] — 3 mentions
-> 76. [[Learning Docker]] — 2 mentions
-> 77. [[React Essential Training]] — 2 mentions
-> 78. [[Transitioning to a Career in Cybersecurity]] — 2 mentions
-> 79. [[Microservices Foundations]] — 2 mentions
-> 80. [[Penetration Testing Essential Training]] — 2 mentions
-> 81. [[Ethical Hacking- Wireless Networks]] — 2 mentions
-> 82. [[Microsoft 365 Essential Training for Administrators]] — 2 mentions
-> 83. [[Hands-On Agentic AI- Building AI Agents with LlamaIndex]] — 2 mentions
-> 84. [[Penetration Testing Essential Training (2021)]] — 2 mentions
-> 85. [[Building Angular and ASP.NET Core Applications]] — 2 mentions
-> 86. [[Node.js- Web Servers, Tests, and Deployment]] — 2 mentions
-> 87. [[Complete Guide to AWS Security and Compliance Management]] — 2 mentions
-> 88. [[Introduction to Gen AI with Snowflake]] — 2 mentions
+> 67. [[Introduction to Gen AI with Snowflake]] — 3 mentions
+> 68. [[React- Creating and Hosting a Full-Stack Site]] — 3 mentions
+> 69. [[Cisco Network Security- Cisco Firewall Technologies]] — 3 mentions
+> 70. [[Creating Spring Boot Microservices]] — 3 mentions
+> 71. [[Learning AI for Business Analysis]] — 3 mentions
+> 72. [[AI Orchestration- Foundations]] — 3 mentions
+> 73. [[SOLIDWORKS 2024 Essential Training]] — 3 mentions
+> 74. [[React- Software Architecture]] — 3 mentions
+> 75. [[Spring On Kubernetes Deploying And Managing Cloud Native Applications]] — 3 mentions
+> 76. [[Wireshark- Malware and Forensics]] — 3 mentions
+> 77. [[Learning Docker]] — 2 mentions
+> 78. [[React Essential Training]] — 2 mentions
+> 79. [[Transitioning to a Career in Cybersecurity]] — 2 mentions
+> 80. [[Microservices Foundations]] — 2 mentions
+> 81. [[Penetration Testing Essential Training]] — 2 mentions
+> 82. [[Ethical Hacking- Wireless Networks]] — 2 mentions
+> 83. [[Microsoft 365 Essential Training for Administrators]] — 2 mentions
+> 84. [[Hands-On Agentic AI- Building AI Agents with LlamaIndex]] — 2 mentions
+> 85. [[Penetration Testing Essential Training (2021)]] — 2 mentions
+> 86. [[Building Angular and ASP.NET Core Applications]] — 2 mentions
+> 87. [[Node.js- Web Servers, Tests, and Deployment]] — 2 mentions
+> 88. [[Complete Guide to AWS Security and Compliance Management]] — 2 mentions
 > 89. [[React- Server-Side Rendering]] — 2 mentions
 > 90. [[Cloud Quantum Computing Essentials]] — 2 mentions
 > 91. [[Cisco Network Security- Secure Access]] — 2 mentions

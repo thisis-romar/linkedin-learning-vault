@@ -100,8 +100,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome to the network
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/welcome-to-the-network-24998881?u=76281980)
+#### [Welcome to the network](https://www.linkedin.com/learning/networking-foundations-networking-basics/welcome-to-the-network-24998881?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -121,11 +120,11 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/networking-foundations-networking-basics/welcome-to-the-network-24998881?u=76281980&t=48)** And I've been teaching IT courses for over two decades.
 >
-> **[0:51](https://www.linkedin.com/learning/networking-foundations-networking-basics/welcome-to-the-network-24998881?u=76281980&t=51)** So join me in my LinkedIn course covering networking basics.
+> **[0:51](https://www.linkedin.com/learning/networking-foundations-networking-basics/welcome-to-the-network-24998881?u=76281980&t=51)** So join me in my [[LinkedIn]] course covering networking basics.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Non-Speech:** (upbeat music) (2)
 > **Env Vars:** ccie (1)
 > **Analogies:** for example (1)
@@ -136,8 +135,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### A high-level look at a network
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/a-high-level-look-at-a-network-25204203?u=76281980)
+#### [A high-level look at a network](https://www.linkedin.com/learning/networking-foundations-networking-basics/a-high-level-look-at-a-network-25204203?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -151,7 +149,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/networking-foundations-networking-basics/a-high-level-look-at-a-network-25204203?u=76281980&t=27)** We were able to get a gig fiber internet connection, and we put in wiring, that supports speeds of 10 gigabits per second.
 >
-> **[0:34](https://www.linkedin.com/learning/networking-foundations-networking-basics/a-high-level-look-at-a-network-25204203?u=76281980&t=34)** For wireless connections, we installed seven wireless access points, nine security cameras that were all powered over the Ethernet network connections, and we purchased several IoT or internet of things, devices.
+> **[0:34](https://www.linkedin.com/learning/networking-foundations-networking-basics/a-high-level-look-at-a-network-25204203?u=76281980&t=34)** For wireless connections, we installed seven wireless access points, nine security cameras that were all powered over the Ethernet network connections, and we purchased several [[IoT]] or [[IoT|internet of things]], devices.
 >
 > **[0:49](https://www.linkedin.com/learning/networking-foundations-networking-basics/a-high-level-look-at-a-network-25204203?u=76281980&t=49)** For example, our doorbell, oven, refrigerator, TVs Amazon Alexa, they're all networked together.
 >
@@ -165,7 +163,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/networking-foundations-networking-basics/a-high-level-look-at-a-network-25204203?u=76281980&t=74)** This was called an rj45 connector.
 >
-> **[1:17](https://www.linkedin.com/learning/networking-foundations-networking-basics/a-high-level-look-at-a-network-25204203?u=76281980&t=77)** You might hear these cables called, CAT 5 or CAT 6 cables, that access to the network, might be over a wireless local area network, or wireless land.
+> **[1:17](https://www.linkedin.com/learning/networking-foundations-networking-basics/a-high-level-look-at-a-network-25204203?u=76281980&t=77)** You might hear these cables called, CAT 5 or CAT 6 cables, that access to the network, might be over a wireless [[Local Area Network (LAN)|local area network]], or wireless land.
 >
 > **[1:27](https://www.linkedin.com/learning/networking-foundations-networking-basics/a-high-level-look-at-a-network-25204203?u=76281980&t=87)** You might hear that called wifi for short.
 >
@@ -223,15 +221,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Security]] (2), [[Local Area Network (LAN)|Local area network]] (2), lan (2), business (2)
+> **Frameworks & Libraries:** [[Local Area Network (LAN)|Local area network]] (2), [[IoT]] (1), [[IoT|Internet of things]] (1)
 > **Env Vars:** wan (4), cat (2), lan (2), pan (2), man (2)
 > **Analogies:** for example (4), such as (1)
 > **CLI Commands:** cat (2), find (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Speakers:** - when (1)
 
-#### Benefits of a network
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/benefits-of-a-network-25203453?u=76281980)
+#### [Benefits of a network](https://www.linkedin.com/learning/networking-foundations-networking-basics/benefits-of-a-network-25203453?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -241,7 +238,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/networking-foundations-networking-basics/benefits-of-a-network-25203453?u=76281980&t=7)** First, a network gives us the ability to share resources.
 >
-> **[0:11](https://www.linkedin.com/learning/networking-foundations-networking-basics/benefits-of-a-network-25203453?u=76281980&t=11)** For example, we might have multiple users within an office that need to share files or printers.
+> **[0:11](https://www.linkedin.com/learning/networking-foundations-networking-basics/benefits-of-a-network-25203453?u=76281980&t=11)** For example, we might have multiple users within an [[Microsoft Office|office]] that need to share files or printers.
 >
 > **[0:18](https://www.linkedin.com/learning/networking-foundations-networking-basics/benefits-of-a-network-25203453?u=76281980&t=18)** Another benefit of networking is communications.
 >
@@ -283,14 +280,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Office|Office]] (1), next (1), [[Search]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - we (1)
 
-#### How you're using networking every day
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/how-you-re-using-networking-every-day-25000812?u=76281980)
+#### [How you're using networking every day](https://www.linkedin.com/learning/networking-foundations-networking-basics/how-you-re-using-networking-every-day-25000812?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -308,7 +304,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/networking-foundations-networking-basics/how-you-re-using-networking-every-day-25000812?u=76281980&t=50)** I can do that using Skype.
 >
-> **[0:51](https://www.linkedin.com/learning/networking-foundations-networking-basics/how-you-re-using-networking-every-day-25000812?u=76281980&t=51)** Additionally, one of the big buzzwords you're going to be hearing in the networking world is the internet of things, or IOT.
+> **[0:51](https://www.linkedin.com/learning/networking-foundations-networking-basics/how-you-re-using-networking-every-day-25000812?u=76281980&t=51)** Additionally, one of the big buzzwords you're going to be hearing in the networking world is the [[IoT|internet of things]], or [[IoT]].
 >
 > **[0:59](https://www.linkedin.com/learning/networking-foundations-networking-basics/how-you-re-using-networking-every-day-25000812?u=76281980&t=59)** Now, IOT, it's all about connecting lots of devices to a network, beyond the standard types of network connections, like connecting a computer or printer.
 >
@@ -322,7 +318,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (2), cloud (1), [[Internet of Things (IoT)|Internet of things]] (1), [[Security]] (1), next (1)
+> **Frameworks & Libraries:** [[IoT]] (2), [[IoT|Internet of things]] (1)
 > **Env Vars:** iot (2), dvr (1)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - think (1)
@@ -332,8 +328,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### MAC addresses
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/mac-addresses-25201754?u=76281980)
+#### [MAC addresses](https://www.linkedin.com/learning/networking-foundations-networking-basics/mac-addresses-25201754?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -375,14 +370,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Env Vars:** mac (9), oui (2), nic (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - with (1)
 
-#### IP version 4 addresses
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/ip-version-4-addresses-25000817?u=76281980)
+#### [IP version 4 addresses](https://www.linkedin.com/learning/networking-foundations-networking-basics/ip-version-4-addresses-25000817?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -390,7 +383,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/networking-foundations-networking-basics/ip-version-4-addresses-25000817?u=76281980&t=9)** It's an IP version four address, where IP stands for internet protocol.
 >
-> **[0:14](https://www.linkedin.com/learning/networking-foundations-networking-basics/ip-version-4-addresses-25000817?u=76281980&t=14)** And we're going to see later on that there's also an IP version six address, but for now, understand that an IP address is a logical address because it's an address that needs to be assigned to the device, as opposed to a MAC address, which is coded into the hardware by the manufacturer.
+> **[0:14](https://www.linkedin.com/learning/networking-foundations-networking-basics/ip-version-4-addresses-25000817?u=76281980&t=14)** And we're going to see later on that there's also an IP version six address, but for now, understand that an IP address is a logical address because it's an address that needs to be assigned to the device, as opposed to a MAC address, which is coded into the [[Hardware]] by the manufacturer.
 >
 > **[0:34](https://www.linkedin.com/learning/networking-foundations-networking-basics/ip-version-4-addresses-25000817?u=76281980&t=34)** To better understand an IP version four address, consider a street address.
 >
@@ -422,7 +415,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/networking-foundations-networking-basics/ip-version-4-addresses-25000817?u=76281980&t=122)** Now, that's going to tell us that the first 16 bits of our address, those represent the network, and the last 16 bits, those represent the host.
 >
-> **[2:12](https://www.linkedin.com/learning/networking-foundations-networking-basics/ip-version-4-addresses-25000817?u=76281980&t=132)** And since this is a non-mathematical course, we're not going to get into the calculation of subnet masks here, but if you'd like to get mathematical and go deeper, please check out another one of my LinkedIn courses called Learning Subnetting.
+> **[2:12](https://www.linkedin.com/learning/networking-foundations-networking-basics/ip-version-4-addresses-25000817?u=76281980&t=132)** And since this is a non-mathematical course, we're not going to get into the calculation of subnet masks here, but if you'd like to get mathematical and go deeper, please check out another one of my [[LinkedIn]] courses called Learning Subnetting.
 >
 > **[2:26](https://www.linkedin.com/learning/networking-foundations-networking-basics/ip-version-4-addresses-25000817?u=76281980&t=146)** And one final thing I want you to realize about IPv4 addresses, is we have run out.
 >
@@ -437,8 +430,7 @@ created: 2026-05-02
 > **Env Vars:** mac (2), nat (1)
 > **Speakers:** - now (1)
 
-#### IP version 6 addresses
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/ip-version-6-addresses-24998882?u=76281980)
+#### [IP version 6 addresses](https://www.linkedin.com/learning/networking-foundations-networking-basics/ip-version-6-addresses-24998882?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -476,13 +468,13 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/networking-foundations-networking-basics/ip-version-6-addresses-24998882?u=76281980&t=125)** That leaves the remaining 64 bits for our host.
 >
-> **[2:08](https://www.linkedin.com/learning/networking-foundations-networking-basics/ip-version-6-addresses-24998882?u=76281980&t=128)** And that's a look at the format and the scalability of IPv6 addressing.
+> **[2:08](https://www.linkedin.com/learning/networking-foundations-networking-basics/ip-version-6-addresses-24998882?u=76281980&t=128)** And that's a look at the format and the [[Scalability]] of IPv6 addressing.
 >
-> **[2:14](https://www.linkedin.com/learning/networking-foundations-networking-basics/ip-version-6-addresses-24998882?u=76281980&t=134)** But if you'd like to go deeper into the different types of IPv6 addresses and how they're structured, I recommend checking out another of my LinkedIn courses called Learning IP Addressing.
+> **[2:14](https://www.linkedin.com/learning/networking-foundations-networking-basics/ip-version-6-addresses-24998882?u=76281980&t=134)** But if you'd like to go deeper into the different types of IPv6 addresses and how they're structured, I recommend checking out another of my [[LinkedIn]] courses called Learning [[IP Addressing]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), [[Scalability]] (1), [[LinkedIn]] (1), [[IP Addressing]] (1)
+> **Frameworks & Libraries:** [[Scalability]] (1), [[LinkedIn]] (1), [[IP Addressing]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - now (1)
@@ -492,8 +484,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Network interface cards
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/network-interface-cards-25000814?u=76281980)
+#### [Network interface cards](https://www.linkedin.com/learning/networking-foundations-networking-basics/network-interface-cards-25000814?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -521,12 +512,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Env Vars:** nic (11), usb (1)
 > **Speakers:** - if (1)
 
-#### Switches
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/switches-25202614?u=76281980)
+#### [Switches](https://www.linkedin.com/learning/networking-foundations-networking-basics/switches-25202614?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -606,15 +595,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (3)
 > **CLI Commands:** make (3)
 > **Definitions:** is an  (1), is called (1)
 > **UI Navigation:** switch to (1)
 > **Analogies:** just like (1)
 > **Speakers:** - one (1)
 
-#### Routers
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/routers-25000808?u=76281980)
+#### [Routers](https://www.linkedin.com/learning/networking-foundations-networking-basics/routers-25000808?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -622,7 +609,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/networking-foundations-networking-basics/routers-25000808?u=76281980&t=13)** The device used to interconnect those networks is a router.
 >
-> **[0:18](https://www.linkedin.com/learning/networking-foundations-networking-basics/routers-25000808?u=76281980&t=18)** And when we first configure a router and tell it what networks it's connected to, that router adds those directly connected networks to its IP routing table.
+> **[0:18](https://www.linkedin.com/learning/networking-foundations-networking-basics/routers-25000808?u=76281980&t=18)** And when we first configure a router and tell it what networks it's connected to, that router adds those directly connected networks to its IP [[Routing]] table.
 >
 > **[0:28](https://www.linkedin.com/learning/networking-foundations-networking-basics/routers-25000808?u=76281980&t=28)** And in networks with more than one router, those routers can exchange routing information using a routing protocol such as OSPF.
 >
@@ -638,7 +625,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/networking-foundations-networking-basics/routers-25000808?u=76281980&t=78)** Well, this route is called a default route and it's commonly used when a router connects out to the internet.
 >
-> **[1:27](https://www.linkedin.com/learning/networking-foundations-networking-basics/routers-25000808?u=76281980&t=87)** The logic is if a router only has one interface that connects it with the rest of the world, if the router doesn't know about a certain network, the only other place that network might be is out of that interface.
+> **[1:27](https://www.linkedin.com/learning/networking-foundations-networking-basics/routers-25000808?u=76281980&t=87)** The logic is if a router only has one interface that connects it with the [[Representational State Transfer (REST)|rest]] of the world, if the router doesn't know about a certain network, the only other place that network might be is out of that interface.
 >
 > **[1:40](https://www.linkedin.com/learning/networking-foundations-networking-basics/routers-25000808?u=76281980&t=100)** But it takes a lot of router resources to store the complete internet routing table, which at the time of this recording is well over 800,000 routes.
 >
@@ -680,7 +667,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (6), traffic (3), web (3), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[Routing]] (6), [[Representational State Transfer (REST)|Rest]] (2)
 > **Versions:** 192.168.1 (5), 203.0.113 (2), version 4 (2), 10.1.1 (1), 0.0.0 (1)
 > **Env Vars:** pc1 (5), mac (2), ospf (1)
 > **CLI Commands:** make (3)
@@ -689,8 +676,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - while (1)
 
-#### Wireless access points
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/wireless-access-points-25000815?u=76281980)
+#### [Wireless access points](https://www.linkedin.com/learning/networking-foundations-networking-basics/wireless-access-points-25000815?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -720,15 +706,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2)
 > **Definitions:** is a  (1), is called (1)
 > **Env Vars:** dsl (1)
 > **Cross-References:** later in (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - this (1)
 
-#### Copper cabling
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/copper-cabling-25204205?u=76281980)
+#### [Copper cabling](https://www.linkedin.com/learning/networking-foundations-networking-basics/copper-cabling-25204205?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -802,14 +786,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4)
 > **Env Vars:** hvac (2), t568b (2), utp (1), stp (1), t568a (1)
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
 > **Speakers:** - the (1)
 
-#### Fiber-optic cabling
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/fiber-optic-cabling-25201755?u=76281980)
+#### [Fiber-optic cabling](https://www.linkedin.com/learning/networking-foundations-networking-basics/fiber-optic-cabling-25201755?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -879,7 +861,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), hit (1)
 > **Env Vars:** smf (1), mmf (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -891,8 +872,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning the seven layers
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/learning-the-seven-layers-24999853?u=76281980)
+#### [Learning the seven layers](https://www.linkedin.com/learning/networking-foundations-networking-basics/learning-the-seven-layers-24999853?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -904,7 +884,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/networking-foundations-networking-basics/learning-the-seven-layers-24999853?u=76281980&t=35)** And this set of categories is called the OSI Model where OSI stands for Open Systems Interconnection.
 >
-> **[0:42](https://www.linkedin.com/learning/networking-foundations-networking-basics/learning-the-seven-layers-24999853?u=76281980&t=42)** And once we learn what sorts of things happen in each layer of this model, that's going to let us better categorize our hardware and software components and better visualize how they work together.
+> **[0:42](https://www.linkedin.com/learning/networking-foundations-networking-basics/learning-the-seven-layers-24999853?u=76281980&t=42)** And once we learn what sorts of things happen in each layer of this model, that's going to let us better categorize our [[Hardware]] and software components and better visualize how they work together.
 >
 > **[0:54](https://www.linkedin.com/learning/networking-foundations-networking-basics/learning-the-seven-layers-24999853?u=76281980&t=54)** So let's take a look at these layers one at a time beginning with layer one, the physical layer.
 >
@@ -926,7 +906,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/networking-foundations-networking-basics/learning-the-seven-layers-24999853?u=76281980&t=106)** Moving up to layer three, we have the network layer.
 >
-> **[1:50](https://www.linkedin.com/learning/networking-foundations-networking-basics/learning-the-seven-layers-24999853?u=76281980&t=110)** This layer is concerned with logical addressing such as IP addressing.
+> **[1:50](https://www.linkedin.com/learning/networking-foundations-networking-basics/learning-the-seven-layers-24999853?u=76281980&t=110)** This layer is concerned with logical addressing such as [[IP Addressing]].
 >
 > **[1:56](https://www.linkedin.com/learning/networking-foundations-networking-basics/learning-the-seven-layers-24999853?u=76281980&t=116)** Do you remember the device in our discussion earlier that made forwarding decisions based on IP address information?
 >
@@ -948,7 +928,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/networking-foundations-networking-basics/learning-the-seven-layers-24999853?u=76281980&t=178)** Now the remaining layers, five through seven, they don't have any special name for data, but layer five is the session layer and it's concerned with establishing, monitoring, and then tearing down communication sessions between our hosts.
 >
-> **[3:14](https://www.linkedin.com/learning/networking-foundations-networking-basics/learning-the-seven-layers-24999853?u=76281980&t=194)** And you might hear the term APIs, and that stands for Application Programming Interfaces, and APIs let one's piece of software on one device talk to another piece of software on another device.
+> **[3:14](https://www.linkedin.com/learning/networking-foundations-networking-basics/learning-the-seven-layers-24999853?u=76281980&t=194)** And you might hear the term APIs, and that stands for [[Application Programming Interfaces (API)|Application Programming Interfaces]], and APIs let one's piece of software on one device talk to another piece of software on another device.
 >
 > **[3:28](https://www.linkedin.com/learning/networking-foundations-networking-basics/learning-the-seven-layers-24999853?u=76281980&t=208)** And those API sessions, they give us one example of something we might find here at layer five.
 >
@@ -966,7 +946,7 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/networking-foundations-networking-basics/learning-the-seven-layers-24999853?u=76281980&t=247)** If we're surfing the web, we're using a protocol like HTTP, which stands for hypertext transfer protocol; or HTTPS, which is short for secure HTTP.
 >
-> **[4:20](https://www.linkedin.com/learning/networking-foundations-networking-basics/learning-the-seven-layers-24999853?u=76281980&t=260)** If we know the name of a website, but not its IP address, what we can do is ask a DNS server and that DNS server will take the name that we provide and it's going to give us back the IP address corresponding to that name, and the protocol that makes that possible is domain name system or DNS.
+> **[4:20](https://www.linkedin.com/learning/networking-foundations-networking-basics/learning-the-seven-layers-24999853?u=76281980&t=260)** If we know the name of a website, but not its IP address, what we can do is ask a DNS server and that DNS server will take the name that we provide and it's going to give us back the IP address corresponding to that name, and the protocol that makes that possible is [[Domain Name System (DNS)|domain name system]] or DNS.
 >
 > **[4:40](https://www.linkedin.com/learning/networking-foundations-networking-basics/learning-the-seven-layers-24999853?u=76281980&t=280)** DNS is an example of something that lives here at layer seven.
 >
@@ -976,7 +956,7 @@ created: 2026-05-02
 >
 > **[5:05](https://www.linkedin.com/learning/networking-foundations-networking-basics/learning-the-seven-layers-24999853?u=76281980&t=305)** Alternately, we can go from the top down.
 >
-> **[5:08](https://www.linkedin.com/learning/networking-foundations-networking-basics/learning-the-seven-layers-24999853?u=76281980&t=308)** We can memorize All People Seem To Need Data Processing.
+> **[5:08](https://www.linkedin.com/learning/networking-foundations-networking-basics/learning-the-seven-layers-24999853?u=76281980&t=308)** We can memorize All People Seem To Need [[Data Processing]].
 >
 > **[5:14](https://www.linkedin.com/learning/networking-foundations-networking-basics/learning-the-seven-layers-24999853?u=76281980&t=314)** And the names that we gave our data at the bottom four layers, those names are called protocol data units or PDUs.
 >
@@ -992,15 +972,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), dns (4), [[Hardware]] (1), [[IP Addressing]] (1), [[Application Programming Interfaces (API)|Application programming interfaces]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (1), [[IP Addressing]] (1), [[Application Programming Interfaces (API)|Application programming interfaces]] (1), [[Domain Name System (DNS)|Domain name system]] (1), [[Data Processing]] (1)
 > **Env Vars:** osi (4), dns (4), tcp (2), udp (2), jpeg (2)
 > **Definitions:** stands for (3), is called (1), short for (1), is an  (1)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** picture (2), such as (1)
 > **Speakers:** - networks (1)
 
-#### Comparison to the TCP/IP model
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/comparison-to-the-tcp-ip-model-24999852?u=76281980)
+#### [Comparison to the TCP/IP model](https://www.linkedin.com/learning/networking-foundations-networking-basics/comparison-to-the-tcp-ip-model-24999852?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1034,14 +1013,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), data (2), next (1)
 > **Env Vars:** tcp (7), osi (5)
 > **Cross-References:** next video (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
-#### Common protocols to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/common-protocols-to-know-25000816?u=76281980)
+#### [Common protocols to know](https://www.linkedin.com/learning/networking-foundations-networking-basics/common-protocols-to-know-25000816?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1069,7 +1046,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/networking-foundations-networking-basics/common-protocols-to-know-25000816?u=76281980&t=71)** First is HTTP, or Hypertext Transfer Protocol.
 >
-> **[1:16](https://www.linkedin.com/learning/networking-foundations-networking-basics/common-protocols-to-know-25000816?u=76281980&t=76)** This is the protocol that we use when we're communicating with traditional web servers.
+> **[1:16](https://www.linkedin.com/learning/networking-foundations-networking-basics/common-protocols-to-know-25000816?u=76281980&t=76)** This is the protocol that we use when we're communicating with traditional [[Web Servers]].
 >
 > **[1:21](https://www.linkedin.com/learning/networking-foundations-networking-basics/common-protocols-to-know-25000816?u=76281980&t=81)** It uses TCP port 80.
 >
@@ -1083,13 +1060,13 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/networking-foundations-networking-basics/common-protocols-to-know-25000816?u=76281980&t=114)** I certainly don't make a habit of memorizing IP addresses.
 >
-> **[1:57](https://www.linkedin.com/learning/networking-foundations-networking-basics/common-protocols-to-know-25000816?u=76281980&t=117)** Instead, we'll probably use the name of that server, something like [LinkedIn.com](https://LinkedIn.com).
+> **[1:57](https://www.linkedin.com/learning/networking-foundations-networking-basics/common-protocols-to-know-25000816?u=76281980&t=117)** Instead, we'll probably use the name of that server, something like [[[LinkedIn]].com](https://LinkedIn.com).
 >
 > **[2:03](https://www.linkedin.com/learning/networking-foundations-networking-basics/common-protocols-to-know-25000816?u=76281980&t=123)** But to send packets to [LinkedIn.com](https://LinkedIn.com), we need to know [LinkedIn.com](https://LinkedIn.com)'s IP address.
 >
 > **[2:10](https://www.linkedin.com/learning/networking-foundations-networking-basics/common-protocols-to-know-25000816?u=76281980&t=130)** To get that information, we can ask a DNS server.
 >
-> **[2:14](https://www.linkedin.com/learning/networking-foundations-networking-basics/common-protocols-to-know-25000816?u=76281980&t=134)** DNS stands for Domain Name System.
+> **[2:14](https://www.linkedin.com/learning/networking-foundations-networking-basics/common-protocols-to-know-25000816?u=76281980&t=134)** DNS stands for [[Domain Name System (DNS)|Domain Name System]].
 >
 > **[2:17](https://www.linkedin.com/learning/networking-foundations-networking-basics/common-protocols-to-know-25000816?u=76281980&t=137)** And we communicate with that server using the DNS protocol, which can use either TCP or UDP port 53 and one of the protocols that we're going to be considering in more detail in the next chapter is Network Time Protocol, or NTP for short.
 >
@@ -1115,7 +1092,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (6), next (4), [[LinkedIn]] (3), dns (3), application (2)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Web Servers]] (1), [[Domain Name System (DNS)|Domain name system]] (1)
 > **Env Vars:** tcp (8), udp (6), ntp (5), dns (3), dhcp (3)
 > **Ports:** port 80 (2), port 443 (1), port 53 (1), port 123 (1), port 67 (1)
 > **URLs:** [linkedin.com](https://linkedin.com) (3)
@@ -1129,8 +1106,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### DHCP overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/dhcp-overview-25000813?u=76281980)
+#### [DHCP overview](https://www.linkedin.com/learning/networking-foundations-networking-basics/dhcp-overview-25000813?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1232,7 +1208,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (3), next (1), feature (1)
 > **Env Vars:** dhcp (30), dns (3), dora (1), ndp (1), eui (1)
 > **Versions:** version 6 (6), version 4 (3)
 > **UI Navigation:** go to (1), select the (1)
@@ -1241,8 +1216,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (2)
 > **Speakers:** - we (1)
 
-#### DNS overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/dns-overview-25000809?u=76281980)
+#### [DNS overview](https://www.linkedin.com/learning/networking-foundations-networking-basics/dns-overview-25000809?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1250,9 +1224,9 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/networking-foundations-networking-basics/dns-overview-25000809?u=76281980&t=12)** The issue is our routers forward traffic based on IP address information, not names.
 >
-> **[0:19](https://www.linkedin.com/learning/networking-foundations-networking-basics/dns-overview-25000809?u=76281980&t=19)** So we need to take those easy to remember names and translate them into the often harder to remember IP addresses, and that's the job of a DNS server where DNS stands for Domain Name System.
+> **[0:19](https://www.linkedin.com/learning/networking-foundations-networking-basics/dns-overview-25000809?u=76281980&t=19)** So we need to take those easy to remember names and translate them into the often harder to remember IP addresses, and that's the job of a DNS server where DNS stands for [[Domain Name System (DNS)|Domain Name System]].
 >
-> **[0:33](https://www.linkedin.com/learning/networking-foundations-networking-basics/dns-overview-25000809?u=76281980&t=33)** Consider this typology, where the PC it wants to reach the [linkedin.com](https://linkedin.com) web server.
+> **[0:33](https://www.linkedin.com/learning/networking-foundations-networking-basics/dns-overview-25000809?u=76281980&t=33)** Consider this typology, where the PC it wants to reach the [[[LinkedIn]].com](https://linkedin.com) web server.
 >
 > **[0:40](https://www.linkedin.com/learning/networking-foundations-networking-basics/dns-overview-25000809?u=76281980&t=40)** Usually an end-user device, like this PC, it knows the IP address of a DNS server, that's one of the pieces of information that it learned from its DHCP server, and if the PC does indeed know the IP address of the DNS server, it can send out a request to that DNS server saying, "Hey, what's the IP address of [linkedin.com](https://linkedin.com)?"
 >
@@ -1264,15 +1238,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (8), [[LinkedIn]] (3), web (2), traffic (1), [[Domain Name System (DNS)|Domain name system]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Domain Name System (DNS)|Domain name system]] (1)
 > **Env Vars:** dns (8), dhcp (1)
 > **URLs:** [linkedin.com](https://linkedin.com) (3)
 > **Versions:** 203.0.113 (1)
 > **Definitions:** stands for (1)
 > **Speakers:** - when (1)
 
-#### NAT overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/nat-overview-24999850?u=76281980)
+#### [NAT overview](https://www.linkedin.com/learning/networking-foundations-networking-basics/nat-overview-24999850?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1292,7 +1265,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/networking-foundations-networking-basics/nat-overview-24999850?u=76281980&t=55)** However, if we translate those private addresses into the publicly ratable addresses, not only does that let us use a huge number of IP addresses on the inside of our networks and have those IP addresses that translated into one or more publicly ratable IP addresses, it let's us use those same IP addresses in millions of homes and businesses around the world.
 >
-> **[1:21](https://www.linkedin.com/learning/networking-foundations-networking-basics/nat-overview-24999850?u=76281980&t=81)** It doesn't matter if your business uses the same IP address as someone else's office, because those private IP addresses never make it to the public internet.
+> **[1:21](https://www.linkedin.com/learning/networking-foundations-networking-basics/nat-overview-24999850?u=76281980&t=81)** It doesn't matter if your business uses the same IP address as someone else's [[Microsoft Office|office]], because those private IP addresses never make it to the public internet.
 >
 > **[1:32](https://www.linkedin.com/learning/networking-foundations-networking-basics/nat-overview-24999850?u=76281980&t=92)** Let's take a look at an example.
 >
@@ -1328,7 +1301,7 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/networking-foundations-networking-basics/nat-overview-24999850?u=76281980&t=239)** Well, let's define those terms.
 >
-> **[4:01](https://www.linkedin.com/learning/networking-foundations-networking-basics/nat-overview-24999850?u=76281980&t=241)** Since each of these begin with a word inside, they're referring to devices that live on the inside of our network, specifically client one and client two.
+> **[4:01](https://www.linkedin.com/learning/networking-foundations-networking-basics/nat-overview-24999850?u=76281980&t=241)** Since each of these begin with a [[Microsoft Word|word]] inside, they're referring to devices that live on the inside of our network, specifically client one and client two.
 >
 > **[4:11](https://www.linkedin.com/learning/networking-foundations-networking-basics/nat-overview-24999850?u=76281980&t=251)** These address names then end in the words, local and global.
 >
@@ -1398,7 +1371,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (9), traffic (4), [[Microsoft Word|Word]] (3), business (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Microsoft Office|Office]] (1)
 > **Versions:** 192.0.2 (6), 10.1.1 (4), 203.0.113 (3), 192.0.113 (1)
 > **Env Vars:** nat (10), pat (2)
 > **Definitions:** refers to (4), is called (2), is an  (1)
@@ -1407,8 +1380,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - earlier (1)
 
-#### NTP overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/ntp-overview-25205052?u=76281980)
+#### [NTP overview](https://www.linkedin.com/learning/networking-foundations-networking-basics/ntp-overview-25205052?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1478,15 +1450,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Troubleshooting]] (1)
 > **Env Vars:** ntp (6), udp (2), abc (1)
 > **CLI Commands:** make (2)
 > **File Paths:** d.c (1)
 > **Ports:** port 123 (1)
 > **Speakers:** - in (1)
 
-#### QoS overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/qos-overview-24998880?u=76281980)
+#### [QoS overview](https://www.linkedin.com/learning/networking-foundations-networking-basics/qos-overview-24998880?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1564,7 +1534,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (20), feature (2), next (2), business (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** imagine (2)
@@ -1576,8 +1545,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Types of wireless LANs
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/types-of-wireless-lans-25205055?u=76281980)
+#### [Types of wireless LANs](https://www.linkedin.com/learning/networking-foundations-networking-basics/types-of-wireless-lans-25205055?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1605,17 +1573,17 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/networking-foundations-networking-basics/types-of-wireless-lans-25205055?u=76281980&t=85)** Here, our wireless clients, like laptops or smartphones, they communicate directly with wireless access points.
 >
-> **[1:33](https://www.linkedin.com/learning/networking-foundations-networking-basics/types-of-wireless-lans-25205055?u=76281980&t=93)** Those access points then have hardwired connections to the rest of the network.
+> **[1:33](https://www.linkedin.com/learning/networking-foundations-networking-basics/types-of-wireless-lans-25205055?u=76281980&t=93)** Those access points then have hardwired connections to the [[Representational State Transfer (REST)|rest]] of the network.
 >
 > **[1:39](https://www.linkedin.com/learning/networking-foundations-networking-basics/types-of-wireless-lans-25205055?u=76281980&t=99)** This type of network is also very scalable.
 >
 > **[1:42](https://www.linkedin.com/learning/networking-foundations-networking-basics/types-of-wireless-lans-25205055?u=76281980&t=102)** If we want to support additional wireless clients, we simply add additional access points, or if we want to extend the range of our wireless coverage throughout a building, we could strategically place wireless access points throughout that building, allowing us to roam throughout the building seamlessly without having to manually do any reconnection to another access point.
 >
-> **[2:06](https://www.linkedin.com/learning/networking-foundations-networking-basics/types-of-wireless-lans-25205055?u=76281980&t=126)** And beyond the scalability of infrastructure wireless LANs, these types of LANs could give us additional management and monitoring features that we wouldn't have with an ad hoc wireless network.
+> **[2:06](https://www.linkedin.com/learning/networking-foundations-networking-basics/types-of-wireless-lans-25205055?u=76281980&t=126)** And beyond the [[Scalability]] of infrastructure wireless LANs, these types of LANs could give us additional management and monitoring features that we wouldn't have with an ad hoc wireless network.
 >
 > **[2:19](https://www.linkedin.com/learning/networking-foundations-networking-basics/types-of-wireless-lans-25205055?u=76281980&t=139)** For example, we could see the number of wireless clients connected right now to the network, we could check bandwidth utilization, we could configure security, where, for example, somebody connecting to our network as a guest, they wouldn't have access to any of our corporate servers.
 >
-> **[2:37](https://www.linkedin.com/learning/networking-foundations-networking-basics/types-of-wireless-lans-25205055?u=76281980&t=157)** And one final type of wireless LAN we'll consider is a mesh wireless LAN.
+> **[2:37](https://www.linkedin.com/learning/networking-foundations-networking-basics/types-of-wireless-lans-25205055?u=76281980&t=157)** And one final type of wireless LAN we'll consider is a [[Mesh]] wireless LAN.
 >
 > **[2:43](https://www.linkedin.com/learning/networking-foundations-networking-basics/types-of-wireless-lans-25205055?u=76281980&t=163)** Now we know that we can extend the coverage area of our wireless network by adding access points.
 >
@@ -1647,7 +1615,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** lan (7), [[Mesh]] (3), [[Security]] (2), power (2), business (1)
+> **Frameworks & Libraries:** [[Mesh]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Scalability]] (1)
 > **Env Vars:** lan (7)
 > **Analogies:** for example (3), such as (1)
 > **Definitions:** is an  (2), is a  (1)
@@ -1656,8 +1624,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - let (1)
 
-#### 2.4 GHz vs. 5 GHz wireless networking
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/2-4-ghz-vs-5-ghz-wireless-networking-25204204?u=76281980)
+#### [2.4 GHz vs. 5 GHz wireless networking](https://www.linkedin.com/learning/networking-foundations-networking-basics/2-4-ghz-vs-5-ghz-wireless-networking-25204204?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1755,8 +1722,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - wireless (1)
 
-#### 6 GHz frequency band
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/6-ghz-freqency-band?u=76281980)
+#### [6 GHz frequency band](https://www.linkedin.com/learning/networking-foundations-networking-basics/6-ghz-freqency-band?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1774,13 +1740,13 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/networking-foundations-networking-basics/6-ghz-freqency-band?u=76281980&t=67)** And while the six gigahertz band supports higher data rates than the 2.4 gigahertz or five gigahertz bands, the trade-off is its shorter range.
 >
-> **[1:16](https://www.linkedin.com/learning/networking-foundations-networking-basics/6-ghz-freqency-band?u=76281980&t=76)** Also, being a higher frequency makes the six gigahertz band more susceptible to signal degradation by objects in an environment, such as office furniture.
+> **[1:16](https://www.linkedin.com/learning/networking-foundations-networking-basics/6-ghz-freqency-band?u=76281980&t=76)** Also, being a higher frequency makes the six gigahertz band more susceptible to signal degradation by objects in an environment, such as [[Microsoft Office|office]] furniture.
 >
 > **[1:26](https://www.linkedin.com/learning/networking-foundations-networking-basics/6-ghz-freqency-band?u=76281980&t=86)** And when the six gigahertz band was approved for use by Wi-Fi networks, the decision was made that Wi-Fi networks operating in the six gigahertz band must support the newer WPA3 security standard in order for this new spectrum to offer strong security.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), data (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **Env Vars:** ieee (1), wpa3 (1)
 > **Versions:** 2.4 (2)
 > **Cross-References:** we discussed (1), previous video (1)
@@ -1788,8 +1754,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Wireless network antenna types
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/wireless-network-antenna-types-25000811?u=76281980)
+#### [Wireless network antenna types](https://www.linkedin.com/learning/networking-foundations-networking-basics/wireless-network-antenna-types-25000811?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1813,7 +1778,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/networking-foundations-networking-basics/wireless-network-antenna-types-25000811?u=76281980&t=46)** That means most of the signal strength will be going in a horizontal direction.
 >
-> **[0:51](https://www.linkedin.com/learning/networking-foundations-networking-basics/wireless-network-antenna-types-25000811?u=76281980&t=51)** So if you put this in the middle of an office, you would want the antenna to stay vertical, like we see here.
+> **[0:51](https://www.linkedin.com/learning/networking-foundations-networking-basics/wireless-network-antenna-types-25000811?u=76281980&t=51)** So if you put this in the middle of an [[Microsoft Office|office]], you would want the antenna to stay vertical, like we see here.
 >
 > **[0:58](https://www.linkedin.com/learning/networking-foundations-networking-basics/wireless-network-antenna-types-25000811?u=76281980&t=58)** If you laid them flat, then most of the signal would go up to the ceiling and down to the floor, with not nearly as much signal reaching devices within the office.
 >
@@ -1835,7 +1800,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), business (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2)
 > **Env Vars:** mimo (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** stands for (1)
@@ -1847,8 +1812,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Software-defined networking (SDN)
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/software-defined-networking-sdn-24999851?u=76281980)
+#### [Software-defined networking (SDN)](https://www.linkedin.com/learning/networking-foundations-networking-basics/software-defined-networking-sdn-24999851?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1890,7 +1854,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/networking-foundations-networking-basics/software-defined-networking-sdn-24999851?u=76281980&t=124)** Since we typically represent our network devices living below our SDN controller, in other words, south of the controller, we say that this communication happens with Southbound Interfaces.
 >
-> **[2:17](https://www.linkedin.com/learning/networking-foundations-networking-basics/software-defined-networking-sdn-24999851?u=76281980&t=137)** And here, the word interfaces refers to application programing interfaces or APIs for short.
+> **[2:17](https://www.linkedin.com/learning/networking-foundations-networking-basics/software-defined-networking-sdn-24999851?u=76281980&t=137)** And here, the [[Microsoft Word|word]] interfaces refers to application programing interfaces or APIs for short.
 >
 > **[2:26](https://www.linkedin.com/learning/networking-foundations-networking-basics/software-defined-networking-sdn-24999851?u=76281980&t=146)** An API is something that lets two pieces of software communicate with each other.
 >
@@ -1914,9 +1878,9 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/networking-foundations-networking-basics/software-defined-networking-sdn-24999851?u=76281980&t=218)** And these applications, they might be in the form of graphical interfaces that we interact with or we might be writing or customizing code for a program.
 >
-> **[3:48](https://www.linkedin.com/learning/networking-foundations-networking-basics/software-defined-networking-sdn-24999851?u=76281980&t=228)** These programs are typically written using the Python programming language.
+> **[3:48](https://www.linkedin.com/learning/networking-foundations-networking-basics/software-defined-networking-sdn-24999851?u=76281980&t=228)** These programs are typically written using the [[Python (Programming Language)|Python]] programming language.
 >
-> **[3:53](https://www.linkedin.com/learning/networking-foundations-networking-basics/software-defined-networking-sdn-24999851?u=76281980&t=233)** And the specific way the application communicates with the SDN controller is called Representational State Transfer or REST for short.
+> **[3:53](https://www.linkedin.com/learning/networking-foundations-networking-basics/software-defined-networking-sdn-24999851?u=76281980&t=233)** And the specific way the application communicates with the SDN controller is called [[Representational State Transfer (REST)|Representational State Transfer]] or [[Representational State Transfer (REST)|REST]] for short.
 >
 > **[4:03](https://www.linkedin.com/learning/networking-foundations-networking-basics/software-defined-networking-sdn-24999851?u=76281980&t=243)** REST communicates with an SDN controller in much the same way that a web browser communicates with a web server, using HTTP instructions.
 >
@@ -1926,7 +1890,7 @@ created: 2026-05-02
 >
 > **[4:34](https://www.linkedin.com/learning/networking-foundations-networking-basics/software-defined-networking-sdn-24999851?u=76281980&t=274)** And the final thing we'll consider with SDN is how we format data flowing between an application and an SDN controller.
 >
-> **[4:43](https://www.linkedin.com/learning/networking-foundations-networking-basics/software-defined-networking-sdn-24999851?u=76281980&t=283)** The two most commonly used formatting languages are XML, or Extensible Markup Language, and JSON or JavaScript Object Notation.
+> **[4:43](https://www.linkedin.com/learning/networking-foundations-networking-basics/software-defined-networking-sdn-24999851?u=76281980&t=283)** The two most commonly used formatting languages are XML, or Extensible Markup Language, and [[JSON]] or [[JavaScript]] Object Notation.
 >
 > **[4:52](https://www.linkedin.com/learning/networking-foundations-networking-basics/software-defined-networking-sdn-24999851?u=76281980&t=292)** Now, obviously, there is a lot to learn when it comes to SDN.
 >
@@ -1934,7 +1898,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), [[Representational State Transfer (REST)|Rest]] (3), web (3), [[Security]] (1), express (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[Microsoft Word|Word]] (1), [[Python (Programming Language)|Python]] (1), [[Representational State Transfer (REST)|Representational state transfer]] (1), [[JSON]] (1)
 > **Env Vars:** sdn (25), rest (3), http (3), api (1), sbi (1)
 > **Definitions:** stands for (2), is called (2), in other words (1), is a  (1)
 > **CLI Commands:** make (3), python (1)
@@ -1942,8 +1906,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - one (1)
 
-#### Virtualization
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/virtualization-25201756?u=76281980)
+#### [Virtualization](https://www.linkedin.com/learning/networking-foundations-networking-basics/virtualization-25201756?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1955,9 +1918,9 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/networking-foundations-networking-basics/virtualization-25201756?u=76281980&t=21)** Fortunately, an alternative we have today is to have a single physical server and install multiple virtual servers on that physical server.
 >
-> **[0:31](https://www.linkedin.com/learning/networking-foundations-networking-basics/virtualization-25201756?u=76281980&t=31)** Here's an example, let's say that our business needs a Microsoft Windows Server, a Linux Server, and an Oracle Solaris Server.
+> **[0:31](https://www.linkedin.com/learning/networking-foundations-networking-basics/virtualization-25201756?u=76281980&t=31)** Here's an example, let's say that our business needs a [[Microsoft]] [[Windows Server]], a [[Linux]] Server, and an Oracle Solaris Server.
 >
-> **[0:40](https://www.linkedin.com/learning/networking-foundations-networking-basics/virtualization-25201756?u=76281980&t=40)** We could have a physical server for each of those, or we could have a single physical server on which we install three virtual servers as virtual machines.
+> **[0:40](https://www.linkedin.com/learning/networking-foundations-networking-basics/virtualization-25201756?u=76281980&t=40)** We could have a physical server for each of those, or we could have a single physical server on which we install three virtual servers as [[Virtual Machines]].
 >
 > **[0:52](https://www.linkedin.com/learning/networking-foundations-networking-basics/virtualization-25201756?u=76281980&t=52)** The way this works is we have a single physical server that's hosting our three virtual servers and that physical server is running a piece of software called a hypervisor.
 >
@@ -1971,7 +1934,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/networking-foundations-networking-basics/virtualization-25201756?u=76281980&t=85)** For example, we can allocate different amounts of memory and hard drive space to each virtual server.
 >
-> **[1:32](https://www.linkedin.com/learning/networking-foundations-networking-basics/virtualization-25201756?u=76281980&t=92)** And if we want, they can all share the same connection or connections out to the rest of the world.
+> **[1:32](https://www.linkedin.com/learning/networking-foundations-networking-basics/virtualization-25201756?u=76281980&t=92)** And if we want, they can all share the same connection or connections out to the [[Representational State Transfer (REST)|rest]] of the world.
 >
 > **[1:38](https://www.linkedin.com/learning/networking-foundations-networking-basics/virtualization-25201756?u=76281980&t=98)** And here are two types of hypervisors that I want you to know about.
 >
@@ -1983,7 +1946,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/networking-foundations-networking-basics/virtualization-25201756?u=76281980&t=124)** Now type two hypervisor that is installed on top of an existing operating system.
 >
-> **[2:10](https://www.linkedin.com/learning/networking-foundations-networking-basics/virtualization-25201756?u=76281980&t=130)** For example, I typically use a Mac and from time to time, I need to do something in Microsoft Windows.
+> **[2:10](https://www.linkedin.com/learning/networking-foundations-networking-basics/virtualization-25201756?u=76281980&t=130)** For example, I typically use a Mac and from time to time, I need to do something in Microsoft [[Windows]].
 >
 > **[2:16](https://www.linkedin.com/learning/networking-foundations-networking-basics/virtualization-25201756?u=76281980&t=136)** So what I've done is install a type two hypervisor on my Mac and then install Microsoft Windows on top of that.
 >
@@ -2015,29 +1978,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (7), [[Windows]] (6), [[Virtual Machines]] (3), power (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft]] (7), [[Windows]] (6), [[Virtual Machines]] (3), [[Windows Server]] (1), [[Linux]] (1)
 > **Prerequisites:** install (5)
 > **Analogies:** for example (2)
 > **CLI Commands:** docker (1)
 > **Env Vars:** dvd (1)
 > **Speakers:** - back (1)
 
-#### Cloud technologies
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/cloud-technologies-25205053?u=76281980)
+#### [Cloud technologies](https://www.linkedin.com/learning/networking-foundations-networking-basics/cloud-technologies-25205053?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/networking-foundations-networking-basics/cloud-technologies-25205053?u=76281980&t=1)** - In our previous video, we saw how we could save computer resources by having multiple virtual machines run on a single physical machine.
+> **[0:01](https://www.linkedin.com/learning/networking-foundations-networking-basics/cloud-technologies-25205053?u=76281980&t=1)** - In our previous video, we saw how we could save computer resources by having multiple [[Virtual Machines]] run on a single physical machine.
 >
 > **[0:10](https://www.linkedin.com/learning/networking-foundations-networking-basics/cloud-technologies-25205053?u=76281980&t=10)** Now let's extend that discussion by asking, where do those physical servers reside?
 >
-> **[0:15](https://www.linkedin.com/learning/networking-foundations-networking-basics/cloud-technologies-25205053?u=76281980&t=15)** We might be able to allocate some space in our building complete with physical security, redundant power, potentially large HVAC systems, but even if we do have a suitable place to put all those physical servers, still it's our responsibility to continually maintain and update that hardware.
+> **[0:15](https://www.linkedin.com/learning/networking-foundations-networking-basics/cloud-technologies-25205053?u=76281980&t=15)** We might be able to allocate some space in our building complete with physical security, redundant power, potentially large HVAC systems, but even if we do have a suitable place to put all those physical servers, still it's our responsibility to continually maintain and update that [[Hardware]].
 >
 > **[0:35](https://www.linkedin.com/learning/networking-foundations-networking-basics/cloud-technologies-25205053?u=76281980&t=35)** And also, we might need to purchase more hardware that we typically need just to handle a few peak usage times.
 >
 > **[0:42](https://www.linkedin.com/learning/networking-foundations-networking-basics/cloud-technologies-25205053?u=76281980&t=42)** An alternative approach is to have those physical servers reside in a data center of a cloud provider.
 >
-> **[0:49](https://www.linkedin.com/learning/networking-foundations-networking-basics/cloud-technologies-25205053?u=76281980&t=49)** A couple of cloud provider, examples include Amazon Web Services or AWS and Microsoft Azure.
+> **[0:49](https://www.linkedin.com/learning/networking-foundations-networking-basics/cloud-technologies-25205053?u=76281980&t=49)** A couple of cloud provider, examples include [[Amazon Web Services (AWS)|Amazon Web Services]] or AWS and [[Microsoft Azure]].
 >
 > **[0:56](https://www.linkedin.com/learning/networking-foundations-networking-basics/cloud-technologies-25205053?u=76281980&t=56)** Cloud providers like these own and manage the equipment.
 >
@@ -2051,15 +2013,15 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/networking-foundations-networking-basics/cloud-technologies-25205053?u=76281980&t=85)** And these cloud providers offer us plenty of cloud-based services beyond just providing a remote place to store our data.
 >
-> **[1:33](https://www.linkedin.com/learning/networking-foundations-networking-basics/cloud-technologies-25205053?u=76281980&t=93)** For example, software as a service or SaaS lets us access applications through a web browser.
+> **[1:33](https://www.linkedin.com/learning/networking-foundations-networking-basics/cloud-technologies-25205053?u=76281980&t=93)** For example, [[SaaS|software as a service]] or [[SaaS]] lets us access applications through a web browser.
 >
-> **[1:40](https://www.linkedin.com/learning/networking-foundations-networking-basics/cloud-technologies-25205053?u=76281980&t=100)** A SaaS application I use a lot is Google's G Suite, which gives me access to Gmail, Google Calendar, Google Sheets, lots of other applications.
+> **[1:40](https://www.linkedin.com/learning/networking-foundations-networking-basics/cloud-technologies-25205053?u=76281980&t=100)** A SaaS application I use a lot is [[Google]]'s G Suite, which gives me access to Gmail, Google Calendar, Google Sheets, lots of other applications.
 >
-> **[1:51](https://www.linkedin.com/learning/networking-foundations-networking-basics/cloud-technologies-25205053?u=76281980&t=111)** Infrastructure as a service, or IaaS, is often the first thing that comes to my mind when I hear cloud computing.
+> **[1:51](https://www.linkedin.com/learning/networking-foundations-networking-basics/cloud-technologies-25205053?u=76281980&t=111)** [[IaaS|Infrastructure as a service]], or [[IaaS]], is often the first thing that comes to my mind when I hear [[Cloud Computing]].
 >
 > **[1:59](https://www.linkedin.com/learning/networking-foundations-networking-basics/cloud-technologies-25205053?u=76281980&t=119)** Specifically, IaaS let's us access compute and storage resources in the cloud.
 >
-> **[2:05](https://www.linkedin.com/learning/networking-foundations-networking-basics/cloud-technologies-25205053?u=76281980&t=125)** Software developers often benefit from using platform as a service, or PaaS, to have virtual access to a wide variety of computing platforms that they're developing software for.
+> **[2:05](https://www.linkedin.com/learning/networking-foundations-networking-basics/cloud-technologies-25205053?u=76281980&t=125)** Software developers often benefit from using [[PaaS|platform as a service]], or [[PaaS]], to have virtual access to a wide variety of computing platforms that they're developing software for.
 >
 > **[2:17](https://www.linkedin.com/learning/networking-foundations-networking-basics/cloud-technologies-25205053?u=76281980&t=137)** That way, their company doesn't have to buy lots of hardware to develop for.
 >
@@ -2079,9 +2041,9 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/networking-foundations-networking-basics/cloud-technologies-25205053?u=76281980&t=186)** And many organizations, they use both.
 >
-> **[3:09](https://www.linkedin.com/learning/networking-foundations-networking-basics/cloud-technologies-25205053?u=76281980&t=189)** They have both public and private cloud computing and that type of deployment is called a hybrid cloud.
+> **[3:09](https://www.linkedin.com/learning/networking-foundations-networking-basics/cloud-technologies-25205053?u=76281980&t=189)** They have both public and private cloud computing and that type of deployment is called a [[Hybrid Cloud]].
 >
-> **[3:16](https://www.linkedin.com/learning/networking-foundations-networking-basics/cloud-technologies-25205053?u=76281980&t=196)** And finally, let's consider how we physically connect our office with a cloud provider.
+> **[3:16](https://www.linkedin.com/learning/networking-foundations-networking-basics/cloud-technologies-25205053?u=76281980&t=196)** And finally, let's consider how we physically connect our [[Microsoft Office|office]] with a cloud provider.
 >
 > **[3:22](https://www.linkedin.com/learning/networking-foundations-networking-basics/cloud-technologies-25205053?u=76281980&t=202)** The most common approach is to use the internet.
 >
@@ -2089,7 +2051,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/networking-foundations-networking-basics/cloud-technologies-25205053?u=76281980&t=208)** So what we can do is set up a virtual connection between our location and the cloud provider.
 >
-> **[3:35](https://www.linkedin.com/learning/networking-foundations-networking-basics/cloud-technologies-25205053?u=76281980&t=215)** This virtual connection is called a virtual private network, or VPN, and we can encrypt data flowing over that VPN.
+> **[3:35](https://www.linkedin.com/learning/networking-foundations-networking-basics/cloud-technologies-25205053?u=76281980&t=215)** This virtual connection is called a [[Virtual Private Network (VPN)|virtual private network]], or VPN, and we can encrypt data flowing over that VPN.
 >
 > **[3:43](https://www.linkedin.com/learning/networking-foundations-networking-basics/cloud-technologies-25205053?u=76281980&t=223)** That way, if somebody were to intercept our data in transit, they wouldn't be able to read any of that data because it would be all scrambled up or encrypted.
 >
@@ -2097,7 +2059,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (21), data (6), [[Hardware]] (4), power (3), [[Google]] (3)
+> **Frameworks & Libraries:** [[Hardware]] (4), [[Google]] (3), [[Cloud Computing]] (3), [[SaaS]] (2), [[IaaS]] (2)
 > **Env Vars:** vpn (2), hvac (1), aws (1)
 > **CLI Commands:** aws (1), make (1)
 > **Definitions:** is called (2)
@@ -2106,8 +2068,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - in (1)
 
-#### 5G and Wi-Fi 6
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/5g-and-wi-fi-6-25205054?u=76281980)
+#### [5G and Wi-Fi 6](https://www.linkedin.com/learning/networking-foundations-networking-basics/5g-and-wi-fi-6-25205054?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2115,7 +2076,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/networking-foundations-networking-basics/5g-and-wi-fi-6-25205054?u=76281980&t=9)** In fact, these technologies, they often run faster than our high speed wired LANs, which might be running at a gigabit per second.
 >
-> **[0:17](https://www.linkedin.com/learning/networking-foundations-networking-basics/5g-and-wi-fi-6-25205054?u=76281980&t=17)** These two technologies are 5G and Wi-Fi 6, where 5G is a cellular data service and Wi-Fi 6 is a wireless LAN standard.
+> **[0:17](https://www.linkedin.com/learning/networking-foundations-networking-basics/5g-and-wi-fi-6-25205054?u=76281980&t=17)** These two technologies are [[5G]] and Wi-Fi 6, where 5G is a cellular data service and Wi-Fi 6 is a wireless LAN standard.
 >
 > **[0:27](https://www.linkedin.com/learning/networking-foundations-networking-basics/5g-and-wi-fi-6-25205054?u=76281980&t=27)** First, let's consider 5G which stands for the fifth generation of cellular technology.
 >
@@ -2135,7 +2096,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/networking-foundations-networking-basics/5g-and-wi-fi-6-25205054?u=76281980&t=89)** Now, that means that wavelengths of one of these radio waves is very small on the order of millimeters and these higher frequencies, they allow us to squeeze more data into a transmission.
 >
-> **[1:42](https://www.linkedin.com/learning/networking-foundations-networking-basics/5g-and-wi-fi-6-25205054?u=76281980&t=102)** The challenge with that is those high frequencies, they get absorbed by walls and windows and lots of other material much more so than frequencies used by 4G.
+> **[1:42](https://www.linkedin.com/learning/networking-foundations-networking-basics/5g-and-wi-fi-6-25205054?u=76281980&t=102)** The challenge with that is those high frequencies, they get absorbed by walls and [[Windows]] and lots of other material much more so than frequencies used by 4G.
 >
 > **[1:53](https://www.linkedin.com/learning/networking-foundations-networking-basics/5g-and-wi-fi-6-25205054?u=76281980&t=113)** For example, have you ever seen the submarine movie where a sub needs to send a transmission without coming up to the surface?
 >
@@ -2201,7 +2162,7 @@ created: 2026-05-02
 >
 > **[6:21](https://www.linkedin.com/learning/networking-foundations-networking-basics/5g-and-wi-fi-6-25205054?u=76281980&t=381)** That cuts down on the issue of having multiple clients contending for the same bandwidth at the same time.
 >
-> **[6:27](https://www.linkedin.com/learning/networking-foundations-networking-basics/5g-and-wi-fi-6-25205054?u=76281980&t=387)** That's going to give us less latency and also since a client knows when it's going to be allowed to transmit and receive, it can put its radio into a low power mode the rest of the time, that's going to give us some power savings.
+> **[6:27](https://www.linkedin.com/learning/networking-foundations-networking-basics/5g-and-wi-fi-6-25205054?u=76281980&t=387)** That's going to give us less latency and also since a client knows when it's going to be allowed to transmit and receive, it can put its radio into a low power mode the [[Representational State Transfer (REST)|rest]] of the time, that's going to give us some power savings.
 >
 > **[6:40](https://www.linkedin.com/learning/networking-foundations-networking-basics/5g-and-wi-fi-6-25205054?u=76281980&t=400)** It also supports basic service set or BSS coloring, which allows nearby access points to distinguish between wireless transmissions for different networks that are using the same frequency.
 >
@@ -2209,7 +2170,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[5G]] (16), data (3), power (2), lan (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[5G]] (16), [[Windows]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (3), means that (2), stands for (1), in other words (1), is called (1)
 > **Env Vars:** lan (1), vlf (1), ieee (1), qam (1), ofdma (1)
 > **Versions:** 1.5 (1), 2.4 (1), 9.6 (1), 3.5 (1)
@@ -2223,16 +2184,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Keep networking
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/keep-networking-25201753?u=76281980)
+#### [Keep networking](https://www.linkedin.com/learning/networking-foundations-networking-basics/keep-networking-25201753?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/networking-foundations-networking-basics/keep-networking-25201753?u=76281980&t=1)** - Now that you've completed the Networking Basics course, which essentially gave you a sampler platter of networking technologies, you might want to go deeper with me into one or more of the technologies we discussed.
 >
-> **[0:12](https://www.linkedin.com/learning/networking-foundations-networking-basics/keep-networking-25201753?u=76281980&t=12)** If you're new to IP addressing, I recommend you check out my LinkedIn course, "Learning IP Addressing," which is a non-mathematical look at IP addressing.
+> **[0:12](https://www.linkedin.com/learning/networking-foundations-networking-basics/keep-networking-25201753?u=76281980&t=12)** If you're new to [[IP Addressing]], I recommend you check out my [[LinkedIn]] course, "Learning IP Addressing," which is a non-mathematical look at IP addressing.
 >
-> **[0:21](https://www.linkedin.com/learning/networking-foundations-networking-basics/keep-networking-25201753?u=76281980&t=21)** Then, I recommend you follow that up with my LinkedIn course, "Learning Subnetting," and you'll remember, we discussed wireless networking a good bit in this course.
+> **[0:21](https://www.linkedin.com/learning/networking-foundations-networking-basics/keep-networking-25201753?u=76281980&t=21)** Then, I recommend you follow that up with my LinkedIn course, "Learning Subnetting," and you'll remember, we discussed [[Wireless Networking]] a good bit in this course.
 >
 > **[0:31](https://www.linkedin.com/learning/networking-foundations-networking-basics/keep-networking-25201753?u=76281980&t=31)** If you'd like to dive deeper into wireless networking, I recommend my LinkedIn course, "Wireless Networking Essentials," and if you've already been working with networks for awhile and you want to learn advanced networking theory and configuration for Cisco devices, please check out my LinkedIn course, "Cisco CCNP ENCORE," that's for exam number 350-401.
 >

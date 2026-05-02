@@ -96,8 +96,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Economic forecasting
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/economic-forecasting?u=76281980)
+#### [Economic forecasting](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/economic-forecasting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -105,7 +104,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/economic-forecasting?u=76281980&t=3)** I'm a professor of finance and consultant to industry.
 >
-> **[0:06](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/economic-forecasting?u=76281980&t=6)** I've been teaching forecasting, using data for more than a decade to financial firms Fortune 500 companies and government agencies.
+> **[0:06](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/economic-forecasting?u=76281980&t=6)** I've been teaching [[Forecasting]], using data for more than a decade to financial firms Fortune 500 companies and government agencies.
 >
 > **[0:14](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/economic-forecasting?u=76281980&t=14)** In this course, I'm going to show you how to effectively use economic data in practical business forecasting settings.
 >
@@ -119,18 +118,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Forecasting]] (2), business (2), [[Analytics]] (1), career (1)
+> **Frameworks & Libraries:** [[Forecasting]] (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - hello (1)
 
-#### What you should know before watching this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/what-you-should-know-before-watching-this-course?u=76281980)
+#### [What you should know before watching this course](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/what-you-should-know-before-watching-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/what-you-should-know-before-watching-this-course?u=76281980&t=0)** - [Instructor] Before getting started with this course, there's a few things that you should know.
 >
-> **[0:04](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/what-you-should-know-before-watching-this-course?u=76281980&t=4)** First of all, we'll be using Excel extensively throughout the course, as a tool for making forecasts in a variety of settings.
+> **[0:04](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/what-you-should-know-before-watching-this-course?u=76281980&t=4)** First of all, we'll be using [[Microsoft Excel|Excel]] extensively throughout the course, as a tool for making forecasts in a variety of settings.
 >
 > **[0:13](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/what-you-should-know-before-watching-this-course?u=76281980&t=13)** You should be familiar with Excel.
 >
@@ -138,7 +136,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/what-you-should-know-before-watching-this-course?u=76281980&t=29)** It'll also be helpful if you have some experience with the Analysis ToolPak in Excel, as we'll be relying heavily on that.
 >
-> **[0:36](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/what-you-should-know-before-watching-this-course?u=76281980&t=36)** In addition to a knowledge of Excel, you'll want to have some basic knowledge of statistics, in particular, a minimal knowledge of descriptive statistics like means and medians is helpful.
+> **[0:36](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/what-you-should-know-before-watching-this-course?u=76281980&t=36)** In addition to a knowledge of Excel, you'll want to have some basic knowledge of [[Statistics]], in particular, a minimal knowledge of descriptive statistics like means and medians is helpful.
 >
 > **[0:48](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/what-you-should-know-before-watching-this-course?u=76281980&t=48)** It'll also be great if you have some background in regression analysis or more advanced statistics as well.
 >
@@ -159,12 +157,11 @@ created: 2026-05-02
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/using-the-exercise-files?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/using-the-exercise-files?u=76281980&t=0)** - [Instructor] In this course, we'll be using a variety of Excel files as we go through the videos.
+> **[0:00](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/using-the-exercise-files?u=76281980&t=0)** - [Instructor] In this course, we'll be using a variety of [[Microsoft Excel|Excel]] files as we go through the videos.
 >
 > **[0:05](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/using-the-exercise-files?u=76281980&t=5)** If you wish to follow along with these exercises, you'll want to download the Exercise Files folder to somewhere accessible on your Desktop.
 >
@@ -189,12 +186,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Basics of economic analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/basics-of-economic-analysis?u=76281980)
+#### [Basics of economic analysis](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/basics-of-economic-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/basics-of-economic-analysis?u=76281980&t=0)** - [Instructor] Economic forecasting is complex.
+> **[0:00](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/basics-of-economic-analysis?u=76281980&t=0)** - [Instructor] Economic [[Forecasting]] is complex.
 >
 > **[0:02](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/basics-of-economic-analysis?u=76281980&t=2)** Most economic forecasts are built on three key parts, data, econometrics, and judgment.
 >
@@ -236,18 +232,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Forecasting]] (1), product (1), business (1)
+> **Frameworks & Libraries:** [[Forecasting]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** means that (1), is a  (1)
 > **Env Vars:** gdp (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sources of economic data
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/sources-of-economic-data?u=76281980)
+#### [Sources of economic data](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/sources-of-economic-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/sources-of-economic-data?u=76281980&t=0)** - [Instructor] One of the first steps that you're going to take when starting any kind of business intelligence or data analytics project is to gather data.
+> **[0:00](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/sources-of-economic-data?u=76281980&t=0)** - [Instructor] One of the first steps that you're going to take when starting any kind of [[Business Intelligence (BI)|business intelligence]] or data analytics project is to gather data.
 >
 > **[0:08](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/sources-of-economic-data?u=76281980&t=8)** All businesses out there have access to lots of data.
 >
@@ -263,7 +258,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/sources-of-economic-data?u=76281980&t=35)** First, you can buy it.
 >
-> **[0:36](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/sources-of-economic-data?u=76281980&t=36)** For a lot of financial data out there, or very customized and specific data, buying it is your only choice.
+> **[0:36](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/sources-of-economic-data?u=76281980&t=36)** For a lot of [[Financial Data]] out there, or very customized and specific data, buying it is your only choice.
 >
 > **[0:42](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/sources-of-economic-data?u=76281980&t=42)** Second, you can build your own dataset.
 >
@@ -291,17 +286,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Business Intelligence (BI)|Business intelligence]] (1), [[Analytics]] (1), [[Financial Data]] (1)
+> **Frameworks & Libraries:** [[Business Intelligence (BI)|Business intelligence]] (1), [[Financial Data]] (1)
 > **Analogies:** such as (1), for example (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Economic forecasting methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/economic-forecasting-methods?u=76281980)
+#### [Economic forecasting methods](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/economic-forecasting-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/economic-forecasting-methods?u=76281980&t=0)** - [Instructor] There are three methods of forecasting that are commonly used in economics and business analytics, causal methods, time series methods, and qualitative methods.
+> **[0:00](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/economic-forecasting-methods?u=76281980&t=0)** - [Instructor] There are three methods of [[Forecasting]] that are commonly used in economics and [[Business Analytics]], causal methods, time series methods, and qualitative methods.
 >
 > **[0:10](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/economic-forecasting-methods?u=76281980&t=10)** Each of these three different methods has various tools and techniques that fall underneath the silo in question.
 >
@@ -309,7 +303,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/economic-forecasting-methods?u=76281980&t=22)** Causal methods typically involves regression analysis and some of the different types of specialized regression analysis that are going to be useful in various circumstances.
 >
-> **[0:32](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/economic-forecasting-methods?u=76281980&t=32)** Time series methods often involves various forms of trend analysis, things like exponential smoothing, trend prediction, et cetera.
+> **[0:32](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/economic-forecasting-methods?u=76281980&t=32)** Time series methods often involves various [[Forms]] of trend analysis, things like exponential smoothing, trend prediction, et cetera.
 >
 > **[0:41](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/economic-forecasting-methods?u=76281980&t=41)** And then qualitative methods involve using surveys and other subjective ad hoc methods of gathering data in order to make predictions.
 >
@@ -323,7 +317,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/economic-forecasting-methods?u=76281980&t=84)** They have to be more than what we call spurious correlation.
 >
-> **[1:28](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/economic-forecasting-methods?u=76281980&t=88)** There's an old story in statistics which is perhaps apocryphal but nonetheless illustrates this concept.
+> **[1:28](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/economic-forecasting-methods?u=76281980&t=88)** There's an old story in [[Statistics]] which is perhaps apocryphal but nonetheless illustrates this concept.
 >
 > **[1:35](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/economic-forecasting-methods?u=76281980&t=95)** The story is that the number of births in India has a very strong correlation to wind speeds in Chicago.
 >
@@ -367,14 +361,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Forecasting]] (6), business (2), [[Forms]] (2), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Forecasting]] (6), [[Forms]] (2), [[Business Analytics]] (1), [[Statistics]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** vix (2), gdp (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Regression analysis in economics
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/regression-analysis-in-economics?u=76281980)
+#### [Regression analysis in economics](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/regression-analysis-in-economics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -462,15 +455,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), business (6), power (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (2), is called (1), refers to (1), is an  (1)
 > **Analogies:** for example (2), picture (2)
 > **Versions:** 1.57 (3)
 > **Speakers:** - [instructor] (1)
 
-#### Predicting values with regressions
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/predicting-values-with-regressions?u=76281980)
+#### [Predicting values with regressions](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/predicting-values-with-regressions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -542,20 +533,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Versions:** 1.57 (2), 5.436 (1), 30.3 (1), 0.3030 (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Economic forecasting in the research literature
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/economic-forecasting-in-the-research-literature?u=76281980)
+#### [Economic forecasting in the research literature](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/economic-forecasting-in-the-research-literature?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/economic-forecasting-in-the-research-literature?u=76281980&t=0)** - [Instructor] The reality is that doing forecasts in economics can be a difficult and time consuming process.
 >
-> **[0:07](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/economic-forecasting-in-the-research-literature?u=76281980&t=7)** But one of the hardest elements in that process is actually coming up with the model that you're going to use for your forecasting.
+> **[0:07](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/economic-forecasting-in-the-research-literature?u=76281980&t=7)** But one of the hardest elements in that process is actually coming up with the model that you're going to use for your [[Forecasting]].
 >
 > **[0:15](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/economic-forecasting-in-the-research-literature?u=76281980&t=15)** However, you don't have to reinvent the wheel.
 >
@@ -569,7 +558,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/economic-forecasting-in-the-research-literature?u=76281980&t=41)** All right.
 >
-> **[0:42](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/economic-forecasting-in-the-research-literature?u=76281980&t=42)** So I've got three different research studies that I've pulled here, and you can get all of these through something like Google Scholar or SSRN.
+> **[0:42](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/economic-forecasting-in-the-research-literature?u=76281980&t=42)** So I've got three different research studies that I've pulled here, and you can get all of these through something like [[Google]] Scholar or SSRN.
 >
 > **[0:49](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/economic-forecasting-in-the-research-literature?u=76281980&t=49)** But this first one is sort of a famous paper, it's from Estrella and Mishkin.
 >
@@ -577,7 +566,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/economic-forecasting-in-the-research-literature?u=76281980&t=60)** And what we see if we look at their particular model, down here on page two, they have kind of the crux of their model.
 >
-> **[1:09](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/economic-forecasting-in-the-research-literature?u=76281980&t=69)** What they're basically showing is using a probit model that is the probability of a recession based on the yield curve spread, they find a monotonically increasing relationship.
+> **[1:09](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/economic-forecasting-in-the-research-literature?u=76281980&t=69)** What they're basically showing is using a probit model that is the [[Probability]] of a recession based on the yield curve spread, they find a monotonically increasing relationship.
 >
 > **[1:20](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/economic-forecasting-in-the-research-literature?u=76281980&t=80)** What that means is the probability of a recession increases significantly as the yield spread inverts.
 >
@@ -643,7 +632,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (4), product (3), [[Forecasting]] (2), power (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[Probability]] (4), [[Forecasting]] (2), [[Google]] (1)
 > **Env Vars:** gdp (2), arima (2), ssrn (1)
 > **Definitions:** is a  (2), in other words (1)
 > **Cross-References:** coming up (1), in the next (1)
@@ -657,12 +646,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Trend analysis in forecasting
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/trend-analysis-in-forecasting?u=76281980)
+#### [Trend analysis in forecasting](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/trend-analysis-in-forecasting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/trend-analysis-in-forecasting?u=76281980&t=0)** - [Instructor] Now, that we've looked at some different methods of forecasting, let's take a look at a data example.
+> **[0:00](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/trend-analysis-in-forecasting?u=76281980&t=0)** - [Instructor] Now, that we've looked at some different methods of [[Forecasting]], let's take a look at a data example.
 >
 > **[0:06](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/trend-analysis-in-forecasting?u=76281980&t=6)** Recall our friend Ed the economist.
 >
@@ -720,7 +708,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/trend-analysis-in-forecasting?u=76281980&t=223)** Now, what exponential smoothing is going to do is use past prices on property values to forecast what future prices might be.
 >
-> **[3:53](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/trend-analysis-in-forecasting?u=76281980&t=233)** We're going to need a special tool to do this in Excel, that tool is called the Analysis Tool Pack.
+> **[3:53](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/trend-analysis-in-forecasting?u=76281980&t=233)** We're going to need a special tool to do this in [[Microsoft Excel|Excel]], that tool is called the Analysis Tool Pack.
 >
 > **[4:00](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/trend-analysis-in-forecasting?u=76281980&t=240)** To get the Analysis Tool Pack, we're going to click File, Options, Add-ins, Manage Excel Add-ins and Go.
 >
@@ -790,7 +778,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[Microsoft Excel|Excel]] (3), hit (3), [[Forecasting]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Forecasting]] (2)
 > **Versions:** 2.1 (3), 85.02 (2), 0.5 (1), 089.21 (1)
 > **Definitions:** is a  (2), is called (1)
 > **CLI Commands:** make (2)
@@ -799,8 +787,7 @@ created: 2026-05-02
 > **Cross-References:** we mentioned (1)
 > **UI Navigation:** go to (1)
 
-#### Serial correlation in data
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/serial-correlation-in-data?u=76281980)
+#### [Serial correlation in data](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/serial-correlation-in-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -922,7 +909,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (1)
 > **Versions:** 0.1 (3), 1.5 (1), 0.086 (1), 0.002 (1)
 > **Env Vars:** e18 (2), h1732 (1), b17 (1), g18 (1)
 > **Definitions:** means that (3), in other words (1), is an  (1)
@@ -930,9 +916,9 @@ created: 2026-05-02
 > **Cross-References:** we talked about (1)
 > **UI Navigation:** drag and drop (1)
 > **Exercise Files:** exercise files (1)
+> **Speakers:** - [instructor] (1)
 
-#### Analyzing results
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/analyzing-results?u=76281980)
+#### [Analyzing results](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/analyzing-results?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -952,7 +938,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/analyzing-results?u=76281980&t=43)** Typically in a regression analysis we measure significance or standard error through a T stat and a P value.
 >
-> **[0:51](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/analyzing-results?u=76281980&t=51)** Larger T statistics indicate greater significance for a particular variable and tell us that we have a stronger regression.
+> **[0:51](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/analyzing-results?u=76281980&t=51)** Larger T [[Statistics]] indicate greater significance for a particular variable and tell us that we have a stronger regression.
 >
 > **[1:00](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/analyzing-results?u=76281980&t=60)** We also looked at R squared values.
 >
@@ -990,7 +976,7 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/analyzing-results?u=76281980&t=222)** One month, two months, and three months previously.
 >
-> **[3:48](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/analyzing-results?u=76281980&t=228)** Do you recall how to run a regression in Excel?
+> **[3:48](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/analyzing-results?u=76281980&t=228)** Do you recall how to run a regression in [[Microsoft Excel|Excel]]?
 >
 > **[3:51](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/analyzing-results?u=76281980&t=231)** Great.
 >
@@ -1102,7 +1088,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Statistics]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Microsoft Excel|Excel]] (1)
 > **Versions:** 1.0 (1), 0.05 (1), 6.664 (1), 0.035 (1), 1.5 (1)
 > **Definitions:** is a  (4), in other words (2)
 > **Env Vars:** h1729 (1), i1729 (1), k1729 (1)
@@ -1111,16 +1097,15 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using Gen AI in economics forecasting
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/using-gen-ai-in-economics-forecasting?u=76281980)
+#### [Using Gen AI in economics forecasting](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/using-gen-ai-in-economics-forecasting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/using-gen-ai-in-economics-forecasting?u=76281980&t=0)** - [Narrator] Artificial intelligence, and especially generative AI is a tool that has the potential to revolutionize the way that we do economic analysis and forecasting.
+> **[0:00](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/using-gen-ai-in-economics-forecasting?u=76281980&t=0)** - [Narrator] [[Artificial Intelligence (AI)|Artificial intelligence]], and especially [[Generative AI]] is a tool that has the potential to revolutionize the way that we do [[Economic Analysis]] and [[Forecasting]].
 >
 > **[0:10](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/using-gen-ai-in-economics-forecasting?u=76281980&t=10)** But let's take a look at what it can do right now and where some of the challenges are.
 >
-> **[0:17](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/using-gen-ai-in-economics-forecasting?u=76281980&t=17)** Okay, so I've pulled up three popular AI tools, Perplexity, Claude from Anthropic and ChatGPT, and we're going to look at each of these in turn.
+> **[0:17](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/using-gen-ai-in-economics-forecasting?u=76281980&t=17)** Okay, so I've pulled up three popular AI tools, Perplexity, Claude from Anthropic and [[ChatGPT]], and we're going to look at each of these in turn.
 >
 > **[0:29](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/using-gen-ai-in-economics-forecasting?u=76281980&t=29)** So I'm starting with Perplexity.
 >
@@ -1132,7 +1117,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/using-gen-ai-in-economics-forecasting?u=76281980&t=39)** So I want it to give me GDP data on a quarterly basis for the US from 1980 to present, not something that's particularly difficult.
 >
-> **[0:48](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/using-gen-ai-in-economics-forecasting?u=76281980&t=48)** We could probably do this using the Excel add in from FRED, or even the FRED online portal in, I don't know, five minutes tops, right?
+> **[0:48](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/using-gen-ai-in-economics-forecasting?u=76281980&t=48)** We could probably do this using the [[Microsoft Excel|Excel]] add in from FRED, or even the FRED online portal in, I don't know, five minutes tops, right?
 >
 > **[0:57](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/using-gen-ai-in-economics-forecasting?u=76281980&t=57)** So if perplexity could cut time from that, it's useful.
 >
@@ -1158,7 +1143,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/using-gen-ai-in-economics-forecasting?u=76281980&t=113)** And it tells me, no, I can't actually create a visual chart.
 >
-> **[1:59](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/using-gen-ai-in-economics-forecasting?u=76281980&t=119)** And maybe it just didn't like the word chart that I'm using where I'm kind of thinking of a table.
+> **[1:59](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/using-gen-ai-in-economics-forecasting?u=76281980&t=119)** And maybe it just didn't like the [[Microsoft Word|word]] chart that I'm using where I'm kind of thinking of a table.
 >
 > **[2:04](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/using-gen-ai-in-economics-forecasting?u=76281980&t=124)** But you know, I can give you a text-based representation of the data, and that's fine with me.
 >
@@ -1228,7 +1213,7 @@ created: 2026-05-02
 >
 > **[4:17](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/using-gen-ai-in-economics-forecasting?u=76281980&t=257)** Maybe that's supposed to be price, I'm not quite sure.
 >
-> **[4:20](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/using-gen-ai-in-economics-forecasting?u=76281980&t=260)** But you know, overall pretty good images, they look nice certainly, I'd put these into a PowerPoint.
+> **[4:20](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/using-gen-ai-in-economics-forecasting?u=76281980&t=260)** But you know, overall pretty good images, they look nice certainly, I'd put these into a [[Microsoft PowerPoint|PowerPoint]].
 >
 > **[4:24](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/using-gen-ai-in-economics-forecasting?u=76281980&t=264)** So, all right, now how about if you give me the GDP data on a quarterly basis from 1980 through present, it instead gives me links.
 >
@@ -1288,24 +1273,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[ChatGPT]] (4), [[Generative AI]] (2), ai (2), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (4), [[Generative AI]] (2), [[Microsoft Excel|Excel]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Economic Analysis]] (1)
 > **Env Vars:** fred (5), gdp (4), csv (3), bea (2), pice (1)
 > **Definitions:** is a  (1), in other words (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [narrator] (1)
 
-#### Gen AI and data
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/gen-ai-and-data?u=76281980)
+#### [Gen AI and data](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/gen-ai-and-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/gen-ai-and-data?u=76281980&t=0)** - [Narrator] Artificial intelligence clearly still has some limits, but that doesn't mean it's not useful for economic analysis.
+> **[0:00](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/gen-ai-and-data?u=76281980&t=0)** - [Narrator] [[Artificial Intelligence (AI)|Artificial intelligence]] clearly still has some limits, but that doesn't mean it's not useful for [[Economic Analysis]].
 >
 > **[0:06](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/gen-ai-and-data?u=76281980&t=6)** Let's take a look at an example.
 >
-> **[0:07](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/gen-ai-and-data?u=76281980&t=7)** Now, I'm going to use ChatGPT, because historically I've had the best luck with that.
+> **[0:07](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/gen-ai-and-data?u=76281980&t=7)** Now, I'm going to use [[ChatGPT]], because historically I've had the best luck with that.
 >
-> **[0:11](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/gen-ai-and-data?u=76281980&t=11)** But I fed it in some data from Excel and I ask it, "What kind of correlations do you see in this data?"
+> **[0:11](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/gen-ai-and-data?u=76281980&t=11)** But I fed it in some data from [[Microsoft Excel|Excel]] and I ask it, "What kind of correlations do you see in this data?"
 >
 > **[0:18](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/gen-ai-and-data?u=76281980&t=18)** And this is data on inflation, T. bill rates, GDP, things like that, right?
 >
@@ -1371,7 +1355,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[ChatGPT]] (2), [[Economic Analysis]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[ChatGPT]] (2), [[Economic Analysis]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** gdp (4)
 > **Versions:** 0.1725 (1), 3.5 (1), 0.005 (1), 2.94 (1)
 > **Warnings:** be careful (1)
@@ -1382,8 +1366,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Advanced forecasting methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/advanced-forecasting-methods?u=76281980)
+#### [Advanced forecasting methods](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/advanced-forecasting-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1439,14 +1422,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), next (2)
 > **Definitions:** is a  (6)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Binomial regressions
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/binomial-regressions?u=76281980)
+#### [Binomial regressions](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/binomial-regressions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1456,7 +1437,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/binomial-regressions?u=76281980&t=15)** Meaning that the final outcome can go one of two possible distinct ways.
 >
-> **[0:20](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/binomial-regressions?u=76281980&t=20)** For example, if we're trying to predict the probability of a default on a bank loan, we can have a customer who defaults, or they don't default.
+> **[0:20](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/binomial-regressions?u=76281980&t=20)** For example, if we're trying to predict the [[Probability]] of a default on a bank loan, we can have a customer who defaults, or they don't default.
 >
 > **[0:31](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/binomial-regressions?u=76281980&t=31)** There's no in between.
 >
@@ -1472,7 +1453,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/binomial-regressions?u=76281980&t=57)** The two most common models are logit and probit models.
 >
-> **[1:02](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/binomial-regressions?u=76281980&t=62)** These forms of regression allow us to predict discrete variables with a mix of other types of variables, both continuous and discrete as predictors.
+> **[1:02](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/binomial-regressions?u=76281980&t=62)** These [[Forms]] of regression allow us to predict discrete variables with a mix of other types of variables, both continuous and discrete as predictors.
 >
 > **[1:13](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/binomial-regressions?u=76281980&t=73)** In essence, these types of regressions are answering the same question as a multiple regression is, but in a cleaner and more statistically correct fashion.
 >
@@ -1492,12 +1473,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (2), data (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Probability]] (2), [[Forms]] (1)
 > **Analogies:** for example (2), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Fixed effects regressions
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/fixed-effects-regressions?u=76281980)
+#### [Fixed effects regressions](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/fixed-effects-regressions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1573,7 +1553,7 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/fixed-effects-regressions?u=76281980&t=237)** That's why we had to change this variable to be equal to a one or zero.
 >
-> **[4:04](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/fixed-effects-regressions?u=76281980&t=244)** Now, in this case, Excel has limited capability to do more advanced types of regression analysis.
+> **[4:04](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/fixed-effects-regressions?u=76281980&t=244)** Now, in this case, [[Microsoft Excel|Excel]] has limited capability to do more advanced types of regression analysis.
 >
 > **[4:12](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/fixed-effects-regressions?u=76281980&t=252)** So we are going to use our standard regression that's available under the Data tab.
 >
@@ -1629,7 +1609,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), next (2), [[Microsoft Excel|Excel]] (2), database (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **Env Vars:** fred (1), cpi (1), sas (1), c687 (1)
 > **Warnings:** note that (1), be aware (1)
 > **CLI Commands:** make (1)
@@ -1638,8 +1618,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 
-#### Difference in differences analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/difference-in-differences-analysis?u=76281980)
+#### [Difference in differences analysis](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/difference-in-differences-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1735,18 +1714,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Definitions:** is a  (2), we call this (1), in other words (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Stata and economic forecasting
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/stata-and-economic-forecasting?u=76281980)
+#### [Stata and economic forecasting](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/stata-and-economic-forecasting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/stata-and-economic-forecasting?u=76281980&t=0)** - [Instructor] One of the most common practical software packages that you'll run into when doing economic forecasting is Stata.
+> **[0:00](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/stata-and-economic-forecasting?u=76281980&t=0)** - [Instructor] One of the most common practical software packages that you'll run into when doing economic [[Forecasting]] is [[Stata]].
 >
 > **[0:07](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/stata-and-economic-forecasting?u=76281980&t=7)** Let's take a look at how you use Stata, at least at a high level.
 >
@@ -1754,7 +1731,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/stata-and-economic-forecasting?u=76281980&t=16)** This is just kind of a gentle introduction to the software itself.
 >
-> **[0:20](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/stata-and-economic-forecasting?u=76281980&t=20)** There are several courses here on LinkedIn Learning that do deal with Stata, including one that I have.
+> **[0:20](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/stata-and-economic-forecasting?u=76281980&t=20)** There are several courses here on [[LinkedIn]] Learning that do deal with Stata, including one that I have.
 >
 > **[0:26](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/stata-and-economic-forecasting?u=76281980&t=26)** Okay, so when you open up Stata, you basically have kind of four different sections.
 >
@@ -1796,7 +1773,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/stata-and-economic-forecasting?u=76281980&t=155)** You want to use the command line to change those data.
 >
-> **[2:38](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/stata-and-economic-forecasting?u=76281980&t=158)** But when you open this up, what you'll really see is that Stata has kind of built in, behind the scenes an Excel type spreadsheet.
+> **[2:38](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/stata-and-economic-forecasting?u=76281980&t=158)** But when you open this up, what you'll really see is that Stata has kind of built in, behind the scenes an [[Microsoft Excel|Excel]] type spreadsheet.
 >
 > **[2:46](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/stata-and-economic-forecasting?u=76281980&t=166)** And this lets you go through and look at all of your different variables and the different observations related to those variables over time.
 >
@@ -1820,7 +1797,7 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/stata-and-economic-forecasting?u=76281980&t=243)** We're not talking about tens of millions of observations.
 >
-> **[4:07](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/stata-and-economic-forecasting?u=76281980&t=247)** This isn't really big data per se, but it is a large amount of data, very reasonable dataset to be looking at.
+> **[4:07](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/stata-and-economic-forecasting?u=76281980&t=247)** This isn't really [[Big Data]] per se, but it is a large amount of data, very reasonable dataset to be looking at.
 >
 > **[4:14](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/stata-and-economic-forecasting?u=76281980&t=254)** In a nutshell though, that's how you're going to go about getting started with Stata, kind of pulling some data in, and then from there, we could go through and manipulate these different variables as we wanted to.
 >
@@ -1834,7 +1811,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Stata]] (12), [[Microsoft Excel|Excel]] (5), [[Forecasting]] (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Stata]] (12), [[Microsoft Excel|Excel]] (5), [[Forecasting]] (2), [[LinkedIn]] (1), [[Big Data]] (1)
 > **Versions:** 1.2 (2)
 > **Tools:** command line (2)
 > **Definitions:** is a  (2)
@@ -1843,12 +1820,11 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Prerequisites:** getting started (1)
 
-#### Interpreting Stata results
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/interpreting-stata-results?u=76281980)
+#### [Interpreting Stata results](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/interpreting-stata-results?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/interpreting-stata-results?u=76281980&t=0)** - [Instructor] Even if you are not likely to be running the economic analysis yourself in Stata, it's often important to be able to interpret the data or the output that comes from Stata or programs like it.
+> **[0:00](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/interpreting-stata-results?u=76281980&t=0)** - [Instructor] Even if you are not likely to be running the [[Economic Analysis]] yourself in [[Stata]], it's often important to be able to interpret the data or the output that comes from Stata or programs like it.
 >
 > **[0:13](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/interpreting-stata-results?u=76281980&t=13)** So let's take a look at how this is done.
 >
@@ -1902,7 +1878,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/interpreting-stata-results?u=76281980&t=166)** Now, again, maybe this is a good regression, maybe it's not, but this is basically what Stata is going to put out for you in a typical regression analysis.
 >
-> **[2:55](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/interpreting-stata-results?u=76281980&t=175)** If we wanted to go, and you could do this in Excel too, to be clear, right?
+> **[2:55](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/interpreting-stata-results?u=76281980&t=175)** If we wanted to go, and you could do this in [[Microsoft Excel|Excel]] too, to be clear, right?
 >
 > **[2:59](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/interpreting-stata-results?u=76281980&t=179)** A basic regression like this, you can do in Excel.
 >
@@ -1934,7 +1910,7 @@ created: 2026-05-02
 >
 > **[4:37](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/interpreting-stata-results?u=76281980&t=277)** So again, it's going to give me kind of similar output, which probably makes intuitive sense if we kind of understand what the economic variables are, but just big picture.
 >
-> **[4:46](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/interpreting-stata-results?u=76281980&t=286)** If we haven't changed the regression form, certainly we wouldn't necessarily expect wildly different R-squareds and wildly different coefficients between our two different kind of statistical functional forms here.
+> **[4:46](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/interpreting-stata-results?u=76281980&t=286)** If we haven't changed the regression form, certainly we wouldn't necessarily expect wildly different R-squareds and wildly different coefficients between our two different kind of statistical functional [[Forms]] here.
 >
 > **[5:01](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/interpreting-stata-results?u=76281980&t=301)** But we can use a lot of different techniques in Stata that we simply don't have access to in Excel.
 >
@@ -1958,7 +1934,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Stata]] (8), [[Microsoft Excel|Excel]] (5), data (3), [[Economic Analysis]] (1), power (1)
+> **Frameworks & Libraries:** [[Stata]] (8), [[Microsoft Excel|Excel]] (5), [[Economic Analysis]] (1), [[Forms]] (1)
 > **Analogies:** for instance (3), for example (1), picture (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** gls (1)
@@ -1971,8 +1947,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What do the results mean?
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/what-do-the-results-mean?u=76281980)
+#### [What do the results mean?](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/what-do-the-results-mean?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2044,7 +2019,7 @@ created: 2026-05-02
 >
 > **[4:48](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/what-do-the-results-mean?u=76281980&t=288)** Right there.
 >
-> **[4:51](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/what-do-the-results-mean?u=76281980&t=291)** And then it is a zero during the rest of our data points.
+> **[4:51](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/what-do-the-results-mean?u=76281980&t=291)** And then it is a zero during the [[Representational State Transfer (REST)|rest]] of our data points.
 >
 > **[4:57](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/what-do-the-results-mean?u=76281980&t=297)** Now, why did we go through and create all of these binary variables?
 >
@@ -2178,7 +2153,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Representational State Transfer (REST)|Rest]] (1), hit (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** ltr2 (3), reit (3), ltr1 (2), ltr (1), ltr3 (1)
 > **Versions:** 21.19 (1), 16.05 (1), 15.7 (1), 44.1 (1), 0.1 (1)
 > **UI Navigation:** go to (2), switch to (1), scroll down (1)
@@ -2187,8 +2162,7 @@ created: 2026-05-02
 > **Analogies:** for example (3)
 > **Cross-References:** coming up (1)
 
-#### Testing accuracy in economic forecasts
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/testing-accuracy-in-economic-forecasts?u=76281980)
+#### [Testing accuracy in economic forecasts](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/testing-accuracy-in-economic-forecasts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2330,7 +2304,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), hit (3), next (1)
 > **Env Vars:** reit (10), gdp (3), ltr2 (3), c317 (1), j317 (1)
 > **CLI Commands:** make (6)
 > **Versions:** 426.66 (1), 39.6 (1), 1.8 (1), 643.88 (1), 697.57 (1)
@@ -2338,9 +2311,9 @@ created: 2026-05-02
 > **UI Navigation:** go to (1), scroll down (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
+> **Speakers:** - [instructor] (1)
 
-#### Scenario analysis in economics
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/scenario-analysis-in-economics?u=76281980)
+#### [Scenario analysis in economics](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/scenario-analysis-in-economics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2358,7 +2331,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/scenario-analysis-in-economics?u=76281980&t=49)** In order to offset this tax reduction, the long term capital gains rate would be raised to 20%.
 >
-> **[0:57](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/scenario-analysis-in-economics?u=76281980&t=57)** In scenario two, Ed is forecasting that the top marginal tax rate might fall all the way to 30%.
+> **[0:57](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/scenario-analysis-in-economics?u=76281980&t=57)** In scenario two, Ed is [[Forecasting]] that the top marginal tax rate might fall all the way to 30%.
 >
 > **[1:05](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/scenario-analysis-in-economics?u=76281980&t=65)** This in turn would lead to GDP growth of 2.3%.
 >
@@ -2448,7 +2421,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forecasting]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Forecasting]] (1)
 > **Env Vars:** gdp (5), ltr2 (5), ltr4 (3), reit (2), cboe (1)
 > **Versions:** 39.6 (1), 1.8 (1), 2.3 (1), 2.7 (1), 1.5 (1)
 > **CLI Commands:** make (4)
@@ -2462,12 +2435,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Common economic variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/common-economic-variables?u=76281980)
+#### [Common economic variables](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/common-economic-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/common-economic-variables?u=76281980&t=0)** - [Instructor] As a practical matter when you're doing economic forecasting, the first thing that you'll often have to do is go and get the data on whatever it is you're trying to forecast, right?
+> **[0:00](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/common-economic-variables?u=76281980&t=0)** - [Instructor] As a practical matter when you're doing economic [[Forecasting]], the first thing that you'll often have to do is go and get the data on whatever it is you're trying to forecast, right?
 >
 > **[0:11](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/common-economic-variables?u=76281980&t=11)** This means that you'll need to not only collect information about what it is you're trying to forecast but also related explanatory variables that might allow you to build a model.
 >
@@ -2477,7 +2449,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/common-economic-variables?u=76281980&t=26)** The first option would be to go to various government websites.
 >
-> **[0:30](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/common-economic-variables?u=76281980&t=30)** For example, the Bureau of Labor Statistics, as you might infer from their name, the BLS produces data related to unemployment and generally what the labor market is doing within the United States.
+> **[0:30](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/common-economic-variables?u=76281980&t=30)** For example, the Bureau of Labor [[Statistics]], as you might infer from their name, the BLS produces data related to unemployment and generally what the labor market is doing within the United States.
 >
 > **[0:44](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/common-economic-variables?u=76281980&t=44)** So if we come to the BLS's website, [bls.gov](https://bls.gov), we can come over to the data tools tab and they have a variety of different tools that we might use to gather the data.
 >
@@ -2489,7 +2461,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/common-economic-variables?u=76281980&t=89)** For example, if we're interested in unemployment we probably want to look at how that relates to other measures of how the economy is doing like gross domestic product for instance, or maybe the stock market or financial conditions or something similar.
 >
-> **[1:46](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/common-economic-variables?u=76281980&t=106)** For that type of data we'll frequently have to turn to the BEA or Bureau of Economic Analysis at [bea.gov](https://bea.gov), as you see here.
+> **[1:46](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/common-economic-variables?u=76281980&t=106)** For that type of data we'll frequently have to turn to the BEA or Bureau of [[Economic Analysis]] at [bea.gov](https://bea.gov), as you see here.
 >
 > **[1:56](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/common-economic-variables?u=76281980&t=116)** Now, like the BLS, the BEA also has a data section and we could go through and kind of pull data based on different topics we're interested in or different areas, you know, that is whether we're looking at say individual states versus the United States or county level information, et cetera.
 >
@@ -2505,15 +2477,15 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/common-economic-variables?u=76281980&t=196)** Now, FRED is something I've been excited about for a long time.
 >
-> **[3:19](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/common-economic-variables?u=76281980&t=199)** Basically it's a Microsoft Excel add-in that lets you pull data for almost any type of economic analysis you want to do.
+> **[3:19](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/common-economic-variables?u=76281980&t=199)** Basically it's a [[Microsoft Excel]] add-in that lets you pull data for almost any type of economic analysis you want to do.
 >
 > **[3:29](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/common-economic-variables?u=76281980&t=209)** They have lots and lots of different data series and different data variables that are useful.
 >
-> **[3:35](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/common-economic-variables?u=76281980&t=215)** There's two ways to get FRED, historically FRED was downloadable in an Excel format, in an Excel add-in format I should say, from the FRED St. Louis FED's website, okay?
+> **[3:35](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/common-economic-variables?u=76281980&t=215)** There's two ways to get FRED, historically FRED was downloadable in an [[Microsoft Excel|Excel]] format, in an Excel add-in format I should say, from the FRED St. Louis FED's website, okay?
 >
 > **[3:49](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/common-economic-variables?u=76281980&t=229)** However, a couple of years ago that changed and now you can no longer download the FRED Excel add-in directly, okay?
 >
-> **[3:59](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/common-economic-variables?u=76281980&t=239)** You can still find it in some corners of the internet but instead the FRED add-in is available through the Microsoft Office add-in store and it's available for free.
+> **[3:59](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/common-economic-variables?u=76281980&t=239)** You can still find it in some corners of the internet but instead the FRED add-in is available through the [[Microsoft Office]] add-in store and it's available for free.
 >
 > **[4:15](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/common-economic-variables?u=76281980&t=255)** But the key here is in order to do this you're going to need to have Excel 2019 or later for your computer, okay?
 >
@@ -2525,7 +2497,7 @@ created: 2026-05-02
 >
 > **[4:53](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/common-economic-variables?u=76281980&t=293)** Now let's take a look at FRED once you've actually got it into Excel.
 >
-> **[4:57](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/common-economic-variables?u=76281980&t=297)** All right, so I've pulled in FRED and I'm actually using the older version that's downloaded directly into Excel, but it works functionally the same when you're using it through the Microsoft store, right?
+> **[4:57](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/common-economic-variables?u=76281980&t=297)** All right, so I've pulled in FRED and I'm actually using the older version that's downloaded directly into Excel, but it works functionally the same when you're using it through the [[Microsoft]] store, right?
 >
 > **[5:12](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/common-economic-variables?u=76281980&t=312)** So you can do it either way you'd like, but the nice thing about FRED is it lets you go through and pull different data points of interest for long periods of time.
 >
@@ -2569,7 +2541,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (42), [[Microsoft Excel|Excel]] (10), product (3), [[Forecasting]] (2), [[Economic Analysis]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (10), [[Forecasting]] (2), [[Economic Analysis]] (2), [[Statistics]] (1), [[Microsoft Excel]] (1)
 > **Env Vars:** fred (21), bea (6), bls (5), sp500 (3), fed (2)
 > **Analogies:** for example (5), for instance (4)
 > **CLI Commands:** make (5), find (3)
@@ -2578,8 +2550,7 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Warnings:** be careful (1)
 
-#### Lead and lag relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/lead-and-lag-relationships?u=76281980)
+#### [Lead and lag relationships](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/lead-and-lag-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2599,7 +2570,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/lead-and-lag-relationships?u=76281980&t=60)** And they want to try and compare that to the existing LEI, the leading economic indicator index.
 >
-> **[1:06](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/lead-and-lag-relationships?u=76281980&t=66)** And what you see in their data set is they're going to go through and lag their new model compared to the old model and see which one has essentially more forecasting power.
+> **[1:06](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/lead-and-lag-relationships?u=76281980&t=66)** And what you see in their data set is they're going to go through and lag their new model compared to the old model and see which one has essentially more [[Forecasting]] power.
 >
 > **[1:21](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/lead-and-lag-relationships?u=76281980&t=81)** They're running a horse race between the new LEI versus the old LEI.
 >
@@ -2619,7 +2590,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/lead-and-lag-relationships?u=76281980&t=137)** So what does this look like kind of on a nuts and bolts mechanical level?
 >
-> **[2:21](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/lead-and-lag-relationships?u=76281980&t=141)** Well, let's take a look at this in Stata just to illustrate it.
+> **[2:21](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/lead-and-lag-relationships?u=76281980&t=141)** Well, let's take a look at this in [[Stata]] just to illustrate it.
 >
 > **[2:25](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/lead-and-lag-relationships?u=76281980&t=145)** So I'm here in Stata and I've opened up a kind of a simple research project I was working on.
 >
@@ -2679,7 +2650,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), data (2), [[Stata]] (2), [[Forecasting]] (1)
+> **Frameworks & Libraries:** [[Stata]] (2), [[Forecasting]] (1)
 > **Env Vars:** lei (3), prc (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), in other words (1)
@@ -2687,8 +2658,7 @@ created: 2026-05-02
 > **Analogies:** for instance (2)
 > **Speakers:** - [instructor] (1)
 
-#### Seasonality and data cleaning
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/seasonality-and-data-cleaning?u=76281980)
+#### [Seasonality and data cleaning](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/seasonality-and-data-cleaning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2698,7 +2668,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/seasonality-and-data-cleaning?u=76281980&t=17)** For instance, retail sales are likely to be higher in the fourth quarter, i.e around Christmas than they are in the first quarter, that is January through March.
 >
-> **[0:28](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/seasonality-and-data-cleaning?u=76281980&t=28)** This is so common that you see the BEA, the Bureau of Economic Analysis, going through and applying seasonal adjustments to much of the data that we take for granted every day.
+> **[0:28](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/seasonality-and-data-cleaning?u=76281980&t=28)** This is so common that you see the BEA, the Bureau of [[Economic Analysis]], going through and applying seasonal adjustments to much of the data that we take for granted every day.
 >
 > **[0:40](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/seasonality-and-data-cleaning?u=76281980&t=40)** As this paper illustrates though, it's important that you are able to actually go through and take raw data and make those seasonal adjustments on your own when necessary.
 >
@@ -2708,7 +2678,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/seasonality-and-data-cleaning?u=76281980&t=66)** So let's take a look at a simple example of how you might apply seasonal adjustments to a set of raw data.
 >
-> **[1:13](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/seasonality-and-data-cleaning?u=76281980&t=73)** So I'm in the Excel file labeled 0503 Begin.
+> **[1:13](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/seasonality-and-data-cleaning?u=76281980&t=73)** So I'm in the [[Microsoft Excel|Excel]] file labeled 0503 Begin.
 >
 > **[1:19](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/seasonality-and-data-cleaning?u=76281980&t=79)** And what you'll see is I've got a fictitious set of data and this might be data for any product that's out there.
 >
@@ -2806,7 +2776,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), [[Microsoft Excel|Excel]] (2), [[Economic Analysis]] (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Economic Analysis]] (1)
 > **Analogies:** for instance (3), for example (3)
 > **CLI Commands:** make (5)
 > **Versions:** 0.96 (1), 1.11 (1), 1.1 (1), 338.74 (1)
@@ -2815,12 +2785,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Best Practices:** the key is (1)
 
-#### Interpreting other's economic forecasts
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/interpreting-other-s-economic-forecasts?u=76281980)
+#### [Interpreting other's economic forecasts](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/interpreting-other-s-economic-forecasts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/interpreting-other-s-economic-forecasts?u=76281980&t=0)** - [Instructor] When it comes to economic forecasting, it's important to recognize the reality is we're all human.
+> **[0:00](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/interpreting-other-s-economic-forecasts?u=76281980&t=0)** - [Instructor] When it comes to economic [[Forecasting]], it's important to recognize the reality is we're all human.
 >
 > **[0:06](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/interpreting-other-s-economic-forecasts?u=76281980&t=6)** We make forecasts, and we do the best job we possibly can, but inevitably those forecasts are frequently going to have issues with them.
 >
@@ -2864,7 +2833,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/interpreting-other-s-economic-forecasts?u=76281980&t=153)** So, instead they're going to present some different scenarios for us to look at here, and I'm just coming down to kind of the end of their report, and we're going to see they've got a baseline scenario, and a relapse scenario as they call it, and a back to the '70s scenario, and then a new recession scenario.
 >
-> **[3:00](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/interpreting-other-s-economic-forecasts?u=76281980&t=180)** And they've assigned a probability to each of these 15% for new recession or next recession.
+> **[3:00](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/interpreting-other-s-economic-forecasts?u=76281980&t=180)** And they've assigned a [[Probability]] to each of these 15% for new recession or next recession.
 >
 > **[3:08](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/interpreting-other-s-economic-forecasts?u=76281980&t=188)** Back to the '70s, meaning kind of a stagflation type approach with a lot of inflation is 25%.
 >
@@ -2920,7 +2889,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forecasting]] (3), next (2), [[Probability]] (1), management (1)
+> **Frameworks & Libraries:** [[Forecasting]] (3), [[Probability]] (1)
 > **Env Vars:** gdp (6), mufg (3), cpi (1)
 > **Versions:** 2.4 (2), 3.3 (1), 7.5 (1), 1.8 (1), 3.5 (1)
 > **CLI Commands:** make (2), find (1)
@@ -2933,14 +2902,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Projects to try next
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/projects-to-try-next?u=76281980)
+#### [Projects to try next](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/projects-to-try-next?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/projects-to-try-next?u=76281980&t=0)** - [Michael] In this course, we've talked about using economic data in forecasting and a number of different methods and techniques you can use to do those forecasts.
+> **[0:00](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/projects-to-try-next?u=76281980&t=0)** - [Michael] In this course, we've talked about using economic data in [[Forecasting]] and a number of different methods and techniques you can use to do those forecasts.
 >
-> **[0:09](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/projects-to-try-next?u=76281980&t=9)** We've demonstrated using the FRED Excel add-in to pull in a variety of data based on different project needs.
+> **[0:09](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/projects-to-try-next?u=76281980&t=9)** We've demonstrated using the FRED [[Microsoft Excel|Excel]] add-in to pull in a variety of data based on different project needs.
 >
 > **[0:16](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/projects-to-try-next?u=76281980&t=16)** And we've explained how to make forecasts with serially correlated data and techniques like exponential smoothing.
 >
@@ -2964,7 +2932,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Forecasting]] (4), [[Microsoft Excel|Excel]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Forecasting]] (4), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** fred (1)
 > **Speakers:** - [michael] (1)

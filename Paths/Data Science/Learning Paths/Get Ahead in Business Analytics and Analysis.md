@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/get-ahead-in-business-analytics-and
 course_count: 19
 linkedin_topics:
   - Data Science
-louvain_cluster: 8
+louvain_cluster: 10
 tags:
   - learning-path
   - topic/data-science

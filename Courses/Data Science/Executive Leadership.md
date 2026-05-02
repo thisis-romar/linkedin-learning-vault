@@ -71,12 +71,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Take action to lead
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-leadership-24384695/take-action-to-lead?u=76281980)
+#### [Take action to lead](https://www.linkedin.com/learning/executive-leadership-24384695/take-action-to-lead?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/executive-leadership-24384695/take-action-to-lead?u=76281980&t=0)** - John Quincy Adams said, "If your actions inspire others to dream more, learn more, do more, and become more, you are a leader."
+> **[0:00](https://www.linkedin.com/learning/executive-leadership-24384695/take-action-to-lead?u=76281980&t=0)** - [[John the Ripper|John]] Quincy Adams said, "If your actions inspire others to dream more, learn more, do more, and become more, you are a leader."
 >
 > **[0:09](https://www.linkedin.com/learning/executive-leadership-24384695/take-action-to-lead?u=76281980&t=9)** Executive leaders handle tremendous levels of ongoing responsibility for people, resources, and results.
 >
@@ -98,10 +97,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[John the Ripper|John]] (3)
 > **Speakers:** - john (1)
 
-#### Build trust: Essential first steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-leadership-24384695/build-trust-essential-first-steps?u=76281980)
+#### [Build trust: Essential first steps](https://www.linkedin.com/learning/executive-leadership-24384695/build-trust-essential-first-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -145,7 +144,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/executive-leadership-24384695/build-trust-essential-first-steps?u=76281980&t=114)** Daniel's firm grew spectacularly, and he racked up awards in his industry year-after-year.
 >
-> **[2:00](https://www.linkedin.com/learning/executive-leadership-24384695/build-trust-essential-first-steps?u=76281980&t=120)** Earning trust every day is the foundation of executive leadership.
+> **[2:00](https://www.linkedin.com/learning/executive-leadership-24384695/build-trust-essential-first-steps?u=76281980&t=120)** Earning trust every day is the foundation of [[Executive Leadership]].
 >
 > **[2:05](https://www.linkedin.com/learning/executive-leadership-24384695/build-trust-essential-first-steps?u=76281980&t=125)** A question on everyone's mind about leaders is, "Why should we follow you?"
 >
@@ -175,7 +174,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/executive-leadership-24384695/build-trust-essential-first-steps?u=76281980&t=183)** Credibility.
 >
-> **[3:05](https://www.linkedin.com/learning/executive-leadership-24384695/build-trust-essential-first-steps?u=76281980&t=185)** Develop knowledge and skills to excel in your role, and show you're capable of more.
+> **[3:05](https://www.linkedin.com/learning/executive-leadership-24384695/build-trust-essential-first-steps?u=76281980&t=185)** Develop knowledge and skills to [[Microsoft Excel|excel]] in your role, and show you're capable of more.
 >
 > **[3:10](https://www.linkedin.com/learning/executive-leadership-24384695/build-trust-essential-first-steps?u=76281980&t=190)** Know all about your business and industry, and step up for opportunities to contribute beyond your role.
 >
@@ -203,7 +202,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Executive Leadership]] (1), [[Microsoft Excel|Excel]] (1), business (1)
+> **Frameworks & Libraries:** [[Executive Leadership]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (2), find (2)
 > **Ports:** :30 (1), :00 (1)
 > **Speakers:** - i (1)
@@ -213,8 +212,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Establish purpose and vision
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-leadership-24384695/establish-purpose-and-vision?u=76281980)
+#### [Establish purpose and vision](https://www.linkedin.com/learning/executive-leadership-24384695/establish-purpose-and-vision?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -266,7 +264,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/executive-leadership-24384695/establish-purpose-and-vision?u=76281980&t=104)** A compelling vision is the better future we strive to create by acting on our purpose.
 >
-> **[1:50](https://www.linkedin.com/learning/executive-leadership-24384695/establish-purpose-and-vision?u=76281980&t=110)** Think of the word envision.
+> **[1:50](https://www.linkedin.com/learning/executive-leadership-24384695/establish-purpose-and-vision?u=76281980&t=110)** Think of the [[Microsoft Word|word]] envision.
 >
 > **[1:52](https://www.linkedin.com/learning/executive-leadership-24384695/establish-purpose-and-vision?u=76281980&t=112)** Executive leaders need to see ahead to envision how things can be better if we pull together, focus our efforts, and stay committed.
 >
@@ -310,15 +308,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (6)
 > **Env Vars:** ceo (5)
 > **Definitions:** stands for (2), is a  (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - when (1)
 
-#### Think strategically
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-leadership-24384695/think-strategically?u=76281980)
+#### [Think strategically](https://www.linkedin.com/learning/executive-leadership-24384695/think-strategically?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -332,7 +329,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/executive-leadership-24384695/think-strategically?u=76281980&t=22)** Why?
 >
-> **[0:23](https://www.linkedin.com/learning/executive-leadership-24384695/think-strategically?u=76281980&t=23)** Because consistent strategic thinking gives you an advantage to see problems and possibilities others miss.
+> **[0:23](https://www.linkedin.com/learning/executive-leadership-24384695/think-strategically?u=76281980&t=23)** Because consistent [[Strategic Thinking]] gives you an advantage to see problems and possibilities others miss.
 >
 > **[0:30](https://www.linkedin.com/learning/executive-leadership-24384695/think-strategically?u=76281980&t=30)** Here's an example about Glen Barrows, former CEO of Concord Music Group.
 >
@@ -358,7 +355,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/executive-leadership-24384695/think-strategically?u=76281980&t=91)** But what nobody knew at the time was that Ray had terminal cancer.
 >
-> **[1:36](https://www.linkedin.com/learning/executive-leadership-24384695/think-strategically?u=76281980&t=96)** By the last duet in the studio with Elton John, Ray was extremely ill.
+> **[1:36](https://www.linkedin.com/learning/executive-leadership-24384695/think-strategically?u=76281980&t=96)** By the last duet in the studio with Elton [[John the Ripper|John]], Ray was extremely ill.
 >
 > **[1:42](https://www.linkedin.com/learning/executive-leadership-24384695/think-strategically?u=76281980&t=102)** Barrows says, "Everyone was choked up.
 >
@@ -418,15 +415,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Strategic Thinking]] (4), business (2), teams (1)
+> **Frameworks & Libraries:** [[Strategic Thinking]] (4), [[John the Ripper|John]] (1)
 > **Env Vars:** ceo (2)
 > **CLI Commands:** make (1)
 > **Tools:** terminal (1)
 > **Analogies:** just like (1)
 > **Speakers:** - most (1)
 
-#### Be courageous and decisive
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-leadership-24384695/be-courageous-and-decisive?u=76281980)
+#### [Be courageous and decisive](https://www.linkedin.com/learning/executive-leadership-24384695/be-courageous-and-decisive?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -462,7 +458,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/executive-leadership-24384695/be-courageous-and-decisive?u=76281980&t=68)** Thomas Jefferson called leadership a splendid misery that involves the daily loss of friends.
 >
-> **[1:14](https://www.linkedin.com/learning/executive-leadership-24384695/be-courageous-and-decisive?u=76281980&t=74)** Executive leadership calls for courage, to take a stand despite pressure, complexity, competing priorities, ambiguity, and resistance.
+> **[1:14](https://www.linkedin.com/learning/executive-leadership-24384695/be-courageous-and-decisive?u=76281980&t=74)** [[Executive Leadership]] calls for courage, to take a stand despite pressure, complexity, competing priorities, ambiguity, and resistance.
 >
 > **[1:23](https://www.linkedin.com/learning/executive-leadership-24384695/be-courageous-and-decisive?u=76281980&t=83)** But you can prepare for it. And here's how.
 >
@@ -470,7 +466,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/executive-leadership-24384695/be-courageous-and-decisive?u=76281980&t=88)** Make sharp, clear choices and articulate while you made them, while you respect, credit, and appreciate those who advocate different choices.
 >
-> **[1:38](https://www.linkedin.com/learning/executive-leadership-24384695/be-courageous-and-decisive?u=76281980&t=98)** To get there, use strategic thinking, take input from key stakeholders, gather diverse points of view, ask if you're solving the most important problem, explore root causes that drive the problem, generate alternatives, and consider consequences.
+> **[1:38](https://www.linkedin.com/learning/executive-leadership-24384695/be-courageous-and-decisive?u=76281980&t=98)** To get there, use [[Strategic Thinking]], take input from key stakeholders, gather diverse points of view, ask if you're solving the most important problem, explore root causes that drive the problem, generate alternatives, and consider consequences.
 >
 > **[1:56](https://www.linkedin.com/learning/executive-leadership-24384695/be-courageous-and-decisive?u=76281980&t=116)** Also, distinguish between reversible and irreversible decisions.
 >
@@ -504,7 +500,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/executive-leadership-24384695/be-courageous-and-decisive?u=76281980&t=196)** They consistently reach for better.
 >
-> **[3:19](https://www.linkedin.com/learning/executive-leadership-24384695/be-courageous-and-decisive?u=76281980&t=199)** Be bold is the mindset that separates the best from the rest.
+> **[3:19](https://www.linkedin.com/learning/executive-leadership-24384695/be-courageous-and-decisive?u=76281980&t=199)** Be bold is the mindset that separates the best from the [[Representational State Transfer (REST)|rest]].
 >
 > **[3:24](https://www.linkedin.com/learning/executive-leadership-24384695/be-courageous-and-decisive?u=76281980&t=204)** Practice all these steps to make the best bold decisions that others can't or won't.
 >
@@ -512,13 +508,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1), leadership (1), [[Executive Leadership]] (1), [[Strategic Thinking]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Executive Leadership]] (1), [[Strategic Thinking]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** ceo (1)
 > **Speakers:** - pythagoras (1)
 
-#### Realign towards the greater good
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-leadership-24384695/realign-toward-greater-good?u=76281980)
+#### [Realign towards the greater good](https://www.linkedin.com/learning/executive-leadership-24384695/realign-toward-greater-good?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -624,7 +619,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), express (1), product (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ceo (1)
 > **Speakers:** - leading (1)
@@ -634,8 +628,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Energize and empower
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-leadership-24384695/energize-and-empower?u=76281980)
+#### [Energize and empower](https://www.linkedin.com/learning/executive-leadership-24384695/energize-and-empower?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -749,14 +742,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), business (1), leadership (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** ceo (3)
 > **Analogies:** picture (1)
 > **Speakers:** - former (1)
 
-#### Encourage personal excellence
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-leadership-24384695/encourage-personal-excellence?u=76281980)
+#### [Encourage personal excellence](https://www.linkedin.com/learning/executive-leadership-24384695/encourage-personal-excellence?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -834,7 +825,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/executive-leadership-24384695/encourage-personal-excellence?u=76281980&t=143)** Then she helped him use it, and raised his confidence.
 >
-> **[2:27](https://www.linkedin.com/learning/executive-leadership-24384695/encourage-personal-excellence?u=76281980&t=147)** Three, when someone legitimately tries to excel to reach past their comfort zone, praise them for it.
+> **[2:27](https://www.linkedin.com/learning/executive-leadership-24384695/encourage-personal-excellence?u=76281980&t=147)** Three, when someone legitimately tries to [[Microsoft Excel|excel]] to reach past their comfort zone, praise them for it.
 >
 > **[2:34](https://www.linkedin.com/learning/executive-leadership-24384695/encourage-personal-excellence?u=76281980&t=154)** They won't always succeed, but always follow up to lock in their learning and turn insights into habits.
 >
@@ -862,12 +853,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** strengths (1), [[Microsoft Excel|Excel]] (1), leadership (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - educator (1)
 
-#### Develop diverse talent
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-leadership-24384695/develop-diverse-talent?u=76281980)
+#### [Develop diverse talent](https://www.linkedin.com/learning/executive-leadership-24384695/develop-diverse-talent?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -943,14 +933,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), career (1)
 > **Env Vars:** ceo (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - larry (1)
 
-#### Design advancement paths
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-leadership-24384695/design-advancement-paths?u=76281980)
+#### [Design advancement paths](https://www.linkedin.com/learning/executive-leadership-24384695/design-advancement-paths?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -972,7 +960,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/executive-leadership-24384695/design-advancement-paths?u=76281980&t=48)** They promote unprepared people.
 >
-> **[0:50](https://www.linkedin.com/learning/executive-leadership-24384695/design-advancement-paths?u=76281980&t=50)** They forget succession includes the word success.
+> **[0:50](https://www.linkedin.com/learning/executive-leadership-24384695/design-advancement-paths?u=76281980&t=50)** They forget succession includes the [[Microsoft Word|word]] success.
 >
 > **[0:54](https://www.linkedin.com/learning/executive-leadership-24384695/design-advancement-paths?u=76281980&t=54)** So define specifically what excellence is for each leadership role for each of those four success factors.
 >
@@ -996,7 +984,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/executive-leadership-24384695/design-advancement-paths?u=76281980&t=106)** And three types of developmental relationships.
 >
-> **[1:50](https://www.linkedin.com/learning/executive-leadership-24384695/design-advancement-paths?u=76281980&t=110)** Help people connect with senior advisors who help their decision-making, sponsors who advocate for their advancement in the firm, and mentors who look out for their overall wellbeing.
+> **[1:50](https://www.linkedin.com/learning/executive-leadership-24384695/design-advancement-paths?u=76281980&t=110)** Help people connect with senior advisors who help their [[Decision-Making]], sponsors who advocate for their advancement in the firm, and mentors who look out for their overall wellbeing.
 >
 > **[2:02](https://www.linkedin.com/learning/executive-leadership-24384695/design-advancement-paths?u=76281980&t=122)** Third, implement four factor growth across the organization.
 >
@@ -1042,7 +1030,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (5), next (4), leadership (3), [[Microsoft Word|Word]] (1), functional (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Decision-Making]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Speakers:** - when (1)
@@ -1052,8 +1040,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prioritize with accountability
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-leadership-24384695/prioritize-with-accountability?u=76281980)
+#### [Prioritize with accountability](https://www.linkedin.com/learning/executive-leadership-24384695/prioritize-with-accountability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1095,7 +1082,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/executive-leadership-24384695/prioritize-with-accountability?u=76281980&t=95)** Real progress is priority-based progress.
 >
-> **[1:39](https://www.linkedin.com/learning/executive-leadership-24384695/prioritize-with-accountability?u=76281980&t=99)** The next step after setting priorities with goals is accountability, following through to stay on track.
+> **[1:39](https://www.linkedin.com/learning/executive-leadership-24384695/prioritize-with-accountability?u=76281980&t=99)** The next step after setting priorities with goals is [[Accountability]], following through to stay on track.
 >
 > **[1:46](https://www.linkedin.com/learning/executive-leadership-24384695/prioritize-with-accountability?u=76281980&t=106)** Too often, holding people accountable is used as a crude control technique that implies, "You better do this, or else."
 >
@@ -1151,15 +1138,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Accountability]] (4), next (3), management (2), leadership (1)
+> **Frameworks & Libraries:** [[Accountability]] (4)
 > **CLI Commands:** make (4)
 > **Env Vars:** ceo (2)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Speakers:** - when (1)
 
-#### Create collaboration opportunities
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-leadership-24384695/create-collaboration-opportunities?u=76281980)
+#### [Create collaboration opportunities](https://www.linkedin.com/learning/executive-leadership-24384695/create-collaboration-opportunities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1181,7 +1167,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/executive-leadership-24384695/create-collaboration-opportunities?u=76281980&t=48)** Collaboration.
 >
-> **[0:50](https://www.linkedin.com/learning/executive-leadership-24384695/create-collaboration-opportunities?u=76281980&t=50)** In interviews, he said he and the copilot were a team, along with the crew, whose collaboration was essential to everyone surviving the crash.
+> **[0:50](https://www.linkedin.com/learning/executive-leadership-24384695/create-collaboration-opportunities?u=76281980&t=50)** In interviews, he said he and the [[Microsoft Copilot|copilot]] were a team, along with the crew, whose collaboration was essential to everyone surviving the crash.
 >
 > **[1:00](https://www.linkedin.com/learning/executive-leadership-24384695/create-collaboration-opportunities?u=76281980&t=60)** Invited by U.S. President Barack Obama to meet for dinner, he said yes, if the crew could come, too.
 >
@@ -1269,14 +1255,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (4), teams (3), next (2), career (1), [[Microsoft Copilot|Copilot]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (1)
 > **Env Vars:** ceo (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - on (1)
 
-#### Lead through change and disruption
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-leadership-24384695/lead-through-change-and-disruption?u=76281980)
+#### [Lead through change and disruption](https://www.linkedin.com/learning/executive-leadership-24384695/lead-through-change-and-disruption?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1386,7 +1371,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), teams (1)
 > **CLI Commands:** make (4)
 > **URLs:** [donorschoose.org](https://donorschoose.org) (2)
 > **Env Vars:** ceo (2)
@@ -1394,8 +1378,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - change (1)
 
-#### Cultivate creativity
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-leadership-24384695/cultivate-creativity?u=76281980)
+#### [Cultivate creativity](https://www.linkedin.com/learning/executive-leadership-24384695/cultivate-creativity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1457,7 +1440,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/executive-leadership-24384695/cultivate-creativity?u=76281980&t=126)** Make Room for healthy rebellion.
 >
-> **[2:09](https://www.linkedin.com/learning/executive-leadership-24384695/cultivate-creativity?u=76281980&t=129)** Hewlett-Packard founder David Packard speaks fondly of an engineer who he ordered to stop working on a project, but the engineer creatively ignored him and used his vacation time instead of office time to build a prototype anyway and show it to customers.
+> **[2:09](https://www.linkedin.com/learning/executive-leadership-24384695/cultivate-creativity?u=76281980&t=129)** Hewlett-Packard founder David Packard speaks fondly of an engineer who he ordered to stop working on a project, but the engineer creatively ignored him and used his vacation time instead of [[Microsoft Office|office]] time to build a prototype anyway and show it to customers.
 >
 > **[2:26](https://www.linkedin.com/learning/executive-leadership-24384695/cultivate-creativity?u=76281980&t=146)** It became a huge success.
 >
@@ -1465,7 +1448,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/executive-leadership-24384695/cultivate-creativity?u=76281980&t=156)** For teams, train teams to use healthy creative processes and build on each other's ideas, instead of defending their own.
 >
-> **[2:45](https://www.linkedin.com/learning/executive-leadership-24384695/cultivate-creativity?u=76281980&t=165)** Challenge teams to develop new products, services, and methods.
+> **[2:45](https://www.linkedin.com/learning/executive-leadership-24384695/cultivate-creativity?u=76281980&t=165)** Challenge teams to develop new [[Microsoft Products|products]], services, and methods.
 >
 > **[2:49](https://www.linkedin.com/learning/executive-leadership-24384695/cultivate-creativity?u=76281980&t=169)** Starbucks CEO Howard Schultz was frustrated about delays to develop an innovative, high-quality, instant coffee.
 >
@@ -1499,7 +1482,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), product (2), [[Search]] (1), game (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** ceo (2), mri (1)
 > **Code Identifiers:** ipod (1)
@@ -1511,14 +1494,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Apply the Executive Learning Cycle
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-leadership-24384695/apply-the-executive-learning-cycle?u=76281980)
+#### [Apply the Executive Learning Cycle](https://www.linkedin.com/learning/executive-leadership-24384695/apply-the-executive-learning-cycle?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/executive-leadership-24384695/apply-the-executive-learning-cycle?u=76281980&t=0)** - Out of all leadership skills and abilities, guess what's the number one predictor of executive success?
 >
-> **[0:07](https://www.linkedin.com/learning/executive-leadership-24384695/apply-the-executive-learning-cycle?u=76281980&t=7)** It's learning agility, rapid adaptive learning, the ability to handle new challenges and changes.
+> **[0:07](https://www.linkedin.com/learning/executive-leadership-24384695/apply-the-executive-learning-cycle?u=76281980&t=7)** It's [[Learning Agility]], rapid adaptive learning, the ability to handle new challenges and changes.
 >
 > **[0:14](https://www.linkedin.com/learning/executive-leadership-24384695/apply-the-executive-learning-cycle?u=76281980&t=14)** That's according to global research that tracked hundreds of thousands of executives, including CEOs.
 >
@@ -1554,7 +1536,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/executive-leadership-24384695/apply-the-executive-learning-cycle?u=76281980&t=88)** I coached a leader named Ben, who strived to make partner in a law firm.
 >
-> **[1:33](https://www.linkedin.com/learning/executive-leadership-24384695/apply-the-executive-learning-cycle?u=76281980&t=93)** To show dedication, he was always last to leave the office.
+> **[1:33](https://www.linkedin.com/learning/executive-leadership-24384695/apply-the-executive-learning-cycle?u=76281980&t=93)** To show dedication, he was always last to leave the [[Microsoft Office|office]].
 >
 > **[1:37](https://www.linkedin.com/learning/executive-leadership-24384695/apply-the-executive-learning-cycle?u=76281980&t=97)** One night, a janitor said, "Can I talk to you?"
 >
@@ -1622,13 +1604,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), leadership (1), [[Learning Agility]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Learning Agility]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** picture (1)
 > **Speakers:** - out (1)
 
-#### Build resilience and resourcefulness
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-leadership-24384695/build-resilience-and-resourcefulness?u=76281980)
+#### [Build resilience and resourcefulness](https://www.linkedin.com/learning/executive-leadership-24384695/build-resilience-and-resourcefulness?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1648,7 +1629,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/executive-leadership-24384695/build-resilience-and-resourcefulness?u=76281980&t=42)** After that, epic no, Gary replied, I understand, but could I chat with you for a minute to get some advice?
 >
-> **[0:51](https://www.linkedin.com/learning/executive-leadership-24384695/build-resilience-and-resourcefulness?u=76281980&t=51)** Fast forward a few months, this person, now, Gary's CEO, was with him in Silicon Valley raising money and the rest is history.
+> **[0:51](https://www.linkedin.com/learning/executive-leadership-24384695/build-resilience-and-resourcefulness?u=76281980&t=51)** Fast forward a few months, this person, now, Gary's CEO, was with him in Silicon Valley raising money and the [[Representational State Transfer (REST)|rest]] is history.
 >
 > **[1:01](https://www.linkedin.com/learning/executive-leadership-24384695/build-resilience-and-resourcefulness?u=76281980&t=61)** But sometimes a no stays, no.
 >
@@ -1678,11 +1659,11 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/executive-leadership-24384695/build-resilience-and-resourcefulness?u=76281980&t=124)** Specific, not pervasive and external, not personal.
 >
-> **[2:09](https://www.linkedin.com/learning/executive-leadership-24384695/build-resilience-and-resourcefulness?u=76281980&t=129)** Even with those tools, the demands of executive leadership are consuming.
+> **[2:09](https://www.linkedin.com/learning/executive-leadership-24384695/build-resilience-and-resourcefulness?u=76281980&t=129)** Even with those tools, the demands of [[Executive Leadership]] are consuming.
 >
 > **[2:13](https://www.linkedin.com/learning/executive-leadership-24384695/build-resilience-and-resourcefulness?u=76281980&t=133)** So always third, fortify the four pillars of your wellbeing.
 >
-> **[2:18](https://www.linkedin.com/learning/executive-leadership-24384695/build-resilience-and-resourcefulness?u=76281980&t=138)** It starts with mental wellness.
+> **[2:18](https://www.linkedin.com/learning/executive-leadership-24384695/build-resilience-and-resourcefulness?u=76281980&t=138)** It starts with mental [[Wellness]].
 >
 > **[2:20](https://www.linkedin.com/learning/executive-leadership-24384695/build-resilience-and-resourcefulness?u=76281980&t=140)** I coached an amazing CEO, a finalist for Time Magazine's, 100 most influential people in the world.
 >
@@ -1730,15 +1711,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wellness]] (4), next (2), [[Representational State Transfer (REST)|Rest]] (1), [[Executive Leadership]] (1)
+> **Frameworks & Libraries:** [[Wellness]] (4), [[Representational State Transfer (REST)|Rest]] (1), [[Executive Leadership]] (1)
 > **Env Vars:** ceo (4)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
 > **Definitions:** known as (1)
 > **Speakers:** - my (1)
 
-#### Expand and nurture your relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-leadership-24384695/expand-and-nurture-your-relationships?u=76281980)
+#### [Expand and nurture your relationships](https://www.linkedin.com/learning/executive-leadership-24384695/expand-and-nurture-your-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1760,7 +1740,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/executive-leadership-24384695/expand-and-nurture-your-relationships?u=76281980&t=37)** How?
 >
-> **[0:38](https://www.linkedin.com/learning/executive-leadership-24384695/expand-and-nurture-your-relationships?u=76281980&t=38)** Well, Bezos simply informed 300 people he knew about his business and asked them to spread the word.
+> **[0:38](https://www.linkedin.com/learning/executive-leadership-24384695/expand-and-nurture-your-relationships?u=76281980&t=38)** Well, Bezos simply informed 300 people he knew about his business and asked them to spread the [[Microsoft Word|word]].
 >
 > **[0:45](https://www.linkedin.com/learning/executive-leadership-24384695/expand-and-nurture-your-relationships?u=76281980&t=45)** Because of those relationships he cultivated long before he needed them, it took only 300 people doing a simple favor for someone they trusted to trigger a massive multiplier effect.
 >
@@ -1808,7 +1788,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/executive-leadership-24384695/expand-and-nurture-your-relationships?u=76281980&t=205)** You're supposed to be learning from him.
 >
-> **[3:27](https://www.linkedin.com/learning/executive-leadership-24384695/expand-and-nurture-your-relationships?u=76281980&t=207)** Move your office next to his.
+> **[3:27](https://www.linkedin.com/learning/executive-leadership-24384695/expand-and-nurture-your-relationships?u=76281980&t=207)** Move your [[Microsoft Office|office]] next to his.
 >
 > **[3:28](https://www.linkedin.com/learning/executive-leadership-24384695/expand-and-nurture-your-relationships?u=76281980&t=208)** Go out for a bite.
 >
@@ -1822,7 +1802,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (5), business (2), management (2), [[Microsoft Word|Word]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** ceo (2)
 > **Cross-References:** earlier in (1)
@@ -1833,8 +1813,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create possibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-leadership-24384695/create-possibility?u=76281980)
+#### [Create possibility](https://www.linkedin.com/learning/executive-leadership-24384695/create-possibility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1858,7 +1837,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/executive-leadership-24384695/create-possibility?u=76281980&t=39)** They serve the people who do.
 >
-> **[0:42](https://www.linkedin.com/learning/executive-leadership-24384695/create-possibility?u=76281980&t=42)** That's the heart of executive leadership in two words, serving others.
+> **[0:42](https://www.linkedin.com/learning/executive-leadership-24384695/create-possibility?u=76281980&t=42)** That's the heart of [[Executive Leadership]] in two words, serving others.
 >
 > **[0:47](https://www.linkedin.com/learning/executive-leadership-24384695/create-possibility?u=76281980&t=47)** Here's another example.
 >
@@ -1898,11 +1877,11 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/executive-leadership-24384695/create-possibility?u=76281980&t=170)** As Benjamin Zander said, "It's a beautiful possibility to live into."
 >
-> **[2:55](https://www.linkedin.com/learning/executive-leadership-24384695/create-possibility?u=76281980&t=175)** That's what we need leaders like you to help the rest of us do, to live into possibility.
+> **[2:55](https://www.linkedin.com/learning/executive-leadership-24384695/create-possibility?u=76281980&t=175)** That's what we need leaders like you to help the [[Representational State Transfer (REST)|rest]] of us do, to live into possibility.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (3), [[Executive Leadership]] (1), power (1), career (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Executive Leadership]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** ceo (1)
 > **Cross-References:** we covered (1)

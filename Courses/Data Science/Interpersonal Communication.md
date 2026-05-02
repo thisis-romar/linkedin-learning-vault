@@ -72,8 +72,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Build your interpersonal communication skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/interpersonal-communication-22638889/build-your-interpersonal-communication-skills?u=76281980)
+#### [Build your interpersonal communication skills](https://www.linkedin.com/learning/interpersonal-communication-22638889/build-your-interpersonal-communication-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -93,13 +92,13 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/interpersonal-communication-22638889/build-your-interpersonal-communication-skills?u=76281980&t=32)** I'm Dorie Clark.
 >
-> **[0:34](https://www.linkedin.com/learning/interpersonal-communication-22638889/build-your-interpersonal-communication-skills?u=76281980&t=34)** I'm the author of the Long Game in Reinventing You, as well as a former presidential campaign spokesperson, where I learned firsthand the importance of getting every word right.
+> **[0:34](https://www.linkedin.com/learning/interpersonal-communication-22638889/build-your-interpersonal-communication-skills?u=76281980&t=34)** I'm the author of the Long Game in Reinventing You, as well as a former presidential campaign spokesperson, where I learned firsthand the importance of getting every [[Microsoft Word|word]] right.
 >
 > **[0:43](https://www.linkedin.com/learning/interpersonal-communication-22638889/build-your-interpersonal-communication-skills?u=76281980&t=43)** Let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (1), game (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - we (1)
 
@@ -108,12 +107,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building rapport
-> [LinkedIn Learning](https://www.linkedin.com/learning/interpersonal-communication-22638889/building-rapport?u=76281980)
+#### [Building rapport](https://www.linkedin.com/learning/interpersonal-communication-22638889/building-rapport?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/interpersonal-communication-22638889/building-rapport?u=76281980&t=0)** - It's ironic, but the more technology becomes a part of our everyday lives, emailing people all the time, interacting on social media, doing video calls and webinars, the more our interpersonal communication skills become critical.
+> **[0:00](https://www.linkedin.com/learning/interpersonal-communication-22638889/building-rapport?u=76281980&t=0)** - It's ironic, but the more technology becomes a part of our everyday lives, emailing people all the time, interacting on social media, doing video calls and webinars, the more our [[Interpersonal Communication]] skills become critical.
 >
 > **[0:15](https://www.linkedin.com/learning/interpersonal-communication-22638889/building-rapport?u=76281980&t=15)** That's because there's more room for misunderstanding when we're not communicating face-to-face.
 >
@@ -157,7 +155,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/interpersonal-communication-22638889/building-rapport?u=76281980&t=143)** Finally, something else that makes a big difference is really listening when you're engaging with that person.
 >
-> **[2:28](https://www.linkedin.com/learning/interpersonal-communication-22638889/building-rapport?u=76281980&t=148)** So often, especially at work, we're rushing around, trying to meet deadlines and get things done and relationship building takes a backseat but that's actually counterproductive because it's the strength of your relationships that allows you to build trust and get more done faster.
+> **[2:28](https://www.linkedin.com/learning/interpersonal-communication-22638889/building-rapport?u=76281980&t=148)** So often, especially at work, we're rushing around, trying to meet deadlines and get things done and [[Relationship Building]] takes a backseat but that's actually counterproductive because it's the strength of your relationships that allows you to build trust and get more done faster.
 >
 > **[2:46](https://www.linkedin.com/learning/interpersonal-communication-22638889/building-rapport?u=76281980&t=166)** So when you're with that person, slow down.
 >
@@ -167,7 +165,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/interpersonal-communication-22638889/building-rapport?u=76281980&t=175)** Don't interrupt them and ask questions to draw them out.
 >
-> **[2:59](https://www.linkedin.com/learning/interpersonal-communication-22638889/building-rapport?u=76281980&t=179)** If it's of interest, I actually have a full LinkedIn learning course on listening skills.
+> **[2:59](https://www.linkedin.com/learning/interpersonal-communication-22638889/building-rapport?u=76281980&t=179)** If it's of interest, I actually have a full [[LinkedIn]] learning course on listening skills.
 >
 > **[3:02](https://www.linkedin.com/learning/interpersonal-communication-22638889/building-rapport?u=76281980&t=182)** You can check out for more information.
 >
@@ -182,8 +180,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - it (1)
 
-#### How to interpret nonverbal cues
-> [LinkedIn Learning](https://www.linkedin.com/learning/interpersonal-communication-22638889/how-to-interpret-nonverbal-cues?u=76281980)
+#### [How to interpret nonverbal cues](https://www.linkedin.com/learning/interpersonal-communication-22638889/how-to-interpret-nonverbal-cues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -211,7 +208,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/interpersonal-communication-22638889/how-to-interpret-nonverbal-cues?u=76281980&t=63)** Number one, most innocuously, it could mean they're cold.
 >
-> **[1:06](https://www.linkedin.com/learning/interpersonal-communication-22638889/how-to-interpret-nonverbal-cues?u=76281980&t=66)** So if the heat's broken in your office, don't worry if your colleagues start doing this, but it could also mean they're feeling nervousness or hostility towards you in some way.
+> **[1:06](https://www.linkedin.com/learning/interpersonal-communication-22638889/how-to-interpret-nonverbal-cues?u=76281980&t=66)** So if the heat's broken in your [[Microsoft Office|office]], don't worry if your colleagues start doing this, but it could also mean they're feeling nervousness or hostility towards you in some way.
 >
 > **[1:17](https://www.linkedin.com/learning/interpersonal-communication-22638889/how-to-interpret-nonverbal-cues?u=76281980&t=77)** Again, you have to compare it with other data, but it's worth noticing.
 >
@@ -263,15 +260,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft Office|Office]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - having (1)
 
-#### How to make requests effectively
-> [LinkedIn Learning](https://www.linkedin.com/learning/interpersonal-communication-22638889/how-to-make-requests-effectively?u=76281980)
+#### [How to make requests effectively](https://www.linkedin.com/learning/interpersonal-communication-22638889/how-to-make-requests-effectively?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -345,20 +341,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), next (1), express (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), in other words (1)
 > **Analogies:** for instance (2)
 > **Speakers:** - sometimes (1)
 
-#### When to send an email vs. have a call or meeting
-> [LinkedIn Learning](https://www.linkedin.com/learning/interpersonal-communication-22638889/when-to-send-an-email-vs-have-a-call-or-meeting?u=76281980)
+#### [When to send an email vs. have a call or meeting](https://www.linkedin.com/learning/interpersonal-communication-22638889/when-to-send-an-email-vs-have-a-call-or-meeting?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/interpersonal-communication-22638889/when-to-send-an-email-vs-have-a-call-or-meeting?u=76281980&t=0)** - Communication choices used to be simple in the old days.
 >
-> **[0:04](https://www.linkedin.com/learning/interpersonal-communication-22638889/when-to-send-an-email-vs-have-a-call-or-meeting?u=76281980&t=4)** if someone worked in your office, you'd meet with them face-to-face.
+> **[0:04](https://www.linkedin.com/learning/interpersonal-communication-22638889/when-to-send-an-email-vs-have-a-call-or-meeting?u=76281980&t=4)** if someone worked in your [[Microsoft Office|office]], you'd meet with them face-to-face.
 >
 > **[0:07](https://www.linkedin.com/learning/interpersonal-communication-22638889/when-to-send-an-email-vs-have-a-call-or-meeting?u=76281980&t=7)** If they worked somewhere else, you'd call them or maybe mail them a letter or send a fax.
 >
@@ -404,7 +398,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/interpersonal-communication-22638889/when-to-send-an-email-vs-have-a-call-or-meeting?u=76281980&t=128)** Next, will the conversation have a lot of give and take?
 >
-> **[2:12](https://www.linkedin.com/learning/interpersonal-communication-22638889/when-to-send-an-email-vs-have-a-call-or-meeting?u=76281980&t=132)** If you're discussing ideas or brainstorming or troubleshooting, a real-time conversation is also helpful so you can get input from your colleagues.
+> **[2:12](https://www.linkedin.com/learning/interpersonal-communication-22638889/when-to-send-an-email-vs-have-a-call-or-meeting?u=76281980&t=132)** If you're discussing ideas or brainstorming or troubleshooting, a [[Real-Time]] conversation is also helpful so you can get input from your colleagues.
 >
 > **[2:21](https://www.linkedin.com/learning/interpersonal-communication-22638889/when-to-send-an-email-vs-have-a-call-or-meeting?u=76281980&t=141)** Interacting live lets you springboard off each other's suggestions and probe and test and refine your concepts fast, and is the information clear-cut?
 >
@@ -426,7 +420,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), next (2), business (1), prompt (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Real-Time]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Best Practices:** it's best to (2)
 > **Ports:** :00 (1)
@@ -438,8 +432,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to manage expectations
-> [LinkedIn Learning](https://www.linkedin.com/learning/interpersonal-communication-22638889/how-to-manage-expectations?u=76281980)
+#### [How to manage expectations](https://www.linkedin.com/learning/interpersonal-communication-22638889/how-to-manage-expectations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -491,18 +484,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), power (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - you (1)
 
-#### Get the guidance you need
-> [LinkedIn Learning](https://www.linkedin.com/learning/interpersonal-communication-22638889/get-the-guidance-you-need?u=76281980)
+#### [Get the guidance you need](https://www.linkedin.com/learning/interpersonal-communication-22638889/get-the-guidance-you-need?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/interpersonal-communication-22638889/get-the-guidance-you-need?u=76281980&t=0)** - One of my first jobs out of grad school, I worked for a boss that was never in the office.
+> **[0:00](https://www.linkedin.com/learning/interpersonal-communication-22638889/get-the-guidance-you-need?u=76281980&t=0)** - One of my first jobs out of grad school, I worked for a boss that was never in the [[Microsoft Office|office]].
 >
 > **[0:05](https://www.linkedin.com/learning/interpersonal-communication-22638889/get-the-guidance-you-need?u=76281980&t=5)** He was constantly networking, meeting people, attending conferences.
 >
@@ -564,13 +555,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), business (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2)
 > **CLI Commands:** find (1)
 > **Documentation:** reference guide (1)
 > **Speakers:** - one (1)
 
-#### Ask your boss the right questions
-> [LinkedIn Learning](https://www.linkedin.com/learning/interpersonal-communication-22638889/ask-your-boss-the-right-questions?u=76281980)
+#### [Ask your boss the right questions](https://www.linkedin.com/learning/interpersonal-communication-22638889/ask-your-boss-the-right-questions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -636,8 +626,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - one (1)
 
-#### Know when to listen and when to speak
-> [LinkedIn Learning](https://www.linkedin.com/learning/interpersonal-communication-22638889/know-when-to-listen-and-when-to-speak?u=76281980)
+#### [Know when to listen and when to speak](https://www.linkedin.com/learning/interpersonal-communication-22638889/know-when-to-listen-and-when-to-speak?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -711,7 +700,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), business (1)
 > **Env Vars:** sec (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - it (1)
@@ -721,8 +709,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Communication and cultural differences
-> [LinkedIn Learning](https://www.linkedin.com/learning/interpersonal-communication-22638889/communication-and-cultural-differences?u=76281980)
+#### [Communication and cultural differences](https://www.linkedin.com/learning/interpersonal-communication-22638889/communication-and-cultural-differences?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -738,7 +725,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/interpersonal-communication-22638889/communication-and-cultural-differences?u=76281980&t=40)** Here are a few quick tips based on work I've done with my colleague, Brandeis University Professor, Andy Molinsky.
 >
-> **[0:46](https://www.linkedin.com/learning/interpersonal-communication-22638889/communication-and-cultural-differences?u=76281980&t=46)** First, it's useful to consider whether your colleague emphasizes relationship building in business or straight up transactions.
+> **[0:46](https://www.linkedin.com/learning/interpersonal-communication-22638889/communication-and-cultural-differences?u=76281980&t=46)** First, it's useful to consider whether your colleague emphasizes [[Relationship Building]] in business or straight up transactions.
 >
 > **[0:53](https://www.linkedin.com/learning/interpersonal-communication-22638889/communication-and-cultural-differences?u=76281980&t=53)** Some people don't feel a need to have a personal relationship with you in order to do business with you, as long as you conduct yourself fairly and ethically, you can get the deal done and they may even actively avoid getting too personal.
 >
@@ -782,15 +769,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), [[Relationship Building]] (2)
+> **Frameworks & Libraries:** [[Relationship Building]] (2)
 > **CLI Commands:** make (2)
 > **Warnings:** be aware (1), keep in mind (1)
 > **Env Vars:** ceo (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - communicating (1)
 
-#### How to handle an interruption
-> [LinkedIn Learning](https://www.linkedin.com/learning/interpersonal-communication-22638889/how-to-handle-an-interruption?u=76281980)
+#### [How to handle an interruption](https://www.linkedin.com/learning/interpersonal-communication-22638889/how-to-handle-an-interruption?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -840,7 +826,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/interpersonal-communication-22638889/how-to-handle-an-interruption?u=76281980&t=109)** Is there a signal or a system we could use in the future in case something like that happens to come up again?"
 >
-> **[1:55](https://www.linkedin.com/learning/interpersonal-communication-22638889/how-to-handle-an-interruption?u=76281980&t=115)** If it's actually your whole office culture, if everyone's interrupting everyone all the time, then you may need to find a way to disrupt the system.
+> **[1:55](https://www.linkedin.com/learning/interpersonal-communication-22638889/how-to-handle-an-interruption?u=76281980&t=115)** If it's actually your whole [[Microsoft Office|office]] culture, if everyone's interrupting everyone all the time, then you may need to find a way to disrupt the system.
 >
 > **[2:03](https://www.linkedin.com/learning/interpersonal-communication-22638889/how-to-handle-an-interruption?u=76281980&t=123)** You could go to your boss, note your observation that people interrupt each other frequently, and ask if she's also noticed that.
 >
@@ -863,8 +849,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - let (1)
 
-#### How to respond to critical feedback
-> [LinkedIn Learning](https://www.linkedin.com/learning/interpersonal-communication-22638889/how-to-respond-to-critical-feedback?u=76281980)
+#### [How to respond to critical feedback](https://www.linkedin.com/learning/interpersonal-communication-22638889/how-to-respond-to-critical-feedback?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -944,14 +929,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (1), next (1)
 > **Analogies:** for instance (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - it (1)
 
-#### How to communicate as an introvert
-> [LinkedIn Learning](https://www.linkedin.com/learning/interpersonal-communication-22638889/how-to-communicate-as-an-introvert?u=76281980)
+#### [How to communicate as an introvert](https://www.linkedin.com/learning/interpersonal-communication-22638889/how-to-communicate-as-an-introvert?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1025,13 +1008,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** strengths (1)
 > **CLI Commands:** make (4)
 > **Analogies:** kind of like (1)
 > **Speakers:** - i (1)
 
-#### Communicating through tense situations
-> [LinkedIn Learning](https://www.linkedin.com/learning/interpersonal-communication-22638889/communicating-through-tense-situations?u=76281980)
+#### [Communicating through tense situations](https://www.linkedin.com/learning/interpersonal-communication-22638889/communicating-through-tense-situations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1095,7 +1076,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
@@ -1107,8 +1087,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Investing in communication skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/interpersonal-communication-22638889/investing-in-communication-skills?u=76281980)
+#### [Investing in communication skills](https://www.linkedin.com/learning/interpersonal-communication-22638889/investing-in-communication-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1118,7 +1097,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/interpersonal-communication-22638889/investing-in-communication-skills?u=76281980&t=10)** But if you are aware of the ways that communication can be derailed, then you can prepare in advance, mitigate potential problems, and quickly discover and fix any crossed wires.
 >
-> **[0:21](https://www.linkedin.com/learning/interpersonal-communication-22638889/investing-in-communication-skills?u=76281980&t=21)** In the Internet era, interpersonal communication skills matter more, not less.
+> **[0:21](https://www.linkedin.com/learning/interpersonal-communication-22638889/investing-in-communication-skills?u=76281980&t=21)** In the Internet era, [[Interpersonal Communication]] skills matter more, not less.
 >
 > **[0:27](https://www.linkedin.com/learning/interpersonal-communication-22638889/investing-in-communication-skills?u=76281980&t=27)** If you can invest just a bit of time in improving your knowledge and honing your abilities, it gives you a critical edge.
 >

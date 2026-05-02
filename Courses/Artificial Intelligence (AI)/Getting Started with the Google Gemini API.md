@@ -83,33 +83,31 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Get started with the Gemini API
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/get-started-with-the-gemini-api?u=76281980)
+#### [Get started with the Gemini API](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/get-started-with-the-gemini-api?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/get-started-with-the-gemini-api?u=76281980&t=0)** - Hello and welcome to this course where I'll be introducing you to the amazing technology that is the Gemini API.
+> **[0:00](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/get-started-with-the-gemini-api?u=76281980&t=0)** - Hello and welcome to this course where I'll be introducing you to the amazing technology that is the [[Gemini]] API.
 >
-> **[0:07](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/get-started-with-the-gemini-api?u=76281980&t=7)** In this course, you will learn what the Gemini API is all about, what the Gemini models are and their capabilities, how the API is structured, priced, and how you can start making API calls to the API to take advantage of the generative AI features on the Gemini platform.
+> **[0:07](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/get-started-with-the-gemini-api?u=76281980&t=7)** In this course, you will learn what the Gemini API is all about, what the Gemini models are and their capabilities, how the API is structured, priced, and how you can start making API calls to the API to take advantage of the [[Generative AI]] features on the Gemini platform.
 >
 > **[0:26](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/get-started-with-the-gemini-api?u=76281980&t=26)** Hi, I am Fikayo Adepoju, a software developer and tech instructor with over 14 years experience developing scalable applications and teaching the next generation of developers.
 >
-> **[0:37](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/get-started-with-the-gemini-api?u=76281980&t=37)** If you're ready to unlock the potential of Google's Gemini API, I'll see you in the course.
+> **[0:37](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/get-started-with-the-gemini-api?u=76281980&t=37)** If you're ready to unlock the potential of [[Google]]'s Gemini API, I'll see you in the course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (6), [[Gemini]] (5), [[Generative AI]] (1), next (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Gemini]] (5), [[Generative AI]] (1), [[Google]] (1)
 > **Env Vars:** api (6)
 > **Speakers:** - hello (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-you-should-know?u=76281980&t=0)** - [Narrator] To take this course, honestly, the only major requirement is to have an interest in artificial intelligence and how it can be implemented in software applications.
+> **[0:00](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-you-should-know?u=76281980&t=0)** - [Narrator] To take this course, honestly, the only major requirement is to have an interest in [[Artificial Intelligence (AI)|artificial intelligence]] and how it can be implemented in software applications.
 >
-> **[0:11](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-you-should-know?u=76281980&t=11)** The Gemini API provides a very low barrier of entry for developers to add AI-powered features to their applications, and that is what this course is designed to introduce.
+> **[0:11](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-you-should-know?u=76281980&t=11)** The [[Gemini]] API provides a very low barrier of entry for developers to add AI-powered features to their applications, and that is what this course is designed to introduce.
 >
 > **[0:23](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-you-should-know?u=76281980&t=23)** However, because we'll be dealing with an API that will be used by developers.
 >
@@ -125,13 +123,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (3), [[Gemini]] (2), [[Programming]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), ai (1)
+> **Frameworks & Libraries:** [[Gemini]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Env Vars:** api (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
-#### Who is this course for?
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/who-is-this-course-for?u=76281980)
+#### [Who is this course for?](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/who-is-this-course-for?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -145,11 +142,11 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/who-is-this-course-for?u=76281980&t=14)** Are you a developer, development team, project manager, or engineering manager trying to learn how to add AI features to your application?
 >
-> **[0:22](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/who-is-this-course-for?u=76281980&t=22)** Or are you just interested in Google's Gemini models, and the capabilities of it's API, and you want to learn how it can be integrated into your applications?
+> **[0:22](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/who-is-this-course-for?u=76281980&t=22)** Or are you just interested in [[Google]]'s [[Gemini]] models, and the capabilities of it's API, and you want to learn how it can be integrated into your applications?
 >
 > **[0:32](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/who-is-this-course-for?u=76281980&t=32)** If your answer to any of these questions is yes, then you are in the right place.
 >
-> **[0:38](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/who-is-this-course-for?u=76281980&t=38)** This course will give you a comprehensive introduction into the Google Gemini API.
+> **[0:38](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/who-is-this-course-for?u=76281980&t=38)** This course will give you a comprehensive introduction into the [[Google Gemini]] API.
 >
 > **[0:43](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/who-is-this-course-for?u=76281980&t=43)** You will learn what the Gemini models are, what the Gemini API does, capabilities of the different models, how Google prices the usage of the Gemini API, how the API is structured, and also get hands-on with some simple demos.
 >
@@ -157,7 +154,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (5), [[Gemini]] (4), [[Google]] (2), [[Engineering]] (1), ai (1)
+> **Frameworks & Libraries:** [[Gemini]] (4), [[Google]] (2), [[Google Gemini]] (1)
 > **Env Vars:** api (5)
 > **Speakers:** - [instructor] (1)
 
@@ -166,20 +163,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Gemini?
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-gemini?u=76281980)
+#### [What is Gemini?](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-gemini?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-gemini?u=76281980&t=0)** - [Instructor] Welcome to the world of Gemini, Google's fast growing, large language model.
+> **[0:00](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-gemini?u=76281980&t=0)** - [Instructor] Welcome to the world of [[Gemini]], [[Google]]'s fast growing, large language model.
 >
-> **[0:06](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-gemini?u=76281980&t=6)** If you're intrigued by the cutting edge advancements in artificial intelligence and how it's transforming technology, you will be excited by Gemini and what it's able to help you achieve.
+> **[0:06](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-gemini?u=76281980&t=6)** If you're intrigued by the cutting edge advancements in [[Artificial Intelligence (AI)|artificial intelligence]] and how it's transforming technology, you will be excited by Gemini and what it's able to help you achieve.
 >
 > **[0:18](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-gemini?u=76281980&t=18)** In this video, we are going to cover what Gemini is, discuss its capabilities, and explore how developers can utilize Gemini in various applications.
 >
 > **[0:28](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-gemini?u=76281980&t=28)** So what is Gemini?
 >
-> **[0:31](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-gemini?u=76281980&t=31)** Gemini is a suite of multimodal generative AI models, developed by the team at Google.
+> **[0:31](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-gemini?u=76281980&t=31)** Gemini is a suite of multimodal [[Generative AI]] models, developed by the team at Google.
 >
 > **[0:38](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-gemini?u=76281980&t=38)** Unlike the legacy power models that only accept text and output text, Gemini models can accept not only text, but also accept images in prompts, depending on what model variation you choose.
 >
@@ -187,7 +183,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-gemini?u=76281980&t=62)** Gemini has been trained on a wide variety of data, enabling it to understand context, nuance, and even human references.
 >
-> **[1:12](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-gemini?u=76281980&t=72)** By predicting the next word in a sequence, Gemini can generate coherent and relevant text, answer questions, compose essays, and even write code.
+> **[1:12](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-gemini?u=76281980&t=72)** By predicting the next [[Microsoft Word|word]] in a sequence, Gemini can generate coherent and relevant text, answer questions, [[Jetpack Compose|compose]] essays, and even write code.
 >
 > **[1:24](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-gemini?u=76281980&t=84)** In this course, I am going to be introducing you to the Gemini API.
 >
@@ -201,7 +197,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-gemini?u=76281980&t=145)** For example, while recording this course, Gemini released the Gemini 1.5 Pro model, an upgrade to the Gemini Pro model.
 >
-> **[2:34](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-gemini?u=76281980&t=154)** This new version accepts a staggering one million plus tokens as input and can also perform advanced tasks, tasks like code generation, text generation, text editing, problem solving, recommendations generation, and lots more.
+> **[2:34](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-gemini?u=76281980&t=154)** This new version accepts a staggering one million plus [[Tokens]] as input and can also perform advanced tasks, tasks like code generation, text generation, text editing, problem solving, recommendations generation, and lots more.
 >
 > **[2:53](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-gemini?u=76281980&t=173)** However, it is currently in preview only mode and can only accept two queries per minute.
 >
@@ -217,7 +213,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (29), api (4), [[Google]] (3), data (3), [[Generative AI]] (2)
+> **Frameworks & Libraries:** [[Gemini]] (29), [[Google]] (3), [[Generative AI]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** api (4)
 > **Versions:** 1.5 (2)
 > **Definitions:** is a  (2)
@@ -226,12 +222,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Gemini Pro
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/gemini-pro?u=76281980)
+#### [Gemini Pro](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/gemini-pro?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/gemini-pro?u=76281980&t=0)** - [Instructor] From the previous video, we learned that Gemini is a family of generative AI models.
+> **[0:00](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/gemini-pro?u=76281980&t=0)** - [Instructor] From the previous video, we learned that [[Gemini]] is a family of [[Generative AI]] models.
 >
 > **[0:06](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/gemini-pro?u=76281980&t=6)** So in this video, we'll be taking a look at the very first model in the family of Gemini models, the Gemini Pro model.
 >
@@ -253,7 +248,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/gemini-pro?u=76281980&t=86)** Only text inputs are supported.
 >
-> **[1:29](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/gemini-pro?u=76281980&t=89)** Also, the maximum amount of tokens that can be consumed as input is currently set at 30,720.
+> **[1:29](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/gemini-pro?u=76281980&t=89)** Also, the maximum amount of [[Tokens]] that can be consumed as input is currently set at 30,720.
 >
 > **[1:38](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/gemini-pro?u=76281980&t=98)** For responses, the token cap is also set at a maximum of 2,048 tokens per output at the time of this recording.
 >
@@ -273,19 +268,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (9), [[Tokens]] (3), next (3), [[Generative AI]] (1), api (1)
+> **Frameworks & Libraries:** [[Gemini]] (9), [[Tokens]] (3), [[Generative AI]] (1)
 > **Cross-References:** in the next (2), previous video (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Gemini Pro Vision
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/gemini-pro-vision?u=76281980)
+#### [Gemini Pro Vision](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/gemini-pro-vision?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/gemini-pro-vision?u=76281980&t=0)** - [Presenter] Now that we understand how the Gemini Pro model works, it's now time to learn about another powerful model variant, the Gemini Pro Vision model.
+> **[0:00](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/gemini-pro-vision?u=76281980&t=0)** - [Presenter] Now that we understand how the [[Gemini]] Pro model works, it's now time to learn about another powerful model variant, the Gemini Pro Vision model.
 >
 > **[0:11](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/gemini-pro-vision?u=76281980&t=11)** The Gemini Pro Vision model, code name, gemini-pro-vision, accepts both text and images as input, but can only generate text as response.
 >
@@ -299,13 +293,13 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/gemini-pro-vision?u=76281980&t=61)** Unlike the Gemini Pro model, the Gemini Pro Vision model cannot handle a multi-turn conversational format.
 >
-> **[1:09](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/gemini-pro-vision?u=76281980&t=69)** This means that you cannot use the Gemini Pro Vision model to build chat applications like customer support assistance or a multimodal chatbot.
+> **[1:09](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/gemini-pro-vision?u=76281980&t=69)** This means that you cannot use the Gemini Pro Vision model to build chat applications like [[Customer Support]] assistance or a multimodal chatbot.
 >
 > **[1:19](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/gemini-pro-vision?u=76281980&t=79)** At least you cannot as at the time of this recording.
 >
 > **[1:23](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/gemini-pro-vision?u=76281980&t=83)** It is highly possible and highly expected that a subsequent version of this model would allow you to be able to build using multi-turn conversational formats.
 >
-> **[1:34](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/gemini-pro-vision?u=76281980&t=94)** Also, the maximum amount of tokens that can be consumed as input is currently set at 12,288.
+> **[1:34](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/gemini-pro-vision?u=76281980&t=94)** Also, the maximum amount of [[Tokens]] that can be consumed as input is currently set at 12,288.
 >
 > **[1:43](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/gemini-pro-vision?u=76281980&t=103)** For responses, the token cap is also set at the time of this recording at a maximum of 4,096 tokens per output, double of what the Gemini Pro model allows.
 >
@@ -321,7 +315,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/gemini-pro-vision?u=76281980&t=151)** You can use it to build features that involve not just processing text, but also images.
 >
-> **[2:37](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/gemini-pro-vision?u=76281980&t=157)** I have a course on the LinkedIn Learning Library where I used this model to build a pretty cool image captioning tool.
+> **[2:37](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/gemini-pro-vision?u=76281980&t=157)** I have a course on the [[LinkedIn]] Learning Library where I used this model to build a pretty cool image captioning tool.
 >
 > **[2:45](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/gemini-pro-vision?u=76281980&t=165)** I'll advise that you check out that course to see a fully practical implementation of this model.
 >
@@ -329,7 +323,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (13), [[Tokens]] (2), next (2), [[Customer Support]] (1), chatbot (1)
+> **Frameworks & Libraries:** [[Gemini]] (13), [[Tokens]] (2), [[Customer Support]] (1), [[LinkedIn]] (1)
 > **Definitions:** means that (2), is a  (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** api (1)
@@ -337,12 +331,11 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [presenter] (1)
 
-#### Embedding
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/embedding?u=76281980)
+#### [Embedding](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/embedding?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/embedding?u=76281980&t=0)** - [Instructor] The next Gemini model we will be exploring is the embeddings model.
+> **[0:00](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/embedding?u=76281980&t=0)** - [Instructor] The next [[Gemini]] model we will be exploring is the embeddings model.
 >
 > **[0:05](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/embedding?u=76281980&t=5)** The embeddings model helps translate information to a universal format that Gemini can understand.
 >
@@ -356,11 +349,11 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/embedding?u=76281980&t=42)** It's like having a universal translator for all the information you give it.
 >
-> **[0:46](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/embedding?u=76281980&t=46)** This capability can be used to implement features such as information retrieval, question answering, recommendation systems, text summarization, anomaly detection, and many more.
+> **[0:46](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/embedding?u=76281980&t=46)** This capability can be used to implement features such as [[Information Retrieval]], question answering, recommendation systems, text summarization, anomaly detection, and many more.
 >
 > **[0:59](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/embedding?u=76281980&t=59)** The embeddings model, code name embedding or, if you want to add the version, embedding-001, more on versions later, takes text as its input and also outputs text, generating embeddings for the input text.
 >
-> **[1:15](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/embedding?u=76281980&t=75)** Currently, it is only optimized for creating embeddings for a maximum input of 2,048 tokens.
+> **[1:15](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/embedding?u=76281980&t=75)** Currently, it is only optimized for creating embeddings for a maximum input of 2,048 [[Tokens]].
 >
 > **[1:23](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/embedding?u=76281980&t=83)** It can only take text as its input and doesn't have any adjustable safety settings.
 >
@@ -372,19 +365,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (6), next (2), [[Information Retrieval]] (1), [[Tokens]] (1), api (1)
+> **Frameworks & Libraries:** [[Gemini]] (6), [[Information Retrieval]] (1), [[Tokens]] (1)
 > **Analogies:** for example (1), imagine (1), it's like (1), such as (1)
 > **Env Vars:** api (1), aqa (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### AQA
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/aqa?u=76281980)
+#### [AQA](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/aqa?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/aqa?u=76281980&t=0)** - [Instructor] In this video, we'll be discussing the last model in Gemini's suite of generative AI models, the AQA model.
+> **[0:00](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/aqa?u=76281980&t=0)** - [Instructor] In this video, we'll be discussing the last model in [[Gemini]]'s suite of [[Generative AI]] models, the AQA model.
 >
 > **[0:08](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/aqa?u=76281980&t=8)** The AQA model, AQA, which is short for Attributed Question-Answering, is a model trained on a specific dataset and designed to answer questions based on that dataset.
 >
@@ -408,7 +400,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/aqa?u=76281980&t=90)** As for the model's limitations, it currently only supports the English language, but hopefully, more languages will be added going forward.
 >
-> **[1:39](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/aqa?u=76281980&t=99)** The input limit is restricted to 7,168 tokens, while the output token limit is currently set at 1,024 tokens.
+> **[1:39](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/aqa?u=76281980&t=99)** The input limit is restricted to 7,168 [[Tokens]], while the output token limit is currently set at 1,024 tokens.
 >
 > **[1:50](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/aqa?u=76281980&t=110)** API requests to this model are also rate limited, allowing a maximum of 60 requests per minute, and that is the AQA model in the family of Gemini generative AI models.
 >
@@ -460,7 +452,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (17), next (3), [[Generative AI]] (2), [[Tokens]] (2), api (2)
+> **Frameworks & Libraries:** [[Gemini]] (17), [[Generative AI]] (2), [[Tokens]] (2)
 > **Env Vars:** aqa (8), api (2)
 > **Versions:** 1.0 (5), 1.5 (3)
 > **Analogies:** for example (4), imagine (1), just like (1)
@@ -474,12 +466,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is the Gemini API?
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-the-gemini-api?u=76281980)
+#### [What is the Gemini API?](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-the-gemini-api?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-the-gemini-api?u=76281980&t=0)** - [Instructor] In this section, we're going to be diving into the Gemini API.
+> **[0:00](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-the-gemini-api?u=76281980&t=0)** - [Instructor] In this section, we're going to be diving into the [[Gemini]] API.
 >
 > **[0:04](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-the-gemini-api?u=76281980&t=4)** We'll be looking at what the Gemini API is, the types of functions it allows you to perform, how it is priced and how to use it effectively.
 >
@@ -491,15 +482,15 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-the-gemini-api?u=76281980&t=27)** In this video, I'll be helping you answer the question, what is the Gemini API?
 >
-> **[0:32](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-the-gemini-api?u=76281980&t=32)** The Gemini API is a programmatic interface exposed by Google AI that allows developers to build AI powered applications or features using Google's Gemini models.
+> **[0:32](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-the-gemini-api?u=76281980&t=32)** The Gemini API is a programmatic interface exposed by [[Google]] AI that allows developers to build AI powered applications or features using Google's Gemini models.
 >
-> **[0:44](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-the-gemini-api?u=76281980&t=44)** With this API, developers can use Gemini models for functions such as content generation, dialogue agents, summarization, classification systems, building image processing engines, and many more.
+> **[0:44](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-the-gemini-api?u=76281980&t=44)** With this API, developers can use Gemini models for functions such as content generation, dialogue agents, summarization, classification systems, building [[Image Processing]] engines, and many more.
 >
 > **[0:57](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-the-gemini-api?u=76281980&t=57)** This opens up an amazing opportunity for developers to add AI capabilities to their applications without having to develop their own custom models.
 >
 > **[1:07](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-the-gemini-api?u=76281980&t=67)** Now that we know what the Gemini API is all about, let's see how it is structured.
 >
-> **[1:13](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-the-gemini-api?u=76281980&t=73)** The Gemini API is a subset of Google's set of generative AI APIs.
+> **[1:13](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-the-gemini-api?u=76281980&t=73)** The Gemini API is a subset of Google's set of [[Generative AI]] APIs.
 >
 > **[1:19](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-the-gemini-api?u=76281980&t=79)** Each version of this RESTful API consists of two main properties, resources and types.
 >
@@ -521,7 +512,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-the-gemini-api?u=76281980&t=146)** Each resource on the API consists of a set of methods representing the functions that developers are allowed to perform on the resource.
 >
-> **[2:35](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-the-gemini-api?u=76281980&t=155)** On the API documentation at ai.[google.dev/api/rest](https://google.dev/api/rest), if you go to the side menu under the REST section, you can expand any of the available API versions.
+> **[2:35](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-the-gemini-api?u=76281980&t=155)** On the API documentation at ai.[google.dev/api/[[Representational State Transfer (REST)|rest]]](https://google.dev/api/rest), if you go to the side menu under the REST section, you can expand any of the available API versions.
 >
 > **[2:49](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-the-gemini-api?u=76281980&t=169)** Here you can see the resources and the types in this version.
 >
@@ -531,7 +522,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-the-gemini-api?u=76281980&t=188)** The models resource represents the generative language models with Gemini being one of these models.
 >
-> **[3:15](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-the-gemini-api?u=76281980&t=195)** The models resource structure, represented as a JSON object, uses a name property to identify each model.
+> **[3:15](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-the-gemini-api?u=76281980&t=195)** The models resource structure, represented as a [[JSON]] object, uses a name property to identify each model.
 >
 > **[3:23](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-the-gemini-api?u=76281980&t=203)** Each model name is preceded by the model's prefix.
 >
@@ -541,7 +532,7 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-the-gemini-api?u=76281980&t=224)** The model's resource structure also contains other types of information describing the model.
 >
-> **[3:50](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-the-gemini-api?u=76281980&t=230)** For example, the version, which represents the version of the model, the input token limit, which is the maximum number of input tokens allowed for this model, the output token limit, which is the maximum number of output tokens allowed for this model, and the temperature.
+> **[3:50](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-the-gemini-api?u=76281980&t=230)** For example, the version, which represents the version of the model, the input token limit, which is the maximum number of input [[Tokens]] allowed for this model, the output token limit, which is the maximum number of output tokens allowed for this model, and the temperature.
 >
 > **[4:12](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-the-gemini-api?u=76281980&t=252)** The temperature is a number between 0.0 and 0.1, which represents the degree of randomness of the response received from the model.
 >
@@ -581,7 +572,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (24), [[Gemini]] (18), ai (5), [[Google]] (4), data (3)
+> **Frameworks & Libraries:** [[Gemini]] (18), [[Google]] (4), [[Tokens]] (3), [[Representational State Transfer (REST)|Rest]] (2), [[Image Processing]] (1)
 > **Env Vars:** api (23), rest (1), json (1), url (1)
 > **Code Identifiers:** generatecontent (1), counttokens (1), streamgeneratecontent (1), embedcontent (1), batchembedcontent (1)
 > **Definitions:** is a  (4), refers to (1)
@@ -590,14 +581,13 @@ created: 2026-05-02
 > **Cross-References:** later in (1), in the next (1)
 > **URLs:** [google.dev](https://google.dev) (1)
 
-#### API versions
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/api-versions?u=76281980)
+#### [API versions](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/api-versions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/api-versions?u=76281980&t=0)** - [Instructor] In this video, we are going to be looking at the different API versions currently available on the Gemini API.
+> **[0:00](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/api-versions?u=76281980&t=0)** - [Instructor] In this video, we are going to be looking at the different API versions currently available on the [[Gemini]] API.
 >
-> **[0:07](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/api-versions?u=76281980&t=7)** In the previous video, we looked at the rest API page at ai.[google.dev/api/rest](https://google.dev/api/rest).
+> **[0:07](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/api-versions?u=76281980&t=7)** In the previous video, we looked at the [[Representational State Transfer (REST)|rest]] API page at ai.[[[Google]].dev/api/rest](https://google.dev/api/rest).
 >
 > **[0:15](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/api-versions?u=76281980&t=15)** On the side menu, under the rest section, you can see that two versions of the API currently exist.
 >
@@ -633,7 +623,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (16), [[Gemini]] (7), [[Representational State Transfer (REST)|Rest]] (3), [[Google]] (3), ai (2)
+> **Frameworks & Libraries:** [[Gemini]] (7), [[Representational State Transfer (REST)|Rest]] (3), [[Google]] (3)
 > **Env Vars:** api (13)
 > **URLs:** [google.dev](https://google.dev) (2)
 > **API Endpoints:** /api/rest (1), /api/docs/api-versions (1)
@@ -642,16 +632,15 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Pricing
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/pricing?u=76281980)
+#### [Pricing](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/pricing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/pricing?u=76281980&t=0)** - [Instructor] In this video, we'll be looking at how usage of the Gemini API is priced.
+> **[0:00](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/pricing?u=76281980&t=0)** - [Instructor] In this video, we'll be looking at how usage of the [[Gemini]] API is priced.
 >
 > **[0:05](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/pricing?u=76281980&t=5)** Gemini follows a usage-based pricing model, so you are charged based on what you use.
 >
-> **[0:13](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/pricing?u=76281980&t=13)** To access the pricing page for Gemini, head over to ai.[google.dev/pricing](https://google.dev/pricing).
+> **[0:13](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/pricing?u=76281980&t=13)** To access the pricing page for Gemini, head over to ai.[[[Google]].dev/pricing](https://google.dev/pricing).
 >
 > **[0:20](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/pricing?u=76281980&t=20)** Currently, the pricing details for the preview, Gemini 1.5 Pro model is displayed.
 >
@@ -667,7 +656,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/pricing?u=76281980&t=62)** However, model token limits for input prompts and output responses still apply.
 >
-> **[1:09](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/pricing?u=76281980&t=69)** Currently, you are limited to 15 requests per minute, which should not contain more than 32,000 tokens.
+> **[1:09](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/pricing?u=76281980&t=69)** Currently, you are limited to 15 requests per minute, which should not contain more than 32,000 [[Tokens]].
 >
 > **[1:16](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/pricing?u=76281980&t=76)** The daily limit is also currently set at 1,500 requests per day.
 >
@@ -703,7 +692,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (8), [[Tokens]] (4), api (3), [[Google]] (3), ai (2)
+> **Frameworks & Libraries:** [[Gemini]] (8), [[Tokens]] (4), [[Google]] (3)
 > **Versions:** 1.5 (1), 1.0 (1), 0.50 (1), 1.50 (1)
 > **Env Vars:** api (3)
 > **UI Navigation:** dropdown (1), switch to (1)
@@ -712,12 +701,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Prerequisites:** you'll need (1)
 
-#### Designing prompt data
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/designing-prompt-data?u=76281980)
+#### [Designing prompt data](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/designing-prompt-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/designing-prompt-data?u=76281980&t=0)** - [Instructor] While you may have typed your prompts into a chat bot in a free form manner, like you will do when typing into something like a Google search box, there is actually a structure for prompting Gemini models that enables you to get the best response.
+> **[0:00](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/designing-prompt-data?u=76281980&t=0)** - [Instructor] While you may have typed your prompts into a chat bot in a free form manner, like you will do when typing into something like a [[Google]] search box, there is actually a structure for prompting [[Gemini]] models that enables you to get the best response.
 >
 > **[0:16](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/designing-prompt-data?u=76281980&t=16)** We'll be looking at that structure in this video and also discussing different ways you can take advantage of it when sending a request to the Gemini API.
 >
@@ -801,7 +789,7 @@ created: 2026-05-02
 >
 > **[4:46](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/designing-prompt-data?u=76281980&t=286)** Context is necessary if you need to supply extra information to the model about the query or task, or scope the boundaries of the response you are expecting.
 >
-> **[4:56](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/designing-prompt-data?u=76281980&t=296)** For example, classify the following programming languages, C, C++, Rust, JavaScript and PHP.
+> **[4:56](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/designing-prompt-data?u=76281980&t=296)** For example, classify the following programming languages, C, C++, [[Rust (Programming Language)|Rust]], [[JavaScript]] and [[PHP]].
 >
 > **[5:06](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/designing-prompt-data?u=76281980&t=306)** Options are compiled or interpreted, to which the model can then respond with a compiled list, which consists of C, C++ and Rust, and an interpreted list, which consists of JavaScript and PHP.
 >
@@ -849,7 +837,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (23), [[Gemini]] (5), api (3), next (2), [[Rust (Programming Language)|Rust]] (2)
+> **Frameworks & Libraries:** [[Gemini]] (5), [[Rust (Programming Language)|Rust]] (2), [[JavaScript]] (2), [[PHP]] (2), [[Google]] (1)
 > **Definitions:** is a  (5), is an  (5), known as (1), is called (1)
 > **Analogies:** for example (6)
 > **CLI Commands:** php (2), cat (1), find (1), make (1)
@@ -858,20 +846,19 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generating content
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/generating-content?u=76281980)
+#### [Generating content](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/generating-content?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/generating-content?u=76281980&t=0)** - [Instructor] Now that we have mastered how to send requests to the API using well-crafted prompts, let's take a look at the process of generating a response and the types of responses.
 >
-> **[0:10](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/generating-content?u=76281980&t=10)** Depending on the model you're using, the Gemini API allows you to use both text and images in your prompts.
+> **[0:10](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/generating-content?u=76281980&t=10)** Depending on the model you're using, the [[Gemini]] API allows you to use both text and images in your prompts.
 >
 > **[0:16](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/generating-content?u=76281980&t=16)** As we learned earlier, the Gemini Pro model can take in only text as input, while the Gemini Pro-vision model is multimodal, meaning that it can take both text and images as input.
 >
 > **[0:30](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/generating-content?u=76281980&t=30)** To generate content, Gemini models use the generateContent method of the model's resource.
 >
-> **[0:38](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/generating-content?u=76281980&t=38)** Here we can see a Python code snippet of the Gemini Pro model generating content with a text input.
+> **[0:38](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/generating-content?u=76281980&t=38)** Here we can see a [[Python (Programming Language)|Python]] code snippet of the Gemini Pro model generating content with a text input.
 >
 > **[0:45](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/generating-content?u=76281980&t=45)** And here is another code snippet of the gemini pro-vision model generating content by taking both text and an image as input.
 >
@@ -893,7 +880,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/generating-content?u=76281980&t=124)** This helps you create a more interactive experience for the user by showing the answers as they become available instead of having the user wait for the whole answer to appear at once.
 >
-> **[2:15](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/generating-content?u=76281980&t=135)** This can be observed in our LLM chat bots like ChatGPT and Gemini display the response to a query.
+> **[2:15](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/generating-content?u=76281980&t=135)** This can be observed in our LLM chat bots like [[ChatGPT]] and Gemini display the response to a query.
 >
 > **[2:22](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/generating-content?u=76281980&t=142)** The text comes in in parts and the user often reads along while more information is still coming in.
 >
@@ -903,7 +890,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (10), api (8), ai (2), [[Python (Programming Language)|Python]] (1), feature (1)
+> **Frameworks & Libraries:** [[Gemini]] (10), [[Python (Programming Language)|Python]] (1), [[ChatGPT]] (1)
 > **Env Vars:** api (8), llm (1)
 > **CLI Commands:** python (1)
 > **Code Identifiers:** generatecontent (1)
@@ -916,18 +903,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting an API key
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/getting-an-api-key?u=76281980)
+#### [Getting an API key](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/getting-an-api-key?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/getting-an-api-key?u=76281980&t=0)** - [Instructor] So far in this course, we have been getting ourselves familiar with what Gemini and the Gemini API is all about.
+> **[0:00](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/getting-an-api-key?u=76281980&t=0)** - [Instructor] So far in this course, we have been getting ourselves familiar with what [[Gemini]] and the Gemini API is all about.
 >
 > **[0:07](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/getting-an-api-key?u=76281980&t=7)** The models, the API structure and functions, and how we can design inputs to generate desired outputs.
 >
 > **[0:13](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/getting-an-api-key?u=76281980&t=13)** In this section, we'll start getting practical with the Gemini API by using the API to perform some tasks.
 >
-> **[0:21](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/getting-an-api-key?u=76281980&t=21)** In this video, we are going to be creating an API key in Google AI Studio.
+> **[0:21](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/getting-an-api-key?u=76281980&t=21)** In this video, we are going to be creating an API key in [[Google]] AI Studio.
 >
 > **[0:27](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/getting-an-api-key?u=76281980&t=27)** The Google AI studio is where you manage your Gemini API account, models, settings, and usage.
 >
@@ -949,13 +935,13 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/getting-an-api-key?u=76281980&t=91)** This will pop up a dialogue where you can create a new API key.
 >
-> **[1:35](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/getting-an-api-key?u=76281980&t=95)** You'll need to create a new key in an existing Google Cloud platform project.
+> **[1:35](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/getting-an-api-key?u=76281980&t=95)** You'll need to create a new key in an existing [[Google Cloud Platform (GCP)|Google Cloud platform]] project.
 >
 > **[1:40](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/getting-an-api-key?u=76281980&t=100)** If you already have an existing project that you want to use, you can search for it using the search bar and select it.
 >
 > **[1:48](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/getting-an-api-key?u=76281980&t=108)** But for this demo, we'll be creating a new GCP project.
 >
-> **[1:52](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/getting-an-api-key?u=76281980&t=112)** To create a new Google Cloud platform project, head over to cloud.[google.com](https://google.com) to access the Google Cloud console, you will already have an account as long as you're signed in with your Gmail account.
+> **[1:52](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/getting-an-api-key?u=76281980&t=112)** To create a new Google Cloud platform project, head over to cloud.[google.com](https://google.com) to access the [[Google Cloud Platform (GCP)|Google Cloud]] console, you will already have an account as long as you're signed in with your Gmail account.
 >
 > **[2:04](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/getting-an-api-key?u=76281980&t=124)** Also, all the offerings in the free tier are enough for what will be demonstrating in this course on the Google Cloud platform homepage, click the console link at the top right hand corner.
 >
@@ -1009,7 +995,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (27), [[Gemini]] (8), [[Google]] (8), ai (8), [[Google Cloud Platform (GCP)|Google cloud platform]] (6)
+> **Frameworks & Libraries:** [[Gemini]] (8), [[Google]] (8), [[Google Cloud Platform (GCP)|Google cloud platform]] (6), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Env Vars:** api (27), gcp (3)
 > **UI Navigation:** go to (2), dropdown (1)
 > **URLs:** [google.com](https://google.com) (2)
@@ -1017,14 +1003,13 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (2)
 > **Speakers:** - [instructor] (1)
 
-#### API structure, models, and endpoints
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/api-structure-models-and-endpoints?u=76281980)
+#### [API structure, models, and endpoints](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/api-structure-models-and-endpoints?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/api-structure-models-and-endpoints?u=76281980&t=0)** - [Instructor] Before we begin our demos with the Gemini API, let's take a look at how the REST API is structured.
+> **[0:00](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/api-structure-models-and-endpoints?u=76281980&t=0)** - [Instructor] Before we begin our demos with the [[Gemini]] API, let's take a look at how the [[Representational State Transfer (REST)|REST]] API is structured.
 >
-> **[0:07](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/api-structure-models-and-endpoints?u=76281980&t=7)** As mentioned earlier in one of the previous videos, the Gemini API is under Google's parent generative AI APIs.
+> **[0:07](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/api-structure-models-and-endpoints?u=76281980&t=7)** As mentioned earlier in one of the previous videos, the Gemini API is under [[Google]]'s parent [[Generative AI]] APIs.
 >
 > **[0:15](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/api-structure-models-and-endpoints?u=76281980&t=15)** The best URL for all of Google's generative AI APIs is, [https://generativelanguage.googleapis.com](https://generativelanguage.googleapis.com).
 >
@@ -1058,7 +1043,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/api-structure-models-and-endpoints?u=76281980&t=132)** The model is then followed by a colon, after which is the method we would like to call.
 >
-> **[2:17](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/api-structure-models-and-endpoints?u=76281980&t=137)** This can be any of the methods we looked at earlier under the model's resource, for example, countTokens, to return the total number of tokens in the input content, or generateContent, which is the main generative method on the model's resource.
+> **[2:17](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/api-structure-models-and-endpoints?u=76281980&t=137)** This can be any of the methods we looked at earlier under the model's resource, for example, countTokens, to return the total number of [[Tokens]] in the input content, or generateContent, which is the main generative method on the model's resource.
 >
 > **[2:35](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/api-structure-models-and-endpoints?u=76281980&t=155)** We will be seeing this method in action later on.
 >
@@ -1098,7 +1083,7 @@ created: 2026-05-02
 >
 > **[4:49](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/api-structure-models-and-endpoints?u=76281980&t=289)** Now, under the v1 models, let us click generateContent.
 >
-> **[4:55](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/api-structure-models-and-endpoints?u=76281980&t=295)** On the generateContent method page, if we scroll down to the request body section, we can see a JSON representation of the expected request body.
+> **[4:55](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/api-structure-models-and-endpoints?u=76281980&t=295)** On the generateContent method page, if we scroll down to the request body section, we can see a [[JSON]] representation of the expected request body.
 >
 > **[5:05](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/api-structure-models-and-endpoints?u=76281980&t=305)** It's an object containing three parts, the contents array, the safety settings array, and the generation config object.
 >
@@ -1140,7 +1125,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (29), [[Gemini]] (14), [[Representational State Transfer (REST)|Rest]] (5), [[Google]] (5), ai (4)
+> **Frameworks & Libraries:** [[Gemini]] (14), [[Representational State Transfer (REST)|Rest]] (5), [[Google]] (5), [[Generative AI]] (2), [[JSON]] (2)
 > **Env Vars:** api (27), url (5), rest (3), api_key (2), json (2)
 > **Code Identifiers:** generatecontent (6), baseurl (3), counttokens (1)
 > **URLs:** [https://generativelanguage.googleapis.com](https://generativelanguage.googleapis.com) (2), [google.dev](https://google.dev) (2), [https://generativelanguage.googleapis.com/v1/models](https://generativelanguage.googleapis.com/v1/models) (1)
@@ -1149,12 +1134,11 @@ created: 2026-05-02
 > **API Endpoints:** /api/rest (2), /v1/models/ (1)
 > **Definitions:** is an  (2), is a  (1)
 
-#### Using the REST API
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/using-the-rest-api?u=76281980)
+#### [Using the REST API](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/using-the-rest-api?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/using-the-rest-api?u=76281980&t=0)** - [Instructor] In this video, we'll be performing our first demonstration of using the Gemini API by making a request to it using the rest API.
+> **[0:00](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/using-the-rest-api?u=76281980&t=0)** - [Instructor] In this video, we'll be performing our first demonstration of using the [[Gemini]] API by making a request to it using the [[Representational State Transfer (REST)|rest]] API.
 >
 > **[0:08](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/using-the-rest-api?u=76281980&t=8)** In order to do this, we will need an HTTP client to make the HTTP call to the API.
 >
@@ -1200,7 +1184,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/using-the-rest-api?u=76281980&t=164)** A dropdown automatically appears beside this list.
 >
-> **[2:47](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/using-the-rest-api?u=76281980&t=167)** Click the dropdown and select the JSON option.
+> **[2:47](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/using-the-rest-api?u=76281980&t=167)** Click the dropdown and select the [[JSON]] option.
 >
 > **[2:51](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/using-the-rest-api?u=76281980&t=171)** Now we can build our request body using JSON.
 >
@@ -1260,7 +1244,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (12), api (11), prompt (5), next (3), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[Gemini]] (12), [[Representational State Transfer (REST)|Rest]] (2), [[JSON]] (2)
 > **Env Vars:** api (11), url (7), http (2), json (2)
 > **Tools:** postman (5), command line (1)
 > **CLI Commands:** make (3), curl (2)
@@ -1269,20 +1253,19 @@ created: 2026-05-02
 > **Cross-References:** previous video (2), in the next (1)
 > **URLs:** [googleapis.com](https://googleapis.com) (1)
 
-#### Using a programming language SDK
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/using-a-programming-language-sdk?u=76281980)
+#### [Using a programming language SDK](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/using-a-programming-language-sdk?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/using-a-programming-language-sdk?u=76281980&t=0)** - [Instructor] In the last video, we called the Gemini API, using the RESTful API by using an HTTP client.
+> **[0:00](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/using-a-programming-language-sdk?u=76281980&t=0)** - [Instructor] In the last video, we called the [[Gemini]] API, using the RESTful API by using an HTTP client.
 >
 > **[0:08](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/using-a-programming-language-sdk?u=76281980&t=8)** In this video, we're going to be looking at a more efficient way to work with the Gemini API in our code base by using a client SDK.
 >
 > **[0:17](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/using-a-programming-language-sdk?u=76281980&t=17)** A client SDK is a software library designed for a programming language to abstract complexities of working with an API of a service or another software.
 >
-> **[0:27](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/using-a-programming-language-sdk?u=76281980&t=27)** Gemini has client SDKs for different popular programming languages, like Python, Node.js, Golang, and many others.
+> **[0:27](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/using-a-programming-language-sdk?u=76281980&t=27)** Gemini has client SDKs for different popular programming languages, like [[Python (Programming Language)|Python]], [[Node.js]], Golang, and many others.
 >
-> **[0:35](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/using-a-programming-language-sdk?u=76281980&t=35)** There are also SDKs for mobile platforms like Android and a Swift library for iOS.
+> **[0:35](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/using-a-programming-language-sdk?u=76281980&t=35)** There are also SDKs for mobile platforms like [[Android]] and a [[Swift (Programming Language)|Swift]] library for iOS.
 >
 > **[0:42](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/using-a-programming-language-sdk?u=76281980&t=42)** In this video, we're going to be making use of the Node.js SDK to interact with the Gemini API, using the same example prompt as we did in the last video.
 >
@@ -1290,7 +1273,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/using-a-programming-language-sdk?u=76281980&t=57)** You can install Node.js by going to the Node.js website, [nodejs.org](https://nodejs.org), to download any of the stable version installation files for your operating system.
 >
-> **[1:06](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/using-a-programming-language-sdk?u=76281980&t=66)** Once installed, Node.js also comes bundled with its default package manager npm, which we're going to be using to install a package.
+> **[1:06](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/using-a-programming-language-sdk?u=76281980&t=66)** Once installed, Node.js also comes bundled with its default package manager [[npm]], which we're going to be using to install a package.
 >
 > **[1:16](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/using-a-programming-language-sdk?u=76281980&t=76)** You can confirm that you have Node.js installed on your system by running the command node -v in your terminal.
 >
@@ -1314,7 +1297,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/using-a-programming-language-sdk?u=76281980&t=130)** To set up a new Node.js project, run the command npm init -y.
 >
-> **[2:16](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/using-a-programming-language-sdk?u=76281980&t=136)** This will make sure that we have a package.json file set up and skip the whole interactive process of setting it up.
+> **[2:16](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/using-a-programming-language-sdk?u=76281980&t=136)** This will make sure that we have a package.[[JSON]] file set up and skip the whole interactive process of setting it up.
 >
 > **[2:24](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/using-a-programming-language-sdk?u=76281980&t=144)** Perfect.
 >
@@ -1322,7 +1305,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/using-a-programming-language-sdk?u=76281980&t=149)** The next thing we're going to do is to install the client's library for Node.js for working with the Gemini API.
 >
-> **[2:36](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/using-a-programming-language-sdk?u=76281980&t=156)** This package is available on the NPM package repository @Google/generative-ai.
+> **[2:36](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/using-a-programming-language-sdk?u=76281980&t=156)** This package is available on the NPM package repository @[[Google]]/generative-ai.
 >
 > **[2:43](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/using-a-programming-language-sdk?u=76281980&t=163)** We're going to be installing it by running this npm command.
 >
@@ -1336,7 +1319,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/using-a-programming-language-sdk?u=76281980&t=196)** Here in my code editor, which is Visual Studio Code, I have opened up the folder that we created for our project, which is Gemini API demo.
 >
-> **[3:24](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/using-a-programming-language-sdk?u=76281980&t=204)** We have our package.json file, and we have our node modules folder where we have just installed our Google generative AI SDK for Node.js.
+> **[3:24](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/using-a-programming-language-sdk?u=76281980&t=204)** We have our package.json file, and we have our node modules folder where we have just installed our Google [[Generative AI]] SDK for Node.js.
 >
 > **[3:33](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/using-a-programming-language-sdk?u=76281980&t=213)** To begin writing our code, let's create a new file and call that file index.js.
 >
@@ -1408,7 +1391,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (18), [[Node.js]] (17), [[Gemini]] (13), prompt (5), [[npm]] (5)
+> **Frameworks & Libraries:** [[Node.js]] (17), [[Gemini]] (13), [[npm]] (5), [[Google]] (5), [[Generative AI]] (3)
 > **CLI Commands:** node (20), npm (5), make (3), python (1)
 > **Env Vars:** api (18), sdk (6), http (1), npm (1)
 > **File Paths:** node.js (17), package.json (2), index.js (2)
@@ -1422,14 +1405,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/next-steps?u=76281980&t=0)** - I hope you have enjoyed this introduction to using the Gemini API, and I hope that this course has given you a better understanding on how to use the Gemini API in your applications.
+> **[0:00](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/next-steps?u=76281980&t=0)** - I hope you have enjoyed this introduction to using the [[Gemini]] API, and I hope that this course has given you a better understanding on how to use the Gemini API in your applications.
 >
-> **[0:12](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/next-steps?u=76281980&t=12)** The LinkedIn Learning Library is full of a ton of AI courses, and I will specifically recommend that you check out my other Gemini course, building an Image caption generator using the Gemini API.
+> **[0:12](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/next-steps?u=76281980&t=12)** The [[LinkedIn]] Learning Library is full of a ton of AI courses, and I will specifically recommend that you check out my other Gemini course, building an Image caption generator using the Gemini API.
 >
 > **[0:24](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/next-steps?u=76281980&t=24)** This course will give you a more practical guide on using the Gemini API in a production application as we build an entire application that uses the Gemini API for its AI powered features from start to finish.
 >
@@ -1439,13 +1421,13 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/next-steps?u=76281980&t=61)** Once again, I am Fikayo Adepoju, and you can reach me on any of my socials displayed on the screen.
 >
-> **[1:07](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/next-steps?u=76281980&t=67)** On LinkedIn using my name, on Twitter @coderonfleek, and on GitHub, also @coderonfleek.
+> **[1:07](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/next-steps?u=76281980&t=67)** On LinkedIn using my name, on Twitter @coderonfleek, and on [[GitHub]], also @coderonfleek.
 >
 > **[1:15](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/next-steps?u=76281980&t=75)** Happy coding.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (6), api (5), ai (5), [[LinkedIn]] (2), application (2)
+> **Frameworks & Libraries:** [[Gemini]] (6), [[LinkedIn]] (2), [[GitHub]] (1)
 > **Env Vars:** api (5), pod (1)
 > **Tools:** github (1)
 > **Speakers:** - i (1)

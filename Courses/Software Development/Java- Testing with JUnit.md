@@ -101,14 +101,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create proper unit tests in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-testing-with-junit-14267963/create-proper-unit-tests-in-java?u=76281980)
+#### [Create proper unit tests in Java](https://www.linkedin.com/learning/java-testing-with-junit-14267963/create-proper-unit-tests-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/java-testing-with-junit-14267963/create-proper-unit-tests-in-java?u=76281980&t=0)** - [Instructor] Let's say you have an amazing application that's running well, but you'd like to make some changes to it.
 >
-> **[0:06](https://www.linkedin.com/learning/java-testing-with-junit-14267963/create-proper-unit-tests-in-java?u=76281980&t=6)** Without techniques such as JUnit this would be a very dangerous thing to do.
+> **[0:06](https://www.linkedin.com/learning/java-testing-with-junit-14267963/create-proper-unit-tests-in-java?u=76281980&t=6)** Without techniques such as [[JUnit]] this would be a very dangerous thing to do.
 >
 > **[0:11](https://www.linkedin.com/learning/java-testing-with-junit-14267963/create-proper-unit-tests-in-java?u=76281980&t=11)** Writing unit tests is very different from writing regular code.
 >
@@ -122,27 +121,26 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/java-testing-with-junit-14267963/create-proper-unit-tests-in-java?u=76281980&t=33)** I'm Maaike van Putten, and I'm a software developer and trainer.
 >
-> **[0:36](https://www.linkedin.com/learning/java-testing-with-junit-14267963/create-proper-unit-tests-in-java?u=76281980&t=36)** JUnit and unit testing in general is really a must have skill for all software creators.
+> **[0:36](https://www.linkedin.com/learning/java-testing-with-junit-14267963/create-proper-unit-tests-in-java?u=76281980&t=36)** JUnit and [[Unit Testing]] in general is really a must have skill for all software creators.
 >
-> **[0:42](https://www.linkedin.com/learning/java-testing-with-junit-14267963/create-proper-unit-tests-in-java?u=76281980&t=42)** I'd like to help you to take your software development knowledge to the next level.
+> **[0:42](https://www.linkedin.com/learning/java-testing-with-junit-14267963/create-proper-unit-tests-in-java?u=76281980&t=42)** I'd like to help you to take your [[Software Development]] knowledge to the next level.
 >
-> **[0:46](https://www.linkedin.com/learning/java-testing-with-junit-14267963/create-proper-unit-tests-in-java?u=76281980&t=46)** So come join me in this LinkedIn learning course on JUnits.
+> **[0:46](https://www.linkedin.com/learning/java-testing-with-junit-14267963/create-proper-unit-tests-in-java?u=76281980&t=46)** So come join me in this [[LinkedIn]] learning course on JUnits.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JUnit]] (3), next (2), application (1), parallel (1), [[Unit Testing]] (1)
+> **Frameworks & Libraries:** [[JUnit]] (3), [[Unit Testing]] (1), [[Software Development]] (1), [[LinkedIn]] (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### What should you know
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-testing-with-junit-14267963/what-should-you-know?u=76281980)
+#### [What should you know](https://www.linkedin.com/learning/java-testing-with-junit-14267963/what-should-you-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-testing-with-junit-14267963/what-should-you-know?u=76281980&t=0)** - [Instructor] Before we get started with JUnit right away, let's first make sure that this course is for you.
+> **[0:00](https://www.linkedin.com/learning/java-testing-with-junit-14267963/what-should-you-know?u=76281980&t=0)** - [Instructor] Before we get started with [[JUnit]] right away, let's first make sure that this course is for you.
 >
-> **[0:05](https://www.linkedin.com/learning/java-testing-with-junit-14267963/what-should-you-know?u=76281980&t=5)** In order to be able to follow along, you'll have to be familiar with using IDEs and basic Java.
+> **[0:05](https://www.linkedin.com/learning/java-testing-with-junit-14267963/what-should-you-know?u=76281980&t=5)** In order to be able to follow along, you'll have to be familiar with using IDEs and basic [[Java]].
 >
 > **[0:12](https://www.linkedin.com/learning/java-testing-with-junit-14267963/what-should-you-know?u=76281980&t=12)** If you are not familiar with the basics of Java yet, these course titles can really help you fix that.
 >
@@ -159,12 +157,11 @@ created: 2026-05-02
 > **Versions:** java 11 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Unit testing and other types of testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-testing-with-junit-14267963/unit-testing-and-other-types-of-testing?u=76281980)
+#### [Unit testing and other types of testing](https://www.linkedin.com/learning/java-testing-with-junit-14267963/unit-testing-and-other-types-of-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-testing-with-junit-14267963/unit-testing-and-other-types-of-testing?u=76281980&t=0)** - [Instructor] So, this course is about unit testing, but before we get started, it's good to be aware that there are many different kinds of testing.
+> **[0:00](https://www.linkedin.com/learning/java-testing-with-junit-14267963/unit-testing-and-other-types-of-testing?u=76281980&t=0)** - [Instructor] So, this course is about [[Unit Testing]], but before we get started, it's good to be aware that there are many different kinds of testing.
 >
 > **[0:07](https://www.linkedin.com/learning/java-testing-with-junit-14267963/unit-testing-and-other-types-of-testing?u=76281980&t=7)** So let's go over a few in this video.
 >
@@ -180,7 +177,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/java-testing-with-junit-14267963/unit-testing-and-other-types-of-testing?u=76281980&t=31)** So for example, the complete API.
 >
-> **[0:33](https://www.linkedin.com/learning/java-testing-with-junit-14267963/unit-testing-and-other-types-of-testing?u=76281980&t=33)** And we're also having integration testing.
+> **[0:33](https://www.linkedin.com/learning/java-testing-with-junit-14267963/unit-testing-and-other-types-of-testing?u=76281980&t=33)** And we're also having [[Integration Testing]].
 >
 > **[0:35](https://www.linkedin.com/learning/java-testing-with-junit-14267963/unit-testing-and-other-types-of-testing?u=76281980&t=35)** And with integration testing, we are testing different parts and how they work together.
 >
@@ -212,21 +209,21 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/java-testing-with-junit-14267963/unit-testing-and-other-types-of-testing?u=76281980&t=109)** So regression testing is pretty much all the automatic tests so far.
 >
-> **[1:53](https://www.linkedin.com/learning/java-testing-with-junit-14267963/unit-testing-and-other-types-of-testing?u=76281980&t=113)** Another one we're having a security testing or sometimes called penetration testing.
+> **[1:53](https://www.linkedin.com/learning/java-testing-with-junit-14267963/unit-testing-and-other-types-of-testing?u=76281980&t=113)** Another one we're having a [[Security Testing]] or sometimes called [[Penetration Testing]].
 >
 > **[1:57](https://www.linkedin.com/learning/java-testing-with-junit-14267963/unit-testing-and-other-types-of-testing?u=76281980&t=117)** Where we are we going to see whether we can actually spot weaknesses in the security of the system.
 >
-> **[2:02](https://www.linkedin.com/learning/java-testing-with-junit-14267963/unit-testing-and-other-types-of-testing?u=76281980&t=122)** And another testing type is load testing to see whether the application can deal with huge loads of traffic at the same time.
+> **[2:02](https://www.linkedin.com/learning/java-testing-with-junit-14267963/unit-testing-and-other-types-of-testing?u=76281980&t=122)** And another testing type is [[Load Testing]] to see whether the application can deal with huge loads of traffic at the same time.
 >
-> **[2:08](https://www.linkedin.com/learning/java-testing-with-junit-14267963/unit-testing-and-other-types-of-testing?u=76281980&t=128)** And the last example I'd like to mention is end-to-end testing, where we're really testing the application as a whole.
+> **[2:08](https://www.linkedin.com/learning/java-testing-with-junit-14267963/unit-testing-and-other-types-of-testing?u=76281980&t=128)** And the last example I'd like to mention is [[End-to-end Testing]], where we're really testing the application as a whole.
 >
-> **[2:14](https://www.linkedin.com/learning/java-testing-with-junit-14267963/unit-testing-and-other-types-of-testing?u=76281980&t=134)** And this can often be automated with tools such as Selenium and others.
+> **[2:14](https://www.linkedin.com/learning/java-testing-with-junit-14267963/unit-testing-and-other-types-of-testing?u=76281980&t=134)** And this can often be automated with tools such as [[Selenium]] and others.
 >
 > **[2:19](https://www.linkedin.com/learning/java-testing-with-junit-14267963/unit-testing-and-other-types-of-testing?u=76281980&t=139)** There's actually a whole lot more of testing types, but just so you know, the thing that you should take away from this is that unit testing alone is definitely necessary to have for your application, but unit testing only is not going to be enough to assure the stability and performance of your system.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unit Testing]] (6), [[Integration Testing]] (4), application (4), [[Security]] (2), api (1)
+> **Frameworks & Libraries:** [[Unit Testing]] (6), [[Integration Testing]] (4), [[Security Testing]] (1), [[Penetration Testing]] (1), [[Load Testing]] (1)
 > **Analogies:** for example (2), imagine (1), such as (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** api (1)
@@ -234,8 +231,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### TDD: Test-driven development
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-testing-with-junit-14267963/tdd-test-driven-development?u=76281980)
+#### [TDD: Test-driven development](https://www.linkedin.com/learning/java-testing-with-junit-14267963/tdd-test-driven-development?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -247,7 +243,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/java-testing-with-junit-14267963/tdd-test-driven-development?u=76281980&t=16)** And the good news is it's not too special.
 >
-> **[0:19](https://www.linkedin.com/learning/java-testing-with-junit-14267963/tdd-test-driven-development?u=76281980&t=19)** However, it is really good to be able to explain what test-driven development is so that you can actually apply this into your day-to-day coding whenever necessary.
+> **[0:19](https://www.linkedin.com/learning/java-testing-with-junit-14267963/tdd-test-driven-development?u=76281980&t=19)** However, it is really good to be able to explain what [[Test-Driven Development]] is so that you can actually apply this into your day-to-day coding whenever necessary.
 >
 > **[0:28](https://www.linkedin.com/learning/java-testing-with-junit-14267963/tdd-test-driven-development?u=76281980&t=28)** So what's happening in TDD is the following.
 >
@@ -295,23 +291,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Test-Driven Development]] (2), application (2), test-driven (1), feature (1)
+> **Frameworks & Libraries:** [[Test-Driven Development]] (2)
 > **Env Vars:** tdd (5)
 > **CLI Commands:** make (2)
 > **Definitions:** stands for (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Advantages of unit testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-testing-with-junit-14267963/advantages-of-unit-testing?u=76281980)
+#### [Advantages of unit testing](https://www.linkedin.com/learning/java-testing-with-junit-14267963/advantages-of-unit-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-testing-with-junit-14267963/advantages-of-unit-testing?u=76281980&t=0)** - [Instructor] So let's take a minute to have a look at the advantages of unit testing so that we can see what unit testing and JUnit in particular is going to be adding to our software.
+> **[0:00](https://www.linkedin.com/learning/java-testing-with-junit-14267963/advantages-of-unit-testing?u=76281980&t=0)** - [Instructor] So let's take a minute to have a look at the advantages of [[Unit Testing]] so that we can see what unit testing and [[JUnit]] in particular is going to be adding to our software.
 >
 > **[0:10](https://www.linkedin.com/learning/java-testing-with-junit-14267963/advantages-of-unit-testing?u=76281980&t=10)** Well, first of all, when unit testing, we're going to be validating the smallest units of software.
 >
-> **[0:15](https://www.linkedin.com/learning/java-testing-with-junit-14267963/advantages-of-unit-testing?u=76281980&t=15)** So we're going to really zoom in and see if this tiny pieces are doing what they should be doing.
+> **[0:15](https://www.linkedin.com/learning/java-testing-with-junit-14267963/advantages-of-unit-testing?u=76281980&t=15)** So we're going to really [[Zoom]] in and see if this tiny pieces are doing what they should be doing.
 >
 > **[0:20](https://www.linkedin.com/learning/java-testing-with-junit-14267963/advantages-of-unit-testing?u=76281980&t=20)** And this will enable us to find bugs easy and early.
 >
@@ -336,18 +331,17 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is JUnit?
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-testing-with-junit-14267963/what-is-junit?u=76281980)
+#### [What is JUnit?](https://www.linkedin.com/learning/java-testing-with-junit-14267963/what-is-junit?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/java-testing-with-junit-14267963/what-is-junit?u=76281980&t=0)** - [Instructor] All right.
 >
-> **[0:01](https://www.linkedin.com/learning/java-testing-with-junit-14267963/what-is-junit?u=76281980&t=1)** So we have been talking about unit testing, other types of testing, but this course is about JUnit.
+> **[0:01](https://www.linkedin.com/learning/java-testing-with-junit-14267963/what-is-junit?u=76281980&t=1)** So we have been talking about [[Unit Testing]], other types of testing, but this course is about [[JUnit]].
 >
 > **[0:07](https://www.linkedin.com/learning/java-testing-with-junit-14267963/what-is-junit?u=76281980&t=7)** So you might wonder at this point, what is JUnit exactly?
 >
-> **[0:11](https://www.linkedin.com/learning/java-testing-with-junit-14267963/what-is-junit?u=76281980&t=11)** Well, JUnit is a unit testing framework for Java, and this means that JUnit contains very many libraries and very many functions and the options for testing the smallest parts of pieces of Java code.
+> **[0:11](https://www.linkedin.com/learning/java-testing-with-junit-14267963/what-is-junit?u=76281980&t=11)** Well, JUnit is a unit testing framework for [[Java]], and this means that JUnit contains very many libraries and very many functions and the options for testing the smallest parts of pieces of Java code.
 >
 > **[0:24](https://www.linkedin.com/learning/java-testing-with-junit-14267963/what-is-junit?u=76281980&t=24)** Junit is not really a standalone kind of thing, it's part of the xUnit series for all other sorts of languages as well.
 >
@@ -363,7 +357,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JUnit]] (10), [[Java]] (4), [[Unit Testing]] (3), next (1)
+> **Frameworks & Libraries:** [[JUnit]] (10), [[Java]] (4), [[Unit Testing]] (3)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** xunit (1)
@@ -376,12 +370,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Quick example of a basic unit test
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-testing-with-junit-14267963/quick-example-of-a-basic-unit-test?u=76281980)
+#### [Quick example of a basic unit test](https://www.linkedin.com/learning/java-testing-with-junit-14267963/quick-example-of-a-basic-unit-test?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-testing-with-junit-14267963/quick-example-of-a-basic-unit-test?u=76281980&t=0)** - [Instructor] Let's start with something that should be finished halfway through this course but might looked like Java and magic now that we're just getting started.
+> **[0:00](https://www.linkedin.com/learning/java-testing-with-junit-14267963/quick-example-of-a-basic-unit-test?u=76281980&t=0)** - [Instructor] Let's start with something that should be finished halfway through this course but might looked like [[Java]] and magic now that we're just getting started.
 >
 > **[0:08](https://www.linkedin.com/learning/java-testing-with-junit-14267963/quick-example-of-a-basic-unit-test?u=76281980&t=8)** We are first going to have a look at the simple Java class with one simple method that does dividing.
 >
@@ -537,11 +530,11 @@ created: 2026-05-02
 >
 > **[6:32](https://www.linkedin.com/learning/java-testing-with-junit-14267963/quick-example-of-a-basic-unit-test?u=76281980&t=392)** All right, So this code has been cleaned up a bit and we've seen a few basic unit tests already.
 >
-> **[6:38](https://www.linkedin.com/learning/java-testing-with-junit-14267963/quick-example-of-a-basic-unit-test?u=76281980&t=398)** The rest of the videos in this chapter are all about setting up your environment, except for the last one in which we're going to be writing our first unit tests ourselves.
+> **[6:38](https://www.linkedin.com/learning/java-testing-with-junit-14267963/quick-example-of-a-basic-unit-test?u=76281980&t=398)** The [[Representational State Transfer (REST)|rest]] of the videos in this chapter are all about setting up your environment, except for the last one in which we're going to be writing our first unit tests ourselves.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (4), next (2), api (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Java]] (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** api (2), orc (1)
 > **Analogies:** for example (3)
@@ -550,14 +543,13 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
 
-#### Setting up JUnit for IntelliJ
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-testing-with-junit-14267963/setting-up-junit-for-intellij?u=76281980)
+#### [Setting up JUnit for IntelliJ](https://www.linkedin.com/learning/java-testing-with-junit-14267963/setting-up-junit-for-intellij?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-testing-with-junit-14267963/setting-up-junit-for-intellij?u=76281980&t=0)** - In this clip, we're going to set up JUnit for IntelliJ.
+> **[0:00](https://www.linkedin.com/learning/java-testing-with-junit-14267963/setting-up-junit-for-intellij?u=76281980&t=0)** - In this clip, we're going to set up [[JUnit]] for IntelliJ.
 >
-> **[0:04](https://www.linkedin.com/learning/java-testing-with-junit-14267963/setting-up-junit-for-intellij?u=76281980&t=4)** We are assuming that you have your Java environment setup already.
+> **[0:04](https://www.linkedin.com/learning/java-testing-with-junit-14267963/setting-up-junit-for-intellij?u=76281980&t=4)** We are assuming that you have your [[Java]] environment setup already.
 >
 > **[0:08](https://www.linkedin.com/learning/java-testing-with-junit-14267963/setting-up-junit-for-intellij?u=76281980&t=8)** If that's the case, it's very easy to add JUnit to your environment.
 >
@@ -623,7 +615,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/java-testing-with-junit-14267963/setting-up-junit-for-intellij?u=76281980&t=145)** And what I'm looking for right now is in the appendix.
 >
-> **[2:30](https://www.linkedin.com/learning/java-testing-with-junit-14267963/setting-up-junit-for-intellij?u=76281980&t=150)** We want to have look at the dependency metadata, and then we want to click on this one.
+> **[2:30](https://www.linkedin.com/learning/java-testing-with-junit-14267963/setting-up-junit-for-intellij?u=76281980&t=150)** We want to have look at the dependency [[Metadata]], and then we want to click on this one.
 >
 > **[2:37](https://www.linkedin.com/learning/java-testing-with-junit-14267963/setting-up-junit-for-intellij?u=76281980&t=157)** And here we can see on top of the screen is the latest version in the junit docs is 5.7.2.
 >
@@ -671,7 +663,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JUnit]] (16), [[Java]] (1), next (1), [[Metadata]] (1), api (1)
+> **Frameworks & Libraries:** [[JUnit]] (16), [[Java]] (1), [[Metadata]] (1)
 > **UI Navigation:** click on (4), go to (3)
 > **Prerequisites:** set up (4), setup (2)
 > **Tools:** intellij (4)
@@ -680,14 +672,13 @@ created: 2026-05-02
 > **CLI Commands:** find (2)
 > **Cross-References:** go back to (1)
 
-#### Setting up JUnit for VS Code
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-testing-with-junit-14267963/setting-up-junit-for-vs-code?u=76281980)
+#### [Setting up JUnit for VS Code](https://www.linkedin.com/learning/java-testing-with-junit-14267963/setting-up-junit-for-vs-code?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/java-testing-with-junit-14267963/setting-up-junit-for-vs-code?u=76281980&t=0)** - [Instructor] If Visual Studio Code is your go-to editor, this getting started video is for you.
 >
-> **[0:06](https://www.linkedin.com/learning/java-testing-with-junit-14267963/setting-up-junit-for-vs-code?u=76281980&t=6)** I'm assuming you have your Java environment set up already and if that's indeed the case, it's very easy to add JUnit to your environment.
+> **[0:06](https://www.linkedin.com/learning/java-testing-with-junit-14267963/setting-up-junit-for-vs-code?u=76281980&t=6)** I'm assuming you have your [[Java]] environment set up already and if that's indeed the case, it's very easy to add [[JUnit]] to your environment.
 >
 > **[0:13](https://www.linkedin.com/learning/java-testing-with-junit-14267963/setting-up-junit-for-vs-code?u=76281980&t=13)** Here are the steps.
 >
@@ -847,21 +838,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JUnit]] (18), [[Java]] (12), hit (4), api (2)
+> **Frameworks & Libraries:** [[JUnit]] (18), [[Java]] (12)
 > **Prerequisites:** install (5), setup (3), getting started (1), assuming you have (1), set up (1)
 > **UI Navigation:** click on (5), select the (3), scroll down (1), open the (1), navigate to (1)
 > **Tools:** visual studio (4)
 > **Code Identifiers:** asserttrue (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up JUnit for Eclipse
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-testing-with-junit-14267963/setting-up-junit-for-eclipse?u=76281980)
+#### [Setting up JUnit for Eclipse](https://www.linkedin.com/learning/java-testing-with-junit-14267963/setting-up-junit-for-eclipse?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-testing-with-junit-14267963/setting-up-junit-for-eclipse?u=76281980&t=0)** - [Instructor] In this video, we're going to set up JUnit for Eclipse.
+> **[0:00](https://www.linkedin.com/learning/java-testing-with-junit-14267963/setting-up-junit-for-eclipse?u=76281980&t=0)** - [Instructor] In this video, we're going to set up [[JUnit]] for Eclipse.
 >
-> **[0:05](https://www.linkedin.com/learning/java-testing-with-junit-14267963/setting-up-junit-for-eclipse?u=76281980&t=5)** I'm assuming that you have Eclipse and your Java SDK installed already.
+> **[0:05](https://www.linkedin.com/learning/java-testing-with-junit-14267963/setting-up-junit-for-eclipse?u=76281980&t=5)** I'm assuming that you have Eclipse and your [[Java]] SDK installed already.
 >
 > **[0:09](https://www.linkedin.com/learning/java-testing-with-junit-14267963/setting-up-junit-for-eclipse?u=76281980&t=9)** If that's the case, it's actually not too hard.
 >
@@ -941,7 +931,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JUnit]] (11), next (3), [[Java]] (2), api (2), hit (1)
+> **Frameworks & Libraries:** [[JUnit]] (11), [[Java]] (2)
 > **Code Identifiers:** groupid (2), artifactid (2)
 > **Prerequisites:** set up (3), setup (1)
 > **Env Vars:** sdk (1), api (1)
@@ -950,8 +940,7 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **UI Navigation:** select the (1)
 
-#### Your first test: HelloJUnit
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-testing-with-junit-14267963/your-first-test-hellojunit?u=76281980)
+#### [Your first test: HelloJUnit](https://www.linkedin.com/learning/java-testing-with-junit-14267963/your-first-test-hellojunit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -985,7 +974,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/java-testing-with-junit-14267963/your-first-test-hellojunit?u=76281980&t=46)** And we're going to start by creating a code test class, in which we can write our tests.
 >
-> **[0:51](https://www.linkedin.com/learning/java-testing-with-junit-14267963/your-first-test-hellojunit?u=76281980&t=51)** So I'm going to click on new Java class in our test Java directory.
+> **[0:51](https://www.linkedin.com/learning/java-testing-with-junit-14267963/your-first-test-hellojunit?u=76281980&t=51)** So I'm going to click on new [[Java]] class in our test Java directory.
 >
 > **[0:56](https://www.linkedin.com/learning/java-testing-with-junit-14267963/your-first-test-hellojunit?u=76281980&t=56)** And I'm going to call this code test.
 >
@@ -1013,7 +1002,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/java-testing-with-junit-14267963/your-first-test-hellojunit?u=76281980&t=110)** And it just looks much prettier.
 >
-> **[1:53](https://www.linkedin.com/learning/java-testing-with-junit-14267963/your-first-test-hellojunit?u=76281980&t=113)** It's org.junit jupiter api assertion.
+> **[1:53](https://www.linkedin.com/learning/java-testing-with-junit-14267963/your-first-test-hellojunit?u=76281980&t=113)** It's org.[[JUnit]] jupiter api assertion.
 >
 > **[1:57](https://www.linkedin.com/learning/java-testing-with-junit-14267963/your-first-test-hellojunit?u=76281980&t=117)** And I'm just going to to use all of them like this.
 >
@@ -1073,7 +1062,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JUnit]] (4), [[Java]] (2), api (2), game (1), next (1)
+> **Frameworks & Libraries:** [[JUnit]] (4), [[Java]] (2)
 > **CLI Commands:** make (2)
 > **Tools:** intellij (2)
 > **UI Navigation:** click on (2)
@@ -1082,8 +1071,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - great (1)
 
-#### A tour of Coderpad
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-testing-with-junit-14267963/a-tour-of-coderpad?u=76281980)
+#### [A tour of Coderpad](https://www.linkedin.com/learning/java-testing-with-junit-14267963/a-tour-of-coderpad?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1093,7 +1081,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/java-testing-with-junit-14267963/a-tour-of-coderpad?u=76281980&t=15)** These challenges are hosted by CoderPad and they appear in the same area of the course where you watch the course's videos.
 >
-> **[0:21](https://www.linkedin.com/learning/java-testing-with-junit-14267963/a-tour-of-coderpad?u=76281980&t=21)** We recommend using a desktop browser for the best experience with code challenges, but you can use the LinkedIn Learning mobile app if you prefer.
+> **[0:21](https://www.linkedin.com/learning/java-testing-with-junit-14267963/a-tour-of-coderpad?u=76281980&t=21)** We recommend using a desktop browser for the best experience with code challenges, but you can use the [[LinkedIn]] Learning mobile app if you prefer.
 >
 > **[0:31](https://www.linkedin.com/learning/java-testing-with-junit-14267963/a-tour-of-coderpad?u=76281980&t=31)** The code challenge has four areas, instructions in the top left, a code editor for your answers in the top right, another code editor where you see how your code is used in the bottom right, and a console for output in the bottom left.
 >
@@ -1137,14 +1125,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Code Identifiers:** showexpectedresult (1), showhints (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Create a test method
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-testing-with-junit-14267963/solution-create-a-test-method?u=76281980)
+#### [Solution: Create a test method](https://www.linkedin.com/learning/java-testing-with-junit-14267963/solution-create-a-test-method?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1161,8 +1148,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Annotations
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-testing-with-junit-14267963/annotations?u=76281980)
+#### [Annotations](https://www.linkedin.com/learning/java-testing-with-junit-14267963/annotations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1170,7 +1156,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/java-testing-with-junit-14267963/annotations?u=76281980&t=10)** Once you get the hang of annotations, you find out that are not too bad.
 >
-> **[0:14](https://www.linkedin.com/learning/java-testing-with-junit-14267963/annotations?u=76281980&t=14)** And the good news is that JUnit is using a lot of annotations, so you get the hang of these soon enough.
+> **[0:14](https://www.linkedin.com/learning/java-testing-with-junit-14267963/annotations?u=76281980&t=14)** And the good news is that [[JUnit]] is using a lot of annotations, so you get the hang of these soon enough.
 >
 > **[0:19](https://www.linkedin.com/learning/java-testing-with-junit-14267963/annotations?u=76281980&t=19)** They're simply some sort of meta data that you can use for your source code.
 >
@@ -1196,7 +1182,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/java-testing-with-junit-14267963/annotations?u=76281980&t=85)** We have seen the at test annotation from JUnit.
 >
-> **[1:28](https://www.linkedin.com/learning/java-testing-with-junit-14267963/annotations?u=76281980&t=88)** This is actually telling Java that we are dealing with a test here, by adding the at annotation on top our method was suddenly recognized as a test, and we could run it as a result.
+> **[1:28](https://www.linkedin.com/learning/java-testing-with-junit-14267963/annotations?u=76281980&t=88)** This is actually telling [[Java]] that we are dealing with a test here, by adding the at annotation on top our method was suddenly recognized as a test, and we could run it as a result.
 >
 > **[1:40](https://www.linkedin.com/learning/java-testing-with-junit-14267963/annotations?u=76281980&t=100)** As I said, during this course, we will be using a lot of annotations because Junit, heavily depends on the annotations for each behavior.
 >
@@ -1206,7 +1192,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JUnit]] (4), data (1), functional (1), [[Java]] (1), next (1)
+> **Frameworks & Libraries:** [[JUnit]] (4), [[Java]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (2)
 > **Cross-References:** in the next (1)
@@ -1214,8 +1200,7 @@ created: 2026-05-02
 > **Exercise Files:** source code (1)
 > **Speakers:** - [instructor] (1)
 
-#### Write and run test classes and methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-testing-with-junit-14267963/write-and-run-test-classes-and-methods?u=76281980)
+#### [Write and run test classes and methods](https://www.linkedin.com/learning/java-testing-with-junit-14267963/write-and-run-test-classes-and-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1271,7 +1256,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/java-testing-with-junit-14267963/write-and-run-test-classes-and-methods?u=76281980&t=134)** So balance just becomes the old balance plus the amount and will return it.
 >
-> **[2:21](https://www.linkedin.com/learning/java-testing-with-junit-14267963/write-and-run-test-classes-and-methods?u=76281980&t=141)** Clearly, I should be checking for negative numbers but it's just a very simplified example for the purpose of getting to know JUnit.
+> **[2:21](https://www.linkedin.com/learning/java-testing-with-junit-14267963/write-and-run-test-classes-and-methods?u=76281980&t=141)** Clearly, I should be checking for negative numbers but it's just a very simplified example for the purpose of getting to know [[JUnit]].
 >
 > **[2:29](https://www.linkedin.com/learning/java-testing-with-junit-14267963/write-and-run-test-classes-and-methods?u=76281980&t=149)** All right, we have two methods.
 >
@@ -1367,15 +1352,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[JUnit]] (2), api (1)
+> **Frameworks & Libraries:** [[JUnit]] (2)
 > **Code Identifiers:** minimumbalance (7), getbalance (4), assertequals (2), testwithdraw (1), bankaccount (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1), in the next (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### DisplayName
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-testing-with-junit-14267963/displayname?u=76281980)
+#### [DisplayName](https://www.linkedin.com/learning/java-testing-with-junit-14267963/displayname?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1441,7 +1425,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
@@ -1449,8 +1432,7 @@ created: 2026-05-02
 > **Best Practices:** good practice (1)
 > **Speakers:** - so (1)
 
-#### Assertions
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-testing-with-junit-14267963/assertions?u=76281980)
+#### [Assertions](https://www.linkedin.com/learning/java-testing-with-junit-14267963/assertions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1458,7 +1440,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/java-testing-with-junit-14267963/assertions?u=76281980&t=3)** If an assertion fails, the test fails.
 >
-> **[0:06](https://www.linkedin.com/learning/java-testing-with-junit-14267963/assertions?u=76281980&t=6)** We can find the assertions in the assertions class in the org.junit.jupiter.api package.
+> **[0:06](https://www.linkedin.com/learning/java-testing-with-junit-14267963/assertions?u=76281980&t=6)** We can find the assertions in the assertions class in the org.[[JUnit]].jupiter.api package.
 >
 > **[0:12](https://www.linkedin.com/learning/java-testing-with-junit-14267963/assertions?u=76281980&t=12)** We usually use a static import for this one so that we can use all the methods without having the assertions. in front of them.
 >
@@ -1476,7 +1458,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/java-testing-with-junit-14267963/assertions?u=76281980&t=46)** It's actually the case for all the assertion methods inside the assertions class.
 >
-> **[0:50](https://www.linkedin.com/learning/java-testing-with-junit-14267963/assertions?u=76281980&t=50)** Java will know which one is the closest match, and that is the assertion that will be used.
+> **[0:50](https://www.linkedin.com/learning/java-testing-with-junit-14267963/assertions?u=76281980&t=50)** [[Java]] will know which one is the closest match, and that is the assertion that will be used.
 >
 > **[0:56](https://www.linkedin.com/learning/java-testing-with-junit-14267963/assertions?u=76281980&t=56)** We're not going to be discussing all the overloads in this video.
 >
@@ -1674,7 +1656,7 @@ created: 2026-05-02
 >
 > **[9:34](https://www.linkedin.com/learning/java-testing-with-junit-14267963/assertions?u=76281980&t=574)** And as you can see, it's passing since it is throwing the runtime exception.
 >
-> **[9:38](https://www.linkedin.com/learning/java-testing-with-junit-14267963/assertions?u=76281980&t=578)** There's actually also a way to check whether executables don't throw an exception regardless of the rest of the result, and that is the assertAll method.
+> **[9:38](https://www.linkedin.com/learning/java-testing-with-junit-14267963/assertions?u=76281980&t=578)** There's actually also a way to check whether executables don't throw an exception regardless of the [[Representational State Transfer (REST)|rest]] of the result, and that is the assertAll method.
 >
 > **[9:46](https://www.linkedin.com/learning/java-testing-with-junit-14267963/assertions?u=76281980&t=586)** We can either send four arcs with executables or a string of executables as a parameter.
 >
@@ -1808,7 +1790,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JUnit]] (1), api (1), [[Java]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[JUnit]] (1), [[Java]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** bankaccount (15), assertequals (5), asserttrue (4), assertfalse (3), isactive (3)
 > **CLI Commands:** make (9), find (1)
 > **Analogies:** for example (5)
@@ -1817,8 +1799,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Prerequisites:** you'll need (1)
 
-#### Assumptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-testing-with-junit-14267963/assumptions?u=76281980)
+#### [Assumptions](https://www.linkedin.com/learning/java-testing-with-junit-14267963/assumptions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1828,7 +1809,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/java-testing-with-junit-14267963/assumptions?u=76281980&t=7)** If we don't meet the assumption, the test won't be executed.
 >
-> **[0:11](https://www.linkedin.com/learning/java-testing-with-junit-14267963/assumptions?u=76281980&t=11)** Assumptions are in a class in the org.junit.jupiter.api package.
+> **[0:11](https://www.linkedin.com/learning/java-testing-with-junit-14267963/assumptions?u=76281980&t=11)** Assumptions are in a class in the org.[[JUnit]].jupiter.api package.
 >
 > **[0:16](https://www.linkedin.com/learning/java-testing-with-junit-14267963/assumptions?u=76281980&t=16)** This class contains methods that will test assumptions.
 >
@@ -1968,7 +1949,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JUnit]] (2), api (1)
+> **Frameworks & Libraries:** [[JUnit]] (2)
 > **Code Identifiers:** asserttrue (4), assumingthat (4), assumetrue (4), assumefalse (3), assertfalse (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
@@ -1976,14 +1957,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Test execution order
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-testing-with-junit-14267963/test-execution-order?u=76281980)
+#### [Test execution order](https://www.linkedin.com/learning/java-testing-with-junit-14267963/test-execution-order?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/java-testing-with-junit-14267963/test-execution-order?u=76281980&t=0)** - [Instructor] If we don't say anything about the order of our tests, we cannot really predict what will happen.
 >
-> **[0:05](https://www.linkedin.com/learning/java-testing-with-junit-14267963/test-execution-order?u=76281980&t=5)** This is not a bad thing in many cases because preferably we want our tests to be independent when we're testing units with JUnit, which means that the order of execution shouldn't matter.
+> **[0:05](https://www.linkedin.com/learning/java-testing-with-junit-14267963/test-execution-order?u=76281980&t=5)** This is not a bad thing in many cases because preferably we want our tests to be independent when we're testing units with [[JUnit]], which means that the order of execution shouldn't matter.
 >
 > **[0:15](https://www.linkedin.com/learning/java-testing-with-junit-14267963/test-execution-order?u=76281980&t=15)** In some cases, though, you might still want to test the order of the execution.
 >
@@ -2073,8 +2053,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Nested tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-testing-with-junit-14267963/nested-tests?u=76281980)
+#### [Nested tests](https://www.linkedin.com/learning/java-testing-with-junit-14267963/nested-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2172,14 +2151,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1)
 > **Analogies:** for example (2), such as (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** good practice (1)
 > **Speakers:** - we (1)
 
-#### Solution: Custom names
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-testing-with-junit-14267963/solution-custom-names?u=76281980)
+#### [Solution: Custom names](https://www.linkedin.com/learning/java-testing-with-junit-14267963/solution-custom-names?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2209,14 +2186,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Dependency injection in your tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-testing-with-junit-14267963/dependency-injection-in-your-tests?u=76281980)
+#### [Dependency injection in your tests](https://www.linkedin.com/learning/java-testing-with-junit-14267963/dependency-injection-in-your-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-testing-with-junit-14267963/dependency-injection-in-your-tests?u=76281980&t=0)** - [Instructor] So we have seen the basics of JUnit.
+> **[0:00](https://www.linkedin.com/learning/java-testing-with-junit-14267963/dependency-injection-in-your-tests?u=76281980&t=0)** - [Instructor] So we have seen the basics of [[JUnit]].
 >
-> **[0:03](https://www.linkedin.com/learning/java-testing-with-junit-14267963/dependency-injection-in-your-tests?u=76281980&t=3)** Let's tackle a slightly more complex topic: dependency injection in tests.
+> **[0:03](https://www.linkedin.com/learning/java-testing-with-junit-14267963/dependency-injection-in-your-tests?u=76281980&t=3)** Let's tackle a slightly more complex topic: [[Dependency Injection]] in tests.
 >
 > **[0:08](https://www.linkedin.com/learning/java-testing-with-junit-14267963/dependency-injection-in-your-tests?u=76281980&t=8)** Dependency injection is a way of having less tightly coupled classes, which is a good thing.
 >
@@ -2240,7 +2216,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/java-testing-with-junit-14267963/dependency-injection-in-your-tests?u=76281980&t=59)** We have some sort of class, a car, and this car, it has an engine, and we need to instantiate this engine, either here or in the constructor or whenever we want to use it first.
 >
-> **[1:08](https://www.linkedin.com/learning/java-testing-with-junit-14267963/dependency-injection-in-your-tests?u=76281980&t=68)** Then we have the rest of the code of the class.
+> **[1:08](https://www.linkedin.com/learning/java-testing-with-junit-14267963/dependency-injection-in-your-tests?u=76281980&t=68)** Then we have the [[Representational State Transfer (REST)|rest]] of the code of the class.
 >
 > **[1:11](https://www.linkedin.com/learning/java-testing-with-junit-14267963/dependency-injection-in-your-tests?u=76281980&t=71)** With dependency injection, we actually have the @Inject annotation, and the framework will be giving us our Engine object.
 >
@@ -2336,8 +2312,7 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Repeated tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-testing-with-junit-14267963/repeated-tests?u=76281980)
+#### [Repeated tests](https://www.linkedin.com/learning/java-testing-with-junit-14267963/repeated-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2351,7 +2326,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/java-testing-with-junit-14267963/repeated-tests?u=76281980&t=17)** It's actually very easy to use.
 >
-> **[0:19](https://www.linkedin.com/learning/java-testing-with-junit-14267963/repeated-tests?u=76281980&t=19)** If we go ahead and copy our dependency injection code to new class.
+> **[0:19](https://www.linkedin.com/learning/java-testing-with-junit-14267963/repeated-tests?u=76281980&t=19)** If we go ahead and copy our [[Dependency Injection]] code to new class.
 >
 > **[0:23](https://www.linkedin.com/learning/java-testing-with-junit-14267963/repeated-tests?u=76281980&t=23)** I'm going to create a new class and I'm going to be calling this BankAccountRepeatedTestTest.
 >
@@ -2403,7 +2378,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Dependency Injection]] (2), next (1)
+> **Frameworks & Libraries:** [[Dependency Injection]] (2)
 > **Analogies:** for example (6), imagine (1)
 > **Code Identifiers:** repetitioninfo (2), getcurrentrepetition (2)
 > **CLI Commands:** make (1)
@@ -2411,8 +2386,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Parameterized tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-testing-with-junit-14267963/parameterized-tests?u=76281980)
+#### [Parameterized tests](https://www.linkedin.com/learning/java-testing-with-junit-14267963/parameterized-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2582,7 +2556,7 @@ created: 2026-05-02
 >
 > **[6:26](https://www.linkedin.com/learning/java-testing-with-junit-14267963/parameterized-tests?u=76281980&t=386)** It also says so, three tests are passing.
 >
-> **[6:29](https://www.linkedin.com/learning/java-testing-with-junit-14267963/parameterized-tests?u=76281980&t=389)** JUnit will try to cause the source to the type of the parameter.
+> **[6:29](https://www.linkedin.com/learning/java-testing-with-junit-14267963/parameterized-tests?u=76281980&t=389)** [[JUnit]] will try to cause the source to the type of the parameter.
 >
 > **[6:32](https://www.linkedin.com/learning/java-testing-with-junit-14267963/parameterized-tests?u=76281980&t=392)** So in our case, we have for example, a hundred and then followed by Mary.
 >
@@ -2656,7 +2630,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), hit (1), next (1), [[JUnit]] (1)
+> **Frameworks & Libraries:** [[JUnit]] (1)
 > **Env Vars:** csv (14), tra (1), cvs (1)
 > **Analogies:** for example (4), such as (1)
 > **CLI Commands:** make (2), find (1)
@@ -2664,14 +2638,13 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Speakers:** - we (1)
 
-#### Timeouts
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-testing-with-junit-14267963/timeouts?u=76281980)
+#### [Timeouts](https://www.linkedin.com/learning/java-testing-with-junit-14267963/timeouts?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/java-testing-with-junit-14267963/timeouts?u=76281980&t=0)** - [Instructor] It is not uncommon that you want to specify a certain max execution time for a test.
 >
-> **[0:06](https://www.linkedin.com/learning/java-testing-with-junit-14267963/timeouts?u=76281980&t=6)** With different and older JUnit dependencies, there were multiple ways to do this.
+> **[0:06](https://www.linkedin.com/learning/java-testing-with-junit-14267963/timeouts?u=76281980&t=6)** With different and older [[JUnit]] dependencies, there were multiple ways to do this.
 >
 > **[0:10](https://www.linkedin.com/learning/java-testing-with-junit-14267963/timeouts?u=76281980&t=10)** We could add timeout as an attribute to do the test and we could create a rule for all the tests in our class.
 >
@@ -2790,8 +2763,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Parallel execution
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-testing-with-junit-14267963/parallel-execution?u=76281980)
+#### [Parallel execution](https://www.linkedin.com/learning/java-testing-with-junit-14267963/parallel-execution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2883,12 +2855,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (6), concurrent (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Lifecyle control: Before and after
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-testing-with-junit-14267963/lifecyle-control-before-and-after?u=76281980)
+#### [Lifecyle control: Before and after](https://www.linkedin.com/learning/java-testing-with-junit-14267963/lifecyle-control-before-and-after?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3008,7 +2978,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** preptest (1), bankaccount (1), endtest (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** per_class (1)
@@ -3016,9 +2985,9 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Prerequisites:** set up (1)
+> **Speakers:** - [instructor] (1)
 
-#### Custom messages and reports
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-testing-with-junit-14267963/custom-messages-and-reports?u=76281980)
+#### [Custom messages and reports](https://www.linkedin.com/learning/java-testing-with-junit-14267963/custom-messages-and-reports?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3054,7 +3023,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/java-testing-with-junit-14267963/custom-messages-and-reports?u=76281980&t=92)** So, let's go to our pom, and we're going to have to go ahead and make some modifications.
 >
-> **[1:40](https://www.linkedin.com/learning/java-testing-with-junit-14267963/custom-messages-and-reports?u=76281980&t=100)** So, we're going to make sure that we are having the latest version of Java.
+> **[1:40](https://www.linkedin.com/learning/java-testing-with-junit-14267963/custom-messages-and-reports?u=76281980&t=100)** So, we're going to make sure that we are having the latest version of [[Java]].
 >
 > **[1:45](https://www.linkedin.com/learning/java-testing-with-junit-14267963/custom-messages-and-reports?u=76281980&t=105)** And then, in here, I'm going to be adding a "build" section.
 >
@@ -3103,14 +3072,13 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1), go to (1)
 > **Definitions:** is a  (1)
 
-#### Conditional test execution
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-testing-with-junit-14267963/conditional-test-execution?u=76281980)
+#### [Conditional test execution](https://www.linkedin.com/learning/java-testing-with-junit-14267963/conditional-test-execution?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/java-testing-with-junit-14267963/conditional-test-execution?u=76281980&t=0)** - [Instructor] We can have conditions for running our tests.
 >
-> **[0:03](https://www.linkedin.com/learning/java-testing-with-junit-14267963/conditional-test-execution?u=76281980&t=3)** For example, only run a certain version of a test on a certain operating system or for a specific Java Runtime Environment.
+> **[0:03](https://www.linkedin.com/learning/java-testing-with-junit-14267963/conditional-test-execution?u=76281980&t=3)** For example, only run a certain version of a test on a certain operating system or for a specific [[Java]] Runtime Environment.
 >
 > **[0:11](https://www.linkedin.com/learning/java-testing-with-junit-14267963/conditional-test-execution?u=76281980&t=11)** The same thing we could do for system properties.
 >
@@ -3146,7 +3114,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/java-testing-with-junit-14267963/conditional-test-execution?u=76281980&t=74)** I'm going to be selecting MAC.
 >
-> **[1:17](https://www.linkedin.com/learning/java-testing-with-junit-14267963/conditional-test-execution?u=76281980&t=77)** And I'm going to do something very similar for Windows, but this time it should be enabled on Windows only.
+> **[1:17](https://www.linkedin.com/learning/java-testing-with-junit-14267963/conditional-test-execution?u=76281980&t=77)** And I'm going to do something very similar for [[Windows]], but this time it should be enabled on Windows only.
 >
 > **[1:25](https://www.linkedin.com/learning/java-testing-with-junit-14267963/conditional-test-execution?u=76281980&t=85)** So if I go ahead and I run this class right now, it has two tests in there and the Mac one should run and the Windows one should not.
 >
@@ -3216,8 +3184,7 @@ created: 2026-05-02
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Disabling unit tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-testing-with-junit-14267963/disabling-unit-tests?u=76281980)
+#### [Disabling unit tests](https://www.linkedin.com/learning/java-testing-with-junit-14267963/disabling-unit-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3253,16 +3220,15 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/java-testing-with-junit-14267963/disabling-unit-tests?u=76281980&t=95)** You simply add the @disabled annotation to it.
 >
-> **[1:39](https://www.linkedin.com/learning/java-testing-with-junit-14267963/disabling-unit-tests?u=76281980&t=99)** And this annotation is just like all the other ones we've seen from the org.junit.jupiter.api.
+> **[1:39](https://www.linkedin.com/learning/java-testing-with-junit-14267963/disabling-unit-tests?u=76281980&t=99)** And this annotation is just like all the other ones we've seen from the org.[[JUnit]].jupiter.api.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (1), [[JUnit]] (1), api (1)
+> **Frameworks & Libraries:** [[JUnit]] (1)
 > **Analogies:** for example (1), just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Refactoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-testing-with-junit-14267963/solution-refactoring?u=76281980)
+#### [Solution: Refactoring](https://www.linkedin.com/learning/java-testing-with-junit-14267963/solution-refactoring?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3288,8 +3254,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to make code ready for unit testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-testing-with-junit-14267963/how-to-make-code-ready-for-unit-testing?u=76281980)
+#### [How to make code ready for unit testing](https://www.linkedin.com/learning/java-testing-with-junit-14267963/how-to-make-code-ready-for-unit-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3317,7 +3282,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/java-testing-with-junit-14267963/how-to-make-code-ready-for-unit-testing?u=76281980&t=50)** But what we really want to be testing is the unit that we are testing.
 >
-> **[0:54](https://www.linkedin.com/learning/java-testing-with-junit-14267963/how-to-make-code-ready-for-unit-testing?u=76281980&t=54)** And one of the ways to do this is to work with dependency injection.
+> **[0:54](https://www.linkedin.com/learning/java-testing-with-junit-14267963/how-to-make-code-ready-for-unit-testing?u=76281980&t=54)** And one of the ways to do this is to work with [[Dependency Injection]].
 >
 > **[0:58](https://www.linkedin.com/learning/java-testing-with-junit-14267963/how-to-make-code-ready-for-unit-testing?u=76281980&t=58)** Another way to keep our code loosely coupled is to make sure a piece of code only has one responsibility.
 >
@@ -3409,7 +3374,7 @@ created: 2026-05-02
 >
 > **[5:47](https://www.linkedin.com/learning/java-testing-with-junit-14267963/how-to-make-code-ready-for-unit-testing?u=76281980&t=347)** Why is this you may wonder?
 >
-> **[5:48](https://www.linkedin.com/learning/java-testing-with-junit-14267963/how-to-make-code-ready-for-unit-testing?u=76281980&t=348)** Well, this is one of the quirky things of Java that's fooling us over here, because we have a public string in our class.
+> **[5:48](https://www.linkedin.com/learning/java-testing-with-junit-14267963/how-to-make-code-ready-for-unit-testing?u=76281980&t=348)** Well, this is one of the quirky things of [[Java]] that's fooling us over here, because we have a public string in our class.
 >
 > **[5:55](https://www.linkedin.com/learning/java-testing-with-junit-14267963/how-to-make-code-ready-for-unit-testing?u=76281980&t=355)** So this is a attribute of the TestableCode class, and we did not initialize it, which means that Java's going to default it to null.
 >
@@ -3567,11 +3532,11 @@ created: 2026-05-02
 >
 > **[13:38](https://www.linkedin.com/learning/java-testing-with-junit-14267963/how-to-make-code-ready-for-unit-testing?u=76281980&t=818)** And as an extra bonus, our test became a whole lot more reliable.
 >
-> **[13:42](https://www.linkedin.com/learning/java-testing-with-junit-14267963/how-to-make-code-ready-for-unit-testing?u=76281980&t=822)** And this is why it's very important that before you start unit testing, you're going to go and have a very critical look at your code to determine whether your code is actually testable in the state as is or not.
+> **[13:42](https://www.linkedin.com/learning/java-testing-with-junit-14267963/how-to-make-code-ready-for-unit-testing?u=76281980&t=822)** And this is why it's very important that before you start [[Unit Testing]], you're going to go and have a very critical look at your code to determine whether your code is actually testable in the state as is or not.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Debugging]] (2), [[Java]] (2), [[Dependency Injection]] (1), next (1), [[Unit Testing]] (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[Dependency Injection]] (1), [[Unit Testing]] (1)
 > **Code Identifiers:** greetuser (4), daypart (3), greetday (3), assertequals (3), greetdaypart (2)
 > **CLI Commands:** make (5), find (1)
 > **Definitions:** means that (2), is an  (2), is a  (1)
@@ -3580,8 +3545,7 @@ created: 2026-05-02
 > **Tools:** intellij (1)
 > **Analogies:** for example (1)
 
-#### Best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-testing-with-junit-14267963/best-practices?u=76281980)
+#### [Best practices](https://www.linkedin.com/learning/java-testing-with-junit-14267963/best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3637,21 +3601,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), application (1)
 > **CLI Commands:** make (4)
 > **Definitions:** means that (2), is a  (1)
 > **Cross-References:** previous video (1), in the next (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Mockito
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-testing-with-junit-14267963/mockito?u=76281980)
+#### [Mockito](https://www.linkedin.com/learning/java-testing-with-junit-14267963/mockito?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/java-testing-with-junit-14267963/mockito?u=76281980&t=0)** - [Instructor] Whenever you are using any framework, you'll often find yourself using common libraries that go well with it.
 >
-> **[0:06](https://www.linkedin.com/learning/java-testing-with-junit-14267963/mockito?u=76281980&t=6)** For unit testing, you really want to minimize the dependencies.
+> **[0:06](https://www.linkedin.com/learning/java-testing-with-junit-14267963/mockito?u=76281980&t=6)** For [[Unit Testing]], you really want to minimize the dependencies.
 >
 > **[0:09](https://www.linkedin.com/learning/java-testing-with-junit-14267963/mockito?u=76281980&t=9)** And as we just saw, the fact is, that we often can't get around needing an external object.
 >
@@ -3667,7 +3629,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/java-testing-with-junit-14267963/mockito?u=76281980&t=42)** You'll have to add the following dependencies to your pom.
 >
-> **[0:45](https://www.linkedin.com/learning/java-testing-with-junit-14267963/mockito?u=76281980&t=45)** So the first one is the "org.mockito" groupId, and then the artifactId, "mockito-junit-jupiter".
+> **[0:45](https://www.linkedin.com/learning/java-testing-with-junit-14267963/mockito?u=76281980&t=45)** So the first one is the "org.mockito" groupId, and then the artifactId, "mockito-[[JUnit]]-jupiter".
 >
 > **[0:52](https://www.linkedin.com/learning/java-testing-with-junit-14267963/mockito?u=76281980&t=52)** Just go ahead and use the latest version.
 >
@@ -3733,7 +3695,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unit Testing]] (1), [[JUnit]] (1), api (1), next (1)
+> **Frameworks & Libraries:** [[Unit Testing]] (1), [[JUnit]] (1)
 > **Code Identifiers:** groupid (2), artifactid (2), calculatemethods (2), thenreturn (2), assertequals (2)
 > **CLI Commands:** make (3), find (1)
 > **Versions:** 2.0 (3)
@@ -3747,12 +3709,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps with JUnit
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-testing-with-junit-14267963/next-steps-with-junit?u=76281980)
+#### [Next steps with JUnit](https://www.linkedin.com/learning/java-testing-with-junit-14267963/next-steps-with-junit?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-testing-with-junit-14267963/next-steps-with-junit?u=76281980&t=0)** - [Maaike Van Putten] At this point, you really know the basics of JUnit and you're ready to work with JUnit in a real environment.
+> **[0:00](https://www.linkedin.com/learning/java-testing-with-junit-14267963/next-steps-with-junit?u=76281980&t=0)** - [Maaike Van Putten] At this point, you really know the basics of [[JUnit]] and you're ready to work with JUnit in a real environment.
 >
 > **[0:06](https://www.linkedin.com/learning/java-testing-with-junit-14267963/next-steps-with-junit?u=76281980&t=6)** You might wonder, what would be good next steps for you to take.
 >
@@ -3770,7 +3731,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/java-testing-with-junit-14267963/next-steps-with-junit?u=76281980&t=31)** So I can definitely advise you to dive a bit into PowerMock as well.
 >
-> **[0:35](https://www.linkedin.com/learning/java-testing-with-junit-14267963/next-steps-with-junit?u=76281980&t=35)** And then Java Spring testing is also a bit of a different topic.
+> **[0:35](https://www.linkedin.com/learning/java-testing-with-junit-14267963/next-steps-with-junit?u=76281980&t=35)** And then [[Java]] Spring testing is also a bit of a different topic.
 >
 > **[0:38](https://www.linkedin.com/learning/java-testing-with-junit-14267963/next-steps-with-junit?u=76281980&t=38)** We have seen testing and we have seen JUnit but working with Java Spring, it makes things a bit different.
 >
@@ -3778,7 +3739,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/java-testing-with-junit-14267963/next-steps-with-junit?u=76281980&t=50)** This is really going to help you.
 >
-> **[0:52](https://www.linkedin.com/learning/java-testing-with-junit-14267963/next-steps-with-junit?u=76281980&t=52)** And lastly, TDD: Test-Driven Development.
+> **[0:52](https://www.linkedin.com/learning/java-testing-with-junit-14267963/next-steps-with-junit?u=76281980&t=52)** And lastly, TDD: [[Test-Driven Development]].
 >
 > **[0:55](https://www.linkedin.com/learning/java-testing-with-junit-14267963/next-steps-with-junit?u=76281980&t=55)** It's a very good generic job to dive into a bit more as well.
 >
@@ -3790,13 +3751,13 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/java-testing-with-junit-14267963/next-steps-with-junit?u=76281980&t=77)** This course is really focusing on a Java Program, as it says so in the title, and it will really help you to level up your TDD for real life cases.
 >
-> **[1:26](https://www.linkedin.com/learning/java-testing-with-junit-14267963/next-steps-with-junit?u=76281980&t=86)** And then we have to Java: Automated API Testing with Rest Assured.
+> **[1:26](https://www.linkedin.com/learning/java-testing-with-junit-14267963/next-steps-with-junit?u=76281980&t=86)** And then we have to Java: Automated [[API Testing]] with [[Representational State Transfer (REST)|Rest]] Assured.
 >
 > **[1:30](https://www.linkedin.com/learning/java-testing-with-junit-14267963/next-steps-with-junit?u=76281980&t=90)** This is really focusing on testing the API, which is a different skill from what we have seen in this course.
 >
 > **[1:35](https://www.linkedin.com/learning/java-testing-with-junit-14267963/next-steps-with-junit?u=76281980&t=95)** This is also definitely interesting to dive into.
 >
-> **[1:38](https://www.linkedin.com/learning/java-testing-with-junit-14267963/next-steps-with-junit?u=76281980&t=98)** And lastly, the Programming Foundations: Test Driven Development.
+> **[1:38](https://www.linkedin.com/learning/java-testing-with-junit-14267963/next-steps-with-junit?u=76281980&t=98)** And lastly, the [[Programming Foundations]]: Test Driven Development.
 >
 > **[1:42](https://www.linkedin.com/learning/java-testing-with-junit-14267963/next-steps-with-junit?u=76281980&t=102)** This is more of a generic topic.
 >
@@ -3804,13 +3765,13 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/java-testing-with-junit-14267963/next-steps-with-junit?u=76281980&t=111)** And lastly, let's connect.
 >
-> **[1:53](https://www.linkedin.com/learning/java-testing-with-junit-14267963/next-steps-with-junit?u=76281980&t=113)** Here is my LinkedIn profile and would be really good, if you would reach out to me.
+> **[1:53](https://www.linkedin.com/learning/java-testing-with-junit-14267963/next-steps-with-junit?u=76281980&t=113)** Here is my [[LinkedIn]] profile and would be really good, if you would reach out to me.
 >
 > **[1:57](https://www.linkedin.com/learning/java-testing-with-junit-14267963/next-steps-with-junit?u=76281980&t=117)** Good luck with your journey and have fun testing with Junit.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (7), [[JUnit]] (4), career (2), generic (2), api (2)
+> **Frameworks & Libraries:** [[Java]] (7), [[JUnit]] (4), [[Test-Driven Development]] (1), [[API Testing]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** tdd (3), api (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)

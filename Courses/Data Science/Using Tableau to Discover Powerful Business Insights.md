@@ -115,22 +115,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using Tableau to create business insights
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/using-tableau-to-create-business-insights?u=76281980)
+#### [Using Tableau to create business insights](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/using-tableau-to-create-business-insights?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/using-tableau-to-create-business-insights?u=76281980&t=0)** - It used to be that small businesses with no business intelligence department were out of luck in terms of using data to drive their decision-making process.
+> **[0:00](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/using-tableau-to-create-business-insights?u=76281980&t=0)** - It used to be that small businesses with no [[Business Intelligence (BI)|business intelligence]] department were out of luck in terms of using data to drive their [[Decision-Making]] process.
 >
 > **[0:10](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/using-tableau-to-create-business-insights?u=76281980&t=10)** Think about it.
 >
 > **[0:11](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/using-tableau-to-create-business-insights?u=76281980&t=11)** If you didn't have the budget for a database administrator, a data visualization expert, and a dedicated data analyst team, it wasn't possible for you to take advantage of your data.
 >
-> **[0:23](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/using-tableau-to-create-business-insights?u=76281980&t=23)** That's why Tableau was developed.
+> **[0:23](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/using-tableau-to-create-business-insights?u=76281980&t=23)** That's why [[Tableau]] was developed.
 >
 > **[0:26](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/using-tableau-to-create-business-insights?u=76281980&t=26)** Tableau is a popular business intelligence tool, and that's what I'm going to teach you in this course.
 >
-> **[0:33](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/using-tableau-to-create-business-insights?u=76281980&t=33)** My name is John David Ariansen, and I'm the host of the "How to Get an Analytics Job" podcast.
+> **[0:33](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/using-tableau-to-create-business-insights?u=76281980&t=33)** My name is [[John the Ripper|John]] David Ariansen, and I'm the host of the "How to Get an Analytics Job" podcast.
 >
 > **[0:38](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/using-tableau-to-create-business-insights?u=76281980&t=38)** I have years of experience teaching analytics both online and in person at Greensboro College.
 >
@@ -152,7 +151,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Tableau]] (6), [[Analytics]] (4), [[Business Intelligence (BI)|Business intelligence]] (2), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (6), [[Business Intelligence (BI)|Business intelligence]] (2), [[Decision-Making]] (1), [[John the Ripper|John]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - it (1)
@@ -162,8 +161,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Tableau?
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/what-is-tableau?u=76281980)
+#### [What is Tableau?](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/what-is-tableau?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -171,17 +169,17 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/what-is-tableau?u=76281980&t=7)** The obscene amount of data that organizations are creating pose some major problems, but luckily for you, this is also creating a huge amount of opportunities.
 >
-> **[0:18](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/what-is-tableau?u=76281980&t=18)** Learning Tableau can position you as the data expert in your organization.
+> **[0:18](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/what-is-tableau?u=76281980&t=18)** Learning [[Tableau]] can position you as the data expert in your organization.
 >
 > **[0:22](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/what-is-tableau?u=76281980&t=22)** So what is Tableau?
 >
-> **[0:25](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/what-is-tableau?u=76281980&t=25)** Tableau is a data visualization software and business intelligence tool.
+> **[0:25](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/what-is-tableau?u=76281980&t=25)** Tableau is a data visualization software and [[Business Intelligence (BI)|business intelligence]] tool.
 >
-> **[0:29](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/what-is-tableau?u=76281980&t=29)** Essentially, it's a point and click solution that can help you take large sets of data and turn them into useful infographics.
+> **[0:29](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/what-is-tableau?u=76281980&t=29)** Essentially, it's a point and click solution that can help you take large sets of data and turn them into useful [[Infographics]].
 >
 > **[0:37](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/what-is-tableau?u=76281980&t=37)** Now, to put this into some more technical terms, it is a graphical user interface that is built on VizQL, which is Tableau's own proprietary programming language.
 >
-> **[0:49](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/what-is-tableau?u=76281980&t=49)** Instead of having to write the SQL code for yourself, with just the click of a mouse, queries are written on the backend.
+> **[0:49](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/what-is-tableau?u=76281980&t=49)** Instead of having to write the [[SQL]] code for yourself, with just the click of a mouse, queries are written on the backend.
 >
 > **[0:57](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/what-is-tableau?u=76281980&t=57)** I run the Tableau user group here in Greensboro, North Carolina, and I recently had a trainer at one of my last meetings, who claimed that he could get a person up and running in Tableau in just three to four days.
 >
@@ -207,17 +205,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (13), data (8), business (2), [[Business Intelligence (BI)|Business intelligence]] (1), [[Infographics]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (13), [[Business Intelligence (BI)|Business intelligence]] (1), [[Infographics]] (1), [[SQL]] (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** sql (1), mba (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to use Tableau effectively for business
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/how-can-i-use-tableau-effectively-for-business?u=76281980)
+#### [How to use Tableau effectively for business](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/how-can-i-use-tableau-effectively-for-business?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/how-can-i-use-tableau-effectively-for-business?u=76281980&t=0)** - [Instructor] Tableau is a very powerful tool, but there's a huge difference between those who use it effectively and those who miss the mark.
+> **[0:00](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/how-can-i-use-tableau-effectively-for-business?u=76281980&t=0)** - [Instructor] [[Tableau]] is a very powerful tool, but there's a huge difference between those who use it effectively and those who miss the mark.
 >
 > **[0:08](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/how-can-i-use-tableau-effectively-for-business?u=76281980&t=8)** When you interview for a Tableau position, your interviewer will subtly be trying to assess which of these two camps that you fall into.
 >
@@ -261,20 +258,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (10), data (10), business (3), game (1)
+> **Frameworks & Libraries:** [[Tableau]] (10)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Excel vs. Tableau
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/excel-vs-tableau?u=76281980)
+#### [Excel vs. Tableau](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/excel-vs-tableau?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/excel-vs-tableau?u=76281980&t=0)** - [Speaker] Excel is by far the most commonly used data analysis tool that's currently out on the marketplace.
+> **[0:00](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/excel-vs-tableau?u=76281980&t=0)** - [Speaker] [[Microsoft Excel|Excel]] is by far the most commonly used data analysis tool that's currently out on the marketplace.
 >
 > **[0:05](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/excel-vs-tableau?u=76281980&t=5)** If you're already out in the working world, then you probably had some exposure to Excel.
 >
-> **[0:11](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/excel-vs-tableau?u=76281980&t=11)** So what's the difference between Excel and Tableau?
+> **[0:11](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/excel-vs-tableau?u=76281980&t=11)** So what's the difference between Excel and [[Tableau]]?
 >
 > **[0:14](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/excel-vs-tableau?u=76281980&t=14)** Well, Excel and Tableau have related but slightly different functions.
 >
@@ -322,7 +318,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (11), data (9), [[Tableau]] (9), [[Scripting]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (11), [[Tableau]] (9)
 > **Definitions:** is a  (4)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** vba (1)
@@ -330,8 +326,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [speaker] (1)
 
-#### What is data visualization?
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/what-is-data-visualization?u=76281980)
+#### [What is data visualization?](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/what-is-data-visualization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -359,7 +354,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/what-is-data-visualization?u=76281980&t=62)** The first fundamental is to keep your visualization simple.
 >
-> **[1:06](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/what-is-data-visualization?u=76281980&t=66)** I know we often see these beautiful data visualizations all over LinkedIn, but for you and your business, you should keep it simple.
+> **[1:06](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/what-is-data-visualization?u=76281980&t=66)** I know we often see these beautiful data visualizations all over [[LinkedIn]], but for you and your business, you should keep it simple.
 >
 > **[1:15](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/what-is-data-visualization?u=76281980&t=75)** The next principle is to focus on the important metrics.
 >
@@ -405,29 +400,28 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/what-is-data-visualization?u=76281980&t=179)** What did they do with this specific promotion that caused such a boost in sales?
 >
-> **[3:04](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/what-is-data-visualization?u=76281980&t=184)** If you would like additional information, you should check out the book "Storytelling With Data" for some data viz theory.
+> **[3:04](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/what-is-data-visualization?u=76281980&t=184)** If you would like additional information, you should check out the book "[[Storytelling]] With Data" for some data viz theory.
 >
-> **[3:11](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/what-is-data-visualization?u=76281980&t=191)** Or, if you want a more business-focused lens, "The Big Book of Dashboards" will walk you through effective and ineffective dashboards in a business setting.
+> **[3:11](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/what-is-data-visualization?u=76281980&t=191)** Or, if you want a more business-focused lens, "The Big Book of [[Dashboards]]" will walk you through effective and ineffective dashboards in a business setting.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), business (3), [[Dashboards]] (2), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[Dashboards]] (2), [[LinkedIn]] (1), [[Storytelling]] (1)
 > **Analogies:** picture (2), for example (1), such as (1)
 > **CLI Commands:** make (2)
 > **Versions:** 2.5 (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Four main functions of Tableau
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/four-main-functions-of-tableau?u=76281980)
+#### [Four main functions of Tableau](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/four-main-functions-of-tableau?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/four-main-functions-of-tableau?u=76281980&t=0)** - [Instructor] Tableau is a great data visualization software, but there are really four main areas that you need to understand.
+> **[0:00](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/four-main-functions-of-tableau?u=76281980&t=0)** - [Instructor] [[Tableau]] is a great data visualization software, but there are really four main areas that you need to understand.
 >
 > **[0:07](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/four-main-functions-of-tableau?u=76281980&t=7)** First, Tableau empowers you to connect to multiple data sources.
 >
-> **[0:12](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/four-main-functions-of-tableau?u=76281980&t=12)** These data sources include Excel, SQL Server, Web Connectors, and Google Analytics just to name a few.
+> **[0:12](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/four-main-functions-of-tableau?u=76281980&t=12)** These data sources include [[Microsoft Excel|Excel]], [[Microsoft SQL Server|SQL Server]], Web Connectors, and [[Google]] Analytics just to name a few.
 >
 > **[0:19](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/four-main-functions-of-tableau?u=76281980&t=19)** In addition to the ability to connect to multiple data sources, you can also join, union, and blend multiple data sources together.
 >
@@ -445,7 +439,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/four-main-functions-of-tableau?u=76281980&t=61)** These insights can be shared through a basic visualization or through an interactive dashboard.
 >
-> **[1:07](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/four-main-functions-of-tableau?u=76281980&t=67)** The Story feature is similar to Microsoft's Power BI, but with the added feature of embedding interactive visualizations on each slide.
+> **[1:07](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/four-main-functions-of-tableau?u=76281980&t=67)** The Story feature is similar to [[Microsoft]]'s [[Microsoft Power BI|Power BI]], but with the added feature of embedding interactive visualizations on each slide.
 >
 > **[1:16](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/four-main-functions-of-tableau?u=76281980&t=76)** Last, you have the Tableau concepts that enable you to analyze the data.
 >
@@ -467,18 +461,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Tableau]] (9), [[Analytics]] (2), feature (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (9), [[Microsoft Excel|Excel]] (1), [[Microsoft SQL Server|Sql server]] (1), [[Google]] (1), [[Microsoft]] (1)
 > **Env Vars:** sql (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Basic Tableau terminology
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/basic-tableau-terminology?u=76281980)
+#### [Basic Tableau terminology](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/basic-tableau-terminology?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/basic-tableau-terminology?u=76281980&t=0)** - [Instructor] Tableau is both simple and quite intricate at the same time.
+> **[0:00](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/basic-tableau-terminology?u=76281980&t=0)** - [Instructor] [[Tableau]] is both simple and quite intricate at the same time.
 >
 > **[0:04](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/basic-tableau-terminology?u=76281980&t=4)** In this video, I'll lay out some of the basic terminology so that we're on the same page when I walk you through a tutorial.
 >
@@ -486,7 +479,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/basic-tableau-terminology?u=76281980&t=16)** Now we are on the Tableau homepage, and this gives you an option to open up your old Tableau workbooks that you've worked on, and also you can connect to different types of data sources.
 >
-> **[0:29](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/basic-tableau-terminology?u=76281980&t=29)** In this example, let's go ahead and connect to a Microsoft Excel file.
+> **[0:29](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/basic-tableau-terminology?u=76281980&t=29)** In this example, let's go ahead and connect to a [[Microsoft Excel]] file.
 >
 > **[0:35](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/basic-tableau-terminology?u=76281980&t=35)** All we need to do is click and find where we save the file we want to use, select it and then hit open and now you'll be brought to the data connection screen.
 >
@@ -494,7 +487,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/basic-tableau-terminology?u=76281980&t=53)** So you have an option to add multiple connections and bring them into the workspace.
 >
-> **[0:59](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/basic-tableau-terminology?u=76281980&t=59)** So we can see that sales data is the data source that we're connected to currently, and there are different sheets or Excel tabs within this one data source.
+> **[0:59](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/basic-tableau-terminology?u=76281980&t=59)** So we can see that sales data is the data source that we're connected to currently, and there are different sheets or [[Microsoft Excel|Excel]] tabs within this one data source.
 >
 > **[1:10](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/basic-tableau-terminology?u=76281980&t=70)** So we have item level detail, sales by state, and time series sales data.
 >
@@ -530,13 +523,13 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/basic-tableau-terminology?u=76281980&t=177)** You can see the recommendation highlighted in orange, and let's just go ahead and click on that recommendation.
 >
-> **[3:06](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/basic-tableau-terminology?u=76281980&t=186)** So now we can see that electronics is lagging pretty far behind phones.
+> **[3:06](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/basic-tableau-terminology?u=76281980&t=186)** So now we can see that [[Electronics]] is lagging pretty far behind phones.
 >
 > **[3:12](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/basic-tableau-terminology?u=76281980&t=192)** So that is how powerful Tableau is.
 >
 > **[3:15](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/basic-tableau-terminology?u=76281980&t=195)** You can with just a few clicks of the mouse turn a raw set of data and turn them into insights, and these insights can lead to actionable recommendations.
 >
-> **[3:26](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/basic-tableau-terminology?u=76281980&t=206)** Next we're going to talk about dashboards.
+> **[3:26](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/basic-tableau-terminology?u=76281980&t=206)** Next we're going to talk about [[Dashboards]].
 >
 > **[3:29](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/basic-tableau-terminology?u=76281980&t=209)** So a sheet is where you can build out visualizations.
 >
@@ -552,7 +545,7 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/basic-tableau-terminology?u=76281980&t=252)** We can now create a storyboard.
 >
-> **[4:19](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/basic-tableau-terminology?u=76281980&t=259)** The way that I like to frame up a Tableau story is that it's very similar to a PowerPoint presentation only it's interactive.
+> **[4:19](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/basic-tableau-terminology?u=76281980&t=259)** The way that I like to frame up a Tableau story is that it's very similar to a [[Microsoft PowerPoint|PowerPoint]] presentation only it's interactive.
 >
 > **[4:29](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/basic-tableau-terminology?u=76281980&t=269)** Now we've walked through some of the basic Tableau terminology.
 >
@@ -560,7 +553,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Tableau]] (11), hit (2), [[Microsoft Excel]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (11), [[Microsoft Excel]] (1), [[Microsoft Excel|Excel]] (1), [[Electronics]] (1), [[Dashboards]] (1)
 > **UI Navigation:** click on (4), toggle (1), select the (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), similar to (1)
@@ -572,8 +565,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data connection screen
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/data-connection-screen?u=76281980)
+#### [Data connection screen](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/data-connection-screen?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -581,11 +573,11 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/data-connection-screen?u=76281980&t=4)** This can be a struggle for an analyst, especially if these data sources span different platforms.
 >
-> **[0:10](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/data-connection-screen?u=76281980&t=10)** Joining Excel with Google Sheets and a SQL database would cause you a major headache if Excel is the only data analysis tool at your disposal.
+> **[0:10](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/data-connection-screen?u=76281980&t=10)** Joining [[Microsoft Excel|Excel]] with [[Google]] Sheets and a [[SQL]] database would cause you a major headache if Excel is the only data analysis tool at your disposal.
 >
 > **[0:20](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/data-connection-screen?u=76281980&t=20)** You would probably have to download all these data sources into Excel, then use a VLOOKUP function to bring them all into one worksheet.
 >
-> **[0:29](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/data-connection-screen?u=76281980&t=29)** This is one area in particular where Tableau shines.
+> **[0:29](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/data-connection-screen?u=76281980&t=29)** This is one area in particular where [[Tableau]] shines.
 >
 > **[0:33](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/data-connection-screen?u=76281980&t=33)** You can seamlessly join multiple data sources from different platforms with just a few clicks of the mouse.
 >
@@ -593,7 +585,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/data-connection-screen?u=76281980&t=44)** Once you pull up Tableau, you'll be brought to what is essentially a home screen.
 >
-> **[0:49](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/data-connection-screen?u=76281980&t=49)** You have all the different types of data connections you can create from your Tableau server to Microsoft Excel, text files, and even databases, then you also have the option to pull up your old workbooks.
+> **[0:49](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/data-connection-screen?u=76281980&t=49)** You have all the different types of data connections you can create from your Tableau server to [[Microsoft Excel]], text files, and even [[Databases]], then you also have the option to pull up your old workbooks.
 >
 > **[1:02](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/data-connection-screen?u=76281980&t=62)** In this example, we haven't created any workbooks yet, so there's nothing we can connect to here.
 >
@@ -653,29 +645,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), [[Tableau]] (8), [[Microsoft Excel|Excel]] (4), [[Microsoft Excel]] (3), next (2)
+> **Frameworks & Libraries:** [[Tableau]] (8), [[Microsoft Excel|Excel]] (4), [[Microsoft Excel]] (3), [[Google]] (1), [[SQL]] (1)
 > **Env Vars:** sql (1), vlookup (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Types of data to connect to
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/types-of-data-to-connect-to?u=76281980)
+#### [Types of data to connect to](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/types-of-data-to-connect-to?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/types-of-data-to-connect-to?u=76281980&t=0)** - [Instructor] Do you not know how to write a query?
 >
-> **[0:02](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/types-of-data-to-connect-to?u=76281980&t=2)** Well, if that's the case, then all your data stored in a SQL database is really inaccessible to you.
+> **[0:02](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/types-of-data-to-connect-to?u=76281980&t=2)** Well, if that's the case, then all your data stored in a [[SQL]] database is really inaccessible to you.
 >
 > **[0:10](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/types-of-data-to-connect-to?u=76281980&t=10)** Even if you do know how to write a query, are you tired of writing code every time you need to grab some data?
 >
-> **[0:15](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/types-of-data-to-connect-to?u=76281980&t=15)** Tableau quite elegantly, solves this issue by allowing you to connect to various different types of data.
+> **[0:15](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/types-of-data-to-connect-to?u=76281980&t=15)** [[Tableau]] quite elegantly, solves this issue by allowing you to connect to various different types of data.
 >
 > **[0:22](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/types-of-data-to-connect-to?u=76281980&t=22)** The first kind of data that Tableau can connect to is a data file.
 >
-> **[0:27](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/types-of-data-to-connect-to?u=76281980&t=27)** The most commonly used file is an Excel file, which is why it's first on the list.
+> **[0:27](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/types-of-data-to-connect-to?u=76281980&t=27)** The most commonly used file is an [[Microsoft Excel|Excel]] file, which is why it's first on the list.
 >
 > **[0:32](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/types-of-data-to-connect-to?u=76281980&t=32)** Most organizations, big or small, are using Excel in one way or another.
 >
@@ -687,9 +678,9 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/types-of-data-to-connect-to?u=76281980&t=55)** This falls under the statistical file data source.
 >
-> **[0:58](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/types-of-data-to-connect-to?u=76281980&t=58)** There are a few other data file types that you can connect to, such as spatial, JSON, access database files, and even PDF files.
+> **[0:58](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/types-of-data-to-connect-to?u=76281980&t=58)** There are a few other data file types that you can connect to, such as spatial, [[JSON]], access database files, and even PDF files.
 >
-> **[1:08](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/types-of-data-to-connect-to?u=76281980&t=68)** The second kind of data that Tableau can connect to are databases and servers.
+> **[1:08](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/types-of-data-to-connect-to?u=76281980&t=68)** The second kind of data that Tableau can connect to are [[Databases]] and servers.
 >
 > **[1:14](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/types-of-data-to-connect-to?u=76281980&t=74)** This is where Tableau can save you a bunch of time and potentially open doors to new data sources for you.
 >
@@ -697,7 +688,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/types-of-data-to-connect-to?u=76281980&t=93)** If you are working on a massive data set, you may want to write a custom query to improve your dashboard performance.
 >
-> **[1:41](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/types-of-data-to-connect-to?u=76281980&t=101)** I often use the Google Analytics Data Connector to study my clients' website data.
+> **[1:41](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/types-of-data-to-connect-to?u=76281980&t=101)** I often use the [[Google]] Analytics Data Connector to study my clients' website data.
 >
 > **[1:46](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/types-of-data-to-connect-to?u=76281980&t=106)** The API is already built out, and all you need to do is select the relevant dimensions of what you want to study.
 >
@@ -721,7 +712,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), [[Tableau]] (5), web (3), [[SQL]] (2), database (2)
+> **Frameworks & Libraries:** [[Tableau]] (5), [[SQL]] (2), [[Microsoft Excel|Excel]] (2), [[JSON]] (1), [[Databases]] (1)
 > **Env Vars:** sql (2), csv (2), spss (1), json (1), pdf (1)
 > **Definitions:** is a  (1), is an  (1), short for (1)
 > **CLI Commands:** find (1)
@@ -729,8 +720,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Live vs. extracted data sources
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/live-vs-extracted-data-sources?u=76281980)
+#### [Live vs. extracted data sources](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/live-vs-extracted-data-sources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -738,9 +728,9 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/live-vs-extracted-data-sources?u=76281980&t=7)** This can mean weekly or even daily reports to check in and make sure that your organization is heading down the right path.
 >
-> **[0:15](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/live-vs-extracted-data-sources?u=76281980&t=15)** Tableau takes this reporting to the next level with its ability to create a live data connection.
+> **[0:15](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/live-vs-extracted-data-sources?u=76281980&t=15)** [[Tableau]] takes this reporting to the next level with its ability to create a live data connection.
 >
-> **[0:21](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/live-vs-extracted-data-sources?u=76281980&t=21)** This means that as your data changes, so will the visualizations, dashboards, and stories that you've created with Tableau.
+> **[0:21](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/live-vs-extracted-data-sources?u=76281980&t=21)** This means that as your data changes, so will the visualizations, [[Dashboards]], and stories that you've created with Tableau.
 >
 > **[0:28](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/live-vs-extracted-data-sources?u=76281980&t=28)** Tableau will automatically create a live connection whenever you create a new data source connection.
 >
@@ -764,7 +754,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/live-vs-extracted-data-sources?u=76281980&t=93)** To show when and why you would want to use each of these connections, let me walk you through some examples.
 >
-> **[1:40](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/live-vs-extracted-data-sources?u=76281980&t=100)** In the healthcare industry, there's a very interesting use case for both of these types of connections.
+> **[1:40](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/live-vs-extracted-data-sources?u=76281980&t=100)** In the [[Healthcare Industry]], there's a very interesting use case for both of these types of connections.
 >
 > **[1:46](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/live-vs-extracted-data-sources?u=76281980&t=106)** When monitoring patient vitals, it's best practice to use a live connection.
 >
@@ -784,18 +774,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Tableau]] (6), [[Dashboards]] (3), next (1), [[Healthcare Industry]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (6), [[Dashboards]] (3), [[Healthcare Industry]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Defining joins, unions, and data blending
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/defining-joins-unions-and-data-blending?u=76281980)
+#### [Defining joins, unions, and data blending](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/defining-joins-unions-and-data-blending?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/defining-joins-unions-and-data-blending?u=76281980&t=0)** - [Instructor] Connecting to various data sources is a great feature of Tableau, but being able to combine these different types of data can come in huge when you're working on a project that spans different departments and thus different data sources.
+> **[0:00](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/defining-joins-unions-and-data-blending?u=76281980&t=0)** - [Instructor] Connecting to various data sources is a great feature of [[Tableau]], but being able to combine these different types of data can come in huge when you're working on a project that spans different departments and thus different data sources.
 >
 > **[0:16](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/defining-joins-unions-and-data-blending?u=76281980&t=16)** There are three main ways to combine data in Tableau.
 >
@@ -845,14 +834,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), [[Tableau]] (4), feature (1), business (1)
+> **Frameworks & Libraries:** [[Tableau]] (4)
 > **Definitions:** is a  (2), means that (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating joins, unions, and data blending
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/creating-joins-unions-and-data-blending?u=76281980)
+#### [Creating joins, unions, and data blending](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/creating-joins-unions-and-data-blending?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -860,7 +848,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/creating-joins-unions-and-data-blending?u=76281980&t=4)** In this example, we're going to connect to the course file and create a join between two of the data sheets.
 >
-> **[0:12](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/creating-joins-unions-and-data-blending?u=76281980&t=12)** Click Microsoft Excel, go to your Downloads folder and select the course file.
+> **[0:12](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/creating-joins-unions-and-data-blending?u=76281980&t=12)** Click [[Microsoft Excel]], go to your Downloads folder and select the course file.
 >
 > **[0:17](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/creating-joins-unions-and-data-blending?u=76281980&t=17)** Then, click open.
 >
@@ -886,7 +874,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/creating-joins-unions-and-data-blending?u=76281980&t=81)** To combine them using a data blend, all we need to do is select Data, edit relationships.
 >
-> **[1:28](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/creating-joins-unions-and-data-blending?u=76281980&t=88)** And automatically, Tableau is recognized that in the Time Series and item Level Detail joined data source, both Assortment and Item ID are appearing.
+> **[1:28](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/creating-joins-unions-and-data-blending?u=76281980&t=88)** And automatically, [[Tableau]] is recognized that in the Time Series and item Level Detail joined data source, both Assortment and Item ID are appearing.
 >
 > **[1:40](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/creating-joins-unions-and-data-blending?u=76281980&t=100)** So, we can click OK, and we've now created a data blend.
 >
@@ -900,16 +888,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Tableau]] (2), [[Microsoft Excel]] (1), next (1)
+> **Frameworks & Libraries:** [[Tableau]] (2), [[Microsoft Excel]] (1)
 > **UI Navigation:** go to (1), select the (1)
 > **Speakers:** - creating (1)
 
-#### Changing field types
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/changing-field-types?u=76281980)
+#### [Changing field types](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/changing-field-types?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/changing-field-types?u=76281980&t=0)** - [Narrator] Tableau is a little bit different from Excel in that the type of data field that you choose, it really does matter.
+> **[0:00](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/changing-field-types?u=76281980&t=0)** - [Narrator] [[Tableau]] is a little bit different from [[Microsoft Excel|Excel]] in that the type of data field that you choose, it really does matter.
 >
 > **[0:07](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/changing-field-types?u=76281980&t=7)** For example, Tableau has a very interesting way of handling time.
 >
@@ -919,7 +906,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/changing-field-types?u=76281980&t=22)** Next, let's connect to the course file and connect to one of the tabs.
 >
-> **[0:26](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/changing-field-types?u=76281980&t=26)** Select Microsoft Excel, go to your downloads folder, and select the course file.
+> **[0:26](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/changing-field-types?u=76281980&t=26)** Select [[Microsoft Excel]], go to your downloads folder, and select the course file.
 >
 > **[0:33](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/changing-field-types?u=76281980&t=33)** Let's connect to the time series sales data tab so that we can explore time.
 >
@@ -981,14 +968,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Tableau]] (3), next (2), hit (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (3), [[Microsoft Excel|Excel]] (1), [[Microsoft Excel]] (1)
 > **UI Navigation:** dropdown (5), select the (2), go to (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Creating an alias
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/creating-an-alias?u=76281980)
+#### [Creating an alias](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/creating-an-alias?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -998,7 +984,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/creating-an-alias?u=76281980&t=9)** It can go as far as each department having an individual naming convention.
 >
-> **[0:13](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/creating-an-alias?u=76281980&t=13)** In these types of situations, the ability to create an alias in Tableau is extremely valuable.
+> **[0:13](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/creating-an-alias?u=76281980&t=13)** In these types of situations, the ability to create an alias in [[Tableau]] is extremely valuable.
 >
 > **[0:20](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/creating-an-alias?u=76281980&t=20)** An alias allows you to change how the field value shows up in your visualization, without altering the underlying data source.
 >
@@ -1012,7 +998,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/creating-an-alias?u=76281980&t=52)** This is because we're going to alter the color naming convention.
 >
-> **[0:57](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/creating-an-alias?u=76281980&t=57)** So first, let's connect to Microsoft Excel and connect to our course file.
+> **[0:57](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/creating-an-alias?u=76281980&t=57)** So first, let's connect to [[Microsoft Excel]] and connect to our course file.
 >
 > **[1:03](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/creating-an-alias?u=76281980&t=63)** Next, we can click and drag an Item Level Detail, and this is the field that we're going to be altering.
 >
@@ -1032,17 +1018,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Tableau]] (2), [[Microsoft Excel]] (1), next (1), hit (1)
+> **Frameworks & Libraries:** [[Tableau]] (2), [[Microsoft Excel]] (1)
 > **UI Navigation:** dropdown (1), double-click (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Default formatting
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/default-formatting?u=76281980)
+#### [Default formatting](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/default-formatting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/default-formatting?u=76281980&t=0)** - [Narrator] Unfortunately, I didn't learn about default formatting until about a year into using Tableau.
+> **[0:00](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/default-formatting?u=76281980&t=0)** - [Narrator] Unfortunately, I didn't learn about default formatting until about a year into using [[Tableau]].
 >
 > **[0:06](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/default-formatting?u=76281980&t=6)** If I would've known about this feature, this would've saved me quite a bit of time.
 >
@@ -1086,13 +1071,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (4), data (2), feature (1), next (1), hit (1)
+> **Frameworks & Libraries:** [[Tableau]] (4)
 > **UI Navigation:** dropdown (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Case study part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/case-study-part-1?u=76281980)
+#### [Case study part 1](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/case-study-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1100,9 +1084,9 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/case-study-part-1?u=76281980&t=4)** This part of the case study is mainly going to focus on connecting to the data sources.
 >
-> **[0:09](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/case-study-part-1?u=76281980&t=9)** Let's go ahead and connect to the course Excel file.
+> **[0:09](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/case-study-part-1?u=76281980&t=9)** Let's go ahead and connect to the course [[Microsoft Excel|Excel]] file.
 >
-> **[0:12](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/case-study-part-1?u=76281980&t=12)** Select Microsoft Excel, and then find where you downloaded the course files.
+> **[0:12](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/case-study-part-1?u=76281980&t=12)** Select [[Microsoft Excel]], and then find where you downloaded the course files.
 >
 > **[0:19](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/case-study-part-1?u=76281980&t=19)** Select Open.
 >
@@ -1126,7 +1110,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/case-study-part-1?u=76281980&t=90)** So let's select sheet one once again and repeat that process.
 >
-> **[1:35](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/case-study-part-1?u=76281980&t=95)** New Data Source, Microsoft Excel, Tableau Sales Data, and let's drag in Time Series Sales data.
+> **[1:35](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/case-study-part-1?u=76281980&t=95)** New Data Source, Microsoft Excel, [[Tableau]] Sales Data, and let's drag in Time Series Sales data.
 >
 > **[1:45](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/case-study-part-1?u=76281980&t=105)** So now you'll notice we have three different data sources on this one Tableau workbook.
 >
@@ -1138,7 +1122,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Microsoft Excel|Excel]] (4), [[Microsoft Excel]] (3), [[Tableau]] (3), business (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Microsoft Excel]] (3), [[Tableau]] (3)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1148,18 +1132,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Interface overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/interface-overview?u=76281980)
+#### [Interface overview](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/interface-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/interface-overview?u=76281980&t=0)** - [Presenter] Tableau is a very powerful interface.
+> **[0:00](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/interface-overview?u=76281980&t=0)** - [Presenter] [[Tableau]] is a very powerful interface.
 >
 > **[0:03](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/interface-overview?u=76281980&t=3)** In this video, I'm going to give you a brief walkthrough of how the interface works.
 >
 > **[0:08](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/interface-overview?u=76281980&t=8)** We're currently looking at one of my fully built out Tableau workbooks.
 >
-> **[0:12](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/interface-overview?u=76281980&t=12)** In this example, we're looking at KPI sales analysis.
+> **[0:12](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/interface-overview?u=76281980&t=12)** In this example, we're looking at KPI [[Sales Analysis]].
 >
 > **[0:17](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/interface-overview?u=76281980&t=17)** The first worksheet here you can see is demand planning.
 >
@@ -1167,17 +1150,17 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/interface-overview?u=76281980&t=27)** These first three tabs are worksheets.
 >
-> **[0:30](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/interface-overview?u=76281980&t=30)** Worksheets are very similar to tabs in Excel.
+> **[0:30](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/interface-overview?u=76281980&t=30)** Worksheets are very similar to tabs in [[Microsoft Excel|Excel]].
 >
 > **[0:34](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/interface-overview?u=76281980&t=34)** What's unique about Tableau is that you can combine Tableau worksheets into a dashboard, and this is where things start to get really cool.
 >
 > **[0:44](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/interface-overview?u=76281980&t=44)** What you can essentially do is build out a very simple app for your end user.
 >
-> **[0:49](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/interface-overview?u=76281980&t=49)** In this example, we're looking at those three different types of analysis, that we can filter on assortment, so you can build it out for your manager so that he knows exactly how the phones' category is performing and how the electronics and hardware is performing as well.
+> **[0:49](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/interface-overview?u=76281980&t=49)** In this example, we're looking at those three different types of analysis, that we can filter on assortment, so you can build it out for your manager so that he knows exactly how the phones' category is performing and how the [[Electronics]] and [[Hardware]] is performing as well.
 >
-> **[1:07](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/interface-overview?u=76281980&t=67)** A story is a combination of dashboards and worksheets, and I have a very simple story built out here.
+> **[1:07](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/interface-overview?u=76281980&t=67)** A story is a combination of [[Dashboards]] and worksheets, and I have a very simple story built out here.
 >
-> **[1:15](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/interface-overview?u=76281980&t=75)** You can almost think of a story in Tableau, kind of like an interactive PowerPoint presentation.
+> **[1:15](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/interface-overview?u=76281980&t=75)** You can almost think of a story in Tableau, kind of like an interactive [[Microsoft PowerPoint|PowerPoint]] presentation.
 >
 > **[1:22](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/interface-overview?u=76281980&t=82)** You can see the first story point here is the actual dashboard, and I felt like the regional sales analysis was a little small.
 >
@@ -1235,7 +1218,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (10), data (6), [[Electronics]] (4), [[Hardware]] (4), [[Sales Analysis]] (3)
+> **Frameworks & Libraries:** [[Tableau]] (10), [[Electronics]] (4), [[Hardware]] (4), [[Sales Analysis]] (3), [[Microsoft Excel|Excel]] (1)
 > **Analogies:** for example (2), similar to (1), kind of like (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** kpi (2)
@@ -1243,12 +1226,11 @@ created: 2026-05-02
 > **UI Navigation:** toggle (1)
 > **Speakers:** - [presenter] (1)
 
-#### Building visualizations
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/building-visualizations?u=76281980)
+#### [Building visualizations](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/building-visualizations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/building-visualizations?u=76281980&t=0)** - [Instructor] Tableau has made it so easy for you to build out visualizations.
+> **[0:00](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/building-visualizations?u=76281980&t=0)** - [Instructor] [[Tableau]] has made it so easy for you to build out visualizations.
 >
 > **[0:04](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/building-visualizations?u=76281980&t=4)** Let's go ahead and connect to the course files, and walk through how to build out basic visualizations.
 >
@@ -1266,7 +1248,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/building-visualizations?u=76281980&t=46)** So now, this visualization is taking up a lot more space.
 >
-> **[0:49](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/building-visualizations?u=76281980&t=49)** And we can see that the electronics just are kind of lagging behind the other two assortments.
+> **[0:49](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/building-visualizations?u=76281980&t=49)** And we can see that the [[Electronics]] just are kind of lagging behind the other two assortments.
 >
 > **[0:56](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/building-visualizations?u=76281980&t=56)** There are other ways that we could visualize this data.
 >
@@ -1274,7 +1256,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/building-visualizations?u=76281980&t=65)** And this is essentially like a pie chart, only shaped a little bit differently.
 >
-> **[1:10](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/building-visualizations?u=76281980&t=70)** So we can see that hardware and phones are doing really well and electronics are a little bit behind, and we can see this by the size, and also the color.
+> **[1:10](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/building-visualizations?u=76281980&t=70)** So we can see that [[Hardware]] and phones are doing really well and electronics are a little bit behind, and we can see this by the size, and also the color.
 >
 > **[1:21](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/building-visualizations?u=76281980&t=81)** So the darker the color, the bigger the size of the sales.
 >
@@ -1290,7 +1272,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/building-visualizations?u=76281980&t=115)** So now that visualization is telling a pretty compelling story.
 >
-> **[1:59](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/building-visualizations?u=76281980&t=119)** Let's open up a new tab, and explore some time series analysis.
+> **[1:59](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/building-visualizations?u=76281980&t=119)** Let's open up a new tab, and explore some [[Time Series Analysis]].
 >
 > **[2:04](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/building-visualizations?u=76281980&t=124)** So if we drag in Week ID and Sales, we now have a text table.
 >
@@ -1312,13 +1294,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Tableau]] (2), [[Electronics]] (2), next (2), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (2), [[Electronics]] (2), [[Hardware]] (1), [[Time Series Analysis]] (1)
 > **UI Navigation:** click on (2), dropdown (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating calculated fields
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/creating-calculated-fields?u=76281980)
+#### [Creating calculated fields](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/creating-calculated-fields?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1334,7 +1315,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/creating-calculated-fields?u=76281980&t=43)** And let me show you the situation that we're running into here.
 >
-> **[0:50](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/creating-calculated-fields?u=76281980&t=50)** If we zoom in on the map, we can see that the dark blue or the higher selling states have a very high population, and that just makes sense.
+> **[0:50](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/creating-calculated-fields?u=76281980&t=50)** If we [[Zoom]] in on the map, we can see that the dark blue or the higher selling states have a very high population, and that just makes sense.
 >
 > **[1:01](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/creating-calculated-fields?u=76281980&t=61)** If there are more people in that market, they're probably going to buy more product.
 >
@@ -1386,16 +1367,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (2), [[Zoom]] (1), product (1), hit (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **Definitions:** is a  (4)
 > **Speakers:** - [instructor] (1)
 
-#### Groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/groups?u=76281980)
+#### [Groups](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/groups?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/groups?u=76281980&t=0)** - [Instructor] Creating groups in Tableau is a really easy way for you to segment your datasets.
+> **[0:00](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/groups?u=76281980&t=0)** - [Instructor] Creating groups in [[Tableau]] is a really easy way for you to segment your datasets.
 >
 > **[0:06](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/groups?u=76281980&t=6)** You don't have to create any calculations or any formulas.
 >
@@ -1435,19 +1415,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (2), data (2), hit (2), next (1)
+> **Frameworks & Libraries:** [[Tableau]] (2)
 > **UI Navigation:** dropdown (1), toggle (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sets
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/sets?u=76281980)
+#### [Sets](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/sets?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/sets?u=76281980&t=0)** - [Speaker] Creating sets is a way to dynamically analyze your data sets.
 >
-> **[0:04](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/sets?u=76281980&t=4)** It's very easy to create a set in Tableau as well.
+> **[0:04](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/sets?u=76281980&t=4)** It's very easy to create a set in [[Tableau]] as well.
 >
 > **[0:08](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/sets?u=76281980&t=8)** Let's go ahead and connect to the course file and we'll see exactly how to create a set.
 >
@@ -1477,7 +1456,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/sets?u=76281980&t=107)** And I'm going to change this to a heat map instead of a bubble map.
 >
-> **[1:53](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/sets?u=76281980&t=113)** So let's zoom in on the United States.
+> **[1:53](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/sets?u=76281980&t=113)** So let's [[Zoom]] in on the United States.
 >
 > **[1:57](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/sets?u=76281980&t=117)** Now what we can do is filter in just the low performers, and it looks like not very much has changed, but that's because the color scheme on this map isn't very useful.
 >
@@ -1497,14 +1476,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), hit (2), [[Tableau]] (1), next (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (1), [[Zoom]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** dropdown (1)
 > **Speakers:** - [speaker] (1)
 
-#### Table calculations
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/table-calculations?u=76281980)
+#### [Table calculations](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/table-calculations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1522,7 +1500,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/table-calculations?u=76281980&t=31)** Let's take this one step further and add in the breakdown of classification.
 >
-> **[0:39](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/table-calculations?u=76281980&t=39)** So what this visualization is telling us is that this whole bar here is the total sales for electronics, but then this is electronics for classification D was 13,000, classification C was 138,000, and so on and so forth.
+> **[0:39](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/table-calculations?u=76281980&t=39)** So what this visualization is telling us is that this whole bar here is the total sales for [[Electronics]], but then this is electronics for classification D was 13,000, classification C was 138,000, and so on and so forth.
 >
 > **[0:58](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/table-calculations?u=76281980&t=58)** But what if we wanted, instead of seeing the breakdown by total sales dollar, what if we wanted to see it by the percentage of total?
 >
@@ -1538,7 +1516,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/table-calculations?u=76281980&t=103)** Now we can close this out and we can come here and drag in the label, and see the percentage of total across.
 >
-> **[2:02](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/table-calculations?u=76281980&t=122)** So now we can see 71% of electronic sales came from classification A products.
+> **[2:02](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/table-calculations?u=76281980&t=122)** So now we can see 71% of electronic sales came from classification A [[Microsoft Products|products]].
 >
 > **[2:08](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/table-calculations?u=76281980&t=128)** This is just a different way of seeing the same data set.
 >
@@ -1552,18 +1530,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Electronics]] (3), data (2), hit (1), [[Microsoft Products|Products]] (1), next (1)
+> **Frameworks & Libraries:** [[Electronics]] (3), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** dropdown (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sorting
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/sorting?u=76281980)
+#### [Sorting](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/sorting?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/sorting?u=76281980&t=0)** - [Instructor] Sorting is a really easy way to help make some better sense of your data.
 >
-> **[0:05](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/sorting?u=76281980&t=5)** And it's really easy to pull off in Tableau.
+> **[0:05](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/sorting?u=76281980&t=5)** And it's really easy to pull off in [[Tableau]].
 >
 > **[0:08](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/sorting?u=76281980&t=8)** Let's go ahead and connect to the course file and see how to sort within Tableau.
 >
@@ -1619,18 +1596,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Tableau]] (2), hit (1), product (1)
+> **Frameworks & Libraries:** [[Tableau]] (2)
 > **CLI Commands:** make (5)
 > **UI Navigation:** dropdown (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Filters
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/filters?u=76281980)
+#### [Filters](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/filters?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/filters?u=76281980&t=0)** - [Narrator] Your ability to use filters in Tableau can help you empower your end user to conduct some analysis on their own.
+> **[0:00](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/filters?u=76281980&t=0)** - [Narrator] Your ability to use filters in [[Tableau]] can help you empower your end user to conduct some analysis on their own.
 >
 > **[0:08](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/filters?u=76281980&t=8)** This is one of the first steps towards real data democratization or helping more people in your organization be able to use data to understand their own questions.
 >
@@ -1650,7 +1626,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/filters?u=76281980&t=69)** Now the filter is showing up here, and you have the option to select various different assortments.
 >
-> **[1:18](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/filters?u=76281980&t=78)** From a user experience UI perspective, I generally like to use the Single Value slider, so now you can see all electronics, hardware, and phones.
+> **[1:18](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/filters?u=76281980&t=78)** From a [[User Experience (UX)|user experience]] UI perspective, I generally like to use the Single Value slider, so now you can see all [[Electronics]], [[Hardware]], and phones.
 >
 > **[1:33](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/filters?u=76281980&t=93)** From this point, we could publish this to the Tableau server and then have your manager being able to analyze their assortments by state.
 >
@@ -1658,12 +1634,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (4), data (2), hit (2), [[User Experience (UX)|User experience]] (1), [[Electronics]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (4), [[User Experience (UX)|User experience]] (1), [[Electronics]] (1), [[Hardware]] (1)
 > **UI Navigation:** dropdown (1)
 > **Speakers:** - [narrator] (1)
 
-#### Histogram and bins
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/histogram-and-bins?u=76281980)
+#### [Histogram and bins](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/histogram-and-bins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1677,7 +1652,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/histogram-and-bins?u=76281980&t=23)** Let's open up sheet one.
 >
-> **[0:25](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/histogram-and-bins?u=76281980&t=25)** And histograms are super simple to create within Tableau.
+> **[0:25](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/histogram-and-bins?u=76281980&t=25)** And histograms are super simple to create within [[Tableau]].
 >
 > **[0:31](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/histogram-and-bins?u=76281980&t=31)** Let's pull in in stock data.
 >
@@ -1707,19 +1682,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Tableau]] (2)
+> **Frameworks & Libraries:** [[Tableau]] (2)
 > **Versions:** 0.0043 (1), 0.002 (1), 0.98 (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Analytics pane overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/analytics-pane-overview?u=76281980)
+#### [Analytics pane overview](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/analytics-pane-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/analytics-pane-overview?u=76281980&t=0)** - [Instructor] Tableau is not only good at helping you build out visualizations, but they also have a built-in Analytics pane that helps you create calculations within your visualizations.
+> **[0:00](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/analytics-pane-overview?u=76281980&t=0)** - [Instructor] [[Tableau]] is not only good at helping you build out visualizations, but they also have a built-in Analytics pane that helps you create calculations within your visualizations.
 >
 > **[0:12](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/analytics-pane-overview?u=76281980&t=12)** Let's pull up the course files and explore the Analytics pane.
 >
@@ -1763,12 +1737,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (4), data (3), next (2), [[Tableau]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (1)
 > **UI Navigation:** right-click (1)
 > **Speakers:** - [instructor] (1)
 
-#### Scatter plot and clustering
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/scatter-plot-and-clustering?u=76281980)
+#### [Scatter plot and clustering](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/scatter-plot-and-clustering?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1778,7 +1751,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/scatter-plot-and-clustering?u=76281980&t=9)** They are sales and dollar amount and inventory on hand.
 >
-> **[0:13](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/scatter-plot-and-clustering?u=76281980&t=13)** The idea here is if we can identify products that don't have a high inventory holding costs but have high sales, then I see that as a win because that is a very optimized supply chain.
+> **[0:13](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/scatter-plot-and-clustering?u=76281980&t=13)** The idea here is if we can identify [[Microsoft Products|products]] that don't have a high inventory holding costs but have high sales, then I see that as a win because that is a very optimized supply chain.
 >
 > **[0:26](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/scatter-plot-and-clustering?u=76281980&t=26)** Let's open up the course files and see if we find any good examples of this.
 >
@@ -1788,7 +1761,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/scatter-plot-and-clustering?u=76281980&t=47)** Now the first thing you'll notice is, uh-oh, we only have one data point here.
 >
-> **[0:52](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/scatter-plot-and-clustering?u=76281980&t=52)** Well, this is because Tableau automatically aggregates your measures.
+> **[0:52](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/scatter-plot-and-clustering?u=76281980&t=52)** Well, this is because [[Tableau]] automatically aggregates your measures.
 >
 > **[0:57](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/scatter-plot-and-clustering?u=76281980&t=57)** If we head over to the Analysis tab and select this aggregate measures point, now we can see all of the underlying data points.
 >
@@ -1812,14 +1785,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft Products|Products]] (1), [[Tableau]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Tableau]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (2)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Case study, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/case-study-part-2?u=76281980)
+#### [Case study, part 2](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/case-study-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1829,7 +1801,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/case-study-part-2?u=76281980&t=12)** So now we have the appropriate data infrastructure to build out our data visualizations and then combine them into an interactive dashboard.
 >
-> **[0:21](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/case-study-part-2?u=76281980&t=21)** Before we get started, I did want to point out a data quality issue and I thought I'd leave this in here because it's actually very realistic.
+> **[0:21](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/case-study-part-2?u=76281980&t=21)** Before we get started, I did want to point out a [[Data Quality]] issue and I thought I'd leave this in here because it's actually very realistic.
 >
 > **[0:29](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/case-study-part-2?u=76281980&t=29)** If we look at the two different data sources we have, sales by state and time series sales data, there's a bit of a discrepancy.
 >
@@ -1883,7 +1855,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/case-study-part-2?u=76281980&t=217)** Now from a formatting standpoint, I want to center this.
 >
-> **[3:41](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/case-study-part-2?u=76281980&t=221)** We can zoom in and highlight this map here, and I don't prefer the bubble map.
+> **[3:41](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/case-study-part-2?u=76281980&t=221)** We can [[Zoom]] in and highlight this map here, and I don't prefer the bubble map.
 >
 > **[3:47](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/case-study-part-2?u=76281980&t=227)** In fact, let's change this to a heat map.
 >
@@ -1917,7 +1889,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), next (5), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Data Quality]] (1), [[Zoom]] (1)
 > **Env Vars:** kpi (5)
 > **CLI Commands:** make (4)
 > **UI Navigation:** select the (1), dropdown (1)
@@ -1930,12 +1902,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Dashboard interface overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/dashboard-interface-overview?u=76281980)
+#### [Dashboard interface overview](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/dashboard-interface-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/dashboard-interface-overview?u=76281980&t=0)** - [Instructor] Dashboarding is one of the most powerful things you can do in Tableau.
+> **[0:00](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/dashboard-interface-overview?u=76281980&t=0)** - [Instructor] Dashboarding is one of the most powerful things you can do in [[Tableau]].
 >
 > **[0:04](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/dashboard-interface-overview?u=76281980&t=4)** This enables you to empower the people in your organization to start doing their own analysis.
 >
@@ -1949,7 +1920,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/dashboard-interface-overview?u=76281980&t=32)** Click this dropdown menu, and you can change from a fixed size to an automatic, which this is going to automatically scale depending on the screen that the end user is using.
 >
-> **[0:43](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/dashboard-interface-overview?u=76281980&t=43)** One thing to note here is that you may want to design your dashboards to be mobile friendly if your end user is going to just be using a cell phone to view the dashboard.
+> **[0:43](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/dashboard-interface-overview?u=76281980&t=43)** One thing to note here is that you may want to design your [[Dashboards]] to be mobile friendly if your end user is going to just be using a cell phone to view the dashboard.
 >
 > **[0:55](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/dashboard-interface-overview?u=76281980&t=55)** But if your manager is mainly using their desktop to view the dashboards, you can use a desktop browser or even a generic desktop setting.
 >
@@ -2003,21 +1974,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Dashboards]] (2), [[Tableau]] (1), hit (1), generic (1)
+> **Frameworks & Libraries:** [[Dashboards]] (2), [[Tableau]] (1)
 > **Env Vars:** kpi (3)
 > **Analogies:** for example (2)
 > **CLI Commands:** snap (1)
 > **UI Navigation:** dropdown (1)
 > **Speakers:** - [instructor] (1)
 
-#### Basic dashboarding
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/basic-dashboarding?u=76281980)
+#### [Basic dashboarding](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/basic-dashboarding?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/basic-dashboarding?u=76281980&t=0)** - [Instructor] In this video, we're going to create a very simple interactive dashboard using just one data source.
 >
-> **[0:06](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/basic-dashboarding?u=76281980&t=6)** Let's go ahead and connect to the Course Files and connect to the Sales by State tab of the Excel file.
+> **[0:06](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/basic-dashboarding?u=76281980&t=6)** Let's go ahead and connect to the Course Files and connect to the Sales by State tab of the [[Microsoft Excel|Excel]] file.
 >
 > **[0:15](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/basic-dashboarding?u=76281980&t=15)** (mouse clicking) Once you've connected to the data source, click over to Sheet 1.
 >
@@ -2109,7 +2079,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), data (2), [[Microsoft Excel|Excel]] (1), hit (1), functional (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Non-Speech:** (mouse clicking) (5)
 > **CLI Commands:** make (3)
 > **Env Vars:** kpi (3)
@@ -2117,12 +2087,11 @@ created: 2026-05-02
 > **Versions:** 96.72 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Interactive elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/interactive-elements?u=76281980)
+#### [Interactive elements](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/interactive-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/interactive-elements?u=76281980&t=0)** - [Instructor] There are two main ways to make your dashboards interactive.
+> **[0:00](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/interactive-elements?u=76281980&t=0)** - [Instructor] There are two main ways to make your [[Dashboards]] interactive.
 >
 > **[0:04](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/interactive-elements?u=76281980&t=4)** The first is to select this filter icon, and you can make this visualization function as the filter.
 >
@@ -2168,7 +2137,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/interactive-elements?u=76281980&t=148)** So what this is going to do is if you toggle through this filter, it's going to apply it to every single data source that is related.
 >
-> **[2:37](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/interactive-elements?u=76281980&t=157)** So this is probably not the best option, especially if you have multiple dashboards on one Tableau workbook.
+> **[2:37](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/interactive-elements?u=76281980&t=157)** So this is probably not the best option, especially if you have multiple dashboards on one [[Tableau]] workbook.
 >
 > **[2:44](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/interactive-elements?u=76281980&t=164)** What I think is the better option is using selected worksheets.
 >
@@ -2182,15 +2151,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Dashboards]] (4), hit (3), next (2), data (2), [[Tableau]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (4), [[Tableau]] (1)
 > **CLI Commands:** make (3), find (3)
 > **UI Navigation:** click on (1), go to (1), dropdown (1), toggle (1)
 > **Definitions:** is a  (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tiled vs. floating objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/tiled-vs-floating-objects?u=76281980)
+#### [Tiled vs. floating objects](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/tiled-vs-floating-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2202,7 +2170,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/tiled-vs-floating-objects?u=76281980&t=16)** So now, if I wanted to resize this top layer of visualizations here, all I need to do is drag this one line.
 >
-> **[0:24](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/tiled-vs-floating-objects?u=76281980&t=24)** Using tiled objects is an extremely effective way to build out dashboards.
+> **[0:24](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/tiled-vs-floating-objects?u=76281980&t=24)** Using tiled objects is an extremely effective way to build out [[Dashboards]].
 >
 > **[0:31](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/tiled-vs-floating-objects?u=76281980&t=31)** Let me show you why floating is not the best option, at least to start.
 >
@@ -2249,14 +2217,13 @@ created: 2026-05-02
 > **Analogies:** kind of like (1)
 > **Speakers:** - [narrator] (1)
 
-#### Creating stories
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/creating-stories?u=76281980)
+#### [Creating stories](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/creating-stories?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/creating-stories?u=76281980&t=0)** - [Instructor] You can think of the story functionality within Tableau, almost like a PowerPoint Presentation, but on steroids.
+> **[0:00](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/creating-stories?u=76281980&t=0)** - [Instructor] You can think of the story functionality within [[Tableau]], almost like a [[Microsoft PowerPoint|PowerPoint]] Presentation, but on steroids.
 >
-> **[0:07](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/creating-stories?u=76281980&t=7)** This is because you can embed interactive dashboards on the story functions of Tableau.
+> **[0:07](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/creating-stories?u=76281980&t=7)** This is because you can embed interactive [[Dashboards]] on the story functions of Tableau.
 >
 > **[0:13](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/creating-stories?u=76281980&t=13)** This means that the audience can ask you questions and you can interact in real time with the underlying data sources to find insights.
 >
@@ -2286,14 +2253,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (3), [[Dashboards]] (2), [[Microsoft PowerPoint|Powerpoint]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Tableau]] (3), [[Dashboards]] (2), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Definitions:** means that (1), is an  (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** toggle (1)
 > **Speakers:** - [instructor] (1)
 
-#### Case study, part 3
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/case-study-part-3?u=76281980)
+#### [Case study, part 3](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/case-study-part-3?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2351,7 +2317,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (4), hit (2), teams (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** kpi (2)
 > **UI Navigation:** dropdown (2)
@@ -2363,8 +2328,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Dimension vs. measure
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/dimension-vs-measure?u=76281980)
+#### [Dimension vs. measure](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/dimension-vs-measure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2372,7 +2336,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/dimension-vs-measure?u=76281980&t=5)** Well, you can do exactly this.
 >
-> **[0:07](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/dimension-vs-measure?u=76281980&t=7)** Only with Tableau, you're not working with sand, you're working with data.
+> **[0:07](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/dimension-vs-measure?u=76281980&t=7)** Only with [[Tableau]], you're not working with sand, you're working with data.
 >
 > **[0:11](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/dimension-vs-measure?u=76281980&t=11)** One of the most important sets of tools that you have to play with inside of Tableau are dimensions and measures.
 >
@@ -2420,23 +2384,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (4), data (3)
+> **Frameworks & Libraries:** [[Tableau]] (4)
 > **Analogies:** for example (2), imagine (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Discrete vs. continuous
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/discrete-vs-continuous?u=76281980)
+#### [Discrete vs. continuous](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/discrete-vs-continuous?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/discrete-vs-continuous?u=76281980&t=0)** - [Instructor] In Tableau, you have the ability to customize your data fields.
+> **[0:00](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/discrete-vs-continuous?u=76281980&t=0)** - [Instructor] In [[Tableau]], you have the ability to customize your data fields.
 >
 > **[0:04](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/discrete-vs-continuous?u=76281980&t=4)** You can make a field a date, a number, a geography, or a string.
 >
 > **[0:09](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/discrete-vs-continuous?u=76281980&t=9)** Depending on what data type you choose will change the type of analysis that you can conduct.
 >
-> **[0:14](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/discrete-vs-continuous?u=76281980&t=14)** For example, if you're connecting to an Excel file that has a state column and you formatted this as a string, then you would no longer be able to create geomap analysis.
+> **[0:14](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/discrete-vs-continuous?u=76281980&t=14)** For example, if you're connecting to an [[Microsoft Excel|Excel]] file that has a state column and you formatted this as a string, then you would no longer be able to create geomap analysis.
 >
 > **[0:25](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/discrete-vs-continuous?u=76281980&t=25)** One other form of field customization is choosing to see a field as continuous or discreet.
 >
@@ -2482,7 +2445,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Tableau]] (3), hit (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (3), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** dropdown (2)
 > **CLI Commands:** make (1)
 > **Versions:** 3.4 (1)
@@ -2490,8 +2453,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Aggregation
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/aggregation?u=76281980)
+#### [Aggregation](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/aggregation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2501,7 +2463,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/aggregation?u=76281980&t=14)** For example, a sum aggregation just takes all the separate data points within a combination of a measure and a dimension and adds all these points together.
 >
-> **[0:24](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/aggregation?u=76281980&t=24)** A similar process occurs with average count and all the aggregations that you can choose from within Tableau.
+> **[0:24](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/aggregation?u=76281980&t=24)** A similar process occurs with average count and all the aggregations that you can choose from within [[Tableau]].
 >
 > **[0:31](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/aggregation?u=76281980&t=31)** Let's see how this works within Tableau.
 >
@@ -2523,20 +2485,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Tableau]] (3), hit (1)
+> **Frameworks & Libraries:** [[Tableau]] (3)
 > **CLI Commands:** make (2)
 > **UI Navigation:** dropdown (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Timeliness
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/timeliness?u=76281980)
+#### [Timeliness](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/timeliness?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/timeliness?u=76281980&t=0)** - [Instructor] If you're already in an analyst position, then you've probably been given an aggressive deadline to get some analysis done for a key meeting.
 >
-> **[0:08](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/timeliness?u=76281980&t=8)** In this video, we're going to outline some tips on how you can improve your timeliness as a Tableau user.
+> **[0:08](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/timeliness?u=76281980&t=8)** In this video, we're going to outline some tips on how you can improve your timeliness as a [[Tableau]] user.
 >
 > **[0:15](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/timeliness?u=76281980&t=15)** Let's go ahead and connect to the course files and connect to the time series data source.
 >
@@ -2626,7 +2587,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (3), data (2), next (2), hit (1)
+> **Frameworks & Libraries:** [[Tableau]] (3)
 > **CLI Commands:** find (2)
 > **Env Vars:** kpi (1)
 > **UI Navigation:** dropdown (1)
@@ -2635,8 +2596,7 @@ created: 2026-05-02
 > **Best Practices:** you should always (1)
 > **Speakers:** - [instructor] (1)
 
-#### Visual analytics best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/visual-analytics-best-practices?u=76281980)
+#### [Visual analytics best practices](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/visual-analytics-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2652,7 +2612,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/visual-analytics-best-practices?u=76281980&t=23)** This is because there are way too many data points to actively be represented here.
 >
-> **[0:29](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/visual-analytics-best-practices?u=76281980&t=29)** I think Tableau is actually run out of colors.
+> **[0:29](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/visual-analytics-best-practices?u=76281980&t=29)** I think [[Tableau]] is actually run out of colors.
 >
 > **[0:31](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/visual-analytics-best-practices?u=76281980&t=31)** This color looks the same as this color over here.
 >
@@ -2662,7 +2622,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/visual-analytics-best-practices?u=76281980&t=58)** If we come in and edit the axis and put it towards automatic, this is telling us a completely different story.
 >
-> **[1:06](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/visual-analytics-best-practices?u=76281980&t=66)** Electronics is not a quarter or a third of hardware and phone sales.
+> **[1:06](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/visual-analytics-best-practices?u=76281980&t=66)** [[Electronics]] is not a quarter or a third of [[Hardware]] and phone sales.
 >
 > **[1:12](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/visual-analytics-best-practices?u=76281980&t=72)** In fact, they're pretty close on aggregate.
 >
@@ -2698,7 +2658,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (4), [[Tableau]] (2), next (2), [[Electronics]] (2), [[Hardware]] (2)
+> **Frameworks & Libraries:** [[Tableau]] (2), [[Electronics]] (2), [[Hardware]] (2)
 > **Definitions:** is a  (3)
 > **Analogies:** kind of like (1)
 > **Speakers:** - [instructor] (1)
@@ -2708,14 +2668,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Public Tableau forums
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/tableau-public-forums?u=76281980)
+#### [Public Tableau forums](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/tableau-public-forums?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/tableau-public-forums?u=76281980&t=0)** - [Instructor] There is a free version of Tableau called Tableau Public.
+> **[0:00](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/tableau-public-forums?u=76281980&t=0)** - [Instructor] There is a free version of [[Tableau]] called Tableau Public.
 >
-> **[0:03](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/tableau-public-forums?u=76281980&t=3)** If you search for it on Google, the first page that will come up is Tableau Public.
+> **[0:03](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/tableau-public-forums?u=76281980&t=3)** If you search for it on [[Google]], the first page that will come up is Tableau Public.
 >
 > **[0:08](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/tableau-public-forums?u=76281980&t=8)** And you can download this free version of Tableau so that you can build out your own portfolio.
 >
@@ -2727,17 +2686,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (5), [[Search]] (1), [[Google]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (5), [[Google]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sharing your Tableau portfolio
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/sharing-your-tableau-portfolio?u=76281980)
+#### [Sharing your Tableau portfolio](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/sharing-your-tableau-portfolio?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/sharing-your-tableau-portfolio?u=76281980&t=0)** - [Instructor] If you're looking for additional resources on expanding your Tableau knowledge, Tableau Public is a great resource for you.
+> **[0:00](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/sharing-your-tableau-portfolio?u=76281980&t=0)** - [Instructor] If you're looking for additional resources on expanding your [[Tableau]] knowledge, Tableau Public is a great resource for you.
 >
 > **[0:08](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/sharing-your-tableau-portfolio?u=76281980&t=8)** In fact, my specific page has a bunch of different visualizations and embedded Tableau workbooks for you to choose from.
 >
@@ -2759,7 +2717,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/sharing-your-tableau-portfolio?u=76281980&t=78)** Here's some marketing data.
 >
-> **[1:19](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/sharing-your-tableau-portfolio?u=76281980&t=79)** That one is a sales analysis.
+> **[1:19](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/sharing-your-tableau-portfolio?u=76281980&t=79)** That one is a [[Sales Analysis]].
 >
 > **[1:22](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/sharing-your-tableau-portfolio?u=76281980&t=82)** There's so many different options that you can choose from.
 >
@@ -2773,18 +2731,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (5), data (3), [[Sales Analysis]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (5), [[Sales Analysis]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), kind of like (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reddit
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/reddit?u=76281980)
+#### [Reddit](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/reddit?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/reddit?u=76281980&t=0)** - [Instructor] Surprisingly enough, Reddit is a wonderful resource if you're looking to expand your Tableau knowledge.
+> **[0:00](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/reddit?u=76281980&t=0)** - [Instructor] Surprisingly enough, Reddit is a wonderful resource if you're looking to expand your [[Tableau]] knowledge.
 >
 > **[0:06](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/reddit?u=76281980&t=6)** In the r/Tableau subreddit, there is a group of people who are actively engaged in expanding their knowledge base.
 >
@@ -2798,7 +2755,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/reddit?u=76281980&t=37)** Like this post here is How to Build a Bar Chart Race in Tableau.
 >
-> **[0:42](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/reddit?u=76281980&t=42)** These are the kinds of videos that you see posting on LinkedIn and other social media sites of an animated bar chart.
+> **[0:42](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/reddit?u=76281980&t=42)** These are the kinds of videos that you see posting on [[LinkedIn]] and other social media sites of an animated bar chart.
 >
 > **[0:51](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/reddit?u=76281980&t=51)** These are pretty flashy, but they actually get attention.
 >
@@ -2808,17 +2765,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (5), [[Search]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (5), [[LinkedIn]] (1)
 > **Definitions:** is a  (4)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Forums
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/forums?u=76281980)
+#### [Forums](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/forums?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/forums?u=76281980&t=0)** - [Instructor] Tableau has built a robust community around their product.
+> **[0:00](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/forums?u=76281980&t=0)** - [Instructor] [[Tableau]] has built a robust community around their product.
 >
 > **[0:04](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/forums?u=76281980&t=4)** As evidenced by this is their community forums.
 >
@@ -2826,7 +2782,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/forums?u=76281980&t=17)** You can also use the forums to answer specific questions or learn more about specific topics.
 >
-> **[0:23](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/forums?u=76281980&t=23)** In this example, I've searched for marketing analytics, and you can see that the first thing that shows up is a bunch of content and resources on marketing analytics.
+> **[0:23](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/forums?u=76281980&t=23)** In this example, I've searched for [[Marketing Analytics]], and you can see that the first thing that shows up is a bunch of content and resources on marketing analytics.
 >
 > **[0:34](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/forums?u=76281980&t=34)** Next, we have a thread that is marketing analytics practice, so people are practicing marketing analytics together.
 >
@@ -2836,18 +2792,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Marketing Analytics]] (4), [[Tableau]] (3), product (1), next (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Marketing Analytics]] (4), [[Tableau]] (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### YouTube
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/youtube?u=76281980)
+#### [YouTube](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/youtube?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/youtube?u=76281980&t=0)** - [Instructor] I'm going to let you guys in on a little secret.
 >
-> **[0:02](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/youtube?u=76281980&t=2)** YouTube is one of the best resources to expand your Tableau knowledge.
+> **[0:02](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/youtube?u=76281980&t=2)** YouTube is one of the best resources to expand your [[Tableau]] knowledge.
 >
 > **[0:07](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/youtube?u=76281980&t=7)** Even some of the most advanced Tableau users are using YouTube to quickly find answers to their questions.
 >
@@ -2868,16 +2823,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Wrap up your Tableau journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/wrap-up-your-tableau-journey?u=76281980)
+#### [Wrap up your Tableau journey](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/wrap-up-your-tableau-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/wrap-up-your-tableau-journey?u=76281980&t=0)** - Congratulations on making it all the way through the course.
 >
-> **[0:04](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/wrap-up-your-tableau-journey?u=76281980&t=4)** At this point, you've learned quite a bit about Tableau, but the journey doesn't stop here.
+> **[0:04](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/wrap-up-your-tableau-journey?u=76281980&t=4)** At this point, you've learned quite a bit about [[Tableau]], but the journey doesn't stop here.
 >
-> **[0:10](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/wrap-up-your-tableau-journey?u=76281980&t=10)** What you can do now is follow me on LinkedIn.
+> **[0:10](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/wrap-up-your-tableau-journey?u=76281980&t=10)** What you can do now is follow me on [[LinkedIn]].
 >
 > **[0:13](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/wrap-up-your-tableau-journey?u=76281980&t=13)** I post regularly all about analytics and specifically Tableau.
 >
@@ -2889,7 +2843,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/wrap-up-your-tableau-journey?u=76281980&t=49)** In this podcast episode, Michael Galarnyk, an experienced data scientist, reviews two of my students' Tableau Public portfolios.
 >
-> **[0:58](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/wrap-up-your-tableau-journey?u=76281980&t=58)** He dives deep into critiquing their presentation approach and then gets very, very granular in giving them feedback on how they can improve their visualizations, the overall user experience of their dashboards, and how they can uncover even more effective insights using Tableau.
+> **[0:58](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/wrap-up-your-tableau-journey?u=76281980&t=58)** He dives deep into critiquing their presentation approach and then gets very, very granular in giving them feedback on how they can improve their visualizations, the overall [[User Experience (UX)|user experience]] of their [[Dashboards]], and how they can uncover even more effective insights using Tableau.
 >
 > **[1:17](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/wrap-up-your-tableau-journey?u=76281980&t=77)** Check out this episode if you want to see a deep dive in how a true expert can use Tableau day to day.
 >
@@ -2897,7 +2851,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (6), [[Analytics]] (6), [[LinkedIn]] (1), data (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (6), [[LinkedIn]] (1), [[User Experience (UX)|User experience]] (1), [[Dashboards]] (1)
 > **Speakers:** - congratulations (1)
 
 

@@ -104,12 +104,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Scrum for agile software development
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/scrum-for-agile-software-development?u=76281980)
+#### [Scrum for agile software development](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/scrum-for-agile-software-development?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/scrum-for-agile-software-development?u=76281980&t=0)** - [Shashi] Scrum is one of the most widely-adopted agile frameworks used by organizations to deliver high quality products to their customers faster and more often.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/scrum-for-agile-software-development?u=76281980&t=0)** - [Shashi] [[Scrum]] is one of the most widely-adopted [[Agile Development|agile]] frameworks used by organizations to deliver high quality [[Microsoft Products|products]] to their customers faster and more often.
 >
 > **[0:12](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/scrum-for-agile-software-development?u=76281980&t=12)** We will provide practical examples of the application of Scrum.
 >
@@ -117,7 +116,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/scrum-for-agile-software-development?u=76281980&t=21)** Its emphasis on transparency, inspection, and adaptation leads to continuous improvement and effective teamwork.
 >
-> **[0:30](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/scrum-for-agile-software-development?u=76281980&t=30)** In my LinkedIn learning course, I'll teach you Scrum concepts using real-life examples and provide tips that include information-rich dashboards, Scrum boards, and team collaboration techniques.
+> **[0:30](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/scrum-for-agile-software-development?u=76281980&t=30)** In my [[LinkedIn]] learning course, I'll teach you Scrum concepts using real-life examples and provide tips that include information-rich [[Dashboards]], Scrum boards, and [[Team Collaboration]] techniques.
 >
 > **[0:44](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/scrum-for-agile-software-development?u=76281980&t=44)** So join me, Shashi Shekhar, to explore Scrum for developers.
 >
@@ -125,23 +124,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (6), [[Agile Development|Agile]] (1), [[Microsoft Products|Products]] (1), application (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Scrum]] (6), [[Agile Development|Agile]] (1), [[Microsoft Products|Products]] (1), [[LinkedIn]] (1), [[Dashboards]] (1)
 > **Speakers:** - [shashi] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/what-you-should-know?u=76281980&t=0)** - [Instructor] To get the most out of this course, it may be helpful to have some understanding of software development principles, but you don't have to be a developer to get value from this course.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/what-you-should-know?u=76281980&t=0)** - [Instructor] To get the most out of this course, it may be helpful to have some understanding of [[Software Development]] principles, but you don't have to be a developer to get value from this course.
 >
 > **[0:12](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/what-you-should-know?u=76281980&t=12)** The concepts discussed will be applicable to any role on a software development team.
 >
-> **[0:18](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/what-you-should-know?u=76281980&t=18)** In this course, I'll be diving right into Scrum artifacts, roles, and events.
+> **[0:18](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/what-you-should-know?u=76281980&t=18)** In this course, I'll be diving right into [[Scrum]] artifacts, roles, and events.
 >
 > **[0:25](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/what-you-should-know?u=76281980&t=25)** These are the topics that will be most useful for you to get up and running in Scrum.
 >
-> **[0:30](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/what-you-should-know?u=76281980&t=30)** If you'd like to take a deeper dive into the history and high-level concepts of Scrum, check out my other course, [[Agile Software Development]].
+> **[0:30](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/what-you-should-know?u=76281980&t=30)** If you'd like to take a deeper dive into the history and high-level concepts of Scrum, check out my other course, [[[[Agile Software Development]]]].
 >
 > **[0:40](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/what-you-should-know?u=76281980&t=40)** In this course, we'll be focusing on hands-on Scrum implementation.
 >
@@ -149,7 +147,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/what-you-should-know?u=76281980&t=60)** The goal of this course is to reinforce theoretical concepts with examples that may use software tools.
 >
-> **[1:09](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/what-you-should-know?u=76281980&t=69)** If you have any favorite tools that you use in your product development cycle, you should be able to apply similar techniques in your software tools.
+> **[1:09](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/what-you-should-know?u=76281980&t=69)** If you have any favorite tools that you use in your [[Product Development]] cycle, you should be able to apply similar techniques in your software tools.
 
 > [!info]- Semantic Content
 >
@@ -162,12 +160,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Product owner: The what
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-owner-the-what?u=76281980)
+#### [Product owner: The what](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-owner-the-what?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-owner-the-what?u=76281980&t=0)** - [Sashi] Scrum has three roles, product owner, Scrum master and development team member.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-owner-the-what?u=76281980&t=0)** - [Sashi] [[Scrum]] has three roles, product owner, Scrum master and development team member.
 >
 > **[0:09](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-owner-the-what?u=76281980&t=9)** All three together form what is known as the Scrum team.
 >
@@ -195,18 +192,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (20), [[Scrum]] (7)
+> **Frameworks & Libraries:** [[Scrum]] (7)
 > **Definitions:** is a  (2), known as (1)
 > **Speakers:** - [sashi] (1)
 
-#### Product owner example
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-owner-example?u=76281980)
+#### [Product owner example](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-owner-example?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-owner-example?u=76281980&t=0)** - [Instructor] For this course, we will use the example of a software development team that is rebuilding the website and developing new mobile apps for a large fitness center chain.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-owner-example?u=76281980&t=0)** - [Instructor] For this course, we will use the example of a [[Software Development]] team that is rebuilding the website and developing new mobile apps for a large fitness center chain.
 >
-> **[0:12](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-owner-example?u=76281980&t=12)** The product owner of our agile fitness team is Bob Jones.
+> **[0:12](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-owner-example?u=76281980&t=12)** The product owner of our [[Agile Development|agile]] fitness team is Bob Jones.
 >
 > **[0:16](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-owner-example?u=76281980&t=16)** Bob has been with the fitness club for the last 20 years.
 >
@@ -240,7 +236,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-owner-example?u=76281980&t=155)** Senior business analysts with good domain knowledge generally make good product owners, but there are always exceptions and people from any field with these characteristics could make really good product owners.
 >
-> **[2:50](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-owner-example?u=76281980&t=170)** I want to reiterate that Scrum does not have a project manager role.
+> **[2:50](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-owner-example?u=76281980&t=170)** I want to reiterate that [[Scrum]] does not have a project manager role.
 >
 > **[2:57](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-owner-example?u=76281980&t=177)** Organizations implementing scrum will most likely have project managers and they have an important role to play but project managers are not part of the scrum team.
 >
@@ -248,19 +244,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (8), business (4), [[Scrum]] (4), management (2), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Scrum]] (4), [[Software Development]] (1), [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Development team: The how
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/development-team-the-how?u=76281980)
+#### [Development team: The how](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/development-team-the-how?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/development-team-the-how?u=76281980&t=0)** - [Instructor] Just like the product owner defines what needs to be built, the development team defines how it'll be built.
 >
-> **[0:09](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/development-team-the-how?u=76281980&t=9)** Scrum execution means converting a subset of product backlog items into what is known as a potentially releasable increment.
+> **[0:09](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/development-team-the-how?u=76281980&t=9)** [[Scrum]] execution means converting a subset of product backlog items into what is known as a potentially releasable increment.
 >
 > **[0:19](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/development-team-the-how?u=76281980&t=19)** In simple words, a potentially releasable increment is functional software that can be released to the user community.
 >
@@ -284,17 +279,17 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/development-team-the-how?u=76281980&t=97)** Scrum does not prescribe a reporting hierarchy such as a team lead, lead developer or junior developer.
 >
-> **[1:47](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/development-team-the-how?u=76281980&t=107)** Let's take a look at our agile fitness development team.
+> **[1:47](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/development-team-the-how?u=76281980&t=107)** Let's take a look at our [[Agile Development|agile]] fitness development team.
 >
-> **[1:51](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/development-team-the-how?u=76281980&t=111)** We have Jim, who is a software design expert, and is an experienced programmer.
+> **[1:51](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/development-team-the-how?u=76281980&t=111)** We have Jim, who is a [[Software Design]] expert, and is an experienced programmer.
 >
 > **[1:59](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/development-team-the-how?u=76281980&t=119)** Maria is a good programmer, and has been a tester in the past.
 >
-> **[2:04](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/development-team-the-how?u=76281980&t=124)** Ravi is a good-quality assurance person, and he has been part of the team that wrote requirements of the fitness chains original website so he understands business requirements.
+> **[2:04](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/development-team-the-how?u=76281980&t=124)** Ravi is a good-[[Quality Assurance]] person, and he has been part of the team that wrote requirements of the fitness chains original website so he understands business requirements.
 >
 > **[2:18](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/development-team-the-how?u=76281980&t=138)** Chuck is good at software documentation tools, and knows a few build tools as well.
 >
-> **[2:24](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/development-team-the-how?u=76281980&t=144)** Jamal is another good programmer, and his knowledgeable about test automation.
+> **[2:24](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/development-team-the-how?u=76281980&t=144)** Jamal is another good programmer, and his knowledgeable about [[Test Automation]].
 >
 > **[2:29](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/development-team-the-how?u=76281980&t=149)** We are lucky to have a development team that has all the skills to build functional software from product backlog items.
 >
@@ -302,17 +297,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (6), product (5), [[Scrum]] (2), [[Automation]] (1), teams (1)
+> **Frameworks & Libraries:** [[Scrum]] (2), [[Agile Development|Agile]] (1), [[Software Design]] (1), [[Quality Assurance]] (1), [[Test Automation]] (1)
 > **Definitions:** is a  (3), known as (1), is an  (1), in other words (1)
 > **Analogies:** such as (2), just like (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding the development team
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/understanding-the-development-team?u=76281980)
+#### [Understanding the development team](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/understanding-the-development-team?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/understanding-the-development-team?u=76281980&t=0)** - [Instructor] A common myth about scrum is that it does not allow specialization.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/understanding-the-development-team?u=76281980&t=0)** - [Instructor] A common myth about [[Scrum]] is that it does not allow specialization.
 >
 > **[0:06](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/understanding-the-development-team?u=76281980&t=6)** There is nothing stated in the scrum guide that disallows or discourages specialization.
 >
@@ -350,34 +344,33 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/understanding-the-development-team?u=76281980&t=149)** For example, a team of user interface developers, business logic developers, and database programmers that can produce a fully-functional feature such as order processing or customer registration.
 >
-> **[2:45](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/understanding-the-development-team?u=76281980&t=165)** Agile approaches evaluate teams based on the business value they produce.
+> **[2:45](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/understanding-the-development-team?u=76281980&t=165)** [[Agile Development|Agile]] approaches evaluate teams based on the business value they produce.
 >
 > **[2:51](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/understanding-the-development-team?u=76281980&t=171)** That is why feature teams are preferred over component teams.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (10), [[Scrum]] (6), feature (3), functional (2), business (2)
+> **Frameworks & Libraries:** [[Scrum]] (6), [[Agile Development|Agile]] (1)
 > **Definitions:** is a  (3), known as (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Scrum master: The servant leader
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/scrum-master-the-servant-leader?u=76281980)
+#### [Scrum master: The servant leader](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/scrum-master-the-servant-leader?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/scrum-master-the-servant-leader?u=76281980&t=0)** - Last but not least, let's discuss the third role in Scrum.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/scrum-master-the-servant-leader?u=76281980&t=0)** - Last but not least, let's discuss the third role in [[Scrum]].
 >
 > **[0:05](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/scrum-master-the-servant-leader?u=76281980&t=5)** The Scrum master.
 >
 > **[0:07](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/scrum-master-the-servant-leader?u=76281980&t=7)** The term scrum master is highly misunderstood.
 >
-> **[0:11](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/scrum-master-the-servant-leader?u=76281980&t=11)** When we hear the word master we think of a hard task master or a manager.
+> **[0:11](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/scrum-master-the-servant-leader?u=76281980&t=11)** When we hear the [[Microsoft Word|word]] master we think of a hard task master or a manager.
 >
 > **[0:18](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/scrum-master-the-servant-leader?u=76281980&t=18)** This is not correct.
 >
-> **[0:20](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/scrum-master-the-servant-leader?u=76281980&t=20)** Scrum master is someone with mastery or expert knowledge of agile and scrum concepts.
+> **[0:20](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/scrum-master-the-servant-leader?u=76281980&t=20)** Scrum master is someone with mastery or expert knowledge of [[Agile Development|agile]] and scrum concepts.
 >
 > **[0:27](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/scrum-master-the-servant-leader?u=76281980&t=27)** A scrum master can be described in a few ways.
 >
@@ -421,7 +414,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/scrum-master-the-servant-leader?u=76281980&t=130)** Example three.
 >
-> **[2:12](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/scrum-master-the-servant-leader?u=76281980&t=132)** Ashley convinced executive management to buy test automation software.
+> **[2:12](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/scrum-master-the-servant-leader?u=76281980&t=132)** Ashley convinced executive management to buy [[Test Automation]] software.
 >
 > **[2:17](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/scrum-master-the-servant-leader?u=76281980&t=137)** She was the influencer here.
 >
@@ -443,7 +436,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (20), [[Agile Development|Agile]] (5), [[Microsoft Word|Word]] (1), business (1), management (1)
+> **Frameworks & Libraries:** [[Scrum]] (20), [[Agile Development|Agile]] (5), [[Microsoft Word|Word]] (1), [[Test Automation]] (1)
 > **Definitions:** in other words (2), known as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - last (1)
@@ -453,12 +446,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Software tools for scrum
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/software-tools-for-scrum?u=76281980)
+#### [Software tools for scrum](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/software-tools-for-scrum?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/software-tools-for-scrum?u=76281980&t=0)** - [Instructor] Agility is a mindset and culture, and using software tools such as Jira or Trello, et cetera, alone, does not make an organization or an individual agile.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/software-tools-for-scrum?u=76281980&t=0)** - [Instructor] Agility is a mindset and culture, and using software tools such as [[Jira]] or [[Trello]], et cetera, alone, does not make an organization or an individual [[Agile Development|agile]].
 >
 > **[0:13](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/software-tools-for-scrum?u=76281980&t=13)** In fact, I recommend that teams not focus too much on software tools when they're introduced to agile approaches.
 >
@@ -478,19 +470,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (5), [[Agile Development|Agile]] (3), [[Jira]] (1), [[Trello]] (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), [[Jira]] (1), [[Trello]] (1)
 > **CLI Commands:** make (3)
 > **Tools:** jira (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Product backlog overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-backlog-overview?u=76281980)
+#### [Product backlog overview](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-backlog-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-backlog-overview?u=76281980&t=0)** - [Instructor] As we already discussed, the product backlog is the to-do list for the Scrum team.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-backlog-overview?u=76281980&t=0)** - [Instructor] As we already discussed, the product backlog is the to-do list for the [[Scrum]] team.
 >
 > **[0:07](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-backlog-overview?u=76281980&t=7)** The product backlog is one of the three artifacts that are required by Scrum.
 >
@@ -514,15 +505,15 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-backlog-overview?u=76281980&t=91)** Here is an example of a backlog item.
 >
-> **[1:33](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-backlog-overview?u=76281980&t=93)** In this case, it is a user story, which is a method of capturing requirements for agile projects.
+> **[1:33](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-backlog-overview?u=76281980&t=93)** In this case, it is a user story, which is a method of capturing requirements for [[Agile Development|agile]] projects.
 >
-> **[1:41](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-backlog-overview?u=76281980&t=101)** If you'd like to know more in-depth information about a user story, check out my other course, [[Agile Software Development]].
+> **[1:41](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-backlog-overview?u=76281980&t=101)** If you'd like to know more in-depth information about a user story, check out my other course, [[[[Agile Software Development]]]].
 >
 > **[1:49](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-backlog-overview?u=76281980&t=109)** The user story is, as a fitness club member, I should be able to generate member badge on my mobile phone so I can check in without my physical membership card.
 >
 > **[2:02](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-backlog-overview?u=76281980&t=122)** Here's an example of a bug.
 >
-> **[2:04](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-backlog-overview?u=76281980&t=124)** The font size on the contact us page looks different from the rest of the website.
+> **[2:04](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-backlog-overview?u=76281980&t=124)** The font size on the contact us page looks different from the [[Representational State Transfer (REST)|rest]] of the website.
 >
 > **[2:12](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-backlog-overview?u=76281980&t=132)** Let's take a look at a few items that are more course grained, and not implementable unless broken down into smaller more detailed items.
 >
@@ -542,12 +533,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (11), [[Scrum]] (2), data (2), [[Analytics]] (2), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Scrum]] (2), [[Agile Development|Agile]] (1), [[Agile Software Development]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Product backlog characteristics and tips
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-backlog-characteristics-and-tips?u=76281980)
+#### [Product backlog characteristics and tips](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-backlog-characteristics-and-tips?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -571,20 +561,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (14), feature (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1)
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sample product backlog
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sample-product-backlog?u=76281980)
+#### [Sample product backlog](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sample-product-backlog?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sample-product-backlog?u=76281980&t=0)** - [Instructor] Let's do a quick walkthrough of a sample product backlog.
 >
-> **[0:05](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sample-product-backlog?u=76281980&t=5)** This is for the product backlog of our agile fitness team looks like.
+> **[0:05](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sample-product-backlog?u=76281980&t=5)** This is for the product backlog of our [[Agile Development|agile]] fitness team looks like.
 >
 > **[0:10](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sample-product-backlog?u=76281980&t=10)** The backlog captures requirements as a set of user stories.
 >
@@ -608,7 +596,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sample-product-backlog?u=76281980&t=86)** You can have more than just user stories and bugs in your product backlog.
 >
-> **[1:32](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sample-product-backlog?u=76281980&t=92)** Which items go to a product backlog is generally decided by the scrum team.
+> **[1:32](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sample-product-backlog?u=76281980&t=92)** Which items go to a product backlog is generally decided by the [[Scrum]] team.
 >
 > **[1:37](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sample-product-backlog?u=76281980&t=97)** Items in a product backlog may or may not get implemented in the next few sprints.
 >
@@ -616,19 +604,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (8), [[Agile Development|Agile]] (1), [[Scrum]] (1), next (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), [[Scrum]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** go to (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sprint backlog overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-backlog-overview?u=76281980)
+#### [Sprint backlog overview](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-backlog-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-backlog-overview?u=76281980&t=0)** - [Instructor] The next scrum artifact that we are going to review is the sprint backlog.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-backlog-overview?u=76281980&t=0)** - [Instructor] The next [[Scrum]] artifact that we are going to review is the sprint backlog.
 >
 > **[0:06](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-backlog-overview?u=76281980&t=6)** Scrum is an iterative process and scrum teams work in short timebox iterations that are known as sprints .
 >
@@ -648,27 +635,26 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-backlog-overview?u=76281980&t=77)** The development team is free to create this plan in whatever way they think is appropriate.
 >
-> **[1:23](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-backlog-overview?u=76281980&t=83)** For example, the development team may create one task each for UI design, application design, database design, coding, unit testing, documentation, et cetera for each user story or backlog item.
+> **[1:23](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-backlog-overview?u=76281980&t=83)** For example, the development team may create one task each for UI design, application design, [[Database Design]], coding, [[Unit Testing]], documentation, et cetera for each user story or backlog item.
 >
 > **[1:40](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-backlog-overview?u=76281980&t=100)** And the development team is free to change this plan as frequently as they want.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (7), [[Scrum]] (3), next (1), teams (1), application (1)
+> **Frameworks & Libraries:** [[Scrum]] (3), [[Database Design]] (1), [[Unit Testing]] (1)
 > **Definitions:** is an  (1), known as (1), is called (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Product increment overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-increment-overview?u=76281980)
+#### [Product increment overview](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-increment-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-increment-overview?u=76281980&t=0)** - [Instructor] Last, but definitely not least, is the Scrum artifact called increment or product increment.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-increment-overview?u=76281980&t=0)** - [Instructor] Last, but definitely not least, is the [[Scrum]] artifact called increment or product increment.
 >
 > **[0:08](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-increment-overview?u=76281980&t=8)** In simple words, the increment is the working product the Scrum team produces at the end of each sprint.
 >
-> **[0:18](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-increment-overview?u=76281980&t=18)** For our Agile Fitness team, the Development team built the login page, the main landing page, and fitness center location search and other functionality in multiple sprints in the past.
+> **[0:18](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-increment-overview?u=76281980&t=18)** For our [[Agile Development|Agile]] Fitness team, the Development team built the login page, the main landing page, and fitness center location search and other functionality in multiple sprints in the past.
 >
 > **[0:32](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-increment-overview?u=76281980&t=32)** They just finished a sprint where they added new functionality that includes trainer profile maintenance, payment history, et cetera.
 >
@@ -690,20 +676,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), [[Scrum]] (3), business (2), [[Agile Development|Agile]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Scrum]] (3), [[Agile Development|Agile]] (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### The definition of done
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/the-definition-of-done?u=76281980)
+#### [The definition of done](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/the-definition-of-done?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/the-definition-of-done?u=76281980&t=0)** - [Instructor] When a backlog item is moved into the Done column in an Agile board, that item is considered to be potentially releasable.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/the-definition-of-done?u=76281980&t=0)** - [Instructor] When a backlog item is moved into the Done column in an [[Agile Development|Agile]] board, that item is considered to be potentially releasable.
 >
 > **[0:09](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/the-definition-of-done?u=76281980&t=9)** But what defines the criteria that must be met for an item to be considered done?
 >
-> **[0:15](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/the-definition-of-done?u=76281980&t=15)** Scrum defines that criteria as the Definition of Done.
+> **[0:15](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/the-definition-of-done?u=76281980&t=15)** [[Scrum]] defines that criteria as the Definition of Done.
 >
 > **[0:20](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/the-definition-of-done?u=76281980&t=20)** The Definition of Done can be applied to a product backlog item, or to an increment, or release.
 >
@@ -727,11 +712,11 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/the-definition-of-done?u=76281980&t=102)** Let's spend a few minutes to review our Agile Fitness team's Definition of Done, applied at a user story level.
 >
-> **[1:50](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/the-definition-of-done?u=76281980&t=110)** As you can see in this list, we have items related to unit testing, behavior driven testing, code coverage, review by product owner, class documentation and code analysis output.
+> **[1:50](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/the-definition-of-done?u=76281980&t=110)** As you can see in this list, we have items related to [[Unit Testing]], behavior driven testing, code coverage, review by product owner, class documentation and code analysis output.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[Agile Development|Agile]] (2), [[Scrum]] (2), teams (1), [[Unit Testing]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), [[Scrum]] (2), [[Unit Testing]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
@@ -741,12 +726,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Sprint overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-overview?u=76281980)
+#### [Sprint overview](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-overview?u=76281980&t=0)** - [Instructor] Scrum teams build products in an iterative and incremental manner, each time boxed iteration of work is called a sprint.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-overview?u=76281980&t=0)** - [Instructor] [[Scrum]] teams build [[Microsoft Products|products]] in an iterative and incremental manner, each time boxed iteration of work is called a sprint.
 >
 > **[0:11](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-overview?u=76281980&t=11)** The sprint is often described as the container event for all other Scrum events.
 >
@@ -782,16 +766,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (10), [[Scrum]] (6), business (4), teams (2), database (2)
+> **Frameworks & Libraries:** [[Scrum]] (6), [[Microsoft Products|Products]] (1)
 > **Definitions:** is called (2), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sprint best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-best-practices?u=76281980)
+#### [Sprint best practices](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-best-practices?u=76281980&t=0)** - [Instructor] Occasionally a scrum team will execute a sprint at the earliest stages of a project that just focuses on planning and does not produce a working product increment.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-best-practices?u=76281980&t=0)** - [Instructor] Occasionally a [[Scrum]] team will execute a sprint at the earliest stages of a project that just focuses on planning and does not produce a working product increment.
 >
 > **[0:13](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-best-practices?u=76281980&t=13)** This is known as sprint zero.
 >
@@ -803,7 +786,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-best-practices?u=76281980&t=36)** The purpose of scrum is to maximize business value for each product iteration.
 >
-> **[0:44](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-best-practices?u=76281980&t=44)** Hardening sprints are designated for stabilizing products by fixing quality and performance issues.
+> **[0:44](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-best-practices?u=76281980&t=44)** Hardening sprints are designated for stabilizing [[Microsoft Products|products]] by fixing quality and performance issues.
 >
 > **[0:51](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-best-practices?u=76281980&t=51)** The problem with this approach is that it encourages teams to produce unstable products at the end of sprints that do not provide expected business value and reduce transparency about a team's progress status.
 >
@@ -819,7 +802,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-best-practices?u=76281980&t=116)** You should avoid sprints comprised entirely of spikes.
 >
-> **[2:01](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-best-practices?u=76281980&t=121)** This is the era of continuous delivery where organizations release features multiple times during the day.
+> **[2:01](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-best-practices?u=76281980&t=121)** This is the era of [[Continuous Delivery (CD)|continuous delivery]] where organizations release features multiple times during the day.
 >
 > **[2:09](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-best-practices?u=76281980&t=129)** Scrum is often criticized for introducing artificial time boundaries in the product delivery process.
 >
@@ -829,15 +812,15 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-best-practices?u=76281980&t=149)** If you have a continuous delivery pipeline set up to deliver more frequently, that does not violate any scrum rule.
 >
-> **[2:38](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-best-practices?u=76281980&t=158)** Scrum events provide a high level structure around effective communication, quality assurance, and process improvement.
+> **[2:38](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-best-practices?u=76281980&t=158)** Scrum events provide a high level structure around effective communication, [[Quality Assurance]], and process improvement.
 >
 > **[2:47](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-best-practices?u=76281980&t=167)** And weekly sprints are becoming more common with modern teams.
 >
-> **[2:52](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-best-practices?u=76281980&t=172)** In other words, you could incorporate DevOps practices and set up a continuous delivery pipeline within the scrum framework.
+> **[2:52](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-best-practices?u=76281980&t=172)** In other words, you could incorporate [[DevOps]] practices and set up a continuous delivery pipeline within the scrum framework.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (11), product (6), business (6), [[Microsoft Products|Products]] (3), teams (3)
+> **Frameworks & Libraries:** [[Scrum]] (11), [[Microsoft Products|Products]] (3), [[Continuous Delivery (CD)|Continuous delivery]] (3), [[Quality Assurance]] (1), [[DevOps]] (1)
 > **Definitions:** known as (1), is a  (1), in other words (1)
 > **Analogies:** for example (2)
 > **Prerequisites:** set up (2)
@@ -845,8 +828,7 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sprint planning: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-planning-part-1?u=76281980)
+#### [Sprint planning: Part 1](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-planning-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -856,7 +838,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-planning-part-1?u=76281980&t=10)** The time box can be reduced proportionally for shorter sprints.
 >
-> **[0:15](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-planning-part-1?u=76281980&t=15)** Most experienced scrum teams schedule no more than two hours for this event.
+> **[0:15](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-planning-part-1?u=76281980&t=15)** Most experienced [[Scrum]] teams schedule no more than two hours for this event.
 >
 > **[0:20](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-planning-part-1?u=76281980&t=20)** The eight-hour limit is the upper limit and there is no lower time limit on sprint planning or any other scrum event.
 >
@@ -906,14 +888,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (7), [[Scrum]] (5), business (3), teams (1), generic (1)
+> **Frameworks & Libraries:** [[Scrum]] (5)
 > **Env Vars:** cio (1)
 > **Definitions:** known as (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sprint planning: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-planning-part-2?u=76281980)
+#### [Sprint planning: Part 2](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-planning-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -923,11 +904,11 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-planning-part-2?u=76281980&t=12)** Please note that the how of sprint planning is owned by the development team.
 >
-> **[0:18](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-planning-part-2?u=76281980&t=18)** The product owner and scrum master let the development team work on the detailed planning for the next few days.
+> **[0:18](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-planning-part-2?u=76281980&t=18)** The product owner and [[Scrum]] master let the development team work on the detailed planning for the next few days.
 >
 > **[0:26](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-planning-part-2?u=76281980&t=26)** They are available to answer any questions or facilitate conversations if necessary.
 >
-> **[0:33](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-planning-part-2?u=76281980&t=33)** This is what our agile fitness team did.
+> **[0:33](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-planning-part-2?u=76281980&t=33)** This is what our [[Agile Development|agile]] fitness team did.
 >
 > **[0:36](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-planning-part-2?u=76281980&t=36)** For each item selected for the sprint, they built tasks for activities, such as design, coding, integration, et cetera.
 >
@@ -953,17 +934,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), next (2), [[Agile Development|Agile]] (2), [[Scrum]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), [[Scrum]] (1)
 > **Analogies:** such as (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sprint planning in Jira
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-planning-in-jira?u=76281980)
+#### [Sprint planning in Jira](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-planning-in-jira?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-planning-in-jira?u=76281980&t=0)** - [Instructor] So, let's see what our Agile Fitness team did for sprint planning in a tool called JIRA.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-planning-in-jira?u=76281980&t=0)** - [Instructor] So, let's see what our [[Agile Development|Agile]] Fitness team did for sprint planning in a tool called [[Jira]].
 >
 > **[0:07](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-planning-in-jira?u=76281980&t=7)** The development team started a new sprint.
 >
@@ -977,18 +957,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), [[Jira]] (1), product (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), [[Jira]] (1)
 > **Env Vars:** jira (1)
 > **Tools:** jira (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Boards in Jira
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/boards-in-jira?u=76281980)
+#### [Boards in Jira](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/boards-in-jira?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/boards-in-jira?u=76281980&t=0)** - [Instructor] So now let's take a quick look at scrum boards.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/boards-in-jira?u=76281980&t=0)** - [Instructor] So now let's take a quick look at [[Scrum]] boards.
 >
 > **[0:04](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/boards-in-jira?u=76281980&t=4)** A scrum board shows backlog items arranged by different statuses of completion.
 >
@@ -998,7 +977,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/boards-in-jira?u=76281980&t=21)** Many tools facilitate management of scrum boards.
 >
-> **[0:25](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/boards-in-jira?u=76281980&t=25)** This is how the scrum board of our agile fitness team looks like.
+> **[0:25](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/boards-in-jira?u=76281980&t=25)** This is how the scrum board of our [[Agile Development|agile]] fitness team looks like.
 >
 > **[0:30](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/boards-in-jira?u=76281980&t=30)** This is the scrum board for the current sprint.
 >
@@ -1012,7 +991,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/boards-in-jira?u=76281980&t=62)** This type of board improves transparency.
 >
-> **[1:06](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/boards-in-jira?u=76281980&t=66)** Many teams use this board to identify bottlenecks in their product development.
+> **[1:06](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/boards-in-jira?u=76281980&t=66)** Many teams use this board to identify bottlenecks in their [[Product Development]].
 >
 > **[1:12](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/boards-in-jira?u=76281980&t=72)** Each backlog item has an estimate and each lane is configured to only have items equal to a predefined total estimate.
 >
@@ -1020,7 +999,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (6), management (1), [[Agile Development|Agile]] (1), teams (1), [[Product Development]] (1)
+> **Frameworks & Libraries:** [[Scrum]] (6), [[Agile Development|Agile]] (1), [[Product Development]] (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1029,12 +1008,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Daily scrum overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/daily-scrum-overview?u=76281980)
+#### [Daily scrum overview](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/daily-scrum-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/daily-scrum-overview?u=76281980&t=0)** - [Instructor] If I had to boil down the daily scrum to two concepts, they would be the daily scrum is a daily event for the development team to meet and sync up their activities and updates, and it is not a status meeting.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/daily-scrum-overview?u=76281980&t=0)** - [Instructor] If I had to boil down the daily [[Scrum]] to two concepts, they would be the daily scrum is a daily event for the development team to meet and sync up their activities and updates, and it is not a status meeting.
 >
 > **[0:17](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/daily-scrum-overview?u=76281980&t=17)** The daily scrum is an event of the development team for the development team and by the development team.
 >
@@ -1064,7 +1042,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/daily-scrum-overview?u=76281980&t=116)** Many teams conduct this meeting standing up, and that helps them wrap up this meeting quicker.
 >
-> **[2:02](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/daily-scrum-overview?u=76281980&t=122)** If this practice works for you, definitely use it in your scrum implementation, but understand that there is no mention of the word standup in the scrum guide.
+> **[2:02](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/daily-scrum-overview?u=76281980&t=122)** If this practice works for you, definitely use it in your scrum implementation, but understand that there is no mention of the [[Microsoft Word|word]] standup in the scrum guide.
 >
 > **[2:13](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/daily-scrum-overview?u=76281980&t=133)** Many teams consider this event as a status meeting for the product owner to review progress.
 >
@@ -1084,17 +1062,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (20), product (3), teams (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Scrum]] (20), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (2), is an  (2), known as (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Daily scrum example
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/daily-scrum-example?u=76281980)
+#### [Daily scrum example](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/daily-scrum-example?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/daily-scrum-example?u=76281980&t=0)** - [Instructor] Let's take a look at how our agile fitness team conducted one of their daily scrums.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/daily-scrum-example?u=76281980&t=0)** - [Instructor] Let's take a look at how our [[Agile Development|agile]] fitness team conducted one of their daily scrums.
 >
 > **[0:07](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/daily-scrum-example?u=76281980&t=7)** Jim reported that he completed tasks 21 and 22 yesterday.
 >
@@ -1118,7 +1095,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/daily-scrum-example?u=76281980&t=66)** The team decided to brainstorm potential solutions to these problems after the meeting.
 >
-> **[1:13](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/daily-scrum-example?u=76281980&t=73)** All other updates were already available in the scrum board so the team spent a few minutes to review the agile board and made a few updates.
+> **[1:13](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/daily-scrum-example?u=76281980&t=73)** All other updates were already available in the [[Scrum]] board so the team spent a few minutes to review the agile board and made a few updates.
 >
 > **[1:24](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/daily-scrum-example?u=76281980&t=84)** The meeting was over in five minutes.
 >
@@ -1148,12 +1125,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (6), [[Agile Development|Agile]] (4), management (1)
+> **Frameworks & Libraries:** [[Scrum]] (6), [[Agile Development|Agile]] (4)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tracking progress
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/tracking-progress?u=76281980)
+#### [Tracking progress](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/tracking-progress?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1161,7 +1137,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/tracking-progress?u=76281980&t=5)** The first practice is to subscribe to a query on work items and to receive emails on the query.
 >
-> **[0:13](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/tracking-progress?u=76281980&t=13)** This becomes really important for executive management members such as CIO or senior business analysts who do not attend daily scrum.
+> **[0:13](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/tracking-progress?u=76281980&t=13)** This becomes really important for executive management members such as CIO or senior business analysts who do not attend daily [[Scrum]].
 >
 > **[0:23](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/tracking-progress?u=76281980&t=23)** It gives them update about a team's progress, and in this case, the team member has set a filter on user stories in the backlog where no work has just yet started, and they wish to get daily updates on the list of such items.
 >
@@ -1177,7 +1153,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/tracking-progress?u=76281980&t=82)** An information radiator is an electronic board or a physical board that provides summarized information about a team's progress.
 >
-> **[1:30](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/tracking-progress?u=76281980&t=90)** In this case, the agile fitness team built an electronic board that shows multiple visual controls.
+> **[1:30](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/tracking-progress?u=76281980&t=90)** In this case, the [[Agile Development|agile]] fitness team built an electronic board that shows multiple visual controls.
 >
 > **[1:38](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/tracking-progress?u=76281980&t=98)** It shows activity streams with most current activities from the top.
 >
@@ -1189,7 +1165,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (2), management (1), business (1), next (1), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Scrum]] (2), [[Agile Development|Agile]] (1)
 > **Env Vars:** cio (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
@@ -1201,16 +1177,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Sprint review overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-review-overview?u=76281980)
+#### [Sprint review overview](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-review-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-review-overview?u=76281980&t=0)** - [Instructor] Our agile fitness team has been working diligently towards converting the sprint backlog items into a potentially releasable product increment.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-review-overview?u=76281980&t=0)** - [Instructor] Our [[Agile Development|agile]] fitness team has been working diligently towards converting the sprint backlog items into a potentially releasable product increment.
 >
 > **[0:10](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-review-overview?u=76281980&t=10)** We are at the end of the sprint, and it is time for another event called the sprint review.
 >
-> **[0:18](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-review-overview?u=76281980&t=18)** First of all, sprint review is a collaborative informal event where the scrum team and the external stakeholders collaborate to do two things.
+> **[0:18](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-review-overview?u=76281980&t=18)** First of all, sprint review is a collaborative informal event where the [[Scrum]] team and the external stakeholders collaborate to do two things.
 >
 > **[0:29](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-review-overview?u=76281980&t=29)** One, they take stock of where they stand in terms of the progress towards building their product.
 >
@@ -1252,7 +1227,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (12), [[Scrum]] (6), next (2), [[Agile Development|Agile]] (1), teams (1)
+> **Frameworks & Libraries:** [[Scrum]] (6), [[Agile Development|Agile]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1261,8 +1236,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Sprint retrospective overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-retrospective-overview?u=76281980)
+#### [Sprint retrospective overview](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-retrospective-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1272,7 +1246,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-retrospective-overview?u=76281980&t=14)** In other words, this is an event to discuss and create action items to become more efficient.
 >
-> **[0:22](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-retrospective-overview?u=76281980&t=22)** All scrum team members are required to attend this event.
+> **[0:22](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-retrospective-overview?u=76281980&t=22)** All [[Scrum]] team members are required to attend this event.
 >
 > **[0:27](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-retrospective-overview?u=76281980&t=27)** In this event, the scrum team discusses three things.
 >
@@ -1284,7 +1258,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-retrospective-overview?u=76281980&t=48)** This is the event to discuss possible improvements and issues related to processes, tools, communication mechanism, team dynamics, et cetera.
 >
-> **[1:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-retrospective-overview?u=76281980&t=60)** Let's see how our agile fitness team conducted this event.
+> **[1:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-retrospective-overview?u=76281980&t=60)** Let's see how our [[Agile Development|agile]] fitness team conducted this event.
 >
 > **[1:04](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-retrospective-overview?u=76281980&t=64)** The team created a three-column board, one each for the items that went well, the ones that did not go well, and the action items.
 >
@@ -1302,7 +1276,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-retrospective-overview?u=76281980&t=110)** Is there a possibility of improving the definition of done and why don't the development team members develop and test at the same time?
 >
-> **[2:03](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-retrospective-overview?u=76281980&t=123)** The action items that came out of that meeting are items such as update testing process to use older browser versions, eliminate broken builds, adding XML comments in the code review process, or checking for XML comments and functional testing being done, along with coding and unit testing.
+> **[2:03](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-retrospective-overview?u=76281980&t=123)** The action items that came out of that meeting are items such as update testing process to use older browser versions, eliminate broken builds, adding XML comments in the [[Code Review]] process, or checking for XML comments and functional testing being done, along with coding and [[Unit Testing]].
 >
 > **[2:25](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-retrospective-overview?u=76281980&t=145)** The team selected a small subset of action items, and those items were added to the product backlog and assigned to team members.
 >
@@ -1326,23 +1300,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (4), teams (4), product (3), [[Agile Development|Agile]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Scrum]] (4), [[Agile Development|Agile]] (1), [[Code Review]] (1), [[Unit Testing]] (1)
 > **Env Vars:** xml (2)
 > **Definitions:** in other words (1), is an  (1)
 > **Analogies:** such as (2)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tracking retrospective items
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/tracking-retrospective-items?u=76281980)
+#### [Tracking retrospective items](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/tracking-retrospective-items?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/tracking-retrospective-items?u=76281980&t=0)** - [Instructor] Scrum does not enforce any specific approach to managing retrospective items.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/tracking-retrospective-items?u=76281980&t=0)** - [Instructor] [[Scrum]] does not enforce any specific approach to managing retrospective items.
 >
 > **[0:06](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/tracking-retrospective-items?u=76281980&t=6)** The only requirement per Scrum guide is to have a timeboxed sprint retrospective event with a goal to inspect individuals, interactions, processes, tools, and their definition of done.
 >
-> **[0:21](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/tracking-retrospective-items?u=76281980&t=21)** The Agile fitness team came up with an approach to document and track retrospective items separately in another backlog.
+> **[0:21](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/tracking-retrospective-items?u=76281980&t=21)** The [[Agile Development|Agile]] fitness team came up with an approach to document and track retrospective items separately in another backlog.
 >
 > **[0:29](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/tracking-retrospective-items?u=76281980&t=29)** They identified five retrospective items.
 >
@@ -1358,7 +1331,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (3), [[Agile Development|Agile]] (1), teams (1)
+> **Frameworks & Libraries:** [[Scrum]] (3), [[Agile Development|Agile]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1367,12 +1340,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Product backlog refinement
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-backlog-refinement?u=76281980)
+#### [Product backlog refinement](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-backlog-refinement?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-backlog-refinement?u=76281980&t=0)** - [Narrator] Product backlog refinement, or backlog grooming, is loosely defined in the Scrum guide, but is a key event in Scrum.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-backlog-refinement?u=76281980&t=0)** - [Narrator] Product backlog refinement, or backlog grooming, is loosely defined in the [[Scrum]] guide, but is a key event in Scrum.
 >
 > **[0:09](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-backlog-refinement?u=76281980&t=9)** The product owner and the development team are required attendees for backlog refinement.
 >
@@ -1388,7 +1360,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-backlog-refinement?u=76281980&t=80)** The better the product owner and development team execute this event, the easier it is for them to conduct sprint planning and sprint execution.
 >
-> **[1:30](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-backlog-refinement?u=76281980&t=90)** Let's see how our Agile fitness team conducted a backlog refinement session.
+> **[1:30](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-backlog-refinement?u=76281980&t=90)** Let's see how our [[Agile Development|Agile]] fitness team conducted a backlog refinement session.
 >
 > **[1:37](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-backlog-refinement?u=76281980&t=97)** For the user's story on the ability to view training videos, the development team asked a bunch of questions.
 >
@@ -1410,20 +1382,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (10), [[Scrum]] (3), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Scrum]] (3), [[Agile Development|Agile]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), picture (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
-#### Planning poker
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/planning-poker?u=76281980)
+#### [Planning poker](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/planning-poker?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/planning-poker?u=76281980&t=0)** - [Instructor] One of the key processes in product backlog refinement is estimating backlog items.
 >
-> **[0:07](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/planning-poker?u=76281980&t=7)** Planning poker was discussed in my previous course on [[Agile Software Development]].
+> **[0:07](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/planning-poker?u=76281980&t=7)** Planning poker was discussed in my previous course on [[[[Agile Software Development]]]].
 >
 > **[0:12](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/planning-poker?u=76281980&t=12)** It's essentially a process where the development team members estimate product backlog items.
 >
@@ -1463,7 +1434,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/planning-poker?u=76281980&t=122)** The number eight is not hours or days or weeks but a user story backlog item estimated at eight story points will take more time to complete than another item estimated at five story points.
 >
-> **[2:16](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/planning-poker?u=76281980&t=136)** Scrum is an empirical process and teams learn what these numbers mean over a period of time.
+> **[2:16](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/planning-poker?u=76281980&t=136)** [[Scrum]] is an empirical process and teams learn what these numbers mean over a period of time.
 >
 > **[2:24](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/planning-poker?u=76281980&t=144)** In any case, teams do not map relative estimates to absolute numbers.
 >
@@ -1483,17 +1454,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (3), teams (3), product (2), [[Agile Software Development]] (1), next (1)
+> **Frameworks & Libraries:** [[Scrum]] (3), [[Agile Software Development]] (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Technical debt
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/technical-debt?u=76281980)
+#### [Technical debt](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/technical-debt?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/technical-debt?u=76281980&t=0)** - [Instructor] I'm sure you have spent time upgrading products from an older version of a programming framework to a newer one or refactoring code to increase reusability.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/technical-debt?u=76281980&t=0)** - [Instructor] I'm sure you have spent time upgrading [[Microsoft Products|products]] from an older version of a programming framework to a newer one or refactoring code to increase reusability.
 >
 > **[0:12](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/technical-debt?u=76281980&t=12)** You were addressing what is known as technical debt.
 >
@@ -1539,7 +1509,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/technical-debt?u=76281980&t=152)** In a similar manner, you should address technical debt quickly because features built on top of components with technical debt continue to be difficult to maintain.
 >
-> **[2:43](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/technical-debt?u=76281980&t=163)** This also reduces transparency because the scrum team seems further along in their process than they actually are.
+> **[2:43](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/technical-debt?u=76281980&t=163)** This also reduces transparency because the [[Scrum]] team seems further along in their process than they actually are.
 >
 > **[2:52](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/technical-debt?u=76281980&t=172)** Lastly, you should not spend an entire sprint just addressing technical debt.
 >
@@ -1547,7 +1517,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), [[Programming]] (3), [[Microsoft Products|Products]] (2), feature (2), business (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Scrum]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** known as (1)
 > **Analogies:** just like (1)
@@ -1559,8 +1529,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Scrum certifications
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/scrum-certifications?u=76281980)
+#### [Scrum certifications](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/scrum-certifications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1568,7 +1537,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/scrum-certifications?u=76281980&t=8)** A certification forces you to study and explore other areas of knowledge that you may not be familiar with.
 >
-> **[0:17](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/scrum-certifications?u=76281980&t=17)** This is applicable to Scrum as well.
+> **[0:17](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/scrum-certifications?u=76281980&t=17)** This is applicable to [[Scrum]] as well.
 >
 > **[0:20](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/scrum-certifications?u=76281980&t=20)** Most experienced Scrum practitioners do not consider a certification a requirement for a Scrum-related job, but in case of two equally qualified candidate for a job position, a certification can be the tiebreaker.
 >
@@ -1592,19 +1561,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (17), product (2)
+> **Frameworks & Libraries:** [[Scrum]] (17)
 > **URLs:** [scrumalliance.org](https://scrumalliance.org) (1), [scrum.org](https://scrum.org) (1)
 > **Env Vars:** csm (1), psm (1)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Certified scrum master
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/certified-scrum-master?u=76281980)
+#### [Certified scrum master](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/certified-scrum-master?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/certified-scrum-master?u=76281980&t=0)** - [Presenter] The Certified ScrumMaster certification is the oldest Scrum master certification and has been around since 2002.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/certified-scrum-master?u=76281980&t=0)** - [Presenter] The Certified ScrumMaster certification is the oldest [[Scrum]] master certification and has been around since 2002.
 >
 > **[0:09](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/certified-scrum-master?u=76281980&t=9)** It is still the most popular Scrum certification and until 2009, it was the only Scrum certification program.
 >
@@ -1633,12 +1601,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [presenter] (1)
 
-#### Professional scrum master
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/professional-scrum-master?u=76281980)
+#### [Professional scrum master](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/professional-scrum-master?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/professional-scrum-master?u=76281980&t=0)** - [Presenter] The Professional Scrum Master, or PSM, exam was launched by Ken Schwaber in 2009 after he launched [scrum.org](https://scrum.org).
+> **[0:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/professional-scrum-master?u=76281980&t=0)** - [Presenter] The Professional [[Scrum]] Master, or PSM, exam was launched by Ken Schwaber in 2009 after he launched [scrum.org](https://scrum.org).
 >
 > **[0:10](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/professional-scrum-master?u=76281980&t=10)** [scrum.org](https://scrum.org) does not mandate any training course for PSM.
 >
@@ -1667,14 +1634,13 @@ created: 2026-05-02
 > **URLs:** [scrum.org](https://scrum.org) (4)
 > **Speakers:** - [presenter] (1)
 
-#### Certification advice
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/certification-advice?u=76281980)
+#### [Certification advice](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/certification-advice?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/certification-advice?u=76281980&t=0)** - [Instructor] My general advice for those preparing for any certification is this.
 >
-> **[0:06](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/certification-advice?u=76281980&t=6)** Read the Scrum guide multiple times.
+> **[0:06](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/certification-advice?u=76281980&t=6)** Read the [[Scrum]] guide multiple times.
 >
 > **[0:09](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/certification-advice?u=76281980&t=9)** Discuss your questions on the forums on [scrum.org](https://scrum.org) and [scrumalliances.org](https://scrumalliances.org).
 >
@@ -1692,7 +1658,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/certification-advice?u=76281980&t=55)** Check out knowledge areas for PSM II and III on [scrum.org](https://scrum.org) and you'll find excellent list of books and journals.
 >
-> **[1:06](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/certification-advice?u=76281980&t=66)** Another certification that has gained a lot of popularity in the recent times is a generic agile certification called the Agile Certified Practitioner, or ACP, from Project Management Institute.
+> **[1:06](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/certification-advice?u=76281980&t=66)** Another certification that has gained a lot of popularity in the recent times is a generic [[Agile Development|agile]] certification called the Agile Certified Practitioner, or ACP, from Project Management Institute.
 >
 > **[1:21](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/certification-advice?u=76281980&t=81)** This exam was launched in 2011.
 >
@@ -1706,7 +1672,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (9), [[Agile Development|Agile]] (2), management (2), generic (1)
+> **Frameworks & Libraries:** [[Scrum]] (9), [[Agile Development|Agile]] (2)
 > **Env Vars:** psm (2), iii (2), acp (2), pmi (2)
 > **URLs:** [scrum.org](https://scrum.org) (2), [scrumalliances.org](https://scrumalliances.org) (1), [pmi.org](https://pmi.org) (1)
 > **CLI Commands:** find (1)
@@ -1718,12 +1684,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/next-steps?u=76281980&t=0)** - [Shashi] Now that we have examined Scrum roles, artifacts, and events, I have a few recommended next steps to continue learning Scrum.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/next-steps?u=76281980&t=0)** - [Shashi] Now that we have examined [[Scrum]] roles, artifacts, and events, I have a few recommended next steps to continue learning Scrum.
 >
 > **[0:08](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/next-steps?u=76281980&t=8)** Check out the PSM learning path on the [scrum.org](https://scrum.org) page.
 >
@@ -1733,9 +1698,9 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/next-steps?u=76281980&t=23)** Review questions and answers on [scrum.org](https://scrum.org) and [scrumalliance.org](https://scrumalliance.org) forums and ask questions.
 >
-> **[0:31](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/next-steps?u=76281980&t=31)** Check out the LinkedIn learning Course, "Scrum Advanced," by Kelly O'Connell.
+> **[0:31](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/next-steps?u=76281980&t=31)** Check out the [[LinkedIn]] learning Course, "Scrum Advanced," by Kelly O'Connell.
 >
-> **[0:36](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/next-steps?u=76281980&t=36)** For Jira, check out LinkedIn Learning Courses by Rachel Wright.
+> **[0:36](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/next-steps?u=76281980&t=36)** For [[Jira]], check out LinkedIn Learning Courses by Rachel Wright.
 >
 > **[0:41](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/next-steps?u=76281980&t=41)** Additionally, I have left a list of Scrum and Jira courses for you in the course handout section.
 >
@@ -1745,7 +1710,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (9), [[LinkedIn]] (2), [[Jira]] (2), next (1)
+> **Frameworks & Libraries:** [[Scrum]] (9), [[LinkedIn]] (2), [[Jira]] (2)
 > **URLs:** [scrum.org](https://scrum.org) (2), [scrumalliance.org](https://scrumalliance.org) (1)
 > **Tools:** jira (2)
 > **Env Vars:** psm (1)

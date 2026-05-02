@@ -85,16 +85,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AEC with Python and QGIS
-> [LinkedIn Learning](https://www.linkedin.com/learning/qgis-and-python-for-aec/aec-with-python-and-qgis?u=76281980)
+#### [AEC with Python and QGIS](https://www.linkedin.com/learning/qgis-and-python-for-aec/aec-with-python-and-qgis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/qgis-and-python-for-aec/aec-with-python-and-qgis?u=76281980&t=0)** - [Gordon] Can AEC data from Revit, AutoCAD, and tool sets such as electrical and map 3D be brought into QGIS?
+> **[0:00](https://www.linkedin.com/learning/qgis-and-python-for-aec/aec-with-python-and-qgis?u=76281980&t=0)** - [Gordon] Can [[AEC]] data from Revit, [[AutoCAD]], and tool sets such as electrical and map 3D be brought into QGIS?
 >
 > **[0:08](https://www.linkedin.com/learning/qgis-and-python-for-aec/aec-with-python-and-qgis?u=76281980&t=8)** Can you automate these processes?
 >
-> **[0:11](https://www.linkedin.com/learning/qgis-and-python-for-aec/aec-with-python-and-qgis?u=76281980&t=11)** With QGIS in Python, you definitely can.
+> **[0:11](https://www.linkedin.com/learning/qgis-and-python-for-aec/aec-with-python-and-qgis?u=76281980&t=11)** With QGIS in [[Python (Programming Language)|Python]], you definitely can.
 >
 > **[0:14](https://www.linkedin.com/learning/qgis-and-python-for-aec/aec-with-python-and-qgis?u=76281980&t=14)** If you can access your DWG and DXF files from your project, QGIS can automate the analysis and import with Python.
 >
@@ -104,11 +103,11 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/qgis-and-python-for-aec/aec-with-python-and-qgis?u=76281980&t=32)** So, why not download QGIS and jump into Python scripting right away?
 >
-> **[0:37](https://www.linkedin.com/learning/qgis-and-python-for-aec/aec-with-python-and-qgis?u=76281980&t=37)** Join me now in my LinkedIn learning course on QGIS Python for AEC.
+> **[0:37](https://www.linkedin.com/learning/qgis-and-python-for-aec/aec-with-python-and-qgis?u=76281980&t=37)** Join me now in my [[LinkedIn]] learning course on QGIS Python for AEC.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[AEC]] (2), gis (2), data (1), [[AutoCAD]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[AEC]] (2), [[AutoCAD]] (1), [[LinkedIn]] (1)
 > **Env Vars:** qgis (5), aec (2), gis (2), dwg (1), dxf (1)
 > **CLI Commands:** python (4)
 > **Analogies:** such as (1)
@@ -119,12 +118,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Python?
-> [LinkedIn Learning](https://www.linkedin.com/learning/qgis-and-python-for-aec/what-is-python?u=76281980)
+#### [What is Python?](https://www.linkedin.com/learning/qgis-and-python-for-aec/what-is-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/qgis-and-python-for-aec/what-is-python?u=76281980&t=0)** - [Instructor] In this video, we're going to look at what is Python, and how does it relate to QGIS and AEC?
+> **[0:00](https://www.linkedin.com/learning/qgis-and-python-for-aec/what-is-python?u=76281980&t=0)** - [Instructor] In this video, we're going to look at what is [[Python (Programming Language)|Python]], and how does it relate to QGIS and [[AEC]]?
 >
 > **[0:08](https://www.linkedin.com/learning/qgis-and-python-for-aec/what-is-python?u=76281980&t=8)** Well, first of all, Python is a way to create macros and plugins, especially within QGIS.
 >
@@ -258,11 +256,11 @@ created: 2026-05-02
 >
 > **[5:11](https://www.linkedin.com/learning/qgis-and-python-for-aec/what-is-python?u=76281980&t=311)** And check this out before you begin this course that your environment variables have been set up after installing QGIS.
 >
-> **[5:20](https://www.linkedin.com/learning/qgis-and-python-for-aec/what-is-python?u=76281980&t=320)** Now remember, these are all set up on Windows, and it may be very different on your Mac or your Linux box.
+> **[5:20](https://www.linkedin.com/learning/qgis-and-python-for-aec/what-is-python?u=76281980&t=320)** Now remember, these are all set up on [[Windows]], and it may be very different on your Mac or your [[Linux]] box.
 >
 > **[5:27](https://www.linkedin.com/learning/qgis-and-python-for-aec/what-is-python?u=76281980&t=327)** Now you can definitely test if this is all set up correctly.
 >
-> **[5:30](https://www.linkedin.com/learning/qgis-and-python-for-aec/what-is-python?u=76281980&t=330)** All you have to do is run a command line, and type the word Python.
+> **[5:30](https://www.linkedin.com/learning/qgis-and-python-for-aec/what-is-python?u=76281980&t=330)** All you have to do is run a command line, and type the [[Microsoft Word|word]] Python.
 >
 > **[5:34](https://www.linkedin.com/learning/qgis-and-python-for-aec/what-is-python?u=76281980&t=334)** That should fire up Python right away.
 >
@@ -312,7 +310,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (30), data (3), [[AEC]] (2), [[Windows]] (2), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (30), [[AEC]] (2), [[Windows]] (2), [[Microsoft Word|Word]] (2), [[Linux]] (1)
 > **Env Vars:** qgis (18), dxf (6), dwg (4), shp (3), aec (2)
 > **CLI Commands:** python (30), make (3)
 > **Prerequisites:** install (4), set up (4), before you begin (1), setup (1)
@@ -321,12 +319,11 @@ created: 2026-05-02
 > **Versions:** 0.62137 (2), 62.14 (1), python 3 (1), 7.0 (1)
 > **Definitions:** is a  (4), means that (1)
 
-#### Using the Python console
-> [LinkedIn Learning](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-the-python-console?u=76281980)
+#### [Using the Python console](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-the-python-console?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-the-python-console?u=76281980&t=0)** - [Instructor] In this video, we're going to look at the Python console inside of QGIS.
+> **[0:00](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-the-python-console?u=76281980&t=0)** - [Instructor] In this video, we're going to look at the [[Python (Programming Language)|Python]] console inside of QGIS.
 >
 > **[0:05](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-the-python-console?u=76281980&t=5)** We're also going to run a few Python scripts just to try out the console.
 >
@@ -356,7 +353,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-the-python-console?u=76281980&t=77)** So that's the UTM zone we're in.
 >
-> **[1:18](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-the-python-console?u=76281980&t=78)** So if I zoom in, you can see that we have buildings, there they are.
+> **[1:18](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-the-python-console?u=76281980&t=78)** So if I [[Zoom]] in, you can see that we have buildings, there they are.
 >
 > **[1:23](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-the-python-console?u=76281980&t=83)** If I use the identify tool, I'll pick on one of the buildings and you can see that it has data such as type, number of floors, height and so on.
 >
@@ -400,7 +397,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-the-python-console?u=76281980&t=192)** Let's get the name of that layer and make sure it's correct.
 >
-> **[3:15](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-the-python-console?u=76281980&t=195)** So if I go layer.name and again with the two round brackets and I hit Enter, so now we see the three greater than sides, the three chevrons layer.name, that's what I typed and without any sort of chevron or anything around it, you'll see the word buildings with a single quote around it.
+> **[3:15](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-the-python-console?u=76281980&t=195)** So if I go layer.name and again with the two round brackets and I hit Enter, so now we see the three greater than sides, the three chevrons layer.name, that's what I typed and without any sort of chevron or anything around it, you'll see the [[Microsoft Word|word]] buildings with a single quote around it.
 >
 > **[3:36](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-the-python-console?u=76281980&t=216)** So that is actually the name of the layer.
 >
@@ -474,7 +471,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (20), hit (9), next (5), data (3), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (20), [[Microsoft Word|Word]] (2), [[Zoom]] (1)
 > **CLI Commands:** python (20), make (4), find (1)
 > **Env Vars:** qgis (4), utm (2), data (1), buildings (1), nad83 (1)
 > **Code Identifiers:** activelayer (6), showattributetable (1), showlayerproperties (1)
@@ -483,12 +480,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is called (1)
 
-#### Creating your first Python script
-> [LinkedIn Learning](https://www.linkedin.com/learning/qgis-and-python-for-aec/creating-your-first-python-script?u=76281980)
+#### [Creating your first Python script](https://www.linkedin.com/learning/qgis-and-python-for-aec/creating-your-first-python-script?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/qgis-and-python-for-aec/creating-your-first-python-script?u=76281980&t=0)** - [Instructor] In this video, we're going to automate some simple tasks using Python.
+> **[0:00](https://www.linkedin.com/learning/qgis-and-python-for-aec/creating-your-first-python-script?u=76281980&t=0)** - [Instructor] In this video, we're going to automate some simple tasks using [[Python (Programming Language)|Python]].
 >
 > **[0:05](https://www.linkedin.com/learning/qgis-and-python-for-aec/creating-your-first-python-script?u=76281980&t=5)** First, we'll do it manually.
 >
@@ -654,7 +650,7 @@ created: 2026-05-02
 >
 > **[7:25](https://www.linkedin.com/learning/qgis-and-python-for-aec/creating-your-first-python-script?u=76281980&t=445)** And the inits, we're going to use OGR, because OGR is the tool used for adding shape files, because these are shape files.
 >
-> **[7:34](https://www.linkedin.com/learning/qgis-and-python-for-aec/creating-your-first-python-script?u=76281980&t=454)** And we'll be looking at other files because this isn't a AEC, so Architectural Electrical and Civil.
+> **[7:34](https://www.linkedin.com/learning/qgis-and-python-for-aec/creating-your-first-python-script?u=76281980&t=454)** And we'll be looking at other files because this isn't a [[AEC]], so Architectural Electrical and Civil.
 >
 > **[7:40](https://www.linkedin.com/learning/qgis-and-python-for-aec/creating-your-first-python-script?u=76281980&t=460)** We're going to be looking at different types of data such as DWGs later on.
 >
@@ -780,7 +776,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (15), hit (11), data (7), next (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (15), [[AEC]] (1)
 > **Env Vars:** qgis (8), road_centerlines (5), utm (4), epsg (4), nad83 (3)
 > **CLI Commands:** python (15), make (9)
 > **Code Identifiers:** load_layers (6), setcrs (1)
@@ -789,12 +785,11 @@ created: 2026-05-02
 > **Definitions:** is a  (3), is an  (1)
 > **Exercise Files:** exercise files (3)
 
-#### Saving your Python scripts
-> [LinkedIn Learning](https://www.linkedin.com/learning/qgis-and-python-for-aec/saving-your-python-scripts?u=76281980)
+#### [Saving your Python scripts](https://www.linkedin.com/learning/qgis-and-python-for-aec/saving-your-python-scripts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/qgis-and-python-for-aec/saving-your-python-scripts?u=76281980&t=0)** - [Instructor] Next, we're going to record the process of buffering by capturing the Python that's created when you do that process.
+> **[0:00](https://www.linkedin.com/learning/qgis-and-python-for-aec/saving-your-python-scripts?u=76281980&t=0)** - [Instructor] Next, we're going to record the process of buffering by capturing the [[Python (Programming Language)|Python]] that's created when you do that process.
 >
 > **[0:07](https://www.linkedin.com/learning/qgis-and-python-for-aec/saving-your-python-scripts?u=76281980&t=7)** So first we're going to create a brand new project.
 >
@@ -832,7 +827,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/qgis-and-python-for-aec/saving-your-python-scripts?u=76281980&t=82)** So let's click run to create those three meter buffers, and I'll close this dialog box.
 >
-> **[1:28](https://www.linkedin.com/learning/qgis-and-python-for-aec/saving-your-python-scripts?u=76281980&t=88)** And if you zoom in, there's the three major buffers around each of the road center lines.
+> **[1:28](https://www.linkedin.com/learning/qgis-and-python-for-aec/saving-your-python-scripts?u=76281980&t=88)** And if you [[Zoom]] in, there's the three major buffers around each of the road center lines.
 >
 > **[1:36](https://www.linkedin.com/learning/qgis-and-python-for-aec/saving-your-python-scripts?u=76281980&t=96)** Now here's something very magical.
 >
@@ -960,7 +955,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (13), next (2), [[Zoom]] (2), hit (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (13), [[Zoom]] (2)
 > **CLI Commands:** python (13), make (2)
 > **Env Vars:** utm (3), epsg (2), ogr (2), qgis (1)
 > **UI Navigation:** go to (3), drag and drop (2), double-click (1), right-click (1), click on (1)
@@ -974,12 +969,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Working with projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/qgis-and-python-for-aec/working-with-projects?u=76281980)
+#### [Working with projects](https://www.linkedin.com/learning/qgis-and-python-for-aec/working-with-projects?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/qgis-and-python-for-aec/working-with-projects?u=76281980&t=0)** - [Instructor] In this video, we're going to use Python to modify projects.
+> **[0:00](https://www.linkedin.com/learning/qgis-and-python-for-aec/working-with-projects?u=76281980&t=0)** - [Instructor] In this video, we're going to use [[Python (Programming Language)|Python]] to modify projects.
 >
 > **[0:04](https://www.linkedin.com/learning/qgis-and-python-for-aec/working-with-projects?u=76281980&t=4)** We're going to open a project, modify it, and save it as a new project file.
 >
@@ -1051,7 +1045,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/qgis-and-python-for-aec/working-with-projects?u=76281980&t=185)** We changed the color of the symbol to black because you can see the roads are black.
 >
-> **[3:09](https://www.linkedin.com/learning/qgis-and-python-for-aec/working-with-projects?u=76281980&t=189)** If I zoom in you can see that.
+> **[3:09](https://www.linkedin.com/learning/qgis-and-python-for-aec/working-with-projects?u=76281980&t=189)** If I [[Zoom]] in you can see that.
 >
 > **[3:11](https://www.linkedin.com/learning/qgis-and-python-for-aec/working-with-projects?u=76281980&t=191)** And the layer we triggered a repaint, meaning we told it to manually refresh the screen so you can see that the color is now black.
 >
@@ -1105,7 +1099,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), next (1), data (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[Zoom]] (1)
 > **CLI Commands:** python (10), make (2), unzip (1)
 > **Code Identifiers:** streetlight_map (2), streetlight_map_new (2), road_centerlines (1), save_project (1)
 > **Env Vars:** qgis (3), python (1), qgz (1), ogr (1)
@@ -1114,12 +1108,11 @@ created: 2026-05-02
 > **Definitions:** is called (2), is a  (1)
 > **File Paths:** save_project.py (1), project.py (1)
 
-#### Working with layers
-> [LinkedIn Learning](https://www.linkedin.com/learning/qgis-and-python-for-aec/working-with-layers?u=76281980)
+#### [Working with layers](https://www.linkedin.com/learning/qgis-and-python-for-aec/working-with-layers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/qgis-and-python-for-aec/working-with-layers?u=76281980&t=0)** - [Instructor] Next we're going to focus on adding raster and vector layers using Python.
+> **[0:00](https://www.linkedin.com/learning/qgis-and-python-for-aec/working-with-layers?u=76281980&t=0)** - [Instructor] Next we're going to focus on adding raster and vector layers using [[Python (Programming Language)|Python]].
 >
 > **[0:05](https://www.linkedin.com/learning/qgis-and-python-for-aec/working-with-layers?u=76281980&t=5)** First, let's open up our Python console inside of a brand new project.
 >
@@ -1177,7 +1170,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/qgis-and-python-for-aec/working-with-layers?u=76281980&t=181)** And there they are, the one ECW file just appeared.
 >
-> **[3:05](https://www.linkedin.com/learning/qgis-and-python-for-aec/working-with-layers?u=76281980&t=185)** There it is, if I zoom right in, you can see, it's an aerial photo, okay?
+> **[3:05](https://www.linkedin.com/learning/qgis-and-python-for-aec/working-with-layers?u=76281980&t=185)** There it is, if I [[Zoom]] right in, you can see, it's an aerial photo, okay?
 >
 > **[3:13](https://www.linkedin.com/learning/qgis-and-python-for-aec/working-with-layers?u=76281980&t=193)** Now it's on top of the right of way so you can't see it.
 >
@@ -1297,7 +1290,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), next (3), web (2), data (1), hit (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), [[Zoom]] (1)
 > **Env Vars:** xyz (11), ecw (7), url (5), wms (4), row (3)
 > **CLI Commands:** python (12), make (2), node (1), go run (1)
 > **Definitions:** is a  (4), is an  (1), stands for (1)
@@ -1306,14 +1299,13 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting the CRS
-> [LinkedIn Learning](https://www.linkedin.com/learning/qgis-and-python-for-aec/setting-the-crs?u=76281980)
+#### [Setting the CRS](https://www.linkedin.com/learning/qgis-and-python-for-aec/setting-the-crs?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/qgis-and-python-for-aec/setting-the-crs?u=76281980&t=0)** - [Narrator] In this video, we're going to set the coordinate system, of our current project.
 >
-> **[0:05](https://www.linkedin.com/learning/qgis-and-python-for-aec/setting-the-crs?u=76281980&t=5)** First, let's open up the Python file under Python.
+> **[0:05](https://www.linkedin.com/learning/qgis-and-python-for-aec/setting-the-crs?u=76281980&t=5)** First, let's open up the [[Python (Programming Language)|Python]] file under Python.
 >
 > **[0:10](https://www.linkedin.com/learning/qgis-and-python-for-aec/setting-the-crs?u=76281980&t=10)** We're going to set CRS dot PY.
 >
@@ -1423,19 +1415,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), hit (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8)
 > **Env Vars:** crs (11), prj (9), epsg (7), wkt (4), utm (3)
 > **CLI Commands:** python (8), make (1)
 > **URLs:** [spatialreference.org](https://spatialreference.org) (4)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Adding and creating layer definitions
-> [LinkedIn Learning](https://www.linkedin.com/learning/qgis-and-python-for-aec/adding-and-creating-layer-definitions?u=76281980)
+#### [Adding and creating layer definitions](https://www.linkedin.com/learning/qgis-and-python-for-aec/adding-and-creating-layer-definitions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/qgis-and-python-for-aec/adding-and-creating-layer-definitions?u=76281980&t=0)** - [Instructor] In this video, we use Python to load and save layer definition files.
+> **[0:00](https://www.linkedin.com/learning/qgis-and-python-for-aec/adding-and-creating-layer-definitions?u=76281980&t=0)** - [Instructor] In this video, we use [[Python (Programming Language)|Python]] to load and save layer definition files.
 >
 > **[0:05](https://www.linkedin.com/learning/qgis-and-python-for-aec/adding-and-creating-layer-definitions?u=76281980&t=5)** Let's add a new shape file to an empty project right now.
 >
@@ -1483,9 +1474,9 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/qgis-and-python-for-aec/adding-and-creating-layer-definitions?u=76281980&t=86)** Now, this isn't just unique to QGIS.
 >
-> **[1:29](https://www.linkedin.com/learning/qgis-and-python-for-aec/adding-and-creating-layer-definitions?u=76281980&t=89)** Other GISs, such as ArcMap and ArcGIS Pro also have this.
+> **[1:29](https://www.linkedin.com/learning/qgis-and-python-for-aec/adding-and-creating-layer-definitions?u=76281980&t=89)** Other GISs, such as ArcMap and [[ArcGIS Pro]] also have this.
 >
-> **[1:33](https://www.linkedin.com/learning/qgis-and-python-for-aec/adding-and-creating-layer-definitions?u=76281980&t=93)** As does AutoCAD Map and so on.
+> **[1:33](https://www.linkedin.com/learning/qgis-and-python-for-aec/adding-and-creating-layer-definitions?u=76281980&t=93)** As does [[AutoCAD]] Map and so on.
 >
 > **[1:36](https://www.linkedin.com/learning/qgis-and-python-for-aec/adding-and-creating-layer-definitions?u=76281980&t=96)** So regardless of the GIS are using, these layer definition files are fantastic.
 >
@@ -1541,7 +1532,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/qgis-and-python-for-aec/adding-and-creating-layer-definitions?u=76281980&t=192)** Yes.
 >
-> **[3:12](https://www.linkedin.com/learning/qgis-and-python-for-aec/adding-and-creating-layer-definitions?u=76281980&t=192)** So if we want, we can actually change that code right there to the word instance.
+> **[3:12](https://www.linkedin.com/learning/qgis-and-python-for-aec/adding-and-creating-layer-definitions?u=76281980&t=192)** So if we want, we can actually change that code right there to the [[Microsoft Word|word]] instance.
 >
 > **[3:17](https://www.linkedin.com/learning/qgis-and-python-for-aec/adding-and-creating-layer-definitions?u=76281980&t=197)** There we go.
 >
@@ -1579,7 +1570,7 @@ created: 2026-05-02
 >
 > **[4:13](https://www.linkedin.com/learning/qgis-and-python-for-aec/adding-and-creating-layer-definitions?u=76281980&t=253)** You'll see there's EASEMENTS has been added.
 >
-> **[4:16](https://www.linkedin.com/learning/qgis-and-python-for-aec/adding-and-creating-layer-definitions?u=76281980&t=256)** If I zoom in, you can see it's already been modified.
+> **[4:16](https://www.linkedin.com/learning/qgis-and-python-for-aec/adding-and-creating-layer-definitions?u=76281980&t=256)** If I [[Zoom]] in, you can see it's already been modified.
 >
 > **[4:21](https://www.linkedin.com/learning/qgis-and-python-for-aec/adding-and-creating-layer-definitions?u=76281980&t=261)** It's a different color.
 >
@@ -1749,7 +1740,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (13), hit (2), data (2), [[ArcGIS Pro]] (1), [[AutoCAD]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (13), [[ArcGIS Pro]] (1), [[AutoCAD]] (1), [[Microsoft Word|Word]] (1), [[Zoom]] (1)
 > **Env Vars:** road_centerlines (9), qgis (6), easements (4), utm (2), qgs (2)
 > **Code Identifiers:** mylayer (6), road_layer (3), save_layer_definition (2), myinstance (2), loadlayerdefinition (1)
 > **CLI Commands:** python (13), find (1)
@@ -1763,8 +1754,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting WKT from data
-> [LinkedIn Learning](https://www.linkedin.com/learning/qgis-and-python-for-aec/getting-wkt-from-data?u=76281980)
+#### [Getting WKT from data](https://www.linkedin.com/learning/qgis-and-python-for-aec/getting-wkt-from-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1772,7 +1762,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/qgis-and-python-for-aec/getting-wkt-from-data?u=76281980&t=9)** Well-known text is very powerful.
 >
-> **[0:11](https://www.linkedin.com/learning/qgis-and-python-for-aec/getting-wkt-from-data?u=76281980&t=11)** I've recently used well-known texts to transfer graphics from Oracle to MySQL, for example, with a simple SQL call.
+> **[0:11](https://www.linkedin.com/learning/qgis-and-python-for-aec/getting-wkt-from-data?u=76281980&t=11)** I've recently used well-known texts to transfer graphics from Oracle to [[MySQL]], for example, with a simple [[SQL]] call.
 >
 > **[0:19](https://www.linkedin.com/learning/qgis-and-python-for-aec/getting-wkt-from-data?u=76281980&t=19)** That's how powerful well-known text is.
 >
@@ -1802,7 +1792,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/qgis-and-python-for-aec/getting-wkt-from-data?u=76281980&t=66)** So I'll just close the identify results.
 >
-> **[1:10](https://www.linkedin.com/learning/qgis-and-python-for-aec/getting-wkt-from-data?u=76281980&t=70)** Next let's open up the Python code.
+> **[1:10](https://www.linkedin.com/learning/qgis-and-python-for-aec/getting-wkt-from-data?u=76281980&t=70)** Next let's open up the [[Python (Programming Language)|Python]] code.
 >
 > **[1:13](https://www.linkedin.com/learning/qgis-and-python-for-aec/getting-wkt-from-data?u=76281980&t=73)** So hit browse for open script.
 >
@@ -1926,7 +1916,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), feature (3), [[Python (Programming Language)|Python]] (2), hit (2), [[MySQL]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[MySQL]] (1), [[SQL]] (1)
 > **Env Vars:** utm (2), sql (1), epsg (1), qgis (1)
 > **UI Navigation:** scroll down (2), go to (1), drag and drop (1), scroll up (1)
 > **CLI Commands:** python (2), mysql (1), make (1)
@@ -1935,12 +1925,11 @@ created: 2026-05-02
 > **Code Identifiers:** getgeometrywkt (1)
 > **Cross-References:** as you saw (1)
 
-#### Exporting geometry
-> [LinkedIn Learning](https://www.linkedin.com/learning/qgis-and-python-for-aec/exporting-geometry?u=76281980)
+#### [Exporting geometry](https://www.linkedin.com/learning/qgis-and-python-for-aec/exporting-geometry?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/qgis-and-python-for-aec/exporting-geometry?u=76281980&t=0)** - [Gordon] Next, we're going to use Python to export data directly from the geometry out into a CSV file which can be viewed in Excel.
+> **[0:00](https://www.linkedin.com/learning/qgis-and-python-for-aec/exporting-geometry?u=76281980&t=0)** - [Gordon] Next, we're going to use [[Python (Programming Language)|Python]] to export data directly from the geometry out into a CSV file which can be viewed in [[Microsoft Excel|Excel]].
 >
 > **[0:09](https://www.linkedin.com/learning/qgis-and-python-for-aec/exporting-geometry?u=76281980&t=9)** Actually, not only are we exporting the job entry but all the data inside the file, in this case a shape file.
 >
@@ -1996,7 +1985,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/qgis-and-python-for-aec/exporting-geometry?u=76281980&t=108)** Now this may change depending on your install.
 >
-> **[1:51](https://www.linkedin.com/learning/qgis-and-python-for-aec/exporting-geometry?u=76281980&t=111)** You may be using a Mac or Linux or you may have installed a different username.
+> **[1:51](https://www.linkedin.com/learning/qgis-and-python-for-aec/exporting-geometry?u=76281980&t=111)** You may be using a Mac or [[Linux]] or you may have installed a different username.
 >
 > **[1:56](https://www.linkedin.com/learning/qgis-and-python-for-aec/exporting-geometry?u=76281980&t=116)** In this case, my username is Gordon Luckett.
 >
@@ -2074,7 +2063,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Python (Programming Language)|Python]] (4), [[Microsoft Excel|Excel]] (3), next (2), traffic (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Microsoft Excel|Excel]] (3), [[Linux]] (1)
 > **Env Vars:** csv (9), qgis (2), utm (1), wkt (1), qgs (1)
 > **CLI Commands:** python (4)
 > **File Paths:** export_csv.py (1), layer.csv (1), text.csv (1)
@@ -2083,12 +2072,11 @@ created: 2026-05-02
 > **Prerequisites:** install (1), set up (1)
 > **Code Identifiers:** export_csv (1)
 
-#### Filtering geometry
-> [LinkedIn Learning](https://www.linkedin.com/learning/qgis-and-python-for-aec/filtering-geometry?u=76281980)
+#### [Filtering geometry](https://www.linkedin.com/learning/qgis-and-python-for-aec/filtering-geometry?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/qgis-and-python-for-aec/filtering-geometry?u=76281980&t=0)** - [Instructor] Next we're going to use Python to query a subset of the data so that we can report on that smaller area.
+> **[0:00](https://www.linkedin.com/learning/qgis-and-python-for-aec/filtering-geometry?u=76281980&t=0)** - [Instructor] Next we're going to use [[Python (Programming Language)|Python]] to query a subset of the data so that we can report on that smaller area.
 >
 > **[0:08](https://www.linkedin.com/learning/qgis-and-python-for-aec/filtering-geometry?u=76281980&t=8)** So first, we're going to bring in the water pipes into our current session.
 >
@@ -2268,7 +2256,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), feature (3), next (1), data (1), hit (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7)
 > **CLI Commands:** python (7), make (2)
 > **Env Vars:** qgis (5), epsg (2), utm (1), wkt (1)
 > **Definitions:** is a  (2), is called (1)
@@ -2276,12 +2264,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Drawing new geometry
-> [LinkedIn Learning](https://www.linkedin.com/learning/qgis-and-python-for-aec/drawing-new-geometry?u=76281980)
+#### [Drawing new geometry](https://www.linkedin.com/learning/qgis-and-python-for-aec/drawing-new-geometry?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/qgis-and-python-for-aec/drawing-new-geometry?u=76281980&t=0)** - [Instructor] In this video, we're going to use Python to draw points, lines, and polygons into our map.
+> **[0:00](https://www.linkedin.com/learning/qgis-and-python-for-aec/drawing-new-geometry?u=76281980&t=0)** - [Instructor] In this video, we're going to use [[Python (Programming Language)|Python]] to draw points, lines, and polygons into our map.
 >
 > **[0:07](https://www.linkedin.com/learning/qgis-and-python-for-aec/drawing-new-geometry?u=76281980&t=7)** So first let's add a city limit shapefile to give us some context of where these new polygons and lines are going to be drawn.
 >
@@ -2469,7 +2456,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (16), data (11), [[Python (Programming Language)|Python]] (7), hit (2), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7)
 > **CLI Commands:** python (7), make (5)
 > **Env Vars:** epsg (3), utm (2)
 > **Code Identifiers:** drawpoint (2), drawline (1), drawpolygon (1)
@@ -2483,8 +2470,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Manually importing DWG
-> [LinkedIn Learning](https://www.linkedin.com/learning/qgis-and-python-for-aec/manually-importing-dwg?u=76281980)
+#### [Manually importing DWG](https://www.linkedin.com/learning/qgis-and-python-for-aec/manually-importing-dwg?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2526,7 +2512,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/qgis-and-python-for-aec/manually-importing-dwg?u=76281980&t=97)** So pick Import and browse to our desktop, go into the exercise files, in 4 Importing DWG, under data, we're going to import the PARCELS2013, NANAIMO_PARCELS2013.
 >
-> **[1:52](https://www.linkedin.com/learning/qgis-and-python-for-aec/manually-importing-dwg?u=76281980&t=112)** The reason we're choosing 2013 is that I have saved this DWG in an AutoCAD 2013 format.
+> **[1:52](https://www.linkedin.com/learning/qgis-and-python-for-aec/manually-importing-dwg?u=76281980&t=112)** The reason we're choosing 2013 is that I have saved this DWG in an [[AutoCAD]] 2013 format.
 >
 > **[2:00](https://www.linkedin.com/learning/qgis-and-python-for-aec/manually-importing-dwg?u=76281980&t=120)** The reason I did that is at this time QGIS cannot import the most recent which is the 2018 format.
 >
@@ -2570,7 +2556,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/qgis-and-python-for-aec/manually-importing-dwg?u=76281980&t=212)** And there are my PARCELS.
 >
-> **[3:36](https://www.linkedin.com/learning/qgis-and-python-for-aec/manually-importing-dwg?u=76281980&t=216)** And if you zoom in you can see the text.
+> **[3:36](https://www.linkedin.com/learning/qgis-and-python-for-aec/manually-importing-dwg?u=76281980&t=216)** And if you [[Zoom]] in you can see the text.
 >
 > **[3:39](https://www.linkedin.com/learning/qgis-and-python-for-aec/manually-importing-dwg?u=76281980&t=219)** Let's expand the group called PARCELS.DWG and you can see there's two layers.
 >
@@ -2626,7 +2612,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[AutoCAD]] (6), hit (5), [[Zoom]] (3), gis (1)
+> **Frameworks & Libraries:** [[AutoCAD]] (6), [[Zoom]] (3)
 > **Env Vars:** dwg (13), parcels (6), qgis (4), crs (3), dxf (2)
 > **Definitions:** is an  (2)
 > **CLI Commands:** make (1)
@@ -2635,12 +2621,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using Python to import DXF
-> [LinkedIn Learning](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-python-to-import-dxf?u=76281980)
+#### [Using Python to import DXF](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-python-to-import-dxf?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-python-to-import-dxf?u=76281980&t=0)** - [Instructor] In this video, we're going to use Python to load a DXF directly into our QJS project.
+> **[0:00](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-python-to-import-dxf?u=76281980&t=0)** - [Instructor] In this video, we're going to use [[Python (Programming Language)|Python]] to load a DXF directly into our QJS project.
 >
 > **[0:06](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-python-to-import-dxf?u=76281980&t=6)** Unlike DWGs that needs to be translated, DXF's can be brought in directly, usually based on entity type, such as point line and polygon.
 >
@@ -2660,7 +2645,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-python-to-import-dxf?u=76281980&t=57)** You can see that in my browser up above.
 >
-> **[1:00](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-python-to-import-dxf?u=76281980&t=60)** You'll notice that I have double backslashes between each of the paths for windows, and it's also on my C drive.
+> **[1:00](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-python-to-import-dxf?u=76281980&t=60)** You'll notice that I have double backslashes between each of the paths for [[Windows]], and it's also on my C drive.
 >
 > **[1:07](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-python-to-import-dxf?u=76281980&t=67)** You may have installed the data somewhere else.
 >
@@ -2720,7 +2705,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-python-to-import-dxf?u=76281980&t=203)** So it's going off reading the OGR, setting the coordinate system, and loading the data.
 >
-> **[3:28](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-python-to-import-dxf?u=76281980&t=208)** So if I zoom into my project, you'll see all the buildings for nanaimo there they are, make sure I've highlighted that layer, pick on identify.
+> **[3:28](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-python-to-import-dxf?u=76281980&t=208)** So if I [[Zoom]] into my project, you'll see all the buildings for nanaimo there they are, make sure I've highlighted that layer, pick on identify.
 >
 > **[3:40](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-python-to-import-dxf?u=76281980&t=220)** And there we are.
 >
@@ -2732,7 +2717,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-python-to-import-dxf?u=76281980&t=228)** I don't have any text and you could tell it's an ACDB polygon.
 >
-> **[3:51](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-python-to-import-dxf?u=76281980&t=231)** That's the code inside of AutoCAD to tell you what kind of object that particular line is.
+> **[3:51](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-python-to-import-dxf?u=76281980&t=231)** That's the code inside of [[AutoCAD]] to tell you what kind of object that particular line is.
 >
 > **[3:57](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-python-to-import-dxf?u=76281980&t=237)** Okay, let's call this the identify.
 >
@@ -2748,7 +2733,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), data (4), [[AutoCAD]] (2), [[Windows]] (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[AutoCAD]] (2), [[Windows]] (1), [[Zoom]] (1)
 > **Env Vars:** dxf (18), crs (3), dwgdxf (2), qgis (2), qjs (1)
 > **CLI Commands:** python (6), make (2)
 > **Exercise Files:** exercise files (2)
@@ -2757,14 +2742,13 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Converting lines to polygons with Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/qgis-and-python-for-aec/converting-lines-to-polygons-with-python?u=76281980)
+#### [Converting lines to polygons with Python](https://www.linkedin.com/learning/qgis-and-python-for-aec/converting-lines-to-polygons-with-python?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/qgis-and-python-for-aec/converting-lines-to-polygons-with-python?u=76281980&t=0)** - [Instructor] Next, we're going to look at how to convert polylines into polygons.
 >
-> **[0:06](https://www.linkedin.com/learning/qgis-and-python-for-aec/converting-lines-to-polygons-with-python?u=76281980&t=6)** After importing DXF or DWGs into your project, you'll find that even in closed P lines, now a closed p-line is a polyline that closes in on itself, is treated at a polyline and not as a polygon, even though AutoCad users often refer to polygons by the closed p-line object.
+> **[0:06](https://www.linkedin.com/learning/qgis-and-python-for-aec/converting-lines-to-polygons-with-python?u=76281980&t=6)** After importing DXF or DWGs into your project, you'll find that even in closed P lines, now a closed p-line is a polyline that closes in on itself, is treated at a polyline and not as a polygon, even though [[AutoCAD]] users often refer to polygons by the closed p-line object.
 >
 > **[0:27](https://www.linkedin.com/learning/qgis-and-python-for-aec/converting-lines-to-polygons-with-python?u=76281980&t=27)** So in our Importing DWG/DXF folder, right at the root of that, we have a geopackage called Important_Complete.
 >
@@ -2786,7 +2770,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/qgis-and-python-for-aec/converting-lines-to-polygons-with-python?u=76281980&t=66)** So I'm going to actually take this polylines that are coming from that geopackage and create a brand new shape file of closed polygons rather than having these closed p-lines.
 >
-> **[1:16](https://www.linkedin.com/learning/qgis-and-python-for-aec/converting-lines-to-polygons-with-python?u=76281980&t=76)** So let's open up inside our PYTHON console under Importing DWGDXF in the PYTHON folder, we have a Lines to Polygons PY file.
+> **[1:16](https://www.linkedin.com/learning/qgis-and-python-for-aec/converting-lines-to-polygons-with-python?u=76281980&t=76)** So let's open up inside our [[Python (Programming Language)|PYTHON]] console under Importing DWGDXF in the PYTHON folder, we have a Lines to Polygons PY file.
 >
 > **[1:26](https://www.linkedin.com/learning/qgis-and-python-for-aec/converting-lines-to-polygons-with-python?u=76281980&t=86)** Let's open that up.
 >
@@ -2850,7 +2834,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/qgis-and-python-for-aec/converting-lines-to-polygons-with-python?u=76281980&t=213)** So that Parcels you can see if I hover, it's on my desktop, it's Parcels shape, if I used identify tool I'll highlight that layer and use identify, and I pick on one of these Parcels.
 >
-> **[3:46](https://www.linkedin.com/learning/qgis-and-python-for-aec/converting-lines-to-polygons-with-python?u=76281980&t=226)** You can see, oh there's a few, let's zoom in and just pick on one.
+> **[3:46](https://www.linkedin.com/learning/qgis-and-python-for-aec/converting-lines-to-polygons-with-python?u=76281980&t=226)** You can see, oh there's a few, let's [[Zoom]] in and just pick on one.
 >
 > **[3:49](https://www.linkedin.com/learning/qgis-and-python-for-aec/converting-lines-to-polygons-with-python?u=76281980&t=229)** There's one there.
 >
@@ -2870,7 +2854,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[AutoCAD]] (2), data (2), next (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[AutoCAD]] (2), [[Zoom]] (1)
 > **Env Vars:** dwg (4), python (4), dxf (2), ep62910 (1), dwgdxf (1)
 > **CLI Commands:** python (4), find (1), make (1)
 > **Definitions:** is a  (2), is called (1), is an  (1)
@@ -2882,8 +2866,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Installing Plugin Builder
-> [LinkedIn Learning](https://www.linkedin.com/learning/qgis-and-python-for-aec/installing-plugin-builder?u=76281980)
+#### [Installing Plugin Builder](https://www.linkedin.com/learning/qgis-and-python-for-aec/installing-plugin-builder?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2917,13 +2900,13 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/qgis-and-python-for-aec/installing-plugin-builder?u=76281980&t=68)** Well, we can find out where the plugins go simply by going into Settings, User Profiles, and Open Active Profile Folder.
 >
-> **[1:18](https://www.linkedin.com/learning/qgis-and-python-for-aec/installing-plugin-builder?u=76281980&t=78)** So, actually it's going into my Users, my profile, Gordon Luckett, AppData, which is a secret folder inside of Windows.
+> **[1:18](https://www.linkedin.com/learning/qgis-and-python-for-aec/installing-plugin-builder?u=76281980&t=78)** So, actually it's going into my Users, my profile, Gordon Luckett, AppData, which is a secret folder inside of [[Windows]].
 >
 > **[1:27](https://www.linkedin.com/learning/qgis-and-python-for-aec/installing-plugin-builder?u=76281980&t=87)** Normally if you go there you won't see that, but if you type AppData it will appear.
 >
 > **[1:32](https://www.linkedin.com/learning/qgis-and-python-for-aec/installing-plugin-builder?u=76281980&t=92)** Then you'll see QGIS, QGIS3, profiles, default.
 >
-> **[1:37](https://www.linkedin.com/learning/qgis-and-python-for-aec/installing-plugin-builder?u=76281980&t=97)** Now, where the plugins go are under another directory called python, so let's go in there.
+> **[1:37](https://www.linkedin.com/learning/qgis-and-python-for-aec/installing-plugin-builder?u=76281980&t=97)** Now, where the plugins go are under another directory called [[Python (Programming Language)|python]], so let's go in there.
 >
 > **[1:42](https://www.linkedin.com/learning/qgis-and-python-for-aec/installing-plugin-builder?u=76281980&t=102)** So, now we're getting pretty deep now.
 >
@@ -2945,7 +2928,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Search]] (1), [[Windows]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Windows]] (1)
 > **CLI Commands:** python (4), make (3), find (1)
 > **Env Vars:** qgis (2), qgis3 (1), png (1)
 > **Prerequisites:** install (4)
@@ -2954,8 +2937,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Exercise Files:** template (1)
 
-#### Using the Plugin Builder
-> [LinkedIn Learning](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-the-plugin-builder?u=76281980)
+#### [Using the Plugin Builder](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-the-plugin-builder?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2969,7 +2951,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-the-plugin-builder?u=76281980&t=19)** So what this plugin is going to do eventually, is be able to choose from a dropdown list of the current layers in your project, choose one, and then be able to save it as a DXF file.
 >
-> **[0:31](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-the-plugin-builder?u=76281980&t=31)** So that layer can be exported individually as a DXF file, so that you could open it within the QGIS project, or any other products such as AutoCAD.
+> **[0:31](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-the-plugin-builder?u=76281980&t=31)** So that layer can be exported individually as a DXF file, so that you could open it within the QGIS project, or any other [[Microsoft Products|products]] such as [[AutoCAD]].
 >
 > **[0:42](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-the-plugin-builder?u=76281980&t=42)** So I'm going to call this class name and plugin name both, save DXF with an underscore.
 >
@@ -2981,7 +2963,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-the-plugin-builder?u=76281980&t=62)** We'll leave the version 01, that's fine.
 >
-> **[1:05](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-the-plugin-builder?u=76281980&t=65)** Minimum QGIS, yes this was written for three, the company, I'll just say LinkedIn learning, and well, you can contact me at, contact@[carrowgeo.com](https://carrowgeo.com) That's my email.
+> **[1:05](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-the-plugin-builder?u=76281980&t=65)** Minimum QGIS, yes this was written for three, the company, I'll just say [[LinkedIn]] learning, and well, you can contact me at, contact@[carrowgeo.com](https://carrowgeo.com) That's my email.
 >
 > **[1:21](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-the-plugin-builder?u=76281980&t=81)** And so the first page is good.
 >
@@ -3027,7 +3009,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-the-plugin-builder?u=76281980&t=177)** And sure, put in all the scripts and helps and all that in.
 >
-> **[3:00](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-the-plugin-builder?u=76281980&t=180)** We'll just leave all that together, and we'll leave the internationalization in their, help and all the unit tests.
+> **[3:00](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-the-plugin-builder?u=76281980&t=180)** We'll just leave all that together, and we'll leave the [[Internationalization]] in their, help and all the unit tests.
 >
 > **[3:06](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-the-plugin-builder?u=76281980&t=186)** It'll create folders and files for all of those things.
 >
@@ -3051,7 +3033,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-the-plugin-builder?u=76281980&t=227)** It says, unable to compile into a QRC file.
 >
-> **[3:51](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-the-plugin-builder?u=76281980&t=231)** Now what that does, it turns a Python into a QRC.
+> **[3:51](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-the-plugin-builder?u=76281980&t=231)** Now what that does, it turns a [[Python (Programming Language)|Python]] into a QRC.
 >
 > **[3:53](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-the-plugin-builder?u=76281980&t=233)** Now this is a file, the QRC keeps track of all the files, and their relative paths within the project.
 >
@@ -3111,7 +3093,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (8), hit (2), [[Python (Programming Language)|Python]] (2), data (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Microsoft Products|Products]] (1), [[AutoCAD]] (1), [[LinkedIn]] (1), [[Internationalization]] (1)
 > **Env Vars:** dxf (24), qrc (8), qgis (6)
 > **CLI Commands:** python (2), find (1), make (1)
 > **UI Navigation:** dropdown (3), in the menu (1)
@@ -3120,8 +3102,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (2), template (1)
 > **Definitions:** is called (1), is a  (1)
 
-#### Create a batch file to load Python bindings
-> [LinkedIn Learning](https://www.linkedin.com/learning/qgis-and-python-for-aec/create-a-batch-file-to-load-python-bindings?u=76281980)
+#### [Create a batch file to load Python bindings](https://www.linkedin.com/learning/qgis-and-python-for-aec/create-a-batch-file-to-load-python-bindings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3129,7 +3110,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/qgis-and-python-for-aec/create-a-batch-file-to-load-python-bindings?u=76281980&t=5)** We're going to modify the save.dxf, that's on your desktop.
 >
-> **[0:10](https://www.linkedin.com/learning/qgis-and-python-for-aec/create-a-batch-file-to-load-python-bindings?u=76281980&t=10)** And we're going to compile the resources.qrc file into a Python file.
+> **[0:10](https://www.linkedin.com/learning/qgis-and-python-for-aec/create-a-batch-file-to-load-python-bindings?u=76281980&t=10)** And we're going to compile the resources.qrc file into a [[Python (Programming Language)|Python]] file.
 >
 > **[0:17](https://www.linkedin.com/learning/qgis-and-python-for-aec/create-a-batch-file-to-load-python-bindings?u=76281980&t=17)** After we run the batch file, we will end up with a resources.py file that's what's going to happen.
 >
@@ -3215,7 +3196,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), next (2), cd (2), prompt (1), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6)
 > **CLI Commands:** python (6), make (4), cd (2)
 > **Env Vars:** qgis (5), o4w (1), qrc (1), cmd (1), dir (1)
 > **Prerequisites:** set up (2), setup (1), install (1)
@@ -3224,8 +3205,7 @@ created: 2026-05-02
 > **Cross-References:** in the last (1), next video (1)
 > **Tools:** command line (1), command prompt (1)
 
-#### Install plugin
-> [LinkedIn Learning](https://www.linkedin.com/learning/qgis-and-python-for-aec/install-plugin?u=76281980)
+#### [Install plugin](https://www.linkedin.com/learning/qgis-and-python-for-aec/install-plugin?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3243,7 +3223,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/qgis-and-python-for-aec/install-plugin?u=76281980&t=39)** That will get us really close to where we want to put the plugins.
 >
-> **[0:43](https://www.linkedin.com/learning/qgis-and-python-for-aec/install-plugin?u=76281980&t=43)** Once we're inside the profiles default, we go into Python, plugins, and then, in this folder, in the plugins folder, we right-click and paste that save_dxf plugin.
+> **[0:43](https://www.linkedin.com/learning/qgis-and-python-for-aec/install-plugin?u=76281980&t=43)** Once we're inside the profiles default, we go into [[Python (Programming Language)|Python]], plugins, and then, in this folder, in the plugins folder, we right-click and paste that save_dxf plugin.
 >
 > **[0:58](https://www.linkedin.com/learning/qgis-and-python-for-aec/install-plugin?u=76281980&t=58)** Let's minimize that.
 >
@@ -3289,7 +3269,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Python (Programming Language)|Python]] (1), [[Search]] (1), hit (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** dxf (6), qgis (4)
 > **Code Identifiers:** save_dxf (7)
 > **UI Navigation:** right-click (2), go to (1), click on (1)
@@ -3298,8 +3278,7 @@ created: 2026-05-02
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using Qt Designer
-> [LinkedIn Learning](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-qt-designer?u=76281980)
+#### [Using Qt Designer](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-qt-designer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3325,7 +3304,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-qt-designer?u=76281980&t=52)** So the first thing I need to do is type "app data".
 >
-> **[0:54](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-qt-designer?u=76281980&t=54)** That's a secret folder on Windows where I can find where my plugins are installed.
+> **[0:54](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-qt-designer?u=76281980&t=54)** That's a secret folder on [[Windows]] where I can find where my plugins are installed.
 >
 > **[1:00](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-qt-designer?u=76281980&t=60)** So under my name, I've got to app data.
 >
@@ -3339,7 +3318,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-qt-designer?u=76281980&t=70)** Default.
 >
-> **[1:13](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-qt-designer?u=76281980&t=73)** Python.
+> **[1:13](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-qt-designer?u=76281980&t=73)** [[Python (Programming Language)|Python]].
 >
 > **[1:14](https://www.linkedin.com/learning/qgis-and-python-for-aec/using-qt-designer?u=76281980&t=74)** Plugins.
 >
@@ -3479,7 +3458,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Python (Programming Language)|Python]] (3), hit (2), [[Search]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Windows]] (1)
 > **Env Vars:** dxf (15), qcgis (10), qgis (1), qcigis3 (1), qcgis3 (1)
 > **CLI Commands:** make (8), python (3), find (1)
 > **Code Identifiers:** combobox (4), objectname (1), combobox1 (1)
@@ -3488,12 +3467,11 @@ created: 2026-05-02
 > **Prerequisites:** install (2)
 > **Versions:** 3.12.3 (1)
 
-#### Adding Python to Plugin
-> [LinkedIn Learning](https://www.linkedin.com/learning/qgis-and-python-for-aec/adding-python-to-plugin?u=76281980)
+#### [Adding Python to Plugin](https://www.linkedin.com/learning/qgis-and-python-for-aec/adding-python-to-plugin?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/qgis-and-python-for-aec/adding-python-to-plugin?u=76281980&t=0)** - Next we're going to add Python code to our plugin so that we can actually export dxfs using QGIS.
+> **[0:00](https://www.linkedin.com/learning/qgis-and-python-for-aec/adding-python-to-plugin?u=76281980&t=0)** - Next we're going to add [[Python (Programming Language)|Python]] code to our plugin so that we can actually export dxfs using QGIS.
 >
 > **[0:10](https://www.linkedin.com/learning/qgis-and-python-for-aec/adding-python-to-plugin?u=76281980&t=10)** Where we're going to save the code is in the save_dxf.py file that's located under the Appdata/Roaming/QGIS/QGIS3/profiles'default, /pythonplugins/save.dxf Phew, quite long, isn't it?
 >
@@ -3613,7 +3591,7 @@ created: 2026-05-02
 >
 > **[4:59](https://www.linkedin.com/learning/qgis-and-python-for-aec/adding-python-to-plugin?u=76281980&t=299)** Basically it says everything that's indented underneath that run is part of that function.
 >
-> **[5:04](https://www.linkedin.com/learning/qgis-and-python-for-aec/adding-python-to-plugin?u=76281980&t=304)** So it's very important that it's indented perfectly with the rest of this function.
+> **[5:04](https://www.linkedin.com/learning/qgis-and-python-for-aec/adding-python-to-plugin?u=76281980&t=304)** So it's very important that it's indented perfectly with the [[Representational State Transfer (REST)|rest]] of this function.
 >
 > **[5:09](https://www.linkedin.com/learning/qgis-and-python-for-aec/adding-python-to-plugin?u=76281980&t=309)** So now we've got it when it first runs it'll clear the combo box, grab it the layers in the current project and populate them.
 >
@@ -3715,7 +3693,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), hit (6), next (2), gis (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** qgis (7), qgs (4), qgis3 (1), gis (1), utm (1)
 > **CLI Commands:** python (8), make (4)
 > **UI Navigation:** dropdown (6), in the menu (1), drag and drop (1)
@@ -3729,16 +3707,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/qgis-and-python-for-aec/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/qgis-and-python-for-aec/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/qgis-and-python-for-aec/next-steps?u=76281980&t=0)** - [Gordon] Thank you for taking QGIS Python for AEC.
+> **[0:00](https://www.linkedin.com/learning/qgis-and-python-for-aec/next-steps?u=76281980&t=0)** - [Gordon] Thank you for taking QGIS [[Python (Programming Language)|Python]] for [[AEC]].
 >
-> **[0:03](https://www.linkedin.com/learning/qgis-and-python-for-aec/next-steps?u=76281980&t=3)** We touched on a lot of GIS and programming concepts.
+> **[0:03](https://www.linkedin.com/learning/qgis-and-python-for-aec/next-steps?u=76281980&t=3)** We touched on a lot of GIS and [[Programming Concepts]].
 >
-> **[0:07](https://www.linkedin.com/learning/qgis-and-python-for-aec/next-steps?u=76281980&t=7)** If you'd like to dig deeper into QGIS, search the LinkedIn Learning site for more QGIS course.
+> **[0:07](https://www.linkedin.com/learning/qgis-and-python-for-aec/next-steps?u=76281980&t=7)** If you'd like to dig deeper into QGIS, search the [[LinkedIn]] Learning site for more QGIS course.
 >
 > **[0:13](https://www.linkedin.com/learning/qgis-and-python-for-aec/next-steps?u=76281980&t=13)** For more on Python, search for courses that include Python or fundamentals of programming.
 >
@@ -3748,7 +3725,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Search]] (2), [[AEC]] (1), gis (1), [[Programming Concepts]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[AEC]] (1), [[Programming Concepts]] (1), [[LinkedIn]] (1)
 > **Env Vars:** qgis (3), aec (1), gis (1)
 > **CLI Commands:** python (3)
 > **Speakers:** - [gordon] (1)

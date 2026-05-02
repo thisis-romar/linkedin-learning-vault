@@ -73,8 +73,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Business analysts are the bridge between stakeholders and IT
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-communication/business-analysts-are-the-bridge-between-stakeholders-and-it?u=76281980)
+#### [Business analysts are the bridge between stakeholders and IT](https://www.linkedin.com/learning/business-analysis-foundations-communication/business-analysts-are-the-bridge-between-stakeholders-and-it?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -94,7 +93,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), career (1)
 > **Speakers:** - you (1)
 
 
@@ -102,8 +100,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Business analysis communication defined
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-communication/business-analysis-communication-defined?u=76281980)
+#### [Business analysis communication defined](https://www.linkedin.com/learning/business-analysis-foundations-communication/business-analysis-communication-defined?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -125,7 +122,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/business-analysis-foundations-communication/business-analysis-communication-defined?u=76281980&t=53)** If your team is using a predictive delivery approach like Waterfall, it might make sense to capture business objectives in a business case and elaborate upon them in a business requirements document.
 >
-> **[1:07](https://www.linkedin.com/learning/business-analysis-foundations-communication/business-analysis-communication-defined?u=76281980&t=67)** Whereas a team using an adaptive delivery approach like Agile may prefer product roadmaps and visual models.
+> **[1:07](https://www.linkedin.com/learning/business-analysis-foundations-communication/business-analysis-communication-defined?u=76281980&t=67)** Whereas a team using an adaptive delivery approach like [[Agile Development|Agile]] may prefer product roadmaps and visual models.
 >
 > **[1:16](https://www.linkedin.com/learning/business-analysis-foundations-communication/business-analysis-communication-defined?u=76281980&t=76)** And that's just two examples.
 >
@@ -181,14 +178,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (18), management (2), [[Agile Development|Agile]] (1), product (1), next (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - regardless (1)
 
-#### Planning for business analysis communication
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-communication/planning-for-business-analysis-communication?u=76281980)
+#### [Planning for business analysis communication](https://www.linkedin.com/learning/business-analysis-foundations-communication/planning-for-business-analysis-communication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -206,9 +202,9 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/business-analysis-foundations-communication/planning-for-business-analysis-communication?u=76281980&t=56)** Our first step is determine what you'll communicate.
 >
-> **[1:01](https://www.linkedin.com/learning/business-analysis-foundations-communication/planning-for-business-analysis-communication?u=76281980&t=61)** We can break that down into two groups, deliverables and work products.
+> **[1:01](https://www.linkedin.com/learning/business-analysis-foundations-communication/planning-for-business-analysis-communication?u=76281980&t=61)** We can break that down into two groups, deliverables and work [[Microsoft Products|products]].
 >
-> **[1:07](https://www.linkedin.com/learning/business-analysis-foundations-communication/planning-for-business-analysis-communication?u=76281980&t=67)** A business analysis deliverable is an output used by others to guide their decision-making or perform future work.
+> **[1:07](https://www.linkedin.com/learning/business-analysis-foundations-communication/planning-for-business-analysis-communication?u=76281980&t=67)** A business analysis deliverable is an output used by others to guide their [[Decision-Making]] or perform future work.
 >
 > **[1:16](https://www.linkedin.com/learning/business-analysis-foundations-communication/planning-for-business-analysis-communication?u=76281980&t=76)** Deliverables are created, maintained, and often approved by those with an interest in them.
 >
@@ -274,7 +270,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (8), [[Microsoft Products|Products]] (3), next (2), [[Decision-Making]] (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Decision-Making]] (1)
 > **Exercise Files:** template (2), download the (1), exercise file (1)
 > **Definitions:** is an  (2)
 > **CLI Commands:** find (1)
@@ -282,8 +278,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - as (1)
 
-#### Performing business analysis communication
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-communication/performing-business-analysis-communication?u=76281980)
+#### [Performing business analysis communication](https://www.linkedin.com/learning/business-analysis-foundations-communication/performing-business-analysis-communication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -323,7 +318,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/business-analysis-foundations-communication/performing-business-analysis-communication?u=76281980&t=137)** Alternatively, might the requirements be postponed due to higher priority needs?
 >
-> **[2:23](https://www.linkedin.com/learning/business-analysis-foundations-communication/performing-business-analysis-communication?u=76281980&t=143)** Lastly, business analysis communication is challenging because we deal with various types of information at different levels of detail and in many different forms with different tools.
+> **[2:23](https://www.linkedin.com/learning/business-analysis-foundations-communication/performing-business-analysis-communication?u=76281980&t=143)** Lastly, business analysis communication is challenging because we deal with various types of information at different levels of detail and in many different [[Forms]] with different tools.
 >
 > **[2:37](https://www.linkedin.com/learning/business-analysis-foundations-communication/performing-business-analysis-communication?u=76281980&t=157)** This requires us to build skill at writing clear requirements of all types, being able to adjust the amount of information being communicated based on audience or need, and becoming proficient in a host of tools and mediums.
 >
@@ -353,7 +348,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (11), teams (1), [[Forms]] (1), next (1), data (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - communication (1)
@@ -363,8 +358,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Verbal and nonverbal communication skills in business analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-communication/verbal-and-nonverbal-communication-skills-in-business-analysis?u=76281980)
+#### [Verbal and nonverbal communication skills in business analysis](https://www.linkedin.com/learning/business-analysis-foundations-communication/verbal-and-nonverbal-communication-skills-in-business-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -424,13 +418,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), data (1), next (1)
 > **Analogies:** for example (2), imagine (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - verbal (1)
 
-#### Active listening skills in business analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-communication/active-listening-skills-in-business-analysis?u=76281980)
+#### [Active listening skills in business analysis](https://www.linkedin.com/learning/business-analysis-foundations-communication/active-listening-skills-in-business-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -468,7 +460,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/business-analysis-foundations-communication/active-listening-skills-in-business-analysis?u=76281980&t=110)** Playback involves restating or paraphrasing what the other person said.
 >
-> **[1:56](https://www.linkedin.com/learning/business-analysis-foundations-communication/active-listening-skills-in-business-analysis?u=76281980&t=116)** Now I don't mean restating word for word what they said.
+> **[1:56](https://www.linkedin.com/learning/business-analysis-foundations-communication/active-listening-skills-in-business-analysis?u=76281980&t=116)** Now I don't mean restating [[Microsoft Word|word]] for word what they said.
 >
 > **[1:59](https://www.linkedin.com/learning/business-analysis-foundations-communication/active-listening-skills-in-business-analysis?u=76281980&t=119)** I'm talking about summarizing important points.
 >
@@ -508,13 +500,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), next (3), [[Microsoft Word|Word]] (2), teams (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **CLI Commands:** make (3)
 > **Cross-References:** we talked about (1), in the last (1)
 > **Speakers:** - you (1)
 
-#### Written communication skills in business analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-communication/written-communication-skills-in-business-analysis?u=76281980)
+#### [Written communication skills in business analysis](https://www.linkedin.com/learning/business-analysis-foundations-communication/written-communication-skills-in-business-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -526,7 +517,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/business-analysis-foundations-communication/written-communication-skills-in-business-analysis?u=76281980&t=25)** In this video, I'll share ideas to help you improve all your written communications and the delivery of them to your stakeholders.
 >
-> **[0:34](https://www.linkedin.com/learning/business-analysis-foundations-communication/written-communication-skills-in-business-analysis?u=76281980&t=34)** Let's start with breaking down two key elements of professional writing, the mechanics of the writing, for example, spelling and grammar; and, second, using the appropriate word choice and style for your audience.
+> **[0:34](https://www.linkedin.com/learning/business-analysis-foundations-communication/written-communication-skills-in-business-analysis?u=76281980&t=34)** Let's start with breaking down two key elements of professional writing, the mechanics of the writing, for example, spelling and grammar; and, second, using the appropriate [[Microsoft Word|word]] choice and style for your audience.
 >
 > **[0:48](https://www.linkedin.com/learning/business-analysis-foundations-communication/written-communication-skills-in-business-analysis?u=76281980&t=48)** Maybe you've never considered the impact spelling and grammar and syntax have on your communications.
 >
@@ -594,7 +585,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), business (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **Env Vars:** ctr (2), cta (1), sem (1), smm (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** stands for (1)
@@ -602,8 +593,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - think (1)
 
-#### Visual communication skills in business analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-communication/visual-communication-skills-in-business-analysis?u=76281980)
+#### [Visual communication skills in business analysis](https://www.linkedin.com/learning/business-analysis-foundations-communication/visual-communication-skills-in-business-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -615,7 +605,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/business-analysis-foundations-communication/visual-communication-skills-in-business-analysis?u=76281980&t=23)** I'll present four categories of visual models you can consider folding into your requirements communication today.
 >
-> **[0:31](https://www.linkedin.com/learning/business-analysis-foundations-communication/visual-communication-skills-in-business-analysis?u=76281980&t=31)** Visual communication entails conveying information through models and various forms of visual representations, like diagrams and charts.
+> **[0:31](https://www.linkedin.com/learning/business-analysis-foundations-communication/visual-communication-skills-in-business-analysis?u=76281980&t=31)** Visual communication entails conveying information through models and various [[Forms]] of visual representations, like diagrams and charts.
 >
 > **[0:41](https://www.linkedin.com/learning/business-analysis-foundations-communication/visual-communication-skills-in-business-analysis?u=76281980&t=41)** It's extremely useful when we're working with information that's complex and overly complicated for words.
 >
@@ -663,13 +653,13 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/business-analysis-foundations-communication/visual-communication-skills-in-business-analysis?u=76281980&t=196)** For now, I just want you to introduce the idea of substituting some of your written communication with visual communication.
 >
-> **[3:25](https://www.linkedin.com/learning/business-analysis-foundations-communication/visual-communication-skills-in-business-analysis?u=76281980&t=205)** Once you start using visual models, you'll find that you'll increase stakeholder engagement, create something you can use to support additional collaboration, and be able to convey complex and detailed information succinctly, reducing communication errors.
+> **[3:25](https://www.linkedin.com/learning/business-analysis-foundations-communication/visual-communication-skills-in-business-analysis?u=76281980&t=205)** Once you start using visual models, you'll find that you'll increase [[Stakeholder Engagement]], create something you can use to support additional collaboration, and be able to convey complex and detailed information succinctly, reducing communication errors.
 >
 > **[3:45](https://www.linkedin.com/learning/business-analysis-foundations-communication/visual-communication-skills-in-business-analysis?u=76281980&t=225)** Join me in the next four movies as we look at performing some business analysis techniques to create visual models.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), data (3), next (2), [[Forms]] (1), [[Stakeholder Engagement]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Stakeholder Engagement]] (1)
 > **CLI Commands:** find (3)
 > **Cross-References:** in the next (2), go back to (1)
 > **Analogies:** picture (1)
@@ -680,8 +670,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Visually communicate scope
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-communication/visually-communicate-scope?u=76281980)
+#### [Visually communicate scope](https://www.linkedin.com/learning/business-analysis-foundations-communication/visually-communicate-scope?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -709,7 +698,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/business-analysis-foundations-communication/visually-communicate-scope?u=76281980&t=75)** Communicate the context of what the team is focused on building or impacting.
 >
-> **[1:21](https://www.linkedin.com/learning/business-analysis-foundations-communication/visually-communicate-scope?u=76281980&t=81)** Let's assume you're capturing the requirements for a new e-commerce site, specifically the online ordering system responsible for processing the orders placed online by your customers.
+> **[1:21](https://www.linkedin.com/learning/business-analysis-foundations-communication/visually-communicate-scope?u=76281980&t=81)** Let's assume you're capturing the requirements for a new [[E-Commerce]] site, specifically the online ordering system responsible for processing the orders placed online by your customers.
 >
 > **[1:35](https://www.linkedin.com/learning/business-analysis-foundations-communication/visually-communicate-scope?u=76281980&t=95)** Here's how to build a context diagram to communicate the high level scope of this work in three easy steps.
 >
@@ -767,18 +756,17 @@ created: 2026-05-02
 >
 > **[5:21](https://www.linkedin.com/learning/business-analysis-foundations-communication/visually-communicate-scope?u=76281980&t=321)** Don't forget to build the model with your stakeholders to obtain the added benefit of raising their engagement.
 >
-> **[5:29](https://www.linkedin.com/learning/business-analysis-foundations-communication/visually-communicate-scope?u=76281980&t=329)** If you are eager to learn more about context diagrams, check out Jamie Champagne's LinkedIn Learning course titled Business Analysis Essential Tools and Techniques.
+> **[5:29](https://www.linkedin.com/learning/business-analysis-foundations-communication/visually-communicate-scope?u=76281980&t=329)** If you are eager to learn more about context diagrams, check out Jamie Champagne's [[LinkedIn]] Learning course titled Business Analysis Essential Tools and Techniques.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), management (3), teams (1), [[E-Commerce]] (1), data (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** similar to (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - remember (1)
 
-#### Visually communicate process
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-communication/visually-communicate-process?u=76281980)
+#### [Visually communicate process](https://www.linkedin.com/learning/business-analysis-foundations-communication/visually-communicate-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -852,18 +840,17 @@ created: 2026-05-02
 >
 > **[4:43](https://www.linkedin.com/learning/business-analysis-foundations-communication/visually-communicate-process?u=76281980&t=283)** With some practice, you'll quickly enhance your ability to convey the steps in sequences or processes in your communication.
 >
-> **[4:52](https://www.linkedin.com/learning/business-analysis-foundations-communication/visually-communicate-process?u=76281980&t=292)** If you're interested in learning more about process modeling, you could check out Angela Wick's course Requirements Solicitation and Analysis here on LinkedIn Learning.
+> **[4:52](https://www.linkedin.com/learning/business-analysis-foundations-communication/visually-communicate-process?u=76281980&t=292)** If you're interested in learning more about process modeling, you could check out Angela Wick's course Requirements Solicitation and Analysis here on [[LinkedIn]] Learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), product (2), data (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is an  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - if (1)
 
-#### Visually communicate data
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-communication/visually-communicate-data?u=76281980)
+#### [Visually communicate data](https://www.linkedin.com/learning/business-analysis-foundations-communication/visually-communicate-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -967,19 +954,18 @@ created: 2026-05-02
 >
 > **[6:16](https://www.linkedin.com/learning/business-analysis-foundations-communication/visually-communicate-data?u=76281980&t=376)** There is definitely more you can learn about these important models.
 >
-> **[6:21](https://www.linkedin.com/learning/business-analysis-foundations-communication/visually-communicate-data?u=76281980&t=381)** If you're interested in doing so, check out Jamie Champagne's Lucidchart for Business Analysis Course on LinkedIn Learning.
+> **[6:21](https://www.linkedin.com/learning/business-analysis-foundations-communication/visually-communicate-data?u=76281980&t=381)** If you're interested in doing so, check out Jamie Champagne's Lucidchart for Business Analysis Course on [[LinkedIn]] Learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), business (11), next (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Env Vars:** erd (6)
 > **Analogies:** for example (3), such as (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - one (1)
 
-#### Visually communicate rules logic
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-communication/visually-communicate-rules-logic?u=76281980)
+#### [Visually communicate rules logic](https://www.linkedin.com/learning/business-analysis-foundations-communication/visually-communicate-rules-logic?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -989,11 +975,11 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/business-analysis-foundations-communication/visually-communicate-rules-logic?u=76281980&t=19)** In this video, I'll help you avoid feeling inundated with the complex and heavy information associated with business rules.
 >
-> **[0:28](https://www.linkedin.com/learning/business-analysis-foundations-communication/visually-communicate-rules-logic?u=76281980&t=28)** We'll explore how to simplify the communication of rule logic through the use of decision trees and decision tables.
+> **[0:28](https://www.linkedin.com/learning/business-analysis-foundations-communication/visually-communicate-rules-logic?u=76281980&t=28)** We'll explore how to simplify the communication of rule logic through the use of [[Decision Trees]] and decision tables.
 >
-> **[0:36](https://www.linkedin.com/learning/business-analysis-foundations-communication/visually-communicate-rules-logic?u=76281980&t=36)** Decision trees and tables are models that excel at communicating complex logic your solution needs to address.
+> **[0:36](https://www.linkedin.com/learning/business-analysis-foundations-communication/visually-communicate-rules-logic?u=76281980&t=36)** Decision trees and tables are models that [[Microsoft Excel|excel]] at communicating complex logic your solution needs to address.
 >
-> **[0:45](https://www.linkedin.com/learning/business-analysis-foundations-communication/visually-communicate-rules-logic?u=76281980&t=45)** Picture yourself assigned to work with Stella, the head of e-Commerce.
+> **[0:45](https://www.linkedin.com/learning/business-analysis-foundations-communication/visually-communicate-rules-logic?u=76281980&t=45)** Picture yourself assigned to work with Stella, the head of [[E-Commerce]].
 >
 > **[0:50](https://www.linkedin.com/learning/business-analysis-foundations-communication/visually-communicate-rules-logic?u=76281980&t=50)** Stella is requesting changes to the company's online storefront.
 >
@@ -1037,7 +1023,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/business-analysis-foundations-communication/visually-communicate-rules-logic?u=76281980&t=196)** Here we communicate nine possible choice combinations that result in five possible actions.
 >
-> **[3:23](https://www.linkedin.com/learning/business-analysis-foundations-communication/visually-communicate-rules-logic?u=76281980&t=203)** You can build either model collaboratively with stakeholders during a requirements workshop to promote stakeholder engagement.
+> **[3:23](https://www.linkedin.com/learning/business-analysis-foundations-communication/visually-communicate-rules-logic?u=76281980&t=203)** You can build either model collaboratively with stakeholders during a requirements workshop to promote [[Stakeholder Engagement]].
 >
 > **[3:32](https://www.linkedin.com/learning/business-analysis-foundations-communication/visually-communicate-rules-logic?u=76281980&t=212)** Both models support analysis, too.
 >
@@ -1053,7 +1039,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (11), [[Decision Trees]] (4), [[Microsoft Excel|Excel]] (1), [[E-Commerce]] (1), node (1)
+> **Frameworks & Libraries:** [[Decision Trees]] (4), [[Microsoft Excel|Excel]] (1), [[E-Commerce]] (1), [[Stakeholder Engagement]] (1)
 > **Env Vars:** vip (5)
 > **CLI Commands:** make (1), node (1)
 > **Analogies:** picture (1)
@@ -1064,8 +1050,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Improving how you write text-based requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-communication/improving-how-you-write-text-based-requirements?u=76281980)
+#### [Improving how you write text-based requirements](https://www.linkedin.com/learning/business-analysis-foundations-communication/improving-how-you-write-text-based-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1097,7 +1082,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/business-analysis-foundations-communication/improving-how-you-write-text-based-requirements?u=76281980&t=102)** As requirements get wordier, they become less clear.
 >
-> **[1:46](https://www.linkedin.com/learning/business-analysis-foundations-communication/improving-how-you-write-text-based-requirements?u=76281980&t=106)** And as the word count increases, so does the possibility for misunderstanding.
+> **[1:46](https://www.linkedin.com/learning/business-analysis-foundations-communication/improving-how-you-write-text-based-requirements?u=76281980&t=106)** And as the [[Microsoft Word|word]] count increases, so does the possibility for misunderstanding.
 >
 > **[1:52](https://www.linkedin.com/learning/business-analysis-foundations-communication/improving-how-you-write-text-based-requirements?u=76281980&t=112)** Strive for succinct and crisp, clear requirements.
 >
@@ -1117,7 +1102,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/business-analysis-foundations-communication/improving-how-you-write-text-based-requirements?u=76281980&t=185)** Templates also serve to guide your work to ensure all required information is captured.
 >
-> **[3:12](https://www.linkedin.com/learning/business-analysis-foundations-communication/improving-how-you-write-text-based-requirements?u=76281980&t=192)** For agile teams, agree on the definition already, which is a shared understanding of what it means for a user story to be complete.
+> **[3:12](https://www.linkedin.com/learning/business-analysis-foundations-communication/improving-how-you-write-text-based-requirements?u=76281980&t=192)** For [[Agile Development|agile]] teams, agree on the definition already, which is a shared understanding of what it means for a user story to be complete.
 >
 > **[3:22](https://www.linkedin.com/learning/business-analysis-foundations-communication/improving-how-you-write-text-based-requirements?u=76281980&t=202)** Similar to a template for formally written documentation, the definition of ready guides a business analyst to ensure a user story is consistently written with the correct elements before it's passed off to the solution team.
 >
@@ -1141,7 +1126,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (10), [[Microsoft Word|Word]] (1), functional (1), [[Agile Development|Agile]] (1), teams (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Agile Development|Agile]] (1)
 > **Exercise Files:** template (3), exercise files (1)
 > **Definitions:** means that (1), is a  (1), is an  (1)
 > **Env Vars:** babok (2)
@@ -1150,8 +1135,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - as (1)
 
-#### Improving how you write user stories
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-communication/improving-how-you-write-user-stories?u=76281980)
+#### [Improving how you write user stories](https://www.linkedin.com/learning/business-analysis-foundations-communication/improving-how-you-write-user-stories?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1227,7 +1211,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), feature (4), teams (3), functional (1), ux (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** invest (3)
 > **Definitions:** is a  (1), is an  (1), means that (1)
@@ -1235,9 +1218,9 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Best Practices:** don't forget (1)
 > **Warnings:** keep in mind (1)
+> **Speakers:** - there (1)
 
-#### Top tips to improve business analysis communication
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-communication/top-tips-to-improve-business-analysis-communication?u=76281980)
+#### [Top tips to improve business analysis communication](https://www.linkedin.com/learning/business-analysis-foundations-communication/top-tips-to-improve-business-analysis-communication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1307,7 +1290,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/business-analysis-foundations-communication/top-tips-to-improve-business-analysis-communication?u=76281980&t=194)** Find ways to drive in all perspectives.
 >
-> **[3:18](https://www.linkedin.com/learning/business-analysis-foundations-communication/top-tips-to-improve-business-analysis-communication?u=76281980&t=198)** Utilize techniques that drive stakeholder engagement and refrain from being the sole communicator.
+> **[3:18](https://www.linkedin.com/learning/business-analysis-foundations-communication/top-tips-to-improve-business-analysis-communication?u=76281980&t=198)** Utilize techniques that drive [[Stakeholder Engagement]] and refrain from being the sole communicator.
 >
 > **[3:24](https://www.linkedin.com/learning/business-analysis-foundations-communication/top-tips-to-improve-business-analysis-communication?u=76281980&t=204)** Draw others into sharing.
 >
@@ -1315,11 +1298,11 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/business-analysis-foundations-communication/top-tips-to-improve-business-analysis-communication?u=76281980&t=221)** All skills require practice, so ensure you include steps to continuously improve communication as part of your professional development.
 >
-> **[3:51](https://www.linkedin.com/learning/business-analysis-foundations-communication/top-tips-to-improve-business-analysis-communication?u=76281980&t=231)** Here are some additional courses on LinkedIn Learning to help you in this area.
+> **[3:51](https://www.linkedin.com/learning/business-analysis-foundations-communication/top-tips-to-improve-business-analysis-communication?u=76281980&t=231)** Here are some additional courses on [[LinkedIn]] Learning to help you in this area.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), management (1), [[Stakeholder Engagement]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Stakeholder Engagement]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2), find (2)
 > **Analogies:** such as (2)
 > **Env Vars:** babok (1)
@@ -1331,8 +1314,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Making communication a focus in your business analyst development plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-communication/making-communication-a-focus-in-your-business-analyst-development-plan?u=76281980)
+#### [Making communication a focus in your business analyst development plan](https://www.linkedin.com/learning/business-analysis-foundations-communication/making-communication-a-focus-in-your-business-analyst-development-plan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1348,7 +1330,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/business-analysis-foundations-communication/making-communication-a-focus-in-your-business-analyst-development-plan?u=76281980&t=26)** One way you do this is to include a communication goal on your professional development plan.
 >
-> **[0:32](https://www.linkedin.com/learning/business-analysis-foundations-communication/making-communication-a-focus-in-your-business-analyst-development-plan?u=76281980&t=32)** If you're interested in learning how to build a professional development plan, you can check out my LinkedIn Learning course, [[Building a Successful Business Analysis Career]].
+> **[0:32](https://www.linkedin.com/learning/business-analysis-foundations-communication/making-communication-a-focus-in-your-business-analyst-development-plan?u=76281980&t=32)** If you're interested in learning how to build a professional development plan, you can check out my [[LinkedIn]] Learning course, [[Building a Successful Business Analysis Career]].
 >
 > **[0:43](https://www.linkedin.com/learning/business-analysis-foundations-communication/making-communication-a-focus-in-your-business-analyst-development-plan?u=76281980&t=43)** The options for advancing your communication skills are endless, so have fun finding opportunities to add to your plan.
 >
@@ -1360,7 +1342,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), business (1), career (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Speakers:** - congratulations (1)
 
 

@@ -71,12 +71,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Preparing for agentic AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/preparing-for-agentic-ai-26922359?u=76281980)
+#### [Preparing for agentic AI](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/preparing-for-agentic-ai-26922359?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/preparing-for-agentic-ai-26922359?u=76281980&t=0)** - AI agents are more than tools; they've become new teammates.
+> **[0:00](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/preparing-for-agentic-ai-26922359?u=76281980&t=0)** - [[AI Agents]] are more than tools; they've become new teammates.
 >
 > **[0:03](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/preparing-for-agentic-ai-26922359?u=76281980&t=3)** Different from traditional software, AI agents can reason, weigh options, and even provide context in their decisions.
 >
@@ -96,7 +95,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), data (1), next (1), teams (1), business (1)
+> **Frameworks & Libraries:** [[AI Agents]] (3)
 > **Speakers:** - ai (1)
 
 
@@ -104,22 +103,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Agentic AI and business efficiency
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/agentic-ai-and-business-efficiency?u=76281980)
+#### [Agentic AI and business efficiency](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/agentic-ai-and-business-efficiency?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/agentic-ai-and-business-efficiency?u=76281980&t=0)** - Most situations and transactions in business are repeatable.
 >
-> **[0:04](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/agentic-ai-and-business-efficiency?u=76281980&t=4)** How customer buys products, how customer service responds to incoming requests, and how finance closes the books, they all follow well-defined steps in a business process that ensure the same outcomes, time and again.
+> **[0:04](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/agentic-ai-and-business-efficiency?u=76281980&t=4)** How customer buys [[Microsoft Products|products]], how customer service responds to incoming requests, and how finance closes the books, they all follow well-defined steps in a business process that ensure the same outcomes, time and again.
 >
 > **[0:17](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/agentic-ai-and-business-efficiency?u=76281980&t=17)** Most situations are also a little more complex than you initially envision them to be like, for example, customers requesting custom discounts and different payment terms, vendor deliveries being delayed due to natural disasters or strikes, facilitating product recalls and exchanges on a global scale and many other unforeseen circumstances.
 >
 > **[0:37](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/agentic-ai-and-business-efficiency?u=76281980&t=37)** There are always exceptions, but it's just not feasible to conceive of every possible situation or exception, let alone trying to describe these situations in software code.
 >
-> **[0:47](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/agentic-ai-and-business-efficiency?u=76281980&t=47)** So that's where analyzing, evaluating, reasoning and decision-making are important, which differs from traditional software.
+> **[0:47](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/agentic-ai-and-business-efficiency?u=76281980&t=47)** So that's where analyzing, evaluating, reasoning and [[Decision-Making]] are important, which differs from traditional software.
 >
-> **[0:55](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/agentic-ai-and-business-efficiency?u=76281980&t=55)** AI agents are the latest technology to help businesses do that.
+> **[0:55](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/agentic-ai-and-business-efficiency?u=76281980&t=55)** [[AI Agents]] are the latest technology to help businesses do that.
 >
 > **[0:59](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/agentic-ai-and-business-efficiency?u=76281980&t=59)** End users are used to telling software what to do.
 >
@@ -153,18 +151,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), business (3), [[Microsoft Products|Products]] (1), product (1), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (5), [[Microsoft Products|Products]] (1), [[Decision-Making]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (2)
 > **Speakers:** - most (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Agentic AI key challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/agentic-ai-key-challenges?u=76281980)
+#### [Agentic AI key challenges](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/agentic-ai-key-challenges?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/agentic-ai-key-challenges?u=76281980&t=0)** - Leaders should consider the challenges of adopting AI agents technology early.
+> **[0:00](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/agentic-ai-key-challenges?u=76281980&t=0)** - Leaders should consider the challenges of adopting [[AI Agents]] technology early.
 >
 > **[0:05](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/agentic-ai-key-challenges?u=76281980&t=5)** Introducing AI agents to a business will come with four primary types of challenges: people and change management, human involvement and trust, productivity and shadow AI, multi-agent systems and communication.
 >
@@ -172,7 +169,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/agentic-ai-key-challenges?u=76281980&t=29)** So leaders need to manage the uncertainty proactively.
 >
-> **[0:33](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/agentic-ai-key-challenges?u=76281980&t=33)** For example, town hall meetings, office hours, or weekly newsletters can be effective ways to communicate regularly.
+> **[0:33](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/agentic-ai-key-challenges?u=76281980&t=33)** For example, town hall meetings, [[Microsoft Office|office]] hours, or weekly [[Newsletters]] can be effective ways to communicate regularly.
 >
 > **[0:39](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/agentic-ai-key-challenges?u=76281980&t=39)** In addition, clarity and transparency are key to building and maintaining trust.
 >
@@ -212,7 +209,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/agentic-ai-key-challenges?u=76281980&t=129)** It looks up information from a knowledge base and presents the information to a second agent.
 >
-> **[2:14](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/agentic-ai-key-challenges?u=76281980&t=134)** This quality assurance agent reviews the generated information and provides feedback to the first one.
+> **[2:14](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/agentic-ai-key-challenges?u=76281980&t=134)** This [[Quality Assurance]] agent reviews the generated information and provides feedback to the first one.
 >
 > **[2:19](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/agentic-ai-key-challenges?u=76281980&t=139)** Is the information complete, actionable, easy to understand and relevant to the customer's problem?
 >
@@ -226,20 +223,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), business (1), management (1), [[Microsoft Office|Office]] (1), [[Newsletters]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (5), [[Microsoft Office|Office]] (1), [[Newsletters]] (1), [[Quality Assurance]] (1)
 > **Analogies:** for example (3), just like (1), such as (1)
 > **Cross-References:** earlier in (1)
 > **Definitions:** means that (1)
 > **Speakers:** - leaders (1)
 
-#### Agentic AI key opportunities
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/agentic-ai-key-opportunities?u=76281980)
+#### [Agentic AI key opportunities](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/agentic-ai-key-opportunities?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/agentic-ai-key-opportunities?u=76281980&t=0)** - Everybody loves a booming business, but keeping up with the demand can quickly get demanding.
 >
-> **[0:06](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/agentic-ai-key-opportunities?u=76281980&t=6)** AI agents are a great way to help your teams increase scale.
+> **[0:06](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/agentic-ai-key-opportunities?u=76281980&t=6)** [[AI Agents]] are a great way to help your teams increase scale.
 >
 > **[0:10](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/agentic-ai-key-opportunities?u=76281980&t=10)** They can take over tasks with some complexity and uncertainty.
 >
@@ -283,25 +279,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), ai (5), product (2), teams (1), data (1)
+> **Frameworks & Libraries:** [[AI Agents]] (5)
 > **Analogies:** for example (2), imagine (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - everybody (1)
 
-#### The impact of data quality and bias on agentic AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/the-impact-of-data-quality-and-bias-on-agentic-ai?u=76281980)
+#### [The impact of data quality and bias on agentic AI](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/the-impact-of-data-quality-and-bias-on-agentic-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/the-impact-of-data-quality-and-bias-on-agentic-ai?u=76281980&t=0)** - AI agents are based on Large Language Models, or LLMs.
+> **[0:00](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/the-impact-of-data-quality-and-bias-on-agentic-ai?u=76281980&t=0)** - [[AI Agents]] are based on [[Large Language Models (LLM)|Large Language Models]], or LLMs.
 >
 > **[0:04](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/the-impact-of-data-quality-and-bias-on-agentic-ai?u=76281980&t=4)** These models have been trained on vast amounts of information from the internet, that have a good general understanding of human language itself.
 >
-> **[0:12](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/the-impact-of-data-quality-and-bias-on-agentic-ai?u=76281980&t=12)** Mainly which word is the most likely to follow another in a given sentence.
+> **[0:12](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/the-impact-of-data-quality-and-bias-on-agentic-ai?u=76281980&t=12)** Mainly which [[Microsoft Word|word]] is the most likely to follow another in a given sentence.
 >
 > **[0:16](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/the-impact-of-data-quality-and-bias-on-agentic-ai?u=76281980&t=16)** They're good at generating generic information, but not so good at creating specific output.
 >
-> **[0:21](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/the-impact-of-data-quality-and-bias-on-agentic-ai?u=76281980&t=21)** That's because LLMs lack access to unique information about the products and processes that differentiate a business.
+> **[0:21](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/the-impact-of-data-quality-and-bias-on-agentic-ai?u=76281980&t=21)** That's because LLMs lack access to unique information about the [[Microsoft Products|products]] and processes that differentiate a business.
 >
 > **[0:28](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/the-impact-of-data-quality-and-bias-on-agentic-ai?u=76281980&t=28)** Imagine what that looks like for a specialty chemicals company that makes adhesives.
 >
@@ -321,7 +316,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/the-impact-of-data-quality-and-bias-on-agentic-ai?u=76281980&t=69)** A customer might ask the agent about products by their brand name or criteria like curing rate, and the agent would use the available data to understand the context of the customer's question, and to generate output tailored based on the individual product.
 >
-> **[1:23](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/the-impact-of-data-quality-and-bias-on-agentic-ai?u=76281980&t=83)** That makes data quality a very important aspect of using AI agents.
+> **[1:23](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/the-impact-of-data-quality-and-bias-on-agentic-ai?u=76281980&t=83)** That makes [[Data Quality]] a very important aspect of using AI agents.
 >
 > **[1:28](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/the-impact-of-data-quality-and-bias-on-agentic-ai?u=76281980&t=88)** If an agent works with incomplete datasets or outdated information, its results could be negative.
 >
@@ -337,19 +332,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), ai (4), product (3), [[Microsoft Products|Products]] (2), business (2)
+> **Frameworks & Libraries:** [[AI Agents]] (2), [[Microsoft Products|Products]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Microsoft Word|Word]] (1), [[Data Quality]] (1)
 > **Analogies:** imagine (1), for example (1)
 > **Env Vars:** llm (1)
 > **Speakers:** - ai (1)
 
-#### Transparency and accountability in agentic AI adoption
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/transparency-and-accountability-in-agentic-ai-adoption?u=76281980)
+#### [Transparency and accountability in agentic AI adoption](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/transparency-and-accountability-in-agentic-ai-adoption?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/transparency-and-accountability-in-agentic-ai-adoption?u=76281980&t=1)** - Being accountable for something you don't understand or have insight into is tough.
 >
-> **[0:05](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/transparency-and-accountability-in-agentic-ai-adoption?u=76281980&t=5)** Since the release of generative AI, users have gotten used to checking the generated output for inconsistencies.
+> **[0:05](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/transparency-and-accountability-in-agentic-ai-adoption?u=76281980&t=5)** Since the release of [[Generative AI]], users have gotten used to checking the generated output for inconsistencies.
 >
 > **[0:11](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/transparency-and-accountability-in-agentic-ai-adoption?u=76281980&t=11)** As agents become more common in business, users will still be responsible for checking the information and propose decisions, but in order to do that with confidence, transparency is key.
 >
@@ -373,11 +367,11 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/transparency-and-accountability-in-agentic-ai-adoption?u=76281980&t=59)** That's why transparency in documenting the steps that agents go through are so important, and this will allow users to reconstruct and troubleshoot decisions, but even when these things are in place, humans are still accountable for the final decision.
 >
-> **[1:13](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/transparency-and-accountability-in-agentic-ai-adoption?u=76281980&t=73)** Leaders should emphasize this to the teams using AI agents.
+> **[1:13](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/transparency-and-accountability-in-agentic-ai-adoption?u=76281980&t=73)** Leaders should emphasize this to the teams using [[AI Agents]].
 >
 > **[1:18](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/transparency-and-accountability-in-agentic-ai-adoption?u=76281980&t=78)** In order to be accountable, users need to know what has happened and why.
 >
-> **[1:21](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/transparency-and-accountability-in-agentic-ai-adoption?u=76281980&t=81)** That's why transparency and accountability are so closely related, and why having the steps documented and readily available to users is key, so they can readily and easily find them and review them.
+> **[1:21](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/transparency-and-accountability-in-agentic-ai-adoption?u=76281980&t=81)** That's why transparency and [[Accountability]] are so closely related, and why having the steps documented and readily available to users is key, so they can readily and easily find them and review them.
 >
 > **[1:34](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/transparency-and-accountability-in-agentic-ai-adoption?u=76281980&t=94)** AI agents are currently an emerging software capability, and leaders should take a conscious approach to introducing them to business functions.
 >
@@ -395,22 +389,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), business (5), teams (2), [[Generative AI]] (1), database (1)
+> **Frameworks & Libraries:** [[AI Agents]] (3), [[Generative AI]] (1), [[Accountability]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - being (1)
 
-#### Automating leadership decision-making with agentic AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/automating-leadership-decision-making-with-agentic-ai?u=76281980)
+#### [Automating leadership decision-making with agentic AI](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/automating-leadership-decision-making-with-agentic-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/automating-leadership-decision-making-with-agentic-ai?u=76281980&t=0)** - Decision-making is one of the core skills of any leadership role, of course, but there's hardly ever enough information available to inform decisions, and hardly ever enough time available to consider all the possible angles and implications.
+> **[0:00](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/automating-leadership-decision-making-with-agentic-ai?u=76281980&t=0)** - [[Decision-Making]] is one of the core skills of any leadership role, of course, but there's hardly ever enough information available to inform decisions, and hardly ever enough time available to consider all the possible angles and implications.
 >
 > **[0:14](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/automating-leadership-decision-making-with-agentic-ai?u=76281980&t=14)** Common steps in decision-making involve gathering information, evaluating it, preparing proposals, and justifying why a particular option is recommended over another.
 >
-> **[0:24](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/automating-leadership-decision-making-with-agentic-ai?u=76281980&t=24)** That's where AI agents can help leaders complete these steps faster and consider many more data sources and data points.
+> **[0:24](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/automating-leadership-decision-making-with-agentic-ai?u=76281980&t=24)** That's where [[AI Agents]] can help leaders complete these steps faster and consider many more data sources and data points.
 >
 > **[0:31](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/automating-leadership-decision-making-with-agentic-ai?u=76281980&t=31)** AI agents can evaluate multiple options in parallel.
 >
@@ -448,9 +441,9 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/automating-leadership-decision-making-with-agentic-ai?u=76281980&t=123)** This can be helpful for managerial approval workflows, but the cost for a human to make a decision outweighs the risks of an incorrect decision by an AI agent.
 >
-> **[2:12](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/automating-leadership-decision-making-with-agentic-ai?u=76281980&t=132)** It's important to point out, though, that this generation of AI agents is based on large language models, or LLMs.
+> **[2:12](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/automating-leadership-decision-making-with-agentic-ai?u=76281980&t=132)** It's important to point out, though, that this generation of AI agents is based on [[Large Language Models (LLM)|large language models]], or LLMs.
 >
-> **[2:18](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/automating-leadership-decision-making-with-agentic-ai?u=76281980&t=138)** This means that these agents will reason based on language and determine the most likely next word in a sentence.
+> **[2:18](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/automating-leadership-decision-making-with-agentic-ai?u=76281980&t=138)** This means that these agents will reason based on language and determine the most likely next [[Microsoft Word|word]] in a sentence.
 >
 > **[2:23](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/automating-leadership-decision-making-with-agentic-ai?u=76281980&t=143)** AI agents don't have an actual understanding of concepts and their relationships in the real world.
 >
@@ -460,7 +453,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), data (4), [[Decision-Making]] (2), business (2), leadership (1)
+> **Frameworks & Libraries:** [[AI Agents]] (8), [[Decision-Making]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** select the (2)
 > **Definitions:** means that (1)
@@ -468,12 +461,11 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - decision (1)
 
-#### Human-centric approaches to agentic AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/human-centric-approaches-to-agentic-ai?u=76281980)
+#### [Human-centric approaches to agentic AI](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/human-centric-approaches-to-agentic-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/human-centric-approaches-to-agentic-ai?u=76281980&t=0)** - A work environment that uses AI agents can be both exciting and intimidating.
+> **[0:00](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/human-centric-approaches-to-agentic-ai?u=76281980&t=0)** - A work environment that uses [[AI Agents]] can be both exciting and intimidating.
 >
 > **[0:06](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/human-centric-approaches-to-agentic-ai?u=76281980&t=6)** Among the excitement and potential that this technology holds, it is important for leaders to prioritize how their team members can best use AI agents.
 >
@@ -517,13 +509,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), data (2), business (2), teams (1)
+> **Frameworks & Libraries:** [[AI Agents]] (9)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Speakers:** - a (1)
 
-#### Change management considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/change-management-considerations?u=76281980)
+#### [Change management considerations](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/change-management-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -531,7 +522,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/change-management-considerations?u=76281980&t=9)** This is especially true when established working methods are being disrupted and familiar patterns change.
 >
-> **[0:14](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/change-management-considerations?u=76281980&t=14)** AI agents will likely introduce this level of change.
+> **[0:14](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/change-management-considerations?u=76281980&t=14)** [[AI Agents]] will likely introduce this level of change.
 >
 > **[0:17](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/change-management-considerations?u=76281980&t=17)** So how can leaders support their teams and working effectively with AI agents?
 >
@@ -579,7 +570,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (17), teams (7), leadership (2), next (2), business (1)
+> **Frameworks & Libraries:** [[AI Agents]] (15)
 > **Definitions:** is an  (1), means that (1), known as (1), is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - the (1)
@@ -589,8 +580,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Anticipating what's next with AI agents
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/anticipating-what-s-next-with-ai-agents?u=76281980)
+#### [Anticipating what's next with AI agents](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/anticipating-what-s-next-with-ai-agents?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -602,7 +592,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/anticipating-what-s-next-with-ai-agents?u=76281980&t=24)** We are seeing the beginning of this future where software and business processes become more autonomous.
 >
-> **[0:30](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/anticipating-what-s-next-with-ai-agents?u=76281980&t=30)** As AI agents gain robust capability with governance, roles, and security, enterprises will adopt them as well.
+> **[0:30](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/anticipating-what-s-next-with-ai-agents?u=76281980&t=30)** As [[AI Agents]] gain robust capability with governance, roles, and security, enterprises will adopt them as well.
 >
 > **[0:36](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/anticipating-what-s-next-with-ai-agents?u=76281980&t=36)** Application vendors are providing AI capabilities and platforms that are tailored for a particular part of the business.
 >
@@ -636,9 +626,9 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/anticipating-what-s-next-with-ai-agents?u=76281980&t=117)** You can find more info on how to do this on my website, [intelligence-briefing.com](https://intelligence-briefing.com).
 >
-> **[2:02](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/anticipating-what-s-next-with-ai-agents?u=76281980&t=122)** Begin developing your business's AI strategy and find opportunities to optimize your products and processes with AI.
+> **[2:02](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/anticipating-what-s-next-with-ai-agents?u=76281980&t=122)** Begin developing your business's [[AI Strategy]] and find opportunities to optimize your [[Microsoft Products|products]] and processes with AI.
 >
-> **[2:09](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/anticipating-what-s-next-with-ai-agents?u=76281980&t=129)** You can also follow me on LinkedIn for the latest information and perspectives on how you can define a strong AI strategy and incorporate AI across your business.
+> **[2:09](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/anticipating-what-s-next-with-ai-agents?u=76281980&t=129)** You can also follow me on [[LinkedIn]] for the latest information and perspectives on how you can define a strong AI strategy and incorporate AI across your business.
 >
 > **[2:18](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/anticipating-what-s-next-with-ai-agents?u=76281980&t=138)** Congratulations on getting started with this topic.
 >
@@ -646,7 +636,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), business (9), teams (3), leadership (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (2), [[AI Strategy]] (2), [[Microsoft Products|Products]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (2)
 > **Prerequisites:** install (1), getting started (1)
 > **URLs:** [intelligence-briefing.com](https://intelligence-briefing.com) (1)

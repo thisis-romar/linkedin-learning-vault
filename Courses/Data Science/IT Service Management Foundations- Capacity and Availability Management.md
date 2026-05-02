@@ -80,8 +80,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/introduction?u=76281980)
+#### [Introduction](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -99,12 +98,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - capacity (1)
 
-#### What is capacity management?
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/what-is-capacity-management?u=76281980)
+#### [What is capacity management?](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/what-is-capacity-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -148,7 +145,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/what-is-capacity-management?u=76281980&t=138)** This isn't related to a specific service.
 >
-> **[2:21](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/what-is-capacity-management?u=76281980&t=141)** Think about switches and bandwidth utilization, number of virtual services in a specific hardware that is hosting multiple services.
+> **[2:21](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/what-is-capacity-management?u=76281980&t=141)** Think about switches and bandwidth utilization, number of virtual services in a specific [[Hardware]] that is hosting multiple services.
 >
 > **[2:29](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/what-is-capacity-management?u=76281980&t=149)** This specific area is where some technical skills or understanding of how your services are all supported will really help.
 >
@@ -156,7 +153,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/what-is-capacity-management?u=76281980&t=160)** You can call up all technical teams that will help you get data and better understanding of infrastructure and your organization.
 >
-> **[2:48](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/what-is-capacity-management?u=76281980&t=168)** Within resource capacity management, you'll need to cover what kind of data you want to consider collecting, how to consider load balancing and consolidating to maximize performance, and how you could prepare and forecast for future services, and also how this might still work if you work primarily within cloud infrastructure.
+> **[2:48](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/what-is-capacity-management?u=76281980&t=168)** Within resource capacity management, you'll need to cover what kind of data you want to consider collecting, how to consider load balancing and consolidating to maximize performance, and how you could prepare and forecast for future services, and also how this might still work if you work primarily within [[Cloud Infrastructure]].
 >
 > **[3:07](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/what-is-capacity-management?u=76281980&t=187)** Later on in the course, we will go into more granular detail of the standard processes expected of capacity management, but hopefully this introduction gives you a good starting point to think about the importance of capacity management in an organization.
 >
@@ -164,14 +161,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (12), data (6), next (1), [[Hardware]] (1), teams (1)
+> **Frameworks & Libraries:** [[Hardware]] (1), [[Cloud Infrastructure]] (1)
 > **Analogies:** think of it as (1), such as (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is availability management?
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/what-is-availability-management?u=76281980)
+#### [What is availability management?](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/what-is-availability-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -207,7 +203,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/what-is-availability-management?u=76281980&t=99)** But before we get into the details of the process, let's first talk about service design to ensure it fits with your organization needs.
 >
-> **[1:48](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/what-is-availability-management?u=76281980&t=108)** Just as a reminder, as you undertake this course, not all organizations run in the same way, and even ITIL 4 is designed as a guide, not a set of instructions per service.
+> **[1:48](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/what-is-availability-management?u=76281980&t=108)** Just as a reminder, as you undertake this course, not all organizations run in the same way, and even [[ITIL]] 4 is designed as a guide, not a set of instructions per service.
 >
 > **[1:59](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/what-is-availability-management?u=76281980&t=119)** As such, you need to ensure that services you design is based on the principles of ITIL, but also meets your organization's requirements.
 >
@@ -231,7 +227,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (6), business (3), next (2), [[ITIL]] (2), data (1)
+> **Frameworks & Libraries:** [[ITIL]] (2)
 > **Env Vars:** itil (2), sle (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
@@ -244,8 +240,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Taking time to understand the business services
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/taking-time-to-understand-the-business-services?u=76281980)
+#### [Taking time to understand the business services](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/taking-time-to-understand-the-business-services?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -257,7 +252,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/taking-time-to-understand-the-business-services?u=76281980&t=16)** To create what we call a minimum viable service, basically, a service that meets the basic needs of the organization, you'll need to understand what's important to the business.
 >
-> **[0:27](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/taking-time-to-understand-the-business-services?u=76281980&t=27)** If you created a by-the-book ITIL 4 capacity and availability service, who's to say that that provides a value creation that the organization's looking for?
+> **[0:27](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/taking-time-to-understand-the-business-services?u=76281980&t=27)** If you created a by-the-book [[ITIL]] 4 capacity and availability service, who's to say that that provides a value creation that the organization's looking for?
 >
 > **[0:35](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/taking-time-to-understand-the-business-services?u=76281980&t=35)** It's very unlikely.
 >
@@ -333,7 +328,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (8), teams (4), management (2), [[ITIL]] (1), next (1)
+> **Frameworks & Libraries:** [[ITIL]] (1)
 > **Prerequisites:** you'll need (4)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** means that (1), is a  (1)
@@ -342,12 +337,11 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **Exercise Files:** template (1)
 
-#### Reviewing the ways of working
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/reviewing-the-ways-of-working?u=76281980)
+#### [Reviewing the ways of working](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/reviewing-the-ways-of-working?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/reviewing-the-ways-of-working?u=76281980&t=0)** - [Instructor] Ways of working may seem standard, but different businesses try to be fully agile, fully ITIL, or a mix of both depending on the variety of work that's completed.
+> **[0:00](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/reviewing-the-ways-of-working?u=76281980&t=0)** - [Instructor] Ways of working may seem standard, but different businesses try to be fully [[Agile Development|agile]], fully [[ITIL]], or a mix of both depending on the variety of work that's completed.
 >
 > **[0:08](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/reviewing-the-ways-of-working?u=76281980&t=8)** There are many more variants out there.
 >
@@ -355,7 +349,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/reviewing-the-ways-of-working?u=76281980&t=19)** For example, if the organization works with product managers in Agile, you'll want to make sure that any product's being designed, that you are part of those discussions and how it might impact existing infrastructure to mitigate any risk to availability later.
 >
-> **[0:34](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/reviewing-the-ways-of-working?u=76281980&t=34)** Products that are live, you'll want to become a key stakeholder in governance gateways such as change management or technical design authorities.
+> **[0:34](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/reviewing-the-ways-of-working?u=76281980&t=34)** [[Microsoft Products|Products]] that are live, you'll want to become a key stakeholder in governance gateways such as change management or technical design authorities.
 >
 > **[0:42](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/reviewing-the-ways-of-working?u=76281980&t=42)** Just to note here, you'd not typically be expected to capacity manage a product in alpha or in sandbox environments.
 >
@@ -391,7 +385,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/reviewing-the-ways-of-working?u=76281980&t=133)** How you identify potential risks through your proactive analysis to technical teams?
 >
-> **[2:18](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/reviewing-the-ways-of-working?u=76281980&t=138)** Is it via problem management tickets?
+> **[2:18](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/reviewing-the-ways-of-working?u=76281980&t=138)** Is it via [[Problem Management]] tickets?
 >
 > **[2:20](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/reviewing-the-ways-of-working?u=76281980&t=140)** Consider how you engage with conducting proactive analysis of infrastructure, so there's an audit trail of your actions.
 >
@@ -411,7 +405,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (7), [[Agile Development|Agile]] (3), [[ITIL]] (3), [[Microsoft Products|Products]] (3), management (2)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), [[ITIL]] (3), [[Microsoft Products|Products]] (3), [[Problem Management]] (1)
 > **Env Vars:** itil (3), raci (1)
 > **Analogies:** for example (2), such as (1), imagine (1)
 > **CLI Commands:** make (2)
@@ -419,8 +413,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting out your scope
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/setting-out-your-scope?u=76281980)
+#### [Setting out your scope](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/setting-out-your-scope?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -462,14 +455,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (1), power (1)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting out policy
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/setting-out-policy?u=76281980)
+#### [Setting out policy](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/setting-out-policy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -545,7 +536,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/setting-out-policy?u=76281980&t=173)** This might sound like a lot of work and it is, but the value in the long-term benefit of taking your time to do this will save you ambiguity, knowledge loss of processes due to staff turnover and ultimately scope creep as the organization evolves over time.
 >
-> **[3:07](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/setting-out-policy?u=76281980&t=187)** A tip that I would suggest is to keep a version control section of what was updated when and by who on the front of the document.
+> **[3:07](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/setting-out-policy?u=76281980&t=187)** A tip that I would suggest is to keep a [[Version Control]] section of what was updated when and by who on the front of the document.
 >
 > **[3:15](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/setting-out-policy?u=76281980&t=195)** It helps with your compliance auditing trial later.
 >
@@ -569,7 +560,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (7), next (2), teams (2), business (1), [[Version Control]] (1)
+> **Frameworks & Libraries:** [[Version Control]] (1)
 > **Cross-References:** we talked about (1), later in (1)
 > **Prerequisites:** setup (1), you'll need (1)
 > **CLI Commands:** make (1)
@@ -581,8 +572,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is service capacity management?
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/what-is-service-capacity-management?u=76281980)
+#### [What is service capacity management?](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/what-is-service-capacity-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -612,11 +602,11 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/what-is-service-capacity-management?u=76281980&t=71)** Another example may be implications of new reporting with lots of large graphics being set out during peak hours.
 >
-> **[1:19](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/what-is-service-capacity-management?u=76281980&t=79)** This is typically called demand forecasting and capacity modeling.
+> **[1:19](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/what-is-service-capacity-management?u=76281980&t=79)** This is typically called demand [[Forecasting]] and capacity modeling.
 >
 > **[1:22](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/what-is-service-capacity-management?u=76281980&t=82)** Without going into too much detail at this stage, this is where resource capacity management will really help you out later by knowing what other components could be utilized without additional cost.
 >
-> **[1:34](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/what-is-service-capacity-management?u=76281980&t=94)** Work with other stakeholders such as problem management if you identify a problem candidate for maybe a service component that goes down, but maybe hasn't caused any user facing issues yet.
+> **[1:34](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/what-is-service-capacity-management?u=76281980&t=94)** Work with other stakeholders such as [[Problem Management]] if you identify a problem candidate for maybe a service component that goes down, but maybe hasn't caused any user facing issues yet.
 >
 > **[1:46](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/what-is-service-capacity-management?u=76281980&t=106)** As you can imagine, this can be a very interesting, gratifying, and valued service within the organization, if it's performed well.
 >
@@ -630,7 +620,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/what-is-service-capacity-management?u=76281980&t=144)** This internal will help you maximize your availability of your services by becoming the proactive service.
 >
-> **[2:29](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/what-is-service-capacity-management?u=76281980&t=149)** This service is also involved with other ITIL functions, such as change management, as in some places they may want your sign off that you've conducted an analysis of the implications of a change before it's deployed.
+> **[2:29](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/what-is-service-capacity-management?u=76281980&t=149)** This service is also involved with other [[ITIL]] functions, such as change management, as in some places they may want your sign off that you've conducted an analysis of the implications of a change before it's deployed.
 >
 > **[2:42](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/what-is-service-capacity-management?u=76281980&t=162)** Hopefully, though, by this point, you will have already been engaged with those development teams to do an assessment of what's required from a capacity modeling point of view.
 >
@@ -642,15 +632,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (10), data (5), [[Problem Management]] (2), teams (2), feature (1)
+> **Frameworks & Libraries:** [[Problem Management]] (2), [[Forecasting]] (1), [[ITIL]] (1)
 > **Analogies:** such as (3), imagine (1)
 > **Env Vars:** sla (1), itil (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reviewing the infrastructure
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/reviewing-the-infrastructure?u=76281980)
+#### [Reviewing the infrastructure](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/reviewing-the-infrastructure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -676,7 +665,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/reviewing-the-infrastructure?u=76281980&t=53)** During this phase, I would recommend sitting with your appropriate teams, review each critical service, and take note of components that will may impact capacity.
 >
-> **[1:02](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/reviewing-the-infrastructure?u=76281980&t=62)** What you may find are components are shared with other services, switches, storage servers, servers hosting virtual machines, the list goes on.
+> **[1:02](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/reviewing-the-infrastructure?u=76281980&t=62)** What you may find are components are shared with other services, switches, storage servers, servers hosting [[Virtual Machines]], the list goes on.
 >
 > **[1:11](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/reviewing-the-infrastructure?u=76281980&t=71)** This will help you join the dots on what components may be heavily used versus the ones that are barely used or mentioned.
 >
@@ -696,7 +685,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/reviewing-the-infrastructure?u=76281980&t=120)** Admin reports?
 >
-> **[2:01](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/reviewing-the-infrastructure?u=76281980&t=121)** Can someone create reports via Microsoft Admin, for example, to require you to get the data you need?
+> **[2:01](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/reviewing-the-infrastructure?u=76281980&t=121)** Can someone create reports via [[Microsoft]] Admin, for example, to require you to get the data you need?
 >
 > **[2:07](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/reviewing-the-infrastructure?u=76281980&t=127)** Historic data.
 >
@@ -704,7 +693,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/reviewing-the-infrastructure?u=76281980&t=134)** We'll cover a bit more on that later.
 >
-> **[2:16](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/reviewing-the-infrastructure?u=76281980&t=136)** And finally, reporting dashboards.
+> **[2:16](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/reviewing-the-infrastructure?u=76281980&t=136)** And finally, reporting [[Dashboards]].
 >
 > **[2:18](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/reviewing-the-infrastructure?u=76281980&t=138)** How can you use the data that you've established in your capacity management functions?
 >
@@ -714,7 +703,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/reviewing-the-infrastructure?u=76281980&t=158)** One other key tip here.
 >
-> **[2:40](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/reviewing-the-infrastructure?u=76281980&t=160)** To help further the information from above is to review changes and incidence and problem management tickets that have occurred from a period of time.
+> **[2:40](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/reviewing-the-infrastructure?u=76281980&t=160)** To help further the information from above is to review changes and incidence and [[Problem Management]] tickets that have occurred from a period of time.
 >
 > **[2:48](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/reviewing-the-infrastructure?u=76281980&t=168)** This will help you understand what components of infrastructure are already causing issues, which should be a top priority for you.
 >
@@ -724,14 +713,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), business (2), management (2), teams (1), [[Virtual Machines]] (1)
+> **Frameworks & Libraries:** [[Virtual Machines]] (1), [[Microsoft]] (1), [[Dashboards]] (1), [[Problem Management]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [presenter] (1)
 
-#### Capacity forecasting: Data collection
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/capacity-forecasting-data-collection?u=76281980)
+#### [Capacity forecasting: Data collection](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/capacity-forecasting-data-collection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -821,14 +809,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), management (9), teams (5), traffic (2), vpn (2)
 > **Analogies:** such as (6), for example (1)
 > **Env Vars:** vpn (2), cpu (1), ram (1), sccm (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Capacity forecasting: Techniques
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/capacity-forecasting-techniques?u=76281980)
+#### [Capacity forecasting: Techniques](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/capacity-forecasting-techniques?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -868,9 +854,9 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/capacity-forecasting-techniques?u=76281980&t=116)** You might see peaks and users utilizing service.
 >
-> **[1:59](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/capacity-forecasting-techniques?u=76281980&t=119)** This kind of analysis is time series analysis, so although it's key to benchmark the everyday usage, it's also vital to understand the usage at peak times.
+> **[1:59](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/capacity-forecasting-techniques?u=76281980&t=119)** This kind of analysis is [[Time Series Analysis]], so although it's key to benchmark the everyday usage, it's also vital to understand the usage at peak times.
 >
-> **[2:11](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/capacity-forecasting-techniques?u=76281980&t=131)** This will really help you with your future capacity planning.
+> **[2:11](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/capacity-forecasting-techniques?u=76281980&t=131)** This will really help you with your future [[Capacity Planning]].
 >
 > **[2:15](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/capacity-forecasting-techniques?u=76281980&t=135)** Once you have all of the above, remember to compare the average pair period.
 >
@@ -908,7 +894,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), management (2), teams (2), [[Time Series Analysis]] (1), [[Capacity Planning]] (1)
+> **Frameworks & Libraries:** [[Time Series Analysis]] (1), [[Capacity Planning]] (1)
 > **Analogies:** for example (3), such as (2)
 > **Env Vars:** gig (2), cpu (2)
 > **Prerequisites:** you'll need (1), set up (1)
@@ -921,8 +907,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is resource capacity management?
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/what-is-resource-capacity-management?u=76281980)
+#### [What is resource capacity management?](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/what-is-resource-capacity-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -938,7 +923,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/what-is-resource-capacity-management?u=76281980&t=45)** By monitoring and recording the dependencies of each service on shared infrastructure, you can really start to manage capacity in a broader view than just service specific resources.
 >
-> **[0:55](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/what-is-resource-capacity-management?u=76281980&t=55)** If you have a configuration management team in your organization, they might be able to help out with this dependency mapping.
+> **[0:55](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/what-is-resource-capacity-management?u=76281980&t=55)** If you have a [[Configuration Management]] team in your organization, they might be able to help out with this dependency mapping.
 >
 > **[1:01](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/what-is-resource-capacity-management?u=76281980&t=61)** Imagine you have a storage server, which is used for storing emails based on a data retention policy, but also used for storing large size media libraries for marketing, and the organization wants to add another service which is storage hungry.
 >
@@ -968,30 +953,29 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), management (4), teams (3), next (1), cloud (1)
+> **Frameworks & Libraries:** [[Configuration Management]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1), imagine (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Assessing resource capacity: Data collection
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/assessing-resource-capacity-data-collection?u=76281980)
+#### [Assessing resource capacity: Data collection](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/assessing-resource-capacity-data-collection?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/assessing-resource-capacity-data-collection?u=76281980&t=0)** - [Instructor] As we delve deeper into resource capacity management compared to service capacity management, you may expect the data involved to become more granular, and you'd be right.
 >
-> **[0:09](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/assessing-resource-capacity-data-collection?u=76281980&t=9)** Considering the impact of shared infrastructure, we need to broaden our data collection scope.
+> **[0:09](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/assessing-resource-capacity-data-collection?u=76281980&t=9)** Considering the impact of shared infrastructure, we need to broaden our [[Data Collection]] scope.
 >
 > **[0:15](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/assessing-resource-capacity-data-collection?u=76281980&t=15)** While data centers are likely the focal point for your data considerations, it's crucial to distinguish between your responsibilities and those of your data center manager, if you have one.
 >
-> **[0:25](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/assessing-resource-capacity-data-collection?u=76281980&t=25)** In most cases, you wouldn't manage the physical aspects of the number of utilized switch ports, available rack space for new hardware, or cable availability.
+> **[0:25](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/assessing-resource-capacity-data-collection?u=76281980&t=25)** In most cases, you wouldn't manage the physical aspects of the number of utilized switch ports, available rack space for new [[Hardware]], or cable availability.
 >
 > **[0:34](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/assessing-resource-capacity-data-collection?u=76281980&t=34)** These typically fall under the data center manager's purview.
 >
 > **[0:38](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/assessing-resource-capacity-data-collection?u=76281980&t=38)** To avoid any ambiguity, ensure your organization's policy documents, as discussed earlier, clearly outlines your scope of responsibilities.
 >
-> **[0:47](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/assessing-resource-capacity-data-collection?u=76281980&t=47)** Remember, ITIL 4 serves as a guideline, not a rigid drill book.
+> **[0:47](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/assessing-resource-capacity-data-collection?u=76281980&t=47)** Remember, [[ITIL]] 4 serves as a guideline, not a rigid drill book.
 >
 > **[0:51](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/assessing-resource-capacity-data-collection?u=76281980&t=51)** Your organization might require you to perform tasks typically handled by a data center manager.
 >
@@ -1005,7 +989,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/assessing-resource-capacity-data-collection?u=76281980&t=90)** Shared resources, particularly hosting servers, are likely to be managed services for multiple virtual servers utilizing shared CPU, RAM, and impacting response times.
 >
-> **[1:41](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/assessing-resource-capacity-data-collection?u=76281980&t=101)** Here, your focus shifts from service-specific servers to the physical servers hosting those virtual machines.
+> **[1:41](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/assessing-resource-capacity-data-collection?u=76281980&t=101)** Here, your focus shifts from service-specific servers to the physical servers hosting those [[Virtual Machines]].
 >
 > **[1:49](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/assessing-resource-capacity-data-collection?u=76281980&t=109)** Over-utilization of any of these resources can lead to a network latency or increase server response times, ultimately impacting customer experience and potentially causing availability issues.
 >
@@ -1017,7 +1001,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/assessing-resource-capacity-data-collection?u=76281980&t=146)** Now, imagine the number of patients that are processed, the average size of a patient's data.
 >
-> **[2:31](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/assessing-resource-capacity-data-collection?u=76281980&t=151)** You can quickly see how one service can blend data storage for an organization.
+> **[2:31](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/assessing-resource-capacity-data-collection?u=76281980&t=151)** You can quickly see how one service can blend [[Data Storage]] for an organization.
 >
 > **[2:35](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/assessing-resource-capacity-data-collection?u=76281980&t=155)** Remember, though, shared resources will also have storage requirements for data logs, for audit trails, business report, and much more.
 >
@@ -1033,7 +1017,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/assessing-resource-capacity-data-collection?u=76281980&t=215)** Remember, peak usage times for individual services?
 >
-> **[3:37](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/assessing-resource-capacity-data-collection?u=76281980&t=217)** Time series analysis comes into play here.
+> **[3:37](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/assessing-resource-capacity-data-collection?u=76281980&t=217)** [[Time Series Analysis]] comes into play here.
 >
 > **[3:40](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/assessing-resource-capacity-data-collection?u=76281980&t=220)** This analysis helps identify spikes in usage and assess whether multiple services peak simultaneously.
 >
@@ -1053,15 +1037,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), management (5), power (2), [[Hardware]] (1), [[ITIL]] (1)
+> **Frameworks & Libraries:** [[Data Collection]] (1), [[Hardware]] (1), [[ITIL]] (1), [[Virtual Machines]] (1), [[Data Storage]] (1)
 > **Env Vars:** itil (1), cpu (1), ram (1)
 > **Best Practices:** don't forget (1), remember to (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Resource monitoring: Workload balancing and consolidation
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/resource-monitoring-workload-balancing-and-consolidation?u=76281980)
+#### [Resource monitoring: Workload balancing and consolidation](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/resource-monitoring-workload-balancing-and-consolidation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1071,7 +1054,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/resource-monitoring-workload-balancing-and-consolidation?u=76281980&t=20)** As you can imagine, by not balancing workloads and your organization runs the risk of losing business and reputation and potentially money too.
 >
-> **[0:28](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/resource-monitoring-workload-balancing-and-consolidation?u=76281980&t=28)** To avoid that scenario, resource monitoring involves observing infrastructure data to identify opportunities for performance optimization, such as relocationing data processing or rescheduling tasks to avoid bottlenecks.
+> **[0:28](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/resource-monitoring-workload-balancing-and-consolidation?u=76281980&t=28)** To avoid that scenario, resource monitoring involves observing infrastructure data to identify opportunities for performance optimization, such as relocationing [[Data Processing]] or rescheduling tasks to avoid bottlenecks.
 >
 > **[0:42](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/resource-monitoring-workload-balancing-and-consolidation?u=76281980&t=42)** This is essentially workload balancing and consolidation.
 >
@@ -1125,7 +1108,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), business (2), teams (2), management (2), next (1)
+> **Frameworks & Libraries:** [[Data Processing]] (1)
 > **Analogies:** imagine (2), for example (1), such as (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
@@ -1133,12 +1116,11 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Preparing for future services
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/preparing-for-future-services?u=76281980)
+#### [Preparing for future services](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/preparing-for-future-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/preparing-for-future-services?u=76281980&t=0)** - [Instructor] As with most business services, products follow a life cycle from ideation to production and eventually retirement.
+> **[0:00](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/preparing-for-future-services?u=76281980&t=0)** - [Instructor] As with most business services, [[Microsoft Products|products]] follow a life cycle from ideation to production and eventually retirement.
 >
 > **[0:07](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/preparing-for-future-services?u=76281980&t=7)** This cycle involves evolving customer needs, new technologies and changes in infrastructure.
 >
@@ -1146,7 +1128,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/preparing-for-future-services?u=76281980&t=17)** By this stage, you've likely established a foundation of understanding for your infrastructure, including baseline performances, identifying bottlenecks, and understanding your current state.
 >
-> **[0:27](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/preparing-for-future-services?u=76281980&t=27)** Now we need to take that one step further with modeling and forecasting.
+> **[0:27](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/preparing-for-future-services?u=76281980&t=27)** Now we need to take that one step further with modeling and [[Forecasting]].
 >
 > **[0:31](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/preparing-for-future-services?u=76281980&t=31)** You might have already modeled various scenarios for increasing or decreasing demands on different infrastructure components, like CPU and storage.
 >
@@ -1184,11 +1166,11 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/preparing-for-future-services?u=76281980&t=121)** Is it critical to the risk, and do the risks reflect that, and what actions will be done to mitigate those unacceptable risks?
 >
-> **[2:09](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/preparing-for-future-services?u=76281980&t=129)** Does the service have a high data storage requirement?
+> **[2:09](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/preparing-for-future-services?u=76281980&t=129)** Does the service have a high [[Data Storage]] requirement?
 >
 > **[2:12](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/preparing-for-future-services?u=76281980&t=132)** How does this impact current storage utilization rates?
 >
-> **[2:16](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/preparing-for-future-services?u=76281980&t=136)** During this analysis, don't forget time series analysis.
+> **[2:16](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/preparing-for-future-services?u=76281980&t=136)** During this analysis, don't forget [[Time Series Analysis]].
 >
 > **[2:20](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/preparing-for-future-services?u=76281980&t=140)** This should be reflected in your future capacity forecasting.
 >
@@ -1210,25 +1192,24 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/preparing-for-future-services?u=76281980&t=199)** Adding new services and managing utilization requires careful planning and collaboration.
 >
-> **[3:24](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/preparing-for-future-services?u=76281980&t=204)** Early involvement in product development allows you to identify and address risk proactively.
+> **[3:24](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/preparing-for-future-services?u=76281980&t=204)** Early involvement in [[Product Development]] allows you to identify and address risk proactively.
 >
 > **[3:29](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/preparing-for-future-services?u=76281980&t=209)** While new products may increase resource demands, remember that some products may also change, reduce, or retire, leading to a more dynamic resource landscape.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), product (4), teams (3), [[Forecasting]] (2), management (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), [[Forecasting]] (2), [[Data Storage]] (1), [[Time Series Analysis]] (1), [[Product Development]] (1)
 > **Best Practices:** remember to (2), don't forget (1)
 > **Env Vars:** cpu (2)
 > **Analogies:** such as (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### How does it work in cloud infrastructure?
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/how-does-it-work-in-cloud-infrastructure?u=76281980)
+#### [How does it work in cloud infrastructure?](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/how-does-it-work-in-cloud-infrastructure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/how-does-it-work-in-cloud-infrastructure?u=76281980&t=0)** - [Instructor] So if you're familiar with cloud infrastructure, you may think that this, by design, would mitigate the need for having a capacity and availability manager.
+> **[0:00](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/how-does-it-work-in-cloud-infrastructure?u=76281980&t=0)** - [Instructor] So if you're familiar with [[Cloud Infrastructure]], you may think that this, by design, would mitigate the need for having a capacity and availability manager.
 >
 > **[0:09](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/how-does-it-work-in-cloud-infrastructure?u=76281980&t=9)** That's because generally in a cloud environment, it is likely there is something called auto-scaling to flex when there is more demand or when there's less demand on a service or on a component.
 >
@@ -1268,11 +1249,11 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/how-does-it-work-in-cloud-infrastructure?u=76281980&t=122)** But if it does mean managing it in a timely fashion to prevent auto-scaling, adding maybe too many resources, from a practical point of view, you will need a few tools to be able to monitor those resources.
 >
-> **[2:14](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/how-does-it-work-in-cloud-infrastructure?u=76281980&t=134)** Just remember that the metrics and performance indicators are the exact same, excluding power usage, as hardware, such as physical servers.
+> **[2:14](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/how-does-it-work-in-cloud-infrastructure?u=76281980&t=134)** Just remember that the metrics and performance indicators are the exact same, excluding power usage, as [[Hardware]], such as physical servers.
 >
 > **[2:22](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/how-does-it-work-in-cloud-infrastructure?u=76281980&t=142)** The outputs are also the same, availability, cost savings, and cost increases with change.
 >
-> **[2:30](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/how-does-it-work-in-cloud-infrastructure?u=76281980&t=150)** To be able to do this, there are various cloud tools out there to, depending on your host, AWS CloudWatch, Azure Monitor, GCP Stackdriver, amongst some.
+> **[2:30](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/how-does-it-work-in-cloud-infrastructure?u=76281980&t=150)** To be able to do this, there are various cloud tools out there to, depending on your host, AWS CloudWatch, [[Microsoft Azure|Azure]] Monitor, GCP Stackdriver, amongst some.
 >
 > **[2:40](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/how-does-it-work-in-cloud-infrastructure?u=76281980&t=160)** As ever, you may need to get direct access to those tools.
 >
@@ -1286,7 +1267,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/how-does-it-work-in-cloud-infrastructure?u=76281980&t=198)** But this is also another good indication if there is a trend of growing demand on a continually inflating, resource-hungry service.
 >
-> **[3:26](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/how-does-it-work-in-cloud-infrastructure?u=76281980&t=206)** On top of this, most of the tools also give you ability to create dashboards.
+> **[3:26](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/how-does-it-work-in-cloud-infrastructure?u=76281980&t=206)** On top of this, most of the tools also give you ability to create [[Dashboards]].
 >
 > **[3:31](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/how-does-it-work-in-cloud-infrastructure?u=76281980&t=211)** In this, you should be able to track some retrospective data too.
 >
@@ -1308,7 +1289,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (7), [[Cloud Infrastructure]] (2), teams (2), management (2), [[Hardware]] (2)
+> **Frameworks & Libraries:** [[Cloud Infrastructure]] (2), [[Hardware]] (2), [[Microsoft Azure|Azure]] (1), [[Dashboards]] (1)
 > **Analogies:** such as (4), think of it as (1), for example (1)
 > **Env Vars:** aws (1), gcp (1), sms (1), pdf (1)
 > **Definitions:** is a  (2), means that (1)
@@ -1317,8 +1298,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Running capacity sessions
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/running-capacity-sessions?u=76281980)
+#### [Running capacity sessions](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/running-capacity-sessions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1404,7 +1384,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (5), data (4), management (2), business (2), next (1)
 > **CLI Commands:** make (7), find (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
@@ -1417,8 +1396,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Metrics and reporting
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/metrics-and-reporting?u=76281980)
+#### [Metrics and reporting](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/metrics-and-reporting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1440,7 +1418,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/metrics-and-reporting?u=76281980&t=60)** Here's an example.
 >
-> **[1:03](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/metrics-and-reporting?u=76281980&t=63)** For an email service provided in October, 31 days, for a seven days a week, 365 days a year service, the service had a total uptime of 722 hours, according to your data collection.
+> **[1:03](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/metrics-and-reporting?u=76281980&t=63)** For an email service provided in October, 31 days, for a seven days a week, 365 days a year service, the service had a total uptime of 722 hours, according to your [[Data Collection]].
 >
 > **[1:17](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/metrics-and-reporting?u=76281980&t=77)** So dividing 722 hours of uptime by the total number of hours in October of 744 hours, then times that by 100 equals an availability score of 97.04%.
 >
@@ -1524,7 +1502,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), management (4), business (2), next (2)
+> **Frameworks & Libraries:** [[Data Collection]] (1)
 > **Analogies:** for example (3), such as (2), picture (1)
 > **Prerequisites:** you'll need (5)
 > **Versions:** 97.04 (1), 53.3 (1), 2191.5 (1)
@@ -1533,8 +1511,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Best Practices:** don't forget (1), remember to (1)
 
-#### Creating your reporting
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/creating-your-reporting?u=76281980)
+#### [Creating your reporting](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/creating-your-reporting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1568,7 +1545,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/creating-your-reporting?u=76281980&t=76)** Although this is the first section of the report, write it last, as you want to ensure it reflects in your findings once it's all written down on paper.
 >
-> **[1:24](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/creating-your-reporting?u=76281980&t=84)** Key performance metrics, SLA.
+> **[1:24](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/creating-your-reporting?u=76281980&t=84)** Key [[Performance Metrics]], SLA.
 >
 > **[1:27](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/creating-your-reporting?u=76281980&t=87)** Again, one of the parts your audience is most likely to be interested in is, "Have we met our SLA?"
 >
@@ -1606,7 +1583,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/creating-your-reporting?u=76281980&t=187)** Although and above you're calling out per service, how you're responding to alerts, I would also recommend actions which may be more agnostic or services to show where you are adding value across the organization.
 >
-> **[3:19](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/creating-your-reporting?u=76281980&t=199)** This includes future planning with new products and how this may impact capacity.
+> **[3:19](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/creating-your-reporting?u=76281980&t=199)** This includes future planning with new [[Microsoft Products|products]] and how this may impact capacity.
 >
 > **[3:24](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/creating-your-reporting?u=76281980&t=204)** Again, some general housekeeping of your document, such as the author, footnotes, page numbers, and, if required, contents page and appendices to all make sure your report is professional-looking and feels like it delivers value.
 >
@@ -1622,15 +1599,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), data (1), [[Performance Metrics]] (1), management (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Performance Metrics]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** sla (3), ram (1)
 > **CLI Commands:** make (3)
 > **Analogies:** think of it as (1), such as (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenges to overcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/challenges-to-overcome?u=76281980)
+#### [Challenges to overcome](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/challenges-to-overcome?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1652,7 +1628,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/challenges-to-overcome?u=76281980&t=54)** But it will be your responsibility to sell to your peers about something they should take notice of and actions.
 >
-> **[1:01](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/challenges-to-overcome?u=76281980&t=61)** The best way to overcome this challenge is with the positive messaging that actually, with a bit of investment of their time overall, this should reduce their time on outages, their own time monitoring capacity and performance, and ultimately, you ensure technology and product teams are have a smoother path to life for new products by ensuring there is capacity, or if required, plan for more capacity before it becomes a bottleneck.
+> **[1:01](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/challenges-to-overcome?u=76281980&t=61)** The best way to overcome this challenge is with the positive messaging that actually, with a bit of investment of their time overall, this should reduce their time on outages, their own time monitoring capacity and performance, and ultimately, you ensure technology and product teams are have a smoother path to life for new [[Microsoft Products|products]] by ensuring there is capacity, or if required, plan for more capacity before it becomes a bottleneck.
 >
 > **[1:27](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/challenges-to-overcome?u=76281980&t=87)** Moving away from culture.
 >
@@ -1662,7 +1638,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/challenges-to-overcome?u=76281980&t=96)** You do not need to know how every process or data flow works within your organization.
 >
-> **[1:41](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/challenges-to-overcome?u=76281980&t=101)** However, it will benefit you if you start to learn about the hardware or the cloud infrastructure to allow you to not only make more coherent discussions during your sessions, but eventually it will help you make more proactive solutions before you set up those sessions.
+> **[1:41](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/challenges-to-overcome?u=76281980&t=101)** However, it will benefit you if you start to learn about the [[Hardware]] or the [[Cloud Infrastructure]] to allow you to not only make more coherent discussions during your sessions, but eventually it will help you make more proactive solutions before you set up those sessions.
 >
 > **[1:56](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/challenges-to-overcome?u=76281980&t=116)** You can start by doing this, by taking some basic training or even asking the questions you believe are silly, but you learn from 'em.
 >
@@ -1672,7 +1648,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/challenges-to-overcome?u=76281980&t=130)** You'll make mistakes, but it's how you learn from 'em and build confidence going forward.
 >
-> **[2:15](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/challenges-to-overcome?u=76281980&t=135)** Lucky for you, you're part of LinkedIn Learning, and you'll learn there is a plethora of different courses, you'll be able to assist with.
+> **[2:15](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/challenges-to-overcome?u=76281980&t=135)** Lucky for you, you're part of [[LinkedIn]] Learning, and you'll learn there is a plethora of different courses, you'll be able to assist with.
 >
 > **[2:22](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/challenges-to-overcome?u=76281980&t=142)** This will also help you become aware of potential data sources that you're going to have to negotiate different levels of access to, to different tools.
 >
@@ -1694,7 +1670,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), teams (2), functional (1), business (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Hardware]] (1), [[Cloud Infrastructure]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (4)
 > **Cross-References:** later in (1), we talked about (1)
 > **Definitions:** is a  (2)
@@ -1706,8 +1682,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1735,7 +1710,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (5), business (1)
 > **Cross-References:** we talked about (2), we discussed (1)
 > **Prerequisites:** set up (2), you'll need (1)
 > **Speakers:** - so (1)

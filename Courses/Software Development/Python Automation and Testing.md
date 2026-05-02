@@ -87,12 +87,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-automation-and-testing/welcome?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/python-automation-and-testing/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-automation-and-testing/welcome?u=76281980&t=0)** - [Bhoomika] Welcome to Automating Web Testing with Python.
+> **[0:00](https://www.linkedin.com/learning/python-automation-and-testing/welcome?u=76281980&t=0)** - [Bhoomika] Welcome to Automating Web Testing with [[Python (Programming Language)|Python]].
 >
 > **[0:04](https://www.linkedin.com/learning/python-automation-and-testing/welcome?u=76281980&t=4)** I'm Bhoomika Agarwal, and I'm your pilot for this topic.
 >
@@ -100,7 +99,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/python-automation-and-testing/welcome?u=76281980&t=13)** If yes, you should hop onto this flight.
 >
-> **[0:16](https://www.linkedin.com/learning/python-automation-and-testing/welcome?u=76281980&t=16)** I'm a huge fan of test automation using Python Selenium for the simple reason that it's so easy to use and so powerful at the same time.
+> **[0:16](https://www.linkedin.com/learning/python-automation-and-testing/welcome?u=76281980&t=16)** I'm a huge fan of [[Test Automation]] using Python [[Selenium]] for the simple reason that it's so easy to use and so powerful at the same time.
 >
 > **[0:27](https://www.linkedin.com/learning/python-automation-and-testing/welcome?u=76281980&t=27)** The main problem with test automation is that its importance is underrated and its complexity is overrated.
 >
@@ -116,12 +115,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), [[Python (Programming Language)|Python]] (3), [[Test Automation]] (2), [[Selenium]] (2), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Test Automation]] (2), [[Selenium]] (2)
 > **CLI Commands:** python (3)
 > **Speakers:** - [bhoomika] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-automation-and-testing/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/python-automation-and-testing/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -129,9 +127,9 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/python-automation-and-testing/what-you-should-know?u=76281980&t=4)** Essentially, no prior knowledge is required.
 >
-> **[0:07](https://www.linkedin.com/learning/python-automation-and-testing/what-you-should-know?u=76281980&t=7)** However, it is good to have some knowledge of Python which covers the basics, syntax and object-oriented programming concepts.
+> **[0:07](https://www.linkedin.com/learning/python-automation-and-testing/what-you-should-know?u=76281980&t=7)** However, it is good to have some knowledge of [[Python (Programming Language)|Python]] which covers the basics, syntax and [[Object-Oriented Programming (OOP)|object-oriented programming]] concepts.
 >
-> **[0:18](https://www.linkedin.com/learning/python-automation-and-testing/what-you-should-know?u=76281980&t=18)** It is also good to have a basic working knowledge of HTML as we will be working with Web UIs.
+> **[0:18](https://www.linkedin.com/learning/python-automation-and-testing/what-you-should-know?u=76281980&t=18)** It is also good to have a basic working knowledge of [[HTML]] as we will be working with Web UIs.
 >
 > **[0:26](https://www.linkedin.com/learning/python-automation-and-testing/what-you-should-know?u=76281980&t=26)** I personally recommend you to try out the courses [[Python Essential Training]] and [[HTML Essential Training]].
 >
@@ -139,9 +137,9 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/python-automation-and-testing/what-you-should-know?u=76281980&t=39)** You are required to have Python installed on your system.
 >
-> **[0:43](https://www.linkedin.com/learning/python-automation-and-testing/what-you-should-know?u=76281980&t=43)** Python is installed by default on Linux, Mac, Ubuntu, etc.
+> **[0:43](https://www.linkedin.com/learning/python-automation-and-testing/what-you-should-know?u=76281980&t=43)** Python is installed by default on [[Linux]], Mac, [[Ubuntu]], etc.
 >
-> **[0:49](https://www.linkedin.com/learning/python-automation-and-testing/what-you-should-know?u=76281980&t=49)** On Windows, you have to install Python separately.
+> **[0:49](https://www.linkedin.com/learning/python-automation-and-testing/what-you-should-know?u=76281980&t=49)** On [[Windows]], you have to install Python separately.
 >
 > **[0:53](https://www.linkedin.com/learning/python-automation-and-testing/what-you-should-know?u=76281980&t=53)** We will be using the web ID IDLE throughout this course which comes installed by default with Python on Windows.
 >
@@ -149,14 +147,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[HTML]] (2), web (2), [[Windows]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[HTML]] (2), [[Windows]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Linux]] (1)
 > **CLI Commands:** python (6)
 > **Env Vars:** html (2), idle (1)
 > **Prerequisites:** install (2), required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-automation-and-testing/using-the-exercise-files?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/python-automation-and-testing/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -198,8 +195,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is automated testing?
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-automation-and-testing/what-is-automated-testing?u=76281980)
+#### [What is automated testing?](https://www.linkedin.com/learning/python-automation-and-testing/what-is-automated-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -207,7 +203,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/python-automation-and-testing/what-is-automated-testing?u=76281980&t=7)** Automating our test cases saves cost and time of testing while increasing the quality and test coverage.
 >
-> **[0:16](https://www.linkedin.com/learning/python-automation-and-testing/what-is-automated-testing?u=76281980&t=16)** Test automation enables continuous delivery of software by allowing quick testing around the clock.
+> **[0:16](https://www.linkedin.com/learning/python-automation-and-testing/what-is-automated-testing?u=76281980&t=16)** [[Test Automation]] enables [[Continuous Delivery (CD)|continuous delivery]] of software by allowing quick testing around the clock.
 >
 > **[0:24](https://www.linkedin.com/learning/python-automation-and-testing/what-is-automated-testing?u=76281980&t=24)** Also, it enables faster regression testing that may be required after debugging or upon further development of software.
 >
@@ -223,7 +219,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/python-automation-and-testing/what-is-automated-testing?u=76281980&t=69)** A unit test can pinpoint bugs in code to the level of the line where it has occurred.
 >
-> **[1:16](https://www.linkedin.com/learning/python-automation-and-testing/what-is-automated-testing?u=76281980&t=76)** They are used to test small pieces of code, and hence, can not be used for integration testing or system testing.
+> **[1:16](https://www.linkedin.com/learning/python-automation-and-testing/what-is-automated-testing?u=76281980&t=76)** They are used to test small pieces of code, and hence, can not be used for [[Integration Testing]] or system testing.
 >
 > **[1:25](https://www.linkedin.com/learning/python-automation-and-testing/what-is-automated-testing?u=76281980&t=85)** Let's skip to the UI layer of the pyramid and look at it next.
 >
@@ -259,30 +255,29 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/python-automation-and-testing/what-is-automated-testing?u=76281980&t=214)** In this course, we will look at the top most layer of the pyramid, that is the UI layer.
 >
-> **[3:42](https://www.linkedin.com/learning/python-automation-and-testing/what-is-automated-testing?u=76281980&t=222)** Python provides many in built libraries for automated web testing.
+> **[3:42](https://www.linkedin.com/learning/python-automation-and-testing/what-is-automated-testing?u=76281980&t=222)** [[Python (Programming Language)|Python]] provides many in built libraries for automated web testing.
 >
-> **[3:47](https://www.linkedin.com/learning/python-automation-and-testing/what-is-automated-testing?u=76281980&t=227)** For unit testing and API testing, the Python library's unittest, pytest, and nose provide support for UI level testing.
+> **[3:47](https://www.linkedin.com/learning/python-automation-and-testing/what-is-automated-testing?u=76281980&t=227)** For [[Unit Testing]] and [[API Testing]], the Python library's unittest, pytest, and nose provide support for UI level testing.
 >
-> **[3:56](https://www.linkedin.com/learning/python-automation-and-testing/what-is-automated-testing?u=76281980&t=236)** Selenium and Python are commonly used.
+> **[3:56](https://www.linkedin.com/learning/python-automation-and-testing/what-is-automated-testing?u=76281980&t=236)** [[Selenium]] and Python are commonly used.
 >
 > **[3:59](https://www.linkedin.com/learning/python-automation-and-testing/what-is-automated-testing?u=76281980&t=239)** In this course we will explore automated web testing at the UI level using Selenium and Python.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[Python (Programming Language)|Python]] (4), api (3), [[Test Automation]] (2), web (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Test Automation]] (2), [[Selenium]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Integration Testing]] (1)
 > **CLI Commands:** python (4)
 > **Env Vars:** api (3)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Python-Selenium bindings
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-automation-and-testing/python-selenium-bindings?u=76281980)
+#### [Python-Selenium bindings](https://www.linkedin.com/learning/python-automation-and-testing/python-selenium-bindings?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-automation-and-testing/python-selenium-bindings?u=76281980&t=0)** - [Instructor] As the tagline of Selenium states, Selenium automates browsers.
+> **[0:00](https://www.linkedin.com/learning/python-automation-and-testing/python-selenium-bindings?u=76281980&t=0)** - [Instructor] As the tagline of [[Selenium]] states, Selenium automates browsers.
 >
-> **[0:05](https://www.linkedin.com/learning/python-automation-and-testing/python-selenium-bindings?u=76281980&t=5)** In testing it is used for the functional and integration testing.
+> **[0:05](https://www.linkedin.com/learning/python-automation-and-testing/python-selenium-bindings?u=76281980&t=5)** In testing it is used for the functional and [[Integration Testing]].
 >
 > **[0:10](https://www.linkedin.com/learning/python-automation-and-testing/python-selenium-bindings?u=76281980&t=10)** Selenium is primarily used for web UI automation which is the automatic execution of the actions performed in a web browser window by a user.
 >
@@ -290,7 +285,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/python-automation-and-testing/python-selenium-bindings?u=76281980&t=25)** Selenium is also used to scale tests to multiple browsers and environments using the Selenium grid.
 >
-> **[0:35](https://www.linkedin.com/learning/python-automation-and-testing/python-selenium-bindings?u=76281980&t=35)** The Python Selenium bindings are used to leverage the power of the Selenium WebDriver through Python.
+> **[0:35](https://www.linkedin.com/learning/python-automation-and-testing/python-selenium-bindings?u=76281980&t=35)** The [[Python (Programming Language)|Python]] Selenium bindings are used to leverage the power of the Selenium WebDriver through Python.
 >
 > **[0:42](https://www.linkedin.com/learning/python-automation-and-testing/python-selenium-bindings?u=76281980&t=42)** The main motive is to access all the functionalities of the Selenium web driver in an intuitive way.
 >
@@ -300,7 +295,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/python-automation-and-testing/python-selenium-bindings?u=76281980&t=62)** In order to install Selenium you are required to have Python installed along with Pip which is Python's package installation manager.
 >
-> **[1:11](https://www.linkedin.com/learning/python-automation-and-testing/python-selenium-bindings?u=76281980&t=71)** In case you do not have Python installed on your Windows machine, you can follow these steps to install it.
+> **[1:11](https://www.linkedin.com/learning/python-automation-and-testing/python-selenium-bindings?u=76281980&t=71)** In case you do not have Python installed on your [[Windows]] machine, you can follow these steps to install it.
 >
 > **[1:19](https://www.linkedin.com/learning/python-automation-and-testing/python-selenium-bindings?u=76281980&t=79)** While installing Python on Windows using the MSI given here, there's an option that you can check to add Python to the path environment variable.
 >
@@ -348,7 +343,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Selenium]] (19), [[Python (Programming Language)|Python]] (15), web (3), [[Windows]] (2), functional (1)
+> **Frameworks & Libraries:** [[Selenium]] (19), [[Python (Programming Language)|Python]] (15), [[Windows]] (2), [[Integration Testing]] (1)
 > **CLI Commands:** python (15), pip (5)
 > **Prerequisites:** install (7)
 > **Tools:** firefox (2)
@@ -357,12 +352,11 @@ created: 2026-05-02
 > **Env Vars:** msi (1)
 > **UI Navigation:** go to (1)
 
-#### A simple code example
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-automation-and-testing/a-simple-code-example?u=76281980)
+#### [A simple code example](https://www.linkedin.com/learning/python-automation-and-testing/a-simple-code-example?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-automation-and-testing/a-simple-code-example?u=76281980&t=0)** - [Instructor] Let's take a quick run through a simple code example to get a better idea of how the Python Selenium bindings work.
+> **[0:00](https://www.linkedin.com/learning/python-automation-and-testing/a-simple-code-example?u=76281980&t=0)** - [Instructor] Let's take a quick run through a simple code example to get a better idea of how the [[Python (Programming Language)|Python]] [[Selenium]] bindings work.
 >
 > **[0:08](https://www.linkedin.com/learning/python-automation-and-testing/a-simple-code-example?u=76281980&t=8)** I'll head over to the exercise files where I go to chapter 1 and do the third video.
 >
@@ -388,15 +382,15 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/python-automation-and-testing/a-simple-code-example?u=76281980&t=57)** And for after eight seconds, the browser window closes.
 >
-> **[1:01](https://www.linkedin.com/learning/python-automation-and-testing/a-simple-code-example?u=76281980&t=61)** This test script is just the tip of the iceberg with regards to what test automation using selenium can do for you.
+> **[1:01](https://www.linkedin.com/learning/python-automation-and-testing/a-simple-code-example?u=76281980&t=61)** This test script is just the tip of the iceberg with regards to what [[Test Automation]] using selenium can do for you.
 >
-> **[1:10](https://www.linkedin.com/learning/python-automation-and-testing/a-simple-code-example?u=76281980&t=70)** In order to be able to write your own automation test scripts, it is essential to understand the HTML dom structure and how to pass it.
+> **[1:10](https://www.linkedin.com/learning/python-automation-and-testing/a-simple-code-example?u=76281980&t=70)** In order to be able to write your own automation test scripts, it is essential to understand the [[HTML]] dom structure and how to pass it.
 >
 > **[1:20](https://www.linkedin.com/learning/python-automation-and-testing/a-simple-code-example?u=76281980&t=80)** We will look at this in the next chapter.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Search]] (4), [[Selenium]] (2), [[Test Automation]] (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Selenium]] (2), [[Test Automation]] (1), [[HTML]] (1)
 > **CLI Commands:** python (4)
 > **Env Vars:** idle (1), html (1)
 > **UI Navigation:** go to (1), open the (1)
@@ -405,12 +399,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cross-browser support
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-automation-and-testing/cross-browser-support-2?u=76281980)
+#### [Cross-browser support](https://www.linkedin.com/learning/python-automation-and-testing/cross-browser-support-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-automation-and-testing/cross-browser-support-2?u=76281980&t=0)** - The Selenium WebDriver supports various browsers including Firefox, Chrome, Internet Explorer, and Safari.
+> **[0:00](https://www.linkedin.com/learning/python-automation-and-testing/cross-browser-support-2?u=76281980&t=0)** - The [[Selenium]] WebDriver supports various browsers including Firefox, Chrome, Internet Explorer, and Safari.
 >
 > **[0:09](https://www.linkedin.com/learning/python-automation-and-testing/cross-browser-support-2?u=76281980&t=9)** This is useful when you want to run a single script on multiple browsers to ensure that your code is compatible with all the browsers available.
 >
@@ -418,7 +411,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/python-automation-and-testing/cross-browser-support-2?u=76281980&t=24)** Here since we're checking for web UI support we're going to check cross-browser compatibility in specific.
 >
-> **[0:31](https://www.linkedin.com/learning/python-automation-and-testing/cross-browser-support-2?u=76281980&t=31)** In the case of Firefox, the FirefoxDriver binary needs to be installed separately from the Python site and added to the system path.
+> **[0:31](https://www.linkedin.com/learning/python-automation-and-testing/cross-browser-support-2?u=76281980&t=31)** In the case of Firefox, the FirefoxDriver binary needs to be installed separately from the [[Python (Programming Language)|Python]] site and added to the system path.
 >
 > **[0:41](https://www.linkedin.com/learning/python-automation-and-testing/cross-browser-support-2?u=76281980&t=41)** An instance of Firefox browser can be created through your code using the following line.
 >
@@ -426,7 +419,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/python-automation-and-testing/cross-browser-support-2?u=76281980&t=51)** Let me quickly shift to the browser and show you how the Firefox binary can be installed and added to your system path.
 >
-> **[1:00](https://www.linkedin.com/learning/python-automation-and-testing/cross-browser-support-2?u=76281980&t=60)** The binaries for the various web drivers provided by Selenium can be installed from the following site selenium-python.[readthedocs.io/installation.html](https://readthedocs.io/installation.html).
+> **[1:00](https://www.linkedin.com/learning/python-automation-and-testing/cross-browser-support-2?u=76281980&t=60)** The binaries for the various web drivers provided by Selenium can be installed from the following site selenium-python.[readthedocs.io/installation.[[HTML]]](https://readthedocs.io/installation.html).
 >
 > **[1:12](https://www.linkedin.com/learning/python-automation-and-testing/cross-browser-support-2?u=76281980&t=72)** The driver is available for Chrome, Edge, Firefox, and Safari.
 >
@@ -434,7 +427,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/python-automation-and-testing/cross-browser-support-2?u=76281980&t=85)** Let me show you how to do that as well.
 >
-> **[1:28](https://www.linkedin.com/learning/python-automation-and-testing/cross-browser-support-2?u=76281980&t=88)** For Windows, you need to go to your PC, right click, go to Properties, go to Advanced Systems settings, Environment Variables.
+> **[1:28](https://www.linkedin.com/learning/python-automation-and-testing/cross-browser-support-2?u=76281980&t=88)** For [[Windows]], you need to go to your PC, right click, go to Properties, go to Advanced Systems settings, Environment Variables.
 >
 > **[1:39](https://www.linkedin.com/learning/python-automation-and-testing/cross-browser-support-2?u=76281980&t=99)** You will see a path environment variable.
 >
@@ -456,7 +449,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/python-automation-and-testing/cross-browser-support-2?u=76281980&t=164)** This is the only line that needs to be changed.
 >
-> **[2:47](https://www.linkedin.com/learning/python-automation-and-testing/cross-browser-support-2?u=76281980&t=167)** The rest of your code remains the same.
+> **[2:47](https://www.linkedin.com/learning/python-automation-and-testing/cross-browser-support-2?u=76281980&t=167)** The [[Representational State Transfer (REST)|rest]] of your code remains the same.
 >
 > **[2:49](https://www.linkedin.com/learning/python-automation-and-testing/cross-browser-support-2?u=76281980&t=169)** So I navigate my site, [seleniumhq.org](https://seleniumhq.org), and I can add a time, width of two seconds, and then close my driver.
 >
@@ -486,7 +479,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Selenium]] (4), web (2), [[Python (Programming Language)|Python]] (2), [[HTML]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Selenium]] (4), [[Python (Programming Language)|Python]] (2), [[HTML]] (1), [[Windows]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Tools:** firefox (9), safari (2)
 > **CLI Commands:** python (2), make (1)
 > **UI Navigation:** go to (3)
@@ -494,12 +487,11 @@ created: 2026-05-02
 > **File Paths:** selenium-python.readthedocs.io/installation.html (1)
 > **Speakers:** - the (1)
 
-#### Cross-browser support
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-automation-and-testing/cross-browser-support-8632025?u=76281980)
+#### [Cross-browser support](https://www.linkedin.com/learning/python-automation-and-testing/cross-browser-support-8632025?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/python-automation-and-testing/cross-browser-support-8632025?u=76281980&t=1)** - [Iinstructor] The Selenium WebDriver supports various browsers including Firefox, Chrome, Internet Explorer, and Safari.
+> **[0:01](https://www.linkedin.com/learning/python-automation-and-testing/cross-browser-support-8632025?u=76281980&t=1)** - [Iinstructor] The [[Selenium]] WebDriver supports various browsers including Firefox, Chrome, Internet Explorer, and Safari.
 >
 > **[0:12](https://www.linkedin.com/learning/python-automation-and-testing/cross-browser-support-8632025?u=76281980&t=12)** This is useful when you want to run a single script on multiple browsers to ensure that your code is compatible with all available browsers.
 >
@@ -511,7 +503,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/python-automation-and-testing/cross-browser-support-8632025?u=76281980&t=56)** This can then be accessed using the line, driver = webdriver.Firefox().
 >
-> **[1:03](https://www.linkedin.com/learning/python-automation-and-testing/cross-browser-support-8632025?u=76281980&t=63)** Let's quickly go to the Selenium Python documentation see how to install these drivers and then place them in the system path.
+> **[1:03](https://www.linkedin.com/learning/python-automation-and-testing/cross-browser-support-8632025?u=76281980&t=63)** Let's quickly go to the Selenium [[Python (Programming Language)|Python]] documentation see how to install these drivers and then place them in the system path.
 >
 > **[1:15](https://www.linkedin.com/learning/python-automation-and-testing/cross-browser-support-8632025?u=76281980&t=75)** The drivers for different browsers can be installed from this webpage, seleniumpython.[readthedocs.io/installation](https://readthedocs.io/installation).
 >
@@ -519,7 +511,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/python-automation-and-testing/cross-browser-support-8632025?u=76281980&t=96)** Once we have downloaded these drivers, we need to place them in the path environment variable.
 >
-> **[1:44](https://www.linkedin.com/learning/python-automation-and-testing/cross-browser-support-8632025?u=76281980&t=104)** Let me quickly switch over to the windows file explorer and show you how to do that.
+> **[1:44](https://www.linkedin.com/learning/python-automation-and-testing/cross-browser-support-8632025?u=76281980&t=104)** Let me quickly switch over to the [[Windows]] file explorer and show you how to do that.
 >
 > **[1:51](https://www.linkedin.com/learning/python-automation-and-testing/cross-browser-support-8632025?u=76281980&t=111)** So here in the windows file explorer, we right click, go to properties, advanced system settings, and then we can see a button for environment variables.
 >
@@ -565,7 +557,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Selenium]] (5), web (2), [[Windows]] (2), [[Automation]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Selenium]] (5), [[Windows]] (2), [[Python (Programming Language)|Python]] (1)
 > **Tools:** firefox (6), safari (2)
 > **UI Navigation:** go to (2), click on (1), switch to (1)
 > **Prerequisites:** install (2), set up (1)
@@ -578,12 +570,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is the HTML DOM structure?
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-automation-and-testing/what-is-the-html-dom-structure?u=76281980)
+#### [What is the HTML DOM structure?](https://www.linkedin.com/learning/python-automation-and-testing/what-is-the-html-dom-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-automation-and-testing/what-is-the-html-dom-structure?u=76281980&t=0)** - [Instructor] The HTML document object model, or the HTML DOM defines the standard way for accessing and manipulating HTML documents.
+> **[0:00](https://www.linkedin.com/learning/python-automation-and-testing/what-is-the-html-dom-structure?u=76281980&t=0)** - [Instructor] The [[HTML]] [[Document Object Model (DOM)|document object model]], or the HTML DOM defines the standard way for accessing and manipulating HTML documents.
 >
 > **[0:09](https://www.linkedin.com/learning/python-automation-and-testing/what-is-the-html-dom-structure?u=76281980&t=9)** In the document object model, documents have a logical structure which is very much like a tree.
 >
@@ -607,17 +598,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (6), dom (5), node (4), [[Document Object Model (DOM)|Document object model]] (2)
+> **Frameworks & Libraries:** [[HTML]] (6), [[Document Object Model (DOM)|Document object model]] (2)
 > **Env Vars:** html (6), dom (5)
 > **CLI Commands:** node (4)
 > **Speakers:** - [instructor] (1)
 
-#### Locating elements by ID
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-automation-and-testing/locating-elements-by-id?u=76281980)
+#### [Locating elements by ID](https://www.linkedin.com/learning/python-automation-and-testing/locating-elements-by-id?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-automation-and-testing/locating-elements-by-id?u=76281980&t=0)** - [Instructor] The very first step in test automation is to locate HTML elements.
+> **[0:00](https://www.linkedin.com/learning/python-automation-and-testing/locating-elements-by-id?u=76281980&t=0)** - [Instructor] The very first step in [[Test Automation]] is to locate [[HTML]] elements.
 >
 > **[0:06](https://www.linkedin.com/learning/python-automation-and-testing/locating-elements-by-id?u=76281980&t=6)** Let's take a look at locating elements using the id attribute along with a code example for the same.
 >
@@ -637,7 +627,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/python-automation-and-testing/locating-elements-by-id?u=76281980&t=74)** As you can see, we have a form element with id loginform.
 >
-> **[1:18](https://www.linkedin.com/learning/python-automation-and-testing/locating-elements-by-id?u=76281980&t=78)** We'll be writing a python script to locate this form element.
+> **[1:18](https://www.linkedin.com/learning/python-automation-and-testing/locating-elements-by-id?u=76281980&t=78)** We'll be writing a [[Python (Programming Language)|python]] script to locate this form element.
 >
 > **[1:24](https://www.linkedin.com/learning/python-automation-and-testing/locating-elements-by-id?u=76281980&t=84)** I'm going to head over to the exercise files again and run this script to see what the HTML file looks like in the browser.
 >
@@ -655,7 +645,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/python-automation-and-testing/locating-elements-by-id?u=76281980&t=128)** In this file let's start writing our script.
 >
-> **[2:13](https://www.linkedin.com/learning/python-automation-and-testing/locating-elements-by-id?u=76281980&t=133)** So the very first thing that we need to remember for any Selenium script is to import the web driver from selenium.
+> **[2:13](https://www.linkedin.com/learning/python-automation-and-testing/locating-elements-by-id?u=76281980&t=133)** So the very first thing that we need to remember for any [[Selenium]] script is to import the web driver from selenium.
 >
 > **[2:21](https://www.linkedin.com/learning/python-automation-and-testing/locating-elements-by-id?u=76281980&t=141)** So this line imports the web driver which is used to control the browser instance.
 >
@@ -713,7 +703,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (10), [[Python (Programming Language)|Python]] (5), web (5), [[Selenium]] (4), [[Test Automation]] (1)
+> **Frameworks & Libraries:** [[HTML]] (10), [[Python (Programming Language)|Python]] (5), [[Selenium]] (4), [[Test Automation]] (1)
 > **Env Vars:** html (10), idle (2)
 > **CLI Commands:** python (5)
 > **Tools:** firefox (4), sublime (1)
@@ -722,8 +712,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (2)
 > **Definitions:** is called (1)
 
-#### Locating elements by name
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-automation-and-testing/locating-elements-by-name?u=76281980)
+#### [Locating elements by name](https://www.linkedin.com/learning/python-automation-and-testing/locating-elements-by-name?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -731,9 +720,9 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/python-automation-and-testing/locating-elements-by-name?u=76281980&t=4)** Let's take a look at this along with the code example.
 >
-> **[0:08](https://www.linkedin.com/learning/python-automation-and-testing/locating-elements-by-name?u=76281980&t=8)** The HTML name attribute specifies a name for an HTML element.
+> **[0:08](https://www.linkedin.com/learning/python-automation-and-testing/locating-elements-by-name?u=76281980&t=8)** The [[HTML]] name attribute specifies a name for an HTML element.
 >
-> **[0:13](https://www.linkedin.com/learning/python-automation-and-testing/locating-elements-by-name?u=76281980&t=13)** It does not have to be unique in a document and the name attribute is usually used in forms to reference the element when the data is submitted.
+> **[0:13](https://www.linkedin.com/learning/python-automation-and-testing/locating-elements-by-name?u=76281980&t=13)** It does not have to be unique in a document and the name attribute is usually used in [[Forms]] to reference the element when the data is submitted.
 >
 > **[0:25](https://www.linkedin.com/learning/python-automation-and-testing/locating-elements-by-name?u=76281980&t=25)** This is commonly used for logging into a website with a username and password.
 >
@@ -747,13 +736,13 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/python-automation-and-testing/locating-elements-by-name?u=76281980&t=58)** I'm going to copy this, so we can use this in our code.
 >
-> **[1:02](https://www.linkedin.com/learning/python-automation-and-testing/locating-elements-by-name?u=76281980&t=62)** Now, I'll head over to the Python script that we used in our previous video.
+> **[1:02](https://www.linkedin.com/learning/python-automation-and-testing/locating-elements-by-name?u=76281980&t=62)** Now, I'll head over to the [[Python (Programming Language)|Python]] script that we used in our previous video.
 >
 > **[1:07](https://www.linkedin.com/learning/python-automation-and-testing/locating-elements-by-name?u=76281980&t=67)** So here, I am going to first change the name of the variable to username.
 >
 > **[1:15](https://www.linkedin.com/learning/python-automation-and-testing/locating-elements-by-name?u=76281980&t=75)** And now I need a method to look at elements by name.
 >
-> **[1:19](https://www.linkedin.com/learning/python-automation-and-testing/locating-elements-by-name?u=76281980&t=79)** So in Python Python Selenium, that method is simply called find element by name, pretty intuitive again.
+> **[1:19](https://www.linkedin.com/learning/python-automation-and-testing/locating-elements-by-name?u=76281980&t=79)** So in Python Python [[Selenium]], that method is simply called find element by name, pretty intuitive again.
 >
 > **[1:25](https://www.linkedin.com/learning/python-automation-and-testing/locating-elements-by-name?u=76281980&t=85)** Here I will paste the username that I copied and I'm also going to change my print statements.
 >
@@ -767,14 +756,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), [[Python (Programming Language)|Python]] (4), [[Selenium]] (2), [[Forms]] (1), data (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[Python (Programming Language)|Python]] (4), [[Selenium]] (2), [[Forms]] (1)
 > **CLI Commands:** python (4), find (1)
 > **Env Vars:** html (4)
 > **Cross-References:** previous video (2)
 > **Speakers:** - [instructor] (1)
 
-#### Locating elements by XPath
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-automation-and-testing/locating-elements-by-xpath?u=76281980)
+#### [Locating elements by XPath](https://www.linkedin.com/learning/python-automation-and-testing/locating-elements-by-xpath?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -786,7 +774,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/python-automation-and-testing/locating-elements-by-xpath?u=76281980&t=16)** It uses path expressions to identify and navigate nodes in an XML document.
 >
-> **[0:23](https://www.linkedin.com/learning/python-automation-and-testing/locating-elements-by-xpath?u=76281980&t=23)** As HTML is an implementation of XML, the power of XPath can be extended to HTML.
+> **[0:23](https://www.linkedin.com/learning/python-automation-and-testing/locating-elements-by-xpath?u=76281980&t=23)** As [[HTML]] is an implementation of XML, the power of XPath can be extended to HTML.
 >
 > **[0:31](https://www.linkedin.com/learning/python-automation-and-testing/locating-elements-by-xpath?u=76281980&t=31)** These path expressions look very much like the path expressions that we use in traditional computer file systems.
 >
@@ -868,11 +856,11 @@ created: 2026-05-02
 >
 > **[5:58](https://www.linkedin.com/learning/python-automation-and-testing/locating-elements-by-xpath?u=76281980&t=358)** That is, you use it only when a specific ID, or name, or class attribute is not available, and also if you are using an XPath it's always more advisable to use a relative one over an absolute one.
 >
-> **[6:13](https://www.linkedin.com/learning/python-automation-and-testing/locating-elements-by-xpath?u=76281980&t=373)** So this is how you locate elements using XPath in Python Selene.
+> **[6:13](https://www.linkedin.com/learning/python-automation-and-testing/locating-elements-by-xpath?u=76281980&t=373)** So this is how you locate elements using XPath in [[Python (Programming Language)|Python]] Selene.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (5), node (5), power (1), application (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[HTML]] (5), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** node (5), find (2), make (1), python (1)
 > **Env Vars:** html (5), xml (3)
 > **Code Identifiers:** login_form_absolute (2), loginform (1), login_form (1), login_form_relative (1), find_element_by_xpath (1)
@@ -880,8 +868,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Locating elements by class
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-automation-and-testing/locating-elements-by-class?u=76281980)
+#### [Locating elements by class](https://www.linkedin.com/learning/python-automation-and-testing/locating-elements-by-class?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -889,7 +876,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/python-automation-and-testing/locating-elements-by-class?u=76281980&t=8)** Let's take a look at this along with a code example.
 >
-> **[0:10](https://www.linkedin.com/learning/python-automation-and-testing/locating-elements-by-class?u=76281980&t=10)** The HTML class attribute specifies one or more class names for an HTML element.
+> **[0:10](https://www.linkedin.com/learning/python-automation-and-testing/locating-elements-by-class?u=76281980&t=10)** The [[HTML]] class attribute specifies one or more class names for an HTML element.
 >
 > **[0:19](https://www.linkedin.com/learning/python-automation-and-testing/locating-elements-by-class?u=76281980&t=19)** These class names are used to point to a calls in a stylesheet.
 >
@@ -909,7 +896,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/python-automation-and-testing/locating-elements-by-class?u=76281980&t=80)** Since we do not need multiple elements, I'll delete the first two, and let's rename this login_form element to content since we're looking at the content class.
 >
-> **[1:31](https://www.linkedin.com/learning/python-automation-and-testing/locating-elements-by-class?u=76281980&t=91)** The method to locate elements using class name in Python is called class, find_element_by_class_name.
+> **[1:31](https://www.linkedin.com/learning/python-automation-and-testing/locating-elements-by-class?u=76281980&t=91)** The method to locate elements using class name in [[Python (Programming Language)|Python]] is called class, find_element_by_class_name.
 >
 > **[1:40](https://www.linkedin.com/learning/python-automation-and-testing/locating-elements-by-class?u=76281980&t=100)** Again it's pretty intuitive and here I'll add the class name that we have copied from the HTML file and let's place that here, and format this properly.
 >
@@ -927,11 +914,11 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/python-automation-and-testing/locating-elements-by-class?u=76281980&t=173)** But generally these are the most frequently used one, and they're a good thing to have in your tool bag.
 >
-> **[3:00](https://www.linkedin.com/learning/python-automation-and-testing/locating-elements-by-class?u=76281980&t=180)** This is how we use the class attribute to locate elements in Python selenium.
+> **[3:00](https://www.linkedin.com/learning/python-automation-and-testing/locating-elements-by-class?u=76281980&t=180)** This is how we use the class attribute to locate elements in Python [[Selenium]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), [[Python (Programming Language)|Python]] (2), css (1), [[Selenium]] (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[Python (Programming Language)|Python]] (2), [[Selenium]] (1)
 > **Env Vars:** html (4), css (1)
 > **CLI Commands:** python (2)
 > **Code Identifiers:** login_form (1), find_element_by_class_name (1)
@@ -940,8 +927,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-automation-and-testing/challenge?u=76281980)
+#### [Challenge](https://www.linkedin.com/learning/python-automation-and-testing/challenge?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -953,7 +939,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/python-automation-and-testing/challenge?u=76281980&t=22)** The first step that I want you to do is head over to the site [seleniumhq.org](https://seleniumhq.org), so let's head over to the site and see what it looks like.
 >
-> **[0:33](https://www.linkedin.com/learning/python-automation-and-testing/challenge?u=76281980&t=33)** This is the site [seleniumhq.org](https://seleniumhq.org) which is the official Selenium site.
+> **[0:33](https://www.linkedin.com/learning/python-automation-and-testing/challenge?u=76281980&t=33)** This is the site [seleniumhq.org](https://seleniumhq.org) which is the official [[Selenium]] site.
 >
 > **[0:39](https://www.linkedin.com/learning/python-automation-and-testing/challenge?u=76281980&t=39)** In this site, let's do the following.
 >
@@ -977,13 +963,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Selenium]] (3), next (1)
+> **Frameworks & Libraries:** [[Selenium]] (3)
 > **URLs:** [seleniumhq.org](https://seleniumhq.org) (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-automation-and-testing/solution?u=76281980)
+#### [Solution](https://www.linkedin.com/learning/python-automation-and-testing/solution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -993,7 +978,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/python-automation-and-testing/solution?u=76281980&t=19)** So we start off, I'm going to open the code editor directly, and we go through the first step so.
 >
-> **[0:27](https://www.linkedin.com/learning/python-automation-and-testing/solution?u=76281980&t=27)** As with every Python Selenium script, we have to import the web driver first.
+> **[0:27](https://www.linkedin.com/learning/python-automation-and-testing/solution?u=76281980&t=27)** As with every [[Python (Programming Language)|Python]] [[Selenium]] script, we have to import the web driver first.
 >
 > **[0:32](https://www.linkedin.com/learning/python-automation-and-testing/solution?u=76281980&t=32)** So once that is done, I open a driver window.
 >
@@ -1033,7 +1018,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/python-automation-and-testing/solution?u=76281980&t=164)** There are many ways to find the xpath.
 >
-> **[2:47](https://www.linkedin.com/learning/python-automation-and-testing/solution?u=76281980&t=167)** One way to do it would be the absolute xpath which would go right from the HTML up to the H2.
+> **[2:47](https://www.linkedin.com/learning/python-automation-and-testing/solution?u=76281980&t=167)** One way to do it would be the absolute xpath which would go right from the [[HTML]] up to the H2.
 >
 > **[2:54](https://www.linkedin.com/learning/python-automation-and-testing/solution?u=76281980&t=174)** This can be a little tricky in case the folder structure changes, so I would advise you against it.
 >
@@ -1083,7 +1068,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), [[Selenium]] (4), [[Python (Programming Language)|Python]] (1), web (1), dom (1)
+> **Frameworks & Libraries:** [[Selenium]] (4), [[Python (Programming Language)|Python]] (1), [[HTML]] (1)
 > **CLI Commands:** find (13), python (1)
 > **UI Navigation:** navigate to (3), open the (2), select the (1), right-click (1)
 > **Env Vars:** dom (1), html (1)
@@ -1091,8 +1076,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-automation-and-testing/challenge-8631231?u=76281980)
+#### [Challenge](https://www.linkedin.com/learning/python-automation-and-testing/challenge-8631231?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1100,7 +1084,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/python-automation-and-testing/challenge-8631231?u=76281980&t=20)** In this challenge, I have five steps for you, that should take you all of five minutes to do overall.
 >
-> **[0:29](https://www.linkedin.com/learning/python-automation-and-testing/challenge-8631231?u=76281980&t=29)** The first step that I want you to do is navigate to the website, [selenium.dev](https://selenium.dev).
+> **[0:29](https://www.linkedin.com/learning/python-automation-and-testing/challenge-8631231?u=76281980&t=29)** The first step that I want you to do is navigate to the website, [[[Selenium]].dev](https://selenium.dev).
 >
 > **[0:37](https://www.linkedin.com/learning/python-automation-and-testing/challenge-8631231?u=76281980&t=37)** Let's head over to the site quickly and see what it looks like.
 >
@@ -1122,15 +1106,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Selenium]] (5), next (1)
+> **Frameworks & Libraries:** [[Selenium]] (5)
 > **URLs:** [selenium.dev](https://selenium.dev) (2)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** navigate to (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-automation-and-testing/solution-8629403?u=76281980)
+#### [Solution](https://www.linkedin.com/learning/python-automation-and-testing/solution-8629403?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1138,7 +1121,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/python-automation-and-testing/solution-8629403?u=76281980&t=15)** To start off, I'm going to open the code editor directly and let's jump right into the first step.
 >
-> **[0:23](https://www.linkedin.com/learning/python-automation-and-testing/solution-8629403?u=76281980&t=23)** As with all our code, I'm going to start off with importing the webdriver from selenium.
+> **[0:23](https://www.linkedin.com/learning/python-automation-and-testing/solution-8629403?u=76281980&t=23)** As with all our code, I'm going to start off with importing the webdriver from [[Selenium]].
 >
 > **[0:31](https://www.linkedin.com/learning/python-automation-and-testing/solution-8629403?u=76281980&t=31)** So from selenium import webdriver and the next thing I'm going to do is create an instance of Firefox using this webdriver with webdriver.Firefox.
 >
@@ -1186,7 +1169,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/python-automation-and-testing/solution-8629403?u=76281980&t=210)** There are many ways to find the xpath.
 >
-> **[3:33](https://www.linkedin.com/learning/python-automation-and-testing/solution-8629403?u=76281980&t=213)** One way to do it, would be to use the absolute xpath, which goes right from the HTML element up to the h1 heading element.
+> **[3:33](https://www.linkedin.com/learning/python-automation-and-testing/solution-8629403?u=76281980&t=213)** One way to do it, would be to use the absolute xpath, which goes right from the [[HTML]] element up to the h1 heading element.
 >
 > **[3:43](https://www.linkedin.com/learning/python-automation-and-testing/solution-8629403?u=76281980&t=223)** This can be a little tricky in case the folder structure changes and it would break the entire code.
 >
@@ -1236,7 +1219,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Selenium]] (6), next (2), [[HTML]] (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Selenium]] (6), [[HTML]] (1)
 > **CLI Commands:** find (6), make (1)
 > **Code Identifiers:** element_id (1), find_element_by_id (1), element_name (1), find_element_by_name (1), element_xpath (1)
 > **UI Navigation:** open the (2), navigate to (1), go to (1)
@@ -1245,8 +1228,7 @@ created: 2026-05-02
 > **URLs:** [https://selenium.dev](https://selenium.dev) (1)
 > **Definitions:** is a  (1)
 
-#### Challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-automation-and-testing/challenge-23476214?u=76281980)
+#### [Challenge](https://www.linkedin.com/learning/python-automation-and-testing/challenge-23476214?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1256,7 +1238,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/python-automation-and-testing/challenge-23476214?u=76281980&t=19)** In this challenge, I have five steps for you that should take you all five minutes to do overall.
 >
-> **[0:26](https://www.linkedin.com/learning/python-automation-and-testing/challenge-23476214?u=76281980&t=26)** The first step that I want you to do is go to the Python website, [python.org](https://python.org).
+> **[0:26](https://www.linkedin.com/learning/python-automation-and-testing/challenge-23476214?u=76281980&t=26)** The first step that I want you to do is go to the [[Python (Programming Language)|Python]] website, [python.org](https://python.org).
 >
 > **[0:32](https://www.linkedin.com/learning/python-automation-and-testing/challenge-23476214?u=76281980&t=32)** Let's head over to the site quickly and see what it looks like.
 >
@@ -1278,15 +1260,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Search]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5)
 > **CLI Commands:** python (5)
 > **URLs:** [python.org](https://python.org) (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (soft music) (1)
 
-#### Solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-automation-and-testing/solution-23476215?u=76281980)
+#### [Solution](https://www.linkedin.com/learning/python-automation-and-testing/solution-23476215?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1294,13 +1275,13 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/python-automation-and-testing/solution-23476215?u=76281980&t=10)** To start off, I'm going to open the code editor directly and let's jump right into the first step.
 >
-> **[0:18](https://www.linkedin.com/learning/python-automation-and-testing/solution-23476215?u=76281980&t=18)** As with all our code, I'm going to start off with importing the web driver from Selenium.
+> **[0:18](https://www.linkedin.com/learning/python-automation-and-testing/solution-23476215?u=76281980&t=18)** As with all our code, I'm going to start off with importing the web driver from [[Selenium]].
 >
 > **[0:25](https://www.linkedin.com/learning/python-automation-and-testing/solution-23476215?u=76281980&t=25)** So from Selenium import web driver.
 >
 > **[0:35](https://www.linkedin.com/learning/python-automation-and-testing/solution-23476215?u=76281980&t=35)** The next thing I'm going to do is create an instance of Firefox using the web driver with webdriver.firefox
 >
-> **[0:52](https://www.linkedin.com/learning/python-automation-and-testing/solution-23476215?u=76281980&t=52)** The first step is to navigate to the official Python website.
+> **[0:52](https://www.linkedin.com/learning/python-automation-and-testing/solution-23476215?u=76281980&t=52)** The first step is to navigate to the official [[Python (Programming Language)|Python]] website.
 >
 > **[0:56](https://www.linkedin.com/learning/python-automation-and-testing/solution-23476215?u=76281980&t=56)** So let's use driver.get to do that, and in here I type the URL that we want to navigate to, which is https www.[python.org](https://python.org).
 >
@@ -1372,7 +1353,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), [[Selenium]] (3), next (2), [[Python (Programming Language)|Python]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Selenium]] (3), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** find (8), python (2), make (1)
 > **UI Navigation:** open the (1), navigate to (1), click on (1)
 > **Tools:** firefox (2)
@@ -1386,8 +1367,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Page interaction
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-automation-and-testing/page-interaction?u=76281980)
+#### [Page interaction](https://www.linkedin.com/learning/python-automation-and-testing/page-interaction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1399,9 +1379,9 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/python-automation-and-testing/page-interaction?u=76281980&t=27)** So what we will do, is we will use the the code example that we initially looked at and go in detail of it to understand how it's working.
 >
-> **[0:36](https://www.linkedin.com/learning/python-automation-and-testing/page-interaction?u=76281980&t=36)** So in this code what we're gonna do, is we're going to open the website [Python.org](https://Python.org), locate that search box, enter out text to the search box, and perform the search.
+> **[0:36](https://www.linkedin.com/learning/python-automation-and-testing/page-interaction?u=76281980&t=36)** So in this code what we're gonna do, is we're going to open the website [[[Python (Programming Language)|Python]].org](https://Python.org), locate that search box, enter out text to the search box, and perform the search.
 >
-> **[0:48](https://www.linkedin.com/learning/python-automation-and-testing/page-interaction?u=76281980&t=48)** So to start out with as with any other Python selenium script, I import the WebDriver.
+> **[0:48](https://www.linkedin.com/learning/python-automation-and-testing/page-interaction?u=76281980&t=48)** So to start out with as with any other Python [[Selenium]] script, I import the WebDriver.
 >
 > **[0:56](https://www.linkedin.com/learning/python-automation-and-testing/page-interaction?u=76281980&t=56)** (keyboard clicking) We need another import for entering the keys.
 >
@@ -1447,7 +1427,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (11), [[Python (Programming Language)|Python]] (4), next (3), web (2), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Selenium]] (1)
 > **CLI Commands:** python (4), find (2)
 > **Non-Speech:** (keyboard clicking) (4), (clicking) (1)
 > **URLs:** [python.org](https://python.org) (3)
@@ -1455,8 +1435,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Filling forms
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-automation-and-testing/filling-forms?u=76281980)
+#### [Filling forms](https://www.linkedin.com/learning/python-automation-and-testing/filling-forms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1464,7 +1443,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/python-automation-and-testing/filling-forms?u=76281980&t=6)** The question at hand is how to deal with other form elements.
 >
-> **[0:11](https://www.linkedin.com/learning/python-automation-and-testing/filling-forms?u=76281980&t=11)** Selenium comes with a wide toolbox of classes and functions that can help you deal with other form elements.
+> **[0:11](https://www.linkedin.com/learning/python-automation-and-testing/filling-forms?u=76281980&t=11)** [[Selenium]] comes with a wide toolbox of classes and functions that can help you deal with other form elements.
 >
 > **[0:18](https://www.linkedin.com/learning/python-automation-and-testing/filling-forms?u=76281980&t=18)** The select class helps you deal with select elements in the form and it also comes with a submit method that works on every element in the form.
 >
@@ -1474,7 +1453,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/python-automation-and-testing/filling-forms?u=76281980&t=39)** In the exercise files, I'm going to go to chapter three, second part.
 >
-> **[0:44](https://www.linkedin.com/learning/python-automation-and-testing/filling-forms?u=76281980&t=44)** I have an HTML code that I'm going to be using as a form for this chapter.
+> **[0:44](https://www.linkedin.com/learning/python-automation-and-testing/filling-forms?u=76281980&t=44)** I have an [[HTML]] code that I'm going to be using as a form for this chapter.
 >
 > **[0:51](https://www.linkedin.com/learning/python-automation-and-testing/filling-forms?u=76281980&t=51)** So let's run this code and see what the output is.
 >
@@ -1578,7 +1557,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (5), [[Selenium]] (4), web (2), next (2)
+> **Frameworks & Libraries:** [[HTML]] (5), [[Selenium]] (4)
 > **Env Vars:** html (5), idle (2), ppt (1)
 > **Code Identifiers:** loginform (1), numreturnselect (1), select_by_index (1), select_by_value (1), find_element_by_name (1)
 > **UI Navigation:** go to (3), open the (1)
@@ -1587,14 +1566,13 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Cross-References:** as we saw (1)
 
-#### Drag and drop elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-automation-and-testing/drag-and-drop-elements?u=76281980)
+#### [Drag and drop elements](https://www.linkedin.com/learning/python-automation-and-testing/drag-and-drop-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-automation-and-testing/drag-and-drop-elements?u=76281980&t=0)** - [Instructor] The sites performing actions such as entering text and filling forms, users also drag and drop elements as part of the UI interaction.
+> **[0:00](https://www.linkedin.com/learning/python-automation-and-testing/drag-and-drop-elements?u=76281980&t=0)** - [Instructor] The sites performing actions such as entering text and filling [[Forms]], users also drag and drop elements as part of the UI interaction.
 >
-> **[0:11](https://www.linkedin.com/learning/python-automation-and-testing/drag-and-drop-elements?u=76281980&t=11)** The Selenium WebDriver provides classes that enables us to automate the drag and drop actions as well.
+> **[0:11](https://www.linkedin.com/learning/python-automation-and-testing/drag-and-drop-elements?u=76281980&t=11)** The [[Selenium]] WebDriver provides classes that enables us to automate the drag and drop actions as well.
 >
 > **[0:19](https://www.linkedin.com/learning/python-automation-and-testing/drag-and-drop-elements?u=76281980&t=19)** In the Selenium WebDriver you can drag and drop a source element to a target element and also drag and drop a source element by a specific x-offset and a specific y-offset.
 >
@@ -1665,14 +1643,13 @@ created: 2026-05-02
 > **URLs:** [jqueryui.com](https://jqueryui.com) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-automation-and-testing/challenge-2?u=76281980)
+#### [Challenge](https://www.linkedin.com/learning/python-automation-and-testing/challenge-2?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-automation-and-testing/challenge-2?u=76281980&t=0)** (intense whoosh)
 >
-> **[0:03](https://www.linkedin.com/learning/python-automation-and-testing/challenge-2?u=76281980&t=3)** - [Instructor] So far, we have seen how to perform user actions in an automated way using Selenium WebDriver.
+> **[0:03](https://www.linkedin.com/learning/python-automation-and-testing/challenge-2?u=76281980&t=3)** - [Instructor] So far, we have seen how to perform user actions in an automated way using [[Selenium]] WebDriver.
 >
 > **[0:09](https://www.linkedin.com/learning/python-automation-and-testing/challenge-2?u=76281980&t=9)** So let's take up a small challenge together and perform the same actions.
 >
@@ -1696,13 +1673,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), [[Selenium]] (1)
+> **Frameworks & Libraries:** [[Selenium]] (1)
 > **UI Navigation:** navigate to (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-automation-and-testing/solution-2?u=76281980)
+#### [Solution](https://www.linkedin.com/learning/python-automation-and-testing/solution-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1766,7 +1742,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/python-automation-and-testing/solution-2?u=76281980&t=147)** We are quickly going to go to the top and include the import for the keys class.
 >
-> **[2:33](https://www.linkedin.com/learning/python-automation-and-testing/solution-2?u=76281980&t=153)** So from selenium.webdriver.common.keys,
+> **[2:33](https://www.linkedin.com/learning/python-automation-and-testing/solution-2?u=76281980&t=153)** So from [[Selenium]].webdriver.common.keys,
 >
 > **[2:44](https://www.linkedin.com/learning/python-automation-and-testing/solution-2?u=76281980&t=164)** I import the Keys matter.
 >
@@ -1826,7 +1802,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (11), web (1), [[Selenium]] (1), next (1)
+> **Frameworks & Libraries:** [[Selenium]] (1)
 > **Env Vars:** url (5), return (1)
 > **CLI Commands:** find (4), make (1)
 > **Code Identifiers:** find_element_by_id (1), send_keys (1), element_by_xpath (1)
@@ -1840,14 +1816,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are waits and why do we need them?
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-automation-and-testing/what-are-waits-and-why-do-we-need-them?u=76281980)
+#### [What are waits and why do we need them?](https://www.linkedin.com/learning/python-automation-and-testing/what-are-waits-and-why-do-we-need-them?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-automation-and-testing/what-are-waits-and-why-do-we-need-them?u=76281980&t=0)** - [Instructor] Waits are very important when it comes to placing your automation script.
 >
-> **[0:06](https://www.linkedin.com/learning/python-automation-and-testing/what-are-waits-and-why-do-we-need-them?u=76281980&t=6)** Most websites today use asynchronous techniques such as Ajax.
+> **[0:06](https://www.linkedin.com/learning/python-automation-and-testing/what-are-waits-and-why-do-we-need-them?u=76281980&t=6)** Most websites today use asynchronous techniques such as [[AJAX]].
 >
 > **[0:11](https://www.linkedin.com/learning/python-automation-and-testing/what-are-waits-and-why-do-we-need-them?u=76281980&t=11)** When a webpage is loaded by the browser, the elements may be loaded at different time intervals due to this.
 >
@@ -1865,7 +1840,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/python-automation-and-testing/what-are-waits-and-why-do-we-need-them?u=76281980&t=55)** That is, it adds a wait between locating elements and performing operations on them.
 >
-> **[1:00](https://www.linkedin.com/learning/python-automation-and-testing/what-are-waits-and-why-do-we-need-them?u=76281980&t=60)** The selenium WebDriver provides two types of waits, explicit and implicit.
+> **[1:00](https://www.linkedin.com/learning/python-automation-and-testing/what-are-waits-and-why-do-we-need-them?u=76281980&t=60)** The [[Selenium]] WebDriver provides two types of waits, explicit and implicit.
 >
 > **[1:07](https://www.linkedin.com/learning/python-automation-and-testing/what-are-waits-and-why-do-we-need-them?u=76281980&t=67)** An explicit wait stops execution until a certain condition is satisfied.
 >
@@ -1877,26 +1852,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (1), [[AJAX]] (1), [[Selenium]] (1), dom (1)
+> **Frameworks & Libraries:** [[AJAX]] (1), [[Selenium]] (1)
 > **Analogies:** such as (1), picture (1)
 > **Env Vars:** dom (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Explicit waits
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-automation-and-testing/explicit-waits?u=76281980)
+#### [Explicit waits](https://www.linkedin.com/learning/python-automation-and-testing/explicit-waits?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-automation-and-testing/explicit-waits?u=76281980&t=0)** - [Instructor] An explicit wait is one where you want your code to pause until a certain condition has been satisfied.
 >
-> **[0:08](https://www.linkedin.com/learning/python-automation-and-testing/explicit-waits?u=76281980&t=8)** Typically in test automation scripts, if you're testing an image and you want to wait for the presence of that image to be loaded, then you will add and explicit wait.
+> **[0:08](https://www.linkedin.com/learning/python-automation-and-testing/explicit-waits?u=76281980&t=8)** Typically in [[Test Automation]] scripts, if you're testing an image and you want to wait for the presence of that image to be loaded, then you will add and explicit wait.
 >
 > **[0:18](https://www.linkedin.com/learning/python-automation-and-testing/explicit-waits?u=76281980&t=18)** In case you do not add an explicit wait there, the image will not be loaded at the right time in your script and an element not found exception will be thrown.
 >
 > **[0:27](https://www.linkedin.com/learning/python-automation-and-testing/explicit-waits?u=76281980&t=27)** So it is always better to add explicit waits when expecting certain elements to take much longer to load than the other elements in the webpage, and you want to wait for those elements because they're essential to your script being able to run.
 >
-> **[0:41](https://www.linkedin.com/learning/python-automation-and-testing/explicit-waits?u=76281980&t=41)** The Selenium WebDriver provides a lot of convenient methods that enable you to add the required explicit waits in your code.
+> **[0:41](https://www.linkedin.com/learning/python-automation-and-testing/explicit-waits?u=76281980&t=41)** The [[Selenium]] WebDriver provides a lot of convenient methods that enable you to add the required explicit waits in your code.
 >
 > **[0:51](https://www.linkedin.com/learning/python-automation-and-testing/explicit-waits?u=76281980&t=51)** A combination of the classes WebDriverWait and ExpectedConditions are used to add explicit waits.
 >
@@ -1906,7 +1880,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/python-automation-and-testing/explicit-waits?u=76281980&t=79)** I'll open a new file.
 >
-> **[1:23](https://www.linkedin.com/learning/python-automation-and-testing/explicit-waits?u=76281980&t=83)** As with any other code, I'm going to first import WebDriver and I'm going to add the rest of the classes that I would need for my explicit waits to work.
+> **[1:23](https://www.linkedin.com/learning/python-automation-and-testing/explicit-waits?u=76281980&t=83)** As with any other code, I'm going to first import WebDriver and I'm going to add the [[Representational State Transfer (REST)|rest]] of the classes that I would need for my explicit waits to work.
 >
 > **[1:39](https://www.linkedin.com/learning/python-automation-and-testing/explicit-waits?u=76281980&t=99)** So the first class that I add is by.
 >
@@ -1922,7 +1896,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/python-automation-and-testing/explicit-waits?u=76281980&t=146)** (keyboard clicking) We've created a Firefox instance here.
 >
-> **[2:33](https://www.linkedin.com/learning/python-automation-and-testing/explicit-waits?u=76281980&t=153)** I'm going to navigate to the webpage [python.org](https://python.org).
+> **[2:33](https://www.linkedin.com/learning/python-automation-and-testing/explicit-waits?u=76281980&t=153)** I'm going to navigate to the webpage [[[Python (Programming Language)|python]].org](https://python.org).
 >
 > **[2:37](https://www.linkedin.com/learning/python-automation-and-testing/explicit-waits?u=76281980&t=157)** (keyboard clicking)
 >
@@ -1960,7 +1934,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Test Automation]] (1), [[Selenium]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Test Automation]] (1), [[Selenium]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Python (Programming Language)|Python]] (1)
 > **Non-Speech:** (keyboard clicking) (4)
 > **CLI Commands:** python (1)
 > **URLs:** [python.org](https://python.org) (1)
@@ -1968,8 +1942,7 @@ created: 2026-05-02
 > **UI Navigation:** navigate to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implicit waits
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-automation-and-testing/implicit-waits?u=76281980)
+#### [Implicit waits](https://www.linkedin.com/learning/python-automation-and-testing/implicit-waits?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2003,7 +1976,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/python-automation-and-testing/implicit-waits?u=76281980&t=107)** After this, I load my site.
 >
-> **[1:52](https://www.linkedin.com/learning/python-automation-and-testing/implicit-waits?u=76281980&t=112)** So I'm going to load [python.org](https://python.org).
+> **[1:52](https://www.linkedin.com/learning/python-automation-and-testing/implicit-waits?u=76281980&t=112)** So I'm going to load [[[Python (Programming Language)|python]].org](https://python.org).
 >
 > **[1:55](https://www.linkedin.com/learning/python-automation-and-testing/implicit-waits?u=76281980&t=115)** So in this case it would wait for the site itself to load for 10 seconds first, and then I'm just going to specify some dynamic element.
 >
@@ -2037,14 +2010,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-automation-and-testing/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/python-automation-and-testing/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-automation-and-testing/next-steps?u=76281980&t=0)** - [Bhoomika] Are you ready to begin automating your own web UI using Python and Selenium?
+> **[0:00](https://www.linkedin.com/learning/python-automation-and-testing/next-steps?u=76281980&t=0)** - [Bhoomika] Are you ready to begin automating your own web UI using [[Python (Programming Language)|Python]] and [[Selenium]]?
 >
-> **[0:06](https://www.linkedin.com/learning/python-automation-and-testing/next-steps?u=76281980&t=6)** You are now equipped with the understanding of the importance of test automation and how to use Python Selenium.
+> **[0:06](https://www.linkedin.com/learning/python-automation-and-testing/next-steps?u=76281980&t=6)** You are now equipped with the understanding of the importance of [[Test Automation]] and how to use Python Selenium.
 >
 > **[0:14](https://www.linkedin.com/learning/python-automation-and-testing/next-steps?u=76281980&t=14)** In this course, we have seen how to automate step by step, beginning with the understanding of the DOM structure, locating elements, and then moving on to navigating and interacting with pages.
 >
@@ -2056,7 +2028,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Selenium]] (3), [[Test Automation]] (2), web (1), dom (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Selenium]] (3), [[Test Automation]] (2)
 > **CLI Commands:** python (4)
 > **Env Vars:** dom (1)
 > **Speakers:** - [bhoomika] (1)

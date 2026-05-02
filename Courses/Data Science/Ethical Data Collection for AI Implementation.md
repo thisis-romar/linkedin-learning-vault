@@ -75,16 +75,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Ethics comes before the data
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/ethics-comes-before-the-data?u=76281980)
+#### [Ethics comes before the data](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/ethics-comes-before-the-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/ethics-comes-before-the-data?u=76281980&t=0)** - As companies jump into integrating AI, one of the most overlooked steps I see is the lack of a strong data collection process.
+> **[0:00](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/ethics-comes-before-the-data?u=76281980&t=0)** - As companies jump into integrating AI, one of the most overlooked steps I see is the lack of a strong [[Data Collection]] process.
 >
 > **[0:11](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/ethics-comes-before-the-data?u=76281980&t=11)** If this isn't stable, then your AI tools won't receive valuable information.
 >
-> **[0:17](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/ethics-comes-before-the-data?u=76281980&t=17)** Hi, I'm Brandeis Marshall, a former college professor, turn data ethics consultant.
+> **[0:17](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/ethics-comes-before-the-data?u=76281980&t=17)** Hi, I'm Brandeis Marshall, a former college professor, turn [[Data Ethics]] consultant.
 >
 > **[0:24](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/ethics-comes-before-the-data?u=76281980&t=24)** I designed this course to help you and your teams embrace ethical data collection management.
 >
@@ -94,7 +93,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), ai (2), [[Ethics]] (1), teams (1), management (1)
+> **Frameworks & Libraries:** [[Data Collection]] (2), [[Data Ethics]] (1)
 > **Speakers:** - as (1)
 
 
@@ -102,12 +101,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining ethical objectives and key results
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/defining-ethical-objectives-and-key-results?u=76281980)
+#### [Defining ethical objectives and key results](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/defining-ethical-objectives-and-key-results?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/defining-ethical-objectives-and-key-results?u=76281980&t=1)** - Just a few years ago, ethical data collection wasn't on most companies' radars.
+> **[0:01](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/defining-ethical-objectives-and-key-results?u=76281980&t=1)** - Just a few years ago, ethical [[Data Collection]] wasn't on most companies' radars.
 >
 > **[0:08](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/defining-ethical-objectives-and-key-results?u=76281980&t=8)** What changed customer demand?
 >
@@ -121,9 +119,9 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/defining-ethical-objectives-and-key-results?u=76281980&t=35)** So we'll start where companies should start by describing clear ethical guidelines for data collection and usage.
 >
-> **[0:44](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/defining-ethical-objectives-and-key-results?u=76281980&t=44)** These involve the data collection process that includes clarity, integrity, and accountability.
+> **[0:44](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/defining-ethical-objectives-and-key-results?u=76281980&t=44)** These involve the data collection process that includes clarity, integrity, and [[Accountability]].
 >
-> **[0:51](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/defining-ethical-objectives-and-key-results?u=76281980&t=51)** The principles of ethical data collection, transparency, privacy, and informed consent.
+> **[0:51](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/defining-ethical-objectives-and-key-results?u=76281980&t=51)** The principles of ethical data collection, transparency, [[Privacy]], and informed consent.
 >
 > **[0:59](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/defining-ethical-objectives-and-key-results?u=76281980&t=59)** And these principles ensure the data is collected responsibly and with respect for individual's rights and autonomy.
 >
@@ -185,7 +183,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/defining-ethical-objectives-and-key-results?u=76281980&t=228)** And what and how will it be shared?
 >
-> **[3:52](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/defining-ethical-objectives-and-key-results?u=76281980&t=232)** What are the data security measures implemented?
+> **[3:52](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/defining-ethical-objectives-and-key-results?u=76281980&t=232)** What are the [[Data Security]] measures implemented?
 >
 > **[3:56](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/defining-ethical-objectives-and-key-results?u=76281980&t=236)** How are the companies addressing the issues related to their data protection impact assessment and not introducing additional harms in the process?
 >
@@ -193,11 +191,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), [[Privacy]] (4), [[Accountability]] (1), next (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Data Collection]] (6), [[Privacy]] (4), [[Accountability]] (1), [[Data Security]] (1)
 > **Speakers:** - just (1)
 
-#### Developing a data governance framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/developing-a-data-governance-framework?u=76281980)
+#### [Developing a data governance framework](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/developing-a-data-governance-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -205,11 +202,11 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/developing-a-data-governance-framework?u=76281980&t=1)** Real talk.
 >
-> **[0:02](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/developing-a-data-governance-framework?u=76281980&t=2)** How many data governance frameworks or policies have you heard about?
+> **[0:02](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/developing-a-data-governance-framework?u=76281980&t=2)** How many [[Data Governance]] frameworks or policies have you heard about?
 >
 > **[0:08](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/developing-a-data-governance-framework?u=76281980&t=8)** How many have you helped create, and how many have you helped enforce?
 >
-> **[0:16](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/developing-a-data-governance-framework?u=76281980&t=16)** As a data nerd since before Google, the numbers that come to my mind decrease sharply with each question.
+> **[0:16](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/developing-a-data-governance-framework?u=76281980&t=16)** As a data nerd since before [[Google]], the numbers that come to my mind decrease sharply with each question.
 >
 > **[0:26](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/developing-a-data-governance-framework?u=76281980&t=26)** According to a 2024 study, 71% of organizations reported having a data governance program, up from 60% the previous year.
 >
@@ -225,11 +222,11 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/developing-a-data-governance-framework?u=76281980&t=73)** Keeping your company's data reliable and accurate makes it more usable to help the business reach its revenue goals.
 >
-> **[1:22](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/developing-a-data-governance-framework?u=76281980&t=82)** Data insights turn into data assets that then turn into sellable products and services for your customers.
+> **[1:22](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/developing-a-data-governance-framework?u=76281980&t=82)** Data insights turn into data assets that then turn into sellable [[Microsoft Products|products]] and services for your customers.
 >
 > **[1:31](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/developing-a-data-governance-framework?u=76281980&t=91)** Now that we're clear about our motivation and incentives, we can move on to point two, the nuts and bolts of data governance policies.
 >
-> **[1:42](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/developing-a-data-governance-framework?u=76281980&t=102)** Data quality, integrity, and security metrics need to be identified, implemented, and managed by data experts across the company.
+> **[1:42](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/developing-a-data-governance-framework?u=76281980&t=102)** [[Data Quality]], integrity, and [[Security Metrics]] need to be identified, implemented, and managed by data experts across the company.
 >
 > **[1:53](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/developing-a-data-governance-framework?u=76281980&t=113)** One way I've seen this represented well is adding conceptual models to the policy.
 >
@@ -269,23 +266,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Google]] (1), business (1), [[Microsoft Products|Products]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Data Governance]] (7), [[Google]] (1), [[Microsoft Products|Products]] (1), [[Data Quality]] (1), [[Security Metrics]] (1)
 > **Code Identifiers:** iphone (2)
 > **Prerequisites:** install (2)
 > **Speakers:** - okay (1)
 
-#### Implementing data protection measures
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/implementing-data-protection-measures?u=76281980)
+#### [Implementing data protection measures](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/implementing-data-protection-measures?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/implementing-data-protection-measures?u=76281980&t=0)** - Let's now turn our attention from discussing theory to practical implementations.
 >
-> **[0:06](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/implementing-data-protection-measures?u=76281980&t=6)** Protecting sensitive data is one of the first major tests for any data collection system.
+> **[0:06](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/implementing-data-protection-measures?u=76281980&t=6)** Protecting sensitive data is one of the first major tests for any [[Data Collection]] system.
 >
 > **[0:13](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/implementing-data-protection-measures?u=76281980&t=13)** This practice started in the 1960s when digital passwords were invented.
 >
-> **[0:19](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/implementing-data-protection-measures?u=76281980&t=19)** Over the decades, keeping data safe and away from bad actors has become an essential part of business operations.
+> **[0:19](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/implementing-data-protection-measures?u=76281980&t=19)** Over the decades, keeping data safe and away from bad actors has become an essential part of [[Business Operations]].
 >
 > **[0:29](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/implementing-data-protection-measures?u=76281980&t=29)** Why?
 >
@@ -309,7 +305,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/implementing-data-protection-measures?u=76281980&t=96)** The second step, verifying your identity, is where there's a heavy and continued concentration of effort.
 >
-> **[1:44](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/implementing-data-protection-measures?u=76281980&t=104)** And that leads to the second line of defense, implementing encryption algorithms.
+> **[1:44](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/implementing-data-protection-measures?u=76281980&t=104)** And that leads to the second line of defense, implementing encryption [[Algorithms]].
 >
 > **[1:51](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/implementing-data-protection-measures?u=76281980&t=111)** Data encryption scrambles readable data into an unreadable data format.
 >
@@ -333,7 +329,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/implementing-data-protection-measures?u=76281980&t=197)** These protection measures are just a sampling of how data assets are fortified by your company, your team, and your customers.
 >
-> **[3:28](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/implementing-data-protection-measures?u=76281980&t=208)** It's kind of like a home security system that ensures intruders have difficulty entering through most of the doors and windows.
+> **[3:28](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/implementing-data-protection-measures?u=76281980&t=208)** It's kind of like a home security system that ensures intruders have difficulty entering through most of the doors and [[Windows]].
 >
 > **[3:39](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/implementing-data-protection-measures?u=76281980&t=219)** As a house can be vulnerable to a determined thief, so is your data that's stored in an online system, but the good news is that there are tools to collect data more ethically while keeping it as secure as possible.
 >
@@ -341,35 +337,34 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Security]] (3), business (1), [[Algorithms]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Data Collection]] (1), [[Business Operations]] (1), [[Algorithms]] (1), [[Windows]] (1)
 > **Analogies:** for example (2), kind of like (1)
 > **Env Vars:** pii (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - let (1)
 
-#### Selecting data collection tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/selecting-data-collection-tools?u=76281980)
+#### [Selecting data collection tools](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/selecting-data-collection-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/selecting-data-collection-tools?u=76281980&t=0)** - One activity that the tech industry is good at is releasing a new tech tool.
 >
-> **[0:07](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/selecting-data-collection-tools?u=76281980&t=7)** While it's hard to pin down how many data and AI tools are released every year, Google alone shared 60 of its biggest AI announcements in 2024.
+> **[0:07](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/selecting-data-collection-tools?u=76281980&t=7)** While it's hard to pin down how many data and AI tools are released every year, [[Google]] alone shared 60 of its biggest AI announcements in 2024.
 >
-> **[0:20](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/selecting-data-collection-tools?u=76281980&t=20)** Not one of them focused on ethical or responsible data practices, except for a brief mention of new responsible AI resources for developers and researchers.
+> **[0:20](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/selecting-data-collection-tools?u=76281980&t=20)** Not one of them focused on ethical or responsible data practices, except for a brief mention of new [[Responsible AI]] resources for developers and researchers.
 >
 > **[0:34](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/selecting-data-collection-tools?u=76281980&t=34)** And here lies the perpetual problem.
 >
 > **[0:38](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/selecting-data-collection-tools?u=76281980&t=38)** You don't know which handful of these thousands of tools could help you, your team, and your company be better stewards of AI.
 >
-> **[0:49](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/selecting-data-collection-tools?u=76281980&t=49)** When choosing data collection tool support, the questions cover a range of ethical considerations.
+> **[0:49](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/selecting-data-collection-tools?u=76281980&t=49)** When choosing [[Data Collection]] tool support, the questions cover a range of ethical considerations.
 >
 > **[0:57](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/selecting-data-collection-tools?u=76281980&t=57)** Which tools stay in compliance with data protection laws?
 >
 > **[1:02](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/selecting-data-collection-tools?u=76281980&t=62)** How is user consent handled?
 >
-> **[1:05](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/selecting-data-collection-tools?u=76281980&t=65)** Which ones enforce strong privacy controls, and how user friendly is the interface?
+> **[1:05](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/selecting-data-collection-tools?u=76281980&t=65)** Which ones enforce strong [[Privacy]] controls, and how user friendly is the interface?
 >
 > **[1:14](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/selecting-data-collection-tools?u=76281980&t=74)** While I'd love to give you recommendations, I can't in good conscience do that without knowing the answers to your needs and potential tool uses.
 >
@@ -387,7 +382,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/selecting-data-collection-tools?u=76281980&t=133)** What's next?
 >
-> **[2:15](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/selecting-data-collection-tools?u=76281980&t=135)** This leads us to point two, a data management platform that's aligned with your needs.
+> **[2:15](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/selecting-data-collection-tools?u=76281980&t=135)** This leads us to point two, a [[Data Management]] platform that's aligned with your needs.
 >
 > **[2:22](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/selecting-data-collection-tools?u=76281980&t=142)** Of course, having great data organization features are a must, but go deeper.
 >
@@ -417,7 +412,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), ai (3), [[Privacy]] (3), next (3), management (2)
+> **Frameworks & Libraries:** [[Data Collection]] (3), [[Privacy]] (3), [[Google]] (1), [[Responsible AI]] (1), [[Data Management]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 > **Analogies:** for instance (1)
@@ -430,8 +425,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Obtaining explicit and ongoing data collection consent
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/obtaining-explicit-and-ongoing-data-collection-consent?u=76281980)
+#### [Obtaining explicit and ongoing data collection consent](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/obtaining-explicit-and-ongoing-data-collection-consent?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -453,7 +447,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/obtaining-explicit-and-ongoing-data-collection-consent?u=76281980&t=58)** From a technologist perspective, we want to be confident that the data we're using has been cleanly collected, that the people behind the data understands the use of their interactions, the potential risks and benefits, and their agreement to participate.
 >
-> **[1:21](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/obtaining-explicit-and-ongoing-data-collection-consent?u=76281980&t=81)** Data collection consent is done in three major phases, so let's cover them here.
+> **[1:21](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/obtaining-explicit-and-ongoing-data-collection-consent?u=76281980&t=81)** [[Data Collection]] consent is done in three major phases, so let's cover them here.
 >
 > **[1:27](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/obtaining-explicit-and-ongoing-data-collection-consent?u=76281980&t=87)** In phase one, companies provide a disclosure of information notification.
 >
@@ -493,21 +487,20 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/obtaining-explicit-and-ongoing-data-collection-consent?u=76281980&t=241)** It builds trust, enhance transparency, and reduces legal risks.
 >
-> **[4:08](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/obtaining-explicit-and-ongoing-data-collection-consent?u=76281980&t=248)** Let's continue sharing ethical strategies and discover ways to better preserve your customer's privacy up next.
+> **[4:08](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/obtaining-explicit-and-ongoing-data-collection-consent?u=76281980&t=248)** Let's continue sharing ethical strategies and discover ways to better preserve your customer's [[Privacy]] up next.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), business (1), [[Privacy]] (1), next (1)
+> **Frameworks & Libraries:** [[Data Collection]] (3), [[Privacy]] (1)
 > **Env Vars:** faq (1)
 > **Analogies:** for example (1)
 > **Speakers:** - as (1)
 
-#### Protecting privacy through anonymization and encryption
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/protecting-privacy-through-anonymization-and-encryption?u=76281980)
+#### [Protecting privacy through anonymization and encryption](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/protecting-privacy-through-anonymization-and-encryption?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/protecting-privacy-through-anonymization-and-encryption?u=76281980&t=0)** - Data collection seems like the easier step once you start implementing data protection protocols.
+> **[0:00](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/protecting-privacy-through-anonymization-and-encryption?u=76281980&t=0)** - [[Data Collection]] seems like the easier step once you start implementing data protection protocols.
 >
 > **[0:08](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/protecting-privacy-through-anonymization-and-encryption?u=76281980&t=8)** Am I right?
 >
@@ -517,11 +510,11 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/protecting-privacy-through-anonymization-and-encryption?u=76281980&t=24)** Should your team work on de-identifying the data, encrypt it or both?
 >
-> **[0:31](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/protecting-privacy-through-anonymization-and-encryption?u=76281980&t=31)** And what must your team do to stay in regulatory compliance with existing and impending stipulations?
+> **[0:31](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/protecting-privacy-through-anonymization-and-encryption?u=76281980&t=31)** And what must your team do to stay in [[Regulatory Compliance]] with existing and impending stipulations?
 >
 > **[0:41](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/protecting-privacy-through-anonymization-and-encryption?u=76281980&t=41)** We have to stay up to date on an alphabet soup of regulations like GDPR, CCPA and HIPAA.
 >
-> **[0:52](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/protecting-privacy-through-anonymization-and-encryption?u=76281980&t=52)** Your risk mitigation plan should focus on integrating privacy considerations into the design and development of systems and processes.
+> **[0:52](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/protecting-privacy-through-anonymization-and-encryption?u=76281980&t=52)** Your risk mitigation plan should focus on integrating [[Privacy]] considerations into the design and development of systems and processes.
 >
 > **[1:03](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/protecting-privacy-through-anonymization-and-encryption?u=76281980&t=63)** So let's compare the purposes of data masking and encryption techniques.
 >
@@ -541,11 +534,11 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/protecting-privacy-through-anonymization-and-encryption?u=76281980&t=142)** On top of data masking and encryption, your team could consider using synthetic data generation.
 >
-> **[2:31](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/protecting-privacy-through-anonymization-and-encryption?u=76281980&t=151)** For heavily regulated industries like banking and insurance, it's become an accepted option to test the robustness of data masking and encryption methods while preventing data exposure.
+> **[2:31](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/protecting-privacy-through-anonymization-and-encryption?u=76281980&t=151)** For heavily regulated industries like [[Banking]] and insurance, it's become an accepted option to test the robustness of data masking and encryption methods while preventing data exposure.
 >
 > **[2:48](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/protecting-privacy-through-anonymization-and-encryption?u=76281980&t=168)** And this last strategy of improving employees' privacy awareness and training should maybe be the first line of defense.
 >
-> **[2:57](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/protecting-privacy-through-anonymization-and-encryption?u=76281980&t=177)** Studies have reported that over 60% of data privacy issues stem from internal threats, some of which include accidental mishandling of data.
+> **[2:57](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/protecting-privacy-through-anonymization-and-encryption?u=76281980&t=177)** Studies have reported that over 60% of [[Data Privacy]] issues stem from internal threats, some of which include accidental mishandling of data.
 >
 > **[3:11](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/protecting-privacy-through-anonymization-and-encryption?u=76281980&t=191)** This can happen inadvertently.
 >
@@ -563,13 +556,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Privacy]] (4), [[Regulatory Compliance]] (1), business (1), [[Banking]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (3), [[Data Collection]] (2), [[Data Privacy]] (2), [[Regulatory Compliance]] (1), [[Banking]] (1)
 > **Env Vars:** gdpr (1), ccpa (1), hipaa (1), vpn (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - data (1)
 
-#### Mitigating biases in data
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/mitigating-biases-in-data?u=76281980)
+#### [Mitigating biases in data](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/mitigating-biases-in-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -607,7 +599,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/mitigating-biases-in-data?u=76281980&t=87)** Bias mitigation is a responsibility of everyone who handles, reviews, and interprets data.
 >
-> **[1:34](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/mitigating-biases-in-data?u=76281980&t=94)** Now, you can lessen the presence of bias when a plan of attack involves addressing imbalances of the data algorithms and process routines.
+> **[1:34](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/mitigating-biases-in-data?u=76281980&t=94)** Now, you can lessen the presence of bias when a plan of attack involves addressing imbalances of the data [[Algorithms]] and process routines.
 >
 > **[1:46](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/mitigating-biases-in-data?u=76281980&t=106)** Of course, the overarching necessity is how well people are embedded between and throughout these routines.
 >
@@ -637,15 +629,15 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/mitigating-biases-in-data?u=76281980&t=214)** You need processes to oversee, review, and audit how these data and algorithms operate.
 >
-> **[3:43](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/mitigating-biases-in-data?u=76281980&t=223)** Having a data collection team with diverse backgrounds and perspectives can identify biases faster.
+> **[3:43](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/mitigating-biases-in-data?u=76281980&t=223)** Having a [[Data Collection]] team with diverse backgrounds and perspectives can identify biases faster.
 >
 > **[3:51](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/mitigating-biases-in-data?u=76281980&t=231)** Performing audits and reviews once or twice a year of collected data are excellent options to monitor outputs for biases.
 >
 > **[4:02](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/mitigating-biases-in-data?u=76281980&t=242)** Now, you're not haphazardly creating processes.
 >
-> **[4:05](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/mitigating-biases-in-data?u=76281980&t=245)** You're guided by existing data governance frameworks like DAMA-DMBOK or Data Management Body of Knowledge to improve data quality and data profiling insights.
+> **[4:05](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/mitigating-biases-in-data?u=76281980&t=245)** You're guided by existing [[Data Governance]] frameworks like DAMA-DMBOK or [[Data Management]] Body of Knowledge to improve [[Data Quality]] and data profiling insights.
 >
-> **[4:22](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/mitigating-biases-in-data?u=76281980&t=262)** Part of the continuous monitoring and improvement is handled by algorithms while the more nuanced parts are covered by human oversight teams.
+> **[4:22](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/mitigating-biases-in-data?u=76281980&t=262)** Part of the [[Continuous Monitoring]] and improvement is handled by algorithms while the more nuanced parts are covered by human oversight teams.
 >
 > **[4:34](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/mitigating-biases-in-data?u=76281980&t=274)** These teams catch cascading biases and other harmful effects that may slip through your routines.
 >
@@ -653,18 +645,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Algorithms]] (5), teams (3), ai (1), management (1)
+> **Frameworks & Libraries:** [[Algorithms]] (5), [[Data Collection]] (1), [[Data Governance]] (1), [[Data Management]] (1), [[Data Quality]] (1)
 > **Env Vars:** dama (1), dmbok (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - it (1)
 
-#### Following ethical review processes
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/following-ethical-review-processes?u=76281980)
+#### [Following ethical review processes](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/following-ethical-review-processes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/following-ethical-review-processes?u=76281980&t=1)** - Before leaving the Ethical Strategies discussion, we should talk through ethics review boards and committees.
+> **[0:01](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/following-ethical-review-processes?u=76281980&t=1)** - Before leaving the Ethical Strategies discussion, we should talk through [[Ethics]] review boards and committees.
 >
 > **[0:08](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/following-ethical-review-processes?u=76281980&t=8)** They aren't common.
 >
@@ -682,9 +673,9 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/following-ethical-review-processes?u=76281980&t=63)** Popularity is only expected to grow as more companies adopt AI technologies, your natural questions likely cover what ethics boards do and how they should operate.
 >
-> **[1:18](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/following-ethical-review-processes?u=76281980&t=78)** In short, ethics review committees play an integral role in ensuring that clients' rights and privacy are protected.
+> **[1:18](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/following-ethical-review-processes?u=76281980&t=78)** In short, ethics review committees play an integral role in ensuring that clients' rights and [[Privacy]] are protected.
 >
-> **[1:29](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/following-ethical-review-processes?u=76281980&t=89)** After the committee defines its principles and guidelines, their primary responsibility is to review the ethical soundness of the data collection design.
+> **[1:29](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/following-ethical-review-processes?u=76281980&t=89)** After the committee defines its principles and guidelines, their primary responsibility is to review the ethical soundness of the [[Data Collection]] design.
 >
 > **[1:40](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/following-ethical-review-processes?u=76281980&t=100)** This means evaluating the potential risks to clients from the economical to the psychological, along with anticipated potential benefits from using their data in AI systems.
 >
@@ -716,7 +707,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Ethics]] (7), ai (7), [[Privacy]] (1), next (1)
+> **Frameworks & Libraries:** [[Ethics]] (7), [[Data Collection]] (3), [[Privacy]] (1)
 > **CLI Commands:** make (2)
 > **Versions:** 1.6 (1)
 > **Cross-References:** in the next (1)
@@ -727,8 +718,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Violating data privacy regulations
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/violating-data-privacy-regulations?u=76281980)
+#### [Violating data privacy regulations](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/violating-data-privacy-regulations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -752,13 +742,13 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/violating-data-privacy-regulations?u=76281980&t=63)** The AI regulations proposed and enacted into law that we see now are built on data-focused regulations.
 >
-> **[1:12](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/violating-data-privacy-regulations?u=76281980&t=72)** For example, US data privacy regulations date back to 1974 as a mechanism to promote fairness within information systems.
+> **[1:12](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/violating-data-privacy-regulations?u=76281980&t=72)** For example, US [[Data Privacy]] regulations date back to 1974 as a mechanism to promote fairness within information systems.
 >
 > **[1:25](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/violating-data-privacy-regulations?u=76281980&t=85)** So violating them has consequences.
 >
 > **[1:30](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/violating-data-privacy-regulations?u=76281980&t=90)** The most overt consequence is monetary.
 >
-> **[1:34](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/violating-data-privacy-regulations?u=76281980&t=94)** The US Federal Trade Commission, the UK's Information Commissioner's Office, and similar government agencies around the world impose substantial fines for these violations with wide-ranging penalty amounts.
+> **[1:34](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/violating-data-privacy-regulations?u=76281980&t=94)** The US Federal Trade Commission, the UK's Information Commissioner's [[Microsoft Office|Office]], and similar government agencies around the world impose substantial fines for these violations with wide-ranging penalty amounts.
 >
 > **[1:53](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/violating-data-privacy-regulations?u=76281980&t=113)** At this time, HIPAA's penalties go from $100 to $1.5 million per violation.
 >
@@ -784,7 +774,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/violating-data-privacy-regulations?u=76281980&t=219)** Let's use the very public $725 million class action settlement against Meta Platforms as an example.
 >
-> **[3:50](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/violating-data-privacy-regulations?u=76281980&t=230)** The US courts determined that Facebook violated users' privacy as part of their Cambridge Analytica dealings.
+> **[3:50](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/violating-data-privacy-regulations?u=76281980&t=230)** The US courts determined that Facebook violated users' [[Privacy]] as part of their Cambridge Analytica dealings.
 >
 > **[4:00](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/violating-data-privacy-regulations?u=76281980&t=240)** The legal action route is lengthy.
 >
@@ -792,11 +782,11 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/violating-data-privacy-regulations?u=76281980&t=250)** Facebook reportedly paid over $5 billion in FTC fines and $100 million to the SEC.
 >
-> **[4:24](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/violating-data-privacy-regulations?u=76281980&t=264)** Protecting all forms of sensitive data should be at the top of that priority list.
+> **[4:24](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/violating-data-privacy-regulations?u=76281980&t=264)** Protecting all [[Forms]] of sensitive data should be at the top of that priority list.
 >
 > **[4:31](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/violating-data-privacy-regulations?u=76281980&t=271)** No one wants any of these headaches.
 >
-> **[4:35](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/violating-data-privacy-regulations?u=76281980&t=275)** Up next, we'll discuss one of the biggest stumbling blocks in deploying responsible data collection actions: the lack of a well-conceived data strategy.
+> **[4:35](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/violating-data-privacy-regulations?u=76281980&t=275)** Up next, we'll discuss one of the biggest stumbling blocks in deploying responsible [[Data Collection]] actions: the lack of a well-conceived data strategy.
 >
 > **[4:50](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/violating-data-privacy-regulations?u=76281980&t=290)** When you don't know what data you have, you don't know what data you need, and then you can't determine what data is useful.
 >
@@ -804,20 +794,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), ai (4), [[Privacy]] (2), next (2), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Data Privacy]] (1), [[Microsoft Office|Office]] (1), [[Privacy]] (1), [[Forms]] (1), [[Data Collection]] (1)
 > **Env Vars:** hipaa (2), gdpr (2), ccpa (2), ftc (1), sec (1)
 > **Versions:** 1.5 (1)
 > **Analogies:** for example (1)
 > **Speakers:** - when (1)
 
-#### Lacking an established data strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/lacking-an-established-data-strategy?u=76281980)
+#### [Lacking an established data strategy](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/lacking-an-established-data-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/lacking-an-established-data-strategy?u=76281980&t=1)** - Like you, I've been having many, many conversations about AI.
 >
-> **[0:07](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/lacking-an-established-data-strategy?u=76281980&t=7)** From banking, to healthcare, to manufacturing.
+> **[0:07](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/lacking-an-established-data-strategy?u=76281980&t=7)** From [[Banking]], to healthcare, to manufacturing.
 >
 > **[0:11](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/lacking-an-established-data-strategy?u=76281980&t=11)** The main talking points hone in on understanding where and how AI tools are used.
 >
@@ -847,7 +836,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/lacking-an-established-data-strategy?u=76281980&t=113)** This leads to more inconsistent information and inefficient collaboration.
 >
-> **[2:00](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/lacking-an-established-data-strategy?u=76281980&t=120)** Without regular data literacy training and support, productivity further degrades as teams struggle to interpret and use data effectively.
+> **[2:00](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/lacking-an-established-data-strategy?u=76281980&t=120)** Without regular [[Data Literacy]] training and support, productivity further degrades as teams struggle to interpret and use data effectively.
 >
 > **[2:13](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/lacking-an-established-data-strategy?u=76281980&t=133)** By the time data outputs reach leadership, it's largely uninformative to company-wide decisions.
 >
@@ -891,17 +880,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), ai (4), teams (4), leadership (3), [[Banking]] (1)
+> **Frameworks & Libraries:** [[Banking]] (1), [[Data Literacy]] (1)
 > **Cross-References:** next video (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - like (1)
 
-#### Choosing the right tools and configurations
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/choosing-the-right-tools-and-configurations?u=76281980)
+#### [Choosing the right tools and configurations](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/choosing-the-right-tools-and-configurations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/choosing-the-right-tools-and-configurations?u=76281980&t=0)** - Spoiler alert, there's no one right AI tool for ethical data collection, and in fact, it goes for any phase in the data lifecycle.
+> **[0:00](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/choosing-the-right-tools-and-configurations?u=76281980&t=0)** - Spoiler alert, there's no one right AI tool for ethical [[Data Collection]], and in fact, it goes for any phase in the data lifecycle.
 >
 > **[0:11](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/choosing-the-right-tools-and-configurations?u=76281980&t=11)** For instance, when I was computer science faculty, I was very persnickety about which AI enhanced tools I used.
 >
@@ -937,7 +925,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/choosing-the-right-tools-and-configurations?u=76281980&t=125)** Their data protection protocols should be transparent and abide by current regulations.
 >
-> **[2:12](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/choosing-the-right-tools-and-configurations?u=76281980&t=132)** It wouldn't hurt to read their publicly available privacy policies.
+> **[2:12](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/choosing-the-right-tools-and-configurations?u=76281980&t=132)** It wouldn't hurt to read their publicly available [[Privacy]] policies.
 >
 > **[2:17](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/choosing-the-right-tools-and-configurations?u=76281980&t=137)** How they would organize, de-identify, and use your customer's data should be in there.
 >
@@ -945,7 +933,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/choosing-the-right-tools-and-configurations?u=76281980&t=149)** Search online for public statements or product articles about their encryption safeguards.
 >
-> **[2:36](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/choosing-the-right-tools-and-configurations?u=76281980&t=156)** You may likely need to talk with a company representative to understand the type of encryption algorithms the company uses.
+> **[2:36](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/choosing-the-right-tools-and-configurations?u=76281980&t=156)** You may likely need to talk with a company representative to understand the type of encryption [[Algorithms]] the company uses.
 >
 > **[2:46](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/choosing-the-right-tools-and-configurations?u=76281980&t=166)** For example, currently, Advanced Encryption Standard, or AES, is considered the best with a large number key length.
 >
@@ -953,11 +941,11 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/choosing-the-right-tools-and-configurations?u=76281980&t=181)** The third and last consideration is privacy-enhancing technology or PETs.
 >
-> **[3:07](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/choosing-the-right-tools-and-configurations?u=76281980&t=187)** PETs are a collection of data security methods designed to protect personal data while still allowing for its use in analysis and other applications.
+> **[3:07](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/choosing-the-right-tools-and-configurations?u=76281980&t=187)** PETs are a collection of [[Data Security]] methods designed to protect personal data while still allowing for its use in analysis and other applications.
 >
 > **[3:20](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/choosing-the-right-tools-and-configurations?u=76281980&t=200)** This means that your internal data collaborations can still happen, but you're not sharing sensitive data assets across the company or with your third-party vendors.
 >
-> **[3:32](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/choosing-the-right-tools-and-configurations?u=76281980&t=212)** Adopting PETs as a standard data and AI product development approach and engaging with vendors that implement it is simply good business.
+> **[3:32](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/choosing-the-right-tools-and-configurations?u=76281980&t=212)** Adopting PETs as a standard data and AI [[Product Development]] approach and engaging with vendors that implement it is simply good business.
 >
 > **[3:45](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/choosing-the-right-tools-and-configurations?u=76281980&t=225)** As we head into the end of this chapter, we'll talk about a topic we've been avoiding.
 >
@@ -971,7 +959,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), ai (4), [[Privacy]] (2), teams (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (2), [[Data Collection]] (1), [[Algorithms]] (1), [[Data Security]] (1), [[Product Development]] (1)
 > **Code Identifiers:** zybooks (4)
 > **Definitions:** is an  (1), means that (1)
 > **Analogies:** for instance (1), for example (1)
@@ -979,24 +967,23 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - spoiler (1)
 
-#### Mishandling data assets and the fear of messing up
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/mishandling-data-assets-fear-of-messing-up?u=76281980)
+#### [Mishandling data assets and the fear of messing up](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/mishandling-data-assets-fear-of-messing-up?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/mishandling-data-assets-fear-of-messing-up?u=76281980&t=0)** - The rate of tech change and the constant flow of data requests make human errors not only probable, but inevitable.
 >
-> **[0:10](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/mishandling-data-assets-fear-of-messing-up?u=76281980&t=10)** In recent reporting, Google's Gemini receives over 8,500 visitors.
+> **[0:10](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/mishandling-data-assets-fear-of-messing-up?u=76281980&t=10)** In recent reporting, [[Google]]'s [[Gemini]] receives over 8,500 visitors.
 >
-> **[0:18](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/mishandling-data-assets-fear-of-messing-up?u=76281980&t=18)** There's over 1 million messages sent on Slack.
+> **[0:18](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/mishandling-data-assets-fear-of-messing-up?u=76281980&t=18)** There's over 1 million messages sent on [[Slack]].
 >
-> **[0:22](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/mishandling-data-assets-fear-of-messing-up?u=76281980&t=22)** And Microsoft Teams records 229 million meeting minutes.
+> **[0:22](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/mishandling-data-assets-fear-of-messing-up?u=76281980&t=22)** And [[Microsoft Teams]] records 229 million meeting minutes.
 >
 > **[0:30](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/mishandling-data-assets-fear-of-messing-up?u=76281980&t=30)** And this is all happening in just one minute.
 >
 > **[0:36](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/mishandling-data-assets-fear-of-messing-up?u=76281980&t=36)** That's every 60 seconds.
 >
-> **[0:39](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/mishandling-data-assets-fear-of-messing-up?u=76281980&t=39)** Overlooking and forgetting some aspect of the data collection is truly understandable, even when it's still embarrassing.
+> **[0:39](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/mishandling-data-assets-fear-of-messing-up?u=76281980&t=39)** Overlooking and forgetting some aspect of the [[Data Collection]] is truly understandable, even when it's still embarrassing.
 >
 > **[0:51](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/mishandling-data-assets-fear-of-messing-up?u=76281980&t=51)** You know that the slip-up can cause reverberating effects downstream in the data pipeline.
 >
@@ -1012,11 +999,11 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/mishandling-data-assets-fear-of-messing-up?u=76281980&t=97)** To help temper initial uncertainties, it's helpful to co-create a fundamental data handling cheat sheet or checklist with your team.
 >
-> **[1:48](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/mishandling-data-assets-fear-of-messing-up?u=76281980&t=108)** I like to focus on the preparation and planning activities, like identifying the question this data is trying to answer, clarifying a reasonable scope of the data collection tasks, outlining the specific data requirements, determining how data validation might work, and standardizing data formats.
+> **[1:48](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/mishandling-data-assets-fear-of-messing-up?u=76281980&t=108)** I like to focus on the preparation and planning activities, like identifying the question this data is trying to answer, clarifying a reasonable scope of the data collection tasks, outlining the specific data requirements, determining how [[Data Validation]] might work, and standardizing data formats.
 >
 > **[2:15](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/mishandling-data-assets-fear-of-messing-up?u=76281980&t=135)** This list may seem like a lot, but once you've refined your flow, you'll march through these with ease.
 >
-> **[2:24](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/mishandling-data-assets-fear-of-messing-up?u=76281980&t=144)** I recommend concentrating your time on data quality, privacy, and security efforts.
+> **[2:24](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/mishandling-data-assets-fear-of-messing-up?u=76281980&t=144)** I recommend concentrating your time on [[Data Quality]], [[Privacy]], and security efforts.
 >
 > **[2:32](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/mishandling-data-assets-fear-of-messing-up?u=76281980&t=152)** This is where ethical considerations are highly debated.
 >
@@ -1028,13 +1015,13 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/mishandling-data-assets-fear-of-messing-up?u=76281980&t=182)** It's dense and lengthy, and a great resource.
 >
-> **[3:07](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/mishandling-data-assets-fear-of-messing-up?u=76281980&t=187)** The last tip I have for you is to keep the IEEE standards on data privacy and building trust bookmarked on your workplace devices.
+> **[3:07](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/mishandling-data-assets-fear-of-messing-up?u=76281980&t=187)** The last tip I have for you is to keep the IEEE standards on [[Data Privacy]] and [[Building Trust]] bookmarked on your workplace devices.
 >
 > **[3:19](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/mishandling-data-assets-fear-of-messing-up?u=76281980&t=199)** No, seriously, since you're handling different types of data, have the compliance rules easily available.
 >
 > **[3:29](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/mishandling-data-assets-fear-of-messing-up?u=76281980&t=209)** There's no need to create them from scratch, they're already done for you.
 >
-> **[3:33](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/mishandling-data-assets-fear-of-messing-up?u=76281980&t=213)** And then you can productively discuss with your data ethics team or the company's ethics review committee about the degree in which your data collection process is handled responsibly, not just legally.
+> **[3:33](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/mishandling-data-assets-fear-of-messing-up?u=76281980&t=213)** And then you can productively discuss with your [[Data Ethics]] team or the company's [[Ethics]] review committee about the degree in which your data collection process is handled responsibly, not just legally.
 >
 > **[3:51](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/mishandling-data-assets-fear-of-messing-up?u=76281980&t=231)** And there you have it.
 >
@@ -1044,7 +1031,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Privacy]] (2), [[Ethics]] (2), next (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[Data Collection]] (4), [[Data Quality]] (3), [[Google]] (1), [[Gemini]] (1), [[Slack]] (1)
 > **Env Vars:** iso (1), ieee (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -1057,8 +1044,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1074,7 +1060,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/next-steps?u=76281980&t=21)** If you're interested, my book, "Data Conscience: Algorithmic Siege on our Humanity" walks through other data lifecycle phases and offers more ethical strategies.
 >
-> **[0:33](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/next-steps?u=76281980&t=33)** For those focusing on data mitigation, Dr. Nika White has a great LinkedIn Learning course to navigate AI through an intersectional lens.
+> **[0:33](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/next-steps?u=76281980&t=33)** For those focusing on data mitigation, Dr. Nika White has a great [[LinkedIn]] Learning course to navigate AI through an intersectional lens.
 >
 > **[0:46](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/next-steps?u=76281980&t=46)** Lastly, keep in touch with me on LinkedIn and check out my work and my Rebel Tech newsletter.
 >
@@ -1084,7 +1070,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[LinkedIn]] (2), ai (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2)
 > **Speakers:** - well (1)
 
 

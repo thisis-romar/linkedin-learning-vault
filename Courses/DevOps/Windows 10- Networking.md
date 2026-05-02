@@ -73,8 +73,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding Windows 10 networking
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-networking-22602895/understanding-windows-10-networking?u=76281980)
+#### [Understanding Windows 10 networking](https://www.linkedin.com/learning/windows-10-networking-22602895/understanding-windows-10-networking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -100,7 +99,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (1)
 > **Env Vars:** dhcp (1), tcpip (1), dns (1)
 > **Warnings:** troubleshoot (1)
 > **Prerequisites:** configure (1)
@@ -111,12 +109,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Connect to the internet
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-networking-22602895/connect-to-the-internet?u=76281980)
+#### [Connect to the internet](https://www.linkedin.com/learning/windows-10-networking-22602895/connect-to-the-internet?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-networking-22602895/connect-to-the-internet?u=76281980&t=0)** - [Instructor] It doesn't matter whether you've just purchased your first Windows 10 computer or if you're an experienced user.
+> **[0:00](https://www.linkedin.com/learning/windows-10-networking-22602895/connect-to-the-internet?u=76281980&t=0)** - [Instructor] It doesn't matter whether you've just purchased your first [[Windows 10]] computer or if you're an experienced user.
 >
 > **[0:07](https://www.linkedin.com/learning/windows-10-networking-22602895/connect-to-the-internet?u=76281980&t=7)** The first thing you need to do is get connected to a network so that you can access the internet.
 >
@@ -124,7 +121,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/windows-10-networking-22602895/connect-to-the-internet?u=76281980&t=18)** This connection can be wired or wireless.
 >
-> **[0:22](https://www.linkedin.com/learning/windows-10-networking-22602895/connect-to-the-internet?u=76281980&t=22)** A wired connection uses an ethernet cable, and a wireless connection uses wireless hardware including network cards and access points.
+> **[0:22](https://www.linkedin.com/learning/windows-10-networking-22602895/connect-to-the-internet?u=76281980&t=22)** A wired connection uses an ethernet cable, and a wireless connection uses wireless [[Hardware]] including network cards and access points.
 >
 > **[0:30](https://www.linkedin.com/learning/windows-10-networking-22602895/connect-to-the-internet?u=76281980&t=30)** By far, the easiest way to connect is with ethernet.
 >
@@ -152,7 +149,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/windows-10-networking-22602895/connect-to-the-internet?u=76281980&t=92)** If you see this prompt, click yes if it's a network you trust, like one in your home, or no if you're in a public place, like a coffee shop.
 >
-> **[1:44](https://www.linkedin.com/learning/windows-10-networking-22602895/connect-to-the-internet?u=76281980&t=104)** There are several popular web browsers including Microsoft Edge, which comes with Windows 10.
+> **[1:44](https://www.linkedin.com/learning/windows-10-networking-22602895/connect-to-the-internet?u=76281980&t=104)** There are several popular web browsers including [[Microsoft]] Edge, which comes with Windows 10.
 >
 > **[1:50](https://www.linkedin.com/learning/windows-10-networking-22602895/connect-to-the-internet?u=76281980&t=110)** You can locate that from the search icon if it's not on the task bar already.
 >
@@ -170,7 +167,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/windows-10-networking-22602895/connect-to-the-internet?u=76281980&t=152)** Now let's talk about public versus private networks.
 >
-> **[2:36](https://www.linkedin.com/learning/windows-10-networking-22602895/connect-to-the-internet?u=76281980&t=156)** Earlier, if you connected to a local area network and told Windows, you trusted it, Windows marked this network as private.
+> **[2:36](https://www.linkedin.com/learning/windows-10-networking-22602895/connect-to-the-internet?u=76281980&t=156)** Earlier, if you connected to a [[Local Area Network (LAN)|local area network]] and told [[Windows]], you trusted it, Windows marked this network as private.
 >
 > **[2:45](https://www.linkedin.com/learning/windows-10-networking-22602895/connect-to-the-internet?u=76281980&t=165)** To see what you've selected, click start, settings, and network and internet.
 >
@@ -230,7 +227,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows 10]] (3), next (3), web (3), [[Security]] (2), prompt (2)
+> **Frameworks & Libraries:** [[Windows 10]] (3), [[Windows]] (2), [[Hardware]] (1), [[Microsoft]] (1), [[Local Area Network (LAN)|Local area network]] (1)
 > **Prerequisites:** you'll need (2)
 > **CLI Commands:** make (1)
 > **Versions:** 2.4 (1)
@@ -238,8 +235,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Network profiles
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-networking-22602895/network-profiles?u=76281980)
+#### [Network profiles](https://www.linkedin.com/learning/windows-10-networking-22602895/network-profiles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -249,13 +245,13 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/windows-10-networking-22602895/network-profiles?u=76281980&t=11)** A home network might also have three or four computers or laptops, a shared printer, maybe even a hand handful of tablets or smartphones.
 >
-> **[0:19](https://www.linkedin.com/learning/windows-10-networking-22602895/network-profiles?u=76281980&t=19)** Think about the network you have set up in your home or small office.
+> **[0:19](https://www.linkedin.com/learning/windows-10-networking-22602895/network-profiles?u=76281980&t=19)** Think about the network you have set up in your home or small [[Microsoft Office|office]].
 >
 > **[0:23](https://www.linkedin.com/learning/windows-10-networking-22602895/network-profiles?u=76281980&t=23)** Does it look similar to this?
 >
 > **[0:25](https://www.linkedin.com/learning/windows-10-networking-22602895/network-profiles?u=76281980&t=25)** A network for a small business might include a single network server, a dozen workstations, and a few shared devices.
 >
-> **[0:32](https://www.linkedin.com/learning/windows-10-networking-22602895/network-profiles?u=76281980&t=32)** A network for a larger corporation or enterprise could consist of hundreds of computers spread over several sub networks complete with all kinds of connected hardware.
+> **[0:32](https://www.linkedin.com/learning/windows-10-networking-22602895/network-profiles?u=76281980&t=32)** A network for a larger corporation or enterprise could consist of hundreds of computers spread over several sub networks complete with all kinds of connected [[Hardware]].
 >
 > **[0:43](https://www.linkedin.com/learning/windows-10-networking-22602895/network-profiles?u=76281980&t=43)** Thus, business networks are generally more robust than home networks.
 >
@@ -289,7 +285,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/windows-10-networking-22602895/network-profiles?u=76281980&t=132)** Resources are available, but users need the proper permissions to access them.
 >
-> **[2:17](https://www.linkedin.com/learning/windows-10-networking-22602895/network-profiles?u=76281980&t=137)** Windows decides what network profile to apply by how you answer the question regarding discoverability when you join it.
+> **[2:17](https://www.linkedin.com/learning/windows-10-networking-22602895/network-profiles?u=76281980&t=137)** [[Windows]] decides what network profile to apply by how you answer the question regarding discoverability when you join it.
 >
 > **[2:25](https://www.linkedin.com/learning/windows-10-networking-22602895/network-profiles?u=76281980&t=145)** We talked about that prompt and saw it in the last movie.
 >
@@ -321,7 +317,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Windows]] (3), [[Microsoft Office|Office]] (1), [[Hardware]] (1), data (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Microsoft Office|Office]] (1), [[Hardware]] (1)
 > **Cross-References:** we talked about (2), in the last (1)
 > **Prerequisites:** set up (2)
 > **CLI Commands:** make (1)
@@ -330,12 +326,11 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configure advanced profile sharing options
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-networking-22602895/configure-advanced-profile-sharing-options?u=76281980)
+#### [Configure advanced profile sharing options](https://www.linkedin.com/learning/windows-10-networking-22602895/configure-advanced-profile-sharing-options?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-networking-22602895/configure-advanced-profile-sharing-options?u=76281980&t=0)** - [Instructor] Every time you connect to a network, Windows applies a network profile.
+> **[0:00](https://www.linkedin.com/learning/windows-10-networking-22602895/configure-advanced-profile-sharing-options?u=76281980&t=0)** - [Instructor] Every time you connect to a network, [[Windows]] applies a network profile.
 >
 > **[0:05](https://www.linkedin.com/learning/windows-10-networking-22602895/configure-advanced-profile-sharing-options?u=76281980&t=5)** In the last movie, you learned that there are three: private, public, and domain.
 >
@@ -401,7 +396,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (2), data (2), next (1)
+> **Frameworks & Libraries:** [[Windows]] (2)
 > **CLI Commands:** make (4)
 > **Prerequisites:** setup (1), configure (1)
 > **Cross-References:** in the last (1)
@@ -410,8 +405,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Network connectivity: TCP/IP
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-networking-22602895/network-connectivity-tcp-ip?u=76281980)
+#### [Network connectivity: TCP/IP](https://www.linkedin.com/learning/windows-10-networking-22602895/network-connectivity-tcp-ip?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -447,7 +441,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/windows-10-networking-22602895/network-connectivity-tcp-ip?u=76281980&t=95)** Scroll down.
 >
-> **[1:37](https://www.linkedin.com/learning/windows-10-networking-22602895/network-connectivity-tcp-ip?u=76281980&t=97)** Click view hardware and connection properties.
+> **[1:37](https://www.linkedin.com/learning/windows-10-networking-22602895/network-connectivity-tcp-ip?u=76281980&t=97)** Click view [[Hardware]] and connection properties.
 >
 > **[1:43](https://www.linkedin.com/learning/windows-10-networking-22602895/network-connectivity-tcp-ip?u=76281980&t=103)** You'll see a lot of terms here you may not be familiar with.
 >
@@ -485,7 +479,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/windows-10-networking-22602895/network-connectivity-tcp-ip?u=76281980&t=185)** In order for data to travel across networks, such as those separated by a router, TCP/IP must be used.
 >
-> **[3:12](https://www.linkedin.com/learning/windows-10-networking-22602895/network-connectivity-tcp-ip?u=76281980&t=192)** TCP/IP plays a big part in IP addressing.
+> **[3:12](https://www.linkedin.com/learning/windows-10-networking-22602895/network-connectivity-tcp-ip?u=76281980&t=192)** TCP/IP plays a big part in [[IP Addressing]].
 >
 > **[3:16](https://www.linkedin.com/learning/windows-10-networking-22602895/network-connectivity-tcp-ip?u=76281980&t=196)** Now, let's locate the physical address called a MAC address, or media access control address.
 >
@@ -493,13 +487,13 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/windows-10-networking-22602895/network-connectivity-tcp-ip?u=76281980&t=208)** This address is a physical address generally supplied by the manufacturer of your computer.
 >
-> **[3:34](https://www.linkedin.com/learning/windows-10-networking-22602895/network-connectivity-tcp-ip?u=76281980&t=214)** If you're heading right into the next movie, you can leave these windows open if you like.
+> **[3:34](https://www.linkedin.com/learning/windows-10-networking-22602895/network-connectivity-tcp-ip?u=76281980&t=214)** If you're heading right into the next movie, you can leave these [[Windows]] open if you like.
 >
 > **[3:39](https://www.linkedin.com/learning/windows-10-networking-22602895/network-connectivity-tcp-ip?u=76281980&t=219)** If you're going to take a break, feel free to close all dialogue boxes and windows.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (2), [[Windows]] (2), [[Hardware]] (1), traffic (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Hardware]] (1), [[IP Addressing]] (1)
 > **Env Vars:** tcp (4), dhcp (2), mac (1)
 > **UI Navigation:** scroll down (2), go to (1)
 > **Analogies:** picture (1), for instance (1), such as (1)
@@ -507,12 +501,11 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Network connectivity: DHCP and DNS
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-networking-22602895/network-connectivity-dhcp-and-dns?u=76281980)
+#### [Network connectivity: DHCP and DNS](https://www.linkedin.com/learning/windows-10-networking-22602895/network-connectivity-dhcp-and-dns?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-networking-22602895/network-connectivity-dhcp-and-dns?u=76281980&t=0)** - [Instructor] When working with TCP/IP addresses, you can choose to assign the addresses manually or let Windows assign them automatically.
+> **[0:00](https://www.linkedin.com/learning/windows-10-networking-22602895/network-connectivity-dhcp-and-dns?u=76281980&t=0)** - [Instructor] When working with TCP/IP addresses, you can choose to assign the addresses manually or let [[Windows]] assign them automatically.
 >
 > **[0:08](https://www.linkedin.com/learning/windows-10-networking-22602895/network-connectivity-dhcp-and-dns?u=76281980&t=8)** DHCP, or Dynamic Host Configuration Protocol, is used to assign IP addresses automatically.
 >
@@ -524,7 +517,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/windows-10-networking-22602895/network-connectivity-dhcp-and-dns?u=76281980&t=29)** Click Status and scroll down.
 >
-> **[0:32](https://www.linkedin.com/learning/windows-10-networking-22602895/network-connectivity-dhcp-and-dns?u=76281980&t=32)** Click View hardware and connection properties.
+> **[0:32](https://www.linkedin.com/learning/windows-10-networking-22602895/network-connectivity-dhcp-and-dns?u=76281980&t=32)** Click View [[Hardware]] and connection properties.
 >
 > **[0:37](https://www.linkedin.com/learning/windows-10-networking-22602895/network-connectivity-dhcp-and-dns?u=76281980&t=37)** Locate DHCP enabled and see what's listed.
 >
@@ -564,7 +557,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/windows-10-networking-22602895/network-connectivity-dhcp-and-dns?u=76281980&t=124)** Note that if a computer can't get an IP address from a DHCP server, a no-static IP address is set and addresses automatically assigned to it by Windows.
 >
-> **[2:14](https://www.linkedin.com/learning/windows-10-networking-22602895/network-connectivity-dhcp-and-dns?u=76281980&t=134)** This is called Automatic IP Addressing.
+> **[2:14](https://www.linkedin.com/learning/windows-10-networking-22602895/network-connectivity-dhcp-and-dns?u=76281980&t=134)** This is called Automatic [[IP Addressing]].
 >
 > **[2:18](https://www.linkedin.com/learning/windows-10-networking-22602895/network-connectivity-dhcp-and-dns?u=76281980&t=138)** APIPA uses a reserved range of 169.254.0.0 to 169.254.255.254 It's a Windows-based feature that enables communications when no other options are available.
 >
@@ -592,7 +585,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (6), [[Windows]] (3), [[Hardware]] (3), [[IP Addressing]] (2), web (2)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Hardware]] (3), [[IP Addressing]] (2)
 > **Env Vars:** dhcp (6), dns (6), tcp (3), apipa (2), mac (1)
 > **UI Navigation:** go to (2), open the (1), scroll down (1), right-click (1)
 > **CLI Commands:** make (2), find (1)
@@ -601,8 +594,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1), make sure you have (1)
 > **Analogies:** imagine (1)
 
-#### Configure network adapters
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-networking-22602895/configure-network-adapters?u=76281980)
+#### [Configure network adapters](https://www.linkedin.com/learning/windows-10-networking-22602895/configure-network-adapters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -646,7 +638,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/windows-10-networking-22602895/configure-network-adapters?u=76281980&t=90)** There are also various WAN miniports.
 >
-> **[1:33](https://www.linkedin.com/learning/windows-10-networking-22602895/configure-network-adapters?u=76281980&t=93)** These kinds of adapters are virtual adapters that allow Windows to split a network in two.
+> **[1:33](https://www.linkedin.com/learning/windows-10-networking-22602895/configure-network-adapters?u=76281980&t=93)** These kinds of adapters are virtual adapters that allow [[Windows]] to split a network in two.
 >
 > **[1:38](https://www.linkedin.com/learning/windows-10-networking-22602895/configure-network-adapters?u=76281980&t=98)** For instance, you can connect to a laptop using ethernet, and at the same time, use that laptop to create a wireless hotspot for other devices.
 >
@@ -722,7 +714,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (3), [[Search]] (1), data (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Windows]] (3)
 > **Env Vars:** usb (1), wan (1), tcpip (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
@@ -731,12 +723,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manage default printers
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-networking-22602895/manage-default-printers?u=76281980)
+#### [Manage default printers](https://www.linkedin.com/learning/windows-10-networking-22602895/manage-default-printers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-networking-22602895/manage-default-printers?u=76281980&t=0)** - [Narrator] Have you noticed, especially if you switch among wireless networks often, that each time you try to print something, Windows default to the last printer you used?
+> **[0:00](https://www.linkedin.com/learning/windows-10-networking-22602895/manage-default-printers?u=76281980&t=0)** - [Narrator] Have you noticed, especially if you switch among wireless networks often, that each time you try to print something, [[Windows]] default to the last printer you used?
 >
 > **[0:09](https://www.linkedin.com/learning/windows-10-networking-22602895/manage-default-printers?u=76281980&t=9)** This is supposed to happen, and most home and small business users appreciate the convenience.
 >
@@ -784,7 +775,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/windows-10-networking-22602895/manage-default-printers?u=76281980&t=102)** This is where you can share your printer, and if you see advanced, you can click that as well.
 >
-> **[1:48](https://www.linkedin.com/learning/windows-10-networking-22602895/manage-default-printers?u=76281980&t=108)** You may see options that allow you to open the print queue, print a test page, run a troubleshooter, set printer properties and printing preferences, and see hardware properties.
+> **[1:48](https://www.linkedin.com/learning/windows-10-networking-22602895/manage-default-printers?u=76281980&t=108)** You may see options that allow you to open the print queue, print a test page, run a troubleshooter, set printer properties and printing preferences, and see [[Hardware]] properties.
 >
 > **[1:59](https://www.linkedin.com/learning/windows-10-networking-22602895/manage-default-printers?u=76281980&t=119)** When you're finished exploring, click cancel.
 >
@@ -800,7 +791,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/windows-10-networking-22602895/manage-default-printers?u=76281980&t=143)** From here, if you see a printer you don't need and you want to remove it, just click it and then click remove device.
 >
-> **[2:29](https://www.linkedin.com/learning/windows-10-networking-22602895/manage-default-printers?u=76281980&t=149)** I'll choose OneNote Desktop.
+> **[2:29](https://www.linkedin.com/learning/windows-10-networking-22602895/manage-default-printers?u=76281980&t=149)** I'll choose [[OneNote]] Desktop.
 >
 > **[2:32](https://www.linkedin.com/learning/windows-10-networking-22602895/manage-default-printers?u=76281980&t=152)** Honestly, I don't even know where this came from, so I'll click remove device.
 >
@@ -814,17 +805,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (4), [[Hardware]] (2), business (1), [[OneNote]] (1)
+> **Frameworks & Libraries:** [[Windows]] (4), [[Hardware]] (2), [[OneNote]] (1)
 > **UI Navigation:** open the (2), scroll down (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
-#### Create a VPN
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-networking-22602895/create-a-vpn?u=76281980)
+#### [Create a VPN](https://www.linkedin.com/learning/windows-10-networking-22602895/create-a-vpn?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-networking-22602895/create-a-vpn?u=76281980&t=0)** - [Instructor] A VPN or virtual private network, is a type of network connection that enables users to securely connect to a remote computer or a network server using the internet as a connection medium.
+> **[0:00](https://www.linkedin.com/learning/windows-10-networking-22602895/create-a-vpn?u=76281980&t=0)** - [Instructor] A VPN or [[Virtual Private Network (VPN)|virtual private network]], is a type of network connection that enables users to securely connect to a remote computer or a network server using the internet as a connection medium.
 >
 > **[0:12](https://www.linkedin.com/learning/windows-10-networking-22602895/create-a-vpn?u=76281980&t=12)** VPNs have built in security and encryption technologies that enable data to be transmitted securely even when the actual network is out of the administrator's control.
 >
@@ -846,7 +836,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/windows-10-networking-22602895/create-a-vpn?u=76281980&t=70)** Now you can choose to add a VPN connection, let's click that.
 >
-> **[1:15](https://www.linkedin.com/learning/windows-10-networking-22602895/create-a-vpn?u=76281980&t=75)** For the VPN provider I'll choose Windows.
+> **[1:15](https://www.linkedin.com/learning/windows-10-networking-22602895/create-a-vpn?u=76281980&t=75)** For the VPN provider I'll choose [[Windows]].
 >
 > **[1:18](https://www.linkedin.com/learning/windows-10-networking-22602895/create-a-vpn?u=76281980&t=78)** I'll go ahead and fill this out with the information I have.
 >
@@ -872,13 +862,13 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/windows-10-networking-22602895/create-a-vpn?u=76281980&t=148)** The same network servers are available as are the printers and other shared resources.
 >
-> **[2:33](https://www.linkedin.com/learning/windows-10-networking-22602895/create-a-vpn?u=76281980&t=153)** VPNs have become a valuable resource for enterprises and remote employees and enable users to work securely even when they're away from the office.
+> **[2:33](https://www.linkedin.com/learning/windows-10-networking-22602895/create-a-vpn?u=76281980&t=153)** VPNs have become a valuable resource for enterprises and remote employees and enable users to work securely even when they're away from the [[Microsoft Office|office]].
 >
 > **[2:42](https://www.linkedin.com/learning/windows-10-networking-22602895/create-a-vpn?u=76281980&t=162)** If you have the information you need, then put it here and give it a try.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** vpn (10), [[Security]] (2), [[Windows]] (2), [[Virtual Private Network (VPN)|Virtual private network]] (1), data (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Virtual Private Network (VPN)|Virtual private network]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** vpn (10)
 > **Prerequisites:** you'll need (2)
 > **Definitions:** is a  (1)
@@ -889,8 +879,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Connect to a wireless network
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-networking-22602895/connect-to-a-wireless-network?u=76281980)
+#### [Connect to a wireless network](https://www.linkedin.com/learning/windows-10-networking-22602895/connect-to-a-wireless-network?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -904,9 +893,9 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/windows-10-networking-22602895/connect-to-a-wireless-network?u=76281980&t=22)** You can also choose from a list of networks.
 >
-> **[0:25](https://www.linkedin.com/learning/windows-10-networking-22602895/connect-to-a-wireless-network?u=76281980&t=25)** On a Windows 10 machine, just click the Network icon on the task bar.
+> **[0:25](https://www.linkedin.com/learning/windows-10-networking-22602895/connect-to-a-wireless-network?u=76281980&t=25)** On a [[Windows 10]] machine, just click the Network icon on the task bar.
 >
-> **[0:33](https://www.linkedin.com/learning/windows-10-networking-22602895/connect-to-a-wireless-network?u=76281980&t=33)** You can tell Windows to remember the networks you connect to so that you can connect quickly and without prompting the next time you're in range of them.
+> **[0:33](https://www.linkedin.com/learning/windows-10-networking-22602895/connect-to-a-wireless-network?u=76281980&t=33)** You can tell [[Windows]] to remember the networks you connect to so that you can connect quickly and without prompting the next time you're in range of them.
 >
 > **[0:40](https://www.linkedin.com/learning/windows-10-networking-22602895/connect-to-a-wireless-network?u=76281980&t=40)** I'll show you.
 >
@@ -990,18 +979,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (5), next (3), data (2), prompt (1), [[Windows 10]] (1)
+> **Frameworks & Libraries:** [[Windows]] (5), [[Windows 10]] (1)
 > **Prerequisites:** you'll need (1), set up (1), configure (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - i (1)
 
-#### Manage wireless networks
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-networking-22602895/manage-wireless-networks?u=76281980)
+#### [Manage wireless networks](https://www.linkedin.com/learning/windows-10-networking-22602895/manage-wireless-networks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-networking-22602895/manage-wireless-networks?u=76281980&t=0)** - [Instructor] There's more to wireless networking than simply connecting to networks.
+> **[0:00](https://www.linkedin.com/learning/windows-10-networking-22602895/manage-wireless-networks?u=76281980&t=0)** - [Instructor] There's more to [[Wireless Networking]] than simply connecting to networks.
 >
 > **[0:04](https://www.linkedin.com/learning/windows-10-networking-22602895/manage-wireless-networks?u=76281980&t=4)** There are a lot of configuration options to explore.
 >
@@ -1009,7 +997,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/windows-10-networking-22602895/manage-wireless-networks?u=76281980&t=12)** From here, you can quickly enable or disable Wi-Fi.
 >
-> **[0:16](https://www.linkedin.com/learning/windows-10-networking-22602895/manage-wireless-networks?u=76281980&t=16)** You might want to disable Wi-Fi if your battery power is low to keep windows from looking for wireless networks when you don't need one.
+> **[0:16](https://www.linkedin.com/learning/windows-10-networking-22602895/manage-wireless-networks?u=76281980&t=16)** You might want to disable Wi-Fi if your battery power is low to keep [[Windows]] from looking for wireless networks when you don't need one.
 >
 > **[0:24](https://www.linkedin.com/learning/windows-10-networking-22602895/manage-wireless-networks?u=76281980&t=24)** You also have access to Airplane Mode.
 >
@@ -1053,15 +1041,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Wireless Networking]] (1), power (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Wireless Networking]] (1), [[Windows]] (1)
 > **Best Practices:** it's best to (1), make sure to (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** gps (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Troubleshoot wireless network connectivity
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-networking-22602895/troubleshoot-wireless-network-connectivity?u=76281980)
+#### [Troubleshoot wireless network connectivity](https://www.linkedin.com/learning/windows-10-networking-22602895/troubleshoot-wireless-network-connectivity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1119,7 +1106,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/windows-10-networking-22602895/troubleshoot-wireless-network-connectivity?u=76281980&t=138)** If these solutions don't fix your connection problems, you can try the Network Troubleshooter.
 >
-> **[2:23](https://www.linkedin.com/learning/windows-10-networking-22602895/troubleshoot-wireless-network-connectivity?u=76281980&t=143)** It comes with Windows 10 and can often locate the problem and resolve it.
+> **[2:23](https://www.linkedin.com/learning/windows-10-networking-22602895/troubleshoot-wireless-network-connectivity?u=76281980&t=143)** It comes with [[Windows 10]] and can often locate the problem and resolve it.
 >
 > **[2:28](https://www.linkedin.com/learning/windows-10-networking-22602895/troubleshoot-wireless-network-connectivity?u=76281980&t=148)** Back at the taskbar, right-click the Network icon and click Troubleshoot problems.
 >
@@ -1127,7 +1114,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/windows-10-networking-22602895/troubleshoot-wireless-network-connectivity?u=76281980&t=162)** I'll leave All network adapters selected and click Next.
 >
-> **[2:47](https://www.linkedin.com/learning/windows-10-networking-22602895/troubleshoot-wireless-network-connectivity?u=76281980&t=167)** Windows has a solution here to plug an ethernet cable into the computer.
+> **[2:47](https://www.linkedin.com/learning/windows-10-networking-22602895/troubleshoot-wireless-network-connectivity?u=76281980&t=167)** [[Windows]] has a solution here to plug an ethernet cable into the computer.
 >
 > **[2:52](https://www.linkedin.com/learning/windows-10-networking-22602895/troubleshoot-wireless-network-connectivity?u=76281980&t=172)** I don't connect with an ethernet cable, so I'm going to skip this step and see what happens.
 >
@@ -1169,7 +1156,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Windows]] (2), [[Windows 10]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Windows 10]] (1)
 > **UI Navigation:** right-click (4)
 > **CLI Commands:** find (3)
 > **Env Vars:** adhcp (1), dhcp (1)
@@ -1183,8 +1170,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Configure Windows Defender Firewall
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-networking-22602895/configure-windows-defender-firewall?u=76281980)
+#### [Configure Windows Defender Firewall](https://www.linkedin.com/learning/windows-10-networking-22602895/configure-windows-defender-firewall?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1200,7 +1186,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/windows-10-networking-22602895/configure-windows-defender-firewall?u=76281980&t=26)** Have you ever wondered what keeps your computer safe in all of these different environments and how that safety is achieved?
 >
-> **[0:33](https://www.linkedin.com/learning/windows-10-networking-22602895/configure-windows-defender-firewall?u=76281980&t=33)** Most of the time, at least when connected to a private or public network, it's your basic Windows Defender Firewall.
+> **[0:33](https://www.linkedin.com/learning/windows-10-networking-22602895/configure-windows-defender-firewall?u=76281980&t=33)** Most of the time, at least when connected to a private or public network, it's your basic [[Windows]] [[Microsoft Defender|Defender]] Firewall.
 >
 > **[0:40](https://www.linkedin.com/learning/windows-10-networking-22602895/configure-windows-defender-firewall?u=76281980&t=40)** Go ahead and open Windows Defender Firewall on your own PC.
 >
@@ -1286,7 +1272,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (11), [[Microsoft Defender|Defender]] (8), next (3), [[Search]] (2), feature (2)
+> **Frameworks & Libraries:** [[Windows]] (11), [[Microsoft Defender|Defender]] (8)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (1), open the (1), scroll down (1)
 > **Cross-References:** in the next (1), next video (1)
@@ -1295,12 +1281,11 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Prerequisites:** set up (1)
 
-#### Manage Windows Defender Firewall with advanced security
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-networking-22602895/manage-windows-defender-firewall-with-advanced-security?u=76281980)
+#### [Manage Windows Defender Firewall with advanced security](https://www.linkedin.com/learning/windows-10-networking-22602895/manage-windows-defender-firewall-with-advanced-security?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-networking-22602895/manage-windows-defender-firewall-with-advanced-security?u=76281980&t=0)** - [Instructor] Windows Defender Firewall, shown here, is often the first line of defense to protect a computer from outside attacks.
+> **[0:00](https://www.linkedin.com/learning/windows-10-networking-22602895/manage-windows-defender-firewall-with-advanced-security?u=76281980&t=0)** - [Instructor] [[Windows]] [[Microsoft Defender|Defender]] Firewall, shown here, is often the first line of defense to protect a computer from outside attacks.
 >
 > **[0:08](https://www.linkedin.com/learning/windows-10-networking-22602895/manage-windows-defender-firewall-with-advanced-security?u=76281980&t=8)** It does this by providing a two-way vigilant inspection of all of the packets that carry data into and out of a network.
 >
@@ -1376,20 +1361,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), [[Windows]] (5), [[Microsoft Defender|Defender]] (3), data (2), power (2)
+> **Frameworks & Libraries:** [[Windows]] (5), [[Microsoft Defender|Defender]] (3)
 > **UI Navigation:** double-click (3), scroll down (2)
 > **Cross-References:** we talked about (1), in the last (1), later in (1)
 > **Env Vars:** tcp (1)
 > **Speakers:** - [instructor] (1)
 
-#### Explore Windows Security
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-networking-22602895/explore-windows-security?u=76281980)
+#### [Explore Windows Security](https://www.linkedin.com/learning/windows-10-networking-22602895/explore-windows-security?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-networking-22602895/explore-windows-security?u=76281980&t=0)** - [Instructor] You learned about Windows Defender Firewall in a previous movie, as well as the advanced options.
+> **[0:00](https://www.linkedin.com/learning/windows-10-networking-22602895/explore-windows-security?u=76281980&t=0)** - [Instructor] You learned about [[Windows]] [[Microsoft Defender|Defender]] Firewall in a previous movie, as well as the advanced options.
 >
-> **[0:06](https://www.linkedin.com/learning/windows-10-networking-22602895/explore-windows-security?u=76281980&t=6)** Now let's look at the newest options in Windows 10, Windows Security.
+> **[0:06](https://www.linkedin.com/learning/windows-10-networking-22602895/explore-windows-security?u=76281980&t=6)** Now let's look at the newest options in [[Windows 10]], Windows Security.
 >
 > **[0:11](https://www.linkedin.com/learning/windows-10-networking-22602895/explore-windows-security?u=76281980&t=11)** Let's search for Windows Security from the task bar and open it.
 >
@@ -1421,21 +1405,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (4), [[Security]] (3), [[Microsoft Defender|Defender]] (1), [[Windows 10]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Windows]] (4), [[Microsoft Defender|Defender]] (1), [[Windows 10]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** we discussed (1)
 > **Best Practices:** make sure to (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a connection security rule
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-networking-22602895/create-a-connection-security-rule?u=76281980)
+#### [Create a connection security rule](https://www.linkedin.com/learning/windows-10-networking-22602895/create-a-connection-security-rule?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/windows-10-networking-22602895/create-a-connection-security-rule?u=76281980&t=0)** - [Instructor] In this video, we'll discuss connection security rules.
 >
-> **[0:04](https://www.linkedin.com/learning/windows-10-networking-22602895/create-a-connection-security-rule?u=76281980&t=4)** Windows Firewall with advanced security, which is open here, has a lot of rules already configured in the inbound and outbound rules areas.
+> **[0:04](https://www.linkedin.com/learning/windows-10-networking-22602895/create-a-connection-security-rule?u=76281980&t=4)** [[Windows]] Firewall with advanced security, which is open here, has a lot of rules already configured in the inbound and outbound rules areas.
 >
 > **[0:14](https://www.linkedin.com/learning/windows-10-networking-22602895/create-a-connection-security-rule?u=76281980&t=14)** These rules apply to connections such as those created by applications like Remote Desktop and HyperV.
 >
@@ -1505,7 +1488,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), next (4), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **Versions:** 10.10.1 (2)
 > **UI Navigation:** right-click (2)
 > **Analogies:** such as (2)
@@ -1518,8 +1501,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use ping to troubleshoot network connectivity
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-networking-22602895/use-ping-to-troubleshoot-network-connectivity?u=76281980)
+#### [Use ping to troubleshoot network connectivity](https://www.linkedin.com/learning/windows-10-networking-22602895/use-ping-to-troubleshoot-network-connectivity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1557,13 +1539,13 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/windows-10-networking-22602895/use-ping-to-troubleshoot-network-connectivity?u=76281980&t=94)** This is what we want to see.
 >
-> **[1:36](https://www.linkedin.com/learning/windows-10-networking-22602895/use-ping-to-troubleshoot-network-connectivity?u=76281980&t=96)** You can also run this command from PowerShell.
+> **[1:36](https://www.linkedin.com/learning/windows-10-networking-22602895/use-ping-to-troubleshoot-network-connectivity?u=76281980&t=96)** You can also run this command from [[Powershell]].
 >
 > **[1:39](https://www.linkedin.com/learning/windows-10-networking-22602895/use-ping-to-troubleshoot-network-connectivity?u=76281980&t=99)** If you aren't familiar with this tool, it's mostly used by IT professionals and enables them to perform all kinds of tasks using cmdlets.
 >
 > **[1:48](https://www.linkedin.com/learning/windows-10-networking-22602895/use-ping-to-troubleshoot-network-connectivity?u=76281980&t=108)** Let's open PowerShell.
 >
-> **[1:51](https://www.linkedin.com/learning/windows-10-networking-22602895/use-ping-to-troubleshoot-network-connectivity?u=76281980&t=111)** From the taskbar, I'll simply type the word, and let's run that same command.
+> **[1:51](https://www.linkedin.com/learning/windows-10-networking-22602895/use-ping-to-troubleshoot-network-connectivity?u=76281980&t=111)** From the taskbar, I'll simply type the [[Microsoft Word|word]], and let's run that same command.
 >
 > **[2:04](https://www.linkedin.com/learning/windows-10-networking-22602895/use-ping-to-troubleshoot-network-connectivity?u=76281980&t=124)** Again, we get the same results.
 >
@@ -1601,7 +1583,7 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/windows-10-networking-22602895/use-ping-to-troubleshoot-network-connectivity?u=76281980&t=244)** When you receive this error, it means that no reply messages were received from the host within the default time of 1 second or 1000 milliseconds.
 >
-> **[4:15](https://www.linkedin.com/learning/windows-10-networking-22602895/use-ping-to-troubleshoot-network-connectivity?u=76281980&t=255)** Sometimes this is caused because the network is simply too busy to push the request through, but it could be more complicated and involve routing errors or problems with packet filtering.
+> **[4:15](https://www.linkedin.com/learning/windows-10-networking-22602895/use-ping-to-troubleshoot-network-connectivity?u=76281980&t=255)** Sometimes this is caused because the network is simply too busy to push the request through, but it could be more complicated and involve [[Routing]] errors or problems with packet filtering.
 >
 > **[4:26](https://www.linkedin.com/learning/windows-10-networking-22602895/use-ping-to-troubleshoot-network-connectivity?u=76281980&t=266)** If you think it's caused by an overworked network infrastructure, increase the amount of time ping uses.
 >
@@ -1639,11 +1621,11 @@ created: 2026-05-02
 >
 > **[6:14](https://www.linkedin.com/learning/windows-10-networking-22602895/use-ping-to-troubleshoot-network-connectivity?u=76281980&t=374)** You don't have to use all of these or even remember them, but I do want you to know that more options are available.
 >
-> **[6:20](https://www.linkedin.com/learning/windows-10-networking-22602895/use-ping-to-troubleshoot-network-connectivity?u=76281980&t=380)** Continue to explore here as desired, and when you're finished, close the Command Prompt and PowerShell windows.
+> **[6:20](https://www.linkedin.com/learning/windows-10-networking-22602895/use-ping-to-troubleshoot-network-connectivity?u=76281980&t=380)** Continue to explore here as desired, and when you're finished, close the Command Prompt and PowerShell [[Windows]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (5), prompt (3), [[Routing]] (2), [[Search]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (5), [[Routing]] (2), [[Microsoft Word|Word]] (1), [[Windows]] (1)
 > **Tools:** powershell (5), command prompt (3)
 > **Versions:** 127.0.0 (2), 192.168.1 (2), 192.168 (1), 1.82 (1)
 > **Env Vars:** tcp (1), ipv4 (1), ipv6 (1)
@@ -1652,8 +1634,7 @@ created: 2026-05-02
 > **Cross-References:** we covered (1)
 > **Prerequisites:** you'll need (1)
 
-#### Use ipconfig to troubleshoot network connectivity
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-networking-22602895/use-ipconfig-to-troubleshoot-network-connectivity?u=76281980)
+#### [Use ipconfig to troubleshoot network connectivity](https://www.linkedin.com/learning/windows-10-networking-22602895/use-ipconfig-to-troubleshoot-network-connectivity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1663,7 +1644,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/windows-10-networking-22602895/use-ipconfig-to-troubleshoot-network-connectivity?u=76281980&t=13)** Ipconfig can be used to troubleshoot and fix problems for DHCP, DNS, TCP/IP and others.
 >
-> **[0:21](https://www.linkedin.com/learning/windows-10-networking-22602895/use-ipconfig-to-troubleshoot-network-connectivity?u=76281980&t=21)** You can use this command at a command prompt or using Windows PowerShell.
+> **[0:21](https://www.linkedin.com/learning/windows-10-networking-22602895/use-ipconfig-to-troubleshoot-network-connectivity?u=76281980&t=21)** You can use this command at a command prompt or using [[Windows]] [[Powershell]].
 >
 > **[0:25](https://www.linkedin.com/learning/windows-10-networking-22602895/use-ipconfig-to-troubleshoot-network-connectivity?u=76281980&t=25)** I'll use PowerShell here.
 >
@@ -1697,7 +1678,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/windows-10-networking-22602895/use-ipconfig-to-troubleshoot-network-connectivity?u=76281980&t=103)** Because each host on a network needs a unique IP address, something we talked about in an earlier movie, the first thing you'll want to do if you're having IP problems is to release your address and renew it, providing you're using DHCP.
 >
-> **[1:58](https://www.linkedin.com/learning/windows-10-networking-22602895/use-ipconfig-to-troubleshoot-network-connectivity?u=76281980&t=118)** To do this, we'll type ipconfig, a space, a forward slash, and the word release.
+> **[1:58](https://www.linkedin.com/learning/windows-10-networking-22602895/use-ipconfig-to-troubleshoot-network-connectivity?u=76281980&t=118)** To do this, we'll type ipconfig, a space, a forward slash, and the [[Microsoft Word|word]] release.
 >
 > **[2:07](https://www.linkedin.com/learning/windows-10-networking-22602895/use-ipconfig-to-troubleshoot-network-connectivity?u=76281980&t=127)** This will release our current IP address.
 >
@@ -1789,7 +1770,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** lan (5), [[Powershell]] (3), dns (2), [[Windows]] (2), prompt (1)
+> **Frameworks & Libraries:** [[Powershell]] (3), [[Windows]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** dhcp (6), lan (5), dns (2), tcp (1)
 > **Tools:** powershell (3), command prompt (1)
 > **Non-Speech:** (keyboard clicking) (3), (mouse clicking) (1)
@@ -1798,8 +1779,7 @@ created: 2026-05-02
 > **Cross-References:** we talked about (1), as we saw (1)
 > **Prerequisites:** configure (1), you'll need (1)
 
-#### Use tracert to troubleshoot network connectivity
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-networking-22602895/use-tracert-to-troubleshoot-network-connectivity?u=76281980)
+#### [Use tracert to troubleshoot network connectivity](https://www.linkedin.com/learning/windows-10-networking-22602895/use-tracert-to-troubleshoot-network-connectivity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1811,17 +1791,17 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/windows-10-networking-22602895/use-tracert-to-troubleshoot-network-connectivity?u=76281980&t=27)** As you'll see in a minute, the tracert command creates a list of intermediate routers with corresponding time-to-live measurements to reach the destination host.
 >
-> **[0:37](https://www.linkedin.com/learning/windows-10-networking-22602895/use-tracert-to-troubleshoot-network-connectivity?u=76281980&t=37)** Let's open a PowerShell window and test it out.
+> **[0:37](https://www.linkedin.com/learning/windows-10-networking-22602895/use-tracert-to-troubleshoot-network-connectivity?u=76281980&t=37)** Let's open a [[Powershell]] window and test it out.
 >
-> **[0:40](https://www.linkedin.com/learning/windows-10-networking-22602895/use-tracert-to-troubleshoot-network-connectivity?u=76281980&t=40)** I'll type powershell here on the task bar and click Windows PowerShell in the results.
+> **[0:40](https://www.linkedin.com/learning/windows-10-networking-22602895/use-tracert-to-troubleshoot-network-connectivity?u=76281980&t=40)** I'll type powershell here on the task bar and click [[Windows]] PowerShell in the results.
 >
-> **[0:47](https://www.linkedin.com/learning/windows-10-networking-22602895/use-tracert-to-troubleshoot-network-connectivity?u=76281980&t=47)** Let's type tracert www.[linkedin.com](https://linkedin.com).
+> **[0:47](https://www.linkedin.com/learning/windows-10-networking-22602895/use-tracert-to-troubleshoot-network-connectivity?u=76281980&t=47)** Let's type tracert www.[[[LinkedIn]].com](https://linkedin.com).
 >
 > **[0:55](https://www.linkedin.com/learning/windows-10-networking-22602895/use-tracert-to-troubleshoot-network-connectivity?u=76281980&t=55)** It might take a while, but you'll see that the connection is successful, because the result ends at the LinkedIn destination.
 >
 > **[1:02](https://www.linkedin.com/learning/windows-10-networking-22602895/use-tracert-to-troubleshoot-network-connectivity?u=76281980&t=62)** If you see asterisks, a response wasn't given from the router in the expected interval, but if you wait, you may see that eventually, data is returned from another source, provided the host can be reached in the end as you can see here.
 >
-> **[1:16](https://www.linkedin.com/learning/windows-10-networking-22602895/use-tracert-to-troubleshoot-network-connectivity?u=76281980&t=76)** Note that it's possible that not all hardware along the path is set to reply to tracert commands.
+> **[1:16](https://www.linkedin.com/learning/windows-10-networking-22602895/use-tracert-to-troubleshoot-network-connectivity?u=76281980&t=76)** Note that it's possible that not all [[Hardware]] along the path is set to reply to tracert commands.
 >
 > **[1:22](https://www.linkedin.com/learning/windows-10-networking-22602895/use-tracert-to-troubleshoot-network-connectivity?u=76281980&t=82)** You might see that a trace fails to complete, but the website or other resources is still available using traditional means like a web browser.
 >
@@ -1857,7 +1837,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (5), data (4), [[LinkedIn]] (3), web (3), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (5), [[LinkedIn]] (3), [[Windows]] (1), [[Hardware]] (1)
 > **Tools:** powershell (5)
 > **URLs:** [linkedin.com](https://linkedin.com) (1), [lynda.com](https://lynda.com) (1), [lllynda.com](https://lllynda.com) (1)
 > **Warnings:** note that (1), keep in mind (1)
@@ -1866,8 +1846,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 
-#### Use PathPing to troubleshoot network connectivity
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-networking-22602895/use-pathping-to-troubleshoot-network-connectivity?u=76281980)
+#### [Use PathPing to troubleshoot network connectivity](https://www.linkedin.com/learning/windows-10-networking-22602895/use-pathping-to-troubleshoot-network-connectivity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1877,9 +1856,9 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/windows-10-networking-22602895/use-pathping-to-troubleshoot-network-connectivity?u=76281980&t=18)** The results include information about the routers along the way and the round trip time value, as well as link loss information.
 >
-> **[0:25](https://www.linkedin.com/learning/windows-10-networking-22602895/use-pathping-to-troubleshoot-network-connectivity?u=76281980&t=25)** Let's open a PowerShell window and try it out.
+> **[0:25](https://www.linkedin.com/learning/windows-10-networking-22602895/use-pathping-to-troubleshoot-network-connectivity?u=76281980&t=25)** Let's open a [[Powershell]] window and try it out.
 >
-> **[0:30](https://www.linkedin.com/learning/windows-10-networking-22602895/use-pathping-to-troubleshoot-network-connectivity?u=76281980&t=30)** I'll type pathping www.[linkedin.com](https://linkedin.com) and press Enter.
+> **[0:30](https://www.linkedin.com/learning/windows-10-networking-22602895/use-pathping-to-troubleshoot-network-connectivity?u=76281980&t=30)** I'll type pathping www.[[[LinkedIn]].com](https://linkedin.com) and press Enter.
 >
 > **[0:40](https://www.linkedin.com/learning/windows-10-networking-22602895/use-pathping-to-troubleshoot-network-connectivity?u=76281980&t=40)** This could take a little while, perhaps three or four minutes to complete on your end.
 >
@@ -1897,13 +1876,13 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/windows-10-networking-22602895/use-pathping-to-troubleshoot-network-connectivity?u=76281980&t=81)** If this doesn't fix the problem, you'll have to do a little more troubleshooting on the DNS side.
 >
-> **[1:32](https://www.linkedin.com/learning/windows-10-networking-22602895/use-pathping-to-troubleshoot-network-connectivity?u=76281980&t=92)** I'll type pathping and I'll type www.[lllynda.com](https://lllynda.com) like we did in the last movie, purposefully misspelling the word Linda and let's see what happens.
+> **[1:32](https://www.linkedin.com/learning/windows-10-networking-22602895/use-pathping-to-troubleshoot-network-connectivity?u=76281980&t=92)** I'll type pathping and I'll type www.[lllynda.com](https://lllynda.com) like we did in the last movie, purposefully misspelling the [[Microsoft Word|word]] Linda and let's see what happens.
 >
 > **[1:44](https://www.linkedin.com/learning/windows-10-networking-22602895/use-pathping-to-troubleshoot-network-connectivity?u=76281980&t=104)** Like before, the connection can't be made because no such host exists.
 >
 > **[1:49](https://www.linkedin.com/learning/windows-10-networking-22602895/use-pathping-to-troubleshoot-network-connectivity?u=76281980&t=109)** You can verify this in a web browser if you like.
 >
-> **[1:52](https://www.linkedin.com/learning/windows-10-networking-22602895/use-pathping-to-troubleshoot-network-connectivity?u=76281980&t=112)** You can use pathping statistics to see where in a wide area network packets slowed down or dropped.
+> **[1:52](https://www.linkedin.com/learning/windows-10-networking-22602895/use-pathping-to-troubleshoot-network-connectivity?u=76281980&t=112)** You can use pathping [[Statistics]] to see where in a wide area network packets slowed down or dropped.
 >
 > **[1:59](https://www.linkedin.com/learning/windows-10-networking-22602895/use-pathping-to-troubleshoot-network-connectivity?u=76281980&t=119)** If you're working in an environment where packets must pass through three or four routers to reach their destination host, you can easily tell where excessive latency occurs.
 >
@@ -1917,7 +1896,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/windows-10-networking-22602895/use-pathping-to-troubleshoot-network-connectivity?u=76281980&t=152)** For example, the -w switch lets you increase the default interval for responses.
 >
-> **[2:38](https://www.linkedin.com/learning/windows-10-networking-22602895/use-pathping-to-troubleshoot-network-connectivity?u=76281980&t=158)** If increasing the interval still causes errors, it's likely because the packets are being forwarded in a routing loop.
+> **[2:38](https://www.linkedin.com/learning/windows-10-networking-22602895/use-pathping-to-troubleshoot-network-connectivity?u=76281980&t=158)** If increasing the interval still causes errors, it's likely because the packets are being forwarded in a [[Routing]] loop.
 >
 > **[2:44](https://www.linkedin.com/learning/windows-10-networking-22602895/use-pathping-to-troubleshoot-network-connectivity?u=76281980&t=164)** You can use tracer to find the source of the problem.
 >
@@ -1927,7 +1906,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (2), data (2), dns (2), [[Troubleshooting]] (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (2), [[LinkedIn]] (1), [[Microsoft Word|Word]] (1), [[Statistics]] (1), [[Routing]] (1)
 > **Env Vars:** dns (2), tcp (1)
 > **URLs:** [linkedin.com](https://linkedin.com) (1), [lllynda.com](https://lllynda.com) (1)
 > **Tools:** powershell (2)
@@ -1941,12 +1920,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-networking-22602895/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/windows-10-networking-22602895/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-networking-22602895/next-steps?u=76281980&t=0)** - [Joli] Thank you for watching Windows 10: Networking.
+> **[0:00](https://www.linkedin.com/learning/windows-10-networking-22602895/next-steps?u=76281980&t=0)** - [Joli] Thank you for watching [[Windows 10]]: Networking.
 >
 > **[0:03](https://www.linkedin.com/learning/windows-10-networking-22602895/next-steps?u=76281980&t=3)** In this course, you learned how to set up, configure, connect, secure, troubleshoot, and manage network connections.
 >
@@ -1956,9 +1934,9 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/windows-10-networking-22602895/next-steps?u=76281980&t=18)** Create your own VPN and secure it.
 >
-> **[0:21](https://www.linkedin.com/learning/windows-10-networking-22602895/next-steps?u=76281980&t=21)** Optimize the connections you configure and resolve problems when they occur at both the Command Line and PowerShell.
+> **[0:21](https://www.linkedin.com/learning/windows-10-networking-22602895/next-steps?u=76281980&t=21)** Optimize the connections you configure and resolve problems when they occur at both the Command Line and [[Powershell]].
 >
-> **[0:27](https://www.linkedin.com/learning/windows-10-networking-22602895/next-steps?u=76281980&t=27)** If you'd like to learn more about networking, search for additional courses on LinkedIn learning.
+> **[0:27](https://www.linkedin.com/learning/windows-10-networking-22602895/next-steps?u=76281980&t=27)** If you'd like to learn more about networking, search for additional courses on [[LinkedIn]] learning.
 >
 > **[0:32](https://www.linkedin.com/learning/windows-10-networking-22602895/next-steps?u=76281980&t=32)** Make sure to search for terms like DHCP, APIPA, DNS, and TCP/IP.
 >
@@ -1968,7 +1946,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2), [[LinkedIn]] (2), [[Windows 10]] (1), next (1), vpn (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Windows 10]] (1), [[Powershell]] (1)
 > **Env Vars:** vpn (1), dhcp (1), apipa (1), dns (1), tcp (1)
 > **Prerequisites:** configure (3), set up (1)
 > **Tools:** command line (1), powershell (1)

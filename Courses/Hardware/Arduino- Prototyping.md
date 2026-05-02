@@ -101,60 +101,57 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prototype with Arduino
-> [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/prototype-with-arduino?u=76281980)
+#### [Prototype with Arduino](https://www.linkedin.com/learning/arduino-prototyping/prototype-with-arduino?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/arduino-prototyping/prototype-with-arduino?u=76281980&t=0)** - [Robert] The Arduino's simple hardware, ease of use and large community of users have helped make physical product development accessible to everyone.
+> **[0:00](https://www.linkedin.com/learning/arduino-prototyping/prototype-with-arduino?u=76281980&t=0)** - [Robert] The [[Arduino]]'s simple [[Hardware]], ease of use and large community of users have helped make physical [[Product Development]] accessible to everyone.
 >
-> **[0:10](https://www.linkedin.com/learning/arduino-prototyping/prototype-with-arduino?u=76281980&t=10)** This includes product managers and designers who now have the ability to develop hardware prototypes as part of their product design process.
+> **[0:10](https://www.linkedin.com/learning/arduino-prototyping/prototype-with-arduino?u=76281980&t=10)** This includes product managers and designers who now have the ability to develop hardware prototypes as part of their [[Product Design]] process.
 >
-> **[0:19](https://www.linkedin.com/learning/arduino-prototyping/prototype-with-arduino?u=76281980&t=19)** In this course, we'll spend some time seeing how prototyping fits into the design process.
+> **[0:19](https://www.linkedin.com/learning/arduino-prototyping/prototype-with-arduino?u=76281980&t=19)** In this course, we'll spend some time seeing how [[Prototyping]] fits into the design process.
 >
 > **[0:25](https://www.linkedin.com/learning/arduino-prototyping/prototype-with-arduino?u=76281980&t=25)** Then we'll dive into the details, and I'll show you step-by-step how you can develop a proof of concept prototype that helps you explore and validate a small handheld game.
 >
 > **[0:35](https://www.linkedin.com/learning/arduino-prototyping/prototype-with-arduino?u=76281980&t=35)** I'm Robert Gallup, and I've spent my career working with technology as a designer, program manager and developer.
 >
-> **[0:42](https://www.linkedin.com/learning/arduino-prototyping/prototype-with-arduino?u=76281980&t=42)** If you're ready to take your Arduino skills to the next level and see how you can use the Arduino in product development, joined me in my LinkedIn Learning course on Arduino prototyping.
+> **[0:42](https://www.linkedin.com/learning/arduino-prototyping/prototype-with-arduino?u=76281980&t=42)** If you're ready to take your Arduino skills to the next level and see how you can use the Arduino in product development, joined me in my [[LinkedIn]] Learning course on Arduino prototyping.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (4), [[Hardware]] (2), [[Product Development]] (2), product (2), [[Prototyping]] (2)
+> **Frameworks & Libraries:** [[Arduino]] (4), [[Hardware]] (2), [[Product Development]] (2), [[Prototyping]] (2), [[Product Design]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [robert] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/arduino-prototyping/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/arduino-prototyping/what-you-should-know?u=76281980&t=0)** - [Instructor] This course is designed for product managers, designers, and programmers.
 >
-> **[0:05](https://www.linkedin.com/learning/arduino-prototyping/what-you-should-know?u=76281980&t=5)** We start looking at the prototyping process then dive into techniques and strategies for you and your team to make prototyping with an Arduino a integral part of a nimble design process.
+> **[0:05](https://www.linkedin.com/learning/arduino-prototyping/what-you-should-know?u=76281980&t=5)** We start looking at the [[Prototyping]] process then dive into techniques and strategies for you and your team to make prototyping with an [[Arduino]] a integral part of a nimble design process.
 >
 > **[0:17](https://www.linkedin.com/learning/arduino-prototyping/what-you-should-know?u=76281980&t=17)** While the beginning of the course is general and requires no specific background, the technical parts of this course related to building a prototype assume that you've had some exposure to Arduino.
 >
 > **[0:28](https://www.linkedin.com/learning/arduino-prototyping/what-you-should-know?u=76281980&t=28)** We'll start from the beginning and talk about prototyping step by step, but it will be easier for you to follow if you've had some experience programming.
 >
-> **[0:36](https://www.linkedin.com/learning/arduino-prototyping/what-you-should-know?u=76281980&t=36)** The Learning Arduino: Foundations LinkedIn Learning course is a good place to start if you're new to the Arduino.
+> **[0:36](https://www.linkedin.com/learning/arduino-prototyping/what-you-should-know?u=76281980&t=36)** The Learning Arduino: Foundations [[LinkedIn]] Learning course is a good place to start if you're new to the Arduino.
 >
-> **[0:43](https://www.linkedin.com/learning/arduino-prototyping/what-you-should-know?u=76281980&t=43)** The prototype itself is built with some common electronics and other parts.
+> **[0:43](https://www.linkedin.com/learning/arduino-prototyping/what-you-should-know?u=76281980&t=43)** The prototype itself is built with some common [[Electronics]] and other parts.
 >
 > **[0:48](https://www.linkedin.com/learning/arduino-prototyping/what-you-should-know?u=76281980&t=48)** They include an Arduino Uno, a 16 by two LCD display, a simple button like a tact switch, a 10K or 10,000 ohm potentiometer, a 220 ohm resistor, a full-sized breadboard, and an assortment of jumper wires to connect everything together.
 >
-> **[1:09](https://www.linkedin.com/learning/arduino-prototyping/what-you-should-know?u=76281980&t=69)** If you have an interest in discovery the joy designing products and exploring and developing prototypes then this course is for you.
+> **[1:09](https://www.linkedin.com/learning/arduino-prototyping/what-you-should-know?u=76281980&t=69)** If you have an interest in discovery the joy designing [[Microsoft Products|products]] and exploring and developing prototypes then this course is for you.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (5), [[Prototyping]] (3), product (1), [[Programming]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Arduino]] (5), [[Prototyping]] (3), [[LinkedIn]] (1), [[Electronics]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** lcd (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### What's new in this update
-> [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/what-s-new-in-this-update?u=76281980)
+#### [What's new in this update](https://www.linkedin.com/learning/arduino-prototyping/what-s-new-in-this-update?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -170,7 +167,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/arduino-prototyping/what-s-new-in-this-update?u=76281980&t=28)** So as you go through the course, take some time to work through the challenges.
 >
-> **[0:32](https://www.linkedin.com/learning/arduino-prototyping/what-s-new-in-this-update?u=76281980&t=32)** They're good practice and demonstrate techniques not covered in the main videos, and they can be a fun way to explore and further develop your Arduino prototyping skills.
+> **[0:32](https://www.linkedin.com/learning/arduino-prototyping/what-s-new-in-this-update?u=76281980&t=32)** They're good practice and demonstrate techniques not covered in the main videos, and they can be a fun way to explore and further develop your [[Arduino]] [[Prototyping]] skills.
 
 > [!info]- Semantic Content
 >
@@ -183,16 +180,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Purpose and pitfalls of prototypes
-> [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/purpose-and-pitfalls-of-prototypes?u=76281980)
+#### [Purpose and pitfalls of prototypes](https://www.linkedin.com/learning/arduino-prototyping/purpose-and-pitfalls-of-prototypes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/arduino-prototyping/purpose-and-pitfalls-of-prototypes?u=76281980&t=0)** - [Instructor] In physical product design, if a picture is worth a thousand words, a prototype is worth a thousand pictures.
+> **[0:00](https://www.linkedin.com/learning/arduino-prototyping/purpose-and-pitfalls-of-prototypes?u=76281980&t=0)** - [Instructor] In physical [[Product Design]], if a picture is worth a thousand words, a prototype is worth a thousand pictures.
 >
 > **[0:06](https://www.linkedin.com/learning/arduino-prototyping/purpose-and-pitfalls-of-prototypes?u=76281980&t=6)** Holding a prototype allows you to experience and communicate your design as it evolves, in a way no description or image can.
 >
-> **[0:13](https://www.linkedin.com/learning/arduino-prototyping/purpose-and-pitfalls-of-prototypes?u=76281980&t=13)** There are different reasons for prototyping, and before you start, it's helpful to step back and think about what you're hoping to achieve.
+> **[0:13](https://www.linkedin.com/learning/arduino-prototyping/purpose-and-pitfalls-of-prototypes?u=76281980&t=13)** There are different reasons for [[Prototyping]], and before you start, it's helpful to step back and think about what you're hoping to achieve.
 >
 > **[0:21](https://www.linkedin.com/learning/arduino-prototyping/purpose-and-pitfalls-of-prototypes?u=76281980&t=21)** One reason to prototype is to learn about new or unfamiliar technology.
 >
@@ -260,24 +256,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), [[Prototyping]] (2), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Prototyping]] (2), [[Product Design]] (1)
 > **Env Vars:** ceo (6)
 > **CLI Commands:** make (3)
 > **Analogies:** picture (1), for example (1), imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prototype form factors
-> [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/prototype-form-factors?u=76281980)
+#### [Prototype form factors](https://www.linkedin.com/learning/arduino-prototyping/prototype-form-factors?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/arduino-prototyping/prototype-form-factors?u=76281980&t=0)** - [Instructor] Your prototype can take different forms as it develops, from a simple bare board to a prototype that looks like a finished product.
+> **[0:00](https://www.linkedin.com/learning/arduino-prototyping/prototype-form-factors?u=76281980&t=0)** - [Instructor] Your prototype can take different [[Forms]] as it develops, from a simple bare board to a prototype that looks like a finished product.
 >
 > **[0:07](https://www.linkedin.com/learning/arduino-prototyping/prototype-form-factors?u=76281980&t=7)** The most basic prototype is a single board.
 >
-> **[0:10](https://www.linkedin.com/learning/arduino-prototyping/prototype-form-factors?u=76281980&t=10)** Most Arduino boards included an LED connected to pin number 13.
+> **[0:10](https://www.linkedin.com/learning/arduino-prototyping/prototype-form-factors?u=76281980&t=10)** Most [[Arduino]] boards included an LED connected to pin number 13.
 >
-> **[0:14](https://www.linkedin.com/learning/arduino-prototyping/prototype-form-factors?u=76281980&t=14)** Newer boards may include sensors and other components you can also use for prototyping.
+> **[0:14](https://www.linkedin.com/learning/arduino-prototyping/prototype-form-factors?u=76281980&t=14)** Newer boards may include sensors and other components you can also use for [[Prototyping]].
 >
 > **[0:19](https://www.linkedin.com/learning/arduino-prototyping/prototype-form-factors?u=76281980&t=19)** Breadboards are another way to build a prototype.
 >
@@ -331,19 +326,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (1), product (1), [[Arduino]] (1), [[Prototyping]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Arduino]] (1), [[Prototyping]] (1)
 > **Env Vars:** pcb (2), led (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### The prototype process
-> [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/the-prototype-process?u=76281980)
+#### [The prototype process](https://www.linkedin.com/learning/arduino-prototyping/the-prototype-process?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/arduino-prototyping/the-prototype-process?u=76281980&t=0)** - [Instructor] One way to think about prototyping is as documentation.
+> **[0:00](https://www.linkedin.com/learning/arduino-prototyping/the-prototype-process?u=76281980&t=0)** - [Instructor] One way to think about [[Prototyping]] is as documentation.
 >
 > **[0:04](https://www.linkedin.com/learning/arduino-prototyping/the-prototype-process?u=76281980&t=4)** First there's a process of design.
 >
@@ -383,7 +377,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Prototyping]] (3), product (3), next (2), management (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Prototyping]] (3)
 > **Documentation:** spec (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -393,12 +387,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prototype planning considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/prototype-planning-considerations?u=76281980)
+#### [Prototype planning considerations](https://www.linkedin.com/learning/arduino-prototyping/prototype-planning-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/arduino-prototyping/prototype-planning-considerations?u=76281980&t=0)** - [Instructor] Prototyping as part of a design process can begin without extensive planning.
+> **[0:00](https://www.linkedin.com/learning/arduino-prototyping/prototype-planning-considerations?u=76281980&t=0)** - [Instructor] [[Prototyping]] as part of a design process can begin without extensive planning.
 >
 > **[0:05](https://www.linkedin.com/learning/arduino-prototyping/prototype-planning-considerations?u=76281980&t=5)** In fact, starting early is a good strategy for quickly gaining momentum and keeping the design grounded.
 >
@@ -438,7 +431,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Prototyping]] (3), product (2), feature (2), next (2)
+> **Frameworks & Libraries:** [[Prototyping]] (3)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
@@ -447,8 +440,7 @@ created: 2026-05-02
 > **Cross-References:** we talked about (1)
 > **UI Navigation:** select the (1)
 
-#### Demo product brief of handheld game
-> [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/demo-product-brief-of-handheld-game?u=76281980)
+#### [Demo product brief of handheld game](https://www.linkedin.com/learning/arduino-prototyping/demo-product-brief-of-handheld-game?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -466,7 +458,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/arduino-prototyping/demo-product-brief-of-handheld-game?u=76281980&t=35)** And as for timeline, they want the product to be ready for manufacturing in six months.
 >
-> **[0:40](https://www.linkedin.com/learning/arduino-prototyping/demo-product-brief-of-handheld-game?u=76281980&t=40)** Engineering needs to have a complete design significantly earlier than that, which means the product design needs to be complete in six weeks.
+> **[0:40](https://www.linkedin.com/learning/arduino-prototyping/demo-product-brief-of-handheld-game?u=76281980&t=40)** Engineering needs to have a complete design significantly earlier than that, which means the [[Product Design]] needs to be complete in six weeks.
 >
 > **[0:49](https://www.linkedin.com/learning/arduino-prototyping/demo-product-brief-of-handheld-game?u=76281980&t=49)** Now it's time for the design team to work out a concept for the product.
 >
@@ -482,18 +474,17 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/arduino-prototyping/demo-product-brief-of-handheld-game?u=76281980&t=81)** If the laser points at a target, the target is destroyed.
 >
-> **[1:24](https://www.linkedin.com/learning/arduino-prototyping/demo-product-brief-of-handheld-game?u=76281980&t=84)** Now that there's an initial design concept, it's time to begin prototyping.
+> **[1:24](https://www.linkedin.com/learning/arduino-prototyping/demo-product-brief-of-handheld-game?u=76281980&t=84)** Now that there's an initial design concept, it's time to begin [[Prototyping]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), game (3), [[Engineering]] (1), [[Prototyping]] (1)
+> **Frameworks & Libraries:** [[Product Design]] (1), [[Prototyping]] (1)
 > **Env Vars:** retro (1), lcd (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Define the proof-of-concept prototype
-> [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/define-the-proof-of-concept-prototype?u=76281980)
+#### [Define the proof-of-concept prototype](https://www.linkedin.com/learning/arduino-prototyping/define-the-proof-of-concept-prototype?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -519,11 +510,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (4), product (1)
 > **Speakers:** - [instructor] (1)
 
-#### Select components and libraries
-> [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/select-components-and-libraries?u=76281980)
+#### [Select components and libraries](https://www.linkedin.com/learning/arduino-prototyping/select-components-and-libraries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -539,7 +528,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/arduino-prototyping/select-components-and-libraries?u=76281980&t=32)** These through-hole components have wires or leads that are designed to feed through holes in a breadboard or a PCB.
 >
-> **[0:40](https://www.linkedin.com/learning/arduino-prototyping/select-components-and-libraries?u=76281980&t=40)** Some components, however, are not designed for prototyping.
+> **[0:40](https://www.linkedin.com/learning/arduino-prototyping/select-components-and-libraries?u=76281980&t=40)** Some components, however, are not designed for [[Prototyping]].
 >
 > **[0:43](https://www.linkedin.com/learning/arduino-prototyping/select-components-and-libraries?u=76281980&t=43)** For these parts, breakout boards are often available.
 >
@@ -549,7 +538,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/arduino-prototyping/select-components-and-libraries?u=76281980&t=61)** Pre-wired add-on boards, called shields, can also be used for prototypes.
 >
-> **[1:06](https://www.linkedin.com/learning/arduino-prototyping/select-components-and-libraries?u=76281980&t=66)** Shields plug directly into an Arduino and add functionality like a display, motor controllers, Bluetooth, or wireless connectivity to name just a few, and they often have software libraries that make them very easy to use.
+> **[1:06](https://www.linkedin.com/learning/arduino-prototyping/select-components-and-libraries?u=76281980&t=66)** Shields plug directly into an [[Arduino]] and add functionality like a display, motor controllers, Bluetooth, or wireless connectivity to name just a few, and they often have software libraries that make them very easy to use.
 >
 > **[1:22](https://www.linkedin.com/learning/arduino-prototyping/select-components-and-libraries?u=76281980&t=82)** Modules are similar to breakout boards, but they can be certified for manufacturing a commercial product.
 >
@@ -565,7 +554,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/arduino-prototyping/select-components-and-libraries?u=76281980&t=131)** So it's best to check specifications to confirm that your components are compatible.
 >
-> **[2:16](https://www.linkedin.com/learning/arduino-prototyping/select-components-and-libraries?u=76281980&t=136)** Apart from the hardware, components often require software to access their features.
+> **[2:16](https://www.linkedin.com/learning/arduino-prototyping/select-components-and-libraries?u=76281980&t=136)** Apart from the [[Hardware]], components often require software to access their features.
 >
 > **[2:22](https://www.linkedin.com/learning/arduino-prototyping/select-components-and-libraries?u=76281980&t=142)** For example, to read values from an accelerometer requires some specific programming.
 >
@@ -607,7 +596,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (7), [[Prototyping]] (3), product (2), [[Programming]] (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[Arduino]] (7), [[Prototyping]] (3), [[Hardware]] (1)
 > **Env Vars:** lcd (3), pcb (2)
 > **CLI Commands:** make (3)
 > **Versions:** 3.3 (2)
@@ -616,12 +605,11 @@ created: 2026-05-02
 > **Exercise Files:** sample code (1)
 > **Definitions:** is a  (1)
 
-#### Design the circuit
-> [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/design-the-circuit?u=76281980)
+#### [Design the circuit](https://www.linkedin.com/learning/arduino-prototyping/design-the-circuit?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/arduino-prototyping/design-the-circuit?u=76281980&t=0)** - [Instructor] Our prototype will contain an Arduino Uno, a display, and a button to control the game.
+> **[0:00](https://www.linkedin.com/learning/arduino-prototyping/design-the-circuit?u=76281980&t=0)** - [Instructor] Our prototype will contain an [[Arduino]] Uno, a display, and a button to control the game.
 >
 > **[0:07](https://www.linkedin.com/learning/arduino-prototyping/design-the-circuit?u=76281980&t=7)** With this in mind, we can begin planning our circuit.
 >
@@ -677,19 +665,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (7), power (4), game (1), data (1)
+> **Frameworks & Libraries:** [[Arduino]] (7)
 > **Env Vars:** lcd (13), eda (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - [instructor] (1)
 
-#### Make a pin map
-> [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/make-a-pin-map?u=76281980)
+#### [Make a pin map](https://www.linkedin.com/learning/arduino-prototyping/make-a-pin-map?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/arduino-prototyping/make-a-pin-map?u=76281980&t=0)** - [Instructor] An Arduino has a limited number of programmable input/output, or I/O pins.
+> **[0:00](https://www.linkedin.com/learning/arduino-prototyping/make-a-pin-map?u=76281980&t=0)** - [Instructor] An [[Arduino]] has a limited number of programmable input/output, or I/O pins.
 >
 > **[0:06](https://www.linkedin.com/learning/arduino-prototyping/make-a-pin-map?u=76281980&t=6)** All Arduino pins can be used for digital input and output.
 >
@@ -697,7 +684,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/arduino-prototyping/make-a-pin-map?u=76281980&t=16)** Some pins can also be used for analog input to read a voltage level between zero and five volts.
 >
-> **[0:22](https://www.linkedin.com/learning/arduino-prototyping/make-a-pin-map?u=76281980&t=22)** And some pins have special uses like serial and other forms of communication.
+> **[0:22](https://www.linkedin.com/learning/arduino-prototyping/make-a-pin-map?u=76281980&t=22)** And some pins have special uses like serial and other [[Forms]] of communication.
 >
 > **[0:27](https://www.linkedin.com/learning/arduino-prototyping/make-a-pin-map?u=76281980&t=27)** When you're connecting pins for your prototype, you can sometimes run out of pins or end up with a conflict where you need a pin for one thing, but you're already using it for something else.
 >
@@ -730,8 +717,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Connect the display
-> [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/connect-the-display?u=76281980)
+#### [Connect the display](https://www.linkedin.com/learning/arduino-prototyping/connect-the-display?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -747,7 +733,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/arduino-prototyping/connect-the-display?u=76281980&t=29)** And we'll need a potentiometer to control the LCD contrast.
 >
-> **[0:33](https://www.linkedin.com/learning/arduino-prototyping/connect-the-display?u=76281980&t=33)** These need to be placed on the breadboard and connected to the Arduino.
+> **[0:33](https://www.linkedin.com/learning/arduino-prototyping/connect-the-display?u=76281980&t=33)** These need to be placed on the breadboard and connected to the [[Arduino]].
 >
 > **[0:37](https://www.linkedin.com/learning/arduino-prototyping/connect-the-display?u=76281980&t=37)** This early prototype is a proof of concept and doesn't need to be compact, so we can use a full breadboard which gives us more room to work with.
 >
@@ -847,20 +833,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (13), power (5), product (1), game (1), data (1)
+> **Frameworks & Libraries:** [[Arduino]] (13)
 > **Env Vars:** lcd (20), usb (2)
 > **CLI Commands:** make (2), rails (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
 
-#### Display "Hello World" sketch
-> [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/display-hello-world-sketch?u=76281980)
+#### [Display "Hello World" sketch](https://www.linkedin.com/learning/arduino-prototyping/display-hello-world-sketch?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/arduino-prototyping/display-hello-world-sketch?u=76281980&t=0)** - You've connected your LCD.
 >
-> **[0:02](https://www.linkedin.com/learning/arduino-prototyping/display-hello-world-sketch?u=76281980&t=2)** Now it's time to see if your Arduino can control it.
+> **[0:02](https://www.linkedin.com/learning/arduino-prototyping/display-hello-world-sketch?u=76281980&t=2)** Now it's time to see if your [[Arduino]] can control it.
 >
 > **[0:05](https://www.linkedin.com/learning/arduino-prototyping/display-hello-world-sketch?u=76281980&t=5)** We'll work on the sketch for our game soon, but now we just want to see if the LCD works properly.
 >
@@ -938,7 +923,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (4), next (2), game (1)
+> **Frameworks & Libraries:** [[Arduino]] (4)
 > **Env Vars:** lcd (4), ide (1), usb (1)
 > **UI Navigation:** go to (2), click on (1)
 > **Prerequisites:** setup (3)
@@ -946,12 +931,11 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - you (1)
 
-#### Challenge: Controlling the display
-> [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/challenge-controlling-the-display?u=76281980)
+#### [Challenge: Controlling the display](https://www.linkedin.com/learning/arduino-prototyping/challenge-controlling-the-display?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/arduino-prototyping/challenge-controlling-the-display?u=76281980&t=0)** - [Instructor] This first challenge is a chance for you to make sure the Arduino IDE and the display are properly set up and to make some changes to test your understanding of the "Hello World" sketch.
+> **[0:00](https://www.linkedin.com/learning/arduino-prototyping/challenge-controlling-the-display?u=76281980&t=0)** - [Instructor] This first challenge is a chance for you to make sure the [[Arduino]] IDE and the display are properly set up and to make some changes to test your understanding of the "Hello World" sketch.
 >
 > **[0:17](https://www.linkedin.com/learning/arduino-prototyping/challenge-controlling-the-display?u=76281980&t=17)** The goals of this challenge are simple.
 >
@@ -969,7 +953,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (1), next (1)
+> **Frameworks & Libraries:** [[Arduino]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** ide (1)
 > **Cross-References:** in the next (1)
@@ -978,8 +962,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Controlling the display
-> [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/solution-controlling-the-display?u=76281980)
+#### [Solution: Controlling the display](https://www.linkedin.com/learning/arduino-prototyping/solution-controlling-the-display?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -997,7 +980,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/arduino-prototyping/solution-controlling-the-display?u=76281980&t=31)** Then you need to explicitly place the cursor before each line is written to the LCD using the set cursor method.
 >
-> **[0:38](https://www.linkedin.com/learning/arduino-prototyping/solution-controlling-the-display?u=76281980&t=38)** Let's go to the Arduino IDE to see how this works.
+> **[0:38](https://www.linkedin.com/learning/arduino-prototyping/solution-controlling-the-display?u=76281980&t=38)** Let's go to the [[Arduino]] IDE to see how this works.
 >
 > **[0:42](https://www.linkedin.com/learning/arduino-prototyping/solution-controlling-the-display?u=76281980&t=42)** Here we are in the IDE.
 >
@@ -1038,8 +1021,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand display dynamics
-> [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/understand-display-dynamics?u=76281980)
+#### [Understand display dynamics](https://www.linkedin.com/learning/arduino-prototyping/understand-display-dynamics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1069,7 +1051,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/arduino-prototyping/understand-display-dynamics?u=76281980&t=63)** Since pseudocode is informal, the precise language isn't important.
 >
-> **[1:06](https://www.linkedin.com/learning/arduino-prototyping/understand-display-dynamics?u=76281980&t=66)** It simply has to be meaningful to you and provide enough information to translate to actual code when you begin sketching.
+> **[1:06](https://www.linkedin.com/learning/arduino-prototyping/understand-display-dynamics?u=76281980&t=66)** It simply has to be meaningful to you and provide enough information to translate to actual code when you begin [[Sketching]].
 >
 > **[1:13](https://www.linkedin.com/learning/arduino-prototyping/understand-display-dynamics?u=76281980&t=73)** In pseudocode, our laser animation algorithm might look something like this.
 >
@@ -1081,14 +1063,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sketching]] (1), next (1)
+> **Frameworks & Libraries:** [[Sketching]] (1)
 > **Env Vars:** led (3)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implement display dynamics
-> [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/implement-display-dynamics?u=76281980)
+#### [Implement display dynamics](https://www.linkedin.com/learning/arduino-prototyping/implement-display-dynamics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1100,7 +1081,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/arduino-prototyping/implement-display-dynamics?u=76281980&t=8)** Then, we repeat.
 >
-> **[0:09](https://www.linkedin.com/learning/arduino-prototyping/implement-display-dynamics?u=76281980&t=9)** Now, let's go to the Arduino IDE to see how we would implement that in our sketch.
+> **[0:09](https://www.linkedin.com/learning/arduino-prototyping/implement-display-dynamics?u=76281980&t=9)** Now, let's go to the [[Arduino]] IDE to see how we would implement that in our sketch.
 >
 > **[0:16](https://www.linkedin.com/learning/arduino-prototyping/implement-display-dynamics?u=76281980&t=16)** Okay, so, we'll open the IDE.
 >
@@ -1296,7 +1277,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (1), game (1), next (1)
+> **Frameworks & Libraries:** [[Arduino]] (1)
 > **Code Identifiers:** lasercolumn (11), setcursor (2)
 > **Env Vars:** ide (2), retro_1 (1), retro (1), lcd (1)
 > **UI Navigation:** go to (2), open the (1)
@@ -1305,8 +1286,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
 
-#### Challenge: Modify the animation
-> [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/challenge-modify-the-animation?u=76281980)
+#### [Challenge: Modify the animation](https://www.linkedin.com/learning/arduino-prototyping/challenge-modify-the-animation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1326,14 +1306,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Modify the animation
-> [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/solution-modify-the-animation?u=76281980)
+#### [Solution: Modify the animation](https://www.linkedin.com/learning/arduino-prototyping/solution-modify-the-animation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1367,7 +1345,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/arduino-prototyping/solution-modify-the-animation?u=76281980&t=84)** So that's the idea.
 >
-> **[1:26](https://www.linkedin.com/learning/arduino-prototyping/solution-modify-the-animation?u=76281980&t=86)** Now let's go to the Arduino IDE and look at how I added this to the sketch.
+> **[1:26](https://www.linkedin.com/learning/arduino-prototyping/solution-modify-the-animation?u=76281980&t=86)** Now let's go to the [[Arduino]] IDE and look at how I added this to the sketch.
 >
 > **[1:32](https://www.linkedin.com/learning/arduino-prototyping/solution-modify-the-animation?u=76281980&t=92)** Here we are in the IDE and I've loaded Retro_1 here.
 >
@@ -1427,7 +1405,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (1), next (1)
+> **Frameworks & Libraries:** [[Arduino]] (1)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** laserstep (4)
 > **Env Vars:** lcd (2), ide (2)
@@ -1441,8 +1419,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand interaction logic
-> [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/understand-interaction-logic?u=76281980)
+#### [Understand interaction logic](https://www.linkedin.com/learning/arduino-prototyping/understand-interaction-logic?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1484,12 +1461,11 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Breadboard buttons and update pin map
-> [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/breadboard-buttons-and-update-pin-map?u=76281980)
+#### [Breadboard buttons and update pin map](https://www.linkedin.com/learning/arduino-prototyping/breadboard-buttons-and-update-pin-map?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/arduino-prototyping/breadboard-buttons-and-update-pin-map?u=76281980&t=0)** - [Instructor] Looking at our prototype circuit, we see that adding the button to the prototype is as easy as connecting one side of the button to ground and other side to pin number seven on the Arduino.
+> **[0:00](https://www.linkedin.com/learning/arduino-prototyping/breadboard-buttons-and-update-pin-map?u=76281980&t=0)** - [Instructor] Looking at our prototype circuit, we see that adding the button to the prototype is as easy as connecting one side of the button to ground and other side to pin number seven on the [[Arduino]].
 >
 > **[0:10](https://www.linkedin.com/learning/arduino-prototyping/breadboard-buttons-and-update-pin-map?u=76281980&t=10)** So let's go to the breadboard and the button.
 >
@@ -1522,8 +1498,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implement buttons
-> [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/implement-buttons?u=76281980)
+#### [Implement buttons](https://www.linkedin.com/learning/arduino-prototyping/implement-buttons?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1601,7 +1576,7 @@ created: 2026-05-02
 >
 > **[6:12](https://www.linkedin.com/learning/arduino-prototyping/implement-buttons?u=76281980&t=372)** We've added interaction and our prototype's game play is basically complete.
 >
-> **[6:16](https://www.linkedin.com/learning/arduino-prototyping/implement-buttons?u=76281980&t=376)** One of the most important parts of prototyping is playing with it.
+> **[6:16](https://www.linkedin.com/learning/arduino-prototyping/implement-buttons?u=76281980&t=376)** One of the most important parts of [[Prototyping]] is playing with it.
 >
 > **[6:20](https://www.linkedin.com/learning/arduino-prototyping/implement-buttons?u=76281980&t=380)** First of all it's fun when your prototype actually works, but it also helps you understand how the prototype works and feels.
 >
@@ -1611,7 +1586,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (2), feature (1), next (1), oop (1), [[Prototyping]] (1)
+> **Frameworks & Libraries:** [[Prototyping]] (1)
 > **Env Vars:** lcd (5), ide (1)
 > **Prerequisites:** set up (3), setup (3)
 > **CLI Commands:** make (1)
@@ -1620,8 +1595,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Name
-> [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/challenge-name?u=76281980)
+#### [Challenge: Name](https://www.linkedin.com/learning/arduino-prototyping/challenge-name?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1639,7 +1613,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/arduino-prototyping/challenge-name?u=76281980&t=38)** Since the condition is always true, the sketch stays in the loop with no way out.
 >
-> **[0:44](https://www.linkedin.com/learning/arduino-prototyping/challenge-name?u=76281980&t=44)** To restart your sketch, press the reset button on your Arduino.
+> **[0:44](https://www.linkedin.com/learning/arduino-prototyping/challenge-name?u=76281980&t=44)** To restart your sketch, press the reset button on your [[Arduino]].
 >
 > **[0:49](https://www.linkedin.com/learning/arduino-prototyping/challenge-name?u=76281980&t=49)** That's it, now it's your turn to work on solving this challenge.
 >
@@ -1647,14 +1621,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (2), [[Arduino]] (1), next (1)
+> **Frameworks & Libraries:** [[Arduino]] (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Name
-> [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/solution-name?u=76281980)
+#### [Solution: Name](https://www.linkedin.com/learning/arduino-prototyping/solution-name?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1732,7 +1705,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (1)
 > **Env Vars:** lcd (4), ide (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
@@ -1744,8 +1716,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Blocking versus non-blocking code
-> [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/blocking-versus-non-blocking-code?u=76281980)
+#### [Blocking versus non-blocking code](https://www.linkedin.com/learning/arduino-prototyping/blocking-versus-non-blocking-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1761,7 +1732,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/arduino-prototyping/blocking-versus-non-blocking-code?u=76281980&t=19)** Let's see what that problem is and see if we can fix that.
 >
-> **[0:24](https://www.linkedin.com/learning/arduino-prototyping/blocking-versus-non-blocking-code?u=76281980&t=24)** If you look at the code in the Loop function, you can see there's quite a bit that goes on, but the Arduino is pretty fast and it finishes everything quickly.
+> **[0:24](https://www.linkedin.com/learning/arduino-prototyping/blocking-versus-non-blocking-code?u=76281980&t=24)** If you look at the code in the Loop function, you can see there's quite a bit that goes on, but the [[Arduino]] is pretty fast and it finishes everything quickly.
 >
 > **[0:32](https://www.linkedin.com/learning/arduino-prototyping/blocking-versus-non-blocking-code?u=76281980&t=32)** Initially, we let the loop run as quickly as it could, and the animation was way too fast.
 >
@@ -1847,8 +1818,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understand timers
-> [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/understand-timers?u=76281980)
+#### [Understand timers](https://www.linkedin.com/learning/arduino-prototyping/understand-timers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1900,14 +1870,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** currenttime (3), timerstart (2), timerlength (1)
 > **Prerequisites:** set up (1), setup (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implement non-blocking interaction
-> [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/implement-non-blocking-interaction?u=76281980)
+#### [Implement non-blocking interaction](https://www.linkedin.com/learning/arduino-prototyping/implement-non-blocking-interaction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1998,12 +1966,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Button debouncing
-> [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/button-debouncing?u=76281980)
+#### [Button debouncing](https://www.linkedin.com/learning/arduino-prototyping/button-debouncing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/arduino-prototyping/button-debouncing?u=76281980&t=0)** - [Instructor] You're probably pretty familiar with how switches work on the Arduino.
+> **[0:00](https://www.linkedin.com/learning/arduino-prototyping/button-debouncing?u=76281980&t=0)** - [Instructor] You're probably pretty familiar with how switches work on the [[Arduino]].
 >
 > **[0:04](https://www.linkedin.com/learning/arduino-prototyping/button-debouncing?u=76281980&t=4)** Depending on the circuit, pushing, pulling, or flipping the switch makes it go high or low.
 >
@@ -2111,7 +2078,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (2), application (1)
+> **Frameworks & Libraries:** [[Arduino]] (2)
 > **Env Vars:** ide (1), retro_4 (1)
 > **Warnings:** keep in mind (2)
 > **CLI Commands:** find (1)
@@ -2119,8 +2086,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Advanced button interaction
-> [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/advanced-button-interaction?u=76281980)
+#### [Advanced button interaction](https://www.linkedin.com/learning/arduino-prototyping/advanced-button-interaction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2136,7 +2102,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/arduino-prototyping/advanced-button-interaction?u=76281980&t=27)** You press them, and you release them.
 >
-> **[0:29](https://www.linkedin.com/learning/arduino-prototyping/advanced-button-interaction?u=76281980&t=29)** And in a sketch you can read the value from the connected Arduino pin to determine if the button is up or down.
+> **[0:29](https://www.linkedin.com/learning/arduino-prototyping/advanced-button-interaction?u=76281980&t=29)** And in a sketch you can read the value from the connected [[Arduino]] pin to determine if the button is up or down.
 >
 > **[0:36](https://www.linkedin.com/learning/arduino-prototyping/advanced-button-interaction?u=76281980&t=36)** But sometimes up and down aren't quite enough.
 >
@@ -2212,8 +2178,7 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implement button functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/implement-button-functions?u=76281980)
+#### [Implement button functions](https://www.linkedin.com/learning/arduino-prototyping/implement-button-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2269,7 +2234,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/arduino-prototyping/implement-button-functions?u=76281980&t=161)** The parameters all include types, just like the normal variable declarations.
 >
-> **[2:46](https://www.linkedin.com/learning/arduino-prototyping/implement-button-functions?u=76281980&t=166)** But the parameters create variables that are local to the function and don't depend on the rest of the sketch.
+> **[2:46](https://www.linkedin.com/learning/arduino-prototyping/implement-button-functions?u=76281980&t=166)** But the parameters create variables that are local to the function and don't depend on the [[Representational State Transfer (REST)|rest]] of the sketch.
 >
 > **[2:53](https://www.linkedin.com/learning/arduino-prototyping/implement-button-functions?u=76281980&t=173)** You then substitute the local parameters for the global variables in the function.
 >
@@ -2359,7 +2324,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** currentreading (8), pinstate (4), newvalue (4), newreading (2), newreadings (2)
 > **Analogies:** just like (3), for example (2)
 > **CLI Commands:** make (4)
@@ -2368,8 +2333,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Warnings:** note that (1)
 
-#### Challenge: Game intro
-> [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/challenge-game-intro?u=76281980)
+#### [Challenge: Game intro](https://www.linkedin.com/learning/arduino-prototyping/challenge-game-intro?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2387,14 +2351,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (3), next (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (pleasant electronic music) (1)
 
-#### Solution: Game intro
-> [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/solution-game-intro?u=76281980)
+#### [Solution: Game intro](https://www.linkedin.com/learning/arduino-prototyping/solution-game-intro?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2480,7 +2442,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (3)
 > **Code Identifiers:** currentreading (6)
 > **Env Vars:** ide (1), low (1)
 > **CLI Commands:** make (1)
@@ -2494,8 +2455,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use symbolic parameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/use-symbolic-parameters?u=76281980)
+#### [Use symbolic parameters](https://www.linkedin.com/learning/arduino-prototyping/use-symbolic-parameters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2527,7 +2487,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/arduino-prototyping/use-symbolic-parameters?u=76281980&t=84)** They are set once at the beginning and that's it.
 >
-> **[1:26](https://www.linkedin.com/learning/arduino-prototyping/use-symbolic-parameters?u=76281980&t=86)** One way to tell Arduino that a variable isn't going to change is to use the "const" keyword, which stands for constant.
+> **[1:26](https://www.linkedin.com/learning/arduino-prototyping/use-symbolic-parameters?u=76281980&t=86)** One way to tell [[Arduino]] that a variable isn't going to change is to use the "const" keyword, which stands for constant.
 >
 > **[1:34](https://www.linkedin.com/learning/arduino-prototyping/use-symbolic-parameters?u=76281980&t=94)** If you add that at the beginning of your definition, Arduino knows the value is set and won't be changed.
 >
@@ -2595,7 +2555,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Arduino]] (2)
+> **Frameworks & Libraries:** [[Arduino]] (2)
 > **Analogies:** just like (3), for example (1)
 > **CLI Commands:** make (3)
 > **Definitions:** stands for (1), is an  (1), is a  (1)
@@ -2603,12 +2563,11 @@ created: 2026-05-02
 > **Env Vars:** ide (1)
 > **Speakers:** - [presenter] (1)
 
-#### Document prototypes
-> [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/document-prototypes?u=76281980)
+#### [Document prototypes](https://www.linkedin.com/learning/arduino-prototyping/document-prototypes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/arduino-prototyping/document-prototypes?u=76281980&t=0)** - [Instructor] When you're prototyping, design, problem solving, and coding can move quickly and this is good.
+> **[0:00](https://www.linkedin.com/learning/arduino-prototyping/document-prototypes?u=76281980&t=0)** - [Instructor] When you're [[Prototyping]], design, problem solving, and coding can move quickly and this is good.
 >
 > **[0:06](https://www.linkedin.com/learning/arduino-prototyping/document-prototypes?u=76281980&t=6)** It means you're engaged with the design process and iterating, but when you're in this flow it's tempting to skip documentation.
 >
@@ -2618,7 +2577,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/arduino-prototyping/document-prototypes?u=76281980&t=30)** Fortunately, there's strategies you can use to help you remember.
 >
-> **[0:35](https://www.linkedin.com/learning/arduino-prototyping/document-prototypes?u=76281980&t=35)** One place to start is to write clear code when you're sketching.
+> **[0:35](https://www.linkedin.com/learning/arduino-prototyping/document-prototypes?u=76281980&t=35)** One place to start is to write clear code when you're [[Sketching]].
 >
 > **[0:39](https://www.linkedin.com/learning/arduino-prototyping/document-prototypes?u=76281980&t=39)** For example, use the name LASER_SYMBOL for your setting rather than a single letter, L.
 >
@@ -2648,7 +2607,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/arduino-prototyping/document-prototypes?u=76281980&t=130)** Combined with settings, versions are a powerful way to track and explore options.
 >
-> **[2:16](https://www.linkedin.com/learning/arduino-prototyping/document-prototypes?u=76281980&t=136)** In addition to documenting your code, make sure to keep the Pin map up to date if you add, delete, or rearrange hardware connections.
+> **[2:16](https://www.linkedin.com/learning/arduino-prototyping/document-prototypes?u=76281980&t=136)** In addition to documenting your code, make sure to keep the Pin map up to date if you add, delete, or rearrange [[Hardware]] connections.
 >
 > **[2:25](https://www.linkedin.com/learning/arduino-prototyping/document-prototypes?u=76281980&t=145)** And of course, update your schematic.
 >
@@ -2662,7 +2621,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Prototyping]] (1), [[Sketching]] (1), [[Hardware]] (1), data (1)
+> **Frameworks & Libraries:** [[Prototyping]] (1), [[Sketching]] (1), [[Hardware]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** laser_symbol (1), bom (1)
 > **Analogies:** imagine (1), for example (1)
@@ -2670,8 +2629,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Complete the experience
-> [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/challenge-complete-the-experience?u=76281980)
+#### [Challenge: Complete the experience](https://www.linkedin.com/learning/arduino-prototyping/challenge-complete-the-experience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2705,14 +2663,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (1), next (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat electronic music) (1)
 
-#### Solution: Complete the experience
-> [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/solution-complete-the-experience?u=76281980)
+#### [Solution: Complete the experience](https://www.linkedin.com/learning/arduino-prototyping/solution-complete-the-experience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2794,7 +2750,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1), oop (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** ide (1)
@@ -2807,18 +2762,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Final thoughts
-> [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/final-thoughts?u=76281980)
+#### [Final thoughts](https://www.linkedin.com/learning/arduino-prototyping/final-thoughts?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/arduino-prototyping/final-thoughts?u=76281980&t=0)** - Thank you for spending time with me in this course.
 >
-> **[0:03](https://www.linkedin.com/learning/arduino-prototyping/final-thoughts?u=76281980&t=3)** I hope you've enjoyed your journey through the world of nimble design and prototyping with an Arduino.
+> **[0:03](https://www.linkedin.com/learning/arduino-prototyping/final-thoughts?u=76281980&t=3)** I hope you've enjoyed your journey through the world of nimble design and [[Prototyping]] with an [[Arduino]].
 >
 > **[0:08](https://www.linkedin.com/learning/arduino-prototyping/final-thoughts?u=76281980&t=8)** For me, creating the course relied on the very thing it teaches, being nimble, prototyping, and the tension and joy that process brings.
 >
-> **[0:17](https://www.linkedin.com/learning/arduino-prototyping/final-thoughts?u=76281980&t=17)** You can learn more about design, prototyping, and the Arduino through the wealth of content here on LinkedIn Learning, and feel free to connect with me on LinkedIn.
+> **[0:17](https://www.linkedin.com/learning/arduino-prototyping/final-thoughts?u=76281980&t=17)** You can learn more about design, prototyping, and the Arduino through the wealth of content here on [[LinkedIn]] Learning, and feel free to connect with me on LinkedIn.
 >
 > **[0:26](https://www.linkedin.com/learning/arduino-prototyping/final-thoughts?u=76281980&t=26)** I'd love to hear your story and how you're getting along with your new-found knowledge.
 

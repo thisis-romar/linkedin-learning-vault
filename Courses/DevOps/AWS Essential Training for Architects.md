@@ -106,8 +106,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Aligning solutions
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/aligning-solutions?u=76281980)
+#### [Aligning solutions](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/aligning-solutions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -119,24 +118,23 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/aligning-solutions?u=76281980&t=21)** After the course, you will be able to apply these principles to your solutions and enhance your career profile as a cloud architect.
 >
-> **[0:30](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/aligning-solutions?u=76281980&t=30)** Hi, my name is Shyam, and I'm an industry expert on cloud computing and networking.
+> **[0:30](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/aligning-solutions?u=76281980&t=30)** Hi, my name is Shyam, and I'm an industry expert on [[Cloud Computing]] and networking.
 >
 > **[0:35](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/aligning-solutions?u=76281980&t=35)** If you're ready to be a better cloud architect, let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), business (1), aws (1), [[Automation]] (1), career (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 
-#### What you need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/what-you-need-to-know?u=76281980)
+#### [What you need to know](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/what-you-need-to-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/what-you-need-to-know?u=76281980&t=0)** Amazon Web Services offers various tools for compute, storage, networking, databases, and more.
+> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/what-you-need-to-know?u=76281980&t=0)** [[Amazon Web Services (AWS)|Amazon Web Services]] offers various tools for compute, storage, networking, [[Databases]], and more.
 >
-> **[0:08](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/what-you-need-to-know?u=76281980&t=8)** To appreciate the topics discussed in this course, I recommend that you have a basic understanding of cloud computing concepts.
+> **[0:08](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/what-you-need-to-know?u=76281980&t=8)** To appreciate the topics discussed in this course, I recommend that you have a basic understanding of [[Cloud Computing]] concepts.
 >
 > **[0:16](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/what-you-need-to-know?u=76281980&t=16)** You will also need an AWS account to follow along the demonstrations.
 >
@@ -156,12 +154,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (3), cloud (2), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Databases]] (1)
 > **CLI Commands:** aws (3)
 > **Env Vars:** aws (3)
 
-#### AWS Well-Architected Framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/aws-well-architected-framework?u=76281980)
+#### [AWS Well-Architected Framework](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/aws-well-architected-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -173,7 +170,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/aws-well-architected-framework?u=76281980&t=23)** It is a conceptual framework or in other words, a collection of design principles to build secure, resilient, and high-performing solutions in the AWS cloud.
 >
-> **[0:34](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/aws-well-architected-framework?u=76281980&t=34)** It has six pillars; operational excellence, security, reliability, performance efficiency, cost optimization, and sustainability.
+> **[0:34](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/aws-well-architected-framework?u=76281980&t=34)** It has six pillars; [[Operational Excellence]], security, reliability, performance efficiency, cost optimization, and [[Sustainability]].
 >
 > **[0:45](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/aws-well-architected-framework?u=76281980&t=45)** Think of it like an architect's blueprint for a sturdy and efficient building.
 >
@@ -201,13 +198,13 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/aws-well-architected-framework?u=76281980&t=137)** You can do this by applying the principle of least privilege, enforcing separation of duties, and using a centralized identity management solution.
 >
-> **[2:26](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/aws-well-architected-framework?u=76281980&t=146)** You should also protect data at rest and in transit by configuring the appropriate encryption and access control mechanisms.
+> **[2:26](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/aws-well-architected-framework?u=76281980&t=146)** You should also protect data at [[Representational State Transfer (REST)|rest]] and in transit by configuring the appropriate encryption and access control mechanisms.
 >
 > **[2:35](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/aws-well-architected-framework?u=76281980&t=155)** Your solutions should also ensure traceability, meaning all actions should be monitored and captured by logging systems.
 >
 > **[2:42](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/aws-well-architected-framework?u=76281980&t=162)** Additionally, you should also apply security at all layers such as infrastructure, application, network, and data.
 >
-> **[2:51](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/aws-well-architected-framework?u=76281980&t=171)** Also, be prepared for security incidents by having well-defined incident response procedures and running simulations.
+> **[2:51](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/aws-well-architected-framework?u=76281980&t=171)** Also, be prepared for security incidents by having well-defined [[Incident Response]] procedures and running simulations.
 >
 > **[3:00](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/aws-well-architected-framework?u=76281980&t=180)** The third pillar is reliability.
 >
@@ -217,7 +214,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/aws-well-architected-framework?u=76281980&t=197)** This can be done by continuously monitoring key metrics of your application and using automation to recover from failure conditions.
 >
-> **[3:26](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/aws-well-architected-framework?u=76281980&t=206)** AWS has tools like CloudWatch and EventBridge that you can use to monitor metrics and react to events of interest.
+> **[3:26](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/aws-well-architected-framework?u=76281980&t=206)** AWS has tools like CloudWatch and EventBridge that you can use to monitor metrics and [[React.js|react]] to events of interest.
 >
 > **[3:34](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/aws-well-architected-framework?u=76281980&t=214)** It is also important to test recovery procedures.
 >
@@ -227,7 +224,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/aws-well-architected-framework?u=76281980&t=230)** This can be done by replacing large resources with multiple smaller resources.
 >
-> **[3:56](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/aws-well-architected-framework?u=76281980&t=236)** For example, you can replace a single 8xlarge EC2 instance with four 2xlarge EC2 instances, eliminating the single point of failure.
+> **[3:56](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/aws-well-architected-framework?u=76281980&t=236)** For example, you can replace a single 8xlarge [[Amazon EC2|EC2]] instance with four 2xlarge EC2 instances, eliminating the single point of failure.
 >
 > **[4:07](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/aws-well-architected-framework?u=76281980&t=247)** The fourth pillar is performance efficiency.
 >
@@ -281,14 +278,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (13), cloud (8), [[Security]] (5), application (3), data (3)
+> **Frameworks & Libraries:** [[Operational Excellence]] (2), [[Sustainability]] (2), [[Amazon EC2|Ec2]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Incident Response]] (1)
 > **Env Vars:** aws (13), ec2 (2)
 > **CLI Commands:** aws (13), find (1)
 > **Analogies:** for example (3), such as (2), think of it like (1), just like (1)
 > **Definitions:** is a  (1), in other words (1)
 
-#### Shared responsibility model
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/shared-responsibility-model?u=76281980)
+#### [Shared responsibility model](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/shared-responsibility-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -298,11 +294,11 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/shared-responsibility-model?u=76281980&t=11)** Here are some common questions that come up when adopting the cloud.
 >
-> **[0:15](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/shared-responsibility-model?u=76281980&t=15)** Who will manage the hardware powering the virtual services?
+> **[0:15](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/shared-responsibility-model?u=76281980&t=15)** Who will manage the [[Hardware]] powering the virtual services?
 >
 > **[0:19](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/shared-responsibility-model?u=76281980&t=19)** Who is responsible for the software components?
 >
-> **[0:22](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/shared-responsibility-model?u=76281980&t=22)** Who is responsible for the operating system configuration?
+> **[0:22](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/shared-responsibility-model?u=76281980&t=22)** Who is responsible for the operating [[System Configuration]]?
 >
 > **[0:26](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/shared-responsibility-model?u=76281980&t=26)** Who will configure the network?
 >
@@ -330,9 +326,9 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/shared-responsibility-model?u=76281980&t=91)** Customer responsibility is determined by the AWS service type.
 >
-> **[1:36](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/shared-responsibility-model?u=76281980&t=96)** AWS offers services in different categories, such as infrastructure as a service or IaaS, and platform as a service or PaaS.
+> **[1:36](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/shared-responsibility-model?u=76281980&t=96)** AWS offers services in different categories, such as [[IaaS|infrastructure as a service]] or [[IaaS]], and [[PaaS|platform as a service]] or [[PaaS]].
 >
-> **[1:46](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/shared-responsibility-model?u=76281980&t=106)** Let's look at the shared responsibility model for Amazon EC2, a service that allows you to launch virtual machines.
+> **[1:46](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/shared-responsibility-model?u=76281980&t=106)** Let's look at the shared responsibility model for [[Amazon EC2]], a service that allows you to launch [[Virtual Machines]].
 >
 > **[1:54](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/shared-responsibility-model?u=76281980&t=114)** It falls in the IaaS category because the infrastructure is fully configurable according to your preferences.
 >
@@ -348,7 +344,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/shared-responsibility-model?u=76281980&t=153)** So customer responsibilities include server and client-side encryption and network traffic protection.
 >
-> **[2:39](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/shared-responsibility-model?u=76281980&t=159)** This is to protect data at rest and in transit.
+> **[2:39](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/shared-responsibility-model?u=76281980&t=159)** This is to protect data at [[Representational State Transfer (REST)|rest]] and in transit.
 >
 > **[2:43](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/shared-responsibility-model?u=76281980&t=163)** The customer is also responsible for managing the guest operating system, running on the virtual machines and their network and firewall configuration.
 >
@@ -394,7 +390,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (19), [[Hardware]] (6), data (6), cloud (5), [[Security]] (4)
+> **Frameworks & Libraries:** [[Hardware]] (6), [[PaaS]] (3), [[IaaS]] (2), [[PaaS|Platform as a service]] (2), [[Virtual Machines]] (2)
 > **Env Vars:** aws (19), cpu (1), ec2 (1), rds (1)
 > **CLI Commands:** aws (19)
 > **Analogies:** such as (3), for example (2)
@@ -406,8 +402,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Design a strategy for secure access
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/design-a-strategy-for-secure-access?u=76281980)
+#### [Design a strategy for secure access](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/design-a-strategy-for-secure-access?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -439,7 +434,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/design-a-strategy-for-secure-access?u=76281980&t=86)** Next, secure every layer.
 >
-> **[1:29](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/design-a-strategy-for-secure-access?u=76281980&t=89)** This includes the network, applications, code, data, instances such as EC2 instances and databases, and the operating system.
+> **[1:29](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/design-a-strategy-for-secure-access?u=76281980&t=89)** This includes the network, applications, code, data, instances such as [[Amazon EC2|EC2]] instances and [[Databases]], and the operating system.
 >
 > **[1:40](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/design-a-strategy-for-secure-access?u=76281980&t=100)** AWS has tools that allow you to secure these resource types and review their security.
 >
@@ -473,7 +468,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/design-a-strategy-for-secure-access?u=76281980&t=170)** These include authentication, encryption, access control, and reporting.
 >
-> **[2:56](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/design-a-strategy-for-secure-access?u=76281980&t=176)** Also, it is important to protect data at rest and in transit.
+> **[2:56](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/design-a-strategy-for-secure-access?u=76281980&t=176)** Also, it is important to protect data at [[Representational State Transfer (REST)|rest]] and in transit.
 >
 > **[3:02](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/design-a-strategy-for-secure-access?u=76281980&t=182)** You can protect data at rest by encrypting it and data in transit by using secure protocols such as HTTPS.
 >
@@ -501,7 +496,7 @@ created: 2026-05-02
 >
 > **[4:25](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/design-a-strategy-for-secure-access?u=76281980&t=265)** Lastly, prepare for security events.
 >
-> **[4:28](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/design-a-strategy-for-secure-access?u=76281980&t=268)** Create and regularly update an incident response plan specific to your AWS environment.
+> **[4:28](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/design-a-strategy-for-secure-access?u=76281980&t=268)** Create and regularly update an [[Incident Response]] plan specific to your AWS environment.
 >
 > **[4:35](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/design-a-strategy-for-secure-access?u=76281980&t=275)** Your plan will define the ability of your team to respond to an incident, restore operations, and perform forensic analysis.
 >
@@ -513,7 +508,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), aws (13), [[Security]] (4), cloud (3), next (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Incident Response]] (2), [[Amazon EC2|Ec2]] (1), [[Databases]] (1)
 > **Env Vars:** aws (13), vpc (2), ec2 (1), pii (1), https (1)
 > **CLI Commands:** aws (13)
 > **Analogies:** such as (7), for example (1)
@@ -521,8 +516,7 @@ created: 2026-05-02
 > **Definitions:** refers to (1)
 > **Best Practices:** best practice (1)
 
-#### Identity and Access Management
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/identity-and-access-management?u=76281980)
+#### [Identity and Access Management](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/identity-and-access-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -530,7 +524,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/identity-and-access-management?u=76281980&t=8)** This includes access for internal and external users.
 >
-> **[0:13](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/identity-and-access-management?u=76281980&t=13)** IAM is important from a solution architecture perspective because it allows you to design secure access for your resources.
+> **[0:13](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/identity-and-access-management?u=76281980&t=13)** IAM is important from a [[Solution Architecture]] perspective because it allows you to design secure access for your resources.
 >
 > **[0:20](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/identity-and-access-management?u=76281980&t=20)** Important entities in IAM include users, groups, policies, and roles.
 >
@@ -548,7 +542,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/identity-and-access-management?u=76281980&t=65)** This can be an important architectural decision, as this will determine whether AWS or an external identity provider manages your identities.
 >
-> **[1:14](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/identity-and-access-management?u=76281980&t=74)** Microsoft Active Directory is a common identity provider used by customers.
+> **[1:14](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/identity-and-access-management?u=76281980&t=74)** [[Microsoft]] [[Active Directory]] is a common identity provider used by customers.
 >
 > **[1:20](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/identity-and-access-management?u=76281980&t=80)** You can use identity providers that support OpenID Connect, also known as OIDC or Security Assertion Markup Language 2.0, also known as SAML.
 >
@@ -574,7 +568,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/identity-and-access-management?u=76281980&t=143)** Roles have policies associated with them that determine their permissions.
 >
-> **[2:29](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/identity-and-access-management?u=76281980&t=149)** Imagine you have an EC2 instance that needs access to an S3 bucket.
+> **[2:29](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/identity-and-access-management?u=76281980&t=149)** Imagine you have an [[Amazon EC2|EC2]] instance that needs access to an S3 bucket.
 >
 > **[2:35](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/identity-and-access-management?u=76281980&t=155)** AWS does not permit this access by default even if it is within your account.
 >
@@ -614,7 +608,7 @@ created: 2026-05-02
 >
 > **[4:32](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/identity-and-access-management?u=76281980&t=272)** For now, we'll skip this.
 >
-> **[4:35](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/identity-and-access-management?u=76281980&t=275)** You can also enforce that the third party use MFA or multi-factor authentication when assuming the role.
+> **[4:35](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/identity-and-access-management?u=76281980&t=275)** You can also enforce that the third party use MFA or [[Multi-factor Authentication]] when assuming the role.
 >
 > **[4:42](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/identity-and-access-management?u=76281980&t=282)** For now, we'll skip this and click "Next."
 >
@@ -718,7 +712,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (19), next (7), [[Security]] (6), [[Amazon EC2|Ec2]] (5), management (3)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (5), [[Solution Architecture]] (1), [[Microsoft]] (1), [[Active Directory]] (1), [[Multi-factor Authentication]] (1)
 > **Env Vars:** iam (24), aws (19), ec2 (5), sns (2), arn (2)
 > **CLI Commands:** aws (19), find (3)
 > **UI Navigation:** go to (5), scroll down (4), select the (4), dropdown (2), switch to (1)
@@ -727,20 +721,19 @@ created: 2026-05-02
 > **Cross-References:** in the next (1), go back to (1)
 > **Versions:** 2.0 (1)
 
-#### Organizing multiple accounts with AWS Organizations
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/organizing-multiple-accounts-with-aws-organizations?u=76281980)
+#### [Organizing multiple accounts with AWS Organizations](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/organizing-multiple-accounts-with-aws-organizations?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/organizing-multiple-accounts-with-aws-organizations?u=76281980&t=0)** It is common for organizations to have multiple AWS accounts.
 >
-> **[0:04](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/organizing-multiple-accounts-with-aws-organizations?u=76281980&t=4)** This may be for segregation of environments, regulatory compliance, creating security boundaries, and even to work around service limits imposed by AWS.
+> **[0:04](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/organizing-multiple-accounts-with-aws-organizations?u=76281980&t=4)** This may be for segregation of environments, [[Regulatory Compliance]], creating security boundaries, and even to work around service limits imposed by AWS.
 >
 > **[0:15](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/organizing-multiple-accounts-with-aws-organizations?u=76281980&t=15)** For example, an organization may have separate AWS accounts for each business location, each department, and even for each project.
 >
 > **[0:25](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/organizing-multiple-accounts-with-aws-organizations?u=76281980&t=25)** It is common for organizations to have hundreds of AWS accounts.
 >
-> **[0:30](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/organizing-multiple-accounts-with-aws-organizations?u=76281980&t=30)** This creates administrative and architectural challenges such as identity and access management, cost management, cross-account resource access, and governance and compliance.
+> **[0:30](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/organizing-multiple-accounts-with-aws-organizations?u=76281980&t=30)** This creates administrative and architectural challenges such as identity and access management, [[Cost Management]], cross-account resource access, and governance and compliance.
 >
 > **[0:42](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/organizing-multiple-accounts-with-aws-organizations?u=76281980&t=42)** AWS has several services to manage challenges associated with multiple AWS accounts.
 >
@@ -838,7 +831,7 @@ created: 2026-05-02
 >
 > **[5:02](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/organizing-multiple-accounts-with-aws-organizations?u=76281980&t=302)** It acts as a guardrail, setting limits on the member account actions.
 >
-> **[5:06](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/organizing-multiple-accounts-with-aws-organizations?u=76281980&t=306)** Let's create an SCP that will prevent member accounts from launching new EC2 instances.
+> **[5:06](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/organizing-multiple-accounts-with-aws-organizations?u=76281980&t=306)** Let's create an SCP that will prevent member accounts from launching new [[Amazon EC2|EC2]] instances.
 >
 > **[5:13](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/organizing-multiple-accounts-with-aws-organizations?u=76281980&t=313)** First, click "Service control policies" and then enable it.
 >
@@ -912,7 +905,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (31), management (11), [[Amazon EC2|Ec2]] (6), [[Security]] (3), [[Regulatory Compliance]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (6), [[Regulatory Compliance]] (1), [[Cost Management]] (1)
 > **Env Vars:** aws (31), scp (6), ec2 (6), ami (1)
 > **CLI Commands:** aws (31), find (4)
 > **UI Navigation:** select the (7), go to (5), scroll down (3), dropdown (2)
@@ -921,8 +914,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (2)
 > **Definitions:** is an  (1)
 
-#### Governing multiple accounts using AWS Control Tower
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/governing-multiple-accounts-using-aws-control-tower?u=76281980)
+#### [Governing multiple accounts using AWS Control Tower](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/governing-multiple-accounts-using-aws-control-tower?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -942,7 +934,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/governing-multiple-accounts-using-aws-control-tower?u=76281980&t=35)** Preventive controls disallow actions that lead to policy violations.
 >
-> **[0:41](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/governing-multiple-accounts-using-aws-control-tower?u=76281980&t=41)** For example, a preventive control requires that attached EBS volumes, also known as Elastic Block Store volumes are configured to encrypt data at rest.
+> **[0:41](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/governing-multiple-accounts-using-aws-control-tower?u=76281980&t=41)** For example, a preventive control requires that attached EBS volumes, also known as Elastic Block Store volumes are configured to encrypt data at [[Representational State Transfer (REST)|rest]].
 >
 > **[0:51](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/governing-multiple-accounts-using-aws-control-tower?u=76281980&t=51)** Encryption protects against unauthorized access to your data.
 >
@@ -954,7 +946,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/governing-multiple-accounts-using-aws-control-tower?u=76281980&t=69)** Detective controls check for non-compliance of resources.
 >
-> **[1:13](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/governing-multiple-accounts-using-aws-control-tower?u=76281980&t=73)** For example, a detective control detects EC2 instances that have a public IPv4 address.
+> **[1:13](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/governing-multiple-accounts-using-aws-control-tower?u=76281980&t=73)** For example, a detective control detects [[Amazon EC2|EC2]] instances that have a public IPv4 address.
 >
 > **[1:20](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/governing-multiple-accounts-using-aws-control-tower?u=76281980&t=80)** Another detective control requires that RDS instances, also known as Relational Database Service instances, should have automatic backups enabled.
 >
@@ -998,7 +990,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/governing-multiple-accounts-using-aws-control-tower?u=76281980&t=195)** For example, an elective control disallows changes to logging configuration for S3 buckets.
 >
-> **[3:21](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/governing-multiple-accounts-using-aws-control-tower?u=76281980&t=201)** Another elective control detects whether MFA or multi-factor authentication is enabled for IAM users.
+> **[3:21](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/governing-multiple-accounts-using-aws-control-tower?u=76281980&t=201)** Another elective control detects whether MFA or [[Multi-factor Authentication]] is enabled for IAM users.
 >
 > **[3:29](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/governing-multiple-accounts-using-aws-control-tower?u=76281980&t=209)** You will find the full list of these controls in the documentation.
 >
@@ -1014,7 +1006,7 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/governing-multiple-accounts-using-aws-control-tower?u=76281980&t=255)** The log archive account contains logging information for all enrolled accounts.
 >
-> **[4:20](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/governing-multiple-accounts-using-aws-control-tower?u=76281980&t=260)** The audit account can be used to perform audits and automated security operations like remediation.
+> **[4:20](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/governing-multiple-accounts-using-aws-control-tower?u=76281980&t=260)** The audit account can be used to perform audits and automated [[Security Operations]] like remediation.
 >
 > **[4:27](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/governing-multiple-accounts-using-aws-control-tower?u=76281980&t=267)** Now let's go to the AWS Management Console and see how to configure Control Tower.
 >
@@ -1112,7 +1104,7 @@ created: 2026-05-02
 >
 > **[8:25](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/governing-multiple-accounts-using-aws-control-tower?u=76281980&t=505)** Here, you have the control categories that Control Tower can apply to your accounts for compliance purposes.
 >
-> **[8:32](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/governing-multiple-accounts-using-aws-control-tower?u=76281980&t=512)** The controls are grouped by objectives such as logging and encryption, by individual AWS services, by frameworks such as NIST, PCI, and CIS and by groups, in this case, digital sovereignty.
+> **[8:32](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/governing-multiple-accounts-using-aws-control-tower?u=76281980&t=512)** The controls are grouped by objectives such as logging and encryption, by individual AWS services, by frameworks such as [[NIST]], PCI, and CIS and by groups, in this case, digital sovereignty.
 >
 > **[8:48](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/governing-multiple-accounts-using-aws-control-tower?u=76281980&t=528)** You can also view all controls in a list view.
 >
@@ -1146,7 +1138,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (23), next (12), [[Security]] (8), data (2), management (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Amazon EC2|Ec2]] (1), [[Security Operations]] (1), [[NIST]] (1)
 > **Env Vars:** aws (23), iam (2), ebs (1), ec2 (1), rds (1)
 > **CLI Commands:** aws (23), find (4)
 > **Prerequisites:** configure (6), set up (4), required to (2), setup (1)
@@ -1155,20 +1147,19 @@ created: 2026-05-02
 > **Definitions:** known as (3), is a  (2), refers to (1), is an  (1)
 > **UI Navigation:** go to (3), select the (2)
 
-#### IAM Identity Center
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/iam-identity-center?u=76281980)
+#### [IAM Identity Center](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/iam-identity-center?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/iam-identity-center?u=76281980&t=0)** So we've seen that AWS Organizations and AWS Control Tower can be used to manage multiple AWS accounts.
 >
-> **[0:07](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/iam-identity-center?u=76281980&t=7)** From a solution architecture perspective, another challenge with managing accounts is centralizing user access management.
+> **[0:07](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/iam-identity-center?u=76281980&t=7)** From a [[Solution Architecture]] perspective, another challenge with managing accounts is centralizing user access management.
 >
 > **[0:14](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/iam-identity-center?u=76281980&t=14)** Without a centralized solution, your users must remember the credentials for each separate account.
 >
 > **[0:21](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/iam-identity-center?u=76281980&t=21)** AWS IAM Identity Center provides a solution to this problem.
 >
-> **[0:26](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/iam-identity-center?u=76281980&t=26)** It allows you to centralize and simplify access management for multiple AWS accounts, AWS applications, and SAML enabled cloud applications such as Salesforce, Microsoft 365, and more.
+> **[0:26](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/iam-identity-center?u=76281980&t=26)** It allows you to centralize and simplify access management for multiple AWS accounts, AWS applications, and SAML enabled cloud applications such as Salesforce, [[Microsoft 365]], and more.
 >
 > **[0:40](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/iam-identity-center?u=76281980&t=40)** IAM Identity Center was previously known as AWS Single Sign-On.
 >
@@ -1178,15 +1169,15 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/iam-identity-center?u=76281980&t=52)** The service creates this and it is your default identity source.
 >
-> **[0:57](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/iam-identity-center?u=76281980&t=57)** You can also use Active Directory as your identity source.
+> **[0:57](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/iam-identity-center?u=76281980&t=57)** You can also use [[Active Directory]] as your identity source.
 >
-> **[1:00](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/iam-identity-center?u=76281980&t=60)** This can be an AWS-managed Microsoft Active Directory or your self-managed directory.
+> **[1:00](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/iam-identity-center?u=76281980&t=60)** This can be an AWS-managed [[Microsoft]] Active Directory or your self-managed directory.
 >
 > **[1:06](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/iam-identity-center?u=76281980&t=66)** Identity Center will synchronize user, group, and membership information from the Active Directory.
 >
 > **[1:12](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/iam-identity-center?u=76281980&t=72)** You can also use an external identity provider.
 >
-> **[1:16](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/iam-identity-center?u=76281980&t=76)** It can be a SAML 2.0 supported identity provider such as Okta or Microsoft Entra ID.
+> **[1:16](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/iam-identity-center?u=76281980&t=76)** It can be a SAML 2.0 supported identity provider such as Okta or [[Microsoft Entra ID]].
 >
 > **[1:23](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/iam-identity-center?u=76281980&t=83)** If you're already using Active Directory or an external identity provider, AWS recommends connecting it to Identity Center.
 >
@@ -1210,7 +1201,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/iam-identity-center?u=76281980&t=142)** Under the settings section on the left navigation pane, you will find the identity source details and you have the option to change the identity source or customize the AWS access portal URL.
 >
-> **[2:34](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/iam-identity-center?u=76281980&t=154)** Under the authentication section, you can configure multi-factor authentication.
+> **[2:34](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/iam-identity-center?u=76281980&t=154)** Under the authentication section, you can configure [[Multi-factor Authentication]].
 >
 > **[2:40](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/iam-identity-center?u=76281980&t=160)** By default, it requires users to register an MFA device at sign in.
 >
@@ -1298,7 +1289,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (20), management (6), next (5), [[Active Directory]] (4), cloud (2)
+> **Frameworks & Libraries:** [[Active Directory]] (4), [[Solution Architecture]] (1), [[Microsoft 365]] (1), [[Microsoft]] (1), [[Microsoft Entra ID]] (1)
 > **Env Vars:** aws (20), iam (4), url (3), saml (2), mfa (1)
 > **CLI Commands:** aws (20), find (4), make (1)
 > **UI Navigation:** go to (4), select the (3), dropdown (1)
@@ -1307,8 +1298,7 @@ created: 2026-05-02
 > **Analogies:** such as (3)
 > **Cross-References:** in the next (2)
 
-#### VPC and subnets
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/vpc-and-subnets?u=76281980)
+#### [VPC and subnets](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/vpc-and-subnets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1340,9 +1330,9 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/vpc-and-subnets?u=76281980&t=71)** The IP ranges of both subnets belong to the VPC IP range.
 >
-> **[1:16](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/vpc-and-subnets?u=76281980&t=76)** You launch resources such as EC2 instances and EBS volumes within the subnets.
+> **[1:16](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/vpc-and-subnets?u=76281980&t=76)** You launch resources such as [[Amazon EC2|EC2]] instances and EBS volumes within the subnets.
 >
-> **[1:23](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/vpc-and-subnets?u=76281980&t=83)** The following factors should be considered when designing your VPCs and subnets: network isolation, IP addressing, security, connectivity, high availability, and compliance.
+> **[1:23](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/vpc-and-subnets?u=76281980&t=83)** The following factors should be considered when designing your VPCs and subnets: network isolation, [[IP Addressing]], security, connectivity, high availability, and compliance.
 >
 > **[1:37](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/vpc-and-subnets?u=76281980&t=97)** Let's talk about each of these.
 >
@@ -1356,7 +1346,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/vpc-and-subnets?u=76281980&t=122)** Next is IP addressing.
 >
-> **[2:04](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/vpc-and-subnets?u=76281980&t=124)** When defining the VPC IP address range, choose a CIDR block or IP address range that is large enough to accommodate your current resources and allows for scalability in future.
+> **[2:04](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/vpc-and-subnets?u=76281980&t=124)** When defining the VPC IP address range, choose a CIDR block or IP address range that is large enough to accommodate your current resources and allows for [[Scalability]] in future.
 >
 > **[2:16](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/vpc-and-subnets?u=76281980&t=136)** VPCs are isolated, but they can be peered only if their IP ranges don't overlap.
 >
@@ -1368,7 +1358,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/vpc-and-subnets?u=76281980&t=155)** They also allow incoming connections from the Internet.
 >
-> **[2:39](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/vpc-and-subnets?u=76281980&t=159)** This is typically used by web servers.
+> **[2:39](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/vpc-and-subnets?u=76281980&t=159)** This is typically used by [[Web Servers]].
 >
 > **[2:42](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/vpc-and-subnets?u=76281980&t=162)** Private subnets have a route to a network address translation or NAT device allowing access to the Internet.
 >
@@ -1538,7 +1528,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (14), next (9), [[Security]] (6), cloud (3), data (3)
+> **Frameworks & Libraries:** [[IP Addressing]] (2), [[Amazon EC2|Ec2]] (1), [[Scalability]] (1), [[Web Servers]] (1)
 > **Env Vars:** vpc (29), aws (14), vpn (3), nat (2), ec2 (1)
 > **CLI Commands:** aws (14), find (2)
 > **UI Navigation:** select the (7), go to (4), dropdown (2), scroll down (2)
@@ -1547,8 +1537,7 @@ created: 2026-05-02
 > **Analogies:** such as (3), for example (1)
 > **Warnings:** keep in mind (1), note that (1)
 
-#### VPN and Direct Connect
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/vpn-and-direct-connect?u=76281980)
+#### [VPN and Direct Connect](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/vpn-and-direct-connect?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1620,15 +1609,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** vpn (12), aws (11), data (5), [[Security]] (3), cloud (2)
 > **Env Vars:** vpn (12), aws (11), vpc (1)
 > **CLI Commands:** aws (11)
 > **Definitions:** is a  (6), is an  (2)
 > **Prerequisites:** configure (2)
 > **Analogies:** such as (1)
 
-#### Controlling inbound traffic with security groups and network ACLs
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/controlling-inbound-traffic-with-security-groups-and-network-acls?u=76281980)
+#### [Controlling inbound traffic with security groups and network ACLs](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/controlling-inbound-traffic-with-security-groups-and-network-acls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1660,7 +1647,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/controlling-inbound-traffic-with-security-groups-and-network-acls?u=76281980&t=72)** This means they do not maintain traffic state information.
 >
-> **[1:16](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/controlling-inbound-traffic-with-security-groups-and-network-acls?u=76281980&t=76)** For example, here is an EC2 instance in a subnet.
+> **[1:16](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/controlling-inbound-traffic-with-security-groups-and-network-acls?u=76281980&t=76)** For example, here is an [[Amazon EC2|EC2]] instance in a subnet.
 >
 > **[1:20](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/controlling-inbound-traffic-with-security-groups-and-network-acls?u=76281980&t=80)** A network ACL rule allows specific outbound traffic, but responses to that traffic are not automatically allowed, so traffic must be explicitly allowed in both directions.
 >
@@ -1712,14 +1699,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (22), [[Security]] (17), [[Amazon EC2|Ec2]] (3), aws (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3)
 > **Env Vars:** acl (8), ec2 (3), aws (2), rds (1), vpc (1)
 > **CLI Commands:** aws (2), find (1), make (1)
 > **Analogies:** for example (3), think of it as (1)
 > **Definitions:** known as (1), is an  (1)
 
-#### Securing keys and credentials
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/securing-keys-and-credentials?u=76281980)
+#### [Securing keys and credentials](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/securing-keys-and-credentials?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1731,7 +1717,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/securing-keys-and-credentials?u=76281980&t=18)** AWS KMS allows you to create and store keys used for cryptographic operations such as encryption.
 >
-> **[0:25](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/securing-keys-and-credentials?u=76281980&t=25)** Encryption allows you to securely store data at rest.
+> **[0:25](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/securing-keys-and-credentials?u=76281980&t=25)** Encryption allows you to securely store data at [[Representational State Transfer (REST)|rest]].
 >
 > **[0:29](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/securing-keys-and-credentials?u=76281980&t=29)** With KMS, you can create and edit symmetric and asymmetric keys.
 >
@@ -1799,7 +1785,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/securing-keys-and-credentials?u=76281980&t=202)** Let's try to use this key to encrypt an EBS volume.
 >
-> **[3:26](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/securing-keys-and-credentials?u=76281980&t=206)** First, I'll go to the EC2 service.
+> **[3:26](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/securing-keys-and-credentials?u=76281980&t=206)** First, I'll go to the [[Amazon EC2|EC2]] service.
 >
 > **[3:31](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/securing-keys-and-credentials?u=76281980&t=211)** Once I'm here, I'll click "Volumes" on the left navigation pane and then click "Create volume."
 >
@@ -1827,9 +1813,9 @@ created: 2026-05-02
 >
 > **[4:40](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/securing-keys-and-credentials?u=76281980&t=280)** As the name suggests, it is a secrets management service that helps protect secrets related to your applications and services.
 >
-> **[4:48](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/securing-keys-and-credentials?u=76281980&t=288)** It allows you to manage and retrieve database and application credentials, API keys OAuth tokens, SSH keys, and other secrets.
+> **[4:48](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/securing-keys-and-credentials?u=76281980&t=288)** It allows you to manage and retrieve database and application credentials, API keys OAuth [[Tokens]], SSH keys, and other secrets.
 >
-> **[4:58](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/securing-keys-and-credentials?u=76281980&t=298)** Hard-coding credentials in the application source code is a security risk, as anyone with access to the code can access the credentials.
+> **[4:58](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/securing-keys-and-credentials?u=76281980&t=298)** Hard-coding credentials in the application source code is a [[Security Risk]], as anyone with access to the code can access the credentials.
 >
 > **[5:07](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/securing-keys-and-credentials?u=76281980&t=307)** Instead, you can store the credentials in Secrets Manager and configure the application to call the service whenever it needs the credentials.
 >
@@ -1859,7 +1845,7 @@ created: 2026-05-02
 >
 > **[6:16](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/securing-keys-and-credentials?u=76281980&t=376)** This can be credentials for an RDS database, DocumentDB database, or Redshift cluster.
 >
-> **[6:23](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/securing-keys-and-credentials?u=76281980&t=383)** If you select any of these options, you will see the matching databases being used in your account.
+> **[6:23](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/securing-keys-and-credentials?u=76281980&t=383)** If you select any of these options, you will see the matching [[Databases]] being used in your account.
 >
 > **[6:28](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/securing-keys-and-credentials?u=76281980&t=388)** You can also select any other database type and then choose the appropriate database.
 >
@@ -1885,13 +1871,13 @@ created: 2026-05-02
 >
 > **[7:43](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/securing-keys-and-credentials?u=76281980&t=463)** The secret has been stored and can now be accessed by your applications.
 >
-> **[7:49](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/securing-keys-and-credentials?u=76281980&t=469)** As we've just seen, KMS and Secrets Manager simplify cryptography key and secret management.
+> **[7:49](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/securing-keys-and-credentials?u=76281980&t=469)** As we've just seen, KMS and Secrets Manager simplify [[Cryptography]] key and secret management.
 >
 > **[7:55](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/securing-keys-and-credentials?u=76281980&t=475)** Using these tools in your solutions improves your security posture and aligns your architecture with best practices in data protection.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (16), next (8), management (5), data (5), database (5)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Amazon EC2|Ec2]] (1), [[Tokens]] (1), [[Security Risk]] (1), [[Databases]] (1)
 > **Env Vars:** aws (16), kms (11), iam (5), ebs (2), ec2 (1)
 > **CLI Commands:** aws (16), find (2), ssh (1)
 > **UI Navigation:** go to (6), scroll down (3), dropdown (1)
@@ -1900,12 +1886,11 @@ created: 2026-05-02
 > **Definitions:** is a  (3), known as (1), refers to (1)
 > **Analogies:** such as (3)
 
-#### Securing data in transit
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/securing-data-in-transit?u=76281980)
+#### [Securing data in transit](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/securing-data-in-transit?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/securing-data-in-transit?u=76281980&t=0)** In the last video, we talked about key management service, which allows you to create keys to encrypt and secure data at rest.
+> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/securing-data-in-transit?u=76281980&t=0)** In the last video, we talked about key management service, which allows you to create keys to encrypt and secure data at [[Representational State Transfer (REST)|rest]].
 >
 > **[0:08](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/securing-data-in-transit?u=76281980&t=8)** Now, let's talk about securing data in transit, that is, data moving over the network.
 >
@@ -1953,7 +1938,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/securing-data-in-transit?u=76281980&t=164)** It can also secure any number of subdomains.
 >
-> **[2:48](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/securing-data-in-transit?u=76281980&t=168)** ACM certificates are trusted by all major browsers, including Google Chrome, Mozilla Firefox, Microsoft Internet Explorer and Edge, and Apple Safari.
+> **[2:48](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/securing-data-in-transit?u=76281980&t=168)** ACM certificates are trusted by all major browsers, including [[Google]] Chrome, Mozilla Firefox, [[Microsoft]] Internet Explorer and Edge, and Apple Safari.
 >
 > **[2:59](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/securing-data-in-transit?u=76281980&t=179)** Now, let's go to the AWS Management Console and see how to use ACM to manage certificates.
 >
@@ -1997,7 +1982,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (9), management (4), data (4), dns (4), next (3)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Google]] (1), [[Microsoft]] (1)
 > **Env Vars:** aws (9), ssl (8), tls (7), acm (7), dns (4)
 > **CLI Commands:** aws (9), find (2)
 > **URLs:** [example.com](https://example.com) (3), [example.net](https://example.net) (1)
@@ -2006,8 +1991,7 @@ created: 2026-05-02
 > **Definitions:** known as (1), is a  (1)
 > **Documentation:** the documentation (1)
 
-#### Security best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/security-best-practices?u=76281980)
+#### [Security best practices](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/security-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2021,7 +2005,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/security-best-practices?u=76281980&t=18)** For example, to change your account settings.
 >
-> **[0:21](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/security-best-practices?u=76281980&t=21)** Enable multi-factor authentication for the root user and for IAM users.
+> **[0:21](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/security-best-practices?u=76281980&t=21)** Enable [[Multi-factor Authentication]] for the root user and for IAM users.
 >
 > **[0:27](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/security-best-practices?u=76281980&t=27)** Implement least privilege access.
 >
@@ -2033,7 +2017,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/security-best-practices?u=76281980&t=49)** Doing so allows you to create, manage, and revoke access from a single location.
 >
-> **[0:55](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/security-best-practices?u=76281980&t=55)** You can use IAM Identity Center or connect to an external identity provider like Microsoft Active Directory.
+> **[0:55](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/security-best-practices?u=76281980&t=55)** You can use IAM Identity Center or connect to an external identity provider like [[Microsoft]] [[Active Directory]].
 >
 > **[1:03](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/security-best-practices?u=76281980&t=63)** Use account level separation for isolating production accounts from development and test accounts.
 >
@@ -2073,19 +2057,19 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/security-best-practices?u=76281980&t=182)** Use VPCs and subnets to group resources with common reachability requirements.
 >
-> **[3:07](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/security-best-practices?u=76281980&t=187)** For example, you should place web servers in public subnets and databases in private subnets.
+> **[3:07](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/security-best-practices?u=76281980&t=187)** For example, you should place [[Web Servers]] in public subnets and [[Databases]] in private subnets.
 >
 > **[3:13](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/security-best-practices?u=76281980&t=193)** Classified data.
 >
 > **[3:16](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/security-best-practices?u=76281980&t=196)** Data can have varying sensitivity levels, and classifying it allows you to apply the appropriate security controls.
 >
-> **[3:23](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/security-best-practices?u=76281980&t=203)** Protect data at rest and in motion.
+> **[3:23](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/security-best-practices?u=76281980&t=203)** Protect data at [[Representational State Transfer (REST)|rest]] and in motion.
 >
 > **[3:26](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/security-best-practices?u=76281980&t=206)** Use encryption to protect data at rest and SSL/TLS certificates to protect data in motion.
 >
 > **[3:32](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/security-best-practices?u=76281980&t=212)** Configure logging.
 >
-> **[3:35](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/security-best-practices?u=76281980&t=215)** These can be useful for monitoring and incident response.
+> **[3:35](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/security-best-practices?u=76281980&t=215)** These can be useful for monitoring and [[Incident Response]].
 >
 > **[3:39](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/security-best-practices?u=76281980&t=219)** Perform vulnerability management, scan and patch your applications and infrastructure for vulnerabilities.
 >
@@ -2095,7 +2079,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), aws (5), [[Security]] (3), management (2), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Multi-factor Authentication]] (1), [[Microsoft]] (1), [[Active Directory]] (1), [[Web Servers]] (1)
 > **Env Vars:** iam (7), aws (5), ssl (1), tls (1), cve (1)
 > **CLI Commands:** aws (5)
 > **Analogies:** such as (3), for example (2)
@@ -2106,8 +2090,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Design for failure
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/design-for-failure?u=76281980)
+#### [Design for failure](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/design-for-failure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2157,7 +2140,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/design-for-failure?u=76281980&t=129)** This approach contains failure to only the affected components and allows them to scale independently.
 >
-> **[2:16](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/design-for-failure?u=76281980&t=136)** Imagine a monolithic e-commerce application that sells digital products.
+> **[2:16](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/design-for-failure?u=76281980&t=136)** Imagine a monolithic [[E-Commerce]] application that sells digital [[Microsoft Products|products]].
 >
 > **[2:21](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/design-for-failure?u=76281980&t=141)** You can decouple this application into smaller components in the following way.
 >
@@ -2191,7 +2174,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/design-for-failure?u=76281980&t=230)** Creating backup copies of important data will protect against loss and allow you to restore access quickly.
 >
-> **[3:57](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/design-for-failure?u=76281980&t=237)** Important services like databases, have their own backup configurations that you can use to automate backups.
+> **[3:57](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/design-for-failure?u=76281980&t=237)** Important services like [[Databases]], have their own backup configurations that you can use to automate backups.
 >
 > **[4:04](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/design-for-failure?u=76281980&t=244)** Alternatively, you can use AWS backup to centralize backup across AWS services.
 >
@@ -2207,9 +2190,9 @@ created: 2026-05-02
 >
 > **[4:37](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/design-for-failure?u=76281980&t=277)** And finally, test reliability.
 >
-> **[4:40](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/design-for-failure?u=76281980&t=280)** Testing is the only way to verify that your systems operate as designed and deliver the resiliency you expect.
+> **[4:40](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/design-for-failure?u=76281980&t=280)** Testing is the only way to verify that your systems operate as designed and deliver the [[Resiliency]] you expect.
 >
-> **[4:47](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/design-for-failure?u=76281980&t=287)** Perform regular load testing to ensure your system can handle expected and unexpected traffic levels.
+> **[4:47](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/design-for-failure?u=76281980&t=287)** Perform regular [[Load Testing]] to ensure your system can handle expected and unexpected traffic levels.
 >
 > **[4:55](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/design-for-failure?u=76281980&t=295)** Test for high availability by simulating failure conditions and test your backup and restore processes to ensure you can recover your data and systems in case of a failure.
 >
@@ -2217,21 +2200,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), aws (5), next (5), application (4), [[E-Commerce]] (2)
+> **Frameworks & Libraries:** [[E-Commerce]] (2), [[Microsoft Products|Products]] (1), [[Databases]] (1), [[Resiliency]] (1), [[Load Testing]] (1)
 > **Env Vars:** rpo (6), rto (5), aws (5), rds (1), sqs (1)
 > **Definitions:** stands for (2), in other words (2), is a  (2), is an  (1)
 > **CLI Commands:** aws (5)
 > **Analogies:** for example (2), imagine (2), such as (1)
 > **Cross-References:** in the next (1)
 
-#### Elastic Load Balancing
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/elastic-load-balancing?u=76281980)
+#### [Elastic Load Balancing](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/elastic-load-balancing?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/elastic-load-balancing?u=76281980&t=0)** Elastic Load Balancing is a key component when designing for failure.
 >
-> **[0:04](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/elastic-load-balancing?u=76281980&t=4)** It allows you to distribute incoming traffic across multiple targets such as EC2 instances and containers.
+> **[0:04](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/elastic-load-balancing?u=76281980&t=4)** It allows you to distribute incoming traffic across multiple targets such as [[Amazon EC2|EC2]] instances and containers.
 >
 > **[0:12](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/elastic-load-balancing?u=76281980&t=12)** So if one instance fails, the others can continue to serve traffic.
 >
@@ -2285,7 +2267,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (6), application (5), [[Amazon EC2|Ec2]] (2), aws (2), next (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2)
 > **Env Vars:** ec2 (2), http (2), aws (2), https (1), tcp (1)
 > **Best Practices:** recommended (5)
 > **Analogies:** such as (3), for example (1)
@@ -2294,8 +2276,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Prerequisites:** configure (1)
 
-#### Architecting loosely coupled applications with SNS and SQS
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/architecting-loosely-coupled-applications-with-sns-and-sqs?u=76281980)
+#### [Architecting loosely coupled applications with SNS and SQS](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/architecting-loosely-coupled-applications-with-sns-and-sqs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2345,7 +2326,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/architecting-loosely-coupled-applications-with-sns-and-sqs?u=76281980&t=119)** Now, let's look at another example, this time focusing only on the application tier.
 >
-> **[2:05](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/architecting-loosely-coupled-applications-with-sns-and-sqs?u=76281980&t=125)** An e-commerce application is responsible for verifying payments, creating the order, sending a digital product, generating and sending the invoice, and then sending the order completion notification.
+> **[2:05](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/architecting-loosely-coupled-applications-with-sns-and-sqs?u=76281980&t=125)** An [[E-Commerce]] application is responsible for verifying payments, creating the order, sending a digital product, generating and sending the invoice, and then sending the order completion notification.
 >
 > **[2:18](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/architecting-loosely-coupled-applications-with-sns-and-sqs?u=76281980&t=138)** The application currently handles all of this.
 >
@@ -2441,7 +2422,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (23), database (4), web application (3), aws (3), web (2)
+> **Frameworks & Libraries:** [[E-Commerce]] (1)
 > **Env Vars:** aws (3), sqs (3), sns (3), rds (1)
 > **Definitions:** is an  (2), is a  (2), refers to (1), is called (1)
 > **Analogies:** such as (3), imagine (1)
@@ -2449,8 +2430,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Prerequisites:** configure (1)
 
-#### Host your apps with Elastic Beanstalk
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/host-your-apps-with-elastic-beanstalk?u=76281980)
+#### [Host your apps with Elastic Beanstalk](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/host-your-apps-with-elastic-beanstalk?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2464,7 +2444,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/host-your-apps-with-elastic-beanstalk?u=76281980&t=31)** It handles deployment details like capacity provisioning, load balancing, auto scaling, and health monitoring.
 >
-> **[0:39](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/host-your-apps-with-elastic-beanstalk?u=76281980&t=39)** Elastic Beanstalk supports applications written in .NET, PHP, Python, Ruby, Go, Java and Node.js.
+> **[0:39](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/host-your-apps-with-elastic-beanstalk?u=76281980&t=39)** Elastic Beanstalk supports applications written in .NET, [[PHP]], [[Python (Programming Language)|Python]], Ruby, Go, [[Java]] and [[Node.js]].
 >
 > **[0:50](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/host-your-apps-with-elastic-beanstalk?u=76281980&t=50)** With Elastic Beanstalk, you can create either a web server or a worker environment.
 >
@@ -2482,7 +2462,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/host-your-apps-with-elastic-beanstalk?u=76281980&t=102)** You can configure a worker environment to handle these types of workloads.
 >
-> **[1:47](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/host-your-apps-with-elastic-beanstalk?u=76281980&t=107)** When you create a web server environment, Elastic Beanstalk creates an Elastic Load Balancer, an Auto Scaling group, and one or more EC2 instances.
+> **[1:47](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/host-your-apps-with-elastic-beanstalk?u=76281980&t=107)** When you create a web server environment, Elastic Beanstalk creates an Elastic Load Balancer, an Auto Scaling group, and one or more [[Amazon EC2|EC2]] instances.
 >
 > **[1:57](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/host-your-apps-with-elastic-beanstalk?u=76281980&t=117)** The instances host your application.
 >
@@ -2552,7 +2532,7 @@ created: 2026-05-02
 >
 > **[5:10](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/host-your-apps-with-elastic-beanstalk?u=76281980&t=310)** Once you're here at the IAM Console, click "Policies" on the left navigation pane and then click "Create policy."
 >
-> **[5:20](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/host-your-apps-with-elastic-beanstalk?u=76281980&t=320)** Switch to JSON mode, delete the default policy and paste the policy you copied earlier.
+> **[5:20](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/host-your-apps-with-elastic-beanstalk?u=76281980&t=320)** Switch to [[JSON]] mode, delete the default policy and paste the policy you copied earlier.
 >
 > **[5:28](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/host-your-apps-with-elastic-beanstalk?u=76281980&t=328)** Scroll down and go to the next step and give the policy a name.
 >
@@ -2596,7 +2576,7 @@ created: 2026-05-02
 >
 > **[7:15](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/host-your-apps-with-elastic-beanstalk?u=76281980&t=435)** You can reduce it to one minute.
 >
-> **[7:18](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/host-your-apps-with-elastic-beanstalk?u=76281980&t=438)** Next, we have the instance metadata service configuration.
+> **[7:18](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/host-your-apps-with-elastic-beanstalk?u=76281980&t=438)** Next, we have the instance [[Metadata]] service configuration.
 >
 > **[7:22](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/host-your-apps-with-elastic-beanstalk?u=76281980&t=442)** Instance metadata service allows you to query metadata about the instance such as the region, IP address, AMI ID, and more.
 >
@@ -2642,7 +2622,7 @@ created: 2026-05-02
 >
 > **[9:10](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/host-your-apps-with-elastic-beanstalk?u=76281980&t=550)** Back over here, when your developers want to deploy another version of the application, they can simply upload the code and Elastic Beanstalk will configure the environment as required to support the application.
 >
-> **[9:23](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/host-your-apps-with-elastic-beanstalk?u=76281980&t=563)** As you can see, Elastic Beanstalk allows your developers to focus on application development rather than infrastructure management.
+> **[9:23](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/host-your-apps-with-elastic-beanstalk?u=76281980&t=563)** As you can see, Elastic Beanstalk allows your developers to focus on [[Application Development]] rather than infrastructure management.
 >
 > **[9:30](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/host-your-apps-with-elastic-beanstalk?u=76281980&t=570)** But you're not stuck with defaults or a one-size-fits-all configuration.
 >
@@ -2650,7 +2630,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (27), next (10), [[Amazon EC2|Ec2]] (9), web (6), aws (5)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (9), [[Metadata]] (3), [[Python (Programming Language)|Python]] (2), [[PHP]] (1), [[Java]] (1)
 > **Env Vars:** ec2 (9), aws (5), url (3), iam (3), net (1)
 > **UI Navigation:** scroll down (5), select the (4), go to (3), dropdown (2), switch to (1)
 > **CLI Commands:** aws (5), python (2), make (1), php (1), ruby (1)
@@ -2659,8 +2639,7 @@ created: 2026-05-02
 > **Definitions:** is a  (3), known as (1)
 > **Analogies:** for example (2), such as (1)
 
-#### AWS Fargate
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/aws-fargate?u=76281980)
+#### [AWS Fargate](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/aws-fargate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2682,11 +2661,11 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/aws-fargate?u=76281980&t=51)** When architecting your application for ECS, you must select the launch type, that is the underlying infrastructure supporting your containers in the cloud.
 >
-> **[1:00](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/aws-fargate?u=76281980&t=60)** You have two choices: You can use Amazon EC2 instances or AWS Fargate.
+> **[1:00](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/aws-fargate?u=76281980&t=60)** You have two choices: You can use [[Amazon EC2]] instances or AWS Fargate.
 >
-> **[1:06](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/aws-fargate?u=76281980&t=66)** When you choose EC2 as the launch type, Elastic Container Service will launch EC2 instances to run containers on them.
+> **[1:06](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/aws-fargate?u=76281980&t=66)** When you choose [[Amazon EC2|EC2]] as the launch type, Elastic Container Service will launch EC2 instances to run containers on them.
 >
-> **[1:14](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/aws-fargate?u=76281980&t=74)** You define the configuration of the EC2 instances, such as the purchasing option, which can be on-demand or spot instances, the operating system which can be Windows or Linux, the instance type, also known as the instance size and the auto scaling configuration.
+> **[1:14](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/aws-fargate?u=76281980&t=74)** You define the configuration of the EC2 instances, such as the purchasing option, which can be on-demand or spot instances, the operating system which can be [[Windows]] or [[Linux]], the instance type, also known as the instance size and the auto scaling configuration.
 >
 > **[1:31](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/aws-fargate?u=76281980&t=91)** Auto Scaling is used to automatically add or remove EC2 instances based on the capacity requirement.
 >
@@ -2724,7 +2703,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (12), application (6), management (5), cloud (3), aws (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (12), [[Amazon EC2]] (1), [[Windows]] (1), [[Linux]] (1)
 > **Env Vars:** ec2 (13), ecs (9), aws (2), cpu (1), ess (1)
 > **CLI Commands:** aws (2), make (1)
 > **Definitions:** is a  (2), known as (1)
@@ -2733,8 +2712,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Prerequisites:** configure (1)
 
-#### Use cloud-native storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/use-cloud-native-storage?u=76281980)
+#### [Use cloud-native storage](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/use-cloud-native-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2742,13 +2720,13 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/use-cloud-native-storage?u=76281980&t=7)** Cloud-native storage refers to storage offered by the cloud provider.
 >
-> **[0:11](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/use-cloud-native-storage?u=76281980&t=11)** Data stored in cloud storage is highly available and durable.
+> **[0:11](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/use-cloud-native-storage?u=76281980&t=11)** Data stored in [[Cloud Storage]] is highly available and durable.
 >
 > **[0:15](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/use-cloud-native-storage?u=76281980&t=15)** AWS has several storage services, including Amazon S3, Amazon Elastic Block Store, Amazon Elastic File System, Amazon FSX, and AWS Storage Gateway.
 >
 > **[0:27](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/use-cloud-native-storage?u=76281980&t=27)** Amazon S3 or Simple Storage Service, is an object storage service.
 >
-> **[0:32](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/use-cloud-native-storage?u=76281980&t=32)** You can use it to store any amount of data for use cases like web applications, data lakes, backup and restore, archive, and more.
+> **[0:32](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/use-cloud-native-storage?u=76281980&t=32)** You can use it to store any amount of data for use cases like web applications, [[Data Lakes]], backup and restore, archive, and more.
 >
 > **[0:42](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/use-cloud-native-storage?u=76281980&t=42)** S3 has storage classes for different use cases, like storing frequently or infrequently accessed data, data with unknown access patterns, and data archival.
 >
@@ -2770,7 +2748,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/use-cloud-native-storage?u=76281980&t=108)** Most S3 storage classes are designed for at least 99.9% availability, making it a preferred choice for object storage.
 >
-> **[1:56](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/use-cloud-native-storage?u=76281980&t=116)** Amazon EBS or Elastic Block Store provides block level storage volumes for EC2 instances.
+> **[1:56](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/use-cloud-native-storage?u=76281980&t=116)** Amazon EBS or Elastic Block Store provides block level storage volumes for [[Amazon EC2|EC2]] instances.
 >
 > **[2:03](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/use-cloud-native-storage?u=76281980&t=123)** You can mount these volumes on your instances.
 >
@@ -2778,7 +2756,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/use-cloud-native-storage?u=76281980&t=128)** General Purpose SSD, which provides a balance of price and performance.
 >
-> **[2:14](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/use-cloud-native-storage?u=76281980&t=134)** It is ideal for use as boot volumes, single instance databases, and dev and test environments.
+> **[2:14](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/use-cloud-native-storage?u=76281980&t=134)** It is ideal for use as boot volumes, single instance [[Databases]], and dev and test environments.
 >
 > **[2:21](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/use-cloud-native-storage?u=76281980&t=141)** The next option is Provisioned IOPS SSD, which is designed for I/O intensive workloads like mission critical databases.
 >
@@ -2794,15 +2772,15 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/use-cloud-native-storage?u=76281980&t=182)** EFS supports Network File System or NFS Version 2, which is an industry standard protocol for accessing file systems.
 >
-> **[3:11](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/use-cloud-native-storage?u=76281980&t=191)** NFS is commonly used in Unix and Linux environments.
+> **[3:11](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/use-cloud-native-storage?u=76281980&t=191)** NFS is commonly used in Unix and [[Linux]] environments.
 >
-> **[3:15](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/use-cloud-native-storage?u=76281980&t=195)** For use with Windows environments, AWS has Amazon FSX.
+> **[3:15](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/use-cloud-native-storage?u=76281980&t=195)** For use with [[Windows]] environments, AWS has Amazon FSX.
 >
 > **[3:20](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/use-cloud-native-storage?u=76281980&t=200)** It supports Server Message Block or SMB, which is a Windows-based protocol.
 >
 > **[3:25](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/use-cloud-native-storage?u=76281980&t=205)** Amazon FSX also supports high performance file systems such as Lustre, NetApp ONTAP, and OpenZFS.
 >
-> **[3:33](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/use-cloud-native-storage?u=76281980&t=213)** In addition to these storage options, AWS also has hybrid cloud storage known as Storage Gateway for use with your on-premises systems.
+> **[3:33](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/use-cloud-native-storage?u=76281980&t=213)** In addition to these storage options, AWS also has [[Hybrid Cloud]] storage known as Storage Gateway for use with your on-premises systems.
 >
 > **[3:42](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/use-cloud-native-storage?u=76281980&t=222)** Your on-premises systems can use this storage as if it were locally hosted.
 >
@@ -2838,7 +2816,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), cloud (9), aws (4), [[Amazon EC2|Ec2]] (3), [[Windows]] (3)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3), [[Windows]] (3), [[Cloud Storage]] (2), [[Databases]] (2), [[Data Lakes]] (1)
 > **Env Vars:** fsx (6), aws (4), ec2 (3), nfs (3), ebs (2)
 > **Definitions:** is an  (2), is a  (2), known as (2), refers to (1)
 > **Prerequisites:** configure (5), set up (2)
@@ -2847,12 +2825,11 @@ created: 2026-05-02
 > **Versions:** 99.9 (1), version 2 (1)
 > **Code Identifiers:** iscsi (1)
 
-#### Securing databases against failures
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/securing-databases-against-failures?u=76281980)
+#### [Securing databases against failures](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/securing-databases-against-failures?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/securing-databases-against-failures?u=76281980&t=0)** Databases are key to almost every solution.
+> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/securing-databases-against-failures?u=76281980&t=0)** [[Databases]] are key to almost every solution.
 >
 > **[0:03](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/securing-databases-against-failures?u=76281980&t=3)** AWS has many database offerings, but the most important and commonly used ones include Amazon RDS or Relational Database Service, Amazon Aurora, which is also a relational database and available as part of RDS, and Amazon DynamoDB, which is a non-relational database.
 >
@@ -2864,11 +2841,11 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/securing-databases-against-failures?u=76281980&t=38)** A read replica is a read-only copy of a database instance.
 >
-> **[0:42](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/securing-databases-against-failures?u=76281980&t=42)** You can reduce the load on your primary instance by routing read request to the read replica.
+> **[0:42](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/securing-databases-against-failures?u=76281980&t=42)** You can reduce the load on your primary instance by [[Routing]] read request to the read replica.
 >
 > **[0:48](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/securing-databases-against-failures?u=76281980&t=48)** Also, in case of failure, you can promote the read replica to become the primary instance.
 >
-> **[0:54](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/securing-databases-against-failures?u=76281980&t=54)** This feature can be useful for read-heavy applications, such as news portals that host articles and blog posts and e-commerce applications where users access product details.
+> **[0:54](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/securing-databases-against-failures?u=76281980&t=54)** This feature can be useful for read-heavy applications, such as news portals that host articles and blog posts and [[E-Commerce]] applications where users access product details.
 >
 > **[1:05](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/securing-databases-against-failures?u=76281980&t=65)** Amazon Aurora has a similar feature known as Aurora.
 >
@@ -2974,7 +2951,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (23), aws (10), [[Databases]] (7), feature (7), data (3)
+> **Frameworks & Libraries:** [[Databases]] (7), [[Routing]] (1), [[E-Commerce]] (1)
 > **Env Vars:** rds (11), aws (10), cpu (1)
 > **CLI Commands:** aws (10), az (5), make (3)
 > **Definitions:** is a  (7), means that (3), known as (2)
@@ -2983,14 +2960,13 @@ created: 2026-05-02
 > **UI Navigation:** switch to (1)
 > **Prerequisites:** set up (1)
 
-#### Backing up
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/backing-up?u=76281980)
+#### [Backing up](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/backing-up?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/backing-up?u=76281980&t=0)** While it is important to architect your systems for high availability, failures can occur, and backups allow you to recover from failures.
 >
-> **[0:09](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/backing-up?u=76281980&t=9)** Many services in AWS, including databases, have their own backup configuration.
+> **[0:09](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/backing-up?u=76281980&t=9)** Many services in AWS, including [[Databases]], have their own backup configuration.
 >
 > **[0:14](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/backing-up?u=76281980&t=14)** Alternatively, you can use AWS backup.
 >
@@ -3002,7 +2978,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/backing-up?u=76281980&t=40)** In other words, backups you take outside of the AWS Backup Service Console cannot be managed from the service.
 >
-> **[0:47](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/backing-up?u=76281980&t=47)** Important AWS services that you can backup with AWS backup include Amazon EC2, Amazon S3, Amazon Elastic Block Store, or EBS, Amazon Relational Database Service or RDS, Amazon DynamoDB, and more.
+> **[0:47](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/backing-up?u=76281980&t=47)** Important AWS services that you can backup with AWS backup include [[Amazon EC2]], Amazon S3, Amazon Elastic Block Store, or EBS, Amazon Relational Database Service or RDS, Amazon DynamoDB, and more.
 >
 > **[1:05](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/backing-up?u=76281980&t=65)** You will find the full list in the documentation.
 >
@@ -3048,7 +3024,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/backing-up?u=76281980&t=163)** Go to Backup plans on the left navigation pane and then click "Create backup plan."
 >
-> **[2:49](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/backing-up?u=76281980&t=169)** You can use a template, build a plan from scratch, or define a plan in JSON format.
+> **[2:49](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/backing-up?u=76281980&t=169)** You can use a template, build a plan from scratch, or define a plan in [[JSON]] format.
 >
 > **[2:56](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/backing-up?u=76281980&t=176)** Let's build a new plan.
 >
@@ -3096,7 +3072,7 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/backing-up?u=76281980&t=260)** Because this is a demo environment, I'll set this to one day.
 >
-> **[4:24](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/backing-up?u=76281980&t=264)** Moving on, you have the option to copy your backups to another region then you have some settings for tagging recovery points and for Windows Volume Shadow Copy service.
+> **[4:24](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/backing-up?u=76281980&t=264)** Moving on, you have the option to copy your backups to another region then you have some settings for tagging recovery points and for [[Windows]] Volume Shadow Copy service.
 >
 > **[4:36](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/backing-up?u=76281980&t=276)** We'll leave this at the default and create our plan.
 >
@@ -3162,7 +3138,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (19), next (8), management (2), [[Databases]] (1), [[Amazon EC2]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[Amazon EC2]] (1), [[JSON]] (1), [[Windows]] (1)
 > **Env Vars:** aws (19), ebs (3), iam (3), ec2 (1), rds (1)
 > **CLI Commands:** aws (19), find (4)
 > **UI Navigation:** go to (4), select the (2), dropdown (1)
@@ -3176,8 +3152,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why should you automate?
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/why-should-you-automate?u=76281980)
+#### [Why should you automate?](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/why-should-you-automate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3187,11 +3162,11 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/why-should-you-automate?u=76281980&t=8)** Let's begin by exploring the challenges with manual processes.
 >
-> **[0:12](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/why-should-you-automate?u=76281980&t=12)** Manual processes are prone to errors, they lack scalability, and can lead to cost inefficiencies.
+> **[0:12](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/why-should-you-automate?u=76281980&t=12)** Manual processes are prone to errors, they lack [[Scalability]], and can lead to cost inefficiencies.
 >
-> **[0:19](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/why-should-you-automate?u=76281980&t=19)** With automation, you can react to changes automatically, adapting to changing demands.
+> **[0:19](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/why-should-you-automate?u=76281980&t=19)** With automation, you can [[React.js|react]] to changes automatically, adapting to changing demands.
 >
-> **[0:25](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/why-should-you-automate?u=76281980&t=25)** For example, you can use Amazon EventBridge to monitor events of interest like the termination of an EC2 instance and react to it by sending a notification to the asset owner or launching a replacement instance.
+> **[0:25](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/why-should-you-automate?u=76281980&t=25)** For example, you can use Amazon EventBridge to monitor events of interest like the termination of an [[Amazon EC2|EC2]] instance and react to it by sending a notification to the asset owner or launching a replacement instance.
 >
 > **[0:39](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/why-should-you-automate?u=76281980&t=39)** You can automate common IT tasks like server provisioning and configuration.
 >
@@ -3199,7 +3174,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/why-should-you-automate?u=76281980&t=52)** Automation also ensures consistent deployment patterns and configuration, reducing the likelihood of deployment failures.
 >
-> **[1:00](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/why-should-you-automate?u=76281980&t=60)** AWS CloudFormation is a service that allows you to deploy infrastructure as code, resulting in consistent deployment each time.
+> **[1:00](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/why-should-you-automate?u=76281980&t=60)** AWS CloudFormation is a service that allows you to deploy [[Infrastructure as code (IaC)|infrastructure as code]], resulting in consistent deployment each time.
 >
 > **[1:08](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/why-should-you-automate?u=76281980&t=68)** With automation, you can improve your security posture by monitoring your resources or configuration and having automated remediation workflows like patching.
 >
@@ -3221,7 +3196,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/why-should-you-automate?u=76281980&t=138)** For example, you can use Elastic Load Balancing to automate high availability configuration.
 >
-> **[2:24](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/why-should-you-automate?u=76281980&t=144)** You can use Amazon Route 53, a DNS management solution, to configure DNS failover for redundancy purposes.
+> **[2:24](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/why-should-you-automate?u=76281980&t=144)** You can use Amazon Route 53, a [[DNS Management]] solution, to configure DNS failover for redundancy purposes.
 >
 > **[2:32](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/why-should-you-automate?u=76281980&t=152)** Finally, automation can reduce time to resolution for common issues.
 >
@@ -3233,15 +3208,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (10), aws (8), [[React.js|React]] (2), [[Amazon EC2|Ec2]] (2), management (2)
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[Amazon EC2|Ec2]] (2), [[Scalability]] (1), [[Infrastructure as code (IaC)|Infrastructure as code]] (1), [[DNS Management]] (1)
 > **Env Vars:** aws (8), ec2 (2), dns (2)
 > **CLI Commands:** aws (8)
 > **Analogies:** for example (6), such as (1)
 > **Prerequisites:** required to (1), configure (1)
 > **Definitions:** is a  (1)
 
-#### CloudFormation
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/cloudformation?u=76281980)
+#### [CloudFormation](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/cloudformation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3257,7 +3231,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/cloudformation?u=76281980&t=28)** Let's say you're creating a web application and want to test different scenarios.
 >
-> **[0:33](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/cloudformation?u=76281980&t=33)** The application uses different resources such as EC2 for compute, MySQL for database, an Application Load Balancer for traffic distribution, VPC for network configuration, and Route 53 for DNS configuration.
+> **[0:33](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/cloudformation?u=76281980&t=33)** The application uses different resources such as [[Amazon EC2|EC2]] for compute, [[MySQL]] for database, an Application Load Balancer for traffic distribution, VPC for network configuration, and Route 53 for DNS configuration.
 >
 > **[0:49](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/cloudformation?u=76281980&t=49)** You need to deploy the application from scratch for each test scenario.
 >
@@ -3271,7 +3245,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/cloudformation?u=76281980&t=81)** With CloudFormation, you can reuse your template to create and configure resources in other regions.
 >
-> **[1:28](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/cloudformation?u=76281980&t=88)** A CloudFormation template is a JSON or YAML-formatted text file.
+> **[1:28](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/cloudformation?u=76281980&t=88)** A CloudFormation template is a [[JSON]] or YAML-formatted text file.
 >
 > **[1:33](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/cloudformation?u=76281980&t=93)** It is the blueprint for creating your resources.
 >
@@ -3307,11 +3281,11 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/cloudformation?u=76281980&t=184)** It allows you to view resources and their relationships graphically.
 >
-> **[3:08](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/cloudformation?u=76281980&t=188)** To provide your own template, you can provide the S3 URL of the template, upload it as a file or sync from your git repository.
+> **[3:08](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/cloudformation?u=76281980&t=188)** To provide your own template, you can provide the S3 URL of the template, upload it as a file or sync from your [[Git]] repository.
 >
 > **[3:17](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/cloudformation?u=76281980&t=197)** For this exercise, let's use a sample template, and here are the samples.
 >
-> **[3:23](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/cloudformation?u=76281980&t=203)** Let's use the simple WordPress blog template.
+> **[3:23](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/cloudformation?u=76281980&t=203)** Let's use the simple [[WordPress]] blog template.
 >
 > **[3:27](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/cloudformation?u=76281980&t=207)** It will install WordPress with a local MySQL database for storage.
 >
@@ -3433,11 +3407,11 @@ created: 2026-05-02
 >
 > **[8:36](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/cloudformation?u=76281980&t=516)** Now, the stack will delete all resources it created and rollback all the configuration.
 >
-> **[8:43](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/cloudformation?u=76281980&t=523)** So as we've just seen, including CloudFormation in your solution architecture can automate your deployments, producing consistent and reliable output each time.
+> **[8:43](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/cloudformation?u=76281980&t=523)** So as we've just seen, including CloudFormation in your [[Solution Architecture]] can automate your deployments, producing consistent and reliable output each time.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (8), [[Amazon EC2|Ec2]] (7), [[WordPress]] (5), application (4), [[Security]] (4)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (7), [[WordPress]] (5), [[MySQL]] (2), [[JSON]] (1), [[Git]] (1)
 > **Exercise Files:** template (31)
 > **Env Vars:** ec2 (7), aws (3), dns (2), url (2), vpc (1)
 > **CLI Commands:** aws (3), mysql (2), find (2), git (1), ssh (1)
@@ -3446,8 +3420,7 @@ created: 2026-05-02
 > **Definitions:** is a  (4), defined as (1)
 > **Prerequisites:** configure (3), install (1)
 
-#### Going serverless with Lambda
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/going-serverless-with-lambda?u=76281980)
+#### [Going serverless with Lambda](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/going-serverless-with-lambda?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3461,7 +3434,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/going-serverless-with-lambda?u=76281980&t=20)** You simply upload your code and Lambda will run it.
 >
-> **[0:23](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/going-serverless-with-lambda?u=76281980&t=23)** For this reason, this approach is commonly known as serverless computing.
+> **[0:23](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/going-serverless-with-lambda?u=76281980&t=23)** For this reason, this approach is commonly known as [[Serverless Computing]].
 >
 > **[0:28](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/going-serverless-with-lambda?u=76281980&t=28)** This approach has several advantages.
 >
@@ -3473,21 +3446,21 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/going-serverless-with-lambda?u=76281980&t=43)** And you can create an event-driven architecture by running code in response to events.
 >
-> **[0:48](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/going-serverless-with-lambda?u=76281980&t=48)** Lambda natively supports code written in these languages; .NET, Node.js, Go, Java, Python, and Ruby.
+> **[0:48](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/going-serverless-with-lambda?u=76281980&t=48)** Lambda natively supports code written in these languages; .NET, [[Node.js]], Go, [[Java]], [[Python (Programming Language)|Python]], and Ruby.
 >
 > **[0:59](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/going-serverless-with-lambda?u=76281980&t=59)** Because Lambda manages the underlying infrastructure that runs your code, it is abstracted from you.
 >
 > **[1:05](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/going-serverless-with-lambda?u=76281980&t=65)** This means you cannot see or access the compute instances that run your code.
 >
-> **[1:09](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/going-serverless-with-lambda?u=76281980&t=69)** You can use Lambda to process files in real-time as they're uploaded to Amazon S3.
+> **[1:09](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/going-serverless-with-lambda?u=76281980&t=69)** You can use Lambda to process files in [[Real-Time]] as they're uploaded to Amazon S3.
 >
-> **[1:15](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/going-serverless-with-lambda?u=76281980&t=75)** You can build a microservices based architecture where monolithic applications are broken into smaller functions managed by Lambda.
+> **[1:15](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/going-serverless-with-lambda?u=76281980&t=75)** You can build a [[Microservices]] based architecture where monolithic applications are broken into smaller functions managed by Lambda.
 >
 > **[1:24](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/going-serverless-with-lambda?u=76281980&t=84)** You can build web and mobile backends by combining it with Amazon API Gateway to process API requests.
 >
 > **[1:31](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/going-serverless-with-lambda?u=76281980&t=91)** You can use Lambda to process real-time streaming data by combining with Amazon Kinesis.
 >
-> **[1:36](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/going-serverless-with-lambda?u=76281980&t=96)** You can build data pipelines for ingesting, processing, and transforming data in real time.
+> **[1:36](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/going-serverless-with-lambda?u=76281980&t=96)** You can build [[Data Pipelines]] for ingesting, processing, and transforming data in real time.
 >
 > **[1:42](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/going-serverless-with-lambda?u=76281980&t=102)** You can also use Lambda to execute scheduled tasks.
 >
@@ -3509,7 +3482,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/going-serverless-with-lambda?u=76281980&t=148)** Here, you have pre-configured code examples provided by AWS.
 >
-> **[2:32](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/going-serverless-with-lambda?u=76281980&t=152)** Let's use this blueprint that retrieves metadata for an S3 object that has been updated.
+> **[2:32](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/going-serverless-with-lambda?u=76281980&t=152)** Let's use this blueprint that retrieves [[Metadata]] for an S3 object that has been updated.
 >
 > **[2:39](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/going-serverless-with-lambda?u=76281980&t=159)** It is written in Python.
 >
@@ -3587,7 +3560,7 @@ created: 2026-05-02
 >
 > **[5:33](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/going-serverless-with-lambda?u=76281980&t=333)** Lambda executed the code we supplied without requiring a server to be provisioned.
 >
-> **[5:40](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/going-serverless-with-lambda?u=76281980&t=340)** As you can imagine, this capability can transform traditional application development approaches and free your developers from having to manage infrastructure.
+> **[5:40](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/going-serverless-with-lambda?u=76281980&t=340)** As you can imagine, this capability can transform traditional [[Application Development]] approaches and free your developers from having to manage infrastructure.
 >
 > **[5:49](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/going-serverless-with-lambda?u=76281980&t=349)** The power of Lambda is further enhanced when it is combined with Amazon EventBridge to create an event-driven architecture.
 >
@@ -3595,7 +3568,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), aws (5), [[Python (Programming Language)|Python]] (2), [[Real-Time]] (2), api (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Real-Time]] (2), [[Serverless Computing]] (1), [[Node.js]] (1), [[Java]] (1)
 > **CLI Commands:** aws (5), find (5), python (2), node (1), ruby (1)
 > **UI Navigation:** go to (4), select the (4), scroll down (2)
 > **Env Vars:** aws (5), api (2), net (1)
@@ -3604,8 +3577,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Exercise Files:** template (1)
 
-#### Event-driven architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/event-driven-architecture?u=76281980)
+#### [Event-driven architecture](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/event-driven-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3621,7 +3593,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/event-driven-architecture?u=76281980&t=31)** In simple words, it routes events from source applications to consumer applications.
 >
-> **[0:36](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/event-driven-architecture?u=76281980&t=36)** For example, you can configure EventBridge to detect EC2 instance termination events.
+> **[0:36](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/event-driven-architecture?u=76281980&t=36)** For example, you can configure EventBridge to detect [[Amazon EC2|EC2]] instance termination events.
 >
 > **[0:42](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/event-driven-architecture?u=76281980&t=42)** Upon detection, EventBridge can notify an SNS topic and trigger a Lambda function to launch a replacement instance.
 >
@@ -3669,7 +3641,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/event-driven-architecture?u=76281980&t=143)** The creation method defines how you will generate the event pattern.
 >
-> **[2:26](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/event-driven-architecture?u=76281980&t=146)** You can use a schema or a template provided by EventBridge or write a custom pattern in JSON.
+> **[2:26](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/event-driven-architecture?u=76281980&t=146)** You can use a schema or a template provided by EventBridge or write a custom pattern in [[JSON]].
 >
 > **[2:33](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/event-driven-architecture?u=76281980&t=153)** We'll use a template. Under the "Event Pattern" section, we'll use AWS services as the event source.
 >
@@ -3795,7 +3767,7 @@ created: 2026-05-02
 >
 > **[8:17](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/event-driven-architecture?u=76281980&t=497)** Similarly, we can create another rule to invoke the stop EC2 instance action.
 >
-> **[8:23](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/event-driven-architecture?u=76281980&t=503)** So as we've just seen, you can use EventBridge to react to events in real time and architect event-driven, loosely coupled solutions.
+> **[8:23](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/event-driven-architecture?u=76281980&t=503)** So as we've just seen, you can use EventBridge to [[React.js|react]] to events in real time and architect event-driven, loosely coupled solutions.
 >
 > **[8:31](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/event-driven-architecture?u=76281980&t=511)** The possibilities are immense.
 >
@@ -3803,7 +3775,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (11), aws (8), [[Amazon EC2|Ec2]] (5), application (2), management (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (5), [[JSON]] (2), [[React.js|React]] (1)
 > **Env Vars:** aws (8), ec2 (5), sns (5), json (2), api (2)
 > **CLI Commands:** aws (8), find (3), make (1)
 > **UI Navigation:** go to (6), select the (2), scroll down (1)
@@ -3812,8 +3784,7 @@ created: 2026-05-02
 > **Exercise Files:** template (3)
 > **Cross-References:** in the next (2)
 
-#### Orchestrating with Step Functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/orchestrating-with-step-functions?u=76281980)
+#### [Orchestrating with Step Functions](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/orchestrating-with-step-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3821,9 +3792,9 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/orchestrating-with-step-functions?u=76281980&t=4)** Orchestration refers to coordinating and managing interconnected tasks to accomplish a specific workflow.
 >
-> **[0:11](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/orchestrating-with-step-functions?u=76281980&t=11)** Consider the example of a data processing pipeline.
+> **[0:11](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/orchestrating-with-step-functions?u=76281980&t=11)** Consider the example of a [[Data Processing]] pipeline.
 >
-> **[0:15](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/orchestrating-with-step-functions?u=76281980&t=15)** It involves multiple steps such as data ingestion, validation, transformation, and storage.
+> **[0:15](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/orchestrating-with-step-functions?u=76281980&t=15)** It involves multiple steps such as [[Data Ingestion]], validation, transformation, and storage.
 >
 > **[0:21](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/orchestrating-with-step-functions?u=76281980&t=21)** Each step requires the use of different AWS services and coordination between them.
 >
@@ -3841,7 +3812,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/orchestrating-with-step-functions?u=76281980&t=64)** It is a serverless orchestration service.
 >
-> **[1:07](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/orchestrating-with-step-functions?u=76281980&t=67)** It allows you to coordinate the components of distributed applications and microservices using visual workflows.
+> **[1:07](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/orchestrating-with-step-functions?u=76281980&t=67)** It allows you to coordinate the components of distributed applications and [[Microservices]] using visual workflows.
 >
 > **[1:15](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/orchestrating-with-step-functions?u=76281980&t=75)** It has a graphical console that allows you to see your applications workflow as a series of event-driven steps.
 >
@@ -3873,7 +3844,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/orchestrating-with-step-functions?u=76281980&t=164)** You will find Step Functions under the "Application Integration" section.
 >
-> **[2:49](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/orchestrating-with-step-functions?u=76281980&t=169)** Let's create a new state machine for an e-commerce workflow.
+> **[2:49](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/orchestrating-with-step-functions?u=76281980&t=169)** Let's create a new state machine for an [[E-Commerce]] workflow.
 >
 > **[2:54](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/orchestrating-with-step-functions?u=76281980&t=174)** The workflow starts when a customer has attempted payment to purchase an item.
 >
@@ -3943,13 +3914,13 @@ created: 2026-05-02
 >
 > **[5:44](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/orchestrating-with-step-functions?u=76281980&t=344)** The goal of this video is to show you what is possible when automating with Step Functions.
 >
-> **[5:50](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/orchestrating-with-step-functions?u=76281980&t=350)** If you'd like to dive into the details and learn about configuration, I recommend checking the course titled AWS for Developers Step Functions, available in the LinkedIn Learning Library.
+> **[5:50](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/orchestrating-with-step-functions?u=76281980&t=350)** If you'd like to dive into the details and learn about configuration, I recommend checking the course titled AWS for Developers Step Functions, available in the [[LinkedIn]] Learning Library.
 >
 > **[6:01](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/orchestrating-with-step-functions?u=76281980&t=361)** So as we've just seen, you can use Step Functions to orchestrate and automate complex workflows such as data processing pipelines, application workflows, and business processes.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), aws (5), parallel (5), [[Orchestration]] (4), next (2)
+> **Frameworks & Libraries:** [[Data Processing]] (1), [[Data Ingestion]] (1), [[Microservices]] (1), [[E-Commerce]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** aws (5), find (3), make (1)
 > **Env Vars:** aws (5), sns (4)
 > **Definitions:** is a  (3), is called (2), refers to (1)
@@ -3958,8 +3929,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (2)
 > **Exercise Files:** template (1)
 
-#### AWS Systems Manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/aws-systems-manager?u=76281980)
+#### [AWS Systems Manager](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/aws-systems-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3969,7 +3939,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/aws-systems-manager?u=76281980&t=13)** It has many features which are broadly classified under application management, change management, node management, and operations management.
 >
-> **[0:22](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/aws-systems-manager?u=76281980&t=22)** Application management helps DevOps engineers investigate and remediate issues with their resources in the context of their applications.
+> **[0:22](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/aws-systems-manager?u=76281980&t=22)** Application management helps [[DevOps]] engineers investigate and remediate issues with their resources in the context of their applications.
 >
 > **[0:31](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/aws-systems-manager?u=76281980&t=31)** Change management allows you to request, approve, implement, and report on operational changes to your application configuration and infrastructure.
 >
@@ -3977,7 +3947,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/aws-systems-manager?u=76281980&t=44)** With node management, you can manage compliance, software inventory, patches, and configuration of your instances.
 >
-> **[0:52](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/aws-systems-manager?u=76281980&t=52)** Operations management allows you to manage incidents and use dashboards to view your resources.
+> **[0:52](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/aws-systems-manager?u=76281980&t=52)** Operations management allows you to manage incidents and use [[Dashboards]] to view your resources.
 >
 > **[0:58](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/aws-systems-manager?u=76281980&t=58)** Systems manager has many capabilities that make it an important tool for managing your assets.
 >
@@ -4099,11 +4069,11 @@ created: 2026-05-02
 >
 > **[6:25](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/aws-systems-manager?u=76281980&t=385)** The wide range of pre-built automation runbooks makes it easy to get started and create workflows tailored to your requirements.
 >
-> **[6:33](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/aws-systems-manager?u=76281980&t=393)** Leveraging this tool in your solution architecture can reduce manual intervention and enhance the efficiency of your environment.
+> **[6:33](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/aws-systems-manager?u=76281980&t=393)** Leveraging this tool in your [[Solution Architecture]] can reduce manual intervention and enhance the efficiency of your environment.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (15), [[Automation]] (15), aws (13), application (4), node (4)
+> **Frameworks & Libraries:** [[DevOps]] (1), [[Dashboards]] (1), [[Solution Architecture]] (1)
 > **CLI Commands:** aws (13), find (6), node (4), make (2)
 > **Env Vars:** aws (13), iam (3), api (3), ebs (1)
 > **Definitions:** is a  (3), known as (2)
@@ -4112,8 +4082,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (2), required to (1)
 > **Cross-References:** we talked about (1)
 
-#### Auto Scaling
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/auto-scaling?u=76281980)
+#### [Auto Scaling](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/auto-scaling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4125,9 +4094,9 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/auto-scaling?u=76281980&t=17)** It automatically scales resources based on your scaling strategy.
 >
-> **[0:21](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/auto-scaling?u=76281980&t=21)** There are two Auto Scaling services available in the AWS Console; Amazon EC2 Auto Scaling and Application Auto Scaling.
+> **[0:21](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/auto-scaling?u=76281980&t=21)** There are two Auto Scaling services available in the AWS Console; [[Amazon EC2]] Auto Scaling and Application Auto Scaling.
 >
-> **[0:30](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/auto-scaling?u=76281980&t=30)** Amazon EC2 Auto Scaling is available within the EC2 service and can be used to scale EC2 instances.
+> **[0:30](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/auto-scaling?u=76281980&t=30)** Amazon EC2 Auto Scaling is available within the [[Amazon EC2|EC2]] service and can be used to scale EC2 instances.
 >
 > **[0:37](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/auto-scaling?u=76281980&t=37)** Application Auto Scaling is a separate service and can be used to scale resources such as Aurora replicas, DynamoDB tables, Amazon Elastic Container Service or ECS services, Spot Fleet requests, and more.
 >
@@ -4259,7 +4228,7 @@ created: 2026-05-02
 >
 > **[7:23](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/auto-scaling?u=76281980&t=443)** Back over here, you also have the option to configure predictive scaling and schedule scaling policies.
 >
-> **[7:31](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/auto-scaling?u=76281980&t=451)** If you'd like to learn more about Amazon EC2 Auto Scaling, I recommend checking the course, AWS Elastic Load Balancing Essentials, which is available in the LinkedIn Learning Library.
+> **[7:31](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/auto-scaling?u=76281980&t=451)** If you'd like to learn more about Amazon EC2 Auto Scaling, I recommend checking the course, AWS Elastic Load Balancing Essentials, which is available in the [[LinkedIn]] Learning Library.
 >
 > **[7:41](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/auto-scaling?u=76281980&t=461)** So that's about Auto Scaling.
 >
@@ -4267,7 +4236,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (8), application (8), [[Amazon EC2]] (5), [[Amazon EC2|Ec2]] (5), next (4)
+> **Frameworks & Libraries:** [[Amazon EC2]] (5), [[Amazon EC2|Ec2]] (5), [[LinkedIn]] (1)
 > **Env Vars:** ec2 (10), aws (8), cpu (8), ecs (1)
 > **CLI Commands:** aws (8), find (5), make (1)
 > **Prerequisites:** configure (9)
@@ -4276,8 +4245,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (3), in the last (1)
 > **Analogies:** such as (2), similar to (1), for example (1)
 
-#### Other automation tools in AWS
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/other-automation-tools-in-aws?u=76281980)
+#### [Other automation tools in AWS](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/other-automation-tools-in-aws?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4321,7 +4289,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (7), [[Automation]] (5), [[Security]] (3), feature (1), application (1)
 > **Env Vars:** aws (7), sqs (2), sns (2)
 > **CLI Commands:** aws (7), make (1)
 > **Definitions:** is a  (4)
@@ -4335,8 +4302,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Designing a strategy for improving performance
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/designing-a-strategy-for-improving-performance?u=76281980)
+#### [Designing a strategy for improving performance](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/designing-a-strategy-for-improving-performance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4352,7 +4318,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/designing-a-strategy-for-improving-performance?u=76281980&t=25)** Embrace innovation.
 >
-> **[0:26](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/designing-a-strategy-for-improving-performance?u=76281980&t=26)** The cloud computing space is rapidly evolving, and cloud computing providers such as AWS continually develop new technologies and tools.
+> **[0:26](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/designing-a-strategy-for-improving-performance?u=76281980&t=26)** The [[Cloud Computing]] space is rapidly evolving, and cloud computing providers such as AWS continually develop new technologies and tools.
 >
 > **[0:35](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/designing-a-strategy-for-improving-performance?u=76281980&t=35)** Embracing the mindset of innovation is key to taking advantage of these technologies.
 >
@@ -4394,9 +4360,9 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/designing-a-strategy-for-improving-performance?u=76281980&t=141)** AWS has many services with overlapping functionalities, so choosing the right service for your workload is essential.
 >
-> **[2:28](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/designing-a-strategy-for-improving-performance?u=76281980&t=148)** Important domains like compute, storage, databases, and compliance have multiple services for different use cases and may have overlapping functionalities.
+> **[2:28](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/designing-a-strategy-for-improving-performance?u=76281980&t=148)** Important domains like compute, storage, [[Databases]], and compliance have multiple services for different use cases and may have overlapping functionalities.
 >
-> **[2:39](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/designing-a-strategy-for-improving-performance?u=76281980&t=159)** For example, you can use an EC2 instance to run code or use Lambda, which is a serverless service.
+> **[2:39](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/designing-a-strategy-for-improving-performance?u=76281980&t=159)** For example, you can use an [[Amazon EC2|EC2]] instance to run code or use Lambda, which is a serverless service.
 >
 > **[2:46](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/designing-a-strategy-for-improving-performance?u=76281980&t=166)** It is important to consider the requirements of your workload like traffic patterns, throughput, and latency requirements.
 >
@@ -4416,19 +4382,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (3), cloud (2), traffic (2), management (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (2), [[Databases]] (1), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** aws (3), rds (1), ec2 (1)
 > **Analogies:** such as (2), for example (2)
 > **CLI Commands:** aws (3)
 > **Definitions:** is a  (2)
 > **UI Navigation:** select the (1)
 
-#### Monitoring with CloudWatch
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/monitoring-with-cloudwatch?u=76281980)
+#### [Monitoring with CloudWatch](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/monitoring-with-cloudwatch?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/monitoring-with-cloudwatch?u=76281980&t=0)** Ensuring optimal performance is key to meeting user expectations and business objectives, and ensuring optimal performance requires continuous monitoring.
+> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/monitoring-with-cloudwatch?u=76281980&t=0)** Ensuring optimal performance is key to meeting user expectations and business objectives, and ensuring optimal performance requires [[Continuous Monitoring]].
 >
 > **[0:09](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/monitoring-with-cloudwatch?u=76281980&t=9)** Amazon CloudWatch allows you to monitor your AWS resources and applications in real time.
 >
@@ -4452,9 +4417,9 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/monitoring-with-cloudwatch?u=76281980&t=63)** You can use an alarm to initiate actions on your behalf automatically.
 >
-> **[1:08](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/monitoring-with-cloudwatch?u=76281980&t=68)** For example, if the average CPU usage is over 70% for five minutes, you can have Auto Scaling add more EC2 instances to maintain desired performance levels.
+> **[1:08](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/monitoring-with-cloudwatch?u=76281980&t=68)** For example, if the average CPU usage is over 70% for five minutes, you can have Auto Scaling add more [[Amazon EC2|EC2]] instances to maintain desired performance levels.
 >
-> **[1:19](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/monitoring-with-cloudwatch?u=76281980&t=79)** CloudWatch also allows you to create dashboards to monitor resources in a single view.
+> **[1:19](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/monitoring-with-cloudwatch?u=76281980&t=79)** CloudWatch also allows you to create [[Dashboards]] to monitor resources in a single view.
 >
 > **[1:24](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/monitoring-with-cloudwatch?u=76281980&t=84)** The resources may be spread across different AWS regions and different AWS accounts.
 >
@@ -4544,15 +4509,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (10), traffic (5), [[Amazon EC2|Ec2]] (4), [[Dashboards]] (4), management (3)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (4), [[Dashboards]] (4), [[Continuous Monitoring]] (1)
 > **Env Vars:** aws (10), cpu (4), ec2 (4), vpc (1)
 > **CLI Commands:** aws (10), find (3)
 > **Analogies:** for example (3), such as (2)
 > **UI Navigation:** go to (1), click on (1), select the (1), scroll down (1)
 > **Cross-References:** in the next (3)
 
-#### Gathering performance insights
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/gathering-performance-insights?u=76281980)
+#### [Gathering performance insights](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/gathering-performance-insights?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4562,7 +4526,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/gathering-performance-insights?u=76281980&t=13)** Once aggregated, you can query them for specific error codes or patterns, filter them based on specific fields, or archive them for future analysis.
 >
-> **[0:23](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/gathering-performance-insights?u=76281980&t=23)** There are two log classes, standard for logs that require real-time monitoring, or that you access frequently, and infrequent access for logs that you access less frequently.
+> **[0:23](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/gathering-performance-insights?u=76281980&t=23)** There are two log classes, standard for logs that require [[Real-Time]] monitoring, or that you access frequently, and infrequent access for logs that you access less frequently.
 >
 > **[0:34](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/gathering-performance-insights?u=76281980&t=34)** When you ingest log events to CloudWatch Logs, they are organized as log streams and log groups.
 >
@@ -4574,7 +4538,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/gathering-performance-insights?u=76281980&t=62)** It uses a purpose built query language.
 >
-> **[1:05](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/gathering-performance-insights?u=76281980&t=65)** It automatically discovers fields in logs from any application that emits log events as JSON.
+> **[1:05](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/gathering-performance-insights?u=76281980&t=65)** It automatically discovers fields in logs from any application that emits log events as [[JSON]].
 >
 > **[1:11](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/gathering-performance-insights?u=76281980&t=71)** We'll see an example when we get to the Management Console.
 >
@@ -4598,7 +4562,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/gathering-performance-insights?u=76281980&t=124)** In a real world scenario, you could install the CloudWatch agent on your server and point it to your application logs to ingest them into CloudWatch logs.
 >
-> **[2:13](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/gathering-performance-insights?u=76281980&t=133)** I do not have a real application with logs, so I'm using a Python code to generate logs.
+> **[2:13](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/gathering-performance-insights?u=76281980&t=133)** I do not have a real application with logs, so I'm using a [[Python (Programming Language)|Python]] code to generate logs.
 >
 > **[2:19](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/gathering-performance-insights?u=76281980&t=139)** Let me show you.
 >
@@ -4692,7 +4656,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (10), data (3), next (3), aws (2), management (2)
+> **Frameworks & Libraries:** [[Real-Time]] (1), [[JSON]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** http (3), aws (2), api (2), json (1), post (1)
 > **CLI Commands:** aws (2), find (1), python (1), make (1)
 > **UI Navigation:** go to (1), navigate to (1), select the (1)
@@ -4701,8 +4665,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **Analogies:** for example (1)
 
-#### Using a content delivery network
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/using-a-content-delivery-network?u=76281980)
+#### [Using a content delivery network](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/using-a-content-delivery-network?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4752,7 +4715,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/using-a-content-delivery-network?u=76281980&t=133)** CloudFront is commonly used for website acceleration.
 >
-> **[2:17](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/using-a-content-delivery-network?u=76281980&t=137)** You can speed up delivery of static content such as images, media files, and software downloads, and dynamic content such as HTML or PHP pages.
+> **[2:17](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/using-a-content-delivery-network?u=76281980&t=137)** You can speed up delivery of static content such as images, media files, and software downloads, and dynamic content such as [[HTML]] or [[PHP]] pages.
 >
 > **[2:26](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/using-a-content-delivery-network?u=76281980&t=146)** CloudFront is also used for global content distribution.
 >
@@ -4806,7 +4769,7 @@ created: 2026-05-02
 >
 > **[4:17](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/using-a-content-delivery-network?u=76281980&t=257)** I have the file uploaded to S3 as we've just seen, which I can access using the object URL.
 >
-> **[4:24](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/using-a-content-delivery-network?u=76281980&t=264)** I've also uploaded the file to an EC2 instance configured as a web server and sitting behind an Application Load Balancer.
+> **[4:24](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/using-a-content-delivery-network?u=76281980&t=264)** I've also uploaded the file to an [[Amazon EC2|EC2]] instance configured as a web server and sitting behind an Application Load Balancer.
 >
 > **[4:32](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/using-a-content-delivery-network?u=76281980&t=272)** And now we have a CloudFront distribution which can also deliver the file.
 >
@@ -4854,11 +4817,11 @@ created: 2026-05-02
 >
 > **[7:01](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/using-a-content-delivery-network?u=76281980&t=421)** And now we can see that the time to start transfer is significantly better.
 >
-> **[7:07](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/using-a-content-delivery-network?u=76281980&t=427)** So as we've just seen, delivering content through CloudFront can significantly reduce latency, improve application performance, and enhance user experience.
+> **[7:07](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/using-a-content-delivery-network?u=76281980&t=427)** So as we've just seen, delivering content through CloudFront can significantly reduce latency, improve application performance, and enhance [[User Experience (UX)|user experience]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (6), web (5), application (4), management (4), [[Amazon EC2|Ec2]] (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2), [[HTML]] (1), [[PHP]] (1), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** url (12), aws (6), http (2), ec2 (2), dns (2)
 > **CLI Commands:** aws (6), curl (2), php (1), find (1)
 > **UI Navigation:** go to (3), select the (1), click on (1)
@@ -4867,8 +4830,7 @@ created: 2026-05-02
 > **Code Identifiers:** curl (2)
 > **Tools:** terminal (2)
 
-#### Caching
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/caching?u=76281980)
+#### [Caching](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/caching?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4876,13 +4838,13 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/caching?u=76281980&t=5)** It is often the most significant factor in creating an application that performs well at scale.
 >
-> **[0:10](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/caching?u=76281980&t=10)** Popular applications like e-commerce, gaming, and social media rely on caching to deliver high performance.
+> **[0:10](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/caching?u=76281980&t=10)** Popular applications like [[E-Commerce]], gaming, and social media rely on caching to deliver high performance.
 >
 > **[0:18](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/caching?u=76281980&t=18)** It involves storing copies of data in a temporary storage location known as a cache, so users can access them quickly.
 >
 > **[0:26](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/caching?u=76281980&t=26)** When data is stored on storage disks, it is slower to retrieve.
 >
-> **[0:30](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/caching?u=76281980&t=30)** With caching, data is stored in fast access hardware such as random-access memory or RAM.
+> **[0:30](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/caching?u=76281980&t=30)** With caching, data is stored in fast access [[Hardware]] such as random-access memory or RAM.
 >
 > **[0:37](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/caching?u=76281980&t=37)** Doing so lets you offload read request from your database to the cache, improving performance.
 >
@@ -4898,7 +4860,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/caching?u=76281980&t=71)** As a managed service, AWS takes care of the details like provisioning the resources, installing the software, detecting failure, and patching.
 >
-> **[1:20](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/caching?u=76281980&t=80)** ElastiCache supports Redis and Memcached; the two popular caching engines. A simple application deployment without caching consists of a front end web and application tier, and a backend database tier.
+> **[1:20](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/caching?u=76281980&t=80)** ElastiCache supports [[Redis]] and Memcached; the two popular caching engines. A simple application deployment without caching consists of a front end web and application tier, and a backend database tier.
 >
 > **[1:34](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/caching?u=76281980&t=94)** When you deploy ElastiCache, it is a separate tier alongside your database.
 >
@@ -4910,9 +4872,9 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/caching?u=76281980&t=121)** You can use it to cache data stored in on-premises file systems, AWS file systems, and Amazon S3 buckets.
 >
-> **[2:10](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/caching?u=76281980&t=130)** It is suitable for file-based applications that quickly process large volumes of data, such as data analysis and simulation workloads.
+> **[2:10](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/caching?u=76281980&t=130)** It is suitable for file-based applications that quickly process large volumes of data, such as data analysis and [[Simulation]] workloads.
 >
-> **[2:19](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/caching?u=76281980&t=139)** If you're using Amazon DynamoDB as your database solution, you can configure DynamoDB accelerator or DAX as the in-memory cache.
+> **[2:19](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/caching?u=76281980&t=139)** If you're using Amazon DynamoDB as your database solution, you can configure DynamoDB accelerator or [[DAX]] as the in-memory cache.
 >
 > **[2:28](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/caching?u=76281980&t=148)** DAX is ideal for applications that require the fastest possible response time for reads, for example, gaming and trading applications.
 >
@@ -4924,31 +4886,30 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/caching?u=76281980&t=178)** And lastly, Amazon CloudFront, a content delivery network, also has caching capabilities.
 >
-> **[3:06](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/caching?u=76281980&t=186)** It caches copies of your content in multiple locations worldwide, reducing response time and load on your servers and improving the end user experience by delivering content from the location closest to the user.
+> **[3:06](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/caching?u=76281980&t=186)** It caches copies of your content in multiple locations worldwide, reducing response time and load on your servers and improving the end [[User Experience (UX)|user experience]] by delivering content from the location closest to the user.
 >
 > **[3:19](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/caching?u=76281980&t=199)** So those are the main caching solutions available in AWS.
 >
 > **[3:23](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/caching?u=76281980&t=203)** The key to successful caching is understanding your applications requirements, access patterns, and data characteristics.
 >
-> **[3:31](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/caching?u=76281980&t=211)** Including caching solutions in your architecture will enhance application performance, scalability, and end user experience.
+> **[3:31](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/caching?u=76281980&t=211)** Including caching solutions in your architecture will enhance application performance, [[Scalability]], and end user experience.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), database (5), aws (5), application (4), [[DAX]] (4)
+> **Frameworks & Libraries:** [[DAX]] (4), [[User Experience (UX)|User experience]] (2), [[E-Commerce]] (1), [[Hardware]] (1), [[Redis]] (1)
 > **Env Vars:** aws (5), dax (4), ram (1)
 > **CLI Commands:** aws (5)
 > **Definitions:** is a  (3), known as (1)
 > **Analogies:** such as (2), for example (1)
 > **Prerequisites:** configure (1)
 
-#### High-performance storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/high-performance-storage?u=76281980)
+#### [High-performance storage](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/high-performance-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/high-performance-storage?u=76281980&t=0)** Now, let's talk about high-performance storage options available with AWS.
 >
-> **[0:04](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/high-performance-storage?u=76281980&t=4)** Amazon Elastic Block Store or EBS, provides block level storage volumes for use with EC2 instances.
+> **[0:04](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/high-performance-storage?u=76281980&t=4)** Amazon Elastic Block Store or EBS, provides block level storage volumes for use with [[Amazon EC2|EC2]] instances.
 >
 > **[0:12](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/high-performance-storage?u=76281980&t=12)** You mount these volumes to your instances and use them like you would use a physical hard drive.
 >
@@ -4966,11 +4927,11 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/high-performance-storage?u=76281980&t=49)** Provisioned IOPS volumes provide sub millisecond latency, storage capacity up to 64 TB bytes, IOPS up to 256,000, and volume throughput up to 4,000 MiB/s.
 >
-> **[1:04](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/high-performance-storage?u=76281980&t=64)** So provision IOPS volumes can be a good fit for high-performance databases, big data, high-performance computing and e-commerce systems.
+> **[1:04](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/high-performance-storage?u=76281980&t=64)** So provision IOPS volumes can be a good fit for high-performance [[Databases]], [[Big Data]], high-performance computing and [[E-Commerce]] systems.
 >
 > **[1:13](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/high-performance-storage?u=76281980&t=73)** Amazon Elastic File System, or EFS, is another high-performance storage.
 >
-> **[1:19](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/high-performance-storage?u=76281980&t=79)** It is a serverless elastic file storage designed for use with Linux-based applications.
+> **[1:19](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/high-performance-storage?u=76281980&t=79)** It is a serverless elastic file storage designed for use with [[Linux]]-based applications.
 >
 > **[1:25](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/high-performance-storage?u=76281980&t=85)** You can use it to provide file storage for EC2 instances and on-premises servers.
 >
@@ -4994,7 +4955,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/high-performance-storage?u=76281980&t=146)** Amazon FSX for Lustre allows you to create a fully managed Lustre file system.
 >
-> **[2:31](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/high-performance-storage?u=76281980&t=151)** Lustre is an open source file system for high-performance workloads like machine learning, high-performance computing, and financial modeling.
+> **[2:31](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/high-performance-storage?u=76281980&t=151)** Lustre is an open source file system for high-performance workloads like machine learning, high-performance computing, and [[Financial Modeling]].
 >
 > **[2:40](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/high-performance-storage?u=76281980&t=160)** Setting up a Lustre file system is a complex operation requiring extensive planning and configuration.
 >
@@ -5002,11 +4963,11 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/high-performance-storage?u=76281980&t=173)** Amazon S3 is an object storage service in AWS.
 >
-> **[2:57](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/high-performance-storage?u=76281980&t=177)** S3 offers a range of storage classes designed for different use cases based on data access, resiliency, and cost requirements.
+> **[2:57](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/high-performance-storage?u=76281980&t=177)** S3 offers a range of storage classes designed for different use cases based on data access, [[Resiliency]], and cost requirements.
 >
 > **[3:06](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/high-performance-storage?u=76281980&t=186)** S3 Express One Zone is a high-performance storage class that delivers single digit millisecond data access.
 >
-> **[3:12](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/high-performance-storage?u=76281980&t=192)** It is suitable for latency sensitive applications such as media content creation, machine learning, and interactive analytics. So those are the high-performance storage options available with AWS.
+> **[3:12](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/high-performance-storage?u=76281980&t=192)** It is suitable for latency sensitive applications such as media [[Content Creation]], machine learning, and interactive analytics. So those are the high-performance storage options available with AWS.
 >
 > **[3:24](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/high-performance-storage?u=76281980&t=204)** As we've just seen, there are several options to meet the demands of modern applications and workloads.
 >
@@ -5016,14 +4977,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (4), [[Amazon EC2|Ec2]] (2), data (2), [[Databases]] (1), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2), [[Databases]] (1), [[Big Data]] (1), [[E-Commerce]] (1), [[Linux]] (1)
 > **Env Vars:** iops (6), aws (4), ssd (4), efs (3), ebs (2)
 > **Definitions:** is a  (5), is an  (2)
 > **CLI Commands:** aws (4)
 > **Prerequisites:** set up (1)
 
-#### Hybrid Storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/hybrid-storage?u=76281980)
+#### [Hybrid Storage](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/hybrid-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5031,7 +4991,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/hybrid-storage?u=76281980&t=9)** It can also be a good option for organizations that cannot move their workloads to the cloud, but want to use cloud technologies.
 >
-> **[0:17](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/hybrid-storage?u=76281980&t=17)** Hybrid cloud storage connects your on-premises applications and systems to cloud storage.
+> **[0:17](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/hybrid-storage?u=76281980&t=17)** [[Hybrid Cloud]] storage connects your on-premises applications and systems to [[Cloud Storage]].
 >
 > **[0:23](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/hybrid-storage?u=76281980&t=23)** In addition to performance benefits, hybrid cloud storage reduces operational burden as the services are fully managed.
 >
@@ -5049,7 +5009,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/hybrid-storage?u=76281980&t=76)** We spoke about these in an earlier video of the course.
 >
-> **[1:19](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/hybrid-storage?u=76281980&t=79)** The File Gateway option allows storing and retrieving objects in Amazon S3 or Amazon FSX for Windows File Server.
+> **[1:19](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/hybrid-storage?u=76281980&t=79)** The File Gateway option allows storing and retrieving objects in Amazon S3 or Amazon FSX for [[Windows]] File Server.
 >
 > **[1:28](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/hybrid-storage?u=76281980&t=88)** The Volume Gateway option provides block storage volumes to your on-premises applications.
 >
@@ -5063,17 +5023,17 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/hybrid-storage?u=76281980&t=112)** Once the data is in S3, you can archive it to S3 Glacier, a low cost storage class.
 >
-> **[2:00](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/hybrid-storage?u=76281980&t=120)** The Storage Gateway appliance is available as a virtual and hardware appliance.
+> **[2:00](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/hybrid-storage?u=76281980&t=120)** The Storage Gateway appliance is available as a virtual and [[Hardware]] appliance.
 >
 > **[2:05](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/hybrid-storage?u=76281980&t=125)** Another related service is AWS DataSync.
 >
 > **[2:09](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/hybrid-storage?u=76281980&t=129)** It is an online data transfer service that moves data between on-premises storage systems and AWS, between AWS storage services and between other cloud storage systems in AWS.
 >
-> **[2:22](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/hybrid-storage?u=76281980&t=142)** For transferring from on-premise systems, DataSync supports Network File System or NFS, Server Message Block or SMB, Hadoop Distributed File Systems, or HDFS, and other object storage.
+> **[2:22](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/hybrid-storage?u=76281980&t=142)** For transferring from on-premise systems, DataSync supports Network File System or NFS, Server Message Block or SMB, [[Hadoop]] Distributed File Systems, or HDFS, and other object storage.
 >
 > **[2:38](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/hybrid-storage?u=76281980&t=158)** For transferring between AWS services, DataSync supports Amazon S3, Amazon Elastic File System, and Amazon FSX.
 >
-> **[2:47](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/hybrid-storage?u=76281980&t=167)** For transferring from other cloud storage systems, DataSync supports popular services like Google Cloud storage, Azure Blob storage, Azure Files, Oracle Cloud Infrastructure Object Storage, and more.
+> **[2:47](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/hybrid-storage?u=76281980&t=167)** For transferring from other cloud storage systems, DataSync supports popular services like [[Google Cloud Platform (GCP)|Google Cloud]] storage, [[Microsoft Azure|Azure]] Blob storage, Azure Files, Oracle [[Cloud Infrastructure]] Object Storage, and more.
 >
 > **[3:01](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/hybrid-storage?u=76281980&t=181)** You can use DataSync to discover data.
 >
@@ -5105,7 +5065,7 @@ created: 2026-05-02
 >
 > **[4:49](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/hybrid-storage?u=76281980&t=289)** In addition to storage, Snowball Edge devices also have onboard computing capabilities.
 >
-> **[4:55](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/hybrid-storage?u=76281980&t=295)** So you can use it to run compute services like EC2 instances in rugged, disconnected, and remote locations.
+> **[4:55](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/hybrid-storage?u=76281980&t=295)** So you can use it to run compute services like [[Amazon EC2|EC2]] instances in rugged, disconnected, and remote locations.
 >
 > **[5:03](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/hybrid-storage?u=76281980&t=303)** Snowball Edge doesn't require Internet connectivity, so data transfer and compute activities can occur in isolated environments.
 >
@@ -5117,21 +5077,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (19), data (14), cloud (9), [[Hybrid Cloud]] (4), [[Microsoft Azure|Azure]] (2)
+> **Frameworks & Libraries:** [[Hybrid Cloud]] (4), [[Cloud Storage]] (3), [[Microsoft Azure|Azure]] (2), [[Windows]] (1), [[Hardware]] (1)
 > **Env Vars:** aws (19), smb (2), nfs (2), fsx (2), hdfs (1)
 > **CLI Commands:** aws (19), make (1)
 > **Analogies:** such as (3)
 > **Definitions:** is an  (1), known as (1)
 > **Code Identifiers:** iscsi (1)
 
-#### Managed databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/managed-databases?u=76281980)
+#### [Managed databases](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/managed-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/managed-databases?u=76281980&t=0)** When you want to run a database on AWS, you have two design choices.
 >
-> **[0:05](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/managed-databases?u=76281980&t=5)** You can install the database on an EC2 instance and self-manage it or use a managed database.
+> **[0:05](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/managed-databases?u=76281980&t=5)** You can install the database on an [[Amazon EC2|EC2]] instance and self-manage it or use a managed database.
 >
 > **[0:12](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/managed-databases?u=76281980&t=12)** A managed database is where AWS manages it and you simply host your data on it.
 >
@@ -5139,25 +5098,25 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/managed-databases?u=76281980&t=21)** It leads to better performance.
 >
-> **[0:23](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/managed-databases?u=76281980&t=23)** Managed databases have configuration options for specific needs like I/O intensive workloads, and they are designed to handle large volumes of data. Managed databases reduce operational burden. AWS handles operational tasks like provisioning, scaling, patching, backups, and failover.
+> **[0:23](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/managed-databases?u=76281980&t=23)** Managed [[Databases]] have configuration options for specific needs like I/O intensive workloads, and they are designed to handle large volumes of data. Managed databases reduce operational burden. AWS handles operational tasks like provisioning, scaling, patching, backups, and failover.
 >
 > **[0:43](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/managed-databases?u=76281980&t=43)** Managed databases are automatically configured for high availability, with options to deploy in multiple locations to further improve availability, performance, and disaster recovery.
 >
-> **[0:54](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/managed-databases?u=76281980&t=54)** Managed databases support automated backups, reducing the administrative burden of managing them. And like most cloud services, managed databases have pay-as-you-go pricing so you only pay for what you use.
+> **[0:54](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/managed-databases?u=76281980&t=54)** Managed databases support automated backups, reducing the administrative burden of managing them. And like most [[Cloud Services]], managed databases have pay-as-you-go pricing so you only pay for what you use.
 >
 > **[1:07](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/managed-databases?u=76281980&t=67)** There are several managed database offerings in AWS.
 >
 > **[1:11](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/managed-databases?u=76281980&t=71)** Here are the important ones.
 >
-> **[1:13](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/managed-databases?u=76281980&t=73)** If you're looking for relational databases, you have Amazon RDS or Relational Database Service and Amazon Aurora.
+> **[1:13](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/managed-databases?u=76281980&t=73)** If you're looking for [[Relational Databases]], you have Amazon RDS or Relational Database Service and Amazon Aurora.
 >
 > **[1:21](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/managed-databases?u=76281980&t=81)** If you're looking for a data warehouse solution, you have Amazon Redshift.
 >
-> **[1:26](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/managed-databases?u=76281980&t=86)** For non-relational or NoSQL workloads, you can use Amazon DynamoDB.
+> **[1:26](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/managed-databases?u=76281980&t=86)** For non-relational or [[NoSQL]] workloads, you can use Amazon DynamoDB.
 >
 > **[1:31](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/managed-databases?u=76281980&t=91)** If you're looking for an in-memory caching service to improve the performance of your applications, consider Amazon ElastiCache.
 >
-> **[1:39](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/managed-databases?u=76281980&t=99)** If you need a MongoDB-compliant document database service, you have Amazon DocumentDB. To work with graph data on AWS, you can use Amazon Neptune.
+> **[1:39](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/managed-databases?u=76281980&t=99)** If you need a [[MongoDB]]-compliant document database service, you have Amazon DocumentDB. To work with graph data on AWS, you can use Amazon Neptune.
 >
 > **[1:50](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/managed-databases?u=76281980&t=110)** Each managed database is optimized for performance.
 >
@@ -5165,11 +5124,11 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/managed-databases?u=76281980&t=118)** However, their performance and operational benefits outweigh this consideration.
 >
-> **[2:03](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/managed-databases?u=76281980&t=123)** Including these in your solution architecture can streamline operational tasks and free up your developers to build better solutions rather than manage infrastructure.
+> **[2:03](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/managed-databases?u=76281980&t=123)** Including these in your [[Solution Architecture]] can streamline operational tasks and free up your developers to build better solutions rather than manage infrastructure.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), [[Databases]] (6), aws (5), data (4), [[Amazon EC2|Ec2]] (1)
+> **Frameworks & Libraries:** [[Databases]] (6), [[Amazon EC2|Ec2]] (1), [[Cloud Services]] (1), [[Relational Databases]] (1), [[NoSQL]] (1)
 > **Env Vars:** aws (5), ec2 (1), rds (1)
 > **CLI Commands:** aws (5)
 > **Definitions:** is a  (1)
@@ -5180,8 +5139,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Strategies for optimizing costs
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/strategies-for-optimizing-costs?u=76281980)
+#### [Strategies for optimizing costs](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/strategies-for-optimizing-costs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5201,7 +5159,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/strategies-for-optimizing-costs?u=76281980&t=34)** But within this pricing model, services have configurations that can optimize your overall costs.
 >
-> **[0:40](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/strategies-for-optimizing-costs?u=76281980&t=40)** For example, with EC2 instances, you can opt for on-demand instances or use savings plans which give you a billing discount.
+> **[0:40](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/strategies-for-optimizing-costs?u=76281980&t=40)** For example, with [[Amazon EC2|EC2]] instances, you can opt for on-demand instances or use savings plans which give you a billing discount.
 >
 > **[0:49](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/strategies-for-optimizing-costs?u=76281980&t=49)** Similarly, with Amazon S3, your pricing depends on the amount of data you store and the storage class you choose.
 >
@@ -5219,7 +5177,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/strategies-for-optimizing-costs?u=76281980&t=92)** Use Auto Scaling.
 >
-> **[1:34](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/strategies-for-optimizing-costs?u=76281980&t=94)** Many AWS services, such as compute and databases, have Auto Scaling options.
+> **[1:34](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/strategies-for-optimizing-costs?u=76281980&t=94)** Many AWS services, such as compute and [[Databases]], have Auto Scaling options.
 >
 > **[1:39](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/strategies-for-optimizing-costs?u=76281980&t=99)** This means scaling up when demand is high and scaling down when demand is low.
 >
@@ -5229,7 +5187,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/strategies-for-optimizing-costs?u=76281980&t=119)** These can quickly add up and significantly impact your budget.
 >
-> **[2:04](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/strategies-for-optimizing-costs?u=76281980&t=124)** To optimize data transfer costs, you can avoid routing traffic over the Internet when connecting to AWS services from within AWS.
+> **[2:04](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/strategies-for-optimizing-costs?u=76281980&t=124)** To optimize data transfer costs, you can avoid [[Routing]] traffic over the Internet when connecting to AWS services from within AWS.
 >
 > **[2:13](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/strategies-for-optimizing-costs?u=76281980&t=133)** You can do this using VPC endpoints for supported services.
 >
@@ -5271,20 +5229,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (8), data (6), cloud (2), traffic (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (1), [[Databases]] (1), [[Routing]] (1)
 > **Env Vars:** aws (8), ec2 (1), vpc (1), iam (1)
 > **CLI Commands:** aws (8), find (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1), such as (1)
 
-#### Reducing compute costs
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/reducing-compute-costs?u=76281980)
+#### [Reducing compute costs](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/reducing-compute-costs?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/reducing-compute-costs?u=76281980&t=0)** Compute is usually the most significant spend in the cloud.
 >
-> **[0:04](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/reducing-compute-costs?u=76281980&t=4)** AWS has different compute services, including Amazon EC2, AWS Lambda, Amazon Elastic Container Service or ECS, Elastic Beanstalk, and more.
+> **[0:04](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/reducing-compute-costs?u=76281980&t=4)** AWS has different compute services, including [[Amazon EC2]], AWS Lambda, Amazon Elastic Container Service or ECS, Elastic Beanstalk, and more.
 >
 > **[0:16](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/reducing-compute-costs?u=76281980&t=16)** The first step in cost optimization is understanding these services and their use cases.
 >
@@ -5292,7 +5249,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/reducing-compute-costs?u=76281980&t=27)** Consider the following strategies to reduce your compute costs.
 >
-> **[0:31](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/reducing-compute-costs?u=76281980&t=31)** Right-size EC2 instances.
+> **[0:31](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/reducing-compute-costs?u=76281980&t=31)** Right-size [[Amazon EC2|EC2]] instances.
 >
 > **[0:35](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/reducing-compute-costs?u=76281980&t=35)** AWS has many EC2 instance families like general purpose, compute optimized, memory optimized, storage optimized, and more.
 >
@@ -5300,9 +5257,9 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/reducing-compute-costs?u=76281980&t=48)** Each instance type and family is optimized for specific use cases.
 >
-> **[0:52](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/reducing-compute-costs?u=76281980&t=52)** For example, the T3 instance type, part of the general purpose family, is ideal for web servers, small databases, and development environments.
+> **[0:52](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/reducing-compute-costs?u=76281980&t=52)** For example, the T3 instance type, part of the general purpose family, is ideal for [[Web Servers]], small [[Databases]], and development environments.
 >
-> **[1:02](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/reducing-compute-costs?u=76281980&t=62)** Meanwhile, the C5 instance type, part of the compute optimized family, is ideal for use cases such as batch processing, scientific modeling, and other high-performance computing.
+> **[1:02](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/reducing-compute-costs?u=76281980&t=62)** Meanwhile, the C5 instance type, part of the compute optimized family, is ideal for use cases such as [[Batch Processing]], scientific modeling, and other high-performance computing.
 >
 > **[1:14](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/reducing-compute-costs?u=76281980&t=74)** Use the AWS documentation to understand which instance type may be appropriate for your use case.
 >
@@ -5372,15 +5329,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (10), [[Amazon EC2|Ec2]] (6), web (2), cloud (1), [[Amazon EC2]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (6), [[Amazon EC2]] (1), [[Web Servers]] (1), [[Databases]] (1), [[Batch Processing]] (1)
 > **Env Vars:** aws (10), ec2 (7), ecs (2)
 > **CLI Commands:** aws (10)
 > **Analogies:** such as (2), for example (1), imagine (1)
 > **Warnings:** caveat (1), warning (1)
 > **Prerequisites:** required to (1)
 
-#### Reducing storage costs
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/reducing-storage-costs?u=76281980)
+#### [Reducing storage costs](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/reducing-storage-costs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5434,13 +5390,13 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/reducing-storage-costs?u=76281980&t=172)** However, you are still charged for the provision configuration, 1 TB storage and 10,000 IOPS.
 >
-> **[2:58](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/reducing-storage-costs?u=76281980&t=178)** Regular audits and continuous monitoring can help identify overprovision volumes.
+> **[2:58](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/reducing-storage-costs?u=76281980&t=178)** Regular audits and [[Continuous Monitoring]] can help identify overprovision volumes.
 >
 > **[3:04](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/reducing-storage-costs?u=76281980&t=184)** Consider resizing them.
 >
 > **[3:06](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/reducing-storage-costs?u=76281980&t=186)** Another common reason for unnecessary costs with EBS is orphaned volumes.
 >
-> **[3:12](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/reducing-storage-costs?u=76281980&t=192)** These are volumes no longer attached to an EC2 instance.
+> **[3:12](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/reducing-storage-costs?u=76281980&t=192)** These are volumes no longer attached to an [[Amazon EC2|EC2]] instance.
 >
 > **[3:16](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/reducing-storage-costs?u=76281980&t=196)** Consider deleting them.
 >
@@ -5450,13 +5406,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), cloud (1), aws (1), web application (1), [[Continuous Monitoring]] (1)
+> **Frameworks & Libraries:** [[Continuous Monitoring]] (1), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** ebs (5), iops (5), efs (4), aws (1), fsx (1)
 > **CLI Commands:** aws (1), find (1)
 > **Analogies:** such as (1)
 
-#### Tools to track cost and usage
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/tools-to-track-cost-and-usage?u=76281980)
+#### [Tools to track cost and usage](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/tools-to-track-cost-and-usage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5494,7 +5449,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/tools-to-track-cost-and-usage?u=76281980&t=92)** Here, I'm logged in as the root user of this account.
 >
-> **[1:35](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/tools-to-track-cost-and-usage?u=76281980&t=95)** Once you're here, click your name on the top right corner and then navigate to Billing and Cost Management.
+> **[1:35](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/tools-to-track-cost-and-usage?u=76281980&t=95)** Once you're here, click your name on the top right corner and then navigate to Billing and [[Cost Management]].
 >
 > **[1:42](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/tools-to-track-cost-and-usage?u=76281980&t=102)** From here, click "Pricing calculator" on the left navigation pane.
 >
@@ -5508,7 +5463,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/tools-to-track-cost-and-usage?u=76281980&t=125)** Now, add the details to generate your estimated usage.
 >
-> **[2:09](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/tools-to-track-cost-and-usage?u=76281980&t=129)** For example, with the EC2 service, you can add details like the tenancy, the operating system, the number of instances, instance type, payment options, volumes, and other information.
+> **[2:09](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/tools-to-track-cost-and-usage?u=76281980&t=129)** For example, with the [[Amazon EC2|EC2]] service, you can add details like the tenancy, the operating system, the number of instances, instance type, payment options, volumes, and other information.
 >
 > **[2:25](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/tools-to-track-cost-and-usage?u=76281980&t=145)** Once saved, you will see the estimated monthly cost.
 >
@@ -5580,7 +5535,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (18), data (4), [[Cost Management]] (4), management (2), next (1)
+> **Frameworks & Libraries:** [[Cost Management]] (4), [[Amazon EC2|Ec2]] (1)
 > **CLI Commands:** aws (18), find (3), make (1)
 > **Env Vars:** aws (18), csv (1), ec2 (1)
 > **UI Navigation:** go to (1), navigate to (1), open the (1), scroll down (1)
@@ -5593,8 +5548,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Additional resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/additional-resources?u=76281980)
+#### [Additional resources](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/additional-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5612,12 +5566,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (5), cloud (1)
 > **CLI Commands:** aws (5)
 > **Env Vars:** aws (5)
 
-#### Conclusion
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/conclusion?u=76281980)
+#### [Conclusion](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/conclusion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5627,7 +5579,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/conclusion?u=76281980&t=9)** I hope you've appreciated the strategies and services you can deploy to architect high-performing solutions.
 >
-> **[0:16](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/conclusion?u=76281980&t=16)** Cloud computing is a constantly evolving technology, and AWS keeps updating its toolset by adding more services and enhancing existing ones.
+> **[0:16](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/conclusion?u=76281980&t=16)** [[Cloud Computing]] is a constantly evolving technology, and AWS keeps updating its toolset by adding more services and enhancing existing ones.
 >
 > **[0:26](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/conclusion?u=76281980&t=26)** I recommend regularly checking the AWS documentation for the latest updates and service offerings.
 >
@@ -5635,7 +5587,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (5), cloud (1), next (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (1)
 > **CLI Commands:** aws (5)
 > **Env Vars:** aws (5)
 > **Definitions:** is a  (1)

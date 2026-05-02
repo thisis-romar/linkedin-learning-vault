@@ -89,12 +89,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defending the network
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/defending-the-network-hiya?u=76281980)
+#### [Defending the network](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/defending-the-network-hiya?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/defending-the-network-hiya?u=76281980&t=0)** - [Instructor] Cybersecurity specialists are one of the most in-demand jobs today.
+> **[0:00](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/defending-the-network-hiya?u=76281980&t=0)** - [Instructor] [[Cybersecurity]] specialists are one of the most in-demand jobs today.
 >
 > **[0:05](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/defending-the-network-hiya?u=76281980&t=5)** Organizations need employees with specialized security knowledge.
 >
@@ -104,25 +103,24 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/defending-the-network-hiya?u=76281980&t=36)** Hello. My name is Lisa Bock and I'm a security ambassador.
 >
-> **[0:41](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/defending-the-network-hiya?u=76281980&t=41)** I am super excited to bring you this series on CCNA network security and this section on security concepts so that you can improve your skills in configuration and maintenance of Cisco devices to maintain the confidentiality, integrity, and availability of an organization's infrastructure.
+> **[0:41](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/defending-the-network-hiya?u=76281980&t=41)** I am super excited to bring you this series on CCNA [[Network Security]] and this section on security concepts so that you can improve your skills in configuration and maintenance of Cisco devices to maintain the confidentiality, integrity, and availability of an organization's infrastructure.
 >
 > **[1:02](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/defending-the-network-hiya?u=76281980&t=62)** Are you ready? Let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), [[Cybersecurity]] (1), [[Engineering]] (1), [[Network Security]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1), [[Network Security]] (1)
 > **Analogies:** such as (4)
 > **Env Vars:** cia (1), ccna (1)
 > **Speakers:** - [instructor] (1)
 
-#### What you need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/what-you-need-to-know?u=76281980)
+#### [What you need to know](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/what-you-need-to-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/what-you-need-to-know?u=76281980&t=0)** - [Instructor] The potential for employment in any number of cybersecurity related jobs is exploding.
+> **[0:00](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/what-you-need-to-know?u=76281980&t=0)** - [Instructor] The potential for employment in any number of [[Cybersecurity]] related jobs is exploding.
 >
-> **[0:07](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/what-you-need-to-know?u=76281980&t=7)** This course is an intermediate level course for network administrators, engineers, managers, students, and anyone with an interest in learning about the network security component of the CCNA Exam.
+> **[0:07](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/what-you-need-to-know?u=76281980&t=7)** This course is an intermediate level course for network administrators, engineers, managers, students, and anyone with an interest in learning about the [[Network Security]] component of the CCNA Exam.
 >
 > **[0:22](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/what-you-need-to-know?u=76281980&t=22)** Participants should have a solid knowledge of networking fundamentals, devices, and cables, along with various topologies and have completed CCNA training prior to starting this course.
 >
@@ -144,7 +142,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Network Security]] (2), [[Cybersecurity]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Network Security]] (2), [[Cybersecurity]] (1)
 > **Env Vars:** ccna (4), url (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
@@ -152,8 +150,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Preparing for the CCNA exam
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/preparing-for-the-ccna-exam?u=76281980)
+#### [Preparing for the CCNA exam](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/preparing-for-the-ccna-exam?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -167,7 +164,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), [[Automation]] (1), career (1)
 > **Env Vars:** ccna (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
@@ -178,8 +174,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Secure network overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/secure-network-overview?u=76281980)
+#### [Secure network overview](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/secure-network-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -187,7 +182,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/secure-network-overview?u=76281980&t=4)** Administrators face numerous challenges to protect the infrastructure.
 >
-> **[0:08](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/secure-network-overview?u=76281980&t=8)** Network environments are complex and can include mobile phones, cloud computing, virtualization, social media, and the internet of things.
+> **[0:08](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/secure-network-overview?u=76281980&t=8)** Network environments are complex and can include mobile phones, [[Cloud Computing]], virtualization, social media, and the [[IoT|internet of things]].
 >
 > **[0:20](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/secure-network-overview?u=76281980&t=20)** Coupled with the challenges, cyber threats are becoming more aggressive, complex, and sophisticated.
 >
@@ -205,7 +200,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/secure-network-overview?u=76281980&t=78)** Business networks must be able to adjust to changing traffic demands, and maintain constant response times.
 >
-> **[1:26](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/secure-network-overview?u=76281980&t=86)** In addition, they have to be agile, to respond to unexpected security incidents.
+> **[1:26](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/secure-network-overview?u=76281980&t=86)** In addition, they have to be [[Agile Development|agile]], to respond to unexpected security incidents.
 >
 > **[1:33](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/secure-network-overview?u=76281980&t=93)** Whether you're expanding a current network, or designing a completely new infrastructure, today's networks require careful planning.
 >
@@ -221,7 +216,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/secure-network-overview?u=76281980&t=133)** Design security from the onset.
 >
-> **[2:15](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/secure-network-overview?u=76281980&t=135)** Careful planning includes consideration for all network resources including security devices, access control lists, and intrusion detection.
+> **[2:15](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/secure-network-overview?u=76281980&t=135)** Careful planning includes consideration for all network resources including security devices, access control lists, and [[Intrusion Detection]].
 >
 > **[2:27](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/secure-network-overview?u=76281980&t=147)** These are critical to safeguarding network resources.
 >
@@ -241,7 +236,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/secure-network-overview?u=76281980&t=204)** Physical access will allow someone to change a password and obtain full access to the network.
 >
-> **[3:31](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/secure-network-overview?u=76281980&t=211)** Physical security involves preventing theft, destruction, or tampering of computers, network hardware, or devices.
+> **[3:31](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/secure-network-overview?u=76281980&t=211)** Physical security involves preventing theft, destruction, or tampering of computers, network [[Hardware]], or devices.
 >
 > **[3:41](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/secure-network-overview?u=76281980&t=221)** Examples include cutting a fiber-optic backbone, theft of a computer or handheld device, or removing RAM or components from a desktop or a laptop.
 >
@@ -255,7 +250,7 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/secure-network-overview?u=76281980&t=261)** A layered approach is essential, as no single product, device or software application can make an organization secure.
 >
-> **[4:31](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/secure-network-overview?u=76281980&t=271)** Network security comes from a combination of products, services, best practices, and well-written security policies.
+> **[4:31](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/secure-network-overview?u=76281980&t=271)** [[Network Security]] comes from a combination of [[Microsoft Products|products]], services, best practices, and well-written security policies.
 >
 > **[4:40](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/secure-network-overview?u=76281980&t=280)** Companies are hyper vigilant and recognize the importance of a secure network.
 >
@@ -265,7 +260,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (14), business (4), data (2), cloud (1), [[Virtualization]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (1), [[IoT|Internet of things]] (1), [[Agile Development|Agile]] (1), [[Intrusion Detection]] (1), [[Hardware]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
@@ -273,8 +268,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
 
-#### Security services
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/security-services?u=76281980)
+#### [Security services](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/security-services?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -284,13 +278,13 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/security-services?u=76281980&t=17)** Also called the CIA Triad, it's a widely recognized information assurance model.
 >
-> **[0:24](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/security-services?u=76281980&t=24)** We ensure confidentiality, integrity, and availability by using various techniques that include logical controls, such as access control lists and intrusion detection systems.
+> **[0:24](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/security-services?u=76281980&t=24)** We ensure confidentiality, integrity, and availability by using various techniques that include logical controls, such as access control lists and [[Intrusion Detection]] systems.
 >
 > **[0:38](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/security-services?u=76281980&t=38)** In addition, we use various cryptographic techniques, such as hashing, digital certificates, and encryption.
 >
-> **[0:46](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/security-services?u=76281980&t=46)** Confidentiality is assurance of data privacy and protection against unauthorized disclosure.
+> **[0:46](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/security-services?u=76281980&t=46)** Confidentiality is assurance of [[Data Privacy]] and protection against unauthorized disclosure.
 >
-> **[0:54](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/security-services?u=76281980&t=54)** Confidential information can include personally identifiable information, such as social security, credit card information, or account numbers, or business information, such as financial data, employee records, and trade secrets.
+> **[0:54](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/security-services?u=76281980&t=54)** Confidential information can include personally identifiable information, such as social security, credit card information, or account numbers, or business information, such as [[Financial Data]], employee records, and trade secrets.
 >
 > **[1:12](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/security-services?u=76281980&t=72)** An example of a violation of confidentiality would be a hacker gaining access and reading government emails.
 >
@@ -332,20 +326,19 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/security-services?u=76281980&t=229)** That means do not grant permission to a user who doesn't need access.
 >
-> **[3:55](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/security-services?u=76281980&t=235)** Every day, more and more services are being added to the internet, making network security a constant challenge.
+> **[3:55](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/security-services?u=76281980&t=235)** Every day, more and more services are being added to the internet, making [[Network Security]] a constant challenge.
 >
 > **[4:03](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/security-services?u=76281980&t=243)** A secure network will protect the organization and provide a competitive edge.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Intrusion Detection]] (2), [[Privacy]] (1), [[Security]] (1), business (1)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (2), [[Data Privacy]] (1), [[Financial Data]] (1), [[Network Security]] (1)
 > **Analogies:** such as (6)
 > **Env Vars:** cia (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Utilizing SIEM technology
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/utilizing-siem-technology?u=76281980)
+#### [Utilizing SIEM technology](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/utilizing-siem-technology?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -357,7 +350,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/utilizing-siem-technology?u=76281980&t=32)** Audit or event logs provide information on events that have taken place.
 >
-> **[0:38](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/utilizing-siem-technology?u=76281980&t=38)** If we go to NIST, you can read about some guidelines on log management found in Special Publication 800-92, and you can download this by selecting one of the links on the right hand side.
+> **[0:38](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/utilizing-siem-technology?u=76281980&t=38)** If we go to [[NIST]], you can read about some guidelines on log management found in Special Publication 800-92, and you can download this by selecting one of the links on the right hand side.
 >
 > **[0:54](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/utilizing-siem-technology?u=76281980&t=54)** Now, I've opened it up and then I scrolled down to the table of contents.
 >
@@ -375,7 +368,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/utilizing-siem-technology?u=76281980&t=110)** A SIEM system merges security information management with security event management, and integrates into the overall architecture of the network, and collects, correlates, and acts on security event information.
 >
-> **[2:08](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/utilizing-siem-technology?u=76281980&t=128)** Some of the benefits include continuous monitoring, trend awareness, and auditing, correlation of events, which gives historic or real-time perspective and conducts data analysis based on a set of rules, and reduces the volume of event data by consolidating duplicate event records.
+> **[2:08](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/utilizing-siem-technology?u=76281980&t=128)** Some of the benefits include [[Continuous Monitoring]], trend awareness, and auditing, correlation of events, which gives historic or [[Real-Time]] perspective and conducts data analysis based on a set of rules, and reduces the volume of event data by consolidating duplicate event records.
 >
 > **[2:32](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/utilizing-siem-technology?u=76281980&t=152)** Let's step through the process.
 >
@@ -403,7 +396,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (10), data (5), management (5), database (2), [[NIST]] (1)
+> **Frameworks & Libraries:** [[NIST]] (1), [[Continuous Monitoring]] (1), [[Real-Time]] (1)
 > **Env Vars:** siem (7), nist (1), mac (1)
 > **Analogies:** such as (3), for example (2), imagine (1)
 > **CLI Commands:** make (1)
@@ -411,8 +404,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Learning security terms
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/learning-security-terms?u=76281980)
+#### [Learning security terms](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/learning-security-terms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -422,11 +414,11 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/learning-security-terms?u=76281980&t=18)** Technical, operational and management, security strategies, or controls oversee adhering to the policies.
 >
-> **[0:27](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/learning-security-terms?u=76281980&t=27)** Management uses administrative techniques and deals with planning, vulnerability assessments, and penetration testing.
+> **[0:27](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/learning-security-terms?u=76281980&t=27)** Management uses administrative techniques and deals with planning, vulnerability assessments, and [[Penetration Testing]].
 >
 > **[0:36](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/learning-security-terms?u=76281980&t=36)** Operational includes the day-to-day operations such as physical and environmental protection, awareness and training.
 >
-> **[0:45](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/learning-security-terms?u=76281980&t=45)** Technical controls use technology and deals with access control, audit and accountability and malware prevention.
+> **[0:45](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/learning-security-terms?u=76281980&t=45)** Technical controls use technology and deals with access control, audit and [[Accountability]] and malware prevention.
 >
 > **[0:55](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/learning-security-terms?u=76281980&t=55)** When developing security strategies, it's important to understand several terms, assets, risks, threats, and vulnerabilities.
 >
@@ -434,7 +426,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/learning-security-terms?u=76281980&t=75)** Tangible assets include anything you can touch such as servers, printers, or computers.
 >
-> **[1:22](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/learning-security-terms?u=76281980&t=82)** Intangible assets include trade secrets, databases and company records.
+> **[1:22](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/learning-security-terms?u=76281980&t=82)** Intangible assets include trade secrets, [[Databases]] and company records.
 >
 > **[1:29](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/learning-security-terms?u=76281980&t=89)** Risk analysis is important for budgeting for security.
 >
@@ -460,25 +452,24 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/learning-security-terms?u=76281980&t=178)** Countermeasures are methods we employ to reduce vulnerabilities, which reduces overall risk.
 >
-> **[3:06](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/learning-security-terms?u=76281980&t=186)** Risk management includes principles and practices related to asset protection and security management.
+> **[3:06](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/learning-security-terms?u=76281980&t=186)** Risk management includes principles and practices related to asset protection and [[Security Management]].
 >
 > **[3:14](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/learning-security-terms?u=76281980&t=194)** Although we've touched on some of the security terms, there are many others.
 >
-> **[3:19](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/learning-security-terms?u=76281980&t=199)** I'm at this website, SANS, securing the human, where it lists a number of security awareness terms and definitions.
+> **[3:19](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/learning-security-terms?u=76281980&t=199)** I'm at this website, SANS, securing the human, where it lists a number of [[Security Awareness]] terms and definitions.
 >
 > **[3:29](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/learning-security-terms?u=76281980&t=209)** This is a nice site that you can go to and at least test yourself on some of the more commonly known security terms to build your own awareness.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (10), management (4), [[Penetration Testing]] (1), [[Accountability]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Penetration Testing]] (1), [[Accountability]] (1), [[Databases]] (1), [[Security Management]] (1), [[Security Awareness]] (1)
 > **Definitions:** is a  (4)
 > **Analogies:** such as (2)
 > **Env Vars:** sans (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Staying informed
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/staying-informed-23669784?u=76281980)
+#### [Staying informed](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/staying-informed-23669784?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -488,7 +479,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/staying-informed-23669784?u=76281980&t=23)** Today's complex networks pose unique challenges in managing information.
 >
-> **[0:29](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/staying-informed-23669784?u=76281980&t=29)** The job of a network security specialist is to stay ahead of common threats by attending training, participating in security organizations, and checking security websites on a daily basis.
+> **[0:29](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/staying-informed-23669784?u=76281980&t=29)** The job of a [[Network Security]] specialist is to stay ahead of common threats by attending training, participating in security organizations, and checking security websites on a daily basis.
 >
 > **[0:44](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/staying-informed-23669784?u=76281980&t=44)** security organizations have an online presence where you can obtain current research information, see what events they'll be holding and get an industry certification.
 >
@@ -496,13 +487,13 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/staying-informed-23669784?u=76281980&t=65)** Let's start with [mitre.org](https://mitre.org).
 >
-> **[1:09](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/staying-informed-23669784?u=76281980&t=69)** Mitre is a nonprofit that operates multiple federally funded research and development centers, and provides innovative, practical solutions for some of our nation's most critical challenges in defense and intelligence, Homeland Security and cybersecurity.
+> **[1:09](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/staying-informed-23669784?u=76281980&t=69)** Mitre is a nonprofit that operates multiple federally funded research and development centers, and provides innovative, practical solutions for some of our nation's most critical challenges in defense and intelligence, Homeland Security and [[Cybersecurity]].
 >
 > **[1:32](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/staying-informed-23669784?u=76281980&t=92)** [Sans.org](https://Sans.org) is the go-to organization for information security training, certification and research.
 >
 > **[1:43](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/staying-informed-23669784?u=76281980&t=103)** The Center for Internet Security is where you can go to learn about cybersecurity best practices, tools, and threats.
 >
-> **[1:54](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/staying-informed-23669784?u=76281980&t=114)** The Open Web application security project, or OWASP is a free and open source security site that provides guidance on best practices to secure web infrastructures.
+> **[1:54](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/staying-informed-23669784?u=76281980&t=114)** The Open [[Web Application Security]] project, or [[OWASP]] is a free and open source security site that provides guidance on best practices to secure web infrastructures.
 >
 > **[2:08](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/staying-informed-23669784?u=76281980&t=128)** They publish a list of top 10 vulnerabilities and offer tools, guides, and testing methods, along with communities to exchange and share information.
 >
@@ -510,25 +501,24 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/staying-informed-23669784?u=76281980&t=153)** Let's take a look.
 >
-> **[2:35](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/staying-informed-23669784?u=76281980&t=155)** If you drop down the certification menu choice, you can see all of the available certifications, including SSCP, for IT administration, for management and support for the overall security posture and policies of an organization, CCSP for cloud security to properly procure, secure and manage cloud environments and CISSP for leadership and operations to effectively design, develop, and manage the overall security posture of an organization.
+> **[2:35](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/staying-informed-23669784?u=76281980&t=155)** If you drop down the certification menu choice, you can see all of the available certifications, including SSCP, for IT administration, for management and support for the overall security posture and policies of an organization, CCSP for [[Cloud Security]] to properly procure, secure and manage cloud environments and CISSP for leadership and operations to effectively design, develop, and manage the overall security posture of an organization.
 >
 > **[3:16](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/staying-informed-23669784?u=76281980&t=196)** As we can see, there are a number of organizations that help security specialists stay ahead of common threats.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (16), [[Cybersecurity]] (3), cloud (2), [[Network Security]] (1), web application (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Network Security]] (1), [[Web Application Security]] (1), [[OWASP]] (1), [[Cloud Security]] (1)
 > **Env Vars:** owasp (1), isc2 (1), sscp (1), ccsp (1), cissp (1)
 > **URLs:** [mitre.org](https://mitre.org) (1), [sans.org](https://sans.org) (1), [isc2.org](https://isc2.org) (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [host] (1)
 
-#### Network security domains
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/network-security-domains?u=76281980)
+#### [Network security domains](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/network-security-domains?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/network-security-domains?u=76281980&t=0)** - [Instructor] Whether you're dealing with a large, multinational company, or a small business, information security management encompasses the entire organization.
+> **[0:00](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/network-security-domains?u=76281980&t=0)** - [Instructor] Whether you're dealing with a large, multinational company, or a small business, [[Information Security Management]] encompasses the entire organization.
 >
 > **[0:12](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/network-security-domains?u=76281980&t=12)** As a security specialist, there are many functions that you and many others will need to complete throughout your day.
 >
@@ -552,9 +542,9 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/network-security-domains?u=76281980&t=73)** Organization of information security includes information security governance, and policy on mobile devices and teleworking.
 >
-> **[1:23](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/network-security-domains?u=76281980&t=83)** Human resources security addresses policies and procedures related to the employees in an organization.
+> **[1:23](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/network-security-domains?u=76281980&t=83)** [[Human Resources (HR)|Human resources]] security addresses policies and procedures related to the employees in an organization.
 >
-> **[1:31](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/network-security-domains?u=76281980&t=91)** Asset management and inventory of information assets includes handling media appropriately and data classification.
+> **[1:31](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/network-security-domains?u=76281980&t=91)** Asset management and inventory of information assets includes handling media appropriately and [[Data Classification]].
 >
 > **[1:41](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/network-security-domains?u=76281980&t=101)** Now what do we mean by data classification?
 >
@@ -586,7 +576,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/network-security-domains?u=76281980&t=186)** Physical and environmental security is in order to secure areas against unauthorized access.
 >
-> **[3:15](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/network-security-domains?u=76281980&t=195)** Operations security includes malware protection, backup, vulnerability assessment, and auditing.
+> **[3:15](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/network-security-domains?u=76281980&t=195)** Operations security includes malware protection, backup, [[Vulnerability Assessment]], and auditing.
 >
 > **[3:22](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/network-security-domains?u=76281980&t=202)** Communications and operation network segregation and systems, where we take our networks and secure the data while it's in transit.
 >
@@ -602,11 +592,11 @@ created: 2026-05-02
 >
 > **[4:17](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/network-security-domains?u=76281980&t=257)** As you can see, organizational security encompasses the entire organization; processes, policies, and people.
 >
-> **[4:28](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/network-security-domains?u=76281980&t=268)** ISO/IEC 27002:2013 is a framework that is applicable to all types of organizations that specify network security domains that provide a common basis for standards and effective security management.
+> **[4:28](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/network-security-domains?u=76281980&t=268)** ISO/IEC 27002:2013 is a framework that is applicable to all types of organizations that specify [[Network Security]] domains that provide a common basis for standards and effective [[Security Management]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (16), data (6), management (4), business (3), [[Data Classification]] (2)
+> **Frameworks & Libraries:** [[Data Classification]] (2), [[Information Security Management]] (1), [[Human Resources (HR)|Human resources]] (1), [[Vulnerability Assessment]] (1), [[Network Security]] (1)
 > **Env Vars:** iso (2), iec (2)
 > **UI Navigation:** go to (1), scroll down (1), click on (1)
 > **Ports:** :2013 (1)
@@ -614,8 +604,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Zone defense
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/zone-defense?u=76281980)
+#### [Zone defense](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/zone-defense?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -627,11 +616,11 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/zone-defense?u=76281980&t=22)** That either allow or deny certain types of traffics between zones, when designing a network, a perimeter network is the boundary between the trusted and untrusted network.
 >
-> **[0:36](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/zone-defense?u=76281980&t=36)** This allows an organization to deploy public services such as email and web servers while isolating the internal network and provides an additional layer of protection, in this graphic we see a logical drawing of the outside network or internet, the inside or LAN and then we see in the center the demilitarized zone or DMZ.
+> **[0:36](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/zone-defense?u=76281980&t=36)** This allows an organization to deploy public services such as email and [[Web Servers]] while isolating the internal network and provides an additional layer of protection, in this graphic we see a logical drawing of the outside network or internet, the inside or LAN and then we see in the center the demilitarized zone or DMZ.
 >
 > **[1:03](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/zone-defense?u=76281980&t=63)** Isolation on a network occurs by configuring a demilitarized zone, or screen subnet.
 >
-> **[1:10](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/zone-defense?u=76281980&t=70)** Where the firewall filters traffic between the outside world and the local area network.
+> **[1:10](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/zone-defense?u=76281980&t=70)** Where the firewall filters traffic between the outside world and the [[Local Area Network (LAN)|local area network]].
 >
 > **[1:16](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/zone-defense?u=76281980&t=76)** We call it a screen subnet because it's a separate subnetwork as we see from the IP address.
 >
@@ -669,14 +658,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (13), [[Security]] (4), web (2), lan (2), [[Local Area Network (LAN)|Local area network]] (1)
+> **Frameworks & Libraries:** [[Web Servers]] (2), [[Local Area Network (LAN)|Local area network]] (1)
 > **Env Vars:** dmz (10), lan (2)
 > **Analogies:** such as (1), for example (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Create a security policy
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/challenge-create-a-security-policy?u=76281980)
+#### [Challenge: Create a security policy](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/challenge-create-a-security-policy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -696,7 +684,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1), next (1)
 > **Definitions:** is a  (2)
 > **URLs:** [sans.org](https://sans.org) (1)
 > **UI Navigation:** open the (1)
@@ -704,8 +691,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Create a security policy
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/solution-create-a-security-policy?u=76281980)
+#### [Solution: Create a security policy](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/solution-create-a-security-policy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -719,7 +705,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/solution-create-a-security-policy?u=76281980&t=21)** It defines acceptable use of equipment and computing services.
 >
-> **[0:26](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/solution-create-a-security-policy?u=76281980&t=26)** So I opened it in word.
+> **[0:26](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/solution-create-a-security-policy?u=76281980&t=26)** So I opened it in [[Microsoft Word|word]].
 >
 > **[0:28](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/solution-create-a-security-policy?u=76281980&t=28)** Now, the first thing that you can read is that it was last updated in 2014.
 >
@@ -785,7 +771,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), [[Microsoft Word|Word]] (1), data (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
@@ -799,8 +785,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Reviewing security services
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/reviewing-security-services?u=76281980)
+#### [Reviewing security services](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/reviewing-security-services?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -828,7 +813,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/reviewing-security-services?u=76281980&t=85)** Defend against spoofing attacks by using authentication techniques.
 >
-> **[1:31](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/reviewing-security-services?u=76281980&t=91)** To reduce the overall risk to a network, security specialist should not only understand vulnerability scanning, but also ethical hacking skills as well.
+> **[1:31](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/reviewing-security-services?u=76281980&t=91)** To reduce the overall risk to a network, security specialist should not only understand vulnerability scanning, but also [[Ethical Hacking]] skills as well.
 >
 > **[1:43](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/reviewing-security-services?u=76281980&t=103)** On any network, there are passive and active attacks.
 >
@@ -836,16 +821,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Security]] (2), traffic (1), [[Ethical Hacking]] (1)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (1)
 > **Analogies:** such as (2), for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Attacking the network
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/attacking-the-network?u=76281980)
+#### [Attacking the network](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/attacking-the-network?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/attacking-the-network?u=76281980&t=0)** - [Instructor] Passive attacks include something that you might not think is dangerous, such as eavesdropping using traffic analysis or tapping, which uses a network adapter card and promiscuous mode to capture all network packets on the local area network and examine the contents.
+> **[0:00](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/attacking-the-network?u=76281980&t=0)** - [Instructor] Passive attacks include something that you might not think is dangerous, such as eavesdropping using traffic analysis or tapping, which uses a network adapter card and promiscuous mode to capture all network packets on the [[Local Area Network (LAN)|local area network]] and examine the contents.
 >
 > **[0:22](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/attacking-the-network?u=76281980&t=22)** Passive attacks include a more aggressive form of an attack called a reconnaissance attack.
 >
@@ -893,25 +877,25 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/attacking-the-network?u=76281980&t=229)** By using encryption, if someone were to capture the data, they couldn't read it unless they had a key.
 >
-> **[3:56](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/attacking-the-network?u=76281980&t=236)** And detection, use intrusion detection systems to monitor for ping sweeps and port scans.
+> **[3:56](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/attacking-the-network?u=76281980&t=236)** And detection, use [[Intrusion Detection]] systems to monitor for ping sweeps and port scans.
 >
-> **[4:04](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/attacking-the-network?u=76281980&t=244)** With active attacks, defend against active attacks by using encryption, whether the data is at rest or in motion.
+> **[4:04](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/attacking-the-network?u=76281980&t=244)** With active attacks, defend against active attacks by using encryption, whether the data is at [[Representational State Transfer (REST)|rest]] or in motion.
 >
 > **[4:14](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/attacking-the-network?u=76281980&t=254)** If someone were able to obtain the data, they couldn't read it unless they had a key.
 >
 > **[4:21](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/attacking-the-network?u=76281980&t=261)** And policies, this may be as simple as frequent changes of passwords and strength of passwords.
 >
-> **[4:28](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/attacking-the-network?u=76281980&t=268)** Physical controls, these may be the most overlooked forms of security.
+> **[4:28](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/attacking-the-network?u=76281980&t=268)** Physical controls, these may be the most overlooked [[Forms]] of security.
 >
 > **[4:35](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/attacking-the-network?u=76281980&t=275)** Controls include locks and smart cards.
 >
 > **[4:38](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/attacking-the-network?u=76281980&t=278)** And device security, such as intrusion detection systems, intrusion prevention systems, firewalls, and switch port security.
 >
-> **[4:49](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/attacking-the-network?u=76281980&t=289)** To reduce the overall risk to a network, security specialists should not only understand vulnerability scanning, but ethical hacking skills as well.
+> **[4:49](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/attacking-the-network?u=76281980&t=289)** To reduce the overall risk to a network, security specialists should not only understand vulnerability scanning, but [[Ethical Hacking]] skills as well.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Security]] (4), [[Intrusion Detection]] (2), traffic (1), [[Local Area Network (LAN)|Local area network]] (1)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (2), [[Local Area Network (LAN)|Local area network]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Forms]] (1), [[Ethical Hacking]] (1)
 > **Analogies:** such as (6)
 > **Env Vars:** icmp (1), tcp (1), udp (1)
 > **CLI Commands:** find (1)
@@ -919,8 +903,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Social engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/social-engineering?u=76281980)
+#### [Social engineering](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/social-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -930,7 +913,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/social-engineering?u=76281980&t=39)** Scam artists work on our emotions and many times launch an attack that might promise gifts and prizes, important information or threaten to take action if you do not reply.
 >
-> **[0:52](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/social-engineering?u=76281980&t=52)** Cyber criminals achieve social engineering in many ways that include phone, online, phishing, farming, pop ups, fake websites, and simple persuasion.
+> **[0:52](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/social-engineering?u=76281980&t=52)** Cyber criminals achieve social engineering in many ways that include phone, online, [[Phishing]], farming, pop ups, fake websites, and simple persuasion.
 >
 > **[1:06](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/social-engineering?u=76281980&t=66)** Phishing sends out massive emails.
 >
@@ -966,14 +949,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (11), [[Engineering]] (9), [[Security]] (1), web (1)
+> **Frameworks & Libraries:** [[Phishing]] (11)
 > **Definitions:** is a  (3)
 > **UI Navigation:** go to (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identify malware
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/identify-malware?u=76281980)
+#### [Identify malware](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/identify-malware?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1029,7 +1011,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/identify-malware?u=76281980&t=167)** These went from the early days of script kiddies to cybercriminals, whose main focus is profit.
 >
-> **[2:55](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/identify-malware?u=76281980&t=175)** Businesses have lost billions to viruses, worms, spyware, and phishing attacks.
+> **[2:55](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/identify-malware?u=76281980&t=175)** Businesses have lost billions to viruses, worms, spyware, and [[Phishing]] attacks.
 >
 > **[3:02](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/identify-malware?u=76281980&t=182)** Yet at the same time, a global cybercriminal business has grown exponentially.
 >
@@ -1067,7 +1049,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (3), business (1), game (1)
+> **Frameworks & Libraries:** [[Phishing]] (3)
 > **Analogies:** such as (6)
 > **UI Navigation:** click on (2)
 > **Definitions:** is a  (2)
@@ -1075,8 +1057,7 @@ created: 2026-05-02
 > **Env Vars:** usb (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data loss prevention
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/data-loss-prevention?u=76281980)
+#### [Data loss prevention](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/data-loss-prevention?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1084,9 +1065,9 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/data-loss-prevention?u=76281980&t=10)** A network specialist must be aware of the many vectors of data exfiltration and ways to prevent data loss.
 >
-> **[0:19](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/data-loss-prevention?u=76281980&t=19)** Whether data is at rest or in motion over the network, there are many vectors or methods whereby data can leave the organization.
+> **[0:19](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/data-loss-prevention?u=76281980&t=19)** Whether data is at [[Representational State Transfer (REST)|rest]] or in motion over the network, there are many vectors or methods whereby data can leave the organization.
 >
-> **[0:28](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/data-loss-prevention?u=76281980&t=28)** Vectors can include storage devices, email, missing or improper access controls, cloud storage, and malware.
+> **[0:28](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/data-loss-prevention?u=76281980&t=28)** Vectors can include storage devices, email, missing or improper access controls, [[Cloud Storage]], and malware.
 >
 > **[0:37](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/data-loss-prevention?u=76281980&t=37)** Data loss can occur either by accident, or as a result of a cyberattack.
 >
@@ -1102,7 +1083,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/data-loss-prevention?u=76281980&t=73)** Which could lead to data exfiltration.
 >
-> **[1:16](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/data-loss-prevention?u=76281980&t=76)** Or the victim might send information to a hacker as a result of a phishing or social engineering attack.
+> **[1:16](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/data-loss-prevention?u=76281980&t=76)** Or the victim might send information to a hacker as a result of a [[Phishing]] or social engineering attack.
 >
 > **[1:23](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/data-loss-prevention?u=76281980&t=83)** Email attachments are one of the original methods to send malware, spam, and bogus links, and continue to improve in sophistication.
 >
@@ -1116,7 +1097,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/data-loss-prevention?u=76281980&t=124)** However, you should protect it as if it were on the local network by using data encryption and access control.
 >
-> **[2:12](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/data-loss-prevention?u=76281980&t=132)** Webpages and pop-ups take advantage of the ability browsers have to access various programming languages such as JavaScript, ActiveX, and macros.
+> **[2:12](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/data-loss-prevention?u=76281980&t=132)** Webpages and pop-ups take advantage of the ability browsers have to access various programming languages such as [[JavaScript]], ActiveX, and macros.
 >
 > **[2:22](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/data-loss-prevention?u=76281980&t=142)** When clicked, the malware can install spyware, adware, hijackers, dialers, Trojans, or other malware.
 >
@@ -1158,7 +1139,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), cloud (2), [[Phishing]] (2), [[Representational State Transfer (REST)|Rest]] (1), business (1)
+> **Frameworks & Libraries:** [[Cloud Storage]] (2), [[Phishing]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[JavaScript]] (1)
 > **Analogies:** such as (4)
 > **Warnings:** caution (2), be aware (1)
 > **CLI Commands:** find (1)
@@ -1167,8 +1148,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
 
-#### Challenge: Understanding botnets
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/challenge-understanding-botnets?u=76281980)
+#### [Challenge: Understanding botnets](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/challenge-understanding-botnets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1199,8 +1179,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Understanding botnets
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/solution-understanding-botnets?u=76281980)
+#### [Solution: Understanding botnets](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/solution-understanding-botnets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1224,7 +1203,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/solution-understanding-botnets?u=76281980&t=55)** It's also called a C and C.
 >
-> **[0:58](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/solution-understanding-botnets?u=76281980&t=58)** This is what is used to maintain communications with the army and the zombie army can include anything that's computerized including mobile devices, laptops, and Internet of Things.
+> **[0:58](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/solution-understanding-botnets?u=76281980&t=58)** This is what is used to maintain communications with the army and the zombie army can include anything that's computerized including mobile devices, laptops, and [[IoT|Internet of Things]].
 >
 > **[1:14](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/solution-understanding-botnets?u=76281980&t=74)** And so well, what are zombies?
 >
@@ -1254,7 +1233,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Internet of Things (IoT)|Internet of things]] (1)
+> **Frameworks & Libraries:** [[IoT|Internet of things]] (1)
 > **Definitions:** is a  (2)
 > **Warnings:** keep in mind (1), be aware (1)
 > **CLI Commands:** make (1)
@@ -1266,8 +1245,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cryptographic concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/cryptographic-concepts?u=76281980)
+#### [Cryptographic concepts](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/cryptographic-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1289,17 +1267,17 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/cryptographic-concepts?u=76281980&t=71)** That is why encryption is so important.
 >
-> **[1:16](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/cryptographic-concepts?u=76281980&t=76)** We use cryptographic techniques to ensure confidentiality, integrity, and authentication of data whether in motion or at rest.
+> **[1:16](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/cryptographic-concepts?u=76281980&t=76)** We use cryptographic techniques to ensure confidentiality, integrity, and authentication of data whether in motion or at [[Representational State Transfer (REST)|rest]].
 >
 > **[1:26](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/cryptographic-concepts?u=76281980&t=86)** Data is in motion while traveling through the network, moving from place to place.
 >
-> **[1:32](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/cryptographic-concepts?u=76281980&t=92)** Data at rest is on a drive, cloud storage, or removable media.
+> **[1:32](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/cryptographic-concepts?u=76281980&t=92)** Data at rest is on a drive, [[Cloud Storage]], or removable media.
 >
 > **[1:38](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/cryptographic-concepts?u=76281980&t=98)** Today, encryption is one of the most effective ways to secure digital data.
 >
 > **[1:44](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/cryptographic-concepts?u=76281980&t=104)** Encryption uses a mathematical algorithm and a key to convert data into a scrambled format, which is meaningless unless you have a key.
 >
-> **[1:54](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/cryptographic-concepts?u=76281980&t=114)** As we discuss cryptography, you'll hear many terms, such as symmetric, asymmetric, and hashing.
+> **[1:54](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/cryptographic-concepts?u=76281980&t=114)** As we discuss [[Cryptography]], you'll hear many terms, such as symmetric, asymmetric, and hashing.
 >
 > **[2:02](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/cryptographic-concepts?u=76281980&t=122)** There are two main types of encryption, symmetric and asymmetric.
 >
@@ -1321,7 +1299,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/cryptographic-concepts?u=76281980&t=185)** For this we use a hash function.
 >
-> **[3:07](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/cryptographic-concepts?u=76281980&t=187)** Accountability, positively identifying an entity in a system, such as signing an electronic contract.
+> **[3:07](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/cryptographic-concepts?u=76281980&t=187)** [[Accountability]], positively identifying an entity in a system, such as signing an electronic contract.
 >
 > **[3:16](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/cryptographic-concepts?u=76281980&t=196)** For this we use a digital signature.
 >
@@ -1335,14 +1313,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Representational State Transfer (REST)|Rest]] (3), cloud (2), [[Cryptography]] (1), management (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[Cloud Storage]] (2), [[Cryptography]] (1), [[Accountability]] (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** such as (3)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Describing symmetric encryption
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/describing-symmetric-encryption?u=76281980)
+#### [Describing symmetric encryption](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/describing-symmetric-encryption?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1378,7 +1355,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/describing-symmetric-encryption?u=76281980&t=100)** And down below is what you can see when text is encrypted, which won't make sense to anyone unless you have a key.
 >
-> **[1:50](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/describing-symmetric-encryption?u=76281980&t=110)** Symmetric algorithms include Data Encryption Standard or DES, Triple DES, International Data Encryption Algorithm or IDEA and Advanced Encryption Standard or AES.
+> **[1:50](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/describing-symmetric-encryption?u=76281980&t=110)** Symmetric [[Algorithms]] include Data Encryption Standard or DES, Triple DES, International Data Encryption Algorithm or IDEA and Advanced Encryption Standard or AES.
 >
 > **[2:07](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/describing-symmetric-encryption?u=76281980&t=127)** Now, although we have choices in algorithms, the preferred algorithm is AES because of its large key sizes and resistance to attack.
 >
@@ -1402,7 +1379,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/describing-symmetric-encryption?u=76281980&t=206)** Now, the cipher mode of operation is also called a chaining mode, and this defines the way that the plaintext and key generate the stream of ciphertext that is transmitted to the recipient.
 >
-> **[3:41](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/describing-symmetric-encryption?u=76281980&t=221)** This adds layer of protection against potential threats like data manipulation or unauthorized access.
+> **[3:41](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/describing-symmetric-encryption?u=76281980&t=221)** This adds layer of protection against potential threats like [[Data Manipulation]] or unauthorized access.
 >
 > **[3:49](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/describing-symmetric-encryption?u=76281980&t=229)** Now, we have several cipher modes of operation.
 >
@@ -1440,7 +1417,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Algorithms]] (5), [[Data Manipulation]] (1), [[Security]] (1), next (1)
+> **Frameworks & Libraries:** [[Algorithms]] (5), [[Data Manipulation]] (1)
 > **Env Vars:** aes (4), des (2), idea (1)
 > **Definitions:** means that (1), is called (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -1449,8 +1426,7 @@ created: 2026-05-02
 > **Prerequisites:** initialization (1)
 > **Speakers:** - [narrator] (1)
 
-#### Asymmetric encryption
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/asymmetric-encryption?u=76281980)
+#### [Asymmetric encryption](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/asymmetric-encryption?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1474,7 +1450,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/asymmetric-encryption?u=76281980&t=64)** It's sent to Bob who uses Bob's private key and the decryption algorithm it then becomes plain text output, and because only Bob has Bob's private key, only Bob can see the contents.
 >
-> **[1:20](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/asymmetric-encryption?u=76281980&t=80)** Asymmetric or public key encryption algorithms include RSA or PGP.
+> **[1:20](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/asymmetric-encryption?u=76281980&t=80)** Asymmetric or public key encryption [[Algorithms]] include RSA or PGP.
 >
 > **[1:27](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/asymmetric-encryption?u=76281980&t=87)** And you can use either of the keys for encryption with the other key used for decryption.
 >
@@ -1488,7 +1464,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/asymmetric-encryption?u=76281980&t=137)** I'm at this website where we can see an example of asymmetric encryption.
 >
-> **[2:23](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/asymmetric-encryption?u=76281980&t=143)** Here we're going to use PGP encryption which is pretty good privacy.
+> **[2:23](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/asymmetric-encryption?u=76281980&t=143)** Here we're going to use PGP encryption which is pretty good [[Privacy]].
 >
 > **[2:29](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/asymmetric-encryption?u=76281980&t=149)** You can also use a similar application called GPG which is Gnu Privacy Guard.
 >
@@ -1544,18 +1520,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (2), data (1), [[Algorithms]] (1), [[Security]] (1), application (1)
+> **Frameworks & Libraries:** [[Privacy]] (2), [[Algorithms]] (1)
 > **Env Vars:** pgp (7), rsa (1), cpu (1), gpg (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Protecting integrity using a hash function
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/protecting-integrity-using-a-hash-function?u=76281980)
+#### [Protecting integrity using a hash function](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/protecting-integrity-using-a-hash-function?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/protecting-integrity-using-a-hash-function?u=76281980&t=0)** - [Teacher] A hash function is a cryptographic technique that protects data integrity.
+> **[0:00](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/protecting-integrity-using-a-hash-function?u=76281980&t=0)** - [Teacher] A hash function is a cryptographic technique that protects [[Data Integrity]].
 >
 > **[0:06](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/protecting-integrity-using-a-hash-function?u=76281980&t=6)** So what's the difference between a hash versus encryption?
 >
@@ -1567,7 +1542,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/protecting-integrity-using-a-hash-function?u=76281980&t=28)** Now we use hash functions in a number of different applications that can include authenticating a message.
 >
-> **[0:35](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/protecting-integrity-using-a-hash-function?u=76281980&t=35)** We can also use a hash to monitor data integrity, store passwords, and it's even used in blockchain technology.
+> **[0:35](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/protecting-integrity-using-a-hash-function?u=76281980&t=35)** We can also use a hash to monitor data integrity, store passwords, and it's even used in [[Blockchain]] technology.
 >
 > **[0:44](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/protecting-integrity-using-a-hash-function?u=76281980&t=44)** When we think about a hash algorithm, there are various cryptographic requirements in order to be a secure hash algorithm.
 >
@@ -1583,11 +1558,11 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/protecting-integrity-using-a-hash-function?u=76281980&t=84)** The original one, which is called SHA-1, was designed by the National Security Agency, or NSA.
 >
-> **[1:31](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/protecting-integrity-using-a-hash-function?u=76281980&t=91)** SHA-2 is a family of hash algorithms.
+> **[1:31](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/protecting-integrity-using-a-hash-function?u=76281980&t=91)** SHA-2 is a family of hash [[Algorithms]].
 >
 > **[1:35](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/protecting-integrity-using-a-hash-function?u=76281980&t=95)** And now what most likely you'll be seeing more of is SHA-3, and that's based on Keccak.
 >
-> **[1:42](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/protecting-integrity-using-a-hash-function?u=76281980&t=102)** So we'll take you here to NIST, which does a lot of research on cryptographic techniques.
+> **[1:42](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/protecting-integrity-using-a-hash-function?u=76281980&t=102)** So we'll take you here to [[NIST]], which does a lot of research on cryptographic techniques.
 >
 > **[1:48](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/protecting-integrity-using-a-hash-function?u=76281980&t=108)** And I'm going to just scroll down here, and it talks about approved hash algorithms.
 >
@@ -1639,19 +1614,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Algorithms]] (4), [[Blockchain]] (1), [[Security]] (1), [[NIST]] (1)
+> **Frameworks & Libraries:** [[Data Integrity]] (4), [[Algorithms]] (4), [[Blockchain]] (1), [[NIST]] (1)
 > **Env Vars:** sha (7), nsa (1), nist (1)
 > **Definitions:** is a  (3), is called (2)
 > **CLI Commands:** make (2)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [teacher] (1)
 
-#### Key exchange
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/key-exchange?u=76281980)
+#### [Key exchange](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/key-exchange?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/key-exchange?u=76281980&t=0)** - [Instructor] Asymmetric encryption is great for email confidentiality using Pretty Good Privacy or Gnu Privacy Guard.
+> **[0:00](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/key-exchange?u=76281980&t=0)** - [Instructor] Asymmetric encryption is great for email confidentiality using Pretty Good [[Privacy]] or Gnu Privacy Guard.
 >
 > **[0:08](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/key-exchange?u=76281980&t=8)** But for large data requirements or data transfer, we use symmetric encryption, as it's fast, efficient, with low overhead.
 >
@@ -1705,14 +1679,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Privacy]] (2)
+> **Frameworks & Libraries:** [[Privacy]] (2)
 > **Env Vars:** rsa (2), des (1), dddes (1), aes (1)
 > **Analogies:** such as (1), imagine (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Public key infrastructure
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/public-key-infrastructure?u=76281980)
+#### [Public key infrastructure](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/public-key-infrastructure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1784,7 +1757,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), web (1)
 > **Definitions:** is a  (5)
 > **Analogies:** such as (3)
 > **URLs:** [amazon.com](https://amazon.com) (1)
@@ -1796,12 +1768,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Campus area network
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/campus-area-network?u=76281980)
+#### [Campus area network](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/campus-area-network?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/campus-area-network?u=76281980&t=0)** - [Narrator] A campus area network is a large private local area network in a confined location.
+> **[0:00](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/campus-area-network?u=76281980&t=0)** - [Narrator] A campus area network is a large private [[Local Area Network (LAN)|local area network]] in a confined location.
 >
 > **[0:08](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/campus-area-network?u=76281980&t=8)** It can be a college campus, hospital campus, corporate campus, or a military base.
 >
@@ -1811,7 +1782,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/campus-area-network?u=76281980&t=34)** The most common design is a hierarchy design that includes core, distribution, and access layers.
 >
-> **[0:43](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/campus-area-network?u=76281980&t=43)** The core layer is a critical layer that requires high performance routing and optimized data exchange among other core switches and distribution switches within the enterprise network.
+> **[0:43](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/campus-area-network?u=76281980&t=43)** The core layer is a critical layer that requires high performance [[Routing]] and optimized data exchange among other core switches and distribution switches within the enterprise network.
 >
 > **[0:56](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/campus-area-network?u=76281980&t=56)** The core is also called the network backbone and should be resilient, always on, and have redundancy to recover quickly in case of failure.
 >
@@ -1831,18 +1802,17 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/campus-area-network?u=76281980&t=129)** As we can see in this graphic throughout the can, there are many attack vectors.
 >
-> **[2:14](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/campus-area-network?u=76281980&t=134)** Therefore, layer security defenses that include devices such as firewalls, intrusion detection systems, intrusion prevention systems, along with switchport security, and access control methods.
+> **[2:14](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/campus-area-network?u=76281980&t=134)** Therefore, layer security defenses that include devices such as firewalls, [[Intrusion Detection]] systems, intrusion prevention systems, along with switchport security, and access control methods.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Security]] (4), [[Local Area Network (LAN)|Local area network]] (1), business (1), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Local Area Network (LAN)|Local area network]] (1), [[Routing]] (1), [[Intrusion Detection]] (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** wan (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Cloud and wide area network
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/cloud-and-wide-area-network?u=76281980)
+#### [Cloud and wide area network](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/cloud-and-wide-area-network?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1862,7 +1832,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/cloud-and-wide-area-network?u=76281980&t=55)** Either way, clients will need access to data, which may be over a WAN link.
 >
-> **[1:00](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/cloud-and-wide-area-network?u=76281980&t=60)** Regardless of how they access the data, you must secure the data, whether at rest or in motion.
+> **[1:00](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/cloud-and-wide-area-network?u=76281980&t=60)** Regardless of how they access the data, you must secure the data, whether at [[Representational State Transfer (REST)|rest]] or in motion.
 >
 > **[1:07](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/cloud-and-wide-area-network?u=76281980&t=67)** Remote access and cloud base data centers add complexity to our security requirements.
 >
@@ -1876,7 +1846,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/cloud-and-wide-area-network?u=76281980&t=96)** Any remote access client that needs to access company resources must have a secure system, as any network device without appropriate protection can pose a significant risk to the corporate network.
 >
-> **[1:50](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/cloud-and-wide-area-network?u=76281980&t=110)** Various solutions are available from Microsoft and third party vendors that check the client's health and grants access to the network if the device is healthy.
+> **[1:50](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/cloud-and-wide-area-network?u=76281980&t=110)** Various solutions are available from [[Microsoft]] and third party vendors that check the client's health and grants access to the network if the device is healthy.
 >
 > **[2:00](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/cloud-and-wide-area-network?u=76281980&t=120)** Meaning, the client has updated patches, malware protection, and an active firewall.
 >
@@ -1898,14 +1868,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), cloud (3), [[Security]] (3), management (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft]] (1)
 > **Env Vars:** wan (2), vpn (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data center
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/data-center?u=76281980)
+#### [Data center](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/data-center?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1931,7 +1900,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/data-center?u=76281980&t=82)** In addition, there may be other devices such as Unified Computing System.
 >
-> **[1:28](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/data-center?u=76281980&t=88)** It's a hardware application that include switching fabric, virtualization, and management software.
+> **[1:28](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/data-center?u=76281980&t=88)** It's a [[Hardware]] application that include switching fabric, virtualization, and management software.
 >
 > **[1:35](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/data-center?u=76281980&t=95)** Cisco Unified Communications Manager integrates voiceover IP, video conferencing, email, and data on the network.
 >
@@ -1949,25 +1918,24 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/data-center?u=76281980&t=148)** Data center protection includes firewalls using ingress and egress filtering, and house any outward-facing appliances in a DMZ.
 >
-> **[2:38](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/data-center?u=76281980&t=158)** In addition to the many attacks from the outside, the network administrator must also be aware of the potential of an inside attack on the network, and use access control list, intrusion detection, intrusion prevention, along with Layer 2 security such as switchport security.
+> **[2:38](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/data-center?u=76281980&t=158)** In addition to the many attacks from the outside, the network administrator must also be aware of the potential of an inside attack on the network, and use access control list, [[Intrusion Detection]], intrusion prevention, along with Layer 2 security such as switchport security.
 >
 > **[2:58](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/data-center?u=76281980&t=178)** Protect the data center as it's the heart of any enterprise network.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Security]] (2), cloud (1), traffic (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (1), [[Intrusion Detection]] (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** raid (1), dmz (1)
 > **Analogies:** such as (2)
 > **Warnings:** be aware (1)
 > **Speakers:** - [narrator] (1)
 
-#### Small office home office (SOHO)
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/small-office-home-office-soho?u=76281980)
+#### [Small office home office (SOHO)](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/small-office-home-office-soho?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/small-office-home-office-soho?u=76281980&t=0)** - [Instructor] A small office/home office is also a consideration when designing network access and security.
+> **[0:00](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/small-office-home-office-soho?u=76281980&t=0)** - [Instructor] A small [[Microsoft Office|office]]/home office is also a consideration when designing network access and security.
 >
 > **[0:07](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/small-office-home-office-soho?u=76281980&t=7)** Although the office is not located within the main campus, the remote worker will have access to the corporate network via WAN link.
 >
@@ -2001,13 +1969,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (12), data (2), [[Security]] (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (12)
 > **Env Vars:** wan (1), ssid (1), wpa2 (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Securing a virtual environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/securing-a-virtual-environment?u=76281980)
+#### [Securing a virtual environment](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/securing-a-virtual-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2019,7 +1986,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/securing-a-virtual-environment?u=76281980&t=29)** Fast forward to the 1980s and 1990s when networks grew in size and capacity the data center would most likely have racks of blade servers to support the needs of the organization.
 >
-> **[0:44](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/securing-a-virtual-environment?u=76281980&t=44)** However, over time, computer hardware costs have declined.
+> **[0:44](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/securing-a-virtual-environment?u=76281980&t=44)** However, over time, computer [[Hardware]] costs have declined.
 >
 > **[0:48](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/securing-a-virtual-environment?u=76281980&t=48)** Here we can see in this graphic, hard drive cost per gigabyte in the 1980s, it was nearly prohibitive and then in 2015, we see that it's nearly free.
 >
@@ -2027,11 +1994,11 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/securing-a-virtual-environment?u=76281980&t=86)** Virtualization is running multiple operating systems and applications on a single machine.
 >
-> **[1:33](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/securing-a-virtual-environment?u=76281980&t=93)** And I can be in one of two forms, hosted or bare metal.
+> **[1:33](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/securing-a-virtual-environment?u=76281980&t=93)** And I can be in one of two [[Forms]], hosted or bare metal.
 >
-> **[1:38](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/securing-a-virtual-environment?u=76281980&t=98)** With hosted virtualization, a native operating system like Windows or Mac is responsible for managing the resources.
+> **[1:38](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/securing-a-virtual-environment?u=76281980&t=98)** With hosted virtualization, a native operating system like [[Windows]] or Mac is responsible for managing the resources.
 >
-> **[1:47](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/securing-a-virtual-environment?u=76281980&t=107)** The Virtual Machine is a guest that sits on top of the native operating system and includes VirtualBox Vmware, Virtual PC for Microsoft, and Parallels for Windows and Mac.
+> **[1:47](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/securing-a-virtual-environment?u=76281980&t=107)** The Virtual Machine is a guest that sits on top of the native operating system and includes VirtualBox Vmware, Virtual PC for [[Microsoft]], and Parallels for Windows and Mac.
 >
 > **[2:02](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/securing-a-virtual-environment?u=76281980&t=122)** Bare metal virtualization uses a hypervisor that has direct access to the hardware resource and is the type of virtualization network administrators use in data centers.
 >
@@ -2041,7 +2008,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/securing-a-virtual-environment?u=76281980&t=150)** Cisco offers and Adaptive Security Virtual Appliance designed for virtual data centers and includes ASA firewall and VPN capabilities.
 >
-> **[2:42](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/securing-a-virtual-environment?u=76281980&t=162)** Keep in mind the data center is the heart of the organization whether it's a physical or virtual environment, a multilayer defense includes firewalls, switchport security intrusion detection, intrusion prevention and auditing.
+> **[2:42](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/securing-a-virtual-environment?u=76281980&t=162)** Keep in mind the data center is the heart of the organization whether it's a physical or virtual environment, a multilayer defense includes firewalls, switchport security [[Intrusion Detection]], intrusion prevention and auditing.
 >
 > **[2:59](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/securing-a-virtual-environment?u=76281980&t=179)** Even with all of the preparation and security as part of an overall security strategy, a business should prepare for disaster and have a business continuity plan.
 >
@@ -2057,7 +2024,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Virtualization]] (8), [[Security]] (7), data (5), business (4), [[Hardware]] (3)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[Windows]] (2), [[Forms]] (1), [[Microsoft]] (1), [[Intrusion Detection]] (1)
 > **Env Vars:** ibm (1), asa (1), vpn (1)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is a  (1)
@@ -2065,8 +2032,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Cost of a data breach
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/challenge-cost-of-a-data-breach-23668871?u=76281980)
+#### [Challenge: Cost of a data breach](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/challenge-cost-of-a-data-breach-23668871?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2088,14 +2054,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **UI Navigation:** go to (2)
 > **URLs:** [ibm.com](https://ibm.com) (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Cost of a data breach
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/solution-cost-of-a-data-breach-23671494?u=76281980)
+#### [Solution: Cost of a data breach](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/solution-cost-of-a-data-breach-23671494?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2109,7 +2073,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/solution-cost-of-a-data-breach-23671494?u=76281980&t=26)** First of all, we see this really large number, and this represents the global average of a total cost of a data breach in 2024 is $4.88 million.
 >
-> **[0:40](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/solution-cost-of-a-data-breach-23671494?u=76281980&t=40)** And then it talks about the fact that 30% of the breaches involved shadow data, which is data that is collected, stored, and managed outside of an organization's standard data management and IT policies.
+> **[0:40](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/solution-cost-of-a-data-breach-23671494?u=76281980&t=40)** And then it talks about the fact that 30% of the breaches involved shadow data, which is data that is collected, stored, and managed outside of an organization's standard [[Data Management]] and IT policies.
 >
 > **[0:57](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/solution-cost-of-a-data-breach-23671494?u=76281980&t=57)** Shadow data is dangerous as it's difficult to monitor and protect.
 >
@@ -2123,7 +2087,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/solution-cost-of-a-data-breach-23671494?u=76281980&t=81)** You'll also want to beef up your prevention strategies with AI and automation.
 >
-> **[1:29](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/solution-cost-of-a-data-breach-23671494?u=76281980&t=89)** And also, step up your incident response training so your team can move quickly to limit the effects of a data breach.
+> **[1:29](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/solution-cost-of-a-data-breach-23671494?u=76281980&t=89)** And also, step up your [[Incident Response]] training so your team can move quickly to limit the effects of a data breach.
 >
 > **[1:40](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/solution-cost-of-a-data-breach-23671494?u=76281980&t=100)** So now we'll go to eRiskHub, and I thought it'd be interesting to take a look at calculating costs based on your answers to these seven questions.
 >
@@ -2173,7 +2137,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), next (2), management (1), ai (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Data Management]] (1), [[Incident Response]] (1)
 > **UI Navigation:** scroll down (3), go to (2)
 > **CLI Commands:** find (1), make (1)
 > **Code Identifiers:** eriskhub (1)
@@ -2187,8 +2151,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/next-steps-2?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/next-steps-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2202,13 +2165,13 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/next-steps-2?u=76281980&t=35)** If you're interested in learning more, please check out the library where new courses are added all the time.
 >
-> **[0:42](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/next-steps-2?u=76281980&t=42)** You might want to check out Securing the IOT, Privacy.
+> **[0:42](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/next-steps-2?u=76281980&t=42)** You might want to check out Securing the [[IoT]], [[Privacy]].
 >
 > **[0:46](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/next-steps-2?u=76281980&t=46)** If you're interested in learning about security basics, check out my Foundations of IT Security.
 >
-> **[0:52](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/next-steps-2?u=76281980&t=52)** If you're interested in encryption, please check out my Learning Cryptography and Network Security.
+> **[0:52](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/next-steps-2?u=76281980&t=52)** If you're interested in encryption, please check out my Learning [[Cryptography]] and [[Network Security]].
 >
-> **[0:58](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/next-steps-2?u=76281980&t=58)** And any course in the Ethical Hacking series will be well worth your time.
+> **[0:58](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/next-steps-2?u=76281980&t=58)** And any course in the [[Ethical Hacking]] series will be well worth your time.
 >
 > **[1:02](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/next-steps-2?u=76281980&t=62)** For a complete list of courses, visit my author page.
 >
@@ -2216,7 +2179,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), [[Engineering]] (1), data (1), [[IoT]] (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[IoT]] (1), [[Privacy]] (1), [[Cryptography]] (1), [[Network Security]] (1), [[Ethical Hacking]] (1)
 > **Analogies:** such as (4)
 > **Env Vars:** cia (1), iot (1)
 > **Speakers:** - [instructor] (1)

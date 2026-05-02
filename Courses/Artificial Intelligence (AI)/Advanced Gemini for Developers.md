@@ -82,14 +82,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating enterprise GenAI apps with Google Gemini
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/creating-enterprise-genai-apps-with-google-gemini?u=76281980)
+#### [Creating enterprise GenAI apps with Google Gemini](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/creating-enterprise-genai-apps-with-google-gemini?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/creating-enterprise-genai-apps-with-google-gemini?u=76281980&t=0)** - [Lynn] Are you wondering how to build Google Gemini-based GenAI applications using your enterprise data?
+> **[0:00](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/creating-enterprise-genai-apps-with-google-gemini?u=76281980&t=0)** - [Lynn] Are you wondering how to build [[Google Gemini]]-based GenAI applications using your enterprise data?
 >
-> **[0:07](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/creating-enterprise-genai-apps-with-google-gemini?u=76281980&t=7)** With Google Cloud's Vertex AI suite of tools, you will accelerate time to value as you create and iterate on Gemini-based AI applications.
+> **[0:07](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/creating-enterprise-genai-apps-with-google-gemini?u=76281980&t=7)** With [[Google Cloud Platform (GCP)|Google Cloud]]'s [[Vertex]] AI suite of tools, you will accelerate time to value as you create and iterate on [[Gemini]]-based AI applications.
 >
 > **[0:16](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/creating-enterprise-genai-apps-with-google-gemini?u=76281980&t=16)** You'll learn to use Vertex AI tools for testing and managing prompt and model versions.
 >
@@ -105,7 +104,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Vertex]] (2), [[Gemini]] (2), [[Google Gemini]] (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Vertex]] (2), [[Gemini]] (2), [[Google Gemini]] (1)
 > **Speakers:** - [lynn] (1)
 
 
@@ -113,14 +112,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Test prompts with Prompt Tool
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-prompts-with-prompt-tool?u=76281980)
+#### [Test prompts with Prompt Tool](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-prompts-with-prompt-tool?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-prompts-with-prompt-tool?u=76281980&t=0)** - [Instructor] When you get ready to start building gen AI applications with your own enterprise data, how do you do that?
 >
-> **[0:06](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-prompts-with-prompt-tool?u=76281980&t=6)** Well, hopefully, you've watched my previous course, which is focused on understanding the capabilities of Gemini, and it uses the Google AI Studio, which you can see is mentioned here in the API documentation.
+> **[0:06](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-prompts-with-prompt-tool?u=76281980&t=6)** Well, hopefully, you've watched my previous course, which is focused on understanding the capabilities of [[Gemini]], and it uses the [[Google]] AI Studio, which you can see is mentioned here in the API documentation.
 >
 > **[0:20](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-prompts-with-prompt-tool?u=76281980&t=20)** I've got an entire separate course that goes through the fundamentals so that you can collaborate with your business product owners and develop your use cases before you're ready to build with your actual enterprise data.
 >
@@ -130,7 +128,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-prompts-with-prompt-tool?u=76281980&t=43)** Now, what would that environment be?
 >
-> **[0:45](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-prompts-with-prompt-tool?u=76281980&t=45)** That would be most likely a Google Cloud project.
+> **[0:45](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-prompts-with-prompt-tool?u=76281980&t=45)** That would be most likely a [[Google Cloud Platform (GCP)|Google Cloud]] project.
 >
 > **[0:49](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-prompts-with-prompt-tool?u=76281980&t=49)** So for this course, you can either watch my example or you can set up your own project.
 >
@@ -140,9 +138,9 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-prompts-with-prompt-tool?u=76281980&t=60)** Google does have a new capability though, that I'll show you in just a second, that can mitigate that.
 >
-> **[1:05](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-prompts-with-prompt-tool?u=76281980&t=65)** So to get started, you want to set up a Google Cloud project for learning, and you can see right on the front dashboard page, to work with Gemini, you just click this blue button, Try Gemini, and that's going to take you into the suite of tools that is called Vertex AI.
+> **[1:05](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-prompts-with-prompt-tool?u=76281980&t=65)** So to get started, you want to set up a Google Cloud project for learning, and you can see right on the front dashboard page, to work with Gemini, you just click this blue button, Try Gemini, and that's going to take you into the suite of tools that is called [[Vertex]] AI.
 >
-> **[1:21](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-prompts-with-prompt-tool?u=76281980&t=81)** Now, Vertex AI isn't just for generative AI or for Gemini and other models.
+> **[1:21](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-prompts-with-prompt-tool?u=76281980&t=81)** Now, Vertex AI isn't just for [[Generative AI]] or for Gemini and other models.
 >
 > **[1:27](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-prompts-with-prompt-tool?u=76281980&t=87)** It's for other more traditional machine learning models.
 >
@@ -184,7 +182,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-prompts-with-prompt-tool?u=76281980&t=199)** Notice it has prompt assistance.
 >
-> **[3:22](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-prompts-with-prompt-tool?u=76281980&t=202)** So, what is Google Gemini?
+> **[3:22](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-prompts-with-prompt-tool?u=76281980&t=202)** So, what is [[Google Gemini]]?
 >
 > **[3:24](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-prompts-with-prompt-tool?u=76281980&t=204)** I'll just do a little prompt just so we can see how this works, and we'll be working with this prompt environment quite a bit.
 >
@@ -198,7 +196,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), [[Google]] (7), [[Google Cloud Platform (GCP)|Google cloud]] (7), data (6), [[Gemini]] (6)
+> **Frameworks & Libraries:** [[Google]] (7), [[Google Cloud Platform (GCP)|Google cloud]] (7), [[Gemini]] (6), [[Vertex]] (6), [[Generative AI]] (4)
 > **Prerequisites:** set up (4), prerequisite (1)
 > **Definitions:** is a  (3), is called (1)
 > **Analogies:** just like (1), similar to (1)
@@ -207,16 +205,15 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configure Prompt Tool
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/configure-prompt-tool?u=76281980)
+#### [Configure Prompt Tool](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/configure-prompt-tool?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/configure-prompt-tool?u=76281980&t=0)** - [Instructor] Now as you're working in Vertex AI, you maybe are starting here, maybe you haven't used Google AI Studio.
+> **[0:00](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/configure-prompt-tool?u=76281980&t=0)** - [Instructor] Now as you're working in [[Vertex]] AI, you maybe are starting here, maybe you haven't used [[Google]] AI Studio.
 >
-> **[0:06](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/configure-prompt-tool?u=76281980&t=6)** One thing that I want to point out is the different documentation for the different products.
+> **[0:06](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/configure-prompt-tool?u=76281980&t=6)** One thing that I want to point out is the different documentation for the different [[Microsoft Products|products]].
 >
-> **[0:10](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/configure-prompt-tool?u=76281980&t=10)** Previous movie, we looked at the Gemini API documentation, the prompt guidance, which is important, but I also want to call out that we have the generative AI on Vertex AI documentation, which to me is a step up from some of the API documentation.
+> **[0:10](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/configure-prompt-tool?u=76281980&t=10)** Previous movie, we looked at the [[Gemini]] API documentation, the prompt guidance, which is important, but I also want to call out that we have the [[Generative AI]] on Vertex AI documentation, which to me is a step up from some of the API documentation.
 >
 > **[0:26](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/configure-prompt-tool?u=76281980&t=26)** It has the enterprise information that you're going to need around securing your application on more rigorous testing.
 >
@@ -228,11 +225,11 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/configure-prompt-tool?u=76281980&t=49)** Notice that you have the ability to work in different environments.
 >
-> **[0:52](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/configure-prompt-tool?u=76281980&t=52)** You can use Colab, Colab Enterprise, which is associated with your Google Cloud project, and we will be using.
+> **[0:52](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/configure-prompt-tool?u=76281980&t=52)** You can use Colab, Colab Enterprise, which is associated with your [[Google Cloud Platform (GCP)|Google Cloud]] project, and we will be using.
 >
-> **[0:58](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/configure-prompt-tool?u=76281980&t=58)** We can open in a Vertex AI Workbench or a View on GitHub.
+> **[0:58](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/configure-prompt-tool?u=76281980&t=58)** We can open in a Vertex AI Workbench or a View on [[GitHub]].
 >
-> **[1:02](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/configure-prompt-tool?u=76281980&t=62)** I really like this prompt engineering workflow because when you're moving from ideation to your first minimum viable LLM application, you're going to put some engineering rigor around prompt management.
+> **[1:02](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/configure-prompt-tool?u=76281980&t=62)** I really like this [[Prompt Engineering]] workflow because when you're moving from ideation to your first minimum viable LLM application, you're going to put some engineering rigor around prompt management.
 >
 > **[1:16](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/configure-prompt-tool?u=76281980&t=76)** So you can see here, this shows you basic best practices to define tasks, write prompts, and then test the prompts using Vertex AI services and Gemini APIs.
 >
@@ -248,11 +245,11 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/configure-prompt-tool?u=76281980&t=130)** And it really takes away from the quality of the applications.
 >
-> **[2:13](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/configure-prompt-tool?u=76281980&t=133)** Large language models are based on language.
+> **[2:13](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/configure-prompt-tool?u=76281980&t=133)** [[Large Language Models (LLM)|Large language models]] are based on language.
 >
 > **[2:17](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/configure-prompt-tool?u=76281980&t=137)** So this focus on prompt engineering and giving it adequate time during the application lifecycle is really the differentiator between whether you're LLM application is going to provide actual business value or not.
 >
-> **[2:32](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/configure-prompt-tool?u=76281980&t=152)** Because these are not our traditional algorithms, these are a new type of approach to computation, and they do require this care and consideration.
+> **[2:32](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/configure-prompt-tool?u=76281980&t=152)** Because these are not our traditional [[Algorithms]], these are a new type of approach to computation, and they do require this care and consideration.
 >
 > **[2:41](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/configure-prompt-tool?u=76281980&t=161)** So you want to follow everything that's listed here.
 >
@@ -290,7 +287,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (7), ai (6), [[Vertex]] (5), application (4), [[Google]] (3)
+> **Frameworks & Libraries:** [[Vertex]] (5), [[Google]] (3), [[Gemini]] (3), [[Prompt Engineering]] (2), [[Microsoft Products|Products]] (1)
 > **Env Vars:** api (3), llm (2)
 > **Tools:** colab (2), github (1)
 > **Definitions:** is a  (2)
@@ -299,26 +296,25 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use Colab Enterprise with the Gemini API
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-colab-enterprise-with-the-gemini-api?u=76281980)
+#### [Use Colab Enterprise with the Gemini API](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-colab-enterprise-with-the-gemini-api?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-colab-enterprise-with-the-gemini-api?u=76281980&t=0)** - [Instructor] Now as you're moving from prompt testing to application building, you are going to want to take your work from this interface and you're going to want to capture it as code so that you can check it into source control and integrate it to your application.
 >
-> **[0:15](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-colab-enterprise-with-the-gemini-api?u=76281980&t=15)** And Google has added some capability to make that even easier in this release of Vertex AI.
+> **[0:15](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-colab-enterprise-with-the-gemini-api?u=76281980&t=15)** And [[Google]] has added some capability to make that even easier in this release of [[Vertex]] AI.
 >
 > **[0:22](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-colab-enterprise-with-the-gemini-api?u=76281980&t=22)** So if I look at this prompt and I want to move to the next step, I have this new build with code button and I have a couple of options.
 >
 > **[0:30](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-colab-enterprise-with-the-gemini-api?u=76281980&t=30)** I can get the code, I can deploy it as an app, or I can open it as a Jupyter Notebook powered by Colab Enterprise.
 >
-> **[0:40](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-colab-enterprise-with-the-gemini-api?u=76281980&t=40)** And in case you're not familiar, I know a lot of people have used Google's public SaaS Colab, which is a pay for the service, and Google hosts it for many, many years.
+> **[0:40](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-colab-enterprise-with-the-gemini-api?u=76281980&t=40)** And in case you're not familiar, I know a lot of people have used Google's public [[SaaS]] Colab, which is a pay for the service, and Google hosts it for many, many years.
 >
 > **[0:51](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-colab-enterprise-with-the-gemini-api?u=76281980&t=51)** Relatively recently, they created a version of Colab called Colab Enterprise, which is notebooks as a service, but inside of Vertex AI.
 >
 > **[1:01](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-colab-enterprise-with-the-gemini-api?u=76281980&t=61)** So it's the same idea.
 >
-> **[1:03](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-colab-enterprise-with-the-gemini-api?u=76281980&t=63)** It's a Jupyter Notebook, but, and if I click here, you can see it's integrated in Google Cloud platform via Vertex AI.
+> **[1:03](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-colab-enterprise-with-the-gemini-api?u=76281980&t=63)** It's a Jupyter Notebook, but, and if I click here, you can see it's integrated in [[Google Cloud Platform (GCP)|Google Cloud platform]] via Vertex AI.
 >
 > **[1:11](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-colab-enterprise-with-the-gemini-api?u=76281980&t=71)** And it's integrated also to BigQuery as well.
 >
@@ -332,7 +328,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-colab-enterprise-with-the-gemini-api?u=76281980&t=106)** And then I'm going to use the library.
 >
-> **[1:50](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-colab-enterprise-with-the-gemini-api?u=76281980&t=110)** And notice I have a client, and it's using my current project name gemini-langit in us-central1.
+> **[1:50](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-colab-enterprise-with-the-gemini-api?u=76281980&t=110)** And notice I have a client, and it's using my current project name [[Gemini]]-langit in us-central1.
 >
 > **[1:56](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-colab-enterprise-with-the-gemini-api?u=76281980&t=116)** And here it's capturing the message2_text1 variable, the response.
 >
@@ -348,13 +344,13 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-colab-enterprise-with-the-gemini-api?u=76281980&t=152)** So the temperature, top_p, max_tokens, all that, and that's picked up from that UI.
 >
-> **[2:39](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-colab-enterprise-with-the-gemini-api?u=76281980&t=159)** So the idea is, and I have to restart this, the idea is that after you've iterated in that GUI interface, you can capture the code and then you can start integrating this into your application development using this notebook format.
+> **[2:39](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-colab-enterprise-with-the-gemini-api?u=76281980&t=159)** So the idea is, and I have to restart this, the idea is that after you've iterated in that GUI interface, you can capture the code and then you can start integrating this into your [[Application Development]] using this notebook format.
 >
 > **[2:54](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-colab-enterprise-with-the-gemini-api?u=76281980&t=174)** And once this runs, it'll then show the result.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), prompt (4), [[Google]] (4), [[Vertex]] (4), application (2)
+> **Frameworks & Libraries:** [[Google]] (4), [[Vertex]] (4), [[Gemini]] (2), [[SaaS]] (1), [[Google Cloud Platform (GCP)|Google cloud platform]] (1)
 > **Tools:** colab (5), jupyter (2)
 > **CLI Commands:** make (1), pip (1)
 > **Code Identifiers:** from_text (1), max_tokens (1)
@@ -363,12 +359,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** install (1)
 
-#### Use CloudRun with the Gemini API
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-cloudrun-with-the-gemini-api?u=76281980)
+#### [Use CloudRun with the Gemini API](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-cloudrun-with-the-gemini-api?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-cloudrun-with-the-gemini-api?u=76281980&t=0)** - [Instructor] So in addition to using Colab Enterprise notebooks, a very new capability in Vertex AI is the ability to deploy as a Cloud Run app.
+> **[0:00](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-cloudrun-with-the-gemini-api?u=76281980&t=0)** - [Instructor] So in addition to using Colab Enterprise notebooks, a very new capability in [[Vertex]] AI is the ability to deploy as a Cloud Run app.
 >
 > **[0:11](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-cloudrun-with-the-gemini-api?u=76281980&t=11)** This is so cool; I don't know how else to say it.
 >
@@ -390,7 +385,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-cloudrun-with-the-gemini-api?u=76281980&t=64)** You want to work with the app inside of Vertex AI.
 >
-> **[1:08](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-cloudrun-with-the-gemini-api?u=76281980&t=68)** So once you have built it, and you have to save the prompt, and you also will be prompted from Google to turn on all the APIs like Cloud Build and Cloud Run that are needed to have this deployment; it's a one-time process.
+> **[1:08](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-cloudrun-with-the-gemini-api?u=76281980&t=68)** So once you have built it, and you have to save the prompt, and you also will be prompted from [[Google]] to turn on all the APIs like Cloud Build and Cloud Run that are needed to have this deployment; it's a one-time process.
 >
 > **[1:22](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-cloudrun-with-the-gemini-api?u=76281980&t=82)** It took me about 5, 10 minutes for this to get set up.
 >
@@ -404,7 +399,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-cloudrun-with-the-gemini-api?u=76281980&t=98)** Remember, we set it up for college students.
 >
-> **[1:40](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-cloudrun-with-the-gemini-api?u=76281980&t=100)** So what else can you tell me about Gemini 2.5 models?
+> **[1:40](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-cloudrun-with-the-gemini-api?u=76281980&t=100)** So what else can you tell me about [[Gemini]] 2.5 models?
 >
 > **[1:48](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-cloudrun-with-the-gemini-api?u=76281980&t=108)** You know, it's just a simple little interactive environment that you can use based on your work in the prompt gallery.
 >
@@ -430,7 +425,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (7), [[Vertex]] (5), ai (5), prompt (4), business (3)
+> **Frameworks & Libraries:** [[Vertex]] (5), [[Google]] (2), [[Gemini]] (1)
 > **Prerequisites:** set up (3)
 > **Env Vars:** url (2)
 > **UI Navigation:** open the (1), go to (1)
@@ -444,12 +439,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use Prompt Management to write prompts
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-write-prompts?u=76281980)
+#### [Use Prompt Management to write prompts](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-write-prompts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-write-prompts?u=76281980&t=0)** - [Host] Now we've been working in Vertex AI creating the prompt in this window, and there's a new capability.
+> **[0:00](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-write-prompts?u=76281980&t=0)** - [Host] Now we've been working in [[Vertex]] AI creating the prompt in this window, and there's a new capability.
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-write-prompts?u=76281980&t=6)** And here's the documentation for it, called prompt management.
 >
@@ -469,7 +463,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-write-prompts?u=76281980&t=55)** So in addition to that, you have some other capabilities.
 >
-> **[0:58](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-write-prompts?u=76281980&t=58)** If we look at this prompt management web UI and some of them are integrated and Google is working to integrate more and more, you can see at the time of this recording, for example, the optimize is still in preview.
+> **[0:58](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-write-prompts?u=76281980&t=58)** If we look at this prompt management web UI and some of them are integrated and [[Google]] is working to integrate more and more, you can see at the time of this recording, for example, the optimize is still in preview.
 >
 > **[1:09](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-write-prompts?u=76281980&t=69)** So this is a prompt lifecycle management.
 >
@@ -487,7 +481,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-write-prompts?u=76281980&t=100)** So this is integrated into this UI and also the create prompt UI.
 >
-> **[1:45](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-write-prompts?u=76281980&t=105)** If I click this and I click open and we say, write your prompt example, what is Gemini 2.X model capabilities?
+> **[1:45](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-write-prompts?u=76281980&t=105)** If I click this and I click open and we say, write your prompt example, what is [[Gemini]] 2.X model capabilities?
 >
 > **[1:58](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-write-prompts?u=76281980&t=118)** Okay, and then I'm going to generate prompt.
 >
@@ -541,7 +535,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (26), management (5), [[Vertex]] (4), ai (4), web (3)
+> **Frameworks & Libraries:** [[Vertex]] (4), [[Google]] (3), [[Gemini]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** sdk (1)
 > **Documentation:** the documentation (1)
@@ -549,8 +543,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [host] (1)
 
-#### Use Prompt Management to compare prompts
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-compare-prompts?u=76281980)
+#### [Use Prompt Management to compare prompts](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-compare-prompts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -566,7 +559,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-compare-prompts?u=76281980&t=28)** So I thought, okay, I want to see if I can do it from the other interface, and it does work that way.
 >
-> **[0:34](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-compare-prompts?u=76281980&t=34)** So again, this is probably something that Google will update over time.
+> **[0:34](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-compare-prompts?u=76281980&t=34)** So again, this is probably something that [[Google]] will update over time.
 >
 > **[0:38](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-compare-prompts?u=76281980&t=38)** So if I open this prompt and I open the compare tool from the prompt, and I say continue, it will load it in, which is what I wanted it to do.
 >
@@ -602,13 +595,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (13), management (4), web (2), [[Google]] (2), next (1)
+> **Frameworks & Libraries:** [[Google]] (2)
 > **CLI Commands:** make (2)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [host] (1)
 
-#### Use Prompt Management to optimize prompts
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-optimize-prompts?u=76281980)
+#### [Use Prompt Management to optimize prompts](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-optimize-prompts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -620,7 +612,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-optimize-prompts?u=76281980&t=32)** So you can see this is really, really early in its release, so I'm sure some of the features are going to have some of the rough edges smoothed out by the time you watch this.
 >
-> **[0:41](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-optimize-prompts?u=76281980&t=41)** So you can see that this is explaining how this works, so Vertex AI prompt optimizer to automatically optimize prompt performance by improving the system instructions for a set of prompts, and you can improve your prompts at scale without manually rewriting system instructions or individual prompts.
+> **[0:41](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-optimize-prompts?u=76281980&t=41)** So you can see that this is explaining how this works, so [[Vertex]] AI prompt optimizer to automatically optimize prompt performance by improving the system instructions for a set of prompts, and you can improve your prompts at scale without manually rewriting system instructions or individual prompts.
 >
 > **[0:59](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-optimize-prompts?u=76281980&t=59)** Super useful.
 >
@@ -638,7 +630,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-optimize-prompts?u=76281980&t=114)** The metric, so you're going to select which metric you're going to evaluate against, and then the target model.
 >
-> **[2:02](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-optimize-prompts?u=76281980&t=122)** So as you can see, at the end of the job, the Vertex AI prompt optimizer outputs the optimized system instructions with their evaluation score, and so it'll show the instructions, and this is supported for Gemini and Gemini Experimental models, so the 2.X series, and here's a list, I think this is pretty important to understand how this works, of supported evaluation metrics, so you have model-based, things like summarization, question answering, coherence, safety, groundedness.
+> **[2:02](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-optimize-prompts?u=76281980&t=122)** So as you can see, at the end of the job, the Vertex AI prompt optimizer outputs the optimized system instructions with their evaluation score, and so it'll show the instructions, and this is supported for [[Gemini]] and Gemini Experimental models, so the 2.X series, and here's a list, I think this is pretty important to understand how this works, of supported evaluation metrics, so you have model-based, things like summarization, question answering, coherence, safety, groundedness.
 >
 > **[2:29](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-optimize-prompts?u=76281980&t=149)** That's one I definitely use. How grounded is the response?
 >
@@ -654,15 +646,15 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-optimize-prompts?u=76281980&t=194)** Your input is where you're going to have your samples, and they have to be in a certain format, and here's the link to where you'd use that, and here's where they're saying use 50 to 100 samples.
 >
-> **[3:24](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-optimize-prompts?u=76281980&t=204)** So I'll certainly be trying this out, either when I have a customer that needs it or when Google provides me with a sample library, and then you configure the optimization settings.
+> **[3:24](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-optimize-prompts?u=76281980&t=204)** So I'll certainly be trying this out, either when I have a customer that needs it or when [[Google]] provides me with a sample library, and then you configure the optimization settings.
 >
 > **[3:33](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-optimize-prompts?u=76281980&t=213)** so the target, model, the optimization mode, evaluation metrics, translation source field name, and then you can do advanced optimization, and gives a reference, and then you run the prompt optimizer, and then you get the results.
 >
-> **[3:53](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-optimize-prompts?u=76281980&t=233)** So I'm really excited to try this out because it is an automated way of looking at the prompt, and this is something that I haven't really had in my toolbox, so as I continue to work with this, I will post on my GitHub repo with my progress.
+> **[3:53](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-optimize-prompts?u=76281980&t=233)** So I'm really excited to try this out because it is an automated way of looking at the prompt, and this is something that I haven't really had in my toolbox, so as I continue to work with this, I will post on my [[GitHub]] repo with my progress.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (11), management (2), [[Vertex]] (2), ai (2), [[Gemini]] (2)
+> **Frameworks & Libraries:** [[Vertex]] (2), [[Gemini]] (2), [[Google]] (1), [[GitHub]] (1)
 > **Exercise Files:** template (3), github repo (1)
 > **Prerequisites:** configure (2), install (1)
 > **Documentation:** the documentation (1), the docs (1)
@@ -671,8 +663,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 
-#### Use Prompt Management to evaluate prompts
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-evaluate-prompts?u=76281980)
+#### [Use Prompt Management to evaluate prompts](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-evaluate-prompts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -680,7 +671,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-evaluate-prompts?u=76281980&t=9)** This is such a powerful set of tools that I have been exploring with my customers and really excited to share with you here.
 >
-> **[0:18](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-evaluate-prompts?u=76281980&t=18)** This is something that could actually warrant a course all on its own because Google provides a number of very configurable and powerful tools to automate the evaluation of different models, different prompts, as you are building.
+> **[0:18](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-evaluate-prompts?u=76281980&t=18)** This is something that could actually warrant a course all on its own because [[Google]] provides a number of very configurable and powerful tools to automate the evaluation of different models, different prompts, as you are building.
 >
 > **[0:33](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-evaluate-prompts?u=76281980&t=33)** So to start, before we go into the notebook, you should take a look at the evaluation process because again, in the world of LLM application building, automating and applying engineering principles to this is so new that I find that I really don't have any customers that have their heads around this yet.
 >
@@ -718,7 +709,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-evaluate-prompts?u=76281980&t=121)** So judge model is more scalable.
 >
-> **[2:03](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-evaluate-prompts?u=76281980&t=123)** The Gen AI evaluation service uses a configured Gemini 2.0 flash model by default as a judge model.
+> **[2:03](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-evaluate-prompts?u=76281980&t=123)** The Gen AI evaluation service uses a configured [[Gemini]] 2.0 flash model by default as a judge model.
 >
 > **[2:09](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-evaluate-prompts?u=76281980&t=129)** But you can customize that and here it talks about how to prepare.
 >
@@ -728,7 +719,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-evaluate-prompts?u=76281980&t=148)** But just to kind of get us started with this, we're not going to go all the way through it, you know, do open the table contents.
 >
-> **[2:35](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-evaluate-prompts?u=76281980&t=155)** So you're going to use the Vertex AI Python SDK for Gen AI evaluation for models, including Gemini and also some other models at the end, they have some third party models.
+> **[2:35](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-evaluate-prompts?u=76281980&t=155)** So you're going to use the [[Vertex]] AI [[Python (Programming Language)|Python]] SDK for Gen AI evaluation for models, including Gemini and also some other models at the end, they have some third party models.
 >
 > **[2:47](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-evaluate-prompts?u=76281980&t=167)** So the Gen AI Evaluation Service.
 >
@@ -746,13 +737,13 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-evaluate-prompts?u=76281980&t=201)** And since this is a Gemini course, we'll focus on that.
 >
-> **[3:24](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-evaluate-prompts?u=76281980&t=204)** I do know though, and I do have customers that use third party and open models such as Llama.
+> **[3:24](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-evaluate-prompts?u=76281980&t=204)** I do know though, and I do have customers that use third party and open models such as [[LLaMA]].
 >
 > **[3:30](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-evaluate-prompts?u=76281980&t=210)** And then we also have Claude 3.5 here.
 >
 > **[3:33](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-evaluate-prompts?u=76281980&t=213)** So this really long example has the third party models at the end.
 >
-> **[3:39](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-evaluate-prompts?u=76281980&t=219)** And then we have prompt engineering.
+> **[3:39](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-evaluate-prompts?u=76281980&t=219)** And then we have [[Prompt Engineering]].
 >
 > **[3:41](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-evaluate-prompts?u=76281980&t=221)** Explore the impact of prompt design on model performance.
 >
@@ -760,7 +751,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-evaluate-prompts?u=76281980&t=228)** So the first thing is you have to pip install the service.
 >
-> **[3:51](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-evaluate-prompts?u=76281980&t=231)** So it's Google Cloud AI platform evaluation, and then install, you know, if you're using Anthropic, in this case, an open AI.
+> **[3:51](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-evaluate-prompts?u=76281980&t=231)** So it's [[Google Cloud Platform (GCP)|Google Cloud]] AI platform evaluation, and then install, you know, if you're using Anthropic, in this case, an open AI.
 >
 > **[3:58](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-evaluate-prompts?u=76281980&t=238)** And then restart the runtime.
 >
@@ -776,7 +767,7 @@ created: 2026-05-02
 >
 > **[4:18](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-evaluate-prompts?u=76281980&t=258)** And it's a collection of augmented FLAN collection data.
 >
-> **[4:22](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-evaluate-prompts?u=76281980&t=262)** And there is 1 million GPT-4 completions and 3.2 million GPT 3.5 completions.
+> **[4:22](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-evaluate-prompts?u=76281980&t=262)** And there is 1 million [[GPT-4]] completions and 3.2 million GPT 3.5 completions.
 >
 > **[4:27](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-evaluate-prompts?u=76281980&t=267)** It's tabularized in alignment with the distributions presented in the Orca paper, and currently represents a partial completion of the full intended data set.
 >
@@ -802,7 +793,7 @@ created: 2026-05-02
 >
 > **[5:19](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-evaluate-prompts?u=76281980&t=319)** So supported metrics are available.
 >
-> **[5:23](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-evaluate-prompts?u=76281980&t=323)** So the datasets can be pandas data frame, Python dictionaries or file path your eyes.
+> **[5:23](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-evaluate-prompts?u=76281980&t=323)** So the datasets can be [[Pandas (Software)|pandas]] data frame, Python dictionaries or file path your eyes.
 >
 > **[5:28](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-evaluate-prompts?u=76281980&t=328)** So you have bring your own response, performing model inference without a prompt template or performing model inference with a prompt template.
 >
@@ -860,7 +851,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (7), [[Gemini]] (7), data (6), ai (6), llm (3)
+> **Frameworks & Libraries:** [[Gemini]] (7), [[Python (Programming Language)|Python]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Google]] (1), [[Vertex]] (1)
 > **Env Vars:** llm (3), sdk (2), gpt (2), flan (1)
 > **Versions:** 2.0 (3), 3.5 (2), 3.2 (1), 2.5 (1)
 > **CLI Commands:** python (2), find (1), pip (1)
@@ -874,14 +865,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Test Gemini and Gemma models
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-gemini-and-gemma-models?u=76281980)
+#### [Test Gemini and Gemma models](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-gemini-and-gemma-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-gemini-and-gemma-models?u=76281980&t=0)** - [Instructor] In addition to using Gemini in your LLM application, it's becoming increasingly common to use multiple types of generative AI models, because there are different categories.
+> **[0:00](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-gemini-and-gemma-models?u=76281980&t=0)** - [Instructor] In addition to using [[Gemini]] in your LLM application, it's becoming increasingly common to use multiple types of [[Generative AI]] models, because there are different categories.
 >
-> **[0:11](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-gemini-and-gemma-models?u=76281980&t=11)** There are open source, there are task-specific, and Vertex AI interface accounts for this in the Model Garden.
+> **[0:11](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-gemini-and-gemma-models?u=76281980&t=11)** There are open source, there are task-specific, and [[Vertex]] AI interface accounts for this in the Model Garden.
 >
 > **[0:19](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-gemini-and-gemma-models?u=76281980&t=19)** So the Model Garden has access to Gemini in its model families, but it also has access to literally hundreds of other types of models.
 >
@@ -891,11 +881,11 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-gemini-and-gemma-models?u=76281980&t=56)** So this is talked about in the Model Garden overview here.
 >
-> **[1:00](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-gemini-and-gemma-models?u=76281980&t=60)** Gemma is the open version of Gemini, so it is commonly used in research publications and when custom data is added via fine tuning.
+> **[1:00](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-gemini-and-gemma-models?u=76281980&t=60)** Gemma is the open version of Gemini, so it is commonly used in research publications and when custom data is added via [[Fine Tuning]].
 >
 > **[1:10](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-gemini-and-gemma-models?u=76281980&t=70)** So let's take a look at that process.
 >
-> **[1:12](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-gemini-and-gemma-models?u=76281980&t=72)** So if we go back to the Model Garden, if we weren't aware of what models were there, we could go to the filters here, and we could say, okay, I want to use some sort of Google model, and I want to use an open source model, what should I use?
+> **[1:12](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-gemini-and-gemma-models?u=76281980&t=72)** So if we go back to the Model Garden, if we weren't aware of what models were there, we could go to the filters here, and we could say, okay, I want to use some sort of [[Google]] model, and I want to use an open source model, what should I use?
 >
 > **[1:26](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-gemini-and-gemma-models?u=76281980&t=86)** And here's our recommendation to use Gemma 3.
 >
@@ -903,9 +893,9 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-gemini-and-gemma-models?u=76281980&t=93)** And to work with these models, what you need to do is, you need to deploy them to an endpoint.
 >
-> **[1:40](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-gemini-and-gemma-models?u=76281980&t=100)** And an endpoint is basically a hosting environment where you can make rest calls or API calls and test them out.
+> **[1:40](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-gemini-and-gemma-models?u=76281980&t=100)** And an endpoint is basically a hosting environment where you can make [[Representational State Transfer (REST)|rest]] calls or API calls and test them out.
 >
-> **[1:48](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-gemini-and-gemma-models?u=76281980&t=108)** So you can deploy here to just an endpoint, or if you want to scale this up, you can deploy to Kubernetes.
+> **[1:48](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-gemini-and-gemma-models?u=76281980&t=108)** So you can deploy here to just an endpoint, or if you want to scale this up, you can deploy to [[Kubernetes]].
 >
 > **[1:54](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-gemini-and-gemma-models?u=76281980&t=114)** And once you deploy, then you can select the endpoint in this interface and just quickly test.
 >
@@ -927,7 +917,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-gemini-and-gemma-models?u=76281980&t=174)** So basically this notebook is how you deploy to that endpoint.
 >
-> **[2:59](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-gemini-and-gemma-models?u=76281980&t=179)** So, you set your Google Cloud project, and it warns you about quota, because you're going to be using GPUs, so make sure you have a quota in the project.
+> **[2:59](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-gemini-and-gemma-models?u=76281980&t=179)** So, you set your [[Google Cloud Platform (GCP)|Google Cloud]] project, and it warns you about quota, because you're going to be using GPUs, so make sure you have a quota in the project.
 >
 > **[3:08](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-gemini-and-gemma-models?u=76281980&t=188)** And then you select the base model, and of course there's different capabilities in the model.
 >
@@ -941,13 +931,13 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-gemini-and-gemma-models?u=76281980&t=240)** So you can see, I've actually got another one that I'll be showing later here, but I have the Gemma model, and I have the Gemma endpoint here.
 >
-> **[4:07](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-gemini-and-gemma-models?u=76281980&t=247)** Now do be aware, if you're doing this on your own, these endpoints are basically running on virtual machines, and so they will incur charges.
+> **[4:07](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-gemini-and-gemma-models?u=76281980&t=247)** Now do be aware, if you're doing this on your own, these endpoints are basically running on [[Virtual Machines]], and so they will incur charges.
 >
 > **[4:15](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-gemini-and-gemma-models?u=76281980&t=255)** So make sure that when you're done testing this out, that you delete the endpoints and remove them from your project, 'cause you don't want to have unexpected charges.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (8), [[Vertex]] (2), ai (2), [[Google]] (2), api (2)
+> **Frameworks & Libraries:** [[Gemini]] (8), [[Vertex]] (2), [[Google]] (2), [[Generative AI]] (1), [[Fine Tuning]] (1)
 > **UI Navigation:** go to (2), select the (2), click on (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** api (2), llm (1)
@@ -956,8 +946,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1), make sure you have (1)
 > **Definitions:** is a  (1)
 
-#### Test open source models
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-open-source-models?u=76281980)
+#### [Test open source models](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-open-source-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -965,7 +954,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-open-source-models?u=76281980&t=7)** And I built this course in order of the way that I'm actually working with my customers.
 >
-> **[0:13](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-open-source-models?u=76281980&t=13)** We generally start with Google Gemini, because they have their data in Google Cloud and the ecosystem around Gemini is most fully mature.
+> **[0:13](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-open-source-models?u=76281980&t=13)** We generally start with [[Google Gemini]], because they have their data in [[Google Cloud Platform (GCP)|Google Cloud]] and the ecosystem around [[Gemini]] is most fully mature.
 >
 > **[0:23](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-open-source-models?u=76281980&t=23)** And for some business use cases, that works just great.
 >
@@ -973,13 +962,13 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-open-source-models?u=76281980&t=34)** And so they will maybe start with a commercial model, and then they might augment or add with open-source models.
 >
-> **[0:41](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-open-source-models?u=76281980&t=41)** And they might use Gemma, but the one that is getting a lot of attention is Llama.
+> **[0:41](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-open-source-models?u=76281980&t=41)** And they might use Gemma, but the one that is getting a lot of attention is [[LLaMA]].
 >
 > **[0:46](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-open-source-models?u=76281980&t=46)** And you can see that, if you look at the interface here, it's right at the top, Llama 4.
 >
 > **[0:52](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-open-source-models?u=76281980&t=52)** Now, one of the things that's really interesting, and of course, this is an open-source model from Meta, is that, if I click on View model here, I have a service.
 >
-> **[1:00](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-open-source-models?u=76281980&t=60)** So what Google has done, it's interesting, is they have set this up as a service and deployed it for you so that you don't have to go through the process of deploying an endpoint, like I had to do for Gemma.
+> **[1:00](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-open-source-models?u=76281980&t=60)** So what [[Google]] has done, it's interesting, is they have set this up as a service and deployed it for you so that you don't have to go through the process of deploying an endpoint, like I had to do for Gemma.
 >
 > **[1:13](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-open-source-models?u=76281980&t=73)** And you know, it took an hour or so and was kind of back-and-forth to get it set up.
 >
@@ -993,7 +982,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-open-source-models?u=76281980&t=96)** This is just for you to get started.
 >
-> **[1:38](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-open-source-models?u=76281980&t=98)** And if you're going to do any sort of load testing, you're going to have to deploy your own endpoint.
+> **[1:38](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-open-source-models?u=76281980&t=98)** And if you're going to do any sort of [[Load Testing]], you're going to have to deploy your own endpoint.
 >
 > **[1:43](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-open-source-models?u=76281980&t=103)** But if I say, "What is Meta Llama 4 best used for?"
 >
@@ -1035,7 +1024,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-open-source-models?u=76281980&t=193)** Anthropic is another really popular one for a source model.
 >
-> **[3:17](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-open-source-models?u=76281980&t=197)** And then the features, which ones are integrated to Vertex AI Studio.
+> **[3:17](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-open-source-models?u=76281980&t=197)** And then the features, which ones are integrated to [[Vertex]] AI Studio.
 >
 > **[3:21](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-open-source-models?u=76281980&t=201)** That's the prompt environment.
 >
@@ -1043,9 +1032,9 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-open-source-models?u=76281980&t=206)** That's a really common requirement.
 >
-> **[3:29](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-open-source-models?u=76281980&t=209)** Which ones have deployability for Google Kubernetes Engine and which ones have a demo.
+> **[3:29](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-open-source-models?u=76281980&t=209)** Which ones have deployability for Google [[Kubernetes]] Engine and which ones have a demo.
 >
-> **[3:34](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-open-source-models?u=76281980&t=214)** So really usable interface to find models, whether you're just looking for a set of open-source models, you know, in the Llama family, or if you look in the partners here, you know, Anthropic or models that are hosted on Hugging Face or models that are very task-specific.
+> **[3:34](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-open-source-models?u=76281980&t=214)** So really usable interface to find models, whether you're just looking for a set of open-source models, you know, in the Llama family, or if you look in the partners here, you know, Anthropic or models that are hosted on [[Hugging Face]] or models that are very task-specific.
 >
 > **[3:51](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-open-source-models?u=76281980&t=231)** So this is a direction that I'm seeing a lot of my customers go in.
 >
@@ -1063,7 +1052,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (7), [[LLaMA]] (5), open-source (3), llm (2), [[Gemini]] (2)
+> **Frameworks & Libraries:** [[Google]] (7), [[LLaMA]] (5), [[Gemini]] (2), [[Google Gemini]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Prerequisites:** set up (4)
 > **Env Vars:** llm (2), api (1)
 > **UI Navigation:** click on (2), go to (1)
@@ -1072,14 +1061,13 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Tools:** colab (1)
 
-#### Test Hugging Face
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-hugging-face?u=76281980)
+#### [Test Hugging Face](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-hugging-face?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-hugging-face?u=76281980&t=0)** - [Instructor] All right, let's say that I have a human biology specific task that I need to do as part of my LLM application and I want to search to see in Model Garden if there are any models that are going to help me.
 >
-> **[0:14](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-hugging-face?u=76281980&t=14)** So if I start typing the word bio, I can see that I've got two models that have bio in the name, which is helpful, but might not meet my specific need.
+> **[0:14](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-hugging-face?u=76281980&t=14)** So if I start typing the [[Microsoft Word|word]] bio, I can see that I've got two models that have bio in the name, which is helpful, but might not meet my specific need.
 >
 > **[0:25](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-hugging-face?u=76281980&t=25)** So I have BioGPT and BiomedCLIP.
 >
@@ -1105,7 +1093,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-hugging-face?u=76281980&t=70)** I noticed you have Advanced settings as well, so you can have availability on policies and whether the endpoint is public.
 >
-> **[1:17](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-hugging-face?u=76281980&t=77)** The idea here is that you're creating a wrapper around this particular service so you can call it via a REST call or a regular type of a call.
+> **[1:17](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-hugging-face?u=76281980&t=77)** The idea here is that you're creating a wrapper around this particular service so you can call it via a [[Representational State Transfer (REST)|REST]] call or a regular type of a call.
 >
 > **[1:25](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-hugging-face?u=76281980&t=85)** And you can also deploy this programmatically.
 >
@@ -1113,7 +1101,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-hugging-face?u=76281980&t=90)** So anyway, so once that's deployed, then you would use your notebook and then you can work with the model.
 >
-> **[1:38](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-hugging-face?u=76281980&t=98)** Well, in addition to the models that are available from the Model Garden, I mentioned in the previous video and now we'll talk about it in a little bit more detail, you have this partnership with Hugging Face.
+> **[1:38](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-hugging-face?u=76281980&t=98)** Well, in addition to the models that are available from the Model Garden, I mentioned in the previous video and now we'll talk about it in a little bit more detail, you have this partnership with [[Hugging Face]].
 >
 > **[1:49](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-hugging-face?u=76281980&t=109)** And if you're not familiar with Hugging Face, this is a model and data registry that has literally more than 1 million models.
 >
@@ -1135,9 +1123,9 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-hugging-face?u=76281980&t=149)** And if I want OpenBioLLM, this seems good to me.
 >
-> **[2:33](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-hugging-face?u=76281980&t=153)** What do I have to do to be able to use this on my data in Google Cloud?
+> **[2:33](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-hugging-face?u=76281980&t=153)** What do I have to do to be able to use this on my data in [[Google Cloud Platform (GCP)|Google Cloud]]?
 >
-> **[2:37](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-hugging-face?u=76281980&t=157)** I have to deploy it to a Vertex AI endpoint.
+> **[2:37](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-hugging-face?u=76281980&t=157)** I have to deploy it to a [[Vertex]] AI endpoint.
 >
 > **[2:40](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-hugging-face?u=76281980&t=160)** So that's the sort of commonality here.
 >
@@ -1151,7 +1139,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-hugging-face?u=76281980&t=181)** But anyway, (laughs) once this is deployed, then you're going to have a sample notebook as well.
 >
-> **[3:06](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-hugging-face?u=76281980&t=186)** So it's basically the open models on Hugging Face that are deployable from the Model Garden have a little bit more metadata to make it simpler to deploy.
+> **[3:06](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-hugging-face?u=76281980&t=186)** So it's basically the open models on Hugging Face that are deployable from the Model Garden have a little bit more [[Metadata]] to make it simpler to deploy.
 >
 > **[3:16](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-hugging-face?u=76281980&t=196)** Now, if you're on the Hugging Face side, and I pick a model here, just pick BioGPT, notice you can deploy to some of the other major clouds, but they don't have a Google Cloud interface inside of Hugging Face.
 >
@@ -1165,7 +1153,7 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-hugging-face?u=76281980&t=236)** And also the simple things like the filters can really help.
 >
-> **[4:00](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-hugging-face?u=76281980&t=240)** But I will tell you that you really want to come in here and search, like, all the time during the life cycle of building your application, because Google is adding more and more models here, which is great, because then you have this standard, you know, if I click on any of 'em, I have this standard interface on how to deploy them.
+> **[4:00](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-hugging-face?u=76281980&t=240)** But I will tell you that you really want to come in here and search, like, all the time during the life cycle of building your application, because [[Google]] is adding more and more models here, which is great, because then you have this standard, you know, if I click on any of 'em, I have this standard interface on how to deploy them.
 >
 > **[4:17](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-hugging-face?u=76281980&t=257)** And then once they're deployed, I have the example notebook which helps you get up and running, 'cause you don't have that in some of the other environments where models are.
 >
@@ -1173,7 +1161,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hugging Face]] (9), application (2), [[Search]] (2), data (2), [[Google Cloud Platform (GCP)|Google cloud]] (2)
+> **Frameworks & Libraries:** [[Hugging Face]] (9), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Metadata]] (2), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** llm (1), rest (1)
 > **Analogies:** for example (1), such as (1)
@@ -1182,12 +1170,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 
-#### Test medical open source models
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-medical-open-source-models?u=76281980)
+#### [Test medical open source models](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-medical-open-source-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-medical-open-source-models?u=76281980&t=0)** - [Instructor] A key question around building LLM applications is when should you use a commercial model like Gemini and when should you use an open source model?
+> **[0:00](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-medical-open-source-models?u=76281980&t=0)** - [Instructor] A key question around building LLM applications is when should you use a commercial model like [[Gemini]] and when should you use an open source model?
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-medical-open-source-models?u=76281980&t=8)** It's a hard question.
 >
@@ -1233,7 +1220,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-medical-open-source-models?u=76281980&t=112)** So I clicked open notebook and I started working on the notebook and I ran the import.
 >
-> **[2:00](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-medical-open-source-models?u=76281980&t=120)** I set up Google cloud environment and I used this library for the type of image data, DICOM data.
+> **[2:00](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-medical-open-source-models?u=76281980&t=120)** I set up [[Google Cloud Platform (GCP)|Google cloud]] environment and I used this library for the type of image data, DICOM data.
 >
 > **[2:08](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-medical-open-source-models?u=76281980&t=128)** I imported the deployed model.
 >
@@ -1241,7 +1228,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-medical-open-source-models?u=76281980&t=136)** And then I was saying, okay great, I can do my predictions.
 >
-> **[2:20](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-medical-open-source-models?u=76281980&t=140)** So it uses the path foundation model and it leverages the library to generate embeddings for a single patch and it's using information stored in the cloud, healthcare DICOM store and cloud storage.
+> **[2:20](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-medical-open-source-models?u=76281980&t=140)** So it uses the path foundation model and it leverages the library to generate embeddings for a single patch and it's using information stored in the cloud, healthcare DICOM store and [[Cloud Storage]].
 >
 > **[2:34](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-medical-open-source-models?u=76281980&t=154)** And I was ready to go, but unfortunately I got blocked.
 >
@@ -1263,7 +1250,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (7), data (6), llm (2), application (2), cloud (2)
+> **Frameworks & Libraries:** [[Gemini]] (7), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Cloud Storage]] (1)
 > **Env Vars:** dicom (3), llm (2), phi (1)
 > **Analogies:** for example (2)
 > **Prerequisites:** set up (1), setup (1)
@@ -1275,12 +1262,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explore AI applications and Vertex AI Search
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/explore-ai-applications-vertex-ai-search?u=76281980)
+#### [Explore AI applications and Vertex AI Search](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/explore-ai-applications-vertex-ai-search?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/explore-ai-applications-vertex-ai-search?u=76281980&t=0)** - [Instructor] Two weeks ago, at the time of this recording, the annual Google Cloud Next conference, Google announced a number of new features around agentic AI application development.
+> **[0:00](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/explore-ai-applications-vertex-ai-search?u=76281980&t=0)** - [Instructor] Two weeks ago, at the time of this recording, the annual [[Google Cloud Platform (GCP)|Google Cloud]] Next conference, [[Google]] announced a number of new features around agentic AI [[Application Development]].
 >
 > **[0:10](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/explore-ai-applications-vertex-ai-search?u=76281980&t=10)** You can think of this section of this course as a preview.
 >
@@ -1296,7 +1282,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/explore-ai-applications-vertex-ai-search?u=76281980&t=41)** And this is a change, as it says here, "What happened to Agent Builder?"
 >
-> **[0:45](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/explore-ai-applications-vertex-ai-search?u=76281980&t=45)** The original Vertex AI Agent Builder product has been renamed to AI Applications.
+> **[0:45](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/explore-ai-applications-vertex-ai-search?u=76281980&t=45)** The original [[Vertex]] AI Agent Builder product has been renamed to AI Applications.
 >
 > **[0:51](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/explore-ai-applications-vertex-ai-search?u=76281980&t=51)** And you're going to see this in the product console documentation in marketing.
 >
@@ -1304,7 +1290,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/explore-ai-applications-vertex-ai-search?u=76281980&t=58)** So inside of this, what are these?
 >
-> **[1:00](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/explore-ai-applications-vertex-ai-search?u=76281980&t=60)** So AI Applications allow us to tap into the power of Google's foundational models, so Gemini, search expertise and conversational AI technologies to create enterprise-grade GenAI applications.
+> **[1:00](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/explore-ai-applications-vertex-ai-search?u=76281980&t=60)** So AI Applications allow us to tap into the power of Google's foundational models, so [[Gemini]], search expertise and [[Conversational AI]] technologies to create enterprise-grade GenAI applications.
 >
 > **[1:13](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/explore-ai-applications-vertex-ai-search?u=76281980&t=73)** So it's a set of tools that allow us to combine in an agentic fashion all these different capabilities to create sophisticated applications which integrate Gemini and the associated model family.
 >
@@ -1344,7 +1330,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/explore-ai-applications-vertex-ai-search?u=76281980&t=190)** What do you get?
 >
-> **[3:12](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/explore-ai-applications-vertex-ai-search?u=76281980&t=192)** You get out-of-the-box, natural-language understanding and semantic search, and that's where the LLM is integrated, out-of-the-box capabilities to understand synonyms, spellings, auto-suggest generative AI, recommendations, you get a new AI applications console and APIs, and you get the ability to add search widgets on to a webpage.
+> **[3:12](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/explore-ai-applications-vertex-ai-search?u=76281980&t=192)** You get out-of-the-box, natural-language understanding and [[Semantic Search]], and that's where the LLM is integrated, out-of-the-box capabilities to understand synonyms, spellings, auto-suggest [[Generative AI]], recommendations, you get a new AI applications console and APIs, and you get the ability to add search widgets on to a webpage.
 >
 > **[3:33](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/explore-ai-applications-vertex-ai-search?u=76281980&t=213)** So this is super, super compelling.
 >
@@ -1358,7 +1344,7 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/explore-ai-applications-vertex-ai-search?u=76281980&t=242)** And the idea here from a real high level is basically it's making RAG much, much, much simpler.
 >
-> **[4:10](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/explore-ai-applications-vertex-ai-search?u=76281980&t=250)** All of the kind of low-level RAG stuff that we were doing last year, creating embeddings in VectorDB databases and all that kind of stuff you'll see is automated.
+> **[4:10](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/explore-ai-applications-vertex-ai-search?u=76281980&t=250)** All of the kind of low-level RAG stuff that we were doing last year, creating embeddings in VectorDB [[Databases]] and all that kind of stuff you'll see is automated.
 >
 > **[4:19](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/explore-ai-applications-vertex-ai-search?u=76281980&t=259)** So to have us take a look at where we'd work with this, the initial console has got some of the UI inside of Vertex AI, under Agent Builder.
 >
@@ -1376,7 +1362,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (21), ai (18), [[Vertex]] (8), data (8), [[Google]] (7)
+> **Frameworks & Libraries:** [[Vertex]] (8), [[Google]] (7), [[Gemini]] (4), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Application Development]] (1)
 > **Env Vars:** fhir (3), rag (2), api (1), llm (1)
 > **Definitions:** is a  (2), is called (1)
 > **CLI Commands:** make (1), find (1)
@@ -1384,8 +1370,7 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set up datastore for Vertex AI Search custom app
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/setup-datastore-for-vertex-ai-search-custom-app?u=76281980)
+#### [Set up datastore for Vertex AI Search custom app](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/setup-datastore-for-vertex-ai-search-custom-app?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1429,7 +1414,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/setup-datastore-for-vertex-ai-search-custom-app?u=76281980&t=117)** And then notice here that you have all these various sources.
 >
-> **[2:01](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/setup-datastore-for-vertex-ai-search-custom-app?u=76281980&t=121)** We're going to use cloud storage of, course, but you have BigQuery website, FHIR, API, Cloud SQL, Spanner, Bigtable, FHIR Store, LADB, and Workspace Sources, Google Drive, Gmail, Sites, Calendar, and Google Groups.
+> **[2:01](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/setup-datastore-for-vertex-ai-search-custom-app?u=76281980&t=121)** We're going to use [[Cloud Storage]] of, course, but you have BigQuery website, FHIR, API, Cloud [[SQL]], Spanner, Bigtable, FHIR Store, LADB, and Workspace Sources, [[Google Drive]], Gmail, Sites, Calendar, and [[Google]] Groups.
 >
 > **[2:15](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/setup-datastore-for-vertex-ai-search-custom-app?u=76281980&t=135)** So all your enterprise data.
 >
@@ -1461,7 +1446,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/setup-datastore-for-vertex-ai-search-custom-app?u=76281980&t=199)** So I made this data store for search.
 >
-> **[3:23](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/setup-datastore-for-vertex-ai-search-custom-app?u=76281980&t=203)** And this is that JSON file.
+> **[3:23](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/setup-datastore-for-vertex-ai-search-custom-app?u=76281980&t=203)** And this is that [[JSON]] file.
 >
 > **[3:25](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/setup-datastore-for-vertex-ai-search-custom-app?u=76281980&t=205)** And you can see that I have the documents, 'cause I did this a while ago, it's already been indexed.
 >
@@ -1481,15 +1466,15 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/setup-datastore-for-vertex-ai-search-custom-app?u=76281980&t=237)** It's just a little bit, like I said, unintuitive, because if you click in here, it's like start with an app, while you have to have your data set up in the appropriate format.
 >
-> **[4:06](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/setup-datastore-for-vertex-ai-search-custom-app?u=76281980&t=246)** And again, just 'cause I know some of you will be interested in BigQuery, BigQuery has these values for your data structured with metadata media, unstructured healthcare, and then you have your BigQuery table.
+> **[4:06](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/setup-datastore-for-vertex-ai-search-custom-app?u=76281980&t=246)** And again, just 'cause I know some of you will be interested in BigQuery, BigQuery has these values for your data structured with [[Metadata]] media, unstructured healthcare, and then you have your BigQuery table.
 >
 > **[4:18](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/setup-datastore-for-vertex-ai-search-custom-app?u=76281980&t=258)** So I guess my old DBA colors are showing here, you have to have the data structured appropriately before you can build any app, and even working with LLMs doesn't change that.
 >
-> **[4:28](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/setup-datastore-for-vertex-ai-search-custom-app?u=76281980&t=268)** So following the appropriate requirements for the data store is key to any app development, including generative AI.
+> **[4:28](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/setup-datastore-for-vertex-ai-search-custom-app?u=76281980&t=268)** So following the appropriate requirements for the data store is key to any app development, including [[Generative AI]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), ai (4), [[Search]] (3), cloud (3), [[Google]] (2)
+> **Frameworks & Libraries:** [[Cloud Storage]] (2), [[Google]] (2), [[JSON]] (2), [[SQL]] (1), [[Google Drive]] (1)
 > **Env Vars:** fhir (2), json (2), llm (1), create (1), data (1)
 > **CLI Commands:** make (3), find (1)
 > **Cross-References:** in the next (1)
@@ -1498,8 +1483,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Build Vertex AI Search custom app
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/build-vertex-ai-search-custom-app?u=76281980)
+#### [Build Vertex AI Search custom app](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/build-vertex-ai-search-custom-app?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1537,15 +1521,15 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/build-vertex-ai-search-custom-app?u=76281980&t=84)** So this is a preview of this new functionality and you can actually see that you can test this and you can say, list the movies here, just something really simple.
 >
-> **[1:40](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/build-vertex-ai-search-custom-app?u=76281980&t=100)** And I associated it with Gemini, so it's kind of a nonsense response.
+> **[1:40](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/build-vertex-ai-search-custom-app?u=76281980&t=100)** And I associated it with [[Gemini]], so it's kind of a nonsense response.
 >
-> **[1:45](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/build-vertex-ai-search-custom-app?u=76281980&t=105)** So here's the generative AI response and here's the response.
+> **[1:45](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/build-vertex-ai-search-custom-app?u=76281980&t=105)** So here's the [[Generative AI]] response and here's the response.
 >
-> **[1:49](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/build-vertex-ai-search-custom-app?u=76281980&t=109)** And you can see anywhere but here from the JSON.
+> **[1:49](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/build-vertex-ai-search-custom-app?u=76281980&t=109)** And you can see anywhere but here from the [[JSON]].
 >
 > **[1:52](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/build-vertex-ai-search-custom-app?u=76281980&t=112)** So you have the combination.
 >
-> **[1:54](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/build-vertex-ai-search-custom-app?u=76281980&t=114)** So it looks like Google basically, and pretty easy to build.
+> **[1:54](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/build-vertex-ai-search-custom-app?u=76281980&t=114)** So it looks like [[Google]] basically, and pretty easy to build.
 >
 > **[1:59](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/build-vertex-ai-search-custom-app?u=76281980&t=119)** And I could tell that the data was being indexed because it told me nicely that it was indexed.
 >
@@ -1575,27 +1559,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (5), data (4), next (3), [[Gemini]] (3), generic (2)
+> **Frameworks & Libraries:** [[Gemini]] (3), [[Generative AI]] (1), [[JSON]] (1), [[Google]] (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** json (1)
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
 
-#### Explore Agent Garden capabilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/explore-agent-garden-capabilities?u=76281980)
+#### [Explore Agent Garden capabilities](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/explore-agent-garden-capabilities?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/explore-agent-garden-capabilities?u=76281980&t=0)** - [Instructor] So, the newest of the new is the Vertex AI Agent Builder set of tools, and there are a lot of them.
+> **[0:00](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/explore-agent-garden-capabilities?u=76281980&t=0)** - [Instructor] So, the newest of the new is the [[Vertex]] AI Agent Builder set of tools, and there are a lot of them.
 >
-> **[0:06](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/explore-agent-garden-capabilities?u=76281980&t=6)** This is the announcement, basically, and you can see that we have not only tools in the Google Cloud console in Vertex AI, but we have libraries and code examples aplenty, basically.
+> **[0:06](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/explore-agent-garden-capabilities?u=76281980&t=6)** This is the announcement, basically, and you can see that we have not only tools in the [[Google Cloud Platform (GCP)|Google Cloud]] console in Vertex AI, but we have libraries and code examples aplenty, basically.
 >
 > **[0:19](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/explore-agent-garden-capabilities?u=76281980&t=19)** One thing that was announced recently is the ADK, or the Agent Development Kit.
 >
-> **[0:25](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/explore-agent-garden-capabilities?u=76281980&t=25)** This is a set of libraries that allow you to quickly deploy and develop AI agents, and it's just a PIP install.
+> **[0:25](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/explore-agent-garden-capabilities?u=76281980&t=25)** This is a set of libraries that allow you to quickly deploy and develop [[AI Agents]], and it's just a PIP install.
 >
-> **[0:34](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/explore-agent-garden-capabilities?u=76281980&t=34)** So, PIP install Google ADK.
+> **[0:34](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/explore-agent-garden-capabilities?u=76281980&t=34)** So, PIP install [[Google]] ADK.
 >
 > **[0:37](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/explore-agent-garden-capabilities?u=76281980&t=37)** There's quickstarts and tutorials and lots and lots of examples, here.
 >
@@ -1603,7 +1586,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/explore-agent-garden-capabilities?u=76281980&t=43)** In addition to that, we have the Agent Garden.
 >
-> **[0:45](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/explore-agent-garden-capabilities?u=76281980&t=45)** So, if I go to the Agent Garden, these are basically just links to GitHub.
+> **[0:45](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/explore-agent-garden-capabilities?u=76281980&t=45)** So, if I go to the Agent Garden, these are basically just links to [[GitHub]].
 >
 > **[0:49](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/explore-agent-garden-capabilities?u=76281980&t=49)** For example, if I click RAG, which is a common one, you can see that it has just a little bit of documentation.
 >
@@ -1613,7 +1596,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/explore-agent-garden-capabilities?u=76281980&t=71)** Notice here with ADK, you can choose your preferred model or deployment target.
 >
-> **[1:15](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/explore-agent-garden-capabilities?u=76281980&t=75)** You can also use open source, like LangChain, LangGraph, some of the other ones.
+> **[1:15](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/explore-agent-garden-capabilities?u=76281980&t=75)** You can also use open source, like [[LangChain]], LangGraph, some of the other ones.
 >
 > **[1:19](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/explore-agent-garden-capabilities?u=76281980&t=79)** Another thing that was announced that it was highly anticipated is the Agent2Agent protocol.
 >
@@ -1653,7 +1636,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[Vertex]] (5), rag (4), next (3), data (3)
+> **Frameworks & Libraries:** [[Vertex]] (5), [[Google]] (2), [[GitHub]] (2), [[LangChain]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Env Vars:** rag (4), adk (3), pip (2), llm (1)
 > **Definitions:** is a  (3), is an  (1)
 > **UI Navigation:** go to (3)
@@ -1667,26 +1650,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/next-steps?u=76281980&t=0)** - [Narrator] Thanks for coming along with me on this journey, learning about Gemini in Vertex AI and Google Cloud.
+> **[0:00](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/next-steps?u=76281980&t=0)** - [Narrator] Thanks for coming along with me on this journey, learning about [[Gemini]] in [[Vertex]] AI and [[Google Cloud Platform (GCP)|Google Cloud]].
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/next-steps?u=76281980&t=6)** To learn more, I've got a couple of resources.
 >
-> **[0:09](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/next-steps?u=76281980&t=9)** First in the API documents, there is a cookbook that Google constantly updates.
+> **[0:09](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/next-steps?u=76281980&t=9)** First in the API documents, there is a cookbook that [[Google]] constantly updates.
 >
-> **[0:15](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/next-steps?u=76281980&t=15)** It's a GitHub repo that has really a large amount of examples that are very, very useful, and it's something that you're going to want to take a look at when you are learning and it's well indexed.
+> **[0:15](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/next-steps?u=76281980&t=15)** It's a [[GitHub]] repo that has really a large amount of examples that are very, very useful, and it's something that you're going to want to take a look at when you are learning and it's well indexed.
 >
 > **[0:28](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/next-steps?u=76281980&t=28)** You can see down here and you can actually open it up in CoLab.
 >
-> **[0:32](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/next-steps?u=76281980&t=32)** So CoLab Enterprise, if you are using Google Cloud platform for your dev environment.
+> **[0:32](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/next-steps?u=76281980&t=32)** So CoLab Enterprise, if you are using [[Google Cloud Platform (GCP)|Google Cloud platform]] for your dev environment.
 >
 > **[0:37](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/next-steps?u=76281980&t=37)** In addition, there are a couple of exciting announcements that there will be more functionality and more courseware coming from me later this year.
 >
-> **[0:45](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/next-steps?u=76281980&t=45)** The first one is the Agent2Agent protocol, which makes agentic GenAI application development even more fast, basically.
+> **[0:45](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/next-steps?u=76281980&t=45)** The first one is the Agent2Agent protocol, which makes agentic GenAI [[Application Development]] even more fast, basically.
 >
 > **[0:55](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/next-steps?u=76281980&t=55)** So this was launched as of this recording just a couple weeks ago, and you can see that it is a set of tools and libraries that help for agentic AI app development.
 >
@@ -1700,7 +1682,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Gemini]] (2), [[Vertex]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (1), api (1)
+> **Frameworks & Libraries:** [[Gemini]] (2), [[Vertex]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Google]] (1), [[GitHub]] (1)
 > **Tools:** colab (2), github (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** api (1)

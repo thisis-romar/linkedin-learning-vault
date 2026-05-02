@@ -100,8 +100,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### R for data science
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/r-for-data-science-25381119?u=76281980)
+#### [R for data science](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/r-for-data-science-25381119?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -115,23 +114,22 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/r-for-data-science-25381119?u=76281980&t=32)** I'll show you how to install R, the R Studio Environment, additional code packages that extend R's functionality.
 >
-> **[0:40](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/r-for-data-science-25381119?u=76281980&t=40)** We'll see how to make data visualizations, how to wrangle data, and to calculate descriptive statistics.
+> **[0:40](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/r-for-data-science-25381119?u=76281980&t=40)** We'll see how to make data visualizations, how to wrangle data, and to calculate descriptive [[Statistics]].
 >
 > **[0:46](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/r-for-data-science-25381119?u=76281980&t=46)** We'll work with some powerful methods for analyzing associations in data and building statistical models to help you get insight.
 >
 > **[0:54](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/r-for-data-science-25381119?u=76281980&t=54)** We'll also see how you can document and share your work with others so they can get the same benefits of the data revolution.
 >
-> **[1:02](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/r-for-data-science-25381119?u=76281980&t=62)** And so with that in mind, let's get started with R for data science analysis and visualization.
+> **[1:02](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/r-for-data-science-25381119?u=76281980&t=62)** And so with that in mind, let's get started with R for [[Data Science]] analysis and visualization.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Data Science]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [barton] (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/using-the-exercise-files-25379143?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/using-the-exercise-files-25379143?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -145,7 +143,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/using-the-exercise-files-25379143?u=76281980&t=16)** The second is for data.
 >
-> **[0:18](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/using-the-exercise-files-25379143?u=76281980&t=18)** I have a dataset that I'm using as an example in two different formats, in csv format, and in Excel xlsx format.
+> **[0:18](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/using-the-exercise-files-25379143?u=76281980&t=18)** I have a dataset that I'm using as an example in two different formats, in csv format, and in [[Microsoft Excel|Excel]] xlsx format.
 >
 > **[0:32](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/using-the-exercise-files-25379143?u=76281980&t=32)** As well as a code book that explains what all of these variables mean.
 >
@@ -153,9 +151,9 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/using-the-exercise-files-25379143?u=76281980&t=40)** Now, right now, that's empty, but you could save any images and other files you create.
 >
-> **[0:45](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/using-the-exercise-files-25379143?u=76281980&t=45)** And, in addition to these, there's an R for Data Science README file that gives you a short explanation of these same things I just showed you, as well as an R for Data Science.Rproj file.
+> **[0:45](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/using-the-exercise-files-25379143?u=76281980&t=45)** And, in addition to these, there's an R for [[Data Science]] README file that gives you a short explanation of these same things I just showed you, as well as an R for Data Science.Rproj file.
 >
-> **[0:59](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/using-the-exercise-files-25379143?u=76281980&t=59)** This is something that helps organize the documents in the software, RStudio, that we'll be using.
+> **[0:59](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/using-the-exercise-files-25379143?u=76281980&t=59)** This is something that helps organize the documents in the software, [[RStudio]], that we'll be using.
 >
 > **[1:05](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/using-the-exercise-files-25379143?u=76281980&t=65)** If you don't have access to these files, that's okay.
 >
@@ -163,7 +161,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (1), [[RStudio]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Microsoft Excel|Excel]] (1), [[RStudio]] (1)
 > **Exercise Files:** exercise files (2)
 > **Env Vars:** readme (1)
 > **UI Navigation:** open the (1)
@@ -174,14 +172,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### R in context
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/r-in-context-25380142?u=76281980)
+#### [R in context](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/r-in-context-25380142?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/r-in-context-25380142?u=76281980&t=1)** - When it comes to working with data, you're confronted with a potentially overwhelming range of choices that are all competing for your attention.
 >
-> **[0:09](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/r-in-context-25380142?u=76281980&t=9)** Now, the first and most obvious choice for working with data is a spreadsheet application like Microsoft Excel or Google Sheets.
+> **[0:09](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/r-in-context-25380142?u=76281980&t=9)** Now, the first and most obvious choice for working with data is a spreadsheet application like [[Microsoft Excel]] or [[Google]] Sheets.
 >
 > **[0:16](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/r-in-context-25380142?u=76281980&t=16)** Although there are other choices, I like to think of spreadsheets as the "universal data container" because they're everywhere.
 >
@@ -203,7 +200,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/r-in-context-25380142?u=76281980&t=83)** In that case, you'll need to take the final step to a data-oriented programming language, which gives you the ultimate and control and power in analyzing data.
 >
-> **[1:32](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/r-in-context-25380142?u=76281980&t=92)** Now, some of the most common and interesting choices for data-oriented programming are Python, which is a powerful general purpose programming language that has been well adapted for working with data and are a language that is developed specifically for working with data and of course, the subject of this course.
+> **[1:32](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/r-in-context-25380142?u=76281980&t=92)** Now, some of the most common and interesting choices for data-oriented programming are [[Python (Programming Language)|Python]], which is a powerful general purpose programming language that has been well adapted for working with data and are a language that is developed specifically for working with data and of course, the subject of this course.
 >
 > **[1:50](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/r-in-context-25380142?u=76281980&t=110)** Now, I want to show you some data on the relative popularity and use of different languages.
 >
@@ -215,7 +212,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/r-in-context-25380142?u=76281980&t=140)** TIOBE, by the way, stands for the importance of Being Earnest, Oscar Wilde's play.
 >
-> **[2:25](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/r-in-context-25380142?u=76281980&t=145)** But what you see from this is that the top three are general programming, Python and C++ and Java, and there's nothing specific to data science.
+> **[2:25](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/r-in-context-25380142?u=76281980&t=145)** But what you see from this is that the top three are general programming, Python and C++ and [[Java]], and there's nothing specific to [[Data Science]].
 >
 > **[2:34](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/r-in-context-25380142?u=76281980&t=154)** That's because people use them for all sorts of things like building applications, like building in corporate software.
 >
@@ -227,7 +224,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/r-in-context-25380142?u=76281980&t=181)** So in the total, everybody doing anything programming with computers, R's kind of low on there, but it is one of the top ones that is specific to working with data.
 >
-> **[3:12](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/r-in-context-25380142?u=76281980&t=192)** Now, in terms of data science, one of the best sources has historically been KDnuggets, which has to do with data mining.
+> **[3:12](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/r-in-context-25380142?u=76281980&t=192)** Now, in terms of data science, one of the best sources has historically been KDnuggets, which has to do with [[Data Mining]].
 >
 > **[3:20](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/r-in-context-25380142?u=76281980&t=200)** Unfortunately, they haven't updated their data since 2019, so this is a little out of date, but the general pattern has been consistent.
 >
@@ -237,13 +234,13 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/r-in-context-25380142?u=76281980&t=225)** So this is, again, the first specific data programming language.
 >
-> **[3:50](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/r-in-context-25380142?u=76281980&t=230)** I want to mention one thing, it's just one step above Excel, the spreadsheet, at 35%.
+> **[3:50](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/r-in-context-25380142?u=76281980&t=230)** I want to mention one thing, it's just one step above [[Microsoft Excel|Excel]], the spreadsheet, at 35%.
 >
 > **[3:56](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/r-in-context-25380142?u=76281980&t=236)** And so that is also a very common tool for use in data science projects.
 >
 > **[4:02](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/r-in-context-25380142?u=76281980&t=242)** Some data that's not as old but hasn't been updated since 2022 has to do with data science jobs posted on Indeed.
 >
-> **[4:10](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/r-in-context-25380142?u=76281980&t=250)** And what you see here is that when it comes to a job that specifically mentions data science or a closely related field, and they mention the expertise that they're looking for, well SQL, the structured query language we're working with databases in Python at the top, R is on the list, it's a little bit down low, which it would make you think that it's not really super in demand there.
+> **[4:10](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/r-in-context-25380142?u=76281980&t=250)** And what you see here is that when it comes to a job that specifically mentions data science or a closely related field, and they mention the expertise that they're looking for, well [[SQL]], the structured query language we're working with [[Databases]] in Python at the top, R is on the list, it's a little bit down low, which it would make you think that it's not really super in demand there.
 >
 > **[4:35](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/r-in-context-25380142?u=76281980&t=275)** On the other hand, if you take a look at a different data set for the same year in terms of statistical jobs, statistician jobs on Indeed, you see that R comes in a very close second to SAS, which are two very specific statistical languages.
 >
@@ -269,7 +266,7 @@ created: 2026-05-02
 >
 > **[5:55](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/r-in-context-25380142?u=76281980&t=355)** On the other hand, it can be nice to think about it this way.
 >
-> **[5:58](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/r-in-context-25380142?u=76281980&t=358)** If you're going to try to promote your business online, you wouldn't be asking, should we advertise on Facebook or on Instagram, which are respectively the first and second most popular platforms for social media marketing?
+> **[5:58](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/r-in-context-25380142?u=76281980&t=358)** If you're going to try to promote your business online, you wouldn't be asking, should we advertise on Facebook or on Instagram, which are respectively the first and second most popular platforms for [[Social Media Marketing]]?
 >
 > **[6:10](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/r-in-context-25380142?u=76281980&t=370)** The answer is both and several others at the same time.
 >
@@ -287,7 +284,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (37), [[Python (Programming Language)|Python]] (9), [[Programming]] (7), application (4), [[Microsoft Excel]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[Data Science]] (8), [[Data Mining]] (2), [[Microsoft Excel]] (1), [[Google]] (1)
 > **CLI Commands:** python (9), make (3)
 > **Env Vars:** spss (2), sas (2), tiobe (2), matlab (1), sql (1)
 > **Definitions:** is a  (6), stands for (1), in other words (1)
@@ -295,12 +292,11 @@ created: 2026-05-02
 > **UI Navigation:** dropdown (1)
 > **Speakers:** - when (1)
 
-#### A note about AI in R
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/a-note-about-ai-in-r?u=76281980)
+#### [A note about AI in R](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/a-note-about-ai-in-r?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/a-note-about-ai-in-r?u=76281980&t=1)** - [Instructor] Before we get too far in this course, I want to take a moment to discuss a topic that's probably on a lot of people's mind, and that is about the potential ability to use AI in R and other data science languages.
+> **[0:01](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/a-note-about-ai-in-r?u=76281980&t=1)** - [Instructor] Before we get too far in this course, I want to take a moment to discuss a topic that's probably on a lot of people's mind, and that is about the potential ability to use AI in R and other [[Data Science]] languages.
 >
 > **[0:14](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/a-note-about-ai-in-r?u=76281980&t=14)** You know, we have this idea that we can sit there and we can talk, and we've got are little translucent AI robot friend who will solve everything for us.
 >
@@ -312,9 +308,9 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/a-note-about-ai-in-r?u=76281980&t=41)** The first one is if you have an IDE, an interactive development environment, that can have AI baked in.
 >
-> **[0:48](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/a-note-about-ai-in-r?u=76281980&t=48)** So for instance, if you use Visual Studio, you can use Microsoft Copilot.
+> **[0:48](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/a-note-about-ai-in-r?u=76281980&t=48)** So for instance, if you use Visual Studio, you can use [[Microsoft Copilot]].
 >
-> **[0:52](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/a-note-about-ai-in-r?u=76281980&t=52)** And significantly, with RStudio, the environment that we're going to be using, there is a potential for integration with GitHub Copilot if you have a paid or academic account.
+> **[0:52](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/a-note-about-ai-in-r?u=76281980&t=52)** And significantly, with [[RStudio]], the environment that we're going to be using, there is a potential for integration with [[GitHub Copilot]] if you have a paid or academic account.
 >
 > **[1:05](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/a-note-about-ai-in-r?u=76281980&t=65)** Now, that's a form of code suggestion, but it is based on AI, it uses a large language model, but I won't be using it for this course, in part because it gets away from the basic things that I'm trying to show you in terms of learning how to use R and RStudio at the very beginning.
 >
@@ -324,7 +320,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/a-note-about-ai-in-r?u=76281980&t=88)** I do want to mention, there are some other options.
 >
-> **[1:31](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/a-note-about-ai-in-r?u=76281980&t=91)** There's also a collection of packages that you can use in R to integrate, say for instance, ChatGPT or something like that.
+> **[1:31](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/a-note-about-ai-in-r?u=76281980&t=91)** There's also a collection of packages that you can use in R to integrate, say for instance, [[ChatGPT]] or something like that.
 >
 > **[1:39](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/a-note-about-ai-in-r?u=76281980&t=99)** But they require that you use APIs and you have access codes.
 >
@@ -344,7 +340,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), [[RStudio]] (3), data (2), [[GitHub Copilot]] (2), [[Microsoft Copilot]] (1)
+> **Frameworks & Libraries:** [[RStudio]] (3), [[Data Science]] (2), [[GitHub Copilot]] (2), [[Microsoft Copilot]] (1), [[ChatGPT]] (1)
 > **Tools:** github (2), visual studio (1)
 > **Analogies:** for instance (2), imagine (1)
 > **Best Practices:** general rule (1), rule of thumb (1)
@@ -358,8 +354,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Installing R
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/installing-r?u=76281980)
+#### [Installing R](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/installing-r?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -367,7 +362,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/installing-r?u=76281980&t=4)** And like any programming language, there are many different environments that you can use to work with R.
 >
-> **[0:10](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/installing-r?u=76281980&t=10)** Now, when you download the language, you'll see that you can use the native R app and it opens a set of different windows.
+> **[0:10](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/installing-r?u=76281980&t=10)** Now, when you download the language, you'll see that you can use the native R app and it opens a set of different [[Windows]].
 >
 > **[0:18](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/installing-r?u=76281980&t=18)** Like for instance, this is the script window where you write your code.
 >
@@ -375,7 +370,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/installing-r?u=76281980&t=26)** Here's a help window and here's a graphical window.
 >
-> **[0:30](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/installing-r?u=76281980&t=30)** You can do it that way, but most people choose to use an interactive development environment like RStudio.
+> **[0:30](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/installing-r?u=76281980&t=30)** You can do it that way, but most people choose to use an interactive development environment like [[RStudio]].
 >
 > **[0:38](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/installing-r?u=76281980&t=38)** Now, RStudio is a free open source program and I'm going to show you how to download and install it a little bit later.
 >
@@ -389,11 +384,11 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/installing-r?u=76281980&t=79)** For more than that, you're going to need to pay, but you can see it looks exactly the same.
 >
-> **[1:26](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/installing-r?u=76281980&t=86)** You can also use Google Colab, Colaboratory, which is well known among machine learning people who work with Python.
+> **[1:26](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/installing-r?u=76281980&t=86)** You can also use [[Google]] Colab, Colaboratory, which is well known among machine learning people who work with [[Python (Programming Language)|Python]].
 >
 > **[1:33](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/installing-r?u=76281980&t=93)** But if you use this shortcut, colab.to/r, that will open up Google Colab with an R runtime.
 >
-> **[1:44](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/installing-r?u=76281980&t=104)** Now, it looks very different because it uses the Jupyter Data Science notebooks, but you can see that it runs the same lines of code.
+> **[1:44](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/installing-r?u=76281980&t=104)** Now, it looks very different because it uses the Jupyter [[Data Science]] notebooks, but you can see that it runs the same lines of code.
 >
 > **[1:54](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/installing-r?u=76281980&t=114)** Here's the first six lines of our dataset, here's our graph.
 >
@@ -427,7 +422,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[RStudio]] (4), [[Google]] (3), data (2), [[Programming]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[RStudio]] (4), [[Google]] (3), [[Windows]] (1), [[Python (Programming Language)|Python]] (1), [[Data Science]] (1)
 > **Tools:** colab (4), jupyter (1)
 > **Definitions:** is a  (2), is an  (1)
 > **UI Navigation:** click on (1), dropdown (1)
@@ -436,12 +431,11 @@ created: 2026-05-02
 > **CLI Commands:** python (1)
 > **Env Vars:** spss (1)
 
-#### Installing RStudio
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/installing-rstudio-25380143?u=76281980)
+#### [Installing RStudio](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/installing-rstudio-25380143?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/installing-rstudio-25380143?u=76281980&t=0)** - [Instructor] Now that you have R installed on your computer, you'll also want to install RStudio.
+> **[0:00](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/installing-rstudio-25380143?u=76281980&t=0)** - [Instructor] Now that you have R installed on your computer, you'll also want to install [[RStudio]].
 >
 > **[0:06](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/installing-rstudio-25380143?u=76281980&t=6)** That's the environment we're going to use throughout this course to interact with R.
 >
@@ -451,7 +445,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/installing-rstudio-25380143?u=76281980&t=17)** That's the company that makes RStudio.
 >
-> **[0:19](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/installing-rstudio-25380143?u=76281980&t=19)** And when you get there, you might be tempted to go to Products, but that links to many of their other things.
+> **[0:19](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/installing-rstudio-25380143?u=76281980&t=19)** And when you get there, you might be tempted to go to [[Microsoft Products|Products]], but that links to many of their other things.
 >
 > **[0:24](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/installing-rstudio-25380143?u=76281980&t=24)** You want to go instead to Open Source and then come down here to Download RStudio.
 >
@@ -479,14 +473,13 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Navigating the RStudio environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/navigating-the-rstudio-environment-25378162?u=76281980)
+#### [Navigating the RStudio environment](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/navigating-the-rstudio-environment-25378162?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/navigating-the-rstudio-environment-25378162?u=76281980&t=1)** - [Instructor] If you have the Exercise Files and you open them up, you'll see R for Data Science.Rproj, which is an R project file.
+> **[0:01](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/navigating-the-rstudio-environment-25378162?u=76281980&t=1)** - [Instructor] If you have the Exercise Files and you open them up, you'll see R for [[Data Science]].Rproj, which is an R project file.
 >
-> **[0:09](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/navigating-the-rstudio-environment-25378162?u=76281980&t=9)** And if you have RStudio installed and you double-click on this, it will open up RStudio.
+> **[0:09](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/navigating-the-rstudio-environment-25378162?u=76281980&t=9)** And if you have [[RStudio]] installed and you double-click on this, it will open up RStudio.
 >
 > **[0:15](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/navigating-the-rstudio-environment-25378162?u=76281980&t=15)** So it looks like this.
 >
@@ -644,7 +637,7 @@ created: 2026-05-02
 >
 > **[6:37](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/navigating-the-rstudio-environment-25378162?u=76281980&t=397)** And there's one other thing I want to show you down here at the very bottom.
 >
-> **[6:40](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/navigating-the-rstudio-environment-25378162?u=76281980&t=400)** I mentioned this earlier, and it's Copilot, GitHub copilot.
+> **[6:40](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/navigating-the-rstudio-environment-25378162?u=76281980&t=400)** I mentioned this earlier, and it's [[Microsoft Copilot|Copilot]], [[GitHub Copilot]].
 >
 > **[6:46](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/navigating-the-rstudio-environment-25378162?u=76281980&t=406)** Now it says here, it's just kind of autocomplete, but this is AI-based.
 >
@@ -676,7 +669,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[RStudio]] (7), [[Programming]] (2), [[GitHub Copilot]] (2), [[Scripting]] (1)
+> **Frameworks & Libraries:** [[RStudio]] (7), [[Data Science]] (2), [[GitHub Copilot]] (2), [[Microsoft Copilot|Copilot]] (1)
 > **CLI Commands:** make (7), find (1)
 > **Definitions:** is a  (4), is an  (1)
 > **UI Navigation:** click on (2), double-click (1), go to (1)
@@ -685,12 +678,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Prerequisites:** set up (1)
 
-#### Entering data
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/entering-data?u=76281980)
+#### [Entering data](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/entering-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/entering-data?u=76281980&t=0)** - [Instructor] Obviously, the reason you started working with RStudio is because you want to get some insights from data but you first have to get your data into R.
+> **[0:00](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/entering-data?u=76281980&t=0)** - [Instructor] Obviously, the reason you started working with [[RStudio]] is because you want to get some insights from data but you first have to get your data into R.
 >
 > **[0:09](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/entering-data?u=76281980&t=9)** And the easiest way to do that, meaning the one that has the fewest steps is doing it manually, which works for very small amounts of data.
 >
@@ -838,7 +830,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (5), [[RStudio]] (1), hit (1), power (1)
+> **Frameworks & Libraries:** [[RStudio]] (1)
 > **Ports:** :100 (1), :10 (1)
 > **Versions:** 2.71828 (1), 4.60517 (1)
 > **Analogies:** for instance (2)
@@ -847,8 +839,7 @@ created: 2026-05-02
 > **Definitions:** stands for (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data types and structures
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/data-types-and-structures?u=76281980)
+#### [Data types and structures](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/data-types-and-structures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -914,7 +905,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/data-types-and-structures?u=76281980&t=165)** I'll ask for the type of l1, and you can see down here it says it's logical.
 >
-> **[2:50](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/data-types-and-structures?u=76281980&t=170)** Now, you don't necessarily have to write the whole word true or false, you can also use a capital T or a capital F.
+> **[2:50](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/data-types-and-structures?u=76281980&t=170)** Now, you don't necessarily have to write the whole [[Microsoft Word|word]] true or false, you can also use a capital T or a capital F.
 >
 > **[2:56](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/data-types-and-structures?u=76281980&t=176)** Here I'm using just a capital F and I'm saving it to the object l2.
 >
@@ -922,7 +913,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/data-types-and-structures?u=76281980&t=188)** We can ask for it to display and then we can get the type of, it's logical as well.
 >
-> **[3:13](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/data-types-and-structures?u=76281980&t=193)** Then you can have data structures in which you combine multiple values.
+> **[3:13](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/data-types-and-structures?u=76281980&t=193)** Then you can have [[Data Structures]] in which you combine multiple values.
 >
 > **[3:18](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/data-types-and-structures?u=76281980&t=198)** The default is a vector, that's a one-dimensional set, so it's just one row of data of the same data type.
 >
@@ -1014,7 +1005,7 @@ created: 2026-05-02
 >
 > **[7:29](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/data-types-and-structures?u=76281980&t=449)** It basically lets you do anything.
 >
-> **[7:31](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/data-types-and-structures?u=76281980&t=451)** And if you were to download, for instance, certain kinds of data from the web in JSON or XML format, those are lists and they let you do all sorts of things, but they can be a little unwieldy.
+> **[7:31](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/data-types-and-structures?u=76281980&t=451)** And if you were to download, for instance, certain kinds of data from the web in [[JSON]] or XML format, those are lists and they let you do all sorts of things, but they can be a little unwieldy.
 >
 > **[7:43](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/data-types-and-structures?u=76281980&t=463)** So for instance, here I'm going to have an object with three numbers, and then another object with five characters, another object with four characters, and then a third object with five logical values, so they have different numbers of stuff.
 >
@@ -1070,7 +1061,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), web (2), [[Microsoft Word|Word]] (1), database (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Data Structures]] (1), [[JSON]] (1)
 > **Definitions:** is a  (7), is an  (1)
 > **Analogies:** similar to (2), for instance (2), think of it as (1)
 > **CLI Commands:** make (3)
@@ -1078,8 +1069,7 @@ created: 2026-05-02
 > **Versions:** 1.5 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Comments and headers
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/comments-and-headers?u=76281980)
+#### [Comments and headers](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/comments-and-headers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1127,7 +1117,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/comments-and-headers?u=76281980&t=103)** The other thing that can be very handy here is headers.
 >
-> **[1:47](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/comments-and-headers?u=76281980&t=107)** Now, this is an RStudio thing, and what I have here is a header.
+> **[1:47](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/comments-and-headers?u=76281980&t=107)** Now, this is an [[RStudio]] thing, and what I have here is a header.
 >
 > **[1:52](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/comments-and-headers?u=76281980&t=112)** I do it by having the hashtag, then a space, then the name of something that I wrote it in all caps, and then at least four more of a few different characters.
 >
@@ -1217,7 +1207,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[RStudio]] (2), [[Scripting]] (1), hit (1)
+> **Frameworks & Libraries:** [[RStudio]] (2)
 > **CLI Commands:** make (5)
 > **Env Vars:** apa (3)
 > **Definitions:** is a  (2), is an  (1)
@@ -1226,8 +1216,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Packages for R
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/packages-for-r-25386008?u=76281980)
+#### [Packages for R](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/packages-for-r-25386008?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1283,7 +1272,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/packages-for-r-25386008?u=76281980&t=149)** But let's take a look at other ones that are more likely to get used.
 >
-> **[2:32](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/packages-for-r-25386008?u=76281980&t=152)** So for instance, if we come here to MachineLearning, one of the biggest topics in the data science world, and you want to do neural networks and deep learning, well, you have a neural network package, but you also have tensorflow and torch and so, so many options.
+> **[2:32](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/packages-for-r-25386008?u=76281980&t=152)** So for instance, if we come here to MachineLearning, one of the biggest topics in the [[Data Science]] world, and you want to do [[Neural Networks]] and [[Deep Learning]], well, you have a neural network package, but you also have [[TensorFlow]] and torch and so, so many options.
 >
 > **[2:49](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/packages-for-r-25386008?u=76281980&t=169)** Now again, it's large and it's overwhelming.
 >
@@ -1313,7 +1302,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Programming]] (2), [[Neural Networks]] (1), [[Deep Learning]] (1), [[TensorFlow]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (1), [[Neural Networks]] (1), [[Deep Learning]] (1), [[TensorFlow]] (1)
 > **UI Navigation:** click on (4), go to (2), scroll down (1)
 > **CLI Commands:** find (4), make (1)
 > **Definitions:** is a  (3), stands for (1), is called (1)
@@ -1322,8 +1311,7 @@ created: 2026-05-02
 > **Analogies:** for instance (2)
 > **Prerequisites:** install (2)
 
-#### The tidyverse
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/the-tidyverse?u=76281980)
+#### [The tidyverse](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/the-tidyverse?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1335,7 +1323,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/the-tidyverse?u=76281980&t=28)** And I use it, but because it sometimes creates complications in other environments, I'm leaving it out for this time around.
 >
-> **[0:38](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/the-tidyverse?u=76281980&t=38)** Now, if your code uses a package when it's not installed, RStudio will give you this warning in yellow and you can simply click Install and it will take care of it.
+> **[0:38](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/the-tidyverse?u=76281980&t=38)** Now, if your code uses a package when it's not installed, [[RStudio]] will give you this warning in yellow and you can simply click Install and it will take care of it.
 >
 > **[0:47](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/the-tidyverse?u=76281980&t=47)** Or you can make sure to install it by using the install.packages command.
 >
@@ -1411,7 +1399,7 @@ created: 2026-05-02
 >
 > **[4:17](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/the-tidyverse?u=76281980&t=257)** And this way I'm saying detach a package and then :pacman and then unload is T for true.
 >
-> **[4:24](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/the-tidyverse?u=76281980&t=264)** You can also write out the word true in all caps.
+> **[4:24](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/the-tidyverse?u=76281980&t=264)** You can also write out the [[Microsoft Word|word]] true in all caps.
 >
 > **[4:26](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/the-tidyverse?u=76281980&t=266)** And when I do that, you see that the check mark has disappeared.
 >
@@ -1441,7 +1429,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), [[RStudio]] (1), hit (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[RStudio]] (1), [[Microsoft Word|Word]] (1)
 > **Prerequisites:** install (7)
 > **Definitions:** is called (2), is a  (2), short for (1)
 > **CLI Commands:** make (3), find (1)
@@ -1450,8 +1438,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Analogies:** for instance (1)
 
-#### Piping commands with |
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/4377755?u=76281980)
+#### [Piping commands with |](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/4377755?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1553,14 +1540,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), next (4)
 > **Analogies:** for example (1), for instance (1), it's like (1), think of it as (1), imagine (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sample datasets
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/sample-datasets?u=76281980)
+#### [Sample datasets](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/sample-datasets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1616,7 +1601,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/sample-datasets?u=76281980&t=135)** And what you see is this is tabular data, where it has departments A through F and indicates whether an applicant was male or female and whether they were admitted into the program or rejected.
 >
-> **[2:29](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/sample-datasets?u=76281980&t=149)** If you ever worked with Python, then you would be very familiar with the Titanic dataset.
+> **[2:29](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/sample-datasets?u=76281980&t=149)** If you ever worked with [[Python (Programming Language)|Python]], then you would be very familiar with the Titanic dataset.
 >
 > **[2:33](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/sample-datasets?u=76281980&t=153)** This is a dataset about people who survived or died on the crash of the Titanic ship.
 >
@@ -1648,15 +1633,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (2), python (1), find (1)
 > **Definitions:** is an  (1), is a  (1), is called (1)
 > **Env Vars:** ucb (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Importing data from a spreadsheet
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/importing-data-from-a-spreadsheet?u=76281980)
+#### [Importing data from a spreadsheet](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/importing-data-from-a-spreadsheet?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1664,7 +1648,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/importing-data-from-a-spreadsheet?u=76281980&t=7)** But chances are, you're going to want to analyze your own data.
 >
-> **[0:10](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/importing-data-from-a-spreadsheet?u=76281980&t=10)** And the easiest way to deal with that is to import it, either as a CSV or comma separated values files, like a generic one-page spreadsheet, or as an Excel XLS or XLSX file.
+> **[0:10](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/importing-data-from-a-spreadsheet?u=76281980&t=10)** And the easiest way to deal with that is to import it, either as a CSV or comma separated values files, like a generic one-page spreadsheet, or as an [[Microsoft Excel|Excel]] XLS or XLSX file.
 >
 > **[0:25](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/importing-data-from-a-spreadsheet?u=76281980&t=25)** I'm going to be showing you how to do both of these using a package that comes as part of the tidyverse readxl.
 >
@@ -1754,7 +1738,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Microsoft Excel|Excel]] (7), generic (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (7)
 > **Env Vars:** csv (5), xls (1), xlsx (1)
 > **Definitions:** is a  (4), short for (1)
 > **CLI Commands:** make (2), find (1)
@@ -1768,8 +1752,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using colors in R
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/using-colors-in-r?u=76281980)
+#### [Using colors in R](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/using-colors-in-r?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1787,7 +1770,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/using-colors-in-r?u=76281980&t=41)** There's nothing special right there.
 >
-> **[0:43](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/using-colors-in-r?u=76281980&t=43)** I'll zoom in on it a little bit but you can see it's giving us the height of the different bars that I've created.
+> **[0:43](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/using-colors-in-r?u=76281980&t=43)** I'll [[Zoom]] in on it a little bit but you can see it's giving us the height of the different bars that I've created.
 >
 > **[0:50](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/using-colors-in-r?u=76281980&t=50)** But they're all gray. Now gray's not bad on its own.
 >
@@ -1819,9 +1802,9 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/using-colors-in-r?u=76281980&t=158)** But if you come down here, here is a data sheet.
 >
-> **[2:42](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/using-colors-in-r?u=76281980&t=162)** It's actually a Google Sheet that shows all the colors with their names and the various different codes that are used.
+> **[2:42](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/using-colors-in-r?u=76281980&t=162)** It's actually a [[Google]] Sheet that shows all the colors with their names and the various different codes that are used.
 >
-> **[2:49](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/using-colors-in-r?u=76281980&t=169)** And you can access this sheet as a Google Sheet or download it as an Excel Spreadsheet or download it as a PDF and have it available to you.
+> **[2:49](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/using-colors-in-r?u=76281980&t=169)** And you can access this sheet as a Google Sheet or download it as an [[Microsoft Excel|Excel]] Spreadsheet or download it as a PDF and have it available to you.
 >
 > **[2:59](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/using-colors-in-r?u=76281980&t=179)** So use that as a reference on how to refer to colors in R.
 >
@@ -1935,7 +1918,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Google]] (2), [[Zoom]] (1), [[Microsoft Excel|Excel]] (1), next (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Zoom]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** rgb (4), pdf (1), col (1)
 > **Definitions:** is a  (1), short for (1), stands for (1), is called (1)
 > **UI Navigation:** go to (2), scroll down (1)
@@ -1944,8 +1927,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating bar charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-bar-charts?u=76281980)
+#### [Creating bar charts](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-bar-charts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1987,7 +1969,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-bar-charts?u=76281980&t=114)** And when I make that chart, it's going to show up here on the bottom right, it's a very quick and easy chart.
 >
-> **[2:00](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-bar-charts?u=76281980&t=120)** I'll zoom in on it.
+> **[2:00](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-bar-charts?u=76281980&t=120)** I'll [[Zoom]] in on it.
 >
 > **[2:02](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-bar-charts?u=76281980&t=122)** And we have our three regions and they are in alphabetical order.
 >
@@ -2113,7 +2095,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Zoom]] (5), next (5), generic (3)
+> **Frameworks & Libraries:** [[Zoom]] (5)
 > **Definitions:** is a  (6)
 > **CLI Commands:** make (5)
 > **Code Identifiers:** psy_reg (2)
@@ -2122,8 +2104,7 @@ created: 2026-05-02
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating histograms
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-histograms?u=76281980)
+#### [Creating histograms](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-histograms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2137,9 +2118,9 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-histograms?u=76281980&t=30)** So I do question mark hist and it tells us some of the options and some of the directions that are available for histograms.
 >
-> **[0:39](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-histograms?u=76281980&t=39)** But let me demonstrate this by simply doing a default histogram where I choose the variable data science from df.
+> **[0:39](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-histograms?u=76281980&t=39)** But let me demonstrate this by simply doing a default histogram where I choose the variable [[Data Science]] from df.
 >
-> **[0:46](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-histograms?u=76281980&t=46)** So what this is, is the relative popularity of data science as a Google search term in the 48 Contiguous United States over the last five years.
+> **[0:46](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-histograms?u=76281980&t=46)** So what this is, is the relative popularity of data science as a [[Google]] search term in the 48 Contiguous United States over the last five years.
 >
 > **[0:57](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-histograms?u=76281980&t=57)** So I'm going to run that one.
 >
@@ -2151,7 +2132,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-histograms?u=76281980&t=71)** By the way, the reason it doesn't go up to 100 is because on this particular variable, Washington DC set the high score at 100, and because I don't have the personality data for them, they're not included in this particular version of the dataset.
 >
-> **[1:25](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-histograms?u=76281980&t=85)** On the other hand, if you go to the Excel file and you go to the second tab All Data, you will see the information on Washington DC as well as Alaska and Hawaii there.
+> **[1:25](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-histograms?u=76281980&t=85)** On the other hand, if you go to the [[Microsoft Excel|Excel]] file and you go to the second tab All Data, you will see the information on Washington DC as well as Alaska and Hawaii there.
 >
 > **[1:35](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-histograms?u=76281980&t=95)** But let's do a histogram with a few extra options.
 >
@@ -2245,7 +2226,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Google]] (1), [[Search]] (1), [[Microsoft Excel|Excel]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (4), [[Google]] (1), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (3)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -2253,8 +2234,7 @@ created: 2026-05-02
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Creating box plots
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-box-plots?u=76281980)
+#### [Creating box plots](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-box-plots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2300,9 +2280,9 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-box-plots?u=76281980&t=118)** I'm going to choose the variable 'dance'.
 >
-> **[2:00](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-box-plots?u=76281980&t=120)** What this means is Google searches for the term 'dance' for the 48 contiguous dates over the last five years from the DF data frame that I created and use box plot so this is a quick and easy chart.
+> **[2:00](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-box-plots?u=76281980&t=120)** What this means is [[Google]] searches for the term 'dance' for the 48 contiguous dates over the last five years from the DF data frame that I created and use box plot so this is a quick and easy chart.
 >
-> **[2:18](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-box-plots?u=76281980&t=138)** And let me zoom in on that chart.
+> **[2:18](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-box-plots?u=76281980&t=138)** And let me [[Zoom]] in on that chart.
 >
 > **[2:20](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-box-plots?u=76281980&t=140)** And what you can tell is that we have a median that's what this line is in the middle, it's right around 70.
 >
@@ -2320,7 +2300,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-box-plots?u=76281980&t=176)** Some methods like regression and correlation are extremely sensitive to outliers.
 >
-> **[3:01](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-box-plots?u=76281980&t=181)** Others like decision trees are less susceptible.
+> **[3:01](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-box-plots?u=76281980&t=181)** Others like [[Decision Trees]] are less susceptible.
 >
 > **[3:04](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-box-plots?u=76281980&t=184)** But you still want to know what's going on with your data.
 >
@@ -2402,7 +2382,7 @@ created: 2026-05-02
 >
 > **[6:08](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-box-plots?u=76281980&t=368)** And actually that makes me think that looking at soccer and hockey might be worthwhile.
 >
-> **[6:14](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-box-plots?u=76281980&t=374)** And so let's find out for instance, who the outliers are on hockey because they are so much higher than the rest.
+> **[6:14](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-box-plots?u=76281980&t=374)** And so let's find out for instance, who the outliers are on hockey because they are so much higher than the [[Representational State Transfer (REST)|rest]].
 >
 > **[6:20](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-box-plots?u=76281980&t=380)** To do that, I'm going to start with our data frame, which I've called DF.
 >
@@ -2476,7 +2456,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), generic (4), [[Zoom]] (4), [[Google]] (3), teams (3)
+> **Frameworks & Libraries:** [[Zoom]] (4), [[Google]] (3), [[Decision Trees]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (9), means that (1), defined as (1)
 > **CLI Commands:** make (4), find (3)
 > **Env Vars:** nhl (3)
@@ -2485,8 +2465,7 @@ created: 2026-05-02
 > **Analogies:** for instance (2)
 > **Warnings:** be aware (2)
 
-#### Creating scatterplots
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-scatterplots?u=76281980)
+#### [Creating scatterplots](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-scatterplots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2522,7 +2501,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-scatterplots?u=76281980&t=70)** But five is manageable so I just do DF and I feed it into plot.
 >
-> **[1:15](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-scatterplots?u=76281980&t=75)** And we can zoom in on this scatter plot matrix.
+> **[1:15](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-scatterplots?u=76281980&t=75)** And we can [[Zoom]] in on this scatter plot matrix.
 >
 > **[1:18](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-scatterplots?u=76281980&t=78)** So basketball is on the left and on the top, then football then baseball, then soccer, and then hockey is across the bottom and on the right.
 >
@@ -2562,7 +2541,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-scatterplots?u=76281980&t=172)** And now what you can see is we have a couple of outliers which we happen to know from our previous one on box boss that's Minnesota and that's North Dakota.
 >
-> **[3:03](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-scatterplots?u=76281980&t=183)** And there are the rest where it's basically uphill where there's a slight trend that states that search more for soccer, relatively speaking are also a little more likely to search for hockey but it's not really pronounced.
+> **[3:03](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-scatterplots?u=76281980&t=183)** And there are the [[Representational State Transfer (REST)|rest]] where it's basically uphill where there's a slight trend that states that search more for soccer, relatively speaking are also a little more likely to search for hockey but it's not really pronounced.
 >
 > **[3:18](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-scatterplots?u=76281980&t=198)** On the other hand, we can come back here and we can do our bivariate scatter plot again with a few options.
 >
@@ -2618,15 +2597,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Search]] (4), [[Zoom]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (3), stands for (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** pch (2), csv (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating line charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-line-charts?u=76281980)
+#### [Creating line charts](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-line-charts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2670,7 +2648,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-line-charts?u=76281980&t=92)** And you can tell from this that the US population has been going up over time.
 >
-> **[1:37](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-line-charts?u=76281980&t=97)** Let's zoom in just for a second.
+> **[1:37](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-line-charts?u=76281980&t=97)** Let's [[Zoom]] in just for a second.
 >
 > **[1:40](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-line-charts?u=76281980&t=100)** In fact, it's really smooth exponential growth with a little glitch here and here.
 >
@@ -2710,7 +2688,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-line-charts?u=76281980&t=206)** So you want to look at the changes of several different things.
 >
-> **[3:30](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-line-charts?u=76281980&t=210)** In this case, I'm going to use a data set that is about the European Union stock markets and it gives us four different stock markets the DAX in Germany, the SMI in Switzerland the CAC in France, and the FTSE in the UK.
+> **[3:30](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-line-charts?u=76281980&t=210)** In this case, I'm going to use a data set that is about the European Union stock markets and it gives us four different stock markets the [[DAX]] in Germany, the SMI in Switzerland the CAC in France, and the FTSE in the UK.
 >
 > **[3:46](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-line-charts?u=76281980&t=226)** So let's get a little bit of information about that data set.
 >
@@ -2762,7 +2740,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Zoom]] (3), business (1), generic (1), [[DAX]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (3), [[DAX]] (1)
 > **CLI Commands:** make (6)
 > **Env Vars:** smi (2), ftse (2), dax (1), cac (1)
 > **Definitions:** is a  (4)
@@ -2771,8 +2749,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating cluster charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-cluster-charts-25384060?u=76281980)
+#### [Creating cluster charts](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-cluster-charts-25384060?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2820,7 +2797,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-cluster-charts-25384060?u=76281980&t=107)** Now one of the things you want to do when you're working with data is you want to make sure that things are on the same scale.
 >
-> **[1:54](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-cluster-charts-25384060?u=76281980&t=114)** Now we're already pretty good because these are Google Trends terms, and theoretically they go from zero up to 100.
+> **[1:54](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-cluster-charts-25384060?u=76281980&t=114)** Now we're already pretty good because these are [[Google]] Trends terms, and theoretically they go from zero up to 100.
 >
 > **[2:02](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-cluster-charts-25384060?u=76281980&t=122)** But sometimes you might have things that indicate population or some other preference, and you'll have variables that are on different scales that can really wreak havoc with a cluster analysis.
 >
@@ -2882,7 +2859,7 @@ created: 2026-05-02
 >
 > **[4:14](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-cluster-charts-25384060?u=76281980&t=254)** And now we get a graph.
 >
-> **[4:15](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-cluster-charts-25384060?u=76281980&t=255)** And let's zoom in on it for just a moment.
+> **[4:15](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-cluster-charts-25384060?u=76281980&t=255)** And let's [[Zoom]] in on it for just a moment.
 >
 > **[4:18](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/creating-cluster-charts-25384060?u=76281980&t=258)** This is what a hierarchical cluster looks like.
 >
@@ -2956,7 +2933,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Search]] (2), [[Google]] (2), [[Zoom]] (2)
+> **Frameworks & Libraries:** [[Google]] (2), [[Zoom]] (2)
 > **CLI Commands:** make (6), find (1)
 > **Definitions:** is a  (2), is an  (1), is called (1)
 > **Code Identifiers:** read_csv (1), df_scaled (1)
@@ -2970,8 +2947,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Selecting cases and subgroups
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/selecting-cases-and-subgroups?u=76281980)
+#### [Selecting cases and subgroups](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/selecting-cases-and-subgroups?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2985,7 +2961,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/selecting-cases-and-subgroups?u=76281980&t=35)** And so we've got our data set right here.
 >
-> **[0:38](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/selecting-cases-and-subgroups?u=76281980&t=38)** I've kept state, the region, the geographical region, the psych_region, and their scores on one Google Trend search, and that is data_analysis.
+> **[0:38](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/selecting-cases-and-subgroups?u=76281980&t=38)** I've kept state, the region, the geographical region, the psych_region, and their scores on one [[Google]] Trend search, and that is data_analysis.
 >
 > **[0:47](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/selecting-cases-and-subgroups?u=76281980&t=47)** So this is the relative popularity of data_analysis as a search term for that state compared to other states.
 >
@@ -3063,14 +3039,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Search]] (5), [[Google]] (3), next (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Google]] (3)
 > **Code Identifiers:** psych_region (9), data_analysis (9)
 > **Definitions:** is a  (2)
 > **Analogies:** for instance (2)
 > **Speakers:** - [instructor] (1)
 
-#### Recoding variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/recoding-variables-25385024?u=76281980)
+#### [Recoding variables](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/recoding-variables-25385024?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3086,7 +3061,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/recoding-variables-25385024?u=76281980&t=39)** Now, interestingly, this is part of the tidyverse, but it's not loaded by default.
 >
-> **[0:44](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/recoding-variables-25385024?u=76281980&t=44)** You have to load it explicitly, and so I'm going to load that one as well, and it's an improved way of reading CSV and Excel files.
+> **[0:44](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/recoding-variables-25385024?u=76281980&t=44)** You have to load it explicitly, and so I'm going to load that one as well, and it's an improved way of reading CSV and [[Microsoft Excel|Excel]] files.
 >
 > **[0:53](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/recoding-variables-25385024?u=76281980&t=53)** So the first thing we're going to do is we're going to read our dataset in.
 >
@@ -3110,7 +3085,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/recoding-variables-25385024?u=76281980&t=177)** We could remove this line, and friendly and conventional would still go to no because of this default, but I just want you to see that there are different ways of doing it.
 >
-> **[3:06](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/recoding-variables-25385024?u=76281980&t=186)** And then we're going to select just the state code, the psych region, and this new variable we created called relaxed, and so I'm going to run that command by doing command or control return, and then let's zoom up and look at this one a little better.
+> **[3:06](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/recoding-variables-25385024?u=76281980&t=186)** And then we're going to select just the state code, the psych region, and this new variable we created called relaxed, and so I'm going to run that command by doing command or control return, and then let's [[Zoom]] up and look at this one a little better.
 >
 > **[3:19](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/recoding-variables-25385024?u=76281980&t=199)** Here, you have the state codes, and here, you have the psych region and whether they are relaxed or not, and you can see that it's taking the different states, and if they're relaxed and creative, it says yes.
 >
@@ -3118,7 +3093,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/recoding-variables-25385024?u=76281980&t=215)** Now, if you want to get a little fancier, if you've got a lot of variables and you're creating these nuanced conditional things, you can use something called case when, and I'm going to get help on that one, so we'll do question mark case when, and you can see it is the general vectorized if else, and it's got a lot of information you can look up here.
 >
-> **[3:59](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/recoding-variables-25385024?u=76281980&t=239)** But what we're going to do is we're going to come over here to DF, start with our data frame again, and we're going to use mutate because we're changing things, and in this case, I'm going to create a new variable called like arts, and instead of recode, I'm going to use case_when, and I'm going to say that a state likes art if their score on art in Google Trends is greater than 75, or if their score on dance is over 75, or, remember, the vertical pipe means or, if their score on museum is over 75, then I use the tilde to say, that means they get yes.
+> **[3:59](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/recoding-variables-25385024?u=76281980&t=239)** But what we're going to do is we're going to come over here to DF, start with our data frame again, and we're going to use mutate because we're changing things, and in this case, I'm going to create a new variable called like arts, and instead of recode, I'm going to use case_when, and I'm going to say that a state likes art if their score on art in [[Google]] Trends is greater than 75, or if their score on dance is over 75, or, remember, the vertical pipe means or, if their score on museum is over 75, then I use the tilde to say, that means they get yes.
 >
 > **[4:40](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/recoding-variables-25385024?u=76281980&t=280)** And then it says true is no for all other values, so this is a very different kind of syntax than we had for specifying the values and defaults, but this is how it works.
 >
@@ -3130,7 +3105,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Zoom]] (2), [[Microsoft Excel|Excel]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[Microsoft Excel|Excel]] (1), [[Google]] (1)
 > **Env Vars:** csv (3)
 > **UI Navigation:** click on (1), go to (1)
 > **Definitions:** is a  (2)
@@ -3139,8 +3114,7 @@ created: 2026-05-02
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - [instructor] (1)
 
-#### Computing new variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-new-variables?u=76281980)
+#### [Computing new variables](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-new-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3174,7 +3148,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-new-variables?u=76281980&t=145)** Now, that may be appropriate in certain situations.
 >
-> **[2:28](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-new-variables?u=76281980&t=148)** On the other hand, I've had lots of situations where you give somebody a questionnaire with 20 questions and they don't answer one or two of them, but you can still get close enough to what you need by averaging the rest of what's available, and so there's a very simple way of telling R to do that.
+> **[2:28](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-new-variables?u=76281980&t=148)** On the other hand, I've had lots of situations where you give somebody a questionnaire with 20 questions and they don't answer one or two of them, but you can still get close enough to what you need by averaging the [[Representational State Transfer (REST)|rest]] of what's available, and so there's a very simple way of telling R to do that.
 >
 > **[2:46](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-new-variables?u=76281980&t=166)** And as you add the argument, "na.rm = T", and what that stands for is not available or missing data, rm means remove, and then the T is for true.
 >
@@ -3212,7 +3186,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (4), rm (2)
 > **Code Identifiers:** rowmeans (2), mean_xy (1)
 > **Definitions:** is a  (2), stands for (1)
@@ -3225,8 +3199,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Computing frequencies
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-frequencies-25384059?u=76281980)
+#### [Computing frequencies](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-frequencies-25384059?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3302,18 +3275,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), hit (1)
 > **Definitions:** is a  (2), defined as (1)
 > **UI Navigation:** select the (1), go to (1)
 > **Env Vars:** csv (1)
 > **Speakers:** - [instructor] (1)
 
-#### Computing descriptives
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-descriptives?u=76281980)
+#### [Computing descriptives](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-descriptives?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-descriptives?u=76281980&t=0)** - [Instructor] For your quantitative variables, you're going to want to start with basic descriptive statistics.
+> **[0:00](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-descriptives?u=76281980&t=0)** - [Instructor] For your quantitative variables, you're going to want to start with basic descriptive [[Statistics]].
 >
 > **[0:05](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-descriptives?u=76281980&t=5)** That includes things like the mean, the standard deviation, and maybe the quartiles.
 >
@@ -3357,7 +3328,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-descriptives?u=76281980&t=88)** And for the factors like region and psy_region and psy_reg, it gives us how many cases there are for each of those.
 >
-> **[1:36](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-descriptives?u=76281980&t=96)** We scroll through the Google trends data, and we get those same summaries, the quartiles, and minimum/maximum, the mean.
+> **[1:36](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-descriptives?u=76281980&t=96)** We scroll through the [[Google]] trends data, and we get those same summaries, the quartiles, and minimum/maximum, the mean.
 >
 > **[1:46](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-descriptives?u=76281980&t=106)** And then we have a series of yes no questions at the end, that because I coded them as factors, it simply tells us how many yeses and nos there are.
 >
@@ -3371,7 +3342,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-descriptives?u=76281980&t=138)** Now, if you're familiar with box plots, you know that you can also get this five-number summary.
 >
-> **[2:23](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-descriptives?u=76281980&t=143)** It was developed by John Tukey, and we have a built-in function called fivenum, which is what he called the minimum, the lower hinge, median, upper hinge, and maximum, where the lower hinge and the upper hinge are usually identical to the first and third quartiles.
+> **[2:23](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-descriptives?u=76281980&t=143)** It was developed by [[John the Ripper|John]] Tukey, and we have a built-in function called fivenum, which is what he called the minimum, the lower hinge, median, upper hinge, and maximum, where the lower hinge and the upper hinge are usually identical to the first and third quartiles.
 >
 > **[2:40](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-descriptives?u=76281980&t=160)** The trick is it doesn't label them.
 >
@@ -3417,15 +3388,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Statistics]] (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Google]] (1), [[John the Ripper|John]] (1)
 > **Code Identifiers:** psy_reg (2), psych_region (1), psy_region (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Computing correlations
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-correlations?u=76281980)
+#### [Computing correlations](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-correlations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3437,11 +3407,11 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-correlations?u=76281980&t=19)** Now I'm going to show you some basic correlations using the quantitative variables in our dataset.
 >
-> **[0:27](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-correlations?u=76281980&t=27)** So I'm taking some of the Google Trends data, and that is again, the state by state relative popularity of some search terms.
+> **[0:27](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-correlations?u=76281980&t=27)** So I'm taking some of the [[Google]] Trends data, and that is again, the state by state relative popularity of some search terms.
 >
 > **[0:35](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-correlations?u=76281980&t=35)** And I'm using several that all have to do with data.
 >
-> **[0:39](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-correlations?u=76281980&t=39)** Specifically, I'm using data science, artificial intelligence, machine learning, data analysis, business intelligence, spreadsheet, and statistics.
+> **[0:39](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-correlations?u=76281980&t=39)** Specifically, I'm using [[Data Science]], [[Artificial Intelligence (AI)|artificial intelligence]], machine learning, data analysis, [[Business Intelligence (BI)|business intelligence]], spreadsheet, and [[Statistics]].
 >
 > **[0:48](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-correlations?u=76281980&t=48)** And what I'm going to do right here is I'm using the select command which normally I use to just choose the variables.
 >
@@ -3467,7 +3437,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-correlations?u=76281980&t=113)** And because I have all quantitative variables, it knows to make a scatter plot matrix.
 >
-> **[1:57](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-correlations?u=76281980&t=117)** So let's run that one and zoom in on it.
+> **[1:57](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-correlations?u=76281980&t=117)** So let's run that one and [[Zoom]] in on it.
 >
 > **[2:02](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-correlations?u=76281980&t=122)** And so what we have here is a scatter plot matrix and we have the name of each variable going down the diagonal from top left to bottom right.
 >
@@ -3493,7 +3463,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-correlations?u=76281980&t=192)** On the other hand, there appears to be some relationship between business intelligence and spreadsheet.
 >
-> **[3:18](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-correlations?u=76281980&t=198)** And then stats or statistics can mean a lot of different things 'cause remember, as a general search term, it doesn't mean that they're wanting to know about statistical analysis.
+> **[3:18](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-correlations?u=76281980&t=198)** And then stats or statistics can mean a lot of different things 'cause remember, as a general search term, it doesn't mean that they're wanting to know about [[Statistical Analysis]].
 >
 > **[3:25](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-correlations?u=76281980&t=205)** They might be looking for statistics about their favorite sports team.
 >
@@ -3557,7 +3527,7 @@ created: 2026-05-02
 >
 > **[6:15](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-correlations?u=76281980&t=375)** Now there's obviously a lot more you can do with correlations.
 >
-> **[6:19](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-correlations?u=76281980&t=379)** One thing that you probably would want to do is get a correlation matrix with the probability values for every correlation in that matrix.
+> **[6:19](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-correlations?u=76281980&t=379)** One thing that you probably would want to do is get a correlation matrix with the [[Probability]] values for every correlation in that matrix.
 >
 > **[6:28](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-correlations?u=76281980&t=388)** The standard core function in R doesn't do that but there are packages you can download such as Hmisc, or Rstatics that are able to do those along with additional functions for analyzing correlations.
 >
@@ -3567,7 +3537,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), [[Search]] (7), [[Artificial Intelligence (AI)|Artificial intelligence]] (6), [[Statistics]] (5), [[Business Intelligence (BI)|Business intelligence]] (4)
+> **Frameworks & Libraries:** [[Data Science]] (9), [[Artificial Intelligence (AI)|Artificial intelligence]] (6), [[Statistics]] (5), [[Business Intelligence (BI)|Business intelligence]] (4), [[Google]] (1)
 > **Versions:** 0.31 (2), 0.91 (1), 0.7 (1), 0.80 (1), 0.93 (1)
 > **Analogies:** for instance (2), similar to (1), such as (1)
 > **CLI Commands:** make (1), find (1)
@@ -3575,28 +3545,27 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Computing a linear regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-a-linear-regression?u=76281980)
+#### [Computing a linear regression](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-a-linear-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-a-linear-regression?u=76281980&t=1)** - [Instructor] When working with data, one of the most interesting things you can do is start building models, that is statistical models, where you're trying to use a group of variables to predict a particular outcome.
 >
-> **[0:12](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-a-linear-regression?u=76281980&t=12)** And the simplest and most flexible and often the most powerful way of doing this is with linear regression, and this is a very simple thing to do in R.
+> **[0:12](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-a-linear-regression?u=76281980&t=12)** And the simplest and most flexible and often the most powerful way of doing this is with [[Linear Regression]], and this is a very simple thing to do in R.
 >
 > **[0:23](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-a-linear-regression?u=76281980&t=23)** Let's start by loading a couple of packages, and then let's read our dataset.
 >
-> **[0:28](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-a-linear-regression?u=76281980&t=28)** Now what I'm going to do here is I'm going to pick the personality variables on a state-by-state basis, and all of the Google Trends variables.
+> **[0:28](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-a-linear-regression?u=76281980&t=28)** Now what I'm going to do here is I'm going to pick the personality variables on a state-by-state basis, and all of the [[Google]] Trends variables.
 >
 > **[0:38](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-a-linear-regression?u=76281980&t=38)** And when I do that, you can see that they've all loaded here, we've got a pretty big dataset, it's got 20 variables at the moment.
 >
 > **[0:48](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-a-linear-regression?u=76281980&t=48)** Let's make a scatter plot of a subset of this.
 >
-> **[0:51](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-a-linear-regression?u=76281980&t=51)** Let's take just the search term data science, so how much that term pops up relatively speaking from state to state, along with the five personality variables on a state-by-state basis.
+> **[0:51](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-a-linear-regression?u=76281980&t=51)** Let's take just the search term [[Data Science]], so how much that term pops up relatively speaking from state to state, along with the five personality variables on a state-by-state basis.
 >
 > **[1:03](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-a-linear-regression?u=76281980&t=63)** So data science and extroversion through openness, and let's make a scatter plot of those.
 >
-> **[1:12](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-a-linear-regression?u=76281980&t=72)** When we zoom in on that, here's our term "data science," which in this first column is going to cross the bottom on the X-axis, and on the top row is going up the side on the Y-axis.
+> **[1:12](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-a-linear-regression?u=76281980&t=72)** When we [[Zoom]] in on that, here's our term "data science," which in this first column is going to cross the bottom on the X-axis, and on the top row is going up the side on the Y-axis.
 >
 > **[1:23](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-a-linear-regression?u=76281980&t=83)** I'm interested in whether any of these personality variables can predict the relative interest in data science and I see a lot of not really strong patterns, but there is an interesting one here at the end.
 >
@@ -3644,7 +3613,7 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-a-linear-regression?u=76281980&t=262)** So summary of Fit1, and I'll make this a little bigger here, it gives us the residuals, which are an important way of diagnosing what's going on with the model, and you'll be able to tell that things will be come much more spread out as the values go up.
 >
-> **[4:38](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-a-linear-regression?u=76281980&t=278)** We also get the coefficients, there's the intercept and there's the slope, along with the standard error, a T-test for each of them, and a probability.
+> **[4:38](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-a-linear-regression?u=76281980&t=278)** We also get the coefficients, there's the intercept and there's the slope, along with the standard error, a T-test for each of them, and a [[Probability]].
 >
 > **[4:47](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-a-linear-regression?u=76281980&t=287)** And so the slope is functionally equivalent to, excuse me, and so the intercept is functionally equivalent to zero, but the slope is highly significant, very different from zero.
 >
@@ -3714,14 +3683,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), [[Linear Regression]] (3), [[Search]] (3), [[Zoom]] (2), [[Probability]] (2)
+> **Frameworks & Libraries:** [[Data Science]] (19), [[Linear Regression]] (3), [[Zoom]] (2), [[Probability]] (2), [[Google]] (1)
 > **Definitions:** is a  (4), is an  (2)
 > **CLI Commands:** make (5)
 > **Versions:** 0.8 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Computing contingency tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-contingency-tables?u=76281980)
+#### [Computing contingency tables](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-contingency-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3821,7 +3789,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), open-source (1), [[Programming]] (1)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** psy_reg (3)
 > **Analogies:** for instance (2)
@@ -3834,8 +3801,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3847,13 +3813,13 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/next-steps?u=76281980&t=15)** A few possibilities that might be especially useful for you are to explore the other courses that we have available on the principles of data.
 >
-> **[0:23](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/next-steps?u=76281980&t=23)** So data science, data analytics, statistical analysis, any one of those to give you the concepts that you'll be using when you work with a tool like R.
+> **[0:23](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/next-steps?u=76281980&t=23)** So [[Data Science]], data analytics, [[Statistical Analysis]], any one of those to give you the concepts that you'll be using when you work with a tool like R.
 >
 > **[0:34](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/next-steps?u=76281980&t=34)** Second one is, in case you're not familiar with it, spreadsheets are an extremely important tool.
 >
-> **[0:38](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/next-steps?u=76281980&t=38)** And I suggest that anybody who works with data in any capacity should be able to work comfortably and fluently with spreadsheets, Microsoft Excel, Google Sheets, or some other choice that's used in your organization.
+> **[0:38](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/next-steps?u=76281980&t=38)** And I suggest that anybody who works with data in any capacity should be able to work comfortably and fluently with spreadsheets, [[Microsoft Excel]], [[Google]] Sheets, or some other choice that's used in your organization.
 >
-> **[0:51](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/next-steps?u=76281980&t=51)** Also, it would make sense to take a look at other data science programming languages like Python, being the number one choice, but maybe Julia, maybe Sass, maybe Stata.
+> **[0:51](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/next-steps?u=76281980&t=51)** Also, it would make sense to take a look at other data science programming languages like [[Python (Programming Language)|Python]], being the number one choice, but maybe Julia, maybe Sass, maybe [[Stata]].
 >
 > **[1:02](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/next-steps?u=76281980&t=62)** There are other choices, and depending on the field that you're going into, some of these are going to be more popular than others.
 >
@@ -3891,7 +3857,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), next (2), business (2), [[Analytics]] (1), [[Statistical Analysis]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (4), [[Statistical Analysis]] (1), [[Microsoft Excel]] (1), [[Google]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (2), python (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** it's like (1)

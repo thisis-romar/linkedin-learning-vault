@@ -82,24 +82,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome to deep learning with TensorFlow
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/welcome-to-deep-learning-with-tensorflow?u=76281980)
+#### [Welcome to deep learning with TensorFlow](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/welcome-to-deep-learning-with-tensorflow?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/welcome-to-deep-learning-with-tensorflow?u=76281980&t=0)** - Ready to turn your ideas into AI powered reality?
 >
-> **[0:04](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/welcome-to-deep-learning-with-tensorflow?u=76281980&t=4)** We are going to take TensorFlow and transform the way you think about data and machine learning.
+> **[0:04](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/welcome-to-deep-learning-with-tensorflow?u=76281980&t=4)** We are going to take [[TensorFlow]] and transform the way you think about data and machine learning.
 >
-> **[0:10](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/welcome-to-deep-learning-with-tensorflow?u=76281980&t=10)** Whether it's setting up your workspace in codespaces, or building the models that can predict the future, or housing prices in this case, this course is designed to give you the skills to make it happen with Python, TensorFlow, and some of the most other powerful libraries like NumPy and Matplotlib, we will be creating, training, and fine-tuning models that deliver results.
+> **[0:10](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/welcome-to-deep-learning-with-tensorflow?u=76281980&t=10)** Whether it's setting up your workspace in [[Codespaces]], or building the models that can predict the future, or housing prices in this case, this course is designed to give you the skills to make it happen with [[Python (Programming Language)|Python]], TensorFlow, and some of the most other powerful libraries like NumPy and Matplotlib, we will be creating, training, and fine-tuning models that deliver results.
 >
-> **[0:35](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/welcome-to-deep-learning-with-tensorflow?u=76281980&t=35)** I'm Isil, Founder of DigiFab AI, and a LinkedIn Top Voice.
+> **[0:35](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/welcome-to-deep-learning-with-tensorflow?u=76281980&t=35)** I'm Isil, Founder of DigiFab AI, and a [[LinkedIn]] Top Voice.
 >
 > **[0:40](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/welcome-to-deep-learning-with-tensorflow?u=76281980&t=40)** Together, we are going to master TensorFlow and turn your data into gold.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[TensorFlow]] (3), ai (2), data (2), [[Codespaces]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[TensorFlow]] (3), [[Codespaces]] (1), [[Python (Programming Language)|Python]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1), python (1)
 > **Speakers:** - ready (1)
 
@@ -108,12 +107,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Codespaces: Your ready-to-use workspace
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/codespaces-your-ready-to-use-workspace?u=76281980)
+#### [Codespaces: Your ready-to-use workspace](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/codespaces-your-ready-to-use-workspace?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/codespaces-your-ready-to-use-workspace?u=76281980&t=0)** - [Instructor] In this course, we are leveraging GitHub Codespaces to give you a cloud-powered development environment.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/codespaces-your-ready-to-use-workspace?u=76281980&t=0)** - [Instructor] In this course, we are leveraging [[GitHub]] [[Codespaces]] to give you a cloud-powered development environment.
 >
 > **[0:07](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/codespaces-your-ready-to-use-workspace?u=76281980&t=7)** This tool makes coding more flexible and accessible than ever before.
 >
@@ -173,7 +171,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/codespaces-your-ready-to-use-workspace?u=76281980&t=191)** We will start with the begin.py files and then progress through the lessons, transforming your code into the end.py files.
 >
-> **[3:20](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/codespaces-your-ready-to-use-workspace?u=76281980&t=200)** This transition from the initial to the final state of each script will mirror your growth in understanding TensorFlow with deep learning.
+> **[3:20](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/codespaces-your-ready-to-use-workspace?u=76281980&t=200)** This transition from the initial to the final state of each script will mirror your growth in understanding [[TensorFlow]] with [[Deep Learning]].
 >
 > **[3:29](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/codespaces-your-ready-to-use-workspace?u=76281980&t=209)** GitHub Codespaces is a leap toward modern, convenient, and collaborative coding education.
 >
@@ -185,7 +183,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (6), [[GitHub]] (3), cloud (2), functional (1), web (1)
+> **Frameworks & Libraries:** [[Codespaces]] (6), [[GitHub]] (3), [[TensorFlow]] (1), [[Deep Learning]] (1)
 > **Tools:** visual studio (4), github (3), terminal (2)
 > **File Paths:** begin.py (2), end.py (2)
 > **Prerequisites:** setup (3), you'll need (1)
@@ -194,12 +192,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (2)
 > **Env Vars:** src (1)
 
-#### Setting up TensorFlow with Codespaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/setting-up-tensorflow-with-codespaces?u=76281980)
+#### [Setting up TensorFlow with Codespaces](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/setting-up-tensorflow-with-codespaces?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/setting-up-tensorflow-with-codespaces?u=76281980&t=0)** - [Lecturer] In this session, we will be setting up TensorFlow using GitHub Codespaces, which simplifies the process significantly.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/setting-up-tensorflow-with-codespaces?u=76281980&t=0)** - [Lecturer] In this session, we will be setting up [[TensorFlow]] using [[GitHub]] [[Codespaces]], which simplifies the process significantly.
 >
 > **[0:08](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/setting-up-tensorflow-with-codespaces?u=76281980&t=8)** So the beauty of Codespaces is that it automatically configures your environment, thanks to the requirements.txt file included in the course repository.
 >
@@ -237,7 +234,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (6), [[TensorFlow]] (5), [[GitHub]] (2), web (2), prompt (1)
+> **Frameworks & Libraries:** [[Codespaces]] (6), [[TensorFlow]] (5), [[GitHub]] (2)
 > **Tools:** github (2), terminal (1), visual studio (1), vs code (1)
 > **File Paths:** requirements.txt (4)
 > **Prerequisites:** setup (4)
@@ -250,12 +247,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### TensorFlow essentials
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/tensorflow-essentials?u=76281980)
+#### [TensorFlow essentials](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/tensorflow-essentials?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/tensorflow-essentials?u=76281980&t=0)** - [Instructor] In this session, we are going to explore how you can become a master chef in the world of neural networks using TensorFlow.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/tensorflow-essentials?u=76281980&t=0)** - [Instructor] In this session, we are going to explore how you can become a master chef in the world of [[Neural Networks]] using [[TensorFlow]].
 >
 > **[0:09](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/tensorflow-essentials?u=76281980&t=9)** Think of Keras as your sauce chef, making things easier.
 >
@@ -263,7 +259,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/tensorflow-essentials?u=76281980&t=24)** Why use TensorFlow's lower-level API?
 >
-> **[0:28](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/tensorflow-essentials?u=76281980&t=28)** Think of Keras as your sauce chef, handling the basics so you can focus on creating great recipes or deep learning models.
+> **[0:28](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/tensorflow-essentials?u=76281980&t=28)** Think of Keras as your sauce chef, handling the basics so you can focus on creating great recipes or [[Deep Learning]] models.
 >
 > **[0:37](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/tensorflow-essentials?u=76281980&t=37)** Keras simplifies model building, but sometimes you need more control, like adding a secret ingredient or adjusting the cooking time.
 >
@@ -275,7 +271,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/tensorflow-essentials?u=76281980&t=64)** So think of TensorFlow as like a high-powered kitchen appliance, versatile and efficient for numerical computations and machine learning tasks.
 >
-> **[1:14](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/tensorflow-essentials?u=76281980&t=74)** It's developed by Google's Brain Team.
+> **[1:14](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/tensorflow-essentials?u=76281980&t=74)** It's developed by [[Google]]'s Brain Team.
 >
 > **[1:18](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/tensorflow-essentials?u=76281980&t=78)** It's the secret sauce behind many of Google's services, like Google Photos and search.
 >
@@ -285,9 +281,9 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/tensorflow-essentials?u=76281980&t=93)** First of all, similarity to NumPy.
 >
-> **[1:36](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/tensorflow-essentials?u=76281980&t=96)** If you have used the Python library NumPy, TensorFlow will feel familiar, but with the added power of GPU support.
+> **[1:36](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/tensorflow-essentials?u=76281980&t=96)** If you have used the [[Python (Programming Language)|Python]] library NumPy, TensorFlow will feel familiar, but with the added power of GPU support.
 >
-> **[1:44](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/tensorflow-essentials?u=76281980&t=104)** So keep in mind at the time of this recording, codespaces do not support GPU.
+> **[1:44](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/tensorflow-essentials?u=76281980&t=104)** So keep in mind at the time of this recording, [[Codespaces]] do not support GPU.
 >
 > **[1:49](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/tensorflow-essentials?u=76281980&t=109)** So for the sake of this class, we won't be utilizing GPU, but just know that if you are utilizing TensorFlow in your local environment, and if you do have access to a GPU support, TensorFlow is very similar to NumPy with added GPU support.
 >
@@ -305,13 +301,13 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/tensorflow-essentials?u=76281980&t=164)** So next, let's look at computation graphs.
 >
-> **[2:47](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/tensorflow-essentials?u=76281980&t=167)** These graphs allow you to export and run your computations in different environments from Python to Java on Android.
+> **[2:47](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/tensorflow-essentials?u=76281980&t=167)** These graphs allow you to export and run your computations in different environments from Python to [[Java]] on [[Android]].
 >
 > **[2:55](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/tensorflow-essentials?u=76281980&t=175)** It's like having a recipe that works perfectly, whether you are cooking at home or in a professional kitchen.
 >
 > **[3:02](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/tensorflow-essentials?u=76281980&t=182)** Next, reverse mode differentiation.
 >
-> **[3:04](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/tensorflow-essentials?u=76281980&t=184)** It's a fancy word, but this helps in optimizing your recipes, in other words, models by efficiently computing gradients.
+> **[3:04](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/tensorflow-essentials?u=76281980&t=184)** It's a fancy [[Microsoft Word|word]], but this helps in optimizing your recipes, in other words, models by efficiently computing gradients.
 >
 > **[3:13](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/tensorflow-essentials?u=76281980&t=193)** Think of it as having a culinary GPS that guides you through the exact steps needed for the perfect dish.
 >
@@ -347,7 +343,7 @@ created: 2026-05-02
 >
 > **[4:46](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/tensorflow-essentials?u=76281980&t=286)** It can handle tasks on CPUs, GPUs, and even TPUs for faster performance.
 >
-> **[4:54](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/tensorflow-essentials?u=76281980&t=294)** It supports various languages, including Python, C++, Java, and Swift, making it a versatile tool in your toolkit.
+> **[4:54](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/tensorflow-essentials?u=76281980&t=294)** It supports various languages, including Python, C++, Java, and [[Swift (Programming Language)|Swift]], making it a versatile tool in your toolkit.
 >
 > **[5:03](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/tensorflow-essentials?u=76281980&t=303)** This is like having a multi-language cookbook that works anywhere and everywhere.
 >
@@ -369,7 +365,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[TensorFlow]] (19), next (8), api (7), [[Deep Learning]] (5), [[Python (Programming Language)|Python]] (4)
+> **Frameworks & Libraries:** [[TensorFlow]] (19), [[Deep Learning]] (5), [[Python (Programming Language)|Python]] (4), [[Google]] (3), [[Java]] (2)
 > **Env Vars:** api (7), gpu (5), gps (1)
 > **Analogies:** it's like (4), think of it as (2), similar to (1), imagine (1)
 > **CLI Commands:** python (4)
@@ -377,12 +373,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### TensorFlow simplified for NumPy users
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/tensorflow-simplified-for-numpy-users?u=76281980)
+#### [TensorFlow simplified for NumPy users](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/tensorflow-simplified-for-numpy-users?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/tensorflow-simplified-for-numpy-users?u=76281980&t=0)** - [Instructor] In this session, we will explore how to use TensorFlow like NumPy.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/tensorflow-simplified-for-numpy-users?u=76281980&t=0)** - [Instructor] In this session, we will explore how to use [[TensorFlow]] like NumPy.
 >
 > **[0:05](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/tensorflow-simplified-for-numpy-users?u=76281980&t=5)** TensorFlow's API revolves around tensors, which are essentially multi-dimensional arrays similar to NumPy's ndarray.
 >
@@ -454,7 +449,7 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/tensorflow-simplified-for-numpy-users?u=76281980&t=233)** For example, you can double the values in a variable V using v.assign(2*v).
 >
-> **[4:01](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/tensorflow-simplified-for-numpy-users?u=76281980&t=241)** TensorFlow supports several other data structures.
+> **[4:01](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/tensorflow-simplified-for-numpy-users?u=76281980&t=241)** TensorFlow supports several other [[Data Structures]].
 >
 > **[4:03](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/tensorflow-simplified-for-numpy-users?u=76281980&t=243)** For example, Sparse Tensors, which we can access by typing tf.SparseTensor represent Tensors with many zeros efficiently.
 >
@@ -476,22 +471,21 @@ created: 2026-05-02
 >
 > **[4:36](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/tensorflow-simplified-for-numpy-users?u=76281980&t=276)** Sets and queues are also supported for more advanced data operations.
 >
-> **[4:42](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/tensorflow-simplified-for-numpy-users?u=76281980&t=282)** With these operations, variables and data structures at your disposal, you are now ready to customize your models and training algorithms using TensorFlow in ways that feel familiar if you come from a NumPy background.
+> **[4:42](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/tensorflow-simplified-for-numpy-users?u=76281980&t=282)** With these operations, variables and data structures at your disposal, you are now ready to customize your models and training [[Algorithms]] using TensorFlow in ways that feel familiar if you come from a NumPy background.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[TensorFlow]] (9), data (4), next (3), api (2), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[TensorFlow]] (9), [[Data Structures]] (2), [[Algorithms]] (1)
 > **Analogies:** for example (7), such as (4), similar to (1)
 > **Code Identifiers:** reduce_sum (1), reduce_max (1), assign_add (1)
 > **Env Vars:** api (2)
 > **Speakers:** - [instructor] (1)
 
-#### Machine learning workflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/machine-learning-workflow?u=76281980)
+#### [Machine learning workflow](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/machine-learning-workflow?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/machine-learning-workflow?u=76281980&t=0)** - [Instructor] Now that we have covered TensorFlow and its simplified interface for NumPy users, it's now time to dive into the machine learning workflow.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/machine-learning-workflow?u=76281980&t=0)** - [Instructor] Now that we have covered [[TensorFlow]] and its simplified interface for NumPy users, it's now time to dive into the machine learning workflow.
 >
 > **[0:09](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/machine-learning-workflow?u=76281980&t=9)** Think of it as your recipe book for crafting successful ML projects, ensuring you have a structured approach to tackle any task from appetizers to main courses.
 >
@@ -505,7 +499,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/machine-learning-workflow?u=76281980&t=35)** Follow by explore the data to gain insights.
 >
-> **[0:39](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/machine-learning-workflow?u=76281980&t=39)** Then prepare the data for machine learning algorithms.
+> **[0:39](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/machine-learning-workflow?u=76281980&t=39)** Then prepare the data for machine learning [[Algorithms]].
 >
 > **[0:43](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/machine-learning-workflow?u=76281980&t=43)** Then explore different models and shortlist the best ones.
 >
@@ -531,7 +525,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/machine-learning-workflow?u=76281980&t=115)** In this particular case, it doesn't matter that it's a little bit of a older dataset.
 >
-> **[2:00](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/machine-learning-workflow?u=76281980&t=120)** It serves the purpose perfectly for us to learn deep learning with TensorFlow.
+> **[2:00](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/machine-learning-workflow?u=76281980&t=120)** It serves the purpose perfectly for us to learn [[Deep Learning]] with TensorFlow.
 >
 > **[2:06](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/machine-learning-workflow?u=76281980&t=126)** This dataset has been slightly modified for instructional purposes.
 >
@@ -541,7 +535,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/machine-learning-workflow?u=76281980&t=144)** Once we have the data, we explore it to gain insights.
 >
-> **[2:28](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/machine-learning-workflow?u=76281980&t=148)** Using Python libraries like Pandas, we can look at the first few rows with the head function, and then we can get an overview with the info function and check statistics with the describe function.
+> **[2:28](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/machine-learning-workflow?u=76281980&t=148)** Using [[Python (Programming Language)|Python]] libraries like [[Pandas (Software)|Pandas]], we can look at the first few rows with the head function, and then we can get an overview with the info function and check [[Statistics]] with the describe function.
 >
 > **[2:43](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/machine-learning-workflow?u=76281980&t=163)** Visualizing data with histograms and scatter plots helps identify patterns and anomalies.
 >
@@ -565,7 +559,7 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/machine-learning-workflow?u=76281980&t=233)** With our data ready, we move to selecting and training a model.
 >
-> **[3:58](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/machine-learning-workflow?u=76281980&t=238)** We start with simple models like linear regression to get a baseline.
+> **[3:58](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/machine-learning-workflow?u=76281980&t=238)** We start with simple models like [[Linear Regression]] to get a baseline.
 >
 > **[4:02](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/machine-learning-workflow?u=76281980&t=242)** Then try more complex models like Decision Tree regressor or Random Forest Regressor.
 >
@@ -573,7 +567,7 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/machine-learning-workflow?u=76281980&t=255)** This is like trying different recipes to find the best one, ensuring your final dish is delicious.
 >
-> **[4:22](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/machine-learning-workflow?u=76281980&t=262)** So after selecting a model, fine tuning is crucial.
+> **[4:22](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/machine-learning-workflow?u=76281980&t=262)** So after selecting a model, [[Fine Tuning]] is crucial.
 >
 > **[4:26](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/machine-learning-workflow?u=76281980&t=266)** We use GridSearchCV to explore hyper parameter combinations to see which combinations are performing the best to be able to select the best ones or we use RandomizedSearchCV for large spaces.
 >
@@ -615,7 +609,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[TensorFlow]] (5), next (2), [[Algorithms]] (2), business (1)
+> **Frameworks & Libraries:** [[TensorFlow]] (5), [[Algorithms]] (2), [[Deep Learning]] (1), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1)
 > **Analogies:** picture (2), for example (2), think of it as (1), it's like (1), for instance (1)
 > **CLI Commands:** python (1), find (1)
 > **Code Identifiers:** cross_val_score (1)
@@ -623,18 +617,17 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Normalizing tensors
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/challenge-normalizing-tensors?u=76281980)
+#### [Challenge: Normalizing tensors](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/challenge-normalizing-tensors?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/challenge-normalizing-tensors?u=76281980&t=0)** - [Instructor] In this section, we are going to dive into a hands-on coding challenge that will help solidify our understanding of TensorFlow operations.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/challenge-normalizing-tensors?u=76281980&t=0)** - [Instructor] In this section, we are going to dive into a hands-on coding challenge that will help solidify our understanding of [[TensorFlow]] operations.
 >
-> **[0:15](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/challenge-normalizing-tensors?u=76281980&t=15)** So the focus here will be on normalizing tensors and computing basic statistics like mean and standard deviation.
+> **[0:15](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/challenge-normalizing-tensors?u=76281980&t=15)** So the focus here will be on normalizing tensors and computing basic [[Statistics]] like mean and standard deviation.
 >
 > **[0:23](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/challenge-normalizing-tensors?u=76281980&t=23)** So let's open up the code spaces on the web browser, and you will see a screen like this.
 >
-> **[0:29](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/challenge-normalizing-tensors?u=76281980&t=29)** Then on the left pane, let's go ahead and enlarge the SRC folder, and open up the 02_04_challenge Python file.
+> **[0:29](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/challenge-normalizing-tensors?u=76281980&t=29)** Then on the left pane, let's go ahead and enlarge the SRC folder, and open up the 02_04_challenge [[Python (Programming Language)|Python]] file.
 >
 > **[0:39](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/challenge-normalizing-tensors?u=76281980&t=39)** So we will approach this particular challenge, just like a homework assignment, and then we will walk through the solution together.
 >
@@ -712,7 +705,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[TensorFlow]] (5), data (2), [[Statistics]] (1), web (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[TensorFlow]] (5), [[Statistics]] (1), [[Python (Programming Language)|Python]] (1)
 > **Tools:** terminal (3)
 > **Analogies:** just like (1), imagine (1)
 > **CLI Commands:** python (1)
@@ -720,8 +713,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Step-by-step statistical analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/solution-step-by-step-statistical-analysis?u=76281980)
+#### [Solution: Step-by-step statistical analysis](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/solution-step-by-step-statistical-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -739,7 +731,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/solution-step-by-step-statistical-analysis?u=76281980&t=36)** We will first start again from our challenge code.
 >
-> **[0:40](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/solution-step-by-step-statistical-analysis?u=76281980&t=40)** Find the src folder from the left pane and click on 02_04_challenge Python file.
+> **[0:40](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/solution-step-by-step-statistical-analysis?u=76281980&t=40)** Find the src folder from the left pane and click on 02_04_challenge [[Python (Programming Language)|Python]] file.
 >
 > **[0:48](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/solution-step-by-step-statistical-analysis?u=76281980&t=48)** First of all, we will go through the solution here, and the completed code will be available in 02_05_solution Python file.
 >
@@ -747,7 +739,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/solution-step-by-step-statistical-analysis?u=76281980&t=66)** This is crucial because dividing integers might not yield the correct normalized values, and here is how we can do it.
 >
-> **[1:15](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/solution-step-by-step-statistical-analysis?u=76281980&t=75)** So, we are going to go ahead and continue on after creating a TensorFlow tensor with shape of four by four, we will start by saying cast the tensor to float before normalization.
+> **[1:15](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/solution-step-by-step-statistical-analysis?u=76281980&t=75)** So, we are going to go ahead and continue on after creating a [[TensorFlow]] tensor with shape of four by four, we will start by saying cast the tensor to float before normalization.
 >
 > **[1:32](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/solution-step-by-step-statistical-analysis?u=76281980&t=92)** And then let's go ahead and do that, so we will say tensor equal to, we will use tf.cast, and then we will have tensor comma tf.float32.
 >
@@ -809,7 +801,7 @@ created: 2026-05-02
 >
 > **[5:04](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/solution-step-by-step-statistical-analysis?u=76281980&t=304)** When we calculate the mean and standard deviation using TensorFlow's reduce_mean and reduce_std functions it became really straightforward because we took advantage of the built-in functions.
 >
-> **[5:16](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/solution-step-by-step-statistical-analysis?u=76281980&t=316)** These functions efficiently compute the required statistics across the entire tensor.
+> **[5:16](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/solution-step-by-step-statistical-analysis?u=76281980&t=316)** These functions efficiently compute the required [[Statistics]] across the entire tensor.
 >
 > **[5:22](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/solution-step-by-step-statistical-analysis?u=76281980&t=322)** And there you have it.
 >
@@ -837,7 +829,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[TensorFlow]] (6), next (6), [[Python (Programming Language)|Python]] (2), [[Statistics]] (2)
+> **Frameworks & Libraries:** [[TensorFlow]] (6), [[Python (Programming Language)|Python]] (2), [[Statistics]] (2)
 > **Code Identifiers:** reduce_mean (2), reduce_std (2), normalized_tensor (1)
 > **Versions:** 9.0 (4)
 > **Tools:** terminal (4)
@@ -851,12 +843,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Let's create a TensorFlow model
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/let-s-create-a-tensorflow-model?u=76281980)
+#### [Let's create a TensorFlow model](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/let-s-create-a-tensorflow-model?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/let-s-create-a-tensorflow-model?u=76281980&t=0)** - [Instructor] In this session, we will take our first step into building a TensorFlow model from scratch.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/let-s-create-a-tensorflow-model?u=76281980&t=0)** - [Instructor] In this session, we will take our first step into building a [[TensorFlow]] model from scratch.
 >
 > **[0:06](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/let-s-create-a-tensorflow-model?u=76281980&t=6)** We will go through the entire process.
 >
@@ -878,11 +869,11 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/let-s-create-a-tensorflow-model?u=76281980&t=59)** So let's go ahead and look at the left pane here and find the SRC folder.
 >
-> **[1:05](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/let-s-create-a-tensorflow-model?u=76281980&t=65)** And then once you find it, enlarge it and click on the 03_01_begin python file.
+> **[1:05](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/let-s-create-a-tensorflow-model?u=76281980&t=65)** And then once you find it, enlarge it and click on the 03_01_begin [[Python (Programming Language)|python]] file.
 >
 > **[1:13](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/let-s-create-a-tensorflow-model?u=76281980&t=73)** Before we start, let's go over the libraries that we have available here that we are utilizing.
 >
-> **[1:19](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/let-s-create-a-tensorflow-model?u=76281980&t=79)** First we are calling the SK learn dot datasets and we are importing fetch California housing.
+> **[1:19](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/let-s-create-a-tensorflow-model?u=76281980&t=79)** First we are calling the SK learn dot datasets and we are importing [[Fetch]] California housing.
 >
 > **[1:27](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/let-s-create-a-tensorflow-model?u=76281980&t=87)** So this is something we do that allows us to load the California housing dataset later on in the code, which is a regression dataset where the goal is to predict, again, the housing prices.
 >
@@ -892,7 +883,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/let-s-create-a-tensorflow-model?u=76281980&t=117)** And standard scaler is nothing but a tool to standardize features by removing the mean and scaling to unit variance.
 >
-> **[2:06](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/let-s-create-a-tensorflow-model?u=76281980&t=126)** Next we go ahead and import TensorFlow as TF, which is a open source library for machine learning and deep learning and is the main focus of our course.
+> **[2:06](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/let-s-create-a-tensorflow-model?u=76281980&t=126)** Next we go ahead and import TensorFlow as TF, which is a open source library for machine learning and [[Deep Learning]] and is the main focus of our course.
 >
 > **[2:16](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/let-s-create-a-tensorflow-model?u=76281980&t=136)** Now let's go ahead and load the data and split the datasets.
 >
@@ -1024,7 +1015,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (16), data (11), [[TensorFlow]] (4), [[Python (Programming Language)|Python]] (2), [[Fetch]] (2)
+> **Frameworks & Libraries:** [[TensorFlow]] (4), [[Python (Programming Language)|Python]] (2), [[Fetch]] (2), [[Deep Learning]] (1)
 > **CLI Commands:** find (2), python (2), make (1)
 > **Definitions:** is a  (3), in other words (1)
 > **Env Vars:** src (1), sgd (1), mse (1)
@@ -1033,12 +1024,11 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Best Practices:** good practice (1)
 
-#### Preprocessing and feeding data into your model
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/preprocessing-and-feeding-data-into-your-model?u=76281980)
+#### [Preprocessing and feeding data into your model](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/preprocessing-and-feeding-data-into-your-model?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/preprocessing-and-feeding-data-into-your-model?u=76281980&t=0)** - [Instructor] Let's move on to the next step in our journey with TensorFlow.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/preprocessing-and-feeding-data-into-your-model?u=76281980&t=0)** - [Instructor] Let's move on to the next step in our journey with [[TensorFlow]].
 >
 > **[0:04](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/preprocessing-and-feeding-data-into-your-model?u=76281980&t=4)** In this section, we will dive into the critical process of data pre-processing.
 >
@@ -1054,13 +1044,13 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/preprocessing-and-feeding-data-into-your-model?u=76281980&t=36)** Then we will move on to scaling, visualizing, and preparing it for our model.
 >
-> **[0:41](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/preprocessing-and-feeding-data-into-your-model?u=76281980&t=41)** First of all, let's open up Codespaces and then find the src folder, and click on the 03_02_begin.py.
+> **[0:41](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/preprocessing-and-feeding-data-into-your-model?u=76281980&t=41)** First of all, let's open up [[Codespaces]] and then find the src folder, and click on the 03_02_begin.py.
 >
 > **[0:52](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/preprocessing-and-feeding-data-into-your-model?u=76281980&t=52)** So this is where we will begin coding and we will end up in 03_02_end.py.
 >
 > **[1:01](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/preprocessing-and-feeding-data-into-your-model?u=76281980&t=61)** So let's go ahead and start with importing libraries here.
 >
-> **[1:06](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/preprocessing-and-feeding-data-into-your-model?u=76281980&t=66)** So we will have to have pandas, numpy, matplotlib, seaborn, sklearn, and tensorflow.
+> **[1:06](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/preprocessing-and-feeding-data-into-your-model?u=76281980&t=66)** So we will have to have [[Pandas (Software)|pandas]], numpy, matplotlib, seaborn, sklearn, and tensorflow.
 >
 > **[1:13](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/preprocessing-and-feeding-data-into-your-model?u=76281980&t=73)** So our task here is to see what's missing and start adding them one by one.
 >
@@ -1080,7 +1070,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/preprocessing-and-feeding-data-into-your-model?u=76281980&t=135)** So that sums up our libraries that we will be working with here.
 >
-> **[2:20](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/preprocessing-and-feeding-data-into-your-model?u=76281980&t=140)** Again, Pandas is used for data manipulation and analysis.
+> **[2:20](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/preprocessing-and-feeding-data-into-your-model?u=76281980&t=140)** Again, Pandas is used for [[Data Manipulation]] and analysis.
 >
 > **[2:24](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/preprocessing-and-feeding-data-into-your-model?u=76281980&t=144)** NumPy used for numerical computations.
 >
@@ -1098,7 +1088,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/preprocessing-and-feeding-data-into-your-model?u=76281980&t=187)** Next, go ahead and continue on with the code.
 >
-> **[3:10](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/preprocessing-and-feeding-data-into-your-model?u=76281980&t=190)** So we will fetch and prepare the dataset like we did in the earlier section.
+> **[3:10](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/preprocessing-and-feeding-data-into-your-model?u=76281980&t=190)** So we will [[Fetch]] and prepare the dataset like we did in the earlier section.
 >
 > **[3:15](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/preprocessing-and-feeding-data-into-your-model?u=76281980&t=195)** We create a housing variable, and then we go ahead and use the fetch_california_housing, which loads the California housing dataset into the variable housing.
 >
@@ -1124,7 +1114,7 @@ created: 2026-05-02
 >
 > **[4:31](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/preprocessing-and-feeding-data-into-your-model?u=76281980&t=271)** So let's go ahead and start visualizing the data from here on.
 >
-> **[4:36](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/preprocessing-and-feeding-data-into-your-model?u=76281980&t=276)** So let's modify the Python code for that.
+> **[4:36](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/preprocessing-and-feeding-data-into-your-model?u=76281980&t=276)** So let's modify the [[Python (Programming Language)|Python]] code for that.
 >
 > **[4:39](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/preprocessing-and-feeding-data-into-your-model?u=76281980&t=279)** We will have visualizing the data from now on, and we will start by displaying the first few rows, see how our data looks like, to see the structure.
 >
@@ -1412,7 +1402,7 @@ created: 2026-05-02
 >
 > **[21:04](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/preprocessing-and-feeding-data-into-your-model?u=76281980&t=1264)** So we can see the distribution on median house value by opening up the output folder and finding the particular session we are in, which is 03_02_distribution_plot.
 >
-> **[21:18](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/preprocessing-and-feeding-data-into-your-model?u=76281980&t=1278)** Next, we can see feature pairplots, and we might have to zoom in to see the feature pairplots.
+> **[21:18](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/preprocessing-and-feeding-data-into-your-model?u=76281980&t=1278)** Next, we can see feature pairplots, and we might have to [[Zoom]] in to see the feature pairplots.
 >
 > **[21:24](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/preprocessing-and-feeding-data-into-your-model?u=76281980&t=1284)** So this is how target is changing with house age, average rooms, average bedrooms, et cetera, and all the other features that we can see here.
 >
@@ -1430,7 +1420,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), next (22), [[TensorFlow]] (6), [[Pandas (Software)|Pandas]] (6), feature (3)
+> **Frameworks & Libraries:** [[TensorFlow]] (6), [[Pandas (Software)|Pandas]] (6), [[Codespaces]] (1), [[Data Manipulation]] (1), [[Fetch]] (1)
 > **Code Identifiers:** housing_df (5), scaled_train_df (5), fetch_california_housing (3), test_train_split (2), feature_names (2)
 > **CLI Commands:** make (4), find (1), python (1)
 > **Analogies:** such as (1), it's like (1), imagine (1), similar to (1), just like (1)
@@ -1439,18 +1429,17 @@ created: 2026-05-02
 > **Versions:** 10.6 (1), 0.35 (1)
 > **Tools:** terminal (2)
 
-#### Monitor training and validation
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/monitor-training-and-validation?u=76281980)
+#### [Monitor training and validation](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/monitor-training-and-validation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/monitor-training-and-validation?u=76281980&t=0)** - [Instructor] Now that we have successfully pre-processed our data and then build our machine learning model, it's time to move on to the exciting part, training our tensorflow model and then going ahead and looking at its performance visually.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/monitor-training-and-validation?u=76281980&t=0)** - [Instructor] Now that we have successfully pre-processed our data and then build our machine learning model, it's time to move on to the exciting part, training our [[TensorFlow]] model and then going ahead and looking at its performance visually.
 >
 > **[0:16](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/monitor-training-and-validation?u=76281980&t=16)** This will give us a clear understanding of how well our model is learning and where it might be facing challenges.
 >
-> **[0:25](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/monitor-training-and-validation?u=76281980&t=25)** So, let's go ahead and meet at the Codespaces main page.
+> **[0:25](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/monitor-training-and-validation?u=76281980&t=25)** So, let's go ahead and meet at the [[Codespaces]] main page.
 >
-> **[0:29](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/monitor-training-and-validation?u=76281980&t=29)** And then from here, we are going to find the src folder and then click on the 03_03_begin Python file, indicating that this is the beginning Python file that we will be starting with.
+> **[0:29](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/monitor-training-and-validation?u=76281980&t=29)** And then from here, we are going to find the src folder and then click on the 03_03_begin [[Python (Programming Language)|Python]] file, indicating that this is the beginning Python file that we will be starting with.
 >
 > **[0:43](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/monitor-training-and-validation?u=76281980&t=43)** And then, we will end up in 03_03_ and Python file.
 >
@@ -1644,7 +1633,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Python (Programming Language)|Python]] (5), next (5), [[TensorFlow]] (2), [[Codespaces]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[TensorFlow]] (2), [[Codespaces]] (2)
 > **CLI Commands:** python (5), make (4), find (3)
 > **Code Identifiers:** mse_test (4), fetch_california_housing (1), fit_transform (1), mean_squared_error (1), y_train (1)
 > **Env Vars:** plt (1), png (1), mse (1)
@@ -1653,23 +1642,21 @@ created: 2026-05-02
 > **Versions:** 0.35 (1)
 > **Analogies:** similar to (1)
 
-#### Success metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/success-metrics?u=76281980)
+#### [Success metrics](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/success-metrics?u=76281980)
 
-#### Save and reuse trained models
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/save-and-reuse-trained-models?u=76281980)
+#### [Save and reuse trained models](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/save-and-reuse-trained-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/save-and-reuse-trained-models?u=76281980&t=0)** - [Instructor] In this video, we are going to explore how to save and reuse train models in TensorFlow.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/save-and-reuse-trained-models?u=76281980&t=0)** - [Instructor] In this video, we are going to explore how to save and reuse train models in [[TensorFlow]].
 >
 > **[0:06](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/save-and-reuse-trained-models?u=76281980&t=6)** Being able to save a model after training and load it later is a very important step in any machine learning project.
 >
 > **[0:15](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/save-and-reuse-trained-models?u=76281980&t=15)** This allows us to share our models, deploy them into production environments, or continue training them at a later time.
 >
-> **[0:23](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/save-and-reuse-trained-models?u=76281980&t=23)** Let's go ahead and open up the SRC folder from our Codespaces environment.
+> **[0:23](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/save-and-reuse-trained-models?u=76281980&t=23)** Let's go ahead and open up the SRC folder from our [[Codespaces]] environment.
 >
-> **[0:28](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/save-and-reuse-trained-models?u=76281980&t=28)** Find 03_05_begin Python file.
+> **[0:28](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/save-and-reuse-trained-models?u=76281980&t=28)** Find 03_05_begin [[Python (Programming Language)|Python]] file.
 >
 > **[0:33](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/save-and-reuse-trained-models?u=76281980&t=33)** So this Python file includes where we left off in the last session and then we are going to go ahead and continue.
 >
@@ -1849,7 +1836,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (12), power (4), [[Python (Programming Language)|Python]] (3), [[TensorFlow]] (2), [[Codespaces]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[TensorFlow]] (2), [[Codespaces]] (1)
 > **Code Identifiers:** loaded_model (4), x_test (3), load_model (2), reduce_all (2), loaded_test (1)
 > **CLI Commands:** python (3), find (2), make (2)
 > **Definitions:** is a  (3), in other words (2)
@@ -1858,12 +1845,11 @@ created: 2026-05-02
 > **Env Vars:** src (1)
 > **Cross-References:** in the last (1)
 
-#### Autoencoders: A gentle introduction to generative models
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/autoencoders-a-gentle-introduction-to-generative-models?u=76281980)
+#### [Autoencoders: A gentle introduction to generative models](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/autoencoders-a-gentle-introduction-to-generative-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/autoencoders-a-gentle-introduction-to-generative-models?u=76281980&t=0)** - [Instructor] In this section, we will dive into using TensorFlow to build and train an autoencoder for anomaly detection.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/autoencoders-a-gentle-introduction-to-generative-models?u=76281980&t=0)** - [Instructor] In this section, we will dive into using [[TensorFlow]] to build and train an autoencoder for anomaly detection.
 >
 > **[0:08](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/autoencoders-a-gentle-introduction-to-generative-models?u=76281980&t=8)** This autoencoder will be applied to the same California housing dataset we have been working with.
 >
@@ -1877,7 +1863,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/autoencoders-a-gentle-introduction-to-generative-models?u=76281980&t=50)** So let's meet again in the code spaces environment and from the left pane, find the SRC folder.
 >
-> **[0:56](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/autoencoders-a-gentle-introduction-to-generative-models?u=76281980&t=56)** Then go ahead and find the 03_06_begin python pile.
+> **[0:56](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/autoencoders-a-gentle-introduction-to-generative-models?u=76281980&t=56)** Then go ahead and find the 03_06_begin [[Python (Programming Language)|python]] pile.
 >
 > **[1:03](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/autoencoders-a-gentle-introduction-to-generative-models?u=76281980&t=63)** So we start with loading and pre-processing data as we usually do.
 >
@@ -2117,7 +2103,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (39), next (15), [[Python (Programming Language)|Python]] (3), [[TensorFlow]] (2), feature (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[TensorFlow]] (2)
 > **CLI Commands:** python (3), make (3), find (2)
 > **Code Identifiers:** fit_transform (1), validation_data (1), x_valid (1), plot_reconstruction (1), reconstructed_samples (1)
 > **Definitions:** in other words (2), is a  (2), is an  (1)
@@ -2126,16 +2112,15 @@ created: 2026-05-02
 > **Env Vars:** src (1)
 > **Tools:** terminal (1)
 
-#### Challenge: My first TensorFlow model
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/challenge-my-first-tensorflow-model?u=76281980)
+#### [Challenge: My first TensorFlow model](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/challenge-my-first-tensorflow-model?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/challenge-my-first-tensorflow-model?u=76281980&t=0)** - [Instructor] Wow, we have covered a lot of ground with deep learning with TensorFlow.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/challenge-my-first-tensorflow-model?u=76281980&t=0)** - [Instructor] Wow, we have covered a lot of ground with [[Deep Learning]] with [[TensorFlow]].
 >
 > **[0:09](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/challenge-my-first-tensorflow-model?u=76281980&t=9)** Next, we are going to work on a challenge where you get to practice the learnings from importing libraries to standardization, to pre-processing, to creating the model, training the model, evaluating the model, and finally, creating the figures to see the results of our deep learning model.
 >
-> **[0:26](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/challenge-my-first-tensorflow-model?u=76281980&t=26)** So if you are ready, meet me in the code spaces, and from the left pane, find the SRC folder and find the 03_07_challenge Python file.
+> **[0:26](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/challenge-my-first-tensorflow-model?u=76281980&t=26)** So if you are ready, meet me in the code spaces, and from the left pane, find the SRC folder and find the 03_07_challenge [[Python (Programming Language)|Python]] file.
 >
 > **[0:38](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/challenge-my-first-tensorflow-model?u=76281980&t=38)** So in this Python file, you will see that we have the libraries pre-installed for us, including TensorFlow, SK Learn data sets, SK Learn model selection, SK Learn pre-processing, Mat Plot Lib, and so on.
 >
@@ -2161,14 +2146,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Deep Learning]] (2), [[TensorFlow]] (2), next (2), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Deep Learning]] (2), [[TensorFlow]] (2), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** find (2), python (2)
 > **Env Vars:** src (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Building blocks to TensorFlow mastery
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/solution-building-blocks-to-tensorflow-mastery?u=76281980)
+#### [Solution: Building blocks to TensorFlow mastery](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/solution-building-blocks-to-tensorflow-mastery?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2176,13 +2160,13 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/solution-building-blocks-to-tensorflow-mastery?u=76281980&t=5)** - [Instructor] Welcome to the solution video.
 >
-> **[0:07](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/solution-building-blocks-to-tensorflow-mastery?u=76281980&t=7)** Now we are going to start from the challenge code, which is 03_07_challenge.py, and we will make our way to the solution Python file, which is 03_08_solution.py.
+> **[0:07](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/solution-building-blocks-to-tensorflow-mastery?u=76281980&t=7)** Now we are going to start from the challenge code, which is 03_07_challenge.py, and we will make our way to the solution [[Python (Programming Language)|Python]] file, which is 03_08_solution.py.
 >
 > **[0:22](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/solution-building-blocks-to-tensorflow-mastery?u=76281980&t=22)** So let's go ahead and close the left window by clicking Explorer here, and then we are going to go ahead and continue with our challenge code to make it our way to the solution code.
 >
 > **[0:34](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/solution-building-blocks-to-tensorflow-mastery?u=76281980&t=34)** So let's go ahead and review what we have so far.
 >
-> **[0:37](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/solution-building-blocks-to-tensorflow-mastery?u=76281980&t=37)** We have important and necessary libraries such as tensorflow, sklearn, matplotlib.
+> **[0:37](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/solution-building-blocks-to-tensorflow-mastery?u=76281980&t=37)** We have important and necessary libraries such as [[TensorFlow]], sklearn, matplotlib.
 >
 > **[0:42](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/solution-building-blocks-to-tensorflow-mastery?u=76281980&t=42)** Then we went ahead with loading and preparing the dataset.
 >
@@ -2256,7 +2240,7 @@ created: 2026-05-02
 >
 > **[4:39](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/solution-building-blocks-to-tensorflow-mastery?u=76281980&t=279)** Again, MSE is a commonly used loss function for regression tasks, which is what we are doing right here, where the goal is to minimize the difference between the predicted and actual values.
 >
-> **[4:51](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/solution-building-blocks-to-tensorflow-mastery?u=76281980&t=291)** SGD is a straightforward and effective optimizer for training neural networks, particularly suitable for smaller models.
+> **[4:51](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/solution-building-blocks-to-tensorflow-mastery?u=76281980&t=291)** SGD is a straightforward and effective optimizer for training [[Neural Networks]], particularly suitable for smaller models.
 >
 > **[5:00](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/solution-building-blocks-to-tensorflow-mastery?u=76281980&t=300)** Next, we are going to move on training the model.
 >
@@ -2438,7 +2422,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), next (18), [[TensorFlow]] (3), [[Python (Programming Language)|Python]] (1), [[Neural Networks]] (1)
+> **Frameworks & Libraries:** [[TensorFlow]] (3), [[Python (Programming Language)|Python]] (1), [[Neural Networks]] (1)
 > **CLI Commands:** make (7), python (1), find (1)
 > **Code Identifiers:** fit_transform (2), input_shape (1), mean_squared_error (1), y_train (1), y_valid (1)
 > **File Paths:** 03_08_solution.py (2), 03_07_challenge.py (1)
@@ -2452,14 +2436,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Visualizing success with TensorBoard
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/visualizing-success-with-tensorboard?u=76281980)
+#### [Visualizing success with TensorBoard](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/visualizing-success-with-tensorboard?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/visualizing-success-with-tensorboard?u=76281980&t=0)** - [Instructor] So before we dive into the code, let's talk about TensorBoard.
 >
-> **[0:05](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/visualizing-success-with-tensorboard?u=76281980&t=5)** Visit www.[tensorflow.org/tensorboard](https://tensorflow.org/tensorboard).
+> **[0:05](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/visualizing-success-with-tensorboard?u=76281980&t=5)** Visit www.[[[TensorFlow]].org/tensorboard](https://tensorflow.org/tensorboard).
 >
 > **[0:10](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/visualizing-success-with-tensorboard?u=76281980&t=10)** So what is TensorBoard?
 >
@@ -2481,9 +2464,9 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/visualizing-success-with-tensorboard?u=76281980&t=61)** So let's go back to our code and incorporate TensorBoard to our project.
 >
-> **[1:07](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/visualizing-success-with-tensorboard?u=76281980&t=67)** So please go ahead and meet me in your Codespaces.
+> **[1:07](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/visualizing-success-with-tensorboard?u=76281980&t=67)** So please go ahead and meet me in your [[Codespaces]].
 >
-> **[1:11](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/visualizing-success-with-tensorboard?u=76281980&t=71)** Find the SRC folder from the left pane and find 04_01_begin Python file.
+> **[1:11](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/visualizing-success-with-tensorboard?u=76281980&t=71)** Find the SRC folder from the left pane and find 04_01_begin [[Python (Programming Language)|Python]] file.
 >
 > **[1:21](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/visualizing-success-with-tensorboard?u=76281980&t=81)** So let's start with the initial setup for our TensorFlow model where we will be using the California housing data set again.
 >
@@ -2759,7 +2742,7 @@ created: 2026-05-02
 >
 > **[15:37](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/visualizing-success-with-tensorboard?u=76281980&t=937)** For example, if the histograms are very narrow or skewed, it could indicate issues like vanishing or exploding gradients.
 >
-> **[15:47](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/visualizing-success-with-tensorboard?u=76281980&t=947)** And when it comes to fine tuning visualizations, the setting allows us to customize how data is displayed.
+> **[15:47](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/visualizing-success-with-tensorboard?u=76281980&t=947)** And when it comes to [[Fine Tuning]] visualizations, the setting allows us to customize how data is displayed.
 >
 > **[15:55](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/visualizing-success-with-tensorboard?u=76281980&t=955)** It makes it easier to interpret the results and make decisions about our training process.
 >
@@ -2769,7 +2752,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), next (13), [[TensorFlow]] (5), [[Python (Programming Language)|Python]] (3), [[Codespaces]] (1)
+> **Frameworks & Libraries:** [[TensorFlow]] (5), [[Python (Programming Language)|Python]] (3), [[Codespaces]] (1), [[Fine Tuning]] (1)
 > **CLI Commands:** make (8), find (3), python (3)
 > **Code Identifiers:** x_train (2), plot_loss (2), log_dir (1), y_train (1), sms_test (1)
 > **UI Navigation:** click on (3), scroll up (1), navigate to (1)
@@ -2778,18 +2761,17 @@ created: 2026-05-02
 > **Analogies:** for example (2), such as (1)
 > **Prerequisites:** set up (2), setup (1)
 
-#### Deep dives into training metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/deep-dives-into-training-metrics?u=76281980)
+#### [Deep dives into training metrics](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/deep-dives-into-training-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/deep-dives-into-training-metrics?u=76281980&t=0)** - [Instructor] In this session, we are going to build on what we learned previously about TensorBoard and model training.
 >
-> **[0:07](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/deep-dives-into-training-metrics?u=76281980&t=7)** So please meet me in your codespaces, find the src folder from your left panel and find 04_02_begin.py file.
+> **[0:07](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/deep-dives-into-training-metrics?u=76281980&t=7)** So please meet me in your [[Codespaces]], find the src folder from your left panel and find 04_02_begin.py file.
 >
 > **[0:19](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/deep-dives-into-training-metrics?u=76281980&t=19)** So let's start with the begin code, and then make our way to match with the end code right here, which is 04_02_end.py file.
 >
-> **[0:31](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/deep-dives-into-training-metrics?u=76281980&t=31)** So this setup is similar to what we have seen before, but it leaves out some key components that we will complete together and match to the end Python file.
+> **[0:31](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/deep-dives-into-training-metrics?u=76281980&t=31)** So this setup is similar to what we have seen before, but it leaves out some key components that we will complete together and match to the end [[Python (Programming Language)|Python]] file.
 >
 > **[0:42](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/deep-dives-into-training-metrics?u=76281980&t=42)** So this part should be familiar.
 >
@@ -2809,7 +2791,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/deep-dives-into-training-metrics?u=76281980&t=113)** So let's scroll up and add some of the libraries that are missing from this begin code in order to incorporate TensorBoard.
 >
-> **[2:04](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/deep-dives-into-training-metrics?u=76281980&t=124)** So from tensorflow.keras.callbacks import TensorBoard.
+> **[2:04](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/deep-dives-into-training-metrics?u=76281980&t=124)** So from [[TensorFlow]].keras.callbacks import TensorBoard.
 >
 > **[2:17](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/deep-dives-into-training-metrics?u=76281980&t=137)** So from tensorflow.keras.callbacks import TensorBoard.
 >
@@ -3085,7 +3067,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (11), data (8), [[TensorFlow]] (2), [[Codespaces]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[TensorFlow]] (2), [[Codespaces]] (1), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** tensorboard_callback (7), log_dir (3), histogram_freq (3), epoch_learning_rate (2), epoch_loss (2)
 > **CLI Commands:** make (6), find (3), python (1)
 > **UI Navigation:** click on (3), scroll up (1), scroll down (1), open the (1), select the (1)
@@ -3099,8 +3081,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3112,13 +3093,13 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/next-steps?u=76281980&t=11)** But don't stop here, the skills you gain are just the beginning.
 >
-> **[0:16](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/next-steps?u=76281980&t=16)** Whether you want to refine your models, explore new data sets, or dive deeper into TensorFlow's advanced features, the next step is yours to take.
+> **[0:16](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/next-steps?u=76281980&t=16)** Whether you want to refine your models, explore new data sets, or dive deeper into [[TensorFlow]]'s advanced features, the next step is yours to take.
 >
 > **[0:26](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/next-steps?u=76281980&t=26)** And remember, every experiment, every line of code, is a step closer to mastery.
 >
 > **[0:32](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/next-steps?u=76281980&t=32)** You've earned this, download your certificate and let the world know what you've achieved.
 >
-> **[0:38](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/next-steps?u=76281980&t=38)** Keep the conversation going, follow me on LinkedIn, visit my website @[digifab.ai](https://digifab.ai) and let's keep pushing the boundaries together.
+> **[0:38](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/next-steps?u=76281980&t=38)** Keep the conversation going, follow me on [[LinkedIn]], visit my website @[digifab.ai](https://digifab.ai) and let's keep pushing the boundaries together.
 >
 > **[0:47](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/next-steps?u=76281980&t=47)** Thanks for trusting me to be a part of your learning journey.
 >
@@ -3128,7 +3109,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), ai (2), data (1), [[TensorFlow]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[TensorFlow]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **URLs:** [digifab.ai](https://digifab.ai) (1)
 > **Cross-References:** in the next (1)

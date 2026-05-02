@@ -85,16 +85,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Benefits of using Excel in healthcare
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/benefits-of-using-excel-in-healthcare?u=76281980)
+#### [Benefits of using Excel in healthcare](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/benefits-of-using-excel-in-healthcare?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/benefits-of-using-excel-in-healthcare?u=76281980&t=0)** - Healthcare, like all systems, depend on data, but data is dynamic.
 >
-> **[0:05](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/benefits-of-using-excel-in-healthcare?u=76281980&t=5)** You can convert its format to find the insights you need, but how do you drive improvement and support decision-making?
+> **[0:05](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/benefits-of-using-excel-in-healthcare?u=76281980&t=5)** You can convert its format to find the insights you need, but how do you drive improvement and support [[Decision-Making]]?
 >
-> **[0:14](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/benefits-of-using-excel-in-healthcare?u=76281980&t=14)** In this course, I'll teach us to use Excel, a populous spreadsheet tool, to transform raw data into actionable insights.
+> **[0:14](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/benefits-of-using-excel-in-healthcare?u=76281980&t=14)** In this course, I'll teach us to use [[Microsoft Excel|Excel]], a populous spreadsheet tool, to transform raw data into actionable insights.
 >
 > **[0:23](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/benefits-of-using-excel-in-healthcare?u=76281980&t=23)** Using healthcare scenarios and data sets, we'll create, analyze, and visualize a range of clinical and nonclinical use cases.
 >
@@ -106,20 +105,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Decision-Making]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - healthcare (1)
 
-#### Why Excel is relevant to healthcare
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/why-excel-is-relevant-to-healthcare?u=76281980)
+#### [Why Excel is relevant to healthcare](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/why-excel-is-relevant-to-healthcare?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/why-excel-is-relevant-to-healthcare?u=76281980&t=1)** - Microsoft Excel is a powerful spreadsheet program designed for data organization, calculation, analysis, and visualization.
+> **[0:01](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/why-excel-is-relevant-to-healthcare?u=76281980&t=1)** - [[Microsoft Excel]] is a powerful spreadsheet program designed for data organization, calculation, analysis, and visualization.
 >
 > **[0:11](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/why-excel-is-relevant-to-healthcare?u=76281980&t=11)** Like all spreadsheets, it works with various data types such as text and numbers stored in grids and it processes the relationship using formulas.
 >
-> **[0:22](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/why-excel-is-relevant-to-healthcare?u=76281980&t=22)** Excel has been around for about 39 years and has evolved significantly in functionality and design to be compatible with different operating systems and devices.
+> **[0:22](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/why-excel-is-relevant-to-healthcare?u=76281980&t=22)** [[Microsoft Excel|Excel]] has been around for about 39 years and has evolved significantly in functionality and design to be compatible with different operating systems and devices.
 >
 > **[0:34](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/why-excel-is-relevant-to-healthcare?u=76281980&t=34)** It is versatile and used by millions of professionals across industries from finance to healthcare.
 >
@@ -137,9 +135,9 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/why-excel-is-relevant-to-healthcare?u=76281980&t=74)** And finally, it's accessible in terms of availability of the tool, cross-compatibility with other spreadsheets, and technical knowhow.
 >
-> **[1:23](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/why-excel-is-relevant-to-healthcare?u=76281980&t=83)** It's easier to learn and get started with compared to alternative tools like Python or R programming.
+> **[1:23](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/why-excel-is-relevant-to-healthcare?u=76281980&t=83)** It's easier to learn and get started with compared to alternative tools like [[Python (Programming Language)|Python]] or R programming.
 >
-> **[1:31](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/why-excel-is-relevant-to-healthcare?u=76281980&t=91)** Excel is valuable in healthcare for a variety of tasks, including data management.
+> **[1:31](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/why-excel-is-relevant-to-healthcare?u=76281980&t=91)** Excel is valuable in healthcare for a variety of tasks, including [[Data Management]].
 >
 > **[1:37](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/why-excel-is-relevant-to-healthcare?u=76281980&t=97)** It helps structure both clinical and nonclinical records, shadows and inventory.
 >
@@ -159,24 +157,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (9), data (8), [[Microsoft Excel]] (1), game (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (9), [[Microsoft Excel]] (1), [[Python (Programming Language)|Python]] (1), [[Data Management]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** python (1)
 > **Analogies:** such as (1)
 > **Speakers:** - microsoft (1)
 
-#### The anatomy and navigation of the Excel interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/the-anatomy-and-navigation-of-the-excel-interface?u=76281980)
+#### [The anatomy and navigation of the Excel interface](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/the-anatomy-and-navigation-of-the-excel-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/the-anatomy-and-navigation-of-the-excel-interface?u=76281980&t=1)** - There are many ways to assess an Excel interface called the Workbook.
+> **[0:01](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/the-anatomy-and-navigation-of-the-excel-interface?u=76281980&t=1)** - There are many ways to assess an [[Microsoft Excel|Excel]] interface called the Workbook.
 >
 > **[0:05](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/the-anatomy-and-navigation-of-the-excel-interface?u=76281980&t=5)** In this course, we'll be using Excel online.
 >
-> **[0:09](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/the-anatomy-and-navigation-of-the-excel-interface?u=76281980&t=9)** Though limited in functionalities, it's free and readily available with a Microsoft email account.
+> **[0:09](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/the-anatomy-and-navigation-of-the-excel-interface?u=76281980&t=9)** Though limited in functionalities, it's free and readily available with a [[Microsoft]] email account.
 >
-> **[0:17](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/the-anatomy-and-navigation-of-the-excel-interface?u=76281980&t=17)** To get started, go to [office.com](https://office.com), where you have option to sign in or sign up for a free version of Microsoft 365.
+> **[0:17](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/the-anatomy-and-navigation-of-the-excel-interface?u=76281980&t=17)** To get started, go to [[[Microsoft Office|office]].com](https://office.com), where you have option to sign in or sign up for a free version of [[Microsoft 365]].
 >
 > **[0:30](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/the-anatomy-and-navigation-of-the-excel-interface?u=76281980&t=30)** Once you've logged in, create your first workbook by clicking on the Excel icon on the left pane or wherever the Excel notebook icon is displayed.
 >
@@ -239,18 +236,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating patient biodata entry forms with Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-patient-biodata-entry-forms-with-excel?u=76281980)
+#### [Creating patient biodata entry forms with Excel](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-patient-biodata-entry-forms-with-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-patient-biodata-entry-forms-with-excel?u=76281980&t=0)** - [Instructor] Collecting and organizing accurate patient information is vital in healthcare.
 >
-> **[0:05](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-patient-biodata-entry-forms-with-excel?u=76281980&t=5)** From small clinics to large hospitals, spreadsheets like Excel offer a readily available tool to manage this data effectively.
+> **[0:05](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-patient-biodata-entry-forms-with-excel?u=76281980&t=5)** From small clinics to large hospitals, spreadsheets like [[Microsoft Excel|Excel]] offer a readily available tool to manage this data effectively.
 >
 > **[0:15](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-patient-biodata-entry-forms-with-excel?u=76281980&t=15)** In this video, we create a simple yet powerful patient bio data form together.
 >
-> **[0:20](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-patient-biodata-entry-forms-with-excel?u=76281980&t=20)** We explore features like data validation, dropdown menus, and automatic ID generation to make data entry faster and more reliable.
+> **[0:20](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-patient-biodata-entry-forms-with-excel?u=76281980&t=20)** We explore features like [[Data Validation]], dropdown menus, and automatic ID generation to make data entry faster and more reliable.
 >
 > **[0:31](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-patient-biodata-entry-forms-with-excel?u=76281980&t=31)** A sample bio data form will capture essential details.
 >
@@ -322,7 +318,7 @@ created: 2026-05-02
 >
 > **[4:54](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-patient-biodata-entry-forms-with-excel?u=76281980&t=294)** Now that you know about data validation, I encourage you to try it on any of the other columns and you can share your findings in the Q and A.
 >
-> **[5:03](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-patient-biodata-entry-forms-with-excel?u=76281980&t=303)** When creating forms like this, you can make provision for predefined options.
+> **[5:03](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-patient-biodata-entry-forms-with-excel?u=76281980&t=303)** When creating [[Forms]] like this, you can make provision for predefined options.
 >
 > **[5:08](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-patient-biodata-entry-forms-with-excel?u=76281980&t=308)** For example, under Known Allergies, we can highlight the entire column, select data, under data validation, let's say it should allow a list, and under the source of the list, we should say yes or no, and go ahead to apply.
 >
@@ -336,7 +332,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Search]] (2), [[Microsoft Excel|Excel]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Data Validation]] (7), [[Microsoft Excel|Excel]] (1), [[Forms]] (1)
 > **UI Navigation:** click on (3), dropdown (2), select the (1), go to (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (2), just like (1), such as (1)
@@ -344,12 +340,11 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Designing patient care coordination templates with Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/designing-patient-care-coordination-templates-with-excel?u=76281980)
+#### [Designing patient care coordination templates with Excel](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/designing-patient-care-coordination-templates-with-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/designing-patient-care-coordination-templates-with-excel?u=76281980&t=0)** - [Instructor] In Excel, you can leverage multiple sheets to organize and reference your data.
+> **[0:00](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/designing-patient-care-coordination-templates-with-excel?u=76281980&t=0)** - [Instructor] In [[Microsoft Excel|Excel]], you can leverage multiple sheets to organize and reference your data.
 >
 > **[0:05](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/designing-patient-care-coordination-templates-with-excel?u=76281980&t=5)** This video will guide you through creating a care plan template for a hypothetical health center using Excel online.
 >
@@ -367,7 +362,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/designing-patient-care-coordination-templates-with-excel?u=76281980&t=78)** To ensure accuracy and avoid typos, we are going to create the dropdown menu for Patient ID in column A.
 >
-> **[1:27](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/designing-patient-care-coordination-templates-with-excel?u=76281980&t=87)** Select column A, click on data, data validation, list, and our source for this list, we are going to click on the patient data sheet and select column A.
+> **[1:27](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/designing-patient-care-coordination-templates-with-excel?u=76281980&t=87)** Select column A, click on data, [[Data Validation]], list, and our source for this list, we are going to click on the patient data sheet and select column A.
 >
 > **[1:51](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/designing-patient-care-coordination-templates-with-excel?u=76281980&t=111)** Now that we have a dropdown of the Patient ID, this will restrict selection to existing IDs in the patient bio data sheet, preventing entry errors.
 >
@@ -409,7 +404,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Data Validation]] (1)
 > **UI Navigation:** click on (3), dropdown (3), select the (2)
 > **Definitions:** is a  (2)
 > **Analogies:** just like (1), for example (1)
@@ -417,8 +412,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Analyzing patient demographics with Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/analyzing-patient-demographics-with-excel?u=76281980)
+#### [Analyzing patient demographics with Excel](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/analyzing-patient-demographics-with-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -428,13 +422,13 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/analyzing-patient-demographics-with-excel?u=76281980&t=10)** Some key demographic factors are age, gender, ethnicity, education, and occupation.
 >
-> **[0:18](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/analyzing-patient-demographics-with-excel?u=76281980&t=18)** In this video, I'll show you how to analyze patient demographics, using the sample dataset in Excel.
+> **[0:18](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/analyzing-patient-demographics-with-excel?u=76281980&t=18)** In this video, I'll show you how to analyze patient demographics, using the sample dataset in [[Microsoft Excel|Excel]].
 >
 > **[0:25](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/analyzing-patient-demographics-with-excel?u=76281980&t=25)** I encourage you to follow along in Excel with me.
 >
 > **[0:28](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/analyzing-patient-demographics-with-excel?u=76281980&t=28)** If you watched the video about biodata entry, you'll notice this dataset includes additional information like ethnicity, insurance status, and date of last visit.
 >
-> **[0:41](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/analyzing-patient-demographics-with-excel?u=76281980&t=41)** This demonstrates how you can customize data collection to meet specific needs.
+> **[0:41](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/analyzing-patient-demographics-with-excel?u=76281980&t=41)** This demonstrates how you can customize [[Data Collection]] to meet specific needs.
 >
 > **[0:46](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/analyzing-patient-demographics-with-excel?u=76281980&t=46)** The first thing we are going to do is to derive the age of the patient from the date of birth.
 >
@@ -550,7 +544,7 @@ created: 2026-05-02
 >
 > **[5:26](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/analyzing-patient-demographics-with-excel?u=76281980&t=326)** So this is what the data look like for young adult across the ethnic groups.
 >
-> **[5:31](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/analyzing-patient-demographics-with-excel?u=76281980&t=331)** There are countless ways to create impactful pivot tables.
+> **[5:31](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/analyzing-patient-demographics-with-excel?u=76281980&t=331)** There are countless ways to create impactful [[Pivot Tables]].
 >
 > **[5:35](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/analyzing-patient-demographics-with-excel?u=76281980&t=335)** I would encourage you to experiment with different layouts to discover new insights.
 >
@@ -558,15 +552,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Microsoft Excel|Excel]] (2), [[Pivot Tables]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Data Collection]] (1), [[Pivot Tables]] (1)
 > **UI Navigation:** click on (3), right-click (1), select the (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1)
 > **Warnings:** note that (1)
 > **Speakers:** - understanding (1)
 
-#### Performing patient wait time analysis with Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/performing-patient-wait-time-analysis-with-excel?u=76281980)
+#### [Performing patient wait time analysis with Excel](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/performing-patient-wait-time-analysis-with-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -598,7 +591,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/performing-patient-wait-time-analysis-with-excel?u=76281980&t=78)** And this shows again the power of formatting.
 >
-> **[1:21](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/performing-patient-wait-time-analysis-with-excel?u=76281980&t=81)** Everything you're working with Excel or any other spreadsheet before concluding that you have the wrong figures, it makes sense for you to confirm the formatting.
+> **[1:21](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/performing-patient-wait-time-analysis-with-excel?u=76281980&t=81)** Everything you're working with [[Microsoft Excel|Excel]] or any other spreadsheet before concluding that you have the wrong figures, it makes sense for you to confirm the formatting.
 >
 > **[1:33](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/performing-patient-wait-time-analysis-with-excel?u=76281980&t=93)** And now you can simply drag the formula down.
 >
@@ -624,7 +617,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/performing-patient-wait-time-analysis-with-excel?u=76281980&t=155)** And with our PivotTable, we've been able to summarize that.
 >
-> **[2:39](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/performing-patient-wait-time-analysis-with-excel?u=76281980&t=159)** We can look at other common statistics, like the average time spent by each patient, the minimum, maximum, and you can look at data like that.
+> **[2:39](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/performing-patient-wait-time-analysis-with-excel?u=76281980&t=159)** We can look at other common [[Statistics]], like the average time spent by each patient, the minimum, maximum, and you can look at data like that.
 >
 > **[2:50](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/performing-patient-wait-time-analysis-with-excel?u=76281980&t=170)** Let's create the new PivotTable.
 >
@@ -668,7 +661,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), power (1), [[Microsoft Excel|Excel]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Statistics]] (1)
 > **UI Navigation:** select the (2), go to (1)
 > **Ports:** :06 (1), :27 (1)
 > **Analogies:** for example (1), picture (1)
@@ -677,8 +670,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Analyzing your patient satisfaction survey with Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/analyzing-your-patient-satisfaction-survey-with-excel?u=76281980)
+#### [Analyzing your patient satisfaction survey with Excel](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/analyzing-your-patient-satisfaction-survey-with-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -792,7 +784,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5)
 > **UI Navigation:** click on (2), select the (1), toggle (1)
 > **Versions:** 2.93 (1), 3.02 (1), 3.06 (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -801,8 +792,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - patient (1)
 
-#### Build a disease outbreak monitoring dashboard: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/build-a-disease-outbreak-monitoring-dashboard-part-1?u=76281980)
+#### [Build a disease outbreak monitoring dashboard: Part 1](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/build-a-disease-outbreak-monitoring-dashboard-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -932,7 +922,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), next (1)
 > **Analogies:** such as (4), for example (3), just like (1)
 > **UI Navigation:** click on (4), select the (2), navigate to (1)
 > **Definitions:** is a  (4), is an  (1)
@@ -941,12 +930,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Build a disease outbreak monitoring dashboard: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/build-a-disease-outbreak-monitoring-dashboard-part-2?u=76281980)
+#### [Build a disease outbreak monitoring dashboard: Part 2](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/build-a-disease-outbreak-monitoring-dashboard-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/build-a-disease-outbreak-monitoring-dashboard-part-2?u=76281980&t=0)** - [Instructor] In the last video, we preprocessed some public health disease outbreak dummy dataset.
+> **[0:00](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/build-a-disease-outbreak-monitoring-dashboard-part-2?u=76281980&t=0)** - [Instructor] In the last video, we preprocessed some [[Public Health]] disease outbreak dummy dataset.
 >
 > **[0:06](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/build-a-disease-outbreak-monitoring-dashboard-part-2?u=76281980&t=6)** Now let's derive some key performance indicators and create charts for our interactive dashboard.
 >
@@ -1116,7 +1104,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Public Health]] (2), next (1), power (1)
+> **Frameworks & Libraries:** [[Public Health]] (2)
 > **UI Navigation:** click on (9)
 > **Env Vars:** kpi (2)
 > **Cross-References:** in the last (1), in the next (1)
@@ -1130,8 +1118,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating a nursing staff schedule with Excel: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-a-nursing-staff-schedule-part-1?u=76281980)
+#### [Creating a nursing staff schedule with Excel: Part 1](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-a-nursing-staff-schedule-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1139,7 +1126,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-a-nursing-staff-schedule-part-1?u=76281980&t=7)** Proper scheduling is essential for optimizing team efficiency, ensuring adequate coverage, and managing staff preferences.
 >
-> **[0:17](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-a-nursing-staff-schedule-part-1?u=76281980&t=17)** In this video, we work through the process of creating a dynamic scheduling template in Excel, tailored for hypothetical nursing team.
+> **[0:17](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-a-nursing-staff-schedule-part-1?u=76281980&t=17)** In this video, we work through the process of creating a dynamic scheduling template in [[Microsoft Excel|Excel]], tailored for hypothetical nursing team.
 >
 > **[0:28](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-a-nursing-staff-schedule-part-1?u=76281980&t=28)** The first sheet StaffDatabase contains information, searches, name, id, department, qualification, contact information, availability preferences, certifications and skills.
 >
@@ -1157,7 +1144,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-a-nursing-staff-schedule-part-1?u=76281980&t=100)** In cell A1 write year in cell B1 write 2024 in cell A2 write select month
 >
-> **[1:59](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-a-nursing-staff-schedule-part-1?u=76281980&t=119)** in cell B2 click on data, data validation, allow list, and for the source please names of months, January, February, November, December.
+> **[1:59](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-a-nursing-staff-schedule-part-1?u=76281980&t=119)** in cell B2 click on data, [[Data Validation]], allow list, and for the source please names of months, January, February, November, December.
 >
 > **[2:27](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-a-nursing-staff-schedule-part-1?u=76281980&t=147)** When you click on this icon, you now have an option to select the month that you're creating the schedule for.
 >
@@ -1261,7 +1248,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (2), database (2), teams (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Data Validation]] (2), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** click on (5), select the (3), dropdown (1)
 > **Ports:** :00 (4)
 > **CLI Commands:** make (3)
@@ -1270,8 +1257,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 
-#### Creating a nursing staff schedule with Excel: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-a-nursing-staff-schedule-with-excel-part-2?u=76281980)
+#### [Creating a nursing staff schedule with Excel: Part 2](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-a-nursing-staff-schedule-with-excel-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1281,7 +1267,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-a-nursing-staff-schedule-with-excel-part-2?u=76281980&t=8)** This is a dynamic sheet that is able to return the total summary for the selected staff.
 >
-> **[0:15](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-a-nursing-staff-schedule-with-excel-part-2?u=76281980&t=15)** In cell A1, click on data, data validation, allow list.
+> **[0:15](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-a-nursing-staff-schedule-with-excel-part-2?u=76281980&t=15)** In cell A1, click on data, [[Data Validation]], allow list.
 >
 > **[0:26](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-a-nursing-staff-schedule-with-excel-part-2?u=76281980&t=26)** For the data source, click on staff database, highlight their available names.
 >
@@ -1329,7 +1315,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), database (2)
+> **Frameworks & Libraries:** [[Data Validation]] (1)
 > **UI Navigation:** click on (3), dropdown (1), select the (1), scroll down (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** previous video (1)
@@ -1337,18 +1323,17 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tracking laboratory test samples and results with Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/tracking-laboratory-test-samples-and-results-with-excel?u=76281980)
+#### [Tracking laboratory test samples and results with Excel](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/tracking-laboratory-test-samples-and-results-with-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/tracking-laboratory-test-samples-and-results-with-excel?u=76281980&t=0)** - Laboratory test data pivotal in clinical investigations.
 >
-> **[0:05](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/tracking-laboratory-test-samples-and-results-with-excel?u=76281980&t=5)** In this video, we will walk through a dummy dataset to explore some of the ways Excel can make it easier to compute.
+> **[0:05](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/tracking-laboratory-test-samples-and-results-with-excel?u=76281980&t=5)** In this video, we will walk through a dummy dataset to explore some of the ways [[Microsoft Excel|Excel]] can make it easier to compute.
 >
 > **[0:13](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/tracking-laboratory-test-samples-and-results-with-excel?u=76281980&t=13)** The dataset provided contains columns like Sample ID, Patient ID, Age, Gender, Collection Date, Test Type, Specimen Type, Test method, Pre- Analytical Variables, Test Date, Test Results, and Unit of measurement.
 >
-> **[0:33](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/tracking-laboratory-test-samples-and-results-with-excel?u=76281980&t=33)** Excel tables are structured ranges of data that enable efficient data management and analysis.
+> **[0:33](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/tracking-laboratory-test-samples-and-results-with-excel?u=76281980&t=33)** Excel tables are structured ranges of data that enable efficient [[Data Management]] and analysis.
 >
 > **[0:41](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/tracking-laboratory-test-samples-and-results-with-excel?u=76281980&t=41)** To create a table with this dataset, first, we will select the range of cells and then Insert, Table.
 >
@@ -1436,7 +1421,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft Excel|Excel]] (3), management (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Data Management]] (1)
 > **UI Navigation:** click on (4), select the (2)
 > **Versions:** 13.5 (2), 17.5 (2)
 > **CLI Commands:** make (3)
@@ -1444,8 +1429,7 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Speakers:** - laboratory (1)
 
-#### Schedule and track quality improvement meeting attendance
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/schedule-and-track-quality-improvement-meeting-attendance?u=76281980)
+#### [Schedule and track quality improvement meeting attendance](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/schedule-and-track-quality-improvement-meeting-attendance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1453,7 +1437,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/schedule-and-track-quality-improvement-meeting-attendance?u=76281980&t=13)** These meetings are essential for improving patient safety, driving continuous improvement, and educating the care team.
 >
-> **[0:22](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/schedule-and-track-quality-improvement-meeting-attendance?u=76281980&t=22)** In this video, I will show you how to create and analyze an attendance register using Excel for this type of meeting in a hypothetical hospital.
+> **[0:22](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/schedule-and-track-quality-improvement-meeting-attendance?u=76281980&t=22)** In this video, I will show you how to create and analyze an attendance register using [[Microsoft Excel|Excel]] for this type of meeting in a hypothetical hospital.
 >
 > **[0:33](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/schedule-and-track-quality-improvement-meeting-attendance?u=76281980&t=33)** The dummy dataset contains basic bio-data information and indicate whether a staff was present, absent or excused from a particular meeting.
 >
@@ -1463,7 +1447,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/schedule-and-track-quality-improvement-meeting-attendance?u=76281980&t=60)** In this current database, there are about 285 staff members.
 >
-> **[1:07](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/schedule-and-track-quality-improvement-meeting-attendance?u=76281980&t=67)** Now that you highlighted this, go to data, Data Validation, List.
+> **[1:07](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/schedule-and-track-quality-improvement-meeting-attendance?u=76281980&t=67)** Now that you highlighted this, go to data, [[Data Validation]], List.
 >
 > **[1:17](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/schedule-and-track-quality-improvement-meeting-attendance?u=76281980&t=77)** And in the list we want to know if someone was present, absent or excused.
 >
@@ -1537,7 +1521,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Microsoft Excel|Excel]] (1), database (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Data Validation]] (1)
 > **UI Navigation:** go to (2), dropdown (1), select the (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (2)
@@ -1545,8 +1529,7 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Track project timelines with Gantt charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/track-project-timelines-with-gantt-charts?u=76281980)
+#### [Track project timelines with Gantt charts](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/track-project-timelines-with-gantt-charts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1616,7 +1599,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), management (1)
 > **UI Navigation:** click on (2), right-click (2), double-click (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1)
@@ -1627,14 +1609,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating a medication dosage calculation sheet in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-a-medication-dosage-calculation-sheet-in-excel?u=76281980)
+#### [Creating a medication dosage calculation sheet in Excel](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-a-medication-dosage-calculation-sheet-in-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-a-medication-dosage-calculation-sheet-in-excel?u=76281980&t=0)** - [Instructor] In clinical practice, medication dose calculation is pivotal.
 >
-> **[0:05](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-a-medication-dosage-calculation-sheet-in-excel?u=76281980&t=5)** In this video, we'll create a simple Excel template that takes the weight of a pediatric patient and calculates the hourly maintenance fluid based on the '4-2-1 rule.'
+> **[0:05](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-a-medication-dosage-calculation-sheet-in-excel?u=76281980&t=5)** In this video, we'll create a simple [[Microsoft Excel|Excel]] template that takes the weight of a pediatric patient and calculates the hourly maintenance fluid based on the '4-2-1 rule.'
 >
 > **[0:16](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-a-medication-dosage-calculation-sheet-in-excel?u=76281980&t=16)** The '4-2-1 rule' is a simplified method for estimating fluid requirements in children.
 >
@@ -1682,20 +1663,19 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-a-medication-dosage-calculation-sheet-in-excel?u=76281980&t=211)** Now that you've learned the basics of calculating pediatric fluid requirement using Excel, it's time to enhance your template.
 >
-> **[3:38](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-a-medication-dosage-calculation-sheet-in-excel?u=76281980&t=218)** For example, you can implement data validation to create a lot for critical values, such as maybe threshold for weight.
+> **[3:38](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-a-medication-dosage-calculation-sheet-in-excel?u=76281980&t=218)** For example, you can implement [[Data Validation]] to create a lot for critical values, such as maybe threshold for weight.
 >
 > **[3:47](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-a-medication-dosage-calculation-sheet-in-excel?u=76281980&t=227)** This can add an extra layer of safety to your calculation.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), next (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Data Validation]] (1)
 > **Exercise Files:** template (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Developing a symptom tracker in Excel: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/developing-a-symptom-tracker-in-excel-part-1?u=76281980)
+#### [Developing a symptom tracker in Excel: Part 1](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/developing-a-symptom-tracker-in-excel-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1783,7 +1763,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (2)
 > **Env Vars:** vstack (4), a20 (4), p0572 (3), p0174 (1), calc (1)
 > **Analogies:** such as (1), for example (1), just like (1)
 > **Definitions:** is a  (2)
@@ -1791,8 +1770,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Developing a symptom tracker in Excel: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/developing-a-symptom-tracker-in-excel-part-2?u=76281980)
+#### [Developing a symptom tracker in Excel: Part 2](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/developing-a-symptom-tracker-in-excel-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1810,7 +1788,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/developing-a-symptom-tracker-in-excel-part-2?u=76281980&t=53)** You can do this by highlighting the entire area or to make it faster, I like the first row where there are actual values and ctrl+shift and on your keyboard.
 >
-> **[1:06](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/developing-a-symptom-tracker-in-excel-part-2?u=76281980&t=66)** This is for Windows users.
+> **[1:06](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/developing-a-symptom-tracker-in-excel-part-2?u=76281980&t=66)** This is for [[Windows]] users.
 >
 > **[1:08](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/developing-a-symptom-tracker-in-excel-part-2?u=76281980&t=68)** Now that you have the range of cells highlighted at the upper left corner in the name box, type in Jan data and enter.
 >
@@ -1902,7 +1880,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Windows]] (2)
+> **Frameworks & Libraries:** [[Windows]] (2)
 > **UI Navigation:** click on (4), select the (1), dropdown (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** previous video (1), later in (1)
@@ -1910,8 +1888,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
-#### Creating a patient discharge planning checklist
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-a-patient-discharge-planning-checklist?u=76281980)
+#### [Creating a patient discharge planning checklist](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-a-patient-discharge-planning-checklist?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2013,7 +1990,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1)
 > **UI Navigation:** checkbox (5)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is an  (1)
@@ -2024,8 +2000,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating an inventory tracker for an antiretroviral clinic
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-an-inventory-tracker-for-an-antiretroviral-clinic?u=76281980)
+#### [Creating an inventory tracker for an antiretroviral clinic](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-an-inventory-tracker-for-an-antiretroviral-clinic?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2055,7 +2030,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-an-inventory-tracker-for-an-antiretroviral-clinic?u=76281980&t=103)** There we go.
 >
-> **[1:44](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-an-inventory-tracker-for-an-antiretroviral-clinic?u=76281980&t=104)** If you're using Windows, you can do Control + Shift + End, and then Control + D to copy the formula down.
+> **[1:44](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-an-inventory-tracker-for-an-antiretroviral-clinic?u=76281980&t=104)** If you're using [[Windows]], you can do Control + Shift + End, and then Control + D to copy the formula down.
 >
 > **[1:54](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-an-inventory-tracker-for-an-antiretroviral-clinic?u=76281980&t=114)** You can see that the difference in stock has been calculated for you.
 >
@@ -2107,11 +2082,11 @@ created: 2026-05-02
 >
 > **[4:23](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-an-inventory-tracker-for-an-antiretroviral-clinic?u=76281980&t=263)** Now that you know how to calculate the stock using SUMIF, a good way to practice is to prevent this type of stock out.
 >
-> **[4:32](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-an-inventory-tracker-for-an-antiretroviral-clinic?u=76281980&t=272)** What are the things that you think should be implemented in Excel?
+> **[4:32](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-an-inventory-tracker-for-an-antiretroviral-clinic?u=76281980&t=272)** What are the things that you think should be implemented in [[Microsoft Excel|Excel]]?
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1), [[Windows]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** sumif (4)
 > **UI Navigation:** select the (1), click on (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -2119,12 +2094,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Forecast stock needs for regional vaccination centers
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/forecast-stock-needs-for-regional-vaccination-centers?u=76281980)
+#### [Forecast stock needs for regional vaccination centers](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/forecast-stock-needs-for-regional-vaccination-centers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/forecast-stock-needs-for-regional-vaccination-centers?u=76281980&t=0)** - [Instructor] Forecasting is intuitive in any scenario where items are consumed or required over time.
+> **[0:00](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/forecast-stock-needs-for-regional-vaccination-centers?u=76281980&t=0)** - [Instructor] [[Forecasting]] is intuitive in any scenario where items are consumed or required over time.
 >
 > **[0:07](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/forecast-stock-needs-for-regional-vaccination-centers?u=76281980&t=7)** This also applies in healthcare systems.
 >
@@ -2214,9 +2188,9 @@ created: 2026-05-02
 >
 > **[4:42](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/forecast-stock-needs-for-regional-vaccination-centers?u=76281980&t=282)** This means that now, on the x-axis, it's going to show the possible month, and then you can simply trace to see the quantity it's predicting for February 2024.
 >
-> **[4:54](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/forecast-stock-needs-for-regional-vaccination-centers?u=76281980&t=294)** Now, you've learned how to create the basic forecast using Excel.
+> **[4:54](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/forecast-stock-needs-for-regional-vaccination-centers?u=76281980&t=294)** Now, you've learned how to create the basic forecast using [[Microsoft Excel|Excel]].
 >
-> **[5:00](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/forecast-stock-needs-for-regional-vaccination-centers?u=76281980&t=300)** Remember, forecasting is an iterative process, and accuracy depends on data quality and the chosen method.
+> **[5:00](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/forecast-stock-needs-for-regional-vaccination-centers?u=76281980&t=300)** Remember, forecasting is an iterative process, and accuracy depends on [[Data Quality]] and the chosen method.
 >
 > **[5:08](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/forecast-stock-needs-for-regional-vaccination-centers?u=76281980&t=308)** Explore other Excel forecasting tools like FORECAST.ETS and FORECAST.LINEAR to refine your predictions.
 >
@@ -2224,15 +2198,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Forecasting]] (3), next (2), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Forecasting]] (3), [[Microsoft Excel|Excel]] (2), [[Data Quality]] (1)
 > **Env Vars:** forecast (2), unique (1), year (1), texta2 (1), ets (1)
 > **UI Navigation:** right-click (3), go to (1), scroll down (1), click on (1)
 > **Definitions:** is a  (1), means that (1), is an  (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Pricing management for a community pharmacy inventory
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/pricing-management-for-a-community-pharmacy-inventory?u=76281980)
+#### [Pricing management for a community pharmacy inventory](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/pricing-management-for-a-community-pharmacy-inventory?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2240,11 +2213,11 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/pricing-management-for-a-community-pharmacy-inventory?u=76281980&t=7)** Pricing is the process of setting the value at which goods or services are offered for sale.
 >
-> **[0:14](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/pricing-management-for-a-community-pharmacy-inventory?u=76281980&t=14)** In this video, we'll go through dynamic pricing with Excel based on the hypothetical community pharmacy inventory.
+> **[0:14](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/pricing-management-for-a-community-pharmacy-inventory?u=76281980&t=14)** In this video, we'll go through dynamic pricing with [[Microsoft Excel|Excel]] based on the hypothetical community pharmacy inventory.
 >
 > **[0:21](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/pricing-management-for-a-community-pharmacy-inventory?u=76281980&t=21)** The provided data has columns like Purchase Date, Product ID, Product Name, Category, Supplier, Purchase Price, Stock Quantity, Reorder Level, and Expiry Date.
 >
-> **[0:36](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/pricing-management-for-a-community-pharmacy-inventory?u=76281980&t=36)** When analyzing data, you should be asking questions, for example, why are the products here random placeholders rather than medication names, while the categories are actual pharmacological classes?
+> **[0:36](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/pricing-management-for-a-community-pharmacy-inventory?u=76281980&t=36)** When analyzing data, you should be asking questions, for example, why are the [[Microsoft Products|products]] here random placeholders rather than medication names, while the categories are actual pharmacological classes?
 >
 > **[0:49](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/pricing-management-for-a-community-pharmacy-inventory?u=76281980&t=49)** Our first task is to create dynamic pricing based on the product category.
 >
@@ -2322,11 +2295,11 @@ created: 2026-05-02
 >
 > **[5:33](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/pricing-management-for-a-community-pharmacy-inventory?u=76281980&t=333)** You've successfully implemented dynamic pricing based on product expiry and category.
 >
-> **[5:38](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/pricing-management-for-a-community-pharmacy-inventory?u=76281980&t=338)** To further enhance your template, consider adding data validation to ensure accurate category input and error handling for the pricing formula.
+> **[5:38](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/pricing-management-for-a-community-pharmacy-inventory?u=76281980&t=338)** To further enhance your template, consider adding [[Data Validation]] to ensure accurate category input and error handling for the pricing formula.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), data (3), [[Microsoft Excel|Excel]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Microsoft Products|Products]] (1), [[Data Validation]] (1)
 > **Versions:** 0.12 (1), 0.8 (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
@@ -2340,12 +2313,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Expanding your skills in healthcare analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/expanding-your-skills-in-healthcare-analytics?u=76281980)
+#### [Expanding your skills in healthcare analytics](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/expanding-your-skills-in-healthcare-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/expanding-your-skills-in-healthcare-analytics?u=76281980&t=1)** - [Narrator] If you're watching this, congratulations on making it to the end of Excel for Healthcare, Practical Applications and Skills course on LinkedIn Learning.
+> **[0:01](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/expanding-your-skills-in-healthcare-analytics?u=76281980&t=1)** - [Narrator] If you're watching this, congratulations on making it to the end of [[Microsoft Excel|Excel]] for Healthcare, Practical Applications and Skills course on [[LinkedIn]] Learning.
 >
 > **[0:11](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/expanding-your-skills-in-healthcare-analytics?u=76281980&t=11)** I'm genuinely excited for you.
 >
@@ -2363,13 +2335,13 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/expanding-your-skills-in-healthcare-analytics?u=76281980&t=31)** Identify a process where your new skills can make a difference and implement it.
 >
-> **[0:37](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/expanding-your-skills-in-healthcare-analytics?u=76281980&t=37)** If you're interested in further expanding your knowledge, consider exploring my other courses on LinkedIn Learning [[[[Python Data Analysis]] for Healthcare]], [[Machine Learning Fundamentals for Healthcare]] and for a deeper dive, check out [[Hands-on Data Science and AI for Healthcare]].
+> **[0:37](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/expanding-your-skills-in-healthcare-analytics?u=76281980&t=37)** If you're interested in further expanding your knowledge, consider exploring my other courses on LinkedIn Learning [[[[[[Python (Programming Language)|Python]] Data Analysis]] for Healthcare]], [[Machine Learning Fundamentals for Healthcare]] and for a deeper dive, check out [[Hands-on [[Data Science]] and AI for Healthcare]].
 >
 > **[0:54](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/expanding-your-skills-in-healthcare-analytics?u=76281980&t=54)** Wishing you the best in your journey.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (2), [[LinkedIn]] (2), next (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[LinkedIn]] (2), [[Python (Programming Language)|Python]] (1), [[Data Science]] (1)
 > **CLI Commands:** make (1), python (1)
 > **Speakers:** - [narrator] (1)
 

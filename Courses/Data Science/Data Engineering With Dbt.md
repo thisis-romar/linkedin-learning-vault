@@ -102,18 +102,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Build your first dbt project
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/build-your-first-dbt-project?u=76281980)
+#### [Build your first dbt project](https://www.linkedin.com/learning/data-engineering-with-dbt/build-your-first-dbt-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-engineering-with-dbt/build-your-first-dbt-project?u=76281980&t=0)** - Are you buried under a bunch of SQL queries?
+> **[0:00](https://www.linkedin.com/learning/data-engineering-with-dbt/build-your-first-dbt-project?u=76281980&t=0)** - Are you buried under a bunch of [[SQL]] queries?
 >
 > **[0:02](https://www.linkedin.com/learning/data-engineering-with-dbt/build-your-first-dbt-project?u=76281980&t=2)** You have different data assets, complex business logic, and all these different people asking you for data.
 >
 > **[0:08](https://www.linkedin.com/learning/data-engineering-with-dbt/build-your-first-dbt-project?u=76281980&t=8)** That's where I found myself in my last job at a startup, where we had a really complex analytical database.
 >
-> **[0:13](https://www.linkedin.com/learning/data-engineering-with-dbt/build-your-first-dbt-project?u=76281980&t=13)** To reduce that complexity, we used data build tool, also known as dbt.
+> **[0:13](https://www.linkedin.com/learning/data-engineering-with-dbt/build-your-first-dbt-project?u=76281980&t=13)** To reduce that complexity, we used [[Data Build Tool (DBT)|data build tool]], also known as dbt.
 >
 > **[0:18](https://www.linkedin.com/learning/data-engineering-with-dbt/build-your-first-dbt-project?u=76281980&t=18)** I led that migration at the company, and it changed the way I thought about data, and I hope it can work for you too.
 >
@@ -127,14 +126,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), dbt (4), database (3), [[SQL]] (1), business (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[Data Build Tool (DBT)|Data build tool]] (1)
 > **Prerequisites:** set up (3)
 > **Env Vars:** sql (1)
 > **Definitions:** known as (1)
 > **Speakers:** - are (1)
 
-#### Introducing the dbt project
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/introducing-the-dbt-project?u=76281980)
+#### [Introducing the dbt project](https://www.linkedin.com/learning/data-engineering-with-dbt/introducing-the-dbt-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -144,7 +142,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/data-engineering-with-dbt/introducing-the-dbt-project?u=76281980&t=13)** In this project, we're both data engineers that have been tasked with transforming the raw New York City parking violation data into the medallion architecture for our company's data lakehouse.
 >
-> **[0:25](https://www.linkedin.com/learning/data-engineering-with-dbt/introducing-the-dbt-project?u=76281980&t=25)** Our team has decided to use dbt Core to implement this project as it allows you to use software engineering best practices for our SQL transformations.
+> **[0:25](https://www.linkedin.com/learning/data-engineering-with-dbt/introducing-the-dbt-project?u=76281980&t=25)** Our team has decided to use dbt Core to implement this project as it allows you to use software engineering best practices for our [[SQL]] transformations.
 >
 > **[0:34](https://www.linkedin.com/learning/data-engineering-with-dbt/introducing-the-dbt-project?u=76281980&t=34)** In this diagram, you see what's called the medallion architecture, which is broken up to three separate parts, bronze, silver, and gold.
 >
@@ -154,7 +152,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/data-engineering-with-dbt/introducing-the-dbt-project?u=76281980&t=56)** And the gold data is the metrics data that we built on top of our data model.
 >
-> **[1:01](https://www.linkedin.com/learning/data-engineering-with-dbt/introducing-the-dbt-project?u=76281980&t=61)** The dataset we're using is the New York City parking violations issued for fiscal year 2023, and the New York City Department of Finance parking violation codes, which is essentially the metadata about the violations.
+> **[1:01](https://www.linkedin.com/learning/data-engineering-with-dbt/introducing-the-dbt-project?u=76281980&t=61)** The dataset we're using is the New York City parking violations issued for fiscal year 2023, and the New York City Department of Finance parking violation codes, which is essentially the [[Metadata]] about the violations.
 >
 > **[1:15](https://www.linkedin.com/learning/data-engineering-with-dbt/introducing-the-dbt-project?u=76281980&t=75)** I quickly want to note that this dataset is massive, like millions and millions of rows, but for this project we've created a small sample, so it's easy to work with.
 >
@@ -178,7 +176,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), dbt (3), [[Programming]] (2), [[Metadata]] (2), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (2), [[SQL]] (1)
 > **Env Vars:** sql (1), nyc (1)
 > **Cross-References:** previous video (1), in the next (1)
 > **Definitions:** is a  (1)
@@ -186,14 +184,13 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### The project in GitHub Codespaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/the-project-in-github-codespaces?u=76281980)
+#### [The project in GitHub Codespaces](https://www.linkedin.com/learning/data-engineering-with-dbt/the-project-in-github-codespaces?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-engineering-with-dbt/the-project-in-github-codespaces?u=76281980&t=0)** - [Instructor] Welcome to our coding environment.
 >
-> **[0:03](https://www.linkedin.com/learning/data-engineering-with-dbt/the-project-in-github-codespaces?u=76281980&t=3)** For this project, we're using GitHub Codespaces which you can access in a link right below this video in the course.
+> **[0:03](https://www.linkedin.com/learning/data-engineering-with-dbt/the-project-in-github-codespaces?u=76281980&t=3)** For this project, we're using [[GitHub]] [[Codespaces]] which you can access in a link right below this video in the course.
 >
 > **[0:09](https://www.linkedin.com/learning/data-engineering-with-dbt/the-project-in-github-codespaces?u=76281980&t=9)** GitHub Codespaces allows us to abstract away the coding environment, which as you know, as an engineer, can make it very difficult to set up a project or learn from a tutorial.
 >
@@ -207,17 +204,17 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/data-engineering-with-dbt/the-project-in-github-codespaces?u=76281980&t=43)** We also have some assets that we'll use later in the course, such as these.
 >
-> **[0:48](https://www.linkedin.com/learning/data-engineering-with-dbt/the-project-in-github-codespaces?u=76281980&t=48)** In addition, we have a notebook where we'll be running our SQL queries.
+> **[0:48](https://www.linkedin.com/learning/data-engineering-with-dbt/the-project-in-github-codespaces?u=76281980&t=48)** In addition, we have a notebook where we'll be running our [[SQL]] queries.
 >
 > **[0:53](https://www.linkedin.com/learning/data-engineering-with-dbt/the-project-in-github-codespaces?u=76281980&t=53)** Right now, it won't work because we haven't setup our database, but that'll be happening soon.
 >
-> **[0:57](https://www.linkedin.com/learning/data-engineering-with-dbt/the-project-in-github-codespaces?u=76281980&t=57)** The rest of it is pretty blank, and that's very intentional because we're going to be building our dbt project from scratch and adding to this as we go along the course.
+> **[0:57](https://www.linkedin.com/learning/data-engineering-with-dbt/the-project-in-github-codespaces?u=76281980&t=57)** The [[Representational State Transfer (REST)|rest]] of it is pretty blank, and that's very intentional because we're going to be building our dbt project from scratch and adding to this as we go along the course.
 >
 > **[1:07](https://www.linkedin.com/learning/data-engineering-with-dbt/the-project-in-github-codespaces?u=76281980&t=67)** So let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (2), [[Codespaces]] (2), dbt (2), data (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (2), [[Codespaces]] (2), [[SQL]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Tools:** github (2)
 > **Prerequisites:** set up (1), setup (1)
 > **CLI Commands:** make (1)
@@ -231,14 +228,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Install the dbt Core via pip
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/install-the-dbt-core-via-pip?u=76281980)
+#### [Install the dbt Core via pip](https://www.linkedin.com/learning/data-engineering-with-dbt/install-the-dbt-core-via-pip?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-engineering-with-dbt/install-the-dbt-core-via-pip?u=76281980&t=0)** - [Instructor] So we have an empty project and the first thing we're going to do is download DBT, specifically DBT Core.
 >
-> **[0:09](https://www.linkedin.com/learning/data-engineering-with-dbt/install-the-dbt-core-via-pip?u=76281980&t=9)** If you're used to Python, then you'll be familiar with using PIP to install packages.
+> **[0:09](https://www.linkedin.com/learning/data-engineering-with-dbt/install-the-dbt-core-via-pip?u=76281980&t=9)** If you're used to [[Python (Programming Language)|Python]], then you'll be familiar with using PIP to install packages.
 >
 > **[0:14](https://www.linkedin.com/learning/data-engineering-with-dbt/install-the-dbt-core-via-pip?u=76281980&t=14)** Simply do PIP install DBT Core.
 >
@@ -258,15 +254,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dbt (5), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** dbt (5), pip (4)
 > **CLI Commands:** pip (4), python (1), make (1)
 > **Prerequisites:** install (2)
 > **Versions:** 1.6.1 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Install the dbt connector to DuckDB
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/install-the-dbt-connector-to-duckdb?u=76281980)
+#### [Install the dbt connector to DuckDB](https://www.linkedin.com/learning/data-engineering-with-dbt/install-the-dbt-connector-to-duckdb?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -276,7 +271,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/data-engineering-with-dbt/install-the-dbt-connector-to-duckdb?u=76281980&t=12)** Well, we have to do it again.
 >
-> **[0:13](https://www.linkedin.com/learning/data-engineering-with-dbt/install-the-dbt-connector-to-duckdb?u=76281980&t=13)** DBT core is kind of the foundational package and we have various connectors to different databases within the data ecosystem.
+> **[0:13](https://www.linkedin.com/learning/data-engineering-with-dbt/install-the-dbt-connector-to-duckdb?u=76281980&t=13)** DBT core is kind of the foundational package and we have various connectors to different [[Databases]] within the data ecosystem.
 >
 > **[0:21](https://www.linkedin.com/learning/data-engineering-with-dbt/install-the-dbt-connector-to-duckdb?u=76281980&t=21)** But for this one, we're using DuckDB.
 >
@@ -292,7 +287,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dbt (7), [[Databases]] (2), data (1)
+> **Frameworks & Libraries:** [[Databases]] (2)
 > **Env Vars:** dbt (7), pip (2)
 > **Prerequisites:** install (3), set up (1)
 > **CLI Commands:** pip (2), make (1)
@@ -300,8 +295,7 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
 
-#### Install DuckDB via pip
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/install-duckdb-via-pip?u=76281980)
+#### [Install DuckDB via pip](https://www.linkedin.com/learning/data-engineering-with-dbt/install-duckdb-via-pip?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -313,7 +307,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/data-engineering-with-dbt/install-duckdb-via-pip?u=76281980&t=10)** One is the connection to DBT.
 >
-> **[0:12](https://www.linkedin.com/learning/data-engineering-with-dbt/install-duckdb-via-pip?u=76281980&t=12)** The other one is for the actual database itself and using it with Python.
+> **[0:12](https://www.linkedin.com/learning/data-engineering-with-dbt/install-duckdb-via-pip?u=76281980&t=12)** The other one is for the actual database itself and using it with [[Python (Programming Language)|Python]].
 >
 > **[0:17](https://www.linkedin.com/learning/data-engineering-with-dbt/install-duckdb-via-pip?u=76281980&t=17)** So quickly install it.
 >
@@ -327,15 +321,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dbt (2), database (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** dbt (2), pip (2)
 > **CLI Commands:** pip (2), python (1)
 > **Prerequisites:** install (3)
 > **Versions:** 0.90 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Update your requirements.txt file within your project
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/update-your-requirements-txt-file-within-your-project?u=76281980)
+#### [Update your requirements.txt file within your project](https://www.linkedin.com/learning/data-engineering-with-dbt/update-your-requirements-txt-file-within-your-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -359,7 +352,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dbt (2), teams (1)
 > **Env Vars:** dbt (2)
 > **Speakers:** - [instructor] (1)
 
@@ -368,8 +360,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create your database file
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/create-your-database-file?u=76281980)
+#### [Create your database file](https://www.linkedin.com/learning/data-engineering-with-dbt/create-your-database-file?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -379,11 +370,11 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/data-engineering-with-dbt/create-your-database-file?u=76281980&t=17)** I won't get too hung up on the exact database because again, it's dependent on your company and what you need.
 >
-> **[0:23](https://www.linkedin.com/learning/data-engineering-with-dbt/create-your-database-file?u=76281980&t=23)** But for this project it's very simple because I set up a Jupyter Notebook that you can run these SQL queries from.
+> **[0:23](https://www.linkedin.com/learning/data-engineering-with-dbt/create-your-database-file?u=76281980&t=23)** But for this project it's very simple because I set up a Jupyter Notebook that you can run these [[SQL]] queries from.
 >
-> **[0:32](https://www.linkedin.com/learning/data-engineering-with-dbt/create-your-database-file?u=76281980&t=32)** DuckDB provides a Python integration, which allows you through Python or Jupyter Notebook to run your SQL queries, create your tables, various things you would do with a typical SQL interpreter.
+> **[0:32](https://www.linkedin.com/learning/data-engineering-with-dbt/create-your-database-file?u=76281980&t=32)** DuckDB provides a [[Python (Programming Language)|Python]] integration, which allows you through Python or Jupyter Notebook to run your SQL queries, create your tables, various things you would do with a typical SQL interpreter.
 >
-> **[0:46](https://www.linkedin.com/learning/data-engineering-with-dbt/create-your-database-file?u=76281980&t=46)** So we're going to create our first database and to create databases in DuckDB, they make it very simple, where if you run a SQL query and the database doesn't exist yet, it will auto generate it for you and so let's get started.
+> **[0:46](https://www.linkedin.com/learning/data-engineering-with-dbt/create-your-database-file?u=76281980&t=46)** So we're going to create our first database and to create [[Databases]] in DuckDB, they make it very simple, where if you run a SQL query and the database doesn't exist yet, it will auto generate it for you and so let's get started.
 >
 > **[1:01](https://www.linkedin.com/learning/data-engineering-with-dbt/create-your-database-file?u=76281980&t=61)** I already have kind of the baseline code here, which is in the notebook file.
 >
@@ -413,7 +404,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/data-engineering-with-dbt/create-your-database-file?u=76281980&t=122)** And then we run our SQL query with the con.SQL function.
 >
-> **[2:08](https://www.linkedin.com/learning/data-engineering-with-dbt/create-your-database-file?u=76281980&t=128)** Wrapped around here I also have a pandas data frame to display.
+> **[2:08](https://www.linkedin.com/learning/data-engineering-with-dbt/create-your-database-file?u=76281980&t=128)** Wrapped around here I also have a [[Pandas (Software)|pandas]] data frame to display.
 >
 > **[2:13](https://www.linkedin.com/learning/data-engineering-with-dbt/create-your-database-file?u=76281980&t=133)** I personally prefer this when working in Jupyter Notebooks because I'm a visual person and this makes the data a lot easier to see.
 >
@@ -427,7 +418,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (9), database (7), [[Python (Programming Language)|Python]] (4), data (4), [[Databases]] (2)
+> **Frameworks & Libraries:** [[SQL]] (9), [[Python (Programming Language)|Python]] (4), [[Databases]] (2), [[Pandas (Software)|Pandas]] (1)
 > **Env Vars:** sql (9)
 > **CLI Commands:** python (4), make (2)
 > **Tools:** jupyter (4), vs code (1)
@@ -436,8 +427,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Prerequisites:** set up (1)
 
-#### Import CSV data into your new database
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/import-csv-data-into-your-new-database?u=76281980)
+#### [Import CSV data into your new database](https://www.linkedin.com/learning/data-engineering-with-dbt/import-csv-data-into-your-new-database?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -447,9 +437,9 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/data-engineering-with-dbt/import-csv-data-into-your-new-database?u=76281980&t=12)** We will provide that code to you, so you don't have to worry about typing all of this yourself, but I'm going to go quickly break down how this code works and then how it looks like in DuckDB.
 >
-> **[0:23](https://www.linkedin.com/learning/data-engineering-with-dbt/import-csv-data-into-your-new-database?u=76281980&t=23)** I'm going to zoom out a little bit, so you can see the total code itself, but we'll make sure to reset it.
+> **[0:23](https://www.linkedin.com/learning/data-engineering-with-dbt/import-csv-data-into-your-new-database?u=76281980&t=23)** I'm going to [[Zoom]] out a little bit, so you can see the total code itself, but we'll make sure to reset it.
 >
-> **[0:29](https://www.linkedin.com/learning/data-engineering-with-dbt/import-csv-data-into-your-new-database?u=76281980&t=29)** So we have our two SQL queries and then we run the individual SQL queries with the with statement.
+> **[0:29](https://www.linkedin.com/learning/data-engineering-with-dbt/import-csv-data-into-your-new-database?u=76281980&t=29)** So we have our two [[SQL]] queries and then we run the individual SQL queries with the with statement.
 >
 > **[0:36](https://www.linkedin.com/learning/data-engineering-with-dbt/import-csv-data-into-your-new-database?u=76281980&t=36)** One thing I want to highlight is there's various ways to run the DBT SQL code.
 >
@@ -495,7 +485,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/data-engineering-with-dbt/import-csv-data-into-your-new-database?u=76281980&t=162)** Why?
 >
-> **[2:44](https://www.linkedin.com/learning/data-engineering-with-dbt/import-csv-data-into-your-new-database?u=76281980&t=164)** It's not enough to know we have the databases.
+> **[2:44](https://www.linkedin.com/learning/data-engineering-with-dbt/import-csv-data-into-your-new-database?u=76281980&t=164)** It's not enough to know we have the [[Databases]].
 >
 > **[2:45](https://www.linkedin.com/learning/data-engineering-with-dbt/import-csv-data-into-your-new-database?u=76281980&t=165)** Let's actually see what the data looks like.
 >
@@ -515,7 +505,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), database (5), [[SQL]] (5), dbt (4), [[Zoom]] (2)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Zoom]] (2), [[Databases]] (1)
 > **Env Vars:** sql (5), dbt (4), csv (3)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
@@ -529,8 +519,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Start your project with dbt init
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/start-your-project-with-dbt-init?u=76281980)
+#### [Start your project with dbt init](https://www.linkedin.com/learning/data-engineering-with-dbt/start-your-project-with-dbt-init?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -568,7 +557,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dbt (10), database (1), next (1)
 > **Env Vars:** dbt (10), nyc (2), yaml (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -578,8 +566,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand the dbt_project.yml file
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/understand-the-dbt-project-yml-file?u=76281980)
+#### [Understand the dbt_project.yml file](https://www.linkedin.com/learning/data-engineering-with-dbt/understand-the-dbt-project-yml-file?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -615,15 +602,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dbt (7)
 > **Env Vars:** dbt (7), yaml (3), nit (1)
 > **Code Identifiers:** nyc_parking_violations (2)
 > **Definitions:** stands for (1)
 > **Analogies:** think of it as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create your profiles YAML file
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/create-your-profiles-yaml-file?u=76281980)
+#### [Create your profiles YAML file](https://www.linkedin.com/learning/data-engineering-with-dbt/create-your-profiles-yaml-file?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -681,7 +666,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dbt (4), next (2), cd (1), database (1)
 > **Env Vars:** dbt (4), nyc (2)
 > **Tools:** terminal (2), command line (1)
 > **CLI Commands:** make (1), cd (1)
@@ -689,9 +673,9 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Documentation:** the documentation (1)
 > **Definitions:** stands for (1)
+> **Best Practices:** pro tip (1)
 
-#### Connect your profiles and project YAML files
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/connect-your-profiles-and-project-yaml-files?u=76281980)
+#### [Connect your profiles and project YAML files](https://www.linkedin.com/learning/data-engineering-with-dbt/connect-your-profiles-and-project-yaml-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -749,7 +733,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dbt (18), data (1), cd (1)
 > **Env Vars:** dbt (18), nyc (4)
 > **CLI Commands:** find (2), make (1), ls (1), cd (1)
 > **Tools:** command line (2)
@@ -761,8 +744,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create your first dbt model file
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/create-your-first-dbt-model-file?u=76281980)
+#### [Create your first dbt model file](https://www.linkedin.com/learning/data-engineering-with-dbt/create-your-first-dbt-model-file?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -782,7 +764,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/data-engineering-with-dbt/create-your-first-dbt-model-file?u=76281980&t=20)** They're going to make things a little bit more confusing, so I'm going to delete them permanently.
 >
-> **[0:25](https://www.linkedin.com/learning/data-engineering-with-dbt/create-your-first-dbt-model-file?u=76281980&t=25)** Perfect, now with the empty blank models, we can now create our own SQL files.
+> **[0:25](https://www.linkedin.com/learning/data-engineering-with-dbt/create-your-first-dbt-model-file?u=76281980&t=25)** Perfect, now with the empty blank models, we can now create our own [[SQL]] files.
 >
 > **[0:32](https://www.linkedin.com/learning/data-engineering-with-dbt/create-your-first-dbt-model-file?u=76281980&t=32)** So remember again, we're going to do CD NYC parking violations, and we're going to go down further directory and go to models.
 >
@@ -808,15 +790,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (6), dbt (4), cd (1)
+> **Frameworks & Libraries:** [[SQL]] (6)
 > **Env Vars:** sql (5), dbt (4), nyc (2)
 > **CLI Commands:** make (2), cd (1)
 > **File Paths:** model.sql (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the dbt CLI commands
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/using-the-dbt-cli-commands?u=76281980)
+#### [Using the dbt CLI commands](https://www.linkedin.com/learning/data-engineering-with-dbt/using-the-dbt-cli-commands?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -846,7 +827,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/data-engineering-with-dbt/using-the-dbt-cli-commands?u=76281980&t=54)** Now, the next command I want to introduce is DBT compile.
 >
-> **[0:58](https://www.linkedin.com/learning/data-engineering-with-dbt/using-the-dbt-cli-commands?u=76281980&t=58)** Now, DBT compile runs all the DBT models end-to-end, but doesn't execute the model SQL code nor materialize the tables, which is useful for quickly checking if your DBT models have any errors.
+> **[0:58](https://www.linkedin.com/learning/data-engineering-with-dbt/using-the-dbt-cli-commands?u=76281980&t=58)** Now, DBT compile runs all the DBT models end-to-end, but doesn't execute the model [[SQL]] code nor materialize the tables, which is useful for quickly checking if your DBT models have any errors.
 >
 > **[1:09](https://www.linkedin.com/learning/data-engineering-with-dbt/using-the-dbt-cli-commands?u=76281980&t=69)** So for this small project, not an issue, but if you have thousands of models, it may take an hour to run.
 >
@@ -902,7 +883,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dbt (27), [[SQL]] (4), database (4), data (3), next (2)
+> **Frameworks & Libraries:** [[SQL]] (4)
 > **Env Vars:** dbt (27), sql (4), nyc (3), csv (1)
 > **CLI Commands:** ls (1), cd (1), find (1)
 > **Cross-References:** go back to (1), in the next (1)
@@ -916,12 +897,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create your dbt model utilizing ref
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/create-your-dbt-model-utilizing-ref?u=76281980)
+#### [Create your dbt model utilizing ref](https://www.linkedin.com/learning/data-engineering-with-dbt/create-your-dbt-model-utilizing-ref?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-engineering-with-dbt/create-your-dbt-model-utilizing-ref?u=76281980&t=0)** - [Instructor] As mentioned earlier, DBT enables some useful tools for SQL files.
+> **[0:00](https://www.linkedin.com/learning/data-engineering-with-dbt/create-your-dbt-model-utilizing-ref?u=76281980&t=0)** - [Instructor] As mentioned earlier, DBT enables some useful tools for [[SQL]] files.
 >
 > **[0:05](https://www.linkedin.com/learning/data-engineering-with-dbt/create-your-dbt-model-utilizing-ref?u=76281980&t=5)** Specifically, the most important syntax within DBT are ref statements.
 >
@@ -969,7 +949,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dbt (9), [[SQL]] (2), database (2), data (1), [[Orchestration]] (1)
+> **Frameworks & Libraries:** [[SQL]] (2)
 > **Env Vars:** dbt (9), sql (1), nyc (1)
 > **Code Identifiers:** ref_model (2), first_model (1)
 > **CLI Commands:** make (1), ls (1)
@@ -978,8 +958,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 
-#### Run your dbt models with the ref syntax
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/run-your-dbt-models-with-the-ref-syntax?u=76281980)
+#### [Run your dbt models with the ref syntax](https://www.linkedin.com/learning/data-engineering-with-dbt/run-your-dbt-models-with-the-ref-syntax?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1021,7 +1000,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dbt (6), [[Orchestration]] (1), database (1), data (1), next (1)
 > **Code Identifiers:** ref_model (3), nyc_parking_violations (1), first_model (1), run_sql_queries_here (1)
 > **CLI Commands:** make (2)
 > **SQL:** select (1)
@@ -1029,8 +1007,7 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### View your dbt project data lineage
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/view-your-dbt-project-data-lineage?u=76281980)
+#### [View your dbt project data lineage](https://www.linkedin.com/learning/data-engineering-with-dbt/view-your-dbt-project-data-lineage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1038,7 +1015,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/data-engineering-with-dbt/view-your-dbt-project-data-lineage?u=76281980&t=14)** Now we'll go over DBT docs in a much more detail in a later step, but this quick intro allow you to visualize our DBT project.
 >
-> **[0:22](https://www.linkedin.com/learning/data-engineering-with-dbt/view-your-dbt-project-data-lineage?u=76281980&t=22)** Creating DBT docs is as simple as running the CLI command DBT docs generate.
+> **[0:22](https://www.linkedin.com/learning/data-engineering-with-dbt/view-your-dbt-project-data-lineage?u=76281980&t=22)** Creating DBT docs is as simple as running the [[CLI]] command DBT docs generate.
 >
 > **[0:27](https://www.linkedin.com/learning/data-engineering-with-dbt/view-your-dbt-project-data-lineage?u=76281980&t=27)** So let's run that real quick.
 >
@@ -1048,7 +1025,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/data-engineering-with-dbt/view-your-dbt-project-data-lineage?u=76281980&t=37)** Great and DBT docs generate.
 >
-> **[0:45](https://www.linkedin.com/learning/data-engineering-with-dbt/view-your-dbt-project-data-lineage?u=76281980&t=45)** So what's happening here is that DBT is looking at all the metadata in our DBT project is then going to create these files as JSON within our targets.
+> **[0:45](https://www.linkedin.com/learning/data-engineering-with-dbt/view-your-dbt-project-data-lineage?u=76281980&t=45)** So what's happening here is that DBT is looking at all the [[Metadata]] in our DBT project is then going to create these files as [[JSON]] within our targets.
 >
 > **[0:58](https://www.linkedin.com/learning/data-engineering-with-dbt/view-your-dbt-project-data-lineage?u=76281980&t=58)** You can look here and these are all auto-generated files that you don't have to deal with, but that's what's being created with DBT Docs generate.
 >
@@ -1070,7 +1047,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dbt (12), [[Metadata]] (3), database (2), data (2), power (1)
+> **Frameworks & Libraries:** [[Metadata]] (3), [[CLI]] (1), [[JSON]] (1)
 > **Env Vars:** dbt (12), cli (1), nyc (1), json (1)
 > **CLI Commands:** make (1), cd (1)
 > **Cross-References:** previous video (1)
@@ -1082,8 +1059,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Planning your medallion architecture project
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/planning-your-medallion-architecture-project?u=76281980)
+#### [Planning your medallion architecture project](https://www.linkedin.com/learning/data-engineering-with-dbt/planning-your-medallion-architecture-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1091,7 +1067,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/data-engineering-with-dbt/planning-your-medallion-architecture-project?u=76281980&t=7)** We're going to convert the NYC parking violation data into the medallion architecture.
 >
-> **[0:12](https://www.linkedin.com/learning/data-engineering-with-dbt/planning-your-medallion-architecture-project?u=76281980&t=12)** To do this, we're going to utilize dbt Core for the SQL Transformations, and our data pipeline and assets should look like the following when we're done.
+> **[0:12](https://www.linkedin.com/learning/data-engineering-with-dbt/planning-your-medallion-architecture-project?u=76281980&t=12)** To do this, we're going to utilize dbt Core for the [[SQL]] Transformations, and our data pipeline and assets should look like the following when we're done.
 >
 > **[0:20](https://www.linkedin.com/learning/data-engineering-with-dbt/planning-your-medallion-architecture-project?u=76281980&t=20)** This is the medallion architecture for our project.
 >
@@ -1109,12 +1085,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), dbt (3), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** dbt (2), nyc (1), sql (1)
 > **Speakers:** - [instructor] (1)
 
-#### Medallion architecture: Bronze data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/medallion-architecture-bronze-data?u=76281980)
+#### [Medallion architecture: Bronze data](https://www.linkedin.com/learning/data-engineering-with-dbt/medallion-architecture-bronze-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1130,11 +1105,11 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/data-engineering-with-dbt/medallion-architecture-bronze-data?u=76281980&t=30)** We're first going to make sure we're in the NYC parking violations folder.
 >
-> **[0:35](https://www.linkedin.com/learning/data-engineering-with-dbt/medallion-architecture-bronze-data?u=76281980&t=35)** And now, we're going to make a bronze folder within the models directory with the CLI command, make directory, so mkdir models bronze.
+> **[0:35](https://www.linkedin.com/learning/data-engineering-with-dbt/medallion-architecture-bronze-data?u=76281980&t=35)** And now, we're going to make a bronze folder within the models directory with the [[CLI]] command, make directory, so mkdir models bronze.
 >
 > **[0:49](https://www.linkedin.com/learning/data-engineering-with-dbt/medallion-architecture-bronze-data?u=76281980&t=49)** And now, we can see in our folder, we now have a bronze, but it's completely empty.
 >
-> **[0:53](https://www.linkedin.com/learning/data-engineering-with-dbt/medallion-architecture-bronze-data?u=76281980&t=53)** And so now we need to create our SQL files for our model.
+> **[0:53](https://www.linkedin.com/learning/data-engineering-with-dbt/medallion-architecture-bronze-data?u=76281980&t=53)** And so now we need to create our [[SQL]] files for our model.
 >
 > **[0:56](https://www.linkedin.com/learning/data-engineering-with-dbt/medallion-architecture-bronze-data?u=76281980&t=56)** To do that, we do touch.
 >
@@ -1224,7 +1199,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), dbt (8), [[SQL]] (7), database (3), [[CLI]] (1)
+> **Frameworks & Libraries:** [[SQL]] (7), [[CLI]] (1)
 > **Env Vars:** dbt (8), sql (5), nyc (1), cli (1)
 > **CLI Commands:** make (5), mkdir (1)
 > **File Paths:** codes.sql (1), violations.sql (1)
@@ -1233,8 +1208,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Warnings:** keep in mind (1)
 
-#### Medallion architecture: Silver data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/medallion-architecture-silver-data?u=76281980)
+#### [Medallion architecture: Silver data](https://www.linkedin.com/learning/data-engineering-with-dbt/medallion-architecture-silver-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1244,7 +1218,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/data-engineering-with-dbt/medallion-architecture-silver-data?u=76281980&t=8)** Silver data should align with your established data model for your analytical database.
 >
-> **[0:13](https://www.linkedin.com/learning/data-engineering-with-dbt/medallion-architecture-silver-data?u=76281980&t=13)** While data modeling is extremely important in data engineering, that is not the goal of this tutorial.
+> **[0:13](https://www.linkedin.com/learning/data-engineering-with-dbt/medallion-architecture-silver-data?u=76281980&t=13)** While [[Data Modeling]] is extremely important in [[Data Engineering]], that is not the goal of this tutorial.
 >
 > **[0:17](https://www.linkedin.com/learning/data-engineering-with-dbt/medallion-architecture-silver-data?u=76281980&t=17)** Instead, we're just going to do some simple transformations and make it easier to do our metrics later on.
 >
@@ -1258,7 +1232,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/data-engineering-with-dbt/medallion-architecture-silver-data?u=76281980&t=92)** So we have silver_parking_violation_codes.
 >
-> **[1:35](https://www.linkedin.com/learning/data-engineering-with-dbt/medallion-architecture-silver-data?u=76281980&t=95)** I'm going to copy and paste the values in here, and then I'm going to explain the SQL we're doing.
+> **[1:35](https://www.linkedin.com/learning/data-engineering-with-dbt/medallion-architecture-silver-data?u=76281980&t=95)** I'm going to copy and paste the values in here, and then I'm going to explain the [[SQL]] we're doing.
 >
 > **[1:42](https://www.linkedin.com/learning/data-engineering-with-dbt/medallion-architecture-silver-data?u=76281980&t=102)** So to quickly summarize what we're doing with this table, we have to look at our violation codes CSV.
 >
@@ -1328,7 +1302,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), dbt (8), [[SQL]] (3), database (1), [[Data Engineering]] (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Data Modeling]] (1), [[Data Engineering]] (1)
 > **Code Identifiers:** silver_parking_violation_codes (3), silver_parking_violations (2), silver_violation_tickets (2), fee_usd (2), silver_violation_vehicles (1)
 > **Env Vars:** sql (3), nyc (1), csv (1), select (1), usd (1)
 > **CLI Commands:** make (6)
@@ -1337,14 +1311,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 
-#### Medallion architecture: Gold data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/medallion-architecture-gold-data?u=76281980)
+#### [Medallion architecture: Gold data](https://www.linkedin.com/learning/data-engineering-with-dbt/medallion-architecture-gold-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-engineering-with-dbt/medallion-architecture-gold-data?u=76281980&t=0)** - [Instructor] We've created our bronze data, we've created our silver data, and we're now ready to create our final component of medallion architecture, the gold data.
 >
-> **[0:08](https://www.linkedin.com/learning/data-engineering-with-dbt/medallion-architecture-gold-data?u=76281980&t=8)** Gold data is ideally for metrics and aggregates that'll be utilized by downstream data consumers via reports and dashboards.
+> **[0:08](https://www.linkedin.com/learning/data-engineering-with-dbt/medallion-architecture-gold-data?u=76281980&t=8)** Gold data is ideally for metrics and aggregates that'll be utilized by downstream data consumers via reports and [[Dashboards]].
 >
 > **[0:15](https://www.linkedin.com/learning/data-engineering-with-dbt/medallion-architecture-gold-data?u=76281980&t=15)** We should have the following tables added to our database: gold ticket location metrics and gold vehicle metrics.
 >
@@ -1352,7 +1325,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/data-engineering-with-dbt/medallion-architecture-gold-data?u=76281980&t=36)** As you can see, gold folder here, but no tables.
 >
-> **[0:39](https://www.linkedin.com/learning/data-engineering-with-dbt/medallion-architecture-gold-data?u=76281980&t=39)** We're going to do touch models gold gold ticket metric SQL, and we can see in our gold folder.
+> **[0:39](https://www.linkedin.com/learning/data-engineering-with-dbt/medallion-architecture-gold-data?u=76281980&t=39)** We're going to do touch models gold gold ticket metric [[SQL]], and we can see in our gold folder.
 >
 > **[0:48](https://www.linkedin.com/learning/data-engineering-with-dbt/medallion-architecture-gold-data?u=76281980&t=48)** Final one, touch models gold gold vehicle metrics.
 >
@@ -1374,7 +1347,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/data-engineering-with-dbt/medallion-architecture-gold-data?u=76281980&t=107)** Many times these are some easy wins you can get for your stakeholders to get dashboard move really quickly.
 >
-> **[1:54](https://www.linkedin.com/learning/data-engineering-with-dbt/medallion-architecture-gold-data?u=76281980&t=114)** And now we're ready to do our DBT CLI commands, DBT debug, DBT compile, and DBT Run.
+> **[1:54](https://www.linkedin.com/learning/data-engineering-with-dbt/medallion-architecture-gold-data?u=76281980&t=114)** And now we're ready to do our DBT [[CLI]] commands, DBT debug, DBT compile, and DBT Run.
 >
 > **[2:12](https://www.linkedin.com/learning/data-engineering-with-dbt/medallion-architecture-gold-data?u=76281980&t=132)** And success.
 >
@@ -1402,7 +1375,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dbt (7), data (6), [[Dashboards]] (2), database (2), [[SQL]] (2)
+> **Frameworks & Libraries:** [[Dashboards]] (2), [[SQL]] (2), [[CLI]] (1)
 > **Env Vars:** dbt (7), sql (2), nyc (1), cli (1)
 > **CLI Commands:** make (4)
 > **Cross-References:** next video (1)
@@ -1414,8 +1387,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Materialization in your dbt project
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/materialization-in-your-dbt-project?u=76281980)
+#### [Materialization in your dbt project](https://www.linkedin.com/learning/data-engineering-with-dbt/materialization-in-your-dbt-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1425,9 +1397,9 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/data-engineering-with-dbt/materialization-in-your-dbt-project?u=76281980&t=20)** Why you may want to do this is you want to limit what tables can be viewed by your database users.
 >
-> **[0:25](https://www.linkedin.com/learning/data-engineering-with-dbt/materialization-in-your-dbt-project?u=76281980&t=25)** Maybe you want to reduce the cost of data storage by not having them materialized, but still available.
+> **[0:25](https://www.linkedin.com/learning/data-engineering-with-dbt/materialization-in-your-dbt-project?u=76281980&t=25)** Maybe you want to reduce the cost of [[Data Storage]] by not having them materialized, but still available.
 >
-> **[0:30](https://www.linkedin.com/learning/data-engineering-with-dbt/materialization-in-your-dbt-project?u=76281980&t=30)** Or you may want to speed up certain data pipelines such as a dashboard so it doesn't have to wait for the query to run before you can actually get the data.
+> **[0:30](https://www.linkedin.com/learning/data-engineering-with-dbt/materialization-in-your-dbt-project?u=76281980&t=30)** Or you may want to speed up certain [[Data Pipelines]] such as a dashboard so it doesn't have to wait for the query to run before you can actually get the data.
 >
 > **[0:39](https://www.linkedin.com/learning/data-engineering-with-dbt/materialization-in-your-dbt-project?u=76281980&t=39)** DBT allows five different materialization methods table, view, incremental, ephemeral, and materialized view.
 >
@@ -1449,12 +1421,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), dbt (6), database (5)
+> **Frameworks & Libraries:** [[Data Storage]] (1), [[Data Pipelines]] (1)
 > **Env Vars:** dbt (6)
 > **Speakers:** - [instructor] (1)
 
-#### Implement materialization in your dbt_project.yml file
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/implement-materialization-in-your-dbt-project-yml-file?u=76281980)
+#### [Implement materialization in your dbt_project.yml file](https://www.linkedin.com/learning/data-engineering-with-dbt/implement-materialization-in-your-dbt-project-yml-file?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1506,7 +1477,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dbt (8), next (1)
 > **Env Vars:** dbt (8), yaml (1), nyc (1), dvt (1)
 > **CLI Commands:** make (2), go run (1)
 > **Prerequisites:** set up (3)
@@ -1520,8 +1490,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Further documentation via schema.yml file
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/further-documentation-via-schema-yml-file?u=76281980)
+#### [Further documentation via schema.yml file](https://www.linkedin.com/learning/data-engineering-with-dbt/further-documentation-via-schema-yml-file?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1569,7 +1538,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/data-engineering-with-dbt/further-documentation-via-schema-yml-file?u=76281980&t=133)** But again, you'll have access to this.
 >
-> **[2:16](https://www.linkedin.com/learning/data-engineering-with-dbt/further-documentation-via-schema-yml-file?u=76281980&t=136)** So let's zoom out just a quick bit.
+> **[2:16](https://www.linkedin.com/learning/data-engineering-with-dbt/further-documentation-via-schema-yml-file?u=76281980&t=136)** So let's [[Zoom]] out just a quick bit.
 >
 > **[2:19](https://www.linkedin.com/learning/data-engineering-with-dbt/further-documentation-via-schema-yml-file?u=76281980&t=139)** And as you can see, we have, remove that, as you can see, we have our models and we say the name, which is the model name.
 >
@@ -1587,15 +1556,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dbt (7), data (4), [[Zoom]] (1), next (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **Documentation:** the documentation (4), the docs (1)
 > **File Paths:** schema.yaml (1), touchmodels/docs/schema.yaml (1)
 > **UI Navigation:** go to (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### The docs_blocks.md file
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/the-docs-blocks-md-file?u=76281980)
+#### [The docs_blocks.md file](https://www.linkedin.com/learning/data-engineering-with-dbt/the-docs-blocks-md-file?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1607,7 +1575,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/data-engineering-with-dbt/the-docs-blocks-md-file?u=76281980&t=12)** So I'll create a new text file, and here's a great way to think about them.
 >
-> **[0:20](https://www.linkedin.com/learning/data-engineering-with-dbt/the-docs-blocks-md-file?u=76281980&t=20)** If you're familiar with Python, you know you can create a variable and assign it a value such as a string.
+> **[0:20](https://www.linkedin.com/learning/data-engineering-with-dbt/the-docs-blocks-md-file?u=76281980&t=20)** If you're familiar with [[Python (Programming Language)|Python]], you know you can create a variable and assign it a value such as a string.
 >
 > **[0:25](https://www.linkedin.com/learning/data-engineering-with-dbt/the-docs-blocks-md-file?u=76281980&t=25)** That's a similar thing happening here.
 >
@@ -1673,7 +1641,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dbt (9), [[Python (Programming Language)|Python]] (1), [[Engineering]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** dbt (9)
 > **File Paths:** schema.yaml (3), blocks.md (2)
 > **CLI Commands:** make (2), python (1)
@@ -1687,8 +1655,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating custom singular tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/creating-custom-singular-tests?u=76281980)
+#### [Creating custom singular tests](https://www.linkedin.com/learning/data-engineering-with-dbt/creating-custom-singular-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1710,7 +1677,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/data-engineering-with-dbt/creating-custom-singular-tests?u=76281980&t=41)** So to do such, we're going to create a new file via touch.
 >
-> **[0:45](https://www.linkedin.com/learning/data-engineering-with-dbt/creating-custom-singular-tests?u=76281980&t=45)** We're going to go into our nyc_parking_violations directory, and then we're going to create a file within our test folder via touch tests/violation_codes_revenue.sql.
+> **[0:45](https://www.linkedin.com/learning/data-engineering-with-dbt/creating-custom-singular-tests?u=76281980&t=45)** We're going to go into our nyc_parking_violations directory, and then we're going to create a file within our test folder via touch tests/violation_codes_revenue.[[SQL]].
 >
 > **[1:04](https://www.linkedin.com/learning/data-engineering-with-dbt/creating-custom-singular-tests?u=76281980&t=64)** And that name will make sense soon.
 >
@@ -1730,7 +1697,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/data-engineering-with-dbt/creating-custom-singular-tests?u=76281980&t=103)** And if it's not greater than or equal to one, return the value."
 >
-> **[1:49](https://www.linkedin.com/learning/data-engineering-with-dbt/creating-custom-singular-tests?u=76281980&t=109)** And so, what that'll do is now that that's saved, we can run dbt tests, which is the new command for the CLI.
+> **[1:49](https://www.linkedin.com/learning/data-engineering-with-dbt/creating-custom-singular-tests?u=76281980&t=109)** And so, what that'll do is now that that's saved, we can run dbt tests, which is the new command for the [[CLI]].
 >
 > **[2:00](https://www.linkedin.com/learning/data-engineering-with-dbt/creating-custom-singular-tests?u=76281980&t=120)** It's dbt test, not tests, silly me.
 >
@@ -1764,7 +1731,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dbt (6), [[SQL]] (5), generic (3), [[CLI]] (1), feature (1)
+> **Frameworks & Libraries:** [[SQL]] (5), [[CLI]] (1)
 > **Env Vars:** sql (4), usd (1), cli (1)
 > **Code Identifiers:** violation_codes_revenue (2), not_null (1), accepted_values (1), nyc_parking_violations (1)
 > **Definitions:** is a  (2)
@@ -1773,8 +1740,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)
 
-#### Implementing tests within the schema.yml file
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/implementing-tests-within-the-schema-yml-file?u=76281980)
+#### [Implementing tests within the schema.yml file](https://www.linkedin.com/learning/data-engineering-with-dbt/implementing-tests-within-the-schema-yml-file?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1818,7 +1784,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/data-engineering-with-dbt/implementing-tests-within-the-schema-yml-file?u=76281980&t=91)** touch test/generic.
 >
-> **[1:34](https://www.linkedin.com/learning/data-engineering-with-dbt/implementing-tests-within-the-schema-yml-file?u=76281980&t=94)** And we're going to create generic_not_null.sql.
+> **[1:34](https://www.linkedin.com/learning/data-engineering-with-dbt/implementing-tests-within-the-schema-yml-file?u=76281980&t=94)** And we're going to create generic_not_null.[[SQL]].
 >
 > **[1:43](https://www.linkedin.com/learning/data-engineering-with-dbt/implementing-tests-within-the-schema-yml-file?u=76281980&t=103)** And now we have our file on there.
 >
@@ -1880,7 +1846,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dbt (10), generic (6), [[SQL]] (2), cd (1)
+> **Frameworks & Libraries:** [[SQL]] (2)
 > **Code Identifiers:** generic_not_null (4), not_null (3), summons_number (2), bronze_parking_violation (1), bronze_parking_violations (1)
 > **CLI Commands:** make (5), cd (1)
 > **File Paths:** schema.yml (2), generic_not_null.sql (1), dbt_project.yml (1)
@@ -1894,8 +1860,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Utilizing multiple dbt profiles
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/utilizing-multiple-dbt-profiles?u=76281980)
+#### [Utilizing multiple dbt profiles](https://www.linkedin.com/learning/data-engineering-with-dbt/utilizing-multiple-dbt-profiles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1955,7 +1920,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/data-engineering-with-dbt/utilizing-multiple-dbt-profiles?u=76281980&t=144)** And there we go, we now have our production database set up for us and we can go check it out for ourselves.
 >
-> **[2:33](https://www.linkedin.com/learning/data-engineering-with-dbt/utilizing-multiple-dbt-profiles?u=76281980&t=153)** So let's set up our SQL queries, copy and paste this over here, bring it down.
+> **[2:33](https://www.linkedin.com/learning/data-engineering-with-dbt/utilizing-multiple-dbt-profiles?u=76281980&t=153)** So let's set up our [[SQL]] queries, copy and paste this over here, bring it down.
 >
 > **[2:41](https://www.linkedin.com/learning/data-engineering-with-dbt/utilizing-multiple-dbt-profiles?u=76281980&t=161)** And let's make sure to change this to prod show tables.
 >
@@ -1963,13 +1928,13 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/data-engineering-with-dbt/utilizing-multiple-dbt-profiles?u=76281980&t=173)** We can choose which database we want to choose within DBT with the various profiles.
 >
-> **[2:58](https://www.linkedin.com/learning/data-engineering-with-dbt/utilizing-multiple-dbt-profiles?u=76281980&t=178)** In our next video, we're going to create a GitHub actions workflow that'll do this entire thing automatically.
+> **[2:58](https://www.linkedin.com/learning/data-engineering-with-dbt/utilizing-multiple-dbt-profiles?u=76281980&t=178)** In our next video, we're going to create a [[GitHub]] actions workflow that'll do this entire thing automatically.
 >
 > **[3:04](https://www.linkedin.com/learning/data-engineering-with-dbt/utilizing-multiple-dbt-profiles?u=76281980&t=184)** It's super cool, so let's get over there.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), dbt (8), data (2), [[SQL]] (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[GitHub]] (1)
 > **Env Vars:** dbt (8), nyc (3), csv (2), yaml (1), sql (1)
 > **Prerequisites:** set up (3)
 > **CLI Commands:** make (2)
@@ -1978,8 +1943,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deploying with GitHub workflows
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/deploying-with-github-workflows?u=76281980)
+#### [Deploying with GitHub workflows](https://www.linkedin.com/learning/data-engineering-with-dbt/deploying-with-github-workflows?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1991,7 +1955,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/data-engineering-with-dbt/deploying-with-github-workflows?u=76281980&t=16)** So this won't be a one size fit all solution and you're going to have to research what you do for that.
 >
-> **[0:21](https://www.linkedin.com/learning/data-engineering-with-dbt/deploying-with-github-workflows?u=76281980&t=21)** But for this course, we're going to keep it simple and use GitHub Actions workflows.
+> **[0:21](https://www.linkedin.com/learning/data-engineering-with-dbt/deploying-with-github-workflows?u=76281980&t=21)** But for this course, we're going to keep it simple and use [[GitHub]] Actions workflows.
 >
 > **[0:25](https://www.linkedin.com/learning/data-engineering-with-dbt/deploying-with-github-workflows?u=76281980&t=25)** And to do that, we already have it set up and we have .github and workflows and we're going to add a new workflow in here.
 >
@@ -2011,7 +1975,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/data-engineering-with-dbt/deploying-with-github-workflows?u=76281980&t=70)** I would study this file that's going to be included and check out other documentation and articles throughout the internet that really walks you through how to do this.
 >
-> **[1:18](https://www.linkedin.com/learning/data-engineering-with-dbt/deploying-with-github-workflows?u=76281980&t=78)** But at a high level, I'm going to zoom out a little bit and we have our name and then we say on push or pull request, so when we make a new pull requests and merge it.
+> **[1:18](https://www.linkedin.com/learning/data-engineering-with-dbt/deploying-with-github-workflows?u=76281980&t=78)** But at a high level, I'm going to [[Zoom]] out a little bit and we have our name and then we say on push or pull request, so when we make a new pull requests and merge it.
 >
 > **[1:29](https://www.linkedin.com/learning/data-engineering-with-dbt/deploying-with-github-workflows?u=76281980&t=89)** And then I have here schedule, you can have it scheduled right here to run at 8:00 AM every single day.
 >
@@ -2027,7 +1991,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/data-engineering-with-dbt/deploying-with-github-workflows?u=76281980&t=112)** And then we have the job.
 >
-> **[1:53](https://www.linkedin.com/learning/data-engineering-with-dbt/deploying-with-github-workflows?u=76281980&t=113)** We're going to build a Python setup and we're going to install our dependencies.
+> **[1:53](https://www.linkedin.com/learning/data-engineering-with-dbt/deploying-with-github-workflows?u=76281980&t=113)** We're going to build a [[Python (Programming Language)|Python]] setup and we're going to install our dependencies.
 >
 > **[1:57](https://www.linkedin.com/learning/data-engineering-with-dbt/deploying-with-github-workflows?u=76281980&t=117)** Hence why we had to create requirements, that text file earlier.
 >
@@ -2117,7 +2081,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (6), dbt (5), database (2), [[Zoom]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (6), [[Zoom]] (1), [[Python (Programming Language)|Python]] (1)
 > **Tools:** github (6), terminal (2)
 > **File Paths:** profiles.yml (3), run-dbt-prod.yml (1)
 > **Env Vars:** dbt (4)
@@ -2131,8 +2095,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/data-engineering-with-dbt/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2144,7 +2107,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/data-engineering-with-dbt/next-steps?u=76281980&t=17)** I really appreciate you taking the time 'cause the best way to learn is through coding itself, and we did that.
 >
-> **[0:23](https://www.linkedin.com/learning/data-engineering-with-dbt/next-steps?u=76281980&t=23)** You can learn more about work I do by following me on LinkedIn, or you can go to my website [onthemarkdata.com](https://onthemarkdata.com).
+> **[0:23](https://www.linkedin.com/learning/data-engineering-with-dbt/next-steps?u=76281980&t=23)** You can learn more about work I do by following me on [[LinkedIn]], or you can go to my website [onthemarkdata.com](https://onthemarkdata.com).
 >
 > **[0:30](https://www.linkedin.com/learning/data-engineering-with-dbt/next-steps?u=76281980&t=30)** Or if you want more content from me, check out my Substack, scalingdataops, where I interview data leaders about scaling data infrastructure.
 >
@@ -2152,7 +2115,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dbt (3), data (3), database (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Prerequisites:** set up (2)
 > **URLs:** [onthemarkdata.com](https://onthemarkdata.com) (1)
 > **UI Navigation:** go to (1)

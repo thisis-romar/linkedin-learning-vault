@@ -96,14 +96,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### An in-depth look at cloud architecture diagrams
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/an-in-depth-look-at-cloud-architecture-diagrams?u=76281980)
+#### [An in-depth look at cloud architecture diagrams](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/an-in-depth-look-at-cloud-architecture-diagrams?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/an-in-depth-look-at-cloud-architecture-diagrams?u=76281980&t=0)** - [Mark] Well, hello future cloud diagrammers.
 >
-> **[0:03](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/an-in-depth-look-at-cloud-architecture-diagrams?u=76281980&t=3)** Is diagrammers even a word?
+> **[0:03](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/an-in-depth-look-at-cloud-architecture-diagrams?u=76281980&t=3)** Is diagrammers even a [[Microsoft Word|word]]?
 >
 > **[0:06](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/an-in-depth-look-at-cloud-architecture-diagrams?u=76281980&t=6)** It is now.
 >
@@ -133,13 +132,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), [[Microsoft Word|Word]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Analogies:** picture (2)
 > **Env Vars:** uml (1)
 > **Speakers:** - [mark] (1)
 
-#### What you need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/what-you-need-to-know?u=76281980)
+#### [What you need to know](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/what-you-need-to-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -153,13 +151,13 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/what-you-need-to-know?u=76281980&t=29)** If you do a good job, your documentation will come in really handy when there's problems.
 >
-> **[0:35](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/what-you-need-to-know?u=76281980&t=35)** Optionally, having some knowledge of cloud architecture such as as Azure, Google, or AWS, it could be helpful, but maybe it's not necessary.
+> **[0:35](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/what-you-need-to-know?u=76281980&t=35)** Optionally, having some knowledge of cloud architecture such as as [[Microsoft Azure|Azure]], [[Google]], or AWS, it could be helpful, but maybe it's not necessary.
 >
 > **[0:45](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/what-you-need-to-know?u=76281980&t=45)** Maybe you're the head of a team or an executive that will be driving the bus, so to speak, and you will be insisting on good documentation but you may not actually be using or viewing this documentation.
 >
-> **[0:56](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/what-you-need-to-know?u=76281980&t=56)** The person that's going to draw, create the cloud architect diagrams is going to need a device, a computer probably the best bet, either a Mac or Windows with browser access to the internet in order to be able to use some of the drawing tools that we'll talk about in this class.
+> **[0:56](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/what-you-need-to-know?u=76281980&t=56)** The person that's going to draw, create the cloud architect diagrams is going to need a device, a computer probably the best bet, either a Mac or [[Windows]] with browser access to the internet in order to be able to use some of the drawing tools that we'll talk about in this class.
 >
-> **[1:14](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/what-you-need-to-know?u=76281980&t=74)** You may also want to consider investing in some sort of centralized cloud storage like Box or OneDrive or Dropbox.
+> **[1:14](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/what-you-need-to-know?u=76281980&t=74)** You may also want to consider investing in some sort of centralized [[Cloud Storage]] like Box or [[Microsoft OneDrive|OneDrive]] or Dropbox.
 >
 > **[1:21](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/what-you-need-to-know?u=76281980&t=81)** This will provide a location for your organization's storage of the cloud documentation that you're going to create.
 >
@@ -167,7 +165,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), [[Troubleshooting]] (1), [[Microsoft Azure|Azure]] (1), [[Google]] (1), aws (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1), [[Google]] (1), [[Windows]] (1), [[Cloud Storage]] (1), [[Microsoft OneDrive|Onedrive]] (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 > **Analogies:** such as (1)
@@ -178,16 +176,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a cloud architecture diagram?
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/what-is-a-cloud-architecture-diagram?u=76281980)
+#### [What is a cloud architecture diagram?](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/what-is-a-cloud-architecture-diagram?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/what-is-a-cloud-architecture-diagram?u=76281980&t=0)** - [Instructor] All right, what is a cloud architect diagram and why should you care?
 >
-> **[0:06](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/what-is-a-cloud-architecture-diagram?u=76281980&t=6)** Well, a cloud architecture diagram is a visual representation of the components and relationships in a cloud computing system.
+> **[0:06](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/what-is-a-cloud-architecture-diagram?u=76281980&t=6)** Well, a cloud architecture diagram is a visual representation of the components and relationships in a [[Cloud Computing]] system.
 >
-> **[0:16](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/what-is-a-cloud-architecture-diagram?u=76281980&t=16)** This will typically include elements such as the cloud services such as storage, networking, and security.
+> **[0:16](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/what-is-a-cloud-architecture-diagram?u=76281980&t=16)** This will typically include elements such as the [[Cloud Services]] such as storage, networking, and security.
 >
 > **[0:22](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/what-is-a-cloud-architecture-diagram?u=76281980&t=22)** The cloud architecture diagram will show how these components fit together and interact, creating a complete cloud-based application or workload.
 >
@@ -201,7 +198,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/what-is-a-cloud-architecture-diagram?u=76281980&t=73)** An example could be you're creating a use case that describes how the end user interfaces or connects with a system or application, or maybe you're using something called a class diagram which details how a software application is designed.
 >
-> **[1:28](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/what-is-a-cloud-architecture-diagram?u=76281980&t=88)** Or maybe the most common scenario that you'll see is an architecture diagram that actually shows the cloud architecture components say from Amazon, Google, Azure.
+> **[1:28](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/what-is-a-cloud-architecture-diagram?u=76281980&t=88)** Or maybe the most common scenario that you'll see is an architecture diagram that actually shows the cloud architecture components say from Amazon, [[Google]], [[Microsoft Azure|Azure]].
 >
 > **[1:38](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/what-is-a-cloud-architecture-diagram?u=76281980&t=98)** These diagrams help you improve your design because once you see it visually, you'll see potential areas where you can improve.
 >
@@ -227,7 +224,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/what-is-a-cloud-architecture-diagram?u=76281980&t=189)** It's going to be really helpful for understanding the overall scope of the workload or project and in the future when undoubtedly questions or issues will occur, that visual reference point is really helpful for looking at the changes or updates that may have to be undertaken.
 >
-> **[3:29](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/what-is-a-cloud-architecture-diagram?u=76281980&t=209)** This documentation that we're creating can also be defined as operational excellence.
+> **[3:29](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/what-is-a-cloud-architecture-diagram?u=76281980&t=209)** This documentation that we're creating can also be defined as [[Operational Excellence]].
 >
 > **[3:35](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/what-is-a-cloud-architecture-diagram?u=76281980&t=215)** Operational excellence is designing a workload that is working the way you want in production and then maintaining that workload.
 >
@@ -277,19 +274,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (24), [[Operational Excellence]] (6), application (5), [[Security]] (3), [[Google]] (2)
+> **Frameworks & Libraries:** [[Operational Excellence]] (6), [[Cloud Computing]] (2), [[Cloud Services]] (2), [[Google]] (2), [[Microsoft Azure|Azure]] (2)
 > **Definitions:** is a  (2), is an  (1), defined as (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** such as (3)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enterprise architecture diagrams
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/enterprise-architecture-diagrams?u=76281980)
+#### [Enterprise architecture diagrams](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/enterprise-architecture-diagrams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/enterprise-architecture-diagrams?u=76281980&t=0)** - [Instructor] Another term you may be familiar with is enterprise architecture diagrams.
+> **[0:00](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/enterprise-architecture-diagrams?u=76281980&t=0)** - [Instructor] Another term you may be familiar with is [[Enterprise Architecture]] diagrams.
 >
 > **[0:06](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/enterprise-architecture-diagrams?u=76281980&t=6)** These diagrams are the big picture.
 >
@@ -303,7 +299,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/enterprise-architecture-diagrams?u=76281980&t=15)** What are your objectives?
 >
-> **[0:17](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/enterprise-architecture-diagrams?u=76281980&t=17)** The big picture, the digital transformation, if you will.
+> **[0:17](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/enterprise-architecture-diagrams?u=76281980&t=17)** The big picture, the [[Digital Transformation]], if you will.
 >
 > **[0:21](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/enterprise-architecture-diagrams?u=76281980&t=21)** So, let's look at these.
 >
@@ -325,13 +321,13 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/enterprise-architecture-diagrams?u=76281980&t=53)** This is the data and the information assets.
 >
-> **[0:56](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/enterprise-architecture-diagrams?u=76281980&t=56)** Could be structured unstructured data, including additional systems and processes to manage and access the data assets.
+> **[0:56](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/enterprise-architecture-diagrams?u=76281980&t=56)** Could be structured [[Unstructured Data]], including additional systems and processes to manage and access the data assets.
 >
 > **[1:04](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/enterprise-architecture-diagrams?u=76281980&t=64)** And finally, we have infrastructure.
 >
-> **[1:07](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/enterprise-architecture-diagrams?u=76281980&t=67)** Well, it's called technology architecture, but it really is infrastructure and typically cloud infrastructure.
+> **[1:07](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/enterprise-architecture-diagrams?u=76281980&t=67)** Well, it's called technology architecture, but it really is infrastructure and typically [[Cloud Infrastructure]].
 >
-> **[1:13](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/enterprise-architecture-diagrams?u=76281980&t=73)** And this is the hardware and software and networking components that is used to support the entire organization in all of these areas of enterprise architecture.
+> **[1:13](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/enterprise-architecture-diagrams?u=76281980&t=73)** And this is the [[Hardware]] and software and networking components that is used to support the entire organization in all of these areas of enterprise architecture.
 >
 > **[1:25](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/enterprise-architecture-diagrams?u=76281980&t=85)** And each of these areas could and is, usually in a large company, defined by a lot of cloud architecture diagrams, since the cloud is the underlying infrastructure at the IT level.
 >
@@ -343,12 +339,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (3), [[Enterprise Architecture]] (2), data (2), [[Digital Transformation]] (1), business (1)
+> **Frameworks & Libraries:** [[Enterprise Architecture]] (2), [[Digital Transformation]] (1), [[Unstructured Data]] (1), [[Cloud Infrastructure]] (1), [[Hardware]] (1)
 > **Analogies:** picture (2)
 > **Speakers:** - [instructor] (1)
 
-#### UML examples for AI systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/uml-examples-for-ai-systems?u=76281980)
+#### [UML examples for AI systems](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/uml-examples-for-ai-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -356,9 +351,9 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/uml-examples-for-ai-systems?u=76281980&t=11)** And you've probably seen these before, overlapping circles that are showing you quickly the relationships between two or three topics, or in this case, maybe two or three different cloud providers.
 >
-> **[0:24](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/uml-examples-for-ai-systems?u=76281980&t=24)** For example, perhaps you're talking about AWS compared to Azure.
+> **[0:24](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/uml-examples-for-ai-systems?u=76281980&t=24)** For example, perhaps you're talking about AWS compared to [[Microsoft Azure|Azure]].
 >
-> **[0:30](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/uml-examples-for-ai-systems?u=76281980&t=30)** Maybe you want to add in a comparison to Google.
+> **[0:30](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/uml-examples-for-ai-systems?u=76281980&t=30)** Maybe you want to add in a comparison to [[Google]].
 >
 > **[0:33](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/uml-examples-for-ai-systems?u=76281980&t=33)** And the center of the circles of the overlap is where there is something to talk about.
 >
@@ -390,7 +385,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/uml-examples-for-ai-systems?u=76281980&t=151)** And then describing the circles and their placement, what's going to be in each circle for each cloud provider.
 >
-> **[2:39](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/uml-examples-for-ai-systems?u=76281980&t=159)** And then finally, the overlaps between the cloud providers and the features that are going to be displayed, in this case between AWS and Azure, AWS and Google Cloud, Azure and Google Cloud, and the overlaps in question.
+> **[2:39](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/uml-examples-for-ai-systems?u=76281980&t=159)** And then finally, the overlaps between the cloud providers and the features that are going to be displayed, in this case between AWS and Azure, AWS and [[Google Cloud Platform (GCP)|Google Cloud]], Azure and Google Cloud, and the overlaps in question.
 >
 > **[2:56](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/uml-examples-for-ai-systems?u=76281980&t=176)** And then finally, the central overlap between the three cloud providers, the services that match up.
 >
@@ -418,7 +413,7 @@ created: 2026-05-02
 >
 > **[4:24](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/uml-examples-for-ai-systems?u=76281980&t=264)** Slightly different placement.
 >
-> **[4:26](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/uml-examples-for-ai-systems?u=76281980&t=266)** We're not seeing the overlap that you might see in PowerPoint, but it's presenting the material that we provided in our prompt for AWS, Azure, Google, then where they overlap between the different providers.
+> **[4:26](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/uml-examples-for-ai-systems?u=76281980&t=266)** We're not seeing the overlap that you might see in [[Microsoft PowerPoint|PowerPoint]], but it's presenting the material that we provided in our prompt for AWS, Azure, Google, then where they overlap between the different providers.
 >
 > **[4:45](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/uml-examples-for-ai-systems?u=76281980&t=285)** And finally, the all providers overlap.
 >
@@ -430,7 +425,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (9), prompt (9), ai (7), aws (6), [[Microsoft Azure|Azure]] (6)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Google]] (4), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Env Vars:** aws (6), iam (1)
 > **CLI Commands:** aws (6)
 > **Analogies:** such as (1), for example (1)
@@ -438,14 +433,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Business architecture diagrams
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/business-architecture-diagrams?u=76281980)
+#### [Business architecture diagrams](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/business-architecture-diagrams?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/business-architecture-diagrams?u=76281980&t=0)** - [Instructor] The goal of business architecture is to ensure that the organization's IT systems are fully aligned with and support the business goals and objectives.
 >
-> **[0:11](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/business-architecture-diagrams?u=76281980&t=11)** So it's a framework for the overall alignment of the organization, how it operates, business operations, IT strategies, and the required processes and systems.
+> **[0:11](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/business-architecture-diagrams?u=76281980&t=11)** So it's a framework for the overall alignment of the organization, how it operates, [[Business Operations]], IT strategies, and the required processes and systems.
 >
 > **[0:22](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/business-architecture-diagrams?u=76281980&t=22)** Think for a second about your company.
 >
@@ -457,7 +451,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/business-architecture-diagrams?u=76281980&t=53)** There will also be processes followed, key business processes, that are used by the organization in different departments to achieve the business goals.
 >
-> **[1:03](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/business-architecture-diagrams?u=76281980&t=63)** This will also require systems and objectives, maybe some cloud services, certain SaaS applications, certain software applications need to be developed.
+> **[1:03](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/business-architecture-diagrams?u=76281980&t=63)** This will also require systems and objectives, maybe some [[Cloud Services]], certain [[SaaS]] applications, certain software applications need to be developed.
 >
 > **[1:14](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/business-architecture-diagrams?u=76281980&t=74)** Because we have processes, required processes, and in a lot of cases, they have to be developed, we'll have stakeholders.
 >
@@ -471,7 +465,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/business-architecture-diagrams?u=76281980&t=104)** What are the required capabilities that your organization needs?
 >
-> **[1:49](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/business-architecture-diagrams?u=76281980&t=109)** Maybe you need unlimited cloud storage.
+> **[1:49](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/business-architecture-diagrams?u=76281980&t=109)** Maybe you need unlimited [[Cloud Storage]].
 >
 > **[1:52](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/business-architecture-diagrams?u=76281980&t=112)** If so, is there security that has to be designed for that unlimited storage?
 >
@@ -487,7 +481,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/business-architecture-diagrams?u=76281980&t=155)** Okay, now we've got a business concept now that we're a company, so we need some business architecture and we'll need some design, we start building projects, and maybe it's internal design, maybe it's external.
 >
-> **[2:49](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/business-architecture-diagrams?u=76281980&t=169)** Maybe there's a number of developers working on this project, or maybe it's not at the development stage, maybe it's more at the human resources level.
+> **[2:49](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/business-architecture-diagrams?u=76281980&t=169)** Maybe there's a number of developers working on this project, or maybe it's not at the development stage, maybe it's more at the [[Human Resources (HR)|human resources]] level.
 >
 > **[2:57](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/business-architecture-diagrams?u=76281980&t=177)** Regardless, there will need to be some sort of business structure, there will have to be a deliverable.
 >
@@ -495,16 +489,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (13), cloud (2), [[SaaS]] (1), [[Security]] (1), [[Human Resources (HR)|Human resources]] (1)
+> **Frameworks & Libraries:** [[Business Operations]] (1), [[Cloud Services]] (1), [[SaaS]] (1), [[Cloud Storage]] (1), [[Human Resources (HR)|Human resources]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Application architecture diagrams
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/application-architecture-diagrams?u=76281980)
+#### [Application architecture diagrams](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/application-architecture-diagrams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/application-architecture-diagrams?u=76281980&t=0)** - [Instructor] Application architecture is also part of the enterprise architecture, and the goal of application architecture is to ensure that the organization's applications are aligned with and support the overall business goals and objectives.
+> **[0:00](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/application-architecture-diagrams?u=76281980&t=0)** - [Instructor] Application architecture is also part of the [[Enterprise Architecture]], and the goal of application architecture is to ensure that the organization's applications are aligned with and support the overall business goals and objectives.
 >
 > **[0:16](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/application-architecture-diagrams?u=76281980&t=16)** Now, some of the key elements of application architecture include the landscape itself.
 >
@@ -514,7 +507,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/application-architecture-diagrams?u=76281980&t=26)** What's the platforms?
 >
-> **[0:27](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/application-architecture-diagrams?u=76281980&t=27)** Are they running in virtual machines?
+> **[0:27](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/application-architecture-diagrams?u=76281980&t=27)** Are they running in [[Virtual Machines]]?
 >
 > **[0:29](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/application-architecture-diagrams?u=76281980&t=29)** Are they in containers?
 >
@@ -528,9 +521,9 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/application-architecture-diagrams?u=76281980&t=36)** We also have potentially development, what processes and tools are going to be used to develop and maintain the applications.
 >
-> **[0:44](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/application-architecture-diagrams?u=76281980&t=44)** Potentially, you might be using a cloud provider like Azure to develop your applications and host your applications.
+> **[0:44](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/application-architecture-diagrams?u=76281980&t=44)** Potentially, you might be using a cloud provider like [[Microsoft Azure|Azure]] to develop your applications and host your applications.
 >
-> **[0:51](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/application-architecture-diagrams?u=76281980&t=51)** You'll also have a deployment process, as mentioned, it might be in the cloud, but maybe it's agile development, and you will be using a lot of continuous integration and delivery pipelines.
+> **[0:51](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/application-architecture-diagrams?u=76281980&t=51)** You'll also have a deployment process, as mentioned, it might be in the cloud, but maybe it's [[Agile Development|agile]] development, and you will be using a lot of [[Continuous Integration (CI)|continuous integration]] and delivery pipelines.
 >
 > **[1:02](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/application-architecture-diagrams?u=76281980&t=62)** Again, the cloud might be involved, and finally, the management of your applications.
 >
@@ -560,7 +553,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/application-architecture-diagrams?u=76281980&t=125)** It will need a repository.
 >
-> **[2:06](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/application-architecture-diagrams?u=76281980&t=126)** It might be containers, it might be virtual machines, but at the end of the day, you will have certain types of data, maybe all of them, relational databases, non-relational databases, NoSQL, or maybe unstructured social media data that fits into what this application, or service, or even microservice is.
+> **[2:06](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/application-architecture-diagrams?u=76281980&t=126)** It might be containers, it might be virtual machines, but at the end of the day, you will have certain types of data, maybe all of them, [[Relational Databases]], non-relational databases, [[NoSQL]], or maybe unstructured social media data that fits into what this application, or service, or even microservice is.
 >
 > **[2:27](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/application-architecture-diagrams?u=76281980&t=147)** Again, if you're trying to describe an application to somebody and there's no graphical representation, it's pretty hard to understand.
 >
@@ -574,23 +567,22 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/application-architecture-diagrams?u=76281980&t=171)** It will be controlled and accessed by potentially some sort of remote procedure call, some restful call, all API calls here.
 >
-> **[2:59](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/application-architecture-diagrams?u=76281980&t=179)** Maybe it's managed and administrated with a CLI or through the web.
+> **[2:59](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/application-architecture-diagrams?u=76281980&t=179)** Maybe it's managed and administrated with a [[CLI]] or through the web.
 >
 > **[3:03](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/application-architecture-diagrams?u=76281980&t=183)** So some application architecture that can be understood by a variety of audiences.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (8), cloud (7), business (3), data (3), [[Virtual Machines]] (2)
+> **Frameworks & Libraries:** [[Virtual Machines]] (2), [[Relational Databases]] (2), [[NoSQL]] (2), [[Enterprise Architecture]] (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** api (1), cli (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data architecture diagrams
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/data-architecture-diagrams?u=76281980)
+#### [Data architecture diagrams](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/data-architecture-diagrams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/data-architecture-diagrams?u=76281980&t=0)** - [Instructor] Data architecture is also part of the enterprise architecture landscape.
+> **[0:00](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/data-architecture-diagrams?u=76281980&t=0)** - [Instructor] [[Data Architecture]] is also part of the [[Enterprise Architecture]] landscape.
 >
 > **[0:06](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/data-architecture-diagrams?u=76281980&t=6)** What are the data assets of your organization?
 >
@@ -602,9 +594,9 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/data-architecture-diagrams?u=76281980&t=26)** These elements are, data assets themselves.
 >
-> **[0:30](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/data-architecture-diagrams?u=76281980&t=30)** Structured data databases.
+> **[0:30](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/data-architecture-diagrams?u=76281980&t=30)** Structured data [[Databases]].
 >
-> **[0:31](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/data-architecture-diagrams?u=76281980&t=31)** Unstructured data.
+> **[0:31](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/data-architecture-diagrams?u=76281980&t=31)** [[Unstructured Data]].
 >
 > **[0:33](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/data-architecture-diagrams?u=76281980&t=33)** Documents, images, social media.
 >
@@ -658,9 +650,9 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/data-architecture-diagrams?u=76281980&t=122)** That application utilizes certain application services, and it runs on a standard platform which could be not that well described.
 >
-> **[2:11](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/data-architecture-diagrams?u=76281980&t=131)** Or maybe in your company everybody knows that standard platform means Kubernetes, but maybe it means virtual machines.
+> **[2:11](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/data-architecture-diagrams?u=76281980&t=131)** Or maybe in your company everybody knows that standard platform means [[Kubernetes]], but maybe it means [[Virtual Machines]].
 >
-> **[2:17](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/data-architecture-diagrams?u=76281980&t=137)** Maybe it means Linux.
+> **[2:17](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/data-architecture-diagrams?u=76281980&t=137)** Maybe it means [[Linux]].
 >
 > **[2:19](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/data-architecture-diagrams?u=76281980&t=139)** Maybe there could be more details.
 >
@@ -680,22 +672,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), application (6), [[Data Architecture]] (4), [[Unstructured Data]] (2), cloud (2)
+> **Frameworks & Libraries:** [[Data Architecture]] (4), [[Unstructured Data]] (2), [[Enterprise Architecture]] (1), [[Databases]] (1), [[Kubernetes]] (1)
 > **Prerequisites:** required to (1), you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Technology architecture diagrams
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/technology-architecture-diagrams?u=76281980)
+#### [Technology architecture diagrams](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/technology-architecture-diagrams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/technology-architecture-diagrams?u=76281980&t=0)** - [Instructor] Technology architecture, or the infrastructure, is also a part of the enterprise architecture.
+> **[0:00](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/technology-architecture-diagrams?u=76281980&t=0)** - [Instructor] Technology architecture, or the infrastructure, is also a part of the [[Enterprise Architecture]].
 >
 > **[0:07](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/technology-architecture-diagrams?u=76281980&t=7)** I would say it's the most important component.
 >
 > **[0:10](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/technology-architecture-diagrams?u=76281980&t=10)** If your infrastructure is having problems, things aren't working.
 >
-> **[0:14](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/technology-architecture-diagrams?u=76281980&t=14)** So the hardware, the software, and the networking components supporting the overall infrastructure.
+> **[0:14](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/technology-architecture-diagrams?u=76281980&t=14)** So the [[Hardware]], the software, and the networking components supporting the overall infrastructure.
 >
 > **[0:20](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/technology-architecture-diagrams?u=76281980&t=20)** Some of the key aspects of technology architecture include the following: The technology landscape itself.
 >
@@ -737,7 +728,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/technology-architecture-diagrams?u=76281980&t=113)** In this case, a couple of private subnets and a public subnet.
 >
-> **[1:57](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/technology-architecture-diagrams?u=76281980&t=117)** We're deploying an application load balancer that will connect to the web servers that will show up in the first private subnet listing.
+> **[1:57](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/technology-architecture-diagrams?u=76281980&t=117)** We're deploying an application load balancer that will connect to the [[Web Servers]] that will show up in the first private subnet listing.
 >
 > **[2:05](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/technology-architecture-diagrams?u=76281980&t=125)** We also have end users connecting across the internet that need to connect to this public-facing application.
 >
@@ -749,7 +740,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/technology-architecture-diagrams?u=76281980&t=152)** The instances that host the application in the different availability zones are hosted on private subnets.
 >
-> **[2:38](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/technology-architecture-diagrams?u=76281980&t=158)** The instances are set up to scale up and down with a feature called auto-scaling, that databases are contained on private subnets in separate availability zones, and the records are synchronously replicated.
+> **[2:38](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/technology-architecture-diagrams?u=76281980&t=158)** The instances are set up to scale up and down with a feature called auto-scaling, that [[Databases]] are contained on private subnets in separate availability zones, and the records are synchronously replicated.
 >
 > **[2:52](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/technology-architecture-diagrams?u=76281980&t=172)** Think of making this presentation in your own organization.
 >
@@ -763,14 +754,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (4), application (4), cloud (2), aws (2), [[Enterprise Architecture]] (1)
+> **Frameworks & Libraries:** [[Enterprise Architecture]] (1), [[Hardware]] (1), [[Web Servers]] (1), [[Databases]] (1)
 > **Env Vars:** aws (2), vpc (2)
 > **CLI Commands:** aws (2), find (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Unified Modeling Language (UML) diagrams
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/universal-modeling-language-uml-diagrams?u=76281980)
+#### [Unified Modeling Language (UML) diagrams](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/universal-modeling-language-uml-diagrams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -808,13 +798,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (7), [[Engineering]] (1)
 > **Env Vars:** uml (5)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### UML use case diagram overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/uml-use-case-diagram-overview?u=76281980)
+#### [UML use case diagram overview](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/uml-use-case-diagram-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -862,14 +850,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1)
 > **Env Vars:** imap (2)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### UML component diagram overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/uml-component-diagram-overview?u=76281980)
+#### [UML component diagram overview](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/uml-component-diagram-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -919,20 +905,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (2), web application (2), application (2), database (2), management (1)
 > **Env Vars:** uml (1), tcpip (1), crm (1)
 > **CLI Commands:** make (2)
 > **Documentation:** spec (2)
 > **Speakers:** - [instructor] (1)
 
-#### UML deployment diagram overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/uml-deployment-diagram-overview?u=76281980)
+#### [UML deployment diagram overview](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/uml-deployment-diagram-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/uml-deployment-diagram-overview?u=76281980&t=0)** - [Mark] Deployment diagrams.
 >
-> **[0:02](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/uml-deployment-diagram-overview?u=76281980&t=2)** They represent system hardware and the associated software components.
+> **[0:02](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/uml-deployment-diagram-overview?u=76281980&t=2)** They represent system [[Hardware]] and the associated software components.
 >
 > **[0:07](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/uml-deployment-diagram-overview?u=76281980&t=7)** Well, we're now in the cloud.
 >
@@ -954,7 +938,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/uml-deployment-diagram-overview?u=76281980&t=54)** Perhaps they're accessing data for the application that is being stored in an S3 bucket, fronted by CloudFront, the CDN.
 >
-> **[1:04](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/uml-deployment-diagram-overview?u=76281980&t=64)** The multi-tier deployment has a load balancer that is supporting the web servers hosted in two separate private subnets, across two availability zones.
+> **[1:04](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/uml-deployment-diagram-overview?u=76281980&t=64)** The multi-tier deployment has a load balancer that is supporting the [[Web Servers]] hosted in two separate private subnets, across two availability zones.
 >
 > **[1:15](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/uml-deployment-diagram-overview?u=76281980&t=75)** Auto scaling is scaling the resources up and down, i.e. the web server compute resources.
 >
@@ -964,14 +948,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), web (3), [[Hardware]] (2), cloud (2), aws (2)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Web Servers]] (1)
 > **Env Vars:** aws (2), dns (1), cdn (1)
 > **CLI Commands:** aws (2), az (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [mark] (1)
 
-#### UML sequence diagram overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/uml-sequence-diagram-overview?u=76281980)
+#### [UML sequence diagram overview](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/uml-sequence-diagram-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -981,7 +964,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/uml-sequence-diagram-overview?u=76281980&t=20)** So we're visualizing the interactions within processes and programs and sometimes across different IT infrastructures.
 >
-> **[0:30](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/uml-sequence-diagram-overview?u=76281980&t=30)** The sequence of interactions is messages and communications between the actors and objects, could be end users and databases, or other external interfaces.
+> **[0:30](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/uml-sequence-diagram-overview?u=76281980&t=30)** The sequence of interactions is messages and communications between the actors and objects, could be end users and [[Databases]], or other external interfaces.
 >
 > **[0:42](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/uml-sequence-diagram-overview?u=76281980&t=42)** Let's take a look at a sequence diagram.
 >
@@ -1009,11 +992,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (1), database (1)
+> **Frameworks & Libraries:** [[Databases]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### UML state diagram overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/uml-state-diagram-overview?u=76281980)
+#### [UML state diagram overview](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/uml-state-diagram-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1047,14 +1029,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (7), data (1), database (1)
 > **Env Vars:** api (7), cdn (1)
 > **Versions:** version 1 (3), version 2 (3)
 > **Definitions:** is an  (1)
 > **Speakers:** - [mark] (1)
 
-#### UML activity diagram overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/uml-activity-diagram-overview?u=76281980)
+#### [UML activity diagram overview](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/uml-activity-diagram-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1092,11 +1072,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), application (1)
 > **Speakers:** - [instructor] (1)
 
-#### UML class diagram overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/uml-class-diagram-overview?u=76281980)
+#### [UML class diagram overview](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/uml-class-diagram-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1104,11 +1082,11 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/uml-class-diagram-overview?u=76281980&t=12)** You might see something like customer, order, and product.
 >
-> **[0:16](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/uml-class-diagram-overview?u=76281980&t=16)** Another way of thinking about a class diagram is a visual workflow of object oriented software design, and it's showing you the structure of a software system.
+> **[0:16](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/uml-class-diagram-overview?u=76281980&t=16)** Another way of thinking about a class diagram is a visual workflow of object oriented [[Software Design]], and it's showing you the structure of a software system.
 >
 > **[0:27](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/uml-class-diagram-overview?u=76281980&t=27)** And developers will use class diagrams in the strict UML format to define and layout how their software is going to be designed.
 >
-> **[0:38](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/uml-class-diagram-overview?u=76281980&t=38)** Think of databases, and the schema, and all of the different components within the database.
+> **[0:38](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/uml-class-diagram-overview?u=76281980&t=38)** Think of [[Databases]], and the schema, and all of the different components within the database.
 >
 > **[0:45](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/uml-class-diagram-overview?u=76281980&t=45)** Let's look at an example.
 >
@@ -1128,7 +1106,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/uml-class-diagram-overview?u=76281980&t=83)** Whereas the customer class, well, there's a credit card, there's history of orders, updating information, certain operations that need to be defined.
 >
-> **[1:34](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/uml-class-diagram-overview?u=76281980&t=94)** If we make this more complicated, add in more fields, we can see if I'm dealing with products or selecting the product or the administration to deal with the overall administration of the software system there is additional information.
+> **[1:34](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/uml-class-diagram-overview?u=76281980&t=94)** If we make this more complicated, add in more fields, we can see if I'm dealing with [[Microsoft Products|products]] or selecting the product or the administration to deal with the overall administration of the software system there is additional information.
 >
 > **[1:48](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/uml-class-diagram-overview?u=76281980&t=108)** As we make it bigger it gets more complicated with more classes.
 >
@@ -1138,14 +1116,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), [[Software Design]] (1), [[Databases]] (1), database (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Software Design]] (1), [[Databases]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** uml (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Organizational responsibilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/organizational-responsibilities?u=76281980)
+#### [Organizational responsibilities](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/organizational-responsibilities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1155,7 +1132,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/organizational-responsibilities?u=76281980&t=28)** Defining a cloud center of excellence is going to allow you to put forward and maintain best practices, best practices that are presented by well-architected frameworks, and ensure that, for example, with documentation, you have standards that everybody follows.
 >
-> **[0:46](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/organizational-responsibilities?u=76281980&t=46)** You want to ensure that the organization as a whole can leverage the benefits of cloud computing, including deployment, maintenance, costing, and if it isn't a top-down support, if it's just merely a team or yourself which is driving the bus for documentation or cloud, it's going to be much more difficult to have standards.
+> **[0:46](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/organizational-responsibilities?u=76281980&t=46)** You want to ensure that the organization as a whole can leverage the benefits of [[Cloud Computing]], including deployment, maintenance, costing, and if it isn't a top-down support, if it's just merely a team or yourself which is driving the bus for documentation or cloud, it's going to be much more difficult to have standards.
 >
 > **[1:07](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/organizational-responsibilities?u=76281980&t=67)** So the cloud center of excellence is providing the overall support for everybody within the organization.
 >
@@ -1185,7 +1162,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/organizational-responsibilities?u=76281980&t=169)** So before starting, what is the purpose of the workload or architecture that is going to be hosted in the cloud?
 >
-> **[2:57](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/organizational-responsibilities?u=76281980&t=177)** Keep in mind, we've talked about enterprise architecture.
+> **[2:57](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/organizational-responsibilities?u=76281980&t=177)** Keep in mind, we've talked about [[Enterprise Architecture]].
 >
 > **[3:00](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/organizational-responsibilities?u=76281980&t=180)** All of those components fit into these discussions.
 >
@@ -1227,13 +1204,13 @@ created: 2026-05-02
 >
 > **[4:44](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/organizational-responsibilities?u=76281980&t=284)** It also has to inform a wide variety of audiences within the organization.
 >
-> **[4:50](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/organizational-responsibilities?u=76281980&t=290)** And ultimately, once the documentation has been approved and has been written and cataloged and version controlled, it can ensure that the existing cloud infrastructure is properly configured and maintained now and in the future.
+> **[4:50](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/organizational-responsibilities?u=76281980&t=290)** And ultimately, once the documentation has been approved and has been written and cataloged and version controlled, it can ensure that the existing [[Cloud Infrastructure]] is properly configured and maintained now and in the future.
 >
 > **[5:05](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/organizational-responsibilities?u=76281980&t=305)** It also can help maintain the overall governance and compliance standards that the organization has to follow, because after all, it's visually accessible.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (18), teams (2), [[Security]] (1), [[Enterprise Architecture]] (1), [[Cloud Infrastructure]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (2), [[Enterprise Architecture]] (1), [[Cloud Infrastructure]] (1)
 > **Documentation:** the documentation (4)
 > **Warnings:** keep in mind (2)
 > **Analogies:** for example (1)
@@ -1244,8 +1221,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use case diagrams
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/use-case-diagrams?u=76281980)
+#### [Use case diagrams](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/use-case-diagrams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1257,7 +1233,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/use-case-diagrams?u=76281980&t=8)** What is our starting point?
 >
-> **[0:10](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/use-case-diagrams?u=76281980&t=10)** This use case diagram's got to function as a foundation for the technical documentation.
+> **[0:10](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/use-case-diagrams?u=76281980&t=10)** This use case diagram's got to function as a foundation for the [[Technical Documentation]].
 >
 > **[0:16](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/use-case-diagrams?u=76281980&t=16)** It's a starting point.
 >
@@ -1397,7 +1373,7 @@ created: 2026-05-02
 >
 > **[5:54](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/use-case-diagrams?u=76281980&t=354)** So here's some topics to consider drawing.
 >
-> **[5:57](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/use-case-diagrams?u=76281980&t=357)** Cloud storage.
+> **[5:57](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/use-case-diagrams?u=76281980&t=357)** [[Cloud Storage]].
 >
 > **[5:58](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/use-case-diagrams?u=76281980&t=358)** How does the end user interact with cloud storage?
 >
@@ -1427,20 +1403,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (9), application (3), business (2), [[Technical Documentation]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Cloud Storage]] (5), [[Technical Documentation]] (1)
 > **Analogies:** for example (2), picture (1)
 > **Documentation:** the documentation (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Class diagrams
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/class-diagrams?u=76281980)
+#### [Class diagrams](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/class-diagrams?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/class-diagrams?u=76281980&t=0)** - Let's take a look at UML Class diagrams.
 >
-> **[0:03](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/class-diagrams?u=76281980&t=3)** Now to be fair, these get pretty complicated, and they're specialized for development, but we're going to cover them anyways because they fit into some of the diagrams that would be supported in enterprise architecture, and you might very well have these at different layers for different audiences when you're designing your cloud architecture diagrams.
+> **[0:03](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/class-diagrams?u=76281980&t=3)** Now to be fair, these get pretty complicated, and they're specialized for development, but we're going to cover them anyways because they fit into some of the diagrams that would be supported in [[Enterprise Architecture]], and you might very well have these at different layers for different audiences when you're designing your cloud architecture diagrams.
 >
 > **[0:25](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/class-diagrams?u=76281980&t=25)** Ultimately what they provide is a visual workflow of software that is defined as object-oriented software.
 >
@@ -1492,15 +1467,15 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/class-diagrams?u=76281980&t=177)** When the end user, i.e. the cloud consumer or the administrator connects to the portal, they're then going to be directed to the cloud.
 >
-> **[3:07](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/class-diagrams?u=76281980&t=187)** The cloud could be on-prem as we'll see or particular cloud services.
+> **[3:07](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/class-diagrams?u=76281980&t=187)** The cloud could be on-prem as we'll see or particular [[Cloud Services]].
 >
 > **[3:11](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/class-diagrams?u=76281980&t=191)** The support services for these cloud services involve business, operational and non-functional services, and these are supporting both clouds.
 >
-> **[3:22](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/class-diagrams?u=76281980&t=202)** On-prem, we have a cluster with various nodes and a virtual machine manager so the hypervisor may be VMware, and we'll have specific virtual machines that run on specific hardware, and there will be specific network, server and storage components.
+> **[3:22](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/class-diagrams?u=76281980&t=202)** On-prem, we have a cluster with various nodes and a virtual machine manager so the hypervisor may be VMware, and we'll have specific [[Virtual Machines]] that run on specific [[Hardware]], and there will be specific network, server and storage components.
 >
 > **[3:39](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/class-diagrams?u=76281980&t=219)** The attributes could be filled out providing these details, pointing out that the class diagrams have been around long before the public cloud.
 >
-> **[3:48](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/class-diagrams?u=76281980&t=228)** Continuing on the cloud services, let's say AWS or maybe it's multi-cloud, involve SaaS apps, platform as a service apps and infrastructure services.
+> **[3:48](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/class-diagrams?u=76281980&t=228)** Continuing on the cloud services, let's say AWS or maybe it's multi-cloud, involve [[SaaS]] apps, [[PaaS|platform as a service]] apps and infrastructure services.
 >
 > **[4:01](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/class-diagrams?u=76281980&t=241)** Note that the infrastructure services also link into the on-premise services.
 >
@@ -1510,7 +1485,7 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/class-diagrams?u=76281980&t=250)** The virtual environment for the platform as a service environment has several development environments including a testing environment.
 >
-> **[4:18](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/class-diagrams?u=76281980&t=258)** So this could be presented to an organization saying these are the pieces that we have, and perhaps the question comes up I think you need to expand the information for infrastructure as a service.
+> **[4:18](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/class-diagrams?u=76281980&t=258)** So this could be presented to an organization saying these are the pieces that we have, and perhaps the question comes up I think you need to expand the information for [[IaaS|infrastructure as a service]].
 >
 > **[4:30](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/class-diagrams?u=76281980&t=270)** Is that specifically just on-prem or is there something in one particular cloud provider?
 >
@@ -1522,7 +1497,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (13), [[PaaS|Platform as a service]] (2), [[Enterprise Architecture]] (1), business (1), functional (1)
+> **Frameworks & Libraries:** [[Cloud Services]] (3), [[PaaS|Platform as a service]] (2), [[Enterprise Architecture]] (1), [[Virtual Machines]] (1), [[Hardware]] (1)
 > **Definitions:** is a  (2), defined as (1)
 > **Analogies:** such as (2), for example (1)
 > **Env Vars:** uml (1), aws (1)
@@ -1530,8 +1505,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - let (1)
 
-#### Activity diagrams
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/activity-diagrams?u=76281980)
+#### [Activity diagrams](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/activity-diagrams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1567,19 +1541,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), product (1), node (1), cloud (1)
 > **CLI Commands:** node (1), make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Architecture diagrams
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/architecture-diagrams?u=76281980)
+#### [Architecture diagrams](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/architecture-diagrams?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/architecture-diagrams?u=76281980&t=0)** - [Instructor] When we look at the architecture diagrams defined in the UML cannon, remember that component, and deployment diagrams are considered architecture, and this is also a standard that is morphed as the public cloud has taken over most IT designs for most organizations.
 >
-> **[0:22](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/architecture-diagrams?u=76281980&t=22)** When we look at deployment diagrams, this is going to represent the system hardware, the virtual hardware and the associated software components.
+> **[0:22](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/architecture-diagrams?u=76281980&t=22)** When we look at deployment diagrams, this is going to represent the system [[Hardware]], the virtual hardware and the associated software components.
 >
 > **[0:31](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/architecture-diagrams?u=76281980&t=31)** Even that's tricky because the software components might be a cloud service such as a load balancer, and what we start seeing is that just defining a deployment or a component view isn't enough.
 >
@@ -1605,7 +1577,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/architecture-diagrams?u=76281980&t=119)** We're just using a simple example.
 >
-> **[2:02](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/architecture-diagrams?u=76281980&t=122)** An example of cloud documentation without showing the cloud icons provided by the cloud provider such as AWS, Azure or Google, where you're mapping out deployment specs for your workload.
+> **[2:02](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/architecture-diagrams?u=76281980&t=122)** An example of cloud documentation without showing the cloud icons provided by the cloud provider such as AWS, [[Microsoft Azure|Azure]] or [[Google]], where you're mapping out deployment specs for your workload.
 >
 > **[2:18](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/architecture-diagrams?u=76281980&t=138)** In this case, the client is connecting to an active load balancer that will then direct the requests to a couple of servers at least, but maybe there'll be more servers, maybe the servers can scale the same with storage.
 >
@@ -1621,7 +1593,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/architecture-diagrams?u=76281980&t=191)** Looking at the components of AWS, we have Route 53, the DNS service that is going to forward requests to really all services at AWS services will have a DNS name such as an elastic load balancer.
 >
-> **[3:26](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/architecture-diagrams?u=76281980&t=206)** The load balancer will forward requests to EC2 instances, the instances that are targeted, and the EC2 instance will communicate most likely with some sort of database, in this case, a MySQL database.
+> **[3:26](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/architecture-diagrams?u=76281980&t=206)** The load balancer will forward requests to [[Amazon EC2|EC2]] instances, the instances that are targeted, and the EC2 instance will communicate most likely with some sort of database, in this case, a [[MySQL]] database.
 >
 > **[3:41](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/architecture-diagrams?u=76281980&t=221)** So we have some information as far as the flow.
 >
@@ -1639,13 +1611,13 @@ created: 2026-05-02
 >
 > **[4:29](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/architecture-diagrams?u=76281980&t=269)** So perhaps we have to introduce another type of documentation, and this is the C4 model.
 >
-> **[4:36](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/architecture-diagrams?u=76281980&t=276)** The C4 model was developed as a way to do software development with teams with cloud architecture, providing more communication information, so we can add-in additional pieces.
+> **[4:36](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/architecture-diagrams?u=76281980&t=276)** The C4 model was developed as a way to do [[Software Development]] with teams with cloud architecture, providing more communication information, so we can add-in additional pieces.
 >
 > **[4:51](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/architecture-diagrams?u=76281980&t=291)** Let's add some of them in now, so we can say, okay, Route 53, it's job is DNS, but it's also defined with specific traffic patterns, including health checks for failover.
 >
 > **[5:04](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/architecture-diagrams?u=76281980&t=304)** The load balancer is an application load balancer.
 >
-> **[5:06](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/architecture-diagrams?u=76281980&t=306)** The web application is containerized Java and Spring Boot.
+> **[5:06](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/architecture-diagrams?u=76281980&t=306)** The web application is containerized [[Java]] and [[Spring Boot]].
 >
 > **[5:10](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/architecture-diagrams?u=76281980&t=310)** The database is a relational database.
 >
@@ -1659,7 +1631,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (11), database (6), aws (4), [[Hardware]] (3), dns (3)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[Amazon EC2|Ec2]] (3), [[Microsoft Azure|Azure]] (2), [[Google]] (2), [[MySQL]] (2)
 > **Env Vars:** uml (4), aws (4), dns (3), ec2 (3)
 > **CLI Commands:** aws (4), mysql (2), make (1), find (1)
 > **Definitions:** defined as (1), is an  (1), is a  (1)
@@ -1667,8 +1639,7 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sequence diagrams
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/sequence-diagrams?u=76281980)
+#### [Sequence diagrams](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/sequence-diagrams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1806,14 +1777,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), cloud (3), [[Troubleshooting]] (2), business (1), web (1)
 > **Env Vars:** api (4), uml (2), cdn (1), http (1), aws (1)
 > **CLI Commands:** aws (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### State machine diagrams
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/state-machine-diagrams?u=76281980)
+#### [State machine diagrams](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/state-machine-diagrams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1897,13 +1866,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), etl (1)
 > **Env Vars:** uml (2), cpu (1), etl (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Creating UML diagrams
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/creating-uml-diagrams?u=76281980)
+#### [Creating UML diagrams](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/creating-uml-diagrams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1923,7 +1890,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/creating-uml-diagrams?u=76281980&t=32)** It will then give us a choice, and we can decide later, where do I want to store the documents, the diagrams that I'm creating?
 >
-> **[0:40](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/creating-uml-diagrams?u=76281980&t=40)** It's a good idea to think about this to keep organized, Dropbox, Google, OneDrive, on your own device, lots of options.
+> **[0:40](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/creating-uml-diagrams?u=76281980&t=40)** It's a good idea to think about this to keep organized, Dropbox, [[Google]], [[Microsoft OneDrive|OneDrive]], on your own device, lots of options.
 >
 > **[0:49](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/creating-uml-diagrams?u=76281980&t=49)** We'll decide later.
 >
@@ -1945,7 +1912,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/creating-uml-diagrams?u=76281980&t=106)** We've also seen that we can have arrows protruding from the different shapes that I select.
 >
-> **[1:52](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/creating-uml-diagrams?u=76281980&t=112)** Other shapes you'll probably use are the ellipse for the use case documents and you'll use the diamond for decision-making.
+> **[1:52](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/creating-uml-diagrams?u=76281980&t=112)** Other shapes you'll probably use are the ellipse for the use case documents and you'll use the diamond for [[Decision-Making]].
 >
 > **[2:03](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/creating-uml-diagrams?u=76281980&t=123)** Again, notice it's pretty easy to set these options up.
 >
@@ -1957,9 +1924,9 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/creating-uml-diagrams?u=76281980&t=146)** Notice the document is in XML, which means it's quite usable in many different formats, but I also can decide I'm going to save it as a .png file or other formats.
 >
-> **[2:38](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/creating-uml-diagrams?u=76281980&t=158)** Once I select my format, I can then decide where I want to save it so I could decide to save it on the device that I am working on or in one of these cloud storage areas.
+> **[2:38](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/creating-uml-diagrams?u=76281980&t=158)** Once I select my format, I can then decide where I want to save it so I could decide to save it on the device that I am working on or in one of these [[Cloud Storage]] areas.
 >
-> **[2:50](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/creating-uml-diagrams?u=76281980&t=170)** This is much easier than using PowerPoint because although we can use these general shapes in PowerPoint, we don't have the arrow control that we have with this product.
+> **[2:50](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/creating-uml-diagrams?u=76281980&t=170)** This is much easier than using [[Microsoft PowerPoint|PowerPoint]] because although we can use these general shapes in PowerPoint, we don't have the arrow control that we have with this product.
 >
 > **[3:02](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/creating-uml-diagrams?u=76281980&t=182)** If I scroll down, I can see that I can start looking specifically at some of the other UML options and we can see the specific UML options for a lot of the different diagrams.
 >
@@ -1971,7 +1938,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (3), [[Microsoft PowerPoint|Powerpoint]] (2), [[Google]] (1), [[Microsoft OneDrive|Onedrive]] (1), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (2), [[Google]] (1), [[Microsoft OneDrive|Onedrive]] (1), [[Decision-Making]] (1), [[Cloud Storage]] (1)
 > **URLs:** [diagrams.net](https://diagrams.net) (4), [draw.io](https://draw.io) (2)
 > **Env Vars:** uml (5), xml (1)
 > **UI Navigation:** select the (2), scroll down (2), click on (1)
@@ -1984,8 +1951,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Mind map diagrams
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/mind-map-diagrams?u=76281980)
+#### [Mind map diagrams](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/mind-map-diagrams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2015,15 +1981,15 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/mind-map-diagrams?u=76281980&t=55)** Since anybody can create a mind map, it can really enhance communication and buy-in across your company, and everybody can collaborate with these mind maps because you can be drawing them really with any product.
 >
-> **[1:08](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/mind-map-diagrams?u=76281980&t=68)** So maybe you want to consider specifically cloud services and their features.
+> **[1:08](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/mind-map-diagrams?u=76281980&t=68)** So maybe you want to consider specifically [[Cloud Services]] and their features.
 >
-> **[1:13](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/mind-map-diagrams?u=76281980&t=73)** Maybe it's cloud storage, maybe you just start spit balling, okay, videos, documents, images, files, data sets.
+> **[1:13](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/mind-map-diagrams?u=76281980&t=73)** Maybe it's [[Cloud Storage]], maybe you just start spit balling, okay, videos, documents, images, files, data sets.
 >
 > **[1:21](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/mind-map-diagrams?u=76281980&t=81)** Then I can break it down into smaller tasks.
 >
-> **[1:23](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/mind-map-diagrams?u=76281980&t=83)** Maybe the smaller, manageable tasks is where the cloud architect diagramming comes into play.
+> **[1:23](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/mind-map-diagrams?u=76281980&t=83)** Maybe the smaller, manageable tasks is where the cloud architect [[Diagramming]] comes into play.
 >
-> **[1:30](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/mind-map-diagrams?u=76281980&t=90)** Let's take an example of a security map for Amazon, so AWS Security.
+> **[1:30](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/mind-map-diagrams?u=76281980&t=90)** Let's take an example of a security map for Amazon, so [[AWS Security]].
 >
 > **[1:35](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/mind-map-diagrams?u=76281980&t=95)** I have to have an account.
 >
@@ -2079,7 +2045,7 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/mind-map-diagrams?u=76281980&t=224)** Check out the demo.
 >
-> **[3:45](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/mind-map-diagrams?u=76281980&t=225)** How I can start using a mind map to build out my online store, how I can do this with diagramming tools, but the rest is up to you.
+> **[3:45](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/mind-map-diagrams?u=76281980&t=225)** How I can start using a mind map to build out my online store, how I can do this with diagramming tools, but the [[Representational State Transfer (REST)|rest]] is up to you.
 >
 > **[3:54](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/mind-map-diagrams?u=76281980&t=234)** How you fill in those boxes determines your first step.
 >
@@ -2091,7 +2057,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), cloud (5), aws (4), [[Diagramming]] (2), application (2)
+> **Frameworks & Libraries:** [[Diagramming]] (2), [[Cloud Services]] (1), [[Cloud Storage]] (1), [[AWS Security]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** aws (4), mfa (2), api (1)
 > **CLI Commands:** aws (4)
 > **Analogies:** kind of like (1), for example (1)
@@ -2099,8 +2065,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a mind map
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/creating-a-mind-map?u=76281980)
+#### [Creating a mind map](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/creating-a-mind-map?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2166,15 +2131,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Env Vars:** xml (1), png (1), svg (1)
 > **Prerequisites:** set up (3)
 > **URLs:** [diagrams.net](https://diagrams.net) (2)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use case diagram
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/use-case-diagram?u=76281980)
+#### [Use case diagram](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/use-case-diagram?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2188,7 +2151,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/use-case-diagram?u=76281980&t=13)** If I'm creating a use case diagram, what do I need to follow?
 >
-> **[0:18](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/use-case-diagram?u=76281980&t=18)** Well, remember, the use case diagram functions as the foundation for your system's technical documentation.
+> **[0:18](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/use-case-diagram?u=76281980&t=18)** Well, remember, the use case diagram functions as the foundation for your system's [[Technical Documentation]].
 >
 > **[0:25](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/use-case-diagram?u=76281980&t=25)** A great starting point.
 >
@@ -2202,7 +2165,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/use-case-diagram?u=76281980&t=47)** Do you agree?
 >
-> **[0:48](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/use-case-diagram?u=76281980&t=48)** Customer enters the software as a service application using their device.
+> **[0:48](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/use-case-diagram?u=76281980&t=48)** Customer enters the [[SaaS|software as a service]] application using their device.
 >
 > **[0:53](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/use-case-diagram?u=76281980&t=53)** A decision has to be made.
 >
@@ -2212,7 +2175,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/use-case-diagram?u=76281980&t=61)** That would be me.
 >
-> **[1:02](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/use-case-diagram?u=76281980&t=62)** However, you would be successful and enter the online store and view the contents, select products to buy, add your stuff to the shopping cart then view the shopping cart.
+> **[1:02](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/use-case-diagram?u=76281980&t=62)** However, you would be successful and enter the online store and view the contents, select [[Microsoft Products|products]] to buy, add your stuff to the shopping cart then view the shopping cart.
 >
 > **[1:14](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/use-case-diagram?u=76281980&t=74)** What next?
 >
@@ -2252,14 +2215,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Technical Documentation]] (1), [[SaaS|Software as a service]] (1), application (1), [[Microsoft Products|Products]] (1), next (1)
+> **Frameworks & Libraries:** [[Technical Documentation]] (1), [[SaaS|Software as a service]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (3)
 > **Exercise Files:** template (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a use case class diagram
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/create-a-use-case-class-diagram?u=76281980)
+#### [Create a use case class diagram](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/create-a-use-case-class-diagram?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2277,7 +2239,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/create-a-use-case-class-diagram?u=76281980&t=32)** Now when we look at the icons we don't see a decision point there but we can scroll back up and say, fine, we need a starting point and we need a decision point.
 >
-> **[0:46](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/create-a-use-case-class-diagram?u=76281980&t=46)** Now, my end-user will connect to my SaaS application.
+> **[0:46](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/create-a-use-case-class-diagram?u=76281980&t=46)** Now, my end-user will connect to my [[SaaS]] application.
 >
 > **[0:51](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/create-a-use-case-class-diagram?u=76281980&t=51)** There's a decision point coming.
 >
@@ -2287,7 +2249,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/create-a-use-case-class-diagram?u=76281980&t=62)** You can see that the interface is a little quirky sometimes, but you get the drift.
 >
-> **[1:07](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/create-a-use-case-class-diagram?u=76281980&t=67)** This would be authenticating and being unsuccessful, therefore being rejected, and I could continue on with the rest of my options with my online store.
+> **[1:07](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/create-a-use-case-class-diagram?u=76281980&t=67)** This would be authenticating and being unsuccessful, therefore being rejected, and I could continue on with the [[Representational State Transfer (REST)|rest]] of my options with my online store.
 >
 > **[1:20](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/create-a-use-case-class-diagram?u=76281980&t=80)** I could then fill in the information for each of these options.
 >
@@ -2297,21 +2259,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[SaaS]] (1), application (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[SaaS]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** uml (1)
 > **Cross-References:** coming up (1)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Architecture diagram
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/architecture-diagram?u=76281980)
+#### [Architecture diagram](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/architecture-diagram?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/architecture-diagram?u=76281980&t=0)** - [Instructor] When creating an architecture diagram, which is probably the most common diagram that you will draw when creating cloud architecture, we have to consider what is the purpose of the architecture diagram?
 >
-> **[0:12](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/architecture-diagram?u=76281980&t=12)** Well, it's to show the hardware and software components of a system, a workload.
+> **[0:12](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/architecture-diagram?u=76281980&t=12)** Well, it's to show the [[Hardware]] and software components of a system, a workload.
 >
 > **[0:17](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/architecture-diagram?u=76281980&t=17)** It shows how they're deployed, configured, and how do they communicate.
 >
@@ -2339,9 +2300,9 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/architecture-diagram?u=76281980&t=76)** Application requests are handled by a hosted load balancer probably an application load balancer.
 >
-> **[1:24](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/architecture-diagram?u=76281980&t=84)** The web servers are deployed across multiple availability zones using an autoscaling group, which allows them to scale the compute up and down based on demand.
+> **[1:24](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/architecture-diagram?u=76281980&t=84)** The [[Web Servers]] are deployed across multiple availability zones using an autoscaling group, which allows them to scale the compute up and down based on demand.
 >
-> **[1:34](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/architecture-diagram?u=76281980&t=94)** The web servers are deployed on EC2 instances.
+> **[1:34](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/architecture-diagram?u=76281980&t=94)** The web servers are deployed on [[Amazon EC2|EC2]] instances.
 >
 > **[1:37](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/architecture-diagram?u=76281980&t=97)** It could be containerized, it's just not obvious from this document.
 >
@@ -2361,13 +2322,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (8), cloud (3), [[Hardware]] (3), data (3), web (3)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[Web Servers]] (2), [[Amazon EC2|Ec2]] (2)
 > **Env Vars:** ec2 (2), aws (1), dns (1), cdn (1)
 > **CLI Commands:** aws (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create architecture diagram
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/create-architecture-diagram?u=76281980)
+#### [Create architecture diagram](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/create-architecture-diagram?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2379,11 +2339,11 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/create-architecture-diagram?u=76281980&t=19)** Then we can scroll down and decide what cloud provider we're working with.
 >
-> **[0:25](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/create-architecture-diagram?u=76281980&t=25)** You can see Azure.
+> **[0:25](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/create-architecture-diagram?u=76281980&t=25)** You can see [[Microsoft Azure|Azure]].
 >
 > **[0:26](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/create-architecture-diagram?u=76281980&t=26)** You can see also Amazon and the numbers 17, 18, 19 are indicative of when they have changed their icon set.
 >
-> **[0:37](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/create-architecture-diagram?u=76281980&t=37)** Scrolling down a bit further, we can see that we have also Google Cloud, IBM, Kubernetes, lots of options.
+> **[0:37](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/create-architecture-diagram?u=76281980&t=37)** Scrolling down a bit further, we can see that we have also [[Google Cloud Platform (GCP)|Google Cloud]], IBM, [[Kubernetes]], lots of options.
 >
 > **[0:50](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/create-architecture-diagram?u=76281980&t=50)** Let's pick AWS19 and apply this.
 >
@@ -2415,7 +2375,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/create-architecture-diagram?u=76281980&t=121)** Sure, let's do it a different way.
 >
-> **[2:03](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/create-architecture-diagram?u=76281980&t=123)** Let's just type EC2.
+> **[2:03](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/create-architecture-diagram?u=76281980&t=123)** Let's just type [[Amazon EC2|EC2]].
 >
 > **[2:07](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/create-architecture-diagram?u=76281980&t=127)** It gives me some options for EC2, such as an auto-scaling instance.
 >
@@ -2449,19 +2409,19 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/create-architecture-diagram?u=76281980&t=210)** So in a matter of minutes, I can have a diagram.
 >
-> **[3:34](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/create-architecture-diagram?u=76281980&t=214)** So not that hard, much easier than PowerPoint and I can start building my infrastructure.
+> **[3:34](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/create-architecture-diagram?u=76281980&t=214)** So not that hard, much easier than [[Microsoft PowerPoint|PowerPoint]] and I can start building my infrastructure.
 >
 > **[3:39](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/create-architecture-diagram?u=76281980&t=219)** This is an Amazon example.
 >
 > **[3:41](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/create-architecture-diagram?u=76281980&t=221)** Remember, we can scroll down, click More Shapes and add in the other icons that we want to use.
 >
-> **[3:50](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/create-architecture-diagram?u=76281980&t=230)** So if I was saying, well, I'm dealing with Kubernetes or with IBM Cloud, or with the Google Cloud Platform or with Azure, we have all the options available.
+> **[3:50](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/create-architecture-diagram?u=76281980&t=230)** So if I was saying, well, I'm dealing with Kubernetes or with IBM Cloud, or with the [[Google Cloud Platform (GCP)|Google Cloud Platform]] or with Azure, we have all the options available.
 >
 > **[4:03](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/create-architecture-diagram?u=76281980&t=243)** Happy drawing.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), aws (3), [[Microsoft Azure|Azure]] (2), [[Kubernetes]] (2), [[Amazon EC2|Ec2]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Kubernetes]] (2), [[Amazon EC2|Ec2]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Env Vars:** aws (3), ibm (2), ec2 (2), vpc (2), aws19 (1)
 > **CLI Commands:** find (4), aws (3), make (1)
 > **UI Navigation:** scroll down (4), select the (1)
@@ -2470,12 +2430,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sequence diagram
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/sequence-diagram?u=76281980)
+#### [Sequence diagram](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/sequence-diagram?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/sequence-diagram?u=76281980&t=0)** - [Instructor] A sequence diagram is giving us details about the sequence of our systems, visualizing interactions between workloads, business processes within those workloads, all hosted on cloud infrastructure.
+> **[0:00](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/sequence-diagram?u=76281980&t=0)** - [Instructor] A sequence diagram is giving us details about the sequence of our systems, visualizing interactions between workloads, business processes within those workloads, all hosted on [[Cloud Infrastructure]].
 >
 > **[0:14](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/sequence-diagram?u=76281980&t=14)** And these interactions are over a period of time.
 >
@@ -2523,7 +2482,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/sequence-diagram?u=76281980&t=144)** They get verified and they want to access their content, which happens to be in that S3 bucket, but security has to be vetted.
 >
-> **[2:33](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/sequence-diagram?u=76281980&t=153)** So if I'm a member of the user pool, I'm known, I will authenticate and receive tokens.
+> **[2:33](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/sequence-diagram?u=76281980&t=153)** So if I'm a member of the user pool, I'm known, I will authenticate and receive [[Tokens]].
 >
 > **[2:39](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/sequence-diagram?u=76281980&t=159)** Once I get the tokens, I'd like to exchange those tokens for credentials, temporary credentials.
 >
@@ -2553,15 +2512,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), [[Tokens]] (3), aws (2), business (1), [[Cloud Infrastructure]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (3), [[Cloud Infrastructure]] (1)
 > **CLI Commands:** aws (2), find (1)
 > **Env Vars:** aws (2)
 > **Cross-References:** go back to (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### State machine diagram
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/state-machine-diagram?u=76281980)
+#### [State machine diagram](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/state-machine-diagram?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2589,7 +2547,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/state-machine-diagram?u=76281980&t=49)** Behind the scene, there's some logic behind this process.
 >
-> **[0:53](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/state-machine-diagram?u=76281980&t=53)** When it's time to scale out, let's say your web servers are getting overloaded, the command is issued by the auto-scaling group, the group that is scaling the compute, automatically.
+> **[0:53](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/state-machine-diagram?u=76281980&t=53)** When it's time to scale out, let's say your [[Web Servers]] are getting overloaded, the command is issued by the auto-scaling group, the group that is scaling the compute, automatically.
 >
 > **[1:04](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/state-machine-diagram?u=76281980&t=64)** It's time to scale out, add a number of compute instances or containers to the web tier.
 >
@@ -2633,7 +2591,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), [[Security]] (2), application (1), database (1), next (1)
+> **Frameworks & Libraries:** [[Web Servers]] (1)
 > **CLI Commands:** make (1)
 > **URLs:** [diagrams.net](https://diagrams.net) (1)
 > **Env Vars:** ecc2 (1)
@@ -2645,26 +2603,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Diagramming tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/diagramming-tools?u=76281980)
+#### [Diagramming tools](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/diagramming-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/diagramming-tools?u=76281980&t=0)** - [Instructor] When it comes to diagramming tools, there are many options and it really depends where you are, where you work.
+> **[0:00](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/diagramming-tools?u=76281980&t=0)** - [Instructor] When it comes to [[Diagramming]] tools, there are many options and it really depends where you are, where you work.
 >
 > **[0:07](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/diagramming-tools?u=76281980&t=7)** Let's take a look at some of these.
 >
-> **[0:09](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/diagramming-tools?u=76281980&t=9)** First up, we have the three major cloud providers, starting with Azure, which have icon sets.
+> **[0:09](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/diagramming-tools?u=76281980&t=9)** First up, we have the three major cloud providers, starting with [[Microsoft Azure|Azure]], which have icon sets.
 >
-> **[0:15](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/diagramming-tools?u=76281980&t=15)** We have icon sets that can work with a wide variety of products, as you would expect.
+> **[0:15](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/diagramming-tools?u=76281980&t=15)** We have icon sets that can work with a wide variety of [[Microsoft Products|products]], as you would expect.
 >
-> **[0:20](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/diagramming-tools?u=76281980&t=20)** They work with Visio because Microsoft owns Visio.
+> **[0:20](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/diagramming-tools?u=76281980&t=20)** They work with Visio because [[Microsoft]] owns Visio.
 >
-> **[0:24](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/diagramming-tools?u=76281980&t=24)** We also have the icons that can be downloaded separately if you wish to use these for PowerPoint or you could just download the icons separately in PNG format, SVG format, but the reality is you probably want to use one of the drawing tools we're going to look at later on in this clip, or you might have been watching along with this course, and you already know about [diagrams.net](https://diagrams.net), but Azure has these icons.
+> **[0:24](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/diagramming-tools?u=76281980&t=24)** We also have the icons that can be downloaded separately if you wish to use these for [[Microsoft PowerPoint|PowerPoint]] or you could just download the icons separately in PNG format, SVG format, but the reality is you probably want to use one of the drawing tools we're going to look at later on in this clip, or you might have been watching along with this course, and you already know about [diagrams.net](https://diagrams.net), but Azure has these icons.
 >
 > **[0:52](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/diagramming-tools?u=76281980&t=52)** Just a note, if you're going to create these icons for published documentation, where money is involved, you'll have to talk to Azure.
 >
-> **[1:00](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/diagramming-tools?u=76281980&t=60)** Google has the same icons, same sort of options available, and as mentioned, these icons are embedded into a lot of the drawing tools.
+> **[1:00](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/diagramming-tools?u=76281980&t=60)** [[Google]] has the same icons, same sort of options available, and as mentioned, these icons are embedded into a lot of the drawing tools.
 >
 > **[1:12](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/diagramming-tools?u=76281980&t=72)** AWS also has architecture icons and they could be downloaded for PowerPoint or the assets can be imported into a diagramming tool.
 >
@@ -2678,7 +2635,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/diagramming-tools?u=76281980&t=111)** Some of the interesting products and one to check out is Cloudockit.
 >
-> **[1:55](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/diagramming-tools?u=76281980&t=115)** This is a service which is going to be able to generate the architecture from the diagrams and technical documentation of your particular cloud environment.
+> **[1:55](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/diagramming-tools?u=76281980&t=115)** This is a service which is going to be able to generate the architecture from the diagrams and [[Technical Documentation]] of your particular cloud environment.
 >
 > **[2:07](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/diagramming-tools?u=76281980&t=127)** It's something to look out for.
 >
@@ -2700,7 +2657,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), [[Microsoft Products|Products]] (4), [[Microsoft Azure|Azure]] (3), [[Diagramming]] (2), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Microsoft Azure|Azure]] (3), [[Diagramming]] (2), [[Microsoft]] (2), [[Microsoft PowerPoint|Powerpoint]] (2)
 > **Env Vars:** png (1), svg (1), aws (1)
 > **URLs:** [diagrams.net](https://diagrams.net) (2)
 > **CLI Commands:** aws (1)
@@ -2714,8 +2671,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2723,7 +2679,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/next-steps?u=76281980&t=3)** Great, what's next?
 >
-> **[0:06](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/next-steps?u=76281980&t=6)** Well, hold the team meeting, but before you hold that team meeting, present some drawings created by [Diagrams.net](https://Diagrams.net), or your choice of diagramming tool.
+> **[0:06](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/next-steps?u=76281980&t=6)** Well, hold the team meeting, but before you hold that team meeting, present some drawings created by [Diagrams.net](https://Diagrams.net), or your choice of [[Diagramming]] tool.
 >
 > **[0:17](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/next-steps?u=76281980&t=17)** They'll be amazed.
 >
@@ -2741,7 +2697,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Diagramming]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Diagramming]] (1)
 > **URLs:** [diagrams.net](https://diagrams.net) (1)
 > **Speakers:** - [mark] (1)
 

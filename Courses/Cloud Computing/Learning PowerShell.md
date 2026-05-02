@@ -77,12 +77,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powershell/welcome-2?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/learning-powershell/welcome-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-powershell/welcome-2?u=76281980&t=0)** - [Matt] Welcome to this course on understanding PowerShell.
+> **[0:00](https://www.linkedin.com/learning/learning-powershell/welcome-2?u=76281980&t=0)** - [Matt] Welcome to this course on understanding [[Powershell]].
 >
 > **[0:03](https://www.linkedin.com/learning/learning-powershell/welcome-2?u=76281980&t=3)** Thank you so much for checking out this course and folks, I'm tellin' you what, the great thing about understanding the shell syntax and language, you can use it anywhere.
 >
@@ -96,7 +95,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/learning-powershell/welcome-2?u=76281980&t=32)** Everything begins with that verb and we're going to take a look at all kinds of exciting commands.
 >
-> **[0:36](https://www.linkedin.com/learning/learning-powershell/welcome-2?u=76281980&t=36)** The great thing about learning PowerShell for automation, you might have done things in the past with Python or VBScript and it might be 50 or 60 lines.
+> **[0:36](https://www.linkedin.com/learning/learning-powershell/welcome-2?u=76281980&t=36)** The great thing about learning PowerShell for automation, you might have done things in the past with [[Python (Programming Language)|Python]] or VBScript and it might be 50 or 60 lines.
 >
 > **[0:45](https://www.linkedin.com/learning/learning-powershell/welcome-2?u=76281980&t=45)** Well in PowerShell, it might just be one simple line to do exactly the same thing.
 >
@@ -106,7 +105,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/learning-powershell/welcome-2?u=76281980&t=57)** It's in your cloud technologies as well.
 >
-> **[0:59](https://www.linkedin.com/learning/learning-powershell/welcome-2?u=76281980&t=59)** So if you use Office 365 or Azure, guess what?
+> **[0:59](https://www.linkedin.com/learning/learning-powershell/welcome-2?u=76281980&t=59)** So if you use [[Microsoft Office|Office]] 365 or [[Microsoft Azure|Azure]], guess what?
 >
 > **[1:02](https://www.linkedin.com/learning/learning-powershell/welcome-2?u=76281980&t=62)** Powershell is alive and well for you and you can use that and transfer that knowledge.
 >
@@ -118,18 +117,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (7), [[Automation]] (1), [[Python (Programming Language)|Python]] (1), cloud (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (7), [[Python (Programming Language)|Python]] (1), [[Microsoft Office|Office]] (1), [[Microsoft Azure|Azure]] (1)
 > **Tools:** powershell (7)
 > **CLI Commands:** python (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [matt] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powershell/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/learning-powershell/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-powershell/what-you-should-know?u=76281980&t=0)** - [Voiceover] Hopefully you're excited to start learning this wonderful language of PowerShell.
+> **[0:00](https://www.linkedin.com/learning/learning-powershell/what-you-should-know?u=76281980&t=0)** - [Voiceover] Hopefully you're excited to start learning this wonderful language of [[Powershell]].
 >
 > **[0:04](https://www.linkedin.com/learning/learning-powershell/what-you-should-know?u=76281980&t=4)** However, before you get started to talk about one of my favorite topics in PowerShell, there's a few things that you're gonna wanna know to really take advantage of this course, as well as learning PowerShell and putting it into production inside of your environments.
 >
@@ -149,7 +147,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/learning-powershell/what-you-should-know?u=76281980&t=52)** It's a whole interactive shell that we can do just a tremendous amount of work inside of.
 >
-> **[0:57](https://www.linkedin.com/learning/learning-powershell/what-you-should-know?u=76281980&t=57)** Also if you have some basic Windows server fundamentals, how to install things, how to configure things, just general Windows knowledge is gonna be great, although PowerShell is located in many,many products, even non-Microsoft products.
+> **[0:57](https://www.linkedin.com/learning/learning-powershell/what-you-should-know?u=76281980&t=57)** Also if you have some basic [[Windows Server]] fundamentals, how to install things, how to configure things, just general [[Windows]] knowledge is gonna be great, although PowerShell is located in many,many [[Microsoft Products|products]], even non-[[Microsoft Products]].
 >
 > **[1:09](https://www.linkedin.com/learning/learning-powershell/what-you-should-know?u=76281980&t=69)** Having that basic fundamentals is gonna be great.
 >
@@ -159,22 +157,21 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/learning-powershell/what-you-should-know?u=76281980&t=79)** So making sure you know how to access that is gonna be key to anything that we do inside of this course.
 >
-> **[1:24](https://www.linkedin.com/learning/learning-powershell/what-you-should-know?u=76281980&t=84)** So hopefully you're ready to get started, and you have some of those basic tenants in place, and through the rest of the videos in the course we're gonna take a look at this wonderful language called PowerShell.
+> **[1:24](https://www.linkedin.com/learning/learning-powershell/what-you-should-know?u=76281980&t=84)** So hopefully you're ready to get started, and you have some of those basic tenants in place, and through the [[Representational State Transfer (REST)|rest]] of the videos in the course we're gonna take a look at this wonderful language called PowerShell.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (10), [[Automation]] (1), [[Scripting]] (1), [[Windows Server]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (10), [[Windows Server]] (1), [[Windows]] (1), [[Microsoft Products|Products]] (1), [[Microsoft Products]] (1)
 > **Tools:** powershell (10), command prompt (1)
 > **Prerequisites:** install (1), configure (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [voiceover] (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powershell/using-the-exercise-files?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/learning-powershell/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-powershell/using-the-exercise-files?u=76281980&t=0)** - [Voiceover] Now, one of the great things about this course is as I go through the PowerShell examples, you should be able to follow along with me with no problem.
+> **[0:00](https://www.linkedin.com/learning/learning-powershell/using-the-exercise-files?u=76281980&t=0)** - [Voiceover] Now, one of the great things about this course is as I go through the [[Powershell]] examples, you should be able to follow along with me with no problem.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-powershell/using-the-exercise-files?u=76281980&t=7)** Almost all of the commandlets you'll see in this course are non-evasive, they're not really going to do anything, they're just going to output it, and you're going to make it more real for yourself by running some of them.
 >
@@ -208,12 +205,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why PowerShell?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powershell/why-powershell?u=76281980)
+#### [Why PowerShell?](https://www.linkedin.com/learning/learning-powershell/why-powershell?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-powershell/why-powershell?u=76281980&t=0)** - Let's talk about why you need PowerShell and why you need to learning this wonderful language that you have available to you.
+> **[0:00](https://www.linkedin.com/learning/learning-powershell/why-powershell?u=76281980&t=0)** - Let's talk about why you need [[Powershell]] and why you need to learning this wonderful language that you have available to you.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-powershell/why-powershell?u=76281980&t=6)** Especially if you're an IT pro or even a developer, you're going to want to learn this language.
 >
@@ -233,9 +229,9 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/learning-powershell/why-powershell?u=76281980&t=51)** Do a lot of the heavy lifting instead of having to go do all the manual steps through GUI.
 >
-> **[0:56](https://www.linkedin.com/learning/learning-powershell/why-powershell?u=76281980&t=56)** It's an Interactive Shell, so all my Linux users out there, that if you're new to PowerShell, you've had a shell for forever in your environments and how you interact with that.
+> **[0:56](https://www.linkedin.com/learning/learning-powershell/why-powershell?u=76281980&t=56)** It's an Interactive Shell, so all my [[Linux]] users out there, that if you're new to PowerShell, you've had a shell for forever in your environments and how you interact with that.
 >
-> **[1:04](https://www.linkedin.com/learning/learning-powershell/why-powershell?u=76281980&t=64)** What PowerShell does is it provides the Interactive Shell for our Windows-based environments so we can really tell it all kinds of great things, what to do, find us information, configure settings, it does that in an interactive way and gives us feedback of what's happening and what we're actually going to be using.
+> **[1:04](https://www.linkedin.com/learning/learning-powershell/why-powershell?u=76281980&t=64)** What PowerShell does is it provides the Interactive Shell for our [[Windows]]-based environments so we can really tell it all kinds of great things, what to do, find us information, configure settings, it does that in an interactive way and gives us feedback of what's happening and what we're actually going to be using.
 >
 > **[1:20](https://www.linkedin.com/learning/learning-powershell/why-powershell?u=76281980&t=80)** It's also for Task Automation.
 >
@@ -281,7 +277,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/learning-powershell/why-powershell?u=76281980&t=206)** Remember, PowerShell is an interactive shell, and those providers allow us to work with it.
 >
-> **[3:30](https://www.linkedin.com/learning/learning-powershell/why-powershell?u=76281980&t=210)** So, some of the providers we have around active directory, the registry, if you're into Windows Management Instrumentation, or WMI, we can do that and we can talk to it natively.
+> **[3:30](https://www.linkedin.com/learning/learning-powershell/why-powershell?u=76281980&t=210)** So, some of the providers we have around [[Active Directory]], the registry, if you're into Windows Management Instrumentation, or WMI, we can do that and we can talk to it natively.
 >
 > **[3:40](https://www.linkedin.com/learning/learning-powershell/why-powershell?u=76281980&t=220)** We actually use our natural language when we're working with PowerShell and I'll explain how the language works in another video.
 >
@@ -295,9 +291,9 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/learning-powershell/why-powershell?u=76281980&t=246)** So, I'll show you how that works in just a second, and give you an idea of what's happening with our aliases and we'll dig into those even more in another video.
 >
-> **[4:15](https://www.linkedin.com/learning/learning-powershell/why-powershell?u=76281980&t=255)** And the last thing that we want to know about PowerShell, it's built into many products.
+> **[4:15](https://www.linkedin.com/learning/learning-powershell/why-powershell?u=76281980&t=255)** And the last thing that we want to know about PowerShell, it's built into many [[Microsoft Products|products]].
 >
-> **[4:18](https://www.linkedin.com/learning/learning-powershell/why-powershell?u=76281980&t=258)** It's a shipping requirement for most of the products that come out of Microsoft's production environments, so it's really designed inside of it.
+> **[4:18](https://www.linkedin.com/learning/learning-powershell/why-powershell?u=76281980&t=258)** It's a shipping requirement for most of the products that come out of [[Microsoft]]'s production environments, so it's really designed inside of it.
 >
 > **[4:25](https://www.linkedin.com/learning/learning-powershell/why-powershell?u=76281980&t=265)** It also is in a lot of third-party products.
 >
@@ -329,7 +325,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (31), [[Scripting]] (4), [[Microsoft Products|Products]] (3), [[Linux]] (2), [[Windows]] (2)
+> **Frameworks & Libraries:** [[Powershell]] (31), [[Microsoft Products|Products]] (3), [[Linux]] (2), [[Windows]] (2), [[Active Directory]] (1)
 > **Tools:** powershell (31)
 > **CLI Commands:** find (2), ls (2), make (1)
 > **Env Vars:** gui (2), wmi (1), dir (1)
@@ -338,12 +334,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (2)
 > **UI Navigation:** go to (1)
 
-#### How to read the language
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powershell/how-to-read-the-language?u=76281980)
+#### [How to read the language](https://www.linkedin.com/learning/learning-powershell/how-to-read-the-language?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-powershell/how-to-read-the-language?u=76281980&t=0)** - [Voiceover] Now I know you're probably pretty excited to actually start writing your first PowerShell command and actually get involved with the language, but before we go any further in this course, you're gonna want to know the basics on how to read the PowerShell language.
+> **[0:00](https://www.linkedin.com/learning/learning-powershell/how-to-read-the-language?u=76281980&t=0)** - [Voiceover] Now I know you're probably pretty excited to actually start writing your first [[Powershell]] command and actually get involved with the language, but before we go any further in this course, you're gonna want to know the basics on how to read the PowerShell language.
 >
 > **[0:12](https://www.linkedin.com/learning/learning-powershell/how-to-read-the-language?u=76281980&t=12)** How to actually start by working with it.
 >
@@ -399,11 +394,11 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/learning-powershell/how-to-read-the-language?u=76281980&t=133)** In another video in this course, I'm gonna show you how to get all the properties of this get-service commandlet and what's actually underneath the covers and how we can interact with it.
 >
-> **[2:22](https://www.linkedin.com/learning/learning-powershell/how-to-read-the-language?u=76281980&t=142)** And that's where you'll really see the dot net framework come into play and the object orientated nature of Windows PowerShell.
+> **[2:22](https://www.linkedin.com/learning/learning-powershell/how-to-read-the-language?u=76281980&t=142)** And that's where you'll really see the dot net framework come into play and the object orientated nature of [[Windows]] PowerShell.
 >
 > **[2:30](https://www.linkedin.com/learning/learning-powershell/how-to-read-the-language?u=76281980&t=150)** Now one of my favorite things about PowerShell is that at the end of the day it's case insensitive.
 >
-> **[2:34](https://www.linkedin.com/learning/learning-powershell/how-to-read-the-language?u=76281980&t=154)** I know many flavors of Linux are very case sensitive in how you interact with the shell.
+> **[2:34](https://www.linkedin.com/learning/learning-powershell/how-to-read-the-language?u=76281980&t=154)** I know many flavors of [[Linux]] are very case sensitive in how you interact with the shell.
 >
 > **[2:39](https://www.linkedin.com/learning/learning-powershell/how-to-read-the-language?u=76281980&t=159)** For the most part, PowerShell is case insensitive.
 >
@@ -493,23 +488,22 @@ created: 2026-05-02
 >
 > **[5:58](https://www.linkedin.com/learning/learning-powershell/how-to-read-the-language?u=76281980&t=358)** So understand the basic tenants in how to read PowerShell is key to working with this language.
 >
-> **[6:03](https://www.linkedin.com/learning/learning-powershell/how-to-read-the-language?u=76281980&t=363)** And in the rest of the videos in this course, we're gonna see PowerShell in action.
+> **[6:03](https://www.linkedin.com/learning/learning-powershell/how-to-read-the-language?u=76281980&t=363)** And in the [[Representational State Transfer (REST)|rest]] of the videos in this course, we're gonna see PowerShell in action.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (20), next (3), generic (1), [[Windows]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (20), [[Windows]] (1), [[Linux]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Tools:** powershell (20)
 > **CLI Commands:** find (3), make (1)
 > **Cross-References:** later in (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [voiceover] (1)
 
-#### Getting help
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powershell/getting-help?u=76281980)
+#### [Getting help](https://www.linkedin.com/learning/learning-powershell/getting-help?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-powershell/getting-help?u=76281980&t=0)** - [Voiceover] Now before you start going down the road and running your first PowerShell commandlets, I want to spend just this video and show you how to use Help and have the built-in Help system that comes with PowerShell.
+> **[0:00](https://www.linkedin.com/learning/learning-powershell/getting-help?u=76281980&t=0)** - [Voiceover] Now before you start going down the road and running your first [[Powershell]] commandlets, I want to spend just this video and show you how to use Help and have the built-in Help system that comes with PowerShell.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-powershell/getting-help?u=76281980&t=10)** PowerShell has a rich and robust help system that's actually at your fingertips as you're working with your PowerShell commandlets.
 >
@@ -535,7 +529,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/learning-powershell/getting-help?u=76281980&t=66)** Now you'll also notice, in another video I mentioned PowerShell is case insensitive.
 >
-> **[1:10](https://www.linkedin.com/learning/learning-powershell/getting-help?u=76281980&t=70)** The quote unquote official syntax is what is called sentence case, so it's gonna capitalize every word inside of my commandlet.
+> **[1:10](https://www.linkedin.com/learning/learning-powershell/getting-help?u=76281980&t=70)** The quote unquote official syntax is what is called sentence case, so it's gonna capitalize every [[Microsoft Word|word]] inside of my commandlet.
 >
 > **[1:17](https://www.linkedin.com/learning/learning-powershell/getting-help?u=76281980&t=77)** And as you get longer commandlets with longer names, you'll see the capital letters pop up here and there as you're working with it.
 >
@@ -625,7 +619,7 @@ created: 2026-05-02
 >
 > **[4:51](https://www.linkedin.com/learning/learning-powershell/getting-help?u=76281980&t=291)** I'm gonna simply say, Get-Help Get-Service and I'm gonna type in -online.
 >
-> **[4:56](https://www.linkedin.com/learning/learning-powershell/getting-help?u=76281980&t=296)** Now I get folks, if you don't like to read on screen, that's awesome, the nice thing about this, it's actually gonna take you to the Help page up on the Microsoft site, or whoever the vender is for the command that you're using, and everything that we just saw inside of that actual help screen is now up here.
+> **[4:56](https://www.linkedin.com/learning/learning-powershell/getting-help?u=76281980&t=296)** Now I get folks, if you don't like to read on screen, that's awesome, the nice thing about this, it's actually gonna take you to the Help page up on the [[Microsoft]] site, or whoever the vender is for the command that you're using, and everything that we just saw inside of that actual help screen is now up here.
 >
 > **[5:11](https://www.linkedin.com/learning/learning-powershell/getting-help?u=76281980&t=311)** If you like to read this screen versus the command prompt window, it's really up to you and your preference, but as I scroll down with it, I'll see those same 11 examples that we saw.
 >
@@ -645,7 +639,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (21), [[Search]] (3), hit (2), [[Microsoft Word|Word]] (1), web (1)
+> **Frameworks & Libraries:** [[Powershell]] (21), [[Microsoft Word|Word]] (1), [[Microsoft]] (1)
 > **Tools:** powershell (21)
 > **UI Navigation:** click on (1), scroll up (1), scroll down (1), go to (1)
 > **CLI Commands:** find (2)
@@ -654,12 +648,11 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Prerequisites:** install (1)
 
-#### Discovering cmdlets and aliases
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powershell/discovering-cmdlets-and-aliases?u=76281980)
+#### [Discovering cmdlets and aliases](https://www.linkedin.com/learning/learning-powershell/discovering-cmdlets-and-aliases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-powershell/discovering-cmdlets-and-aliases?u=76281980&t=0)** - [Voiceover] So, now as you start looking at PowerShell, you're probably starting to, "hey, it's a pretty easy language to read, I can do all kinds of great things inside of it, but there has to be more than just get-service."
+> **[0:00](https://www.linkedin.com/learning/learning-powershell/discovering-cmdlets-and-aliases?u=76281980&t=0)** - [Voiceover] So, now as you start looking at [[Powershell]], you're probably starting to, "hey, it's a pretty easy language to read, I can do all kinds of great things inside of it, but there has to be more than just get-service."
 >
 > **[0:09](https://www.linkedin.com/learning/learning-powershell/discovering-cmdlets-and-aliases?u=76281980&t=9)** And, you're right, there actually is quite a bit more.
 >
@@ -715,7 +708,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/learning-powershell/discovering-cmdlets-and-aliases?u=76281980&t=119)** Well, that's pretty common.
 >
-> **[2:01](https://www.linkedin.com/learning/learning-powershell/discovering-cmdlets-and-aliases?u=76281980&t=121)** Well, in Linux, you might use ls.
+> **[2:01](https://www.linkedin.com/learning/learning-powershell/discovering-cmdlets-and-aliases?u=76281980&t=121)** Well, in [[Linux]], you might use ls.
 >
 > **[2:03](https://www.linkedin.com/learning/learning-powershell/discovering-cmdlets-and-aliases?u=76281980&t=123)** If all you know is PowerShell, you might use gci.
 >
@@ -757,19 +750,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (12), hit (1), [[Linux]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Powershell]] (12), [[Linux]] (1)
 > **Tools:** powershell (12), command prompt (1)
 > **CLI Commands:** find (4), ls (2)
 > **UI Navigation:** scroll up (3)
 > **Prerequisites:** install (2)
 > **Speakers:** - [voiceover] (1)
 
-#### Get-Service and Get-Member
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powershell/get-service-and-get-member?u=76281980)
+#### [Get-Service and Get-Member](https://www.linkedin.com/learning/learning-powershell/get-service-and-get-member?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-powershell/get-service-and-get-member?u=76281980&t=0)** - [Voiceover] So let's actually run our first cmdlet inside of PowerShell, and if you've never run PowerShell you're gonna run the first cmdlet I ever ran when I started working with PowerShell many years ago, and that is Get Service.
+> **[0:00](https://www.linkedin.com/learning/learning-powershell/get-service-and-get-member?u=76281980&t=0)** - [Voiceover] So let's actually run our first cmdlet inside of [[Powershell]], and if you've never run PowerShell you're gonna run the first cmdlet I ever ran when I started working with PowerShell many years ago, and that is Get Service.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-powershell/get-service-and-get-member?u=76281980&t=11)** I'm just gonna type in Get-Service my good ol' friend and hit Enter, and it's gonna give me a list of results of all the services.
 >
@@ -807,7 +799,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/learning-powershell/get-service-and-get-member?u=76281980&t=109)** You notice I have status there, and I'm gonna say "I wanna find all the statuses where they are equal."
 >
-> **[1:54](https://www.linkedin.com/learning/learning-powershell/get-service-and-get-member?u=76281980&t=114)** So I'm just gonna simply say -eq for equals and then I'm gonna pipe in the word "stopped".
+> **[1:54](https://www.linkedin.com/learning/learning-powershell/get-service-and-get-member?u=76281980&t=114)** So I'm just gonna simply say -eq for equals and then I'm gonna pipe in the [[Microsoft Word|word]] "stopped".
 >
 > **[1:59](https://www.linkedin.com/learning/learning-powershell/get-service-and-get-member?u=76281980&t=119)** Now believe it or not, this is actually one of the examples that you have inside of the actual PowerShell files themselves.
 >
@@ -853,7 +845,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (15), [[Microsoft Word|Word]] (2), hit (1), power (1)
+> **Frameworks & Libraries:** [[Powershell]] (15), [[Microsoft Word|Word]] (2)
 > **Tools:** powershell (15)
 > **CLI Commands:** find (7), make (1)
 > **UI Navigation:** scroll down (1)
@@ -864,12 +856,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powershell/functions?u=76281980)
+#### [Functions](https://www.linkedin.com/learning/learning-powershell/functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-powershell/functions?u=76281980&t=0)** - [Voiceover] Let's start taking a look at some of the additional functionality that PowerShell can give you.
+> **[0:00](https://www.linkedin.com/learning/learning-powershell/functions?u=76281980&t=0)** - [Voiceover] Let's start taking a look at some of the additional functionality that [[Powershell]] can give you.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-powershell/functions?u=76281980&t=4)** Now one of the things you may have noticed when I ran Get Command, in an earlier video, I had these commands, I mean they're at the very top, and you can see them, they flash by really quick, called Functions.
 >
@@ -927,21 +918,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (8), hit (2)
+> **Frameworks & Libraries:** [[Powershell]] (8)
 > **Tools:** powershell (8)
 > **CLI Commands:** make (7)
 > **Analogies:** just like (2)
 > **Definitions:** is called (1)
 > **Speakers:** - [voiceover] (1)
 
-#### Relieving anxiety with -WhatIf and -Confirm
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powershell/relieving-anxiety-with-whatif-and-confirm?u=76281980)
+#### [Relieving anxiety with -WhatIf and -Confirm](https://www.linkedin.com/learning/learning-powershell/relieving-anxiety-with-whatif-and-confirm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-powershell/relieving-anxiety-with-whatif-and-confirm?u=76281980&t=0)** - [Voiceover] So you're probably thinking right now "Matt, I've got the hang of this PowerShell stuff and I'm ready to start writing my commandlets, I'm ready, I've been working on my test environment, they all worked great."
+> **[0:00](https://www.linkedin.com/learning/learning-powershell/relieving-anxiety-with-whatif-and-confirm?u=76281980&t=0)** - [Voiceover] So you're probably thinking right now "Matt, I've got the hang of this [[Powershell]] stuff and I'm ready to start writing my commandlets, I'm ready, I've been working on my test environment, they all worked great."
 >
-> **[0:09](https://www.linkedin.com/learning/learning-powershell/relieving-anxiety-with-whatif-and-confirm?u=76281980&t=9)** You're gonna get to a point where you run your first PowerShell script inside a reduction environment and I guarantee you, you're gonna have that first script all ready to go, it's all fired up, commandlets are all in order, you know it worked in tests and your hand is gonna hover over the word Enter.
+> **[0:09](https://www.linkedin.com/learning/learning-powershell/relieving-anxiety-with-whatif-and-confirm?u=76281980&t=9)** You're gonna get to a point where you run your first PowerShell script inside a reduction environment and I guarantee you, you're gonna have that first script all ready to go, it's all fired up, commandlets are all in order, you know it worked in tests and your hand is gonna hover over the [[Microsoft Word|word]] Enter.
 >
 > **[0:25](https://www.linkedin.com/learning/learning-powershell/relieving-anxiety-with-whatif-and-confirm?u=76281980&t=25)** You're not sure what's gonna happen, you're gonna have anxiety.
 >
@@ -1017,18 +1007,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (9), hit (3), [[Microsoft Word|Word]] (2), application (1), next (1)
+> **Frameworks & Libraries:** [[Powershell]] (9), [[Microsoft Word|Word]] (2)
 > **Tools:** powershell (9)
 > **Definitions:** is called (1), is an  (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [voiceover] (1)
 
-#### ISE and you
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powershell/ise-and-you?u=76281980)
+#### [ISE and you](https://www.linkedin.com/learning/learning-powershell/ise-and-you?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-powershell/ise-and-you?u=76281980&t=0)** - [Voiceover] Now folks, let's talk about PowerShell for just a second.
+> **[0:00](https://www.linkedin.com/learning/learning-powershell/ise-and-you?u=76281980&t=0)** - [Voiceover] Now folks, let's talk about [[Powershell]] for just a second.
 >
 > **[0:03](https://www.linkedin.com/learning/learning-powershell/ise-and-you?u=76281980&t=3)** I know what you might be thinking.
 >
@@ -1062,7 +1051,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/learning-powershell/ise-and-you?u=76281980&t=53)** So they actually used PowerShell to create this GUI, this environment that runs PowerShell commands.
 >
-> **[0:58](https://www.linkedin.com/learning/learning-powershell/ise-and-you?u=76281980&t=58)** As a matter of fact, a lot of the GUIs that you might find on your modern servers like Windows server 2012 R2, for example, the server manager that you have is actually written in PowerShell and when you run commands, it actually does all the PowerShell under the cover.
+> **[0:58](https://www.linkedin.com/learning/learning-powershell/ise-and-you?u=76281980&t=58)** As a matter of fact, a lot of the GUIs that you might find on your modern servers like [[Windows Server]] 2012 R2, for example, the server manager that you have is actually written in PowerShell and when you run commands, it actually does all the PowerShell under the cover.
 >
 > **[1:11](https://www.linkedin.com/learning/learning-powershell/ise-and-you?u=76281980&t=71)** So really PowerShell is everywhere.
 >
@@ -1100,7 +1089,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/learning-powershell/ise-and-you?u=76281980&t=128)** And I'm gonna just hit enter.
 >
-> **[2:10](https://www.linkedin.com/learning/learning-powershell/ise-and-you?u=76281980&t=130)** It's gonna fill in the rest of the commandlet for me as I go on.
+> **[2:10](https://www.linkedin.com/learning/learning-powershell/ise-and-you?u=76281980&t=130)** It's gonna fill in the [[Representational State Transfer (REST)|rest]] of the commandlet for me as I go on.
 >
 > **[2:13](https://www.linkedin.com/learning/learning-powershell/ise-and-you?u=76281980&t=133)** But wait, there's more.
 >
@@ -1248,7 +1237,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (25), prompt (5), hit (5), [[Scripting]] (3), [[Windows Server]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (25), [[Windows Server]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Tools:** powershell (25), command prompt (5)
 > **Env Vars:** ise (15), gui (3), dir (1)
 > **CLI Commands:** find (4), make (2)
@@ -1257,12 +1246,11 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Speakers:** - [voiceover] (1)
 
-#### Working with output
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powershell/working-with-output?u=76281980)
+#### [Working with output](https://www.linkedin.com/learning/learning-powershell/working-with-output?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-powershell/working-with-output?u=76281980&t=0)** - [Voiceover] Now let's take a look at one of the more common things you'll do inside of PowerShell, and that's actually sending out output and controlling the formatting of the output as you work with it. It's also one of the common uses for the pipe operator that we have.
+> **[0:00](https://www.linkedin.com/learning/learning-powershell/working-with-output?u=76281980&t=0)** - [Voiceover] Now let's take a look at one of the more common things you'll do inside of [[Powershell]], and that's actually sending out output and controlling the formatting of the output as you work with it. It's also one of the common uses for the pipe operator that we have.
 >
 > **[0:12](https://www.linkedin.com/learning/learning-powershell/working-with-output?u=76281980&t=12)** So we have our get-service commandlet, so I'm gonna run that down here in my command pane, just to remind us what it looks like.
 >
@@ -1284,7 +1272,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/learning-powershell/working-with-output?u=76281980&t=74)** So this is a list view, not a table view, and you might like this view, so depending on how you want to look at the output, list or table will work with it.
 >
-> **[1:22](https://www.linkedin.com/learning/learning-powershell/working-with-output?u=76281980&t=82)** Now if I want to see that same exact output, I can simply change this one command, or this one word, to table, and run that same command again, and process it, and it's gonna show me that same area, but just now in a table format, and if I scroll all the way up to the three columns, you'll see that now I just have displayname, status, and then requiredservices over on the right.
+> **[1:22](https://www.linkedin.com/learning/learning-powershell/working-with-output?u=76281980&t=82)** Now if I want to see that same exact output, I can simply change this one command, or this one [[Microsoft Word|word]], to table, and run that same command again, and process it, and it's gonna show me that same area, but just now in a table format, and if I scroll all the way up to the three columns, you'll see that now I just have displayname, status, and then requiredservices over on the right.
 >
 > **[1:44](https://www.linkedin.com/learning/learning-powershell/working-with-output?u=76281980&t=104)** So one simple change to that command really controls how that output looks and might feel for you.
 >
@@ -1336,7 +1324,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/learning-powershell/working-with-output?u=76281980&t=216)** Now another output method that you might work with is, we might want to output this to a file.
 >
-> **[3:42](https://www.linkedin.com/learning/learning-powershell/working-with-output?u=76281980&t=222)** So now, what are the other common ways you might want to send that to a file, whether it's out-file, or export to a csv, or an html file?
+> **[3:42](https://www.linkedin.com/learning/learning-powershell/working-with-output?u=76281980&t=222)** So now, what are the other common ways you might want to send that to a file, whether it's out-file, or export to a csv, or an [[HTML]] file?
 >
 > **[3:49](https://www.linkedin.com/learning/learning-powershell/working-with-output?u=76281980&t=229)** Let me actually send this out to a file, I'm just going to say out-file, it's gonna create that file, let me browse to it so you can see it's there.
 >
@@ -1348,25 +1336,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (8), data (3), [[Microsoft Word|Word]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (8), [[Microsoft Word|Word]] (1), [[HTML]] (1)
 > **Tools:** powershell (8)
 > **Definitions:** is a  (2), is an  (1)
 > **Speakers:** - [voiceover] (1)
 
-#### Grid view
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powershell/grid-view?u=76281980)
+#### [Grid view](https://www.linkedin.com/learning/learning-powershell/grid-view?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-powershell/grid-view?u=76281980&t=0)** - [Voiceover] So one of the great things that we have inside of Powershell is actually a thing called Grid View, and what Grid View allows us to do is actually output our data to a GUI environment where we can work with it a little bit easier, especially when you're looking just to manipulate some data and get a quick peek at what's going on in a particular server, or what's happening within a particular commandlet, Grid View might offer you a great alternative than instead of trying to figure out how to output it out to a file or a different table and that kinda stuff.
+> **[0:00](https://www.linkedin.com/learning/learning-powershell/grid-view?u=76281980&t=0)** - [Voiceover] So one of the great things that we have inside of [[Powershell]] is actually a thing called Grid View, and what Grid View allows us to do is actually output our data to a GUI environment where we can work with it a little bit easier, especially when you're looking just to manipulate some data and get a quick peek at what's going on in a particular server, or what's happening within a particular commandlet, Grid View might offer you a great alternative than instead of trying to figure out how to output it out to a file or a different table and that kinda stuff.
 >
 > **[0:26](https://www.linkedin.com/learning/learning-powershell/grid-view?u=76281980&t=26)** So, let me go ahead and just run get-service, with the piping into the out-Grid View and let me show you what this looks like.
 >
 > **[0:32](https://www.linkedin.com/learning/learning-powershell/grid-view?u=76281980&t=32)** So, if you look inside of this get-service, I actually have the ability to see what's here and work with it.
 >
-> **[0:38](https://www.linkedin.com/learning/learning-powershell/grid-view?u=76281980&t=38)** So, if I zoom in, you get a general idea, just an Explorer window, but I can work with any of these columns, so, if just wanna do a quick sort on status, or name or display name, just some quick clicks, I can organize that data the way I want to.
+> **[0:38](https://www.linkedin.com/learning/learning-powershell/grid-view?u=76281980&t=38)** So, if I [[Zoom]] in, you get a general idea, just an Explorer window, but I can work with any of these columns, so, if just wanna do a quick sort on status, or name or display name, just some quick clicks, I can organize that data the way I want to.
 >
-> **[0:51](https://www.linkedin.com/learning/learning-powershell/grid-view?u=76281980&t=51)** I also have the ability to filter it, so, if I just typing in the word "net", it's gonna filter as I type based on the different parameters that I've typed, and it does it across both name and display name and status.
+> **[0:51](https://www.linkedin.com/learning/learning-powershell/grid-view?u=76281980&t=51)** I also have the ability to filter it, so, if I just typing in the [[Microsoft Word|word]] "net", it's gonna filter as I type based on the different parameters that I've typed, and it does it across both name and display name and status.
 >
 > **[1:01](https://www.linkedin.com/learning/learning-powershell/grid-view?u=76281980&t=61)** I can also come in and add even more criteria, I can say, "you know what, let's do status" and I don't wanna see "contains", I wanna say "equals to" and let's find out all the services that are running.
 >
@@ -1406,19 +1393,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Powershell]] (4), [[Zoom]] (1), [[Microsoft Word|Word]] (1), power (1)
+> **Frameworks & Libraries:** [[Powershell]] (4), [[Zoom]] (1), [[Microsoft Word|Word]] (1)
 > **Tools:** powershell (4)
 > **CLI Commands:** find (2)
 > **Env Vars:** gui (1)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [voiceover] (1)
 
-#### Running PowerShell remotely
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powershell/running-powershell-remotely?u=76281980)
+#### [Running PowerShell remotely](https://www.linkedin.com/learning/learning-powershell/running-powershell-remotely?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-powershell/running-powershell-remotely?u=76281980&t=0)** - [Voiceover] One of the huge advantages of PowerShell is be able to access remote servers and get information from an administrative console.
+> **[0:00](https://www.linkedin.com/learning/learning-powershell/running-powershell-remotely?u=76281980&t=0)** - [Voiceover] One of the huge advantages of [[Powershell]] is be able to access remote servers and get information from an administrative console.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-powershell/running-powershell-remotely?u=76281980&t=7)** So a lot of IT administrators actually will run PowerShell on their clientside desktops and use it to access servers in their data center located elsewhere.
 >
@@ -1454,7 +1440,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/learning-powershell/running-powershell-remotely?u=76281980&t=102)** So I'm gonna do that same commandlet again, but this time I'm gonna add in one small parameter.
 >
-> **[1:46](https://www.linkedin.com/learning/learning-powershell/running-powershell-remotely?u=76281980&t=106)** Hey let's sort it by machinename and then the rest of it's gonna be the same.
+> **[1:46](https://www.linkedin.com/learning/learning-powershell/running-powershell-remotely?u=76281980&t=106)** Hey let's sort it by machinename and then the [[Representational State Transfer (REST)|rest]] of it's gonna be the same.
 >
 > **[1:50](https://www.linkedin.com/learning/learning-powershell/running-powershell-remotely?u=76281980&t=110)** Format the table, giving machinename, name, and status, and I'm gonna go ahead and run that.
 >
@@ -1486,7 +1472,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/learning-powershell/running-powershell-remotely?u=76281980&t=194)** Notice the PowerShell command is changed a little bit.
 >
-> **[3:17](https://www.linkedin.com/learning/learning-powershell/running-powershell-remotely?u=76281980&t=197)** Now in the front of my PowerShell prompt I have the word webserver.
+> **[3:17](https://www.linkedin.com/learning/learning-powershell/running-powershell-remotely?u=76281980&t=197)** Now in the front of my PowerShell prompt I have the [[Microsoft Word|word]] webserver.
 >
 > **[3:21](https://www.linkedin.com/learning/learning-powershell/running-powershell-remotely?u=76281980&t=201)** So that tells me that anything I run at this command is actually gonna be coming from that webserver, so if I just type in our friendly get-service and hit Enter, you'll see that I'm getting those services.
 >
@@ -1506,7 +1492,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (12), data (3), web (3), power (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (12), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1)
 > **Tools:** powershell (12)
 > **CLI Commands:** find (2)
 > **Env Vars:** ise (1)
@@ -1518,18 +1504,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Finding and installing modules
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powershell/finding-and-installing-modules?u=76281980)
+#### [Finding and installing modules](https://www.linkedin.com/learning/learning-powershell/finding-and-installing-modules?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-powershell/finding-and-installing-modules?u=76281980&t=0)** - [Voiceover] Now one of the great things about PowerShell is just the number of commands and commandlets that we can run on a server.
+> **[0:00](https://www.linkedin.com/learning/learning-powershell/finding-and-installing-modules?u=76281980&t=0)** - [Voiceover] Now one of the great things about [[Powershell]] is just the number of commands and commandlets that we can run on a server.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-powershell/finding-and-installing-modules?u=76281980&t=6)** But in previous videos, I really talked about that's not all that's there, there's a lot more that's available to you.
 >
 > **[0:12](https://www.linkedin.com/learning/learning-powershell/finding-and-installing-modules?u=76281980&t=12)** Now commands come down in a thing called a module, and all a module is is a collection of commandlets for a particular function.
 >
-> **[0:18](https://www.linkedin.com/learning/learning-powershell/finding-and-installing-modules?u=76281980&t=18)** VMware has modules for its tools, Citrix has its tools, Azure, Office 365, they all have their own modules, and you even have additional modules on your systems that may not be available to you, because they haven't been installed yet.
+> **[0:18](https://www.linkedin.com/learning/learning-powershell/finding-and-installing-modules?u=76281980&t=18)** VMware has modules for its tools, Citrix has its tools, [[Microsoft Azure|Azure]], [[Microsoft Office|Office]] 365, they all have their own modules, and you even have additional modules on your systems that may not be available to you, because they haven't been installed yet.
 >
 > **[0:31](https://www.linkedin.com/learning/learning-powershell/finding-and-installing-modules?u=76281980&t=31)** So the question becomes how do I find those modules, how do I install them, and how can I start taking advantage of them?
 >
@@ -1553,7 +1538,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/learning-powershell/finding-and-installing-modules?u=76281980&t=87)** But let me show you the process of how you can actually manually load your modules, and this is common inside of scripts, you'll see a lot of these statements at the beginning of a lot of scripts inside of the PowerShell world.
 >
-> **[1:38](https://www.linkedin.com/learning/learning-powershell/finding-and-installing-modules?u=76281980&t=98)** Import module, and I'm just going to say name, and I'm going to say I want to import applocker, which is just one of the modules built into most Windows systems, and it's going to bring up, it runs that command, everything's working fine.
+> **[1:38](https://www.linkedin.com/learning/learning-powershell/finding-and-installing-modules?u=76281980&t=98)** Import module, and I'm just going to say name, and I'm going to say I want to import applocker, which is just one of the modules built into most [[Windows]] systems, and it's going to bring up, it runs that command, everything's working fine.
 >
 > **[1:49](https://www.linkedin.com/learning/learning-powershell/finding-and-installing-modules?u=76281980&t=109)** Now if I want to see what commands are there, I simply say get command, followed by the module parameter, and then I tell it applocker, and what it's going to do is show me all the specific commandlets that are there, so as you can work with PowerShell, there's lots and lots, and we're talking thousands of commandlets.
 >
@@ -1607,7 +1592,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (16), [[Security]] (2), [[Microsoft Azure|Azure]] (1), [[Microsoft Office|Office]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (16), [[Microsoft Azure|Azure]] (1), [[Microsoft Office|Office]] (1), [[Windows]] (1)
 > **Tools:** powershell (16)
 > **Definitions:** is called (2), is a  (1), basically means (1)
 > **Prerequisites:** install (2)
@@ -1615,14 +1600,13 @@ created: 2026-05-02
 > **Versions:** 3.0 (1)
 > **Speakers:** - [voiceover] (1)
 
-#### Server cmdlets
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powershell/server-cmdlets?u=76281980)
+#### [Server cmdlets](https://www.linkedin.com/learning/learning-powershell/server-cmdlets?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-powershell/server-cmdlets?u=76281980&t=0)** - [Voiceover] Now that you understand some of the basics of PowerShell, let's actually start getting to do some real work on a server.
+> **[0:00](https://www.linkedin.com/learning/learning-powershell/server-cmdlets?u=76281980&t=0)** - [Voiceover] Now that you understand some of the basics of [[Powershell]], let's actually start getting to do some real work on a server.
 >
-> **[0:06](https://www.linkedin.com/learning/learning-powershell/server-cmdlets?u=76281980&t=6)** Now one of the great things about PowerShell, when you use this on a Windows server, it's pretty much everything that you see in the GUI environment of the server, everything you can do in the server manager, you can most likely do with Powershell.
+> **[0:06](https://www.linkedin.com/learning/learning-powershell/server-cmdlets?u=76281980&t=6)** Now one of the great things about PowerShell, when you use this on a [[Windows Server]], it's pretty much everything that you see in the GUI environment of the server, everything you can do in the server manager, you can most likely do with Powershell.
 >
 > **[0:18](https://www.linkedin.com/learning/learning-powershell/server-cmdlets?u=76281980&t=18)** It's really just a matter of finding the commandlets.
 >
@@ -1668,7 +1652,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/learning-powershell/server-cmdlets?u=76281980&t=79)** Now, how do I install it?
 >
-> **[1:20](https://www.linkedin.com/learning/learning-powershell/server-cmdlets?u=76281980&t=80)** Well, you can just use the Install Windows Feature commandlet or you can have fun with the pipe symbol.
+> **[1:20](https://www.linkedin.com/learning/learning-powershell/server-cmdlets?u=76281980&t=80)** Well, you can just use the Install [[Windows]] Feature commandlet or you can have fun with the pipe symbol.
 >
 > **[1:26](https://www.linkedin.com/learning/learning-powershell/server-cmdlets?u=76281980&t=86)** Notice what I'm gonna do here.
 >
@@ -1810,7 +1794,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (11), feature (4), web (3), [[Windows]] (3), [[Windows Server]] (2)
+> **Frameworks & Libraries:** [[Powershell]] (11), [[Windows]] (3), [[Windows Server]] (2)
 > **Prerequisites:** install (11), configure (2), set up (1)
 > **Tools:** powershell (11)
 > **Env Vars:** gui (2), iis (2)
@@ -1819,22 +1803,21 @@ created: 2026-05-02
 > **UI Navigation:** switch to (1)
 > **Speakers:** - [voiceover] (1)
 
-#### Office 365 PowerShell
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powershell/office-365-powershell?u=76281980)
+#### [Office 365 PowerShell](https://www.linkedin.com/learning/learning-powershell/office-365-powershell?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-powershell/office-365-powershell?u=76281980&t=0)** - [Instructor] As more and more organizations move their workloads to cloud technologies, the question becomes, can we actually manage those technologies with PowerShell?
+> **[0:00](https://www.linkedin.com/learning/learning-powershell/office-365-powershell?u=76281980&t=0)** - [Instructor] As more and more organizations move their workloads to cloud technologies, the question becomes, can we actually manage those technologies with [[Powershell]]?
 >
 > **[0:08](https://www.linkedin.com/learning/learning-powershell/office-365-powershell?u=76281980&t=8)** The answer?
 >
 > **[0:08](https://www.linkedin.com/learning/learning-powershell/office-365-powershell?u=76281980&t=8)** A resounding absolutely, yes.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-powershell/office-365-powershell?u=76281980&t=11)** So we're going to take a look at how to connect Office 365 and PowerShell and what we can actually do to manage this environment.
+> **[0:11](https://www.linkedin.com/learning/learning-powershell/office-365-powershell?u=76281980&t=11)** So we're going to take a look at how to connect [[Microsoft Office|Office]] 365 and PowerShell and what we can actually do to manage this environment.
 >
 > **[0:16](https://www.linkedin.com/learning/learning-powershell/office-365-powershell?u=76281980&t=16)** First off, they're actually two ways we can do this.
 >
-> **[0:19](https://www.linkedin.com/learning/learning-powershell/office-365-powershell?u=76281980&t=19)** There's a relatively newer module, which is called the Azure Active Directory PowerShell for Graph module.
+> **[0:19](https://www.linkedin.com/learning/learning-powershell/office-365-powershell?u=76281980&t=19)** There's a relatively newer module, which is called the [[Microsoft Entra ID|Azure Active Directory]] PowerShell for Graph module.
 >
 > **[0:24](https://www.linkedin.com/learning/learning-powershell/office-365-powershell?u=76281980&t=24)** I know that's kind of a bit of a mouth-full, but it's actually real easy to install.
 >
@@ -1842,7 +1825,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/learning-powershell/office-365-powershell?u=76281980&t=36)** The other way that we connect is a way that's been around for a few years now.
 >
-> **[0:39](https://www.linkedin.com/learning/learning-powershell/office-365-powershell?u=76281980&t=39)** And it's using the Azure Active Directory Module for Windows PowerShell.
+> **[0:39](https://www.linkedin.com/learning/learning-powershell/office-365-powershell?u=76281980&t=39)** And it's using the Azure Active Directory Module for [[Windows]] PowerShell.
 >
 > **[0:43](https://www.linkedin.com/learning/learning-powershell/office-365-powershell?u=76281980&t=43)** And this has a couple requirements.
 >
@@ -1866,7 +1849,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/learning-powershell/office-365-powershell?u=76281980&t=87)** It takes you through all those step by step guidance on what do we want to do.
 >
-> **[1:31](https://www.linkedin.com/learning/learning-powershell/office-365-powershell?u=76281980&t=91)** So the first thing I'm going to do, I'm actually going to install the Azure AD module for Graph, and there's even nice information here.
+> **[1:31](https://www.linkedin.com/learning/learning-powershell/office-365-powershell?u=76281980&t=91)** So the first thing I'm going to do, I'm actually going to install the [[Microsoft Entra ID|Azure AD]] module for Graph, and there's even nice information here.
 >
 > **[1:38](https://www.linkedin.com/learning/learning-powershell/office-365-powershell?u=76281980&t=98)** You can even copy that command if you want here and save yourself a little bit of typing.
 >
@@ -1884,13 +1867,13 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/learning-powershell/office-365-powershell?u=76281980&t=121)** I'm going to simply going to go ahead and say yes to this.
 >
-> **[2:03](https://www.linkedin.com/learning/learning-powershell/office-365-powershell?u=76281980&t=123)** Specifically it's running the new Git environment.
+> **[2:03](https://www.linkedin.com/learning/learning-powershell/office-365-powershell?u=76281980&t=123)** Specifically it's running the new [[Git]] environment.
 >
 > **[2:06](https://www.linkedin.com/learning/learning-powershell/office-365-powershell?u=76281980&t=126)** And I'm going to go and say yes.
 >
 > **[2:07](https://www.linkedin.com/learning/learning-powershell/office-365-powershell?u=76281980&t=127)** And hit Enter.
 >
-> **[2:08](https://www.linkedin.com/learning/learning-powershell/office-365-powershell?u=76281980&t=128)** And hopefully here in just a minute it's going to download and install that module for me to start using and leveraging Azure PowerShell for Office 365.
+> **[2:08](https://www.linkedin.com/learning/learning-powershell/office-365-powershell?u=76281980&t=128)** And hopefully here in just a minute it's going to download and install that module for me to start using and leveraging [[Microsoft Azure|Azure]] PowerShell for Office 365.
 >
 > **[2:17](https://www.linkedin.com/learning/learning-powershell/office-365-powershell?u=76281980&t=137)** That's an untrusted repository, so it's new.
 >
@@ -1976,21 +1959,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (10), [[Microsoft Office|Office]] (4), [[Microsoft Entra ID|Azure ad]] (4), [[Microsoft Entra ID|Azure active directory]] (2), hit (2)
+> **Frameworks & Libraries:** [[Powershell]] (10), [[Microsoft Office|Office]] (4), [[Microsoft Entra ID|Azure ad]] (4), [[Microsoft Entra ID|Azure active directory]] (2), [[Windows]] (1)
 > **Prerequisites:** install (16)
 > **Tools:** powershell (10)
 > **CLI Commands:** find (6), git (1)
 > **Definitions:** is called (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Azure PowerShell
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powershell/azure-powershell?u=76281980)
+#### [Azure PowerShell](https://www.linkedin.com/learning/learning-powershell/azure-powershell?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-powershell/azure-powershell?u=76281980&t=0)** - [Instructor] So what about Azure?
+> **[0:00](https://www.linkedin.com/learning/learning-powershell/azure-powershell?u=76281980&t=0)** - [Instructor] So what about [[Microsoft Azure|Azure]]?
 >
-> **[0:01](https://www.linkedin.com/learning/learning-powershell/azure-powershell?u=76281980&t=1)** Can we manage Azure with PowerShell?
+> **[0:01](https://www.linkedin.com/learning/learning-powershell/azure-powershell?u=76281980&t=1)** Can we manage Azure with [[Powershell]]?
 >
 > **[0:03](https://www.linkedin.com/learning/learning-powershell/azure-powershell?u=76281980&t=3)** Absolutely, we can manage Azure with PowerShell, and in fact, there's lots of ways to manage Azure.
 >
@@ -2000,7 +1982,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/learning-powershell/azure-powershell?u=76281980&t=26)** It's kind of the get stuff done person.
 >
-> **[0:28](https://www.linkedin.com/learning/learning-powershell/azure-powershell?u=76281980&t=28)** Whenever you do something inside of Azure whether you use the portal or PowerShell or something new called the CLI which we'll talk about the command line interface is in just a moment, it all gets done through the Azure Resource Manager.
+> **[0:28](https://www.linkedin.com/learning/learning-powershell/azure-powershell?u=76281980&t=28)** Whenever you do something inside of Azure whether you use the portal or PowerShell or something new called the [[CLI]] which we'll talk about the command line interface is in just a moment, it all gets done through the Azure Resource Manager.
 >
 > **[0:39](https://www.linkedin.com/learning/learning-powershell/azure-powershell?u=76281980&t=39)** The beautiful thing about this, you get to pick the tool that you want to use to manage the Azure environment.
 >
@@ -2012,7 +1994,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/learning-powershell/azure-powershell?u=76281980&t=61)** This is a client-based PowerShell.
 >
-> **[1:03](https://www.linkedin.com/learning/learning-powershell/azure-powershell?u=76281980&t=63)** It runs on Windows systems, Linux systems, or macOS.
+> **[1:03](https://www.linkedin.com/learning/learning-powershell/azure-powershell?u=76281980&t=63)** It runs on [[Windows]] systems, [[Linux]] systems, or macOS.
 >
 > **[1:07](https://www.linkedin.com/learning/learning-powershell/azure-powershell?u=76281980&t=67)** So pretty much any laptop that you have or any system you want to manage Azure from locally, we can actually leverage the tools for that, and I'll show you how to install that as well.
 >
@@ -2044,7 +2026,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/learning-powershell/azure-powershell?u=76281980&t=154)** Now let's take a look at how do we install PowerShell on our local systems and actually start managing Azure from a local administrator system.
 >
-> **[2:41](https://www.linkedin.com/learning/learning-powershell/azure-powershell?u=76281980&t=161)** So here I am just on a Windows Server environment.
+> **[2:41](https://www.linkedin.com/learning/learning-powershell/azure-powershell?u=76281980&t=161)** So here I am just on a [[Windows Server]] environment.
 >
 > **[2:44](https://www.linkedin.com/learning/learning-powershell/azure-powershell?u=76281980&t=164)** So I'm going to go ahead and bring up PowerShell and I'm going to bring it up as Administrative PowerShell session so I can actually install some things inside of here.
 >
@@ -2198,7 +2180,7 @@ created: 2026-05-02
 >
 > **[8:24](https://www.linkedin.com/learning/learning-powershell/azure-powershell?u=76281980&t=504)** First off, and it went by really really quick and I giggle every time I see it, the long lost bit art with dash marks.
 >
-> **[8:30](https://www.linkedin.com/learning/learning-powershell/azure-powershell?u=76281980&t=510)** And you can actually make some things and it says the word Azure.
+> **[8:30](https://www.linkedin.com/learning/learning-powershell/azure-powershell?u=76281980&t=510)** And you can actually make some things and it says the [[Microsoft Word|word]] Azure.
 >
 > **[8:33](https://www.linkedin.com/learning/learning-powershell/azure-powershell?u=76281980&t=513)** Now the cool thing about this is that we can see all the different commands that we can do.
 >
@@ -2250,7 +2232,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (45), [[Powershell]] (45), [[CLI]] (12), cloud (11), [[Windows]] (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (45), [[Powershell]] (45), [[CLI]] (12), [[Windows]] (3), [[Linux]] (2)
 > **Tools:** powershell (45), bash (8), command line (2), azure portal (1)
 > **CLI Commands:** az (12), find (5), rm (1), make (1)
 > **Env Vars:** cli (12), gui (2), cls (2)
@@ -2264,12 +2246,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powershell/next-steps-2?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/learning-powershell/next-steps-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-powershell/next-steps-2?u=76281980&t=0)** - [Matt] Thank you so much for watching this course on understanding PowerShell.
+> **[0:00](https://www.linkedin.com/learning/learning-powershell/next-steps-2?u=76281980&t=0)** - [Matt] Thank you so much for watching this course on understanding [[Powershell]].
 >
 > **[0:03](https://www.linkedin.com/learning/learning-powershell/next-steps-2?u=76281980&t=3)** Let's talk about some next steps, and I hope you're excited to get started with PowerShell.
 >
@@ -2311,7 +2292,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/learning-powershell/next-steps-2?u=76281980&t=69)** If you're not sure, you can learn these commands, and you'll be able to find out anything.
 >
-> **[1:14](https://www.linkedin.com/learning/learning-powershell/next-steps-2?u=76281980&t=74)** And with a lot of your common search engines, I know for example, if you go to Microsoft's Bing, and you type in a PowerShell command, generally speaking the very first result will be the command interface for the website for that particular command.
+> **[1:14](https://www.linkedin.com/learning/learning-powershell/next-steps-2?u=76281980&t=74)** And with a lot of your common search engines, I know for example, if you go to [[Microsoft]]'s Bing, and you type in a PowerShell command, generally speaking the very first result will be the command interface for the website for that particular command.
 >
 > **[1:28](https://www.linkedin.com/learning/learning-powershell/next-steps-2?u=76281980&t=88)** But you can do this directly from your local shell environment.
 >
@@ -2357,7 +2338,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (12), next (1), power (1), [[Search]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (12), [[Microsoft]] (1)
 > **Tools:** powershell (12)
 > **UI Navigation:** go to (2), scroll down (1)
 > **CLI Commands:** make (1), find (1)

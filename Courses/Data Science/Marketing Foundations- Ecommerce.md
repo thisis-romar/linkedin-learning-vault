@@ -80,12 +80,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Unlocking key principles and strategies of ecommerce marketing
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/unlocking-key-principles-and-strategies-of-ecommerce-marketing?u=76281980)
+#### [Unlocking key principles and strategies of ecommerce marketing](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/unlocking-key-principles-and-strategies-of-ecommerce-marketing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/unlocking-key-principles-and-strategies-of-ecommerce-marketing?u=76281980&t=0)** - Literally, at the click of a button, customers can now make purchases from their favorite e-commerce websites and have those products delivered right to their doorstep.
+> **[0:00](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/unlocking-key-principles-and-strategies-of-ecommerce-marketing?u=76281980&t=0)** - Literally, at the click of a button, customers can now make purchases from their favorite [[E-Commerce]] websites and have those [[Microsoft Products|products]] delivered right to their doorstep.
 >
 > **[0:10](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/unlocking-key-principles-and-strategies-of-ecommerce-marketing?u=76281980&t=10)** And this process only takes a few minutes.
 >
@@ -103,7 +102,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[E-Commerce]] (4), [[Microsoft Products|Products]] (2), business (1), product (1), traffic (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (4), [[Microsoft Products|Products]] (2)
 > **CLI Commands:** make (2)
 > **Speakers:** - literally (1)
 
@@ -112,14 +111,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Ecommerce customer research
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/ecommerce-customer-research?u=76281980)
+#### [Ecommerce customer research](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/ecommerce-customer-research?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/ecommerce-customer-research?u=76281980&t=0)** - [Instructor] Knowing your ideal customer is massively important as it will form the basis of your marketing plan.
 >
-> **[0:07](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/ecommerce-customer-research?u=76281980&t=7)** Researching your target customer is the first step towards a successful e-commerce marketing campaign.
+> **[0:07](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/ecommerce-customer-research?u=76281980&t=7)** Researching your target customer is the first step towards a successful [[E-Commerce]] marketing campaign.
 >
 > **[0:14](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/ecommerce-customer-research?u=76281980&t=14)** That being said, the market can always shift.
 >
@@ -135,9 +133,9 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/ecommerce-customer-research?u=76281980&t=48)** You may even want to give your customer avatars names so that you never lose touch of who it is you are trying to reach.
 >
-> **[0:56](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/ecommerce-customer-research?u=76281980&t=56)** You also want to keep track of behavioral characteristics such as your customers' online shopping habits, actions that they take on your website, and posts that they seem to react to on social media.
+> **[0:56](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/ecommerce-customer-research?u=76281980&t=56)** You also want to keep track of behavioral characteristics such as your customers' online shopping habits, actions that they take on your website, and posts that they seem to [[React.js|react]] to on social media.
 >
-> **[1:09](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/ecommerce-customer-research?u=76281980&t=69)** You can track all of this using analytics tools such as Google Analytics, as well as paying close attention to the analytics provided to you by your chosen social media platform.
+> **[1:09](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/ecommerce-customer-research?u=76281980&t=69)** You can track all of this using analytics tools such as [[Google]] Analytics, as well as paying close attention to the analytics provided to you by your chosen social media platform.
 >
 > **[1:21](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/ecommerce-customer-research?u=76281980&t=81)** If you only offer your product in certain regions, you need to make sure that you target those regions specifically with your marketing.
 >
@@ -149,9 +147,9 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/ecommerce-customer-research?u=76281980&t=110)** It's important to understand the needs, wants, and desires of your target customers.
 >
-> **[1:56](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/ecommerce-customer-research?u=76281980&t=116)** You will use this information to inform product development ideas as well as to help with creating your marketing materials.
+> **[1:56](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/ecommerce-customer-research?u=76281980&t=116)** You will use this information to inform [[Product Development]] ideas as well as to help with creating your marketing materials.
 >
-> **[2:03](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/ecommerce-customer-research?u=76281980&t=123)** Your e-commerce marketing strategy needs to revolve around your customers.
+> **[2:03](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/ecommerce-customer-research?u=76281980&t=123)** Your e-commerce [[Marketing Strategy]] needs to revolve around your customers.
 >
 > **[2:08](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/ecommerce-customer-research?u=76281980&t=128)** The better you know your customer, the easier it will be to sell to them.
 >
@@ -159,13 +157,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[Analytics]] (3), [[E-Commerce]] (2), [[React.js|React]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (2), [[React.js|React]] (1), [[Google]] (1), [[Product Development]] (1), [[Marketing Strategy]] (1)
 > **Analogies:** such as (4)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Ecommerce product research
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/ecommerce-product-research?u=76281980)
+#### [Ecommerce product research](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/ecommerce-product-research?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -173,7 +170,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/ecommerce-product-research?u=76281980&t=2)** If you know what people are in the market to buy, then you will know what you should be selling.
 >
-> **[0:08](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/ecommerce-product-research?u=76281980&t=8)** And there are a few tools that you can utilize to identify what products are in demand.
+> **[0:08](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/ecommerce-product-research?u=76281980&t=8)** And there are a few tools that you can utilize to identify what [[Microsoft Products|products]] are in demand.
 >
 > **[0:14](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/ecommerce-product-research?u=76281980&t=14)** And my favorite tool is eBay.
 >
@@ -237,7 +234,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/ecommerce-product-research?u=76281980&t=230)** And when you click on products on Etsy, it will also give you indicators of how many sales that product has, and the rating of that particular product too, so again, you want to spend some time looking at the ratings, looking at the sales and seeing if you can identify products that are performing successfully, that you think you can penetrate that market as well.
 >
-> **[4:14](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/ecommerce-product-research?u=76281980&t=254)** Now, Google is also a great platform too.
+> **[4:14](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/ecommerce-product-research?u=76281980&t=254)** Now, [[Google]] is also a great platform too.
 >
 > **[4:17](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/ecommerce-product-research?u=76281980&t=257)** So whatever product you are looking to sell, search for it in Google, and the auto suggest as well on Google will give you an indicator of what people are actively searching for.
 >
@@ -315,7 +312,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (32), [[Microsoft Products|Products]] (18), [[Google]] (16), [[Search]] (15), data (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (18), [[Google]] (16)
 > **UI Navigation:** click on (7), go to (2)
 > **Analogies:** for example (5), such as (1), similar to (1), compare this to (1)
 > **Definitions:** is a  (6)
@@ -324,12 +321,11 @@ created: 2026-05-02
 > **Env Vars:** seo (1)
 > **Cross-References:** in the last (1)
 
-#### Ecommerce platform breakdown
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/ecommerce-platform-breakdown?u=76281980)
+#### [Ecommerce platform breakdown](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/ecommerce-platform-breakdown?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/ecommerce-platform-breakdown?u=76281980&t=0)** - What are some of the things that we can learn from the bigger e-commerce brands, and adopt in our e-commerce business?
+> **[0:00](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/ecommerce-platform-breakdown?u=76281980&t=0)** - What are some of the things that we can learn from the bigger [[E-Commerce]] brands, and adopt in our e-commerce business?
 >
 > **[0:08](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/ecommerce-platform-breakdown?u=76281980&t=8)** Let's take Amazon for example.
 >
@@ -349,7 +345,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/ecommerce-platform-breakdown?u=76281980&t=48)** This will enable you to spend more on your marketing campaigns, and also to save time, and resources within your company.
 >
-> **[0:57](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/ecommerce-platform-breakdown?u=76281980&t=57)** You also want to think about what Amazon do, which is upselling, and cross selling your products.
+> **[0:57](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/ecommerce-platform-breakdown?u=76281980&t=57)** You also want to think about what Amazon do, which is upselling, and cross selling your [[Microsoft Products|products]].
 >
 > **[1:04](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/ecommerce-platform-breakdown?u=76281980&t=64)** This is the online version of, "Hey, would you like fries with that?"
 >
@@ -367,27 +363,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[E-Commerce]] (6), business (4), [[Microsoft Products|Products]] (2), product (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (6), [[Microsoft Products|Products]] (2)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Speakers:** - what (1)
 
-#### Building a profitable ecommerce website
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/building-a-profitable-ecommerce-website?u=76281980)
+#### [Building a profitable ecommerce website](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/building-a-profitable-ecommerce-website?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/building-a-profitable-ecommerce-website?u=76281980&t=0)** - Maximizing online sales really boils down to a few key points.
 >
-> **[0:06](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/building-a-profitable-ecommerce-website?u=76281980&t=6)** You want to focus on user experience.
+> **[0:06](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/building-a-profitable-ecommerce-website?u=76281980&t=6)** You want to focus on [[User Experience (UX)|user experience]].
 >
-> **[0:09](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/building-a-profitable-ecommerce-website?u=76281980&t=9)** Now, user experience is great for search engine optimization.
+> **[0:09](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/building-a-profitable-ecommerce-website?u=76281980&t=9)** Now, user experience is great for [[Search Engine Optimization (SEO)|search engine optimization]].
 >
 > **[0:12](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/building-a-profitable-ecommerce-website?u=76281980&t=12)** The major search engines absolutely love websites that are focused on user experience.
 >
 > **[0:18](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/building-a-profitable-ecommerce-website?u=76281980&t=18)** And as a result, you are likely to see improved search engine rankings if you focus on user experience.
 >
-> **[0:26](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/building-a-profitable-ecommerce-website?u=76281980&t=26)** That being said, user experience is also great to help you to improve the way in which your e-commerce website converts overall.
+> **[0:26](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/building-a-profitable-ecommerce-website?u=76281980&t=26)** That being said, user experience is also great to help you to improve the way in which your [[E-Commerce]] website converts overall.
 >
 > **[0:36](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/building-a-profitable-ecommerce-website?u=76281980&t=36)** You want to focus on the speed of your website.
 >
@@ -397,7 +392,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/building-a-profitable-ecommerce-website?u=76281980&t=51)** As well as this, is your website mobile optimized?
 >
-> **[0:55](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/building-a-profitable-ecommerce-website?u=76281980&t=55)** Now, Google has a few tools that can help you with user experience.
+> **[0:55](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/building-a-profitable-ecommerce-website?u=76281980&t=55)** Now, [[Google]] has a few tools that can help you with user experience.
 >
 > **[0:59](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/building-a-profitable-ecommerce-website?u=76281980&t=59)** The first tool is the Google page speed insights to tell you how quickly your website loads, and also to give you some suggestions on how you can improve your page load speed.
 >
@@ -407,7 +402,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/building-a-profitable-ecommerce-website?u=76281980&t=89)** This is when someone shows a particular interest in a product or a category on your website.
 >
-> **[1:36](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/building-a-profitable-ecommerce-website?u=76281980&t=96)** The next time they come back to your website, can you recommend those products and categories?
+> **[1:36](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/building-a-profitable-ecommerce-website?u=76281980&t=96)** The next time they come back to your website, can you recommend those [[Microsoft Products|products]] and categories?
 >
 > **[1:42](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/building-a-profitable-ecommerce-website?u=76281980&t=102)** Not only is this convenient for your website visitors, but this is also more likely to steer them in the direction of making a purchase.
 >
@@ -421,7 +416,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (7), [[Google]] (3), [[Search]] (2), [[E-Commerce]] (2), product (2)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (7), [[Google]] (3), [[E-Commerce]] (2), [[Search Engine Optimization (SEO)|Search engine optimization]] (1), [[Microsoft Products|Products]] (1)
 > **Speakers:** - maximizing (1)
 
 
@@ -429,12 +424,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The customer journey in ecommerce
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/the-customer-journey-in-ecommerce?u=76281980)
+#### [The customer journey in ecommerce](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/the-customer-journey-in-ecommerce?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/the-customer-journey-in-ecommerce?u=76281980&t=0)** - E-commerce is a lot more than just generating one-off sales.
+> **[0:00](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/the-customer-journey-in-ecommerce?u=76281980&t=0)** - [[E-Commerce]] is a lot more than just generating one-off sales.
 >
 > **[0:05](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/the-customer-journey-in-ecommerce?u=76281980&t=5)** You also want to think about the overall customer journey.
 >
@@ -442,15 +436,15 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/the-customer-journey-in-ecommerce?u=76281980&t=12)** What stage of the buying cycle might they be at when they first visit your website?
 >
-> **[0:17](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/the-customer-journey-in-ecommerce?u=76281980&t=17)** What can you do to ensure if they do make a purchase that they want to come back again and potentially want to recommend your products to friends, family members, and maybe even their following online?
+> **[0:17](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/the-customer-journey-in-ecommerce?u=76281980&t=17)** What can you do to ensure if they do make a purchase that they want to come back again and potentially want to recommend your [[Microsoft Products|products]] to friends, family members, and maybe even their following online?
 >
 > **[0:31](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/the-customer-journey-in-ecommerce?u=76281980&t=31)** Understanding the customer journey helps you to know where you should be focusing your marketing efforts.
 >
 > **[0:39](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/the-customer-journey-in-ecommerce?u=76281980&t=39)** For example, if there are a lot of questions surrounding your products and your customers want answers, potentially you can answer these questions in video format, maybe you start a YouTube channel, or potentially you can answer these in the form of blog articles and start a blog on your website.
 >
-> **[0:58](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/the-customer-journey-in-ecommerce?u=76281980&t=58)** Will this type of content marketing strategy help to bring your website visitors closer towards making a buying decision on your website?
+> **[0:58](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/the-customer-journey-in-ecommerce?u=76281980&t=58)** Will this type of content [[Marketing Strategy]] help to bring your website visitors closer towards making a buying decision on your website?
 >
-> **[1:07](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/the-customer-journey-in-ecommerce?u=76281980&t=67)** If people are asking questions and you know that that's how they are likely to first discover your products, then potentially you can utilize SEO or Google Ads.
+> **[1:07](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/the-customer-journey-in-ecommerce?u=76281980&t=67)** If people are asking questions and you know that that's how they are likely to first discover your products, then potentially you can utilize SEO or [[Google]] Ads.
 >
 > **[1:20](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/the-customer-journey-in-ecommerce?u=76281980&t=80)** Google is search intent-based marketing.
 >
@@ -460,25 +454,24 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/the-customer-journey-in-ecommerce?u=76281980&t=104)** Overall, you want a strategy that helps to bring people back to your website to make additional purchases.
 >
-> **[1:50](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/the-customer-journey-in-ecommerce?u=76281980&t=110)** You want to use tools such as retargeting and email marketing that will bring people back to your website who've potentially purchased before or maybe just visited.
+> **[1:50](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/the-customer-journey-in-ecommerce?u=76281980&t=110)** You want to use tools such as retargeting and [[Email Marketing]] that will bring people back to your website who've potentially purchased before or maybe just visited.
 >
 > **[2:02](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/the-customer-journey-in-ecommerce?u=76281980&t=122)** The more you can do to bring people back to your site, then the more profitable your e-commerce website is likely to be.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[Microsoft Products|Products]] (3), [[E-Commerce]] (2), [[Google]] (2), [[Marketing Strategy]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[E-Commerce]] (2), [[Google]] (2), [[Marketing Strategy]] (1), [[Email Marketing]] (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** seo (1)
 > **Speakers:** - e (1)
 
-#### Researching your market for ecommerce
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/researching-your-market-for-ecommerce?u=76281980)
+#### [Researching your market for ecommerce](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/researching-your-market-for-ecommerce?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/researching-your-market-for-ecommerce?u=76281980&t=0)** - [Instructor] How do you research into your market so you know what's working, and you know how to position your products and your brand online?
+> **[0:00](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/researching-your-market-for-ecommerce?u=76281980&t=0)** - [Instructor] How do you research into your market so you know what's working, and you know how to position your [[Microsoft Products|products]] and your brand online?
 >
 > **[0:08](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/researching-your-market-for-ecommerce?u=76281980&t=8)** Well, there are a number of tools that you can utilize.
 >
@@ -512,7 +505,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/researching-your-market-for-ecommerce?u=76281980&t=102)** Now, another tool, which is a little bit more advanced is Semrush.
 >
-> **[1:47](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/researching-your-market-for-ecommerce?u=76281980&t=107)** Now this is predominantly a tool used for search engine optimization, but you can use it for competitor analysis as well.
+> **[1:47](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/researching-your-market-for-ecommerce?u=76281980&t=107)** Now this is predominantly a tool used for [[Search Engine Optimization (SEO)|search engine optimization]], but you can use it for competitor analysis as well.
 >
 > **[1:55](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/researching-your-market-for-ecommerce?u=76281980&t=115)** So this is a premium tool, and this is how it looks like on the inside.
 >
@@ -520,7 +513,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/researching-your-market-for-ecommerce?u=76281980&t=123)** If you want to do a competitive analysis on yourself, or you can search some of your competitors and put their domains in here.
 >
-> **[2:11](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/researching-your-market-for-ecommerce?u=76281980&t=131)** Now I've gone ahead and typed in [google.com](https://google.com), just to give you an overview of what it would look like to research your competitors.
+> **[2:11](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/researching-your-market-for-ecommerce?u=76281980&t=131)** Now I've gone ahead and typed in [[[Google]].com](https://google.com), just to give you an overview of what it would look like to research your competitors.
 >
 > **[2:19](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/researching-your-market-for-ecommerce?u=76281980&t=139)** So it will give you a breakdown of Authority Score.
 >
@@ -592,7 +585,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (10), traffic (6), [[Google]] (4), [[Microsoft Products|Products]] (1), [[Search Engine Optimization (SEO)|Search engine optimization]] (1)
+> **Frameworks & Libraries:** [[Google]] (4), [[Microsoft Products|Products]] (1), [[Search Engine Optimization (SEO)|Search engine optimization]] (1)
 > **Definitions:** is a  (4)
 > **UI Navigation:** click on (1), go to (1), scroll down (1)
 > **Analogies:** similar to (2), for example (1)
@@ -600,16 +593,15 @@ created: 2026-05-02
 > **Env Vars:** url (1)
 > **Speakers:** - [instructor] (1)
 
-#### Articulating your unique selling point (USP)
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/articulating-your-unique-selling-point-usp?u=76281980)
+#### [Articulating your unique selling point (USP)](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/articulating-your-unique-selling-point-usp?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/articulating-your-unique-selling-point-usp?u=76281980&t=0)** - What makes your product stand out from the rest of the noise in the marketplace?
+> **[0:00](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/articulating-your-unique-selling-point-usp?u=76281980&t=0)** - What makes your product stand out from the [[Representational State Transfer (REST)|rest]] of the noise in the marketplace?
 >
 > **[0:06](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/articulating-your-unique-selling-point-usp?u=76281980&t=6)** This is your USP.
 >
-> **[0:08](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/articulating-your-unique-selling-point-usp?u=76281980&t=8)** And you want to make sure that you are articulating this enough in your marketing to help encourage sales and to help you to stand out from the rest of the products in your marketplace.
+> **[0:08](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/articulating-your-unique-selling-point-usp?u=76281980&t=8)** And you want to make sure that you are articulating this enough in your marketing to help encourage sales and to help you to stand out from the rest of the [[Microsoft Products|products]] in your marketplace.
 >
 > **[0:20](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/articulating-your-unique-selling-point-usp?u=76281980&t=20)** Potentially, it could be your product ergonomics.
 >
@@ -643,15 +635,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (8), [[Representational State Transfer (REST)|Rest]] (3), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[Microsoft Products|Products]] (2)
 > **Env Vars:** usp (5)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - what (1)
 
-#### Sales copy for successful ecommerce
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/sales-copy-for-successful-ecommerce?u=76281980)
+#### [Sales copy for successful ecommerce](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/sales-copy-for-successful-ecommerce?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -661,7 +652,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/sales-copy-for-successful-ecommerce?u=76281980&t=15)** Sales copy is enticing language that encourages your website visitors to take specific actions on your website.
 >
-> **[0:22](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/sales-copy-for-successful-ecommerce?u=76281980&t=22)** You can utilize sales copy in many different places within your marketing, including on your sales pages, your email marketing, and even within your online ads.
+> **[0:22](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/sales-copy-for-successful-ecommerce?u=76281980&t=22)** You can utilize sales copy in many different places within your marketing, including on your sales pages, your [[Email Marketing]], and even within your online ads.
 >
 > **[0:34](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/sales-copy-for-successful-ecommerce?u=76281980&t=34)** You want to think about your target customers, and really start to get to know them.
 >
@@ -691,7 +682,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Email Marketing]] (1), product (1)
+> **Frameworks & Libraries:** [[Email Marketing]] (1)
 > **CLI Commands:** make (5)
 > **Speakers:** - as (1)
 
@@ -700,8 +691,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Navigating free traffic in ecommerce
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/navigating-free-traffic-in-ecommerce?u=76281980)
+#### [Navigating free traffic in ecommerce](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/navigating-free-traffic-in-ecommerce?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -709,11 +699,11 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/navigating-free-traffic-in-ecommerce?u=76281980&t=5)** It can also ensure that your website visitors come to your website passively after you have built your free traffic sources effectively.
 >
-> **[0:14](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/navigating-free-traffic-in-ecommerce?u=76281980&t=14)** The most common forms of free traffic include: SEO or search engine optimization, social media and YouTube.
+> **[0:14](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/navigating-free-traffic-in-ecommerce?u=76281980&t=14)** The most common [[Forms]] of free traffic include: SEO or [[Search Engine Optimization (SEO)|search engine optimization]], social media and YouTube.
 >
 > **[0:22](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/navigating-free-traffic-in-ecommerce?u=76281980&t=22)** SEO is the ability to rank your website in the major search engines.
 >
-> **[0:27](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/navigating-free-traffic-in-ecommerce?u=76281980&t=27)** This is great because if you are able to rank for the first page of Google for keywords that relate to the product you are selling, this is likely to drive traffic consistently to your website.
+> **[0:27](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/navigating-free-traffic-in-ecommerce?u=76281980&t=27)** This is great because if you are able to rank for the first page of [[Google]] for keywords that relate to the product you are selling, this is likely to drive traffic consistently to your website.
 >
 > **[0:38](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/navigating-free-traffic-in-ecommerce?u=76281980&t=38)** Ranking in Google is not easy.
 >
@@ -729,7 +719,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/navigating-free-traffic-in-ecommerce?u=76281980&t=75)** This not only helps to improve your SEO, but also increases your chances of converting more of your website visitors into actual customers.
 >
-> **[1:25](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/navigating-free-traffic-in-ecommerce?u=76281980&t=85)** Social media and YouTube marketing is great for you to build trust with your potential customers, but using content on a consistent basis attracts your ideal customer to your profile and this makes them more likely to make a purchase from your website when you promote your products and your services.
+> **[1:25](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/navigating-free-traffic-in-ecommerce?u=76281980&t=85)** Social media and YouTube marketing is great for you to build trust with your potential customers, but using content on a consistent basis attracts your ideal customer to your profile and this makes them more likely to make a purchase from your website when you promote your [[Microsoft Products|products]] and your services.
 >
 > **[1:44](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/navigating-free-traffic-in-ecommerce?u=76281980&t=104)** A few top tips to building an audience on YouTube or social media include: producing content on a consistent basis, producing quality content, which means content that either educates, inspires, or entertains your target audience, and ensuring that your content is discoverable.
 >
@@ -747,14 +737,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (8), [[Google]] (5), seo (3), [[Forms]] (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[Google]] (5), [[Forms]] (2), [[Search Engine Optimization (SEO)|Search engine optimization]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** seo (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### SEO for ecommerce websites
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/seo-for-ecommerce-websites?u=76281980)
+#### [SEO for ecommerce websites](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/seo-for-ecommerce-websites?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -764,7 +753,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/seo-for-ecommerce-websites?u=76281980&t=7)** Think about it this way.
 >
-> **[0:09](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/seo-for-ecommerce-websites?u=76281980&t=9)** We use search engines like Google because they return relevant and trustworthy websites.
+> **[0:09](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/seo-for-ecommerce-websites?u=76281980&t=9)** We use search engines like [[Google]] because they return relevant and trustworthy websites.
 >
 > **[0:15](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/seo-for-ecommerce-websites?u=76281980&t=15)** Search engines have a high reputation to uphold.
 >
@@ -772,7 +761,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/seo-for-ecommerce-websites?u=76281980&t=26)** There are a few key factors that help to determine how well your website will perform in search engines.
 >
-> **[0:32](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/seo-for-ecommerce-websites?u=76281980&t=32)** These include user experience.
+> **[0:32](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/seo-for-ecommerce-websites?u=76281980&t=32)** These include [[User Experience (UX)|user experience]].
 >
 > **[0:35](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/seo-for-ecommerce-websites?u=76281980&t=35)** Does your website load quickly enough?
 >
@@ -808,14 +797,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (6), seo (2), [[Google]] (2), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** seo (2), ssl (1), url (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Building brand awareness on social media
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/building-brand-awareness-on-social-media?u=76281980)
+#### [Building brand awareness on social media](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/building-brand-awareness-on-social-media?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -857,7 +845,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/building-brand-awareness-on-social-media?u=76281980&t=132)** Social media is also about visibility online.
 >
-> **[2:16](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/building-brand-awareness-on-social-media?u=76281980&t=136)** If you're using platforms like Instagram or LinkedIn, then make sure you make use of hashtags, collaborate as well with other creators on those platforms.
+> **[2:16](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/building-brand-awareness-on-social-media?u=76281980&t=136)** If you're using platforms like Instagram or [[LinkedIn]], then make sure you make use of hashtags, collaborate as well with other creators on those platforms.
 >
 > **[2:26](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/building-brand-awareness-on-social-media?u=76281980&t=146)** If you are blogging or utilizing YouTube, then make use of keywords so you can be discovered when people are searching for topics that you are creating content for.
 >
@@ -865,25 +853,24 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/building-brand-awareness-on-social-media?u=76281980&t=167)** Metrics such as how many followers you have and how many views and likes you have may not necessarily translate into tangible business numbers.
 >
-> **[2:57](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/building-brand-awareness-on-social-media?u=76281980&t=177)** Keep an eye on how well your social media marketing is actually translating into visitors and website sales.
+> **[2:57](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/building-brand-awareness-on-social-media?u=76281980&t=177)** Keep an eye on how well your [[Social Media Marketing]] is actually translating into visitors and website sales.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1), [[LinkedIn]] (1), business (1), [[Social Media Marketing]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Social Media Marketing]] (1)
 > **CLI Commands:** make (6)
 > **Analogies:** for example (1), such as (1)
 > **Cross-References:** coming up (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - i (1)
 
-#### YouTube marketing for ecommerce
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/youtube-marketing-for-ecommerce?u=76281980)
+#### [YouTube marketing for ecommerce](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/youtube-marketing-for-ecommerce?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/youtube-marketing-for-ecommerce?u=76281980&t=1)** - [Narrator] YouTube happens to be the second largest search engine in the world.
 >
-> **[0:04](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/youtube-marketing-for-ecommerce?u=76281980&t=4)** And if you are running an e-commerce business, it could be a great platform for you to build up an audience and to promote your products.
+> **[0:04](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/youtube-marketing-for-ecommerce?u=76281980&t=4)** And if you are running an [[E-Commerce]] business, it could be a great platform for you to build up an audience and to promote your [[Microsoft Products|products]].
 >
 > **[0:12](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/youtube-marketing-for-ecommerce?u=76281980&t=12)** So there's a number of things that you can do on YouTube first and foremost, to research what videos might be popular for you.
 >
@@ -895,7 +882,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/youtube-marketing-for-ecommerce?u=76281980&t=37)** So YouTube will suggest to you key words, and these are not here by accident.
 >
-> **[0:41](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/youtube-marketing-for-ecommerce?u=76281980&t=41)** These are here because enough people have typed this in, in the past for Google to be suggesting that to you.
+> **[0:41](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/youtube-marketing-for-ecommerce?u=76281980&t=41)** These are here because enough people have typed this in, in the past for [[Google]] to be suggesting that to you.
 >
 > **[0:47](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/youtube-marketing-for-ecommerce?u=76281980&t=47)** So these are suggested keywords that you may want to use in your videos.
 >
@@ -927,7 +914,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/youtube-marketing-for-ecommerce?u=76281980&t=133)** So I also wanted to break down some really important aspects of creating a YouTube video.
 >
-> **[2:19](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/youtube-marketing-for-ecommerce?u=76281980&t=139)** And I'm actually on LinkedIn's YouTube channel.
+> **[2:19](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/youtube-marketing-for-ecommerce?u=76281980&t=139)** And I'm actually on [[LinkedIn]]'s YouTube channel.
 >
 > **[2:24](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/youtube-marketing-for-ecommerce?u=76281980&t=144)** And if you click on any channel that is a competitor of yours, then you can go to their videos.
 >
@@ -981,7 +968,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), [[E-Commerce]] (3), [[Google]] (3), business (2), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[E-Commerce]] (3), [[Google]] (3), [[Microsoft Products|Products]] (2), [[LinkedIn]] (1)
 > **UI Navigation:** click on (3), go to (2), scroll down (1)
 > **Definitions:** is a  (4), is an  (1), known as (1)
 > **CLI Commands:** make (2)
@@ -989,16 +976,15 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [narrator] (1)
 
-#### Blogging for ecommerce
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/blogging-for-ecommerce?u=76281980)
+#### [Blogging for ecommerce](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/blogging-for-ecommerce?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/blogging-for-ecommerce?u=76281980&t=0)** - [Instructor] The more pages you have on your e-commerce website, the more opportunities you have to be found in search.
+> **[0:00](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/blogging-for-ecommerce?u=76281980&t=0)** - [Instructor] The more pages you have on your [[E-Commerce]] website, the more opportunities you have to be found in search.
 >
-> **[0:06](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/blogging-for-ecommerce?u=76281980&t=6)** This is because search engines like Google don't rank entire websites, but they rank individual web pages at a time.
+> **[0:06](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/blogging-for-ecommerce?u=76281980&t=6)** This is because search engines like [[Google]] don't rank entire websites, but they rank individual web pages at a time.
 >
-> **[0:16](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/blogging-for-ecommerce?u=76281980&t=16)** How do you create more pages seamlessly for your e-commerce site, especially if you have limited products?
+> **[0:16](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/blogging-for-ecommerce?u=76281980&t=16)** How do you create more pages seamlessly for your e-commerce site, especially if you have limited [[Microsoft Products|products]]?
 >
 > **[0:23](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/blogging-for-ecommerce?u=76281980&t=23)** Well, the best way to do this is to start a blog.
 >
@@ -1044,7 +1030,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7), [[E-Commerce]] (6), [[Search]] (4), product (4), traffic (3)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7), [[E-Commerce]] (6), [[Google]] (1)
 > **URLs:** [answerthepublic.com](https://answerthepublic.com) (5)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1)
@@ -1057,18 +1043,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Driving paid traffic for ecommerce
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/driving-paid-traffic-for-ecommerce?u=76281980)
+#### [Driving paid traffic for ecommerce](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/driving-paid-traffic-for-ecommerce?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/driving-paid-traffic-for-ecommerce?u=76281980&t=0)** - [Instructor] The ability to drive paid traffic to your e-commerce brand is going to be a really useful skill.
+> **[0:00](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/driving-paid-traffic-for-ecommerce?u=76281980&t=0)** - [Instructor] The ability to drive paid traffic to your [[E-Commerce]] brand is going to be a really useful skill.
 >
 > **[0:07](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/driving-paid-traffic-for-ecommerce?u=76281980&t=7)** There are, however, a few things to keep in mind when considering running paid traffic campaigns.
 >
 > **[0:13](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/driving-paid-traffic-for-ecommerce?u=76281980&t=13)** There are a number of traffic sources that work really well with e-commerce brands and some are a lot more widely used than others.
 >
-> **[0:21](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/driving-paid-traffic-for-ecommerce?u=76281980&t=21)** These traffic sources include Google Ads, which happen to be search intent-based marketing.
+> **[0:21](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/driving-paid-traffic-for-ecommerce?u=76281980&t=21)** These traffic sources include [[Google]] Ads, which happen to be search intent-based marketing.
 >
 > **[0:27](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/driving-paid-traffic-for-ecommerce?u=76281980&t=27)** Google Ads can be costly depending on the keywords that you are targeting.
 >
@@ -1078,7 +1063,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/driving-paid-traffic-for-ecommerce?u=76281980&t=42)** Facebook also own Instagram, so your ads created in the Facebook Ads Manager can actually have a large reach.
 >
-> **[0:49](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/driving-paid-traffic-for-ecommerce?u=76281980&t=49)** LinkedIn is a great opportunity if your products target professionals of specific industries.
+> **[0:49](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/driving-paid-traffic-for-ecommerce?u=76281980&t=49)** [[LinkedIn]] is a great opportunity if your [[Microsoft Products|products]] target professionals of specific industries.
 >
 > **[0:55](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/driving-paid-traffic-for-ecommerce?u=76281980&t=55)** If you are selling a high-end product, then LinkedIn could be a platform that you want to try out.
 >
@@ -1090,7 +1075,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/driving-paid-traffic-for-ecommerce?u=76281980&t=75)** YouTube Video Ads are also currently underused.
 >
-> **[1:19](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/driving-paid-traffic-for-ecommerce?u=76281980&t=79)** They are not as many brands actively competing for ad space on YouTube as there are with other forms of paid ads, and this could potentially create a massive first movers' advantage for you in your industry.
+> **[1:19](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/driving-paid-traffic-for-ecommerce?u=76281980&t=79)** They are not as many brands actively competing for ad space on YouTube as there are with other [[Forms]] of paid ads, and this could potentially create a massive first movers' advantage for you in your industry.
 >
 > **[1:33](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/driving-paid-traffic-for-ecommerce?u=76281980&t=93)** Most big social media platforms offer advertisement opportunities, such as Twitter, TikTok, and Pinterest just to name a few.
 >
@@ -1122,19 +1107,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (5), [[Google]] (3), [[LinkedIn]] (3), [[E-Commerce]] (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[Google]] (3), [[LinkedIn]] (3), [[E-Commerce]] (2), [[Microsoft Products|Products]] (1), [[Forms]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Paid traffic sources
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/paid-traffic-sources?u=76281980)
+#### [Paid traffic sources](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/paid-traffic-sources?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/paid-traffic-sources?u=76281980&t=0)** - With so many paid traffic sources out there, how do you know which one is likely to perform best for your e-commerce business?
+> **[0:00](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/paid-traffic-sources?u=76281980&t=0)** - With so many paid traffic sources out there, how do you know which one is likely to perform best for your [[E-Commerce]] business?
 >
 > **[0:08](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/paid-traffic-sources?u=76281980&t=8)** And how do you know when to pause a campaign if it's not performing the way in which you thought it would?
 >
@@ -1148,7 +1132,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/paid-traffic-sources?u=76281980&t=41)** And you want to be able to give your campaigns the time that they deserve without overspending.
 >
-> **[0:47](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/paid-traffic-sources?u=76281980&t=47)** Now, there's so many different ad campaigns such as Instagram ads, Facebook ads, LinkedIn ads, influencer marketing, just to name a few.
+> **[0:47](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/paid-traffic-sources?u=76281980&t=47)** Now, there's so many different ad campaigns such as Instagram ads, Facebook ads, [[LinkedIn]] ads, influencer marketing, just to name a few.
 >
 > **[0:57](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/paid-traffic-sources?u=76281980&t=57)** You really want to think about where your target customers spend the majority of their time online and invest your ads in those platforms.
 >
@@ -1178,13 +1162,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (6), data (3), [[E-Commerce]] (1), business (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - with (1)
 
-#### Influencer marketing for ecommerce
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/influencer-marketing-for-ecommerce?u=76281980)
+#### [Influencer marketing for ecommerce](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/influencer-marketing-for-ecommerce?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1226,7 +1209,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/influencer-marketing-for-ecommerce?u=76281980&t=103)** Think about it this way, if you pay an influencer to promote your product, then there's no more incentive for them to drive you sales.
 >
-> **[1:51](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/influencer-marketing-for-ecommerce?u=76281980&t=111)** But if they get a financial kickback from promoting your products, then they are a lot more likely to put a little bit more effort and energy into it.
+> **[1:51](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/influencer-marketing-for-ecommerce?u=76281980&t=111)** But if they get a financial kickback from promoting your [[Microsoft Products|products]], then they are a lot more likely to put a little bit more effort and energy into it.
 >
 > **[2:01](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/influencer-marketing-for-ecommerce?u=76281980&t=121)** As well as this, even after you have paid your influencer, if they are a part of your affiliate program, then they may be incentivized to promote it again to generate more results for them.
 >
@@ -1238,18 +1221,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - influencer (1)
 
-#### Attracting affiliates to your ecommerce store
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/attracting-affiliates-to-your-ecommerce-store?u=76281980)
+#### [Attracting affiliates to your ecommerce store](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/attracting-affiliates-to-your-ecommerce-store?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/attracting-affiliates-to-your-ecommerce-store?u=76281980&t=0)** - [Narrator] Wouldn't it be great if you could sit back and let somebody else market your products for you and you only pay them when they successfully generate a sale?
+> **[0:00](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/attracting-affiliates-to-your-ecommerce-store?u=76281980&t=0)** - [Narrator] Wouldn't it be great if you could sit back and let somebody else market your [[Microsoft Products|products]] for you and you only pay them when they successfully generate a sale?
 >
 > **[0:09](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/attracting-affiliates-to-your-ecommerce-store?u=76281980&t=9)** No, this is not fairy tale, but it's actually real and it's called affiliate marketing.
 >
@@ -1261,7 +1243,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/attracting-affiliates-to-your-ecommerce-store?u=76281980&t=25)** So if you click on the Amazon Associates Program then affiliates can actually sign up to earn money promoting Amazon's products.
 >
-> **[0:32](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/attracting-affiliates-to-your-ecommerce-store?u=76281980&t=32)** So for example, someone might come across your website and maybe they have a large following on YouTube, on Instagram, or maybe they have a big network on LinkedIn.
+> **[0:32](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/attracting-affiliates-to-your-ecommerce-store?u=76281980&t=32)** So for example, someone might come across your website and maybe they have a large following on YouTube, on Instagram, or maybe they have a big network on [[LinkedIn]].
 >
 > **[0:43](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/attracting-affiliates-to-your-ecommerce-store?u=76281980&t=43)** And if they really like your product and they think that their followers would enjoy it too then you can make it easy for people to sign up to your affiliate program by simply creating one and leaving a link to it where people can sign up in the footer of your website.
 >
@@ -1289,7 +1271,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[LinkedIn]] (1), product (1), traffic (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[LinkedIn]] (1)
 > **UI Navigation:** go to (1), click on (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** ecommerce (1)
@@ -1303,18 +1285,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Website conversions in ecommerce
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/website-conversions-in-ecommerce?u=76281980)
+#### [Website conversions in ecommerce](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/website-conversions-in-ecommerce?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/website-conversions-in-ecommerce?u=76281980&t=0)** - [Instructor] A conversion is when someone takes a desired action on your website.
 >
-> **[0:05](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/website-conversions-in-ecommerce?u=76281980&t=5)** In most cases for e-commerce, a conversion will be when someone makes a purchase from your site.
+> **[0:05](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/website-conversions-in-ecommerce?u=76281980&t=5)** In most cases for [[E-Commerce]], a conversion will be when someone makes a purchase from your site.
 >
 > **[0:10](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/website-conversions-in-ecommerce?u=76281980&t=10)** Conversion optimization is when you analyze how well your web pages are currently converting your website visitors into sales and you can use this information to improve your conversion rates.
 >
-> **[0:22](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/website-conversions-in-ecommerce?u=76281980&t=22)** You can use tools such as Google Analytics to identify where your traffic is coming from, what platforms are converting best for you, what keywords are bringing you in the best results, and how you can improve your conversions.
+> **[0:22](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/website-conversions-in-ecommerce?u=76281980&t=22)** You can use tools such as [[Google]] Analytics to identify where your traffic is coming from, what platforms are converting best for you, what keywords are bringing you in the best results, and how you can improve your conversions.
 >
 > **[0:36](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/website-conversions-in-ecommerce?u=76281980&t=36)** Heat maps will show you how your website visitors are currently interacting with your website.
 >
@@ -1328,20 +1309,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[E-Commerce]] (2), web (1), [[Google]] (1), [[Analytics]] (1), traffic (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (2), [[Google]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ecommerce retargeting
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/ecommerce-retargeting?u=76281980)
+#### [Ecommerce retargeting](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/ecommerce-retargeting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/ecommerce-retargeting?u=76281980&t=1)** - Only a very small percentage of your website visitors to your e-commerce website are likely to convert into customers, especially the very first time they visit your website.
+> **[0:01](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/ecommerce-retargeting?u=76281980&t=1)** - Only a very small percentage of your website visitors to your [[E-Commerce]] website are likely to convert into customers, especially the very first time they visit your website.
 >
 > **[0:12](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/ecommerce-retargeting?u=76281980&t=12)** Sometimes people are just not ready to buy yet.
 >
-> **[0:14](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/ecommerce-retargeting?u=76281980&t=14)** And in some instances, they need to take some time to think about whether or not they want to purchase the products.
+> **[0:14](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/ecommerce-retargeting?u=76281980&t=14)** And in some instances, they need to take some time to think about whether or not they want to purchase the [[Microsoft Products|products]].
 >
 > **[0:20](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/ecommerce-retargeting?u=76281980&t=20)** And in that time, they can completely forget about your brand.
 >
@@ -1373,17 +1353,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (3), [[E-Commerce]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (1), known as (1), means that (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - only (1)
 
-#### Email marketing for ecommerce
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/email-marketing-for-ecommerce?u=76281980)
+#### [Email marketing for ecommerce](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/email-marketing-for-ecommerce?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/email-marketing-for-ecommerce?u=76281980&t=1)** - [Instructor] Email marketing is the backbone of any successful e-commerce business.
+> **[0:01](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/email-marketing-for-ecommerce?u=76281980&t=1)** - [Instructor] [[Email Marketing]] is the backbone of any successful [[E-Commerce]] business.
 >
 > **[0:05](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/email-marketing-for-ecommerce?u=76281980&t=5)** It is important that you manage your email marketing in the right way.
 >
@@ -1399,7 +1378,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/email-marketing-for-ecommerce?u=76281980&t=42)** You may be able to build a database of leads.
 >
-> **[0:45](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/email-marketing-for-ecommerce?u=76281980&t=45)** These are prospects who have not made a purchase on your website yet but may have signed up for updates, downloaded a free lead magnet, or signed up to receive a discount for your products.
+> **[0:45](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/email-marketing-for-ecommerce?u=76281980&t=45)** These are prospects who have not made a purchase on your website yet but may have signed up for updates, downloaded a free lead magnet, or signed up to receive a discount for your [[Microsoft Products|products]].
 >
 > **[0:57](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/email-marketing-for-ecommerce?u=76281980&t=57)** These prospects can turn into customers with the right nurturing.
 >
@@ -1423,7 +1402,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Email Marketing]] (3), [[E-Commerce]] (3), [[Microsoft Products|Products]] (3), data (2), database (2)
+> **Frameworks & Libraries:** [[Email Marketing]] (3), [[E-Commerce]] (3), [[Microsoft Products|Products]] (3)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -1434,14 +1413,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing your ecommerce learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/continuing-your-ecommerce-learning?u=76281980)
+#### [Continuing your ecommerce learning](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/continuing-your-ecommerce-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/continuing-your-ecommerce-learning?u=76281980&t=0)** - A huge congratulations on getting to the very end of this course on e-commerce [[Marketing Foundations]].
+> **[0:00](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/continuing-your-ecommerce-learning?u=76281980&t=0)** - A huge congratulations on getting to the very end of this course on [[E-Commerce]] [[Marketing Foundations]].
 >
-> **[0:07](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/continuing-your-ecommerce-learning?u=76281980&t=7)** You can continue your learning by watching some of my other courses here on LinkedIn Learning.
+> **[0:07](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/continuing-your-ecommerce-learning?u=76281980&t=7)** You can continue your learning by watching some of my other courses here on [[LinkedIn]] Learning.
 >
 > **[0:12](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/continuing-your-ecommerce-learning?u=76281980&t=12)** I also have a YouTube channel where I share up-to-date marketing tips and strategies.
 >

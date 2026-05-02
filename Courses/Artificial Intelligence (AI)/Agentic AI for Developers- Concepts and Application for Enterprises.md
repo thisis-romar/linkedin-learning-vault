@@ -110,8 +110,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building your own AI agent
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/building-your-own-ai-agent?u=76281980)
+#### [Building your own AI agent](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/building-your-own-ai-agent?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -123,19 +122,18 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/building-your-own-ai-agent?u=76281980&t=9)** In this course, we will go over the basics of building an agentic AI system.
 >
-> **[0:14](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/building-your-own-ai-agent?u=76281980&t=14)** We will cover the components of the system, design patterns, and actually implement your first AI agent.
+> **[0:14](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/building-your-own-ai-agent?u=76281980&t=14)** We will cover the components of the system, [[Design Patterns]], and actually implement your first AI agent.
 >
 > **[0:22](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/building-your-own-ai-agent?u=76281980&t=22)** We will also look at practical use cases for a variety of industries.
 >
-> **[0:28](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/building-your-own-ai-agent?u=76281980&t=28)** Let's get started with building AI agents.
+> **[0:28](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/building-your-own-ai-agent?u=76281980&t=28)** Let's get started with building [[AI Agents]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), power (1), business (1), [[Design Patterns]] (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (1), [[AI Agents]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Course coverage and prerequisites
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/course-coverage-pre-requisites?u=76281980)
+#### [Course coverage and prerequisites](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/course-coverage-pre-requisites?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -155,7 +153,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/course-coverage-pre-requisites?u=76281980&t=37)** We will also implement a few of them in the exercises.
 >
-> **[0:42](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/course-coverage-pre-requisites?u=76281980&t=42)** Then we explore popular use cases for AI agents across multiple industries.
+> **[0:42](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/course-coverage-pre-requisites?u=76281980&t=42)** Then we explore popular use cases for [[AI Agents]] across multiple industries.
 >
 > **[0:48](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/course-coverage-pre-requisites?u=76281980&t=48)** We have two sets of examples for agents.
 >
@@ -163,21 +161,21 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/course-coverage-pre-requisites?u=76281980&t=61)** What are the course prerequisites?
 >
-> **[1:03](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/course-coverage-pre-requisites?u=76281980&t=63)** An understanding of generative AI concepts is required to take this course as agentic AI is part of generative AI.
+> **[1:03](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/course-coverage-pre-requisites?u=76281980&t=63)** An understanding of [[Generative AI]] concepts is required to take this course as agentic AI is part of generative AI.
 >
-> **[1:12](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/course-coverage-pre-requisites?u=76281980&t=72)** Familiarity with large language models and embeddings and experience building applications with them is also essential for the course.
+> **[1:12](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/course-coverage-pre-requisites?u=76281980&t=72)** Familiarity with [[Large Language Models (LLM)|large language models]] and embeddings and experience building applications with them is also essential for the course.
 >
-> **[1:22](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/course-coverage-pre-requisites?u=76281980&t=82)** We will use Python programming for the exercises.
+> **[1:22](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/course-coverage-pre-requisites?u=76281980&t=82)** We will use [[Python (Programming Language)|Python]] programming for the exercises.
 >
 > **[1:26](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/course-coverage-pre-requisites?u=76281980&t=86)** The exercises will be built using Jupyter Notebooks, so programming skills with Python are required.
 >
-> **[1:35](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/course-coverage-pre-requisites?u=76281980&t=95)** The examples are built using LlamaIndex framework, so familiarity with this framework is also desired.
+> **[1:35](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/course-coverage-pre-requisites?u=76281980&t=95)** The examples are built using [[LlamaIndex]] framework, so familiarity with this framework is also desired.
 >
 > **[1:42](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/course-coverage-pre-requisites?u=76281980&t=102)** With that being said, let's now dive into the course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[Generative AI]] (2), [[Python (Programming Language)|Python]] (2), [[Programming]] (2), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Python (Programming Language)|Python]] (2), [[AI Agents]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[LlamaIndex]] (1)
 > **CLI Commands:** python (2), make (1)
 > **Env Vars:** llms (1)
 > **Tools:** jupyter (1)
@@ -190,8 +188,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Basic GenAI uses and limitations
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/basic-gen-ai-uses-limitations?u=76281980)
+#### [Basic GenAI uses and limitations](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/basic-gen-ai-uses-limitations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -199,7 +196,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/basic-gen-ai-uses-limitations?u=76281980&t=3)** In this chapter, we will introduce the concept of agents with an example.
 >
-> **[0:09](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/basic-gen-ai-uses-limitations?u=76281980&t=9)** We begin with a review of generative AI.
+> **[0:09](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/basic-gen-ai-uses-limitations?u=76281980&t=9)** We begin with a review of [[Generative AI]].
 >
 > **[0:12](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/basic-gen-ai-uses-limitations?u=76281980&t=12)** In order to differentiate from agentic AI, we will call the use of LLMs to generate content as basic GenAI.
 >
@@ -233,18 +230,17 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/basic-gen-ai-uses-limitations?u=76281980&t=126)** Hallucinations have limited the use of GenAI in critical applications requiring human intervention.
 >
-> **[2:14](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/basic-gen-ai-uses-limitations?u=76281980&t=134)** Finally, ethics and bias are key considerations when using GenAI.
+> **[2:14](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/basic-gen-ai-uses-limitations?u=76281980&t=134)** Finally, [[Ethics]] and bias are key considerations when using GenAI.
 >
 > **[2:20](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/basic-gen-ai-uses-limitations?u=76281980&t=140)** Agentic AI is the next revolution in GenAI that helps overcome some of the key limitations and help expand the use of GenAI to more industrial grade applications.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (2), ai (2), [[Security]] (2), business (1), llm (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Ethics]] (1)
 > **Env Vars:** llm (1), rag (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is agentic AI?
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/what-is-agentic-ai?u=76281980)
+#### [What is agentic AI?](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/what-is-agentic-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -260,7 +256,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/what-is-agentic-ai?u=76281980&t=16)** Agency is the ability for a person or entity to act independently.
 >
-> **[0:22](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/what-is-agentic-ai?u=76281980&t=22)** This means independent data collection, analysis, decision making, and acting upon those decisions.
+> **[0:22](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/what-is-agentic-ai?u=76281980&t=22)** This means independent [[Data Collection]], analysis, decision making, and acting upon those decisions.
 >
 > **[0:30](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/what-is-agentic-ai?u=76281980&t=30)** Agency is what differentiates agentic AI from basic GenAI.
 >
@@ -292,13 +288,13 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/what-is-agentic-ai?u=76281980&t=126)** An agent may or may not interact with a human.
 >
-> **[2:10](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/what-is-agentic-ai?u=76281980&t=130)** What are some of the key characteristics of AI agents?
+> **[2:10](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/what-is-agentic-ai?u=76281980&t=130)** What are some of the key characteristics of [[AI Agents]]?
 >
 > **[2:14](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/what-is-agentic-ai?u=76281980&t=134)** Agents take natural language inputs and provide natural language outputs.
 >
 > **[2:20](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/what-is-agentic-ai?u=76281980&t=140)** This is similar to LLMs.
 >
-> **[2:22](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/what-is-agentic-ai?u=76281980&t=142)** They may also handle other forms of inputs and outputs, like audio, images, and video.
+> **[2:22](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/what-is-agentic-ai?u=76281980&t=142)** They may also handle other [[Forms]] of inputs and outputs, like audio, images, and video.
 >
 > **[2:29](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/what-is-agentic-ai?u=76281980&t=149)** Agents exhibit autonomy in planning and execution.
 >
@@ -318,15 +314,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), data (1), llm (1), next (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Data Collection]] (1), [[AI Agents]] (1), [[Forms]] (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (3), is an  (1)
 > **Env Vars:** llm (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [narrator] (1)
 
-#### An agentic AI example
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/an-agentic-ai-example?u=76281980)
+#### [An agentic AI example](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/an-agentic-ai-example?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -362,19 +357,18 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/an-agentic-ai-example?u=76281980&t=88)** The AI agent would use the LLM at each stage of the workflow, whether to diagnose the problem, propose a fix, or implement the change in code.
 >
-> **[1:38](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/an-agentic-ai-example?u=76281980&t=98)** It will also have integrations with code repositories like GitHub, and deployment tools like Jenkins, through which the changes will be made and deployed.
+> **[1:38](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/an-agentic-ai-example?u=76281980&t=98)** It will also have integrations with code repositories like [[GitHub]], and deployment tools like [[Jenkins]], through which the changes will be made and deployed.
 >
 > **[1:49](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/an-agentic-ai-example?u=76281980&t=109)** We will explore more on how this is achieved in agentic AI throughout the course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), llm (3), [[Troubleshooting]] (2), [[GitHub]] (1), [[Jenkins]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[Jenkins]] (1)
 > **Env Vars:** llm (3)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
-#### Benefits and challenges of agentic AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/benefits-challenges-of-agentic-ai?u=76281980)
+#### [Benefits and challenges of agentic AI](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/benefits-challenges-of-agentic-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -388,13 +382,13 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/benefits-challenges-of-agentic-ai?u=76281980&t=21)** Agents can assist individuals in automating process oriented tasks.
 >
-> **[0:26](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/benefits-challenges-of-agentic-ai?u=76281980&t=26)** This includes writing emails, filling out forms, and summarizing data.
+> **[0:26](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/benefits-challenges-of-agentic-ai?u=76281980&t=26)** This includes writing emails, filling out [[Forms]], and summarizing data.
 >
 > **[0:32](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/benefits-challenges-of-agentic-ai?u=76281980&t=32)** This allows the individuals to focus on more productive initiatives.
 >
 > **[0:36](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/benefits-challenges-of-agentic-ai?u=76281980&t=36)** Agents can adapt to changing inputs and environments and can learn by using short and long-term memory.
 >
-> **[0:44](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/benefits-challenges-of-agentic-ai?u=76281980&t=44)** They can provide enhanced user experience than basic LLMs by providing multi-term conversation and context use.
+> **[0:44](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/benefits-challenges-of-agentic-ai?u=76281980&t=44)** They can provide enhanced [[User Experience (UX)|user experience]] than basic LLMs by providing multi-term conversation and context use.
 >
 > **[0:53](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/benefits-challenges-of-agentic-ai?u=76281980&t=53)** Agents can help with complex problem solving by analyzing input data across a variety of sources and detecting trends.
 >
@@ -414,7 +408,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/benefits-challenges-of-agentic-ai?u=76281980&t=108)** This means that any mistakes made by the agents may go unnoticed and may have disastrous impact to the business.
 >
-> **[1:56](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/benefits-challenges-of-agentic-ai?u=76281980&t=116)** Regulations and governance around GenAI and AI agents are coming up.
+> **[1:56](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/benefits-challenges-of-agentic-ai?u=76281980&t=116)** Regulations and governance around GenAI and [[AI Agents]] are coming up.
 >
 > **[2:02](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/benefits-challenges-of-agentic-ai?u=76281980&t=122)** Conformance to these requirements is required for businesses to use agents.
 >
@@ -426,18 +420,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), data (3), [[Forms]] (1), [[User Experience (UX)|User experience]] (1), llm (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[User Experience (UX)|User experience]] (1), [[AI Agents]] (1)
 > **Env Vars:** llm (1)
 > **Cross-References:** coming up (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Technologies for agentic AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/technologies-for-agentic-ai?u=76281980)
+#### [Technologies for agentic AI](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/technologies-for-agentic-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/technologies-for-agentic-ai?u=76281980&t=0)** - [Instructor] What technologies exist today that allow enterprises to build reliable AI agents in a short period of time?
+> **[0:00](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/technologies-for-agentic-ai?u=76281980&t=0)** - [Instructor] What technologies exist today that allow enterprises to build reliable [[AI Agents]] in a short period of time?
 >
 > **[0:08](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/technologies-for-agentic-ai?u=76281980&t=8)** There are several frameworks and technologies that are emerging for agentic AI.
 >
@@ -447,23 +440,23 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/technologies-for-agentic-ai?u=76281980&t=27)** Let's quickly review the list of popular frameworks for agentic AI.
 >
-> **[0:32](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/technologies-for-agentic-ai?u=76281980&t=32)** LangGraph is an orchestration framework from LangChain.
+> **[0:32](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/technologies-for-agentic-ai?u=76281980&t=32)** LangGraph is an orchestration framework from [[LangChain]].
 >
 > **[0:36](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/technologies-for-agentic-ai?u=76281980&t=36)** This allows us to build agentic workflows using the LangChain framework.
 >
-> **[0:41](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/technologies-for-agentic-ai?u=76281980&t=41)** AutoGen is a framework from Microsoft that allows building multi-agent conversations.
+> **[0:41](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/technologies-for-agentic-ai?u=76281980&t=41)** AutoGen is a framework from [[Microsoft]] that allows building multi-agent conversations.
 >
 > **[0:47](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/technologies-for-agentic-ai?u=76281980&t=47)** CrewAI is a platform to build agents and multi-agent systems.
 >
-> **[0:52](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/technologies-for-agentic-ai?u=76281980&t=52)** LlamaIndex also has an agent framework for building agentic AI applications.
+> **[0:52](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/technologies-for-agentic-ai?u=76281980&t=52)** [[LlamaIndex]] also has an agent framework for building agentic AI applications.
 >
 > **[0:58](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/technologies-for-agentic-ai?u=76281980&t=58)** We will leverage LlamaIndex to build examples in this course.
 >
-> **[1:03](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/technologies-for-agentic-ai?u=76281980&t=63)** In addition, Amazon bedrock, Vertex AI, and Azure Open AI have agent builder tools, deployment modules, and run times.
+> **[1:03](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/technologies-for-agentic-ai?u=76281980&t=63)** In addition, Amazon bedrock, [[Vertex]] AI, and [[Microsoft Azure|Azure]] Open AI have agent builder tools, deployment modules, and run times.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), [[LangChain]] (2), [[LlamaIndex]] (2), llm (1), rag (1)
+> **Frameworks & Libraries:** [[LangChain]] (2), [[LlamaIndex]] (2), [[AI Agents]] (1), [[Microsoft]] (1), [[Vertex]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** llm (1), rag (1)
 > **Speakers:** - [instructor] (1)
@@ -473,8 +466,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Components of an agentic AI system
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/components-of-an-agentic-ai-system?u=76281980)
+#### [Components of an agentic AI system](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/components-of-an-agentic-ai-system?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -528,7 +520,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/components-of-an-agentic-ai-system?u=76281980&t=140)** A Function is a software function that gets called with specific inputs.
 >
-> **[2:25](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/components-of-an-agentic-ai-system?u=76281980&t=145)** A function's capabilities can range from simple computation to talking to other microservices, or even third party cloud services to achieve the goals.
+> **[2:25](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/components-of-an-agentic-ai-system?u=76281980&t=145)** A function's capabilities can range from simple computation to talking to other [[Microservices]], or even third party [[Cloud Services]] to achieve the goals.
 >
 > **[2:36](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/components-of-an-agentic-ai-system?u=76281980&t=156)** Another agent can also be a tool that this agent can delegate some of the tasks.
 >
@@ -548,13 +540,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), llm (4), rag (2), prompt (1), data (1)
+> **Frameworks & Libraries:** [[Microservices]] (1), [[Cloud Services]] (1)
 > **Env Vars:** llm (4), rag (2), llms (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Goals in agentic AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/goals-in-agentic-ai?u=76281980)
+#### [Goals in agentic AI](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/goals-in-agentic-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -592,7 +583,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/goals-in-agentic-ai?u=76281980&t=97)** To do this, additional tools are needed, like access to a log file repository, some knowledge basis and code basis.
 >
-> **[1:45](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/goals-in-agentic-ai?u=76281980&t=105)** Analyzing a GitHub project for memory leaks and fixing them is a multi-step process.
+> **[1:45](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/goals-in-agentic-ai?u=76281980&t=105)** Analyzing a [[GitHub]] project for memory leaks and fixing them is a multi-step process.
 >
 > **[1:51](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/goals-in-agentic-ai?u=76281980&t=111)** This requires a tool to retrieve code from GitHub, and the LLM can then analyze the code to find memory leaks.
 >
@@ -610,7 +601,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (3), [[GitHub]] (3), ai (2), application (1), next (1)
+> **Frameworks & Libraries:** [[GitHub]] (3)
 > **CLI Commands:** find (3)
 > **Env Vars:** llm (3)
 > **Tools:** github (3)
@@ -619,8 +610,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Prerequisites:** set up (1)
 
-#### Planner in agentic AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/planner-in-agentic-ai?u=76281980)
+#### [Planner in agentic AI](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/planner-in-agentic-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -680,7 +670,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/planner-in-agentic-ai?u=76281980&t=169)** For the planner to use the LLM, the right set of instruction should be given to the LLM.
 >
-> **[2:55](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/planner-in-agentic-ai?u=76281980&t=175)** Hence, prompt engineering is a key factor in building the planner.
+> **[2:55](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/planner-in-agentic-ai?u=76281980&t=175)** Hence, [[Prompt Engineering]] is a key factor in building the planner.
 >
 > **[2:59](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/planner-in-agentic-ai?u=76281980&t=179)** Calling the LLM many times when executing a goal also results in high LLM usage costs.
 >
@@ -692,21 +682,20 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/planner-in-agentic-ai?u=76281980&t=207)** The required output content and format and any LLM hyperparameters can also be provided.
 >
-> **[3:34](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/planner-in-agentic-ai?u=76281980&t=214)** Using this, the LLM then analyzes the inputs and generates several outputs, including the next task to execute, tools to use, any routing choices, parameters to function calls in tools, intermediary output for a given task, and also the final output to the user.
+> **[3:34](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/planner-in-agentic-ai?u=76281980&t=214)** Using this, the LLM then analyzes the inputs and generates several outputs, including the next task to execute, tools to use, any [[Routing]] choices, parameters to function calls in tools, intermediary output for a given task, and also the final output to the user.
 >
 > **[3:53](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/planner-in-agentic-ai?u=76281980&t=233)** We will explore these in the examples in later chapters.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (12), ai (3), next (3), [[Prompt Engineering]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Prompt Engineering]] (1), [[Routing]] (1)
 > **Env Vars:** llm (12)
 > **Prerequisites:** required to (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Orchestrator and executor in agentic AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/orchestrator-executor-in-agentic-ai?u=76281980)
+#### [Orchestrator and executor in agentic AI](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/orchestrator-executor-in-agentic-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -744,13 +733,13 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/orchestrator-executor-in-agentic-ai?u=76281980&t=110)** To execute tasks, it leverages the tool setup in the agent.
 >
-> **[1:55](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/orchestrator-executor-in-agentic-ai?u=76281980&t=115)** The executor is familiar with how to interface with the tools, whether they are function calls, REST API calls, or queue interfaces.
+> **[1:55](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/orchestrator-executor-in-agentic-ai?u=76281980&t=115)** The executor is familiar with how to interface with the tools, whether they are function calls, [[Representational State Transfer (REST)|REST]] API calls, or queue interfaces.
 >
 > **[2:04](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/orchestrator-executor-in-agentic-ai?u=76281980&t=124)** It invokes the tools, providing them the necessary inputs and collects the outputs back.
 >
 > **[2:10](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/orchestrator-executor-in-agentic-ai?u=76281980&t=130)** This is then sent back to the orchestrator.
 >
-> **[2:13](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/orchestrator-executor-in-agentic-ai?u=76281980&t=133)** The executor can also conduct routing of goals as well as perform reflections on the results.
+> **[2:13](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/orchestrator-executor-in-agentic-ai?u=76281980&t=133)** The executor can also conduct [[Routing]] of goals as well as perform reflections on the results.
 >
 > **[2:20](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/orchestrator-executor-in-agentic-ai?u=76281980&t=140)** The responsibilities between the orchestrator and the task executor are interchangeable.
 >
@@ -814,13 +803,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (5), prompt (3), ai (1), [[Representational State Transfer (REST)|Rest]] (1), api (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Routing]] (1)
 > **Env Vars:** llm (5), rest (1), api (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tools in agentic AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/tools-in-agentic-ai?u=76281980)
+#### [Tools in agentic AI](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/tools-in-agentic-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -840,11 +828,11 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/tools-in-agentic-ai?u=76281980&t=33)** Any service or application that can be integrated with can become a potential tool.
 >
-> **[0:39](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/tools-in-agentic-ai?u=76281980&t=39)** Tools can be knowledge basis like retrieval-augmented generation, or RAG systems.
+> **[0:39](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/tools-in-agentic-ai?u=76281980&t=39)** Tools can be knowledge basis like [[Retrieval-Augmented Generation (RAG)|retrieval-augmented generation]], or RAG systems.
 >
 > **[0:45](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/tools-in-agentic-ai?u=76281980&t=45)** This can be used to perform semantic searches to retrieve relevant documents.
 >
-> **[0:50](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/tools-in-agentic-ai?u=76281980&t=50)** It could be databases.
+> **[0:50](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/tools-in-agentic-ai?u=76281980&t=50)** It could be [[Databases]].
 >
 > **[0:52](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/tools-in-agentic-ai?u=76281980&t=52)** The tool can provide, create, retrieve, update, delete operations on data in the database.
 >
@@ -854,11 +842,11 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/tools-in-agentic-ai?u=76281980&t=67)** A function takes inputs and returns outputs to the agent.
 >
-> **[1:11](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/tools-in-agentic-ai?u=76281980&t=71)** Microservices that are part of an enterprise application workflow can also be used as tools.
+> **[1:11](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/tools-in-agentic-ai?u=76281980&t=71)** [[Microservices]] that are part of an enterprise application workflow can also be used as tools.
 >
 > **[1:18](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/tools-in-agentic-ai?u=76281980&t=78)** GenAI models can also be used as tools when they provide a specific function like image generation, video analysis, or translation.
 >
-> **[1:28](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/tools-in-agentic-ai?u=76281980&t=88)** Cloud platforms like Salesforce or Microsoft SharePoint can also be integrated with as tools in agentic AI.
+> **[1:28](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/tools-in-agentic-ai?u=76281980&t=88)** Cloud platforms like Salesforce or [[Microsoft]] [[SharePoint]] can also be integrated with as tools in agentic AI.
 >
 > **[1:36](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/tools-in-agentic-ai?u=76281980&t=96)** Finally, it could be another AI agent.
 >
@@ -876,19 +864,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), cloud (2), application (2), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1), rag (1)
+> **Frameworks & Libraries:** [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1), [[Databases]] (1), [[Microservices]] (1), [[Microsoft]] (1), [[SharePoint]] (1)
 > **Env Vars:** rag (1), llm (1)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - [narrator] (1)
 
-#### GenAI models in agentic AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/gen-ai-models-in-agentic-ai?u=76281980)
+#### [GenAI models in agentic AI](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/gen-ai-models-in-agentic-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/gen-ai-models-in-agentic-ai?u=76281980&t=0)** - [Instructor] In this video, let's discuss GenAI models in agentic AI and some considerations for using them.
 >
-> **[0:07](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/gen-ai-models-in-agentic-ai?u=76281980&t=7)** LLMS and GenAI models form a integral part of an AI agent providing intelligence and decision-making capabilities LLMS are considered the brains of AI agents.
+> **[0:07](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/gen-ai-models-in-agentic-ai?u=76281980&t=7)** LLMS and GenAI models form a integral part of an AI agent providing intelligence and [[Decision-Making]] capabilities LLMS are considered the brains of [[AI Agents]].
 >
 > **[0:21](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/gen-ai-models-in-agentic-ai?u=76281980&t=21)** LLMs determine the plan of action for achieving the goals provided to the agent.
 >
@@ -926,13 +913,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), llm (2), [[Decision-Making]] (1), rag (1)
+> **Frameworks & Libraries:** [[AI Agents]] (2), [[Decision-Making]] (1)
 > **Env Vars:** llms (2), llm (2), rag (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Memory in agentic AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/memory-in-agentic-ai?u=76281980)
+#### [Memory in agentic AI](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/memory-in-agentic-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -982,7 +968,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/memory-in-agentic-ai?u=76281980&t=100)** The modified parameters of the model are part of the agent's long-term memory.
 >
-> **[1:46](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/memory-in-agentic-ai?u=76281980&t=106)** Vector databases used in RAG tools also serve as memory.
+> **[1:46](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/memory-in-agentic-ai?u=76281980&t=106)** [[Vector Databases]] used in RAG tools also serve as memory.
 >
 > **[1:50](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/memory-in-agentic-ai?u=76281980&t=110)** This memory serves as a reference knowledge for the agent.
 >
@@ -996,7 +982,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (4), ai (3), next (2), prompt (1), [[Vector Databases]] (1)
+> **Frameworks & Libraries:** [[Vector Databases]] (1)
 > **Env Vars:** llm (4), rag (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1005,8 +991,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### A basic AI agent
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/a-basic-ai-agent?u=76281980)
+#### [A basic AI agent](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/a-basic-ai-agent?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1028,7 +1013,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/a-basic-ai-agent?u=76281980&t=51)** We need to build an assistant to answer questions from these documents.
 >
-> **[0:56](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/a-basic-ai-agent?u=76281980&t=56)** It is easy to build a single index with both these documents, but to demonstrate AI agents, we are going to build two separate indexes with each document going into its own index.
+> **[0:56](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/a-basic-ai-agent?u=76281980&t=56)** It is easy to build a single index with both these documents, but to demonstrate [[AI Agents]], we are going to build two separate indexes with each document going into its own index.
 >
 > **[1:10](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/a-basic-ai-agent?u=76281980&t=70)** When a query comes to this agent, the agent needs to first figure out which index to use to answer the query.
 >
@@ -1038,7 +1023,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/a-basic-ai-agent?u=76281980&t=93)** In this case, its selection of the right index, given two indexes and their capabilities.
 >
-> **[1:40](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/a-basic-ai-agent?u=76281980&t=100)** This is called the routing pattern in agents.
+> **[1:40](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/a-basic-ai-agent?u=76281980&t=100)** This is called the [[Routing]] pattern in agents.
 >
 > **[1:43](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/a-basic-ai-agent?u=76281980&t=103)** We will discuss more about agent patterns later in the course.
 >
@@ -1048,7 +1033,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), product (2), rag (1), [[Routing]] (1), llm (1)
+> **Frameworks & Libraries:** [[AI Agents]] (1), [[Routing]] (1)
 > **Env Vars:** lama (1), llm (1)
 > **Cross-References:** later in (1), in the next (1)
 > **Documentation:** specification (2)
@@ -1056,14 +1041,13 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Router AI agent design
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/router-ai-agent-design?u=76281980)
+#### [Router AI agent design](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/router-ai-agent-design?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/router-ai-agent-design?u=76281980&t=0)** - [Instructor] Let's design the Router AI Agent in this video.
 >
-> **[0:04](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/router-ai-agent-design?u=76281980&t=4)** We will use the agent-related constructs that are provided by LlamaIndex for this design.
+> **[0:04](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/router-ai-agent-design?u=76281980&t=4)** We will use the agent-related constructs that are provided by [[LlamaIndex]] for this design.
 >
 > **[0:10](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/router-ai-agent-design?u=76281980&t=10)** Designing the agent in other agent frameworks may be different based on the constructs provided by those frameworks.
 >
@@ -1097,16 +1081,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (1), [[LlamaIndex]] (1), next (1)
+> **Frameworks & Libraries:** [[LlamaIndex]] (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up the indexes for the router
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/setting-up-the-indexes-for-the-router?u=76281980)
+#### [Setting up the indexes for the router](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/setting-up-the-indexes-for-the-router?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/setting-up-the-indexes-for-the-router?u=76281980&t=0)** - [Instructor] I am going to be using GitHub's Codespaces to run the notebooks.
+> **[0:00](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/setting-up-the-indexes-for-the-router?u=76281980&t=0)** - [Instructor] I am going to be using [[GitHub]]'s [[Codespaces]] to run the notebooks.
 >
 > **[0:05](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/setting-up-the-indexes-for-the-router?u=76281980&t=5)** You can get there by clicking on the link below this video or by going to the course repo and then clicking Code, Codespaces.
 >
@@ -1122,11 +1105,11 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/setting-up-the-indexes-for-the-router?u=76281980&t=41)** We first install all the dependencies required for the exercises.
 >
-> **[0:46](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/setting-up-the-indexes-for-the-router?u=76281980&t=46)** We will install llama-index packages, and we will also use Azure OpenAI as our LLM.
+> **[0:46](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/setting-up-the-indexes-for-the-router?u=76281980&t=46)** We will install [[LlamaIndex|llama-index]] packages, and we will also use [[Microsoft Azure|Azure]] OpenAI as our LLM.
 >
 > **[0:53](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/setting-up-the-indexes-for-the-router?u=76281980&t=53)** Let's run the prerequisites packages install now.
 >
-> **[0:57](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/setting-up-the-indexes-for-the-router?u=76281980&t=57)** I'm going to select Python Environment, and I'm going to select Python 3.10.
+> **[0:57](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/setting-up-the-indexes-for-the-router?u=76281980&t=57)** I'm going to select [[Python (Programming Language)|Python]] Environment, and I'm going to select Python 3.10.
 >
 > **[1:04](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/setting-up-the-indexes-for-the-router?u=76281980&t=64)** To begin, let's set up an LLM connection for the router.
 >
@@ -1174,7 +1157,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (5), [[LlamaIndex|Llama-index]] (3), [[Codespaces]] (2), [[Python (Programming Language)|Python]] (2), next (2)
+> **Frameworks & Libraries:** [[LlamaIndex|Llama-index]] (3), [[Codespaces]] (2), [[Python (Programming Language)|Python]] (2), [[GitHub]] (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** llm (5), gpt (1)
 > **Prerequisites:** set up (3), install (3)
 > **Code Identifiers:** api_key (2), azure_endpoint (1), api_version (1), as_query_engine (1)
@@ -1183,8 +1166,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Tools:** github (1)
 
-#### Setting up the agentic router
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/setting-up-the-agentic-router?u=76281980)
+#### [Setting up the agentic router](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/setting-up-the-agentic-router?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1208,9 +1190,9 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/setting-up-the-agentic-router?u=76281980&t=52)** In this case, we use the router query engine agent type to create an agent.
 >
-> **[0:57](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/setting-up-the-agentic-router?u=76281980&t=57)** LlamaIndex supports other types of agents too, and it is recommended to explore LlamaIndex documentation more to understand these types.
+> **[0:57](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/setting-up-the-agentic-router?u=76281980&t=57)** [[LlamaIndex]] supports other types of agents too, and it is recommended to explore LlamaIndex documentation more to understand these types.
 >
-> **[1:07](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/setting-up-the-agentic-router?u=76281980&t=67)** The selector is the LLM that will be used for making the routing choice.
+> **[1:07](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/setting-up-the-agentic-router?u=76281980&t=67)** The selector is the LLM that will be used for making the [[Routing]] choice.
 >
 > **[1:13](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/setting-up-the-agentic-router?u=76281980&t=73)** The list of tools available to the router agent are provided as the list of tools.
 >
@@ -1222,7 +1204,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (2), [[LlamaIndex]] (2), [[Routing]] (1), next (1)
+> **Frameworks & Libraries:** [[LlamaIndex]] (2), [[Routing]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** llm (2)
 > **Best Practices:** recommended (2)
@@ -1230,8 +1212,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Routing with agentic AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/routing-with-agentic-ai?u=76281980)
+#### [Routing with agentic AI](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/routing-with-agentic-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1245,7 +1226,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/routing-with-agentic-ai?u=76281980&t=20)** Because we have set the variables mode, the router will explain what it is doing and the reasons for its decisions.
 >
-> **[0:28](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/routing-with-agentic-ai?u=76281980&t=28)** We see that it is routing to the first query engine, namely the AeroFlow engine to answer the question.
+> **[0:28](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/routing-with-agentic-ai?u=76281980&t=28)** We see that it is [[Routing]] to the first query engine, namely the AeroFlow engine to answer the question.
 >
 > **[0:37](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/routing-with-agentic-ai?u=76281980&t=37)** It also provides an explanation that it chose the first engine because its profile mentions AeroFlow.
 >
@@ -1265,7 +1246,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (2), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Routing]] (1)
 > **Env Vars:** llm (2)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
@@ -1277,8 +1258,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Reflection pattern in agentic AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/reflection-pattern-in-agentic-ai?u=76281980)
+#### [Reflection pattern in agentic AI](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/reflection-pattern-in-agentic-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1348,18 +1328,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (18), ai (2), rag (1), prompt (1), application (1)
 > **Env Vars:** llm (18), rag (1)
 > **Analogies:** for example (2), similar to (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Router pattern in agentic AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/router-pattern-in-agentic-ai?u=76281980)
+#### [Router pattern in agentic AI](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/router-pattern-in-agentic-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/router-pattern-in-agentic-ai?u=76281980&t=0)** - [Instructor] Let's now discuss the routing pattern in Agentic AI.
+> **[0:00](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/router-pattern-in-agentic-ai?u=76281980&t=0)** - [Instructor] Let's now discuss the [[Routing]] pattern in Agentic AI.
 >
 > **[0:04](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/router-pattern-in-agentic-ai?u=76281980&t=4)** We implemented this pattern in the earlier chapter when we built our first Agentic AI application.
 >
@@ -1409,7 +1387,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (10), llm (7), ai (3), prompt (3), application (1)
+> **Frameworks & Libraries:** [[Routing]] (10)
 > **Env Vars:** llm (7)
 > **CLI Commands:** make (2)
 > **Definitions:** essentially is (1), is an  (1)
@@ -1417,8 +1395,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tool use pattern in agentic AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/tool-use-pattern-in-agentic-ai?u=76281980)
+#### [Tool use pattern in agentic AI](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/tool-use-pattern-in-agentic-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1452,18 +1429,17 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/tool-use-pattern-in-agentic-ai?u=76281980&t=80)** The agent executes the tool with the chosen inputs.
 >
-> **[1:25](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/tool-use-pattern-in-agentic-ai?u=76281980&t=85)** In general, this process is similar to routing except that the LLM now also data mines the parameter values when calling the tool.
+> **[1:25](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/tool-use-pattern-in-agentic-ai?u=76281980&t=85)** In general, this process is similar to [[Routing]] except that the LLM now also data mines the parameter values when calling the tool.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (5), data (2), ai (1), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Routing]] (1)
 > **Env Vars:** llm (5)
 > **Analogies:** similar to (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Planning pattern in agentic AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/planning-pattern-in-agentic-ai?u=76281980)
+#### [Planning pattern in agentic AI](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/planning-pattern-in-agentic-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1493,7 +1469,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/planning-pattern-in-agentic-ai?u=76281980&t=62)** The LLM analyzes the goal, the available tools and actions to determine a workflow through which the goal can be achieved.
 >
-> **[1:10](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/planning-pattern-in-agentic-ai?u=76281980&t=70)** Planning will leverage the other patterns like reflection, routing, tool use, and multi-agent interactions to achieve the tasks.
+> **[1:10](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/planning-pattern-in-agentic-ai?u=76281980&t=70)** Planning will leverage the other patterns like reflection, [[Routing]], tool use, and multi-agent interactions to achieve the tasks.
 >
 > **[1:19](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/planning-pattern-in-agentic-ai?u=76281980&t=79)** We discussed how planning works in detail in an earlier chapter, an Agentic AI system.
 >
@@ -1501,17 +1477,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (3), ai (2), next (1), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Routing]] (1)
 > **Env Vars:** llm (3)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - [instructor] (1)
 
-#### Multi-agent pattern in agentic AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/multi-agent-pattern-in-agentic-ai?u=76281980)
+#### [Multi-agent pattern in agentic AI](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/multi-agent-pattern-in-agentic-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/multi-agent-pattern-in-agentic-ai?u=76281980&t=0)** - [Instructor] Multi-agent pattern is an ensemble pattern that leverages multiple individual AI agents to achieve a single goal.
+> **[0:00](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/multi-agent-pattern-in-agentic-ai?u=76281980&t=0)** - [Instructor] Multi-agent pattern is an ensemble pattern that leverages multiple individual [[AI Agents]] to achieve a single goal.
 >
 > **[0:09](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/multi-agent-pattern-in-agentic-ai?u=76281980&t=9)** Complex enterprise workflows require multiple specialized agents working together to achieve a single goal.
 >
@@ -1527,7 +1502,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/multi-agent-pattern-in-agentic-ai?u=76281980&t=51)** This is similar to how humans in a project team have different specialized skill sets, yet they can leverage each other's skills to complete the project.
 >
-> **[1:01](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/multi-agent-pattern-in-agentic-ai?u=76281980&t=61)** Building specialized AI agents is similar to a microservices-based architecture, where each microservice has a well-defined responsibility.
+> **[1:01](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/multi-agent-pattern-in-agentic-ai?u=76281980&t=61)** Building specialized AI agents is similar to a [[Microservices]]-based architecture, where each microservice has a well-defined responsibility.
 >
 > **[1:11](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/multi-agent-pattern-in-agentic-ai?u=76281980&t=71)** This enables separation of concerns and distributed designs.
 >
@@ -1541,9 +1516,9 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/multi-agent-pattern-in-agentic-ai?u=76281980&t=97)** We can leverage best-of-breed agents that exist in open source or third-party for well-defined tasks and reduced development effort.
 >
-> **[1:47](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/multi-agent-pattern-in-agentic-ai?u=76281980&t=107)** Let's look at an example of a multi-agent e-commerce system in an enterprise.
+> **[1:47](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/multi-agent-pattern-in-agentic-ai?u=76281980&t=107)** Let's look at an example of a multi-agent [[E-Commerce]] system in an enterprise.
 >
-> **[1:53](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/multi-agent-pattern-in-agentic-ai?u=76281980&t=113)** The enterprise has an e-commerce website through which it sells several products.
+> **[1:53](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/multi-agent-pattern-in-agentic-ai?u=76281980&t=113)** The enterprise has an e-commerce website through which it sells several [[Microsoft Products|products]].
 >
 > **[1:58](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/multi-agent-pattern-in-agentic-ai?u=76281980&t=118)** The e-commerce website can have a virtual sales agent.
 >
@@ -1559,7 +1534,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/multi-agent-pattern-in-agentic-ai?u=76281980&t=156)** The sales fulfillment agent takes care of receiving orders, ensuring shipment, and tracking them.
 >
-> **[2:42](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/multi-agent-pattern-in-agentic-ai?u=76281980&t=162)** The enterprise can also have a customer support chat service, where customers can contact for any issues with their purchases.
+> **[2:42](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/multi-agent-pattern-in-agentic-ai?u=76281980&t=162)** The enterprise can also have a [[Customer Support]] chat service, where customers can contact for any issues with their purchases.
 >
 > **[2:51](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/multi-agent-pattern-in-agentic-ai?u=76281980&t=171)** This, in turn, uses a customer support AI agent to assist customers with their questions.
 >
@@ -1581,7 +1556,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), product (7), [[Customer Support]] (4), [[E-Commerce]] (3), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[AI Agents]] (5), [[Customer Support]] (4), [[E-Commerce]] (3), [[Microsoft Products|Products]] (2), [[Microservices]] (1)
 > **Analogies:** similar to (4)
 > **Cross-References:** we discussed (1), in the next (1)
 > **Env Vars:** rag (1)
@@ -1593,20 +1568,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI agents in finance
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-finance?u=76281980)
+#### [AI agents in finance](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-finance?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-finance?u=76281980&t=0)** - [Instructor] In this chapter, we will explore some popular applications of agentic AI across industries.
 >
-> **[0:08](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-finance?u=76281980&t=8)** We will start with the application of AI agents in finance.
+> **[0:08](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-finance?u=76281980&t=8)** We will start with the application of [[AI Agents]] in finance.
 >
 > **[0:13](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-finance?u=76281980&t=13)** What are some of the popular use cases for AI agents in finance?
 >
 > **[0:18](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-finance?u=76281980&t=18)** The first one is managing document workflows.
 >
-> **[0:22](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-finance?u=76281980&t=22)** Documents could be invoices, financial statements, payment vouchers, procedures, or even emails.
+> **[0:22](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-finance?u=76281980&t=22)** Documents could be invoices, [[Financial Statements]], payment vouchers, procedures, or even emails.
 >
 > **[0:30](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-finance?u=76281980&t=30)** Each document may need to be routed to a different set of individuals for review and approval.
 >
@@ -1666,21 +1640,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (10), ai (8), llm (4), [[Financial Statements]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (7), [[Financial Statements]] (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Env Vars:** llm (4)
 > **Speakers:** - [instructor] (1)
 
-#### AI agents in customer care
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-customer-care?u=76281980)
+#### [AI agents in customer care](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-customer-care?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-customer-care?u=76281980&t=0)** - [Instructor] Next, let's look at how AI agents can be used in the customer care domain.
+> **[0:00](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-customer-care?u=76281980&t=0)** - [Instructor] Next, let's look at how [[AI Agents]] can be used in the customer care domain.
 >
 > **[0:06](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-customer-care?u=76281980&t=6)** Here are some popular AI agents for customer care.
 >
-> **[0:10](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-customer-care?u=76281980&t=10)** Sales agents can help sell products by interacting with potential customers through a chat interface, recommend products, draw up contracts, collect payments, and trigger the sales fulfillment process.
+> **[0:10](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-customer-care?u=76281980&t=10)** Sales agents can help sell [[Microsoft Products|products]] by interacting with potential customers through a chat interface, recommend products, draw up contracts, collect payments, and trigger the sales fulfillment process.
 >
 > **[0:24](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-customer-care?u=76281980&t=24)** They can also escalate to human agents when needed.
 >
@@ -1692,7 +1665,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-customer-care?u=76281980&t=42)** Then research across multiple vendors to find suitable products, narrow down choices, and make recommendations.
 >
-> **[0:51](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-customer-care?u=76281980&t=51)** Technical support agents help with troubleshooting.
+> **[0:51](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-customer-care?u=76281980&t=51)** [[Technical Support]] agents help with troubleshooting.
 >
 > **[0:54](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-customer-care?u=76281980&t=54)** They can receive customer complaints, analyze the problem, look up knowledge bases for solutions, and recommend fixes to the customer.
 >
@@ -1738,17 +1711,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Microsoft Products|Products]] (3), [[Technical Support]] (3), [[Troubleshooting]] (3), product (3)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Technical Support]] (3), [[AI Agents]] (2)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** llm (2), rag (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI agents in insurance
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-insurance?u=76281980)
+#### [AI agents in insurance](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-insurance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-insurance?u=76281980&t=0)** - [Instructor] The third domain we will explore for the application of AI agents is insurance.
+> **[0:00](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-insurance?u=76281980&t=0)** - [Instructor] The third domain we will explore for the application of [[AI Agents]] is insurance.
 >
 > **[0:06](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-insurance?u=76281980&t=6)** The insurance domain has several complex processes that AI agents can help with.
 >
@@ -1768,11 +1740,11 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-insurance?u=76281980&t=70)** It can use the other agents to prevent fraud and file compliance reports.
 >
-> **[1:16](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-insurance?u=76281980&t=76)** A customer support agent for insurance can provide automated assistance to customers to support their policy questions and claim issues.
+> **[1:16](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-insurance?u=76281980&t=76)** A [[Customer Support]] agent for insurance can provide automated assistance to customers to support their policy questions and claim issues.
 >
 > **[1:25](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-insurance?u=76281980&t=85)** Let's now discuss how a claims agent can be set up to help with claims processing.
 >
-> **[1:31](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-insurance?u=76281980&t=91)** First, we look at a claims routing agent.
+> **[1:31](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-insurance?u=76281980&t=91)** First, we look at a claims [[Routing]] agent.
 >
 > **[1:34](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-insurance?u=76281980&t=94)** The claims routing agent helps to route a claim based on whether the claim is a standard claim or whether it has special requirements.
 >
@@ -1832,19 +1804,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (6), [[Routing]] (5), ai (3), application (1), next (1)
+> **Frameworks & Libraries:** [[Routing]] (5), [[AI Agents]] (2), [[Customer Support]] (1)
 > **Env Vars:** llm (6)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI agents in human resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-human-resources?u=76281980)
+#### [AI agents in human resources](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-human-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-human-resources?u=76281980&t=0)** - [Presenter] How can AI agents help with human resources?
+> **[0:00](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-human-resources?u=76281980&t=0)** - [Presenter] How can [[AI Agents]] help with [[Human Resources (HR)|human resources]]?
 >
 > **[0:04](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-human-resources?u=76281980&t=4)** Let's explore some popular use cases for agents in human resources.
 >
@@ -1886,23 +1857,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Human Resources (HR)|Human resources]] (2), job description (2), hr (2), next (1)
+> **Frameworks & Libraries:** [[AI Agents]] (3), [[Human Resources (HR)|Human resources]] (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [presenter] (1)
 
-#### AI agents in project management
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-project-management?u=76281980)
+#### [AI agents in project management](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-project-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-project-management?u=76281980&t=0)** - [Instructor] The final domain we will discuss for AI agents is project management.
+> **[0:00](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-project-management?u=76281980&t=0)** - [Instructor] The final domain we will discuss for [[AI Agents]] is project management.
 >
 > **[0:06](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-project-management?u=76281980&t=6)** AI agents can help assist in several tasks in the project management lifecycle.
 >
 > **[0:12](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-project-management?u=76281980&t=12)** The first possible use case is project analysis.
 >
-> **[0:15](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-project-management?u=76281980&t=15)** An AI agent can analyze the current status of the project based on scrum boards, project plans, story progress, resource allocation, et cetera, and then provide a summary status for the project.
+> **[0:15](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-project-management?u=76281980&t=15)** An AI agent can analyze the current status of the project based on [[Scrum]] boards, project plans, story progress, resource allocation, et cetera, and then provide a summary status for the project.
 >
 > **[0:29](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-project-management?u=76281980&t=29)** A document creation agent can assist in creating project status reports and presentations given a specific template.
 >
@@ -1922,15 +1892,15 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-project-management?u=76281980&t=104)** This saves time and effort for the project manager.
 >
-> **[1:48](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-project-management?u=76281980&t=108)** The first tool it has is a scheduling or calendar tool that interfaces with the enterprise scheduling system like Outlook or Google Calendar.
+> **[1:48](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-project-management?u=76281980&t=108)** The first tool it has is a scheduling or calendar tool that interfaces with the enterprise scheduling system like [[Microsoft Outlook|Outlook]] or [[Google]] Calendar.
 >
 > **[1:59](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-project-management?u=76281980&t=119)** The second tool is an email or messaging tool.
 >
 > **[2:02](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-project-management?u=76281980&t=122)** This interfaces with an email system like Gmail or Outlook.
 >
-> **[2:07](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-project-management?u=76281980&t=127)** It can also integrate with a messaging tool like Slack.
+> **[2:07](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-project-management?u=76281980&t=127)** It can also integrate with a messaging tool like [[Slack]].
 >
-> **[2:11](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-project-management?u=76281980&t=131)** Our third tool is a ticketing system tool that integrates with a ticketing system like Jira to create and manage tasks.
+> **[2:11](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-project-management?u=76281980&t=131)** Our third tool is a ticketing system tool that integrates with a ticketing system like [[Jira]] to create and manage tasks.
 >
 > **[2:19](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-project-management?u=76281980&t=139)** The input to the agent is the goal that states requirements on how to execute the action items from the meeting minutes.
 >
@@ -1954,7 +1924,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), management (2), [[Microsoft Outlook|Outlook]] (2), [[Scrum]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (2), [[Microsoft Outlook|Outlook]] (2), [[Scrum]] (1), [[Google]] (1), [[Slack]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Tools:** slack (1), jira (1)
 > **Env Vars:** llm (1)
@@ -1968,8 +1938,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### A customer service AI agent
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/a-customer-service-ai-agent?u=76281980)
+#### [A customer service AI agent](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/a-customer-service-ai-agent?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1983,7 +1952,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/a-customer-service-ai-agent?u=76281980&t=50)** The return policy is the maximum number of days within which the item needs to be returned.
 >
-> **[0:56](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/a-customer-service-ai-agent?u=76281980&t=56)** A PDF document that contains customer support contact information.
+> **[0:56](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/a-customer-service-ai-agent?u=76281980&t=56)** A PDF document that contains [[Customer Support]] contact information.
 >
 > **[1:01](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/a-customer-service-ai-agent?u=76281980&t=61)** A real life agent may have many more functions.
 >
@@ -1993,16 +1962,15 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/a-customer-service-ai-agent?u=76281980&t=75)** It should also be able to handle multi-part questions that require a breakdown into smaller tasks for execution.
 >
-> **[1:24](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/a-customer-service-ai-agent?u=76281980&t=84)** The agent should be able to handle function calling or tool use pattern, as well as the planning pattern in AI agents.
+> **[1:24](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/a-customer-service-ai-agent?u=76281980&t=84)** The agent should be able to handle function calling or tool use pattern, as well as the planning pattern in [[AI Agents]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Customer Support]] (1)
+> **Frameworks & Libraries:** [[Customer Support]] (1), [[AI Agents]] (1)
 > **Env Vars:** pdf (1)
 > **Speakers:** - [instructor] (1)
 
-#### Customer service AI agent design
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/customer-service-ai-agent-design?u=76281980)
+#### [Customer service AI agent design](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/customer-service-ai-agent-design?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2040,15 +2008,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (1), next (1)
 > **Code Identifiers:** get_order_item (1), get_delivery_date (1), get_item_return_days (1)
 > **Cross-References:** previous video (1), in the next (1)
 > **Exercise Files:** exercise files (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up functions and indexes
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/setting-up-functions-and-indexes?u=76281980)
+#### [Setting up functions and indexes](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/setting-up-functions-and-indexes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2060,27 +2026,27 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/setting-up-functions-and-indexes?u=76281980&t=20)** We begin with setting up the LLM for this agent.
 >
-> **[0:24](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/setting-up-functions-and-indexes?u=76281980&t=24)** We will use Azure OpenAI for this purpose.
+> **[0:24](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/setting-up-functions-and-indexes?u=76281980&t=24)** We will use [[Microsoft Azure|Azure]] OpenAI for this purpose.
 >
-> **[0:27](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/setting-up-functions-and-indexes?u=76281980&t=27)** If you choose to use another LLM, please use the relevant settings and LlamaIndex functions for that model.
+> **[0:27](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/setting-up-functions-and-indexes?u=76281980&t=27)** If you choose to use another LLM, please use the relevant settings and [[LlamaIndex]] functions for that model.
 >
 > **[0:35](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/setting-up-functions-and-indexes?u=76281980&t=35)** We set up the API key, Azure endpoint, and API version.
 >
 > **[0:40](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/setting-up-functions-and-indexes?u=76281980&t=40)** Please replace these values with those from your own account.
 >
-> **[0:44](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/setting-up-functions-and-indexes?u=76281980&t=44)** We will use GPT-4 as the LLM model.
+> **[0:44](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/setting-up-functions-and-indexes?u=76281980&t=44)** We will use [[GPT-4]] as the LLM model.
 >
 > **[0:48](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/setting-up-functions-and-indexes?u=76281980&t=48)** For this specific API version, only GPT-4 supports function calling, not GPT-3.5 on Azure.
 >
 > **[0:56](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/setting-up-functions-and-indexes?u=76281980&t=56)** This setting is saved in the settings LLM attribute.
 >
-> **[1:00](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/setting-up-functions-and-indexes?u=76281980&t=60)** Similarly, we will also set up an embedding model to ingest the customer support document.
+> **[1:00](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/setting-up-functions-and-indexes?u=76281980&t=60)** Similarly, we will also set up an embedding model to ingest the [[Customer Support]] document.
 >
 > **[1:07](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/setting-up-functions-and-indexes?u=76281980&t=67)** Then we proceed to set up the three functions we spoke about.
 >
 > **[1:11](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/setting-up-functions-and-indexes?u=76281980&t=71)** Each of these functions uses a hard-coded list of orders, items, delivery dates, and return values for illustrative purposes.
 >
-> **[1:21](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/setting-up-functions-and-indexes?u=76281980&t=81)** In a real agent, though, these functions would use backend databases to query for this information.
+> **[1:21](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/setting-up-functions-and-indexes?u=76281980&t=81)** In a real agent, though, these functions would use backend [[Databases]] to query for this information.
 >
 > **[1:29](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/setting-up-functions-and-indexes?u=76281980&t=89)** The get_order_items function takes an order ID as input and returns the list of items in the order.
 >
@@ -2096,7 +2062,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (4), [[Microsoft Azure|Azure]] (3), api (3), [[GPT-4]] (2), ai (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[GPT-4]] (2), [[LlamaIndex]] (1), [[Customer Support]] (1), [[Databases]] (1)
 > **Env Vars:** llm (4), api (3), gpt (3)
 > **Prerequisites:** set up (6)
 > **Code Identifiers:** get_order_items (1), get_delivery_date (1), get_item_return_days (1), customer_service (1)
@@ -2104,8 +2070,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up the customer service AI agent
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/setting-up-the-customer-service-ai-agent?u=76281980)
+#### [Setting up the customer service AI agent](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/setting-up-the-customer-service-ai-agent?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2113,7 +2078,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/setting-up-the-customer-service-ai-agent?u=76281980&t=8)** First, we create tools based on the functions.
 >
-> **[0:12](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/setting-up-the-customer-service-ai-agent?u=76281980&t=12)** For this, we use the function tool interface in LlamaIndex.
+> **[0:12](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/setting-up-the-customer-service-ai-agent?u=76281980&t=12)** For this, we use the function tool interface in [[LlamaIndex]].
 >
 > **[0:16](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/setting-up-the-customer-service-ai-agent?u=76281980&t=16)** For each of the functions, we create a corresponding tool.
 >
@@ -2141,14 +2106,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LlamaIndex]] (3), ai (2), llm (1), next (1)
+> **Frameworks & Libraries:** [[LlamaIndex]] (3)
 > **Cross-References:** we discussed (1), in the next (1)
 > **Prerequisites:** set up (2)
 > **Env Vars:** llm (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the customer service AI agent
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/using-the-customer-service-ai-agent?u=76281980)
+#### [Using the customer service AI agent](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/using-the-customer-service-ai-agent?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2194,7 +2158,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/using-the-customer-service-ai-agent?u=76281980&t=124)** Next, let's execute a multi-part question.
 >
-> **[2:08](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/using-the-customer-service-ai-agent?u=76281980&t=128)** When is the delivery date and items shipped for order 1003, and how can I contact customer support?
+> **[2:08](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/using-the-customer-service-ai-agent?u=76281980&t=128)** When is the delivery date and items shipped for order 1003, and how can I contact [[Customer Support]]?
 >
 > **[2:16](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/using-the-customer-service-ai-agent?u=76281980&t=136)** Here we can see that the LLM uses planning to split the goal into multiple individual tasks and execute them.
 >
@@ -2220,13 +2184,13 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/using-the-customer-service-ai-agent?u=76281980&t=206)** It has also added a helpful message about any other queries.
 >
-> **[3:30](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/using-the-customer-service-ai-agent?u=76281980&t=210)** I hope this example is useful in understanding how AI agents work.
+> **[3:30](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/using-the-customer-service-ai-agent?u=76281980&t=210)** I hope this example is useful in understanding how [[AI Agents]] work.
 >
 > **[3:36](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/using-the-customer-service-ai-agent?u=76281980&t=216)** Now we will discuss some key considerations for building AI agents in the next chapter.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (5), next (2), ai (2), [[Customer Support]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (2), [[Customer Support]] (1)
 > **Code Identifiers:** get_order_items (5), order_id (3), get_item_return_days (2), get_return_item_days (1), get_delivery_date (1)
 > **Env Vars:** llm (5)
 > **Cross-References:** in the next (1)
@@ -2238,8 +2202,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Hallucinations in agentic AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/hallucinations-in-agentic-ai?u=76281980)
+#### [Hallucinations in agentic AI](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/hallucinations-in-agentic-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2257,9 +2220,9 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/hallucinations-in-agentic-ai?u=76281980&t=38)** When choosing LLMs for agents, it is important to evaluate them for the specific use cases and measure their accuracy.
 >
-> **[0:47](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/hallucinations-in-agentic-ai?u=76281980&t=47)** The probability to hallucinate should also be evaluated.
+> **[0:47](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/hallucinations-in-agentic-ai?u=76281980&t=47)** The [[Probability]] to hallucinate should also be evaluated.
 >
-> **[0:51](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/hallucinations-in-agentic-ai?u=76281980&t=51)** When an agent is in production, it's recommended to have continuous monitoring of the agent's performance, especially with respect to accuracy and hallucinations.
+> **[0:51](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/hallucinations-in-agentic-ai?u=76281980&t=51)** When an agent is in production, it's recommended to have [[Continuous Monitoring]] of the agent's performance, especially with respect to accuracy and hallucinations.
 >
 > **[1:02](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/hallucinations-in-agentic-ai?u=76281980&t=62)** Hallucination guardrails are available, and those should be used to validate the outputs of the LLMs.
 >
@@ -2277,19 +2240,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (4), ai (3), [[Probability]] (1), [[Continuous Monitoring]] (1)
+> **Frameworks & Libraries:** [[Probability]] (1), [[Continuous Monitoring]] (1)
 > **Env Vars:** llm (4)
 > **Best Practices:** recommended (3)
 > **Speakers:** - [instructor] (1)
 
-#### Explainability in agentic AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/explainability-in-agentic-ai?u=76281980)
+#### [Explainability in agentic AI](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/explainability-in-agentic-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/explainability-in-agentic-ai?u=76281980&t=0)** - [Instructor] Another important consideration when building agents is the ability to explain their behavior.
 >
-> **[0:07](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/explainability-in-agentic-ai?u=76281980&t=7)** AI agents are complex.
+> **[0:07](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/explainability-in-agentic-ai?u=76281980&t=7)** [[AI Agents]] are complex.
 >
 > **[0:09](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/explainability-in-agentic-ai?u=76281980&t=9)** Decisions made by agents may sometimes puzzle humans.
 >
@@ -2317,18 +2279,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (5), ai (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (1)
 > **Env Vars:** llm (5)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Integrations in agentic AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/integrations-in-agentic-ai?u=76281980)
+#### [Integrations in agentic AI](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/integrations-in-agentic-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/integrations-in-agentic-ai?u=76281980&t=0)** - [Instructor] Another key consideration when building AI agents is integrations.
+> **[0:00](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/integrations-in-agentic-ai?u=76281980&t=0)** - [Instructor] Another key consideration when building [[AI Agents]] is integrations.
 >
 > **[0:06](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/integrations-in-agentic-ai?u=76281980&t=6)** Tools play a critical role in the effectiveness of AI agents.
 >
@@ -2342,7 +2303,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/integrations-in-agentic-ai?u=76281980&t=32)** They can be just functions that perform simple computations.
 >
-> **[0:36](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/integrations-in-agentic-ai?u=76281980&t=36)** There can be calls to external microservices for achieving specific tasks in their workflows.
+> **[0:36](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/integrations-in-agentic-ai?u=76281980&t=36)** There can be calls to external [[Microservices]] for achieving specific tasks in their workflows.
 >
 > **[0:43](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/integrations-in-agentic-ai?u=76281980&t=43)** There can be integration with third-party systems and cloud service providers for queries and actions.
 >
@@ -2352,7 +2313,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/integrations-in-agentic-ai?u=76281980&t=65)** Inputs to parameters are decided by the LLM, and that can be incorrect, so input validations are needed to ensure that what is sent to the other system is valid input.
 >
-> **[1:18](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/integrations-in-agentic-ai?u=76281980&t=78)** Resiliency and fault tolerance are important aspects when building scalable integrations.
+> **[1:18](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/integrations-in-agentic-ai?u=76281980&t=78)** [[Resiliency]] and fault tolerance are important aspects when building scalable integrations.
 >
 > **[1:24](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/integrations-in-agentic-ai?u=76281980&t=84)** Ensure that the entire pipeline has resiliency designed in to handle failures.
 >
@@ -2360,14 +2321,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Resiliency]] (2), [[Microservices]] (1), cloud (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (3), [[Resiliency]] (2), [[Microservices]] (1)
 > **Env Vars:** llm (1)
 > **Analogies:** for example (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Compliance in agentic AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/compliance-in-agentic-ai?u=76281980)
+#### [Compliance in agentic AI](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/compliance-in-agentic-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2375,7 +2335,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/compliance-in-agentic-ai?u=76281980&t=4)** Agentic AI is subject to several compliance requirements like GenAI.
 >
-> **[0:09](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/compliance-in-agentic-ai?u=76281980&t=9)** When building AI agents, care should be taken to ensure that they comply with legal, ethical, and organizational requirements for agents.
+> **[0:09](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/compliance-in-agentic-ai?u=76281980&t=9)** When building [[AI Agents]], care should be taken to ensure that they comply with legal, ethical, and organizational requirements for agents.
 >
 > **[0:20](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/compliance-in-agentic-ai?u=76281980&t=20)** What kinds of compliance are needed for AI agents?
 >
@@ -2383,7 +2343,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/compliance-in-agentic-ai?u=76281980&t=33)** There could be legal requirements mandated by a given country or state.
 >
-> **[0:38](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/compliance-in-agentic-ai?u=76281980&t=38)** Enterprises have corporate responsible AI practices and ethics that will also mandate on the use of AI agents.
+> **[0:38](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/compliance-in-agentic-ai?u=76281980&t=38)** Enterprises have corporate [[Responsible AI]] practices and [[Ethics]] that will also mandate on the use of AI agents.
 >
 > **[0:47](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/compliance-in-agentic-ai?u=76281980&t=47)** Limits on use cases and requirements for guardrails may be stated in these policies.
 >
@@ -2399,7 +2359,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), [[Responsible AI]] (1), [[Ethics]] (1), business (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (5), [[Responsible AI]] (1), [[Ethics]] (1)
 > **Env Vars:** gdpr (1), ccpa (1), hipaa (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2408,8 +2368,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing on with agentic AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/continuing-on-with-agentic-ai?u=76281980)
+#### [Continuing on with agentic AI](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/continuing-on-with-agentic-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2419,7 +2378,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/continuing-on-with-agentic-ai?u=76281980&t=12)** If you want to start integrating these further, here is what I recommend.
 >
-> **[0:17](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/continuing-on-with-agentic-ai?u=76281980&t=17)** First, learn about agentic AI capabilities in frameworks like LangGraph and LlamaIndex.
+> **[0:17](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/continuing-on-with-agentic-ai?u=76281980&t=17)** First, learn about agentic AI capabilities in frameworks like LangGraph and [[LlamaIndex]].
 >
 > **[0:24](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/continuing-on-with-agentic-ai?u=76281980&t=24)** Next, try out some agents with a few tools like RAG and third-party integrations.
 >
@@ -2433,7 +2392,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[LlamaIndex]] (1), next (1), rag (1)
+> **Frameworks & Libraries:** [[LlamaIndex]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** rag (1)
 > **Speakers:** - [narrator] (1)

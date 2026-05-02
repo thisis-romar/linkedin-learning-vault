@@ -90,8 +90,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Troubleshoot PC issues yourself
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/troubleshoot-pc-issues-yourself?u=76281980)
+#### [Troubleshoot PC issues yourself](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/troubleshoot-pc-issues-yourself?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -101,7 +100,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/troubleshoot-pc-issues-yourself?u=76281980&t=5)** This course provides you with knowledge about your computer, specifically what can go wrong and how to address it, and if you've been using a PC for any length of time, you know that things can and do go wrong, often more frequently than you like.
 >
-> **[0:18](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/troubleshoot-pc-issues-yourself?u=76281980&t=18)** The good news is that many computer problems can be quickly and easily addressed, even when you don't know a lot about computer hardware or software.
+> **[0:18](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/troubleshoot-pc-issues-yourself?u=76281980&t=18)** The good news is that many computer problems can be quickly and easily addressed, even when you don't know a lot about computer [[Hardware]] or software.
 >
 > **[0:27](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/troubleshoot-pc-issues-yourself?u=76281980&t=27)** This course presents a philosophical approach to hunting down PC problems and providing practical solutions.
 >
@@ -109,7 +108,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/troubleshoot-pc-issues-yourself?u=76281980&t=43)** Therefore, my approach is to describe how things work and which tools you can use to help resolve issues.
 >
-> **[0:49](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/troubleshoot-pc-issues-yourself?u=76281980&t=49)** As you'll discover, Windows is bursting with helpful utilities, some of which you probably know about and others that will surprise you.
+> **[0:49](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/troubleshoot-pc-issues-yourself?u=76281980&t=49)** As you'll discover, [[Windows]] is bursting with helpful utilities, some of which you probably know about and others that will surprise you.
 >
 > **[0:57](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/troubleshoot-pc-issues-yourself?u=76281980&t=57)** My goal is to help you become more computer savvy and to understand why things go wrong and how to address the problem in a straightforward, non-frustrating manner.
 >
@@ -125,18 +124,17 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (3)
 > **Speakers:** - hello (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/what-you-should-know?u=76281980&t=0)** - This course is specific to the PC, which is any desktop or laptop computer hardware that runs the Windows 10 operating system.
+> **[0:00](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/what-you-should-know?u=76281980&t=0)** - This course is specific to the PC, which is any desktop or laptop computer [[Hardware]] that runs the [[Windows 10]] operating system.
 >
 > **[0:08](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/what-you-should-know?u=76281980&t=8)** And yes, this course is also specific to that operating system.
 >
 > **[0:12](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/what-you-should-know?u=76281980&t=12)** I assume that you have some basic computer knowledge but nothing sophisticated is required.
 >
-> **[0:17](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/what-you-should-know?u=76281980&t=17)** In this course, I'll show you how to access various tools in Windows and locate some programs that might not be that obvious to the casual user.
+> **[0:17](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/what-you-should-know?u=76281980&t=17)** In this course, I'll show you how to access various tools in [[Windows]] and locate some programs that might not be that obvious to the casual user.
 >
 > **[0:25](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/what-you-should-know?u=76281980&t=25)** So you don't need anything extra for this course beyond those tools that Windows 10 provides.
 >
@@ -154,7 +152,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows 10]] (3), [[Windows]] (2), [[Hardware]] (1), prompt (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Windows 10]] (3), [[Windows]] (2), [[Hardware]] (1)
 > **Tools:** command prompt (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - this (1)
@@ -164,8 +162,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Get to the root of all PC trouble
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/get-to-the-root-of-all-pc-trouble?u=76281980)
+#### [Get to the root of all PC trouble](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/get-to-the-root-of-all-pc-trouble?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -239,7 +236,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/get-to-the-root-of-all-pc-trouble?u=76281980&t=124)** Second, ensure that you have a current backup handy.
 >
-> **[2:07](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/get-to-the-root-of-all-pc-trouble?u=76281980&t=127)** Windows 10 comes with file history.
+> **[2:07](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/get-to-the-root-of-all-pc-trouble?u=76281980&t=127)** [[Windows 10]] comes with file history.
 >
 > **[2:09](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/get-to-the-root-of-all-pc-trouble?u=76281980&t=129)** You need an external storage device to make it work, but that's not an excuse to avoid backing up your stuff.
 >
@@ -249,7 +246,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/get-to-the-root-of-all-pc-trouble?u=76281980&t=152)** One element of change you can't avoid is time.
 >
-> **[2:36](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/get-to-the-root-of-all-pc-trouble?u=76281980&t=156)** Things wear out, hardware gets old.
+> **[2:36](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/get-to-the-root-of-all-pc-trouble?u=76281980&t=156)** Things wear out, [[Hardware]] gets old.
 >
 > **[2:39](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/get-to-the-root-of-all-pc-trouble?u=76281980&t=159)** A spinning hard drive can last only so long before the bearings wear, software needs updating to address bugs and fix security issues.
 >
@@ -263,22 +260,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), [[Windows 10]] (1), [[Hardware]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Windows 10]] (1), [[Hardware]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Determine source: hardware or software
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/determine-source-hardware-or-software?u=76281980)
+#### [Determine source: hardware or software](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/determine-source-hardware-or-software?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/determine-source-hardware-or-software?u=76281980&t=0)** - [Presenter] A good first step toward resolving computer issues is to determine whether the source is hardware or software.
+> **[0:00](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/determine-source-hardware-or-software?u=76281980&t=0)** - [Presenter] A good first step toward resolving computer issues is to determine whether the source is [[Hardware]] or software.
 >
 > **[0:07](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/determine-source-hardware-or-software?u=76281980&t=7)** This determination is not easy to make.
 >
-> **[0:10](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/determine-source-hardware-or-software?u=76281980&t=10)** Malfunctioning hardware can make software particularly windows behave erratically.
+> **[0:10](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/determine-source-hardware-or-software?u=76281980&t=10)** Malfunctioning hardware can make software particularly [[Windows]] behave erratically.
 >
 > **[0:15](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/determine-source-hardware-or-software?u=76281980&t=15)** Likewise, bad software can make it appear as though hardware is to blame.
 >
@@ -374,7 +370,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (25), [[Windows]] (5), [[Troubleshooting]] (3), power (2), management (1)
+> **Frameworks & Libraries:** [[Hardware]] (25), [[Windows]] (5)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (2), such as (1)
 > **Env Vars:** post (1), msc (1)
@@ -382,8 +378,7 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [presenter] (1)
 
-#### Get help on the internet
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/get-help-on-the-internet?u=76281980)
+#### [Get help on the internet](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/get-help-on-the-internet?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -391,13 +386,13 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/get-help-on-the-internet?u=76281980&t=4)** Like any tool, you must know how to best use the internet to help you find what you need.
 >
-> **[0:10](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/get-help-on-the-internet?u=76281980&t=10)** Specifically, internet support offers the following resources, documentation, downloads, user forums, and technical support.
+> **[0:10](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/get-help-on-the-internet?u=76281980&t=10)** Specifically, internet support offers the following resources, documentation, downloads, user forums, and [[Technical Support]].
 >
 > **[0:19](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/get-help-on-the-internet?u=76281980&t=19)** The best source for this support is the manufacturer's or software developer's website.
 >
 > **[0:25](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/get-help-on-the-internet?u=76281980&t=25)** As an example of using the internet for support, suppose you have an HP OfficeJet printer.
 >
-> **[0:31](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/get-help-on-the-internet?u=76281980&t=31)** To look up detailed documentation, search Google for the make and model number.
+> **[0:31](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/get-help-on-the-internet?u=76281980&t=31)** To look up detailed documentation, search [[Google]] for the make and model number.
 >
 > **[0:36](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/get-help-on-the-internet?u=76281980&t=36)** In this case, it's an HP HP OfficeJet Pro 8610.
 >
@@ -427,7 +422,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/get-help-on-the-internet?u=76281980&t=118)** The Knowledge base contains an encyclopedia of tech support questions and answers.
 >
-> **[2:02](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/get-help-on-the-internet?u=76281980&t=122)** These are great resources to assist you troubleshooting various Hewlett-Packard products, and they're available on other support websites, as well, though sometimes you must hunt for the proper links.
+> **[2:02](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/get-help-on-the-internet?u=76281980&t=122)** These are great resources to assist you troubleshooting various Hewlett-Packard [[Microsoft Products|products]], and they're available on other support websites, as well, though sometimes you must hunt for the proper links.
 >
 > **[2:12](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/get-help-on-the-internet?u=76281980&t=132)** Now, obviously and sadly, details for contacting the manufacturer and developer aren't really obvious on any page.
 >
@@ -443,13 +438,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Troubleshooting]] (2), [[Technical Support]] (1), [[Search]] (1), [[Google]] (1), product (1)
+> **Frameworks & Libraries:** [[Technical Support]] (1), [[Google]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Try a quick fix
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/try-a-quick-fix?u=76281980)
+#### [Try a quick fix](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/try-a-quick-fix?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -459,7 +453,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/try-a-quick-fix?u=76281980&t=25)** The restart solution is well-known, turn the gizmo off, wait, then turn it on again.
 >
-> **[0:32](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/try-a-quick-fix?u=76281980&t=32)** The wait step is necessary to avoid a quick on-off cycle, which could potentially damage the electronics.
+> **[0:32](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/try-a-quick-fix?u=76281980&t=32)** The wait step is necessary to avoid a quick on-off cycle, which could potentially damage the [[Electronics]].
 >
 > **[0:39](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/try-a-quick-fix?u=76281980&t=39)** So it's best to pause, count to 10 or higher, and then turn on the device.
 >
@@ -471,7 +465,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/try-a-quick-fix?u=76281980&t=57)** In this case, you must properly eject the media before turning it off or disconnecting its USB cable.
 >
-> **[1:03](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/try-a-quick-fix?u=76281980&t=63)** To restart the entire computer in Windows 10, press the Windows key to pop up the start menu choose Power, Restart.
+> **[1:03](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/try-a-quick-fix?u=76281980&t=63)** To restart the entire computer in [[Windows 10]], press the [[Windows]] key to pop up the start menu choose Power, Restart.
 >
 > **[1:15](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/try-a-quick-fix?u=76281980&t=75)** The computer turns itself off and then on again, often this simple action cures whatever ills ale the system.
 >
@@ -507,7 +501,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (6), [[Troubleshooting]] (3), [[Windows 10]] (2), power (2), [[Electronics]] (1)
+> **Frameworks & Libraries:** [[Windows]] (6), [[Windows 10]] (2), [[Electronics]] (1)
 > **Analogies:** for example (2), just like (1)
 > **Best Practices:** it's best to (1), recommended (1)
 > **CLI Commands:** make (1)
@@ -521,14 +515,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Access the Windows recovery menu
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/access-the-windows-recovery-menu?u=76281980)
+#### [Access the Windows recovery menu](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/access-the-windows-recovery-menu?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/access-the-windows-recovery-menu?u=76281980&t=0)** - [Instructor] Windows 10 has a repair mode that features a host of start-up diagnostic and troubleshooting tools.
+> **[0:00](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/access-the-windows-recovery-menu?u=76281980&t=0)** - [Instructor] [[Windows 10]] has a repair mode that features a host of start-up diagnostic and troubleshooting tools.
 >
-> **[0:06](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/access-the-windows-recovery-menu?u=76281980&t=6)** I call it the Windows recovery menu.
+> **[0:06](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/access-the-windows-recovery-menu?u=76281980&t=6)** I call it the [[Windows]] recovery menu.
 >
 > **[0:08](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/access-the-windows-recovery-menu?u=76281980&t=8)** To access this menu, ensure that you don't have any programs open, as your computer will restart.
 >
@@ -602,7 +595,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (10), [[Troubleshooting]] (7), [[Windows 10]] (3), [[Security]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Windows]] (10), [[Windows 10]] (3)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** such as (1), for example (1)
 > **Warnings:** troubleshoot (1), be aware (1)
@@ -611,8 +604,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a system repair disk
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/create-a-system-repair-disk?u=76281980)
+#### [Create a system repair disk](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/create-a-system-repair-disk?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -634,7 +626,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/create-a-system-repair-disk?u=76281980&t=37)** Dismiss or ignore any notification that pops up after you insert the system repair disc media.
 >
-> **[0:43](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/create-a-system-repair-disk?u=76281980&t=43)** To create the system repair disc in Windows 10, you summon the control panel, Press the Windows + X key combination and choose control panel.
+> **[0:43](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/create-a-system-repair-disk?u=76281980&t=43)** To create the system repair disc in [[Windows 10]], you summon the control panel, Press the [[Windows]] + X key combination and choose control panel.
 >
 > **[0:54](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/create-a-system-repair-disk?u=76281980&t=54)** Under the system security heading, choose save backup copies of your files with file history.
 >
@@ -712,19 +704,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (7), next (2), [[Windows 10]] (1), [[Security]] (1), feature (1)
+> **Frameworks & Libraries:** [[Windows]] (7), [[Windows 10]] (1)
 > **Env Vars:** usb (3), f12 (2), uac (1), f10 (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** similar to (2), for example (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [presenter] (1)
 
-#### Deal with startup errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/deal-with-startup-errors?u=76281980)
+#### [Deal with startup errors](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/deal-with-startup-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/deal-with-startup-errors?u=76281980&t=0)** - [Instructor] Hardware problems become most obvious when you start the computer, or not.
+> **[0:00](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/deal-with-startup-errors?u=76281980&t=0)** - [Instructor] [[Hardware]] problems become most obvious when you start the computer, or not.
 >
 > **[0:05](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/deal-with-startup-errors?u=76281980&t=5)** In fact, the first problem with a non-starting computer could be the power supply.
 >
@@ -778,13 +769,13 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/deal-with-startup-errors?u=76281980&t=110)** If not, any computer repair shop will do the job for you.
 >
-> **[1:54](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/deal-with-startup-errors?u=76281980&t=114)** The motherboard battery should last for well over six years, so if you see a configuration error on a new system, it could be a sign that some other electronics have failed.
+> **[1:54](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/deal-with-startup-errors?u=76281980&t=114)** The motherboard battery should last for well over six years, so if you see a configuration error on a new system, it could be a sign that some other [[Electronics]] have failed.
 >
 > **[2:03](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/deal-with-startup-errors?u=76281980&t=123)** After the POST passes, an operating system is loaded.
 >
 > **[2:07](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/deal-with-startup-errors?u=76281980&t=127)** Disk errors can occur at this point, yielding messages such as missing operating system, no boot partition, missing disk and other scary things.
 >
-> **[2:16](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/deal-with-startup-errors?u=76281980&t=136)** These could mean that the drive is damaged or that Windows had botched an update, or perhaps a nasty malware infection.
+> **[2:16](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/deal-with-startup-errors?u=76281980&t=136)** These could mean that the drive is damaged or that [[Windows]] had botched an update, or perhaps a nasty malware infection.
 >
 > **[2:23](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/deal-with-startup-errors?u=76281980&t=143)** To troubleshoot, start the PC in recovery mode and attempt to repair Windows.
 >
@@ -794,15 +785,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (13), [[Hardware]] (3), [[Windows]] (3), [[Electronics]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[Windows]] (3), [[Electronics]] (1)
 > **Env Vars:** post (4), cpu (1)
 > **API Endpoints:** post  (3)
 > **Analogies:** such as (2)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Access the UEFI and updating the BIOS
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/access-the-uefi-and-updating-the-bios?u=76281980)
+#### [Access the UEFI and updating the BIOS](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/access-the-uefi-and-updating-the-bios?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -812,9 +802,9 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/access-the-uefi-and-updating-the-bios?u=76281980&t=9)** Also known as the BIOS, or basic input/output system.
 >
-> **[0:13](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/access-the-uefi-and-updating-the-bios?u=76281980&t=13)** The UEFI provides an interface for low level access of the PC's basic hardware, the firmware.
+> **[0:13](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/access-the-uefi-and-updating-the-bios?u=76281980&t=13)** The UEFI provides an interface for low level access of the PC's basic [[Hardware]], the firmware.
 >
-> **[0:20](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/access-the-uefi-and-updating-the-bios?u=76281980&t=20)** Beyond basic setup and configuration for the PC's hardware, the UEFI also allows for BIOS updates, which are just as important as Windows updates to keep your computer running smoothly.
+> **[0:20](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/access-the-uefi-and-updating-the-bios?u=76281980&t=20)** Beyond basic setup and configuration for the PC's hardware, the UEFI also allows for BIOS updates, which are just as important as [[Windows]] updates to keep your computer running smoothly.
 >
 > **[0:31](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/access-the-uefi-and-updating-the-bios?u=76281980&t=31)** Most BIOS updates are applied by using a special program.
 >
@@ -862,7 +852,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/access-the-uefi-and-updating-the-bios?u=76281980&t=125)** Use the keys presented to set the computer's boot sequence, access to the UEFI, or upgrade the BIOS.
 >
-> **[2:12](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/access-the-uefi-and-updating-the-bios?u=76281980&t=132)** As an example, my office PC lists three function keys on its startup menu.
+> **[2:12](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/access-the-uefi-and-updating-the-bios?u=76281980&t=132)** As an example, my [[Microsoft Office|office]] PC lists three function keys on its startup menu.
 >
 > **[2:17](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/access-the-uefi-and-updating-the-bios?u=76281980&t=137)** F2 to enter the setup program, the UEFI.
 >
@@ -880,7 +870,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (4), [[Hardware]] (2), power (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Windows]] (4), [[Hardware]] (2), [[Microsoft Office|Office]] (1)
 > **Env Vars:** uefi (11), bios (9), f10 (1)
 > **Prerequisites:** setup (2), install (2), set up (1)
 > **Definitions:** is called (1), known as (1)
@@ -889,18 +879,17 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Run the memory diagnostic
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/run-the-memory-diagnostic?u=76281980)
+#### [Run the memory diagnostic](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/run-the-memory-diagnostic?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/run-the-memory-diagnostic?u=76281980&t=0)** - [Instructor] Some hardware problems can really frustrate you.
+> **[0:00](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/run-the-memory-diagnostic?u=76281980&t=0)** - [Instructor] Some [[Hardware]] problems can really frustrate you.
 >
 > **[0:03](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/run-the-memory-diagnostic?u=76281980&t=3)** Perhaps you tried swapping out a graphics card or replacing a hard drive and yet, the computer still malfunctions.
 >
 > **[0:09](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/run-the-memory-diagnostic?u=76281980&t=9)** One thing you can check without having to further mess with the hardware is the computer's memory.
 >
-> **[0:13](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/run-the-memory-diagnostic?u=76281980&t=13)** In this movie, I demonstrate the Windows Memory Diagnostic.
+> **[0:13](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/run-the-memory-diagnostic?u=76281980&t=13)** In this movie, I demonstrate the [[Windows]] Memory Diagnostic.
 >
 > **[0:17](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/run-the-memory-diagnostic?u=76281980&t=17)** It's a tool that helps you check your PC's RAM to ensure that it's functioning properly.
 >
@@ -950,19 +939,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (6), [[Hardware]] (2), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Windows]] (6), [[Hardware]] (2)
 > **Env Vars:** ram (2)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Find a missing operating system
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/find-a-missing-operating-system?u=76281980)
+#### [Find a missing operating system](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/find-a-missing-operating-system?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/find-a-missing-operating-system?u=76281980&t=0)** - [Instructor] Nothing instills terror like the startup message, "Missing operating system."
 >
-> **[0:05](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/find-a-missing-operating-system?u=76281980&t=5)** Has Windows packed up its bags, and taken holiday somewhere tropical?
+> **[0:05](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/find-a-missing-operating-system?u=76281980&t=5)** Has [[Windows]] packed up its bags, and taken holiday somewhere tropical?
 >
 > **[0:09](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/find-a-missing-operating-system?u=76281980&t=9)** No.
 >
@@ -1008,7 +996,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/find-a-missing-operating-system?u=76281980&t=117)** Press enter, and the program attempts to fix the master boot record for the Windows boot drive.
 >
-> **[2:02](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/find-a-missing-operating-system?u=76281980&t=122)** Close the command prompt window when the program is done, and then continue into Windows 10 or turn off the PC.
+> **[2:02](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/find-a-missing-operating-system?u=76281980&t=122)** Close the command prompt window when the program is done, and then continue into [[Windows 10]] or turn off the PC.
 >
 > **[2:10](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/find-a-missing-operating-system?u=76281980&t=130)** These repair methods are your best tools to address the missing operating system error.
 >
@@ -1022,15 +1010,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (7), prompt (3), [[Windows 10]] (1)
+> **Frameworks & Libraries:** [[Windows]] (7), [[Windows 10]] (1)
 > **Tools:** command prompt (3)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Work through shutdown issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/work-through-shutdown-issues?u=76281980)
+#### [Work through shutdown issues](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/work-through-shutdown-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1050,7 +1037,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/work-through-shutdown-issues?u=76281980&t=28)** The solution is to get the latest version of a program.
 >
-> **[0:31](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/work-through-shutdown-issues?u=76281980&t=31)** Hardware that stalls a shutdown might also suffer from a software problem.
+> **[0:31](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/work-through-shutdown-issues?u=76281980&t=31)** [[Hardware]] that stalls a shutdown might also suffer from a software problem.
 >
 > **[0:35](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/work-through-shutdown-issues?u=76281980&t=35)** Ensure that all hardware drivers are up to date and current.
 >
@@ -1060,7 +1047,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/work-through-shutdown-issues?u=76281980&t=50)** The system turns itself off.
 >
-> **[0:53](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/work-through-shutdown-issues?u=76281980&t=53)** When the shutdown process doesn't go smoothly, Windows informs you.
+> **[0:53](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/work-through-shutdown-issues?u=76281980&t=53)** When the shutdown process doesn't go smoothly, [[Windows]] informs you.
 >
 > **[0:57](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/work-through-shutdown-issues?u=76281980&t=57)** Upon restarting, the system displays a message that the computer has improperly shut down.
 >
@@ -1120,7 +1107,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (7), data (4), power (3), [[Hardware]] (2), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Windows]] (7), [[Hardware]] (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1129,12 +1116,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Start up in safe mode
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/start-up-in-safe-mode?u=76281980)
+#### [Start up in safe mode](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/start-up-in-safe-mode?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/start-up-in-safe-mode?u=76281980&t=0)** - [Instructor] Safe mode doesn't imply that Windows normally runs in unsafe mode.
+> **[0:00](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/start-up-in-safe-mode?u=76281980&t=0)** - [Instructor] Safe mode doesn't imply that [[Windows]] normally runs in unsafe mode.
 >
 > **[0:04](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/start-up-in-safe-mode?u=76281980&t=4)** No, safe mode is designed to diagnose and repair software problems, specifically those owned by Windows.
 >
@@ -1150,7 +1136,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/start-up-in-safe-mode?u=76281980&t=35)** Press the Windows + R keyboard shortcut to bring up a run dialog box and type msconfig, m-s-c-o-n-f-i-g, the name of the program to run, press Enter, click OK.
 >
-> **[0:47](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/start-up-in-safe-mode?u=76281980&t=47)** And the system configuration program appears.
+> **[0:47](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/start-up-in-safe-mode?u=76281980&t=47)** And the [[System Configuration]] program appears.
 >
 > **[0:50](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/start-up-in-safe-mode?u=76281980&t=50)** Click the Boot tab and ensure that there's a check mark here for Safe Boot.
 >
@@ -1176,7 +1162,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/start-up-in-safe-mode?u=76281980&t=122)** You can also determine, at this point, whether Windows itself is to blame for the problem.
 >
-> **[2:07](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/start-up-in-safe-mode?u=76281980&t=127)** For example, if the system doesn't show any error messages in safe mode, you know that the issue lies elsewhere with a specific program, or hardware driver, but not with Windows.
+> **[2:07](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/start-up-in-safe-mode?u=76281980&t=127)** For example, if the system doesn't show any error messages in safe mode, you know that the issue lies elsewhere with a specific program, or [[Hardware]] driver, but not with Windows.
 >
 > **[2:17](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/start-up-in-safe-mode?u=76281980&t=137)** If the problem persists in safe mode it's either an issue with Windows itself, or a hardware problem.
 >
@@ -1192,7 +1178,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/start-up-in-safe-mode?u=76281980&t=182)** It's not meant as an alternative way to run programs when Windows doesn't function properly.
 >
-> **[3:08](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/start-up-in-safe-mode?u=76281980&t=188)** Do not use safe mode to check for email, or to use Microsoft Office, or to play a game.
+> **[3:08](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/start-up-in-safe-mode?u=76281980&t=188)** Do not use safe mode to check for email, or to use [[Microsoft Office]], or to play a game.
 >
 > **[3:13](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/start-up-in-safe-mode?u=76281980&t=193)** If you can't do those things in Windows normally you need to fix the issue and if that process involves using safe mode, then you do so.
 >
@@ -1200,28 +1186,27 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (15), [[Troubleshooting]] (2), [[Hardware]] (2), data (1), [[System Configuration]] (1)
+> **Frameworks & Libraries:** [[Windows]] (15), [[Hardware]] (2), [[System Configuration]] (1), [[Microsoft Office]] (1)
 > **Analogies:** for example (3), similar to (1)
 > **UI Navigation:** open the (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use system restore
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/use-system-restore?u=76281980)
+#### [Use system restore](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/use-system-restore?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/use-system-restore?u=76281980&t=0)** - [Presenter] The root of PC trouble is change.
 >
-> **[0:03](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/use-system-restore?u=76281980&t=3)** Microsoft recognizes that change happens unexpectedly.
+> **[0:03](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/use-system-restore?u=76281980&t=3)** [[Microsoft]] recognizes that change happens unexpectedly.
 >
-> **[0:06](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/use-system-restore?u=76281980&t=6)** So Windows includes a tool to help unwind the clock, it's called system restore.
+> **[0:06](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/use-system-restore?u=76281980&t=6)** So [[Windows]] includes a tool to help unwind the clock, it's called system restore.
 >
 > **[0:12](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/use-system-restore?u=76281980&t=12)** The system restore feature provides a quick backup of vital system settings, it creates a restore point.
 >
 > **[0:19](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/use-system-restore?u=76281980&t=19)** If anything goes awry in the system, you can use the restore point to bring back the computer to its previous working condition.
 >
-> **[0:27](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/use-system-restore?u=76281980&t=27)** Restore points are created automatically in Windows 10.
+> **[0:27](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/use-system-restore?u=76281980&t=27)** Restore points are created automatically in [[Windows 10]].
 >
 > **[0:30](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/use-system-restore?u=76281980&t=30)** Each time you upgrade Windows or install new software, a restore point is created.
 >
@@ -1259,7 +1244,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/use-system-restore?u=76281980&t=144)** Windows does a great job of creating restore points.
 >
-> **[2:28](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/use-system-restore?u=76281980&t=148)** But you can manually create one at any time for example before installing new hardware.
+> **[2:28](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/use-system-restore?u=76281980&t=148)** But you can manually create one at any time for example before installing new [[Hardware]].
 >
 > **[2:33](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/use-system-restore?u=76281980&t=153)** If so to create a restore point, click the Create button.
 >
@@ -1291,19 +1276,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (8), [[Hardware]] (4), next (3), [[Microsoft]] (1), feature (1)
+> **Frameworks & Libraries:** [[Windows]] (8), [[Hardware]] (4), [[Microsoft]] (1), [[Windows 10]] (1)
 > **Analogies:** for example (2), just like (1), such as (1)
 > **Warnings:** warning (1), troubleshoot (1)
 > **Prerequisites:** install (1), configure (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
 
-#### Explore the MSCONFIG utility
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/explore-the-msconfig-utility?u=76281980)
+#### [Explore the MSCONFIG utility](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/explore-the-msconfig-utility?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/explore-the-msconfig-utility?u=76281980&t=0)** - [Instructor] The System Configuration utility, better known by its program name, MSConfig, is ideal for troubleshooting PC boot issues and Windows problems.
+> **[0:00](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/explore-the-msconfig-utility?u=76281980&t=0)** - [Instructor] The [[System Configuration]] utility, better known by its program name, MSConfig, is ideal for troubleshooting PC boot issues and [[Windows]] problems.
 >
 > **[0:10](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/explore-the-msconfig-utility?u=76281980&t=10)** It also has the capability to control startup programs, as well as launch other troubleshooting tools.
 >
@@ -1349,7 +1333,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/explore-the-msconfig-utility?u=76281980&t=100)** If the system runs normally without the startup service, you can either uninstall the program, remove the service or just keep it disabled.
 >
-> **[1:48](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/explore-the-msconfig-utility?u=76281980&t=108)** Closely related to Services are the programs shown on the startup tab but in Windows 10, this list is found instead on the Task Manager, so click the Open Task Manager link to view the list of startup programs.
+> **[1:48](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/explore-the-msconfig-utility?u=76281980&t=108)** Closely related to Services are the programs shown on the startup tab but in [[Windows 10]], this list is found instead on the Task Manager, so click the Open Task Manager link to view the list of startup programs.
 >
 > **[2:01](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/explore-the-msconfig-utility?u=76281980&t=121)** These are programs that start automatically.
 >
@@ -1365,7 +1349,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/explore-the-msconfig-utility?u=76281980&t=154)** And you see the troubleshooting page in the Settings app where you find all sorts of help for tracking down various issues from internet connections to the blue screen of death.
 >
-> **[2:45](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/explore-the-msconfig-utility?u=76281980&t=165)** Launch the Resource Monitor to view how your PC is using the CPU, storage and other hardware resources.
+> **[2:45](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/explore-the-msconfig-utility?u=76281980&t=165)** Launch the Resource Monitor to view how your PC is using the CPU, storage and other [[Hardware]] resources.
 >
 > **[2:53](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/explore-the-msconfig-utility?u=76281980&t=173)** If you experience a slow PC, review this list to see whether one or more programs are running amuck and consuming a lot of resources.
 >
@@ -1391,7 +1375,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (10), [[Troubleshooting]] (6), [[System Configuration]] (4), [[Windows 10]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Windows]] (10), [[System Configuration]] (4), [[Windows 10]] (1), [[Hardware]] (1)
 > **Analogies:** for example (3), such as (1)
 > **CLI Commands:** find (2)
 > **Best Practices:** remember to (2)
@@ -1400,12 +1384,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Warnings:** troubleshoot (1)
 
-#### Access the Task Manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/access-the-task-manager?u=76281980)
+#### [Access the Task Manager](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/access-the-task-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/access-the-task-manager?u=76281980&t=1)** - [Instructor] The Windows Task Manager is a tool that shows you which programs, processes, and services are running on your computer.
+> **[0:01](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/access-the-task-manager?u=76281980&t=1)** - [Instructor] The [[Windows]] Task Manager is a tool that shows you which programs, processes, and services are running on your computer.
 >
 > **[0:09](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/access-the-task-manager?u=76281980&t=9)** It also offers insight in how the PC is performing and can help you clear up some issues with programs run amuck.
 >
@@ -1427,7 +1410,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/access-the-task-manager?u=76281980&t=62)** The background processes are related to services which I'll get into in a moment.
 >
-> **[1:06](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/access-the-task-manager?u=76281980&t=66)** You see details and statistics for each process.
+> **[1:06](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/access-the-task-manager?u=76281980&t=66)** You see details and [[Statistics]] for each process.
 >
 > **[1:09](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/access-the-task-manager?u=76281980&t=69)** For example, this is where you'd spot a program with a memory leak.
 >
@@ -1535,7 +1518,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (14), [[Statistics]] (2), feature (1), management (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Windows]] (14), [[Statistics]] (2)
 > **Env Vars:** cpu (5), svc (3), mgr (1)
 > **Analogies:** for example (4)
 > **CLI Commands:** find (2), make (1)
@@ -1543,8 +1526,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Work with the Registry Editor
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/work-with-the-registry-editor?u=76281980)
+#### [Work with the Registry Editor](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/work-with-the-registry-editor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1552,7 +1534,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/work-with-the-registry-editor?u=76281980&t=4)** It's obscure and cryptic, designed that way deliberately.
 >
-> **[0:08](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/work-with-the-registry-editor?u=76281980&t=8)** So, while it can help resolve some Windows issues, it's not the friendliest thing to use.
+> **[0:08](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/work-with-the-registry-editor?u=76281980&t=8)** So, while it can help resolve some [[Windows]] issues, it's not the friendliest thing to use.
 >
 > **[0:13](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/work-with-the-registry-editor?u=76281980&t=13)** To examine or modify the registry, run the registry editor program.
 >
@@ -1574,7 +1556,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/work-with-the-registry-editor?u=76281980&t=59)** Items from this hive are copied into the current user hive.
 >
-> **[1:03](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/work-with-the-registry-editor?u=76281980&t=63)** And HKEY_CURRENT_CONFIG contains hardware information about the PC.
+> **[1:03](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/work-with-the-registry-editor?u=76281980&t=63)** And HKEY_CURRENT_CONFIG contains [[Hardware]] information about the PC.
 >
 > **[1:08](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/work-with-the-registry-editor?u=76281980&t=68)** The purpose of all these hives and their contents is to retain system-wide settings in a central location.
 >
@@ -1596,7 +1578,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/work-with-the-registry-editor?u=76281980&t=122)** The goal is to find a specific registry key and edit it.
 >
-> **[2:06](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/work-with-the-registry-editor?u=76281980&t=126)** To do so, you would open a specific hive, such as HKEY_CURRENT_USER, and then you would open the various folders to get to a specific key, such as software, Microsoft, Windows, current version, explore.
+> **[2:06](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/work-with-the-registry-editor?u=76281980&t=126)** To do so, you would open a specific hive, such as HKEY_CURRENT_USER, and then you would open the various folders to get to a specific key, such as software, [[Microsoft]], Windows, current version, explore.
 >
 > **[2:25](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/work-with-the-registry-editor?u=76281980&t=145)** And the various keys appear on the right side of the window.
 >
@@ -1632,12 +1614,11 @@ created: 2026-05-02
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Review events
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/review-events?u=76281980)
+#### [Review events](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/review-events?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/review-events?u=76281980&t=0)** - [Instructor] To discover what's happening, or has happened in your computer, you can review the Windows event log.
+> **[0:00](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/review-events?u=76281980&t=0)** - [Instructor] To discover what's happening, or has happened in your computer, you can review the [[Windows]] event log.
 >
 > **[0:06](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/review-events?u=76281980&t=6)** The event log is a chronicle of the computer's activities.
 >
@@ -1661,7 +1642,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/review-events?u=76281980&t=46)** Choose a log file to view.
 >
-> **[0:47](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/review-events?u=76281980&t=47)** For example, if you just experienced something odd, or if the computer has experienced something odd, say a program has crashed, or you saw an error message about the PC's hardware, you choose the system log.
+> **[0:47](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/review-events?u=76281980&t=47)** For example, if you just experienced something odd, or if the computer has experienced something odd, say a program has crashed, or you saw an error message about the PC's [[Hardware]], you choose the system log.
 >
 > **[0:59](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/review-events?u=76281980&t=59)** Open Windows logs and choose system.
 >
@@ -1715,7 +1696,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/review-events?u=76281980&t=170)** Select the hardware events log.
 >
-> **[2:53](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/review-events?u=76281980&t=173)** The rest of the settings look okay, and you can further customize the view later.
+> **[2:53](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/review-events?u=76281980&t=173)** The [[Representational State Transfer (REST)|rest]] of the settings look okay, and you can further customize the view later.
 >
 > **[2:57](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/review-events?u=76281980&t=177)** Click okay.
 >
@@ -1739,7 +1720,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (5), [[Hardware]] (4), game (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Windows]] (5), [[Hardware]] (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** for example (3), such as (2)
 > **Warnings:** warning (2), keep in mind (1)
 > **CLI Commands:** find (1)
@@ -1747,22 +1728,21 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Fix Windows
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/fix-windows?u=76281980)
+#### [Fix Windows](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/fix-windows?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/fix-windows?u=76281980&t=0)** - [Instructor] Windows issues can be fixed without doing anything drastic but you must know the secret and the secret is a command line utility called the system file checker.
+> **[0:00](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/fix-windows?u=76281980&t=0)** - [Instructor] [[Windows]] issues can be fixed without doing anything drastic but you must know the secret and the secret is a command line utility called the system file checker.
 >
 > **[0:09](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/fix-windows?u=76281980&t=9)** It fixes broken parts of Windows in a non drastic manner.
 >
-> **[0:14](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/fix-windows?u=76281980&t=14)** I'll start the system file checker in the PowerShell so right click on the start button and choose PowerShell Admin, click yes in the UAC dialog box and the PowerShell administrator window appears.
+> **[0:14](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/fix-windows?u=76281980&t=14)** I'll start the system file checker in the [[Powershell]] so right click on the start button and choose PowerShell Admin, click yes in the UAC dialog box and the PowerShell administrator window appears.
 >
 > **[0:32](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/fix-windows?u=76281980&t=32)** The system file checker program name is SFC.
 >
 > **[0:38](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/fix-windows?u=76281980&t=38)** Now that's followed by an option that directs the program to perform a specific task.
 >
-> **[0:42](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/fix-windows?u=76281980&t=42)** For now you can type SFC and follow the option with slash verify only, one word.
+> **[0:42](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/fix-windows?u=76281980&t=42)** For now you can type SFC and follow the option with slash verify only, one [[Microsoft Word|word]].
 >
 > **[0:50](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/fix-windows?u=76281980&t=50)** Nothing is wrong with this computer.
 >
@@ -1802,7 +1782,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (9), [[Powershell]] (4), [[Microsoft Word|Word]] (1), prompt (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Windows]] (9), [[Powershell]] (4), [[Microsoft Word|Word]] (1)
 > **Env Vars:** sfc (5), uac (1)
 > **Tools:** powershell (4), command line (1), command prompt (1)
 > **UI Navigation:** click on (1), open the (1)
@@ -1816,12 +1796,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Check storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-storage?u=76281980)
+#### [Check storage](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-storage?u=76281980&t=0)** - [Instructor] Your PC's mass storage system is perhaps one of the most vital pieces of hardware in the computer.
+> **[0:00](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-storage?u=76281980&t=0)** - [Instructor] Your PC's mass storage system is perhaps one of the most vital pieces of [[Hardware]] in the computer.
 >
 > **[0:06](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-storage?u=76281980&t=6)** That's where you store your stuff, the things you create, your work, your photos, and other important files.
 >
@@ -1831,11 +1810,11 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-storage?u=76281980&t=25)** Yet, no matter what the device's name, keeping your PC's mass storage happy and healthy is important.
 >
-> **[0:32](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-storage?u=76281980&t=32)** The first place to view storage on your computer is the This PC window, a name I can't stand because it contains the word this.
+> **[0:32](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-storage?u=76281980&t=32)** The first place to view storage on your computer is the This PC window, a name I can't stand because it contains the [[Microsoft Word|word]] this.
 >
 > **[0:41](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-storage?u=76281980&t=41)** So, forgive my awkward phrasing.
 >
-> **[0:43](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-storage?u=76281980&t=43)** Press the Windows and E key combination to summon a file explorer window.
+> **[0:43](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-storage?u=76281980&t=43)** Press the [[Windows]] and E key combination to summon a file explorer window.
 >
 > **[0:48](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-storage?u=76281980&t=48)** From the address bar, choose This PC.
 >
@@ -1873,7 +1852,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-storage?u=76281980&t=131)** The tools tab lists commands for error checking and optimization.
 >
-> **[2:16](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-storage?u=76281980&t=136)** In Windows 10, you pretty much don't have to mess with these tools.
+> **[2:16](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-storage?u=76281980&t=136)** In [[Windows 10]], you pretty much don't have to mess with these tools.
 >
 > **[2:20](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-storage?u=76281980&t=140)** Windows automatically schedules error checking and optimization.
 >
@@ -1918,8 +1897,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Free storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/free-storage?u=76281980)
+#### [Free storage](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/free-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1927,7 +1905,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/free-storage?u=76281980&t=4)** You can add additional storage devices such as another hard driver SSD which works for the long run but for immediate relief, consider freeing up some storage by removing files you don't need that occupy large tracks of storage real estate.
 >
-> **[0:20](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/free-storage?u=76281980&t=20)** The solutions I recommend are provided by various Windows tools, including disk cleanup, removing unwanted software and archiving large files and projects.
+> **[0:20](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/free-storage?u=76281980&t=20)** The solutions I recommend are provided by various [[Windows]] tools, including disk cleanup, removing unwanted software and archiving large files and projects.
 >
 > **[0:31](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/free-storage?u=76281980&t=31)** I'll start with some easy tricks.
 >
@@ -1967,7 +1945,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/free-storage?u=76281980&t=137)** Such as older programs but also some of the pre-installed bloatware.
 >
-> **[2:22](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/free-storage?u=76281980&t=142)** To review software in Windows 10, press the Windows + I keyboard shortcut to bring up the settings app.
+> **[2:22](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/free-storage?u=76281980&t=142)** To review software in [[Windows 10]], press the Windows + I keyboard shortcut to bring up the settings app.
 >
 > **[2:30](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/free-storage?u=76281980&t=150)** Choose apps.
 >
@@ -2011,7 +1989,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (5), [[Windows]] (4), [[Windows 10]] (1)
+> **Frameworks & Libraries:** [[Windows]] (4), [[Windows 10]] (1)
 > **Versions:** 10.5 (1), 19.2 (1)
 > **UI Navigation:** click on (1), navigate to (1)
 > **Analogies:** such as (2)
@@ -2020,8 +1998,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [presenter] (1)
 
-#### Work in the disk management console
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/work-in-the-disk-management-console?u=76281980)
+#### [Work in the disk management console](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/work-in-the-disk-management-console?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2029,7 +2006,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/work-in-the-disk-management-console?u=76281980&t=8)** Within the console, you'll find the disk management tool, which lets you access your PC's storage device at both a physical and logical level.
 >
-> **[0:18](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/work-in-the-disk-management-console?u=76281980&t=18)** To access the Computer Management Console, tap the Windows key and type Computer Management.
+> **[0:18](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/work-in-the-disk-management-console?u=76281980&t=18)** To access the Computer Management Console, tap the [[Windows]] key and type Computer Management.
 >
 > **[0:25](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/work-in-the-disk-management-console?u=76281980&t=25)** Choose the Computer Management Desktop app.
 >
@@ -2109,7 +2086,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (8), [[Windows]] (7), data (1)
+> **Frameworks & Libraries:** [[Windows]] (7)
 > **Env Vars:** uefi (3), efi (1), bios (1)
 > **CLI Commands:** find (2)
 > **Analogies:** such as (1), for example (1)
@@ -2121,12 +2098,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Find printer hardware solutions
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/find-printer-hardware-solutions?u=76281980)
+#### [Find printer hardware solutions](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/find-printer-hardware-solutions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/find-printer-hardware-solutions?u=76281980&t=0)** - [Instructor] A printer is really a type of computer with its own hardware, operating system, and software, but the printer does only one thing: put ink on paper.
+> **[0:00](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/find-printer-hardware-solutions?u=76281980&t=0)** - [Instructor] A printer is really a type of computer with its own [[Hardware]], operating system, and software, but the printer does only one thing: put ink on paper.
 >
 > **[0:09](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/find-printer-hardware-solutions?u=76281980&t=9)** When things don't work well, that's when you need to troubleshoot.
 >
@@ -2136,7 +2112,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/find-printer-hardware-solutions?u=76281980&t=24)** If your printer features a control panel, you can use it for troubleshooting.
 >
-> **[0:29](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/find-printer-hardware-solutions?u=76281980&t=29)** Some printers have software you can use in Windows from which you control the printer.
+> **[0:29](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/find-printer-hardware-solutions?u=76281980&t=29)** Some printers have software you can use in [[Windows]] from which you control the printer.
 >
 > **[0:34](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/find-printer-hardware-solutions?u=76281980&t=34)** Either way, become familiar with the printer's control panel or software program.
 >
@@ -2208,21 +2184,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (3), [[Troubleshooting]] (2), [[Hardware]] (1), feature (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Hardware]] (1)
 > **Warnings:** troubleshoot (1), warning (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** usb (1)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Check printer status
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-printer-status?u=76281980)
+#### [Check printer status](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-printer-status?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-printer-status?u=76281980&t=0)** - [Instructor] Most printers feature an interactive control panel that displays the printer's status, offers information about the network connection, ink level, paper stock and other info.
 >
-> **[0:10](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-printer-status?u=76281980&t=10)** Even if the printer doesn't feature such a control panel, it may use a program in Windows that reports its status.
+> **[0:10](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-printer-status?u=76281980&t=10)** Even if the printer doesn't feature such a control panel, it may use a program in [[Windows]] that reports its status.
 >
 > **[0:17](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-printer-status?u=76281980&t=17)** Use this software tool to get more information about the printer and resolve some issues.
 >
@@ -2292,14 +2267,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (11), feature (3), application (1), generic (1)
+> **Frameworks & Libraries:** [[Windows]] (11)
 > **Analogies:** picture (1), such as (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Update the printer driver
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/update-the-printer-driver?u=76281980)
+#### [Update the printer driver](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/update-the-printer-driver?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2307,7 +2281,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/update-the-printer-driver?u=76281980&t=3)** This software is generically referred to as a printer driver.
 >
-> **[0:07](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/update-the-printer-driver?u=76281980&t=7)** It runs in Windows and it controls the printer.
+> **[0:07](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/update-the-printer-driver?u=76281980&t=7)** It runs in [[Windows]] and it controls the printer.
 >
 > **[0:10](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/update-the-printer-driver?u=76281980&t=10)** A bad printer driver leads to endless woe, from a printer that just doesn't print, is chronically unavailable, or a printer that outputs gibberish.
 >
@@ -2383,7 +2357,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (9), next (2), feature (1)
+> **Frameworks & Libraries:** [[Windows]] (9)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** p2055 (1), uac (1)
 > **UI Navigation:** select the (2)
@@ -2397,8 +2371,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Troubleshoot the monitor
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/troubleshoot-the-monitor?u=76281980)
+#### [Troubleshoot the monitor](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/troubleshoot-the-monitor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2428,7 +2401,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/troubleshoot-the-monitor?u=76281980&t=62)** So the button is one color when the monitor is asleep, say yellow and another when the monitor is awake and receiving a signal, say green or blue, and when the monitor is off, well, the lamp is just not going to have any color.
 >
-> **[1:14](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/troubleshoot-the-monitor?u=76281980&t=74)** So, if a monitor is on, but the power button is yellow then it may mean that the monitor is working but the problem is with the graphics hardware inside the computer.
+> **[1:14](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/troubleshoot-the-monitor?u=76281980&t=74)** So, if a monitor is on, but the power button is yellow then it may mean that the monitor is working but the problem is with the graphics [[Hardware]] inside the computer.
 >
 > **[1:24](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/troubleshoot-the-monitor?u=76281980&t=84)** To control the monitor or modify its settings, you use an on-screen menu.
 >
@@ -2476,25 +2449,24 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/troubleshoot-the-monitor?u=76281980&t=220)** Also many localities don't permit you to throw away a monitor in the trash.
 >
-> **[3:45](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/troubleshoot-the-monitor?u=76281980&t=225)** Please properly dispose of old monitors as well as old technology or electronics in the manner prescribed for your locality.
+> **[3:45](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/troubleshoot-the-monitor?u=76281980&t=225)** Please properly dispose of old monitors as well as old technology or [[Electronics]] in the manner prescribed for your locality.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (6), feature (3), [[Hardware]] (1), game (1), [[Electronics]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (1), [[Electronics]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - a (1)
 
-#### Adjust the graphics adapter
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/adjust-the-graphics-adapter?u=76281980)
+#### [Adjust the graphics adapter](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/adjust-the-graphics-adapter?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/adjust-the-graphics-adapter?u=76281980&t=0)** - [Instructor] The internal part of your PC's graphic system is the display adapter.
 >
-> **[0:05](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/adjust-the-graphics-adapter?u=76281980&t=5)** It's hardware, either part of the motherboard or dwelling on an expansion card.
+> **[0:05](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/adjust-the-graphics-adapter?u=76281980&t=5)** It's [[Hardware]], either part of the motherboard or dwelling on an expansion card.
 >
-> **[0:09](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/adjust-the-graphics-adapter?u=76281980&t=9)** Adjusting the display adapter is done in Windows.
+> **[0:09](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/adjust-the-graphics-adapter?u=76281980&t=9)** Adjusting the display adapter is done in [[Windows]].
 >
 > **[0:12](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/adjust-the-graphics-adapter?u=76281980&t=12)** In fact, I recommend that you confirm that the display adapter and the monitor are fully cooperating.
 >
@@ -2572,7 +2544,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/adjust-the-graphics-adapter?u=76281980&t=178)** Then repeat the process to update the driver as described earlier in this movie.
 >
-> **[3:03](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/adjust-the-graphics-adapter?u=76281980&t=183)** Windows will fetch a new driver from the internet, install it, and hopefully the problem is resolved.
+> **[3:03](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/adjust-the-graphics-adapter?u=76281980&t=183)** Windows will [[Fetch]] a new driver from the internet, install it, and hopefully the problem is resolved.
 >
 > **[3:10](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/adjust-the-graphics-adapter?u=76281980&t=190)** Beyond the Windows method of installing drivers, many display adapters come with their own configuration and management program, such as Nvidia's control panel.
 >
@@ -2580,7 +2552,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (7), [[Hardware]] (2), [[Search]] (2), [[Fetch]] (1), management (1)
+> **Frameworks & Libraries:** [[Windows]] (7), [[Hardware]] (2), [[Fetch]] (1)
 > **Best Practices:** recommended (5)
 > **UI Navigation:** right-click (1), scroll down (1)
 > **Analogies:** for example (1), such as (1)
@@ -2594,8 +2566,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Work with USB connections
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/work-with-usb-connections?u=76281980)
+#### [Work with USB connections](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/work-with-usb-connections?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2651,7 +2622,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/work-with-usb-connections?u=76281980&t=147)** Do not try disconnecting or reconnecting USB storage, however.
 >
-> **[2:31](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/work-with-usb-connections?u=76281980&t=151)** Instead, use Windows to properly eject these peripherals before detaching the cable.
+> **[2:31](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/work-with-usb-connections?u=76281980&t=151)** Instead, use [[Windows]] to properly eject these peripherals before detaching the cable.
 >
 > **[2:36](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/work-with-usb-connections?u=76281980&t=156)** Some USB peripherals may require extra software to function.
 >
@@ -2667,19 +2638,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), [[Troubleshooting]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **Env Vars:** usb (29)
 > **Versions:** 3.0 (4)
 > **Analogies:** such as (1), for example (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Troubleshoot audio
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/troubleshoot-audio?u=76281980)
+#### [Troubleshoot audio](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/troubleshoot-audio?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/troubleshoot-audio?u=76281980&t=0)** - [Instructor] In Windows, to quickly test the speakers, click the volume notification.
+> **[0:00](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/troubleshoot-audio?u=76281980&t=0)** - [Instructor] In [[Windows]], to quickly test the speakers, click the volume notification.
 >
 > **[0:06](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/troubleshoot-audio?u=76281980&t=6)** Click the adjustment bar to hear sounds.
 >
@@ -2715,7 +2685,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/troubleshoot-audio?u=76281980&t=89)** Some speakers require both audio and power cables.
 >
-> **[1:33](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/troubleshoot-audio?u=76281980&t=93)** Ensure that the speakers aren't muted by a hardware button you may find on the speakers.
+> **[1:33](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/troubleshoot-audio?u=76281980&t=93)** Ensure that the speakers aren't muted by a [[Hardware]] button you may find on the speakers.
 >
 > **[1:37](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/troubleshoot-audio?u=76281980&t=97)** Also check for a hardware volume control as well.
 >
@@ -2755,7 +2725,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (2), [[Hardware]] (2), [[Troubleshooting]] (1), power (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Hardware]] (2)
 > **UI Navigation:** right-click (3), select the (2), open the (1)
 > **Env Vars:** usb (3)
 > **Warnings:** troubleshoot (3)
@@ -2769,8 +2739,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Check network software
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-network-software?u=76281980)
+#### [Check network software](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-network-software?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2782,7 +2751,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-network-software?u=76281980&t=9)** Even if you have only one PC connected to a modem or router, you still have a local network, as well as the internet.
 >
-> **[0:16](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-network-software?u=76281980&t=16)** To sleuth the problem, you start in Windows.
+> **[0:16](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-network-software?u=76281980&t=16)** To sleuth the problem, you start in [[Windows]].
 >
 > **[0:19](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-network-software?u=76281980&t=19)** Check the local network.
 >
@@ -2840,7 +2809,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-network-software?u=76281980&t=138)** Otherwise, you'll see that the best driver is already installed, and then you can close all the windows.
 >
-> **[2:26](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-network-software?u=76281980&t=146)** Any problems beyond Windows software are either hardware issues with the network or problems on the internet.
+> **[2:26](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-network-software?u=76281980&t=146)** Any problems beyond Windows software are either [[Hardware]] issues with the network or problems on the internet.
 >
 > **[2:32](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-network-software?u=76281980&t=152)** For network hardware, you can try restarting the network, which is the topic of another movie in this course.
 >
@@ -2848,19 +2817,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (5), [[Hardware]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Windows]] (5), [[Hardware]] (2)
 > **UI Navigation:** select the (2), double-click (1)
 > **Analogies:** for example (1), such as (1)
 > **Prerequisites:** configure (1), install (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Check network hardware
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-network-hardware?u=76281980)
+#### [Check network hardware](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-network-hardware?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-network-hardware?u=76281980&t=0)** - [Instructor] Network hardware trouble festers in several locations, the network device, such as a computer, the local network, as a resource and the internet.
+> **[0:00](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-network-hardware?u=76281980&t=0)** - [Instructor] Network [[Hardware]] trouble festers in several locations, the network device, such as a computer, the local network, as a resource and the internet.
 >
 > **[0:09](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-network-hardware?u=76281980&t=9)** The good news is that most network hardware is reliable and any fixes required are simple.
 >
@@ -2874,7 +2842,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-network-hardware?u=76281980&t=52)** Specifically the ready light if it has one, then turn on the router.
 >
-> **[0:56](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-network-hardware?u=76281980&t=56)** When the router is up and running the rest of the network should be active hopefully the issue is resolved.
+> **[0:56](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-network-hardware?u=76281980&t=56)** When the router is up and running the [[Representational State Transfer (REST)|rest]] of the network should be active hopefully the issue is resolved.
 >
 > **[1:03](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-network-hardware?u=76281980&t=63)** If the network continues to malfunction you need to power down the entire network.
 >
@@ -2884,7 +2852,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-network-hardware?u=76281980&t=81)** If this trick doesn't work, the problem is with networking hardware or it's an internet issue you cannot resolve yourself.
 >
-> **[1:28](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-network-hardware?u=76281980&t=88)** For windows 10 network troubleshooting, open the settings app, press the Windows + I keyboard shortcut, choose network and internet and then choose the network troubleshooter select the networking adapter that concerns you.
+> **[1:28](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-network-hardware?u=76281980&t=88)** For [[Windows 10]] [[Network Troubleshooting]], open the settings app, press the [[Windows]] + I keyboard shortcut, choose network and internet and then choose the network troubleshooter select the networking adapter that concerns you.
 >
 > **[1:45](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-network-hardware?u=76281980&t=105)** For example, the wifi adapter click next and continue to work through the troubleshooter as it diagnoses the problem.
 >
@@ -2892,7 +2860,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-network-hardware?u=76281980&t=120)** This item resets the computers network adapters all at once.
 >
-> **[2:04](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-network-hardware?u=76281980&t=124)** Consider using it if the other options don't seem to have any effect wireless networking issues can be unique.
+> **[2:04](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-network-hardware?u=76281980&t=124)** Consider using it if the other options don't seem to have any effect [[Wireless Networking]] issues can be unique.
 >
 > **[2:11](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-network-hardware?u=76281980&t=131)** For example keep in mind that the signal strength drops with distance.
 >
@@ -2904,15 +2872,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (3), power (3), [[Troubleshooting]] (2), next (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Windows 10]] (1), [[Network Troubleshooting]] (1), [[Windows]] (1)
 > **Analogies:** for example (2), such as (1)
 > **UI Navigation:** open the (1), select the (1)
 > **Cross-References:** in the next (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Address the no internet issue
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/address-the-no-internet-issue?u=76281980)
+#### [Address the no internet issue](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/address-the-no-internet-issue?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2926,7 +2893,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/address-the-no-internet-issue?u=76281980&t=12)** Or is it even your problem at all.
 >
-> **[0:15](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/address-the-no-internet-issue?u=76281980&t=15)** In Windows, a missing internet connection is evident from the task bar.
+> **[0:15](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/address-the-no-internet-issue?u=76281980&t=15)** In [[Windows]], a missing internet connection is evident from the task bar.
 >
 > **[0:18](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/address-the-no-internet-issue?u=76281980&t=18)** The network icon features a warning flag.
 >
@@ -2948,7 +2915,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/address-the-no-internet-issue?u=76281980&t=52)** If resetting the modem doesn't work, phone your ISP to see whether the internet is down in your area.
 >
-> **[0:59](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/address-the-no-internet-issue?u=76281980&t=59)** The problem might be with a single website so you can try loading a popular website, such as LinkedIn, Google, or Bing.
+> **[0:59](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/address-the-no-internet-issue?u=76281980&t=59)** The problem might be with a single website so you can try loading a popular website, such as [[LinkedIn]], [[Google]], or Bing.
 >
 > **[1:05](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/address-the-no-internet-issue?u=76281980&t=65)** These sites might be up when the site you want is down, and websites do go down.
 >
@@ -2956,7 +2923,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/address-the-no-internet-issue?u=76281980&t=75)** The most popular is the ping utility.
 >
-> **[1:17](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/address-the-no-internet-issue?u=76281980&t=77)** Right-click the mouse in the lower-left corner of the screen and choose the Windows PowerShell.
+> **[1:17](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/address-the-no-internet-issue?u=76281980&t=77)** Right-click the mouse in the lower-left corner of the screen and choose the Windows [[Powershell]].
 >
 > **[1:23](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/address-the-no-internet-issue?u=76281980&t=83)** Type the command ping, followed by a website address such as [yahoo.com](https://yahoo.com).
 >
@@ -2994,7 +2961,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (3), data (2), power (1), [[LinkedIn]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[LinkedIn]] (1), [[Google]] (1), [[Powershell]] (1)
 > **Warnings:** troubleshoot (2), warning (1), be careful (1)
 > **Env Vars:** isp (3)
 > **Analogies:** such as (2), similar to (1)
@@ -3008,8 +2975,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3021,9 +2987,9 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/next-steps?u=76281980&t=19)** Other courses you might want to look into include Setting Up a New PC with Joli Ballew.
 >
-> **[0:24](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/next-steps?u=76281980&t=24)** Also, Windows 10 Administration with Martin Guidry.
+> **[0:24](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/next-steps?u=76281980&t=24)** Also, [[Windows 10]] Administration with Martin Guidry.
 >
-> **[0:28](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/next-steps?u=76281980&t=28)** And be sure to check back in the future for additional troubleshooting and PC hardware titles.
+> **[0:28](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/next-steps?u=76281980&t=28)** And be sure to check back in the future for additional troubleshooting and PC [[Hardware]] titles.
 >
 > **[0:33](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/next-steps?u=76281980&t=33)** I'm Dan Gookin.
 >
@@ -3033,7 +2999,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Troubleshooting]] (3), [[Windows 10]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Windows 10]] (1), [[Hardware]] (1)
 > **Speakers:** - this (1)
 
 

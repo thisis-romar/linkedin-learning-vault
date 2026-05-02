@@ -78,20 +78,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome to OneDrive
-> [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-onedrive/welcome-to-onedrive?u=76281980)
+#### [Welcome to OneDrive](https://www.linkedin.com/learning/configure-and-manage-onedrive/welcome-to-onedrive?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/configure-and-manage-onedrive/welcome-to-onedrive?u=76281980&t=0)** - Does your company need a cloud storage platform?
+> **[0:00](https://www.linkedin.com/learning/configure-and-manage-onedrive/welcome-to-onedrive?u=76281980&t=0)** - Does your company need a [[Cloud Storage]] platform?
 >
-> **[0:03](https://www.linkedin.com/learning/configure-and-manage-onedrive/welcome-to-onedrive?u=76281980&t=3)** If so, OneDrive for Business is just the tool you need.
+> **[0:03](https://www.linkedin.com/learning/configure-and-manage-onedrive/welcome-to-onedrive?u=76281980&t=3)** If so, [[Microsoft OneDrive|OneDrive]] for Business is just the tool you need.
 >
 > **[0:07](https://www.linkedin.com/learning/configure-and-manage-onedrive/welcome-to-onedrive?u=76281980&t=7)** In this course, you're going to learn how to configure and manage OneDrive.
 >
 > **[0:11](https://www.linkedin.com/learning/configure-and-manage-onedrive/welcome-to-onedrive?u=76281980&t=11)** I'll show you how to manage your OneDrive storage and retention and keep things running smoothly.
 >
-> **[0:17](https://www.linkedin.com/learning/configure-and-manage-onedrive/welcome-to-onedrive?u=76281980&t=17)** My name is Ed Liberman, and I've been teaching people about Microsoft and Windows server-related products since the 1990s.
+> **[0:17](https://www.linkedin.com/learning/configure-and-manage-onedrive/welcome-to-onedrive?u=76281980&t=17)** My name is Ed Liberman, and I've been teaching people about [[Microsoft]] and [[Windows Server]]-related [[Microsoft Products|products]] since the 1990s.
 >
 > **[0:23](https://www.linkedin.com/learning/configure-and-manage-onedrive/welcome-to-onedrive?u=76281980&t=23)** So please join me as we learn all about OneDrive.
 >
@@ -99,18 +98,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (4), cloud (1), business (1), [[Microsoft]] (1), [[Windows Server]] (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (4), [[Cloud Storage]] (1), [[Microsoft]] (1), [[Windows Server]] (1), [[Microsoft Products|Products]] (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - does (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-onedrive/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/configure-and-manage-onedrive/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/configure-and-manage-onedrive/what-you-should-know?u=76281980&t=0)** - [Instructor] For this course, it is not expected that you have any specific prerequisite knowledge.
 >
-> **[0:06](https://www.linkedin.com/learning/configure-and-manage-onedrive/what-you-should-know?u=76281980&t=6)** Now, it certainly would be helpful if you have any prior experience working with Microsoft 365, but it certainly is not required in order to be able to succeed in this course.
+> **[0:06](https://www.linkedin.com/learning/configure-and-manage-onedrive/what-you-should-know?u=76281980&t=6)** Now, it certainly would be helpful if you have any prior experience working with [[Microsoft 365]], but it certainly is not required in order to be able to succeed in this course.
 >
 > **[0:18](https://www.linkedin.com/learning/configure-and-manage-onedrive/what-you-should-know?u=76281980&t=18)** Now, if you want to follow along with the demonstrations that I'm going to walk you through, it's real easy.
 >
@@ -126,7 +124,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (3), web (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (3)
 > **Definitions:** is a  (2)
 > **Prerequisites:** prerequisite (1), set up (1)
 > **Speakers:** - [instructor] (1)
@@ -136,14 +134,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a free Microsoft 365 E5 trial account
-> [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-onedrive/create-a-free-microsoft-365-e5-trial-account?u=76281980)
+#### [Create a free Microsoft 365 E5 trial account](https://www.linkedin.com/learning/configure-and-manage-onedrive/create-a-free-microsoft-365-e5-trial-account?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/configure-and-manage-onedrive/create-a-free-microsoft-365-e5-trial-account?u=76281980&t=0)** - [Instructor] One of the things that I really appreciate that Microsoft does to help you with learning about their products is they pretty much always give you the ability or some mechanism to allow you to try out their products for a certain amount of time for free before you have to actually purchase the product.
+> **[0:00](https://www.linkedin.com/learning/configure-and-manage-onedrive/create-a-free-microsoft-365-e5-trial-account?u=76281980&t=0)** - [Instructor] One of the things that I really appreciate that [[Microsoft]] does to help you with learning about their [[Microsoft Products|products]] is they pretty much always give you the ability or some mechanism to allow you to try out their products for a certain amount of time for free before you have to actually purchase the product.
 >
-> **[0:21](https://www.linkedin.com/learning/configure-and-manage-onedrive/create-a-free-microsoft-365-e5-trial-account?u=76281980&t=21)** And Microsoft 365 is no exception.
+> **[0:21](https://www.linkedin.com/learning/configure-and-manage-onedrive/create-a-free-microsoft-365-e5-trial-account?u=76281980&t=21)** And [[Microsoft 365]] is no exception.
 >
 > **[0:24](https://www.linkedin.com/learning/configure-and-manage-onedrive/create-a-free-microsoft-365-e5-trial-account?u=76281980&t=24)** They give you a free 30-day trial.
 >
@@ -161,7 +158,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/configure-and-manage-onedrive/create-a-free-microsoft-365-e5-trial-account?u=76281980&t=68)** It says Microsoft 365 at the top.
 >
-> **[1:10](https://www.linkedin.com/learning/configure-and-manage-onedrive/create-a-free-microsoft-365-e5-trial-account?u=76281980&t=70)** You'll also see Office 365 E5 a little bit further down.
+> **[1:10](https://www.linkedin.com/learning/configure-and-manage-onedrive/create-a-free-microsoft-365-e5-trial-account?u=76281980&t=70)** You'll also see [[Microsoft Office|Office]] 365 E5 a little bit further down.
 >
 > **[1:14](https://www.linkedin.com/learning/configure-and-manage-onedrive/create-a-free-microsoft-365-e5-trial-account?u=76281980&t=74)** The names get a little fuzzy, because they jump around with what Office 365 versus Microsoft 365 is, but this is the product that we want.
 >
@@ -171,7 +168,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/configure-and-manage-onedrive/create-a-free-microsoft-365-e5-trial-account?u=76281980&t=91)** First thing you need to do is you need to enter an email address.
 >
-> **[1:34](https://www.linkedin.com/learning/configure-and-manage-onedrive/create-a-free-microsoft-365-e5-trial-account?u=76281980&t=94)** So I'm going to go ahead and put in landonhotel and some random numbers here that I have @[outlook.com](https://outlook.com).
+> **[1:34](https://www.linkedin.com/learning/configure-and-manage-onedrive/create-a-free-microsoft-365-e5-trial-account?u=76281980&t=94)** So I'm going to go ahead and put in landonhotel and some random numbers here that I have @[[[Microsoft Outlook|outlook]].com](https://outlook.com).
 >
 > **[1:43](https://www.linkedin.com/learning/configure-and-manage-onedrive/create-a-free-microsoft-365-e5-trial-account?u=76281980&t=103)** I just created this email address just for this course.
 >
@@ -227,7 +224,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/configure-and-manage-onedrive/create-a-free-microsoft-365-e5-trial-account?u=76281980&t=214)** This is just for verification purposes.
 >
-> **[3:36](https://www.linkedin.com/learning/configure-and-manage-onedrive/create-a-free-microsoft-365-e5-trial-account?u=76281980&t=216)** Now, I'm going to not do this in front of you, for privacy reasons, so I don't give my phone number out to everybody.
+> **[3:36](https://www.linkedin.com/learning/configure-and-manage-onedrive/create-a-free-microsoft-365-e5-trial-account?u=76281980&t=216)** Now, I'm going to not do this in front of you, for [[Privacy]] reasons, so I don't give my phone number out to everybody.
 >
 > **[3:41](https://www.linkedin.com/learning/configure-and-manage-onedrive/create-a-free-microsoft-365-e5-trial-account?u=76281980&t=221)** So, I'm going to enter it in.
 >
@@ -317,7 +314,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (6), [[Microsoft Office|Office]] (5), [[Microsoft]] (4), product (4), next (4)
+> **Frameworks & Libraries:** [[Microsoft 365]] (6), [[Microsoft Office|Office]] (5), [[Microsoft]] (4), [[Microsoft Products|Products]] (3), [[Privacy]] (3)
 > **UI Navigation:** click on (8), checkbox (1)
 > **Prerequisites:** set up (3), configure (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (1), [outlook.com](https://outlook.com) (1)
@@ -325,12 +322,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft final setup procedures
-> [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-onedrive/microsoft-final-setup-procedures?u=76281980)
+#### [Microsoft final setup procedures](https://www.linkedin.com/learning/configure-and-manage-onedrive/microsoft-final-setup-procedures?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/configure-and-manage-onedrive/microsoft-final-setup-procedures?u=76281980&t=0)** - [Instructor] Before we can begin to use Microsoft 365, there are a few final installation steps.
+> **[0:00](https://www.linkedin.com/learning/configure-and-manage-onedrive/microsoft-final-setup-procedures?u=76281980&t=0)** - [Instructor] Before we can begin to use [[Microsoft 365]], there are a few final installation steps.
 >
 > **[0:07](https://www.linkedin.com/learning/configure-and-manage-onedrive/microsoft-final-setup-procedures?u=76281980&t=7)** So let's go through them here.
 >
@@ -338,13 +334,13 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/configure-and-manage-onedrive/microsoft-final-setup-procedures?u=76281980&t=17)** So it gives you the option where it says you can download and install Microsoft 365 for your device now, so if you want to do so, it says select an option below.
 >
-> **[0:25](https://www.linkedin.com/learning/configure-and-manage-onedrive/microsoft-final-setup-procedures?u=76281980&t=25)** So here I could actually click on this if I wanted to go ahead and download Word, Excel, PowerPoint, et cetera.
+> **[0:25](https://www.linkedin.com/learning/configure-and-manage-onedrive/microsoft-final-setup-procedures?u=76281980&t=25)** So here I could actually click on this if I wanted to go ahead and download [[Microsoft Word|Word]], [[Microsoft Excel|Excel]], [[Microsoft PowerPoint|PowerPoint]], et cetera.
 >
 > **[0:31](https://www.linkedin.com/learning/configure-and-manage-onedrive/microsoft-final-setup-procedures?u=76281980&t=31)** I don't need to do that on this machine, so I'm going to simply just click continue.
 >
 > **[0:35](https://www.linkedin.com/learning/configure-and-manage-onedrive/microsoft-final-setup-procedures?u=76281980&t=35)** Now it's asking as far as the domain if you have your own, actual domain out on the internet that you want to tie in with this trial account, then you can add the domain here and then there are some steps to go ahead and configure DNS to get it connected.
 >
-> **[0:53](https://www.linkedin.com/learning/configure-and-manage-onedrive/microsoft-final-setup-procedures?u=76281980&t=53)** Because this is just a learning environment, I'm going to go ahead and click on "no," I'm going to use the default domain that it created for me, which was Landon Hotel with some random numbers dot on [microsoft.com](https://microsoft.com).
+> **[0:53](https://www.linkedin.com/learning/configure-and-manage-onedrive/microsoft-final-setup-procedures?u=76281980&t=53)** Because this is just a learning environment, I'm going to go ahead and click on "no," I'm going to use the default domain that it created for me, which was Landon Hotel with some random numbers dot on [[[Microsoft]].com](https://microsoft.com).
 >
 > **[1:04](https://www.linkedin.com/learning/configure-and-manage-onedrive/microsoft-final-setup-procedures?u=76281980&t=64)** That's the one I'm going to use.
 >
@@ -450,7 +446,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (5), [[Microsoft]] (4), dns (2), [[Microsoft Word|Word]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (5), [[Microsoft]] (4), [[Microsoft Word|Word]] (1), [[Microsoft Excel|Excel]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **UI Navigation:** click on (5), go to (2), checkbox (1)
 > **Prerequisites:** install (2), configure (2), set up (2)
 > **Env Vars:** dns (2), csv (1), dkim (1)
@@ -459,12 +455,11 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Definitions:** is an  (1)
 
-#### Deleting Microsoft 365 trial account
-> [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-onedrive/deleting-microsoft-365-trial-account?u=76281980)
+#### [Deleting Microsoft 365 trial account](https://www.linkedin.com/learning/configure-and-manage-onedrive/deleting-microsoft-365-trial-account?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/configure-and-manage-onedrive/deleting-microsoft-365-trial-account?u=76281980&t=0)** - [Narrator] Once you get to the point that you are done playing around in Microsoft 365, you have a couple of options.
+> **[0:00](https://www.linkedin.com/learning/configure-and-manage-onedrive/deleting-microsoft-365-trial-account?u=76281980&t=0)** - [Narrator] Once you get to the point that you are done playing around in [[Microsoft 365]], you have a couple of options.
 >
 > **[0:09](https://www.linkedin.com/learning/configure-and-manage-onedrive/deleting-microsoft-365-trial-account?u=76281980&t=9)** If you decide you want to move forward and continue using Microsoft 365, you don't have to do anything, it will begin charging you after 30 days.
 >
@@ -486,9 +481,9 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/configure-and-manage-onedrive/deleting-microsoft-365-trial-account?u=76281980&t=61)** And I'm going to click the little down arrow to expand it.
 >
-> **[1:04](https://www.linkedin.com/learning/configure-and-manage-onedrive/deleting-microsoft-365-trial-account?u=76281980&t=64)** And then the item we want is Your Products.
+> **[1:04](https://www.linkedin.com/learning/configure-and-manage-onedrive/deleting-microsoft-365-trial-account?u=76281980&t=64)** And then the item we want is Your [[Microsoft Products|Products]].
 >
-> **[1:08](https://www.linkedin.com/learning/configure-and-manage-onedrive/deleting-microsoft-365-trial-account?u=76281980&t=68)** So here with my products, you can see that we have the Office 365 E5 Trial.
+> **[1:08](https://www.linkedin.com/learning/configure-and-manage-onedrive/deleting-microsoft-365-trial-account?u=76281980&t=68)** So here with my products, you can see that we have the [[Microsoft Office|Office]] 365 E5 Trial.
 >
 > **[1:14](https://www.linkedin.com/learning/configure-and-manage-onedrive/deleting-microsoft-365-trial-account?u=76281980&t=74)** And you'll also notice for subscription status it says active, it renews and it gives the date that it will renew.
 >
@@ -558,7 +553,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (2), [[Microsoft Products|Products]] (2), [[Microsoft Office|Office]] (2), product (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (2), [[Microsoft Products|Products]] (2), [[Microsoft Office|Office]] (2)
 > **CLI Commands:** make (5)
 > **UI Navigation:** click on (4)
 > **Speakers:** - [narrator] (1)
@@ -568,24 +563,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### OneDrive for Business overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-onedrive/onedrive-for-business-overview?u=76281980)
+#### [OneDrive for Business overview](https://www.linkedin.com/learning/configure-and-manage-onedrive/onedrive-for-business-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/configure-and-manage-onedrive/onedrive-for-business-overview?u=76281980&t=0)** - [Narrator] OneDrive for Business is a fairly simple to use cloud storage platform that was designed for use for all businesses, ranging from the smallest business to the largest enterprise business.
+> **[0:00](https://www.linkedin.com/learning/configure-and-manage-onedrive/onedrive-for-business-overview?u=76281980&t=0)** - [Narrator] [[Microsoft OneDrive|OneDrive]] for Business is a fairly simple to use [[Cloud Storage]] platform that was designed for use for all businesses, ranging from the smallest business to the largest enterprise business.
 >
-> **[0:13](https://www.linkedin.com/learning/configure-and-manage-onedrive/onedrive-for-business-overview?u=76281980&t=13)** OneDrive will connect users to both their personal and shared files in Microsoft 365, which will help enhance their collaboration capabilities within the various Microsoft 365 applications.
+> **[0:13](https://www.linkedin.com/learning/configure-and-manage-onedrive/onedrive-for-business-overview?u=76281980&t=13)** OneDrive will connect users to both their personal and shared files in [[Microsoft 365]], which will help enhance their collaboration capabilities within the various Microsoft 365 applications.
 >
 > **[0:26](https://www.linkedin.com/learning/configure-and-manage-onedrive/onedrive-for-business-overview?u=76281980&t=26)** So with OneDrive, you can access those files whether they are your own files or ones that have been shared with you.
 >
 > **[0:35](https://www.linkedin.com/learning/configure-and-manage-onedrive/onedrive-for-business-overview?u=76281980&t=35)** And you can access them on all of your devices, whether it be a mobile device, a Mac, a PC, or maybe even just simply any web browser from anywhere.
 >
-> **[0:46](https://www.linkedin.com/learning/configure-and-manage-onedrive/onedrive-for-business-overview?u=76281980&t=46)** You can securely share files with people either inside or outside your organization by using their email address, even if they don't have a Microsoft Services account.
+> **[0:46](https://www.linkedin.com/learning/configure-and-manage-onedrive/onedrive-for-business-overview?u=76281980&t=46)** You can securely share files with people either inside or outside your organization by using their email address, even if they don't have a [[Microsoft]] Services account.
 >
 > **[0:59](https://www.linkedin.com/learning/configure-and-manage-onedrive/onedrive-for-business-overview?u=76281980&t=59)** So this common sharing experience is available if you're using the web, mobile or desktop versions of OneDrive.
 >
-> **[1:06](https://www.linkedin.com/learning/configure-and-manage-onedrive/onedrive-for-business-overview?u=76281980&t=66)** Document co-authoring is available in the Office web apps, the Office mobile apps, and the Office desktop apps.
+> **[1:06](https://www.linkedin.com/learning/configure-and-manage-onedrive/onedrive-for-business-overview?u=76281980&t=66)** Document co-authoring is available in the [[Microsoft Office|Office]] web apps, the Office mobile apps, and the Office desktop apps.
 >
 > **[1:15](https://www.linkedin.com/learning/configure-and-manage-onedrive/onedrive-for-business-overview?u=76281980&t=75)** And this can help you to maintain a single working version of any file that multiple users want to collaborate on.
 >
@@ -601,23 +595,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (8), business (5), web (3), [[Microsoft Office|Office]] (3), [[Microsoft 365]] (2)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (8), [[Microsoft Office|Office]] (3), [[Microsoft 365]] (2), [[Microsoft]] (2), [[Cloud Storage]] (1)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### OneDrive deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-onedrive/onedrive-deployment?u=76281980)
+#### [OneDrive deployment](https://www.linkedin.com/learning/configure-and-manage-onedrive/onedrive-deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/configure-and-manage-onedrive/onedrive-deployment?u=76281980&t=0)** - [Instructor] If you're going to deploy OneDrive into your organization, it's a good idea that before you do, you want to make sure that the environment is equipped and ready to handle this OneDrive deployment.
+> **[0:00](https://www.linkedin.com/learning/configure-and-manage-onedrive/onedrive-deployment?u=76281980&t=0)** - [Instructor] If you're going to deploy [[Microsoft OneDrive|OneDrive]] into your organization, it's a good idea that before you do, you want to make sure that the environment is equipped and ready to handle this OneDrive deployment.
 >
 > **[0:11](https://www.linkedin.com/learning/configure-and-manage-onedrive/onedrive-deployment?u=76281980&t=11)** Now, this is pretty straightforward and pretty simple, but you do need to look at a couple things.
 >
 > **[0:17](https://www.linkedin.com/learning/configure-and-manage-onedrive/onedrive-deployment?u=76281980&t=17)** First, you want to make sure that your client and app requirements are met.
 >
-> **[0:22](https://www.linkedin.com/learning/configure-and-manage-onedrive/onedrive-deployment?u=76281980&t=22)** Now, the good news is that OneDrive is available for most operating systems and browsers and requires minimal hardware, but you do have to make sure that those minimums are actually met.
+> **[0:22](https://www.linkedin.com/learning/configure-and-manage-onedrive/onedrive-deployment?u=76281980&t=22)** Now, the good news is that OneDrive is available for most operating systems and browsers and requires minimal [[Hardware]], but you do have to make sure that those minimums are actually met.
 >
 > **[0:36](https://www.linkedin.com/learning/configure-and-manage-onedrive/onedrive-deployment?u=76281980&t=36)** Another thing to keep in mind is that OneDrive is going to involve certain network utilization, so you want to make sure that you take a look and assess the impact that OneDrive will have on your network to make sure that, well, number one, your network can handle it, and number two, and maybe more importantly, that your current network utilization is not adversely impacted by the deployment of OneDrive.
 >
@@ -625,7 +618,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/configure-and-manage-onedrive/onedrive-deployment?u=76281980&t=82)** So you want to make sure that's all in place.
 >
-> **[1:26](https://www.linkedin.com/learning/configure-and-manage-onedrive/onedrive-deployment?u=76281980&t=86)** And then we have a hybrid OneDrive scenario where this will allow a seamless navigation to OneDrive in the cloud from both SharePoint On-Premises, as well as Microsoft 365.
+> **[1:26](https://www.linkedin.com/learning/configure-and-manage-onedrive/onedrive-deployment?u=76281980&t=86)** And then we have a hybrid OneDrive scenario where this will allow a seamless navigation to OneDrive in the cloud from both [[SharePoint]] On-Premises, as well as [[Microsoft 365]].
 >
 > **[1:42](https://www.linkedin.com/learning/configure-and-manage-onedrive/onedrive-deployment?u=76281980&t=102)** Now, when you deploy hybrid OneDrive, the OneDrive links in the SharePoint server ribbon and app launcher will point to OneDrive in Microsoft 365.
 >
@@ -645,9 +638,9 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/configure-and-manage-onedrive/onedrive-deployment?u=76281980&t=178)** So again, it's somewhat straightforward there.
 >
-> **[3:00](https://www.linkedin.com/learning/configure-and-manage-onedrive/onedrive-deployment?u=76281980&t=180)** You also can install OneDrive on Windows devices by using scripting methods.
+> **[3:00](https://www.linkedin.com/learning/configure-and-manage-onedrive/onedrive-deployment?u=76281980&t=180)** You also can install OneDrive on [[Windows]] devices by using scripting methods.
 >
-> **[3:06](https://www.linkedin.com/learning/configure-and-manage-onedrive/onedrive-deployment?u=76281980&t=186)** So you can use a couple of Windows PowerShell scripting options to either install or to update the OneDrive sync client on individual computers.
+> **[3:06](https://www.linkedin.com/learning/configure-and-manage-onedrive/onedrive-deployment?u=76281980&t=186)** So you can use a couple of Windows [[Powershell]] scripting options to either install or to update the OneDrive sync client on individual computers.
 >
 > **[3:18](https://www.linkedin.com/learning/configure-and-manage-onedrive/onedrive-deployment?u=76281980&t=198)** You can deploy and configure OneDrive through Windows Autopilot.
 >
@@ -655,9 +648,9 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/configure-and-manage-onedrive/onedrive-deployment?u=76281980&t=208)** It's an alternative to the traditional system imaging you typically perform when provisioning a new computer or repurposing an existing computer for a user.
 >
-> **[3:38](https://www.linkedin.com/learning/configure-and-manage-onedrive/onedrive-deployment?u=76281980&t=218)** Rather than using deployment tools such as System Center Configuration Manager, you can register your hardware information in Azure and use a deployment profile to control out-of-the box experience and register the device in Azure Active Directory.
+> **[3:38](https://www.linkedin.com/learning/configure-and-manage-onedrive/onedrive-deployment?u=76281980&t=218)** Rather than using deployment tools such as System Center Configuration Manager, you can register your hardware information in [[Microsoft Azure|Azure]] and use a deployment profile to control out-of-the box experience and register the device in [[Microsoft Entra ID|Azure Active Directory]].
 >
-> **[3:56](https://www.linkedin.com/learning/configure-and-manage-onedrive/onedrive-deployment?u=76281980&t=236)** You could also use Intune to deploy the mobile apps for iOS and Android and to deploy the new OneDrive Sync client.
+> **[3:56](https://www.linkedin.com/learning/configure-and-manage-onedrive/onedrive-deployment?u=76281980&t=236)** You could also use Intune to deploy the mobile apps for iOS and [[Android]] and to deploy the new OneDrive Sync client.
 >
 > **[4:07](https://www.linkedin.com/learning/configure-and-manage-onedrive/onedrive-deployment?u=76281980&t=247)** And finally, you can use something that I mentioned you may not want to use, but you could use System Center Configuration Manager, or SCCM, to deploy the new OneDrive sync client as well to the mobile apps for iOS and Android.
 >
@@ -665,7 +658,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (22), [[Windows]] (4), [[Hardware]] (2), data (2), [[SharePoint]] (2)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (22), [[Windows]] (4), [[Hardware]] (2), [[SharePoint]] (2), [[Microsoft 365]] (2)
 > **CLI Commands:** make (6)
 > **Prerequisites:** install (3), configure (1)
 > **Code Identifiers:** ios (2)
@@ -674,24 +667,23 @@ created: 2026-05-02
 > **Tools:** powershell (1)
 > **Analogies:** such as (1)
 
-#### Managing OneDrive
-> [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-onedrive?u=76281980)
+#### [Managing OneDrive](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-onedrive?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-onedrive?u=76281980&t=0)** - [Instructor] When it comes to the actual configuration and management of OneDrive, can actually be a little bit confusing now is to where exactly you would go do this?
+> **[0:00](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-onedrive?u=76281980&t=0)** - [Instructor] When it comes to the actual configuration and management of [[Microsoft OneDrive|OneDrive]], can actually be a little bit confusing now is to where exactly you would go do this?
 >
 > **[0:12](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-onedrive?u=76281980&t=12)** So let me show you.
 >
-> **[0:13](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-onedrive?u=76281980&t=13)** Here, in the Microsoft 365 admin center, if I click Show all, which allows me the ability to scroll down and see all my various admin centers, you'll notice we do not see an entry for OneDrive.
+> **[0:13](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-onedrive?u=76281980&t=13)** Here, in the [[Microsoft 365]] admin center, if I click Show all, which allows me the ability to scroll down and see all my various admin centers, you'll notice we do not see an entry for OneDrive.
 >
 > **[0:29](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-onedrive?u=76281980&t=29)** Additionally, if I click on All admin centers, which is what you're supposed to do if you don't see an admin center you're looking for, you'll notice on this list we do not have anything for OneDrive.
 >
-> **[0:43](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-onedrive?u=76281980&t=43)** Microsoft has eliminated the OneDrive admin center.
+> **[0:43](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-onedrive?u=76281980&t=43)** [[Microsoft]] has eliminated the OneDrive admin center.
 >
 > **[0:48](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-onedrive?u=76281980&t=48)** So where do we do things when it comes to OneDrive?
 >
-> **[0:51](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-onedrive?u=76281980&t=51)** Well, since OneDrive is really just component of SharePoint, really, you'll see here on the SharePoint admin center on the description, it says you can manage sites, sharing, storage, and more for SharePoint and OneDrive, okay?
+> **[0:51](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-onedrive?u=76281980&t=51)** Well, since OneDrive is really just component of [[SharePoint]], really, you'll see here on the SharePoint admin center on the description, it says you can manage sites, sharing, storage, and more for SharePoint and OneDrive, okay?
 >
 > **[1:12](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-onedrive?u=76281980&t=72)** So the OneDrive management now takes place from the SharePoint admin center.
 >
@@ -711,7 +703,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (11), [[SharePoint]] (8), management (3), [[Microsoft 365]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (11), [[SharePoint]] (8), [[Microsoft 365]] (1), [[Microsoft]] (1)
 > **UI Navigation:** click on (3), scroll down (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -721,18 +713,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Managing storage space
-> [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-storage-space?u=76281980)
+#### [Managing storage space](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-storage-space?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-storage-space?u=76281980&t=0)** - [Narrator] Managing storage and storage limits in OneDrive is a pretty simple thing to do, but you do have to know where to go do it and how to do it.
+> **[0:00](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-storage-space?u=76281980&t=0)** - [Narrator] Managing storage and storage limits in [[Microsoft OneDrive|OneDrive]] is a pretty simple thing to do, but you do have to know where to go do it and how to do it.
 >
 > **[0:11](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-storage-space?u=76281980&t=11)** And I will tell you that interestingly enough, you can do it in multiple places.
 >
 > **[0:15](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-storage-space?u=76281980&t=15)** So let me go ahead and walk you through this real quick.
 >
-> **[0:18](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-storage-space?u=76281980&t=18)** First of all, here in the SharePoint admin center I am going to go down to the settings selection and click on that.
+> **[0:18](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-storage-space?u=76281980&t=18)** First of all, here in the [[SharePoint]] admin center I am going to go down to the settings selection and click on that.
 >
 > **[0:26](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-storage-space?u=76281980&t=26)** And in the bottom section where we have all our OneDrive settings, you'll notice we have one that says storage limit says it sets the default storage limit for your users.
 >
@@ -764,7 +755,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-storage-space?u=76281980&t=73)** So maybe you have one user that specifically needs more or maybe you want to restrict them and allow them to have less.
 >
-> **[1:20](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-storage-space?u=76281980&t=80)** Well that would be done through the Microsoft 365 admin center.
+> **[1:20](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-storage-space?u=76281980&t=80)** Well that would be done through the [[Microsoft 365]] admin center.
 >
 > **[1:23](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-storage-space?u=76281980&t=83)** So let's flip over there now.
 >
@@ -834,7 +825,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (7), [[SharePoint]] (2), [[Microsoft 365]] (2), hit (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (7), [[SharePoint]] (2), [[Microsoft 365]] (2)
 > **UI Navigation:** click on (8)
 > **CLI Commands:** make (3)
 > **Prerequisites:** set up (2), configure (1)
@@ -842,14 +833,13 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [narrator] (1)
 
-#### Configuring data retention
-> [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-onedrive/configuring-data-retention?u=76281980)
+#### [Configuring data retention](https://www.linkedin.com/learning/configure-and-manage-onedrive/configuring-data-retention?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/configure-and-manage-onedrive/configuring-data-retention?u=76281980&t=0)** - [Instructor] One other area of OneDrive storage management that we can take a look at is the area of data retention.
+> **[0:00](https://www.linkedin.com/learning/configure-and-manage-onedrive/configuring-data-retention?u=76281980&t=0)** - [Instructor] One other area of [[Microsoft OneDrive|OneDrive]] [[Storage Management]] that we can take a look at is the area of data retention.
 >
-> **[0:09](https://www.linkedin.com/learning/configure-and-manage-onedrive/configuring-data-retention?u=76281980&t=9)** So, here in the SharePoint admin center, if we go down to our Settings, down near the bottom in the OneDrive section, you'll see there's an option for OneDrive Retention.
+> **[0:09](https://www.linkedin.com/learning/configure-and-manage-onedrive/configuring-data-retention?u=76281980&t=9)** So, here in the [[SharePoint]] admin center, if we go down to our Settings, down near the bottom in the OneDrive section, you'll see there's an option for OneDrive Retention.
 >
 > **[0:19](https://www.linkedin.com/learning/configure-and-manage-onedrive/configuring-data-retention?u=76281980&t=19)** It says this is the default OneDrive retention for deleted users, so I'll click on that.
 >
@@ -877,7 +867,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/configure-and-manage-onedrive/configuring-data-retention?u=76281980&t=71)** How does that actually work?
 >
-> **[1:12](https://www.linkedin.com/learning/configure-and-manage-onedrive/configuring-data-retention?u=76281980&t=72)** Well, in order to see that, we have to go over to our Microsoft 365 admin center.
+> **[1:12](https://www.linkedin.com/learning/configure-and-manage-onedrive/configuring-data-retention?u=76281980&t=72)** Well, in order to see that, we have to go over to our [[Microsoft 365]] admin center.
 >
 > **[1:17](https://www.linkedin.com/learning/configure-and-manage-onedrive/configuring-data-retention?u=76281980&t=77)** So let's go there now.
 >
@@ -905,7 +895,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (9), data (5), [[Storage Management]] (1), [[SharePoint]] (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (9), [[Storage Management]] (1), [[SharePoint]] (1), [[Microsoft 365]] (1)
 > **UI Navigation:** click on (6)
 > **Env Vars:** spo (2)
 > **CLI Commands:** make (1)
@@ -917,14 +907,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Managing sharing
-> [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-sharing?u=76281980)
+#### [Managing sharing](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-sharing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-sharing?u=76281980&t=0)** - [Instructor] Let's take a look and see how we manage sharing in OneDrive.
+> **[0:00](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-sharing?u=76281980&t=0)** - [Instructor] Let's take a look and see how we manage sharing in [[Microsoft OneDrive|OneDrive]].
 >
-> **[0:05](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-sharing?u=76281980&t=5)** Now, this is done through the SharePoint Admin Center.
+> **[0:05](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-sharing?u=76281980&t=5)** Now, this is done through the [[SharePoint]] Admin Center.
 >
 > **[0:09](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-sharing?u=76281980&t=9)** And unlike some other things that we've seen, you will not find it in the settings.
 >
@@ -1026,22 +1015,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (13), [[SharePoint]] (10), [[Security]] (2)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (13), [[SharePoint]] (10)
 > **CLI Commands:** find (2), make (2)
 > **UI Navigation:** click on (2), scroll down (1), select the (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing sync settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-sync-settings?u=76281980)
+#### [Managing sync settings](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-sync-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-sync-settings?u=76281980&t=0)** - [Narrator] OneDrive has the ability to sync files between your local computer and the cloud.
+> **[0:00](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-sync-settings?u=76281980&t=0)** - [Narrator] [[Microsoft OneDrive|OneDrive]] has the ability to sync files between your local computer and the cloud.
 >
 > **[0:06](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-sync-settings?u=76281980&t=6)** So we need to be able to manage some security settings regarding that ability to sync.
 >
-> **[0:13](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-sync-settings?u=76281980&t=13)** So to do this, here in the SharePoint Admin Center, we're going to go to the settings section here.
+> **[0:13](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-sync-settings?u=76281980&t=13)** So to do this, here in the [[SharePoint]] Admin Center, we're going to go to the settings section here.
 >
 > **[0:19](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-sync-settings?u=76281980&t=19)** I'll click on settings.
 >
@@ -1067,7 +1055,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-sync-settings?u=76281980&t=57)** The second one says, allow syncing only on computers joined to specific domains.
 >
-> **[1:03](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-sync-settings?u=76281980&t=63)** Okay, so if you want to have control that way, check the box and then go ahead and enter the Active Directory domain as a globally unique identifier, each on a new line.
+> **[1:03](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-sync-settings?u=76281980&t=63)** Okay, so if you want to have control that way, check the box and then go ahead and enter the [[Active Directory]] domain as a globally unique identifier, each on a new line.
 >
 > **[1:15](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-sync-settings?u=76281980&t=75)** Okay, so as much as it is a pretty simple and straightforward thing in the sense that we just go ahead and check the box and we just add the domains, it is configured so that you have to know the global unique identifier for the domain and put that in the box.
 >
@@ -1085,7 +1073,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-sync-settings?u=76281980&t=130)** The first one says, limit syncing to specific domains.
 >
-> **[2:13](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-sync-settings?u=76281980&t=133)** And when I click on that, I just want to show you it's going to take you straight into a Microsoft article that will walk you through those specifics, including how to go ahead and get, this is another link to how to get the global unique identifier for the domain.
+> **[2:13](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-sync-settings?u=76281980&t=133)** And when I click on that, I just want to show you it's going to take you straight into a [[Microsoft]] article that will walk you through those specifics, including how to go ahead and get, this is another link to how to get the global unique identifier for the domain.
 >
 > **[2:32](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-sync-settings?u=76281980&t=152)** There's also a link for blocking uploads by file type.
 >
@@ -1105,7 +1093,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (6), [[SharePoint]] (3), [[Security]] (2), cloud (1), [[Active Directory]] (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (6), [[SharePoint]] (3), [[Active Directory]] (1), [[Microsoft]] (1)
 > **UI Navigation:** click on (3), go to (1), checkbox (1)
 > **Prerequisites:** set up (2)
 > **Env Vars:** mp3 (1)
@@ -1113,16 +1101,15 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Managing device access
-> [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-device-access?u=76281980)
+#### [Managing device access](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-device-access?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-device-access?u=76281980&t=0)** - [Instructor] Another way we can help keep our OneDrive data safe and secure is through the additional security settings under access control.
+> **[0:00](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-device-access?u=76281980&t=0)** - [Instructor] Another way we can help keep our [[Microsoft OneDrive|OneDrive]] data safe and secure is through the additional security settings under access control.
 >
 > **[0:11](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-device-access?u=76281980&t=11)** So let's take a look at those.
 >
-> **[0:12](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-device-access?u=76281980&t=12)** Here in the SharePoint admin center, once again, we will not find this under settings but we'll actually find it under policy.
+> **[0:12](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-device-access?u=76281980&t=12)** Here in the [[SharePoint]] admin center, once again, we will not find this under settings but we'll actually find it under policy.
 >
 > **[0:21](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-device-access?u=76281980&t=21)** So I'm going to expand that and you'll see there's an option here for access control.
 >
@@ -1176,7 +1163,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-device-access?u=76281980&t=179)** Apps that don't use modern authentication.
 >
-> **[3:02](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-device-access?u=76281980&t=182)** This blocks access from Office 2010.
+> **[3:02](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-device-access?u=76281980&t=182)** This blocks access from [[Microsoft Office|Office]] 2010.
 >
 > **[3:05](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-device-access?u=76281980&t=185)** I'd really say, or older.
 >
@@ -1202,22 +1189,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (8), [[Security]] (8), [[SharePoint]] (3), management (2), next (2)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (8), [[SharePoint]] (3), [[Microsoft Office|Office]] (1)
 > **UI Navigation:** click on (5), toggle (2), checkbox (1)
 > **CLI Commands:** find (2), make (2)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add or remove admins for a OneDrive account
-> [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-onedrive/add-or-remove-admins-for-a-onedrive-account?u=76281980)
+#### [Add or remove admins for a OneDrive account](https://www.linkedin.com/learning/configure-and-manage-onedrive/add-or-remove-admins-for-a-onedrive-account?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/configure-and-manage-onedrive/add-or-remove-admins-for-a-onedrive-account?u=76281980&t=0)** - You may find that there are times where you need to either add, or possibly even remove, an admin over a specific OneDrive account.
+> **[0:00](https://www.linkedin.com/learning/configure-and-manage-onedrive/add-or-remove-admins-for-a-onedrive-account?u=76281980&t=0)** - You may find that there are times where you need to either add, or possibly even remove, an admin over a specific [[Microsoft OneDrive|OneDrive]] account.
 >
 > **[0:09](https://www.linkedin.com/learning/configure-and-manage-onedrive/add-or-remove-admins-for-a-onedrive-account?u=76281980&t=9)** So, let's take a look at how to do that.
 >
-> **[0:11](https://www.linkedin.com/learning/configure-and-manage-onedrive/add-or-remove-admins-for-a-onedrive-account?u=76281980&t=11)** Here, in the SharePoint Admin Center, the way we need to do this is by actually going all the way down to where it says "more features".
+> **[0:11](https://www.linkedin.com/learning/configure-and-manage-onedrive/add-or-remove-admins-for-a-onedrive-account?u=76281980&t=11)** Here, in the [[SharePoint]] Admin Center, the way we need to do this is by actually going all the way down to where it says "more features".
 >
 > **[0:20](https://www.linkedin.com/learning/configure-and-manage-onedrive/add-or-remove-admins-for-a-onedrive-account?u=76281980&t=20)** When I click on "more features," the place where we do this is with the user profiles section.
 >
@@ -1285,7 +1271,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (6), [[SharePoint]] (6), next (2)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (6), [[SharePoint]] (6)
 > **Env Vars:** spo (4)
 > **UI Navigation:** click on (3), dropdown (1)
 > **CLI Commands:** find (3)
@@ -1297,20 +1283,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Activity reports
-> [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-onedrive/activity-reports?u=76281980)
+#### [Activity reports](https://www.linkedin.com/learning/configure-and-manage-onedrive/activity-reports?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/configure-and-manage-onedrive/activity-reports?u=76281980&t=0)** - [Instructor] With activity reports in the Microsoft 365 admin center, you can easily see how people in your organization are using various Microsoft 365 services.
+> **[0:00](https://www.linkedin.com/learning/configure-and-manage-onedrive/activity-reports?u=76281980&t=0)** - [Instructor] With activity reports in the [[Microsoft 365]] admin center, you can easily see how people in your organization are using various Microsoft 365 services.
 >
-> **[0:10](https://www.linkedin.com/learning/configure-and-manage-onedrive/activity-reports?u=76281980&t=10)** And one of those services, for example, is OneDrive.
+> **[0:10](https://www.linkedin.com/learning/configure-and-manage-onedrive/activity-reports?u=76281980&t=10)** And one of those services, for example, is [[Microsoft OneDrive|OneDrive]].
 >
 > **[0:15](https://www.linkedin.com/learning/configure-and-manage-onedrive/activity-reports?u=76281980&t=15)** So there is a OneDrive activity report we can look at.
 >
 > **[0:18](https://www.linkedin.com/learning/configure-and-manage-onedrive/activity-reports?u=76281980&t=18)** So let's take a look at how we can do this.
 >
-> **[0:21](https://www.linkedin.com/learning/configure-and-manage-onedrive/activity-reports?u=76281980&t=21)** Now first of all, right now we're at the SharePoint admin center.
+> **[0:21](https://www.linkedin.com/learning/configure-and-manage-onedrive/activity-reports?u=76281980&t=21)** Now first of all, right now we're at the [[SharePoint]] admin center.
 >
 > **[0:23](https://www.linkedin.com/learning/configure-and-manage-onedrive/activity-reports?u=76281980&t=23)** And as I mentioned, this is actually done through the Microsoft 365 admin center.
 >
@@ -1354,7 +1339,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/configure-and-manage-onedrive/activity-reports?u=76281980&t=109)** So I can't really show you anything here.
 >
-> **[1:51](https://www.linkedin.com/learning/configure-and-manage-onedrive/activity-reports?u=76281980&t=111)** And because I can't show you what this looks like, what I want to do is take you to a Microsoft article that has some screenshots that show this to you.
+> **[1:51](https://www.linkedin.com/learning/configure-and-manage-onedrive/activity-reports?u=76281980&t=111)** And because I can't show you what this looks like, what I want to do is take you to a [[Microsoft]] article that has some screenshots that show this to you.
 >
 > **[2:01](https://www.linkedin.com/learning/configure-and-manage-onedrive/activity-reports?u=76281980&t=121)** So let me flip over there now.
 >
@@ -1388,19 +1373,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (10), [[Microsoft 365]] (6), product (3), data (2), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (10), [[Microsoft 365]] (6), [[Microsoft]] (2), [[SharePoint]] (1)
 > **UI Navigation:** click on (4), scroll down (3)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Usage reports
-> [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-onedrive/usage-reports?u=76281980)
+#### [Usage reports](https://www.linkedin.com/learning/configure-and-manage-onedrive/usage-reports?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/configure-and-manage-onedrive/usage-reports?u=76281980&t=0)** - [Narrator] Another type of report that we have with OneDrive through the Microsoft 365 Admin Center is the Usage Report.
+> **[0:00](https://www.linkedin.com/learning/configure-and-manage-onedrive/usage-reports?u=76281980&t=0)** - [Narrator] Another type of report that we have with [[Microsoft OneDrive|OneDrive]] through the [[Microsoft 365]] Admin Center is the Usage Report.
 >
 > **[0:08](https://www.linkedin.com/learning/configure-and-manage-onedrive/usage-reports?u=76281980&t=8)** So just like we saw with the activity report here in the Microsoft 365 admin center, I need to show all, expand my reports, and click on usage.
 >
@@ -1458,7 +1442,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (5), [[Microsoft 365]] (3), data (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (5), [[Microsoft 365]] (3)
 > **UI Navigation:** click on (2), scroll down (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** previous video (1)
@@ -1471,22 +1455,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continue learning OneDrive
-> [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-onedrive/continue-learning-onedrive?u=76281980)
+#### [Continue learning OneDrive](https://www.linkedin.com/learning/configure-and-manage-onedrive/continue-learning-onedrive?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/configure-and-manage-onedrive/continue-learning-onedrive?u=76281980&t=0)** - Thank you for joining me in this course.
 >
-> **[0:02](https://www.linkedin.com/learning/configure-and-manage-onedrive/continue-learning-onedrive?u=76281980&t=2)** I hope you've enjoyed finding out about OneDrive for Business As much as I've enjoyed showing you.
+> **[0:02](https://www.linkedin.com/learning/configure-and-manage-onedrive/continue-learning-onedrive?u=76281980&t=2)** I hope you've enjoyed finding out about [[Microsoft OneDrive|OneDrive]] for Business As much as I've enjoyed showing you.
 >
-> **[0:07](https://www.linkedin.com/learning/configure-and-manage-onedrive/continue-learning-onedrive?u=76281980&t=7)** If you want to learn more about Microsoft 365 products, please go ahead and explore our library as we have a number of courses out there to help you.
+> **[0:07](https://www.linkedin.com/learning/configure-and-manage-onedrive/continue-learning-onedrive?u=76281980&t=7)** If you want to learn more about [[Microsoft 365]] [[Microsoft Products|products]], please go ahead and explore our library as we have a number of courses out there to help you.
 >
 > **[0:15](https://www.linkedin.com/learning/configure-and-manage-onedrive/continue-learning-onedrive?u=76281980&t=15)** See you next time.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (1), business (1), [[Microsoft 365]] (1), [[Microsoft Products|Products]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (1), [[Microsoft 365]] (1), [[Microsoft Products|Products]] (1)
 > **Speakers:** - thank (1)
 
 

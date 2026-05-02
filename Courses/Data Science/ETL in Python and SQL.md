@@ -96,8 +96,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create an ETL in Python and SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/etl-in-python-and-sql/create-an-etl-in-python-and-sql?u=76281980)
+#### [Create an ETL in Python and SQL](https://www.linkedin.com/learning/etl-in-python-and-sql/create-an-etl-in-python-and-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -105,23 +104,22 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/etl-in-python-and-sql/create-an-etl-in-python-and-sql?u=76281980&t=9)** Then this course is just for you.
 >
-> **[0:11](https://www.linkedin.com/learning/etl-in-python-and-sql/create-an-etl-in-python-and-sql?u=76281980&t=11)** Hello, I'm Jennifer Ebe, a data engineer with over four years hands-on experience creating robust and efficient data pipelines.
+> **[0:11](https://www.linkedin.com/learning/etl-in-python-and-sql/create-an-etl-in-python-and-sql?u=76281980&t=11)** Hello, I'm Jennifer Ebe, a data engineer with over four years hands-on experience creating robust and efficient [[Data Pipelines]].
 >
-> **[0:19](https://www.linkedin.com/learning/etl-in-python-and-sql/create-an-etl-in-python-and-sql?u=76281980&t=19)** I am excited to guide you through creating, extract, transform, and load processes using Python and SQL.
+> **[0:19](https://www.linkedin.com/learning/etl-in-python-and-sql/create-an-etl-in-python-and-sql?u=76281980&t=19)** I am excited to guide you through creating, extract, transform, and load processes using [[Python (Programming Language)|Python]] and [[SQL]].
 >
 > **[0:26](https://www.linkedin.com/learning/etl-in-python-and-sql/create-an-etl-in-python-and-sql?u=76281980&t=26)** Along the way, I'll share insights I have gained from my journey.
 >
-> **[0:30](https://www.linkedin.com/learning/etl-in-python-and-sql/create-an-etl-in-python-and-sql?u=76281980&t=30)** I have crafted this comprehensive LinkedIn learning course tailored for enthusiasts and professionals, and together, we'll demystify ETLs and empower you to build your own efficient and robust ETLs.
+> **[0:30](https://www.linkedin.com/learning/etl-in-python-and-sql/create-an-etl-in-python-and-sql?u=76281980&t=30)** I have crafted this comprehensive [[LinkedIn]] learning course tailored for enthusiasts and professionals, and together, we'll demystify ETLs and empower you to build your own efficient and robust ETLs.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Python (Programming Language)|Python]] (1), [[SQL]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Data Pipelines]] (1), [[Python (Programming Language)|Python]] (1), [[SQL]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [jennifer] (1)
 
-#### Tools used in this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/etl-in-python-and-sql/tools-used-in-this-course?u=76281980)
+#### [Tools used in this course](https://www.linkedin.com/learning/etl-in-python-and-sql/tools-used-in-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -129,15 +127,15 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/etl-in-python-and-sql/tools-used-in-this-course?u=76281980&t=6)** Because in this video, I will take you through the tools you will need to be successful in this course.
 >
-> **[0:12](https://www.linkedin.com/learning/etl-in-python-and-sql/tools-used-in-this-course?u=76281980&t=12)** First, you will need a working system, a Mac, Linux, or Windows system with Visual Studio Code installed and Jupyter running.
+> **[0:12](https://www.linkedin.com/learning/etl-in-python-and-sql/tools-used-in-this-course?u=76281980&t=12)** First, you will need a working system, a Mac, [[Linux]], or [[Windows]] system with Visual Studio Code installed and Jupyter running.
 >
 > **[0:21](https://www.linkedin.com/learning/etl-in-python-and-sql/tools-used-in-this-course?u=76281980&t=21)** You can also use Anaconda, an open source programming tool, with JupyterLab running.
 >
-> **[0:27](https://www.linkedin.com/learning/etl-in-python-and-sql/tools-used-in-this-course?u=76281980&t=27)** Or if you prefer, Google Colab, which is a web-based collaborative environment provided by Google.
+> **[0:27](https://www.linkedin.com/learning/etl-in-python-and-sql/tools-used-in-this-course?u=76281980&t=27)** Or if you prefer, [[Google]] Colab, which is a web-based collaborative environment provided by Google.
 >
 > **[0:35](https://www.linkedin.com/learning/etl-in-python-and-sql/tools-used-in-this-course?u=76281980&t=35)** Whatever ID you're comfortable with would work great for this course.
 >
-> **[0:39](https://www.linkedin.com/learning/etl-in-python-and-sql/tools-used-in-this-course?u=76281980&t=39)** We'll be manipulating data using pandas, a library in Python.
+> **[0:39](https://www.linkedin.com/learning/etl-in-python-and-sql/tools-used-in-this-course?u=76281980&t=39)** We'll be manipulating data using [[Pandas (Software)|pandas]], a library in [[Python (Programming Language)|Python]].
 >
 > **[0:44](https://www.linkedin.com/learning/etl-in-python-and-sql/tools-used-in-this-course?u=76281980&t=44)** If you're not very familiar with pandas, do not worry.
 >
@@ -147,7 +145,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/etl-in-python-and-sql/tools-used-in-this-course?u=76281980&t=58)** I suggest creating one with ElephantSQL.
 >
-> **[1:01](https://www.linkedin.com/learning/etl-in-python-and-sql/tools-used-in-this-course?u=76281980&t=61)** ElephantSQL is a cloud-based database service that provides a fully managed PostgreSQL database.
+> **[1:01](https://www.linkedin.com/learning/etl-in-python-and-sql/tools-used-in-this-course?u=76281980&t=61)** ElephantSQL is a cloud-based database service that provides a fully managed [[PostgreSQL]] database.
 >
 > **[1:08](https://www.linkedin.com/learning/etl-in-python-and-sql/tools-used-in-this-course?u=76281980&t=68)** Don't worry, I'll show you how to set this up later in the course.
 >
@@ -155,7 +153,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), [[Google]] (2), data (2), [[Pandas (Software)|Pandas]] (2), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Pandas (Software)|Pandas]] (2), [[Linux]] (1), [[Windows]] (1), [[Python (Programming Language)|Python]] (1)
 > **Tools:** visual studio (1), jupyter (1), anaconda (1), colab (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** python (1)
@@ -167,12 +165,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are ETLs and how do you create them?
-> [LinkedIn Learning](https://www.linkedin.com/learning/etl-in-python-and-sql/what-are-etls-and-how-do-you-create-them?u=76281980)
+#### [What are ETLs and how do you create them?](https://www.linkedin.com/learning/etl-in-python-and-sql/what-are-etls-and-how-do-you-create-them?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/etl-in-python-and-sql/what-are-etls-and-how-do-you-create-them?u=76281980&t=0)** - [Instructor] In many companies and organizations, data is spread across different sources, like spreadsheets, production databases, or APIs.
+> **[0:00](https://www.linkedin.com/learning/etl-in-python-and-sql/what-are-etls-and-how-do-you-create-them?u=76281980&t=0)** - [Instructor] In many companies and organizations, data is spread across different sources, like spreadsheets, production [[Databases]], or APIs.
 >
 > **[0:10](https://www.linkedin.com/learning/etl-in-python-and-sql/what-are-etls-and-how-do-you-create-them?u=76281980&t=10)** A data pipeline helps combine data from these different sources into one consistent and unified format to support analysis and other business needs.
 >
@@ -196,7 +193,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/etl-in-python-and-sql/what-are-etls-and-how-do-you-create-them?u=76281980&t=73)** The extract in ETL involves extracting data from various sources, or systems, or applications, like spreadsheets, APIs, databases, cloud systems, in preparation for the transformation phase.
 >
-> **[1:29](https://www.linkedin.com/learning/etl-in-python-and-sql/what-are-etls-and-how-do-you-create-them?u=76281980&t=89)** The extract step can be done using common tools like Python, AWS Glue, Azure Data Factory, Talend, and many more.
+> **[1:29](https://www.linkedin.com/learning/etl-in-python-and-sql/what-are-etls-and-how-do-you-create-them?u=76281980&t=89)** The extract step can be done using common tools like [[Python (Programming Language)|Python]], AWS Glue, [[Microsoft Azure|Azure]] Data Factory, Talend, and many more.
 >
 > **[1:39](https://www.linkedin.com/learning/etl-in-python-and-sql/what-are-etls-and-how-do-you-create-them?u=76281980&t=99)** Moving on to the next step, the T in ETL.
 >
@@ -206,25 +203,25 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/etl-in-python-and-sql/what-are-etls-and-how-do-you-create-them?u=76281980&t=122)** In this step, we ensure that the data is enriched, aggregated, and consistent.
 >
-> **[2:08](https://www.linkedin.com/learning/etl-in-python-and-sql/what-are-etls-and-how-do-you-create-them?u=76281980&t=128)** Common tools used in the data transformation steps include Python, Spark, and Azure Data Factory.
+> **[2:08](https://www.linkedin.com/learning/etl-in-python-and-sql/what-are-etls-and-how-do-you-create-them?u=76281980&t=128)** Common tools used in the [[Data Transformation]] steps include Python, Spark, and Azure Data Factory.
 >
 > **[2:16](https://www.linkedin.com/learning/etl-in-python-and-sql/what-are-etls-and-how-do-you-create-them?u=76281980&t=136)** The final step in ETL process is load.
 >
 > **[2:19](https://www.linkedin.com/learning/etl-in-python-and-sql/what-are-etls-and-how-do-you-create-them?u=76281980&t=139)** The loading process involves loading data that has been transformed into target databases, usually a data warehouse, a data lake, a data maps.
 >
-> **[2:30](https://www.linkedin.com/learning/etl-in-python-and-sql/what-are-etls-and-how-do-you-create-them?u=76281980&t=150)** Here, the end users, it could be data scientists, data analysts, business analysts, can assess the data to create reports, dashboards, build machine learning models, the list goes on and on.
+> **[2:30](https://www.linkedin.com/learning/etl-in-python-and-sql/what-are-etls-and-how-do-you-create-them?u=76281980&t=150)** Here, the end users, it could be data scientists, data analysts, business analysts, can assess the data to create reports, [[Dashboards]], build machine learning models, the list goes on and on.
 >
 > **[2:44](https://www.linkedin.com/learning/etl-in-python-and-sql/what-are-etls-and-how-do-you-create-them?u=76281980&t=164)** Common tools used to load data into target systems include Python, Spark, Azure Data Factory, amongst others.
 >
 > **[2:54](https://www.linkedin.com/learning/etl-in-python-and-sql/what-are-etls-and-how-do-you-create-them?u=76281980&t=174)** While you are mentioning our orchestration tools, these tools are used to create and orchestrate ETLs by passing in parameters.
 >
-> **[3:03](https://www.linkedin.com/learning/etl-in-python-and-sql/what-are-etls-and-how-do-you-create-them?u=76281980&t=183)** They're used to shadow the running of ETLs, and these look like tools like Apache Airflow, SSIS, ADF, AWS DMS.
+> **[3:03](https://www.linkedin.com/learning/etl-in-python-and-sql/what-are-etls-and-how-do-you-create-them?u=76281980&t=183)** They're used to shadow the running of ETLs, and these look like tools like [[Apache Airflow]], SSIS, ADF, AWS DMS.
 >
 > **[3:14](https://www.linkedin.com/learning/etl-in-python-and-sql/what-are-etls-and-how-do-you-create-them?u=76281980&t=194)** All of these enable you to shadow, monitor, and manage your ETLs.
 >
 > **[3:19](https://www.linkedin.com/learning/etl-in-python-and-sql/what-are-etls-and-how-do-you-create-them?u=76281980&t=199)** Usually you need one, two, or a combination of different tools to create and schedule an ETL.
 >
-> **[3:26](https://www.linkedin.com/learning/etl-in-python-and-sql/what-are-etls-and-how-do-you-create-them?u=76281980&t=206)** But you would notice that tools like Python, Java, and Spark can create custom ETL scripts and workflows through all of the stages, which is super exciting.
+> **[3:26](https://www.linkedin.com/learning/etl-in-python-and-sql/what-are-etls-and-how-do-you-create-them?u=76281980&t=206)** But you would notice that tools like Python, [[Java]], and Spark can create custom ETL scripts and workflows through all of the stages, which is super exciting.
 >
 > **[3:37](https://www.linkedin.com/learning/etl-in-python-and-sql/what-are-etls-and-how-do-you-create-them?u=76281980&t=217)** In this course, we'll use Python to create custom ETL workflows.
 >
@@ -234,22 +231,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (28), etl (12), [[Python (Programming Language)|Python]] (6), [[Databases]] (3), [[Microsoft Azure|Azure]] (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Databases]] (3), [[Microsoft Azure|Azure]] (3), [[Data Transformation]] (1), [[Dashboards]] (1)
 > **Env Vars:** etl (12), aws (2), ssis (1), adf (1), dms (1)
 > **CLI Commands:** python (6), aws (2), make (1), apache (1)
 > **Definitions:** is a  (3), stands for (2)
 > **Speakers:** - [instructor] (1)
 
-#### ETL process overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/etl-in-python-and-sql/etl-process-overview?u=76281980)
+#### [ETL process overview](https://www.linkedin.com/learning/etl-in-python-and-sql/etl-process-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/etl-in-python-and-sql/etl-process-overview?u=76281980&t=0)** - [Instructor] There are some things we should consider before creating your ETL, and I'll walk you through the steps involved as we create our ETL with Python and SQL.
+> **[0:00](https://www.linkedin.com/learning/etl-in-python-and-sql/etl-process-overview?u=76281980&t=0)** - [Instructor] There are some things we should consider before creating your ETL, and I'll walk you through the steps involved as we create our ETL with [[Python (Programming Language)|Python]] and [[SQL]].
 >
 > **[0:13](https://www.linkedin.com/learning/etl-in-python-and-sql/etl-process-overview?u=76281980&t=13)** Let me paint a scenario.
 >
-> **[0:14](https://www.linkedin.com/learning/etl-in-python-and-sql/etl-process-overview?u=76281980&t=14)** A company, H+ Sports, a sports apparel company, has been compiling and recording all of its data, the customers, inventories, products, employees, and all other relevant data in an Excel sheets that everyone has access to.
+> **[0:14](https://www.linkedin.com/learning/etl-in-python-and-sql/etl-process-overview?u=76281980&t=14)** A company, H+ Sports, a sports apparel company, has been compiling and recording all of its data, the customers, inventories, [[Microsoft Products|products]], employees, and all other relevant data in an [[Microsoft Excel|Excel]] sheets that everyone has access to.
 >
 > **[0:32](https://www.linkedin.com/learning/etl-in-python-and-sql/etl-process-overview?u=76281980&t=32)** You have just been employed as a data engineer, congratulations, and your first task is to gather and warehouse all the data in the Excel sheets.
 >
@@ -263,7 +259,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/etl-in-python-and-sql/etl-process-overview?u=76281980&t=72)** When important data, it's important to consider the source and the destinations.
 >
-> **[1:19](https://www.linkedin.com/learning/etl-in-python-and-sql/etl-process-overview?u=76281980&t=79)** Sources could include databases, file systems, APIs, cloud services, and other platforms.
+> **[1:19](https://www.linkedin.com/learning/etl-in-python-and-sql/etl-process-overview?u=76281980&t=79)** Sources could include [[Databases]], file systems, APIs, [[Cloud Services]], and other platforms.
 >
 > **[1:27](https://www.linkedin.com/learning/etl-in-python-and-sql/etl-process-overview?u=76281980&t=87)** Additionally, it's important to determine the necessary transformation for the data, such as cleaning and reaching and aggregating.
 >
@@ -279,7 +275,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/etl-in-python-and-sql/etl-process-overview?u=76281980&t=121)** However, in this course, we will truncate and load our data for a number of reasons.
 >
-> **[2:08](https://www.linkedin.com/learning/etl-in-python-and-sql/etl-process-overview?u=76281980&t=128)** Number one, data cleaning.
+> **[2:08](https://www.linkedin.com/learning/etl-in-python-and-sql/etl-process-overview?u=76281980&t=128)** Number one, [[Data Cleaning]].
 >
 > **[2:11](https://www.linkedin.com/learning/etl-in-python-and-sql/etl-process-overview?u=76281980&t=131)** If there are errors or inconsistencies in our existing data, a full load can help refresh the data with corrected records.
 >
@@ -301,7 +297,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/etl-in-python-and-sql/etl-process-overview?u=76281980&t=202)** This could include how much data will be processed, how quickly it'll arrive, and how quickly it needs to be processed.
 >
-> **[3:30](https://www.linkedin.com/learning/etl-in-python-and-sql/etl-process-overview?u=76281980&t=210)** And finally, the last factor is scalability and performance.
+> **[3:30](https://www.linkedin.com/learning/etl-in-python-and-sql/etl-process-overview?u=76281980&t=210)** And finally, the last factor is [[Scalability]] and performance.
 >
 > **[3:36](https://www.linkedin.com/learning/etl-in-python-and-sql/etl-process-overview?u=76281980&t=216)** We need to understand and consider how the ETL will perform as the volume and velocity of the data increase.
 >
@@ -311,7 +307,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (30), etl (6), [[Microsoft Excel|Excel]] (2), [[Scalability]] (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Scalability]] (2), [[Python (Programming Language)|Python]] (1), [[SQL]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** etl (6), sql (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** required to (2)
@@ -319,20 +315,19 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring your data with pandas (Python) and SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/etl-in-python-and-sql/exploring-your-data-with-pandas-python-and-sql?u=76281980)
+#### [Exploring your data with pandas (Python) and SQL](https://www.linkedin.com/learning/etl-in-python-and-sql/exploring-your-data-with-pandas-python-and-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/etl-in-python-and-sql/exploring-your-data-with-pandas-python-and-sql?u=76281980&t=0)** - [Instructor] In the previous video, we talked about Python as a tool that can be used to create ETLs.
+> **[0:00](https://www.linkedin.com/learning/etl-in-python-and-sql/exploring-your-data-with-pandas-python-and-sql?u=76281980&t=0)** - [Instructor] In the previous video, we talked about [[Python (Programming Language)|Python]] as a tool that can be used to create ETLs.
 >
-> **[0:06](https://www.linkedin.com/learning/etl-in-python-and-sql/exploring-your-data-with-pandas-python-and-sql?u=76281980&t=6)** In this course, we're using Python, one of the most popular programming languages and the Pandas library to extract, transform, and load our data.
+> **[0:06](https://www.linkedin.com/learning/etl-in-python-and-sql/exploring-your-data-with-pandas-python-and-sql?u=76281980&t=6)** In this course, we're using Python, one of the most popular programming languages and the [[Pandas (Software)|Pandas]] library to extract, transform, and load our data.
 >
 > **[0:17](https://www.linkedin.com/learning/etl-in-python-and-sql/exploring-your-data-with-pandas-python-and-sql?u=76281980&t=17)** You most likely already know about Python, the programming language.
 >
 > **[0:20](https://www.linkedin.com/learning/etl-in-python-and-sql/exploring-your-data-with-pandas-python-and-sql?u=76281980&t=20)** But what about Pandas?
 >
-> **[0:22](https://www.linkedin.com/learning/etl-in-python-and-sql/exploring-your-data-with-pandas-python-and-sql?u=76281980&t=22)** Pandas is a popular open source Python library used for data manipulation and analysis.
+> **[0:22](https://www.linkedin.com/learning/etl-in-python-and-sql/exploring-your-data-with-pandas-python-and-sql?u=76281980&t=22)** Pandas is a popular open source Python library used for [[Data Manipulation]] and analysis.
 >
 > **[0:28](https://www.linkedin.com/learning/etl-in-python-and-sql/exploring-your-data-with-pandas-python-and-sql?u=76281980&t=28)** It provides easy-to-use functions and methods for working with data.
 >
@@ -344,17 +339,17 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/etl-in-python-and-sql/exploring-your-data-with-pandas-python-and-sql?u=76281980&t=60)** I'm going to run that to make sure it's imported correctly.
 >
-> **[1:04](https://www.linkedin.com/learning/etl-in-python-and-sql/exploring-your-data-with-pandas-python-and-sql?u=76281980&t=64)** Good. Now that we have imported Pandas, it's important to discuss the data structures that are available in Pandas.
+> **[1:04](https://www.linkedin.com/learning/etl-in-python-and-sql/exploring-your-data-with-pandas-python-and-sql?u=76281980&t=64)** Good. Now that we have imported Pandas, it's important to discuss the [[Data Structures]] that are available in Pandas.
 >
 > **[1:11](https://www.linkedin.com/learning/etl-in-python-and-sql/exploring-your-data-with-pandas-python-and-sql?u=76281980&t=71)** They are series and dataframes.
 >
-> **[1:14](https://www.linkedin.com/learning/etl-in-python-and-sql/exploring-your-data-with-pandas-python-and-sql?u=76281980&t=74)** Series are like one dimensional arrays with label data, sort of like a column in an Excel spreadsheet, and an example is shown on your screen.
+> **[1:14](https://www.linkedin.com/learning/etl-in-python-and-sql/exploring-your-data-with-pandas-python-and-sql?u=76281980&t=74)** Series are like one dimensional arrays with label data, sort of like a column in an [[Microsoft Excel|Excel]] spreadsheet, and an example is shown on your screen.
 >
 > **[1:26](https://www.linkedin.com/learning/etl-in-python-and-sql/exploring-your-data-with-pandas-python-and-sql?u=76281980&t=86)** Here I can create a series called data and to print data, I can simply call data, and this is a series.
 >
 > **[1:36](https://www.linkedin.com/learning/etl-in-python-and-sql/exploring-your-data-with-pandas-python-and-sql?u=76281980&t=96)** Another type of data structure available in Pandas is a dataframe.
 >
-> **[1:41](https://www.linkedin.com/learning/etl-in-python-and-sql/exploring-your-data-with-pandas-python-and-sql?u=76281980&t=101)** Dataframes are like two dimensional tables with rows and columns, like an Excel spreadsheet or an SQL table.
+> **[1:41](https://www.linkedin.com/learning/etl-in-python-and-sql/exploring-your-data-with-pandas-python-and-sql?u=76281980&t=101)** Dataframes are like two dimensional tables with rows and columns, like an Excel spreadsheet or an [[SQL]] table.
 >
 > **[1:48](https://www.linkedin.com/learning/etl-in-python-and-sql/exploring-your-data-with-pandas-python-and-sql?u=76281980&t=108)** Dataframes allow you the flexibility to store and manipulate data in a structured format.
 >
@@ -370,7 +365,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/etl-in-python-and-sql/exploring-your-data-with-pandas-python-and-sql?u=76281980&t=155)** So how does Pandas work?
 >
-> **[2:37](https://www.linkedin.com/learning/etl-in-python-and-sql/exploring-your-data-with-pandas-python-and-sql?u=76281980&t=157)** Pandas offers a variety of methods that can be used to import data from various sources like CSVs, Excels, Clipboard, JSON, SQL databases, and much more.
+> **[2:37](https://www.linkedin.com/learning/etl-in-python-and-sql/exploring-your-data-with-pandas-python-and-sql?u=76281980&t=157)** Pandas offers a variety of methods that can be used to import data from various sources like CSVs, Excels, Clipboard, [[JSON]], SQL [[Databases]], and much more.
 >
 > **[2:50](https://www.linkedin.com/learning/etl-in-python-and-sql/exploring-your-data-with-pandas-python-and-sql?u=76281980&t=170)** The syntax for importing this data is usually pd.read_the data type.
 >
@@ -386,7 +381,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Pandas (Software)|Pandas]] (14), [[Python (Programming Language)|Python]] (5), [[Microsoft Excel|Excel]] (3), [[Programming]] (2)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (14), [[Python (Programming Language)|Python]] (5), [[Microsoft Excel|Excel]] (3), [[SQL]] (2), [[Data Manipulation]] (1)
 > **CLI Commands:** python (5), make (2), find (1)
 > **Env Vars:** sql (2), peep (1), json (1), csv (1)
 > **Code Identifiers:** read_the (1), read_csv (1), read_excel (1)
@@ -395,14 +390,13 @@ created: 2026-05-02
 > **Tools:** visual studio (1)
 > **Analogies:** for example (1)
 
-#### Understanding your data
-> [LinkedIn Learning](https://www.linkedin.com/learning/etl-in-python-and-sql/understanding-your-data?u=76281980)
+#### [Understanding your data](https://www.linkedin.com/learning/etl-in-python-and-sql/understanding-your-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/etl-in-python-and-sql/understanding-your-data?u=76281980&t=0)** - [Instructor] Let's discuss how to explore data using Pandas.
+> **[0:00](https://www.linkedin.com/learning/etl-in-python-and-sql/understanding-your-data?u=76281980&t=0)** - [Instructor] Let's discuss how to explore data using [[Pandas (Software)|Pandas]].
 >
-> **[0:05](https://www.linkedin.com/learning/etl-in-python-and-sql/understanding-your-data?u=76281980&t=5)** Understanding the data is a big part of data warehousing and ETL creation.
+> **[0:05](https://www.linkedin.com/learning/etl-in-python-and-sql/understanding-your-data?u=76281980&t=5)** Understanding the data is a big part of [[Data Warehousing]] and ETL creation.
 >
 > **[0:11](https://www.linkedin.com/learning/etl-in-python-and-sql/understanding-your-data?u=76281980&t=11)** There are a couple of reasons why we need to explore and understand our data before transformation and warehousing.
 >
@@ -410,7 +404,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/etl-in-python-and-sql/understanding-your-data?u=76281980&t=27)** This is very important for the transformation stage of the ETL.
 >
-> **[0:31](https://www.linkedin.com/learning/etl-in-python-and-sql/understanding-your-data?u=76281980&t=31)** We also need to consider data quality.
+> **[0:31](https://www.linkedin.com/learning/etl-in-python-and-sql/understanding-your-data?u=76281980&t=31)** We also need to consider [[Data Quality]].
 >
 > **[0:34](https://www.linkedin.com/learning/etl-in-python-and-sql/understanding-your-data?u=76281980&t=34)** Are there duplicates, inconsistencies, missing values or no records?
 >
@@ -436,7 +430,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/etl-in-python-and-sql/understanding-your-data?u=76281980&t=99)** I will be creating this data frame as shown on my screen.
 >
-> **[1:44](https://www.linkedin.com/learning/etl-in-python-and-sql/understanding-your-data?u=76281980&t=104)** In the data shown here, we have a data from a retail store showing products sold to five customers along with the time of purchase of each item.
+> **[1:44](https://www.linkedin.com/learning/etl-in-python-and-sql/understanding-your-data?u=76281980&t=104)** In the data shown here, we have a data from a retail store showing [[Microsoft Products|products]] sold to five customers along with the time of purchase of each item.
 >
 > **[1:54](https://www.linkedin.com/learning/etl-in-python-and-sql/understanding-your-data?u=76281980&t=114)** We can view our data using df.head or df.tail.
 >
@@ -480,21 +474,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (31), [[Pandas (Software)|Pandas]] (5), etl (3), business (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (5), [[Data Quality]] (2), [[Data Warehousing]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** etl (3)
 > **Definitions:** is a  (2)
 > **Tools:** visual studio (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Reading data using Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/etl-in-python-and-sql/challenge-reading-data-using-python?u=76281980)
+#### [Challenge: Reading data using Python](https://www.linkedin.com/learning/etl-in-python-and-sql/challenge-reading-data-using-python?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/etl-in-python-and-sql/challenge-reading-data-using-python?u=76281980&t=0)** (light upbeat music)
 >
-> **[0:06](https://www.linkedin.com/learning/etl-in-python-and-sql/challenge-reading-data-using-python?u=76281980&t=6)** - [Narrator] For your first challenge, you would read data from a CSV file called Sample Data using Pandas.
+> **[0:06](https://www.linkedin.com/learning/etl-in-python-and-sql/challenge-reading-data-using-python?u=76281980&t=6)** - [Narrator] For your first challenge, you would read data from a CSV file called Sample Data using [[Pandas (Software)|Pandas]].
 >
 > **[0:13](https://www.linkedin.com/learning/etl-in-python-and-sql/challenge-reading-data-using-python?u=76281980&t=13)** This file is located in exercise files for this course in the chapter one video file folder.
 >
@@ -506,14 +499,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (1)
 > **Env Vars:** csv (2)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (light upbeat music) (1)
 
-#### Solution: Reading data using Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/etl-in-python-and-sql/solution-reading-data-using-python?u=76281980)
+#### [Solution: Reading data using Python](https://www.linkedin.com/learning/etl-in-python-and-sql/solution-reading-data-using-python?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -521,7 +513,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/etl-in-python-and-sql/solution-reading-data-using-python?u=76281980&t=8)** Let's review the answer to the challenge.
 >
-> **[0:10](https://www.linkedin.com/learning/etl-in-python-and-sql/solution-reading-data-using-python?u=76281980&t=10)** First things first, we import pandas as pd.
+> **[0:10](https://www.linkedin.com/learning/etl-in-python-and-sql/solution-reading-data-using-python?u=76281980&t=10)** First things first, we import [[Pandas (Software)|pandas]] as pd.
 >
 > **[0:14](https://www.linkedin.com/learning/etl-in-python-and-sql/solution-reading-data-using-python?u=76281980&t=14)** Let's run it just to be sure it's imported correctly.
 >
@@ -587,7 +579,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), next (3), [[Pandas (Software)|Pandas]] (2)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (2)
 > **Code Identifiers:** sample_data (8), duplicate_rows (3), read_csv (1)
 > **Env Vars:** csv (2)
 > **Cross-References:** in the next (1)
@@ -600,8 +592,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Loading data from different sources
-> [LinkedIn Learning](https://www.linkedin.com/learning/etl-in-python-and-sql/loading-data-from-different-sources?u=76281980)
+#### [Loading data from different sources](https://www.linkedin.com/learning/etl-in-python-and-sql/loading-data-from-different-sources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -609,13 +600,13 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/etl-in-python-and-sql/loading-data-from-different-sources?u=76281980&t=3)** For example, at a particular organization, data can exist in a production database.
 >
-> **[0:09](https://www.linkedin.com/learning/etl-in-python-and-sql/loading-data-from-different-sources?u=76281980&t=9)** That could either be a SQL or a NoSQL database, APIs, JSON files, and Excel or CSV sheets.
+> **[0:09](https://www.linkedin.com/learning/etl-in-python-and-sql/loading-data-from-different-sources?u=76281980&t=9)** That could either be a [[SQL]] or a [[NoSQL]] database, APIs, [[JSON]] files, and [[Microsoft Excel|Excel]] or CSV sheets.
 >
 > **[0:19](https://www.linkedin.com/learning/etl-in-python-and-sql/loading-data-from-different-sources?u=76281980&t=19)** Data also exists in different formats like XML, Parquet, JSON, and TXT.
 >
 > **[0:26](https://www.linkedin.com/learning/etl-in-python-and-sql/loading-data-from-different-sources?u=76281980&t=26)** The list is endless.
 >
-> **[0:28](https://www.linkedin.com/learning/etl-in-python-and-sql/loading-data-from-different-sources?u=76281980&t=28)** In this video, we will explore loading data from different data sources using Pandas library, like pandas.
+> **[0:28](https://www.linkedin.com/learning/etl-in-python-and-sql/loading-data-from-different-sources?u=76281980&t=28)** In this video, we will explore loading data from different data sources using [[Pandas (Software)|Pandas]] library, like pandas.
 >
 > **[0:36](https://www.linkedin.com/learning/etl-in-python-and-sql/loading-data-from-different-sources?u=76281980&t=36)** Let's talk about loading CSV files.
 >
@@ -683,7 +674,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Pandas (Software)|Pandas]] (12), [[JSON]] (4), [[Microsoft Excel|Excel]] (4), database (2)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (12), [[JSON]] (4), [[Microsoft Excel|Excel]] (4), [[SQL]] (1), [[NoSQL]] (1)
 > **Env Vars:** csv (6), json (4), sql (1), xml (1), txt (1)
 > **Code Identifiers:** sample_excel (2), read_csv (1), sample_data_csv (1), sample_csv (1), read_excel (1)
 > **File Paths:** pandas.read.csv (1), pd.read.csv (1), sample.csv (1)
@@ -692,16 +683,15 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Extracting your data
-> [LinkedIn Learning](https://www.linkedin.com/learning/etl-in-python-and-sql/extracting-your-data?u=76281980)
+#### [Extracting your data](https://www.linkedin.com/learning/etl-in-python-and-sql/extracting-your-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/etl-in-python-and-sql/extracting-your-data?u=76281980&t=0)** - [Instructor] As we have discussed in previous lessons, data often comes in different formats.
 >
-> **[0:06](https://www.linkedin.com/learning/etl-in-python-and-sql/extracting-your-data?u=76281980&t=6)** At our company, H+ Sports, our data primarily resides in an Excel file.
+> **[0:06](https://www.linkedin.com/learning/etl-in-python-and-sql/extracting-your-data?u=76281980&t=6)** At our company, H+ Sports, our data primarily resides in an [[Microsoft Excel|Excel]] file.
 >
-> **[0:12](https://www.linkedin.com/learning/etl-in-python-and-sql/extracting-your-data?u=76281980&t=12)** In the next couple of videos, we will extract our data from the Excel using Pandas.
+> **[0:12](https://www.linkedin.com/learning/etl-in-python-and-sql/extracting-your-data?u=76281980&t=12)** In the next couple of videos, we will extract our data from the Excel using [[Pandas (Software)|Pandas]].
 >
 > **[0:20](https://www.linkedin.com/learning/etl-in-python-and-sql/extracting-your-data?u=76281980&t=20)** We'll begin by loading our data, the Excel file, the orders from H+ Sports, which has eight columns and a lot of rows.
 >
@@ -749,7 +739,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Microsoft Excel|Excel]] (8), [[Pandas (Software)|Pandas]] (5), next (3)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (8), [[Pandas (Software)|Pandas]] (5)
 > **CLI Commands:** make (3)
 > **Cross-References:** in the next (2)
 > **Tools:** visual studio (1), jupyter (1)
@@ -758,12 +748,11 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cleaning, preprocessing data, and data formatting
-> [LinkedIn Learning](https://www.linkedin.com/learning/etl-in-python-and-sql/cleaning-preprocessing-data-and-data-formatting?u=76281980)
+#### [Cleaning, preprocessing data, and data formatting](https://www.linkedin.com/learning/etl-in-python-and-sql/cleaning-preprocessing-data-and-data-formatting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/etl-in-python-and-sql/cleaning-preprocessing-data-and-data-formatting?u=76281980&t=0)** - [Instructor] In the previous video, we imported our orders data from Excel to our Jupyter Notebook.
+> **[0:00](https://www.linkedin.com/learning/etl-in-python-and-sql/cleaning-preprocessing-data-and-data-formatting?u=76281980&t=0)** - [Instructor] In the previous video, we imported our orders data from [[Microsoft Excel|Excel]] to our Jupyter Notebook.
 >
 > **[0:06](https://www.linkedin.com/learning/etl-in-python-and-sql/cleaning-preprocessing-data-and-data-formatting?u=76281980&t=6)** This covers the extraction part of this course.
 >
@@ -771,9 +760,9 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/etl-in-python-and-sql/cleaning-preprocessing-data-and-data-formatting?u=76281980&t=19)** Let's talk about why this is important.
 >
-> **[0:21](https://www.linkedin.com/learning/etl-in-python-and-sql/cleaning-preprocessing-data-and-data-formatting?u=76281980&t=21)** Data transformation focuses on converting raw data coming from different systems into a format that is suitable for the target system.
+> **[0:21](https://www.linkedin.com/learning/etl-in-python-and-sql/cleaning-preprocessing-data-and-data-formatting?u=76281980&t=21)** [[Data Transformation]] focuses on converting raw data coming from different systems into a format that is suitable for the target system.
 >
-> **[0:31](https://www.linkedin.com/learning/etl-in-python-and-sql/cleaning-preprocessing-data-and-data-formatting?u=76281980&t=31)** Data transformation is important for data quality and consistency, as inaccurate data can lead to faulty reporting, which can cause an organization to lose money.
+> **[0:31](https://www.linkedin.com/learning/etl-in-python-and-sql/cleaning-preprocessing-data-and-data-formatting?u=76281980&t=31)** Data transformation is important for [[Data Quality]] and consistency, as inaccurate data can lead to faulty reporting, which can cause an organization to lose money.
 >
 > **[0:42](https://www.linkedin.com/learning/etl-in-python-and-sql/cleaning-preprocessing-data-and-data-formatting?u=76281980&t=42)** Let's talk about some of the scenarios where data transformation is necessary.
 >
@@ -805,13 +794,13 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/etl-in-python-and-sql/cleaning-preprocessing-data-and-data-formatting?u=76281980&t=132)** This ensures a consistency in currency across stores.
 >
-> **[2:16](https://www.linkedin.com/learning/etl-in-python-and-sql/cleaning-preprocessing-data-and-data-formatting?u=76281980&t=136)** The data integration and standardization process involves transforming data from various source systems into a common format or structure.
+> **[2:16](https://www.linkedin.com/learning/etl-in-python-and-sql/cleaning-preprocessing-data-and-data-formatting?u=76281980&t=136)** The [[Data Integration]] and standardization process involves transforming data from various source systems into a common format or structure.
 >
 > **[2:26](https://www.linkedin.com/learning/etl-in-python-and-sql/cleaning-preprocessing-data-and-data-formatting?u=76281980&t=146)** Scenario three.
 >
 > **[2:28](https://www.linkedin.com/learning/etl-in-python-and-sql/cleaning-preprocessing-data-and-data-formatting?u=76281980&t=148)** Combining data from the Excel sheets from sales team one and sales team two instead of loading data into two separate tables, and aggregating data from multiple sources into a single dataset.
 >
-> **[2:43](https://www.linkedin.com/learning/etl-in-python-and-sql/cleaning-preprocessing-data-and-data-formatting?u=76281980&t=163)** Aggregating the data allows the company to analyze overall sales performance, identifying top performing sales teams, popular products, and overall revenue trends.
+> **[2:43](https://www.linkedin.com/learning/etl-in-python-and-sql/cleaning-preprocessing-data-and-data-formatting?u=76281980&t=163)** Aggregating the data allows the company to analyze overall sales performance, identifying top performing sales teams, popular [[Microsoft Products|products]], and overall revenue trends.
 >
 > **[2:55](https://www.linkedin.com/learning/etl-in-python-and-sql/cleaning-preprocessing-data-and-data-formatting?u=76281980&t=175)** Data aggregation is a process of summarizing, grouping, or consolidating data from multiple rows or records into a single value or set of values.
 >
@@ -823,17 +812,17 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/etl-in-python-and-sql/cleaning-preprocessing-data-and-data-formatting?u=76281980&t=202)** You can choose specific data elements and remove others.
 >
-> **[3:26](https://www.linkedin.com/learning/etl-in-python-and-sql/cleaning-preprocessing-data-and-data-formatting?u=76281980&t=206)** Another transformation technique is data cleaning.
+> **[3:26](https://www.linkedin.com/learning/etl-in-python-and-sql/cleaning-preprocessing-data-and-data-formatting?u=76281980&t=206)** Another transformation technique is [[Data Cleaning]].
 >
 > **[3:29](https://www.linkedin.com/learning/etl-in-python-and-sql/cleaning-preprocessing-data-and-data-formatting?u=76281980&t=209)** Here, we identify and eliminate errors and inconsistencies in our data.
 >
 > **[3:35](https://www.linkedin.com/learning/etl-in-python-and-sql/cleaning-preprocessing-data-and-data-formatting?u=76281980&t=215)** In summary, data transformation plays an important role in the ETL process.
 >
-> **[3:40](https://www.linkedin.com/learning/etl-in-python-and-sql/cleaning-preprocessing-data-and-data-formatting?u=76281980&t=220)** The transformation step ensures data quality by data cleaning, integration, standardization of metrics, data validation, and enrichment.
+> **[3:40](https://www.linkedin.com/learning/etl-in-python-and-sql/cleaning-preprocessing-data-and-data-formatting?u=76281980&t=220)** The transformation step ensures data quality by data cleaning, integration, standardization of metrics, [[Data Validation]], and enrichment.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), [[Data Transformation]] (4), [[Microsoft Excel|Excel]] (3), product (3), teams (2)
+> **Frameworks & Libraries:** [[Data Transformation]] (4), [[Microsoft Excel|Excel]] (3), [[Data Quality]] (2), [[Data Cleaning]] (2), [[Data Integration]] (1)
 > **Env Vars:** etl (1)
 > **Cross-References:** previous video (1)
 > **Tools:** jupyter (1)
@@ -841,8 +830,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Standardization, handling duplicates, and missing values
-> [LinkedIn Learning](https://www.linkedin.com/learning/etl-in-python-and-sql/standardization-handling-duplicates-and-missing-values?u=76281980)
+#### [Standardization, handling duplicates, and missing values](https://www.linkedin.com/learning/etl-in-python-and-sql/standardization-handling-duplicates-and-missing-values?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -850,11 +838,11 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/etl-in-python-and-sql/standardization-handling-duplicates-and-missing-values?u=76281980&t=6)** Now, let's transform the customer's data from H+ Sport.
 >
-> **[0:11](https://www.linkedin.com/learning/etl-in-python-and-sql/standardization-handling-duplicates-and-missing-values?u=76281980&t=11)** To transform our data, first, we need to extract it from the Excel file it currently resides in.
+> **[0:11](https://www.linkedin.com/learning/etl-in-python-and-sql/standardization-handling-duplicates-and-missing-values?u=76281980&t=11)** To transform our data, first, we need to extract it from the [[Microsoft Excel|Excel]] file it currently resides in.
 >
 > **[0:16](https://www.linkedin.com/learning/etl-in-python-and-sql/standardization-handling-duplicates-and-missing-values?u=76281980&t=16)** Do you remember how?
 >
-> **[0:18](https://www.linkedin.com/learning/etl-in-python-and-sql/standardization-handling-duplicates-and-missing-values?u=76281980&t=18)** First things first, let's import Pandas as PD and make sure it runs.
+> **[0:18](https://www.linkedin.com/learning/etl-in-python-and-sql/standardization-handling-duplicates-and-missing-values?u=76281980&t=18)** First things first, let's import [[Pandas (Software)|Pandas]] as PD and make sure it runs.
 >
 > **[0:23](https://www.linkedin.com/learning/etl-in-python-and-sql/standardization-handling-duplicates-and-missing-values?u=76281980&t=23)** Next, we would import our customer's data.
 >
@@ -978,7 +966,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Microsoft Excel|Excel]] (3), [[Pandas (Software)|Pandas]] (2), next (2), etl (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Pandas (Software)|Pandas]] (2)
 > **CLI Commands:** make (4), find (1)
 > **Cross-References:** in the last (1), we discussed (1), next video (1)
 > **Env Vars:** etl (1)
@@ -986,14 +974,13 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [tutor] (1)
 
-#### Challenge: Extract and transform data using pandas
-> [LinkedIn Learning](https://www.linkedin.com/learning/etl-in-python-and-sql/challenge-load-the-data-using-sqlalchemy-and-pandas?u=76281980)
+#### [Challenge: Extract and transform data using pandas](https://www.linkedin.com/learning/etl-in-python-and-sql/challenge-load-the-data-using-sqlalchemy-and-pandas?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/etl-in-python-and-sql/challenge-load-the-data-using-sqlalchemy-and-pandas?u=76281980&t=0)** - [Instructor] Okay, it's time to test your knowledge.
 >
-> **[0:08](https://www.linkedin.com/learning/etl-in-python-and-sql/challenge-load-the-data-using-sqlalchemy-and-pandas?u=76281980&t=8)** By extracting and transforming data from the employee table sheet, in the employee Excel data.
+> **[0:08](https://www.linkedin.com/learning/etl-in-python-and-sql/challenge-load-the-data-using-sqlalchemy-and-pandas?u=76281980&t=8)** By extracting and transforming data from the employee table sheet, in the employee [[Microsoft Excel|Excel]] data.
 >
 > **[0:15](https://www.linkedin.com/learning/etl-in-python-and-sql/challenge-load-the-data-using-sqlalchemy-and-pandas?u=76281980&t=15)** You should name the resulting data frame employees.
 >
@@ -1005,13 +992,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Versions:** 2.91 (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Extract and transform data using pandas
-> [LinkedIn Learning](https://www.linkedin.com/learning/etl-in-python-and-sql/solution-load-the-data-using-sqlalchemy-and-pandas?u=76281980)
+#### [Solution: Extract and transform data using pandas](https://www.linkedin.com/learning/etl-in-python-and-sql/solution-load-the-data-using-sqlalchemy-and-pandas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1023,11 +1009,11 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/etl-in-python-and-sql/solution-load-the-data-using-sqlalchemy-and-pandas?u=76281980&t=15)** Now let's review the answer to the challenge.
 >
-> **[0:18](https://www.linkedin.com/learning/etl-in-python-and-sql/solution-load-the-data-using-sqlalchemy-and-pandas?u=76281980&t=18)** First things first, we should import pandas as pd.
+> **[0:18](https://www.linkedin.com/learning/etl-in-python-and-sql/solution-load-the-data-using-sqlalchemy-and-pandas?u=76281980&t=18)** First things first, we should import [[Pandas (Software)|pandas]] as pd.
 >
 > **[0:21](https://www.linkedin.com/learning/etl-in-python-and-sql/solution-load-the-data-using-sqlalchemy-and-pandas?u=76281980&t=21)** Let's run this to make sure everything is fine.
 >
-> **[0:24](https://www.linkedin.com/learning/etl-in-python-and-sql/solution-load-the-data-using-sqlalchemy-and-pandas?u=76281980&t=24)** Next, you should have downloaded the Excel file and moved it to the same location as your Jupyter Notebook for simplicity as shown on my screen.
+> **[0:24](https://www.linkedin.com/learning/etl-in-python-and-sql/solution-load-the-data-using-sqlalchemy-and-pandas?u=76281980&t=24)** Next, you should have downloaded the [[Microsoft Excel|Excel]] file and moved it to the same location as your Jupyter Notebook for simplicity as shown on my screen.
 >
 > **[0:34](https://www.linkedin.com/learning/etl-in-python-and-sql/solution-load-the-data-using-sqlalchemy-and-pandas?u=76281980&t=34)** For the next step, we will import the employee's Excel sheet using the pandas method for importing Excel, pd.read.excel.
 >
@@ -1103,7 +1089,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Microsoft Excel|Excel]] (6), [[Pandas (Software)|Pandas]] (3), next (3)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), [[Pandas (Software)|Pandas]] (3)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1), select the (1)
 > **Code Identifiers:** read_excel (1)
@@ -1117,14 +1103,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to data warehouses and data lakes
-> [LinkedIn Learning](https://www.linkedin.com/learning/etl-in-python-and-sql/introduction-to-data-warehouses-and-data-lakes?u=76281980)
+#### [Introduction to data warehouses and data lakes](https://www.linkedin.com/learning/etl-in-python-and-sql/introduction-to-data-warehouses-and-data-lakes?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/etl-in-python-and-sql/introduction-to-data-warehouses-and-data-lakes?u=76281980&t=0)** - [Instructor] By now, you should be able to load and transform data from various sources, congratulations.
 >
-> **[0:07](https://www.linkedin.com/learning/etl-in-python-and-sql/introduction-to-data-warehouses-and-data-lakes?u=76281980&t=7)** Now, let's talk about the differences between databases, data warehouses, data lakes, and data lakehouses.
+> **[0:07](https://www.linkedin.com/learning/etl-in-python-and-sql/introduction-to-data-warehouses-and-data-lakes?u=76281980&t=7)** Now, let's talk about the differences between [[Databases]], data warehouses, [[Data Lakes]], and data lakehouses.
 >
 > **[0:14](https://www.linkedin.com/learning/etl-in-python-and-sql/introduction-to-data-warehouses-and-data-lakes?u=76281980&t=14)** I know this might sound confusing.
 >
@@ -1134,7 +1119,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/etl-in-python-and-sql/introduction-to-data-warehouses-and-data-lakes?u=76281980&t=30)** First, what are databases?
 >
-> **[0:33](https://www.linkedin.com/learning/etl-in-python-and-sql/introduction-to-data-warehouses-and-data-lakes?u=76281980&t=33)** Databases are organized collections of data that are usually controlled using a database management system, DBMS.
+> **[0:33](https://www.linkedin.com/learning/etl-in-python-and-sql/introduction-to-data-warehouses-and-data-lakes?u=76281980&t=33)** Databases are organized collections of data that are usually controlled using a [[Database Management]] system, DBMS.
 >
 > **[0:43](https://www.linkedin.com/learning/etl-in-python-and-sql/introduction-to-data-warehouses-and-data-lakes?u=76281980&t=43)** A database management system is a software that allows you to access, interact with, and manipulate a database and its content.
 >
@@ -1142,7 +1127,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/etl-in-python-and-sql/introduction-to-data-warehouses-and-data-lakes?u=76281980&t=67)** They do not always have historical information since they are optimized for retrieving small amounts of data.
 >
-> **[1:14](https://www.linkedin.com/learning/etl-in-python-and-sql/introduction-to-data-warehouses-and-data-lakes?u=76281980&t=74)** Usually, when people speak about databases, they refer to relational databases like MySQL, Postgres, and so on.
+> **[1:14](https://www.linkedin.com/learning/etl-in-python-and-sql/introduction-to-data-warehouses-and-data-lakes?u=76281980&t=74)** Usually, when people speak about databases, they refer to [[Relational Databases]] like [[MySQL]], [[PostgreSQL|Postgres]], and so on.
 >
 > **[1:24](https://www.linkedin.com/learning/etl-in-python-and-sql/introduction-to-data-warehouses-and-data-lakes?u=76281980&t=84)** But the database can be structured, semi-structured, or unstructured.
 >
@@ -1150,11 +1135,11 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/etl-in-python-and-sql/introduction-to-data-warehouses-and-data-lakes?u=76281980&t=91)** A structured database uses tables to store data, and each table has a specified and predefined schema with columns and data types.
 >
-> **[1:42](https://www.linkedin.com/learning/etl-in-python-and-sql/introduction-to-data-warehouses-and-data-lakes?u=76281980&t=102)** For example, relational databases like MySQL, Postgres, MS SQL, and so on.
+> **[1:42](https://www.linkedin.com/learning/etl-in-python-and-sql/introduction-to-data-warehouses-and-data-lakes?u=76281980&t=102)** For example, relational databases like MySQL, Postgres, MS [[SQL]], and so on.
 >
 > **[1:50](https://www.linkedin.com/learning/etl-in-python-and-sql/introduction-to-data-warehouses-and-data-lakes?u=76281980&t=110)** A semi-structured database, however, does not quite fit into a table, but does have some structure.
 >
-> **[1:58](https://www.linkedin.com/learning/etl-in-python-and-sql/introduction-to-data-warehouses-and-data-lakes?u=76281980&t=118)** An example of that kind of data would be JSON, XML, and can be stored in a MongoDB or a Mongo database.
+> **[1:58](https://www.linkedin.com/learning/etl-in-python-and-sql/introduction-to-data-warehouses-and-data-lakes?u=76281980&t=118)** An example of that kind of data would be [[JSON]], XML, and can be stored in a [[MongoDB]] or a Mongo database.
 >
 > **[2:06](https://www.linkedin.com/learning/etl-in-python-and-sql/introduction-to-data-warehouses-and-data-lakes?u=76281980&t=126)** Unstructured databases do not have predefined schemas and are not organized in a tabular form.
 >
@@ -1162,9 +1147,9 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/etl-in-python-and-sql/introduction-to-data-warehouses-and-data-lakes?u=76281980&t=145)** Now, what are data warehouses?
 >
-> **[2:27](https://www.linkedin.com/learning/etl-in-python-and-sql/introduction-to-data-warehouses-and-data-lakes?u=76281980&t=147)** Data warehouses are structured and centralized systems or repositories that store data from various sources, such as transactional database systems, APIs, ERP systems, and CRM systems.
+> **[2:27](https://www.linkedin.com/learning/etl-in-python-and-sql/introduction-to-data-warehouses-and-data-lakes?u=76281980&t=147)** Data warehouses are structured and centralized systems or repositories that store data from various sources, such as transactional [[Database Systems]], APIs, ERP systems, and CRM systems.
 >
-> **[2:43](https://www.linkedin.com/learning/etl-in-python-and-sql/introduction-to-data-warehouses-and-data-lakes?u=76281980&t=163)** Data warehouses are designed to support business intelligence and provide a single and structured view of the data in a consistent format.
+> **[2:43](https://www.linkedin.com/learning/etl-in-python-and-sql/introduction-to-data-warehouses-and-data-lakes?u=76281980&t=163)** Data warehouses are designed to support [[Business Intelligence (BI)|business intelligence]] and provide a single and structured view of the data in a consistent format.
 >
 > **[2:52](https://www.linkedin.com/learning/etl-in-python-and-sql/introduction-to-data-warehouses-and-data-lakes?u=76281980&t=172)** Data warehouses track historical information and are used by data analysts, data scientists, and other business users to aid in decision making.
 >
@@ -1172,15 +1157,15 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/etl-in-python-and-sql/introduction-to-data-warehouses-and-data-lakes?u=76281980&t=187)** Now, let's explore data lakes.
 >
-> **[3:10](https://www.linkedin.com/learning/etl-in-python-and-sql/introduction-to-data-warehouses-and-data-lakes?u=76281980&t=190)** A data lake is a flexible and easily scalable data storage system that allows for both structured and unstructured data in its raw form.
+> **[3:10](https://www.linkedin.com/learning/etl-in-python-and-sql/introduction-to-data-warehouses-and-data-lakes?u=76281980&t=190)** A data lake is a flexible and easily scalable [[Data Storage]] system that allows for both structured and [[Unstructured Data]] in its raw form.
 >
 > **[3:20](https://www.linkedin.com/learning/etl-in-python-and-sql/introduction-to-data-warehouses-and-data-lakes?u=76281980&t=200)** It doesn't really require a predefined schema or a structure.
 >
-> **[3:24](https://www.linkedin.com/learning/etl-in-python-and-sql/introduction-to-data-warehouses-and-data-lakes?u=76281980&t=204)** It is usually stored in a flat file architecture, which makes it easier for end users to access this data in its raw forms.
+> **[3:24](https://www.linkedin.com/learning/etl-in-python-and-sql/introduction-to-data-warehouses-and-data-lakes?u=76281980&t=204)** It is usually stored in a flat file architecture, which makes it easier for end users to access this data in its raw [[Forms]].
 >
 > **[3:32](https://www.linkedin.com/learning/etl-in-python-and-sql/introduction-to-data-warehouses-and-data-lakes?u=76281980&t=212)** Data lakes are used by more technical users, like data engineers, data scientists, machine learning engineers.
 >
-> **[3:39](https://www.linkedin.com/learning/etl-in-python-and-sql/introduction-to-data-warehouses-and-data-lakes?u=76281980&t=219)** Since the data lake can store data from various sources, such as log files, machine-generated data, IoT devices, social media feeds, and other unstructured data.
+> **[3:39](https://www.linkedin.com/learning/etl-in-python-and-sql/introduction-to-data-warehouses-and-data-lakes?u=76281980&t=219)** Since the data lake can store data from various sources, such as log files, machine-generated data, [[IoT]] devices, social media feeds, and other unstructured data.
 >
 > **[3:51](https://www.linkedin.com/learning/etl-in-python-and-sql/introduction-to-data-warehouses-and-data-lakes?u=76281980&t=231)** Finally, data lakehouses are a more modern version or concepts of data lakes.
 >
@@ -1194,13 +1179,13 @@ created: 2026-05-02
 >
 > **[4:18](https://www.linkedin.com/learning/etl-in-python-and-sql/introduction-to-data-warehouses-and-data-lakes?u=76281980&t=258)** Data warehouses are optimized for complex analytical queries that involve aggregations, groupings, and reporting across large datasets.
 >
-> **[4:30](https://www.linkedin.com/learning/etl-in-python-and-sql/introduction-to-data-warehouses-and-data-lakes?u=76281980&t=270)** Where databases support historical data from various business sources and intelligence tools and business intelligence tools for in-depth analysis, data lake offers scalability and flexibility in storage while data lakehouses provide a balance between raw storage and structured query.
+> **[4:30](https://www.linkedin.com/learning/etl-in-python-and-sql/introduction-to-data-warehouses-and-data-lakes?u=76281980&t=270)** Where databases support historical data from various business sources and intelligence tools and business intelligence tools for in-depth analysis, data lake offers [[Scalability]] and flexibility in storage while data lakehouses provide a balance between raw storage and structured query.
 >
 > **[4:52](https://www.linkedin.com/learning/etl-in-python-and-sql/introduction-to-data-warehouses-and-data-lakes?u=76281980&t=292)** Now that you know the differences between storage systems, let's head over to the next video where we'll load our data into a data warehouse.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (40), database (10), [[Databases]] (8), management (2), [[Relational Databases]] (2)
+> **Frameworks & Libraries:** [[Databases]] (8), [[Data Lakes]] (4), [[Database Management]] (2), [[Relational Databases]] (2), [[MySQL]] (2)
 > **Env Vars:** dbms (1), crud (1), sql (1), json (1), xml (1)
 > **CLI Commands:** mysql (2), mongo (2), apache (1)
 > **Analogies:** such as (2), for example (1)
@@ -1208,18 +1193,17 @@ created: 2026-05-02
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Loading data into relational databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/etl-in-python-and-sql/loading-data-into-relational-databases?u=76281980)
+#### [Loading data into relational databases](https://www.linkedin.com/learning/etl-in-python-and-sql/loading-data-into-relational-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/etl-in-python-and-sql/loading-data-into-relational-databases?u=76281980&t=0)** - [Instructor] Now that we know the difference between Databases, Data Warehouse, Data Lakes, and Data Lakehouses, we will load our transform data from our Jupyter Notebook to our H Plus Sports Data Warehouse.
+> **[0:00](https://www.linkedin.com/learning/etl-in-python-and-sql/loading-data-into-relational-databases?u=76281980&t=0)** - [Instructor] Now that we know the difference between [[Databases]], Data Warehouse, [[Data Lakes]], and Data Lakehouses, we will load our transform data from our Jupyter Notebook to our H Plus Sports Data Warehouse.
 >
-> **[0:15](https://www.linkedin.com/learning/etl-in-python-and-sql/loading-data-into-relational-databases?u=76281980&t=15)** In this lesson, we will be creating a PostgresSQL database on ElephantSQL, a hosting service that provides a browser tool for SQL queries where you can create, read, updates and delete data directly from your web browser.
+> **[0:15](https://www.linkedin.com/learning/etl-in-python-and-sql/loading-data-into-relational-databases?u=76281980&t=15)** In this lesson, we will be creating a PostgresSQL database on ElephantSQL, a hosting service that provides a browser tool for [[SQL]] queries where you can create, read, updates and delete data directly from your web browser.
 >
 > **[0:34](https://www.linkedin.com/learning/etl-in-python-and-sql/loading-data-into-relational-databases?u=76281980&t=34)** This will serve as our H Plus Sport Data Warehouse.
 >
-> **[0:38](https://www.linkedin.com/learning/etl-in-python-and-sql/loading-data-into-relational-databases?u=76281980&t=38)** To create your Postgres Database Instance, you can follow along as we go to www.[elephantsql.com/plans.html](https://elephantsql.com/plans.html).
+> **[0:38](https://www.linkedin.com/learning/etl-in-python-and-sql/loading-data-into-relational-databases?u=76281980&t=38)** To create your [[PostgreSQL|Postgres]] Database Instance, you can follow along as we go to www.[elephantsql.com/plans.[[HTML]]](https://elephantsql.com/plans.html).
 >
 > **[0:52](https://www.linkedin.com/learning/etl-in-python-and-sql/loading-data-into-relational-databases?u=76281980&t=52)** Here you can sign up and create a free TINY TURTLE Shared Instance.
 >
@@ -1249,9 +1233,9 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/etl-in-python-and-sql/loading-data-into-relational-databases?u=76281980&t=115)** We'll also be using SQLAlchemy.
 >
-> **[1:58](https://www.linkedin.com/learning/etl-in-python-and-sql/loading-data-into-relational-databases?u=76281980&t=118)** This is an SQL Two Kit Library for Python, which allows you to connect and interact with relational databases like Postgres.
+> **[1:58](https://www.linkedin.com/learning/etl-in-python-and-sql/loading-data-into-relational-databases?u=76281980&t=118)** This is an SQL Two Kit Library for [[Python (Programming Language)|Python]], which allows you to connect and interact with [[Relational Databases]] like Postgres.
 >
-> **[2:08](https://www.linkedin.com/learning/etl-in-python-and-sql/loading-data-into-relational-databases?u=76281980&t=128)** Since this is an external library, we would need to import it just like Pandas and we can import it using SQLAlchemy as db.
+> **[2:08](https://www.linkedin.com/learning/etl-in-python-and-sql/loading-data-into-relational-databases?u=76281980&t=128)** Since this is an external library, we would need to import it just like [[Pandas (Software)|Pandas]] and we can import it using SQLAlchemy as db.
 >
 > **[2:19](https://www.linkedin.com/learning/etl-in-python-and-sql/loading-data-into-relational-databases?u=76281980&t=139)** So now, let us add it here.
 >
@@ -1261,7 +1245,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/etl-in-python-and-sql/loading-data-into-relational-databases?u=76281980&t=153)** Awesome, there's a lot we can do with SQLAlchemy.
 >
-> **[2:38](https://www.linkedin.com/learning/etl-in-python-and-sql/loading-data-into-relational-databases?u=76281980&t=158)** We can connect to relational databases like MySQL, Postgres, SQLites, amongst other databases,
+> **[2:38](https://www.linkedin.com/learning/etl-in-python-and-sql/loading-data-into-relational-databases?u=76281980&t=158)** We can connect to relational databases like [[MySQL]], Postgres, SQLites, amongst other databases,
 >
 > **[2:48](https://www.linkedin.com/learning/etl-in-python-and-sql/loading-data-into-relational-databases?u=76281980&t=168)** using the Create Engine Function.
 >
@@ -1269,7 +1253,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/etl-in-python-and-sql/loading-data-into-relational-databases?u=76281980&t=174)** We have db.CreateEngine.
 >
-> **[3:00](https://www.linkedin.com/learning/etl-in-python-and-sql/loading-data-into-relational-databases?u=76281980&t=180)** Great, using the Sessionmaker Function, SQLAlchemy can also be used for data manipulation and querying.
+> **[3:00](https://www.linkedin.com/learning/etl-in-python-and-sql/loading-data-into-relational-databases?u=76281980&t=180)** Great, using the Sessionmaker Function, SQLAlchemy can also be used for [[Data Manipulation]] and querying.
 >
 > **[3:08](https://www.linkedin.com/learning/etl-in-python-and-sql/loading-data-into-relational-databases?u=76281980&t=188)** These are just some of the use cases for SQLAlchemy, as use cases are really broad.
 >
@@ -1299,7 +1283,7 @@ created: 2026-05-02
 >
 > **[4:14](https://www.linkedin.com/learning/etl-in-python-and-sql/loading-data-into-relational-databases?u=76281980&t=254)** Our username, our password, our hosts, ports, and database name with the correct details.
 >
-> **[4:23](https://www.linkedin.com/learning/etl-in-python-and-sql/loading-data-into-relational-databases?u=76281980&t=263)** In our case, however, you can get your connection URL from the Details tab in your Elephant SQL Dashboards.
+> **[4:23](https://www.linkedin.com/learning/etl-in-python-and-sql/loading-data-into-relational-databases?u=76281980&t=263)** In our case, however, you can get your connection URL from the Details tab in your Elephant SQL [[Dashboards]].
 >
 > **[4:29](https://www.linkedin.com/learning/etl-in-python-and-sql/loading-data-into-relational-databases?u=76281980&t=269)** So let's go back to that.
 >
@@ -1363,7 +1347,7 @@ created: 2026-05-02
 >
 > **[7:28](https://www.linkedin.com/learning/etl-in-python-and-sql/loading-data-into-relational-databases?u=76281980&t=448)** So I'll say replace.
 >
-> **[7:30](https://www.linkedin.com/learning/etl-in-python-and-sql/loading-data-into-relational-databases?u=76281980&t=450)** It's a key word.
+> **[7:30](https://www.linkedin.com/learning/etl-in-python-and-sql/loading-data-into-relational-databases?u=76281980&t=450)** It's a key [[Microsoft Word|word]].
 >
 > **[7:32](https://www.linkedin.com/learning/etl-in-python-and-sql/loading-data-into-relational-databases?u=76281980&t=452)** Great, and if it has index or I almost copied the indexes, I don't want that.
 >
@@ -1379,7 +1363,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[SQL]] (11), database (5), [[PostgreSQL|Postgres]] (5), [[Databases]] (2)
+> **Frameworks & Libraries:** [[SQL]] (11), [[PostgreSQL|Postgres]] (5), [[Databases]] (2), [[Relational Databases]] (2), [[Pandas (Software)|Pandas]] (2)
 > **Env Vars:** sql (11), url (2), tiny (1), turtle (1), dbap (1)
 > **CLI Commands:** mysql (2), python (1), make (1)
 > **Code Identifiers:** data_warehouse (1), create_engine (1)
@@ -1388,8 +1372,7 @@ created: 2026-05-02
 > **Definitions:** is an  (2)
 > **File Paths:** www.elephantsql.com/plans.html (1)
 
-#### Data quality checks and validation with SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/etl-in-python-and-sql/data-quality-checks-and-validation-with-sql?u=76281980)
+#### [Data quality checks and validation with SQL](https://www.linkedin.com/learning/etl-in-python-and-sql/data-quality-checks-and-validation-with-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1397,9 +1380,9 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/etl-in-python-and-sql/data-quality-checks-and-validation-with-sql?u=76281980&t=5)** We also learned how to create an SQLalchemy engine, which enables us to connect to our database.
 >
-> **[0:11](https://www.linkedin.com/learning/etl-in-python-and-sql/data-quality-checks-and-validation-with-sql?u=76281980&t=11)** We ran the load command with pandas as well.
+> **[0:11](https://www.linkedin.com/learning/etl-in-python-and-sql/data-quality-checks-and-validation-with-sql?u=76281980&t=11)** We ran the load command with [[Pandas (Software)|pandas]] as well.
 >
-> **[0:14](https://www.linkedin.com/learning/etl-in-python-and-sql/data-quality-checks-and-validation-with-sql?u=76281980&t=14)** In this video, we'll create data we have just loaded and learn about data quality checks and why they're important to ensure accuracy of your loaded data.
+> **[0:14](https://www.linkedin.com/learning/etl-in-python-and-sql/data-quality-checks-and-validation-with-sql?u=76281980&t=14)** In this video, we'll create data we have just loaded and learn about [[Data Quality]] checks and why they're important to ensure accuracy of your loaded data.
 >
 > **[0:23](https://www.linkedin.com/learning/etl-in-python-and-sql/data-quality-checks-and-validation-with-sql?u=76281980&t=23)** As data moves from one place to the other, it's important to ensure data quality, completeness, and correctness.
 >
@@ -1429,7 +1412,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/etl-in-python-and-sql/data-quality-checks-and-validation-with-sql?u=76281980&t=109)** What is the most amount of time allowed in latency between the source and the data warehouse?
 >
-> **[1:56](https://www.linkedin.com/learning/etl-in-python-and-sql/data-quality-checks-and-validation-with-sql?u=76281980&t=116)** Then you can create a lot based on these SQL rules.
+> **[1:56](https://www.linkedin.com/learning/etl-in-python-and-sql/data-quality-checks-and-validation-with-sql?u=76281980&t=116)** Then you can create a lot based on these [[SQL]] rules.
 >
 > **[2:00](https://www.linkedin.com/learning/etl-in-python-and-sql/data-quality-checks-and-validation-with-sql?u=76281980&t=120)** For example, you could agree that data is considered fresh if the maximum timestamp in the table is C minus one day.
 >
@@ -1463,7 +1446,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), etl (3), database (2), [[SQL]] (2), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Data Quality]] (4), [[SQL]] (2), [[Pandas (Software)|Pandas]] (1)
 > **Env Vars:** etl (3), sql (2)
 > **Cross-References:** in the last (1), go back to (1), next video (1)
 > **CLI Commands:** make (1)
@@ -1472,8 +1455,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Challenge: Transform the data and remove duplicates and nulls
-> [LinkedIn Learning](https://www.linkedin.com/learning/etl-in-python-and-sql/challenge-transform-the-data-and-remove-duplicates-and-nulls?u=76281980)
+#### [Challenge: Transform the data and remove duplicates and nulls](https://www.linkedin.com/learning/etl-in-python-and-sql/challenge-transform-the-data-and-remove-duplicates-and-nulls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1485,7 +1467,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/etl-in-python-and-sql/challenge-transform-the-data-and-remove-duplicates-and-nulls?u=76281980&t=18)** A little hint, you should create an engine just like we did.
 >
-> **[0:22](https://www.linkedin.com/learning/etl-in-python-and-sql/challenge-transform-the-data-and-remove-duplicates-and-nulls?u=76281980&t=22)** and remember to use the two SQL pandas function.
+> **[0:22](https://www.linkedin.com/learning/etl-in-python-and-sql/challenge-transform-the-data-and-remove-duplicates-and-nulls?u=76281980&t=22)** and remember to use the two [[SQL]] [[Pandas (Software)|pandas]] function.
 >
 > **[0:25](https://www.linkedin.com/learning/etl-in-python-and-sql/challenge-transform-the-data-and-remove-duplicates-and-nulls?u=76281980&t=25)** If you do not remember, feel free to go back to the previous videos or check out the official pandas and SQL Alchemy documentation.
 >
@@ -1495,15 +1477,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[SQL]] (2), [[Pandas (Software)|Pandas]] (2)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Pandas (Software)|Pandas]] (2)
 > **Env Vars:** sql (2)
 > **Best Practices:** remember to (2)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Transform the data and remove duplicates and nulls
-> [LinkedIn Learning](https://www.linkedin.com/learning/etl-in-python-and-sql/solution-transform-the-data-and-remove-duplicates-and-nulls?u=76281980)
+#### [Solution: Transform the data and remove duplicates and nulls](https://www.linkedin.com/learning/etl-in-python-and-sql/solution-transform-the-data-and-remove-duplicates-and-nulls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1519,7 +1500,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/etl-in-python-and-sql/solution-transform-the-data-and-remove-duplicates-and-nulls?u=76281980&t=15)** As you can see on my screen, I am continuing from the solutions file in the last chapter.
 >
-> **[0:20](https://www.linkedin.com/learning/etl-in-python-and-sql/solution-transform-the-data-and-remove-duplicates-and-nulls?u=76281980&t=20)** The only thing I have changed, however, is the location of my file in the read Excel.
+> **[0:20](https://www.linkedin.com/learning/etl-in-python-and-sql/solution-transform-the-data-and-remove-duplicates-and-nulls?u=76281980&t=20)** The only thing I have changed, however, is the location of my file in the read [[Microsoft Excel|Excel]].
 >
 > **[0:27](https://www.linkedin.com/learning/etl-in-python-and-sql/solution-transform-the-data-and-remove-duplicates-and-nulls?u=76281980&t=27)** Here.
 >
@@ -1545,7 +1526,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/etl-in-python-and-sql/solution-transform-the-data-and-remove-duplicates-and-nulls?u=76281980&t=75)** Awesome. It works.
 >
-> **[1:18](https://www.linkedin.com/learning/etl-in-python-and-sql/solution-transform-the-data-and-remove-duplicates-and-nulls?u=76281980&t=78)** Now, let us load our data to our data warehouse using the two SQL method.
+> **[1:18](https://www.linkedin.com/learning/etl-in-python-and-sql/solution-transform-the-data-and-remove-duplicates-and-nulls?u=76281980&t=78)** Now, let us load our data to our data warehouse using the two [[SQL]] method.
 >
 > **[1:23](https://www.linkedin.com/learning/etl-in-python-and-sql/solution-transform-the-data-and-remove-duplicates-and-nulls?u=76281980&t=83)** The syntax for loading our table would be employees .to _sql then name.
 >
@@ -1555,7 +1536,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/etl-in-python-and-sql/solution-transform-the-data-and-remove-duplicates-and-nulls?u=76281980&t=103)** Great.
 >
-> **[1:44](https://www.linkedin.com/learning/etl-in-python-and-sql/solution-transform-the-data-and-remove-duplicates-and-nulls?u=76281980&t=104)** We also have to provide the connection, which is a string, and for us it's our engine, and for us it's our engine, then we have to provide the next key word, which is if_exists.
+> **[1:44](https://www.linkedin.com/learning/etl-in-python-and-sql/solution-transform-the-data-and-remove-duplicates-and-nulls?u=76281980&t=104)** We also have to provide the connection, which is a string, and for us it's our engine, and for us it's our engine, then we have to provide the next key [[Microsoft Word|word]], which is if_exists.
 >
 > **[1:57](https://www.linkedin.com/learning/etl-in-python-and-sql/solution-transform-the-data-and-remove-duplicates-and-nulls?u=76281980&t=117)** This simply tells the function what we want to do if this table already exists at the source, so we want to say if it already exists, it should just replace it.
 >
@@ -1577,7 +1558,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), next (3), [[Microsoft Word|Word]] (2), [[Microsoft Excel|Excel]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Microsoft Excel|Excel]] (1), [[SQL]] (1)
 > **Definitions:** is a  (3)
 > **Cross-References:** in the last (1), in the next (1)
 > **Code Identifiers:** if_exists (1)
@@ -1590,12 +1571,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Querying your data with SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/etl-in-python-and-sql/querying-your-data-with-sql?u=76281980)
+#### [Querying your data with SQL](https://www.linkedin.com/learning/etl-in-python-and-sql/querying-your-data-with-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/etl-in-python-and-sql/querying-your-data-with-sql?u=76281980&t=0)** - [Instructor] In the previous chapter, we loaded data into the H+ Sports store data warehouse and discuss data quality checks and why they're necessary.
+> **[0:00](https://www.linkedin.com/learning/etl-in-python-and-sql/querying-your-data-with-sql?u=76281980&t=0)** - [Instructor] In the previous chapter, we loaded data into the H+ Sports store data warehouse and discuss [[Data Quality]] checks and why they're necessary.
 >
 > **[0:11](https://www.linkedin.com/learning/etl-in-python-and-sql/querying-your-data-with-sql?u=76281980&t=11)** In this video, we'll create the data we have loaded.
 >
@@ -1633,7 +1613,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/etl-in-python-and-sql/querying-your-data-with-sql?u=76281980&t=123)** The possibilities are endless.
 >
-> **[2:06](https://www.linkedin.com/learning/etl-in-python-and-sql/querying-your-data-with-sql?u=76281980&t=126)** We can connect our table to an analysis tool and create dashboards and reports based on our data.
+> **[2:06](https://www.linkedin.com/learning/etl-in-python-and-sql/querying-your-data-with-sql?u=76281980&t=126)** We can connect our table to an analysis tool and create [[Dashboards]] and reports based on our data.
 >
 > **[2:13](https://www.linkedin.com/learning/etl-in-python-and-sql/querying-your-data-with-sql?u=76281980&t=133)** Now we want to confirm what states we should open a new H+ Sports store branch.
 >
@@ -1673,15 +1653,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), business (3), next (2), management (2), etl (2)
+> **Frameworks & Libraries:** [[Data Quality]] (1), [[Dashboards]] (1)
 > **UI Navigation:** click on (2), navigate to (1), select the (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** etl (2), ets (1)
 > **Cross-References:** previous chapter (1), next video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Scheduling ETL jobs with Airflow: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/etl-in-python-and-sql/scheduling-etl-jobs-with-airflow-part-1?u=76281980)
+#### [Scheduling ETL jobs with Airflow: Part 1](https://www.linkedin.com/learning/etl-in-python-and-sql/scheduling-etl-jobs-with-airflow-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1689,7 +1668,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/etl-in-python-and-sql/scheduling-etl-jobs-with-airflow-part-1?u=76281980&t=5)** Imagine the sales team has a meeting every day at 8 AM.
 >
-> **[0:10](https://www.linkedin.com/learning/etl-in-python-and-sql/scheduling-etl-jobs-with-airflow-part-1?u=76281980&t=10)** This means that the sales team reports and dashboards have to be ready at least 30 to 15 minutes before the meeting, which in turn means the ETL job has to have run and updated the table with the latest datasets.
+> **[0:10](https://www.linkedin.com/learning/etl-in-python-and-sql/scheduling-etl-jobs-with-airflow-part-1?u=76281980&t=10)** This means that the sales team reports and [[Dashboards]] have to be ready at least 30 to 15 minutes before the meeting, which in turn means the ETL job has to have run and updated the table with the latest datasets.
 >
 > **[0:24](https://www.linkedin.com/learning/etl-in-python-and-sql/scheduling-etl-jobs-with-airflow-part-1?u=76281980&t=24)** If this was to be done manually by a data engineer, the engineer would have to be awake for at least an hour or two before the data is needed to run the pipeline and deal with any issues that may arise.
 >
@@ -1701,11 +1680,11 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/etl-in-python-and-sql/scheduling-etl-jobs-with-airflow-part-1?u=76281980&t=56)** This ensures that organizations are always working with up to date and reliably updated datasets.
 >
-> **[1:03](https://www.linkedin.com/learning/etl-in-python-and-sql/scheduling-etl-jobs-with-airflow-part-1?u=76281980&t=63)** We previously spoke about tools used for automation like Apache Airflow, Oozie, NiFi, Luigi, Microsoft Azure Data Factory, and SSIS among others.
+> **[1:03](https://www.linkedin.com/learning/etl-in-python-and-sql/scheduling-etl-jobs-with-airflow-part-1?u=76281980&t=63)** We previously spoke about tools used for automation like [[Apache Airflow]], Oozie, NiFi, Luigi, [[Microsoft Azure]] Data Factory, and SSIS among others.
 >
 > **[1:18](https://www.linkedin.com/learning/etl-in-python-and-sql/scheduling-etl-jobs-with-airflow-part-1?u=76281980&t=78)** To automate our ETL in this course, we are going to be using Apache Airflow.
 >
-> **[1:23](https://www.linkedin.com/learning/etl-in-python-and-sql/scheduling-etl-jobs-with-airflow-part-1?u=76281980&t=83)** Airflow is an open source platform designed to shadow and monitor workflows, which are defined as directed acyclic graphs, DAGs for short, where each node represents a task to be updated independently or in parallel to other tasks, which makes it very useful for ETL processes, data pipelines, orchestration, or other automation scenarios.
+> **[1:23](https://www.linkedin.com/learning/etl-in-python-and-sql/scheduling-etl-jobs-with-airflow-part-1?u=76281980&t=83)** Airflow is an open source platform designed to shadow and monitor workflows, which are defined as directed acyclic graphs, DAGs for short, where each node represents a task to be updated independently or in parallel to other tasks, which makes it very useful for ETL processes, [[Data Pipelines]], orchestration, or other automation scenarios.
 >
 > **[1:48](https://www.linkedin.com/learning/etl-in-python-and-sql/scheduling-etl-jobs-with-airflow-part-1?u=76281980&t=108)** Now let's get to setting up Airflow.
 >
@@ -1799,7 +1778,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** etl (8), data (5), [[Automation]] (4), [[Apache Airflow]] (2), next (2)
+> **Frameworks & Libraries:** [[Apache Airflow]] (2), [[Dashboards]] (1), [[Microsoft Azure]] (1), [[Data Pipelines]] (1)
 > **Env Vars:** etl (8), ssis (1), airflow_home (1), dag (1)
 > **Tools:** terminal (5)
 > **Prerequisites:** set up (2), install (2), initialization (1)
@@ -1808,8 +1787,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (3), click on (1)
 > **Definitions:** means that (1), is an  (1), defined as (1)
 
-#### Scheduling ETL jobs with Airflow: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/etl-in-python-and-sql/scheduling-etl-jobs-with-airflow-part-2?u=76281980)
+#### [Scheduling ETL jobs with Airflow: Part 2](https://www.linkedin.com/learning/etl-in-python-and-sql/scheduling-etl-jobs-with-airflow-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1821,7 +1799,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/etl-in-python-and-sql/scheduling-etl-jobs-with-airflow-part-2?u=76281980&t=18)** All of our DAGs will live here.
 >
-> **[0:21](https://www.linkedin.com/learning/etl-in-python-and-sql/scheduling-etl-jobs-with-airflow-part-2?u=76281980&t=21)** DAGs are Python files, so we can no longer use Jupyter Notebooks here.
+> **[0:21](https://www.linkedin.com/learning/etl-in-python-and-sql/scheduling-etl-jobs-with-airflow-part-2?u=76281980&t=21)** DAGs are [[Python (Programming Language)|Python]] files, so we can no longer use Jupyter Notebooks here.
 >
 > **[0:26](https://www.linkedin.com/learning/etl-in-python-and-sql/scheduling-etl-jobs-with-airflow-part-2?u=76281980&t=26)** We have to use dot py files, Python files.
 >
@@ -1845,7 +1823,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/etl-in-python-and-sql/scheduling-etl-jobs-with-airflow-part-2?u=76281980&t=69)** It takes a bit of practice.
 >
-> **[1:11](https://www.linkedin.com/learning/etl-in-python-and-sql/scheduling-etl-jobs-with-airflow-part-2?u=76281980&t=71)** First we would import Pandas as PD, and SQLAlchemy.
+> **[1:11](https://www.linkedin.com/learning/etl-in-python-and-sql/scheduling-etl-jobs-with-airflow-part-2?u=76281980&t=71)** First we would import [[Pandas (Software)|Pandas]] as PD, and SQLAlchemy.
 >
 > **[1:17](https://www.linkedin.com/learning/etl-in-python-and-sql/scheduling-etl-jobs-with-airflow-part-2?u=76281980&t=77)** And then a link to where our Orders table is, and we'll create our engine.
 >
@@ -1857,7 +1835,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/etl-in-python-and-sql/scheduling-etl-jobs-with-airflow-part-2?u=76281980&t=94)** And then we are rewriting our Orders table such that it only contains other order ID, dates, total due, status, customer ID, and salesperson ID.
 >
-> **[1:46](https://www.linkedin.com/learning/etl-in-python-and-sql/scheduling-etl-jobs-with-airflow-part-2?u=76281980&t=106)** And then we'll use our to SQL function, to move it to our H Plus Sports data warehouse.
+> **[1:46](https://www.linkedin.com/learning/etl-in-python-and-sql/scheduling-etl-jobs-with-airflow-part-2?u=76281980&t=106)** And then we'll use our to [[SQL]] function, to move it to our H Plus Sports data warehouse.
 >
 > **[1:53](https://www.linkedin.com/learning/etl-in-python-and-sql/scheduling-etl-jobs-with-airflow-part-2?u=76281980&t=113)** And when all of this is run, I just wanted to print out that the script has been run successfully.
 >
@@ -1955,7 +1933,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), etl (9), data (3), web (2), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[Pandas (Software)|Pandas]] (1), [[SQL]] (1)
 > **Env Vars:** etl (9), dag (5), adev (1), sql (1)
 > **CLI Commands:** python (9)
 > **Cross-References:** in the last (1), go back to (1), in the next (1)
@@ -1964,8 +1942,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Prerequisites:** set up (1)
 
-#### Challenge: Load the data into a database and automate
-> [LinkedIn Learning](https://www.linkedin.com/learning/etl-in-python-and-sql/challenge-load-the-data-into-a-database-and-automate?u=76281980)
+#### [Challenge: Load the data into a database and automate](https://www.linkedin.com/learning/etl-in-python-and-sql/challenge-load-the-data-into-a-database-and-automate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1979,7 +1956,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/etl-in-python-and-sql/challenge-load-the-data-into-a-database-and-automate?u=76281980&t=18)** We would ingest, transform, warehouse, and schedule using Airflow.
 >
-> **[0:26](https://www.linkedin.com/learning/etl-in-python-and-sql/challenge-load-the-data-into-a-database-and-automate?u=76281980&t=26)** We will be doing this for the product Excel table.
+> **[0:26](https://www.linkedin.com/learning/etl-in-python-and-sql/challenge-load-the-data-into-a-database-and-automate?u=76281980&t=26)** We will be doing this for the product [[Microsoft Excel|Excel]] table.
 >
 > **[0:29](https://www.linkedin.com/learning/etl-in-python-and-sql/challenge-load-the-data-into-a-database-and-automate?u=76281980&t=29)** A little hint, for the transformation, convert the price in dollars to euros.
 >
@@ -1989,7 +1966,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **File Paths:** orders_etl.py (1)
 > **Code Identifiers:** orders_etl (1)
 > **Versions:** 0.92 (1)
@@ -1997,8 +1974,7 @@ created: 2026-05-02
 > **Speakers:** - hello (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Load the data into a database and automate
-> [LinkedIn Learning](https://www.linkedin.com/learning/etl-in-python-and-sql/solution-load-the-data-into-a-database-and-automate?u=76281980)
+#### [Solution: Load the data into a database and automate](https://www.linkedin.com/learning/etl-in-python-and-sql/solution-load-the-data-into-a-database-and-automate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2014,7 +1990,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/etl-in-python-and-sql/solution-load-the-data-into-a-database-and-automate?u=76281980&t=15)** For some challenges, you need to walk through them with the Jupyter Notebook to test out your logic before moving to an ETL logic file, which is exactly what I did in this challenge.
 >
-> **[0:25](https://www.linkedin.com/learning/etl-in-python-and-sql/solution-load-the-data-into-a-database-and-automate?u=76281980&t=25)** Now, what I've done here in my Jupyter file is to import pandas, create our engine, find our Excel location, and now we can work through our transformation path.
+> **[0:25](https://www.linkedin.com/learning/etl-in-python-and-sql/solution-load-the-data-into-a-database-and-automate?u=76281980&t=25)** Now, what I've done here in my Jupyter file is to import [[Pandas (Software)|pandas]], create our engine, find our [[Microsoft Excel|Excel]] location, and now we can work through our transformation path.
 >
 > **[0:37](https://www.linkedin.com/learning/etl-in-python-and-sql/solution-load-the-data-into-a-database-and-automate?u=76281980&t=37)** For the transformation in our Excel, the prices columns are all in dollars.
 >
@@ -2024,7 +2000,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/etl-in-python-and-sql/solution-load-the-data-into-a-database-and-automate?u=76281980&t=48)** For the purpose of this challenge, that would mean dividing by 0.92.
 >
-> **[0:53](https://www.linkedin.com/learning/etl-in-python-and-sql/solution-load-the-data-into-a-database-and-automate?u=76281980&t=53)** We would update the price column in the products data frame with the new price that is being divided by 0.92.
+> **[0:53](https://www.linkedin.com/learning/etl-in-python-and-sql/solution-load-the-data-into-a-database-and-automate?u=76281980&t=53)** We would update the price column in the [[Microsoft Products|products]] data frame with the new price that is being divided by 0.92.
 >
 > **[1:01](https://www.linkedin.com/learning/etl-in-python-and-sql/solution-load-the-data-into-a-database-and-automate?u=76281980&t=61)** Since we are carrying out a mathematical operation where each value in the price column is divided by 0.92, the result of the division can be assigned back to the price column.
 >
@@ -2046,7 +2022,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/etl-in-python-and-sql/solution-load-the-data-into-a-database-and-automate?u=76281980&t=109)** I have defined default arguments, and description is "My products table ETL DAG", and the schedule is daily.
 >
-> **[1:56](https://www.linkedin.com/learning/etl-in-python-and-sql/solution-load-the-data-into-a-database-and-automate?u=76281980&t=116)** For the Python operator, I have called my Python callable as my main function, and I just wanted to run that whenever this is called.
+> **[1:56](https://www.linkedin.com/learning/etl-in-python-and-sql/solution-load-the-data-into-a-database-and-automate?u=76281980&t=116)** For the [[Python (Programming Language)|Python]] operator, I have called my Python callable as my main function, and I just wanted to run that whenever this is called.
 >
 > **[2:05](https://www.linkedin.com/learning/etl-in-python-and-sql/solution-load-the-data-into-a-database-and-automate?u=76281980&t=125)** And then now I have finally set dependencies as run ETL.
 >
@@ -2082,7 +2058,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** etl (5), [[Microsoft Excel|Excel]] (3), [[Microsoft Products|Products]] (3), [[Python (Programming Language)|Python]] (2), next (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Microsoft Products|Products]] (3), [[Python (Programming Language)|Python]] (2), [[Pandas (Software)|Pandas]] (1)
 > **Env Vars:** etl (5), dag (3)
 > **CLI Commands:** python (2), find (1)
 > **Versions:** 0.92 (3)
@@ -2096,8 +2072,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Expand your knowledge of ETLs
-> [LinkedIn Learning](https://www.linkedin.com/learning/etl-in-python-and-sql/expand-your-knowledge-of-etls?u=76281980)
+#### [Expand your knowledge of ETLs](https://www.linkedin.com/learning/etl-in-python-and-sql/expand-your-knowledge-of-etls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2105,23 +2080,23 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/etl-in-python-and-sql/expand-your-knowledge-of-etls?u=76281980&t=3)** You have become an ETL Jedi.
 >
-> **[0:05](https://www.linkedin.com/learning/etl-in-python-and-sql/expand-your-knowledge-of-etls?u=76281980&t=5)** In this course, you've explored the fundamentals of pandas for data ingestion, manipulation, and transformation.
+> **[0:05](https://www.linkedin.com/learning/etl-in-python-and-sql/expand-your-knowledge-of-etls?u=76281980&t=5)** In this course, you've explored the fundamentals of [[Pandas (Software)|pandas]] for [[Data Ingestion]], manipulation, and transformation.
 >
 > **[0:13](https://www.linkedin.com/learning/etl-in-python-and-sql/expand-your-knowledge-of-etls?u=76281980&t=13)** We have also discussed best practices for data extraction, transformation, and loading.
 >
-> **[0:20](https://www.linkedin.com/learning/etl-in-python-and-sql/expand-your-knowledge-of-etls?u=76281980&t=20)** We learned how to design and implement ETL workflows and gain hands-on experience with Apache Airflow for workflow orchestration.
+> **[0:20](https://www.linkedin.com/learning/etl-in-python-and-sql/expand-your-knowledge-of-etls?u=76281980&t=20)** We learned how to design and implement ETL workflows and gain hands-on experience with [[Apache Airflow]] for workflow orchestration.
 >
 > **[0:28](https://www.linkedin.com/learning/etl-in-python-and-sql/expand-your-knowledge-of-etls?u=76281980&t=28)** Well done.
 >
 > **[0:29](https://www.linkedin.com/learning/etl-in-python-and-sql/expand-your-knowledge-of-etls?u=76281980&t=29)** Thank you for your commitment and your hard work throughout the course.
 >
-> **[0:33](https://www.linkedin.com/learning/etl-in-python-and-sql/expand-your-knowledge-of-etls?u=76281980&t=33)** This is the start of your wonderful journey of creating ETLs with Python and SQL and more awaits you.
+> **[0:33](https://www.linkedin.com/learning/etl-in-python-and-sql/expand-your-knowledge-of-etls?u=76281980&t=33)** This is the start of your wonderful journey of creating ETLs with [[Python (Programming Language)|Python]] and [[SQL]] and more awaits you.
 >
 > **[0:40](https://www.linkedin.com/learning/etl-in-python-and-sql/expand-your-knowledge-of-etls?u=76281980&t=40)** To expand your knowledge, you should practice creating ETLs with different sources, implementing incremental ETL loads and using different tools, reading books, and documentation as well to deepen your understanding.
 >
 > **[0:53](https://www.linkedin.com/learning/etl-in-python-and-sql/expand-your-knowledge-of-etls?u=76281980&t=53)** Finally, you can join relevant communities to connect with professionals in the field.
 >
-> **[0:59](https://www.linkedin.com/learning/etl-in-python-and-sql/expand-your-knowledge-of-etls?u=76281980&t=59)** Connect with me on Medium where I write data engineering articles, also on LinkedIn and Twitter.
+> **[0:59](https://www.linkedin.com/learning/etl-in-python-and-sql/expand-your-knowledge-of-etls?u=76281980&t=59)** Connect with me on Medium where I write [[Data Engineering]] articles, also on [[LinkedIn]] and Twitter.
 >
 > **[1:05](https://www.linkedin.com/learning/etl-in-python-and-sql/expand-your-knowledge-of-etls?u=76281980&t=65)** I hope you have found this course valuable and applicable to your work and projects.
 >
@@ -2129,7 +2104,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** etl (3), data (2), [[Data Engineering]] (2), [[Pandas (Software)|Pandas]] (1), [[Apache Airflow]] (1)
+> **Frameworks & Libraries:** [[Data Engineering]] (2), [[Pandas (Software)|Pandas]] (1), [[Data Ingestion]] (1), [[Apache Airflow]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** etl (3), sql (1)
 > **CLI Commands:** apache (1), python (1)
 > **Speakers:** - [instructor] (1)

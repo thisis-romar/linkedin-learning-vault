@@ -74,8 +74,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Phone service still matters
-> [LinkedIn Learning](https://www.linkedin.com/learning/phone-based-customer-service/phone-service-still-matters?u=76281980)
+#### [Phone service still matters](https://www.linkedin.com/learning/phone-based-customer-service/phone-service-still-matters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -111,12 +110,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (1), teams (1), next (1)
 > **Analogies:** such as (1)
 > **Speakers:** - many (1)
 
-#### Understand the phone's unique challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/phone-based-customer-service/understand-the-phone-s-unique-challenges-2?u=76281980)
+#### [Understand the phone's unique challenges](https://www.linkedin.com/learning/phone-based-customer-service/understand-the-phone-s-unique-challenges-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -252,8 +249,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Develop the perfect phone greeting
-> [LinkedIn Learning](https://www.linkedin.com/learning/phone-based-customer-service/develop-the-perfect-phone-greeting-2?u=76281980)
+#### [Develop the perfect phone greeting](https://www.linkedin.com/learning/phone-based-customer-service/develop-the-perfect-phone-greeting-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -367,14 +363,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), feature (1)
 > **Speakers:** - thank (4), - what (2), - i (1), - [woman] (1), - this (1)
 > **CLI Commands:** make (6)
 > **Analogies:** such as (2), imagine (1)
 > **Definitions:** is a  (2)
 
-#### Create personal connections
-> [LinkedIn Learning](https://www.linkedin.com/learning/phone-based-customer-service/create-personal-connections-2?u=76281980)
+#### [Create personal connections](https://www.linkedin.com/learning/phone-based-customer-service/create-personal-connections-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -426,7 +420,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/phone-based-customer-service/create-personal-connections-2?u=76281980&t=98)** The answer might lead you to make some additional recommendations.
 >
-> **[1:42](https://www.linkedin.com/learning/phone-based-customer-service/create-personal-connections-2?u=76281980&t=102)** Or if you work in technical support, you might ask "is everything else working properly?"
+> **[1:42](https://www.linkedin.com/learning/phone-based-customer-service/create-personal-connections-2?u=76281980&t=102)** Or if you work in [[Technical Support]], you might ask "is everything else working properly?"
 >
 > **[1:48](https://www.linkedin.com/learning/phone-based-customer-service/create-personal-connections-2?u=76281980&t=108)** This might uncover another issue that you can also help your customer solve.
 >
@@ -448,7 +442,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/phone-based-customer-service/create-personal-connections-2?u=76281980&t=152)** It definitely helps break the ice and makes me feel more comfortable.
 >
-> **[2:36](https://www.linkedin.com/learning/phone-based-customer-service/create-personal-connections-2?u=76281980&t=156)** Just one word of caution here.
+> **[2:36](https://www.linkedin.com/learning/phone-based-customer-service/create-personal-connections-2?u=76281980&t=156)** Just one [[Microsoft Word|word]] of caution here.
 >
 > **[2:38](https://www.linkedin.com/learning/phone-based-customer-service/create-personal-connections-2?u=76281980&t=158)** Be sure to keep it positive.
 >
@@ -468,15 +462,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), [[Technical Support]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Technical Support]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Warnings:** caution (1)
 > **Speakers:** - creating (1)
 
-#### How to fill dead air
-> [LinkedIn Learning](https://www.linkedin.com/learning/phone-based-customer-service/how-to-fill-dead-air-2?u=76281980)
+#### [How to fill dead air](https://www.linkedin.com/learning/phone-based-customer-service/how-to-fill-dead-air-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -531,8 +524,7 @@ created: 2026-05-02
 > **Cross-References:** we covered (1), later in (1)
 > **Prerequisites:** you'll need (1)
 
-#### Manage holds and transfers
-> [LinkedIn Learning](https://www.linkedin.com/learning/phone-based-customer-service/manage-holds-and-transfers-2?u=76281980)
+#### [Manage holds and transfers](https://www.linkedin.com/learning/phone-based-customer-service/manage-holds-and-transfers-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -633,8 +625,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Non-Speech:** (mellow music) (1)
 
-#### Control the call with friendliness
-> [LinkedIn Learning](https://www.linkedin.com/learning/phone-based-customer-service/control-the-call-with-friendliness-2?u=76281980)
+#### [Control the call with friendliness](https://www.linkedin.com/learning/phone-based-customer-service/control-the-call-with-friendliness-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -656,7 +647,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/phone-based-customer-service/control-the-call-with-friendliness-2?u=76281980&t=44)** The keep it short technique means you should just pick one favorite to share rather than running down a long list.
 >
-> **[0:51](https://www.linkedin.com/learning/phone-based-customer-service/control-the-call-with-friendliness-2?u=76281980&t=51)** This may seem counterintuitive, but another call control technique is to listen to your customer without interruption.
+> **[0:51](https://www.linkedin.com/learning/phone-based-customer-service/control-the-call-with-friendliness-2?u=76281980&t=51)** This may seem counterintuitive, but another [[Call Control]] technique is to listen to your customer without interruption.
 >
 > **[0:57](https://www.linkedin.com/learning/phone-based-customer-service/control-the-call-with-friendliness-2?u=76281980&t=57)** Customer service reps sometimes feel an urge to cut a customer off if they're pressed for time.
 >
@@ -714,8 +705,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tune out distractions
-> [LinkedIn Learning](https://www.linkedin.com/learning/phone-based-customer-service/tune-out-distractions-2?u=76281980)
+#### [Tune out distractions](https://www.linkedin.com/learning/phone-based-customer-service/tune-out-distractions-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -807,8 +797,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1), for example (1)
 > **Speakers:** - exceeding (1), - this (1)
 
-#### Listen over the phone
-> [LinkedIn Learning](https://www.linkedin.com/learning/phone-based-customer-service/listen-over-the-phone-2?u=76281980)
+#### [Listen over the phone](https://www.linkedin.com/learning/phone-based-customer-service/listen-over-the-phone-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -892,8 +881,7 @@ created: 2026-05-02
 > **Speakers:** - now (1), - [man] (1), - okay (1), - let (1), - in (1)
 > **Analogies:** imagine (2)
 
-#### Use advanced communication techniques
-> [LinkedIn Learning](https://www.linkedin.com/learning/phone-based-customer-service/use-advanced-communication-techniques-2?u=76281980)
+#### [Use advanced communication techniques](https://www.linkedin.com/learning/phone-based-customer-service/use-advanced-communication-techniques-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -991,15 +979,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1)
 > **CLI Commands:** find (5), make (5)
 > **Speakers:** - you (2), - one (1), - do (1), - notice (1), - [representative] (1)
 > **Analogies:** for instance (2), imagine (1)
 > **Warnings:** be careful (1)
 > **Prerequisites:** make sure you have (1)
 
-#### Deliver moments of "wow"
-> [LinkedIn Learning](https://www.linkedin.com/learning/phone-based-customer-service/deliver-moments-of-wow-2?u=76281980)
+#### [Deliver moments of "wow"](https://www.linkedin.com/learning/phone-based-customer-service/deliver-moments-of-wow-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1019,7 +1005,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/phone-based-customer-service/deliver-moments-of-wow-2?u=76281980&t=37)** If a customer had a really bad experience, you might send flowers or candy along with an apology note.
 >
-> **[0:43](https://www.linkedin.com/learning/phone-based-customer-service/deliver-moments-of-wow-2?u=76281980&t=43)** In one famous story, a technical support rep was on a long call with a customer, when she heard her customer mention he was hungry.
+> **[0:43](https://www.linkedin.com/learning/phone-based-customer-service/deliver-moments-of-wow-2?u=76281980&t=43)** In one famous story, a [[Technical Support]] rep was on a long call with a customer, when she heard her customer mention he was hungry.
 >
 > **[0:50](https://www.linkedin.com/learning/phone-based-customer-service/deliver-moments-of-wow-2?u=76281980&t=50)** She went online and had a pizza delivered to him.
 >
@@ -1081,7 +1067,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), [[Technical Support]] (1), product (1), next (1), power (1)
+> **Frameworks & Libraries:** [[Technical Support]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** imagine (1), for example (1)
 > **Warnings:** keep in mind (1)
@@ -1092,8 +1078,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to express empathy
-> [LinkedIn Learning](https://www.linkedin.com/learning/phone-based-customer-service/how-to-express-empathy-2?u=76281980)
+#### [How to express empathy](https://www.linkedin.com/learning/phone-based-customer-service/how-to-express-empathy-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1119,7 +1104,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/phone-based-customer-service/how-to-express-empathy-2?u=76281980&t=57)** This isn't always easy, especially if you've never been in the same situation.
 >
-> **[1:01](https://www.linkedin.com/learning/phone-based-customer-service/how-to-express-empathy-2?u=76281980&t=61)** For example, someone in technical support might have trouble empathizing with her customers, because she can fix her own computer.
+> **[1:01](https://www.linkedin.com/learning/phone-based-customer-service/how-to-express-empathy-2?u=76281980&t=61)** For example, someone in [[Technical Support]] might have trouble empathizing with her customers, because she can fix her own computer.
 >
 > **[1:09](https://www.linkedin.com/learning/phone-based-customer-service/how-to-express-empathy-2?u=76281980&t=69)** So I've created a few exercises to help you empathize with your customers.
 >
@@ -1157,7 +1142,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/phone-based-customer-service/how-to-express-empathy-2?u=76281980&t=151)** Listen to this exchange between a coffee shop customer and a barista.
 >
-> **[2:35](https://www.linkedin.com/learning/phone-based-customer-service/how-to-express-empathy-2?u=76281980&t=155)** The customer's angry that her latte doesn't have enough vanilla in it and she's experienced the problem before.
+> **[2:35](https://www.linkedin.com/learning/phone-based-customer-service/how-to-express-empathy-2?u=76281980&t=155)** The customer's angry that her latte doesn't have enough [[Vanilla]] in it and she's experienced the problem before.
 >
 > **[2:42](https://www.linkedin.com/learning/phone-based-customer-service/how-to-express-empathy-2?u=76281980&t=162)** Notice how the barista takes a moment to empathize before fixing the problem.
 >
@@ -1205,15 +1190,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vanilla]] (5), express (2), [[Technical Support]] (1), product (1), next (1)
+> **Frameworks & Libraries:** [[Vanilla]] (5), [[Technical Support]] (1)
 > **Speakers:** - [man] (4), - [woman] (4), - one (1), - you (1)
 > **CLI Commands:** make (6), find (2)
 > **Analogies:** for example (2)
 > **Exercise Files:** download the (1)
 > **Definitions:** defined as (1)
 
-#### De-escalate angry calls
-> [LinkedIn Learning](https://www.linkedin.com/learning/phone-based-customer-service/de-escalate-angry-calls?u=76281980)
+#### [De-escalate angry calls](https://www.linkedin.com/learning/phone-based-customer-service/de-escalate-angry-calls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1315,15 +1299,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (5), find (1)
 > **Speakers:** - angry (1), - oh (1), - that (1), - i (1), - this (1)
 > **Cross-References:** previous video (1), we covered (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 
-#### Friendly follow-up
-> [LinkedIn Learning](https://www.linkedin.com/learning/phone-based-customer-service/friendly-follow-up-2?u=76281980)
+#### [Friendly follow-up](https://www.linkedin.com/learning/phone-based-customer-service/friendly-follow-up-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1375,14 +1357,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Definitions:** is called (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - one (1)
 
-#### Stay focused while you work
-> [LinkedIn Learning](https://www.linkedin.com/learning/phone-based-customer-service/stay-focused-while-you-work?u=76281980)
+#### [Stay focused while you work](https://www.linkedin.com/learning/phone-based-customer-service/stay-focused-while-you-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1452,7 +1432,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/phone-based-customer-service/stay-focused-while-you-work?u=76281980&t=146)** Distractibility, irritability, impatience, indecisiveness, and procrastination.
 >
-> **[2:34](https://www.linkedin.com/learning/phone-based-customer-service/stay-focused-while-you-work?u=76281980&t=154)** Unfortunately the only known solution is rest.
+> **[2:34](https://www.linkedin.com/learning/phone-based-customer-service/stay-focused-while-you-work?u=76281980&t=154)** Unfortunately the only known solution is [[Representational State Transfer (REST)|rest]].
 >
 > **[2:37](https://www.linkedin.com/learning/phone-based-customer-service/stay-focused-while-you-work?u=76281980&t=157)** That means taking your breaks throughout the day and using those breaks to recharge.
 >
@@ -1464,7 +1444,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is called (2)
 > **Analogies:** just like (1)
@@ -1476,8 +1456,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create your action plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/phone-based-customer-service/create-your-action-plan?u=76281980)
+#### [Create your action plan](https://www.linkedin.com/learning/phone-based-customer-service/create-your-action-plan?u=76281980)
 
 > [!transcript]- Transcript
 >

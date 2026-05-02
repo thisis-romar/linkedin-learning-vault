@@ -114,14 +114,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### GenAI with vector databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/genai-with-vector-databases?u=76281980)
+#### [GenAI with vector databases](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/genai-with-vector-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/genai-with-vector-databases?u=76281980&t=0)** As the users of large language models, or LLMs, grow exponentially, so is the infrastructure that is needed to build applications around them.
+> **[0:00](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/genai-with-vector-databases?u=76281980&t=0)** As the users of [[Large Language Models (LLM)|large language models]], or LLMs, grow exponentially, so is the infrastructure that is needed to build applications around them.
 >
-> **[0:11](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/genai-with-vector-databases?u=76281980&t=11)** One of the key helping technologies for using LLMs is vector databases.
+> **[0:11](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/genai-with-vector-databases?u=76281980&t=11)** One of the key helping technologies for using LLMs is [[Vector Databases]].
 >
 > **[0:17](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/genai-with-vector-databases?u=76281980&t=17)** What is a vector database?
 >
@@ -133,7 +132,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/genai-with-vector-databases?u=76281980&t=30)** We will discuss vector database basics and a couple of popular use cases.
 >
-> **[0:36](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/genai-with-vector-databases?u=76281980&t=36)** And to get the most out of it, you should be familiar with machine learning, natural language processing, and LLMs.
+> **[0:36](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/genai-with-vector-databases?u=76281980&t=36)** And to get the most out of it, you should be familiar with machine learning, [[Natural Language Processing (NLP)|natural language processing]], and LLMs.
 >
 > **[0:44](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/genai-with-vector-databases?u=76281980&t=44)** I am Kumaran Ponnambalam.
 >
@@ -141,11 +140,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vector Databases]] (2), database (2), [[Large Language Models (LLM)|Large language models]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
+> **Frameworks & Libraries:** [[Vector Databases]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Definitions:** is a  (1)
 
-#### Course coverage and prerequisites
-> [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/course-coverage-and-prerequisites?u=76281980)
+#### [Course coverage and prerequisites](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/course-coverage-and-prerequisites?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -153,7 +151,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/course-coverage-and-prerequisites?u=76281980&t=8)** What is the scope of this course?
 >
-> **[0:11](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/course-coverage-and-prerequisites?u=76281980&t=11)** Vector databases are based on the concept of vectors.
+> **[0:11](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/course-coverage-and-prerequisites?u=76281980&t=11)** [[Vector Databases]] are based on the concept of vectors.
 >
 > **[0:15](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/course-coverage-and-prerequisites?u=76281980&t=15)** We will quickly review the concepts around vectors and vector search.
 >
@@ -161,25 +159,25 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/course-coverage-and-prerequisites?u=76281980&t=26)** As an example vector database, we will study Milvus in this course. We will discuss concepts around the Milvus database and then set it up using Docker.
 >
-> **[0:36](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/course-coverage-and-prerequisites?u=76281980&t=36)** Then we will proceed to do data manipulation operations like inserts, updates, and deletes with Milvus.
+> **[0:36](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/course-coverage-and-prerequisites?u=76281980&t=36)** Then we will proceed to do [[Data Manipulation]] operations like inserts, updates, and deletes with Milvus.
 >
 > **[0:43](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/course-coverage-and-prerequisites?u=76281980&t=43)** We will query and do vector searches on this data.
 >
-> **[0:47](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/course-coverage-and-prerequisites?u=76281980&t=47)** We will use Python notebooks for this exploration.
+> **[0:47](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/course-coverage-and-prerequisites?u=76281980&t=47)** We will use [[Python (Programming Language)|Python]] notebooks for this exploration.
 >
 > **[0:51](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/course-coverage-and-prerequisites?u=76281980&t=51)** Then we get into use cases for vector databases.
 >
 > **[0:55](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/course-coverage-and-prerequisites?u=76281980&t=55)** First, we will use Milvus as a cache for LLM prompts and responses.
 >
-> **[1:00](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/course-coverage-and-prerequisites?u=76281980&t=60)** Then we will use Milvus as part of a retrieval-augmented generation or RAG system.
+> **[1:00](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/course-coverage-and-prerequisites?u=76281980&t=60)** Then we will use Milvus as part of a [[Retrieval-Augmented Generation (RAG)|retrieval-augmented generation]] or RAG system.
 >
 > **[1:07](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/course-coverage-and-prerequisites?u=76281980&t=67)** What are the prerequisite skills for this course for the learners?
 >
-> **[1:12](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/course-coverage-and-prerequisites?u=76281980&t=72)** The learner should be familiar with natural language processing concepts for machine learning.
+> **[1:12](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/course-coverage-and-prerequisites?u=76281980&t=72)** The learner should be familiar with [[Natural Language Processing (NLP)|natural language processing]] concepts for machine learning.
 >
-> **[1:18](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/course-coverage-and-prerequisites?u=76281980&t=78)** It's recommended to have prior experience in this area, especially around deep learning and transformers.
+> **[1:18](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/course-coverage-and-prerequisites?u=76281980&t=78)** It's recommended to have prior experience in this area, especially around [[Deep Learning]] and transformers.
 >
-> **[1:26](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/course-coverage-and-prerequisites?u=76281980&t=86)** Exposure to using large language models or LLMs by providing prompts and consuming responses is desired.
+> **[1:26](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/course-coverage-and-prerequisites?u=76281980&t=86)** Exposure to using [[Large Language Models (LLM)|large language models]] or LLMs by providing prompts and consuming responses is desired.
 >
 > **[1:35](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/course-coverage-and-prerequisites?u=76281980&t=95)** Also, familiarity with text embeddings is helpful.
 >
@@ -187,7 +185,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/course-coverage-and-prerequisites?u=76281980&t=107)** Also, we will use Docker to set up Milvus locally, so that is also a prerequisite.
 >
-> **[1:55](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/course-coverage-and-prerequisites?u=76281980&t=115)** We will use LangChain as part of some of the examples.
+> **[1:55](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/course-coverage-and-prerequisites?u=76281980&t=115)** We will use [[LangChain]] as part of some of the examples.
 >
 > **[1:59](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/course-coverage-and-prerequisites?u=76281980&t=119)** Familiarity with LangChain's capabilities is also desired.
 >
@@ -195,7 +193,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vector Databases]] (3), [[Python (Programming Language)|Python]] (3), database (2), [[LangChain]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Vector Databases]] (3), [[Python (Programming Language)|Python]] (3), [[LangChain]] (2), [[Data Manipulation]] (1), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1)
 > **CLI Commands:** python (3), docker (2)
 > **Prerequisites:** prerequisite (3), set up (1)
 > **Env Vars:** llm (1), rag (1)
@@ -207,12 +205,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a vector?
-> [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/what-is-a-vector?u=76281980)
+#### [What is a vector?](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/what-is-a-vector?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/what-is-a-vector?u=76281980&t=0)** Before we start discussing vector databases, let's quickly review the concept of vectors.
+> **[0:00](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/what-is-a-vector?u=76281980&t=0)** Before we start discussing [[Vector Databases]], let's quickly review the concept of vectors.
 >
 > **[0:07](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/what-is-a-vector?u=76281980&t=7)** In science, a vector is defined as an object that has both magnitude and direction.
 >
@@ -246,23 +243,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Programming]] (2), [[Vector Databases]] (1)
+> **Frameworks & Libraries:** [[Vector Databases]] (1)
 > **Definitions:** is a  (2), defined as (1), refers to (1)
 > **Analogies:** similar to (2), for example (1)
 > **Prerequisites:** before we start (1)
 
-#### Vectorization in NLP
-> [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/vectorization-in-nlp?u=76281980)
+#### [Vectorization in NLP](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/vectorization-in-nlp?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/vectorization-in-nlp?u=76281980&t=0)** Vectorization is a key concept in natural language processing or NLP for short.
+> **[0:00](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/vectorization-in-nlp?u=76281980&t=0)** Vectorization is a key concept in [[Natural Language Processing (NLP)|natural language processing]] or NLP for short.
 >
 > **[0:06](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/vectorization-in-nlp?u=76281980&t=6)** Let's quickly review its importance in NLP.
 >
-> **[0:09](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/vectorization-in-nlp?u=76281980&t=9)** Machine learning algorithms today deal with a lot of text data.
+> **[0:09](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/vectorization-in-nlp?u=76281980&t=9)** Machine learning [[Algorithms]] today deal with a lot of text data.
 >
-> **[0:14](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/vectorization-in-nlp?u=76281980&t=14)** Transformer models, which are the foundation for large language models, deal with text data mainly, but machine learning algorithms and architectures can only deal with numeric data.
+> **[0:14](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/vectorization-in-nlp?u=76281980&t=14)** [[Transformer Models]], which are the foundation for [[Large Language Models (LLM)|large language models]], deal with text data mainly, but machine learning algorithms and architectures can only deal with numeric data.
 >
 > **[0:27](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/vectorization-in-nlp?u=76281980&t=27)** Even in transformers, the inputs and outputs are all numeric values.
 >
@@ -282,7 +278,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/vectorization-in-nlp?u=76281980&t=86)** The bag of words technique is perhaps the oldest one.
 >
-> **[1:30](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/vectorization-in-nlp?u=76281980&t=90)** It uses a base dictionary of words. For each sentence, it counts the number of occurrences of each word and then forms a vector with these values.
+> **[1:30](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/vectorization-in-nlp?u=76281980&t=90)** It uses a base dictionary of words. For each sentence, it counts the number of occurrences of each [[Microsoft Word|word]] and then [[Forms]] a vector with these values.
 >
 > **[1:40](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/vectorization-in-nlp?u=76281980&t=100)** It does not capture positional information or other semantics.
 >
@@ -290,7 +286,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/vectorization-in-nlp?u=76281980&t=114)** It creates a matrix that can be used to measure the similarity between documents.
 >
-> **[2:00](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/vectorization-in-nlp?u=76281980&t=120)** TF-IDF can create sparse matrices of documents based on the number of unique tokens encountered.
+> **[2:00](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/vectorization-in-nlp?u=76281980&t=120)** TF-IDF can create sparse matrices of documents based on the number of unique [[Tokens]] encountered.
 >
 > **[2:08](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/vectorization-in-nlp?u=76281980&t=128)** Then comes word embeddings.
 >
@@ -304,18 +300,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), nlp (3), [[Microsoft Word|Word]] (3), [[Tokens]] (3), [[Algorithms]] (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Tokens]] (3), [[Algorithms]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Transformer Models]] (1)
 > **Env Vars:** nlp (3), idf (2)
 > **Definitions:** is a  (1)
 
-#### Vector similarity search
-> [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/vector-similarity-search?u=76281980)
+#### [Vector similarity search](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/vector-similarity-search?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/vector-similarity-search?u=76281980&t=0)** Vector similarity search is one of the important use cases when using vectors to represent text.
 >
-> **[0:07](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/vector-similarity-search?u=76281980&t=7)** It is a key feature in vector databases.
+> **[0:07](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/vector-similarity-search?u=76281980&t=7)** It is a key feature in [[Vector Databases]].
 >
 > **[0:10](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/vector-similarity-search?u=76281980&t=10)** Let's quickly review how vector similarity search works.
 >
@@ -349,7 +344,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/vector-similarity-search?u=76281980&t=102)** This also needs to be vectorized.
 >
-> **[1:45](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/vector-similarity-search?u=76281980&t=105)** We can then compare the strings using approximate nearest neighbor algorithms.
+> **[1:45](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/vector-similarity-search?u=76281980&t=105)** We can then compare the strings using approximate nearest neighbor [[Algorithms]].
 >
 > **[1:51](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/vector-similarity-search?u=76281980&t=111)** There are several flavors available here.
 >
@@ -365,24 +360,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), [[Vector Databases]] (2), data (2), feature (1), product (1)
+> **Frameworks & Libraries:** [[Vector Databases]] (2), [[Algorithms]] (1)
 > **CLI Commands:** find (6)
 > **Definitions:** is a  (2)
 
-#### Vector databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/vector-databases?u=76281980)
+#### [Vector databases](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/vector-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/vector-databases?u=76281980&t=0)** What is a vector database?
 >
-> **[0:02](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/vector-databases?u=76281980&t=2)** How is it different from other traditional databases?
+> **[0:02](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/vector-databases?u=76281980&t=2)** How is it different from other traditional [[Databases]]?
 >
 > **[0:07](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/vector-databases?u=76281980&t=7)** A vector database is a database that is optimized for storing vectors.
 >
 > **[0:12](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/vector-databases?u=76281980&t=12)** It is specialized for storing vectors in an optimal fashion and helps in fast queries and searches on these vectors.
 >
-> **[0:21](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/vector-databases?u=76281980&t=21)** What are some of the key features of vector databases?
+> **[0:21](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/vector-databases?u=76281980&t=21)** What are some of the key features of [[Vector Databases]]?
 >
 > **[0:25](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/vector-databases?u=76281980&t=25)** Of course, they support specialized data types for vectors.
 >
@@ -392,7 +386,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/vector-databases?u=76281980&t=44)** They support create, retrieve, update, delete operations on both vector and scalar data.
 >
-> **[0:50](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/vector-databases?u=76281980&t=50)** They do have some level of support for data consistency and transaction isolation, though, not at the same level as traditional relational databases.
+> **[0:50](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/vector-databases?u=76281980&t=50)** They do have some level of support for data consistency and transaction isolation, though, not at the same level as traditional [[Relational Databases]].
 >
 > **[1:02](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/vector-databases?u=76281980&t=62)** One key distinguishing feature of vector databases is their ability to support similarity searches on vector data.
 >
@@ -410,32 +404,31 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/vector-databases?u=76281980&t=110)** Milvus is an open-source vector database that is available for local deployments, as well as available as a managed service.
 >
-> **[2:00](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/vector-databases?u=76281980&t=120)** Chroma is an embedded vector database.
+> **[2:00](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/vector-databases?u=76281980&t=120)** [[ChromaDB|Chroma]] is an embedded vector database.
 >
-> **[2:03](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/vector-databases?u=76281980&t=123)** Pinecone is a commercial vector database.
+> **[2:03](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/vector-databases?u=76281980&t=123)** [[Pinecone]] is a commercial vector database.
 >
-> **[2:06](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/vector-databases?u=76281980&t=126)** PostgreSQL is a popular RDBMS that has a plugin called pgvector that can help with vector capabilities.
+> **[2:06](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/vector-databases?u=76281980&t=126)** [[PostgreSQL]] is a popular RDBMS that has a plugin called pgvector that can help with vector capabilities.
 >
 > **[2:16](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/vector-databases?u=76281980&t=136)** We will use Milvus as the reference product to explore vector databases in this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), data (5), [[Vector Databases]] (4), [[Databases]] (3), [[Relational Databases]] (1)
+> **Frameworks & Libraries:** [[Vector Databases]] (4), [[Databases]] (3), [[Relational Databases]] (1), [[ChromaDB|Chroma]] (1), [[Pinecone]] (1)
 > **Definitions:** is a  (4), is an  (2)
 > **Env Vars:** rdbms (1)
 
-#### Pros and cons of vector databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/pros-and-cons-of-vector-databases?u=76281980)
+#### [Pros and cons of vector databases](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/pros-and-cons-of-vector-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/pros-and-cons-of-vector-databases?u=76281980&t=0)** In this video, we will discuss some advantages and shortcomings of vector databases, especially the specialized offerings.
+> **[0:00](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/pros-and-cons-of-vector-databases?u=76281980&t=0)** In this video, we will discuss some advantages and shortcomings of [[Vector Databases]], especially the specialized offerings.
 >
 > **[0:09](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/pros-and-cons-of-vector-databases?u=76281980&t=9)** Let's begin with the advantages.
 >
-> **[0:11](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/pros-and-cons-of-vector-databases?u=76281980&t=11)** Vector databases support semantic search.
+> **[0:11](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/pros-and-cons-of-vector-databases?u=76281980&t=11)** Vector databases support [[Semantic Search]].
 >
-> **[0:15](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/pros-and-cons-of-vector-databases?u=76281980&t=15)** They have built-in implementations of approximate nearest neighbor algorithms, as well as a few distance measures.
+> **[0:15](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/pros-and-cons-of-vector-databases?u=76281980&t=15)** They have built-in implementations of approximate nearest neighbor [[Algorithms]], as well as a few distance measures.
 >
 > **[0:23](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/pros-and-cons-of-vector-databases?u=76281980&t=23)** They support bulk data loading, which helps quickly load up large chunks of data like documents. They have indexing for vectors.
 >
@@ -465,7 +458,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/pros-and-cons-of-vector-databases?u=76281980&t=109)** They are also memory-intensive as indexes need to be reloaded into memory for searching purposes.
 >
-> **[1:56](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/pros-and-cons-of-vector-databases?u=76281980&t=116)** Unlike traditional RDBMS, integrations into third-party products and tools are also limited.
+> **[1:56](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/pros-and-cons-of-vector-databases?u=76281980&t=116)** Unlike traditional RDBMS, integrations into third-party [[Microsoft Products|products]] and tools are also limited.
 >
 > **[2:03](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/pros-and-cons-of-vector-databases?u=76281980&t=123)** Vector databases are a fast growing domain triggered by the explosion of LLMs.
 >
@@ -473,7 +466,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Vector Databases]] (4), [[Microsoft Products|Products]] (2), [[Semantic Search]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Vector Databases]] (4), [[Microsoft Products|Products]] (2), [[Semantic Search]] (1), [[Algorithms]] (1)
 > **Env Vars:** rdbms (1)
 
 
@@ -481,12 +474,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to Milvus DB
-> [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/introduction-to-milvis-db?u=76281980)
+#### [Introduction to Milvus DB](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/introduction-to-milvis-db?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/introduction-to-milvis-db?u=76281980&t=0)** Having discussed the concepts of vector databases in the previous section, we will now explore Milvus, a popular vector database.
+> **[0:00](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/introduction-to-milvis-db?u=76281980&t=0)** Having discussed the concepts of [[Vector Databases]] in the previous section, we will now explore Milvus, a popular vector database.
 >
 > **[0:09](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/introduction-to-milvis-db?u=76281980&t=9)** We will review key features and capabilities as well as set up the database and exercise files.
 >
@@ -496,7 +488,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/introduction-to-milvis-db?u=76281980&t=20)** It is built for storing, indexing, and searching vectors.
 >
-> **[0:24](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/introduction-to-milvis-db?u=76281980&t=24)** It is one of the top databases that is used today for generative AI.
+> **[0:24](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/introduction-to-milvis-db?u=76281980&t=24)** It is one of the top [[Databases]] that is used today for [[Generative AI]].
 >
 > **[0:29](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/introduction-to-milvis-db?u=76281980&t=29)** Its features are similar to other popular vector databases.
 >
@@ -510,7 +502,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/introduction-to-milvis-db?u=76281980&t=55)** It can be installed as a standalone service for simple deployments.
 >
-> **[1:00](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/introduction-to-milvis-db?u=76281980&t=60)** It can be set up as a cluster for scalability and fault tolerance.
+> **[1:00](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/introduction-to-milvis-db?u=76281980&t=60)** It can be set up as a cluster for [[Scalability]] and fault tolerance.
 >
 > **[1:05](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/introduction-to-milvis-db?u=76281980&t=65)** It's also available as a managed cloud service called Zilliz cloud.
 >
@@ -518,17 +510,17 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/introduction-to-milvis-db?u=76281980&t=75)** Clustering helps it to scale horizontally. To help with vector search, it supports Euclidean distance, inner product, and cosine matrix.
 >
-> **[1:25](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/introduction-to-milvis-db?u=76281980&t=85)** This is essential for effective semantic search implementations.
+> **[1:25](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/introduction-to-milvis-db?u=76281980&t=85)** This is essential for effective [[Semantic Search]] implementations.
 >
-> **[1:30](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/introduction-to-milvis-db?u=76281980&t=90)** It provides hybrid data storage with support for scalar data types in addition to vectors.
+> **[1:30](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/introduction-to-milvis-db?u=76281980&t=90)** It provides hybrid [[Data Storage]] with support for scalar data types in addition to vectors.
 >
 > **[1:36](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/introduction-to-milvis-db?u=76281980&t=96)** It also provides search capabilities combining both vector and scalar datatypes.
 >
-> **[1:42](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/introduction-to-milvis-db?u=76281980&t=102)** Milvus has SDKs in popular languages like Python, Node.js, Go, and Java to help in building applications.
+> **[1:42](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/introduction-to-milvis-db?u=76281980&t=102)** Milvus has SDKs in popular languages like [[Python (Programming Language)|Python]], [[Node.js]], Go, and [[Java]] to help in building applications.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), [[Vector Databases]] (2), cloud (2), [[Search]] (2), data (2)
+> **Frameworks & Libraries:** [[Vector Databases]] (2), [[Databases]] (1), [[Generative AI]] (1), [[Scalability]] (1), [[Semantic Search]] (1)
 > **Prerequisites:** set up (2), install (1)
 > **CLI Commands:** python (1), node (1)
 > **File Paths:** node.js (1)
@@ -536,8 +528,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 
-#### Milvus architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/milvis-architecture?u=76281980)
+#### [Milvus architecture](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/milvis-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -553,15 +544,15 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/milvis-architecture?u=76281980&t=25)** The access layer is a RESTful gRPC API.
 >
-> **[0:29](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/milvis-architecture?u=76281980&t=29)** It typically runs on Port 19530. When the SDK sends data definition language, or DDL, statements to the access layer, like creating databases, collections, or users, the request is routed to a coordinator service.
+> **[0:29](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/milvis-architecture?u=76281980&t=29)** It typically runs on Port 19530. When the SDK sends data definition language, or DDL, statements to the access layer, like creating [[Databases]], collections, or users, the request is routed to a coordinator service.
 >
 > **[0:47](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/milvis-architecture?u=76281980&t=47)** The coordinator service drives the Milvus cluster and performs all management and maintenance operations.
 >
-> **[0:55](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/milvis-architecture?u=76281980&t=55)** It uses a metadata storage for storing metadata about the cluster.
+> **[0:55](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/milvis-architecture?u=76281980&t=55)** It uses a [[Metadata]] storage for storing metadata about the cluster.
 >
 > **[1:00](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/milvis-architecture?u=76281980&t=60)** This uses the etcd service by default for storage.
 >
-> **[1:05](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/milvis-architecture?u=76281980&t=65)** When data manipulation language, or DML, statements are received by the access layer, like inserts, updates, and deletes, they are sent to the message queue.
+> **[1:05](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/milvis-architecture?u=76281980&t=65)** When [[Data Manipulation]] language, or DML, statements are received by the access layer, like inserts, updates, and deletes, they are sent to the message queue.
 >
 > **[1:17](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/milvis-architecture?u=76281980&t=77)** By default, Milvus uses RocksMQ, but this can also be substituted by either Kafka or Pulsar for a message queue.
 >
@@ -571,7 +562,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/milvis-architecture?u=76281980&t=100)** All data is stored as part of an object store.
 >
-> **[1:44](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/milvis-architecture?u=76281980&t=104)** By default, Milvus uses MinIO, but it can be replaced by S3 or Azure Blob if needed.
+> **[1:44](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/milvis-architecture?u=76281980&t=104)** By default, Milvus uses MinIO, but it can be replaced by S3 or [[Microsoft Azure|Azure]] Blob if needed.
 >
 > **[1:52](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/milvis-architecture?u=76281980&t=112)** How does querying work?
 >
@@ -589,21 +580,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Metadata]] (4), node (4), api (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (4), [[Databases]] (1), [[Data Manipulation]] (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** sdk (3), api (2), ddl (1), dml (1)
 > **CLI Commands:** node (4)
 > **Code Identifiers:** grpc (1)
 > **Ports:** port 19530 (1)
 > **Definitions:** is a  (1)
 
-#### Collections in Milvus
-> [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/collections-in-milvus?u=76281980)
+#### [Collections in Milvus](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/collections-in-milvus?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/collections-in-milvus?u=76281980&t=0)** We will now discuss some key storage concepts in Milvus.
 >
-> **[0:05](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/collections-in-milvus?u=76281980&t=5)** We begin with databases and collections in this video.
+> **[0:05](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/collections-in-milvus?u=76281980&t=5)** We begin with [[Databases]] and collections in this video.
 >
 > **[0:09](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/collections-in-milvus?u=76281980&t=9)** What are databases in Milvus?
 >
@@ -671,7 +661,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/collections-in-milvus?u=76281980&t=186)** VARCHAR and Boolean are available to store string and Boolean values respectively.
 >
-> **[3:13](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/collections-in-milvus?u=76281980&t=193)** Milvus also supports complex datatypes like JSON and array to store data in these formats.
+> **[3:13](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/collections-in-milvus?u=76281980&t=193)** Milvus also supports complex datatypes like [[JSON]] and array to store data in these formats.
 >
 > **[3:20](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/collections-in-milvus?u=76281980&t=200)** On the vector datatype side, a binary vector is used to store vectors with just binary values.
 >
@@ -679,15 +669,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (12), [[Databases]] (7), data (6), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Databases]] (7), [[JSON]] (1)
 > **Analogies:** similar to (3)
 > **Env Vars:** varchar (1), json (1)
 > **CLI Commands:** find (1)
 > **SQL:** varchar (1)
 > **Definitions:** is called (1)
 
-#### Partitions in Milvus
-> [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/partitions-in-milvus?u=76281980)
+#### [Partitions in Milvus](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/partitions-in-milvus?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -717,11 +706,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8)
 > **Definitions:** is a  (1)
 
-#### Indexes in Milvus
-> [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/indexes-in-milvus?u=76281980)
+#### [Indexes in Milvus](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/indexes-in-milvus?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -769,14 +756,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), database (1), product (1), data (1)
 > **Env Vars:** ann (2), rdbms (1), flat (1), ivf_flat (1), gpu_ivf_flat (1)
 > **Prerequisites:** set up (1), prerequisite (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 
-#### Managing data in Milvus
-> [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/managing-data-in-milvus?u=76281980)
+#### [Managing data in Milvus](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/managing-data-in-milvus?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -784,7 +769,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/managing-data-in-milvus?u=76281980&t=5)** Let's quickly review the capabilities provided by Milvus in this regard. We will demonstrate them with code examples in the next chapter.
 >
-> **[0:15](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/managing-data-in-milvus?u=76281980&t=15)** So what data management capabilities exist in Milvus?
+> **[0:15](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/managing-data-in-milvus?u=76281980&t=15)** So what [[Data Management]] capabilities exist in Milvus?
 >
 > **[0:20](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/managing-data-in-milvus?u=76281980&t=20)** In Milvus, data is stored in collections.
 >
@@ -808,12 +793,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), database (1), next (1), management (1)
+> **Frameworks & Libraries:** [[Data Management]] (1)
 > **Cross-References:** in the next (1)
 > **Best Practices:** recommended (1)
 
-#### Query and search in Milvus
-> [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/query-and-search-in-milvus?u=76281980)
+#### [Query and search in Milvus](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/query-and-search-in-milvus?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -825,7 +809,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/query-and-search-in-milvus?u=76281980&t=13)** In queries, we extract entities using scalar field-based filtering.
 >
-> **[0:18](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/query-and-search-in-milvus?u=76281980&t=18)** This is very similar to the retrieval process in RDBMS, where SQL statements are executed to extract data that match specific filter conditions.
+> **[0:18](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/query-and-search-in-milvus?u=76281980&t=18)** This is very similar to the retrieval process in RDBMS, where [[SQL]] statements are executed to extract data that match specific filter conditions.
 >
 > **[0:30](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/query-and-search-in-milvus?u=76281980&t=30)** When running a query in Milvus, we can specify the output fields needed and the limits on the number of rows.
 >
@@ -843,7 +827,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/query-and-search-in-milvus?u=76281980&t=71)** Do note that the scalar querying capabilities are severely limited in Milvus when compared to RDBMSs.
 >
-> **[1:19](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/query-and-search-in-milvus?u=76281980&t=79)** When executing queries, we can also specify filters on which rows to fetch from the database.
+> **[1:19](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/query-and-search-in-milvus?u=76281980&t=79)** When executing queries, we can also specify filters on which rows to [[Fetch]] from the database.
 >
 > **[1:25](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/query-and-search-in-milvus?u=76281980&t=85)** Milvus supports several popular filtering operators on field values.
 >
@@ -851,7 +835,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/query-and-search-in-milvus?u=76281980&t=95)** Logical operators can combine multiple filters to form a composite filter. Like can be used as a match operator for string filtering.
 >
-> **[1:46](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/query-and-search-in-milvus?u=76281980&t=106)** In addition, array and JSON operators are available for filtering on array and JSON datatypes.
+> **[1:46](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/query-and-search-in-milvus?u=76281980&t=106)** In addition, array and [[JSON]] operators are available for filtering on array and JSON datatypes.
 >
 > **[1:54](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/query-and-search-in-milvus?u=76281980&t=114)** For more details on the filters, please refer to the Milvus documentation in the link provided.
 >
@@ -859,7 +843,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/query-and-search-in-milvus?u=76281980&t=123)** Milvus provides the ability to search on any vector field using distance measures.
 >
-> **[2:10](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/query-and-search-in-milvus?u=76281980&t=130)** An input string can be compared to strings in the database, and related strings can be extracted with semantic search.
+> **[2:10](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/query-and-search-in-milvus?u=76281980&t=130)** An input string can be compared to strings in the database, and related strings can be extracted with [[Semantic Search]].
 >
 > **[2:18](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/query-and-search-in-milvus?u=76281980&t=138)** For this, the input string or the search query should first be converted to a vector using the same embedding model as the one used when ingesting the vector field.
 >
@@ -891,7 +875,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (5), database (4), data (3), next (3), [[JSON]] (2)
+> **Frameworks & Libraries:** [[JSON]] (2), [[SQL]] (1), [[Fetch]] (1), [[Semantic Search]] (1)
 > **Env Vars:** json (2), rdbms (1), sql (1)
 > **Warnings:** note that (3)
 > **Cross-References:** in the next (2)
@@ -900,18 +884,17 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 
-#### Set up Milvus and exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/set-up-milvus-and-exercise-files?u=76281980)
+#### [Set up Milvus and exercise files](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/set-up-milvus-and-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/set-up-milvus-and-exercise-files?u=76281980&t=0)** We are now going to set up Milvus standalone service using Docker.
 >
-> **[0:05](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/set-up-milvus-and-exercise-files?u=76281980&t=5)** If you are using either macOS or Windows, please install Docker Desktop from the Docker website.
+> **[0:05](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/set-up-milvus-and-exercise-files?u=76281980&t=5)** If you are using either macOS or [[Windows]], please install Docker Desktop from the Docker website.
 >
 > **[0:12](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/set-up-milvus-and-exercise-files?u=76281980&t=12)** Please download the exercise files for the course in a local directory similar to the one shown here.
 >
-> **[0:20](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/set-up-milvus-and-exercise-files?u=76281980&t=20)** It has a Docker compose file, Jupyter Notebooks, and data files.
+> **[0:20](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/set-up-milvus-and-exercise-files?u=76281980&t=20)** It has a Docker [[Jetpack Compose|compose]] file, Jupyter Notebooks, and data files.
 >
 > **[0:26](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/set-up-milvus-and-exercise-files?u=76281980&t=26)** The Docker compose file for this course is called milvus-standalone-docker-compose.yml.
 >
@@ -919,7 +902,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/set-up-milvus-and-exercise-files?u=76281980&t=37)** It sets up four containers.
 >
-> **[0:40](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/set-up-milvus-and-exercise-files?u=76281980&t=40)** The first container is the etcd container used for storing metadata.
+> **[0:40](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/set-up-milvus-and-exercise-files?u=76281980&t=40)** The first container is the etcd container used for storing [[Metadata]].
 >
 > **[0:47](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/set-up-milvus-and-exercise-files?u=76281980&t=47)** Then comes the MinIO container used for object storage.
 >
@@ -945,7 +928,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/set-up-milvus-and-exercise-files?u=76281980&t=106)** Here we go back to the terminal window.
 >
-> **[1:48](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/set-up-milvus-and-exercise-files?u=76281980&t=108)** If you are using Windows, please use the PowerShell window for this.
+> **[1:48](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/set-up-milvus-and-exercise-files?u=76281980&t=108)** If you are using Windows, please use the [[Powershell]] window for this.
 >
 > **[1:52](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/set-up-milvus-and-exercise-files?u=76281980&t=112)** Navigate to the directory where the exercise files are stored.
 >
@@ -967,7 +950,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/set-up-milvus-and-exercise-files?u=76281980&t=173)** Next, we will set up the exercise files and the environment to use for this course.
 >
-> **[3:00](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/set-up-milvus-and-exercise-files?u=76281980&t=180)** All course exercises are built using Python 3.11.
+> **[3:00](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/set-up-milvus-and-exercise-files?u=76281980&t=180)** All course exercises are built using [[Python (Programming Language)|Python]] 3.11.
 >
 > **[3:05](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/set-up-milvus-and-exercise-files?u=76281980&t=185)** We will be using Anaconda and Jupyter Notebooks for the exercises.
 >
@@ -1009,7 +992,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (7), data (4), [[Windows]] (3), prompt (3), web (2)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (7), [[Windows]] (3), [[Python (Programming Language)|Python]] (2), [[Metadata]] (1), [[Powershell]] (1)
 > **Tools:** jupyter (6), anaconda (5), command prompt (3), docker desktop (1), terminal (1)
 > **CLI Commands:** docker (12), python (2), make (1)
 > **Exercise Files:** exercise files (5), download the (2)
@@ -1023,8 +1006,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a connection
-> [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/create-a-connection?u=76281980)
+#### [Create a connection](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/create-a-connection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1040,7 +1022,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/create-a-connection?u=76281980&t=30)** We first need to install prerequisite packages for these exercises.
 >
-> **[0:36](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/create-a-connection?u=76281980&t=36)** PyMilvus is the Python SDK for Milvus.
+> **[0:36](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/create-a-connection?u=76281980&t=36)** PyMilvus is the [[Python (Programming Language)|Python]] SDK for Milvus.
 >
 > **[0:40](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/create-a-connection?u=76281980&t=40)** OpenAI is the library we will use for OpenAI for both embeddings and for LLMs.
 >
@@ -1066,17 +1048,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), data (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Prerequisites:** install (2), prerequisite (1), set up (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** sdk (1)
 
-#### Create databases and users
-> [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/create-databases-and-users?u=76281980)
+#### [Create databases and users](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/create-databases-and-users?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/create-databases-and-users?u=76281980&t=0)** Having created a connection to Milvus in the previous video, let's now create a database through the SDK and then check the list of current databases.
+> **[0:00](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/create-databases-and-users?u=76281980&t=0)** Having created a connection to Milvus in the previous video, let's now create a database through the SDK and then check the list of current [[Databases]].
 >
 > **[0:10](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/create-databases-and-users?u=76281980&t=10)** We first import the DB package from PyMilvus.
 >
@@ -1144,15 +1125,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (13), [[Databases]] (4), next (1)
+> **Frameworks & Libraries:** [[Databases]] (4)
 > **Code Identifiers:** course_db (3), list_database (1), create_database (1), using_database (1), list_usernames (1)
 > **UI Navigation:** switch to (2), click on (1)
 > **Ports:** port 8000 (1)
 > **Env Vars:** sdk (1)
 > **Cross-References:** previous video (1)
 
-#### Create collections
-> [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/create-collections?u=76281980)
+#### [Create collections](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/create-collections?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1214,7 +1194,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1), data (1)
 > **Env Vars:** dml (2), int64 (1), varchar (1), float_vector (1)
 > **Prerequisites:** set up (5)
 > **Code Identifiers:** max_length (2), course_id (1), courses_list (1)
@@ -1223,8 +1202,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **UI Navigation:** click on (1)
 
-#### Insert data into Milvus
-> [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/insert-data-into-milvus?u=76281980)
+#### [Insert data into Milvus](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/insert-data-into-milvus?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1242,7 +1220,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/insert-data-into-milvus?u=76281980&t=35)** Back to the notebook.
 >
-> **[0:38](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/insert-data-into-milvus?u=76281980&t=38)** First, we load up the CSV file into a DataFrame using pandas and then display the top records.
+> **[0:38](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/insert-data-into-milvus?u=76281980&t=38)** First, we load up the CSV file into a DataFrame using [[Pandas (Software)|pandas]] and then display the top records.
 >
 > **[0:45](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/insert-data-into-milvus?u=76281980&t=45)** Running this code, we can see that it is properly loaded.
 >
@@ -1254,7 +1232,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/insert-data-into-milvus?u=76281980&t=66)** It is recommended for you to get your own API key for OpenAI and use it in the code.
 >
-> **[1:12](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/insert-data-into-milvus?u=76281980&t=72)** We will initialize the OpenAI embeddings function from LangChain for getting embeddings.
+> **[1:12](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/insert-data-into-milvus?u=76281980&t=72)** We will initialize the OpenAI embeddings function from [[LangChain]] for getting embeddings.
 >
 > **[1:19](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/insert-data-into-milvus?u=76281980&t=79)** If you use a free trial account, you may run into rate limits too.
 >
@@ -1294,7 +1272,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), api (2), [[Search]] (1), [[Pandas (Software)|Pandas]] (1), [[LangChain]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (1), [[LangChain]] (1)
 > **Env Vars:** csv (2), api (2)
 > **Best Practices:** recommended (2)
 > **File Paths:** course-descriptions.csv (1)
@@ -1302,12 +1280,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Prerequisites:** set up (1)
 
-#### Build an index
-> [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/build-an-index?u=76281980)
+#### [Build an index](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/build-an-index?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/build-an-index?u=76281980&t=0)** We added data to the collection in the previous video, but before we can use it for semantic search, we need to create an index on the vector field.
+> **[0:00](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/build-an-index?u=76281980&t=0)** We added data to the collection in the previous video, but before we can use it for [[Semantic Search]], we need to create an index on the vector field.
 >
 > **[0:09](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/build-an-index?u=76281980&t=9)** To create an index, we first need to set some parameters for the index.
 >
@@ -1351,15 +1328,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Semantic Search]] (1), [[Search]] (1), database (1), hit (1)
+> **Frameworks & Libraries:** [[Semantic Search]] (1)
 > **Code Identifiers:** index_type (1), index_building_process (1), course_db (1), courses_list (1)
 > **Cross-References:** previous video (1), we discussed (1), previous chapter (1), go back to (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Env Vars:** ivf_flat (1)
 > **Warnings:** note that (1)
 
-#### Query scalar data
-> [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/query-scalar-data?u=76281980)
+#### [Query scalar data](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/query-scalar-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1375,7 +1351,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/query-scalar-data?u=76281980&t=27)** To do that, we use the collections load method on the collection.
 >
-> **[0:33](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/query-scalar-data?u=76281980&t=33)** Then we will execute a query that will fetch the title and description for course_id 1001.
+> **[0:33](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/query-scalar-data?u=76281980&t=33)** Then we will execute a query that will [[Fetch]] the title and description for course_id 1001.
 >
 > **[0:41](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/query-scalar-data?u=76281980&t=41)** For this, we call the query method on the collection.
 >
@@ -1393,7 +1369,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/query-scalar-data?u=76281980&t=70)** We will then execute another query.
 >
-> **[1:13](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/query-scalar-data?u=76281980&t=73)** This time we look at all the titles that starts with MLOps and the course_id being greater than 1001.
+> **[1:13](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/query-scalar-data?u=76281980&t=73)** This time we look at all the titles that starts with [[MLOps]] and the course_id being greater than 1001.
 >
 > **[1:21](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/query-scalar-data?u=76281980&t=81)** This demonstrates the use of multiple filters.
 >
@@ -1413,7 +1389,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Search]] (1), [[Fetch]] (1), [[MLOps]] (1), feature (1)
+> **Frameworks & Libraries:** [[Fetch]] (1), [[MLOps]] (1)
 > **Code Identifiers:** course_id (3), output_fields (1)
 > **Env Vars:** rdbms (1)
 > **Cross-References:** previous chapter (1)
@@ -1422,8 +1398,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Best Practices:** remember to (1)
 
-#### Search vector fields
-> [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/search-vector-fields?u=76281980)
+#### [Search vector fields](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/search-vector-fields?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1437,7 +1412,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/search-vector-fields?u=76281980&t=25)** This should be of the same metric type that was used to build the index on the vector field.
 >
-> **[0:32](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/search-vector-fields?u=76281980&t=32)** An index is a prerequisite for the vector field before it can be used for semantic search.
+> **[0:32](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/search-vector-fields?u=76281980&t=32)** An index is a prerequisite for the vector field before it can be used for [[Semantic Search]].
 >
 > **[0:38](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/search-vector-fields?u=76281980&t=38)** We set the offset to zero.
 >
@@ -1529,7 +1504,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (25), data (5), [[Semantic Search]] (1), database (1)
+> **Frameworks & Libraries:** [[Semantic Search]] (1)
 > **Code Identifiers:** anns_field (1), s_results (1)
 > **Versions:** 0.6 (1), 0.5 (1)
 > **Definitions:** is a  (2)
@@ -1538,8 +1513,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Prerequisites:** prerequisite (1)
 
-#### Delete objects and entities
-> [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/delete-objects-and-entities?u=76281980)
+#### [Delete objects and entities](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/delete-objects-and-entities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1565,11 +1539,11 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/delete-objects-and-entities?u=76281980&t=57)** We have now explored the features for DLL and DML in Milvus.
 >
-> **[1:03](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/delete-objects-and-entities?u=76281980&t=63)** Now, let's get to implementing a use case for vector databases, namely caching.
+> **[1:03](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/delete-objects-and-entities?u=76281980&t=63)** Now, let's get to implementing a use case for [[Vector Databases]], namely caching.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), feature (1), database (1), [[Vector Databases]] (1)
+> **Frameworks & Libraries:** [[Vector Databases]] (1)
 > **Env Vars:** sdk (1), dll (1), dml (1)
 > **Code Identifiers:** drop_collection (1), drop_database (1)
 
@@ -1578,12 +1552,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### LLMs and caching
-> [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/llms-and-caching?u=76281980)
+#### [LLMs and caching](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/llms-and-caching?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/llms-and-caching?u=76281980&t=0)** Let's now explore how to use a vector database to cache prompts and responses from large language models or LLMs for short.
+> **[0:00](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/llms-and-caching?u=76281980&t=0)** Let's now explore how to use a vector database to cache prompts and responses from [[Large Language Models (LLM)|large language models]] or LLMs for short.
 >
 > **[0:10](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/llms-and-caching?u=76281980&t=10)** First, let's review some shortcomings of LLMs and how caching can help with these issues.
 >
@@ -1613,22 +1586,21 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/llms-and-caching?u=76281980&t=104)** If a prompt and its response is cached and the similar prompt is seen from another user, the response can be served from the cache instead of going to the LLM.
 >
-> **[1:55](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/llms-and-caching?u=76281980&t=115)** Using caches for prompt and response caching is becoming an essential component of generative AI applications that are built using LLMs.
+> **[1:55](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/llms-and-caching?u=76281980&t=115)** Using caches for prompt and response caching is becoming an essential component of [[Generative AI]] applications that are built using LLMs.
 >
 > **[2:06](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/llms-and-caching?u=76281980&t=126)** In this chapter, we will discuss how to use a vector database as a cache for LLMs.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (4), llm (3), database (2), [[Large Language Models (LLM)|Large language models]] (2), business (2)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (2), [[Generative AI]] (1)
 > **Env Vars:** llm (3)
 > **Definitions:** is a  (2)
 
-#### Prompt caching workflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/prompt-caching-workflow?u=76281980)
+#### [Prompt caching workflow](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/prompt-caching-workflow?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/prompt-caching-workflow?u=76281980&t=0)** How does the prompt caching process work with LLMs and vector databases?
+> **[0:00](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/prompt-caching-workflow?u=76281980&t=0)** How does the prompt caching process work with LLMs and [[Vector Databases]]?
 >
 > **[0:06](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/prompt-caching-workflow?u=76281980&t=6)** Let's walk through a workflow for prompt caching.
 >
@@ -1652,7 +1624,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/prompt-caching-workflow?u=76281980&t=60)** Do note that based on the metric used, the range of distances may differ. If a similar prompt is found in the cache below the distance threshold, then the cached response from that prompt is returned to the user.
 >
-> **[1:14](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/prompt-caching-workflow?u=76281980&t=74)** If a similar prompt is not found, then we go to the LLM and fetch the response from the LLM for that prompt.
+> **[1:14](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/prompt-caching-workflow?u=76281980&t=74)** If a similar prompt is not found, then we go to the LLM and [[Fetch]] the response from the LLM for that prompt.
 >
 > **[1:22](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/prompt-caching-workflow?u=76281980&t=82)** This, of course, will incur additional cost and latency.
 >
@@ -1668,13 +1640,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (18), llm (5), database (2), [[Vector Databases]] (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[Vector Databases]] (1), [[Fetch]] (1)
 > **Env Vars:** llm (5)
 > **UI Navigation:** go to (2)
 > **Warnings:** note that (1)
 
-#### Set up the Milvus cache
-> [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/set-up-the-milvus-cache?u=76281980)
+#### [Set up the Milvus cache](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/set-up-the-milvus-cache?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1724,7 +1695,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), llm (3), next (3), prompt (3), data (1)
 > **Code Identifiers:** cache_db (1), llm_cache (1), prompt_text (1), response_text (1), prompt_embedding (1)
 > **Env Vars:** llm (3), ivf_flat (1)
 > **CLI Commands:** make (1)
@@ -1732,8 +1702,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Prerequisites:** set up (1)
 
-#### Inference process and caching
-> [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/inference-process-and-caching?u=76281980)
+#### [Inference process and caching](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/inference-process-and-caching?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1817,7 +1786,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (11), llm (6), [[Search]] (3), next (2), hit (1)
 > **Env Vars:** llm (6)
 > **Versions:** 0.3 (3)
 > **Definitions:** is a  (1), is an  (1)
@@ -1825,9 +1793,9 @@ created: 2026-05-02
 > **Code Identifiers:** get_response (1)
 > **Analogies:** similar to (1)
 > **Best Practices:** recommended (1)
+> **Warnings:** warning (1)
 
-#### Cache management
-> [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/cache-management?u=76281980)
+#### [Cache management](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/cache-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1835,7 +1803,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/cache-management?u=76281980&t=3)** Also, it may not be able to achieve optimal behavior right from the start.
 >
-> **[0:08](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/cache-management?u=76281980&t=8)** Let's go through some best practices to maximize the effectiveness of caching with vector databases.
+> **[0:08](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/cache-management?u=76281980&t=8)** Let's go through some best practices to maximize the effectiveness of caching with [[Vector Databases]].
 >
 > **[0:14](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/cache-management?u=76281980&t=14)** First, measure the cache hit ratio for the request.
 >
@@ -1873,7 +1841,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), [[Vector Databases]] (1), next (1), llm (1)
+> **Frameworks & Libraries:** [[Vector Databases]] (1)
 > **Best Practices:** recommended (2), good practice (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** llm (1)
@@ -1884,8 +1852,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### LLMs as a knowledge source
-> [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/llms-as-a-knowledge-source?u=76281980)
+#### [LLMs as a knowledge source](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/llms-as-a-knowledge-source?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1935,20 +1902,19 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/llms-as-a-knowledge-source?u=76281980&t=112)** It is also expensive to keep the LLM updated with new data on a daily basis.
 >
-> **[1:58](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/llms-as-a-knowledge-source?u=76281980&t=118)** This is where retrieval-augmented generation comes in.
+> **[1:58](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/llms-as-a-knowledge-source?u=76281980&t=118)** This is where [[Retrieval-Augmented Generation (RAG)|retrieval-augmented generation]] comes in.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), llm (1), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1)
+> **Frameworks & Libraries:** [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** llm (1)
 
-#### Introduction to retrieval augmented generation
-> [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/introduction-to-retrieval-augmented-generation?u=76281980)
+#### [Introduction to retrieval augmented generation](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/introduction-to-retrieval-augmented-generation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/introduction-to-retrieval-augmented-generation?u=76281980&t=0)** Retrieval-augmented generation, or RAG for short, is arguably the most popular use case for LLMs in the business context.
+> **[0:00](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/introduction-to-retrieval-augmented-generation?u=76281980&t=0)** [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]], or RAG for short, is arguably the most popular use case for LLMs in the business context.
 >
 > **[0:09](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/introduction-to-retrieval-augmented-generation?u=76281980&t=9)** What is RAG?
 >
@@ -1984,14 +1950,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rag (7), data (4), llm (3), product (3), business (1)
 > **Env Vars:** rag (7), llm (3), pdf (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### RAG: Knowledge curation process
-> [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/rag-knowledge-curation-process?u=76281980)
+#### [RAG: Knowledge curation process](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/rag-knowledge-curation-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2007,13 +1971,13 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/rag-knowledge-curation-process?u=76281980&t=21)** We can have one or more sources of data for the RAG system.
 >
-> **[0:25](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/rag-knowledge-curation-process?u=76281980&t=25)** These could be websites, ticketing systems, traditional RDBMS databases, document hubs like SharePoint or Google Drive, and a Doc documents.
+> **[0:25](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/rag-knowledge-curation-process?u=76281980&t=25)** These could be websites, ticketing systems, traditional RDBMS [[Databases]], document hubs like [[SharePoint]] or [[Google Drive]], and a Doc documents.
 >
 > **[0:35](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/rag-knowledge-curation-process?u=76281980&t=35)** Do note that the structure of these data sources will be vastly different.
 >
-> **[0:39](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/rag-knowledge-curation-process?u=76281980&t=39)** Some may only have unstructured text data, while others may have a mixture of numeric, structured, and unstructured data. For each of these data sources, we need to build an acquisition module.
+> **[0:39](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/rag-knowledge-curation-process?u=76281980&t=39)** Some may only have unstructured text data, while others may have a mixture of numeric, structured, and [[Unstructured Data]]. For each of these data sources, we need to build an acquisition module.
 >
-> **[0:52](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/rag-knowledge-curation-process?u=76281980&t=52)** This module will fetch data from the sources, filter it for relevant information, and then cleanse them to eliminate any kind of noise.
+> **[0:52](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/rag-knowledge-curation-process?u=76281980&t=52)** This module will [[Fetch]] data from the sources, filter it for relevant information, and then cleanse them to eliminate any kind of noise.
 >
 > **[1:01](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/rag-knowledge-curation-process?u=76281980&t=61)** This module may also do continuous and incremental features to catch up with new additions and changes on the source side.
 >
@@ -2043,17 +2007,16 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/rag-knowledge-curation-process?u=76281980&t=135)** We may use Upsert to update existing data if available too.
 >
-> **[2:20](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/rag-knowledge-curation-process?u=76281980&t=140)** In advanced use cases, the vector database may be supplemented by RDBMS and knowledge graphs to create an ensemble knowledge base.
+> **[2:20](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/rag-knowledge-curation-process?u=76281980&t=140)** In advanced use cases, the vector database may be supplemented by RDBMS and [[Knowledge Graphs]] to create an ensemble knowledge base.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), rag (3), next (2), [[Unstructured Data]] (2), prompt (2)
+> **Frameworks & Libraries:** [[Unstructured Data]] (2), [[Databases]] (1), [[SharePoint]] (1), [[Google Drive]] (1), [[Fetch]] (1)
 > **Env Vars:** rag (3), rdbms (2)
 > **Cross-References:** in the next (1)
 > **Warnings:** note that (1)
 
-#### RAG question-answering process
-> [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/rag-question-answering-process?u=76281980)
+#### [RAG question-answering process](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/rag-question-answering-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2065,7 +2028,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/rag-question-answering-process?u=76281980&t=18)** The RAG system receives the input prompt and may perform validations like authentication.
 >
-> **[0:24](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/rag-question-answering-process?u=76281980&t=24)** There may be additional metadata that may be passed along, like product IDs or user IDs that are used as scalar filters on the knowledge base.
+> **[0:24](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/rag-question-answering-process?u=76281980&t=24)** There may be additional [[Metadata]] that may be passed along, like product IDs or user IDs that are used as scalar filters on the knowledge base.
 >
 > **[0:33](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/rag-question-answering-process?u=76281980&t=33)** Then we get the embedding vector from the prompt using the same embedding model that was used during the curation process.
 >
@@ -2081,18 +2044,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (6), prompt (5), rag (3), [[Metadata]] (2), product (1)
+> **Frameworks & Libraries:** [[Metadata]] (2)
 > **Env Vars:** llm (6), rag (3)
 > **Cross-References:** we discussed (1), previous video (1), in the next (1)
 > **CLI Commands:** find (2)
 > **Prerequisites:** set up (1)
 
-#### Applications of RAG
-> [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/applications-of-rag?u=76281980)
+#### [Applications of RAG](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/applications-of-rag?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/applications-of-rag?u=76281980&t=0)** What are some of the popular applications for retrieval-augmented generation today?
+> **[0:00](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/applications-of-rag?u=76281980&t=0)** What are some of the popular applications for [[Retrieval-Augmented Generation (RAG)|retrieval-augmented generation]] today?
 >
 > **[0:06](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/applications-of-rag?u=76281980&t=6)** RAG is revolutionizing the way several business processes are being done.
 >
@@ -2100,7 +2062,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/applications-of-rag?u=76281980&t=16)** First, there are interactive chatbots that businesses use to communicate with their customers.
 >
-> **[0:22](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/applications-of-rag?u=76281980&t=22)** Chatbots are now more powerful and can use RAG to answer customer questions about products and help troubleshoot problems.
+> **[0:22](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/applications-of-rag?u=76281980&t=22)** Chatbots are now more powerful and can use RAG to answer customer questions about [[Microsoft Products|products]] and help troubleshoot problems.
 >
 > **[0:30](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/applications-of-rag?u=76281980&t=30)** RAG can help in automated responses to customer queries by email.
 >
@@ -2110,13 +2072,13 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/applications-of-rag?u=76281980&t=46)** Based on log messages, absorbed metrics, and information from manuals, RAG can help predict potential root causes quickly and aid in resolution of such issues in a timely manner.
 >
-> **[0:59](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/applications-of-rag?u=76281980&t=59)** On e-commerce websites, RAG can help customers quickly find what they are searching for and provide good narratives about the product or service.
+> **[0:59](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/applications-of-rag?u=76281980&t=59)** On [[E-Commerce]] websites, RAG can help customers quickly find what they are searching for and provide good narratives about the product or service.
 >
 > **[1:08](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/applications-of-rag?u=76281980&t=68)** They can also customize such information for the customer.
 >
 > **[1:12](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/applications-of-rag?u=76281980&t=72)** Enterprises have help desk for functions like human -- repeating.
 >
-> **[1:17](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/applications-of-rag?u=76281980&t=77)** Enterprises have help desk for functions like human resources, legal, or logistics.
+> **[1:17](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/applications-of-rag?u=76281980&t=77)** Enterprises have help desk for functions like [[Human Resources (HR)|human resources]], legal, or logistics.
 >
 > **[1:24](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/applications-of-rag?u=76281980&t=84)** These functions can be automated with RAG to help employees find quick answers to their questions and problems.
 >
@@ -2128,7 +2090,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rag (10), [[Search]] (2), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1), business (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1), [[Microsoft Products|Products]] (1), [[E-Commerce]] (1), [[Human Resources (HR)|Human resources]] (1)
 > **Env Vars:** rag (10)
 > **CLI Commands:** find (2)
 > **Cross-References:** in the next (1)
@@ -2140,8 +2102,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Set up Milvus for RAG
-> [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/set-up-milvus-for-rag?u=76281980)
+#### [Set up Milvus for RAG](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/set-up-milvus-for-rag?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2181,14 +2142,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), rag (3), next (1)
 > **Code Identifiers:** rag_conn (1), rag_db (1), chunk_id_field (1), rag_text_field (1), rag_embedding_field (1)
 > **Env Vars:** rag (3)
 > **Prerequisites:** set up (2)
 > **UI Navigation:** switch to (1)
 
-#### Prepare data for the knowledge base
-> [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/prepare-data-for-the-knowledge-base?u=76281980)
+#### [Prepare data for the knowledge base](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/prepare-data-for-the-knowledge-base?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2196,11 +2155,11 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/prepare-data-for-the-knowledge-base?u=76281980&t=6)** For the data source, we have a PDF document.
 >
-> **[0:09](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/prepare-data-for-the-knowledge-base?u=76281980&t=9)** The document is called Large Language Models.pdf that is available as part of the exercise files.
+> **[0:09](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/prepare-data-for-the-knowledge-base?u=76281980&t=9)** The document is called [[Large Language Models (LLM)|Large Language Models]].pdf that is available as part of the exercise files.
 >
 > **[0:16](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/prepare-data-for-the-knowledge-base?u=76281980&t=16)** This document contains text extracted from Wikipedia about LLMs.
 >
-> **[0:22](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/prepare-data-for-the-knowledge-base?u=76281980&t=22)** To load and process the document, we will use LangChain.
+> **[0:22](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/prepare-data-for-the-knowledge-base?u=76281980&t=22)** To load and process the document, we will use [[LangChain]].
 >
 > **[0:25](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/prepare-data-for-the-knowledge-base?u=76281980&t=25)** LangChain has loaders for several data sources.
 >
@@ -2254,13 +2213,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[LangChain]] (3), [[Large Language Models (LLM)|Large language models]] (1), next (1)
+> **Frameworks & Libraries:** [[LangChain]] (3), [[Large Language Models (LLM)|Large language models]] (1)
 > **Definitions:** is called (1), is a  (1)
 > **Env Vars:** pdf (1)
 > **Exercise Files:** exercise files (1)
 
-#### Populate the Milvus database
-> [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/populate-the-milvus-database?u=76281980)
+#### [Populate the Milvus database](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/populate-the-milvus-database?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2284,7 +2242,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/populate-the-milvus-database?u=76281980&t=47)** For large datasets spanning multiple documents, it needs to be scheduled as a batch process.
 >
-> **[0:53](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/populate-the-milvus-database?u=76281980&t=53)** When doing batch processing, it's recommended to flush only at periodic intervals, as that process takes a lot of resources and results in fragmentation of data.
+> **[0:53](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/populate-the-milvus-database?u=76281980&t=53)** When doing [[Batch Processing]], it's recommended to flush only at periodic intervals, as that process takes a lot of resources and results in fragmentation of data.
 >
 > **[1:04](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/populate-the-milvus-database?u=76281980&t=64)** Then indexes can be created before or after the data insert happens.
 >
@@ -2294,14 +2252,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), rag (2), database (1), [[Batch Processing]] (1)
+> **Frameworks & Libraries:** [[Batch Processing]] (1)
 > **Env Vars:** rag (2), ivf_flat (1)
 > **Best Practices:** recommended (2)
 > **Cross-References:** earlier in (1)
 > **Prerequisites:** set up (1)
 
-#### Answer questions with RAG
-> [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/answer-questions-with-rag?u=76281980)
+#### [Answer questions with RAG](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/answer-questions-with-rag?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2359,7 +2316,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (6), [[Search]] (4), llm (4), rag (2), database (2)
 > **Env Vars:** llm (4), rag (2)
 > **Prerequisites:** set up (2), setup (1)
 > **Versions:** 0.5 (1), 0.2 (1)
@@ -2371,12 +2327,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Choose a vector database
-> [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/choose-a-vector-database?u=76281980)
+#### [Choose a vector database](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/choose-a-vector-database?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/choose-a-vector-database?u=76281980&t=0)** Having discussed Milvus operations and two use cases for vector databases, let us now review some best practices for using vector databases.
+> **[0:00](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/choose-a-vector-database?u=76281980&t=0)** Having discussed Milvus operations and two use cases for [[Vector Databases]], let us now review some best practices for using vector databases.
 >
 > **[0:10](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/choose-a-vector-database?u=76281980&t=10)** We begin with considerations for choosing a vector database.
 >
@@ -2390,7 +2345,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/choose-a-vector-database?u=76281980&t=38)** We can use an embedded in-memory database or deploy it in a scalable cluster.
 >
-> **[0:44](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/choose-a-vector-database?u=76281980&t=44)** There are specialized vector databases as well as traditional databases that have vector support.
+> **[0:44](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/choose-a-vector-database?u=76281980&t=44)** There are specialized vector databases as well as traditional [[Databases]] that have vector support.
 >
 > **[0:51](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/choose-a-vector-database?u=76281980&t=51)** The use case will determine the right vector database technology to use.
 >
@@ -2400,7 +2355,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/choose-a-vector-database?u=76281980&t=63)** Do we need long-term storage?
 >
-> **[1:05](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/choose-a-vector-database?u=76281980&t=65)** What are the scalability and reliability requirements?
+> **[1:05](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/choose-a-vector-database?u=76281980&t=65)** What are the [[Scalability]] and reliability requirements?
 >
 > **[1:09](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/choose-a-vector-database?u=76281980&t=69)** This will determine if we need a cluster or a cloud service.
 >
@@ -2408,27 +2363,26 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/choose-a-vector-database?u=76281980&t=75)** If so, how frequent are they?
 >
-> **[1:17](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/choose-a-vector-database?u=76281980&t=77)** This will determine whether we need to use a traditional database with vector support like PostgreSQL or go to a specialized vector database like Milvus.
+> **[1:17](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/choose-a-vector-database?u=76281980&t=77)** This will determine whether we need to use a traditional database with vector support like [[PostgreSQL]] or go to a specialized vector database like Milvus.
 >
 > **[1:28](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/choose-a-vector-database?u=76281980&t=88)** Another key question is with enterprise data.
 >
 > **[1:32](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/choose-a-vector-database?u=76281980&t=92)** Is it okay for your organization to store data in the cloud, especially confidential ones?
 >
-> **[1:38](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/choose-a-vector-database?u=76281980&t=98)** This is the key question to answer before deciding on cloud services.
+> **[1:38](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/choose-a-vector-database?u=76281980&t=98)** This is the key question to answer before deciding on [[Cloud Services]].
 >
-> **[1:43](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/choose-a-vector-database?u=76281980&t=103)** If we want to host the services ourselves, can we provide the people and hardware resources for deploying and managing these services on an ongoing basis?
+> **[1:43](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/choose-a-vector-database?u=76281980&t=103)** If we want to host the services ourselves, can we provide the people and [[Hardware]] resources for deploying and managing these services on an ongoing basis?
 >
 > **[1:54](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/choose-a-vector-database?u=76281980&t=114)** I strongly recommend doing some due diligence before deciding upon the right technology for the use case.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vector Databases]] (5), database (5), cloud (4), data (3), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Vector Databases]] (5), [[Databases]] (1), [[Scalability]] (1), [[PostgreSQL]] (1), [[Cloud Services]] (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 
-#### Combine vector and scalar data
-> [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/combine-vector-and-scalar-data?u=76281980)
+#### [Combine vector and scalar data](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/combine-vector-and-scalar-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2436,15 +2390,15 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/combine-vector-and-scalar-data?u=76281980&t=6)** Scalar data is needed to implement additional filters for authentication, multitenancy, or context.
 >
-> **[0:15](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/combine-vector-and-scalar-data?u=76281980&t=15)** Do we keep scalar and vector data together or separate them and stored them in databases that are built for their purposes?
+> **[0:15](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/combine-vector-and-scalar-data?u=76281980&t=15)** Do we keep scalar and vector data together or separate them and stored them in [[Databases]] that are built for their purposes?
 >
-> **[0:23](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/combine-vector-and-scalar-data?u=76281980&t=23)** For example, do we simply use Milvus for both datatypes, or do we use a MySQL instance for scalar data and link them?
+> **[0:23](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/combine-vector-and-scalar-data?u=76281980&t=23)** For example, do we simply use Milvus for both datatypes, or do we use a [[MySQL]] instance for scalar data and link them?
 >
 > **[0:32](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/combine-vector-and-scalar-data?u=76281980&t=32)** What do specialized databases bring to the table?
 >
 > **[0:36](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/combine-vector-and-scalar-data?u=76281980&t=36)** They have excellent support for vector search.
 >
-> **[0:39](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/combine-vector-and-scalar-data?u=76281980&t=39)** This includes specialized data storage, support for embeddings, metric types, and optimized plans for vector search.
+> **[0:39](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/combine-vector-and-scalar-data?u=76281980&t=39)** This includes specialized [[Data Storage]], support for embeddings, metric types, and optimized plans for vector search.
 >
 > **[0:49](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/combine-vector-and-scalar-data?u=76281980&t=49)** On the other hand, they lack extensive query capabilities that traditional databases provide, like joints, aggregations, and functions.
 >
@@ -2456,7 +2410,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/combine-vector-and-scalar-data?u=76281980&t=78)** Will they require aggregations and summaries?
 >
-> **[1:22](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/combine-vector-and-scalar-data?u=76281980&t=82)** For simple hybrid searches, we can go with just vector databases. For more complex ones, we need to store the datatypes separately and implement multi-step searches.
+> **[1:22](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/combine-vector-and-scalar-data?u=76281980&t=82)** For simple hybrid searches, we can go with just [[Vector Databases]]. For more complex ones, we need to store the datatypes separately and implement multi-step searches.
 >
 > **[1:34](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/combine-vector-and-scalar-data?u=76281980&t=94)** Should we keep scalar and vector data in separate databases?
 >
@@ -2468,16 +2422,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Databases]] (6), [[Search]] (3), [[MySQL]] (1)
+> **Frameworks & Libraries:** [[Databases]] (6), [[MySQL]] (1), [[Data Storage]] (1)
 > **CLI Commands:** mysql (1)
 > **Analogies:** for example (1)
 
-#### Distance measure considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/distance-measure-considerations?u=76281980)
+#### [Distance measure considerations](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/distance-measure-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/distance-measure-considerations?u=76281980&t=0)** When doing semantic search with vector databases, a key design consideration is the distance measure.
+> **[0:00](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/distance-measure-considerations?u=76281980&t=0)** When doing [[Semantic Search]] with [[Vector Databases]], a key design consideration is the distance measure.
 >
 > **[0:07](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/distance-measure-considerations?u=76281980&t=7)** When using vector databases, it's critical to understand how the distance measures work for a specific use case.
 >
@@ -2515,13 +2468,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (5), database (3), [[Vector Databases]] (2), [[Semantic Search]] (1), next (1)
+> **Frameworks & Libraries:** [[Vector Databases]] (2), [[Semantic Search]] (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
 
-#### Tune vector DB performance
-> [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/tune-vector-db-performance?u=76281980)
+#### [Tune vector DB performance](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/tune-vector-db-performance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2561,7 +2513,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (5), data (4), database (3), application (1)
 > **CLI Commands:** find (3), make (1)
 
 
@@ -2569,18 +2520,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continue with LLMs
-> [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/continue-with-llms?u=76281980)
+#### [Continue with LLMs](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/continue-with-llms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/continue-with-llms?u=76281980&t=0)** There is a lot you can learn and do with vector databases beyond this course.
+> **[0:00](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/continue-with-llms?u=76281980&t=0)** There is a lot you can learn and do with [[Vector Databases]] beyond this course.
 >
-> **[0:05](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/continue-with-llms?u=76281980&t=5)** Explore other vector database products beyond Milvus to understand how they compare.
+> **[0:05](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/continue-with-llms?u=76281980&t=5)** Explore other vector database [[Microsoft Products|products]] beyond Milvus to understand how they compare.
 >
-> **[0:11](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/continue-with-llms?u=76281980&t=11)** Learn how tools like LangChain and LlamaIndex help in building applications with vector databases.
+> **[0:11](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/continue-with-llms?u=76281980&t=11)** Learn how tools like [[LangChain]] and [[LlamaIndex]] help in building applications with vector databases.
 >
-> **[0:18](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/continue-with-llms?u=76281980&t=18)** Build a retrieval-augmented generation application for your organization with vector databases.
+> **[0:18](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/continue-with-llms?u=76281980&t=18)** Build a [[Retrieval-Augmented Generation (RAG)|retrieval-augmented generation]] application for your organization with vector databases.
 >
 > **[0:26](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/continue-with-llms?u=76281980&t=26)** Data and machine learning always intrigues me.
 >
@@ -2590,7 +2540,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vector Databases]] (3), database (1), [[Microsoft Products|Products]] (1), [[LangChain]] (1), [[LlamaIndex]] (1)
+> **Frameworks & Libraries:** [[Vector Databases]] (3), [[Microsoft Products|Products]] (1), [[LangChain]] (1), [[LlamaIndex]] (1), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 

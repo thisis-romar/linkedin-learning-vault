@@ -90,8 +90,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Web design and development in the code and no-code era
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/web-design-and-development-in-the-code-and-no-code-era?u=76281980)
+#### [Web design and development in the code and no-code era](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/web-design-and-development-in-the-code-and-no-code-era?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -101,11 +100,11 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/web-design-and-development-in-the-code-and-no-code-era?u=76281980&t=20)** Websites are now critical to companies and organizations, no longer viewed as optional, and these websites are often created and maintained by a team of developers.
 >
-> **[0:30](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/web-design-and-development-in-the-code-and-no-code-era?u=76281980&t=30)** Social media management, content strategy, user experience, user interface design, search engine optimization, email marketing, and many other areas of expertise are important for supporting website construction and maintenance well beyond just coding.
+> **[0:30](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/web-design-and-development-in-the-code-and-no-code-era?u=76281980&t=30)** Social media management, content strategy, [[User Experience (UX)|user experience]], [[User Interface Design]], [[Search Engine Optimization (SEO)|search engine optimization]], [[Email Marketing]], and many other areas of expertise are important for supporting website construction and maintenance well beyond just coding.
 >
-> **[0:48](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/web-design-and-development-in-the-code-and-no-code-era?u=76281980&t=48)** In this course, I'll introduce you to the world of web design and development.
+> **[0:48](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/web-design-and-development-in-the-code-and-no-code-era?u=76281980&t=48)** In this course, I'll introduce you to the world of [[Web Design]] and development.
 >
-> **[0:52](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/web-design-and-development-in-the-code-and-no-code-era?u=76281980&t=52)** Ben will take a peek at the three technologies that power the front end of websites, including HTML, CSS, and JavaScript.
+> **[0:52](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/web-design-and-development-in-the-code-and-no-code-era?u=76281980&t=52)** Ben will take a peek at the three technologies that power the front end of websites, including [[HTML]], CSS, and [[JavaScript]].
 >
 > **[1:01](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/web-design-and-development-in-the-code-and-no-code-era?u=76281980&t=61)** We'll write a little code so that you can see how that feels and see if you enjoy that work.
 >
@@ -121,7 +120,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), management (1), [[User Experience (UX)|User experience]] (1), [[User Interface Design]] (1), [[Search Engine Optimization (SEO)|Search engine optimization]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), [[User Interface Design]] (1), [[Search Engine Optimization (SEO)|Search engine optimization]] (1), [[Email Marketing]] (1), [[Web Design]] (1)
 > **Env Vars:** cern (1), html (1), css (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
@@ -132,16 +131,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding clients and servers
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-clients-and-servers?u=76281980)
+#### [Understanding clients and servers](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-clients-and-servers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-clients-and-servers?u=76281980&t=1)** - Two words that appear often in the web design, and development space are clients and servers.
+> **[0:01](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-clients-and-servers?u=76281980&t=1)** - Two words that appear often in the [[Web Design]], and development space are clients and servers.
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-clients-and-servers?u=76281980&t=7)** Let's start with servers.
 >
-> **[0:09](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-clients-and-servers?u=76281980&t=9)** This is a word referring to either software or hardware that serves files or websites to computers which request them.
+> **[0:09](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-clients-and-servers?u=76281980&t=9)** This is a [[Microsoft Word|word]] referring to either software or [[Hardware]] that serves files or websites to computers which request them.
 >
 > **[0:18](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-clients-and-servers?u=76281980&t=18)** Sometimes, the server software runs on the server hardware, and sometimes the server software is located elsewhere.
 >
@@ -159,13 +157,13 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-clients-and-servers?u=76281980&t=59)** That's the server software that executes those commands.
 >
-> **[1:03](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-clients-and-servers?u=76281980&t=63)** There are different types of server software like database servers, cloud computing servers, file servers and web server software.
+> **[1:03](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-clients-and-servers?u=76281980&t=63)** There are different types of server software like database servers, [[Cloud Computing]] servers, file servers and web server software.
 >
 > **[1:12](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-clients-and-servers?u=76281980&t=72)** Web server software is what we are interested in, and there's several makers of this software.
 >
 > **[1:18](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-clients-and-servers?u=76281980&t=78)** Some of it is free and open-source like Apache or NGINX.
 >
-> **[1:22](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-clients-and-servers?u=76281980&t=82)** Some are proprietary from big companies like Oracle, Microsoft and IBM.
+> **[1:22](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-clients-and-servers?u=76281980&t=82)** Some are proprietary from big companies like Oracle, [[Microsoft]] and IBM.
 >
 > **[1:28](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-clients-and-servers?u=76281980&t=88)** When web server software runs on web server hardware, and that system is maintained by a company who will sell you some space on it that is referred to as a web host or hosting.
 >
@@ -207,7 +205,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (16), [[Hardware]] (4), [[Microsoft Word|Word]] (1), database (1), cloud (1)
+> **Frameworks & Libraries:** [[Hardware]] (4), [[Web Design]] (1), [[Microsoft Word|Word]] (1), [[Cloud Computing]] (1), [[Microsoft]] (1)
 > **CLI Commands:** apache (1), nginx (1)
 > **Env Vars:** nginx (1), ibm (1)
 > **Tools:** firefox (1), safari (1)
@@ -215,8 +213,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - two (1)
 
-#### Understanding the cloud vs. a website
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-the-cloud-vs-a-website?u=76281980)
+#### [Understanding the cloud vs. a website](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-the-cloud-vs-a-website?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -230,11 +227,11 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-the-cloud-vs-a-website?u=76281980&t=18)** When your files are in the cloud, that means they're stored somewhere out there on a server someplace.
 >
-> **[0:27](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-the-cloud-vs-a-website?u=76281980&t=27)** A great example of cloud services is email.
+> **[0:27](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-the-cloud-vs-a-website?u=76281980&t=27)** A great example of [[Cloud Services]] is email.
 >
 > **[0:31](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-the-cloud-vs-a-website?u=76281980&t=31)** 20 years ago, email was frequently stored on the computer in front of you.
 >
-> **[0:36](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-the-cloud-vs-a-website?u=76281980&t=36)** You used a program like Outlook or Eudora, which pulled the email from the server and onto your computer where you could read it or store it.
+> **[0:36](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-the-cloud-vs-a-website?u=76281980&t=36)** You used a program like [[Microsoft Outlook|Outlook]] or Eudora, which pulled the email from the server and onto your computer where you could read it or store it.
 >
 > **[0:44](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-the-cloud-vs-a-website?u=76281980&t=44)** However, there were serious downsides to this model.
 >
@@ -252,7 +249,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-the-cloud-vs-a-website?u=76281980&t=83)** With a quick refresh, your email looks the same, no matter where you look at it.
 >
-> **[1:28](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-the-cloud-vs-a-website?u=76281980&t=88)** Other cloud-based technologies you might use every day include remote file storage locations like Dropbox, Box, Google Drive, iCloud or OneDrive.
+> **[1:28](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-the-cloud-vs-a-website?u=76281980&t=88)** Other cloud-based technologies you might use every day include remote file storage locations like Dropbox, Box, [[Google Drive]], iCloud or [[Microsoft OneDrive|OneDrive]].
 >
 > **[1:40](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-the-cloud-vs-a-website?u=76281980&t=100)** These services have become critical for sharing files with others and storing our own files, so that they're accessible on all of our devices.
 >
@@ -272,7 +269,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-the-cloud-vs-a-website?u=76281980&t=151)** eBay, for example, is a web app.
 >
-> **[2:34](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-the-cloud-vs-a-website?u=76281980&t=154)** You may browse, buy and sell all kinds of products on eBay, but only if you're connected to the internet, and only if you're inside of a web browser.
+> **[2:34](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-the-cloud-vs-a-website?u=76281980&t=154)** You may browse, buy and sell all kinds of [[Microsoft Products|products]] on eBay, but only if you're connected to the internet, and only if you're inside of a web browser.
 >
 > **[2:44](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-the-cloud-vs-a-website?u=76281980&t=164)** The internet connection must be active in order to use a web app.
 >
@@ -280,21 +277,20 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-the-cloud-vs-a-website?u=76281980&t=172)** These are only some of the differences between cloud apps and web apps.
 >
-> **[2:57](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-the-cloud-vs-a-website?u=76281980&t=177)** There are others, but they involve system architecture, which is beyond the scope of this course.
+> **[2:57](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-the-cloud-vs-a-website?u=76281980&t=177)** There are others, but they involve [[System Architecture]], which is beyond the scope of this course.
 >
 > **[3:03](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-the-cloud-vs-a-website?u=76281980&t=183)** You may find other resources about cloud app apps and web apps in the Library.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (11), web (8), application (4), [[Microsoft Outlook|Outlook]] (2), [[Google Drive]] (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (2), [[Cloud Services]] (1), [[Google Drive]] (1), [[Microsoft OneDrive|Onedrive]] (1), [[Microsoft Products|Products]] (1)
 > **Code Identifiers:** ebay (2), icloud (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - when (1)
 
-#### Understanding native apps vs. web apps
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-native-apps-vs-web-apps?u=76281980)
+#### [Understanding native apps vs. web apps](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-native-apps-vs-web-apps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -304,19 +300,19 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-native-apps-vs-web-apps?u=76281980&t=11)** Both native and web apps run on phones and tablets.
 >
-> **[0:16](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-native-apps-vs-web-apps?u=76281980&t=16)** A native app, is an app design for a specific operating system, like IOS or Android.
+> **[0:16](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-native-apps-vs-web-apps?u=76281980&t=16)** A native app, is an app design for a specific operating system, like IOS or [[Android]].
 >
-> **[0:23](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-native-apps-vs-web-apps?u=76281980&t=23)** Native apps are often are coded using programming languages, like C++, Java or Swift, among many other choices.
+> **[0:23](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-native-apps-vs-web-apps?u=76281980&t=23)** Native apps are often are coded using programming languages, like C++, [[Java]] or [[Swift (Programming Language)|Swift]], among many other choices.
 >
 > **[0:31](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-native-apps-vs-web-apps?u=76281980&t=31)** These languages require compiling, before they can run on a given device.
 >
 > **[0:36](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-native-apps-vs-web-apps?u=76281980&t=36)** Each platform provides their own interface elements and development tools for creating native apps.
 >
-> **[0:43](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-native-apps-vs-web-apps?u=76281980&t=43)** Compilers, interface elements, development tools and debugging mechanisms, are often distributed in the form of a software development kit or SDK.
+> **[0:43](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-native-apps-vs-web-apps?u=76281980&t=43)** Compilers, interface elements, development tools and debugging mechanisms, are often distributed in the form of a [[Software Development]] kit or SDK.
 >
 > **[0:55](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-native-apps-vs-web-apps?u=76281980&t=55)** Because there's a large programming overhead to native apps, they tend to be more expensive to build.
 >
-> **[1:02](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-native-apps-vs-web-apps?u=76281980&t=62)** Once built, native apps are placed in the appropriate location for downloading, often the App Store or Google play.
+> **[1:02](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-native-apps-vs-web-apps?u=76281980&t=62)** Once built, native apps are placed in the appropriate location for downloading, often the App Store or [[Google]] play.
 >
 > **[1:10](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-native-apps-vs-web-apps?u=76281980&t=70)** There may be requirements for having your app listed in these locations.
 >
@@ -346,11 +342,11 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-native-apps-vs-web-apps?u=76281980&t=139)** The Gmail website is an example of a web app.
 >
-> **[2:23](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-native-apps-vs-web-apps?u=76281980&t=143)** These days, web apps are often built with JavaScript, HTML, and CSS, which we'll discuss in more detail later in the course.
+> **[2:23](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-native-apps-vs-web-apps?u=76281980&t=143)** These days, web apps are often built with [[JavaScript]], [[HTML]], and CSS, which we'll discuss in more detail later in the course.
 >
-> **[2:32](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-native-apps-vs-web-apps?u=76281980&t=152)** Web apps may talk to databases, located on web servers.
+> **[2:32](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-native-apps-vs-web-apps?u=76281980&t=152)** Web apps may talk to [[Databases]], located on [[Web Servers]].
 >
-> **[2:37](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-native-apps-vs-web-apps?u=76281980&t=157)** In this case, there may be some server side programming languages involved, like PHP, Python, Ruby, or of more JavaScript.
+> **[2:37](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-native-apps-vs-web-apps?u=76281980&t=157)** In this case, there may be some server side programming languages involved, like [[PHP]], [[Python (Programming Language)|Python]], Ruby, or of more JavaScript.
 >
 > **[2:48](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-native-apps-vs-web-apps?u=76281980&t=168)** No compiling is needed for web apps to run and there's no app store for web apps.
 >
@@ -378,7 +374,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (20), [[Programming]] (5), [[JavaScript]] (2), [[Android]] (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Android]] (1), [[Java]] (1), [[Swift (Programming Language)|Swift]] (1), [[Software Development]] (1)
 > **Env Vars:** ios (1), sdk (1), html (1), css (1), php (1)
 > **CLI Commands:** php (1), python (1), ruby (1)
 > **Definitions:** is an  (2)
@@ -387,8 +383,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - native (1)
 
-#### Understanding web browsers
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-web-browsers?u=76281980)
+#### [Understanding web browsers](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-web-browsers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -400,7 +395,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-web-browsers?u=76281980&t=17)** A browser is designed to communicate with the web server, request pages, receive those pages, and display the code, images, video, audio, and other assets received inside of a webpage.
 >
-> **[0:32](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-web-browsers?u=76281980&t=32)** Browsers understand only three types of code; HTML, CSS, and JavaScript.
+> **[0:32](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-web-browsers?u=76281980&t=32)** Browsers understand only three types of code; [[HTML]], CSS, and [[JavaScript]].
 >
 > **[0:39](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-web-browsers?u=76281980&t=39)** We'll go through these technologies in a later chapter.
 >
@@ -436,7 +431,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-web-browsers?u=76281980&t=157)** And don't forget about browsers for tablets and phones.
 >
-> **[2:40](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-web-browsers?u=76281980&t=160)** Web developers may do quick and dirty testing for smaller screens by making their browser windows small on their computer.
+> **[2:40](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-web-browsers?u=76281980&t=160)** Web developers may do quick and dirty testing for smaller screens by making their browser [[Windows]] small on their computer.
 >
 > **[2:48](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-web-browsers?u=76281980&t=168)** However, the best way to test is with actual physical devices.
 >
@@ -444,11 +439,11 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-web-browsers?u=76281980&t=181)** In any case, get familiar with as many browsers as you can.
 >
-> **[3:05](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-web-browsers?u=76281980&t=185)** You may have a favorite go-to browser, but you'll use as many as you can to get your hands on when doing web development for testing purposes.
+> **[3:05](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-web-browsers?u=76281980&t=185)** You may have a favorite go-to browser, but you'll use as many as you can to get your hands on when doing [[Web Development]] for testing purposes.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (7), [[HTML]] (3), css (3), [[JavaScript]] (3), [[Windows]] (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[JavaScript]] (3), [[Windows]] (1), [[Web Development]] (1)
 > **Env Vars:** html (3), css (3), w3c (2), mdn (1)
 > **Tools:** firefox (2), safari (2)
 > **Documentation:** w3c (2), mdn (1)
@@ -462,20 +457,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding user experience (UX) and website planning
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-experience-ux-and-website-planning?u=76281980)
+#### [Understanding user experience (UX) and website planning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-experience-ux-and-website-planning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-experience-ux-and-website-planning?u=76281980&t=1)** - User experience, or UX, refers to the experience someone has when interacting with a product or service.
+> **[0:01](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-experience-ux-and-website-planning?u=76281980&t=1)** - [[User Experience (UX)|User experience]], or UX, refers to the experience someone has when interacting with a product or service.
 >
-> **[0:08](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-experience-ux-and-website-planning?u=76281980&t=8)** From finding a service in Google, to understanding a product offering, to purchasing the product and sharing a review, UX is about managing website visitors perceptions of ease of use and getting things done quickly.
+> **[0:08](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-experience-ux-and-website-planning?u=76281980&t=8)** From finding a service in [[Google]], to understanding a product offering, to purchasing the product and sharing a review, UX is about managing website visitors perceptions of ease of use and getting things done quickly.
 >
 > **[0:22](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-experience-ux-and-website-planning?u=76281980&t=22)** Everyone has had the experience of being completely lost about what to do next on a website.
 >
 > **[0:28](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-experience-ux-and-website-planning?u=76281980&t=28)** If you can't find the link, can't understand the product offering, or misunderstand what you're being asked to do, that's a UX fail in process.
 >
-> **[0:38](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-experience-ux-and-website-planning?u=76281980&t=38)** UX practitioners are all about identifying and eliminating those moments in existing products and preventing those moments in new products.
+> **[0:38](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-experience-ux-and-website-planning?u=76281980&t=38)** UX practitioners are all about identifying and eliminating those moments in existing [[Microsoft Products|products]] and preventing those moments in new products.
 >
 > **[0:48](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-experience-ux-and-website-planning?u=76281980&t=48)** The UX field is broad, and the definition of UX seems to be changing frequently.
 >
@@ -495,7 +489,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-experience-ux-and-website-planning?u=76281980&t=104)** For example, an information architect often focuses on organization of information.
 >
-> **[1:50](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-experience-ux-and-website-planning?u=76281980&t=110)** This person may have a background in database design or in library science.
+> **[1:50](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-experience-ux-and-website-planning?u=76281980&t=110)** This person may have a background in [[Database Design]] or in library science.
 >
 > **[1:56](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-experience-ux-and-website-planning?u=76281980&t=116)** They're interested in classification, identifying and refining terms, and organizing the site or applications so that the information is easy to find.
 >
@@ -511,9 +505,9 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-experience-ux-and-website-planning?u=76281980&t=174)** UX professionals rarely write code themselves, however, they should understand the coding process so that they're better able to communicate with their team and understand what makes a codable interface.
 >
-> **[3:07](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-experience-ux-and-website-planning?u=76281980&t=187)** UX professionals use prototyping software to test their interfaces.
+> **[3:07](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-experience-ux-and-website-planning?u=76281980&t=187)** UX professionals use [[Prototyping]] software to test their interfaces.
 >
-> **[3:11](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-experience-ux-and-website-planning?u=76281980&t=191)** The most popular product for this is Figma, but Sketch, Adobe XD, Envision, or Balsamiq are other common choices among many others.
+> **[3:11](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-experience-ux-and-website-planning?u=76281980&t=191)** The most popular product for this is [[Figma (Software)|Figma]], but Sketch, [[Adobe XD]], Envision, or Balsamiq are other common choices among many others.
 >
 > **[3:21](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-experience-ux-and-website-planning?u=76281980&t=201)** And, finally, UX professionals rely heavily on sticky notes for creating workflows and organizing information.
 >
@@ -529,21 +523,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (18), product (6), [[Microsoft Products|Products]] (2), [[User Experience (UX)|User experience]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[User Experience (UX)|User experience]] (1), [[Google]] (1), [[Database Design]] (1), [[Prototyping]] (1)
 > **CLI Commands:** find (2)
 > **Tools:** figma (1)
 > **Definitions:** refers to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - user (1)
 
-#### Understanding user interface (UI) design
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-interface-ui-design?u=76281980)
+#### [Understanding user interface (UI) design](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-interface-ui-design?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-interface-ui-design?u=76281980&t=1)** - If you're into building instead of research.
 >
-> **[0:03](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-interface-ui-design?u=76281980&t=3)** And if you enjoy making things pretty, you might like the world of user interface design, or UI.
+> **[0:03](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-interface-ui-design?u=76281980&t=3)** And if you enjoy making things pretty, you might like the world of [[User Interface Design]], or UI.
 >
 > **[0:10](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-interface-ui-design?u=76281980&t=10)** UI designers focus on the interface, or the front end of the website or application.
 >
@@ -561,7 +554,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-interface-ui-design?u=76281980&t=52)** You may have some expertise in animation, and on the web, those animations happen through code.
 >
-> **[0:58](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-interface-ui-design?u=76281980&t=58)** You'll certainly know HTML and CSS, and you'll probably know a bit of JavaScript as well.
+> **[0:58](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-interface-ui-design?u=76281980&t=58)** You'll certainly know [[HTML]] and CSS, and you'll probably know a bit of [[JavaScript]] as well.
 >
 > **[1:05](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-interface-ui-design?u=76281980&t=65)** However, JavaScript will focus on the interface primarily and much less on other aspects of programming.
 >
@@ -569,19 +562,19 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-interface-ui-design?u=76281980&t=83)** As the UI designer bridges research and programming, they're familiar with tons of software.
 >
-> **[1:30](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-interface-ui-design?u=76281980&t=90)** They are experts in Figma, Adobe XD, or similar prototyping tools that the UX team uses.
+> **[1:30](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-interface-ui-design?u=76281980&t=90)** They are experts in [[Figma (Software)|Figma]], [[Adobe XD]], or similar [[Prototyping]] tools that the UX team uses.
 >
-> **[1:38](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-interface-ui-design?u=76281980&t=98)** They know a little bit about the Adobe products that the graphic design team uses for making logos, icons, and other graphics.
+> **[1:38](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-interface-ui-design?u=76281980&t=98)** They know a little bit about the Adobe [[Microsoft Products|products]] that the [[Graphic Design]] team uses for making logos, icons, and other graphics.
 >
 > **[1:46](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-interface-ui-design?u=76281980&t=106)** They also have software for editing code.
 >
 > **[1:49](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-interface-ui-design?u=76281980&t=109)** Examples include Sublime Text, VS Code, Brackets, or Adam.
 >
-> **[1:55](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-interface-ui-design?u=76281980&t=115)** Commonly, UI specialists will also interface with the command line and services like Git, GitHub, and Node.js UI designers have mixed days in terms of meetings and focused work.
+> **[1:55](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-interface-ui-design?u=76281980&t=115)** Commonly, UI specialists will also interface with the command line and services like [[Git]], [[GitHub]], and [[Node.js]] UI designers have mixed days in terms of meetings and focused work.
 >
 > **[2:08](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-interface-ui-design?u=76281980&t=128)** When handing off projects from UX or to the programming team, there may be many meetings required to make a smooth transition.
 >
-> **[2:17](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-interface-ui-design?u=76281980&t=137)** However, there may be other days or weeks, the UI designer is working alone, creating animations or code to reflect the plans from the UX research.
+> **[2:17](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-interface-ui-design?u=76281980&t=137)** However, there may be other days or weeks, the UI designer is working alone, creating animations or code to reflect the plans from the [[UX Research]].
 >
 > **[2:27](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-interface-ui-design?u=76281980&t=147)** Giving and receiving respectful feedback well will also be an important part of the Workday.
 >
@@ -589,7 +582,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-interface-ui-design?u=76281980&t=155)** Want to give it a go?
 >
-> **[2:36](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-interface-ui-design?u=76281980&t=156)** There are several possible learning paths for user interface and web design.
+> **[2:36](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-interface-ui-design?u=76281980&t=156)** There are several possible learning paths for user interface and [[Web Design]].
 >
 > **[2:41](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-interface-ui-design?u=76281980&t=161)** Beef up your prototyping skills with the Improve Your UX Prototyping Skills learning path.
 >
@@ -603,7 +596,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), ux (5), [[Programming]] (4), [[JavaScript]] (3), [[Prototyping]] (3)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[Prototyping]] (3), [[HTML]] (2), [[Web Design]] (2), [[User Interface Design]] (1)
 > **Tools:** figma (1), sublime (1), vs code (1), command line (1), github (1)
 > **Env Vars:** html (2), css (2)
 > **CLI Commands:** git (1), node (1), make (1)
@@ -611,12 +604,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - if (1)
 
-#### Prototyping tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/prototyping-tools?u=76281980)
+#### [Prototyping tools](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/prototyping-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/prototyping-tools?u=76281980&t=1)** - Prototyping is the process of creating a model of a future product.
+> **[0:01](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/prototyping-tools?u=76281980&t=1)** - [[Prototyping]] is the process of creating a model of a future product.
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/prototyping-tools?u=76281980&t=5)** A prototype needs to be created quickly and changed easily because it's likely that several versions of a prototype will be required before the right version is created.
 >
@@ -640,7 +632,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/prototyping-tools?u=76281980&t=75)** Let's take a quick peek at some prototyping software to see how this type of software looks and functions.
 >
-> **[1:22](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/prototyping-tools?u=76281980&t=82)** - This is Figma.
+> **[1:22](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/prototyping-tools?u=76281980&t=82)** - This is [[Figma (Software)|Figma]].
 >
 > **[1:23](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/prototyping-tools?u=76281980&t=83)** You can sign up for a free account at [figma.com](https://figma.com).
 >
@@ -676,7 +668,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/prototyping-tools?u=76281980&t=181)** There's that tiny emoji up there at the top.
 >
-> **[3:04](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/prototyping-tools?u=76281980&t=184)** You of course can zoom in or zoom out, zoom to fit, whatever is best for you.
+> **[3:04](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/prototyping-tools?u=76281980&t=184)** You of course can [[Zoom]] in or zoom out, zoom to fit, whatever is best for you.
 >
 > **[3:10](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/prototyping-tools?u=76281980&t=190)** Let's zoom in a little bit.
 >
@@ -722,9 +714,9 @@ created: 2026-05-02
 >
 > **[4:57](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/prototyping-tools?u=76281980&t=297)** So this is somewhat the same, but also somewhat different.
 >
-> **[5:01](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/prototyping-tools?u=76281980&t=301)** The FigJam functionality I think would be most used by people who are working with user experience.
+> **[5:01](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/prototyping-tools?u=76281980&t=301)** The FigJam functionality I think would be most used by people who are working with [[User Experience (UX)|user experience]].
 >
-> **[5:07](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/prototyping-tools?u=76281980&t=307)** In other words, they are researching and planning some kind of document rather than putting together the actual graphic design or a true interface prototype.
+> **[5:07](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/prototyping-tools?u=76281980&t=307)** In other words, they are researching and planning some kind of document rather than putting together the actual [[Graphic Design]] or a true interface prototype.
 >
 > **[5:17](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/prototyping-tools?u=76281980&t=317)** This is from earlier in the process of developing a website or web application.
 >
@@ -778,13 +770,13 @@ created: 2026-05-02
 >
 > **[7:41](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/prototyping-tools?u=76281980&t=461)** There are two sides to Figma.
 >
-> **[7:43](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/prototyping-tools?u=76281980&t=463)** Side number one that I'm looking at right here is this whiteboarding, sticky note, planning, diagramming type of tool which is called FigJam.
+> **[7:43](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/prototyping-tools?u=76281980&t=463)** Side number one that I'm looking at right here is this whiteboarding, sticky note, planning, [[Diagramming]] type of tool which is called FigJam.
 >
 > **[7:53](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/prototyping-tools?u=76281980&t=473)** And the other side of it is more typically used for planning webpages and prototyping site designs, where you can put in all kinds of pretty elements to the interface, line things up, and truly draw out what a webpage will look like.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (10), [[Prototyping]] (6), [[Zoom]] (6), product (3), web application (2)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (10), [[Prototyping]] (6), [[Zoom]] (6), [[User Experience (UX)|User experience]] (1), [[Graphic Design]] (1)
 > **CLI Commands:** make (9), find (1)
 > **Tools:** figma (10)
 > **Definitions:** is a  (5), in other words (1), is called (1)
@@ -793,12 +785,11 @@ created: 2026-05-02
 > **Speakers:** - prototyping (1), - this (1)
 > **URLs:** [figma.com](https://figma.com) (1)
 
-#### Graphic design tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/graphic-design-tools?u=76281980)
+#### [Graphic design tools](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/graphic-design-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/graphic-design-tools?u=76281980&t=1)** - These days, it seems like everyone is doing a little graphic design, creating PowerPoint slides, social media illustrations, and logos for side hustles.
+> **[0:01](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/graphic-design-tools?u=76281980&t=1)** - These days, it seems like everyone is doing a little [[Graphic Design]], creating [[Microsoft PowerPoint|PowerPoint]] slides, social media illustrations, and logos for side hustles.
 >
 > **[0:10](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/graphic-design-tools?u=76281980&t=10)** However, for other people, graphic design is the focus of their career.
 >
@@ -836,11 +827,11 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/graphic-design-tools?u=76281980&t=109)** However, Affinity Photo offers a familiar Photoshop-like interface and many of the critical features needed for retouching photos and creating beautiful raster graphics.
 >
-> **[2:02](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/graphic-design-tools?u=76281980&t=122)** Many graphic designers are starting to incorporate Figma into their work as well.
+> **[2:02](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/graphic-design-tools?u=76281980&t=122)** Many graphic designers are starting to incorporate [[Figma (Software)|Figma]] into their work as well.
 >
-> **[2:07](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/graphic-design-tools?u=76281980&t=127)** While Figma is primarily a prototyping tool, it does offer some basic graphic design tools for creating quick logos and other graphics for your site.
+> **[2:07](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/graphic-design-tools?u=76281980&t=127)** While Figma is primarily a [[Prototyping]] tool, it does offer some basic graphic design tools for creating quick logos and other graphics for your site.
 >
-> **[2:18](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/graphic-design-tools?u=76281980&t=138)** If you're not a professionally-trained graphic designer but you're called on to do the occasional graphic design work, you may want to take a look at Canva.
+> **[2:18](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/graphic-design-tools?u=76281980&t=138)** If you're not a professionally-trained graphic designer but you're called on to do the occasional graphic design work, you may want to take a look at [[Canva]].
 >
 > **[2:27](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/graphic-design-tools?u=76281980&t=147)** Canva offers a ton of templates to start many types of graphic design work.
 >
@@ -852,7 +843,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Graphic Design]] (6), [[Canva]] (3), [[Figma (Software)|Figma]] (2), [[Microsoft PowerPoint|Powerpoint]] (1), career (1)
+> **Frameworks & Libraries:** [[Graphic Design]] (6), [[Canva]] (3), [[Figma (Software)|Figma]] (2), [[Microsoft PowerPoint|Powerpoint]] (1), [[Prototyping]] (1)
 > **Env Vars:** svg (1), gif (1), png (1), jpeg (1)
 > **Tools:** figma (2)
 > **CLI Commands:** find (1)
@@ -864,18 +855,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding HTML
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-html?u=76281980)
+#### [Understanding HTML](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-html?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-html?u=76281980&t=1)** - HTML is the hypertext markup language.
+> **[0:01](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-html?u=76281980&t=1)** - [[HTML]] is the hypertext markup language.
 >
 > **[0:04](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-html?u=76281980&t=4)** HTML is all about identifying commonly used structural elements like paragraphs, headings, lists, links, and more.
 >
 > **[0:14](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-html?u=76281980&t=14)** Computers understand the structure of a document through this type of markup.
 >
-> **[0:19](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-html?u=76281980&t=19)** This will help with searching documents, search engine optimization and making documents accessible to those with disabilities.
+> **[0:19](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-html?u=76281980&t=19)** This will help with searching documents, [[Search Engine Optimization (SEO)|search engine optimization]] and making documents accessible to those with disabilities.
 >
 > **[0:28](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-html?u=76281980&t=28)** Let's go over those key points again.
 >
@@ -885,7 +875,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-html?u=76281980&t=40)** That's not part of HTML.
 >
-> **[0:42](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-html?u=76281980&t=42)** That's CSS, or cascading style sheets.
+> **[0:42](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-html?u=76281980&t=42)** That's CSS, or [[Cascading Style Sheets (CSS)|cascading style sheets]].
 >
 > **[0:46](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-html?u=76281980&t=46)** Your web browser has a certain unstyled look that it assigns to raw HTML, but HTML has no inherent look of its own.
 >
@@ -951,29 +941,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (12), css (2), [[Search Engine Optimization (SEO)|Search engine optimization]] (1), [[Cascading Style Sheets (CSS)|Cascading style sheets]] (1), web (1)
+> **Frameworks & Libraries:** [[HTML]] (12), [[Search Engine Optimization (SEO)|Search engine optimization]] (1), [[Cascading Style Sheets (CSS)|Cascading style sheets]] (1)
 > **Env Vars:** html (12), css (2)
 > **Definitions:** is an  (3), stands for (2), refers to (1), in other words (1)
 > **Speakers:** - html (1)
 
-#### Understanding CSS
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-css?u=76281980)
+#### [Understanding CSS](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-css?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-css?u=76281980&t=1)** - CSS stands for Cascading Style Sheets.
+> **[0:01](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-css?u=76281980&t=1)** - CSS stands for [[Cascading Style Sheets (CSS)|Cascading Style Sheets]].
 >
 > **[0:04](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-css?u=76281980&t=4)** If it looks pretty or if it arranges elements on a webpage, CSS is probably behind it in some way.
 >
 > **[0:12](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-css?u=76281980&t=12)** Stylesheets, as a concept, have existed in print and software for a long time.
 >
-> **[0:18](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-css?u=76281980&t=18)** Microsoft Word, for example, styles your documents in a certain way with certain fonts, margins and colors.
+> **[0:18](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-css?u=76281980&t=18)** [[Microsoft Word]], for example, styles your documents in a certain way with certain fonts, margins and colors.
 >
 > **[0:27](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-css?u=76281980&t=27)** The same is true with CSS.
 >
 > **[0:29](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-css?u=76281980&t=29)** Here, you'll declare that you want your document to use specific fonts, colors, spacing and layouts and the webpage should act accordingly.
 >
-> **[0:40](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-css?u=76281980&t=40)** HTML therefore simply outlines the structure of the webpage.
+> **[0:40](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-css?u=76281980&t=40)** [[HTML]] therefore simply outlines the structure of the webpage.
 >
 > **[0:45](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-css?u=76281980&t=45)** CSS gives it the overall look.
 >
@@ -1015,13 +1004,13 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-css?u=76281980&t=167)** CSS is a complex language which will take time to master just like any other language.
 >
-> **[2:54](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-css?u=76281980&t=174)** If you're a graphic designer or if you have design inclinations, CSS will be the most fun part of web development for you.
+> **[2:54](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-css?u=76281980&t=174)** If you're a graphic designer or if you have design inclinations, CSS will be the most fun part of [[Web Development]] for you.
 >
 > **[3:01](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-css?u=76281980&t=181)** You'll get to write a little CSS in the coming chapter.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (13), [[HTML]] (5), web (2), [[Cascading Style Sheets (CSS)|Cascading style sheets]] (1), [[Microsoft Word]] (1)
+> **Frameworks & Libraries:** [[HTML]] (5), [[Cascading Style Sheets (CSS)|Cascading style sheets]] (1), [[Microsoft Word]] (1), [[Web Development]] (1)
 > **Env Vars:** css (13), html (5)
 > **Definitions:** is a  (3), stands for (1)
 > **Analogies:** for example (1), just like (1)
@@ -1029,18 +1018,17 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - css (1)
 
-#### Understanding JavaScript
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-javascript?u=76281980)
+#### [Understanding JavaScript](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-javascript?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-javascript?u=76281980&t=1)** - Imagine the web as a rock band.
 >
-> **[0:03](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-javascript?u=76281980&t=3)** HTML would be like the bass and drums, creating a foundation for all of the other musicians in the band.
+> **[0:03](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-javascript?u=76281980&t=3)** [[HTML]] would be like the bass and drums, creating a foundation for all of the other musicians in the band.
 >
 > **[0:10](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-javascript?u=76281980&t=10)** CSS would be the rhythm guitar, establishing a bass chord structure for the music and filling in holes where the lead singer wasn't singing.
 >
-> **[0:20](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-javascript?u=76281980&t=20)** JavaScript be that lead singer.
+> **[0:20](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-javascript?u=76281980&t=20)** [[JavaScript]] be that lead singer.
 >
 > **[0:23](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-javascript?u=76281980&t=23)** Without JavaScript, we could have functional webpages, but they'd be a little boring.
 >
@@ -1054,9 +1042,9 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-javascript?u=76281980&t=53)** JavaScript is a scripting language invented in the mid-1990s by Netscape, the company behind an early web browser.
 >
-> **[1:02](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-javascript?u=76281980&t=62)** JavaScript and Java have nothing to do with each other.
+> **[1:02](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-javascript?u=76281980&t=62)** JavaScript and [[Java]] have nothing to do with each other.
 >
-> **[1:06](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-javascript?u=76281980&t=66)** Java is used more for applications, particularly in Android-based applications and in big data.
+> **[1:06](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-javascript?u=76281980&t=66)** Java is used more for applications, particularly in [[Android]]-based applications and in [[Big Data]].
 >
 > **[1:13](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-javascript?u=76281980&t=73)** JavaScript was born on the web and continues to live there.
 >
@@ -1064,7 +1052,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-javascript?u=76281980&t=86)** Since JavaScript is a programming language, it includes many of the same elements you find with other languages.
 >
-> **[1:33](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-javascript?u=76281980&t=93)** For example, it includes variables, control structures, like if/else and loops, data structures like arrays, and so forth.
+> **[1:33](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-javascript?u=76281980&t=93)** For example, it includes variables, control structures, like if/else and loops, [[Data Structures]] like arrays, and so forth.
 >
 > **[1:43](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-javascript?u=76281980&t=103)** Frequently, JavaScript executes in response to events on the webpage.
 >
@@ -1082,15 +1070,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (14), [[HTML]] (4), web (3), css (3), [[Java]] (2)
+> **Frameworks & Libraries:** [[JavaScript]] (14), [[HTML]] (4), [[Java]] (2), [[Android]] (1), [[Big Data]] (1)
 > **Env Vars:** html (4), css (3)
 > **Analogies:** for example (2), imagine (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - imagine (1)
 
-#### What is a framework?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-a-framework?u=76281980)
+#### [What is a framework?](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-a-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1098,19 +1085,19 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-a-framework?u=76281980&t=6)** In this context, a framework is some pre-written code that you may use to create all or part of your website or web application.
 >
-> **[0:15](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-a-framework?u=76281980&t=15)** Frameworks often consist of CSS and JavaScript.
+> **[0:15](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-a-framework?u=76281980&t=15)** Frameworks often consist of CSS and [[JavaScript]].
 >
-> **[0:19](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-a-framework?u=76281980&t=19)** Some rely on your HTML being crafted in a specific way for the framework to function correctly.
+> **[0:19](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-a-framework?u=76281980&t=19)** Some rely on your [[HTML]] being crafted in a specific way for the framework to function correctly.
 >
 > **[0:26](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-a-framework?u=76281980&t=26)** A commonly used framework that's beginner-friendly is Bootstrap, found at [getbootstrap.com](https://getbootstrap.com).
 >
 > **[0:34](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-a-framework?u=76281980&t=34)** Originally released in 2011, Bootstrap originally functioned as a fast and easy way to create responsive websites.
 >
-> **[0:43](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-a-framework?u=76281980&t=43)** With Bootstrap, you may create website layouts, buttons, color and font schemes and functionality like dropdowns, hamburger buttons, accordions and modal windows.
+> **[0:43](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-a-framework?u=76281980&t=43)** With Bootstrap, you may create website layouts, buttons, color and font schemes and functionality like dropdowns, hamburger buttons, accordions and modal [[Windows]].
 >
 > **[0:56](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-a-framework?u=76281980&t=56)** More recently, JavaScript frameworks have become wildly popular.
 >
-> **[1:01](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-a-framework?u=76281980&t=61)** Facebook's React, Open-source Vue and Google's Angular are the three most encountered frameworks for front-end development.
+> **[1:01](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-a-framework?u=76281980&t=61)** Facebook's [[React.js|React]], Open-source [[Vue.js|Vue]] and [[Google]]'s [[Angular]] are the three most encountered frameworks for [[Front-End Development]].
 >
 > **[1:11](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-a-framework?u=76281980&t=71)** Frameworks in general are often used for two major reasons in programming.
 >
@@ -1132,17 +1119,17 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-a-framework?u=76281980&t=125)** However, someone has already conceptualized the item you'll build with the kit.
 >
-> **[2:11](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-a-framework?u=76281980&t=131)** Someone has given you all of the assembly hardware required plus the instructions to put it together.
+> **[2:11](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-a-framework?u=76281980&t=131)** Someone has given you all of the assembly [[Hardware]] required plus the instructions to put it together.
 >
 > **[2:17](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-a-framework?u=76281980&t=137)** You're adding your own special touches and considerations to make the perfect custom piece of furniture that you want without paying a custom price.
 >
 > **[2:26](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-a-framework?u=76281980&t=146)** The other reason developers love frameworks has a darker side.
 >
-> **[2:30](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-a-framework?u=76281980&t=150)** Frameworks may also serve as a crutch in web development.
+> **[2:30](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-a-framework?u=76281980&t=150)** Frameworks may also serve as a crutch in [[Web Development]].
 >
 > **[2:35](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-a-framework?u=76281980&t=155)** Rather than truly learning HTML, CSS and JavaScript and using a framework for a productivity boost, developers instead use a framework as a crutch to build something they're otherwise incapable of building on their own.
 >
-> **[2:50](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-a-framework?u=76281980&t=170)** Unfortunately, these products are all over the web.
+> **[2:50](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-a-framework?u=76281980&t=170)** Unfortunately, these [[Microsoft Products|products]] are all over the web.
 >
 > **[2:54](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-a-framework?u=76281980&t=174)** Applications that are poorly constructed, slow to load and full of security and usability problems.
 >
@@ -1152,7 +1139,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), [[JavaScript]] (4), css (3), [[HTML]] (3), web application (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[HTML]] (3), [[Windows]] (1), [[React.js|React]] (1), [[Vue.js|Vue]] (1)
 > **Env Vars:** css (3), html (3)
 > **CLI Commands:** make (2)
 > **URLs:** [getbootstrap.com](https://getbootstrap.com) (1)
@@ -1164,14 +1151,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing writing code using CodePen
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/introducing-writing-code-using-codepen?u=76281980)
+#### [Introducing writing code using CodePen](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/introducing-writing-code-using-codepen?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/introducing-writing-code-using-codepen?u=76281980&t=1)** - To write code for the web, we need a code editor.
 >
-> **[0:04](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/introducing-writing-code-using-codepen?u=76281980&t=4)** CodePen is a popular online tool used for sharing code, practicing coding techniques and inspiring other developers.
+> **[0:04](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/introducing-writing-code-using-codepen?u=76281980&t=4)** [[CodePen]] is a popular online tool used for sharing code, practicing coding techniques and inspiring other developers.
 >
 > **[0:12](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/introducing-writing-code-using-codepen?u=76281980&t=12)** It's located at [codepen.io](https://codepen.io) and it offers a free account which is perfect for your work in this course.
 >
@@ -1179,7 +1165,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/introducing-writing-code-using-codepen?u=76281980&t=25)** Click on the Start Coding button in the upper-left to create a pen or a blank screen where you can start coding.
 >
-> **[0:34](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/introducing-writing-code-using-codepen?u=76281980&t=34)** You'll see three boxes on the top of the screen, which are there to write HTML, CSS and JavaScript.
+> **[0:34](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/introducing-writing-code-using-codepen?u=76281980&t=34)** You'll see three boxes on the top of the screen, which are there to write [[HTML]], CSS and [[JavaScript]].
 >
 > **[0:43](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/introducing-writing-code-using-codepen?u=76281980&t=43)** Underneath, you'll see a larger window spanning across three columns.
 >
@@ -1249,7 +1235,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (6), [[CodePen]] (4), css (3), [[JavaScript]] (2), next (2)
+> **Frameworks & Libraries:** [[HTML]] (6), [[CodePen]] (4), [[JavaScript]] (2)
 > **Env Vars:** html (6), css (3), ff0000 (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (2)
@@ -1257,8 +1243,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - to (1)
 
-#### Writing HTML
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/writing-html?u=76281980)
+#### [Writing HTML](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/writing-html?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1272,13 +1257,13 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/writing-html?u=76281980&t=16)** When you click the button again, the blue box disappears.
 >
-> **[0:20](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/writing-html?u=76281980&t=20)** Anytime you start writing code for the web, that always starts with HTML.
+> **[0:20](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/writing-html?u=76281980&t=20)** Anytime you start writing code for the web, that always starts with [[HTML]].
 >
 > **[0:25](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/writing-html?u=76281980&t=25)** Let's look at our demo page and decide what we need.
 >
 > **[0:28](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/writing-html?u=76281980&t=28)** First, we need a button.
 >
-> **[0:30](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/writing-html?u=76281980&t=30)** Because this button is clickable through JavaScript, we'll use the button element to set this up.
+> **[0:30](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/writing-html?u=76281980&t=30)** Because this button is clickable through [[JavaScript]], we'll use the button element to set this up.
 >
 > **[0:37](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/writing-html?u=76281980&t=37)** Second, we'll need some kind of box to contain our text.
 >
@@ -1288,13 +1273,13 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/writing-html?u=76281980&t=54)** With that in mind, let's start coding.
 >
-> **[0:57](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/writing-html?u=76281980&t=57)** To get started here in CodePen, we're going to go to the left column and look for pen.
+> **[0:57](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/writing-html?u=76281980&t=57)** To get started here in [[CodePen]], we're going to go to the left column and look for pen.
 >
 > **[1:03](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/writing-html?u=76281980&t=63)** And you'll see here that we have the option of writing a couple of kinds of pens, we want just the generic one.
 >
 > **[1:10](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/writing-html?u=76281980&t=70)** And your screen may look a little bit different than mine as you get started that's because I have different things in my copy of CodePen than you have in yours.
 >
-> **[1:20](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/writing-html?u=76281980&t=80)** Don't worry too much about the rest of the screen.
+> **[1:20](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/writing-html?u=76281980&t=80)** Don't worry too much about the [[Representational State Transfer (REST)|rest]] of the screen.
 >
 > **[1:22](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/writing-html?u=76281980&t=82)** You just want to click on this button right here that says pen, to make a new pen.
 >
@@ -1322,7 +1307,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/writing-html?u=76281980&t=166)** It's going to be a button.
 >
-> **[2:49](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/writing-html?u=76281980&t=169)** So we're going to use the button element here, which starts with a angle bracket and the word button and then closes the same way that you saw before.
+> **[2:49](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/writing-html?u=76281980&t=169)** So we're going to use the button element here, which starts with a angle bracket and the [[Microsoft Word|word]] button and then closes the same way that you saw before.
 >
 > **[3:03](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/writing-html?u=76281980&t=183)** So it'll say button and then /button on the other side.
 >
@@ -1406,7 +1391,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (8), web (4), [[CodePen]] (4), next (2), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[HTML]] (8), [[CodePen]] (4), [[Microsoft Word|Word]] (2), [[JavaScript]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** html (8), css (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** previous video (1), as you saw (1)
@@ -1415,12 +1400,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** before we start (1)
 
-#### Writing CSS
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/writing-css?u=76281980)
+#### [Writing CSS](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/writing-css?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/writing-css?u=76281980&t=1)** - We have our HTML structure in place, but wow, we can make this look more appealing.
+> **[0:01](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/writing-css?u=76281980&t=1)** - We have our [[HTML]] structure in place, but wow, we can make this look more appealing.
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/writing-css?u=76281980&t=6)** That's where CSS comes in.
 >
@@ -1438,7 +1422,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/writing-css?u=76281980&t=42)** Let's start writing some CSS.
 >
-> **[0:45](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/writing-css?u=76281980&t=45)** So we'll start by styling our button by going to our CSS panel and typing in the word button.
+> **[0:45](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/writing-css?u=76281980&t=45)** So we'll start by styling our button by going to our CSS panel and typing in the [[Microsoft Word|word]] button.
 >
 > **[0:52](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/writing-css?u=76281980&t=52)** This is going to style all of the buttons in our document the same way.
 >
@@ -1584,13 +1568,13 @@ created: 2026-05-02
 >
 > **[7:31](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/writing-css?u=76281980&t=451)** It changes color on hover, but on click, it doesn't do anything.
 >
-> **[7:35](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/writing-css?u=76281980&t=455)** Clicking is in the realm of JavaScript, and we have our box the blue that we want it to look like when we see it, but remember we want it to start without this box visible.
+> **[7:35](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/writing-css?u=76281980&t=455)** Clicking is in the realm of [[JavaScript]], and we have our box the blue that we want it to look like when we see it, but remember we want it to start without this box visible.
 >
 > **[7:47](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/writing-css?u=76281980&t=467)** So these are things that we're going to need to change with JavaScript.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (9), [[Microsoft Word|Word]] (7), [[HTML]] (2), next (2), [[JavaScript]] (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), [[HTML]] (2), [[JavaScript]] (2)
 > **Env Vars:** css (9), html (2), f2c33c (1)
 > **CLI Commands:** make (8)
 > **Definitions:** is a  (3), is called (1), in other words (1)
@@ -1598,8 +1582,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - we (1)
 
-#### Writing JavaScript
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/writing-javascript?u=76281980)
+#### [Writing JavaScript](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/writing-javascript?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1613,7 +1596,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/writing-javascript?u=76281980&t=18)** CSS has a hover state but it doesn't have a click state.
 >
-> **[0:22](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/writing-javascript?u=76281980&t=22)** Any time we start thinking about clicking, we must think about JavaScript.
+> **[0:22](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/writing-javascript?u=76281980&t=22)** Any time we start thinking about clicking, we must think about [[JavaScript]].
 >
 > **[0:27](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/writing-javascript?u=76281980&t=27)** Before we jump into writing this JavaScript, let's finish up with the last tweaks we need to make to our CSS.
 >
@@ -1631,7 +1614,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/writing-javascript?u=76281980&t=68)** You can call CSS classes whatever you like.
 >
-> **[1:11](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/writing-javascript?u=76281980&t=71)** And they will very happily sit here inside of your CSS, even if they are not used in your HTML.
+> **[1:11](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/writing-javascript?u=76281980&t=71)** And they will very happily sit here inside of your CSS, even if they are not used in your [[HTML]].
 >
 > **[1:19](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/writing-javascript?u=76281980&t=79)** So here I have a class of showing that doesn't exist in my HTML.
 >
@@ -1701,7 +1684,7 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/writing-javascript?u=76281980&t=238)** Now let's go add our second line of code.
 >
-> **[4:00](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/writing-javascript?u=76281980&t=240)** If we switch back over to our exercise files, I'm going to copy that second line of code here and I'm going to drop it into my CodePen.
+> **[4:00](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/writing-javascript?u=76281980&t=240)** If we switch back over to our exercise files, I'm going to copy that second line of code here and I'm going to drop it into my [[CodePen]].
 >
 > **[4:10](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/writing-javascript?u=76281980&t=250)** And we'll just erase what was there and drop this in.
 >
@@ -1757,7 +1740,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (12), css (10), [[HTML]] (8), web (2), [[CodePen]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (12), [[HTML]] (8), [[CodePen]] (1)
 > **Env Vars:** css (10), html (8)
 > **CLI Commands:** make (6), find (5)
 > **Definitions:** is a  (3), in other words (1)
@@ -1766,18 +1749,17 @@ created: 2026-05-02
 > **Analogies:** similar to (1), just like (1)
 > **Code Identifiers:** queryselector (1)
 
-#### Challenge: Write HTML and CSS
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/challenge-write-html-and-css?u=76281980)
+#### [Challenge: Write HTML and CSS](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/challenge-write-html-and-css?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/challenge-write-html-and-css?u=76281980&t=0)** - [Instructor] I have a challenge for you.
 >
-> **[0:07](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/challenge-write-html-and-css?u=76281980&t=7)** This will give a bit of practice working with HTML and CSS.
+> **[0:07](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/challenge-write-html-and-css?u=76281980&t=7)** This will give a bit of practice working with [[HTML]] and CSS.
 >
 > **[0:11](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/challenge-write-html-and-css?u=76281980&t=11)** Ready?
 >
-> **[0:12](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/challenge-write-html-and-css?u=76281980&t=12)** For this challenge, open and fork this CodePen, or if you're continuing from the previous video, continue to use your own code.
+> **[0:12](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/challenge-write-html-and-css?u=76281980&t=12)** For this challenge, open and fork this [[CodePen]], or if you're continuing from the previous video, continue to use your own code.
 >
 > **[0:21](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/challenge-write-html-and-css?u=76281980&t=21)** And make at least three changes to enhance this web page.
 >
@@ -1819,7 +1801,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), [[CodePen]] (3), [[HTML]] (2), web (1), next (1)
+> **Frameworks & Libraries:** [[CodePen]] (3), [[HTML]] (2)
 > **Env Vars:** css (3), html (2)
 > **CLI Commands:** make (4)
 > **Cross-References:** previous video (1), in the next (1)
@@ -1828,8 +1810,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Write HTML and CSS
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/solution-write-html-and-css?u=76281980)
+#### [Solution: Write HTML and CSS](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/solution-write-html-and-css?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1841,7 +1822,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/solution-write-html-and-css?u=76281980&t=14)** If your button still works the way it did before we started making modifications, then you have a great solution to the challenge.
 >
-> **[0:21](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/solution-write-html-and-css?u=76281980&t=21)** I made a bunch of changes to my HTML and CSS.
+> **[0:21](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/solution-write-html-and-css?u=76281980&t=21)** I made a bunch of changes to my [[HTML]] and CSS.
 >
 > **[0:24](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/solution-write-html-and-css?u=76281980&t=24)** Here's the changes that I made.
 >
@@ -1889,7 +1870,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (4), [[HTML]] (3)
+> **Frameworks & Libraries:** [[HTML]] (3)
 > **Env Vars:** css (4), html (3)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** just like (1), similar to (1)
@@ -1902,18 +1883,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Choosing an editor for writing code
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/choosing-an-editor-for-writing-code?u=76281980)
+#### [Choosing an editor for writing code](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/choosing-an-editor-for-writing-code?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/choosing-an-editor-for-writing-code?u=76281980&t=1)** - If you're sold on writing code, you'll need to get an editor for writing it.
 >
-> **[0:06](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/choosing-an-editor-for-writing-code?u=76281980&t=6)** CodePen is an awesome way to learn code, experiment quickly or share code with others, but it's not a long-term development environment.
+> **[0:06](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/choosing-an-editor-for-writing-code?u=76281980&t=6)** [[CodePen]] is an awesome way to learn code, experiment quickly or share code with others, but it's not a long-term development environment.
 >
-> **[0:13](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/choosing-an-editor-for-writing-code?u=76281980&t=13)** At its simplest, you need a text editor to edit your HTML, CSS and JavaScript coding files.
+> **[0:13](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/choosing-an-editor-for-writing-code?u=76281980&t=13)** At its simplest, you need a text editor to edit your [[HTML]], CSS and [[JavaScript]] coding files.
 >
-> **[0:20](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/choosing-an-editor-for-writing-code?u=76281980&t=20)** Notepad on Windows or Text Edit on Mac are already present on your computer.
+> **[0:20](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/choosing-an-editor-for-writing-code?u=76281980&t=20)** Notepad on [[Windows]] or Text Edit on Mac are already present on your computer.
 >
 > **[0:26](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/choosing-an-editor-for-writing-code?u=76281980&t=26)** However, these programs are somewhat lacking, starting with the code isn't color-coded, making it harder to read and find errors.
 >
@@ -1927,15 +1907,15 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/choosing-an-editor-for-writing-code?u=76281980&t=51)** Currently, the editor that most developers seem to use is called Visual Studio Code, or VS Code.
 >
-> **[0:59](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/choosing-an-editor-for-writing-code?u=76281980&t=59)** It's free, runs on Windows, Mac and Linux and it comes from Microsoft.
+> **[0:59](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/choosing-an-editor-for-writing-code?u=76281980&t=59)** It's free, runs on Windows, Mac and [[Linux]] and it comes from [[Microsoft]].
 >
-> **[1:04](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/choosing-an-editor-for-writing-code?u=76281980&t=64)** You'll see VS Code used in a number of LinkedIn Learning courses, including many of my own.
+> **[1:04](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/choosing-an-editor-for-writing-code?u=76281980&t=64)** You'll see VS Code used in a number of [[LinkedIn]] Learning courses, including many of my own.
 >
 > **[1:10](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/choosing-an-editor-for-writing-code?u=76281980&t=70)** Recently, VS Code was made to run directly in a web browser.
 >
 > **[1:14](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/choosing-an-editor-for-writing-code?u=76281980&t=74)** You can access this version of VS Code at [vscode.dev](https://vscode.dev).
 >
-> **[1:20](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/choosing-an-editor-for-writing-code?u=76281980&t=80)** Another favorite is Atom at [atom.io](https://atom.io) from GitHub.
+> **[1:20](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/choosing-an-editor-for-writing-code?u=76281980&t=80)** Another favorite is Atom at [atom.io](https://atom.io) from [[GitHub]].
 >
 > **[1:25](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/choosing-an-editor-for-writing-code?u=76281980&t=85)** Atom is also free and runs on Mac, Linux and Windows.
 >
@@ -1951,7 +1931,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/choosing-an-editor-for-writing-code?u=76281980&t=122)** Adobe has released Brackets as an open source project, which will be maintained by the Brackets community going forward.
 >
-> **[2:09](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/choosing-an-editor-for-writing-code?u=76281980&t=129)** Finally, Sublime Text was favored by the web development community for years, but it's recently fallen out of favor.
+> **[2:09](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/choosing-an-editor-for-writing-code?u=76281980&t=129)** Finally, Sublime Text was favored by the [[Web Development]] community for years, but it's recently fallen out of favor.
 >
 > **[2:16](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/choosing-an-editor-for-writing-code?u=76281980&t=136)** It's located at [sublimetext.com](https://sublimetext.com) and has a fee of $80 to use the editor.
 >
@@ -1974,18 +1954,17 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - if (1)
 
-#### Keeping files organized with GitHub
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/keeping-files-organized-with-github?u=76281980)
+#### [Keeping files organized with GitHub](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/keeping-files-organized-with-github?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/keeping-files-organized-with-github?u=76281980&t=1)** - GitHub is a technology that's used throughout web development.
+> **[0:01](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/keeping-files-organized-with-github?u=76281980&t=1)** - [[GitHub]] is a technology that's used throughout [[Web Development]].
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/keeping-files-organized-with-github?u=76281980&t=5)** Unfortunately, there are few explanations that describe what its purpose is.
 >
-> **[0:10](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/keeping-files-organized-with-github?u=76281980&t=10)** Let's talk about Git, GitHub, and why these tools are so important in today's development environments.
+> **[0:10](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/keeping-files-organized-with-github?u=76281980&t=10)** Let's talk about [[Git]], GitHub, and why these tools are so important in today's development environments.
 >
-> **[0:18](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/keeping-files-organized-with-github?u=76281980&t=18)** If you've ever created a Microsoft Word document, your probably familiar with versioning.
+> **[0:18](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/keeping-files-organized-with-github?u=76281980&t=18)** If you've ever created a [[Microsoft Word]] document, your probably familiar with versioning.
 >
 > **[0:24](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/keeping-files-organized-with-github?u=76281980&t=24)** Document final, document final-final, document-the real final, and so forth until you think you've done what more changes are made.
 >
@@ -2041,13 +2020,13 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/keeping-files-organized-with-github?u=76281980&t=163)** The maintenance team will decide which pull requests should be included if any in the released versions of Bootstrap.
 >
-> **[2:52](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/keeping-files-organized-with-github?u=76281980&t=172)** The LinkedIn Learning Library offers many courses for all levels of expertise on Git and GitHub.
+> **[2:52](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/keeping-files-organized-with-github?u=76281980&t=172)** The [[LinkedIn]] Learning Library offers many courses for all levels of expertise on Git and GitHub.
 >
 > **[2:58](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/keeping-files-organized-with-github?u=76281980&t=178)** So if you'd like to know more about this important aspect of web development, check the library for more information.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (10), [[Git]] (10), [[Web Development]] (2), [[Microsoft Word]] (1), management (1)
+> **Frameworks & Libraries:** [[GitHub]] (10), [[Git]] (10), [[Web Development]] (2), [[Microsoft Word]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** git (10), make (1)
 > **Tools:** github (10), command line (1)
 > **Definitions:** is a  (2)
@@ -2055,14 +2034,13 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - github (1)
 
-#### Choosing a web host
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/choosing-a-web-host?u=76281980)
+#### [Choosing a web host](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/choosing-a-web-host?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/choosing-a-web-host?u=76281980&t=1)** - Websites are only visible to the general public if their web server is also accessible to the public.
 >
-> **[0:07](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/choosing-a-web-host?u=76281980&t=7)** when web server software runs on web server hardware, and that system is maintained by a company who will sell you some space on it, that's referred to as a web host or hosting.
+> **[0:07](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/choosing-a-web-host?u=76281980&t=7)** when web server software runs on web server [[Hardware]], and that system is maintained by a company who will sell you some space on it, that's referred to as a web host or hosting.
 >
 > **[0:20](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/choosing-a-web-host?u=76281980&t=20)** While you can host your own own website on your own computer, you really shouldn't.
 >
@@ -2072,11 +2050,11 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/choosing-a-web-host?u=76281980&t=36)** Fortunately, web hosting is relatively inexpensive, and there are many, many companies offering it.
 >
-> **[0:44](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/choosing-a-web-host?u=76281980&t=44)** If you're building a simple website with HTML, CSS, JavaScript, any web host will support you.
+> **[0:44](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/choosing-a-web-host?u=76281980&t=44)** If you're building a simple website with [[HTML]], CSS, [[JavaScript]], any web host will support you.
 >
 > **[0:51](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/choosing-a-web-host?u=76281980&t=51)** Indeed.
 >
-> **[0:52](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/choosing-a-web-host?u=76281980&t=52)** The simplest option may be through GitHub.
+> **[0:52](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/choosing-a-web-host?u=76281980&t=52)** The simplest option may be through [[GitHub]].
 >
 > **[0:54](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/choosing-a-web-host?u=76281980&t=54)** Using their free GitHub Pages Service at pages.[Github.com](https://Github.com) You may post your website code on Github, and view the site through their service.
 >
@@ -2112,21 +2090,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (12), [[GitHub]] (5), cloud (4), traffic (3), career (2)
+> **Frameworks & Libraries:** [[GitHub]] (5), [[Hardware]] (1), [[HTML]] (1), [[JavaScript]] (1)
 > **Tools:** github (5)
 > **Env Vars:** html (1), css (1), vps (1)
 > **URLs:** [github.com](https://github.com) (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - websites (1)
 
-#### Registering a domain name
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/registering-a-domain-name?u=76281980)
+#### [Registering a domain name](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/registering-a-domain-name?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/registering-a-domain-name?u=76281980&t=1)** - A domain name is the address for your website.
 >
-> **[0:04](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/registering-a-domain-name?u=76281980&t=4)** For example, www.[linkedin.com](https://linkedin.com) is the address for LinkedIn.
+> **[0:04](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/registering-a-domain-name?u=76281980&t=4)** For example, www.[[[LinkedIn]].com](https://linkedin.com) is the address for LinkedIn.
 >
 > **[0:10](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/registering-a-domain-name?u=76281980&t=10)** Domain names are often inexpensive and it's easy to purchase one or several for your website to go with your web hosting.
 >
@@ -2160,13 +2137,13 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/registering-a-domain-name?u=76281980&t=104)** Your web host may sell domain names for purchase which is often the easiest solution for those who are just starting out.
 >
-> **[1:52](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/registering-a-domain-name?u=76281980&t=112)** Alternatively, you may buy your name from a domain name registrar like domains, .google.
+> **[1:52](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/registering-a-domain-name?u=76281980&t=112)** Alternatively, you may buy your name from a domain name registrar like domains, .[[Google]].
 >
 > **[1:59](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/registering-a-domain-name?u=76281980&t=119)** Once you've purchased the name, you'll need to work with your web host to point the name from the registrar to the hosting.
 >
 > **[2:05](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/registering-a-domain-name?u=76281980&t=125)** Think of this as adding a road sign on the internet.
 >
-> **[2:09](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/registering-a-domain-name?u=76281980&t=129)** The sign is added by making changes to the DNS or domain name system.
+> **[2:09](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/registering-a-domain-name?u=76281980&t=129)** The sign is added by making changes to the DNS or [[Domain Name System (DNS)|domain name system]].
 >
 > **[2:15](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/registering-a-domain-name?u=76281980&t=135)** Your web hosting company and domain name registrar will have very explicit instructions for making these changes in connections.
 >
@@ -2192,7 +2169,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (6), [[LinkedIn]] (2), [[Google]] (1), dns (1), [[Domain Name System (DNS)|Domain name system]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Google]] (1), [[Domain Name System (DNS)|Domain name system]] (1)
 > **URLs:** [linkedin.com](https://linkedin.com) (1), [jenkramer.org](https://jenkramer.org) (1), [jenkramer.net](https://jenkramer.net) (1), [or.org](https://or.org) (1)
 > **Analogies:** for example (3)
 > **Prerequisites:** you'll need (2)
@@ -2206,18 +2183,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is the no-code movement?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-the-no-code-movement?u=76281980)
+#### [What is the no-code movement?](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-the-no-code-movement?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-the-no-code-movement?u=76281980&t=1)** - At the beginning of the web, all web pages were coded by hand using HTML.
+> **[0:01](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-the-no-code-movement?u=76281980&t=1)** - At the beginning of the web, all web pages were coded by hand using [[HTML]].
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-the-no-code-movement?u=76281980&t=6)** If you wanted a website, you'd have to learn how to write HTML, learn about FTP to put your files online, and learn about web hosting in order to get a site posted.
 >
 > **[0:17](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-the-no-code-movement?u=76281980&t=17)** Then along came some of the world's first no-code options for creating websites.
 >
-> **[0:22](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-the-no-code-movement?u=76281980&t=22)** Microsoft FrontPage and Macromedia Dreamweaver were among the first visual editors for creating webpages.
+> **[0:22](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-the-no-code-movement?u=76281980&t=22)** [[Microsoft]] FrontPage and Macromedia Dreamweaver were among the first visual editors for creating webpages.
 >
 > **[0:29](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-the-no-code-movement?u=76281980&t=29)** They automated posting sites to web hosts and allowed editing without having to learn HTML.
 >
@@ -2225,11 +2201,11 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-the-no-code-movement?u=76281980&t=40)** However, by the early 2000s, demand was growing for a system that would allow clients to create their own content online without involving an HTML developer.
 >
-> **[0:51](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-the-no-code-movement?u=76281980&t=51)** Big news sites like CNN had tools like this called content management systems.
+> **[0:51](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-the-no-code-movement?u=76281980&t=51)** Big news sites like CNN had tools like this called [[Content Management Systems (CMS)|content management systems]].
 >
 > **[0:57](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-the-no-code-movement?u=76281980&t=57)** However, they cost millions of dollars and had a very small market as a result.
 >
-> **[1:02](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-the-no-code-movement?u=76281980&t=62)** Around this time, Joomla, Drupal, and WordPress were born as the first open-source content management systems.
+> **[1:02](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-the-no-code-movement?u=76281980&t=62)** Around this time, Joomla, [[Drupal]], and [[WordPress]] were born as the first open-source content management systems.
 >
 > **[1:10](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-the-no-code-movement?u=76281980&t=70)** The software was free, but you had to install it on your web host yourself.
 >
@@ -2239,17 +2215,17 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-the-no-code-movement?u=76281980&t=84)** Indeed, today WordPress alone powers 40% of websites, according to W3Techs.
 >
-> **[1:31](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-the-no-code-movement?u=76281980&t=91)** As for sites running any content management system, WordPress runs 65.1% of those sites.
+> **[1:31](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-the-no-code-movement?u=76281980&t=91)** As for sites running any [[Content Management]] system, WordPress runs 65.1% of those sites.
 >
 > **[1:39](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-the-no-code-movement?u=76281980&t=99)** WordPress remains popular to this day as a low-code tool for building websites.
 >
-> **[1:45](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-the-no-code-movement?u=76281980&t=105)** Early in the 2010s, a new world opened in JavaScript adding web browser technologies such that more complicated interfaces could run in the web browser.
+> **[1:45](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-the-no-code-movement?u=76281980&t=105)** Early in the 2010s, a new world opened in [[JavaScript]] adding web browser technologies such that more complicated interfaces could run in the web browser.
 >
 > **[1:56](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-the-no-code-movement?u=76281980&t=116)** These advances powered a third wave of no-code tools for building websites.
 >
 > **[2:02](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-the-no-code-movement?u=76281980&t=122)** In 2021, these tools are finally coming to fruition as serious contenders for building the next generation of websites.
 >
-> **[2:10](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-the-no-code-movement?u=76281980&t=130)** With hundreds of millions of dollars in venture capital funding, this third wave of no-code web design tools is opening web design and web application development to those with little or no technology background or knowledge of HTML, CSS, or JavaScript.
+> **[2:10](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-the-no-code-movement?u=76281980&t=130)** With hundreds of millions of dollars in venture capital funding, this third wave of no-code [[Web Design]] tools is opening web design and [[Web Application Development]] to those with little or no technology background or knowledge of HTML, CSS, or JavaScript.
 >
 > **[2:28](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-the-no-code-movement?u=76281980&t=148)** Furthermore, these no-code and low-code solutions are making their way to professional development as well.
 >
@@ -2283,7 +2259,7 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-the-no-code-movement?u=76281980&t=243)** This next chapter explores the types of solutions currently available to address everyday problems on the web.
 >
-> **[4:10](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-the-no-code-movement?u=76281980&t=250)** After all, Microsoft, Amazon, and Google are actively monitoring this space.
+> **[4:10](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-the-no-code-movement?u=76281980&t=250)** After all, Microsoft, Amazon, and [[Google]] are actively monitoring this space.
 >
 > **[4:16](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-the-no-code-movement?u=76281980&t=256)** At Microsoft, a simple run of the numbers on how many apps will be built in the next five years shows how critical low-code and no-code software will become.
 >
@@ -2295,13 +2271,13 @@ created: 2026-05-02
 >
 > **[4:52](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-the-no-code-movement?u=76281980&t=292)** Professional developers should focus on harder challenges than another expense submission form or approval form."
 >
-> **[5:00](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-the-no-code-movement?u=76281980&t=300)** No-code may be viewed as an alternative path in web development now, but before long it will be the primary path to getting problems solved on the web.
+> **[5:00](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-the-no-code-movement?u=76281980&t=300)** No-code may be viewed as an alternative path in [[Web Development]] now, but before long it will be the primary path to getting problems solved on the web.
 >
 > **[5:09](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-the-no-code-movement?u=76281980&t=309)** Let's dive in and see what's happening in the no-code and low-code world today.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (13), [[HTML]] (5), [[Microsoft]] (5), [[WordPress]] (4), next (4)
+> **Frameworks & Libraries:** [[HTML]] (5), [[Microsoft]] (5), [[WordPress]] (4), [[Content Management Systems (CMS)|Content management systems]] (2), [[JavaScript]] (2)
 > **Env Vars:** html (5), ftp (1), cnn (1), css (1), api (1)
 > **Cross-References:** in the next (2), next chapter (1), in the last (1)
 > **Prerequisites:** install (1), configure (1)
@@ -2309,14 +2285,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - at (1)
 
-#### All-in-one solutions: Content management systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/all-in-one-solutions-content-management-systems?u=76281980)
+#### [All-in-one solutions: Content management systems](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/all-in-one-solutions-content-management-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/all-in-one-solutions-content-management-systems?u=76281980&t=1)** - Content management systems or CMS provided some of the earliest ways of creating websites that were editable by clients and provided lots of dynamic functionality.
+> **[0:01](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/all-in-one-solutions-content-management-systems?u=76281980&t=1)** - [[Content Management Systems (CMS)|Content management systems]] or CMS provided some of the earliest ways of creating websites that were editable by clients and provided lots of dynamic functionality.
 >
-> **[0:11](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/all-in-one-solutions-content-management-systems?u=76281980&t=11)** The big three open source CMSs remain Joomla!, Drupal and WordPress with WordPress powering 40% of the web alone.
+> **[0:11](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/all-in-one-solutions-content-management-systems?u=76281980&t=11)** The big three open source CMSs remain Joomla!, [[Drupal]] and [[WordPress]] with WordPress powering 40% of the web alone.
 >
 > **[0:19](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/all-in-one-solutions-content-management-systems?u=76281980&t=19)** Why is a CMS such a popular tool?
 >
@@ -2326,7 +2301,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/all-in-one-solutions-content-management-systems?u=76281980&t=33)** Blogging was in its infancy and a CMS offered an easy way to do this.
 >
-> **[0:38](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/all-in-one-solutions-content-management-systems?u=76281980&t=38)** Furthermore, clients had been asking for way to edit their own sites without knowing HTML for years.
+> **[0:38](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/all-in-one-solutions-content-management-systems?u=76281980&t=38)** Furthermore, clients had been asking for way to edit their own sites without knowing [[HTML]] for years.
 >
 > **[0:45](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/all-in-one-solutions-content-management-systems?u=76281980&t=45)** And these open source CMSs were among the first easy and inexpensive ways of doing this.
 >
@@ -2340,7 +2315,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/all-in-one-solutions-content-management-systems?u=76281980&t=81)** Plugins allow you to add extra functionality to make a more complete website.
 >
-> **[1:27](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/all-in-one-solutions-content-management-systems?u=76281980&t=87)** Now your WordPress site may also sell products, run a course, manage event registration or display a searchable database of movies.
+> **[1:27](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/all-in-one-solutions-content-management-systems?u=76281980&t=87)** Now your WordPress site may also sell [[Microsoft Products|products]], run a course, manage event registration or display a searchable database of movies.
 >
 > **[1:36](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/all-in-one-solutions-content-management-systems?u=76281980&t=96)** It may also do smaller things, like include a registration form, manage a calendar or run a community discussion forum.
 >
@@ -2366,7 +2341,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/all-in-one-solutions-content-management-systems?u=76281980&t=169)** This gives you maximum control over site configuration but it means that you are also responsible for backups, keeping the site secure against hacking and updating the software as updates are available.
 >
-> **[3:01](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/all-in-one-solutions-content-management-systems?u=76281980&t=181)** There may be a pre-installed software as a service option available as with [WordPress.com](https://WordPress.com).
+> **[3:01](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/all-in-one-solutions-content-management-systems?u=76281980&t=181)** There may be a pre-installed [[SaaS|software as a service]] option available as with [WordPress.com](https://WordPress.com).
 >
 > **[3:08](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/all-in-one-solutions-content-management-systems?u=76281980&t=188)** However, [WordPress.com](https://WordPress.com) is not as flexible for configuration as downloading WordPress and installing it yourself.
 >
@@ -2388,7 +2363,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cms (10), [[WordPress]] (8), [[Drupal]] (3), web (2), database (2)
+> **Frameworks & Libraries:** [[WordPress]] (8), [[Drupal]] (3), [[Microsoft Products|Products]] (2), [[Content Management Systems (CMS)|Content management systems]] (1), [[HTML]] (1)
 > **Env Vars:** cms (10), html (1)
 > **CLI Commands:** make (2), find (1)
 > **URLs:** [wordpress.com](https://wordpress.com) (2), [wordpres.com](https://wordpres.com) (1)
@@ -2397,8 +2372,7 @@ created: 2026-05-02
 > **Prerequisites:** install (2)
 > **UI Navigation:** drag and drop (1)
 
-#### Selling things online: Shopping cart solutions
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/selling-things-online-shopping-cart-solutions?u=76281980)
+#### [Selling things online: Shopping cart solutions](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/selling-things-online-shopping-cart-solutions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2408,7 +2382,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/selling-things-online-shopping-cart-solutions?u=76281980&t=10)** Shopping carts are integrated with some site builders like Squarespace or Wix.
 >
-> **[0:15](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/selling-things-online-shopping-cart-solutions?u=76281980&t=15)** You can send people to Amazon or Etsy to buy your products using their shopping cart.
+> **[0:15](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/selling-things-online-shopping-cart-solutions?u=76281980&t=15)** You can send people to Amazon or Etsy to buy your [[Microsoft Products|products]] using their shopping cart.
 >
 > **[0:21](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/selling-things-online-shopping-cart-solutions?u=76281980&t=21)** You can use a plugin with your CMS to set up a shopping cart.
 >
@@ -2454,14 +2428,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), management (2), cms (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **CLI Commands:** make (5)
 > **Prerequisites:** set up (1), configure (1), you'll need (1)
 > **Env Vars:** cms (1)
 > **Speakers:** - if (1)
 
-#### Simple website builders for small sites
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/simple-website-builders-for-small-sites?u=76281980)
+#### [Simple website builders for small sites](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/simple-website-builders-for-small-sites?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2473,7 +2446,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/simple-website-builders-for-small-sites?u=76281980&t=19)** You still want to choose your colors, fonts, layout, and message when building the site.
 >
-> **[0:24](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/simple-website-builders-for-small-sites?u=76281980&t=24)** You may want that image carousel or blog functionality or a simple shopping cart for a few products.
+> **[0:24](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/simple-website-builders-for-small-sites?u=76281980&t=24)** You may want that image carousel or blog functionality or a simple shopping cart for a few [[Microsoft Products|products]].
 >
 > **[0:31](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/simple-website-builders-for-small-sites?u=76281980&t=31)** You don't have a graphic designer or a programmer on hand, just yourself.
 >
@@ -2489,7 +2462,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/simple-website-builders-for-small-sites?u=76281980&t=71)** These builders create websites that work on desktops, tablets, and mobile devices.
 >
-> **[1:16](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/simple-website-builders-for-small-sites?u=76281980&t=76)** They usually offer some type of search engine optimization, a contact form, and pages for text and images for their basic plans.
+> **[1:16](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/simple-website-builders-for-small-sites?u=76281980&t=76)** They usually offer some type of [[Search Engine Optimization (SEO)|search engine optimization]], a contact form, and pages for text and images for their basic plans.
 >
 > **[1:26](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/simple-website-builders-for-small-sites?u=76281980&t=86)** At an additional cost, you can often add features like an email newsletter and subscription capability, shopping cart, interactive calendar with event subscription, and other features.
 >
@@ -2511,18 +2484,17 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/simple-website-builders-for-small-sites?u=76281980&t=149)** If your business grows, you may move towards a more complex solution.
 >
-> **[2:34](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/simple-website-builders-for-small-sites?u=76281980&t=154)** Squarespace, Weebly, and Wix all offer methods of exporting your site data to WordPress for example.
+> **[2:34](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/simple-website-builders-for-small-sites?u=76281980&t=154)** Squarespace, Weebly, and Wix all offer methods of exporting your site data to [[WordPress]] for example.
 >
-> **[2:41](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/simple-website-builders-for-small-sites?u=76281980&t=161)** Today's site builders are easier to use than a content management system, and they offer a high quality semi-customized site that you can be proud of.
+> **[2:41](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/simple-website-builders-for-small-sites?u=76281980&t=161)** Today's site builders are easier to use than a [[Content Management]] system, and they offer a high quality semi-customized site that you can be proud of.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), generic (1), [[Microsoft Products|Products]] (1), [[Search Engine Optimization (SEO)|Search engine optimization]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Search Engine Optimization (SEO)|Search engine optimization]] (1), [[WordPress]] (1), [[Content Management]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - most (1)
 
-#### Complex website builders with fine-grained control
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/complex-website-builders-with-fine-grained-control?u=76281980)
+#### [Complex website builders with fine-grained control](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/complex-website-builders-with-fine-grained-control?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2536,11 +2508,11 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/complex-website-builders-with-fine-grained-control?u=76281980&t=21)** Fortunately, there are more complex website builders that are available to fill this niche, including Webflow and Editor X.
 >
-> **[0:28](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/complex-website-builders-with-fine-grained-control?u=76281980&t=28)** These are professional level visual development environments that will allow graphic designers to create the interface they want without knowing HTML, CSS, or other code.
+> **[0:28](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/complex-website-builders-with-fine-grained-control?u=76281980&t=28)** These are professional level visual development environments that will allow graphic designers to create the interface they want without knowing [[HTML]], CSS, or other code.
 >
 > **[0:41](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/complex-website-builders-with-fine-grained-control?u=76281980&t=41)** These more complex site builders are well more complex in what they offer via Webflows integrations and Editor X's app market, these complex site builders integrate with additional functionality.
 >
-> **[0:56](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/complex-website-builders-with-fine-grained-control?u=76281980&t=56)** The concept is similar to WordPress plugins but there are a few notable differences.
+> **[0:56](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/complex-website-builders-with-fine-grained-control?u=76281980&t=56)** The concept is similar to [[WordPress]] plugins but there are a few notable differences.
 >
 > **[1:02](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/complex-website-builders-with-fine-grained-control?u=76281980&t=62)** A big difference is that these apps and integrations may not be specific and exclusive to one platform or another.
 >
@@ -2558,13 +2530,13 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/complex-website-builders-with-fine-grained-control?u=76281980&t=117)** Webflow will allow adding others to edit the site and you can control who may edit designs and content separately.
 >
-> **[2:05](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/complex-website-builders-with-fine-grained-control?u=76281980&t=125)** Code may also be exported as HTML, CSS, and JavaScript can be passed to a development team.
+> **[2:05](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/complex-website-builders-with-fine-grained-control?u=76281980&t=125)** Code may also be exported as HTML, CSS, and [[JavaScript]] can be passed to a development team.
 >
 > **[2:13](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/complex-website-builders-with-fine-grained-control?u=76281980&t=133)** With Editor X, it offers its own Velo framework for JavaScript to add code to the Editor X website directly.
 >
 > **[2:22](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/complex-website-builders-with-fine-grained-control?u=76281980&t=142)** However, it's not possible to export HTML, CSS, and JavaScript from Editor X.
 >
-> **[2:29](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/complex-website-builders-with-fine-grained-control?u=76281980&t=149)** Finally, designers may want to export designs from Figma, Editor X is currently developing a Figma plugin for this.
+> **[2:29](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/complex-website-builders-with-fine-grained-control?u=76281980&t=149)** Finally, designers may want to export designs from [[Figma (Software)|Figma]], Editor X is currently developing a Figma plugin for this.
 >
 > **[2:37](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/complex-website-builders-with-fine-grained-control?u=76281980&t=157)** Webflow offers several tutorials for accomplishing this task.
 >
@@ -2572,14 +2544,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), css (4), [[JavaScript]] (3), [[WordPress]] (2), [[Figma (Software)|Figma]] (2)
+> **Frameworks & Libraries:** [[HTML]] (4), [[JavaScript]] (3), [[WordPress]] (2), [[Figma (Software)|Figma]] (2)
 > **Env Vars:** html (4), css (4)
 > **Tools:** figma (2)
 > **Analogies:** similar to (1), for example (1)
 > **Speakers:** - squarespace (1)
 
-#### Dashboards and databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/dashboards-and-databases?u=76281980)
+#### [Dashboards and databases](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/dashboards-and-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2587,7 +2558,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/dashboards-and-databases?u=76281980&t=7)** There's another world on the back end of the website, or the administrative side of the website.
 >
-> **[0:13](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/dashboards-and-databases?u=76281980&t=13)** There's the programming, which often involves a database, and there are all kinds of dashboards for creating content, changing settings, and adding and removing functionality.
+> **[0:13](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/dashboards-and-databases?u=76281980&t=13)** There's the programming, which often involves a database, and there are all kinds of [[Dashboards]] for creating content, changing settings, and adding and removing functionality.
 >
 > **[0:24](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/dashboards-and-databases?u=76281980&t=24)** The no code world has several tools that address this world as well.
 >
@@ -2595,13 +2566,13 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/dashboards-and-databases?u=76281980&t=33)** Arguably it's an early no code tool where users program formulas to execute calculations and configure graphs of information.
 >
-> **[0:43](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/dashboards-and-databases?u=76281980&t=43)** Google Sheets are actively used in some applications today, notably with products like Glide and Adalo.
+> **[0:43](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/dashboards-and-databases?u=76281980&t=43)** [[Google]] Sheets are actively used in some applications today, notably with [[Microsoft Products|products]] like Glide and Adalo.
 >
 > **[0:51](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/dashboards-and-databases?u=76281980&t=51)** The online spreadsheet acts as a database for storing information, with Glide and Adalo serving as an interface.
 >
 > **[0:59](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/dashboards-and-databases?u=76281980&t=59)** When two spreadsheets talk to each other, we're approaching a database.
 >
-> **[1:03](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/dashboards-and-databases?u=76281980&t=63)** Airtable is one of the best-known online databases available.
+> **[1:03](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/dashboards-and-databases?u=76281980&t=63)** Airtable is one of the best-known online [[Databases]] available.
 >
 > **[1:08](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/dashboards-and-databases?u=76281980&t=68)** With bright colors and a fun interface, it feels like a spreadsheet as you work with it.
 >
@@ -2621,7 +2592,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/dashboards-and-databases?u=76281980&t=133)** Airtable offers its own interface for certain types of work.
 >
-> **[2:17](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/dashboards-and-databases?u=76281980&t=137)** While it's not intended for building a full website, Airtable's interface designer may be useful for building dashboards based on the database's information, forms for recording and entering data, and other simple types of displays.
+> **[2:17](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/dashboards-and-databases?u=76281980&t=137)** While it's not intended for building a full website, Airtable's interface designer may be useful for building dashboards based on the database's information, [[Forms]] for recording and entering data, and other simple types of displays.
 >
 > **[2:32](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/dashboards-and-databases?u=76281980&t=152)** Airtable is one of the most integrated technologies in the no code world because of its ease of use and usefulness as a database.
 >
@@ -2629,7 +2600,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), data (4), [[Dashboards]] (2), api (2), web (1)
+> **Frameworks & Libraries:** [[Dashboards]] (2), [[Google]] (1), [[Microsoft Products|Products]] (1), [[Databases]] (1), [[Forms]] (1)
 > **Env Vars:** api (2)
 > **Definitions:** is called (1), is an  (1)
 > **CLI Commands:** make (1)
@@ -2637,8 +2608,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - to (1)
 
-#### Web app and native app development
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/web-app-and-native-app-development?u=76281980)
+#### [Web app and native app development](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/web-app-and-native-app-development?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2648,9 +2618,9 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/web-app-and-native-app-development?u=76281980&t=8)** However, web applications run in a web browser, and therefore may also run on desktop computers and laptops.
 >
-> **[0:17](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/web-app-and-native-app-development?u=76281980&t=17)** Native applications are operating-system specific, operating on Android or Apple devices and generally do not run on desktops.
+> **[0:17](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/web-app-and-native-app-development?u=76281980&t=17)** Native applications are operating-system specific, operating on [[Android]] or Apple devices and generally do not run on desktops.
 >
-> **[0:27](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/web-app-and-native-app-development?u=76281980&t=27)** Native applications are the ones listed in the Google Play or the App Store.
+> **[0:27](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/web-app-and-native-app-development?u=76281980&t=27)** Native applications are the ones listed in the [[Google]] Play or the App Store.
 >
 > **[0:33](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/web-app-and-native-app-development?u=76281980&t=33)** If you are building an application requiring user accounts and lots of user data being manipulated and changed, you'll probably choose a web app or a native app to build it, depending on the target audience and required features and functionality.
 >
@@ -2660,7 +2630,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/web-app-and-native-app-development?u=76281980&t=60)** If they're well coded, they are responsive and can adapt to a variety of screen sizes.
 >
-> **[1:06](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/web-app-and-native-app-development?u=76281980&t=66)** However, web apps can't access any of the hardware on the device where they're running.
+> **[1:06](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/web-app-and-native-app-development?u=76281980&t=66)** However, web apps can't access any of the [[Hardware]] on the device where they're running.
 >
 > **[1:12](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/web-app-and-native-app-development?u=76281980&t=72)** This means that web apps are better for manipulating data.
 >
@@ -2678,7 +2648,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/web-app-and-native-app-development?u=76281980&t=113)** It includes responsive layouts, lots of template choices, ways of including different APIs from other applications and much more.
 >
-> **[2:03](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/web-app-and-native-app-development?u=76281980&t=123)** AppGyver builds React Native applications and offers similar features to Bubble.
+> **[2:03](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/web-app-and-native-app-development?u=76281980&t=123)** AppGyver builds [[React Native]] applications and offers similar features to Bubble.
 >
 > **[2:09](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/web-app-and-native-app-development?u=76281980&t=129)** While AppGyver offers exports to Android and iOS for native app support in addition to the default web app support, Bubble offers only web app support.
 >
@@ -2698,7 +2668,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (13), [[Google]] (6), [[Android]] (3), [[Hardware]] (3), data (2)
+> **Frameworks & Libraries:** [[Google]] (6), [[Android]] (3), [[Hardware]] (3), [[React Native]] (1)
 > **Definitions:** means that (2), is a  (1)
 > **Code Identifiers:** ios (2)
 > **Exercise Files:** template (1)
@@ -2710,26 +2680,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learn more with learning paths
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/learn-more-with-learning-paths-22966796?u=76281980)
+#### [Learn more with learning paths](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/learn-more-with-learning-paths-22966796?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/learn-more-with-learning-paths-22966796?u=76281980&t=0)** - [Jen] Hey everybody, it's Jen Kramer.
 >
-> **[0:02](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/learn-more-with-learning-paths-22966796?u=76281980&t=2)** Thank you so much for watching "Introduction to Web Design and Development".
+> **[0:02](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/learn-more-with-learning-paths-22966796?u=76281980&t=2)** Thank you so much for watching "Introduction to [[Web Design]] and Development".
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/learn-more-with-learning-paths-22966796?u=76281980&t=7)** I hope you learned all kinds of interesting new information.
 >
-> **[0:10](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/learn-more-with-learning-paths-22966796?u=76281980&t=10)** And all of the topics that I've covered in this course are covered somewhere in the LinkedIn learning library.
+> **[0:10](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/learn-more-with-learning-paths-22966796?u=76281980&t=10)** And all of the topics that I've covered in this course are covered somewhere in the [[LinkedIn]] learning library.
 >
-> **[0:16](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/learn-more-with-learning-paths-22966796?u=76281980&t=16)** Do a search for HTML, CSS, user experience, search engine optimization, and you'll find more in-depth courses on these particular topics.
+> **[0:16](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/learn-more-with-learning-paths-22966796?u=76281980&t=16)** Do a search for [[HTML]], CSS, [[User Experience (UX)|user experience]], [[Search Engine Optimization (SEO)|search engine optimization]], and you'll find more in-depth courses on these particular topics.
 >
 > **[0:27](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/learn-more-with-learning-paths-22966796?u=76281980&t=27)** If you liked me as an instructor and you want to go into more details in my courses, let me recommend a few for you.
 >
 > **[0:33](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/learn-more-with-learning-paths-22966796?u=76281980&t=33)** The first one I'd like to recommend is, "Careers In Website Design and Development".
 >
-> **[0:37](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/learn-more-with-learning-paths-22966796?u=76281980&t=37)** This will go into more detail about user interface design and user experience if you're thinking about making it a career, if you're not thinking about making it a career and you just want to plan a website, "No-Code Planning Principles for the Web" will walk you through everything that you need to do to come up with a great plan to build your website.
+> **[0:37](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/learn-more-with-learning-paths-22966796?u=76281980&t=37)** This will go into more detail about [[User Interface Design]] and user experience if you're thinking about making it a career, if you're not thinking about making it a career and you just want to plan a website, "No-Code Planning Principles for the Web" will walk you through everything that you need to do to come up with a great plan to build your website.
 >
 > **[0:59](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/learn-more-with-learning-paths-22966796?u=76281980&t=59)** Want to go into more depth in HTML and CSS?
 >
@@ -2755,7 +2724,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (5), css (4), web (3), [[User Experience (UX)|User experience]] (2), career (2)
+> **Frameworks & Libraries:** [[HTML]] (5), [[Web Design]] (2), [[User Experience (UX)|User experience]] (2), [[LinkedIn]] (1), [[Search Engine Optimization (SEO)|Search engine optimization]] (1)
 > **Env Vars:** html (5), css (4)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)

@@ -77,20 +77,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting started with xUnit
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/getting-started-with-xunit?u=76281980)
+#### [Getting started with xUnit](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/getting-started-with-xunit?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/getting-started-with-xunit?u=76281980&t=0)** - Hi, my name is Jesse Freeman.
 >
-> **[0:02](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/getting-started-with-xunit?u=76281980&t=2)** Welcome to this course, "C# Unit Testing with xUnit."
+> **[0:02](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/getting-started-with-xunit?u=76281980&t=2)** Welcome to this course, "C# [[Unit Testing]] with xUnit."
 >
 > **[0:06](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/getting-started-with-xunit?u=76281980&t=6)** In this course, I'll first introduce you to the foundational concepts of unit testing and the role xUnit plays in it.
 >
 > **[0:13](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/getting-started-with-xunit?u=76281980&t=13)** Then I'll guide you through a detailed setup process of xUnit for your development environment.
 >
-> **[0:17](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/getting-started-with-xunit?u=76281980&t=17)** We'll also dive deeper into the specifications of xUnit's function, benefits, and its core role in the test-driven development cycle.
+> **[0:17](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/getting-started-with-xunit?u=76281980&t=17)** We'll also dive deeper into the specifications of xUnit's function, benefits, and its core role in the [[Test-Driven Development]] cycle.
 >
 > **[0:27](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/getting-started-with-xunit?u=76281980&t=27)** Now let's get started.
 
@@ -102,12 +101,11 @@ created: 2026-05-02
 > **Speakers:** - hi (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/what-you-should-know?u=76281980&t=0)** - [Narrator] This course is primarily targeted towards intermediate developers who have a basic understanding of software development practices.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/what-you-should-know?u=76281980&t=0)** - [Narrator] This course is primarily targeted towards intermediate developers who have a basic understanding of [[Software Development]] practices.
 >
 > **[0:07](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/what-you-should-know?u=76281980&t=7)** Before diving in, you should have some familiarity with coding and a grasp of fundamental programming principles.
 >
@@ -117,7 +115,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Software Development]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Software Development]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
@@ -126,14 +124,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using xUnit for testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/using-xunit-for-testing?u=76281980)
+#### [Using xUnit for testing](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/using-xunit-for-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/using-xunit-for-testing?u=76281980&t=0)** - [Instructor] The role of XUnit in unit testing.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/using-xunit-for-testing?u=76281980&t=0)** - [Instructor] The role of XUnit in [[Unit Testing]].
 >
-> **[0:03](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/using-xunit-for-testing?u=76281980&t=3)** Let's explore the concepts of unit testing in software development, its benefits, and the advantages of using Xcode, which is a robust unit testing tool for the .NET Framework.
+> **[0:03](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/using-xunit-for-testing?u=76281980&t=3)** Let's explore the concepts of unit testing in [[Software Development]], its benefits, and the advantages of using [[Xcode]], which is a robust unit testing tool for the .NET Framework.
 >
 > **[0:13](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/using-xunit-for-testing?u=76281980&t=13)** First, let's start with an introduction to unit testing.
 >
@@ -145,7 +142,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/using-xunit-for-testing?u=76281980&t=35)** They improve the quality of code, they make refactoring easier and safer, they can also serve as documentation, they speed up the development process, and they foster better design, among other advantages.
 >
-> **[0:48](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/using-xunit-for-testing?u=76281980&t=48)** Unit testing is a critical part of the software development life cycle, typically occurring after the implementation phase, but before integration testing.
+> **[0:48](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/using-xunit-for-testing?u=76281980&t=48)** Unit testing is a critical part of the software development life cycle, typically occurring after the implementation phase, but before [[Integration Testing]].
 >
 > **[0:57](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/using-xunit-for-testing?u=76281980&t=57)** By catching issues early, unit tests save time and effort in later stages of development.
 >
@@ -177,7 +174,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unit Testing]] (9), [[Software Development]] (3), open-source (3), data (2), parallel (2)
+> **Frameworks & Libraries:** [[Unit Testing]] (9), [[Software Development]] (3), [[Xcode]] (1), [[Integration Testing]] (1)
 > **Env Vars:** net (4)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (2)
@@ -185,16 +182,15 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### The TDD cycle
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/the-tdd-cycle?u=76281980)
+#### [The TDD cycle](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/the-tdd-cycle?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/the-tdd-cycle?u=76281980&t=0)** - [Narrator] Let's do a deep dive into the test-driven development cycle, or TDD for short.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/the-tdd-cycle?u=76281980&t=0)** - [Narrator] Let's do a deep dive into the [[Test-Driven Development]] cycle, or TDD for short.
 >
 > **[0:05](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/the-tdd-cycle?u=76281980&t=5)** We'll discuss where XUnit fits in, some important terminology used in XUnit, and each phase of the red, green, and refactor process.
 >
-> **[0:15](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/the-tdd-cycle?u=76281980&t=15)** Test-driven development is a software development methodology where you write tests before writing the corresponding code.
+> **[0:15](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/the-tdd-cycle?u=76281980&t=15)** Test-driven development is a [[Software Development]] methodology where you write tests before writing the corresponding code.
 >
 > **[0:22](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/the-tdd-cycle?u=76281980&t=22)** XUnit is a testing framework that'll provide us the structure and a way to create automated tests.
 >
@@ -246,24 +242,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Test-Driven Development]] (5), [[Software Development]] (1), next (1)
+> **Frameworks & Libraries:** [[Test-Driven Development]] (5), [[Software Development]] (1)
 > **Definitions:** is a  (5)
 > **Analogies:** for instance (2), for example (2)
 > **Env Vars:** tdd (1), net (1)
 > **Speakers:** - [narrator] (1)
 
-#### Installing xUnit
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/installing-xunit?u=76281980)
+#### [Installing xUnit](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/installing-xunit?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/installing-xunit?u=76281980&t=0)** - [Instructor] Now, let's go through the process of setting up Xcode in your development environment.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/installing-xunit?u=76281980&t=0)** - [Instructor] Now, let's go through the process of setting up [[Xcode]] in your development environment.
 >
 > **[0:05](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/installing-xunit?u=76281980&t=5)** If you don't already have .NET installed, you can get the .NET Core SDK from the official website or you can use Visual Studio, like I'll be using, for the Mac.
 >
 > **[0:16](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/installing-xunit?u=76281980&t=16)** Simply download install Visual Studio from the official site.
 >
-> **[0:20](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/installing-xunit?u=76281980&t=20)** This IDE is a comprehensive software development environment tailored for creating .NET applications.
+> **[0:20](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/installing-xunit?u=76281980&t=20)** This IDE is a comprehensive [[Software Development]] environment tailored for creating .NET applications.
 >
 > **[0:27](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/installing-xunit?u=76281980&t=27)** This will also install the .NET Core SDK and any of the libraries and tools you'll need to develop applications and libraries.
 >
@@ -317,7 +312,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[Xcode]] (1), [[Software Development]] (1), next (1), hit (1)
+> **Frameworks & Libraries:** [[Xcode]] (1), [[Software Development]] (1)
 > **Env Vars:** net (6), sdk (2), ide (1)
 > **UI Navigation:** select the (2), go to (2), right-click (1)
 > **Tools:** visual studio (2), command line (1), terminal (1)
@@ -331,8 +326,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Writing your first unit test with xUnit
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/writing-your-first-unit-test-with-xunit?u=76281980)
+#### [Writing your first unit test with xUnit](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/writing-your-first-unit-test-with-xunit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -387,8 +381,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Asserting with xUnit
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/asserting-with-xunit?u=76281980)
+#### [Asserting with xUnit](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/asserting-with-xunit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -432,16 +425,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
-#### Understanding the core unit testing workflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/understanding-the-core-unit-testing-workflow?u=76281980)
+#### [Understanding the core unit testing workflow](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/understanding-the-core-unit-testing-workflow?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/understanding-the-core-unit-testing-workflow?u=76281980&t=0)** - [Instructor] Let's learn about the Arrange-Act-Assert pattern, a common methodology in unit testing that ensures your tests are well structured and understandable.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/understanding-the-core-unit-testing-workflow?u=76281980&t=0)** - [Instructor] Let's learn about the Arrange-Act-Assert pattern, a common methodology in [[Unit Testing]] that ensures your tests are well structured and understandable.
 >
 > **[0:10](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/understanding-the-core-unit-testing-workflow?u=76281980&t=10)** The Arrange-Act-Assert pattern is a common way of writing and structuring unit tests.
 >
@@ -549,7 +540,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (2), [[Unit Testing]] (1)
+> **Frameworks & Libraries:** [[Unit Testing]] (1)
 > **Env Vars:** aaa (3)
 > **CLI Commands:** make (2)
 > **Prerequisites:** set up (2)
@@ -558,8 +549,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Expanding your xUnit toolkit
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/expanding-your-xunit-toolkit?u=76281980)
+#### [Expanding your xUnit toolkit](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/expanding-your-xunit-toolkit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -651,7 +641,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), generic (2)
 > **CLI Commands:** make (6)
 > **Code Identifiers:** xunit (1)
 > **Cross-References:** in the next (1)
@@ -663,8 +652,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating addition and subtraction logic
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/creating-addition-and-subtraction-logic?u=76281980)
+#### [Creating addition and subtraction logic](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/creating-addition-and-subtraction-logic?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -720,7 +708,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/creating-addition-and-subtraction-logic?u=76281980&t=175)** Let's go ahead and hide the other tests and focus on the HelloCalcApp tests as we move forward.
 >
-> **[3:02](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/creating-addition-and-subtraction-logic?u=76281980&t=182)** Now that we've finished the green phase, which is the second phase of test-driven development, we've written just enough code to satisfy the test condition.
+> **[3:02](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/creating-addition-and-subtraction-logic?u=76281980&t=182)** Now that we've finished the green phase, which is the second phase of [[Test-Driven Development]], we've written just enough code to satisfy the test condition.
 >
 > **[3:11](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/creating-addition-and-subtraction-logic?u=76281980&t=191)** At this point, let's move on to our subtraction method.
 >
@@ -746,7 +734,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Test-Driven Development]] (2), next (1)
+> **Frameworks & Libraries:** [[Test-Driven Development]] (2)
 > **Definitions:** means that (3)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** calctests (1)
@@ -755,12 +743,11 @@ created: 2026-05-02
 > **Speakers:** - in (1)
 > **Non-Speech:** (typing) (1)
 
-#### Using assertions and refactoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/using-assertions-and-refactoring?u=76281980)
+#### [Using assertions and refactoring](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/using-assertions-and-refactoring?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/using-assertions-and-refactoring?u=76281980&t=0)** - [Instructor] In this video, we'll dive into the important role unit testing has during the modification and enhancement of existing code.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/using-assertions-and-refactoring?u=76281980&t=0)** - [Instructor] In this video, we'll dive into the important role [[Unit Testing]] has during the modification and enhancement of existing code.
 >
 > **[0:06](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/using-assertions-and-refactoring?u=76281980&t=6)** Our focus will be on refactoring the add and subtract functions of our calculator to support multiple arguments.
 >
@@ -814,7 +801,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/using-assertions-and-refactoring?u=76281980&t=177)** This is how we know the refactoring has been successful because we haven't broken any previous tests.
 >
-> **[3:03](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/using-assertions-and-refactoring?u=76281980&t=183)** But there's a third step to test-driven development, this is the refactor phase.
+> **[3:03](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/using-assertions-and-refactoring?u=76281980&t=183)** But there's a third step to [[Test-Driven Development]], this is the refactor phase.
 >
 > **[3:09](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/using-assertions-and-refactoring?u=76281980&t=189)** And even though we refactored this method there's still a way that we can simplify this and make it work even better.
 >
@@ -876,13 +863,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (3), [[Unit Testing]] (1), [[Test-Driven Development]] (1)
+> **Frameworks & Libraries:** [[Unit Testing]] (1), [[Test-Driven Development]] (1)
 > **CLI Commands:** make (5)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a history functionality
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/creating-a-history-functionality?u=76281980)
+#### [Creating a history functionality](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/creating-a-history-functionality?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1008,7 +994,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), data (2), feature (1)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** xunit (1)
 > **Cross-References:** in the next (1)
@@ -1016,8 +1001,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Parsing a math equation string
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/parsing-a-math-equation-string?u=76281980)
+#### [Parsing a math equation string](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/parsing-a-math-equation-string?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1121,7 +1105,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (3)
 > **CLI Commands:** make (2), find (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1131,16 +1114,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/next-steps?u=76281980&t=1)** - Thank you so much for taking this course.
 >
-> **[0:03](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/next-steps?u=76281980&t=3)** I hope you've gained a wealth of knowledge on unit testing with xUnit.
+> **[0:03](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/next-steps?u=76281980&t=3)** I hope you've gained a wealth of knowledge on [[Unit Testing]] with xUnit.
 >
-> **[0:06](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/next-steps?u=76281980&t=6)** As you continue your journey in software testing, I encourage you to dive deeper into more advanced concepts in unit testing.
+> **[0:06](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/next-steps?u=76281980&t=6)** As you continue your journey in [[Software Testing]], I encourage you to dive deeper into more advanced concepts in unit testing.
 >
 > **[0:12](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/next-steps?u=76281980&t=12)** This could include learning about different testing techniques like integration and acceptance testing, as well as exploring other testing frameworks.
 >

@@ -73,8 +73,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing the digital mindset
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/introducing-the-digital-mindset?u=76281980)
+#### [Introducing the digital mindset](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/introducing-the-digital-mindset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -98,7 +97,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (1), data (1), management (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - to (1)
@@ -108,8 +106,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a digital mindset?
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/what-is-a-digital-mindset?u=76281980)
+#### [What is a digital mindset?](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/what-is-a-digital-mindset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -129,7 +126,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/what-is-a-digital-mindset?u=76281980&t=46)** That's why I developed this course and wrote the book on which it's based, "The Digital Mindset".
 >
-> **[0:52](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/what-is-a-digital-mindset?u=76281980&t=52)** Big data, algorithms, AI, robotic teammates, social media, blockchain, and cybersecurity vulnerabilities are just some of the major digital forces that are reshaping how we live and work.
+> **[0:52](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/what-is-a-digital-mindset?u=76281980&t=52)** [[Big Data]], [[Algorithms]], AI, robotic teammates, social media, [[Blockchain]], and [[Cybersecurity]] vulnerabilities are just some of the major digital forces that are reshaping how we live and work.
 >
 > **[1:04](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/what-is-a-digital-mindset?u=76281980&t=64)** These forces are disrupting how we interact with our colleagues and creating new demands for how we structure and lead our teams and organizations.
 >
@@ -151,7 +148,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/what-is-a-digital-mindset?u=76281980&t=97)** Leaders who have a digital mindset are better able to set up their organizations for success and build a broad employee workforce that can adapt quickly to change.
 >
-> **[1:46](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/what-is-a-digital-mindset?u=76281980&t=106)** When companies have people with digital mindsets, they react faster to shifts in the market and find themselves better positioned to take advantage of new business opportunities.
+> **[1:46](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/what-is-a-digital-mindset?u=76281980&t=106)** When companies have people with digital mindsets, they [[React.js|react]] faster to shifts in the market and find themselves better positioned to take advantage of new business opportunities.
 >
 > **[1:55](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/what-is-a-digital-mindset?u=76281980&t=115)** Thriving in the digital age requires more than simply acquiring skills to work with digital tools, but you only need about 30% fluency in a handful of technical topics to develop your digital mindset.
 >
@@ -175,13 +172,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Big Data]] (2), [[Algorithms]] (2), ai (2), [[Blockchain]] (1), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[Big Data]] (2), [[Algorithms]] (2), [[Blockchain]] (1), [[Cybersecurity]] (1), [[React.js|React]] (1)
 > **CLI Commands:** find (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - the (1)
 
-#### Why is it important to lead with a digital mindset?
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/why-is-it-important-to-lead-with-a-digital-mindset?u=76281980)
+#### [Why is it important to lead with a digital mindset?](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/why-is-it-important-to-lead-with-a-digital-mindset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -197,7 +193,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/why-is-it-important-to-lead-with-a-digital-mindset?u=76281980&t=28)** I studied people in companies with a strong digital mindset for nearly two decades, and I found that there are four key advantages that people who develop a digital mindset have over those who don't.
 >
-> **[0:39](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/why-is-it-important-to-lead-with-a-digital-mindset?u=76281980&t=39)** First, they excel at teamwork and collaboration.
+> **[0:39](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/why-is-it-important-to-lead-with-a-digital-mindset?u=76281980&t=39)** First, they [[Microsoft Excel|excel]] at teamwork and collaboration.
 >
 > **[0:43](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/why-is-it-important-to-lead-with-a-digital-mindset?u=76281980&t=43)** When you begin to think digitally, you can work together more effectively with others.
 >
@@ -219,7 +215,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/why-is-it-important-to-lead-with-a-digital-mindset?u=76281980&t=118)** Fourth and finally, digital tools have the power to bring you closer with others, regardless of your geographic location.
 >
-> **[2:06](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/why-is-it-important-to-lead-with-a-digital-mindset?u=76281980&t=126)** Even if you're working in a different part of the world from your colleagues, or maybe just an office floor away, if you have a strong digital mindset, you can build relationships and form a shared identity by fostering trust and rapport through your tools.
+> **[2:06](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/why-is-it-important-to-lead-with-a-digital-mindset?u=76281980&t=126)** Even if you're working in a different part of the world from your colleagues, or maybe just an [[Microsoft Office|office]] floor away, if you have a strong digital mindset, you can build relationships and form a shared identity by fostering trust and rapport through your tools.
 >
 > **[2:21](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/why-is-it-important-to-lead-with-a-digital-mindset?u=76281980&t=141)** This sense of belonging facilitated by a digital mindset is highly valued in our globally interconnected marketplace.
 >
@@ -237,14 +233,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), power (2), [[Microsoft Excel|Excel]] (1), [[Microsoft Office|Office]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Microsoft Office|Office]] (1)
 > **Cross-References:** later in (1), in the next (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - why (1)
 
-#### Change readiness for the digital age
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/change-readiness-for-the-digital-age?u=76281980)
+#### [Change readiness for the digital age](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/change-readiness-for-the-digital-age?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -286,7 +281,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/change-readiness-for-the-digital-age?u=76281980&t=120)** Here are three important activities to help get people on board.
 >
-> **[2:03](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/change-readiness-for-the-digital-age?u=76281980&t=123)** First, increase communication that emphasizes how critical digital transformation is for the company.
+> **[2:03](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/change-readiness-for-the-digital-age?u=76281980&t=123)** First, increase communication that emphasizes how critical [[Digital Transformation]] is for the company.
 >
 > **[2:10](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/change-readiness-for-the-digital-age?u=76281980&t=130)** Second, start campaigns within the company to help employees picture what a company powered by digital technology would look like.
 >
@@ -308,7 +303,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/change-readiness-for-the-digital-age?u=76281980&t=186)** Involving influential people who are trusted by others may bring up common concerns and ideas for improvements.
 >
-> **[3:12](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/change-readiness-for-the-digital-age?u=76281980&t=192)** In the end, you'll want these influential people to help communicate the benefits to the rest of the team.
+> **[3:12](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/change-readiness-for-the-digital-age?u=76281980&t=192)** In the end, you'll want these influential people to help communicate the benefits to the [[Representational State Transfer (REST)|rest]] of the team.
 >
 > **[3:18](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/change-readiness-for-the-digital-age?u=76281980&t=198)** This can greatly improve employees' willingness to accept the change.
 >
@@ -326,7 +321,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (1), teams (1), next (1), [[Digital Transformation]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** picture (1)
 > **Speakers:** - how (1)
@@ -336,8 +331,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Establishing your digital presence
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/establishing-your-digital-presence?u=76281980)
+#### [Establishing your digital presence](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/establishing-your-digital-presence?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -377,7 +371,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/establishing-your-digital-presence?u=76281980&t=106)** Despite the availability of tools for collaboration, she felt left out and that her work was overlooked.
 >
-> **[1:51](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/establishing-your-digital-presence?u=76281980&t=111)** This situation is common for remote workers, especially if some team members are together in the same office while others work solo.
+> **[1:51](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/establishing-your-digital-presence?u=76281980&t=111)** This situation is common for remote workers, especially if some team members are together in the same [[Microsoft Office|office]] while others work solo.
 >
 > **[1:59](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/establishing-your-digital-presence?u=76281980&t=119)** Jenna's performance review was poor.
 >
@@ -435,11 +429,11 @@ created: 2026-05-02
 >
 > **[4:52](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/establishing-your-digital-presence?u=76281980&t=292)** This is important for remote workers who want to stay connected and involved with their teams.
 >
-> **[4:57](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/establishing-your-digital-presence?u=76281980&t=297)** Now that you're on your way to establishing a digital presence, in the next video, I'll help you work on building trust.
+> **[4:57](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/establishing-your-digital-presence?u=76281980&t=297)** Now that you're on your way to establishing a digital presence, in the next video, I'll help you work on [[Building Trust]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), [[Microsoft Office|Office]] (1), hit (1), business (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Building Trust]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **Best Practices:** the key is (1), it's best to (1)
@@ -447,14 +441,13 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - think (1)
 
-#### Building trust with people far away
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/building-trust-with-people-far-away?u=76281980)
+#### [Building trust with people far away](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/building-trust-with-people-far-away?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/building-trust-with-people-far-away?u=76281980&t=0)** - In the previous video, I shared some ways to establish your digital presence.
 >
-> **[0:05](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/building-trust-with-people-far-away?u=76281980&t=5)** The next step is building trust.
+> **[0:05](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/building-trust-with-people-far-away?u=76281980&t=5)** The next step is [[Building Trust]].
 >
 > **[0:08](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/building-trust-with-people-far-away?u=76281980&t=8)** In the digital workplace, the absence of physical proximity, the lack of immediate feedback, and the potential for misinterpretation can make it difficult to establish trust with others.
 >
@@ -490,7 +483,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/building-trust-with-people-far-away?u=76281980&t=100)** Next, when communicating digitally, the absence of tone and body language can often lead to misinterpretations.
 >
-> **[1:47](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/building-trust-with-people-far-away?u=76281980&t=107)** So you have to be thoughtful about your word choice.
+> **[1:47](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/building-trust-with-people-far-away?u=76281980&t=107)** So you have to be thoughtful about your [[Microsoft Word|word]] choice.
 >
 > **[1:50](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/building-trust-with-people-far-away?u=76281980&t=110)** Use positive language and avoid jargon or overly technical language that might alienate others.
 >
@@ -532,7 +525,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/building-trust-with-people-far-away?u=76281980&t=232)** The third practice to establish trust is to demonstrate empathy for those around you.
 >
-> **[3:57](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/building-trust-with-people-far-away?u=76281980&t=237)** This is so important because empathy forms the emotional foundation of trust.
+> **[3:57](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/building-trust-with-people-far-away?u=76281980&t=237)** This is so important because empathy [[Forms]] the emotional foundation of trust.
 >
 > **[4:02](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/building-trust-with-people-far-away?u=76281980&t=242)** In a digital environment, it's critical to remember that behind every screen is a person with unique circumstances, perspectives, and emotions.
 >
@@ -562,7 +555,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Building Trust]] (3), [[Microsoft Word|Word]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Building Trust]] (3), [[Microsoft Word|Word]] (1), [[Forms]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), is an  (1)
 > **Cross-References:** previous video (1), we discussed (1)
@@ -570,8 +563,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - in (1)
 
-#### Developing your metaknowledge
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/developing-your-metaknowledge?u=76281980)
+#### [Developing your metaknowledge](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/developing-your-metaknowledge?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -601,7 +593,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/developing-your-metaknowledge?u=76281980&t=98)** The good news is that in the digital workplace, metaknowledge is easier to develop than ever.
 >
-> **[1:44](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/developing-your-metaknowledge?u=76281980&t=104)** Think about the digital collaboration tools you use at work like Slack or Microsoft Teams.
+> **[1:44](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/developing-your-metaknowledge?u=76281980&t=104)** Think about the digital collaboration tools you use at work like [[Slack]] or [[Microsoft Teams]].
 >
 > **[1:49](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/developing-your-metaknowledge?u=76281980&t=109)** These tools aren't merely channels for information exchange, they provide invaluable context about the information you receive, who sent it, and maybe from where it originated.
 >
@@ -667,7 +659,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), ai (1), [[Slack]] (1), [[Microsoft Teams]] (1)
+> **Frameworks & Libraries:** [[Slack]] (1), [[Microsoft Teams]] (1)
 > **Analogies:** picture (2), it's like (1), kind of like (1), just like (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the last (1)
@@ -680,8 +672,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How machines learn
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/how-machines-learn?u=76281980)
+#### [How machines learn](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/how-machines-learn?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -711,7 +702,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/how-machines-learn?u=76281980&t=61)** Those things usually signify it's a dog.
 >
-> **[1:03](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/how-machines-learn?u=76281980&t=63)** This process is known as supervised learning.
+> **[1:03](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/how-machines-learn?u=76281980&t=63)** This process is known as [[Supervised Learning]].
 >
 > **[1:06](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/how-machines-learn?u=76281980&t=66)** There are different ways that machines learn.
 >
@@ -731,7 +722,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/how-machines-learn?u=76281980&t=107)** Over time, the machine may learn to sort the candy by color, shape, or size.
 >
-> **[1:51](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/how-machines-learn?u=76281980&t=111)** Another way that machines learn is through reinforcement learning.
+> **[1:51](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/how-machines-learn?u=76281980&t=111)** Another way that machines learn is through [[Reinforcement Learning]].
 >
 > **[1:55](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/how-machines-learn?u=76281980&t=115)** That's where a machine learns to make decisions by trial and error.
 >
@@ -751,13 +742,13 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/how-machines-learn?u=76281980&t=141)** It's data.
 >
-> **[2:22](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/how-machines-learn?u=76281980&t=142)** Data is the raw material that fuels the learning algorithm, and the data we use to train models can come from diverse sources, business records, health statistics, user interactions on websites, sensor readings, and more.
+> **[2:22](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/how-machines-learn?u=76281980&t=142)** Data is the raw material that fuels the learning algorithm, and the data we use to train models can come from diverse sources, business records, health [[Statistics]], user interactions on websites, sensor readings, and more.
 >
 > **[2:37](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/how-machines-learn?u=76281980&t=157)** Later in the course, you'll learn what to do so you can trust those data and make sure they're the right data with which to train your models.
 >
 > **[2:44](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/how-machines-learn?u=76281980&t=164)** A key tool with machine learning is the neural network, which is inspired by the human brain structure.
 >
-> **[2:50](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/how-machines-learn?u=76281980&t=170)** Neural networks consist of interconnected layers of nodes or neurons.
+> **[2:50](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/how-machines-learn?u=76281980&t=170)** [[Neural Networks]] consist of interconnected layers of nodes or neurons.
 >
 > **[2:55](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/how-machines-learn?u=76281980&t=175)** Each node applies simple computations to its inputs and passes the output to the next layer's nodes.
 >
@@ -775,7 +766,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/how-machines-learn?u=76281980&t=213)** The more high quality data a network is exposed to, the better it becomes at identifying patterns and making predictions.
 >
-> **[3:40](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/how-machines-learn?u=76281980&t=220)** Think, for example, about Google photos.
+> **[3:40](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/how-machines-learn?u=76281980&t=220)** Think, for example, about [[Google]] photos.
 >
 > **[3:42](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/how-machines-learn?u=76281980&t=222)** It uses deep neural networks trained on millions of images.
 >
@@ -791,7 +782,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Neural Networks]] (5), next (3), ai (2), [[Supervised Learning]] (2)
+> **Frameworks & Libraries:** [[Neural Networks]] (5), [[Supervised Learning]] (2), [[Reinforcement Learning]] (1), [[Statistics]] (1), [[Google]] (1)
 > **CLI Commands:** make (3), find (2), node (1)
 > **Analogies:** for example (2), similar to (1), for instance (1), kind of like (1), imagine (1)
 > **Definitions:** is a  (2), known as (1)
@@ -799,8 +790,7 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **Speakers:** - the (1)
 
-#### Don't confuse a machine for a person
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/don-t-confuse-a-machine-for-a-person?u=76281980)
+#### [Don't confuse a machine for a person](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/don-t-confuse-a-machine-for-a-person?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -812,11 +802,11 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/don-t-confuse-a-machine-for-a-person?u=76281980&t=23)** Conversational UIs give people the ability to interact with digital tools through writing or talking, similar to the way we interact with other people.
 >
-> **[0:31](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/don-t-confuse-a-machine-for-a-person?u=76281980&t=31)** Like when you say, "Hey, Siri," or, "Hello, Alexa," and, "Okay, Google," that's a conversational UI.
+> **[0:31](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/don-t-confuse-a-machine-for-a-person?u=76281980&t=31)** Like when you say, "Hey, Siri," or, "Hello, Alexa," and, "Okay, [[Google]]," that's a conversational UI.
 >
 > **[0:37](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/don-t-confuse-a-machine-for-a-person?u=76281980&t=37)** This is a significant shift from traditional, graphical user interfaces, or GUIs, that dominated the digital world since the inception of personal computers.
 >
-> **[0:47](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/don-t-confuse-a-machine-for-a-person?u=76281980&t=47)** In a GUI, users interact with a system using visual elements like windows, icons, and buttons.
+> **[0:47](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/don-t-confuse-a-machine-for-a-person?u=76281980&t=47)** In a GUI, users interact with a system using visual elements like [[Windows]], icons, and buttons.
 >
 > **[0:53](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/don-t-confuse-a-machine-for-a-person?u=76281980&t=53)** User actions are often limited to predefined commands, like clicking a button or dragging and dropping an item.
 >
@@ -846,7 +836,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/don-t-confuse-a-machine-for-a-person?u=76281980&t=143)** You can book rail travel with Julie just by saying where you're going and when.
 >
-> **[2:28](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/don-t-confuse-a-machine-for-a-person?u=76281980&t=148)** Julie can pre-fill forms on Amtrak scheduling tool and provide guidance through the rest of the booking process.
+> **[2:28](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/don-t-confuse-a-machine-for-a-person?u=76281980&t=148)** Julie can pre-fill [[Forms]] on Amtrak scheduling tool and provide guidance through the [[Representational State Transfer (REST)|rest]] of the booking process.
 >
 > **[2:33](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/don-t-confuse-a-machine-for-a-person?u=76281980&t=153)** Amtrak has seen an 800% return on their investment in Julie, and it saves more than $1 million in customer service expenses each year by using Julie to field low-level, predictable questions.
 >
@@ -858,11 +848,11 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/don-t-confuse-a-machine-for-a-person?u=76281980&t=179)** Take a minute, reflect on your experience.
 >
-> **[3:03](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/don-t-confuse-a-machine-for-a-person?u=76281980&t=183)** The core components of conversational UIs include natural language processing, or NLP, and natural language understanding, NLU.
+> **[3:03](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/don-t-confuse-a-machine-for-a-person?u=76281980&t=183)** The core components of conversational UIs include [[Natural Language Processing (NLP)|natural language processing]], or NLP, and natural language understanding, NLU.
 >
 > **[3:12](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/don-t-confuse-a-machine-for-a-person?u=76281980&t=192)** NLP allows the system to understand and interpret human language, while NLU helps the system to understand the intent behind the words.
 >
-> **[3:20](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/don-t-confuse-a-machine-for-a-person?u=76281980&t=200)** The NLP breaks language into word components, and then processes the relationship between words to determine meaning.
+> **[3:20](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/don-t-confuse-a-machine-for-a-person?u=76281980&t=200)** The NLP breaks language into [[Microsoft Word|word]] components, and then processes the relationship between words to determine meaning.
 >
 > **[3:26](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/don-t-confuse-a-machine-for-a-person?u=76281980&t=206)** The NLU takes groupings of words as inputs to determine intent.
 >
@@ -878,7 +868,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), nlp (3), [[Google]] (1), [[Windows]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Windows]] (1), [[Forms]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Env Vars:** nlp (3), nlu (3), gui (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -887,8 +877,7 @@ created: 2026-05-02
 > **UI Navigation:** dropdown (1)
 > **Speakers:** - many (1)
 
-#### Communicating with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/communicating-with-ai?u=76281980)
+#### [Communicating with AI](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/communicating-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -916,11 +905,11 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/communicating-with-ai?u=76281980&t=90)** Remember treating AI like a machine, even though it tempts you to treat it like a human is the way to go.
 >
-> **[1:37](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/communicating-with-ai?u=76281980&t=97)** The rest of the tips in this lesson will teach you how to do that.
+> **[1:37](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/communicating-with-ai?u=76281980&t=97)** The [[Representational State Transfer (REST)|rest]] of the tips in this lesson will teach you how to do that.
 >
 > **[1:40](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/communicating-with-ai?u=76281980&t=100)** Number two, understand AI's capabilities and limitations.
 >
-> **[1:44](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/communicating-with-ai?u=76281980&t=104)** Despite advances in AI, remember, these tools like Siri or Alexa are algorithms.
+> **[1:44](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/communicating-with-ai?u=76281980&t=104)** Despite advances in AI, remember, these tools like Siri or Alexa are [[Algorithms]].
 >
 > **[1:49](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/communicating-with-ai?u=76281980&t=109)** They're not human.
 >
@@ -932,7 +921,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/communicating-with-ai?u=76281980&t=127)** Or take an example from personal fitness AI like Fitbit's coach.
 >
-> **[2:12](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/communicating-with-ai?u=76281980&t=132)** It can guide you through workout routines and track your performance based on metrics like heart rate, but it can't understand the physical discomfort you might be experiencing or adjust the training in real-time based on your body's responses like a human coach would.
+> **[2:12](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/communicating-with-ai?u=76281980&t=132)** It can guide you through workout routines and track your performance based on metrics like heart rate, but it can't understand the physical discomfort you might be experiencing or adjust the training in [[Real-Time]] based on your body's responses like a human coach would.
 >
 > **[2:26](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/communicating-with-ai?u=76281980&t=146)** Number three, be detailed and clear in your commands.
 >
@@ -942,13 +931,13 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/communicating-with-ai?u=76281980&t=158)** The more detailed you are, the more accurately the AI can fulfill your request.
 >
-> **[2:44](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/communicating-with-ai?u=76281980&t=164)** If you're using an AI like open AI's GPT to generate a paragraph on climate change, instead of saying write about climate change, you could say, write a 200-word paragraph about the effects of climate change on polar bear populations in the Arctic.
+> **[2:44](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/communicating-with-ai?u=76281980&t=164)** If you're using an AI like open AI's GPT to generate a paragraph on [[Climate Change]], instead of saying write about climate change, you could say, write a 200-[[Microsoft Word|word]] paragraph about the effects of climate change on polar bear populations in the Arctic.
 >
 > **[2:59](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/communicating-with-ai?u=76281980&t=179)** - This detailed command makes your intent clear.
 >
 > **[3:02](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/communicating-with-ai?u=76281980&t=182)** Number four, avoid sarcasm, idioms, and colloquial language.
 >
-> **[3:06](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/communicating-with-ai?u=76281980&t=186)** While AI's natural language processing abilities have greatly improved, they still struggle with understanding sarcasm, idioms, or regional phrases.
+> **[3:06](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/communicating-with-ai?u=76281980&t=186)** While AI's [[Natural Language Processing (NLP)|natural language processing]] abilities have greatly improved, they still struggle with understanding sarcasm, idioms, or regional phrases.
 >
 > **[3:15](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/communicating-with-ai?u=76281980&t=195)** It's best to use clear literal language.
 >
@@ -956,7 +945,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/communicating-with-ai?u=76281980&t=204)** Instead, a command like start at the beginning of the process with step one, would be much more understandable to the AI.
 >
-> **[3:32](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/communicating-with-ai?u=76281980&t=212)** Number five, keep privacy and security in focus.
+> **[3:32](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/communicating-with-ai?u=76281980&t=212)** Number five, keep [[Privacy]] and security in focus.
 >
 > **[3:35](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/communicating-with-ai?u=76281980&t=215)** All interactions with AI, especially voice assistance, have potential privacy implications.
 >
@@ -964,7 +953,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/communicating-with-ai?u=76281980&t=225)** Never disclose sensitive information and use privacy settings to control how data is handled.
 >
-> **[3:51](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/communicating-with-ai?u=76281980&t=231)** This applies to using AI to read and sort email, as well as cutting and pasting data or information into tools like ChatGPT.
+> **[3:51](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/communicating-with-ai?u=76281980&t=231)** This applies to using AI to read and sort email, as well as cutting and pasting data or information into tools like [[ChatGPT]].
 >
 > **[3:58](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/communicating-with-ai?u=76281980&t=238)** AI never shies away from an opportunity to learn.
 >
@@ -978,7 +967,7 @@ created: 2026-05-02
 >
 > **[4:30](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/communicating-with-ai?u=76281980&t=270)** Pause between sentences and commands to give AI a chance to process what you've said.
 >
-> **[4:36](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/communicating-with-ai?u=76281980&t=276)** If you're using an AI language translator like Google Translate, rather than inputting a long complex paragraph with many clauses, break it into shorter sentences.
+> **[4:36](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/communicating-with-ai?u=76281980&t=276)** If you're using an AI language translator like [[Google]] Translate, rather than inputting a long complex paragraph with many clauses, break it into shorter sentences.
 >
 > **[4:45](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/communicating-with-ai?u=76281980&t=285)** This allows the AI to process each sentence separately, often providing more accurate translations.
 >
@@ -990,7 +979,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (32), data (6), [[Climate Change]] (3), [[Privacy]] (3), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Climate Change]] (3), [[Privacy]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Algorithms]] (1), [[Real-Time]] (1)
 > **Cross-References:** in the last (1), we talked about (1), in the next (1)
 > **Analogies:** for instance (2)
 > **Speakers:** - in (1), - this (1)
@@ -1003,8 +992,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Where data comes from
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/where-data-comes-from?u=76281980)
+#### [Where data comes from](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/where-data-comes-from?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1038,7 +1026,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/where-data-comes-from?u=76281980&t=61)** It's much more accurate to say that data are produced.
 >
-> **[1:04](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/where-data-comes-from?u=76281980&t=64)** In fact, keeping in mind that data are always the products of technological capture and social categorization helps us to keep our eyes focused on the role that data plays in our decisions.
+> **[1:04](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/where-data-comes-from?u=76281980&t=64)** In fact, keeping in mind that data are always the [[Microsoft Products|products]] of technological capture and social categorization helps us to keep our eyes focused on the role that data plays in our decisions.
 >
 > **[1:15](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/where-data-comes-from?u=76281980&t=75)** Building analytical insight starts with understanding the origins of your data, its accuracy, and its representation of the realities you want to explore.
 >
@@ -1046,9 +1034,9 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/where-data-comes-from?u=76281980&t=92)** For instance, in the US, the NBA uses sophisticated camera systems to capture detailed data about basketball players' movements.
 >
-> **[1:39](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/where-data-comes-from?u=76281980&t=99)** This extends beyond our conventional statistics, like free throw attempts and rebounds.
+> **[1:39](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/where-data-comes-from?u=76281980&t=99)** This extends beyond our conventional [[Statistics]], like free throw attempts and rebounds.
 >
-> **[1:43](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/where-data-comes-from?u=76281980&t=103)** Data is also continually produced as we interact online, leaving a digital footprint that companies, like Google and Amazon, use to track our behaviors and purchasing decisions.
+> **[1:43](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/where-data-comes-from?u=76281980&t=103)** Data is also continually produced as we interact online, leaving a digital footprint that companies, like [[Google]] and Amazon, use to track our behaviors and purchasing decisions.
 >
 > **[1:53](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/where-data-comes-from?u=76281980&t=113)** But this data is still susceptible to the same kind of errors and misinterpretations that were faced by bookkeepers of yesterday, as well as threats from accidents and hackers.
 >
@@ -1058,13 +1046,13 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/where-data-comes-from?u=76281980&t=137)** A school system might use data about its city's real estate sales to predict future student demographics and prescribe students' educational needs.
 >
-> **[2:25](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/where-data-comes-from?u=76281980&t=145)** But unlike description, in which the data that are aggregated into patterns and trends is relatively straightforward and easy to understand, prediction and prescription require more data classification, manipulation, and computation that often goes unseen.
+> **[2:25](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/where-data-comes-from?u=76281980&t=145)** But unlike description, in which the data that are aggregated into patterns and trends is relatively straightforward and easy to understand, prediction and prescription require more [[Data Classification]], manipulation, and computation that often goes unseen.
 >
 > **[2:42](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/where-data-comes-from?u=76281980&t=162)** To most people, the data analytics process is a black box.
 >
 > **[2:46](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/where-data-comes-from?u=76281980&t=166)** Data go in one side, and out the other side come descriptions and predictions.
 >
-> **[2:51](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/where-data-comes-from?u=76281980&t=171)** In my conversations with people who regularly produce or consume the predictions and prescriptions of the analytics process, I've learned that seeing into the black box means understanding both how data are categorized and how the algorithms that sort data into the causal models are constructed.
+> **[2:51](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/where-data-comes-from?u=76281980&t=171)** In my conversations with people who regularly produce or consume the predictions and prescriptions of the analytics process, I've learned that seeing into the black box means understanding both how data are categorized and how the [[Algorithms]] that sort data into the causal models are constructed.
 >
 > **[3:09](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/where-data-comes-from?u=76281980&t=189)** One of the under-recognized facts of data analytics is that data don't exist apart from the systems we use to classify them.
 >
@@ -1072,21 +1060,20 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/where-data-comes-from?u=76281980&t=209)** Developing a digital mindset means thinking hard about how the data you use is classified.
 >
-> **[3:34](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/where-data-comes-from?u=76281980&t=214)** Basic data literacy means learning how to ask the right questions to ascertain details about what exactly is going on inside that black box.
+> **[3:34](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/where-data-comes-from?u=76281980&t=214)** Basic [[Data Literacy]] means learning how to ask the right questions to ascertain details about what exactly is going on inside that black box.
 >
 > **[3:43](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/where-data-comes-from?u=76281980&t=223)** We're going to discuss what those right questions are in the next video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (30), [[Analytics]] (3), [[Microsoft Products|Products]] (1), [[Statistics]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Statistics]] (1), [[Google]] (1), [[Data Classification]] (1), [[Algorithms]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **Env Vars:** nba (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - is (1)
 
-#### The four questions to ask to make smart decisions with data
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/the-four-questions-to-ask-to-make-smart-decisions-with-data?u=76281980)
+#### [The four questions to ask to make smart decisions with data](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/the-four-questions-to-ask-to-make-smart-decisions-with-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1100,9 +1087,9 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/the-four-questions-to-ask-to-make-smart-decisions-with-data?u=76281980&t=27)** Understanding the source of your data is crucial.
 >
-> **[0:31](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/the-four-questions-to-ask-to-make-smart-decisions-with-data?u=76281980&t=31)** Is it internal, stemming from your own business operations or customer interactions?
+> **[0:31](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/the-four-questions-to-ask-to-make-smart-decisions-with-data?u=76281980&t=31)** Is it internal, stemming from your own [[Business Operations]] or customer interactions?
 >
-> **[0:36](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/the-four-questions-to-ask-to-make-smart-decisions-with-data?u=76281980&t=36)** Or is it external coming from public databases, purchased from vendors, or collected via social media?
+> **[0:36](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/the-four-questions-to-ask-to-make-smart-decisions-with-data?u=76281980&t=36)** Or is it external coming from public [[Databases]], purchased from vendors, or collected via social media?
 >
 > **[0:43](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/the-four-questions-to-ask-to-make-smart-decisions-with-data?u=76281980&t=43)** If it's internal, like sales data or feedback from customers, how was it collected?
 >
@@ -1114,7 +1101,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/the-four-questions-to-ask-to-make-smart-decisions-with-data?u=76281980&t=68)** Just as you wouldn't trust random health advice, you shouldn't trust data from unverified or dubious sources.
 >
-> **[1:14](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/the-four-questions-to-ask-to-make-smart-decisions-with-data?u=76281980&t=74)** Data quality is also important.
+> **[1:14](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/the-four-questions-to-ask-to-make-smart-decisions-with-data?u=76281980&t=74)** [[Data Quality]] is also important.
 >
 > **[1:16](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/the-four-questions-to-ask-to-make-smart-decisions-with-data?u=76281980&t=76)** You have to ensure the data is accurate, relevant, complete, and up to date.
 >
@@ -1202,15 +1189,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (36), business (2), traffic (2), [[Databases]] (1), database (1)
+> **Frameworks & Libraries:** [[Business Operations]] (1), [[Databases]] (1), [[Data Quality]] (1)
 > **Analogies:** for example (3), for instance (3), picture (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** refers to (1), is a  (1), is an  (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - have (1)
 
-#### Presenting data in compelling ways
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/presenting-data-in-compelling-ways?u=76281980)
+#### [Presenting data in compelling ways](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/presenting-data-in-compelling-ways?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1222,7 +1208,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/presenting-data-in-compelling-ways?u=76281980&t=20)** Let's consider an example.
 >
-> **[0:22](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/presenting-data-in-compelling-ways?u=76281980&t=22)** I collaborated with two city planning organizations, both of which were using an advanced AI-powered simulation tool to help politicians, business owners, and regular citizens, like you and me, make decisions about where to widen freeways, where to put subway stops, and whether high rises, houses, or shopping malls should be built on a particular corner.
+> **[0:22](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/presenting-data-in-compelling-ways?u=76281980&t=22)** I collaborated with two city planning organizations, both of which were using an advanced AI-powered [[Simulation]] tool to help politicians, business owners, and regular citizens, like you and me, make decisions about where to widen freeways, where to put subway stops, and whether high rises, houses, or shopping malls should be built on a particular corner.
 >
 > **[0:42](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/presenting-data-in-compelling-ways?u=76281980&t=42)** In one of the two cities, planners presented the results of their simulations through 3D visualizations.
 >
@@ -1292,7 +1278,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), ai (1), [[Simulation]] (1), business (1), traffic (1)
+> **Frameworks & Libraries:** [[Simulation]] (1)
 > **Analogies:** picture (1), imagine (1), such as (1)
 > **Cross-References:** previous video (1), we discussed (1)
 > **CLI Commands:** make (1)
@@ -1304,8 +1290,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuous learning in the digital age
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/continuous-learning-in-the-digital-age?u=76281980)
+#### [Continuous learning in the digital age](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/continuous-learning-in-the-digital-age?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1341,7 +1326,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/continuous-learning-in-the-digital-age?u=76281980&t=114)** In many cases, these tests change every year to keep up with the new technology, and if employees don't pass the new test, they have to retake the course.
 >
-> **[2:03](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/continuous-learning-in-the-digital-age?u=76281980&t=123)** Companies with smaller budgets should consider creating a custom learning path with courses from companies like LinkedIn and Udacity that focus on both technical and leadership skills.
+> **[2:03](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/continuous-learning-in-the-digital-age?u=76281980&t=123)** Companies with smaller budgets should consider creating a custom learning path with courses from companies like [[LinkedIn]] and Udacity that focus on both technical and leadership skills.
 >
 > **[2:15](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/continuous-learning-in-the-digital-age?u=76281980&t=135)** One successful small company I worked with asked employees and managers to suggest useful courses from these platforms and encouraged everyone involved in the planning process to complete one course each month, whether they work directly with AI or not.
 >
@@ -1371,7 +1356,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), hr (2), data (1), business (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Speakers:** - now (1)

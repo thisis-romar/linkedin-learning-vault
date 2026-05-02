@@ -94,18 +94,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The benefits of implementing AIMS
-> [LinkedIn Learning](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/the-benefits-of-implementing-aims?u=76281980)
+#### [The benefits of implementing AIMS](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/the-benefits-of-implementing-aims?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/the-benefits-of-implementing-aims?u=76281980&t=0)** - AI is being rapidly utilized across all industries, posing gains such as increased efficiency and risk to society such as job displacement.
 >
-> **[0:12](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/the-benefits-of-implementing-aims?u=76281980&t=12)** In this course, I'll demonstrate how the International Organization for Standardization, or ISOs, artificial Intelligence Management System, or AIMS, assists you in developing AI policy, defining roles, managing risk, and creating documentation to conform with the AIMS standard.
+> **[0:12](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/the-benefits-of-implementing-aims?u=76281980&t=12)** In this course, I'll demonstrate how the International Organization for Standardization, or ISOs, [[Artificial Intelligence (AI)|artificial Intelligence]] Management System, or AIMS, assists you in developing AI policy, defining roles, managing risk, and creating documentation to conform with the AIMS standard.
 >
 > **[0:33](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/the-benefits-of-implementing-aims?u=76281980&t=33)** There is also a set of guidelines for ethical and efficient AI use.
 >
-> **[0:38](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/the-benefits-of-implementing-aims?u=76281980&t=38)** My name is Lyron, and I've worked in cybersecurity for the last three decades.
+> **[0:38](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/the-benefits-of-implementing-aims?u=76281980&t=38)** My name is Lyron, and I've worked in [[Cybersecurity]] for the last three decades.
 >
 > **[0:43](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/the-benefits-of-implementing-aims?u=76281980&t=43)** Are you ready to initiate the implementation of your AIMS?
 >
@@ -113,7 +112,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), management (1), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** aims (3)
 > **Analogies:** such as (2)
 > **Speakers:** - ai (1)
@@ -123,26 +122,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding the categories of AI uses
-> [LinkedIn Learning](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/understanding-the-categories-of-ai-uses?u=76281980)
+#### [Understanding the categories of AI uses](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/understanding-the-categories-of-ai-uses?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/understanding-the-categories-of-ai-uses?u=76281980&t=0)** - [Narrator] Imagine AI as a large diverse family with each member having unique traits and ability.
 >
-> **[0:07](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/understanding-the-categories-of-ai-uses?u=76281980&t=7)** The star of the family currently is generative AI.
+> **[0:07](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/understanding-the-categories-of-ai-uses?u=76281980&t=7)** The star of the family currently is [[Generative AI]].
 >
 > **[0:11](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/understanding-the-categories-of-ai-uses?u=76281980&t=11)** McKinsey research indicates that generative AI applications stand to add up to $4.4 trillion to the global economy annually.
 >
-> **[0:22](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/understanding-the-categories-of-ai-uses?u=76281980&t=22)** However, this course, the ISO IEC 42001, Artificial Intelligence Management System standard covers the entire family.
+> **[0:22](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/understanding-the-categories-of-ai-uses?u=76281980&t=22)** However, this course, the ISO IEC 42001, [[Artificial Intelligence (AI)|Artificial Intelligence]] Management System standard covers the entire family.
 >
 > **[0:35](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/understanding-the-categories-of-ai-uses?u=76281980&t=35)** For instance, robotics involves designing, constructing, operating, and using robots to perform tasks in the physical world.
 >
 > **[0:44](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/understanding-the-categories-of-ai-uses?u=76281980&t=44)** Robotics is a practical application of AI.
 >
-> **[0:48](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/understanding-the-categories-of-ai-uses?u=76281980&t=48)** On the other hand, natural language processing deals with the interactions between computers and humans through everyday language, enabling AI to understand and respond to human communication.
+> **[0:48](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/understanding-the-categories-of-ai-uses?u=76281980&t=48)** On the other hand, [[Natural Language Processing (NLP)|natural language processing]] deals with the interactions between computers and humans through everyday language, enabling AI to understand and respond to human communication.
 >
-> **[1:03](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/understanding-the-categories-of-ai-uses?u=76281980&t=63)** Computer vision focuses on enabling computers to interpret and understand the visual world, a crucial capability for AI to interact with the physical environment like driverless cars.
+> **[1:03](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/understanding-the-categories-of-ai-uses?u=76281980&t=63)** [[Computer Vision]] focuses on enabling computers to interpret and understand the visual world, a crucial capability for AI to interact with the physical environment like driverless cars.
 >
 > **[1:18](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/understanding-the-categories-of-ai-uses?u=76281980&t=78)** Machine learning is a significant capability or subfield in the AI family that contains generative AI as a subset.
 >
@@ -150,7 +148,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/understanding-the-categories-of-ai-uses?u=76281980&t=93)** Two sub capabilities of machine learning are supervised and unsupervised models.
 >
-> **[1:41](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/understanding-the-categories-of-ai-uses?u=76281980&t=101)** Supervised learning models have labels or tags like name, type, or number.
+> **[1:41](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/understanding-the-categories-of-ai-uses?u=76281980&t=101)** [[Supervised Learning]] models have labels or tags like name, type, or number.
 >
 > **[1:47](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/understanding-the-categories-of-ai-uses?u=76281980&t=107)** This allows a system to sort elements into like sets.
 >
@@ -158,9 +156,9 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/understanding-the-categories-of-ai-uses?u=76281980&t=118)** Unsupervised learning models look at raw data to see if it can be categorized into previously unnoticed groups.
 >
-> **[2:07](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/understanding-the-categories-of-ai-uses?u=76281980&t=127)** Deep learning is a significant subset of machine learning.
+> **[2:07](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/understanding-the-categories-of-ai-uses?u=76281980&t=127)** [[Deep Learning]] is a significant subset of machine learning.
 >
-> **[2:13](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/understanding-the-categories-of-ai-uses?u=76281980&t=133)** It uses artificial neural networks inspired by the human brain.
+> **[2:13](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/understanding-the-categories-of-ai-uses?u=76281980&t=133)** It uses [[Artificial Neural Networks]] inspired by the human brain.
 >
 > **[2:17](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/understanding-the-categories-of-ai-uses?u=76281980&t=137)** It operates on labeled and unlabeled or raw data, most of which are unlabeled.
 >
@@ -176,7 +174,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/understanding-the-categories-of-ai-uses?u=76281980&t=183)** Once a discriminative model is trained, it can predict the label for new data points.
 >
-> **[3:11](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/understanding-the-categories-of-ai-uses?u=76281980&t=191)** A generative model generates new data instances based on a learned probability distribution of the existing data it is trained on.
+> **[3:11](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/understanding-the-categories-of-ai-uses?u=76281980&t=191)** A generative model generates new data instances based on a learned [[Probability]] distribution of the existing data it is trained on.
 >
 > **[3:21](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/understanding-the-categories-of-ai-uses?u=76281980&t=201)** Generative is typically trained in unsupervised or semi-supervised context.
 >
@@ -200,7 +198,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), ai (8), management (4), [[Generative AI]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Computer Vision]] (1), [[Supervised Learning]] (1)
 > **Definitions:** is a  (4)
 > **Analogies:** for instance (3), imagine (1)
 > **Env Vars:** iso (1), iec (1)
@@ -208,8 +206,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
 
-#### How AI merits and challenges affect use
-> [LinkedIn Learning](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/how-ai-merits-and-challenges-affect-use?u=76281980)
+#### [How AI merits and challenges affect use](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/how-ai-merits-and-challenges-affect-use?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -235,11 +232,11 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/how-ai-merits-and-challenges-affect-use?u=76281980&t=88)** Another desirable outcome is that AI-powered recommendations will help to analyze user data to provide personalized product, service, content, and advertisement recommendations.
 >
-> **[1:44](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/how-ai-merits-and-challenges-affect-use?u=76281980&t=104)** By tailoring experience to individual preferences and behavior, AI enhances user engagement and satisfaction and can increase loyalty in e-commerce, entertainment, and digital marketing.
+> **[1:44](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/how-ai-merits-and-challenges-affect-use?u=76281980&t=104)** By tailoring experience to individual preferences and behavior, AI enhances user engagement and satisfaction and can increase loyalty in [[E-Commerce]], entertainment, and digital marketing.
 >
 > **[1:59](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/how-ai-merits-and-challenges-affect-use?u=76281980&t=119)** An undesirable outcome is that AI systems can perpetuate or amplify biases in training data, leading to unfair and discriminatory outcomes for specific groups.
 >
-> **[2:15](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/how-ai-merits-and-challenges-affect-use?u=76281980&t=135)** It is especially challenging to address bias and ensure fairness and AI algorithms when it is a product of the society that it came from.
+> **[2:15](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/how-ai-merits-and-challenges-affect-use?u=76281980&t=135)** It is especially challenging to address bias and ensure fairness and AI [[Algorithms]] when it is a product of the society that it came from.
 >
 > **[2:27](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/how-ai-merits-and-challenges-affect-use?u=76281980&t=147)** AI can optimize resource utilization in various sectors such as energy, transportation, agriculture, and logistics.
 >
@@ -249,9 +246,9 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/how-ai-merits-and-challenges-affect-use?u=76281980&t=179)** The optimization that can create undesired results is that the rapid advancement of AI technology can present challenges for policymakers in developing appropriate regulations and standards.
 >
-> **[3:13](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/how-ai-merits-and-challenges-affect-use?u=76281980&t=193)** This would help to ensure fairness and accountability.
+> **[3:13](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/how-ai-merits-and-challenges-affect-use?u=76281980&t=193)** This would help to ensure fairness and [[Accountability]].
 >
-> **[3:17](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/how-ai-merits-and-challenges-affect-use?u=76281980&t=197)** So there's this need to balance innovation with regulatory oversight, which is essential to promote responsible AI development, while safeguarding public interest and values.
+> **[3:17](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/how-ai-merits-and-challenges-affect-use?u=76281980&t=197)** So there's this need to balance innovation with regulatory oversight, which is essential to promote [[Responsible AI]] development, while safeguarding public interest and values.
 >
 > **[3:30](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/how-ai-merits-and-challenges-affect-use?u=76281980&t=210)** These are just a few examples of the potential benefits and harm that AI poses.
 >
@@ -261,13 +258,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (16), data (2), product (2), [[Algorithms]] (2), management (2)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[E-Commerce]] (1), [[Accountability]] (1), [[Responsible AI]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for instance (1), such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Impact of laws and regulations
-> [LinkedIn Learning](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/impact-of-laws-and-regulations?u=76281980)
+#### [Impact of laws and regulations](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/impact-of-laws-and-regulations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -303,7 +299,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/impact-of-laws-and-regulations?u=76281980&t=109)** The EU Parliament approved the AI Act on March 13th, 2024.
 >
-> **[1:56](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/impact-of-laws-and-regulations?u=76281980&t=116)** Among other things, it aims to protect fundamental rights, democracy, the rule of law, and environmental sustainability from high-risk AI while boosting innovation and establishing Europe as a leader in the field.
+> **[1:56](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/impact-of-laws-and-regulations?u=76281980&t=116)** Among other things, it aims to protect fundamental rights, democracy, the rule of law, and [[Environmental Sustainability]] from high-risk AI while boosting innovation and establishing Europe as a leader in the field.
 >
 > **[2:11](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/impact-of-laws-and-regulations?u=76281980&t=131)** And essential features that AI systems that can be used in different applications are analyzed and classified according to the risk they pose to users.
 >
@@ -313,7 +309,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/impact-of-laws-and-regulations?u=76281980&t=152)** Violation of the guardrails can lead to heavy fines.
 >
-> **[2:37](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/impact-of-laws-and-regulations?u=76281980&t=157)** Unacceptable risk featured in the AI Act are boundaries in the field of action that threatens citizens' rights, including biometric categorization systems based on sensitive characteristics and untargeted scraping of facial images, from the internet or CCTV to create recognition databases.
+> **[2:37](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/impact-of-laws-and-regulations?u=76281980&t=157)** Unacceptable risk featured in the AI Act are boundaries in the field of action that threatens citizens' rights, including biometric categorization systems based on sensitive characteristics and untargeted scraping of facial images, from the internet or CCTV to create recognition [[Databases]].
 >
 > **[2:59](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/impact-of-laws-and-regulations?u=76281980&t=179)** Emotional recognition in the workplace, in schools, social scoring, predictive policing based solely on profiling of a person or assessing their characteristics.
 >
@@ -327,14 +323,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), business (1), [[Environmental Sustainability]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Environmental Sustainability]] (1), [[Databases]] (1)
 > **Env Vars:** epa (2), usa (1), pfas (1), cctv (1), act (1)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Promoting trust, transparency, and reliability
-> [LinkedIn Learning](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/promoting-trust-transparency-and-reliability?u=76281980)
+#### [Promoting trust, transparency, and reliability](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/promoting-trust-transparency-and-reliability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -348,7 +343,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/promoting-trust-transparency-and-reliability?u=76281980&t=25)** In like manner, organizations that embark on AI initiatives without leading with trust, transparency, and reliability may experience the same reactions from customers choosing to embark with them on their journey.
 >
-> **[0:39](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/promoting-trust-transparency-and-reliability?u=76281980&t=39)** When the AI Act was conceived in April 2021, EU Parliament policymakers were apprehensive about the lack of transparency AI algorithms would have when deciding who would get a job, be granted refugee status, or receive social benefits.
+> **[0:39](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/promoting-trust-transparency-and-reliability?u=76281980&t=39)** When the AI Act was conceived in April 2021, EU Parliament policymakers were apprehensive about the lack of transparency AI [[Algorithms]] would have when deciding who would get a job, be granted refugee status, or receive social benefits.
 >
 > **[0:59](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/promoting-trust-transparency-and-reliability?u=76281980&t=59)** This concern was justified because by 2022, examples of AI actively harming people were evident.
 >
@@ -372,7 +367,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/promoting-trust-transparency-and-reliability?u=76281980&t=145)** Publishing summaries of copyrighted data used for training is another requirement.
 >
-> **[2:33](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/promoting-trust-transparency-and-reliability?u=76281980&t=153)** In October 2023, President Biden issued an executive order on Safe, Secure, and Trustworthy Artificial Intelligence.
+> **[2:33](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/promoting-trust-transparency-and-reliability?u=76281980&t=153)** In October 2023, President Biden issued an executive order on Safe, Secure, and Trustworthy [[Artificial Intelligence (AI)|Artificial Intelligence]].
 >
 > **[2:44](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/promoting-trust-transparency-and-reliability?u=76281980&t=164)** This order requires developers of the most powerful AI systems to share their safety test results and other critical information with the US government, which includes develop standards, tools, and tests to help ensure that AI systems are safe, secure, and trustworthy.
 >
@@ -388,12 +383,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Algorithms]] (1), data (1), business (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Algorithms]] (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [narrator] (1)
 
-#### Understanding the benefits of expert standardization
-> [LinkedIn Learning](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/understanding-the-benefits-of-expert-standardization?u=76281980)
+#### [Understanding the benefits of expert standardization](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/understanding-the-benefits-of-expert-standardization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -419,7 +413,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/understanding-the-benefits-of-expert-standardization?u=76281980&t=51)** "It brings global experts together "to agree on the best ways of doing things.
 >
-> **[0:54](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/understanding-the-benefits-of-expert-standardization?u=76281980&t=54)** "From quality management to artificial intelligence, "our mission," ISO states, "is to make lives easier, safer, and better "for everyone, everywhere."
+> **[0:54](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/understanding-the-benefits-of-expert-standardization?u=76281980&t=54)** "From quality management to [[Artificial Intelligence (AI)|artificial intelligence]], "our mission," ISO states, "is to make lives easier, safer, and better "for everyone, everywhere."
 >
 > **[1:10](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/understanding-the-benefits-of-expert-standardization?u=76281980&t=70)** Whenever you see IEC appended to ISO titles after a slash, it represents that the International Electrotechnical Commission has partnered with ISO to develop the standard you are reviewing, which extends beyond operational focus into some form of technology.
 >
@@ -431,7 +425,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/understanding-the-benefits-of-expert-standardization?u=76281980&t=125)** ISO 14001 is the environmental management system by which standard organizations can take proactive measures to minimize their environmental footprint, comply with relevant legal requirements, and achieve their environmental objectives.
 >
-> **[2:23](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/understanding-the-benefits-of-expert-standardization?u=76281980&t=143)** ISO/IEC 27001 is for establishing, implementing, and maintaining an information security management system.
+> **[2:23](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/understanding-the-benefits-of-expert-standardization?u=76281980&t=143)** ISO/IEC 27001 is for establishing, implementing, and maintaining an [[Information Security Management]] system.
 >
 > **[2:32](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/understanding-the-benefits-of-expert-standardization?u=76281980&t=152)** It is the most popular information security standard in the world.
 >
@@ -439,7 +433,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/understanding-the-benefits-of-expert-standardization?u=76281980&t=171)** The standard that brought you to this course is ISO/IEC 42001, which specifies requirements for establishing, implementing, maintaining, and continually improving an artificial intelligence management system, or an AIMS.
 >
-> **[3:11](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/understanding-the-benefits-of-expert-standardization?u=76281980&t=191)** It is designed for entities providing or utilizing AI-based products or services, ensuring responsible development and use of AI systems.
+> **[3:11](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/understanding-the-benefits-of-expert-standardization?u=76281980&t=191)** It is designed for entities providing or utilizing AI-based [[Microsoft Products|products]] or services, ensuring responsible development and use of AI systems.
 >
 > **[3:24](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/understanding-the-benefits-of-expert-standardization?u=76281980&t=204)** It focuses on ethical considerations, transparency, and continuous learning.
 >
@@ -453,15 +447,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (6), ai (3), product (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Information Security Management]] (2)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Information Security Management]] (2), [[Microsoft Products|Products]] (1)
 > **Env Vars:** iso (11), iec (3), qms (1), isms (1), aims (1)
 > **Definitions:** is a  (1), known as (1), is an  (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Benefits of a management system
-> [LinkedIn Learning](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/benefits-of-a-management-system?u=76281980)
+#### [Benefits of a management system](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/benefits-of-a-management-system?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -531,13 +524,13 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/benefits-of-a-management-system?u=76281980&t=248)** So this is where an auditing body has the capability of either certifying or not certifying an organization in meeting the standard requirement.
 >
-> **[4:18](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/benefits-of-a-management-system?u=76281980&t=258)** This is useful for an organization to meet legal and regulatory compliance.
+> **[4:18](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/benefits-of-a-management-system?u=76281980&t=258)** This is useful for an organization to meet legal and [[Regulatory Compliance]].
 >
 > **[4:22](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/benefits-of-a-management-system?u=76281980&t=262)** Certification can only occur using requirements in Type A MSS documents.
 >
 > **[4:30](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/benefits-of-a-management-system?u=76281980&t=270)** Therefore, Type B cannot be certified against.
 >
-> **[4:35](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/benefits-of-a-management-system?u=76281980&t=275)** ISO/IEC Artificial Intelligence Management Standard 42001 is a Type A harmonized standard.
+> **[4:35](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/benefits-of-a-management-system?u=76281980&t=275)** ISO/IEC [[Artificial Intelligence (AI)|Artificial Intelligence]] Management Standard 42001 is a Type A harmonized standard.
 >
 > **[4:46](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/benefits-of-a-management-system?u=76281980&t=286)** So organizations that conform to it can expect to seek certification for their artificial intelligence management system.
 >
@@ -547,18 +540,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (10), [[Artificial Intelligence (AI)|Artificial intelligence]] (4), product (1), [[Regulatory Compliance]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (4), [[Regulatory Compliance]] (1)
 > **Env Vars:** mss (7), iso (6), iec (4), isms (1)
 > **Analogies:** for example (1), for instance (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Overview of AIMS ISO 42001
-> [LinkedIn Learning](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/overview-of-aims-iso-42001?u=76281980)
+#### [Overview of AIMS ISO 42001](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/overview-of-aims-iso-42001?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/overview-of-aims-iso-42001?u=76281980&t=1)** - [Instructor] In 2024, a McKinsey report stated, "Our latest research estimates that generative AI could add 2.6 trillion to the $4.4 trillion annually across the 63 use cases we analyzed."
+> **[0:01](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/overview-of-aims-iso-42001?u=76281980&t=1)** - [Instructor] In 2024, a McKinsey report stated, "Our latest research estimates that [[Generative AI]] could add 2.6 trillion to the $4.4 trillion annually across the 63 use cases we analyzed."
 >
 > **[0:21](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/overview-of-aims-iso-42001?u=76281980&t=21)** Recall that generative AI is the star of the AI family, but not the only member.
 >
@@ -566,13 +558,13 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/overview-of-aims-iso-42001?u=76281980&t=38)** An international standard is essential to engage AI as either.
 >
-> **[0:44](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/overview-of-aims-iso-42001?u=76281980&t=44)** The Artificial Intelligence Management Standard, or AIMS, helps organizations responsibly perform their role concerning AI systems.
+> **[0:44](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/overview-of-aims-iso-42001?u=76281980&t=44)** The [[Artificial Intelligence (AI)|Artificial Intelligence]] Management Standard, or AIMS, helps organizations responsibly perform their role concerning AI systems.
 >
 > **[0:55](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/overview-of-aims-iso-42001?u=76281980&t=55)** AI potentially raises the following considerations.
 >
-> **[1:00](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/overview-of-aims-iso-42001?u=76281980&t=60)** The use of AI for automatic decision-making, sometimes in a non-transparent and unexplainable way can require specific management beyond the management of classical IT systems.
+> **[1:00](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/overview-of-aims-iso-42001?u=76281980&t=60)** The use of AI for automatic [[Decision-Making]], sometimes in a non-transparent and unexplainable way can require specific management beyond the management of classical IT systems.
 >
-> **[1:16](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/overview-of-aims-iso-42001?u=76281980&t=76)** Using data analysis, insight, and machine learning rather than human-coded logic to design systems increases the application opportunity for AI systems and changes how such systems are developed, justified, and deployed.
+> **[1:16](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/overview-of-aims-iso-42001?u=76281980&t=76)** Using data analysis, insight, and machine learning rather than human-coded logic to [[Design Systems]] increases the application opportunity for AI systems and changes how such systems are developed, justified, and deployed.
 >
 > **[1:35](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/overview-of-aims-iso-42001?u=76281980&t=95)** AI systems that perform continuous learning change their behavior during use.
 >
@@ -620,7 +612,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), management (7), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Generative AI]] (2), application (2)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Generative AI]] (2), [[Decision-Making]] (1), [[Design Systems]] (1)
 > **Env Vars:** aims (4), iso (3), mss (1), iec (1)
 > **Versions:** 2.6 (1), 4.4 (1)
 > **Warnings:** note that (1)
@@ -631,8 +623,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Context of organization: Clause 4
-> [LinkedIn Learning](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/context-of-organization-clause-4-1-24108924?u=76281980)
+#### [Context of organization: Clause 4](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/context-of-organization-clause-4-1-24108924?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -696,13 +687,13 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/context-of-organization-clause-4-1-24108924?u=76281980&t=154)** Their fraud-hunting algorithm uses machine learning to find improper transactions and application data unseen by humans that trigger alerts.
 >
-> **[2:45](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/context-of-organization-clause-4-1-24108924?u=76281980&t=165)** We will use the bank lender example as an anchor for showing how the requirements of the aims, our artificial intelligence management system, may be applied to an entity.
+> **[2:45](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/context-of-organization-clause-4-1-24108924?u=76281980&t=165)** We will use the bank lender example as an anchor for showing how the requirements of the aims, our [[Artificial Intelligence (AI)|artificial intelligence]] management system, may be applied to an entity.
 >
 > **[2:59](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/context-of-organization-clause-4-1-24108924?u=76281980&t=179)** In our example, the developer of the AI fraud algorithm is an external organization.
 >
 > **[3:08](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/context-of-organization-clause-4-1-24108924?u=76281980&t=188)** The user and developer must maintain integrity and accuracy of fraud detection.
 >
-> **[3:15](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/context-of-organization-clause-4-1-24108924?u=76281980&t=195)** The provider is another company that bundles the fraud-hunting algorithm into a SaaS product and host it on their cloud platform.
+> **[3:15](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/context-of-organization-clause-4-1-24108924?u=76281980&t=195)** The provider is another company that bundles the fraud-hunting algorithm into a [[SaaS]] product and host it on their cloud platform.
 >
 > **[3:25](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/context-of-organization-clause-4-1-24108924?u=76281980&t=205)** The provider wants to ensure the availability and performance meet the agreed service levels.
 >
@@ -712,15 +703,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), management (3), game (1), business (1), application (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[SaaS]] (1)
 > **Versions:** 4.1 (2), 4.2 (1), 4.3 (1), 4.4 (1)
 > **Analogies:** for example (2), imagine (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Context of organization: Clause 4.1
-> [LinkedIn Learning](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/context-of-organization-clause-4-1?u=76281980)
+#### [Context of organization: Clause 4.1](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/context-of-organization-clause-4-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -730,13 +720,13 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/context-of-organization-clause-4-1?u=76281980&t=14)** External and internal issues addressed under Clause 4.1 include legal requirements that could prohibit the use of AI in a particular context, whether it is solely used internally.
 >
-> **[0:30](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/context-of-organization-clause-4-1?u=76281980&t=30)** The organization's concern about the effects of climate change are also part of the internal and external concerns or issues that an organization may have.
+> **[0:30](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/context-of-organization-clause-4-1?u=76281980&t=30)** The organization's concern about the effects of [[Climate Change]] are also part of the internal and external concerns or issues that an organization may have.
 >
 > **[0:43](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/context-of-organization-clause-4-1?u=76281980&t=43)** AI is resource intensive.
 >
 > **[0:47](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/context-of-organization-clause-4-1?u=76281980&t=47)** Cultural norms could also be part of the picture of external and internal issues.
 >
-> **[0:54](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/context-of-organization-clause-4-1?u=76281980&t=54)** These could include tradition, ethics, policies, competitive landscapes, contractual obligations, incentives or consequences, associated with AI's intended purpose and use.
+> **[0:54](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/context-of-organization-clause-4-1?u=76281980&t=54)** These could include tradition, [[Ethics]], policies, competitive landscapes, contractual obligations, incentives or consequences, associated with AI's intended purpose and use.
 >
 > **[1:11](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/context-of-organization-clause-4-1?u=76281980&t=71)** To further define roles and add to the fundamental list, Clause 4.1 mentions AI Providers, including AI platform providers and product or service providers.
 >
@@ -752,7 +742,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/context-of-organization-clause-4-1?u=76281980&t=126)** Relevant Authorities could include policymakers and regulators.
 >
-> **[2:13](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/context-of-organization-clause-4-1?u=76281980&t=133)** ISO/IEC 22989 referred to in the Artificial Intelligence MAnagement Systems for terms and definitions also provides an expanded and detailed description of roles and responsibilities for artificial intelligence concepts and terminology.
+> **[2:13](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/context-of-organization-clause-4-1?u=76281980&t=133)** ISO/IEC 22989 referred to in the [[Artificial Intelligence (AI)|Artificial Intelligence]] MAnagement Systems for terms and definitions also provides an expanded and detailed description of roles and responsibilities for artificial intelligence concepts and terminology.
 >
 > **[2:32](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/context-of-organization-clause-4-1?u=76281980&t=152)** A leadership requirement is to verify that the proper assignment of roles and responsibilities for the AIMS occurs.
 >
@@ -762,24 +752,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (19), data (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), leadership (2), [[Climate Change]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Climate Change]] (1), [[Ethics]] (1)
 > **Env Vars:** iso (1), iec (1), aims (1)
 > **Versions:** 4.1 (2)
 > **Analogies:** picture (1)
 > **Speakers:** - [presenter] (1)
 
-#### Interested party needs, AI scope, and AIMS: Clauses 4.2-4.4
-> [LinkedIn Learning](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/interested-party-needs-ai-scope-and-aims-clauses-4-2-4-4?u=76281980)
+#### [Interested party needs, AI scope, and AIMS: Clauses 4.2-4.4](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/interested-party-needs-ai-scope-and-aims-clauses-4-2-4-4?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/interested-party-needs-ai-scope-and-aims-clauses-4-2-4-4?u=76281980&t=0)** - [Instructor] Clauses 4.2 to 4.4 of the AI management system standard cover understanding the needs and expectations of interested parties, determining the scope of the AI management system and AI management system.
 >
-> **[0:17](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/interested-party-needs-ai-scope-and-aims-clauses-4-2-4-4?u=76281980&t=17)** In clause 4.2, we move from understanding the contextual requirements of your organization, establishing their artificial intelligence management system to the needs of interested parties related to your organization.
+> **[0:17](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/interested-party-needs-ai-scope-and-aims-clauses-4-2-4-4?u=76281980&t=17)** In clause 4.2, we move from understanding the contextual requirements of your organization, establishing their [[Artificial Intelligence (AI)|artificial intelligence]] management system to the needs of interested parties related to your organization.
 >
 > **[0:33](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/interested-party-needs-ai-scope-and-aims-clauses-4-2-4-4?u=76281980&t=33)** This includes determining the interested parties relevant to the AI management system, the requirements of those parties, and which requirements will be addressed through the AIMS.
 >
-> **[0:46](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/interested-party-needs-ai-scope-and-aims-clauses-4-2-4-4?u=76281980&t=46)** An example of determining interested parties could be from the vantage point of a company that develops AI computer vision and image recognition software for self-driving cars.
+> **[0:46](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/interested-party-needs-ai-scope-and-aims-clauses-4-2-4-4?u=76281980&t=46)** An example of determining interested parties could be from the vantage point of a company that develops AI [[Computer Vision]] and image recognition software for self-driving cars.
 >
 > **[0:59](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/interested-party-needs-ai-scope-and-aims-clauses-4-2-4-4?u=76281980&t=59)** Their interested parties could be the manufacturers of the camera, the car manufacturer, the owner of the vehicle, and the pertinent regulatory agencies and pedestrians.
 >
@@ -789,7 +778,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/interested-party-needs-ai-scope-and-aims-clauses-4-2-4-4?u=76281980&t=88)** As an AI computer vision and image recognition system developer, all these expectations and requirements are validly addressed through the AI management system.
 >
-> **[1:43](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/interested-party-needs-ai-scope-and-aims-clauses-4-2-4-4?u=76281980&t=103)** A special note in the 4.2 clause is relevant interested parties can have requirements related to climate change.
+> **[1:43](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/interested-party-needs-ai-scope-and-aims-clauses-4-2-4-4?u=76281980&t=103)** A special note in the 4.2 clause is relevant interested parties can have requirements related to [[Climate Change]].
 >
 > **[1:55](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/interested-party-needs-ai-scope-and-aims-clauses-4-2-4-4?u=76281980&t=115)** The Brookings Institute, which carries out in depth non-partisan research to improve policy and governance at local, national, and global levels, states that the effects of the power generation needed for AI will intensify issues related to climate change.
 >
@@ -803,7 +792,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/interested-party-needs-ai-scope-and-aims-clauses-4-2-4-4?u=76281980&t=175)** Contractual and legal requirements would define these dependencies.
 >
-> **[3:01](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/interested-party-needs-ai-scope-and-aims-clauses-4-2-4-4?u=76281980&t=181)** These are two examples of scope from certifications of an ISMS for Microsoft and for Google.
+> **[3:01](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/interested-party-needs-ai-scope-and-aims-clauses-4-2-4-4?u=76281980&t=181)** These are two examples of scope from certifications of an ISMS for [[Microsoft]] and for [[Google]].
 >
 > **[3:10](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/interested-party-needs-ai-scope-and-aims-clauses-4-2-4-4?u=76281980&t=190)** The scope of clause 4.3 determines all other activities related to all other clauses.
 >
@@ -823,7 +812,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), management (10), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Computer Vision]] (2), [[Climate Change]] (2)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Computer Vision]] (2), [[Climate Change]] (2), [[Microsoft]] (1), [[Google]] (1)
 > **Versions:** 4.3 (4), 4.2 (3), 4.4 (3), 4.1 (1)
 > **Env Vars:** aims (4), isms (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -834,8 +823,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI leadership and commitment: Clause 5.1
-> [LinkedIn Learning](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-leadership-and-commitment-clause-5-1?u=76281980)
+#### [AI leadership and commitment: Clause 5.1](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-leadership-and-commitment-clause-5-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -865,7 +853,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-leadership-and-commitment-clause-5-1?u=76281980&t=113)** These first two requirements requires explicit alignment and integration of AI with the business, not aligning the business to AI.
 >
-> **[2:05](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-leadership-and-commitment-clause-5-1?u=76281980&t=125)** Leadership would also be responsible for making sure that the proper resources for the AI management system are available, and communicating the importance of an effective artificial intelligence management system.
+> **[2:05](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-leadership-and-commitment-clause-5-1?u=76281980&t=125)** Leadership would also be responsible for making sure that the proper resources for the AI management system are available, and communicating the importance of an effective [[Artificial Intelligence (AI)|artificial intelligence]] management system.
 >
 > **[2:19](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-leadership-and-commitment-clause-5-1?u=76281980&t=139)** Leadership also ensures that the AIMS achieves its intended results by directing and supporting personnel to contribute to the AIMS's effectiveness.
 >
@@ -881,13 +869,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (12), ai (10), business (7), management (7), [[Artificial Intelligence (AI)|Artificial intelligence]] (3)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (3)
 > **Versions:** 5.1 (1), 5.2 (1), 5.3 (1)
 > **Env Vars:** aims (2)
 > **Speakers:** - [instructor] (1)
 
-#### AI policy: Clause 5.2
-> [LinkedIn Learning](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-policy-clause-5-2?u=76281980)
+#### [AI policy: Clause 5.2](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-policy-clause-5-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -899,7 +886,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-policy-clause-5-2?u=76281980&t=18)** AI will not necessarily correct disorganized behavior in your organization.
 >
-> **[0:24](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-policy-clause-5-2?u=76281980&t=24)** AI is an accelerator, so if you have lousy software development practices, for instance, AI will make you faster at delivering lousy products.
+> **[0:24](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-policy-clause-5-2?u=76281980&t=24)** AI is an accelerator, so if you have lousy [[Software Development]] practices, for instance, AI will make you faster at delivering lousy [[Microsoft Products|products]].
 >
 > **[0:38](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-policy-clause-5-2?u=76281980&t=38)** Sub-Clause 5.2 is AI Policy.
 >
@@ -953,7 +940,7 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-policy-clause-5-2?u=76281980&t=236)** The risk and impact assessment also would occur here.
 >
-> **[4:02](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-policy-clause-5-2?u=76281980&t=242)** To gain further assistance when developing AI policies, check out ISO/IEC 38507, which deals with governance implications of organizations' use of artificial intelligence.
+> **[4:02](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-policy-clause-5-2?u=76281980&t=242)** To gain further assistance when developing AI policies, check out ISO/IEC 38507, which deals with governance implications of organizations' use of [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[4:18](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-policy-clause-5-2?u=76281980&t=258)** The final sub-clause of leadership is assigning roles, responsibilities, and authorities.
 >
@@ -961,7 +948,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (21), leadership (4), next (2), [[Software Development]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Software Development]] (1), [[Microsoft Products|Products]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Env Vars:** aims (1), nxb (1), iso (1), iec (1)
 > **CLI Commands:** make (2), find (1)
 > **Versions:** 5.2 (1)
@@ -969,8 +956,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI roles, responsibilities, and authorities: Clause 5.3
-> [LinkedIn Learning](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-roles-responsibilities-and-authorities-clause-5-3?u=76281980)
+#### [AI roles, responsibilities, and authorities: Clause 5.3](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-roles-responsibilities-and-authorities-clause-5-3?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -984,13 +970,13 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-roles-responsibilities-and-authorities-clause-5-3?u=76281980&t=38)** One critical issue precipitating the disaster was the lack of clarity regarding who was responsible for crucial safety decisions and procedures.
 >
-> **[0:49](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-roles-responsibilities-and-authorities-clause-5-3?u=76281980&t=49)** Disputes and confusion about roles and responsibility between BP, Transocean, and Halliburton led to oversight and accountability gaps.
+> **[0:49](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-roles-responsibilities-and-authorities-clause-5-3?u=76281980&t=49)** Disputes and confusion about roles and responsibility between BP, Transocean, and Halliburton led to oversight and [[Accountability]] gaps.
 >
 > **[1:00](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-roles-responsibilities-and-authorities-clause-5-3?u=76281980&t=60)** Sub Clause 5.3 declares that top management must ensure that the responsibilities and authorities for relevant roles are assigned and communicated within the organization.
 >
 > **[1:13](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-roles-responsibilities-and-authorities-clause-5-3?u=76281980&t=73)** Indeed, BP would have avoided such a disastrous outcome had they done so.
 >
-> **[1:19](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-roles-responsibilities-and-authorities-clause-5-3?u=76281980&t=79)** Specifically, this means that AI management systems conform to the requirements of the artificial intelligence management system.
+> **[1:19](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-roles-responsibilities-and-authorities-clause-5-3?u=76281980&t=79)** Specifically, this means that AI management systems conform to the requirements of the [[Artificial Intelligence (AI)|artificial intelligence]] management system.
 >
 > **[1:30](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-roles-responsibilities-and-authorities-clause-5-3?u=76281980&t=90)** It also includes reporting on the performance of the AI management system to top management.
 >
@@ -1006,7 +992,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-roles-responsibilities-and-authorities-clause-5-3?u=76281980&t=142)** Instead of this being, as it might seem, a single role, it is actually a job family.
 >
-> **[2:29](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-roles-responsibilities-and-authorities-clause-5-3?u=76281980&t=149)** An AI developer is an organization or entity concerned with developing AI services and products.
+> **[2:29](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-roles-responsibilities-and-authorities-clause-5-3?u=76281980&t=149)** An AI developer is an organization or entity concerned with developing AI services and [[Microsoft Products|products]].
 >
 > **[2:36](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-roles-responsibilities-and-authorities-clause-5-3?u=76281980&t=156)** Examples of AI developers include, but are not limited to a model designer.
 >
@@ -1034,7 +1020,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (17), management (7), [[Artificial Intelligence (AI)|Artificial intelligence]] (4), data (3), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (4), [[Accountability]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is an  (2), means that (1)
 > **Env Vars:** iso (1), iec (1)
 > **Versions:** 8.8 (1), 5.3 (1)
@@ -1048,8 +1034,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### General: Clause 6.1
-> [LinkedIn Learning](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/general-clause-6-1?u=76281980)
+#### [General: Clause 6.1](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/general-clause-6-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1105,7 +1090,7 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/general-clause-6-1?u=76281980&t=220)** Finally, the risk can vary across sectors and industries.
 >
-> **[3:45](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/general-clause-6-1?u=76281980&t=225)** So consider the risk variance in privacy, safety, and security opportunities between health, defense, transportation, finance, and energy.
+> **[3:45](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/general-clause-6-1?u=76281980&t=225)** So consider the risk variance in [[Privacy]], safety, and security opportunities between health, defense, transportation, finance, and energy.
 >
 > **[3:57](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/general-clause-6-1?u=76281980&t=237)** You must be aware of the industry-specific concerns in each area of AI operation.
 >
@@ -1113,15 +1098,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (16), management (2), [[Privacy]] (1), [[Security]] (1), next (1)
+> **Frameworks & Libraries:** [[Privacy]] (1)
 > **Versions:** 6.1 (2), 6.2 (1), 6.3 (1), 6.11 (1), 4.1 (1)
 > **Env Vars:** iso (2), iec (2)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI risk assessment: Clause 6.1.2
-> [LinkedIn Learning](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-risk-assessment-clause-6-1-2?u=76281980)
+#### [AI risk assessment: Clause 6.1.2](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-risk-assessment-clause-6-1-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1161,11 +1145,11 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-risk-assessment-clause-6-1-2?u=76281980&t=125)** First, the lender must identify its subject matter experts, users, and security team.
 >
-> **[2:12](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-risk-assessment-clause-6-1-2?u=76281980&t=132)** Together, they would walk through threat modeling brainstorming exercises and consider ways using the AI system could pose risk.
+> **[2:12](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-risk-assessment-clause-6-1-2?u=76281980&t=132)** Together, they would walk through [[Threat Modeling]] brainstorming exercises and consider ways using the AI system could pose risk.
 >
 > **[2:21](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-risk-assessment-clause-6-1-2?u=76281980&t=141)** They're looking for a particular risk event's likelihood and corresponding impact.
 >
-> **[2:27](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-risk-assessment-clause-6-1-2?u=76281980&t=147)** Some risks, like errors in output from AI algorithms, could lead to an erroneous report in calculating a customer profile.
+> **[2:27](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-risk-assessment-clause-6-1-2?u=76281980&t=147)** Some risks, like errors in output from AI [[Algorithms]], could lead to an erroneous report in calculating a customer profile.
 >
 > **[2:37](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-risk-assessment-clause-6-1-2?u=76281980&t=157)** This could flag the profile to receive a retention email when that specific customer is already loyal to the brand.
 >
@@ -1183,7 +1167,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-risk-assessment-clause-6-1-2?u=76281980&t=203)** A way of addressing the requirement to document and prioritize risk would be by creating and maintaining a risk register.
 >
-> **[3:34](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-risk-assessment-clause-6-1-2?u=76281980&t=214)** This example of a risk register is from NIST.
+> **[3:34](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-risk-assessment-clause-6-1-2?u=76281980&t=214)** This example of a risk register is from [[NIST]].
 >
 > **[3:37](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-risk-assessment-clause-6-1-2?u=76281980&t=217)** You'll find a designated way of tracking the description, likelihood, impact, and response that the risk owner should take.
 >
@@ -1195,15 +1179,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), business (2), traffic (1), [[Security]] (1), [[Threat Modeling]] (1)
+> **Frameworks & Libraries:** [[Threat Modeling]] (1), [[Algorithms]] (1), [[NIST]] (1)
 > **Versions:** 6.1.2 (1), 5.2 (1), 6.2 (1), 6.1.4 (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** nist (1)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI risk treatment: Clause 6.1.3
-> [LinkedIn Learning](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-risk-treatment-clause-6-1-3?u=76281980)
+#### [AI risk treatment: Clause 6.1.3](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-risk-treatment-clause-6-1-3?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1233,7 +1216,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-risk-treatment-clause-6-1-3?u=76281980&t=111)** A retain response means that the company has reviewed the potential risk, but decides that no additional action plan is necessary as assessed risk are tolerable.
 >
-> **[2:05](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-risk-treatment-clause-6-1-3?u=76281980&t=125)** While our behavior should apply the governing principles of the four responses to risk, the requirements of the AI risk treatment for the artificial intelligence management system are tied to implementing the controls in Annex A of the AIMS document, A Statement of Applicability.
+> **[2:05](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-risk-treatment-clause-6-1-3?u=76281980&t=125)** While our behavior should apply the governing principles of the four responses to risk, the requirements of the AI risk treatment for the [[Artificial Intelligence (AI)|artificial intelligence]] management system are tied to implementing the controls in Annex A of the AIMS document, A Statement of Applicability.
 >
 > **[2:25](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-risk-treatment-clause-6-1-3?u=76281980&t=145)** A key document in the AI risk treatment process should document the justification for applying and omitting controls from Annex A or elsewhere.
 >
@@ -1257,7 +1240,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), management (3), business (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Env Vars:** iso (1), aims (1)
 > **Versions:** 6.1.3 (1)
 > **Cross-References:** later in (1)
@@ -1265,14 +1248,13 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [narrator] (1)
 
-#### AI system impact, objectives, and changes: Clauses 6.1.4-6.3
-> [LinkedIn Learning](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-system-impact-objectives-and-changes-clauses-6-1-4-6-3?u=76281980)
+#### [AI system impact, objectives, and changes: Clauses 6.1.4-6.3](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-system-impact-objectives-and-changes-clauses-6-1-4-6-3?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-system-impact-objectives-and-changes-clauses-6-1-4-6-3?u=76281980&t=0)** - [Instructor] While you may be a great driver, you realize it is an inherently risky activity that may also have impacts on others.
 >
-> **[0:09](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-system-impact-objectives-and-changes-clauses-6-1-4-6-3?u=76281980&t=9)** Impacts can be on individuals like pedestrians when making a left hand turn, groups like a school bus of children, and indirectly on societies like the effects of your driving, and what it does to climate change and traffic congestion.
+> **[0:09](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-system-impact-objectives-and-changes-clauses-6-1-4-6-3?u=76281980&t=9)** Impacts can be on individuals like pedestrians when making a left hand turn, groups like a school bus of children, and indirectly on societies like the effects of your driving, and what it does to [[Climate Change]] and traffic congestion.
 >
 > **[0:28](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-system-impact-objectives-and-changes-clauses-6-1-4-6-3?u=76281980&t=28)** Just as we consider how driving affects others, the impact clause requires that the organization define a process for assessing the potential consequences for individuals and groups that can result from the development, provisioning, or use of AI systems.
 >
@@ -1326,11 +1308,11 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-system-impact-objectives-and-changes-clauses-6-1-4-6-3?u=76281980&t=262)** While Clause 6.3 takes up the least base in the document, it is an essential requirement to establish and maintain an effective AIMS.
 >
-> **[4:33](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-system-impact-objectives-and-changes-clauses-6-1-4-6-3?u=76281980&t=273)** Integrating this requirement into the organization's change management board or CMB and project management office or a PMO would be appropriate.
+> **[4:33](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-system-impact-objectives-and-changes-clauses-6-1-4-6-3?u=76281980&t=273)** Integrating this requirement into the organization's change management board or CMB and project management [[Microsoft Office|office]] or a PMO would be appropriate.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), data (3), management (3), [[Climate Change]] (1), traffic (1)
+> **Frameworks & Libraries:** [[Climate Change]] (1), [[Microsoft Office|Office]] (1)
 > **Versions:** 6.2 (3), 6.3 (2), 6.1.4 (1)
 > **Env Vars:** aims (2), cmb (1), pmo (1)
 > **Definitions:** is an  (2)
@@ -1342,14 +1324,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI resources, competence, and awareness: Clauses 7.1-7.3
-> [LinkedIn Learning](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-resources-competence-and-awareness-clauses-7-1-7-3?u=76281980)
+#### [AI resources, competence, and awareness: Clauses 7.1-7.3](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-resources-competence-and-awareness-clauses-7-1-7-3?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-resources-competence-and-awareness-clauses-7-1-7-3?u=76281980&t=0)** - [Instructor] Recall the dilemma I asked you to visualize in chapter two, being brought to a greenfield and your boss places a ball you've never seen before in front of you.
 >
-> **[0:11](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-resources-competence-and-awareness-clauses-7-1-7-3?u=76281980&t=11)** At this point in the AI MS review, you know that the unrecognized ball is artificial intelligence and the potential objectives, rules and policies have been explained just as you want the best performing and talented teammates on your team to support you in winning a game, in the same way, you want the most talented AI system teammates.
+> **[0:11](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-resources-competence-and-awareness-clauses-7-1-7-3?u=76281980&t=11)** At this point in the AI MS review, you know that the unrecognized ball is [[Artificial Intelligence (AI)|artificial intelligence]] and the potential objectives, rules and policies have been explained just as you want the best performing and talented teammates on your team to support you in winning a game, in the same way, you want the most talented AI system teammates.
 >
 > **[0:37](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-resources-competence-and-awareness-clauses-7-1-7-3?u=76281980&t=37)** Clause 7.1, entitled resources declares that the organization shall determine and provide resources needed to establish, implement, maintain, and continually improve an AI MS.
 >
@@ -1395,15 +1376,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), game (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Versions:** 7.1 (1), 7.2 (1), 7.3 (1), 3.24 (1)
 > **Env Vars:** nxa (1), nxb (1)
 > **Analogies:** for example (1), such as (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Communication: Clause 7.4
-> [LinkedIn Learning](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/communication-clause-7-4?u=76281980)
+#### [Communication: Clause 7.4](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/communication-clause-7-4?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1441,7 +1421,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/communication-clause-7-4?u=76281980&t=129)** The how of communication can be varied based on effectiveness of the objectives.
 >
-> **[2:16](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/communication-clause-7-4?u=76281980&t=136)** Communication in person should be two-way, allowing for honest disclosure about user experience, whether positive or negative.
+> **[2:16](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/communication-clause-7-4?u=76281980&t=136)** Communication in person should be two-way, allowing for honest disclosure about [[User Experience (UX)|user experience]], whether positive or negative.
 >
 > **[2:26](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/communication-clause-7-4?u=76281980&t=146)** Besides the traditional mediums like email, awareness, education, and training sessions, think about communication opportunities within the system that could be helpful.
 >
@@ -1455,15 +1435,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), management (2), leadership (1), [[Security]] (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** aims (4)
 > **Definitions:** is a  (1), is an  (1)
 > **Versions:** 7.4 (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Documented information: Clauses 7.5-7.5.3
-> [LinkedIn Learning](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/documented-information-clauses-7-5-7-5-3?u=76281980)
+#### [Documented information: Clauses 7.5-7.5.3](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/documented-information-clauses-7-5-7-5-3?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1481,7 +1460,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/documented-information-clauses-7-5-7-5-3?u=76281980&t=52)** Other documents necessary for the effectiveness of the AI policy are also required.
 >
-> **[0:58](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/documented-information-clauses-7-5-7-5-3?u=76281980&t=58)** Candidate documents could include procedures for developing solutions or using AI products standards of acceptable AI systems and guidelines from industry best practices.
+> **[0:58](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/documented-information-clauses-7-5-7-5-3?u=76281980&t=58)** Candidate documents could include procedures for developing solutions or using AI [[Microsoft Products|products]] standards of acceptable AI systems and guidelines from industry best practices.
 >
 > **[1:09](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/documented-information-clauses-7-5-7-5-3?u=76281980&t=69)** Therefore, the extent of documented information can differ from organization to organization due to size, type of activities, processes, products and services.
 >
@@ -1519,15 +1498,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Microsoft Products|Products]] (2), leadership (1), cross-platform (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **Env Vars:** aims (4)
 > **Documentation:** the documentation (2)
 > **CLI Commands:** find (1)
 > **Versions:** 7.5 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Operational planning and control: Clauses 8.1-8.2
-> [LinkedIn Learning](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/operational-planning-and-control-clauses-8-1-8-2?u=76281980)
+#### [Operational planning and control: Clauses 8.1-8.2](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/operational-planning-and-control-clauses-8-1-8-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1557,7 +1535,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/operational-planning-and-control-clauses-8-1-8-2?u=76281980&t=99)** Any changes must be documented and reviewed for the consequences of unintended changes, mitigating any adverse effects as necessary.
 >
-> **[1:49](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/operational-planning-and-control-clauses-8-1-8-2?u=76281980&t=109)** The organization is also expected to control any external processes, products, or services they consume.
+> **[1:49](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/operational-planning-and-control-clauses-8-1-8-2?u=76281980&t=109)** The organization is also expected to control any external processes, [[Microsoft Products|products]], or services they consume.
 >
 > **[1:58](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/operational-planning-and-control-clauses-8-1-8-2?u=76281980&t=118)** With clause 8.2, AI risk assessment, the organization is directed to perform AI risk assessments per clause 6.1.2 at planned intervals, or when significant changes are proposed or occur.
 >
@@ -1573,14 +1551,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), management (2), [[Microsoft Products|Products]] (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Env Vars:** aims (1), nxa (1), nxb (1)
 > **Analogies:** imagine (2), for instance (1)
 > **Versions:** 8.2 (1), 6.1.2 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Operational planning and control: Clauses 8.3-8.4
-> [LinkedIn Learning](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/operational-planning-and-control-clauses-8-3-8-4?u=76281980)
+#### [Operational planning and control: Clauses 8.3-8.4](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/operational-planning-and-control-clauses-8-3-8-4?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1622,7 +1599,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), application (1), next (1)
 > **Versions:** 8.3 (1), 8.4 (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** aims (1)
@@ -1633,8 +1609,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI monitoring, management, and analysis evaluation: Clause 9.1
-> [LinkedIn Learning](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-monitoring-management-and-analysis-evaluation-clause-9-1?u=76281980)
+#### [AI monitoring, management, and analysis evaluation: Clause 9.1](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-monitoring-management-and-analysis-evaluation-clause-9-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1676,15 +1651,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), management (3), data (1), next (1)
 > **Env Vars:** aims (1), cio (1)
 > **Cross-References:** earlier in (1)
 > **Documentation:** the documentation (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Internal audit: Clause 9.2
-> [LinkedIn Learning](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/internal-audit-clause-9-2?u=76281980)
+#### [Internal audit: Clause 9.2](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/internal-audit-clause-9-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1696,7 +1669,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/internal-audit-clause-9-2?u=76281980&t=16)** A couple of decades ago, when I was the Network Manager for the Board of Education, or BOE, now the Department of Education in New York City, I learned that auditors could also surface things that influence senior management to make immediate changes they'd otherwise resist.
 >
-> **[0:33](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/internal-audit-clause-9-2?u=76281980&t=33)** Legal and regulatory compliance requirements mandated the audit completed at the BOE.
+> **[0:33](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/internal-audit-clause-9-2?u=76281980&t=33)** Legal and [[Regulatory Compliance]] requirements mandated the audit completed at the BOE.
 >
 > **[0:40](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/internal-audit-clause-9-2?u=76281980&t=40)** It was external.
 >
@@ -1742,7 +1715,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (4), [[Regulatory Compliance]] (1), data (1), ai (1)
+> **Frameworks & Libraries:** [[Regulatory Compliance]] (1)
 > **Env Vars:** aims (6), boe (2)
 > **CLI Commands:** make (2)
 > **Versions:** 9.2 (1)
@@ -1750,8 +1723,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Management review: Clause 9.3
-> [LinkedIn Learning](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/management-review-clause-9-3?u=76281980)
+#### [Management review: Clause 9.3](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/management-review-clause-9-3?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1781,7 +1753,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/management-review-clause-9-3?u=76281980&t=118)** Monitoring and measuring results, audit results, and this idea of continual improvement.
 >
-> **[2:08](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/management-review-clause-9-3?u=76281980&t=128)** Much of what management uses to review could come in the form of dashboards and regular reports from all those responsible for elements of the organizational AIMS.
+> **[2:08](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/management-review-clause-9-3?u=76281980&t=128)** Much of what management uses to review could come in the form of [[Dashboards]] and regular reports from all those responsible for elements of the organizational AIMS.
 >
 > **[2:20](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/management-review-clause-9-3?u=76281980&t=140)** The results of management reviews would include decisions related to the continual improvement opportunities in the needs for changes to the AIMS.
 >
@@ -1795,7 +1767,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (9), ai (3), leadership (1), business (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (1)
 > **Env Vars:** aims (6)
 > **Analogies:** imagine (1), for instance (1)
 > **Versions:** 9.3 (1)
@@ -1804,8 +1776,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Continual improvement and nonconformity corrective actions: Clauses 10.1-10.2
-> [LinkedIn Learning](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/continual-improvement-and-nonconformity-corrective-actions-clauses-10-1-10-2?u=76281980)
+#### [Continual improvement and nonconformity corrective actions: Clauses 10.1-10.2](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/continual-improvement-and-nonconformity-corrective-actions-clauses-10-1-10-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1843,7 +1814,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), power (1), application (1), management (1), leadership (1)
 > **Env Vars:** aims (4), pdca (1)
 > **CLI Commands:** make (1)
 > **Versions:** 10.2 (1)
@@ -1855,8 +1825,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Consider your role as you work with AIMS
-> [LinkedIn Learning](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/consider-your-role-as-you-work-with-aims?u=76281980)
+#### [Consider your role as you work with AIMS](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/consider-your-role-as-you-work-with-aims?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1888,7 +1857,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/consider-your-role-as-you-work-with-aims?u=76281980&t=85)** Congratulations on completing this course.
 >
-> **[1:28](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/consider-your-role-as-you-work-with-aims?u=76281980&t=88)** If you have any questions, contact me on LinkedIn.
+> **[1:28](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/consider-your-role-as-you-work-with-aims?u=76281980&t=88)** If you have any questions, contact me on [[LinkedIn]].
 >
 > **[1:31](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/consider-your-role-as-you-work-with-aims?u=76281980&t=91)** Use the handouts to get started with the essentials of your AIMS.
 >
@@ -1896,7 +1865,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2), business (1), next (1), ai (1), management (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2)
 > **Env Vars:** aims (6), iso (1), iec (1)
 > **Definitions:** means that (2)
 > **Exercise Files:** exercise files (1)

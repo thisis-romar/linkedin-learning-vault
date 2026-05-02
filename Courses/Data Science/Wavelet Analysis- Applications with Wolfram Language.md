@@ -71,8 +71,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction: Wavelet Analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/introduction-wavelet-analysis?u=76281980)
+#### [Introduction: Wavelet Analysis](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/introduction-wavelet-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -178,7 +177,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **CLI Commands:** make (6), find (1)
 > **Definitions:** is called (3), is a  (2), is an  (1)
 > **Analogies:** for example (2), picture (1)
@@ -189,8 +187,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Frequency Detection in a Time Series
-> [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/frequency-detection-in-a-time-series?u=76281980)
+#### [Frequency Detection in a Time Series](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/frequency-detection-in-a-time-series?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -264,7 +261,7 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/frequency-detection-in-a-time-series?u=76281980&t=222)** Wherein for each subinterval in the time series, you can see that you have certain bands that show up, and as the time progresses, you can see that the bands move up the wavelet scalogram, indicating that higher and higher frequencies were found at the latter stages of the time series.
 >
-> **[4:03](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/frequency-detection-in-a-time-series?u=76281980&t=243)** And so this is a very useful way of analyzing time series using wavelets.
+> **[4:03](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/frequency-detection-in-a-time-series?u=76281980&t=243)** And so this is a very useful way of analyzing time series using [[Wavelets]].
 >
 > **[4:10](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/frequency-detection-in-a-time-series?u=76281980&t=250)** So now that we have talked about extracting frequency information using wavelet analysis, let's do some more analysis on time series.
 >
@@ -320,7 +317,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wavelets]] (5), data (1)
+> **Frameworks & Libraries:** [[Wavelets]] (5)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (3), means that (1), is an  (1)
 > **UI Navigation:** select the (1)
@@ -332,8 +329,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Filtering Frequencies from Time Series
-> [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/filtering-frequencies-from-time-series?u=76281980)
+#### [Filtering Frequencies from Time Series](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/filtering-frequencies-from-time-series?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -415,7 +411,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
@@ -425,8 +420,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Applying Wavelet Analysis to Finance
-> [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/applying-wavelet-analysis-to-finance?u=76281980)
+#### [Applying Wavelet Analysis to Finance](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/applying-wavelet-analysis-to-finance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -484,7 +478,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ibm (1)
@@ -494,12 +487,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Edge Detection on Images
-> [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/edge-detection-on-images?u=76281980)
+#### [Edge Detection on Images](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/edge-detection-on-images?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/edge-detection-on-images?u=76281980&t=0)** Now let us shift our focus to the field of image processing.
+> **[0:00](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/edge-detection-on-images?u=76281980&t=0)** Now let us shift our focus to the field of [[Image Processing]].
 >
 > **[0:05](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/edge-detection-on-images?u=76281980&t=5)** In the field of image processing, one of the most common things you would tend to do is edge detection.
 >
@@ -541,7 +533,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/edge-detection-on-images?u=76281980&t=154)** And when you compare that with just the wavelet coefficients, this is what the wavelet coefficients look like, this is what the edges look like after we did the transformation.
 >
-> **[2:45](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/edge-detection-on-images?u=76281980&t=165)** And so this is a very common procedure of making use of wavelets in order for edge detection.
+> **[2:45](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/edge-detection-on-images?u=76281980&t=165)** And so this is a very common procedure of making use of [[Wavelets]] in order for edge detection.
 >
 > **[2:53](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/edge-detection-on-images?u=76281980&t=173)** Here is a dynamic example that gives you a much more clear picture as to what exactly are the coarse coefficients and the detail coefficients extracting when you perform a wavelet transformation on an image.
 >
@@ -557,7 +549,7 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/edge-detection-on-images?u=76281980&t=220)** And when I move back, you can see that other coefficients become activated.
 >
-> **[3:46](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/edge-detection-on-images?u=76281980&t=226)** And this is all due to the fact that you are taking these dyadic products when you're performing the wavelet transform, and that enforces certain features.
+> **[3:46](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/edge-detection-on-images?u=76281980&t=226)** And this is all due to the fact that you are taking these dyadic [[Microsoft Products|products]] when you're performing the wavelet transform, and that enforces certain features.
 >
 > **[3:55](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/edge-detection-on-images?u=76281980&t=235)** Finally, let's look at an example wherein we can improve the performance of current image processing functionalities which may or may not be inside of Mathematica, and we can improve the performance using wavelet analysis.
 >
@@ -607,7 +599,7 @@ created: 2026-05-02
 >
 > **[7:09](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/edge-detection-on-images?u=76281980&t=429)** We can see if certain signal has a certain motion associated associated with it.
 >
-> **[7:15](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/edge-detection-on-images?u=76281980&t=435)** If you were to just perform a vanilla discrete wavelet transform, the situation is slightly different in that you will not be able to capture the motion of the original time series.
+> **[7:15](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/edge-detection-on-images?u=76281980&t=435)** If you were to just perform a [[Vanilla]] discrete wavelet transform, the situation is slightly different in that you will not be able to capture the motion of the original time series.
 >
 > **[7:30](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/edge-detection-on-images?u=76281980&t=450)** So in that sense, stationary wavelet transforms are really important in several applications.
 >
@@ -631,7 +623,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Image Processing]] (6), data (2), [[Wavelets]] (1), [[Microsoft Products|Products]] (1), [[Vanilla]] (1)
+> **Frameworks & Libraries:** [[Image Processing]] (6), [[Wavelets]] (1), [[Microsoft Products|Products]] (1), [[Vanilla]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (3), means that (1)
 > **Analogies:** similar to (1), picture (1)
@@ -641,12 +633,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Denoising Images
-> [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/denoising-images?u=76281980)
+#### [Denoising Images](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/denoising-images?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/denoising-images?u=76281980&t=0)** So keeping with the theme of image processing, let us now look at how you can use wavelet analysis to denoise images.
+> **[0:00](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/denoising-images?u=76281980&t=0)** So keeping with the theme of [[Image Processing]], let us now look at how you can use wavelet analysis to denoise images.
 >
 > **[0:07](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/denoising-images?u=76281980&t=7)** So we're going to use examples as before in order to bring this point across.
 >
@@ -700,7 +691,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/denoising-images?u=76281980&t=155)** The second one has got some kind of an effect built into it wherein, you know, it's got a more grainy feel to it.
 >
-> **[2:44](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/denoising-images?u=76281980&t=164)** One of the most popular examples where wavelets comes into its own is associated with an inverse half-toning problem.
+> **[2:44](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/denoising-images?u=76281980&t=164)** One of the most popular examples where [[Wavelets]] comes into its own is associated with an inverse half-toning problem.
 >
 > **[2:54](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/denoising-images?u=76281980&t=174)** So what exactly is half-toning?
 >
@@ -734,7 +725,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Image Processing]] (1), [[Wavelets]] (1), database (1)
+> **Frameworks & Libraries:** [[Image Processing]] (1), [[Wavelets]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** means that (1), is called (1)
 > **Env Vars:** sure (1)
@@ -745,8 +736,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Wavelet Thresholding
-> [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/wavelet-thresholding?u=76281980)
+#### [Wavelet Thresholding](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/wavelet-thresholding?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -794,7 +784,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/wavelet-thresholding?u=76281980&t=152)** And when, when I increase the noise, you can see that adaptively, it's doing a thresholding on all the coefficients and it's able to keep the noise down significantly.
 >
-> **[2:45](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/wavelet-thresholding?u=76281980&t=165)** Let us now look at another ubiquitous thing associated with image processing, which is basically taking a data and compressing it while making sure that the amount of information that it loses due to the compression is minimized.
+> **[2:45](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/wavelet-thresholding?u=76281980&t=165)** Let us now look at another ubiquitous thing associated with [[Image Processing]], which is basically taking a data and compressing it while making sure that the amount of information that it loses due to the compression is minimized.
 >
 > **[3:00](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/wavelet-thresholding?u=76281980&t=180)** Wavelet turns out to be an excellent tool in order to perform data compression and image compression.
 >
@@ -914,7 +904,7 @@ created: 2026-05-02
 >
 > **[10:16](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/wavelet-thresholding?u=76281980&t=616)** We can append them to our existing transformation.
 >
-> **[10:23](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/wavelet-thresholding?u=76281980&t=623)** And we can now construct a new discrete wavelet data from the combined wavelets and perform an inverse transformation on that.
+> **[10:23](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/wavelet-thresholding?u=76281980&t=623)** And we can now construct a new discrete wavelet data from the combined [[Wavelets]] and perform an inverse transformation on that.
 >
 > **[10:31](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/wavelet-thresholding?u=76281980&t=631)** And you can see that we get an image.
 >
@@ -1004,7 +994,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Image Processing]] (3), [[Wavelets]] (2)
+> **Frameworks & Libraries:** [[Image Processing]] (3), [[Wavelets]] (2)
 > **CLI Commands:** make (10)
 > **Definitions:** is a  (6), is called (2), is an  (1), means that (1)
 > **Env Vars:** sure (2), gcv (2)
@@ -1016,8 +1006,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### References
-> [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/references?u=76281980)
+#### [References](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/references?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1029,7 +1018,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1)
 > **CLI Commands:** make (1), find (1)
 > **URLs:** [wolfram.com](https://wolfram.com) (1)
 

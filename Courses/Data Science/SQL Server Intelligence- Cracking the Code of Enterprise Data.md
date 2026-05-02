@@ -87,8 +87,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why data? The role of SQL and how you can get involved
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/why-data-it-significance-sql-s-role-and-how-you-can-become-part-of-it?u=76281980)
+#### [Why data? The role of SQL and how you can get involved](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/why-data-it-significance-sql-s-role-and-how-you-can-become-part-of-it?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -96,9 +95,9 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/why-data-it-significance-sql-s-role-and-how-you-can-become-part-of-it?u=76281980&t=8)** Now, that's pretty staggering.
 >
-> **[0:10](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/why-data-it-significance-sql-s-role-and-how-you-can-become-part-of-it?u=76281980&t=10)** In just 60 seconds, 2.4 million Google searches take place, 39,000 Instagram posts and 72,000 Tinder swipes.
+> **[0:10](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/why-data-it-significance-sql-s-role-and-how-you-can-become-part-of-it?u=76281980&t=10)** In just 60 seconds, 2.4 million [[Google]] searches take place, 39,000 Instagram posts and 72,000 Tinder swipes.
 >
-> **[0:20](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/why-data-it-significance-sql-s-role-and-how-you-can-become-part-of-it?u=76281980&t=20)** Well, this is where SQL comes in.
+> **[0:20](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/why-data-it-significance-sql-s-role-and-how-you-can-become-part-of-it?u=76281980&t=20)** Well, this is where [[SQL]] comes in.
 >
 > **[0:23](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/why-data-it-significance-sql-s-role-and-how-you-can-become-part-of-it?u=76281980&t=23)** SQL allows us to communicate with this massive repository of data and make sense out of it.
 >
@@ -112,21 +111,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[SQL]] (4), [[Google]] (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Google]] (1)
 > **Env Vars:** sql (4)
 > **CLI Commands:** make (2)
 > **Versions:** 2.4 (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - more (1)
 
-#### What you should know: Microsoft SQL Server and installation
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/why-use-microsoft-sql-server-and-installing-sql-server-23861204?u=76281980)
+#### [What you should know: Microsoft SQL Server and installation](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/why-use-microsoft-sql-server-and-installing-sql-server-23861204?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/why-use-microsoft-sql-server-and-installing-sql-server-23861204?u=76281980&t=0)** - [Instructor] Before we get into the course, here is what you should know.
 >
-> **[0:05](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/why-use-microsoft-sql-server-and-installing-sql-server-23861204?u=76281980&t=5)** With regard to prior database knowledge or prior SQL knowledge, do you need to have any?
+> **[0:05](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/why-use-microsoft-sql-server-and-installing-sql-server-23861204?u=76281980&t=5)** With regard to prior database knowledge or prior [[SQL]] knowledge, do you need to have any?
 >
 > **[0:12](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/why-use-microsoft-sql-server-and-installing-sql-server-23861204?u=76281980&t=12)** The answer is no, this course the objective is to keep you on the path of learning the components and the skills, in a manner that anticipates that you're going to be using them in a professional work environment, like a corporation or a business.
 >
@@ -136,9 +134,9 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/why-use-microsoft-sql-server-and-installing-sql-server-23861204?u=76281980&t=47)** Of course, if you do, that will be helpful, but you do not have to rely on that to be successful in this course.
 >
-> **[0:54](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/why-use-microsoft-sql-server-and-installing-sql-server-23861204?u=76281980&t=54)** The software that we'll be using throughout the duration of this course is Microsoft SQL Server.
+> **[0:54](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/why-use-microsoft-sql-server-and-installing-sql-server-23861204?u=76281980&t=54)** The software that we'll be using throughout the duration of this course is [[Microsoft SQL Server]].
 >
-> **[1:01](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/why-use-microsoft-sql-server-and-installing-sql-server-23861204?u=76281980&t=61)** This is the software of choice, and we specifically are going to be working with this because Microsoft SQL Server is one of the most widely adopted database management systems by corporations throughout the world.
+> **[1:01](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/why-use-microsoft-sql-server-and-installing-sql-server-23861204?u=76281980&t=61)** This is the software of choice, and we specifically are going to be working with this because Microsoft SQL Server is one of the most widely adopted [[Database Management]] systems by corporations throughout the world.
 >
 > **[1:15](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/why-use-microsoft-sql-server-and-installing-sql-server-23861204?u=76281980&t=75)** And one of the objectives with this course is to keep you in line with that real world component.
 >
@@ -148,13 +146,13 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/why-use-microsoft-sql-server-and-installing-sql-server-23861204?u=76281980&t=119)** In this site, you will have the detail on the minimum system requirements, and I highly recommend that you walk through that.
 >
-> **[2:07](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/why-use-microsoft-sql-server-and-installing-sql-server-23861204?u=76281980&t=127)** One of the components that I would like to point out, however, is that SQL Server is a Windows-based software.
+> **[2:07](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/why-use-microsoft-sql-server-and-installing-sql-server-23861204?u=76281980&t=127)** One of the components that I would like to point out, however, is that [[Microsoft SQL Server|SQL Server]] is a [[Windows]]-based software.
 >
 > **[2:15](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/why-use-microsoft-sql-server-and-installing-sql-server-23861204?u=76281980&t=135)** So with regard to the Mac folks out there, we do have a step which I will mention, remember, this particular software, it is designed for Windows operating systems.
 >
 > **[2:29](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/why-use-microsoft-sql-server-and-installing-sql-server-23861204?u=76281980&t=149)** For all the Mac folks, we've got you covered as well, even though SQL Server is a Windows-based software.
 >
-> **[2:37](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/why-use-microsoft-sql-server-and-installing-sql-server-23861204?u=76281980&t=157)** There is Bootcamp Assistant for Macs, and this allows you to install Windows 10 on your Mac, which then allows you to install SQL Server on your Mac.
+> **[2:37](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/why-use-microsoft-sql-server-and-installing-sql-server-23861204?u=76281980&t=157)** There is Bootcamp Assistant for Macs, and this allows you to install [[Windows 10]] on your Mac, which then allows you to install SQL Server on your Mac.
 >
 > **[2:51](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/why-use-microsoft-sql-server-and-installing-sql-server-23861204?u=76281980&t=171)** I've included the link to the instructions on the Apple site, which tells you how to install Bootcamp Assistant on your Mac.
 >
@@ -210,7 +208,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (9), [[Microsoft SQL Server]] (8), management (8), [[SQL]] (4), [[Windows]] (4)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (9), [[Microsoft SQL Server]] (8), [[SQL]] (4), [[Windows]] (4), [[Database Management]] (1)
 > **Env Vars:** sql (21), ssms (2)
 > **Prerequisites:** install (7), you need to have (1), you'll need (1)
 > **UI Navigation:** click on (6), navigate to (2)
@@ -219,18 +217,17 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Environment orientation
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/environment-orientation-23856618?u=76281980)
+#### [Environment orientation](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/environment-orientation-23856618?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/environment-orientation-23856618?u=76281980&t=0)** - [Instructor] All right, we are doing excellent.
 >
-> **[0:03](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/environment-orientation-23856618?u=76281980&t=3)** Now that we've taken two major steps, which is number one, we've downloaded and installed our software that we're going to be working with, and that's Microsoft SQL Server Management Studio, and secondly we've also downloaded our sample database file, and that is the digital evidence file.
+> **[0:03](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/environment-orientation-23856618?u=76281980&t=3)** Now that we've taken two major steps, which is number one, we've downloaded and installed our software that we're going to be working with, and that's [[Microsoft SQL Server]] Management Studio, and secondly we've also downloaded our sample database file, and that is the digital evidence file.
 >
 > **[0:22](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/environment-orientation-23856618?u=76281980&t=22)** With those two steps taken, let's now get a little more familiar with the environment we're going to be spending a lot of time in, and that's our software, Microsoft SQL Server Management Studio.
 >
-> **[0:32](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/environment-orientation-23856618?u=76281980&t=32)** To do so, let's go to our Start menu and start typing in SQL, and that pulls up what we actually want, which is Microsoft SQL Server Management Studio.
+> **[0:32](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/environment-orientation-23856618?u=76281980&t=32)** To do so, let's go to our Start menu and start typing in [[SQL]], and that pulls up what we actually want, which is Microsoft SQL Server Management Studio.
 >
 > **[0:45](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/environment-orientation-23856618?u=76281980&t=45)** So let's click on this software to get it started, and we will take our walkthrough of the various components that we should be keeping our eye on.
 >
@@ -240,13 +237,13 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/environment-orientation-23856618?u=76281980&t=91)** This is the location that our database is actually stored and our data is stored in.
 >
-> **[1:38](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/environment-orientation-23856618?u=76281980&t=98)** So that's our server name, and thirdly we have the authentication, au-then-ti-ca-tion, and I always get a little tripped up on the word, but all it simply means is security, which is a very important aspect when it comes to data, how are you accessing this data?
+> **[1:38](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/environment-orientation-23856618?u=76281980&t=98)** So that's our server name, and thirdly we have the authentication, au-then-ti-ca-tion, and I always get a little tripped up on the [[Microsoft Word|word]], but all it simply means is security, which is a very important aspect when it comes to data, how are you accessing this data?
 >
 > **[1:57](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/environment-orientation-23856618?u=76281980&t=117)** Is it in a secure way?
 >
-> **[1:59](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/environment-orientation-23856618?u=76281980&t=119)** And we are going to go with what is already selected, Windows Authentication, though there are others, but we are going to go with Windows Authentication, and what this refers to is the username and password that we use to actually log into our computer.
+> **[1:59](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/environment-orientation-23856618?u=76281980&t=119)** And we are going to go with what is already selected, [[Windows]] Authentication, though there are others, but we are going to go with Windows Authentication, and what this refers to is the username and password that we use to actually log into our computer.
 >
-> **[2:17](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/environment-orientation-23856618?u=76281980&t=137)** SQL Server Management Studio is going to inherit that username and password and use it as the secure access to our database.
+> **[2:17](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/environment-orientation-23856618?u=76281980&t=137)** [[Microsoft SQL Server|SQL Server]] Management Studio is going to inherit that username and password and use it as the secure access to our database.
 >
 > **[2:29](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/environment-orientation-23856618?u=76281980&t=149)** All right, with those three steps, we are now ready to click on Connect.
 >
@@ -262,7 +259,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/environment-orientation-23856618?u=76281980&t=218)** Now, the Object Explorer shows pretty much everything that is within your SQL Server database.
 >
-> **[3:47](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/environment-orientation-23856618?u=76281980&t=227)** So it shows all of the databases, the security that is configured for each one of those databases as well as other objects.
+> **[3:47](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/environment-orientation-23856618?u=76281980&t=227)** So it shows all of the [[Databases]], the security that is configured for each one of those databases as well as other objects.
 >
 > **[3:56](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/environment-orientation-23856618?u=76281980&t=236)** Now, these folders that I'm highlighting here, even though yes, they are folders in terms of the icon.
 >
@@ -282,14 +279,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), management (7), [[Microsoft SQL Server]] (4), [[SQL]] (4), data (4)
+> **Frameworks & Libraries:** [[Microsoft SQL Server]] (4), [[SQL]] (4), [[Microsoft SQL Server|Sql server]] (4), [[Windows]] (2), [[Databases]] (2)
 > **Env Vars:** sql (12)
 > **UI Navigation:** click on (3), go to (1), dropdown (1)
 > **Definitions:** refers to (2), is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to CoderPad
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/coderpad-intro-video?u=76281980)
+#### [Introduction to CoderPad](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/coderpad-intro-video?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -299,7 +295,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/coderpad-intro-video?u=76281980&t=17)** These challenges appear in the same area as the course page where you watch the course's videos.
 >
-> **[0:24](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/coderpad-intro-video?u=76281980&t=24)** I recommend using a desktop browser for the best experience with code challenges but know that you can also use the LinkedIn Learning mobile app if you prefer.
+> **[0:24](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/coderpad-intro-video?u=76281980&t=24)** I recommend using a desktop browser for the best experience with code challenges but know that you can also use the [[LinkedIn]] Learning mobile app if you prefer.
 >
 > **[0:36](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/coderpad-intro-video?u=76281980&t=36)** The code environment has three areas; instructions on the top left, a console for output on the bottom left, and a code editor for your answer on the right.
 >
@@ -319,17 +315,17 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/coderpad-intro-video?u=76281980&t=116)** When you're finished each code challenge, return to the course's table of contents and click the next video to see a walkthrough of my solution.
 >
-> **[2:07](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/coderpad-intro-video?u=76281980&t=127)** Lastly, the challenges assume a MySQL relational database management system and expects your SQL code to be composed for this environment.
+> **[2:07](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/coderpad-intro-video?u=76281980&t=127)** Lastly, the challenges assume a [[MySQL]] relational [[Database Management]] system and expects your [[SQL]] code to be composed for this environment.
 >
-> **[2:18](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/coderpad-intro-video?u=76281980&t=138)** It's a purposeful deviation from Microsoft SQL Server, which is the syntax the course is based on.
+> **[2:18](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/coderpad-intro-video?u=76281980&t=138)** It's a purposeful deviation from [[Microsoft SQL Server]], which is the syntax the course is based on.
 >
-> **[2:25](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/coderpad-intro-video?u=76281980&t=145)** Many times in the real work environment, a company may have SQL server as their predominant database system but there is almost always secondary database management systems like MySQL and Oracle, and as a data analyst, you'll be expected to retrieve data regardless of the system.
+> **[2:25](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/coderpad-intro-video?u=76281980&t=145)** Many times in the real work environment, a company may have [[Microsoft SQL Server|SQL server]] as their predominant database system but there is almost always secondary database management systems like MySQL and Oracle, and as a data analyst, you'll be expected to retrieve data regardless of the system.
 >
 > **[2:47](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/coderpad-intro-video?u=76281980&t=167)** All right, best of luck with the challenges as you level up your SQL skills.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), database (3), [[MySQL]] (2), management (2), [[SQL]] (2)
+> **Frameworks & Libraries:** [[MySQL]] (2), [[Database Management]] (2), [[SQL]] (2), [[LinkedIn]] (1), [[Microsoft SQL Server]] (1)
 > **Env Vars:** sql (4)
 > **CLI Commands:** mysql (2)
 > **Cross-References:** next video (1)
@@ -341,8 +337,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tweaking your settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/tweaking-your-settings-23855688?u=76281980)
+#### [Tweaking your settings](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/tweaking-your-settings-23855688?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -376,7 +371,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/tweaking-your-settings-23855688?u=76281980&t=99)** So let's go, within environment, to an area called fonts and colors.
 >
-> **[1:47](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/tweaking-your-settings-23855688?u=76281980&t=107)** So in here, we see we have a number of different items here and feel free to explore a bit, but we're going to keep on the path of keeping us accurate and swift and able to quickly respond in our investigative measures as a data analyst.
+> **[1:47](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/tweaking-your-settings-23855688?u=76281980&t=107)** So in here, we see we have a number of different items here and feel free to explore a bit, but we're going to keep on the path of keeping us accurate and [[Swift (Programming Language)|swift]] and able to quickly respond in our investigative measures as a data analyst.
 >
 > **[2:08](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/tweaking-your-settings-23855688?u=76281980&t=128)** So let's first increase our size here by a few.
 >
@@ -400,7 +395,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/tweaking-your-settings-23855688?u=76281980&t=203)** So we want to make sure that line numbers are checked.
 >
-> **[3:26](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/tweaking-your-settings-23855688?u=76281980&t=206)** And then we also want to go down to another item within text editor called Transact-SQL.
+> **[3:26](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/tweaking-your-settings-23855688?u=76281980&t=206)** And then we also want to go down to another item within text editor called [[Transact-SQL (T-SQL)|Transact-SQL]].
 >
 > **[3:35](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/tweaking-your-settings-23855688?u=76281980&t=215)** And with Transact-SQL, we want to make sure that an item called, let me just expand Transact-SQL, IntelliSense.
 >
@@ -430,7 +425,7 @@ created: 2026-05-02
 >
 > **[5:04](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/tweaking-your-settings-23855688?u=76281980&t=304)** Comments are something that fall into what's called a best practice.
 >
-> **[5:09](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/tweaking-your-settings-23855688?u=76281980&t=309)** It's something that is not forced, or you are not required to do so as you start creating your SQL statements in SQL queries, but it is considered an industry best practice to leave comments and make sure that you are being as efficient as possible by doing so.
+> **[5:09](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/tweaking-your-settings-23855688?u=76281980&t=309)** It's something that is not forced, or you are not required to do so as you start creating your [[SQL]] statements in SQL queries, but it is considered an industry best practice to leave comments and make sure that you are being as efficient as possible by doing so.
 >
 > **[5:28](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/tweaking-your-settings-23855688?u=76281980&t=328)** So what are comments?
 >
@@ -490,7 +485,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[SQL]] (5), hit (3), [[Transact-SQL (T-SQL)|Transact-sql]] (3), [[Security]] (1)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Transact-SQL (T-SQL)|Transact-sql]] (3), [[Swift (Programming Language)|Swift]] (1)
 > **CLI Commands:** make (10), composer (1)
 > **Env Vars:** sql (8)
 > **Definitions:** is a  (3), is called (1)
@@ -499,14 +494,13 @@ created: 2026-05-02
 > **Prerequisites:** prerequisite (1), required to (1)
 > **Analogies:** picture (1)
 
-#### Loading the database file
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/loading-the-database-file-23860266?u=76281980)
+#### [Loading the database file](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/loading-the-database-file-23860266?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/loading-the-database-file-23860266?u=76281980&t=0)** - [Instructor] Our next move is to load our digital evidence file.
 >
-> **[0:04](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/loading-the-database-file-23860266?u=76281980&t=4)** If you recall the file that we downloaded earlier, we are now going to load it to our Microsoft SQL Server Management Studio database environment.
+> **[0:04](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/loading-the-database-file-23860266?u=76281980&t=4)** If you recall the file that we downloaded earlier, we are now going to load it to our [[Microsoft SQL Server]] Management Studio database environment.
 >
 > **[0:15](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/loading-the-database-file-23860266?u=76281980&t=15)** Okay, the first step to do that is to go to our icon up in our ribbon here and click on the open file icon.
 >
@@ -518,7 +512,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/loading-the-database-file-23860266?u=76281980&t=49)** Now, that has pulled up a query window with the contents of that file.
 >
-> **[0:56](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/loading-the-database-file-23860266?u=76281980&t=56)** And I am now looking at a SQL script.
+> **[0:56](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/loading-the-database-file-23860266?u=76281980&t=56)** And I am now looking at a [[SQL]] script.
 >
 > **[1:02](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/loading-the-database-file-23860266?u=76281980&t=62)** This is what's referred to as a script file.
 >
@@ -586,7 +580,7 @@ created: 2026-05-02
 >
 > **[4:58](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/loading-the-database-file-23860266?u=76281980&t=298)** And this is how we are going to discover how our script performed.
 >
-> **[5:03](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/loading-the-database-file-23860266?u=76281980&t=303)** At the moment, we see that we have other databases here, so let us do one thing.
+> **[5:03](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/loading-the-database-file-23860266?u=76281980&t=303)** At the moment, we see that we have other [[Databases]] here, so let us do one thing.
 >
 > **[5:11](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/loading-the-database-file-23860266?u=76281980&t=311)** We're going to right click and select refresh.
 >
@@ -606,7 +600,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (14), [[SQL]] (5), next (2), [[Microsoft]] (1), management (1)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Microsoft]] (1), [[Databases]] (1)
 > **UI Navigation:** click on (5), scroll down (2), go to (1), navigate to (1)
 > **Env Vars:** sql (5)
 > **Definitions:** is a  (2), is an  (1)
@@ -619,8 +613,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting familiar with your database
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/getting-familiar-with-your-database-23857340?u=76281980)
+#### [Getting familiar with your database](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/getting-familiar-with-your-database-23857340?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -640,7 +633,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/getting-familiar-with-your-database-23857340?u=76281980&t=51)** And this is something that we should pay attention to because it's something that we are going to do often in terms of the professional environments that you're going to exercise these skills in.
 >
-> **[1:04](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/getting-familiar-with-your-database-23857340?u=76281980&t=64)** You're going to encounter databases you know nothing about, and how you get familiar with them in a quick and efficient way matters in terms of your ability to start working with that database.
+> **[1:04](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/getting-familiar-with-your-database-23857340?u=76281980&t=64)** You're going to encounter [[Databases]] you know nothing about, and how you get familiar with them in a quick and efficient way matters in terms of your ability to start working with that database.
 >
 > **[1:19](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/getting-familiar-with-your-database-23857340?u=76281980&t=79)** So, let me walk you through some of the methods I've been using over my past 20 years and still employ today to get familiar with strange or new databases.
 >
@@ -730,7 +723,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (19), data (7), next (2), [[Databases]] (2)
+> **Frameworks & Libraries:** [[Databases]] (2)
 > **Definitions:** is a  (2), is an  (2), short for (1), is called (1), refers to (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** customer_id (1)
@@ -739,16 +732,15 @@ created: 2026-05-02
 > **Speakers:** - okay (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### The basic query structure and using aliases
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/the-basic-query-structure-using-aliases-23858346?u=76281980)
+#### [The basic query structure and using aliases](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/the-basic-query-structure-using-aliases-23858346?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/the-basic-query-structure-using-aliases-23858346?u=76281980&t=0)** - [Instructor] Okay, we are finally at the good part, where we are now able to compose, actually compose an SQL or SQL statement.
+> **[0:00](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/the-basic-query-structure-using-aliases-23858346?u=76281980&t=0)** - [Instructor] Okay, we are finally at the good part, where we are now able to [[Jetpack Compose|compose]], actually compose an [[SQL]] or SQL statement.
 >
 > **[0:12](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/the-basic-query-structure-using-aliases-23858346?u=76281980&t=12)** So let's see how we do that.
 >
-> **[0:15](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/the-basic-query-structure-using-aliases-23858346?u=76281980&t=15)** The first step is, in Microsoft SQL Server Management Studio, is to click on New Query.
+> **[0:15](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/the-basic-query-structure-using-aliases-23858346?u=76281980&t=15)** The first step is, in [[Microsoft SQL Server]] Management Studio, is to click on New Query.
 >
 > **[0:23](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/the-basic-query-structure-using-aliases-23858346?u=76281980&t=23)** As we saw before, that starts up our new canvas.
 >
@@ -760,7 +752,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/the-basic-query-structure-using-aliases-23858346?u=76281980&t=48)** Now, I'll pause here for a sec and just point out we don't only have our database that we're interested in, which is the DigitalEvidence file.
 >
-> **[0:58](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/the-basic-query-structure-using-aliases-23858346?u=76281980&t=58)** We also have other databases that reside on our server.
+> **[0:58](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/the-basic-query-structure-using-aliases-23858346?u=76281980&t=58)** We also have other [[Databases]] that reside on our server.
 >
 > **[1:03](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/the-basic-query-structure-using-aliases-23858346?u=76281980&t=63)** And this is very, very normal, and you will see this most likely when you step into a real-world environment.
 >
@@ -786,7 +778,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/the-basic-query-structure-using-aliases-23858346?u=76281980&t=141)** And if I continue typing digital here, it narrows down.
 >
-> **[2:27](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/the-basic-query-structure-using-aliases-23858346?u=76281980&t=147)** So I want to just now, at this point, click on DigitalEvidence, and I no longer have to type the entire word.
+> **[2:27](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/the-basic-query-structure-using-aliases-23858346?u=76281980&t=147)** So I want to just now, at this point, click on DigitalEvidence, and I no longer have to type the entire [[Microsoft Word|word]].
 >
 > **[2:36](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/the-basic-query-structure-using-aliases-23858346?u=76281980&t=156)** So that's IntelliSense at work for us.
 >
@@ -920,7 +912,7 @@ created: 2026-05-02
 >
 > **[9:47](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/the-basic-query-structure-using-aliases-23858346?u=76281980&t=587)** I drag and drop this column over, the age column, but it has done so with some square brackets around it.
 >
-> **[9:55](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/the-basic-query-structure-using-aliases-23858346?u=76281980&t=595)** And this is just a default way that SQL Server Management Studio introduces columns that you may drag and drop onto the canvas in this way.
+> **[9:55](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/the-basic-query-structure-using-aliases-23858346?u=76281980&t=595)** And this is just a default way that [[Microsoft SQL Server|SQL Server]] Management Studio introduces columns that you may drag and drop onto the canvas in this way.
 >
 > **[10:05](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/the-basic-query-structure-using-aliases-23858346?u=76281980&t=605)** Okay, let us execute this, and we see we now have a third column, the age column.
 >
@@ -956,7 +948,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (17), [[SQL]] (14), [[Databases]] (4), next (4), data (3)
+> **Frameworks & Libraries:** [[SQL]] (14), [[Databases]] (4), [[Jetpack Compose|Compose]] (2), [[Microsoft Word|Word]] (2), [[Microsoft SQL Server]] (1)
 > **Env Vars:** sql (16), select (5)
 > **Code Identifiers:** customer_details (13), firstname (7)
 > **UI Navigation:** drag and drop (3), click on (2), go to (2), dropdown (1), select the (1)
@@ -965,8 +957,7 @@ created: 2026-05-02
 > **Definitions:** is called (1), is a  (1), known as (1)
 > **Best Practices:** best practice (2)
 
-#### Aliases and sorting
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/aliases-and-sorting-23859324?u=76281980)
+#### [Aliases and sorting](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/aliases-and-sorting-23859324?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -990,7 +981,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/aliases-and-sorting-23859324?u=76281980&t=52)** Now, oftentimes, we're going to encounter tables just like our customer details where the columns may not be formatted or even named something that our audience would recognize.
 >
-> **[1:05](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/aliases-and-sorting-23859324?u=76281980&t=65)** And we as SQL developers, it's on us to create clear communication channel with those who are the recipients of our query results.
+> **[1:05](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/aliases-and-sorting-23859324?u=76281980&t=65)** And we as [[SQL]] developers, it's on us to create clear communication channel with those who are the recipients of our query results.
 >
 > **[1:19](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/aliases-and-sorting-23859324?u=76281980&t=79)** So, one of the cool ways that we have to do that in SQL is the introduction of what's called an alias.
 >
@@ -1008,7 +999,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/aliases-and-sorting-23859324?u=76281980&t=145)** Let's do the same for age, but let's just capitalize Age.
 >
-> **[2:30](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/aliases-and-sorting-23859324?u=76281980&t=150)** So in the case of Age, I don't have a square bracket and that is because it's a single word, and I know I don't have a space as I do with my other aliases, and therefore I don't need my square bracket.
+> **[2:30](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/aliases-and-sorting-23859324?u=76281980&t=150)** So in the case of Age, I don't have a square bracket and that is because it's a single [[Microsoft Word|word]], and I know I don't have a space as I do with my other aliases, and therefore I don't need my square bracket.
 >
 > **[2:43](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/aliases-and-sorting-23859324?u=76281980&t=163)** So let me run this.
 >
@@ -1068,15 +1059,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), hit (5), [[SQL]] (4), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Microsoft Word|Word]] (1)
 > **Env Vars:** sql (4)
 > **Analogies:** just like (2)
 > **Cross-References:** as we saw (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Common mistakes
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/common-mistakes-23856621?u=76281980)
+#### [Common mistakes](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/common-mistakes-23856621?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1084,7 +1074,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/common-mistakes-23856621?u=76281980&t=1)** Now that we've gotten this far, let's pause a little and talk about some of the common rookie mistakes that we make as we start to get more familiar with our query writing abilities.
 >
-> **[0:13](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/common-mistakes-23856621?u=76281980&t=13)** As we start practicing, we're going to run into some errors that we have all run into when we start learning this thing called SQL.
+> **[0:13](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/common-mistakes-23856621?u=76281980&t=13)** As we start practicing, we're going to run into some errors that we have all run into when we start learning this thing called [[SQL]].
 >
 > **[0:22](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/common-mistakes-23856621?u=76281980&t=22)** I've certainly run into them.
 >
@@ -1184,7 +1174,7 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/common-mistakes-23856621?u=76281980&t=275)** Why is it doing this?
 >
-> **[4:38](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/common-mistakes-23856621?u=76281980&t=278)** So, one of the things to point out here is SQL or SQL Server Management Studio's ability to highlight portions of your SQL query, and run that portion that is highlighted.
+> **[4:38](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/common-mistakes-23856621?u=76281980&t=278)** So, one of the things to point out here is SQL or [[Microsoft SQL Server|SQL Server]] Management Studio's ability to highlight portions of your SQL query, and run that portion that is highlighted.
 >
 > **[4:52](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/common-mistakes-23856621?u=76281980&t=292)** So, as it stands, I have ID only highlighted.
 >
@@ -1228,7 +1218,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (14), hit (4), [[Microsoft SQL Server|Sql server]] (3), management (2), feature (1)
+> **Frameworks & Libraries:** [[SQL]] (14), [[Microsoft SQL Server|Sql server]] (3)
 > **Env Vars:** sql (17), select (1)
 > **CLI Commands:** make (4), find (1)
 > **Code Identifiers:** firstname (1), firstnam (1)
@@ -1237,14 +1227,13 @@ created: 2026-05-02
 > **Warnings:** common error (1), note that (1)
 > **SQL:** select (1)
 
-#### Solution: Crafting queries
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/coderpad-solution-sql-bootcamp-crafting-queries?u=76281980)
+#### [Solution: Crafting queries](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/coderpad-solution-sql-bootcamp-crafting-queries?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/coderpad-solution-sql-bootcamp-crafting-queries?u=76281980&t=0)** - [Instructor] In this first challenge, you are asked to create a query that's going to list some customer demographic information.
 >
-> **[0:09](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/coderpad-solution-sql-bootcamp-crafting-queries?u=76281980&t=9)** Now, as part of the team at Horizon Enterprises, your job is to create this report and develop a solution using an SQL query.
+> **[0:09](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/coderpad-solution-sql-bootcamp-crafting-queries?u=76281980&t=9)** Now, as part of the team at Horizon Enterprises, your job is to create this report and develop a solution using an [[SQL]] query.
 >
 > **[0:20](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/coderpad-solution-sql-bootcamp-crafting-queries?u=76281980&t=20)** So let's take a look at our approach to a solution.
 >
@@ -1262,7 +1251,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/coderpad-solution-sql-bootcamp-crafting-queries?u=76281980&t=79)** And that is capitalized City, just being proper in our presentation to management.
 >
-> **[1:25](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/coderpad-solution-sql-bootcamp-crafting-queries?u=76281980&t=85)** And just pointing out, as well, that we are not surrounding the word city with double quotes because there is no space in this alias, followed by Age, which is also capitalized, and again, not surrounded by quotes.
+> **[1:25](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/coderpad-solution-sql-bootcamp-crafting-queries?u=76281980&t=85)** And just pointing out, as well, that we are not surrounding the [[Microsoft Word|word]] city with double quotes because there is no space in this alias, followed by Age, which is also capitalized, and again, not surrounded by quotes.
 >
 > **[1:42](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/coderpad-solution-sql-bootcamp-crafting-queries?u=76281980&t=102)** Going down to our last clause, which is the ORDER BY clause, here, we can see that we have specified the Age column and we are sorting our results in ascending, that is, from the smallest to largest value.
 >
@@ -1274,7 +1263,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), [[SQL]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** customer_details (2), firstname (2), lastname (2)
 > **Env Vars:** sql (1), select (1), order (1)
 > **SQL:** select (1), order by (1)
@@ -1286,8 +1275,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The WHERE clause: Finding numeric data
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/the-where-clause-finding-numeric-data-23857339?u=76281980)
+#### [The WHERE clause: Finding numeric data](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/the-where-clause-finding-numeric-data-23857339?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1303,7 +1291,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/the-where-clause-finding-numeric-data-23857339?u=76281980&t=15)** We've gotten familiar with our database and on a high level kind of know the environment that we are working in.
 >
-> **[0:22](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/the-where-clause-finding-numeric-data-23857339?u=76281980&t=22)** Let us now look forward to see the steps we need to take to start actually creating our SQL statement.
+> **[0:22](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/the-where-clause-finding-numeric-data-23857339?u=76281980&t=22)** Let us now look forward to see the steps we need to take to start actually creating our [[SQL]] statement.
 >
 > **[0:31](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/the-where-clause-finding-numeric-data-23857339?u=76281980&t=31)** We're going to take a look at the structure of a basic query, how we can start filtering our data, analyzing our data and basically performing data analysis.
 >
@@ -1405,15 +1393,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[SQL]] (2), database (1)
+> **Frameworks & Libraries:** [[SQL]] (2)
 > **Env Vars:** sql (2)
 > **Speakers:** - so (1), - okay (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** as we saw (1)
 > **Non-Speech:** (slow bounce groove music) (1)
 
-#### The WHERE clause: Operators IN and BETWEEN
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/where-clause-operators-in-and-between-23857341?u=76281980)
+#### [The WHERE clause: Operators IN and BETWEEN](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/where-clause-operators-in-and-between-23857341?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1433,9 +1420,9 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/where-clause-operators-in-and-between-23857341?u=76281980&t=52)** Now, these are very standard descriptions of the operators.
 >
-> **[0:57](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/where-clause-operators-in-and-between-23857341?u=76281980&t=57)** Let us put this theory to practice and see how, when implemented within the WHERE clause of our SQL statement, how these logical operators manipulate and change the outcome of our results.
+> **[0:57](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/where-clause-operators-in-and-between-23857341?u=76281980&t=57)** Let us put this theory to practice and see how, when implemented within the WHERE clause of our [[SQL]] statement, how these logical operators manipulate and change the outcome of our results.
 >
-> **[1:13](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/where-clause-operators-in-and-between-23857341?u=76281980&t=73)** Okay, awesome, so here we are back at our SQL Server Management Studio interface where we have begun constructing our SQL statement.
+> **[1:13](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/where-clause-operators-in-and-between-23857341?u=76281980&t=73)** Okay, awesome, so here we are back at our [[Microsoft SQL Server|SQL Server]] Management Studio interface where we have begun constructing our SQL statement.
 >
 > **[1:24](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/where-clause-operators-in-and-between-23857341?u=76281980&t=84)** We've just taken a look at a new category of operators called logical operators, and let's now see the logical operator put to practice.
 >
@@ -1495,14 +1482,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (5), hit (4), [[Microsoft SQL Server|Sql server]] (1), management (1), data (1)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** where (8), sql (6), between (5)
 > **SQL:** where (8)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### The WHERE clause: Finding text data and using Wildcards
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/the-where-clause-finding-text-data-using-wildcards-23856620?u=76281980)
+#### [The WHERE clause: Finding text data and using Wildcards](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/the-where-clause-finding-text-data-using-wildcards-23856620?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1566,7 +1552,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/the-where-clause-finding-text-data-using-wildcards-23856620?u=76281980&t=228)** So we keep the single quotes, we have L and we don't care what comes after the L.
 >
-> **[3:56](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/the-where-clause-finding-text-data-using-wildcards-23856620?u=76281980&t=236)** So in SQL, there's a specific way of actually saying we don't care what comes after the L.
+> **[3:56](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/the-where-clause-finding-text-data-using-wildcards-23856620?u=76281980&t=236)** So in [[SQL]], there's a specific way of actually saying we don't care what comes after the L.
 >
 > **[4:03](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/the-where-clause-finding-text-data-using-wildcards-23856620?u=76281980&t=243)** And that is the percent sign.
 >
@@ -1626,7 +1612,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[SQL]] (3), database (2), next (2), hit (1)
+> **Frameworks & Libraries:** [[SQL]] (3)
 > **Code Identifiers:** firstname (6), customer_details (1)
 > **Env Vars:** where (4), sql (3)
 > **SQL:** where (4)
@@ -1635,8 +1621,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### The WHERE clause: Finding data using dates
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/the-where-clause-finding-data-using-dates-23858347?u=76281980)
+#### [The WHERE clause: Finding data using dates](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/the-where-clause-finding-data-using-dates-23858347?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1696,7 +1681,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/the-where-clause-finding-data-using-dates-23858347?u=76281980&t=193)** I'm just going to drag that into the picture here.
 >
-> **[3:16](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/the-where-clause-finding-data-using-dates-23858347?u=76281980&t=196)** So now we have a reconstructed SQL statement that has a basic structure without our filtering, and that is without our where clause thus far.
+> **[3:16](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/the-where-clause-finding-data-using-dates-23858347?u=76281980&t=196)** So now we have a reconstructed [[SQL]] statement that has a basic structure without our filtering, and that is without our where clause thus far.
 >
 > **[3:28](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/the-where-clause-finding-data-using-dates-23858347?u=76281980&t=208)** So let's just run this really quickly.
 >
@@ -1780,7 +1765,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[SQL]] (3), database (1)
+> **Frameworks & Libraries:** [[SQL]] (3)
 > **UI Navigation:** drag and drop (3), click on (1), select the (1), go to (1)
 > **Env Vars:** sql (3)
 > **Analogies:** just like (2), picture (1)
@@ -1789,8 +1774,7 @@ created: 2026-05-02
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Date range and set analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/coderpad-solution-sql-time-travel-date-range-and-set-analysis?u=76281980)
+#### [Solution: Date range and set analysis](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/coderpad-solution-sql-time-travel-date-range-and-set-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1822,7 +1806,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/coderpad-solution-sql-time-travel-date-range-and-set-analysis?u=76281980&t=116)** Pointing out also that our dates are wrapped in single quotes unlike our aliases, which are wrapped in double quotes.
 >
-> **[2:05](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/coderpad-solution-sql-time-travel-date-range-and-set-analysis?u=76281980&t=125)** These are the little nuances that we pay attention to when getting familiar with SQL.
+> **[2:05](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/coderpad-solution-sql-time-travel-date-range-and-set-analysis?u=76281980&t=125)** These are the little nuances that we pay attention to when getting familiar with [[SQL]].
 >
 > **[2:10](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/coderpad-solution-sql-time-travel-date-range-and-set-analysis?u=76281980&t=130)** Last but not least, we go down to our ORDER BY clause, and here we specify the flight date column and also specify that we want this sorted in ascending order.
 >
@@ -1838,7 +1822,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[SQL]] (1), management (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** where (3), select (1), sql (1), order (1)
 > **SQL:** where (3), select (1), order by (1)
 > **Speakers:** - [instructor] (1)
@@ -1848,8 +1832,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing AND and OR
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/introducing-the-and-and-or-23855686?u=76281980)
+#### [Introducing AND and OR](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/introducing-the-and-and-or-23855686?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1875,9 +1858,9 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/introducing-the-and-and-or-23855686?u=76281980&t=69)** The OR operator holds true if any of the conditions separated by the OR is true.
 >
-> **[1:18](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/introducing-the-and-and-or-23855686?u=76281980&t=78)** Now, just as we did before, let's now flip over to our SQL Server Management Studio Environment and introduce the AND and the OR into our WHERE clause and see how this now impacts our query results.
+> **[1:18](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/introducing-the-and-and-or-23855686?u=76281980&t=78)** Now, just as we did before, let's now flip over to our [[Microsoft SQL Server|SQL Server]] Management Studio Environment and introduce the AND and the OR into our WHERE clause and see how this now impacts our query results.
 >
-> **[1:37](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/introducing-the-and-and-or-23855686?u=76281980&t=97)** We're back at our SQL Server Management Studio Environment, and in front of us, we have a basic SQL query constructed.
+> **[1:37](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/introducing-the-and-and-or-23855686?u=76281980&t=97)** We're back at our SQL Server Management Studio Environment, and in front of us, we have a basic [[SQL]] query constructed.
 >
 > **[1:45](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/introducing-the-and-and-or-23855686?u=76281980&t=105)** We're taking a look at our customer details table and selecting a few columns.
 >
@@ -1951,13 +1934,13 @@ created: 2026-05-02
 >
 > **[6:23](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/introducing-the-and-and-or-23855686?u=76281980&t=383)** We now have to be aware of what part of that criteria we'd like to have executed first.
 >
-> **[6:31](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/introducing-the-and-and-or-23855686?u=76281980&t=391)** Once we surround that area with parentheses, that part of the query is executed first, and then the rest of it follows.
+> **[6:31](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/introducing-the-and-and-or-23855686?u=76281980&t=391)** Once we surround that area with parentheses, that part of the query is executed first, and then the [[Representational State Transfer (REST)|rest]] of it follows.
 >
 > **[6:40](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/introducing-the-and-and-or-23855686?u=76281980&t=400)** In this instance, we now have a properly filtered query which gives us our customers whose first names start with P or D, and we have the folks who are greater than 40 years old from that list.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft SQL Server|Sql server]] (2), management (2), [[SQL]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), [[SQL]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** where (6), sql (4)
 > **SQL:** where (6)
 > **Definitions:** is a  (2)
@@ -1966,20 +1949,19 @@ created: 2026-05-02
 > **Speakers:** - using (1)
 > **Non-Speech:** (smooth music) (1)
 
-#### Solution: Filtering with logical operators
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/coderpad-solution-filtering-with-logical-operators?u=76281980)
+#### [Solution: Filtering with logical operators](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/coderpad-solution-filtering-with-logical-operators?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/coderpad-solution-filtering-with-logical-operators?u=76281980&t=0)** - [Instructor] In this challenge, you work for Urban Lifestyle Retail and your task is to carve out distinct customer segments using SQL.
+> **[0:00](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/coderpad-solution-filtering-with-logical-operators?u=76281980&t=0)** - [Instructor] In this challenge, you work for Urban Lifestyle Retail and your task is to carve out distinct customer segments using [[SQL]].
 >
-> **[0:11](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/coderpad-solution-filtering-with-logical-operators?u=76281980&t=11)** Now, before we dive into how we would approach our solution, I'd like to point out that this and other challenges are written in a MySQL environment.
+> **[0:11](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/coderpad-solution-filtering-with-logical-operators?u=76281980&t=11)** Now, before we dive into how we would approach our solution, I'd like to point out that this and other challenges are written in a [[MySQL]] environment.
 >
-> **[0:24](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/coderpad-solution-filtering-with-logical-operators?u=76281980&t=24)** Now, this is different from the course content, which is for a SQL Server-based environment.
+> **[0:24](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/coderpad-solution-filtering-with-logical-operators?u=76281980&t=24)** Now, this is different from the course content, which is for a [[Microsoft SQL Server|SQL Server]]-based environment.
 >
 > **[0:33](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/coderpad-solution-filtering-with-logical-operators?u=76281980&t=33)** Now, this is very deliberate and very real-world.
 >
-> **[0:37](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/coderpad-solution-filtering-with-logical-operators?u=76281980&t=37)** Often, when you work for a company that is predominantly employing, let's say, Microsoft SQL Server, they are very well using other relational database management systems, and you as a SQL practitioner or data analyst will be expected to execute SQL in various environments, and this is an excellent opportunity to do so.
+> **[0:37](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/coderpad-solution-filtering-with-logical-operators?u=76281980&t=37)** Often, when you work for a company that is predominantly employing, let's say, [[Microsoft SQL Server]], they are very well using other relational [[Database Management]] systems, and you as a SQL practitioner or data analyst will be expected to execute SQL in various environments, and this is an excellent opportunity to do so.
 >
 > **[1:03](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/coderpad-solution-filtering-with-logical-operators?u=76281980&t=63)** So, that being said, let's take a look at our solution.
 >
@@ -1999,7 +1981,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/coderpad-solution-filtering-with-logical-operators?u=76281980&t=126)** And we've alias this as Age, and we have also wrapped a pair of double quotes around this.
 >
-> **[2:13](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/coderpad-solution-filtering-with-logical-operators?u=76281980&t=133)** I'd like to point out that this is not needed, it's very optional when we have a single word as an alias, but we do not need to wrap this in double quotes.
+> **[2:13](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/coderpad-solution-filtering-with-logical-operators?u=76281980&t=133)** I'd like to point out that this is not needed, it's very optional when we have a single [[Microsoft Word|word]] as an alias, but we do not need to wrap this in double quotes.
 >
 > **[2:26](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/coderpad-solution-filtering-with-logical-operators?u=76281980&t=146)** Okay, moving on to our WHERE clause.
 >
@@ -2023,7 +2005,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (3), management (2), data (2), [[MySQL]] (1), [[Microsoft SQL Server|Sql server]] (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[MySQL]] (1), [[Microsoft SQL Server|Sql server]] (1), [[Microsoft SQL Server]] (1), [[Database Management]] (1)
 > **Env Vars:** sql (5), select (2), concat (1), where (1), order (1)
 > **Code Identifiers:** firstname (3), lastname (2), customer_details (1)
 > **SQL:** select (2), where (1), order by (1)
@@ -2036,12 +2018,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Calculated columns
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/calculated-columns-23859325?u=76281980)
+#### [Calculated columns](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/calculated-columns-23859325?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/calculated-columns-23859325?u=76281980&t=5)** In the last video we took a look at applying multiple conditions using our SQL statement.
+> **[0:05](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/calculated-columns-23859325?u=76281980&t=5)** In the last video we took a look at applying multiple conditions using our [[SQL]] statement.
 >
 > **[0:11](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/calculated-columns-23859325?u=76281980&t=11)** In this video, we're going to learn how to apply something called conditional statements or calculated columns, let's dive on in.
 >
@@ -2171,15 +2152,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (11), data (10), hit (2), database (1), business (1)
+> **Frameworks & Libraries:** [[SQL]] (11)
 > **Env Vars:** sql (11), aka (1)
 > **Versions:** 11.93 (1), 1.5 (1), 27.99 (1), 22.99 (1), 12.50 (1)
 > **Definitions:** is a  (4)
 > **Warnings:** be aware (2), caution (1)
 > **Cross-References:** in the last (1), as we saw (1)
 
-#### The CASE statement
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/the-case-statement-23861203?u=76281980)
+#### [The CASE statement](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/the-case-statement-23861203?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2263,16 +2243,15 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/the-case-statement-23861203?u=76281980&t=250)** And we've also reintroduced the in operator which extended our where clause filtering capabilities.
 >
-> **[4:17](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/the-case-statement-23861203?u=76281980&t=257)** And we've extended our abilities in general as SQL developers.
+> **[4:17](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/the-case-statement-23861203?u=76281980&t=257)** And we've extended our abilities in general as [[SQL]] developers.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Calculated columns and conditional logic
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/coderpad-solution-calculated-columns-and-conditional-logic?u=76281980)
+#### [Solution: Calculated columns and conditional logic](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/coderpad-solution-calculated-columns-and-conditional-logic?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2330,7 +2309,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), data (1), next (1)
 > **Env Vars:** concat (1)
 > **Speakers:** - [presenter] (1)
 
@@ -2339,14 +2317,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/next-steps-23857338?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/next-steps-23857338?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/next-steps-23857338?u=76281980&t=0)** - [Instructor] Congratulations on finishing this course.
 >
-> **[0:03](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/next-steps-23857338?u=76281980&t=3)** You've applied your newfound SQL skills to solve the theft of this painting.
+> **[0:03](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/next-steps-23857338?u=76281980&t=3)** You've applied your newfound [[SQL]] skills to solve the theft of this painting.
 >
 > **[0:09](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/next-steps-23857338?u=76281980&t=9)** It's now safely back in the museum and we've figured out who is the mastermind of this crime.
 >
@@ -2364,7 +2341,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/next-steps-23857338?u=76281980&t=66)** And that way you are able to actually tell a much deeper story with the same SQL statement you've created.
 >
-> **[1:12](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/next-steps-23857338?u=76281980&t=72)** So Microsoft Power BI is a excellent next step to take your newfound SQL skills.
+> **[1:12](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/next-steps-23857338?u=76281980&t=72)** So [[Microsoft Power BI]] is a excellent next step to take your newfound SQL skills.
 >
 > **[1:20](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/next-steps-23857338?u=76281980&t=80)** If you'd like to get me at a one-stop shop, please visit my Linktree address.
 >
@@ -2376,7 +2353,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (7), data (5), next (2), [[Microsoft Power BI]] (1)
+> **Frameworks & Libraries:** [[SQL]] (7), [[Microsoft Power BI]] (1)
 > **Env Vars:** sql (7)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)

@@ -91,17 +91,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Decision trees in SPSS Modeler
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/decision-trees-in-spss-modeler?u=76281980)
+#### [Decision trees in SPSS Modeler](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/decision-trees-in-spss-modeler?u=76281980)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/what-you-should-know?u=76281980&t=0)** - [Instructor] If you've ever taken a class or read a book about statistics or data mining or maybe even written code in R, but you never really understood what it was actually doing behind the scenes, this class will be a good fit for you.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/what-you-should-know?u=76281980&t=0)** - [Instructor] If you've ever taken a class or read a book about [[Statistics]] or [[Data Mining]] or maybe even written code in R, but you never really understood what it was actually doing behind the scenes, this class will be a good fit for you.
 >
-> **[0:13](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/what-you-should-know?u=76281980&t=13)** It's not about the point and click or the programming commands, but rather how the algorithms work, how to interpret the results, and how I act on those results to improve the model.
+> **[0:13](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/what-you-should-know?u=76281980&t=13)** It's not about the point and click or the programming commands, but rather how the [[Algorithms]] work, how to interpret the results, and how I act on those results to improve the model.
 >
 > **[0:24](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/what-you-should-know?u=76281980&t=24)** So if you're interested in what trees are doing under the hood, this is going to be a good course for you.
 >
@@ -127,11 +125,11 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/what-you-should-know?u=76281980&t=65)** If you've ever used SPSS Modeler before or if you have a reason to learn it, my use of it might be a nice bonus for you.
 >
-> **[1:12](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/what-you-should-know?u=76281980&t=72)** But you can get a lot of benefit out of the course even if you intend to use other software options to build decision trees.
+> **[1:12](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/what-you-should-know?u=76281980&t=72)** But you can get a lot of benefit out of the course even if you intend to use other software options to build [[Decision Trees]].
 >
 > **[1:19](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/what-you-should-know?u=76281980&t=79)** Let me show you just a couple of quick examples.
 >
-> **[1:22](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/what-you-should-know?u=76281980&t=82)** This is a KNIME stream to build a decision tree.
+> **[1:22](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/what-you-should-know?u=76281980&t=82)** This is a [[Knime]] stream to build a decision tree.
 >
 > **[1:27](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/what-you-should-know?u=76281980&t=87)** KNIME is a very popular open source software, and once the tree is built, it looks like this.
 >
@@ -145,25 +143,23 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/what-you-should-know?u=76281980&t=112)** Here's an example of a decision tree built in SPSS Statistics and it looks almost identical to the one in SPSS Modeler.
 >
-> **[1:59](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/what-you-should-know?u=76281980&t=119)** In addition to those options, you have R, you have Python, you have SAS, there are many.
+> **[1:59](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/what-you-should-know?u=76281980&t=119)** In addition to those options, you have R, you have [[Python (Programming Language)|Python]], you have SAS, there are many.
 >
-> **[2:05](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/what-you-should-know?u=76281980&t=125)** There's truly no predictive modeling technique that is more common or more foundational than decision trees.
+> **[2:05](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/what-you-should-know?u=76281980&t=125)** There's truly no [[Predictive Modeling]] technique that is more common or more foundational than decision trees.
 >
-> **[2:12](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/what-you-should-know?u=76281980&t=132)** It's a fantastic way to start a journey in understanding a whole variety of topics in data science.
+> **[2:12](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/what-you-should-know?u=76281980&t=132)** It's a fantastic way to start a journey in understanding a whole variety of topics in [[Data Science]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (5), data (3), [[Decision Trees]] (3), [[Knime]] (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (5), [[Decision Trees]] (3), [[Knime]] (2), [[Data Mining]] (1), [[Algorithms]] (1)
 > **Env Vars:** spss (6), knime (2), sas (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 
-#### Modeler 18.4
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/modeler-18-4?u=76281980)
+#### [Modeler 18.4](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/modeler-18-4?u=76281980)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/using-the-exercise-files?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -183,13 +179,13 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/using-the-exercise-files?u=76281980&t=35)** If you click on Get the Data, the only file that we need is this initial file 'train', the csv file.
 >
-> **[0:47](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/using-the-exercise-files?u=76281980&t=47)** If you want to click along, and I encourage you to do so, you'll want to get a copy of the IBM SPSS model or trial.
+> **[0:47](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/using-the-exercise-files?u=76281980&t=47)** If you want to click along, and I encourage you to do so, you'll want to get a copy of the [[IBM SPSS]] model or trial.
 >
 > **[0:54](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/using-the-exercise-files?u=76281980&t=54)** You will have to get an IBM ID but it's completely free and the trial will last about 30 days, which will give you plenty of time to work through the course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Search]] (1), [[IBM SPSS]] (1)
+> **Frameworks & Libraries:** [[IBM SPSS]] (1)
 > **Env Vars:** ibm (2), spss (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** go to (1), click on (1)
@@ -203,8 +199,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Decision tree options in SPSS Modeler
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/decision-tree-options-in-spss-modeler?u=76281980)
+#### [Decision tree options in SPSS Modeler](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/decision-tree-options-in-spss-modeler?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -212,7 +207,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/decision-tree-options-in-spss-modeler?u=76281980&t=4)** Modeler's all about building Streams.
 >
-> **[0:06](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/decision-tree-options-in-spss-modeler?u=76281980&t=6)** Here's an example of a Stream that builds to Decision Trees and we draw these Streams on the canvas and down at the bottom, there's a whole collection of these different shapes called Nodes that we use to build the Streams.
+> **[0:06](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/decision-tree-options-in-spss-modeler?u=76281980&t=6)** Here's an example of a Stream that builds to [[Decision Trees]] and we draw these Streams on the canvas and down at the bottom, there's a whole collection of these different shapes called Nodes that we use to build the Streams.
 >
 > **[0:20](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/decision-tree-options-in-spss-modeler?u=76281980&t=20)** So let's take a closer look at modeling, and especially classification.
 >
@@ -238,7 +233,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/decision-tree-options-in-spss-modeler?u=76281980&t=94)** Now something to note is that although the colors are arbitrary, in this case, red means they survived and blue means they died.
 >
-> **[1:42](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/decision-tree-options-in-spss-modeler?u=76281980&t=102)** So let's zoom in and take a closer look.
+> **[1:42](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/decision-tree-options-in-spss-modeler?u=76281980&t=102)** So let's [[Zoom]] in and take a closer look.
 >
 > **[1:46](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/decision-tree-options-in-spss-modeler?u=76281980&t=106)** In particular, you'll notice that Node 4 down here represents a group of passengers where the survival rate is quite high compared to some of the others.
 >
@@ -246,25 +241,24 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/decision-tree-options-in-spss-modeler?u=76281980&t=140)** Now we're going to have many opportunities to talk about tree diagrams just like this.
 >
-> **[2:26](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/decision-tree-options-in-spss-modeler?u=76281980&t=146)** So why so many algorithms and why are we going to stay focused on CHAID and CRT?
+> **[2:26](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/decision-tree-options-in-spss-modeler?u=76281980&t=146)** So why so many [[Algorithms]] and why are we going to stay focused on CHAID and CRT?
 >
 > **[2:32](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/decision-tree-options-in-spss-modeler?u=76281980&t=152)** I've chosen CHAID and CRT because they're common, they're easy to understand and quite different from each other.
 >
-> **[2:39](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/decision-tree-options-in-spss-modeler?u=76281980&t=159)** In fact, CHAID for instance, comes from the Statistics field whereas CRT is associated more with machine learning.
+> **[2:39](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/decision-tree-options-in-spss-modeler?u=76281980&t=159)** In fact, CHAID for instance, comes from the [[Statistics]] field whereas CRT is associated more with machine learning.
 >
 > **[2:45](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/decision-tree-options-in-spss-modeler?u=76281980&t=165)** So you can learn a lot about Decision Trees just by comparing CHAID and CRT.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Decision Trees]] (3), node (2), [[Zoom]] (1), [[Algorithms]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Decision Trees]] (3), [[Zoom]] (1), [[Algorithms]] (1), [[Statistics]] (1)
 > **Env Vars:** chaid (6), crt (5), spss (1)
 > **CLI Commands:** node (2), find (1)
 > **Versions:** node 4 (2), 38.5 (1)
 > **Analogies:** just like (1), for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building a quick CHAID model
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/building-a-quick-chaid-model?u=76281980)
+#### [Building a quick CHAID model](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/building-a-quick-chaid-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -328,7 +322,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (8), next (6), data (4)
 > **CLI Commands:** node (8), make (1), find (1)
 > **Definitions:** is a  (2), stands for (2)
 > **Env Vars:** chaid (2)
@@ -337,8 +330,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding a second model with C&RT
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/adding-a-second-model-with-c-rt?u=76281980)
+#### [Adding a second model with C&RT](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/adding-a-second-model-with-c-rt?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -376,13 +368,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (8)
 > **CLI Commands:** node (8), find (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Analysis nodes
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/analysis-nodes?u=76281980)
+#### [Analysis nodes](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/analysis-nodes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -464,7 +454,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), node (4), next (2)
 > **Env Vars:** chaid (10), cart (8)
 > **CLI Commands:** node (4), make (3)
 > **Versions:** 85.45 (1), 78.41 (1)
@@ -472,9 +461,9 @@ created: 2026-05-02
 > **Tools:** notion (1)
 > **Analogies:** think of it like (1)
 > **Best Practices:** rule of thumb (1)
+> **Speakers:** - [instructor] (1)
 
-#### Lift and gains chart
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/lift-and-gains-chart?u=76281980)
+#### [Lift and gains chart](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/lift-and-gains-chart?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -534,7 +523,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (4), data (3), application (1), management (1)
 > **CLI Commands:** node (4), find (1)
 > **Versions:** 2.5 (1), 2.2 (1), 1.83 (1)
 > **Analogies:** imagine (2), picture (1)
@@ -547,12 +535,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is an algorithm?
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/what-is-an-algorithm?u=76281980)
+#### [What is an algorithm?](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/what-is-an-algorithm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/what-is-an-algorithm?u=76281980&t=0)** - [Instructor] We've discussed decision trees in general.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/what-is-an-algorithm?u=76281980&t=0)** - [Instructor] We've discussed [[Decision Trees]] in general.
 >
 > **[0:03](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/what-is-an-algorithm?u=76281980&t=3)** We've even discussed how there are several different methods for building them.
 >
@@ -600,18 +587,17 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/what-is-an-algorithm?u=76281980&t=118)** It would go through the whole algorithm and tell you what the whole thought process was behind CHAID.
 >
-> **[2:03](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/what-is-an-algorithm?u=76281980&t=123)** Again we're going to see CHAID in action so you don't necessarily have to do this, but if you're curious it can actually be quite interesting to look at where these algorithms originally came from.
+> **[2:03](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/what-is-an-algorithm?u=76281980&t=123)** Again we're going to see CHAID in action so you don't necessarily have to do this, but if you're curious it can actually be quite interesting to look at where these [[Algorithms]] originally came from.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Decision Trees]] (3), management (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Decision Trees]] (3), [[Algorithms]] (1)
 > **Env Vars:** chaid (7)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Chi-squared overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/chi-squared-overview?u=76281980)
+#### [Chi-squared overview](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/chi-squared-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -663,7 +649,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/chi-squared-overview?u=76281980&t=110)** And the survival rate for males is substantially lower.
 >
-> **[1:54](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/chi-squared-overview?u=76281980&t=114)** What that is causing to happen is that the chi-square probability is very, very small.
+> **[1:54](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/chi-squared-overview?u=76281980&t=114)** What that is causing to happen is that the chi-square [[Probability]] is very, very small.
 >
 > **[2:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/chi-squared-overview?u=76281980&t=120)** It's probably not exactly zero, but it's very close to zero.
 >
@@ -689,7 +675,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (3), [[Probability]] (2), next (2), data (1)
+> **Frameworks & Libraries:** [[Probability]] (2)
 > **CLI Commands:** node (3), make (2)
 > **Env Vars:** chaid (3)
 > **UI Navigation:** open the (1), double-click (1), go to (1)
@@ -698,8 +684,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Definitions:** means that (1)
 
-#### Buliding a tree interactively
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/buliding-a-tree-interactively?u=76281980)
+#### [Buliding a tree interactively](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/buliding-a-tree-interactively?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -751,7 +736,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (6), data (1)
 > **CLI Commands:** node (6), find (1)
 > **Env Vars:** chaid (6)
 > **UI Navigation:** click on (4), open the (1)
@@ -759,9 +743,9 @@ created: 2026-05-02
 > **Versions:** 38.5 (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
+> **Speakers:** - [instructor] (1)
 
-#### Bonferonni adjustment
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/bonferonni-adjustment?u=76281980)
+#### [Bonferonni adjustment](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/bonferonni-adjustment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -787,7 +771,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/bonferonni-adjustment?u=76281980&t=44)** What the adjustment is trying to address is that the more tests you perform, the greater the risk of type one error.
 >
-> **[0:52](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/bonferonni-adjustment?u=76281980&t=52)** That's the fancy way that we refer to it in statistics.
+> **[0:52](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/bonferonni-adjustment?u=76281980&t=52)** That's the fancy way that we refer to it in [[Statistics]].
 >
 > **[0:54](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/bonferonni-adjustment?u=76281980&t=54)** But it's just like the boy who cried wolf.
 >
@@ -883,7 +867,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Statistics]] (1), node (1), next (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **CLI Commands:** find (4), make (3), node (1)
 > **Versions:** 0.05 (2), 0.0001 (1), 0.0008 (1), 0.01 (1), 99.9 (1)
 > **Env Vars:** chaid (4), spss (1)
@@ -892,14 +876,13 @@ created: 2026-05-02
 > **Warnings:** be careful (2), keep in mind (1)
 > **Definitions:** means that (1), is an  (1)
 
-#### What is level of measurement?
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/what-is-level-of-measurement?u=76281980)
+#### [What is level of measurement?](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/what-is-level-of-measurement?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/what-is-level-of-measurement?u=76281980&t=0)** - [Narrator] Level of measurement is a very important statistical concept.
 >
-> **[0:05](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/what-is-level-of-measurement?u=76281980&t=5)** It's discussed throughout statistics, so it's certainly not unique to CHAID, nor is it unique to Modeler.
+> **[0:05](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/what-is-level-of-measurement?u=76281980&t=5)** It's discussed throughout [[Statistics]], so it's certainly not unique to CHAID, nor is it unique to Modeler.
 >
 > **[0:11](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/what-is-level-of-measurement?u=76281980&t=11)** We have to talk about level of measurement because the type node settings and the type node declarations we make have a direct impact on how CHAID is going to grow.
 >
@@ -961,7 +944,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (5), [[Statistics]] (1), next (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **CLI Commands:** node (5), make (1)
 > **Env Vars:** chaid (3), spss (1)
 > **Definitions:** is a  (2), is an  (1), means that (1)
@@ -970,8 +953,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for instance (1)
 
-#### How CHAID handles nominal variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/how-chaid-handles-nominal-variables?u=76281980)
+#### [How CHAID handles nominal variables](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/how-chaid-handles-nominal-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -991,7 +973,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/how-chaid-handles-nominal-variables?u=76281980&t=22)** Queenstown and South Hampton are combined.
 >
-> **[0:25](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/how-chaid-handles-nominal-variables?u=76281980&t=25)** But Cherbourg is on its own, along with the missing data which is indicated in Modeler with the word blank.
+> **[0:25](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/how-chaid-handles-nominal-variables?u=76281980&t=25)** But Cherbourg is on its own, along with the missing data which is indicated in Modeler with the [[Microsoft Word|word]] blank.
 >
 > **[0:33](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/how-chaid-handles-nominal-variables?u=76281980&t=33)** I can actually force it to break the data into all three groups, plus a separate Node for missing.
 >
@@ -1013,14 +995,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft Word|Word]] (1), node (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Env Vars:** chaid (6)
 > **CLI Commands:** node (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### How CHAID handles ordinal variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/how-chaid-handles-ordinal-variables?u=76281980)
+#### [How CHAID handles ordinal variables](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/how-chaid-handles-ordinal-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1062,13 +1043,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Env Vars:** chaid (3)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### How CHAID handles continuous variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/how-chaid-handles-continuous-variables?u=76281980)
+#### [How CHAID handles continuous variables](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/how-chaid-handles-continuous-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1128,7 +1107,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (10), next (1)
 > **CLI Commands:** node (10)
 > **Versions:** node 14 (3), node 15 (3), node 18 (3), node 16 (1)
 > **Env Vars:** chaid (5)
@@ -1137,8 +1115,7 @@ created: 2026-05-02
 > **Tools:** notion (1)
 > **Speakers:** - [instructor] (1)
 
-#### A quick look at the complete CHAID tree
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/a-quick-look-at-the-complete-chaid-tree?u=76281980)
+#### [A quick look at the complete CHAID tree](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/a-quick-look-at-the-complete-chaid-tree?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1154,7 +1131,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/a-quick-look-at-the-complete-chaid-tree?u=76281980&t=33)** Something to consider, obviously, trees can get larger and more complex than this.
 >
-> **[0:40](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/a-quick-look-at-the-complete-chaid-tree?u=76281980&t=40)** So many software packages will allow you to export trees as text or HTML or other formats.
+> **[0:40](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/a-quick-look-at-the-complete-chaid-tree?u=76281980&t=40)** So many software packages will allow you to export trees as text or [[HTML]] or other formats.
 >
 > **[0:47](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/a-quick-look-at-the-complete-chaid-tree?u=76281980&t=47)** When trees get very large and complex, especially with a little practice interpreting them, this can be a good choice.
 >
@@ -1246,7 +1223,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (15), data (2), [[HTML]] (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **CLI Commands:** node (15), make (2)
 > **Versions:** node 15 (3), node 9 (2), node 16 (2), node 17 (2), node 21 (2)
 > **Definitions:** is a  (2)
@@ -1260,8 +1237,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is the Gini coefficient?
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/what-is-the-gini-coefficient?u=76281980)
+#### [What is the Gini coefficient?](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/what-is-the-gini-coefficient?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1273,7 +1249,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/what-is-the-gini-coefficient?u=76281980&t=29)** If you're intrigued with his work, he's written a very interesting article called The Two Cultures in Statistical Modeling.
 >
-> **[0:37](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/what-is-the-gini-coefficient?u=76281980&t=37)** It compares the kind of work that we're doing in this course, data mining with techniques like decision trees, to more traditional statistics.
+> **[0:37](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/what-is-the-gini-coefficient?u=76281980&t=37)** It compares the kind of work that we're doing in this course, [[Data Mining]] with techniques like [[Decision Trees]], to more traditional [[Statistics]].
 >
 > **[0:45](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/what-is-the-gini-coefficient?u=76281980&t=45)** It's somewhat academic in nature, but it's absolutely worth a read.
 >
@@ -1307,15 +1283,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Decision Trees]] (1), [[Statistics]] (1), next (1)
+> **Frameworks & Libraries:** [[Data Mining]] (1), [[Decision Trees]] (1), [[Statistics]] (1)
 > **Env Vars:** cart (4)
 > **Analogies:** for instance (4)
 > **Cross-References:** in the next (1)
 > **Tools:** notion (1)
 > **Speakers:** - [instructor] (1)
 
-#### How does C&RT weigh purity and balance?
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/how-does-c-rt-weigh-purity-and-balance?u=76281980)
+#### [How does C&RT weigh purity and balance?](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/how-does-c-rt-weigh-purity-and-balance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1371,15 +1346,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (8), data (1), next (1)
 > **CLI Commands:** node (8)
 > **Versions:** node 19 (1), node 20 (1), node 22 (1)
 > **Warnings:** note that (1), be careful (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - c (1)
 
-#### How C&RT handles nominal, ordinal, and continuous variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/how-c-rt-handles-nominal-ordinal-and-continuous-variables?u=76281980)
+#### [How C&RT handles nominal, ordinal, and continuous variables](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/how-c-rt-handles-nominal-ordinal-and-continuous-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1433,13 +1406,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), node (1), next (1)
 > **CLI Commands:** make (1), find (1), node (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
 
-#### How C&RT handles missing data
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/how-c-rt-handles-missing-data?u=76281980)
+#### [How C&RT handles missing data](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/how-c-rt-handles-missing-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1521,7 +1492,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), node (2)
 > **Env Vars:** cart (9), chaid (6)
 > **CLI Commands:** node (2), find (2)
 > **Definitions:** in other words (1), is a  (1)
@@ -1530,8 +1500,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding pruning
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/understanding-pruning?u=76281980)
+#### [Understanding pruning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/understanding-pruning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1545,7 +1514,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/understanding-pruning?u=76281980&t=19)** Here it is.
 >
-> **[0:20](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/understanding-pruning?u=76281980&t=20)** I'm going to zoom out one click.
+> **[0:20](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/understanding-pruning?u=76281980&t=20)** I'm going to [[Zoom]] out one click.
 >
 > **[0:22](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/understanding-pruning?u=76281980&t=22)** And, that's the whole tree.
 >
@@ -1610,8 +1579,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### A quick look at the complete C&RT tree
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/a-quick-look-at-the-complete-c-rt-tree?u=76281980)
+#### [A quick look at the complete C&RT tree](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/a-quick-look-at-the-complete-c-rt-tree?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1663,7 +1631,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (8), data (6), next (1)
 > **CLI Commands:** node (8), make (2), find (1)
 > **Env Vars:** chaid (5)
 > **Cross-References:** in the next (1)
@@ -1674,8 +1641,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Stopping rules in CHAID and C&RT
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/stopping-rules-in-chaid-and-c-rt?u=76281980)
+#### [Stopping rules in CHAID and C&RT](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/stopping-rules-in-chaid-and-c-rt?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1781,7 +1747,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/stopping-rules-in-chaid-and-c-rt?u=76281980&t=235)** So if you were to look at the complexity of the tree, or if you were to count leaf nodes, you might find that a C&RT set to eight, was similar in complexity to a CHAID set to six.
 >
-> **[4:08](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/stopping-rules-in-chaid-and-c-rt?u=76281980&t=248)** And that's something that you want to keep in mind, because of the very different nature of the two algorithms.
+> **[4:08](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/stopping-rules-in-chaid-and-c-rt?u=76281980&t=248)** And that's something that you want to keep in mind, because of the very different nature of the two [[Algorithms]].
 >
 > **[4:14](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/stopping-rules-in-chaid-and-c-rt?u=76281980&t=254)** The third stopping rule in CHAID, is confidence level.
 >
@@ -1863,7 +1829,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (2), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **Env Vars:** chaid (17), espss (1)
 > **CLI Commands:** make (6), node (2), find (1)
 > **Definitions:** in other words (2), is a  (2)
@@ -1872,8 +1838,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [narrator] (1)
 
-#### Exhaustive CHAID
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/exhaustive-chaid?u=76281980)
+#### [Exhaustive CHAID](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/exhaustive-chaid?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1945,29 +1910,26 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/exhaustive-chaid?u=76281980&t=185)** That's exactly the kind of little puzzle that you can figure out when you're spending several days building trees and you're trying to figure out why the trees are behaving in different ways.
 >
-> **[3:16](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/exhaustive-chaid?u=76281980&t=196)** That's why it's so helpful to know even just a little bit of how the algorithms work under the hood.
+> **[3:16](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/exhaustive-chaid?u=76281980&t=196)** That's why it's so helpful to know even just a little bit of how the [[Algorithms]] work under the hood.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **Env Vars:** chaid (13)
 > **CLI Commands:** find (2)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tree-AS node
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/tree-as-node?u=76281980)
+#### [Tree-AS node](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/tree-as-node?u=76281980)
 
-#### The Autoclassifier tuning trick
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/the-autoclassifier-tuning-trick?u=76281980)
+#### [The Autoclassifier tuning trick](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/the-autoclassifier-tuning-trick?u=76281980)
 
 
 ### Conclusion
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/next-steps-23418218?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/next-steps-23418218?u=76281980)
 
 
 ## Instructor

@@ -7,7 +7,7 @@ course_count: 5
 linkedin_topics:
   - Software Development
   - Web Development
-louvain_cluster: 14
+louvain_cluster: 12
 tags:
   - learning-path
   - topic/software-development

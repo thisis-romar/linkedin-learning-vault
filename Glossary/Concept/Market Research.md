@@ -17,7 +17,7 @@ tags:
   - topic/artificial-intelligence
   - topic/cloud-computing
   - topic/web-development
-course_count: 45
+course_count: 46
 created: 2026-05-02
 ---
 
@@ -25,7 +25,7 @@ created: 2026-05-02
 
 # Market Research
 
-> **Type:** Concept | **Courses:** 45 | **Topics:** [[Software Development]], [[Data Science]], [[Artificial Intelligence (AI)]], [[Cloud Computing]], [[Web Development]]
+> **Type:** Concept | **Courses:** 46 | **Topics:** [[Software Development]], [[Data Science]], [[Artificial Intelligence (AI)]], [[Cloud Computing]], [[Web Development]]
 
 ## Courses
 
@@ -40,7 +40,7 @@ created: 2026-05-02
 9. [[Product Management- Building a Product Strategy]] — 2 mentions
 10. [[UX Deep Dive- Foundational Research]] — 2 mentions
 
-> [!note]- See all 45 courses
+> [!note]- See all 46 courses
 > 11. [[Communication Foundations]] — 2 mentions
 > 12. [[The Habits of Successful Marketers]] — 2 mentions
 > 13. [[Succeeding As A First Time Tech Manager]] — 1 mentions
@@ -50,32 +50,33 @@ created: 2026-05-02
 > 17. [[Strategic Agility for Organizational Leaders]] — 1 mentions
 > 18. [[Leading with Innovation in the Age of AI]] — 1 mentions
 > 19. [[Design Thinking- Understanding the Process]] — 1 mentions
-> 20. [[Introduction to NLP and LLMs- Principles and Practical Applications]] — 1 mentions
-> 21. [[Generative AI Approaches to Business Challenges]] — 1 mentions
-> 22. [[Stakeholder Management for Leaders and Managers]] — 1 mentions
-> 23. [[Using AI in Research Projects]] — 1 mentions
-> 24. [[Executive Guide to AutoML]] — 1 mentions
-> 25. [[AI Product Ideation- Principles and Practical Applications]] — 1 mentions
-> 26. [[Leveraging AI for Small and Medium Business Growth]] — 1 mentions
-> 27. [[The Startup-SMB Guide to Integrating and Managing AI Agents]] — 1 mentions
-> 28. [[Using AI to Improve Ops for Your Data Organization]] — 1 mentions
-> 29. [[How to Research and Write Using Generative AI Tools (2023)]] — 1 mentions
-> 30. [[Digital Strategy]] — 1 mentions
-> 31. [[Interaction Design for Ecommerce]] — 1 mentions
-> 32. [[Prompting ChatGPT with Multimodal Techniques]] — 1 mentions
-> 33. [[Empathy in UX Design]] — 1 mentions
-> 34. [[Strategic Data Collection, Modeling, and Quality Management for AI Systems]] — 1 mentions
-> 35. [[Descriptive Healthcare Analytics in R]] — 1 mentions
-> 36. [[Running a Profitable Business- Calculating Breakeven]] — 1 mentions
-> 37. [[Introduction To Business Analytics]] — 1 mentions
-> 38. [[Strategic Financial Management in Corporations]] — 1 mentions
-> 39. [[Predictive Customer Analytics]] — 1 mentions
-> 40. [[OpenAI API- Working with Files]] — 1 mentions
-> 41. [[Hands-On Natural Language Processing]] — 1 mentions
-> 42. [[Data Science and Analytics Career Paths and Certifications- First Steps]] — 1 mentions
-> 43. [[Advanced Python in Excel- Data Analysis and Visualization]] — 1 mentions
-> 44. [[Social Media Marketing Foundations]] — 1 mentions
-> 45. [[Unconscious Bias]] — 1 mentions
+> 20. [[Generative AI- Introduction to Large Language Models]] — 1 mentions
+> 21. [[Introduction to NLP and LLMs- Principles and Practical Applications]] — 1 mentions
+> 22. [[Generative AI Approaches to Business Challenges]] — 1 mentions
+> 23. [[Stakeholder Management for Leaders and Managers]] — 1 mentions
+> 24. [[Using AI in Research Projects]] — 1 mentions
+> 25. [[Executive Guide to AutoML]] — 1 mentions
+> 26. [[AI Product Ideation- Principles and Practical Applications]] — 1 mentions
+> 27. [[Leveraging AI for Small and Medium Business Growth]] — 1 mentions
+> 28. [[The Startup-SMB Guide to Integrating and Managing AI Agents]] — 1 mentions
+> 29. [[Using AI to Improve Ops for Your Data Organization]] — 1 mentions
+> 30. [[How to Research and Write Using Generative AI Tools (2023)]] — 1 mentions
+> 31. [[Digital Strategy]] — 1 mentions
+> 32. [[Interaction Design for Ecommerce]] — 1 mentions
+> 33. [[Prompting ChatGPT with Multimodal Techniques]] — 1 mentions
+> 34. [[Empathy in UX Design]] — 1 mentions
+> 35. [[Strategic Data Collection, Modeling, and Quality Management for AI Systems]] — 1 mentions
+> 36. [[Descriptive Healthcare Analytics in R]] — 1 mentions
+> 37. [[Running a Profitable Business- Calculating Breakeven]] — 1 mentions
+> 38. [[Introduction To Business Analytics]] — 1 mentions
+> 39. [[Strategic Financial Management in Corporations]] — 1 mentions
+> 40. [[Predictive Customer Analytics]] — 1 mentions
+> 41. [[OpenAI API- Working with Files]] — 1 mentions
+> 42. [[Hands-On Natural Language Processing]] — 1 mentions
+> 43. [[Data Science and Analytics Career Paths and Certifications- First Steps]] — 1 mentions
+> 44. [[Advanced Python in Excel- Data Analysis and Visualization]] — 1 mentions
+> 45. [[Social Media Marketing Foundations]] — 1 mentions
+> 46. [[Unconscious Bias]] — 1 mentions
 
 ## Learning Paths
 
@@ -86,9 +87,9 @@ created: 2026-05-02
 5. [[Advance Your Skills as a User Experience Researcher]] — 7 total mentions
 6. [[Explore a Career as a Marketing Manager]] — 7 total mentions
 7. [[Building AI Products- Understanding the Workflow Professional Certificate by LinkedIn Learning]] — 5 total mentions
-8. [[Strategic Execution and Business Impact for Senior Managers and Senior Leaders]] — 4 total mentions
-9. [[Master Digital Transformation]] — 4 total mentions
-10. [[Become an AI Engineer]] — 3 total mentions
+8. [[Become an AI Engineer]] — 4 total mentions
+9. [[Strategic Execution and Business Impact for Senior Managers and Senior Leaders]] — 4 total mentions
+10. [[Master Digital Transformation]] — 4 total mentions
 
 ---
 

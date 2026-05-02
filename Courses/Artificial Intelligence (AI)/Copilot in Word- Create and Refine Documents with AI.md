@@ -72,34 +72,32 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use Copilot in Word
-> [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/use-copilot-in-word?u=76281980)
+#### [Use Copilot in Word](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/use-copilot-in-word?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/use-copilot-in-word?u=76281980&t=0)** - CoPilot is your everyday AI companion in Microsoft Word.
+> **[0:00](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/use-copilot-in-word?u=76281980&t=0)** - [[Microsoft Copilot|CoPilot]] is your everyday AI companion in [[Microsoft Word]].
 >
 > **[0:04](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/use-copilot-in-word?u=76281980&t=4)** Whether you're writing a business proposal, drafting guidelines, composing a letter, or reviewing a lengthy document, CoPilot can help you brainstorm ideas, strengthen your writing, analyze documents to give you key takeaways, and much more.
 >
 > **[0:18](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/use-copilot-in-word?u=76281980&t=18)** And you can accomplish all of these tasks just by chatting with CoPilot using plain conversational language.
 >
-> **[0:24](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/use-copilot-in-word?u=76281980&t=24)** Hi, I'm LinkedIn Learning Senior Staff Instructor, Garrick Chow.
+> **[0:24](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/use-copilot-in-word?u=76281980&t=24)** Hi, I'm [[LinkedIn]] Learning Senior Staff Instructor, Garrick Chow.
 >
 > **[0:27](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/use-copilot-in-word?u=76281980&t=27)** And in this course we're going to look at some of the most useful ways you can have CoPilot enhance your writing and boost your productivity.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (4), ai (1), [[Microsoft Word]] (1), business (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (4), [[Microsoft Word]] (1), [[LinkedIn]] (1)
 > **Speakers:** - copilot (1)
 
-#### Understand the Copilot subscriptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/understand-the-copilot-subscriptions?u=76281980)
+#### [Understand the Copilot subscriptions](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/understand-the-copilot-subscriptions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/understand-the-copilot-subscriptions?u=76281980&t=0)** - [Instructor] The name Copilot is used by Microsoft for several of their products and services.
+> **[0:00](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/understand-the-copilot-subscriptions?u=76281980&t=0)** - [Instructor] The name [[Microsoft Copilot|Copilot]] is used by [[Microsoft]] for several of their [[Microsoft Products|products]] and services.
 >
-> **[0:04](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/understand-the-copilot-subscriptions?u=76281980&t=4)** So before we jump into this course, I want to take a moment to clarify how the name applies to this specific course on using Copilot in Microsoft Word.
+> **[0:04](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/understand-the-copilot-subscriptions?u=76281980&t=4)** So before we jump into this course, I want to take a moment to clarify how the name applies to this specific course on using Copilot in [[Microsoft Word]].
 >
 > **[0:13](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/understand-the-copilot-subscriptions?u=76281980&t=13)** First we have a free version of Copilot.
 >
@@ -109,9 +107,9 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/understand-the-copilot-subscriptions?u=76281980&t=32)** But again, anyone can use this web-based version of Copilot for free without an account.
 >
-> **[0:37](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/understand-the-copilot-subscriptions?u=76281980&t=37)** But the free version doesn't allow you to use Copilot in Microsoft 365 applications like Word, Excel, PowerPoint, and so on.
+> **[0:37](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/understand-the-copilot-subscriptions?u=76281980&t=37)** But the free version doesn't allow you to use Copilot in [[Microsoft 365]] applications like [[Microsoft Word|Word]], [[Microsoft Excel|Excel]], [[Microsoft PowerPoint|PowerPoint]], and so on.
 >
-> **[0:44](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/understand-the-copilot-subscriptions?u=76281980&t=44)** To use Copilot through those and other M365 apps, you have to have a paid subscription to Copilot through either a personal or individual account or an account through your work or school, also referred to as a business account.
+> **[0:44](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/understand-the-copilot-subscriptions?u=76281980&t=44)** To use Copilot through those and other [[Microsoft 365|M365]] apps, you have to have a paid subscription to Copilot through either a personal or individual account or an account through your work or school, also referred to as a business account.
 >
 > **[0:58](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/understand-the-copilot-subscriptions?u=76281980&t=58)** If you're subscribing as an individual, you'll be subscribing to Copilot Pro, which is currently $20 a month.
 >
@@ -131,7 +129,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (26), [[Microsoft]] (5), [[Microsoft 365]] (5), web (4), business (3)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (26), [[Microsoft]] (5), [[Microsoft 365]] (5), [[Microsoft Products|Products]] (2), [[Microsoft Word]] (2)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 > **Env Vars:** m365 (1)
 > **Definitions:** is called (1)
@@ -144,14 +142,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Draft a new document from scratch
-> [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/draft-a-new-document-from-scratch?u=76281980)
+#### [Draft a new document from scratch](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/draft-a-new-document-from-scratch?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/draft-a-new-document-from-scratch?u=76281980&t=0)** - [Instructor] Copilot is a great resource to have at your fingertips when you're staring at the proverbial blank slate, wondering where to start with the document that you need to create.
+> **[0:00](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/draft-a-new-document-from-scratch?u=76281980&t=0)** - [Instructor] [[Microsoft Copilot|Copilot]] is a great resource to have at your fingertips when you're staring at the proverbial blank slate, wondering where to start with the document that you need to create.
 >
-> **[0:09](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/draft-a-new-document-from-scratch?u=76281980&t=9)** I've started up Word, and let's create a new blank document.
+> **[0:09](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/draft-a-new-document-from-scratch?u=76281980&t=9)** I've started up [[Microsoft Word|Word]], and let's create a new blank document.
 >
 > **[0:13](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/draft-a-new-document-from-scratch?u=76281980&t=13)** When you first do this, you may see some of these Copilot prompts above the document.
 >
@@ -245,7 +242,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (18), prompt (18), next (3), [[Microsoft Word|Word]] (2), ai (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (18), [[Microsoft Word|Word]] (2)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (2), just like (1)
 > **Env Vars:** faq (2)
@@ -254,12 +251,11 @@ created: 2026-05-02
 > **Best Practices:** general rule (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a new document using files as references
-> [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/create-a-new-document-using-files-as-references?u=76281980)
+#### [Create a new document using files as references](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/create-a-new-document-using-files-as-references?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/create-a-new-document-using-files-as-references?u=76281980&t=0)** - [Narrator] As we previously saw, you can use Copilot to generate documents completely from scratch.
+> **[0:00](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/create-a-new-document-using-files-as-references?u=76281980&t=0)** - [Narrator] As we previously saw, you can use [[Microsoft Copilot|Copilot]] to generate documents completely from scratch.
 >
 > **[0:05](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/create-a-new-document-using-files-as-references?u=76281980&t=5)** But if you want Copilot to generate content and match the tone and style of your writing or your organization style, you can have a reference up to three existing files that it can use when creating your new document.
 >
@@ -267,11 +263,11 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/create-a-new-document-using-files-as-references?u=76281980&t=21)** This is a 28 page document, covering the guidelines for posting on various social media platforms.
 >
-> **[0:27](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/create-a-new-document-using-files-as-references?u=76281980&t=27)** Now this file is saved on my OneDrive, which is important because if you want Copilot to be able to access and reference a document, and it can be a Word document or a PowerPoint file, but that file has to be saved in your organization's OneDrive or SharePoint.
+> **[0:27](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/create-a-new-document-using-files-as-references?u=76281980&t=27)** Now this file is saved on my [[Microsoft OneDrive|OneDrive]], which is important because if you want Copilot to be able to access and reference a document, and it can be a [[Microsoft Word|Word]] document or a [[Microsoft PowerPoint|PowerPoint]] file, but that file has to be saved in your organization's OneDrive or [[SharePoint]].
 >
 > **[0:40](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/create-a-new-document-using-files-as-references?u=76281980&t=40)** So with that in mind, I'm going to close this and open up a new blank document.
 >
-> **[0:47](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/create-a-new-document-using-files-as-references?u=76281980&t=47)** And here at the top in the prompt area, I'll tell it that I wanted to draft a document of guidelines for employees posting to LinkedIn.
+> **[0:47](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/create-a-new-document-using-files-as-references?u=76281980&t=47)** And here at the top in the prompt area, I'll tell it that I wanted to draft a document of guidelines for employees posting to [[LinkedIn]].
 >
 > **[0:59](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/create-a-new-document-using-files-as-references?u=76281980&t=59)** Include an introductory section, explaining the importance of following the guidelines and a conclusion at the end, summarizing the document.
 >
@@ -313,19 +309,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (8), [[Microsoft OneDrive|Onedrive]] (4), prompt (4), [[Microsoft Word|Word]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (8), [[Microsoft OneDrive|Onedrive]] (4), [[Microsoft Word|Word]] (1), [[Microsoft PowerPoint|Powerpoint]] (1), [[SharePoint]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [narrator] (1)
 
-#### Produce additional content in a document
-> [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/produce-additional-content-in-a-document?u=76281980)
+#### [Produce additional content in a document](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/produce-additional-content-in-a-document?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/produce-additional-content-in-a-document?u=76281980&t=0)** - [Instructor] Whether you're working with a document that Copilot generated for you, or you're working in a document you're composing yourself, Copilot can help you figure out what comes next or add more to your document.
+> **[0:00](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/produce-additional-content-in-a-document?u=76281980&t=0)** - [Instructor] Whether you're working with a document that [[Microsoft Copilot|Copilot]] generated for you, or you're working in a document you're composing yourself, Copilot can help you figure out what comes next or add more to your document.
 >
 > **[0:11](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/produce-additional-content-in-a-document?u=76281980&t=11)** For this example, I've opened up a version of the document on guidelines for writing an annual self-review that we previously generated.
 >
@@ -349,7 +344,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/produce-additional-content-in-a-document?u=76281980&t=75)** We'll click Generate, and there we have it.
 >
-> **[1:24](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/produce-additional-content-in-a-document?u=76281980&t=84)** Copilot has created this new section that fits with the rest of my document.
+> **[1:24](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/produce-additional-content-in-a-document?u=76281980&t=84)** Copilot has created this new section that fits with the [[Representational State Transfer (REST)|rest]] of my document.
 >
 > **[1:28](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/produce-additional-content-in-a-document?u=76281980&t=88)** It's created the heading Example Questions just like I asked, and I can see this bulleted list of questions it came up with.
 >
@@ -367,19 +362,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), prompt (3), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** for example (1), just like (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generate images for your document
-> [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/generate-images-for-your-document?u=76281980)
+#### [Generate images for your document](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/generate-images-for-your-document?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/generate-images-for-your-document?u=76281980&t=0)** - [Instructor] In addition to generating text, Copilot can also generate images for your documents.
+> **[0:00](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/generate-images-for-your-document?u=76281980&t=0)** - [Instructor] In addition to generating text, [[Microsoft Copilot|Copilot]] can also generate images for your documents.
 >
-> **[0:05](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/generate-images-for-your-document?u=76281980&t=5)** This could be useful if you need a specific image to illustrate a section of your document, or if you need to come up with some ideas for some office layouts and want some images to look at, or you simply can't find the image you need on the web or with stock images.
+> **[0:05](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/generate-images-for-your-document?u=76281980&t=5)** This could be useful if you need a specific image to illustrate a section of your document, or if you need to come up with some ideas for some [[Microsoft Office|office]] layouts and want some images to look at, or you simply can't find the image you need on the web or with stock images.
 >
 > **[0:18](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/generate-images-for-your-document?u=76281980&t=18)** For example, here I have a document about the origin of Globe Bank and I want an image to go along with it.
 >
@@ -401,7 +395,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/generate-images-for-your-document?u=76281980&t=97)** and arrange it how you like on your page.
 >
-> **[1:39](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/generate-images-for-your-document?u=76281980&t=99)** Now, in addition to generating images, Copilot can also pull up stock images as part of your Microsoft 365 subscription.
+> **[1:39](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/generate-images-for-your-document?u=76281980&t=99)** Now, in addition to generating images, Copilot can also pull up stock images as part of your [[Microsoft 365]] subscription.
 >
 > **[1:47](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/generate-images-for-your-document?u=76281980&t=107)** Just specify that you want a stock image by typing a prompt, like add a stock image of a board meeting
 >
@@ -411,7 +405,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), prompt (2), [[Microsoft Office|Office]] (1), web (1), [[Microsoft 365]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), [[Microsoft Office|Office]] (1), [[Microsoft 365]] (1)
 > **CLI Commands:** find (3)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -421,12 +415,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Adjust the tone in existing content
-> [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/adjust-the-tone-in-existing-content?u=76281980)
+#### [Adjust the tone in existing content](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/adjust-the-tone-in-existing-content?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/adjust-the-tone-in-existing-content?u=76281980&t=0)** - [Instructor] In this chapter, we're going to look at some ways Copilot can help when you already have some content in your Word document, but maybe you don't like the way you worded a sentence or paragraph, or you want to strike a more casual tone.
+> **[0:00](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/adjust-the-tone-in-existing-content?u=76281980&t=0)** - [Instructor] In this chapter, we're going to look at some ways [[Microsoft Copilot|Copilot]] can help when you already have some content in your [[Microsoft Word|Word]] document, but maybe you don't like the way you worded a sentence or paragraph, or you want to strike a more casual tone.
 >
 > **[0:12](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/adjust-the-tone-in-existing-content?u=76281980&t=12)** For this example, I have a draft of an article about the origins of Globe Bank, and let's say I'm not really happy with this second to last sentence here that says, "Still at its core, Globe Bank International remains a community bank, focusing on the specific needs of individuals and organizations in each community in which its branches are located."
 >
@@ -484,18 +477,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), prompt (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), [[Microsoft Word|Word]] (1)
 > **Non-Speech:** (mouse button clicking) (2)
 > **Cross-References:** previous chapter (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Convert text to tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/convert-text-to-tables?u=76281980)
+#### [Convert text to tables](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/convert-text-to-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/convert-text-to-tables?u=76281980&t=0)** - [Instructor] If you think some text in your document would be better presented as a table, instead of you having to manually create a table and copy and paste your text into it, Copilot can do this for you.
+> **[0:00](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/convert-text-to-tables?u=76281980&t=0)** - [Instructor] If you think some text in your document would be better presented as a table, instead of you having to manually create a table and copy and paste your text into it, [[Microsoft Copilot|Copilot]] can do this for you.
 >
 > **[0:09](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/convert-text-to-tables?u=76281980&t=9)** I'm currently working with a version of the annual self-evaluation document we generated earlier, and here under the Guidelines for Writing your Self-Review section, we have several bullet points.
 >
@@ -523,11 +515,11 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/convert-text-to-tables?u=76281980&t=107)** And I'll click Keep it, and now I have this table in my document.
 >
-> **[1:52](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/convert-text-to-tables?u=76281980&t=112)** So, that's how to use Copilot to convert text into a table in Word.
+> **[1:52](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/convert-text-to-tables?u=76281980&t=112)** So, that's how to use Copilot to convert text into a table in [[Microsoft Word|Word]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (4), prompt (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (4), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** toggle (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -537,12 +529,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Summarize and understand documents
-> [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/summarize-and-understand-documents?u=76281980)
+#### [Summarize and understand documents](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/summarize-and-understand-documents?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/summarize-and-understand-documents?u=76281980&t=1)** - [Instructor] In addition to being extremely helpful with documents that you compose yourself, Copilot can also come in handy when you need to read or review other documents, especially particularly lengthy documents.
+> **[0:01](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/summarize-and-understand-documents?u=76281980&t=1)** - [Instructor] In addition to being extremely helpful with documents that you [[Jetpack Compose|compose]] yourself, [[Microsoft Copilot|Copilot]] can also come in handy when you need to read or review other documents, especially particularly lengthy documents.
 >
 > **[0:12](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/summarize-and-understand-documents?u=76281980&t=12)** So here I have an annual report from H+ Sports.
 >
@@ -568,7 +559,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/summarize-and-understand-documents?u=76281980&t=68)** Now, this doesn't cover everything we saw in the document when we scrolled through it, but we can ask follow up questions for more information on the information Copilot provided or we can ask about parts that it didn't mention.
 >
-> **[1:20](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/summarize-and-understand-documents?u=76281980&t=80)** So for example, maybe I want to know more what's covered in this section on diversity and inclusion.
+> **[1:20](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/summarize-and-understand-documents?u=76281980&t=80)** So for example, maybe I want to know more what's covered in this section on [[Diversity and Inclusion]].
 >
 > **[1:24](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/summarize-and-understand-documents?u=76281980&t=84)** So I could type something like, "Summarize the diversity initiatives covered in this doc."
 >
@@ -594,7 +585,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/summarize-and-understand-documents?u=76281980&t=157)** And now we've extracted things like the important financial information from the document.
 >
-> **[2:43](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/summarize-and-understand-documents?u=76281980&t=163)** Or as another example, maybe I want to know, "What are the action items related to the sustainability initiatives in the doc?"
+> **[2:43](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/summarize-and-understand-documents?u=76281980&t=163)** Or as another example, maybe I want to know, "What are the action items related to the [[Sustainability]] initiatives in the doc?"
 >
 > **[3:01](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/summarize-and-understand-documents?u=76281980&t=181)** And there's that summary.
 >
@@ -612,7 +603,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/summarize-and-understand-documents?u=76281980&t=219)** And now I have a summary of the document, but with the added context of the value of this information to employees of the company.
 >
-> **[3:47](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/summarize-and-understand-documents?u=76281980&t=227)** So let's a quick look at how to summarize documents and dig deeper with Copilot in Word.
+> **[3:47](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/summarize-and-understand-documents?u=76281980&t=227)** So let's a quick look at how to summarize documents and dig deeper with Copilot in [[Microsoft Word|Word]].
 >
 > **[3:52](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/summarize-and-understand-documents?u=76281980&t=232)** Again, be aware that Copilot usually does better the more you chat back and forth with it.
 >
@@ -620,7 +611,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (12), prompt (2), [[Jetpack Compose|Compose]] (1), [[Diversity and Inclusion]] (1), [[Sustainability]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (12), [[Jetpack Compose|Compose]] (1), [[Diversity and Inclusion]] (1), [[Sustainability]] (1), [[Microsoft Word|Word]] (1)
 > **Analogies:** for example (3)
 > **UI Navigation:** select the (1), click on (1)
 > **Definitions:** is a  (2)
@@ -628,22 +619,21 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Research details to support your document
-> [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/research-details-to-support-your-document?u=76281980)
+#### [Research details to support your document](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/research-details-to-support-your-document?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/research-details-to-support-your-document?u=76281980&t=0)** - [Instructor] When working on a document, Copilot can be a useful research assistant.
+> **[0:00](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/research-details-to-support-your-document?u=76281980&t=0)** - [Instructor] When working on a document, [[Microsoft Copilot|Copilot]] can be a useful research assistant.
 >
 > **[0:04](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/research-details-to-support-your-document?u=76281980&t=4)** Instead of switching to your web browser or another app, you can try asking Copilot questions to help support or enhance your document.
 >
-> **[0:11](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/research-details-to-support-your-document?u=76281980&t=11)** For example, I'm working on the Globe Bank social media manual here in Word.
+> **[0:11](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/research-details-to-support-your-document?u=76281980&t=11)** For example, I'm working on the Globe Bank social media manual here in [[Microsoft Word|Word]].
 >
 > **[0:14](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/research-details-to-support-your-document?u=76281980&t=14)** And in this section called Platforms We Use, the manual offers suggestions about each major social media platform and what to post to them.
 >
 > **[0:22](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/research-details-to-support-your-document?u=76281980&t=22)** I'll open up the Copilot panel.
 >
-> **[0:27](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/research-details-to-support-your-document?u=76281980&t=27)** And maybe I want to add some practical information to the section on LinkedIn, like, "What is the ideal resolution for a LinkedIn profile photo?"
+> **[0:27](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/research-details-to-support-your-document?u=76281980&t=27)** And maybe I want to add some practical information to the section on [[LinkedIn]], like, "What is the ideal resolution for a LinkedIn profile photo?"
 >
 > **[0:44](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/research-details-to-support-your-document?u=76281980&t=44)** Notice it says it's combing through web results, documents, and emails that it found relevant.
 >
@@ -671,7 +661,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (8), web (3), [[LinkedIn]] (2), [[Microsoft Word|Word]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (8), [[LinkedIn]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)

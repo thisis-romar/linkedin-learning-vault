@@ -99,8 +99,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The importance of static testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/the-importance-of-static-testing?u=76281980)
+#### [The importance of static testing](https://www.linkedin.com/learning/static-application-security-testing/the-importance-of-static-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -108,7 +107,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/static-application-security-testing/the-importance-of-static-testing?u=76281980&t=11)** As a security professional, it's going to fall to you to select the right testing methodology and the right testing tools to perform security tests without interacting with deployed instances of in scope applications.
 >
-> **[0:25](https://www.linkedin.com/learning/static-application-security-testing/the-importance-of-static-testing?u=76281980&t=25)** Hi, I'm Jerod Brennen and welcome to Static Application Security Testing.
+> **[0:25](https://www.linkedin.com/learning/static-application-security-testing/the-importance-of-static-testing?u=76281980&t=25)** Hi, I'm Jerod Brennen and welcome to Static [[Application Security]] Testing.
 >
 > **[0:30](https://www.linkedin.com/learning/static-application-security-testing/the-importance-of-static-testing?u=76281980&t=30)** I put this course together to help you learn the skills and the tools that you'll need in order to test information security controls in these applications without touching the deployed applications themselves.
 >
@@ -118,21 +117,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), web (1), application (1)
+> **Frameworks & Libraries:** [[Application Security]] (1)
 > **UI Navigation:** select the (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - when (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/static-application-security-testing/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/static-application-security-testing/what-you-should-know?u=76281980&t=0)** - [Instructor] I hope you're excited about this topic as I am.
 >
-> **[0:03](https://www.linkedin.com/learning/static-application-security-testing/what-you-should-know?u=76281980&t=3)** This course is intended to be a broad introduction to static application security testing, and we're going to cover a lot of ideas, equipping you with the knowledge of both manual testing techniques and of tools that you can use to automate your testing efforts.
+> **[0:03](https://www.linkedin.com/learning/static-application-security-testing/what-you-should-know?u=76281980&t=3)** This course is intended to be a broad introduction to static [[Application Security]] testing, and we're going to cover a lot of ideas, equipping you with the knowledge of both [[Manual Testing]] techniques and of tools that you can use to automate your testing efforts.
 >
-> **[0:21](https://www.linkedin.com/learning/static-application-security-testing/what-you-should-know?u=76281980&t=21)** If you've taken any of my other LinkedIn learning courses, chances are you've heard me say something along the lines of fundamentals will win the day.
+> **[0:21](https://www.linkedin.com/learning/static-application-security-testing/what-you-should-know?u=76281980&t=21)** If you've taken any of my other [[LinkedIn]] learning courses, chances are you've heard me say something along the lines of fundamentals will win the day.
 >
 > **[0:31](https://www.linkedin.com/learning/static-application-security-testing/what-you-should-know?u=76281980&t=31)** Why? Because it's absolutely true.
 >
@@ -142,7 +140,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/static-application-security-testing/what-you-should-know?u=76281980&t=52)** As we cover these fundamentals throughout the course, we're going to be putting together a toolkit that you can use both during the course and in your day-to-day activities.
 >
-> **[1:02](https://www.linkedin.com/learning/static-application-security-testing/what-you-should-know?u=76281980&t=62)** Normally, I prefer doing all my training and testing using a small collection of virtual machines.
+> **[1:02](https://www.linkedin.com/learning/static-application-security-testing/what-you-should-know?u=76281980&t=62)** Normally, I prefer doing all my training and testing using a small collection of [[Virtual Machines]].
 >
 > **[1:08](https://www.linkedin.com/learning/static-application-security-testing/what-you-should-know?u=76281980&t=68)** I would encourage you to do the same following along with the demos in your own home lab environment.
 >
@@ -150,7 +148,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/static-application-security-testing/what-you-should-know?u=76281980&t=78)** All of the static testing tools that we'll be covering in this course have cloud offerings that are free for open source projects.
 >
-> **[1:26](https://www.linkedin.com/learning/static-application-security-testing/what-you-should-know?u=76281980&t=86)** I want you to be able to apply this knowledge as quickly and easily as possible, so we'll be using those cloud services to help accelerate your learning.
+> **[1:26](https://www.linkedin.com/learning/static-application-security-testing/what-you-should-know?u=76281980&t=86)** I want you to be able to apply this knowledge as quickly and easily as possible, so we'll be using those [[Cloud Services]] to help accelerate your learning.
 >
 > **[1:35](https://www.linkedin.com/learning/static-application-security-testing/what-you-should-know?u=76281980&t=95)** That said, I'll be showing you enough information about on-premise alternatives that you could dig in deeper if you'd like once we finish this course.
 >
@@ -162,13 +160,13 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/static-application-security-testing/what-you-should-know?u=76281980&t=126)** When the time comes that you're ready to try your hand at one or more of the demos, you can always jump right to that video and follow along.
 >
-> **[2:13](https://www.linkedin.com/learning/static-application-security-testing/what-you-should-know?u=76281980&t=133)** In addition to learning the tools, we're going to cover everything from leading practices, to reviewing security documentation, to performing source code security reviews, to conducting specific static application security tests using the OWASP Top 10 as your source.
+> **[2:13](https://www.linkedin.com/learning/static-application-security-testing/what-you-should-know?u=76281980&t=133)** In addition to learning the tools, we're going to cover everything from leading practices, to reviewing security documentation, to performing source code security reviews, to conducting specific static application security tests using the [[OWASP]] Top 10 as your source.
 >
 > **[2:33](https://www.linkedin.com/learning/static-application-security-testing/what-you-should-know?u=76281980&t=153)** I've also provided a handout with this course if you'd like to do more testing on your own.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), application (2), cloud (2), [[Manual Testing]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Application Security]] (2), [[Manual Testing]] (1), [[LinkedIn]] (1), [[Virtual Machines]] (1), [[Cloud Services]] (1)
 > **Env Vars:** owasp (1)
 > **Exercise Files:** source code (1)
 > **Definitions:** is an  (1)
@@ -179,12 +177,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Security in the SDLC
-> [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/security-in-the-sdlc?u=76281980)
+#### [Security in the SDLC](https://www.linkedin.com/learning/static-application-security-testing/security-in-the-sdlc?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/static-application-security-testing/security-in-the-sdlc?u=76281980&t=0)** - [Instructor] In order to determine where and how to integrate your AppSec Testing activities, you need to think in terms of the software development lifecycle, or SDLC.
+> **[0:00](https://www.linkedin.com/learning/static-application-security-testing/security-in-the-sdlc?u=76281980&t=0)** - [Instructor] In order to determine where and how to integrate your AppSec Testing activities, you need to think in terms of the [[Software Development]] lifecycle, or SDLC.
 >
 > **[0:11](https://www.linkedin.com/learning/static-application-security-testing/security-in-the-sdlc?u=76281980&t=11)** The SDLC is a big picture concept that you break down into three discrete activities.
 >
@@ -216,7 +213,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/static-application-security-testing/security-in-the-sdlc?u=76281980&t=87)** Stressful, right?
 >
-> **[1:29](https://www.linkedin.com/learning/static-application-security-testing/security-in-the-sdlc?u=76281980&t=89)** You can help your developers understand how to integrate security testing into an already overwhelming development process if you break that security down into manageable chunks.
+> **[1:29](https://www.linkedin.com/learning/static-application-security-testing/security-in-the-sdlc?u=76281980&t=89)** You can help your developers understand how to integrate [[Security Testing]] into an already overwhelming development process if you break that security down into manageable chunks.
 >
 > **[1:41](https://www.linkedin.com/learning/static-application-security-testing/security-in-the-sdlc?u=76281980&t=101)** Think of that big nebulous thing that we call security as four distinct security touchpoints within the SDLC.
 >
@@ -260,7 +257,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (14), application (6), [[Software Development]] (1), strengths (1), teams (1)
+> **Frameworks & Libraries:** [[Security Testing]] (2), [[Software Development]] (1)
 > **Env Vars:** sdlc (5)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** imagine (2), picture (1)
@@ -269,12 +266,11 @@ created: 2026-05-02
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Development methodologies
-> [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/development-methodologies?u=76281980)
+#### [Development methodologies](https://www.linkedin.com/learning/static-application-security-testing/development-methodologies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/static-application-security-testing/development-methodologies?u=76281980&t=0)** - [Instructor] It's important that you understand the application development methodologies in play before you begin performing your static application security test.
+> **[0:00](https://www.linkedin.com/learning/static-application-security-testing/development-methodologies?u=76281980&t=0)** - [Instructor] It's important that you understand the [[Application Development]] methodologies in play before you begin performing your static [[Application Security]] test.
 >
 > **[0:09](https://www.linkedin.com/learning/static-application-security-testing/development-methodologies?u=76281980&t=9)** Why is that?
 >
@@ -284,11 +280,11 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/static-application-security-testing/development-methodologies?u=76281980&t=34)** Developers are a creative bunch, and it should come as no surprise that they have multiple frameworks for designing and creating applications.
 >
-> **[0:43](https://www.linkedin.com/learning/static-application-security-testing/development-methodologies?u=76281980&t=43)** Determining the right development methodology for an organization depends on a number of factors, things like organizational culture and developer personal preference.
+> **[0:43](https://www.linkedin.com/learning/static-application-security-testing/development-methodologies?u=76281980&t=43)** Determining the right development methodology for an organization depends on a number of factors, things like [[Organizational Culture]] and developer personal preference.
 >
 > **[0:54](https://www.linkedin.com/learning/static-application-security-testing/development-methodologies?u=76281980&t=54)** Good thing you spent time seeking to understand their point of view, isn't it?
 >
-> **[0:58](https://www.linkedin.com/learning/static-application-security-testing/development-methodologies?u=76281980&t=58)** I know of over a dozen different application development methodologies, but let's focus on four of the most popular, Waterfall, Agile, Rapid, and DevOps.
+> **[0:58](https://www.linkedin.com/learning/static-application-security-testing/development-methodologies?u=76281980&t=58)** I know of over a dozen different application development methodologies, but let's focus on four of the most popular, Waterfall, [[Agile Development|Agile]], Rapid, and [[DevOps]].
 >
 > **[1:12](https://www.linkedin.com/learning/static-application-security-testing/development-methodologies?u=76281980&t=72)** The Waterfall methodology gained notoriety when the U.S. Department of Defense normalized that methodology in the mid 1980s.
 >
@@ -304,19 +300,19 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/static-application-security-testing/development-methodologies?u=76281980&t=115)** When the "Agile Manifesto" was published in 2001, it set forth four key values: individuals and interactions over processes and tools, working software over comprehensive documentation, customer collaboration over contract negotiation, and responding to change over following a plan.
 >
-> **[2:20](https://www.linkedin.com/learning/static-application-security-testing/development-methodologies?u=76281980&t=140)** Instead of working in rigid phases, developers select an item from the backlog, they work together to create that item, and then they continue iterating and prototyping until they get it right.
+> **[2:20](https://www.linkedin.com/learning/static-application-security-testing/development-methodologies?u=76281980&t=140)** Instead of working in rigid phases, developers select an item from the backlog, they work together to create that item, and then they continue iterating and [[Prototyping]] until they get it right.
 >
 > **[2:32](https://www.linkedin.com/learning/static-application-security-testing/development-methodologies?u=76281980&t=152)** It's a lot tougher for security teams to test at the end of each phase when phases don't even really exist in Agile.
 >
 > **[2:42](https://www.linkedin.com/learning/static-application-security-testing/development-methodologies?u=76281980&t=162)** The Rapid application methodology sits somewhere between Waterfall and Agile.
 >
-> **[2:47](https://www.linkedin.com/learning/static-application-security-testing/development-methodologies?u=76281980&t=167)** Rapid relies on the same prototyping approach as Agile, but it relies on data modeling and business process modeling on the front end to determine the requirements for those prototypes.
+> **[2:47](https://www.linkedin.com/learning/static-application-security-testing/development-methodologies?u=76281980&t=167)** Rapid relies on the same prototyping approach as Agile, but it relies on [[Data Modeling]] and business process modeling on the front end to determine the requirements for those prototypes.
 >
 > **[2:59](https://www.linkedin.com/learning/static-application-security-testing/development-methodologies?u=76281980&t=179)** Once the right models are in place, then the iterative development process can begin.
 >
 > **[3:05](https://www.linkedin.com/learning/static-application-security-testing/development-methodologies?u=76281980&t=185)** This approach can feel messy to people who are familiar with the Waterfall methodology, but like Agile, Rapid application development is a much faster and more flexible approach.
 >
-> **[3:18](https://www.linkedin.com/learning/static-application-security-testing/development-methodologies?u=76281980&t=198)** Without the rigid phases, it's more difficult to integrate security testing into this methodology.
+> **[3:18](https://www.linkedin.com/learning/static-application-security-testing/development-methodologies?u=76281980&t=198)** Without the rigid phases, it's more difficult to integrate [[Security Testing]] into this methodology.
 >
 > **[3:25](https://www.linkedin.com/learning/static-application-security-testing/development-methodologies?u=76281980&t=205)** You'll have more luck, though, focusing on things like code security reviews than you will in focusing on security documentation.
 >
@@ -330,7 +326,7 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/static-application-security-testing/development-methodologies?u=76281980&t=249)** When the term DevOps was first coined in 2009, it was more widely publicized in the popular IT novel, "The Phoenix Project."
 >
-> **[4:19](https://www.linkedin.com/learning/static-application-security-testing/development-methodologies?u=76281980&t=259)** There's even a subset of DevOps practitioners who focus on DevSecOps, an approach to DevOps where the security team is included in those conversations as well.
+> **[4:19](https://www.linkedin.com/learning/static-application-security-testing/development-methodologies?u=76281980&t=259)** There's even a subset of DevOps practitioners who focus on [[DevSecOps]], an approach to DevOps where the security team is included in those conversations as well.
 >
 > **[4:30](https://www.linkedin.com/learning/static-application-security-testing/development-methodologies?u=76281980&t=270)** While the four methodologies we just discussed are widely used by developers around the world, there are several other methodologies that you may encounter.
 >
@@ -338,7 +334,7 @@ created: 2026-05-02
 >
 > **[4:48](https://www.linkedin.com/learning/static-application-security-testing/development-methodologies?u=76281980&t=288)** Some of these methodologies can be considered variants of the methodologies I just described.
 >
-> **[4:54](https://www.linkedin.com/learning/static-application-security-testing/development-methodologies?u=76281980&t=294)** Extreme programming and Scrum, for example, they're variants of Agile.
+> **[4:54](https://www.linkedin.com/learning/static-application-security-testing/development-methodologies?u=76281980&t=294)** Extreme programming and [[Scrum]], for example, they're variants of Agile.
 >
 > **[5:00](https://www.linkedin.com/learning/static-application-security-testing/development-methodologies?u=76281980&t=300)** The most important takeaway, however, is that it's likely you'll encounter teams using different application development methodologies.
 >
@@ -346,15 +342,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (10), [[Agile Development|Agile]] (8), [[DevOps]] (6), [[Application Development]] (5), teams (5)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (8), [[DevOps]] (6), [[Application Development]] (5), [[Prototyping]] (2), [[Application Security]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** before you begin (1)
 > **Speakers:** - [instructor] (1)
 
-#### Programming languages
-> [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/programming-languages?u=76281980)
+#### [Programming languages](https://www.linkedin.com/learning/static-application-security-testing/programming-languages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -368,7 +363,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/static-application-security-testing/programming-languages?u=76281980&t=35)** Now we're talking.
 >
-> **[0:37](https://www.linkedin.com/learning/static-application-security-testing/programming-languages?u=76281980&t=37)** Why is this information important for static application security testing?
+> **[0:37](https://www.linkedin.com/learning/static-application-security-testing/programming-languages?u=76281980&t=37)** Why is this information important for static [[Application Security]] testing?
 >
 > **[0:42](https://www.linkedin.com/learning/static-application-security-testing/programming-languages?u=76281980&t=42)** Because you're going to need to perform source code security reviews of applications written in those different languages, and different languages require different testing tools.
 >
@@ -384,7 +379,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/static-application-security-testing/programming-languages?u=76281980&t=77)** The trick is figuring out which languages are likely to comprise that 20%.
 >
-> **[1:23](https://www.linkedin.com/learning/static-application-security-testing/programming-languages?u=76281980&t=83)** Fortunately, GitHub has already done the math for you.
+> **[1:23](https://www.linkedin.com/learning/static-application-security-testing/programming-languages?u=76281980&t=83)** Fortunately, [[GitHub]] has already done the math for you.
 >
 > **[1:28](https://www.linkedin.com/learning/static-application-security-testing/programming-languages?u=76281980&t=88)** GitHub is the largest online community of developers in the world, and they publish a list of the most popular programming languages each year, in their annual State of the Octoverse report.
 >
@@ -396,7 +391,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/static-application-security-testing/programming-languages?u=76281980&t=117)** GitHub is a terrific resource for developer collaboration.
 >
-> **[2:02](https://www.linkedin.com/learning/static-application-security-testing/programming-languages?u=76281980&t=122)** It's also a great place for you to find open source code that you can use, when practicing your security testing techniques.
+> **[2:02](https://www.linkedin.com/learning/static-application-security-testing/programming-languages?u=76281980&t=122)** It's also a great place for you to find open source code that you can use, when practicing your [[Security Testing]] techniques.
 >
 > **[2:10](https://www.linkedin.com/learning/static-application-security-testing/programming-languages?u=76281980&t=130)** You can check out GitHub at [github.com](https://github.com).
 >
@@ -410,7 +405,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/static-application-security-testing/programming-languages?u=76281980&t=163)** Don't believe me?
 >
-> **[2:45](https://www.linkedin.com/learning/static-application-security-testing/programming-languages?u=76281980&t=165)** Ask a Java developer for a copy of their JavaScript source code.
+> **[2:45](https://www.linkedin.com/learning/static-application-security-testing/programming-languages?u=76281980&t=165)** Ask a [[Java]] developer for a copy of their [[JavaScript]] source code.
 >
 > **[2:50](https://www.linkedin.com/learning/static-application-security-testing/programming-languages?u=76281980&t=170)** I'm kidding. Don't do that.
 >
@@ -418,7 +413,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/static-application-security-testing/programming-languages?u=76281980&t=178)** It also helps to understand the evolution of programming languages by generation.
 >
-> **[3:03](https://www.linkedin.com/learning/static-application-security-testing/programming-languages?u=76281980&t=183)** Earlier generations were designed to speak directly to the underlying hardware.
+> **[3:03](https://www.linkedin.com/learning/static-application-security-testing/programming-languages?u=76281980&t=183)** Earlier generations were designed to speak directly to the underlying [[Hardware]].
 >
 > **[3:08](https://www.linkedin.com/learning/static-application-security-testing/programming-languages?u=76281980&t=188)** With each subsequent generation, the code has become easier to read and easier to create.
 >
@@ -426,7 +421,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (7), [[GitHub]] (7), [[Security]] (3), application (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (7), [[Application Security]] (1), [[Security Testing]] (1), [[Java]] (1), [[JavaScript]] (1)
 > **Tools:** github (7)
 > **CLI Commands:** find (2), make (1)
 > **Exercise Files:** source code (3)
@@ -435,8 +430,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [narrator] (1)
 
-#### Security frameworks
-> [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/security-frameworks?u=76281980)
+#### [Security frameworks](https://www.linkedin.com/learning/static-application-security-testing/security-frameworks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -444,11 +438,11 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/static-application-security-testing/security-frameworks?u=76281980&t=3)** "If I have seen further, it is by standing on the shoulders of giants."
 >
-> **[0:09](https://www.linkedin.com/learning/static-application-security-testing/security-frameworks?u=76281980&t=9)** So much of the security testing knowledge that we rely on today was pioneered by those who came before us, people who recognize the risks inherent in relying on technology, especially when someone with malicious intent could make that technology act in a way that its creators never intended.
+> **[0:09](https://www.linkedin.com/learning/static-application-security-testing/security-frameworks?u=76281980&t=9)** So much of the [[Security Testing]] knowledge that we rely on today was pioneered by those who came before us, people who recognize the risks inherent in relying on technology, especially when someone with malicious intent could make that technology act in a way that its creators never intended.
 >
 > **[0:28](https://www.linkedin.com/learning/static-application-security-testing/security-frameworks?u=76281980&t=28)** Security frameworks are excellent examples of that accumulated knowledge put to paper.
 >
-> **[0:35](https://www.linkedin.com/learning/static-application-security-testing/security-frameworks?u=76281980&t=35)** Static application security testing happens where development methodologies and security methodologies intersect.
+> **[0:35](https://www.linkedin.com/learning/static-application-security-testing/security-frameworks?u=76281980&t=35)** Static [[Application Security]] testing happens where development methodologies and security methodologies intersect.
 >
 > **[0:43](https://www.linkedin.com/learning/static-application-security-testing/security-frameworks?u=76281980&t=43)** Developers and security professionals both want the same thing.
 >
@@ -468,11 +462,11 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/static-application-security-testing/security-frameworks?u=76281980&t=88)** You can turn to these frameworks to determine where it makes the most sense for you to start testing.
 >
-> **[1:35](https://www.linkedin.com/learning/static-application-security-testing/security-frameworks?u=76281980&t=95)** While there are quite a few security frameworks to choose from, I recommend that you start with four of the most popular: the ISO/IEC 27000 series, the NIST Cybersecurity Framework Control, Control Objectives for IT or COBIT, and the CIS, Critical Security Controls.
+> **[1:35](https://www.linkedin.com/learning/static-application-security-testing/security-frameworks?u=76281980&t=95)** While there are quite a few security frameworks to choose from, I recommend that you start with four of the most popular: the ISO/IEC 27000 series, the [[NIST]] [[Cybersecurity]] Framework Control, Control Objectives for IT or COBIT, and the CIS, Critical Security Controls.
 >
 > **[1:56](https://www.linkedin.com/learning/static-application-security-testing/security-frameworks?u=76281980&t=116)** The ISO/IEC 27000 series is actually a collection of over a dozen related standards from the International Organization for Standardization.
 >
-> **[2:07](https://www.linkedin.com/learning/static-application-security-testing/security-frameworks?u=76281980&t=127)** This series is designed to help you build a fairly robust information security management system or ISMS.
+> **[2:07](https://www.linkedin.com/learning/static-application-security-testing/security-frameworks?u=76281980&t=127)** This series is designed to help you build a fairly robust [[Information Security Management]] system or ISMS.
 >
 > **[2:16](https://www.linkedin.com/learning/static-application-security-testing/security-frameworks?u=76281980&t=136)** When you mention ISO to a security professional, chances are that person's going to think of the 27001 standard.
 >
@@ -486,7 +480,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/static-application-security-testing/security-frameworks?u=76281980&t=202)** COBIT, or the framework formally known as Control Objectives for IT, comes from the ISACA organization.
 >
-> **[3:31](https://www.linkedin.com/learning/static-application-security-testing/security-frameworks?u=76281980&t=211)** COBIT was designed with the broader topic of IT governance in mind.
+> **[3:31](https://www.linkedin.com/learning/static-application-security-testing/security-frameworks?u=76281980&t=211)** COBIT was designed with the broader topic of [[IT Governance]] in mind.
 >
 > **[3:36](https://www.linkedin.com/learning/static-application-security-testing/security-frameworks?u=76281980&t=216)** COBIT includes a handful of application security controls showing how those controls relate to other IT controls.
 >
@@ -506,9 +500,9 @@ created: 2026-05-02
 >
 > **[4:54](https://www.linkedin.com/learning/static-application-security-testing/security-frameworks?u=76281980&t=294)** Publicly traded companies in the United States must comply with Sarbanes-Oxley, while financial services organizations must meet the requirements laid out in the Gramm-Leach-Bliley Act.
 >
-> **[5:07](https://www.linkedin.com/learning/static-application-security-testing/security-frameworks?u=76281980&t=307)** Healthcare organizations in the US are expected to protect healthcare information in accordance with the Health Insurance Portability and Accountability Act, and any organization that processes credit card information needs to know their obligations to the Payment Card Industry Data Security Standard.
+> **[5:07](https://www.linkedin.com/learning/static-application-security-testing/security-frameworks?u=76281980&t=307)** Healthcare organizations in the US are expected to protect healthcare information in accordance with the Health Insurance Portability and [[Accountability]] Act, and any organization that processes credit card information needs to know their obligations to the Payment Card Industry [[Data Security]] Standard.
 >
-> **[5:27](https://www.linkedin.com/learning/static-application-security-testing/security-frameworks?u=76281980&t=327)** Regarding privacy, the EU's General Data Protection Regulation, the US California Consumer Privacy Act, and Canada's Personal Information Protection and Electronic Documents Act all have a lot to say about protecting consumer and citizen information.
+> **[5:27](https://www.linkedin.com/learning/static-application-security-testing/security-frameworks?u=76281980&t=327)** Regarding [[Privacy]], the EU's General Data Protection Regulation, the US California Consumer Privacy Act, and Canada's Personal Information Protection and Electronic Documents Act all have a lot to say about protecting consumer and citizen information.
 >
 > **[5:47](https://www.linkedin.com/learning/static-application-security-testing/security-frameworks?u=76281980&t=347)** When it comes to compliance, this list is far from complete.
 >
@@ -516,11 +510,11 @@ created: 2026-05-02
 >
 > **[6:02](https://www.linkedin.com/learning/static-application-security-testing/security-frameworks?u=76281980&t=362)** In other words, there's no shortage of guidance from security standards, regulations, and frameworks on what you should be testing when it comes to application security.
 >
-> **[6:13](https://www.linkedin.com/learning/static-application-security-testing/security-frameworks?u=76281980&t=373)** You should use these resources to build your foundation and then turn to OWASP for more specific tactical guidance on how to execute your tests.
+> **[6:13](https://www.linkedin.com/learning/static-application-security-testing/security-frameworks?u=76281980&t=373)** You should use these resources to build your foundation and then turn to [[OWASP]] for more specific tactical guidance on how to execute your tests.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (23), application (9), [[Cybersecurity]] (4), [[NIST]] (3), data (2)
+> **Frameworks & Libraries:** [[Application Security]] (7), [[Cybersecurity]] (4), [[NIST]] (3), [[Privacy]] (2), [[Security Testing]] (1)
 > **Env Vars:** iso (4), cobit (4), iec (3), nist (3), cis (3)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** in other words (1)
@@ -528,18 +522,17 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [narrator] (1)
 
-#### The OWASP Top 10
-> [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/the-owasp-top-10?u=76281980)
+#### [The OWASP Top 10](https://www.linkedin.com/learning/static-application-security-testing/the-owasp-top-10?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/static-application-security-testing/the-owasp-top-10?u=76281980&t=0)** - [Narrator] OWASP is one of the most prolific influential organizations, when it comes to securing web applications.
+> **[0:00](https://www.linkedin.com/learning/static-application-security-testing/the-owasp-top-10?u=76281980&t=0)** - [Narrator] [[OWASP]] is one of the most prolific influential organizations, when it comes to securing web applications.
 >
-> **[0:08](https://www.linkedin.com/learning/static-application-security-testing/the-owasp-top-10?u=76281980&t=8)** The acronym stands for Open Web Application Security Project.
+> **[0:08](https://www.linkedin.com/learning/static-application-security-testing/the-owasp-top-10?u=76281980&t=8)** The acronym stands for Open [[Web Application Security]] Project.
 >
 > **[0:12](https://www.linkedin.com/learning/static-application-security-testing/the-owasp-top-10?u=76281980&t=12)** The OWASP Foundation is a not-for-profit organization dedicated to helping developers and security professionals around the world better understand how to secure applications.
 >
-> **[0:24](https://www.linkedin.com/learning/static-application-security-testing/the-owasp-top-10?u=76281980&t=24)** In the two decades that OWASP has been around, the organization has published a staggering number of application security resources.
+> **[0:24](https://www.linkedin.com/learning/static-application-security-testing/the-owasp-top-10?u=76281980&t=24)** In the two decades that OWASP has been around, the organization has published a staggering number of [[Application Security]] resources.
 >
 > **[0:34](https://www.linkedin.com/learning/static-application-security-testing/the-owasp-top-10?u=76281980&t=34)** OWASP groups related resources in projects and they have three distinct project categories.
 >
@@ -575,7 +568,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/static-application-security-testing/the-owasp-top-10?u=76281980&t=152)** The Top 10 white paper also includes guidance on threat agents, the attack vectors they may try to exploit security weaknesses, the controls you can implement to mitigate these risks, and the potential technical and business impacts if those attacks are successful.
 >
-> **[2:50](https://www.linkedin.com/learning/static-application-security-testing/the-owasp-top-10?u=76281980&t=170)** This threat modeling is one of the most crucial elements to come out of the Top 10.
+> **[2:50](https://www.linkedin.com/learning/static-application-security-testing/the-owasp-top-10?u=76281980&t=170)** This [[Threat Modeling]] is one of the most crucial elements to come out of the Top 10.
 >
 > **[2:55](https://www.linkedin.com/learning/static-application-security-testing/the-owasp-top-10?u=76281980&t=175)** It helps translate these risks from academic exercises to real world scenarios.
 >
@@ -585,34 +578,33 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OWASP]] (9), [[Security]] (6), web application (2), application (2), web (1)
+> **Frameworks & Libraries:** [[OWASP]] (9), [[Web Application Security]] (2), [[Application Security]] (2), [[Threat Modeling]] (1)
 > **Env Vars:** owasp (9)
 > **Definitions:** is a  (2), stands for (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - [narrator] (1)
 
-#### Other notable projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/other-notable-projects?u=76281980)
+#### [Other notable projects](https://www.linkedin.com/learning/static-application-security-testing/other-notable-projects?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/static-application-security-testing/other-notable-projects?u=76281980&t=0)** - [Instructor] Well, OWASP is best known for their top 10 list.
+> **[0:00](https://www.linkedin.com/learning/static-application-security-testing/other-notable-projects?u=76281980&t=0)** - [Instructor] Well, [[OWASP]] is best known for their top 10 list.
 >
 > **[0:04](https://www.linkedin.com/learning/static-application-security-testing/other-notable-projects?u=76281980&t=4)** That particular project is just the tip of the iceberg.
 >
-> **[0:08](https://www.linkedin.com/learning/static-application-security-testing/other-notable-projects?u=76281980&t=8)** OWASP has a lot more to offer application security testing professionals.
+> **[0:08](https://www.linkedin.com/learning/static-application-security-testing/other-notable-projects?u=76281980&t=8)** OWASP has a lot more to offer [[Application Security]] testing professionals.
 >
 > **[0:13](https://www.linkedin.com/learning/static-application-security-testing/other-notable-projects?u=76281980&t=13)** Let's take a look at a few other notable OWASP projects.
 >
-> **[0:17](https://www.linkedin.com/learning/static-application-security-testing/other-notable-projects?u=76281980&t=17)** The OWASP Web Security Testing Guide is a 200 plus page PDF that provides extensive guidance on security tests that you should be performing.
+> **[0:17](https://www.linkedin.com/learning/static-application-security-testing/other-notable-projects?u=76281980&t=17)** The OWASP Web [[Security Testing]] Guide is a 200 plus page PDF that provides extensive guidance on security tests that you should be performing.
 >
 > **[0:29](https://www.linkedin.com/learning/static-application-security-testing/other-notable-projects?u=76281980&t=29)** It also includes instructions on the tools and techniques that you can use to execute those tests.
 >
 > **[0:36](https://www.linkedin.com/learning/static-application-security-testing/other-notable-projects?u=76281980&t=36)** The guide groups these tests into 11 separate categories with just over 100 individual tests altogether.
 >
-> **[0:44](https://www.linkedin.com/learning/static-application-security-testing/other-notable-projects?u=76281980&t=44)** When I perform application security assessments, I use this guide to help me build a basic security profile of the application.
+> **[0:44](https://www.linkedin.com/learning/static-application-security-testing/other-notable-projects?u=76281980&t=44)** When I perform [[Application Security Assessments]], I use this guide to help me build a basic security profile of the application.
 >
-> **[0:53](https://www.linkedin.com/learning/static-application-security-testing/other-notable-projects?u=76281980&t=53)** After I complete these tests, I've got a great idea of where I could focus my penetration testing activities.
+> **[0:53](https://www.linkedin.com/learning/static-application-security-testing/other-notable-projects?u=76281980&t=53)** After I complete these tests, I've got a great idea of where I could focus my [[Penetration Testing]] activities.
 >
 > **[1:01](https://www.linkedin.com/learning/static-application-security-testing/other-notable-projects?u=76281980&t=61)** This guide is without a doubt, one of the most important tools you can add to your testing toolkit.
 >
@@ -620,7 +612,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/static-application-security-testing/other-notable-projects?u=76281980&t=74)** "How exactly do we perform a code security review?"
 >
-> **[1:19](https://www.linkedin.com/learning/static-application-security-testing/other-notable-projects?u=76281980&t=79)** That's where the OWASP Code Review Guide project comes in.
+> **[1:19](https://www.linkedin.com/learning/static-application-security-testing/other-notable-projects?u=76281980&t=79)** That's where the OWASP [[Code Review]] Guide project comes in.
 >
 > **[1:24](https://www.linkedin.com/learning/static-application-security-testing/other-notable-projects?u=76281980&t=84)** The code review guide contains 220 pages of guidance on why code security reviews are important and what to look for when performing a review.
 >
@@ -636,11 +628,11 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/static-application-security-testing/other-notable-projects?u=76281980&t=133)** The automated vulnerability scanner baked into ZAP might not be as in depth as some of the commercial scanners available, but a vulnerability uncovered by ZAP is definitely a vulnerability you want to address.
 >
-> **[2:26](https://www.linkedin.com/learning/static-application-security-testing/other-notable-projects?u=76281980&t=146)** The OWTF short for Offensive Web Testing Framework was designed to help penetration testers automate many of their web application security tests.
+> **[2:26](https://www.linkedin.com/learning/static-application-security-testing/other-notable-projects?u=76281980&t=146)** The OWTF short for Offensive Web Testing Framework was designed to help penetration testers automate many of their [[Web Application Security]] tests.
 >
 > **[2:38](https://www.linkedin.com/learning/static-application-security-testing/other-notable-projects?u=76281980&t=158)** OWTF combines information from the OWASP Testing Guide with guidance from the penetration testing execution standard or PTES.
 >
-> **[2:48](https://www.linkedin.com/learning/static-application-security-testing/other-notable-projects?u=76281980&t=168)** It also includes testing guidance from the National Institute of Standards and Technology or NIST.
+> **[2:48](https://www.linkedin.com/learning/static-application-security-testing/other-notable-projects?u=76281980&t=168)** It also includes testing guidance from the National Institute of Standards and Technology or [[NIST]].
 >
 > **[2:55](https://www.linkedin.com/learning/static-application-security-testing/other-notable-projects?u=76281980&t=175)** The goal of this tool is to automate the basic stuff when it comes to web application security testing enabling testers to focus on more intricate and challenging tests.
 >
@@ -678,19 +670,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (19), [[OWASP]] (13), application (5), web (4), [[Code Review]] (4)
+> **Frameworks & Libraries:** [[OWASP]] (13), [[Code Review]] (4), [[Web Application Security]] (3), [[Security Testing]] (2), [[Application Security]] (2)
 > **Env Vars:** owasp (13), zap (5), samm (4), owtf (3), pdf (1)
 > **Definitions:** is a  (4), short for (2)
 > **CLI Commands:** find (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Top 25 software errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/top-25-software-errors?u=76281980)
+#### [Top 25 software errors](https://www.linkedin.com/learning/static-application-security-testing/top-25-software-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/static-application-security-testing/top-25-software-errors?u=76281980&t=0)** - [Instructor] While OWASP definitely has a lot to offer the applications security community, they aren't the only resource that you should explore.
+> **[0:00](https://www.linkedin.com/learning/static-application-security-testing/top-25-software-errors?u=76281980&t=0)** - [Instructor] While [[OWASP]] definitely has a lot to offer the applications security community, they aren't the only resource that you should explore.
 >
 > **[0:09](https://www.linkedin.com/learning/static-application-security-testing/top-25-software-errors?u=76281980&t=9)** The SANS Institute has been providing information security research and education services since 1989.
 >
@@ -704,7 +695,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/static-application-security-testing/top-25-software-errors?u=76281980&t=56)** Their focus is on creating a safer, more secure world.
 >
-> **[1:01](https://www.linkedin.com/learning/static-application-security-testing/top-25-software-errors?u=76281980&t=61)** And their work spans everything from defense and intelligence, to homeland security, to cybersecurity.
+> **[1:01](https://www.linkedin.com/learning/static-application-security-testing/top-25-software-errors?u=76281980&t=61)** And their work spans everything from defense and intelligence, to homeland security, to [[Cybersecurity]].
 >
 > **[1:08](https://www.linkedin.com/learning/static-application-security-testing/top-25-software-errors?u=76281980&t=68)** MITRE maintains a community-developed list of software weaknesses types, known as the CWE, or Common Weakness Enumeration language.
 >
@@ -716,35 +707,34 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/static-application-security-testing/top-25-software-errors?u=76281980&t=116)** While the Top 25 list may be more expansive than the OWASP Top 10, it's not maintained with the same due diligence.
 >
-> **[2:05](https://www.linkedin.com/learning/static-application-security-testing/top-25-software-errors?u=76281980&t=125)** Stephen Dye, an applications security expert turned CISO, published a short book called "Secure Agile Development: 25 Security User Stories."
+> **[2:05](https://www.linkedin.com/learning/static-application-security-testing/top-25-software-errors?u=76281980&t=125)** Stephen Dye, an applications security expert turned CISO, published a short book called "Secure [[Agile Development|Agile]] Development: 25 Security User Stories."
 >
 > **[2:17](https://www.linkedin.com/learning/static-application-security-testing/top-25-software-errors?u=76281980&t=137)** In this book he combines the Top 25 most dangerous software errors with the Agile development methodology to create a security user's story for every single item in the Top 25 list.
 >
 > **[2:32](https://www.linkedin.com/learning/static-application-security-testing/top-25-software-errors?u=76281980&t=152)** Each story contains a description that Agile developers will be familiar with, as well as test steps and acceptance criteria necessary to address each story.
 >
-> **[2:43](https://www.linkedin.com/learning/static-application-security-testing/top-25-software-errors?u=76281980&t=163)** It's a brilliant practical resource that you can use to introduce applications security testing to your developers in terms that they're already familiar with.
+> **[2:43](https://www.linkedin.com/learning/static-application-security-testing/top-25-software-errors?u=76281980&t=163)** It's a brilliant practical resource that you can use to introduce applications [[Security Testing]] to your developers in terms that they're already familiar with.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (10), [[OWASP]] (3), [[Agile Development|Agile]] (3), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[OWASP]] (3), [[Agile Development|Agile]] (3), [[Cybersecurity]] (1), [[Security Testing]] (1)
 > **Env Vars:** mitre (4), owasp (3), sans (3), giac (2), cwe (2)
 > **Definitions:** is a  (1), known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### BSIMM
-> [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/bsimm?u=76281980)
+#### [BSIMM](https://www.linkedin.com/learning/static-application-security-testing/bsimm?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/static-application-security-testing/bsimm?u=76281980&t=0)** - [Instructor] Another resource to include in your static testing preparation is the Building Security in Maturity Model or BSIMM.
 >
-> **[0:09](https://www.linkedin.com/learning/static-application-security-testing/bsimm?u=76281980&t=9)** The BSIMM is similar to the OWASP SAMM project in that it applies to capability maturity model to ensuring that software is secure.
+> **[0:09](https://www.linkedin.com/learning/static-application-security-testing/bsimm?u=76281980&t=9)** The BSIMM is similar to the [[OWASP]] SAMM project in that it applies to capability maturity model to ensuring that software is secure.
 >
 > **[0:19](https://www.linkedin.com/learning/static-application-security-testing/bsimm?u=76281980&t=19)** Over 100 organizations from a variety of industries came together to form the BSIMM.
 >
 > **[0:26](https://www.linkedin.com/learning/static-application-security-testing/bsimm?u=76281980&t=26)** While it's most heavily influenced by professionals from financial services organizations and independent software vendors, you can find benefit from this resource regardless of the industry you represent.
 >
-> **[0:38](https://www.linkedin.com/learning/static-application-security-testing/bsimm?u=76281980&t=38)** In addition to teaching courses here on LinkedIn, I present on a pretty regular basis at professional meetings and conferences.
+> **[0:38](https://www.linkedin.com/learning/static-application-security-testing/bsimm?u=76281980&t=38)** In addition to teaching courses here on [[LinkedIn]], I present on a pretty regular basis at professional meetings and conferences.
 >
 > **[0:46](https://www.linkedin.com/learning/static-application-security-testing/bsimm?u=76281980&t=46)** And if there's one message that creeps into every one of my presentations, it's that compliance does not equal security.
 >
@@ -756,7 +746,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/static-application-security-testing/bsimm?u=76281980&t=71)** If you've ever worked on root cause analysis for a production incident or a security incident, you likely determine that the entire incident could have been avoided if only someone had addressed the root cause that resulted in the conditions which led to the incident.
 >
-> **[1:28](https://www.linkedin.com/learning/static-application-security-testing/bsimm?u=76281980&t=88)** This is absolutely true when it comes to application security, and applying a maturity model helps you shift your focus from the symptoms to the root causes.
+> **[1:28](https://www.linkedin.com/learning/static-application-security-testing/bsimm?u=76281980&t=88)** This is absolutely true when it comes to [[Application Security]], and applying a maturity model helps you shift your focus from the symptoms to the root causes.
 >
 > **[1:39](https://www.linkedin.com/learning/static-application-security-testing/bsimm?u=76281980&t=99)** The BSIMM consists of 121 activities, with each activity representing a specific thing you should do to improve the maturity of your software security program.
 >
@@ -802,9 +792,9 @@ created: 2026-05-02
 >
 > **[4:18](https://www.linkedin.com/learning/static-application-security-testing/bsimm?u=76281980&t=258)** Architecture analysis involves reviewing any available architecture diagrams ensuring that the documentation exists that it's current and that it's sound.
 >
-> **[4:30](https://www.linkedin.com/learning/static-application-security-testing/bsimm?u=76281980&t=270)** Code review combines tools, rules, and different roles to ensure that you've got multiple sets of eyes on the code and that each set of eyes is looking for something that could put the application at risk unless the code is fixed prior to deployment.
+> **[4:30](https://www.linkedin.com/learning/static-application-security-testing/bsimm?u=76281980&t=270)** [[Code Review]] combines tools, rules, and different roles to ensure that you've got multiple sets of eyes on the code and that each set of eyes is looking for something that could put the application at risk unless the code is fixed prior to deployment.
 >
-> **[4:47](https://www.linkedin.com/learning/static-application-security-testing/bsimm?u=76281980&t=287)** Security testing is all about vulnerability analysis in a non-production setting.
+> **[4:47](https://www.linkedin.com/learning/static-application-security-testing/bsimm?u=76281980&t=287)** [[Security Testing]] is all about vulnerability analysis in a non-production setting.
 >
 > **[4:53](https://www.linkedin.com/learning/static-application-security-testing/bsimm?u=76281980&t=293)** This is where the static testing activities bleed into dynamic testing.
 >
@@ -814,7 +804,7 @@ created: 2026-05-02
 >
 > **[5:14](https://www.linkedin.com/learning/static-application-security-testing/bsimm?u=76281980&t=314)** The deployment domain is where [[Dynamic Application Security Testing]] hits its full force.
 >
-> **[5:20](https://www.linkedin.com/learning/static-application-security-testing/bsimm?u=76281980&t=320)** Penetration testing has you attempt to break the security controls that you've spent so much time building.
+> **[5:20](https://www.linkedin.com/learning/static-application-security-testing/bsimm?u=76281980&t=320)** [[Penetration Testing]] has you attempt to break the security controls that you've spent so much time building.
 >
 > **[5:27](https://www.linkedin.com/learning/static-application-security-testing/bsimm?u=76281980&t=327)** If the controls can't withstand a simulated attack, then chances are they won't withstand an actual attack either.
 >
@@ -822,7 +812,7 @@ created: 2026-05-02
 >
 > **[5:49](https://www.linkedin.com/learning/static-application-security-testing/bsimm?u=76281980&t=349)** Processes designed to ensure that everything continues to work in a secure and stable manner.
 >
-> **[5:56](https://www.linkedin.com/learning/static-application-security-testing/bsimm?u=76281980&t=356)** Configuration management and vulnerability management focus on post-production security maintenance activities, things like application patches and updates, version control, defect management, and incident management.
+> **[5:56](https://www.linkedin.com/learning/static-application-security-testing/bsimm?u=76281980&t=356)** [[Configuration Management]] and vulnerability management focus on post-production security maintenance activities, things like application patches and updates, [[Version Control]], defect management, and incident management.
 >
 > **[6:11](https://www.linkedin.com/learning/static-application-security-testing/bsimm?u=76281980&t=371)** The BSIMM helps you tie together all of these activities, all the things you should consider when securing an application.
 >
@@ -832,23 +822,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (16), application (8), management (4), [[Code Review]] (2), [[OWASP]] (1)
+> **Frameworks & Libraries:** [[Application Security]] (3), [[Code Review]] (2), [[OWASP]] (1), [[LinkedIn]] (1), [[Security Testing]] (1)
 > **Env Vars:** bsimm (6), ssdl (2), owasp (1), samm (1), hipaa (1)
 > **CLI Commands:** make (4), find (1)
 > **Documentation:** the documentation (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building your test lab
-> [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/building-your-test-lab?u=76281980)
+#### [Building your test lab](https://www.linkedin.com/learning/static-application-security-testing/building-your-test-lab?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/static-application-security-testing/building-your-test-lab?u=76281980&t=0)** - [Narrator] Whether you're doing static or [[Dynamic Application Security Testing]], you're going to need a test lab.
+> **[0:00](https://www.linkedin.com/learning/static-application-security-testing/building-your-test-lab?u=76281980&t=0)** - [Narrator] Whether you're doing static or [[Dynamic [[Application Security]] Testing]], you're going to need a test lab.
 >
 > **[0:06](https://www.linkedin.com/learning/static-application-security-testing/building-your-test-lab?u=76281980&t=6)** Fortunately, my recommended lab for static testing is pretty lightweight.
 >
-> **[0:12](https://www.linkedin.com/learning/static-application-security-testing/building-your-test-lab?u=76281980&t=12)** I do a lot of my training and testing in virtual machines.
+> **[0:12](https://www.linkedin.com/learning/static-application-security-testing/building-your-test-lab?u=76281980&t=12)** I do a lot of my training and testing in [[Virtual Machines]].
 >
 > **[0:15](https://www.linkedin.com/learning/static-application-security-testing/building-your-test-lab?u=76281980&t=15)** It's just as easy to spin up a new VM as it is to blow it away and restore it to its default settings.
 >
@@ -868,7 +857,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/static-application-security-testing/building-your-test-lab?u=76281980&t=64)** but you'll rely on VMs a lot more when performing dynamic testing.
 >
-> **[1:08](https://www.linkedin.com/learning/static-application-security-testing/building-your-test-lab?u=76281980&t=68)** As you learn from our discussion around SAMM and BSIMM, much of your static security testing activity is going to revolve around documentation reviews.
+> **[1:08](https://www.linkedin.com/learning/static-application-security-testing/building-your-test-lab?u=76281980&t=68)** As you learn from our discussion around SAMM and BSIMM, much of your static [[Security Testing]] activity is going to revolve around documentation reviews.
 >
 > **[1:18](https://www.linkedin.com/learning/static-application-security-testing/building-your-test-lab?u=76281980&t=78)** However, you will need to roll up your sleeves and dive into the source code.
 >
@@ -878,7 +867,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/static-application-security-testing/building-your-test-lab?u=76281980&t=105)** Codacy is a static code analyzer designed to help you identify a number of potential quality issues with your app with one of those quality issues being security.
 >
-> **[1:57](https://www.linkedin.com/learning/static-application-security-testing/building-your-test-lab?u=76281980&t=117)** What I dig about Codacy is that you can link the cloud version of the tool to your GitHub or Bitbucket account and automate that analysis on every commit and pull request.
+> **[1:57](https://www.linkedin.com/learning/static-application-security-testing/building-your-test-lab?u=76281980&t=117)** What I dig about Codacy is that you can link the cloud version of the tool to your [[GitHub]] or [[Bitbucket]] account and automate that analysis on every commit and pull request.
 >
 > **[2:08](https://www.linkedin.com/learning/static-application-security-testing/building-your-test-lab?u=76281980&t=128)** We'll be using the cloud version of Codacy later in this course, but you're welcome to download a trial version of the enterprise version to continue testing internal applications.
 >
@@ -898,7 +887,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/static-application-security-testing/building-your-test-lab?u=76281980&t=178)** The tricky thing about IDEs is that there are dozens of them available and the majority of them are language specific.
 >
-> **[3:06](https://www.linkedin.com/learning/static-application-security-testing/building-your-test-lab?u=76281980&t=186)** You'll find .NET developers using Visual Studio, while Java developers are more likely to spend their time in Eclipse.
+> **[3:06](https://www.linkedin.com/learning/static-application-security-testing/building-your-test-lab?u=76281980&t=186)** You'll find .NET developers using Visual Studio, while [[Java]] developers are more likely to spend their time in Eclipse.
 >
 > **[3:13](https://www.linkedin.com/learning/static-application-security-testing/building-your-test-lab?u=76281980&t=193)** As IDEs have evolved over the years, many of them have expanded their support to multiple languages.
 >
@@ -918,7 +907,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), cloud (2), application (1), [[Virtual Machines]] (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Application Security]] (1), [[Virtual Machines]] (1), [[Security Testing]] (1), [[GitHub]] (1), [[Bitbucket]] (1)
 > **Env Vars:** ide (3), samm (1), bsimm (1), net (1)
 > **Tools:** github (1), bitbucket (1), visual studio (1)
 > **Definitions:** is a  (2), stands for (1)
@@ -927,8 +916,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Best Practices:** recommended (1)
 
-#### Preparing your checklist
-> [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/preparing-your-checklist?u=76281980)
+#### [Preparing your checklist](https://www.linkedin.com/learning/static-application-security-testing/preparing-your-checklist?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -936,9 +924,9 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/static-application-security-testing/preparing-your-checklist?u=76281980&t=5)** But if you want to stay ahead of changes in your apps and measure improvement, you're going to want to create a testing checklist.
 >
-> **[0:13](https://www.linkedin.com/learning/static-application-security-testing/preparing-your-checklist?u=76281980&t=13)** I'm a huge advocate for documenting repeatable processes, especially when it comes to security testing.
+> **[0:13](https://www.linkedin.com/learning/static-application-security-testing/preparing-your-checklist?u=76281980&t=13)** I'm a huge advocate for documenting repeatable processes, especially when it comes to [[Security Testing]].
 >
-> **[0:20](https://www.linkedin.com/learning/static-application-security-testing/preparing-your-checklist?u=76281980&t=20)** Seasoned application security testers know that these repeatable processes will help them ensure consistent results over time.
+> **[0:20](https://www.linkedin.com/learning/static-application-security-testing/preparing-your-checklist?u=76281980&t=20)** Seasoned [[Application Security]] testers know that these repeatable processes will help them ensure consistent results over time.
 >
 > **[0:29](https://www.linkedin.com/learning/static-application-security-testing/preparing-your-checklist?u=76281980&t=29)** By documenting your testing checklist, you'll establish a repeatable testing regimen, and you'll be able to measure your results over time to determine whether your testing efforts are having the desired results.
 >
@@ -994,7 +982,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), application (7), data (1), hit (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Application Security]] (3), [[Security Testing]] (2)
 > **CLI Commands:** make (3)
 > **Prerequisites:** you'll need (1), before you begin (1)
 > **Speakers:** - [instructor] (1)
@@ -1004,18 +992,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Internal project plans
-> [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/internal-project-plans?u=76281980)
+#### [Internal project plans](https://www.linkedin.com/learning/static-application-security-testing/internal-project-plans?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/static-application-security-testing/internal-project-plans?u=76281980&t=0)** - [Instructor] Incorporating static application security testing into internal project plans is a terrific way to keep costs down while building security in.
+> **[0:00](https://www.linkedin.com/learning/static-application-security-testing/internal-project-plans?u=76281980&t=0)** - [Instructor] Incorporating static [[Application Security]] testing into internal project plans is a terrific way to keep costs down while building security in.
 >
-> **[0:11](https://www.linkedin.com/learning/static-application-security-testing/internal-project-plans?u=76281980&t=11)** With application development methodologies, expecting developers to move more and more quickly though, when does it make sense to develop a project plan at all?
+> **[0:11](https://www.linkedin.com/learning/static-application-security-testing/internal-project-plans?u=76281980&t=11)** With [[Application Development]] methodologies, expecting developers to move more and more quickly though, when does it make sense to develop a project plan at all?
 >
-> **[0:21](https://www.linkedin.com/learning/static-application-security-testing/internal-project-plans?u=76281980&t=21)** Project plans are pretty common in shops that use the waterfall methodology and they even have a home in agile environments.
+> **[0:21](https://www.linkedin.com/learning/static-application-security-testing/internal-project-plans?u=76281980&t=21)** Project plans are pretty common in shops that use the waterfall methodology and they even have a home in [[Agile Development|agile]] environments.
 >
-> **[0:30](https://www.linkedin.com/learning/static-application-security-testing/internal-project-plans?u=76281980&t=30)** DevOps is another animal entirely.
+> **[0:30](https://www.linkedin.com/learning/static-application-security-testing/internal-project-plans?u=76281980&t=30)** [[DevOps]] is another animal entirely.
 >
 > **[0:33](https://www.linkedin.com/learning/static-application-security-testing/internal-project-plans?u=76281980&t=33)** Regardless, there are two scenarios where you'll find value in project planning, even if it's just an academic exercise.
 >
@@ -1049,7 +1036,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/static-application-security-testing/internal-project-plans?u=76281980&t=122)** Although that resource is no longer available online, you'll find that many of the principles that they set forth regarding the relationship between software assurance and project management still hold true today.
 >
-> **[2:17](https://www.linkedin.com/learning/static-application-security-testing/internal-project-plans?u=76281980&t=137)** So all that knowledge about software development methodologies that you picked up earlier in this course, here's where you begin to apply it.
+> **[2:17](https://www.linkedin.com/learning/static-application-security-testing/internal-project-plans?u=76281980&t=137)** So all that knowledge about [[Software Development]] methodologies that you picked up earlier in this course, here's where you begin to apply it.
 >
 > **[2:26](https://www.linkedin.com/learning/static-application-security-testing/internal-project-plans?u=76281980&t=146)** Each methodology includes a means for collecting requirements.
 >
@@ -1061,17 +1048,17 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/static-application-security-testing/internal-project-plans?u=76281980&t=171)** The key difference though, is that security should look at the design from the standpoint of a malicious user.
 >
-> **[2:58](https://www.linkedin.com/learning/static-application-security-testing/internal-project-plans?u=76281980&t=178)** This will provide them with the insight they need to propose security test cases for the dynamic security testing to be conducted later in the project.
+> **[2:58](https://www.linkedin.com/learning/static-application-security-testing/internal-project-plans?u=76281980&t=178)** This will provide them with the insight they need to propose security test cases for the dynamic [[Security Testing]] to be conducted later in the project.
 >
 > **[3:08](https://www.linkedin.com/learning/static-application-security-testing/internal-project-plans?u=76281980&t=188)** Finally, you should document a task for someone to perform source code security reviews.
 >
 > **[3:14](https://www.linkedin.com/learning/static-application-security-testing/internal-project-plans?u=76281980&t=194)** Automated reviews are ideal and they need to be performed before developers check code back into the code repository.
 >
-> **[3:23](https://www.linkedin.com/learning/static-application-security-testing/internal-project-plans?u=76281980&t=203)** It's also a great idea to kick off an automated code review when the developer steps away to grab a coffee or an energy drink.
+> **[3:23](https://www.linkedin.com/learning/static-application-security-testing/internal-project-plans?u=76281980&t=203)** It's also a great idea to kick off an automated [[Code Review]] when the developer steps away to grab a coffee or an energy drink.
 >
 > **[3:32](https://www.linkedin.com/learning/static-application-security-testing/internal-project-plans?u=76281980&t=212)** Let the code review tool do the heavy lifting while the giving their brain a much needed break.
 >
-> **[3:38](https://www.linkedin.com/learning/static-application-security-testing/internal-project-plans?u=76281980&t=218)** I'm also a diehard fan of both clarity and accountability.
+> **[3:38](https://www.linkedin.com/learning/static-application-security-testing/internal-project-plans?u=76281980&t=218)** I'm also a diehard fan of both clarity and [[Accountability]].
 >
 > **[3:43](https://www.linkedin.com/learning/static-application-security-testing/internal-project-plans?u=76281980&t=223)** If you want to ensure that these tasks are executed correctly, you need to answer three important questions.
 >
@@ -1117,7 +1104,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (23), application (4), [[Application Development]] (3), product (3), next (2)
+> **Frameworks & Libraries:** [[Security Testing]] (3), [[Application Development]] (3), [[Code Review]] (2), [[Accountability]] (2), [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Exercise Files:** source code (5)
 > **Definitions:** is a  (4)
@@ -1125,8 +1112,7 @@ created: 2026-05-02
 > **Env Vars:** cert (1)
 > **Speakers:** - [instructor] (1)
 
-#### Communication planning
-> [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/communication-planning?u=76281980)
+#### [Communication planning](https://www.linkedin.com/learning/static-application-security-testing/communication-planning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1146,7 +1132,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/static-application-security-testing/communication-planning?u=76281980&t=59)** Security impacting changes are often harder to detect.
 >
-> **[1:04](https://www.linkedin.com/learning/static-application-security-testing/communication-planning?u=76281980&t=64)** If a change introduces a SQL injection flaw or an insecure data exposure weakness, the application will likely continue to operate normally.
+> **[1:04](https://www.linkedin.com/learning/static-application-security-testing/communication-planning?u=76281980&t=64)** If a change introduces a [[SQL]] injection flaw or an insecure data exposure weakness, the application will likely continue to operate normally.
 >
 > **[1:15](https://www.linkedin.com/learning/static-application-security-testing/communication-planning?u=76281980&t=75)** In other words, your regular users aren't the ones who will notice the new security flaw.
 >
@@ -1154,13 +1140,13 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/static-application-security-testing/communication-planning?u=76281980&t=83)** That's why it's critical that you test the security of your application as part of every scheduled change.
 >
-> **[1:30](https://www.linkedin.com/learning/static-application-security-testing/communication-planning?u=76281980&t=90)** Integrating security testing into your change control process is easier once you understand who the stakeholders are.
+> **[1:30](https://www.linkedin.com/learning/static-application-security-testing/communication-planning?u=76281980&t=90)** Integrating [[Security Testing]] into your change control process is easier once you understand who the stakeholders are.
 >
 > **[1:38](https://www.linkedin.com/learning/static-application-security-testing/communication-planning?u=76281980&t=98)** The end users are definitely in that list since they're the ones who will experience the impact that change has on how they interact with the app.
 >
 > **[1:48](https://www.linkedin.com/learning/static-application-security-testing/communication-planning?u=76281980&t=108)** The developers who wrote and maintain the app are also key stakeholders, since they're the ones who are going to be changing the code.
 >
-> **[1:56](https://www.linkedin.com/learning/static-application-security-testing/communication-planning?u=76281980&t=116)** It's also a good idea to keep your IT infrastructure team informed, since apps rely on infrastructure components like servers, networks, and databases, and it's a good idea to keep an open line of communication with your IT audit department.
+> **[1:56](https://www.linkedin.com/learning/static-application-security-testing/communication-planning?u=76281980&t=116)** It's also a good idea to keep your IT infrastructure team informed, since apps rely on infrastructure components like servers, networks, and [[Databases]], and it's a good idea to keep an open line of communication with your [[IT Audit]] department.
 >
 > **[2:11](https://www.linkedin.com/learning/static-application-security-testing/communication-planning?u=76281980&t=131)** They're likely to review changes throughout the year, ensuring that the change control process was indeed followed.
 >
@@ -1176,7 +1162,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/static-application-security-testing/communication-planning?u=76281980&t=181)** If you have a standard that requires two-factor authentication, for example, then a change that disables that snippet of code should never make it past the review stage.
 >
-> **[3:12](https://www.linkedin.com/learning/static-application-security-testing/communication-planning?u=76281980&t=192)** ITIL has become the authoritative source for IT change control.
+> **[3:12](https://www.linkedin.com/learning/static-application-security-testing/communication-planning?u=76281980&t=192)** [[ITIL]] has become the authoritative source for IT change control.
 >
 > **[3:18](https://www.linkedin.com/learning/static-application-security-testing/communication-planning?u=76281980&t=198)** Short for information technology infrastructure library, ITIL provides detailed guidance on multiple types of changes, including emergency, standard, major, and normal.
 >
@@ -1188,7 +1174,7 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/static-application-security-testing/communication-planning?u=76281980&t=239)** Ivanti has a great change management resource on the IT Jargon Explained section of their website.
 >
-> **[4:06](https://www.linkedin.com/learning/static-application-security-testing/communication-planning?u=76281980&t=246)** CICD, which stands for continuous integration/continuous deployment runs counter to traditional ITIL change control models.
+> **[4:06](https://www.linkedin.com/learning/static-application-security-testing/communication-planning?u=76281980&t=246)** CICD, which stands for [[Continuous Integration (CI)|continuous integration]]/continuous deployment runs counter to traditional ITIL change control models.
 >
 > **[4:16](https://www.linkedin.com/learning/static-application-security-testing/communication-planning?u=76281980&t=256)** The CICD pipeline requires automation in many of your backend testing procedures, procedures like your source code security scans.
 >
@@ -1198,13 +1184,13 @@ created: 2026-05-02
 >
 > **[4:41](https://www.linkedin.com/learning/static-application-security-testing/communication-planning?u=76281980&t=281)** With enough planning and testing, the theory behind the CICD pipeline is that you can deploy changes much more quickly, constantly improving the application without requiring a lot of manual procedures and debate-heavy meetings behind the scenes.
 >
-> **[4:59](https://www.linkedin.com/learning/static-application-security-testing/communication-planning?u=76281980&t=299)** As DevOps continues to grow in popularity, you should be adapting your static application security testing activities to be more closely aligned with frequent and rapid changes to the source code.
+> **[4:59](https://www.linkedin.com/learning/static-application-security-testing/communication-planning?u=76281980&t=299)** As [[DevOps]] continues to grow in popularity, you should be adapting your static [[Application Security]] testing activities to be more closely aligned with frequent and rapid changes to the source code.
 >
 > **[5:12](https://www.linkedin.com/learning/static-application-security-testing/communication-planning?u=76281980&t=312)** By understanding how your organization promotes application changes to production, you can find the right security testing tools and techniques to align with that approach.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (8), [[Security]] (8), [[ITIL]] (4), [[SQL]] (1), data (1)
+> **Frameworks & Libraries:** [[ITIL]] (4), [[Security Testing]] (2), [[SQL]] (1), [[Databases]] (1), [[IT Audit]] (1)
 > **Env Vars:** itil (4), cicd (3), sql (1), cab (1)
 > **Definitions:** in other words (1), short for (1), is a  (1), stands for (1)
 > **CLI Commands:** make (2), find (1)
@@ -1212,8 +1198,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Change control policy
-> [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/change-control-policy?u=76281980)
+#### [Change control policy](https://www.linkedin.com/learning/static-application-security-testing/change-control-policy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1225,7 +1210,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/static-application-security-testing/change-control-policy?u=76281980&t=17)** Your goals should be rock simple, keep everyone on the same page.
 >
-> **[0:22](https://www.linkedin.com/learning/static-application-security-testing/change-control-policy?u=76281980&t=22)** You need to spend time on a communication plan for your static application security testing activities because they'll have some level of impact on everyone involved.
+> **[0:22](https://www.linkedin.com/learning/static-application-security-testing/change-control-policy?u=76281980&t=22)** You need to spend time on a communication plan for your static [[Application Security]] testing activities because they'll have some level of impact on everyone involved.
 >
 > **[0:32](https://www.linkedin.com/learning/static-application-security-testing/change-control-policy?u=76281980&t=32)** Testing can impact schedules and deadlines.
 >
@@ -1241,7 +1226,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/static-application-security-testing/change-control-policy?u=76281980&t=82)** There are two questions you should answer when preparing your own communication plan.
 >
-> **[1:27](https://www.linkedin.com/learning/static-application-security-testing/change-control-policy?u=76281980&t=87)** First, who is going to be impacted by your security testing?
+> **[1:27](https://www.linkedin.com/learning/static-application-security-testing/change-control-policy?u=76281980&t=87)** First, who is going to be impacted by your [[Security Testing]]?
 >
 > **[1:32](https://www.linkedin.com/learning/static-application-security-testing/change-control-policy?u=76281980&t=92)** You need titles or roles at a minimum, but personally I'm a fan of names, email addresses and mobile phone numbers.
 >
@@ -1281,7 +1266,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/static-application-security-testing/change-control-policy?u=76281980&t=219)** Standup meetings usually occur at the beginning and or the end of the day and they only last as long as they need to so that everyone can get back to work quickly.
 >
-> **[3:50](https://www.linkedin.com/learning/static-application-security-testing/change-control-policy?u=76281980&t=230)** But for teams who prefer realtime communication, Slack has become the defacto standard.
+> **[3:50](https://www.linkedin.com/learning/static-application-security-testing/change-control-policy?u=76281980&t=230)** But for teams who prefer realtime communication, [[Slack]] has become the defacto standard.
 >
 > **[3:57](https://www.linkedin.com/learning/static-application-security-testing/change-control-policy?u=76281980&t=237)** Developers keep Slack up and running throughout the day and when someone has a question, they post it to the right channel and often get an answer within minutes.
 >
@@ -1297,15 +1282,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), teams (5), application (2), [[Slack]] (2)
+> **Frameworks & Libraries:** [[Security Testing]] (2), [[Slack]] (2), [[Application Security]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Tools:** slack (2)
 > **Definitions:** is a  (1)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [instructor] (1)
 
-#### Security incident response policy
-> [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/security-incident-response-policy?u=76281980)
+#### [Security incident response policy](https://www.linkedin.com/learning/static-application-security-testing/security-incident-response-policy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1315,7 +1299,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/static-application-security-testing/security-incident-response-policy?u=76281980&t=7)** But you can plan ahead.
 >
-> **[0:08](https://www.linkedin.com/learning/static-application-security-testing/security-incident-response-policy?u=76281980&t=8)** That's where security incident response policies come into play.
+> **[0:08](https://www.linkedin.com/learning/static-application-security-testing/security-incident-response-policy?u=76281980&t=8)** That's where [[Security Incident Response]] policies come into play.
 >
 > **[0:13](https://www.linkedin.com/learning/static-application-security-testing/security-incident-response-policy?u=76281980&t=13)** I don't know how many times I've uttered the phrase, "Language is important throughout my career," and this is one of the main reasons why.
 >
@@ -1337,7 +1321,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/static-application-security-testing/security-incident-response-policy?u=76281980&t=89)** Failure to keep your secret data secret is an incident impacting confidentiality, failure to protect data from unauthorized changes is an incident impacting integrity, and failure to keep apps online when they need to be there is an incident impacting availability.
 >
-> **[1:49](https://www.linkedin.com/learning/static-application-security-testing/security-incident-response-policy?u=76281980&t=109)** So what does all of this have to do with static application security testing?
+> **[1:49](https://www.linkedin.com/learning/static-application-security-testing/security-incident-response-policy?u=76281980&t=109)** So what does all of this have to do with static [[Application Security]] testing?
 >
 > **[1:53](https://www.linkedin.com/learning/static-application-security-testing/security-incident-response-policy?u=76281980&t=113)** I'm glad you asked.
 >
@@ -1361,13 +1345,13 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/static-application-security-testing/security-incident-response-policy?u=76281980&t=227)** If you find tickets where the initial attack vector was an application security weakness, then you've got a pretty solid lead on what to include in your testing activities.
 >
-> **[3:57](https://www.linkedin.com/learning/static-application-security-testing/security-incident-response-policy?u=76281980&t=237)** It should come as no surprise that NIST has an extensive special publication devoted exclusively to security incident response handling.
+> **[3:57](https://www.linkedin.com/learning/static-application-security-testing/security-incident-response-policy?u=76281980&t=237)** It should come as no surprise that [[NIST]] has an extensive special publication devoted exclusively to security incident response handling.
 >
 > **[4:07](https://www.linkedin.com/learning/static-application-security-testing/security-incident-response-policy?u=76281980&t=247)** Special Publication 800-61 Revision 2 covers everything from building a team, equipping that team, handling an incident, and coordinating how you'll share information both internally and externally after you contain an incident.
 >
 > **[4:25](https://www.linkedin.com/learning/static-application-security-testing/security-incident-response-policy?u=76281980&t=265)** Fun fact.
 >
-> **[4:26](https://www.linkedin.com/learning/static-application-security-testing/security-incident-response-policy?u=76281980&t=266)** The word application appears 44 times throughout this document.
+> **[4:26](https://www.linkedin.com/learning/static-application-security-testing/security-incident-response-policy?u=76281980&t=266)** The [[Microsoft Word|word]] application appears 44 times throughout this document.
 >
 > **[4:31](https://www.linkedin.com/learning/static-application-security-testing/security-incident-response-policy?u=76281980&t=271)** If you want to get a very quick sense of how your static application security testing activities are related to your organization's security incident response policy, do a quick search of that term and skim through your results.
 >
@@ -1375,15 +1359,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (15), [[Security Incident Response]] (12), application (6), data (3), career (2)
+> **Frameworks & Libraries:** [[Security Incident Response]] (12), [[Application Security]] (5), [[NIST]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is an  (3), is a  (2)
 > **CLI Commands:** find (3)
 > **Env Vars:** cia (1), nist (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Logging and monitoring policy
-> [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/logging-and-monitoring-policy?u=76281980)
+#### [Logging and monitoring policy](https://www.linkedin.com/learning/static-application-security-testing/logging-and-monitoring-policy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1405,7 +1388,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/static-application-security-testing/logging-and-monitoring-policy?u=76281980&t=51)** At a high level, log management is just generating and storing system and application logs so you can look at them later.
 >
-> **[0:59](https://www.linkedin.com/learning/static-application-security-testing/logging-and-monitoring-policy?u=76281980&t=59)** When it comes to application security testing, the application's ability to generate log data should definitely be part of your testing process.
+> **[0:59](https://www.linkedin.com/learning/static-application-security-testing/logging-and-monitoring-policy?u=76281980&t=59)** When it comes to [[Application Security]] testing, the application's ability to generate log data should definitely be part of your testing process.
 >
 > **[1:08](https://www.linkedin.com/learning/static-application-security-testing/logging-and-monitoring-policy?u=76281980&t=68)** Your static tests should include the code responsible for generating and protecting those logs, especially since reviewing those logs is going to be part of the dynamic testing activity you perform later.
 >
@@ -1417,7 +1400,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/static-application-security-testing/logging-and-monitoring-policy?u=76281980&t=103)** Log management systems should focus on collecting all the data that you need for long-term storage.
 >
-> **[1:50](https://www.linkedin.com/learning/static-application-security-testing/logging-and-monitoring-policy?u=76281980&t=110)** Security information event management systems should analyze that data in near real-time, looking for threat activity and either generating alerts or automating response activities.
+> **[1:50](https://www.linkedin.com/learning/static-application-security-testing/logging-and-monitoring-policy?u=76281980&t=110)** Security information event management systems should analyze that data in near [[Real-Time]], looking for threat activity and either generating alerts or automating response activities.
 >
 > **[2:03](https://www.linkedin.com/learning/static-application-security-testing/logging-and-monitoring-policy?u=76281980&t=123)** As you prepare your static application security tests, there are four questions you'll want to consider about the applications logging capabilities.
 >
@@ -1429,9 +1412,9 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/static-application-security-testing/logging-and-monitoring-policy?u=76281980&t=150)** Once you review your logging and monitoring policy, you should know what data needs to be captured in your app's logs.
 >
-> **[2:37](https://www.linkedin.com/learning/static-application-security-testing/logging-and-monitoring-policy?u=76281980&t=157)** Are logs sufficient for near-term incident response?
+> **[2:37](https://www.linkedin.com/learning/static-application-security-testing/logging-and-monitoring-policy?u=76281980&t=157)** Are logs sufficient for near-term [[Incident Response]]?
 >
-> **[2:41](https://www.linkedin.com/learning/static-application-security-testing/logging-and-monitoring-policy?u=76281980&t=161)** If you've reviewed your security incident response plan, then you have even more insight into what to look for in the app's logs.
+> **[2:41](https://www.linkedin.com/learning/static-application-security-testing/logging-and-monitoring-policy?u=76281980&t=161)** If you've reviewed your [[Security Incident Response]] plan, then you have even more insight into what to look for in the app's logs.
 >
 > **[2:49](https://www.linkedin.com/learning/static-application-security-testing/logging-and-monitoring-policy?u=76281980&t=169)** And are logs sufficient for long-term forensics?
 >
@@ -1439,7 +1422,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/static-application-security-testing/logging-and-monitoring-policy?u=76281980&t=178)** If you need to look at those logs a year from now, can you still extract useful information from them?
 >
-> **[3:05](https://www.linkedin.com/learning/static-application-security-testing/logging-and-monitoring-policy?u=76281980&t=185)** NIST to the rescue again.
+> **[3:05](https://www.linkedin.com/learning/static-application-security-testing/logging-and-monitoring-policy?u=76281980&t=185)** [[NIST]] to the rescue again.
 >
 > **[3:08](https://www.linkedin.com/learning/static-application-security-testing/logging-and-monitoring-policy?u=76281980&t=188)** Special Publication 800-92, Guide to Computer Security Log Management, contains extensive guidance on all things logging and monitoring, everything from the log management infrastructure to specific contents of log files.
 >
@@ -1453,7 +1436,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/static-application-security-testing/logging-and-monitoring-policy?u=76281980&t=230)** You want a shortcut to getting logging and monitoring right?
 >
-> **[3:54](https://www.linkedin.com/learning/static-application-security-testing/logging-and-monitoring-policy?u=76281980&t=234)** Take a look at Section 10 of the PCI Data Security Standard.
+> **[3:54](https://www.linkedin.com/learning/static-application-security-testing/logging-and-monitoring-policy?u=76281980&t=234)** Take a look at Section 10 of the PCI [[Data Security]] Standard.
 >
 > **[3:59](https://www.linkedin.com/learning/static-application-security-testing/logging-and-monitoring-policy?u=76281980&t=239)** A lot of folks, outside of retail in particular, disregard this document as irrelevant.
 >
@@ -1483,21 +1466,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (15), management (11), data (8), application (7), career (1)
+> **Frameworks & Libraries:** [[Application Security]] (4), [[Data Security]] (2), [[Real-Time]] (1), [[Incident Response]] (1), [[Security Incident Response]] (1)
 > **Env Vars:** pci (5), siem (1), nist (1), dss (1), ics (1)
 > **Definitions:** stands for (1)
 > **Speakers:** - [jared] (1)
 
-#### Third-party agreements
-> [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/third-party-agreements?u=76281980)
+#### [Third-party agreements](https://www.linkedin.com/learning/static-application-security-testing/third-party-agreements?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/static-application-security-testing/third-party-agreements?u=76281980&t=0)** - [Instructor] Let's face it, cloud computing is the new normal.
+> **[0:00](https://www.linkedin.com/learning/static-application-security-testing/third-party-agreements?u=76281980&t=0)** - [Instructor] Let's face it, [[Cloud Computing]] is the new normal.
 >
 > **[0:05](https://www.linkedin.com/learning/static-application-security-testing/third-party-agreements?u=76281980&t=5)** When companies can solve a business problem with a software-as-a-service solution for a fraction of what it would cost to develop that same application in-house, the less expensive option is going to win out more often than not.
 >
-> **[0:19](https://www.linkedin.com/learning/static-application-security-testing/third-party-agreements?u=76281980&t=19)** So, how does this impact our static application security testing activities?
+> **[0:19](https://www.linkedin.com/learning/static-application-security-testing/third-party-agreements?u=76281980&t=19)** So, how does this impact our static [[Application Security]] testing activities?
 >
 > **[0:25](https://www.linkedin.com/learning/static-application-security-testing/third-party-agreements?u=76281980&t=25)** Well, you may have the authority to test the security of internal applications.
 >
@@ -1543,7 +1525,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/static-application-security-testing/third-party-agreements?u=76281980&t=176)** Start with your purchasing department.
 >
-> **[2:58](https://www.linkedin.com/learning/static-application-security-testing/third-party-agreements?u=76281980&t=178)** If anyone is paying for any of these SaaS solutions then purchasing should have a record of it, assuming that is that the purchase went through your central purchasing department and not through some manager's corporate credit card.
+> **[2:58](https://www.linkedin.com/learning/static-application-security-testing/third-party-agreements?u=76281980&t=178)** If anyone is paying for any of these [[SaaS]] solutions then purchasing should have a record of it, assuming that is that the purchase went through your central purchasing department and not through some manager's corporate credit card.
 >
 > **[3:13](https://www.linkedin.com/learning/static-application-security-testing/third-party-agreements?u=76281980&t=193)** This also holds true for a third party developer's writing apps on your behalf.
 >
@@ -1605,9 +1587,9 @@ created: 2026-05-02
 >
 > **[6:52](https://www.linkedin.com/learning/static-application-security-testing/third-party-agreements?u=76281980&t=412)** If your developers are using any of the components within the supported ecosystems, things like Go or RubyGems or Droople, then you can use the OSS Index to quickly find related vulnerabilities worth investigating.
 >
-> **[7:07](https://www.linkedin.com/learning/static-application-security-testing/third-party-agreements?u=76281980&t=427)** OWASP's Dependency-Check focuses on vulnerable application project dependencies.
+> **[7:07](https://www.linkedin.com/learning/static-application-security-testing/third-party-agreements?u=76281980&t=427)** [[OWASP]]'s Dependency-Check focuses on vulnerable application project dependencies.
 >
-> **[7:13](https://www.linkedin.com/learning/static-application-security-testing/third-party-agreements?u=76281980&t=433)** While Dependency-Check was originally built to support Java and .NET, the project team has added experimental support for Ruby, Node.js, and Python.
+> **[7:13](https://www.linkedin.com/learning/static-application-security-testing/third-party-agreements?u=76281980&t=433)** While Dependency-Check was originally built to support [[Java]] and .NET, the project team has added experimental support for Ruby, [[Node.js]], and [[Python (Programming Language)|Python]].
 >
 > **[7:24](https://www.linkedin.com/learning/static-application-security-testing/third-party-agreements?u=76281980&t=444)** If you're working in a Ruby shop then you might want to go straight to Bundler Audit instead.
 >
@@ -1621,7 +1603,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (18), open-source (7), application (4), mobile application (3), business (2)
+> **Frameworks & Libraries:** [[Cloud Computing]] (1), [[Application Security]] (1), [[SaaS]] (1), [[OWASP]] (1), [[Java]] (1)
 > **CLI Commands:** ruby (4), find (1), node (1), python (1)
 > **Env Vars:** oss (2), url (1), vpn (1), ceo (1), owasp (1)
 > **Definitions:** means that (2), is an  (2), in other words (1)
@@ -1630,18 +1612,17 @@ created: 2026-05-02
 > **File Paths:** node.js (1)
 > **Speakers:** - [instructor] (1)
 
-#### OWASP ASVS
-> [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/owasp-asvs?u=76281980)
+#### [OWASP ASVS](https://www.linkedin.com/learning/static-application-security-testing/owasp-asvs?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/static-application-security-testing/owasp-asvs?u=76281980&t=0)** - [Narrator] At this point, I bet you're thinking, "Wow, there is a lot that goes into verifying whether an application is secure.
 >
-> **[0:09](https://www.linkedin.com/learning/static-application-security-testing/owasp-asvs?u=76281980&t=9)** I really wish OWASP had a project that could help me out here."
+> **[0:09](https://www.linkedin.com/learning/static-application-security-testing/owasp-asvs?u=76281980&t=9)** I really wish [[OWASP]] had a project that could help me out here."
 >
 > **[0:13](https://www.linkedin.com/learning/static-application-security-testing/owasp-asvs?u=76281980&t=13)** Well, you're in luck.
 >
-> **[0:15](https://www.linkedin.com/learning/static-application-security-testing/owasp-asvs?u=76281980&t=15)** OWASP maintains the Application Security Verification Standard project to help organizations manage their application security conversations with internal developers, external developers, and security testers.
+> **[0:15](https://www.linkedin.com/learning/static-application-security-testing/owasp-asvs?u=76281980&t=15)** OWASP maintains the [[Application Security]] Verification Standard project to help organizations manage their application security conversations with internal developers, external developers, and security testers.
 >
 > **[0:31](https://www.linkedin.com/learning/static-application-security-testing/owasp-asvs?u=76281980&t=31)** You can use the ASVS to document and track metrics around how secure your applications really are in line with your organization's security maturity targets.
 >
@@ -1671,7 +1652,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/static-application-security-testing/owasp-asvs?u=76281980&t=139)** These are often apps that need to be online 24/7, apps that the organization lives and dies by.
 >
-> **[2:26](https://www.linkedin.com/learning/static-application-security-testing/owasp-asvs?u=76281980&t=146)** Level 3 requires the most effort to test, but if an app achieved level 3 certification, you can rest assured that the app meets your organization's security needs.
+> **[2:26](https://www.linkedin.com/learning/static-application-security-testing/owasp-asvs?u=76281980&t=146)** Level 3 requires the most effort to test, but if an app achieved level 3 certification, you can [[Representational State Transfer (REST)|rest]] assured that the app meets your organization's security needs.
 >
 > **[2:38](https://www.linkedin.com/learning/static-application-security-testing/owasp-asvs?u=76281980&t=158)** The ASVS is structured using control objectives and requirements.
 >
@@ -1683,7 +1664,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/static-application-security-testing/owasp-asvs?u=76281980&t=183)** These are the specific security things that an app needs to do.
 >
-> **[3:08](https://www.linkedin.com/learning/static-application-security-testing/owasp-asvs?u=76281980&t=188)** The stored cryptography objective, for example, contains requirements around data classification, around algorithms and random values, and secrets management.
+> **[3:08](https://www.linkedin.com/learning/static-application-security-testing/owasp-asvs?u=76281980&t=188)** The stored [[Cryptography]] objective, for example, contains requirements around [[Data Classification]], around [[Algorithms]] and random values, and secrets management.
 >
 > **[3:19](https://www.linkedin.com/learning/static-application-security-testing/owasp-asvs?u=76281980&t=199)** Each requirement is assigned one or more security levels.
 >
@@ -1699,7 +1680,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (21), application (10), [[OWASP]] (3), data (2), management (2)
+> **Frameworks & Libraries:** [[Application Security]] (7), [[OWASP]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Cryptography]] (1), [[Data Classification]] (1)
 > **Env Vars:** asvs (10), owasp (3), hipaa (1), pci (1), cwe (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (1)
@@ -1711,8 +1692,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Challenges of assessing source code
-> [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/challenges-of-assessing-source-code?u=76281980)
+#### [Challenges of assessing source code](https://www.linkedin.com/learning/static-application-security-testing/challenges-of-assessing-source-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1720,7 +1700,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/static-application-security-testing/challenges-of-assessing-source-code?u=76281980&t=16)** The first thing a tester needs to understand is that code reviews and code security reviews are not the same thing.
 >
-> **[0:24](https://www.linkedin.com/learning/static-application-security-testing/challenges-of-assessing-source-code?u=76281980&t=24)** A source code review focuses on functionality.
+> **[0:24](https://www.linkedin.com/learning/static-application-security-testing/challenges-of-assessing-source-code?u=76281980&t=24)** A source [[Code Review]] focuses on functionality.
 >
 > **[0:27](https://www.linkedin.com/learning/static-application-security-testing/challenges-of-assessing-source-code?u=76281980&t=27)** Does the application work?
 >
@@ -1750,7 +1730,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/static-application-security-testing/challenges-of-assessing-source-code?u=76281980&t=102)** Better yet, you don't enter any numbers at all.
 >
-> **[1:45](https://www.linkedin.com/learning/static-application-security-testing/challenges-of-assessing-source-code?u=76281980&t=105)** You enter escape characters and SQL database query strings.
+> **[1:45](https://www.linkedin.com/learning/static-application-security-testing/challenges-of-assessing-source-code?u=76281980&t=105)** You enter escape characters and [[SQL]] database query strings.
 >
 > **[1:50](https://www.linkedin.com/learning/static-application-security-testing/challenges-of-assessing-source-code?u=76281980&t=110)** You enter anything but the expected five number input.
 >
@@ -1798,7 +1778,7 @@ created: 2026-05-02
 >
 > **[4:13](https://www.linkedin.com/learning/static-application-security-testing/challenges-of-assessing-source-code?u=76281980&t=253)** Getting from where you are today to where you want to be will take time, and here are a few considerations to help you get there more quickly.
 >
-> **[4:20](https://www.linkedin.com/learning/static-application-security-testing/challenges-of-assessing-source-code?u=76281980&t=260)** First, application security testing cannot be haphazard if it's going to have a positive long-term impact.
+> **[4:20](https://www.linkedin.com/learning/static-application-security-testing/challenges-of-assessing-source-code?u=76281980&t=260)** First, [[Application Security]] testing cannot be haphazard if it's going to have a positive long-term impact.
 >
 > **[4:29](https://www.linkedin.com/learning/static-application-security-testing/challenges-of-assessing-source-code?u=76281980&t=269)** Be prepared to document well-defined processes along the way.
 >
@@ -1810,7 +1790,7 @@ created: 2026-05-02
 >
 > **[4:45](https://www.linkedin.com/learning/static-application-security-testing/challenges-of-assessing-source-code?u=76281980&t=285)** You are taking this course to expand your knowledge in this space, and that's fantastic.
 >
-> **[4:50](https://www.linkedin.com/learning/static-application-security-testing/challenges-of-assessing-source-code?u=76281980&t=290)** Can you say the same for the rest of your security team?
+> **[4:50](https://www.linkedin.com/learning/static-application-security-testing/challenges-of-assessing-source-code?u=76281980&t=290)** Can you say the same for the [[Representational State Transfer (REST)|rest]] of your security team?
 >
 > **[4:53](https://www.linkedin.com/learning/static-application-security-testing/challenges-of-assessing-source-code?u=76281980&t=293)** And what about your developers?
 >
@@ -1818,7 +1798,7 @@ created: 2026-05-02
 >
 > **[5:04](https://www.linkedin.com/learning/static-application-security-testing/challenges-of-assessing-source-code?u=76281980&t=304)** I'm going to show you a couple of free and open source tools, but depending on your specific needs, you may need to budget for commercial tools at some point.
 >
-> **[5:13](https://www.linkedin.com/learning/static-application-security-testing/challenges-of-assessing-source-code?u=76281980&t=313)** If project timelines don't already include security testing activities, you'll get some pushback regarding adding extra work.
+> **[5:13](https://www.linkedin.com/learning/static-application-security-testing/challenges-of-assessing-source-code?u=76281980&t=313)** If project timelines don't already include [[Security Testing]] activities, you'll get some pushback regarding adding extra work.
 >
 > **[5:22](https://www.linkedin.com/learning/static-application-security-testing/challenges-of-assessing-source-code?u=76281980&t=322)** Once you help the project team see the long-term value of this testing, then it becomes a matter of accounting for testing activities within those timelines.
 >
@@ -1830,33 +1810,32 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (16), application (10), database (5), [[Code Review]] (3), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Code Review]] (3), [[SQL]] (1), [[Application Security]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Security Testing]] (1)
 > **Env Vars:** zip (7), sql (1)
 > **Exercise Files:** source code (6)
 > **CLI Commands:** make (3), find (2)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### OWASP Code Review Guide
-> [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/owasp-code-review-guide?u=76281980)
+#### [OWASP Code Review Guide](https://www.linkedin.com/learning/static-application-security-testing/owasp-code-review-guide?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/static-application-security-testing/owasp-code-review-guide?u=76281980&t=0)** - [Instructor] If you are looking for a step-by-step guide to performing a source code security review, then the OWASP Code Review Guide is the first resource you should check out.
+> **[0:00](https://www.linkedin.com/learning/static-application-security-testing/owasp-code-review-guide?u=76281980&t=0)** - [Instructor] If you are looking for a step-by-step guide to performing a source code security review, then the [[OWASP]] [[Code Review]] Guide is the first resource you should check out.
 >
-> **[0:11](https://www.linkedin.com/learning/static-application-security-testing/owasp-code-review-guide?u=76281980&t=11)** This guide begins with considerable information on what a code security review is, how to scope it, how to couple these reviews with penetration testing, and a methodology for integrating these reviews into your SDLC.
+> **[0:11](https://www.linkedin.com/learning/static-application-security-testing/owasp-code-review-guide?u=76281980&t=11)** This guide begins with considerable information on what a code security review is, how to scope it, how to couple these reviews with [[Penetration Testing]], and a methodology for integrating these reviews into your SDLC.
 >
-> **[0:26](https://www.linkedin.com/learning/static-application-security-testing/owasp-code-review-guide?u=76281980&t=26)** OWASP built this guide to align with the top 10 web application security risks.
+> **[0:26](https://www.linkedin.com/learning/static-application-security-testing/owasp-code-review-guide?u=76281980&t=26)** OWASP built this guide to align with the top 10 [[Web Application Security]] risks.
 >
 > **[0:32](https://www.linkedin.com/learning/static-application-security-testing/owasp-code-review-guide?u=76281980&t=32)** For each item in the top 10, the code review guide includes specific code snippets, that demonstrate how those flaws might actually appear in source code.
 >
 > **[0:42](https://www.linkedin.com/learning/static-application-security-testing/owasp-code-review-guide?u=76281980&t=42)** More importantly, the guide shows you what to review and how to validate that the code is resistant to certain attacks.
 >
-> **[0:50](https://www.linkedin.com/learning/static-application-security-testing/owasp-code-review-guide?u=76281980&t=50)** The guide also includes detailed references for further reading, using resources that are both internal to OWASP, and resources hosted on external sites like [mitre.org](https://mitre.org), [usenix.org](https://usenix.org), [php.net](https://php.net), and [microsoft.com](https://microsoft.com) just to name a few.
+> **[0:50](https://www.linkedin.com/learning/static-application-security-testing/owasp-code-review-guide?u=76281980&t=50)** The guide also includes detailed references for further reading, using resources that are both internal to OWASP, and resources hosted on external sites like [mitre.org](https://mitre.org), [usenix.org](https://usenix.org), [[[PHP]].net](https://php.net), and [[[Microsoft]].com](https://microsoft.com) just to name a few.
 >
 > **[1:08](https://www.linkedin.com/learning/static-application-security-testing/owasp-code-review-guide?u=76281980&t=68)** The OWASP Code Review Guide pairs perfectly with the OWASP Testing Guide.
 >
-> **[1:13](https://www.linkedin.com/learning/static-application-security-testing/owasp-code-review-guide?u=76281980&t=73)** The code review guide focuses on static application security testing activities, while the web security testing guide shifts that focus to dynamic testing.
+> **[1:13](https://www.linkedin.com/learning/static-application-security-testing/owasp-code-review-guide?u=76281980&t=73)** The code review guide focuses on static [[Application Security]] testing activities, while the web [[Security Testing]] guide shifts that focus to dynamic testing.
 >
 > **[1:24](https://www.linkedin.com/learning/static-application-security-testing/owasp-code-review-guide?u=76281980&t=84)** Using both resources in tandem will have a huge positive impact on your application security testing activities.
 >
@@ -1866,7 +1845,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/static-application-security-testing/owasp-code-review-guide?u=76281980&t=114)** The project team understands the importance of applying risk-based intelligence to code security reviews in order to get the most out of your testing activities.
 >
-> **[2:05](https://www.linkedin.com/learning/static-application-security-testing/owasp-code-review-guide?u=76281980&t=125)** Combining that intelligence with threat modeling, you can build a core set of tests that are more likely to reflect actual attacks your application could experience once it goes live.
+> **[2:05](https://www.linkedin.com/learning/static-application-security-testing/owasp-code-review-guide?u=76281980&t=125)** Combining that intelligence with [[Threat Modeling]], you can build a core set of tests that are more likely to reflect actual attacks your application could experience once it goes live.
 >
 > **[2:16](https://www.linkedin.com/learning/static-application-security-testing/owasp-code-review-guide?u=76281980&t=136)** It's also critical for developers and security testers alike to understand how external business drivers might impact code security review activities.
 >
@@ -1928,7 +1907,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (20), [[OWASP]] (9), application (8), [[Code Review]] (7), [[Microsoft]] (3)
+> **Frameworks & Libraries:** [[OWASP]] (9), [[Code Review]] (7), [[Application Security]] (5), [[Microsoft]] (3), [[Threat Modeling]] (3)
 > **Env Vars:** owasp (9), stride (3), dread (3), sdlc (1)
 > **CLI Commands:** find (3), php (1)
 > **URLs:** [mitre.org](https://mitre.org) (1), [usenix.org](https://usenix.org) (1), [php.net](https://php.net) (1), [microsoft.com](https://microsoft.com) (1)
@@ -1937,14 +1916,13 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Static code analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/static-code-analysis?u=76281980)
+#### [Static code analysis](https://www.linkedin.com/learning/static-application-security-testing/static-code-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/static-application-security-testing/static-code-analysis?u=76281980&t=0)** - [Narrator] I've said it before and I'm going to keep saying it.
 >
-> **[0:03](https://www.linkedin.com/learning/static-application-security-testing/static-code-analysis?u=76281980&t=3)** When it comes to application security testing, especially static code analysis, automation is where it's at.
+> **[0:03](https://www.linkedin.com/learning/static-application-security-testing/static-code-analysis?u=76281980&t=3)** When it comes to [[Application Security]] testing, especially static code analysis, automation is where it's at.
 >
 > **[0:11](https://www.linkedin.com/learning/static-application-security-testing/static-code-analysis?u=76281980&t=11)** The only way you're going to achieve the coverage you need to secure your source code, is by adding automated scanners to the mix.
 >
@@ -1958,11 +1936,11 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/static-application-security-testing/static-code-analysis?u=76281980&t=38)** During the documentation review, you should have uncovered the languages that the development team or teams are using.
 >
-> **[0:46](https://www.linkedin.com/learning/static-application-security-testing/static-code-analysis?u=76281980&t=46)** This information is essential when it comes to selecting the tool or tools that you'll use to perform automated static source code security testing.
+> **[0:46](https://www.linkedin.com/learning/static-application-security-testing/static-code-analysis?u=76281980&t=46)** This information is essential when it comes to selecting the tool or tools that you'll use to perform automated static source code [[Security Testing]].
 >
 > **[0:56](https://www.linkedin.com/learning/static-application-security-testing/static-code-analysis?u=76281980&t=56)** Take these three tools for example.
 >
-> **[0:59](https://www.linkedin.com/learning/static-application-security-testing/static-code-analysis?u=76281980&t=59)** If you've ever tested Python apps for security flaws, then you may have heard of Bandit.
+> **[0:59](https://www.linkedin.com/learning/static-application-security-testing/static-code-analysis?u=76281980&t=59)** If you've ever tested [[Python (Programming Language)|Python]] apps for security flaws, then you may have heard of Bandit.
 >
 > **[1:04](https://www.linkedin.com/learning/static-application-security-testing/static-code-analysis?u=76281980&t=64)** Bandit is a free Python security linter, specifically designed to find potential weaknesses in Python code.
 >
@@ -2002,7 +1980,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/static-application-security-testing/static-code-analysis?u=76281980&t=176)** You run the risk of paying for an Aston Martin, when a Honda Civic will do.
 >
-> **[3:01](https://www.linkedin.com/learning/static-application-security-testing/static-code-analysis?u=76281980&t=181)** OWASP maintains a fairly extensive list of source code analysis tools, including tools from both the free and open source community, and commercial tools alike.
+> **[3:01](https://www.linkedin.com/learning/static-application-security-testing/static-code-analysis?u=76281980&t=181)** [[OWASP]] maintains a fairly extensive list of source code analysis tools, including tools from both the free and open source community, and commercial tools alike.
 >
 > **[3:11](https://www.linkedin.com/learning/static-application-security-testing/static-code-analysis?u=76281980&t=191)** The list is offered without opinions on whether tool A is better than tool B, or vice versa.
 >
@@ -2018,7 +1996,7 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/static-application-security-testing/static-code-analysis?u=76281980&t=236)** This is an enormous list of all things AppSec.
 >
-> **[4:00](https://www.linkedin.com/learning/static-application-security-testing/static-code-analysis?u=76281980&t=240)** Everything from static code analyzers, to fuzzers, to SQL injection scanners, to you name it.
+> **[4:00](https://www.linkedin.com/learning/static-application-security-testing/static-code-analysis?u=76281980&t=240)** Everything from static code analyzers, to fuzzers, to [[SQL]] injection scanners, to you name it.
 >
 > **[4:08](https://www.linkedin.com/learning/static-application-security-testing/static-code-analysis?u=76281980&t=248)** This list is on the archive section of the OWASP website.
 >
@@ -2030,7 +2008,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (11), [[Python (Programming Language)|Python]] (4), [[OWASP]] (3), application (2), [[Programming]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[OWASP]] (3), [[Application Security]] (2), [[Security Testing]] (1), [[SQL]] (1)
 > **CLI Commands:** python (4), ruby (3), find (1), rails (1), make (1)
 > **Exercise Files:** source code (7)
 > **Definitions:** is a  (4), is an  (1)
@@ -2039,8 +2017,7 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Prerequisites:** you'll need (1)
 
-#### Code review models
-> [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/code-review-models?u=76281980)
+#### [Code review models](https://www.linkedin.com/learning/static-application-security-testing/code-review-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2064,13 +2041,13 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/static-application-security-testing/code-review-models?u=76281980&t=86)** Processes, resources, tools, timelines, and training.
 >
-> **[1:32](https://www.linkedin.com/learning/static-application-security-testing/code-review-models?u=76281980&t=92)** Take your knowledge of where your organization stands today and what you think they're capable of tackling and apply that knowledge as you attempt to balance the cost of achieving an appropriate level of application security.
+> **[1:32](https://www.linkedin.com/learning/static-application-security-testing/code-review-models?u=76281980&t=92)** Take your knowledge of where your organization stands today and what you think they're capable of tackling and apply that knowledge as you attempt to balance the cost of achieving an appropriate level of [[Application Security]].
 >
 > **[1:46](https://www.linkedin.com/learning/static-application-security-testing/code-review-models?u=76281980&t=106)** With the risk appetite of your organization's leadership, you might not be willing to take certain risks that your C-level executives consider not just tolerable, but expected.
 >
-> **[1:58](https://www.linkedin.com/learning/static-application-security-testing/code-review-models?u=76281980&t=118)** If you really want an enterprise-grade automated code scanner, but your CFO has that money reserve for opening a new office in Albuquerque, then you might need to settle for a formal walkthrough approach until your next budget cycle.
+> **[1:58](https://www.linkedin.com/learning/static-application-security-testing/code-review-models?u=76281980&t=118)** If you really want an enterprise-grade automated code scanner, but your CFO has that money reserve for opening a new [[Microsoft Office|office]] in Albuquerque, then you might need to settle for a formal walkthrough approach until your next budget cycle.
 >
-> **[2:12](https://www.linkedin.com/learning/static-application-security-testing/code-review-models?u=76281980&t=132)** Regardless of the model you choose, you should keep the OWASP code review guide front and center when it comes to your day-to-day code security review activities.
+> **[2:12](https://www.linkedin.com/learning/static-application-security-testing/code-review-models?u=76281980&t=132)** Regardless of the model you choose, you should keep the [[OWASP]] [[Code Review]] guide front and center when it comes to your day-to-day code security review activities.
 >
 > **[2:22](https://www.linkedin.com/learning/static-application-security-testing/code-review-models?u=76281980&t=142)** The appendix of the testing guide contains a code review checklist that you can use as a sounding board for any code review model from light touch over-the-shoulder reviews to fully automated reviews.
 >
@@ -2084,7 +2061,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/static-application-security-testing/code-review-models?u=76281980&t=176)** Reviewing the entire checklist can be time-consuming, especially the first time you introduce it, but you could always introduce it in chunks.
 >
-> **[3:05](https://www.linkedin.com/learning/static-application-security-testing/code-review-models?u=76281980&t=185)** Maybe you focus on cryptography the first time around, and then session management the next time.
+> **[3:05](https://www.linkedin.com/learning/static-application-security-testing/code-review-models?u=76281980&t=185)** Maybe you focus on [[Cryptography]] the first time around, and then session management the next time.
 >
 > **[3:11](https://www.linkedin.com/learning/static-application-security-testing/code-review-models?u=76281980&t=191)** Cycle through each section to keep that checklist manageable.
 >
@@ -2096,7 +2073,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/static-application-security-testing/code-review-models?u=76281980&t=210)** First and foremost, don't review too much at once.
 >
-> **[3:34](https://www.linkedin.com/learning/static-application-security-testing/code-review-models?u=76281980&t=214)** Rome wasn't built in a day and neither was a completely secure e-commerce application.
+> **[3:34](https://www.linkedin.com/learning/static-application-security-testing/code-review-models?u=76281980&t=214)** Rome wasn't built in a day and neither was a completely secure [[E-Commerce]] application.
 >
 > **[3:40](https://www.linkedin.com/learning/static-application-security-testing/code-review-models?u=76281980&t=220)** Limit the number of lines and functions that you review to an amount that both the reviewers and the original developers can focus on without getting too distracted.
 >
@@ -2152,7 +2129,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (11), application (8), [[OWASP]] (5), [[Code Review]] (4), next (3)
+> **Frameworks & Libraries:** [[Application Security]] (5), [[OWASP]] (5), [[Code Review]] (4), [[Microsoft Office|Office]] (1), [[Cryptography]] (1)
 > **Env Vars:** owasp (5), cfo (1), covid (1), iso (1)
 > **CLI Commands:** make (2), find (1)
 > **Exercise Files:** source code (2)
@@ -2161,16 +2138,15 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Application threat modeling: STRIDE
-> [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/application-threat-modeling-stride?u=76281980)
+#### [Application threat modeling: STRIDE](https://www.linkedin.com/learning/static-application-security-testing/application-threat-modeling-stride?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/static-application-security-testing/application-threat-modeling-stride?u=76281980&t=0)** - [Instructor] Earlier in this course, 2 I promised to go into threat modeling in more detail. 3 Here's where I make good on that promise. 4 Let's start our threat modeling conversation 5 by taking a closer look at STRIDE. 6 In 2009, Praerit Garg and Loren Kohnfelder from Microsoft 7 developed a model for considering threats 8 to the confidentiality, integrity, 9 and availability of applications, 10 and the data that those applications process. 11 Their intent was to help defenders identify the threats 12 to those applications so that those developers 13 and the security teams could take necessary steps 14 to mitigate those threats before something bad happened. 15 They chose the mnemonic, STRIDE, to make it easier 16 for those defenders to remember and to apply this model. 17
+> **[0:00](https://www.linkedin.com/learning/static-application-security-testing/application-threat-modeling-stride?u=76281980&t=0)** - [Instructor] Earlier in this course, 2 I promised to go into [[Threat Modeling]] in more detail. 3 Here's where I make good on that promise. 4 Let's start our threat modeling conversation 5 by taking a closer look at STRIDE. 6 In 2009, Praerit Garg and Loren Kohnfelder from [[Microsoft]] 7 developed a model for considering threats 8 to the confidentiality, integrity, 9 and availability of applications, 10 and the data that those applications process. 11 Their intent was to help defenders identify the threats 12 to those applications so that those developers 13 and the security teams could take necessary steps 14 to mitigate those threats before something bad happened. 15 They chose the mnemonic, STRIDE, to make it easier 16 for those defenders to remember and to apply this model. 17
 >
-> **[0:50](https://www.linkedin.com/learning/static-application-security-testing/application-threat-modeling-stride?u=76281980&t=50)** The first letter, S, 18 represents the Spoofing threat category. 19 Threats of this nature involve hijacking 20 another user's identity. 21 An example of this would be logging into an application 22 with someone else's password. 23 Spoofing threats represent a risk 24 to the authenticity of transactions within the application. 25 If an attacker logs into your online banking app 26 using your username and password, 27 what could they do with that access? 28 Empty your bank account, set up an autopay, 29 change your password and lock you out of your own account? 30 And when considering spoofing threats, 31 you should discuss how an attacker might compromise 32 a user's credentials, 33 as well as what the attacker could do 34 with those stolen credentials. 35
+> **[0:50](https://www.linkedin.com/learning/static-application-security-testing/application-threat-modeling-stride?u=76281980&t=50)** The first letter, S, 18 represents the Spoofing threat category. 19 Threats of this nature involve hijacking 20 another user's identity. 21 An example of this would be logging into an application 22 with someone else's password. 23 Spoofing threats represent a risk 24 to the authenticity of transactions within the application. 25 If an attacker logs into your online [[Banking]] app 26 using your username and password, 27 what could they do with that access? 28 Empty your bank account, set up an autopay, 29 change your password and lock you out of your own account? 30 And when considering spoofing threats, 31 you should discuss how an attacker might compromise 32 a user's credentials, 33 as well as what the attacker could do 34 with those stolen credentials. 35
 >
-> **[1:39](https://www.linkedin.com/learning/static-application-security-testing/application-threat-modeling-stride?u=76281980&t=99)** The second letter, T, 36 represents the tampering threat category. 37 Threats of this nature involve maliciously modifying data, 38 either at-rest or in motion. 39 An example of this would be exploiting 40 a SQL injection flaw to make unauthorized changes 41 to the database. 42 Tampering threats represent a risk 43 to the integrity of the application data. 44 Could an attacker exploit an injection flaw 45 like the one I just mentioned? 46 What about compromising data in motion? 47 Could an attacker intercept a transaction 48 destined for that online banking app 49 and change the account numbers in flight, 50 moving money into their account 51 without ever logging into the application? 52 When considering tampering threats, 53 you should discuss how an attacker 54
+> **[1:39](https://www.linkedin.com/learning/static-application-security-testing/application-threat-modeling-stride?u=76281980&t=99)** The second letter, T, 36 represents the tampering threat category. 37 Threats of this nature involve maliciously modifying data, 38 either at-[[Representational State Transfer (REST)|rest]] or in motion. 39 An example of this would be exploiting 40 a [[SQL]] injection flaw to make unauthorized changes 41 to the database. 42 Tampering threats represent a risk 43 to the integrity of the application data. 44 Could an attacker exploit an injection flaw 45 like the one I just mentioned? 46 What about compromising data in motion? 47 Could an attacker intercept a transaction 48 destined for that online banking app 49 and change the account numbers in flight, 50 moving money into their account 51 without ever logging into the application? 52 When considering tampering threats, 53 you should discuss how an attacker 54
 >
 > **[2:27](https://www.linkedin.com/learning/static-application-security-testing/application-threat-modeling-stride?u=76281980&t=147)** might compromise data at rest and data in motion. 55 The third letter, R, 56 represents the Repudiation threat category. 57 It might be easier to think of this 58 in a physical sense first. 59 Suppose an Amazon delivery person shows up 60 and asks you to sign for a package. 61 You refuse, but that delivery person is in a hurry, 62 so they leave the package on your doorstep anyway. 63 You then go online, 64 insist that you never received your package 65 and demand a refund. 66 Without your signature to prove 67 that you acknowledge receipt of the package, 68 Amazon may have a hard time keeping your money. 69 Now, I know that you wouldn't do something like that, 70 you're the standup person. 71 But an attacker who targets your web application, 72 someone who finds a way to trigger transactions 73
 >
@@ -2178,7 +2154,7 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/static-application-security-testing/application-threat-modeling-stride?u=76281980&t=244)** from another user's account information, 94 to application configuration files. 95 Information disclosure threats represent a risk 96 to the confidentiality of both the application data 97 and to the configuration data. 98 An attacker who can see someone else's medical records 99 might sell that information on the dark web, 100 an incident that is clearly a reportable data breach. 101 An attacker who can access configuration files though, 102 might be able to take over the entire application. 103 Think of information disclosure threats 104 as similar to tampering threats, 105 only potentially easier to act on. 106 Instead of needing the ability 107 to change data at rest or in motion, 108 the attacker would only need the ability to read that data. 109 The fifth letter, D, 110
 >
-> **[4:55](https://www.linkedin.com/learning/static-application-security-testing/application-threat-modeling-stride?u=76281980&t=295)** represents the Denial of Service threat category. 111 Threats of this nature involve denying access or services 112 to authorized users. 113 An example of this would be exploiting 114 the account lockout feature, 115 intentionally submitting enough failed on attempts 116 to lock a user out of the application. 117 Denial-of-service threats represent a risk 118 to the availability of the application. 119 These threats could be realized 120 by exploiting security mechanisms 121 like the one I just mentioned, 122 or by taking advantage 123 of insufficient hardware infrastructure 124 beneath the application itself. 125 I've worked on distributed denial service incidents 126 where attackers simply send more requests 127 than the application 128 and the application infrastructure is able to handle. 129 The end result was that anyone attempting to use 130
+> **[4:55](https://www.linkedin.com/learning/static-application-security-testing/application-threat-modeling-stride?u=76281980&t=295)** represents the Denial of Service threat category. 111 Threats of this nature involve denying access or services 112 to authorized users. 113 An example of this would be exploiting 114 the account lockout feature, 115 intentionally submitting enough failed on attempts 116 to lock a user out of the application. 117 Denial-of-service threats represent a risk 118 to the availability of the application. 119 These threats could be realized 120 by exploiting security mechanisms 121 like the one I just mentioned, 122 or by taking advantage 123 of insufficient [[Hardware]] infrastructure 124 beneath the application itself. 125 I've worked on distributed denial service incidents 126 where attackers simply send more requests 127 than the application 128 and the application infrastructure is able to handle. 129 The end result was that anyone attempting to use 130
 >
 > **[5:45](https://www.linkedin.com/learning/static-application-security-testing/application-threat-modeling-stride?u=76281980&t=345)** that application got a timeout screen instead. 131 When considering denial-of-service threats, 132 you should discuss how an attacker might compromise 133 both application and infrastructure weaknesses 134 to disrupt service availability to legitimate users. 135 The sixth letter, E, 136 represents the Elevation of Privilege threat category. 137 Threats of this nature involve abusing privileges 138 that shouldn't have been assigned 139 to the account used by the attacker. 140 When STRIDE was originally released, 141 they chose the term, elevation, 142 although today, it's more commonly referred to 143 as escalation of privilege. 144 Elevation of privilege threats 145 represent a risk to the authorization controls 146 within the application. 147
 >
@@ -2186,11 +2162,11 @@ created: 2026-05-02
 >
 > **[7:22](https://www.linkedin.com/learning/static-application-security-testing/application-threat-modeling-stride?u=76281980&t=442)** on one or more of these threat categories. 167 When STRIDE was first proposed, 168 the goal was to attempt to identify 20 to 40 threats 169 in a two-hour meeting. 170 Given the actual attack data 171 that's been made public 172 since STRIDE was originally released, 173 I have a hunch that you could easily 174 top 40 relevant threats within that window. 175 The trick to successfully applying 176 a threat model like STRIDE 177 is to get the right people in the room. 178 If you don't have at least one person in the room 179 who thinks like an attacker, 180 it's going to be a very boring meeting 181 and no one wants that, trust me. 182 Start with a short meeting. 183 Let the people in the room know what your goals are 184 and let the conversation go where it needs to go. 185 In my opinion, it's entirely appropriate 186
 >
-> **[8:11](https://www.linkedin.com/learning/static-application-security-testing/application-threat-modeling-stride?u=76281980&t=491)** for people to have their phones out during this meeting. 187 Let them do a few searches on Google and DuckDuckGo. 188 Challenge them to identify a threat 189 that hasn't been discussed yet. 190 Encourage them to think like attackers. 191 The end result of the exercise 192 will be that much better for it.
+> **[8:11](https://www.linkedin.com/learning/static-application-security-testing/application-threat-modeling-stride?u=76281980&t=491)** for people to have their phones out during this meeting. 187 Let them do a few searches on [[Google]] and DuckDuckGo. 188 Challenge them to identify a threat 189 that hasn't been discussed yet. 190 Encourage them to think like attackers. 191 The end result of the exercise 192 will be that much better for it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (17), data (12), [[Representational State Transfer (REST)|Rest]] (3), [[Threat Modeling]] (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[Threat Modeling]] (2), [[Banking]] (2), [[Microsoft]] (1), [[SQL]] (1)
 > **Env Vars:** stride (7), sql (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** earlier in (1)
@@ -2199,14 +2175,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Application threat modeling: DREAD
-> [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/application-threat-modeling-dread?u=76281980)
+#### [Application threat modeling: DREAD](https://www.linkedin.com/learning/static-application-security-testing/application-threat-modeling-dread?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/static-application-security-testing/application-threat-modeling-dread?u=76281980&t=0)** - [Instructor] Similar to STRIDE, DREAD is another threat modeling approach included in the OWASP Code Review Guide.
+> **[0:00](https://www.linkedin.com/learning/static-application-security-testing/application-threat-modeling-dread?u=76281980&t=0)** - [Instructor] Similar to STRIDE, DREAD is another [[Threat Modeling]] approach included in the [[OWASP]] [[Code Review]] Guide.
 >
-> **[0:07](https://www.linkedin.com/learning/static-application-security-testing/application-threat-modeling-dread?u=76281980&t=7)** DREAD also found its origins within Microsoft although they stopped using it internally by 2008.
+> **[0:07](https://www.linkedin.com/learning/static-application-security-testing/application-threat-modeling-dread?u=76281980&t=7)** DREAD also found its origins within [[Microsoft]] although they stopped using it internally by 2008.
 >
 > **[0:14](https://www.linkedin.com/learning/static-application-security-testing/application-threat-modeling-dread?u=76281980&t=14)** Keep in mind though that the DREAD creators weren't pushing for an academically vetted international standard for quantifying and qualifying risks; they were just looking for a better way to manage discussions around risks and threats, and they kept DREAD deliberately simple in an effort to accomplish that goal.
 >
@@ -2214,7 +2189,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/static-application-security-testing/application-threat-modeling-dread?u=76281980&t=46)** The first D in DREAD represents the damage attribute.
 >
-> **[0:51](https://www.linkedin.com/learning/static-application-security-testing/application-threat-modeling-dread?u=76281980&t=51)** If you're familiar with the NIST risk assessment model, this DREAD attribute maps directly to impact.
+> **[0:51](https://www.linkedin.com/learning/static-application-security-testing/application-threat-modeling-dread?u=76281980&t=51)** If you're familiar with the [[NIST]] risk assessment model, this DREAD attribute maps directly to impact.
 >
 > **[0:58](https://www.linkedin.com/learning/static-application-security-testing/application-threat-modeling-dread?u=76281980&t=58)** Its primary concern is how bad things would really be if an attacker was successful.
 >
@@ -2276,7 +2251,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OWASP]] (6), [[Code Review]] (6), [[Threat Modeling]] (4), [[Security]] (4), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[OWASP]] (6), [[Code Review]] (6), [[Threat Modeling]] (4), [[Microsoft]] (2), [[NIST]] (1)
 > **Env Vars:** dread (12), owasp (6), stride (1), nist (1)
 > **CLI Commands:** make (2)
 > **Analogies:** similar to (1), for example (1)
@@ -2285,12 +2260,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Code review metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/code-review-metrics?u=76281980)
+#### [Code review metrics](https://www.linkedin.com/learning/static-application-security-testing/code-review-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/static-application-security-testing/code-review-metrics?u=76281980&t=0)** - [Narrator] I mentioned earlier in this course that you can't effectively manage your application security efforts without the right measurements.
+> **[0:00](https://www.linkedin.com/learning/static-application-security-testing/code-review-metrics?u=76281980&t=0)** - [Narrator] I mentioned earlier in this course that you can't effectively manage your [[Application Security]] efforts without the right measurements.
 >
 > **[0:07](https://www.linkedin.com/learning/static-application-security-testing/code-review-metrics?u=76281980&t=7)** This is where metrics come into play.
 >
@@ -2358,7 +2332,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/static-application-security-testing/code-review-metrics?u=76281980&t=219)** For this reason, application security vulnerabilities are also a key metric that developers should be interested in.
 >
-> **[3:47](https://www.linkedin.com/learning/static-application-security-testing/code-review-metrics?u=76281980&t=227)** If, for example, an application code base is riddled with dozens of injection flaws, then someone on the development team needs to read the OWASP Injection Prevention Cheat Sheet.
+> **[3:47](https://www.linkedin.com/learning/static-application-security-testing/code-review-metrics?u=76281980&t=227)** If, for example, an application code base is riddled with dozens of injection flaws, then someone on the development team needs to read the [[OWASP]] Injection Prevention Cheat Sheet.
 >
 > **[4:01](https://www.linkedin.com/learning/static-application-security-testing/code-review-metrics?u=76281980&t=241)** OWASP launched a project to help organizations define and capture metrics around the security of the organization's applications.
 >
@@ -2380,7 +2354,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (22), application (15), [[OWASP]] (5), business (3), management (3)
+> **Frameworks & Libraries:** [[Application Security]] (13), [[OWASP]] (5)
 > **Env Vars:** owasp (5), pdf (1), sdlc (1)
 > **CLI Commands:** make (2), find (1)
 > **Exercise Files:** source code (2)
@@ -2389,8 +2363,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [narrator] (1)
 
-#### Demo: Codacy
-> [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/demo-codacy?u=76281980)
+#### [Demo: Codacy](https://www.linkedin.com/learning/static-application-security-testing/demo-codacy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2404,7 +2377,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/static-application-security-testing/demo-codacy?u=76281980&t=29)** Quality enables you to gather code quality metrics.
 >
-> **[0:33](https://www.linkedin.com/learning/static-application-security-testing/demo-codacy?u=76281980&t=33)** You authenticate to either GitHub, Bitbucket, or GitLab.
+> **[0:33](https://www.linkedin.com/learning/static-application-security-testing/demo-codacy?u=76281980&t=33)** You authenticate to either [[GitHub]], [[Bitbucket]], or GitLab.
 >
 > **[0:37](https://www.linkedin.com/learning/static-application-security-testing/demo-codacy?u=76281980&t=37)** You authorize Codacy to analyze your code repositories, and the product generates a report that captures a broad set of metrics.
 >
@@ -2438,7 +2411,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/static-application-security-testing/demo-codacy?u=76281980&t=150)** Now here you can see a handful of repos that I've already added.
 >
-> **[2:35](https://www.linkedin.com/learning/static-application-security-testing/demo-codacy?u=76281980&t=155)** We'll actually walk through the process of adding a repo, specifically the OWASP Vulnerable Web Application.
+> **[2:35](https://www.linkedin.com/learning/static-application-security-testing/demo-codacy?u=76281980&t=155)** We'll actually walk through the process of adding a repo, specifically the [[OWASP]] Vulnerable Web Application.
 >
 > **[2:44](https://www.linkedin.com/learning/static-application-security-testing/demo-codacy?u=76281980&t=164)** Now, this is important, here you can see that the OWASP repo is public, and, again, Codacy can only see public repos.
 >
@@ -2496,7 +2469,7 @@ created: 2026-05-02
 >
 > **[6:24](https://www.linkedin.com/learning/static-application-security-testing/demo-codacy?u=76281980&t=384)** So click on Security.
 >
-> **[6:28](https://www.linkedin.com/learning/static-application-security-testing/demo-codacy?u=76281980&t=388)** For the first vulnerability in the list, we can see the location of the vulnerability, this particular PHP file.
+> **[6:28](https://www.linkedin.com/learning/static-application-security-testing/demo-codacy?u=76281980&t=388)** For the first vulnerability in the list, we can see the location of the vulnerability, this particular [[PHP]] file.
 >
 > **[6:35](https://www.linkedin.com/learning/static-application-security-testing/demo-codacy?u=76281980&t=395)** A description of the vulnerability, that the output should be run through an escaping function, and a criticality.
 >
@@ -2506,7 +2479,7 @@ created: 2026-05-02
 >
 > **[6:51](https://www.linkedin.com/learning/static-application-security-testing/demo-codacy?u=76281980&t=411)** Open this up, and the estimated time to fix this issue, five minutes.
 >
-> **[6:58](https://www.linkedin.com/learning/static-application-security-testing/demo-codacy?u=76281980&t=418)** Codacy points the developer to the specific line of code with the vulnerability, a brief explanation in the tool as to why this is an issue, and a link to more details on the Codacy website that can serve as real-time training for developers when issues like this are identified.
+> **[6:58](https://www.linkedin.com/learning/static-application-security-testing/demo-codacy?u=76281980&t=418)** Codacy points the developer to the specific line of code with the vulnerability, a brief explanation in the tool as to why this is an issue, and a link to more details on the Codacy website that can serve as [[Real-Time]] training for developers when issues like this are identified.
 >
 > **[7:18](https://www.linkedin.com/learning/static-application-security-testing/demo-codacy?u=76281980&t=438)** Now, as you can imagine, with over 500 security issues identified by this tool, it would fall to you, the security tester, to help prioritize the items that need fixed.
 >
@@ -2518,7 +2491,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (9), [[GitHub]] (5), [[OWASP]] (4), application (4), web (3)
+> **Frameworks & Libraries:** [[GitHub]] (5), [[OWASP]] (4), [[Bitbucket]] (1), [[PHP]] (1), [[Real-Time]] (1)
 > **UI Navigation:** navigate to (2), click on (2), select the (1), in the menu (1), go to (1)
 > **Tools:** github (5), bitbucket (1), gitlab (1)
 > **CLI Commands:** make (4), cd (1), php (1)
@@ -2527,18 +2500,17 @@ created: 2026-05-02
 > **URLs:** [codacy.com](https://codacy.com) (1)
 > **Cross-References:** go back to (1)
 
-#### Demo: SonarQube
-> [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/demo-sonarqube?u=76281980)
+#### [Demo: SonarQube](https://www.linkedin.com/learning/static-application-security-testing/demo-sonarqube?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/static-application-security-testing/demo-sonarqube?u=76281980&t=0)** - [Instructor] SonarQube is another code quality tool that includes security testing and analysis.
+> **[0:00](https://www.linkedin.com/learning/static-application-security-testing/demo-sonarqube?u=76281980&t=0)** - [Instructor] SonarQube is another code quality tool that includes [[Security Testing]] and analysis.
 >
-> **[0:06](https://www.linkedin.com/learning/static-application-security-testing/demo-sonarqube?u=76281980&t=6)** It supports over 30 different programming languages as well as multiple build systems and continuous integration systems.
+> **[0:06](https://www.linkedin.com/learning/static-application-security-testing/demo-sonarqube?u=76281980&t=6)** It supports over 30 different programming languages as well as multiple build systems and [[Continuous Integration (CI)|continuous integration]] systems.
 >
 > **[0:15](https://www.linkedin.com/learning/static-application-security-testing/demo-sonarqube?u=76281980&t=15)** You can learn more about SonarQube at [sonarqube.com](https://sonarqube.com).
 >
-> **[0:20](https://www.linkedin.com/learning/static-application-security-testing/demo-sonarqube?u=76281980&t=20)** SonarQube takes a governance based approach to managing your application security portfolio with a focus that goes above and beyond traditional security.
+> **[0:20](https://www.linkedin.com/learning/static-application-security-testing/demo-sonarqube?u=76281980&t=20)** SonarQube takes a governance based approach to managing your [[Application Security]] portfolio with a focus that goes above and beyond traditional security.
 >
 > **[0:30](https://www.linkedin.com/learning/static-application-security-testing/demo-sonarqube?u=76281980&t=30)** SonarQube also scores applications on things like releasability, reliability, and maintainability.
 >
@@ -2552,9 +2524,9 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/static-application-security-testing/demo-sonarqube?u=76281980&t=64)** So I recommend you start with the Community Edition before deciding whether or not you need their commercial solution.
 >
-> **[1:12](https://www.linkedin.com/learning/static-application-security-testing/demo-sonarqube?u=76281980&t=72)** If you don't want to install anything on your laptop or your internal network, you could use SonarCloud instead, their software as a service offering.
+> **[1:12](https://www.linkedin.com/learning/static-application-security-testing/demo-sonarqube?u=76281980&t=72)** If you don't want to install anything on your laptop or your internal network, you could use SonarCloud instead, their [[SaaS|software as a service]] offering.
 >
-> **[1:22](https://www.linkedin.com/learning/static-application-security-testing/demo-sonarqube?u=76281980&t=82)** You can log into SonarCloud using your GitHub, Bitbucket, GitLab, or Azure DevOps account.
+> **[1:22](https://www.linkedin.com/learning/static-application-security-testing/demo-sonarqube?u=76281980&t=82)** You can log into SonarCloud using your [[GitHub]], [[Bitbucket]], GitLab, or [[Microsoft Azure|Azure]] [[DevOps]] account.
 >
 > **[1:29](https://www.linkedin.com/learning/static-application-security-testing/demo-sonarqube?u=76281980&t=89)** That Azure integration is one of the most notable differences between SonarCloud and Codacy.
 >
@@ -2562,7 +2534,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/static-application-security-testing/demo-sonarqube?u=76281980&t=105)** Let's log into SonarCloud and see what it looks like when we analyze an open source project.
 >
-> **[1:52](https://www.linkedin.com/learning/static-application-security-testing/demo-sonarqube?u=76281980&t=112)** When you navigate to [sonarqube.com](https://sonarqube.com), it will redirect you to the Sonar Cube Marketing website, which ultimately gives you the opportunity to try out their SaaS product.
+> **[1:52](https://www.linkedin.com/learning/static-application-security-testing/demo-sonarqube?u=76281980&t=112)** When you navigate to [sonarqube.com](https://sonarqube.com), it will redirect you to the Sonar Cube Marketing website, which ultimately gives you the opportunity to try out their [[SaaS]] product.
 >
 > **[2:05](https://www.linkedin.com/learning/static-application-security-testing/demo-sonarqube?u=76281980&t=125)** That brings you to the login page.
 >
@@ -2602,11 +2574,11 @@ created: 2026-05-02
 >
 > **[4:41](https://www.linkedin.com/learning/static-application-security-testing/demo-sonarqube?u=76281980&t=281)** When you click on one of those items, for example, it takes you right to the line of code, line 89 says, processRequest(request, response).
 >
-> **[4:50](https://www.linkedin.com/learning/static-application-security-testing/demo-sonarqube?u=76281980&t=290)** Now, what should happen in a more security conscious shop is that you should have a try-catch statement in the Java code where it's going to try to do this action.
+> **[4:50](https://www.linkedin.com/learning/static-application-security-testing/demo-sonarqube?u=76281980&t=290)** Now, what should happen in a more security conscious shop is that you should have a try-catch statement in the [[Java]] code where it's going to try to do this action.
 >
 > **[5:02](https://www.linkedin.com/learning/static-application-security-testing/demo-sonarqube?u=76281980&t=302)** But if something fails, instead of just throwing all of the error messages on screen, you can have the application take a specific action, maybe redirect the the user to a specific page, maybe display a specific error message.
 >
-> **[5:19](https://www.linkedin.com/learning/static-application-security-testing/demo-sonarqube?u=76281980&t=319)** And so every one of these issues, these vulnerabilities that were flagged as minor, would actually in the OWASP Top 10 be considered information leakage or disclosure.
+> **[5:19](https://www.linkedin.com/learning/static-application-security-testing/demo-sonarqube?u=76281980&t=319)** And so every one of these issues, these vulnerabilities that were flagged as minor, would actually in the [[OWASP]] Top 10 be considered information leakage or disclosure.
 >
 > **[5:32](https://www.linkedin.com/learning/static-application-security-testing/demo-sonarqube?u=76281980&t=332)** But if you go over to security hotspots, this is where you're more likely to find the more significant vulnerabilities.
 >
@@ -2628,11 +2600,11 @@ created: 2026-05-02
 >
 > **[6:45](https://www.linkedin.com/learning/static-application-security-testing/demo-sonarqube?u=76281980&t=405)** Most importantly, how do I fix it?
 >
-> **[6:49](https://www.linkedin.com/learning/static-application-security-testing/demo-sonarqube?u=76281980&t=409)** And I've worked with organizations who've implemented this tool into their workflows so that they're able to take these findings and send them directly to a bug tracking system like Jira, enabling developers to quickly identify and remediate the more significant vulnerabilities that represent risk to your application and to your business.
+> **[6:49](https://www.linkedin.com/learning/static-application-security-testing/demo-sonarqube?u=76281980&t=409)** And I've worked with organizations who've implemented this tool into their workflows so that they're able to take these findings and send them directly to a bug tracking system like [[Jira]], enabling developers to quickly identify and remediate the more significant vulnerabilities that represent risk to your application and to your business.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (10), application (5), [[GitHub]] (3), data (2), [[Microsoft Azure|Azure]] (2)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Microsoft Azure|Azure]] (2), [[Security Testing]] (1), [[Continuous Integration (CI)|Continuous integration]] (1), [[Application Security]] (1)
 > **Tools:** github (3), bitbucket (1), gitlab (1), jira (1)
 > **UI Navigation:** click on (3), navigate to (1)
 > **URLs:** [sonarqube.com](https://sonarqube.com) (2), [sonarcloud.io](https://sonarcloud.io) (1)
@@ -2646,8 +2618,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The OWASP Top 10
-> [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/the-owasp-top-10-22186228?u=76281980)
+#### [The OWASP Top 10](https://www.linkedin.com/learning/static-application-security-testing/the-owasp-top-10-22186228?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2659,17 +2630,17 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/static-application-security-testing/the-owasp-top-10-22186228?u=76281980&t=21)** Walk, then run.
 >
-> **[0:23](https://www.linkedin.com/learning/static-application-security-testing/the-owasp-top-10-22186228?u=76281980&t=23)** A great way to get your feet under you is by focusing on the OWASP Top 10.
+> **[0:23](https://www.linkedin.com/learning/static-application-security-testing/the-owasp-top-10-22186228?u=76281980&t=23)** A great way to get your feet under you is by focusing on the [[OWASP]] Top 10.
 >
 > **[0:30](https://www.linkedin.com/learning/static-application-security-testing/the-owasp-top-10-22186228?u=76281980&t=30)** The OWASP Top 10 project is hands down, the most mature, most popular project in the OWASP Project library.
 >
 > **[0:39](https://www.linkedin.com/learning/static-application-security-testing/the-owasp-top-10-22186228?u=76281980&t=39)** Well, this began as a thought experiment in the early two 2000s.
 >
-> **[0:44](https://www.linkedin.com/learning/static-application-security-testing/the-owasp-top-10-22186228?u=76281980&t=44)** This list of the 10 most critical web app security risks has become the cornerstone of the application security industry.
+> **[0:44](https://www.linkedin.com/learning/static-application-security-testing/the-owasp-top-10-22186228?u=76281980&t=44)** This list of the 10 most critical web app security risks has become the cornerstone of the [[Application Security]] industry.
 >
 > **[0:53](https://www.linkedin.com/learning/static-application-security-testing/the-owasp-top-10-22186228?u=76281980&t=53)** Updated every three years, the top 10 list is first released in English and then translated into multiple languages, making it accessible to developers and security professionals all around the world.
 >
-> **[1:07](https://www.linkedin.com/learning/static-application-security-testing/the-owasp-top-10-22186228?u=76281980&t=67)** Given the increasing popularity of the list over the years, you can now find tests and reports based on the OWASP Top 10 built into a significant number of web application security tools, both commercial and open source.
+> **[1:07](https://www.linkedin.com/learning/static-application-security-testing/the-owasp-top-10-22186228?u=76281980&t=67)** Given the increasing popularity of the list over the years, you can now find tests and reports based on the OWASP Top 10 built into a significant number of [[Web Application Security]] tools, both commercial and open source.
 >
 > **[1:24](https://www.linkedin.com/learning/static-application-security-testing/the-owasp-top-10-22186228?u=76281980&t=84)** While the top 10 web application security risks works well as a standalone project, there are two related projects that you should consider as you're building out your foundational testing program.
 >
@@ -2707,17 +2678,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (16), [[OWASP]] (10), mobile application (5), web (3), web application (3)
+> **Frameworks & Libraries:** [[OWASP]] (10), [[Application Security]] (6), [[Web Application Security]] (3)
 > **Env Vars:** owasp (10)
 > **CLI Commands:** find (1)
 > **Speakers:** - [narrator] (1)
 
-#### A1: Broken access controls
-> [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/a1-broken-access-controls?u=76281980)
+#### [A1: Broken access controls](https://www.linkedin.com/learning/static-application-security-testing/a1-broken-access-controls?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/static-application-security-testing/a1-broken-access-controls?u=76281980&t=0)** - [Instructor] The most significant risks in the OWASP top 10 list are broken access control flaws.
+> **[0:00](https://www.linkedin.com/learning/static-application-security-testing/a1-broken-access-controls?u=76281980&t=0)** - [Instructor] The most significant risks in the [[OWASP]] top 10 list are broken access control flaws.
 >
 > **[0:07](https://www.linkedin.com/learning/static-application-security-testing/a1-broken-access-controls?u=76281980&t=7)** You learned about broken authentication earlier on keeping unauthorized users out of the application but you also need to make sure the application enforces the right security on users after they successfully log in.
 >
@@ -2725,7 +2695,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/static-application-security-testing/a1-broken-access-controls?u=76281980&t=27)** If access controls aren't properly enforced though, an attacker could potentially have access to functions and data that belong to another user.
 >
-> **[0:38](https://www.linkedin.com/learning/static-application-security-testing/a1-broken-access-controls?u=76281980&t=38)** While automated tools might be able to detect whether access controls are missing, you really need to rely on manual testing to make sure that the access controls are properly aligned with your business rules.
+> **[0:38](https://www.linkedin.com/learning/static-application-security-testing/a1-broken-access-controls?u=76281980&t=38)** While automated tools might be able to detect whether access controls are missing, you really need to rely on [[Manual Testing]] to make sure that the access controls are properly aligned with your business rules.
 >
 > **[0:51](https://www.linkedin.com/learning/static-application-security-testing/a1-broken-access-controls?u=76281980&t=51)** That lack of automated detection is one of the reasons it's so easy for broken access controls to slip into an application.
 >
@@ -2769,7 +2739,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/static-application-security-testing/a1-broken-access-controls?u=76281980&t=207)** Using your framework as a guide, you can get as detailed as you'd like regarding who has access to what.
 >
-> **[3:34](https://www.linkedin.com/learning/static-application-security-testing/a1-broken-access-controls?u=76281980&t=214)** A matrix that shows exactly which pages a role can access, and which forms and buttons on that page a particular role can use would be truly magical.
+> **[3:34](https://www.linkedin.com/learning/static-application-security-testing/a1-broken-access-controls?u=76281980&t=214)** A matrix that shows exactly which pages a role can access, and which [[Forms]] and buttons on that page a particular role can use would be truly magical.
 >
 > **[3:46](https://www.linkedin.com/learning/static-application-security-testing/a1-broken-access-controls?u=76281980&t=226)** These access rights are going to map back to either an internal access management engine or to an external directory.
 >
@@ -2815,7 +2785,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), management (6), [[Security]] (4), [[OWASP]] (3), business (3)
+> **Frameworks & Libraries:** [[OWASP]] (3), [[Manual Testing]] (1), [[Forms]] (1)
 > **Env Vars:** owasp (3), api (3)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (2)
@@ -2823,12 +2793,11 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### A2: Cryptographic failures
-> [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/a2-cryptographic-failures?u=76281980)
+#### [A2: Cryptographic failures](https://www.linkedin.com/learning/static-application-security-testing/a2-cryptographic-failures?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/static-application-security-testing/a2-cryptographic-failures?u=76281980&t=0)** - [Narrator] The second set of risks in the OWASP top 10 list are cryptographic failures.
+> **[0:00](https://www.linkedin.com/learning/static-application-security-testing/a2-cryptographic-failures?u=76281980&t=0)** - [Narrator] The second set of risks in the [[OWASP]] top 10 list are cryptographic failures.
 >
 > **[0:06](https://www.linkedin.com/learning/static-application-security-testing/a2-cryptographic-failures?u=76281980&t=6)** If an attacker is targeting your application, then chances are the attacker wants access to the data that you've hidden behind login screens and restricted authorized users.
 >
@@ -2838,9 +2807,9 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/static-application-security-testing/a2-cryptographic-failures?u=76281980&t=44)** If you've got things like passwords or financial account numbers or healthcare data stored in plain text on your servers, then an attacker who finds a way to navigate to those files can steal that data without much effort.
 >
-> **[0:59](https://www.linkedin.com/learning/static-application-security-testing/a2-cryptographic-failures?u=76281980&t=59)** And even if you've encrypted data at rest and data in motion, you should still consider the risk that an attacker could gain access to that encrypted data.
+> **[0:59](https://www.linkedin.com/learning/static-application-security-testing/a2-cryptographic-failures?u=76281980&t=59)** And even if you've encrypted data at [[Representational State Transfer (REST)|rest]] and data in motion, you should still consider the risk that an attacker could gain access to that encrypted data.
 >
-> **[1:09](https://www.linkedin.com/learning/static-application-security-testing/a2-cryptographic-failures?u=76281980&t=69)** An attacker could potentially exploit weaknesses in your encryption implementation and get to the sensitive data that you are trying to protect, especially in light of the advances in quantum computing.
+> **[1:09](https://www.linkedin.com/learning/static-application-security-testing/a2-cryptographic-failures?u=76281980&t=69)** An attacker could potentially exploit weaknesses in your encryption implementation and get to the sensitive data that you are trying to protect, especially in light of the advances in [[Quantum Computing]].
 >
 > **[1:22](https://www.linkedin.com/learning/static-application-security-testing/a2-cryptographic-failures?u=76281980&t=82)** The easiest way for a sensitive data exposure flaw to end up in your web application is if encryption isn't listed as one of the requirements in the early design and planning discussions.
 >
@@ -2864,11 +2833,11 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/static-application-security-testing/a2-cryptographic-failures?u=76281980&t=188)** Aside from all the costs and negative publicity associated with the data breach, these flaws could also lead to compliance violations and fines.
 >
-> **[3:17](https://www.linkedin.com/learning/static-application-security-testing/a2-cryptographic-failures?u=76281980&t=197)** Privacy laws like GDPR, CCPA and PIPEDA carry some hefty fines for organizations who leave personally identifiable information or PII exposed and the HIPAA laws in the US can decimate a business with fines following a data breach of electronic protected health information or EPHI.
+> **[3:17](https://www.linkedin.com/learning/static-application-security-testing/a2-cryptographic-failures?u=76281980&t=197)** [[Privacy]] laws like GDPR, CCPA and PIPEDA carry some hefty fines for organizations who leave personally identifiable information or PII exposed and the HIPAA laws in the US can decimate a business with fines following a data breach of electronic protected health information or EPHI.
 >
-> **[3:42](https://www.linkedin.com/learning/static-application-security-testing/a2-cryptographic-failures?u=76281980&t=222)** From a static application security testing perspective, a data flow diagram will be invaluable here.
+> **[3:42](https://www.linkedin.com/learning/static-application-security-testing/a2-cryptographic-failures?u=76281980&t=222)** From a static [[Application Security]] testing perspective, a data flow diagram will be invaluable here.
 >
-> **[3:50](https://www.linkedin.com/learning/static-application-security-testing/a2-cryptographic-failures?u=76281980&t=230)** Ask the developers how sensitive data enters the application, how that data moves from system to system internally, including backups and how that data is transferred to other applications or databases, both internally and externally.
+> **[3:50](https://www.linkedin.com/learning/static-application-security-testing/a2-cryptographic-failures?u=76281980&t=230)** Ask the developers how sensitive data enters the application, how that data moves from system to system internally, including backups and how that data is transferred to other applications or [[Databases]], both internally and externally.
 >
 > **[4:08](https://www.linkedin.com/learning/static-application-security-testing/a2-cryptographic-failures?u=76281980&t=248)** Once you have a graphical representation of that data flow, highlight all the areas where that data is unencrypted.
 >
@@ -2890,13 +2859,13 @@ created: 2026-05-02
 >
 > **[4:52](https://www.linkedin.com/learning/static-application-security-testing/a2-cryptographic-failures?u=76281980&t=292)** You need to compare your findings to your knowledge of mechanisms with known weaknesses.
 >
-> **[4:57](https://www.linkedin.com/learning/static-application-security-testing/a2-cryptographic-failures?u=76281980&t=297)** A quick web search on weak encryption algorithms will provide you with more up-to-date information on the subject than you could possibly use, and if a developer tells you "It's okay, I created my own encryption algorithm," automatically consider that a finding.
+> **[4:57](https://www.linkedin.com/learning/static-application-security-testing/a2-cryptographic-failures?u=76281980&t=297)** A quick web search on weak encryption [[Algorithms]] will provide you with more up-to-date information on the subject than you could possibly use, and if a developer tells you "It's okay, I created my own encryption algorithm," automatically consider that a finding.
 >
 > **[5:15](https://www.linkedin.com/learning/static-application-security-testing/a2-cryptographic-failures?u=76281980&t=315)** Until an algorithm has been publicly vetted, you have little to no assurance that it can't be broken.
 >
 > **[5:24](https://www.linkedin.com/learning/static-application-security-testing/a2-cryptographic-failures?u=76281980&t=324)** If you are going to protect sensitive data appropriately, you need to define what the term sensitive means to your organization.
 >
-> **[5:32](https://www.linkedin.com/learning/static-application-security-testing/a2-cryptographic-failures?u=76281980&t=332)** The best starting point for this discussion is your data classification policy.
+> **[5:32](https://www.linkedin.com/learning/static-application-security-testing/a2-cryptographic-failures?u=76281980&t=332)** The best starting point for this discussion is your [[Data Classification]] policy.
 >
 > **[5:37](https://www.linkedin.com/learning/static-application-security-testing/a2-cryptographic-failures?u=76281980&t=337)** That policy should define what you need to protect and you should have related standards and procedures that document exactly how your technical controls will comply with that policy.
 >
@@ -2922,7 +2891,7 @@ created: 2026-05-02
 >
 > **[6:45](https://www.linkedin.com/learning/static-application-security-testing/a2-cryptographic-failures?u=76281980&t=405)** Disable the caching of sensitive data to ensure that it can't be extracted from the cach either and use salted hashing functions when protecting passwords.
 >
-> **[6:55](https://www.linkedin.com/learning/static-application-security-testing/a2-cryptographic-failures?u=76281980&t=415)** OWASP has multiple cheat sheets that you might be interested in here, including transport layer protection, user privacy protection, password storage and cryptographic storage.
+> **[6:55](https://www.linkedin.com/learning/static-application-security-testing/a2-cryptographic-failures?u=76281980&t=415)** OWASP has multiple cheat sheets that you might be interested in here, including transport layer protection, user [[Privacy Protection]], password storage and cryptographic storage.
 >
 > **[7:08](https://www.linkedin.com/learning/static-application-security-testing/a2-cryptographic-failures?u=76281980&t=428)** In control 8 of the OWASP Proactive Controls project, emphasizes the importance of classifying data and of encrypting data, both at rest and in transit.
 >
@@ -2930,18 +2899,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (39), application (5), [[Representational State Transfer (REST)|Rest]] (5), [[OWASP]] (3), [[Security]] (3)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (5), [[OWASP]] (3), [[Data Classification]] (2), [[Quantum Computing]] (1), [[Privacy]] (1)
 > **Env Vars:** owasp (3), ascii (1), gdpr (1), ccpa (1), pipeda (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** source code (1)
 > **Speakers:** - [narrator] (1)
 
-#### A3: Injection
-> [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/a3-injection?u=76281980)
+#### [A3: Injection](https://www.linkedin.com/learning/static-application-security-testing/a3-injection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/static-application-security-testing/a3-injection?u=76281980&t=0)** - [Teacher] The third set of risks in the OWASP top 10 list are injection flaws.
+> **[0:00](https://www.linkedin.com/learning/static-application-security-testing/a3-injection?u=76281980&t=0)** - [Teacher] The third set of risks in the [[OWASP]] top 10 list are injection flaws.
 >
 > **[0:05](https://www.linkedin.com/learning/static-application-security-testing/a3-injection?u=76281980&t=5)** When an attacker sends untrusted data to a backend interpreter, something like an OS command line interpreter or a database or an LDAP directory the interpreter has to decide what to do with that data.
 >
@@ -2975,7 +2943,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/static-application-security-testing/a3-injection?u=76281980&t=128)** When an interpreter receives that condition, it's going to accept it as true.
 >
-> **[2:13](https://www.linkedin.com/learning/static-application-security-testing/a3-injection?u=76281980&t=133)** Attackers can also include injection attacks in the data itself by adding extra parameters to things like search queries and JSON messages.
+> **[2:13](https://www.linkedin.com/learning/static-application-security-testing/a3-injection?u=76281980&t=133)** Attackers can also include injection attacks in the data itself by adding extra parameters to things like search queries and [[JSON]] messages.
 >
 > **[2:24](https://www.linkedin.com/learning/static-application-security-testing/a3-injection?u=76281980&t=144)** An attacker could trick an application into returning more data than it should, including the entire backend database.
 >
@@ -2983,7 +2951,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/static-application-security-testing/a3-injection?u=76281980&t=161)** Does the application require a login?
 >
-> **[2:43](https://www.linkedin.com/learning/static-application-security-testing/a3-injection?u=76281980&t=163)** Then the attacker's going to send commands to the LDAP directory or the SQL database that stores all the usernames and passwords.
+> **[2:43](https://www.linkedin.com/learning/static-application-security-testing/a3-injection?u=76281980&t=163)** Then the attacker's going to send commands to the LDAP directory or the [[SQL]] database that stores all the usernames and passwords.
 >
 > **[2:51](https://www.linkedin.com/learning/static-application-security-testing/a3-injection?u=76281980&t=171)** Does the application write data to or read data from a backend database?
 >
@@ -3003,7 +2971,7 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/static-application-security-testing/a3-injection?u=76281980&t=236)** Understanding what those queries do and how they're structured is the first step in determining whether or not an attacker could abuse them.
 >
-> **[4:04](https://www.linkedin.com/learning/static-application-security-testing/a3-injection?u=76281980&t=244)** If the application you're testing is going to look for usernames, passwords and even permissions and an internal LDAP directory something like Active Directory or Open LDAP, then you want to find all of those LDAP queries and examine them as well.
+> **[4:04](https://www.linkedin.com/learning/static-application-security-testing/a3-injection?u=76281980&t=244)** If the application you're testing is going to look for usernames, passwords and even permissions and an internal LDAP directory something like [[Active Directory]] or Open LDAP, then you want to find all of those LDAP queries and examine them as well.
 >
 > **[4:21](https://www.linkedin.com/learning/static-application-security-testing/a3-injection?u=76281980&t=261)** It's also possible that the developers will be including operating system commands in the app.
 >
@@ -3051,7 +3019,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), application (11), database (7), [[SQL]] (5), [[OWASP]] (4)
+> **Frameworks & Libraries:** [[SQL]] (5), [[OWASP]] (4), [[JSON]] (1), [[Active Directory]] (1)
 > **Env Vars:** ldap (5), sql (5), owasp (4), orm (2), json (1)
 > **Exercise Files:** source code (6)
 > **CLI Commands:** make (4), find (1)
@@ -3060,14 +3028,13 @@ created: 2026-05-02
 > **Best Practices:** good practice (1)
 > **Speakers:** - [teacher] (1)
 
-#### A4: Insecure design
-> [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/a4-insecure-design?u=76281980)
+#### [A4: Insecure design](https://www.linkedin.com/learning/static-application-security-testing/a4-insecure-design?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/static-application-security-testing/a4-insecure-design?u=76281980&t=0)** - [Instructor] The fourth set of risks in the OWASP top 10 list are insecure design flaws.
+> **[0:00](https://www.linkedin.com/learning/static-application-security-testing/a4-insecure-design?u=76281980&t=0)** - [Instructor] The fourth set of risks in the [[OWASP]] top 10 list are insecure design flaws.
 >
-> **[0:07](https://www.linkedin.com/learning/static-application-security-testing/a4-insecure-design?u=76281980&t=7)** Some years back, the US Cybersecurity and Infrastructure Security Agency, better known as CISA, provided resources to help software developers, architects, and security professionals build security into software from day one.
+> **[0:07](https://www.linkedin.com/learning/static-application-security-testing/a4-insecure-design?u=76281980&t=7)** Some years back, the US [[Cybersecurity]] and Infrastructure Security Agency, better known as CISA, provided resources to help software developers, architects, and security professionals build security into software from day one.
 >
 > **[0:24](https://www.linkedin.com/learning/static-application-security-testing/a4-insecure-design?u=76281980&t=24)** While that part of their website has been archived, those principles are still critical.
 >
@@ -3079,9 +3046,9 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/static-application-security-testing/a4-insecure-design?u=76281980&t=64)** These risks can creep into the development life cycle, because of a misunderstanding of the business risk tied to the app.
 >
-> **[1:12](https://www.linkedin.com/learning/static-application-security-testing/a4-insecure-design?u=76281980&t=72)** If an app contains personal information, for example, then failing to build in mechanisms to identify and remove that information on a person by person basis could result in financial fines from privacy regulations like the EU's GDPR.
+> **[1:12](https://www.linkedin.com/learning/static-application-security-testing/a4-insecure-design?u=76281980&t=72)** If an app contains personal information, for example, then failing to build in mechanisms to identify and remove that information on a person by person basis could result in financial fines from [[Privacy]] regulations like the EU's GDPR.
 >
-> **[1:29](https://www.linkedin.com/learning/static-application-security-testing/a4-insecure-design?u=76281980&t=89)** Couple that misunderstanding with a lack of defined and documented development processes, or a documented software development life cycle.
+> **[1:29](https://www.linkedin.com/learning/static-application-security-testing/a4-insecure-design?u=76281980&t=89)** Couple that misunderstanding with a lack of defined and documented development processes, or a documented [[Software Development]] life cycle.
 >
 > **[1:38](https://www.linkedin.com/learning/static-application-security-testing/a4-insecure-design?u=76281980&t=98)** And then you end up hoping that each developer on the team knows those business risks inside and out.
 >
@@ -3113,9 +3080,9 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/static-application-security-testing/a4-insecure-design?u=76281980&t=213)** And take a look at the test cases and the testing tool set.
 >
-> **[3:37](https://www.linkedin.com/learning/static-application-security-testing/a4-insecure-design?u=76281980&t=217)** While security is a function of quality, not every dev team has deployed security testing tools in their CI/CD pipeline to check for potential flaws.
+> **[3:37](https://www.linkedin.com/learning/static-application-security-testing/a4-insecure-design?u=76281980&t=217)** While security is a function of quality, not every dev team has deployed [[Security Testing]] tools in their CI/CD pipeline to check for potential flaws.
 >
-> **[3:49](https://www.linkedin.com/learning/static-application-security-testing/a4-insecure-design?u=76281980&t=229)** If you want to address these risks, threat modeling can help ensure you're focusing on the right things.
+> **[3:49](https://www.linkedin.com/learning/static-application-security-testing/a4-insecure-design?u=76281980&t=229)** If you want to address these risks, [[Threat Modeling]] can help ensure you're focusing on the right things.
 >
 > **[3:55](https://www.linkedin.com/learning/static-application-security-testing/a4-insecure-design?u=76281980&t=235)** Go through an exercise to determine how attackers might compromise or exploit an app that you're trying to build.
 >
@@ -3123,9 +3090,9 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/static-application-security-testing/a4-insecure-design?u=76281980&t=249)** Leverage reference architectures.
 >
-> **[4:12](https://www.linkedin.com/learning/static-application-security-testing/a4-insecure-design?u=76281980&t=252)** If someone has already figured out how to build a secure app, especially in cloud services like AWS, Azure, and Google Cloud, then their documentation can accelerate your efforts.
+> **[4:12](https://www.linkedin.com/learning/static-application-security-testing/a4-insecure-design?u=76281980&t=252)** If someone has already figured out how to build a secure app, especially in [[Cloud Services]] like AWS, [[Microsoft Azure|Azure]], and [[Google Cloud Platform (GCP)|Google Cloud]], then their documentation can accelerate your efforts.
 >
-> **[4:25](https://www.linkedin.com/learning/static-application-security-testing/a4-insecure-design?u=76281980&t=265)** Document secure design patterns.
+> **[4:25](https://www.linkedin.com/learning/static-application-security-testing/a4-insecure-design?u=76281980&t=265)** Document secure [[Design Patterns]].
 >
 > **[4:28](https://www.linkedin.com/learning/static-application-security-testing/a4-insecure-design?u=76281980&t=268)** If you've decided that you should never put the user ID in the URL string, write that down, so that everyone on the team knows.
 >
@@ -3141,7 +3108,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (12), [[OWASP]] (3), business (2), [[Threat Modeling]] (2), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[OWASP]] (3), [[Threat Modeling]] (2), [[Cybersecurity]] (1), [[Privacy]] (1), [[Software Development]] (1)
 > **Env Vars:** owasp (3), sbom (2), cisa (1), gdpr (1), sdlc (1)
 > **Definitions:** is a  (2), known as (1), in other words (1)
 > **CLI Commands:** cd (1), aws (1), make (1)
@@ -3150,12 +3117,11 @@ created: 2026-05-02
 > **Best Practices:** you should never (1)
 > **Speakers:** - [instructor] (1)
 
-#### A5: Security misconfiguration
-> [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/a5-security-misconfiguration?u=76281980)
+#### [A5: Security misconfiguration](https://www.linkedin.com/learning/static-application-security-testing/a5-security-misconfiguration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/static-application-security-testing/a5-security-misconfiguration?u=76281980&t=0)** - [Instructor] The fifth set of risks in the OWASP Top 10 list are security misconfiguration flaws.
+> **[0:00](https://www.linkedin.com/learning/static-application-security-testing/a5-security-misconfiguration?u=76281980&t=0)** - [Instructor] The fifth set of risks in the [[OWASP]] Top 10 list are security misconfiguration flaws.
 >
 > **[0:06](https://www.linkedin.com/learning/static-application-security-testing/a5-security-misconfiguration?u=76281980&t=6)** Simply put, this category of web application risks is all about insecure or default configurations.
 >
@@ -3163,13 +3129,13 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/static-application-security-testing/a5-security-misconfiguration?u=76281980&t=21)** It also requires knowledge about how to securely deploy and maintain both the application and the application infrastructure.
 >
-> **[0:29](https://www.linkedin.com/learning/static-application-security-testing/a5-security-misconfiguration?u=76281980&t=29)** You've probably seen news stories on one of the multiple data breaches related to open cloud storage weaknesses.
+> **[0:29](https://www.linkedin.com/learning/static-application-security-testing/a5-security-misconfiguration?u=76281980&t=29)** You've probably seen news stories on one of the multiple data breaches related to open [[Cloud Storage]] weaknesses.
 >
 > **[0:36](https://www.linkedin.com/learning/static-application-security-testing/a5-security-misconfiguration?u=76281980&t=36)** Apps that are misconfigured to use cloud storage need to take into consideration how they're going to manage access to that storage.
 >
 > **[0:44](https://www.linkedin.com/learning/static-application-security-testing/a5-security-misconfiguration?u=76281980&t=44)** While verbose error messages are great for troubleshooting, they're also great for attackers who are profiling your apps.
 >
-> **[0:52](https://www.linkedin.com/learning/static-application-security-testing/a5-security-misconfiguration?u=76281980&t=52)** If an attacker can force an application to spit out an error message, one that contains a stack trace or details about a web server, the internal network, then the attacker now has an advantage when it comes to designing attacks against the app and both patch management and general IT hygiene are crucial to application security.
+> **[0:52](https://www.linkedin.com/learning/static-application-security-testing/a5-security-misconfiguration?u=76281980&t=52)** If an attacker can force an application to spit out an error message, one that contains a stack trace or details about a web server, the internal network, then the attacker now has an advantage when it comes to designing attacks against the app and both patch management and general IT hygiene are crucial to [[Application Security]].
 >
 > **[1:14](https://www.linkedin.com/learning/static-application-security-testing/a5-security-misconfiguration?u=76281980&t=74)** You need to be sure that you're applying patches and upgrades that address publicly disclosed security flaws.
 >
@@ -3205,7 +3171,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/static-application-security-testing/a5-security-misconfiguration?u=76281980&t=210)** That's a misconfiguration that could lead to a data breach.
 >
-> **[3:34](https://www.linkedin.com/learning/static-application-security-testing/a5-security-misconfiguration?u=76281980&t=214)** If you find an exposure that includes world readable config files that include database credentials, something like the dreaded PHP info page with MySQL database running on the backend, then you have a bigger issue.
+> **[3:34](https://www.linkedin.com/learning/static-application-security-testing/a5-security-misconfiguration?u=76281980&t=214)** If you find an exposure that includes world readable config files that include database credentials, something like the dreaded [[PHP]] info page with [[MySQL]] database running on the backend, then you have a bigger issue.
 >
 > **[3:49](https://www.linkedin.com/learning/static-application-security-testing/a5-security-misconfiguration?u=76281980&t=229)** This exposure of configuration files puts you at risk of complete system compromise.
 >
@@ -3257,7 +3223,7 @@ created: 2026-05-02
 >
 > **[6:52](https://www.linkedin.com/learning/static-application-security-testing/a5-security-misconfiguration?u=76281980&t=412)** The Center for Internet Security maintains a collection of hardening guides known as the CIS benchmarks.
 >
-> **[6:58](https://www.linkedin.com/learning/static-application-security-testing/a5-security-misconfiguration?u=76281980&t=418)** If you have any questions about security hardening guidance for operating systems, web servers, cloud services and the like, you can find the answers you're looking for in these benchmarks.
+> **[6:58](https://www.linkedin.com/learning/static-application-security-testing/a5-security-misconfiguration?u=76281980&t=418)** If you have any questions about security hardening guidance for operating systems, [[Web Servers]], [[Cloud Services]] and the like, you can find the answers you're looking for in these benchmarks.
 >
 > **[7:11](https://www.linkedin.com/learning/static-application-security-testing/a5-security-misconfiguration?u=76281980&t=431)** Regarding logging and monitoring controls, I want to share a non OSP cheat sheet with you, the one that I've been using for years.
 >
@@ -3273,19 +3239,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (15), application (13), web (5), cloud (4), data (2)
+> **Frameworks & Libraries:** [[Cloud Storage]] (3), [[OWASP]] (1), [[Application Security]] (1), [[PHP]] (1), [[MySQL]] (1)
 > **CLI Commands:** make (3), find (2), php (1), mysql (1)
 > **Env Vars:** owasp (1), readme (1), php (1), cis (1), osp (1)
 > **URLs:** [zeltser.com](https://zeltser.com) (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### A6: Vulnerable and outdated components
-> [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/a6-vulnerable-and-outdated-components?u=76281980)
+#### [A6: Vulnerable and outdated components](https://www.linkedin.com/learning/static-application-security-testing/a6-vulnerable-and-outdated-components?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/static-application-security-testing/a6-vulnerable-and-outdated-components?u=76281980&t=0)** - [Instructor] The sixth set of risks in the OWASP top 10 list are flaws related to vulnerable and outdated components.
+> **[0:00](https://www.linkedin.com/learning/static-application-security-testing/a6-vulnerable-and-outdated-components?u=76281980&t=0)** - [Instructor] The sixth set of risks in the [[OWASP]] top 10 list are flaws related to vulnerable and outdated components.
 >
 > **[0:08](https://www.linkedin.com/learning/static-application-security-testing/a6-vulnerable-and-outdated-components?u=76281980&t=8)** This category of flaws is very closely related to security misconfigurations but with a twist.
 >
@@ -3311,7 +3276,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/static-application-security-testing/a6-vulnerable-and-outdated-components?u=76281980&t=115)** Remember Drupalgeddon?
 >
-> **[1:57](https://www.linkedin.com/learning/static-application-security-testing/a6-vulnerable-and-outdated-components?u=76281980&t=117)** Back in 2014, a vulnerability in Drupal was publicly disclosed, one that immediately put thousands of web apps using that content management framework at risk of compromise.
+> **[1:57](https://www.linkedin.com/learning/static-application-security-testing/a6-vulnerable-and-outdated-components?u=76281980&t=117)** Back in 2014, a vulnerability in [[Drupal]] was publicly disclosed, one that immediately put thousands of web apps using that [[Content Management]] framework at risk of compromise.
 >
 > **[2:10](https://www.linkedin.com/learning/static-application-security-testing/a6-vulnerable-and-outdated-components?u=76281980&t=130)** Four years later, another Drupal vulnerability was disclosed, sending everyone back into fire drill mode.
 >
@@ -3385,9 +3350,9 @@ created: 2026-05-02
 >
 > **[6:07](https://www.linkedin.com/learning/static-application-security-testing/a6-vulnerable-and-outdated-components?u=76281980&t=367)** Two resources that can help you identify and track these risks are the OWASP Dependency-Check Tool and the Common Vulnerabilities and Exposures database.
 >
-> **[6:18](https://www.linkedin.com/learning/static-application-security-testing/a6-vulnerable-and-outdated-components?u=76281980&t=378)** Dependency-Check is a software composition analysis tool that scours both Java and .NET source code for components with known, publicly disclosed vulnerabilities.
+> **[6:18](https://www.linkedin.com/learning/static-application-security-testing/a6-vulnerable-and-outdated-components?u=76281980&t=378)** Dependency-Check is a software composition analysis tool that scours both [[Java]] and .NET source code for components with known, publicly disclosed vulnerabilities.
 >
-> **[6:29](https://www.linkedin.com/learning/static-application-security-testing/a6-vulnerable-and-outdated-components?u=76281980&t=389)** This tool is available as a command-line utility, as an Ant task, plugin for Maven, for Gradle, for Jenkins.
+> **[6:29](https://www.linkedin.com/learning/static-application-security-testing/a6-vulnerable-and-outdated-components?u=76281980&t=389)** This tool is available as a command-line utility, as an Ant task, plugin for Maven, for [[Gradle]], for [[Jenkins]].
 >
 > **[6:37](https://www.linkedin.com/learning/static-application-security-testing/a6-vulnerable-and-outdated-components?u=76281980&t=397)** It's even available as a Mac Homebrew install.
 >
@@ -3399,7 +3364,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (10), [[Drupal]] (4), web (3), database (3), [[OWASP]] (2)
+> **Frameworks & Libraries:** [[Drupal]] (4), [[OWASP]] (2), [[Java]] (2), [[Content Management]] (1), [[Gradle]] (1)
 > **Env Vars:** owasp (2), sbom (2), net (2), cve (2), mitre (1)
 > **CLI Commands:** make (2), apache (1)
 > **Prerequisites:** you'll need (2), install (1)
@@ -3408,12 +3373,11 @@ created: 2026-05-02
 > **Cross-References:** earlier in (1)
 > **Speakers:** - [instructor] (1)
 
-#### A7: Identification and authentication failures
-> [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/a7-identification-and-authentication-failures?u=76281980)
+#### [A7: Identification and authentication failures](https://www.linkedin.com/learning/static-application-security-testing/a7-identification-and-authentication-failures?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/static-application-security-testing/a7-identification-and-authentication-failures?u=76281980&t=0)** - [Presenter] The seventh set of risks in the OWASP top 10 are identification and authentication failures.
+> **[0:00](https://www.linkedin.com/learning/static-application-security-testing/a7-identification-and-authentication-failures?u=76281980&t=0)** - [Presenter] The seventh set of risks in the [[OWASP]] top 10 are identification and authentication failures.
 >
 > **[0:08](https://www.linkedin.com/learning/static-application-security-testing/a7-identification-and-authentication-failures?u=76281980&t=8)** If an attacker can find a way around the login screen and start interacting with the application or if you can't trust that the person using the app is the person they claim to be then the application is vulnerable to these flaws.
 >
@@ -3425,11 +3389,11 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/static-application-security-testing/a7-identification-and-authentication-failures?u=76281980&t=43)** Don't believe me?
 >
-> **[0:44](https://www.linkedin.com/learning/static-application-security-testing/a7-identification-and-authentication-failures?u=76281980&t=44)** Just Google for the admin guide for some of the older technology in your environment, tech with an administrative web interface, and see if there's a default admin password combo listed in that guide.
+> **[0:44](https://www.linkedin.com/learning/static-application-security-testing/a7-identification-and-authentication-failures?u=76281980&t=44)** Just [[Google]] for the admin guide for some of the older technology in your environment, tech with an administrative web interface, and see if there's a default admin password combo listed in that guide.
 >
 > **[0:57](https://www.linkedin.com/learning/static-application-security-testing/a7-identification-and-authentication-failures?u=76281980&t=57)** Even if an attacker doesn't have a valid set of credentials there are several brute force attack tools that will try different combinations until it gets one right.
 >
-> **[1:07](https://www.linkedin.com/learning/static-application-security-testing/a7-identification-and-authentication-failures?u=76281980&t=67)** And attackers who can identify and reuse unexpired session tokens can often interact with an application just like a traditional authenticated user.
+> **[1:07](https://www.linkedin.com/learning/static-application-security-testing/a7-identification-and-authentication-failures?u=76281980&t=67)** And attackers who can identify and reuse unexpired session [[Tokens]] can often interact with an application just like a traditional authenticated user.
 >
 > **[1:17](https://www.linkedin.com/learning/static-application-security-testing/a7-identification-and-authentication-failures?u=76281980&t=77)** One of the reasons identification and authentication failures occur in web applications is that secure identity and access management controls weren't discussed at the beginning of the project.
 >
@@ -3457,9 +3421,9 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/static-application-security-testing/a7-identification-and-authentication-failures?u=76281980&t=154)** An application that lets you borrow library books online might expose a user's borrowing history or allow someone to check out books without that user's knowledge.
 >
-> **[2:45](https://www.linkedin.com/learning/static-application-security-testing/a7-identification-and-authentication-failures?u=76281980&t=165)** While that does violate the user's privacy, it might not be a publicly reportable data breach depending on where that library is located and which laws apply.
+> **[2:45](https://www.linkedin.com/learning/static-application-security-testing/a7-identification-and-authentication-failures?u=76281980&t=165)** While that does violate the user's [[Privacy]], it might not be a publicly reportable data breach depending on where that library is located and which laws apply.
 >
-> **[2:57](https://www.linkedin.com/learning/static-application-security-testing/a7-identification-and-authentication-failures?u=76281980&t=177)** But an online commercial banking application that lets an attacker log in with default credentials and wire millions of dollars to an offshore account, that's likely to cause a bigger disruption.
+> **[2:57](https://www.linkedin.com/learning/static-application-security-testing/a7-identification-and-authentication-failures?u=76281980&t=177)** But an online commercial [[Banking]] application that lets an attacker log in with default credentials and wire millions of dollars to an offshore account, that's likely to cause a bigger disruption.
 >
 > **[3:09](https://www.linkedin.com/learning/static-application-security-testing/a7-identification-and-authentication-failures?u=76281980&t=189)** And when an application is used for infrastructure administration, then the compromise of that app could enable an attacker to either take over that infrastructure or knock it offline entirely.
 >
@@ -3523,7 +3487,7 @@ created: 2026-05-02
 >
 > **[6:56](https://www.linkedin.com/learning/static-application-security-testing/a7-identification-and-authentication-failures?u=76281980&t=416)** One for authentication, one for credential stuffing prevention, one for managing password resets, and another for session management best practices.
 >
-> **[7:07](https://www.linkedin.com/learning/static-application-security-testing/a7-identification-and-authentication-failures?u=76281980&t=427)** Item C6 in the OWASP Proactive Controls project outlines three authentication levels that align with NIST guidance.
+> **[7:07](https://www.linkedin.com/learning/static-application-security-testing/a7-identification-and-authentication-failures?u=76281980&t=427)** Item C6 in the OWASP Proactive Controls project outlines three authentication levels that align with [[NIST]] guidance.
 >
 > **[7:16](https://www.linkedin.com/learning/static-application-security-testing/a7-identification-and-authentication-failures?u=76281980&t=436)** Level one is passwords.
 >
@@ -3535,19 +3499,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (19), management (6), data (5), web (5), [[OWASP]] (4)
+> **Frameworks & Libraries:** [[OWASP]] (4), [[NIST]] (2), [[Google]] (1), [[Tokens]] (1), [[Privacy]] (1)
 > **Env Vars:** owasp (4), nist (2), url (1)
 > **CLI Commands:** find (2), make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [presenter] (1)
 
-#### A8: Software and data integrity failures
-> [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/a8-software-and-data-integrity-failures?u=76281980)
+#### [A8: Software and data integrity failures](https://www.linkedin.com/learning/static-application-security-testing/a8-software-and-data-integrity-failures?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/static-application-security-testing/a8-software-and-data-integrity-failures?u=76281980&t=0)** - The eighth set of risks in the OWASP top 10 list are software and data integrity failures.
+> **[0:00](https://www.linkedin.com/learning/static-application-security-testing/a8-software-and-data-integrity-failures?u=76281980&t=0)** - The eighth set of risks in the [[OWASP]] top 10 list are software and [[Data Integrity]] failures.
 >
 > **[0:07](https://www.linkedin.com/learning/static-application-security-testing/a8-software-and-data-integrity-failures?u=76281980&t=7)** The notion of software and data integrity is based on assumed trust.
 >
@@ -3569,7 +3532,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/static-application-security-testing/a8-software-and-data-integrity-failures?u=76281980&t=85)** When the application applies an update or pulls a new version of a library from an external repository, how do you know that the update or library that gets installed is trustworthy?
 >
-> **[1:38](https://www.linkedin.com/learning/static-application-security-testing/a8-software-and-data-integrity-failures?u=76281980&t=98)** In August of 2022, a high school student uploaded ransomware to the Python PI PI library.
+> **[1:38](https://www.linkedin.com/learning/static-application-security-testing/a8-software-and-data-integrity-failures?u=76281980&t=98)** In August of 2022, a high school student uploaded ransomware to the [[Python (Programming Language)|Python]] PI PI library.
 >
 > **[1:45](https://www.linkedin.com/learning/static-application-security-testing/a8-software-and-data-integrity-failures?u=76281980&t=105)** That malicious code was downloaded hundreds of times before anyone thought to check the integrity of the updated library.
 >
@@ -3599,11 +3562,11 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/static-application-security-testing/a8-software-and-data-integrity-failures?u=76281980&t=205)** Start there.
 >
-> **[3:26](https://www.linkedin.com/learning/static-application-security-testing/a8-software-and-data-integrity-failures?u=76281980&t=206)** Also, take a look at your S-D-L-C documentation, paying attention to your code review procedures and your change control procedures in particular.
+> **[3:26](https://www.linkedin.com/learning/static-application-security-testing/a8-software-and-data-integrity-failures?u=76281980&t=206)** Also, take a look at your S-D-L-C documentation, paying attention to your [[Code Review]] procedures and your change control procedures in particular.
 >
 > **[3:36](https://www.linkedin.com/learning/static-application-security-testing/a8-software-and-data-integrity-failures?u=76281980&t=216)** Code reviews enable you to detect potentially untrusted code elements, while change control procedures can help you prevent insecure software or infrastructure from being deployed to production.
 >
-> **[3:50](https://www.linkedin.com/learning/static-application-security-testing/a8-software-and-data-integrity-failures?u=76281980&t=230)** And check your C-I-C-D pipeline controls, looking for access control weaknesses and configuration management weaknesses.
+> **[3:50](https://www.linkedin.com/learning/static-application-security-testing/a8-software-and-data-integrity-failures?u=76281980&t=230)** And check your C-I-C-D pipeline controls, looking for access control weaknesses and [[Configuration Management]] weaknesses.
 >
 > **[3:59](https://www.linkedin.com/learning/static-application-security-testing/a8-software-and-data-integrity-failures?u=76281980&t=239)** Again, if you haven't built digital signature checks into your code, now's the time to start.
 >
@@ -3627,23 +3590,22 @@ created: 2026-05-02
 >
 > **[5:19](https://www.linkedin.com/learning/static-application-security-testing/a8-software-and-data-integrity-failures?u=76281980&t=319)** It also outlines a security advisory format for publishing vulnerability and exploitability details and it includes a library of not quite 200 tools to help automate all the things.
 >
-> **[5:33](https://www.linkedin.com/learning/static-application-security-testing/a8-software-and-data-integrity-failures?u=76281980&t=333)** "Dependency-Check" is a software composition analysis tool that automatically puts together a list of all your software libraries and then checks public vulnerability databases to help you determine if those libraries are vulnerable to attack.
+> **[5:33](https://www.linkedin.com/learning/static-application-security-testing/a8-software-and-data-integrity-failures?u=76281980&t=333)** "Dependency-Check" is a software composition analysis tool that automatically puts together a list of all your software libraries and then checks public vulnerability [[Databases]] to help you determine if those libraries are vulnerable to attack.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Security]] (3), [[OWASP]] (2), application (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Data Integrity]] (5), [[OWASP]] (2), [[Python (Programming Language)|Python]] (1), [[Code Review]] (1), [[Configuration Management]] (1)
 > **Env Vars:** owasp (2), sbom (2)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** find (2), python (1)
 > **Tools:** notion (1)
 > **Speakers:** - the (1)
 
-#### A9: Security logging and monitoring failures
-> [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/a9-security-logging-and-monitoring-failures?u=76281980)
+#### [A9: Security logging and monitoring failures](https://www.linkedin.com/learning/static-application-security-testing/a9-security-logging-and-monitoring-failures?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/static-application-security-testing/a9-security-logging-and-monitoring-failures?u=76281980&t=0)** - [Instructor] The ninth set of risks in the OWASP top 10 list are security logging and monitoring failures.
+> **[0:00](https://www.linkedin.com/learning/static-application-security-testing/a9-security-logging-and-monitoring-failures?u=76281980&t=0)** - [Instructor] The ninth set of risks in the [[OWASP]] top 10 list are security logging and monitoring failures.
 >
 > **[0:06](https://www.linkedin.com/learning/static-application-security-testing/a9-security-logging-and-monitoring-failures?u=76281980&t=6)** As developers are building out these applications, their initial focus is on just getting everything to work as expected by the go-live date.
 >
@@ -3749,7 +3711,7 @@ created: 2026-05-02
 >
 > **[6:21](https://www.linkedin.com/learning/static-application-security-testing/a9-security-logging-and-monitoring-failures?u=76281980&t=381)** That said, there are a couple of additional resources you'll also want to use.
 >
-> **[6:25](https://www.linkedin.com/learning/static-application-security-testing/a9-security-logging-and-monitoring-failures?u=76281980&t=385)** NIST Special publication 800-61 Rev. 2, their computer security incident handling guide covers security incident handling in detail.
+> **[6:25](https://www.linkedin.com/learning/static-application-security-testing/a9-security-logging-and-monitoring-failures?u=76281980&t=385)** [[NIST]] Special publication 800-61 Rev. 2, their computer security incident handling guide covers security incident handling in detail.
 >
 > **[6:37](https://www.linkedin.com/learning/static-application-security-testing/a9-security-logging-and-monitoring-failures?u=76281980&t=397)** And when you're ready for the big leagues, check out the Intelligence Community Standard 500-27 which covers the collection and sharing of audit data.
 >
@@ -3757,18 +3719,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (14), data (7), [[OWASP]] (2), web (2), database (1)
+> **Frameworks & Libraries:** [[OWASP]] (2), [[NIST]] (1)
 > **Env Vars:** owasp (2), sdlc (1), nist (1)
 > **CLI Commands:** make (2), find (1)
 > **Warnings:** troubleshoot (1), warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### A10: Server-Side Request Forgery
-> [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/a10-server-side-request-forgery?u=76281980)
+#### [A10: Server-Side Request Forgery](https://www.linkedin.com/learning/static-application-security-testing/a10-server-side-request-forgery?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/static-application-security-testing/a10-server-side-request-forgery?u=76281980&t=0)** - [Instructor] The final set of risks in the OWASP top 10 list are server-side request forgery, or SSRF, flaws.
+> **[0:00](https://www.linkedin.com/learning/static-application-security-testing/a10-server-side-request-forgery?u=76281980&t=0)** - [Instructor] The final set of risks in the [[OWASP]] top 10 list are server-side request forgery, or SSRF, flaws.
 >
 > **[0:09](https://www.linkedin.com/learning/static-application-security-testing/a10-server-side-request-forgery?u=76281980&t=9)** These flaws enable attackers to convince internal infrastructure to access or abuse resources that were never meant to be available externally.
 >
@@ -3786,7 +3747,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/static-application-security-testing/a10-server-side-request-forgery?u=76281980&t=81)** It's not unheard of for attackers to modify a URL string to browse directly to sensitive files on the server.
 >
-> **[1:29](https://www.linkedin.com/learning/static-application-security-testing/a10-server-side-request-forgery?u=76281980&t=89)** If your app is running on a Linux server, for example, then an attacker might attempt to access the Etsy password file.
+> **[1:29](https://www.linkedin.com/learning/static-application-security-testing/a10-server-side-request-forgery?u=76281980&t=89)** If your app is running on a [[Linux]] server, for example, then an attacker might attempt to access the Etsy password file.
 >
 > **[1:37](https://www.linkedin.com/learning/static-application-security-testing/a10-server-side-request-forgery?u=76281980&t=97)** That's the one with all the local user accounts in it, by putting the path to that file right into the URL, but extracting local files is nothing compared to remotely triggering a system command.
 >
@@ -3804,9 +3765,9 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/static-application-security-testing/a10-server-side-request-forgery?u=76281980&t=157)** You should also take a look at the app architecture to determine whether segmentation has been implemented.
 >
-> **[2:44](https://www.linkedin.com/learning/static-application-security-testing/a10-server-side-request-forgery?u=76281980&t=164)** If an SSRF flaw slips through the cracks, you can proactively minimize the exposure and the damage by limiting the internal network traffic to only those ports and services that are required for business use, and with the ever-increasing adoption of cloud services, the presence of defined and enforced cloud security configuration standards is a pretty big deal.
+> **[2:44](https://www.linkedin.com/learning/static-application-security-testing/a10-server-side-request-forgery?u=76281980&t=164)** If an SSRF flaw slips through the cracks, you can proactively minimize the exposure and the damage by limiting the internal network traffic to only those ports and services that are required for business use, and with the ever-increasing adoption of [[Cloud Services]], the presence of defined and enforced [[Cloud Security]] configuration standards is a pretty big deal.
 >
-> **[3:08](https://www.linkedin.com/learning/static-application-security-testing/a10-server-side-request-forgery?u=76281980&t=188)** An oversight that leaves a cloud storage bucket overexposed results in an SSRF vulnerability that's exceedingly simple to exploit.
+> **[3:08](https://www.linkedin.com/learning/static-application-security-testing/a10-server-side-request-forgery?u=76281980&t=188)** An oversight that leaves a [[Cloud Storage]] bucket overexposed results in an SSRF vulnerability that's exceedingly simple to exploit.
 >
 > **[3:18](https://www.linkedin.com/learning/static-application-security-testing/a10-server-side-request-forgery?u=76281980&t=198)** Unfortunately, we've seen some prominent data breaches in recent years for this very reason.
 >
@@ -3834,7 +3795,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OWASP]] (4), cloud (3), traffic (2), [[Security]] (2), application (1)
+> **Frameworks & Libraries:** [[OWASP]] (4), [[Linux]] (1), [[Cloud Services]] (1), [[Cloud Security]] (1), [[Cloud Storage]] (1)
 > **Env Vars:** ssrf (12), url (8), owasp (4), http (2), pdf (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
@@ -3845,12 +3806,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Static application security testing next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/static-application-security-testing-next-steps?u=76281980)
+#### [Static application security testing next steps](https://www.linkedin.com/learning/static-application-security-testing/static-application-security-testing-next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/static-application-security-testing/static-application-security-testing-next-steps?u=76281980&t=0)** - [Jerod] Thanks so much for taking the time to learn about static application security testing with me.
+> **[0:00](https://www.linkedin.com/learning/static-application-security-testing/static-application-security-testing-next-steps?u=76281980&t=0)** - [Jerod] Thanks so much for taking the time to learn about static [[Application Security]] testing with me.
 >
 > **[0:06](https://www.linkedin.com/learning/static-application-security-testing/static-application-security-testing-next-steps?u=76281980&t=6)** If I've done a decent job as your instructor, you should be able to begin applying what you've learned in this course right away, but there's only so much I can cover in the time allotted for a course like this one.
 >
@@ -3864,11 +3824,11 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/static-application-security-testing/static-application-security-testing-next-steps?u=76281980&t=36)** I can't emphasize enough, how important it is that you build out and maintain your lab environment.
 >
-> **[0:43](https://www.linkedin.com/learning/static-application-security-testing/static-application-security-testing-next-steps?u=76281980&t=43)** Whether it's a series of virtual machines on your laptop, a collection of VMs on a dedicated segment at your office or a cloud tenant that you use specifically for training and testing, it's crucial that you have somewhere to go to keep your skills sharp, and if you don't have a lab, build one.
+> **[0:43](https://www.linkedin.com/learning/static-application-security-testing/static-application-security-testing-next-steps?u=76281980&t=43)** Whether it's a series of [[Virtual Machines]] on your laptop, a collection of VMs on a dedicated segment at your [[Microsoft Office|office]] or a cloud tenant that you use specifically for training and testing, it's crucial that you have somewhere to go to keep your skills sharp, and if you don't have a lab, build one.
 >
 > **[1:03](https://www.linkedin.com/learning/static-application-security-testing/static-application-security-testing-next-steps?u=76281980&t=63)** The lab doesn't have to be complicated.
 >
-> **[1:05](https://www.linkedin.com/learning/static-application-security-testing/static-application-security-testing-next-steps?u=76281980&t=65)** The lab for this course consists of two software as a service applications and maybe, maybe a virtual machine; that's it.
+> **[1:05](https://www.linkedin.com/learning/static-application-security-testing/static-application-security-testing-next-steps?u=76281980&t=65)** The lab for this course consists of two [[SaaS|software as a service]] applications and maybe, maybe a virtual machine; that's it.
 >
 > **[1:13](https://www.linkedin.com/learning/static-application-security-testing/static-application-security-testing-next-steps?u=76281980&t=73)** Dig deeper into what you can do with the tools we covered in this course.
 >
@@ -3900,7 +3860,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/static-application-security-testing/static-application-security-testing-next-steps?u=76281980&t=174)** Approach your academic advisor and communicate your interest.
 >
-> **[2:57](https://www.linkedin.com/learning/static-application-security-testing/static-application-security-testing-next-steps?u=76281980&t=177)** Set up a profile on LinkedIn and begin networking with local application security professionals.
+> **[2:57](https://www.linkedin.com/learning/static-application-security-testing/static-application-security-testing-next-steps?u=76281980&t=177)** Set up a profile on [[LinkedIn]] and begin networking with local application security professionals.
 >
 > **[3:04](https://www.linkedin.com/learning/static-application-security-testing/static-application-security-testing-next-steps?u=76281980&t=184)** If you ask enough people whether they might be interested in mentoring you, you may just be surprised at how many times you receive an, "Absolutely," in reply.
 >
@@ -3914,7 +3874,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (8), [[Security]] (8), next (2), [[Virtual Machines]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Application Security]] (8), [[Virtual Machines]] (1), [[Microsoft Office|Office]] (1), [[SaaS|Software as a service]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** we covered (2)
 > **Best Practices:** make sure to (1)

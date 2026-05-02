@@ -69,12 +69,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing Microsoft Security Copilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/introducing-microsoft-security-copilot?u=76281980)
+#### [Introducing Microsoft Security Copilot](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/introducing-microsoft-security-copilot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/introducing-microsoft-security-copilot?u=76281980&t=0)** - Microsoft Security Copilot is a game changer in cybersecurity.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/introducing-microsoft-security-copilot?u=76281980&t=0)** - [[Microsoft Security]] [[Microsoft Copilot|Copilot]] is a game changer in [[Cybersecurity]].
 >
 > **[0:05](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/introducing-microsoft-security-copilot?u=76281980&t=5)** This powerful AI companion turns security questions into intelligent guidance, enabling security analysts to act faster and more efficiently.
 >
@@ -82,26 +81,25 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/introducing-microsoft-security-copilot?u=76281980&t=37)** I'm Bryan Li and I worked in IT and cybersecurity for many years.
 >
-> **[0:42](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/introducing-microsoft-security-copilot?u=76281980&t=42)** I'm a Microsoft-certified cybersecurity architect expert.
+> **[0:42](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/introducing-microsoft-security-copilot?u=76281980&t=42)** I'm a [[Microsoft]]-certified cybersecurity architect expert.
 >
-> **[0:47](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/introducing-microsoft-security-copilot?u=76281980&t=47)** Join me in my LinkedIn learning course to starting using Microsoft Security Copilot.
+> **[0:47](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/introducing-microsoft-security-copilot?u=76281980&t=47)** Join me in my [[LinkedIn]] learning course to starting using Microsoft Security Copilot.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (4), [[Security]] (4), [[Cybersecurity]] (3), [[Microsoft Security]] (2), game (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (4), [[Cybersecurity]] (3), [[Microsoft Security]] (2), [[Microsoft]] (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - microsoft (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/what-you-should-know?u=76281980&t=0)** - [Narrator] This course uses Microsoft Security Copilot to perform cyber security tasks.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/what-you-should-know?u=76281980&t=0)** - [Narrator] This course uses [[Microsoft Security]] [[Microsoft Copilot|Copilot]] to perform cyber security tasks.
 >
-> **[0:06](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/what-you-should-know?u=76281980&t=6)** Before starting this course, you should have a working knowledge of security operations.
+> **[0:06](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/what-you-should-know?u=76281980&t=6)** Before starting this course, you should have a working knowledge of [[Security Operations]].
 >
-> **[0:11](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/what-you-should-know?u=76281980&t=11)** You should also have a fundamental understanding of generative AI and its applications such as ChatGPT, or Microsoft Copilot.
+> **[0:11](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/what-you-should-know?u=76281980&t=11)** You should also have a fundamental understanding of [[Generative AI]] and its applications such as [[ChatGPT]], or [[Microsoft Copilot]].
 >
 > **[0:20](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/what-you-should-know?u=76281980&t=20)** The AI generated content may take a while to complete.
 >
@@ -111,7 +109,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), ai (2), [[Microsoft Security]] (1), [[Microsoft Copilot|Copilot]] (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Microsoft Security]] (1), [[Microsoft Copilot|Copilot]] (1), [[Security Operations]] (1), [[Generative AI]] (1), [[ChatGPT]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
@@ -120,12 +118,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Microsoft Security Copilot?
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/what-is-microsoft-copilot-for-security?u=76281980)
+#### [What is Microsoft Security Copilot?](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/what-is-microsoft-copilot-for-security?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/what-is-microsoft-copilot-for-security?u=76281980&t=0)** - [Narrator] What is Microsoft Security Copilot?
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/what-is-microsoft-copilot-for-security?u=76281980&t=0)** - [Narrator] What is [[Microsoft Security]] [[Microsoft Copilot|Copilot]]?
 >
 > **[0:03](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/what-is-microsoft-copilot-for-security?u=76281980&t=3)** It's a virtual assistant powered by AI and it's designed for security analysis.
 >
@@ -137,27 +134,27 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/what-is-microsoft-copilot-for-security?u=76281980&t=22)** Too many alerts that overwhelm our security team and too many manual tasks to analyze, mitigate, and report security incidents.
 >
-> **[0:32](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/what-is-microsoft-copilot-for-security?u=76281980&t=32)** On the other side, we have too few skills covering multiple knowledge domains to field analysts who are experienced in security operations and too few hours for incident response.
+> **[0:32](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/what-is-microsoft-copilot-for-security?u=76281980&t=32)** On the other side, we have too few skills covering multiple knowledge domains to field analysts who are experienced in [[Security Operations]] and too few hours for [[Incident Response]].
 >
 > **[0:46](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/what-is-microsoft-copilot-for-security?u=76281980&t=46)** But is it possible for us to manage security at machine speed and the scale?
 >
-> **[0:52](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/what-is-microsoft-copilot-for-security?u=76281980&t=52)** A potential answer is using artificial intelligence or AI.
+> **[0:52](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/what-is-microsoft-copilot-for-security?u=76281980&t=52)** A potential answer is using [[Artificial Intelligence (AI)|artificial intelligence]] or AI.
 >
-> **[0:56](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/what-is-microsoft-copilot-for-security?u=76281980&t=56)** Specifically, the rise of generative AI is transforming how we work and learn today.
+> **[0:56](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/what-is-microsoft-copilot-for-security?u=76281980&t=56)** Specifically, the rise of [[Generative AI]] is transforming how we work and learn today.
 >
-> **[1:02](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/what-is-microsoft-copilot-for-security?u=76281980&t=62)** Generative AI become popular after OpenAI launched its ChatGPT application in late 2022.
+> **[1:02](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/what-is-microsoft-copilot-for-security?u=76281980&t=62)** Generative AI become popular after OpenAI launched its [[ChatGPT]] application in late 2022.
 >
 > **[1:10](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/what-is-microsoft-copilot-for-security?u=76281980&t=70)** Powered by its large language model, ChatGPT can answer questions covering many domains, summarize text, write articles and reports, provide advice and recommendations, and analyze and generate codes.
 >
-> **[1:26](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/what-is-microsoft-copilot-for-security?u=76281980&t=86)** Partnering with OpenAI, Microsoft introduced Copilot, an AI powered virtual companion to improve work productivity.
+> **[1:26](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/what-is-microsoft-copilot-for-security?u=76281980&t=86)** Partnering with OpenAI, [[Microsoft]] introduced Copilot, an AI powered virtual companion to improve work productivity.
 >
-> **[1:35](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/what-is-microsoft-copilot-for-security?u=76281980&t=95)** Built on the Copilot architecture, Microsoft offers a series of products such as Microsoft 365 Copilot, Copilot in Dynamics 365, Copilot in Power Apps, Copilot in Azure, GitHub Copilot, and Security Copilot, which you will learn in this course.
+> **[1:35](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/what-is-microsoft-copilot-for-security?u=76281980&t=95)** Built on the Copilot architecture, Microsoft offers a series of [[Microsoft Products|products]] such as [[Microsoft 365]] Copilot, Copilot in Dynamics 365, Copilot in Power Apps, Copilot in [[Microsoft Azure|Azure]], [[GitHub Copilot]], and Security Copilot, which you will learn in this course.
 >
 > **[1:59](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/what-is-microsoft-copilot-for-security?u=76281980&t=119)** There are two ways to use Microsoft Security Copilot.
 >
 > **[2:03](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/what-is-microsoft-copilot-for-security?u=76281980&t=123)** You can directly access the Security Copilot portal and enter your prompts just like how you use ChatGPT.
 >
-> **[2:11](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/what-is-microsoft-copilot-for-security?u=76281980&t=131)** This is called a standalone experience, or you can use Copilot in Microsoft Security Solutions like a Microsoft Defender, Entra, Intune, and a Purview.
+> **[2:11](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/what-is-microsoft-copilot-for-security?u=76281980&t=131)** This is called a standalone experience, or you can use Copilot in Microsoft Security Solutions like a [[Microsoft Defender]], [[Microsoft Entra ID|Entra]], Intune, and a Purview.
 >
 > **[2:22](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/what-is-microsoft-copilot-for-security?u=76281980&t=142)** This is called an embedded experience.
 >
@@ -177,19 +174,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (15), [[Microsoft Copilot|Copilot]] (14), [[Microsoft Security]] (4), management (4), ai (3)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (14), [[Microsoft Security]] (4), [[ChatGPT]] (3), [[Generative AI]] (2), [[Microsoft]] (2)
 > **Env Vars:** xdr (1), siem (1), iam (1)
 > **Analogies:** for example (1), just like (1), such as (1)
 > **Definitions:** is called (2)
 > **Tools:** github (1)
 > **Speakers:** - [narrator] (1)
 
-#### The key concepts of Microsoft Security Copilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/the-key-concepts-of-microsoft-security-copilot?u=76281980)
+#### [The key concepts of Microsoft Security Copilot](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/the-key-concepts-of-microsoft-security-copilot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/the-key-concepts-of-microsoft-security-copilot?u=76281980&t=0)** - [Instructor] Microsoft Security Copilot is an AI-powered solution for security analysis.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/the-key-concepts-of-microsoft-security-copilot?u=76281980&t=0)** - [Instructor] [[Microsoft Security]] [[Microsoft Copilot|Copilot]] is an AI-powered solution for security analysis.
 >
 > **[0:06](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/the-key-concepts-of-microsoft-security-copilot?u=76281980&t=6)** Let's begin by understanding some key concepts of Security Copilot.
 >
@@ -223,20 +219,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (9), prompt (4), [[Security]] (3), [[Microsoft Security]] (2), ai (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (9), [[Microsoft Security]] (2)
 > **Env Vars:** cve (3), cveid (1)
 > **Definitions:** is an  (2), stands for (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### The workflow of Microsoft Security Copilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/the-workflow-of-microsoft-security-copilot?u=76281980)
+#### [The workflow of Microsoft Security Copilot](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/the-workflow-of-microsoft-security-copilot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/the-workflow-of-microsoft-security-copilot?u=76281980&t=0)** - [Instructor] Let's take one step deeper and look at the workflow of Microsoft Security Copilot.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/the-workflow-of-microsoft-security-copilot?u=76281980&t=0)** - [Instructor] Let's take one step deeper and look at the workflow of [[Microsoft Security]] [[Microsoft Copilot|Copilot]].
 >
-> **[0:06](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/the-workflow-of-microsoft-security-copilot?u=76281980&t=6)** Security Copilot use its orchestrator to interact with user interfaces, including the standalone Security Copilot portal, and the Microsoft security solutions with Copilot embedded, like Microsoft Defender XDR, Entra, and Intune, plugins for integrating with Microsoft security products' third-party products or custom services, and AI services, including large language model or LLM, responsible AI for checking input prompts and output responses, and Azure Open AI service.
+> **[0:06](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/the-workflow-of-microsoft-security-copilot?u=76281980&t=6)** Security Copilot use its orchestrator to interact with user interfaces, including the standalone Security Copilot portal, and the Microsoft security solutions with Copilot embedded, like [[Microsoft Defender]] XDR, [[Microsoft Entra ID|Entra]], and Intune, plugins for integrating with Microsoft security [[Microsoft Products|products]]' third-party products or custom services, and AI services, including large language model or LLM, [[Responsible AI]] for checking input prompts and output responses, and [[Microsoft Azure|Azure]] Open AI service.
 >
 > **[0:46](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/the-workflow-of-microsoft-security-copilot?u=76281980&t=46)** Here's how it works.
 >
@@ -270,20 +265,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (9), [[Security]] (6), [[Microsoft Security]] (5), ai (5), prompt (4)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (9), [[Microsoft Security]] (5), [[Microsoft Defender]] (2), [[Microsoft Products|Products]] (2), [[Responsible AI]] (2)
 > **Env Vars:** xdr (1), llm (1), cve (1)
 > **Definitions:** is called (1), in other words (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Get started with Microsoft Security Copilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/get-started-with-microsoft-security-copilot?u=76281980)
+#### [Get started with Microsoft Security Copilot](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/get-started-with-microsoft-security-copilot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/get-started-with-microsoft-security-copilot?u=76281980&t=0)** - [Instructor] Let's get started with Microsoft Security Copilot.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/get-started-with-microsoft-security-copilot?u=76281980&t=0)** - [Instructor] Let's get started with [[Microsoft Security]] [[Microsoft Copilot|Copilot]].
 >
-> **[0:04](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/get-started-with-microsoft-security-copilot?u=76281980&t=4)** Open the browser, and enter the URL, securitycopilot.[microsoft.com](https://microsoft.com).
+> **[0:04](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/get-started-with-microsoft-security-copilot?u=76281980&t=4)** Open the browser, and enter the URL, securitycopilot.[[[Microsoft]].com](https://microsoft.com).
 >
 > **[0:11](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/get-started-with-microsoft-security-copilot?u=76281980&t=11)** I will sign in with my Microsoft work account.
 >
@@ -293,7 +287,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/get-started-with-microsoft-security-copilot?u=76281980&t=22)** You can filter prompts by job roles, such as SOC Analyst, IT Administrator, or Identity Administrator.
 >
-> **[0:39](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/get-started-with-microsoft-security-copilot?u=76281980&t=39)** You can also filter prompts by integrated plugins, such as Microsoft Entra, Microsoft Intune, or Microsoft Purview.
+> **[0:39](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/get-started-with-microsoft-security-copilot?u=76281980&t=39)** You can also filter prompts by integrated plugins, such as Microsoft [[Microsoft Entra ID|Entra]], Microsoft Intune, or Microsoft Purview.
 >
 > **[0:57](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/get-started-with-microsoft-security-copilot?u=76281980&t=57)** You can explore some promptbooks.
 >
@@ -317,7 +311,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/get-started-with-microsoft-security-copilot?u=76281980&t=108)** To see how Security Copilot worked on my request, I can expand the steps completed.
 >
-> **[1:56](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/get-started-with-microsoft-security-copilot?u=76281980&t=116)** First, it chose the plugin, Microsoft Defender Threat Intelligence.
+> **[1:56](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/get-started-with-microsoft-security-copilot?u=76281980&t=116)** First, it chose the plugin, [[Microsoft Defender]] Threat Intelligence.
 >
 > **[2:02](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/get-started-with-microsoft-security-copilot?u=76281980&t=122)** Then it to looked up threat intelligence information, and send it to the large language model to process.
 >
@@ -325,7 +319,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/get-started-with-microsoft-security-copilot?u=76281980&t=139)** I can rate the Copilot's response by selecting it looks right, needs improvement, or inappropriate.
 >
-> **[2:29](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/get-started-with-microsoft-security-copilot?u=76281980&t=149)** I can export the response by saving it to a Word document, send an email, or copying it to the clipboard.
+> **[2:29](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/get-started-with-microsoft-security-copilot?u=76281980&t=149)** I can export the response by saving it to a [[Microsoft Word|Word]] document, send an email, or copying it to the clipboard.
 >
 > **[2:40](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/get-started-with-microsoft-security-copilot?u=76281980&t=160)** I can also save this response to a pin board, so I can revisit it later.
 >
@@ -345,7 +339,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/get-started-with-microsoft-security-copilot?u=76281980&t=200)** Access Promptbook library.
 >
-> **[3:25](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/get-started-with-microsoft-security-copilot?u=76281980&t=205)** Adjust the settings like preferences, data, and privacy.
+> **[3:25](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/get-started-with-microsoft-security-copilot?u=76281980&t=205)** Adjust the settings like preferences, data, and [[Privacy]].
 >
 > **[3:34](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/get-started-with-microsoft-security-copilot?u=76281980&t=214)** If you have the owner role of Microsoft Security Copilot, you can see additional menu choices for Owner settings, Plugin settings, Role assignment, and Usage Monitoring.
 >
@@ -363,7 +357,7 @@ created: 2026-05-02
 >
 > **[4:29](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/get-started-with-microsoft-security-copilot?u=76281980&t=269)** Here, we can manage plugins.
 >
-> **[4:32](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/get-started-with-microsoft-security-copilot?u=76281980&t=272)** I can set up Copilot access to Microsoft security products, third-party products,
+> **[4:32](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/get-started-with-microsoft-security-copilot?u=76281980&t=272)** I can set up Copilot access to Microsoft security [[Microsoft Products|products]], third-party products,
 >
 > **[4:49](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/get-started-with-microsoft-security-copilot?u=76281980&t=289)** public websites, and add your custom plugins.
 >
@@ -383,7 +377,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (12), [[Security]] (9), [[Microsoft Security]] (5), [[Microsoft]] (5), prompt (5)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (12), [[Microsoft Security]] (5), [[Microsoft]] (5), [[Microsoft Products|Products]] (3), [[Microsoft Defender]] (2)
 > **Analogies:** for example (3), such as (2)
 > **Env Vars:** url (1), soc (1), xdr (1)
 > **Cross-References:** go back to (1), later in (1)
@@ -397,12 +391,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create effective prompts in Microsoft Security Copilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/create-effective-prompts-in-microsoft-security-copilot?u=76281980)
+#### [Create effective prompts in Microsoft Security Copilot](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/create-effective-prompts-in-microsoft-security-copilot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/create-effective-prompts-in-microsoft-security-copilot?u=76281980&t=0)** - [instructor] Microsoft Security Copilot is powered by generative AI.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/create-effective-prompts-in-microsoft-security-copilot?u=76281980&t=0)** - [instructor] [[Microsoft Security]] [[Microsoft Copilot|Copilot]] is powered by [[Generative AI]].
 >
 > **[0:05](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/create-effective-prompts-in-microsoft-security-copilot?u=76281980&t=5)** To help generate better responses, we need to create effective prompts.
 >
@@ -410,11 +403,11 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/create-effective-prompts-in-microsoft-security-copilot?u=76281980&t=11)** Basically, it's an instruction you send to generative AI.
 >
-> **[0:16](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/create-effective-prompts-in-microsoft-security-copilot?u=76281980&t=16)** Unlike programming languages, such as Java or Python, we use natural language to create a prompt.
+> **[0:16](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/create-effective-prompts-in-microsoft-security-copilot?u=76281980&t=16)** Unlike programming languages, such as [[Java]] or [[Python (Programming Language)|Python]], we use natural language to create a prompt.
 >
 > **[0:23](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/create-effective-prompts-in-microsoft-security-copilot?u=76281980&t=23)** For example, you can enter, "Suggest a seven-day California travel plan."
 >
-> **[0:28](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/create-effective-prompts-in-microsoft-security-copilot?u=76281980&t=28)** Then based on your prompt, generative AI applications, such as ChatGPT, will generate the response.
+> **[0:28](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/create-effective-prompts-in-microsoft-security-copilot?u=76281980&t=28)** Then based on your prompt, generative AI applications, such as [[ChatGPT]], will generate the response.
 >
 > **[0:36](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/create-effective-prompts-in-microsoft-security-copilot?u=76281980&t=36)** Microsoft Security Copilot is a generative AI application specialized in security, so your prompts should be security related.
 >
@@ -424,7 +417,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/create-effective-prompts-in-microsoft-security-copilot?u=76281980&t=58)** For example, let's compare two prompts.
 >
-> **[1:01](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/create-effective-prompts-in-microsoft-security-copilot?u=76281980&t=61)** "List all incidents," versus, "Can you list the incidents from Microsoft Defender XDR within the last 30 days?
+> **[1:01](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/create-effective-prompts-in-microsoft-security-copilot?u=76281980&t=61)** "List all incidents," versus, "Can you list the incidents from [[Microsoft Defender]] XDR within the last 30 days?
 >
 > **[1:10](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/create-effective-prompts-in-microsoft-security-copilot?u=76281980&t=70)** It's for my status update with managers.
 >
@@ -468,7 +461,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/create-effective-prompts-in-microsoft-security-copilot?u=76281980&t=178)** It's a collection of prompts working together to perform a task.
 >
-> **[3:02](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/create-effective-prompts-in-microsoft-security-copilot?u=76281980&t=182)** To learn more about applying prompting to common security tasks, check out my in-depth course on LinkedIn Learning, Microsoft Security Copilot: Prompts and Promptbooks.
+> **[3:02](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/create-effective-prompts-in-microsoft-security-copilot?u=76281980&t=182)** To learn more about applying prompting to common security tasks, check out my in-depth course on [[LinkedIn]] Learning, Microsoft Security Copilot: Prompts and Promptbooks.
 >
 > **[3:14](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/create-effective-prompts-in-microsoft-security-copilot?u=76281980&t=194)** Let's do a quick demo of using prompts in Microsoft Security Copilot.
 >
@@ -494,7 +487,7 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/create-effective-prompts-in-microsoft-security-copilot?u=76281980&t=250)** Here's a table with the required information for my status update.
 >
-> **[4:15](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/create-effective-prompts-in-microsoft-security-copilot?u=76281980&t=255)** I can then click Export to Excel.
+> **[4:15](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/create-effective-prompts-in-microsoft-security-copilot?u=76281980&t=255)** I can then click Export to [[Microsoft Excel|Excel]].
 >
 > **[4:21](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/create-effective-prompts-in-microsoft-security-copilot?u=76281980&t=261)** Open the Excel file, so I can use this information for my report.
 >
@@ -502,7 +495,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (11), prompt (10), [[Security]] (9), [[Microsoft Security]] (6), [[Generative AI]] (4)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (11), [[Microsoft Security]] (6), [[Generative AI]] (4), [[Microsoft Defender]] (3), [[Microsoft Excel|Excel]] (2)
 > **Analogies:** for example (6), such as (2)
 > **Env Vars:** xdr (3)
 > **UI Navigation:** open the (2), select the (1)
@@ -510,12 +503,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using plugins in Microsoft Security Copilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/use-plugins-in-microsoft-security-copilot?u=76281980)
+#### [Using plugins in Microsoft Security Copilot](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/use-plugins-in-microsoft-security-copilot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/use-plugins-in-microsoft-security-copilot?u=76281980&t=0)** - [Instructor] What role do plugins play in Microsoft Security Copilot?
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/use-plugins-in-microsoft-security-copilot?u=76281980&t=0)** - [Instructor] What role do plugins play in [[Microsoft Security]] [[Microsoft Copilot|Copilot]]?
 >
 > **[0:05](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/use-plugins-in-microsoft-security-copilot?u=76281980&t=5)** To extend the capabilities of Security Copilot, it needs to integrate with various services and data.
 >
@@ -525,13 +517,13 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/use-plugins-in-microsoft-security-copilot?u=76281980&t=22)** You can use many pre-installed plugins or create your custom plugins.
 >
-> **[0:27](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/use-plugins-in-microsoft-security-copilot?u=76281980&t=27)** The pre-installed plugins include Microsoft Plugins to integrate with Microsoft products like Microsoft Defender XDR, Entra, and Sentinel, and the non-Microsoft plugins, to third-party services like ServiceNow, Splunk and Shodan.
+> **[0:27](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/use-plugins-in-microsoft-security-copilot?u=76281980&t=27)** The pre-installed plugins include [[Microsoft]] Plugins to integrate with [[Microsoft Products]] like [[Microsoft Defender]] XDR, [[Microsoft Entra ID|Entra]], and Sentinel, and the non-Microsoft plugins, to third-party services like ServiceNow, Splunk and Shodan.
 >
 > **[0:45](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/use-plugins-in-microsoft-security-copilot?u=76281980&t=45)** You can also create your custom plugins to access API services, like VirusTotal and AbuseIPDB.
 >
-> **[0:53](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/use-plugins-in-microsoft-security-copilot?u=76281980&t=53)** And to look up data in Microsoft Services like Defender and Sentinel.
+> **[0:53](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/use-plugins-in-microsoft-security-copilot?u=76281980&t=53)** And to look up data in Microsoft Services like [[Microsoft Defender|Defender]] and Sentinel.
 >
-> **[0:58](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/use-plugins-in-microsoft-security-copilot?u=76281980&t=58)** If you are interested in creating your custom plugins, check out my in-depth LinkedIn Learning course, "Microsoft Security Copilot: working with pre-installed and custom plugins."
+> **[0:58](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/use-plugins-in-microsoft-security-copilot?u=76281980&t=58)** If you are interested in creating your custom plugins, check out my in-depth [[LinkedIn]] Learning course, "Microsoft Security Copilot: working with pre-installed and custom plugins."
 >
 > **[1:11](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/use-plugins-in-microsoft-security-copilot?u=76281980&t=71)** Now let's do a quick demo of plugins in Microsoft Security Copilot.
 >
@@ -575,26 +567,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (13), [[Microsoft Copilot|Copilot]] (9), prompt (5), [[Microsoft Security]] (3), [[Security]] (3)
+> **Frameworks & Libraries:** [[Microsoft]] (13), [[Microsoft Copilot|Copilot]] (9), [[Microsoft Security]] (3), [[Microsoft Products]] (1), [[Microsoft Defender]] (1)
 > **CLI Commands:** find (4)
 > **Env Vars:** xdr (1), api (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Handle incidents with Microsoft Security Copilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/handle-incidents-with-microsoft-security-copilot?u=76281980)
+#### [Handle incidents with Microsoft Security Copilot](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/handle-incidents-with-microsoft-security-copilot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/handle-incidents-with-microsoft-security-copilot?u=76281980&t=0)** - [Instructor] Incident investigation and response are critical to our security operations.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/handle-incidents-with-microsoft-security-copilot?u=76281980&t=0)** - [Instructor] Incident investigation and response are critical to our [[Security Operations]].
 >
-> **[0:06](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/handle-incidents-with-microsoft-security-copilot?u=76281980&t=6)** Let's see how Microsoft Security Copilot can help us handle incidents.
+> **[0:06](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/handle-incidents-with-microsoft-security-copilot?u=76281980&t=6)** Let's see how [[Microsoft Security]] [[Microsoft Copilot|Copilot]] can help us handle incidents.
 >
 > **[0:11](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/handle-incidents-with-microsoft-security-copilot?u=76281980&t=11)** In a typical security operations center or SOC, security analysts spend significant time handling incidents.
 >
 > **[0:19](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/handle-incidents-with-microsoft-security-copilot?u=76281980&t=19)** They're using variance of security systems.
 >
-> **[0:22](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/handle-incidents-with-microsoft-security-copilot?u=76281980&t=22)** For example, XDR, extended defense and response like Microsoft Defender XDR, SIEM, security information and event management like Microsoft Sentinel and threat intelligence like Microsoft Defender threat intelligence, and they're following a multi-step workflow.
+> **[0:22](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/handle-incidents-with-microsoft-security-copilot?u=76281980&t=22)** For example, XDR, extended defense and response like [[Microsoft Defender]] XDR, SIEM, security information and event management like [[Microsoft]] Sentinel and threat intelligence like Microsoft Defender threat intelligence, and they're following a multi-step workflow.
 >
 > **[0:43](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/handle-incidents-with-microsoft-security-copilot?u=76281980&t=43)** For example, triage incidents to assess security impact, determine incident severity, and assign owners.
 >
@@ -626,7 +617,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/handle-incidents-with-microsoft-security-copilot?u=76281980&t=116)** It automatically summarizes the incident and it provides a guided response with some recommendations.
 >
-> **[2:09](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/handle-incidents-with-microsoft-security-copilot?u=76281980&t=129)** This user experience is called the embedded experience.
+> **[2:09](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/handle-incidents-with-microsoft-security-copilot?u=76281980&t=129)** This [[User Experience (UX)|user experience]] is called the embedded experience.
 >
 > **[2:13](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/handle-incidents-with-microsoft-security-copilot?u=76281980&t=133)** We can also use security Copilot's standalone experience.
 >
@@ -666,7 +657,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (16), [[Microsoft Copilot|Copilot]] (12), [[Microsoft Defender]] (5), [[Microsoft Security]] (3), management (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (12), [[Microsoft Defender]] (5), [[Microsoft Security]] (3), [[Security Operations]] (2), [[Microsoft]] (1)
 > **Env Vars:** xdr (4), soc (1), siem (1), url (1)
 > **Analogies:** for example (4)
 > **CLI Commands:** find (1)
@@ -675,8 +666,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Analyze vulnerabilities with Microsoft Security Copilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/analyze-vulnerabilities-with-microsoft-security-copilot?u=76281980)
+#### [Analyze vulnerabilities with Microsoft Security Copilot](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/analyze-vulnerabilities-with-microsoft-security-copilot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -686,7 +676,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/analyze-vulnerabilities-with-microsoft-security-copilot?u=76281980&t=12)** In vulnerability analysis, security analysts often start with common vulnerabilities and exposures or CVE.
 >
-> **[0:21](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/analyze-vulnerabilities-with-microsoft-security-copilot?u=76281980&t=21)** There are variance sources where you can search CVE, for example, the official CVE list managed by Mitre, threat intelligence products like Microsoft Defender Threat Intelligence, and many threat intelligence feeds.
+> **[0:21](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/analyze-vulnerabilities-with-microsoft-security-copilot?u=76281980&t=21)** There are variance sources where you can search CVE, for example, the official CVE list managed by Mitre, threat intelligence [[Microsoft Products|products]] like [[Microsoft Defender]] Threat Intelligence, and many threat intelligence feeds.
 >
 > **[0:37](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/analyze-vulnerabilities-with-microsoft-security-copilot?u=76281980&t=37)** The analysis work often includes vulnerability summary, impacted technologies, threat actors, tactics, techniques and procedures, or TTPs used by hackers.
 >
@@ -694,7 +684,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/analyze-vulnerabilities-with-microsoft-security-copilot?u=76281980&t=55)** It takes time for security analysts to complete vulnerability research and analysis.
 >
-> **[1:01](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/analyze-vulnerabilities-with-microsoft-security-copilot?u=76281980&t=61)** Now let's see how Microsoft Security Copilot can help us.
+> **[1:01](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/analyze-vulnerabilities-with-microsoft-security-copilot?u=76281980&t=61)** Now let's see how [[Microsoft Security]] [[Microsoft Copilot|Copilot]] can help us.
 >
 > **[1:05](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/analyze-vulnerabilities-with-microsoft-security-copilot?u=76281980&t=65)** First we will find a sample CVE. This is the CVE website.
 >
@@ -730,7 +720,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), [[Security]] (5), [[Search]] (4), [[Microsoft Security]] (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), [[Microsoft Security]] (2), [[Microsoft Products|Products]] (1), [[Microsoft Defender]] (1)
 > **Env Vars:** cve (9)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for example (2)
@@ -739,14 +729,13 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 
-#### Analyze suspicious code with Microsoft Security Copilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/analyze-suspicious-code-with-microsoft-security-copilot?u=76281980)
+#### [Analyze suspicious code with Microsoft Security Copilot](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/analyze-suspicious-code-with-microsoft-security-copilot?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/analyze-suspicious-code-with-microsoft-security-copilot?u=76281980&t=0)** - [Instructor] Security analysts need to deal with all kinds of suspicious codes.
 >
-> **[0:05](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/analyze-suspicious-code-with-microsoft-security-copilot?u=76281980&t=5)** Let's see how Microsoft Security Copilot can help with that.
+> **[0:05](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/analyze-suspicious-code-with-microsoft-security-copilot?u=76281980&t=5)** Let's see how [[Microsoft Security]] [[Microsoft Copilot|Copilot]] can help with that.
 >
 > **[0:09](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/analyze-suspicious-code-with-microsoft-security-copilot?u=76281980&t=9)** Suspicious code analysis includes some common tasks, such as explain what the code does, investigate its security impact and related vulnerabilities, recommend actions to defend against the malicious code, write a code analysis report and share your findings with your team members.
 >
@@ -758,9 +747,9 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/analyze-suspicious-code-with-microsoft-security-copilot?u=76281980&t=48)** Now let's do a quick demo.
 >
-> **[0:50](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/analyze-suspicious-code-with-microsoft-security-copilot?u=76281980&t=50)** Here's a sample incident in my Microsoft Defender XDR portal.
+> **[0:50](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/analyze-suspicious-code-with-microsoft-security-copilot?u=76281980&t=50)** Here's a sample incident in my [[Microsoft Defender]] XDR portal.
 >
-> **[0:55](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/analyze-suspicious-code-with-microsoft-security-copilot?u=76281980&t=55)** Under attack story, click Suspicious PowerShell download or encoded command execution.
+> **[0:55](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/analyze-suspicious-code-with-microsoft-security-copilot?u=76281980&t=55)** Under attack story, click Suspicious [[Powershell]] download or encoded command execution.
 >
 > **[1:02](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/analyze-suspicious-code-with-microsoft-security-copilot?u=76281980&t=62)** I found a suspicious PowerShell script.
 >
@@ -802,7 +791,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/analyze-suspicious-code-with-microsoft-security-copilot?u=76281980&t=181)** I can then ask a Copilot to recommend actions to defend against the script.
 >
-> **[3:08](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/analyze-suspicious-code-with-microsoft-security-copilot?u=76281980&t=188)** Copilot suggested some actions, such as update php and MyAdmin to the latest version.
+> **[3:08](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/analyze-suspicious-code-with-microsoft-security-copilot?u=76281980&t=188)** Copilot suggested some actions, such as update [[PHP]] and MyAdmin to the latest version.
 >
 > **[3:15](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/analyze-suspicious-code-with-microsoft-security-copilot?u=76281980&t=195)** Finally, I can share my findings with my colleagues.
 >
@@ -814,7 +803,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (12), [[Security]] (7), [[Microsoft Security]] (3), [[Powershell]] (2), database (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (12), [[Microsoft Security]] (3), [[Powershell]] (2), [[Microsoft Defender]] (1), [[PHP]] (1)
 > **Tools:** powershell (2), command line (1)
 > **CLI Commands:** find (1), php (1)
 > **Env Vars:** xdr (1), cve (1)
@@ -823,24 +812,23 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
 
-#### Query uploaded files with Microsoft Security Copilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/query-uploaded-files-with-microsoft-security-copilot?u=76281980)
+#### [Query uploaded files with Microsoft Security Copilot](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/query-uploaded-files-with-microsoft-security-copilot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/query-uploaded-files-with-microsoft-security-copilot?u=76281980&t=0)** - We can add our organizational knowledge to Microsoft Security Copilot by uploading files.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/query-uploaded-files-with-microsoft-security-copilot?u=76281980&t=0)** - We can add our organizational knowledge to [[Microsoft Security]] [[Microsoft Copilot|Copilot]] by uploading files.
 >
-> **[0:06](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/query-uploaded-files-with-microsoft-security-copilot?u=76281980&t=6)** This method is based on the generative AI architecture approach called retrieval-augmented generation, or RAG.
+> **[0:06](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/query-uploaded-files-with-microsoft-security-copilot?u=76281980&t=6)** This method is based on the [[Generative AI]] architecture approach called [[Retrieval-Augmented Generation (RAG)|retrieval-augmented generation]], or RAG.
 >
 > **[0:15](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/query-uploaded-files-with-microsoft-security-copilot?u=76281980&t=15)** By using this method, we can ground the AI model with our own data so it'll generate more relevant responses.
 >
 > **[0:22](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/query-uploaded-files-with-microsoft-security-copilot?u=76281980&t=22)** In security Copilot, you have two ways to connect your organizational knowledge base.
 >
-> **[0:28](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/query-uploaded-files-with-microsoft-security-copilot?u=76281980&t=28)** Upload files, or use Azure AI search plugin.
+> **[0:28](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/query-uploaded-files-with-microsoft-security-copilot?u=76281980&t=28)** Upload files, or use [[Microsoft Azure|Azure]] AI search plugin.
 >
 > **[0:33](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/query-uploaded-files-with-microsoft-security-copilot?u=76281980&t=33)** Let's do a quick demo on uploading a file.
 >
-> **[0:36](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/query-uploaded-files-with-microsoft-security-copilot?u=76281980&t=36)** I have a sample file called Incident Response Team Communication Plan.
+> **[0:36](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/query-uploaded-files-with-microsoft-security-copilot?u=76281980&t=36)** I have a sample file called [[Incident Response]] Team Communication Plan.
 >
 > **[0:40](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/query-uploaded-files-with-microsoft-security-copilot?u=76281980&t=40)** This document defines the roles and the responsibilities of my team members during an incident response process.
 >
@@ -878,7 +866,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/query-uploaded-files-with-microsoft-security-copilot?u=76281980&t=119)** List the primary contact persons during an incident response process.
 >
-> **[2:06](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/query-uploaded-files-with-microsoft-security-copilot?u=76281980&t=126)** I can also provide my instructions on how to compose an answer.
+> **[2:06](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/query-uploaded-files-with-microsoft-security-copilot?u=76281980&t=126)** I can also provide my instructions on how to [[Jetpack Compose|compose]] an answer.
 >
 > **[2:11](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/query-uploaded-files-with-microsoft-security-copilot?u=76281980&t=131)** Format output as a table.
 >
@@ -890,18 +878,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (5), [[Microsoft Copilot|Copilot]] (4), [[Incident Response]] (3), [[Microsoft Security]] (2), ai (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (4), [[Incident Response]] (3), [[Microsoft Security]] (2), [[Generative AI]] (1), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** rag (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - we (1)
 
-#### Using promptbooks in Microsoft Security Copilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/use-promptbooks-in-microsoft-security-copilot?u=76281980)
+#### [Using promptbooks in Microsoft Security Copilot](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/use-promptbooks-in-microsoft-security-copilot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/use-promptbooks-in-microsoft-security-copilot?u=76281980&t=0)** - [Narrator] Let's talk about how to create your promptbooks in Microsoft Security Copilot.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/use-promptbooks-in-microsoft-security-copilot?u=76281980&t=0)** - [Narrator] Let's talk about how to create your promptbooks in [[Microsoft Security]] [[Microsoft Copilot|Copilot]].
 >
 > **[0:05](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/use-promptbooks-in-microsoft-security-copilot?u=76281980&t=5)** A promptbook is a collection of prompts that run in sequence automatically to complete a task.
 >
@@ -911,7 +898,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/use-promptbooks-in-microsoft-security-copilot?u=76281980&t=20)** For example, an incident ID, CVE ID, or additional context, Microsoft Security Copilot provides a promptbook library.
 >
-> **[0:30](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/use-promptbooks-in-microsoft-security-copilot?u=76281980&t=30)** You can find many prebuilt promptbooks created by Microsoft, or you can add your custom promptbooks to the library, and you can decide who can use this promptbooks, anyone in your organization or just you.
+> **[0:30](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/use-promptbooks-in-microsoft-security-copilot?u=76281980&t=30)** You can find many prebuilt promptbooks created by [[Microsoft]], or you can add your custom promptbooks to the library, and you can decide who can use this promptbooks, anyone in your organization or just you.
 >
 > **[0:44](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/use-promptbooks-in-microsoft-security-copilot?u=76281980&t=44)** Now let's do a quick demo.
 >
@@ -963,7 +950,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Security]] (3), [[Microsoft Copilot|Copilot]] (3), prompt (2), [[Microsoft]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Security]] (3), [[Microsoft Copilot|Copilot]] (3), [[Microsoft]] (1)
 > **Env Vars:** cve (6), cve_id (1), soc (1)
 > **Analogies:** for example (4)
 > **UI Navigation:** checkbox (1), select the (1), go to (1)
@@ -976,14 +963,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Course conclusion
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/course-conclusion?u=76281980)
+#### [Course conclusion](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/course-conclusion?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/course-conclusion?u=76281980&t=0)** - You made it! Congratulations on completing this course.
 >
-> **[0:04](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/course-conclusion?u=76281980&t=4)** Now, you have a solid understanding of Microsoft Security Copilot.
+> **[0:04](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/course-conclusion?u=76281980&t=4)** Now, you have a solid understanding of [[Microsoft Security]] [[Microsoft Copilot|Copilot]].
 >
 > **[0:09](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/course-conclusion?u=76281980&t=9)** As a quick summary, we learned how security copilot works with user interfaces, plugins, and AI services, how to create effective prompts and use system capabilities and promptbooks, and how you can use security copilot to handle incidents, analyze vulnerabilities, exam suspicious codes, and query your data.
 >
@@ -991,7 +977,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/course-conclusion?u=76281980&t=38)** I recommend that you do some hands-on exercises with Microsoft Security Copilot.
 >
-> **[0:44](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/course-conclusion?u=76281980&t=44)** If you want to level up your security copilot skills, you can check out my in-depth courses on LinkedIn learning.
+> **[0:44](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/course-conclusion?u=76281980&t=44)** If you want to level up your security copilot skills, you can check out my in-depth courses on [[LinkedIn]] learning.
 >
 > **[0:52](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/course-conclusion?u=76281980&t=52)** Microsoft Security Copilot: Working with Preinstalled and Custom Plugins, and Microsoft Security Copilot: Prompts and Promptbooks.
 >
@@ -1003,7 +989,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), [[Microsoft Security]] (4), [[Security]] (3), [[LinkedIn]] (2), ai (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), [[Microsoft Security]] (4), [[LinkedIn]] (2)
 > **Speakers:** - you (1)
 
 

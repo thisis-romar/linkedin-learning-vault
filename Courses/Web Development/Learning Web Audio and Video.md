@@ -104,8 +104,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Build interactive audio and video into your websites and applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/build-interactive-audio-and-video-into-your-websites-and-applications?u=76281980)
+#### [Build interactive audio and video into your websites and applications](https://www.linkedin.com/learning/learning-web-audio-and-video/build-interactive-audio-and-video-into-your-websites-and-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -113,7 +112,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/learning-web-audio-and-video/build-interactive-audio-and-video-into-your-websites-and-applications?u=76281980&t=2)** In this course, we'll examine how to work with audio and video on the web using native web technologies.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-web-audio-and-video/build-interactive-audio-and-video-into-your-websites-and-applications?u=76281980&t=9)** HTML, CSS, and JavaScript.
+> **[0:09](https://www.linkedin.com/learning/learning-web-audio-and-video/build-interactive-audio-and-video-into-your-websites-and-applications?u=76281980&t=9)** [[HTML]], CSS, and [[JavaScript]].
 >
 > **[0:12](https://www.linkedin.com/learning/learning-web-audio-and-video/build-interactive-audio-and-video-into-your-websites-and-applications?u=76281980&t=12)** First, we'll begin with an overview of web-based media and see how to link to and embed such media as part of an existing webpage.
 >
@@ -127,23 +126,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), [[HTML]] (1), css (1), [[JavaScript]] (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[JavaScript]] (1)
 > **Env Vars:** html5 (2), html (1), css (1), api (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [joseph] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/learning-web-audio-and-video/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-web-audio-and-video/what-you-should-know?u=76281980&t=0)** - [Instructor] While you don't necessarily need to know any advanced programming skills to begin working with this content, it is helpful to have a background in native web technologies.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-web-audio-and-video/what-you-should-know?u=76281980&t=9)** In this course, we'll be dealing with HTML, CSS and JavaScript.
+> **[0:09](https://www.linkedin.com/learning/learning-web-audio-and-video/what-you-should-know?u=76281980&t=9)** In this course, we'll be dealing with [[HTML]], CSS and [[JavaScript]].
 >
 > **[0:14](https://www.linkedin.com/learning/learning-web-audio-and-video/what-you-should-know?u=76281980&t=14)** Again, while you don't really need anything but basic knowledge of these concepts to get started, it might be helpful to review some of the basics.
 >
-> **[0:23](https://www.linkedin.com/learning/learning-web-audio-and-video/what-you-should-know?u=76281980&t=23)** There are a plethora of courses on LinkedIn Learning that can help you build up these skills.
+> **[0:23](https://www.linkedin.com/learning/learning-web-audio-and-video/what-you-should-know?u=76281980&t=23)** There are a plethora of courses on [[LinkedIn]] Learning that can help you build up these skills.
 >
 > **[0:28](https://www.linkedin.com/learning/learning-web-audio-and-video/what-you-should-know?u=76281980&t=28)** I suggest having a look at [[HTML Essential Training]] with James Williamson, Introduction to CSS with Carrie Dils, and [[JavaScript Essential Training]] with Morton Rand-Hendriksen.
 >
@@ -155,12 +153,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), [[HTML]] (3), css (2), [[JavaScript]] (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[JavaScript]] (2), [[LinkedIn]] (1)
 > **Env Vars:** html (3), css (2), html5 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/use-the-exercise-files?u=76281980)
+#### [Use the exercise files](https://www.linkedin.com/learning/learning-web-audio-and-video/use-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -170,7 +167,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/learning-web-audio-and-video/use-the-exercise-files?u=76281980&t=12)** Each folder has a selection of files inside.
 >
-> **[0:15](https://www.linkedin.com/learning/learning-web-audio-and-video/use-the-exercise-files?u=76281980&t=15)** Most are going to be just a simple index.html, but you can also find snippets.txt files here and there.
+> **[0:15](https://www.linkedin.com/learning/learning-web-audio-and-video/use-the-exercise-files?u=76281980&t=15)** Most are going to be just a simple index.[[HTML]], but you can also find snippets.txt files here and there.
 >
 > **[0:24](https://www.linkedin.com/learning/learning-web-audio-and-video/use-the-exercise-files?u=76281980&t=24)** You can copy the contents of each of these folders into your own project to jump to any specific point.
 >
@@ -189,8 +186,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### What's new in this update
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/what-s-new-in-this-update?u=76281980)
+#### [What's new in this update](https://www.linkedin.com/learning/learning-web-audio-and-video/what-s-new-in-this-update?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -211,14 +207,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Set up your environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/set-up-your-environment?u=76281980)
+#### [Set up your environment](https://www.linkedin.com/learning/learning-web-audio-and-video/set-up-your-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-web-audio-and-video/set-up-your-environment?u=76281980&t=0)** - [Instructor] We need to install and configure a text editor for editing HTML markup.
+> **[0:00](https://www.linkedin.com/learning/learning-web-audio-and-video/set-up-your-environment?u=76281980&t=0)** - [Instructor] We need to install and configure a text editor for editing [[HTML]] markup.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-web-audio-and-video/set-up-your-environment?u=76281980&t=5)** We'll be using Microsoft Visual Studio Code for this course, but you can use any editor that you wish.
+> **[0:05](https://www.linkedin.com/learning/learning-web-audio-and-video/set-up-your-environment?u=76281980&t=5)** We'll be using [[Microsoft]] Visual Studio Code for this course, but you can use any editor that you wish.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-web-audio-and-video/set-up-your-environment?u=76281980&t=11)** Visual Studio Code is a free cross-platform, powerful editor for native web technologies.
 >
@@ -226,7 +221,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/learning-web-audio-and-video/set-up-your-environment?u=76281980&t=23)** Then you simply click the download button for your platform.
 >
-> **[0:27](https://www.linkedin.com/learning/learning-web-audio-and-video/set-up-your-environment?u=76281980&t=27)** I'm on Windows here, so I'm going to download the Windows stable build.
+> **[0:27](https://www.linkedin.com/learning/learning-web-audio-and-video/set-up-your-environment?u=76281980&t=27)** I'm on [[Windows]] here, so I'm going to download the Windows stable build.
 >
 > **[0:32](https://www.linkedin.com/learning/learning-web-audio-and-video/set-up-your-environment?u=76281980&t=32)** The Visual Studio Code setup installer is now being installed to my Windows machine.
 >
@@ -258,7 +253,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), [[Windows]] (3), [[HTML]] (1), [[Microsoft]] (1), cross-platform (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[HTML]] (1), [[Microsoft]] (1)
 > **Tools:** visual studio (9)
 > **Prerequisites:** install (6), configure (1), setup (1)
 > **URLs:** [visualstudio.com](https://visualstudio.com) (1)
@@ -267,12 +262,11 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Definitions:** is a  (1)
 
-#### Create a new document
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/create-a-new-document?u=76281980)
+#### [Create a new document](https://www.linkedin.com/learning/learning-web-audio-and-video/create-a-new-document?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-web-audio-and-video/create-a-new-document?u=76281980&t=0)** - [Instructor] We'll now establish a project folder and create a new HTML document with standard boiler plate structures.
+> **[0:00](https://www.linkedin.com/learning/learning-web-audio-and-video/create-a-new-document?u=76281980&t=0)** - [Instructor] We'll now establish a project folder and create a new [[HTML]] document with standard boiler plate structures.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-web-audio-and-video/create-a-new-document?u=76281980&t=7)** We'll establish a documents head, body and the necessary meta data elements.
 >
@@ -314,19 +308,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (5), data (1)
+> **Frameworks & Libraries:** [[HTML]] (5)
 > **Env Vars:** html (4)
 > **File Paths:** index.html (1)
 > **Tools:** visual studio (1)
 > **UI Navigation:** drag and drop (1)
 > **Speakers:** - [instructor] (1)
 
-#### Link to media content
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/link-to-media-content?u=76281980)
+#### [Link to media content](https://www.linkedin.com/learning/learning-web-audio-and-video/link-to-media-content?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-web-audio-and-video/link-to-media-content?u=76281980&t=0)** - [Instructor] We'll now see how to establish standard links to media files via html tags using anchor elements.
+> **[0:00](https://www.linkedin.com/learning/learning-web-audio-and-video/link-to-media-content?u=76281980&t=0)** - [Instructor] We'll now see how to establish standard links to media files via [[HTML]] tags using anchor elements.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-web-audio-and-video/link-to-media-content?u=76281980&t=7)** This includes both a standard link, and a more modern direct download link.
 >
@@ -390,7 +383,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), [[HTML]] (2), css (2), next (1), hit (1)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **CLI Commands:** make (3), find (1)
 > **Tools:** visual studio (3)
 > **UI Navigation:** click on (2), in the tab (1)
@@ -399,12 +392,11 @@ created: 2026-05-02
 > **File Paths:** index.html (1)
 > **Ports:** port 5500 (1)
 
-#### Use embedded media
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/use-embedded-media?u=76281980)
+#### [Use embedded media](https://www.linkedin.com/learning/learning-web-audio-and-video/use-embedded-media?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-web-audio-and-video/use-embedded-media?u=76281980&t=0)** - [Instructor] We can also use iframe elements to embed externally hosted media content directly within our html from any service that supplies and allows cross-domain embed codes.
+> **[0:00](https://www.linkedin.com/learning/learning-web-audio-and-video/use-embedded-media?u=76281980&t=0)** - [Instructor] We can also use iframe elements to embed externally hosted media content directly within our [[HTML]] from any service that supplies and allows cross-domain embed codes.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-web-audio-and-video/use-embedded-media?u=76281980&t=13)** Let's go ahead and add that to our body, and we'll place it directly after our download video file link, we'll put some space in there, and scroll down a bit, and the first thing I'll actually put in here is a horizontal rule, so an HR element just to separate both of these.
 >
@@ -430,14 +422,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (3), hr (1), hit (1), web (1)
+> **Frameworks & Libraries:** [[HTML]] (3)
 > **UI Navigation:** scroll down (1), toggle (1)
 > **Ports:** port 5500 (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Remove the iframe border
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/challenge-remove-the-iframe-border?u=76281980)
+#### [Challenge: Remove the iframe border](https://www.linkedin.com/learning/learning-web-audio-and-video/challenge-remove-the-iframe-border?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -452,8 +443,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Remove the iframe border
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/solution-remove-the-iframe-border?u=76281980)
+#### [Solution: Remove the iframe border](https://www.linkedin.com/learning/learning-web-audio-and-video/solution-remove-the-iframe-border?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -461,7 +451,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/learning-web-audio-and-video/solution-remove-the-iframe-border?u=76281980&t=18)** If we look a little down here, there's our iframe, and we haven't actually done anything to the iframe attributes whatsoever.
 >
-> **[0:30](https://www.linkedin.com/learning/learning-web-audio-and-video/solution-remove-the-iframe-border?u=76281980&t=30)** But up above inside of our style block, within the head of our HTML document, what we have is an iframe definition.
+> **[0:30](https://www.linkedin.com/learning/learning-web-audio-and-video/solution-remove-the-iframe-border?u=76281980&t=30)** But up above inside of our style block, within the head of our [[HTML]] document, what we have is an iframe definition.
 >
 > **[0:40](https://www.linkedin.com/learning/learning-web-audio-and-video/solution-remove-the-iframe-border?u=76281980&t=40)** And in there, we target the border attribute and we set its value to none.
 >
@@ -469,7 +459,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** css (1), html (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -480,12 +470,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Modify your document for audio
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/modify-your-document-for-audio?u=76281980)
+#### [Modify your document for audio](https://www.linkedin.com/learning/learning-web-audio-and-video/modify-your-document-for-audio?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-web-audio-and-video/modify-your-document-for-audio?u=76281980&t=0)** - [Instructor] We'll now clear out our HTML document, removing all linked content and embeds, and prepare it for working with audio elements and attributes exclusively.
+> **[0:00](https://www.linkedin.com/learning/learning-web-audio-and-video/modify-your-document-for-audio?u=76281980&t=0)** - [Instructor] We'll now clear out our [[HTML]] document, removing all linked content and embeds, and prepare it for working with audio elements and attributes exclusively.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-web-audio-and-video/modify-your-document-for-audio?u=76281980&t=10)** So, what we'll do, I'll go ahead and just collapse our style.
 >
@@ -507,7 +496,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/learning-web-audio-and-video/modify-your-document-for-audio?u=76281980&t=91)** I'm going to go ahead and choose Inspect.
 >
-> **[1:33](https://www.linkedin.com/learning/learning-web-audio-and-video/modify-your-document-for-audio?u=76281980&t=93)** I'm using Google Chrome here, but just about every web browser has the ability to inspect elements through developer tools.
+> **[1:33](https://www.linkedin.com/learning/learning-web-audio-and-video/modify-your-document-for-audio?u=76281980&t=93)** I'm using [[Google]] Chrome here, but just about every web browser has the ability to inspect elements through developer tools.
 >
 > **[1:43](https://www.linkedin.com/learning/learning-web-audio-and-video/modify-your-document-for-audio?u=76281980&t=103)** I'm going to turn off that mobile view, and just have look at the different elements that we have inside the body here.
 >
@@ -529,7 +518,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), web (3), [[Google]] (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[Google]] (1)
 > **Env Vars:** html (4)
 > **Tools:** visual studio (3)
 > **CLI Commands:** make (1)
@@ -537,14 +526,13 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Specify an audio source
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/specify-an-audio-source?u=76281980)
+#### [Specify an audio source](https://www.linkedin.com/learning/learning-web-audio-and-video/specify-an-audio-source?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-web-audio-and-video/specify-an-audio-source?u=76281980&t=0)** - [Instructor] The source attribute allows us to specify the source file for our audio playback.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-web-audio-and-video/specify-an-audio-source?u=76281980&t=5)** This is the audio content that will play using the HTML audio element.
+> **[0:05](https://www.linkedin.com/learning/learning-web-audio-and-video/specify-an-audio-source?u=76281980&t=5)** This is the audio content that will play using the [[HTML]] audio element.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-web-audio-and-video/specify-an-audio-source?u=76281980&t=10)** The first thing we're going to have to do is have a look inside of our media folder within the project because right now we only have an MP4 video file.
 >
@@ -568,15 +556,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (1), hit (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** mp4 (2), html (1), src (1)
 > **Tools:** visual studio (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Specify multiple audio sources
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/specify-multiple-audio-sources?u=76281980)
+#### [Specify multiple audio sources](https://www.linkedin.com/learning/learning-web-audio-and-video/specify-multiple-audio-sources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -632,13 +619,13 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/learning-web-audio-and-video/specify-multiple-audio-sources?u=76281980&t=164)** Go ahead and save your file and we can have a look in the web browser.
 >
-> **[2:49](https://www.linkedin.com/learning/learning-web-audio-and-video/specify-multiple-audio-sources?u=76281980&t=169)** Now, you're not going to notice anything different because Google Chrome can play back an mp3 file just fine.
+> **[2:49](https://www.linkedin.com/learning/learning-web-audio-and-video/specify-multiple-audio-sources?u=76281980&t=169)** Now, you're not going to notice anything different because [[Google]] Chrome can play back an mp3 file just fine.
 >
 > **[2:56](https://www.linkedin.com/learning/learning-web-audio-and-video/specify-multiple-audio-sources?u=76281980&t=176)** However, if you are using a browser that could not play back an mp3 file, the Ogg Vorbis audio file would be loaded up in its place.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **Env Vars:** mime (2), mpeg (1), ogg (1)
 > **Warnings:** note that (2)
 > **CLI Commands:** make (1)
@@ -647,12 +634,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Include fallback content
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/include-fallback-content?u=76281980)
+#### [Include fallback content](https://www.linkedin.com/learning/learning-web-audio-and-video/include-fallback-content?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-web-audio-and-video/include-fallback-content?u=76281980&t=0)** - [Instructor] What would happen if an older web browser is being used which doesn't support the HTML 5 audio element at all?
+> **[0:00](https://www.linkedin.com/learning/learning-web-audio-and-video/include-fallback-content?u=76281980&t=0)** - [Instructor] What would happen if an older web browser is being used which doesn't support the [[HTML]] 5 audio element at all?
 >
 > **[0:07](https://www.linkedin.com/learning/learning-web-audio-and-video/include-fallback-content?u=76281980&t=7)** We can easily specify fallback content in such cases.
 >
@@ -668,7 +654,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/learning-web-audio-and-video/include-fallback-content?u=76281980&t=45)** We'll go ahead and save this and have a look inside the web browser.
 >
-> **[0:50](https://www.linkedin.com/learning/learning-web-audio-and-video/include-fallback-content?u=76281980&t=50)** Of course, since Google Chrome does support the HTML 5 audio element and the MP3 file format, that's what's being loaded here.
+> **[0:50](https://www.linkedin.com/learning/learning-web-audio-and-video/include-fallback-content?u=76281980&t=50)** Of course, since [[Google]] Chrome does support the HTML 5 audio element and the MP3 file format, that's what's being loaded here.
 >
 > **[0:59](https://www.linkedin.com/learning/learning-web-audio-and-video/include-fallback-content?u=76281980&t=59)** However, we can see in the source code that our fallback text does exist.
 >
@@ -678,21 +664,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), web (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[Google]] (1)
 > **Env Vars:** html (4), mp3 (2), ogg (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** source code (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Additional audio attributes
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/additional-audio-attributes?u=76281980)
+#### [Additional audio attributes](https://www.linkedin.com/learning/learning-web-audio-and-video/additional-audio-attributes?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-web-audio-and-video/additional-audio-attributes?u=76281980&t=0)** - [Instructor] We'll now look at some additional audio element attributes such as autoplay, loop, muted and preload.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-web-audio-and-video/additional-audio-attributes?u=76281980&t=8)** These impact the user experience and are important to consider.
+> **[0:08](https://www.linkedin.com/learning/learning-web-audio-and-video/additional-audio-attributes?u=76281980&t=8)** These impact the [[User Experience (UX)|user experience]] and are important to consider.
 >
 > **[0:12](https://www.linkedin.com/learning/learning-web-audio-and-video/additional-audio-attributes?u=76281980&t=12)** We're going to be dealing with the audio element itself here and right now we have a control's attribute set that's going to make the controls visible.
 >
@@ -730,7 +715,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/learning-web-audio-and-video/additional-audio-attributes?u=76281980&t=148)** Now preload gets three different values, you can't just set it.
 >
-> **[2:32](https://www.linkedin.com/learning/learning-web-audio-and-video/additional-audio-attributes?u=76281980&t=152)** You got auto, metadata and none.
+> **[2:32](https://www.linkedin.com/learning/learning-web-audio-and-video/additional-audio-attributes?u=76281980&t=152)** You got auto, [[Metadata]] and none.
 >
 > **[2:37](https://www.linkedin.com/learning/learning-web-audio-and-video/additional-audio-attributes?u=76281980&t=157)** I prefer to use metadata, however auto is going to leave up what is preloaded to the browser.
 >
@@ -750,7 +735,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Metadata]] (5), web (4), [[User Experience (UX)|User experience]] (1), data (1)
+> **Frameworks & Libraries:** [[Metadata]] (5), [[User Experience (UX)|User experience]] (1)
 > **Tools:** visual studio (3)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** such as (2)
@@ -758,24 +743,22 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Increase audio accessibility with tags
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/challenge-increase-audio-accessibility-with-tags?u=76281980)
+#### [Challenge: Increase audio accessibility with tags](https://www.linkedin.com/learning/learning-web-audio-and-video/challenge-increase-audio-accessibility-with-tags?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-web-audio-and-video/challenge-increase-audio-accessibility-with-tags?u=76281980&t=0)** - [Instructor] Accessibility is so important on the web, especially when it comes to audio, video and image content.
 >
-> **[0:13](https://www.linkedin.com/learning/learning-web-audio-and-video/challenge-increase-audio-accessibility-with-tags?u=76281980&t=13)** What might be an additional method of making audio content more accessible to users through the use of HTML?
+> **[0:13](https://www.linkedin.com/learning/learning-web-audio-and-video/challenge-increase-audio-accessibility-with-tags?u=76281980&t=13)** What might be an additional method of making audio content more accessible to users through the use of [[HTML]]?
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** html (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Increase audio accessibility with tags
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/solution-increase-audio-accessibility-with-tags?u=76281980)
+#### [Solution: Increase audio accessibility with tags](https://www.linkedin.com/learning/learning-web-audio-and-video/solution-increase-audio-accessibility-with-tags?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -785,7 +768,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/learning-web-audio-and-video/solution-increase-audio-accessibility-with-tags?u=76281980&t=26)** I have a figure element and also a figcaption element with a little descriptive text.
 >
-> **[0:35](https://www.linkedin.com/learning/learning-web-audio-and-video/solution-increase-audio-accessibility-with-tags?u=76281980&t=35)** This is going to add an additional layer of accessibility through standard descriptors in HTML.
+> **[0:35](https://www.linkedin.com/learning/learning-web-audio-and-video/solution-increase-audio-accessibility-with-tags?u=76281980&t=35)** This is going to add an additional layer of accessibility through standard descriptors in [[HTML]].
 >
 > **[0:43](https://www.linkedin.com/learning/learning-web-audio-and-video/solution-increase-audio-accessibility-with-tags?u=76281980&t=43)** Note that I've also gone ahead and added a rule to our CSS styles, which defines the font family, color and a little bit of padding.
 >
@@ -795,7 +778,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (1), css (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** html (1), css (1)
 > **CLI Commands:** find (1)
 > **Warnings:** note that (1)
@@ -807,12 +790,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Modify your document for video
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/modify-your-document-for-video?u=76281980)
+#### [Modify your document for video](https://www.linkedin.com/learning/learning-web-audio-and-video/modify-your-document-for-video?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-web-audio-and-video/modify-your-document-for-video?u=76281980&t=0)** - [Instructor] We'll now clear out our html document, removing all references to our audio content and prepare it for working with video elements and attributes exclusively, building upon what we've already learned.
+> **[0:00](https://www.linkedin.com/learning/learning-web-audio-and-video/modify-your-document-for-video?u=76281980&t=0)** - [Instructor] We'll now clear out our [[HTML]] document, removing all references to our audio content and prepare it for working with video elements and attributes exclusively, building upon what we've already learned.
 >
 > **[0:12](https://www.linkedin.com/learning/learning-web-audio-and-video/modify-your-document-for-video?u=76281980&t=12)** We'll go ahead and just select and delete all of that material.
 >
@@ -832,12 +814,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (1), web (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Specify height and width
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/specify-height-and-width?u=76281980)
+#### [Specify height and width](https://www.linkedin.com/learning/learning-web-audio-and-video/specify-height-and-width?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -877,14 +858,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2)
 > **Env Vars:** src (2)
 > **Cross-References:** go back to (1)
 > **Tools:** visual studio (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use a poster image
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/use-a-poster-image?u=76281980)
+#### [Use a poster image](https://www.linkedin.com/learning/learning-web-audio-and-video/use-a-poster-image?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -904,7 +883,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/learning-web-audio-and-video/use-a-poster-image?u=76281980&t=43)** Looking inside exercise files within the media folder, you'll find still.png.
 >
-> **[0:51](https://www.linkedin.com/learning/learning-web-audio-and-video/use-a-poster-image?u=76281980&t=51)** This is a simple, still image composite that I created in Adobe Photoshop and exported as a PNG image.
+> **[0:51](https://www.linkedin.com/learning/learning-web-audio-and-video/use-a-poster-image?u=76281980&t=51)** This is a simple, still image composite that I created in [[Adobe Photoshop]] and exported as a PNG image.
 >
 > **[0:59](https://www.linkedin.com/learning/learning-web-audio-and-video/use-a-poster-image?u=76281980&t=59)** Drag and drop this directly into the media folder in your project.
 >
@@ -922,13 +901,13 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/learning-web-audio-and-video/use-a-poster-image?u=76281980&t=105)** Note that other attributes like autoplay, loop, muted and even preload work the same with the video element as they do with audio.
 >
-> **[1:55](https://www.linkedin.com/learning/learning-web-audio-and-video/use-a-poster-image?u=76281980&t=115)** Let's go ahead and add a preload attribute here and we'll set this to metadata just as we did with the audio.
+> **[1:55](https://www.linkedin.com/learning/learning-web-audio-and-video/use-a-poster-image?u=76281980&t=115)** Let's go ahead and add a preload attribute here and we'll set this to [[Metadata]] just as we did with the audio.
 >
 > **[2:02](https://www.linkedin.com/learning/learning-web-audio-and-video/use-a-poster-image?u=76281980&t=122)** Now be sure to add this preload attribute to load in your metadata as we're going to need this later on as the course progresses.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Metadata]] (2), [[Adobe Photoshop]] (1), data (1)
+> **Frameworks & Libraries:** [[Metadata]] (2), [[Adobe Photoshop]] (1)
 > **Env Vars:** png (2)
 > **Tools:** visual studio (2)
 > **CLI Commands:** find (1)
@@ -937,8 +916,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 
-#### Media accessibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/media-accessibility?u=76281980)
+#### [Media accessibility](https://www.linkedin.com/learning/learning-web-audio-and-video/media-accessibility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -976,7 +954,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/learning-web-audio-and-video/media-accessibility?u=76281980&t=106)** Are these captions, chapters, descriptions?
 >
-> **[1:49](https://www.linkedin.com/learning/learning-web-audio-and-video/media-accessibility?u=76281980&t=109)** Is this metadata or subtitles?
+> **[1:49](https://www.linkedin.com/learning/learning-web-audio-and-video/media-accessibility?u=76281980&t=109)** Is this [[Metadata]] or subtitles?
 >
 > **[1:52](https://www.linkedin.com/learning/learning-web-audio-and-video/media-accessibility?u=76281980&t=112)** We want to be as correct here as possible.
 >
@@ -1022,29 +1000,27 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [narrator] (1)
 
-#### Challenge: Fill the background with looping video
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/challenge-fill-the-background-with-looping-video?u=76281980)
+#### [Challenge: Fill the background with looping video](https://www.linkedin.com/learning/learning-web-audio-and-video/challenge-fill-the-background-with-looping-video?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-web-audio-and-video/challenge-fill-the-background-with-looping-video?u=76281980&t=0)** (soft upbeat music)
 >
-> **[0:06](https://www.linkedin.com/learning/learning-web-audio-and-video/challenge-fill-the-background-with-looping-video?u=76281980&t=6)** - [Instructor] A common practice in modern web design is to use video not as content, but as a design element behind the content as part of the page background.
+> **[0:06](https://www.linkedin.com/learning/learning-web-audio-and-video/challenge-fill-the-background-with-looping-video?u=76281980&t=6)** - [Instructor] A common practice in modern [[Web Design]] is to use video not as content, but as a design element behind the content as part of the page background.
 >
 > **[0:19](https://www.linkedin.com/learning/learning-web-audio-and-video/challenge-fill-the-background-with-looping-video?u=76281980&t=19)** How would we convert our video content to a looping background design element?
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1)
+> **Frameworks & Libraries:** [[Web Design]] (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (soft upbeat music) (1)
 
-#### Solution: Fill the background with looping video
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/solution-fill-the-background-with-looping-video?u=76281980)
+#### [Solution: Fill the background with looping video](https://www.linkedin.com/learning/learning-web-audio-and-video/solution-fill-the-background-with-looping-video?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-web-audio-and-video/solution-fill-the-background-with-looping-video?u=76281980&t=0)** - [Instructor] So one possible solution to this challenge, if we look down here inside of our HTML, I've separated out my video element into an containing element called video-container, and I've also added in a little bit of content here in the form of a h1 element.
+> **[0:00](https://www.linkedin.com/learning/learning-web-audio-and-video/solution-fill-the-background-with-looping-video?u=76281980&t=0)** - [Instructor] So one possible solution to this challenge, if we look down here inside of our [[HTML]], I've separated out my video element into an containing element called video-container, and I've also added in a little bit of content here in the form of a h1 element.
 >
 > **[0:30](https://www.linkedin.com/learning/learning-web-audio-and-video/solution-fill-the-background-with-looping-video?u=76281980&t=30)** And that's wrapped within a div named content-container.
 >
@@ -1072,7 +1048,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (1), css (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** html (1), css (1)
 > **Warnings:** note that (1)
 > **Prerequisites:** setup (1)
@@ -1084,8 +1060,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Disable default media controls
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/disable-default-media-controls?u=76281980)
+#### [Disable default media controls](https://www.linkedin.com/learning/learning-web-audio-and-video/disable-default-media-controls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1093,7 +1068,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/learning-web-audio-and-video/disable-default-media-controls?u=76281980&t=11)** So looking in the web browser here, since we have the controls attribute as part of our video element, all of the different controls are being rendered by the browser itself.
 >
-> **[0:22](https://www.linkedin.com/learning/learning-web-audio-and-video/disable-default-media-controls?u=76281980&t=22)** Since I'm using Google Chrome here, these are the specific controls that are rendered by Chrome.
+> **[0:22](https://www.linkedin.com/learning/learning-web-audio-and-video/disable-default-media-controls?u=76281980&t=22)** Since I'm using [[Google]] Chrome here, these are the specific controls that are rendered by Chrome.
 >
 > **[0:29](https://www.linkedin.com/learning/learning-web-audio-and-video/disable-default-media-controls?u=76281980&t=29)** In both audio and video tags, the look and style of the controls are going to be determined by a specific browser being used.
 >
@@ -1109,21 +1084,20 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/learning-web-audio-and-video/disable-default-media-controls?u=76281980&t=75)** Additionally though, there's no way that we can start playback, that we can seek, change the volume, or anything.
 >
-> **[1:23](https://www.linkedin.com/learning/learning-web-audio-and-video/disable-default-media-controls?u=76281980&t=83)** We'll need to add additional playback controls of our own making, and later on, wire them up with JavaScript.
+> **[1:23](https://www.linkedin.com/learning/learning-web-audio-and-video/disable-default-media-controls?u=76281980&t=83)** We'll need to add additional playback controls of our own making, and later on, wire them up with [[JavaScript]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), [[Google]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[JavaScript]] (1)
 > **Cross-References:** go back to (1)
 > **Tools:** visual studio (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add playback buttons
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/add-playback-buttons?u=76281980)
+#### [Add playback buttons](https://www.linkedin.com/learning/learning-web-audio-and-video/add-playback-buttons?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-web-audio-and-video/add-playback-buttons?u=76281980&t=0)** - [Instructor] We'll now use a set of HTML button elements in order to replicate and customize the controls that users would normally expect to have when interacting with audio and video content.
+> **[0:00](https://www.linkedin.com/learning/learning-web-audio-and-video/add-playback-buttons?u=76281980&t=0)** - [Instructor] We'll now use a set of [[HTML]] button elements in order to replicate and customize the controls that users would normally expect to have when interacting with audio and video content.
 >
 > **[0:12](https://www.linkedin.com/learning/learning-web-audio-and-video/add-playback-buttons?u=76281980&t=12)** We'll use standard HTML elements to add in some of these controls.
 >
@@ -1163,16 +1137,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), next (1), web (1)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **Env Vars:** html (2)
 > **Speakers:** - [instructor] (1)
 
-#### Include text elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/include-text-elements?u=76281980)
+#### [Include text elements](https://www.linkedin.com/learning/learning-web-audio-and-video/include-text-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-web-audio-and-video/include-text-elements?u=76281980&t=0)** - [Instructor] When displaying text in HTML, we have many different tags to choose from.
+> **[0:00](https://www.linkedin.com/learning/learning-web-audio-and-video/include-text-elements?u=76281980&t=0)** - [Instructor] When displaying text in [[HTML]], we have many different tags to choose from.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-web-audio-and-video/include-text-elements?u=76281980&t=5)** We'll use a simple time element to display the current position and total duration of the media playback.
 >
@@ -1194,7 +1167,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/learning-web-audio-and-video/include-text-elements?u=76281980&t=61)** For each of these, we'll give them a specific ID.
 >
-> **[1:05](https://www.linkedin.com/learning/learning-web-audio-and-video/include-text-elements?u=76281980&t=65)** And for all of these different elements, the IDs are generally, so that we're able to target them through JavaScript and the media API later on.
+> **[1:05](https://www.linkedin.com/learning/learning-web-audio-and-video/include-text-elements?u=76281980&t=65)** And for all of these different elements, the IDs are generally, so that we're able to target them through [[JavaScript]] and the media API later on.
 >
 > **[1:14](https://www.linkedin.com/learning/learning-web-audio-and-video/include-text-elements?u=76281980&t=74)** Let's name this one position display.
 >
@@ -1228,14 +1201,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), [[HTML]] (1), [[JavaScript]] (1), api (1), css (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[JavaScript]] (1)
 > **Env Vars:** html (1), api (1), css (1)
 > **Ports:** :00 (1)
 > **Tools:** visual studio (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a progress bar
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/create-a-progress-bar?u=76281980)
+#### [Create a progress bar](https://www.linkedin.com/learning/learning-web-audio-and-video/create-a-progress-bar?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1261,14 +1233,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1), next (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** just like (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Overlay the media controls
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/challenge-overlay-the-media-controls?u=76281980)
+#### [Challenge: Overlay the media controls](https://www.linkedin.com/learning/learning-web-audio-and-video/challenge-overlay-the-media-controls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1281,8 +1251,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Overlay the media controls
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/solution-overlay-the-media-controls?u=76281980)
+#### [Solution: Overlay the media controls](https://www.linkedin.com/learning/learning-web-audio-and-video/solution-overlay-the-media-controls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1310,7 +1279,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** css (1)
 > **Definitions:** is a  (1)
@@ -1322,14 +1290,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Define CSS styles in a document
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/define-css-styles-in-a-document?u=76281980)
+#### [Define CSS styles in a document](https://www.linkedin.com/learning/learning-web-audio-and-video/define-css-styles-in-a-document?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-web-audio-and-video/define-css-styles-in-a-document?u=76281980&t=0)** - [Instructor] Our custom playback components are bare and ugly as they are right now.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-web-audio-and-video/define-css-styles-in-a-document?u=76281980&t=5)** We'll get ready to stylize them properly using some CSS within our html document.
+> **[0:05](https://www.linkedin.com/learning/learning-web-audio-and-video/define-css-styles-in-a-document?u=76281980&t=5)** We'll get ready to stylize them properly using some CSS within our [[HTML]] document.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-web-audio-and-video/define-css-styles-in-a-document?u=76281980&t=11)** For this we need to pop back over to Visual Studio Code and then scrolling up and looking within our head element, we'll find the style tag that we've added a couple of small styles to, just around color right now.
 >
@@ -1355,15 +1322,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (1), [[HTML]] (1), web (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** css (1)
 > **Tools:** visual studio (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Design your buttons
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/design-your-buttons?u=76281980)
+#### [Design your buttons](https://www.linkedin.com/learning/learning-web-audio-and-video/design-your-buttons?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1429,7 +1395,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), css (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** rgb (2), css (1)
 > **Versions:** 1.2 (1)
@@ -1438,8 +1403,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Style your text
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/style-your-text?u=76281980)
+#### [Style your text](https://www.linkedin.com/learning/learning-web-audio-and-video/style-your-text?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1525,15 +1489,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3)
 > **Env Vars:** css (3)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Design your progress bar
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/design-your-progress-bar?u=76281980)
+#### [Design your progress bar](https://www.linkedin.com/learning/learning-web-audio-and-video/design-your-progress-bar?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1647,11 +1609,11 @@ created: 2026-05-02
 >
 > **[4:57](https://www.linkedin.com/learning/learning-web-audio-and-video/design-your-progress-bar?u=76281980&t=297)** Now we've only added this width to test our visual styling.
 >
-> **[5:01](https://www.linkedin.com/learning/learning-web-audio-and-video/design-your-progress-bar?u=76281980&t=301)** Let's go back inside our visual studio code and remove that width definition as we're going to determine with programmatically moving forward with JavaScript.
+> **[5:01](https://www.linkedin.com/learning/learning-web-audio-and-video/design-your-progress-bar?u=76281980&t=301)** Let's go back inside our visual studio code and remove that width definition as we're going to determine with programmatically moving forward with [[JavaScript]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Tools:** visual studio (4)
 > **Env Vars:** css (2)
 > **Versions:** 0.6 (1)
@@ -1659,8 +1621,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Use web fonts
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/challenge-use-web-fonts?u=76281980)
+#### [Challenge: Use web fonts](https://www.linkedin.com/learning/learning-web-audio-and-video/challenge-use-web-fonts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1670,13 +1631,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), css (1)
 > **Env Vars:** css (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Use web fonts
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/solution-use-web-fonts?u=76281980)
+#### [Solution: Use web fonts](https://www.linkedin.com/learning/learning-web-audio-and-video/solution-use-web-fonts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1684,7 +1643,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/learning-web-audio-and-video/solution-use-web-fonts?u=76281980&t=9)** But this is the solution that I found to be the most straightforward for this project.
 >
-> **[0:16](https://www.linkedin.com/learning/learning-web-audio-and-video/solution-use-web-fonts?u=76281980&t=16)** And that is through use of Google Web Fonts.
+> **[0:16](https://www.linkedin.com/learning/learning-web-audio-and-video/solution-use-web-fonts?u=76281980&t=16)** And that is through use of [[Google]] Web Fonts.
 >
 > **[0:20](https://www.linkedin.com/learning/learning-web-audio-and-video/solution-use-web-fonts?u=76281980&t=20)** If we look in our project here, we have a link to a Google Web Fonts URL outline six.
 >
@@ -1700,7 +1659,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/learning-web-audio-and-video/solution-use-web-fonts?u=76281980&t=60)** And we can choose to review or embed these fonts.
 >
-> **[1:05](https://www.linkedin.com/learning/learning-web-audio-and-video/solution-use-web-fonts?u=76281980&t=65)** And there we go, there's the little link that's provided to us that we can place in the head of our HTML.
+> **[1:05](https://www.linkedin.com/learning/learning-web-audio-and-video/solution-use-web-fonts?u=76281980&t=65)** And there we go, there's the little link that's provided to us that we can place in the head of our [[HTML]].
 >
 > **[1:12](https://www.linkedin.com/learning/learning-web-audio-and-video/solution-use-web-fonts?u=76281980&t=72)** We also get the CSS rule to actually use this family.
 >
@@ -1714,7 +1673,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (7), [[Google]] (4), [[HTML]] (2), [[Search]] (1), css (1)
+> **Frameworks & Libraries:** [[Google]] (4), [[HTML]] (2)
 > **Env Vars:** html (2), url (1), css (1)
 > **UI Navigation:** go to (1), scroll down (1)
 > **URLs:** [google.com](https://google.com) (1)
@@ -1726,12 +1685,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of media API
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/overview-of-media-api?u=76281980)
+#### [Overview of media API](https://www.linkedin.com/learning/learning-web-audio-and-video/overview-of-media-api?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-web-audio-and-video/overview-of-media-api?u=76281980&t=0)** - [Instructor] Both audio and video elements can tap into the HTML 5 media API.
+> **[0:00](https://www.linkedin.com/learning/learning-web-audio-and-video/overview-of-media-api?u=76281980&t=0)** - [Instructor] Both audio and video elements can tap into the [[HTML]] 5 media API.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-web-audio-and-video/overview-of-media-api?u=76281980&t=5)** We'll make use of this application programming interface to not only wire up expected playback controls, but also to read certain media properties, and respond to various events.
 >
@@ -1739,7 +1697,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/learning-web-audio-and-video/overview-of-media-api?u=76281980&t=22)** So let's go all the way down to the bottom of our body, and we'll insert a script tag.
 >
-> **[0:31](https://www.linkedin.com/learning/learning-web-audio-and-video/overview-of-media-api?u=76281980&t=31)** Adding any JavaScript at the end of our body is going to insure that all of these different items have rendered already, and are addressable via JavaScript.
+> **[0:31](https://www.linkedin.com/learning/learning-web-audio-and-video/overview-of-media-api?u=76281980&t=31)** Adding any [[JavaScript]] at the end of our body is going to insure that all of these different items have rendered already, and are addressable via JavaScript.
 >
 > **[0:41](https://www.linkedin.com/learning/learning-web-audio-and-video/overview-of-media-api?u=76281980&t=41)** One additional change we'll need to make, is to put an ID on our video element, so that we can address it through the API.
 >
@@ -1789,7 +1747,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2), [[JavaScript]] (2), [[HTML]] (1), application (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[HTML]] (1)
 > **Env Vars:** api (2), html (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** set up (2)
@@ -1797,8 +1755,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Listen for Media events
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/listen-for-media-events?u=76281980)
+#### [Listen for Media events](https://www.linkedin.com/learning/learning-web-audio-and-video/listen-for-media-events?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1866,7 +1823,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/learning-web-audio-and-video/listen-for-media-events?u=76281980&t=200)** Now, the last type of events we want to listen for are a little bit different because they're based on the video element or media itself.
 >
-> **[3:28](https://www.linkedin.com/learning/learning-web-audio-and-video/listen-for-media-events?u=76281980&t=208)** We want to update the time whenever the metadata is initially loaded in our video, and whenever a time update event fires within our video.
+> **[3:28](https://www.linkedin.com/learning/learning-web-audio-and-video/listen-for-media-events?u=76281980&t=208)** We want to update the time whenever the [[Metadata]] is initially loaded in our video, and whenever a time update event fires within our video.
 >
 > **[3:39](https://www.linkedin.com/learning/learning-web-audio-and-video/listen-for-media-events?u=76281980&t=219)** So let's go ahead and add some event listeners for both of those particular events.
 >
@@ -1888,7 +1845,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Metadata]] (2), api (1)
+> **Frameworks & Libraries:** [[Metadata]] (2)
 > **Code Identifiers:** addeventlistener (3), seekmedia (3), playmedia (2), updatetime (2)
 > **Env Vars:** html5 (1), api (1)
 > **Definitions:** refers to (1), stands for (1)
@@ -1897,8 +1854,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Program button controls
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/program-button-controls?u=76281980)
+#### [Program button controls](https://www.linkedin.com/learning/learning-web-audio-and-video/program-button-controls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1926,13 +1882,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2), web (1), hit (1)
 > **Env Vars:** api (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dynamic time display
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/dynamic-time-display?u=76281980)
+#### [Dynamic time display](https://www.linkedin.com/learning/learning-web-audio-and-video/dynamic-time-display?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2018,7 +1972,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (1), data (1), web (1)
 > **Code Identifiers:** timedisplay (5), updatetime (3), currenttime (3), textcontent (2)
 > **File Paths:** snippets.txt (2)
 > **Env Vars:** html5 (1), api (1)
@@ -2027,8 +1980,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Wire up the progress bar
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/wire-up-the-progress-bar?u=76281980)
+#### [Wire up the progress bar](https://www.linkedin.com/learning/learning-web-audio-and-video/wire-up-the-progress-bar?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2072,7 +2024,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), api (1), hit (1)
 > **Code Identifiers:** currentlength (4), seekmedia (3), currenttime (3), offsetwidth (3), clientwidth (3)
 > **Speakers:** - [lecturer] (2), - [man (1)
 > **Env Vars:** html5 (1), api (1)
@@ -2080,9 +2031,9 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is an  (1)
+> **Analogies:** for example (1)
 
-#### Challenge: Show and hide the controls
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/challenge-show-and-hide-the-controls?u=76281980)
+#### [Challenge: Show and hide the controls](https://www.linkedin.com/learning/learning-web-audio-and-video/challenge-show-and-hide-the-controls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2097,12 +2048,11 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Show and hide the controls
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/solution-show-and-hide-the-controls?u=76281980)
+#### [Solution: Show and hide the controls](https://www.linkedin.com/learning/learning-web-audio-and-video/solution-show-and-hide-the-controls?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-web-audio-and-video/solution-show-and-hide-the-controls?u=76281980&t=0)** - The solution I came up with for this involves a little bit of JavaScript.
+> **[0:00](https://www.linkedin.com/learning/learning-web-audio-and-video/solution-show-and-hide-the-controls?u=76281980&t=0)** - The solution I came up with for this involves a little bit of [[JavaScript]].
 >
 > **[0:12](https://www.linkedin.com/learning/learning-web-audio-and-video/solution-show-and-hide-the-controls?u=76281980&t=12)** So if we scroll down, into our JavaScript area, what we do is define a new variable called mc.
 >
@@ -2150,8 +2100,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Further information
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/further-information?u=76281980)
+#### [Further information](https://www.linkedin.com/learning/learning-web-audio-and-video/further-information?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2167,7 +2116,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), api (1)
 > **Env Vars:** html5 (1), api (1)
 > **Speakers:** - [joseph] (1)
 

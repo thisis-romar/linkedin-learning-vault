@@ -72,12 +72,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why use Azure Pipelines?
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/why-use-azure-pipelines?u=76281980)
+#### [Why use Azure Pipelines?](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/why-use-azure-pipelines?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/why-use-azure-pipelines?u=76281980&t=0)** - [Prince] Azure Pipelines help with the build, test, and quick delivery of your software solutions to users.
+> **[0:00](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/why-use-azure-pipelines?u=76281980&t=0)** - [Prince] [[Microsoft Azure|Azure]] Pipelines help with the build, test, and quick delivery of your software solutions to users.
 >
 > **[0:08](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/why-use-azure-pipelines?u=76281980&t=8)** In this course, we will learn the concepts of Azure Pipelines and various features that can make your pipeline configuration easier.
 >
@@ -85,36 +84,35 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/why-use-azure-pipelines?u=76281980&t=24)** We will also integrate SonarCloud to scan our source code for any vulnerabilities and define a branch policy that checks for scan results before allowing modifications to be merged with a protected branch.
 >
-> **[0:38](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/why-use-azure-pipelines?u=76281980&t=38)** I am Prince Mokut, a cloud architect and DevOps engineer with many years of experience designing pipelines for projects written in several programming languages.
+> **[0:38](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/why-use-azure-pipelines?u=76281980&t=38)** I am Prince Mokut, a cloud architect and [[DevOps]] engineer with many years of experience designing pipelines for projects written in several programming languages.
 >
-> **[0:50](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/why-use-azure-pipelines?u=76281980&t=50)** If you're ready to start building CI/CD workflows for your development team or software projects, then come join me in my LinkedIn Learning course on Developing CI/CD Solutions with Azure Pipelines.
+> **[0:50](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/why-use-azure-pipelines?u=76281980&t=50)** If you're ready to start building CI/CD workflows for your development team or [[Software Projects]], then come join me in my [[LinkedIn]] Learning course on Developing CI/CD Solutions with Azure Pipelines.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), ci (2), cd (2), cloud (1), [[DevOps]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[DevOps]] (1), [[Software Projects]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** cd (2), make (1)
 > **Env Vars:** net (1)
 > **Exercise Files:** source code (1)
 > **Speakers:** - [prince] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/what-you-should-know?u=76281980&t=0)** - [Instructor] Before we get started with this course, there are a few things you need to have.
 >
-> **[0:05](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/what-you-should-know?u=76281980&t=5)** First download Git to your PC for version control of the source code and Visual Studio Code for making changes to the sample web application we will deploy to Azure App Service.
+> **[0:05](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/what-you-should-know?u=76281980&t=5)** First download [[Git]] to your PC for [[Version Control]] of the source code and Visual Studio Code for making changes to the sample web application we will deploy to [[Microsoft Azure|Azure]] App Service.
 >
 > **[0:19](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/what-you-should-know?u=76281980&t=19)** You also need to sign up on SonarCloud so we can use the code analysis feature.
 >
-> **[0:25](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/what-you-should-know?u=76281980&t=25)** Next, you will need to sign up on Azure Portal and Azure DevOps.
+> **[0:25](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/what-you-should-know?u=76281980&t=25)** Next, you will need to sign up on Azure Portal and Azure [[DevOps]].
 >
 > **[0:29](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/what-you-should-know?u=76281980&t=29)** So visit the link displayed on the screen to a register profile.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Git]] (1), [[Version Control]] (1), web application (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Git]] (1), [[Version Control]] (1), [[DevOps]] (1)
 > **Tools:** visual studio (1), azure portal (1)
 > **CLI Commands:** git (1)
 > **Exercise Files:** source code (1)
@@ -126,8 +124,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What really is Azure Pipelines?
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/what-really-is-azure-pipelines?u=76281980)
+#### [What really is Azure Pipelines?](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/what-really-is-azure-pipelines?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -139,11 +136,11 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/what-really-is-azure-pipelines?u=76281980&t=34)** How can we reduce toil for the dev team, enabling them to quickly test the application and get feedback?
 >
-> **[0:44](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/what-really-is-azure-pipelines?u=76281980&t=44)** For the purpose of quickly making your software applications accessible to users, Azure Pipelines provides a quick, easy, and safe way to automate building and deploying your projects.
+> **[0:44](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/what-really-is-azure-pipelines?u=76281980&t=44)** For the purpose of quickly making your software applications accessible to users, [[Microsoft Azure|Azure]] Pipelines provides a quick, easy, and safe way to automate building and deploying your projects.
 >
-> **[0:57](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/what-really-is-azure-pipelines?u=76281980&t=57)** Almost any language or project type is supported with Azure Pipelines, like Node.js, Python, Java, and even mobile applications.
+> **[0:57](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/what-really-is-azure-pipelines?u=76281980&t=57)** Almost any language or project type is supported with Azure Pipelines, like [[Node.js]], [[Python (Programming Language)|Python]], [[Java]], and even mobile applications.
 >
-> **[1:08](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/what-really-is-azure-pipelines?u=76281980&t=68)** CICD or continuous integration and continuous delivery are combined in Azure Pipelines to build and deliver your code to any target, whether infrastructure in any cloud platform or on-premises.
+> **[1:08](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/what-really-is-azure-pipelines?u=76281980&t=68)** CICD or [[Continuous Integration (CI)|continuous integration]] and [[Continuous Delivery (CD)|continuous delivery]] are combined in Azure Pipelines to build and deliver your code to any target, whether infrastructure in any cloud platform or on-premises.
 >
 > **[1:25](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/what-really-is-azure-pipelines?u=76281980&t=85)** Development teams utilize continuous integration in Azure Pipelines to automatically merge, build, and test their code.
 >
@@ -161,13 +158,13 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/what-really-is-azure-pipelines?u=76281980&t=176)** All these things can be done before an artifact is deployed to any environment.
 >
-> **[3:03](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/what-really-is-azure-pipelines?u=76281980&t=183)** Azure Pipelines provides a limited hours of free pipeline run every month for projects, so you can sign up for Azure DevOps services, which is cloud-based, and choose single services like Azure Pipelines, Artifact basic plan, or basic test plans.
+> **[3:03](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/what-really-is-azure-pipelines?u=76281980&t=183)** Azure Pipelines provides a limited hours of free pipeline run every month for projects, so you can sign up for [[Azure DevOps Services]], which is cloud-based, and choose single services like Azure Pipelines, Artifact basic plan, or basic test plans.
 >
-> **[3:22](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/what-really-is-azure-pipelines?u=76281980&t=202)** Or you can run locally in your enterprise server by installing the Azure DevOps Express tool.
+> **[3:22](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/what-really-is-azure-pipelines?u=76281980&t=202)** Or you can run locally in your enterprise server by installing the Azure [[DevOps]] Express tool.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), application (3), [[Continuous Delivery (CD)|Continuous delivery]] (3), cloud (3), ci (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Continuous Delivery (CD)|Continuous delivery]] (3), [[Continuous Integration (CI)|Continuous integration]] (2), [[Node.js]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** node (1), python (1)
 > **File Paths:** node.js (1)
 > **Env Vars:** cicd (1)
@@ -175,18 +172,17 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Key concepts of Azure Pipelines
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/key-concepts-of-azure-pipelines?u=76281980)
+#### [Key concepts of Azure Pipelines](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/key-concepts-of-azure-pipelines?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/key-concepts-of-azure-pipelines?u=76281980&t=0)** - [Instructor] Azure Pipelines is simply an automation tool that replaces the manual process of building and deploying software applications.
+> **[0:00](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/key-concepts-of-azure-pipelines?u=76281980&t=0)** - [Instructor] [[Microsoft Azure|Azure]] Pipelines is simply an automation tool that replaces the manual process of building and deploying software applications.
 >
 > **[0:09](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/key-concepts-of-azure-pipelines?u=76281980&t=9)** But this tool has several components which we will learn in a bit.
 >
-> **[0:14](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/key-concepts-of-azure-pipelines?u=76281980&t=14)** In Azure DevOps, there is the build and release pipeline.
+> **[0:14](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/key-concepts-of-azure-pipelines?u=76281980&t=14)** In Azure [[DevOps]], there is the build and release pipeline.
 >
-> **[0:19](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/key-concepts-of-azure-pipelines?u=76281980&t=19)** To access Azure DevOps, you can visit dev.[azure.com](https://azure.com) and sign up or sign in with your Outlook account.
+> **[0:19](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/key-concepts-of-azure-pipelines?u=76281980&t=19)** To access Azure DevOps, you can visit dev.[azure.com](https://azure.com) and sign up or sign in with your [[Microsoft Outlook|Outlook]] account.
 >
 > **[0:30](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/key-concepts-of-azure-pipelines?u=76281980&t=30)** I'm already logged into my DevOps account and I've opened the sample project.
 >
@@ -196,9 +192,9 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/key-concepts-of-azure-pipelines?u=76281980&t=55)** So let's click Pipelines and then click on New pipeline.
 >
-> **[1:02](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/key-concepts-of-azure-pipelines?u=76281980&t=62)** Here you define the continuous integration process of your application, and if you're defining the pipeline using YAML syntax, then you can also define the continuous deployment process in the single workflow.
+> **[1:02](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/key-concepts-of-azure-pipelines?u=76281980&t=62)** Here you define the [[Continuous Integration (CI)|continuous integration]] process of your application, and if you're defining the pipeline using YAML syntax, then you can also define the continuous deployment process in the single workflow.
 >
-> **[1:18](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/key-concepts-of-azure-pipelines?u=76281980&t=78)** So for instance, if my code is in Azure Repos and I would like to define my workflow using the YAML syntax, then I would select the Azure Repos Git as the source of my code.
+> **[1:18](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/key-concepts-of-azure-pipelines?u=76281980&t=78)** So for instance, if my code is in Azure Repos and I would like to define my workflow using the YAML syntax, then I would select the Azure Repos [[Git]] as the source of my code.
 >
 > **[1:33](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/key-concepts-of-azure-pipelines?u=76281980&t=93)** If you don't wish to use YAML, you can select the use classic data option.
 >
@@ -206,7 +202,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/key-concepts-of-azure-pipelines?u=76281980&t=107)** Then I'll select the appropriate template that fits my code.
 >
-> **[1:52](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/key-concepts-of-azure-pipelines?u=76281980&t=112)** For example, Node.js for building my Node.js application only or Node.js Express Web App to Linux on Azure.
+> **[1:52](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/key-concepts-of-azure-pipelines?u=76281980&t=112)** For example, [[Node.js]] for building my Node.js application only or Node.js Express Web App to [[Linux]] on Azure.
 >
 > **[2:02](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/key-concepts-of-azure-pipelines?u=76281980&t=122)** If I want to define all the build, test and deployment workflow in this single pipeline.
 >
@@ -224,17 +220,17 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/key-concepts-of-azure-pipelines?u=76281980&t=174)** For example, run the pipeline when changes are pushed to the repo for a specific branch.
 >
-> **[3:03](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/key-concepts-of-azure-pipelines?u=76281980&t=183)** A pool is a computing infrastructure where jobs would run and in this case, can be a Windows or Linux server.
+> **[3:03](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/key-concepts-of-azure-pipelines?u=76281980&t=183)** A pool is a computing infrastructure where jobs would run and in this case, can be a [[Windows]] or Linux server.
 >
 > **[3:12](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/key-concepts-of-azure-pipelines?u=76281980&t=192)** A pool is also referred to as an agent, especially if you use the classic data option to define your pipeline.
 >
 > **[3:22](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/key-concepts-of-azure-pipelines?u=76281980&t=202)** A step is where you define specific tasks or scripts to be executed when the pipeline is triggered.
 >
-> **[3:30](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/key-concepts-of-azure-pipelines?u=76281980&t=210)** For instance, we have a task here to install Node.js and after that run npm install and build the code.
+> **[3:30](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/key-concepts-of-azure-pipelines?u=76281980&t=210)** For instance, we have a task here to install Node.js and after that run [[npm]] install and build the code.
 >
 > **[3:39](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/key-concepts-of-azure-pipelines?u=76281980&t=219)** You can add a set of tasks to test your application, as well as scan the code for vulnerabilities.
 >
-> **[3:48](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/key-concepts-of-azure-pipelines?u=76281980&t=228)** The difference between a task and a script is that a script uses command line, PowerShell or Bash to execute your custom code, while a task is more or less an abstracted package script.
+> **[3:48](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/key-concepts-of-azure-pipelines?u=76281980&t=228)** The difference between a task and a script is that a script uses command line, [[Powershell]] or Bash to execute your custom code, while a task is more or less an abstracted package script.
 >
 > **[4:02](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/key-concepts-of-azure-pipelines?u=76281980&t=242)** All you have to do in a task is to provide the input parameters.
 >
@@ -272,7 +268,7 @@ created: 2026-05-02
 >
 > **[6:28](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/key-concepts-of-azure-pipelines?u=76281980&t=388)** I would like to deploy to Azure Web App.
 >
-> **[6:31](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/key-concepts-of-azure-pipelines?u=76281980&t=391)** So I'll select the Azure App Service deployment and click apply.
+> **[6:31](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/key-concepts-of-azure-pipelines?u=76281980&t=391)** So I'll select the Azure App [[Service Deployment]] and click apply.
 >
 > **[6:37](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/key-concepts-of-azure-pipelines?u=76281980&t=397)** Recall earlier that I mentioned a stage is a boundary of a set of pipeline jobs.
 >
@@ -320,7 +316,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (12), application (7), [[DevOps]] (4), [[Node.js]] (4), web (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (12), [[DevOps]] (4), [[Node.js]] (4), [[npm]] (3), [[Linux]] (2)
 > **UI Navigation:** select the (7), click on (2), dropdown (1), toggle (1)
 > **CLI Commands:** node (4), npm (3), git (1), find (1)
 > **Env Vars:** yaml (7)
@@ -329,14 +325,13 @@ created: 2026-05-02
 > **Prerequisites:** install (3), configure (2)
 > **File Paths:** node.js (4)
 
-#### Define pipeline assets in Library
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/define-pipeline-assets-in-library?u=76281980)
+#### [Define pipeline assets in Library](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/define-pipeline-assets-in-library?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/define-pipeline-assets-in-library?u=76281980&t=0)** - [Instructor] Apart from pipelines and releases, there are other features in Azure Pipelines that help make your workflow seamless to design.
+> **[0:00](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/define-pipeline-assets-in-library?u=76281980&t=0)** - [Instructor] Apart from pipelines and releases, there are other features in [[Microsoft Azure|Azure]] Pipelines that help make your workflow seamless to design.
 >
-> **[0:10](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/define-pipeline-assets-in-library?u=76281980&t=10)** If you expand the menu on the left, you'll see here that we have environments, which would usually be your virtual machines or Azure Kubernetes cluster where you can deploy your software applications or microservices.
+> **[0:10](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/define-pipeline-assets-in-library?u=76281980&t=10)** If you expand the menu on the left, you'll see here that we have environments, which would usually be your [[Virtual Machines]] or Azure [[Kubernetes]] cluster where you can deploy your software applications or [[Microservices]].
 >
 > **[0:28](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/define-pipeline-assets-in-library?u=76281980&t=28)** There is a task group feature where you can define common build and deployment steps templates, then reference the templates in your pipelines.
 >
@@ -384,7 +379,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), feature (3), [[Microservices]] (2), next (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Microservices]] (2), [[Virtual Machines]] (1), [[Kubernetes]] (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** cic (1)
@@ -396,18 +391,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Get your source code to Azure Repos
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/get-your-source-code-to-azure-repos?u=76281980)
+#### [Get your source code to Azure Repos](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/get-your-source-code-to-azure-repos?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/get-your-source-code-to-azure-repos?u=76281980&t=0)** - [Instructor] Now let's take a look at having a source code in the Azure DevOps repository.
+> **[0:00](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/get-your-source-code-to-azure-repos?u=76281980&t=0)** - [Instructor] Now let's take a look at having a source code in the [[Microsoft Azure|Azure]] [[DevOps]] repository.
 >
 > **[0:06](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/get-your-source-code-to-azure-repos?u=76281980&t=6)** First, we need to create a project on Azure DevOps.
 >
 > **[0:09](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/get-your-source-code-to-azure-repos?u=76281980&t=9)** So if you're not signed up to Azure DevOps, simply go to dev.[azure.com](https://azure.com) and click the Start Free button to sign up.
 >
-> **[0:19](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/get-your-source-code-to-azure-repos?u=76281980&t=19)** You would usually need an Outlook account to be able to register on Azure DevOps.
+> **[0:19](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/get-your-source-code-to-azure-repos?u=76281980&t=19)** You would usually need an [[Microsoft Outlook|Outlook]] account to be able to register on Azure DevOps.
 >
 > **[0:26](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/get-your-source-code-to-azure-repos?u=76281980&t=26)** Once you're signed in, click on the New Project button at the top-right corner of the screen.
 >
@@ -427,7 +421,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/get-your-source-code-to-azure-repos?u=76281980&t=66)** Otherwise, I'll have to pay for using SonarCloud.
 >
-> **[1:11](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/get-your-source-code-to-azure-repos?u=76281980&t=71)** So back in my project, I'll expand the advanced option and make sure my version control is Git.
+> **[1:11](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/get-your-source-code-to-azure-repos?u=76281980&t=71)** So back in my project, I'll expand the advanced option and make sure my [[Version Control]] is [[Git]].
 >
 > **[1:18](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/get-your-source-code-to-azure-repos?u=76281980&t=78)** Then click the create button.
 >
@@ -435,7 +429,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/get-your-source-code-to-azure-repos?u=76281980&t=86)** So on the left side of the screen, click on Repos.
 >
-> **[1:31](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/get-your-source-code-to-azure-repos?u=76281980&t=91)** Now we need to import a repository from GitHub.
+> **[1:31](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/get-your-source-code-to-azure-repos?u=76281980&t=91)** Now we need to import a repository from [[GitHub]].
 >
 > **[1:36](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/get-your-source-code-to-azure-repos?u=76281980&t=96)** So to do that, I'll click on the Import button and here we see we need to paste the GitHub URL.
 >
@@ -451,17 +445,17 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/get-your-source-code-to-azure-repos?u=76281980&t=134)** Awesome. The import was successful.
 >
-> **[2:17](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/get-your-source-code-to-azure-repos?u=76281980&t=137)** So this is a simple [ASP.NET](https://ASP.NET) Core application that shows the assessment report of all students for a particular course.
+> **[2:17](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/get-your-source-code-to-azure-repos?u=76281980&t=137)** So this is a simple [[[ASP.NET]]](https://ASP.NET) Core application that shows the assessment report of all students for a particular course.
 >
 > **[2:28](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/get-your-source-code-to-azure-repos?u=76281980&t=148)** We will build the CI/CD pipeline to deploy this application to stages, also known as environments, like the dev, test and production environment.
 >
-> **[2:39](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/get-your-source-code-to-azure-repos?u=76281980&t=159)** We'll be deploying these applications to Agile Web App Service.
+> **[2:39](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/get-your-source-code-to-azure-repos?u=76281980&t=159)** We'll be deploying these applications to [[Agile Development|Agile]] Web App Service.
 >
 > **[2:45](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/get-your-source-code-to-azure-repos?u=76281980&t=165)** You'll see how to use deployment slots to ensure that there is minimal downtime when we are deploying our source code or application to the production environment.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[DevOps]] (5), [[GitHub]] (3), application (3), [[Microsoft Outlook|Outlook]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[DevOps]] (5), [[GitHub]] (3), [[Microsoft Outlook|Outlook]] (1), [[Version Control]] (1)
 > **Env Vars:** url (3), asp (1), net (1)
 > **UI Navigation:** click on (3), go to (1)
 > **CLI Commands:** make (1), git (1), cd (1)
@@ -470,14 +464,13 @@ created: 2026-05-02
 > **Exercise Files:** source code (2)
 > **Definitions:** is a  (1), known as (1)
 
-#### Configure a build pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-a-build-pipeline?u=76281980)
+#### [Configure a build pipeline](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-a-build-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-a-build-pipeline?u=76281980&t=0)** - [Instructor] It's time for us to create the CI or build pipeline for our sample application.
 >
-> **[0:07](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-a-build-pipeline?u=76281980&t=7)** Remember that we need to enable continuous integration on this pipeline so that anytime changes are committed to the branch, it'll trigger the pipeline to build and test our source code for the linked branch.
+> **[0:07](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-a-build-pipeline?u=76281980&t=7)** Remember that we need to enable [[Continuous Integration (CI)|continuous integration]] on this pipeline so that anytime changes are committed to the branch, it'll trigger the pipeline to build and test our source code for the linked branch.
 >
 > **[0:21](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-a-build-pipeline?u=76281980&t=21)** So let's start by navigating to pipelines on the left menu.
 >
@@ -487,7 +480,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-a-build-pipeline?u=76281980&t=38)** If you would like to use the YAML syntax option to define your build pipeline, then you can select any of the options that have a YAML tag and represents the location of your source code.
 >
-> **[0:51](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-a-build-pipeline?u=76281980&t=51)** You can check Azure DevOps documentation to learn more about the advantages of using YAML over classic data.
+> **[0:51](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-a-build-pipeline?u=76281980&t=51)** You can check [[Microsoft Azure|Azure]] [[DevOps]] documentation to learn more about the advantages of using YAML over classic data.
 >
 > **[0:58](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-a-build-pipeline?u=76281980&t=58)** For this course, I'll be using the classic data option.
 >
@@ -503,7 +496,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-a-build-pipeline?u=76281980&t=102)** In that case, you need to define custom task in the empty job in order to build your pipeline.
 >
-> **[1:51](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-a-build-pipeline?u=76281980&t=111)** A sample application is an [ASP.net](https://ASP.net) Coreweb application.
+> **[1:51](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-a-build-pipeline?u=76281980&t=111)** A sample application is an [[[ASP.NET]]](https://ASP.net) Coreweb application.
 >
 > **[1:56](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-a-build-pipeline?u=76281980&t=116)** So let's search for [ASP.net](https://ASP.net) Coreor scroll down.
 >
@@ -517,7 +510,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-a-build-pipeline?u=76281980&t=145)** Then in the tax page we have something called the pipeline settings where you select the agent pull, the agent specification, and even set some parameters that can be used across multiple tasks in your pipeline.
 >
-> **[2:43](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-a-build-pipeline?u=76281980&t=163)** So in the agent specification field, click the dropdown and I'll be using Ubuntu latest since my [ASP.net](https://ASP.net) Core application can run on both Windows and Linux OSs.
+> **[2:43](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-a-build-pipeline?u=76281980&t=163)** So in the agent specification field, click the dropdown and I'll be using [[Ubuntu]] latest since my [ASP.net](https://ASP.net) Core application can run on both [[Windows]] and [[Linux]] OSs.
 >
 > **[2:58](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-a-build-pipeline?u=76281980&t=178)** Click the get sources tab and here you can configure some settings for your pipeline like change the repository, change the default branch, and also configure other settings.
 >
@@ -605,7 +598,7 @@ created: 2026-05-02
 >
 > **[9:47](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-a-build-pipeline?u=76281980&t=587)** It shows you the ripple name, the branch name, and the commit number.
 >
-> **[9:53](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-a-build-pipeline?u=76281980&t=593)** To view the logs of this currently running pipeline, you can click the agent job and here you can see all the tasks we defined in the pipeline, like the rest task, the build published and publish artifact task.
+> **[9:53](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-a-build-pipeline?u=76281980&t=593)** To view the logs of this currently running pipeline, you can click the agent job and here you can see all the tasks we defined in the pipeline, like the [[Representational State Transfer (REST)|rest]] task, the build published and publish artifact task.
 >
 > **[10:09](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-a-build-pipeline?u=76281980&t=609)** You can always view each of these to check for errors and we can see that the build succeeded with zero warnings and zero errors.
 >
@@ -621,7 +614,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (9), [[Microsoft Azure|Azure]] (4), [[Continuous Integration (CI)|Continuous integration]] (2), data (2), next (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Continuous Integration (CI)|Continuous integration]] (2), [[ASP.NET]] (2), [[ASP.NET Core]] (2), [[DevOps]] (1)
 > **UI Navigation:** click on (6), select the (4), scroll down (1), dropdown (1), go to (1)
 > **Env Vars:** asp (4), yaml (3)
 > **Exercise Files:** source code (3), template (3), zip file (1)
@@ -630,8 +623,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (5)
 > **URLs:** [asp.net](https://asp.net) (4)
 
-#### Integrate SonarCloud with the build pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/integrate-sonarcloud-with-the-build-pipeline?u=76281980)
+#### [Integrate SonarCloud with the build pipeline](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/integrate-sonarcloud-with-the-build-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -645,9 +637,9 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/integrate-sonarcloud-with-the-build-pipeline?u=76281980&t=42)** You can check out the documentation on the website to learn more about Sonar Cloud.
 >
-> **[0:48](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/integrate-sonarcloud-with-the-build-pipeline?u=76281980&t=48)** Before we can set up Sonar Cloud in Azure Pipelines, we need to create a profile on [sonarcloud.io](https://sonarcloud.io).
+> **[0:48](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/integrate-sonarcloud-with-the-build-pipeline?u=76281980&t=48)** Before we can set up Sonar Cloud in [[Microsoft Azure|Azure]] Pipelines, we need to create a profile on [sonarcloud.io](https://sonarcloud.io).
 >
-> **[0:56](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/integrate-sonarcloud-with-the-build-pipeline?u=76281980&t=56)** You can sign up using your Azure DevOps account, GitHub, Bitbucket, or GitLab.
+> **[0:56](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/integrate-sonarcloud-with-the-build-pipeline?u=76281980&t=56)** You can sign up using your Azure [[DevOps]] account, [[GitHub]], [[Bitbucket]], or GitLab.
 >
 > **[1:04](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/integrate-sonarcloud-with-the-build-pipeline?u=76281980&t=64)** I already have an account linked to my Azure DevOps profile so I won't be creating one now but it's pretty straightforward to create a profile if you follow the prompts.
 >
@@ -663,7 +655,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/integrate-sonarcloud-with-the-build-pipeline?u=76281980&t=120)** And you see here that the token is not valid so we need to create a personal access token in Azure DevOps and provide the token in this field.
 >
-> **[2:11](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/integrate-sonarcloud-with-the-build-pipeline?u=76281980&t=131)** To do that, head over to your Azure DevOps page and then at the top right, click on the user settings and click personal access tokens.
+> **[2:11](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/integrate-sonarcloud-with-the-build-pipeline?u=76281980&t=131)** To do that, head over to your Azure DevOps page and then at the top right, click on the user settings and click personal access [[Tokens]].
 >
 > **[2:28](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/integrate-sonarcloud-with-the-build-pipeline?u=76281980&t=148)** Let's create a new token by clicking the new token button and then provide a name, say Sonar Cloud.
 >
@@ -689,7 +681,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/integrate-sonarcloud-with-the-build-pipeline?u=76281980&t=215)** That's why I can select it here.
 >
-> **[3:38](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/integrate-sonarcloud-with-the-build-pipeline?u=76281980&t=218)** The rest of the projects are locked because they are not public projects.
+> **[3:38](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/integrate-sonarcloud-with-the-build-pipeline?u=76281980&t=218)** The [[Representational State Transfer (REST)|rest]] of the projects are locked because they are not public projects.
 >
 > **[3:43](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/integrate-sonarcloud-with-the-build-pipeline?u=76281980&t=223)** So click the setup button at the right to configure the Sonar Cloud settings.
 >
@@ -739,7 +731,7 @@ created: 2026-05-02
 >
 > **[6:04](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/integrate-sonarcloud-with-the-build-pipeline?u=76281980&t=364)** We are designing this analysis for a .Net Core application, so we'll select .Net.
 >
-> **[6:13](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/integrate-sonarcloud-with-the-build-pipeline?u=76281980&t=373)** You scroll down, and the next step, we have to set the fetch div value to zero.
+> **[6:13](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/integrate-sonarcloud-with-the-build-pipeline?u=76281980&t=373)** You scroll down, and the next step, we have to set the [[Fetch]] div value to zero.
 >
 > **[6:22](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/integrate-sonarcloud-with-the-build-pipeline?u=76281980&t=382)** If you defined your pipeline using the YAML syntax, you can go ahead and copy this to your file but I'll show you how to do this with the classic data model.
 >
@@ -829,7 +821,7 @@ created: 2026-05-02
 >
 > **[11:48](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/integrate-sonarcloud-with-the-build-pipeline?u=76281980&t=708)** So this is how to integrate Sonar Cloud with your build pipelines to continuously scan new versions of your code for vulnerabilities and bugs.
 >
-> **[11:59](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/integrate-sonarcloud-with-the-build-pipeline?u=76281980&t=719)** If I head back to the overview page, and scroll down to select the main branch, then open this bug by clicking its value, you can see here a bug is displayed which says you should add a description to this table in views home index.CS HTML file.
+> **[11:59](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/integrate-sonarcloud-with-the-build-pipeline?u=76281980&t=719)** If I head back to the overview page, and scroll down to select the main branch, then open this bug by clicking its value, you can see here a bug is displayed which says you should add a description to this table in views home index.CS [[HTML]] file.
 >
 > **[12:24](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/integrate-sonarcloud-with-the-build-pipeline?u=76281980&t=744)** To view this bug, you can click it to open.
 >
@@ -851,7 +843,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (30), [[Microsoft Azure|Azure]] (18), [[DevOps]] (15), next (6), application (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (18), [[DevOps]] (15), [[Representational State Transfer (REST)|Rest]] (2), [[Fetch]] (2), [[GitHub]] (1)
 > **UI Navigation:** click on (7), select the (5), go to (4), scroll down (4), drag and drop (2)
 > **Prerequisites:** set up (2), configure (2), install (2), setup (1)
 > **CLI Commands:** make (3), find (2)
@@ -860,8 +852,7 @@ created: 2026-05-02
 > **Definitions:** is a  (3)
 > **URLs:** [sonarcloud.io](https://sonarcloud.io) (1)
 
-#### Protect your important branches
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/protect-your-important-branches?u=76281980)
+#### [Protect your important branches](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/protect-your-important-branches?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -873,7 +864,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/protect-your-important-branches?u=76281980&t=27)** Please share in the comments section of this course.
 >
-> **[0:32](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/protect-your-important-branches?u=76281980&t=32)** Azure DevOps has branch policies where you can define certain configurations to protect important branches.
+> **[0:32](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/protect-your-important-branches?u=76281980&t=32)** [[Microsoft Azure|Azure]] [[DevOps]] has branch policies where you can define certain configurations to protect important branches.
 >
 > **[0:40](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/protect-your-important-branches?u=76281980&t=40)** Once this is set up, assuming we protect our main branch in this DevOps project, then direct commits or pushes to the main branch will fail.
 >
@@ -893,7 +884,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/protect-your-important-branches?u=76281980&t=113)** You can also check the allow requesters to approve their own changes so we don't get stuck in the project.
 >
-> **[2:00](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/protect-your-important-branches?u=76281980&t=120)** There are other settings you can configure, like check for linked work items, assuming you work in an agile team.
+> **[2:00](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/protect-your-important-branches?u=76281980&t=120)** There are other settings you can configure, like check for linked work items, assuming you work in an [[Agile Development|agile]] team.
 >
 > **[2:07](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/protect-your-important-branches?u=76281980&t=127)** You can also check for comment resolution and limit merge types.
 >
@@ -977,7 +968,7 @@ created: 2026-05-02
 >
 > **[7:15](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/protect-your-important-branches?u=76281980&t=435)** Click the save button and click the save button again.
 >
-> **[7:20](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/protect-your-important-branches?u=76281980&t=440)** With this setup, we cannot push changes directly to the main brunch except through a pull request and the merge requires code review from at least one person, as well as a successful build pipeline run.
+> **[7:20](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/protect-your-important-branches?u=76281980&t=440)** With this setup, we cannot push changes directly to the main brunch except through a pull request and the merge requires [[Code Review]] from at least one person, as well as a successful build pipeline run.
 >
 > **[7:36](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/protect-your-important-branches?u=76281980&t=456)** As a developer, you can create a feature branch for new features you're developing and push to the repo in Azure DevOps.
 >
@@ -989,11 +980,11 @@ created: 2026-05-02
 >
 > **[8:07](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/protect-your-important-branches?u=76281980&t=487)** For example, a developer might have been using an older or deprecated version of a package or some vulnerabilities exist in the code and now we can't push to any environment until those issues are resolved.
 >
-> **[8:23](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/protect-your-important-branches?u=76281980&t=503)** So it's best to adopt continuous integration early in your software development so you can catch and resolve issues early and always have a quality source code.
+> **[8:23](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/protect-your-important-branches?u=76281980&t=503)** So it's best to adopt [[Continuous Integration (CI)|continuous integration]] early in your [[Software Development]] so you can catch and resolve issues early and always have a quality source code.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (4), [[Microsoft Azure|Azure]] (3), feature (3), [[Search]] (2), application (1)
+> **Frameworks & Libraries:** [[DevOps]] (4), [[Microsoft Azure|Azure]] (3), [[Agile Development|Agile]] (1), [[Code Review]] (1), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **UI Navigation:** click on (3), select the (3), navigate to (2), open the (2), dropdown (2)
 > **Prerequisites:** configure (3), set up (1), setup (1)
 > **Definitions:** means that (2), is a  (1)
@@ -1002,14 +993,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Best Practices:** it's best to (1)
 
-#### Create a task group for build pipelines
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/create-a-task-group-for-build-pipelines?u=76281980)
+#### [Create a task group for build pipelines](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/create-a-task-group-for-build-pipelines?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/create-a-task-group-for-build-pipelines?u=76281980&t=0)** - [Instructor] Let's imagine this scenario.
 >
-> **[0:03](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/create-a-task-group-for-build-pipelines?u=76281980&t=3)** You are in charge of designing CICD pipelines for your development teams and there is a standard framework, for example, the net call for the backend, and Next.js for the front end.
+> **[0:03](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/create-a-task-group-for-build-pipelines?u=76281980&t=3)** You are in charge of designing CICD pipelines for your development teams and there is a standard framework, for example, the net call for the backend, and [[Next.js]] for the front end.
 >
 > **[0:16](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/create-a-task-group-for-build-pipelines?u=76281980&t=16)** If it's quite a busy team, you will likely be defining pipelines a lot of times.
 >
@@ -1075,7 +1065,7 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/create-a-task-group-for-build-pipelines?u=76281980&t=268)** Let's provide a name for this task group.
 >
-> **[4:31](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/create-a-task-group-for-build-pipelines?u=76281980&t=271)** I'll call it net core build task and a description, tasker for building [ASP.net](https://ASP.net) Core applications.
+> **[4:31](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/create-a-task-group-for-build-pipelines?u=76281980&t=271)** I'll call it net core build task and a description, tasker for building [[[ASP.NET]]](https://ASP.net) Core applications.
 >
 > **[4:49](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/create-a-task-group-for-build-pipelines?u=76281980&t=289)** The category will be build.
 >
@@ -1149,13 +1139,13 @@ created: 2026-05-02
 >
 > **[9:20](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/create-a-task-group-for-build-pipelines?u=76281980&t=560)** And then you can also set security permissions by clicking the ellipsis, select security, and grant permissions to individual users or groups.
 >
-> **[9:33](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/create-a-task-group-for-build-pipelines?u=76281980&t=573)** I enjoy using task groups especially as a help to design pipelines for microservices.
+> **[9:33](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/create-a-task-group-for-build-pipelines?u=76281980&t=573)** I enjoy using task groups especially as a help to design pipelines for [[Microservices]].
 >
 > **[9:40](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/create-a-task-group-for-build-pipelines?u=76281980&t=580)** So consider using task groups when building your next set of pipelines for your development team.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), cloud (3), next (2), [[Security]] (2), teams (1)
+> **Frameworks & Libraries:** [[Next.js]] (1), [[ASP.NET Core]] (1), [[Microservices]] (1)
 > **UI Navigation:** click on (5), select the (4), dropdown (2), navigate to (2), go to (1)
 > **Exercise Files:** template (4), source code (1)
 > **CLI Commands:** make (2), find (1)
@@ -1164,12 +1154,11 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Prerequisites:** configure (2)
 
-#### Simulate CI trigger and branching policies
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/simulate-ci-trigger-and-branching-policies?u=76281980)
+#### [Simulate CI trigger and branching policies](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/simulate-ci-trigger-and-branching-policies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/simulate-ci-trigger-and-branching-policies?u=76281980&t=0)** - [Instructor] We now have a working build pipeline, defined by using a task group: enabled continuous integration on the main and feature branches, and also enabled branching policies to require a pull request with a successful PR build before pulling changes into the main branch.
+> **[0:00](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/simulate-ci-trigger-and-branching-policies?u=76281980&t=0)** - [Instructor] We now have a working build pipeline, defined by using a task group: enabled [[Continuous Integration (CI)|continuous integration]] on the main and feature branches, and also enabled branching policies to require a pull request with a successful PR build before pulling changes into the main branch.
 >
 > **[0:21](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/simulate-ci-trigger-and-branching-policies?u=76281980&t=21)** Now, let's simulate a typical situation where a developer needs to modify code in a feature branch and merge with the main branch.
 >
@@ -1183,7 +1172,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/simulate-ci-trigger-and-branching-policies?u=76281980&t=64)** Open a terminal in your system.
 >
-> **[1:08](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/simulate-ci-trigger-and-branching-policies?u=76281980&t=68)** I have my batch terminal opened already, so I'll navigate to the downloads folder, and here I'll type git clone, and then paste the URL I copied.
+> **[1:08](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/simulate-ci-trigger-and-branching-policies?u=76281980&t=68)** I have my batch terminal opened already, so I'll navigate to the downloads folder, and here I'll type [[Git]] clone, and then paste the URL I copied.
 >
 > **[1:23](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/simulate-ci-trigger-and-branching-policies?u=76281980&t=83)** So right click, and paste, then enter.
 >
@@ -1191,7 +1180,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/simulate-ci-trigger-and-branching-policies?u=76281980&t=98)** So, CD student app, and then here I'll run code dot to open my code in Visual Studio Code.
 >
-> **[1:47](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/simulate-ci-trigger-and-branching-policies?u=76281980&t=107)** If you don't have Visual Studio Code, you can easily download one via a Google search, and install it in your PC.
+> **[1:47](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/simulate-ci-trigger-and-branching-policies?u=76281980&t=107)** If you don't have Visual Studio Code, you can easily download one via a [[Google]] search, and install it in your PC.
 >
 > **[1:56](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/simulate-ci-trigger-and-branching-policies?u=76281980&t=116)** Let's wait for the VS Code to load the source code.
 >
@@ -1229,7 +1218,7 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/simulate-ci-trigger-and-branching-policies?u=76281980&t=261)** Let's save the change.
 >
-> **[4:23](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/simulate-ci-trigger-and-branching-policies?u=76281980&t=263)** And now it's time to push it back to our remote repo. in Azure DevOps.
+> **[4:23](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/simulate-ci-trigger-and-branching-policies?u=76281980&t=263)** And now it's time to push it back to our remote repo. in [[Microsoft Azure|Azure]] [[DevOps]].
 >
 > **[4:29](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/simulate-ci-trigger-and-branching-policies?u=76281980&t=269)** So, let's open a terminal in VS Code at the top bar you would see the terminal menu, click and then select new terminal.
 >
@@ -1281,7 +1270,7 @@ created: 2026-05-02
 >
 > **[8:43](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/simulate-ci-trigger-and-branching-policies?u=76281980&t=523)** To complete this pull request so that the changes made in the features slash index branch will be reflected in the main branch, let's click the complete button at the top, and here we have the merge type: merge, no fast forward.
 >
-> **[9:00](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/simulate-ci-trigger-and-branching-policies?u=76281980&t=540)** The rest are disabled by policy we defined earlier, and then we can safely delete the feature slash index branch after merging.
+> **[9:00](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/simulate-ci-trigger-and-branching-policies?u=76281980&t=540)** The [[Representational State Transfer (REST)|rest]] are disabled by policy we defined earlier, and then we can safely delete the feature slash index branch after merging.
 >
 > **[9:11](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/simulate-ci-trigger-and-branching-policies?u=76281980&t=551)** So, let's click on complete merge, and now the pull request is completed.
 >
@@ -1289,7 +1278,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (9), [[Git]] (4), [[Microsoft Azure|Azure]] (3), [[Continuous Integration (CI)|Continuous integration]] (2), [[DevOps]] (2)
+> **Frameworks & Libraries:** [[Git]] (4), [[Microsoft Azure|Azure]] (3), [[Continuous Integration (CI)|Continuous integration]] (2), [[DevOps]] (2), [[Google]] (1)
 > **UI Navigation:** click on (5), navigate to (4), scroll down (2), open the (2), select the (1)
 > **Tools:** terminal (6), visual studio (4), vs code (3)
 > **CLI Commands:** git (4), cd (1), make (1)
@@ -1303,8 +1292,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### An overview of a release pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/an-overview-of-a-release-pipeline?u=76281980)
+#### [An overview of a release pipeline](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/an-overview-of-a-release-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1348,13 +1336,13 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/an-overview-of-a-release-pipeline?u=76281980&t=173)** You can also set up pre-deployment approvals whereby certain groups of persons or users must approve a deployment to a particular stage.
 >
-> **[3:05](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/an-overview-of-a-release-pipeline?u=76281980&t=185)** And then you can also define Git to evaluate before deployment and invoke a REST API to your monitoring tool or query work items or check on our cloud quality Git result to make sure there are no bugs before deploying to a particular stage.
+> **[3:05](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/an-overview-of-a-release-pipeline?u=76281980&t=185)** And then you can also define [[Git]] to evaluate before deployment and invoke a [[Representational State Transfer (REST)|REST]] API to your monitoring tool or query work items or check on our cloud quality Git result to make sure there are no bugs before deploying to a particular stage.
 >
 > **[3:25](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/an-overview-of-a-release-pipeline?u=76281980&t=205)** There is also the post-deployment approval setting, which might be useful in certain scenarios, for example, after the conclusion of a user acceptance test.
 >
 > **[3:36](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/an-overview-of-a-release-pipeline?u=76281980&t=216)** The QA lead can approve to indicate that the UAT was successful and it's safe to deploy the same artifact to open environment.
 >
-> **[3:47](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/an-overview-of-a-release-pipeline?u=76281980&t=227)** To set up the workflow for each stage, you can click the one job, one task link and here you can configure your stage, for example, select the Azure subscription for this web app and then select the application type, the application service name.
+> **[3:47](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/an-overview-of-a-release-pipeline?u=76281980&t=227)** To set up the workflow for each stage, you can click the one job, one task link and here you can configure your stage, for example, select the [[Microsoft Azure|Azure]] subscription for this web app and then select the application type, the application service name.
 >
 > **[4:06](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/an-overview-of-a-release-pipeline?u=76281980&t=246)** You can also configure the agent.
 >
@@ -1378,17 +1366,17 @@ created: 2026-05-02
 >
 > **[5:45](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/an-overview-of-a-release-pipeline?u=76281980&t=345)** That is if you have work items linked to the repository.
 >
-> **[5:50](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/an-overview-of-a-release-pipeline?u=76281980&t=350)** You can also report status if you've integrated your Azure DevOps with Jira, et cetera.
+> **[5:50](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/an-overview-of-a-release-pipeline?u=76281980&t=350)** You can also report status if you've integrated your Azure [[DevOps]] with [[Jira]], et cetera.
 >
 > **[5:57](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/an-overview-of-a-release-pipeline?u=76281980&t=357)** And lastly, the History tab is where you would find a report of changes made in the release pipeline.
 >
 > **[6:04](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/an-overview-of-a-release-pipeline?u=76281980&t=364)** Use this to audit activities related to the pipelines.
 >
-> **[6:09](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/an-overview-of-a-release-pipeline?u=76281980&t=369)** We will use some of these features while designing a release pipeline for our sample application where you can check out Microsoft Learn if you'd like to learn more about Azure Pipelines.
+> **[6:09](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/an-overview-of-a-release-pipeline?u=76281980&t=369)** We will use some of these features while designing a release pipeline for our sample application where you can check out [[Microsoft]] Learn if you'd like to learn more about Azure Pipelines.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), [[Microsoft Azure|Azure]] (6), cloud (2), [[Git]] (2), teams (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Git]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[DevOps]] (1), [[Jira]] (1)
 > **Analogies:** for example (6), just like (1)
 > **CLI Commands:** make (3), git (2), find (1)
 > **UI Navigation:** select the (4), go to (2)
@@ -1397,12 +1385,11 @@ created: 2026-05-02
 > **Exercise Files:** template (2)
 > **Tools:** jira (1)
 
-#### Create web apps in Azure
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/create-web-apps-in-azure?u=76281980)
+#### [Create web apps in Azure](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/create-web-apps-in-azure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/create-web-apps-in-azure?u=76281980&t=0)** - [Instructor] Let's create three Azure Web Apps for our sample application.
+> **[0:00](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/create-web-apps-in-azure?u=76281980&t=0)** - [Instructor] Let's create three [[Microsoft Azure|Azure]] Web Apps for our sample application.
 >
 > **[0:05](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/create-web-apps-in-azure?u=76281980&t=5)** Each app will represent an environment that is the development, testing or QA and production.
 >
@@ -1432,7 +1419,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/create-web-apps-in-azure?u=76281980&t=122)** And since this application is a .NET Core application, I'll select .NET 6 LTS for my runtime stack.
 >
-> **[2:14](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/create-web-apps-in-azure?u=76281980&t=134)** Leave Windows as the operating system for this web app and choose the region closest to your location.
+> **[2:14](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/create-web-apps-in-azure?u=76281980&t=134)** Leave [[Windows]] as the operating system for this web app and choose the region closest to your location.
 >
 > **[2:22](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/create-web-apps-in-azure?u=76281980&t=142)** This is the dev application and does not necessarily require a lot of compute resources.
 >
@@ -1450,7 +1437,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/create-web-apps-in-azure?u=76281980&t=192)** So let's click the next button.
 >
-> **[3:15](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/create-web-apps-in-azure?u=76281980&t=195)** If you want to set up GitHub Actions for this web app, then you can go ahead and do so.
+> **[3:15](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/create-web-apps-in-azure?u=76281980&t=195)** If you want to set up [[GitHub]] Actions for this web app, then you can go ahead and do so.
 >
 > **[3:20](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/create-web-apps-in-azure?u=76281980&t=200)** Well, I'll leave this as it is and click the Next button.
 >
@@ -1550,7 +1537,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (14), next (9), application (8), [[Microsoft Azure|Azure]] (4), [[Windows]] (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Windows]] (3), [[GitHub]] (1)
 > **UI Navigation:** select the (6), go to (3), scroll down (1), dropdown (1), click on (1)
 > **Env Vars:** net (4), lts (3)
 > **CLI Commands:** make (6)
@@ -1559,8 +1546,7 @@ created: 2026-05-02
 > **URLs:** [portalazure.com](https://portalazure.com) (1)
 > **Cross-References:** next video (1)
 
-#### Configure a release pipeline for multistage deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-a-release-pipeline-for-multistage-deployment?u=76281980)
+#### [Configure a release pipeline for multistage deployment](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-a-release-pipeline-for-multistage-deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1570,7 +1556,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-a-release-pipeline-for-multistage-deployment?u=76281980&t=7)** We will do it together now.
 >
-> **[0:11](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-a-release-pipeline-for-multistage-deployment?u=76281980&t=11)** Back in the Azure device page, let's navigate to releases.
+> **[0:11](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-a-release-pipeline-for-multistage-deployment?u=76281980&t=11)** Back in the [[Microsoft Azure|Azure]] device page, let's navigate to releases.
 >
 > **[0:15](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-a-release-pipeline-for-multistage-deployment?u=76281980&t=15)** So go to pipelines and select releases.
 >
@@ -1578,7 +1564,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-a-release-pipeline-for-multistage-deployment?u=76281980&t=25)** Just as in the build pipeline, there are a number of templates and releases for deploying applications of various frameworks and to different targets.
 >
-> **[0:35](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-a-release-pipeline-for-multistage-deployment?u=76281980&t=35)** We want to deploy to Azure web app, so let's click the apply button for Azure app service deployment.
+> **[0:35](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-a-release-pipeline-for-multistage-deployment?u=76281980&t=35)** We want to deploy to Azure web app, so let's click the apply button for Azure app [[Service Deployment]].
 >
 > **[0:44](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-a-release-pipeline-for-multistage-deployment?u=76281980&t=44)** Let's rename this stage to development.
 >
@@ -1628,7 +1614,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-a-release-pipeline-for-multistage-deployment?u=76281980&t=213)** In the stage settings page, we will connect to our Azure subscription.
 >
-> **[3:38](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-a-release-pipeline-for-multistage-deployment?u=76281980&t=218)** If you are logged in with the same account to both Azure DevOps and Azure Portal, you should see your subscription listed here in the Azure subscription field.
+> **[3:38](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-a-release-pipeline-for-multistage-deployment?u=76281980&t=218)** If you are logged in with the same account to both Azure [[DevOps]] and Azure Portal, you should see your subscription listed here in the Azure subscription field.
 >
 > **[3:49](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-a-release-pipeline-for-multistage-deployment?u=76281980&t=229)** Otherwise, you can click on the manage link at the top and then select new service connection to create a service connection.
 >
@@ -1646,7 +1632,7 @@ created: 2026-05-02
 >
 > **[4:51](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-a-release-pipeline-for-multistage-deployment?u=76281980&t=291)** Then click the authorized button.
 >
-> **[4:55](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-a-release-pipeline-for-multistage-deployment?u=76281980&t=295)** Once authorized, remember, the web app we deployed is with Windows operating system.
+> **[4:55](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-a-release-pipeline-for-multistage-deployment?u=76281980&t=295)** Once authorized, remember, the web app we deployed is with [[Windows]] operating system.
 >
 > **[5:02](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-a-release-pipeline-for-multistage-deployment?u=76281980&t=302)** So let's leave the app type as web app on Windows, and then let's select the app service name.
 >
@@ -1758,7 +1744,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (13), web (12), [[Windows]] (4), [[Service Deployment]] (2), next (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (13), [[Windows]] (4), [[Service Deployment]] (2), [[DevOps]] (1)
 > **UI Navigation:** select the (15), click on (9), go to (3), dropdown (2), navigate to (1)
 > **CLI Commands:** make (3), cd (1)
 > **Tools:** azure portal (4)
@@ -1767,8 +1753,7 @@ created: 2026-05-02
 > **Env Vars:** url (1)
 > **Definitions:** means that (1)
 
-#### Reconfigure your production stage release to deploy to a staging slot
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/reconfigure-your-production-stage-release-to-deploy-to-a-staging-slot?u=76281980)
+#### [Reconfigure your production stage release to deploy to a staging slot](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/reconfigure-your-production-stage-release-to-deploy-to-a-staging-slot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1780,7 +1765,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/reconfigure-your-production-stage-release-to-deploy-to-a-staging-slot?u=76281980&t=35)** We have to configure approvals so that deployments to non-development environments are first approved before the deployment begins.
 >
-> **[0:48](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/reconfigure-your-production-stage-release-to-deploy-to-a-staging-slot?u=76281980&t=48)** To do that, let's head back to our Azure DevOps project and navigate to releases.
+> **[0:48](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/reconfigure-your-production-stage-release-to-deploy-to-a-staging-slot?u=76281980&t=48)** To do that, let's head back to our [[Microsoft Azure|Azure]] [[DevOps]] project and navigate to releases.
 >
 > **[0:57](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/reconfigure-your-production-stage-release-to-deploy-to-a-staging-slot?u=76281980&t=57)** Select the student pipeline and click the edits button.
 >
@@ -1862,7 +1847,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), [[DevOps]] (2), application (2), next (2), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (2), [[Microsoft Azure|Azure]] (1)
 > **UI Navigation:** click on (3), scroll down (2), navigate to (1), select the (1)
 > **Prerequisites:** configure (3), set up (1)
 > **Definitions:** is a  (1), means that (1), is an  (1)
@@ -1871,8 +1856,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - now (1)
 
-#### Release pipelines for staging slot deployments
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/release-pipelines-for-staging-slot-deployments?u=76281980)
+#### [Release pipelines for staging slot deployments](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/release-pipelines-for-staging-slot-deployments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1900,7 +1884,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/release-pipelines-for-staging-slot-deployments?u=76281980&t=87)** Before we can do that, let's go create a staging slot in our production web app.
 >
-> **[1:34](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/release-pipelines-for-staging-slot-deployments?u=76281980&t=94)** So go to your Azure portal, and if you are not on your production web app, simply click the menu button and then select app services.
+> **[1:34](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/release-pipelines-for-staging-slot-deployments?u=76281980&t=94)** So go to your [[Microsoft Azure|Azure]] portal, and if you are not on your production web app, simply click the menu button and then select app services.
 >
 > **[1:47](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/release-pipelines-for-staging-slot-deployments?u=76281980&t=107)** Make sure the appropriate subscription is selected then click apply.
 >
@@ -1936,7 +1920,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/release-pipelines-for-staging-slot-deployments?u=76281980&t=205)** Then click add.
 >
-> **[3:29](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/release-pipelines-for-staging-slot-deployments?u=76281980&t=209)** Once the slot is created, let's close this, and then back in my Azure DevOps portal Navigate To release this.
+> **[3:29](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/release-pipelines-for-staging-slot-deployments?u=76281980&t=209)** Once the slot is created, let's close this, and then back in my Azure [[DevOps]] portal Navigate To release this.
 >
 > **[3:42](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/release-pipelines-for-staging-slot-deployments?u=76281980&t=222)** Make sure the student app pipeline is selected and then click the edit button.
 >
@@ -1988,7 +1972,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (8), [[Microsoft Azure|Azure]] (6), [[DevOps]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[DevOps]] (1)
 > **UI Navigation:** select the (10), click on (6), go to (3), dropdown (3), navigate to (1)
 > **CLI Commands:** make (5)
 > **Tools:** azure portal (2)
@@ -1997,8 +1981,7 @@ created: 2026-05-02
 > **Documentation:** specification (1)
 > **Speakers:** - i (1)
 
-#### Test release to deployment slots
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/test-release-to-deployment-slots?u=76281980)
+#### [Test release to deployment slots](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/test-release-to-deployment-slots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2006,7 +1989,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/test-release-to-deployment-slots?u=76281980&t=11)** First, let's browse to the staging slot URL, to see what we find in the page.
 >
-> **[0:17](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/test-release-to-deployment-slots?u=76281980&t=17)** So, head back to the Azure portal page and then make sure you're in the staging app service and click the browse button.
+> **[0:17](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/test-release-to-deployment-slots?u=76281980&t=17)** So, head back to the [[Microsoft Azure|Azure]] portal page and then make sure you're in the staging app service and click the browse button.
 >
 > **[0:27](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/test-release-to-deployment-slots?u=76281980&t=27)** And we see here the service is unavailable.
 >
@@ -2014,7 +1997,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/test-release-to-deployment-slots?u=76281980&t=36)** However, if you check the production slot URL you can see the website is displayed.
 >
-> **[0:43](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/test-release-to-deployment-slots?u=76281980&t=43)** Now let's imagine a scenario where, a developer has been asked to modify this application to include a serial number column, for better user experience.
+> **[0:43](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/test-release-to-deployment-slots?u=76281980&t=43)** Now let's imagine a scenario where, a developer has been asked to modify this application to include a serial number column, for better [[User Experience (UX)|user experience]].
 >
 > **[0:54](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/test-release-to-deployment-slots?u=76281980&t=54)** To do this, let's head back to our Visual Studio Code project.
 >
@@ -2070,7 +2053,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/test-release-to-deployment-slots?u=76281980&t=232)** And it's has pushed successfully to the remotes repository.
 >
-> **[3:56](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/test-release-to-deployment-slots?u=76281980&t=236)** So let's go to create a pool requests from this feature branch to the main branch in Azure DevOps page.
+> **[3:56](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/test-release-to-deployment-slots?u=76281980&t=236)** So let's go to create a pool requests from this feature branch to the main branch in Azure [[DevOps]] page.
 >
 > **[4:04](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/test-release-to-deployment-slots?u=76281980&t=244)** So back in my Azure DevOps page, I'll navigate to records, and you should see a notification that you updated the serial number feature branch some minutes ago.
 >
@@ -2206,7 +2189,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (12), feature (5), [[DevOps]] (5), web (5), application (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (12), [[DevOps]] (5), [[User Experience (UX)|User experience]] (1)
 > **UI Navigation:** click on (13), select the (4), go to (4), navigate to (3), open the (1)
 > **Env Vars:** slt (5), url (4), ctrl (1), sna (1)
 > **Tools:** terminal (6), azure portal (4), visual studio (1)
@@ -2220,8 +2203,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Configure notifications for successful deployments
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-notifications-for-successful-deployments?u=76281980)
+#### [Configure notifications for successful deployments](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-notifications-for-successful-deployments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2229,7 +2211,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-notifications-for-successful-deployments?u=76281980&t=15)** Let's learn how to set up notifications for release pipelines that have successfully deployed artifacts to linked environments.
 >
-> **[0:24](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-notifications-for-successful-deployments?u=76281980&t=24)** There are two ways to set up notifications: at the DevOps organization level, and in each project.
+> **[0:24](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-notifications-for-successful-deployments?u=76281980&t=24)** There are two ways to set up notifications: at the [[DevOps]] organization level, and in each project.
 >
 > **[0:32](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-notifications-for-successful-deployments?u=76281980&t=32)** To set up notifications at the organization level, click Organization Settings.
 >
@@ -2277,7 +2259,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-notifications-for-successful-deployments?u=76281980&t=205)** Now let's quickly test this.
 >
-> **[3:27](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-notifications-for-successful-deployments?u=76281980&t=207)** Let's go back to the Azure DevOps home page and then select the student app project.
+> **[3:27](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-notifications-for-successful-deployments?u=76281980&t=207)** Let's go back to the [[Microsoft Azure|Azure]] DevOps home page and then select the student app project.
 >
 > **[3:36](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-notifications-for-successful-deployments?u=76281980&t=216)** Let's go to pipelines and select releases.
 >
@@ -2301,7 +2283,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (4), [[Search]] (2), [[Microsoft Azure|Azure]] (2), next (1), business (1)
+> **Frameworks & Libraries:** [[DevOps]] (4), [[Microsoft Azure|Azure]] (2)
 > **UI Navigation:** click on (6), dropdown (2), scroll down (1), select the (1), go to (1)
 > **CLI Commands:** make (3), find (2)
 > **Prerequisites:** set up (5)
@@ -2314,20 +2296,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/next-steps?u=76281980&t=0)** - [Prince] CI/CD solutions With Azure DevOps is a great tool to eliminate deployment toil and enable faster build, test, and delivery of your software applications to your users.
+> **[0:00](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/next-steps?u=76281980&t=0)** - [Prince] CI/CD solutions With [[Microsoft Azure|Azure]] [[DevOps]] is a great tool to eliminate deployment toil and enable faster build, test, and delivery of your software applications to your users.
 >
 > **[0:14](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/next-steps?u=76281980&t=14)** I enjoy creating pipelines for new projects while continuously improving existing pipelines with the help of a task group template to accommodate changes in software applications.
 >
 > **[0:27](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/next-steps?u=76281980&t=27)** As you prepare to start your journey with configuring Azure build and release pipelines for your next project, there are many additional resources to help you along the way.
 >
-> **[0:39](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/next-steps?u=76281980&t=39)** Check out courses on Azure DevOps in the LinkedIn Learning Library as well as documentations or tutorials on Microsoft Learn.
+> **[0:39](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/next-steps?u=76281980&t=39)** Check out courses on Azure DevOps in the [[LinkedIn]] Learning Library as well as documentations or tutorials on [[Microsoft]] Learn.
 >
-> **[0:49](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/next-steps?u=76281980&t=49)** If you are already using GitHub as your source control and would like to learn how to integrate GitHub with Azure DevOps to manage your CI/CD workflow, then you can learn from my course on integrating Azure DevOps with GitHub here in the library.
+> **[0:49](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/next-steps?u=76281980&t=49)** If you are already using [[GitHub]] as your source control and would like to learn how to integrate GitHub with Azure DevOps to manage your CI/CD workflow, then you can learn from my course on integrating Azure DevOps with GitHub here in the library.
 >
 > **[1:07](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/next-steps?u=76281980&t=67)** As a reminder, we learned about the concept of Azure Pipelines, how to configure a pipeline and integrate SonarCloud to scan the source code for vulnerabilities.
 >
@@ -2339,13 +2320,13 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/next-steps?u=76281980&t=111)** I encourage you to explore using YAML syntax in configuring your CI/CD pipelines and learn more about branching strategies like the trunk-based development, GitFlow, or GitHub flow.
 >
-> **[2:06](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/next-steps?u=76281980&t=126)** Whatever stage you are in your CI/CD journey, I hope this course has made it easier to understand the concepts and be able to build CI/CD solutions with Azure DevOps for your next set of software projects.
+> **[2:06](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/next-steps?u=76281980&t=126)** Whatever stage you are in your CI/CD journey, I hope this course has made it easier to understand the concepts and be able to build CI/CD solutions with Azure DevOps for your next set of [[Software Projects]].
 >
 > **[2:22](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/next-steps?u=76281980&t=142)** Thank you for watching this course, and I wish you luck in your CI/CD journey.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), ci (6), cd (6), [[DevOps]] (5), [[GitHub]] (4)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[DevOps]] (5), [[GitHub]] (4), [[LinkedIn]] (1), [[Microsoft]] (1)
 > **CLI Commands:** cd (6)
 > **Tools:** github (4)
 > **Exercise Files:** template (1), source code (1)

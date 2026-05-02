@@ -103,12 +103,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### About the 2023 update
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/about-the-summer-2020-update?u=76281980)
+#### [About the 2023 update](https://www.linkedin.com/learning/windows-10-administration-3/about-the-summer-2020-update?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-administration-3/about-the-summer-2020-update?u=76281980&t=0)** - Hi, I'm Martin Guidry, and welcome to Windows 10: Administration.
+> **[0:00](https://www.linkedin.com/learning/windows-10-administration-3/about-the-summer-2020-update?u=76281980&t=0)** - Hi, I'm Martin Guidry, and welcome to [[Windows 10]]: Administration.
 >
 > **[0:05](https://www.linkedin.com/learning/windows-10-administration-3/about-the-summer-2020-update?u=76281980&t=5)** In this course, we'll cover the skills you need to administer the Windows 10 operating system.
 >
@@ -124,24 +123,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows 10]] (6), [[Security]] (1)
+> **Frameworks & Libraries:** [[Windows 10]] (6)
 > **Env Vars:** efs (1)
 > **Speakers:** - hi (1)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/welcome?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/windows-10-administration-3/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-administration-3/welcome?u=76281980&t=0)** - Let's talk a little bit about what you should know before we start our course on Windows 10 administration.
+> **[0:00](https://www.linkedin.com/learning/windows-10-administration-3/welcome?u=76281980&t=0)** - Let's talk a little bit about what you should know before we start our course on [[Windows 10]] administration.
 >
 > **[0:07](https://www.linkedin.com/learning/windows-10-administration-3/welcome?u=76281980&t=7)** This course is designed for IT professionals who are working in a capacity of supporting a Windows 10 on the desktop.
 >
-> **[0:15](https://www.linkedin.com/learning/windows-10-administration-3/welcome?u=76281980&t=15)** This is not an introductory course to Windows.
+> **[0:15](https://www.linkedin.com/learning/windows-10-administration-3/welcome?u=76281980&t=15)** This is not an introductory course to [[Windows]].
 >
 > **[0:18](https://www.linkedin.com/learning/windows-10-administration-3/welcome?u=76281980&t=18)** If you're looking for an introductory, beginner-level course, I encourage you to try Windows 10 Essential Training here on [lynda.com](https://lynda.com).
 >
-> **[0:28](https://www.linkedin.com/learning/windows-10-administration-3/welcome?u=76281980&t=28)** To get the most out of this course, it would be good if you have experience administering desktop operating systems, such as a previous version of Windows, or maybe Macintosh or Linux desktops.
+> **[0:28](https://www.linkedin.com/learning/windows-10-administration-3/welcome?u=76281980&t=28)** To get the most out of this course, it would be good if you have experience administering desktop operating systems, such as a previous version of Windows, or maybe Macintosh or [[Linux]] desktops.
 >
 > **[0:43](https://www.linkedin.com/learning/windows-10-administration-3/welcome?u=76281980&t=43)** In general, you should be familiar enough with Windows to work with File Explorer and the control panels, and be comfortable with basic networking terms.
 
@@ -153,20 +151,18 @@ created: 2026-05-02
 > **Prerequisites:** before we start (1)
 > **Speakers:** - let (1)
 
-#### What you should know before starting
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/what-you-should-know-before-starting-20220578?u=76281980)
+#### [What you should know before starting](https://www.linkedin.com/learning/windows-10-administration-3/what-you-should-know-before-starting-20220578?u=76281980)
 
 
 ### 1. Windows 10 Editions and Features
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding the desktop versions of Windows 10
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/understanding-the-desktop-versions-of-windows-10?u=76281980)
+#### [Understanding the desktop versions of Windows 10](https://www.linkedin.com/learning/windows-10-administration-3/understanding-the-desktop-versions-of-windows-10?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-administration-3/understanding-the-desktop-versions-of-windows-10?u=76281980&t=0)** - [Instructor] Let's start out by talking about the different editions of Windows 10.
+> **[0:00](https://www.linkedin.com/learning/windows-10-administration-3/understanding-the-desktop-versions-of-windows-10?u=76281980&t=0)** - [Instructor] Let's start out by talking about the different editions of [[Windows 10]].
 >
 > **[0:06](https://www.linkedin.com/learning/windows-10-administration-3/understanding-the-desktop-versions-of-windows-10?u=76281980&t=6)** Windows 10 is available in three primary editions for desktop computers.
 >
@@ -182,7 +178,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/windows-10-administration-3/understanding-the-desktop-versions-of-windows-10?u=76281980&t=48)** The Enterprise edition is a little more difficult to come by with a few exceptions, it's only sold in volume license sets.
 >
-> **[0:58](https://www.linkedin.com/learning/windows-10-administration-3/understanding-the-desktop-versions-of-windows-10?u=76281980&t=58)** In other words, large businesses buy a large number of licenses from Microsoft at one time.
+> **[0:58](https://www.linkedin.com/learning/windows-10-administration-3/understanding-the-desktop-versions-of-windows-10?u=76281980&t=58)** In other words, large businesses buy a large number of licenses from [[Microsoft]] at one time.
 >
 > **[1:05](https://www.linkedin.com/learning/windows-10-administration-3/understanding-the-desktop-versions-of-windows-10?u=76281980&t=65)** That is the preferred way for Microsoft to sell Enterprise edition.
 >
@@ -190,7 +186,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/windows-10-administration-3/understanding-the-desktop-versions-of-windows-10?u=76281980&t=73)** We'll talk about some features that are available in all three editions.
 >
-> **[1:18](https://www.linkedin.com/learning/windows-10-administration-3/understanding-the-desktop-versions-of-windows-10?u=76281980&t=78)** Windows Defender and Windows FirewalL, all the same in all three additions and work basically the same.
+> **[1:18](https://www.linkedin.com/learning/windows-10-administration-3/understanding-the-desktop-versions-of-windows-10?u=76281980&t=78)** [[Windows]] [[Microsoft Defender|Defender]] and Windows FirewalL, all the same in all three additions and work basically the same.
 >
 > **[1:25](https://www.linkedin.com/learning/windows-10-administration-3/understanding-the-desktop-versions-of-windows-10?u=76281980&t=85)** Tablet mode is available in all three additions.
 >
@@ -230,27 +226,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (5), [[Windows 10]] (4), [[Microsoft]] (3), [[Windows]] (2), business (1)
+> **Frameworks & Libraries:** [[Windows 10]] (4), [[Microsoft]] (3), [[Windows]] (2), [[Microsoft Defender|Defender]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Env Vars:** vpn (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding Windows 10 features requiring specialized hardware
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/understanding-windows-10-features-requiring-specialized-hardware?u=76281980)
+#### [Understanding Windows 10 features requiring specialized hardware](https://www.linkedin.com/learning/windows-10-administration-3/understanding-windows-10-features-requiring-specialized-hardware?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-administration-3/understanding-windows-10-features-requiring-specialized-hardware?u=76281980&t=0)** - [Instructor] Now let's talk about the mobile editions of Windows 10.
+> **[0:00](https://www.linkedin.com/learning/windows-10-administration-3/understanding-windows-10-features-requiring-specialized-hardware?u=76281980&t=0)** - [Instructor] Now let's talk about the mobile editions of [[Windows 10]].
 >
 > **[0:05](https://www.linkedin.com/learning/windows-10-administration-3/understanding-windows-10-features-requiring-specialized-hardware?u=76281980&t=5)** Windows 10 is available in two mobile editions, one is just called Mobile, the other is called Mobile Enterprise.
 >
 > **[0:14](https://www.linkedin.com/learning/windows-10-administration-3/understanding-windows-10-features-requiring-specialized-hardware?u=76281980&t=14)** Currently, there's not too great of a difference between Mobile and Mobile Enterprise.
 >
-> **[0:19](https://www.linkedin.com/learning/windows-10-administration-3/understanding-windows-10-features-requiring-specialized-hardware?u=76281980&t=19)** On both of them, applications will update automatically, but as far as updating the operating system, it is a manual process in Windows Mobile, and it is an automatic process in Windows Mobile Enterprise.
+> **[0:19](https://www.linkedin.com/learning/windows-10-administration-3/understanding-windows-10-features-requiring-specialized-hardware?u=76281980&t=19)** On both of them, applications will update automatically, but as far as updating the operating system, it is a manual process in [[Windows]] Mobile, and it is an automatic process in Windows Mobile Enterprise.
 >
-> **[0:35](https://www.linkedin.com/learning/windows-10-administration-3/understanding-windows-10-features-requiring-specialized-hardware?u=76281980&t=35)** Microsoft has promised that security updates will be available quicker for Mobile Enterprise.
+> **[0:35](https://www.linkedin.com/learning/windows-10-administration-3/understanding-windows-10-features-requiring-specialized-hardware?u=76281980&t=35)** [[Microsoft]] has promised that security updates will be available quicker for Mobile Enterprise.
 >
 > **[0:41](https://www.linkedin.com/learning/windows-10-administration-3/understanding-windows-10-features-requiring-specialized-hardware?u=76281980&t=41)** And, again, those security updates would be automatically installed.
 >
@@ -270,7 +265,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows 10]] (4), [[Microsoft]] (4), [[Windows]] (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Windows 10]] (4), [[Microsoft]] (4), [[Windows]] (2)
 > **Definitions:** is called (1), is a  (1), is an  (1)
 > **Code Identifiers:** iphone (1), ipad (1)
 > **Speakers:** - [instructor] (1)
@@ -280,14 +275,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of the settings interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/overview-of-the-settings-interface?u=76281980)
+#### [Overview of the settings interface](https://www.linkedin.com/learning/windows-10-administration-3/overview-of-the-settings-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-administration-3/overview-of-the-settings-interface?u=76281980&t=0)** - [Instructor] In this section, we're going to talk about settings in Windows 10.
+> **[0:00](https://www.linkedin.com/learning/windows-10-administration-3/overview-of-the-settings-interface?u=76281980&t=0)** - [Instructor] In this section, we're going to talk about settings in [[Windows 10]].
 >
-> **[0:04](https://www.linkedin.com/learning/windows-10-administration-3/overview-of-the-settings-interface?u=76281980&t=4)** So off the Start Menu, I'll click on the gear icon and that will take me to Windows Settings.
+> **[0:04](https://www.linkedin.com/learning/windows-10-administration-3/overview-of-the-settings-interface?u=76281980&t=4)** So off the Start Menu, I'll click on the gear icon and that will take me to [[Windows]] Settings.
 >
 > **[0:12](https://www.linkedin.com/learning/windows-10-administration-3/overview-of-the-settings-interface?u=76281980&t=12)** In here I can administer a wide variety of items dealing with the configuration of my PC.
 >
@@ -301,7 +295,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/windows-10-administration-3/overview-of-the-settings-interface?u=76281980&t=45)** But in Windows 10, we prefer to use the Settings area.
 >
-> **[0:48](https://www.linkedin.com/learning/windows-10-administration-3/overview-of-the-settings-interface?u=76281980&t=48)** It has a few additional features and according to Microsoft is easier to use.
+> **[0:48](https://www.linkedin.com/learning/windows-10-administration-3/overview-of-the-settings-interface?u=76281980&t=48)** It has a few additional features and according to [[Microsoft]] is easier to use.
 >
 > **[0:54](https://www.linkedin.com/learning/windows-10-administration-3/overview-of-the-settings-interface?u=76281980&t=54)** So each of these top level items, if I click on one, for example, System, it'll take me to an interface that provides more detail.
 >
@@ -317,21 +311,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (7), [[Windows 10]] (3), [[Microsoft]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Windows]] (7), [[Windows 10]] (3), [[Microsoft]] (2)
 > **UI Navigation:** click on (2), go to (1)
 > **Analogies:** similar to (1), just like (1), for example (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Administering multitasking
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/administering-multitasking?u=76281980)
+#### [Administering multitasking](https://www.linkedin.com/learning/windows-10-administration-3/administering-multitasking?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/windows-10-administration-3/administering-multitasking?u=76281980&t=0)** - [Instructor] Now I'd like to talk about multitasking and working with multiple desktops.
 >
-> **[0:06](https://www.linkedin.com/learning/windows-10-administration-3/administering-multitasking?u=76281980&t=6)** So in the Start menu, I'll click on the Settings and that'll take me to Windows Settings.
+> **[0:06](https://www.linkedin.com/learning/windows-10-administration-3/administering-multitasking?u=76281980&t=6)** So in the Start menu, I'll click on the Settings and that'll take me to [[Windows]] Settings.
 >
 > **[0:13](https://www.linkedin.com/learning/windows-10-administration-3/administering-multitasking?u=76281980&t=13)** I'll look at the System area and in the left-hand menu, I'm going to click on Multitasking.
 >
@@ -373,7 +366,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/windows-10-administration-3/administering-multitasking?u=76281980&t=134)** Which brings up the question of, how do we get multiple desktops.
 >
-> **[2:18](https://www.linkedin.com/learning/windows-10-administration-3/administering-multitasking?u=76281980&t=138)** This is a feature built into Windows 10.
+> **[2:18](https://www.linkedin.com/learning/windows-10-administration-3/administering-multitasking?u=76281980&t=138)** This is a feature built into [[Windows 10]].
 >
 > **[2:20](https://www.linkedin.com/learning/windows-10-administration-3/administering-multitasking?u=76281980&t=140)** There's an icon for it by default on the taskbar.
 >
@@ -415,7 +408,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (7), feature (1), [[Windows 10]] (1)
+> **Frameworks & Libraries:** [[Windows]] (7), [[Windows 10]] (1)
 > **UI Navigation:** click on (4), go to (1)
 > **CLI Commands:** snap (3), find (1)
 > **Definitions:** is called (1), is a  (1)
@@ -427,12 +420,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Installing and updating drivers
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/installing-and-updating-drivers?u=76281980)
+#### [Installing and updating drivers](https://www.linkedin.com/learning/windows-10-administration-3/installing-and-updating-drivers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-administration-3/installing-and-updating-drivers?u=76281980&t=0)** - [Instructor] Now I'd like to talk a little bit about working with drivers in Windows 10.
+> **[0:00](https://www.linkedin.com/learning/windows-10-administration-3/installing-and-updating-drivers?u=76281980&t=0)** - [Instructor] Now I'd like to talk a little bit about working with drivers in [[Windows 10]].
 >
 > **[0:05](https://www.linkedin.com/learning/windows-10-administration-3/installing-and-updating-drivers?u=76281980&t=5)** So, off the Start menu, I'd go to the gear icon for Settings, and in the search box labeled Find a setting, I'll search for drivers.
 >
@@ -440,13 +432,13 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/windows-10-administration-3/installing-and-updating-drivers?u=76281980&t=22)** I'll click on that.
 >
-> **[0:23](https://www.linkedin.com/learning/windows-10-administration-3/installing-and-updating-drivers?u=76281980&t=23)** And what we get is a Device Manager interface that's very similar to what we had in Windows 7 and Windows 8.
+> **[0:23](https://www.linkedin.com/learning/windows-10-administration-3/installing-and-updating-drivers?u=76281980&t=23)** And what we get is a Device Manager interface that's very similar to what we had in [[Windows]] 7 and Windows 8.
 >
 > **[0:31](https://www.linkedin.com/learning/windows-10-administration-3/installing-and-updating-drivers?u=76281980&t=31)** I can open any one of these categories in the tree view, highlight a particular device, right click on it, and I'll have the option to Update driver.
 >
 > **[0:43](https://www.linkedin.com/learning/windows-10-administration-3/installing-and-updating-drivers?u=76281980&t=43)** Now some updating of drivers will happen automatically through Windows updates, and you can just let that run in the background, and not have to worry about it.
 >
-> **[0:51](https://www.linkedin.com/learning/windows-10-administration-3/installing-and-updating-drivers?u=76281980&t=51)** But sometimes we need a little extra control over individual drivers, and a few pieces of hardware may not update their drivers automatically through Windows update.
+> **[0:51](https://www.linkedin.com/learning/windows-10-administration-3/installing-and-updating-drivers?u=76281980&t=51)** But sometimes we need a little extra control over individual drivers, and a few pieces of [[Hardware]] may not update their drivers automatically through Windows update.
 >
 > **[1:02](https://www.linkedin.com/learning/windows-10-administration-3/installing-and-updating-drivers?u=76281980&t=62)** So we can do that through this interface.
 >
@@ -466,19 +458,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (5), [[Search]] (3), [[Hardware]] (2), [[Windows 10]] (1), hit (1)
+> **Frameworks & Libraries:** [[Windows]] (5), [[Hardware]] (2), [[Windows 10]] (1)
 > **CLI Commands:** find (3)
 > **UI Navigation:** click on (2), go to (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with notifications and actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/working-with-notifications-and-actions?u=76281980)
+#### [Working with notifications and actions](https://www.linkedin.com/learning/windows-10-administration-3/working-with-notifications-and-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-administration-3/working-with-notifications-and-actions?u=76281980&t=0)** - [Instructor] Now I'd like to talk about notifications and actions, so off the start menu, I'll go to settings, which will take me to Windows settings in there I'll select system and in there I'll select notifications and actions.
+> **[0:00](https://www.linkedin.com/learning/windows-10-administration-3/working-with-notifications-and-actions?u=76281980&t=0)** - [Instructor] Now I'd like to talk about notifications and actions, so off the start menu, I'll go to settings, which will take me to [[Windows]] settings in there I'll select system and in there I'll select notifications and actions.
 >
 > **[0:17](https://www.linkedin.com/learning/windows-10-administration-3/working-with-notifications-and-actions?u=76281980&t=17)** So in the top half of this interface, we see quick actions and I have the option to edit quick actions.
 >
@@ -538,7 +529,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** vpn (4), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **UI Navigation:** click on (3), go to (1), toggle (1)
 > **Env Vars:** vpn (4)
 > **Analogies:** for example (2)
@@ -551,12 +542,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of Group Policy
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/overview-of-group-policy-2?u=76281980)
+#### [Overview of Group Policy](https://www.linkedin.com/learning/windows-10-administration-3/overview-of-group-policy-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-administration-3/overview-of-group-policy-2?u=76281980&t=0)** - [Instructor] In this section, we're going to talk about using Group Policy to administer Windows 10.
+> **[0:00](https://www.linkedin.com/learning/windows-10-administration-3/overview-of-group-policy-2?u=76281980&t=0)** - [Instructor] In this section, we're going to talk about using Group Policy to administer [[Windows 10]].
 >
 > **[0:06](https://www.linkedin.com/learning/windows-10-administration-3/overview-of-group-policy-2?u=76281980&t=6)** Group Policy is a technology that allows us to configure thousands of user and computer settings.
 >
@@ -576,7 +566,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/windows-10-administration-3/overview-of-group-policy-2?u=76281980&t=63)** Windows 10 includes by default, a tool called Local Group Policy Editor.
 >
-> **[1:09](https://www.linkedin.com/learning/windows-10-administration-3/overview-of-group-policy-2?u=76281980&t=69)** Previous versions of Windows had this tool available as a download, or you had to jump through some hoops to get the tool.
+> **[1:09](https://www.linkedin.com/learning/windows-10-administration-3/overview-of-group-policy-2?u=76281980&t=69)** Previous versions of [[Windows]] had this tool available as a download, or you had to jump through some hoops to get the tool.
 >
 > **[1:17](https://www.linkedin.com/learning/windows-10-administration-3/overview-of-group-policy-2?u=76281980&t=77)** Now it is included as part of the base installation of the operating system.
 >
@@ -594,7 +584,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows 10]] (3), [[Windows]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Windows 10]] (3), [[Windows]] (1)
 > **CLI Commands:** make (1)
 > **Tools:** command prompt (1)
 > **UI Navigation:** go to (1)
@@ -603,11 +593,9 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with the Local Group Policy
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/working-with-the-local-group-policy-20224507?u=76281980)
+#### [Working with the Local Group Policy](https://www.linkedin.com/learning/windows-10-administration-3/working-with-the-local-group-policy-20224507?u=76281980)
 
-#### Troubleshooting Group Policy
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/troubleshooting-group-policy-2?u=76281980)
+#### [Troubleshooting Group Policy](https://www.linkedin.com/learning/windows-10-administration-3/troubleshooting-group-policy-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -615,13 +603,13 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/windows-10-administration-3/troubleshooting-group-policy-2?u=76281980&t=5)** So if group policy is not applying the way you think it should, probably the first thing you should do is reboot, because some settings are only applied, when the machine first boots up.
 >
-> **[0:17](https://www.linkedin.com/learning/windows-10-administration-3/troubleshooting-group-policy-2?u=76281980&t=17)** But after a reboot, if you're still not getting what you expected, Microsoft has a command line tool, that will help us see which policies are being applied, and the successes and failures of those settings.
+> **[0:17](https://www.linkedin.com/learning/windows-10-administration-3/troubleshooting-group-policy-2?u=76281980&t=17)** But after a reboot, if you're still not getting what you expected, [[Microsoft]] has a command line tool, that will help us see which policies are being applied, and the successes and failures of those settings.
 >
 > **[0:30](https://www.linkedin.com/learning/windows-10-administration-3/troubleshooting-group-policy-2?u=76281980&t=30)** So, I open a command prompt by going to the start menu, typing in CMD, and that'll give me the option to go to a command prompt.
 >
 > **[0:41](https://www.linkedin.com/learning/windows-10-administration-3/troubleshooting-group-policy-2?u=76281980&t=41)** And then I'm going to run a tool called gpresult.
 >
-> **[0:46](https://www.linkedin.com/learning/windows-10-administration-3/troubleshooting-group-policy-2?u=76281980&t=46)** After that you want to put a slash H, telling us that we would like the report in HTML format, and I'll need to include a file name also, and this will be the file name used for the report.
+> **[0:46](https://www.linkedin.com/learning/windows-10-administration-3/troubleshooting-group-policy-2?u=76281980&t=46)** After that you want to put a slash H, telling us that we would like the report in [[HTML]] format, and I'll need to include a file name also, and this will be the file name used for the report.
 >
 > **[0:59](https://www.linkedin.com/learning/windows-10-administration-3/troubleshooting-group-policy-2?u=76281980&t=59)** So I'll call mine, gpesult.HTML.
 >
@@ -653,7 +641,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (3), [[HTML]] (3), [[Troubleshooting]] (2), [[Microsoft]] (1), web (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[Microsoft]] (1)
 > **Env Vars:** gpo (9), html (3), cmd (1), dir (1)
 > **UI Navigation:** click on (3), go to (1), scroll down (1)
 > **Tools:** command prompt (3), command line (1)
@@ -666,12 +654,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Adding domain users to a Windows 10 PC
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/adding-domain-users-to-a-windows-10-pc?u=76281980)
+#### [Adding domain users to a Windows 10 PC](https://www.linkedin.com/learning/windows-10-administration-3/adding-domain-users-to-a-windows-10-pc?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-administration-3/adding-domain-users-to-a-windows-10-pc?u=76281980&t=0)** - [Instructor] In this section, we're going to talk about adding domain users to our windows 10 PC.
+> **[0:00](https://www.linkedin.com/learning/windows-10-administration-3/adding-domain-users-to-a-windows-10-pc?u=76281980&t=0)** - [Instructor] In this section, we're going to talk about adding domain users to our [[Windows 10]] PC.
 >
 > **[0:06](https://www.linkedin.com/learning/windows-10-administration-3/adding-domain-users-to-a-windows-10-pc?u=76281980&t=6)** So at the Start menu, I'll go to Settings.
 >
@@ -717,17 +704,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows 10]] (3), next (1)
+> **Frameworks & Libraries:** [[Windows 10]] (3)
 > **UI Navigation:** click on (6), go to (4)
 > **Env Vars:** dba (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding Microsoft accounts to a Windows 10 PC
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/adding-microsoft-accounts-to-a-windows-10-pc?u=76281980)
+#### [Adding Microsoft accounts to a Windows 10 PC](https://www.linkedin.com/learning/windows-10-administration-3/adding-microsoft-accounts-to-a-windows-10-pc?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-administration-3/adding-microsoft-accounts-to-a-windows-10-pc?u=76281980&t=0)** - [Instructor] In the previous section, we looked at adding domain users to our Windows 10 PC, but if your PC is not part of a domain then instead you'll want to use Microsoft accounts.
+> **[0:00](https://www.linkedin.com/learning/windows-10-administration-3/adding-microsoft-accounts-to-a-windows-10-pc?u=76281980&t=0)** - [Instructor] In the previous section, we looked at adding domain users to our [[Windows 10]] PC, but if your PC is not part of a domain then instead you'll want to use [[Microsoft]] accounts.
 >
 > **[0:13](https://www.linkedin.com/learning/windows-10-administration-3/adding-microsoft-accounts-to-a-windows-10-pc?u=76281980&t=13)** So off the start menu, I'll go to settings and then I'll go to accounts.
 >
@@ -747,16 +733,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (5), next (2), [[Windows 10]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Microsoft]] (5), [[Windows 10]] (1)
 > **UI Navigation:** go to (4), click on (2)
 > **Speakers:** - [instructor] (1)
 
-#### Adding local accounts to a Windows 10 PC
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/adding-local-accounts-to-a-windows-10-pc?u=76281980)
+#### [Adding local accounts to a Windows 10 PC](https://www.linkedin.com/learning/windows-10-administration-3/adding-local-accounts-to-a-windows-10-pc?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-administration-3/adding-local-accounts-to-a-windows-10-pc?u=76281980&t=0)** - [Instructor] Now let's look at setting up a local account that's not a domain account and not a Microsoft account.
+> **[0:00](https://www.linkedin.com/learning/windows-10-administration-3/adding-local-accounts-to-a-windows-10-pc?u=76281980&t=0)** - [Instructor] Now let's look at setting up a local account that's not a domain account and not a [[Microsoft]] account.
 >
 > **[0:07](https://www.linkedin.com/learning/windows-10-administration-3/adding-local-accounts-to-a-windows-10-pc?u=76281980&t=7)** This account will live only on this PC and somewhat uncommon that you would want to do this but if you have a machine that's not connected to a domain and not connected to the internet, you might need to do this.
 >
@@ -782,13 +767,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (4), next (2), prompt (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (4)
 > **UI Navigation:** click on (2), go to (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up assigned access
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/setting-up-assigned-access?u=76281980)
+#### [Setting up assigned access](https://www.linkedin.com/learning/windows-10-administration-3/setting-up-assigned-access?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -800,7 +784,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/windows-10-administration-3/setting-up-assigned-access?u=76281980&t=24)** And on the set up a kiosk, the only option we have is Assigned access, assigned access is a tool that allows us to limit a user to one particular app.
 >
-> **[0:35](https://www.linkedin.com/learning/windows-10-administration-3/setting-up-assigned-access?u=76281980&t=35)** If you have your windows 10 PC set up as a kiosk in a public area, you probably don't want people going to every app on the PC.
+> **[0:35](https://www.linkedin.com/learning/windows-10-administration-3/setting-up-assigned-access?u=76281980&t=35)** If you have your [[Windows 10]] PC set up as a kiosk in a public area, you probably don't want people going to every app on the PC.
 >
 > **[0:45](https://www.linkedin.com/learning/windows-10-administration-3/setting-up-assigned-access?u=76281980&t=45)** You might want to limit them to only one app.
 >
@@ -810,7 +794,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/windows-10-administration-3/setting-up-assigned-access?u=76281980&t=56)** It'll ask me to either create a new account or use an existing account, I'm going to choose an existing account, and notice the only option we got is the local account.
 >
-> **[1:08](https://www.linkedin.com/learning/windows-10-administration-3/setting-up-assigned-access?u=76281980&t=68)** So even though I have added domain users and Microsoft accounts to this windows 10 PC for this assigned access feature, we can only use local accounts.
+> **[1:08](https://www.linkedin.com/learning/windows-10-administration-3/setting-up-assigned-access?u=76281980&t=68)** So even though I have added domain users and [[Microsoft]] accounts to this windows 10 PC for this assigned access feature, we can only use local accounts.
 >
 > **[1:20](https://www.linkedin.com/learning/windows-10-administration-3/setting-up-assigned-access?u=76281980&t=80)** So I'll select one of those, hit next.
 >
@@ -834,7 +818,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Windows 10]] (2), [[Microsoft]] (2), hit (2), feature (1)
+> **Frameworks & Libraries:** [[Windows 10]] (2), [[Microsoft]] (2)
 > **Prerequisites:** set up (3)
 > **Env Vars:** url (2)
 > **UI Navigation:** go to (1), click on (1)
@@ -846,12 +830,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Administering BitLocker
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/administering-bitlocker?u=76281980)
+#### [Administering BitLocker](https://www.linkedin.com/learning/windows-10-administration-3/administering-bitlocker?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-administration-3/administering-bitlocker?u=76281980&t=0)** - [Instructor] In this section, I'd like to look at using BitLocker to encrypt entire hard drives in Windows 10.
+> **[0:00](https://www.linkedin.com/learning/windows-10-administration-3/administering-bitlocker?u=76281980&t=0)** - [Instructor] In this section, I'd like to look at using BitLocker to encrypt entire hard drives in [[Windows 10]].
 >
 > **[0:08](https://www.linkedin.com/learning/windows-10-administration-3/administering-bitlocker?u=76281980&t=8)** So off the Start Menu, I'll just type in BitLocker and that'll give me the option for the control panel Manage BitLocker.
 >
@@ -935,19 +918,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Windows 10]] (3), [[Security]] (2), hit (2), prompt (2)
+> **Frameworks & Libraries:** [[Windows 10]] (3)
 > **UI Navigation:** click on (5), go to (1)
 > **Env Vars:** tpm (2), usb (1), cmd (1), bde (1)
 > **Tools:** command line (2), command prompt (2)
 > **Definitions:** is a  (2), stands for (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with EFS
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/working-with-efs?u=76281980)
+#### [Working with EFS](https://www.linkedin.com/learning/windows-10-administration-3/working-with-efs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-administration-3/working-with-efs?u=76281980&t=0)** - [Instructor] In this section I'd like to talk about encrypting individual files in Windows 10.
+> **[0:00](https://www.linkedin.com/learning/windows-10-administration-3/working-with-efs?u=76281980&t=0)** - [Instructor] In this section I'd like to talk about encrypting individual files in [[Windows 10]].
 >
 > **[0:06](https://www.linkedin.com/learning/windows-10-administration-3/working-with-efs?u=76281980&t=6)** So at the start menu, I'll type in encryption.
 >
@@ -1003,7 +985,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/windows-10-administration-3/working-with-efs?u=76281980&t=132)** And in the advanced attributes dialog at the bottom, I have the option to encrypt contents to secure data.
 >
-> **[2:20](https://www.linkedin.com/learning/windows-10-administration-3/working-with-efs?u=76281980&t=140)** And just like previous versions of Windows, we cannot have a file that is both encrypted and compressed.
+> **[2:20](https://www.linkedin.com/learning/windows-10-administration-3/working-with-efs?u=76281980&t=140)** And just like previous versions of [[Windows]], we cannot have a file that is both encrypted and compressed.
 >
 > **[2:27](https://www.linkedin.com/learning/windows-10-administration-3/working-with-efs?u=76281980&t=147)** It's either/or you either have to compress, or you can encrypt, but we can't do both.
 >
@@ -1035,7 +1017,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), hit (3), [[Windows 10]] (1), data (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Windows 10]] (1), [[Windows]] (1)
 > **UI Navigation:** click on (5), go to (2), open the (1)
 > **Env Vars:** efs (2)
 > **Definitions:** is an  (1)
@@ -1047,12 +1029,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding the boot process
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/understanding-the-boot-process?u=76281980)
+#### [Understanding the boot process](https://www.linkedin.com/learning/windows-10-administration-3/understanding-the-boot-process?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-administration-3/understanding-the-boot-process?u=76281980&t=0)** - [Instructor] In this section, we're going to talk about the boot process in Windows 10.
+> **[0:00](https://www.linkedin.com/learning/windows-10-administration-3/understanding-the-boot-process?u=76281980&t=0)** - [Instructor] In this section, we're going to talk about the boot process in [[Windows 10]].
 >
 > **[0:05](https://www.linkedin.com/learning/windows-10-administration-3/understanding-the-boot-process?u=76281980&t=5)** In windows 10 we can think of the boot process as a three step process.
 >
@@ -1060,13 +1041,13 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/windows-10-administration-3/understanding-the-boot-process?u=76281980&t=22)** And we'll talk about each one of these in detail.
 >
-> **[0:25](https://www.linkedin.com/learning/windows-10-administration-3/understanding-the-boot-process?u=76281980&t=25)** The first step, secure boot, is handled by the Unified Extensible Firmware Interface, which is a standard implemented by your hardware.
+> **[0:25](https://www.linkedin.com/learning/windows-10-administration-3/understanding-the-boot-process?u=76281980&t=25)** The first step, secure boot, is handled by the Unified Extensible Firmware Interface, which is a standard implemented by your [[Hardware]].
 >
 > **[0:36](https://www.linkedin.com/learning/windows-10-administration-3/understanding-the-boot-process?u=76281980&t=36)** So Windows 10 is not actually involved in this.
 >
 > **[0:39](https://www.linkedin.com/learning/windows-10-administration-3/understanding-the-boot-process?u=76281980&t=39)** At this point in the boot process, the operating system hasn't started running yet, it's just the firmware on the motherboard that's running.
 >
-> **[0:48](https://www.linkedin.com/learning/windows-10-administration-3/understanding-the-boot-process?u=76281980&t=48)** UEFI, verifies the signature of all firmware files that are loaded, and that makes it difficult or impossible for these files to be replaced without your authorization, which dramatically reduces the probability of introducing a virus or malware into the boot process, hence the name secure boot.
+> **[0:48](https://www.linkedin.com/learning/windows-10-administration-3/understanding-the-boot-process?u=76281980&t=48)** UEFI, verifies the signature of all firmware files that are loaded, and that makes it difficult or impossible for these files to be replaced without your authorization, which dramatically reduces the [[Probability]] of introducing a virus or malware into the boot process, hence the name secure boot.
 >
 > **[1:11](https://www.linkedin.com/learning/windows-10-administration-3/understanding-the-boot-process?u=76281980&t=71)** The security here is that it's going to great efforts to eliminate viruses and malware while booting.
 >
@@ -1078,19 +1059,19 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/windows-10-administration-3/understanding-the-boot-process?u=76281980&t=102)** The boot process has been handed off from the firmware to the operating system, and now Windows 10 will handle everything going forward.
 >
-> **[1:51](https://www.linkedin.com/learning/windows-10-administration-3/understanding-the-boot-process?u=76281980&t=111)** First thing trusted boot does is load a kernel, and that Windows kernel is verified by a certificate.
+> **[1:51](https://www.linkedin.com/learning/windows-10-administration-3/understanding-the-boot-process?u=76281980&t=111)** First thing trusted boot does is load a kernel, and that [[Windows]] kernel is verified by a certificate.
 >
 > **[1:58](https://www.linkedin.com/learning/windows-10-administration-3/understanding-the-boot-process?u=76281980&t=118)** So the same mindset as the verification in the previous slide, we want to verify that the files have not been tampered with, that no one has introduced a virus.
 >
 > **[2:10](https://www.linkedin.com/learning/windows-10-administration-3/understanding-the-boot-process?u=76281980&t=130)** After the Windows kernel is loaded, trusted boot will start to load Windows components, and as it's loading Windows components, it will take care to load anti-malware early in the launch sequence.
 >
-> **[2:25](https://www.linkedin.com/learning/windows-10-administration-3/understanding-the-boot-process?u=76281980&t=145)** Microsoft calls this mindset early launch anti-malware, it tries to load an anti-malware program before any device driver is loaded.
+> **[2:25](https://www.linkedin.com/learning/windows-10-administration-3/understanding-the-boot-process?u=76281980&t=145)** [[Microsoft]] calls this mindset early launch anti-malware, it tries to load an anti-malware program before any device driver is loaded.
 >
 > **[2:36](https://www.linkedin.com/learning/windows-10-administration-3/understanding-the-boot-process?u=76281980&t=156)** That way if there is a virus or a rootkit inside of one of the device drivers, the anti-malware software can catch it.
 >
 > **[2:43](https://www.linkedin.com/learning/windows-10-administration-3/understanding-the-boot-process?u=76281980&t=163)** So by loading anti-malware software first, that allows all device drivers to be scanned.
 >
-> **[2:50](https://www.linkedin.com/learning/windows-10-administration-3/understanding-the-boot-process?u=76281980&t=170)** By default in Windows 10, the anti-malware software is Windows Defender.
+> **[2:50](https://www.linkedin.com/learning/windows-10-administration-3/understanding-the-boot-process?u=76281980&t=170)** By default in Windows 10, the anti-malware software is Windows [[Microsoft Defender|Defender]].
 >
 > **[2:56](https://www.linkedin.com/learning/windows-10-administration-3/understanding-the-boot-process?u=76281980&t=176)** So yeah, the process starts with secure boot, which is handled entirely by the firmware.
 >
@@ -1105,12 +1086,11 @@ created: 2026-05-02
 > **Env Vars:** uefi (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with Measured Boot
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/working-with-measured-boot?u=76281980)
+#### [Working with Measured Boot](https://www.linkedin.com/learning/windows-10-administration-3/working-with-measured-boot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-administration-3/working-with-measured-boot?u=76281980&t=0)** - [Instructor] In this section, we're going to talk about the measured boot technology in Windows 10.
+> **[0:00](https://www.linkedin.com/learning/windows-10-administration-3/working-with-measured-boot?u=76281980&t=0)** - [Instructor] In this section, we're going to talk about the measured boot technology in [[Windows 10]].
 >
 > **[0:06](https://www.linkedin.com/learning/windows-10-administration-3/working-with-measured-boot?u=76281980&t=6)** Measured boot is a procedure of monitoring the boot process.
 >
@@ -1128,7 +1108,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/windows-10-administration-3/working-with-measured-boot?u=76281980&t=53)** Measured boot keeps a detailed log of these items so that they can be analyzed to check for viruses or other malware.
 >
-> **[1:02](https://www.linkedin.com/learning/windows-10-administration-3/working-with-measured-boot?u=76281980&t=62)** Those logs are stored in the trusted platform module hardware or TPM.
+> **[1:02](https://www.linkedin.com/learning/windows-10-administration-3/working-with-measured-boot?u=76281980&t=62)** Those logs are stored in the trusted platform module [[Hardware]] or TPM.
 >
 > **[1:08](https://www.linkedin.com/learning/windows-10-administration-3/working-with-measured-boot?u=76281980&t=68)** TPM is the same hardware that's necessary to use the BitLocker technology we talked about earlier.
 >
@@ -1152,7 +1132,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), [[Hardware]] (2), [[Windows 10]] (1), data (1)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Windows 10]] (1)
 > **Definitions:** is a  (3), in other words (2)
 > **Env Vars:** tpm (4)
 > **Cross-References:** we talked about (1)
@@ -1163,12 +1143,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Installing Client Hyper-V
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/installing-client-hyper-v?u=76281980)
+#### [Installing Client Hyper-V](https://www.linkedin.com/learning/windows-10-administration-3/installing-client-hyper-v?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-administration-3/installing-client-hyper-v?u=76281980&t=0)** - [Instructor] In this section I'd like to talk about running virtual machines on your Windows 10 PC.
+> **[0:00](https://www.linkedin.com/learning/windows-10-administration-3/installing-client-hyper-v?u=76281980&t=0)** - [Instructor] In this section I'd like to talk about running [[Virtual Machines]] on your [[Windows 10]] PC.
 >
 > **[0:06](https://www.linkedin.com/learning/windows-10-administration-3/installing-client-hyper-v?u=76281980&t=6)** There are many software packages that will allow you to run virtual machines.
 >
@@ -1178,7 +1157,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/windows-10-administration-3/installing-client-hyper-v?u=76281980&t=17)** It's not installed by default but you can install it at no additional cost.
 >
-> **[0:24](https://www.linkedin.com/learning/windows-10-administration-3/installing-client-hyper-v?u=76281980&t=24)** So at the start menu I'll type in features and then I'll go to the option labeled turn Windows features on or off.
+> **[0:24](https://www.linkedin.com/learning/windows-10-administration-3/installing-client-hyper-v?u=76281980&t=24)** So at the start menu I'll type in features and then I'll go to the option labeled turn [[Windows]] features on or off.
 >
 > **[0:35](https://www.linkedin.com/learning/windows-10-administration-3/installing-client-hyper-v?u=76281980&t=35)** And this will give me a lots of different choices.
 >
@@ -1194,7 +1173,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/windows-10-administration-3/installing-client-hyper-v?u=76281980&t=55)** Yes I want those so I'll click on that.
 >
-> **[0:58](https://www.linkedin.com/learning/windows-10-administration-3/installing-client-hyper-v?u=76281980&t=58)** The Hyper-V module for Windows PowerShell.
+> **[0:58](https://www.linkedin.com/learning/windows-10-administration-3/installing-client-hyper-v?u=76281980&t=58)** The Hyper-V module for Windows [[Powershell]].
 >
 > **[1:02](https://www.linkedin.com/learning/windows-10-administration-3/installing-client-hyper-v?u=76281980&t=62)** Yes I want that.
 >
@@ -1246,7 +1225,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Virtual Machines]] (4), [[Windows]] (3), [[Windows 10]] (2), management (2), [[Powershell]] (1)
+> **Frameworks & Libraries:** [[Virtual Machines]] (4), [[Windows]] (3), [[Windows 10]] (2), [[Powershell]] (1)
 > **Prerequisites:** install (6)
 > **UI Navigation:** go to (2), click on (2)
 > **Definitions:** is called (1), is a  (1)
@@ -1254,14 +1233,13 @@ created: 2026-05-02
 > **Tools:** powershell (1)
 > **Speakers:** - [instructor] (1)
 
-#### Running Windows 10 as a VDI
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/running-windows-10-as-a-vdi?u=76281980)
+#### [Running Windows 10 as a VDI](https://www.linkedin.com/learning/windows-10-administration-3/running-windows-10-as-a-vdi?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-administration-3/running-windows-10-as-a-vdi?u=76281980&t=0)** - [Instructor] In this section, we're going to talk about running windows 10 as a virtual machine.
+> **[0:00](https://www.linkedin.com/learning/windows-10-administration-3/running-windows-10-as-a-vdi?u=76281980&t=0)** - [Instructor] In this section, we're going to talk about running [[Windows 10]] as a virtual machine.
 >
-> **[0:06](https://www.linkedin.com/learning/windows-10-administration-3/running-windows-10-as-a-vdi?u=76281980&t=6)** The majority of things you'd like to do with windows 10, will work perfectly fine in a virtualized operating system things like surfing the internet, using a spreadsheet application or word processor or email, all of that should run exactly the same when you're virtualized or when you're not virtualized.
+> **[0:06](https://www.linkedin.com/learning/windows-10-administration-3/running-windows-10-as-a-vdi?u=76281980&t=6)** The majority of things you'd like to do with windows 10, will work perfectly fine in a virtualized operating system things like surfing the internet, using a spreadsheet application or [[Microsoft Word|word]] processor or email, all of that should run exactly the same when you're virtualized or when you're not virtualized.
 >
 > **[0:27](https://www.linkedin.com/learning/windows-10-administration-3/running-windows-10-as-a-vdi?u=76281980&t=27)** So I'm going to focus instead on some of the things that might give you trouble.
 >
@@ -1273,7 +1251,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/windows-10-administration-3/running-windows-10-as-a-vdi?u=76281980&t=75)** If you need sub 10 millisecond latency, in other words you need applications to respond in the less than 10 milliseconds that can be a problem with some hypervisors.
 >
-> **[1:27](https://www.linkedin.com/learning/windows-10-administration-3/running-windows-10-as-a-vdi?u=76281980&t=87)** Specialized hardware, so windows 10 has several features such as the facial recognition or the BitLocker that does require specialized hardware, some hypervisors have a hard time virtualizing this hardware, and therefore those features would not be available on a virtual environment windows 10 installation.
+> **[1:27](https://www.linkedin.com/learning/windows-10-administration-3/running-windows-10-as-a-vdi?u=76281980&t=87)** Specialized [[Hardware]], so windows 10 has several features such as the facial recognition or the BitLocker that does require specialized hardware, some hypervisors have a hard time virtualizing this hardware, and therefore those features would not be available on a virtual environment windows 10 installation.
 >
 > **[1:52](https://www.linkedin.com/learning/windows-10-administration-3/running-windows-10-as-a-vdi?u=76281980&t=112)** Switching from wired to wireless networks.
 >
@@ -1285,7 +1263,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows 10]] (7), [[Hardware]] (3), [[Microsoft Word|Word]] (2), application (1), strengths (1)
+> **Frameworks & Libraries:** [[Windows 10]] (7), [[Hardware]] (3), [[Microsoft Word|Word]] (2)
 > **Env Vars:** gpu (1)
 > **Definitions:** in other words (1)
 > **Analogies:** such as (1)
@@ -1297,14 +1275,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using the Windows 10 network settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/using-the-windows-10-network-settings?u=76281980)
+#### [Using the Windows 10 network settings](https://www.linkedin.com/learning/windows-10-administration-3/using-the-windows-10-network-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/windows-10-administration-3/using-the-windows-10-network-settings?u=76281980&t=1)** - [Instructor] In this section, we're going to talk about network settings in Windows 10.
+> **[0:01](https://www.linkedin.com/learning/windows-10-administration-3/using-the-windows-10-network-settings?u=76281980&t=1)** - [Instructor] In this section, we're going to talk about network settings in [[Windows 10]].
 >
-> **[0:05](https://www.linkedin.com/learning/windows-10-administration-3/using-the-windows-10-network-settings?u=76281980&t=5)** Off the start menu, I'll go to settings and then the Windows settings dialogue, I'll go to network and internet.
+> **[0:05](https://www.linkedin.com/learning/windows-10-administration-3/using-the-windows-10-network-settings?u=76281980&t=5)** Off the start menu, I'll go to settings and then the [[Windows]] settings dialogue, I'll go to network and internet.
 >
 > **[0:14](https://www.linkedin.com/learning/windows-10-administration-3/using-the-windows-10-network-settings?u=76281980&t=14)** And this takes me to an area where we can administer various settings about networking in Windows 10.
 >
@@ -1370,7 +1347,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** vpn (13), [[Windows]] (10), [[Windows 10]] (5), next (3), prompt (1)
+> **Frameworks & Libraries:** [[Windows]] (10), [[Windows 10]] (5)
 > **Env Vars:** vpn (13), mac (1)
 > **UI Navigation:** click on (5), go to (2), scroll down (2)
 > **Prerequisites:** set up (3), install (2)
@@ -1379,16 +1356,15 @@ created: 2026-05-02
 > **Tools:** command prompt (1)
 > **Definitions:** is a  (1)
 
-#### Using Control Panel to manage Windows Firewall
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/using-control-panel-to-manage-windows-firewall?u=76281980)
+#### [Using Control Panel to manage Windows Firewall](https://www.linkedin.com/learning/windows-10-administration-3/using-control-panel-to-manage-windows-firewall?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-administration-3/using-control-panel-to-manage-windows-firewall?u=76281980&t=0)** - [Instructor] In this section, we're going to talk about Windows Firewall in Windows 10.
+> **[0:00](https://www.linkedin.com/learning/windows-10-administration-3/using-control-panel-to-manage-windows-firewall?u=76281980&t=0)** - [Instructor] In this section, we're going to talk about [[Windows]] Firewall in [[Windows 10]].
 >
 > **[0:05](https://www.linkedin.com/learning/windows-10-administration-3/using-control-panel-to-manage-windows-firewall?u=76281980&t=5)** So of the start menu, I'll just type in firewall.
 >
-> **[0:11](https://www.linkedin.com/learning/windows-10-administration-3/using-control-panel-to-manage-windows-firewall?u=76281980&t=11)** And we see the first option that comes up is Windows Defender Firewall, I'll click on that.
+> **[0:11](https://www.linkedin.com/learning/windows-10-administration-3/using-control-panel-to-manage-windows-firewall?u=76281980&t=11)** And we see the first option that comes up is Windows [[Microsoft Defender|Defender]] Firewall, I'll click on that.
 >
 > **[0:17](https://www.linkedin.com/learning/windows-10-administration-3/using-control-panel-to-manage-windows-firewall?u=76281980&t=17)** And this pulls up a basic interface that shows me that I am currently connected to a guest or public network and that Windows Firewall is on.
 >
@@ -1494,7 +1470,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (8), next (4), [[Microsoft Defender|Defender]] (3), [[Windows 10]] (2), hit (2)
+> **Frameworks & Libraries:** [[Windows]] (8), [[Microsoft Defender|Defender]] (3), [[Windows 10]] (2)
 > **UI Navigation:** click on (5), go to (2)
 > **Env Vars:** tcp (3), udp (2)
 > **Ports:** port 80 (4)
@@ -1508,18 +1484,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### File History
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/file-history?u=76281980)
+#### [File History](https://www.linkedin.com/learning/windows-10-administration-3/file-history?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-administration-3/file-history?u=76281980&t=0)** - [Instructor] In this section, we're going to talk about Backup and Restore in Windows 10.
+> **[0:00](https://www.linkedin.com/learning/windows-10-administration-3/file-history?u=76281980&t=0)** - [Instructor] In this section, we're going to talk about Backup and Restore in [[Windows 10]].
 >
 > **[0:05](https://www.linkedin.com/learning/windows-10-administration-3/file-history?u=76281980&t=5)** We have a few different options on how to backup our files in Windows 10, going to talk about a few of these.
 >
 > **[0:12](https://www.linkedin.com/learning/windows-10-administration-3/file-history?u=76281980&t=12)** The first one is using a technology called File History.
 >
-> **[0:16](https://www.linkedin.com/learning/windows-10-administration-3/file-history?u=76281980&t=16)** This seems to be the preferred way that Microsoft would like us to backup our files.
+> **[0:16](https://www.linkedin.com/learning/windows-10-administration-3/file-history?u=76281980&t=16)** This seems to be the preferred way that [[Microsoft]] would like us to backup our files.
 >
 > **[0:22](https://www.linkedin.com/learning/windows-10-administration-3/file-history?u=76281980&t=22)** File History automatically creates copies of files on a schedule.
 >
@@ -1531,7 +1506,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/windows-10-administration-3/file-history?u=76281980&t=56)** Windows 10 also includes a feature called Backup and Restore.
 >
-> **[1:00](https://www.linkedin.com/learning/windows-10-administration-3/file-history?u=76281980&t=60)** The current Backup and Restore technology was introduced in Windows 7, was then removed in Windows 8.1, and then it returns now in Windows 10.
+> **[1:00](https://www.linkedin.com/learning/windows-10-administration-3/file-history?u=76281980&t=60)** The current Backup and Restore technology was introduced in [[Windows]] 7, was then removed in Windows 8.1, and then it returns now in Windows 10.
 >
 > **[1:12](https://www.linkedin.com/learning/windows-10-administration-3/file-history?u=76281980&t=72)** Microsoft still sees this as somewhat of an older technology, and even in the interface, in places, we'll see it referred to as looking for an older backup.
 >
@@ -1551,25 +1526,24 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/windows-10-administration-3/file-history?u=76281980&t=142)** So we're backing up both user files and system files at the same time.
 >
-> **[2:28](https://www.linkedin.com/learning/windows-10-administration-3/file-history?u=76281980&t=148)** Because it backs up all of the operating system and all of the device drivers, when you go to do a restore, you will need to restore either on exactly the original hardware or some hardware that's very similar to the hardware on which the backup was taken.
+> **[2:28](https://www.linkedin.com/learning/windows-10-administration-3/file-history?u=76281980&t=148)** Because it backs up all of the operating system and all of the device drivers, when you go to do a restore, you will need to restore either on exactly the original [[Hardware]] or some hardware that's very similar to the hardware on which the backup was taken.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows 10]] (8), [[Microsoft]] (3), [[Hardware]] (3), feature (2), [[Windows]] (2)
+> **Frameworks & Libraries:** [[Windows 10]] (8), [[Microsoft]] (3), [[Hardware]] (3), [[Windows]] (2)
 > **CLI Commands:** make (1)
 > **Versions:** 8.1 (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reset this PC
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/reset-this-pc?u=76281980)
+#### [Reset this PC](https://www.linkedin.com/learning/windows-10-administration-3/reset-this-pc?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-administration-3/reset-this-pc?u=76281980&t=0)** - [Instructor] In this section, we're going to look at setting up file history in windows 10.
+> **[0:00](https://www.linkedin.com/learning/windows-10-administration-3/reset-this-pc?u=76281980&t=0)** - [Instructor] In this section, we're going to look at setting up file history in [[Windows 10]].
 >
-> **[0:05](https://www.linkedin.com/learning/windows-10-administration-3/reset-this-pc?u=76281980&t=5)** So of the start menu, I'll go to settings and then I'm looking for update and security and I know file history is not exactly update and security but if we read the note under update and security, it says windows update, recovery and backup.
+> **[0:05](https://www.linkedin.com/learning/windows-10-administration-3/reset-this-pc?u=76281980&t=5)** So of the start menu, I'll go to settings and then I'm looking for update and security and I know file history is not exactly update and security but if we read the note under update and security, it says [[Windows]] update, recovery and backup.
 >
 > **[0:24](https://www.linkedin.com/learning/windows-10-administration-3/reset-this-pc?u=76281980&t=24)** And file history is certainly part of backup.
 >
@@ -1637,17 +1611,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), [[Windows 10]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Windows 10]] (1), [[Windows]] (1)
 > **UI Navigation:** click on (4), go to (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a system image backup
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/creating-a-system-image-backup?u=76281980)
+#### [Creating a system image backup](https://www.linkedin.com/learning/windows-10-administration-3/creating-a-system-image-backup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-administration-3/creating-a-system-image-backup?u=76281980&t=0)** - In this section I'd like to talk about an option in Windows 10 to reset your PC.
+> **[0:00](https://www.linkedin.com/learning/windows-10-administration-3/creating-a-system-image-backup?u=76281980&t=0)** - In this section I'd like to talk about an option in [[Windows 10]] to reset your PC.
 >
 > **[0:07](https://www.linkedin.com/learning/windows-10-administration-3/creating-a-system-image-backup?u=76281980&t=7)** So of to start menu, I'll go to settings, and then update and security.
 >
@@ -1661,7 +1634,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/windows-10-administration-3/creating-a-system-image-backup?u=76281980&t=34)** So if your antivirus software can't remove a virus, you could do the reset your PC, and hopefully that would remove the virus.
 >
-> **[0:43](https://www.linkedin.com/learning/windows-10-administration-3/creating-a-system-image-backup?u=76281980&t=43)** Basically it will uninstall all of your programs and possibly delete all of your files and leave Windows in the state it was in when you first installed it.
+> **[0:43](https://www.linkedin.com/learning/windows-10-administration-3/creating-a-system-image-backup?u=76281980&t=43)** Basically it will uninstall all of your programs and possibly delete all of your files and leave [[Windows]] in the state it was in when you first installed it.
 >
 > **[0:53](https://www.linkedin.com/learning/windows-10-administration-3/creating-a-system-image-backup?u=76281980&t=53)** So I'll click get started.
 >
@@ -1703,25 +1676,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (5), cloud (3), [[Windows 10]] (1), [[Security]] (1), data (1)
+> **Frameworks & Libraries:** [[Windows]] (5), [[Windows 10]] (1)
 > **Prerequisites:** install (4)
 > **Definitions:** is a  (2), is an  (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Env Vars:** usb (1)
 > **Speakers:** - in (1)
 
-#### Overview of backups in Windows 10
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/overview-of-backups-in-windows-10?u=76281980)
+#### [Overview of backups in Windows 10](https://www.linkedin.com/learning/windows-10-administration-3/overview-of-backups-in-windows-10?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-administration-3/overview-of-backups-in-windows-10?u=76281980&t=0)** - [Instructor] Now I'd like to talk about some additional options on backing up Windows 10.
+> **[0:00](https://www.linkedin.com/learning/windows-10-administration-3/overview-of-backups-in-windows-10?u=76281980&t=0)** - [Instructor] Now I'd like to talk about some additional options on backing up [[Windows 10]].
 >
 > **[0:06](https://www.linkedin.com/learning/windows-10-administration-3/overview-of-backups-in-windows-10?u=76281980&t=6)** So at the start menu I'll go to settings, update and security.
 >
 > **[0:13](https://www.linkedin.com/learning/windows-10-administration-3/overview-of-backups-in-windows-10?u=76281980&t=13)** Back up.
 >
-> **[0:15](https://www.linkedin.com/learning/windows-10-administration-3/overview-of-backups-in-windows-10?u=76281980&t=15)** And I want to look at the option at the bottom, looking for an older backup, and it talks about go to back up and restore Windows 7.
+> **[0:15](https://www.linkedin.com/learning/windows-10-administration-3/overview-of-backups-in-windows-10?u=76281980&t=15)** And I want to look at the option at the bottom, looking for an older backup, and it talks about go to back up and restore [[Windows]] 7.
 >
 > **[0:23](https://www.linkedin.com/learning/windows-10-administration-3/overview-of-backups-in-windows-10?u=76281980&t=23)** This is a tool that was introduced in Windows 7, but has changed a little in Windows 10.
 >
@@ -1817,7 +1789,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (8), [[Windows 10]] (3), next (3), data (3), [[Security]] (2)
+> **Frameworks & Libraries:** [[Windows]] (8), [[Windows 10]] (3)
 > **UI Navigation:** go to (3), click on (3), checkbox (1)
 > **Env Vars:** dvd (2), efs (2)
 > **Definitions:** is a  (3)
@@ -1826,12 +1798,11 @@ created: 2026-05-02
 > **Warnings:** warning (1), note that (1)
 > **Prerequisites:** set up (1), required to (1)
 
-#### Best practices for backups and restores
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/best-practices-for-backups-and-restores?u=76281980)
+#### [Best practices for backups and restores](https://www.linkedin.com/learning/windows-10-administration-3/best-practices-for-backups-and-restores?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-administration-3/best-practices-for-backups-and-restores?u=76281980&t=0)** - [Narrator] In this section, we're going to talk about creating an image of your Windows 10 PC.
+> **[0:00](https://www.linkedin.com/learning/windows-10-administration-3/best-practices-for-backups-and-restores?u=76281980&t=0)** - [Narrator] In this section, we're going to talk about creating an image of your [[Windows 10]] PC.
 >
 > **[0:06](https://www.linkedin.com/learning/windows-10-administration-3/best-practices-for-backups-and-restores?u=76281980&t=6)** This image will contain all of your documents as well as your applications and the Windows 10 operating system files.
 >
@@ -1841,7 +1812,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/windows-10-administration-3/best-practices-for-backups-and-restores?u=76281980&t=22)** And one of the options that will come up is backup and restore control panel.
 >
-> **[0:27](https://www.linkedin.com/learning/windows-10-administration-3/best-practices-for-backups-and-restores?u=76281980&t=27)** It also notes that it was originally designed in Windows 7.
+> **[0:27](https://www.linkedin.com/learning/windows-10-administration-3/best-practices-for-backups-and-restores?u=76281980&t=27)** It also notes that it was originally designed in [[Windows]] 7.
 >
 > **[0:33](https://www.linkedin.com/learning/windows-10-administration-3/best-practices-for-backups-and-restores?u=76281980&t=33)** In this interface to the left hand side I have the option to create a system image.
 >
@@ -1889,13 +1860,13 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/windows-10-administration-3/best-practices-for-backups-and-restores?u=76281980&t=131)** Ideally you would restore the image to the same computer that you took the backup from.
 >
-> **[2:18](https://www.linkedin.com/learning/windows-10-administration-3/best-practices-for-backups-and-restores?u=76281980&t=138)** Because the image contains device drivers and various operating system files that are unique to your computer when you restore it, you'll need to restore it to hardware that's at least very similar to where you took the backup from.
+> **[2:18](https://www.linkedin.com/learning/windows-10-administration-3/best-practices-for-backups-and-restores?u=76281980&t=138)** Because the image contains device drivers and various operating system files that are unique to your computer when you restore it, you'll need to restore it to [[Hardware]] that's at least very similar to where you took the backup from.
 >
 > **[2:34](https://www.linkedin.com/learning/windows-10-administration-3/best-practices-for-backups-and-restores?u=76281980&t=154)** Ideally restoring on the same machine.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), [[Windows 10]] (2), next (2), [[Windows]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Windows 10]] (2), [[Windows]] (1), [[Hardware]] (1)
 > **Definitions:** in other words (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
@@ -1905,20 +1876,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using log files to troubleshoot Windows 10
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/using-log-files-to-troubleshoot-windows-10?u=76281980)
+#### [Using log files to troubleshoot Windows 10](https://www.linkedin.com/learning/windows-10-administration-3/using-log-files-to-troubleshoot-windows-10?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-administration-3/using-log-files-to-troubleshoot-windows-10?u=76281980&t=0)** - [Narrator] Now I'd like to talk about troubleshooting Windows 10.
+> **[0:00](https://www.linkedin.com/learning/windows-10-administration-3/using-log-files-to-troubleshoot-windows-10?u=76281980&t=0)** - [Narrator] Now I'd like to talk about troubleshooting [[Windows 10]].
 >
 > **[0:04](https://www.linkedin.com/learning/windows-10-administration-3/using-log-files-to-troubleshoot-windows-10?u=76281980&t=4)** And typically in a troubleshooting situation, the first thing I do is look at the logs.
 >
 > **[0:09](https://www.linkedin.com/learning/windows-10-administration-3/using-log-files-to-troubleshoot-windows-10?u=76281980&t=9)** So off the start menu, I'll type in event and that will bring up Event Viewer.
 >
-> **[0:16](https://www.linkedin.com/learning/windows-10-administration-3/using-log-files-to-troubleshoot-windows-10?u=76281980&t=16)** The Event Viewer in Windows 10 is very similar to that in Windows 7 and Windows 8.
+> **[0:16](https://www.linkedin.com/learning/windows-10-administration-3/using-log-files-to-troubleshoot-windows-10?u=76281980&t=16)** The Event Viewer in Windows 10 is very similar to that in [[Windows]] 7 and Windows 8.
 >
-> **[0:21](https://www.linkedin.com/learning/windows-10-administration-3/using-log-files-to-troubleshoot-windows-10?u=76281980&t=21)** And also very similar to the Event Viewer you would see on a Windows server.
+> **[0:21](https://www.linkedin.com/learning/windows-10-administration-3/using-log-files-to-troubleshoot-windows-10?u=76281980&t=21)** And also very similar to the Event Viewer you would see on a [[Windows Server]].
 >
 > **[0:26](https://www.linkedin.com/learning/windows-10-administration-3/using-log-files-to-troubleshoot-windows-10?u=76281980&t=26)** On the left hand side we have the option for Windows Logs, I'll expand that.
 >
@@ -1926,7 +1896,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/windows-10-administration-3/using-log-files-to-troubleshoot-windows-10?u=76281980&t=41)** The security log which tells us about successful log ins and failed log ins and also successful and failed uses of certain accounts and security objects.
 >
-> **[0:55](https://www.linkedin.com/learning/windows-10-administration-3/using-log-files-to-troubleshoot-windows-10?u=76281980&t=55)** The third log we commonly look at is the system log which will tell us about hardware issues and things about the various services that Windows runs.
+> **[0:55](https://www.linkedin.com/learning/windows-10-administration-3/using-log-files-to-troubleshoot-windows-10?u=76281980&t=55)** The third log we commonly look at is the system log which will tell us about [[Hardware]] issues and things about the various services that Windows runs.
 >
 > **[1:06](https://www.linkedin.com/learning/windows-10-administration-3/using-log-files-to-troubleshoot-windows-10?u=76281980&t=66)** On the right hand side, I have an option to filter the current log, so I'll click on that.
 >
@@ -1934,7 +1904,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/windows-10-administration-3/using-log-files-to-troubleshoot-windows-10?u=76281980&t=80)** And then now my log is filtered to just the errors and the critical items.
 >
-> **[1:25](https://www.linkedin.com/learning/windows-10-administration-3/using-log-files-to-troubleshoot-windows-10?u=76281980&t=85)** In that same interface, filter current log, there is the option for key words but unfortunately we can't just type in a specific key word.
+> **[1:25](https://www.linkedin.com/learning/windows-10-administration-3/using-log-files-to-troubleshoot-windows-10?u=76281980&t=85)** In that same interface, filter current log, there is the option for key words but unfortunately we can't just type in a specific key [[Microsoft Word|word]].
 >
 > **[1:35](https://www.linkedin.com/learning/windows-10-administration-3/using-log-files-to-troubleshoot-windows-10?u=76281980&t=95)** We have to go with the predefined key words they are using.
 >
@@ -1958,20 +1928,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Troubleshooting]] (4), [[Windows]] (4), [[Microsoft Word|Word]] (3), [[Windows 10]] (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Windows]] (4), [[Microsoft Word|Word]] (3), [[Windows 10]] (2), [[Windows Server]] (1), [[Hardware]] (1)
 > **CLI Commands:** find (3), make (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Using Resource Monitor to diagnose performance bottlenecks
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/using-resource-monitor-to-diagnose-performance-bottlenecks?u=76281980)
+#### [Using Resource Monitor to diagnose performance bottlenecks](https://www.linkedin.com/learning/windows-10-administration-3/using-resource-monitor-to-diagnose-performance-bottlenecks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-administration-3/using-resource-monitor-to-diagnose-performance-bottlenecks?u=76281980&t=0)** - [Instructor] In this section, we're going to talk about troubleshooting performance problems in Windows 10.
+> **[0:00](https://www.linkedin.com/learning/windows-10-administration-3/using-resource-monitor-to-diagnose-performance-bottlenecks?u=76281980&t=0)** - [Instructor] In this section, we're going to talk about troubleshooting performance problems in [[Windows 10]].
 >
-> **[0:05](https://www.linkedin.com/learning/windows-10-administration-3/using-resource-monitor-to-diagnose-performance-bottlenecks?u=76281980&t=5)** And when performance problems are related to hardware issues, it's almost always one of four categories of hardware and Windows 10 supplies us one tool that will allow us to monitor all four areas.
+> **[0:05](https://www.linkedin.com/learning/windows-10-administration-3/using-resource-monitor-to-diagnose-performance-bottlenecks?u=76281980&t=5)** And when performance problems are related to [[Hardware]] issues, it's almost always one of four categories of hardware and Windows 10 supplies us one tool that will allow us to monitor all four areas.
 >
 > **[0:22](https://www.linkedin.com/learning/windows-10-administration-3/using-resource-monitor-to-diagnose-performance-bottlenecks?u=76281980&t=22)** So off the Start menu, I'll type in Resource and then I'll click on Resource Monitor.
 >
@@ -2059,18 +2028,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (6), next (4), [[Windows 10]] (3), [[Troubleshooting]] (2), hit (1)
+> **Frameworks & Libraries:** [[Hardware]] (6), [[Windows 10]] (3)
 > **Env Vars:** cpu (7)
 > **UI Navigation:** click on (2), checkbox (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Troubleshooting network problems
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/troubleshooting-network-problems?u=76281980)
+#### [Troubleshooting network problems](https://www.linkedin.com/learning/windows-10-administration-3/troubleshooting-network-problems?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-administration-3/troubleshooting-network-problems?u=76281980&t=0)** - [Instructor] In this section, I'd like to talk about troubleshooting network issues in Windows 10.
+> **[0:00](https://www.linkedin.com/learning/windows-10-administration-3/troubleshooting-network-problems?u=76281980&t=0)** - [Instructor] In this section, I'd like to talk about troubleshooting network issues in [[Windows 10]].
 >
 > **[0:06](https://www.linkedin.com/learning/windows-10-administration-3/troubleshooting-network-problems?u=76281980&t=6)** And particularly looking at a new feature in Windows 10, that allows us to gather a lot of information about the network.
 >
@@ -2088,7 +2056,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/windows-10-administration-3/troubleshooting-network-problems?u=76281980&t=40)** Command I'd like to type in is, net SH space WLAN space show and space WLAN report.
 >
-> **[0:53](https://www.linkedin.com/learning/windows-10-administration-3/troubleshooting-network-problems?u=76281980&t=53)** That last part WLAN report is all one word.
+> **[0:53](https://www.linkedin.com/learning/windows-10-administration-3/troubleshooting-network-problems?u=76281980&t=53)** That last part WLAN report is all one [[Microsoft Word|word]].
 >
 > **[0:57](https://www.linkedin.com/learning/windows-10-administration-3/troubleshooting-network-problems?u=76281980&t=57)** Hit enter off of that.
 >
@@ -2096,7 +2064,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/windows-10-administration-3/troubleshooting-network-problems?u=76281980&t=64)** And so I'm going to navigate to that path to look at that report.
 >
-> **[1:09](https://www.linkedin.com/learning/windows-10-administration-3/troubleshooting-network-problems?u=76281980&t=69)** So there we see WLAN report latest dot HTML.
+> **[1:09](https://www.linkedin.com/learning/windows-10-administration-3/troubleshooting-network-problems?u=76281980&t=69)** So there we see WLAN report latest dot [[HTML]].
 >
 > **[1:12](https://www.linkedin.com/learning/windows-10-administration-3/troubleshooting-network-problems?u=76281980&t=72)** I'll double click on that one.
 >
@@ -2130,7 +2098,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows 10]] (4), prompt (4), [[Troubleshooting]] (3), feature (2), hit (2)
+> **Frameworks & Libraries:** [[Windows 10]] (4), [[Microsoft Word|Word]] (1), [[HTML]] (1)
 > **Env Vars:** wlan (7), cmd (1), html (1)
 > **UI Navigation:** scroll down (3), click on (2), navigate to (1)
 > **Tools:** command prompt (4), command line (1)
@@ -2142,18 +2110,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/windows-10-administration-3/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-administration-3/next-steps?u=76281980&t=0)** - [Martin] I hope you've enjoyed my course on Windows 10 Administration, I've certainly enjoyed creating the course.
+> **[0:00](https://www.linkedin.com/learning/windows-10-administration-3/next-steps?u=76281980&t=0)** - [Martin] I hope you've enjoyed my course on [[Windows 10]] Administration, I've certainly enjoyed creating the course.
 >
 > **[0:07](https://www.linkedin.com/learning/windows-10-administration-3/next-steps?u=76281980&t=7)** I'd like to leave you with some ideas on some next steps, things you can do to continue learning.
 >
 > **[0:14](https://www.linkedin.com/learning/windows-10-administration-3/next-steps?u=76281980&t=14)** Some courses we have here on [lynda.com](https://lynda.com) that you might be interested, include Windows 10 Tips and Tricks with David Rivers.
 >
-> **[0:24](https://www.linkedin.com/learning/windows-10-administration-3/next-steps?u=76281980&t=24)** If you're planning to run the latest version of Office on Windows 10, you might want to check out Office 2016 and Office 365 New Features also by David Rivers.
+> **[0:24](https://www.linkedin.com/learning/windows-10-administration-3/next-steps?u=76281980&t=24)** If you're planning to run the latest version of [[Microsoft Office|Office]] on Windows 10, you might want to check out Office 2016 and Office 365 New Features also by David Rivers.
 >
 > **[0:37](https://www.linkedin.com/learning/windows-10-administration-3/next-steps?u=76281980&t=37)** If you're planning on running Windows 10 in a virtual environment, you may be interested in Virtualization Essential Training and that one's by me.
 >
@@ -2163,7 +2130,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows 10]] (5), [[Microsoft Office|Office]] (5), next (1), [[Virtualization]] (1)
+> **Frameworks & Libraries:** [[Windows 10]] (5), [[Microsoft Office|Office]] (5)
 > **URLs:** [lynda.com](https://lynda.com) (1)
 > **Speakers:** - [martin] (1)
 

@@ -114,12 +114,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### An introduction to database foundations
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/an-introduction-to-database-foundations?u=76281980)
+#### [An introduction to database foundations](https://www.linkedin.com/learning/database-foundations-intro-to-databases/an-introduction-to-database-foundations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-intro-to-databases/an-introduction-to-database-foundations?u=76281980&t=0)** - [Adam] Experience with databases is one of the most sought-after skills in IT, but it can be hard to know where to start.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-intro-to-databases/an-introduction-to-database-foundations?u=76281980&t=0)** - [Adam] Experience with [[Databases]] is one of the most sought-after skills in IT, but it can be hard to know where to start.
 >
 > **[0:08](https://www.linkedin.com/learning/database-foundations-intro-to-databases/an-introduction-to-database-foundations?u=76281980&t=8)** There's a wide variety of competing database platforms to choose from, and the process of installing one to test it out can be complicated or expensive or both.
 >
@@ -135,22 +134,21 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/database-foundations-intro-to-databases/an-introduction-to-database-foundations?u=76281980&t=46)** If you've never created or managed a database before, then this course is a great place to start.
 >
-> **[0:52](https://www.linkedin.com/learning/database-foundations-intro-to-databases/an-introduction-to-database-foundations?u=76281980&t=52)** So join me on LinkedIn Learning, and get ready to dive into database development.
+> **[0:52](https://www.linkedin.com/learning/database-foundations-intro-to-databases/an-introduction-to-database-foundations?u=76281980&t=52)** So join me on [[LinkedIn]] Learning, and get ready to dive into [[Database Development]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (4), database (3), career (1), [[LinkedIn]] (1), [[Database Development]] (1)
+> **Frameworks & Libraries:** [[Databases]] (4), [[LinkedIn]] (1), [[Database Development]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [adam] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/database-foundations-intro-to-databases/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-intro-to-databases/what-you-should-know?u=76281980&t=0)** - [Instructor] I've created this course to introduce you to the foundations of relational databases no matter what platform you want to work with or which operating systems you use.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-intro-to-databases/what-you-should-know?u=76281980&t=0)** - [Instructor] I've created this course to introduce you to the foundations of [[Relational Databases]] no matter what platform you want to work with or which operating systems you use.
 >
-> **[0:10](https://www.linkedin.com/learning/database-foundations-intro-to-databases/what-you-should-know?u=76281980&t=10)** So I don't expect you to come in with any prior experience with databases or have any specific hardware or software installed.
+> **[0:10](https://www.linkedin.com/learning/database-foundations-intro-to-databases/what-you-should-know?u=76281980&t=10)** So I don't expect you to come in with any prior experience with [[Databases]] or have any specific [[Hardware]] or software installed.
 >
 > **[0:18](https://www.linkedin.com/learning/database-foundations-intro-to-databases/what-you-should-know?u=76281980&t=18)** We're literally going to start at the very beginning, and I'll walk you through the process of obtaining and installing all of the tools that you'll need.
 >
@@ -158,12 +156,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Relational Databases]] (1), [[Databases]] (1), [[Hardware]] (1), data (1)
+> **Frameworks & Libraries:** [[Relational Databases]] (1), [[Databases]] (1), [[Hardware]] (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/using-the-exercise-files?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/database-foundations-intro-to-databases/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -179,7 +176,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/database-foundations-intro-to-databases/using-the-exercise-files?u=76281980&t=27)** Let's go ahead and close this down.
 >
-> **[0:29](https://www.linkedin.com/learning/database-foundations-intro-to-databases/using-the-exercise-files?u=76281980&t=29)** Some of the files you'll notice, have the word Complete at the end of them.
+> **[0:29](https://www.linkedin.com/learning/database-foundations-intro-to-databases/using-the-exercise-files?u=76281980&t=29)** Some of the files you'll notice, have the [[Microsoft Word|word]] Complete at the end of them.
 >
 > **[0:33](https://www.linkedin.com/learning/database-foundations-intro-to-databases/using-the-exercise-files?u=76281980&t=33)** These represent the final state of the script at the end of the movie.
 >
@@ -189,14 +186,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Exercise Files:** exercise files (3), download the (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - you (1)
 
-#### CoderPad tour
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/coderpad-tour?u=76281980)
+#### [CoderPad tour](https://www.linkedin.com/learning/database-foundations-intro-to-databases/coderpad-tour?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -206,7 +202,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/database-foundations-intro-to-databases/coderpad-tour?u=76281980&t=14)** These challenges are hosted by CoderPad, and they appear in the same area of the course page where you watch the videos.
 >
-> **[0:22](https://www.linkedin.com/learning/database-foundations-intro-to-databases/coderpad-tour?u=76281980&t=22)** We recommend using a desktop browser for the best experience with code challenges, but you can use the LinkedIn Learning mobile app if you prefer.
+> **[0:22](https://www.linkedin.com/learning/database-foundations-intro-to-databases/coderpad-tour?u=76281980&t=22)** We recommend using a desktop browser for the best experience with code challenges, but you can use the [[LinkedIn]] Learning mobile app if you prefer.
 >
 > **[0:30](https://www.linkedin.com/learning/database-foundations-intro-to-databases/coderpad-tour?u=76281980&t=30)** Now, the code challenge screen has three different areas.
 >
@@ -234,7 +230,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Env Vars:** select (1), max (1)
 > **UI Navigation:** click on (2)
 > **SQL:** select (1)
@@ -246,8 +242,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a database?
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/what-is-a-database?u=76281980)
+#### [What is a database?](https://www.linkedin.com/learning/database-foundations-intro-to-databases/what-is-a-database?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -305,7 +300,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/database-foundations-intro-to-databases/what-is-a-database?u=76281980&t=102)** The entire reason you would store data in the first place is to make use of it again later.
 >
-> **[1:47](https://www.linkedin.com/learning/database-foundations-intro-to-databases/what-is-a-database?u=76281980&t=107)** Databases store data so that it can be retrieved, analyzed and acted upon.
+> **[1:47](https://www.linkedin.com/learning/database-foundations-intro-to-databases/what-is-a-database?u=76281980&t=107)** [[Databases]] store data so that it can be retrieved, analyzed and acted upon.
 >
 > **[1:53](https://www.linkedin.com/learning/database-foundations-intro-to-databases/what-is-a-database?u=76281980&t=113)** After all, if you're not going to actually do anything with your data, then why go through the hassle of storing it in the first place.
 >
@@ -345,15 +340,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), database (19), [[Databases]] (2), business (1)
+> **Frameworks & Libraries:** [[Databases]] (2)
 > **Definitions:** is a  (8)
 > **Analogies:** picture (1), such as (1), just like (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** as we saw (1)
 > **Speakers:** - [instructor] (1)
 
-#### Storing data efficiently
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/storing-data-efficiently?u=76281980)
+#### [Storing data efficiently](https://www.linkedin.com/learning/database-foundations-intro-to-databases/storing-data-efficiently?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -409,18 +403,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), database (7)
 > **CLI Commands:** make (2), find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Relational database management systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/relational-database-management-systems?u=76281980)
+#### [Relational database management systems](https://www.linkedin.com/learning/database-foundations-intro-to-databases/relational-database-management-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/database-foundations-intro-to-databases/relational-database-management-systems?u=76281980&t=0)** - [Instructor] When you start splitting your tabular data across multiple tables, it's important to stay organized and ensure that all of the components of your data structure fit together as intended.
 >
-> **[0:11](https://www.linkedin.com/learning/database-foundations-intro-to-databases/relational-database-management-systems?u=76281980&t=11)** This is where a Relational Database Management System comes into play.
+> **[0:11](https://www.linkedin.com/learning/database-foundations-intro-to-databases/relational-database-management-systems?u=76281980&t=11)** This is where a Relational [[Database Management]] System comes into play.
 >
 > **[0:16](https://www.linkedin.com/learning/database-foundations-intro-to-databases/relational-database-management-systems?u=76281980&t=16)** a Relational Database Management System, or RDBMS, for short, gives you the tools that you need in order to build a database to meet your unique set of requirements.
 >
@@ -468,11 +460,11 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/database-foundations-intro-to-databases/relational-database-management-systems?u=76281980&t=155)** There's many different companies that produce competing Relational Database Management Systems that are aimed at different users with different priorities.
 >
-> **[2:44](https://www.linkedin.com/learning/database-foundations-intro-to-databases/relational-database-management-systems?u=76281980&t=164)** If you're building a database for a personal project or a small business, then you might be well served with a Desktop RDBMS such as Microsoft Access, FileMaker or Open Office Base.
+> **[2:44](https://www.linkedin.com/learning/database-foundations-intro-to-databases/relational-database-management-systems?u=76281980&t=164)** If you're building a database for a personal project or a small business, then you might be well served with a Desktop RDBMS such as [[Microsoft]] Access, FileMaker or Open [[Microsoft Office|Office]] Base.
 >
-> **[2:56](https://www.linkedin.com/learning/database-foundations-intro-to-databases/relational-database-management-systems?u=76281980&t=176)** For medium to large businesses and enterprise customers with their own data centers, Microsoft SQL Server, Oracle, PostgreSQL or MySQL might be a better fit.
+> **[2:56](https://www.linkedin.com/learning/database-foundations-intro-to-databases/relational-database-management-systems?u=76281980&t=176)** For medium to large businesses and enterprise customers with their own data centers, [[Microsoft SQL Server]], Oracle, [[PostgreSQL]] or [[MySQL]] might be a better fit.
 >
-> **[3:08](https://www.linkedin.com/learning/database-foundations-intro-to-databases/relational-database-management-systems?u=76281980&t=188)** If you want your data stored in the Cloud, so that it's easily accessible from all over the world, you might choose Microsoft Azure SQL Database, Amazon Relational Database, Oracle Database Cloud, or Google Cloud SQL.
+> **[3:08](https://www.linkedin.com/learning/database-foundations-intro-to-databases/relational-database-management-systems?u=76281980&t=188)** If you want your data stored in the Cloud, so that it's easily accessible from all over the world, you might choose [[Microsoft Azure]] [[SQL]] Database, Amazon Relational Database, Oracle Database Cloud, or [[Google Cloud Platform (GCP)|Google Cloud]] SQL.
 >
 > **[3:21](https://www.linkedin.com/learning/database-foundations-intro-to-databases/relational-database-management-systems?u=76281980&t=201)** These are just a few of the major providers of RDBMS software.
 >
@@ -484,7 +476,7 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/database-foundations-intro-to-databases/relational-database-management-systems?u=76281980&t=236)** I'm mostly going to focus on the core components that are shared across almost all of these options.
 >
-> **[4:01](https://www.linkedin.com/learning/database-foundations-intro-to-databases/relational-database-management-systems?u=76281980&t=241)** So it won't matter if you're working on a PC, or a Mac or Linux or using SQL Server or Oracle or one of the Cloud platforms.
+> **[4:01](https://www.linkedin.com/learning/database-foundations-intro-to-databases/relational-database-management-systems?u=76281980&t=241)** So it won't matter if you're working on a PC, or a Mac or [[Linux]] or using [[Microsoft SQL Server|SQL Server]] or Oracle or one of the Cloud platforms.
 >
 > **[4:09](https://www.linkedin.com/learning/database-foundations-intro-to-databases/relational-database-management-systems?u=76281980&t=249)** The concepts that we'll look at in this course will apply to any of these options.
 >
@@ -496,7 +488,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), database (12), management (4), cloud (3), next (2)
+> **Frameworks & Libraries:** [[Database Management]] (4), [[PostgreSQL]] (2), [[SQL]] (2), [[Microsoft SQL Server|Sql server]] (2), [[Microsoft]] (1)
 > **Env Vars:** rdbms (10), sql (5)
 > **CLI Commands:** make (3), find (1), mysql (1)
 > **Analogies:** just like (1), such as (1)
@@ -505,14 +497,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 
-#### The client-server model
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/the-client-server-model?u=76281980)
+#### [The client-server model](https://www.linkedin.com/learning/database-foundations-intro-to-databases/the-client-server-model?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/database-foundations-intro-to-databases/the-client-server-model?u=76281980&t=0)** - Before we turn our attention to installing some software, there's one more concept that we need to dive into.
 >
-> **[0:07](https://www.linkedin.com/learning/database-foundations-intro-to-databases/the-client-server-model?u=76281980&t=7)** All relational database management systems operate on a client server model.
+> **[0:07](https://www.linkedin.com/learning/database-foundations-intro-to-databases/the-client-server-model?u=76281980&t=7)** All relational [[Database Management]] systems operate on a client server model.
 >
 > **[0:13](https://www.linkedin.com/learning/database-foundations-intro-to-databases/the-client-server-model?u=76281980&t=13)** This means that there's two components that work together to form a complete system.
 >
@@ -544,7 +535,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/database-foundations-intro-to-databases/the-client-server-model?u=76281980&t=82)** The nice thing about this arrangement is that you can mix and match the pieces to suit different needs by choosing from a number of different clients.
 >
-> **[1:30](https://www.linkedin.com/learning/database-foundations-intro-to-databases/the-client-server-model?u=76281980&t=90)** If you're performing server maintenance using a terminal window, you can connect with a Command-line interface or a CLI.
+> **[1:30](https://www.linkedin.com/learning/database-foundations-intro-to-databases/the-client-server-model?u=76281980&t=90)** If you're performing server maintenance using a terminal window, you can connect with a Command-line interface or a [[CLI]].
 >
 > **[1:37](https://www.linkedin.com/learning/database-foundations-intro-to-databases/the-client-server-model?u=76281980&t=97)** If you prefer a more traditional desktop application experience, you can choose to use a graphical interface that provides toolbars and buttons to perform different tasks.
 >
@@ -556,7 +547,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/database-foundations-intro-to-databases/the-client-server-model?u=76281980&t=132)** Consider a popular online multiplayer game, that may have to have millions of simultaneous players all connected to a shared server.
 >
-> **[2:20](https://www.linkedin.com/learning/database-foundations-intro-to-databases/the-client-server-model?u=76281980&t=140)** Or an office full of employees that are evaluating company wide financial data.
+> **[2:20](https://www.linkedin.com/learning/database-foundations-intro-to-databases/the-client-server-model?u=76281980&t=140)** Or an [[Microsoft Office|office]] full of employees that are evaluating company wide [[Financial Data]].
 >
 > **[2:26](https://www.linkedin.com/learning/database-foundations-intro-to-databases/the-client-server-model?u=76281980&t=146)** Since everyone is connected to the same database server, they all have access to the same up to date information.
 >
@@ -576,15 +567,15 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/database-foundations-intro-to-databases/the-client-server-model?u=76281980&t=203)** Just like with the different RDBMS options that are on the market, there's a wide variety of database client applications to choose from.
 >
-> **[3:30](https://www.linkedin.com/learning/database-foundations-intro-to-databases/the-client-server-model?u=76281980&t=210)** Wikipedia has a nice comparison chart that covers some of the more popular products.
+> **[3:30](https://www.linkedin.com/learning/database-foundations-intro-to-databases/the-client-server-model?u=76281980&t=210)** Wikipedia has a nice comparison chart that covers some of the more popular [[Microsoft Products|products]].
 >
-> **[3:35](https://www.linkedin.com/learning/database-foundations-intro-to-databases/the-client-server-model?u=76281980&t=215)** Along the top of this chart you can see the different operating system that each client can be run on, for instance runs on Windows, Mac OS or Linux.
+> **[3:35](https://www.linkedin.com/learning/database-foundations-intro-to-databases/the-client-server-model?u=76281980&t=215)** Along the top of this chart you can see the different operating system that each client can be run on, for instance runs on [[Windows]], Mac OS or [[Linux]].
 >
 > **[3:44](https://www.linkedin.com/learning/database-foundations-intro-to-databases/the-client-server-model?u=76281980&t=224)** You can also see the different RDBMSs that they're compatible with.
 >
-> **[3:47](https://www.linkedin.com/learning/database-foundations-intro-to-databases/the-client-server-model?u=76281980&t=227)** So here we have Oracle, MySQL, PostgreSQL and SQL Server.
+> **[3:47](https://www.linkedin.com/learning/database-foundations-intro-to-databases/the-client-server-model?u=76281980&t=227)** So here we have Oracle, [[MySQL]], [[PostgreSQL]] and [[Microsoft SQL Server|SQL Server]].
 >
-> **[3:52](https://www.linkedin.com/learning/database-foundations-intro-to-databases/the-client-server-model?u=76281980&t=232)** For instance if I scroll down here on this chart I can find the line for Microsoft SQL Server Management Studio.
+> **[3:52](https://www.linkedin.com/learning/database-foundations-intro-to-databases/the-client-server-model?u=76281980&t=232)** For instance if I scroll down here on this chart I can find the line for [[Microsoft SQL Server]] Management Studio.
 >
 > **[3:58](https://www.linkedin.com/learning/database-foundations-intro-to-databases/the-client-server-model?u=76281980&t=238)** This is the most popular interface client for a SQL Server.
 >
@@ -594,17 +585,17 @@ created: 2026-05-02
 >
 > **[4:17](https://www.linkedin.com/learning/database-foundations-intro-to-databases/the-client-server-model?u=76281980&t=257)** So the client and the server are the two components that we need to get a fully functioning relational database management system.
 >
-> **[4:25](https://www.linkedin.com/learning/database-foundations-intro-to-databases/the-client-server-model?u=76281980&t=265)** Later on in this course in chapter three, we're going to work with a graphical client called Azure Data Studio, which is a relatively new product from Microsoft.
+> **[4:25](https://www.linkedin.com/learning/database-foundations-intro-to-databases/the-client-server-model?u=76281980&t=265)** Later on in this course in chapter three, we're going to work with a graphical client called [[Microsoft Azure|Azure]] Data Studio, which is a relatively new product from [[Microsoft]].
 >
-> **[4:33](https://www.linkedin.com/learning/database-foundations-intro-to-databases/the-client-server-model?u=76281980&t=273)** Azure Data Studio provides a modern set of tools that currently supports both SQL Server and PostgreSQL relational databases.
+> **[4:33](https://www.linkedin.com/learning/database-foundations-intro-to-databases/the-client-server-model?u=76281980&t=273)** Azure Data Studio provides a modern set of tools that currently supports both SQL Server and PostgreSQL [[Relational Databases]].
 >
 > **[4:43](https://www.linkedin.com/learning/database-foundations-intro-to-databases/the-client-server-model?u=76281980&t=283)** And it can be run on Windows, Mac OS and Linux.
 >
-> **[4:46](https://www.linkedin.com/learning/database-foundations-intro-to-databases/the-client-server-model?u=76281980&t=286)** So I think it's a good choice for a wide variety of learners taking their first steps in the foundations of databases.
+> **[4:46](https://www.linkedin.com/learning/database-foundations-intro-to-databases/the-client-server-model?u=76281980&t=286)** So I think it's a good choice for a wide variety of learners taking their first steps in the foundations of [[Databases]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (12), management (6), application (5), [[Microsoft SQL Server|Sql server]] (4), data (3)
+> **Frameworks & Libraries:** [[Database Management]] (4), [[Microsoft SQL Server|Sql server]] (4), [[Windows]] (3), [[Linux]] (2), [[PostgreSQL]] (2)
 > **Env Vars:** sql (5), rdbms (2), cli (1)
 > **Analogies:** for instance (2), such as (1), just like (1)
 > **CLI Commands:** make (1), mysql (1), find (1)
@@ -618,18 +609,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Purpose of the playground
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/purpose-of-the-playground?u=76281980)
+#### [Purpose of the playground](https://www.linkedin.com/learning/database-foundations-intro-to-databases/purpose-of-the-playground?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-intro-to-databases/purpose-of-the-playground?u=76281980&t=0)** - [Illustrator] One of the biggest hurdles to learning about databases is simply having the proper software installed and configured so that you can experiment and poke around.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-intro-to-databases/purpose-of-the-playground?u=76281980&t=0)** - [Illustrator] One of the biggest hurdles to learning about [[Databases]] is simply having the proper software installed and configured so that you can experiment and poke around.
 >
 > **[0:11](https://www.linkedin.com/learning/database-foundations-intro-to-databases/purpose-of-the-playground?u=76281980&t=11)** So in this chapter, I'm going to walk you through the process of creating your very own database playground.
 >
 > **[0:18](https://www.linkedin.com/learning/database-foundations-intro-to-databases/purpose-of-the-playground?u=76281980&t=18)** This playground will solve two different problems.
 >
-> **[0:21](https://www.linkedin.com/learning/database-foundations-intro-to-databases/purpose-of-the-playground?u=76281980&t=21)** First, database servers typically expect to be run on dedicated hardware.
+> **[0:21](https://www.linkedin.com/learning/database-foundations-intro-to-databases/purpose-of-the-playground?u=76281980&t=21)** First, database servers typically expect to be run on dedicated [[Hardware]].
 >
 > **[0:26](https://www.linkedin.com/learning/database-foundations-intro-to-databases/purpose-of-the-playground?u=76281980&t=26)** This is usually a standalone computer, or in a data center, or in a virtual machine in the cloud.
 >
@@ -675,7 +665,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/database-foundations-intro-to-databases/purpose-of-the-playground?u=76281980&t=160)** Is that they provide very consistent and predictable working environments across all operating systems.
 >
-> **[2:47](https://www.linkedin.com/learning/database-foundations-intro-to-databases/purpose-of-the-playground?u=76281980&t=167)** If you run an RDBMS container on any Windows computer, you'll get exactly the same experience if you move that container to a Mac or Linux computer.
+> **[2:47](https://www.linkedin.com/learning/database-foundations-intro-to-databases/purpose-of-the-playground?u=76281980&t=167)** If you run an RDBMS container on any [[Windows]] computer, you'll get exactly the same experience if you move that container to a Mac or [[Linux]] computer.
 >
 > **[2:56](https://www.linkedin.com/learning/database-foundations-intro-to-databases/purpose-of-the-playground?u=76281980&t=176)** With everything running inside of a container, you can bring whatever computer that you have available to this course and be able to follow along.
 >
@@ -693,23 +683,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), [[Hardware]] (2), cloud (2), [[Databases]] (1), data (1)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Databases]] (1), [[Windows]] (1), [[Linux]] (1)
 > **Env Vars:** rdbms (5)
 > **Prerequisites:** install (3)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1), is a  (1)
 > **Speakers:** - [illustrator] (1)
 
-#### Install Docker
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/install-docker-22836043?u=76281980)
+#### [Install Docker](https://www.linkedin.com/learning/database-foundations-intro-to-databases/install-docker-22836043?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-intro-to-databases/install-docker-22836043?u=76281980&t=0)** - [Instructor] We're going to install a couple of different relational database management systems inside of containers, and the application that's used to create and manage your containers is called Docker.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-intro-to-databases/install-docker-22836043?u=76281980&t=0)** - [Instructor] We're going to install a couple of different relational [[Database Management]] systems inside of containers, and the application that's used to create and manage your containers is called Docker.
 >
 > **[0:11](https://www.linkedin.com/learning/database-foundations-intro-to-databases/install-docker-22836043?u=76281980&t=11)** To get this set up, we're going to start at [docker.com](https://docker.com).
 >
-> **[0:14](https://www.linkedin.com/learning/database-foundations-intro-to-databases/install-docker-22836043?u=76281980&t=14)** Along the top of the page are links to information about the various products, the documentation.
+> **[0:14](https://www.linkedin.com/learning/database-foundations-intro-to-databases/install-docker-22836043?u=76281980&t=14)** Along the top of the page are links to information about the various [[Microsoft Products|products]], the documentation.
 >
 > **[0:20](https://www.linkedin.com/learning/database-foundations-intro-to-databases/install-docker-22836043?u=76281980&t=20)** and information on pricing if you want to use Docker in a larger commercial environment.
 >
@@ -719,15 +708,15 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/database-foundations-intro-to-databases/install-docker-22836043?u=76281980&t=39)** It should auto detect your current operating system, but there are other links if you want to install Docker on a different OS.
 >
-> **[0:46](https://www.linkedin.com/learning/database-foundations-intro-to-databases/install-docker-22836043?u=76281980&t=46)** I'm going to be working on a Windows PC so I'll click on this button in just a moment.
+> **[0:46](https://www.linkedin.com/learning/database-foundations-intro-to-databases/install-docker-22836043?u=76281980&t=46)** I'm going to be working on a [[Windows]] PC so I'll click on this button in just a moment.
 >
-> **[0:51](https://www.linkedin.com/learning/database-foundations-intro-to-databases/install-docker-22836043?u=76281980&t=51)** But first I want to take a look at the options for Linux.
+> **[0:51](https://www.linkedin.com/learning/database-foundations-intro-to-databases/install-docker-22836043?u=76281980&t=51)** But first I want to take a look at the options for [[Linux]].
 >
 > **[0:54](https://www.linkedin.com/learning/database-foundations-intro-to-databases/install-docker-22836043?u=76281980&t=54)** It's a little bit different than the others.
 >
 > **[0:56](https://www.linkedin.com/learning/database-foundations-intro-to-databases/install-docker-22836043?u=76281980&t=56)** There are different builds of Docker for the different distributions of Linux.
 >
-> **[1:00](https://www.linkedin.com/learning/database-foundations-intro-to-databases/install-docker-22836043?u=76281980&t=60)** So here we have links for Ubuntu, Debian, and Fedora Linux.
+> **[1:00](https://www.linkedin.com/learning/database-foundations-intro-to-databases/install-docker-22836043?u=76281980&t=60)** So here we have links for [[Ubuntu]], Debian, and Fedora Linux.
 >
 > **[1:04](https://www.linkedin.com/learning/database-foundations-intro-to-databases/install-docker-22836043?u=76281980&t=64)** Each of these links will give you the installation procedure and specific commands needed for that particular distribution.
 >
@@ -829,7 +818,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (7), [[Windows]] (6), application (4), prompt (3), database (2)
+> **Frameworks & Libraries:** [[Linux]] (7), [[Windows]] (6), [[Database Management]] (1), [[Microsoft Products|Products]] (1), [[Ubuntu]] (1)
 > **CLI Commands:** docker (26), make (2), find (2)
 > **Tools:** docker desktop (10), command prompt (3), command line (1), terminal (1)
 > **Env Vars:** wsl (3), cls (2), wsl2 (1), mac (1)
@@ -838,12 +827,11 @@ created: 2026-05-02
 > **Prerequisites:** install (2), set up (1)
 > **Versions:** version 24 (1), 0.2 (1)
 
-#### Database server containers
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/database-server-containers-22830995?u=76281980)
+#### [Database server containers](https://www.linkedin.com/learning/database-foundations-intro-to-databases/database-server-containers-22830995?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-intro-to-databases/database-server-containers-22830995?u=76281980&t=0)** - [Narrator] The companies that create different relational database management systems often make official Docker images available for you to use.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-intro-to-databases/database-server-containers-22830995?u=76281980&t=0)** - [Narrator] The companies that create different relational [[Database Management]] systems often make official Docker images available for you to use.
 >
 > **[0:08](https://www.linkedin.com/learning/database-foundations-intro-to-databases/database-server-containers-22830995?u=76281980&t=8)** And from these, we'll build our own personal containers.
 >
@@ -867,11 +855,11 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/database-foundations-intro-to-databases/database-server-containers-22830995?u=76281980&t=60)** You can find them by searching the Docker Hub.
 >
-> **[1:03](https://www.linkedin.com/learning/database-foundations-intro-to-databases/database-server-containers-22830995?u=76281980&t=63)** Right now, I'm viewing the Docker Hub page for Microsoft's SQL Server.
+> **[1:03](https://www.linkedin.com/learning/database-foundations-intro-to-databases/database-server-containers-22830995?u=76281980&t=63)** Right now, I'm viewing the Docker Hub page for [[Microsoft]]'s [[Microsoft SQL Server|SQL Server]].
 >
 > **[1:07](https://www.linkedin.com/learning/database-foundations-intro-to-databases/database-server-containers-22830995?u=76281980&t=67)** This page describes the different images that are available for the SQL Server relational database management system, and it gives you some instructions on how to download and use them.
 >
-> **[1:17](https://www.linkedin.com/learning/database-foundations-intro-to-databases/database-server-containers-22830995?u=76281980&t=77)** Also on the Docker Hub is a similar page for PostgreSQL relational databases.
+> **[1:17](https://www.linkedin.com/learning/database-foundations-intro-to-databases/database-server-containers-22830995?u=76281980&t=77)** Also on the Docker Hub is a similar page for [[PostgreSQL]] [[Relational Databases]].
 >
 > **[1:22](https://www.linkedin.com/learning/database-foundations-intro-to-databases/database-server-containers-22830995?u=76281980&t=82)** Again, we have some information about the commands needed to download and use them on this page.
 >
@@ -879,7 +867,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/database-foundations-intro-to-databases/database-server-containers-22830995?u=76281980&t=94)** In the chapter two folder of the course exercise files is a file called Docker_Containers.txt.
 >
-> **[1:41](https://www.linkedin.com/learning/database-foundations-intro-to-databases/database-server-containers-22830995?u=76281980&t=101)** It has the commands that we need to run in a command prompt or a PowerShell window if you're on Windows or in your terminal application if you're on a Mac or Linux computer.
+> **[1:41](https://www.linkedin.com/learning/database-foundations-intro-to-databases/database-server-containers-22830995?u=76281980&t=101)** It has the commands that we need to run in a command prompt or a [[Powershell]] window if you're on [[Windows]] or in your terminal application if you're on a Mac or [[Linux]] computer.
 >
 > **[1:51](https://www.linkedin.com/learning/database-foundations-intro-to-databases/database-server-containers-22830995?u=76281980&t=111)** So let's read through this document to see what it contains.
 >
@@ -959,7 +947,7 @@ created: 2026-05-02
 >
 > **[5:12](https://www.linkedin.com/learning/database-foundations-intro-to-databases/database-server-containers-22830995?u=76281980&t=312)** We'll set up the ports.
 >
-> **[5:14](https://www.linkedin.com/learning/database-foundations-intro-to-databases/database-server-containers-22830995?u=76281980&t=314)** Postgres by default uses port 5432, so that's the port inside of the container.
+> **[5:14](https://www.linkedin.com/learning/database-foundations-intro-to-databases/database-server-containers-22830995?u=76281980&t=314)** [[PostgreSQL|Postgres]] by default uses port 5432, so that's the port inside of the container.
 >
 > **[5:19](https://www.linkedin.com/learning/database-foundations-intro-to-databases/database-server-containers-22830995?u=76281980&t=319)** And outside of the container, we'll communicate on port 5401.
 >
@@ -975,7 +963,7 @@ created: 2026-05-02
 >
 > **[5:43](https://www.linkedin.com/learning/database-foundations-intro-to-databases/database-server-containers-22830995?u=76281980&t=343)** Let's go ahead and set everything up.
 >
-> **[5:44](https://www.linkedin.com/learning/database-foundations-intro-to-databases/database-server-containers-22830995?u=76281980&t=344)** I'm going to scroll up here and I'll grab the command for the Windows PC to set up Microsoft SQL Server and I'll just copy that to my clipboard.
+> **[5:44](https://www.linkedin.com/learning/database-foundations-intro-to-databases/database-server-containers-22830995?u=76281980&t=344)** I'm going to scroll up here and I'll grab the command for the Windows PC to set up [[Microsoft SQL Server]] and I'll just copy that to my clipboard.
 >
 > **[5:52](https://www.linkedin.com/learning/database-foundations-intro-to-databases/database-server-containers-22830995?u=76281980&t=352)** Then I'll start up a command prompt.
 >
@@ -1015,7 +1003,7 @@ created: 2026-05-02
 >
 > **[6:59](https://www.linkedin.com/learning/database-foundations-intro-to-databases/database-server-containers-22830995?u=76281980&t=419)** Over on the right, we have action options for stopping the container and restarting it.
 >
-> **[7:03](https://www.linkedin.com/learning/database-foundations-intro-to-databases/database-server-containers-22830995?u=76281980&t=423)** And we can also delete the container if we want to when we no longer want the databases that they contain.
+> **[7:03](https://www.linkedin.com/learning/database-foundations-intro-to-databases/database-server-containers-22830995?u=76281980&t=423)** And we can also delete the container if we want to when we no longer want the [[Databases]] that they contain.
 >
 > **[7:10](https://www.linkedin.com/learning/database-foundations-intro-to-databases/database-server-containers-22830995?u=76281980&t=430)** You can also perform these same management tasks on the terminal or the command line and I've made notes about the specific commands in the Docker_Containers.txt file if you want to see how those would work.
 >
@@ -1027,7 +1015,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (14), [[PostgreSQL|Postgres]] (7), database (6), prompt (5), management (4)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (14), [[PostgreSQL|Postgres]] (7), [[PostgreSQL]] (4), [[Database Management]] (3), [[Windows]] (3)
 > **CLI Commands:** docker (12), make (3), find (3)
 > **Env Vars:** sql (15)
 > **Tools:** command prompt (5), terminal (3), powershell (1), docker desktop (1), command line (1)
@@ -1036,8 +1024,7 @@ created: 2026-05-02
 > **Definitions:** is a  (3), means that (1)
 > **File Paths:** docker_containers.txt (2)
 
-#### Local installation alternatives to Docker
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/local-installation-alternatives-to-docker?u=76281980)
+#### [Local installation alternatives to Docker](https://www.linkedin.com/learning/database-foundations-intro-to-databases/local-installation-alternatives-to-docker?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1053,9 +1040,9 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/database-foundations-intro-to-databases/local-installation-alternatives-to-docker?u=76281980&t=31)** Now, with that said, I know that a containerized workflow is not for everyone.
 >
-> **[0:35](https://www.linkedin.com/learning/database-foundations-intro-to-databases/local-installation-alternatives-to-docker?u=76281980&t=35)** Docker does have some hardware and operating system requirements that not everyone's computer will satisfy or maybe you just feel more comfortable working with traditionally installed software instead.
+> **[0:35](https://www.linkedin.com/learning/database-foundations-intro-to-databases/local-installation-alternatives-to-docker?u=76281980&t=35)** Docker does have some [[Hardware]] and operating system requirements that not everyone's computer will satisfy or maybe you just feel more comfortable working with traditionally installed software instead.
 >
-> **[0:48](https://www.linkedin.com/learning/database-foundations-intro-to-databases/local-installation-alternatives-to-docker?u=76281980&t=48)** If that's the case, then here's a quick overview of some alternatives for working with SQL Server and PostgreSQL on your local computer.
+> **[0:48](https://www.linkedin.com/learning/database-foundations-intro-to-databases/local-installation-alternatives-to-docker?u=76281980&t=48)** If that's the case, then here's a quick overview of some alternatives for working with [[Microsoft SQL Server|SQL Server]] and [[PostgreSQL]] on your local computer.
 >
 > **[0:56](https://www.linkedin.com/learning/database-foundations-intro-to-databases/local-installation-alternatives-to-docker?u=76281980&t=56)** We'll start with SQL Server at this URL.
 >
@@ -1063,7 +1050,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/database-foundations-intro-to-databases/local-installation-alternatives-to-docker?u=76281980&t=61)** This gives you a couple of other options for running the SQL Server database engine.
 >
-> **[1:06](https://www.linkedin.com/learning/database-foundations-intro-to-databases/local-installation-alternatives-to-docker?u=76281980&t=66)** The first option here, SQL Server on Azure, will allow you to install the database engine on Microsoft's cloud hosted servers.
+> **[1:06](https://www.linkedin.com/learning/database-foundations-intro-to-databases/local-installation-alternatives-to-docker?u=76281980&t=66)** The first option here, SQL Server on [[Microsoft Azure|Azure]], will allow you to install the database engine on [[Microsoft]]'s cloud hosted servers.
 >
 > **[1:15](https://www.linkedin.com/learning/database-foundations-intro-to-databases/local-installation-alternatives-to-docker?u=76281980&t=75)** You would then log in and do everything remotely using your web browser and the actual computing resources are all handled by Microsoft.
 >
@@ -1085,7 +1072,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/database-foundations-intro-to-databases/local-installation-alternatives-to-docker?u=76281980&t=136)** If this is a path that you'd like to investigate, take a look at my SQL Server 2022 Essential Training course where I have videos that walk through the full installation procedure.
 >
-> **[2:27](https://www.linkedin.com/learning/database-foundations-intro-to-databases/local-installation-alternatives-to-docker?u=76281980&t=147)** Likewise, if you want to install Postgres locally rather than work with it in a container, you have that option as well.
+> **[2:27](https://www.linkedin.com/learning/database-foundations-intro-to-databases/local-installation-alternatives-to-docker?u=76281980&t=147)** Likewise, if you want to install [[PostgreSQL|Postgres]] locally rather than work with it in a container, you have that option as well.
 >
 > **[2:34](https://www.linkedin.com/learning/database-foundations-intro-to-databases/local-installation-alternatives-to-docker?u=76281980&t=154)** Head over to [postgresql.org](https://postgresql.org), click on the download button, then choose your platform.
 >
@@ -1101,7 +1088,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), [[Microsoft SQL Server|Sql server]] (7), [[PostgreSQL]] (3), [[Microsoft Azure|Azure]] (2), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (7), [[PostgreSQL]] (3), [[Microsoft Azure|Azure]] (2), [[Microsoft]] (2), [[PostgreSQL|Postgres]] (2)
 > **Env Vars:** sql (7), url (1)
 > **Prerequisites:** install (4), setup (1)
 > **CLI Commands:** docker (3), make (1)
@@ -1110,8 +1097,7 @@ created: 2026-05-02
 > **URLs:** [postgresql.org](https://postgresql.org) (1)
 > **Exercise Files:** download the (1)
 
-#### RDBMS command-line interfaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/rdbms-command-line-interfaces?u=76281980)
+#### [RDBMS command-line interfaces](https://www.linkedin.com/learning/database-foundations-intro-to-databases/rdbms-command-line-interfaces?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1125,7 +1111,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/database-foundations-intro-to-databases/rdbms-command-line-interfaces?u=76281980&t=27)** I want to run through a quick example of how to use them, before we get into working in a more traditional graphical interface.
 >
-> **[0:34](https://www.linkedin.com/learning/database-foundations-intro-to-databases/rdbms-command-line-interfaces?u=76281980&t=34)** If I type in Docker ps, it'll show me that I currently have two servers running, one called PostgreSQL and the other one called SQL Server 2019.
+> **[0:34](https://www.linkedin.com/learning/database-foundations-intro-to-databases/rdbms-command-line-interfaces?u=76281980&t=34)** If I type in Docker ps, it'll show me that I currently have two servers running, one called [[PostgreSQL]] and the other one called [[Microsoft SQL Server|SQL Server]] 2019.
 >
 > **[0:43](https://www.linkedin.com/learning/database-foundations-intro-to-databases/rdbms-command-line-interfaces?u=76281980&t=43)** I can tell that they're running by verifying the status here and they're both listed as up.
 >
@@ -1137,7 +1123,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/database-foundations-intro-to-databases/rdbms-command-line-interfaces?u=76281980&t=65)** I actually have it hidden here on my screen right behind this window.
 >
-> **[1:08](https://www.linkedin.com/learning/database-foundations-intro-to-databases/rdbms-command-line-interfaces?u=76281980&t=68)** I'm going to rearrange things a little bit, so that I can see both the text file as well as my PowerShell window at the same time.
+> **[1:08](https://www.linkedin.com/learning/database-foundations-intro-to-databases/rdbms-command-line-interfaces?u=76281980&t=68)** I'm going to rearrange things a little bit, so that I can see both the text file as well as my [[Powershell]] window at the same time.
 >
 > **[1:14](https://www.linkedin.com/learning/database-foundations-intro-to-databases/rdbms-command-line-interfaces?u=76281980&t=74)** This will help you follow along with the commands that I'm about to execute.
 >
@@ -1149,7 +1135,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/database-foundations-intro-to-databases/rdbms-command-line-interfaces?u=76281980&t=101)** And then finally we want to use the bash shell.
 >
-> **[1:44](https://www.linkedin.com/learning/database-foundations-intro-to-databases/rdbms-command-line-interfaces?u=76281980&t=104)** Each of these containers contains a lightweight version of Linux, that's providing the operating system for the database server inside of the container.
+> **[1:44](https://www.linkedin.com/learning/database-foundations-intro-to-databases/rdbms-command-line-interfaces?u=76281980&t=104)** Each of these containers contains a lightweight version of [[Linux]], that's providing the operating system for the database server inside of the container.
 >
 > **[1:52](https://www.linkedin.com/learning/database-foundations-intro-to-databases/rdbms-command-line-interfaces?u=76281980&t=112)** In order to work with it we just need to specify which shell that we want to use inside of that container.
 >
@@ -1169,7 +1155,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/database-foundations-intro-to-databases/rdbms-command-line-interfaces?u=76281980&t=155)** So now that we're inside of the container, we can log into the server that's also running in the container.
 >
-> **[2:40](https://www.linkedin.com/learning/database-foundations-intro-to-databases/rdbms-command-line-interfaces?u=76281980&t=160)** SQL Server it uses a command line tool called SQL CMD or SQL command.
+> **[2:40](https://www.linkedin.com/learning/database-foundations-intro-to-databases/rdbms-command-line-interfaces?u=76281980&t=160)** SQL Server it uses a command line tool called [[SQL]] CMD or SQL command.
 >
 > **[2:47](https://www.linkedin.com/learning/database-foundations-intro-to-databases/rdbms-command-line-interfaces?u=76281980&t=167)** It's in the folder, opt slash MSSQL dash tools slash bin.
 >
@@ -1201,7 +1187,7 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/database-foundations-intro-to-databases/rdbms-command-line-interfaces?u=76281980&t=236)** And it's the developer edition running on Linux.
 >
-> **[4:00](https://www.linkedin.com/learning/database-foundations-intro-to-databases/rdbms-command-line-interfaces?u=76281980&t=240)** I can list out the databases that are currently on the server with select name from sys dot databases.
+> **[4:00](https://www.linkedin.com/learning/database-foundations-intro-to-databases/rdbms-command-line-interfaces?u=76281980&t=240)** I can list out the [[Databases]] that are currently on the server with select name from sys dot databases.
 >
 > **[4:09](https://www.linkedin.com/learning/database-foundations-intro-to-databases/rdbms-command-line-interfaces?u=76281980&t=249)** Opera center that moves me down to line number two and I'll type in go, and here is a list of the databases that currently exist on my SQL Server instance.
 >
@@ -1219,15 +1205,15 @@ created: 2026-05-02
 >
 > **[4:48](https://www.linkedin.com/learning/database-foundations-intro-to-databases/rdbms-command-line-interfaces?u=76281980&t=288)** Once again we can select name from sys dot databases and here I'll see I have master temp DB model, MSTB and my new test database.
 >
-> **[5:01](https://www.linkedin.com/learning/database-foundations-intro-to-databases/rdbms-command-line-interfaces?u=76281980&t=301)** When you're done working in SQL Server, you can issue the command exit, that'll take you out of the SQL Server instance and return you back into the Ubuntu Linux container.
+> **[5:01](https://www.linkedin.com/learning/database-foundations-intro-to-databases/rdbms-command-line-interfaces?u=76281980&t=301)** When you're done working in SQL Server, you can issue the command exit, that'll take you out of the SQL Server instance and return you back into the [[Ubuntu]] Linux container.
 >
-> **[5:10](https://www.linkedin.com/learning/database-foundations-intro-to-databases/rdbms-command-line-interfaces?u=76281980&t=310)** In order to get out of this, we'll type exit again and that returns me back into my Windows system.
+> **[5:10](https://www.linkedin.com/learning/database-foundations-intro-to-databases/rdbms-command-line-interfaces?u=76281980&t=310)** In order to get out of this, we'll type exit again and that returns me back into my [[Windows]] system.
 >
 > **[5:16](https://www.linkedin.com/learning/database-foundations-intro-to-databases/rdbms-command-line-interfaces?u=76281980&t=316)** You'll notice that my command prompt is returned back to my C drive and I'll issue the command clear here, just to clear out the screen and move it back up to the top.
 >
 > **[5:24](https://www.linkedin.com/learning/database-foundations-intro-to-databases/rdbms-command-line-interfaces?u=76281980&t=324)** And that's how you can work with the SQL Server command line tool.
 >
-> **[5:27](https://www.linkedin.com/learning/database-foundations-intro-to-databases/rdbms-command-line-interfaces?u=76281980&t=327)** Let's do the same thing real quick with the Postgres server.
+> **[5:27](https://www.linkedin.com/learning/database-foundations-intro-to-databases/rdbms-command-line-interfaces?u=76281980&t=327)** Let's do the same thing real quick with the [[PostgreSQL|Postgres]] server.
 >
 > **[5:30](https://www.linkedin.com/learning/database-foundations-intro-to-databases/rdbms-command-line-interfaces?u=76281980&t=330)** Scroll down here on my text file, and we'll take a look at these lines.
 >
@@ -1249,7 +1235,7 @@ created: 2026-05-02
 >
 > **[6:26](https://www.linkedin.com/learning/database-foundations-intro-to-databases/rdbms-command-line-interfaces?u=76281980&t=386)** I'll do that and it moves me into the Postgres server.
 >
-> **[6:29](https://www.linkedin.com/learning/database-foundations-intro-to-databases/rdbms-command-line-interfaces?u=76281980&t=389)** Now I could use some help information by typing in the word "help."
+> **[6:29](https://www.linkedin.com/learning/database-foundations-intro-to-databases/rdbms-command-line-interfaces?u=76281980&t=389)** Now I could use some help information by typing in the [[Microsoft Word|word]] "help."
 >
 > **[6:33](https://www.linkedin.com/learning/database-foundations-intro-to-databases/rdbms-command-line-interfaces?u=76281980&t=393)** Here are some simple commands that I can run using the PSQL tool.
 >
@@ -1283,7 +1269,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (17), [[Microsoft SQL Server|Sql server]] (15), [[Databases]] (12), [[PostgreSQL|Postgres]] (8), [[Linux]] (7)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (15), [[Databases]] (12), [[PostgreSQL|Postgres]] (8), [[Linux]] (7), [[SQL]] (4)
 > **Env Vars:** sql (19), psql (4), cmd (2), excc (1), mssql (1)
 > **Tools:** command line (9), command prompt (5), bash (3), terminal (1), powershell (1)
 > **CLI Commands:** docker (9), psql (4), cat (2)
@@ -1292,8 +1278,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1), template (1)
 > **Definitions:** is a  (2)
 
-#### Challenge: Create a server container
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/challenge-create-a-server-container?u=76281980)
+#### [Challenge: Create a server container](https://www.linkedin.com/learning/database-foundations-intro-to-databases/challenge-create-a-server-container?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1301,7 +1286,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/database-foundations-intro-to-databases/challenge-create-a-server-container?u=76281980&t=14)** Because of this i want to make this process the subject of your first challenge.
 >
-> **[0:19](https://www.linkedin.com/learning/database-foundations-intro-to-databases/challenge-create-a-server-container?u=76281980&t=19)** Your goal is to create a new RDBMS container for either SQL server or PostgreSQL.
+> **[0:19](https://www.linkedin.com/learning/database-foundations-intro-to-databases/challenge-create-a-server-container?u=76281980&t=19)** Your goal is to create a new RDBMS container for either [[Microsoft SQL Server|SQL server]] or [[PostgreSQL]].
 >
 > **[0:26](https://www.linkedin.com/learning/database-foundations-intro-to-databases/challenge-create-a-server-container?u=76281980&t=26)** There are a couple of things to keep in mind if you've been following along.
 >
@@ -1327,7 +1312,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), [[Microsoft SQL Server|Sql server]] (1), [[PostgreSQL]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (1), [[PostgreSQL]] (1)
 > **CLI Commands:** docker (3), make (1)
 > **Env Vars:** rdbms (2), sql (1)
 > **Warnings:** keep in mind (2)
@@ -1335,8 +1320,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Create a server container
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-server-container?u=76281980)
+#### [Solution: Create a server container](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-server-container?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1352,9 +1336,9 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-server-container?u=76281980&t=21)** "Docker desktop is running."
 >
-> **[0:22](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-server-container?u=76281980&t=22)** So now I can open up my PowerShell window.
+> **[0:22](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-server-container?u=76281980&t=22)** So now I can open up my [[Powershell]] window.
 >
-> **[0:26](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-server-container?u=76281980&t=26)** And again, if you're on a Mac or a Linux computer, you'd use the terminal application for this.
+> **[0:26](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-server-container?u=76281980&t=26)** And again, if you're on a Mac or a [[Linux]] computer, you'd use the terminal application for this.
 >
 > **[0:31](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-server-container?u=76281980&t=31)** And I'm going to quickly take a look at my Docker containers just to see what's here currently.
 >
@@ -1372,7 +1356,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-server-container?u=76281980&t=53)** The other thing I need to verify are the communication ports that we've set up on our existing servers.
 >
-> **[0:58](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-server-container?u=76281980&t=58)** And I can see here that PostgresSQL is using 5401, and SQL server is using 1401.
+> **[0:58](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-server-container?u=76281980&t=58)** And I can see here that PostgresSQL is using 5401, and [[Microsoft SQL Server|SQL server]] is using 1401.
 >
 > **[1:06](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-server-container?u=76281980&t=66)** Now, inside of the container we're using different port numbers.
 >
@@ -1404,7 +1388,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-server-container?u=76281980&t=143)** That's a long name, but that'll work for us there.
 >
-> **[2:26](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-server-container?u=76281980&t=146)** Then the next flag that we need is a dash E, and inside of quotation marks, and on Windows I have to use double quotation marks, and on Mac and Linux you would use single quotation marks here.
+> **[2:26](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-server-container?u=76281980&t=146)** Then the next flag that we need is a dash E, and inside of quotation marks, and on [[Windows]] I have to use double quotation marks, and on Mac and Linux you would use single quotation marks here.
 >
 > **[2:37](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-server-container?u=76281980&t=157)** We need to accept the end user license agreement, or EULA.
 >
@@ -1436,7 +1420,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-server-container?u=76281980&t=218)** So for SQLserver, I'm just going to pick 1420, and we'll send that into the container on 1433, which is SQLserver's default port.
 >
-> **[3:47](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-server-container?u=76281980&t=227)** So we'll send that in, and then finally we specify dash D and the path to the image that we're going to be pulling from, and for SQLserver that comes from mcr.[microsoft.com](https://microsoft.com), forward slash MSSQL, forward slash server, and then a tag after a colon to indicate which version of the server you want.
+> **[3:47](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-server-container?u=76281980&t=227)** So we'll send that in, and then finally we specify dash D and the path to the image that we're going to be pulling from, and for SQLserver that comes from mcr.[[[Microsoft]].com](https://microsoft.com), forward slash MSSQL, forward slash server, and then a tag after a colon to indicate which version of the server you want.
 >
 > **[4:09](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-server-container?u=76281980&t=249)** And we've been working with 2019 dash latest.
 >
@@ -1504,7 +1488,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), database (2), [[Linux]] (2), [[Powershell]] (1), application (1)
+> **Frameworks & Libraries:** [[Linux]] (2), [[Powershell]] (1), [[Microsoft SQL Server|Sql server]] (1), [[Windows]] (1), [[Microsoft]] (1)
 > **CLI Commands:** docker (18), make (5), rm (2)
 > **Env Vars:** eula (2), sql (1), mssql (1), txt (1)
 > **Tools:** docker desktop (1), powershell (1), terminal (1), command line (1)
@@ -1518,16 +1502,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Management interfaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/management-interfaces?u=76281980)
+#### [Management interfaces](https://www.linkedin.com/learning/database-foundations-intro-to-databases/management-interfaces?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-intro-to-databases/management-interfaces?u=76281980&t=0)** - [Instructor] Our two database servers are currently running, isolated from one another and the rest of our computer inside of their respective docker containers.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-intro-to-databases/management-interfaces?u=76281980&t=0)** - [Instructor] Our two database servers are currently running, isolated from one another and the [[Representational State Transfer (REST)|rest]] of our computer inside of their respective docker containers.
 >
-> **[0:09](https://www.linkedin.com/learning/database-foundations-intro-to-databases/management-interfaces?u=76281980&t=9)** And while we can use the command line tools that they ship with inside of the container, it's easier to use a graphical interface client, they can work with both the SQL server and PostgreSQL platforms simultaneously.
+> **[0:09](https://www.linkedin.com/learning/database-foundations-intro-to-databases/management-interfaces?u=76281980&t=9)** And while we can use the command line tools that they ship with inside of the container, it's easier to use a graphical interface client, they can work with both the [[Microsoft SQL Server|SQL server]] and [[PostgreSQL]] platforms simultaneously.
 >
-> **[0:22](https://www.linkedin.com/learning/database-foundations-intro-to-databases/management-interfaces?u=76281980&t=22)** This way we can log into each server from outside of the container, exactly the same way that we would log into a traditional database server, that was running on standalone hardware on our organization's network.
+> **[0:22](https://www.linkedin.com/learning/database-foundations-intro-to-databases/management-interfaces?u=76281980&t=22)** This way we can log into each server from outside of the container, exactly the same way that we would log into a traditional database server, that was running on standalone [[Hardware]] on our organization's network.
 >
 > **[0:34](https://www.linkedin.com/learning/database-foundations-intro-to-databases/management-interfaces?u=76281980&t=34)** The Docker containers allow us to simulate a much more complex multi-server environment.
 >
@@ -1541,11 +1524,11 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/database-foundations-intro-to-databases/management-interfaces?u=76281980&t=66)** First up is SQL Server Management Studio.
 >
-> **[1:09](https://www.linkedin.com/learning/database-foundations-intro-to-databases/management-interfaces?u=76281980&t=69)** This client is from Microsoft and it's specifically created for SQL server.
+> **[1:09](https://www.linkedin.com/learning/database-foundations-intro-to-databases/management-interfaces?u=76281980&t=69)** This client is from [[Microsoft]] and it's specifically created for SQL server.
 >
-> **[1:14](https://www.linkedin.com/learning/database-foundations-intro-to-databases/management-interfaces?u=76281980&t=74)** It only runs on windows though.
+> **[1:14](https://www.linkedin.com/learning/database-foundations-intro-to-databases/management-interfaces?u=76281980&t=74)** It only runs on [[Windows]] though.
 >
-> **[1:15](https://www.linkedin.com/learning/database-foundations-intro-to-databases/management-interfaces?u=76281980&t=75)** So there's no version for Mac iOS or Linux.
+> **[1:15](https://www.linkedin.com/learning/database-foundations-intro-to-databases/management-interfaces?u=76281980&t=75)** So there's no version for Mac iOS or [[Linux]].
 >
 > **[1:18](https://www.linkedin.com/learning/database-foundations-intro-to-databases/management-interfaces?u=76281980&t=78)** If I scroll down on this page, you can see a sample screenshot of what the interface looks like.
 >
@@ -1561,7 +1544,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/database-foundations-intro-to-databases/management-interfaces?u=76281980&t=116)** If you look at this interface screenshot, you'll see that there's a tree structure on the left-hand side that allows you to navigate the servers contents, and then a large workspace on the right.
 >
-> **[2:06](https://www.linkedin.com/learning/database-foundations-intro-to-databases/management-interfaces?u=76281980&t=126)** This screenshot of the interface is showing some statistics about server activity, which is something that's useful when you're evaluating the performance of your server.
+> **[2:06](https://www.linkedin.com/learning/database-foundations-intro-to-databases/management-interfaces?u=76281980&t=126)** This screenshot of the interface is showing some [[Statistics]] about server activity, which is something that's useful when you're evaluating the performance of your server.
 >
 > **[2:15](https://www.linkedin.com/learning/database-foundations-intro-to-databases/management-interfaces?u=76281980&t=135)** Let's look at another client option, this time, DBeaver.
 >
@@ -1569,7 +1552,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/database-foundations-intro-to-databases/management-interfaces?u=76281980&t=145)** Now the screenshots of the interface on this page are pretty small, but you can kind of see it, that there is a tree structure on the left and then a large workspace on the right.
 >
-> **[2:34](https://www.linkedin.com/learning/database-foundations-intro-to-databases/management-interfaces?u=76281980&t=154)** So I hope you're seeing a pattern here, almost all graphical front end clients for relational databases, follow the same general layout, a navigation tree on the left, a large workspace on the right.
+> **[2:34](https://www.linkedin.com/learning/database-foundations-intro-to-databases/management-interfaces?u=76281980&t=154)** So I hope you're seeing a pattern here, almost all graphical front end clients for [[Relational Databases]], follow the same general layout, a navigation tree on the left, a large workspace on the right.
 >
 > **[2:46](https://www.linkedin.com/learning/database-foundations-intro-to-databases/management-interfaces?u=76281980&t=166)** Once you've gotten to know one client, you'll be able to try out another, without having to start at square one again, since the major components of the interface, will be familiar.
 >
@@ -1577,13 +1560,13 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/database-foundations-intro-to-databases/management-interfaces?u=76281980&t=183)** Some clients provide more wizards that guide you through the options and allow you to navigate with your mouse.
 >
-> **[3:09](https://www.linkedin.com/learning/database-foundations-intro-to-databases/management-interfaces?u=76281980&t=189)** Others might be aimed at programmers and provide automatic code completion, syntax highlighting, and version control integration.
+> **[3:09](https://www.linkedin.com/learning/database-foundations-intro-to-databases/management-interfaces?u=76281980&t=189)** Others might be aimed at programmers and provide automatic code completion, syntax highlighting, and [[Version Control]] integration.
 >
 > **[3:17](https://www.linkedin.com/learning/database-foundations-intro-to-databases/management-interfaces?u=76281980&t=197)** There's a lot of variety out there, and I encourage you to explore the options and find the application that's best fit for your style of working.
 >
-> **[3:25](https://www.linkedin.com/learning/database-foundations-intro-to-databases/management-interfaces?u=76281980&t=205)** With all of that said, the graphical interface that I really like is called Azure Data Studio.
+> **[3:25](https://www.linkedin.com/learning/database-foundations-intro-to-databases/management-interfaces?u=76281980&t=205)** With all of that said, the graphical interface that I really like is called [[Microsoft Azure|Azure]] Data Studio.
 >
-> **[3:32](https://www.linkedin.com/learning/database-foundations-intro-to-databases/management-interfaces?u=76281980&t=212)** It's a cross platform interface that works with SQL server and Postgres database servers, so we can hook it right into our two Docker containers.
+> **[3:32](https://www.linkedin.com/learning/database-foundations-intro-to-databases/management-interfaces?u=76281980&t=212)** It's a cross platform interface that works with SQL server and [[PostgreSQL|Postgres]] database servers, so we can hook it right into our two Docker containers.
 >
 > **[3:41](https://www.linkedin.com/learning/database-foundations-intro-to-databases/management-interfaces?u=76281980&t=221)** You can read through some of the documentation about the software at this URL.
 >
@@ -1591,7 +1574,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), [[Microsoft SQL Server|Sql server]] (4), data (4), [[PostgreSQL]] (2), application (2)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), [[PostgreSQL]] (2), [[Microsoft Azure|Azure]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Hardware]] (1)
 > **Env Vars:** sql (4), rdbms (2), url (1)
 > **CLI Commands:** docker (3), make (1), find (1)
 > **Definitions:** is a  (3), is called (2)
@@ -1600,16 +1583,15 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Tools:** command line (1)
 
-#### Install Azure Data Studio
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/install-azure-data-studio?u=76281980)
+#### [Install Azure Data Studio](https://www.linkedin.com/learning/database-foundations-intro-to-databases/install-azure-data-studio?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-intro-to-databases/install-azure-data-studio?u=76281980&t=0)** - [Instructor] We're going to install Azure Data Studio as the graphical user interface client or Gooey, that'll help us manage our RDBMS servers.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-intro-to-databases/install-azure-data-studio?u=76281980&t=0)** - [Instructor] We're going to install [[Microsoft Azure|Azure]] Data Studio as the graphical user interface client or Gooey, that'll help us manage our RDBMS servers.
 >
-> **[0:10](https://www.linkedin.com/learning/database-foundations-intro-to-databases/install-azure-data-studio?u=76281980&t=10)** Some of the features that I find attractive about this particular tool include it's SQL code editor.
+> **[0:10](https://www.linkedin.com/learning/database-foundations-intro-to-databases/install-azure-data-studio?u=76281980&t=10)** Some of the features that I find attractive about this particular tool include it's [[SQL]] code editor.
 >
-> **[0:16](https://www.linkedin.com/learning/database-foundations-intro-to-databases/install-azure-data-studio?u=76281980&t=16)** A lot of database management involves writing out instructions like we saw when using the command line tool.
+> **[0:16](https://www.linkedin.com/learning/database-foundations-intro-to-databases/install-azure-data-studio?u=76281980&t=16)** A lot of [[Database Management]] involves writing out instructions like we saw when using the command line tool.
 >
 > **[0:22](https://www.linkedin.com/learning/database-foundations-intro-to-databases/install-azure-data-studio?u=76281980&t=22)** And the code editor that Azure data studio includes has some nice features that help me write and troubleshoot these commands.
 >
@@ -1621,13 +1603,13 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/database-foundations-intro-to-databases/install-azure-data-studio?u=76281980&t=55)** Let's head back up to the top of the page and click on the download link, and I'll show you my last favorite feature.
 >
-> **[1:01](https://www.linkedin.com/learning/database-foundations-intro-to-databases/install-azure-data-studio?u=76281980&t=61)** Azure Data Studio is a cross-platform application which means that it can be run on Windows, macOS, and Linux.
+> **[1:01](https://www.linkedin.com/learning/database-foundations-intro-to-databases/install-azure-data-studio?u=76281980&t=61)** Azure Data Studio is a cross-platform application which means that it can be run on [[Windows]], macOS, and [[Linux]].
 >
 > **[1:09](https://www.linkedin.com/learning/database-foundations-intro-to-databases/install-azure-data-studio?u=76281980&t=69)** I actually spend most of my time working on a Mac computer.
 >
 > **[1:13](https://www.linkedin.com/learning/database-foundations-intro-to-databases/install-azure-data-studio?u=76281980&t=73)** So having the same software available on both windows and macOS, makes it much easier to switch between the two operating systems.
 >
-> **[1:22](https://www.linkedin.com/learning/database-foundations-intro-to-databases/install-azure-data-studio?u=76281980&t=82)** For Linux users, there's a separate installer depending on whether you're running Debian, Redhat or the Ubuntu distributions.
+> **[1:22](https://www.linkedin.com/learning/database-foundations-intro-to-databases/install-azure-data-studio?u=76281980&t=82)** For Linux users, there's a separate installer depending on whether you're running Debian, Redhat or the [[Ubuntu]] distributions.
 >
 > **[1:30](https://www.linkedin.com/learning/database-foundations-intro-to-databases/install-azure-data-studio?u=76281980&t=90)** If you scroll down on this page, you'll find some specific instructions for Linux users.
 >
@@ -1685,7 +1667,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/database-foundations-intro-to-databases/install-azure-data-studio?u=76281980&t=225)** Now I want to make a couple of quick changes to this interface before we move on.
 >
-> **[3:49](https://www.linkedin.com/learning/database-foundations-intro-to-databases/install-azure-data-studio?u=76281980&t=229)** First, I'm going to enlarge the icons on the screen by coming up here to the view menu, coming down to appearance, and then choosing zoom in.
+> **[3:49](https://www.linkedin.com/learning/database-foundations-intro-to-databases/install-azure-data-studio?u=76281980&t=229)** First, I'm going to enlarge the icons on the screen by coming up here to the view menu, coming down to appearance, and then choosing [[Zoom]] in.
 >
 > **[3:57](https://www.linkedin.com/learning/database-foundations-intro-to-databases/install-azure-data-studio?u=76281980&t=237)** I'm going to do this twice.
 >
@@ -1695,13 +1677,13 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/database-foundations-intro-to-databases/install-azure-data-studio?u=76281980&t=248)** These are four different database server connections that we're not going to be using.
 >
-> **[4:12](https://www.linkedin.com/learning/database-foundations-intro-to-databases/install-azure-data-studio?u=76281980&t=252)** To do that, come up here to the ellipsis button at the top, point of views and we'll turn off Azure, as well as SQL Server, Big Data Clusters.
+> **[4:12](https://www.linkedin.com/learning/database-foundations-intro-to-databases/install-azure-data-studio?u=76281980&t=252)** To do that, come up here to the ellipsis button at the top, point of views and we'll turn off Azure, as well as [[Microsoft SQL Server|SQL Server]], [[Big Data]] Clusters.
 >
 > **[4:21](https://www.linkedin.com/learning/database-foundations-intro-to-databases/install-azure-data-studio?u=76281980&t=261)** That'll simplify our interface a little bit.
 >
 > **[4:24](https://www.linkedin.com/learning/database-foundations-intro-to-databases/install-azure-data-studio?u=76281980&t=264)** Finally, I need to make a change to our font sizes that are being used.
 >
-> **[4:28](https://www.linkedin.com/learning/database-foundations-intro-to-databases/install-azure-data-studio?u=76281980&t=268)** For that, come up here to the file menu, then down to preferences and settings, then I'm going to search for settings that include the word font.
+> **[4:28](https://www.linkedin.com/learning/database-foundations-intro-to-databases/install-azure-data-studio?u=76281980&t=268)** For that, come up here to the file menu, then down to preferences and settings, then I'm going to search for settings that include the [[Microsoft Word|word]] font.
 >
 > **[4:38](https://www.linkedin.com/learning/database-foundations-intro-to-databases/install-azure-data-studio?u=76281980&t=278)** I'm going to change the editor font size up to 16 points.
 >
@@ -1713,7 +1695,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), data (7), database (5), [[Windows]] (3), [[Linux]] (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Windows]] (3), [[Linux]] (3), [[SQL]] (1), [[Database Management]] (1)
 > **CLI Commands:** make (5), find (4), docker (1), unzip (1)
 > **UI Navigation:** click on (3), scroll down (3), switch to (1)
 > **Env Vars:** sql (2), rdbms (1)
@@ -1722,8 +1704,7 @@ created: 2026-05-02
 > **Tools:** command line (1), terminal (1)
 > **Prerequisites:** install (2)
 
-#### Connect to a database server
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/connect-to-a-database-server?u=76281980)
+#### [Connect to a database server](https://www.linkedin.com/learning/database-foundations-intro-to-databases/connect-to-a-database-server?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1735,13 +1716,13 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/database-foundations-intro-to-databases/connect-to-a-database-server?u=76281980&t=17)** For that, we can review our Docker containers.
 >
-> **[0:20](https://www.linkedin.com/learning/database-foundations-intro-to-databases/connect-to-a-database-server?u=76281980&t=20)** Now, rather than going back into PowerShell though, we can use the integrated terminal window here in Azure Data Studio.
+> **[0:20](https://www.linkedin.com/learning/database-foundations-intro-to-databases/connect-to-a-database-server?u=76281980&t=20)** Now, rather than going back into [[Powershell]] though, we can use the integrated terminal window here in [[Microsoft Azure|Azure]] Data Studio.
 >
 > **[0:27](https://www.linkedin.com/learning/database-foundations-intro-to-databases/connect-to-a-database-server?u=76281980&t=27)** To open it, come up to the View menu, and come down to Terminal.
 >
 > **[0:31](https://www.linkedin.com/learning/database-foundations-intro-to-databases/connect-to-a-database-server?u=76281980&t=31)** If you use this feature a lot, you'll notice it has a shortcut key.
 >
-> **[0:34](https://www.linkedin.com/learning/database-foundations-intro-to-databases/connect-to-a-database-server?u=76281980&t=34)** In Windows it's Ctrl + ', and on macOS and Linux it's Ctrl + `.
+> **[0:34](https://www.linkedin.com/learning/database-foundations-intro-to-databases/connect-to-a-database-server?u=76281980&t=34)** In [[Windows]] it's Ctrl + ', and on macOS and [[Linux]] it's Ctrl + `.
 >
 > **[0:41](https://www.linkedin.com/learning/database-foundations-intro-to-databases/connect-to-a-database-server?u=76281980&t=41)** I'll go ahead and click on that.
 >
@@ -1751,7 +1732,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/database-foundations-intro-to-databases/connect-to-a-database-server?u=76281980&t=49)** For instance, docker ps, that shows me my different containers and it's a little bit wide, so let me minimize the width here of the sidebar to fit everything on a single line.
 >
-> **[1:00](https://www.linkedin.com/learning/database-foundations-intro-to-databases/connect-to-a-database-server?u=76281980&t=60)** So here is my Postgres container, and here is my SQL Server container.
+> **[1:00](https://www.linkedin.com/learning/database-foundations-intro-to-databases/connect-to-a-database-server?u=76281980&t=60)** So here is my [[PostgreSQL|Postgres]] container, and here is my [[Microsoft SQL Server|SQL Server]] container.
 >
 > **[1:05](https://www.linkedin.com/learning/database-foundations-intro-to-databases/connect-to-a-database-server?u=76281980&t=65)** The information that we're after is listed underneath the ports column.
 >
@@ -1789,7 +1770,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/database-foundations-intro-to-databases/connect-to-a-database-server?u=76281980&t=160)** The username that SQL server uses is SA, which stands for system administrator.
 >
-> **[2:46](https://www.linkedin.com/learning/database-foundations-intro-to-databases/connect-to-a-database-server?u=76281980&t=166)** The PostgreSQL server's username is simply postgres.
+> **[2:46](https://www.linkedin.com/learning/database-foundations-intro-to-databases/connect-to-a-database-server?u=76281980&t=166)** The [[PostgreSQL]] server's username is simply postgres.
 >
 > **[2:51](https://www.linkedin.com/learning/database-foundations-intro-to-databases/connect-to-a-database-server?u=76281980&t=171)** Later on, you can create additional user accounts with more limited permissions so that people can log in to view data, for example, but they don't have the ability to delete the database.
 >
@@ -1803,13 +1784,13 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/database-foundations-intro-to-databases/connect-to-a-database-server?u=76281980&t=215)** That opens up this panel over here on the right.
 >
-> **[3:38](https://www.linkedin.com/learning/database-foundations-intro-to-databases/connect-to-a-database-server?u=76281980&t=218)** The first server we're going to connect to is the Microsoft SQL Server, so make sure you've selected that from the dropdown list.
+> **[3:38](https://www.linkedin.com/learning/database-foundations-intro-to-databases/connect-to-a-database-server?u=76281980&t=218)** The first server we're going to connect to is the [[Microsoft SQL Server]], so make sure you've selected that from the dropdown list.
 >
 > **[3:44](https://www.linkedin.com/learning/database-foundations-intro-to-databases/connect-to-a-database-server?u=76281980&t=224)** For the server, this is where you would type in the IP address.
 >
 > **[3:47](https://www.linkedin.com/learning/database-foundations-intro-to-databases/connect-to-a-database-server?u=76281980&t=227)** Now, since our containers are on our local machine, I'm going to use the keyword localhost.
 >
-> **[3:53](https://www.linkedin.com/learning/database-foundations-intro-to-databases/connect-to-a-database-server?u=76281980&t=233)** For the authentication type, we're going to choose SQL login.
+> **[3:53](https://www.linkedin.com/learning/database-foundations-intro-to-databases/connect-to-a-database-server?u=76281980&t=233)** For the authentication type, we're going to choose [[SQL]] login.
 >
 > **[3:57](https://www.linkedin.com/learning/database-foundations-intro-to-databases/connect-to-a-database-server?u=76281980&t=237)** The username for SQL Server is SA.
 >
@@ -1831,7 +1812,7 @@ created: 2026-05-02
 >
 > **[4:40](https://www.linkedin.com/learning/database-foundations-intro-to-databases/connect-to-a-database-server?u=76281980&t=280)** If everything worked, it should connect into our Docker container and show me the contents of the SQL Server database server.
 >
-> **[4:47](https://www.linkedin.com/learning/database-foundations-intro-to-databases/connect-to-a-database-server?u=76281980&t=287)** I can expand the different folders here, for instance, to view the different databases on the server, and we can see the database that we created using the command line interface earlier on in the course.
+> **[4:47](https://www.linkedin.com/learning/database-foundations-intro-to-databases/connect-to-a-database-server?u=76281980&t=287)** I can expand the different folders here, for instance, to view the different [[Databases]] on the server, and we can see the database that we created using the command line interface earlier on in the course.
 >
 > **[4:58](https://www.linkedin.com/learning/database-foundations-intro-to-databases/connect-to-a-database-server?u=76281980&t=298)** So now let's connect to our Postgres server as well.
 >
@@ -1841,7 +1822,7 @@ created: 2026-05-02
 >
 > **[5:13](https://www.linkedin.com/learning/database-foundations-intro-to-databases/connect-to-a-database-server?u=76281980&t=313)** In the Extension Marketplace, we're going to do a search for PostgreSQL.
 >
-> **[5:18](https://www.linkedin.com/learning/database-foundations-intro-to-databases/connect-to-a-database-server?u=76281980&t=318)** That'll show me the PostgreSQL extension that's published by Microsoft, and go ahead and click on the install button.
+> **[5:18](https://www.linkedin.com/learning/database-foundations-intro-to-databases/connect-to-a-database-server?u=76281980&t=318)** That'll show me the PostgreSQL extension that's published by [[Microsoft]], and go ahead and click on the install button.
 >
 > **[5:25](https://www.linkedin.com/learning/database-foundations-intro-to-databases/connect-to-a-database-server?u=76281980&t=325)** Once it's installed, we can switch back over to our server activity by clicking on the icon here at the top of the screen, and then click on this icon with the server and little plus to add in another new connection.
 >
@@ -1861,7 +1842,7 @@ created: 2026-05-02
 >
 > **[6:03](https://www.linkedin.com/learning/database-foundations-intro-to-databases/connect-to-a-database-server?u=76281980&t=363)** The port for this container was 5401, and I'll press enter to return back to the main connection screen, I'll press connect, and that should connect to our Postgres database server.
 >
-> **[6:13](https://www.linkedin.com/learning/database-foundations-intro-to-databases/connect-to-a-database-server?u=76281980&t=373)** Once again, I can expand the databases and see the test database that we created using the CLI tool.
+> **[6:13](https://www.linkedin.com/learning/database-foundations-intro-to-databases/connect-to-a-database-server?u=76281980&t=373)** Once again, I can expand the databases and see the test database that we created using the [[CLI]] tool.
 >
 > **[6:20](https://www.linkedin.com/learning/database-foundations-intro-to-databases/connect-to-a-database-server?u=76281980&t=380)** So now we're connected to both of these servers running in our Docker containers.
 >
@@ -1885,7 +1866,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), [[PostgreSQL|Postgres]] (7), [[Microsoft SQL Server|Sql server]] (7), [[PostgreSQL]] (6), data (3)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (7), [[Microsoft SQL Server|Sql server]] (7), [[PostgreSQL]] (6), [[Microsoft Azure|Azure]] (2), [[Databases]] (2)
 > **CLI Commands:** docker (11), make (4), find (2)
 > **Env Vars:** sql (9), cli (1)
 > **UI Navigation:** click on (4), dropdown (2), scroll down (1), double-click (1)
@@ -1894,8 +1875,7 @@ created: 2026-05-02
 > **Ports:** port 1401 (1), port 5401 (1)
 > **Definitions:** is a  (1), stands for (1)
 
-#### Explore the server’s contents
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/explore-the-server-s-contents?u=76281980)
+#### [Explore the server’s contents](https://www.linkedin.com/learning/database-foundations-intro-to-databases/explore-the-server-s-contents?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1903,7 +1883,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/database-foundations-intro-to-databases/explore-the-server-s-contents?u=76281980&t=8)** Now, I've gone ahead and closed any open tabs and the terminal window so that we can focus on this portion of the interface.
 >
-> **[0:15](https://www.linkedin.com/learning/database-foundations-intro-to-databases/explore-the-server-s-contents?u=76281980&t=15)** For SQL Server, we have three main folders: Databases, Security, and Server Objects.
+> **[0:15](https://www.linkedin.com/learning/database-foundations-intro-to-databases/explore-the-server-s-contents?u=76281980&t=15)** For [[Microsoft SQL Server|SQL Server]], we have three main folders: [[Databases]], Security, and Server Objects.
 >
 > **[0:22](https://www.linkedin.com/learning/database-foundations-intro-to-databases/explore-the-server-s-contents?u=76281980&t=22)** Databases is exactly that.
 >
@@ -1929,9 +1909,9 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/database-foundations-intro-to-databases/explore-the-server-s-contents?u=76281980&t=81)** So that's a number of things that live inside of a SQL Server database.
 >
-> **[1:25](https://www.linkedin.com/learning/database-foundations-intro-to-databases/explore-the-server-s-contents?u=76281980&t=85)** Let's collapse all of these folders and turn our attention to PostgreSQL.
+> **[1:25](https://www.linkedin.com/learning/database-foundations-intro-to-databases/explore-the-server-s-contents?u=76281980&t=85)** Let's collapse all of these folders and turn our attention to [[PostgreSQL]].
 >
-> **[1:30](https://www.linkedin.com/learning/database-foundations-intro-to-databases/explore-the-server-s-contents?u=76281980&t=90)** A database that's built on the Postgres SQL platform has some similarities and some differences from SQL Server.
+> **[1:30](https://www.linkedin.com/learning/database-foundations-intro-to-databases/explore-the-server-s-contents?u=76281980&t=90)** A database that's built on the [[PostgreSQL|Postgres]] [[SQL]] platform has some similarities and some differences from SQL Server.
 >
 > **[1:37](https://www.linkedin.com/learning/database-foundations-intro-to-databases/explore-the-server-s-contents?u=76281980&t=97)** Once again, there's a main Databases folder.
 >
@@ -1959,21 +1939,20 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/database-foundations-intro-to-databases/explore-the-server-s-contents?u=76281980&t=156)** And all of the objects that a server contains can be accessed through their different group folders.
 >
-> **[2:42](https://www.linkedin.com/learning/database-foundations-intro-to-databases/explore-the-server-s-contents?u=76281980&t=162)** For the rest of the course, we're going to focus in on an area where both platforms are nearly identical.
+> **[2:42](https://www.linkedin.com/learning/database-foundations-intro-to-databases/explore-the-server-s-contents?u=76281980&t=162)** For the [[Representational State Transfer (REST)|rest]] of the course, we're going to focus in on an area where both platforms are nearly identical.
 >
 > **[2:48](https://www.linkedin.com/learning/database-foundations-intro-to-databases/explore-the-server-s-contents?u=76281980&t=168)** And that's how they structure their data tables within each individual database.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), [[Databases]] (8), data (5), [[Microsoft SQL Server|Sql server]] (4), [[PostgreSQL|Postgres]] (4)
+> **Frameworks & Libraries:** [[Databases]] (8), [[Microsoft SQL Server|Sql server]] (4), [[PostgreSQL|Postgres]] (4), [[PostgreSQL]] (2), [[SQL]] (1)
 > **Env Vars:** sql (5), rdbms (1)
 > **CLI Commands:** find (2), make (1)
 > **Tools:** terminal (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a database
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/create-a-database?u=76281980)
+#### [Create a database](https://www.linkedin.com/learning/database-foundations-intro-to-databases/create-a-database?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1983,7 +1962,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/database-foundations-intro-to-databases/create-a-database?u=76281980&t=22)** The way that you communicate with an RBDMS server is through text commands written in Structured Query Language.
 >
-> **[0:30](https://www.linkedin.com/learning/database-foundations-intro-to-databases/create-a-database?u=76281980&t=30)** This language is what puts the SQL in SQL Server and PostgreSQL.
+> **[0:30](https://www.linkedin.com/learning/database-foundations-intro-to-databases/create-a-database?u=76281980&t=30)** This language is what puts the [[SQL]] in [[Microsoft SQL Server|SQL Server]] and [[PostgreSQL]].
 >
 > **[0:36](https://www.linkedin.com/learning/database-foundations-intro-to-databases/create-a-database?u=76281980&t=36)** The SQL language has been in use for over 30 years, ever since it became an ANSI standard in 1986, and all of the relational database platforms make use of this common language.
 >
@@ -2011,7 +1990,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/database-foundations-intro-to-databases/create-a-database?u=76281980&t=120)** When you chose the Settings tab, you'll notice that the tab color for the open Query Editor has changed to green, and this connects it to the server color that we applied earlier on in the course.
 >
-> **[2:10](https://www.linkedin.com/learning/database-foundations-intro-to-databases/create-a-database?u=76281980&t=130)** If I open up a new Query Editor for my Postgres database by right-clicking on it and choosing New Query, you'll see it gets the same purple color.
+> **[2:10](https://www.linkedin.com/learning/database-foundations-intro-to-databases/create-a-database?u=76281980&t=130)** If I open up a new Query Editor for my [[PostgreSQL|Postgres]] database by right-clicking on it and choosing New Query, you'll see it gets the same purple color.
 >
 > **[2:18](https://www.linkedin.com/learning/database-foundations-intro-to-databases/create-a-database?u=76281980&t=138)** This makes it much easier to visually tell which database server the query will run against.
 >
@@ -2025,7 +2004,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/database-foundations-intro-to-databases/create-a-database?u=76281980&t=167)** I'll switch over to the green tab for my SQL Server instance, and we'll write one out.
 >
-> **[2:53](https://www.linkedin.com/learning/database-foundations-intro-to-databases/create-a-database?u=76281980&t=173)** In order to view all of the databases on the server, we can ask for some data from one of the system tables.
+> **[2:53](https://www.linkedin.com/learning/database-foundations-intro-to-databases/create-a-database?u=76281980&t=173)** In order to view all of the [[Databases]] on the server, we can ask for some data from one of the system tables.
 >
 > **[3:00](https://www.linkedin.com/learning/database-foundations-intro-to-databases/create-a-database?u=76281980&t=180)** I'll type in the command Select Star From sys.databases.
 >
@@ -2091,11 +2070,11 @@ created: 2026-05-02
 >
 > **[5:51](https://www.linkedin.com/learning/database-foundations-intro-to-databases/create-a-database?u=76281980&t=351)** So, learning the SQL language will be a valuable skill because it's used by so many different platforms.
 >
-> **[5:58](https://www.linkedin.com/learning/database-foundations-intro-to-databases/create-a-database?u=76281980&t=358)** Once you know the basics, you can apply those skills to any relational database management system on the market.
+> **[5:58](https://www.linkedin.com/learning/database-foundations-intro-to-databases/create-a-database?u=76281980&t=358)** Once you know the basics, you can apply those skills to any relational [[Database Management]] system on the market.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (24), [[SQL]] (6), [[Microsoft SQL Server|Sql server]] (6), [[Databases]] (6), [[PostgreSQL|Postgres]] (5)
+> **Frameworks & Libraries:** [[SQL]] (6), [[Microsoft SQL Server|Sql server]] (6), [[Databases]] (6), [[PostgreSQL|Postgres]] (5), [[PostgreSQL]] (2)
 > **Env Vars:** sql (12), rbdms (1), ansi (1), gui (1)
 > **UI Navigation:** right-click (3), click on (1)
 > **CLI Commands:** make (3)
@@ -2104,8 +2083,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Warnings:** note that (1)
 
-#### Challenge: Create a database
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/challenge-create-a-database?u=76281980)
+#### [Challenge: Create a database](https://www.linkedin.com/learning/database-foundations-intro-to-databases/challenge-create-a-database?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2113,11 +2091,11 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/database-foundations-intro-to-databases/challenge-create-a-database?u=76281980&t=7)** I want you to start putting together a storage solution for the data collected by a new company called KinetEco.
 >
-> **[0:15](https://www.linkedin.com/learning/database-foundations-intro-to-databases/challenge-create-a-database?u=76281980&t=15)** To do this, create a new SQL Server container just for the KinetEco company.
+> **[0:15](https://www.linkedin.com/learning/database-foundations-intro-to-databases/challenge-create-a-database?u=76281980&t=15)** To do this, create a new [[Microsoft SQL Server|SQL Server]] container just for the KinetEco company.
 >
 > **[0:21](https://www.linkedin.com/learning/database-foundations-intro-to-databases/challenge-create-a-database?u=76281980&t=21)** This will keep it separated from everything else that we've done in this course.
 >
-> **[0:25](https://www.linkedin.com/learning/database-foundations-intro-to-databases/challenge-create-a-database?u=76281980&t=25)** Once the container is created, connect to it in Azure Data Studio.
+> **[0:25](https://www.linkedin.com/learning/database-foundations-intro-to-databases/challenge-create-a-database?u=76281980&t=25)** Once the container is created, connect to it in [[Microsoft Azure|Azure]] Data Studio.
 >
 > **[0:29](https://www.linkedin.com/learning/database-foundations-intro-to-databases/challenge-create-a-database?u=76281980&t=29)** Then, create the KinetEco database.
 >
@@ -2131,14 +2109,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft SQL Server|Sql server]] (1), [[Microsoft Azure|Azure]] (1), database (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** sql (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Create a database
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-database?u=76281980)
+#### [Solution: Create a database](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-database?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2152,7 +2129,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-database?u=76281980&t=28)** So I'll come up here to view, and come down to terminal.
 >
-> **[0:31](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-database?u=76281980&t=31)** That'll start up my powershell terminal.
+> **[0:31](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-database?u=76281980&t=31)** That'll start up my [[Powershell]] terminal.
 >
 > **[0:34](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-database?u=76281980&t=34)** And we're going to create a new container, so we use the docker run command for that.
 >
@@ -2168,11 +2145,11 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-database?u=76281980&t=78)** Then we need to forward our ports.
 >
-> **[1:21](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-database?u=76281980&t=81)** So I need to pick a port that hasn't been used yet, so 1411 I know hasn't been used, and we're going to map that into 1433 inside of the container, that's SQL Server's default port.
+> **[1:21](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-database?u=76281980&t=81)** So I need to pick a port that hasn't been used yet, so 1411 I know hasn't been used, and we're going to map that into 1433 inside of the container, that's [[Microsoft SQL Server|SQL Server]]'s default port.
 >
 > **[1:33](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-database?u=76281980&t=93)** Next, we need to specify what image we're going to use.
 >
-> **[1:36](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-database?u=76281980&t=96)** And this is the MCR dot Microsoft dot com slash MSSQL slash server colon 2019 dash latest.
+> **[1:36](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-database?u=76281980&t=96)** And this is the MCR dot [[Microsoft]] dot com slash MSSQL slash server colon 2019 dash latest.
 >
 > **[1:48](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-database?u=76281980&t=108)** And that wraps onto the second line, but it doesn't really matter.
 >
@@ -2188,7 +2165,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-database?u=76281980&t=138)** The server is on my localhost.
 >
-> **[2:20](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-database?u=76281980&t=140)** We're going to use the SQL login for the SA account.
+> **[2:20](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-database?u=76281980&t=140)** We're going to use the [[SQL]] login for the SA account.
 >
 > **[2:25](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-database?u=76281980&t=145)** Type in that password.
 >
@@ -2218,7 +2195,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-database?u=76281980&t=197)** I can go ahead and close this other tab, the home tab for that database server.
 >
-> **[3:21](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-database?u=76281980&t=201)** This just gives me some information about the server itself, so it shows me that I'm working on the developer edition of SQL Server, it's running on Linux, the Ubuntu version of Linux.
+> **[3:21](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-database?u=76281980&t=201)** This just gives me some information about the server itself, so it shows me that I'm working on the developer edition of SQL Server, it's running on [[Linux]], the [[Ubuntu]] version of Linux.
 >
 > **[3:30](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-database?u=76281980&t=210)** So some basic information about the server.
 >
@@ -2230,7 +2207,7 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-database?u=76281980&t=226)** Press run, and it tells me that the command was completed successfully.
 >
-> **[3:50](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-database?u=76281980&t=230)** And if I expand my databases folder, I can see it sitting right there, safe and sound in its own database server, within its own docker container.
+> **[3:50](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-database?u=76281980&t=230)** And if I expand my [[Databases]] folder, I can see it sitting right there, safe and sound in its own database server, within its own docker container.
 >
 > **[3:59](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-database?u=76281980&t=239)** And that's how I would solve the challenge.
 >
@@ -2238,7 +2215,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), next (3), [[Microsoft SQL Server|Sql server]] (3), [[Linux]] (2), [[Powershell]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3), [[Linux]] (2), [[Powershell]] (1), [[Microsoft]] (1), [[SQL]] (1)
 > **Env Vars:** sql (4), eula (1), mcr (1), mssql (1)
 > **Tools:** terminal (4), powershell (1)
 > **CLI Commands:** docker (3)
@@ -2252,16 +2229,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Structured Query Language
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/structured-query-language?u=76281980)
+#### [Structured Query Language](https://www.linkedin.com/learning/database-foundations-intro-to-databases/structured-query-language?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-intro-to-databases/structured-query-language?u=76281980&t=0)** - [Instructor] Structured Query Language is the common link between all relational database management platforms.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-intro-to-databases/structured-query-language?u=76281980&t=0)** - [Instructor] Structured Query Language is the common link between all relational [[Database Management]] platforms.
 >
-> **[0:06](https://www.linkedin.com/learning/database-foundations-intro-to-databases/structured-query-language?u=76281980&t=6)** So learning how it works on one platform will enable you to apply those same skills to other databases that you come across.
+> **[0:06](https://www.linkedin.com/learning/database-foundations-intro-to-databases/structured-query-language?u=76281980&t=6)** So learning how it works on one platform will enable you to apply those same skills to other [[Databases]] that you come across.
 >
-> **[0:14](https://www.linkedin.com/learning/database-foundations-intro-to-databases/structured-query-language?u=76281980&t=14)** Unlike other programming languages that rise and fall in popularity, SQL is probably the most stable and transferable skill that you can have in IT.
+> **[0:14](https://www.linkedin.com/learning/database-foundations-intro-to-databases/structured-query-language?u=76281980&t=14)** Unlike other programming languages that rise and fall in popularity, [[SQL]] is probably the most stable and transferable skill that you can have in IT.
 >
 > **[0:25](https://www.linkedin.com/learning/database-foundations-intro-to-databases/structured-query-language?u=76281980&t=25)** Here's a couple of reasons why learning SQL might be easier than you think.
 >
@@ -2311,9 +2287,9 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/database-foundations-intro-to-databases/structured-query-language?u=76281980&t=149)** All of the components that give structure to the database's design.
 >
-> **[2:33](https://www.linkedin.com/learning/database-foundations-intro-to-databases/structured-query-language?u=76281980&t=153)** The other group of commands are called Data Manipulation Language commands or DML.
+> **[2:33](https://www.linkedin.com/learning/database-foundations-intro-to-databases/structured-query-language?u=76281980&t=153)** The other group of commands are called [[Data Manipulation]] Language commands or DML.
 >
-> **[2:39](https://www.linkedin.com/learning/database-foundations-intro-to-databases/structured-query-language?u=76281980&t=159)** These commands are used for working with data storage.
+> **[2:39](https://www.linkedin.com/learning/database-foundations-intro-to-databases/structured-query-language?u=76281980&t=159)** These commands are used for working with [[Data Storage]].
 >
 > **[2:42](https://www.linkedin.com/learning/database-foundations-intro-to-databases/structured-query-language?u=76281980&t=162)** Insert, update, and delete are used to add, modify, and remove rows of data from your database tables.
 >
@@ -2341,28 +2317,27 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/database-foundations-intro-to-databases/structured-query-language?u=76281980&t=228)** You can add comments anywhere that you want by typing into hyphens.
 >
-> **[3:52](https://www.linkedin.com/learning/database-foundations-intro-to-databases/structured-query-language?u=76281980&t=232)** In Azure Data Studio, comments get written in a green font, so they're easy to identify.
+> **[3:52](https://www.linkedin.com/learning/database-foundations-intro-to-databases/structured-query-language?u=76281980&t=232)** In [[Microsoft Azure|Azure]] Data Studio, comments get written in a green font, so they're easy to identify.
 >
-> **[3:58](https://www.linkedin.com/learning/database-foundations-intro-to-databases/structured-query-language?u=76281980&t=238)** The SQL language provides the gateway to working with relational databases, and investing the time to learn to read and write commands will pay dividends throughout your career.
+> **[3:58](https://www.linkedin.com/learning/database-foundations-intro-to-databases/structured-query-language?u=76281980&t=238)** The SQL language provides the gateway to working with [[Relational Databases]], and investing the time to learn to read and write commands will pay dividends throughout your career.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (8), data (8), database (7), [[Programming]] (2), management (1)
+> **Frameworks & Libraries:** [[SQL]] (8), [[Database Management]] (1), [[Databases]] (1), [[Data Manipulation]] (1), [[Data Storage]] (1)
 > **Env Vars:** sql (8), null (2), rdbms (1), ddl (1), dml (1)
 > **CLI Commands:** find (1)
 > **SQL:** primary key (1)
 > **Speakers:** - [instructor] (1)
 
-#### Organize a database with schemas
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/organize-a-database-with-schemas?u=76281980)
+#### [Organize a database with schemas](https://www.linkedin.com/learning/database-foundations-intro-to-databases/organize-a-database-with-schemas?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-intro-to-databases/organize-a-database-with-schemas?u=76281980&t=0)** - [Instructor] Databases are created to organize data, but that doesn't mean you can just throw everything into a single table and expect to get good results.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-intro-to-databases/organize-a-database-with-schemas?u=76281980&t=0)** - [Instructor] [[Databases]] are created to organize data, but that doesn't mean you can just throw everything into a single table and expect to get good results.
 >
 > **[0:08](https://www.linkedin.com/learning/database-foundations-intro-to-databases/organize-a-database-with-schemas?u=76281980&t=8)** To get the most out of a relational database, you need to create an organized structure upfront, before you even add your first piece of data.
 >
-> **[0:17](https://www.linkedin.com/learning/database-foundations-intro-to-databases/organize-a-database-with-schemas?u=76281980&t=17)** We've discussed how relational databases split information up across multiple tables in order to create efficiencies in the system.
+> **[0:17](https://www.linkedin.com/learning/database-foundations-intro-to-databases/organize-a-database-with-schemas?u=76281980&t=17)** We've discussed how [[Relational Databases]] split information up across multiple tables in order to create efficiencies in the system.
 >
 > **[0:25](https://www.linkedin.com/learning/database-foundations-intro-to-databases/organize-a-database-with-schemas?u=76281980&t=25)** A common way to illustrate or diagram the tables in a database is to draw a box around the name of the table, and then list the columns that the table includes down below.
 >
@@ -2394,13 +2369,13 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/database-foundations-intro-to-databases/organize-a-database-with-schemas?u=76281980&t=130)** Our two RDBMS platforms already have a default schema created for each new database.
 >
-> **[2:17](https://www.linkedin.com/learning/database-foundations-intro-to-databases/organize-a-database-with-schemas?u=76281980&t=137)** On the PostgreSQL server, if I expand the databases folder, and then the Two Trees database, you'll find a folder here for schemas.
+> **[2:17](https://www.linkedin.com/learning/database-foundations-intro-to-databases/organize-a-database-with-schemas?u=76281980&t=137)** On the [[PostgreSQL]] server, if I expand the databases folder, and then the Two Trees database, you'll find a folder here for schemas.
 >
 > **[2:24](https://www.linkedin.com/learning/database-foundations-intro-to-databases/organize-a-database-with-schemas?u=76281980&t=144)** Inside of here you'll find a single schema called Public.
 >
 > **[2:28](https://www.linkedin.com/learning/database-foundations-intro-to-databases/organize-a-database-with-schemas?u=76281980&t=148)** If you don't create any additional schemas, then all of the tables that you create in this database, will automatically get added to the Public schema.
 >
-> **[2:37](https://www.linkedin.com/learning/database-foundations-intro-to-databases/organize-a-database-with-schemas?u=76281980&t=157)** Likewise, in the SQL server platform, we also have a default schema that's created for every new database.
+> **[2:37](https://www.linkedin.com/learning/database-foundations-intro-to-databases/organize-a-database-with-schemas?u=76281980&t=157)** Likewise, in the [[Microsoft SQL Server|SQL server]] platform, we also have a default schema that's created for every new database.
 >
 > **[2:43](https://www.linkedin.com/learning/database-foundations-intro-to-databases/organize-a-database-with-schemas?u=76281980&t=163)** We'll come up here to the other server and expand the databases folder.
 >
@@ -2426,7 +2401,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/database-foundations-intro-to-databases/organize-a-database-with-schemas?u=76281980&t=215)** In order to create a schema, we just say, create schema and the name of the schema you want to create.
 >
-> **[3:42](https://www.linkedin.com/learning/database-foundations-intro-to-databases/organize-a-database-with-schemas?u=76281980&t=222)** The Two Trees company creates and sells a line of olive oils and related products.
+> **[3:42](https://www.linkedin.com/learning/database-foundations-intro-to-databases/organize-a-database-with-schemas?u=76281980&t=222)** The Two Trees company creates and sells a line of olive oils and related [[Microsoft Products|products]].
 >
 > **[3:47](https://www.linkedin.com/learning/database-foundations-intro-to-databases/organize-a-database-with-schemas?u=76281980&t=227)** So let's create a schema that'll hold all of the tables that we'll need in order to describe their product line.
 >
@@ -2452,7 +2427,7 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/database-foundations-intro-to-databases/organize-a-database-with-schemas?u=76281980&t=273)** If you make a mistake you can remove a schema with the DROP SCHEMA command.
 >
-> **[4:38](https://www.linkedin.com/learning/database-foundations-intro-to-databases/organize-a-database-with-schemas?u=76281980&t=278)** DROP is the command key word that the SQL language uses for removing database objects.
+> **[4:38](https://www.linkedin.com/learning/database-foundations-intro-to-databases/organize-a-database-with-schemas?u=76281980&t=278)** DROP is the command key [[Microsoft Word|word]] that the [[SQL]] language uses for removing database objects.
 >
 > **[4:44](https://www.linkedin.com/learning/database-foundations-intro-to-databases/organize-a-database-with-schemas?u=76281980&t=284)** Now I want to keep the sales schema, so I'm actually not going to run this, we're just going to highlight all of that and get rid of it.
 >
@@ -2476,7 +2451,7 @@ created: 2026-05-02
 >
 > **[5:22](https://www.linkedin.com/learning/database-foundations-intro-to-databases/organize-a-database-with-schemas?u=76281980&t=322)** When you're done, you can close both of these tabs.
 >
-> **[5:25](https://www.linkedin.com/learning/database-foundations-intro-to-databases/organize-a-database-with-schemas?u=76281980&t=325)** At this point, Azure Data Studio is going to prompt you to save the text of your commands if you want, but we don't need to do that.
+> **[5:25](https://www.linkedin.com/learning/database-foundations-intro-to-databases/organize-a-database-with-schemas?u=76281980&t=325)** At this point, [[Microsoft Azure|Azure]] Data Studio is going to prompt you to save the text of your commands if you want, but we don't need to do that.
 >
 > **[5:31](https://www.linkedin.com/learning/database-foundations-intro-to-databases/organize-a-database-with-schemas?u=76281980&t=331)** So you can safely click on the Don't Save button.
 >
@@ -2492,7 +2467,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (21), [[Databases]] (5), data (4), [[Microsoft SQL Server|Sql server]] (4), [[PostgreSQL]] (3)
+> **Frameworks & Libraries:** [[Databases]] (5), [[Microsoft SQL Server|Sql server]] (4), [[PostgreSQL]] (3), [[Microsoft Products|Products]] (2), [[Relational Databases]] (1)
 > **Env Vars:** sql (5), dbo (2), drop (2), rdbms (1), schema (1)
 > **CLI Commands:** find (4), make (4)
 > **UI Navigation:** click on (4), dropdown (1), scroll down (1)
@@ -2501,8 +2476,7 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Table columns
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/table-columns?u=76281980)
+#### [Table columns](https://www.linkedin.com/learning/database-foundations-intro-to-databases/table-columns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2518,7 +2492,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/database-foundations-intro-to-databases/table-columns?u=76281980&t=31)** And together, they make up the full set of details that we want to store in the database.
 >
-> **[0:37](https://www.linkedin.com/learning/database-foundations-intro-to-databases/table-columns?u=76281980&t=37)** In order to create this table using SQL commands, we need to identify a couple of details.
+> **[0:37](https://www.linkedin.com/learning/database-foundations-intro-to-databases/table-columns?u=76281980&t=37)** In order to create this table using [[SQL]] commands, we need to identify a couple of details.
 >
 > **[0:44](https://www.linkedin.com/learning/database-foundations-intro-to-databases/table-columns?u=76281980&t=44)** The first one is easy.
 >
@@ -2536,9 +2510,9 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/database-foundations-intro-to-databases/table-columns?u=76281980&t=69)** Some relational database platforms have a preferred style.
 >
-> **[1:13](https://www.linkedin.com/learning/database-foundations-intro-to-databases/table-columns?u=76281980&t=73)** For instance PostgreSQL databases tend to use underscores between words and all lowercase letters for their table and column names.
+> **[1:13](https://www.linkedin.com/learning/database-foundations-intro-to-databases/table-columns?u=76281980&t=73)** For instance [[PostgreSQL]] [[Databases]] tend to use underscores between words and all lowercase letters for their table and column names.
 >
-> **[1:21](https://www.linkedin.com/learning/database-foundations-intro-to-databases/table-columns?u=76281980&t=81)** SQL server databases, generally use the camel case capitalization scheme for names.
+> **[1:21](https://www.linkedin.com/learning/database-foundations-intro-to-databases/table-columns?u=76281980&t=81)** [[Microsoft SQL Server|SQL server]] databases, generally use the camel case capitalization scheme for names.
 >
 > **[1:27](https://www.linkedin.com/learning/database-foundations-intro-to-databases/table-columns?u=76281980&t=87)** Different platforms will have adopted different styles.
 >
@@ -2550,7 +2524,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/database-foundations-intro-to-databases/table-columns?u=76281980&t=113)** And this is where the various relational database platforms diverge a little bit.
 >
-> **[1:57](https://www.linkedin.com/learning/database-foundations-intro-to-databases/table-columns?u=76281980&t=117)** In an effort to differentiate their products on the market, the various RDBMS vendors support the storage of different kinds of data.
+> **[1:57](https://www.linkedin.com/learning/database-foundations-intro-to-databases/table-columns?u=76281980&t=117)** In an effort to differentiate their [[Microsoft Products|products]] on the market, the various RDBMS vendors support the storage of different kinds of data.
 >
 > **[2:06](https://www.linkedin.com/learning/database-foundations-intro-to-databases/table-columns?u=76281980&t=126)** One database platform might allow you to store geospatial data, like the kind that you would use in creating maps.
 >
@@ -2584,7 +2558,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), database (5), [[Databases]] (3), [[PostgreSQL]] (2), [[Microsoft SQL Server|Sql server]] (2)
+> **Frameworks & Libraries:** [[Databases]] (3), [[PostgreSQL]] (2), [[Microsoft SQL Server|Sql server]] (2), [[SQL]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** sql (3), rdbms (3), char (2), varchar (1), max (1)
 > **Analogies:** for instance (2), such as (1)
 > **CLI Commands:** make (1)
@@ -2593,16 +2567,15 @@ created: 2026-05-02
 > **Best Practices:** it's best to (1)
 > **Speakers:** - before (1)
 
-#### Create tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/create-tables?u=76281980)
+#### [Create tables](https://www.linkedin.com/learning/database-foundations-intro-to-databases/create-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/database-foundations-intro-to-databases/create-tables?u=76281980&t=0)** - [Instructor] Let's start building the home for some of our data.
 >
-> **[0:03](https://www.linkedin.com/learning/database-foundations-intro-to-databases/create-tables?u=76281980&t=3)** In the Chapter 4 folder of the Exercise Files is this spreadsheet called Two Trees Olive Oil products.
+> **[0:03](https://www.linkedin.com/learning/database-foundations-intro-to-databases/create-tables?u=76281980&t=3)** In the Chapter 4 folder of the Exercise Files is this spreadsheet called Two Trees Olive Oil [[Microsoft Products|products]].
 >
-> **[0:09](https://www.linkedin.com/learning/database-foundations-intro-to-databases/create-tables?u=76281980&t=9)** It's an Excel file, but if you don't have Excel or can't otherwise open this file, that's just fine.
+> **[0:09](https://www.linkedin.com/learning/database-foundations-intro-to-databases/create-tables?u=76281980&t=9)** It's an [[Microsoft Excel|Excel]] file, but if you don't have Excel or can't otherwise open this file, that's just fine.
 >
 > **[0:15](https://www.linkedin.com/learning/database-foundations-intro-to-databases/create-tables?u=76281980&t=15)** You're not going to need it to follow along.
 >
@@ -2644,9 +2617,9 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/database-foundations-intro-to-databases/create-tables?u=76281980&t=112)** The last column, Price, it's a little bit trickier.
 >
-> **[1:55](https://www.linkedin.com/learning/database-foundations-intro-to-databases/create-tables?u=76281980&t=115)** Many relational database management systems don't have a specific data type for storing currency values.
+> **[1:55](https://www.linkedin.com/learning/database-foundations-intro-to-databases/create-tables?u=76281980&t=115)** Many relational [[Database Management]] systems don't have a specific data type for storing currency values.
 >
-> **[2:01](https://www.linkedin.com/learning/database-foundations-intro-to-databases/create-tables?u=76281980&t=121)** Both SQL server and PostgreSQL databases do support a data type called money, but they're region-specific.
+> **[2:01](https://www.linkedin.com/learning/database-foundations-intro-to-databases/create-tables?u=76281980&t=121)** Both [[Microsoft SQL Server|SQL server]] and [[PostgreSQL]] [[Databases]] do support a data type called money, but they're region-specific.
 >
 > **[2:08](https://www.linkedin.com/learning/database-foundations-intro-to-databases/create-tables?u=76281980&t=128)** So if I create a Money column here in the United States, it's going to act differently from someone following along in a different country.
 >
@@ -2654,7 +2627,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/database-foundations-intro-to-databases/create-tables?u=76281980&t=141)** That will allow us to store the price data in a way that's consistent for you if you're following along no matter where you live.
 >
-> **[2:29](https://www.linkedin.com/learning/database-foundations-intro-to-databases/create-tables?u=76281980&t=149)** So I think we have all of the information that we need to get started, so let's jump into Azure Data Studio and get to work.
+> **[2:29](https://www.linkedin.com/learning/database-foundations-intro-to-databases/create-tables?u=76281980&t=149)** So I think we have all of the information that we need to get started, so let's jump into [[Microsoft Azure|Azure]] Data Studio and get to work.
 >
 > **[2:36](https://www.linkedin.com/learning/database-foundations-intro-to-databases/create-tables?u=76281980&t=156)** I'm going to build the first table for the SQL server database, the TwoTrees database over here.
 >
@@ -2780,7 +2753,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (27), database (16), [[Microsoft Products|Products]] (15), product (8), [[PostgreSQL]] (3)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (15), [[PostgreSQL]] (3), [[Microsoft Excel|Excel]] (2), [[Microsoft SQL Server|Sql server]] (2), [[Database Management]] (1)
 > **Env Vars:** sku (9), char (5), table (4), create (3), null (3)
 > **SQL:** create table (3), integer (2), primary key (1)
 > **Definitions:** means that (4), is a  (1), is called (1)
@@ -2789,8 +2762,7 @@ created: 2026-05-02
 > **Analogies:** for instance (2)
 > **Exercise Files:** exercise files (1)
 
-#### Alter tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/alter-tables?u=76281980)
+#### [Alter tables](https://www.linkedin.com/learning/database-foundations-intro-to-databases/alter-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2822,13 +2794,13 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/database-foundations-intro-to-databases/alter-tables?u=76281980&t=71)** Then if I refresh the tables folder, we should see it appear right here.
 >
-> **[1:15](https://www.linkedin.com/learning/database-foundations-intro-to-databases/alter-tables?u=76281980&t=75)** Now we can use one of the features of Azure Data Studio to fill in a few rows of data.
+> **[1:15](https://www.linkedin.com/learning/database-foundations-intro-to-databases/alter-tables?u=76281980&t=75)** Now we can use one of the features of [[Microsoft Azure|Azure]] Data Studio to fill in a few rows of data.
 >
 > **[1:20](https://www.linkedin.com/learning/database-foundations-intro-to-databases/alter-tables?u=76281980&t=80)** Right click on the table name and choose Edit Data.
 >
 > **[1:24](https://www.linkedin.com/learning/database-foundations-intro-to-databases/alter-tables?u=76281980&t=84)** That'll open up a new tab where we can type values directly into the table.
 >
-> **[1:29](https://www.linkedin.com/learning/database-foundations-intro-to-databases/alter-tables?u=76281980&t=89)** So I'll fill in these values, category one corresponds to olive oils, category two corresponds to flavor infused oils and category three is our bath and beauty products.
+> **[1:29](https://www.linkedin.com/learning/database-foundations-intro-to-databases/alter-tables?u=76281980&t=89)** So I'll fill in these values, category one corresponds to olive oils, category two corresponds to flavor infused oils and category three is our bath and beauty [[Microsoft Products|products]].
 >
 > **[1:45](https://www.linkedin.com/learning/database-foundations-intro-to-databases/alter-tables?u=76281980&t=105)** As soon as you press enter on the last cell in row number three, all of that data gets saved right into the data table.
 >
@@ -2890,7 +2862,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), product (9), database (3), [[Microsoft Azure|Azure]] (3), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Microsoft Products|Products]] (2)
 > **Env Vars:** alter (3), char (2), add (1)
 > **UI Navigation:** click on (4)
 > **CLI Commands:** make (1)
@@ -2898,12 +2870,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reserved keywords
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/reserved-keywords?u=76281980)
+#### [Reserved keywords](https://www.linkedin.com/learning/database-foundations-intro-to-databases/reserved-keywords?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-intro-to-databases/reserved-keywords?u=76281980&t=0)** - [Instructor] The SQL language includes a large number of commands and other keywords that have special meaning to the database engine.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-intro-to-databases/reserved-keywords?u=76281980&t=0)** - [Instructor] The [[SQL]] language includes a large number of commands and other keywords that have special meaning to the database engine.
 >
 > **[0:08](https://www.linkedin.com/learning/database-foundations-intro-to-databases/reserved-keywords?u=76281980&t=8)** We've already seen a few of them, words like Create, Alter, Schema, Table.
 >
@@ -2929,7 +2900,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/database-foundations-intro-to-databases/reserved-keywords?u=76281980&t=75)** The best advice is to simply avoid using reserved keywords altogether.
 >
-> **[1:19](https://www.linkedin.com/learning/database-foundations-intro-to-databases/reserved-keywords?u=76281980&t=79)** A common reserve word that I see a lot of database designers try and use is the word date.
+> **[1:19](https://www.linkedin.com/learning/database-foundations-intro-to-databases/reserved-keywords?u=76281980&t=79)** A common reserve [[Microsoft Word|word]] that I see a lot of database designers try and use is the word date.
 >
 > **[1:25](https://www.linkedin.com/learning/database-foundations-intro-to-databases/reserved-keywords?u=76281980&t=85)** For example, in a table for invoices, you might want to store the invoice ID, the customer ID that's being billed, and the date of the invoice.
 >
@@ -2945,7 +2916,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/database-foundations-intro-to-databases/reserved-keywords?u=76281980&t=130)** Now, each database platform is going to have its own list of reserved keywords that you should avoid.
 >
-> **[2:15](https://www.linkedin.com/learning/database-foundations-intro-to-databases/reserved-keywords?u=76281980&t=135)** On this page, you can find the list for PostgreSQL databases.
+> **[2:15](https://www.linkedin.com/learning/database-foundations-intro-to-databases/reserved-keywords?u=76281980&t=135)** On this page, you can find the list for [[PostgreSQL]] [[Databases]].
 >
 > **[2:19](https://www.linkedin.com/learning/database-foundations-intro-to-databases/reserved-keywords?u=76281980&t=139)** The chart shows which words are reserved and which ones are non-reserved.
 >
@@ -2953,7 +2924,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/database-foundations-intro-to-databases/reserved-keywords?u=76281980&t=149)** If a particular word is on this list, but marked non-reserved, it's probably okay to use it, but I would still think about alternatives.
 >
-> **[2:37](https://www.linkedin.com/learning/database-foundations-intro-to-databases/reserved-keywords?u=76281980&t=157)** Microsoft maintains a similar page for the reserved words on the SQL server platform.
+> **[2:37](https://www.linkedin.com/learning/database-foundations-intro-to-databases/reserved-keywords?u=76281980&t=157)** [[Microsoft]] maintains a similar page for the reserved words on the [[Microsoft SQL Server|SQL server]] platform.
 >
 > **[2:43](https://www.linkedin.com/learning/database-foundations-intro-to-databases/reserved-keywords?u=76281980&t=163)** Interestingly, there's also a section over here, if you click on the right-hand side for future keywords.
 >
@@ -2963,7 +2934,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), database (6), data (3), [[SQL]] (2), [[PostgreSQL]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), [[SQL]] (2), [[PostgreSQL]] (1), [[Databases]] (1), [[Microsoft]] (1)
 > **Env Vars:** sql (3)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** click on (1)
@@ -2971,14 +2942,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Create a table
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/challenge-create-a-table?u=76281980)
+#### [Challenge: Create a table](https://www.linkedin.com/learning/database-foundations-intro-to-databases/challenge-create-a-table?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/database-foundations-intro-to-databases/challenge-create-a-table?u=76281980&t=0)** - [Instructor] For your next challenge, I'd like you to continue working on the Kinetico database that you set up in the prior challenge.
 >
-> **[0:12](https://www.linkedin.com/learning/database-foundations-intro-to-databases/challenge-create-a-table?u=76281980&t=12)** This time, your goal is to add in a new schema and the first data table using SQL commands.
+> **[0:12](https://www.linkedin.com/learning/database-foundations-intro-to-databases/challenge-create-a-table?u=76281980&t=12)** This time, your goal is to add in a new schema and the first data table using [[SQL]] commands.
 >
 > **[0:18](https://www.linkedin.com/learning/database-foundations-intro-to-databases/challenge-create-a-table?u=76281980&t=18)** First, create a schema called HumanResources.
 >
@@ -2992,15 +2962,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), database (1), data (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** sql (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Create a table
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-table?u=76281980)
+#### [Solution: Create a table](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3008,13 +2977,13 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-table?u=76281980&t=11)** Let's walk through the steps to getting this done.
 >
-> **[0:13](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-table?u=76281980&t=13)** Here in Azure Data Studio, the first thing I'm going to do is find the database I want to work with.
+> **[0:13](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-table?u=76281980&t=13)** Here in [[Microsoft Azure|Azure]] Data Studio, the first thing I'm going to do is find the database I want to work with.
 >
 > **[0:17](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-table?u=76281980&t=17)** So I'm just going to collapse everything on the left hand side of my Connections sidebar.
 >
 > **[0:21](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-table?u=76281980&t=21)** And then expand into my Kinettico server.
 >
-> **[0:24](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-table?u=76281980&t=24)** There is the databases folder and there is the database we created in the prior challenge.
+> **[0:24](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-table?u=76281980&t=24)** There is the [[Databases]] folder and there is the database we created in the prior challenge.
 >
 > **[0:29](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-table?u=76281980&t=29)** All right, right now there's no tables in here.
 >
@@ -3064,7 +3033,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-table?u=76281980&t=106)** So as soon as I see this, I can actually just press the Tab key on my keyboard.
 >
-> **[1:49](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-table?u=76281980&t=109)** And it fills in the rest of that, which is really handy.
+> **[1:49](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-table?u=76281980&t=109)** And it fills in the [[Representational State Transfer (REST)|rest]] of that, which is really handy.
 >
 > **[1:52](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-table?u=76281980&t=112)** So HumanResources is the schema. I'll type in a period.
 >
@@ -3168,7 +3137,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), database (7), next (4), [[Microsoft Azure|Azure]] (2), [[Databases]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Databases]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** null (5), char (2), create (1), schema (1), int (1)
 > **CLI Commands:** make (5), find (3)
 > **File Paths:** solutiontable.txt (1)
@@ -3177,8 +3146,7 @@ created: 2026-05-02
 > **Speakers:** - i (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Tables and data types
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-tables-and-data-types?u=76281980)
+#### [Solution: Tables and data types](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-tables-and-data-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3258,7 +3226,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-tables-and-data-types?u=76281980&t=147)** It then created the table in that schema.
 >
-> **[2:29](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-tables-and-data-types?u=76281980&t=149)** And then the rest of the code challenge provided the INSERT statement to add in five rows of data into the new table structure that we just set up.
+> **[2:29](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-tables-and-data-types?u=76281980&t=149)** And then the [[Representational State Transfer (REST)|rest]] of the code challenge provided the INSERT statement to add in five rows of data into the new table structure that we just set up.
 >
 > **[2:37](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-tables-and-data-types?u=76281980&t=157)** And then it selected all of the data out of that.
 >
@@ -3270,7 +3238,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), next (4), business (1), database (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** create (3), table (2), schema (1), primary (1), key (1)
 > **SQL:** create table (2), primary key (1)
 > **Definitions:** is called (2)
@@ -3284,8 +3252,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Table rows
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/table-rows?u=76281980)
+#### [Table rows](https://www.linkedin.com/learning/database-foundations-intro-to-databases/table-rows?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3353,20 +3320,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), database (1)
 > **CLI Commands:** find (3), make (1), cat (1)
 > **Definitions:** is a  (3), is called (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add records
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/add-records?u=76281980)
+#### [Add records](https://www.linkedin.com/learning/database-foundations-intro-to-databases/add-records?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/database-foundations-intro-to-databases/add-records?u=76281980&t=0)** - [Narrator] In order to add records to a data table, you'll use the insert into command.
 >
-> **[0:06](https://www.linkedin.com/learning/database-foundations-intro-to-databases/add-records?u=76281980&t=6)** In the two trees database that we created on our SQL Server handsets, we previously created a table, in the product schema called Products, and we can see that table contains a number of different columns.
+> **[0:06](https://www.linkedin.com/learning/database-foundations-intro-to-databases/add-records?u=76281980&t=6)** In the two trees database that we created on our [[Microsoft SQL Server|SQL Server]] handsets, we previously created a table, in the product schema called [[Microsoft Products|Products]], and we can see that table contains a number of different columns.
 >
 > **[0:18](https://www.linkedin.com/learning/database-foundations-intro-to-databases/add-records?u=76281980&t=18)** Now, if you wanted to add a data row to this table, you can do that by opening up a new query window, I'll right click on the two trees database, and choose new query.
 >
@@ -3486,23 +3451,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), product (7), next (7), [[Microsoft Products|Products]] (4), database (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** sku (8), sql (1), fcp008 (1), bi008 (1), gi016 (1)
 > **UI Navigation:** click on (2)
 > **Definitions:** is an  (1), means that (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Update and delete records
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/update-and-delete-records?u=76281980)
+#### [Update and delete records](https://www.linkedin.com/learning/database-foundations-intro-to-databases/update-and-delete-records?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/database-foundations-intro-to-databases/update-and-delete-records?u=76281980&t=0)** - [Narrator] When you want to modify the values that are already stored in a table row, then you can use the update command.
 >
-> **[0:07](https://www.linkedin.com/learning/database-foundations-intro-to-databases/update-and-delete-records?u=76281980&t=7)** Let's take a look at the data that's already in the products table that we entered in the previous movie.
+> **[0:07](https://www.linkedin.com/learning/database-foundations-intro-to-databases/update-and-delete-records?u=76281980&t=7)** Let's take a look at the data that's already in the [[Microsoft Products|products]] table that we entered in the previous movie.
 >
-> **[0:12](https://www.linkedin.com/learning/database-foundations-intro-to-databases/update-and-delete-records?u=76281980&t=12)** I'm going to right-click on the products table that's inside of the Two Trees database in the SQL Server instance, and then from the pop-up menu, choose select top 1,000.
+> **[0:12](https://www.linkedin.com/learning/database-foundations-intro-to-databases/update-and-delete-records?u=76281980&t=12)** I'm going to right-click on the products table that's inside of the Two Trees database in the [[Microsoft SQL Server|SQL Server]] instance, and then from the pop-up menu, choose select top 1,000.
 >
 > **[0:22](https://www.linkedin.com/learning/database-foundations-intro-to-databases/update-and-delete-records?u=76281980&t=22)** This shows me the four rows of data that we've entered.
 >
@@ -3570,15 +3534,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), data (4), database (3), [[Microsoft SQL Server|Sql server]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** sku (3), ogec004 (3), sql (1)
 > **UI Navigation:** right-click (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Saving and using SQL scripts
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/saving-and-using-sql-scripts?u=76281980)
+#### [Saving and using SQL scripts](https://www.linkedin.com/learning/database-foundations-intro-to-databases/saving-and-using-sql-scripts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3592,7 +3555,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/database-foundations-intro-to-databases/saving-and-using-sql-scripts?u=76281980&t=22)** Let's press the Save button and find out.
 >
-> **[0:24](https://www.linkedin.com/learning/database-foundations-intro-to-databases/saving-and-using-sql-scripts?u=76281980&t=24)** That prompts me to save the file with a dot SQL extension.
+> **[0:24](https://www.linkedin.com/learning/database-foundations-intro-to-databases/saving-and-using-sql-scripts?u=76281980&t=24)** That prompts me to save the file with a dot [[SQL]] extension.
 >
 > **[0:28](https://www.linkedin.com/learning/database-foundations-intro-to-databases/saving-and-using-sql-scripts?u=76281980&t=28)** Let's go ahead and just drop it onto our desktop and I'll call it "UpdateDelete" I'll press the Save file, and the text of that query is now saved onto my desktop.
 >
@@ -3608,7 +3571,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/database-foundations-intro-to-databases/saving-and-using-sql-scripts?u=76281980&t=70)** If you need to change to a different database on the same server, you can use this drop down menu here.
 >
-> **[1:15](https://www.linkedin.com/learning/database-foundations-intro-to-databases/saving-and-using-sql-scripts?u=76281980&t=75)** I want to make sure that I'm connected to the TwoTrees database on the SQL Server database.
+> **[1:15](https://www.linkedin.com/learning/database-foundations-intro-to-databases/saving-and-using-sql-scripts?u=76281980&t=75)** I want to make sure that I'm connected to the TwoTrees database on the [[Microsoft SQL Server|SQL Server]] database.
 >
 > **[1:21](https://www.linkedin.com/learning/database-foundations-intro-to-databases/saving-and-using-sql-scripts?u=76281980&t=81)** If you need to switch to a different server altogether, you can press the Change Connection button, then you'll either pick from a list of recent connections up here at the top, or fill in the same IP address port and username details that we've used previously to connect to a new server.
 >
@@ -3630,7 +3593,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/database-foundations-intro-to-databases/saving-and-using-sql-scripts?u=76281980&t=140)** Now, early on in the course, we set up two different database servers.
 >
-> **[2:24](https://www.linkedin.com/learning/database-foundations-intro-to-databases/saving-and-using-sql-scripts?u=76281980&t=144)** One for SQL Server and one for PostgreSQL.
+> **[2:24](https://www.linkedin.com/learning/database-foundations-intro-to-databases/saving-and-using-sql-scripts?u=76281980&t=144)** One for SQL Server and one for [[PostgreSQL]].
 >
 > **[2:28](https://www.linkedin.com/learning/database-foundations-intro-to-databases/saving-and-using-sql-scripts?u=76281980&t=148)** We then created a database for TwoTrees on both servers and started adding tables and data.
 >
@@ -3638,7 +3601,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/database-foundations-intro-to-databases/saving-and-using-sql-scripts?u=76281980&t=158)** It only made changes to the one on the SQL Server instance.
 >
-> **[2:43](https://www.linkedin.com/learning/database-foundations-intro-to-databases/saving-and-using-sql-scripts?u=76281980&t=163)** So now these two databases are in a different state.
+> **[2:43](https://www.linkedin.com/learning/database-foundations-intro-to-databases/saving-and-using-sql-scripts?u=76281980&t=163)** So now these two [[Databases]] are in a different state.
 >
 > **[2:46](https://www.linkedin.com/learning/database-foundations-intro-to-databases/saving-and-using-sql-scripts?u=76281980&t=166)** We can easily fix that with a script.
 >
@@ -3658,7 +3621,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/database-foundations-intro-to-databases/saving-and-using-sql-scripts?u=76281980&t=206)** First, we remove all of the objects on the database by running lines three, four, and five.
 >
-> **[3:32](https://www.linkedin.com/learning/database-foundations-intro-to-databases/saving-and-using-sql-scripts?u=76281980&t=212)** It's going to drop the products table, the categories table and the product schema.
+> **[3:32](https://www.linkedin.com/learning/database-foundations-intro-to-databases/saving-and-using-sql-scripts?u=76281980&t=212)** It's going to drop the [[Microsoft Products|products]] table, the categories table and the product schema.
 >
 > **[3:37](https://www.linkedin.com/learning/database-foundations-intro-to-databases/saving-and-using-sql-scripts?u=76281980&t=217)** This sets the database back to the original empty state.
 >
@@ -3698,7 +3661,7 @@ created: 2026-05-02
 >
 > **[5:12](https://www.linkedin.com/learning/database-foundations-intro-to-databases/saving-and-using-sql-scripts?u=76281980&t=312)** Then I want to make sure I use the drop down menu here to choose the two trees database.
 >
-> **[5:17](https://www.linkedin.com/learning/database-foundations-intro-to-databases/saving-and-using-sql-scripts?u=76281980&t=317)** Finally, we can press the Run button again, Oh, and we get a syntax error at or near the word go.
+> **[5:17](https://www.linkedin.com/learning/database-foundations-intro-to-databases/saving-and-using-sql-scripts?u=76281980&t=317)** Finally, we can press the Run button again, Oh, and we get a syntax error at or near the [[Microsoft Word|word]] go.
 >
 > **[5:23](https://www.linkedin.com/learning/database-foundations-intro-to-databases/saving-and-using-sql-scripts?u=76281980&t=323)** I forgot to comment out those two lines.
 >
@@ -3708,7 +3671,7 @@ created: 2026-05-02
 >
 > **[5:39](https://www.linkedin.com/learning/database-foundations-intro-to-databases/saving-and-using-sql-scripts?u=76281980&t=339)** There that time it worked, it went through, deleted everything from the database, rebuilt the tables and added in the data.
 >
-> **[5:45](https://www.linkedin.com/learning/database-foundations-intro-to-databases/saving-and-using-sql-scripts?u=76281980&t=345)** And just to verify that everything works, we can expand the databases folder in the Postgres server, we'll find the TwoTrees database and inside the tables folder, we see the one table.
+> **[5:45](https://www.linkedin.com/learning/database-foundations-intro-to-databases/saving-and-using-sql-scripts?u=76281980&t=345)** And just to verify that everything works, we can expand the databases folder in the [[PostgreSQL|Postgres]] server, we'll find the TwoTrees database and inside the tables folder, we see the one table.
 >
 > **[5:55](https://www.linkedin.com/learning/database-foundations-intro-to-databases/saving-and-using-sql-scripts?u=76281980&t=355)** So let's go ahead and right click and choose Refresh, and there's both tables there.
 >
@@ -3720,7 +3683,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (21), data (9), [[Microsoft SQL Server|Sql server]] (6), [[PostgreSQL]] (6), [[SQL]] (4)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (6), [[PostgreSQL]] (6), [[SQL]] (4), [[Microsoft Products|Products]] (4), [[Databases]] (2)
 > **Env Vars:** sql (9)
 > **CLI Commands:** make (4), find (3)
 > **UI Navigation:** switch to (1), scroll down (1), click on (1)
@@ -3728,8 +3691,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Add data to a table
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/challenge-add-data-to-a-table?u=76281980)
+#### [Challenge: Add data to a table](https://www.linkedin.com/learning/database-foundations-intro-to-databases/challenge-add-data-to-a-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3759,13 +3721,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (1), database (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Add data to a table
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-add-data-to-a-table?u=76281980)
+#### [Solution: Add data to a table](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-add-data-to-a-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3797,7 +3757,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-add-data-to-a-table?u=76281980&t=57)** Which is not true at all because I know that the table called humanresources.employee is right there.
 >
-> **[1:02](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-add-data-to-a-table?u=76281980&t=62)** And the reason we're getting this is because Azure data studio has a cache of the different objects that exist in our database servers.
+> **[1:02](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-add-data-to-a-table?u=76281980&t=62)** And the reason we're getting this is because [[Microsoft Azure|Azure]] data studio has a cache of the different objects that exist in our database servers.
 >
 > **[1:10](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-add-data-to-a-table?u=76281980&t=70)** And it has an updated to reflect the new names that we've added in here.
 >
@@ -3953,7 +3913,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), database (4), next (3), [[Microsoft Azure|Azure]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1)
 > **UI Navigation:** click on (2), select the (1), in the tab (1)
 > **Versions:** 2020.03.25 (1), 2020.08.25 (1), 2020.09.23 (1)
 > **File Paths:** solutiondata.txt (1)
@@ -3962,8 +3922,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Correct recorded information
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-correct-recorded-information?u=76281980)
+#### [Solution: Correct recorded information](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-correct-recorded-information?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4051,7 +4010,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-correct-recorded-information?u=76281980&t=204)** And if I scroll across here, you can see that we do not have a start date or a complete date for this book, so we're going to fill in those two dates there.
 >
-> **[3:32](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-correct-recorded-information?u=76281980&t=212)** But we're not going to make any changes to the rest of the information for that book.
+> **[3:32](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-correct-recorded-information?u=76281980&t=212)** But we're not going to make any changes to the [[Representational State Transfer (REST)|rest]] of the information for that book.
 >
 > **[3:36](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-correct-recorded-information?u=76281980&t=216)** Okay, so we can do that with an UPDATE statement.
 >
@@ -4117,7 +4076,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (4), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** where (6), insert (4), into (4), update (3), delete (2)
 > **SQL:** where (6), insert into (4), update (3), delete from (2)
 > **CLI Commands:** make (4)
@@ -4131,8 +4090,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Querying data
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/querying-data?u=76281980)
+#### [Querying data](https://www.linkedin.com/learning/database-foundations-intro-to-databases/querying-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4186,7 +4144,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), database (1), next (1)
 > **SQL:** select (3)
 > **Env Vars:** select (3)
 > **Analogies:** imagine (1), such as (1), for instance (1)
@@ -4194,22 +4151,21 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Return data with SELECT and FROM
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/return-data-with-select-and-from?u=76281980)
+#### [Return data with SELECT and FROM](https://www.linkedin.com/learning/database-foundations-intro-to-databases/return-data-with-select-and-from?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-intro-to-databases/return-data-with-select-and-from?u=76281980&t=0)** - [Instructor] Our Two Trees database has a products table that includes data on a couple of different olive oils that we've already entered in.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-intro-to-databases/return-data-with-select-and-from?u=76281980&t=0)** - [Instructor] Our Two Trees database has a [[Microsoft Products|products]] table that includes data on a couple of different olive oils that we've already entered in.
 >
 > **[0:07](https://www.linkedin.com/learning/database-foundations-intro-to-databases/return-data-with-select-and-from?u=76281980&t=7)** In order to make the process of querying the data a little bit more interesting, I want to greatly expand the number of rows that this table contains.
 >
 > **[0:17](https://www.linkedin.com/learning/database-foundations-intro-to-databases/return-data-with-select-and-from?u=76281980&t=17)** We can do that by running a script that I've saved in the exercise files.
 >
-> **[0:21](https://www.linkedin.com/learning/database-foundations-intro-to-databases/return-data-with-select-and-from?u=76281980&t=21)** First, make sure that you selected the Two Trees database in SQL server instance.
+> **[0:21](https://www.linkedin.com/learning/database-foundations-intro-to-databases/return-data-with-select-and-from?u=76281980&t=21)** First, make sure that you selected the Two Trees database in [[Microsoft SQL Server|SQL server]] instance.
 >
 > **[0:25](https://www.linkedin.com/learning/database-foundations-intro-to-databases/return-data-with-select-and-from?u=76281980&t=25)** Then come up to the File Menu and choose Open File.
 >
-> **[0:29](https://www.linkedin.com/learning/database-foundations-intro-to-databases/return-data-with-select-and-from?u=76281980&t=29)** From there, we'll browse into the chapter six folder and find the Two_Trees_Products.sql file.
+> **[0:29](https://www.linkedin.com/learning/database-foundations-intro-to-databases/return-data-with-select-and-from?u=76281980&t=29)** From there, we'll browse into the chapter six folder and find the Two_Trees_Products.[[SQL]] file.
 >
 > **[0:35](https://www.linkedin.com/learning/database-foundations-intro-to-databases/return-data-with-select-and-from?u=76281980&t=35)** You can open that up and we'll take a look at what it's going to do.
 >
@@ -4221,7 +4177,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/database-foundations-intro-to-databases/return-data-with-select-and-from?u=76281980&t=55)** Let's press the run button, and it's going to delete the four rows and insert 114 rows.
 >
-> **[1:01](https://www.linkedin.com/learning/database-foundations-intro-to-databases/return-data-with-select-and-from?u=76281980&t=61)** Now, in order to keep both of our databases in sync, I'm going to do the same thing inside of the Postgres SQL server.
+> **[1:01](https://www.linkedin.com/learning/database-foundations-intro-to-databases/return-data-with-select-and-from?u=76281980&t=61)** Now, in order to keep both of our [[Databases]] in sync, I'm going to do the same thing inside of the [[PostgreSQL|Postgres]] SQL server.
 >
 > **[1:07](https://www.linkedin.com/learning/database-foundations-intro-to-databases/return-data-with-select-and-from?u=76281980&t=67)** I'll select the Two Trees database, then go up to file and choose Open File again.
 >
@@ -4249,7 +4205,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/database-foundations-intro-to-databases/return-data-with-select-and-from?u=76281980&t=126)** I'll simply list them out and put a comma between each name.
 >
-> **[2:10](https://www.linkedin.com/learning/database-foundations-intro-to-databases/return-data-with-select-and-from?u=76281980&t=130)** Now the Azure Data Studio IntelliSense feature, when I type in price is thinking that I'm trying to type in this whole thing, dm_logconsumer.
+> **[2:10](https://www.linkedin.com/learning/database-foundations-intro-to-databases/return-data-with-select-and-from?u=76281980&t=130)** Now the [[Microsoft Azure|Azure]] Data Studio IntelliSense feature, when I type in price is thinking that I'm trying to type in this whole thing, dm_logconsumer.
 >
 > **[2:18](https://www.linkedin.com/learning/database-foundations-intro-to-databases/return-data-with-select-and-from?u=76281980&t=138)** If I press Enter, it's just going to fill that in.
 >
@@ -4301,7 +4257,7 @@ created: 2026-05-02
 >
 > **[4:41](https://www.linkedin.com/learning/database-foundations-intro-to-databases/return-data-with-select-and-from?u=76281980&t=281)** Now, if you switched back over to the results tab and you decide that you want to share the results that you retrieved from your database, Azure Data Studio gives you an easy way to export this data to a couple of different file formats using the buttons over here on the right-hand side of the screen.
 >
-> **[4:56](https://www.linkedin.com/learning/database-foundations-intro-to-databases/return-data-with-select-and-from?u=76281980&t=296)** You can export the results as a CSV, as an Excel file, as a Jason file, or as an XML file.
+> **[4:56](https://www.linkedin.com/learning/database-foundations-intro-to-databases/return-data-with-select-and-from?u=76281980&t=296)** You can export the results as a CSV, as an [[Microsoft Excel|Excel]] file, as a Jason file, or as an XML file.
 >
 > **[5:04](https://www.linkedin.com/learning/database-foundations-intro-to-databases/return-data-with-select-and-from?u=76281980&t=304)** So this is a handy way to get information out of your database.
 >
@@ -4343,7 +4299,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (12), data (12), [[Microsoft Products|Products]] (10), product (7), [[Microsoft SQL Server|Sql server]] (3)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (10), [[Microsoft SQL Server|Sql server]] (3), [[Microsoft Azure|Azure]] (3), [[SQL]] (2), [[Databases]] (2)
 > **Env Vars:** sql (4), where (1), csv (1), xml (1), select (1)
 > **CLI Commands:** find (4), make (2)
 > **UI Navigation:** select the (2), click on (1)
@@ -4352,8 +4308,7 @@ created: 2026-05-02
 > **Code Identifiers:** dm_logconsumer (1)
 > **Exercise Files:** exercise files (1)
 
-#### Filter rows with WHERE
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/filter-rows-with-where?u=76281980)
+#### [Filter rows with WHERE](https://www.linkedin.com/learning/database-foundations-intro-to-databases/filter-rows-with-where?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4361,7 +4316,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/database-foundations-intro-to-databases/filter-rows-with-where?u=76281980&t=7)** The where clause allows you to specify the criteria that rows must meet in order to be included in the results set.
 >
-> **[0:15](https://www.linkedin.com/learning/database-foundations-intro-to-databases/filter-rows-with-where?u=76281980&t=15)** Once again, we're going to query data out of the products table in the TwoTrees database.
+> **[0:15](https://www.linkedin.com/learning/database-foundations-intro-to-databases/filter-rows-with-where?u=76281980&t=15)** Once again, we're going to query data out of the [[Microsoft Products|products]] table in the TwoTrees database.
 >
 > **[0:19](https://www.linkedin.com/learning/database-foundations-intro-to-databases/filter-rows-with-where?u=76281980&t=19)** So I'll right-click on it and choose new query.
 >
@@ -4415,7 +4370,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/database-foundations-intro-to-databases/filter-rows-with-where?u=76281980&t=168)** For instance, I wanted to find all of the products where the product name is equal to pure.
 >
-> **[2:55](https://www.linkedin.com/learning/database-foundations-intro-to-databases/filter-rows-with-where?u=76281980&t=175)** We'll put quotation marks around the word pure and press the run button, and here are all of those products.
+> **[2:55](https://www.linkedin.com/learning/database-foundations-intro-to-databases/filter-rows-with-where?u=76281980&t=175)** We'll put quotation marks around the [[Microsoft Word|word]] pure and press the run button, and here are all of those products.
 >
 > **[3:01](https://www.linkedin.com/learning/database-foundations-intro-to-databases/filter-rows-with-where?u=76281980&t=181)** There's a total of five rows that meet that criteria.
 >
@@ -4445,7 +4400,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (15), data (4), database (2), product (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (15), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** right-click (1), scroll down (1)
 > **Analogies:** for instance (2)
@@ -4453,8 +4408,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sort values with ORDER BY
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/sort-values-with-order-by?u=76281980)
+#### [Sort values with ORDER BY](https://www.linkedin.com/learning/database-foundations-intro-to-databases/sort-values-with-order-by?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4462,7 +4416,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/database-foundations-intro-to-databases/sort-values-with-order-by?u=76281980&t=9)** When you want to read through the results in sequence, you can add an order by clause.
 >
-> **[0:14](https://www.linkedin.com/learning/database-foundations-intro-to-databases/sort-values-with-order-by?u=76281980&t=14)** Let's take a look by writing some more queries against our products table.
+> **[0:14](https://www.linkedin.com/learning/database-foundations-intro-to-databases/sort-values-with-order-by?u=76281980&t=14)** Let's take a look by writing some more queries against our [[Microsoft Products|products]] table.
 >
 > **[0:18](https://www.linkedin.com/learning/database-foundations-intro-to-databases/sort-values-with-order-by?u=76281980&t=18)** Now instead of right-clicking on the two trees database and choosing new query, I can just press the control N shortcut on my keyboard.
 >
@@ -4516,15 +4470,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (11), database (3), product (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (11)
 > **CLI Commands:** find (2), make (1)
 > **Versions:** 11.99 (2), 8.99 (1)
 > **Analogies:** for instance (1), for example (1)
 > **Env Vars:** desc (1)
 > **Speakers:** - [instructor] (1)
 
-#### Combine data with JOIN
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/combine-data-with-join?u=76281980)
+#### [Combine data with JOIN](https://www.linkedin.com/learning/database-foundations-intro-to-databases/combine-data-with-join?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4540,7 +4493,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/database-foundations-intro-to-databases/combine-data-with-join?u=76281980&t=26)** Now I want to review information about a single product.
 >
-> **[0:30](https://www.linkedin.com/learning/database-foundations-intro-to-databases/combine-data-with-join?u=76281980&t=30)** I'll say select star from products dot products where the S-K-U or where the SKU is equal to ALB008.
+> **[0:30](https://www.linkedin.com/learning/database-foundations-intro-to-databases/combine-data-with-join?u=76281980&t=30)** I'll say select star from [[Microsoft Products|products]] dot products where the S-K-U or where the SKU is equal to ALB008.
 >
 > **[0:42](https://www.linkedin.com/learning/database-foundations-intro-to-databases/combine-data-with-join?u=76281980&t=42)** This shows me that that product corresponds to the eight ounce size delicate oil in category number one.
 >
@@ -4566,7 +4519,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/database-foundations-intro-to-databases/combine-data-with-join?u=76281980&t=99)** Then we can join the products table to the categories table.
 >
-> **[1:42](https://www.linkedin.com/learning/database-foundations-intro-to-databases/combine-data-with-join?u=76281980&t=102)** On line number nine, I'll type in the word join.
+> **[1:42](https://www.linkedin.com/learning/database-foundations-intro-to-databases/combine-data-with-join?u=76281980&t=102)** On line number nine, I'll type in the [[Microsoft Word|word]] join.
 >
 > **[1:45](https://www.linkedin.com/learning/database-foundations-intro-to-databases/combine-data-with-join?u=76281980&t=105)** I want to join the products table to the categories table, so that's the product schema dot categories table.
 >
@@ -4622,7 +4575,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (14), product (11), database (4), data (3), next (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (14), [[Microsoft Word|Word]] (1)
 > **Env Vars:** sku (5), alb008 (2)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for instance (2)
@@ -4630,12 +4583,11 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Limiting the number of rows returned
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/limiting-the-number-of-rows-returned?u=76281980)
+#### [Limiting the number of rows returned](https://www.linkedin.com/learning/database-foundations-intro-to-databases/limiting-the-number-of-rows-returned?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-intro-to-databases/limiting-the-number-of-rows-returned?u=76281980&t=0)** - [Narrator] All of the select queries, that we've looked at so far, will run identically on either SQL Server or PostgreSQL.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-intro-to-databases/limiting-the-number-of-rows-returned?u=76281980&t=0)** - [Narrator] All of the select queries, that we've looked at so far, will run identically on either [[Microsoft SQL Server|SQL Server]] or [[PostgreSQL]].
 >
 > **[0:08](https://www.linkedin.com/learning/database-foundations-intro-to-databases/limiting-the-number-of-rows-returned?u=76281980&t=8)** The command syntax is exactly the same, for these select, from, join, where and ORDER BY clauses.
 >
@@ -4649,7 +4601,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/database-foundations-intro-to-databases/limiting-the-number-of-rows-returned?u=76281980&t=36)** I want to first review all of the product data sorted by price descending.
 >
-> **[0:45](https://www.linkedin.com/learning/database-foundations-intro-to-databases/limiting-the-number-of-rows-returned?u=76281980&t=45)** To do that we'll select star or select all of the columns from product stock products, ORDER BY price descending.
+> **[0:45](https://www.linkedin.com/learning/database-foundations-intro-to-databases/limiting-the-number-of-rows-returned?u=76281980&t=45)** To do that we'll select star or select all of the columns from product stock [[Microsoft Products|products]], ORDER BY price descending.
 >
 > **[0:52](https://www.linkedin.com/learning/database-foundations-intro-to-databases/limiting-the-number-of-rows-returned?u=76281980&t=52)** When I press run, I can see the following results.
 >
@@ -4697,20 +4649,19 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/database-foundations-intro-to-databases/limiting-the-number-of-rows-returned?u=76281980&t=180)** Now, unfortunately PostgreSQL doesn't support percentages like SQL Server does, so you're only able to limit to a specific number of rows.
 >
-> **[3:09](https://www.linkedin.com/learning/database-foundations-intro-to-databases/limiting-the-number-of-rows-returned?u=76281980&t=189)** This illustrates one area where SQL Server and PostgreSQL use a slightly different syntax in the SQL commands, even though the functionality is nearly identical.
+> **[3:09](https://www.linkedin.com/learning/database-foundations-intro-to-databases/limiting-the-number-of-rows-returned?u=76281980&t=189)** This illustrates one area where SQL Server and PostgreSQL use a slightly different syntax in the [[SQL]] commands, even though the functionality is nearly identical.
 >
 > **[3:20](https://www.linkedin.com/learning/database-foundations-intro-to-databases/limiting-the-number-of-rows-returned?u=76281980&t=200)** When using the TOP keyword or the LIMIT clause, it's important to also use an ORDER BY clause, so that the end result is meaningful, otherwise you're just retrieving the first few rows from an arbitrary pile of randomly shuffled records.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7), [[Microsoft SQL Server|Sql server]] (6), [[PostgreSQL]] (6), database (3), product (3)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7), [[Microsoft SQL Server|Sql server]] (6), [[PostgreSQL]] (6), [[SQL]] (1)
 > **Env Vars:** sql (7), order (6), top (6), select (2), limit (2)
 > **SQL:** order by (6), select (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Solution: Write a SQL SELECT query
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-write-a-sql-select-query?u=76281980)
+#### [Solution: Write a SQL SELECT query](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-write-a-sql-select-query?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4866,7 +4817,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (3)
 > **Env Vars:** select (6), join (4), order (2), limit (2), inner (1)
 > **SQL:** select (6), join (3), order by (2), inner join (1), where (1)
 > **CLI Commands:** find (2), make (2)
@@ -4879,28 +4829,27 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Display column aliases with AS
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/display-column-aliases-with-as?u=76281980)
+#### [Display column aliases with AS](https://www.linkedin.com/learning/database-foundations-intro-to-databases/display-column-aliases-with-as?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-intro-to-databases/display-column-aliases-with-as?u=76281980&t=0)** - When you're writing database queries, you're not limited to displaying the data exactly as it's stored in the database.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-intro-to-databases/display-column-aliases-with-as?u=76281980&t=0)** - When you're writing [[Database Queries]], you're not limited to displaying the data exactly as it's stored in the database.
 >
 > **[0:07](https://www.linkedin.com/learning/database-foundations-intro-to-databases/display-column-aliases-with-as?u=76281980&t=7)** You can repurpose the data by applying calculations, functions, groupings, and other types of manipulations in order to meet the needs of whatever analysis you're after.
 >
-> **[0:17](https://www.linkedin.com/learning/database-foundations-intro-to-databases/display-column-aliases-with-as?u=76281980&t=17)** Because the data returned in a result set can be modified, it's important to make sure that the column names that are displayed are accurate to the final calculation or the data manipulation.
+> **[0:17](https://www.linkedin.com/learning/database-foundations-intro-to-databases/display-column-aliases-with-as?u=76281980&t=17)** Because the data returned in a result set can be modified, it's important to make sure that the column names that are displayed are accurate to the final calculation or the [[Data Manipulation]].
 >
 > **[0:29](https://www.linkedin.com/learning/database-foundations-intro-to-databases/display-column-aliases-with-as?u=76281980&t=29)** You can also rename the columns just to clarify their contents or to simply make them more legible.
 >
 > **[0:35](https://www.linkedin.com/learning/database-foundations-intro-to-databases/display-column-aliases-with-as?u=76281980&t=35)** You do all of this by naming the output columns with an alias, using the AS keyword.
 >
-> **[0:41](https://www.linkedin.com/learning/database-foundations-intro-to-databases/display-column-aliases-with-as?u=76281980&t=41)** On the screen, I have the contents of a script called AS_Start.sql that you can find inside of the Chapter 7 folder.
+> **[0:41](https://www.linkedin.com/learning/database-foundations-intro-to-databases/display-column-aliases-with-as?u=76281980&t=41)** On the screen, I have the contents of a script called AS_Start.[[SQL]] that you can find inside of the Chapter 7 folder.
 >
 > **[0:48](https://www.linkedin.com/learning/database-foundations-intro-to-databases/display-column-aliases-with-as?u=76281980&t=48)** This query will join some columns from our two tables.
 >
 > **[0:50](https://www.linkedin.com/learning/database-foundations-intro-to-databases/display-column-aliases-with-as?u=76281980&t=50)** And when I press the Run button, you'll see the results.
 >
-> **[0:54](https://www.linkedin.com/learning/database-foundations-intro-to-databases/display-column-aliases-with-as?u=76281980&t=54)** Here I can see that we have the product name, size, SKU, and price columns coming out of the products table and the category description and the product line coming out of the categories table.
+> **[0:54](https://www.linkedin.com/learning/database-foundations-intro-to-databases/display-column-aliases-with-as?u=76281980&t=54)** Here I can see that we have the product name, size, SKU, and price columns coming out of the [[Microsoft Products|products]] table and the category description and the product line coming out of the categories table.
 >
 > **[1:05](https://www.linkedin.com/learning/database-foundations-intro-to-databases/display-column-aliases-with-as?u=76281980&t=65)** Because we didn't specify otherwise, the column names that are returned are exactly the same as they're stored in the original data tables.
 >
@@ -4912,7 +4861,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/database-foundations-intro-to-databases/display-column-aliases-with-as?u=76281980&t=89)** So after a products.productname, I'm going to write AS, and then in double quotes, product name with a space between it.
 >
-> **[1:37](https://www.linkedin.com/learning/database-foundations-intro-to-databases/display-column-aliases-with-as?u=76281980&t=97)** Now actually SQL server will allow you to use single quotes, double quotes or square brackets here, but PostgreSQL databases require the use of double quotes here when you're adding aliases that contain spaces.
+> **[1:37](https://www.linkedin.com/learning/database-foundations-intro-to-databases/display-column-aliases-with-as?u=76281980&t=97)** Now actually [[Microsoft SQL Server|SQL server]] will allow you to use single quotes, double quotes or square brackets here, but [[PostgreSQL]] [[Databases]] require the use of double quotes here when you're adding aliases that contain spaces.
 >
 > **[1:50](https://www.linkedin.com/learning/database-foundations-intro-to-databases/display-column-aliases-with-as?u=76281980&t=110)** So I'm just going to use double quotes in order to make a query that's compatible with both platforms.
 >
@@ -4950,7 +4899,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/database-foundations-intro-to-databases/display-column-aliases-with-as?u=76281980&t=206)** We'll also rename the products.categories table AS C.
 >
-> **[3:31](https://www.linkedin.com/learning/database-foundations-intro-to-databases/display-column-aliases-with-as?u=76281980&t=211)** Now I can go through the rest of my query here and everywhere I referenced the products table, I'll replace it with the letter P and everywhere that I referenced the categories table, I'll replace it with a letter C.
+> **[3:31](https://www.linkedin.com/learning/database-foundations-intro-to-databases/display-column-aliases-with-as?u=76281980&t=211)** Now I can go through the [[Representational State Transfer (REST)|rest]] of my query here and everywhere I referenced the products table, I'll replace it with the letter P and everywhere that I referenced the categories table, I'll replace it with a letter C.
 >
 > **[3:42](https://www.linkedin.com/learning/database-foundations-intro-to-databases/display-column-aliases-with-as?u=76281980&t=222)** So we'll start up here at the top.
 >
@@ -4980,15 +4929,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), product (6), [[Microsoft Products|Products]] (6), database (3), [[Data Manipulation]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), [[Database Queries]] (1), [[Data Manipulation]] (1), [[SQL]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **CLI Commands:** make (6), find (1)
 > **Env Vars:** sku (4), sql (1)
 > **Code Identifiers:** categoryid (2)
 > **File Paths:** as_start.sql (1)
 > **Speakers:** - when (1)
 
-#### Mathematical operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/mathematical-operations?u=76281980)
+#### [Mathematical operations](https://www.linkedin.com/learning/database-foundations-intro-to-databases/mathematical-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5012,9 +4960,9 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/database-foundations-intro-to-databases/mathematical-operations?u=76281980&t=38)** So this is a neat trick but actually it can be really useful to use inside of your queries.
 >
-> **[0:43](https://www.linkedin.com/learning/database-foundations-intro-to-databases/mathematical-operations?u=76281980&t=43)** Let's get rid of line number 10 here, and I'll turn my attention back to the original query that I had in the math start dot SQL file.
+> **[0:43](https://www.linkedin.com/learning/database-foundations-intro-to-databases/mathematical-operations?u=76281980&t=43)** Let's get rid of line number 10 here, and I'll turn my attention back to the original query that I had in the math start dot [[SQL]] file.
 >
-> **[0:51](https://www.linkedin.com/learning/database-foundations-intro-to-databases/mathematical-operations?u=76281980&t=51)** This query is retrieving a few columns from the products table.
+> **[0:51](https://www.linkedin.com/learning/database-foundations-intro-to-databases/mathematical-operations?u=76281980&t=51)** This query is retrieving a few columns from the [[Microsoft Products|products]] table.
 >
 > **[0:54](https://www.linkedin.com/learning/database-foundations-intro-to-databases/mathematical-operations?u=76281980&t=54)** And if we run the query, we'll see the starting point for the query.
 >
@@ -5068,25 +5016,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), product (3), database (2), [[SQL]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[Microsoft Products|Products]] (1)
 > **Versions:** 8.5 (2), 0.085 (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** sql (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use built-in functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/use-built-in-functions?u=76281980)
+#### [Use built-in functions](https://www.linkedin.com/learning/database-foundations-intro-to-databases/use-built-in-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/database-foundations-intro-to-databases/use-built-in-functions?u=76281980&t=0)** - [Instructor] Each database platform includes hundreds of built-in functions that you can use to manipulate your data.
 >
-> **[0:07](https://www.linkedin.com/learning/database-foundations-intro-to-databases/use-built-in-functions?u=76281980&t=7)** If you've ever applied a formula to your data in a spreadsheet application like Excel then you're familiar with the concept.
+> **[0:07](https://www.linkedin.com/learning/database-foundations-intro-to-databases/use-built-in-functions?u=76281980&t=7)** If you've ever applied a formula to your data in a spreadsheet application like [[Microsoft Excel|Excel]] then you're familiar with the concept.
 >
 > **[0:14](https://www.linkedin.com/learning/database-foundations-intro-to-databases/use-built-in-functions?u=76281980&t=14)** Functions take in values in the form of arguments, process them through some routine and then return new values.
 >
-> **[0:23](https://www.linkedin.com/learning/database-foundations-intro-to-databases/use-built-in-functions?u=76281980&t=23)** If I select just the Price column from the Products table by running lines three and four, you can see that we get a lot of information back.
+> **[0:23](https://www.linkedin.com/learning/database-foundations-intro-to-databases/use-built-in-functions?u=76281980&t=23)** If I select just the Price column from the [[Microsoft Products|Products]] table by running lines three and four, you can see that we get a lot of information back.
 >
 > **[0:31](https://www.linkedin.com/learning/database-foundations-intro-to-databases/use-built-in-functions?u=76281980&t=31)** There are 144 values here that correspond to the 144 products in the table.
 >
@@ -5138,7 +5085,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/database-foundations-intro-to-databases/use-built-in-functions?u=76281980&t=147)** It's actually including a bunch of more zeros but you get the point.
 >
-> **[2:30](https://www.linkedin.com/learning/database-foundations-intro-to-databases/use-built-in-functions?u=76281980&t=150)** If you run this exact same query inside of PostgreSQL, you'll get a better result.
+> **[2:30](https://www.linkedin.com/learning/database-foundations-intro-to-databases/use-built-in-functions?u=76281980&t=150)** If you run this exact same query inside of [[PostgreSQL]], you'll get a better result.
 >
 > **[2:36](https://www.linkedin.com/learning/database-foundations-intro-to-databases/use-built-in-functions?u=76281980&t=156)** So these give us some useful statistical information about the pricing of the Two Trees Olive Oil company's products.
 >
@@ -5196,7 +5143,7 @@ created: 2026-05-02
 >
 > **[5:13](https://www.linkedin.com/learning/database-foundations-intro-to-databases/use-built-in-functions?u=76281980&t=313)** There are far too many to go through today but I will point you to a couple of resources.
 >
-> **[5:18](https://www.linkedin.com/learning/database-foundations-intro-to-databases/use-built-in-functions?u=76281980&t=318)** On this page is the documentation for SQL Server's functions that break them down into categories and you can see the long list here on the left side of the screen.
+> **[5:18](https://www.linkedin.com/learning/database-foundations-intro-to-databases/use-built-in-functions?u=76281980&t=318)** On this page is the documentation for [[Microsoft SQL Server|SQL Server]]'s functions that break them down into categories and you can see the long list here on the left side of the screen.
 >
 > **[5:27](https://www.linkedin.com/learning/database-foundations-intro-to-databases/use-built-in-functions?u=76281980&t=327)** If you click into the categories, you can find information about different functions.
 >
@@ -5204,11 +5151,11 @@ created: 2026-05-02
 >
 > **[5:36](https://www.linkedin.com/learning/database-foundations-intro-to-databases/use-built-in-functions?u=76281980&t=336)** PostgreSQL has a similar page to document the built-in functions on that platform.
 >
-> **[5:41](https://www.linkedin.com/learning/database-foundations-intro-to-databases/use-built-in-functions?u=76281980&t=341)** I recommend bookmarking these if you plan on doing continued work in either platform as they're very handy reference to have available when you're building your own databases.
+> **[5:41](https://www.linkedin.com/learning/database-foundations-intro-to-databases/use-built-in-functions?u=76281980&t=341)** I recommend bookmarking these if you plan on doing continued work in either platform as they're very handy reference to have available when you're building your own [[Databases]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (14), data (8), database (2), [[PostgreSQL]] (2), application (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (14), [[PostgreSQL]] (2), [[Microsoft Excel|Excel]] (1), [[Microsoft SQL Server|Sql server]] (1), [[Databases]] (1)
 > **Versions:** 27.99 (6), 6.99 (1), 17.59 (1), 17.595263 (1), 17.60 (1)
 > **Env Vars:** max (3), min (1), avg (1), round (1), sql (1)
 > **CLI Commands:** find (6)
@@ -5216,18 +5163,17 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Aggregate data with GROUP BY
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/aggregate-data-with-group-by?u=76281980)
+#### [Aggregate data with GROUP BY](https://www.linkedin.com/learning/database-foundations-intro-to-databases/aggregate-data-with-group-by?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/database-foundations-intro-to-databases/aggregate-data-with-group-by?u=76281980&t=0)** - It's not uncommon for many of your data rows to contain the same value.
 >
-> **[0:05](https://www.linkedin.com/learning/database-foundations-intro-to-databases/aggregate-data-with-group-by?u=76281980&t=5)** For instance this query here that takes the CategoryDescription from a categories table, and the SQL column from the product table.
+> **[0:05](https://www.linkedin.com/learning/database-foundations-intro-to-databases/aggregate-data-with-group-by?u=76281980&t=5)** For instance this query here that takes the CategoryDescription from a categories table, and the [[SQL]] column from the product table.
 >
 > **[0:12](https://www.linkedin.com/learning/database-foundations-intro-to-databases/aggregate-data-with-group-by?u=76281980&t=12)** when I run it I get all of my unique skills from the database and the categories that they belong to.
 >
-> **[0:18](https://www.linkedin.com/learning/database-foundations-intro-to-databases/aggregate-data-with-group-by?u=76281980&t=18)** There are olive oils, flavor infused oils, and if I scroll through the list you'll see some products in a Bath and Beauty category.
+> **[0:18](https://www.linkedin.com/learning/database-foundations-intro-to-databases/aggregate-data-with-group-by?u=76281980&t=18)** There are olive oils, flavor infused oils, and if I scroll through the list you'll see some [[Microsoft Products|products]] in a Bath and Beauty category.
 >
 > **[0:27](https://www.linkedin.com/learning/database-foundations-intro-to-databases/aggregate-data-with-group-by?u=76281980&t=27)** And there's a few right there.
 >
@@ -5301,15 +5247,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), product (5), database (3), [[Microsoft Products|Products]] (3), [[SQL]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[SQL]] (2)
 > **Env Vars:** group (4), count (4), sql (2), order (2), sku (2)
 > **SQL:** group by (4), order by (2), where (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - it (1)
 
-#### Filtering groups with HAVING
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/filtering-groups-with-having?u=76281980)
+#### [Filtering groups with HAVING](https://www.linkedin.com/learning/database-foundations-intro-to-databases/filtering-groups-with-having?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5317,7 +5262,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/database-foundations-intro-to-databases/filtering-groups-with-having?u=76281980&t=5)** When you want to filter out entire groups from the results, then you'll use the having clause.
 >
-> **[0:11](https://www.linkedin.com/learning/database-foundations-intro-to-databases/filtering-groups-with-having?u=76281980&t=11)** I currently have the query from the prior movie, that groups all of the products together by the category description.
+> **[0:11](https://www.linkedin.com/learning/database-foundations-intro-to-databases/filtering-groups-with-having?u=76281980&t=11)** I currently have the query from the prior movie, that groups all of the [[Microsoft Products|products]] together by the category description.
 >
 > **[0:18](https://www.linkedin.com/learning/database-foundations-intro-to-databases/filtering-groups-with-having?u=76281980&t=18)** Let's run it to see where we're starting with.
 >
@@ -5391,13 +5336,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (11), database (2), data (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (11)
 > **CLI Commands:** find (1)
 > **Env Vars:** sku (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Query data
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/challenge-query-data?u=76281980)
+#### [Challenge: Query data](https://www.linkedin.com/learning/database-foundations-intro-to-databases/challenge-query-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5427,7 +5371,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), data (1), database (1), next (1)
 > **CLI Commands:** find (1)
 > **Versions:** 29.57353 (1)
 > **Cross-References:** in the next (1)
@@ -5436,8 +5379,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Query data
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-query-data?u=76281980)
+#### [Solution: Query data](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-query-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5451,7 +5393,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-query-data?u=76281980&t=25)** So question one was to convert size from ounces to milliliters.
 >
-> **[0:33](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-query-data?u=76281980&t=33)** Question two is to find out how many products are in each size and question three was to find the highest priced product in the cosmetic product line.
+> **[0:33](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-query-data?u=76281980&t=33)** Question two is to find out how many [[Microsoft Products|products]] are in each size and question three was to find the highest priced product in the cosmetic product line.
 >
 > **[0:54](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-query-data?u=76281980&t=54)** All right.
 >
@@ -5597,7 +5539,7 @@ created: 2026-05-02
 >
 > **[6:31](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-query-data?u=76281980&t=391)** We can also select the max price from products.products where category ID equals three and get rid of this order by, and this will just return just the single value 2199.
 >
-> **[6:44](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-query-data?u=76281980&t=404)** So we don't have the rest of them.
+> **[6:44](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-query-data?u=76281980&t=404)** So we don't have the [[Representational State Transfer (REST)|rest]] of them.
 >
 > **[6:47](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-query-data?u=76281980&t=407)** Now we know which one is the highest price, and we can use that to filter down our products.
 >
@@ -5665,7 +5607,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (27), product (15), data (4), database (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (27), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** sku (8), txt (1)
 > **CLI Commands:** find (5), make (3)
 > **Versions:** 21.99 (3), 29.57353 (1)
@@ -5674,8 +5616,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** it's like (1)
 
-#### Solution: Query summary statistics
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-query-summary-statistics?u=76281980)
+#### [Solution: Query summary statistics](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-query-summary-statistics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5847,7 +5788,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (5), database (1)
 > **Env Vars:** where (4), select (3), group (3), edm (3), sum (3)
 > **SQL:** where (4), select (3), group by (3), having (2), order by (2)
 > **CLI Commands:** find (1)
@@ -5859,8 +5799,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/database-foundations-intro-to-databases/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5870,11 +5809,11 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/database-foundations-intro-to-databases/next-steps?u=76281980&t=14)** Here's some ideas on where to go next.
 >
-> **[0:17](https://www.linkedin.com/learning/database-foundations-intro-to-databases/next-steps?u=76281980&t=17)** First, you can continue experimenting with the SQL Server and PostgreSQL servers that you've already installed or search hub.[docker.com](https://docker.com) for additional platforms to test drive.
+> **[0:17](https://www.linkedin.com/learning/database-foundations-intro-to-databases/next-steps?u=76281980&t=17)** First, you can continue experimenting with the [[Microsoft SQL Server|SQL Server]] and [[PostgreSQL]] servers that you've already installed or search hub.[docker.com](https://docker.com) for additional platforms to test drive.
 >
 > **[0:29](https://www.linkedin.com/learning/database-foundations-intro-to-databases/next-steps?u=76281980&t=29)** We barely scratched the surface of the graphical client that we used for this course.
 >
-> **[0:33](https://www.linkedin.com/learning/database-foundations-intro-to-databases/next-steps?u=76281980&t=33)** If you'd like to learn more about my favorite user interface, look for my Azure Data Studio Essential Training course, and if you didn't like Azure Data Studio, that's fine too.
+> **[0:33](https://www.linkedin.com/learning/database-foundations-intro-to-databases/next-steps?u=76281980&t=33)** If you'd like to learn more about my favorite user interface, look for my [[Microsoft Azure|Azure]] Data Studio Essential Training course, and if you didn't like Azure Data Studio, that's fine too.
 >
 > **[0:43](https://www.linkedin.com/learning/database-foundations-intro-to-databases/next-steps?u=76281980&t=43)** There's a whole bunch of alternative clients out there, and I encourage you to explore some of the other options.
 >
@@ -5882,7 +5821,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), [[Microsoft Azure|Azure]] (2), data (2), next (1), [[Microsoft SQL Server|Sql server]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Microsoft SQL Server|Sql server]] (1), [[PostgreSQL]] (1)
 > **CLI Commands:** docker (2)
 > **URLs:** [docker.com](https://docker.com) (1)
 > **Env Vars:** sql (1)

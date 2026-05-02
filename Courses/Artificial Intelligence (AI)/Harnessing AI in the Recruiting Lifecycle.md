@@ -67,14 +67,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing AI into the hiring process
-> [LinkedIn Learning](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/introducing-ai-into-the-hiring-process?u=76281980)
+#### [Introducing AI into the hiring process](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/introducing-ai-into-the-hiring-process?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/introducing-ai-into-the-hiring-process?u=76281980&t=0)** - Imagine how much more you could accomplish with a full-time assistant who saved you time and improves your results.
 >
-> **[0:08](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/introducing-ai-into-the-hiring-process?u=76281980&t=8)** AI is that assistant who makes you more efficient by saving you significant time when you're sourcing, interviewing, and evaluating candidates.
+> **[0:08](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/introducing-ai-into-the-hiring-process?u=76281980&t=8)** AI is that assistant who makes you more efficient by saving you significant time when you're sourcing, [[Interviewing]], and evaluating candidates.
 >
 > **[0:19](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/introducing-ai-into-the-hiring-process?u=76281980&t=19)** In this course, I share real-world examples of how AI can uncover insights that otherwise might be missed.
 >
@@ -90,12 +89,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Interviewing]] (2)
+> **Frameworks & Libraries:** [[Interviewing]] (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - imagine (1)
 
-#### Exploring the available AI tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/exploring-the-available-ai-tools?u=76281980)
+#### [Exploring the available AI tools](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/exploring-the-available-ai-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -113,7 +111,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2)
 > **Env Vars:** crm (1), ats (1)
 > **Speakers:** - ai (1)
 
@@ -122,8 +119,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Utilizing AI for analyzing past successful hires
-> [LinkedIn Learning](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/utilizing-ai-for-analyzing-past-successful-hires?u=76281980)
+#### [Utilizing AI for analyzing past successful hires](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/utilizing-ai-for-analyzing-past-successful-hires?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -139,11 +135,11 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/utilizing-ai-for-analyzing-past-successful-hires?u=76281980&t=39)** AI can review data from previous hires and identify correlations that might not be obvious to us.
 >
-> **[0:46](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/utilizing-ai-for-analyzing-past-successful-hires?u=76281980&t=46)** For example, AI can reveal the successful hires for a specific role, shared certain soft skills, backgrounds, or unique career paths.
+> **[0:46](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/utilizing-ai-for-analyzing-past-successful-hires?u=76281980&t=46)** For example, AI can reveal the successful hires for a specific role, shared certain [[Soft Skills]], backgrounds, or unique career paths.
 >
 > **[0:57](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/utilizing-ai-for-analyzing-past-successful-hires?u=76281980&t=57)** This information then helps you create a more refined profile of your ideal candidate Before you begin to utilize AI tools.
 >
-> **[1:06](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/utilizing-ai-for-analyzing-past-successful-hires?u=76281980&t=66)** Review how your company defines success and what they offer to improve the probability of increased successful hires.
+> **[1:06](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/utilizing-ai-for-analyzing-past-successful-hires?u=76281980&t=66)** Review how your company defines success and what they offer to improve the [[Probability]] of increased successful hires.
 >
 > **[1:17](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/utilizing-ai-for-analyzing-past-successful-hires?u=76281980&t=77)** What does a new hire need to achieve in the first six or 12 months to be considered a great hire to analyze past successful hires?
 >
@@ -165,7 +161,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/utilizing-ai-for-analyzing-past-successful-hires?u=76281980&t=147)** However, traditional assessment tools often rely on manual analysis and subjective judgment, which can miss subtle patterns or correlations.
 >
-> **[2:39](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/utilizing-ai-for-analyzing-past-successful-hires?u=76281980&t=159)** In comparison, AI uses advanced algorithms to process and cross-reference diverse data, including resumes, performance metrics, interview feedback, and even social media activity.
+> **[2:39](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/utilizing-ai-for-analyzing-past-successful-hires?u=76281980&t=159)** In comparison, AI uses advanced [[Algorithms]] to process and cross-reference diverse data, including resumes, [[Performance Metrics]], interview feedback, and even social media activity.
 >
 > **[2:55](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/utilizing-ai-for-analyzing-past-successful-hires?u=76281980&t=175)** By automating this process, AI not only reduces the time spent on analysis, but also increases the accuracy and consistency of identifying what truly makes a successful hire.
 >
@@ -175,7 +171,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/utilizing-ai-for-analyzing-past-successful-hires?u=76281980&t=218)** You should then prioritize candidates with similar experience and traits in your hiring process.
 >
-> **[3:45](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/utilizing-ai-for-analyzing-past-successful-hires?u=76281980&t=225)** This targeted approach increases the chance that the salespeople you hire will excel in the role.
+> **[3:45](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/utilizing-ai-for-analyzing-past-successful-hires?u=76281980&t=225)** This targeted approach increases the chance that the salespeople you hire will [[Microsoft Excel|excel]] in the role.
 >
 > **[3:52](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/utilizing-ai-for-analyzing-past-successful-hires?u=76281980&t=232)** Several AI analysis driven tools are available to help you analyze past hires, and improve your future recruitment efforts.
 >
@@ -183,14 +179,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), data (3), career (2), [[Soft Skills]] (1), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Soft Skills]] (1), [[Probability]] (1), [[Algorithms]] (1), [[Performance Metrics]] (1), [[Microsoft Excel|Excel]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Prerequisites:** before you begin (1)
 > **Speakers:** - you (1)
 
-#### Leveraging AI for cultural fit assessment
-> [LinkedIn Learning](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/leveraging-ai-for-cultural-fit-assessment?u=76281980)
+#### [Leveraging AI for cultural fit assessment](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/leveraging-ai-for-cultural-fit-assessment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -212,7 +207,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/leveraging-ai-for-cultural-fit-assessment?u=76281980&t=70)** A great example is Southwest Airlines, who happens to be my favorite airline.
 >
-> **[1:15](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/leveraging-ai-for-cultural-fit-assessment?u=76281980&t=75)** When I was a recruiter in Dallas, I noticed many of the jobs at the corporate office paid less than other companies.
+> **[1:15](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/leveraging-ai-for-cultural-fit-assessment?u=76281980&t=75)** When I was a recruiter in Dallas, I noticed many of the jobs at the corporate [[Microsoft Office|office]] paid less than other companies.
 >
 > **[1:23](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/leveraging-ai-for-cultural-fit-assessment?u=76281980&t=83)** However, I quickly learned that people wanted to work at Southwest Airlines because of their phenomenal company culture.
 >
@@ -252,13 +247,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), business (3), leadership (2), [[Microsoft Office|Office]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (3)
 > **Speakers:** - over (1)
 
-#### AI for optimizing interview questions
-> [LinkedIn Learning](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-for-optimizing-interview-questions?u=76281980)
+#### [AI for optimizing interview questions](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-for-optimizing-interview-questions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -284,7 +278,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-for-optimizing-interview-questions?u=76281980&t=69)** As a result, the leadership continued to hire individuals they liked most, not necessarily the most qualified candidate.
 >
-> **[1:18](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-for-optimizing-interview-questions?u=76281980&t=78)** By standardizing interview questions, they reduced bias and improved decision-making.
+> **[1:18](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-for-optimizing-interview-questions?u=76281980&t=78)** By standardizing interview questions, they reduced bias and improved [[Decision-Making]].
 >
 > **[1:24](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-for-optimizing-interview-questions?u=76281980&t=84)** Within 18 months, over 20% of their leadership team were diverse employees.
 >
@@ -294,11 +288,11 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-for-optimizing-interview-questions?u=76281980&t=113)** Use AI to generate role-specific interview questions.
 >
-> **[1:58](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-for-optimizing-interview-questions?u=76281980&t=118)** These AI tools use natural language processing, also known as NLP, and machine learning algorithms to understand the specific requirements of a role and create questions that target those needs.
+> **[1:58](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-for-optimizing-interview-questions?u=76281980&t=118)** These AI tools use [[Natural Language Processing (NLP)|natural language processing]], also known as NLP, and machine learning [[Algorithms]] to understand the specific requirements of a role and create questions that target those needs.
 >
 > **[2:12](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-for-optimizing-interview-questions?u=76281980&t=132)** For example, if a job description emphasized collaboration and negotiating, AI would generate questions that specifically probe these areas so you could assess the most critical competencies.
 >
-> **[2:26](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-for-optimizing-interview-questions?u=76281980&t=146)** If you simply copy and paste a job description into the free version of ChatGPT and request the 15 most relevant interview questions for the position, you'll be amazed at the results.
+> **[2:26](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-for-optimizing-interview-questions?u=76281980&t=146)** If you simply copy and paste a job description into the free version of [[ChatGPT]] and request the 15 most relevant interview questions for the position, you'll be amazed at the results.
 >
 > **[2:40](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-for-optimizing-interview-questions?u=76281980&t=160)** These AI tools are designed to help us become better, more consistent interviewers, enabling us to hire and retain top talent.
 >
@@ -320,7 +314,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), leadership (3), data (2), job description (2), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Algorithms]] (1), [[ChatGPT]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** nlp (1)
 > **Definitions:** known as (1)
@@ -332,12 +326,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI-driven interview scheduling and coordination
-> [LinkedIn Learning](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-driven-interview-scheduling-and-coordination?u=76281980)
+#### [AI-driven interview scheduling and coordination](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-driven-interview-scheduling-and-coordination?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-driven-interview-scheduling-and-coordination?u=76281980&t=0)** - Timing impacts everything you do throughout the interviewing and hiring process.
+> **[0:00](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-driven-interview-scheduling-and-coordination?u=76281980&t=0)** - Timing impacts everything you do throughout the [[Interviewing]] and hiring process.
 >
 > **[0:06](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-driven-interview-scheduling-and-coordination?u=76281980&t=6)** It can either enhance your ability to attract and hire the best talent, or cause you to lose top talent due to delays.
 >
@@ -363,7 +356,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-driven-interview-scheduling-and-coordination?u=76281980&t=95)** The AI tool can even adjust for different time zones, ensuring that both the candidate and the interviewers are available at mutually convenient times.
 >
-> **[1:47](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-driven-interview-scheduling-and-coordination?u=76281980&t=107)** After determining the best possible times, the AI scheduler sends out calendar invites to all parties involved, complete with links to virtual meeting platforms like Zoom or Microsoft Teams if the interview is remote.
+> **[1:47](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-driven-interview-scheduling-and-coordination?u=76281980&t=107)** After determining the best possible times, the AI scheduler sends out calendar invites to all parties involved, complete with links to virtual meeting platforms like [[Zoom]] or [[Microsoft Teams]] if the interview is remote.
 >
 > **[2:02](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-driven-interview-scheduling-and-coordination?u=76281980&t=122)** This automated process eliminates the need for multiple emails and phone calls, significantly reducing the time to schedule an interview.
 >
@@ -371,7 +364,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-driven-interview-scheduling-and-coordination?u=76281980&t=140)** By reducing manual intervention, these tools speed up the scheduling process and reduce errors and miscommunications.
 >
-> **[2:29](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-driven-interview-scheduling-and-coordination?u=76281980&t=149)** Through the automation of the scheduling process, AI tools allow recruiters to focus on more strategic aspects of recruitment, such as candidate engagement and relationship building.
+> **[2:29](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-driven-interview-scheduling-and-coordination?u=76281980&t=149)** Through the automation of the scheduling process, AI tools allow recruiters to focus on more strategic aspects of recruitment, such as candidate engagement and [[Relationship Building]].
 >
 > **[2:42](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-driven-interview-scheduling-and-coordination?u=76281980&t=162)** These tools improve the efficiency of the hiring process by minimizing scheduling delays, which can sometimes lead to losing top talent to your competitors.
 >
@@ -383,14 +376,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), [[Interviewing]] (2), management (1), [[Zoom]] (1), [[Microsoft Teams]] (1)
+> **Frameworks & Libraries:** [[Interviewing]] (2), [[Zoom]] (1), [[Microsoft Teams]] (1), [[Relationship Building]] (1)
 > **Analogies:** imagine (1), for example (1), such as (1)
 > **Env Vars:** crm (1), ats (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - timing (1)
 
-#### AI for identifying career paths and growth potential
-> [LinkedIn Learning](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-for-identifying-career-paths-and-growth-potential?u=76281980)
+#### [AI for identifying career paths and growth potential](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-for-identifying-career-paths-and-growth-potential?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -420,7 +412,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-for-identifying-career-paths-and-growth-potential?u=76281980&t=140)** It can then identify potential career paths for advancement that align with the candidate's strengths and your company's needs.
 >
-> **[2:30](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-for-identifying-career-paths-and-growth-potential?u=76281980&t=150)** This predictive ability enables your company to create a personalized career development plan, which helps your employees grow within your company, and at the same time, reduces turnover.
+> **[2:30](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-for-identifying-career-paths-and-growth-potential?u=76281980&t=150)** This predictive ability enables your company to create a personalized [[Career Development]] plan, which helps your employees grow within your company, and at the same time, reduces turnover.
 >
 > **[2:46](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-for-identifying-career-paths-and-growth-potential?u=76281980&t=166)** So how exactly does AI align career paths With organizational growth?
 >
@@ -440,7 +432,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), career (9), data (3), strengths (2), [[Career Development]] (1)
+> **Frameworks & Libraries:** [[Career Development]] (1)
 > **Analogies:** imagine (1), for example (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** seo (1)
@@ -448,8 +440,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - imagine (1)
 
-#### The role of AI in understanding the new workforce model
-> [LinkedIn Learning](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-s-role-in-understanding-the-new-workforce-model?u=76281980)
+#### [The role of AI in understanding the new workforce model](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-s-role-in-understanding-the-new-workforce-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -513,7 +504,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (18), data (3), [[Analytics]] (1), management (1), application (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
@@ -524,8 +514,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI in screening and initial candidate assessments
-> [LinkedIn Learning](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-in-screening-and-initial-candidate-assessments?u=76281980)
+#### [AI in screening and initial candidate assessments](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-in-screening-and-initial-candidate-assessments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -533,7 +522,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-in-screening-and-initial-candidate-assessments?u=76281980&t=8)** Too often when candidates are nervous or shy, it could be misinterpreted as inability.
 >
-> **[0:15](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-in-screening-and-initial-candidate-assessments?u=76281980&t=15)** As a result, the best talent can be unfairly screened out early in your interviewing process.
+> **[0:15](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-in-screening-and-initial-candidate-assessments?u=76281980&t=15)** As a result, the best talent can be unfairly screened out early in your [[Interviewing]] process.
 >
 > **[0:22](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-in-screening-and-initial-candidate-assessments?u=76281980&t=22)** In contrast, an AI-driven interview process offers a powerful way to enhance the efficiency, fairness, and objectivity of candidate screening and assessments.
 >
@@ -543,7 +532,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-in-screening-and-initial-candidate-assessments?u=76281980&t=64)** These tools can rank candidates based on predetermined criteria, allowing you to focus on the best candidates.
 >
-> **[1:13](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-in-screening-and-initial-candidate-assessments?u=76281980&t=73)** AI will also assess candidates' soft skills throughout the analysis of language patterns in their applications or responses in preliminary questionnaires.
+> **[1:13](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-in-screening-and-initial-candidate-assessments?u=76281980&t=73)** AI will also assess candidates' [[Soft Skills]] throughout the analysis of language patterns in their applications or responses in preliminary questionnaires.
 >
 > **[1:24](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-in-screening-and-initial-candidate-assessments?u=76281980&t=84)** This ensures a more holistic view of each candidate right from the start.
 >
@@ -553,7 +542,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-in-screening-and-initial-candidate-assessments?u=76281980&t=100)** Even with the best intentions, we can be influenced by our unconscious biases that affect our judgment.
 >
-> **[1:50](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-in-screening-and-initial-candidate-assessments?u=76281980&t=110)** AI tools operate based on data and algorithms, which can be designed to ignore factors like gender, race, age, and other characteristics unrelated to job performance.
+> **[1:50](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-in-screening-and-initial-candidate-assessments?u=76281980&t=110)** AI tools operate based on data and [[Algorithms]], which can be designed to ignore factors like gender, race, age, and other characteristics unrelated to job performance.
 >
 > **[2:04](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-in-screening-and-initial-candidate-assessments?u=76281980&t=124)** By focusing solely on qualifications, experience, and skills relevant to the role, AI-driven screening helps ensure a fairer selection process.
 >
@@ -565,7 +554,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-in-screening-and-initial-candidate-assessments?u=76281980&t=154)** So this dramatically speeds up the initial stages of hiring.
 >
-> **[2:39](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-in-screening-and-initial-candidate-assessments?u=76281980&t=159)** AI tools can also save you time by providing candidates with real-time feedback about the status of their application.
+> **[2:39](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-in-screening-and-initial-candidate-assessments?u=76281980&t=159)** AI tools can also save you time by providing candidates with [[Real-Time]] feedback about the status of their application.
 >
 > **[2:49](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-in-screening-and-initial-candidate-assessments?u=76281980&t=169)** So how do you improve objectivity of candidate assessments?
 >
@@ -593,7 +582,7 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-in-screening-and-initial-candidate-assessments?u=76281980&t=243)** Ensure that your recruitment team understands how to use AI tools effectively.
 >
-> **[4:09](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-in-screening-and-initial-candidate-assessments?u=76281980&t=249)** Provide training on interpreting AI-generated insights and integrating them into the decision-making process.
+> **[4:09](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-in-screening-and-initial-candidate-assessments?u=76281980&t=249)** Provide training on interpreting AI-generated insights and integrating them into the [[Decision-Making]] process.
 >
 > **[4:17](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-in-screening-and-initial-candidate-assessments?u=76281980&t=257)** Fourth, monitor and adjust.
 >
@@ -601,7 +590,7 @@ created: 2026-05-02
 >
 > **[4:24](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-in-screening-and-initial-candidate-assessments?u=76281980&t=264)** Pay attention to any patterns that may indicate bias or inefficiency, and be ready to adjust your approach as needed.
 >
-> **[4:33](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-in-screening-and-initial-candidate-assessments?u=76281980&t=273)** Fifth, protect data privacy.
+> **[4:33](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-in-screening-and-initial-candidate-assessments?u=76281980&t=273)** Fifth, protect [[Data Privacy]].
 >
 > **[4:36](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-in-screening-and-initial-candidate-assessments?u=76281980&t=276)** With the increasing use of AI, it's essential to safeguard candidate data.
 >
@@ -611,12 +600,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (22), data (4), [[Algorithms]] (2), [[Privacy]] (2), [[Interviewing]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Data Privacy]] (2), [[Interviewing]] (1), [[Soft Skills]] (1), [[Real-Time]] (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - has (1)
 
-#### Vitual interviews and AI integration
-> [LinkedIn Learning](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/vitual-interviews-and-ai-integration?u=76281980)
+#### [Vitual interviews and AI integration](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/vitual-interviews-and-ai-integration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -640,7 +628,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/vitual-interviews-and-ai-integration?u=76281980&t=79)** Second, AI-powered tools can analyze candidate behavior, including tone of voice, facial expressions, and body language, which can provide a comprehensive understanding of the candidate's confidence or engagement.
 >
-> **[1:36](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/vitual-interviews-and-ai-integration?u=76281980&t=96)** AI can determine if a candidate is anxious or unsure, allowing you to adjust your interviewing approach to make them more comfortable.
+> **[1:36](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/vitual-interviews-and-ai-integration?u=76281980&t=96)** AI can determine if a candidate is anxious or unsure, allowing you to adjust your [[Interviewing]] approach to make them more comfortable.
 >
 > **[1:46](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/vitual-interviews-and-ai-integration?u=76281980&t=106)** This improves the quality of your interaction during the interview and guarantees the candidates are being evaluated fairly.
 >
@@ -674,13 +662,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (16), data (3), [[Interviewing]] (2), feature (1)
+> **Frameworks & Libraries:** [[Interviewing]] (2)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - imagine (1)
 
-#### Building rapport and trust in an AI-augmented interview
-> [LinkedIn Learning](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/building-rapport-and-trust-in-an-ai-augmented-interview?u=76281980)
+#### [Building rapport and trust in an AI-augmented interview](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/building-rapport-and-trust-in-an-ai-augmented-interview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -688,7 +675,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/building-rapport-and-trust-in-an-ai-augmented-interview?u=76281980&t=6)** How do we harness the power of technology without losing the personal touch that makes a candidate feel truly valued?
 >
-> **[0:15](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/building-rapport-and-trust-in-an-ai-augmented-interview?u=76281980&t=15)** Achieving a balance between AI and the human element is essential to create an interviewing process that remains personal and engaging.
+> **[0:15](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/building-rapport-and-trust-in-an-ai-augmented-interview?u=76281980&t=15)** Achieving a balance between AI and the human element is essential to create an [[Interviewing]] process that remains personal and engaging.
 >
 > **[0:26](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/building-rapport-and-trust-in-an-ai-augmented-interview?u=76281980&t=26)** AI enhances interviews by providing real time analysis, bias reduction, and efficiency.
 >
@@ -714,7 +701,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/building-rapport-and-trust-in-an-ai-augmented-interview?u=76281980&t=100)** AI can analyze the candidate's background, interests, and previous interactions to tailor your interview process.
 >
-> **[1:49](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/building-rapport-and-trust-in-an-ai-augmented-interview?u=76281980&t=109)** AI tools can suggest personalize icebreakers or topics of discussion based on the candidate's LinkedIn profile.
+> **[1:49](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/building-rapport-and-trust-in-an-ai-augmented-interview?u=76281980&t=109)** AI tools can suggest personalize icebreakers or topics of discussion based on the candidate's [[LinkedIn]] profile.
 >
 > **[1:58](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/building-rapport-and-trust-in-an-ai-augmented-interview?u=76281980&t=118)** This approach makes candidates feel appreciated, which can result in more meaningful interactions.
 >
@@ -746,7 +733,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (17), [[Interviewing]] (2), power (1), application (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Interviewing]] (2), [[LinkedIn]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - as (1)
@@ -756,8 +743,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI for objective candidate comparison
-> [LinkedIn Learning](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-for-objective-candidate-comparison?u=76281980)
+#### [AI for objective candidate comparison](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-for-objective-candidate-comparison?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -769,11 +755,11 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-for-objective-candidate-comparison?u=76281980&t=17)** AI is transforming candidate comparisons and leading to fairer, smarter hiring decisions that you can trust.
 >
-> **[0:26](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-for-objective-candidate-comparison?u=76281980&t=26)** AI eliminates unconscious bias and subjective judgements that can cloud decision-making.
+> **[0:26](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-for-objective-candidate-comparison?u=76281980&t=26)** AI eliminates unconscious bias and subjective judgements that can cloud [[Decision-Making]].
 >
 > **[0:33](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-for-objective-candidate-comparison?u=76281980&t=33)** AI-driven tools will prevent you from overlooking the best candidates by providing objective candidate comparisons to help you reach data-driven hiring decisions.
 >
-> **[0:43](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-for-objective-candidate-comparison?u=76281980&t=43)** If employees are not engaged or your company is experiencing turnover issues, the origin of those issues were often mistakes made during the interviewing and hiring process.
+> **[0:43](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-for-objective-candidate-comparison?u=76281980&t=43)** If employees are not engaged or your company is experiencing turnover issues, the origin of those issues were often mistakes made during the [[Interviewing]] and hiring process.
 >
 > **[0:57](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-for-objective-candidate-comparison?u=76281980&t=57)** One of the greatest benefits of using AI in candidate comparisons is its ability to standardize the evaluation process.
 >
@@ -795,7 +781,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-for-objective-candidate-comparison?u=76281980&t=138)** By deleting this information, AI ensures that candidates are evaluated based solely on their qualifications and suitability for the role.
 >
-> **[2:29](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-for-objective-candidate-comparison?u=76281980&t=149)** This not only leads to fairer hiring decisions, but also promotes diversity and inclusion within the workplace.
+> **[2:29](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-for-objective-candidate-comparison?u=76281980&t=149)** This not only leads to fairer hiring decisions, but also promotes [[Diversity and Inclusion]] within the workplace.
 >
 > **[2:37](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-for-objective-candidate-comparison?u=76281980&t=157)** For example, AI analyzes a candidate's past performance, educational background, and work experience to predict their potential success in a new role.
 >
@@ -809,7 +795,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-for-objective-candidate-comparison?u=76281980&t=200)** And it even gets better.
 >
-> **[3:23](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-for-objective-candidate-comparison?u=76281980&t=203)** AI continuously learns and improves its algorithms based on new data, so its recommendations become increasingly accurate over time.
+> **[3:23](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-for-objective-candidate-comparison?u=76281980&t=203)** AI continuously learns and improves its [[Algorithms]] based on new data, so its recommendations become increasingly accurate over time.
 >
 > **[3:33](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-for-objective-candidate-comparison?u=76281980&t=213)** This adaptive capability allows AI to understand changing job market trends and organizational needs, providing you with updated information that could impact your hiring decisions.
 >
@@ -817,13 +803,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), data (6), next (1), cloud (1), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1), [[Interviewing]] (1), [[Diversity and Inclusion]] (1), [[Algorithms]] (1)
 > **Analogies:** for example (3), imagine (1), such as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - imagine (1)
 
-#### AI in predicting candidate success
-> [LinkedIn Learning](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-in-predicting-candidate-success?u=76281980)
+#### [AI in predicting candidate success](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-in-predicting-candidate-success?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -867,25 +852,24 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-in-predicting-candidate-success?u=76281980&t=159)** These insights can be applied by you to assess new candidates, resulting in you making more informed decisions.
 >
-> **[2:49](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-in-predicting-candidate-success?u=76281980&t=169)** AI can also review soft skills such as emotional intelligence or leadership potential, as well as cultural fit, which are all factors in long-term employee success.
+> **[2:49](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-in-predicting-candidate-success?u=76281980&t=169)** AI can also review [[Soft Skills]] such as emotional intelligence or leadership potential, as well as cultural fit, which are all factors in long-term employee success.
 >
 > **[3:03](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-in-predicting-candidate-success?u=76281980&t=183)** By assessing these attributes alongside more traditional qualifications, AI provides a holistic view of each candidate's potential, helping to ensure that the right individuals are selected.
 >
 > **[3:19](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-in-predicting-candidate-success?u=76281980&t=199)** Additionally, AI can predict how well a candidate will perform in specific job tasks or in the overall role.
 >
-> **[3:29](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-in-predicting-candidate-success?u=76281980&t=209)** AI can analyze data from similar positions and determine which candidates are most likely to excel based on their past performance and relevant experiences.
+> **[3:29](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-in-predicting-candidate-success?u=76281980&t=209)** AI can analyze data from similar positions and determine which candidates are most likely to [[Microsoft Excel|excel]] based on their past performance and relevant experiences.
 >
 > **[3:41](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-in-predicting-candidate-success?u=76281980&t=221)** The predictive capability of AI will help you not only hire individuals who can do a job, but identify those candidates who will thrive and contribute to the team and the company's success.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), data (5), [[Soft Skills]] (1), leadership (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Soft Skills]] (1), [[Microsoft Excel|Excel]] (1)
 > **Analogies:** imagine (1), such as (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - can (1)
 
-#### Balancing AI insights with human judgement
-> [LinkedIn Learning](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/balancing-ai-insights-with-human-judgement?u=76281980)
+#### [Balancing AI insights with human judgement](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/balancing-ai-insights-with-human-judgement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -917,7 +901,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/balancing-ai-insights-with-human-judgement?u=76281980&t=110)** Predict candidate success, streamline your hiring process, and reduce bias.
 >
-> **[1:57](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/balancing-ai-insights-with-human-judgement?u=76281980&t=117)** AI driven tools can identify candidates with unconventional backgrounds who possess the skills and potential to excel in a role and surface hidden talents, which can improve the quality of hire.
+> **[1:57](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/balancing-ai-insights-with-human-judgement?u=76281980&t=117)** AI driven tools can identify candidates with unconventional backgrounds who possess the skills and potential to [[Microsoft Excel|excel]] in a role and surface hidden talents, which can improve the quality of hire.
 >
 > **[2:10](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/balancing-ai-insights-with-human-judgement?u=76281980&t=130)** However, while AI offers many benefits, it is not without limitations.
 >
@@ -931,7 +915,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/balancing-ai-insights-with-human-judgement?u=76281980&t=172)** Human judgment brings a unique perspective to the hiring process that AI cannot duplicate.
 >
-> **[3:00](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/balancing-ai-insights-with-human-judgement?u=76281980&t=180)** Recruiters and hiring managers can assess a candidate's soft skills, cultural fit, and overall potential in ways that AI cannot.
+> **[3:00](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/balancing-ai-insights-with-human-judgement?u=76281980&t=180)** Recruiters and hiring managers can assess a candidate's [[Soft Skills]], cultural fit, and overall potential in ways that AI cannot.
 >
 > **[3:09](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/balancing-ai-insights-with-human-judgement?u=76281980&t=189)** They can ask probing questions during interviews, observe non-verbal cues, and gauge a candidate's enthusiasm and passion for the role.
 >
@@ -947,7 +931,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (18), data (8), power (1), strengths (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** picture (1)
@@ -958,8 +942,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI-enhanced feedback loops
-> [LinkedIn Learning](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-enhanced-feedback-loops?u=76281980)
+#### [AI-enhanced feedback loops](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-enhanced-feedback-loops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -969,7 +952,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-enhanced-feedback-loops?u=76281980&t=22)** So how exactly does AI enhance feedback loop?
 >
-> **[0:26](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-enhanced-feedback-loops?u=76281980&t=26)** First and foremost, real-time feedback to candidates.
+> **[0:26](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-enhanced-feedback-loops?u=76281980&t=26)** First and foremost, [[Real-Time]] feedback to candidates.
 >
 > **[0:30](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-enhanced-feedback-loops?u=76281980&t=30)** One of the most significant advantages of AI in the feedback process is the ability to provide real-time feedback to candidates.
 >
@@ -1017,12 +1000,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), [[Real-Time]] (2), data (2), prompt (1), strengths (1)
+> **Frameworks & Libraries:** [[Real-Time]] (2)
 > **Analogies:** for example (2), imagine (1)
 > **Speakers:** - i (1)
 
-#### AI for offer optimization and acceptance
-> [LinkedIn Learning](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-for-offer-optimization-and-acceptance?u=76281980)
+#### [AI for offer optimization and acceptance](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-for-offer-optimization-and-acceptance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1050,7 +1032,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-for-offer-optimization-and-acceptance?u=76281980&t=102)** Let's review five ways that AI helps to optimize the offer process.
 >
-> **[1:48](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-for-offer-optimization-and-acceptance?u=76281980&t=108)** First, predictive analytics.
+> **[1:48](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-for-offer-optimization-and-acceptance?u=76281980&t=108)** First, [[Predictive Analytics]].
 >
 > **[1:51](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-for-offer-optimization-and-acceptance?u=76281980&t=111)** Based on a candidate's profile and previous behavior, AI can predict how likely a candidate is to accept an offer.
 >
@@ -1060,7 +1042,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-for-offer-optimization-and-acceptance?u=76281980&t=134)** AI can help you write customized offer letters to include areas that resonate with each candidate.
 >
-> **[2:21](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-for-offer-optimization-and-acceptance?u=76281980&t=141)** This could include things like career development, advancement potential, or aligning benefits with personal interest.
+> **[2:21](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-for-offer-optimization-and-acceptance?u=76281980&t=141)** This could include things like [[Career Development]], advancement potential, or aligning benefits with personal interest.
 >
 > **[2:30](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-for-offer-optimization-and-acceptance?u=76281980&t=150)** Third, real time adjustments.
 >
@@ -1088,12 +1070,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), data (4), career (1), [[Predictive Analytics]] (1), next (1)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (1), [[Career Development]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - are (1)
 
-#### AI in post-hire engagement and retention
-> [LinkedIn Learning](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-in-post-hire-engagement-and-retention?u=76281980)
+#### [AI in post-hire engagement and retention](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-in-post-hire-engagement-and-retention?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1123,7 +1104,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-in-post-hire-engagement-and-retention?u=76281980&t=106)** AI can analyze these factors in real time, providing valuable insights into how engaged in employees are and identifying potential issues before they lead to disengagement.
 >
-> **[2:01](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-in-post-hire-engagement-and-retention?u=76281980&t=121)** AI tools contract employee sentiment through surveys, feedback forms, and even communication patterns and company messaging platforms.
+> **[2:01](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-in-post-hire-engagement-and-retention?u=76281980&t=121)** AI tools contract employee sentiment through surveys, feedback [[Forms]], and even communication patterns and company [[Messaging Platforms]].
 >
 > **[2:11](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-in-post-hire-engagement-and-retention?u=76281980&t=131)** For example, if AI detects a decline in engagement or negative communications within a specific team, a team manager can be alerted.
 >
@@ -1135,7 +1116,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-in-post-hire-engagement-and-retention?u=76281980&t=174)** AI can help reduce these risks by identifying patterns that may indicate an employee is at risk of leaving.
 >
-> **[3:02](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-in-post-hire-engagement-and-retention?u=76281980&t=182)** This predictive capability allows HR teams to take proactive measures, such as offering additional support, career development opportunities, or adjustments to job roles to retain these employees.
+> **[3:02](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-in-post-hire-engagement-and-retention?u=76281980&t=182)** This predictive capability allows HR teams to take proactive measures, such as offering additional support, [[Career Development]] opportunities, or adjustments to job roles to retain these employees.
 >
 > **[3:16](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-in-post-hire-engagement-and-retention?u=76281980&t=196)** It can also offer actionable recommendations to improve retention.
 >
@@ -1149,13 +1130,13 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-in-post-hire-engagement-and-retention?u=76281980&t=244)** And finally, AI can optimize your rewards, incentive, and recognition programs, sharing when it's best to reward or recognize employees.
 >
-> **[4:16](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-in-post-hire-engagement-and-retention?u=76281980&t=256)** The hiring, interviewing, training, and retention of top talent is a critical part of a successful business.
+> **[4:16](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-in-post-hire-engagement-and-retention?u=76281980&t=256)** The hiring, [[Interviewing]], training, and retention of top talent is a critical part of a successful business.
 >
 > **[4:24](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-in-post-hire-engagement-and-retention?u=76281980&t=264)** Implement the tools and strategies suggested and you'll be well on your way to building a loyal, motivated, and high performing workforce.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), business (2), career (2), [[Forms]] (1), [[Messaging Platforms]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Messaging Platforms]] (1), [[Career Development]] (1), [[Interviewing]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)

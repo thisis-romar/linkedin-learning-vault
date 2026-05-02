@@ -87,16 +87,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Solving microservices problems with patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-design-patterns-23454771/solving-microservices-problems-with-patterns?u=76281980)
+#### [Solving microservices problems with patterns](https://www.linkedin.com/learning/microservices-design-patterns-23454771/solving-microservices-problems-with-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microservices-design-patterns-23454771/solving-microservices-problems-with-patterns?u=76281980&t=0)** - As you venture into the world of microservices, one thing becomes very clear.
+> **[0:00](https://www.linkedin.com/learning/microservices-design-patterns-23454771/solving-microservices-problems-with-patterns?u=76281980&t=0)** - As you venture into the world of [[Microservices]], one thing becomes very clear.
 >
 > **[0:05](https://www.linkedin.com/learning/microservices-design-patterns-23454771/solving-microservices-problems-with-patterns?u=76281980&t=5)** The problems that you encounter in building, converting, and operating microservices are not unique just to you.
 >
-> **[0:14](https://www.linkedin.com/learning/microservices-design-patterns-23454771/solving-microservices-problems-with-patterns?u=76281980&t=14)** As with all of software engineering, we as a collective create design patterns so we can fix the problem once and reuse that pattern every time we encounter it.
+> **[0:14](https://www.linkedin.com/learning/microservices-design-patterns-23454771/solving-microservices-problems-with-patterns?u=76281980&t=14)** As with all of software engineering, we as a collective create [[Design Patterns]] so we can fix the problem once and reuse that pattern every time we encounter it.
 >
 > **[0:26](https://www.linkedin.com/learning/microservices-design-patterns-23454771/solving-microservices-problems-with-patterns?u=76281980&t=26)** Hi, my name is Frank Moley.
 >
@@ -108,15 +107,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microservices]] (2), [[Engineering]] (1), [[Design Patterns]] (1), cloud (1), business (1)
+> **Frameworks & Libraries:** [[Microservices]] (2), [[Design Patterns]] (1)
 > **Speakers:** - as (1)
 
-#### Vernacular of microservices
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-design-patterns-23454771/vernacular-of-microservices?u=76281980)
+#### [Vernacular of microservices](https://www.linkedin.com/learning/microservices-design-patterns-23454771/vernacular-of-microservices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microservices-design-patterns-23454771/vernacular-of-microservices?u=76281980&t=0)** - Before we get too deep into the world of microservices design patterns, I want to level set on the vernacular that I will use when discussing microservices.
+> **[0:00](https://www.linkedin.com/learning/microservices-design-patterns-23454771/vernacular-of-microservices?u=76281980&t=0)** - Before we get too deep into the world of [[Microservices]] [[Design Patterns]], I want to level set on the vernacular that I will use when discussing microservices.
 >
 > **[0:11](https://www.linkedin.com/learning/microservices-design-patterns-23454771/vernacular-of-microservices?u=76281980&t=11)** These are not authoritative, these are just the terminology I learned and grew up on.
 >
@@ -126,7 +124,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/microservices-design-patterns-23454771/vernacular-of-microservices?u=76281980&t=26)** A data service is that which connects to a data source within the system.
 >
-> **[0:32](https://www.linkedin.com/learning/microservices-design-patterns-23454771/vernacular-of-microservices?u=76281980&t=32)** This does not mean databases alone, because any valid source that can be served through a microservice applies.
+> **[0:32](https://www.linkedin.com/learning/microservices-design-patterns-23454771/vernacular-of-microservices?u=76281980&t=32)** This does not mean [[Databases]] alone, because any valid source that can be served through a microservice applies.
 >
 > **[0:41](https://www.linkedin.com/learning/microservices-design-patterns-23454771/vernacular-of-microservices?u=76281980&t=41)** Data services are usually bound by domains defined within the global architecture.
 >
@@ -152,16 +150,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), business (4), [[Microservices]] (3), [[Design Patterns]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Microservices]] (3), [[Design Patterns]] (1), [[Databases]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - before (1)
 
-#### Microservices and cloud native
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-design-patterns-23454771/microservices-and-cloud-native?u=76281980)
+#### [Microservices and cloud native](https://www.linkedin.com/learning/microservices-design-patterns-23454771/microservices-and-cloud-native?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microservices-design-patterns-23454771/microservices-and-cloud-native?u=76281980&t=0)** - Let me start by saying one thing very clearly, microservices do not make a system cloud native.
+> **[0:00](https://www.linkedin.com/learning/microservices-design-patterns-23454771/microservices-and-cloud-native?u=76281980&t=0)** - Let me start by saying one thing very clearly, [[Microservices]] do not make a system cloud native.
 >
 > **[0:08](https://www.linkedin.com/learning/microservices-design-patterns-23454771/microservices-and-cloud-native?u=76281980&t=8)** And cloud native doesn't require microservices.
 >
@@ -183,11 +180,11 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/microservices-design-patterns-23454771/microservices-and-cloud-native?u=76281980&t=60)** Cloud native is designed primarily to facilitate operating in the cloud.
 >
-> **[1:06](https://www.linkedin.com/learning/microservices-design-patterns-23454771/microservices-and-cloud-native?u=76281980&t=66)** It includes things like externalizing configuration, focusing on scalability, making your application startup fast and handle immediate shutdowns gracefully.
+> **[1:06](https://www.linkedin.com/learning/microservices-design-patterns-23454771/microservices-and-cloud-native?u=76281980&t=66)** It includes things like externalizing configuration, focusing on [[Scalability]], making your application startup fast and handle immediate shutdowns gracefully.
 >
 > **[1:17](https://www.linkedin.com/learning/microservices-design-patterns-23454771/microservices-and-cloud-native?u=76281980&t=77)** There's a whole plethora of ways to represent cloud native applications.
 >
-> **[1:23](https://www.linkedin.com/learning/microservices-design-patterns-23454771/microservices-and-cloud-native?u=76281980&t=83)** I have a course here in the library called "Twelve-Factor and Fifteen-Factor Cloud Native Application Development" that I encourage you to look at when wanting to learn more about cloud native.
+> **[1:23](https://www.linkedin.com/learning/microservices-design-patterns-23454771/microservices-and-cloud-native?u=76281980&t=83)** I have a course here in the library called "Twelve-Factor and Fifteen-Factor Cloud Native [[Application Development]]" that I encourage you to look at when wanting to learn more about cloud native.
 >
 > **[1:35](https://www.linkedin.com/learning/microservices-design-patterns-23454771/microservices-and-cloud-native?u=76281980&t=95)** Cloud native applications are designed to be portable and scalable.
 >
@@ -233,7 +230,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (18), [[Microservices]] (10), [[Scalability]] (4), application (2), [[Application Development]] (1)
+> **Frameworks & Libraries:** [[Microservices]] (10), [[Scalability]] (4), [[Application Development]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
 > **Warnings:** note that (1)
@@ -244,12 +241,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Decomposition of a system
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-design-patterns-23454771/decomposition-of-a-system?u=76281980)
+#### [Decomposition of a system](https://www.linkedin.com/learning/microservices-design-patterns-23454771/decomposition-of-a-system?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microservices-design-patterns-23454771/decomposition-of-a-system?u=76281980&t=0)** - We have talked about microservices being smaller, but what does that really mean?
+> **[0:00](https://www.linkedin.com/learning/microservices-design-patterns-23454771/decomposition-of-a-system?u=76281980&t=0)** - We have talked about [[Microservices]] being smaller, but what does that really mean?
 >
 > **[0:07](https://www.linkedin.com/learning/microservices-design-patterns-23454771/decomposition-of-a-system?u=76281980&t=7)** Consider for a moment how you decompose a problem when writing a piece of software.
 >
@@ -297,16 +293,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microservices]] (6), business (4), functional (3), traffic (1)
+> **Frameworks & Libraries:** [[Microservices]] (6)
 > **Definitions:** is a  (1), is called (1)
 > **Speakers:** - we (1)
 
-#### Domain-based microservices
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-design-patterns-23454771/domain-based-microservices?u=76281980)
+#### [Domain-based microservices](https://www.linkedin.com/learning/microservices-design-patterns-23454771/domain-based-microservices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microservices-design-patterns-23454771/domain-based-microservices?u=76281980&t=0)** - Domain based microservices, as you might imagine, are based on domain driven design patterns, but what does this mean in practice to somebody building out a services architecture?
+> **[0:00](https://www.linkedin.com/learning/microservices-design-patterns-23454771/domain-based-microservices?u=76281980&t=0)** - Domain based [[Microservices]], as you might imagine, are based on domain driven [[Design Patterns]], but what does this mean in practice to somebody building out a services architecture?
 >
 > **[0:14](https://www.linkedin.com/learning/microservices-design-patterns-23454771/domain-based-microservices?u=76281980&t=14)** Data domain decomposition is the lowest level of decomposition that you will usually see in a microservices architecture.
 >
@@ -358,7 +353,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/microservices-design-patterns-23454771/domain-based-microservices?u=76281980&t=197)** Next, we need to evaluate the actions that we'll need to perform on these models.
 >
-> **[3:24](https://www.linkedin.com/learning/microservices-design-patterns-23454771/domain-based-microservices?u=76281980&t=204)** Don't think solely in terms of CRUD and don't think solely in terms of REST APIs either.
+> **[3:24](https://www.linkedin.com/learning/microservices-design-patterns-23454771/domain-based-microservices?u=76281980&t=204)** Don't think solely in terms of CRUD and don't think solely in terms of [[Representational State Transfer (REST)|REST]] APIs either.
 >
 > **[3:31](https://www.linkedin.com/learning/microservices-design-patterns-23454771/domain-based-microservices?u=76281980&t=211)** You can work actions into the API if they are applicable to your domain, and many times, these actions are where the real work is getting done.
 >
@@ -388,7 +383,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Microservices]] (2), next (2), api (2), [[Design Patterns]] (1)
+> **Frameworks & Libraries:** [[Microservices]] (2), [[Design Patterns]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (2), crud (1), rest (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
@@ -396,8 +391,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - domain (1)
 
-#### Business process-based microservices
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-design-patterns-23454771/business-process-based-microservices?u=76281980)
+#### [Business process-based microservices](https://www.linkedin.com/learning/microservices-design-patterns-23454771/business-process-based-microservices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -405,7 +399,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/microservices-design-patterns-23454771/business-process-based-microservices?u=76281980&t=8)** Often these processes don't fit into a single domain, but the domains themselves can live in a standalone fashion.
 >
-> **[0:20](https://www.linkedin.com/learning/microservices-design-patterns-23454771/business-process-based-microservices?u=76281980&t=20)** Enter into the picture business process-based microservices.
+> **[0:20](https://www.linkedin.com/learning/microservices-design-patterns-23454771/business-process-based-microservices?u=76281980&t=20)** Enter into the picture business process-based [[Microservices]].
 >
 > **[0:25](https://www.linkedin.com/learning/microservices-design-patterns-23454771/business-process-based-microservices?u=76281980&t=25)** A business process service can help you build a more structured microservices architecture.
 >
@@ -481,7 +475,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (17), data (5), api (3), [[Microservices]] (2), functional (2)
+> **Frameworks & Libraries:** [[Microservices]] (2)
 > **Env Vars:** api (3)
 > **Analogies:** picture (1), for instance (1)
 > **CLI Commands:** find (1)
@@ -489,12 +483,11 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Atomic transaction-based microservices
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-design-patterns-23454771/atomic-transaction-based-microservices?u=76281980)
+#### [Atomic transaction-based microservices](https://www.linkedin.com/learning/microservices-design-patterns-23454771/atomic-transaction-based-microservices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microservices-design-patterns-23454771/atomic-transaction-based-microservices?u=76281980&t=0)** - There are potentially times in a microservices architecture where you need to have true atomic transactions because eventual consistency isn't good enough.
+> **[0:00](https://www.linkedin.com/learning/microservices-design-patterns-23454771/atomic-transaction-based-microservices?u=76281980&t=0)** - There are potentially times in a [[Microservices]] architecture where you need to have true atomic transactions because eventual consistency isn't good enough.
 >
 > **[0:12](https://www.linkedin.com/learning/microservices-design-patterns-23454771/atomic-transaction-based-microservices?u=76281980&t=12)** When those atomic transactions span multiple data domains, there is a distinct need to build special logic and systems to handle these unique use cases.
 >
@@ -540,13 +533,13 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/microservices-design-patterns-23454771/atomic-transaction-based-microservices?u=76281980&t=199)** You must exit the function with a complete commit or a complete rollback.
 >
-> **[3:27](https://www.linkedin.com/learning/microservices-design-patterns-23454771/atomic-transaction-based-microservices?u=76281980&t=207)** A final word here on these.
+> **[3:27](https://www.linkedin.com/learning/microservices-design-patterns-23454771/atomic-transaction-based-microservices?u=76281980&t=207)** A final [[Microsoft Word|word]] here on these.
 >
 > **[3:29](https://www.linkedin.com/learning/microservices-design-patterns-23454771/atomic-transaction-based-microservices?u=76281980&t=209)** If you can avoid them, please do.
 >
 > **[3:33](https://www.linkedin.com/learning/microservices-design-patterns-23454771/atomic-transaction-based-microservices?u=76281980&t=213)** They muddy the water for distributed systems as a whole.
 >
-> **[3:38](https://www.linkedin.com/learning/microservices-design-patterns-23454771/atomic-transaction-based-microservices?u=76281980&t=218)** You cannot adequately distribute the databases as effectively, nor avoid the potential network congestion.
+> **[3:38](https://www.linkedin.com/learning/microservices-design-patterns-23454771/atomic-transaction-based-microservices?u=76281980&t=218)** You cannot adequately distribute the [[Databases]] as effectively, nor avoid the potential network congestion.
 >
 > **[3:48](https://www.linkedin.com/learning/microservices-design-patterns-23454771/atomic-transaction-based-microservices?u=76281980&t=228)** Try to sell your stakeholders on eventual consistency or simulated rollbacks, of course, explaining their risks as well.
 >
@@ -556,15 +549,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), api (2), database (2), [[Microservices]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microservices]] (1), [[Microsoft Word|Word]] (1), [[Databases]] (1)
 > **Env Vars:** api (2), acid (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - there (1)
 
-#### Strangler pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-design-patterns-23454771/strangler-pattern?u=76281980)
+#### [Strangler pattern](https://www.linkedin.com/learning/microservices-design-patterns-23454771/strangler-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -602,7 +594,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/microservices-design-patterns-23454771/strangler-pattern?u=76281980&t=133)** We then define three distinct data access areas that can be defined as data domains.
 >
-> **[2:21](https://www.linkedin.com/learning/microservices-design-patterns-23454771/strangler-pattern?u=76281980&t=141)** In the bottoms-up approach, we'll use a single service database design, something we're going to focus on later, but for now, just know that each domain gets its own database, but we don't want to do it all at once.
+> **[2:21](https://www.linkedin.com/learning/microservices-design-patterns-23454771/strangler-pattern?u=76281980&t=141)** In the bottoms-up approach, we'll use a single service [[Database Design]], something we're going to focus on later, but for now, just know that each domain gets its own database, but we don't want to do it all at once.
 >
 > **[2:39](https://www.linkedin.com/learning/microservices-design-patterns-23454771/strangler-pattern?u=76281980&t=159)** The first thing we need to do is we need to build a new database.
 >
@@ -620,13 +612,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), database (6), api (2), business (2), next (1)
+> **Frameworks & Libraries:** [[Database Design]] (1)
 > **Env Vars:** api (2)
 > **Definitions:** is a  (1), defined as (1)
 > **Speakers:** - now (1)
 
-#### Sidecar pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-design-patterns-23454771/sidecar-pattern?u=76281980)
+#### [Sidecar pattern](https://www.linkedin.com/learning/microservices-design-patterns-23454771/sidecar-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -636,7 +627,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/microservices-design-patterns-23454771/sidecar-pattern?u=76281980&t=26)** The sidecar pattern is more about removing repetitive code across services than anything else.
 >
-> **[0:34](https://www.linkedin.com/learning/microservices-design-patterns-23454771/sidecar-pattern?u=76281980&t=34)** The reason that it is helpful in a microservices architecture is things like logging, monitoring, and network services can be offloaded to a separate module.
+> **[0:34](https://www.linkedin.com/learning/microservices-design-patterns-23454771/sidecar-pattern?u=76281980&t=34)** The reason that it is helpful in a [[Microservices]] architecture is things like logging, monitoring, and network services can be offloaded to a separate module.
 >
 > **[0:46](https://www.linkedin.com/learning/microservices-design-patterns-23454771/sidecar-pattern?u=76281980&t=46)** So essentially, the problem we are solving is repeating code paths that don't have to be accomplished through repeating code.
 >
@@ -694,7 +685,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microservices]] (3), generic (2), power (2), next (1), application (1)
+> **Frameworks & Libraries:** [[Microservices]] (3)
 > **Speakers:** - the (1)
 
 
@@ -702,8 +693,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Gateway pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-design-patterns-23454771/gateway-pattern?u=76281980)
+#### [Gateway pattern](https://www.linkedin.com/learning/microservices-design-patterns-23454771/gateway-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -795,7 +785,7 @@ created: 2026-05-02
 >
 > **[5:28](https://www.linkedin.com/learning/microservices-design-patterns-23454771/gateway-pattern?u=76281980&t=328)** These APIs are static, or at least passive contracts, and can be tailored for specific clients.
 >
-> **[5:36](https://www.linkedin.com/learning/microservices-design-patterns-23454771/gateway-pattern?u=76281980&t=336)** You want to keep the contracts solid, so you may build out sets of APIs for each client independently of the rest, or just focus on the most dynamic APIs and expose them as being client-specific along with a core set of global APIs.
+> **[5:36](https://www.linkedin.com/learning/microservices-design-patterns-23454771/gateway-pattern?u=76281980&t=336)** You want to keep the contracts solid, so you may build out sets of APIs for each client independently of the [[Representational State Transfer (REST)|rest]], or just focus on the most dynamic APIs and expose them as being client-specific along with a core set of global APIs.
 >
 > **[5:57](https://www.linkedin.com/learning/microservices-design-patterns-23454771/gateway-pattern?u=76281980&t=357)** If you haven't noticed, I've mentioned passive a few times on purpose.
 >
@@ -803,7 +793,7 @@ created: 2026-05-02
 >
 > **[6:06](https://www.linkedin.com/learning/microservices-design-patterns-23454771/gateway-pattern?u=76281980&t=366)** Nothing, and I mean, nothing makes a developer more upset than having to fix code that worked yesterday because someone in a third-party system broke the passivity of a contract.
 >
-> **[6:20](https://www.linkedin.com/learning/microservices-design-patterns-23454771/gateway-pattern?u=76281980&t=380)** In order to keep these contracts static, you use strict version control, like semantic versioning, to keep your APIs growing, but to help ensure passing behavior.
+> **[6:20](https://www.linkedin.com/learning/microservices-design-patterns-23454771/gateway-pattern?u=76281980&t=380)** In order to keep these contracts static, you use strict [[Version Control]], like semantic versioning, to keep your APIs growing, but to help ensure passing behavior.
 >
 > **[6:34](https://www.linkedin.com/learning/microservices-design-patterns-23454771/gateway-pattern?u=76281980&t=394)** Of course, the versioning isn't enough.
 >
@@ -817,7 +807,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), data (4), [[Orchestration]] (1), [[Security]] (1), business (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Version Control]] (1)
 > **Env Vars:** api (4)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
@@ -825,8 +815,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - we (1)
 
-#### Process aggregator pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-design-patterns-23454771/process-aggregator-pattern?u=76281980)
+#### [Process aggregator pattern](https://www.linkedin.com/learning/microservices-design-patterns-23454771/process-aggregator-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -868,7 +857,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/microservices-design-patterns-23454771/process-aggregator-pattern?u=76281980&t=182)** This choke point can bring a distributed system to a crawl as network IO increases and wait times also increase.
 >
-> **[3:12](https://www.linkedin.com/learning/microservices-design-patterns-23454771/process-aggregator-pattern?u=76281980&t=192)** Once you get into this realm of large data processing operations, you really need to consider asynchronous patterns instead of aggregators.
+> **[3:12](https://www.linkedin.com/learning/microservices-design-patterns-23454771/process-aggregator-pattern?u=76281980&t=192)** Once you get into this realm of large [[Data Processing]] operations, you really need to consider asynchronous patterns instead of aggregators.
 >
 > **[3:23](https://www.linkedin.com/learning/microservices-design-patterns-23454771/process-aggregator-pattern?u=76281980&t=203)** Designing and building an aggregator should look very familiar at this point.
 >
@@ -886,7 +875,7 @@ created: 2026-05-02
 >
 > **[4:24](https://www.linkedin.com/learning/microservices-design-patterns-23454771/process-aggregator-pattern?u=76281980&t=264)** Once you have your model, you can implement the API based on that model.
 >
-> **[4:31](https://www.linkedin.com/learning/microservices-design-patterns-23454771/process-aggregator-pattern?u=76281980&t=271)** Many times, if you design that model right, you can use standard REST verbs on these models.
+> **[4:31](https://www.linkedin.com/learning/microservices-design-patterns-23454771/process-aggregator-pattern?u=76281980&t=271)** Many times, if you design that model right, you can use standard [[Representational State Transfer (REST)|REST]] verbs on these models.
 >
 > **[4:38](https://www.linkedin.com/learning/microservices-design-patterns-23454771/process-aggregator-pattern?u=76281980&t=278)** But if not, you always have the action pattern as needed.
 >
@@ -900,21 +889,20 @@ created: 2026-05-02
 >
 > **[5:23](https://www.linkedin.com/learning/microservices-design-patterns-23454771/process-aggregator-pattern?u=76281980&t=323)** Just heed the warnings about the pattern before you jump in.
 >
-> **[5:27](https://www.linkedin.com/learning/microservices-design-patterns-23454771/process-aggregator-pattern?u=76281980&t=327)** Abstraction for the sake of abstraction does you no good in a distributed microservices architecture.
+> **[5:27](https://www.linkedin.com/learning/microservices-design-patterns-23454771/process-aggregator-pattern?u=76281980&t=327)** Abstraction for the sake of abstraction does you no good in a distributed [[Microservices]] architecture.
 >
 > **[5:35](https://www.linkedin.com/learning/microservices-design-patterns-23454771/process-aggregator-pattern?u=76281980&t=335)** And if you find yourself going down that path, I can almost promise you you will see network issues in the future.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (12), api (4), data (3), next (2), [[Orchestration]] (1)
+> **Frameworks & Libraries:** [[Data Processing]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Microservices]] (1)
 > **Env Vars:** api (4), dry (1), rest (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Warnings:** caution (1)
 > **Speakers:** - the (1)
 
-#### Edge pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-design-patterns-23454771/edge-pattern?u=76281980)
+#### [Edge pattern](https://www.linkedin.com/learning/microservices-design-patterns-23454771/edge-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -924,7 +912,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/microservices-design-patterns-23454771/edge-pattern?u=76281980&t=17)** The basic problem that we need to solve with the edge pattern comes into flavors.
 >
-> **[0:23](https://www.linkedin.com/learning/microservices-design-patterns-23454771/edge-pattern?u=76281980&t=23)** The most common is that using a gateway becomes a scalability concern as one client type, say, mobile, contributes to request volume significantly more than other clients.
+> **[0:23](https://www.linkedin.com/learning/microservices-design-patterns-23454771/edge-pattern?u=76281980&t=23)** The most common is that using a gateway becomes a [[Scalability]] concern as one client type, say, mobile, contributes to request volume significantly more than other clients.
 >
 > **[0:37](https://www.linkedin.com/learning/microservices-design-patterns-23454771/edge-pattern?u=76281980&t=37)** As such, scaling the gateway becomes wasteful.
 >
@@ -1012,7 +1000,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), application (2), [[Scalability]] (1), business (1), next (1)
+> **Frameworks & Libraries:** [[Scalability]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
@@ -1024,20 +1012,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Single service database
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-design-patterns-23454771/single-service-database?u=76281980)
+#### [Single service database](https://www.linkedin.com/learning/microservices-design-patterns-23454771/single-service-database?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microservices-design-patterns-23454771/single-service-database?u=76281980&t=0)** - We will now delve into the world of data patterns in a microservices-based architecture.
+> **[0:00](https://www.linkedin.com/learning/microservices-design-patterns-23454771/single-service-database?u=76281980&t=0)** - We will now delve into the world of data patterns in a [[Microservices]]-based architecture.
 >
 > **[0:07](https://www.linkedin.com/learning/microservices-design-patterns-23454771/single-service-database?u=76281980&t=7)** There are really only a few ways to solve your data needs, but we will start out with what should be the most common pattern, the single service single database pattern.
 >
 > **[0:21](https://www.linkedin.com/learning/microservices-design-patterns-23454771/single-service-database?u=76281980&t=21)** As I stated before, the single-service single-database pattern should be the most common pattern for all data-domain-based services.
 >
-> **[0:30](https://www.linkedin.com/learning/microservices-design-patterns-23454771/single-service-database?u=76281980&t=30)** The concept is actually very simple, but can be cost prohibitive if used with proprietary databases or improperly sized databases.
+> **[0:30](https://www.linkedin.com/learning/microservices-design-patterns-23454771/single-service-database?u=76281980&t=30)** The concept is actually very simple, but can be cost prohibitive if used with proprietary [[Databases]] or improperly sized databases.
 >
-> **[0:43](https://www.linkedin.com/learning/microservices-design-patterns-23454771/single-service-database?u=76281980&t=43)** The problem that we are solving with this pattern is that of scalability.
+> **[0:43](https://www.linkedin.com/learning/microservices-design-patterns-23454771/single-service-database?u=76281980&t=43)** The problem that we are solving with this pattern is that of [[Scalability]].
 >
 > **[0:48](https://www.linkedin.com/learning/microservices-design-patterns-23454771/single-service-database?u=76281980&t=48)** In a microservices architecture, the service scalability needs should be proportional to the database's scaling needs.
 >
@@ -1077,27 +1064,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), database (9), [[Microservices]] (2), [[Databases]] (2), [[Scalability]] (2)
+> **Frameworks & Libraries:** [[Microservices]] (2), [[Databases]] (2), [[Scalability]] (2)
 > **Env Vars:** iops (1)
 > **Warnings:** caveat (1)
 > **Speakers:** - we (1)
 
-#### Shared service database
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-design-patterns-23454771/shared-service-database?u=76281980)
+#### [Shared service database](https://www.linkedin.com/learning/microservices-design-patterns-23454771/shared-service-database?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/microservices-design-patterns-23454771/shared-service-database?u=76281980&t=1)** - While the single service, single database pattern is usually a more effective one, there are some times when you must use a shared database.
 >
-> **[0:11](https://www.linkedin.com/learning/microservices-design-patterns-23454771/shared-service-database?u=76281980&t=11)** The shared database pattern isn't really new, especially if you've done some application development in your life.
+> **[0:11](https://www.linkedin.com/learning/microservices-design-patterns-23454771/shared-service-database?u=76281980&t=11)** The shared database pattern isn't really new, especially if you've done some [[Application Development]] in your life.
 >
-> **[0:19](https://www.linkedin.com/learning/microservices-design-patterns-23454771/shared-service-database?u=76281980&t=19)** In reality, this is an enterprise construct that is carried over into a distributed model like microservices, mainly due to contracts that have already been signed, but not always, as we'll see often in startups.
+> **[0:19](https://www.linkedin.com/learning/microservices-design-patterns-23454771/shared-service-database?u=76281980&t=19)** In reality, this is an enterprise construct that is carried over into a distributed model like [[Microservices]], mainly due to contracts that have already been signed, but not always, as we'll see often in startups.
 >
 > **[0:36](https://www.linkedin.com/learning/microservices-design-patterns-23454771/shared-service-database?u=76281980&t=36)** There are some ways that we can pattern our data in our data store to be more effective for eventually breaking the database up.
 >
 > **[0:47](https://www.linkedin.com/learning/microservices-design-patterns-23454771/shared-service-database?u=76281980&t=47)** The given in this case is that all data domains exist within a single database instance.
 >
-> **[0:54](https://www.linkedin.com/learning/microservices-design-patterns-23454771/shared-service-database?u=76281980&t=54)** We can still treat them as separate databases, however, from both a logic as well as a code concept, even if they're in a single engine.
+> **[0:54](https://www.linkedin.com/learning/microservices-design-patterns-23454771/shared-service-database?u=76281980&t=54)** We can still treat them as separate [[Databases]], however, from both a logic as well as a code concept, even if they're in a single engine.
 >
 > **[1:06](https://www.linkedin.com/learning/microservices-design-patterns-23454771/shared-service-database?u=76281980&t=66)** Data distribution should be handled by the database itself.
 >
@@ -1109,7 +1095,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/microservices-design-patterns-23454771/shared-service-database?u=76281980&t=101)** So choose your databases well.
 >
-> **[1:45](https://www.linkedin.com/learning/microservices-design-patterns-23454771/shared-service-database?u=76281980&t=105)** While we won't get into the scalability pain points of a single instance database, we can structure our data so that we can isolate it and prepare it for a hopeful breakout one day.
+> **[1:45](https://www.linkedin.com/learning/microservices-design-patterns-23454771/shared-service-database?u=76281980&t=105)** While we won't get into the [[Scalability]] pain points of a single instance database, we can structure our data so that we can isolate it and prepare it for a hopeful breakout one day.
 >
 > **[2:00](https://www.linkedin.com/learning/microservices-design-patterns-23454771/shared-service-database?u=76281980&t=120)** To do this, we need to leverage distinct databases in a single engine, or my favorite way, which is to utilize schemas, key spaces, or similar logical groupings within the database engine itself.
 >
@@ -1139,19 +1125,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (15), data (10), [[Databases]] (5), [[Application Development]] (1), [[Microservices]] (1)
+> **Frameworks & Libraries:** [[Databases]] (5), [[Application Development]] (1), [[Microservices]] (1), [[Scalability]] (1)
 > **Definitions:** is an  (2)
 > **Speakers:** - while (1), - in (1)
 > **Env Vars:** wan (1)
 
-#### Command Query Responsibility Segregation
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-design-patterns-23454771/command-query-responsibility-segregation?u=76281980)
+#### [Command Query Responsibility Segregation](https://www.linkedin.com/learning/microservices-design-patterns-23454771/command-query-responsibility-segregation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microservices-design-patterns-23454771/command-query-responsibility-segregation?u=76281980&t=0)** - Of all the data patterns for microservices we will discuss in this course, the command query responsibility segregation pattern is by far the most complex of them all.
+> **[0:00](https://www.linkedin.com/learning/microservices-design-patterns-23454771/command-query-responsibility-segregation?u=76281980&t=0)** - Of all the data patterns for [[Microservices]] we will discuss in this course, the command query responsibility segregation pattern is by far the most complex of them all.
 >
-> **[0:14](https://www.linkedin.com/learning/microservices-design-patterns-23454771/command-query-responsibility-segregation?u=76281980&t=14)** CQRS is one of the most ethereal concepts of data management.
+> **[0:14](https://www.linkedin.com/learning/microservices-design-patterns-23454771/command-query-responsibility-segregation?u=76281980&t=14)** CQRS is one of the most ethereal concepts of [[Data Management]].
 >
 > **[0:20](https://www.linkedin.com/learning/microservices-design-patterns-23454771/command-query-responsibility-segregation?u=76281980&t=20)** Those that get it well and can implement it successfully can dramatically improve their data behavior across the system as a whole.
 >
@@ -1201,15 +1186,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Microservices]] (1), management (1), business (1)
+> **Frameworks & Libraries:** [[Microservices]] (1), [[Data Management]] (1)
 > **Env Vars:** cqrs (6), crud (2)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - of (1)
 
-#### Asynchronous eventing
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-design-patterns-23454771/asynchronous-eventing?u=76281980)
+#### [Asynchronous eventing](https://www.linkedin.com/learning/microservices-design-patterns-23454771/asynchronous-eventing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1217,7 +1201,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/microservices-design-patterns-23454771/asynchronous-eventing?u=76281980&t=6)** While it needs to be talked about as a pattern, it is much bigger than this course.
 >
-> **[0:11](https://www.linkedin.com/learning/microservices-design-patterns-23454771/asynchronous-eventing?u=76281980&t=11)** Check out my course in the library, Microservices: Asynchronous Messaging, to dive much deeper into this topic.
+> **[0:11](https://www.linkedin.com/learning/microservices-design-patterns-23454771/asynchronous-eventing?u=76281980&t=11)** Check out my course in the library, [[Microservices]]: Asynchronous Messaging, to dive much deeper into this topic.
 >
 > **[0:20](https://www.linkedin.com/learning/microservices-design-patterns-23454771/asynchronous-eventing?u=76281980&t=20)** Many times in a microservices architecture, you run into situations with long-running transactions or complex workflows that just cannot fit into a single blocking API call.
 >
@@ -1251,7 +1235,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), [[Microservices]] (3), data (2), power (1), business (1)
+> **Frameworks & Libraries:** [[Microservices]] (3)
 > **Env Vars:** api (4)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -1263,8 +1247,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Log aggregation patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-design-patterns-23454771/log-aggregation-patterns?u=76281980)
+#### [Log aggregation patterns](https://www.linkedin.com/learning/microservices-design-patterns-23454771/log-aggregation-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1300,7 +1283,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/microservices-design-patterns-23454771/log-aggregation-patterns?u=76281980&t=123)** Identifiers and core values across your log messages should be keyed the same, as well as documented so that everyone knows what those keys are, what keys they should be using, and when to include this data in the log messages.
 >
-> **[2:23](https://www.linkedin.com/learning/microservices-design-patterns-23454771/log-aggregation-patterns?u=76281980&t=143)** Log aggregation is a key pattern in the operations of a microservices based system.
+> **[2:23](https://www.linkedin.com/learning/microservices-design-patterns-23454771/log-aggregation-patterns?u=76281980&t=143)** Log aggregation is a key pattern in the operations of a [[Microservices]] based system.
 >
 > **[2:30](https://www.linkedin.com/learning/microservices-design-patterns-23454771/log-aggregation-patterns?u=76281980&t=150)** In monolithic models, the log messages usually all go to the same output.
 >
@@ -1316,13 +1299,13 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/microservices-design-patterns-23454771/log-aggregation-patterns?u=76281980&t=184)** Log aggregation is, as you might imagine, a way to aggregate the various output locations into a single stream of data.
 >
-> **[3:14](https://www.linkedin.com/learning/microservices-design-patterns-23454771/log-aggregation-patterns?u=76281980&t=194)** This aggregation takes on many forms, but the key here is that at the end, the logs all end up in one place.
+> **[3:14](https://www.linkedin.com/learning/microservices-design-patterns-23454771/log-aggregation-patterns?u=76281980&t=194)** This aggregation takes on many [[Forms]], but the key here is that at the end, the logs all end up in one place.
 >
 > **[3:24](https://www.linkedin.com/learning/microservices-design-patterns-23454771/log-aggregation-patterns?u=76281980&t=204)** Part of that aggregation can and should be parsing of the logs.
 >
 > **[3:29](https://www.linkedin.com/learning/microservices-design-patterns-23454771/log-aggregation-patterns?u=76281980&t=209)** This is where the log structure is so important.
 >
-> **[3:34](https://www.linkedin.com/learning/microservices-design-patterns-23454771/log-aggregation-patterns?u=76281980&t=214)** Logs usually have a message and a bunch of metadata called tags that are associated with that message.
+> **[3:34](https://www.linkedin.com/learning/microservices-design-patterns-23454771/log-aggregation-patterns?u=76281980&t=214)** Logs usually have a message and a bunch of [[Metadata]] called tags that are associated with that message.
 >
 > **[3:41](https://www.linkedin.com/learning/microservices-design-patterns-23454771/log-aggregation-patterns?u=76281980&t=221)** The more structured the logs are, the less parsing you have to do on them because of a well-defined set of rules.
 >
@@ -1346,15 +1329,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microservices]] (2), [[Programming]] (1), [[Forms]] (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Microservices]] (2), [[Forms]] (1), [[Metadata]] (1)
 > **Analogies:** imagine (1), picture (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - now (1)
 
-#### Metrics aggregation patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-design-patterns-23454771/metrics-aggregation-patterns?u=76281980)
+#### [Metrics aggregation patterns](https://www.linkedin.com/learning/microservices-design-patterns-23454771/metrics-aggregation-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1376,7 +1358,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/microservices-design-patterns-23454771/metrics-aggregation-patterns?u=76281980&t=49)** Once again, a common taxonomy is critical with metrics.
 >
-> **[0:55](https://www.linkedin.com/learning/microservices-design-patterns-23454771/metrics-aggregation-patterns?u=76281980&t=55)** Structuring your keys to be consistent and descriptive will help explain what the ultimate dashboards are saying.
+> **[0:55](https://www.linkedin.com/learning/microservices-design-patterns-23454771/metrics-aggregation-patterns?u=76281980&t=55)** Structuring your keys to be consistent and descriptive will help explain what the ultimate [[Dashboards]] are saying.
 >
 > **[1:03](https://www.linkedin.com/learning/microservices-design-patterns-23454771/metrics-aggregation-patterns?u=76281980&t=63)** Having common keys with metrics and logs is even a better strategy.
 >
@@ -1438,17 +1420,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Dashboards]] (11), data (2), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (11)
 > **CLI Commands:** make (3)
 > **Definitions:** is an  (1)
 > **Speakers:** - in (1)
 
-#### Tracing patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-design-patterns-23454771/tracing-patterns?u=76281980)
+#### [Tracing patterns](https://www.linkedin.com/learning/microservices-design-patterns-23454771/tracing-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microservices-design-patterns-23454771/tracing-patterns?u=76281980&t=0)** - In a microservices-based system, call stacks can quickly get lost.
+> **[0:00](https://www.linkedin.com/learning/microservices-design-patterns-23454771/tracing-patterns?u=76281980&t=0)** - In a [[Microservices]]-based system, call stacks can quickly get lost.
 >
 > **[0:05](https://www.linkedin.com/learning/microservices-design-patterns-23454771/tracing-patterns?u=76281980&t=5)** Enter into the picture, tracing patterns.
 >
@@ -1494,17 +1475,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microservices]] (3), database (3), etl (1), application (1)
+> **Frameworks & Libraries:** [[Microservices]] (3)
 > **Env Vars:** etl (1), apm (1)
 > **Analogies:** picture (1)
 > **Speakers:** - in (1)
 
-#### External configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-design-patterns-23454771/external-configuration?u=76281980)
+#### [External configuration](https://www.linkedin.com/learning/microservices-design-patterns-23454771/external-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/microservices-design-patterns-23454771/external-configuration?u=76281980&t=1)** - Externalized configuration in a microservices architecture isn't a hard and fast requirement like it is for cloud native, but its value becomes operationally important when load and movement of services occurs.
+> **[0:01](https://www.linkedin.com/learning/microservices-design-patterns-23454771/external-configuration?u=76281980&t=1)** - Externalized configuration in a [[Microservices]] architecture isn't a hard and fast requirement like it is for cloud native, but its value becomes operationally important when load and movement of services occurs.
 >
 > **[0:17](https://www.linkedin.com/learning/microservices-design-patterns-23454771/external-configuration?u=76281980&t=17)** The value proposition in externalized configuration in microservices is more about the operations than distribution.
 >
@@ -1512,7 +1492,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/microservices-design-patterns-23454771/external-configuration?u=76281980&t=40)** Externalization of your configuration varies based on your runtime as well as the frameworks being used.
 >
-> **[0:48](https://www.linkedin.com/learning/microservices-design-patterns-23454771/external-configuration?u=76281980&t=48)** Runtimes like Kubernetes and frameworks like Spring have sophisticated models to inject configuration into your application, but many other tools do as well.
+> **[0:48](https://www.linkedin.com/learning/microservices-design-patterns-23454771/external-configuration?u=76281980&t=48)** Runtimes like [[Kubernetes]] and frameworks like Spring have sophisticated models to inject configuration into your application, but many other tools do as well.
 >
 > **[0:59](https://www.linkedin.com/learning/microservices-design-patterns-23454771/external-configuration?u=76281980&t=59)** The key here is to use tooling that makes external environment variables easy to find, as well as manipulate.
 >
@@ -1554,16 +1534,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microservices]] (2), cloud (1), [[Kubernetes]] (1), application (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Microservices]] (2), [[Kubernetes]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Speakers:** - externalized (1)
 
-#### Service discovery
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-design-patterns-23454771/service-discovery?u=76281980)
+#### [Service discovery](https://www.linkedin.com/learning/microservices-design-patterns-23454771/service-discovery?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/microservices-design-patterns-23454771/service-discovery?u=76281980&t=1)** - As a microservices architecture grows, so does the complexity of finding the appropriate services that provide the models and behaviors that you need.
+> **[0:01](https://www.linkedin.com/learning/microservices-design-patterns-23454771/service-discovery?u=76281980&t=1)** - As a [[Microservices]] architecture grows, so does the complexity of finding the appropriate services that provide the models and behaviors that you need.
 >
 > **[0:11](https://www.linkedin.com/learning/microservices-design-patterns-23454771/service-discovery?u=76281980&t=11)** Enter into the picture Service Discovery.
 >
@@ -1581,7 +1560,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/microservices-design-patterns-23454771/service-discovery?u=76281980&t=56)** A central location exists that allows for discovery of services.
 >
-> **[1:01](https://www.linkedin.com/learning/microservices-design-patterns-23454771/service-discovery?u=76281980&t=61)** As a new service comes online, it advertises itself and what models or behaviors it exposes to the rest of the system.
+> **[1:01](https://www.linkedin.com/learning/microservices-design-patterns-23454771/service-discovery?u=76281980&t=61)** As a new service comes online, it advertises itself and what models or behaviors it exposes to the [[Representational State Transfer (REST)|rest]] of the system.
 >
 > **[1:11](https://www.linkedin.com/learning/microservices-design-patterns-23454771/service-discovery?u=76281980&t=71)** It does this by in introspection of its URI, essentially saying, "At location foo, you can find services for bar."
 >
@@ -1622,16 +1601,15 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - as (1)
 
-#### Continuous delivery
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-design-patterns-23454771/continuous-delivery?u=76281980)
+#### [Continuous delivery](https://www.linkedin.com/learning/microservices-design-patterns-23454771/continuous-delivery?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/microservices-design-patterns-23454771/continuous-delivery?u=76281980&t=1)** - When talking about continuous delivery, we need to start with the definition.
+> **[0:01](https://www.linkedin.com/learning/microservices-design-patterns-23454771/continuous-delivery?u=76281980&t=1)** - When talking about [[Continuous Delivery (CD)|continuous delivery]], we need to start with the definition.
 >
 > **[0:05](https://www.linkedin.com/learning/microservices-design-patterns-23454771/continuous-delivery?u=76281980&t=5)** Continuous delivery is a process by which we constantly deliver new code to production with, in my opinion, full automation.
 >
-> **[0:15](https://www.linkedin.com/learning/microservices-design-patterns-23454771/continuous-delivery?u=76281980&t=15)** This is really where this operational pattern, that does exist outside of microservices, really shines.
+> **[0:15](https://www.linkedin.com/learning/microservices-design-patterns-23454771/continuous-delivery?u=76281980&t=15)** This is really where this operational pattern, that does exist outside of [[Microservices]], really shines.
 >
 > **[0:23](https://www.linkedin.com/learning/microservices-design-patterns-23454771/continuous-delivery?u=76281980&t=23)** The concept is basically to take the artifacts that were previously built and move them through your non-production environments all the way to production using automated gates.
 >
@@ -1661,11 +1639,11 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/microservices-design-patterns-23454771/continuous-delivery?u=76281980&t=114)** Since these processes are hard enough to debug, once they pass, the automated gate is cleared.
 >
-> **[2:04](https://www.linkedin.com/learning/microservices-design-patterns-23454771/continuous-delivery?u=76281980&t=124)** I then add in security testing, it comes in two forms.
+> **[2:04](https://www.linkedin.com/learning/microservices-design-patterns-23454771/continuous-delivery?u=76281980&t=124)** I then add in [[Security Testing]], it comes in two [[Forms]].
 >
 > **[2:09](https://www.linkedin.com/learning/microservices-design-patterns-23454771/continuous-delivery?u=76281980&t=129)** I use third party tools for both of them.
 >
-> **[2:13](https://www.linkedin.com/learning/microservices-design-patterns-23454771/continuous-delivery?u=76281980&t=133)** The first flavor is penetration testing.
+> **[2:13](https://www.linkedin.com/learning/microservices-design-patterns-23454771/continuous-delivery?u=76281980&t=133)** The first flavor is [[Penetration Testing]].
 >
 > **[2:16](https://www.linkedin.com/learning/microservices-design-patterns-23454771/continuous-delivery?u=76281980&t=136)** I execute my penetration testing framework on every single deployed and non-prod, not just the UI components.
 >
@@ -1675,7 +1653,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/microservices-design-patterns-23454771/continuous-delivery?u=76281980&t=161)** These tests are really about stress testing the most likely areas of security vulnerabilities.
 >
-> **[2:48](https://www.linkedin.com/learning/microservices-design-patterns-23454771/continuous-delivery?u=76281980&t=168)** CI/CD OWASP top 10 for some ideas here.
+> **[2:48](https://www.linkedin.com/learning/microservices-design-patterns-23454771/continuous-delivery?u=76281980&t=168)** CI/CD [[OWASP]] top 10 for some ideas here.
 >
 > **[2:52](https://www.linkedin.com/learning/microservices-design-patterns-23454771/continuous-delivery?u=76281980&t=172)** The final set of tests that I automated in non-production is user acceptance testing.
 >
@@ -1697,21 +1675,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), [[Microservices]] (3), [[Continuous Delivery (CD)|Continuous delivery]] (2), [[Automation]] (2), [[Penetration Testing]] (2)
+> **Frameworks & Libraries:** [[Microservices]] (3), [[Continuous Delivery (CD)|Continuous delivery]] (2), [[Penetration Testing]] (2), [[Security Testing]] (1), [[Forms]] (1)
 > **CLI Commands:** cd (2), find (1)
 > **Env Vars:** api (1), owasp (1), uat (1)
 > **Definitions:** is a  (3)
 > **Prerequisites:** set up (1)
 > **Speakers:** - when (1)
 
-#### Documentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-design-patterns-23454771/documentation?u=76281980)
+#### [Documentation](https://www.linkedin.com/learning/microservices-design-patterns-23454771/documentation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microservices-design-patterns-23454771/documentation?u=76281980&t=0)** - Documentation is always the last or even forgotten concept in almost all of software.
 >
-> **[0:07](https://www.linkedin.com/learning/microservices-design-patterns-23454771/documentation?u=76281980&t=7)** However, with the microservices architecture, it really is critical.
+> **[0:07](https://www.linkedin.com/learning/microservices-design-patterns-23454771/documentation?u=76281980&t=7)** However, with the [[Microservices]] architecture, it really is critical.
 >
 > **[0:13](https://www.linkedin.com/learning/microservices-design-patterns-23454771/documentation?u=76281980&t=13)** Your system may be written by multiple teams with very different focus areas, and having a solid documentation for your APIs can aid in the inter-team communication that will need to happen.
 >
@@ -1731,7 +1708,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/microservices-design-patterns-23454771/documentation?u=76281980&t=84)** First, I believe each service should expose its documentation at a consistent location.
 >
-> **[1:32](https://www.linkedin.com/learning/microservices-design-patterns-23454771/documentation?u=76281980&t=92)** This means that an HTTP get request at a specific URL, off of the context route, say /docs, will yield an HTML renderable documentation page.
+> **[1:32](https://www.linkedin.com/learning/microservices-design-patterns-23454771/documentation?u=76281980&t=92)** This means that an HTTP get request at a specific URL, off of the context route, say /docs, will yield an [[HTML]] renderable documentation page.
 >
 > **[1:45](https://www.linkedin.com/learning/microservices-design-patterns-23454771/documentation?u=76281980&t=105)** Check the documentation framework for the tools you are using.
 >
@@ -1763,7 +1740,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (3), [[Microservices]] (1), teams (1), [[HTML]] (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Microservices]] (1), [[HTML]] (1)
 > **Env Vars:** url (3), api (3), http (1), html (1)
 > **Documentation:** the documentation (4)
 > **Definitions:** is a  (1), means that (1), is an  (1)
@@ -1776,12 +1753,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-design-patterns-23454771/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/microservices-design-patterns-23454771/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/microservices-design-patterns-23454771/next-steps?u=76281980&t=1)** - Building a microservices architecture benefits greatly by utilizing patterns other developers have struggled with and solved.
+> **[0:01](https://www.linkedin.com/learning/microservices-design-patterns-23454771/next-steps?u=76281980&t=1)** - Building a [[Microservices]] architecture benefits greatly by utilizing patterns other developers have struggled with and solved.
 >
 > **[0:10](https://www.linkedin.com/learning/microservices-design-patterns-23454771/next-steps?u=76281980&t=10)** This course has provided a base foundation for the patterns, but it is just the beginning.
 >
@@ -1823,7 +1799,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microservices]] (2), next (2), data (1)
+> **Frameworks & Libraries:** [[Microservices]] (2)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - building (1)
 

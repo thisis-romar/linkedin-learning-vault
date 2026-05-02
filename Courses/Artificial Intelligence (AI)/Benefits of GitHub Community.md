@@ -64,16 +64,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why the GitHub community is important
-> [LinkedIn Learning](https://www.linkedin.com/learning/benefits-of-github-community/why-the-github-community-is-important?u=76281980)
+#### [Why the GitHub community is important](https://www.linkedin.com/learning/benefits-of-github-community/why-the-github-community-is-important?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/benefits-of-github-community/why-the-github-community-is-important?u=76281980&t=0)** - With over 100 million developers, GitHub is more than just a place to store your apps.
+> **[0:00](https://www.linkedin.com/learning/benefits-of-github-community/why-the-github-community-is-important?u=76281980&t=0)** - With over 100 million developers, [[GitHub]] is more than just a place to store your apps.
 >
 > **[0:04](https://www.linkedin.com/learning/benefits-of-github-community/why-the-github-community-is-important?u=76281980&t=4)** It's the largest code host in the world, with over 372 million repositories.
 >
-> **[0:10](https://www.linkedin.com/learning/benefits-of-github-community/why-the-github-community-is-important?u=76281980&t=10)** The secret to their success is the community features built on top of Git.
+> **[0:10](https://www.linkedin.com/learning/benefits-of-github-community/why-the-github-community-is-important?u=76281980&t=10)** The secret to their success is the community features built on top of [[Git]].
 >
 > **[0:14](https://www.linkedin.com/learning/benefits-of-github-community/why-the-github-community-is-important?u=76281980&t=14)** It's what makes the Hub a great place to collaborate around Git.
 >
@@ -93,8 +92,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Open Source
-> [LinkedIn Learning](https://www.linkedin.com/learning/benefits-of-github-community/what-is-open-source?u=76281980)
+#### [What is Open Source](https://www.linkedin.com/learning/benefits-of-github-community/what-is-open-source?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -102,7 +100,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/benefits-of-github-community/what-is-open-source?u=76281980&t=4)** Now this is code that is freely available for modification and collaboration online.
 >
-> **[0:09](https://www.linkedin.com/learning/benefits-of-github-community/what-is-open-source?u=76281980&t=9)** With over 28 million open source repositories, GitHub is a great place to store your open source projects, and one of the reasons is Git itself.
+> **[0:09](https://www.linkedin.com/learning/benefits-of-github-community/what-is-open-source?u=76281980&t=9)** With over 28 million open source repositories, [[GitHub]] is a great place to store your open source projects, and one of the reasons is [[Git]] itself.
 >
 > **[0:18](https://www.linkedin.com/learning/benefits-of-github-community/what-is-open-source?u=76281980&t=18)** With other source control tools, the code for a project is in a centralized location, but with Git, everyone can have access to the entire code base running under a local machine or a machine in the cloud.
 >
@@ -120,14 +118,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (4), [[Git]] (2), cloud (1)
+> **Frameworks & Libraries:** [[GitHub]] (4), [[Git]] (2)
 > **Tools:** github (4)
 > **CLI Commands:** git (2), make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - let (1)
 
-#### Sponsoring and being sponsored
-> [LinkedIn Learning](https://www.linkedin.com/learning/benefits-of-github-community/sponsoring-and-being-sponsored?u=76281980)
+#### [Sponsoring and being sponsored](https://www.linkedin.com/learning/benefits-of-github-community/sponsoring-and-being-sponsored?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -139,7 +136,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/benefits-of-github-community/sponsoring-and-being-sponsored?u=76281980&t=16)** So things like training, templates, and other resources to help others become valuable in this marketplace.
 >
-> **[0:22](https://www.linkedin.com/learning/benefits-of-github-community/sponsoring-and-being-sponsored?u=76281980&t=22)** Tools like WordPress do this well by creating a template and hosting economy, where these services support others who have an interest in supporting the project.
+> **[0:22](https://www.linkedin.com/learning/benefits-of-github-community/sponsoring-and-being-sponsored?u=76281980&t=22)** Tools like [[WordPress]] do this well by creating a template and hosting economy, where these services support others who have an interest in supporting the project.
 >
 > **[0:30](https://www.linkedin.com/learning/benefits-of-github-community/sponsoring-and-being-sponsored?u=76281980&t=30)** Sometimes that's the company who created the software.
 >
@@ -147,15 +144,15 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/benefits-of-github-community/sponsoring-and-being-sponsored?u=76281980&t=38)** Some companies like Vercel hire open-source developers and allow them to work either full-time or part-time into their project.
 >
-> **[0:46](https://www.linkedin.com/learning/benefits-of-github-community/sponsoring-and-being-sponsored?u=76281980&t=46)** A number of projects are supported by foundations like the Linux Foundation, which helps support the development of the Linux kernel.
+> **[0:46](https://www.linkedin.com/learning/benefits-of-github-community/sponsoring-and-being-sponsored?u=76281980&t=46)** A number of projects are supported by foundations like the [[Linux]] Foundation, which helps support the development of the Linux kernel.
 >
-> **[0:52](https://www.linkedin.com/learning/benefits-of-github-community/sponsoring-and-being-sponsored?u=76281980&t=52)** That provides a safe environment for companies who use the products to support developers, and can be a source of training and other opportunities.
+> **[0:52](https://www.linkedin.com/learning/benefits-of-github-community/sponsoring-and-being-sponsored?u=76281980&t=52)** That provides a safe environment for companies who use the [[Microsoft Products|products]] to support developers, and can be a source of training and other opportunities.
 >
 > **[0:59](https://www.linkedin.com/learning/benefits-of-github-community/sponsoring-and-being-sponsored?u=76281980&t=59)** Some software is a passion project from developers who work part-time in other companies but feel the need to create something that solves a problem for themselves.
 >
-> **[1:08](https://www.linkedin.com/learning/benefits-of-github-community/sponsoring-and-being-sponsored?u=76281980&t=68)** Once the project is successful enough, developers will often seek direct support from users through platforms like Patreon and GitHub.
+> **[1:08](https://www.linkedin.com/learning/benefits-of-github-community/sponsoring-and-being-sponsored?u=76281980&t=68)** Once the project is successful enough, developers will often seek direct support from users through platforms like Patreon and [[GitHub]].
 >
-> **[1:16](https://www.linkedin.com/learning/benefits-of-github-community/sponsoring-and-being-sponsored?u=76281980&t=76)** A good example of this is Evan You, the main developer for Vue.js and Vite.
+> **[1:16](https://www.linkedin.com/learning/benefits-of-github-community/sponsoring-and-being-sponsored?u=76281980&t=76)** A good example of this is Evan You, the main developer for [[Vue.js]] and Vite.
 >
 > **[1:20](https://www.linkedin.com/learning/benefits-of-github-community/sponsoring-and-being-sponsored?u=76281980&t=80)** GitHub provides a number of ways for those who use open-source to contribute to the community.
 >
@@ -187,7 +184,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** open-source (6), [[GitHub]] (5), [[WordPress]] (3), [[Linux]] (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (5), [[WordPress]] (3), [[Linux]] (2), [[Microsoft Products|Products]] (1), [[Vue.js]] (1)
 > **Tools:** github (5)
 > **URLs:** [wordpress.com](https://wordpress.com) (1), [github.com](https://github.com) (1)
 > **File Paths:** vue.js (1)
@@ -196,12 +193,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - you (1)
 
-#### How GitHub supports open source
-> [LinkedIn Learning](https://www.linkedin.com/learning/benefits-of-github-community/how-github-supports-open-source?u=76281980)
+#### [How GitHub supports open source](https://www.linkedin.com/learning/benefits-of-github-community/how-github-supports-open-source?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/benefits-of-github-community/how-github-supports-open-source?u=76281980&t=0)** - Besides letting people support open source through sponsors, GitHub is a really important platform for the community.
+> **[0:00](https://www.linkedin.com/learning/benefits-of-github-community/how-github-supports-open-source?u=76281980&t=0)** - Besides letting people support open source through sponsors, [[GitHub]] is a really important platform for the community.
 >
 > **[0:06](https://www.linkedin.com/learning/benefits-of-github-community/how-github-supports-open-source?u=76281980&t=6)** It provides a lot of their tools for free, especially for open source projects.
 >
@@ -229,18 +225,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (6), [[Automation]] (1), data (1)
+> **Frameworks & Libraries:** [[GitHub]] (6)
 > **Tools:** github (6)
 > **CLI Commands:** find (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - besides (1)
 
-#### Community members and organizations
-> [LinkedIn Learning](https://www.linkedin.com/learning/benefits-of-github-community/community-members-and-organizations?u=76281980)
+#### [Community members and organizations](https://www.linkedin.com/learning/benefits-of-github-community/community-members-and-organizations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/benefits-of-github-community/community-members-and-organizations?u=76281980&t=0)** - When using GitHub, you can follow people to see their public activity on a personal dashboard.
+> **[0:00](https://www.linkedin.com/learning/benefits-of-github-community/community-members-and-organizations?u=76281980&t=0)** - When using [[GitHub]], you can follow people to see their public activity on a personal dashboard.
 >
 > **[0:04](https://www.linkedin.com/learning/benefits-of-github-community/community-members-and-organizations?u=76281980&t=4)** This allows you to keep track of your favorite projects and developers.
 >
@@ -271,12 +266,11 @@ created: 2026-05-02
 > **Analogies:** picture (1)
 > **Speakers:** - when (1)
 
-#### The benefits of the GitHub marketplace
-> [LinkedIn Learning](https://www.linkedin.com/learning/benefits-of-github-community/the-benefits-of-the-github-marketplace?u=76281980)
+#### [The benefits of the GitHub marketplace](https://www.linkedin.com/learning/benefits-of-github-community/the-benefits-of-the-github-marketplace?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/benefits-of-github-community/the-benefits-of-the-github-marketplace?u=76281980&t=0)** - The GitHub Marketplace is a website where you can find applications to help you with programming tasks.
+> **[0:00](https://www.linkedin.com/learning/benefits-of-github-community/the-benefits-of-the-github-marketplace?u=76281980&t=0)** - The [[GitHub]] Marketplace is a website where you can find applications to help you with programming tasks.
 >
 > **[0:05](https://www.linkedin.com/learning/benefits-of-github-community/the-benefits-of-the-github-marketplace?u=76281980&t=5)** There's a number of free and paid tools which can be either GitHub actions or regular applications.
 >
@@ -288,13 +282,13 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/benefits-of-github-community/the-benefits-of-the-github-marketplace?u=76281980&t=31)** Note that to publish any free listings, you also have to meet some requirements like making sure that you have valley contact info and that the apps are going to provide value to users.
 >
-> **[0:41](https://www.linkedin.com/learning/benefits-of-github-community/the-benefits-of-the-github-marketplace?u=76281980&t=41)** The marketplace offers some performance statistics where you can see how well your application is doing.
+> **[0:41](https://www.linkedin.com/learning/benefits-of-github-community/the-benefits-of-the-github-marketplace?u=76281980&t=41)** The marketplace offers some performance [[Statistics]] where you can see how well your application is doing.
 >
 > **[0:47](https://www.linkedin.com/learning/benefits-of-github-community/the-benefits-of-the-github-marketplace?u=76281980&t=47)** Overall, the marketplace offers a directory that developers can use to make money or share apps in a centralized location.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (4), [[Programming]] (1), api (1), [[Statistics]] (1), application (1)
+> **Frameworks & Libraries:** [[GitHub]] (4), [[Statistics]] (1)
 > **Tools:** github (4)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** api (1)
@@ -307,8 +301,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Innersource
-> [LinkedIn Learning](https://www.linkedin.com/learning/benefits-of-github-community/what-is-innersource?u=76281980)
+#### [What is Innersource](https://www.linkedin.com/learning/benefits-of-github-community/what-is-innersource?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -318,7 +311,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/benefits-of-github-community/what-is-innersource?u=76281980&t=11)** Companies often use and contribute to open-source projects internally so they're familiar with the added benefits of working with open source.
 >
-> **[0:18](https://www.linkedin.com/learning/benefits-of-github-community/what-is-innersource?u=76281980&t=18)** Now, GitHub isn't just a place where open-source developers can collaborate.
+> **[0:18](https://www.linkedin.com/learning/benefits-of-github-community/what-is-innersource?u=76281980&t=18)** Now, [[GitHub]] isn't just a place where open-source developers can collaborate.
 >
 > **[0:22](https://www.linkedin.com/learning/benefits-of-github-community/what-is-innersource?u=76281980&t=22)** The application can run internally, providing some of the same features and values that are available within the universal version of GitHub.
 >
@@ -330,7 +323,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/benefits-of-github-community/what-is-innersource?u=76281980&t=49)** Another benefit of inner source is more transparency and visibility for your projects, allowing workers to have access to features as they're built and accepting comments and contributions from different departments.
 >
-> **[1:00](https://www.linkedin.com/learning/benefits-of-github-community/what-is-innersource?u=76281980&t=60)** That approach ends up creating a more agile workflow that makes software better.
+> **[1:00](https://www.linkedin.com/learning/benefits-of-github-community/what-is-innersource?u=76281980&t=60)** That approach ends up creating a more [[Agile Development|agile]] workflow that makes software better.
 >
 > **[1:04](https://www.linkedin.com/learning/benefits-of-github-community/what-is-innersource?u=76281980&t=64)** Inner source doesn't mean that you'll sacrifice security.
 >
@@ -340,14 +333,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (3), open-source (2), [[Security]] (2), application (1), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Agile Development|Agile]] (1)
 > **Tools:** github (3)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** we call this (1)
 > **Speakers:** - over (1)
 
-#### What is Forking?
-> [LinkedIn Learning](https://www.linkedin.com/learning/benefits-of-github-community/what-is-forking?u=76281980)
+#### [What is Forking?](https://www.linkedin.com/learning/benefits-of-github-community/what-is-forking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -369,7 +361,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/benefits-of-github-community/what-is-forking?u=76281980&t=49)** By the way, forking is allowed in repositories by default, so if you want to allow people to make a copy of an existing repository without making them fork it, you can turn the repository into a template repository.
 >
-> **[1:01](https://www.linkedin.com/learning/benefits-of-github-community/what-is-forking?u=76281980&t=61)** Forking is one of the key strategies, which by providing a way for others to contribute, collaborate and discuss projects makes using GitHub a truly social experience.
+> **[1:01](https://www.linkedin.com/learning/benefits-of-github-community/what-is-forking?u=76281980&t=61)** Forking is one of the key strategies, which by providing a way for others to contribute, collaborate and discuss projects makes using [[GitHub]] a truly social experience.
 
 > [!info]- Semantic Content
 >
@@ -379,8 +371,7 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Speakers:** - one (1)
 
-#### Discoverable repositories
-> [LinkedIn Learning](https://www.linkedin.com/learning/benefits-of-github-community/discoverable-repositories?u=76281980)
+#### [Discoverable repositories](https://www.linkedin.com/learning/benefits-of-github-community/discoverable-repositories?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -402,7 +393,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/benefits-of-github-community/discoverable-repositories?u=76281980&t=37)** So given a hint of what the project does without making it too long will make it stand out during searches.
 >
-> **[0:43](https://www.linkedin.com/learning/benefits-of-github-community/discoverable-repositories?u=76281980&t=43)** Names on GitHub are often written as lowercase characters with words separated by hyphens.
+> **[0:43](https://www.linkedin.com/learning/benefits-of-github-community/discoverable-repositories?u=76281980&t=43)** Names on [[GitHub]] are often written as lowercase characters with words separated by hyphens.
 >
 > **[0:48](https://www.linkedin.com/learning/benefits-of-github-community/discoverable-repositories?u=76281980&t=48)** You may also see some packages with uppercase letters or underscores, but you can use spaces or other special characters.
 >
@@ -438,7 +429,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (3), [[Search]] (2), next (1)
+> **Frameworks & Libraries:** [[GitHub]] (3)
 > **CLI Commands:** make (6), find (1)
 > **Tools:** github (3)
 > **Env Vars:** readme (2)
@@ -447,8 +438,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - you (1)
 
-#### Creating issue templates
-> [LinkedIn Learning](https://www.linkedin.com/learning/benefits-of-github-community/creating-issue-templates?u=76281980)
+#### [Creating issue templates](https://www.linkedin.com/learning/benefits-of-github-community/creating-issue-templates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -470,9 +460,9 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/benefits-of-github-community/creating-issue-templates?u=76281980&t=36)** There's also a way to add labels if you want to.
 >
-> **[0:38](https://www.linkedin.com/learning/benefits-of-github-community/creating-issue-templates?u=76281980&t=38)** Notice that if you go back to the Code section, there's a new GitHub folder created for you if you didn't have one before, as well as an ISSUES_TEMPLATES folder.
+> **[0:38](https://www.linkedin.com/learning/benefits-of-github-community/creating-issue-templates?u=76281980&t=38)** Notice that if you go back to the Code section, there's a new [[GitHub]] folder created for you if you didn't have one before, as well as an ISSUES_TEMPLATES folder.
 >
-> **[0:47](https://www.linkedin.com/learning/benefits-of-github-community/creating-issue-templates?u=76281980&t=47)** There's even a way to create forms.
+> **[0:47](https://www.linkedin.com/learning/benefits-of-github-community/creating-issue-templates?u=76281980&t=47)** There's even a way to create [[Forms]].
 >
 > **[0:48](https://www.linkedin.com/learning/benefits-of-github-community/creating-issue-templates?u=76281980&t=48)** It's a fantastic way to make it easier for your visitors to fill out information in a more consistent manner.
 >
@@ -488,7 +478,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (4), [[GitHub]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[Forms]] (1)
 > **Env Vars:** issues_templates (1), yaml (1), issue_template (1)
 > **Exercise Files:** template (3)
 > **CLI Commands:** find (1), make (1)
@@ -497,8 +487,7 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **UI Navigation:** click on (1)
 
-#### Pull request templates
-> [LinkedIn Learning](https://www.linkedin.com/learning/benefits-of-github-community/pull-request-templates?u=76281980)
+#### [Pull request templates](https://www.linkedin.com/learning/benefits-of-github-community/pull-request-templates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -506,7 +495,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/benefits-of-github-community/pull-request-templates?u=76281980&t=2)** They show up in the body of a pull request.
 >
-> **[0:05](https://www.linkedin.com/learning/benefits-of-github-community/pull-request-templates?u=76281980&t=5)** You create a pull request template folder in either the root folder, a docs folder, or a special .GitHub folder, and you give that document the name pull request template.md.
+> **[0:05](https://www.linkedin.com/learning/benefits-of-github-community/pull-request-templates?u=76281980&t=5)** You create a pull request template folder in either the root folder, a docs folder, or a special .[[GitHub]] folder, and you give that document the name pull request template.md.
 >
 > **[0:16](https://www.linkedin.com/learning/benefits-of-github-community/pull-request-templates?u=76281980&t=16)** If you want to create several pull request templates, you can give them the name of a folder called pull request template and then add the names of the multiple pull requests at the end of that.
 >

@@ -17,7 +17,7 @@ tags:
   - topic/data-science
   - topic/software-development
   - topic/devops
-course_count: 84
+course_count: 85
 created: 2026-05-02
 ---
 
@@ -25,7 +25,7 @@ created: 2026-05-02
 
 # Incident Response
 
-> **Type:** Concept | **Courses:** 84 | **Topics:** [[Cybersecurity]], [[Cloud Computing]], [[Data Science]], [[Software Development]], [[DevOps]]
+> **Type:** Concept | **Courses:** 85 | **Topics:** [[Cybersecurity]], [[Cloud Computing]], [[Data Science]], [[Software Development]], [[DevOps]]
 
 ## Courses
 
@@ -40,7 +40,7 @@ created: 2026-05-02
 9. [[Supply Chain Cybersecurity- Preventing Supply Chain Attacks]] — 11 mentions
 10. [[Google Cloud Security for Beginners- Tools and Services]] — 11 mentions
 
-> [!note]- See all 84 courses
+> [!note]- See all 85 courses
 > 11. [[OWASP Top 10- -9 Security Logging and Monitoring Failures and -10 Server-Side Request Forgery]] — 10 mentions
 > 12. [[GDPR Compliance- Essential Training]] — 7 mentions
 > 13. [[AI Product Development- Secure by Design]] — 6 mentions
@@ -112,9 +112,10 @@ created: 2026-05-02
 > 79. [[Data Versioning, Lineage, and Quality Monitoring for AI]] — 1 mentions
 > 80. [[Google Cloud Digital Leader Cert Prep- 6 Scaling with Google Cloud Operations]] — 1 mentions
 > 81. [[Operationalizing AI Governance- Strategy and Foundations by All Tech Is Human]] — 1 mentions
-> 82. [[It Service Desk Service Management]] — 1 mentions
-> 83. [[Understanding Generative AI in Cloud Computing- Services and Use Cases]] — 1 mentions
-> 84. [[RAG for Cybersecurity- Use Cases and Implementation]] — 1 mentions
+> 82. [[Operational Excellence Foundations]] — 1 mentions
+> 83. [[It Service Desk Service Management]] — 1 mentions
+> 84. [[Understanding Generative AI in Cloud Computing- Services and Use Cases]] — 1 mentions
+> 85. [[RAG for Cybersecurity- Use Cases and Implementation]] — 1 mentions
 
 ## Learning Paths
 

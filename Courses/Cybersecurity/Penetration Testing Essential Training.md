@@ -107,8 +107,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Establishing a solid foundation to progress into a career of penetration testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/establishing-a-solid-foundation-to-progress-into-a-career-of-penetration-testing?u=76281980)
+#### [Establishing a solid foundation to progress into a career of penetration testing](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/establishing-a-solid-foundation-to-progress-into-a-career-of-penetration-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -124,48 +123,46 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/establishing-a-solid-foundation-to-progress-into-a-career-of-penetration-testing?u=76281980&t=38)** I'm Malcolm Shore, and I've spent a career helping governments and businesses protect their systems against cyber attack.
 >
-> **[0:44](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/establishing-a-solid-foundation-to-progress-into-a-career-of-penetration-testing?u=76281980&t=44)** I'd like to invite you to take this LinkedIn learning course to learn about the essentials of pen testing.
+> **[0:44](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/establishing-a-solid-foundation-to-progress-into-a-career-of-penetration-testing?u=76281980&t=44)** I'd like to invite you to take this [[LinkedIn]] learning course to learn about the essentials of pen testing.
 >
 > **[0:50](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/establishing-a-solid-foundation-to-progress-into-a-career-of-penetration-testing?u=76281980&t=50)** Let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), power (1), business (1), career (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Speakers:** - [malcolm] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/what-you-should-know?u=76281980&t=0)** - [Instructor] This is a practical course, and during this course, I'll be using Windows and Linux-based tools running on a VirtualBox test network to do testing.
+> **[0:00](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/what-you-should-know?u=76281980&t=0)** - [Instructor] This is a practical course, and during this course, I'll be using [[Windows]] and [[Linux]]-based tools running on a VirtualBox test network to do testing.
 >
 > **[0:09](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/what-you-should-know?u=76281980&t=9)** In particular, I'll be using the Kali testing framework and the Metasploitable system as a test target.
 >
 > **[0:16](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/what-you-should-know?u=76281980&t=16)** I'll be using both commercial and public domain tools for testing, and I'll be showing you code in Assembler and C.
 >
-> **[0:24](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/what-you-should-know?u=76281980&t=24)** You should also know the basics of Bash and Python scripting, and I'll provide a refresher on them.
+> **[0:24](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/what-you-should-know?u=76281980&t=24)** You should also know the basics of Bash and [[Python (Programming Language)|Python]] scripting, and I'll provide a refresher on them.
 >
 > **[0:30](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/what-you-should-know?u=76281980&t=30)** Pen testing is a challenging pursuit.
 >
-> **[0:33](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/what-you-should-know?u=76281980&t=33)** You should be competent in computer and network technologies, and you should have a working knowledge of ethical hacking.
+> **[0:33](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/what-you-should-know?u=76281980&t=33)** You should be competent in computer and network technologies, and you should have a working knowledge of [[Ethical Hacking]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (1), [[Linux]] (1), [[Python (Programming Language)|Python]] (1), [[Scripting]] (1), [[Ethical Hacking]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Linux]] (1), [[Python (Programming Language)|Python]] (1), [[Ethical Hacking]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** python (1)
 > **Tools:** bash (1)
 > **Speakers:** - [instructor] (1)
 
-#### Disclaimer
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/disclaimer?u=76281980)
+#### [Disclaimer](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/disclaimer?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/disclaimer?u=76281980&t=0)** - [Narrator] This course uses a range of third-party testing tools.
 >
-> **[0:04](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/disclaimer?u=76281980&t=4)** Some are commercial products and some are open source.
+> **[0:04](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/disclaimer?u=76281980&t=4)** Some are commercial [[Microsoft Products|products]] and some are open source.
 >
 > **[0:08](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/disclaimer?u=76281980&t=8)** The download and installation instructions for all tools used in this course is available as a PDF in the associated course material.
 >
@@ -190,14 +187,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Pen testing overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/pen-testing-overview?u=76281980)
+#### [Pen testing overview](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/pen-testing-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/pen-testing-overview?u=76281980&t=0)** - [Presenter] Over the last decade, testing computer systems for vulnerabilities has become a necessary part of any deployment.
 >
-> **[0:08](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/pen-testing-overview?u=76281980&t=8)** Traditionally, the software development lifecycle included testing as the final stage prior to going live and used testing methods based on developing test cases to confirm the software was functionally correct, i.e. it produced the correct result.
+> **[0:08](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/pen-testing-overview?u=76281980&t=8)** Traditionally, the [[Software Development]] lifecycle included testing as the final stage prior to going live and used testing methods based on developing test cases to confirm the software was functionally correct, i.e. it produced the correct result.
 >
 > **[0:23](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/pen-testing-overview?u=76281980&t=23)** While this was all very well for software through to the 1990s, the advent of the internet and online services provided a rich environment for hackers to find flaws in software.
 >
@@ -219,7 +215,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/pen-testing-overview?u=76281980&t=99)** As the internet grew, hackers started posting their hacking software on bulletin boards and then on shared underground websites.
 >
-> **[1:47](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/pen-testing-overview?u=76281980&t=107)** These were often scripts which automated the attacks using languages such as Pearl, or more recently, Python, would be hackers with few skills were enabled to download the tools and run them, and this community became known as script kiddies.
+> **[1:47](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/pen-testing-overview?u=76281980&t=107)** These were often scripts which automated the attacks using languages such as Pearl, or more recently, [[Python (Programming Language)|Python]], would be hackers with few skills were enabled to download the tools and run them, and this community became known as script kiddies.
 >
 > **[2:03](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/pen-testing-overview?u=76281980&t=123)** As businesses started using attack techniques in a controlled environment to check their own software, the term white hat was used to distinguish the authorized testers from the black hat or unauthorized hacker.
 >
@@ -241,7 +237,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/pen-testing-overview?u=76281980&t=193)** They cause immense damage and financial loss and have created a toxic environment of mistrust and fear on the internet.
 >
-> **[3:22](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/pen-testing-overview?u=76281980&t=202)** As to the white hats, the increase in black hat activity has seen a massive demand for penetration testing and a demand for a much higher skill level to match that of the black hats.
+> **[3:22](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/pen-testing-overview?u=76281980&t=202)** As to the white hats, the increase in black hat activity has seen a massive demand for [[Penetration Testing]] and a demand for a much higher skill level to match that of the black hats.
 >
 > **[3:33](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/pen-testing-overview?u=76281980&t=213)** Some of the more skilled white hat testers have focused on research to find bugs and to claim bug bounties.
 >
@@ -253,7 +249,7 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/pen-testing-overview?u=76281980&t=244)** In addition to individual tools, there are a number of testing frameworks available which bring a set of tools together.
 >
-> **[4:11](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/pen-testing-overview?u=76281980&t=251)** The best known of these is Kali Linux, a full freeware Linux distribution, which includes over 600 tools, which is often the primary framework used by a pen tester.
+> **[4:11](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/pen-testing-overview?u=76281980&t=251)** The best known of these is [[Kali Linux]], a full freeware [[Linux]] distribution, which includes over 600 tools, which is often the primary framework used by a pen tester.
 >
 > **[4:22](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/pen-testing-overview?u=76281980&t=262)** The start point for a career in penetration testing is to become an ethical hacker.
 >
@@ -273,7 +269,7 @@ created: 2026-05-02
 >
 > **[5:22](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/pen-testing-overview?u=76281980&t=322)** Elite pen testers are also the community of hackers who create many of the public domain tools used by the white hat community.
 >
-> **[5:30](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/pen-testing-overview?u=76281980&t=330)** Certified Ethical Hacker is the foundational certification for ethical hacking or pen testing.
+> **[5:30](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/pen-testing-overview?u=76281980&t=330)** Certified Ethical Hacker is the foundational certification for [[Ethical Hacking]] or pen testing.
 >
 > **[5:36](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/pen-testing-overview?u=76281980&t=336)** Well, it used to be a paper-based certification.
 >
@@ -285,7 +281,7 @@ created: 2026-05-02
 >
 > **[5:55](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/pen-testing-overview?u=76281980&t=355)** And it offers a range of pen testing certifications, which are recognized globally.
 >
-> **[6:00](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/pen-testing-overview?u=76281980&t=360)** The benchmark certification for a professional pen tester is the PEN 200 Offensive Security Certified Professional, or OSCP.
+> **[6:00](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/pen-testing-overview?u=76281980&t=360)** The benchmark certification for a professional pen tester is the PEN 200 Offensive Security Certified Professional, or [[OSCP]].
 >
 > **[6:10](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/pen-testing-overview?u=76281980&t=370)** This is the certification most professional pen testers have, and it demonstrates not only knowledge of pen testing techniques and tools, but also a high level of skill in applying them to an unknown target environment.
 >
@@ -293,7 +289,7 @@ created: 2026-05-02
 >
 > **[6:34](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/pen-testing-overview?u=76281980&t=394)** An important part of cyber defense is checking for and correcting known vulnerabilities.
 >
-> **[6:39](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/pen-testing-overview?u=76281980&t=399)** This can be done for the perimeter with an online service such as Nessus and internally with network vulnerability assessment tools such as Rapid 7 and Expos.
+> **[6:39](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/pen-testing-overview?u=76281980&t=399)** This can be done for the perimeter with an online service such as Nessus and internally with network [[Vulnerability Assessment]] tools such as Rapid 7 and Expos.
 >
 > **[6:51](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/pen-testing-overview?u=76281980&t=411)** Pen testers run tools and techniques against targets looking for areas of weakness that the developer hasn't found during testing and that the vulnerability scanner hasn't detected.
 >
@@ -303,7 +299,7 @@ created: 2026-05-02
 >
 > **[7:26](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/pen-testing-overview?u=76281980&t=446)** Finally, there's a new approach and a new breed of professional called a cyber hunter whose job is to do deep monitoring of the network and server environment, looking for indicators that the network has been compromised.
 >
-> **[7:38](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/pen-testing-overview?u=76281980&t=458)** The cyber hunter will use network intrusion detection systems and big data security analytic solutions to find indicators of compromise.
+> **[7:38](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/pen-testing-overview?u=76281980&t=458)** The cyber hunter will use network [[Intrusion Detection]] systems and [[Big Data]] security analytic solutions to find indicators of compromise.
 >
 > **[7:47](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/pen-testing-overview?u=76281980&t=467)** Cyber hunting is an emerging discipline and there are, at this stage, no specialist tools available.
 >
@@ -311,7 +307,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), career (3), [[Penetration Testing]] (2), [[Software Development]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Penetration Testing]] (2), [[Software Development]] (1), [[Python (Programming Language)|Python]] (1), [[Kali Linux]] (1), [[Linux]] (1)
 > **CLI Commands:** find (6), make (1), python (1)
 > **Analogies:** such as (5)
 > **Definitions:** in other words (1), known as (1), is called (1), is an  (1)
@@ -319,8 +315,7 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Speakers:** - [presenter] (1)
 
-#### The cyber kill chain
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/the-cyber-kill-chain?u=76281980)
+#### [The cyber kill chain](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/the-cyber-kill-chain?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -368,13 +363,13 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/the-cyber-kill-chain?u=76281980&t=159)** Weaponization means taking a known vulnerability and customizing it to a specific target or group of targets and integrating it to enable it to run from an automated cyber attack platform.
 >
-> **[2:53](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/the-cyber-kill-chain?u=76281980&t=173)** The weaponized malware may be designed to exploit a vulnerability in a specific version of an operating system or target a specific online banking website.
+> **[2:53](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/the-cyber-kill-chain?u=76281980&t=173)** The weaponized malware may be designed to exploit a vulnerability in a specific version of an operating system or target a specific online [[Banking]] website.
 >
 > **[3:03](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/the-cyber-kill-chain?u=76281980&t=183)** In the age of hacking as a business, cyber criminals will often purchase the weaponized malware from dedicated developers rather than develop their own version.
 >
 > **[3:13](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/the-cyber-kill-chain?u=76281980&t=193)** The most common way of delivering malware is to attach an infected document, PDF image, or other electronic item in a way that when the document is opened, the malware will self-install.
 >
-> **[3:25](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/the-cyber-kill-chain?u=76281980&t=205)** This file can then be sent to the victim via email, a process known as phishing.
+> **[3:25](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/the-cyber-kill-chain?u=76281980&t=205)** This file can then be sent to the victim via email, a process known as [[Phishing]].
 >
 > **[3:31](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/the-cyber-kill-chain?u=76281980&t=211)** Another way might be to find a vulnerable website, infect it with the malware, and send an email invitation to the target to visit the website.
 >
@@ -392,7 +387,7 @@ created: 2026-05-02
 >
 > **[4:37](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/the-cyber-kill-chain?u=76281980&t=277)** For email attachments and flash drive attacks, the infected item will exploit a vulnerability in the target's software post-delivery when the document is open or the flash drive inserted.
 >
-> **[4:49](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/the-cyber-kill-chain?u=76281980&t=289)** A compromised website may similarly download HTML code, which takes advantage of a browser vulnerability.
+> **[4:49](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/the-cyber-kill-chain?u=76281980&t=289)** A compromised website may similarly download [[HTML]] code, which takes advantage of a browser vulnerability.
 >
 > **[4:55](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/the-cyber-kill-chain?u=76281980&t=295)** In the case of remote access, the exploitation phase is simply the unauthorized use of credentials.
 >
@@ -406,7 +401,7 @@ created: 2026-05-02
 >
 > **[5:36](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/the-cyber-kill-chain?u=76281980&t=336)** Additionally, some form of mechanism may be introduced to make sure the payload is restarted every time the system is rebooted.
 >
-> **[5:44](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/the-cyber-kill-chain?u=76281980&t=344)** One way of doing this in Windows is to add a registry entry to automatically run the payload when the system starts up.
+> **[5:44](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/the-cyber-kill-chain?u=76281980&t=344)** One way of doing this in [[Windows]] is to add a registry entry to automatically run the payload when the system starts up.
 >
 > **[5:51](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/the-cyber-kill-chain?u=76281980&t=351)** The payload will often be or include a means of maintaining ongoing access into a command shell.
 >
@@ -428,15 +423,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), next (1), [[Banking]] (1), [[Phishing]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Banking]] (1), [[Phishing]] (1), [[HTML]] (1), [[Windows]] (1)
 > **Definitions:** known as (6), is a  (1)
 > **CLI Commands:** find (4), make (1)
 > **Env Vars:** pdf (1), html (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### The MITRE ATT&CK repository
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/the-mitre-att-ck-repository?u=76281980)
+#### [The MITRE ATT&CK repository](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/the-mitre-att-ck-repository?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -478,12 +472,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Scanning networks with Nmap
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/scanning-networks-with-nmap?u=76281980)
+#### [Scanning networks with Nmap](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/scanning-networks-with-nmap?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/scanning-networks-with-nmap?u=76281980&t=0)** - [Instructor] Let's take a refresher on using Nmap for scanning networks to discover what hosts are present and what services are available on those hosts.
+> **[0:00](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/scanning-networks-with-nmap?u=76281980&t=0)** - [Instructor] Let's take a refresher on using [[Nmap]] for scanning networks to discover what hosts are present and what services are available on those hosts.
 >
 > **[0:09](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/scanning-networks-with-nmap?u=76281980&t=9)** I'll be using the Nmap tool, which comes preloaded in Kali.
 >
@@ -517,7 +510,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/scanning-networks-with-nmap?u=76281980&t=129)** This is particularly useful when we want to scan a live system, which doesn't respond to an ICMP ping.
 >
-> **[2:15](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/scanning-networks-with-nmap?u=76281980&t=135)** We're running a Windows Server on address 10.0.2.38, but Nmap didn't find it.
+> **[2:15](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/scanning-networks-with-nmap?u=76281980&t=135)** We're running a [[Windows Server]] on address 10.0.2.38, but Nmap didn't find it.
 >
 > **[2:21](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/scanning-networks-with-nmap?u=76281980&t=141)** Let's scan it using -P0, nmap -PS -P0 10.0.2.38.
 >
@@ -555,7 +548,7 @@ created: 2026-05-02
 >
 > **[5:08](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/scanning-networks-with-nmap?u=76281980&t=308)** Again privileged, so sudo nmap -O 10.0.2.32.
 >
-> **[5:19](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/scanning-networks-with-nmap?u=76281980&t=319)** The scanner's now finished, and Nmap has fingerprinted the computer operating system correctly as a Linux system, as well as listing the TCP ports that it's detected.
+> **[5:19](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/scanning-networks-with-nmap?u=76281980&t=319)** The scanner's now finished, and Nmap has fingerprinted the computer operating system correctly as a [[Linux]] system, as well as listing the TCP ports that it's detected.
 >
 > **[5:30](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/scanning-networks-with-nmap?u=76281980&t=330)** Nmap has a comprehensive library of scripts.
 >
@@ -577,7 +570,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1), [[Windows Server]] (1), next (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Nmap]] (22), [[Windows Server]] (1), [[Linux]] (1)
 > **Env Vars:** tcp (8), udp (6), syn (3), icmp (2), ack (2)
 > **Versions:** 10.0.2 (9), 10.2.0 (1), version 4 (1)
 > **CLI Commands:** sudo (5), find (3)
@@ -586,12 +579,11 @@ created: 2026-05-02
 > **Definitions:** is called (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### A netcat refresher
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/a-netcat-refresher?u=76281980)
+#### [A netcat refresher](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/a-netcat-refresher?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/a-netcat-refresher?u=76281980&t=0)** - [Instructor] Netcat is often referred to as the Swiss Army knife of networking 'cause it has so many features and so many uses.
+> **[0:00](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/a-netcat-refresher?u=76281980&t=0)** - [Instructor] [[Netcat]] is often referred to as the Swiss Army knife of networking 'cause it has so many features and so many uses.
 >
 > **[0:07](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/a-netcat-refresher?u=76281980&t=7)** Fundamentally, it operates as either a sender or a receiver of arbitrary data across the network.
 >
@@ -623,7 +615,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/a-netcat-refresher?u=76281980&t=79)** If I now enter Hi, how is Mars?
 >
-> **[1:26](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/a-netcat-refresher?u=76281980&t=86)** it appears immediately in the windows system.
+> **[1:26](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/a-netcat-refresher?u=76281980&t=86)** it appears immediately in the [[Windows]] system.
 >
 > **[1:30](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/a-netcat-refresher?u=76281980&t=90)** To terminate the connection I can press Ctrl C.
 >
@@ -669,11 +661,11 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/a-netcat-refresher?u=76281980&t=207)** For example, we can use netcat to connect to a web server.
 >
-> **[3:31](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/a-netcat-refresher?u=76281980&t=211)** I'll type nc -v [google.com](https://google.com) 80, so we're looking at [thewebsitegoogle.com](https://thewebsitegoogle.com).
+> **[3:31](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/a-netcat-refresher?u=76281980&t=211)** I'll type nc -v [[[Google]].com](https://google.com) 80, so we're looking at [thewebsitegoogle.com](https://thewebsitegoogle.com).
 >
 > **[3:40](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/a-netcat-refresher?u=76281980&t=220)** The - v switch tells Netcat to be verbose and provide me with status messages and 80 is the standard port for accessing a website.
 >
-> **[3:48](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/a-netcat-refresher?u=76281980&t=228)** When the connection is made, I can type the HTTP command, GET index.html HTTP/1.1 and I press enter twice
+> **[3:48](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/a-netcat-refresher?u=76281980&t=228)** When the connection is made, I can type the HTTP command, GET index.[[HTML]] HTTP/1.1 and I press enter twice
 >
 > **[4:02](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/a-netcat-refresher?u=76281980&t=242)** and the web server will deliver its webpage code.
 >
@@ -697,7 +689,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Windows]] (2), web (2), next (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Netcat]] (15), [[Windows]] (2), [[Google]] (1), [[HTML]] (1)
 > **File Paths:** myfile.txt (4), incoming.txt (3), index.html (1)
 > **Env Vars:** ftp (4), http (2)
 > **Versions:** 10.0.2 (5), 1.1 (1)
@@ -706,8 +698,7 @@ created: 2026-05-02
 > **Ports:** port 4545 (2)
 > **CLI Commands:** cat (1)
 
-#### Capturing packets with tcpdump
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/capturing-packets-with-tcpdump?u=76281980)
+#### [Capturing packets with tcpdump](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/capturing-packets-with-tcpdump?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -719,7 +710,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/capturing-packets-with-tcpdump?u=76281980&t=24)** And as we can see here, we have it set to allow all.
 >
-> **[0:29](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/capturing-packets-with-tcpdump?u=76281980&t=29)** TCPdump is a command line tool and is included in the Linux distribution.
+> **[0:29](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/capturing-packets-with-tcpdump?u=76281980&t=29)** TCPdump is a command line tool and is included in the [[Linux]] distribution.
 >
 > **[0:34](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/capturing-packets-with-tcpdump?u=76281980&t=34)** It has some basic command line options.
 >
@@ -755,7 +746,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/capturing-packets-with-tcpdump?u=76281980&t=163)** Tcpdump also allows expressions to be used as filters.
 >
-> **[2:47](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/capturing-packets-with-tcpdump?u=76281980&t=167)** There are three forms of expression, type expressions for which we can use host net and port, direction expressions, source and DST for source and destination, and protocol expressions, TCP, UDP, ICMP, and the AH authentication protocol.
+> **[2:47](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/capturing-packets-with-tcpdump?u=76281980&t=167)** There are three [[Forms]] of expression, type expressions for which we can use host net and port, direction expressions, source and DST for source and destination, and protocol expressions, TCP, UDP, ICMP, and the AH authentication protocol.
 >
 > **[3:09](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/capturing-packets-with-tcpdump?u=76281980&t=189)** We can also use IP6 as a protocol expression to see all IP6 traffic.
 >
@@ -787,7 +778,7 @@ created: 2026-05-02
 >
 > **[5:44](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/capturing-packets-with-tcpdump?u=76281980&t=344)** Complex expressions may require quotes.
 >
-> **[5:47](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/capturing-packets-with-tcpdump?u=76281980&t=347)** For example, let's look at traffic to the meta exploitable server on ports 80 or 4 4 3 from our window system, pseudo tcpdump -I eth0 -c 10, and we'll now say, source is 10.0.2.38, our windows system.
+> **[5:47](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/capturing-packets-with-tcpdump?u=76281980&t=347)** For example, let's look at traffic to the meta exploitable server on ports 80 or 4 4 3 from our window system, pseudo tcpdump -I eth0 -c 10, and we'll now say, source is 10.0.2.38, our [[Windows]] system.
 >
 > **[6:13](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/capturing-packets-with-tcpdump?u=76281980&t=373)** And DST port is 80
 >
@@ -823,7 +814,7 @@ created: 2026-05-02
 >
 > **[8:47](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/capturing-packets-with-tcpdump?u=76281980&t=527)** from Kali, let's SSH into our meta exploitable server, and then we can see that we've captured the SSH header.
 >
-> **[9:00](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/capturing-packets-with-tcpdump?u=76281980&t=540)** Another check we might want to do is to check for invalid combinations of flags, such as the rest and syn both being set.
+> **[9:00](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/capturing-packets-with-tcpdump?u=76281980&t=540)** Another check we might want to do is to check for invalid combinations of flags, such as the [[Representational State Transfer (REST)|rest]] and syn both being set.
 >
 > **[9:09](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/capturing-packets-with-tcpdump?u=76281980&t=549)** To do that, we'd say look for TCP 13
 >
@@ -837,7 +828,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (9), [[Windows]] (2), [[Linux]] (1), data (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Linux]] (1), [[Forms]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** tcp (8), ip6 (4), ssh (4), dst (3), udp (3)
 > **CLI Commands:** ssh (4), make (1), find (1)
 > **Versions:** 10.0.2 (4)
@@ -846,8 +837,7 @@ created: 2026-05-02
 > **Code Identifiers:** tx (1)
 > **Ports:** port 443 (1)
 
-#### Work with netstat, nbtstat, and arp
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/work-with-netstat-nbtstat-and-arp?u=76281980)
+#### [Work with netstat, nbtstat, and arp](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/work-with-netstat-nbtstat-and-arp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -855,7 +845,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/work-with-netstat-nbtstat-and-arp?u=76281980&t=9)** Let's look at Netstat first.
 >
-> **[0:11](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/work-with-netstat-nbtstat-and-arp?u=76281980&t=11)** Netstat is a tool to list protocol statistics in current network connections.
+> **[0:11](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/work-with-netstat-nbtstat-and-arp?u=76281980&t=11)** Netstat is a tool to list protocol [[Statistics]] in current network connections.
 >
 > **[0:17](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/work-with-netstat-nbtstat-and-arp?u=76281980&t=17)** By simply entering netstat, we get the current TCP connections.
 >
@@ -885,7 +875,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/work-with-netstat-nbtstat-and-arp?u=76281980&t=92)** We can also see a summary of UDP packets sent and received.
 >
-> **[1:38](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/work-with-netstat-nbtstat-and-arp?u=76281980&t=98)** With the -rn switches we can see the interface tables with MAC addresses and the routing table in numeric IP form.
+> **[1:38](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/work-with-netstat-nbtstat-and-arp?u=76281980&t=98)** With the -rn switches we can see the interface tables with MAC addresses and the [[Routing]] table in numeric IP form.
 >
 > **[1:47](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/work-with-netstat-nbtstat-and-arp?u=76281980&t=107)** ARP is the address resolution protocol utility, which associates numeric IP addresses with Mac addresses to enable ethernet routing.
 >
@@ -899,18 +889,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (2), next (2), [[Routing]] (2)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Routing]] (2)
 > **Env Vars:** tcp (8), udp (4), arp (3), mac (1)
 > **Definitions:** is a  (2)
 > **UI Navigation:** switch to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Scripting with PowerShell
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/scripting-with-powershell?u=76281980)
+#### [Scripting with PowerShell](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/scripting-with-powershell?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/scripting-with-powershell?u=76281980&t=0)** - [Instructor] Windows PowerShell comes built into all current Windows systems and is to Windows what the Bash shell is to Linux, a powerful command line tool for automating systems and network administration.
+> **[0:00](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/scripting-with-powershell?u=76281980&t=0)** - [Instructor] [[Windows]] [[Powershell]] comes built into all current Windows systems and is to Windows what the Bash shell is to [[Linux]], a powerful command line tool for automating systems and [[Network Administration]].
 >
 > **[0:12](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/scripting-with-powershell?u=76281980&t=12)** It's also a useful tool for the pen tester to be able to use when carrying out testing.
 >
@@ -934,7 +923,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/scripting-with-powershell?u=76281980&t=81)** We look at some more of these verbs as we refresh our skills in PowerShell.
 >
-> **[1:25](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/scripting-with-powershell?u=76281980&t=85)** We can get help on the various forms of these verbs.
+> **[1:25](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/scripting-with-powershell?u=76281980&t=85)** We can get help on the various [[Forms]] of these verbs.
 >
 > **[1:29](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/scripting-with-powershell?u=76281980&t=89)** For example, we can enter help push.
 >
@@ -1012,7 +1001,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (17), [[Windows]] (8), [[Linux]] (2), [[Scripting]] (2), [[Network Administration]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (17), [[Windows]] (8), [[Linux]] (2), [[Network Administration]] (1), [[Forms]] (1)
 > **Tools:** powershell (17), bash (2), command line (2)
 > **Env Vars:** txt (2), ise (2), wmi (1)
 > **Analogies:** such as (3), for example (1)
@@ -1021,16 +1010,15 @@ created: 2026-05-02
 > **Versions:** 5.0 (1)
 > **Prerequisites:** set up (1)
 
-#### Extending PowerShell with Nishang
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/extending-powershell-with-nishang?u=76281980)
+#### [Extending PowerShell with Nishang](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/extending-powershell-with-nishang?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/extending-powershell-with-nishang?u=76281980&t=0)** - Let's take a look at nishang, a set of powerful commandlets written by Nikhil Mittal.
 >
-> **[0:06](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/extending-powershell-with-nishang?u=76281980&t=6)** Nishang is available in the Kali Linux release, but it can also be manually loaded into a window system.
+> **[0:06](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/extending-powershell-with-nishang?u=76281980&t=6)** Nishang is available in the [[Kali Linux]] release, but it can also be manually loaded into a window system.
 >
-> **[0:12](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/extending-powershell-with-nishang?u=76281980&t=12)** The zip file can be downloaded from Nikhil's GitHub site shown here.
+> **[0:12](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/extending-powershell-with-nishang?u=76281980&t=12)** The zip file can be downloaded from Nikhil's [[GitHub]] site shown here.
 >
 > **[0:16](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/extending-powershell-with-nishang?u=76281980&t=16)** I've already downloaded and extracted the nishang master contents into c:/nishang.
 >
@@ -1038,7 +1026,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/extending-powershell-with-nishang?u=76281980&t=28)** A number of these scripts are picked up as a threat by antivirus software.
 >
-> **[0:33](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/extending-powershell-with-nishang?u=76281980&t=33)** You'll also need to run the script as administrator, so make sure you open the PowerShell using run as administrator option.
+> **[0:33](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/extending-powershell-with-nishang?u=76281980&t=33)** You'll also need to run the script as administrator, so make sure you open the [[Powershell]] using run as administrator option.
 >
 > **[0:41](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/extending-powershell-with-nishang?u=76281980&t=41)** I've got PowerShell loaded and running as administrator, so let's get going.
 >
@@ -1078,7 +1066,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/extending-powershell-with-nishang?u=76281980&t=169)** Another powerful feature of nishang is creating documents with an embedded payload.
 >
-> **[2:55](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/extending-powershell-with-nishang?u=76281980&t=175)** An example of this is the out word command, which I'll run on a system with the Microsoft Office installed.
+> **[2:55](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/extending-powershell-with-nishang?u=76281980&t=175)** An example of this is the out [[Microsoft Word|word]] command, which I'll run on a system with the [[Microsoft Office]] installed.
 >
 > **[3:02](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/extending-powershell-with-nishang?u=76281980&t=182)** This can create a default Word document or can embed the payload in whatever Word document is provided.
 >
@@ -1122,7 +1110,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (6), [[Microsoft Word|Word]] (4), [[Kali Linux]] (1), [[GitHub]] (1), feature (1)
+> **Frameworks & Libraries:** [[Powershell]] (6), [[Microsoft Word|Word]] (4), [[Kali Linux]] (1), [[GitHub]] (1), [[Microsoft Office]] (1)
 > **Tools:** powershell (6), github (1)
 > **CLI Commands:** find (4), make (1)
 > **Env Vars:** gci (1), chm (1), ftp (1), api (1)
@@ -1131,14 +1119,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
 
-#### What is Active Directory?
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/what-is-active-directory?u=76281980)
+#### [What is Active Directory?](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/what-is-active-directory?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/what-is-active-directory?u=76281980&t=0)** - [Instructor] Microsoft provides an LDAP compliant identity provider called Active Directory as an optional feature in its server range.
+> **[0:00](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/what-is-active-directory?u=76281980&t=0)** - [Instructor] [[Microsoft]] provides an LDAP compliant identity provider called [[Active Directory]] as an optional feature in its server range.
 >
-> **[0:07](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/what-is-active-directory?u=76281980&t=7)** So when we purchase a Windows server, we've also got a latent Active Directory waiting to be activated.
+> **[0:07](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/what-is-active-directory?u=76281980&t=7)** So when we purchase a [[Windows Server]], we've also got a latent Active Directory waiting to be activated.
 >
 > **[0:14](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/what-is-active-directory?u=76281980&t=14)** However, with Microsoft we get much more than just an LDAP directory.
 >
@@ -1202,7 +1189,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/what-is-active-directory?u=76281980&t=218)** Let's get a glimpse of what this looks like.
 >
-> **[3:41](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/what-is-active-directory?u=76281980&t=221)** We can run a tool that comes with Kali Linux called DMitry, which retrieves public information on an organization.
+> **[3:41](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/what-is-active-directory?u=76281980&t=221)** We can run a tool that comes with [[Kali Linux]] called DMitry, which retrieves public information on an organization.
 >
 > **[3:49](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/what-is-active-directory?u=76281980&t=229)** I'll run this against [yahoo.com](https://yahoo.com).
 >
@@ -1234,7 +1221,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (24), [[Microsoft]] (3), [[Windows Server]] (2), management (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Active Directory]] (24), [[Microsoft]] (3), [[Windows Server]] (2), [[Kali Linux]] (1)
 > **URLs:** [yahoo.com](https://yahoo.com) (6)
 > **Definitions:** known as (3), is an  (1)
 > **Env Vars:** ldap (2)
@@ -1243,12 +1230,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Prerequisites:** set up (1)
 
-#### Analyze Active Directory with BloodHound
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/analyze-active-directory-with-bloodhound?u=76281980)
+#### [Analyze Active Directory with BloodHound](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/analyze-active-directory-with-bloodhound?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/analyze-active-directory-with-bloodhound?u=76281980&t=0)** - [Instructor] Once we've got a member account which we can use to work with active directory, we need to start working towards escalating our access to domain administrator.
+> **[0:00](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/analyze-active-directory-with-bloodhound?u=76281980&t=0)** - [Instructor] Once we've got a member account which we can use to work with [[Active Directory]], we need to start working towards escalating our access to domain administrator.
 >
 > **[0:09](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/analyze-active-directory-with-bloodhound?u=76281980&t=9)** One of the useful tools for doing this is BloodHound.
 >
@@ -1260,11 +1246,11 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/analyze-active-directory-with-bloodhound?u=76281980&t=28)** So before we start working with BloodHound, we need to extract data from our active directory server.
 >
-> **[0:34](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/analyze-active-directory-with-bloodhound?u=76281980&t=34)** We've already loaded the BloodHound Python collector, so let's run that.
+> **[0:34](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/analyze-active-directory-with-bloodhound?u=76281980&t=34)** We've already loaded the BloodHound [[Python (Programming Language)|Python]] collector, so let's run that.
 >
 > **[0:38](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/analyze-active-directory-with-bloodhound?u=76281980&t=38)** To use the blood hand Python system, we need to have a domain user account that we've obtained in some way.
 >
-> **[0:44](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/analyze-active-directory-with-bloodhound?u=76281980&t=44)** We'll be using the account for John Doe with a username jdoe76 and a password of JDPass2021.
+> **[0:44](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/analyze-active-directory-with-bloodhound?u=76281980&t=44)** We'll be using the account for [[John the Ripper|John]] Doe with a username jdoe76 and a password of JDPass2021.
 >
 > **[0:52](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/analyze-active-directory-with-bloodhound?u=76281980&t=52)** To collect the data, all we need to do is .local/bin/bloodhound-python.
 >
@@ -1274,11 +1260,11 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/analyze-active-directory-with-bloodhound?u=76281980&t=93)** The collector very quickly, detects the domain and collects the data from it.
 >
-> **[1:37](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/analyze-active-directory-with-bloodhound?u=76281980&t=97)** It creates a set of four JSON files.
+> **[1:37](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/analyze-active-directory-with-bloodhound?u=76281980&t=97)** It creates a set of four [[JSON]] files.
 >
 > **[1:43](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/analyze-active-directory-with-bloodhound?u=76281980&t=103)** Let's start BloodHound now and go and look at the data.
 >
-> **[1:46](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/analyze-active-directory-with-bloodhound?u=76281980&t=106)** We have to start the Neo4j server first, so let's open a new terminal for that and we'll enter sudo neo4j console.
+> **[1:46](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/analyze-active-directory-with-bloodhound?u=76281980&t=106)** We have to start the [[Neo4j]] server first, so let's open a new terminal for that and we'll enter sudo neo4j console.
 >
 > **[2:03](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/analyze-active-directory-with-bloodhound?u=76281980&t=123)** We need to change our initial Neo4j credentials and we do that by browsing to 127.0.0.1:7474
 >
@@ -1322,7 +1308,7 @@ created: 2026-05-02
 >
 > **[4:57](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/analyze-active-directory-with-bloodhound?u=76281980&t=297)** An immediate analysis of interest is to list all domain admins.
 >
-> **[5:08](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/analyze-active-directory-with-bloodhound?u=76281980&t=308)** We have an account called administrator, the normal Windows admin account.
+> **[5:08](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/analyze-active-directory-with-bloodhound?u=76281980&t=308)** We have an account called administrator, the normal [[Windows]] admin account.
 >
 > **[5:13](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/analyze-active-directory-with-bloodhound?u=76281980&t=313)** However, we can also see that AADMA31 and AKATT42 are also domain administrators, so their accounts we'll be wanting to exploit if we can.
 >
@@ -1346,7 +1332,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (6), data (6), [[Neo4j]] (6), [[Python (Programming Language)|Python]] (3), [[JSON]] (2)
+> **Frameworks & Libraries:** [[Active Directory]] (6), [[Neo4j]] (6), [[Python (Programming Language)|Python]] (3), [[JSON]] (2), [[John the Ripper|John]] (1)
 > **Env Vars:** akatt42 (3), json (2), nstove07 (1), domain (1), admins (1)
 > **CLI Commands:** find (4), python (3), node (2), sudo (1)
 > **Definitions:** is a  (3)
@@ -1360,14 +1346,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Refreshing your Bash skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/refreshing-your-bash-skills?u=76281980)
+#### [Refreshing your Bash skills](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/refreshing-your-bash-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/refreshing-your-bash-skills?u=76281980&t=0)** - [Instructor] One of the skills that can be quite useful when pen testing is Bash scripting.
 >
-> **[0:04](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/refreshing-your-bash-skills?u=76281980&t=4)** Bash is a program that comes built into Linux, and Bash scripts, also called Shell scripts, are text documents with a ".sh" extension.
+> **[0:04](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/refreshing-your-bash-skills?u=76281980&t=4)** Bash is a program that comes built into [[Linux]], and Bash scripts, also called Shell scripts, are text documents with a ".sh" extension.
 >
 > **[0:13](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/refreshing-your-bash-skills?u=76281980&t=13)** There's a number of courses on Bash scripting in our library, and if you want an in-depth understanding of the language, then I'd recommend you look in particular at the course by Scott Simpson.
 >
@@ -1433,7 +1418,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scripting]] (3), [[Linux]] (1), next (1), prompt (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **Tools:** bash (11), command line (3)
 > **File Paths:** argue.sh (3), variables.sh (3), reader.sh (3), hello.sh (2)
 > **CLI Commands:** chmod (3), make (1)
@@ -1441,8 +1426,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Controlling the flow in a script
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/controlling-the-flow-in-a-script?u=76281980)
+#### [Controlling the flow in a script](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/controlling-the-flow-in-a-script?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1502,14 +1486,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **File Paths:** iftest.sh (3), fortest.sh (2), wutest.sh (1)
 > **Tools:** bash (2)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using functions in bash
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/using-functions-in-bash?u=76281980)
+#### [Using functions in bash](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/using-functions-in-bash?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1561,7 +1543,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (1)
 > **File Paths:** fntest.sh (2)
 > **Tools:** bash (2)
 > **UI Navigation:** go to (2)
@@ -1573,12 +1554,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Refresh your Python skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/refresh-your-python-skills?u=76281980)
+#### [Refresh your Python skills](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/refresh-your-python-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/refresh-your-python-skills?u=76281980&t=0)** - [Instructor] Python is an interpretive programming language, and the interpreter can be found for both Windows and Linux at the main Python site shown here.
+> **[0:00](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/refresh-your-python-skills?u=76281980&t=0)** - [Instructor] [[Python (Programming Language)|Python]] is an interpretive programming language, and the interpreter can be found for both [[Windows]] and [[Linux]] at the main Python site shown here.
 >
 > **[0:09](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/refresh-your-python-skills?u=76281980&t=9)** There are various versions of Python and scripts are not always compatible, so modifying Python scripts that you may pick up to do testing is sometimes necessary.
 >
@@ -1710,7 +1690,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (18), [[Programming]] (2), [[Windows]] (2), [[Linux]] (2), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (18), [[Windows]] (2), [[Linux]] (2)
 > **CLI Commands:** python (18), find (5), make (2)
 > **Versions:** 173.23.1 (4), 12.43 (1), 10.0.2 (1)
 > **URLs:** [munless.com](https://munless.com) (3)
@@ -1719,12 +1699,11 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Warnings:** note that (2)
 
-#### Use the system functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/use-the-system-functions?u=76281980)
+#### [Use the system functions](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/use-the-system-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/use-the-system-functions?u=76281980&t=0)** - [Instructor] There are many system and third party functions that we can use to extend the capability of Python.
+> **[0:00](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/use-the-system-functions?u=76281980&t=0)** - [Instructor] There are many system and third party functions that we can use to extend the capability of [[Python (Programming Language)|Python]].
 >
 > **[0:05](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/use-the-system-functions?u=76281980&t=5)** One that we'll use frequently is the operating system functions library.
 >
@@ -1756,19 +1735,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Scripting]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2)
 > **Definitions:** is called (2)
 > **File Paths:** sprog.py (1)
 > **Env Vars:** ors (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use networking functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/use-networking-functions?u=76281980)
+#### [Use networking functions](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/use-networking-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/use-networking-functions?u=76281980&t=0)** - [Instructor] Another module we'll want to be familiar with when we're doing pen testing is the Python Networking library, the socket module.
+> **[0:00](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/use-networking-functions?u=76281980&t=0)** - [Instructor] Another module we'll want to be familiar with when we're doing pen testing is the [[Python (Programming Language)|Python]] Networking library, the socket module.
 >
 > **[0:07](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/use-networking-functions?u=76281980&t=7)** To use the socket library, we need to import it, set its configuration, and then create an instance that we can use to call its functions.
 >
@@ -1821,14 +1799,13 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
 
-#### Work with websites
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/work-with-web-sites?u=76281980)
+#### [Work with websites](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/work-with-web-sites?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/work-with-web-sites?u=76281980&t=0)** - [Instructor] A significant part of any pen tester's work will be website testing.
 >
-> **[0:05](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/work-with-web-sites?u=76281980&t=5)** While automated testing tools are readily available, there are times when we might need to do manual testing using scripting tools such as Python.
+> **[0:05](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/work-with-web-sites?u=76281980&t=5)** While automated testing tools are readily available, there are times when we might need to do [[Manual Testing]] using scripting tools such as [[Python (Programming Language)|Python]].
 >
 > **[0:13](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/work-with-web-sites?u=76281980&t=13)** Let's have a look at how we can use Python to work with websites.
 >
@@ -1842,7 +1819,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/work-with-web-sites?u=76281980&t=40)** And then we print the decoded page.
 >
-> **[0:43](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/work-with-web-sites?u=76281980&t=43)** Let's try it Python useurl.py, and here we get the HTML from that index page.
+> **[0:43](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/work-with-web-sites?u=76281980&t=43)** Let's try it Python useurl.py, and here we get the [[HTML]] from that index page.
 >
 > **[0:55](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/work-with-web-sites?u=76281980&t=55)** Websites need to have pages uploaded, and one common way to do this is using FTP.
 >
@@ -1866,7 +1843,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/work-with-web-sites?u=76281980&t=113)** As an attacker, we're on the lookout for a writeable web folder or webpage that we can compromise.
 >
-> **[1:58](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/work-with-web-sites?u=76281980&t=118)** Let's use Python to upload a malicious PHP file that will allow us to run commands.
+> **[1:58](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/work-with-web-sites?u=76281980&t=118)** Let's use Python to upload a malicious [[PHP]] file that will allow us to run commands.
 >
 > **[2:04](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/work-with-web-sites?u=76281980&t=124)** We'll prepare two files for this.
 >
@@ -1900,7 +1877,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[PHP]] (6), web (2), [[Manual Testing]] (1), [[Scripting]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[PHP]] (6), [[Manual Testing]] (1), [[HTML]] (1)
 > **Env Vars:** ftp (7), url (4), php (4), dav (3), html (1)
 > **CLI Commands:** python (7), php (6), curl (2), ls (1)
 > **File Paths:** webinject.py (3), useurl.py (2), shelly.php (2), url.py (1), ftp.py (1)
@@ -1909,20 +1886,19 @@ created: 2026-05-02
 > **Versions:** 10.02.32 (1)
 > **Definitions:** is a  (1)
 
-#### Access SQLite databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/access-sqlite-databases?u=76281980)
+#### [Access SQLite databases](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/access-sqlite-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/access-sqlite-databases?u=76281980&t=0)** - [Instructor] When doing pen testing, we'll often come across SQ light databases on everything from browsers to mobile devices.
+> **[0:00](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/access-sqlite-databases?u=76281980&t=0)** - [Instructor] When doing pen testing, we'll often come across SQ light [[Databases]] on everything from browsers to mobile devices.
 >
-> **[0:08](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/access-sqlite-databases?u=76281980&t=8)** It's useful to have a way to automate access in order to build testing tools and to do manual testing.
+> **[0:08](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/access-sqlite-databases?u=76281980&t=8)** It's useful to have a way to automate access in order to build testing tools and to do [[Manual Testing]].
 >
-> **[0:14](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/access-sqlite-databases?u=76281980&t=14)** We can do this relatively easily with Python.
+> **[0:14](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/access-sqlite-databases?u=76281980&t=14)** We can do this relatively easily with [[Python (Programming Language)|Python]].
 >
 > **[0:17](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/access-sqlite-databases?u=76281980&t=17)** Let's take a look at where we'll find the database Chrome users to store cookies.
 >
-> **[0:22](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/access-sqlite-databases?u=76281980&t=22)** We're here in a rather deep folder of our homepage called app data local Google Chrome user data default network.
+> **[0:22](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/access-sqlite-databases?u=76281980&t=22)** We're here in a rather deep folder of our homepage called app data local [[Google]] Chrome user data default network.
 >
 > **[0:30](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/access-sqlite-databases?u=76281980&t=30)** Let's see what it contains.
 >
@@ -1934,7 +1910,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/access-sqlite-databases?u=76281980&t=51)** Here we open the SQ Light three library and connect to our cookies database.
 >
-> **[0:56](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/access-sqlite-databases?u=76281980&t=56)** We then execute a query using select against the master SQL light configuration to get the names of tables in the database.
+> **[0:56](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/access-sqlite-databases?u=76281980&t=56)** We then execute a query using select against the master [[SQL]] light configuration to get the names of tables in the database.
 >
 > **[1:04](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/access-sqlite-databases?u=76281980&t=64)** So let's run that.
 >
@@ -1976,21 +1952,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), [[Python (Programming Language)|Python]] (6), data (3), [[Databases]] (1), [[Manual Testing]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Databases]] (1), [[Manual Testing]] (1), [[Google]] (1), [[SQL]] (1)
 > **CLI Commands:** python (6), find (1)
 > **File Paths:** squeal1.py (2), squeal3.py (2), squeal2.py (1)
 > **UI Navigation:** open the (1), select the (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using Scapy to work with packets
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/using-scapy-to-work-with-packets?u=76281980)
+#### [Using Scapy to work with packets](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/using-scapy-to-work-with-packets?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/using-scapy-to-work-with-packets?u=76281980&t=0)** - [Instructor] It's occasionally useful when testing to use raw packets to probe a target.
 >
-> **[0:04](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/using-scapy-to-work-with-packets?u=76281980&t=4)** We can do this in Python by invoking the Scapy library.
+> **[0:04](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/using-scapy-to-work-with-packets?u=76281980&t=4)** We can do this in [[Python (Programming Language)|Python]] by invoking the Scapy library.
 >
 > **[0:08](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/using-scapy-to-work-with-packets?u=76281980&t=8)** Scapy is a Python tool, but it also comes as a library to use within our own Python scripts.
 >
@@ -2020,16 +1995,15 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Leveraging OpenAI for testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/leveraging-openai-for-testing?u=76281980)
+#### [Leveraging OpenAI for testing](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/leveraging-openai-for-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/leveraging-openai-for-testing?u=76281980&t=0)** - [Instructor] Increasingly, we're hearing about the capabilities of AI to assist us in everything we do.
 >
-> **[0:06](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/leveraging-openai-for-testing?u=76281980&t=6)** While some of what is reported is hype, we can certainly use AI to assist with our penetration testing, either using the public portals or by querying it programmatically.
+> **[0:06](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/leveraging-openai-for-testing?u=76281980&t=6)** While some of what is reported is hype, we can certainly use AI to assist with our [[Penetration Testing]], either using the public portals or by querying it programmatically.
 >
-> **[0:18](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/leveraging-openai-for-testing?u=76281980&t=18)** Let's check how we do this in Python.
+> **[0:18](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/leveraging-openai-for-testing?u=76281980&t=18)** Let's check how we do this in [[Python (Programming Language)|Python]].
 >
 > **[0:21](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/leveraging-openai-for-testing?u=76281980&t=21)** In order to follow along with this, you'll need to register an account with OpenAI and obtain an API key.
 >
@@ -2061,11 +2035,11 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/leveraging-openai-for-testing?u=76281980&t=114)** Okay, we've now got the Python script for running a port scan.
 >
-> **[1:59](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/leveraging-openai-for-testing?u=76281980&t=119)** Let's see if OpenAI knows its way around PowerShell.
+> **[1:59](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/leveraging-openai-for-testing?u=76281980&t=119)** Let's see if OpenAI knows its way around [[Powershell]].
 >
 > **[2:03](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/leveraging-openai-for-testing?u=76281980&t=123)** Write a Powershell script that will enumerate
 >
-> **[2:16](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/leveraging-openai-for-testing?u=76281980&t=136)** all SMB services on a Windows server.
+> **[2:16](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/leveraging-openai-for-testing?u=76281980&t=136)** all SMB services on a [[Windows Server]].
 >
 > **[2:27](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/leveraging-openai-for-testing?u=76281980&t=147)** Okay. It seems that OpenAI knows about PowerShell too.
 >
@@ -2083,7 +2057,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), ai (4), [[Powershell]] (3), [[Penetration Testing]] (1), api (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Powershell]] (3), [[Penetration Testing]] (1), [[Windows Server]] (1)
 > **CLI Commands:** python (6), pip (1), sudo (1), pip3 (1), make (1)
 > **Env Vars:** api (1), pip (1), gpt (1), smb (1), mitre (1)
 > **Prerequisites:** install (2), you'll need (1), set up (1)
@@ -2097,8 +2071,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### A Kali refresher
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/a-kali-refresher?u=76281980)
+#### [A Kali refresher](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/a-kali-refresher?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2132,11 +2105,11 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/a-kali-refresher?u=76281980&t=74)** Okay, we're up to date now and we can close the terminal window.
 >
-> **[1:18](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/a-kali-refresher?u=76281980&t=78)** Our Mac address is the hardware address associated with our network card.
+> **[1:18](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/a-kali-refresher?u=76281980&t=78)** Our Mac address is the [[Hardware]] address associated with our network card.
 >
 > **[1:24](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/a-kali-refresher?u=76281980&t=84)** However, we can override this in software.
 >
-> **[1:27](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/a-kali-refresher?u=76281980&t=87)** Let's look at one of the system configuration tools included with Kali that we can use to change our Mac address.
+> **[1:27](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/a-kali-refresher?u=76281980&t=87)** Let's look at one of the [[System Configuration]] tools included with Kali that we can use to change our Mac address.
 >
 > **[1:33](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/a-kali-refresher?u=76281980&t=93)** I'll select applications, sniffing & spoofing, macchanger.
 >
@@ -2144,7 +2117,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/a-kali-refresher?u=76281980&t=103)** I can run ifconfig to see my current settings, ifconfig.
 >
-> **[1:51](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/a-kali-refresher?u=76281980&t=111)** we can see the Mac address on the line starting with the word "ether."
+> **[1:51](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/a-kali-refresher?u=76281980&t=111)** we can see the Mac address on the line starting with the [[Microsoft Word|word]] "ether."
 >
 > **[1:55](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/a-kali-refresher?u=76281980&t=115)** I'll now run macchanger and change my Mac address, sudo macchanger -A eth0.
 >
@@ -2164,20 +2137,19 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/a-kali-refresher?u=76281980&t=178)** And we get a list of all the vulnerabilities for the smb protocol.
 >
-> **[3:03](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/a-kali-refresher?u=76281980&t=183)** We can limit the results with a second term, searchsploit smb windows, and the results are limited to just Microsoft vulnerabilities.
+> **[3:03](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/a-kali-refresher?u=76281980&t=183)** We can limit the results with a second term, searchsploit smb [[Windows]], and the results are limited to just [[Microsoft]] vulnerabilities.
 >
 > **[3:15](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/a-kali-refresher?u=76281980&t=195)** There are many tools in the Kali menus and as a pen tester, you'll want to be familiar with them.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), [[Security]] (1), power (1), [[Hardware]] (1), [[System Configuration]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (1), [[System Configuration]] (1), [[Microsoft Word|Word]] (1), [[Windows]] (1), [[Microsoft]] (1)
 > **CLI Commands:** sudo (3), apt (2), make (1), find (1)
 > **Tools:** terminal (3)
 > **UI Navigation:** click on (1), open the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Fuzzing with Spike
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/fuzzing-with-spike?u=76281980)
+#### [Fuzzing with Spike](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/fuzzing-with-spike?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2185,11 +2157,11 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/fuzzing-with-spike?u=76281980&t=6)** We're not going to test its full functionality, but we will use it to look at a fuzzing tool called Spike that's included in Kali.
 >
-> **[0:14](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/fuzzing-with-spike?u=76281980&t=14)** I've loaded the vulnerable server shown here onto my Windows system.
+> **[0:14](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/fuzzing-with-spike?u=76281980&t=14)** I've loaded the vulnerable server shown here onto my [[Windows]] system.
 >
 > **[0:18](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/fuzzing-with-spike?u=76281980&t=18)** This server listens on port 9999.
 >
-> **[0:21](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/fuzzing-with-spike?u=76281980&t=21)** The first thing I'll do is to connect to the server using Netcat, nc 10.0.2.14 9999.
+> **[0:21](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/fuzzing-with-spike?u=76281980&t=21)** The first thing I'll do is to connect to the server using [[Netcat]], nc 10.0.2.14 9999.
 >
 > **[0:30](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/fuzzing-with-spike?u=76281980&t=30)** Okay, we get the banner, and I can enter HELP to see what commands it takes.
 >
@@ -2209,7 +2181,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/fuzzing-with-spike?u=76281980&t=84)** Okay, I'm instructing Spike to send the string TRUN and variable command to the server.
 >
-> **[1:31](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/fuzzing-with-spike?u=76281980&t=91)** To see this in action, we'll use Wireshark to capture the packets.
+> **[1:31](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/fuzzing-with-spike?u=76281980&t=91)** To see this in action, we'll use [[Wireshark]] to capture the packets.
 >
 > **[1:40](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/fuzzing-with-spike?u=76281980&t=100)** And we can call the Spike send tcp module by entering generic_send_tcp to 10.0.2.14 on port 9999, using the action file command.spk 0 0.
 >
@@ -2237,7 +2209,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (2), [[Windows]] (1), [[Netcat]] (1)
 > **Env Vars:** trun (5), help (2), syn (2), ack (2), command (1)
 > **Versions:** 10.0.2 (4)
 > **Code Identifiers:** s_string (1), s_string_variable (1), generic_send_tcp (1)
@@ -2245,8 +2217,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Information gathering with Legion
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/information-gathering-with-legion?u=76281980)
+#### [Information gathering with Legion](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/information-gathering-with-legion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2268,9 +2239,9 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/information-gathering-with-legion?u=76281980&t=49)** We can see its progress in the bottom panel, and as the analysis proceeds, we can see the results in the main right panel.
 >
-> **[0:56](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/information-gathering-with-legion?u=76281980&t=56)** If we scroll down to Port 3306, we can see that the server is running MySQL 5.0.51a.
+> **[0:56](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/information-gathering-with-legion?u=76281980&t=56)** If we scroll down to Port 3306, we can see that the server is running [[MySQL]] 5.0.51a.
 >
-> **[1:05](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/information-gathering-with-legion?u=76281980&t=65)** We can open the MySQL tab at the top right and we can see that Legion has used Hydra to check and found valid credentials to access the SQL server.
+> **[1:05](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/information-gathering-with-legion?u=76281980&t=65)** We can open the MySQL tab at the top right and we can see that Legion has used [[Hydra]] to check and found valid credentials to access the [[Microsoft SQL Server|SQL server]].
 >
 > **[1:15](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/information-gathering-with-legion?u=76281980&t=75)** Similarly, if we click on the tab for FTP on Port 21, we find that Hydra has identified valid credentials to access that service also.
 >
@@ -2294,7 +2265,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MySQL]] (2), [[Microsoft SQL Server|Sql server]] (1)
+> **Frameworks & Libraries:** [[MySQL]] (2), [[Hydra]] (2), [[Microsoft SQL Server|Sql server]] (1)
 > **Ports:** port 3306 (1), port 21 (1), port 6 (1), port 1524 (1), port 22 (1)
 > **UI Navigation:** click on (3), scroll down (1), open the (1)
 > **CLI Commands:** find (2), mysql (2)
@@ -2303,18 +2274,17 @@ created: 2026-05-02
 > **Code Identifiers:** unix_users (1), unix_passwords (1)
 > **Env Vars:** sql (1), ftp (1)
 
-#### Using Metasploit
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/using-metasploit?u=76281980)
+#### [Using Metasploit](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/using-metasploit?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/using-metasploit?u=76281980&t=0)** - [Instructor] When pen testing, it's useful to provide evidence that vulnerabilities are in fact exploitable.
 >
-> **[0:05](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/using-metasploit?u=76281980&t=5)** To do this, we can use Metasploit, which we can find in the applications, exploitation tools menu.
+> **[0:05](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/using-metasploit?u=76281980&t=5)** To do this, we can use [[Metasploit]], which we can find in the applications, exploitation tools menu.
 >
-> **[0:14](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/using-metasploit?u=76281980&t=14)** The first time Metasploit starts up, it will create and prepare its databases, otherwise, it will skip this initialization step.
+> **[0:14](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/using-metasploit?u=76281980&t=14)** The first time Metasploit starts up, it will create and prepare its [[Databases]], otherwise, it will skip this initialization step.
 >
-> **[0:21](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/using-metasploit?u=76281980&t=21)** After completing its startup, the MSF 6 prompt appears.
+> **[0:21](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/using-metasploit?u=76281980&t=21)** After completing its startup, the [[Metasploit|MSF]] 6 prompt appears.
 >
 > **[0:25](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/using-metasploit?u=76281980&t=25)** Metasploit is now ready for use.
 >
@@ -2342,7 +2312,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/using-metasploit?u=76281980&t=108)** There's far too many exploits for this to be useful, but I can be more selective and use the search command.
 >
-> **[1:54](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/using-metasploit?u=76281980&t=114)** Let's look for a Windows 8 exploit.
+> **[1:54](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/using-metasploit?u=76281980&t=114)** Let's look for a [[Windows]] 8 exploit.
 >
 > **[1:57](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/using-metasploit?u=76281980&t=117)** I'll enter search win8.
 >
@@ -2418,7 +2388,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), [[Windows]] (4), database (3), [[Databases]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Metasploit]] (11), [[Windows]] (4), [[Databases]] (1), [[Metasploit|Msf]] (1)
 > **Env Vars:** msf (1), irc (1), rhosts (1), lhost (1)
 > **Versions:** 10.0.2 (3)
 > **CLI Commands:** find (1), ls (1)
@@ -2427,8 +2397,7 @@ created: 2026-05-02
 > **Prerequisites:** initialization (1)
 > **Speakers:** - [instructor] (1)
 
-#### Scan targets with GVM
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/scan-targets-with-gvm?u=76281980)
+#### [Scan targets with GVM](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/scan-targets-with-gvm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2442,7 +2411,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/scan-targets-with-gvm?u=76281980&t=23)** Let's install this in Kali, sudo apt install gvm.
 >
-> **[0:31](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/scan-targets-with-gvm?u=76281980&t=31)** And we can now move straight into the GVM setup phase, which will load its databases, sudo gvm-setup.
+> **[0:31](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/scan-targets-with-gvm?u=76281980&t=31)** And we can now move straight into the GVM setup phase, which will load its [[Databases]], sudo gvm-setup.
 >
 > **[0:45](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/scan-targets-with-gvm?u=76281980&t=45)** Here we see our admin password, which we'll need, and it will be repeated at the end of setup.
 >
@@ -2500,7 +2469,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (2), database (1)
+> **Frameworks & Libraries:** [[Databases]] (2)
 > **Env Vars:** gvm (6), ram (1), uid (1)
 > **CLI Commands:** find (2), sudo (2), apt (1), ruby (1)
 > **Prerequisites:** setup (3), install (2)
@@ -2514,8 +2483,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Approach web testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/approach-web-testing?u=76281980)
+#### [Approach web testing](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/approach-web-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2553,7 +2521,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/approach-web-testing?u=76281980&t=117)** Understanding the strengths and weaknesses of the web architecture is useful.
 >
-> **[2:03](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/approach-web-testing?u=76281980&t=123)** Another area to look at is user authentication, especially where the website includes e-commerce functionality.
+> **[2:03](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/approach-web-testing?u=76281980&t=123)** Another area to look at is user authentication, especially where the website includes [[E-Commerce]] functionality.
 >
 > **[2:10](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/approach-web-testing?u=76281980&t=130)** The rules around credit card payments are very strict, and most sites have moved to payment gateways.
 >
@@ -2569,7 +2537,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/approach-web-testing?u=76281980&t=179)** Session management is another area of weakness, and it's useful to test whether an attacker can hijack a session or access a session with an intercepted session cookie.
 >
-> **[3:10](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/approach-web-testing?u=76281980&t=190)** Session tokens may also be predictable, which enables an attacker to prepare for an attack when the predicted cookie becomes active.
+> **[3:10](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/approach-web-testing?u=76281980&t=190)** Session [[Tokens]] may also be predictable, which enables an attacker to prepare for an attack when the predicted cookie becomes active.
 >
 > **[3:18](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/approach-web-testing?u=76281980&t=198)** There's a lot of ways to attack a web application and a lot to look at when doing web testing.
 >
@@ -2577,17 +2545,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (11), data (2), traffic (2), [[E-Commerce]] (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (2), [[Tokens]] (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** http (1)
 > **Speakers:** - [instructor] (1)
 
-#### Test websites with Burp Suite
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/test-websites-with-burpsuite?u=76281980)
+#### [Test websites with Burp Suite](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/test-websites-with-burpsuite?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/test-websites-with-burpsuite?u=76281980&t=0)** - [Instructor] The Burp Suite Community Edition comes as one of the tools pre-built into Kali.
+> **[0:00](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/test-websites-with-burpsuite?u=76281980&t=0)** - [Instructor] The [[Burp Suite]] Community Edition comes as one of the tools pre-built into Kali.
 >
 > **[0:05](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/test-websites-with-burpsuite?u=76281980&t=5)** I'll select applications, web application analysis, and Burp Suite from the top of the list.
 >
@@ -2661,7 +2628,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Burp Suite]] (9), traffic (2), web application (1), next (1)
+> **Frameworks & Libraries:** [[Burp Suite]] (9)
 > **UI Navigation:** go to (3), select the (2), click on (2)
 > **URLs:** [http://zero.webappsecurity.com](http://zero.webappsecurity.com) (2)
 > **Ports:** port 8080 (1)
@@ -2670,12 +2637,11 @@ created: 2026-05-02
 > **Tools:** firefox (1)
 > **Speakers:** - [instructor] (1)
 
-#### Check web servers with Nikto
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/check-web-servers-with-nikto?u=76281980)
+#### [Check web servers with Nikto](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/check-web-servers-with-nikto?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/check-web-servers-with-nikto?u=76281980&t=0)** - [Instructor] Nikto is a fairly simple tool for web scanning.
+> **[0:00](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/check-web-servers-with-nikto?u=76281980&t=0)** - [Instructor] [[Nikto]] is a fairly simple tool for web scanning.
 >
 > **[0:03](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/check-web-servers-with-nikto?u=76281980&t=3)** It appears in the application menu under vulnerability analysis.
 >
@@ -2687,7 +2653,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/check-web-servers-with-nikto?u=76281980&t=19)** I'll run Nikto against my metasploitable host by typing Nikto-H 10.0.2.8.
 >
-> **[0:31](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/check-web-servers-with-nikto?u=76281980&t=31)** The first thing we see is that the web server is an Apache 2.2.8 system running on Ubuntu.
+> **[0:31](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/check-web-servers-with-nikto?u=76281980&t=31)** The first thing we see is that the web server is an Apache 2.2.8 system running on [[Ubuntu]].
 >
 > **[0:38](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/check-web-servers-with-nikto?u=76281980&t=38)** This is followed by three notes relating to missing hardening features and advice that the Apache server is out of date.
 >
@@ -2697,7 +2663,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), application (1), [[Ubuntu]] (1), database (1)
+> **Frameworks & Libraries:** [[Nikto]] (6), [[Ubuntu]] (1)
 > **CLI Commands:** apache (2)
 > **Versions:** 10.0.2 (1), 2.2.8 (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -2705,8 +2671,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Fingerprint web servers
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/fingerprint-webservers?u=76281980)
+#### [Fingerprint web servers](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/fingerprint-webservers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2722,7 +2687,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/fingerprint-webservers?u=76281980&t=32)** httprecon can be downloaded from the Computec website as a zip file containing the Window's binaries.
 >
-> **[0:39](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/fingerprint-webservers?u=76281980&t=39)** I've downloaded it into my Windows system, into the httprecon folder.
+> **[0:39](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/fingerprint-webservers?u=76281980&t=39)** I've downloaded it into my [[Windows]] system, into the httprecon folder.
 >
 > **[0:46](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/fingerprint-webservers?u=76281980&t=46)** There are three OCX files that come with httprecon.
 >
@@ -2758,7 +2723,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/fingerprint-webservers?u=76281980&t=140)** The fingerprinting menu also has options for opening the site in a browser, and for connecting to the Computec online fingerprint database.
 >
-> **[2:28](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/fingerprint-webservers?u=76281980&t=148)** Net Square provides a useful tool for fingerprinting web servers called httprint.
+> **[2:28](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/fingerprint-webservers?u=76281980&t=148)** Net Square provides a useful tool for fingerprinting [[Web Servers]] called httprint.
 >
 > **[2:34](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/fingerprint-webservers?u=76281980&t=154)** This can be downloaded from the site shown.
 >
@@ -2770,9 +2735,9 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/fingerprint-webservers?u=76281980&t=178)** Let's put in the address zero.[webappsecurity.com](https://webappsecurity.com)
 >
-> **[3:08](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/fingerprint-webservers?u=76281980&t=188)** and point to the test banking website.
+> **[3:08](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/fingerprint-webservers?u=76281980&t=188)** and point to the test [[Banking]] website.
 >
-> **[3:11](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/fingerprint-webservers?u=76281980&t=191)** I'll change the output file to be zero.html.
+> **[3:11](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/fingerprint-webservers?u=76281980&t=191)** I'll change the output file to be zero.[[HTML]].
 >
 > **[3:18](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/fingerprint-webservers?u=76281980&t=198)** I'll now press the play button at the bottom to check the fingerprint.
 >
@@ -2798,7 +2763,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), web application (2), application (2), [[Windows]] (2), [[Banking]] (2)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Banking]] (2), [[Web Servers]] (1), [[HTML]] (1)
 > **Versions:** 2.2.8 (2), 1.1 (2), 2.0.59 (1), 1.3 (1), 2.0 (1)
 > **CLI Commands:** apache (5), ruby (1)
 > **Env Vars:** ocx (1), icmp (1), ssl (1)
@@ -2807,20 +2772,19 @@ created: 2026-05-02
 > **URLs:** [webappsecurity.com](https://webappsecurity.com) (1)
 > **Exercise Files:** zip file (1)
 
-#### Web server penetration using sqlmap
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/web-server-penetration-using-sqlmap?u=76281980)
+#### [Web server penetration using sqlmap](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/web-server-penetration-using-sqlmap?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/web-server-penetration-using-sqlmap?u=76281980&t=0)** - [Instructor] Let's take a look at how we approach the initial penetration of a web server using SQLmap.
+> **[0:00](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/web-server-penetration-using-sqlmap?u=76281980&t=0)** - [Instructor] Let's take a look at how we approach the initial penetration of a web server using [[SQLmap]].
 >
-> **[0:06](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/web-server-penetration-using-sqlmap?u=76281980&t=6)** To do this, I'll use a target in the LinkedIn learning pen testing lab.
+> **[0:06](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/web-server-penetration-using-sqlmap?u=76281980&t=6)** To do this, I'll use a target in the [[LinkedIn]] learning pen testing lab.
 >
 > **[0:10](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/web-server-penetration-using-sqlmap?u=76281980&t=10)** If you want to know more about this lab, check out my Advanced Kali course.
 >
 > **[0:16](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/web-server-penetration-using-sqlmap?u=76281980&t=16)** The target we'll use is the Europa server, which is on address 10.10.10.22.
 >
-> **[0:21](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/web-server-penetration-using-sqlmap?u=76281980&t=21)** I've VPNed into the lab and we'll do a deep nmap scan with a minus A switch.
+> **[0:21](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/web-server-penetration-using-sqlmap?u=76281980&t=21)** I've VPNed into the lab and we'll do a deep [[Nmap]] scan with a minus A switch.
 >
 > **[0:28](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/web-server-penetration-using-sqlmap?u=76281980&t=28)** Nmap -PS -F -A 10.10.10.22.
 >
@@ -2828,7 +2792,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/web-server-penetration-using-sqlmap?u=76281980&t=51)** And we're running an Apache 2.4.18 website.
 >
-> **[0:56](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/web-server-penetration-using-sqlmap?u=76281980&t=56)** We can see the SSL certificate uses the subject name europacorp.htb with alternate names of www.europacorp.htb and admin-portal.europacorp.htb.
+> **[0:56](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/web-server-penetration-using-sqlmap?u=76281980&t=56)** We can see the SSL certificate uses the subject name europacorp.[[HackTheBox|htb]] with alternate names of www.europacorp.htb and admin-portal.europacorp.htb.
 >
 > **[1:12](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/web-server-penetration-using-sqlmap?u=76281980&t=72)** This indicates we may be looking at a name server.
 >
@@ -2838,7 +2802,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/web-server-penetration-using-sqlmap?u=76281980&t=92)** When we go to HTTPS, we have a potential security problem but we'll accept that and continue.
 >
-> **[1:42](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/web-server-penetration-using-sqlmap?u=76281980&t=102)** And again, we're at the Apache 2 Ubuntu default webpage.
+> **[1:42](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/web-server-penetration-using-sqlmap?u=76281980&t=102)** And again, we're at the Apache 2 [[Ubuntu]] default webpage.
 >
 > **[1:51](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/web-server-penetration-using-sqlmap?u=76281980&t=111)** Let's add admin-portal.europacorp.htb to our host file and see what we get when we go to the name server, sudo nano/etc/hosts and we'll add 10.10.10.22.
 >
@@ -2854,13 +2818,13 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/web-server-penetration-using-sqlmap?u=76281980&t=187)** To do this, we run SQLmap -u [https://admin-portal.europacorp.htb](https://admin-portal.europacorp.htb)
 >
-> **[3:24](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/web-server-penetration-using-sqlmap?u=76281980&t=204)** and we'll tell it to look for forms and we'll tell it to crawl to a depth of 2.
+> **[3:24](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/web-server-penetration-using-sqlmap?u=76281980&t=204)** and we'll tell it to look for [[Forms]] and we'll tell it to crawl to a depth of 2.
 >
 > **[3:34](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/web-server-penetration-using-sqlmap?u=76281980&t=214)** And if it does find an exploitable parameter, we'll dump the database.
 >
 > **[3:44](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/web-server-penetration-using-sqlmap?u=76281980&t=224)** Okay, we'll need to answer a few questions but we'll take the suggested defaults but we'll use 10 threads.
 >
-> **[3:59](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/web-server-penetration-using-sqlmap?u=76281980&t=239)** SQLmap has found the login page and it's identified the database as my SQL and it thinks that email might be injectable and is also vulnerable to a cross scripting attack and we'll let it test for injections.
+> **[3:59](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/web-server-penetration-using-sqlmap?u=76281980&t=239)** SQLmap has found the login page and it's identified the database as my [[SQL]] and it thinks that email might be injectable and is also vulnerable to a cross scripting attack and we'll let it test for injections.
 >
 > **[4:16](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/web-server-penetration-using-sqlmap?u=76281980&t=256)** We've let SQLmap try fuzzy tests and it's identified, there are five columns in the query and that it's union injectable.
 >
@@ -2878,7 +2842,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), web (2), [[SQL]] (2), [[LinkedIn]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[SQLmap]] (9), [[HackTheBox|Htb]] (7), [[Nmap]] (2), [[SQL]] (2), [[LinkedIn]] (1)
 > **Env Vars:** https (2), sql (2), ssh (1), http (1), ssl (1)
 > **CLI Commands:** apache (3), ssh (1), sudo (1), find (1)
 > **Versions:** 10.10.10 (4), 2.4.18 (1)
@@ -2892,8 +2856,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Exploit a target
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/exploit-a-target?u=76281980)
+#### [Exploit a target](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/exploit-a-target?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2931,11 +2894,11 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/exploit-a-target?u=76281980&t=119)** It may be an executable attachment, or it may be a document which when opened exploits a vulnerability in the application software, or just simply runs an embedded malicious macro.
 >
-> **[2:11](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/exploit-a-target?u=76281980&t=131)** We continue to see this technique used with Word documents, PDF files, Flash movies, and spreadsheets in particular.
+> **[2:11](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/exploit-a-target?u=76281980&t=131)** We continue to see this technique used with [[Microsoft Word|Word]] documents, PDF files, Flash movies, and spreadsheets in particular.
 >
 > **[2:19](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/exploit-a-target?u=76281980&t=139)** The one thing these techniques have in common is that the user is unaware that code is executing.
 >
-> **[2:25](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/exploit-a-target?u=76281980&t=145)** The next approach is when the delivery was that of a phishing email containing a hyperlink to a malicious site.
+> **[2:25](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/exploit-a-target?u=76281980&t=145)** The next approach is when the delivery was that of a [[Phishing]] email containing a hyperlink to a malicious site.
 >
 > **[2:32](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/exploit-a-target?u=76281980&t=152)** The malicious site will be looking to take advantage of a vulnerability in the browser, which it can exploit to run what is known as a dropper.
 >
@@ -2971,7 +2934,7 @@ created: 2026-05-02
 >
 > **[4:37](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/exploit-a-target?u=76281980&t=277)** One of the reasons WannaCry was able to do this was through its use of a piece of malware developed by the US National Security Agency called EternalBlue, which used an exploitation technique not known in the public domain, a zero-day.
 >
-> **[4:52](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/exploit-a-target?u=76281980&t=292)** This was a flaw in the Session Management Block, or SMB software used on Windows systems to manage file sharing and printing.
+> **[4:52](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/exploit-a-target?u=76281980&t=292)** This was a flaw in the Session Management Block, or SMB software used on [[Windows]] systems to manage file sharing and printing.
 >
 > **[5:01](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/exploit-a-target?u=76281980&t=301)** Analysis has concluded that the initial infection was through an exposed SMB port.
 >
@@ -2993,7 +2956,7 @@ created: 2026-05-02
 >
 > **[6:16](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/exploit-a-target?u=76281980&t=376)** Later analysis indicated the attack was a remote breach of a supplier computer and insertion of the malware onto the supplier computer from where it jumped onto a USB stick.
 >
-> **[6:28](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/exploit-a-target?u=76281980&t=388)** Stuxnet propagated itself around the network using a Microsoft Print Spooler flaw and three other zero-day vulnerabilities to ensure the maximum opportunity to spread.
+> **[6:28](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/exploit-a-target?u=76281980&t=388)** Stuxnet propagated itself around the network using a [[Microsoft]] Print Spooler flaw and three other zero-day vulnerabilities to ensure the maximum opportunity to spread.
 >
 > **[6:40](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/exploit-a-target?u=76281980&t=400)** Once it found the Siemens equipment, which controlled the centrifuges, its injected malicious code into its memory.
 >
@@ -3021,13 +2984,13 @@ created: 2026-05-02
 >
 > **[8:02](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/exploit-a-target?u=76281980&t=482)** The result of this intrusion was the exposure of 77 million credit cards, one of the biggest recorded data breaches.
 >
-> **[8:10](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/exploit-a-target?u=76281980&t=490)** This was, again, due to a flaw in the SMB software, this time on Red Hat Linux Apache servers, and that was able to be exploited.
+> **[8:10](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/exploit-a-target?u=76281980&t=490)** This was, again, due to a flaw in the SMB software, this time on [[Red Hat Linux]] Apache servers, and that was able to be exploited.
 >
 > **[8:19](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/exploit-a-target?u=76281980&t=499)** The delivery mechanism was an exposed vulnerable service, which exploited an SMB flaw.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Microsoft]] (2), application (1), [[Microsoft Word|Word]] (1), [[Phishing]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (2), [[Microsoft Word|Word]] (1), [[Phishing]] (1), [[Windows]] (1), [[Red Hat Linux]] (1)
 > **Env Vars:** smb (5), usb (4), pdf (1), zip (1), nsa (1)
 > **Definitions:** is a  (3), known as (1)
 > **CLI Commands:** find (1), apache (1)
@@ -3036,8 +2999,7 @@ created: 2026-05-02
 > **Exercise Files:** zip file (1)
 > **Speakers:** - [instructor] (1)
 
-#### Finding caves for code injection
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/finding-caves-for-code-injection?u=76281980)
+#### [Finding caves for code injection](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/finding-caves-for-code-injection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3049,11 +3011,11 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/finding-caves-for-code-injection?u=76281980&t=19)** This is possible because an executable program has a well-defined structure of multiple segments, and an attacker can modify these to suit their own purposes.
 >
-> **[0:30](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/finding-caves-for-code-injection?u=76281980&t=30)** Windows programs are not simply instructions, they have a complex structure known as the portable, executable, or PE format, one or more parts of which are executable code.
+> **[0:30](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/finding-caves-for-code-injection?u=76281980&t=30)** [[Windows]] programs are not simply instructions, they have a complex structure known as the portable, executable, or PE format, one or more parts of which are executable code.
 >
 > **[0:44](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/finding-caves-for-code-injection?u=76281980&t=44)** Let's examine the structure of a Windows executable file.
 >
-> **[0:48](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/finding-caves-for-code-injection?u=76281980&t=48)** The PE file has a collection of fields at a known location that define what the rest of the file looks like.
+> **[0:48](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/finding-caves-for-code-injection?u=76281980&t=48)** The PE file has a collection of fields at a known location that define what the [[Representational State Transfer (REST)|rest]] of the file looks like.
 >
 > **[0:56](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/finding-caves-for-code-injection?u=76281980&t=56)** An important part of the structure is the PE Header, which contains information such as the locations and sizes of the code and data areas, what operating system the file is intended for, and the initial stack size.
 >
@@ -3073,7 +3035,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/finding-caves-for-code-injection?u=76281980&t=123)** We can also see the two characters PE at HEXA decimal 0 times 100 which if we look along to the left of the same line, we can see how the hex decimal digits 5045, followed by two 0 bytes.
 >
-> **[2:19](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/finding-caves-for-code-injection?u=76281980&t=139)** The next two bytes are 4C 01, and then we have two bytes which represent a double word value for the number of sections.
+> **[2:19](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/finding-caves-for-code-injection?u=76281980&t=139)** The next two bytes are 4C 01, and then we have two bytes which represent a double [[Microsoft Word|word]] value for the number of sections.
 >
 > **[2:28](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/finding-caves-for-code-injection?u=76281980&t=148)** We can see the bytes are 0 B 0 0, which in binary is 0 0 0 B, meaning there's 11 sections.
 >
@@ -3119,7 +3081,7 @@ created: 2026-05-02
 >
 > **[4:49](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/finding-caves-for-code-injection?u=76281980&t=289)** We can use a tool called Cminer to show what code caves are available in an executable.
 >
-> **[4:56](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/finding-caves-for-code-injection?u=76281980&t=296)** We can download Cminer from the GitHub site using wget.
+> **[4:56](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/finding-caves-for-code-injection?u=76281980&t=296)** We can download Cminer from the [[GitHub]] site using wget.
 >
 > **[5:03](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/finding-caves-for-code-injection?u=76281980&t=303)** Okay, we've got the executable.
 >
@@ -3155,7 +3117,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Windows]] (3), product (1), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1), [[GitHub]] (1)
 > **Env Vars:** dos (4), hxd (1), win (1), hexa (1), pe00 (1)
 > **CLI Commands:** chmod (2), make (1), wget (1), ssh (1)
 > **UI Navigation:** click on (3)
@@ -3164,14 +3126,13 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understand code injection
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/understand-code-injection?u=76281980)
+#### [Understand code injection](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/understand-code-injection?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/understand-code-injection?u=76281980&t=0)** - [Instructor] I'll use PuTTY to demonstrate how code injection works.
 >
-> **[0:03](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/understand-code-injection?u=76281980&t=3)** I've got it loaded on my VirtualBox Windows 10 system.
+> **[0:03](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/understand-code-injection?u=76281980&t=3)** I've got it loaded on my VirtualBox [[Windows 10]] system.
 >
 > **[0:08](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/understand-code-injection?u=76281980&t=8)** First of all, I'll connect to my Metasploitable server on 10.2.0.8 with PuTTY.
 >
@@ -3309,23 +3270,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (3), [[Search]] (2), [[Windows 10]] (1), next (1), data (1)
+> **Frameworks & Libraries:** [[Windows 10]] (1)
 > **UI Navigation:** select the (3), double-click (2), scroll down (1), right-click (1)
 > **CLI Commands:** find (1), make (1)
 > **Versions:** 10.2.0 (1), 10.0.2 (1)
 > **Env Vars:** e922d905 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understand command injection
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/understand-command-injection?u=76281980)
+#### [Understand command injection](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/understand-command-injection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/understand-command-injection?u=76281980&t=0)** - [Instructor] CV-24576 published in April 2024, identified that the Rust Standard Library prior to version 1.77.2 didn't properly escape arguments when invoking batch files on Windows.
+> **[0:00](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/understand-command-injection?u=76281980&t=0)** - [Instructor] CV-24576 published in April 2024, identified that the [[Rust (Programming Language)|Rust]] Standard Library prior to version 1.77.2 didn't properly escape arguments when invoking batch files on [[Windows]].
 >
 > **[0:16](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/understand-command-injection?u=76281980&t=16)** An attacker who is able to control the arguments which are passed to the spawn process that runs the batch file could execute arbitrary shell commands.
 >
-> **[0:25](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/understand-command-injection?u=76281980&t=25)** It turns out that any language which calls the function to run a batch file is susceptible, including Python.
+> **[0:25](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/understand-command-injection?u=76281980&t=25)** It turns out that any language which calls the function to run a batch file is susceptible, including [[Python (Programming Language)|Python]].
 >
 > **[0:31](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/understand-command-injection?u=76281980&t=31)** This issue, as with other injection attacks, depends upon sending additional data into a target at the end of the expected input.
 >
@@ -3353,14 +3313,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Windows]] (2), data (2), [[Rust (Programming Language)|Rust]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Windows]] (2), [[Rust (Programming Language)|Rust]] (1)
 > **CLI Commands:** python (4)
 > **Versions:** version 1 (1), 77.2 (1)
 > **File Paths:** badbat.py (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understand buffer overflows
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/understand-buffer-overflows?u=76281980)
+#### [Understand buffer overflows](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/understand-buffer-overflows?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3374,7 +3333,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/understand-buffer-overflows?u=76281980&t=23)** Let's do this with MASM so that we can see the instructions clearly.
 >
-> **[0:28](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/understand-buffer-overflows?u=76281980&t=28)** I've written a small MASM program, which uses the Windows GUI, called "buffalo.asm."
+> **[0:28](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/understand-buffer-overflows?u=76281980&t=28)** I've written a small MASM program, which uses the [[Windows]] GUI, called "buffalo.asm."
 >
 > **[0:34](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/understand-buffer-overflows?u=76281980&t=34)** This simulates just a fragment of an application.
 >
@@ -3526,7 +3485,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), next (3), [[Windows]] (2), application (1)
+> **Frameworks & Libraries:** [[Windows]] (2)
 > **Env Vars:** edx (4), ebx (3), ecx (3), masm (2), ebp (2)
 > **UI Navigation:** double-click (2)
 > **Definitions:** known as (1), is a  (1)
@@ -3534,18 +3493,17 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [person] (1)
 
-#### Password spraying Active Directory
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/password-spraying-active-directory?u=76281980)
+#### [Password spraying Active Directory](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/password-spraying-active-directory?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/password-spraying-active-directory?u=76281980&t=0)** - [Instructor] A common way to retrieve credentials from Active Directory is to spray all accessible accounts with a guessed or known password or a list of passwords.
+> **[0:00](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/password-spraying-active-directory?u=76281980&t=0)** - [Instructor] A common way to retrieve credentials from [[Active Directory]] is to spray all accessible accounts with a guessed or known password or a list of passwords.
 >
 > **[0:09](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/password-spraying-active-directory?u=76281980&t=9)** There's a number of tools we can use to do this.
 >
-> **[0:11](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/password-spraying-active-directory?u=76281980&t=11)** Let's have a look at the DomainPasswordSpray PowerShell script from dafthack.
+> **[0:11](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/password-spraying-active-directory?u=76281980&t=11)** Let's have a look at the DomainPasswordSpray [[Powershell]] script from dafthack.
 >
-> **[0:17](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/password-spraying-active-directory?u=76281980&t=17)** I've downloaded the DomainPasswordSpray script from the GitHub site onto my domain workstation, and I'm logged in as the domain user, Sam Spade.
+> **[0:17](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/password-spraying-active-directory?u=76281980&t=17)** I've downloaded the DomainPasswordSpray script from the [[GitHub]] site onto my domain workstation, and I'm logged in as the domain user, Sam Spade.
 >
 > **[0:26](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/password-spraying-active-directory?u=76281980&t=26)** I can now import the script and run it in PowerShell.
 >
@@ -3570,8 +3528,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Find exploit code
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/find-exploit-code?u=76281980)
+#### [Find exploit code](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/find-exploit-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3581,7 +3538,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/find-exploit-code?u=76281980&t=14)** Nowadays, there are many researchers looking for and publishing the details of vulnerabilities and providing detailed analysis of malware that's been found.
 >
-> **[0:23](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/find-exploit-code?u=76281980&t=23)** These appear on many researchers' GitHub sites, and also on vulnerability advisory sites.
+> **[0:23](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/find-exploit-code?u=76281980&t=23)** These appear on many researchers' [[GitHub]] sites, and also on vulnerability advisory sites.
 >
 > **[0:29](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/find-exploit-code?u=76281980&t=29)** The Malware Archeology site provides links to reports from a number of malware research centers.
 >
@@ -3595,7 +3552,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/find-exploit-code?u=76281980&t=57)** A source of ready-made exploits for testing is the Offensive Security Exploit Database.
 >
-> **[1:02](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/find-exploit-code?u=76281980&t=62)** Here we have the full set of exploits on [exploit-db.com](https://exploit-db.com).
+> **[1:02](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/find-exploit-code?u=76281980&t=62)** Here we have the full set of exploits on [[[Exploit-DB]].com](https://exploit-db.com).
 >
 > **[1:06](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/find-exploit-code?u=76281980&t=66)** Let's select the filters button and search for the type remote, and we get a list of remote exploits that are in the database.
 >
@@ -3607,13 +3564,13 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/find-exploit-code?u=76281980&t=99)** At the bottom of the first page of remote exploits, we can see the Remote Desktop Web Access attack.
 >
-> **[1:45](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/find-exploit-code?u=76281980&t=105)** If we click on this, we can see that it's a Python exploit that's used with the metasploit testing tool.
+> **[1:45](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/find-exploit-code?u=76281980&t=105)** If we click on this, we can see that it's a [[Python (Programming Language)|Python]] exploit that's used with the [[Metasploit]] testing tool.
 >
 > **[1:55](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/find-exploit-code?u=76281980&t=115)** Legal Hackers is another website which provides details of vulnerabilities, although there's been few updates recently.
 >
 > **[2:02](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/find-exploit-code?u=76281980&t=122)** The site does include proof of concept exploit code, however.
 >
-> **[2:06](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/find-exploit-code?u=76281980&t=126)** For example, if we select the Git-LFS 2020 vulnerability, and we scroll down, we can see the proof of concept command sequence.
+> **[2:06](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/find-exploit-code?u=76281980&t=126)** For example, if we select the [[Git]]-LFS 2020 vulnerability, and we scroll down, we can see the proof of concept command sequence.
 >
 > **[2:18](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/find-exploit-code?u=76281980&t=138)** Just a note of caution when downloading exploit code from individuals.
 >
@@ -3623,7 +3580,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), [[GitHub]] (1), [[Security]] (1), [[Search]] (1), application (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[Exploit-DB]] (1), [[Python (Programming Language)|Python]] (1), [[Metasploit]] (1), [[Git]] (1)
 > **UI Navigation:** select the (2), click on (1), scroll down (1)
 > **CLI Commands:** python (1), git (1), make (1)
 > **Env Vars:** masm (1), lfs (1)
@@ -3637,8 +3594,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What's next
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/what-s-next?u=76281980)
+#### [What's next](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/what-s-next?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3652,21 +3608,21 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/what-s-next?u=76281980&t=22)** You can also follow the learning path with more advanced courses in the pentesting series to develop your skills with a deeper understanding of the techniques.
 >
-> **[0:31](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/what-s-next?u=76281980&t=31)** There's always something new in cybersecurity, and if you're interested in learning more, then check out the full security segment of the library where new security courses are added regularly.
+> **[0:31](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/what-s-next?u=76281980&t=31)** There's always something new in [[Cybersecurity]], and if you're interested in learning more, then check out the full security segment of the library where new security courses are added regularly.
 >
-> **[0:42](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/what-s-next?u=76281980&t=42)** You'll find courses on using Kali Linux, information gathering, viruses and worms, social engineering, denial of service, wireless testing, and much more.
+> **[0:42](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/what-s-next?u=76281980&t=42)** You'll find courses on using [[Kali Linux]], information gathering, viruses and worms, social engineering, denial of service, wireless testing, and much more.
 >
-> **[0:51](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/what-s-next?u=76281980&t=51)** I'd like to invite you to go to my LinkedIn Learning author page where you can find some additional courses on cybersecurity.
+> **[0:51](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/what-s-next?u=76281980&t=51)** I'd like to invite you to go to my [[LinkedIn]] Learning author page where you can find some additional courses on cybersecurity.
 >
 > **[0:58](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/what-s-next?u=76281980&t=58)** If you want to get hands-on with some of the common tools, then do take a look at Practical Cybersecurity and the Introduction to Kali Linux.
 >
-> **[1:06](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/what-s-next?u=76281980&t=66)** If you want to know how to test mobile devices, then check out the mobile devices course, and if you'd like to learn about security for the AWS Cloud, then pentesting AWS with Python is for you.
+> **[1:06](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/what-s-next?u=76281980&t=66)** If you want to know how to test mobile devices, then check out the mobile devices course, and if you'd like to learn about security for the AWS Cloud, then pentesting AWS with [[Python (Programming Language)|Python]] is for you.
 >
 > **[1:19](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/what-s-next?u=76281980&t=79)** Thanks again for joining me on this course, and I hope to see you again soon for more courses on pentesting and cybersecurity.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[Security]] (3), [[Kali Linux]] (2), aws (2), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[Kali Linux]] (2), [[LinkedIn]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (2), aws (2), python (1)
 > **Env Vars:** aws (2)
 > **Speakers:** - [instructor] (1)

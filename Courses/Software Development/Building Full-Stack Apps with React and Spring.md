@@ -88,12 +88,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create your own mighty full-stack app
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/create-your-own-mighty-full-stack-app?u=76281980)
+#### [Create your own mighty full-stack app](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/create-your-own-mighty-full-stack-app?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/create-your-own-mighty-full-stack-app?u=76281980&t=0)** - [Instructor] Spring and React have become standards in the Java and JavaScript world and using these two technologies into a single project can have its benefits for a developer.
+> **[0:00](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/create-your-own-mighty-full-stack-app?u=76281980&t=0)** - [Instructor] Spring and [[React.js|React]] have become standards in the [[Java]] and [[JavaScript]] world and using these two technologies into a single project can have its benefits for a developer.
 >
 > **[0:11](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/create-your-own-mighty-full-stack-app?u=76281980&t=11)** If you've had some experience developing front end projects, and looking to learn a backend solution in a different language.
 >
@@ -101,7 +100,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/create-your-own-mighty-full-stack-app?u=76281980&t=23)** If you've answered yes to any of these questions, you've come to the right place.
 >
-> **[0:28](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/create-your-own-mighty-full-stack-app?u=76281980&t=28)** In this course, we'll explore how to integrate the two frameworks into a single REST API with a React front end.
+> **[0:28](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/create-your-own-mighty-full-stack-app?u=76281980&t=28)** In this course, we'll explore how to integrate the two frameworks into a single [[Representational State Transfer (REST)|REST]] API with a React front end.
 >
 > **[0:35](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/create-your-own-mighty-full-stack-app?u=76281980&t=35)** Hi, I am Emmanuel Henri, and in the past I had to work on several projects where we leveraged Spring as the back-end with a React front-end, which has been my front-end tool for a long time.
 >
@@ -113,34 +112,33 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/create-your-own-mighty-full-stack-app?u=76281980&t=64)** Then we'll continue by building our different endpoints to provide a full crawl back-end and how to code them.
 >
-> **[1:10](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/create-your-own-mighty-full-stack-app?u=76281980&t=70)** And finally, we'll move to build our React front-end by adding list iterations in the proper forms to add new items.
+> **[1:10](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/create-your-own-mighty-full-stack-app?u=76281980&t=70)** And finally, we'll move to build our React front-end by adding list iterations in the proper [[Forms]] to add new items.
 >
 > **[1:18](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/create-your-own-mighty-full-stack-app?u=76281980&t=78)** So if you're ready to learn how to build a full-stack application with Spring and React open up your favorite editor and let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (6), front-end (4), [[Java]] (1), [[JavaScript]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (6), [[Java]] (1), [[JavaScript]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Forms]] (1)
 > **Env Vars:** rest (1), api (1)
 > **Speakers:** - [instructor] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/what-you-should-know?u=76281980&t=0)** - [Instructor] As this course covers building an application with a Java in JavaScript framework, experience with both of these languages is a must.
+> **[0:00](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/what-you-should-know?u=76281980&t=0)** - [Instructor] As this course covers building an application with a [[Java]] in [[JavaScript]] framework, experience with both of these languages is a must.
 >
 > **[0:07](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/what-you-should-know?u=76281980&t=7)** And for JavaScript especially ES6 syntax is a must for this course.
 >
 > **[0:12](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/what-you-should-know?u=76281980&t=12)** If you're struggling with any of those two languages, I suggest you take a few introductory courses to help you there.
 >
-> **[0:19](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/what-you-should-know?u=76281980&t=19)** You can take this course on a Mac or Windows, as building these frameworks can be done in both.
+> **[0:19](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/what-you-should-know?u=76281980&t=19)** You can take this course on a Mac or [[Windows]], as building these frameworks can be done in both.
 >
 > **[0:25](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/what-you-should-know?u=76281980&t=25)** Last but not least, being familiar with Terminal commands and MPM isn't must, but definitely will help you when we use these tools.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (2), application (1), [[Java]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Java]] (1), [[Windows]] (1)
 > **Env Vars:** es6 (1), mpm (1)
 > **Definitions:** is a  (2)
 > **Tools:** terminal (1)
@@ -151,18 +149,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to Spring
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/introduction-to-spring?u=76281980)
+#### [Introduction to Spring](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/introduction-to-spring?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/introduction-to-spring?u=76281980&t=0)** - [Emmanuel] Spring has quickly become a strong player in the back-end tools for Java developers.
+> **[0:00](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/introduction-to-spring?u=76281980&t=0)** - [Emmanuel] Spring has quickly become a strong player in the back-end tools for [[Java]] developers.
 >
-> **[0:05](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/introduction-to-spring?u=76281980&t=5)** Its main focus is in simplifying the entire creation of new project with Spring Boot where you can quickly build a back-end for your needs with a few simple steps.
+> **[0:05](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/introduction-to-spring?u=76281980&t=5)** Its main focus is in simplifying the entire creation of new project with [[Spring Boot]] where you can quickly build a back-end for your needs with a few simple steps.
 >
-> **[0:17](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/introduction-to-spring?u=76281980&t=17)** For example, you can quickly get started with a REST API, a web server, and many more in a few minutes without configuring nor setting up all the required files.
+> **[0:17](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/introduction-to-spring?u=76281980&t=17)** For example, you can quickly get started with a [[Representational State Transfer (REST)|REST]] API, a web server, and many more in a few minutes without configuring nor setting up all the required files.
 >
-> **[0:27](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/introduction-to-spring?u=76281980&t=27)** It also supports both types of databases, such as SQL and NoSQL.
+> **[0:27](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/introduction-to-spring?u=76281980&t=27)** It also supports both types of [[Databases]], such as [[SQL]] and [[NoSQL]].
 >
 > **[0:32](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/introduction-to-spring?u=76281980&t=32)** So if you're comfortable with Mongo or SQL or whichever database you prefer, Spring supports most of 'em.
 >
@@ -174,7 +171,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (2), [[Java]] (1), [[Spring Boot]] (1), [[Representational State Transfer (REST)|Rest]] (1), api (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Java]] (1), [[Spring Boot]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Databases]] (1)
 > **Env Vars:** sql (2), rest (1), api (1), idea (1)
 > **Analogies:** such as (3), for example (1)
 > **Definitions:** in other words (1), is a  (1)
@@ -182,12 +179,11 @@ created: 2026-05-02
 > **Tools:** intellij (1)
 > **Speakers:** - [emmanuel] (1)
 
-#### Introduction to React
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/introduction-to-react?u=76281980)
+#### [Introduction to React](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/introduction-to-react?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/introduction-to-react?u=76281980&t=0)** - [Instructor] Now let's review our front-end piece, React.
+> **[0:00](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/introduction-to-react?u=76281980&t=0)** - [Instructor] Now let's review our front-end piece, [[React.js|React]].
 >
 > **[0:03](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/introduction-to-react?u=76281980&t=3)** React has been a solid offering for building front-end applications and has quickly become the number one framework to use for this purpose.
 >
@@ -199,13 +195,13 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/introduction-to-react?u=76281980&t=31)** And if you're not familiar with the concept of components, state and props, as we'll build our front-end part we'll go over these basic terms.
 >
-> **[0:41](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/introduction-to-react?u=76281980&t=41)** And a major advantage of using React in your development is, leveraging your knowledge of React concepts, you can build also mobile applications with React Native.
+> **[0:41](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/introduction-to-react?u=76281980&t=41)** And a major advantage of using React in your development is, leveraging your knowledge of React concepts, you can build also mobile applications with [[React Native]].
 >
 > **[0:52](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/introduction-to-react?u=76281980&t=52)** And any type of front-end you can think of with a base React application.
 >
-> **[0:57](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/introduction-to-react?u=76281980&t=57)** And because React uses plain JavaScript functions and classes for its components, it should feel right at home for Java developers.
+> **[0:57](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/introduction-to-react?u=76281980&t=57)** And because React uses plain [[JavaScript]] functions and classes for its components, it should feel right at home for [[Java]] developers.
 >
-> **[1:07](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/introduction-to-react?u=76281980&t=67)** Also because of its huge popularity, React's ecosystem has grown with many offerings for state management, like Redux and MobX, to routing with React Router, to testing with Jest.
+> **[1:07](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/introduction-to-react?u=76281980&t=67)** Also because of its huge popularity, React's ecosystem has grown with many offerings for state management, like Redux and MobX, to [[Routing]] with React Router, to testing with Jest.
 >
 > **[1:20](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/introduction-to-react?u=76281980&t=80)** So needless to say, if you've been dying to learn a leading front-end framework React is a good candidate.
 >
@@ -213,12 +209,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (12), front-end (6), application (2), web (1), [[React Native]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (12), [[React Native]] (1), [[JavaScript]] (1), [[Java]] (1), [[Routing]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Overview of the full-stack and MVC
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/overview-of-the-full-stack-and-mvc?u=76281980)
+#### [Overview of the full-stack and MVC](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/overview-of-the-full-stack-and-mvc?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -228,7 +223,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/overview-of-the-full-stack-and-mvc?u=76281980&t=21)** The model is where your data resides, where you define your schemas and the models for your data.
 >
-> **[0:28](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/overview-of-the-full-stack-and-mvc?u=76281980&t=28)** The views is where you have your views and in most cases the pure HTML of your application, where the visuals are.
+> **[0:28](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/overview-of-the-full-stack-and-mvc?u=76281980&t=28)** The views is where you have your views and in most cases the pure [[HTML]] of your application, where the visuals are.
 >
 > **[0:35](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/overview-of-the-full-stack-and-mvc?u=76281980&t=35)** And finally the controller is where you have your logic of your application, the functions that makes your application run.
 >
@@ -236,7 +231,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/overview-of-the-full-stack-and-mvc?u=76281980&t=52)** So if we apply this pattern to the stack we'll be using in this course the models would be handled by spring as long as the controllers which are being in most part handled as well into spring.
 >
-> **[1:05](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/overview-of-the-full-stack-and-mvc?u=76281980&t=65)** And finally the view that will be handled by react.
+> **[1:05](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/overview-of-the-full-stack-and-mvc?u=76281980&t=65)** And finally the view that will be handled by [[React.js|react]].
 >
 > **[1:08](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/overview-of-the-full-stack-and-mvc?u=76281980&t=68)** And when I say most part for controllers, some of the logic sometimes can be handled by react with their high order components, which are the components that wrap some of the logic to create a new component.
 >
@@ -244,12 +239,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), data (2), [[React.js|React]] (2), [[Programming]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[HTML]] (1)
 > **Env Vars:** html (1)
 > **Speakers:** - [instructor] (1)
 
-#### IDE for a Java/JavaScript environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/ide-for-a-java-javascript-environment?u=76281980)
+#### [IDE for a Java/JavaScript environment](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/ide-for-a-java-javascript-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -261,11 +255,11 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/ide-for-a-java-javascript-environment?u=76281980&t=20)** In my case I have been using Visual Studio Code since they introduced it, and it's what I'll use in this course.
 >
-> **[0:27](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/ide-for-a-java-javascript-environment?u=76281980&t=27)** So if you already have an IDEA your comfortable with look into their documentations to see what extensions or plugins you need to install to support Java, JavaScript, React, and Spring.
+> **[0:27](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/ide-for-a-java-javascript-environment?u=76281980&t=27)** So if you already have an IDEA your comfortable with look into their documentations to see what extensions or plugins you need to install to support [[Java]], [[JavaScript]], [[React.js|React]], and Spring.
 >
 > **[0:37](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/ide-for-a-java-javascript-environment?u=76281980&t=37)** And feel free to skip the remainder of this video, where we'll take a look at the requirements of working with Visual Studio Code.
 >
-> **[0:45](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/ide-for-a-java-javascript-environment?u=76281980&t=45)** So for example, go to this link code.[visualstudio.com/docs/java/java](https://visualstudio.com/docs/java/java) dash spring boot.
+> **[0:45](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/ide-for-a-java-javascript-environment?u=76281980&t=45)** So for example, go to this link code.[visualstudio.com/docs/java/java](https://visualstudio.com/docs/java/java) dash [[Spring Boot]].
 >
 > **[0:56](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/ide-for-a-java-javascript-environment?u=76281980&t=56)** And on this page, you're going to see the requirements to work with Spring.
 >
@@ -277,7 +271,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/ide-for-a-java-javascript-environment?u=76281980&t=81)** So follow the instructions on this page to get you set up in Visual Studio Code.
 >
-> **[1:26](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/ide-for-a-java-javascript-environment?u=76281980&t=86)** For Windows follow the instructions here and for Mac, it is a simple installation of the JDK and then leverage Homebrew to install MVN or Maven and you should be all set.
+> **[1:26](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/ide-for-a-java-javascript-environment?u=76281980&t=86)** For [[Windows]] follow the instructions here and for Mac, it is a simple installation of the JDK and then leverage Homebrew to install MVN or Maven and you should be all set.
 >
 > **[1:40](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/ide-for-a-java-javascript-environment?u=76281980&t=100)** So for example, if you don't have Homebrew, all you have to do is copy from this page here brew.sh the link you have in here in your terminal like so.
 >
@@ -304,8 +298,7 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **File Paths:** brew.sh (1)
 
-#### Introduction to Postman
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/introduction-to-postman?u=76281980)
+#### [Introduction to Postman](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/introduction-to-postman?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -323,7 +316,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/introduction-to-postman?u=76281980&t=23)** If not, then you can click on the other versions here.
 >
-> **[0:26](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/introduction-to-postman?u=76281980&t=26)** So you can have Linux, Windows, and in this case, Mac.
+> **[0:26](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/introduction-to-postman?u=76281980&t=26)** So you can have [[Linux]], [[Windows]], and in this case, Mac.
 >
 > **[0:36](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/introduction-to-postman?u=76281980&t=36)** Then you can extract the downloaded file, and in the case of the other operating system, it's an installation file, and then simply drag and drop the actual program inside of the applications.
 >
@@ -355,7 +348,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/introduction-to-postman?u=76281980&t=137)** So if you want to do an HTTP call, you can select this.
 >
-> **[2:21](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/introduction-to-postman?u=76281980&t=141)** In the case of JAVA, you can do this.
+> **[2:21](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/introduction-to-postman?u=76281980&t=141)** In the case of [[Java]], you can do this.
 >
 > **[2:23](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/introduction-to-postman?u=76281980&t=143)** And then you're going to get codes, snippets that you can use inside of your application or your ID.
 >
@@ -369,7 +362,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (7), application (3), data (2), [[Java]] (2), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[Linux]] (1), [[Windows]] (1)
 > **Env Vars:** api (7), java (2), http (1)
 > **Tools:** postman (7), terminal (1)
 > **UI Navigation:** click on (3), go to (1), drag and drop (1)
@@ -378,12 +371,11 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **URLs:** [getpostman.com](https://getpostman.com) (1)
 
-#### Initialize a project with Spring Boot
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/initialize-a-project-with-spring-boot?u=76281980)
+#### [Initialize a project with Spring Boot](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/initialize-a-project-with-spring-boot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/initialize-a-project-with-spring-boot?u=76281980&t=0)** - [Instructor] Now that we've got all the requirements completed, let's go ahead and generate a new Spring project leveraging Spring Boot Initializr.
+> **[0:00](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/initialize-a-project-with-spring-boot?u=76281980&t=0)** - [Instructor] Now that we've got all the requirements completed, let's go ahead and generate a new Spring project leveraging [[Spring Boot]] Initializr.
 >
 > **[0:08](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/initialize-a-project-with-spring-boot?u=76281980&t=8)** So go to [spring.io](https://spring.io) and then click on Projects and then click on Spring Boot.
 >
@@ -391,7 +383,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/initialize-a-project-with-spring-boot?u=76281980&t=27)** So what we're going to do is select a Maven Project which we install all the dependencies for that.
 >
-> **[0:32](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/initialize-a-project-with-spring-boot?u=76281980&t=32)** Language Java.
+> **[0:32](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/initialize-a-project-with-spring-boot?u=76281980&t=32)** Language [[Java]].
 >
 > **[0:34](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/initialize-a-project-with-spring-boot?u=76281980&t=34)** Leave the Spring Boot at 2.1.4 and then for this guy here, as opposed to example, what we're going to do is call this one crm and then Artifact, I'm going to call this one crm.
 >
@@ -401,9 +393,9 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/initialize-a-project-with-spring-boot?u=76281980&t=68)** And this is the advantage of using this tool is that we get everything we need and we don't need to do a whole lot of setup.
 >
-> **[1:15](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/initialize-a-project-with-spring-boot?u=76281980&t=75)** So, the items that we need as dependencies, the first one is Rest Repositories, so click on the plus.
+> **[1:15](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/initialize-a-project-with-spring-boot?u=76281980&t=75)** So, the items that we need as dependencies, the first one is [[Representational State Transfer (REST)|Rest]] Repositories, so click on the plus.
 >
-> **[1:23](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/initialize-a-project-with-spring-boot?u=76281980&t=83)** You need JPA, so we can have our SQL Database and you also need H2 for the SQL Database Support.
+> **[1:23](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/initialize-a-project-with-spring-boot?u=76281980&t=83)** You need JPA, so we can have our [[SQL]] Database and you also need H2 for the SQL Database Support.
 >
 > **[1:33](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/initialize-a-project-with-spring-boot?u=76281980&t=93)** And finally, Lombok, which will simplify our code.
 >
@@ -425,7 +417,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Boot]] (3), [[SQL]] (2), database (2), [[Java]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Spring Boot]] (3), [[SQL]] (2), [[Java]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (6), go to (2), right-click (1), double-click (1), open the (1)
 > **Env Vars:** zip (3), sql (2), ide (2), jpa (1)
 > **Exercise Files:** zip file (3)
@@ -434,16 +426,15 @@ created: 2026-05-02
 > **CLI Commands:** unzip (1)
 > **URLs:** [spring.io](https://spring.io) (1)
 
-#### Initialize the React client project
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/initialize-the-react-client-project?u=76281980)
+#### [Initialize the React client project](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/initialize-the-react-client-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/initialize-the-react-client-project?u=76281980&t=0)** - In this step we'll initialize our React project, but before we do so let's quickly install the node.js dependencies.
+> **[0:00](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/initialize-the-react-client-project?u=76281980&t=0)** - In this step we'll initialize our [[React.js|React]] project, but before we do so let's quickly install the [[Node.js]] dependencies.
 >
 > **[0:07](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/initialize-the-react-client-project?u=76281980&t=7)** So first, if you don't have node.js already installed, go to [nodejs.org](https://nodejs.org), and then in the download for whatever operating system you're using, download the LTS version.
 >
-> **[0:21](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/initialize-the-react-client-project?u=76281980&t=21)** Once you have that downloaded, click on the installation file, go ahead and install node.js, and it will also install npm.
+> **[0:21](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/initialize-the-react-client-project?u=76281980&t=21)** Once you have that downloaded, click on the installation file, go ahead and install node.js, and it will also install [[npm]].
 >
 > **[0:37](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/initialize-the-react-client-project?u=76281980&t=37)** Once this is done we can actually go back to Visual Studio Code.
 >
@@ -479,7 +470,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (12), [[npm]] (4), [[Node.js]] (3), next (2), hit (1)
+> **Frameworks & Libraries:** [[React.js|React]] (12), [[npm]] (4), [[Node.js]] (3)
 > **CLI Commands:** npm (4), node (3), npx (2)
 > **File Paths:** node.js (3)
 > **Env Vars:** crm (2), lts (1)
@@ -493,18 +484,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data options and JPA
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/data-options-and-jpa?u=76281980)
+#### [Data options and JPA](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/data-options-and-jpa?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/data-options-and-jpa?u=76281980&t=0)** - [Instructor] When we set up Spring, we set it up with JPA and also SQL Database, or you can pretty much use whatever database you feel comfortable with.
+> **[0:00](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/data-options-and-jpa?u=76281980&t=0)** - [Instructor] When we set up Spring, we set it up with JPA and also [[SQL]] Database, or you can pretty much use whatever database you feel comfortable with.
 >
-> **[0:09](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/data-options-and-jpa?u=76281980&t=9)** So go to [spring.io/projects/spring-data](https://spring.io/projects/spring-data) and you can see some of the different options available for SQL or NoSQL on this link.
+> **[0:09](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/data-options-and-jpa?u=76281980&t=9)** So go to [spring.io/projects/spring-data](https://spring.io/projects/spring-data) and you can see some of the different options available for SQL or [[NoSQL]] on this link.
 >
 > **[0:22](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/data-options-and-jpa?u=76281980&t=22)** And if you prefer down the road to set your project with a different database, if you scroll down, you'll see what are the different options available.
 >
-> **[0:29](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/data-options-and-jpa?u=76281980&t=29)** So if you look at the list here, you have, for example, MongoDB, Redis and a bunch more.
+> **[0:29](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/data-options-and-jpa?u=76281980&t=29)** So if you look at the list here, you have, for example, [[MongoDB]], [[Redis]] and a bunch more.
 >
 > **[0:36](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/data-options-and-jpa?u=76281980&t=36)** Then if you want to select a database with a guide in Spring's documentation, you can look into this link here which is [spring.io/guides](https://spring.io/guides) which is basically this section here and once you get to this section, you can actually find any guide based on something.
 >
@@ -512,7 +502,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/data-options-and-jpa?u=76281980&t=66)** So what is exactly JPA?
 >
-> **[1:09](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/data-options-and-jpa?u=76281980&t=69)** JPA stands for Java Persistence API and it's basically the database implementation that defines what object needs to be persistent in a database of your choosing.
+> **[1:09](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/data-options-and-jpa?u=76281980&t=69)** JPA stands for [[Java]] Persistence API and it's basically the database implementation that defines what object needs to be persistent in a database of your choosing.
 >
 > **[1:20](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/data-options-and-jpa?u=76281980&t=80)** In this case, we used a SQL-based database.
 >
@@ -522,7 +512,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), [[SQL]] (3), [[MongoDB]] (3), data (2), [[NoSQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[MongoDB]] (3), [[NoSQL]] (1), [[Redis]] (1), [[Java]] (1)
 > **Env Vars:** jpa (4), sql (3), api (1)
 > **CLI Commands:** find (1), make (1)
 > **URLs:** [spring.io](https://spring.io) (2)
@@ -531,8 +521,7 @@ created: 2026-05-02
 > **Definitions:** stands for (1)
 > **Prerequisites:** set up (1)
 
-#### Define first model class
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/define-first-model-class?u=76281980)
+#### [Define first model class](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/define-first-model-class?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -544,7 +533,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/define-first-model-class?u=76281980&t=15)** So in this CRM folder, we're going to create a new folder, and we're going to call this one model.
 >
-> **[0:21](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/define-first-model-class?u=76281980&t=21)** And inside of that model folder, we're going to create a new file, and we're going to call this one Contact.Java.
+> **[0:21](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/define-first-model-class?u=76281980&t=21)** And inside of that model folder, we're going to create a new file, and we're going to call this one Contact.[[Java]].
 >
 > **[0:31](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/define-first-model-class?u=76281980&t=31)** And in this file, we'll define our model.
 >
@@ -604,7 +593,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Java]] (1), database (1), next (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Code Identifiers:** firstname (5), lastname (4)
 > **Env Vars:** crm (2)
 > **File Paths:** contact.java (1)
@@ -613,8 +602,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### JPA repository
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/jpa-repository?u=76281980)
+#### [JPA repository](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/jpa-repository?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -624,7 +612,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/jpa-repository?u=76281980&t=11)** So I get in the same folder called model, we'll create a brand new file.
 >
-> **[0:15](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/jpa-repository?u=76281980&t=15)** So let's go ahead and create a new file and we're going to call this file ContactRepository.java.
+> **[0:15](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/jpa-repository?u=76281980&t=15)** So let's go ahead and create a new file and we're going to call this file ContactRepository.[[Java]].
 >
 > **[0:29](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/jpa-repository?u=76281980&t=29)** And in this file, we'll also use the package.
 >
@@ -652,15 +640,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Java]] (1), database (1), next (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Cross-References:** go back to (1), in the last (1)
 > **File Paths:** contactrepository.java (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** crud (1)
 > **Speakers:** - [instructor] (1)
 
-#### Define example data
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/define-example-data?u=76281980)
+#### [Define example data](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/define-example-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -668,7 +655,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/define-example-data?u=76281980&t=11)** So again, in the same folder here, Model, let's create a new file.
 >
-> **[0:15](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/define-example-data?u=76281980&t=15)** And this file, we're going to call it Demoloader.java.
+> **[0:15](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/define-example-data?u=76281980&t=15)** And this file, we're going to call it Demoloader.[[Java]].
 >
 > **[0:24](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/define-example-data?u=76281980&t=24)** And then, let's make sure we connect it to the same package again.
 >
@@ -736,7 +723,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), database (2), [[Java]] (1), generic (1), application (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **CLI Commands:** make (2)
 > **File Paths:** demoloader.java (1)
 > **Tools:** command line (1)
@@ -748,14 +735,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Finalize base server
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/finalize-base-server?u=76281980)
+#### [Finalize base server](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/finalize-base-server?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/finalize-base-server?u=76281980&t=0)** - [Narrator] We need to finalize our API endpoints as we'll need to use it for both the front end and the back end.
 >
-> **[0:05](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/finalize-base-server?u=76281980&t=5)** So let's change this and our main function to run our REST API.
+> **[0:05](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/finalize-base-server?u=76281980&t=5)** So let's change this and our main function to run our [[Representational State Transfer (REST)|REST]] API.
 >
 > **[0:10](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/finalize-base-server?u=76281980&t=10)** So the first thing we're going to do is create a new file.
 >
@@ -763,7 +749,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/finalize-base-server?u=76281980&t=16)** So basically click on the model folder, and then click new file.
 >
-> **[0:20](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/finalize-base-server?u=76281980&t=20)** And we're going to call this one react and spring data rest application dot java.
+> **[0:20](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/finalize-base-server?u=76281980&t=20)** And we're going to call this one [[React.js|react]] and [[Spring Data]] rest application dot [[Java]].
 >
 > **[0:35](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/finalize-base-server?u=76281980&t=35)** And again in this file we'll also copy the line package.
 >
@@ -773,7 +759,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/finalize-base-server?u=76281980&t=48)** And then we'll import a couple files.
 >
-> **[0:51](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/finalize-base-server?u=76281980&t=51)** So let's go ahead and copy from org spring framework.
+> **[0:51](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/finalize-base-server?u=76281980&t=51)** So let's go ahead and copy from org [[Spring Framework]].
 >
 > **[0:59](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/finalize-base-server?u=76281980&t=59)** Then we'll go to boot dot spring application.
 >
@@ -781,7 +767,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/finalize-base-server?u=76281980&t=71)** Okay now let's copy line three, and paste it again.
 >
-> **[1:17](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/finalize-base-server?u=76281980&t=77)** And then from boot, we'll change it to autoconfigure, and then spring boot application, like so.
+> **[1:17](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/finalize-base-server?u=76281980&t=77)** And then from boot, we'll change it to autoconfigure, and then [[Spring Boot]] application, like so.
 >
 > **[1:30](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/finalize-base-server?u=76281980&t=90)** Then we'll decorate our class with this spring boot application.
 >
@@ -833,7 +819,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (7), application (6), [[Representational State Transfer (REST)|Rest]] (4), [[React.js|React]] (4), data (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (4), [[React.js|React]] (4), [[Java]] (1), [[Spring Boot]] (1)
 > **Env Vars:** api (7), url (2), rest (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (1), go to (1)
@@ -842,8 +828,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [narrator] (1)
 
-#### POST endpoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/post-endpoint?u=76281980)
+#### [POST endpoint](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/post-endpoint?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -865,7 +850,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/post-endpoint?u=76281980&t=39)** But the one extra step that it is asking is Which file do you want to use as your starting point?
 >
-> **[0:45](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/post-endpoint?u=76281980&t=45)** And it's the file that we just created, the react and spring data rest application.
+> **[0:45](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/post-endpoint?u=76281980&t=45)** And it's the file that we just created, the [[React.js|react]] and [[Spring Data]] [[Representational State Transfer (REST)|rest]] application.
 >
 > **[0:49](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/post-endpoint?u=76281980&t=49)** So you're going to use that.
 >
@@ -881,7 +866,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/post-endpoint?u=76281980&t=69)** So let's say local host 8080 and API and you do get call and then send.
 >
-> **[1:17](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/post-endpoint?u=76281980&t=77)** And then if you don't get the actual contacts in the list here, you just get the profile, what you need to do first and that's something that you may have to do, is to go back to your code into the file in the model, the contact Java, and put all your values here as public as opposed to private.
+> **[1:17](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/post-endpoint?u=76281980&t=77)** And then if you don't get the actual contacts in the list here, you just get the profile, what you need to do first and that's something that you may have to do, is to go back to your code into the file in the model, the contact [[Java]], and put all your values here as public as opposed to private.
 >
 > **[1:39](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/post-endpoint?u=76281980&t=99)** So we'll do something like this just for testing purposes.
 >
@@ -901,7 +886,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/post-endpoint?u=76281980&t=150)** So the way to add an item is basically to call the same URL and then do a post like so.
 >
-> **[2:39](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/post-endpoint?u=76281980&t=159)** And what we're going to do is do in the headers, you want to make sure that in the headers you're using content type and then here you do application json and then in the body select raw.
+> **[2:39](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/post-endpoint?u=76281980&t=159)** And what we're going to do is do in the headers, you want to make sure that in the headers you're using content type and then here you do application [[JSON]] and then in the body select raw.
 >
 > **[2:55](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/post-endpoint?u=76281980&t=175)** So what you need to do is create a json formatted object in order to send the data to the database.
 >
@@ -935,7 +920,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (5), data (3), application (2), [[JSON]] (2), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[JSON]] (2), [[React.js|React]] (1), [[Spring Data]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Java]] (1)
 > **Tools:** postman (5), visual studio (2), intellij (1)
 > **Env Vars:** api (5), idea (1), url (1)
 > **Cross-References:** go back to (1), in the next (1)
@@ -944,8 +929,7 @@ created: 2026-05-02
 > **URLs:** [me.com](https://me.com) (1)
 > **Warnings:** caveat (1)
 
-#### GET endpoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/get-endpoint?u=76281980)
+#### [GET endpoint](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/get-endpoint?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -965,7 +949,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/get-endpoint?u=76281980&t=39)** And these are all the contacts that we've actually posted with our post method.
 >
-> **[0:45](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/get-endpoint?u=76281980&t=45)** So if you were to use this inside of React, what you'd do is basically make this call with a get call and then send.
+> **[0:45](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/get-endpoint?u=76281980&t=45)** So if you were to use this inside of [[React.js|React]], what you'd do is basically make this call with a get call and then send.
 >
 > **[0:54](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/get-endpoint?u=76281980&t=54)** And then you would get a list, or an array, of people or contacts that you could use inside of the application to replicate across multiple components.
 >
@@ -975,15 +959,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[React.js|React]] (1), application (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **Cross-References:** in the next (2), in the last (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** url (1)
 > **Tools:** postman (1)
 > **Speakers:** - [instructor] (1)
 
-#### GET ID endpoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/get-id-endpoint?u=76281980)
+#### [GET ID endpoint](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/get-id-endpoint?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1007,7 +990,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/get-id-endpoint?u=76281980&t=99)** Another item that I wanted to mention again is the code here so if you're actually working out of Reat or any other platforms or frameworks you can actually use the code section here and then get into the language and then get the specific information to the call under that language or protocol.
 >
-> **[1:56](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/get-id-endpoint?u=76281980&t=116)** So for example, if we go into JavaScript, Jquery then you have the code to do an AJAX call to get this specific contact here.
+> **[1:56](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/get-id-endpoint?u=76281980&t=116)** So for example, if we go into [[JavaScript]], Jquery then you have the code to do an [[AJAX]] call to get this specific contact here.
 >
 > **[2:06](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/get-id-endpoint?u=76281980&t=126)** So this is always useful when you're actually working in multiple frameworks or multiple codebays.
 >
@@ -1017,7 +1000,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), next (2), api (2), database (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1), [[AJAX]] (1)
 > **Env Vars:** api (2), url (1), ajax (1)
 > **Tools:** postman (2)
 > **Analogies:** for example (2)
@@ -1025,8 +1008,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### PUT endpoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/put-endpoint?u=76281980)
+#### [PUT endpoint](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/put-endpoint?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1034,7 +1016,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/put-endpoint?u=76281980&t=51)** the PUT method and then make the proper changes to update the contact. So lets go ahead and do that.
 >
-> **[0:58](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/put-endpoint?u=76281980&t=58)** So first off, like when we do a post contact, we need to change the header. So, the first thing that we would need to again select the content type to application json, and then in the body I would select raw and do, like we've done before, so we would create an object which would have the data. So lets say, for example, first name, and I can't remember what was the first name for this one, it was Emmanuel, so lets change this to something else.
+> **[0:58](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/put-endpoint?u=76281980&t=58)** So first off, like when we do a post contact, we need to change the header. So, the first thing that we would need to again select the content type to application [[JSON]], and then in the body I would select raw and do, like we've done before, so we would create an object which would have the data. So lets say, for example, first name, and I can't remember what was the first name for this one, it was Emmanuel, so lets change this to something else.
 >
 > **[1:31](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/put-endpoint?u=76281980&t=91)** Lets do Manuello. Last name lets do Henriette.
 >
@@ -1048,13 +1030,13 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/put-endpoint?u=76281980&t=124)** We have the updated third contact with this information.
 >
-> **[2:09](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/put-endpoint?u=76281980&t=129)** So, if we go back to our GET call and do a GET again, we get the list with now the third one being updated to what we just changed. So this is basically how you would test a PUT call with out Spring Framework.
+> **[2:09](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/put-endpoint?u=76281980&t=129)** So, if we go back to our GET call and do a GET again, we get the list with now the third one being updated to what we just changed. So this is basically how you would test a PUT call with out [[Spring Framework]].
 >
 > **[2:25](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/put-endpoint?u=76281980&t=145)** So now lets move on.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1), api (1), application (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1), [[Spring Framework]] (1)
 > **API Endpoints:** put  (4), get  (2)
 > **Env Vars:** put (4), api (1), url (1)
 > **Analogies:** for example (3)
@@ -1063,8 +1045,7 @@ created: 2026-05-02
 > **URLs:** [me.com](https://me.com) (1)
 > **Tools:** postman (1)
 
-#### DELETE endpoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/delete-endpoint?u=76281980)
+#### [DELETE endpoint](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/delete-endpoint?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1074,11 +1055,11 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/delete-endpoint?u=76281980&t=11)** So again we would do a get call, so let's go ahead and do a get for our contacts, and then figure out which item we want to delete.
 >
-> **[0:19](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/delete-endpoint?u=76281980&t=19)** So for example if we want to delete the third one here we just need to double click inside of Postman but if you're inside of React or any other framework, you would get the data from underscore links.self.href and then get this URL here and then through this URL you could literally just do a delete call without any parameters and this would delete the data, and this is exactly what we're going to do.
+> **[0:19](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/delete-endpoint?u=76281980&t=19)** So for example if we want to delete the third one here we just need to double click inside of Postman but if you're inside of [[React.js|React]] or any other framework, you would get the data from underscore links.self.href and then get this URL here and then through this URL you could literally just do a delete call without any parameters and this would delete the data, and this is exactly what we're going to do.
 >
 > **[0:48](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/delete-endpoint?u=76281980&t=48)** Let's go ahead and delete the data, and this is fairly easy and probably the easiest call to make to a backend, so let's say for example, we've done this delete call, let's go ahead and do a get of all our contacts, and now we should only have three people, one, two, and four, and again, it keeps the data the way it is, it doesn't renumber because we just deleted number three, so if we want to delete, let's say, number two or if we add new items to this database, so let's go ahead and add a new one.
 >
-> **[1:25](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/delete-endpoint?u=76281980&t=85)** Let's do a post and then contacts and then let's go into our Headers and make sure we have Content Type, as application JSON, and then in the Body, raw, let's create an object, let's create something that's fairly new so we can see what happens.
+> **[1:25](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/delete-endpoint?u=76281980&t=85)** Let's do a post and then contacts and then let's go into our Headers and make sure we have Content Type, as application [[JSON]], and then in the Body, raw, let's create an object, let's create something that's fairly new so we can see what happens.
 >
 > **[2:01](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/delete-endpoint?u=76281980&t=121)** Then email, and then let's add me67@[me.com](https://me.com) OK, so this is a post, we're posting new information into our contacts, let's send it and now let's do a get call, so let's go back to this guy here and let's do a get call for all our contacts, and as you can see, number three is completely gone.
 >
@@ -1088,7 +1069,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[React.js|React]] (2), database (1), application (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[JSON]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** url (2), json (1)
 > **Analogies:** for example (2)
@@ -1102,12 +1083,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create contact listing component
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/create-contact-listing-component?u=76281980)
+#### [Create contact listing component](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/create-contact-listing-component?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/create-contact-listing-component?u=76281980&t=0)** - [Instructor] Okay so now that we have a backend that is ready for us to work with, let's get started on creating our front end with React.
+> **[0:00](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/create-contact-listing-component?u=76281980&t=0)** - [Instructor] Okay so now that we have a backend that is ready for us to work with, let's get started on creating our front end with [[React.js|React]].
 >
 > **[0:07](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/create-contact-listing-component?u=76281980&t=7)** So the first thing we're going to do is get React started so right now if we go inside of our client folder, we have React here, but it's not started.
 >
@@ -1115,7 +1095,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/create-contact-listing-component?u=76281980&t=20)** So let's go ahead and do that.
 >
-> **[0:21](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/create-contact-listing-component?u=76281980&t=21)** So what I can do is open a brand new terminal with this folder here like so, and if it's not showing up, what you can do is Control + ` and then do npm start.
+> **[0:21](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/create-contact-listing-component?u=76281980&t=21)** So what I can do is open a brand new terminal with this folder here like so, and if it's not showing up, what you can do is Control + ` and then do [[npm]] start.
 >
 > **[0:35](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/create-contact-listing-component?u=76281980&t=35)** And let's make sure we are in the right folder, so if I do an ls, I'm not in the client, so let's do cd client.
 >
@@ -1177,7 +1157,7 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/create-contact-listing-component?u=76281980&t=261)** And then we're going to use the render method, which comes from the component class.
 >
-> **[4:29](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/create-contact-listing-component?u=76281980&t=269)** And then return whatever HTML we put in there, so for this case we're going to do a simple div, and then inside of that div we'll simply have Hello.
+> **[4:29](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/create-contact-listing-component?u=76281980&t=269)** And then return whatever [[HTML]] we put in there, so for this case we're going to do a simple div, and then inside of that div we'll simply have Hello.
 >
 > **[4:45](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/create-contact-listing-component?u=76281980&t=285)** Okay, so that's our first component.
 >
@@ -1193,7 +1173,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (7), application (5), [[npm]] (2), data (2), cd (1)
+> **Frameworks & Libraries:** [[React.js|React]] (7), [[npm]] (2), [[HTML]] (1)
 > **CLI Commands:** make (5), npm (2), ls (1), cd (1)
 > **File Paths:** app.js (1), contacts.js (1)
 > **Env Vars:** html (1)
@@ -1201,8 +1181,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add materialize to the project
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/add-materialize-to-the-project?u=76281980)
+#### [Add materialize to the project](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/add-materialize-to-the-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1218,7 +1197,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/add-materialize-to-the-project?u=76281980&t=26)** So let's Copy this.
 >
-> **[0:28](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/add-materialize-to-the-project?u=76281980&t=28)** And then lets go back to our project, and you want to open the Index.html, which sits in the actual client, so first make sure you are in the client, and then click on the Public folder and then open the Index.html.
+> **[0:28](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/add-materialize-to-the-project?u=76281980&t=28)** And then lets go back to our project, and you want to open the Index.[[HTML]], which sits in the actual client, so first make sure you are in the client, and then click on the Public folder and then open the Index.html.
 >
 > **[0:43](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/add-materialize-to-the-project?u=76281980&t=43)** And in that file, what we're going to do is Paste the code that we just copied just below the link on Line 12.
 >
@@ -1264,7 +1243,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), next (1)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **UI Navigation:** click on (4), scroll down (2), open the (2), go to (1)
 > **File Paths:** index.html (2), app.js (2)
 > **CLI Commands:** make (2), find (1)
@@ -1273,8 +1252,7 @@ created: 2026-05-02
 > **URLs:** [materializecss.com](https://materializecss.com) (1)
 > **Env Vars:** cdn (1)
 
-#### Finalize list of contacts component
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/finalize-list-of-contacts-component?u=76281980)
+#### [Finalize list of contacts component](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/finalize-list-of-contacts-component?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1292,13 +1270,13 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/finalize-list-of-contacts-component?u=76281980&t=52)** So what we're going to do is create that right away.
 >
-> **[0:56](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/finalize-list-of-contacts-component?u=76281980&t=56)** So component did mount, and what this method is going to allow us is to fetch the data before we actually render our component here.
+> **[0:56](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/finalize-list-of-contacts-component?u=76281980&t=56)** So component did mount, and what this method is going to allow us is to [[Fetch]] the data before we actually render our component here.
 >
 > **[1:05](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/finalize-list-of-contacts-component?u=76281980&t=65)** So basically we'll have access to the data with the fetch method here.
 >
 > **[1:10](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/finalize-list-of-contacts-component?u=76281980&t=70)** So basically we're fetching from our server.
 >
-> **[1:14](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/finalize-list-of-contacts-component?u=76281980&t=74)** So if you remember, the address is local host 8080, api, and then contacts, and then what we're going to do is use the response from the server, and return it as json data so we can have access to that data, and then with the data that we just created we're going to update our state.
+> **[1:14](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/finalize-list-of-contacts-component?u=76281980&t=74)** So if you remember, the address is local host 8080, api, and then contacts, and then what we're going to do is use the response from the server, and return it as [[JSON]] data so we can have access to that data, and then with the data that we just created we're going to update our state.
 >
 > **[1:44](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/finalize-list-of-contacts-component?u=76281980&t=104)** So right now our state is an empty array, so we don't have anything in it.
 >
@@ -1324,7 +1302,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/finalize-list-of-contacts-component?u=76281980&t=186)** So we're going to pass the state, and the array from the state which is called contact, and we're going to do a map method, which is basically how we iterate through all these items, and then use the single contact component to render each item that we have in our state.
 >
-> **[3:28](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/finalize-list-of-contacts-component?u=76281980&t=208)** So let's do ID as a single key, and by the way, if you're not familiar with React this is very important, so whenever we return multiple items through an array with a single component we need a key prop, and this key prop needs to have a unique ID.
+> **[3:28](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/finalize-list-of-contacts-component?u=76281980&t=208)** So let's do ID as a single key, and by the way, if you're not familiar with [[React.js|React]] this is very important, so whenever we return multiple items through an array with a single component we need a key prop, and this key prop needs to have a unique ID.
 >
 > **[3:45](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/finalize-list-of-contacts-component?u=76281980&t=225)** So if we are leveraging the ideas from the actual database, then we're going to have something that we can use as a unique prop in here.
 >
@@ -1336,12 +1314,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), database (4), [[Fetch]] (3), [[JSON]] (3), api (1)
+> **Frameworks & Libraries:** [[Fetch]] (3), [[JSON]] (3), [[React.js|React]] (1)
 > **Definitions:** is an  (1), is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create and structure your components
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/create-and-structure-your-components?u=76281980)
+#### [Create and structure your components](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/create-and-structure-your-components?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1355,7 +1332,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/create-and-structure-your-components?u=76281980&t=27)** So if that's the case, then we can continue.
 >
-> **[0:30](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/create-and-structure-your-components?u=76281980&t=30)** Now, what we're going to do first is import React, and then in this one, we're going to do a stateless component.
+> **[0:30](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/create-and-structure-your-components?u=76281980&t=30)** Now, what we're going to do first is import [[React.js|React]], and then in this one, we're going to do a stateless component.
 >
 > **[0:40](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/create-and-structure-your-components?u=76281980&t=40)** Because we don't need to do all the methods that we typically do in a statefull component.
 >
@@ -1407,7 +1384,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/create-and-structure-your-components?u=76281980&t=181)** So, first we're going to go back to Materialize.
 >
-> **[3:05](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/create-and-structure-your-components?u=76281980&t=185)** Then, go inside of the forms section, here.
+> **[3:05](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/create-and-structure-your-components?u=76281980&t=185)** Then, go inside of the [[Forms]] section, here.
 >
 > **[3:09](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/create-and-structure-your-components?u=76281980&t=189)** Then, go to the text input section.
 >
@@ -1459,7 +1436,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), [[React.js|React]] (2), next (2), functional (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[Forms]] (1)
 > **CLI Commands:** make (5)
 > **Cross-References:** go back to (2), in the next (2)
 > **UI Navigation:** click on (1), go to (1)
@@ -1467,8 +1444,7 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Connect the add contact form to server
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/connect-the-add-contact-form-to-server?u=76281980)
+#### [Connect the add contact form to server](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/connect-the-add-contact-form-to-server?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1544,13 +1520,13 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/connect-the-add-contact-form-to-server?u=76281980&t=244)** So now that we have our object, we can actually go ahead and post it.
 >
-> **[4:08](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/connect-the-add-contact-form-to-server?u=76281980&t=248)** So we're going to use Fetch again for that and we need to input the URL that we're fetching to which is local host 8080/api/contacts and then what we're going to do is pass a few options.
+> **[4:08](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/connect-the-add-contact-form-to-server?u=76281980&t=248)** So we're going to use [[Fetch]] again for that and we need to input the URL that we're fetching to which is local host 8080/api/contacts and then what we're going to do is pass a few options.
 >
 > **[4:30](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/connect-the-add-contact-form-to-server?u=76281980&t=270)** So the first option is the method that we're using to fetch the API and it's post so we're posting something to our API.
 >
 > **[4:39](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/connect-the-add-contact-form-to-server?u=76281980&t=279)** Then we want to make sure we're sending headers pretty much like when we did our calls through Postman.
 >
-> **[4:47](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/connect-the-add-contact-form-to-server?u=76281980&t=287)** So we want to make sure we set up the content type like we've done with Postman to be, and if you remember, it was application/json.
+> **[4:47](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/connect-the-add-contact-form-to-server?u=76281980&t=287)** So we want to make sure we set up the content type like we've done with Postman to be, and if you remember, it was application/[[JSON]].
 >
 > **[4:58](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/connect-the-add-contact-form-to-server?u=76281980&t=298)** And then what we're going to do outside of our editors, so make sure you're outside of that particular object here, we're going to do body so basically what's in the body, and then we're going to stringify basically the object that we have here so it's ready to be submitted like so and we're passing contact to it.
 >
@@ -1566,7 +1542,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (3), next (2), [[Fetch]] (2), [[JSON]] (2), node (1)
+> **Frameworks & Libraries:** [[Fetch]] (2), [[JSON]] (2)
 > **CLI Commands:** make (8), node (1)
 > **Env Vars:** api (2), url (1)
 > **Tools:** postman (2)
@@ -1575,14 +1551,13 @@ created: 2026-05-02
 > **Cross-References:** next video (1)
 > **Prerequisites:** set up (1)
 
-#### Add server controller for CORS
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/add-server-controller-for-cors?u=76281980)
+#### [Add server controller for CORS](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/add-server-controller-for-cors?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/add-server-controller-for-cors?u=76281980&t=0)** - [Instructor] OK, so now that we've finished this code, let's go ahead and test our application.
 >
-> **[0:04](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/add-server-controller-for-cors?u=76281980&t=4)** So the first thing we're going to do is get our server started, so let's go up and bring up our terminal, and let's make sure that we are in the client, and then let's go and do npm start.
+> **[0:04](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/add-server-controller-for-cors?u=76281980&t=4)** So the first thing we're going to do is get our server started, so let's go up and bring up our terminal, and let's make sure that we are in the client, and then let's go and do [[npm]] start.
 >
 > **[0:22](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/add-server-controller-for-cors?u=76281980&t=22)** And right now, a portion of our application is showing but we're not seeing any data.
 >
@@ -1600,7 +1575,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/add-server-controller-for-cors?u=76281980&t=73)** Because we copied code directly from materialized within do class name, and we did class instead, so let's quickly fix this, so let's go back to our code, and the first thing we're going to do is change all the class to class names so what we'll do is use a find and replace.
 >
-> **[1:31](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/add-server-controller-for-cors?u=76281980&t=91)** So what I did is basically Command + F you can do the same with Windows on Control + F and then we'll find all the class and then make sure that you fix this one after, and then we'll replace it with class name, and then just replace all.
+> **[1:31](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/add-server-controller-for-cors?u=76281980&t=91)** So what I did is basically Command + F you can do the same with [[Windows]] on Control + F and then we'll find all the class and then make sure that you fix this one after, and then we'll replace it with class name, and then just replace all.
 >
 > **[1:50](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/add-server-controller-for-cors?u=76281980&t=110)** And then the only thing you need to fix is make sure that the class for your class is called a class, if that makes any sense.
 >
@@ -1616,7 +1591,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/add-server-controller-for-cors?u=76281980&t=162)** So let's close out of the client and let's go back into our server, and go into the contact repository, and here what we're going to do is add two lines.
 >
-> **[2:53](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/add-server-controller-for-cors?u=76281980&t=173)** So the first one will import org data spring framework .data .rest .store and the one you're looking for is CORE annotation.repository rest resource and it's not store, it's core.
+> **[2:53](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/add-server-controller-for-cors?u=76281980&t=173)** So the first one will import org data [[Spring Framework]] .data .[[Representational State Transfer (REST)|rest]] .store and the one you're looking for is CORE annotation.repository rest resource and it's not store, it's core.
 >
 > **[3:29](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/add-server-controller-for-cors?u=76281980&t=209)** Perfect, so now that you have this, you can basically implement it by adding it at the top of your class.
 >
@@ -1626,7 +1601,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/add-server-controller-for-cors?u=76281980&t=221)** Then what we need to do is create a brand new file, and in this file we'll have our controllers which basically will allow us to return the data to our client and allow CORS to have it.
 >
-> **[3:52](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/add-server-controller-for-cors?u=76281980&t=232)** So inside of our model folder here, what we're going to do is create a brand new file that we're going to call ContactsController.java and then we're going to copy a few lines so let's go ahead and copy the package.
+> **[3:52](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/add-server-controller-for-cors?u=76281980&t=232)** So inside of our model folder here, what we're going to do is create a brand new file that we're going to call ContactsController.[[Java]] and then we're going to copy a few lines so let's go ahead and copy the package.
 >
 > **[4:12](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/add-server-controller-for-cors?u=76281980&t=252)** And then what I'm going to do is create the class first and then we'll do all the imports in this video and then continue working on this file in the following video, so let's go ahead and start with creating the class, like so.
 >
@@ -1638,7 +1613,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Representational State Transfer (REST)|Rest]] (3), api (3), application (2), front-end (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[npm]] (1), [[Windows]] (1), [[Spring Framework]] (1), [[Java]] (1)
 > **Env Vars:** cors (4), api (3), url (1), core (1)
 > **CLI Commands:** make (3), find (3), npm (1)
 > **Ports:** port 3000 (2)
@@ -1647,8 +1622,7 @@ created: 2026-05-02
 > **File Paths:** contactscontroller.java (1)
 > **Tools:** terminal (1)
 
-#### Finalize server controller for CORS
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/finalize-server-controller-for-cors?u=76281980)
+#### [Finalize server controller for CORS](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/finalize-server-controller-for-cors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1678,7 +1652,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/finalize-server-controller-for-cors?u=76281980&t=104)** So, let's go ahead and fix that right away, before we move on.
 >
-> **[1:48](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/finalize-server-controller-for-cors?u=76281980&t=108)** And I'm just going to simply import java.util, like so.
+> **[1:48](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/finalize-server-controller-for-cors?u=76281980&t=108)** And I'm just going to simply import [[Java]].util, like so.
 >
 > **[1:54](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/finalize-server-controller-for-cors?u=76281980&t=114)** And we got our collection.
 >
@@ -1764,7 +1738,7 @@ created: 2026-05-02
 >
 > **[5:30](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/finalize-server-controller-for-cors?u=76281980&t=330)** And let's do the same for the other input.
 >
-> **[5:33](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/finalize-server-controller-for-cors?u=76281980&t=333)** So, basically I changed the HTML for, but not the actual reference to it.
+> **[5:33](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/finalize-server-controller-for-cors?u=76281980&t=333)** So, basically I changed the [[HTML]] for, but not the actual reference to it.
 >
 > **[5:37](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/finalize-server-controller-for-cors?u=76281980&t=337)** So, that's why we have this issue.
 >
@@ -1784,11 +1758,11 @@ created: 2026-05-02
 >
 > **[6:17](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/finalize-server-controller-for-cors?u=76281980&t=377)** And if you want to check also from Postman, and you do a Get, you're going to see the two point of data.
 >
-> **[6:25](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/finalize-server-controller-for-cors?u=76281980&t=385)** So, this concludes building the full stack API, plus the front-end with React and Spring.
+> **[6:25](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/finalize-server-controller-for-cors?u=76281980&t=385)** So, this concludes building the full stack API, plus the front-end with [[React.js|React]] and Spring.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), application (3), database (2), [[Java]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Java]] (1), [[HTML]] (1), [[React.js|React]] (1)
 > **Code Identifiers:** contactrepository (5), createcontact (1), firstname (1), lastname (1)
 > **CLI Commands:** make (6), find (1)
 > **Env Vars:** url (2), html (1), api (1)
@@ -1802,12 +1776,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Context and state
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/context-and-state?u=76281980)
+#### [Context and state](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/context-and-state?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/context-and-state?u=76281980&t=0)** - [Instructor] Let's dive into how to efficiently manage state and utilize a contacts API in your React applications, especially when working with Spring backend.
+> **[0:00](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/context-and-state?u=76281980&t=0)** - [Instructor] Let's dive into how to efficiently manage state and utilize a contacts API in your [[React.js|React]] applications, especially when working with Spring backend.
 >
 > **[0:09](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/context-and-state?u=76281980&t=9)** This will be a quick guide, so let's get started.
 >
@@ -1869,22 +1842,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (7), data (6), application (5), api (3), management (1)
+> **Frameworks & Libraries:** [[React.js|React]] (7)
 > **Env Vars:** api (3)
 > **File Paths:** app.js (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/next-steps?u=76281980&t=0)** - [Emmanuel] This course was about learning how to build a Full Stack project, leveraging React and Spring.
+> **[0:00](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/next-steps?u=76281980&t=0)** - [Emmanuel] This course was about learning how to build a Full Stack project, leveraging [[React.js|React]] and Spring.
 >
 > **[0:06](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/next-steps?u=76281980&t=6)** You should be able to apply these techniques you've learned in the course to build your own projects with these two frameworks.
 >
-> **[0:12](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/next-steps?u=76281980&t=12)** If you got lost at any point due to your lack of experience with Java or JavaScript, I suggest you take a few introductory courses on these subjects.
+> **[0:12](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/next-steps?u=76281980&t=12)** If you got lost at any point due to your lack of experience with [[Java]] or [[JavaScript]], I suggest you take a few introductory courses on these subjects.
 >
 > **[0:21](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/next-steps?u=76281980&t=21)** And you can find many in our library to enhance your basic knowledge.
 >
@@ -1892,13 +1864,13 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/next-steps?u=76281980&t=32)** In fact, I have many courses on React so feel free to explore them.
 >
-> **[0:37](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/next-steps?u=76281980&t=37)** And finally, if you'd like to explore other subjects related to building Full Stack applications or would like to build a JavaScript back-end, look for other courses on Node.js, Express, Angular, or any other front-end frameworks we cover in our library.
+> **[0:37](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/next-steps?u=76281980&t=37)** And finally, if you'd like to explore other subjects related to building Full Stack applications or would like to build a JavaScript back-end, look for other courses on [[Node.js]], Express, [[Angular]], or any other front-end frameworks we cover in our library.
 >
 > **[0:52](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/next-steps?u=76281980&t=52)** Thanks very much for taking my course, and I'll see you in a bit.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (3), [[JavaScript]] (2), [[Java]] (1), [[Node.js]] (1), express (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[JavaScript]] (2), [[Java]] (1), [[Node.js]] (1), [[Angular]] (1)
 > **CLI Commands:** find (1), node (1)
 > **File Paths:** node.js (1)
 > **Speakers:** - [emmanuel] (1)

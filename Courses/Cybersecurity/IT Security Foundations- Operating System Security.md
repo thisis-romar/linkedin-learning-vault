@@ -87,8 +87,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Ensuring system security
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/ensuring-system-security?u=76281980)
+#### [Ensuring system security](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/ensuring-system-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -96,7 +95,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/ensuring-system-security?u=76281980&t=12)** However, the operating system is where many attacks are launched and targeted.
 >
-> **[0:18](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/ensuring-system-security?u=76281980&t=18)** In this course, I'll begin by reviewing methods to secure Windows, Mac and Linux operating system.
+> **[0:18](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/ensuring-system-security?u=76281980&t=18)** In this course, I'll begin by reviewing methods to secure [[Windows]], Mac and [[Linux]] operating system.
 >
 > **[0:25](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/ensuring-system-security?u=76281980&t=25)** I'll introduce ways to provide user authentication and then cover methods to protect and secure the operating system such as using a firewall.
 >
@@ -112,12 +111,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (1), [[Linux]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Linux]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [lisa] (1)
 
-#### Resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/resources?u=76281980)
+#### [Resources](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/resources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -129,7 +127,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -139,20 +136,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Securing the Windows OS
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/securing-the-windows-os?u=76281980)
+#### [Securing the Windows OS](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/securing-the-windows-os?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/securing-the-windows-os?u=76281980&t=0)** - [Instructor] Today, desktop and laptop computers are used in industry for data entry, research and general duties.
 >
-> **[0:09](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/securing-the-windows-os?u=76281980&t=9)** In the corporate world, Microsoft Windows is the most commonly used operating system, which makes Windows an optimal target for malicious actors.
+> **[0:09](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/securing-the-windows-os?u=76281980&t=9)** In the corporate world, [[Microsoft]] [[Windows]] is the most commonly used operating system, which makes Windows an optimal target for malicious actors.
 >
 > **[0:20](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/securing-the-windows-os?u=76281980&t=20)** The good news is that there many things that you can do to secure your system.
 >
 > **[0:24](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/securing-the-windows-os?u=76281980&t=24)** Depending on the version, it only takes a few simple steps to lock down your system and minimize the effects of an attack.
 >
-> **[0:32](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/securing-the-windows-os?u=76281980&t=32)** Windows 10 Home version is a popular operating system used by remote workers, students, and office personnel.
+> **[0:32](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/securing-the-windows-os?u=76281980&t=32)** [[Windows 10]] Home version is a popular operating system used by remote workers, students, and [[Microsoft Office|office]] personnel.
 >
 > **[0:41](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/securing-the-windows-os?u=76281980&t=41)** Even though it's a basic version, there are still several features that will add another layer of security.
 >
@@ -182,7 +178,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/securing-the-windows-os?u=76281980&t=108)** Now keep in mind, if you do want to use facial recognition or your fingerprint, you will need to have a compatible device, such as a camera or fingerprint reader to use this option.
 >
-> **[2:00](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/securing-the-windows-os?u=76281980&t=120)** Windows Defender comes with the operating system and constantly monitors your system for threats.
+> **[2:00](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/securing-the-windows-os?u=76281980&t=120)** Windows [[Microsoft Defender|Defender]] comes with the operating system and constantly monitors your system for threats.
 >
 > **[2:06](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/securing-the-windows-os?u=76281980&t=126)** It will activate immediately and begin monitoring your system.
 >
@@ -214,7 +210,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (12), data (7), [[Windows 10]] (4), [[Microsoft]] (2), [[Microsoft Office|Office]] (2)
+> **Frameworks & Libraries:** [[Windows]] (12), [[Windows 10]] (4), [[Microsoft]] (2), [[Microsoft Office|Office]] (2), [[Microsoft Defender|Defender]] (2)
 > **Analogies:** such as (4)
 > **Definitions:** is a  (2), is an  (1)
 > **Warnings:** keep in mind (2)
@@ -222,18 +218,17 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Visualizing the Windows architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/visualizing-the-windows-architecture?u=76281980)
+#### [Visualizing the Windows architecture](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/visualizing-the-windows-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/visualizing-the-windows-architecture?u=76281980&t=0)** - Today, desktop and laptop computers are used in industry for data entry, research, and general duties.
 >
-> **[0:08](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/visualizing-the-windows-architecture?u=76281980&t=8)** In the corporate world, Microsoft Windows is the most commonly used operating system as it represents approximately 75% of the global market.
+> **[0:08](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/visualizing-the-windows-architecture?u=76281980&t=8)** In the corporate world, [[Microsoft]] [[Windows]] is the most commonly used operating system as it represents approximately 75% of the global market.
 >
 > **[0:19](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/visualizing-the-windows-architecture?u=76281980&t=19)** Because of the large market share, it's important to understand the Windows architecture as this represents another attack factor.
 >
-> **[0:28](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/visualizing-the-windows-architecture?u=76281980&t=28)** So let's talk about the hardware abstraction layer and then compare user and kernel mode.
+> **[0:28](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/visualizing-the-windows-architecture?u=76281980&t=28)** So let's talk about the [[Hardware]] abstraction layer and then compare user and kernel mode.
 >
 > **[0:35](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/visualizing-the-windows-architecture?u=76281980&t=35)** On a Windows machine, a CPU operates in user mode and kernel mode.
 >
@@ -281,7 +276,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/visualizing-the-windows-architecture?u=76281980&t=210)** A user mode rootkit changes the applications at a user level as well as providing backdoor access and it can disable system and security services, hide processes, files and even conceal network interfaces.
 >
-> **[3:46](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/visualizing-the-windows-architecture?u=76281980&t=226)** However, a user mode rootkit does have a greater chance of being detected by anti-malware detection.
+> **[3:46](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/visualizing-the-windows-architecture?u=76281980&t=226)** However, a user mode rootkit does have a greater chance of being detected by anti-[[Malware Detection]].
 >
 > **[3:54](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/visualizing-the-windows-architecture?u=76281980&t=234)** A kernel mode rootkit is a more advanced rootkit as it places the rootkit at the same level as the operating system and anti-malware protection software.
 >
@@ -295,19 +290,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (9), [[Windows]] (6), application (4), [[Security]] (2), data (1)
+> **Frameworks & Libraries:** [[Hardware]] (9), [[Windows]] (6), [[Microsoft]] (1), [[Malware Detection]] (1)
 > **Env Vars:** cpu (2), cis (1)
 > **Definitions:** is a  (3)
 > **Speakers:** - today (1)
 
-#### Dissecting the NTFS
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/dissecting-the-ntfs?u=76281980)
+#### [Dissecting the NTFS](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/dissecting-the-ntfs?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/dissecting-the-ntfs?u=76281980&t=0)** - [Presenter] The file system itself can provide an additional level of security.
 >
-> **[0:05](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/dissecting-the-ntfs?u=76281980&t=5)** All Windows operating systems use the New Technology File System, or NTFS.
+> **[0:05](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/dissecting-the-ntfs?u=76281980&t=5)** All [[Windows]] operating systems use the New Technology File System, or NTFS.
 >
 > **[0:12](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/dissecting-the-ntfs?u=76281980&t=12)** Prior to that, the File Allocation Table, or FAT, was used.
 >
@@ -327,9 +321,9 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/dissecting-the-ntfs?u=76281980&t=65)** With NTFS, user-defined attributes can be added to a file.
 >
-> **[1:11](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/dissecting-the-ntfs?u=76281980&t=71)** And for accountability, NTFS adds a timestamp indicating when the file was last accessed.
+> **[1:11](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/dissecting-the-ntfs?u=76281980&t=71)** And for [[Accountability]], NTFS adds a timestamp indicating when the file was last accessed.
 >
-> **[1:19](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/dissecting-the-ntfs?u=76281980&t=79)** Permissions define the type of access granted, such as full control, modify, list folder contents, read and write, and can be applied to folders and files and active directory objects.
+> **[1:19](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/dissecting-the-ntfs?u=76281980&t=79)** Permissions define the type of access granted, such as full control, modify, list folder contents, read and write, and can be applied to folders and files and [[Active Directory]] objects.
 >
 > **[1:35](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/dissecting-the-ntfs?u=76281980&t=95)** Only drives formatted as New Technology File System will have the permissions tab.
 >
@@ -371,7 +365,7 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/dissecting-the-ntfs?u=76281980&t=234)** If both share and New Technology File System permissions are applied to the same resource, the most restrictive permission will be enforced, meaning if no access is set on a New Technology File System folder, and full control is set on the share, an access level of no access will result.
 >
-> **[4:17](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/dissecting-the-ntfs?u=76281980&t=257)** In a Microsoft operating system, there are several hidden administrative shares that are automatically created and indicated by a dollar sign at the end of the share name.
+> **[4:17](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/dissecting-the-ntfs?u=76281980&t=257)** In a [[Microsoft]] operating system, there are several hidden administrative shares that are automatically created and indicated by a dollar sign at the end of the share name.
 >
 > **[4:29](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/dissecting-the-ntfs?u=76281980&t=269)** Permissions on hidden administrative shares cannot be modified.
 >
@@ -379,14 +373,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (4), [[Security]] (3), [[Active Directory]] (2), [[Accountability]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Windows]] (4), [[Active Directory]] (2), [[Accountability]] (1), [[Microsoft]] (1)
 > **Env Vars:** ntfs (9), fat (4)
 > **Analogies:** such as (2)
 > **Definitions:** means that (1)
 > **Speakers:** - [presenter] (1)
 
-#### NTFS demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/ntfs-demo?u=76281980)
+#### [NTFS demo](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/ntfs-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -438,14 +431,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1)
 > **UI Navigation:** go to (7)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [announcer] (1)
 
-#### Controlling folder access
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/controlling-folder-access?u=76281980)
+#### [Controlling folder access](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/controlling-folder-access?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -459,7 +450,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/controlling-folder-access?u=76281980&t=19)** One way to defend against a ransomware attack is by using a feature called controlled folder access.
 >
-> **[0:26](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/controlling-folder-access?u=76281980&t=26)** Now, this feature is available in all versions of Windows 10 and above.
+> **[0:26](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/controlling-folder-access?u=76281980&t=26)** Now, this feature is available in all versions of [[Windows 10]] and above.
 >
 > **[0:32](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/controlling-folder-access?u=76281980&t=32)** Now I found some resources that might help your understanding a little bit better.
 >
@@ -469,7 +460,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/controlling-folder-access?u=76281980&t=48)** Now, these are standard.
 >
-> **[0:49](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/controlling-folder-access?u=76281980&t=49)** Things such as make sure your PC is up-to-date with the latest version of Windows, and has the latest patches.
+> **[0:49](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/controlling-folder-access?u=76281980&t=49)** Things such as make sure your PC is up-to-date with the latest version of [[Windows]], and has the latest patches.
 >
 > **[0:56](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/controlling-folder-access?u=76281980&t=56)** Make sure Windows Security is turned on to help protect you from viruses and malware.
 >
@@ -477,11 +468,11 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/controlling-folder-access?u=76281980&t=66)** And this will help protect important local folders from unauthorized programs, such as ransomware or other malware.
 >
-> **[1:14](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/controlling-folder-access?u=76281980&t=74)** Now this article is from Microsoft, and it steps through the process but I did find one that gave us some visuals.
+> **[1:14](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/controlling-folder-access?u=76281980&t=74)** Now this article is from [[Microsoft]], and it steps through the process but I did find one that gave us some visuals.
 >
 > **[1:22](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/controlling-folder-access?u=76281980&t=82)** Here at Bleeping Computer, I found an article that outlines how to step through the process of activating controlled folder access.
 >
-> **[1:32](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/controlling-folder-access?u=76281980&t=92)** So you want to go in, and open Windows Defender Security Center, and that's the first stop.
+> **[1:32](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/controlling-folder-access?u=76281980&t=92)** So you want to go in, and open Windows [[Microsoft Defender|Defender]] Security Center, and that's the first stop.
 >
 > **[1:38](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/controlling-folder-access?u=76281980&t=98)** Once there, you want to select virus and threat protection, and there you'll see controlled folder access.
 >
@@ -495,7 +486,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/controlling-folder-access?u=76281980&t=142)** 'Cuz it will tell you that you won't be allowed to modify it without selecting an allowing an app through the controlled folder access.
 >
-> **[2:30](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/controlling-folder-access?u=76281980&t=150)** But once it's secure, you can rest assure, it won't let any unauthorized application access the folder.
+> **[2:30](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/controlling-folder-access?u=76281980&t=150)** But once it's secure, you can [[Representational State Transfer (REST)|rest]] assure, it won't let any unauthorized application access the folder.
 >
 > **[2:37](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/controlling-folder-access?u=76281980&t=157)** And then it goes through 'cuz there's some other ways to enable controlled folder access.
 >
@@ -505,7 +496,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (3), [[Windows 10]] (3), [[Windows]] (3), [[Security]] (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Windows 10]] (3), [[Windows]] (3), [[Microsoft]] (1), [[Microsoft Defender|Defender]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** scroll down (1), toggle (1)
 > **Analogies:** such as (2)
@@ -513,8 +504,7 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using runas
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/using-runas?u=76281980)
+#### [Using runas](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/using-runas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -546,9 +536,9 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/using-runas?u=76281980&t=98)** Now, I'm in server 2016 as a user called Sherlock.
 >
-> **[1:42](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/using-runas?u=76281980&t=102)** But I want to go into PowerShell as the administrator.
+> **[1:42](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/using-runas?u=76281980&t=102)** But I want to go into [[Powershell]] as the administrator.
 >
-> **[1:52](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/using-runas?u=76281980&t=112)** I go into Windows PowerShell but now I right click and say, run as administrator.
+> **[1:52](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/using-runas?u=76281980&t=112)** I go into [[Windows]] PowerShell but now I right click and say, run as administrator.
 >
 > **[1:59](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/using-runas?u=76281980&t=119)** It will then prompt me for a password.
 >
@@ -568,19 +558,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (2), [[Security]] (1), [[Windows]] (1), prompt (1), feature (1)
+> **Frameworks & Libraries:** [[Powershell]] (2), [[Windows]] (1)
 > **Analogies:** for example (2), such as (1)
 > **Tools:** powershell (2)
 > **Best Practices:** it's best to (1), good practice (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - to (1)
 
-#### Exploring User Account Control (UAC)
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/exploring-user-account-control-uac?u=76281980)
+#### [Exploring User Account Control (UAC)](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/exploring-user-account-control-uac?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/exploring-user-account-control-uac?u=76281980&t=0)** - [Narrator] User Account Control is a feature in Windows that protects the security of the operating system.
+> **[0:00](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/exploring-user-account-control-uac?u=76281980&t=0)** - [Narrator] User Account Control is a feature in [[Windows]] that protects the security of the operating system.
 >
 > **[0:07](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/exploring-user-account-control-uac?u=76281980&t=7)** When a program wants to make a change, a dialogue box will open and prompt you to select whether or not you want the app to make changes.
 >
@@ -624,7 +613,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/exploring-user-account-control-uac?u=76281980&t=146)** Now, in this case, you won't see your desktop dim at all.
 >
-> **[2:31](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/exploring-user-account-control-uac?u=76281980&t=151)** Using this level increases the security risk, so be careful, especially since malware might try to take advantage of this setting.
+> **[2:31](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/exploring-user-account-control-uac?u=76281980&t=151)** Using this level increases the [[Security Risk]], so be careful, especially since malware might try to take advantage of this setting.
 >
 > **[2:40](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/exploring-user-account-control-uac?u=76281980&t=160)** However, if you're using strong antimalware protection, this shouldn't pose a serious risk.
 >
@@ -656,7 +645,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (5), [[Security]] (3), prompt (2), feature (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Windows]] (5), [[Security Risk]] (1)
 > **CLI Commands:** make (12)
 > **Best Practices:** recommended (2), you should always (1)
 > **Warnings:** be careful (3)
@@ -670,8 +659,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Protecting your macOS
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/protecting-your-macos?u=76281980)
+#### [Protecting your macOS](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/protecting-your-macos?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -737,7 +725,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), data (5)
 > **CLI Commands:** find (1), make (1)
 > **Best Practices:** best practice (1), recommended (1)
 > **Prerequisites:** set up (2)
@@ -746,12 +733,11 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Interacting with a Linux OS
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/interacting-with-a-linux-os?u=76281980)
+#### [Interacting with a Linux OS](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/interacting-with-a-linux-os?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/interacting-with-a-linux-os?u=76281980&t=0)** - [Instructor] When working in Linux, you can either use a graphical user interface or a shell.
+> **[0:00](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/interacting-with-a-linux-os?u=76281980&t=0)** - [Instructor] When working in [[Linux]], you can either use a graphical user interface or a shell.
 >
 > **[0:05](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/interacting-with-a-linux-os?u=76281980&t=5)** In this segment, we'll compare the two along with some basic Linux commands that you might use while in the shell.
 >
@@ -795,7 +781,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (5), prompt (1), application (1)
+> **Frameworks & Libraries:** [[Linux]] (5)
 > **Env Vars:** gnome (3), kde (2), gui (1)
 > **Tools:** terminal (3), command prompt (1)
 > **UI Navigation:** go to (2)
@@ -803,14 +789,13 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the Linux file system
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/using-the-linux-file-system?u=76281980)
+#### [Using the Linux file system](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/using-the-linux-file-system?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/using-the-linux-file-system?u=76281980&t=0)** - [Narrator] A file system controls how data is stored and retrieved.
 >
-> **[0:05](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/using-the-linux-file-system?u=76281980&t=5)** In this segment, we'll take a look at how the Linux file system can help manage files and their permissions.
+> **[0:05](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/using-the-linux-file-system?u=76281980&t=5)** In this segment, we'll take a look at how the [[Linux]] file system can help manage files and their permissions.
 >
 > **[0:12](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/using-the-linux-file-system?u=76281980&t=12)** On a Linux operating system, everything is a file.
 >
@@ -868,26 +853,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (3), data (2), power (1)
+> **Frameworks & Libraries:** [[Linux]] (3)
 > **Analogies:** such as (2), for example (2)
 > **Definitions:** is a  (1), is an  (1)
 > **File Paths:** analyst.txt (1)
 > **Speakers:** - [narrator] (1)
 
-#### Avoiding malware on a Linux host
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/avoiding-malware-on-a-linux-host?u=76281980)
+#### [Avoiding malware on a Linux host](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/avoiding-malware-on-a-linux-host?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/avoiding-malware-on-a-linux-host?u=76281980&t=0)** - [Instructor] Malware can get onto a Linux host and cause a great deal of damage.
+> **[0:00](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/avoiding-malware-on-a-linux-host?u=76281980&t=0)** - [Instructor] Malware can get onto a [[Linux]] host and cause a great deal of damage.
 >
 > **[0:05](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/avoiding-malware-on-a-linux-host?u=76281980&t=5)** In this segment, we'll review some of the tools you can use to scan the Linux operating system for malware and rootkits.
 >
-> **[0:13](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/avoiding-malware-on-a-linux-host?u=76281980&t=13)** Now, there are a lot of things that you can do to secure your system, include using anti malware protection, scanning your system, employing security appliances, such as firewalls and intrusion detection systems and updating the system.
+> **[0:13](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/avoiding-malware-on-a-linux-host?u=76281980&t=13)** Now, there are a lot of things that you can do to secure your system, include using anti malware protection, scanning your system, employing security appliances, such as firewalls and [[Intrusion Detection]] systems and updating the system.
 >
 > **[0:30](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/avoiding-malware-on-a-linux-host?u=76281980&t=30)** In addition to using good security practices, you'll also want to make sure that you do not either have malware or a rootkit.
 >
-> **[0:39](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/avoiding-malware-on-a-linux-host?u=76281980&t=39)** Of course, there are proprietary products that you can use, but there are also some open-source applications you can use to secure your system as well.
+> **[0:39](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/avoiding-malware-on-a-linux-host?u=76281980&t=39)** Of course, there are proprietary [[Microsoft Products|products]] that you can use, but there are also some open-source applications you can use to secure your system as well.
 >
 > **[0:50](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/avoiding-malware-on-a-linux-host?u=76281980&t=50)** I found a few that can help keep your system secure.
 >
@@ -919,7 +903,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (6), [[Security]] (4), open-source (3), [[Intrusion Detection]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Linux]] (6), [[Intrusion Detection]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
@@ -930,8 +914,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Identify and authenticate
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/identify-and-authenticate?u=76281980)
+#### [Identify and authenticate](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/identify-and-authenticate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -979,13 +962,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1), database (1)
 > **Analogies:** such as (3), for example (1)
 > **Env Vars:** pin (1)
 > **Speakers:** - [instructor] (1)
 
-#### Passwords and complexity
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/passwords-and-complexity?u=76281980)
+#### [Passwords and complexity](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/passwords-and-complexity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1003,7 +984,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/passwords-and-complexity?u=76281980&t=37)** Since a password is simply a sequence of characters, it's the weakest security method so we take steps to ensure a strong password.
 >
-> **[0:48](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/passwords-and-complexity?u=76281980&t=48)** In 2017, NIST published password guidelines and the guidelines have changed.
+> **[0:48](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/passwords-and-complexity?u=76281980&t=48)** In 2017, [[NIST]] published password guidelines and the guidelines have changed.
 >
 > **[0:55](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/passwords-and-complexity?u=76281980&t=55)** Now, some of the key changes include: you no longer have to have frequent password changes, requiring frequent changes to passwords have been proven to be counterproductive, and complex rules are no longer needed such as upper and lowercase letters, numbers, punctuation marks, and symbols, this is also demonstrated to be ineffective.
 >
@@ -1047,17 +1028,17 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/passwords-and-complexity?u=76281980&t=239)** And as you can see, even though it's a passphrase that's easy to remember, it would take about 600 million years to crack your password.
 >
-> **[4:09](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/passwords-and-complexity?u=76281980&t=249)** So here you can see some tips and this is from NIST, so you want to look at passwords and make sure that you provide good passwords, don't just rely on password protection, you might want to consider multi-factor authentication whenever possible.
+> **[4:09](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/passwords-and-complexity?u=76281980&t=249)** So here you can see some tips and this is from NIST, so you want to look at passwords and make sure that you provide good passwords, don't just rely on password protection, you might want to consider [[Multi-factor Authentication]] whenever possible.
 >
 > **[4:27](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/passwords-and-complexity?u=76281980&t=267)** Use a phrase with multiple words as we see that's very strong.
 >
-> **[4:32](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/passwords-and-complexity?u=76281980&t=272)** And also protect all of your accounts and especially banking and email accounts by giving each one a unique passphrase.
+> **[4:32](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/passwords-and-complexity?u=76281980&t=272)** And also protect all of your accounts and especially [[Banking]] and email accounts by giving each one a unique passphrase.
 >
-> **[4:42](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/passwords-and-complexity?u=76281980&t=282)** So passwords are one of the most widely used forms of authentication but take steps to provide a secure password.
+> **[4:42](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/passwords-and-complexity?u=76281980&t=282)** So passwords are one of the most widely used [[Forms]] of authentication but take steps to provide a secure password.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), [[NIST]] (2), [[Multi-factor Authentication]] (1), [[Banking]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[NIST]] (2), [[Multi-factor Authentication]] (1), [[Banking]] (1), [[Forms]] (1)
 > **Analogies:** such as (5), for example (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** nist (2)
@@ -1065,8 +1046,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [educator] (1)
 
-#### Smart cards and tokens
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/smart-cards-and-tokens?u=76281980)
+#### [Smart cards and tokens](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/smart-cards-and-tokens?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1076,13 +1056,13 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/smart-cards-and-tokens?u=76281980&t=10)** A smart card is a credit card-sized card that contains information on an embedded chip about the user such as credit and buying preferences, loyalty program data, and even medical information.
 >
-> **[0:25](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/smart-cards-and-tokens?u=76281980&t=25)** Smart cards can store several forms of identification, such as a fingerprint and a password.
+> **[0:25](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/smart-cards-and-tokens?u=76281980&t=25)** Smart cards can store several [[Forms]] of identification, such as a fingerprint and a password.
 >
-> **[0:32](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/smart-cards-and-tokens?u=76281980&t=32)** Smart cards are available in several form factors, such as cards, key fobs, and USB tokens.
+> **[0:32](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/smart-cards-and-tokens?u=76281980&t=32)** Smart cards are available in several form factors, such as cards, key fobs, and USB [[Tokens]].
 >
 > **[0:39](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/smart-cards-and-tokens?u=76281980&t=39)** Smart cards have several uses, including access control for employee access cards or ID badges and membership cards for nightclubs, VIP access cards, or preferred door entry cards.
 >
-> **[0:55](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/smart-cards-and-tokens?u=76281980&t=55)** They can be used as banking cards, such as credit or electronic purse used to store currency for purchases.
+> **[0:55](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/smart-cards-and-tokens?u=76281980&t=55)** They can be used as [[Banking]] cards, such as credit or electronic purse used to store currency for purchases.
 >
 > **[1:03](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/smart-cards-and-tokens?u=76281980&t=63)** And for healthcare, this can store patients' history and medical information.
 >
@@ -1100,7 +1080,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/smart-cards-and-tokens?u=76281980&t=97)** For higher security needs, they can store information such as a user's picture or fingerprints.
 >
-> **[1:44](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/smart-cards-and-tokens?u=76281980&t=104)** They can hold encryption key for disk encryption systems, such as Microsoft's BitLocker, and they can be used as a software dongle where only licensed users can access the software.
+> **[1:44](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/smart-cards-and-tokens?u=76281980&t=104)** They can hold encryption key for disk encryption systems, such as [[Microsoft]]'s BitLocker, and they can be used as a software dongle where only licensed users can access the software.
 >
 > **[1:57](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/smart-cards-and-tokens?u=76281980&t=117)** Smart cards and memory cards are both considered tokens.
 >
@@ -1124,7 +1104,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (3), data (2), [[Security]] (2), [[Forms]] (1), [[Banking]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (3), [[Forms]] (1), [[Banking]] (1), [[Microsoft]] (1)
 > **Analogies:** such as (7), picture (1)
 > **Env Vars:** usb (1), vip (1)
 > **CLI Commands:** make (1)
@@ -1132,8 +1112,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - we (1)
 
-#### Biometric identification
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/biometric-identification?u=76281980)
+#### [Biometric identification](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/biometric-identification?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1169,7 +1148,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/biometric-identification?u=76281980&t=102)** It's the way that they speak, their inflection, and their patterns.
 >
-> **[1:47](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/biometric-identification?u=76281980&t=107)** Now this is different than speech recognition, which is recognizing what is being said.
+> **[1:47](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/biometric-identification?u=76281980&t=107)** Now this is different than [[Speech Recognition]], which is recognizing what is being said.
 >
 > **[1:54](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/biometric-identification?u=76281980&t=114)** Now on the physiological side, we have hand geometry.
 >
@@ -1209,13 +1188,13 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/biometric-identification?u=76281980&t=234)** Biometrics are being used more and more.
 >
-> **[3:57](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/biometric-identification?u=76281980&t=237)** However, there are some concerns over privacy.
+> **[3:57](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/biometric-identification?u=76281980&t=237)** However, there are some concerns over [[Privacy]].
 >
 > **[4:01](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/biometric-identification?u=76281980&t=241)** Many states maintain fingerprints of all licensed drivers, convicted felons also have prints on file, and biometrics are now in place at border control.
 >
 > **[4:14](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/biometric-identification?u=76281980&t=254)** Biometrics do have some disadvantages.
 >
-> **[4:17](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/biometric-identification?u=76281980&t=257)** One is that it's more expensive than a password, and some of the of products don't work as expected and have high failure rates, and there's no common API or other standard, and there is some hesitancy for user acceptance.
+> **[4:17](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/biometric-identification?u=76281980&t=257)** One is that it's more expensive than a password, and some of the of [[Microsoft Products|products]] don't work as expected and have high failure rates, and there's no common API or other standard, and there is some hesitancy for user acceptance.
 >
 > **[4:36](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/biometric-identification?u=76281980&t=276)** However, we're still seeing more advantages including: biometrics can't be lost like a key, smart card, or token; they can't be forgotten like a password; and biometrics essentially last for a lifetime.
 >
@@ -1223,15 +1202,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1), [[Speech Recognition]] (1), feature (1), [[Privacy]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Speech Recognition]] (1), [[Privacy]] (1), [[Microsoft Products|Products]] (1)
 > **Exercise Files:** template (2)
 > **Analogies:** such as (2)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Multi-factor authentication
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/multi-factor-authentication?u=76281980)
+#### [Multi-factor authentication](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/multi-factor-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1271,15 +1249,15 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/multi-factor-authentication?u=76281980&t=112)** The application pushes out a message that the user selects to accept.
 >
-> **[1:58](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/multi-factor-authentication?u=76281980&t=118)** We can use tokens, which provide a one-time password to authenticate the user.
+> **[1:58](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/multi-factor-authentication?u=76281980&t=118)** We can use [[Tokens]], which provide a one-time password to authenticate the user.
 >
 > **[2:03](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/multi-factor-authentication?u=76281980&t=123)** A token is sent to the user via phone or email that the user must enter to authenticate.
 >
-> **[2:11](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/multi-factor-authentication?u=76281980&t=131)** The use of blockchain technology is in its infancy stages.
+> **[2:11](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/multi-factor-authentication?u=76281980&t=131)** The use of [[Blockchain]] technology is in its infancy stages.
 >
 > **[2:15](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/multi-factor-authentication?u=76281980&t=135)** However, there is a strong possibility that security systems are looking to incorporate blockchain technology as part of an authentication system.
 >
-> **[2:25](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/multi-factor-authentication?u=76281980&t=145)** Here, we can see Sony Files Patent for Blockchain-based Multi-Factor Authentication System, which we'll most likely see more of as companies seek to find robust authentication methods.
+> **[2:25](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/multi-factor-authentication?u=76281980&t=145)** Here, we can see Sony Files Patent for Blockchain-based [[Multi-factor Authentication]] System, which we'll most likely see more of as companies seek to find robust authentication methods.
 >
 > **[2:39](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/multi-factor-authentication?u=76281980&t=159)** So to provide assurance in providing authentication, we're going to see multifactor authentication, which requires two or more ways to authenticate.
 >
@@ -1287,7 +1265,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Security]] (3), [[Blockchain]] (3), application (1), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[Blockchain]] (3), [[Tokens]] (1), [[Multi-factor Authentication]] (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** go to (1), scroll down (1)
 > **Definitions:** is a  (2)
@@ -1299,12 +1277,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using a firewall
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/using-a-firewall?u=76281980)
+#### [Using a firewall](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/using-a-firewall?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/using-a-firewall?u=76281980&t=0)** - [Instructor] A firewall is a hardware or software-based method to control incoming and outgoing traffic.
+> **[0:00](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/using-a-firewall?u=76281980&t=0)** - [Instructor] A firewall is a [[Hardware]] or software-based method to control incoming and outgoing traffic.
 >
 > **[0:07](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/using-a-firewall?u=76281980&t=7)** It's based on a set of rules that either permit or deny traffic on a network or a host.
 >
@@ -1334,7 +1311,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/using-a-firewall?u=76281980&t=113)** Most operating systems have choices when selecting a firewall.
 >
-> **[1:57](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/using-a-firewall?u=76281980&t=117)** One example is the Windows Defender Firewall.
+> **[1:57](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/using-a-firewall?u=76281980&t=117)** One example is the [[Windows]] [[Microsoft Defender|Defender]] Firewall.
 >
 > **[2:00](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/using-a-firewall?u=76281980&t=120)** Now, the Windows Defender Firewall with Advanced Security protects your system right out of the box.
 >
@@ -1358,13 +1335,13 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/using-a-firewall?u=76281980&t=171)** You could turn it on, but in most cases, it isn't necessary to activate this firewall as the application firewall provides robust protection from most threats.
 >
-> **[3:02](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/using-a-firewall?u=76281980&t=182)** A Linux machine also has several options that can be used to monitor the system, and here's an article on top firewall solutions.
+> **[3:02](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/using-a-firewall?u=76281980&t=182)** A [[Linux]] machine also has several options that can be used to monitor the system, and here's an article on top firewall solutions.
 >
 > **[3:11](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/using-a-firewall?u=76281980&t=191)** Some examples include Endian Firewall Community, and this firewall's turnkey, ready-to-use security solution which is built on Linux.
 >
 > **[3:21](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/using-a-firewall?u=76281980&t=201)** And another one is the Uncomplicated Firewall.
 >
-> **[3:25](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/using-a-firewall?u=76281980&t=205)** Now, this is a pre-built firewall solution that comes with all Ubuntu distributions of Linux.
+> **[3:25](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/using-a-firewall?u=76281980&t=205)** Now, this is a pre-built firewall solution that comes with all [[Ubuntu]] distributions of Linux.
 >
 > **[3:33](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/using-a-firewall?u=76281980&t=213)** So do your research and make sure that the firewall is robust and resistant to attacks.
 >
@@ -1372,15 +1349,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (6), application (3), [[Windows]] (3), [[Microsoft Defender|Defender]] (3), [[Linux]] (3)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Microsoft Defender|Defender]] (3), [[Linux]] (3), [[Hardware]] (1), [[Ubuntu]] (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** bsd (1)
 > **Speakers:** - [instructor] (1)
 
-#### Locking down the browser
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/locking-down-the-browser?u=76281980)
+#### [Locking down the browser](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/locking-down-the-browser?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1388,7 +1364,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/locking-down-the-browser?u=76281980&t=15)** Because of our always on connectivity, it's essential to lock down your browser.
 >
-> **[0:21](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/locking-down-the-browser?u=76281980&t=21)** I'm at this webpage where we can see what happens on the internet in one minute, as you can see, there's a lot of things that happen, because we use our browsers for everything from entertainment, to completing sensitive tasks like banking transaction, and checking medical records.
+> **[0:21](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/locking-down-the-browser?u=76281980&t=21)** I'm at this webpage where we can see what happens on the internet in one minute, as you can see, there's a lot of things that happen, because we use our browsers for everything from entertainment, to completing sensitive tasks like [[Banking]] transaction, and checking medical records.
 >
 > **[0:40](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/locking-down-the-browser?u=76281980&t=40)** Malicious actors are constantly seeking ways to steal sensitive data or to install malware.
 >
@@ -1412,7 +1388,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/locking-down-the-browser?u=76281980&t=104)** It will the reputation along with examining any files you download.
 >
-> **[1:50](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/locking-down-the-browser?u=76281980&t=110)** The filters will help prevent phishing, and block risky content.
+> **[1:50](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/locking-down-the-browser?u=76281980&t=110)** The filters will help prevent [[Phishing]], and block risky content.
 >
 > **[1:55](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/locking-down-the-browser?u=76281980&t=115)** Another thing you can use is enhanced protection, and I'm at this webpage where you can learn more about safe browsing in Chrome.
 >
@@ -1434,19 +1410,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), [[Security]] (3), data (2), [[Banking]] (1), [[Phishing]] (1)
+> **Frameworks & Libraries:** [[Banking]] (1), [[Phishing]] (1)
 > **Analogies:** such as (2), for example (1)
 > **UI Navigation:** scroll down (2)
 > **Tools:** firefox (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hardening the OS
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/hardening-the-os?u=76281980)
+#### [Hardening the OS](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/hardening-the-os?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/hardening-the-os?u=76281980&t=0)** - [Instructor] Threats are all around us and come from a number of different sources, hackers, phishing, malware, an administrator that doesn't monitor the systems for signs of intrusion, or even a disgruntled employee.
+> **[0:00](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/hardening-the-os?u=76281980&t=0)** - [Instructor] Threats are all around us and come from a number of different sources, hackers, [[Phishing]], malware, an administrator that doesn't monitor the systems for signs of intrusion, or even a disgruntled employee.
 >
 > **[0:15](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/hardening-the-os?u=76281980&t=15)** Hardening an operating system minimizes exposure to threats and involves several steps, along with some good practice techniques.
 >
@@ -1499,8 +1474,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Protocol good practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/protocol-good-practices?u=76281980)
+#### [Protocol good practices](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/protocol-good-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1512,7 +1486,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/protocol-good-practices?u=76281980&t=31)** Secure Shell is used to log in for remote administration.
 >
-> **[0:36](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/protocol-good-practices?u=76281980&t=36)** For example, if you need to do a file transfer on your web hosting site or a even remote administration from your windows machine to a Unix environment.
+> **[0:36](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/protocol-good-practices?u=76281980&t=36)** For example, if you need to do a file transfer on your web hosting site or a even remote administration from your [[Windows]] machine to a Unix environment.
 >
 > **[0:48](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/protocol-good-practices?u=76281980&t=48)** We can see here is where you can download Putty, and I've downloaded and extracted it, and now I'm running it.
 >
@@ -1544,7 +1518,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/protocol-good-practices?u=76281980&t=147)** At any given in time, there are a number of different types of attacks.
 >
-> **[2:34](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/protocol-good-practices?u=76281980&t=154)** I'm here at this website Threat Cloud, and here we can see attacking in real-time across the world.
+> **[2:34](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/protocol-good-practices?u=76281980&t=154)** I'm here at this website Threat Cloud, and here we can see attacking in [[Real-Time]] across the world.
 >
 > **[2:43](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/protocol-good-practices?u=76281980&t=163)** What happens is attackers are seeking vulnerable systems.
 >
@@ -1574,7 +1548,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (4), [[Security]] (1), vpn (1), data (1), web (1)
+> **Frameworks & Libraries:** [[Windows]] (4), [[Real-Time]] (1)
 > **Env Vars:** ftp (8), https (1), http (1), vpn (1), ssh (1)
 > **CLI Commands:** make (2), ssh (1)
 > **UI Navigation:** go to (1), click on (1), scroll down (1)
@@ -1588,14 +1562,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Email clients and servers
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/email-clients-and-servers?u=76281980)
+#### [Email clients and servers](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/email-clients-and-servers?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/email-clients-and-servers?u=76281980&t=0)** - [Instructor] When it comes to email protection, both the client and server needs protection.
 >
-> **[0:06](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/email-clients-and-servers?u=76281980&t=6)** There are several best practices, including anti-spam and defense against spoofing, phishing and pharming.
+> **[0:06](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/email-clients-and-servers?u=76281980&t=6)** There are several best practices, including anti-spam and defense against spoofing, [[Phishing]] and pharming.
 >
 > **[0:14](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/email-clients-and-servers?u=76281980&t=14)** In most cases, malware protection for email is used to catch malware variants before they even reach the inbox.
 >
@@ -1671,20 +1644,19 @@ created: 2026-05-02
 >
 > **[4:19](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/email-clients-and-servers?u=76281980&t=259)** Threat management monitors for malware.
 >
-> **[4:23](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/email-clients-and-servers?u=76281980&t=263)** If you're using cloud services such as Office 365 Online, this automatically protects email messages against spam and malware.
+> **[4:23](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/email-clients-and-servers?u=76281980&t=263)** If you're using [[Cloud Services]] such as [[Microsoft Office|Office]] 365 Online, this automatically protects email messages against spam and malware.
 >
 > **[4:33](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/email-clients-and-servers?u=76281980&t=273)** In addition, provide user education and train everyone to think before opening links or email attachments.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (4), traffic (2), cloud (2), [[Engineering]] (1), business (1)
+> **Frameworks & Libraries:** [[Phishing]] (4), [[Cloud Services]] (1), [[Microsoft Office|Office]] (1)
 > **Analogies:** such as (2), imagine (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** smtp (1)
 > **Speakers:** - [instructor] (1)
 
-#### Email and SPAM
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/email-and-spam?u=76281980)
+#### [Email and SPAM](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/email-and-spam?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1704,9 +1676,9 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/email-and-spam?u=76281980&t=50)** We see here at [barracuda.com](https://barracuda.com) that 91% of cyberattacks start with an email.
 >
-> **[0:56](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/email-and-spam?u=76281980&t=56)** Over on the right-hand side, you also see some other statistics related to malicious email.
+> **[0:56](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/email-and-spam?u=76281980&t=56)** Over on the right-hand side, you also see some other [[Statistics]] related to malicious email.
 >
-> **[1:04](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/email-and-spam?u=76281980&t=64)** Network administrators enable strong spam filters to prevent spam and phishing emails from reaching the end users but there are other tools in the arsenal that help prevent spam, phishing and forgery by allowing administrators to validate inbound email.
+> **[1:04](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/email-and-spam?u=76281980&t=64)** Network administrators enable strong spam filters to prevent spam and [[Phishing]] emails from reaching the end users but there are other tools in the arsenal that help prevent spam, phishing and forgery by allowing administrators to validate inbound email.
 >
 > **[1:22](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/email-and-spam?u=76281980&t=82)** Those include sender policy framework, DomainKeys identified mail and domain message authentication reporting and conformance.
 >
@@ -1756,19 +1728,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (4), dns (2), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (4), [[Statistics]] (1)
 > **Env Vars:** dkim (4), dmarc (4), smtp (2), dns (2), spf (1)
 > **Definitions:** is an  (2)
 > **URLs:** [barracuda.com](https://barracuda.com) (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - [instructor] (1)
 
-#### PTR records
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/ptr-records?u=76281980)
+#### [PTR records](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/ptr-records?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/ptr-records?u=76281980&t=0)** - [Instructor] Domain Name System maps a host name to an IP address.
+> **[0:00](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/ptr-records?u=76281980&t=0)** - [Instructor] [[Domain Name System (DNS)|Domain Name System]] maps a host name to an IP address.
 >
 > **[0:05](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/ptr-records?u=76281980&t=5)** It's essential on any network.
 >
@@ -1810,7 +1781,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (4), business (2), [[Domain Name System (DNS)|Domain name system]] (1), generic (1)
+> **Frameworks & Libraries:** [[Domain Name System (DNS)|Domain name system]] (1)
 > **Env Vars:** dns (4), ptr (4)
 > **Cross-References:** coming up (1)
 > **Definitions:** is a  (1)
@@ -1822,8 +1793,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cryptographic techniques
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/cryptographic-techniques?u=76281980)
+#### [Cryptographic techniques](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/cryptographic-techniques?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1837,17 +1807,17 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/cryptographic-techniques?u=76281980&t=23)** As many times companies don't notice any abnormal network activity.
 >
-> **[0:30](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/cryptographic-techniques?u=76281980&t=30)** We use cryptographic techniques to ensure confidentiality, integrity, and authentication of data whether in motion or at rest.
+> **[0:30](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/cryptographic-techniques?u=76281980&t=30)** We use cryptographic techniques to ensure confidentiality, integrity, and authentication of data whether in motion or at [[Representational State Transfer (REST)|rest]].
 >
 > **[0:40](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/cryptographic-techniques?u=76281980&t=40)** Data is in motion while traveling through the network moving from place-to-place.
 >
-> **[0:46](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/cryptographic-techniques?u=76281980&t=46)** Data is at rest while on a drive, cloud storage or removable media.
+> **[0:46](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/cryptographic-techniques?u=76281980&t=46)** Data is at rest while on a drive, [[Cloud Storage]] or removable media.
 >
 > **[0:52](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/cryptographic-techniques?u=76281980&t=52)** Today, encryption is the most effective way to secure digital data.
 >
 > **[0:57](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/cryptographic-techniques?u=76281980&t=57)** Encryption uses a mathematical algorithm, and a key to convert data into a scrambled format, which is meaningless unless you have a key.
 >
-> **[1:08](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/cryptographic-techniques?u=76281980&t=68)** As we discuss cryptography, you'll hear many terms such as symmetric, asymmetric and hashing.
+> **[1:08](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/cryptographic-techniques?u=76281980&t=68)** As we discuss [[Cryptography]], you'll hear many terms such as symmetric, asymmetric and hashing.
 >
 > **[1:15](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/cryptographic-techniques?u=76281980&t=75)** Now there are two main types of encryption.
 >
@@ -1861,7 +1831,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/cryptographic-techniques?u=76281980&t=97)** Most of the time though, we'll use a hybrid crypto system that employs both methods.
 >
-> **[1:43](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/cryptographic-techniques?u=76281980&t=103)** To protect data we also use hash algorithms.
+> **[1:43](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/cryptographic-techniques?u=76281980&t=103)** To protect data we also use hash [[Algorithms]].
 >
 > **[1:48](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/cryptographic-techniques?u=76281980&t=108)** A hash algorithm is a one-way function that takes a variable length input, and returns a fixed length output.
 >
@@ -1875,7 +1845,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/cryptographic-techniques?u=76281980&t=138)** With that we use a hash function.
 >
-> **[2:21](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/cryptographic-techniques?u=76281980&t=141)** Accountability is being able to positively identify an entity in a system such as signing an electronic contract.
+> **[2:21](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/cryptographic-techniques?u=76281980&t=141)** [[Accountability]] is being able to positively identify an entity in a system such as signing an electronic contract.
 >
 > **[2:29](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/cryptographic-techniques?u=76281980&t=149)** Here we use a digital signature.
 >
@@ -1891,17 +1861,16 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/cryptographic-techniques?u=76281980&t=174)** And public key infrastructure.
 >
-> **[2:56](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/cryptographic-techniques?u=76281980&t=176)** All data, whether at rest or in motion, such as data and cloud storage or traveling across the network should use some form of cryptographic technique to ensure privacy, data integrity and authentication.
+> **[2:56](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/cryptographic-techniques?u=76281980&t=176)** All data, whether at rest or in motion, such as data and cloud storage or traveling across the network should use some form of cryptographic technique to ensure [[Privacy]], [[Data Integrity]] and authentication.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Representational State Transfer (REST)|Rest]] (3), cloud (2), [[Cryptography]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[Cloud Storage]] (2), [[Cryptography]] (1), [[Algorithms]] (1), [[Accountability]] (1)
 > **Analogies:** such as (3)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Symmetric encryption
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/symmetric-encryption?u=76281980)
+#### [Symmetric encryption](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/symmetric-encryption?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1923,7 +1892,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/symmetric-encryption?u=76281980&t=54)** And down below is what you can see when text is encrypted.
 >
-> **[0:59](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/symmetric-encryption?u=76281980&t=59)** Symmetric algorithms include Data Encryption Standard, Triple DES, IDEA, and Advanced Encryption Standard to provide fast, efficient encryption with low overhead.
+> **[0:59](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/symmetric-encryption?u=76281980&t=59)** Symmetric [[Algorithms]] include Data Encryption Standard, Triple DES, IDEA, and Advanced Encryption Standard to provide fast, efficient encryption with low overhead.
 >
 > **[1:15](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/symmetric-encryption?u=76281980&t=75)** We use symmetric encryption to provide confidential, online communications, such as an SSL/TLS transaction or Secure Multipurpose Internet Mail Extensions to encrypt messages for confidential mail.
 >
@@ -1961,15 +1930,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Algorithms]] (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2)
 > **Env Vars:** des (2), idea (1), ssl (1), tls (1), aes (1)
 > **Definitions:** is a  (1), means that (1), is an  (1)
 > **Analogies:** such as (3)
 > **Prerequisites:** initialization (1)
 > **Speakers:** - [instructor] (1)
 
-#### Asymmetric encryption
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/asymmetric-encryption?u=76281980)
+#### [Asymmetric encryption](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/asymmetric-encryption?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2017,13 +1985,13 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/asymmetric-encryption?u=76281980&t=150)** Was it generated and made from Bob?
 >
-> **[2:34](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/asymmetric-encryption?u=76281980&t=154)** In the 1970s, Phil Zimmermann introduced what we call the web of trust after developing an asymmetric algorithm called Pretty Good Privacy.
+> **[2:34](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/asymmetric-encryption?u=76281980&t=154)** In the 1970s, Phil Zimmermann introduced what we call the web of trust after developing an asymmetric algorithm called Pretty Good [[Privacy]].
 >
 > **[2:46](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/asymmetric-encryption?u=76281980&t=166)** The method is this.
 >
 > **[2:48](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/asymmetric-encryption?u=76281980&t=168)** Instead of trusting a trusted third party such Verisign to decide whether or not a public key can be trusted, we look to a trusted introducer.
 >
-> **[3:00](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/asymmetric-encryption?u=76281980&t=180)** For example, in an office, you generate your public and private keys.
+> **[3:00](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/asymmetric-encryption?u=76281980&t=180)** For example, in an [[Microsoft Office|office]], you generate your public and private keys.
 >
 > **[3:06](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/asymmetric-encryption?u=76281980&t=186)** Everyone in the office sends it to the manager.
 >
@@ -2037,17 +2005,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), [[Microsoft Office|Office]] (2), [[Security]] (1), cloud (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Privacy]] (1)
 > **Analogies:** for example (1), such as (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Diving into hash algorithms
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/diving-into-hash-algorithms?u=76281980)
+#### [Diving into hash algorithms](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/diving-into-hash-algorithms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/diving-into-hash-algorithms?u=76281980&t=0)** - [Educator] A hash function is a cryptographic technique that protects data integrity.
+> **[0:00](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/diving-into-hash-algorithms?u=76281980&t=0)** - [Educator] A hash function is a cryptographic technique that protects [[Data Integrity]].
 >
 > **[0:07](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/diving-into-hash-algorithms?u=76281980&t=7)** Now, what's the difference between a hash versus encryption?
 >
@@ -2063,7 +2030,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/diving-into-hash-algorithms?u=76281980&t=39)** Another is monitoring data integrity.
 >
-> **[0:43](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/diving-into-hash-algorithms?u=76281980&t=43)** We use hash functions to store passwords, and hash functions are used in blockchain technology.
+> **[0:43](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/diving-into-hash-algorithms?u=76281980&t=43)** We use hash functions to store passwords, and hash functions are used in [[Blockchain]] technology.
 >
 > **[0:53](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/diving-into-hash-algorithms?u=76281980&t=53)** In order to be a good hash, there are a number of different cryptographic requirements.
 >
@@ -2073,7 +2040,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/diving-into-hash-algorithms?u=76281980&t=71)** It also has to be easy to compute and not cumbersome, and it needs to have what's called strong collision resistance, meaning that you cannot generate the same hash from another block of data.
 >
-> **[1:26](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/diving-into-hash-algorithms?u=76281980&t=86)** Now, you'll hear of some other hash algorithms, but the Secure Hash Algorithm, also known as SHA, has been in existence for many years.
+> **[1:26](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/diving-into-hash-algorithms?u=76281980&t=86)** Now, you'll hear of some other hash [[Algorithms]], but the Secure Hash Algorithm, also known as SHA, has been in existence for many years.
 >
 > **[1:37](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/diving-into-hash-algorithms?u=76281980&t=97)** SHA-1 was designed by the National Security Agency, it's still in use but there are improved algorithms, so more likely, you'll be seeing SHA-2 and SHA-3.
 >
@@ -2103,7 +2070,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/diving-into-hash-algorithms?u=76281980&t=194)** If they are the same, then we know that there has been no modification of the data in transit.
 >
-> **[3:22](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/diving-into-hash-algorithms?u=76281980&t=202)** Now, I'll take you out to [nist.gov](https://nist.gov) which will tell you a little bit about some of the hash algorithms and what is considered approved algorithms today.
+> **[3:22](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/diving-into-hash-algorithms?u=76281980&t=202)** Now, I'll take you out to [[[NIST]].gov](https://nist.gov) which will tell you a little bit about some of the hash algorithms and what is considered approved algorithms today.
 >
 > **[3:32](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/diving-into-hash-algorithms?u=76281980&t=212)** Now, as you can see that we have SHA-1 and SHA-2, but there's also a lot more research going on into SHA-3, which as you can see permutation based functions based on Keccak.
 >
@@ -2125,7 +2092,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Algorithms]] (6), [[NIST]] (4), [[Blockchain]] (3), [[Security]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (6), [[NIST]] (4), [[Data Integrity]] (3), [[Blockchain]] (3)
 > **Env Vars:** sha (12), nist (2)
 > **Definitions:** is a  (2), known as (1), is called (1)
 > **URLs:** [nist.gov](https://nist.gov) (2)
@@ -2133,8 +2100,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [educator] (1)
 
-#### Public Key Infrastructure
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/public-key-infrastructure?u=76281980)
+#### [Public Key Infrastructure](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/public-key-infrastructure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2180,7 +2146,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/public-key-infrastructure?u=76281980&t=167)** Now, let's take a look how it looks if you were to go in a browser.
 >
-> **[2:52](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/public-key-infrastructure?u=76281980&t=172)** I'm in Mozilla at [google.com](https://google.com).
+> **[2:52](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/public-key-infrastructure?u=76281980&t=172)** I'm in Mozilla at [[[Google]].com](https://google.com).
 >
 > **[2:56](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/public-key-infrastructure?u=76281980&t=176)** I can see the HTTPS, which represents [google.com](https://google.com) and a secure connection.
 >
@@ -2192,7 +2158,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Google]] (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Google]] (2)
 > **URLs:** [google.com](https://google.com) (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** https (1)
@@ -2203,14 +2169,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/next-steps?u=76281980&t=0)** - [Lisa] Thank you for watching IT Security Foundations: Operating Systems Security.
 >
-> **[0:07](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/next-steps?u=76281980&t=7)** In this course we discussed methods to secure a Windows operating system followed by an overview of best practices to secure a Mac OS and a Linux machine.
+> **[0:07](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/next-steps?u=76281980&t=7)** In this course we discussed methods to secure a [[Windows]] operating system followed by an overview of best practices to secure a Mac OS and a [[Linux]] machine.
 >
 > **[0:18](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/next-steps?u=76281980&t=18)** We then reviewed ways to provide user authentication using passwords, biometrics, and multifactor authentication.
 >
@@ -2224,7 +2189,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/next-steps?u=76281980&t=50)** If you're interested in learning about core security concepts, such as social engineering, malware, and spyware, please check out my course, [[IT Security Foundations- Core Concepts]].
 >
-> **[1:03](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/next-steps?u=76281980&t=63)** If you want to learn more about the billions of devices designed to improve the quality of life in homes and businesses, please check out my course, Securing the IoT: Introduction.
+> **[1:03](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/next-steps?u=76281980&t=63)** If you want to learn more about the billions of devices designed to improve the quality of life in homes and businesses, please check out my course, Securing the [[IoT]]: Introduction.
 >
 > **[1:14](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/next-steps?u=76281980&t=74)** For a complete list of courses, visit my author page.
 >
@@ -2232,7 +2197,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), [[Windows]] (1), [[Linux]] (1), [[Engineering]] (1), [[IoT]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Linux]] (1), [[IoT]] (1)
 > **Analogies:** such as (2)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - [lisa] (1)

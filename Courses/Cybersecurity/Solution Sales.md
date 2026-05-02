@@ -75,8 +75,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting started with solution sales
-> [LinkedIn Learning](https://www.linkedin.com/learning/solution-sales/getting-started-with-solution-sales?u=76281980)
+#### [Getting started with solution sales](https://www.linkedin.com/learning/solution-sales/getting-started-with-solution-sales?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -94,9 +93,9 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/solution-sales/getting-started-with-solution-sales?u=76281980&t=39)** I was interested in offering clients solutions.
 >
-> **[0:43](https://www.linkedin.com/learning/solution-sales/getting-started-with-solution-sales?u=76281980&t=43)** Solution selling is built on the assumption that whenever someone buys a product or a service, they make that purchase for a reason.
+> **[0:43](https://www.linkedin.com/learning/solution-sales/getting-started-with-solution-sales?u=76281980&t=43)** [[Solution Selling]] is built on the assumption that whenever someone buys a product or a service, they make that purchase for a reason.
 >
-> **[0:51](https://www.linkedin.com/learning/solution-sales/getting-started-with-solution-sales?u=76281980&t=51)** It's not about your products or services.
+> **[0:51](https://www.linkedin.com/learning/solution-sales/getting-started-with-solution-sales?u=76281980&t=51)** It's not about your [[Microsoft Products|products]] or services.
 >
 > **[0:53](https://www.linkedin.com/learning/solution-sales/getting-started-with-solution-sales?u=76281980&t=53)** They're trying to improve a condition of some kind.
 >
@@ -120,7 +119,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Solution Selling]] (2), business (1), data (1), product (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Solution Selling]] (2), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - i (1)
 
@@ -129,8 +128,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The solution sales mindset
-> [LinkedIn Learning](https://www.linkedin.com/learning/solution-sales/the-solution-sales-mindset-8976128?u=76281980)
+#### [The solution sales mindset](https://www.linkedin.com/learning/solution-sales/the-solution-sales-mindset-8976128?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -144,13 +142,13 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/solution-sales/the-solution-sales-mindset-8976128?u=76281980&t=28)** The ratio of talking sometimes measures as much as 24:1 in favor of the seller.
 >
-> **[0:35](https://www.linkedin.com/learning/solution-sales/the-solution-sales-mindset-8976128?u=76281980&t=35)** Now, yes, it's an artificial simulation but it tells us something important about the way we think selling happens, and it's this.
+> **[0:35](https://www.linkedin.com/learning/solution-sales/the-solution-sales-mindset-8976128?u=76281980&t=35)** Now, yes, it's an artificial [[Simulation]] but it tells us something important about the way we think selling happens, and it's this.
 >
 > **[0:43](https://www.linkedin.com/learning/solution-sales/the-solution-sales-mindset-8976128?u=76281980&t=43)** In order to persuade someone to buy from you, you've got to tell them anything and everything you can about how great your product or service is.
 >
 > **[0:52](https://www.linkedin.com/learning/solution-sales/the-solution-sales-mindset-8976128?u=76281980&t=52)** And if you buy that mindset, people quickly associate you with the fast talking slick sales person they dislike, nobody in their right mind wants that.
 >
-> **[1:02](https://www.linkedin.com/learning/solution-sales/the-solution-sales-mindset-8976128?u=76281980&t=62)** So let me share with you, the mindset that's required if you want to succeed in solution selling.
+> **[1:02](https://www.linkedin.com/learning/solution-sales/the-solution-sales-mindset-8976128?u=76281980&t=62)** So let me share with you, the mindset that's required if you want to succeed in [[Solution Selling]].
 >
 > **[1:08](https://www.linkedin.com/learning/solution-sales/the-solution-sales-mindset-8976128?u=76281980&t=68)** And I say mindset on purpose because a mindset is the attitude or beliefs we have about something.
 >
@@ -172,7 +170,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/solution-sales/the-solution-sales-mindset-8976128?u=76281980&t=121)** And second, you must recognize you provide the value.
 >
-> **[2:05](https://www.linkedin.com/learning/solution-sales/the-solution-sales-mindset-8976128?u=76281980&t=125)** Your company products and services may be great but they aren't solutions yet.
+> **[2:05](https://www.linkedin.com/learning/solution-sales/the-solution-sales-mindset-8976128?u=76281980&t=125)** Your company [[Microsoft Products|products]] and services may be great but they aren't solutions yet.
 >
 > **[2:11](https://www.linkedin.com/learning/solution-sales/the-solution-sales-mindset-8976128?u=76281980&t=131)** They only become solutions when clients use them to improve their circumstances.
 >
@@ -204,20 +202,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), product (2), [[Simulation]] (1), [[Solution Selling]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Simulation]] (1), [[Solution Selling]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - i (1)
 
-#### Peer-level relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/solution-sales/peer-level-relationships-8974563?u=76281980)
+#### [Peer-level relationships](https://www.linkedin.com/learning/solution-sales/peer-level-relationships-8974563?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/solution-sales/peer-level-relationships-8974563?u=76281980&t=1)** - In solution selling, your relationship with the buyer is the most important thing.
+> **[0:01](https://www.linkedin.com/learning/solution-sales/peer-level-relationships-8974563?u=76281980&t=1)** - In [[Solution Selling]], your relationship with the buyer is the most important thing.
 >
 > **[0:06](https://www.linkedin.com/learning/solution-sales/peer-level-relationships-8974563?u=76281980&t=6)** But what does a strong relationship look like?
 >
-> **[0:08](https://www.linkedin.com/learning/solution-sales/peer-level-relationships-8974563?u=76281980&t=8)** For many it's easy to associate relationship building with friendship activities, being collegial, playing golf, going to lunch.
+> **[0:08](https://www.linkedin.com/learning/solution-sales/peer-level-relationships-8974563?u=76281980&t=8)** For many it's easy to associate [[Relationship Building]] with friendship activities, being collegial, playing golf, going to lunch.
 >
 > **[0:16](https://www.linkedin.com/learning/solution-sales/peer-level-relationships-8974563?u=76281980&t=16)** And none of that is negative at all.
 >
@@ -291,13 +288,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), power (2), [[Solution Selling]] (1), [[Relationship Building]] (1)
+> **Frameworks & Libraries:** [[Solution Selling]] (1), [[Relationship Building]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** ceo (1)
 > **Speakers:** - in (1)
 
-#### Have a conversation
-> [LinkedIn Learning](https://www.linkedin.com/learning/solution-sales/have-a-conversation-8970911?u=76281980)
+#### [Have a conversation](https://www.linkedin.com/learning/solution-sales/have-a-conversation-8970911?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -353,7 +349,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/solution-sales/have-a-conversation-8970911?u=76281980&t=178)** These are the same conversational tools you'd use when you work with one of your colleagues to explore an issue or solve a problem.
 >
-> **[3:06](https://www.linkedin.com/learning/solution-sales/have-a-conversation-8970911?u=76281980&t=186)** Remember, solution selling works when you have a peer level relationship with your client.
+> **[3:06](https://www.linkedin.com/learning/solution-sales/have-a-conversation-8970911?u=76281980&t=186)** Remember, [[Solution Selling]] works when you have a peer level relationship with your client.
 >
 > **[3:12](https://www.linkedin.com/learning/solution-sales/have-a-conversation-8970911?u=76281980&t=192)** The best sellers engage clients and prospects in mutual conversations and they think of their sales calls as a conversation not a picture or performance and not a list of questions to get answered.
 >
@@ -361,7 +357,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), next (1), [[Solution Selling]] (1)
+> **Frameworks & Libraries:** [[Solution Selling]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** picture (1)
 > **Speakers:** - in (1)
@@ -371,8 +367,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Qualify who is buying the solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/solution-sales/qualify-who-is-buying-the-solution-8970910?u=76281980)
+#### [Qualify who is buying the solution](https://www.linkedin.com/learning/solution-sales/qualify-who-is-buying-the-solution-8970910?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -418,7 +413,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/solution-sales/qualify-who-is-buying-the-solution-8970910?u=76281980&t=101)** One, you'll learn that the person you're talking with is the buyer.
 >
-> **[1:44](https://www.linkedin.com/learning/solution-sales/qualify-who-is-buying-the-solution-8970910?u=76281980&t=104)** If so, congratulations, this buyer qualifies as a legitimate prospect because they have decision-making authority.
+> **[1:44](https://www.linkedin.com/learning/solution-sales/qualify-who-is-buying-the-solution-8970910?u=76281980&t=104)** If so, congratulations, this buyer qualifies as a legitimate prospect because they have [[Decision-Making]] authority.
 >
 > **[1:52](https://www.linkedin.com/learning/solution-sales/qualify-who-is-buying-the-solution-8970910?u=76281980&t=112)** Two, your prospect tells you who the buyer is.
 >
@@ -456,13 +451,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1)
 > **CLI Commands:** make (4), find (2)
 > **Analogies:** for example (1)
 > **Speakers:** - if (1)
 
-#### Qualify potential and fit
-> [LinkedIn Learning](https://www.linkedin.com/learning/solution-sales/qualify-potential-and-fit-8977038?u=76281980)
+#### [Qualify potential and fit](https://www.linkedin.com/learning/solution-sales/qualify-potential-and-fit-8977038?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -512,12 +506,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), product (1)
 > **CLI Commands:** make (3), find (1)
 > **Speakers:** - it (1)
 
-#### Qualify the decision process and funding
-> [LinkedIn Learning](https://www.linkedin.com/learning/solution-sales/qualify-the-decision-process-and-funding-8970909?u=76281980)
+#### [Qualify the decision process and funding](https://www.linkedin.com/learning/solution-sales/qualify-the-decision-process-and-funding-8970909?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -593,7 +585,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - one (1)
@@ -603,8 +594,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Take the lead
-> [LinkedIn Learning](https://www.linkedin.com/learning/solution-sales/take-the-lead-8972691?u=76281980)
+#### [Take the lead](https://www.linkedin.com/learning/solution-sales/take-the-lead-8972691?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -612,7 +602,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/solution-sales/take-the-lead-8972691?u=76281980&t=5)** The same is true for sales calls.
 >
-> **[0:07](https://www.linkedin.com/learning/solution-sales/take-the-lead-8972691?u=76281980&t=7)** In the solution selling process, it's your job to orient the client's expectations for each sales call.
+> **[0:07](https://www.linkedin.com/learning/solution-sales/take-the-lead-8972691?u=76281980&t=7)** In the [[Solution Selling]] process, it's your job to orient the client's expectations for each sales call.
 >
 > **[0:13](https://www.linkedin.com/learning/solution-sales/take-the-lead-8972691?u=76281980&t=13)** You can take a leadership role in the meeting by offering a simple and short agenda to guide the discussion.
 >
@@ -660,13 +650,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (2), [[Solution Selling]] (1)
+> **Frameworks & Libraries:** [[Solution Selling]] (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** open the (1)
 > **Speakers:** - all (1)
 
-#### Create value
-> [LinkedIn Learning](https://www.linkedin.com/learning/solution-sales/create-value-8977037?u=76281980)
+#### [Create value](https://www.linkedin.com/learning/solution-sales/create-value-8977037?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -680,9 +669,9 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/solution-sales/create-value-8977037?u=76281980&t=24)** And if we talk about value using the simple economics 101 definition, value equals benefits minus cost.
 >
-> **[0:32](https://www.linkedin.com/learning/solution-sales/create-value-8977037?u=76281980&t=32)** Now, if you follow the logic of that equation, the benefit you bring to your client must go beyond just the value of your products and services.
+> **[0:32](https://www.linkedin.com/learning/solution-sales/create-value-8977037?u=76281980&t=32)** Now, if you follow the logic of that equation, the benefit you bring to your client must go beyond just the value of your [[Microsoft Products|products]] and services.
 >
-> **[0:41](https://www.linkedin.com/learning/solution-sales/create-value-8977037?u=76281980&t=41)** Solution selling hinges on you bringing something to the sales process that is valuable to your customer, namely your expertise and insights.
+> **[0:41](https://www.linkedin.com/learning/solution-sales/create-value-8977037?u=76281980&t=41)** [[Solution Selling]] hinges on you bringing something to the sales process that is valuable to your customer, namely your expertise and insights.
 >
 > **[0:52](https://www.linkedin.com/learning/solution-sales/create-value-8977037?u=76281980&t=52)** My former boss used to ask a simple question.
 >
@@ -730,13 +719,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), business (2), next (1), [[Solution Selling]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Solution Selling]] (1)
 > **Prerequisites:** setup (1), configure (1)
 > **Analogies:** for example (1)
 > **Speakers:** - when (1)
 
-#### Find out the client's need
-> [LinkedIn Learning](https://www.linkedin.com/learning/solution-sales/find-out-the-client-s-need-8974564?u=76281980)
+#### [Find out the client's need](https://www.linkedin.com/learning/solution-sales/find-out-the-client-s-need-8974564?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -748,7 +736,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/solution-sales/find-out-the-client-s-need-8974564?u=76281980&t=18)** Instead, those buyers felt like the meeting was about their goals and objectives, and they were no doubt being sold to though.
 >
-> **[0:25](https://www.linkedin.com/learning/solution-sales/find-out-the-client-s-need-8974564?u=76281980&t=25)** And that's the beauty of solution selling.
+> **[0:25](https://www.linkedin.com/learning/solution-sales/find-out-the-client-s-need-8974564?u=76281980&t=25)** And that's the beauty of [[Solution Selling]].
 >
 > **[0:27](https://www.linkedin.com/learning/solution-sales/find-out-the-client-s-need-8974564?u=76281980&t=27)** It has an entirely different tone.
 >
@@ -760,7 +748,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/solution-sales/find-out-the-client-s-need-8974564?u=76281980&t=39)** And if I come to you and say, "I'm burnt out at work and I need to chill out and relax, where can you send me?"
 >
-> **[0:44](https://www.linkedin.com/learning/solution-sales/find-out-the-client-s-need-8974564?u=76281980&t=44)** Odds are you'll make suggestions like a resort, or a beach, or maybe the mountains, all good places to unplug and rest, but I can't stand lying by the pool.
+> **[0:44](https://www.linkedin.com/learning/solution-sales/find-out-the-client-s-need-8974564?u=76281980&t=44)** Odds are you'll make suggestions like a resort, or a beach, or maybe the mountains, all good places to unplug and [[Representational State Transfer (REST)|rest]], but I can't stand lying by the pool.
 >
 > **[0:53](https://www.linkedin.com/learning/solution-sales/find-out-the-client-s-need-8974564?u=76281980&t=53)** I get bored and anxious.
 >
@@ -812,16 +800,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Solution Selling]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Solution Selling]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Speakers:** - the (1)
 
-#### Identify opportunities and problems
-> [LinkedIn Learning](https://www.linkedin.com/learning/solution-sales/identify-opportunities-and-problems-8976129?u=76281980)
+#### [Identify opportunities and problems](https://www.linkedin.com/learning/solution-sales/identify-opportunities-and-problems-8976129?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/solution-sales/identify-opportunities-and-problems-8976129?u=76281980&t=1)** - A successful solution sale, goes beyond just addressing a client's needs with your products and services.
+> **[0:01](https://www.linkedin.com/learning/solution-sales/identify-opportunities-and-problems-8976129?u=76281980&t=1)** - A successful solution sale, goes beyond just addressing a client's needs with your [[Microsoft Products|products]] and services.
 >
 > **[0:06](https://www.linkedin.com/learning/solution-sales/identify-opportunities-and-problems-8976129?u=76281980&t=6)** That's easy.
 >
@@ -899,16 +886,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Analogies:** picture (1), for instance (1)
 > **Speakers:** - a (1)
 
-#### Understand impact and effect
-> [LinkedIn Learning](https://www.linkedin.com/learning/solution-sales/understand-impact-and-effect-8971837?u=76281980)
+#### [Understand impact and effect](https://www.linkedin.com/learning/solution-sales/understand-impact-and-effect-8971837?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/solution-sales/understand-impact-and-effect-8971837?u=76281980&t=1)** - Once you've discovered opportunities and issues with your client, you'll be tempted to talk about how you can help them with your products and services and let them know you have the solution to their problems.
+> **[0:01](https://www.linkedin.com/learning/solution-sales/understand-impact-and-effect-8971837?u=76281980&t=1)** - Once you've discovered opportunities and issues with your client, you'll be tempted to talk about how you can help them with your [[Microsoft Products|products]] and services and let them know you have the solution to their problems.
 >
 > **[0:10](https://www.linkedin.com/learning/solution-sales/understand-impact-and-effect-8971837?u=76281980&t=10)** But let me encourage you, resist the urge.
 >
@@ -978,7 +964,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), [[Microsoft Products|Products]] (1), power (1), [[Engineering]] (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** rfp (1)
 > **Analogies:** imagine (1)
@@ -986,8 +972,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - once (1)
 
-#### Interactive skills for leading the conversation
-> [LinkedIn Learning](https://www.linkedin.com/learning/solution-sales/interactive-skills-for-leading-the-conversation-8976130?u=76281980)
+#### [Interactive skills for leading the conversation](https://www.linkedin.com/learning/solution-sales/interactive-skills-for-leading-the-conversation-8976130?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1055,8 +1040,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Determine progress and value
-> [LinkedIn Learning](https://www.linkedin.com/learning/solution-sales/determine-progress-and-value-8973631?u=76281980)
+#### [Determine progress and value](https://www.linkedin.com/learning/solution-sales/determine-progress-and-value-8973631?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1120,21 +1104,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), next (1), product (1)
 > **Env Vars:** cfo (1), roi (1)
 > **Versions:** 1.2 (1)
 > **Analogies:** such as (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - a (1)
 
-#### How to offer solutions
-> [LinkedIn Learning](https://www.linkedin.com/learning/solution-sales/how-to-offer-solutions-8972687?u=76281980)
+#### [How to offer solutions](https://www.linkedin.com/learning/solution-sales/how-to-offer-solutions-8972687?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/solution-sales/how-to-offer-solutions-8972687?u=76281980&t=1)** - Once you've successfully identified a client's needs and objectives, you have a chance to provide them with a solution.
 >
-> **[0:07](https://www.linkedin.com/learning/solution-sales/how-to-offer-solutions-8972687?u=76281980&t=7)** And while there are dozens of features, advantages, and benefits that you could share with them about your products to support the solution, there are only a few that will really matter to your client, and that's all they really want to hear about.
+> **[0:07](https://www.linkedin.com/learning/solution-sales/how-to-offer-solutions-8972687?u=76281980&t=7)** And while there are dozens of features, advantages, and benefits that you could share with them about your [[Microsoft Products|products]] to support the solution, there are only a few that will really matter to your client, and that's all they really want to hear about.
 >
 > **[0:20](https://www.linkedin.com/learning/solution-sales/how-to-offer-solutions-8972687?u=76281980&t=20)** Think of the client's needs as a filter.
 >
@@ -1150,7 +1132,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/solution-sales/how-to-offer-solutions-8972687?u=76281980&t=52)** It really is that simple, but it's harder than it sounds, because there are so many great details you can share with them.
 >
-> **[0:59](https://www.linkedin.com/learning/solution-sales/how-to-offer-solutions-8972687?u=76281980&t=59)** A leader buying recruiting services may not want to know that you have a team of 23 people sourcing candidates online and interviewing them, but they may be interested in your ability to provide them with three qualified and vetted candidates within two weeks.
+> **[0:59](https://www.linkedin.com/learning/solution-sales/how-to-offer-solutions-8972687?u=76281980&t=59)** A leader buying recruiting services may not want to know that you have a team of 23 people sourcing candidates online and [[Interviewing]] them, but they may be interested in your ability to provide them with three qualified and vetted candidates within two weeks.
 >
 > **[1:13](https://www.linkedin.com/learning/solution-sales/how-to-offer-solutions-8972687?u=76281980&t=73)** A CFO buying accounting or assurance services probably doesn't care so much that the firm has offices in Tokyo and Madrid, and associates around the world, but they probably care a lot about having a dedicated team with the expertise to manage a global engagement, even if they do it remotely.
 >
@@ -1164,13 +1146,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), product (1), [[Interviewing]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Interviewing]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** cfo (1)
 > **Speakers:** - once (1)
 
-#### How to address concerns
-> [LinkedIn Learning](https://www.linkedin.com/learning/solution-sales/how-to-address-concerns-8971836?u=76281980)
+#### [How to address concerns](https://www.linkedin.com/learning/solution-sales/how-to-address-concerns-8971836?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1238,18 +1219,17 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/solution-sales/how-to-address-concerns-8971836?u=76281980&t=160)** There are other strengths and advantages that you have, so acknowledge whatever is imperfect and keep moving forward.
 >
-> **[2:48](https://www.linkedin.com/learning/solution-sales/how-to-address-concerns-8971836?u=76281980&t=168)** Effectively resolving customer concerns is aligned with the solution selling mindset.
+> **[2:48](https://www.linkedin.com/learning/solution-sales/how-to-address-concerns-8971836?u=76281980&t=168)** Effectively resolving customer concerns is aligned with the [[Solution Selling]] mindset.
 >
 > **[2:53](https://www.linkedin.com/learning/solution-sales/how-to-address-concerns-8971836?u=76281980&t=173)** Maintain a focus on understanding the client's circumstances that are driving the concern, and you'll win more than your fair share of business.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), business (2), data (1), strengths (1), [[Solution Selling]] (1)
+> **Frameworks & Libraries:** [[Solution Selling]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - if (1)
 
-#### Move forward with joint commitments
-> [LinkedIn Learning](https://www.linkedin.com/learning/solution-sales/move-forward-with-joint-commitments-8972688?u=76281980)
+#### [Move forward with joint commitments](https://www.linkedin.com/learning/solution-sales/move-forward-with-joint-commitments-8972688?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1323,7 +1303,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5)
 > **Definitions:** is a  (2)
 > **Env Vars:** abc (1)
 > **Speakers:** - we (1)
@@ -1333,14 +1312,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Plan for success
-> [LinkedIn Learning](https://www.linkedin.com/learning/solution-sales/plan-for-success-8975144?u=76281980)
+#### [Plan for success](https://www.linkedin.com/learning/solution-sales/plan-for-success-8975144?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/solution-sales/plan-for-success-8975144?u=76281980&t=1)** - It's rare that even the most talented professionals in any field simply show up for work and completely wing it.
 >
-> **[0:08](https://www.linkedin.com/learning/solution-sales/plan-for-success-8975144?u=76281980&t=8)** Success in solution selling doesn't happen because of personality traits or simply increasing volume of activity.
+> **[0:08](https://www.linkedin.com/learning/solution-sales/plan-for-success-8975144?u=76281980&t=8)** Success in [[Solution Selling]] doesn't happen because of personality traits or simply increasing volume of activity.
 >
 > **[0:15](https://www.linkedin.com/learning/solution-sales/plan-for-success-8975144?u=76281980&t=15)** Those things may help, but they aren't sufficient by themselves.
 >
@@ -1386,7 +1364,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Solution Selling]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Solution Selling]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1398,8 +1376,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Practice
-> [LinkedIn Learning](https://www.linkedin.com/learning/solution-sales/practice-8976131?u=76281980)
+#### [Practice](https://www.linkedin.com/learning/solution-sales/practice-8976131?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1417,7 +1394,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/solution-sales/practice-8976131?u=76281980&t=22)** This can be your manager, a colleague, or trusted peer, doesn't matter.
 >
-> **[0:26](https://www.linkedin.com/learning/solution-sales/practice-8976131?u=76281980&t=26)** What's important is that they understand the context of your sale and the solution selling approach.
+> **[0:26](https://www.linkedin.com/learning/solution-sales/practice-8976131?u=76281980&t=26)** What's important is that they understand the context of your sale and the [[Solution Selling]] approach.
 >
 > **[0:32](https://www.linkedin.com/learning/solution-sales/practice-8976131?u=76281980&t=32)** Then, share the details about the prospect or client situation you want to simulate.
 >
@@ -1459,13 +1436,13 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/solution-sales/practice-8976131?u=76281980&t=113)** Lastly, I'd love to know what you thought of this course.
 >
-> **[1:56](https://www.linkedin.com/learning/solution-sales/practice-8976131?u=76281980&t=116)** I invite you to share your feedback and connect with me on LinkedIn.
+> **[1:56](https://www.linkedin.com/learning/solution-sales/practice-8976131?u=76281980&t=116)** I invite you to share your feedback and connect with me on [[LinkedIn]].
 >
 > **[2:00](https://www.linkedin.com/learning/solution-sales/practice-8976131?u=76281980&t=120)** I wish you the best and good selling.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Solution Selling]] (1), next (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Solution Selling]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (1), is an  (1)
 > **URLs:** [edingerconsulting.com](https://edingerconsulting.com) (1)

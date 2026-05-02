@@ -93,22 +93,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Gain valuable insights using Tableau and R
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/gain-valuable-insights-using-tableau-and-r?u=76281980)
+#### [Gain valuable insights using Tableau and R](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/gain-valuable-insights-using-tableau-and-r?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/gain-valuable-insights-using-tableau-and-r?u=76281980&t=0)** - [Curt] Tableau is a versatile tool for visualizing data within your business or organization.
+> **[0:00](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/gain-valuable-insights-using-tableau-and-r?u=76281980&t=0)** - [Curt] [[Tableau]] is a versatile tool for visualizing data within your business or organization.
 >
 > **[0:05](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/gain-valuable-insights-using-tableau-and-r?u=76281980&t=5)** Adding the power of the R analysis language makes Tableau even better.
 >
 > **[0:10](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/gain-valuable-insights-using-tableau-and-r?u=76281980&t=10)** In this course, I'll use real-world examples to demonstrate how you can apply the incredible power of Tableau and R to your data.
 >
-> **[0:18](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/gain-valuable-insights-using-tableau-and-r?u=76281980&t=18)** I'm Curt Frye. Join me at LinkedIn Learning for an introduction to the essential skills that will let you unlock the power and flexibility that comes when you combine Tableau and R.
+> **[0:18](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/gain-valuable-insights-using-tableau-and-r?u=76281980&t=18)** I'm Curt Frye. Join me at [[LinkedIn]] Learning for an introduction to the essential skills that will let you unlock the power and flexibility that comes when you combine Tableau and R.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (4), power (3), data (2), business (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (4), [[LinkedIn]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [curt] (1)
 
@@ -117,12 +116,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Compare the strengths of Tableau and R
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/compare-the-strengths-of-tableau-and-r?u=76281980)
+#### [Compare the strengths of Tableau and R](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/compare-the-strengths-of-tableau-and-r?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/compare-the-strengths-of-tableau-and-r?u=76281980&t=0)** - [Instructor] Tableau is one of the best data visualization software packages around, while R is a powerful command line-driven analytical language.
+> **[0:00](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/compare-the-strengths-of-tableau-and-r?u=76281980&t=0)** - [Instructor] [[Tableau]] is one of the best data visualization software packages around, while R is a powerful command line-driven analytical language.
 >
 > **[0:09](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/compare-the-strengths-of-tableau-and-r?u=76281980&t=9)** The two environments have more in common than you would think, but their strengths lie in two different areas.
 >
@@ -162,20 +160,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Tableau]] (4), strengths (1)
+> **Frameworks & Libraries:** [[Tableau]] (4)
 > **Tools:** command line (1)
 > **UI Navigation:** switch to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### How Tableau and R can work together
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/how-tableau-and-r-can-work-together?u=76281980)
+#### [How Tableau and R can work together](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/how-tableau-and-r-can-work-together?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/how-tableau-and-r-can-work-together?u=76281980&t=0)** - [Instructor] Tableau and R seem to represent two ends of the data analysis spectrum.
+> **[0:00](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/how-tableau-and-r-can-work-together?u=76281980&t=0)** - [Instructor] [[Tableau]] and R seem to represent two ends of the data analysis spectrum.
 >
-> **[0:05](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/how-tableau-and-r-can-work-together?u=76281980&t=5)** Tableau is a user-friendly data visualization program, while R is a data processing language you mainly access through the command line.
+> **[0:05](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/how-tableau-and-r-can-work-together?u=76281980&t=5)** Tableau is a user-friendly data visualization program, while R is a [[Data Processing]] language you mainly access through the command line.
 >
 > **[0:14](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/how-tableau-and-r-can-work-together?u=76281980&t=14)** These differences are significant, but they make the combination of the two environments much stronger than either one by itself.
 >
@@ -219,7 +216,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/how-tableau-and-r-can-work-together?u=76281980&t=121)** And then the commands tell Tableau and R as a response which CRAN package to use, where the training data should be drawn from, how it should be analyzed using which model.
 >
-> **[2:16](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/how-tableau-and-r-can-work-together?u=76281980&t=136)** And then, because this is a supervised learning algorithm, we need to test it against values with known results.
+> **[2:16](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/how-tableau-and-r-can-work-together?u=76281980&t=136)** And then, because this is a [[Supervised Learning]] algorithm, we need to test it against values with known results.
 >
 > **[2:24](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/how-tableau-and-r-can-work-together?u=76281980&t=144)** So actually what we're doing is we are taking two years of data and then trying to predict the next year.
 >
@@ -253,7 +250,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Tableau]] (6), next (3), [[Supervised Learning]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (6), [[Data Processing]] (1), [[Supervised Learning]] (1)
 > **Definitions:** is a  (4), means that (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** cran (1)
@@ -262,20 +259,19 @@ created: 2026-05-02
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 
-#### Install R on a computer
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/install-r-on-a-computer?u=76281980)
+#### [Install R on a computer](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/install-r-on-a-computer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/install-r-on-a-computer?u=76281980&t=0)** - [Instructor] R, the analytical language we will integrate with Tableau in this course, is an open-source software package you can use for free.
+> **[0:00](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/install-r-on-a-computer?u=76281980&t=0)** - [Instructor] R, the analytical language we will integrate with [[Tableau]] in this course, is an [[Open-Source Software]] package you can use for free.
 >
 > **[0:09](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/install-r-on-a-computer?u=76281980&t=9)** All you need to do is download it onto your computer and install it.
 >
-> **[0:13](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/install-r-on-a-computer?u=76281980&t=13)** In this movie, I will show you where to find the R distribution for Windows, and install it on my computer.
+> **[0:13](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/install-r-on-a-computer?u=76281980&t=13)** In this movie, I will show you where to find the R distribution for [[Windows]], and install it on my computer.
 >
 > **[0:21](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/install-r-on-a-computer?u=76281980&t=21)** I have opened the webpage at CRAN, cran.[r-project.org](https://r-project.org).
 >
-> **[0:29](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/install-r-on-a-computer?u=76281980&t=29)** From here, you can download R for Windows, macOS, and various flavors of Linux.
+> **[0:29](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/install-r-on-a-computer?u=76281980&t=29)** From here, you can download R for Windows, macOS, and various flavors of [[Linux]].
 >
 > **[0:37](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/install-r-on-a-computer?u=76281980&t=37)** As the note on the page indicates, oftentimes, R is included in a Linux distribution, so you might not need to install it at all, it would already be there.
 >
@@ -341,7 +337,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (6), next (6), [[Linux]] (2), [[Tableau]] (1), open-source (1)
+> **Frameworks & Libraries:** [[Windows]] (6), [[Linux]] (2), [[Tableau]] (1), [[Open-Source Software]] (1)
 > **Prerequisites:** install (6), setup (1)
 > **Versions:** 4.5.1 (3)
 > **CLI Commands:** find (1), make (1)
@@ -350,12 +346,11 @@ created: 2026-05-02
 > **Env Vars:** cran (1)
 > **Definitions:** is an  (1)
 
-#### Download and install CRAN packages in R
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/download-and-install-cran-packages-in-r?u=76281980)
+#### [Download and install CRAN packages in R](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/download-and-install-cran-packages-in-r?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/download-and-install-cran-packages-in-r?u=76281980&t=0)** - [Narrator] The basic R package that you install on your computer comes with a lot of built-in algorithms for data analysis, but there are literally thousands of other packages that you can download to extend those capabilities.
+> **[0:00](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/download-and-install-cran-packages-in-r?u=76281980&t=0)** - [Narrator] The basic R package that you install on your computer comes with a lot of built-in [[Algorithms]] for data analysis, but there are literally thousands of other packages that you can download to extend those capabilities.
 >
 > **[0:13](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/download-and-install-cran-packages-in-r?u=76281980&t=13)** In this movie, I will show you how to download a package and add it to your R Library.
 >
@@ -391,7 +386,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (1), data (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **UI Navigation:** go to (1), scroll down (1)
 > **Warnings:** warning (2)
 > **Prerequisites:** install (2)
@@ -399,12 +394,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Run RServe and establish a connection to Tableau
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/run-rserve-and-establish-a-connection-to-tableau?u=76281980)
+#### [Run RServe and establish a connection to Tableau](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/run-rserve-and-establish-a-connection-to-tableau?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/run-rserve-and-establish-a-connection-to-tableau?u=76281980&t=0)** - [Instructor] In this course, we will use R in combination with Tableau, the data visualization program.
+> **[0:00](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/run-rserve-and-establish-a-connection-to-tableau?u=76281980&t=0)** - [Instructor] In this course, we will use R in combination with [[Tableau]], the data visualization program.
 >
 > **[0:08](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/run-rserve-and-establish-a-connection-to-tableau?u=76281980&t=8)** Installing R isn't enough for you to use it in combination with Tableau however.
 >
@@ -476,7 +470,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (7), [[Analytics]] (2), data (1)
+> **Frameworks & Libraries:** [[Tableau]] (7)
 > **Prerequisites:** install (3)
 > **Env Vars:** gui (1), usa (1)
 > **UI Navigation:** scroll down (1), open the (1)
@@ -489,12 +483,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Import data into R
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/import-data-into-r?u=76281980)
+#### [Import data into R](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/import-data-into-r?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/import-data-into-r?u=76281980&t=0)** - [Instructor] We will do a lot of our analysis in this course using Tableau, but it's also worth knowing how to import data into R by itself.
+> **[0:00](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/import-data-into-r?u=76281980&t=0)** - [Instructor] We will do a lot of our analysis in this course using [[Tableau]], but it's also worth knowing how to import data into R by itself.
 >
 > **[0:09](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/import-data-into-r?u=76281980&t=9)** So in this movie, I will demonstrate the most fundamental R skill, importing data into a data frame.
 >
@@ -514,7 +507,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/import-data-into-r?u=76281980&t=67)** And now we need to get the address to the file.
 >
-> **[1:10](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/import-data-into-r?u=76281980&t=70)** I'm working on a Windows system, so the method that I show you will work in Windows.
+> **[1:10](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/import-data-into-r?u=76281980&t=70)** I'm working on a [[Windows]] system, so the method that I show you will work in Windows.
 >
 > **[1:15](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/import-data-into-r?u=76281980&t=75)** So I'll press alt tab to move to the File Explorer.
 >
@@ -582,7 +575,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Windows]] (2), [[Tableau]] (1), next (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Tableau]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** dim (2), sep (1)
 > **Definitions:** is a  (2), means that (1)
@@ -590,8 +583,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create calculations in R
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/create-calculations-in-r?u=76281980)
+#### [Create calculations in R](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/create-calculations-in-r?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -645,7 +637,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/create-calculations-in-r?u=76281980&t=161)** In this case, I want to indicate that R should treat them as actual backslashes, so I need to type two of them in a row.
 >
-> **[2:49](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/create-calculations-in-r?u=76281980&t=169)** So I have the backslash for the first one, and then I'll just pair the rest of them up using my keyboard.
+> **[2:49](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/create-calculations-in-r?u=76281980&t=169)** So I have the backslash for the first one, and then I'll just pair the [[Representational State Transfer (REST)|rest]] of them up using my keyboard.
 >
 > **[3:01](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/create-calculations-in-r?u=76281980&t=181)** There we go. And that is everything for the file path.
 >
@@ -717,7 +709,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (4), short for (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** rgy (1)
@@ -726,18 +718,17 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
 
-#### Import data into Tableau
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/import-data-into-tableau?u=76281980)
+#### [Import data into Tableau](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/import-data-into-tableau?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/import-data-into-tableau?u=76281980&t=0)** - [Narrator] If you want to create a Tableau visualization, you need data for the program to work with.
+> **[0:00](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/import-data-into-tableau?u=76281980&t=0)** - [Narrator] If you want to create a [[Tableau]] visualization, you need data for the program to work with.
 >
-> **[0:06](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/import-data-into-tableau?u=76281980&t=6)** Tableau lets you bring in data from a wide range of sources, and in this movie I will show you some of the sources available and demonstrate how to import data from an Excel workbook.
+> **[0:06](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/import-data-into-tableau?u=76281980&t=6)** Tableau lets you bring in data from a wide range of sources, and in this movie I will show you some of the sources available and demonstrate how to import data from an [[Microsoft Excel|Excel]] workbook.
 >
 > **[0:17](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/import-data-into-tableau?u=76281980&t=17)** I have opened Tableau and I'm on the usual start screen.
 >
-> **[0:22](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/import-data-into-tableau?u=76281980&t=22)** Over on the left I have the Connect panel and underneath To a File there is Microsoft Excel, a text file, a JSON file, Access, PDF, spatial file if you're doing map work, and also servers such as Microsoft SQL Server, MySQL, Oracle, and others.
+> **[0:22](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/import-data-into-tableau?u=76281980&t=22)** Over on the left I have the Connect panel and underneath To a File there is [[Microsoft Excel]], a text file, a [[JSON]] file, Access, PDF, spatial file if you're doing map work, and also servers such as [[Microsoft SQL Server]], [[MySQL]], Oracle, and others.
 >
 > **[0:43](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/import-data-into-tableau?u=76281980&t=43)** So I just wanted you to know that those are the connection sources available to you.
 >
@@ -777,19 +768,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Tableau]] (5), [[Microsoft Excel|Excel]] (2), [[Microsoft Excel]] (2), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (5), [[Microsoft Excel|Excel]] (2), [[Microsoft Excel]] (2), [[JSON]] (1), [[Microsoft SQL Server]] (1)
 > **UI Navigation:** double-click (1), scroll down (1), go to (1), select the (1)
 > **Env Vars:** json (1), pdf (1), sql (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** mysql (1)
 > **Speakers:** - [narrator] (1)
 
-#### Create a visualization in Tableau
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/create-a-visualization-in-tableau?u=76281980)
+#### [Create a visualization in Tableau](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/create-a-visualization-in-tableau?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/create-a-visualization-in-tableau?u=76281980&t=0)** - [Instructor] Once you have linked to a data source in Tableau, you can use it to create a visualization.
+> **[0:00](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/create-a-visualization-in-tableau?u=76281980&t=0)** - [Instructor] Once you have linked to a data source in [[Tableau]], you can use it to create a visualization.
 >
 > **[0:06](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/create-a-visualization-in-tableau?u=76281980&t=6)** The available vis types depend on your data and what you add to the worksheet, but you'll probably have lots of types to choose from.
 >
@@ -865,11 +855,11 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/create-a-visualization-in-tableau?u=76281980&t=245)** If I want to have a single line of data for all sales, then I can drag product category off of the Marks card.
 >
-> **[4:15](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/create-a-visualization-in-tableau?u=76281980&t=255)** And then I just have a single line that shows the trend for sales for this particular set of products within my company.
+> **[4:15](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/create-a-visualization-in-tableau?u=76281980&t=255)** And then I just have a single line that shows the trend for sales for this particular set of [[Microsoft Products|products]] within my company.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), product (6), [[Tableau]] (1), next (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** o204 (1)
 > **Cross-References:** go back to (1)
@@ -877,12 +867,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a calculated field in Tableau
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/create-a-calculated-field-in-tableau?u=76281980)
+#### [Create a calculated field in Tableau](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/create-a-calculated-field-in-tableau?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/create-a-calculated-field-in-tableau?u=76281980&t=0)** - [Instructor] One of the key techniques when it comes to integrating R in Tableau is to create a calculated field in Tableau that calls an R function.
+> **[0:00](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/create-a-calculated-field-in-tableau?u=76281980&t=0)** - [Instructor] One of the key techniques when it comes to integrating R in [[Tableau]] is to create a calculated field in Tableau that calls an R function.
 >
 > **[0:10](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/create-a-calculated-field-in-tableau?u=76281980&t=10)** Rather than jump in and create that advanced kind of calculated field, I wanted to show you how to combine two fields within Tableau to calculate a value that is not included in your original dataset.
 >
@@ -934,7 +923,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Tableau]] (4), product (4), next (1), power (1)
+> **Frameworks & Libraries:** [[Tableau]] (4)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** year (1)
@@ -947,12 +936,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Describe linear regression and multiple regression models
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/describe-linear-regression-and-multiple-regression-models?u=76281980)
+#### [Describe linear regression and multiple regression models](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/describe-linear-regression-and-multiple-regression-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/describe-linear-regression-and-multiple-regression-models?u=76281980&t=0)** - [Narrator] Linear regression models identify trends in your data, whether it's sales over time, the length of time a customer has made purchases versus yearly sales, and so on.
+> **[0:00](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/describe-linear-regression-and-multiple-regression-models?u=76281980&t=0)** - [Narrator] [[Linear Regression]] models identify trends in your data, whether it's sales over time, the length of time a customer has made purchases versus yearly sales, and so on.
 >
 > **[0:11](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/describe-linear-regression-and-multiple-regression-models?u=76281980&t=11)** In this movie, I will describe the process behind linear regression models and how to evaluate them.
 >
@@ -990,19 +978,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linear Regression]] (4), data (3)
+> **Frameworks & Libraries:** [[Linear Regression]] (4)
 > **Versions:** 573.59 (2), 8.0339 (1), 0.42 (1)
 > **Definitions:** means that (1), is a  (1)
 > **CLI Commands:** find (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - [narrator] (1)
 
-#### Create single- and multiple-variable linear regression models
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/create-single-and-multiple-variable-linear-regression-models?u=76281980)
+#### [Create single- and multiple-variable linear regression models](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/create-single-and-multiple-variable-linear-regression-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/create-single-and-multiple-variable-linear-regression-models?u=76281980&t=0)** - [Instructor] Linear regression, which finds the line that best fits a data set is one of the most useful forms of data analysis you can perform.
+> **[0:00](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/create-single-and-multiple-variable-linear-regression-models?u=76281980&t=0)** - [Instructor] [[Linear Regression]], which finds the line that best fits a data set is one of the most useful [[Forms]] of data analysis you can perform.
 >
 > **[0:08](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/create-single-and-multiple-variable-linear-regression-models?u=76281980&t=8)** In this movie, I will show you how to perform linear regression, using one or more input variables in R.
 >
@@ -1124,7 +1111,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Linear Regression]] (3), [[Forms]] (1), next (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (3), [[Forms]] (1)
 > **Versions:** 733.6 (1), 0.507 (1), 733.60 (1), 378.23 (1), 2.45 (1)
 > **Definitions:** is a  (3), short for (1), in other words (1)
 > **Env Vars:** csv (1), sep (1)
@@ -1133,12 +1120,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Prerequisites:** you need to have (1)
 
-#### Analyze regression variables for significance
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/analyze-regression-variables-for-significance?u=76281980)
+#### [Analyze regression variables for significance](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/analyze-regression-variables-for-significance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/analyze-regression-variables-for-significance?u=76281980&t=0)** - [Instructor] When you perform linear regression in R, the routine you call creates the equation that best fits your data using all the variables you provide.
+> **[0:00](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/analyze-regression-variables-for-significance?u=76281980&t=0)** - [Instructor] When you perform [[Linear Regression]] in R, the routine you call creates the equation that best fits your data using all the variables you provide.
 >
 > **[0:09](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/analyze-regression-variables-for-significance?u=76281980&t=9)** Not every variable will be statistically significant though, so it makes sense to remove the ones that R identifies as insignificant from your model.
 >
@@ -1276,7 +1262,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Linear Regression]] (1), next (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (1)
 > **Versions:** 378.233 (1), 2.45 (1), 10.621 (1), 543.30 (1), 32.8 (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** csv (1), sep (1)
@@ -1285,16 +1271,15 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 
-#### Visualize data for linear regression in Tableau
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/visualize-data-for-linear-regression-in-tableau?u=76281980)
+#### [Visualize data for linear regression in Tableau](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/visualize-data-for-linear-regression-in-tableau?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/visualize-data-for-linear-regression-in-tableau?u=76281980&t=0)** - [Instructor] Linear regression identifies an equation that best describes your data.
+> **[0:00](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/visualize-data-for-linear-regression-in-tableau?u=76281980&t=0)** - [Instructor] [[Linear Regression]] identifies an equation that best describes your data.
 >
 > **[0:04](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/visualize-data-for-linear-regression-in-tableau?u=76281980&t=4)** That is, it's a single line with the minimum amount of error between each of the points and the line itself.
 >
-> **[0:11](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/visualize-data-for-linear-regression-in-tableau?u=76281980&t=11)** In this movie, I will show you how to plot data in Tableau so it makes sense to do a linear regression.
+> **[0:11](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/visualize-data-for-linear-regression-in-tableau?u=76281980&t=11)** In this movie, I will show you how to plot data in [[Tableau]] so it makes sense to do a linear regression.
 >
 > **[0:19](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/visualize-data-for-linear-regression-in-tableau?u=76281980&t=19)** The sample file I'm using is 0304 Scatter, and you can find it in the chapter three folder of the exercise files collection.
 >
@@ -1338,18 +1323,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Linear Regression]] (3), [[Tableau]] (2)
+> **Frameworks & Libraries:** [[Linear Regression]] (3), [[Tableau]] (2)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add an R regression model to a Tableau viz
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/add-an-r-regression-model-to-a-tableau-viz?u=76281980)
+#### [Add an R regression model to a Tableau viz](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/add-an-r-regression-model-to-a-tableau-viz?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/add-an-r-regression-model-to-a-tableau-viz?u=76281980&t=0)** - [Instructor] After you have created a scatterplot, you can visualize a line of best fit based on a linear regression model that you create an R.
+> **[0:00](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/add-an-r-regression-model-to-a-tableau-viz?u=76281980&t=0)** - [Instructor] After you have created a scatterplot, you can visualize a line of best fit based on a [[Linear Regression]] model that you create an R.
 >
 > **[0:09](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/add-an-r-regression-model-to-a-tableau-viz?u=76281980&t=9)** In this movie I will show you how to do that.
 >
@@ -1371,7 +1355,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/add-an-r-regression-model-to-a-tableau-viz?u=76281980&t=75)** Enter and it has been started.
 >
-> **[1:18](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/add-an-r-regression-model-to-a-tableau-viz?u=76281980&t=78)** Now I can switch to Tableau and connect to this R service process.
+> **[1:18](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/add-an-r-regression-model-to-a-tableau-viz?u=76281980&t=78)** Now I can switch to [[Tableau]] and connect to this R service process.
 >
 > **[1:24](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/add-an-r-regression-model-to-a-tableau-viz?u=76281980&t=84)** So Alt + Tab to move back to Tableau, then go to the Help menu, point to Settings and Performance, and then click Manage Analytics Extension Connection.
 >
@@ -1501,7 +1485,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linear Regression]] (10), [[Tableau]] (7), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (10), [[Tableau]] (7)
 > **UI Navigation:** go to (4), switch to (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** find (1), make (1)
@@ -1515,12 +1499,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Describe logistic regression algorithms
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/describe-logistic-regression-algorithms?u=76281980)
+#### [Describe logistic regression algorithms](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/describe-logistic-regression-algorithms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/describe-logistic-regression-algorithms?u=76281980&t=0)** - [Instructor] Logistic regression is a supervised training algorithm that builds a model to distinguish between categories of information.
+> **[0:00](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/describe-logistic-regression-algorithms?u=76281980&t=0)** - [Instructor] [[Logistic Regression]] is a supervised training algorithm that builds a model to distinguish between categories of information.
 >
 > **[0:09](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/describe-logistic-regression-algorithms?u=76281980&t=9)** Supervised means that you have a set of known results, for example, customers who donated last year versus those who didn't, and then you build a model to try to predict based on past data.
 >
@@ -1534,13 +1517,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Logistic Regression]] (2), data (2)
+> **Frameworks & Libraries:** [[Logistic Regression]] (2)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a logistic regression model
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/create-a-logistic-regression-model?u=76281980)
+#### [Create a logistic regression model](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/create-a-logistic-regression-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1666,7 +1648,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), next (1)
 > **Definitions:** is a  (6), means that (1)
 > **UI Navigation:** go to (3)
 > **CLI Commands:** make (2)
@@ -1674,13 +1655,13 @@ created: 2026-05-02
 > **File Paths:** testdata.csv (1)
 > **Env Vars:** pred (1)
 > **Exercise Files:** exercise files (1)
+> **Speakers:** - [instructor] (1)
 
-#### Visualize data for logistic regression in Tableau
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/visualize-data-for-logistic-regression-in-tableau?u=76281980)
+#### [Visualize data for logistic regression in Tableau](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/visualize-data-for-logistic-regression-in-tableau?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/visualize-data-for-logistic-regression-in-tableau?u=76281980&t=0)** - [Instructor] Creating a Tableau workbook for logistic regression is a bit different from other workbooks that you'll create.
+> **[0:00](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/visualize-data-for-logistic-regression-in-tableau?u=76281980&t=0)** - [Instructor] Creating a [[Tableau]] workbook for [[Logistic Regression]] is a bit different from other workbooks that you'll create.
 >
 > **[0:08](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/visualize-data-for-logistic-regression-in-tableau?u=76281980&t=8)** So in this movie, I will show you how to do it using the specific data from our test set.
 >
@@ -1708,19 +1689,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Logistic Regression]] (3), [[Tableau]] (1), next (1)
+> **Frameworks & Libraries:** [[Logistic Regression]] (3), [[Tableau]] (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add an R logistic regression model to a Tableau viz
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/add-an-r-logistic-regression-model-to-a-tableau-viz?u=76281980)
+#### [Add an R logistic regression model to a Tableau viz](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/add-an-r-logistic-regression-model-to-a-tableau-viz?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/add-an-r-logistic-regression-model-to-a-tableau-viz?u=76281980&t=0)** - [Instructor] After you test your logistic regression model in R and visualize your data in Tableau, you can create a calculated field that includes your R code.
+> **[0:00](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/add-an-r-logistic-regression-model-to-a-tableau-viz?u=76281980&t=0)** - [Instructor] After you test your [[Logistic Regression]] model in R and visualize your data in [[Tableau]], you can create a calculated field that includes your R code.
 >
 > **[0:10](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/add-an-r-logistic-regression-model-to-a-tableau-viz?u=76281980&t=10)** From there, you can use color, shape, or another characteristic to distinguish the two classes in your viz.
 >
@@ -1840,7 +1820,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Tableau]] (6), next (3), [[Analytics]] (2), [[Logistic Regression]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (6), [[Logistic Regression]] (1)
 > **UI Navigation:** go to (2), select the (1), right-click (1), scroll down (1)
 > **Definitions:** is a  (3), means that (1)
 > **CLI Commands:** make (2)
@@ -1854,12 +1834,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Describe support vector machine algorithms
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/describe-support-vector-machine-algorithms?u=76281980)
+#### [Describe support vector machine algorithms](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/describe-support-vector-machine-algorithms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/describe-support-vector-machine-algorithms?u=76281980&t=0)** - [Narrator] In the previous chapter, we looked at logistic regression as a means of predicting whether a customer, patient, or other entity would be more likely than not to be part of a class of objects.
+> **[0:00](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/describe-support-vector-machine-algorithms?u=76281980&t=0)** - [Narrator] In the previous chapter, we looked at [[Logistic Regression]] as a means of predicting whether a customer, patient, or other entity would be more likely than not to be part of a class of objects.
 >
 > **[0:12](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/describe-support-vector-machine-algorithms?u=76281980&t=12)** We can also use support vector machines.
 >
@@ -1879,8 +1858,7 @@ created: 2026-05-02
 > **Cross-References:** previous chapter (1)
 > **Speakers:** - [narrator] (1)
 
-#### Create a support vector machine model
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/create-a-support-vector-machine-model?u=76281980)
+#### [Create a support vector machine model](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/create-a-support-vector-machine-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1906,7 +1884,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/create-a-support-vector-machine-model?u=76281980&t=69)** So, I'll type library and then in double quotes, after parentheses, e1071, close the double quotes, close the parentheses, and Enter, and it's active.
 >
-> **[1:24](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/create-a-support-vector-machine-model?u=76281980&t=84)** Support vector machines are supervised learning algorithms.
+> **[1:24](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/create-a-support-vector-machine-model?u=76281980&t=84)** Support vector machines are [[Supervised Learning]] [[Algorithms]].
 >
 > **[1:28](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/create-a-support-vector-machine-model?u=76281980&t=88)** You have a set of known options and you train your data based on the known outcomes.
 >
@@ -2060,7 +2038,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), next (2), [[Supervised Learning]] (1), [[Algorithms]] (1), product (1)
+> **Frameworks & Libraries:** [[Supervised Learning]] (1), [[Algorithms]] (1)
 > **Definitions:** is a  (2), is called (1), means that (1)
 > **CLI Commands:** find (1), make (1)
 > **Code Identifiers:** svm_test (2)
@@ -2069,12 +2047,11 @@ created: 2026-05-02
 > **Exercise Files:** download the (1), exercise files (1)
 > **Prerequisites:** install (2)
 
-#### Visualize support vector machine data in Tableau
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/visualize-support-vector-machine-data-in-tableau?u=76281980)
+#### [Visualize support vector machine data in Tableau](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/visualize-support-vector-machine-data-in-tableau?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/visualize-support-vector-machine-data-in-tableau?u=76281980&t=0)** - [Presenter] When you create a support vector machine model to distinguish between two classes of objects in a dataset, you can list the algorithm's results as our output, or visualize it in Tableau.
+> **[0:00](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/visualize-support-vector-machine-data-in-tableau?u=76281980&t=0)** - [Presenter] When you create a support vector machine model to distinguish between two classes of objects in a dataset, you can list the algorithm's results as our output, or visualize it in [[Tableau]].
 >
 > **[0:12](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/visualize-support-vector-machine-data-in-tableau?u=76281980&t=12)** In this movie, I will show you how to take the first step toward visualizing the data used in your SVM analysis in a Tableau workbook.
 >
@@ -2102,19 +2079,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Tableau]] (2), product (1), next (1)
+> **Frameworks & Libraries:** [[Tableau]] (2)
 > **Env Vars:** svm (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [presenter] (1)
 
-#### Add an R support vector machine model to a Tableau viz
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/add-an-r-support-vector-machine-model-to-a-tableau-viz?u=76281980)
+#### [Add an R support vector machine model to a Tableau viz](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/add-an-r-support-vector-machine-model-to-a-tableau-viz?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/add-an-r-support-vector-machine-model-to-a-tableau-viz?u=76281980&t=0)** - [Instructor] After you create a Tableau visualization that contains data you want to analyze using a support factor machine, you can add the R statement to a calculated field.
+> **[0:00](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/add-an-r-support-vector-machine-model-to-a-tableau-viz?u=76281980&t=0)** - [Instructor] After you create a [[Tableau]] visualization that contains data you want to analyze using a support factor machine, you can add the R statement to a calculated field.
 >
 > **[0:10](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/add-an-r-support-vector-machine-model-to-a-tableau-viz?u=76281980&t=10)** With that calculation in place, you can add as the results to your viz and see the results.
 >
@@ -2264,7 +2240,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Tableau]] (6), product (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (6)
 > **Non-Speech:** (keys clicking) (7)
 > **CLI Commands:** find (3), make (3)
 > **Env Vars:** svm (3), script_int (1)
@@ -2278,18 +2254,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Describe cluster analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/describe-cluster-analysis?u=76281980)
+#### [Describe cluster analysis](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/describe-cluster-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/describe-cluster-analysis?u=76281980&t=0)** - [Instructor] When you examine a dataset, you will often notice that customer's products, or competitors tend to fall into one of several groups.
+> **[0:00](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/describe-cluster-analysis?u=76281980&t=0)** - [Instructor] When you examine a dataset, you will often notice that customer's [[Microsoft Products|products]], or competitors tend to fall into one of several groups.
 >
 > **[0:08](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/describe-cluster-analysis?u=76281980&t=8)** In data analysis, these groups are called clusters.
 >
 > **[0:11](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/describe-cluster-analysis?u=76281980&t=11)** And in this movie, I will describe cluster analysis and how one popular technique to identify those clusters works.
 >
-> **[0:18](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/describe-cluster-analysis?u=76281980&t=18)** These sample file that I'm using is named Excel VBA cluster, and that is a macro-enabled Excel workbook that you can find in the chapter six folder of the exercise files collection.
+> **[0:18](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/describe-cluster-analysis?u=76281980&t=18)** These sample file that I'm using is named [[Microsoft Excel|Excel]] VBA cluster, and that is a macro-enabled Excel workbook that you can find in the chapter six folder of the exercise files collection.
 >
 > **[0:30](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/describe-cluster-analysis?u=76281980&t=30)** If you're not able to run Excel VBA macros on your computer due to security settings, then you can follow along, and I'll describe what we have.
 >
@@ -2331,7 +2306,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (4), [[Microsoft Products|Products]] (1), [[Security]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Microsoft Products|Products]] (1)
 > **Env Vars:** vba (3)
 > **Versions:** 5.28 (1), 4.14 (1)
 > **CLI Commands:** find (1)
@@ -2339,12 +2314,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Do cluster analysis in R
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/do-cluster-analysis-in-r?u=76281980)
+#### [Do cluster analysis in R](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/do-cluster-analysis-in-r?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/do-cluster-analysis-in-r?u=76281980&t=0)** - [Instructor] Many R packages implement cluster analysis algorithms, but I've selected one that uses a centroid-based method to identify its clusters.
+> **[0:00](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/do-cluster-analysis-in-r?u=76281980&t=0)** - [Instructor] Many R packages implement cluster analysis [[Algorithms]], but I've selected one that uses a centroid-based method to identify its clusters.
 >
 > **[0:09](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/do-cluster-analysis-in-r?u=76281980&t=9)** In this movie, I will show you how to identify clusters in R using data that you import from a CSV data file.
 >
@@ -2356,7 +2330,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/do-cluster-analysis-in-r?u=76281980&t=35)** Then read.table because we're reading in tabular data, then a left parentheses.
 >
-> **[0:43](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/do-cluster-analysis-in-r?u=76281980&t=43)** The data we'll use is in the Chapter 06 folder of the Exercise Files collection, so I'll press Alt + Tab, and the data is in the ClusterData Microsoft Excel CSV file.
+> **[0:43](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/do-cluster-analysis-in-r?u=76281980&t=43)** The data we'll use is in the Chapter 06 folder of the Exercise Files collection, so I'll press Alt + Tab, and the data is in the ClusterData [[Microsoft Excel]] CSV file.
 >
 > **[0:56](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/do-cluster-analysis-in-r?u=76281980&t=56)** So I will right-click that file and then from the shortcut menu that appears, click Copy as path.
 >
@@ -2406,7 +2380,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Algorithms]] (2), [[Microsoft Excel]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Microsoft Excel]] (1)
 > **Definitions:** is a  (1), short for (1), means that (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** csv (2)
@@ -2415,12 +2389,11 @@ created: 2026-05-02
 > **UI Navigation:** right-click (1)
 > **Exercise Files:** exercise files (1)
 
-#### Troubleshoot cluster analysis in Tableau
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/troubleshoot-cluster-analysis-in-tableau?u=76281980)
+#### [Troubleshoot cluster analysis in Tableau](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/troubleshoot-cluster-analysis-in-tableau?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/troubleshoot-cluster-analysis-in-tableau?u=76281980&t=0)** - [Instructor] In this movie, I will show you how to create a visualization on which you can base your cluster analysis, and also how it can go wrong when you are using a script within Tableau.
+> **[0:00](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/troubleshoot-cluster-analysis-in-tableau?u=76281980&t=0)** - [Instructor] In this movie, I will show you how to create a visualization on which you can base your cluster analysis, and also how it can go wrong when you are using a script within [[Tableau]].
 >
 > **[0:11](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/troubleshoot-cluster-analysis-in-tableau?u=76281980&t=11)** Then in the next movie, I will show you how to work around that problem.
 >
@@ -2528,7 +2501,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (7), data (6), next (3), [[Analytics]] (3)
+> **Frameworks & Libraries:** [[Tableau]] (7)
 > **Cross-References:** in the next (2), later in (1)
 > **UI Navigation:** go to (2), in the sidebar (1)
 > **CLI Commands:** find (1), make (1)
@@ -2537,18 +2510,17 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Warnings:** warning (1)
 
-#### Write cluster data to a CSV file for use in Tableau
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/write-cluster-data-to-a-csv-file-for-use-in-tableau?u=76281980)
+#### [Write cluster data to a CSV file for use in Tableau](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/write-cluster-data-to-a-csv-file-for-use-in-tableau?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/write-cluster-data-to-a-csv-file-for-use-in-tableau?u=76281980&t=0)** - [Instructor] In the previous movie, I showed you how to perform clustering analysis in R, except that in Tableau, we ran into a problem applying the results to a visualization.
+> **[0:00](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/write-cluster-data-to-a-csv-file-for-use-in-tableau?u=76281980&t=0)** - [Instructor] In the previous movie, I showed you how to perform clustering analysis in R, except that in [[Tableau]], we ran into a problem applying the results to a visualization.
 >
 > **[0:13](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/write-cluster-data-to-a-csv-file-for-use-in-tableau?u=76281980&t=13)** In this movie, I will show you how to work around that problem and then show you how to work around another problem that comes up when you do your analysis in Tableau.
 >
 > **[0:24](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/write-cluster-data-to-a-csv-file-for-use-in-tableau?u=76281980&t=24)** The sample file I'm using is 06_04_ClusterWorkaround, and you can find it in the Chapter06 folder of the exercise files collection.
 >
-> **[0:32](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/write-cluster-data-to-a-csv-file-for-use-in-tableau?u=76281980&t=32)** This workbook brings in data from the ClusterData Excel file, and if I go down to Data Source to preview the data, I'll see that I have three columns, Cluster, Sales, and Profit.
+> **[0:32](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/write-cluster-data-to-a-csv-file-for-use-in-tableau?u=76281980&t=32)** This workbook brings in data from the ClusterData [[Microsoft Excel|Excel]] file, and if I go down to Data Source to preview the data, I'll see that I have three columns, Cluster, Sales, and Profit.
 >
 > **[0:45](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/write-cluster-data-to-a-csv-file-for-use-in-tableau?u=76281980&t=45)** I want to do my clustering based on sales and profit only, so I'll focus on columns two and three of the Data Source.
 >
@@ -2692,7 +2664,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Tableau]] (7), [[Microsoft Excel|Excel]] (2), product (1)
+> **Frameworks & Libraries:** [[Tableau]] (7), [[Microsoft Excel|Excel]] (2)
 > **File Paths:** write.csv (2), clusterdata.csv (1), clusterassignment.csv (1)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** go back to (2)
@@ -2706,14 +2678,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Describe random forest analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/describe-random-forest-analysis?u=76281980)
+#### [Describe random forest analysis](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/describe-random-forest-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/describe-random-forest-analysis?u=76281980&t=0)** - [Instructor] In this chapter, we will look at random forest algorithms, which classify entities according to characteristics contained within a dataset.
+> **[0:00](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/describe-random-forest-analysis?u=76281980&t=0)** - [Instructor] In this chapter, we will look at random forest [[Algorithms]], which classify entities according to characteristics contained within a dataset.
 >
-> **[0:09](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/describe-random-forest-analysis?u=76281980&t=9)** Specifically, random forest classifies objects by creating decision trees, but it doesn't just create a single decision tree.
+> **[0:09](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/describe-random-forest-analysis?u=76281980&t=9)** Specifically, random forest classifies objects by creating [[Decision Trees]], but it doesn't just create a single decision tree.
 >
 > **[0:17](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/describe-random-forest-analysis?u=76281980&t=17)** What it does is randomly generate trees and test their performance against a test set of data.
 >
@@ -2729,14 +2700,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Algorithms]] (1), [[Decision Trees]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Decision Trees]] (1)
 > **UI Navigation:** go to (1), scroll down (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** url (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a random forest analysis model in R
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/create-a-random-forest-analysis-model-in-r?u=76281980)
+#### [Create a random forest analysis model in R](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/create-a-random-forest-analysis-model-in-r?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2902,7 +2872,7 @@ created: 2026-05-02
 >
 > **[7:14](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/create-a-random-forest-analysis-model-in-r?u=76281980&t=434)** So what I'll do is combine my predictions with column 1 from the test data.
 >
-> **[7:21](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/create-a-random-forest-analysis-model-in-r?u=76281980&t=441)** And then later in Tableau, we can combine the actual type, that is the actual glass type, with what was predicted.
+> **[7:21](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/create-a-random-forest-analysis-model-in-r?u=76281980&t=441)** And then later in [[Tableau]], we can combine the actual type, that is the actual glass type, with what was predicted.
 >
 > **[7:30](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/create-a-random-forest-analysis-model-in-r?u=76281980&t=450)** So in R, I will write my predictions and the test column 1 to an output variable.
 >
@@ -2946,7 +2916,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Tableau]] (1), next (1)
+> **Frameworks & Libraries:** [[Tableau]] (1)
 > **File Paths:** glasstrain.csv (1), glasstest.csv (1), write.csv (1), predictions.csv (1)
 > **CLI Commands:** make (3), find (1)
 > **Code Identifiers:** randomforest (3)
@@ -2955,14 +2925,13 @@ created: 2026-05-02
 > **Env Vars:** usa (1), csv (1)
 > **UI Navigation:** right-click (1), go to (1)
 
-#### Visualize data for random forest analysis in Tableau
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/visualize-data-for-random-forest-analysis-in-tableau?u=76281980)
+#### [Visualize data for random forest analysis in Tableau](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/visualize-data-for-random-forest-analysis-in-tableau?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/visualize-data-for-random-forest-analysis-in-tableau?u=76281980&t=0)** - [Instructor] When you perform random forest analysis in R, you can classify objects within a set of categories.
 >
-> **[0:08](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/visualize-data-for-random-forest-analysis-in-tableau?u=76281980&t=8)** In this movie, I will show you how to visualize data for random forest analysis in Tableau, and also how to bring in your results for that random forest output.
+> **[0:08](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/visualize-data-for-random-forest-analysis-in-tableau?u=76281980&t=8)** In this movie, I will show you how to visualize data for random forest analysis in [[Tableau]], and also how to bring in your results for that random forest output.
 >
 > **[0:20](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/visualize-data-for-random-forest-analysis-in-tableau?u=76281980&t=20)** My sample file is 0703 Random Forest, and you can find it in the chapter seven folder of the exercise files collection.
 >
@@ -3014,7 +2983,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Tableau]] (4), next (1)
+> **Frameworks & Libraries:** [[Tableau]] (4)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** in the last (1), go back to (1)
 > **Exercise Files:** exercise files (2)
@@ -3027,14 +2996,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Further resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/further-resources?u=76281980)
+#### [Further resources](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/further-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/further-resources?u=76281980&t=0)** - [Instructor] Thanks again for your interest in this course.
 >
-> **[0:02](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/further-resources?u=76281980&t=2)** Before I go, I would like to point you to some additional resources that you can use to learn more about Tableau and R separately and together.
+> **[0:02](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/further-resources?u=76281980&t=2)** Before I go, I would like to point you to some additional resources that you can use to learn more about [[Tableau]] and R separately and together.
 >
 > **[0:12](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/further-resources?u=76281980&t=12)** First, be sure to visit [tableau.com](https://tableau.com).
 >
@@ -3054,7 +3022,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/further-resources?u=76281980&t=50)** You might have to modify them a bit to use them with Tableau, but you can also use them to expand your R knowledge.
 >
-> **[0:57](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/further-resources?u=76281980&t=57)** The same is true for Practical Data Science with R Second Edition by Nina Zumel and John Mount.
+> **[0:57](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/further-resources?u=76281980&t=57)** The same is true for Practical [[Data Science]] with R Second Edition by Nina Zumel and [[John the Ripper|John]] Mount.
 >
 > **[1:03](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/further-resources?u=76281980&t=63)** This is another book that rather than providing cookbook solutions, trains you to do practical data science with R, as the name says.
 >
@@ -3066,7 +3034,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (4), data (4), web (1), career (1)
+> **Frameworks & Libraries:** [[Tableau]] (4), [[Data Science]] (2), [[John the Ripper|John]] (1)
 > **CLI Commands:** find (1)
 > **URLs:** [tableau.com](https://tableau.com) (1)
 > **UI Navigation:** go to (1)

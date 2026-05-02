@@ -90,8 +90,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Operating system forensics
-> [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/operating-system-forensics?u=76281980)
+#### [Operating system forensics](https://www.linkedin.com/learning/operating-system-forensics-24652677/operating-system-forensics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -101,23 +100,22 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/operating-system-forensics-24652677/operating-system-forensics?u=76281980&t=11)** So it's up to you to find out where the evidence is hidden.
 >
-> **[0:15](https://www.linkedin.com/learning/operating-system-forensics-24652677/operating-system-forensics?u=76281980&t=15)** In this course, I'll teach you the foundations of operating system forensics, including where evidence may be hidden, like deleted files, slack spaces, and alternate data streams and file systems.
+> **[0:15](https://www.linkedin.com/learning/operating-system-forensics-24652677/operating-system-forensics?u=76281980&t=15)** In this course, I'll teach you the foundations of operating system forensics, including where evidence may be hidden, like deleted files, [[Slack]] spaces, and alternate data streams and file systems.
 >
 > **[0:31](https://www.linkedin.com/learning/operating-system-forensics-24652677/operating-system-forensics?u=76281980&t=31)** Hi, I'm Jungwoo Ryoo.
 >
-> **[0:34](https://www.linkedin.com/learning/operating-system-forensics-24652677/operating-system-forensics?u=76281980&t=34)** For decades, I've been a college professor helping students develop their careers in digital forensics.
+> **[0:34](https://www.linkedin.com/learning/operating-system-forensics-24652677/operating-system-forensics?u=76281980&t=34)** For decades, I've been a college professor helping students develop their careers in [[Digital Forensics]].
 >
 > **[0:41](https://www.linkedin.com/learning/operating-system-forensics-24652677/operating-system-forensics?u=76281980&t=41)** So join me, and let's start our investigation.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Slack]] (1), data (1), [[Digital Forensics]] (1)
+> **Frameworks & Libraries:** [[Slack]] (1), [[Digital Forensics]] (1)
 > **CLI Commands:** find (1)
 > **Tools:** slack (1)
 > **Speakers:** - [instructor] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/operating-system-forensics-24652677/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -125,9 +123,9 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/operating-system-forensics-24652677/what-you-should-know?u=76281980&t=5)** I aim to help you quickly learn essential operating system forensics concepts, and develop an overall understanding of the field.
 >
-> **[0:13](https://www.linkedin.com/learning/operating-system-forensics-24652677/what-you-should-know?u=76281980&t=13)** Having background knowledge in digital forensics would be helpful, and for that, you can check out my other course, [[Cybersecurity Foundations]] Computer Forensics.
+> **[0:13](https://www.linkedin.com/learning/operating-system-forensics-24652677/what-you-should-know?u=76281980&t=13)** Having background knowledge in [[Digital Forensics]] would be helpful, and for that, you can check out my other course, [[[[Cybersecurity]] Foundations]] [[Computer Forensics]].
 >
-> **[0:24](https://www.linkedin.com/learning/operating-system-forensics-24652677/what-you-should-know?u=76281980&t=24)** Throughout this course, we'll use Windows, Mac OS, and Linux operating systems.
+> **[0:24](https://www.linkedin.com/learning/operating-system-forensics-24652677/what-you-should-know?u=76281980&t=24)** Throughout this course, we'll use [[Windows]], Mac OS, and [[Linux]] operating systems.
 >
 > **[0:31](https://www.linkedin.com/learning/operating-system-forensics-24652677/what-you-should-know?u=76281980&t=31)** But don't worry if you don't have any spare computers to practice your skills on.
 >
@@ -147,14 +145,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to OSs and digital forensics
-> [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction?u=76281980)
+#### [Introduction to OSs and digital forensics](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction?u=76281980&t=0)** - [Narrator] Digital forensics relies heavily on operating systems, or OSs, as one of its major sources of evidence.
+> **[0:00](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction?u=76281980&t=0)** - [Narrator] [[Digital Forensics]] relies heavily on operating systems, or OSs, as one of its major sources of evidence.
 >
-> **[0:09](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction?u=76281980&t=9)** OSs retain a wealth of information on their users because they have full control and view of the hardware and software resources.
+> **[0:09](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction?u=76281980&t=9)** OSs retain a wealth of information on their users because they have full control and view of the [[Hardware]] and software resources.
 >
 > **[0:18](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction?u=76281980&t=18)** People use OSs daily and constantly leave clues about who they are and what they do.
 >
@@ -200,7 +197,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Digital Forensics]] (4), [[Hardware]] (4), data (4), web (1), application (1)
+> **Frameworks & Libraries:** [[Digital Forensics]] (4), [[Hardware]] (4)
 > **Env Vars:** ram (2), cpu (1)
 > **Definitions:** known as (1), is called (1)
 > **CLI Commands:** make (1)
@@ -208,8 +205,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
 
-#### History
-> [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/history?u=76281980)
+#### [History](https://www.linkedin.com/learning/operating-system-forensics-24652677/history?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -223,11 +219,11 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/operating-system-forensics-24652677/history?u=76281980&t=31)** Then, a technological revolution called the personal computer, or PC, occurred in the 1980s.
 >
-> **[0:39](https://www.linkedin.com/learning/operating-system-forensics-24652677/history?u=76281980&t=39)** PCs started replacing mainframe computers and providing more flexible and economical solutions to everyday tasks like email, word processing, and internet surfing.
+> **[0:39](https://www.linkedin.com/learning/operating-system-forensics-24652677/history?u=76281980&t=39)** PCs started replacing mainframe computers and providing more flexible and economical solutions to everyday tasks like email, [[Microsoft Word|word]] processing, and internet surfing.
 >
 > **[0:54](https://www.linkedin.com/learning/operating-system-forensics-24652677/history?u=76281980&t=54)** IBM began building PCs in 1981.
 >
-> **[0:58](https://www.linkedin.com/learning/operating-system-forensics-24652677/history?u=76281980&t=58)** Disk Operating System, or DOS, and its variants, including Microsoft DOS, or MS-DOS, were the first OSs for IBM PCs and their clones.
+> **[0:58](https://www.linkedin.com/learning/operating-system-forensics-24652677/history?u=76281980&t=58)** Disk Operating System, or DOS, and its variants, including [[Microsoft]] DOS, or MS-DOS, were the first OSs for IBM PCs and their clones.
 >
 > **[1:12](https://www.linkedin.com/learning/operating-system-forensics-24652677/history?u=76281980&t=72)** These used floppy disks as their storage mechanism.
 >
@@ -247,11 +243,11 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/operating-system-forensics-24652677/history?u=76281980&t=126)** MS-DOS was command prompt-based, meaning users had to type in text-based commands to communicate with the OS.
 >
-> **[2:15](https://www.linkedin.com/learning/operating-system-forensics-24652677/history?u=76281980&t=135)** This changed in 1985 when Microsoft announced its first graphical user interface, or GUI-based OS called Windows OS.
+> **[2:15](https://www.linkedin.com/learning/operating-system-forensics-24652677/history?u=76281980&t=135)** This changed in 1985 when Microsoft announced its first graphical user interface, or GUI-based OS called [[Windows]] OS.
 >
-> **[2:27](https://www.linkedin.com/learning/operating-system-forensics-24652677/history?u=76281980&t=147)** Since the first release of Windows OS, Microsoft produced its successors, such as Windows NT, Windows 95 Windows XP, Windows 7, Windows Vista, and Windows 10.
+> **[2:27](https://www.linkedin.com/learning/operating-system-forensics-24652677/history?u=76281980&t=147)** Since the first release of Windows OS, Microsoft produced its successors, such as Windows NT, Windows 95 Windows XP, Windows 7, Windows Vista, and [[Windows 10]].
 >
-> **[2:45](https://www.linkedin.com/learning/operating-system-forensics-24652677/history?u=76281980&t=165)** Linux is the PC version of the Unix OS.
+> **[2:45](https://www.linkedin.com/learning/operating-system-forensics-24652677/history?u=76281980&t=165)** [[Linux]] is the PC version of the Unix OS.
 >
 > **[2:48](https://www.linkedin.com/learning/operating-system-forensics-24652677/history?u=76281980&t=168)** Its source code was open to the public from its birth in 1991 by Linus Torvalds.
 >
@@ -259,17 +255,17 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/operating-system-forensics-24652677/history?u=76281980&t=182)** The kernel is the core of Linux OS, and its first version was created in 1991.
 >
-> **[3:10](https://www.linkedin.com/learning/operating-system-forensics-24652677/history?u=76281980&t=190)** Although, not as popular as Windows OS and Mac OS among PC users, Linux has a strong presence in the cloud computing and server market because of its availability, versatility, and scalability.
+> **[3:10](https://www.linkedin.com/learning/operating-system-forensics-24652677/history?u=76281980&t=190)** Although, not as popular as Windows OS and Mac OS among PC users, Linux has a strong presence in the [[Cloud Computing]] and server market because of its availability, versatility, and [[Scalability]].
 >
 > **[3:28](https://www.linkedin.com/learning/operating-system-forensics-24652677/history?u=76281980&t=208)** We've come a long way in developing new OS technologies over the past decades.
 >
 > **[3:35](https://www.linkedin.com/learning/operating-system-forensics-24652677/history?u=76281980&t=215)** I expect more rapid changes in the next decade, especially in the mobile OS field, driving technological innovations in phones and tablets.
 >
-> **[3:46](https://www.linkedin.com/learning/operating-system-forensics-24652677/history?u=76281980&t=226)** It'll be interesting to see how Android and iOS evolve into their future successors.
+> **[3:46](https://www.linkedin.com/learning/operating-system-forensics-24652677/history?u=76281980&t=226)** It'll be interesting to see how [[Android]] and iOS evolve into their future successors.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (8), [[Linux]] (4), [[Microsoft]] (3), [[Microsoft Word|Word]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Windows]] (8), [[Linux]] (4), [[Microsoft]] (3), [[Microsoft Word|Word]] (1), [[Windows 10]] (1)
 > **Env Vars:** dos (4), ibm (2), gui (1)
 > **Code Identifiers:** macos (1), ios (1)
 > **Cross-References:** in the next (1)
@@ -278,14 +274,13 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Core concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/core-concepts?u=76281980)
+#### [Core concepts](https://www.linkedin.com/learning/operating-system-forensics-24652677/core-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/operating-system-forensics-24652677/core-concepts?u=76281980&t=0)** - [Instructor] There are several core operating system or OS concepts to understand.
 >
-> **[0:07](https://www.linkedin.com/learning/operating-system-forensics-24652677/core-concepts?u=76281980&t=7)** Building a foundation for these key topics will help you become a more effective digital forensics investigator and allow you to go beyond simply relying on the results produced by various forensics tools.
+> **[0:07](https://www.linkedin.com/learning/operating-system-forensics-24652677/core-concepts?u=76281980&t=7)** Building a foundation for these key topics will help you become a more effective [[Digital Forensics]] investigator and allow you to go beyond simply relying on the results produced by various forensics tools.
 >
 > **[0:23](https://www.linkedin.com/learning/operating-system-forensics-24652677/core-concepts?u=76281980&t=23)** It's also true that there are problems tools alone cannot solve.
 >
@@ -305,7 +300,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/operating-system-forensics-24652677/core-concepts?u=76281980&t=88)** Depending on the availability of the CPU resources, an OS needs to keep its processes waiting and run them again.
 >
-> **[1:38](https://www.linkedin.com/learning/operating-system-forensics-24652677/core-concepts?u=76281980&t=98)** Memory management is also mandatory because we don't have unlimited memory space.
+> **[1:38](https://www.linkedin.com/learning/operating-system-forensics-24652677/core-concepts?u=76281980&t=98)** [[Memory Management]] is also mandatory because we don't have unlimited memory space.
 >
 > **[1:45](https://www.linkedin.com/learning/operating-system-forensics-24652677/core-concepts?u=76281980&t=105)** If you have too many applications running at the same time, the OS will eventually run out of memory space.
 >
@@ -329,7 +324,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Digital Forensics]] (3), management (3), [[Memory Management]] (1)
+> **Frameworks & Libraries:** [[Digital Forensics]] (3), [[Memory Management]] (1)
 > **Env Vars:** cpu (3), ssd (2), usb (1)
 > **Definitions:** is a  (2), refers to (1)
 > **CLI Commands:** make (1)
@@ -338,8 +333,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Roles in computing
-> [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/roles-in-computing?u=76281980)
+#### [Roles in computing](https://www.linkedin.com/learning/operating-system-forensics-24652677/roles-in-computing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -365,20 +359,19 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/operating-system-forensics-24652677/roles-in-computing?u=76281980&t=80)** Do these terms sound familiar to you?
 >
-> **[1:23](https://www.linkedin.com/learning/operating-system-forensics-24652677/roles-in-computing?u=76281980&t=83)** If the terms sound like a foreign language, I recommend increasing your knowledge by taking OS Theory courses from the LinkedIn Learning Library.
+> **[1:23](https://www.linkedin.com/learning/operating-system-forensics-24652677/roles-in-computing?u=76281980&t=83)** If the terms sound like a foreign language, I recommend increasing your knowledge by taking OS Theory courses from the [[LinkedIn]] Learning Library.
 >
 > **[1:34](https://www.linkedin.com/learning/operating-system-forensics-24652677/roles-in-computing?u=76281980&t=94)** In the meantime, I'll do my best to fill you in.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), management (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Definitions:** is a  (2)
 > **Exercise Files:** source code (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Process management hands-on
-> [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/process-management-hands-on?u=76281980)
+#### [Process management hands-on](https://www.linkedin.com/learning/operating-system-forensics-24652677/process-management-hands-on?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -410,17 +403,16 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/operating-system-forensics-24652677/process-management-hands-on?u=76281980&t=87)** This time, nothing shows up, which means that the apache web server is no longer running.
 >
-> **[1:34](https://www.linkedin.com/learning/operating-system-forensics-24652677/process-management-hands-on?u=76281980&t=94)** As you can see, the Ubuntu OS plays a key role in one of the critical aspects of computing, namely process management, by allowing us to start, stop, and restart processes.
+> **[1:34](https://www.linkedin.com/learning/operating-system-forensics-24652677/process-management-hands-on?u=76281980&t=94)** As you can see, the [[Ubuntu]] OS plays a key role in one of the critical aspects of computing, namely process management, by allowing us to start, stop, and restart processes.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), [[Ubuntu]] (1), management (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (1)
 > **CLI Commands:** apache (4), sudo (3), grep (3)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Roles in forensics
-> [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/roles-in-forensics?u=76281980)
+#### [Roles in forensics](https://www.linkedin.com/learning/operating-system-forensics-24652677/roles-in-forensics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -452,7 +444,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/operating-system-forensics-24652677/roles-in-forensics?u=76281980&t=93)** In the search history example, tech savvy computer users may know where to find the information and how do we raise it.
 >
-> **[1:43](https://www.linkedin.com/learning/operating-system-forensics-24652677/roles-in-forensics?u=76281980&t=103)** In Microsoft Edge, you can do this by clicking on the settings and more icon and choosing the history option, like this.
+> **[1:43](https://www.linkedin.com/learning/operating-system-forensics-24652677/roles-in-forensics?u=76281980&t=103)** In [[Microsoft]] Edge, you can do this by clicking on the settings and more icon and choosing the history option, like this.
 >
 > **[1:55](https://www.linkedin.com/learning/operating-system-forensics-24652677/roles-in-forensics?u=76281980&t=115)** Do you see the delete browsing data icon?
 >
@@ -462,33 +454,32 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/operating-system-forensics-24652677/roles-in-forensics?u=76281980&t=135)** However, if you are, you know there are many other places you can look for the search history data.
 >
-> **[2:23](https://www.linkedin.com/learning/operating-system-forensics-24652677/roles-in-forensics?u=76281980&t=143)** This is the powerful role OS's and their mastery play in digital forensics and why it's critical to learn OS forensics techniques to be an effective investigator.
+> **[2:23](https://www.linkedin.com/learning/operating-system-forensics-24652677/roles-in-forensics?u=76281980&t=143)** This is the powerful role OS's and their mastery play in [[Digital Forensics]] and why it's critical to learn OS forensics techniques to be an effective investigator.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), data (3), [[Microsoft]] (1), feature (1), [[Digital Forensics]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Digital Forensics]] (1)
 > **CLI Commands:** find (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [tutor] (1)
 
-#### Future
-> [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/future?u=76281980)
+#### [Future](https://www.linkedin.com/learning/operating-system-forensics-24652677/future?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/operating-system-forensics-24652677/future?u=76281980&t=0)** - [Instructor] OSs have come a long way since their humble beginnings.
 >
-> **[0:05](https://www.linkedin.com/learning/operating-system-forensics-24652677/future?u=76281980&t=5)** The original OS concept of sharing centralized computing resources through mainframes is now being revived in the form of Cloud computing.
+> **[0:05](https://www.linkedin.com/learning/operating-system-forensics-24652677/future?u=76281980&t=5)** The original OS concept of sharing centralized computing resources through mainframes is now being revived in the form of [[Cloud Computing]].
 >
-> **[0:16](https://www.linkedin.com/learning/operating-system-forensics-24652677/future?u=76281980&t=16)** We're also increasingly dependent on mobile devices, which currently have their own specialized OSs, such as iOS and Android.
+> **[0:16](https://www.linkedin.com/learning/operating-system-forensics-24652677/future?u=76281980&t=16)** We're also increasingly dependent on mobile devices, which currently have their own specialized OSs, such as iOS and [[Android]].
 >
 > **[0:27](https://www.linkedin.com/learning/operating-system-forensics-24652677/future?u=76281980&t=27)** A potential path for the future is to consolidate all these customized OSs into a universal system that blurs the boundaries.
 >
 > **[0:40](https://www.linkedin.com/learning/operating-system-forensics-24652677/future?u=76281980&t=40)** Cloud computing enables this convergence by allowing users to move between devices without worrying about copying files.
 >
-> **[0:51](https://www.linkedin.com/learning/operating-system-forensics-24652677/future?u=76281980&t=51)** Your information is always in sync with Cloud storage solutions like OneDrive.
+> **[0:51](https://www.linkedin.com/learning/operating-system-forensics-24652677/future?u=76281980&t=51)** Your information is always in sync with [[Cloud Storage]] solutions like [[Microsoft OneDrive|OneDrive]].
 >
-> **[0:58](https://www.linkedin.com/learning/operating-system-forensics-24652677/future?u=76281980&t=58)** However, we have a long way to go because there are still limitations on what can be done across different hardware platforms.
+> **[0:58](https://www.linkedin.com/learning/operating-system-forensics-24652677/future?u=76281980&t=58)** However, we have a long way to go because there are still limitations on what can be done across different [[Hardware]] platforms.
 >
 > **[1:10](https://www.linkedin.com/learning/operating-system-forensics-24652677/future?u=76281980&t=70)** This is due to variations in processing and memory capacities.
 >
@@ -506,11 +497,11 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/operating-system-forensics-24652677/future?u=76281980&t=115)** Manufacturers continue to announce new devices, such as foldable smartphones, and I'm hopeful that a universal OS will soon follow.
 >
-> **[2:07](https://www.linkedin.com/learning/operating-system-forensics-24652677/future?u=76281980&t=127)** From the perspective of a digital forensics specialist, these convergence trends are positive because we'll be less worried about learning new OSs every time a new device comes out.
+> **[2:07](https://www.linkedin.com/learning/operating-system-forensics-24652677/future?u=76281980&t=127)** From the perspective of a [[Digital Forensics]] specialist, these convergence trends are positive because we'll be less worried about learning new OSs every time a new device comes out.
 >
 > **[2:22](https://www.linkedin.com/learning/operating-system-forensics-24652677/future?u=76281980&t=142)** However, other changes, like more prevalent and stronger data encryption will make it extremely difficult to retrieve readable data.
 >
-> **[2:34](https://www.linkedin.com/learning/operating-system-forensics-24652677/future?u=76281980&t=154)** Our only hope may be a Cloud service provider who can unlock the relevant data, but this attempt could still face barriers, such as privacy laws and jurisdiction disputes.
+> **[2:34](https://www.linkedin.com/learning/operating-system-forensics-24652677/future?u=76281980&t=154)** Our only hope may be a Cloud service provider who can unlock the relevant data, but this attempt could still face barriers, such as [[Privacy]] laws and jurisdiction disputes.
 >
 > **[2:50](https://www.linkedin.com/learning/operating-system-forensics-24652677/future?u=76281980&t=170)** After all, not everything on your device syncs in the Cloud.
 >
@@ -518,11 +509,11 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/operating-system-forensics-24652677/future?u=76281980&t=186)** This type of surveillance is already occurring on work computers, but it seems to be expanding into personal computing.
 >
-> **[3:16](https://www.linkedin.com/learning/operating-system-forensics-24652677/future?u=76281980&t=196)** The bottom line here is that digital forensics specialists will have more data to analyze, and intelligent tools leveraging technologies, including artificial intelligence and machine learning will be inevitable to make our work feasible.
+> **[3:16](https://www.linkedin.com/learning/operating-system-forensics-24652677/future?u=76281980&t=196)** The bottom line here is that digital forensics specialists will have more data to analyze, and intelligent tools leveraging technologies, including [[Artificial Intelligence (AI)|artificial intelligence]] and machine learning will be inevitable to make our work feasible.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), data (4), [[Hardware]] (2), [[Digital Forensics]] (2), [[Android]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (2), [[Hardware]] (2), [[Digital Forensics]] (2), [[Android]] (1), [[Cloud Storage]] (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** ios (2)
@@ -533,8 +524,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to file system types
-> [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction-24379530?u=76281980)
+#### [Introduction to file system types](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction-24379530?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -550,7 +540,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction-24379530?u=76281980&t=39)** A more modern version called Unified Extensible Former Interface, or UEFI, is slowly replacing BIOS.
 >
-> **[0:50](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction-24379530?u=76281980&t=50)** File systems also store all the code for your favorite applications, such as word processors and spreadsheet programs.
+> **[0:50](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction-24379530?u=76281980&t=50)** File systems also store all the code for your favorite applications, such as [[Microsoft Word|word]] processors and spreadsheet programs.
 >
 > **[1:00](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction-24379530?u=76281980&t=60)** OSS load the application code into the main memory for execution on a CPU.
 >
@@ -560,7 +550,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction-24379530?u=76281980&t=78)** There are also system generated files like log files.
 >
-> **[1:23](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction-24379530?u=76281980&t=83)** Whether created by users or the system, these files are highly relevant to digital forensics investigations because they may contain direct evidence of criminal activities.
+> **[1:23](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction-24379530?u=76281980&t=83)** Whether created by users or the system, these files are highly relevant to [[Digital Forensics]] investigations because they may contain direct evidence of criminal activities.
 >
 > **[1:36](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction-24379530?u=76281980&t=96)** File systems make it possible to keep track of individual files after storing them.
 >
@@ -570,13 +560,13 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction-24379530?u=76281980&t=114)** Files and information on them are both data.
 >
-> **[1:59](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction-24379530?u=76281980&t=119)** Therefore, you can say that the details on files are data about data, which is metadata.
+> **[1:59](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction-24379530?u=76281980&t=119)** Therefore, you can say that the details on files are data about data, which is [[Metadata]].
 >
 > **[2:06](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction-24379530?u=76281980&t=126)** Other examples of metadata include name, owner and timestamps of when files are created and last accessed or modified.
 >
 > **[2:18](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction-24379530?u=76281980&t=138)** This chapter explores three of the most popular file systems in news today.
 >
-> **[2:24](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction-24379530?u=76281980&t=144)** These are Windows, Linux, and Mac OS.
+> **[2:24](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction-24379530?u=76281980&t=144)** These are [[Windows]], [[Linux]], and Mac OS.
 >
 > **[2:28](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction-24379530?u=76281980&t=148)** You'll learn many similarities among them, but there are also unique ways the OSS handle the expected file system features we've discussed so far.
 >
@@ -584,18 +574,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Metadata]] (2), power (1), [[Microsoft Word|Word]] (1), application (1)
+> **Frameworks & Libraries:** [[Metadata]] (2), [[Microsoft Word|Word]] (1), [[Digital Forensics]] (1), [[Windows]] (1), [[Linux]] (1)
 > **Env Vars:** bios (2), oss (2), uefi (1), cpu (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Windows file systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/windows-file-systems?u=76281980)
+#### [Windows file systems](https://www.linkedin.com/learning/operating-system-forensics-24652677/windows-file-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/operating-system-forensics-24652677/windows-file-systems?u=76281980&t=0)** - [Instructor] Windows File Systems have their origin in Microsoft Disk Operating System, also known as MS-DOS.
+> **[0:00](https://www.linkedin.com/learning/operating-system-forensics-24652677/windows-file-systems?u=76281980&t=0)** - [Instructor] [[Windows]] File Systems have their origin in [[Microsoft]] Disk Operating System, also known as MS-DOS.
 >
 > **[0:09](https://www.linkedin.com/learning/operating-system-forensics-24652677/windows-file-systems?u=76281980&t=9)** Many of the original MS-DOS design ideas remain in Windows File Systems.
 >
@@ -623,7 +612,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/operating-system-forensics-24652677/windows-file-systems?u=76281980&t=87)** Due to its simplicity, FAT is one of the most widely used Windows File Systems.
 >
-> **[1:34](https://www.linkedin.com/learning/operating-system-forensics-24652677/windows-file-systems?u=76281980&t=94)** Consumer electronics devices, like digital cameras, often use FAT as their default file.
+> **[1:34](https://www.linkedin.com/learning/operating-system-forensics-24652677/windows-file-systems?u=76281980&t=94)** Consumer [[Electronics]] devices, like digital cameras, often use FAT as their default file.
 >
 > **[1:42](https://www.linkedin.com/learning/operating-system-forensics-24652677/windows-file-systems?u=76281980&t=102)** System exFAT or Extended FAT is a more recent file system designed for USB drives and SD cards.
 >
@@ -649,7 +638,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/operating-system-forensics-24652677/windows-file-systems?u=76281980&t=177)** Each cluster has its own entry in a file table, which takes up a significant amount of space and is an overhead that comes with FAT.
 >
-> **[3:09](https://www.linkedin.com/learning/operating-system-forensics-24652677/windows-file-systems?u=76281980&t=189)** The file table entries don't store file metadata.
+> **[3:09](https://www.linkedin.com/learning/operating-system-forensics-24652677/windows-file-systems?u=76281980&t=189)** The file table entries don't store file [[Metadata]].
 >
 > **[3:14](https://www.linkedin.com/learning/operating-system-forensics-24652677/windows-file-systems?u=76281980&t=194)** On FAT file systems, the root directory stores metadata and information on the files stored in each directory.
 >
@@ -659,7 +648,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (7), [[Metadata]] (2), [[Microsoft]] (1), prompt (1), [[Electronics]] (1)
+> **Frameworks & Libraries:** [[Windows]] (7), [[Metadata]] (2), [[Microsoft]] (1), [[Electronics]] (1)
 > **Env Vars:** fat (14), pbs (3), dos (2), ntfs (2), usb (1)
 > **Definitions:** is a  (2), known as (1), is an  (1)
 > **CLI Commands:** find (1)
@@ -667,8 +656,7 @@ created: 2026-05-02
 > **Tools:** command prompt (1)
 > **Speakers:** - [instructor] (1)
 
-#### Windows hands-on
-> [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/windows-hands-on?u=76281980)
+#### [Windows hands-on](https://www.linkedin.com/learning/operating-system-forensics-24652677/windows-hands-on?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -696,7 +684,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/operating-system-forensics-24652677/windows-hands-on?u=76281980&t=90)** We'll use a utility called mmls, which is part of TSK.
 >
-> **[1:37](https://www.linkedin.com/learning/operating-system-forensics-24652677/windows-hands-on?u=76281980&t=97)** Please note that I'm using Kali Linux, which already comes with TSK.
+> **[1:37](https://www.linkedin.com/learning/operating-system-forensics-24652677/windows-hands-on?u=76281980&t=97)** Please note that I'm using [[Kali Linux]], which already comes with TSK.
 >
 > **[1:43](https://www.linkedin.com/learning/operating-system-forensics-24652677/windows-hands-on?u=76281980&t=103)** Type mmls /dev/sdb.
 >
@@ -726,13 +714,13 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/operating-system-forensics-24652677/windows-hands-on?u=76281980&t=194)** v/v are TSK virtual files and directories.
 >
-> **[3:20](https://www.linkedin.com/learning/operating-system-forensics-24652677/windows-hands-on?u=76281980&t=200)** You should now have a good feel for what real-life implications technical terms like partition and partition tables have in the context of digital forensics.
+> **[3:20](https://www.linkedin.com/learning/operating-system-forensics-24652677/windows-hands-on?u=76281980&t=200)** You should now have a good feel for what real-life implications technical terms like partition and partition tables have in the context of [[Digital Forensics]].
 >
 > **[3:33](https://www.linkedin.com/learning/operating-system-forensics-24652677/windows-hands-on?u=76281980&t=213)** TSK has many other features you can use to explore file systems, and you should try them out on your own.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kali Linux]] (1), next (1), [[Digital Forensics]] (1)
+> **Frameworks & Libraries:** [[Kali Linux]] (1), [[Digital Forensics]] (1)
 > **Env Vars:** tsk (6), fat (2), mbr (2), usb (1), pbs (1)
 > **Warnings:** note that (2)
 > **File Paths:** test.txt (1)
@@ -740,12 +728,11 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Linux file systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/linux-file-systems?u=76281980)
+#### [Linux file systems](https://www.linkedin.com/learning/operating-system-forensics-24652677/linux-file-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/operating-system-forensics-24652677/linux-file-systems?u=76281980&t=0)** - [Instructor] Linux uses a default file system called Extensible File System or ext.
+> **[0:00](https://www.linkedin.com/learning/operating-system-forensics-24652677/linux-file-systems?u=76281980&t=0)** - [Instructor] [[Linux]] uses a default file system called Extensible File System or ext.
 >
 > **[0:08](https://www.linkedin.com/learning/operating-system-forensics-24652677/linux-file-systems?u=76281980&t=8)** ext has been evolving since its creation in 1992.
 >
@@ -759,11 +746,11 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/operating-system-forensics-24652677/linux-file-systems?u=76281980&t=52)** In Linux, a Superblock stores details on the configuration of its file system.
 >
-> **[0:58](https://www.linkedin.com/learning/operating-system-forensics-24652677/linux-file-systems?u=76281980&t=58)** It keeps track of the locations of the critical data structures of the file system and their sizes.
+> **[0:58](https://www.linkedin.com/learning/operating-system-forensics-24652677/linux-file-systems?u=76281980&t=58)** It keeps track of the locations of the critical [[Data Structures]] of the file system and their sizes.
 >
 > **[1:06](https://www.linkedin.com/learning/operating-system-forensics-24652677/linux-file-systems?u=76281980&t=66)** Superblock entries include the total number of free blocks and the size of each block.
 >
-> **[1:14](https://www.linkedin.com/learning/operating-system-forensics-24652677/linux-file-systems?u=76281980&t=74)** ext uses blocks and block groups, while Windows-based file systems rely on clusters.
+> **[1:14](https://www.linkedin.com/learning/operating-system-forensics-24652677/linux-file-systems?u=76281980&t=74)** ext uses blocks and block groups, while [[Windows]]-based file systems rely on clusters.
 >
 > **[1:23](https://www.linkedin.com/learning/operating-system-forensics-24652677/linux-file-systems?u=76281980&t=83)** Block groups are a set of continuous blocks necessary to enhance the performance of the ext file system.
 >
@@ -779,7 +766,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/operating-system-forensics-24652677/linux-file-systems?u=76281980&t=137)** An inode is a data structure that describes files and directories in the ext file system.
 >
-> **[2:25](https://www.linkedin.com/learning/operating-system-forensics-24652677/linux-file-systems?u=76281980&t=145)** It stores the metadata on the files and directories.
+> **[2:25](https://www.linkedin.com/learning/operating-system-forensics-24652677/linux-file-systems?u=76281980&t=145)** It stores the [[Metadata]] on the files and directories.
 >
 > **[2:31](https://www.linkedin.com/learning/operating-system-forensics-24652677/linux-file-systems?u=76281980&t=151)** Linux keeps track of inodes in a table called inode table.
 >
@@ -787,19 +774,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (6), data (3), [[Windows]] (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Linux]] (6), [[Data Structures]] (1), [[Windows]] (1), [[Metadata]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** similar to (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Linux hands-on
-> [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/linux-hands-on?u=76281980)
+#### [Linux hands-on](https://www.linkedin.com/learning/operating-system-forensics-24652677/linux-hands-on?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/operating-system-forensics-24652677/linux-hands-on?u=76281980&t=0)** - [Instructor] Let's try out some Linux commands to explore various inode details.
+> **[0:00](https://www.linkedin.com/learning/operating-system-forensics-24652677/linux-hands-on?u=76281980&t=0)** - [Instructor] Let's try out some [[Linux]] commands to explore various inode details.
 >
-> **[0:06](https://www.linkedin.com/learning/operating-system-forensics-24652677/linux-hands-on?u=76281980&t=6)** Inodes are what Linux uses to store file or directory metadata.
+> **[0:06](https://www.linkedin.com/learning/operating-system-forensics-24652677/linux-hands-on?u=76281980&t=6)** Inodes are what Linux uses to store file or directory [[Metadata]].
 >
 > **[0:13](https://www.linkedin.com/learning/operating-system-forensics-24652677/linux-hands-on?u=76281980&t=13)** Each file or directory has a unique inode number.
 >
@@ -819,7 +805,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/operating-system-forensics-24652677/linux-hands-on?u=76281980&t=56)** Two dots in Linux signifies the parent directory, and the number next to them here is its inode number.
 >
-> **[1:05](https://www.linkedin.com/learning/operating-system-forensics-24652677/linux-hands-on?u=76281980&t=65)** The rest is a list of inode number and file name pairs.
+> **[1:05](https://www.linkedin.com/learning/operating-system-forensics-24652677/linux-hands-on?u=76281980&t=65)** The [[Representational State Transfer (REST)|rest]] is a list of inode number and file name pairs.
 >
 > **[1:11](https://www.linkedin.com/learning/operating-system-forensics-24652677/linux-hands-on?u=76281980&t=71)** That's it.
 >
@@ -861,23 +847,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (8), [[Metadata]] (3), data (3), next (2), ai (1)
+> **Frameworks & Libraries:** [[Linux]] (8), [[Metadata]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (3), is called (1), is an  (1)
 > **CLI Commands:** ls (1)
 > **Speakers:** - [instructor] (1)
 
-#### Apple file systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/apple-file-systems?u=76281980)
+#### [Apple file systems](https://www.linkedin.com/learning/operating-system-forensics-24652677/apple-file-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/operating-system-forensics-24652677/apple-file-systems?u=76281980&t=0)** - [Instructor] Like its Windows and Linux counterparts, Apple's file systems have also evolved over the years.
+> **[0:00](https://www.linkedin.com/learning/operating-system-forensics-24652677/apple-file-systems?u=76281980&t=0)** - [Instructor] Like its [[Windows]] and [[Linux]] counterparts, Apple's file systems have also evolved over the years.
 >
 > **[0:08](https://www.linkedin.com/learning/operating-system-forensics-24652677/apple-file-systems?u=76281980&t=8)** The Macintosh File System or MFS was the very first Apple file system.
 >
 > **[0:14](https://www.linkedin.com/learning/operating-system-forensics-24652677/apple-file-systems?u=76281980&t=14)** It was released in 1984 and designed for floppy disks.
 >
-> **[0:20](https://www.linkedin.com/learning/operating-system-forensics-24652677/apple-file-systems?u=76281980&t=20)** The hierarchical File System or HFS was next, and this was necessary to offer larger and faster storage hardware.
+> **[0:20](https://www.linkedin.com/learning/operating-system-forensics-24652677/apple-file-systems?u=76281980&t=20)** The hierarchical File System or HFS was next, and this was necessary to offer larger and faster storage [[Hardware]].
 >
 > **[0:33](https://www.linkedin.com/learning/operating-system-forensics-24652677/apple-file-systems?u=76281980&t=33)** Apple launched HFS in 1985 to support its first hard disk drive.
 >
@@ -911,18 +896,17 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/operating-system-forensics-24652677/apple-file-systems?u=76281980&t=136)** The evolution of Apple File Systems from MFS to APFS demonstrates how OS technologies constantly change.
 >
-> **[2:27](https://www.linkedin.com/learning/operating-system-forensics-24652677/apple-file-systems?u=76281980&t=147)** It's another reminder of the necessity of continuing education in digital forensics.
+> **[2:27](https://www.linkedin.com/learning/operating-system-forensics-24652677/apple-file-systems?u=76281980&t=147)** It's another reminder of the necessity of continuing education in [[Digital Forensics]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (3), [[Linux]] (3), next (1), [[Hardware]] (1), power (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Linux]] (3), [[Hardware]] (1), [[Digital Forensics]] (1)
 > **Env Vars:** hfs (9), apfs (3), mfs (2), fat (1), bios (1)
 > **Definitions:** is a  (2)
 > **Versions:** 8.1 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Apple hands-on
-> [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/apple-hands-on?u=76281980)
+#### [Apple hands-on](https://www.linkedin.com/learning/operating-system-forensics-24652677/apple-hands-on?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -930,9 +914,9 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/operating-system-forensics-24652677/apple-hands-on?u=76281980&t=4)** Apple files consist of two parts called data fork and resource fork.
 >
-> **[0:11](https://www.linkedin.com/learning/operating-system-forensics-24652677/apple-hands-on?u=76281980&t=11)** As its name suggests, data fork stores file data created by users through applications like word processors and spreadsheets.
+> **[0:11](https://www.linkedin.com/learning/operating-system-forensics-24652677/apple-hands-on?u=76281980&t=11)** As its name suggests, data fork stores file data created by users through applications like [[Microsoft Word|word]] processors and spreadsheets.
 >
-> **[0:23](https://www.linkedin.com/learning/operating-system-forensics-24652677/apple-hands-on?u=76281980&t=23)** Resource fork contains file metadata and application-specific information such as icons and window locations.
+> **[0:23](https://www.linkedin.com/learning/operating-system-forensics-24652677/apple-hands-on?u=76281980&t=23)** Resource fork contains file [[Metadata]] and application-specific information such as icons and window locations.
 >
 > **[0:33](https://www.linkedin.com/learning/operating-system-forensics-24652677/apple-hands-on?u=76281980&t=33)** Let's try this out.
 >
@@ -972,7 +956,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Metadata]] (3), [[Microsoft Word|Word]] (1), application (1), next (1)
+> **Frameworks & Libraries:** [[Metadata]] (3), [[Microsoft Word|Word]] (1)
 > **Analogies:** such as (1), just like (1)
 > **CLI Commands:** ls (1)
 > **Env Vars:** apfs (1)
@@ -984,12 +968,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to file recovery
-> [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction-24377627?u=76281980)
+#### [Introduction to file recovery](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction-24377627?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction-24377627?u=76281980&t=0)** - [Instructor] One of the major tasks of digital forensics investigators is to recover and preserve data.
+> **[0:00](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction-24377627?u=76281980&t=0)** - [Instructor] One of the major tasks of [[Digital Forensics]] investigators is to recover and preserve data.
 >
 > **[0:07](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction-24377627?u=76281980&t=7)** Special attention is necessary because deleted, damaged, or hidden files present substantial challenges.
 >
@@ -1001,13 +984,13 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction-24377627?u=76281980&t=47)** You'll still need tools like software utilities, but you are expected to have the skills and insight to navigate through a file system and retrieve what you seek.
 >
-> **[0:59](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction-24377627?u=76281980&t=59)** This takes a higher level of training than using a fully-automated computer forensics software suite that does everything for you.
+> **[0:59](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction-24377627?u=76281980&t=59)** This takes a higher level of training than using a fully-automated [[Computer Forensics]] software suite that does everything for you.
 >
 > **[1:08](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction-24377627?u=76281980&t=68)** What makes the job of a digital forensics specialist even more challenging is the hide and seek nature of the field.
 >
 > **[1:17](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction-24377627?u=76281980&t=77)** Criminals constantly hide their data in the increasingly vast expense of a storage device.
 >
-> **[1:23](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction-24377627?u=76281980&t=83)** Knowing where to look is essential, which is why this chapter will cover potential hiding places such as slack space and alternate data streams.
+> **[1:23](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction-24377627?u=76281980&t=83)** Knowing where to look is essential, which is why this chapter will cover potential hiding places such as [[Slack]] space and alternate data streams.
 >
 > **[1:34](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction-24377627?u=76281980&t=94)** The more you learn about the data hiding tricks, the more options you have when searching for evidence.
 >
@@ -1019,13 +1002,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Digital Forensics]] (5), data (5), career (1), application (1), [[Computer Forensics]] (1)
+> **Frameworks & Libraries:** [[Digital Forensics]] (5), [[Computer Forensics]] (1), [[Slack]] (1)
 > **Tools:** slack (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data carving
-> [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-carving?u=76281980)
+#### [Data carving](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-carving?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1035,13 +1017,13 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-carving?u=76281980&t=19)** One of the most common tempering methods is to delete a file which doesn't erase its data, but simply removes an entry in a file table such as FAT or inode.
 >
-> **[0:33](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-carving?u=76281980&t=33)** Here, data carving techniques help investigators find the beginning of the deleted file and hopefully the rest of it.
+> **[0:33](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-carving?u=76281980&t=33)** Here, data carving techniques help investigators find the beginning of the deleted file and hopefully the [[Representational State Transfer (REST)|rest]] of it.
 >
 > **[0:43](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-carving?u=76281980&t=43)** The second tampering technique is to alter file extensions to mislead investigators.
 >
 > **[0:51](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-carving?u=76281980&t=51)** Changing a file extension from JPG to docx to throw off a forensics investigation is a good example.
 >
-> **[1:00](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-carving?u=76281980&t=60)** The third trick is to hide information in a slack space, which is a remaining free space after creating a file in a cluster or block.
+> **[1:00](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-carving?u=76281980&t=60)** The third trick is to hide information in a [[Slack]] space, which is a remaining free space after creating a file in a cluster or block.
 >
 > **[1:11](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-carving?u=76281980&t=71)** Tools such as Bmap makes it straightforward to write and retrieve data to and from a slack space.
 >
@@ -1051,7 +1033,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-carving?u=76281980&t=96)** Applications use sparse files to have more control over the logical structure of an individual file.
 >
-> **[1:44](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-carving?u=76281980&t=104)** Virtual machines or VMs use sparse files to initially create their data storage.
+> **[1:44](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-carving?u=76281980&t=104)** [[Virtual Machines]] or VMs use sparse files to initially create their [[Data Storage]].
 >
 > **[1:52](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-carving?u=76281980&t=112)** There's no need to store gigabytes of zeros in hexa decimal when the file system can just make a note of the empty space reserved for VM.
 >
@@ -1067,7 +1049,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Slack]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Virtual Machines]] (1)
+> **Frameworks & Libraries:** [[Slack]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Virtual Machines]] (1), [[Data Storage]] (1)
 > **Env Vars:** fat (1), jpg (1), ads (1)
 > **Tools:** slack (3)
 > **Definitions:** is a  (3)
@@ -1076,8 +1058,7 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **Speakers:** - data (1)
 
-#### Data carving preparation
-> [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-carving-preparation?u=76281980)
+#### [Data carving preparation](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-carving-preparation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1085,7 +1066,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-carving-preparation?u=76281980&t=13)** We then copy a JPEG file to our FAT partition and delete it so that we can try to carve the deleted picture file in our next hands-on lab.
 >
-> **[0:25](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-carving-preparation?u=76281980&t=25)** I'm doing this particular hands-on exercise on Windows and using the diskpart command, you can find a similar command like diskutil on Mac too.
+> **[0:25](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-carving-preparation?u=76281980&t=25)** I'm doing this particular hands-on exercise on [[Windows]] and using the diskpart command, you can find a similar command like diskutil on Mac too.
 >
 > **[0:39](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-carving-preparation?u=76281980&t=39)** First, get an empty USB drive and plug it into your computer.
 >
@@ -1121,7 +1102,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-carving-preparation?u=76281980&t=126)** press Enter.
 >
-> **[2:08](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-carving-preparation?u=76281980&t=128)** Let's create another primary partition to take up the rest of the USB drive space.
+> **[2:08](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-carving-preparation?u=76281980&t=128)** Let's create another primary partition to take up the [[Representational State Transfer (REST)|rest]] of the USB drive space.
 >
 > **[2:15](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-carving-preparation?u=76281980&t=135)** Type create partition primary, and press Enter.
 >
@@ -1157,9 +1138,9 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-carving-preparation?u=76281980&t=260)** By deleting the file, we're removing the JPEG file entry from the file allocation table or FAT.
 >
-> **[4:28](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-carving-preparation?u=76281980&t=268)** Now let's switch to a Linux machine and get an image of the partition we just created.
+> **[4:28](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-carving-preparation?u=76281980&t=268)** Now let's switch to a [[Linux]] machine and get an image of the partition we just created.
 >
-> **[4:35](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-carving-preparation?u=76281980&t=275)** Digital forensics investigators never conduct their investigation directly on an evidence drive, which is why we are creating the image.
+> **[4:35](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-carving-preparation?u=76281980&t=275)** [[Digital Forensics]] investigators never conduct their investigation directly on an evidence drive, which is why we are creating the image.
 >
 > **[4:46](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-carving-preparation?u=76281980&t=286)** We'll then be able to search for the deleted file in the image file of the USB stick.
 >
@@ -1203,7 +1184,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (3), [[Windows]] (2), [[Linux]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Linux]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Digital Forensics]] (1)
 > **Env Vars:** usb (9), jpeg (5), fat (2), carving (2), fat32 (1)
 > **CLI Commands:** find (2), make (2), sudo (2), ls (1)
 > **UI Navigation:** click on (2), select the (2), switch to (1)
@@ -1211,14 +1192,13 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data carving hands-on
-> [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-carving-hands-on?u=76281980)
+#### [Data carving hands-on](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-carving-hands-on?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-carving-hands-on?u=76281980&t=0)** - [Instructor] JPEG files have a specific header signature pattern, that is they always start with JFIF.
 >
-> **[0:10](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-carving-hands-on?u=76281980&t=10)** Grep is a Linux command for searching for a texturing.
+> **[0:10](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-carving-hands-on?u=76281980&t=10)** Grep is a [[Linux]] command for searching for a texturing.
 >
 > **[0:15](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-carving-hands-on?u=76281980&t=15)** Let's see if you can find the string JFIF in the image file we just created.
 >
@@ -1306,7 +1286,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), [[Linux]] (2), next (2), data (2)
+> **Frameworks & Libraries:** [[Linux]] (2)
 > **Env Vars:** jfif (6), jpeg (4), fat (1)
 > **CLI Commands:** grep (6), find (2)
 > **Definitions:** is a  (2), in other words (1), is called (1)
@@ -1315,12 +1295,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Slack space
-> [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/slack-space?u=76281980)
+#### [Slack space](https://www.linkedin.com/learning/operating-system-forensics-24652677/slack-space?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/operating-system-forensics-24652677/slack-space?u=76281980&t=0)** - [Instructor] Slack space is leftover storage created from writing a file to a cluster which consists of individual sectors on Windows OS's.
+> **[0:00](https://www.linkedin.com/learning/operating-system-forensics-24652677/slack-space?u=76281980&t=0)** - [Instructor] [[Slack]] space is leftover storage created from writing a file to a cluster which consists of individual sectors on [[Windows]] OS's.
 >
 > **[0:12](https://www.linkedin.com/learning/operating-system-forensics-24652677/slack-space?u=76281980&t=12)** A sector often contains 512 bytes of data, but the size varies depending on the file system configurations of your choice.
 >
@@ -1348,11 +1327,11 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/operating-system-forensics-24652677/slack-space?u=76281980&t=103)** It's possible to hide information in the slack spaces.
 >
-> **[1:48](https://www.linkedin.com/learning/operating-system-forensics-24652677/slack-space?u=76281980&t=108)** Let's do that now on our Linux machine.
+> **[1:48](https://www.linkedin.com/learning/operating-system-forensics-24652677/slack-space?u=76281980&t=108)** Let's do that now on our [[Linux]] machine.
 >
-> **[1:52](https://www.linkedin.com/learning/operating-system-forensics-24652677/slack-space?u=76281980&t=112)** First, download bmap from this GitHub website, and install it on your Linux machine.
+> **[1:52](https://www.linkedin.com/learning/operating-system-forensics-24652677/slack-space?u=76281980&t=112)** First, download bmap from this [[GitHub]] website, and install it on your Linux machine.
 >
-> **[1:59](https://www.linkedin.com/learning/operating-system-forensics-24652677/slack-space?u=76281980&t=119)** I had to install gcc-multilib to make bmap work on Ubuntu.
+> **[1:59](https://www.linkedin.com/learning/operating-system-forensics-24652677/slack-space?u=76281980&t=119)** I had to install gcc-multilib to make bmap work on [[Ubuntu]].
 >
 > **[2:07](https://www.linkedin.com/learning/operating-system-forensics-24652677/slack-space?u=76281980&t=127)** Let's first create a file by typing echo "slack space test" > slack.txt.
 >
@@ -1412,7 +1391,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Slack]] (23), [[Windows]] (3), [[Linux]] (3), data (2), prompt (1)
+> **Frameworks & Libraries:** [[Slack]] (23), [[Windows]] (3), [[Linux]] (3), [[GitHub]] (1), [[Ubuntu]] (1)
 > **Tools:** slack (23), command prompt (1), github (1)
 > **File Paths:** slack.txt (10)
 > **CLI Commands:** sudo (3), cat (2), ls (2), make (1), find (1)
@@ -1421,16 +1400,15 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data hiding and ADS
-> [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-hiding-and-ads?u=76281980)
+#### [Data hiding and ADS](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-hiding-and-ads?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-hiding-and-ads?u=76281980&t=0)** - [Instructor] We just tried hiding data in a slack space, which was quite straightforward with the help of a tool.
+> **[0:00](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-hiding-and-ads?u=76281980&t=0)** - [Instructor] We just tried hiding data in a [[Slack]] space, which was quite straightforward with the help of a tool.
 >
 > **[0:07](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-hiding-and-ads?u=76281980&t=7)** There are also many other ways to hide data in a file system.
 >
-> **[0:12](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-hiding-and-ads?u=76281980&t=12)** One of them is using the alternate data stream, or ADS, on Windows.
+> **[0:12](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-hiding-and-ads?u=76281980&t=12)** One of them is using the alternate data stream, or ADS, on [[Windows]].
 >
 > **[0:19](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-hiding-and-ads?u=76281980&t=19)** ADS is an NTFS feature that allows users to store extra data streams in addition to the default file data.
 >
@@ -1444,13 +1422,13 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-hiding-and-ads?u=76281980&t=60)** The master file table, or MFT, is the file table used to store these attributes in NTFS.
 >
-> **[1:07](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-hiding-and-ads?u=76281980&t=67)** As I mentioned earlier, the MFT contains attribute data that are both metadata and user data.
+> **[1:07](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-hiding-and-ads?u=76281980&t=67)** As I mentioned earlier, the MFT contains attribute data that are both [[Metadata]] and user data.
 >
 > **[1:15](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-hiding-and-ads?u=76281980&t=75)** An attribute that can fit within an MFT record is a resident attribute while non-resident attributes, such as the data attribute, require allocating clusters outside the MFT.
 >
 > **[1:33](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-hiding-and-ads?u=76281980&t=93)** NTFS allows multiple data attributes, enabling criminals to hide data in their own custom data streams, which are not obvious to end users.
 >
-> **[1:45](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-hiding-and-ads?u=76281980&t=105)** Today's digital forensics tools are ADS-aware, but investigators need to be knowledgeable about ADS to actively seek criminal use of these features.
+> **[1:45](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-hiding-and-ads?u=76281980&t=105)** Today's [[Digital Forensics]] tools are ADS-aware, but investigators need to be knowledgeable about ADS to actively seek criminal use of these features.
 >
 > **[1:58](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-hiding-and-ads?u=76281980&t=118)** The default data stream is unnamed and used to save file data.
 >
@@ -1480,11 +1458,11 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-hiding-and-ads?u=76281980&t=247)** The default data stream is unnamed and used to save file data.
 >
-> **[4:14](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-hiding-and-ads?u=76281980&t=254)** PowerShell is an enhanced version of the default command line interface, or CLI, on Windows OS.
+> **[4:14](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-hiding-and-ads?u=76281980&t=254)** [[Powershell]] is an enhanced version of the default command line interface, or [[CLI]], on Windows OS.
 >
 > **[4:22](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-hiding-and-ads?u=76281980&t=262)** PowerShell is now part of the default Windows installation.
 >
-> **[4:26](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-hiding-and-ads?u=76281980&t=266)** To find PowerShell on Windows 10, start typing PowerShell in the search box like this.
+> **[4:26](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-hiding-and-ads?u=76281980&t=266)** To find PowerShell on [[Windows 10]], start typing PowerShell in the search box like this.
 >
 > **[4:37](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-hiding-and-ads?u=76281980&t=277)** We can use PowerShell to display all the data streams associated with a specific file.
 >
@@ -1510,7 +1488,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (31), [[Powershell]] (5), [[Windows]] (4), feature (4), [[Slack]] (2)
+> **Frameworks & Libraries:** [[Powershell]] (5), [[Windows]] (4), [[Slack]] (2), [[Metadata]] (2), [[Digital Forensics]] (2)
 > **Env Vars:** ads (10), ntfs (8), mft (8), hfs (2), cli (1)
 > **Tools:** powershell (5), slack (2), command line (1)
 > **Definitions:** is an  (3), is a  (2)
@@ -1519,8 +1497,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1), - stream (1)
 > **UI Navigation:** go to (1)
 
-#### Data hiding hands-on
-> [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-hiding-hands-on?u=76281980)
+#### [Data hiding hands-on](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-hiding-hands-on?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1530,9 +1507,9 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-hiding-hands-on?u=76281980&t=13)** All you have to do is to use the output redirection command, which is a greater than sign.
 >
-> **[0:20](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-hiding-hands-on?u=76281980&t=20)** Just like the Linux redirection symbol, this command takes the output of the first command and sends it as an input to the next.
+> **[0:20](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-hiding-hands-on?u=76281980&t=20)** Just like the [[Linux]] redirection symbol, this command takes the output of the first command and sends it as an input to the next.
 >
-> **[0:30](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-hiding-hands-on?u=76281980&t=30)** Now open a command prompt on your Windows machine.
+> **[0:30](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-hiding-hands-on?u=76281980&t=30)** Now open a command prompt on your [[Windows]] machine.
 >
 > **[0:34](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-hiding-hands-on?u=76281980&t=34)** Let's first create a new empty file called ads.txt by typing type null greater than sign ads.txt.
 >
@@ -1558,7 +1535,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-hiding-hands-on?u=76281980&t=108)** Please note that the file size is still zero, although we added the new data stream secret.
 >
-> **[1:57](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-hiding-hands-on?u=76281980&t=117)** This is why end users won't notice the difference until they use the PowerShell command get item.
+> **[1:57](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-hiding-hands-on?u=76281980&t=117)** This is why end users won't notice the difference until they use the [[Powershell]] command get item.
 >
 > **[2:05](https://www.linkedin.com/learning/operating-system-forensics-24652677/data-hiding-hands-on?u=76281980&t=125)** Now let's switch to PowerShell.
 >
@@ -1602,7 +1579,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Powershell]] (3), prompt (2), [[Windows]] (2), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (3), [[Windows]] (2), [[Linux]] (1)
 > **File Paths:** ads.txt (9), adds.txt (1)
 > **Tools:** powershell (3), command prompt (2)
 > **Env Vars:** ads (4)
@@ -1616,12 +1593,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to live acquisition
-> [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction-24379529?u=76281980)
+#### [Introduction to live acquisition](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction-24379529?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction-24379529?u=76281980&t=0)** - [Instructor] Live acquisition is a digital forensics technique that takes a snapshot of the main memory of a running computer system.
+> **[0:00](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction-24379529?u=76281980&t=0)** - [Instructor] Live acquisition is a [[Digital Forensics]] technique that takes a snapshot of the main memory of a running computer system.
 >
 > **[0:09](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction-24379529?u=76281980&t=9)** Primary memory and random access memory or RAM are other names for main memory.
 >
@@ -1661,14 +1637,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Digital Forensics]] (2)
+> **Frameworks & Libraries:** [[Digital Forensics]] (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** ram (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Addressing
-> [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/addressing?u=76281980)
+#### [Addressing](https://www.linkedin.com/learning/operating-system-forensics-24652677/addressing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1680,7 +1655,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/operating-system-forensics-24652677/addressing?u=76281980&t=17)** Gigabyte main memory sizes are now common.
 >
-> **[0:21](https://www.linkedin.com/learning/operating-system-forensics-24652677/addressing?u=76281980&t=21)** This change presents its share of new opportunities for exploits and challenges, particularly in digital forensics.
+> **[0:21](https://www.linkedin.com/learning/operating-system-forensics-24652677/addressing?u=76281980&t=21)** This change presents its share of new opportunities for exploits and challenges, particularly in [[Digital Forensics]].
 >
 > **[0:30](https://www.linkedin.com/learning/operating-system-forensics-24652677/addressing?u=76281980&t=30)** The main memory space must be divided into manageable blocks with assigned addresses, regardless of size.
 >
@@ -1716,13 +1691,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (2), [[Digital Forensics]] (1)
+> **Frameworks & Libraries:** [[Digital Forensics]] (1)
 > **Definitions:** is called (2), is a  (1)
 > **Analogies:** for example (1), imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Memory structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/memory-structure?u=76281980)
+#### [Memory structure](https://www.linkedin.com/learning/operating-system-forensics-24652677/memory-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1766,7 +1740,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5)
 > **Env Vars:** cpu (4), rom (2), ram (1), bios (1), usb (1)
 > **Definitions:** refers to (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -1774,8 +1747,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Virtual memory
-> [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/virtual-memory?u=76281980)
+#### [Virtual memory](https://www.linkedin.com/learning/operating-system-forensics-24652677/virtual-memory?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1807,13 +1779,13 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/operating-system-forensics-24652677/virtual-memory?u=76281980&t=108)** In the context of virtual memory, the memory segments being swapped are called pages.
 >
-> **[1:55](https://www.linkedin.com/learning/operating-system-forensics-24652677/virtual-memory?u=76281980&t=115)** The page sizes are dependent on the OS doing memory management.
+> **[1:55](https://www.linkedin.com/learning/operating-system-forensics-24652677/virtual-memory?u=76281980&t=115)** The page sizes are dependent on the OS doing [[Memory Management]].
 >
 > **[2:00](https://www.linkedin.com/learning/operating-system-forensics-24652677/virtual-memory?u=76281980&t=120)** A page or swap file is used to store swapped out pages on a secondary memory device.
 >
 > **[2:09](https://www.linkedin.com/learning/operating-system-forensics-24652677/virtual-memory?u=76281980&t=129)** Live acquisition needs to include this page or swap file for completeness.
 >
-> **[2:15](https://www.linkedin.com/learning/operating-system-forensics-24652677/virtual-memory?u=76281980&t=135)** On Windows 11, you can see and configure the details of your virtual memory.
+> **[2:15](https://www.linkedin.com/learning/operating-system-forensics-24652677/virtual-memory?u=76281980&t=135)** On [[Windows]] 11, you can see and configure the details of your virtual memory.
 >
 > **[2:21](https://www.linkedin.com/learning/operating-system-forensics-24652677/virtual-memory?u=76281980&t=141)** First, open File Explorer.
 >
@@ -1833,11 +1805,11 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/operating-system-forensics-24652677/virtual-memory?u=76281980&t=184)** Remember to include the pager swap file in the second memory when you perform live acquisition.
 >
-> **[3:10](https://www.linkedin.com/learning/operating-system-forensics-24652677/virtual-memory?u=76281980&t=190)** This applies to Linux and Mac too.
+> **[3:10](https://www.linkedin.com/learning/operating-system-forensics-24652677/virtual-memory?u=76281980&t=190)** This applies to [[Linux]] and Mac too.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Memory Management]] (1), [[Windows]] (1), next (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Memory Management]] (1), [[Windows]] (1), [[Linux]] (1)
 > **UI Navigation:** click on (1), scroll down (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1845,8 +1817,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Memory dump analysis with Volatility
-> [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/memory-dump-analysis-with-volatility?u=76281980)
+#### [Memory dump analysis with Volatility](https://www.linkedin.com/learning/operating-system-forensics-24652677/memory-dump-analysis-with-volatility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1856,7 +1827,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/operating-system-forensics-24652677/memory-dump-analysis-with-volatility?u=76281980&t=8)** The name Volatility stems from the volatile nature of main memory.
 >
-> **[0:13](https://www.linkedin.com/learning/operating-system-forensics-24652677/memory-dump-analysis-with-volatility?u=76281980&t=13)** Volatility is written in Python and available on both Windows and Linux.
+> **[0:13](https://www.linkedin.com/learning/operating-system-forensics-24652677/memory-dump-analysis-with-volatility?u=76281980&t=13)** Volatility is written in [[Python (Programming Language)|Python]] and available on both [[Windows]] and [[Linux]].
 >
 > **[0:20](https://www.linkedin.com/learning/operating-system-forensics-24652677/memory-dump-analysis-with-volatility?u=76281980&t=20)** Let's install volatility on my Linux machine.
 >
@@ -1902,7 +1873,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (5), [[Linux]] (3), [[Python (Programming Language)|Python]] (1), next (1)
+> **Frameworks & Libraries:** [[Windows]] (5), [[Linux]] (3), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1), sudo (1), apt (1)
 > **Versions:** 2.6 (2)
 > **Definitions:** is an  (1), is a  (1)
@@ -1911,8 +1882,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Processes
-> [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/processes?u=76281980)
+#### [Processes](https://www.linkedin.com/learning/operating-system-forensics-24652677/processes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1922,7 +1892,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/operating-system-forensics-24652677/processes?u=76281980&t=13)** Type volatility --profile=Win7SP1x64
 >
-> **[0:31](https://www.linkedin.com/learning/operating-system-forensics-24652677/processes?u=76281980&t=31)** pslist -f ./Documents/windows.raw.
+> **[0:31](https://www.linkedin.com/learning/operating-system-forensics-24652677/processes?u=76281980&t=31)** pslist -f ./Documents/[[Windows]].raw.
 >
 > **[0:40](https://www.linkedin.com/learning/operating-system-forensics-24652677/processes?u=76281980&t=40)** The -- profile option lets Volatility use an appropriate profile for its analysis.
 >
@@ -1975,8 +1945,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1), - p448 (1)
 > **CLI Commands:** find (1)
 
-#### Network connections
-> [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/network-connections?u=76281980)
+#### [Network connections](https://www.linkedin.com/learning/operating-system-forensics-24652677/network-connections?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2016,8 +1985,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/challenge?u=76281980)
+#### [Challenge](https://www.linkedin.com/learning/operating-system-forensics-24652677/challenge?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2027,9 +1995,9 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/operating-system-forensics-24652677/challenge?u=76281980&t=11)** You can download it on this website.
 >
-> **[0:15](https://www.linkedin.com/learning/operating-system-forensics-24652677/challenge?u=76281980&t=15)** Your challenge is to install a Windows version on your computer and produce a process list as I showed you in my Volatility 2.6 Demo on Linux.
+> **[0:15](https://www.linkedin.com/learning/operating-system-forensics-24652677/challenge?u=76281980&t=15)** Your challenge is to install a [[Windows]] version on your computer and produce a process list as I showed you in my Volatility 2.6 Demo on [[Linux]].
 >
-> **[0:28](https://www.linkedin.com/learning/operating-system-forensics-24652677/challenge?u=76281980&t=28)** If you don't already have Python installed on your Windows PC, let's get it by visiting this [python.org](https://python.org) website.
+> **[0:28](https://www.linkedin.com/learning/operating-system-forensics-24652677/challenge?u=76281980&t=28)** If you don't already have [[Python (Programming Language)|Python]] installed on your Windows PC, let's get it by visiting this [python.org](https://python.org) website.
 >
 > **[0:40](https://www.linkedin.com/learning/operating-system-forensics-24652677/challenge?u=76281980&t=40)** After installation, type "python -V"
 >
@@ -2045,7 +2013,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Windows]] (3), [[Linux]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Windows]] (3), [[Linux]] (1)
 > **CLI Commands:** python (6)
 > **Versions:** 3.0 (3), 2.6 (1), python 3 (1), 12.5 (1)
 > **Prerequisites:** install (2)
@@ -2054,8 +2022,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (lively upbeat music) (1)
 
-#### Solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/solution?u=76281980)
+#### [Solution](https://www.linkedin.com/learning/operating-system-forensics-24652677/solution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2063,13 +2030,13 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/operating-system-forensics-24652677/solution?u=76281980&t=9)** Here is a solution.
 >
-> **[0:12](https://www.linkedin.com/learning/operating-system-forensics-24652677/solution?u=76281980&t=12)** On the Volatility 3.0 GitHub website, click on Code, and choose Download ZIP.
+> **[0:12](https://www.linkedin.com/learning/operating-system-forensics-24652677/solution?u=76281980&t=12)** On the Volatility 3.0 [[GitHub]] website, click on Code, and choose Download ZIP.
 >
 > **[0:33](https://www.linkedin.com/learning/operating-system-forensics-24652677/solution?u=76281980&t=33)** Unzip the ZIP file in your Downloads folder.
 >
 > **[0:39](https://www.linkedin.com/learning/operating-system-forensics-24652677/solution?u=76281980&t=39)** I put my files in the sub folder called volatility3-develop.
 >
-> **[0:49](https://www.linkedin.com/learning/operating-system-forensics-24652677/solution?u=76281980&t=49)** On the Windows command prompt, ensure that you're in the correct directory.
+> **[0:49](https://www.linkedin.com/learning/operating-system-forensics-24652677/solution?u=76281980&t=49)** On the [[Windows]] command prompt, ensure that you're in the correct directory.
 >
 > **[0:59](https://www.linkedin.com/learning/operating-system-forensics-24652677/solution?u=76281980&t=59)** Type pip3 install -r requirements.txt.
 >
@@ -2081,7 +2048,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/operating-system-forensics-24652677/solution?u=76281980&t=111)** Now we are ready to run our instance of volatility3.
 >
-> **[1:58](https://www.linkedin.com/learning/operating-system-forensics-24652677/solution?u=76281980&t=118)** Type python vol.py -f
+> **[1:58](https://www.linkedin.com/learning/operating-system-forensics-24652677/solution?u=76281980&t=118)** Type [[Python (Programming Language)|python]] vol.py -f
 >
 > **[2:15](https://www.linkedin.com/learning/operating-system-forensics-24652677/solution?u=76281980&t=135)** and then the location of my memory dump file, so it's under c:\Users\instructor\Downloads\windows.raw.
 >
@@ -2093,7 +2060,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (4), [[GitHub]] (1), prompt (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Windows]] (4), [[GitHub]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** unzip (1), pip3 (1), python (1)
 > **File Paths:** requirements.txt (1), vol.py (1)
 > **Env Vars:** zip (2)
@@ -2107,8 +2074,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/operating-system-forensics-24652677/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2116,7 +2082,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/operating-system-forensics-24652677/next-steps?u=76281980&t=3)** It was fun to develop it.
 >
-> **[0:05](https://www.linkedin.com/learning/operating-system-forensics-24652677/next-steps?u=76281980&t=5)** If you'd like to advance your knowledge of more core domains in digital forensics, I recommend you take my other courses such as [[[[Cybersecurity Foundations]]- Computer Forensics]], Network Forensics, and Web Forensics.
+> **[0:05](https://www.linkedin.com/learning/operating-system-forensics-24652677/next-steps?u=76281980&t=5)** If you'd like to advance your knowledge of more core domains in [[Digital Forensics]], I recommend you take my other courses such as [[[[[[Cybersecurity]] Foundations]]- [[Computer Forensics]]]], [[Network Forensics]], and Web Forensics.
 >
 > **[0:22](https://www.linkedin.com/learning/operating-system-forensics-24652677/next-steps?u=76281980&t=22)** The digital forensics field is constantly evolving and there are always new technologies to explore.
 >
@@ -2124,7 +2090,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Digital Forensics]] (3), [[Cybersecurity]] (1), [[Computer Forensics]] (1), [[Network Forensics]] (1), web (1)
+> **Frameworks & Libraries:** [[Digital Forensics]] (3), [[Cybersecurity]] (1), [[Computer Forensics]] (1), [[Network Forensics]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - thanks (1)
 

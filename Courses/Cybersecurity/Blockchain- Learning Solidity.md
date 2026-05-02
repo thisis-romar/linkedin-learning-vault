@@ -81,18 +81,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Blockchain: Learning Solidity
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/blockchain-learning-solidity?u=76281980)
+#### [Blockchain: Learning Solidity](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/blockchain-learning-solidity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/blockchain-learning-solidity?u=76281980&t=0)** - [Manny] Blockchain has become a buzzword over the past few years.
+> **[0:00](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/blockchain-learning-solidity?u=76281980&t=0)** - [Manny] [[Blockchain]] has become a buzzword over the past few years.
 >
-> **[0:04](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/blockchain-learning-solidity?u=76281980&t=4)** In this course, we're going to cover Solidity, the programming language used with Ethereum, a blockchain platform for programmers.
+> **[0:04](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/blockchain-learning-solidity?u=76281980&t=4)** In this course, we're going to cover [[Solidity]], the programming language used with [[Ethereum]], a blockchain platform for programmers.
 >
 > **[0:11](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/blockchain-learning-solidity?u=76281980&t=11)** Learning Solidity can be daunting at first, so I'll make sure to simplify its syntax as much as possible so you can get the most out of it while learning to use it.
 >
-> **[0:21](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/blockchain-learning-solidity?u=76281980&t=21)** We'll first go through some of the basics of blockchain and smart contracts.
+> **[0:21](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/blockchain-learning-solidity?u=76281980&t=21)** We'll first go through some of the basics of blockchain and [[Smart Contracts]].
 >
 > **[0:25](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/blockchain-learning-solidity?u=76281980&t=25)** Then we'll go through Solidity's foundations and basic syntax to give you solid footing.
 >
@@ -104,26 +103,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Solidity]] (5), [[Blockchain]] (4), [[Programming]] (2), [[Ethereum]] (1), [[Smart Contracts]] (1)
+> **Frameworks & Libraries:** [[Solidity]] (5), [[Blockchain]] (4), [[Ethereum]] (1), [[Smart Contracts]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [manny] (1)
 
-#### Course prerequisites
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/course-prerequisites?u=76281980)
+#### [Course prerequisites](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/course-prerequisites?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/course-prerequisites?u=76281980&t=0)** - Being an introduction to Solidity, you don't need to have any prior experience with the language.
+> **[0:00](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/course-prerequisites?u=76281980&t=0)** - Being an introduction to [[Solidity]], you don't need to have any prior experience with the language.
 >
-> **[0:05](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/course-prerequisites?u=76281980&t=5)** However, having some experience using blockchain or at least understanding the basics of what blockchain is and how it works will help you.
+> **[0:05](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/course-prerequisites?u=76281980&t=5)** However, having some experience using [[Blockchain]] or at least understanding the basics of what blockchain is and how it works will help you.
 >
-> **[0:14](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/course-prerequisites?u=76281980&t=14)** Also, some experience with Ethereum may help, but if not, no problem.
+> **[0:14](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/course-prerequisites?u=76281980&t=14)** Also, some experience with [[Ethereum]] may help, but if not, no problem.
 >
 > **[0:20](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/course-prerequisites?u=76281980&t=20)** Think of this course as the basis of the language to be able to program decentralized apps later.
 >
-> **[0:25](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/course-prerequisites?u=76281980&t=25)** You can develop with Solidity on Mac, Windows, or Linux, so the environment you use won't have any impact on learning the language, and in most cases, you can use the web-based Remix environment, which we'll explore later on.
+> **[0:25](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/course-prerequisites?u=76281980&t=25)** You can develop with Solidity on Mac, [[Windows]], or [[Linux]], so the environment you use won't have any impact on learning the language, and in most cases, you can use the web-based [[Remix]] environment, which we'll explore later on.
 
 > [!info]- Semantic Content
 >
@@ -135,38 +133,37 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to Solidity
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/introduction-to-solidity?u=76281980)
+#### [Introduction to Solidity](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/introduction-to-solidity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/introduction-to-solidity?u=76281980&t=0)** - [Instructor] Solidity is a high-level language inspired by Python, C++, and JavaScript.
+> **[0:00](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/introduction-to-solidity?u=76281980&t=0)** - [Instructor] [[Solidity]] is a high-level language inspired by [[Python (Programming Language)|Python]], C++, and [[JavaScript]].
 >
 > **[0:06](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/introduction-to-solidity?u=76281980&t=6)** So if you've had some experience with any of these languages, you'll have a head start and feel right at home with Solidity.
 >
-> **[0:13](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/introduction-to-solidity?u=76281980&t=13)** It is a language aimed at building smart contracts of any kind.
+> **[0:13](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/introduction-to-solidity?u=76281980&t=13)** It is a language aimed at building [[Smart Contracts]] of any kind.
 >
 > **[0:17](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/introduction-to-solidity?u=76281980&t=17)** As we go through the syntax, you'll have several examples of what we can build with Solidity.
 >
-> **[0:22](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/introduction-to-solidity?u=76281980&t=22)** If you want some examples, do a quick search on Google for dApp like so.
+> **[0:22](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/introduction-to-solidity?u=76281980&t=22)** If you want some examples, do a quick search on [[Google]] for dApp like so.
 >
 > **[0:27](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/introduction-to-solidity?u=76281980&t=27)** So you go on Google.
 >
-> **[0:28](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/introduction-to-solidity?u=76281980&t=28)** You can do either Solidity apps or D-A-P-P for dApp (keyboard clicking) with the word example.
+> **[0:28](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/introduction-to-solidity?u=76281980&t=28)** You can do either Solidity apps or D-A-P-P for dApp (keyboard clicking) with the [[Microsoft Word|word]] example.
 >
 > **[0:42](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/introduction-to-solidity?u=76281980&t=42)** And you can go and find a few examples.
 >
-> **[0:45](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/introduction-to-solidity?u=76281980&t=45)** I know there's a lot on GitHub.
+> **[0:45](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/introduction-to-solidity?u=76281980&t=45)** I know there's a lot on [[GitHub]].
 >
 > **[0:47](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/introduction-to-solidity?u=76281980&t=47)** Take a look at these examples.
 >
 > **[0:49](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/introduction-to-solidity?u=76281980&t=49)** If you ever wonder what dApp stands for, it is decentralized application, a dApp.
 >
-> **[0:55](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/introduction-to-solidity?u=76281980&t=55)** So in other words, Ethereum is the platform to build dApp, and Solidity is the language, like we're seeing here.
+> **[0:55](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/introduction-to-solidity?u=76281980&t=55)** So in other words, [[Ethereum]] is the platform to build dApp, and Solidity is the language, like we're seeing here.
 >
 > **[1:03](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/introduction-to-solidity?u=76281980&t=63)** Solidity supports types, inheritance, and libraries and aimed at the Ethereum Virtual Machine, or EVM, as many call it.
 >
-> **[1:12](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/introduction-to-solidity?u=76281980&t=72)** You can install a compiler for Mac, Windows, or Linux, or even try it on the web with Remix.
+> **[1:12](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/introduction-to-solidity?u=76281980&t=72)** You can install a compiler for Mac, [[Windows]], or [[Linux]], or even try it on the web with [[Remix]].
 >
 > **[1:18](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/introduction-to-solidity?u=76281980&t=78)** So for example, if you want to see what are the compilers, you can go to Install and follow the instructions here.
 >
@@ -188,7 +185,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Solidity]] (9), [[Search]] (3), [[Google]] (3), [[Ethereum]] (2), [[Remix]] (2)
+> **Frameworks & Libraries:** [[Solidity]] (9), [[Google]] (3), [[Ethereum]] (2), [[Remix]] (2), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** dapp (8)
 > **Prerequisites:** install (6)
 > **Tools:** visual studio (2), github (1), vs code (1), atom (1)
@@ -197,8 +194,7 @@ created: 2026-05-02
 > **CLI Commands:** python (1), find (1)
 > **Env Vars:** evm (1)
 
-#### Introduction to smart contracts
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/introduction-to-smart-contracts?u=76281980)
+#### [Introduction to smart contracts](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/introduction-to-smart-contracts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -218,11 +214,11 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/introduction-to-smart-contracts?u=76281980&t=45)** The smart contract or the code would handle your affairs without the need of a middleman.
 >
-> **[0:51](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/introduction-to-smart-contracts?u=76281980&t=51)** So you deposit your inheritance into the smart contract, most likely into a cryptocurrency, and until your condition of death and any other conditions are met, will the contract execute.
+> **[0:51](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/introduction-to-smart-contracts?u=76281980&t=51)** So you deposit your inheritance into the smart contract, most likely into a [[Cryptocurrency]], and until your condition of death and any other conditions are met, will the contract execute.
 >
 > **[1:04](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/introduction-to-smart-contracts?u=76281980&t=64)** This, in its simplest form, constitutes a smart contract, and anywhere a transaction needs to happen in between two parties, you could use a smart contract, putting you in full control of these transactions and automating it.
 >
-> **[1:19](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/introduction-to-smart-contracts?u=76281980&t=79)** Use in examples of smart contracts are growing rapidly daily, and all you need to do to see the examples, go back to the list of dApps I showed you earlier.
+> **[1:19](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/introduction-to-smart-contracts?u=76281980&t=79)** Use in examples of [[Smart Contracts]] are growing rapidly daily, and all you need to do to see the examples, go back to the list of dApps I showed you earlier.
 
 > [!info]- Semantic Content
 >
@@ -232,18 +228,17 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### The Ethereum virtual machine
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/the-ethereum-virtual-machine?u=76281980)
+#### [The Ethereum virtual machine](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/the-ethereum-virtual-machine?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/the-ethereum-virtual-machine?u=76281980&t=0)** - [Instructor] Ethereum itself is a programmable blockchain, versus having a specific use, like Bitcoin, therefore, provides a powerful environment for any programmers to build really cool stuff with the smart contract paradigm we explained earlier.
+> **[0:00](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/the-ethereum-virtual-machine?u=76281980&t=0)** - [Instructor] [[Ethereum]] itself is a programmable [[Blockchain]], versus having a specific use, like Bitcoin, therefore, provides a powerful environment for any programmers to build really cool stuff with the smart contract paradigm we explained earlier.
 >
 > **[0:16](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/the-ethereum-virtual-machine?u=76281980&t=16)** Like any blockchain environment, Ethereum offers a peer-to-peer network, so transactions are safe and proven across the network.
 >
 > **[0:24](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/the-ethereum-virtual-machine?u=76281980&t=24)** At the heart of this system is the EVM, or the Ethereum virtual Machine.
 >
-> **[0:31](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/the-ethereum-virtual-machine?u=76281980&t=31)** This is where all your smart contracts are executed.
+> **[0:31](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/the-ethereum-virtual-machine?u=76281980&t=31)** This is where all your [[Smart Contracts]] are executed.
 >
 > **[0:34](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/the-ethereum-virtual-machine?u=76281980&t=34)** It is completely isolated and has no access to file systems or processes.
 >
@@ -255,7 +250,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/the-ethereum-virtual-machine?u=76281980&t=66)** The EVM executes the transactions.
 >
-> **[1:10](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/the-ethereum-virtual-machine?u=76281980&t=70)** Solidity is the language to program smart contracts, commonly called dApp.
+> **[1:10](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/the-ethereum-virtual-machine?u=76281980&t=70)** [[Solidity]] is the language to program smart contracts, commonly called dApp.
 >
 > **[1:15](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/the-ethereum-virtual-machine?u=76281980&t=75)** And finally, there is you, the programmer, who can use all these pieces to create your own application, leveraging this peer-to-peer network and programming language.
 >
@@ -265,19 +260,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethereum]] (6), [[Blockchain]] (2), [[Smart Contracts]] (2), [[Solidity]] (2), node (1)
+> **Frameworks & Libraries:** [[Ethereum]] (6), [[Blockchain]] (2), [[Smart Contracts]] (2), [[Solidity]] (2)
 > **Env Vars:** evm (3)
 > **CLI Commands:** node (1)
 > **Code Identifiers:** dapp (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Installing the Solidity compiler
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/installing-the-solidity-compiler?u=76281980)
+#### [Installing the Solidity compiler](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/installing-the-solidity-compiler?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/installing-the-solidity-compiler?u=76281980&t=0)** - [Instructor] Although we won't use the compiler in this course, as we'll focus on the code examples with VS Code, you can either use Remix, which is an online environment, or still use the compiler.
+> **[0:00](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/installing-the-solidity-compiler?u=76281980&t=0)** - [Instructor] Although we won't use the compiler in this course, as we'll focus on the code examples with VS Code, you can either use [[Remix]], which is an online environment, or still use the compiler.
 >
 > **[0:12](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/installing-the-solidity-compiler?u=76281980&t=12)** In any case, go to install.
 >
@@ -297,9 +291,9 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/installing-the-solidity-compiler?u=76281980&t=55)** Docker, in my opinion, if you're familiar with it, is the simplest way to install and get started with a local environment.
 >
-> **[1:03](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/installing-the-solidity-compiler?u=76281980&t=63)** Also, I would avoid the node npm install, 'cause at this point it doesn't include all of Solidity's feature.
+> **[1:03](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/installing-the-solidity-compiler?u=76281980&t=63)** Also, I would avoid the node [[npm]] install, 'cause at this point it doesn't include all of [[Solidity]]'s feature.
 >
-> **[1:11](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/installing-the-solidity-compiler?u=76281980&t=71)** Otherwise, if you'd like to control what you install and not quite familiar with Docker, make sure you visit the Prerequisites section in each of the operating system, for example, Linux, macOS, and go through all the instructions step-by-step.
+> **[1:11](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/installing-the-solidity-compiler?u=76281980&t=71)** Otherwise, if you'd like to control what you install and not quite familiar with Docker, make sure you visit the Prerequisites section in each of the operating system, for example, [[Linux]], macOS, and go through all the instructions step-by-step.
 >
 > **[1:27](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/installing-the-solidity-compiler?u=76281980&t=87)** Or if you want to download binaries, you can do that too.
 >
@@ -309,7 +303,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Remix]] (3), node (1), [[npm]] (1), [[Solidity]] (1), feature (1)
+> **Frameworks & Libraries:** [[Remix]] (3), [[npm]] (1), [[Solidity]] (1), [[Linux]] (1)
 > **CLI Commands:** docker (3), make (2), node (1), npm (1)
 > **Prerequisites:** install (4), getting started (1)
 > **UI Navigation:** go to (1), scroll down (1)
@@ -323,12 +317,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Solidity syntax basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/solidity-syntax-basics?u=76281980)
+#### [Solidity syntax basics](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/solidity-syntax-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/solidity-syntax-basics?u=76281980&t=0)** - [Instructor] So let's get started with our first syntax in Solidity and show you the base layout and syntax of a file.
+> **[0:00](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/solidity-syntax-basics?u=76281980&t=0)** - [Instructor] So let's get started with our first syntax in [[Solidity]] and show you the base layout and syntax of a file.
 >
 > **[0:08](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/solidity-syntax-basics?u=76281980&t=8)** So I'm back in VSCode, and again, if you don't have the extension, please make sure that you do install it so you can have syntax check and all these nice features that comes with this package here.
 >
@@ -350,7 +343,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/solidity-syntax-basics?u=76281980&t=95)** And then you need to write the version number.
 >
-> **[1:37](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/solidity-syntax-basics?u=76281980&t=97)** So for this one, what we're going to do is follow what they do in Remix and import in between 8.2 or nine, like so.
+> **[1:37](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/solidity-syntax-basics?u=76281980&t=97)** So for this one, what we're going to do is follow what they do in [[Remix]] and import in between 8.2 or nine, like so.
 >
 > **[1:52](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/solidity-syntax-basics?u=76281980&t=112)** So 0.90, like so, and then semicolon.
 >
@@ -364,7 +357,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/solidity-syntax-basics?u=76281980&t=138)** So you can import a file name like so.
 >
-> **[2:23](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/solidity-syntax-basics?u=76281980&t=143)** It's very similar to importing in JavaScript or any of the C-based language.
+> **[2:23](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/solidity-syntax-basics?u=76281980&t=143)** It's very similar to importing in [[JavaScript]] or any of the C-based language.
 >
 > **[2:29](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/solidity-syntax-basics?u=76281980&t=149)** You can import this way, too, by doing import as symbol name from file name.
 >
@@ -408,7 +401,7 @@ created: 2026-05-02
 >
 > **[4:47](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/solidity-syntax-basics?u=76281980&t=287)** Okay.
 >
-> **[4:49](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/solidity-syntax-basics?u=76281980&t=289)** And this is a reserved word, so I'm going to call it alies.
+> **[4:49](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/solidity-syntax-basics?u=76281980&t=289)** And this is a reserved [[Microsoft Word|word]], so I'm going to call it alies.
 >
 > **[4:58](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/solidity-syntax-basics?u=76281980&t=298)** And it gives me... Yeah, file name is imported multiple times.
 >
@@ -426,7 +419,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Solidity]] (6), [[Remix]] (1), [[JavaScript]] (1), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Solidity]] (6), [[Remix]] (1), [[JavaScript]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** dapp (2), sol (1), fiy (1)
 > **CLI Commands:** make (2)
 > **Versions:** 8.2 (1), 0.90 (1)
@@ -435,12 +428,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 
-#### Basic syntax of a contract
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/basic-syntax-of-a-contract?u=76281980)
+#### [Basic syntax of a contract](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/basic-syntax-of-a-contract?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/basic-syntax-of-a-contract?u=76281980&t=0)** - [Instructor] Contracts in Solidity are very similar to classes in object-oriented languages.
+> **[0:00](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/basic-syntax-of-a-contract?u=76281980&t=0)** - [Instructor] Contracts in [[Solidity]] are very similar to classes in object-oriented languages.
 >
 > **[0:06](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/basic-syntax-of-a-contract?u=76281980&t=6)** They can contain state variables, functions, events, struct types, and enum types.
 >
@@ -508,7 +500,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/basic-syntax-of-a-contract?u=76281980&t=174)** So now that we have a conditional to check, we can write a function and this is what we're going to do next.
 >
-> **[3:03](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/basic-syntax-of-a-contract?u=76281980&t=183)** And functions in Solidity looks very, very similar to JavaScript.
+> **[3:03](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/basic-syntax-of-a-contract?u=76281980&t=183)** And functions in Solidity looks very, very similar to [[JavaScript]].
 >
 > **[3:08](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/basic-syntax-of-a-contract?u=76281980&t=188)** So you'll recognize a lot of the things from JavaScript here.
 >
@@ -550,7 +542,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Solidity]] (3), data (3), [[JavaScript]] (2), next (1)
+> **Frameworks & Libraries:** [[Solidity]] (3), [[JavaScript]] (2)
 > **Code Identifiers:** storedata (8), onlydata (1), storedate (1)
 > **Definitions:** is a  (4), means that (1), is an  (1)
 > **CLI Commands:** find (1), make (1)
@@ -559,12 +551,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Analogies:** similar to (1)
 
-#### Types in Solidity
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/types-in-solidity?u=76281980)
+#### [Types in Solidity](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/types-in-solidity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/types-in-solidity?u=76281980&t=0)** - [Instructor] Solidity is a statically typed language.
+> **[0:00](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/types-in-solidity?u=76281980&t=0)** - [Instructor] [[Solidity]] is a statically typed language.
 >
 > **[0:03](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/types-in-solidity?u=76281980&t=3)** In other words, each variable types must be specified.
 >
@@ -606,7 +597,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/types-in-solidity?u=76281980&t=119)** In this case, I would say, false.
 >
-> **[2:03](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/types-in-solidity?u=76281980&t=123)** So if you're very familiar with JavaScript, with C, C++, any of these languages, Java, when you're going to look at this, it's going to be very, very similar, and you're going to be quick to assimilate all the syntax from Solidity.
+> **[2:03](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/types-in-solidity?u=76281980&t=123)** So if you're very familiar with [[JavaScript]], with C, C++, any of these languages, [[Java]], when you're going to look at this, it's going to be very, very similar, and you're going to be quick to assimilate all the syntax from Solidity.
 >
 > **[2:18](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/types-in-solidity?u=76281980&t=138)** Now this is something that is particular for Solidity, an address.
 >
@@ -620,7 +611,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/types-in-solidity?u=76281980&t=171)** So you can change the code and take a look at the documentation to write the exact code, I'm just giving you an example.
 >
-> **[2:56](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/types-in-solidity?u=76281980&t=176)** Usually the address is procured by Ethereum.
+> **[2:56](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/types-in-solidity?u=76281980&t=176)** Usually the address is procured by [[Ethereum]].
 >
 > **[2:59](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/types-in-solidity?u=76281980&t=179)** So, you will see what is the actual value.
 >
@@ -678,7 +669,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Solidity]] (4), [[JavaScript]] (4), [[Java]] (1), [[Ethereum]] (1), next (1)
+> **Frameworks & Libraries:** [[Solidity]] (4), [[JavaScript]] (4), [[Java]] (1), [[Ethereum]] (1)
 > **Analogies:** for example (6), similar to (2), such as (1)
 > **Definitions:** is a  (5), in other words (1), is called (1)
 > **Code Identifiers:** atrueorfalsevalue (1), walletaddress (1), usertype (1)
@@ -687,12 +678,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Tools:** vs code (1)
 
-#### Units and global variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/units-and-global-variables?u=76281980)
+#### [Units and global variables](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/units-and-global-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/units-and-global-variables?u=76281980&t=0)** - [Instructor] There are a few globally available variables and units in Solidity.
+> **[0:00](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/units-and-global-variables?u=76281980&t=0)** - [Instructor] There are a few globally available variables and units in [[Solidity]].
 >
 > **[0:05](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/units-and-global-variables?u=76281980&t=5)** So let's explore a few of them.
 >
@@ -736,7 +726,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/units-and-global-variables?u=76281980&t=121)** But you would have to write gwei here.
 >
-> **[2:05](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/units-and-global-variables?u=76281980&t=125)** So these are the currencies that you have to use when there's transactions inside of the Ethereum.
+> **[2:05](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/units-and-global-variables?u=76281980&t=125)** So these are the currencies that you have to use when there's transactions inside of the [[Ethereum]].
 >
 > **[2:13](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/units-and-global-variables?u=76281980&t=133)** But these are reserve variables.
 >
@@ -798,7 +788,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Solidity]] (1), [[Ethereum]] (1), next (1)
+> **Frameworks & Libraries:** [[Solidity]] (1), [[Ethereum]] (1)
 > **Analogies:** for example (3)
 > **Code Identifiers:** isequal (1), istime (1)
 > **Env Vars:** fyi (2)
@@ -807,12 +797,11 @@ created: 2026-05-02
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Other special variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/other-special-variables?u=76281980)
+#### [Other special variables](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/other-special-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/other-special-variables?u=76281980&t=0)** - [Instructor] In Solidity, there are a few special functions and variables you can use, such as messages, block, and transaction.
+> **[0:00](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/other-special-variables?u=76281980&t=0)** - [Instructor] In [[Solidity]], there are a few special functions and variables you can use, such as messages, block, and transaction.
 >
 > **[0:07](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/other-special-variables?u=76281980&t=7)** In this case, these are variables but we'll focus on the functions on the next video.
 >
@@ -826,7 +815,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/other-special-variables?u=76281980&t=31)** Let's go ahead.
 >
-> **[0:32](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/other-special-variables?u=76281980&t=32)** So, the first thing is block and this is part of the blockchain, FYI.
+> **[0:32](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/other-special-variables?u=76281980&t=32)** So, the first thing is block and this is part of the [[Blockchain]], FYI.
 >
 > **[0:37](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/other-special-variables?u=76281980&t=37)** These are variables that are part of the blockchain.
 >
@@ -866,7 +855,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Solidity]] (3), next (2), [[Blockchain]] (2), data (1)
+> **Frameworks & Libraries:** [[Solidity]] (3), [[Blockchain]] (2)
 > **Analogies:** for example (3), such as (1)
 > **Cross-References:** next video (1), go back to (1)
 > **Env Vars:** fyi (1)
@@ -874,12 +863,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Functions overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/functions-overview?u=76281980)
+#### [Functions overview](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/functions-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/functions-overview?u=76281980&t=0)** - [Instructor] Let's take a look at the basic syntax of a function in Solidity.
+> **[0:00](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/functions-overview?u=76281980&t=0)** - [Instructor] Let's take a look at the basic syntax of a function in [[Solidity]].
 >
 > **[0:05](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/functions-overview?u=76281980&t=5)** In Solidity, your functions can take input as parameters like most programming languages, but where it differs from most is you can have functions return multiple outputs.
 >
@@ -891,7 +879,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/functions-overview?u=76281980&t=25)** So I'm going to start by doing the keyword function, like so, and this is very familiar to experienced developers.
 >
-> **[0:35](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/functions-overview?u=76281980&t=35)** This is the way it was in JavaScript.
+> **[0:35](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/functions-overview?u=76281980&t=35)** This is the way it was in [[JavaScript]].
 >
 > **[0:37](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/functions-overview?u=76281980&t=37)** So let's say you want to call this function calcs.
 >
@@ -955,14 +943,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), [[Solidity]] (3), [[Programming]] (1), [[JavaScript]] (1), next (1)
+> **Frameworks & Libraries:** [[Solidity]] (3), [[JavaScript]] (1)
 > **Code Identifiers:** o_sum (3), o_product (1)
 > **Cross-References:** next video (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Operators in Solidity
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/operators-in-solidity?u=76281980)
+#### [Operators in Solidity](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/operators-in-solidity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1032,7 +1019,7 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/operators-in-solidity?u=76281980&t=248)** This basically Bitwise means that you are working at a level that involves individual bits which are the smallest units of data in a computing system.
 >
-> **[4:20](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/operators-in-solidity?u=76281980&t=260)** So you have to do this when you do contracts and work with solidity and Coinbase and things like that.
+> **[4:20](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/operators-in-solidity?u=76281980&t=260)** So you have to do this when you do contracts and work with [[Solidity]] and Coinbase and things like that.
 >
 > **[4:25](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/operators-in-solidity?u=76281980&t=265)** So be familiar with the Bitwise operator if you plan on doing work with Bitwise solidity and DAPs and so on and so forth.
 >
@@ -1042,7 +1029,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Solidity]] (2), [[Programming]] (1), web (1), data (1)
+> **Frameworks & Libraries:** [[Solidity]] (2)
 > **Definitions:** is a  (4), is an  (1), means that (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** for example (2), similar to (1)
@@ -1051,12 +1038,11 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
 
-#### Conditionals in Solidity
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/conditionals-in-solidity?u=76281980)
+#### [Conditionals in Solidity](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/conditionals-in-solidity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/conditionals-in-solidity?u=76281980&t=0)** - [Instructor] If you have experience in other languages this will be the easiest part to learn, as Solidity has your typical conditionals: if, for loop, et cetera.
+> **[0:00](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/conditionals-in-solidity?u=76281980&t=0)** - [Instructor] If you have experience in other languages this will be the easiest part to learn, as [[Solidity]] has your typical conditionals: if, for loop, et cetera.
 >
 > **[0:10](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/conditionals-in-solidity?u=76281980&t=10)** The only conditional not available that you may have seen in other languages are switch statements and go to.
 >
@@ -1064,7 +1050,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/conditionals-in-solidity?u=76281980&t=19)** Again, I'm going to clean my screen right here and then I will start with an if statement.
 >
-> **[0:28](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/conditionals-in-solidity?u=76281980&t=28)** (keyboard clicks) And it's very familiar to JavaScript people or any other programming language, it's very, very familiar.
+> **[0:28](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/conditionals-in-solidity?u=76281980&t=28)** (keyboard clicks) And it's very familiar to [[JavaScript]] people or any other programming language, it's very, very familiar.
 >
 > **[0:39](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/conditionals-in-solidity?u=76281980&t=39)** So let's say if a equals 2, execute the statement,
 >
@@ -1116,7 +1102,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Solidity]] (1), [[JavaScript]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Solidity]] (1), [[JavaScript]] (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Analogies:** for example (2)
 > **Cross-References:** next video (1)
@@ -1128,24 +1114,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Set the initial variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/set-the-initial-variables?u=76281980)
+#### [Set the initial variables](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/set-the-initial-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/set-the-initial-variables?u=76281980&t=0)** - [Instructor] Okay, so now that we've got a good overview of the Solidity syntax, let's create a simple contract to put the syntax to work.
+> **[0:00](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/set-the-initial-variables?u=76281980&t=0)** - [Instructor] Okay, so now that we've got a good overview of the [[Solidity]] syntax, let's create a simple contract to put the syntax to work.
 >
 > **[0:08](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/set-the-initial-variables?u=76281980&t=8)** We'll do this over the remaining of this chapter and what we're going to do, you have two choices right now.
 >
 > **[0:14](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/set-the-initial-variables?u=76281980&t=14)** If you set up the compiler inside of your computer and you're working off VS Code, feel free to continue in VS Code.
 >
-> **[0:21](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/set-the-initial-variables?u=76281980&t=21)** I'm going to go over to Remix where I can actually test the code when I'm done.
+> **[0:21](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/set-the-initial-variables?u=76281980&t=21)** I'm going to go over to [[Remix]] where I can actually test the code when I'm done.
 >
 > **[0:27](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/set-the-initial-variables?u=76281980&t=27)** So let's go ahead and just close VS Code.
 >
 > **[0:30](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/set-the-initial-variables?u=76281980&t=30)** And now I'm going to go to Remix.
 >
-> **[0:33](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/set-the-initial-variables?u=76281980&t=33)** If you don't know how to go to Remix, you actually go to Solidity and you can search directly in Google for Solidity Remix and then click on Remix Ethereum IDE.
+> **[0:33](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/set-the-initial-variables?u=76281980&t=33)** If you don't know how to go to Remix, you actually go to Solidity and you can search directly in [[Google]] for Solidity Remix and then click on Remix [[Ethereum]] IDE.
 >
 > **[0:45](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/set-the-initial-variables?u=76281980&t=45)** And once you're here, you have two choices.
 >
@@ -1193,7 +1178,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/set-the-initial-variables?u=76281980&t=215)** Now we're going to need to create a constructor to have all these things properly set inside of our class.
 >
-> **[3:43](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/set-the-initial-variables?u=76281980&t=223)** So if you're familiar with constructors they're very similar to the ones in a class in JavaScript or any other languages for that matter.
+> **[3:43](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/set-the-initial-variables?u=76281980&t=223)** So if you're familiar with constructors they're very similar to the ones in a class in [[JavaScript]] or any other languages for that matter.
 >
 > **[3:54](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/set-the-initial-variables?u=76281980&t=234)** And _recipient.
 >
@@ -1215,7 +1200,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Solidity]] (5), [[Remix]] (5), [[Search]] (1), [[Google]] (1), [[Ethereum]] (1)
+> **Frameworks & Libraries:** [[Solidity]] (5), [[Remix]] (5), [[Google]] (1), [[Ethereum]] (1), [[JavaScript]] (1)
 > **UI Navigation:** go to (4), click on (1)
 > **Tools:** vs code (3)
 > **CLI Commands:** make (2)
@@ -1224,8 +1209,7 @@ created: 2026-05-02
 > **Cross-References:** we discussed (1)
 > **Documentation:** the documentation (1)
 
-#### Add your modifiers
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/add-your-modifiers?u=76281980)
+#### [Add your modifiers](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/add-your-modifiers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1295,7 +1279,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4)
 > **Cross-References:** in the next (1), go back to (1), next video (1)
 > **Code Identifiers:** onlyowner (1), onlyrecipient (1)
 > **Env Vars:** fyi (1)
@@ -1303,8 +1286,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Finalize the functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/finalize-the-functions?u=76281980)
+#### [Finalize the functions](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/finalize-the-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1378,19 +1360,18 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/finalize-the-functions?u=76281980&t=243)** So if you take a look at it and you don't see any red lines, or if you see a red line actually, check what is the message and rewrite your code or take a look at the exercise files to make sure that your code is written exactly like us.
 >
-> **[4:17](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/finalize-the-functions?u=76281980&t=257)** And once you've checked these things and everything is good and dandy, let's move on to the next video where we actually test our contract in Remix.
+> **[4:17](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/finalize-the-functions?u=76281980&t=257)** And once you've checked these things and everything is good and dandy, let's move on to the next video where we actually test our contract in [[Remix]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Remix]] (1)
+> **Frameworks & Libraries:** [[Remix]] (1)
 > **Code Identifiers:** declaredeceased (2), onlyowner (1), isownerdeceased (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** next video (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Test your contract
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/test-your-contract?u=76281980)
+#### [Test your contract](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/test-your-contract?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1488,7 +1469,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/test-your-contract?u=76281980&t=221)** There's more complex contracts that you can build.
 >
-> **[3:44](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/test-your-contract?u=76281980&t=224)** And there's like complete apps that you can build with Solidity, but this is a quick example to show you from code to an actual contract that works how it works.
+> **[3:44](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/test-your-contract?u=76281980&t=224)** And there's like complete apps that you can build with [[Solidity]], but this is a quick example to show you from code to an actual contract that works how it works.
 >
 > **[3:56](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/test-your-contract?u=76281980&t=236)** So, keep playing with it, change the code, deploy again.
 >
@@ -1498,7 +1479,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Solidity]] (1), next (1)
+> **Frameworks & Libraries:** [[Solidity]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** go back to (1)
 > **Documentation:** the documentation (1)
@@ -1512,12 +1493,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Review the style guide
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/review-the-style-guide?u=76281980)
+#### [Review the style guide](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/review-the-style-guide?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/review-the-style-guide?u=76281980&t=0)** - [Instructor] There are like, in any other languages, coding conventions for Solidity, and let's briefly review the major ones.
+> **[0:00](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/review-the-style-guide?u=76281980&t=0)** - [Instructor] There are like, in any other languages, coding conventions for [[Solidity]], and let's briefly review the major ones.
 >
 > **[0:08](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/review-the-style-guide?u=76281980&t=8)** In general, you want to use four spaces, and spaces are preferred over indentations.
 >
@@ -1539,18 +1519,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Solidity]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Solidity]] (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** scroll down (1), click on (1)
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
 
-#### Documentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/documentation?u=76281980)
+#### [Documentation](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/documentation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/documentation?u=76281980&t=0)** - [Instructor] Solidity is a language that constantly evolves.
+> **[0:00](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/documentation?u=76281980&t=0)** - [Instructor] [[Solidity]] is a language that constantly evolves.
 >
 > **[0:04](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/documentation?u=76281980&t=4)** Therefore, I highly recommend to always come back to the documentation when working with this language.
 >
@@ -1572,7 +1551,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/documentation?u=76281980&t=63)** So you can scroll and find some common patterns in here.
 >
-> **[1:09](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/documentation?u=76281980&t=69)** And, finally, explore the Ethereum documentation.
+> **[1:09](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/documentation?u=76281980&t=69)** And, finally, explore the [[Ethereum]] documentation.
 >
 > **[1:14](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/documentation?u=76281980&t=74)** And, finally, explore the Ethereum docs so you can find them by doing Ethereum docs.
 >
@@ -1586,7 +1565,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethereum]] (5), [[Solidity]] (4), [[Security]] (2)
+> **Frameworks & Libraries:** [[Ethereum]] (5), [[Solidity]] (4)
 > **CLI Commands:** find (3)
 > **Documentation:** the documentation (1), the docs (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -1598,16 +1577,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continue learning Solidity
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/continue-learning-solidity?u=76281980)
+#### [Continue learning Solidity](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/continue-learning-solidity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/continue-learning-solidity?u=76281980&t=0)** - [Instructor] Thanks for joining me in this first step in learning Solidity and its syntax.
+> **[0:00](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/continue-learning-solidity?u=76281980&t=0)** - [Instructor] Thanks for joining me in this first step in learning [[Solidity]] and its syntax.
 >
 > **[0:06](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/continue-learning-solidity?u=76281980&t=6)** You could continue exploring Solidity syntax by going through the language documentation and finding other areas to practice, such as common patterns and more.
 >
-> **[0:15](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/continue-learning-solidity?u=76281980&t=15)** Also, you could go through any of our courses on the Ethereum or blockchain development and create your own dapp.
+> **[0:15](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/continue-learning-solidity?u=76281980&t=15)** Also, you could go through any of our courses on the [[Ethereum]] or [[Blockchain]] development and create your own dapp.
 >
 > **[0:23](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/continue-learning-solidity?u=76281980&t=23)** We have a few courses to help you with that in our library.
 >

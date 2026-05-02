@@ -88,18 +88,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Integrating databases with an application
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-application-development/integrating-databases-with-an-application?u=76281980)
+#### [Integrating databases with an application](https://www.linkedin.com/learning/database-foundations-application-development/integrating-databases-with-an-application?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-application-development/integrating-databases-with-an-application?u=76281980&t=0)** - [Adam] Many technology courses focus on individual components of a software development stack database, programming language, interface design.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-application-development/integrating-databases-with-an-application?u=76281980&t=0)** - [Adam] Many technology courses focus on individual components of a [[Software Development]] stack database, programming language, interface design.
 >
 > **[0:09](https://www.linkedin.com/learning/database-foundations-application-development/integrating-databases-with-an-application?u=76281980&t=9)** The combination of multiple technologies, each contributing a piece to the whole application, is where everything comes together.
 >
-> **[0:17](https://www.linkedin.com/learning/database-foundations-application-development/integrating-databases-with-an-application?u=76281980&t=17)** Hi, I'm Adam Wilbert, a database consultant and trainer with over a decade of experience introducing people to the world of relational databases.
+> **[0:17](https://www.linkedin.com/learning/database-foundations-application-development/integrating-databases-with-an-application?u=76281980&t=17)** Hi, I'm Adam Wilbert, a database consultant and trainer with over a decade of experience introducing people to the world of [[Relational Databases]].
 >
-> **[0:27](https://www.linkedin.com/learning/database-foundations-application-development/integrating-databases-with-an-application?u=76281980&t=27)** in this fifth and final course in my LinkedIn Learning Database Foundations series, we're going to take what you've learned about databases and explore how these building blocks fit together with other technologies.
+> **[0:27](https://www.linkedin.com/learning/database-foundations-application-development/integrating-databases-with-an-application?u=76281980&t=27)** in this fifth and final course in my [[LinkedIn]] Learning Database Foundations series, we're going to take what you've learned about [[Databases]] and explore how these building blocks fit together with other technologies.
 >
 > **[0:39](https://www.linkedin.com/learning/database-foundations-application-development/integrating-databases-with-an-application?u=76281980&t=39)** We'll take two different approaches to connecting a database server with a web server and see the components that allow you to build custom interfaces for your data that are accessible from any browser.
 >
@@ -107,31 +106,30 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), [[Software Development]] (1), [[Programming]] (1), application (1), [[Relational Databases]] (1)
+> **Frameworks & Libraries:** [[Software Development]] (1), [[Relational Databases]] (1), [[LinkedIn]] (1), [[Databases]] (1)
 > **Speakers:** - [adam] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-application-development/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/database-foundations-application-development/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/database-foundations-application-development/what-you-should-know?u=76281980&t=0)** - [Instructor] In this course, we're going to take a look at a couple of examples of how you can integrate a database server with a web server in order to provide end users a way to interact with a database over the internet.
 >
-> **[0:13](https://www.linkedin.com/learning/database-foundations-application-development/what-you-should-know?u=76281980&t=13)** To do this, we're going to add in some new technologies to what we've already learned about relational databases over the previous courses in this series.
+> **[0:13](https://www.linkedin.com/learning/database-foundations-application-development/what-you-should-know?u=76281980&t=13)** To do this, we're going to add in some new technologies to what we've already learned about [[Relational Databases]] over the previous courses in this series.
 >
-> **[0:22](https://www.linkedin.com/learning/database-foundations-application-development/what-you-should-know?u=76281980&t=22)** Namely, we're going to be working with HTML, CSS, PHP, and [ASP.NET](https://ASP.NET).
+> **[0:22](https://www.linkedin.com/learning/database-foundations-application-development/what-you-should-know?u=76281980&t=22)** Namely, we're going to be working with [[HTML]], CSS, [[PHP]], and [[[ASP.NET]]](https://ASP.NET).
 >
 > **[0:29](https://www.linkedin.com/learning/database-foundations-application-development/what-you-should-know?u=76281980&t=29)** Now I don't expect you to have any prior experience with any of these languages.
 >
 > **[0:34](https://www.linkedin.com/learning/database-foundations-application-development/what-you-should-know?u=76281980&t=34)** We're not going to be writing any code.
 >
-> **[0:36](https://www.linkedin.com/learning/database-foundations-application-development/what-you-should-know?u=76281980&t=36)** Instead, we're going to take a tour and read through some working examples to see how all the pieces come together to make your databases accessible online.
+> **[0:36](https://www.linkedin.com/learning/database-foundations-application-development/what-you-should-know?u=76281980&t=36)** Instead, we're going to take a tour and read through some working examples to see how all the pieces come together to make your [[Databases]] accessible online.
 >
 > **[0:47](https://www.linkedin.com/learning/database-foundations-application-development/what-you-should-know?u=76281980&t=47)** To follow along on your own computer, you're going to need to have Docker installed.
 >
-> **[0:51](https://www.linkedin.com/learning/database-foundations-application-development/what-you-should-know?u=76281980&t=51)** This will allow us to add web servers to the database servers that we've been working with.
+> **[0:51](https://www.linkedin.com/learning/database-foundations-application-development/what-you-should-know?u=76281980&t=51)** This will allow us to add [[Web Servers]] to the database servers that we've been working with.
 >
-> **[0:56](https://www.linkedin.com/learning/database-foundations-application-development/what-you-should-know?u=76281980&t=56)** You can download Docker for Windows, Mac OS or Linux at [docker.com/products/dockerdesktop](https://docker.com/products/dockerdesktop).
+> **[0:56](https://www.linkedin.com/learning/database-foundations-application-development/what-you-should-know?u=76281980&t=56)** You can download Docker for [[Windows]], Mac OS or [[Linux]] at [docker.com/[[Microsoft Products|products]]/dockerdesktop](https://docker.com/products/dockerdesktop).
 >
 > **[1:05](https://www.linkedin.com/learning/database-foundations-application-development/what-you-should-know?u=76281980&t=65)** You'll also need a text editor.
 >
@@ -139,21 +137,20 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/database-foundations-application-development/what-you-should-know?u=76281980&t=74)** Personally, I'm going to be using Visual Studio Code.
 >
-> **[1:18](https://www.linkedin.com/learning/database-foundations-application-development/what-you-should-know?u=76281980&t=78)** I like this text editor because it shares some common design attributes with Azure Data Studio that we've already been working with for our database development.
+> **[1:18](https://www.linkedin.com/learning/database-foundations-application-development/what-you-should-know?u=76281980&t=78)** I like this text editor because it shares some common design attributes with [[Microsoft Azure|Azure]] Data Studio that we've already been working with for our [[Database Development]].
 >
 > **[1:27](https://www.linkedin.com/learning/database-foundations-application-development/what-you-should-know?u=76281980&t=87)** If you'd like, you can download your own copy from code.[visualstudio.com](https://visualstudio.com).
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), web (2), [[Relational Databases]] (1), [[HTML]] (1), css (1)
+> **Frameworks & Libraries:** [[Relational Databases]] (1), [[HTML]] (1), [[PHP]] (1), [[ASP.NET]] (1), [[Databases]] (1)
 > **CLI Commands:** docker (3), php (1), make (1)
 > **Env Vars:** html (1), css (1), php (1), asp (1), net (1)
 > **URLs:** [asp.net](https://asp.net) (1), [docker.com](https://docker.com) (1), [visualstudio.com](https://visualstudio.com) (1)
 > **Tools:** visual studio (1)
 > **Speakers:** - [instructor] (1)
 
-#### The exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-application-development/the-exercise-files?u=76281980)
+#### [The exercise files](https://www.linkedin.com/learning/database-foundations-application-development/the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -163,11 +160,11 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/database-foundations-application-development/the-exercise-files?u=76281980&t=10)** I've gone ahead and unzipped the files here onto my desktop.
 >
-> **[0:14](https://www.linkedin.com/learning/database-foundations-application-development/the-exercise-files?u=76281980&t=14)** Now, inside this folder you're going to find everything that you need for the chapter two project on PostgreSQL, and the chapter three project that focuses on SQL Server.
+> **[0:14](https://www.linkedin.com/learning/database-foundations-application-development/the-exercise-files?u=76281980&t=14)** Now, inside this folder you're going to find everything that you need for the chapter two project on [[PostgreSQL]], and the chapter three project that focuses on [[Microsoft SQL Server|SQL Server]].
 >
 > **[0:24](https://www.linkedin.com/learning/database-foundations-application-development/the-exercise-files?u=76281980&t=24)** Now, at this point, there is nothing more that you need to prepare ahead of time.
 >
-> **[0:28](https://www.linkedin.com/learning/database-foundations-application-development/the-exercise-files?u=76281980&t=28)** There's no databases to install or anything like that.
+> **[0:28](https://www.linkedin.com/learning/database-foundations-application-development/the-exercise-files?u=76281980&t=28)** There's no [[Databases]] to install or anything like that.
 >
 > **[0:32](https://www.linkedin.com/learning/database-foundations-application-development/the-exercise-files?u=76281980&t=32)** So just download the files, unzip them into a location that's convenient for you, and we'll dive deeper into each of these folders when the appropriate time comes.
 
@@ -185,26 +182,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Multitier architectures
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-application-development/multitier-architectures?u=76281980)
+#### [Multitier architectures](https://www.linkedin.com/learning/database-foundations-application-development/multitier-architectures?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-application-development/multitier-architectures?u=76281980&t=0)** - [Instructor] Databases are a critical component of many different kinds of applications.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-application-development/multitier-architectures?u=76281980&t=0)** - [Instructor] [[Databases]] are a critical component of many different kinds of applications.
 >
-> **[0:05](https://www.linkedin.com/learning/database-foundations-application-development/multitier-architectures?u=76281980&t=5)** Understanding how they work is a great first step in the world of software development.
+> **[0:05](https://www.linkedin.com/learning/database-foundations-application-development/multitier-architectures?u=76281980&t=5)** Understanding how they work is a great first step in the world of [[Software Development]].
 >
 > **[0:10](https://www.linkedin.com/learning/database-foundations-application-development/multitier-architectures?u=76281980&t=10)** But they do represent only a single piece of a completed puzzle.
 >
-> **[0:15](https://www.linkedin.com/learning/database-foundations-application-development/multitier-architectures?u=76281980&t=15)** In order to finish off this database foundations series of courses, I thought it would be a good idea to zoom out a bit and explore how databases are integrated into the larger picture of application development.
+> **[0:15](https://www.linkedin.com/learning/database-foundations-application-development/multitier-architectures?u=76281980&t=15)** In order to finish off this database foundations series of courses, I thought it would be a good idea to [[Zoom]] out a bit and explore how databases are integrated into the larger picture of [[Application Development]].
 >
 > **[0:29](https://www.linkedin.com/learning/database-foundations-application-development/multitier-architectures?u=76281980&t=29)** If you've been following this database foundation series since the beginning, well, first of all, congratulations, you've come a long way.
 >
-> **[0:38](https://www.linkedin.com/learning/database-foundations-application-development/multitier-architectures?u=76281980&t=38)** You may remember way back in the first course that we discussed the client server model that relational database management systems use.
+> **[0:38](https://www.linkedin.com/learning/database-foundations-application-development/multitier-architectures?u=76281980&t=38)** You may remember way back in the first course that we discussed the client server model that relational [[Database Management]] systems use.
 >
 > **[0:46](https://www.linkedin.com/learning/database-foundations-application-development/multitier-architectures?u=76281980&t=46)** The database server manages and stores your data, and each user connects to the server using a client.
 >
-> **[0:54](https://www.linkedin.com/learning/database-foundations-application-development/multitier-architectures?u=76281980&t=54)** This can either be a graphical interface, such as Azure Data Studio that we have been working with, or a command line interface such as SQL Command for working with SQL Server or PSQL for working with PostgreSQL.
+> **[0:54](https://www.linkedin.com/learning/database-foundations-application-development/multitier-architectures?u=76281980&t=54)** This can either be a graphical interface, such as [[Microsoft Azure|Azure]] Data Studio that we have been working with, or a command line interface such as [[SQL]] Command for working with [[Microsoft SQL Server|SQL Server]] or PSQL for working with [[PostgreSQL]].
 >
 > **[1:09](https://www.linkedin.com/learning/database-foundations-application-development/multitier-architectures?u=76281980&t=69)** These types of management clients connect you directly with the database server.
 >
@@ -228,7 +224,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/database-foundations-application-development/multitier-architectures?u=76281980&t=152)** You'll hear this referred to as a multi-tier architecture or n-tier architecture.
 >
-> **[2:38](https://www.linkedin.com/learning/database-foundations-application-development/multitier-architectures?u=76281980&t=158)** With this design pattern, software developers are able to separate the different components of the application, both logically, in code, and physically across different hardware.
+> **[2:38](https://www.linkedin.com/learning/database-foundations-application-development/multitier-architectures?u=76281980&t=158)** With this design pattern, software developers are able to separate the different components of the application, both logically, in code, and physically across different [[Hardware]].
 >
 > **[2:48](https://www.linkedin.com/learning/database-foundations-application-development/multitier-architectures?u=76281980&t=168)** The most common multi-tier architecture uses three different layers.
 >
@@ -264,7 +260,7 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/database-foundations-application-development/multitier-architectures?u=76281980&t=273)** First, since each component is separate it makes it much easier to update individual tiers.
 >
-> **[4:39](https://www.linkedin.com/learning/database-foundations-application-development/multitier-architectures?u=76281980&t=279)** For example, you can upgrade the database, or swap it over to a completely different platform with minimal impact on the rest of the application.
+> **[4:39](https://www.linkedin.com/learning/database-foundations-application-development/multitier-architectures?u=76281980&t=279)** For example, you can upgrade the database, or swap it over to a completely different platform with minimal impact on the [[Representational State Transfer (REST)|rest]] of the application.
 >
 > **[4:48](https://www.linkedin.com/learning/database-foundations-application-development/multitier-architectures?u=76281980&t=288)** Second, separate tiers can be scaled differently as the system grows.
 >
@@ -286,7 +282,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (13), data (9), application (9), [[Databases]] (5), [[Software Development]] (3)
+> **Frameworks & Libraries:** [[Databases]] (5), [[Software Development]] (3), [[Hardware]] (2), [[Zoom]] (1), [[Application Development]] (1)
 > **Analogies:** such as (2), picture (1), imagine (1), for example (1)
 > **CLI Commands:** find (2), psql (1)
 > **Env Vars:** sql (2), psql (1)
@@ -295,8 +291,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Communicate with the data layer
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-application-development/communicate-with-the-data-layer?u=76281980)
+#### [Communicate with the data layer](https://www.linkedin.com/learning/database-foundations-application-development/communicate-with-the-data-layer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -332,7 +327,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/database-foundations-application-development/communicate-with-the-data-layer?u=76281980&t=116)** If multiple rows of data need to be added or modified, those instructions can still get placed inside of a transaction to ensure that consistency and integrity is maintained, and a logic tiers user account can be granted membership to group roles to make them subject to the same security constraints that can be granted and revoked on other users.
 >
-> **[2:18](https://www.linkedin.com/learning/database-foundations-application-development/communicate-with-the-data-layer?u=76281980&t=138)** By funneling all communication to the database server through the logic tier of the application, you gain fine-grained control over the final end user experience.
+> **[2:18](https://www.linkedin.com/learning/database-foundations-application-development/communicate-with-the-data-layer?u=76281980&t=138)** By funneling all communication to the database server through the logic tier of the application, you gain fine-grained control over the final end [[User Experience (UX)|user experience]].
 >
 > **[2:29](https://www.linkedin.com/learning/database-foundations-application-development/communicate-with-the-data-layer?u=76281980&t=149)** It gives you the opportunity to build customized interfaces that include buttons and text boxes and formatted lists of content.
 >
@@ -340,31 +335,30 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (13), application (5), data (3), management (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** gui (1), rdbms (1)
 > **Analogies:** similar to (1), for instance (1)
 > **CLI Commands:** make (1)
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
 
-#### Databases on the web
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-application-development/databases-on-the-web?u=76281980)
+#### [Databases on the web](https://www.linkedin.com/learning/database-foundations-application-development/databases-on-the-web?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-application-development/databases-on-the-web?u=76281980&t=0)** - [Instructor] Databases are an important component to the functionality of our modern World Wide Web.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-application-development/databases-on-the-web?u=76281980&t=0)** - [Instructor] [[Databases]] are an important component to the functionality of our modern World Wide Web.
 >
-> **[0:06](https://www.linkedin.com/learning/database-foundations-application-development/databases-on-the-web?u=76281980&t=6)** Online stores use databases for managing inventory and orders, as well as showcasing products on their sites.
+> **[0:06](https://www.linkedin.com/learning/database-foundations-application-development/databases-on-the-web?u=76281980&t=6)** Online stores use databases for managing inventory and orders, as well as showcasing [[Microsoft Products|products]] on their sites.
 >
-> **[0:14](https://www.linkedin.com/learning/database-foundations-application-development/databases-on-the-web?u=76281980&t=14)** The WordPress publishing platform uses MySQL databases to organize and maintain every article, image and comment that's posted to blogs all over the world.
+> **[0:14](https://www.linkedin.com/learning/database-foundations-application-development/databases-on-the-web?u=76281980&t=14)** The [[WordPress]] publishing platform uses [[MySQL]] databases to organize and maintain every article, image and comment that's posted to blogs all over the world.
 >
-> **[0:26](https://www.linkedin.com/learning/database-foundations-application-development/databases-on-the-web?u=76281980&t=26)** In web development, it's common to think of the components of a site as either being the front end or the back end, or the client side versus server side.
+> **[0:26](https://www.linkedin.com/learning/database-foundations-application-development/databases-on-the-web?u=76281980&t=26)** In [[Web Development]], it's common to think of the components of a site as either being the front end or the back end, or the client side versus server side.
 >
 > **[0:37](https://www.linkedin.com/learning/database-foundations-application-development/databases-on-the-web?u=76281980&t=37)** This distinction describes where certain actions occur when a user accesses a webpage.
 >
 > **[0:43](https://www.linkedin.com/learning/database-foundations-application-development/databases-on-the-web?u=76281980&t=43)** When you connect to a website, the web server sends you a series of files.
 >
-> **[0:48](https://www.linkedin.com/learning/database-foundations-application-development/databases-on-the-web?u=76281980&t=48)** Typically HTML, CSS, and JavaScript, as well as any media files, such as images.
+> **[0:48](https://www.linkedin.com/learning/database-foundations-application-development/databases-on-the-web?u=76281980&t=48)** Typically [[HTML]], CSS, and [[JavaScript]], as well as any media files, such as images.
 >
 > **[0:55](https://www.linkedin.com/learning/database-foundations-application-development/databases-on-the-web?u=76281980&t=55)** These files are interpreted and combined by your web browser and it renders the page that you see on the screen.
 >
@@ -376,7 +370,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/database-foundations-application-development/databases-on-the-web?u=76281980&t=90)** Everything else is set to happen on these sites back end, or server-side.
 >
-> **[1:35](https://www.linkedin.com/learning/database-foundations-application-development/databases-on-the-web?u=76281980&t=95)** Code that needs to run server-side can be written in languages, such as PHP, [ASP.NET](https://ASP.NET), Node or Ruby.
+> **[1:35](https://www.linkedin.com/learning/database-foundations-application-development/databases-on-the-web?u=76281980&t=95)** Code that needs to run server-side can be written in languages, such as [[PHP]], [[[ASP.NET]]](https://ASP.NET), Node or Ruby.
 >
 > **[1:44](https://www.linkedin.com/learning/database-foundations-application-development/databases-on-the-web?u=76281980&t=104)** If the website needs to communicate with a database, that also happens server-side, and those interactions are kept separate from the end user accessing the site.
 >
@@ -402,11 +396,11 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/database-foundations-application-development/databases-on-the-web?u=76281980&t=199)** Having progressed through this database foundation series, you're well on your way to specializing in databases.
 >
-> **[3:26](https://www.linkedin.com/learning/database-foundations-application-development/databases-on-the-web?u=76281980&t=206)** This in turn may open doors in other areas of application development as your career progresses.
+> **[3:26](https://www.linkedin.com/learning/database-foundations-application-development/databases-on-the-web?u=76281980&t=206)** This in turn may open doors in other areas of [[Application Development]] as your career progresses.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (6), database (5), [[Databases]] (4), [[HTML]] (3), [[Scripting]] (3)
+> **Frameworks & Libraries:** [[Databases]] (4), [[HTML]] (3), [[Web Development]] (2), [[JavaScript]] (2), [[Microsoft Products|Products]] (1)
 > **Env Vars:** html (3), css (2), php (1), asp (1), net (1)
 > **CLI Commands:** mysql (1), php (1), node (1), ruby (1), make (1)
 > **Analogies:** such as (3)
@@ -414,36 +408,35 @@ created: 2026-05-02
 > **URLs:** [asp.net](https://asp.net) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Project overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-application-development/project-overview?u=76281980)
+#### [Project overview](https://www.linkedin.com/learning/database-foundations-application-development/project-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/database-foundations-application-development/project-overview?u=76281980&t=0)** - [Narrator] Now that we've discussed the different tiers that go into a common data-centric application, let me take a moment and introduce the two projects that we'll look at over the next couple of chapters.
 >
-> **[0:13](https://www.linkedin.com/learning/database-foundations-application-development/project-overview?u=76281980&t=13)** Throughout this series, we focused on two different relational database platforms, SQL Server and PostgreSQL.
+> **[0:13](https://www.linkedin.com/learning/database-foundations-application-development/project-overview?u=76281980&t=13)** Throughout this series, we focused on two different relational database platforms, [[Microsoft SQL Server|SQL Server]] and [[PostgreSQL]].
 >
 > **[0:20](https://www.linkedin.com/learning/database-foundations-application-development/project-overview?u=76281980&t=20)** We've seen that they share many similarities in how they organize your data in tables and schemas and use common structured query language syntax for storing and retrieving information.
 >
 > **[0:32](https://www.linkedin.com/learning/database-foundations-application-development/project-overview?u=76281980&t=32)** While they do have the occasional implementation differences, it should be clear that the two platforms are more similar than they are different.
 >
-> **[0:41](https://www.linkedin.com/learning/database-foundations-application-development/project-overview?u=76281980&t=41)** In fact, it's safe to say that once you have experience with one relational database management system, you're probably at least 80% of the way to understanding how to work with every relational database management system that's available today.
+> **[0:41](https://www.linkedin.com/learning/database-foundations-application-development/project-overview?u=76281980&t=41)** In fact, it's safe to say that once you have experience with one relational [[Database Management]] system, you're probably at least 80% of the way to understanding how to work with every relational database management system that's available today.
 >
 > **[0:57](https://www.linkedin.com/learning/database-foundations-application-development/project-overview?u=76281980&t=57)** They all share that much common DNA at their core and the skills that you've developed thus far will transfer to other platforms that you haven't even worked with yet.
 >
 > **[1:07](https://www.linkedin.com/learning/database-foundations-application-development/project-overview?u=76281980&t=67)** With those commonalities in mind, we're going to explore how each of these platforms can get integrated into a web application.
 >
-> **[1:16](https://www.linkedin.com/learning/database-foundations-application-development/project-overview?u=76281980&t=76)** Thinking about the three-tier approach to application development, SQL Server and PostgreSQL, we'll provide our data tier.
+> **[1:16](https://www.linkedin.com/learning/database-foundations-application-development/project-overview?u=76281980&t=76)** Thinking about the three-tier approach to [[Application Development]], SQL Server and PostgreSQL, we'll provide our data tier.
 >
 > **[1:25](https://www.linkedin.com/learning/database-foundations-application-development/project-overview?u=76281980&t=85)** Next, we'll expand our use of Docker in order to pull in additional technologies for the logic tier of our application.
 >
 > **[1:34](https://www.linkedin.com/learning/database-foundations-application-development/project-overview?u=76281980&t=94)** These technologies will differ depending on the database platform that they're connecting to.
 >
-> **[1:39](https://www.linkedin.com/learning/database-foundations-application-development/project-overview?u=76281980&t=99)** For integration with PostgreSQL, we'll use a server-side scripting language called PHP.
+> **[1:39](https://www.linkedin.com/learning/database-foundations-application-development/project-overview?u=76281980&t=99)** For integration with PostgreSQL, we'll use a server-side scripting language called [[PHP]].
 >
-> **[1:46](https://www.linkedin.com/learning/database-foundations-application-development/project-overview?u=76281980&t=106)** For integration with SQL Server, we'll use a Microsoft technology called [ASP.NET](https://ASP.NET).
+> **[1:46](https://www.linkedin.com/learning/database-foundations-application-development/project-overview?u=76281980&t=106)** For integration with SQL Server, we'll use a [[Microsoft]] technology called [[[ASP.NET]]](https://ASP.NET).
 >
-> **[1:52](https://www.linkedin.com/learning/database-foundations-application-development/project-overview?u=76281980&t=112)** In both projects, the presentation tier will make use of standard HTML and CSS that's used everywhere on the internet to create webpages.
+> **[1:52](https://www.linkedin.com/learning/database-foundations-application-development/project-overview?u=76281980&t=112)** In both projects, the presentation tier will make use of standard [[HTML]] and CSS that's used everywhere on the internet to create webpages.
 >
 > **[2:03](https://www.linkedin.com/learning/database-foundations-application-development/project-overview?u=76281980&t=123)** These components will all get hooked together so that communication can flow from the end user to the database through our custom interfaces.
 >
@@ -455,11 +448,11 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/database-foundations-application-development/project-overview?u=76281980&t=158)** My hope is that these two projects will give you an overview of what this entire process looks like in the real world.
 >
-> **[2:46](https://www.linkedin.com/learning/database-foundations-application-development/project-overview?u=76281980&t=166)** There are plenty of courses on LinkedIn Learning that'll introduce you to each of these individual components should you be inspired to explore these technologies further.
+> **[2:46](https://www.linkedin.com/learning/database-foundations-application-development/project-overview?u=76281980&t=166)** There are plenty of courses on [[LinkedIn]] Learning that'll introduce you to each of these individual components should you be inspired to explore these technologies further.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), data (3), application (3), [[Microsoft SQL Server|Sql server]] (3), [[PostgreSQL]] (3)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3), [[PostgreSQL]] (3), [[Database Management]] (2), [[PHP]] (2), [[ASP.NET]] (2)
 > **Env Vars:** sql (3), php (2), asp (2), net (2), html (2)
 > **CLI Commands:** php (2), docker (1), make (1)
 > **URLs:** [asp.net](https://asp.net) (2)
@@ -470,12 +463,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is PHP and Apache?
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-application-development/what-is-php-and-apache?u=76281980)
+#### [What is PHP and Apache?](https://www.linkedin.com/learning/database-foundations-application-development/what-is-php-and-apache?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-application-development/what-is-php-and-apache?u=76281980&t=0)** - [Narrator] Our first project takes a look at creating a web form that interacts with a PostgreSQL database.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-application-development/what-is-php-and-apache?u=76281980&t=0)** - [Narrator] Our first project takes a look at creating a web form that interacts with a [[PostgreSQL]] database.
 >
 > **[0:07](https://www.linkedin.com/learning/database-foundations-application-development/what-is-php-and-apache?u=76281980&t=7)** To do this, we need to create a web server that'll provide the logic and presentation layers of our three-tier application.
 >
@@ -491,9 +483,9 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/database-foundations-application-development/what-is-php-and-apache?u=76281980&t=53)** This will allow us to add programming elements to our application to create the logic tier of the application.
 >
-> **[1:00](https://www.linkedin.com/learning/database-foundations-application-development/what-is-php-and-apache?u=76281980&t=60)** For that, we'll rely on a language called PHP.
+> **[1:00](https://www.linkedin.com/learning/database-foundations-application-development/what-is-php-and-apache?u=76281980&t=60)** For that, we'll rely on a language called [[PHP]].
 >
-> **[1:04](https://www.linkedin.com/learning/database-foundations-application-development/what-is-php-and-apache?u=76281980&t=64)** PHP is great because it has a tight integration with standard HTML documents.
+> **[1:04](https://www.linkedin.com/learning/database-foundations-application-development/what-is-php-and-apache?u=76281980&t=64)** PHP is great because it has a tight integration with standard [[HTML]] documents.
 >
 > **[1:09](https://www.linkedin.com/learning/database-foundations-application-development/what-is-php-and-apache?u=76281980&t=69)** And you can have a single file that includes HTML and PHP code all mixed together.
 >
@@ -503,7 +495,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/database-foundations-application-development/what-is-php-and-apache?u=76281980&t=91)** Inside of the body, we have a small PHP script.
 >
-> **[1:35](https://www.linkedin.com/learning/database-foundations-application-development/what-is-php-and-apache?u=76281980&t=95)** This script will fetch the current date from the server and format it according to the pattern in parentheses.
+> **[1:35](https://www.linkedin.com/learning/database-foundations-application-development/what-is-php-and-apache?u=76281980&t=95)** This script will [[Fetch]] the current date from the server and format it according to the pattern in parentheses.
 >
 > **[1:42](https://www.linkedin.com/learning/database-foundations-application-development/what-is-php-and-apache?u=76281980&t=102)** This is done before the final HTML document is sent to the end user and they won't see any of this code when the page renders in their browser.
 >
@@ -513,7 +505,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/database-foundations-application-development/what-is-php-and-apache?u=76281980&t=119)** The PHP code is executed on the web server and only the final output is sent to the client's browser.
 >
-> **[2:07](https://www.linkedin.com/learning/database-foundations-application-development/what-is-php-and-apache?u=76281980&t=127)** To make everything work without having to invest in expensive hardware or complicated network configurations, we're going to add to the system of Docker containers that we've been working with.
+> **[2:07](https://www.linkedin.com/learning/database-foundations-application-development/what-is-php-and-apache?u=76281980&t=127)** To make everything work without having to invest in expensive [[Hardware]] or complicated network configurations, we're going to add to the system of Docker containers that we've been working with.
 >
 > **[2:17](https://www.linkedin.com/learning/database-foundations-application-development/what-is-php-and-apache?u=76281980&t=137)** This will allow us to build a little virtual network that contains both of our servers.
 >
@@ -531,14 +523,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (7), [[PHP]] (7), application (4), [[HTML]] (4), [[PostgreSQL]] (3)
+> **Frameworks & Libraries:** [[PHP]] (7), [[HTML]] (4), [[PostgreSQL]] (3), [[Fetch]] (1), [[Hardware]] (1)
 > **Env Vars:** php (7), html (4), http (2)
 > **CLI Commands:** php (7), apache (2), docker (2), make (1)
 > **Versions:** version 13 (1)
 > **Speakers:** - [narrator] (1)
 
-#### Create a PHP web server
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-application-development/create-a-php-web-server?u=76281980)
+#### [Create a PHP web server](https://www.linkedin.com/learning/database-foundations-application-development/create-a-php-web-server?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -556,11 +547,11 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/database-foundations-application-development/create-a-php-web-server?u=76281980&t=26)** So I'll look down here in my menu bar and I can see the docker icon right there.
 >
-> **[0:29](https://www.linkedin.com/learning/database-foundations-application-development/create-a-php-web-server?u=76281980&t=29)** If you're on Mac OS or Linux you'll see the same icon up at the top of your menu bar when docker is running.
+> **[0:29](https://www.linkedin.com/learning/database-foundations-application-development/create-a-php-web-server?u=76281980&t=29)** If you're on Mac OS or [[Linux]] you'll see the same icon up at the top of your menu bar when docker is running.
 >
 > **[0:35](https://www.linkedin.com/learning/database-foundations-application-development/create-a-php-web-server?u=76281980&t=35)** Now we're going to execute commands on the command line.
 >
-> **[0:37](https://www.linkedin.com/learning/database-foundations-application-development/create-a-php-web-server?u=76281980&t=37)** So I need to open up my PowerShell window here on Windows.
+> **[0:37](https://www.linkedin.com/learning/database-foundations-application-development/create-a-php-web-server?u=76281980&t=37)** So I need to open up my [[Powershell]] window here on [[Windows]].
 >
 > **[0:42](https://www.linkedin.com/learning/database-foundations-application-development/create-a-php-web-server?u=76281980&t=42)** Again, if you're on Mac OS or Linux you're going to use the terminal application for this.
 >
@@ -634,7 +625,7 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/database-foundations-application-development/create-a-php-web-server?u=76281980&t=233)** So that's 8080 colon 80.
 >
-> **[3:56](https://www.linkedin.com/learning/database-foundations-application-development/create-a-php-web-server?u=76281980&t=236)** Then we need to specify the image so dash D and for this image, we'll use the PHP image colon and a specific version of 8.0.2 dash Apache.
+> **[3:56](https://www.linkedin.com/learning/database-foundations-application-development/create-a-php-web-server?u=76281980&t=236)** Then we need to specify the image so dash D and for this image, we'll use the [[PHP]] image colon and a specific version of 8.0.2 dash Apache.
 >
 > **[4:09](https://www.linkedin.com/learning/database-foundations-application-development/create-a-php-web-server?u=76281980&t=249)** I'll press Enter to create that container.
 >
@@ -662,7 +653,7 @@ created: 2026-05-02
 >
 > **[5:10](https://www.linkedin.com/learning/database-foundations-application-development/create-a-php-web-server?u=76281980&t=310)** And I'll use the bash shell.
 >
-> **[5:13](https://www.linkedin.com/learning/database-foundations-application-development/create-a-php-web-server?u=76281980&t=313)** I press Enter and that'll move me inside of the container and it puts me inside of the container there at this file path var www dash HTML.
+> **[5:13](https://www.linkedin.com/learning/database-foundations-application-development/create-a-php-web-server?u=76281980&t=313)** I press Enter and that'll move me inside of the container and it puts me inside of the container there at this file path var www dash [[HTML]].
 >
 > **[5:23](https://www.linkedin.com/learning/database-foundations-application-development/create-a-php-web-server?u=76281980&t=323)** Now I need to install a little bit of software.
 >
@@ -672,7 +663,7 @@ created: 2026-05-02
 >
 > **[6:00](https://www.linkedin.com/learning/database-foundations-application-development/create-a-php-web-server?u=76281980&t=360)** Now this line is a little bit complicated if you've never worked with Linux software installations and you don't really need to concern yourself with what every piece is actually doing.
 >
-> **[6:10](https://www.linkedin.com/learning/database-foundations-application-development/create-a-php-web-server?u=76281980&t=370)** The end result is that we're adding driver support for making PostgreSQL connections with the PHP data object extension or the PDO.
+> **[6:10](https://www.linkedin.com/learning/database-foundations-application-development/create-a-php-web-server?u=76281980&t=370)** The end result is that we're adding driver support for making [[PostgreSQL]] connections with the PHP data object extension or the PDO.
 >
 > **[6:21](https://www.linkedin.com/learning/database-foundations-application-development/create-a-php-web-server?u=76281980&t=381)** So I'm just going to make sure that everything is spelled correctly, and press the Enter key to run through that installation.
 >
@@ -772,7 +763,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (24), [[PHP]] (19), database (7), [[PostgreSQL]] (7), [[Linux]] (5)
+> **Frameworks & Libraries:** [[PHP]] (19), [[PostgreSQL]] (7), [[Linux]] (5), [[Powershell]] (3), [[HTML]] (3)
 > **CLI Commands:** php (19), docker (17), make (6), find (4), apt (2)
 > **Env Vars:** php (19), pdo (6), html (3), pgsql (3), cls (2)
 > **Prerequisites:** set up (9), install (4), you'll need (1)
@@ -781,12 +772,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (3), download the (1)
 > **Ports:** port 5430 (1), port 8080 (1), port 80 (1)
 
-#### Connect to the PHP server
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-application-development/connect-to-the-php-server?u=76281980)
+#### [Connect to the PHP server](https://www.linkedin.com/learning/database-foundations-application-development/connect-to-the-php-server?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-application-development/connect-to-the-php-server?u=76281980&t=0)** - [Instructor] Before we dive into reading some PHP code, let's take a quick look at how the exercise files are structured.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-application-development/connect-to-the-php-server?u=76281980&t=0)** - [Instructor] Before we dive into reading some [[PHP]] code, let's take a quick look at how the exercise files are structured.
 >
 > **[0:07](https://www.linkedin.com/learning/database-foundations-application-development/connect-to-the-php-server?u=76281980&t=7)** I'm going to hop over to a terminal window and run the command docker ps -a.
 >
@@ -808,7 +798,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/database-foundations-application-development/connect-to-the-php-server?u=76281980&t=63)** I'm going to be using Visual Studio Code, but you can use whatever text editor you have on your computer.
 >
-> **[1:10](https://www.linkedin.com/learning/database-foundations-application-development/connect-to-the-php-server?u=76281980&t=70)** Now the PHP file uses standard HTML tags to organize the page structure and then sprinkles in some PHP scripts throughout the page.
+> **[1:10](https://www.linkedin.com/learning/database-foundations-application-development/connect-to-the-php-server?u=76281980&t=70)** Now the PHP file uses standard [[HTML]] tags to organize the page structure and then sprinkles in some PHP scripts throughout the page.
 >
 > **[1:19](https://www.linkedin.com/learning/database-foundations-application-development/connect-to-the-php-server?u=76281980&t=79)** On line number eight is where we have the success message.
 >
@@ -860,7 +850,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (12), web (9), database (2), [[HTML]] (2)
+> **Frameworks & Libraries:** [[PHP]] (12), [[HTML]] (2)
 > **CLI Commands:** php (12), docker (4), find (2), make (1), cp (1)
 > **Env Vars:** php (9), html (2)
 > **Exercise Files:** exercise files (5)
@@ -869,16 +859,15 @@ created: 2026-05-02
 > **Ports:** port 8080 (1), port 5430 (1), :8080 (1)
 > **UI Navigation:** scroll down (2), navigate to (1)
 
-#### PostgreSQL functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-application-development/postgresql-functions?u=76281980)
+#### [PostgreSQL functions](https://www.linkedin.com/learning/database-foundations-application-development/postgresql-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-application-development/postgresql-functions?u=76281980&t=0)** - [Narrator] When we created the PHP server, we had to log in and add support for making PostgreSQL database connections.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-application-development/postgresql-functions?u=76281980&t=0)** - [Narrator] When we created the [[PHP]] server, we had to log in and add support for making [[PostgreSQL]] database connections.
 >
 > **[0:08](https://www.linkedin.com/learning/database-foundations-application-development/postgresql-functions?u=76281980&t=8)** When we did that, we enabled a number of PostgreSQL functions that can be used to send requests from the web server to the database server.
 >
-> **[0:18](https://www.linkedin.com/learning/database-foundations-application-development/postgresql-functions?u=76281980&t=18)** The first lines of the Script 1 PHP file includes some standard HTML header lines that'll set up the page.
+> **[0:18](https://www.linkedin.com/learning/database-foundations-application-development/postgresql-functions?u=76281980&t=18)** The first lines of the Script 1 PHP file includes some standard [[HTML]] header lines that'll set up the page.
 >
 > **[0:26](https://www.linkedin.com/learning/database-foundations-application-development/postgresql-functions?u=76281980&t=26)** This includes the page's title Query 1 as well as a link to the style sheet.
 >
@@ -918,7 +907,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/database-foundations-application-development/postgresql-functions?u=76281980&t=141)** We do that with the pg_query function.
 >
-> **[2:25](https://www.linkedin.com/learning/database-foundations-application-development/postgresql-functions?u=76281980&t=145)** The parameter here is simply the SQL that we want to execute.
+> **[2:25](https://www.linkedin.com/learning/database-foundations-application-development/postgresql-functions?u=76281980&t=145)** The parameter here is simply the [[SQL]] that we want to execute.
 >
 > **[2:29](https://www.linkedin.com/learning/database-foundations-application-development/postgresql-functions?u=76281980&t=149)** This example creates a new database named test.
 >
@@ -968,7 +957,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (19), [[PostgreSQL]] (15), [[PHP]] (11), web (4), [[HTML]] (2)
+> **Frameworks & Libraries:** [[PostgreSQL]] (15), [[PHP]] (11), [[HTML]] (2), [[SQL]] (1)
 > **CLI Commands:** php (11), make (2), docker (2)
 > **Env Vars:** php (9), html (2), sql (1)
 > **Code Identifiers:** pg_connect (3), pg_query (3), pg_db_server (1)
@@ -977,12 +966,11 @@ created: 2026-05-02
 > **Ports:** port 5432 (1)
 > **Analogies:** for instance (1)
 
-#### Use PHP variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-application-development/use-php-variables?u=76281980)
+#### [Use PHP variables](https://www.linkedin.com/learning/database-foundations-application-development/use-php-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-application-development/use-php-variables?u=76281980&t=0)** - [Instructor] We can make use of PHP variables to help us reuse elements in our code.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-application-development/use-php-variables?u=76281980&t=0)** - [Instructor] We can make use of [[PHP]] variables to help us reuse elements in our code.
 >
 > **[0:06](https://www.linkedin.com/learning/database-foundations-application-development/use-php-variables?u=76281980&t=6)** PHP variables all start with a dollar sign and then you can give them a unique name.
 >
@@ -992,7 +980,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/database-foundations-application-development/use-php-variables?u=76281980&t=21)** We need to perform similar tasks as before.
 >
-> **[0:25](https://www.linkedin.com/learning/database-foundations-application-development/use-php-variables?u=76281980&t=25)** First, we're going to connect to the database server and then send it a query, but we can use variables to hold the details of our PostgreSQL functions.
+> **[0:25](https://www.linkedin.com/learning/database-foundations-application-development/use-php-variables?u=76281980&t=25)** First, we're going to connect to the database server and then send it a query, but we can use variables to hold the details of our [[PostgreSQL]] functions.
 >
 > **[0:34](https://www.linkedin.com/learning/database-foundations-application-development/use-php-variables?u=76281980&t=34)** First, I'm going to create a new variable called DB Connection.
 >
@@ -1008,7 +996,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/database-foundations-application-development/use-php-variables?u=76281980&t=63)** So this fills in the value for our DB Connection variable.
 >
-> **[1:08](https://www.linkedin.com/learning/database-foundations-application-development/use-php-variables?u=76281980&t=68)** Next, I'll create a second variable and I'll call it SQL Query.
+> **[1:08](https://www.linkedin.com/learning/database-foundations-application-development/use-php-variables?u=76281980&t=68)** Next, I'll create a second variable and I'll call it [[SQL]] Query.
 >
 > **[1:13](https://www.linkedin.com/learning/database-foundations-application-development/use-php-variables?u=76281980&t=73)** This gets the value of the SQL command that I want to execute.
 >
@@ -1048,15 +1036,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), [[PHP]] (4), [[SQL]] (3), [[PostgreSQL]] (1), next (1)
+> **Frameworks & Libraries:** [[PHP]] (4), [[SQL]] (3), [[PostgreSQL]] (1)
 > **Env Vars:** php (4), sql (3)
 > **CLI Commands:** php (4), make (1)
 > **UI Navigation:** scroll down (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use if/else to handle errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-application-development/use-if-else-to-handle-errors?u=76281980)
+#### [Use if/else to handle errors](https://www.linkedin.com/learning/database-foundations-application-development/use-if-else-to-handle-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1064,7 +1051,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/database-foundations-application-development/use-if-else-to-handle-errors?u=76281980&t=7)** To fix this, we can add in some basic error handling to our script using an if-else programming construct.
 >
-> **[0:14](https://www.linkedin.com/learning/database-foundations-application-development/use-if-else-to-handle-errors?u=76281980&t=14)** Let me scroll down on my page here until I get to PHP Script 3.
+> **[0:14](https://www.linkedin.com/learning/database-foundations-application-development/use-if-else-to-handle-errors?u=76281980&t=14)** Let me scroll down on my page here until I get to [[PHP]] Script 3.
 >
 > **[0:19](https://www.linkedin.com/learning/database-foundations-application-development/use-if-else-to-handle-errors?u=76281980&t=19)** In this example, we're going to drop the database that we just created.
 >
@@ -1072,13 +1059,13 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/database-foundations-application-development/use-if-else-to-handle-errors?u=76281980&t=27)** We have the variable named db_connection and it's equal to the pg_connect function with these parameters.
 >
-> **[0:34](https://www.linkedin.com/learning/database-foundations-application-development/use-if-else-to-handle-errors?u=76281980&t=34)** The only difference here is that we're connecting back to the Postgres database again, not the test database.
+> **[0:34](https://www.linkedin.com/learning/database-foundations-application-development/use-if-else-to-handle-errors?u=76281980&t=34)** The only difference here is that we're connecting back to the [[PostgreSQL|Postgres]] database again, not the test database.
 >
 > **[0:40](https://www.linkedin.com/learning/database-foundations-application-development/use-if-else-to-handle-errors?u=76281980&t=40)** If we connected to the test database, then we wouldn't be able to drop it, since we would have an open connection.
 >
 > **[0:46](https://www.linkedin.com/learning/database-foundations-application-development/use-if-else-to-handle-errors?u=76281980&t=46)** I'm also going to set up the sql_query variable again and this time, the syntax of my sql_query will be DROP DATABASE test WITH FORCE.
 >
-> **[0:56](https://www.linkedin.com/learning/database-foundations-application-development/use-if-else-to-handle-errors?u=76281980&t=56)** The WITH FORCE modifier will force close any open connections that may still be present and is a new addition to PostgreSQL version 13.
+> **[0:56](https://www.linkedin.com/learning/database-foundations-application-development/use-if-else-to-handle-errors?u=76281980&t=56)** The WITH FORCE modifier will force close any open connections that may still be present and is a new addition to [[PostgreSQL]] version 13.
 >
 > **[1:06](https://www.linkedin.com/learning/database-foundations-application-development/use-if-else-to-handle-errors?u=76281980&t=66)** Now, instead of immediately running this query on this connection like we did in the previous example, I'm going to store the pg_query as another variable that I'm going to call result.
 >
@@ -1120,7 +1107,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/database-foundations-application-development/use-if-else-to-handle-errors?u=76281980&t=180)** Then we can add a table to the database and then we can drop the database, which returns everything back to the state that the server was in at the very beginning.
 >
-> **[3:09](https://www.linkedin.com/learning/database-foundations-application-development/use-if-else-to-handle-errors?u=76281980&t=189)** If you want, you can use Azure Data Studio to inspect the server at any point.
+> **[3:09](https://www.linkedin.com/learning/database-foundations-application-development/use-if-else-to-handle-errors?u=76281980&t=189)** If you want, you can use [[Microsoft Azure|Azure]] Data Studio to inspect the server at any point.
 >
 > **[3:14](https://www.linkedin.com/learning/database-foundations-application-development/use-if-else-to-handle-errors?u=76281980&t=194)** Let me open up Azure Data Studio and connect to it.
 >
@@ -1156,7 +1143,7 @@ created: 2026-05-02
 >
 > **[4:25](https://www.linkedin.com/learning/database-foundations-application-development/use-if-else-to-handle-errors?u=76281980&t=265)** Great, let's go ahead and close that.
 >
-> **[4:27](https://www.linkedin.com/learning/database-foundations-application-development/use-if-else-to-handle-errors?u=76281980&t=267)** And now I can go into Azure Data Studio, I'll refresh my list of databases and there is the test database.
+> **[4:27](https://www.linkedin.com/learning/database-foundations-application-development/use-if-else-to-handle-errors?u=76281980&t=267)** And now I can go into Azure Data Studio, I'll refresh my list of [[Databases]] and there is the test database.
 >
 > **[4:35](https://www.linkedin.com/learning/database-foundations-application-development/use-if-else-to-handle-errors?u=76281980&t=275)** If I expand the tables folder, we'll see the testing table with its single column.
 >
@@ -1164,7 +1151,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (23), [[PostgreSQL]] (6), [[PHP]] (3), [[PostgreSQL|Postgres]] (3), [[Microsoft Azure|Azure]] (3)
+> **Frameworks & Libraries:** [[PostgreSQL]] (6), [[PHP]] (3), [[PostgreSQL|Postgres]] (3), [[Microsoft Azure|Azure]] (3), [[Databases]] (1)
 > **Env Vars:** drop (4), database (4), php (3), force (2), ads (1)
 > **Code Identifiers:** sql_query (2), pg_query (2), db_connection (1), pg_connect (1), pg_last_error (1)
 > **UI Navigation:** scroll down (3), click on (2), scroll up (1)
@@ -1173,12 +1160,11 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Ports:** port 5430 (1)
 
-#### Add data to a database
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-application-development/add-data-to-a-database?u=76281980)
+#### [Add data to a database](https://www.linkedin.com/learning/database-foundations-application-development/add-data-to-a-database?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-application-development/add-data-to-a-database?u=76281980&t=0)** - [Narrator] PostgreSQL functions allow us to do more than just connect and send requests to the database server.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-application-development/add-data-to-a-database?u=76281980&t=0)** - [Narrator] [[PostgreSQL]] functions allow us to do more than just connect and send requests to the database server.
 >
 > **[0:07](https://www.linkedin.com/learning/database-foundations-application-development/add-data-to-a-database?u=76281980&t=7)** There are additional functions that allow us to work with information that comes back from the server such as the results of a select query.
 >
@@ -1216,7 +1202,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/database-foundations-application-development/add-data-to-a-database?u=76281980&t=105)** We'll set up another variable called create_table_query.
 >
-> **[1:49](https://www.linkedin.com/learning/database-foundations-application-development/add-data-to-a-database?u=76281980&t=109)** The contents of this variable will be our CREATE TABLE statement and it's going to create a table called products on the inventory schema.
+> **[1:49](https://www.linkedin.com/learning/database-foundations-application-development/add-data-to-a-database?u=76281980&t=109)** The contents of this variable will be our CREATE TABLE statement and it's going to create a table called [[Microsoft Products|products]] on the inventory schema.
 >
 > **[1:57](https://www.linkedin.com/learning/database-foundations-application-development/add-data-to-a-database?u=76281980&t=117)** This product table will have five different columns: SKU, product name, category ID, size, and price.
 >
@@ -1252,21 +1238,21 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/database-foundations-application-development/add-data-to-a-database?u=76281980&t=199)** You can access it from the DROP the Two Trees Database button right there if you wanted to go through and reset the server again.
 >
-> **[3:26](https://www.linkedin.com/learning/database-foundations-application-development/add-data-to-a-database?u=76281980&t=206)** As a sanity check, we can verify everything worked correctly by logging in with Azure Data Studio.
+> **[3:26](https://www.linkedin.com/learning/database-foundations-application-development/add-data-to-a-database?u=76281980&t=206)** As a sanity check, we can verify everything worked correctly by logging in with [[Microsoft Azure|Azure]] Data Studio.
 >
-> **[3:32](https://www.linkedin.com/learning/database-foundations-application-development/add-data-to-a-database?u=76281980&t=212)** This step is optional though, but if you do have that connection already created to our database server in Azure Data Studio, you can open it up and right-click on the databases folder, choose Refresh, there is the Two Trees database.
+> **[3:32](https://www.linkedin.com/learning/database-foundations-application-development/add-data-to-a-database?u=76281980&t=212)** This step is optional though, but if you do have that connection already created to our database server in Azure Data Studio, you can open it up and right-click on the [[Databases]] folder, choose Refresh, there is the Two Trees database.
 >
 > **[3:45](https://www.linkedin.com/learning/database-foundations-application-development/add-data-to-a-database?u=76281980&t=225)** Let's expand tables. There is the table.
 >
 > **[3:48](https://www.linkedin.com/learning/database-foundations-application-development/add-data-to-a-database?u=76281980&t=228)** Here are all of the columns.
 >
-> **[3:50](https://www.linkedin.com/learning/database-foundations-application-development/add-data-to-a-database?u=76281980&t=230)** And if I right-click on the products table and choose select top 1,000, we should see some data returned and there is all the data that was entered with the PHP script.
+> **[3:50](https://www.linkedin.com/learning/database-foundations-application-development/add-data-to-a-database?u=76281980&t=230)** And if I right-click on the products table and choose select top 1,000, we should see some data returned and there is all the data that was entered with the [[PHP]] script.
 >
 > **[4:01](https://www.linkedin.com/learning/database-foundations-application-development/add-data-to-a-database?u=76281980&t=241)** So now we have a database for the Two Trees Olive Oil company with some product data that we can play with.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (16), data (9), [[Microsoft Products|Products]] (3), product (3), next (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Microsoft Azure|Azure]] (2), [[PostgreSQL]] (1), [[Databases]] (1), [[PHP]] (1)
 > **Env Vars:** create (3), schema (1), table (1), sku (1), insert (1)
 > **Code Identifiers:** pg_connect (2), two_trees (2), create_table_query (2), insert_data_query (2), create_schema_query (1)
 > **Prerequisites:** set up (5)
@@ -1275,22 +1261,21 @@ created: 2026-05-02
 > **SQL:** create table (1), insert into (1)
 > **Ports:** :8080 (1)
 
-#### Format SELECT query results
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-application-development/format-select-query-results?u=76281980)
+#### [Format SELECT query results](https://www.linkedin.com/learning/database-foundations-application-development/format-select-query-results?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-application-development/format-select-query-results?u=76281980&t=0)** - [Instructor] Data that's returned from a select query, turns into an array of values that we need to process in PHP before it's usable.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-application-development/format-select-query-results?u=76281980&t=0)** - [Instructor] Data that's returned from a select query, turns into an array of values that we need to process in [[PHP]] before it's usable.
 >
 > **[0:09](https://www.linkedin.com/learning/database-foundations-application-development/format-select-query-results?u=76281980&t=9)** This will often require a looping routine in order to write out each row of data one row at a time.
 >
 > **[0:16](https://www.linkedin.com/learning/database-foundations-application-development/format-select-query-results?u=76281980&t=16)** In the two trees database file, let's scroll down until we get to query number one.
 >
-> **[0:22](https://www.linkedin.com/learning/database-foundations-application-development/format-select-query-results?u=76281980&t=22)** This first query in the two trees database will retrieve all of the values from the products table.
+> **[0:22](https://www.linkedin.com/learning/database-foundations-application-development/format-select-query-results?u=76281980&t=22)** This first query in the two trees database will retrieve all of the values from the [[Microsoft Products|products]] table.
 >
 > **[0:28](https://www.linkedin.com/learning/database-foundations-application-development/format-select-query-results?u=76281980&t=28)** The procedure starts with these same variables that we've been working with.
 >
-> **[0:32](https://www.linkedin.com/learning/database-foundations-application-development/format-select-query-results?u=76281980&t=32)** We'll create a variable called db_connection that contains our connection string, we'll then set up a variable called query_db that contains the SQL that we're going to execute.
+> **[0:32](https://www.linkedin.com/learning/database-foundations-application-development/format-select-query-results?u=76281980&t=32)** We'll create a variable called db_connection that contains our connection string, we'll then set up a variable called query_db that contains the [[SQL]] that we're going to execute.
 >
 > **[0:43](https://www.linkedin.com/learning/database-foundations-application-development/format-select-query-results?u=76281980&t=43)** The query that I'm going to run is a select statement.
 >
@@ -1310,7 +1295,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/database-foundations-application-development/format-select-query-results?u=76281980&t=84)** If the result fails to retrieve data for any reason, we'll jump down to the else portion and run these two lines.
 >
-> **[1:31](https://www.linkedin.com/learning/database-foundations-application-development/format-select-query-results?u=76281980&t=91)** This will allow us to display the error that's reported by PostgreSQL.
+> **[1:31](https://www.linkedin.com/learning/database-foundations-application-development/format-select-query-results?u=76281980&t=91)** This will allow us to display the error that's reported by [[PostgreSQL]].
 >
 > **[1:36](https://www.linkedin.com/learning/database-foundations-application-development/format-select-query-results?u=76281980&t=96)** If the results are successful though, we'll print out two lines of text.
 >
@@ -1352,7 +1337,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/database-foundations-application-development/format-select-query-results?u=76281980&t=190)** It'll create a string of text that includes the sku value followed by a space, the product name, another space, category_id space size, space, and then finally price.
 >
-> **[3:24](https://www.linkedin.com/learning/database-foundations-application-development/format-select-query-results?u=76281980&t=204)** At the end it'll add an HTML line break.
+> **[3:24](https://www.linkedin.com/learning/database-foundations-application-development/format-select-query-results?u=76281980&t=204)** At the end it'll add an [[HTML]] line break.
 >
 > **[3:27](https://www.linkedin.com/learning/database-foundations-application-development/format-select-query-results?u=76281980&t=207)** This will set up the next row of data so that all finishes the first row of data, the loop returns to the top, it increments the counter and runs through the entire statement again for the second row of data from the result set.
 >
@@ -1406,13 +1391,13 @@ created: 2026-05-02
 >
 > **[5:51](https://www.linkedin.com/learning/database-foundations-application-development/format-select-query-results?u=76281980&t=351)** All of the values get put into a well formatted HTML table and the CSS styling can be applied to make the header row stand out and give us a better alternating row shading that makes the table easy to read.
 >
-> **[6:04](https://www.linkedin.com/learning/database-foundations-application-development/format-select-query-results?u=76281980&t=364)** If else, constructs and for loops are just a couple of the many programming techniques that can be applied to your data when you move into an application development role.
+> **[6:04](https://www.linkedin.com/learning/database-foundations-application-development/format-select-query-results?u=76281980&t=364)** If else, constructs and for loops are just a couple of the many programming techniques that can be applied to your data when you move into an [[Application Development]] role.
 >
 > **[6:14](https://www.linkedin.com/learning/database-foundations-application-development/format-select-query-results?u=76281980&t=374)** They allow you to process your data in interesting ways apply formatting to increase legibility and help create dynamic interactive presentations.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), product (6), [[HTML]] (4), database (3), [[PHP]] (2)
+> **Frameworks & Libraries:** [[HTML]] (4), [[PHP]] (2), [[Microsoft Products|Products]] (2), [[SQL]] (1), [[PostgreSQL]] (1)
 > **Code Identifiers:** category_id (5), product_name (2), db_connection (1), query_db (1), pg_fetch_results (1)
 > **Env Vars:** html (4), php (2), sql (1), css (1)
 > **CLI Commands:** php (2), find (2), make (1)
@@ -1421,8 +1406,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Filter results with form controls
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-application-development/filter-results-with-form-controls?u=76281980)
+#### [Filter results with form controls](https://www.linkedin.com/learning/database-foundations-application-development/filter-results-with-form-controls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1434,7 +1418,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/database-foundations-application-development/filter-results-with-form-controls?u=76281980&t=20)** Here, we have an example of a form control called a selection box or a dropdown list.
 >
-> **[0:26](https://www.linkedin.com/learning/database-foundations-application-development/filter-results-with-form-controls?u=76281980&t=26)** This allows the user to choose from several different options for the types of products that they want to see.
+> **[0:26](https://www.linkedin.com/learning/database-foundations-application-development/filter-results-with-form-controls?u=76281980&t=26)** This allows the user to choose from several different options for the types of [[Microsoft Products|products]] that they want to see.
 >
 > **[0:32](https://www.linkedin.com/learning/database-foundations-application-development/filter-results-with-form-controls?u=76281980&t=32)** The options are number one, olive oils.
 >
@@ -1454,7 +1438,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/database-foundations-application-development/filter-results-with-form-controls?u=76281980&t=72)** Let's look at the code that creates this selection list.
 >
-> **[1:16](https://www.linkedin.com/learning/database-foundations-application-development/filter-results-with-form-controls?u=76281980&t=76)** In the exercise files of the chapter two folder, go into the PHP web server folder and then into the two trees folder.
+> **[1:16](https://www.linkedin.com/learning/database-foundations-application-development/filter-results-with-form-controls?u=76281980&t=76)** In the exercise files of the chapter two folder, go into the [[PHP]] web server folder and then into the two trees folder.
 >
 > **[1:24](https://www.linkedin.com/learning/database-foundations-application-development/filter-results-with-form-controls?u=76281980&t=84)** I'm going to open up the index.PHP file in my code editor.
 >
@@ -1484,7 +1468,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/database-foundations-application-development/filter-results-with-form-controls?u=76281980&t=149)** Let's go back to our example code.
 >
-> **[2:32](https://www.linkedin.com/learning/database-foundations-application-development/filter-results-with-form-controls?u=76281980&t=152)** In order to incorporate user input, we need to slightly modify our approach to sending SQL commands to the database server.
+> **[2:32](https://www.linkedin.com/learning/database-foundations-application-development/filter-results-with-form-controls?u=76281980&t=152)** In order to incorporate user input, we need to slightly modify our approach to sending [[SQL]] commands to the database server.
 >
 > **[2:40](https://www.linkedin.com/learning/database-foundations-application-development/filter-results-with-form-controls?u=76281980&t=160)** We start by creating our connection.
 >
@@ -1552,7 +1536,7 @@ created: 2026-05-02
 >
 > **[4:59](https://www.linkedin.com/learning/database-foundations-application-development/filter-results-with-form-controls?u=76281980&t=299)** And you'll see that everything here in the if block and the for-loop is exactly the same as what we had in the previous example.
 >
-> **[5:07](https://www.linkedin.com/learning/database-foundations-application-development/filter-results-with-form-controls?u=76281980&t=307)** It formats all those results into an HTML table.
+> **[5:07](https://www.linkedin.com/learning/database-foundations-application-development/filter-results-with-form-controls?u=76281980&t=307)** It formats all those results into an [[HTML]] table.
 >
 > **[5:11](https://www.linkedin.com/learning/database-foundations-application-development/filter-results-with-form-controls?u=76281980&t=311)** This for-loop will process whatever the results that contains.
 >
@@ -1566,7 +1550,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (7), database (6), [[Microsoft Products|Products]] (5), web (4), [[SQL]] (2)
+> **Frameworks & Libraries:** [[PHP]] (7), [[Microsoft Products|Products]] (5), [[SQL]] (2), [[HTML]] (1)
 > **Env Vars:** php (7), sql (2), html (1)
 > **CLI Commands:** php (7), make (2)
 > **UI Navigation:** dropdown (3), scroll down (1)
@@ -1575,12 +1559,11 @@ created: 2026-05-02
 > **File Paths:** index.php (1)
 > **Exercise Files:** exercise files (1)
 
-#### Add data to a table with form controls
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-application-development/add-data-to-a-table-with-form-controls?u=76281980)
+#### [Add data to a table with form controls](https://www.linkedin.com/learning/database-foundations-application-development/add-data-to-a-table-with-form-controls?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-application-development/add-data-to-a-table-with-form-controls?u=76281980&t=0)** - [Instructor] Using form controls, we can allow end users to add new rows of data to the database, without them having to know anything about how relational databases work or how our specific database is structured.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-application-development/add-data-to-a-table-with-form-controls?u=76281980&t=0)** - [Instructor] Using form controls, we can allow end users to add new rows of data to the database, without them having to know anything about how [[Relational Databases]] work or how our specific database is structured.
 >
 > **[0:14](https://www.linkedin.com/learning/database-foundations-application-development/add-data-to-a-table-with-form-controls?u=76281980&t=14)** Query_4 includes some form controls that accept user input.
 >
@@ -1592,7 +1575,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/database-foundations-application-development/add-data-to-a-table-with-form-controls?u=76281980&t=30)** The product name is Olive Oil Bath Soap.
 >
-> **[0:35](https://www.linkedin.com/learning/database-foundations-application-development/add-data-to-a-table-with-form-controls?u=76281980&t=35)** We'll put it into the Bath and Beauty products category.
+> **[0:35](https://www.linkedin.com/learning/database-foundations-application-development/add-data-to-a-table-with-form-controls?u=76281980&t=35)** We'll put it into the Bath and Beauty [[Microsoft Products|products]] category.
 >
 > **[0:38](https://www.linkedin.com/learning/database-foundations-application-development/add-data-to-a-table-with-form-controls?u=76281980&t=38)** The size is eight ounces and the price is 599.
 >
@@ -1616,7 +1599,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/database-foundations-application-development/add-data-to-a-table-with-form-controls?u=76281980&t=94)** Let's go back into the exercise files again and take a look at the code.
 >
-> **[1:37](https://www.linkedin.com/learning/database-foundations-application-development/add-data-to-a-table-with-form-controls?u=76281980&t=97)** I'm going to go into the PHP web server folder, two trees, and then open up index.php in my code editor.
+> **[1:37](https://www.linkedin.com/learning/database-foundations-application-development/add-data-to-a-table-with-form-controls?u=76281980&t=97)** I'm going to go into the [[PHP]] web server folder, two trees, and then open up index.php in my code editor.
 >
 > **[1:47](https://www.linkedin.com/learning/database-foundations-application-development/add-data-to-a-table-with-form-controls?u=76281980&t=107)** This time I'm going to scroll down and we'll take a look at lines 72 through 88.
 >
@@ -1640,7 +1623,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/database-foundations-application-development/add-data-to-a-table-with-form-controls?u=76281980&t=157)** Then we'll prepare our query.
 >
-> **[2:40](https://www.linkedin.com/learning/database-foundations-application-development/add-data-to-a-table-with-form-controls?u=76281980&t=160)** The SQL command that we're going to execute is an INSERT_INTO command.
+> **[2:40](https://www.linkedin.com/learning/database-foundations-application-development/add-data-to-a-table-with-form-controls?u=76281980&t=160)** The [[SQL]] command that we're going to execute is an INSERT_INTO command.
 >
 > **[2:44](https://www.linkedin.com/learning/database-foundations-application-development/add-data-to-a-table-with-form-controls?u=76281980&t=164)** So we're going to insert a row into the inventory.products table and we'll supply values for each of the five columns.
 >
@@ -1678,7 +1661,7 @@ created: 2026-05-02
 >
 > **[4:25](https://www.linkedin.com/learning/database-foundations-application-development/add-data-to-a-table-with-form-controls?u=76281980&t=265)** Let me scroll up here where we still have the same values that we filled in a moment ago and I'm just going to try and run this query again.
 >
-> **[4:32](https://www.linkedin.com/learning/database-foundations-application-development/add-data-to-a-table-with-form-controls?u=76281980&t=272)** This time PostgreSQL complaints that I duplicate primary key value is given.
+> **[4:32](https://www.linkedin.com/learning/database-foundations-application-development/add-data-to-a-table-with-form-controls?u=76281980&t=272)** This time [[PostgreSQL]] complaints that I duplicate primary key value is given.
 >
 > **[4:36](https://www.linkedin.com/learning/database-foundations-application-development/add-data-to-a-table-with-form-controls?u=76281980&t=276)** So it can't add the new row.
 >
@@ -1698,7 +1681,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), data (5), [[Microsoft Products|Products]] (4), web (4), [[PHP]] (4)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[PHP]] (4), [[SQL]] (2), [[PostgreSQL]] (2), [[Relational Databases]] (1)
 > **Code Identifiers:** sku_value (2), name_value (2), category_id_value (1), size_value (1), price_value (1)
 > **Env Vars:** php (3), sql (2), soap001 (1), insert_into (1), soap002 (1)
 > **CLI Commands:** php (4), make (1)
@@ -1712,16 +1695,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is ASP.NET Core?
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-application-development/what-is-asp-dot-net-core?u=76281980)
+#### [What is ASP.NET Core?](https://www.linkedin.com/learning/database-foundations-application-development/what-is-asp-dot-net-core?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/database-foundations-application-development/what-is-asp-dot-net-core?u=76281980&t=0)** - [Narrator] It's time to change gears and turn our attention to our second project.
 >
-> **[0:05](https://www.linkedin.com/learning/database-foundations-application-development/what-is-asp-dot-net-core?u=76281980&t=5)** This time, we're going to focus on SQL Server and a web server technology called [ASP.NET](https://ASP.NET) Core.
+> **[0:05](https://www.linkedin.com/learning/database-foundations-application-development/what-is-asp-dot-net-core?u=76281980&t=5)** This time, we're going to focus on [[Microsoft SQL Server|SQL Server]] and a web server technology called [[[ASP.NET]]](https://ASP.NET) Core.
 >
-> **[0:13](https://www.linkedin.com/learning/database-foundations-application-development/what-is-asp-dot-net-core?u=76281980&t=13)** While PHP data objects, or PDO, does have support for connecting to SQL Server databases through specialized drivers and functions, it's more common that SQL Server databases are paired with other Microsoft technologies.
+> **[0:13](https://www.linkedin.com/learning/database-foundations-application-development/what-is-asp-dot-net-core?u=76281980&t=13)** While [[PHP]] data objects, or PDO, does have support for connecting to SQL Server [[Databases]] through specialized drivers and functions, it's more common that SQL Server databases are paired with other [[Microsoft]] technologies.
 >
 > **[0:29](https://www.linkedin.com/learning/database-foundations-application-development/what-is-asp-dot-net-core?u=76281980&t=29)** [ASP.NET](https://ASP.NET) Core is a web framework that takes a different approach to the development of web applications.
 >
@@ -1737,7 +1719,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/database-foundations-application-development/what-is-asp-dot-net-core?u=76281980&t=82)** Because of this modular design, when developing an [ASP.NET](https://ASP.NET) Core web app, you're almost certainly going to want to use the Visual Studio IDE, or Integrated Development Environment.
 >
-> **[1:34](https://www.linkedin.com/learning/database-foundations-application-development/what-is-asp-dot-net-core?u=76281980&t=94)** Visual Studio is available for Windows and Mac OS.
+> **[1:34](https://www.linkedin.com/learning/database-foundations-application-development/what-is-asp-dot-net-core?u=76281980&t=94)** Visual Studio is available for [[Windows]] and Mac OS.
 >
 > **[1:39](https://www.linkedin.com/learning/database-foundations-application-development/what-is-asp-dot-net-core?u=76281980&t=99)** This will allow you to take advantage of starter projects and templates that help automate the connection of these different components across multiple files.
 >
@@ -1763,7 +1745,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (6), data (6), [[ASP.NET Core]] (5), [[Microsoft SQL Server|Sql server]] (4), [[Databases]] (2)
+> **Frameworks & Libraries:** [[ASP.NET Core]] (5), [[Microsoft SQL Server|Sql server]] (4), [[Databases]] (2), [[PHP]] (1), [[Microsoft]] (1)
 > **Env Vars:** asp (6), net (6), sql (4), php (1), pdo (1)
 > **URLs:** [asp.net](https://asp.net) (6)
 > **CLI Commands:** make (2), php (1)
@@ -1772,22 +1754,21 @@ created: 2026-05-02
 > **Analogies:** think of it as (1)
 > **Prerequisites:** set up (1)
 
-#### Create the ASP.NET Core web server with Docker
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-application-development/create-the-asp-dot-net-core-web-server-with-docker?u=76281980)
+#### [Create the ASP.NET Core web server with Docker](https://www.linkedin.com/learning/database-foundations-application-development/create-the-asp-dot-net-core-web-server-with-docker?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-application-development/create-the-asp-dot-net-core-web-server-with-docker?u=76281980&t=0)** - [Instructor] To create our [ASP.NET](https://ASP.NET) Core web app, we already know that we need two components, a web server and a database server.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-application-development/create-the-asp-dot-net-core-web-server-with-docker?u=76281980&t=0)** - [Instructor] To create our [[[ASP.NET]]](https://ASP.NET) Core web app, we already know that we need two components, a web server and a database server.
 >
 > **[0:09](https://www.linkedin.com/learning/database-foundations-application-development/create-the-asp-dot-net-core-web-server-with-docker?u=76281980&t=9)** We're going to leverage Docker again to compartmentalize everything and make it easy to manage.
 >
-> **[0:14](https://www.linkedin.com/learning/database-foundations-application-development/create-the-asp-dot-net-core-web-server-with-docker?u=76281980&t=14)** But let's take a different approach from what we did with the PHP project.
+> **[0:14](https://www.linkedin.com/learning/database-foundations-application-development/create-the-asp-dot-net-core-web-server-with-docker?u=76281980&t=14)** But let's take a different approach from what we did with the [[PHP]] project.
 >
 > **[0:20](https://www.linkedin.com/learning/database-foundations-application-development/create-the-asp-dot-net-core-web-server-with-docker?u=76281980&t=20)** In the first project we created a network then created each server container in that network, we also had to log into the PHP web server to install some additional software drivers.
 >
 > **[0:31](https://www.linkedin.com/learning/database-foundations-application-development/create-the-asp-dot-net-core-web-server-with-docker?u=76281980&t=31)** We did all of this by running multiple commands in sequence.
 >
-> **[0:36](https://www.linkedin.com/learning/database-foundations-application-development/create-the-asp-dot-net-core-web-server-with-docker?u=76281980&t=36)** Docker has a very useful feature called compose that will allow us to combine multiple steps into one.
+> **[0:36](https://www.linkedin.com/learning/database-foundations-application-development/create-the-asp-dot-net-core-web-server-with-docker?u=76281980&t=36)** Docker has a very useful feature called [[Jetpack Compose|compose]] that will allow us to combine multiple steps into one.
 >
 > **[0:43](https://www.linkedin.com/learning/database-foundations-application-development/create-the-asp-dot-net-core-web-server-with-docker?u=76281980&t=43)** This makes it much easier to set up applications that require multiple containers working together.
 >
@@ -1807,7 +1788,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/database-foundations-application-development/create-the-asp-dot-net-core-web-server-with-docker?u=76281980&t=82)** It starts by specifying the image that our container will be built form.
 >
-> **[1:27](https://www.linkedin.com/learning/database-foundations-application-development/create-the-asp-dot-net-core-web-server-with-docker?u=76281980&t=87)** In this case the Microsoft/dotnet/SDK version 5.0.
+> **[1:27](https://www.linkedin.com/learning/database-foundations-application-development/create-the-asp-dot-net-core-web-server-with-docker?u=76281980&t=87)** In this case the [[Microsoft]]/dotnet/SDK version 5.0.
 >
 > **[1:32](https://www.linkedin.com/learning/database-foundations-application-development/create-the-asp-dot-net-core-web-server-with-docker?u=76281980&t=92)** It then lists out additional commands to run on the container to configure it.
 >
@@ -1821,7 +1802,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/database-foundations-application-development/create-the-asp-dot-net-core-web-server-with-docker?u=76281980&t=115)** If you look at that shell script you'll see that it really doesn't contain that much.
 >
-> **[1:59](https://www.linkedin.com/learning/database-foundations-application-development/create-the-asp-dot-net-core-web-server-with-docker?u=76281980&t=119)** We have a couple of commands here that are run to start up the dotnet server and the SQL Server container.
+> **[1:59](https://www.linkedin.com/learning/database-foundations-application-development/create-the-asp-dot-net-core-web-server-with-docker?u=76281980&t=119)** We have a couple of commands here that are run to start up the dotnet server and the [[Microsoft SQL Server|SQL Server]] container.
 >
 > **[2:06](https://www.linkedin.com/learning/database-foundations-application-development/create-the-asp-dot-net-core-web-server-with-docker?u=76281980&t=126)** Finally, it let's review the Docker compose YML file.
 >
@@ -1851,7 +1832,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/database-foundations-application-development/create-the-asp-dot-net-core-web-server-with-docker?u=76281980&t=203)** The commands that you need to run on your terminal are all written out here in this file.
 >
-> **[3:29](https://www.linkedin.com/learning/database-foundations-application-development/create-the-asp-dot-net-core-web-server-with-docker?u=76281980&t=209)** But there's really only one step to setting everything up, I'll close this file down and then open up my PowerShell or terminal application.
+> **[3:29](https://www.linkedin.com/learning/database-foundations-application-development/create-the-asp-dot-net-core-web-server-with-docker?u=76281980&t=209)** But there's really only one step to setting everything up, I'll close this file down and then open up my [[Powershell]] or terminal application.
 >
 > **[3:38](https://www.linkedin.com/learning/database-foundations-application-development/create-the-asp-dot-net-core-web-server-with-docker?u=76281980&t=218)** Then we need to switch into the ASP NET project folder.
 >
@@ -1911,7 +1892,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (12), database (7), [[Jetpack Compose|Compose]] (6), [[Microsoft SQL Server|Sql server]] (5), next (3)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (6), [[Microsoft SQL Server|Sql server]] (5), [[ASP.NET Core]] (2), [[PHP]] (2), [[ASP.NET]] (2)
 > **Env Vars:** asp (6), net (6), sql (5), php (2), sdk (1)
 > **CLI Commands:** docker (7), dotnet (3), php (2), find (2), make (1)
 > **Prerequisites:** configure (4), set up (3), install (1), setup (1), you'll need (1)
@@ -1920,20 +1901,19 @@ created: 2026-05-02
 > **File Paths:** docker-compose.yml (1), entrypoint.sh (1)
 > **Ports:** port 8 (1), port 1450 (1)
 
-#### Add a database to SQL Server
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-application-development/add-a-database-to-sql-server?u=76281980)
+#### [Add a database to SQL Server](https://www.linkedin.com/learning/database-foundations-application-development/add-a-database-to-sql-server?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-application-development/add-a-database-to-sql-server?u=76281980&t=0)** - We need to add our two trees database to the SQL server instance.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-application-development/add-a-database-to-sql-server?u=76281980&t=0)** - We need to add our two trees database to the [[Microsoft SQL Server|SQL server]] instance.
 >
-> **[0:05](https://www.linkedin.com/learning/database-foundations-application-development/add-a-database-to-sql-server?u=76281980&t=5)** There are two different ways that we can do that using either our graphical management client, Azure data studio or we can use the command line.
+> **[0:05](https://www.linkedin.com/learning/database-foundations-application-development/add-a-database-to-sql-server?u=76281980&t=5)** There are two different ways that we can do that using either our graphical management client, [[Microsoft Azure|Azure]] data studio or we can use the command line.
 >
 > **[0:13](https://www.linkedin.com/learning/database-foundations-application-development/add-a-database-to-sql-server?u=76281980&t=13)** Let's take a look at both methods.
 >
 > **[0:16](https://www.linkedin.com/learning/database-foundations-application-development/add-a-database-to-sql-server?u=76281980&t=16)** I'm going to minimize the web browser here and take a look inside of the chapter three folder of the exercise files here.
 >
-> **[0:22](https://www.linkedin.com/learning/database-foundations-application-development/add-a-database-to-sql-server?u=76281980&t=22)** We have the two trees.SQL file.
+> **[0:22](https://www.linkedin.com/learning/database-foundations-application-development/add-a-database-to-sql-server?u=76281980&t=22)** We have the two trees.[[SQL]] file.
 >
 > **[0:25](https://www.linkedin.com/learning/database-foundations-application-development/add-a-database-to-sql-server?u=76281980&t=25)** Let me open that up inside of my code editor.
 >
@@ -1953,7 +1933,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/database-foundations-application-development/add-a-database-to-sql-server?u=76281980&t=59)** That'll open up the connection sidebar.
 >
-> **[1:02](https://www.linkedin.com/learning/database-foundations-application-development/add-a-database-to-sql-server?u=76281980&t=62)** We'll connect to a Microsoft SQL server connection and the server will be local hosts.
+> **[1:02](https://www.linkedin.com/learning/database-foundations-application-development/add-a-database-to-sql-server?u=76281980&t=62)** We'll connect to a [[Microsoft SQL Server]] connection and the server will be local hosts.
 >
 > **[1:08](https://www.linkedin.com/learning/database-foundations-application-development/add-a-database-to-sql-server?u=76281980&t=68)** We'll use a SQL login, the SA system administrator account with a password Adam 123456.
 >
@@ -1961,7 +1941,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/database-foundations-application-development/add-a-database-to-sql-server?u=76281980&t=81)** Let's go ahead and give this a name.
 >
-> **[1:22](https://www.linkedin.com/learning/database-foundations-application-development/add-a-database-to-sql-server?u=76281980&t=82)** I'll call it SQL server [asp.net](https://asp.net).
+> **[1:22](https://www.linkedin.com/learning/database-foundations-application-development/add-a-database-to-sql-server?u=76281980&t=82)** I'll call it SQL server [[[ASP.NET]]](https://asp.net).
 >
 > **[1:27](https://www.linkedin.com/learning/database-foundations-application-development/add-a-database-to-sql-server?u=76281980&t=87)** Then we'll click over to the advanced tab.
 >
@@ -1991,7 +1971,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/database-foundations-application-development/add-a-database-to-sql-server?u=76281980&t=136)** Let me go ahead and minimize Azure data studio.
 >
-> **[2:19](https://www.linkedin.com/learning/database-foundations-application-development/add-a-database-to-sql-server?u=76281980&t=139)** Now we already have a command line or a PowerShell window open.
+> **[2:19](https://www.linkedin.com/learning/database-foundations-application-development/add-a-database-to-sql-server?u=76281980&t=139)** Now we already have a command line or a [[Powershell]] window open.
 >
 > **[2:22](https://www.linkedin.com/learning/database-foundations-application-development/add-a-database-to-sql-server?u=76281980&t=142)** That's got our running server inside of it.
 >
@@ -2007,7 +1987,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/database-foundations-application-development/add-a-database-to-sql-server?u=76281980&t=160)** That shows me I currently have four containers.
 >
-> **[2:42](https://www.linkedin.com/learning/database-foundations-application-development/add-a-database-to-sql-server?u=76281980&t=162)** We have the two for our PHP example running right there.
+> **[2:42](https://www.linkedin.com/learning/database-foundations-application-development/add-a-database-to-sql-server?u=76281980&t=162)** We have the two for our [[PHP]] example running right there.
 >
 > **[2:45](https://www.linkedin.com/learning/database-foundations-application-development/add-a-database-to-sql-server?u=76281980&t=165)** The PHP web server and the PG DB server.
 >
@@ -2085,7 +2065,7 @@ created: 2026-05-02
 >
 > **[5:22](https://www.linkedin.com/learning/database-foundations-application-development/add-a-database-to-sql-server?u=76281980&t=322)** I still have the server connection here.
 >
-> **[5:24](https://www.linkedin.com/learning/database-foundations-application-development/add-a-database-to-sql-server?u=76281980&t=324)** Let's go ahead and open up the databases folder.
+> **[5:24](https://www.linkedin.com/learning/database-foundations-application-development/add-a-database-to-sql-server?u=76281980&t=324)** Let's go ahead and open up the [[Databases]] folder.
 >
 > **[5:26](https://www.linkedin.com/learning/database-foundations-application-development/add-a-database-to-sql-server?u=76281980&t=326)** You might need you right click on it and choose refresh.
 >
@@ -2103,7 +2083,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (12), [[SQL]] (11), data (10), web (6), [[Microsoft SQL Server|Sql server]] (5)
+> **Frameworks & Libraries:** [[SQL]] (11), [[Microsoft SQL Server|Sql server]] (5), [[Microsoft Azure|Azure]] (4), [[Powershell]] (3), [[PHP]] (2)
 > **Env Vars:** sql (17), asp (4), php (2), exec (1), mssql (1)
 > **CLI Commands:** docker (7), find (2), php (2), cp (2), make (1)
 > **Tools:** command line (3), powershell (3), bash (1)
@@ -2112,12 +2092,11 @@ created: 2026-05-02
 > **Speakers:** - we (1), - u (1), - p (1)
 > **URLs:** [asp.net](https://asp.net) (1)
 
-#### ASP.NET modularity
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-application-development/asp-dot-net-modularity?u=76281980)
+#### [ASP.NET modularity](https://www.linkedin.com/learning/database-foundations-application-development/asp-dot-net-modularity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-application-development/asp-dot-net-modularity?u=76281980&t=0)** - [Narrator] We can get a feel for the modularity of an [ASP.NET](https://ASP.NET) Core application by taking a look at a view object.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-application-development/asp-dot-net-modularity?u=76281980&t=0)** - [Narrator] We can get a feel for the modularity of an [[[ASP.NET]]](https://ASP.NET) Core application by taking a look at a view object.
 >
 > **[0:08](https://www.linkedin.com/learning/database-foundations-application-development/asp-dot-net-modularity?u=76281980&t=8)** Let's click back to the homepage of our application by clicking on the home link here in the navigation bar.
 >
@@ -2179,7 +2158,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/database-foundations-application-development/asp-dot-net-modularity?u=76281980&t=164)** This file contains all of the common elements.
 >
-> **[2:47](https://www.linkedin.com/learning/database-foundations-application-development/asp-dot-net-modularity?u=76281980&t=167)** At the top of the page, we have the normal HTML opening tags including the head information.
+> **[2:47](https://www.linkedin.com/learning/database-foundations-application-development/asp-dot-net-modularity?u=76281980&t=167)** At the top of the page, we have the normal [[HTML]] opening tags including the head information.
 >
 > **[2:52](https://www.linkedin.com/learning/database-foundations-application-development/asp-dot-net-modularity?u=76281980&t=172)** Notice that on this line number six that we have the title, but it's incomplete.
 >
@@ -2233,7 +2212,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ASP.NET]] (3), application (2), data (2), [[ASP.NET Core]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[ASP.NET]] (3), [[ASP.NET Core]] (1), [[HTML]] (1)
 > **Env Vars:** asp (4), net (4), html (1)
 > **UI Navigation:** right-click (3), navigate to (1), open the (1), scroll down (1)
 > **CLI Commands:** find (3), make (1)
@@ -2242,16 +2221,15 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1), source code (1)
 > **Cross-References:** go back to (1)
 
-#### Model tabular data
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-application-development/model-tabular-data?u=76281980)
+#### [Model tabular data](https://www.linkedin.com/learning/database-foundations-application-development/model-tabular-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-application-development/model-tabular-data?u=76281980&t=0)** - [Instructor] The modular design of an [asp.net](https://asp.net) site also applies to the database connection, and it controls how data is used throughout the entire site.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-application-development/model-tabular-data?u=76281980&t=0)** - [Instructor] The modular design of an [[[ASP.NET]]](https://asp.net) site also applies to the database connection, and it controls how data is used throughout the entire site.
 >
 > **[0:10](https://www.linkedin.com/learning/database-foundations-application-development/model-tabular-data?u=76281980&t=10)** To see how this works, we need to dig into the project files again.
 >
-> **[0:14](https://www.linkedin.com/learning/database-foundations-application-development/model-tabular-data?u=76281980&t=14)** Now a word of warning before we get started, this is going to be a bit of a journey through a number of different files.
+> **[0:14](https://www.linkedin.com/learning/database-foundations-application-development/model-tabular-data?u=76281980&t=14)** Now a [[Microsoft Word|word]] of warning before we get started, this is going to be a bit of a journey through a number of different files.
 >
 > **[0:21](https://www.linkedin.com/learning/database-foundations-application-development/model-tabular-data?u=76281980&t=21)** To simplify things, I'm going to open the entire aspnet folder inside of Visual Studio.
 >
@@ -2267,7 +2245,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/database-foundations-application-development/model-tabular-data?u=76281980&t=56)** Okay, I'm going to start by closing the Welcome tab.
 >
-> **[0:58](https://www.linkedin.com/learning/database-foundations-application-development/model-tabular-data?u=76281980&t=58)** And then I'm going to find the appsettings.json file that's in the root aspnet folder.
+> **[0:58](https://www.linkedin.com/learning/database-foundations-application-development/model-tabular-data?u=76281980&t=58)** And then I'm going to find the appsettings.[[JSON]] file that's in the root aspnet folder.
 >
 > **[1:06](https://www.linkedin.com/learning/database-foundations-application-development/model-tabular-data?u=76281980&t=66)** In this file on line 11 is where our initial database connection string is stored.
 >
@@ -2277,11 +2255,11 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/database-foundations-application-development/model-tabular-data?u=76281980&t=78)** This specific name Db is coming from our Docker network.
 >
-> **[1:23](https://www.linkedin.com/learning/database-foundations-application-development/model-tabular-data?u=76281980&t=83)** If you open up the Docker-compose.yaml file, you'll recall that we created two services, one for web and one for Db.
+> **[1:23](https://www.linkedin.com/learning/database-foundations-application-development/model-tabular-data?u=76281980&t=83)** If you open up the Docker-[[Jetpack Compose|compose]].yaml file, you'll recall that we created two services, one for web and one for Db.
 >
 > **[1:32](https://www.linkedin.com/learning/database-foundations-application-development/model-tabular-data?u=76281980&t=92)** So this is where the server name is coming from there that we're using in our project.
 >
-> **[1:38](https://www.linkedin.com/learning/database-foundations-application-development/model-tabular-data?u=76281980&t=98)** Back in the appsettings.json file, we can read the rest of the connection string.
+> **[1:38](https://www.linkedin.com/learning/database-foundations-application-development/model-tabular-data?u=76281980&t=98)** Back in the appsettings.json file, we can read the [[Representational State Transfer (REST)|rest]] of the connection string.
 >
 > **[1:42](https://www.linkedin.com/learning/database-foundations-application-development/model-tabular-data?u=76281980&t=102)** So we're connecting to the Db server.
 >
@@ -2337,7 +2315,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/database-foundations-application-development/model-tabular-data?u=76281980&t=214)** In the Customer.cs file, we finally get to a full description of every column in the customer table.
 >
-> **[3:42](https://www.linkedin.com/learning/database-foundations-application-development/model-tabular-data?u=76281980&t=222)** The public string for each column is the name of the column as it exists in the SQL Server database.
+> **[3:42](https://www.linkedin.com/learning/database-foundations-application-development/model-tabular-data?u=76281980&t=222)** The public string for each column is the name of the column as it exists in the [[Microsoft SQL Server|SQL Server]] database.
 >
 > **[3:49](https://www.linkedin.com/learning/database-foundations-application-development/model-tabular-data?u=76281980&t=229)** So we have column names customer_id, company, address, city.
 >
@@ -2385,7 +2363,7 @@ created: 2026-05-02
 >
 > **[6:12](https://www.linkedin.com/learning/database-foundations-application-development/model-tabular-data?u=76281980&t=372)** Okay, I'll admit that this error isn't very clear, and it's not going to make much sense to most users, but you get the idea.
 >
-> **[6:19](https://www.linkedin.com/learning/database-foundations-application-development/model-tabular-data?u=76281980&t=379)** The data validation is handled immediately by the application right here in the browser before we even get to the point where we're trying to update the database.
+> **[6:19](https://www.linkedin.com/learning/database-foundations-application-development/model-tabular-data?u=76281980&t=379)** The [[Data Validation]] is handled immediately by the application right here in the browser before we even get to the point where we're trying to update the database.
 >
 > **[6:29](https://www.linkedin.com/learning/database-foundations-application-development/model-tabular-data?u=76281980&t=389)** Because these types of data constraints are defined in the site's data model, we can be more proactive in helping end users enter valid information.
 >
@@ -2393,7 +2371,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (15), data (13), application (6), web (3), [[Microsoft SQL Server|Sql server]] (3)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3), [[ASP.NET]] (2), [[JSON]] (2), [[Microsoft Word|Word]] (1), [[Jetpack Compose|Compose]] (1)
 > **CLI Commands:** find (3), docker (2), make (2)
 > **UI Navigation:** go to (2), click on (2), open the (1), scroll down (1)
 > **File Paths:** appsettings.json (2), docker-compose.yaml (1)
@@ -2402,8 +2380,7 @@ created: 2026-05-02
 > **Code Identifiers:** customer_id (2)
 > **Definitions:** is a  (1), in other words (1)
 
-#### Controller classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-application-development/controller-classes?u=76281980)
+#### [Controller classes](https://www.linkedin.com/learning/database-foundations-application-development/controller-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2461,9 +2438,9 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/database-foundations-application-development/controller-classes?u=76281980&t=150)** The index page displays all of the tabular data.
 >
-> **[2:33](https://www.linkedin.com/learning/database-foundations-application-development/controller-classes?u=76281980&t=153)** Starting down online number 20, we start building an HTML table.
+> **[2:33](https://www.linkedin.com/learning/database-foundations-application-development/controller-classes?u=76281980&t=153)** Starting down online number 20, we start building an [[HTML]] table.
 >
-> **[2:38](https://www.linkedin.com/learning/database-foundations-application-development/controller-classes?u=76281980&t=158)** This is very similar to what we did when formatting data in the PHP project.
+> **[2:38](https://www.linkedin.com/learning/database-foundations-application-development/controller-classes?u=76281980&t=158)** This is very similar to what we did when formatting data in the [[PHP]] project.
 >
 > **[2:44](https://www.linkedin.com/learning/database-foundations-application-development/controller-classes?u=76281980&t=164)** The first row of the table is the header row.
 >
@@ -2481,7 +2458,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/database-foundations-application-development/controller-classes?u=76281980&t=195)** After the header file down on line number 45, we start a loop.
 >
-> **[3:20](https://www.linkedin.com/learning/database-foundations-application-development/controller-classes?u=76281980&t=200)** In PHP, we use the four-loop here inside of [asp.net](https://asp.net), it's a foreach loop.
+> **[3:20](https://www.linkedin.com/learning/database-foundations-application-development/controller-classes?u=76281980&t=200)** In PHP, we use the four-loop here inside of [[[ASP.NET]]](https://asp.net), it's a foreach loop.
 >
 > **[3:26](https://www.linkedin.com/learning/database-foundations-application-development/controller-classes?u=76281980&t=206)** This will go through and read each row from the database and create a new HTML table row every time the program goes through the loop.
 >
@@ -2505,7 +2482,7 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/database-foundations-application-development/controller-classes?u=76281980&t=249)** Each column in the table has its own label that's coming from the column name there as well as an input text box.
 >
-> **[4:17](https://www.linkedin.com/learning/database-foundations-application-development/controller-classes?u=76281980&t=257)** There's also a data validation line to display the red validation text.
+> **[4:17](https://www.linkedin.com/learning/database-foundations-application-development/controller-classes?u=76281980&t=257)** There's also a [[Data Validation]] line to display the red validation text.
 >
 > **[4:22](https://www.linkedin.com/learning/database-foundations-application-development/controller-classes?u=76281980&t=262)** Once again, this is very similar to what we saw in the PHP example when working with form controls.
 >
@@ -2573,7 +2550,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), database (18), [[PHP]] (4), [[HTML]] (3), [[ASP.NET]] (2)
+> **Frameworks & Libraries:** [[PHP]] (4), [[HTML]] (3), [[ASP.NET]] (2), [[Data Validation]] (1)
 > **Env Vars:** php (4), html (3), asp (1)
 > **CLI Commands:** php (4), find (3)
 > **Cross-References:** go back to (3)
@@ -2582,12 +2559,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (2)
 > **Analogies:** similar to (1)
 
-#### URL segments
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-application-development/url-segments?u=76281980)
+#### [URL segments](https://www.linkedin.com/learning/database-foundations-application-development/url-segments?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-application-development/url-segments?u=76281980&t=0)** - [Instructor] One of the neat things about an [asp.net](https://asp.net) web application is that the controller classes encode useful information right into the URL segments of the page.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-application-development/url-segments?u=76281980&t=0)** - [Instructor] One of the neat things about an [[[ASP.NET]]](https://asp.net) web application is that the controller classes encode useful information right into the URL segments of the page.
 >
 > **[0:12](https://www.linkedin.com/learning/database-foundations-application-development/url-segments?u=76281980&t=12)** From the Two Trees Customer Data page, click on any of the edit links.
 >
@@ -2639,19 +2615,19 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/database-foundations-application-development/url-segments?u=76281980&t=145)** This means that the URL, Customers/Details/3, mapped to the customer's controller, the details action and the row number three.
 >
-> **[2:37](https://www.linkedin.com/learning/database-foundations-application-development/url-segments?u=76281980&t=157)** So that wraps up our exploration of how an [asp.net](https://asp.net) core site works with a SQL server database.
+> **[2:37](https://www.linkedin.com/learning/database-foundations-application-development/url-segments?u=76281980&t=157)** So that wraps up our exploration of how an [asp.net](https://asp.net) core site works with a [[Microsoft SQL Server|SQL server]] database.
 >
-> **[2:44](https://www.linkedin.com/learning/database-foundations-application-development/url-segments?u=76281980&t=164)** When you're done exploring the site and all of the different activities, you can go back into your open PowerShell window or terminal window and press the control+C keyboard shortcut to shut down all of the servers.
+> **[2:44](https://www.linkedin.com/learning/database-foundations-application-development/url-segments?u=76281980&t=164)** When you're done exploring the site and all of the different activities, you can go back into your open [[Powershell]] window or terminal window and press the control+C keyboard shortcut to shut down all of the servers.
 >
-> **[2:56](https://www.linkedin.com/learning/database-foundations-application-development/url-segments?u=76281980&t=176)** You can always start them back up again by coming to the aspnet folder and running docker/compose up.
+> **[2:56](https://www.linkedin.com/learning/database-foundations-application-development/url-segments?u=76281980&t=176)** You can always start them back up again by coming to the aspnet folder and running docker/[[Jetpack Compose|compose]] up.
 >
 > **[3:05](https://www.linkedin.com/learning/database-foundations-application-development/url-segments?u=76281980&t=185)** It goes without saying that a full exploration of [asp.net](https://asp.net) would require some additional background in the C sharp programming language and the Visual Studio IDE.
 >
-> **[3:16](https://www.linkedin.com/learning/database-foundations-application-development/url-segments?u=76281980&t=196)** But I hope this has given you some insight into how databases function in an online web app and gives you some ideas about where you could take your database skills next.
+> **[3:16](https://www.linkedin.com/learning/database-foundations-application-development/url-segments?u=76281980&t=196)** But I hope this has given you some insight into how [[Databases]] function in an online web app and gives you some ideas about where you could take your database skills next.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ASP.NET]] (2), data (2), database (2), web application (1), express (1)
+> **Frameworks & Libraries:** [[ASP.NET]] (2), [[ASP.NET Core]] (1), [[Microsoft SQL Server|Sql server]] (1), [[Powershell]] (1), [[Jetpack Compose|Compose]] (1)
 > **Env Vars:** url (5), sql (1), ide (1)
 > **CLI Commands:** find (2), docker (1)
 > **URLs:** [asp.net](https://asp.net) (3)
@@ -2665,8 +2641,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-application-development/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/database-foundations-application-development/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2674,13 +2649,13 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/database-foundations-application-development/next-steps?u=76281980&t=3)** And if you joined me through all five courses in this series, then you deserve an extra special round of applause.
 >
-> **[0:10](https://www.linkedin.com/learning/database-foundations-application-development/next-steps?u=76281980&t=10)** You've come a long way from your first steps in the world of relational databases, all the way up to this introduction to application development and integrating databases with other related technologies.
+> **[0:10](https://www.linkedin.com/learning/database-foundations-application-development/next-steps?u=76281980&t=10)** You've come a long way from your first steps in the world of [[Relational Databases]], all the way up to this introduction to [[Application Development]] and integrating [[Databases]] with other related technologies.
 >
 > **[0:22](https://www.linkedin.com/learning/database-foundations-application-development/next-steps?u=76281980&t=22)** You should now have the confidence to dive straight in to any relational database platform that you want to work with.
 >
 > **[0:29](https://www.linkedin.com/learning/database-foundations-application-development/next-steps?u=76281980&t=29)** If this course has piqued your interest in expanding your skills into app development, then I'd encourage you to check out some of the introductory content in the languages that we explored.
 >
-> **[0:39](https://www.linkedin.com/learning/database-foundations-application-development/next-steps?u=76281980&t=39)** Learning PHP and [ASP.NET](https://ASP.NET) MVC 5 Essential Training are two great courses to get started with, or if you're feeling ambitious consider tackling the learning path Become a Programmer: Foundations.
+> **[0:39](https://www.linkedin.com/learning/database-foundations-application-development/next-steps?u=76281980&t=39)** Learning [[PHP]] and [[[ASP.NET]]](https://ASP.NET) MVC 5 Essential Training are two great courses to get started with, or if you're feeling ambitious consider tackling the learning path Become a Programmer: Foundations.
 >
 > **[0:55](https://www.linkedin.com/learning/database-foundations-application-development/next-steps?u=76281980&t=55)** Once again, I'm Adam Wilbert.
 >
@@ -2688,7 +2663,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Relational Databases]] (1), [[Application Development]] (1), [[Databases]] (1), database (1), [[PHP]] (1)
+> **Frameworks & Libraries:** [[Relational Databases]] (1), [[Application Development]] (1), [[Databases]] (1), [[PHP]] (1), [[ASP.NET MVC]] (1)
 > **Env Vars:** php (1), asp (1), net (1), mvc (1)
 > **CLI Commands:** php (1)
 > **URLs:** [asp.net](https://asp.net) (1)

@@ -103,12 +103,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Advanced SQL techniques for data science
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/advanced-sql-techniques-for-data-science?u=76281980)
+#### [Advanced SQL techniques for data science](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/advanced-sql-techniques-for-data-science?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/advanced-sql-techniques-for-data-science?u=76281980&t=0)** - [Dan] Welcome to this course on Advanced SQL for Data Scientists.
+> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/advanced-sql-techniques-for-data-science?u=76281980&t=0)** - [Dan] Welcome to this course on Advanced [[SQL]] for Data Scientists.
 >
 > **[0:03](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/advanced-sql-techniques-for-data-science?u=76281980&t=3)** In this course, we'll go beyond writing complex select statements to learning how to design performant data models using denormalization and read replicas.
 >
@@ -116,34 +115,33 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/advanced-sql-techniques-for-data-science?u=76281980&t=19)** Next, we'll move on to see how to optimize queries by analyzing query execution plans.
 >
-> **[0:25](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/advanced-sql-techniques-for-data-science?u=76281980&t=25)** SQL is extensible, so we'll spend time learning how to create user defined functions that can streamline working with SQL for data science.
+> **[0:25](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/advanced-sql-techniques-for-data-science?u=76281980&t=25)** SQL is extensible, so we'll spend time learning how to create user defined functions that can streamline working with SQL for [[Data Science]].
 >
-> **[0:32](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/advanced-sql-techniques-for-data-science?u=76281980&t=32)** We'll also see how to take advantage of specialized features for working with JSON, as well as specialized data types for tree structures that can provide an order of magnitude speed up over conventional hierarchical queries based on recursive common table expressions.
+> **[0:32](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/advanced-sql-techniques-for-data-science?u=76281980&t=32)** We'll also see how to take advantage of specialized features for working with [[JSON]], as well as specialized data types for tree structures that can provide an order of magnitude speed up over conventional hierarchical queries based on recursive common table expressions.
 >
 > **[0:47](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/advanced-sql-techniques-for-data-science?u=76281980&t=47)** So let's get started and learn some Advanced SQL for Data Science.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[SQL]] (4), next (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Data Science]] (2), [[JSON]] (1)
 > **Env Vars:** sql (4), gin (1), json (1)
 > **Speakers:** - [dan] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/what-you-should-know?u=76281980&t=0)** - [Instructor] This is an advanced course, so I make some assumptions about what you already know or at least familiar with, and that starts with assuming that you're fairly comfortable with writing complex SQL statements.
+> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/what-you-should-know?u=76281980&t=0)** - [Instructor] This is an advanced course, so I make some assumptions about what you already know or at least familiar with, and that starts with assuming that you're fairly comfortable with writing complex [[SQL]] statements.
 >
 > **[0:11](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/what-you-should-know?u=76281980&t=11)** So that includes working with different types of joins, applying different filtering operations, such as where and having clauses, applying windowing functions, and working with common table expressions.
 >
-> **[0:23](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/what-you-should-know?u=76281980&t=23)** I also assume you're capable of installing Postgres or PostgreSQL, and as well as any kind of graphical base query tools you would like to use, and also, I assume you have some familiarity with data structures.
+> **[0:23](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/what-you-should-know?u=76281980&t=23)** I also assume you're capable of installing [[PostgreSQL|Postgres]] or [[PostgreSQL]], and as well as any kind of graphical base query tools you would like to use, and also, I assume you have some familiarity with [[Data Structures]].
 >
 > **[0:36](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/what-you-should-know?u=76281980&t=36)** So when we're talking about things like balanced trees and hashes in the index topics that you will be comfortable and be able to follow along.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (1), [[PostgreSQL|Postgres]] (1), [[PostgreSQL]] (1), data (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[PostgreSQL|Postgres]] (1), [[PostgreSQL]] (1), [[Data Structures]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** sql (1)
 > **Definitions:** is an  (1)
@@ -155,12 +153,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Rules of normalization
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/rules-of-normalization?u=76281980)
+#### [Rules of normalization](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/rules-of-normalization?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/rules-of-normalization?u=76281980&t=0)** - [Instructor] When we talk about relational databases in SQL and data modeling, we're almost always going to be talking about normalization to some degree.
+> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/rules-of-normalization?u=76281980&t=0)** - [Instructor] When we talk about [[Relational Databases]] in [[SQL]] and [[Data Modeling]], we're almost always going to be talking about normalization to some degree.
 >
 > **[0:10](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/rules-of-normalization?u=76281980&t=10)** Now, normalization is a practice in which we follow a set of rules for designing database tables which help us minimize the risk of data anomalies.
 >
@@ -220,7 +217,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/rules-of-normalization?u=76281980&t=209)** So we want to avoid that kind of transitive dependency.
 >
-> **[3:33](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/rules-of-normalization?u=76281980&t=213)** Now, oftentimes when we visualize normalized databases, we have diagrams which show rectangles representing tables and then we have lines connecting the tables which represent relationships, and then we have some kind of indicator for what kind of relationship it is.
+> **[3:33](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/rules-of-normalization?u=76281980&t=213)** Now, oftentimes when we visualize normalized [[Databases]], we have diagrams which show rectangles representing tables and then we have lines connecting the tables which represent relationships, and then we have some kind of indicator for what kind of relationship it is.
 >
 > **[3:50](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/rules-of-normalization?u=76281980&t=230)** So for example, in many cases we have one table that's like a primary table, for example, like an order table.
 >
@@ -238,7 +235,7 @@ created: 2026-05-02
 >
 > **[4:42](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/rules-of-normalization?u=76281980&t=282)** Data is written once but then it may be updated again frequently by many different processes.
 >
-> **[4:47](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/rules-of-normalization?u=76281980&t=287)** So you can imagine like an e-commerce application with users updating many orders at the same time.
+> **[4:47](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/rules-of-normalization?u=76281980&t=287)** So you can imagine like an [[E-Commerce]] application with users updating many orders at the same time.
 >
 > **[4:52](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/rules-of-normalization?u=76281980&t=292)** Now, oftentimes these kind of OLTB systems are normalized to third normal form.
 >
@@ -250,7 +247,7 @@ created: 2026-05-02
 >
 > **[5:29](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/rules-of-normalization?u=76281980&t=329)** So our reads tend to span many rows, but have fewer columns that we actually include in our query.
 >
-> **[5:36](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/rules-of-normalization?u=76281980&t=336)** We have many writes and with batch processing, many of those writes are done all at once like bulk updates where a job will run and it'll start from end to finish until the large number of rows are loaded in.
+> **[5:36](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/rules-of-normalization?u=76281980&t=336)** We have many writes and with [[Batch Processing]], many of those writes are done all at once like bulk updates where a job will run and it'll start from end to finish until the large number of rows are loaded in.
 >
 > **[5:49](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/rules-of-normalization?u=76281980&t=349)** We may also have streaming data where a process is ingesting data in near real time and writing it to a database.
 >
@@ -262,15 +259,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), database (7), [[Databases]] (4), [[Relational Databases]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Databases]] (4), [[Relational Databases]] (1), [[SQL]] (1), [[Data Modeling]] (1), [[E-Commerce]] (1)
 > **Analogies:** for example (8), imagine (1)
 > **Definitions:** is an  (3), is a  (1), is called (1)
 > **Env Vars:** oltp (2), sql (1), oltb (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Denormalization
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/denormalization?u=76281980)
+#### [Denormalization](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/denormalization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -284,7 +280,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/denormalization?u=76281980&t=25)** We may have non-atomic values.
 >
-> **[0:27](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/denormalization?u=76281980&t=27)** So for example, some analytical databases allow and actually encourage the use of strokes or structures to have more complex values within a column than simple atomic values and then we also tolerate transitive dependencies.
+> **[0:27](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/denormalization?u=76281980&t=27)** So for example, some analytical [[Databases]] allow and actually encourage the use of strokes or structures to have more complex values within a column than simple atomic values and then we also tolerate transitive dependencies.
 >
 > **[0:42](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/denormalization?u=76281980&t=42)** So if we have say a value that's dependent solely on a non-key attribute in the table and that non-key attribute is itself dependent on the primary key.
 >
@@ -298,7 +294,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/denormalization?u=76281980&t=77)** We have relatively few updates so while customers might constantly be updating their orders and their baskets and things like that.
 >
-> **[1:24](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/denormalization?u=76281980&t=84)** In an analytical database like a data warehouse or a data mart or say just a data science database, we typically load the table once and then maybe update it or add data but rarely do we go back and correct data that say for example we loaded a week ago.
+> **[1:24](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/denormalization?u=76281980&t=84)** In an analytical database like a data warehouse or a data mart or say just a [[Data Science]] database, we typically load the table once and then maybe update it or add data but rarely do we go back and correct data that say for example we loaded a week ago.
 >
 > **[1:38](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/denormalization?u=76281980&t=98)** Now, if there are mistakes in the data, we may correct the batch or delete a batch or reload with corrected versions but outside of errors in data loading like that, we typically do few updates.
 >
@@ -306,15 +302,15 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/denormalization?u=76281980&t=113)** Now, oftentimes we do batch inserts and those batch inserts go through an extraction load transform or extraction transform load process.
 >
-> **[2:02](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/denormalization?u=76281980&t=122)** So the data transformation is already kind of cleaning up the data massaging it and getting it into sort of our preferred form.
+> **[2:02](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/denormalization?u=76281980&t=122)** So the [[Data Transformation]] is already kind of cleaning up the data massaging it and getting it into sort of our preferred form.
 >
 > **[2:12](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/denormalization?u=76281980&t=132)** So in that case, again, there's less risk of say an update anomaly.
 >
 > **[2:16](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/denormalization?u=76281980&t=136)** Again, unless say our transformation process broke but that would be a significant event and we would hopefully catch that with our monitoring system.
 >
-> **[2:24](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/denormalization?u=76281980&t=144)** Now sometimes we also have streaming inserts and those are relatively simple data structures.
+> **[2:24](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/denormalization?u=76281980&t=144)** Now sometimes we also have streaming inserts and those are relatively simple [[Data Structures]].
 >
-> **[2:30](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/denormalization?u=76281980&t=150)** So you might think of like an IoT sensor that's measuring temperature and humidity and maybe some other environmental measures and then transmitting those say every minute.
+> **[2:30](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/denormalization?u=76281980&t=150)** So you might think of like an [[IoT]] sensor that's measuring temperature and humidity and maybe some other environmental measures and then transmitting those say every minute.
 >
 > **[2:41](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/denormalization?u=76281980&t=161)** And so it might be a relatively simple structure that has a sensor ID, a timestamp and then whatever the measures are.
 >
@@ -366,9 +362,9 @@ created: 2026-05-02
 >
 > **[5:49](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/denormalization?u=76281980&t=349)** It's actually quite advantageous for many analytical systems and the really high volume, large scale data warehouse systems.
 >
-> **[5:59](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/denormalization?u=76281980&t=359)** The kinds that scale to petabytes scale like Google big query or Google big table we'll use a wide column model.
+> **[5:59](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/denormalization?u=76281980&t=359)** The kinds that scale to petabytes scale like [[Google]] big query or Google big table we'll use a wide column model.
 >
-> **[6:06](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/denormalization?u=76281980&t=366)** Now big table is a NoSQL database but big query is an analytical database, and it uses SQL for querying and it uses this kind of wide column model as well.
+> **[6:06](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/denormalization?u=76281980&t=366)** Now big table is a [[NoSQL]] database but big query is an analytical database, and it uses [[SQL]] for querying and it uses this kind of wide column model as well.
 >
 > **[6:17](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/denormalization?u=76281980&t=377)** Now the advantages of denormalizing that can be easier to query again, we're getting rid of complex joins.
 >
@@ -388,7 +384,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (30), database (5), [[Databases]] (4), [[IoT]] (4), [[Google]] (2)
+> **Frameworks & Libraries:** [[Databases]] (4), [[IoT]] (4), [[Data Structures]] (2), [[Google]] (2), [[Data Science]] (1)
 > **Env Vars:** oltp (3), sql (1), etl (1)
 > **Analogies:** for example (4), imagine (1)
 > **CLI Commands:** make (2)
@@ -396,8 +392,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [presenter] (1)
 
-#### Partitioning data
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/partitioning-data?u=76281980)
+#### [Partitioning data](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/partitioning-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -421,7 +416,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/partitioning-data?u=76281980&t=94)** So when we're using a row oriented storage system, this is one way to start to get some of those advantages of columnar storage.
 >
-> **[1:42](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/partitioning-data?u=76281980&t=102)** Now we can have global indexes for each partition, so we're still covering the entire table like all global indexes, but we can still reduce I/O because when we fetch data, we're going to fetch a single block, or actually, you know, some number of data blocks but those data blocks will have the equivalent of more rows than if we had additional columns in the data block, and again, columnar storage has similar benefits.
+> **[1:42](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/partitioning-data?u=76281980&t=102)** Now we can have global indexes for each partition, so we're still covering the entire table like all global indexes, but we can still reduce I/O because when we [[Fetch]] data, we're going to fetch a single block, or actually, you know, some number of data blocks but those data blocks will have the equivalent of more rows than if we had additional columns in the data block, and again, columnar storage has similar benefits.
 >
 > **[2:08](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/partitioning-data?u=76281980&t=128)** Now range partitioning is a type of horizontal partitioning, and basically what it allows us to do is to partition on non-overlapping keys.
 >
@@ -445,9 +440,9 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/partitioning-data?u=76281980&t=241)** It's also good if you want to make sure your data is evenly distributed, hash partitioning will keep it balanced.
 >
-> **[4:07](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/partitioning-data?u=76281980&t=247)** Okay, so now I've switched over to PG Admin which is a GUI tool we use for working with Postgres, and what I'd like to do now is to just do a quick example of creating a table with a range partition.
+> **[4:07](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/partitioning-data?u=76281980&t=247)** Okay, so now I've switched over to PG Admin which is a GUI tool we use for working with [[PostgreSQL|Postgres]], and what I'd like to do now is to just do a quick example of creating a table with a range partition.
 >
-> **[4:22](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/partitioning-data?u=76281980&t=262)** I want to point out I'm using a Postgres database and I'm in a database named postgres, and right now I'm using a schema called iot, or internet of things, and so what I'm going to do is create a table, and I'm going to create it in the iot schema, and I'm going to call it sensor measurement, or msmt for short, and let's see, we will have a sensor ID which will be an integer, and it should be not null, and we'll have a measurement date, which will be a date and not null, and let's measure temperature, and for simplicity, we're going to keep this as an int,
+> **[4:22](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/partitioning-data?u=76281980&t=262)** I want to point out I'm using a Postgres database and I'm in a database named postgres, and right now I'm using a schema called [[IoT]], or [[IoT|internet of things]], and so what I'm going to do is create a table, and I'm going to create it in the iot schema, and I'm going to call it sensor measurement, or msmt for short, and let's see, we will have a sensor ID which will be an integer, and it should be not null, and we'll have a measurement date, which will be a date and not null, and let's measure temperature, and for simplicity, we're going to keep this as an int,
 >
 > **[5:13](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/partitioning-data?u=76281980&t=313)** we will assume there's no decimal places on temperature, similarly with humidity, we'll call that an int, and that wraps up our list of attributes, but now I want to specify that I want to partition by, and I want to use range partitioning, so I'm going to petition by range over my measurement date, and I'll just execute that to create that table.
 >
@@ -473,7 +468,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[IoT]] (5), [[PostgreSQL|Postgres]] (3), [[Fetch]] (2), database (2)
+> **Frameworks & Libraries:** [[IoT]] (5), [[PostgreSQL|Postgres]] (3), [[Fetch]] (2), [[IoT|Internet of things]] (1)
 > **Definitions:** is a  (7)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (1), click on (1)
@@ -481,12 +476,11 @@ created: 2026-05-02
 > **Env Vars:** gui (1)
 > **Speakers:** - [instructor] (1)
 
-#### Materialized views
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/materialized-views?u=76281980)
+#### [Materialized views](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/materialized-views?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/materialized-views?u=76281980&t=0)** - [Instructor] Now, another technique in our data modeling toolbox that we can use to officially work with really large datasets is something called materialized views.
+> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/materialized-views?u=76281980&t=0)** - [Instructor] Now, another technique in our [[Data Modeling]] toolbox that we can use to officially work with really large datasets is something called materialized views.
 >
 > **[0:10](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/materialized-views?u=76281980&t=10)** Now, a materialized view basically persists the results of a query.
 >
@@ -504,7 +498,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/materialized-views?u=76281980&t=73)** If you have a long-running query, that's a great candidate right there.
 >
-> **[1:17](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/materialized-views?u=76281980&t=77)** Now, complex queries, especially when there are a lot of joins, or maybe you have subqueries or some common table expressions or things that might be complicated for people who aren't necessarily well-versed in SQL, it would make their life a lot easier if they could simply query a single table.
+> **[1:17](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/materialized-views?u=76281980&t=77)** Now, complex queries, especially when there are a lot of joins, or maybe you have subqueries or some common table expressions or things that might be complicated for people who aren't necessarily well-versed in [[SQL]], it would make their life a lot easier if they could simply query a single table.
 >
 > **[1:36](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/materialized-views?u=76281980&t=96)** So that's another good indicator that you might have a good candidate for materialized views.
 >
@@ -518,7 +512,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/materialized-views?u=76281980&t=145)** And, basically, what can happen is the materialized view can get out of sync with the underlying tables that were used to build the query.
 >
-> **[2:33](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/materialized-views?u=76281980&t=153)** So, for example, with our IoT data example, we might build a materialized view every hour.
+> **[2:33](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/materialized-views?u=76281980&t=153)** So, for example, with our [[IoT]] data example, we might build a materialized view every hour.
 >
 > **[2:39](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/materialized-views?u=76281980&t=159)** Now, since it's an IoT system, we're probably streaming the data in continually.
 >
@@ -540,9 +534,9 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/materialized-views?u=76281980&t=227)** Also, you want to understand if you can concurrently read a materialized view while it's being updated.
 >
-> **[3:55](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/materialized-views?u=76281980&t=235)** Now, in Postgres, that's the default, but it may not be in other databases.
+> **[3:55](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/materialized-views?u=76281980&t=235)** Now, in [[PostgreSQL|Postgres]], that's the default, but it may not be in other [[Databases]].
 >
-> **[3:59](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/materialized-views?u=76281980&t=239)** So if you're using other relational database management systems, you want to check into that.
+> **[3:59](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/materialized-views?u=76281980&t=239)** So if you're using other relational [[Database Management]] systems, you want to check into that.
 >
 > **[4:05](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/materialized-views?u=76281980&t=245)** And, again, the size versus time trade-off, you want to consider the size of the materialized view data.
 >
@@ -608,7 +602,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[IoT]] (3), database (2), next (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[IoT]] (3), [[Data Modeling]] (1), [[SQL]] (1), [[PostgreSQL|Postgres]] (1), [[Databases]] (1)
 > **Env Vars:** select (6), materialized (3), view (3), create (2), sql (1)
 > **SQL:** select (6), left join (1)
 > **Code Identifiers:** hotel_id (2), locations_expenses (1), landon_mv_locations_expenses (1), mv_locations_expenses (1)
@@ -617,8 +611,7 @@ created: 2026-05-02
 > **Cross-References:** we mentioned (1)
 > **Analogies:** for example (1)
 
-#### Read replicas
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/read-replicas?u=76281980)
+#### [Read replicas](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/read-replicas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -644,7 +637,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/read-replicas?u=76281980&t=74)** An alternative option is to create a read replica.
 >
-> **[1:18](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/read-replicas?u=76281980&t=78)** And here the idea is any time data is written to the primary, it's also written to another instance of a database server, full-blown Postgres instance that's on the network and can receive data from the primary and essentially keep a copy of all the data.
+> **[1:18](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/read-replicas?u=76281980&t=78)** And here the idea is any time data is written to the primary, it's also written to another instance of a database server, full-blown [[PostgreSQL|Postgres]] instance that's on the network and can receive data from the primary and essentially keep a copy of all the data.
 >
 > **[1:40](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/read-replicas?u=76281980&t=100)** When we have a read replica, then we can direct queries to the read replica.
 >
@@ -674,36 +667,35 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/read-replicas?u=76281980&t=189)** Now, there's a potential for the data to be lost on the read replica because of some error, but the primary's not waiting around for an acknowledgment.
 >
-> **[3:17](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/read-replicas?u=76281980&t=197)** The slowest method enables strong consistency and basically the primary waits until it's guaranteed to have saved the data to the primary data storage, as well as the replica storage and get an acknowledgement that it has been stored like that.
+> **[3:17](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/read-replicas?u=76281980&t=197)** The slowest method enables strong consistency and basically the primary waits until it's guaranteed to have saved the data to the primary [[Data Storage]], as well as the replica storage and get an acknowledgement that it has been stored like that.
 >
-> **[3:32](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/read-replicas?u=76281980&t=212)** Now, that's the safest in terms of data integrity, but it's also the slowest in terms of when a transaction completes.
+> **[3:32](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/read-replicas?u=76281980&t=212)** Now, that's the safest in terms of [[Data Integrity]], but it's also the slowest in terms of when a transaction completes.
 >
 > **[3:40](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/read-replicas?u=76281980&t=220)** So that's a factor you need to consider when using read replicas.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), database (5), [[PostgreSQL|Postgres]] (2), cloud (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (2), [[Data Storage]] (1), [[Data Integrity]] (1)
 > **Analogies:** for example (3)
 > **UI Navigation:** go to (2)
 > **Env Vars:** oltp (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Design a data model for analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/challenge-design-a-data-model-for-analytics?u=76281980)
+#### [Challenge: Design a data model for analytics](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/challenge-design-a-data-model-for-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/challenge-design-a-data-model-for-analytics?u=76281980&t=0)** (bright music)
 >
-> **[0:05](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/challenge-design-a-data-model-for-analytics?u=76281980&t=5)** - [Instructor] Here is a data modeling challenge.
+> **[0:05](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/challenge-design-a-data-model-for-analytics?u=76281980&t=5)** - [Instructor] Here is a [[Data Modeling]] challenge.
 >
-> **[0:08](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/challenge-design-a-data-model-for-analytics?u=76281980&t=8)** Let's assume you're a consultant and you're working with an internet of things, or an IoT company, that is collecting streaming data from thousands of sensors and they collect this data every minute.
+> **[0:08](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/challenge-design-a-data-model-for-analytics?u=76281980&t=8)** Let's assume you're a consultant and you're working with an [[IoT|internet of things]], or an [[IoT]] company, that is collecting streaming data from thousands of sensors and they collect this data every minute.
 >
 > **[0:19](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/challenge-design-a-data-model-for-analytics?u=76281980&t=19)** For them, low write latency is essential.
 >
 > **[0:22](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/challenge-design-a-data-model-for-analytics?u=76281980&t=22)** So as soon as the data comes in, it needs to be written because we don't want to basically have a backlog of data or anything like that, and it's also important that the write latency be fairly consistent so we don't want, you know, some periods where it's very bursty and we have very low latency, and then other times it's more prolonged, it's more delayed.
 >
-> **[0:39](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/challenge-design-a-data-model-for-analytics?u=76281980&t=39)** Now, at the same time, this IoT company has a team of data scientists and they're going to be performing different kinds of time series analysis including roll-ups of aggregate data.
+> **[0:39](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/challenge-design-a-data-model-for-analytics?u=76281980&t=39)** Now, at the same time, this IoT company has a team of data scientists and they're going to be performing different kinds of [[Time Series Analysis]] including roll-ups of aggregate data.
 >
 > **[0:49](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/challenge-design-a-data-model-for-analytics?u=76281980&t=49)** So, say for example, by each sensor, what's the, what are some aggregate measures over, you know, hours and over days?
 >
@@ -713,18 +705,17 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/challenge-design-a-data-model-for-analytics?u=76281980&t=70)** So the challenge is to design a model that would support these requirements.
 >
-> **[1:15](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/challenge-design-a-data-model-for-analytics?u=76281980&t=75)** Now this is a high-level model, just outline what kind of structures or design patterns would you use to address the business requirements identified here?
+> **[1:15](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/challenge-design-a-data-model-for-analytics?u=76281980&t=75)** Now this is a high-level model, just outline what kind of structures or [[Design Patterns]] would you use to address the business requirements identified here?
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[IoT]] (2), [[Internet of Things (IoT)|Internet of things]] (1), [[Time Series Analysis]] (1), [[Design Patterns]] (1)
+> **Frameworks & Libraries:** [[IoT]] (2), [[Data Modeling]] (1), [[IoT|Internet of things]] (1), [[Time Series Analysis]] (1), [[Design Patterns]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Design a data model for analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/solution-design-a-data-model-for-analytics?u=76281980)
+#### [Solution: Design a data model for analytics](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/solution-design-a-data-model-for-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -738,7 +729,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/solution-design-a-data-model-for-analytics?u=76281980&t=28)** Now, we didn't explicitly state in the requirements the need for partitioning and we didn't discuss, for example, how long we wanted data to be kept in this table and if data past a certain age should be rolled off.
 >
-> **[0:42](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/solution-design-a-data-model-for-analytics?u=76281980&t=42)** Now, this is something you need to keep in mind when you're doing data science, and you're working with data modeling at the same time.
+> **[0:42](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/solution-design-a-data-model-for-analytics?u=76281980&t=42)** Now, this is something you need to keep in mind when you're doing [[Data Science]], and you're working with [[Data Modeling]] at the same time.
 >
 > **[0:47](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/solution-design-a-data-model-for-analytics?u=76281980&t=47)** Not all of the requirements are going to be outlined for you, the people that are, say, domain experts may not be aware of the kinds of factors that we think about when there's designing.
 >
@@ -758,11 +749,11 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/solution-design-a-data-model-for-analytics?u=76281980&t=119)** Now, also, another factor we didn't delve down into too deeply with regards to the requirements is do the data scientists need access to the low level detail as well as the aggregates?
 >
-> **[2:10](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/solution-design-a-data-model-for-analytics?u=76281980&t=130)** Because if they need access to low level data like the raw data that comes from the IoT sensor, well, because of the low right latency requirement we don't want to bog down the primary server with a lot of ad hoc query, that would be a good use case for a read replica.
+> **[2:10](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/solution-design-a-data-model-for-analytics?u=76281980&t=130)** Because if they need access to low level data like the raw data that comes from the [[IoT]] sensor, well, because of the low right latency requirement we don't want to bog down the primary server with a lot of ad hoc query, that would be a good use case for a read replica.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[IoT]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (1), [[Data Modeling]] (1), [[IoT]] (1)
 > **Analogies:** for example (4)
 > **Definitions:** is a  (2)
 > **Warnings:** be aware (1)
@@ -774,18 +765,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### B-tree indexes
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/b-tree-indexes?u=76281980)
+#### [B-tree indexes](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/b-tree-indexes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/b-tree-indexes?u=76281980&t=0)** - [Instructor] In addition to designing tables, part of data modeling is developing an indexing strategy.
+> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/b-tree-indexes?u=76281980&t=0)** - [Instructor] In addition to designing tables, part of [[Data Modeling]] is developing an indexing strategy.
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/b-tree-indexes?u=76281980&t=6)** So let's take a look at indexes, different types of indexes, and how they apply when we're working with analytical queries.
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/b-tree-indexes?u=76281980&t=14)** We'll start with B-Tree indexes.
 >
-> **[0:16](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/b-tree-indexes?u=76281980&t=16)** So, indexing is used primarily to reduce the amount of work we need to do when we have to go and fetch data.
+> **[0:16](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/b-tree-indexes?u=76281980&t=16)** So, indexing is used primarily to reduce the amount of work we need to do when we have to go and [[Fetch]] data.
 >
 > **[0:23](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/b-tree-indexes?u=76281980&t=23)** Now, typically this means we don't want to be scanning a lot of data blocks, so indexes are used to help us reduce that.
 >
@@ -799,7 +789,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/b-tree-indexes?u=76281980&t=72)** So 10% is not bad but it doesn't reduce a lot say compared to if the cardinality was say a 1000, and if you looked up a particular code you could reduce the amount of work that you need to do to maybe 1000th of the size of the table.
 >
-> **[1:29](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/b-tree-indexes?u=76281980&t=89)** Now, we're going to be talking about indexing, but again I want to point out in terms of things that are different in analytical databases, indexing is not used in analytical databases like Google BigQuery or AWS Redshift, again, they have different strategies.
+> **[1:29](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/b-tree-indexes?u=76281980&t=89)** Now, we're going to be talking about indexing, but again I want to point out in terms of things that are different in analytical [[Databases]], indexing is not used in analytical databases like [[Google]] BigQuery or AWS Redshift, again, they have different strategies.
 >
 > **[1:43](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/b-tree-indexes?u=76281980&t=103)** Now, there are several different types of indexes, we're going to pay attention to three broad categories, the B-tree, the bitmap, and the hash index, and then we're also going to look at special purpose index.
 >
@@ -829,7 +819,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Databases]] (2), [[Fetch]] (1), [[Google]] (1), aws (1)
+> **Frameworks & Libraries:** [[Databases]] (2), [[Data Modeling]] (1), [[Fetch]] (1), [[Google]] (1)
 > **UI Navigation:** go to (4)
 > **CLI Commands:** aws (1), node (1), find (1)
 > **Definitions:** is a  (2), stands for (1)
@@ -838,8 +828,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Bitmap indexes
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/bitmap-indexes?u=76281980)
+#### [Bitmap indexes](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/bitmap-indexes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -881,11 +870,11 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/bitmap-indexes?u=76281980&t=140)** Now, typically, bitmap index is when they are explicitly declared, like if you're working with a database that supports the explicit declaration of bitmap indexes.
 >
-> **[2:30](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/bitmap-indexes?u=76281980&t=150)** You typically save that for read-intensive use cases, like data warehousing or data science operations where there's relatively few writes.
+> **[2:30](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/bitmap-indexes?u=76281980&t=150)** You typically save that for read-intensive use cases, like [[Data Warehousing]] or [[Data Science]] operations where there's relatively few writes.
 >
 > **[2:38](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/bitmap-indexes?u=76281980&t=158)** And that's because it can be expensive to build a bitmap index in some cases.
 >
-> **[2:43](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/bitmap-indexes?u=76281980&t=163)** So in terms of bitmap index availability, as I mentioned, some databases allow you to create them explicitly, but Postgres does not.
+> **[2:43](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/bitmap-indexes?u=76281980&t=163)** So in terms of bitmap index availability, as I mentioned, some [[Databases]] allow you to create them explicitly, but [[PostgreSQL|Postgres]] does not.
 >
 > **[2:52](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/bitmap-indexes?u=76281980&t=172)** However, Postgres does sometimes build bitmap indexes on the fly as is needed.
 >
@@ -893,15 +882,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (3), data (2), database (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (3), [[Data Warehousing]] (1), [[Data Science]] (1), [[Databases]] (1)
 > **Analogies:** for example (4), such as (1)
 > **Code Identifiers:** is_union_member (2), pay_type (2)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hash indexes
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/hash-indexes?u=76281980)
+#### [Hash indexes](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/hash-indexes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -923,7 +911,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/hash-indexes?u=76281980&t=33)** The size of the hash value depends on the algorithm used.
 >
-> **[0:36](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/hash-indexes?u=76281980&t=36)** So that's typically determined by the database management system designers.
+> **[0:36](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/hash-indexes?u=76281980&t=36)** So that's typically determined by the [[Database Management]] system designers.
 >
 > **[0:41](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/hash-indexes?u=76281980&t=41)** There's no ordering or preserving with hash functions so they could appear in just any random order, and similar inputs, again, can have vastly different outputs so you can't make any assumptions about the value that a hash function generates other than it's highly likely to be unique.
 >
@@ -931,22 +919,21 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/hash-indexes?u=76281980&t=62)** So if you're looking up, say, almost like key value kind of things, hash indexes can work very well in those cases.
 >
-> **[1:09](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/hash-indexes?u=76281980&t=69)** In the case of Postgres, hash indexes can be smaller than B-tree indexes, and they're built with at about the same speed or about the same pace as one builds B-tree indexes.
+> **[1:09](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/hash-indexes?u=76281980&t=69)** In the case of [[PostgreSQL|Postgres]], hash indexes can be smaller than B-tree indexes, and they're built with at about the same speed or about the same pace as one builds B-tree indexes.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), database (1), management (1), [[PostgreSQL|Postgres]] (1)
+> **Frameworks & Libraries:** [[Database Management]] (1), [[PostgreSQL|Postgres]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### GiST and SP-GiST indexes
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/gist-and-sp-gist-indexes?u=76281980)
+#### [GiST and SP-GiST indexes](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/gist-and-sp-gist-indexes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/gist-and-sp-gist-indexes?u=76281980&t=0)** - [Instructor] GiST and SP-GiST indexes are specialized index provided by Postgres.
+> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/gist-and-sp-gist-indexes?u=76281980&t=0)** - [Instructor] GiST and SP-GiST indexes are specialized index provided by [[PostgreSQL|Postgres]].
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/gist-and-sp-gist-indexes?u=76281980&t=6)** Now, GiST stands for Generalized Search Tree, and it's basically, it's a balanced tree structure method.
 >
@@ -972,7 +959,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/gist-and-sp-gist-indexes?u=76281980&t=77)** Now SP-GiST is a space-partitioned GiST and it supports partitioned search trees.
 >
-> **[1:23](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/gist-and-sp-gist-indexes?u=76281980&t=83)** And it's typically used for non balanced data structures.
+> **[1:23](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/gist-and-sp-gist-indexes?u=76281980&t=83)** And it's typically used for non balanced [[Data Structures]].
 >
 > **[1:26](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/gist-and-sp-gist-indexes?u=76281980&t=86)** So we might use these with things like quadtrees or k-d trees, which again are used in multidimensional space.
 >
@@ -984,19 +971,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[PostgreSQL|Postgres]] (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (2), [[Data Structures]] (1)
 > **Definitions:** is a  (2), stands for (1), known as (1)
 > **Analogies:** for example (2)
 > **Cross-References:** later in (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### GIN and BRIN indexes
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/gin-and-brin-indexes?u=76281980)
+#### [GIN and BRIN indexes](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/gin-and-brin-indexes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/gin-and-brin-indexes?u=76281980&t=0)** - [Instructor] One of the reasons I like working with Postgres is that it has specialized indexes for data types that are more complex than we typically work with.
+> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/gin-and-brin-indexes?u=76281980&t=0)** - [Instructor] One of the reasons I like working with [[PostgreSQL|Postgres]] is that it has specialized indexes for data types that are more complex than we typically work with.
 >
 > **[0:10](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/gin-and-brin-indexes?u=76281980&t=10)** So for example, there's something called a GIN index which stands for generalized inverted index.
 >
@@ -1010,7 +996,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/gin-and-brin-indexes?u=76281980&t=51)** So it's very fast to go from key to actual data location.
 >
-> **[0:56](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/gin-and-brin-indexes?u=76281980&t=56)** Now GIN index has a large number of built-in operator classes that allow you to do things like operate on arrays, JSON data structures, and in particular JSONB data structures as well as text vectors.
+> **[0:56](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/gin-and-brin-indexes?u=76281980&t=56)** Now GIN index has a large number of built-in operator classes that allow you to do things like operate on arrays, [[JSON]] [[Data Structures]], and in particular JSONB data structures as well as text vectors.
 >
 > **[1:10](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/gin-and-brin-indexes?u=76281980&t=70)** Now some tips when you're using GIN indexes, keep in mind that the insertion can be slow and this is because many keys may be inserted for each item.
 >
@@ -1060,7 +1046,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[PostgreSQL|Postgres]] (4), [[JSON]] (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (4), [[Data Structures]] (2), [[JSON]] (1)
 > **Env Vars:** brin (6), gin (4), json (1), jsonb (1)
 > **Definitions:** stands for (2), is a  (2), is called (1)
 > **CLI Commands:** find (2), make (1)
@@ -1069,8 +1055,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Best Practices:** the key is (1)
 
-#### Challenge: Choosing an optimal indexing strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/challenge-choosing-an-optimal-indexing-strategy?u=76281980)
+#### [Challenge: Choosing an optimal indexing strategy](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/challenge-choosing-an-optimal-indexing-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1080,7 +1065,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/challenge-choosing-an-optimal-indexing-strategy?u=76281980&t=8)** Let's assume you have received a large dataset with insurance claims details.
 >
-> **[0:13](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/challenge-choosing-an-optimal-indexing-strategy?u=76281980&t=13)** Now you want to be able to upload or ingest that data into an existing database that you're already using for your data science analytics.
+> **[0:13](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/challenge-choosing-an-optimal-indexing-strategy?u=76281980&t=13)** Now you want to be able to upload or ingest that data into an existing database that you're already using for your [[Data Science]] analytics.
 >
 > **[0:20](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/challenge-choosing-an-optimal-indexing-strategy?u=76281980&t=20)** Now each claim has a unique claim identifier along with about 12 columns of data.
 >
@@ -1090,12 +1075,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), database (2), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Choosing an optimal indexing strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/solution-choosing-an-optimal-indexing-strategy?u=76281980)
+#### [Solution: Choosing an optimal indexing strategy](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/solution-choosing-an-optimal-indexing-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1103,7 +1087,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/solution-choosing-an-optimal-indexing-strategy?u=76281980&t=5)** - [Instructor] We have really two options we can think of.
 >
-> **[0:08](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/solution-choosing-an-optimal-indexing-strategy?u=76281980&t=8)** Now, by default, when we build an index in Postgres, we use a B-tree index.
+> **[0:08](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/solution-choosing-an-optimal-indexing-strategy?u=76281980&t=8)** Now, by default, when we build an index in [[PostgreSQL|Postgres]], we use a B-tree index.
 >
 > **[0:13](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/solution-choosing-an-optimal-indexing-strategy?u=76281980&t=13)** Now B-tree indexes are generally good choices because they're relatively fast to work with because, on average, you're going to get a time basically relative to the logarithm of the size of the table, so even a table with a large number of rows is going to be able to find the index value relatively quickly.
 >
@@ -1117,7 +1101,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[PostgreSQL|Postgres]] (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** means that (1)
@@ -1129,12 +1113,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### EXPLAIN and ANALYZE commands
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/explain-and-analyze-commands?u=76281980)
+#### [EXPLAIN and ANALYZE commands](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/explain-and-analyze-commands?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/explain-and-analyze-commands?u=76281980&t=0)** - [Instructor] Now as data scientists working with SQL, it's sometimes helpful to understand a little bit about how the database engine actually executes SQL statements.
+> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/explain-and-analyze-commands?u=76281980&t=0)** - [Instructor] Now as data scientists working with [[SQL]], it's sometimes helpful to understand a little bit about how the database engine actually executes SQL statements.
 >
 > **[0:10](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/explain-and-analyze-commands?u=76281980&t=10)** And that's particularly important if we're trying to optimize the performance of our queries.
 >
@@ -1152,17 +1135,17 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/explain-and-analyze-commands?u=76281980&t=35)** Limiting the data we have to scan to a subset of rows.
 >
-> **[0:38](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/explain-and-analyze-commands?u=76281980&t=38)** So many languages like Python or Java can be used procedurally.
+> **[0:38](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/explain-and-analyze-commands?u=76281980&t=38)** So many languages like [[Python (Programming Language)|Python]] or [[Java]] can be used procedurally.
 >
 > **[0:44](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/explain-and-analyze-commands?u=76281980&t=44)** And when we're doing that we're specifying how to do something.
 >
-> **[0:48](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/explain-and-analyze-commands?u=76281980&t=48)** So we're actually like directly manipulating data structures and determining like the sequence of steps.
+> **[0:48](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/explain-and-analyze-commands?u=76281980&t=48)** So we're actually like directly manipulating [[Data Structures]] and determining like the sequence of steps.
 >
 > **[0:54](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/explain-and-analyze-commands?u=76281980&t=54)** So one of the things that database engine does for us is it figures out those sort of procedural steps and then execute some for us.
 >
 > **[1:01](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/explain-and-analyze-commands?u=76281980&t=61)** So one of the simplest kind of procedural steps is scanning a table.
 >
-> **[1:05](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/explain-and-analyze-commands?u=76281980&t=65)** And basically what happens is we say, start at the beginning of table, fetch a row and then move on to the next row.
+> **[1:05](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/explain-and-analyze-commands?u=76281980&t=65)** And basically what happens is we say, start at the beginning of table, [[Fetch]] a row and then move on to the next row.
 >
 > **[1:13](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/explain-and-analyze-commands?u=76281980&t=73)** And maybe we're doing a comparison.
 >
@@ -1188,11 +1171,11 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/explain-and-analyze-commands?u=76281980&t=118)** I'm making the assumption that we're working with a database that uses a row storage or a row orientation.
 >
-> **[2:04](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/explain-and-analyze-commands?u=76281980&t=124)** Now, some databases like AWS Redshift or Google Big Query use column in their storage.
+> **[2:04](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/explain-and-analyze-commands?u=76281980&t=124)** Now, some [[Databases]] like AWS Redshift or [[Google]] Big Query use column in their storage.
 >
 > **[2:11](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/explain-and-analyze-commands?u=76281980&t=131)** And again, we typically see columnar storage with data warehouses.
 >
-> **[2:14](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/explain-and-analyze-commands?u=76281980&t=134)** So some of the things that I say here about scanning and row fetching certainly apply when we're using Postgres but maybe not something if you're working with say a petabyte scale data warehouse.
+> **[2:14](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/explain-and-analyze-commands?u=76281980&t=134)** So some of the things that I say here about scanning and row fetching certainly apply when we're using [[PostgreSQL|Postgres]] but maybe not something if you're working with say a petabyte scale data warehouse.
 >
 > **[2:26](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/explain-and-analyze-commands?u=76281980&t=146)** So cost is based on the number of rows.
 >
@@ -1264,7 +1247,7 @@ created: 2026-05-02
 >
 > **[6:01](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/explain-and-analyze-commands?u=76281980&t=361)** One of the things that the database engine or the the plan builder looks at is information about the tables themselves.
 >
-> **[6:10](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/explain-and-analyze-commands?u=76281980&t=370)** And so the plan builder relies on statistics about the data in the tables that we're working with.
+> **[6:10](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/explain-and-analyze-commands?u=76281980&t=370)** And so the plan builder relies on [[Statistics]] about the data in the tables that we're working with.
 >
 > **[6:15](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/explain-and-analyze-commands?u=76281980&t=375)** Now, usually statistics are kept up to date.
 >
@@ -1296,7 +1279,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Statistics]] (7), database (6), [[SQL]] (3), [[Fetch]] (3)
+> **Frameworks & Libraries:** [[Statistics]] (7), [[SQL]] (3), [[Fetch]] (3), [[PostgreSQL|Postgres]] (2), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** analyze (6), sql (3), aws (1)
 > **CLI Commands:** find (3), python (1), aws (1)
 > **Analogies:** for example (5)
@@ -1305,8 +1288,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generating data with generate_sequence
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/generating-data-with-generate-sequence?u=76281980)
+#### [Generating data with generate_sequence](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/generating-data-with-generate-sequence?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1314,7 +1296,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/generating-data-with-generate-sequence?u=76281980&t=5)** Now, the first thing I want to do is just paste in some code that we have seen already earlier.
 >
-> **[0:11](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/generating-data-with-generate-sequence?u=76281980&t=11)** Basically what I want to do is recreate an IOT sensor measurement table, and create a couple of partitions.
+> **[0:11](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/generating-data-with-generate-sequence?u=76281980&t=11)** Basically what I want to do is recreate an [[IoT]] sensor measurement table, and create a couple of partitions.
 >
 > **[0:17](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/generating-data-with-generate-sequence?u=76281980&t=17)** I won't go over all the details 'cause I've covered this in an earlier video but I do want to point out a couple of things.
 >
@@ -1342,7 +1324,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/generating-data-with-generate-sequence?u=76281980&t=73)** Now we're working with time series data.
 >
-> **[1:15](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/generating-data-with-generate-sequence?u=76281980&t=75)** So there's a really useful set function in Postgres called generate series.
+> **[1:15](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/generating-data-with-generate-sequence?u=76281980&t=75)** So there's a really useful set function in [[PostgreSQL|Postgres]] called generate series.
 >
 > **[1:21](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/generating-data-with-generate-sequence?u=76281980&t=81)** So let's take a look at that.
 >
@@ -1402,7 +1384,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (3), [[PostgreSQL|Postgres]] (2), [[IoT]] (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (2), [[IoT]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **Env Vars:** iot (1)
@@ -1411,8 +1393,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generating time series data
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/generating-time-series-data?u=76281980)
+#### [Generating time series data](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/generating-time-series-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1450,7 +1431,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/generating-time-series-data?u=76281980&t=93)** There we go.
 >
-> **[1:34](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/generating-time-series-data?u=76281980&t=94)** Now, first thing I need to do is get my syntax correct by putting a comma there but you'll notice here we have two tables or two projections actually in the, from clause and there's no joint statement and that's intentional because when we don't put a joint explicit joint clause in and we have two tables, then Postgres is going to generate the Cartesian product or basically a one to all mapping for the rows in each table.
+> **[1:34](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/generating-time-series-data?u=76281980&t=94)** Now, first thing I need to do is get my syntax correct by putting a comma there but you'll notice here we have two tables or two projections actually in the, from clause and there's no joint statement and that's intentional because when we don't put a joint explicit joint clause in and we have two tables, then [[PostgreSQL|Postgres]] is going to generate the Cartesian product or basically a one to all mapping for the rows in each table.
 >
 > **[2:01](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/generating-time-series-data?u=76281980&t=121)** So here in our first subquery we're going to generate 100 rows.
 >
@@ -1536,7 +1517,7 @@ created: 2026-05-02
 >
 > **[5:40](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/generating-time-series-data?u=76281980&t=340)** So the next thing we have to do is just simply save this or basically store it into our sensor measurement table.
 >
-> **[5:48](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/generating-time-series-data?u=76281980&t=348)** So for that, we can just use an insert statement and we can say insert into IOT schema.
+> **[5:48](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/generating-time-series-data?u=76281980&t=348)** So for that, we can just use an insert statement and we can say insert into [[IoT]] schema.
 >
 > **[5:54](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/generating-time-series-data?u=76281980&t=354)** And the name of our table is sensor measurement, or MSMT.
 >
@@ -1556,15 +1537,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (3), [[PostgreSQL|Postgres]] (1), product (1), management (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (1), [[IoT]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** iot (1), msmt (1)
 > **Cross-References:** previous video (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Analyzing a query with WHERE clauses and indexes
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/analyzing-a-query-with-where-clauses-and-indexes?u=76281980)
+#### [Analyzing a query with WHERE clauses and indexes](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/analyzing-a-query-with-where-clauses-and-indexes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1572,7 +1552,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/analyzing-a-query-with-where-clauses-and-indexes?u=76281980&t=5)** So to do that, we're going to explain select, let's just select star and we'll work with our time series data.
 >
-> **[0:13](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/analyzing-a-query-with-where-clauses-and-indexes?u=76281980&t=13)** So we'll say from, the IOT schema and we're going to use sensor measurement and let's say where sensor ID between 10 and 20, and let's execute that, and let's see what come up with.
+> **[0:13](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/analyzing-a-query-with-where-clauses-and-indexes?u=76281980&t=13)** So we'll say from, the [[IoT]] schema and we're going to use sensor measurement and let's say where sensor ID between 10 and 20, and let's execute that, and let's see what come up with.
 >
 > **[0:37](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/analyzing-a-query-with-where-clauses-and-indexes?u=76281980&t=37)** A couple of things to point out here.
 >
@@ -1582,7 +1562,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/analyzing-a-query-with-where-clauses-and-indexes?u=76281980&t=55)** Now this is the month one partition and below that there's another sequence scan scanning the month two partition.
 >
-> **[1:01](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/analyzing-a-query-with-where-clauses-and-indexes?u=76281980&t=61)** So these are two operations that can happen in parallel and Postgres can optimize and do things in parallel sometimes depending on configurations.
+> **[1:01](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/analyzing-a-query-with-where-clauses-and-indexes?u=76281980&t=61)** So these are two operations that can happen in parallel and [[PostgreSQL|Postgres]] can optimize and do things in parallel sometimes depending on configurations.
 >
 > **[1:11](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/analyzing-a-query-with-where-clauses-and-indexes?u=76281980&t=71)** But we want to notice here is we're doing a sequence scan and basically a sequence scan is basically, I'm going to look at everything in the table and see when I hit a row that satisfies a particular filter condition.
 >
@@ -1608,17 +1588,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (2), parallel (2), [[PostgreSQL|Postgres]] (2), data (1), next (1)
+> **Frameworks & Libraries:** [[IoT]] (2), [[PostgreSQL|Postgres]] (2)
 > **Env Vars:** iot (2), idx (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Analyzing a query with a join
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/analyzing-a-query-with-a-join?u=76281980)
+#### [Analyzing a query with a join](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/analyzing-a-query-with-a-join?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/analyzing-a-query-with-a-join?u=76281980&t=0)** - [Instructor] Now Explain Plan is also useful for understanding how Postgres implements joins.
+> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/analyzing-a-query-with-a-join?u=76281980&t=0)** - [Instructor] Now Explain Plan is also useful for understanding how [[PostgreSQL|Postgres]] implements joins.
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/analyzing-a-query-with-a-join?u=76281980&t=6)** So let's take a look at that.
 >
@@ -1628,7 +1607,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/analyzing-a-query-with-a-join?u=76281980&t=16)** Let's make a table that gives a name for each ID and we'll keep it simple.
 >
-> **[0:21](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/analyzing-a-query-with-a-join?u=76281980&t=21)** We'll just call our sensors, we use the word sensor and then append the sensor ID and that'll be the name.
+> **[0:21](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/analyzing-a-query-with-a-join?u=76281980&t=21)** We'll just call our sensors, we use the [[Microsoft Word|word]] sensor and then append the sensor ID and that'll be the name.
 >
 > **[0:28](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/analyzing-a-query-with-a-join?u=76281980&t=28)** So for that, I'm going to use the generate series again.
 >
@@ -1674,7 +1653,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/analyzing-a-query-with-a-join?u=76281980&t=162)** And what I want to do is I want to get a sensor name from the sensors table and then some measurements in the date from the sensor measurement table.
 >
-> **[2:51](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/analyzing-a-query-with-a-join?u=76281980&t=171)** So let's see, I'm going to select from iot.sensor measurement and let's alias that as sm and we're going to be doing a left join on iot.sensors and that's plural.
+> **[2:51](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/analyzing-a-query-with-a-join?u=76281980&t=171)** So let's see, I'm going to select from [[IoT]].sensor measurement and let's alias that as sm and we're going to be doing a left join on iot.sensors and that's plural.
 >
 > **[3:09](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/analyzing-a-query-with-a-join?u=76281980&t=189)** And let's alias that as s, and we're going to be joining on the sensor measurement.
 >
@@ -1736,15 +1715,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[PostgreSQL|Postgres]] (2), [[IoT]] (2), management (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (2), [[IoT]] (2), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** sensor_name (2), iot_sensors (2), generate_series (1), sensor_ids (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
 > **UI Navigation:** scroll up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Optimize a query using an explain plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/challenge-optimize-a-query-using-an-explain-plan?u=76281980)
+#### [Challenge: Optimize a query using an explain plan](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/challenge-optimize-a-query-using-an-explain-plan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1766,8 +1744,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Optimize a query using an explain plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/solution-optimize-a-query-using-an-explain-plan?u=76281980)
+#### [Solution: Optimize a query using an explain plan](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/solution-optimize-a-query-using-an-explain-plan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1789,19 +1766,19 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/solution-optimize-a-query-using-an-explain-plan?u=76281980&t=54)** So if there are opportunities to reduce the amount of data that are pulled back from the large tables, that could be a help as well.
 >
-> **[1:02](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/solution-optimize-a-query-using-an-explain-plan?u=76281980&t=62)** And then finally, just in the off case the statistics are off, you could run the analyze command to make sure statistics are up to date.
+> **[1:02](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/solution-optimize-a-query-using-an-explain-plan?u=76281980&t=62)** And then finally, just in the off case the [[Statistics]] are off, you could run the analyze command to make sure statistics are up to date.
 >
 > **[1:10](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/solution-optimize-a-query-using-an-explain-plan?u=76281980&t=70)** So those are just some of the solutions you can take to this challenge.
 >
 > **[1:15](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/solution-optimize-a-query-using-an-explain-plan?u=76281980&t=75)** Query optimization is a really in-depth area that we can dig into, and it's more than we can cover in this course.
 >
-> **[1:22](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/solution-optimize-a-query-using-an-explain-plan?u=76281980&t=82)** However, there is a course in the catalog on SQL query optimization and tuning.
+> **[1:22](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/solution-optimize-a-query-using-an-explain-plan?u=76281980&t=82)** However, there is a course in the catalog on [[SQL]] query optimization and tuning.
 >
 > **[1:28](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/solution-optimize-a-query-using-an-explain-plan?u=76281980&t=88)** So I highly suggest you look into that course if you are interested in learning more about how to use explain plan, and how to how to really get better performance out of your queries.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Statistics]] (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[SQL]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** sql (1)
@@ -1813,16 +1790,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Extending SQL with user-defined functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/extending-sql-with-user-defined-functions?u=76281980)
+#### [Extending SQL with user-defined functions](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/extending-sql-with-user-defined-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/extending-sql-with-user-defined-functions?u=76281980&t=0)** - [Instructor] Now we're going to shift our attention to extending SQL.
+> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/extending-sql-with-user-defined-functions?u=76281980&t=0)** - [Instructor] Now we're going to shift our attention to extending [[SQL]].
 >
-> **[0:03](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/extending-sql-with-user-defined-functions?u=76281980&t=3)** And this is actually one of the more interesting topics with regards to advanced SQL, which is how do we get beyond what is given to us essentially in the box in the Postgres or whatever database we're using.
+> **[0:03](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/extending-sql-with-user-defined-functions?u=76281980&t=3)** And this is actually one of the more interesting topics with regards to advanced SQL, which is how do we get beyond what is given to us essentially in the box in the [[PostgreSQL|Postgres]] or whatever database we're using.
 >
-> **[0:15](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/extending-sql-with-user-defined-functions?u=76281980&t=15)** How can we make it even more functional from a data science perspective?
+> **[0:15](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/extending-sql-with-user-defined-functions?u=76281980&t=15)** How can we make it even more functional from a [[Data Science]] perspective?
 >
 > **[0:19](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/extending-sql-with-user-defined-functions?u=76281980&t=19)** Well, the first thing to note is that of course, SQL provides many types of functions for operating on data and we use them all the time.
 >
@@ -1846,7 +1822,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/extending-sql-with-user-defined-functions?u=76281980&t=89)** How much are they going to spend?
 >
-> **[1:30](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/extending-sql-with-user-defined-functions?u=76281980&t=90)** Also, we might want to be able to say predict if we were a bank or a lender of some kind making predictions about what's the probability that this person will default on a loan?
+> **[1:30](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/extending-sql-with-user-defined-functions?u=76281980&t=90)** Also, we might want to be able to say predict if we were a bank or a lender of some kind making predictions about what's the [[Probability]] that this person will default on a loan?
 >
 > **[1:41](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/extending-sql-with-user-defined-functions?u=76281980&t=101)** So when we're working with Postgres, there are five types of user-defined functions.
 >
@@ -1868,13 +1844,13 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/extending-sql-with-user-defined-functions?u=76281980&t=158)** But again, these are C-level functions and not something we typically use when we're say working with data science functions.
 >
-> **[2:45](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/extending-sql-with-user-defined-functions?u=76281980&t=165)** There's also an extension called PL/Python which allows you to write user-defined functions in Python.
+> **[2:45](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/extending-sql-with-user-defined-functions?u=76281980&t=165)** There's also an extension called PL/[[Python (Programming Language)|Python]] which allows you to write user-defined functions in Python.
 >
 > **[2:51](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/extending-sql-with-user-defined-functions?u=76281980&t=171)** And there are a lot of advantages to that, but I just want to note right off the bat that PL/Python is not a trusted language, which basically means you could really do some damage to the database if something's not quite right in your Python, so use PL/Python with caution.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (7), [[Python (Programming Language)|Python]] (5), [[PostgreSQL|Postgres]] (4), data (4), database (2)
+> **Frameworks & Libraries:** [[SQL]] (7), [[Python (Programming Language)|Python]] (5), [[PostgreSQL|Postgres]] (4), [[Data Science]] (3), [[Probability]] (1)
 > **Env Vars:** sql (7), algol (1)
 > **CLI Commands:** python (5), make (1)
 > **Definitions:** is a  (2), is an  (1), basically means (1)
@@ -1883,16 +1859,15 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Warnings:** caution (1)
 
-#### SQL query functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/sql-query-functions?u=76281980)
+#### [SQL query functions](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/sql-query-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/sql-query-functions?u=76281980&t=0)** - [Instructor] Now let's take a look at SQL functions.
+> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/sql-query-functions?u=76281980&t=0)** - [Instructor] Now let's take a look at [[SQL]] functions.
 >
 > **[0:03](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/sql-query-functions?u=76281980&t=3)** Now SQL functions are basically query language functions.
 >
-> **[0:06](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/sql-query-functions?u=76281980&t=6)** So these are different from, say, writing a procedural code either in PL/pgSQL or in C or in Python.
+> **[0:06](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/sql-query-functions?u=76281980&t=6)** So these are different from, say, writing a procedural code either in PL/pgSQL or in C or in [[Python (Programming Language)|Python]].
 >
 > **[0:16](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/sql-query-functions?u=76281980&t=16)** And so we're really writing in declarative language.
 >
@@ -1900,7 +1875,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/sql-query-functions?u=76281980&t=25)** Now the thing to keep in mind about query language functions is that the last statement either has to be a select or the function has to be declared void.
 >
-> **[0:34](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/sql-query-functions?u=76281980&t=34)** So if you're familiar with some procedural languages, you know, Java, C, sometimes, you can have a function which doesn't return anything, you declare it as void, which is basically means it's, you know, it's just a procedure, it has side effects, it doesn't return a value.
+> **[0:34](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/sql-query-functions?u=76281980&t=34)** So if you're familiar with some procedural languages, you know, [[Java]], C, sometimes, you can have a function which doesn't return anything, you declare it as void, which is basically means it's, you know, it's just a procedure, it has side effects, it doesn't return a value.
 >
 > **[0:49](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/sql-query-functions?u=76281980&t=49)** Similar for query language functions, you can declare it as void.
 >
@@ -1924,7 +1899,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/sql-query-functions?u=76281980&t=112)** And no surprise here, it just creates a new function.
 >
-> **[1:56](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/sql-query-functions?u=76281980&t=116)** I want to point out that Postgres has another way of creating a function, which is called create or replace function.
+> **[1:56](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/sql-query-functions?u=76281980&t=116)** I want to point out that [[PostgreSQL|Postgres]] has another way of creating a function, which is called create or replace function.
 >
 > **[2:02](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/sql-query-functions?u=76281980&t=122)** And that's really nice, because if the function exists, it'll update the definition.
 >
@@ -1960,7 +1935,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/sql-query-functions?u=76281980&t=201)** Harmonic mean is what will give you the, you know, sort of the correct average mile per hour across that whole time span.
 >
-> **[3:29](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/sql-query-functions?u=76281980&t=209)** Now from a data science perspective, it's also used a lot with information retrieval in machine learning, particularly, when we combine precision and recall numbers.
+> **[3:29](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/sql-query-functions?u=76281980&t=209)** Now from a [[Data Science]] perspective, it's also used a lot with [[Information Retrieval]] in machine learning, particularly, when we combine precision and recall numbers.
 >
 > **[3:38](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/sql-query-functions?u=76281980&t=218)** So we have two measures that we typically use in machine learning, precision and recall, in terms of classification problems.
 >
@@ -2086,7 +2061,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (8), [[PostgreSQL|Postgres]] (4), data (2), [[Information Retrieval]] (2), product (2)
+> **Frameworks & Libraries:** [[SQL]] (8), [[PostgreSQL|Postgres]] (4), [[Information Retrieval]] (2), [[Python (Programming Language)|Python]] (1), [[Java]] (1)
 > **Env Vars:** sql (8), crud (1)
 > **Definitions:** is a  (4), basically means (1), is called (1)
 > **Analogies:** imagine (1), just like (1), kind of like (1)
@@ -2095,12 +2070,11 @@ created: 2026-05-02
 > **Code Identifiers:** pgsql (1)
 > **Versions:** 3.11 (1)
 
-#### Function overloading
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/function-overloading?u=76281980)
+#### [Function overloading](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/function-overloading?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/function-overloading?u=76281980&t=0)** - [Instructor] Postgres supports the concept of function overloading.
+> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/function-overloading?u=76281980&t=0)** - [Instructor] [[PostgreSQL|Postgres]] supports the concept of function overloading.
 >
 > **[0:04](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/function-overloading?u=76281980&t=4)** Now basically what this means is that a single function can actually have multiple definitions.
 >
@@ -2142,7 +2116,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/function-overloading?u=76281980&t=167)** And we'll just specify the end of the definition and of the actual function code and we have to tell Postgres which language we are using.
 >
-> **[2:56](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/function-overloading?u=76281980&t=176)** We'll specify SQL.
+> **[2:56](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/function-overloading?u=76281980&t=176)** We'll specify [[SQL]].
 >
 > **[2:58](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/function-overloading?u=76281980&t=178)** And let's just run that just to make sure I got that correct.
 >
@@ -2204,7 +2178,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (5), data (4), [[SQL]] (2)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (5), [[SQL]] (2)
 > **Versions:** 2.2 (2), 7.1 (2)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
@@ -2213,8 +2187,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Function volatility
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/function-volatility?u=76281980)
+#### [Function volatility](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/function-volatility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2268,7 +2241,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/function-volatility?u=76281980&t=172)** This is our harmonic mean function, which we've seen before.
 >
-> **[2:55](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/function-volatility?u=76281980&t=175)** And you'll notice here in the last line, after we specify the language, which in this case is SQL.
+> **[2:55](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/function-volatility?u=76281980&t=175)** And you'll notice here in the last line, after we specify the language, which in this case is [[SQL]].
 >
 > **[3:01](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/function-volatility?u=76281980&t=181)** We're specifying the volatility classification, which in this case is immutable because the function is immutable.
 >
@@ -2288,7 +2261,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), data (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **Warnings:** keep in mind (2)
@@ -2296,18 +2269,17 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### PL/Python functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/pl-python-functions?u=76281980)
+#### [PL/Python functions](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/pl-python-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/pl-python-functions?u=76281980&t=0)** - [Instructor] Now, it is possible to write user-defined functions in Python when using Postgres.
+> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/pl-python-functions?u=76281980&t=0)** - [Instructor] Now, it is possible to write user-defined functions in [[Python (Programming Language)|Python]] when using [[PostgreSQL|Postgres]].
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/pl-python-functions?u=76281980&t=7)** And we write Python by using the PL/Python language.
 >
 > **[0:11](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/pl-python-functions?u=76281980&t=11)** So the PL/Python language is a Postgres extension.
 >
-> **[0:16](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/pl-python-functions?u=76281980&t=16)** And as I mentioned, it makes it possible to write SQL functions in Python.
+> **[0:16](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/pl-python-functions?u=76281980&t=16)** And as I mentioned, it makes it possible to write [[SQL]] functions in Python.
 >
 > **[0:20](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/pl-python-functions?u=76281980&t=20)** And what we would do is basically call the create extension command.
 >
@@ -2317,7 +2289,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/pl-python-functions?u=76281980&t=34)** Now, there are definitely reasons to use Python.
 >
-> **[0:37](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/pl-python-functions?u=76281980&t=37)** For many people who work in data science, we already know Python.
+> **[0:37](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/pl-python-functions?u=76281980&t=37)** For many people who work in [[Data Science]], we already know Python.
 >
 > **[0:41](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/pl-python-functions?u=76281980&t=41)** It's a well-developed language.
 >
@@ -2393,7 +2365,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (21), [[PostgreSQL|Postgres]] (6), database (4), [[SQL]] (2), data (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (21), [[PostgreSQL|Postgres]] (6), [[SQL]] (2), [[Data Science]] (1)
 > **CLI Commands:** python (21), make (1)
 > **Versions:** python 3 (3), python 2 (2)
 > **Env Vars:** sql (2)
@@ -2402,12 +2374,11 @@ created: 2026-05-02
 > **Code Identifiers:** pgsql (1)
 > **Documentation:** the documentation (1)
 
-#### Challenge: Write a user-defined function
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/challenge-write-a-user-defined-function?u=76281980)
+#### [Challenge: Write a user-defined function](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/challenge-write-a-user-defined-function?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/challenge-write-a-user-defined-function?u=76281980&t=0)** - [Instructor] In this challenge, I'd like you to write a SQL function that returns a Boolean and the function will return true, if an input string is a palindrome.
+> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/challenge-write-a-user-defined-function?u=76281980&t=0)** - [Instructor] In this challenge, I'd like you to write a [[SQL]] function that returns a Boolean and the function will return true, if an input string is a palindrome.
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/challenge-write-a-user-defined-function?u=76281980&t=15)** That is the string is the same in reverse as it is going forward.
 >
@@ -2425,8 +2396,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Write a user-defined function
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/solution-write-a-user-defined-function?u=76281980)
+#### [Solution: Write a user-defined function](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/solution-write-a-user-defined-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2477,12 +2447,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Federated queries
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/federated-queries?u=76281980)
+#### [Federated queries](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/federated-queries?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/federated-queries?u=76281980&t=0)** - [Instructor] Now, there may be times we want to work with data that's not in the database, and we don't actually want to load the data either, but we'd still like to have access to it through SQL.
+> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/federated-queries?u=76281980&t=0)** - [Instructor] Now, there may be times we want to work with data that's not in the database, and we don't actually want to load the data either, but we'd still like to have access to it through [[SQL]].
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/federated-queries?u=76281980&t=9)** In that case, we could use something known as federated queries.
 >
@@ -2500,7 +2469,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/federated-queries?u=76281980&t=52)** So, the way we create a federated data source is first we create an extension called postgres_fdw.
 >
-> **[1:00](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/federated-queries?u=76281980&t=60)** Now, an extension is a module which is part of Postgres, but it is not installed by default.
+> **[1:00](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/federated-queries?u=76281980&t=60)** Now, an extension is a module which is part of [[PostgreSQL|Postgres]], but it is not installed by default.
 >
 > **[1:08](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/federated-queries?u=76281980&t=68)** So when we want to install an extension, we use the CREATE EXTENSION command, and then we specify the name of the extension we want to install, which in this case is postgres_fdw.
 >
@@ -2528,7 +2497,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/federated-queries?u=76281980&t=157)** Now, another thing we can do is we can map a schema from an external database.
 >
-> **[2:43](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/federated-queries?u=76281980&t=163)** So for example, let's say we have an e-commerce application that has some sales information and we want to reference that data, we can create a schema on our database.
+> **[2:43](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/federated-queries?u=76281980&t=163)** So for example, let's say we have an [[E-Commerce]] application that has some sales information and we want to reference that data, we can create a schema on our database.
 >
 > **[2:53](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/federated-queries?u=76281980&t=173)** Let's call it external_sales.
 >
@@ -2560,7 +2529,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), database (16), [[SQL]] (5), [[PostgreSQL|Postgres]] (2), management (1)
+> **Frameworks & Libraries:** [[SQL]] (5), [[PostgreSQL|Postgres]] (2), [[E-Commerce]] (1)
 > **Env Vars:** sql (5), create (5), server (2), foreign (2), table (2)
 > **Code Identifiers:** postgres_fdw (3), external_db_server (2), external_sales (2), page_visit_log (1), log_data (1)
 > **Definitions:** is a  (4), known as (1)
@@ -2569,8 +2538,7 @@ created: 2026-05-02
 > **Documentation:** specification (1)
 > **Speakers:** - [instructor] (1)
 
-#### Bloom filters
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/bloom-filters?u=76281980)
+#### [Bloom filters](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/bloom-filters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2612,7 +2580,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/bloom-filters?u=76281980&t=114)** And what people have found is that oftentimes about 10 bits per element will yield about a 1% false positive rate.
 >
-> **[2:01](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/bloom-filters?u=76281980&t=121)** Now a blue filter index is a Postgres extension.
+> **[2:01](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/bloom-filters?u=76281980&t=121)** Now a blue filter index is a [[PostgreSQL|Postgres]] extension.
 >
 > **[2:05](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/bloom-filters?u=76281980&t=125)** So that means it's part of Postgres but it's not installed by default.
 >
@@ -2658,7 +2626,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[PostgreSQL|Postgres]] (2)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (2)
 > **Analogies:** for example (5), such as (2)
 > **Definitions:** is a  (4), known as (1)
 > **CLI Commands:** find (1), make (1)
@@ -2667,12 +2635,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** install (1)
 
-#### Hstore for key-value pairs
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/hstore-for-key-value-pairs?u=76281980)
+#### [Hstore for key-value pairs](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/hstore-for-key-value-pairs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/hstore-for-key-value-pairs?u=76281980&t=0)** - [Instructor] Now, Postgres has features that may be more properly considered in the realm of NoSQL, including key-value stores and support for document structures using JSON.
+> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/hstore-for-key-value-pairs?u=76281980&t=0)** - [Instructor] Now, [[PostgreSQL|Postgres]] has features that may be more properly considered in the realm of [[NoSQL]], including key-value stores and support for document structures using [[JSON]].
 >
 > **[0:12](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/hstore-for-key-value-pairs?u=76281980&t=12)** So let's first take a look at hstore.
 >
@@ -2710,7 +2677,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/hstore-for-key-value-pairs?u=76281980&t=117)** You get no other data types.
 >
-> **[1:59](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/hstore-for-key-value-pairs?u=76281980&t=119)** It does not support hierarchical data structures.
+> **[1:59](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/hstore-for-key-value-pairs?u=76281980&t=119)** It does not support hierarchical [[Data Structures]].
 >
 > **[2:02](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/hstore-for-key-value-pairs?u=76281980&t=122)** Now, if you need hierarchical data structures, JSONB or XML data types are better options.
 >
@@ -2740,7 +2707,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/hstore-for-key-value-pairs?u=76281980&t=197)** And we'll have our VALUES, and our VALUES will be the title of the book.
 >
-> **[3:23](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/hstore-for-key-value-pairs?u=76281980&t=203)** Let's call the title SQL for Data Science.
+> **[3:23](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/hstore-for-key-value-pairs?u=76281980&t=203)** Let's call the title [[SQL]] for [[Data Science]].
 >
 > **[3:28](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/hstore-for-key-value-pairs?u=76281980&t=208)** That's one value.
 >
@@ -2804,7 +2771,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[PostgreSQL|Postgres]] (2), [[SQL]] (2), [[NoSQL]] (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (2), [[Data Structures]] (2), [[SQL]] (2), [[Data Science]] (2), [[NoSQL]] (1)
 > **Env Vars:** select (4), create (3), where (3), extension (2), values (2)
 > **Code Identifiers:** page_count (10), pub_year (1)
 > **SQL:** select (4), where (3), insert into (1)
@@ -2813,16 +2780,15 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Best Practices:** make sure to (1)
 
-#### JSON for semi-structured data
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/json-for-semi-structured-data?u=76281980)
+#### [JSON for semi-structured data](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/json-for-semi-structured-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/json-for-semi-structured-data?u=76281980&t=0)** - [Instructor] Now PostgreSQL provides data types for supporting JSON, which is ideal for semi-structured data.
+> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/json-for-semi-structured-data?u=76281980&t=0)** - [Instructor] Now [[PostgreSQL]] provides data types for supporting [[JSON]], which is ideal for semi-structured data.
 >
-> **[0:06](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/json-for-semi-structured-data?u=76281980&t=6)** So with PostgreSQL, we have options to use both relational and NoSQL type features.
+> **[0:06](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/json-for-semi-structured-data?u=76281980&t=6)** So with PostgreSQL, we have options to use both relational and [[NoSQL]] type features.
 >
-> **[0:11](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/json-for-semi-structured-data?u=76281980&t=11)** Now JSON is particularly good at modeling document databases.
+> **[0:11](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/json-for-semi-structured-data?u=76281980&t=11)** Now JSON is particularly good at modeling document [[Databases]].
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/json-for-semi-structured-data?u=76281980&t=15)** Now, document databases are used when a use case demands a flexible schema, nested structures, and the ability to query an index keys throughout the structure.
 >
@@ -3002,7 +2968,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (19), data (6), [[PostgreSQL]] (3), [[Databases]] (2), database (2)
+> **Frameworks & Libraries:** [[JSON]] (19), [[PostgreSQL]] (3), [[Databases]] (2), [[NoSQL]] (1)
 > **Env Vars:** json (19), jsonb (11), gin (1), rason (1)
 > **Code Identifiers:** customer_doc (6), first_name (5), customer_summary (4), customer_name (4), purchase_history (3)
 > **Versions:** 9.2 (2), 9.4 (1)
@@ -3010,14 +2976,13 @@ created: 2026-05-02
 > **Analogies:** for example (2), imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hierarchical data and ltrees
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/hierarchical-data-and-ltrees?u=76281980)
+#### [Hierarchical data and ltrees](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/hierarchical-data-and-ltrees?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/hierarchical-data-and-ltrees?u=76281980&t=0)** - [Instructor] Occasionally, we need to work with hierarchical data.
 >
-> **[0:03](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/hierarchical-data-and-ltrees?u=76281980&t=3)** There are different ways of working with hierarchical data and one is to use an extension in Postgres called ltrees.
+> **[0:03](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/hierarchical-data-and-ltrees?u=76281980&t=3)** There are different ways of working with hierarchical data and one is to use an extension in [[PostgreSQL|Postgres]] called ltrees.
 >
 > **[0:10](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/hierarchical-data-and-ltrees?u=76281980&t=10)** So, here's an example of a simple tree and oftentimes one of the things we need to do with these trees is work with paths.
 >
@@ -3037,7 +3002,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/hierarchical-data-and-ltrees?u=76281980&t=62)** In the case of D and E, both of those are below B, and so B is the foreign key in the parent node table.
 >
-> **[1:11](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/hierarchical-data-and-ltrees?u=76281980&t=71)** Now, when you're querying hierarchical data, we often use recursive common table expressions but if you're working with Oracle, you can use a Connect By clause in your SQL query.
+> **[1:11](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/hierarchical-data-and-ltrees?u=76281980&t=71)** Now, when you're querying hierarchical data, we often use recursive common table expressions but if you're working with Oracle, you can use a Connect By clause in your [[SQL]] query.
 >
 > **[1:22](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/hierarchical-data-and-ltrees?u=76281980&t=82)** Now, another way to represent paths is to use a pattern called materialized paths.
 >
@@ -3237,7 +3202,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (16), data (5), [[PostgreSQL|Postgres]] (5), product (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (5), [[SQL]] (1)
 > **CLI Commands:** node (16), find (1)
 > **Analogies:** for example (7), such as (1), imagine (1), similar to (1)
 > **Code Identifiers:** paths_to_nodes (6), idx_paths_to_nodes (1), paths_to_concatenate (1), paths_to_concat (1)
@@ -3246,16 +3211,15 @@ created: 2026-05-02
 > **Env Vars:** sql (1)
 > **Documentation:** specification (1)
 
-#### Challenge: Design a table to support unstructured data
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/challenge-design-a-table-to-support-unstructured-data?u=76281980)
+#### [Challenge: Design a table to support unstructured data](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/challenge-design-a-table-to-support-unstructured-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/challenge-design-a-table-to-support-unstructured-data?u=76281980&t=0)** (light techno music)
 >
-> **[0:05](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/challenge-design-a-table-to-support-unstructured-data?u=76281980&t=5)** - [Instructor] Okay, here's a challenge around data modeling and design choices.
+> **[0:05](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/challenge-design-a-table-to-support-unstructured-data?u=76281980&t=5)** - [Instructor] Okay, here's a challenge around [[Data Modeling]] and design choices.
 >
-> **[0:10](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/challenge-design-a-table-to-support-unstructured-data?u=76281980&t=10)** Let's imagine you're working with an ecommerce company who wants to create a new catalog of products.
+> **[0:10](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/challenge-design-a-table-to-support-unstructured-data?u=76281980&t=10)** Let's imagine you're working with an ecommerce company who wants to create a new catalog of [[Microsoft Products|products]].
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/challenge-design-a-table-to-support-unstructured-data?u=76281980&t=15)** Now different kinds of products are going to have different attributes and it's critical that users be able to query and filter on any attribute.
 >
@@ -3265,14 +3229,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), data (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Data Modeling]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (light techno music) (1)
 
-#### Solution: Design a table to support unstructured data
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/solution-design-a-table-to-support-unstructured-data?u=76281980)
+#### [Solution: Design a table to support unstructured data](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/solution-design-a-table-to-support-unstructured-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3282,17 +3245,17 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/solution-design-a-table-to-support-unstructured-data?u=76281980&t=15)** Now, we could use a column for each attribute, but that's really not practical, particularly in a relational database.
 >
-> **[0:22](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/solution-design-a-table-to-support-unstructured-data?u=76281980&t=22)** Now, that's not the case with another type of database, in particular the type of NoSQL database known as a wide-column database.
+> **[0:22](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/solution-design-a-table-to-support-unstructured-data?u=76281980&t=22)** Now, that's not the case with another type of database, in particular the type of [[NoSQL]] database known as a wide-column database.
 >
-> **[0:30](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/solution-design-a-table-to-support-unstructured-data?u=76281980&t=30)** Now, Apache Cassandra, Query Google Bigtable are both examples of wide-column tables, where having a column for each attribute is an appropriate way to design it.
+> **[0:30](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/solution-design-a-table-to-support-unstructured-data?u=76281980&t=30)** Now, Apache Cassandra, Query [[Google]] Bigtable are both examples of wide-column tables, where having a column for each attribute is an appropriate way to design it.
 >
-> **[0:41](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/solution-design-a-table-to-support-unstructured-data?u=76281980&t=41)** But when you're working with Postgres or other relational tables, that's really not a good option.
+> **[0:41](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/solution-design-a-table-to-support-unstructured-data?u=76281980&t=41)** But when you're working with [[PostgreSQL|Postgres]] or other relational tables, that's really not a good option.
 >
 > **[0:46](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/solution-design-a-table-to-support-unstructured-data?u=76281980&t=46)** A better option is to use a JSONB column, because with JSONB, we have the semi-structured document data structure to work with and JSONB supports indexing.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), data (2), [[NoSQL]] (1), [[Google]] (1), [[PostgreSQL|Postgres]] (1)
+> **Frameworks & Libraries:** [[NoSQL]] (1), [[Google]] (1), [[PostgreSQL|Postgres]] (1)
 > **Env Vars:** jsonb (3)
 > **Definitions:** known as (1), is an  (1)
 > **CLI Commands:** apache (1)
@@ -3304,18 +3267,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/next-steps?u=76281980&t=0)** - [Dan] Now that we've completed the Advanced SQL for Data Science course, there's some other courses you may be interested in taking a look at.
+> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/next-steps?u=76281980&t=0)** - [Dan] Now that we've completed the Advanced [[SQL]] for [[Data Science]] course, there's some other courses you may be interested in taking a look at.
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/next-steps?u=76281980&t=7)** SQL query tuning and performance optimization is a critical skill anytime you're working with large data sets.
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/next-steps?u=76281980&t=14)** I'd highly recommend studying query tuning and performance optimization.
 >
-> **[0:18](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/next-steps?u=76281980&t=18)** I'd also suggest learning more about data modeling, including modeling NoSQL databases, because the lines have begun to blur between relational or SQL and NoSQL and so some of the techniques that you might learn in NoSQL data modeling may be applicable when you're working, for example, with JSONB data.
+> **[0:18](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/next-steps?u=76281980&t=18)** I'd also suggest learning more about [[Data Modeling]], including modeling [[NoSQL]] [[Databases]], because the lines have begun to blur between relational or SQL and NoSQL and so some of the techniques that you might learn in NoSQL data modeling may be applicable when you're working, for example, with JSONB data.
 >
 > **[0:35](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/next-steps?u=76281980&t=35)** Now, depending on the type of data you're working with, you may want to look into some specialized courses, like data science for time series data.
 >
@@ -3323,11 +3285,11 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/next-steps?u=76281980&t=49)** There's a lot of thought that needs to go in around how you structure your data, how you structure systems.
 >
-> **[0:54](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/next-steps?u=76281980&t=54)** So any work you can do with data architecture or learning data architecture patterns will almost certainly be helpful in your data science career.
+> **[0:54](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/next-steps?u=76281980&t=54)** So any work you can do with [[Data Architecture]] or learning data architecture patterns will almost certainly be helpful in your data science career.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[SQL]] (4), [[NoSQL]] (3), [[Data Architecture]] (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Data Science]] (4), [[NoSQL]] (3), [[Data Modeling]] (2), [[Data Architecture]] (2)
 > **Env Vars:** sql (4), jsonb (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)

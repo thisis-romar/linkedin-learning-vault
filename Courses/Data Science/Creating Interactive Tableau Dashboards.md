@@ -130,8 +130,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Designing dashboards in Tableau
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/designing-dashboards-in-tableau?u=76281980)
+#### [Designing dashboards in Tableau](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/designing-dashboards-in-tableau?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -141,7 +140,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/designing-dashboards-in-tableau?u=76281980&t=7)** The who, the what, the where, and the why.
 >
-> **[0:11](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/designing-dashboards-in-tableau?u=76281980&t=11)** We're going to cover dashboard layout, the best way to format your dashboards.
+> **[0:11](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/designing-dashboards-in-tableau?u=76281980&t=11)** We're going to cover dashboard layout, the best way to format your [[Dashboards]].
 >
 > **[0:15](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/designing-dashboards-in-tableau?u=76281980&t=15)** We'll look at dashboard objects, the things that we can add into your dashboard to really enhance them.
 >
@@ -149,7 +148,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/designing-dashboards-in-tableau?u=76281980&t=28)** Ultimately, we want people to see, understand, and act on data.
 >
-> **[0:32](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/designing-dashboards-in-tableau?u=76281980&t=32)** So grab your copy of Tableau, get some data, create some visualizations.
+> **[0:32](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/designing-dashboards-in-tableau?u=76281980&t=32)** So grab your copy of [[Tableau]], get some data, create some visualizations.
 >
 > **[0:37](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/designing-dashboards-in-tableau?u=76281980&t=37)** Hi, welcome to Creating great Tableau dashboards.
 >
@@ -157,7 +156,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Dashboards]] (4), [[Tableau]] (4)
+> **Frameworks & Libraries:** [[Dashboards]] (4), [[Tableau]] (4)
 > **Speakers:** - [matt] (1)
 
 
@@ -165,8 +164,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Who, what, where, and why: The four questions for every dashboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/the-four-questions-for-every-dashboard?u=76281980)
+#### [Who, what, where, and why: The four questions for every dashboard](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/the-four-questions-for-every-dashboard?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -268,7 +266,7 @@ created: 2026-05-02
 >
 > **[4:13](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/the-four-questions-for-every-dashboard?u=76281980&t=253)** So what's going on there?
 >
-> **[4:15](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/the-four-questions-for-every-dashboard?u=76281980&t=255)** This is when we start talking about KPI dashboards where we're trying to indicate there is something of significance we need to take care of right now.
+> **[4:15](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/the-four-questions-for-every-dashboard?u=76281980&t=255)** This is when we start talking about KPI [[Dashboards]] where we're trying to indicate there is something of significance we need to take care of right now.
 >
 > **[4:24](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/the-four-questions-for-every-dashboard?u=76281980&t=264)** Whereas the exploratory dashboard is, well, I'm going to explore the data and see what I can find.
 >
@@ -298,14 +296,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), product (1), business (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (1)
 > **CLI Commands:** make (4), find (2)
 > **Env Vars:** kpi (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Who is the dashboard for?
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/who-is-the-dashboard-for?u=76281980)
+#### [Who is the dashboard for?](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/who-is-the-dashboard-for?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -339,7 +336,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/who-is-the-dashboard-for?u=76281980&t=87)** Now, the department might not be as knowledgeable on the data as you and your team are, so maybe you need to spend a little bit more space on your dashboard explaining what the data actually means.
 >
-> **[1:41](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/who-is-the-dashboard-for?u=76281980&t=101)** Similarly, when we start looking at dashboards for senior management, they tend to be looking at a much higher level of detail for the data, and probably they might not understand the nuance within that data either.
+> **[1:41](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/who-is-the-dashboard-for?u=76281980&t=101)** Similarly, when we start looking at [[Dashboards]] for senior management, they tend to be looking at a much higher level of detail for the data, and probably they might not understand the nuance within that data either.
 >
 > **[1:55](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/who-is-the-dashboard-for?u=76281980&t=115)** And because these people might be decision makers, we don't want them to be making wrong decisions based on our visualizations.
 >
@@ -407,13 +404,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (30), [[Dashboards]] (3), management (3), teams (2)
+> **Frameworks & Libraries:** [[Dashboards]] (3)
 > **CLI Commands:** make (4)
 > **Definitions:** is an  (1), means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Where will the dashboard be viewed?
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/where-wll-the-dashboard-be-viewed?u=76281980)
+#### [Where will the dashboard be viewed?](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/where-wll-the-dashboard-be-viewed?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -541,15 +537,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (1), web (1)
 > **CLI Commands:** make (4), find (3)
 > **Definitions:** means that (2)
 > **Analogies:** such as (1), for example (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Why are you making the dashboard?
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/why-are-you-making-the-dashboard?u=76281980)
+#### [Why are you making the dashboard?](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/why-are-you-making-the-dashboard?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -563,7 +557,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/why-are-you-making-the-dashboard?u=76281980&t=18)** What role is it going to take?
 >
-> **[0:21](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/why-are-you-making-the-dashboard?u=76281980&t=21)** Now, broadly speaking, there are four types of dashboards that typically we produce.
+> **[0:21](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/why-are-you-making-the-dashboard?u=76281980&t=21)** Now, broadly speaking, there are four types of [[Dashboards]] that typically we produce.
 >
 > **[0:28](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/why-are-you-making-the-dashboard?u=76281980&t=28)** The first is an exploratory dashboard.
 >
@@ -693,15 +687,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), [[Dashboards]] (16), next (2), business (1)
+> **Frameworks & Libraries:** [[Dashboards]] (16)
 > **CLI Commands:** make (9), find (4)
 > **Env Vars:** kpi (6)
 > **Definitions:** is an  (2), is a  (1)
 > **Analogies:** for example (3)
 > **Speakers:** - [instructor] (1)
 
-#### What question do you want to answer?
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/what-question-do-you-want-to-answer?u=76281980)
+#### [What question do you want to answer?](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/what-question-do-you-want-to-answer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -765,11 +758,11 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/what-question-do-you-want-to-answer?u=76281980&t=179)** This is an important thing to consider because often more datas can lead to performance issues.
 >
-> **[3:06](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/what-question-do-you-want-to-answer?u=76281980&t=186)** Every time you change a filter, Tableau has to compute what the effect of that filter is.
+> **[3:06](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/what-question-do-you-want-to-answer?u=76281980&t=186)** Every time you change a filter, [[Tableau]] has to compute what the effect of that filter is.
 >
 > **[3:12](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/what-question-do-you-want-to-answer?u=76281980&t=192)** And if you've got other filters on a dashboard, each of these filters interact with one another, so Tableau has to do a lot of work every time you change one filter.
 >
-> **[3:22](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/what-question-do-you-want-to-answer?u=76281980&t=202)** The most common mistake that people make when it comes to creating visualizations and dashboards is having too many filters.
+> **[3:22](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/what-question-do-you-want-to-answer?u=76281980&t=202)** The most common mistake that people make when it comes to creating visualizations and [[Dashboards]] is having too many filters.
 >
 > **[3:29](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/what-question-do-you-want-to-answer?u=76281980&t=209)** Just because you can doesn't mean that you should, and you certainly don't need to have a filter for every single field.
 >
@@ -823,7 +816,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), [[Tableau]] (2), [[Dashboards]] (2)
+> **Frameworks & Libraries:** [[Tableau]] (2), [[Dashboards]] (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Warnings:** common mistake (1)
@@ -834,8 +827,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a basic dashboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/create-a-basic-dashboard?u=76281980)
+#### [Create a basic dashboard](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/create-a-basic-dashboard?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -885,7 +877,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/create-a-basic-dashboard?u=76281980&t=136)** Now, at the very bottom, there's a little checkbox that says show dashboard title.
 >
-> **[2:20](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/create-a-basic-dashboard?u=76281980&t=140)** Now by default, dashboards don't have a title.
+> **[2:20](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/create-a-basic-dashboard?u=76281980&t=140)** Now by default, [[Dashboards]] don't have a title.
 >
 > **[2:23](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/create-a-basic-dashboard?u=76281980&t=143)** I think it's quite rare that I've ever created a dashboard that doesn't have a title.
 >
@@ -939,7 +931,7 @@ created: 2026-05-02
 >
 > **[4:23](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/create-a-basic-dashboard?u=76281980&t=263)** Now, this is an interactive sheet just like it would be normally.
 >
-> **[4:25](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/create-a-basic-dashboard?u=76281980&t=265)** So I could zoom in or out on there.
+> **[4:25](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/create-a-basic-dashboard?u=76281980&t=265)** So I could [[Zoom]] in or out on there.
 >
 > **[4:27](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/create-a-basic-dashboard?u=76281980&t=267)** I could select different items.
 >
@@ -947,7 +939,7 @@ created: 2026-05-02
 >
 > **[4:34](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/create-a-basic-dashboard?u=76281980&t=274)** Can also see I've got this white area on the right hand side with the profit legend.
 >
-> **[4:40](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/create-a-basic-dashboard?u=76281980&t=280)** What Tableau does is it automatically creates a container, more of those in another video, that puts elements in there.
+> **[4:40](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/create-a-basic-dashboard?u=76281980&t=280)** What [[Tableau]] does is it automatically creates a container, more of those in another video, that puts elements in there.
 >
 > **[4:48](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/create-a-basic-dashboard?u=76281980&t=288)** And one of the things it would do is add legends, because when this map was created, a legend came with the map, it puts it into there.
 >
@@ -1004,8 +996,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sizing your dashboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/sizing-your-dashboard?u=76281980)
+#### [Sizing your dashboard](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/sizing-your-dashboard?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1031,7 +1022,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/sizing-your-dashboard?u=76281980&t=64)** I've got no control over the end product.
 >
-> **[1:07](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/sizing-your-dashboard?u=76281980&t=67)** Now, if I don't know where people are going to view their dashboards and how they're going to view them, how can I be certain that dashboard is still going to work, it's still going to look good, it's still going to have that same level of acceptability and usefulness that I want it to have?
+> **[1:07](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/sizing-your-dashboard?u=76281980&t=67)** Now, if I don't know where people are going to view their [[Dashboards]] and how they're going to view them, how can I be certain that dashboard is still going to work, it's still going to look good, it's still going to have that same level of acceptability and usefulness that I want it to have?
 >
 > **[1:24](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/sizing-your-dashboard?u=76281980&t=84)** I can't do that using the automatic.
 >
@@ -1111,19 +1102,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** go to (1), select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Floating vs. tiles layouts
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/floating-vs-tiles-layout?u=76281980)
+#### [Floating vs. tiles layouts](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/floating-vs-tiles-layout?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/floating-vs-tiles-layout?u=76281980&t=0)** - [Instructor] Let's look at the example for tiled and floating layouts to see how they work.
 >
-> **[0:08](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/floating-vs-tiles-layout?u=76281980&t=8)** Now, the tiled layout is the default way that Tableau sets up a dashboard for you.
+> **[0:08](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/floating-vs-tiles-layout?u=76281980&t=8)** Now, the tiled layout is the default way that [[Tableau]] sets up a dashboard for you.
 >
 > **[0:13](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/floating-vs-tiles-layout?u=76281980&t=13)** It allows you to easily put things into a grid.
 >
@@ -1221,13 +1211,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (1), next (1)
+> **Frameworks & Libraries:** [[Tableau]] (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** snap (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to use layout containers
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/how-to-use-layout-containers?u=76281980)
+#### [How to use layout containers](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/how-to-use-layout-containers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1235,7 +1224,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/how-to-use-layout-containers?u=76281980&t=5)** Now, if you've created a dashboard already using the tiled method, you've actually already created a container, but you just didn't know it.
 >
-> **[0:11](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/how-to-use-layout-containers?u=76281980&t=11)** When we use the tiled layout, Tableau uses containers to put objects into.
+> **[0:11](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/how-to-use-layout-containers?u=76281980&t=11)** When we use the tiled layout, [[Tableau]] uses containers to put objects into.
 >
 > **[0:16](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/how-to-use-layout-containers?u=76281980&t=16)** So in this example dashboard here, there are actually two containers.
 >
@@ -1269,7 +1258,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/how-to-use-layout-containers?u=76281980&t=111)** It's hard to see anything, but notice I've got a blue border.
 >
-> **[1:55](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/how-to-use-layout-containers?u=76281980&t=115)** In dashboards, sheets and every other object have a gray border.
+> **[1:55](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/how-to-use-layout-containers?u=76281980&t=115)** In [[Dashboards]], sheets and every other object have a gray border.
 >
 > **[2:01](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/how-to-use-layout-containers?u=76281980&t=121)** Containers have a blue border.
 >
@@ -1373,18 +1362,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (7), data (3), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (7), [[Dashboards]] (1)
 > **UI Navigation:** go to (7), drag and drop (4), double-click (2), select the (1)
 > **Definitions:** means that (2), is a  (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [presenter] (1)
 
-#### Using padding objects to help with tiled dashboards
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/using-padding-objects-to-help-with-tiled-dashboards?u=76281980)
+#### [Using padding objects to help with tiled dashboards](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/using-padding-objects-to-help-with-tiled-dashboards?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/using-padding-objects-to-help-with-tiled-dashboards?u=76281980&t=0)** - [Instructor] When you create a dashboard using the tiled layout, Tableau tries to pack everything into the area that you've told it to use, and that can make some dashboards look a little bit cramped.
+> **[0:00](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/using-padding-objects-to-help-with-tiled-dashboards?u=76281980&t=0)** - [Instructor] When you create a dashboard using the tiled layout, [[Tableau]] tries to pack everything into the area that you've told it to use, and that can make some [[Dashboards]] look a little bit cramped.
 >
 > **[0:15](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/using-padding-objects-to-help-with-tiled-dashboards?u=76281980&t=15)** One of the things that we can use is padding, both internal and external padding to give a bit more space to each of the objects in your dashboard.
 >
@@ -1526,19 +1514,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (2), data (2), [[Dashboards]] (1), next (1)
+> **Frameworks & Libraries:** [[Tableau]] (2), [[Dashboards]] (1)
 > **CLI Commands:** make (8)
 > **UI Navigation:** go to (2), scroll down (1), click on (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding a download button
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/how-to-use-floating-items?u=76281980)
+#### [Adding a download button](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/how-to-use-floating-items?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/how-to-use-floating-items?u=76281980&t=0)** - [Instructor] Floating dashboards allow the freeform placing of elements anywhere inside your dashboard.
+> **[0:00](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/how-to-use-floating-items?u=76281980&t=0)** - [Instructor] Floating [[Dashboards]] allow the freeform placing of elements anywhere inside your dashboard.
 >
 > **[0:06](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/how-to-use-floating-items?u=76281980&t=6)** This gives you the opportunity to be very creative with your layouts, but does require a little bit more work in terms of sizing and positioning, particularly if you want things to line up or be the same size.
 >
@@ -1646,7 +1633,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Dashboards]] (1), data (1)
+> **Frameworks & Libraries:** [[Dashboards]] (1)
 > **UI Navigation:** go to (3), drag and drop (1), select the (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), is an  (1)
@@ -1654,14 +1641,13 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Create a basic dashboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/challenge-create-a-basic-dashboard?u=76281980)
+#### [Challenge: Create a basic dashboard](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/challenge-create-a-basic-dashboard?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/challenge-create-a-basic-dashboard?u=76281980&t=0)** (bright music)
 >
-> **[0:05](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/challenge-create-a-basic-dashboard?u=76281980&t=5)** - [Lecturer] Here's an exercise to practice creating a basic dashboard and set up a dashboard that we're going to use throughout the rest of this course.
+> **[0:05](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/challenge-create-a-basic-dashboard?u=76281980&t=5)** - [Lecturer] Here's an exercise to practice creating a basic dashboard and set up a dashboard that we're going to use throughout the [[Representational State Transfer (REST)|rest]] of this course.
 >
 > **[0:13](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/challenge-create-a-basic-dashboard?u=76281980&t=13)** So here are the steps you're going to do.
 >
@@ -1685,14 +1671,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), [[Representational State Transfer (REST)|Rest]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** open the (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [lecturer] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Create a basic dashboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/solution-create-a-basic-dashboard?u=76281980)
+#### [Solution: Create a basic dashboard](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/solution-create-a-basic-dashboard?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1704,7 +1689,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/solution-create-a-basic-dashboard?u=76281980&t=20)** So we have some expense data, we have some information about the hotels, their locations.
 >
-> **[0:25](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/solution-create-a-basic-dashboard?u=76281980&t=25)** We have some data on room and bed occupancy, some order details of products that have been ordered into the hotel, and some information about revenue.
+> **[0:25](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/solution-create-a-basic-dashboard?u=76281980&t=25)** We have some data on room and bed occupancy, some order details of [[Microsoft Products|products]] that have been ordered into the hotel, and some information about revenue.
 >
 > **[0:35](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/solution-create-a-basic-dashboard?u=76281980&t=35)** So first thing we need to create is a heat map showing the annual room occupancy for each hotel.
 >
@@ -1848,7 +1833,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (10), data (7), next (3), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **UI Navigation:** go to (5)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
@@ -1861,8 +1846,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Adding a horizontal container
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-a-horizontal-container?u=76281980)
+#### [Adding a horizontal container](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-a-horizontal-container?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1878,7 +1862,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-a-horizontal-container?u=76281980&t=30)** These aren't sheets we created.
 >
-> **[0:31](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-a-horizontal-container?u=76281980&t=31)** They're additional things that Tableau allows us to add to a dashboard.
+> **[0:31](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-a-horizontal-container?u=76281980&t=31)** They're additional things that [[Tableau]] allows us to add to a dashboard.
 >
 > **[0:35](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-a-horizontal-container?u=76281980&t=35)** Now, one of 'em is horizontal container.
 >
@@ -1960,7 +1944,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-a-horizontal-container?u=76281980&t=204)** And again, now it's sitting horizontally aligned within my dashboard.
 >
-> **[3:30](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-a-horizontal-container?u=76281980&t=210)** If I want to resize it, I can do and the chart will zoom to fit.
+> **[3:30](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-a-horizontal-container?u=76281980&t=210)** If I want to resize it, I can do and the chart will [[Zoom]] to fit.
 >
 > **[3:36](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-a-horizontal-container?u=76281980&t=216)** Now, if I ever want to get back to the container itself, I have two options.
 >
@@ -2015,8 +1999,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [narrator] (1)
 
-#### Adding a vertical container
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-a-vertical-container?u=76281980)
+#### [Adding a vertical container](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-a-vertical-container?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2070,7 +2053,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-a-vertical-container?u=76281980&t=122)** When I release it, my view is now fully expanded to take full use of that container.
 >
-> **[2:10](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-a-vertical-container?u=76281980&t=130)** If I then took my scatterplot and drag and dropped it underneath my timeline, we can see that Tableau's now scaled to show each of these charts in the best way it thinks it can.
+> **[2:10](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-a-vertical-container?u=76281980&t=130)** If I then took my scatterplot and drag and dropped it underneath my timeline, we can see that [[Tableau]]'s now scaled to show each of these charts in the best way it thinks it can.
 >
 > **[2:23](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-a-vertical-container?u=76281980&t=143)** It's expanded each one slightly to make maximize use of the space.
 >
@@ -2132,15 +2115,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (4), next (2), data (2)
+> **Frameworks & Libraries:** [[Tableau]] (4)
 > **UI Navigation:** click on (3), scroll down (1), select the (1), go to (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using color to help with container layouts
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/using-color-to-help-with-container-layouts?u=76281980)
+#### [Using color to help with container layouts](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/using-color-to-help-with-container-layouts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2250,7 +2232,7 @@ created: 2026-05-02
 >
 > **[5:14](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/using-color-to-help-with-container-layouts?u=76281980&t=314)** So, first thing, let's get rid of my Profit over here, and maybe I want to expand out my Heatmap to make better use of the entire view.
 >
-> **[5:25](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/using-color-to-help-with-container-layouts?u=76281980&t=325)** Now you'll see what Tableau has done.
+> **[5:25](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/using-color-to-help-with-container-layouts?u=76281980&t=325)** Now you'll see what [[Tableau]] has done.
 >
 > **[5:27](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/using-color-to-help-with-container-layouts?u=76281980&t=327)** Tableau understands that this Heatmap doesn't take up a lot of room.
 >
@@ -2288,14 +2270,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (4), next (1)
+> **Frameworks & Libraries:** [[Tableau]] (4)
 > **CLI Commands:** make (7)
 > **UI Navigation:** go to (3), select the (1), right-click (1), click on (1), double-click (1)
 > **Analogies:** kind of like (1)
 > **Speakers:** - [narrator] (1)
 
-#### Adding text
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-text?u=76281980)
+#### [Adding text](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-text?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2327,7 +2308,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-text?u=76281980&t=79)** And I can put anything I want in here.
 >
-> **[1:21](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-text?u=76281980&t=81)** It could be one word, it could be a paragraph, it could be several paragraphs.
+> **[1:21](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-text?u=76281980&t=81)** It could be one [[Microsoft Word|word]], it could be a paragraph, it could be several paragraphs.
 >
 > **[1:24](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-text?u=76281980&t=84)** So, "This map shows the amount of profit per state.
 >
@@ -2379,20 +2360,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Dashboard extensions
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/dashboard-extentions?u=76281980)
+#### [Dashboard extensions](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/dashboard-extentions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/dashboard-extentions?u=76281980&t=0)** - [Instructor] One of the ways you can enhance the functionality of your dashboard is to add extensions.
 >
-> **[0:08](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/dashboard-extentions?u=76281980&t=8)** Now, extensions are kind of the equivalent of third-party plugins, so some of them are made by Tableau, some are made by Tableau partners.
+> **[0:08](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/dashboard-extentions?u=76281980&t=8)** Now, extensions are kind of the equivalent of third-party plugins, so some of them are made by [[Tableau]], some are made by Tableau partners.
 >
 > **[0:15](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/dashboard-extentions?u=76281980&t=15)** And the idea is that it extends the functionality of what Tableau can do.
 >
@@ -2404,7 +2384,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/dashboard-extentions?u=76281980&t=29)** There are ones that would do Sankey charts and other different types of charts, but those ones are mostly focused on the creation of a visualization.
 >
-> **[0:37](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/dashboard-extentions?u=76281980&t=37)** Dashboard extensions enhance dashboards and they give extra functionality to dashboards specifically rather than the visualizations themselves.
+> **[0:37](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/dashboard-extentions?u=76281980&t=37)** Dashboard extensions enhance [[Dashboards]] and they give extra functionality to dashboards specifically rather than the visualizations themselves.
 >
 > **[0:48](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/dashboard-extentions?u=76281980&t=48)** So to add an extension, we do that from the Object pane in our dashboard editor.
 >
@@ -2430,7 +2410,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/dashboard-extentions?u=76281980&t=105)** So in order to get an extension working, first we have to select which one you want.
 >
-> **[1:49](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/dashboard-extentions?u=76281980&t=109)** So for example, if I pick this one at the top, which is called Export All by The Information Lab, and this will allow me to export data from my charts into Excel.
+> **[1:49](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/dashboard-extentions?u=76281980&t=109)** So for example, if I pick this one at the top, which is called Export All by The Information Lab, and this will allow me to export data from my charts into [[Microsoft Excel|Excel]].
 >
 > **[1:59](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/dashboard-extentions?u=76281980&t=119)** So I'll select this.
 >
@@ -2500,7 +2480,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (7), data (4), [[Microsoft Excel|Excel]] (4), [[Dashboards]] (2), application (2)
+> **Frameworks & Libraries:** [[Tableau]] (7), [[Microsoft Excel|Excel]] (4), [[Dashboards]] (2)
 > **CLI Commands:** make (4)
 > **Definitions:** means that (1), is called (1), is a  (1)
 > **UI Navigation:** drag and drop (1), click on (1)
@@ -2508,14 +2488,13 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding images
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-images?u=76281980)
+#### [Adding images](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-images?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-images?u=76281980&t=0)** - [Instructor] Let's talk about how we add images into a dashboard.
 >
-> **[0:04](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-images?u=76281980&t=4)** Now, dashboards are obviously a visual thing, and the majority of the time, you're going to have either your visualizations that you've built from your data, and text on your dashboard.
+> **[0:04](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-images?u=76281980&t=4)** Now, [[Dashboards]] are obviously a visual thing, and the majority of the time, you're going to have either your visualizations that you've built from your data, and text on your dashboard.
 >
 > **[0:17](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-images?u=76281980&t=17)** But there might be times where you want to bring in some graphics as well.
 >
@@ -2527,7 +2506,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-images?u=76281980&t=45)** So first of all, let's talk about how we can use the tiled layout to bring in kind of a corporate header to our dashboard.
 >
-> **[0:53](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-images?u=76281980&t=53)** So this dashboard here is looking at the land and hotel data, and I've got two heat maps, one showing you an occupancy, and the other showing some products, quantities.
+> **[0:53](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-images?u=76281980&t=53)** So this dashboard here is looking at the land and hotel data, and I've got two heat maps, one showing you an occupancy, and the other showing some [[Microsoft Products|products]], quantities.
 >
 > **[1:04](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-images?u=76281980&t=64)** Now the dashboard title is not particularly inspiring.
 >
@@ -2571,7 +2550,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-images?u=76281980&t=151)** So I've replaced that kind of dull heading of just the text with the corporate branding.
 >
-> **[2:37](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-images?u=76281980&t=157)** So now it actually fits the rest of our dashboards.
+> **[2:37](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-images?u=76281980&t=157)** So now it actually fits the [[Representational State Transfer (REST)|rest]] of our dashboards.
 >
 > **[2:41](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-images?u=76281980&t=161)** Okay, so we might have some kind of style template that we have to work towards.
 >
@@ -2667,7 +2646,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Dashboards]] (3), data (2), hit (2), [[Microsoft Products|Products]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (3), [[Microsoft Products|Products]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** go to (2), click on (2)
 > **CLI Commands:** make (2)
 > **Analogies:** kind of like (1), for example (1)
@@ -2675,8 +2654,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding blanks to help with layouts
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-blanks-to-help-with-layouts?u=76281980)
+#### [Adding blanks to help with layouts](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-blanks-to-help-with-layouts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2804,7 +2782,7 @@ created: 2026-05-02
 >
 > **[4:52](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-blanks-to-help-with-layouts?u=76281980&t=292)** Now, remember, although every pixel does count and we should make the most of all the space we have in our dashboard to make sure that we are using it to inform our viewer, a little bit of blank space can do wonders in making it look that bit nicer.
 >
-> **[5:08](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-blanks-to-help-with-layouts?u=76281980&t=308)** And after all, why don't we want to make nice dashboards?
+> **[5:08](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-blanks-to-help-with-layouts?u=76281980&t=308)** And after all, why don't we want to make nice [[Dashboards]]?
 
 > [!info]- Semantic Content
 >
@@ -2813,12 +2791,11 @@ created: 2026-05-02
 > **CLI Commands:** make (6)
 > **Speakers:** - [instructor] (1)
 
-#### Adding a webpage to a dashboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-a-webpage-to-a-dashboard?u=76281980)
+#### [Adding a webpage to a dashboard](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-a-webpage-to-a-dashboard?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-a-webpage-to-a-dashboard?u=76281980&t=0)** - [Instructor] All dashboards are showing data from some kind of data source that's been visualized.
+> **[0:00](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-a-webpage-to-a-dashboard?u=76281980&t=0)** - [Instructor] All [[Dashboards]] are showing data from some kind of data source that's been visualized.
 >
 > **[0:07](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-a-webpage-to-a-dashboard?u=76281980&t=7)** But you can also show other things in a dashboard.
 >
@@ -2840,7 +2817,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-a-webpage-to-a-dashboard?u=76281980&t=51)** So let's pop it to the right hand side of my profit timeline, rank field, and it asks me for a URL.
 >
-> **[0:59](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-a-webpage-to-a-dashboard?u=76281980&t=59)** So what I'm going to do is I'm going to pop in Landon Hotel, click okay, and tab will go and fetch that webpage and display it in that portion.
+> **[0:59](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-a-webpage-to-a-dashboard?u=76281980&t=59)** So what I'm going to do is I'm going to pop in Landon Hotel, click okay, and tab will go and [[Fetch]] that webpage and display it in that portion.
 >
 > **[1:09](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-a-webpage-to-a-dashboard?u=76281980&t=69)** So I can then resize this if I want to, to have a bit more space for it.
 >
@@ -2898,7 +2875,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Dashboards]] (2), [[Fetch]] (1), application (1), web (1)
+> **Frameworks & Libraries:** [[Dashboards]] (2), [[Fetch]] (1)
 > **Env Vars:** url (4)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -2906,8 +2883,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding navigation between sheets
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-navigation-between-sheets?u=76281980)
+#### [Adding navigation between sheets](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-navigation-between-sheets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2919,7 +2895,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-navigation-between-sheets?u=76281980&t=17)** You can tab in between individual dashboard, but there's another method you can do to actually control the navigation from one to another.
 >
-> **[0:26](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-navigation-between-sheets?u=76281980&t=26)** So rather than making somebody have to click on a tab, they can click on a button to move between different dashboards.
+> **[0:26](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-navigation-between-sheets?u=76281980&t=26)** So rather than making somebody have to click on a tab, they can click on a button to move between different [[Dashboards]].
 >
 > **[0:31](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-navigation-between-sheets?u=76281980&t=31)** So let's have a look and see how that would work.
 >
@@ -3011,13 +2987,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Dashboards]] (6), hit (2), next (2), data (1)
+> **Frameworks & Libraries:** [[Dashboards]] (6)
 > **UI Navigation:** go to (9), click on (5), select the (2), toggle (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding a download button
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-a-download-button?u=76281980)
+#### [Adding a download button](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-a-download-button?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3047,7 +3022,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-a-download-button?u=76281980&t=87)** So we can set it to be the cross tab.
 >
-> **[1:29](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-a-download-button?u=76281980&t=89)** We can set it to be the image, the PDF or the PowerPoint.
+> **[1:29](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-a-download-button?u=76281980&t=89)** We can set it to be the image, the PDF or the [[Microsoft PowerPoint|PowerPoint]].
 >
 > **[1:32](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-a-download-button?u=76281980&t=92)** So I'm going to choose the PDF for this one, and I'm just going to hit apply and that will then set it in place.
 >
@@ -3109,15 +3084,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft PowerPoint|Powerpoint]] (2), hit (2)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (2)
 > **Env Vars:** pdf (12)
 > **UI Navigation:** click on (4)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add filters
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/add-filters?u=76281980)
+#### [Add filters](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/add-filters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3197,7 +3171,7 @@ created: 2026-05-02
 >
 > **[4:25](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/add-filters?u=76281980&t=265)** If they then save this as a custom view, just for them personally on the server, now when they load up this particular version of their dashboard, that filter will be visible to them, but not to everybody else.
 >
-> **[4:39](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/add-filters?u=76281980&t=279)** Now, in order to get this to work, you have to add the dashboards and add all of the filters that you want your viewer to be able to select from to the dashboard.
+> **[4:39](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/add-filters?u=76281980&t=279)** Now, in order to get this to work, you have to add the [[Dashboards]] and add all of the filters that you want your viewer to be able to select from to the dashboard.
 >
 > **[4:49](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/add-filters?u=76281980&t=289)** So for example, if I go to my profit heat map and say, we're going to also include a category for ship mode, for example.
 >
@@ -3225,7 +3199,7 @@ created: 2026-05-02
 >
 > **[5:40](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/add-filters?u=76281980&t=340)** So it's now added in.
 >
-> **[5:42](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/add-filters?u=76281980&t=342)** I can change it to be a single value dropdown so it fits with the rest of the view, and it will now appear in the Add Filters dropdown.
+> **[5:42](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/add-filters?u=76281980&t=342)** I can change it to be a single value dropdown so it fits with the [[Representational State Transfer (REST)|rest]] of the view, and it will now appear in the Add Filters dropdown.
 >
 > **[5:51](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/add-filters?u=76281980&t=351)** So what I can then do is I could then add them all.
 >
@@ -3251,7 +3225,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), hit (2), product (1), [[Dashboards]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** go to (7), dropdown (3), select the (2), click on (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (2), imagine (1)
@@ -3260,8 +3234,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Adding dashboard objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/challenge-adding-dashboard-objects?u=76281980)
+#### [Challenge: Adding dashboard objects](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/challenge-adding-dashboard-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3275,20 +3248,19 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/challenge-adding-dashboard-objects?u=76281980&t=30)** We then want to have two download buttons so we can explore either a PDF or an image of the entire dashboard.
 >
-> **[0:37](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/challenge-adding-dashboard-objects?u=76281980&t=37)** We're going to duplicate that dashboard to create two separate dashboards, and then we're going to remove some of the content from either of those two dashboards, so we have the timeline scatterplot on one and heat maps on the other.
+> **[0:37](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/challenge-adding-dashboard-objects?u=76281980&t=37)** We're going to duplicate that dashboard to create two separate [[Dashboards]], and then we're going to remove some of the content from either of those two dashboards, so we have the timeline scatterplot on one and heat maps on the other.
 >
 > **[0:49](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/challenge-adding-dashboard-objects?u=76281980&t=49)** And then finally, we're going to create navigation buttons so we can move between the two dashboards.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Dashboards]] (3), next (1)
+> **Frameworks & Libraries:** [[Dashboards]] (3)
 > **Env Vars:** pdf (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Adding dashboard objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/solution-adding-dashboard-objects?u=76281980)
+#### [Solution: Adding dashboard objects](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/solution-adding-dashboard-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3420,7 +3392,7 @@ created: 2026-05-02
 >
 > **[4:37](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/solution-adding-dashboard-objects?u=76281980&t=277)** So maybe in this case, we'll get rid of the legend so we can reclaim some of that space.
 >
-> **[4:43](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/solution-adding-dashboard-objects?u=76281980&t=283)** Okay, looks good. So I've got my two dashboards.
+> **[4:43](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/solution-adding-dashboard-objects?u=76281980&t=283)** Okay, looks good. So I've got my two [[Dashboards]].
 >
 > **[4:48](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/solution-adding-dashboard-objects?u=76281980&t=288)** Now I need to add the navigation button.
 >
@@ -3464,7 +3436,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), next (2), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (1)
 > **UI Navigation:** go to (7), click on (2), drag and drop (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** pdf (4)
@@ -3477,8 +3449,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Giving a dashboard a good title
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/giving-a-dashboard-a-good-title?u=76281980)
+#### [Giving a dashboard a good title](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/giving-a-dashboard-a-good-title?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3494,7 +3465,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/giving-a-dashboard-a-good-title?u=76281980&t=29)** But the first thing they're actually going to interact with and read is going to be the title, because the title's going to show you what it is you're going to be seeing.
 >
-> **[0:37](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/giving-a-dashboard-a-good-title?u=76281980&t=37)** And the title sets the scene for the rest of the dashboard.
+> **[0:37](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/giving-a-dashboard-a-good-title?u=76281980&t=37)** And the title sets the scene for the [[Representational State Transfer (REST)|rest]] of the dashboard.
 >
 > **[0:42](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/giving-a-dashboard-a-good-title?u=76281980&t=42)** Now, the title itself does a number of different things.
 >
@@ -3604,7 +3575,7 @@ created: 2026-05-02
 >
 > **[5:31](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/giving-a-dashboard-a-good-title?u=76281980&t=331)** So what would be a better title for this dashboard?
 >
-> **[5:34](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/giving-a-dashboard-a-good-title?u=76281980&t=334)** Well, we're looking at profits and losses across all of our regions products across our entire dataset.
+> **[5:34](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/giving-a-dashboard-a-good-title?u=76281980&t=334)** Well, we're looking at profits and losses across all of our regions [[Microsoft Products|products]] across our entire dataset.
 >
 > **[5:43](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/giving-a-dashboard-a-good-title?u=76281980&t=343)** So the dashboard is an exploratory dashboard and it's going to be answering the question or how do our profits and losses vary across our customers?
 >
@@ -3678,14 +3649,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Microsoft Products|Products]] (2), hit (2), [[Representational State Transfer (REST)|Rest]] (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (7)
 > **Definitions:** is a  (4), is an  (1)
 > **UI Navigation:** go to (2), click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dashboard colors
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/dashboard-colors?u=76281980)
+#### [Dashboard colors](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/dashboard-colors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3855,7 +3825,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), hit (4), business (1)
 > **CLI Commands:** make (5), find (2)
 > **UI Navigation:** click on (3), go to (3)
 > **Cross-References:** go back to (3)
@@ -3863,8 +3832,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Remove chart junk
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/remove-chart-junk?u=76281980)
+#### [Remove chart junk](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/remove-chart-junk?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3872,7 +3840,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/remove-chart-junk?u=76281980&t=7)** So chart junk can be kind of loosely defined as anything that doesn't need to be there.
 >
-> **[0:15](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/remove-chart-junk?u=76281980&t=15)** Now sometimes we talk about the data-ink ratio, and this comes from a time when dashboards and visualizations used to be printed, and we actually talked about the amount of ink that was being used.
+> **[0:15](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/remove-chart-junk?u=76281980&t=15)** Now sometimes we talk about the data-ink ratio, and this comes from a time when [[Dashboards]] and visualizations used to be printed, and we actually talked about the amount of ink that was being used.
 >
 > **[0:30](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/remove-chart-junk?u=76281980&t=30)** Now, the data-ink ratio roughly talks about the amount of ink used for the data as a proportion of all the ink used in the entire visualization.
 >
@@ -3958,7 +3926,7 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/remove-chart-junk?u=76281980&t=255)** On the right hand side, we've got all of the filters, the legends that have suddenly appeared.
 >
-> **[4:23](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/remove-chart-junk?u=76281980&t=263)** Now, I haven't added those manually, I didn't tell Tableau to do that.
+> **[4:23](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/remove-chart-junk?u=76281980&t=263)** Now, I haven't added those manually, I didn't tell [[Tableau]] to do that.
 >
 > **[4:27](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/remove-chart-junk?u=76281980&t=267)** What's happened is because these were active in each one of the sheets, Tableau's brought it over.
 >
@@ -4062,15 +4030,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Tableau]] (3), [[Dashboards]] (1), next (1)
+> **Frameworks & Libraries:** [[Tableau]] (3), [[Dashboards]] (1)
 > **CLI Commands:** make (5), find (1)
 > **Definitions:** refers to (2)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1), - 20 (1)
 > **UI Navigation:** right-click (1)
 
-#### Visually group elements with borders
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/visually-group-elements-with-borders?u=76281980)
+#### [Visually group elements with borders](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/visually-group-elements-with-borders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4096,7 +4063,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/visually-group-elements-with-borders?u=76281980&t=69)** So if I select one of my charts and go to Layout, I have a border option about halfway down.
 >
-> **[1:16](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/visually-group-elements-with-borders?u=76281980&t=76)** Now this works like all the other line options that we have within Tableau.
+> **[1:16](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/visually-group-elements-with-borders?u=76281980&t=76)** Now this works like all the other line options that we have within [[Tableau]].
 >
 > **[1:19](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/visually-group-elements-with-borders?u=76281980&t=79)** We can set the style of the line whether we want a solid line or a dotted line.
 >
@@ -4174,17 +4141,16 @@ created: 2026-05-02
 >
 > **[6:20](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/visually-group-elements-with-borders?u=76281980&t=380)** Okay, the after looks okay.
 >
-> **[6:23](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/visually-group-elements-with-borders?u=76281980&t=383)** So use borders to either highlight an individual sheet because you want it to stand out and be prominent within the rest of your dashboards, or use borders to group objects together to say this chart and this chart are related and should be treated as either one single chart or there's some context between the two.
+> **[6:23](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/visually-group-elements-with-borders?u=76281980&t=383)** So use borders to either highlight an individual sheet because you want it to stand out and be prominent within the [[Representational State Transfer (REST)|rest]] of your [[Dashboards]], or use borders to group objects together to say this chart and this chart are related and should be treated as either one single chart or there's some context between the two.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Tableau]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Dashboards]] (1)
 > **UI Navigation:** go to (5), click on (2), drag and drop (1)
 > **CLI Commands:** make (6)
 > **Speakers:** - [instructor] (1)
 
-#### Apply filters across sheets
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/apply-filters-across-sheets?u=76281980)
+#### [Apply filters across sheets](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/apply-filters-across-sheets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4298,7 +4264,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), hit (2)
 > **UI Navigation:** go to (5), select the (2), click on (1)
 > **Definitions:** means that (3), refers to (1)
 > **CLI Commands:** make (2)
@@ -4306,8 +4271,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Highlight data with annotations
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/highlight-data-with-annotations?u=76281980)
+#### [Highlight data with annotations](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/highlight-data-with-annotations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4341,7 +4305,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/highlight-data-with-annotations?u=76281980&t=103)** I have my most profitable on the right hand side, but I have this interest in use case up here with Sean Miller, who is clearly our best customer in terms of sales.
 >
-> **[1:52](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/highlight-data-with-annotations?u=76281980&t=112)** But overall, we make a loss and we've sold 27 products.
+> **[1:52](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/highlight-data-with-annotations?u=76281980&t=112)** But overall, we make a loss and we've sold 27 [[Microsoft Products|products]].
 >
 > **[1:57](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/highlight-data-with-annotations?u=76281980&t=117)** That's going to cause concern because we're sending a lot of products, we make a lot in sales, but we're making overall losses.
 >
@@ -4359,7 +4323,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/highlight-data-with-annotations?u=76281980&t=147)** It's understood he lead.
 >
-> **[2:29](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/highlight-data-with-annotations?u=76281980&t=149)** We get lead generation in other ways.
+> **[2:29](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/highlight-data-with-annotations?u=76281980&t=149)** We get [[Lead Generation]] in other ways.
 >
 > **[2:32](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/highlight-data-with-annotations?u=76281980&t=152)** That's absolutely fine.
 >
@@ -4441,7 +4405,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Microsoft Products|Products]] (2), business (1), [[Lead Generation]] (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Lead Generation]] (1)
 > **CLI Commands:** make (4)
 > **Analogies:** imagine (1), for example (1)
 > **Env Vars:** month (1)
@@ -4449,8 +4413,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Collapsible containers to show or hide elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/collapasable-containers-to-show-hide-elements?u=76281980)
+#### [Collapsible containers to show or hide elements](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/collapasable-containers-to-show-hide-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4580,7 +4543,7 @@ created: 2026-05-02
 >
 > **[5:44](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/collapasable-containers-to-show-hide-elements?u=76281980&t=344)** And you can see that when I change to not show that container, my highest scatter plot button is now over the top of the title for that particular chart.
 >
-> **[5:56](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/collapasable-containers-to-show-hide-elements?u=76281980&t=356)** So whenever using collapsible containers, just be aware that this is going to enlarge or shrink the rest of the elements on the dashboard, which it's doing by design.
+> **[5:56](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/collapasable-containers-to-show-hide-elements?u=76281980&t=356)** So whenever using collapsible containers, just be aware that this is going to enlarge or shrink the [[Representational State Transfer (REST)|rest]] of the elements on the dashboard, which it's doing by design.
 >
 > **[6:06](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/collapasable-containers-to-show-hide-elements?u=76281980&t=366)** But you have to be aware of that with your placement of those legends and the titles and the controllers that they go with.
 >
@@ -4590,15 +4553,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (4), select the (3), go to (1)
 > **Definitions:** is a  (2), means that (2), is an  (1)
 > **Warnings:** be aware (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Dashboard design
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/challenge-dashboard-design-1?u=76281980)
+#### [Challenge: Dashboard design](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/challenge-dashboard-design-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4628,14 +4590,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Dashboard design
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/solution-dashboard-design-1?u=76281980)
+#### [Solution: Dashboard design](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/solution-dashboard-design-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4719,7 +4679,7 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/solution-dashboard-design-1?u=76281980&t=226)** So let's see if I do hotel name onto the label and then see what that looks like.
 >
-> **[3:55](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/solution-dashboard-design-1?u=76281980&t=235)** Well, because we have overlaps, Tableau's only going to show me labels where it can label without doing the overlap as well.
+> **[3:55](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/solution-dashboard-design-1?u=76281980&t=235)** Well, because we have overlaps, [[Tableau]]'s only going to show me labels where it can label without doing the overlap as well.
 >
 > **[4:03](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/solution-dashboard-design-1?u=76281980&t=243)** So yeah, I don't think adding labels is really going to do it.
 >
@@ -4727,7 +4687,7 @@ created: 2026-05-02
 >
 > **[4:11](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/solution-dashboard-design-1?u=76281980&t=251)** Now it might be that I could abbreviate some of those to put a little icon inside.
 >
-> **[4:18](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/solution-dashboard-design-1?u=76281980&t=258)** But ultimately if I want to know about a particular city, I could always click on the legend, which will then highlight those ones within the rest of the data.
+> **[4:18](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/solution-dashboard-design-1?u=76281980&t=258)** But ultimately if I want to know about a particular city, I could always click on the legend, which will then highlight those ones within the [[Representational State Transfer (REST)|rest]] of the data.
 >
 > **[4:28](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/solution-dashboard-design-1?u=76281980&t=268)** So maybe I'll stick with that.
 >
@@ -4873,7 +4833,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), product (3), hit (1), [[Tableau]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** select the (5), go to (5), click on (3), dropdown (1)
 > **CLI Commands:** make (13)
 > **Definitions:** is a  (2)
@@ -4886,12 +4846,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Adding interaction with actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-interation-with-actions?u=76281980)
+#### [Adding interaction with actions](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-interation-with-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-interation-with-actions?u=76281980&t=0)** - [Instructor] To truly make dashboards really sing, we need to add interactivity, and we do that using dashboard actions.
+> **[0:00](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-interation-with-actions?u=76281980&t=0)** - [Instructor] To truly make [[Dashboards]] really sing, we need to add interactivity, and we do that using dashboard actions.
 >
 > **[0:10](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-interation-with-actions?u=76281980&t=10)** Now, dashboard actions are pivotal because we want our viewers of our dashboard, the people that are actually using the thing that we've created, to really engage with the dashboard.
 >
@@ -4923,7 +4882,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-interation-with-actions?u=76281980&t=113)** But instead of removing the data, what it will do is highlight the corresponding marks in other sheets.
 >
-> **[2:02](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-interation-with-actions?u=76281980&t=122)** Now, in order for that to work, you have to have the same dimension in the detail of each sheet because Tableau's going to use that particular dimension to do the highlighting, and it can't do it if that's not part of the sheet that you're using.
+> **[2:02](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-interation-with-actions?u=76281980&t=122)** Now, in order for that to work, you have to have the same dimension in the detail of each sheet because [[Tableau]]'s going to use that particular dimension to do the highlighting, and it can't do it if that's not part of the sheet that you're using.
 >
 > **[2:18](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-interation-with-actions?u=76281980&t=138)** With the filters, it's filtering the data before it gets visualized, whereas the highlight action is going to highlight the data after it's been visualized, so it needs to be part of that sheet.
 >
@@ -4987,15 +4946,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), [[Dashboards]] (4), [[Tableau]] (2), web (2), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (4), [[Tableau]] (2)
 > **Env Vars:** url (8)
 > **UI Navigation:** click on (6), go to (1), select the (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** similar to (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Filter actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/filter-actions?u=76281980)
+#### [Filter actions](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/filter-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5047,7 +5005,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/filter-actions?u=76281980&t=165)** I'm using a mark as a filter.
 >
-> **[2:48](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/filter-actions?u=76281980&t=168)** Now filtering happens before the chart is drawn, so what happens is, is as soon as I select a mark, Tableau removes all the other data, except the one I've selected, from the data source, and then it produces the visualization so that's why it works across all of the sheets.
+> **[2:48](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/filter-actions?u=76281980&t=168)** Now filtering happens before the chart is drawn, so what happens is, is as soon as I select a mark, [[Tableau]] removes all the other data, except the one I've selected, from the data source, and then it produces the visualization so that's why it works across all of the sheets.
 >
 > **[3:07](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/filter-actions?u=76281980&t=187)** If I want to see where we sell chairs, I can click on chairs and have that as the only option, then I can see all of the chair sales and the map will only show me the chairs.
 >
@@ -5141,7 +5099,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Tableau]] (1), hit (1)
+> **Frameworks & Libraries:** [[Tableau]] (1)
 > **UI Navigation:** click on (4), go to (3), select the (2), dropdown (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
@@ -5149,8 +5107,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Highlight actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/highlight-actions?u=76281980)
+#### [Highlight actions](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/highlight-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5192,7 +5149,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/highlight-actions?u=76281980&t=117)** I'm going to leave all fields checked for the moment and let's just see what happens.
 >
-> **[2:02](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/highlight-actions?u=76281980&t=122)** So if I select the office supplies header, we can see that nothing has happened.
+> **[2:02](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/highlight-actions?u=76281980&t=122)** So if I select the [[Microsoft Office|office]] supplies header, we can see that nothing has happened.
 >
 > **[2:11](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/highlight-actions?u=76281980&t=131)** Okay, that's interesting, why has that done that?
 >
@@ -5212,7 +5169,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/highlight-actions?u=76281980&t=171)** The problem is, is that the dimension that I'm trying to highlight isn't part of this view.
 >
-> **[2:57](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/highlight-actions?u=76281980&t=177)** So when we select it, because we haven't incorporated it into the view, Tableau can't use it as a highlighter.
+> **[2:57](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/highlight-actions?u=76281980&t=177)** So when we select it, because we haven't incorporated it into the view, [[Tableau]] can't use it as a highlighter.
 >
 > **[3:04](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/highlight-actions?u=76281980&t=184)** Unlike filter actions that filter the data, highlight actions highlight something within the visualization.
 >
@@ -5276,15 +5233,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Microsoft Office|Office]] (2), [[Tableau]] (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Tableau]] (1)
 > **UI Navigation:** go to (4), select the (3)
 > **Cross-References:** go back to (3)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### URL actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/url-actions?u=76281980)
+#### [URL actions](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/url-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5320,7 +5276,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/url-actions?u=76281980&t=105)** So when I do my action, this is where my webpage is going to open up.
 >
-> **[1:50](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/url-actions?u=76281980&t=110)** So the next thing to do is to tell Tableau what action and how to do it.
+> **[1:50](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/url-actions?u=76281980&t=110)** So the next thing to do is to tell [[Tableau]] what action and how to do it.
 >
 > **[1:58](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/url-actions?u=76281980&t=118)** So we go up to our top menu, we go to Dashboard, go to Actions, Add Action, and this time a URL action.
 >
@@ -5386,15 +5342,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), web (1), product (1), next (1), [[Tableau]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (1)
 > **Env Vars:** url (13)
 > **UI Navigation:** go to (7), open the (2), select the (2), click on (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### The Go to Sheet action
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/goto-sheet?u=76281980)
+#### [The Go to Sheet action](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/goto-sheet?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5408,7 +5363,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/goto-sheet?u=76281980&t=22)** One that we want to start from and one we want to move to.
 >
-> **[0:25](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/goto-sheet?u=76281980&t=25)** So in my example here, I have two dashboards.
+> **[0:25](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/goto-sheet?u=76281980&t=25)** So in my example here, I have two [[Dashboards]].
 >
 > **[0:28](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/goto-sheet?u=76281980&t=28)** I have a map and a timeline, and then I have my heatmap and my scatterplot.
 >
@@ -5496,15 +5451,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Dashboards]] (3), data (3), prompt (1)
+> **Frameworks & Libraries:** [[Dashboards]] (3)
 > **UI Navigation:** go to (14), select the (2), click on (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Proportional brushing using set actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/proportional-brushing-using-set-actions?u=76281980)
+#### [Proportional brushing using set actions](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/proportional-brushing-using-set-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5554,7 +5508,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/proportional-brushing-using-set-actions?u=76281980&t=161)** I could put my ins at the first part of my bars so I can then see which ones are which.
 >
-> **[2:50](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/proportional-brushing-using-set-actions?u=76281980&t=170)** Now, the only problem is with this is that because I have very different ranges of sales for my different products, it's very difficult to see what's happening with the smaller ones, like the fastest envelopes and labels.
+> **[2:50](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/proportional-brushing-using-set-actions?u=76281980&t=170)** Now, the only problem is with this is that because I have very different ranges of sales for my different [[Microsoft Products|products]], it's very difficult to see what's happening with the smaller ones, like the fastest envelopes and labels.
 >
 > **[3:01](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/proportional-brushing-using-set-actions?u=76281980&t=181)** So to make this slightly easier to see, I'm going to convert this into a 100% stacked bar chart, and then I can see what percentage is due to that particular region.
 >
@@ -5630,7 +5584,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **UI Navigation:** go to (6), right-click (1)
 > **Cross-References:** go back to (2)
 > **Definitions:** means that (1), is a  (1)
@@ -5638,8 +5592,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Asymmetric drill down using set actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/asymetric-drill-down-using-set-actions?u=76281980)
+#### [Asymmetric drill down using set actions](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/asymetric-drill-down-using-set-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5705,7 +5658,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/asymetric-drill-down-using-set-actions?u=76281980&t=173)** So, I've got my region with my empty states, 'cause I'm looking at all of my states.
 >
-> **[2:58](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/asymetric-drill-down-using-set-actions?u=76281980&t=178)** Now, I could if I wanted to actually put the word "all" in there.
+> **[2:58](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/asymetric-drill-down-using-set-actions?u=76281980&t=178)** Now, I could if I wanted to actually put the [[Microsoft Word|word]] "all" in there.
 >
 > **[3:00](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/asymetric-drill-down-using-set-actions?u=76281980&t=180)** So, maybe let's go and do that to make it a little bit different.
 >
@@ -5765,15 +5718,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft Word|Word]] (1), next (1), power (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **UI Navigation:** click on (4), go to (4), right-click (1)
 > **Cross-References:** go back to (3)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Highlighting with parameter actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/hightlighting-with-parameter-actions?u=76281980)
+#### [Highlighting with parameter actions](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/hightlighting-with-parameter-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5813,7 +5765,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/hightlighting-with-parameter-actions?u=76281980&t=129)** and that's either going to be true or it's going to be false, so if I place that onto my color, everything at the moment is true 'cause everything's greater than zero, so everything is one single color.
 >
-> **[2:23](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/hightlighting-with-parameter-actions?u=76281980&t=143)** So go back to my dashboards.
+> **[2:23](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/hightlighting-with-parameter-actions?u=76281980&t=143)** So go back to my [[Dashboards]].
 >
 > **[2:26](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/hightlighting-with-parameter-actions?u=76281980&t=146)** So now everything has changed.
 >
@@ -5877,14 +5829,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Dashboards]] (2)
+> **Frameworks & Libraries:** [[Dashboards]] (2)
 > **UI Navigation:** dropdown (1), go to (1), select the (1), click on (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Dashboard actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/challenge-dashboard-actions?u=76281980)
+#### [Challenge: Dashboard actions](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/challenge-dashboard-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5898,16 +5849,15 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/challenge-dashboard-actions?u=76281980&t=27)** That's going to show the profit for the given date for the scatter plot.
 >
-> **[0:31](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/challenge-dashboard-actions?u=76281980&t=31)** Then finally, we're going to create a set action, so we can do a drill down on the product order category to show the individual products.
+> **[0:31](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/challenge-dashboard-actions?u=76281980&t=31)** Then finally, we're going to create a set action, so we can do a drill down on the product order category to show the individual [[Microsoft Products|products]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), product (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (light music) (1)
 
-#### Solution: Dashboard actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/solution-dashboard-actions?u=76281980)
+#### [Solution: Dashboard actions](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/solution-dashboard-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6055,7 +6005,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (11), next (2), data (1)
 > **UI Navigation:** go to (4), select the (2), click on (2)
 > **Cross-References:** go back to (4)
 > **CLI Commands:** make (1)
@@ -6069,8 +6018,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### DataViz vs. data stories
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/dataviz-vs-datastories?u=76281980)
+#### [DataViz vs. data stories](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/dataviz-vs-datastories?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6146,7 +6094,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/dataviz-vs-datastories?u=76281980&t=217)** If you've already found it, we want to guide them to it.
 >
-> **[3:41](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/dataviz-vs-datastories?u=76281980&t=221)** So, instead, we might do something like this using Tableau's Story Points to guide our viewer through our charts.
+> **[3:41](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/dataviz-vs-datastories?u=76281980&t=221)** So, instead, we might do something like this using [[Tableau]]'s Story Points to guide our viewer through our charts.
 >
 > **[3:49](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/dataviz-vs-datastories?u=76281980&t=229)** So, this dashboard is making the case why we need to stop selling Tables, and it includes three story points at the top, and it's going to take us through step by step.
 >
@@ -6186,7 +6134,7 @@ created: 2026-05-02
 >
 > **[5:49](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/dataviz-vs-datastories?u=76281980&t=349)** A data story can be big, or it can also be small.
 >
-> **[5:52](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/dataviz-vs-datastories?u=76281980&t=352)** It might just be a single sheet, it might be several dashboards strung together to make a long narrative.
+> **[5:52](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/dataviz-vs-datastories?u=76281980&t=352)** It might just be a single sheet, it might be several [[Dashboards]] strung together to make a long narrative.
 >
 > **[5:58](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/dataviz-vs-datastories?u=76281980&t=358)** Ultimately, remember what we're trying to do.
 >
@@ -6196,13 +6144,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (32), business (1), [[Tableau]] (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (1), [[Dashboards]] (1)
 > **CLI Commands:** make (5), find (3)
 > **Definitions:** is a  (3)
 > **Speakers:** - [instructor] (1)
 
-#### Narrative structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/narrative-structure?u=76281980)
+#### [Narrative structure](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/narrative-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6216,7 +6163,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/narrative-structure?u=76281980&t=25)** And our data story is going to have those same elements to them.
 >
-> **[0:32](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/narrative-structure?u=76281980&t=32)** There's a very common structure called Freytag's pyramid that is used for an awful lot of general storytelling, and we can apply some of that to our data visualization.
+> **[0:32](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/narrative-structure?u=76281980&t=32)** There's a very common structure called Freytag's pyramid that is used for an awful lot of general [[Storytelling]], and we can apply some of that to our data visualization.
 >
 > **[0:42](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/narrative-structure?u=76281980&t=42)** So the pyramid looks something like this.
 >
@@ -6266,7 +6213,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/narrative-structure?u=76281980&t=171)** Because we want somebody to change how they feel from the beginning of the story to the end of the story.
 >
-> **[2:59](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/narrative-structure?u=76281980&t=179)** So how do we use that kind of structure within our dashboards?
+> **[2:59](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/narrative-structure?u=76281980&t=179)** So how do we use that kind of structure within our [[Dashboards]]?
 >
 > **[3:03](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/narrative-structure?u=76281980&t=183)** Well, it kind of depends on the kind of story that you're doing, if you're doing a small story or a longer more involved story.
 >
@@ -6324,20 +6271,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Dashboards]] (4), [[Storytelling]] (1), hit (1), next (1)
+> **Frameworks & Libraries:** [[Dashboards]] (4), [[Storytelling]] (1)
 > **CLI Commands:** make (6)
 > **Speakers:** - [instructor] (1)
 
-#### Big stories
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/big-stories?u=76281980)
+#### [Big stories](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/big-stories?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/big-stories?u=76281980&t=0)** - [Instructor] When we talk about big data stories, we're talking about when we want to create a narrative around a dashboard, but we need to take a multi-step approach to each stage.
+> **[0:00](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/big-stories?u=76281980&t=0)** - [Instructor] When we talk about [[Big Data]] stories, we're talking about when we want to create a narrative around a dashboard, but we need to take a multi-step approach to each stage.
 >
 > **[0:14](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/big-stories?u=76281980&t=14)** We want to create pages that somebody can look through as they walk through our stories that we've created.
 >
-> **[0:21](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/big-stories?u=76281980&t=21)** And to do that, we make use of the story point function within Tableau.
+> **[0:21](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/big-stories?u=76281980&t=21)** And to do that, we make use of the story point function within [[Tableau]].
 >
 > **[0:26](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/big-stories?u=76281980&t=26)** So let's have a look at this dashboard.
 >
@@ -6449,7 +6395,7 @@ created: 2026-05-02
 >
 > **[5:47](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/big-stories?u=76281980&t=347)** Now, we can go ahead and do that for any of our particular views that we want to.
 >
-> **[5:52](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/big-stories?u=76281980&t=352)** The power of the storytelling means that I can send this dashboard or publish it to our server, and somebody else can step through those same pages that we've just created.
+> **[5:52](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/big-stories?u=76281980&t=352)** The power of the [[Storytelling]] means that I can send this dashboard or publish it to our server, and somebody else can step through those same pages that we've just created.
 >
 > **[6:04](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/big-stories?u=76281980&t=364)** We can change the captions, so we can have the captions to guide us through that story.
 >
@@ -6461,7 +6407,7 @@ created: 2026-05-02
 >
 > **[6:29](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/big-stories?u=76281980&t=389)** So now we can send this, we can publish this, and somebody else can step through our story as if they were sitting with us and we were explaining it to them.
 >
-> **[6:39](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/big-stories?u=76281980&t=399)** That's the power of data storytelling.
+> **[6:39](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/big-stories?u=76281980&t=399)** That's the power of [[Data Storytelling]].
 >
 > **[6:42](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/big-stories?u=76281980&t=402)** You enable your user to come to the conclusion that you want them to have.
 >
@@ -6469,7 +6415,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), data (2), power (2), [[Big Data]] (1), [[Tableau]] (1)
+> **Frameworks & Libraries:** [[Big Data]] (1), [[Tableau]] (1), [[Storytelling]] (1), [[Data Storytelling]] (1)
 > **CLI Commands:** make (13), find (2)
 > **UI Navigation:** click on (4)
 > **Cross-References:** go back to (1)
@@ -6477,8 +6423,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Small stories
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/small-stories?u=76281980)
+#### [Small stories](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/small-stories?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6504,7 +6449,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/small-stories?u=76281980&t=93)** And then the third sheet that I've got is at sub-category level.
 >
-> **[1:39](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/small-stories?u=76281980&t=99)** Now, there is another level we could go down, which would be the actual products themselves, but the problem is, is that there's many, many products and that's not going to fit neatly within our individual dashboard.
+> **[1:39](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/small-stories?u=76281980&t=99)** Now, there is another level we could go down, which would be the actual [[Microsoft Products|products]] themselves, but the problem is, is that there's many, many products and that's not going to fit neatly within our individual dashboard.
 >
 > **[1:50](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/small-stories?u=76281980&t=110)** But if you wanted to, we could go one level down as well.
 >
@@ -6608,7 +6553,7 @@ created: 2026-05-02
 >
 > **[6:43](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/small-stories?u=76281980&t=403)** Ah, but then when we look into 2024, we can see some quite significant differences.
 >
-> **[6:48](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/small-stories?u=76281980&t=408)** We can see that there significantly less technology profits, office supplies about the same, but the furniture was profitable, now, overall, we're making a loss.
+> **[6:48](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/small-stories?u=76281980&t=408)** We can see that there significantly less technology profits, [[Microsoft Office|office]] supplies about the same, but the furniture was profitable, now, overall, we're making a loss.
 >
 > **[6:59](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/small-stories?u=76281980&t=419)** Okay, well let's have a look at the next level down on that.
 >
@@ -6634,14 +6579,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), data (4), [[Microsoft Products|Products]] (2), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** dropdown (1), select the (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Dashboard stories
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/challenge-dashboard-stories?u=76281980)
+#### [Challenge: Dashboard stories](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/challenge-dashboard-stories?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6659,14 +6603,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** find (1), make (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Dashboard stories
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/solution-dashboard-stories?u=76281980)
+#### [Solution: Dashboard stories](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/solution-dashboard-stories?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6674,7 +6616,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/solution-dashboard-stories?u=76281980&t=10)** So this is the Landon Hotel data.
 >
-> **[0:13](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/solution-dashboard-stories?u=76281980&t=13)** So we've got occupancy, product category data, we've got timeline, got some scatter plot, and we've got some products.
+> **[0:13](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/solution-dashboard-stories?u=76281980&t=13)** So we've got occupancy, product category data, we've got timeline, got some scatter plot, and we've got some [[Microsoft Products|products]].
 >
 > **[0:19](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/solution-dashboard-stories?u=76281980&t=19)** So what interesting story can we actually see in this data that is worth putting out to put into story point?
 >
@@ -6694,7 +6636,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/solution-dashboard-stories?u=76281980&t=58)** So the color is going from darkest to lightest, so highest to lowest.
 >
-> **[1:04](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/solution-dashboard-stories?u=76281980&t=64)** And we can see that it does appear to be that the office supplies is the least large area where we order most of our stuff.
+> **[1:04](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/solution-dashboard-stories?u=76281980&t=64)** And we can see that it does appear to be that the [[Microsoft Office|office]] supplies is the least large area where we order most of our stuff.
 >
 > **[1:13](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/solution-dashboard-stories?u=76281980&t=73)** And in particular we can see for the Paris one that's much, much lower at 102 compared to all of the other ones.
 >
@@ -6782,7 +6724,7 @@ created: 2026-05-02
 >
 > **[5:35](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/solution-dashboard-stories?u=76281980&t=335)** So we can look at our individual timelines.
 >
-> **[5:38](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/solution-dashboard-stories?u=76281980&t=338)** So if I select now some of my timeline data, so if I was to select my end of years and just do keep only on there, I could then zoom in.
+> **[5:38](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/solution-dashboard-stories?u=76281980&t=338)** So if I select now some of my timeline data, so if I was to select my end of years and just do keep only on there, I could then [[Zoom]] in.
 >
 > **[5:52](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/solution-dashboard-stories?u=76281980&t=352)** If we go back to my dashboard and if I turn my filtering back on, no, turn the filter on, there we go.
 >
@@ -6830,7 +6772,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), product (4), [[Microsoft Products|Products]] (2), [[Microsoft Office|Office]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Microsoft Office|Office]] (2), [[Zoom]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Cross-References:** go back to (3)
 > **UI Navigation:** click on (2), select the (1)
@@ -6843,8 +6785,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Build an exploratory dashboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/build-a-exploratory-dashboard?u=76281980)
+#### [Build an exploratory dashboard](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/build-a-exploratory-dashboard?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6852,7 +6793,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/build-a-exploratory-dashboard?u=76281980&t=4)** So we're going to build an exploratory dashboard.
 >
-> **[0:08](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/build-a-exploratory-dashboard?u=76281980&t=8)** So what features do exploratory dashboards have?
+> **[0:08](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/build-a-exploratory-dashboard?u=76281980&t=8)** So what features do exploratory [[Dashboards]] have?
 >
 > **[0:12](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/build-a-exploratory-dashboard?u=76281980&t=12)** Well, they're going to include several sheets or views of the same data.
 >
@@ -6980,7 +6921,7 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/build-a-exploratory-dashboard?u=76281980&t=262)** Well, if I'm looking at regional, I can see my regions up here.
 >
-> **[4:25](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/build-a-exploratory-dashboard?u=76281980&t=265)** So if I select one of my regions, I want that to fill to the rest of the dashboard.
+> **[4:25](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/build-a-exploratory-dashboard?u=76281980&t=265)** So if I select one of my regions, I want that to fill to the [[Representational State Transfer (REST)|rest]] of the dashboard.
 >
 > **[4:30](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/build-a-exploratory-dashboard?u=76281980&t=270)** So if I go to my profit heat map and turn on use as filter.
 >
@@ -7110,7 +7051,7 @@ created: 2026-05-02
 >
 > **[8:42](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/build-a-exploratory-dashboard?u=76281980&t=522)** Okay, that's slightly better.
 >
-> **[8:43](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/build-a-exploratory-dashboard?u=76281980&t=523)** So now we're actually seeing the word months in there, and we see the tick mark.
+> **[8:43](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/build-a-exploratory-dashboard?u=76281980&t=523)** So now we're actually seeing the [[Microsoft Word|word]] months in there, and we see the tick mark.
 >
 > **[8:49](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/build-a-exploratory-dashboard?u=76281980&t=529)** So it doesn't conflict with what the label says.
 >
@@ -7170,15 +7111,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[Dashboards]] (1), next (1), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (5), find (3)
 > **UI Navigation:** go to (6), select the (1), click on (1)
 > **Definitions:** is a  (2), we call this (1), is an  (1)
 > **Cross-References:** in the last (2), go back to (1)
 > **Speakers:** - let (1)
 
-#### Build an informative dashboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/build-an-informative-dashboard?u=76281980)
+#### [Build an informative dashboard](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/build-an-informative-dashboard?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7194,7 +7134,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/build-an-informative-dashboard?u=76281980&t=37)** So the brief we've got for this one is, we want to examine the sales data for California, and we're interested in how well technology sells, how many sales do we make in each city, and how do we identify good or bad customers?
 >
-> **[0:55](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/build-an-informative-dashboard?u=76281980&t=55)** And, what are the top 10 technology products?
+> **[0:55](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/build-an-informative-dashboard?u=76281980&t=55)** And, what are the top 10 technology [[Microsoft Products|products]]?
 >
 > **[0:59](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/build-an-informative-dashboard?u=76281980&t=59)** So, why are we building this dashboard?
 >
@@ -7346,7 +7286,7 @@ created: 2026-05-02
 >
 > **[8:40](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/build-an-informative-dashboard?u=76281980&t=520)** Let's get rid of those.
 >
-> **[8:43](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/build-an-informative-dashboard?u=76281980&t=523)** Okay, so now, I can look at my individual cities, I can see all my customers, I can see the good ones, and I can see the bad ones, and if I want to, I could then zoom in on those ones towards the zeros.
+> **[8:43](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/build-an-informative-dashboard?u=76281980&t=523)** Okay, so now, I can look at my individual cities, I can see all my customers, I can see the good ones, and I can see the bad ones, and if I want to, I could then [[Zoom]] in on those ones towards the zeros.
 >
 > **[9:02](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/build-an-informative-dashboard?u=76281980&t=542)** I can still expand out my sales if I want to, to look at the individual ones.
 >
@@ -7378,15 +7318,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), data (5), [[Microsoft Products|Products]] (5), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), [[Zoom]] (1)
 > **CLI Commands:** make (5), find (1)
 > **UI Navigation:** select the (2), go to (1), click on (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Build a data story
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/build-a-data-story?u=76281980)
+#### [Build a data story](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/build-a-data-story?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7404,13 +7343,13 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/build-a-data-story?u=76281980&t=21)** We want to present that, and typically we're trying to persuade or make a case to change something.
 >
-> **[0:29](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/build-a-data-story?u=76281980&t=29)** Now a data story is going to involve multiple dashboards connected as part of a data story, or it might be one single dashboard, but has many different features that we connect to piece by piece.
+> **[0:29](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/build-a-data-story?u=76281980&t=29)** Now a data story is going to involve multiple [[Dashboards]] connected as part of a data story, or it might be one single dashboard, but has many different features that we connect to piece by piece.
 >
 > **[0:41](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/build-a-data-story?u=76281980&t=41)** So what do we need to show in our example?
 >
 > **[0:44](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/build-a-data-story?u=76281980&t=44)** So we're going to look at our data to see are there any trends we need to be aware of, want to show any good or bad weeks?
 >
-> **[0:51](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/build-a-data-story?u=76281980&t=51)** I want to show which products and locations we're involved.
+> **[0:51](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/build-a-data-story?u=76281980&t=51)** I want to show which [[Microsoft Products|products]] and locations we're involved.
 >
 > **[0:56](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/build-a-data-story?u=76281980&t=56)** The ultimate goal is, do we need to make some changes to our business?
 >
@@ -7582,7 +7521,7 @@ created: 2026-05-02
 >
 > **[10:15](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/build-a-data-story?u=76281980&t=615)** Now, the beauty of doing a data story is that at any point somebody could want to know more information.
 >
-> **[10:22](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/build-a-data-story?u=76281980&t=622)** If we export these images out and put them into something like PowerPoint, they're are static image, but this is still within Tableau.
+> **[10:22](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/build-a-data-story?u=76281980&t=622)** If we export these images out and put them into something like [[Microsoft PowerPoint|PowerPoint]], they're are static image, but this is still within [[Tableau]].
 >
 > **[10:32](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/build-a-data-story?u=76281980&t=632)** At any point, I can hover over the data, I can click on it and interact with it, and we can drill down to the underlying data.
 >
@@ -7598,7 +7537,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), [[Dashboards]] (6), next (4), [[Tableau]] (3), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (6), [[Tableau]] (3), [[Microsoft Products|Products]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **UI Navigation:** go to (3), click on (3), select the (1)
 > **CLI Commands:** make (4)
 > **Cross-References:** go back to (3)
@@ -7606,8 +7545,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Build a KPI dashboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/build-a-kpi-dashboard?u=76281980)
+#### [Build a KPI dashboard](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/build-a-kpi-dashboard?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7893,15 +7831,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **UI Navigation:** go to (4), click on (3), right-click (2), select the (1), drag and drop (1)
 > **Env Vars:** kpi (10)
 > **CLI Commands:** make (4)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Design for tablets and mobiles
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/design-for-tablets-and-mobiles?u=76281980)
+#### [Design for tablets and mobiles](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/design-for-tablets-and-mobiles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7925,9 +7861,9 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/design-for-tablets-and-mobiles?u=76281980&t=61)** So if that's the case, we need to add custom layouts to make sure that the dashboard is going to look good.
 >
-> **[1:08](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/design-for-tablets-and-mobiles?u=76281980&t=68)** Now, fortunately, Tableau allows us to do that quite easily.
+> **[1:08](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/design-for-tablets-and-mobiles?u=76281980&t=68)** Now, fortunately, [[Tableau]] allows us to do that quite easily.
 >
-> **[1:11](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/design-for-tablets-and-mobiles?u=76281980&t=71)** We have the option to preview what our dashboards going to look like on different size devices and at different screen sizes.
+> **[1:11](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/design-for-tablets-and-mobiles?u=76281980&t=71)** We have the option to preview what our [[Dashboards]] going to look like on different size devices and at different screen sizes.
 >
 > **[1:19](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/design-for-tablets-and-mobiles?u=76281980&t=79)** So let's have a look at that.
 >
@@ -7949,7 +7885,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/design-for-tablets-and-mobiles?u=76281980&t=121)** So what we can do is we can click on device preview at the top-left hand and we can see what this is going to look like on different size screens.
 >
-> **[2:09](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/design-for-tablets-and-mobiles?u=76281980&t=129)** I've now got the option to flick through and see how this dashboard is going to react when it gets resized.
+> **[2:09](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/design-for-tablets-and-mobiles?u=76281980&t=129)** I've now got the option to flick through and see how this dashboard is going to [[React.js|react]] when it gets resized.
 >
 > **[2:16](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/design-for-tablets-and-mobiles?u=76281980&t=136)** So on a desktop, which on this one has default desktop monitor of 1920 by 1080p so it's not a huge monitor, but pretty standard.
 >
@@ -8097,7 +8033,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (4), [[Dashboards]] (2), generic (2), [[React.js|React]] (1), data (1)
+> **Frameworks & Libraries:** [[Tableau]] (4), [[Dashboards]] (2), [[React.js|React]] (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (3)
 > **UI Navigation:** click on (2)
@@ -8105,8 +8041,7 @@ created: 2026-05-02
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [speaker] (1)
 
-#### Challenge: Dashboard styles
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/challenge-dashboard-styles?u=76281980)
+#### [Challenge: Dashboard styles](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/challenge-dashboard-styles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8125,8 +8060,7 @@ created: 2026-05-02
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat techno music) (1)
 
-#### Solution: Dashboard styles
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/solution-dashboard-styles?u=76281980)
+#### [Solution: Dashboard styles](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/solution-dashboard-styles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8286,7 +8220,7 @@ created: 2026-05-02
 >
 > **[6:33](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/solution-dashboard-styles?u=76281980&t=393)** Let's have a look at the phone.
 >
-> **[6:36](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/solution-dashboard-styles?u=76281980&t=396)** So by default, Tableau has locked the layout for me, but I'm going to edit it.
+> **[6:36](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/solution-dashboard-styles?u=76281980&t=396)** So by default, [[Tableau]] has locked the layout for me, but I'm going to edit it.
 >
 > **[6:41](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/solution-dashboard-styles?u=76281980&t=401)** Let's have a little look.
 >
@@ -8326,7 +8260,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (3), product (2), [[Tableau]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (1)
 > **UI Navigation:** go to (9), click on (1)
 > **CLI Commands:** make (6), find (1)
 > **Cross-References:** go back to (4)
@@ -8339,8 +8273,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps and additional resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/next-steps-and-additional-resources?u=76281980)
+#### [Next steps and additional resources](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/next-steps-and-additional-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8348,7 +8281,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/next-steps-and-additional-resources?u=76281980&t=4)** It's always a good idea to learn some more.
 >
-> **[0:07](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/next-steps-and-additional-resources?u=76281980&t=7)** So if you want to learn more, check out this Complete Guide to Tableau.
+> **[0:07](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/next-steps-and-additional-resources?u=76281980&t=7)** So if you want to learn more, check out this Complete Guide to [[Tableau]].
 >
 > **[0:11](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/next-steps-and-additional-resources?u=76281980&t=11)** It goes into detail on every aspect of Tableau, from connecting to data, analyzing, visualizing, and sharing.
 >
@@ -8396,7 +8329,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (12), data (9), next (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (12)
 > **CLI Commands:** find (2)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)

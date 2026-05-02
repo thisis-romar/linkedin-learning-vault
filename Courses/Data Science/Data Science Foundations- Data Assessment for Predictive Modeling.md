@@ -143,8 +143,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why data assessment is critical
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/why-data-assessment-is-critical?u=76281980)
+#### [Why data assessment is critical](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/why-data-assessment-is-critical?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -172,13 +171,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### A note about the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/a-note-about-the-exercise-files?u=76281980)
+#### [A note about the exercise files](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/a-note-about-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -214,7 +211,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** pdf (1)
 > **Exercise Files:** exercise files (1)
@@ -227,16 +223,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Clarifying how data understanding differs from data visualization
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/clarifying-how-data-understanding-differs-from-data-visualization?u=76281980)
+#### [Clarifying how data understanding differs from data visualization](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/clarifying-how-data-understanding-differs-from-data-visualization?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/clarifying-how-data-understanding-differs-from-data-visualization?u=76281980&t=0)** - [Instructor] By data assessment, don't we just mean a type of data exploration or data visualization?
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/clarifying-how-data-understanding-differs-from-data-visualization?u=76281980&t=0)** - [Instructor] By [[Data Assessment]], don't we just mean a type of data exploration or data visualization?
 >
 > **[0:08](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/clarifying-how-data-understanding-differs-from-data-visualization?u=76281980&t=8)** In short, no.
 >
-> **[0:10](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/clarifying-how-data-understanding-differs-from-data-visualization?u=76281980&t=10)** Here we have a very specific purpose in mind, to check the suitability of our data for predictive modeling and to determine what actions we can take to improve the data during data preparation.
+> **[0:10](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/clarifying-how-data-understanding-differs-from-data-visualization?u=76281980&t=10)** Here we have a very specific purpose in mind, to check the suitability of our data for [[Predictive Modeling]] and to determine what actions we can take to improve the data during [[Data Preparation]].
 >
 > **[0:25](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/clarifying-how-data-understanding-differs-from-data-visualization?u=76281980&t=25)** Consider the metaphor of building construction.
 >
@@ -282,17 +277,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Predictive Modeling]] (1)
+> **Frameworks & Libraries:** [[Data Preparation]] (2), [[Data Assessment]] (1), [[Predictive Modeling]] (1)
 > **Definitions:** is called (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introducing the critical data understanding phase of CRISP-DM
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-the-critical-data-understanding-phase-of-crisp-dm?u=76281980)
+#### [Introducing the critical data understanding phase of CRISP-DM](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-the-critical-data-understanding-phase-of-crisp-dm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-the-critical-data-understanding-phase-of-crisp-dm?u=76281980&t=0)** - [Instructor] CRISP-DM is an acronym for the cross-industry standard process for data mining.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-the-critical-data-understanding-phase-of-crisp-dm?u=76281980&t=0)** - [Instructor] [[CRISP-DM]] is an acronym for the cross-industry standard process for [[Data Mining]].
 >
 > **[0:07](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-the-critical-data-understanding-phase-of-crisp-dm?u=76281980&t=7)** This course is about the second phase of CRISP-DM.
 >
@@ -306,7 +300,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-the-critical-data-understanding-phase-of-crisp-dm?u=76281980&t=35)** But it's critical to note that CRISP-DM is much more than just a circular diagram.
 >
-> **[0:42](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-the-critical-data-understanding-phase-of-crisp-dm?u=76281980&t=42)** In fact, if I zoom out a bit so that you can see the entire page, you'll note that this is page 10 of a 76 page document.
+> **[0:42](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-the-critical-data-understanding-phase-of-crisp-dm?u=76281980&t=42)** In fact, if I [[Zoom]] out a bit so that you can see the entire page, you'll note that this is page 10 of a 76 page document.
 >
 > **[0:51](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-the-critical-data-understanding-phase-of-crisp-dm?u=76281980&t=51)** And this is the beginning of part two, when the circular diagram makes its first appearance.
 >
@@ -316,13 +310,13 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-the-critical-data-understanding-phase-of-crisp-dm?u=76281980&t=65)** First, although this is the second phase, we're just starting to assemble our data.
 >
-> **[1:12](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-the-critical-data-understanding-phase-of-crisp-dm?u=76281980&t=72)** Then it continues to describe some of the tasks, which could easily be confused with just exploring, getting familiar with the data, identifying data quality problems, getting some of our initial insights, and even possibly detecting interesting subsets of our data.
+> **[1:12](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-the-critical-data-understanding-phase-of-crisp-dm?u=76281980&t=72)** Then it continues to describe some of the tasks, which could easily be confused with just exploring, getting familiar with the data, identifying [[Data Quality]] problems, getting some of our initial insights, and even possibly detecting interesting subsets of our data.
 >
 > **[1:29](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-the-critical-data-understanding-phase-of-crisp-dm?u=76281980&t=89)** So what is this mysterious, hidden information?
 >
-> **[1:34](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-the-critical-data-understanding-phase-of-crisp-dm?u=76281980&t=94)** This is a critical phrase, because we must remember that data understanding is just prior to data preparation.
+> **[1:34](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-the-critical-data-understanding-phase-of-crisp-dm?u=76281980&t=94)** This is a critical phrase, because we must remember that data understanding is just prior to [[Data Preparation]].
 >
-> **[1:43](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-the-critical-data-understanding-phase-of-crisp-dm?u=76281980&t=103)** So we need to look carefully for information that is hidden, not only to us, but hidden to our algorithms.
+> **[1:43](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-the-critical-data-understanding-phase-of-crisp-dm?u=76281980&t=103)** So we need to look carefully for information that is hidden, not only to us, but hidden to our [[Algorithms]].
 >
 > **[1:50](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-the-critical-data-understanding-phase-of-crisp-dm?u=76281980&t=110)** We must be careful not to have magical thinking regarding our algorithms, they need our help.
 >
@@ -344,7 +338,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-the-critical-data-understanding-phase-of-crisp-dm?u=76281980&t=174)** So what else did they mean when they chose the phrase data mining?
 >
-> **[3:00](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-the-critical-data-understanding-phase-of-crisp-dm?u=76281980&t=180)** Well, they didn't mean exploring as an end goal and data mining didn't have the privacy implications that it has today.
+> **[3:00](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-the-critical-data-understanding-phase-of-crisp-dm?u=76281980&t=180)** Well, they didn't mean exploring as an end goal and data mining didn't have the [[Privacy]] implications that it has today.
 >
 > **[3:09](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-the-critical-data-understanding-phase-of-crisp-dm?u=76281980&t=189)** It merely meant finding useful patterns and data, there was no assumption about what kind of data it was or where it came from.
 >
@@ -360,21 +354,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[CRISP-DM]] (6), [[Algorithms]] (3), [[Privacy]] (2), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[CRISP-DM]] (6), [[Data Mining]] (5), [[Algorithms]] (3), [[Data Preparation]] (2), [[Privacy]] (2)
 > **Env Vars:** crisp (6)
 > **Warnings:** note that (2), be careful (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data assessment in CRISP-DM alternatives: The IBM ASUM-DM and Microsoft TDSP
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/data-assessment-in-crisp-dm-alternatives-the-ibm-asum-dm-and-microsoft-tdsp?u=76281980)
+#### [Data assessment in CRISP-DM alternatives: The IBM ASUM-DM and Microsoft TDSP](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/data-assessment-in-crisp-dm-alternatives-the-ibm-asum-dm-and-microsoft-tdsp?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/data-assessment-in-crisp-dm-alternatives-the-ibm-asum-dm-and-microsoft-tdsp?u=76281980&t=0)** - [Instructor} For the purpose of this course, we will use the terms data assessment and data understanding interchangeably.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/data-assessment-in-crisp-dm-alternatives-the-ibm-asum-dm-and-microsoft-tdsp?u=76281980&t=0)** - [Instructor} For the purpose of this course, we will use the terms [[Data Assessment]] and data understanding interchangeably.
 >
-> **[0:08](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/data-assessment-in-crisp-dm-alternatives-the-ibm-asum-dm-and-microsoft-tdsp?u=76281980&t=8)** But if data assessment is used in the title of the course, why risk confusing it with CRISP-DM term data understanding?
+> **[0:08](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/data-assessment-in-crisp-dm-alternatives-the-ibm-asum-dm-and-microsoft-tdsp?u=76281980&t=8)** But if data assessment is used in the title of the course, why risk confusing it with [[CRISP-DM]] term data understanding?
 >
 > **[0:17](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/data-assessment-in-crisp-dm-alternatives-the-ibm-asum-dm-and-microsoft-tdsp?u=76281980&t=17)** Well, out of context, it's not always clear what data understanding means.
 >
@@ -386,7 +379,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/data-assessment-in-crisp-dm-alternatives-the-ibm-asum-dm-and-microsoft-tdsp?u=76281980&t=47)** I always thought IBM spin on the diagram was intriguing.
 >
-> **[0:51](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/data-assessment-in-crisp-dm-alternatives-the-ibm-asum-dm-and-microsoft-tdsp?u=76281980&t=51)** IBM has come up with ASUM-DM, which is an acronym for Analytics Solutions Unified Method for Data Mining/Predictive Analytics.
+> **[0:51](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/data-assessment-in-crisp-dm-alternatives-the-ibm-asum-dm-and-microsoft-tdsp?u=76281980&t=51)** IBM has come up with ASUM-DM, which is an acronym for Analytics Solutions Unified Method for [[Data Mining]]/[[Predictive Analytics]].
 >
 > **[1:01](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/data-assessment-in-crisp-dm-alternatives-the-ibm-asum-dm-and-microsoft-tdsp?u=76281980&t=61)** IBM makes it a bit tricky to read up on ASUM-DM, you have to register on the website.
 >
@@ -398,7 +391,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/data-assessment-in-crisp-dm-alternatives-the-ibm-asum-dm-and-microsoft-tdsp?u=76281980&t=87)** Here it is.
 >
-> **[1:28](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/data-assessment-in-crisp-dm-alternatives-the-ibm-asum-dm-and-microsoft-tdsp?u=76281980&t=88)** Notice this interesting figure eight diagram, clearly influenced by CRISP-DM starts with business understanding, then you see data discovery and data wrangling.
+> **[1:28](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/data-assessment-in-crisp-dm-alternatives-the-ibm-asum-dm-and-microsoft-tdsp?u=76281980&t=88)** Notice this interesting figure eight diagram, clearly influenced by CRISP-DM starts with business understanding, then you see data discovery and [[Data Wrangling]].
 >
 > **[1:40](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/data-assessment-in-crisp-dm-alternatives-the-ibm-asum-dm-and-microsoft-tdsp?u=76281980&t=100)** Very similar indeed.
 >
@@ -412,13 +405,13 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/data-assessment-in-crisp-dm-alternatives-the-ibm-asum-dm-and-microsoft-tdsp?u=76281980&t=123)** Of course, IBM isn't the only one to come up with modifications, there are several.
 >
-> **[2:10](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/data-assessment-in-crisp-dm-alternatives-the-ibm-asum-dm-and-microsoft-tdsp?u=76281980&t=130)** The variation that is perhaps getting the most traction at the moment is Microsoft's Team Data Science Process.
+> **[2:10](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/data-assessment-in-crisp-dm-alternatives-the-ibm-asum-dm-and-microsoft-tdsp?u=76281980&t=130)** The variation that is perhaps getting the most traction at the moment is [[Microsoft]]'s Team [[Data Science]] Process.
 >
 > **[2:20](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/data-assessment-in-crisp-dm-alternatives-the-ibm-asum-dm-and-microsoft-tdsp?u=76281980&t=140)** And here it is, let's take a look at their diagram.
 >
 > **[2:24](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/data-assessment-in-crisp-dm-alternatives-the-ibm-asum-dm-and-microsoft-tdsp?u=76281980&t=144)** Here's the data science lifecycle.
 >
-> **[2:27](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/data-assessment-in-crisp-dm-alternatives-the-ibm-asum-dm-and-microsoft-tdsp?u=76281980&t=147)** Again, clearly influenced by CRISP-DM starting with business understanding, and then going to a phase data acquisition and understanding then deployment and modeling.
+> **[2:27](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/data-assessment-in-crisp-dm-alternatives-the-ibm-asum-dm-and-microsoft-tdsp?u=76281980&t=147)** Again, clearly influenced by CRISP-DM starting with business understanding, and then going to a phase [[Data Acquisition]] and understanding then deployment and modeling.
 >
 > **[2:40](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/data-assessment-in-crisp-dm-alternatives-the-ibm-asum-dm-and-microsoft-tdsp?u=76281980&t=160)** So notice the nature of the feedback loops is rather different.
 >
@@ -450,15 +443,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[CRISP-DM]] (9), business (2), [[Microsoft]] (2), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[CRISP-DM]] (9), [[Data Assessment]] (2), [[Microsoft]] (2), [[Data Science]] (2), [[Data Mining]] (1)
 > **Env Vars:** crisp (9), ibm (5), asum (3), pdf (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (2)
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor (1)
 
-#### Navigating the transition from business understanding to data understanding
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/navigating-the-transition-from-business-understanding-to-data-understanding?u=76281980)
+#### [Navigating the transition from business understanding to data understanding](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/navigating-the-transition-from-business-understanding-to-data-understanding?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -484,7 +476,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/navigating-the-transition-from-business-understanding-to-data-understanding?u=76281980&t=67)** The trick and understanding the relationship between business understanding and data understanding is that in the business understanding phase, you are discussing data that you haven't examined yet.
 >
-> **[1:19](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/navigating-the-transition-from-business-understanding-to-data-understanding?u=76281980&t=79)** So you're relying heavily on data dictionaries, metadata and data models.
+> **[1:19](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/navigating-the-transition-from-business-understanding-to-data-understanding?u=76281980&t=79)** So you're relying heavily on data dictionaries, [[Metadata]] and data models.
 >
 > **[1:26](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/navigating-the-transition-from-business-understanding-to-data-understanding?u=76281980&t=86)** This reliance on data dictionaries is especially true If you're an external resources.
 >
@@ -514,9 +506,9 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/navigating-the-transition-from-business-understanding-to-data-understanding?u=76281980&t=177)** It's more about which metrics will the business use to measure progress when we're done.
 >
-> **[3:04](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/navigating-the-transition-from-business-understanding-to-data-understanding?u=76281980&t=184)** The determine data mining goals task is a process of translation.
+> **[3:04](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/navigating-the-transition-from-business-understanding-to-data-understanding?u=76281980&t=184)** The determine [[Data Mining]] goals task is a process of translation.
 >
-> **[3:12](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/navigating-the-transition-from-business-understanding-to-data-understanding?u=76281980&t=192)** Translating the business objectives into a form that modeling algorithms can help us with.
+> **[3:12](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/navigating-the-transition-from-business-understanding-to-data-understanding?u=76281980&t=192)** Translating the business objectives into a form that modeling [[Algorithms]] can help us with.
 >
 > **[3:19](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/navigating-the-transition-from-business-understanding-to-data-understanding?u=76281980&t=199)** This translation almost always involves figuring out what we have to predict, after all, we're building predictive models.
 >
@@ -532,13 +524,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), business (9), [[Metadata]] (1), career (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (1), [[Data Mining]] (1), [[Algorithms]] (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to organize your work with the four data understanding tasks
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-organize-your-work-with-the-four-data-understanding-tasks?u=76281980)
+#### [How to organize your work with the four data understanding tasks](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-organize-your-work-with-the-four-data-understanding-tasks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -582,7 +573,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-organize-your-work-with-the-four-data-understanding-tasks?u=76281980&t=153)** We're going to spend a lot of time on this task.
 >
-> **[2:36](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-organize-your-work-with-the-four-data-understanding-tasks?u=76281980&t=156)** At first, it seems to overlap a bit with business intelligence skills in that there's a lot of querying, visualizing and reporting.
+> **[2:36](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-organize-your-work-with-the-four-data-understanding-tasks?u=76281980&t=156)** At first, it seems to overlap a bit with [[Business Intelligence (BI)|business intelligence]] skills in that there's a lot of querying, visualizing and reporting.
 >
 > **[2:44](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-organize-your-work-with-the-four-data-understanding-tasks?u=76281980&t=164)** Where it's very different from BI is the goal.
 >
@@ -592,11 +583,11 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-organize-your-work-with-the-four-data-understanding-tasks?u=76281980&t=178)** So all this work is in the service of better models and developing a data prep to do list.
 >
-> **[3:06](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-organize-your-work-with-the-four-data-understanding-tasks?u=76281980&t=186)** Our fourth task is Verify Data Quality, missing data, another big topic.
+> **[3:06](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-organize-your-work-with-the-four-data-understanding-tasks?u=76281980&t=186)** Our fourth task is Verify [[Data Quality]], missing data, another big topic.
 >
 > **[3:12](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-organize-your-work-with-the-four-data-understanding-tasks?u=76281980&t=192)** Don't forget that we must examine data quality through the lens of the individual data sources.
 >
-> **[3:19](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-organize-your-work-with-the-four-data-understanding-tasks?u=76281980&t=199)** Then we have to come back later after data integration and look at it again.
+> **[3:19](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-organize-your-work-with-the-four-data-understanding-tasks?u=76281980&t=199)** Then we have to come back later after [[Data Integration]] and look at it again.
 >
 > **[3:25](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-organize-your-work-with-the-four-data-understanding-tasks?u=76281980&t=205)** Don't rush to fix the data.
 >
@@ -606,7 +597,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Business Intelligence (BI)|Business intelligence]] (1), bi (1), next (1)
+> **Frameworks & Libraries:** [[Data Quality]] (2), [[Business Intelligence (BI)|Business intelligence]] (1), [[Data Integration]] (1)
 > **Best Practices:** don't forget (2)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
@@ -618,8 +609,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Considerations in gathering the relevant data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/considerations-in-gathering-the-relevant-data?u=76281980)
+#### [Considerations in gathering the relevant data](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/considerations-in-gathering-the-relevant-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -651,7 +641,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/considerations-in-gathering-the-relevant-data?u=76281980&t=112)** The variables under constant scrutiny had been baked into the cake.
 >
-> **[1:57](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/considerations-in-gathering-the-relevant-data?u=76281980&t=117)** They probably don't hold the secrets to organizational transformation, improvement, nor in moving business metrics in the right direction.
+> **[1:57](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/considerations-in-gathering-the-relevant-data?u=76281980&t=117)** They probably don't hold the secrets to organizational transformation, improvement, nor in moving [[Business Metrics]] in the right direction.
 >
 > **[2:06](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/considerations-in-gathering-the-relevant-data?u=76281980&t=126)** So if an SME tells you, you should look, you should look.
 >
@@ -685,15 +675,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), business (7), [[Search]] (1)
+> **Frameworks & Libraries:** [[Business Metrics]] (1)
 > **Env Vars:** roi (1), sme (1), vip (1)
 > **Analogies:** for instance (2)
 > **Definitions:** is a  (1)
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
 
-#### A strategy for processing data sources
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/a-strategy-for-processing-data-sources?u=76281980)
+#### [A strategy for processing data sources](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/a-strategy-for-processing-data-sources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -719,7 +708,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/a-strategy-for-processing-data-sources?u=76281980&t=63)** The reason that folks want to start slow and fail fast, is that they're afraid that the data will fail to reveal a pattern.
 >
-> **[1:13](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/a-strategy-for-processing-data-sources?u=76281980&t=73)** If you know where to look, this is extremely rare, and according to the nine laws of data mining, it never happens.
+> **[1:13](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/a-strategy-for-processing-data-sources?u=76281980&t=73)** If you know where to look, this is extremely rare, and according to the nine laws of [[Data Mining]], it never happens.
 >
 > **[1:22](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/a-strategy-for-processing-data-sources?u=76281980&t=82)** The fifth law is Watkins's Law and it states there are always patterns.
 >
@@ -755,7 +744,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/a-strategy-for-processing-data-sources?u=76281980&t=189)** Keep going.
 >
-> **[3:10](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/a-strategy-for-processing-data-sources?u=76281980&t=190)** After cleaning up and weeding out variables within each department, data integration will have to take place and best in breed becomes best in show, and you look for the interactions between those diverse data sources.
+> **[3:10](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/a-strategy-for-processing-data-sources?u=76281980&t=190)** After cleaning up and weeding out variables within each department, [[Data Integration]] will have to take place and best in breed becomes best in show, and you look for the interactions between those diverse data sources.
 >
 > **[3:28](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/a-strategy-for-processing-data-sources?u=76281980&t=208)** This process never fails for the same reason that Watkins's Law is true.
 >
@@ -777,14 +766,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), business (5)
+> **Frameworks & Libraries:** [[Data Mining]] (2), [[Data Integration]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** in other words (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [male (1)
 
-#### Getting creative about data sources
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/getting-creative-about-data-sources?u=76281980)
+#### [Getting creative about data sources](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/getting-creative-about-data-sources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -830,7 +818,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/getting-creative-about-data-sources?u=76281980&t=117)** If you're going to make a career out of fraud, you need to make a bunch of fake identities.
 >
-> **[2:03](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/getting-creative-about-data-sources?u=76281980&t=123)** You can't use the same identity twice, so you put fake names and addresses on the forms, but wouldn't it be strange if several different claims all had the same caller ID?
+> **[2:03](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/getting-creative-about-data-sources?u=76281980&t=123)** You can't use the same identity twice, so you put fake names and addresses on the [[Forms]], but wouldn't it be strange if several different claims all had the same caller ID?
 >
 > **[2:19](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/getting-creative-about-data-sources?u=76281980&t=139)** Then remember those paper forms I observed being typed into the computer?
 >
@@ -860,25 +848,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), business (2), [[Forms]] (2), career (1)
+> **Frameworks & Libraries:** [[Forms]] (2)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** in other words (1), is a  (1)
 > **Analogies:** picture (1), imagine (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to envision a proper flat file
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-envision-a-proper-flat-file?u=76281980)
+#### [How to envision a proper flat file](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-envision-a-proper-flat-file?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-envision-a-proper-flat-file?u=76281980&t=0)** - [Instructor] We're going to briefly review something quite basic, but also terribly important.
 >
-> **[0:06](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-envision-a-proper-flat-file?u=76281980&t=6)** By the time you reach the end of the data preparation phase, you need everything in a flat file.
+> **[0:06](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-envision-a-proper-flat-file?u=76281980&t=6)** By the time you reach the end of the [[Data Preparation]] phase, you need everything in a flat file.
 >
 > **[0:12](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-envision-a-proper-flat-file?u=76281980&t=12)** All of your information, and it has to be in this format.
 >
-> **[0:17](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-envision-a-proper-flat-file?u=76281980&t=17)** During data acquisition and assessment, you needed an ID field to merge your data.
+> **[0:17](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-envision-a-proper-flat-file?u=76281980&t=17)** During [[Data Acquisition]] and assessment, you needed an ID field to merge your data.
 >
 > **[0:22](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-envision-a-proper-flat-file?u=76281980&t=22)** You still need it, just at this point it's to prepare you for eventual deployment.
 >
@@ -896,11 +883,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Data Acquisition]] (1)
+> **Frameworks & Libraries:** [[Data Preparation]] (1), [[Data Acquisition]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Anticipating data integration
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/anticipating-data-integration?u=76281980)
+#### [Anticipating data integration](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/anticipating-data-integration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -910,7 +896,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/anticipating-data-integration?u=76281980&t=13)** So what we have to do is aggregate it, and in numerous ways.
 >
-> **[0:17](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/anticipating-data-integration?u=76281980&t=17)** This is all done in the data preparation phase, but we have to be clear on what it looks like when we're done so that we can properly perform our data understanding tasks.
+> **[0:17](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/anticipating-data-integration?u=76281980&t=17)** This is all done in the [[Data Preparation]] phase, but we have to be clear on what it looks like when we're done so that we can properly perform our data understanding tasks.
 >
 > **[0:28](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/anticipating-data-integration?u=76281980&t=28)** So just one example might be calculating average number of domestic U.S. calls over this four month period, turning four rows into just one number.
 >
@@ -920,7 +906,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5)
+> **Frameworks & Libraries:** [[Data Preparation]] (1)
 > **Speakers:** - [instructor] (1)
 
 
@@ -928,8 +914,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Reviewing basic concepts in the level of measurement
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/reviewing-basic-concepts-in-the-level-of-measurement?u=76281980)
+#### [Reviewing basic concepts in the level of measurement](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/reviewing-basic-concepts-in-the-level-of-measurement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -941,7 +926,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/reviewing-basic-concepts-in-the-level-of-measurement?u=76281980&t=19)** Level of measurement's been around for 75 years, but it's still fundamental to everything we do.
 >
-> **[0:26](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/reviewing-basic-concepts-in-the-level-of-measurement?u=76281980&t=26)** It determines which descriptive statistics, which statistical tests, which charts, and which machine learning algorithms make sense for the data.
+> **[0:26](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/reviewing-basic-concepts-in-the-level-of-measurement?u=76281980&t=26)** It determines which descriptive [[Statistics]], which statistical tests, which charts, and which machine learning [[Algorithms]] make sense for the data.
 >
 > **[0:37](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/reviewing-basic-concepts-in-the-level-of-measurement?u=76281980&t=37)** It drives almost everything we do during data understanding and then later during the modeling phase.
 >
@@ -983,18 +968,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Statistics]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Algorithms]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is dummy coding?
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/what-is-dummy-coding?u=76281980)
+#### [What is dummy coding?](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/what-is-dummy-coding?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/what-is-dummy-coding?u=76281980&t=0)** - [Instructor] What is dummy coding?
 >
-> **[0:02](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/what-is-dummy-coding?u=76281980&t=2)** Dummy coding is a special kind of data preparation that most software runs automatically on your categorical variables.
+> **[0:02](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/what-is-dummy-coding?u=76281980&t=2)** Dummy coding is a special kind of [[Data Preparation]] that most software runs automatically on your categorical variables.
 >
 > **[0:11](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/what-is-dummy-coding?u=76281980&t=11)** That's both nominal and ordinal.
 >
@@ -1010,7 +994,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/what-is-dummy-coding?u=76281980&t=46)** Why worry about this?
 >
-> **[0:47](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/what-is-dummy-coding?u=76281980&t=47)** Well, again, most software packages and analytics programming languages do this automatically during the modeling phase in your modeling algorithms.
+> **[0:47](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/what-is-dummy-coding?u=76281980&t=47)** Well, again, most software packages and analytics programming languages do this automatically during the modeling phase in your modeling [[Algorithms]].
 >
 > **[1:00](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/what-is-dummy-coding?u=76281980&t=60)** If you don't understand that, it's going to complicate interpreting the results.
 >
@@ -1040,7 +1024,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Analytics]] (1), [[Programming]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Data Preparation]] (1), [[Algorithms]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for instance (1), imagine (1)
 > **CLI Commands:** make (1)
@@ -1048,18 +1032,17 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Expanding our definition of level of measurement
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/expanding-our-definition-of-level-of-measurement?u=76281980)
+#### [Expanding our definition of level of measurement](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/expanding-our-definition-of-level-of-measurement?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/expanding-our-definition-of-level-of-measurement?u=76281980&t=0)** - [Instructor] When Stevens first proposed level of measurement back in the '40s, he was focused on statistics, specifically survey style data.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/expanding-our-definition-of-level-of-measurement?u=76281980&t=0)** - [Instructor] When Stevens first proposed level of measurement back in the '40s, he was focused on [[Statistics]], specifically survey style data.
 >
 > **[0:10](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/expanding-our-definition-of-level-of-measurement?u=76281980&t=10)** Since we're doing machine learning, we really have to expand our notion of level of measurement and include some additional categories.
 >
-> **[0:18](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/expanding-our-definition-of-level-of-measurement?u=76281980&t=18)** First, we have to focus more carefully on potential ID fields, not in the same way that the IT team does when they're building the data warehouse, but thinking creatively about fields that may help us link the current dataset with other datasets during data integration, things like street address, for instance, grabbing neighborhood level detail using zip code, then some fairly obvious ones, like telephone number and email can connect us with other data, but then also credit card number.
+> **[0:18](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/expanding-our-definition-of-level-of-measurement?u=76281980&t=18)** First, we have to focus more carefully on potential ID fields, not in the same way that the IT team does when they're building the data warehouse, but thinking creatively about fields that may help us link the current dataset with other datasets during [[Data Integration]], things like street address, for instance, grabbing neighborhood level detail using zip code, then some fairly obvious ones, like telephone number and email can connect us with other data, but then also credit card number.
 >
-> **[0:51](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/expanding-our-definition-of-level-of-measurement?u=76281980&t=51)** Not because we're going to check a customer's credit score, I suppose in the case of banking, that might be relevant, but generally using it as a proxy.
+> **[0:51](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/expanding-our-definition-of-level-of-measurement?u=76281980&t=51)** Not because we're going to check a customer's credit score, I suppose in the case of [[Banking]], that might be relevant, but generally using it as a proxy.
 >
 > **[1:00](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/expanding-our-definition-of-level-of-measurement?u=76281980&t=60)** For instance, years ago when I was doing a project for Michael Kors, since they don't have a loyalty program, credit card was one way to identify that somebody was a repeat shopper.
 >
@@ -1095,7 +1078,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/expanding-our-definition-of-level-of-measurement?u=76281980&t=167)** Most data scientists, especially when they're starting out, include variables like this in their models, and it can create all kinds of complications.
 >
-> **[2:56](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/expanding-our-definition-of-level-of-measurement?u=76281980&t=176)** And the reason is, is that the algorithms automatically dummy code variables like this.
+> **[2:56](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/expanding-our-definition-of-level-of-measurement?u=76281980&t=176)** And the reason is, is that the [[Algorithms]] automatically dummy code variables like this.
 >
 > **[3:02](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/expanding-our-definition-of-level-of-measurement?u=76281980&t=182)** So we'll sometimes include them, but we want to be very careful.
 >
@@ -1111,7 +1094,7 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/expanding-our-definition-of-level-of-measurement?u=76281980&t=249)** That's not quite the last of it though, because we also have dates and text.
 >
-> **[4:14](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/expanding-our-definition-of-level-of-measurement?u=76281980&t=254)** And by text, I really mean unstructured data, things like physician's notes and so on.
+> **[4:14](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/expanding-our-definition-of-level-of-measurement?u=76281980&t=254)** And by text, I really mean [[Unstructured Data]], things like physician's notes and so on.
 >
 > **[4:20](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/expanding-our-definition-of-level-of-measurement?u=76281980&t=260)** These have to be handled in a special way as well.
 >
@@ -1119,13 +1102,13 @@ created: 2026-05-02
 >
 > **[4:32](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/expanding-our-definition-of-level-of-measurement?u=76281980&t=272)** What you need to do is perform date arithmetic, the distance and time between two dates, and that is what can be included in the model.
 >
-> **[4:40](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/expanding-our-definition-of-level-of-measurement?u=76281980&t=280)** So here you want to be spotting those dates and be thinking about what kinds of manipulations you might need to make during the data preparation phase down the line.
+> **[4:40](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/expanding-our-definition-of-level-of-measurement?u=76281980&t=280)** So here you want to be spotting those dates and be thinking about what kinds of manipulations you might need to make during the [[Data Preparation]] phase down the line.
 >
 > **[4:51](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/expanding-our-definition-of-level-of-measurement?u=76281980&t=291)** Another example would be extracting from a date, whether or not it's a weekday or weekend.
 >
 > **[4:59](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/expanding-our-definition-of-level-of-measurement?u=76281980&t=299)** Finally, regarding the text, what you have to do is turn that text into something that the supervised model can use.
 >
-> **[5:08](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/expanding-our-definition-of-level-of-measurement?u=76281980&t=308)** Now, text mining is a topic in and of itself.
+> **[5:08](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/expanding-our-definition-of-level-of-measurement?u=76281980&t=308)** Now, [[Text Mining]] is a topic in and of itself.
 >
 > **[5:11](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/expanding-our-definition-of-level-of-measurement?u=76281980&t=311)** But here what we're doing is we're scanning unstructured texts to see, are there opportunities to extract discrete pieces of information that could be used in a supervised model?
 >
@@ -1137,7 +1120,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Statistics]] (1), [[Banking]] (1), [[Algorithms]] (1), product (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Data Integration]] (1), [[Banking]] (1), [[Algorithms]] (1), [[Unstructured Data]] (1)
 > **Analogies:** for instance (6)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is an  (1), means that (1), is a  (1)
@@ -1146,8 +1129,7 @@ created: 2026-05-02
 > **Warnings:** watch out (1)
 > **Speakers:** - [instructor] (1)
 
-#### Taking an initial look at possible key variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/taking-an-initial-look-at-possible-key-variables?u=76281980)
+#### [Taking an initial look at possible key variables](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/taking-an-initial-look-at-possible-key-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1205,13 +1187,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5)
 > **Analogies:** for instance (3)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dealing with duplicate IDs and transactional data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/dealing-with-duplicate-ids-and-transactional-data?u=76281980)
+#### [Dealing with duplicate IDs and transactional data](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/dealing-with-duplicate-ids-and-transactional-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1301,15 +1281,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1)
 > **CLI Commands:** find (3)
 > **Analogies:** imagine (1), for instance (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - okay (1)
 
-#### How many potential variables (columns) will I have?
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-many-potential-variables-columns-will-i-have?u=76281980)
+#### [How many potential variables (columns) will I have?](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-many-potential-variables-columns-will-i-have?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1319,7 +1297,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-many-potential-variables-columns-will-i-have?u=76281980&t=20)** Well, our ID field isn't going to help us at all in the modeling phase, even though it's critical now.
 >
-> **[0:26](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-many-potential-variables-columns-will-i-have?u=76281980&t=26)** These new variables, these features, we usually call them feature engineering, is the phrase of generating this new information from the original information, those are probably going to be terribly helpful.
+> **[0:26](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-many-potential-variables-columns-will-i-have?u=76281980&t=26)** These new variables, these features, we usually call them [[Feature Engineering]], is the phrase of generating this new information from the original information, those are probably going to be terribly helpful.
 >
 > **[0:38](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-many-potential-variables-columns-will-i-have?u=76281980&t=38)** Gender, possibly, but look, all of this stuff really can't help us at all.
 >
@@ -1433,14 +1411,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Feature Engineering]] (1), data (1), database (1)
+> **Frameworks & Libraries:** [[Feature Engineering]] (1)
 > **Env Vars:** zip (2)
 > **CLI Commands:** make (1)
 > **URLs:** [fakedata.com](https://fakedata.com) (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to deal with high-order multiple nominals
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-deal-with-high-order-multiple-nominals?u=76281980)
+#### [How to deal with high-order multiple nominals](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-deal-with-high-order-multiple-nominals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1482,11 +1459,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Security]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Identifying the level of measurement
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/challenge-identifying-the-level-of-measurement?u=76281980)
+#### [Challenge: Identifying the level of measurement](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/challenge-identifying-the-level-of-measurement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1528,14 +1503,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8)
 > **CLI Commands:** make (3), find (1)
 > **Tools:** notion (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat electronic music) (1)
 
-#### Solution: Identifying the level of measurement
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/solution-identifying-the-level-of-measurement?u=76281980)
+#### [Solution: Identifying the level of measurement](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/solution-identifying-the-level-of-measurement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1633,7 +1606,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4)
 > **Definitions:** stands for (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we talked about (1)
@@ -1646,18 +1618,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing the KNIME Analytics Platform
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-the-knime-analytics-platform?u=76281980)
+#### [Introducing the KNIME Analytics Platform](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-the-knime-analytics-platform?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-the-knime-analytics-platform?u=76281980&t=0)** Welcome to the KNIME Analytics Platform.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-the-knime-analytics-platform?u=76281980&t=0)** Welcome to the [[Knime]] Analytics Platform.
 >
 > **[0:04](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-the-knime-analytics-platform?u=76281980&t=4)** We're going to be using KNIME, for some of the demonstrations in this course, really for three reasons.
 >
 > **[0:11](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-the-knime-analytics-platform?u=76281980&t=11)** It's free, it's easy to learn.
 >
-> **[0:14](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-the-knime-analytics-platform?u=76281980&t=14)** And it's really been specifically designed, to support Predictive Analytics Modeling.
+> **[0:14](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-the-knime-analytics-platform?u=76281980&t=14)** And it's really been specifically designed, to support [[Predictive Analytics]] Modeling.
 >
 > **[0:19](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-the-knime-analytics-platform?u=76281980&t=19)** So it gives us all the features that we would need for the demonstrations.
 >
@@ -1741,20 +1712,19 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-the-knime-analytics-platform?u=76281980&t=236)** And the reason that I love that trick is that, that gives you license.
 >
-> **[4:00](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-the-knime-analytics-platform?u=76281980&t=240)** to manipulate the windows and completely closed things or expand things and not feel as though, it's going to be a lot of work to go back to where you started, that is more than enough for now.
+> **[4:00](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-the-knime-analytics-platform?u=76281980&t=240)** to manipulate the [[Windows]] and completely closed things or expand things and not feel as though, it's going to be a lot of work to go back to where you started, that is more than enough for now.
 >
 > **[4:11](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-the-knime-analytics-platform?u=76281980&t=251)** So welcome to KNIME.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Knime]] (16), [[Analytics]] (2), node (2), [[Predictive Analytics]] (1), open-source (1)
+> **Frameworks & Libraries:** [[Knime]] (16), [[Predictive Analytics]] (1), [[Windows]] (1)
 > **Env Vars:** knime (16), examples (3)
 > **UI Navigation:** go to (6), double-click (2), click on (2)
 > **CLI Commands:** find (2), node (2), make (1)
 > **Prerequisites:** set up (1), install (1)
 
-#### Tips and tricks to consider during data loading
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/tips-and-tricks-to-consider-during-data-loading?u=76281980)
+#### [Tips and tricks to consider during data loading](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/tips-and-tricks-to-consider-during-data-loading?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1800,7 +1770,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/tips-and-tricks-to-consider-during-data-loading?u=76281980&t=110)** Since the comma placement seems to be uniform, we don't seem to have any big challenges like that.
 >
-> **[1:57](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/tips-and-tricks-to-consider-during-data-loading?u=76281980&t=117)** Let's take a look at what this might look like if we brought it into Excel.
+> **[1:57](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/tips-and-tricks-to-consider-during-data-loading?u=76281980&t=117)** Let's take a look at what this might look like if we brought it into [[Microsoft Excel|Excel]].
 >
 > **[2:01](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/tips-and-tricks-to-consider-during-data-loading?u=76281980&t=121)** Okay, now what I've done is without importing it into Excel, I've simply right clicked on it and forced it in and Excel didn't know what to make of it.
 >
@@ -1820,7 +1790,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/tips-and-tricks-to-consider-during-data-loading?u=76281980&t=170)** So you won't be using the CSV file but these are the challenges that you might encounter on our real-world project.
 >
-> **[2:57](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/tips-and-tricks-to-consider-during-data-loading?u=76281980&t=177)** Let's take a look at it in KNIME.
+> **[2:57](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/tips-and-tricks-to-consider-during-data-loading?u=76281980&t=177)** Let's take a look at it in [[Knime]].
 >
 > **[3:01](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/tips-and-tricks-to-consider-during-data-loading?u=76281980&t=181)** Here we are in KNIME.
 >
@@ -1892,7 +1862,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (16), data (9), [[Knime]] (6), feature (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (16), [[Knime]] (6)
 > **Env Vars:** knime (6), csv (4), uci (3)
 > **CLI Commands:** make (3), node (1)
 > **UI Navigation:** click on (2), go to (1)
@@ -1900,14 +1870,13 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Unit analysis decisions
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/unit-analysis-decisions?u=76281980)
+#### [Unit analysis decisions](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/unit-analysis-decisions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/unit-analysis-decisions?u=76281980&t=0)** - [Narrator] I want to talk about a terribly important issue, and that is, how to structure your data set in terms of what you want your row to be.
 >
-> **[0:10](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/unit-analysis-decisions?u=76281980&t=10)** Now, I'm looking at the Census Income Data Set in it's excel version, in excel with the header row, so that we can focus on the data.
+> **[0:10](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/unit-analysis-decisions?u=76281980&t=10)** Now, I'm looking at the Census Income Data Set in it's [[Microsoft Excel|excel]] version, in excel with the header row, so that we can focus on the data.
 >
 > **[0:21](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/unit-analysis-decisions?u=76281980&t=21)** So we don't have to worry about setting up the variable names, everything's all set and Census Income Data Set in its excel form is found in the originals folder.
 >
@@ -1991,7 +1960,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (3)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (2)
@@ -2000,8 +1969,7 @@ created: 2026-05-02
 > **Best Practices:** rule of thumb (1)
 > **Warnings:** be aware (1)
 
-#### Challenge: What should the row be?
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/challenge-what-should-the-row-be?u=76281980)
+#### [Challenge: What should the row be?](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/challenge-what-should-the-row-be?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2009,7 +1977,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/challenge-what-should-the-row-be?u=76281980&t=5)** - [Instructor] Here's your next challenge.
 >
-> **[0:08](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/challenge-what-should-the-row-be?u=76281980&t=8)** You're going to determine how to structure a predictive modeling problem using the Titanic dataset.
+> **[0:08](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/challenge-what-should-the-row-be?u=76281980&t=8)** You're going to determine how to structure a [[Predictive Modeling]] problem using the Titanic dataset.
 >
 > **[0:16](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/challenge-what-should-the-row-be?u=76281980&t=16)** It's the same dataset, we'll be grabbing that from the Originals folder.
 >
@@ -2065,15 +2033,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1), [[Predictive Modeling]] (1), business (1), feature (1)
+> **Frameworks & Libraries:** [[Predictive Modeling]] (1)
 > **Prerequisites:** set up (2)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat uplifting music) (1)
 
-#### Solution: What should the row be?
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/solution-what-should-the-row-be?u=76281980)
+#### [Solution: What should the row be?](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/solution-what-should-the-row-be?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2149,7 +2116,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/solution-what-should-the-row-be?u=76281980&t=184)** And it looks like we've got no duplicates.
 >
-> **[3:11](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/solution-what-should-the-row-be?u=76281980&t=191)** Not trying to impress you with my Excel prowess, I work in predictive analytics workbenches more often than I work Excel.
+> **[3:11](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/solution-what-should-the-row-be?u=76281980&t=191)** Not trying to impress you with my [[Microsoft Excel|Excel]] prowess, I work in [[Predictive Analytics]] workbenches more often than I work Excel.
 >
 > **[3:18](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/solution-what-should-the-row-be?u=76281980&t=198)** But that was quick and easy enough, we figured out that it looks like all the passenger IDs have one passenger assigned to them and that's it.
 >
@@ -2227,7 +2194,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (2), [[Predictive Analytics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Predictive Analytics]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** go back to (2)
 > **UI Navigation:** scroll down (1)
@@ -2241,12 +2208,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to uncover the gross properties of the data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-uncover-the-gross-properties-of-the-data?u=76281980)
+#### [How to uncover the gross properties of the data](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-uncover-the-gross-properties-of-the-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-uncover-the-gross-properties-of-the-data?u=76281980&t=0)** - [Instructor] Okay, we're back in the CRISP-DM document.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-uncover-the-gross-properties-of-the-data?u=76281980&t=0)** - [Instructor] Okay, we're back in the [[CRISP-DM]] document.
 >
 > **[0:03](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-uncover-the-gross-properties-of-the-data?u=76281980&t=3)** You know, far too few look over this document carefully enough to discover that the real heart of the document is part three, the user's guide.
 >
@@ -2274,7 +2240,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-uncover-the-gross-properties-of-the-data?u=76281980&t=75)** It's a bit ambiguous in the document and I want to clear this up.
 >
-> **[1:19](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-uncover-the-gross-properties-of-the-data?u=76281980&t=79)** I would save the descriptive statistics for the next task, explore data, because you want to move more briskly here in describe data, mostly focus on what are the typical values and if they are nominal or ordinal and if so, how many categories?
+> **[1:19](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-uncover-the-gross-properties-of-the-data?u=76281980&t=79)** I would save the descriptive [[Statistics]] for the next task, explore data, because you want to move more briskly here in describe data, mostly focus on what are the typical values and if they are nominal or ordinal and if so, how many categories?
 >
 > **[1:40](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-uncover-the-gross-properties-of-the-data?u=76281980&t=100)** Finally, is there anything that looks unstructured, like free text?
 >
@@ -2310,14 +2276,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[CRISP-DM]] (2), [[Statistics]] (1), next (1)
+> **Frameworks & Libraries:** [[CRISP-DM]] (2), [[Statistics]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** crisp (2)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Researching the dataset
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/researching-the-dataset?u=76281980)
+#### [Researching the dataset](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/researching-the-dataset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2335,7 +2300,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/researching-the-dataset?u=76281980&t=25)** What I want you to imagine is that you're pulling data from a data warehouse or from another source.
 >
-> **[0:30](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/researching-the-dataset?u=76281980&t=30)** And the IT team is going to maintain some kind of a data catalog, data dictionary, metadata that's going to help you understand where the data is.
+> **[0:30](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/researching-the-dataset?u=76281980&t=30)** And the IT team is going to maintain some kind of a data catalog, data dictionary, [[Metadata]] that's going to help you understand where the data is.
 >
 > **[0:38](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/researching-the-dataset?u=76281980&t=38)** However, don't underestimate how frequently you're going to be pulling data from all kinds of different places.
 >
@@ -2419,7 +2384,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), web (3), [[Metadata]] (2), database (2), hit (1)
+> **Frameworks & Libraries:** [[Metadata]] (2)
 > **Tools:** notion (5)
 > **Env Vars:** uci (1), pdf (1)
 > **UI Navigation:** scroll down (1), go to (1)
@@ -2428,14 +2393,13 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Warnings:** caution (1)
 
-#### Tips and tricks using simple aggregation commands
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/tips-and-tricks-using-simple-aggregation-commands?u=76281980)
+#### [Tips and tricks using simple aggregation commands](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/tips-and-tricks-using-simple-aggregation-commands?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/tips-and-tricks-using-simple-aggregation-commands?u=76281980&t=0)** - [Instructor] Here we are in KNIME and we're going to do some simple aggregations and sorts.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/tips-and-tricks-using-simple-aggregation-commands?u=76281980&t=0)** - [Instructor] Here we are in [[Knime]] and we're going to do some simple aggregations and sorts.
 >
-> **[0:04](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/tips-and-tricks-using-simple-aggregation-commands?u=76281980&t=4)** The reason this is valuable is that we'll be able to quickly determine what's going on with our IDs and our high order nominals the same kinds of things you might do with a pivot table in Excel.
+> **[0:04](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/tips-and-tricks-using-simple-aggregation-commands?u=76281980&t=4)** The reason this is valuable is that we'll be able to quickly determine what's going on with our IDs and our high order nominals the same kinds of things you might do with a pivot table in [[Microsoft Excel|Excel]].
 >
 > **[0:15](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/tips-and-tricks-using-simple-aggregation-commands?u=76281980&t=15)** But I think it's especially quick and easy in KNIME.
 >
@@ -2505,7 +2469,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/tips-and-tricks-using-simple-aggregation-commands?u=76281980&t=187)** That's the issue at the moment, but we might be doing an elaborate merge.
 >
-> **[3:11](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/tips-and-tricks-using-simple-aggregation-commands?u=76281980&t=191)** We might be doing data integration.
+> **[3:11](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/tips-and-tricks-using-simple-aggregation-commands?u=76281980&t=191)** We might be doing [[Data Integration]].
 >
 > **[3:13](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/tips-and-tricks-using-simple-aggregation-commands?u=76281980&t=193)** So there's lots of applications for GroupBy, but our GroupBy followed by a sort now clearly indicates that the majority of our cases are from the US substantial number relative to the other countries, at least are from Mexico and 583 are from an unknown native country.
 >
@@ -2527,7 +2491,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Knime]] (4), node (4), data (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Knime]] (4), [[Microsoft Excel|Excel]] (1), [[Data Integration]] (1)
 > **CLI Commands:** node (4), find (3), make (1)
 > **Env Vars:** knime (4)
 > **UI Navigation:** click on (1)
@@ -2535,8 +2499,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### A simple strategy for organizing your work
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/a-simple-strategy-for-organizing-your-work?u=76281980)
+#### [A simple strategy for organizing your work](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/a-simple-strategy-for-organizing-your-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2618,7 +2581,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (1)
 > **Env Vars:** sme (3), uci (1)
 > **Analogies:** for instance (3), similar to (1)
 > **CLI Commands:** make (1), find (1)
@@ -2631,8 +2593,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Describe data demo using the UCI heart dataset
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/describe-data-demo-using-the-uci-heart-dataset?u=76281980)
+#### [Describe data demo using the UCI heart dataset](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/describe-data-demo-using-the-uci-heart-dataset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2658,7 +2619,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/describe-data-demo-using-the-uci-heart-dataset?u=76281980&t=44)** I encounter this in real world projects all the time.
 >
-> **[0:47](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/describe-data-demo-using-the-uci-heart-dataset?u=76281980&t=47)** The data collection might be ongoing.
+> **[0:47](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/describe-data-demo-using-the-uci-heart-dataset?u=76281980&t=47)** The [[Data Collection]] might be ongoing.
 >
 > **[0:49](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/describe-data-demo-using-the-uci-heart-dataset?u=76281980&t=49)** This data is being collected.
 >
@@ -2736,7 +2697,7 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/describe-data-demo-using-the-uci-heart-dataset?u=76281980&t=226)** You can see there's a whole bunch of different files there.
 >
-> **[3:48](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/describe-data-demo-using-the-uci-heart-dataset?u=76281980&t=228)** I've consolidated them and provided them in a single Excel spreadsheet called UCI Heart in the originals folder.
+> **[3:48](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/describe-data-demo-using-the-uci-heart-dataset?u=76281980&t=228)** I've consolidated them and provided them in a single [[Microsoft Excel|Excel]] spreadsheet called UCI Heart in the originals folder.
 >
 > **[3:58](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/describe-data-demo-using-the-uci-heart-dataset?u=76281980&t=238)** Now remember when I modify files with solutions and so on, I put those in the solutions file.
 >
@@ -2846,7 +2807,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (27), [[Security]] (2), [[Microsoft Excel|Excel]] (2), application (1), feature (1)
+> **Frameworks & Libraries:** [[Data Collection]] (4), [[Microsoft Excel|Excel]] (2)
 > **Env Vars:** uci (3), ccf (1)
 > **UI Navigation:** go to (3), scroll down (1)
 > **Definitions:** is a  (4)
@@ -2855,8 +2816,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Practice describe data with the UCI heart dataset
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/challenge-practice-describe-data-with-the-uci-heart-dataset?u=76281980)
+#### [Challenge: Practice describe data with the UCI heart dataset](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/challenge-practice-describe-data-with-the-uci-heart-dataset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2884,13 +2844,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (1)
 > **Env Vars:** uci (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (electronic music) (1)
 
-#### Solution: Practice describe data with the UCI heart dataset
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/solution-practice-describe-data-with-the-uci-heart-dataset?u=76281980)
+#### [Solution: Practice describe data with the UCI heart dataset](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/solution-practice-describe-data-with-the-uci-heart-dataset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2982,7 +2940,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Security]] (1), business (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is called (1)
 > **Warnings:** caution (1)
@@ -2994,8 +2951,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The explore data task
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/the-explore-data-task?u=76281980)
+#### [The explore data task](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/the-explore-data-task?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3019,14 +2975,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** sme (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to be effective doing univariate analysis and data visualization
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-be-effective-doing-univariate-analysis-and-data-visualization?u=76281980)
+#### [How to be effective doing univariate analysis and data visualization](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-be-effective-doing-univariate-analysis-and-data-visualization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3092,12 +3046,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Automation]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - there (1)
 
-#### Anscombe's quartet
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/anscombe-s-quartet?u=76281980)
+#### [Anscombe's quartet](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/anscombe-s-quartet?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3107,7 +3059,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/anscombe-s-quartet?u=76281980&t=12)** It has become justifiably famous as a cautionary tale.
 >
-> **[0:17](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/anscombe-s-quartet?u=76281980&t=17)** What he's trying to caution us about is don't pay attention only to descriptive statistics, and the absence of a graphical representation.
+> **[0:17](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/anscombe-s-quartet?u=76281980&t=17)** What he's trying to caution us about is don't pay attention only to descriptive [[Statistics]], and the absence of a graphical representation.
 >
 > **[0:28](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/anscombe-s-quartet?u=76281980&t=28)** So here's the trick.
 >
@@ -3137,7 +3089,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/anscombe-s-quartet?u=76281980&t=93)** So I can say equals and start to signal to it that I want to do a Pearson correlation.
 >
-> **[1:39](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/anscombe-s-quartet?u=76281980&t=99)** I'm doing this in Excel to keep it simple.
+> **[1:39](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/anscombe-s-quartet?u=76281980&t=99)** I'm doing this in [[Microsoft Excel|Excel]] to keep it simple.
 >
 > **[1:42](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/anscombe-s-quartet?u=76281980&t=102)** We obviously could look at this data in any number of places.
 >
@@ -3193,7 +3145,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/anscombe-s-quartet?u=76281980&t=206)** The trendline is actually identical.
 >
-> **[3:27](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/anscombe-s-quartet?u=76281980&t=207)** In fact, if you were to run a linear regression, you would get the same coefficients in everything.
+> **[3:27](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/anscombe-s-quartet?u=76281980&t=207)** In fact, if you were to run a [[Linear Regression]], you would get the same coefficients in everything.
 >
 > **[3:31](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/anscombe-s-quartet?u=76281980&t=211)** So I'm sure you can see where this is going but let's continue.
 >
@@ -3273,7 +3225,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Statistics]] (6), [[Microsoft Excel|Excel]] (1), [[Linear Regression]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (6), [[Microsoft Excel|Excel]] (1), [[Linear Regression]] (1)
 > **CLI Commands:** find (1)
 > **Versions:** 7.5 (1)
 > **UI Navigation:** scroll down (1)
@@ -3282,14 +3234,13 @@ created: 2026-05-02
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
 
-#### The Data Explorer node feature in KNIME
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/the-data-explorer-node-feature-in-knime?u=76281980)
+#### [The Data Explorer node feature in KNIME](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/the-data-explorer-node-feature-in-knime?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/the-data-explorer-node-feature-in-knime?u=76281980&t=0)** - [Instructor] Okay, here I am in KNIME.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/the-data-explorer-node-feature-in-knime?u=76281980&t=0)** - [Instructor] Okay, here I am in [[Knime]].
 >
-> **[0:03](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/the-data-explorer-node-feature-in-knime?u=76281980&t=3)** All I have on the workflow is the census data set in its original form, being read in by an Excel reader.
+> **[0:03](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/the-data-explorer-node-feature-in-knime?u=76281980&t=3)** All I have on the workflow is the census data set in its original form, being read in by an [[Microsoft Excel|Excel]] reader.
 >
 > **[0:12](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/the-data-explorer-node-feature-in-knime?u=76281980&t=12)** Be careful that you've declared that headers are present.
 >
@@ -3313,7 +3264,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/the-data-explorer-node-feature-in-knime?u=76281980&t=73)** And this is really one of the motivating reasons to show you KNIME with a tool like this, there's so much that's been prepared for you that makes your work easier.
 >
-> **[1:25](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/the-data-explorer-node-feature-in-knime?u=76281980&t=85)** So what makes this tool special, the so called Data Explorer, is that it recognizes the level of measurement, again using that integer and string information, to automatically do an appropriate type of descriptive statistics as well as univariate graphics.
+> **[1:25](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/the-data-explorer-node-feature-in-knime?u=76281980&t=85)** So what makes this tool special, the so called Data Explorer, is that it recognizes the level of measurement, again using that integer and string information, to automatically do an appropriate type of descriptive [[Statistics]] as well as univariate graphics.
 >
 > **[1:47](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/the-data-explorer-node-feature-in-knime?u=76281980&t=107)** So let's right click execute and open views.
 >
@@ -3371,7 +3322,7 @@ created: 2026-05-02
 >
 > **[4:26](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/the-data-explorer-node-feature-in-knime?u=76281980&t=266)** And then if I go to the Data Preview, that just allows me to not have to run a separate piece of output to look at the individual data.
 >
-> **[4:36](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/the-data-explorer-node-feature-in-knime?u=76281980&t=276)** You know, for those of you that are in Python fans, I know that you can generate a head or a tail and you can control how many rows.
+> **[4:36](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/the-data-explorer-node-feature-in-knime?u=76281980&t=276)** You know, for those of you that are in [[Python (Programming Language)|Python]] fans, I know that you can generate a head or a tail and you can control how many rows.
 >
 > **[4:44](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/the-data-explorer-node-feature-in-knime?u=76281980&t=284)** But I have to admit that when I'm at this stage in the process, I really like to be able to scroll up and down into the data set and just get some basic familiarity with it.
 >
@@ -3381,7 +3332,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Knime]] (6), [[Statistics]] (2), [[Microsoft Excel|Excel]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Knime]] (6), [[Statistics]] (2), [[Microsoft Excel|Excel]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (3), make (1), python (1), node (1)
 > **Env Vars:** knime (6)
 > **UI Navigation:** go to (1), scroll up (1)
@@ -3390,12 +3341,11 @@ created: 2026-05-02
 > **Prerequisites:** install (2)
 > **Cross-References:** coming up (1)
 
-#### How to navigate borderline cases of variable type
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-navigate-borderline-cases-of-variable-type?u=76281980)
+#### [How to navigate borderline cases of variable type](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-navigate-borderline-cases-of-variable-type?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-navigate-borderline-cases-of-variable-type?u=76281980&t=0)** - [Instructor] Okay, we're in KNIME with the same dataset, and the same workflow.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-navigate-borderline-cases-of-variable-type?u=76281980&t=0)** - [Instructor] Okay, we're in [[Knime]] with the same dataset, and the same workflow.
 >
 > **[0:05](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-navigate-borderline-cases-of-variable-type?u=76281980&t=5)** So now what we're going to talk about is variables that seem like they might be one level of measurement but where there's some benefit to call them another level of measurement.
 >
@@ -3515,11 +3465,11 @@ created: 2026-05-02
 >
 > **[4:46](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-navigate-borderline-cases-of-variable-type?u=76281980&t=286)** So what we probably need is less than 20, exactly 20, between 20 and 40, exactly 40, more than 40, something like that.
 >
-> **[4:57](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-navigate-borderline-cases-of-variable-type?u=76281980&t=297)** We have to do natural groupings that are consistent with the data and that reveal the real pattern that will help us, it will also help the algorithms when the pattern is as dramatic as what we see here.
+> **[4:57](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-navigate-borderline-cases-of-variable-type?u=76281980&t=297)** We have to do natural groupings that are consistent with the data and that reveal the real pattern that will help us, it will also help the [[Algorithms]] when the pattern is as dramatic as what we see here.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Knime]] (2), data (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Knime]] (2), [[Algorithms]] (1)
 > **UI Navigation:** click on (2), go to (2)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
@@ -3527,12 +3477,11 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to be effective in doing bivariate data visualization
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-be-effective-in-doing-bivariate-data-visualization?u=76281980)
+#### [How to be effective in doing bivariate data visualization](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-be-effective-in-doing-bivariate-data-visualization?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-be-effective-in-doing-bivariate-data-visualization?u=76281980&t=0)** - [Instructor] Okay, we're going to continue in Knime, same dataset, same workflow.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-be-effective-in-doing-bivariate-data-visualization?u=76281980&t=0)** - [Instructor] Okay, we're going to continue in [[Knime]], same dataset, same workflow.
 >
 > **[0:05](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-be-effective-in-doing-bivariate-data-visualization?u=76281980&t=5)** Let me move this histogram out of the way.
 >
@@ -3592,7 +3541,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-be-effective-in-doing-bivariate-data-visualization?u=76281980&t=172)** So there's definitely a pattern here.
 >
-> **[2:54](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-be-effective-in-doing-bivariate-data-visualization?u=76281980&t=174)** And if you are statistically inclined, you might notice that down at the bottom, on the far right, you can see probability 0.0 that's below 0.05.
+> **[2:54](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-be-effective-in-doing-bivariate-data-visualization?u=76281980&t=174)** And if you are statistically inclined, you might notice that down at the bottom, on the far right, you can see [[Probability]] 0.0 that's below 0.05.
 >
 > **[3:04](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-be-effective-in-doing-bivariate-data-visualization?u=76281980&t=184)** So for you stats fans, this is statistically significant.
 >
@@ -3636,7 +3585,7 @@ created: 2026-05-02
 >
 > **[4:56](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-be-effective-in-doing-bivariate-data-visualization?u=76281980&t=296)** But what's really noteworthy is that these outliers on age, we have folks in their 90s, both in the, under 50 and the over 50.
 >
-> **[5:05](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-be-effective-in-doing-bivariate-data-visualization?u=76281980&t=305)** And it really gets me thinking, everybody in this data set has some hours worked, but is it like a semi retired attorney who goes to the office a couple of hours a week because they're a partner in the firm or something.
+> **[5:05](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-be-effective-in-doing-bivariate-data-visualization?u=76281980&t=305)** And it really gets me thinking, everybody in this data set has some hours worked, but is it like a semi retired attorney who goes to the [[Microsoft Office|office]] a couple of hours a week because they're a partner in the firm or something.
 >
 > **[5:20](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-be-effective-in-doing-bivariate-data-visualization?u=76281980&t=320)** I'm wondering what someone in that age group is doing.
 >
@@ -3720,13 +3669,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Knime]] (2), node (1), [[Probability]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Knime]] (2), [[Probability]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (3), node (1), find (1)
 > **Versions:** 0.0 (1), 0.05 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Producing bivariate visualizations for case study 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/challenge-producing-bivariate-visualizations-for-case-study-1?u=76281980)
+#### [Challenge: Producing bivariate visualizations for case study 1](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/challenge-producing-bivariate-visualizations-for-case-study-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3754,7 +3702,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/challenge-producing-bivariate-visualizations-for-case-study-1?u=76281980&t=43)** Since we're looking at relationships that might potentially work their way into the model, it will be safer if we look at only the train partition.
 >
-> **[0:54](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/challenge-producing-bivariate-visualizations-for-case-study-1?u=76281980&t=54)** I'll be working in KNIME.
+> **[0:54](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/challenge-producing-bivariate-visualizations-for-case-study-1?u=76281980&t=54)** I'll be working in [[Knime]].
 >
 > **[0:55](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/challenge-producing-bivariate-visualizations-for-case-study-1?u=76281980&t=55)** You're welcome to use any tool you like.
 >
@@ -3768,15 +3716,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Knime]] (3), next (2), data (1)
+> **Frameworks & Libraries:** [[Knime]] (3)
 > **Env Vars:** knime (3)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (electronic music) (1)
 
-#### Solution: Producing bivariate visualizations for case study 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/solution-producing-bivariate-visualizations-for-case-study-1?u=76281980)
+#### [Solution: Producing bivariate visualizations for case study 1](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/solution-producing-bivariate-visualizations-for-case-study-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3908,7 +3855,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **UI Navigation:** click on (4), go to (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1), in other words (1)
@@ -3922,8 +3868,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to utilize an SME's time effectively
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-utilize-an-sme-s-time-effectively?u=76281980)
+#### [How to utilize an SME's time effectively](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-utilize-an-sme-s-time-effectively?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3971,17 +3916,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), business (1)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Techniques for working with the top predictors
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/techniques-for-working-with-the-top-predictors?u=76281980)
+#### [Techniques for working with the top predictors](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/techniques-for-working-with-the-top-predictors?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/techniques-for-working-with-the-top-predictors?u=76281980&t=0)** - [Instructor] I'm in KNIME with an unmodified version of the census data set, and I've started a new workflow.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/techniques-for-working-with-the-top-predictors?u=76281980&t=0)** - [Instructor] I'm in [[Knime]] with an unmodified version of the census data set, and I've started a new workflow.
 >
 > **[0:07](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/techniques-for-working-with-the-top-predictors?u=76281980&t=7)** What we're going to do now is walk through how to establish the relationships in your strong predictors to then discuss them with a subject matter expert.
 >
@@ -4011,7 +3954,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/techniques-for-working-with-the-top-predictors?u=76281980&t=135)** But for men, it's 30.6% and for women it's 10.9.
 >
-> **[2:22](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/techniques-for-working-with-the-top-predictors?u=76281980&t=142)** My experience is that even a subject matter expert, that's never worked with decision trees before can relate to this quite readily.
+> **[2:22](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/techniques-for-working-with-the-top-predictors?u=76281980&t=142)** My experience is that even a subject matter expert, that's never worked with [[Decision Trees]] before can relate to this quite readily.
 >
 > **[2:30](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/techniques-for-working-with-the-top-predictors?u=76281980&t=150)** Don't be afraid to introduce an approach like this into a meeting.
 >
@@ -4037,7 +3980,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Knime]] (2), [[Decision Trees]] (1), next (1), business (1)
+> **Frameworks & Libraries:** [[Knime]] (2), [[Decision Trees]] (1)
 > **Versions:** 24.1 (1), 30.6 (1), 10.9 (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** knime (2)
@@ -4046,8 +3989,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Advice for weak predictors
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/advice-for-weak-predictors?u=76281980)
+#### [Advice for weak predictors](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/advice-for-weak-predictors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4077,7 +4019,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/advice-for-weak-predictors?u=76281980&t=54)** That large number of zeros isn't necessarily going to bring the variants and standard deviation way down because those individuals that do have capital gains, have large ones relative to zero.
 >
-> **[1:08](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/advice-for-weak-predictors?u=76281980&t=68)** But what's going to happen is a lot of modeling algorithms don't like variables that have a lot of the same value.
+> **[1:08](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/advice-for-weak-predictors?u=76281980&t=68)** But what's going to happen is a lot of modeling [[Algorithms]] don't like variables that have a lot of the same value.
 >
 > **[1:15](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/advice-for-weak-predictors?u=76281980&t=75)** And for that reason, it might be thrown out.
 >
@@ -4187,7 +4129,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Algorithms]] (1), [[Search]] (1), game (1), next (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Code Identifiers:** gains_yes (2), guess_yes (1)
 > **Analogies:** for instance (2), imagine (1)
@@ -4196,12 +4138,11 @@ created: 2026-05-02
 > **Versions:** 24.1 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tips and tricks when searching for quirks in your data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/tips-and-tricks-when-searching-for-quirks-in-your-data?u=76281980)
+#### [Tips and tricks when searching for quirks in your data](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/tips-and-tricks-when-searching-for-quirks-in-your-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/tips-and-tricks-when-searching-for-quirks-in-your-data?u=76281980&t=0)** - [Instructor] Okay, we're in the census Income Excel spreadsheet, and I want to to talk about quirks and weird patterns and how to handle this when sitting down with a subject matter expert.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/tips-and-tricks-when-searching-for-quirks-in-your-data?u=76281980&t=0)** - [Instructor] Okay, we're in the census Income [[Microsoft Excel|Excel]] spreadsheet, and I want to to talk about quirks and weird patterns and how to handle this when sitting down with a subject matter expert.
 >
 > **[0:12](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/tips-and-tricks-when-searching-for-quirks-in-your-data?u=76281980&t=12)** Now, one of the best ways to do this since a lot of times, we're looking at the relationship between nominal variables is to run a cross tab, using the cross tab note and nine or another software that would support that.
 >
@@ -4219,9 +4160,9 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/tips-and-tricks-when-searching-for-quirks-in-your-data?u=76281980&t=78)** So you have to be creative and work your way through it.
 >
-> **[1:21](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/tips-and-tricks-when-searching-for-quirks-in-your-data?u=76281980&t=81)** So it doesn't take very long at all to confirm that these are really just the same variable in two different forms.
+> **[1:21](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/tips-and-tricks-when-searching-for-quirks-in-your-data?u=76281980&t=81)** So it doesn't take very long at all to confirm that these are really just the same variable in two different [[Forms]].
 >
-> **[1:28](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/tips-and-tricks-when-searching-for-quirks-in-your-data?u=76281980&t=88)** And the metadata should have told us that.
+> **[1:28](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/tips-and-tricks-when-searching-for-quirks-in-your-data?u=76281980&t=88)** And the [[Metadata]] should have told us that.
 >
 > **[1:31](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/tips-and-tricks-when-searching-for-quirks-in-your-data?u=76281980&t=91)** So we're fine there.
 >
@@ -4275,15 +4216,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (2), [[Forms]] (1), [[Metadata]] (1), game (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Forms]] (1), [[Metadata]] (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Warnings:** gotcha (1)
 > **Speakers:** - [instructor] (1)
 
-#### Learning when to discard rows
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/learning-when-to-discard-rows?u=76281980)
+#### [Learning when to discard rows](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/learning-when-to-discard-rows?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4331,13 +4271,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), management (1)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1), for instance (1)
 > **Speakers:** - there (1)
 
-#### Introducing ggplot2
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-ggplot2?u=76281980)
+#### [Introducing ggplot2](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-ggplot2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4345,7 +4283,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-ggplot2?u=76281980&t=8)** It's very difficult to find good options for making graphics with three or four or five or even more variables, but ggplot2 is one of them.
 >
-> **[0:19](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-ggplot2?u=76281980&t=19)** So if you want to try it, you're going to want to download RStudio right here on the website.
+> **[0:19](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-ggplot2?u=76281980&t=19)** So if you want to try it, you're going to want to download [[RStudio]] right here on the website.
 >
 > **[0:25](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-ggplot2?u=76281980&t=25)** They make it pretty straightforward.
 >
@@ -4369,19 +4307,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[RStudio]] (2), next (1)
+> **Frameworks & Libraries:** [[RStudio]] (2)
 > **CLI Commands:** make (3), find (3)
 > **Prerequisites:** install (2)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Orientating to R's ggplot2 for powerful multivariate data visualizations
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/orientating-to-r-s-ggplot2-for-powerful-multivariate-data-visualizations?u=76281980)
+#### [Orientating to R's ggplot2 for powerful multivariate data visualizations](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/orientating-to-r-s-ggplot2-for-powerful-multivariate-data-visualizations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/orientating-to-r-s-ggplot2-for-powerful-multivariate-data-visualizations?u=76281980&t=0)** - [Instructor] Okay, here we are in RStudio and what I'm going to walk you through is how to make this graphic.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/orientating-to-r-s-ggplot2-for-powerful-multivariate-data-visualizations?u=76281980&t=0)** - [Instructor] Okay, here we are in [[RStudio]] and what I'm going to walk you through is how to make this graphic.
 >
 > **[0:05](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/orientating-to-r-s-ggplot2-for-powerful-multivariate-data-visualizations?u=76281980&t=5)** Now, before I begin, let me caution you, this graphic is a little busy.
 >
@@ -4513,7 +4450,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[RStudio]] (2), power (1)
+> **Frameworks & Libraries:** [[RStudio]] (2)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (1), in other words (1)
 > **Warnings:** caution (1), be careful (1)
@@ -4521,8 +4458,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Producing multivariate visualizations for case study 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/challenge-producing-multivariate-visualizations-for-case-study-1?u=76281980)
+#### [Challenge: Producing multivariate visualizations for case study 1](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/challenge-producing-multivariate-visualizations-for-case-study-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4546,15 +4482,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (electronic music) (1)
 
-#### Solution: Producing multivariate visualizations for case study 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/solution-producing-multivariate-visualizations-for-case-study-1?u=76281980)
+#### [Solution: Producing multivariate visualizations for case study 1](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/solution-producing-multivariate-visualizations-for-case-study-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4622,7 +4556,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7)
 > **Warnings:** warning (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -4633,18 +4566,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Exploring your missing data options
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/exploring-your-missing-data-options?u=76281980)
+#### [Exploring your missing data options](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/exploring-your-missing-data-options?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/exploring-your-missing-data-options?u=76281980&t=0)** - [Instructor] The fourth task of the data understanding phase is verify data quality.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/exploring-your-missing-data-options?u=76281980&t=0)** - [Instructor] The fourth task of the data understanding phase is verify [[Data Quality]].
 >
 > **[0:07](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/exploring-your-missing-data-options?u=76281980&t=7)** Here's a small piece of the Titanic data, so what are some of the first things I would be looking for?
 >
 > **[0:13](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/exploring-your-missing-data-options?u=76281980&t=13)** Well, we have complete ID information.
 >
-> **[0:16](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/exploring-your-missing-data-options?u=76281980&t=16)** That's critical because missing IDs make data integration extremely difficult.
+> **[0:16](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/exploring-your-missing-data-options?u=76281980&t=16)** That's critical because missing IDs make [[Data Integration]] extremely difficult.
 >
 > **[0:20](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/exploring-your-missing-data-options?u=76281980&t=20)** Not impossible, but it's so problematic that if you had missing IDs, it becomes a topic for the whole team to discuss.
 >
@@ -4652,7 +4584,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/exploring-your-missing-data-options?u=76281980&t=31)** This is, perhaps, even more important.
 >
-> **[0:34](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/exploring-your-missing-data-options?u=76281980&t=34)** Supervised learning requires this variable to be present and accurate, but no problem here.
+> **[0:34](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/exploring-your-missing-data-options?u=76281980&t=34)** [[Supervised Learning]] requires this variable to be present and accurate, but no problem here.
 >
 > **[0:40](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/exploring-your-missing-data-options?u=76281980&t=40)** Now, we get to the real heart of the matter.
 >
@@ -4714,14 +4646,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Supervised Learning]] (1)
+> **Frameworks & Libraries:** [[Data Quality]] (1), [[Data Integration]] (1), [[Supervised Learning]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for instance (1), just like (1)
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
 
-#### Why you lose rows to listwise deletion
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/why-you-lose-rows-to-listwise-deletion?u=76281980)
+#### [Why you lose rows to listwise deletion](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/why-you-lose-rows-to-listwise-deletion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4747,7 +4678,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/why-you-lose-rows-to-listwise-deletion?u=76281980&t=69)** So as you can see, it's very important that you know this is going on and it's important that you aren't casual about throwing in a variable like cabin just as an experiment.
 >
-> **[1:21](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/why-you-lose-rows-to-listwise-deletion?u=76281980&t=81)** Everything you do has ripple effects and that's why assessing data quality is so important.
+> **[1:21](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/why-you-lose-rows-to-listwise-deletion?u=76281980&t=81)** Everything you do has ripple effects and that's why assessing [[Data Quality]] is so important.
 >
 > **[1:28](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/why-you-lose-rows-to-listwise-deletion?u=76281980&t=88)** So why do you need to understand listwise deletion?
 >
@@ -4773,17 +4704,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7)
+> **Frameworks & Libraries:** [[Data Quality]] (1)
 > **Cross-References:** go back to (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Investigating the provenance of the missing data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/investigating-the-provenance-of-the-missing-data?u=76281980)
+#### [Investigating the provenance of the missing data](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/investigating-the-provenance-of-the-missing-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/investigating-the-provenance-of-the-missing-data?u=76281980&t=0)** - [Instructor] A very common pattern when examining data quality is variables that cluster together in terms of their missing data.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/investigating-the-provenance-of-the-missing-data?u=76281980&t=0)** - [Instructor] A very common pattern when examining [[Data Quality]] is variables that cluster together in terms of their missing data.
 >
 > **[0:09](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/investigating-the-provenance-of-the-missing-data?u=76281980&t=9)** When one is missing, it's consistently missing on some other column, but not in a random pattern.
 >
@@ -4807,7 +4737,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/investigating-the-provenance-of-the-missing-data?u=76281980&t=63)** Well, you get a pattern of something like this.
 >
-> **[1:06](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/investigating-the-provenance-of-the-missing-data?u=76281980&t=66)** Modeling algorithms generally love scale variables.
+> **[1:06](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/investigating-the-provenance-of-the-missing-data?u=76281980&t=66)** Modeling [[Algorithms]] generally love scale variables.
 >
 > **[1:10](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/investigating-the-provenance-of-the-missing-data?u=76281980&t=70)** Many will automatically throw out strings, like name and address, but they try to fit a variable like age to the model.
 >
@@ -4847,7 +4777,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), business (2), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Data Quality]] (1), [[Algorithms]] (1)
 > **Env Vars:** sim (2)
 > **Analogies:** just like (1)
 > **Warnings:** common mistake (1)
@@ -4858,14 +4788,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing the KDD Cup 1998 data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-the-kdd-cup-1998-data?u=76281980)
+#### [Introducing the KDD Cup 1998 data](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-the-kdd-cup-1998-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-the-kdd-cup-1998-data?u=76281980&t=0)** - Okay to do a proper job talking about missing data, we need a data set with a lot of missing data.
 >
-> **[0:08](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-the-kdd-cup-1998-data?u=76281980&t=8)** In this data set, the 1998 KDD Cup, KDD is the knowledge discovery in databases conference, and they have an annual competition.
+> **[0:08](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-the-kdd-cup-1998-data?u=76281980&t=8)** In this data set, the 1998 KDD Cup, KDD is the knowledge discovery in [[Databases]] conference, and they have an annual competition.
 >
 > **[0:17](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-the-kdd-cup-1998-data?u=76281980&t=17)** The 1998 cup competition data set is famously a bit of a mess.
 >
@@ -4901,9 +4830,9 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-the-kdd-cup-1998-data?u=76281980&t=109)** Okay.
 >
-> **[1:50](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-the-kdd-cup-1998-data?u=76281980&t=110)** Now what I'd like to do is look at the data set in two forms and tell you a little bit more about it.
+> **[1:50](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-the-kdd-cup-1998-data?u=76281980&t=110)** Now what I'd like to do is look at the data set in two [[Forms]] and tell you a little bit more about it.
 >
-> **[1:56](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-the-kdd-cup-1998-data?u=76281980&t=116)** Here we are in Excel, and this has been provided to you as a CSV file, as well as an Excel file.
+> **[1:56](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-the-kdd-cup-1998-data?u=76281980&t=116)** Here we are in [[Microsoft Excel|Excel]], and this has been provided to you as a CSV file, as well as an Excel file.
 >
 > **[2:04](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-the-kdd-cup-1998-data?u=76281980&t=124)** It's called Cup 98 Learn it's the same data set we were just looking at on the website.
 >
@@ -4963,7 +4892,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), [[Microsoft Excel|Excel]] (4), [[Databases]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Databases]] (1), [[Forms]] (1)
 > **UI Navigation:** scroll down (4), go to (2)
 > **CLI Commands:** find (5)
 > **Env Vars:** kdd (2), uci (1), csv (1), spss (1)
@@ -4972,12 +4901,11 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - okay (1)
 
-#### What is the pattern of missing data in your data?
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/what-is-the-pattern-of-missing-data-in-your-data?u=76281980)
+#### [What is the pattern of missing data in your data?](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/what-is-the-pattern-of-missing-data-in-your-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/what-is-the-pattern-of-missing-data-in-your-data?u=76281980&t=0)** - [Instructor] Okay, I'm in KNIME, and I've started a new workflow called chapter 10.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/what-is-the-pattern-of-missing-data-in-your-data?u=76281980&t=0)** - [Instructor] Okay, I'm in [[Knime]], and I've started a new workflow called chapter 10.
 >
 > **[0:05](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/what-is-the-pattern-of-missing-data-in-your-data?u=76281980&t=5)** And I'm working with the reduced vars version of the data set just to make it a little bit more manageable.
 >
@@ -5071,7 +4999,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Knime]] (1), next (1)
+> **Frameworks & Libraries:** [[Knime]] (1)
 > **Env Vars:** knime (1), mbcraft (1), mbgarden (1), mbbook (1), rdate_3 (1)
 > **CLI Commands:** make (3), find (3)
 > **Cross-References:** coming up (2), go back to (1)
@@ -5080,12 +5008,11 @@ created: 2026-05-02
 > **Tools:** notion (1)
 > **Speakers:** - [instructor] (1)
 
-#### Is the missing data worth saving?
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/is-the-missing-data-worth-saving?u=76281980)
+#### [Is the missing data worth saving?](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/is-the-missing-data-worth-saving?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/is-the-missing-data-worth-saving?u=76281980&t=0)** - [Instructor] Okay, we're back in KNIME with the same data set and the same workflow, but I've added several nodes because what we're about to do is a bit elaborate.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/is-the-missing-data-worth-saving?u=76281980&t=0)** - [Instructor] Okay, we're back in [[Knime]] with the same data set and the same workflow, but I've added several nodes because what we're about to do is a bit elaborate.
 >
 > **[0:08](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/is-the-missing-data-worth-saving?u=76281980&t=8)** It'll be easier to walk you through it, with the work done in advance.
 >
@@ -5167,7 +5094,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/is-the-missing-data-worth-saving?u=76281980&t=227)** It strips away based on whether or not they subscribe to a photo publication with only two cases.
 >
-> **[3:55](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/is-the-missing-data-worth-saving?u=76281980&t=235)** Decision tree algorithms don't like to do that.
+> **[3:55](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/is-the-missing-data-worth-saving?u=76281980&t=235)** Decision tree [[Algorithms]] don't like to do that.
 >
 > **[3:58](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/is-the-missing-data-worth-saving?u=76281980&t=238)** If it's behaving that way, it's not finding much of a pattern.
 >
@@ -5197,19 +5124,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Knime]] (2), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Knime]] (2), [[Algorithms]] (1)
 > **Env Vars:** knime (2), mbcraft (2), mbcolect (1)
 > **Versions:** 5.2 (2), 8.2 (2), 5.1 (1)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Assessing imputation as a potential solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/assessing-imputation-as-a-potential-solution?u=76281980)
+#### [Assessing imputation as a potential solution](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/assessing-imputation-as-a-potential-solution?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/assessing-imputation-as-a-potential-solution?u=76281980&t=0)** - [Instructor] We're going to start by looking at the data in Excel.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/assessing-imputation-as-a-potential-solution?u=76281980&t=0)** - [Instructor] We're going to start by looking at the data in [[Microsoft Excel|Excel]].
 >
 > **[0:04](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/assessing-imputation-as-a-potential-solution?u=76281980&t=4)** Our mission is going to be to figure out if it's appropriate to impute age.
 >
@@ -5221,7 +5147,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/assessing-imputation-as-a-potential-solution?u=76281980&t=20)** It's exactly the kind of thing that's often automated in software.
 >
-> **[0:24](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/assessing-imputation-as-a-potential-solution?u=76281980&t=24)** Now remember that the actual act of imputation is usually done in the data preparation phase, but we're doing the detective work.
+> **[0:24](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/assessing-imputation-as-a-potential-solution?u=76281980&t=24)** Now remember that the actual act of imputation is usually done in the [[Data Preparation]] phase, but we're doing the detective work.
 >
 > **[0:31](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/assessing-imputation-as-a-potential-solution?u=76281980&t=31)** Does it make sense to do it?
 >
@@ -5261,7 +5187,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/assessing-imputation-as-a-potential-solution?u=76281980&t=119)** It looks like we're going to have to do more detective work.
 >
-> **[2:01](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/assessing-imputation-as-a-potential-solution?u=76281980&t=121)** So let's go into Knime.
+> **[2:01](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/assessing-imputation-as-a-potential-solution?u=76281980&t=121)** So let's go into [[Knime]].
 >
 > **[2:04](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/assessing-imputation-as-a-potential-solution?u=76281980&t=124)** I prepared a workflow in advance called chapter 10 impute, and I've done this for two reasons.
 >
@@ -5415,7 +5341,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Knime]] (2), node (2), [[Microsoft Excel|Excel]] (1), next (1)
+> **Frameworks & Libraries:** [[Knime]] (2), [[Microsoft Excel|Excel]] (1), [[Data Preparation]] (1)
 > **CLI Commands:** node (2), make (1)
 > **Versions:** 9.3 (1), 17.1 (1), 10.6 (1)
 > **Definitions:** in other words (1), is a  (1), means that (1)
@@ -5429,8 +5355,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Exploring and verifying data quality with the UCI heart dataset
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/exploring-and-verifying-data-quality-with-the-uci-heart-dataset?u=76281980)
+#### [Exploring and verifying data quality with the UCI heart dataset](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/exploring-and-verifying-data-quality-with-the-uci-heart-dataset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5452,7 +5377,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/exploring-and-verifying-data-quality-with-the-uci-heart-dataset?u=76281980&t=73)** Now we can start to talk about averaging across visits, so maybe most IDs have information, they just don't have information on every visit.
 >
-> **[1:23](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/exploring-and-verifying-data-quality-with-the-uci-heart-dataset?u=76281980&t=83)** So we can't ignore this any longer, we have to look at these negative nines, we have to look at Verify Data Quality Issues.
+> **[1:23](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/exploring-and-verifying-data-quality-with-the-uci-heart-dataset?u=76281980&t=83)** So we can't ignore this any longer, we have to look at these negative nines, we have to look at Verify [[Data Quality]] Issues.
 >
 > **[1:32](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/exploring-and-verifying-data-quality-with-the-uci-heart-dataset?u=76281980&t=92)** So the very next thing would be in my mind would be two issues, looking at the nines across, and down, but also moving to the right hand side of the data set now.
 >
@@ -5460,7 +5385,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/exploring-and-verifying-data-quality-with-the-uci-heart-dataset?u=76281980&t=118)** I really want to do both of those things.
 >
-> **[2:00](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/exploring-and-verifying-data-quality-with-the-uci-heart-dataset?u=76281980&t=120)** Let's take a quick look and KNIME to see if the Data Explorer helps us with this at all.
+> **[2:00](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/exploring-and-verifying-data-quality-with-the-uci-heart-dataset?u=76281980&t=120)** Let's take a quick look and [[Knime]] to see if the Data Explorer helps us with this at all.
 >
 > **[2:06](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/exploring-and-verifying-data-quality-with-the-uci-heart-dataset?u=76281980&t=126)** Okay, I've got a very basic stream, that's bringing in the data with the discards removed now, and we'll go into the Data Explorer View.
 >
@@ -5486,7 +5411,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/exploring-and-verifying-data-quality-with-the-uci-heart-dataset?u=76281980&t=196)** Clearly KNIME is not going to have a column for a negative nine.
 >
-> **[3:19](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/exploring-and-verifying-data-quality-with-the-uci-heart-dataset?u=76281980&t=199)** So we're going to have to go somewhat manual here, we'd either have to derive something in KNIME, or do something simple in Excel.
+> **[3:19](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/exploring-and-verifying-data-quality-with-the-uci-heart-dataset?u=76281980&t=199)** So we're going to have to go somewhat manual here, we'd either have to derive something in KNIME, or do something simple in [[Microsoft Excel|Excel]].
 >
 > **[3:27](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/exploring-and-verifying-data-quality-with-the-uci-heart-dataset?u=76281980&t=207)** So let's return to Excel, and what I'm going to suggest, is that we count the negative nines across, and down, and then look at that by location.
 >
@@ -5494,15 +5419,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), next (3), [[Knime]] (3), [[Microsoft Excel|Excel]] (2), bi (1)
+> **Frameworks & Libraries:** [[Knime]] (3), [[Microsoft Excel|Excel]] (2), [[Data Quality]] (1)
 > **Env Vars:** knime (3), cff (1)
 > **Definitions:** in other words (1), is a  (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - okay (1)
 
-#### Challenge: Quantifying missing data with the UCI heart dataset
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/challenge-quantifying-missing-data-with-the-uci-heart-dataset?u=76281980)
+#### [Challenge: Quantifying missing data with the UCI heart dataset](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/challenge-quantifying-missing-data-with-the-uci-heart-dataset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5510,7 +5434,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/challenge-quantifying-missing-data-with-the-uci-heart-dataset?u=76281980&t=5)** - [Instructor] And that brings us to our next challenge.
 >
-> **[0:09](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/challenge-quantifying-missing-data-with-the-uci-heart-dataset?u=76281980&t=9)** Working in the same Excel spreadsheet, I provided a somewhat updated one called Chapter 11 for this exercise.
+> **[0:09](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/challenge-quantifying-missing-data-with-the-uci-heart-dataset?u=76281980&t=9)** Working in the same [[Microsoft Excel|Excel]] spreadsheet, I provided a somewhat updated one called Chapter 11 for this exercise.
 >
 > **[0:19](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/challenge-quantifying-missing-data-with-the-uci-heart-dataset?u=76281980&t=19)** Count the number of -9s across each row.
 >
@@ -5526,13 +5450,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright upbeat music) (1)
 
-#### Solution: Quantifying missing data with the UCI heart dataset
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/solution-quantifying-missing-data-with-the-uci-heart-dataset?u=76281980)
+#### [Solution: Quantifying missing data with the UCI heart dataset](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/solution-quantifying-missing-data-with-the-uci-heart-dataset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5560,7 +5483,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/solution-quantifying-missing-data-with-the-uci-heart-dataset?u=76281980&t=92)** So we're going to need nines help.
 >
-> **[1:33](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/solution-quantifying-missing-data-with-the-uci-heart-dataset?u=76281980&t=93)** And that last part, which is looking at the locations, you could do a crosstab here in Excel, but I chose to do it in nine.
+> **[1:33](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/solution-quantifying-missing-data-with-the-uci-heart-dataset?u=76281980&t=93)** And that last part, which is looking at the locations, you could do a crosstab here in [[Microsoft Excel|Excel]], but I chose to do it in nine.
 >
 > **[1:41](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/solution-quantifying-missing-data-with-the-uci-heart-dataset?u=76281980&t=101)** So let's switch over to that.
 >
@@ -5606,7 +5529,7 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/solution-quantifying-missing-data-with-the-uci-heart-dataset?u=76281980&t=252)** As we start the transition from business understanding to Data Prep, many more things have to be done.
 >
-> **[4:20](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/solution-quantifying-missing-data-with-the-uci-heart-dataset?u=76281980&t=260)** For instance, the nature of this data set with its data collection in multiple locations, we've got to figure out what data is in?
+> **[4:20](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/solution-quantifying-missing-data-with-the-uci-heart-dataset?u=76281980&t=260)** For instance, the nature of this data set with its [[Data Collection]] in multiple locations, we've got to figure out what data is in?
 >
 > **[4:28](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/solution-quantifying-missing-data-with-the-uci-heart-dataset?u=76281980&t=268)** What data is out?
 >
@@ -5628,7 +5551,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Microsoft Excel|Excel]] (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Data Collection]] (1)
 > **Env Vars:** countif (6), uci_ (1)
 > **CLI Commands:** make (4), find (1)
 > **UI Navigation:** go to (2), scroll down (1)
@@ -5642,12 +5565,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why formal reports are important
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/why-formal-reports-are-important?u=76281980)
+#### [Why formal reports are important](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/why-formal-reports-are-important?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/why-formal-reports-are-important?u=76281980&t=0)** - [Instructor] When we first introduced CRISP-DM and we looked at the task list, we mentioned that the documentation requirements for each task are listed in italics, but there's another part of the document that talks about documentation.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/why-formal-reports-are-important?u=76281980&t=0)** - [Instructor] When we first introduced [[CRISP-DM]] and we looked at the task list, we mentioned that the documentation requirements for each task are listed in italics, but there's another part of the document that talks about documentation.
 >
 > **[0:20](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/why-formal-reports-are-important?u=76281980&t=20)** That's part four.
 >
@@ -5701,7 +5623,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/why-formal-reports-are-important?u=76281980&t=174)** I'm going to focus my comments on the end of phase summary, but I hope I've convinced you at this point to sit down someday soon and read CRISP-DM in its entirety.
 >
-> **[3:06](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/why-formal-reports-are-important?u=76281980&t=186)** So what about the initial data collection report?
+> **[3:06](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/why-formal-reports-are-important?u=76281980&t=186)** So what about the initial [[Data Collection]] report?
 >
 > **[3:09](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/why-formal-reports-are-important?u=76281980&t=189)** What are some of the things that would be on our mind?
 >
@@ -5713,7 +5635,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/why-formal-reports-are-important?u=76281980&t=206)** What about the data description report?
 >
-> **[3:29](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/why-formal-reports-are-important?u=76281980&t=209)** Well, this is going to have each data source described in detail, especially the descriptions of each field and all of that is going to have implications for data integration, especially the IDs that we identify.
+> **[3:29](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/why-formal-reports-are-important?u=76281980&t=209)** Well, this is going to have each data source described in detail, especially the descriptions of each field and all of that is going to have implications for [[Data Integration]], especially the IDs that we identify.
 >
 > **[3:44](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/why-formal-reports-are-important?u=76281980&t=224)** The data exploration report is going to include something that I want to quote directly from CRISP-DM.
 >
@@ -5721,11 +5643,11 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/why-formal-reports-are-important?u=76281980&t=238)** But also any kind of surprises or quirks, including your discussions with subject matter experts and their reactions to these surprises.
 >
-> **[4:09](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/why-formal-reports-are-important?u=76281980&t=249)** Also conclusions for data transformation, data cleaning, and other pre-processing.
+> **[4:09](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/why-formal-reports-are-important?u=76281980&t=249)** Also conclusions for [[Data Transformation]], [[Data Cleaning]], and other pre-processing.
 >
-> **[4:15](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/why-formal-reports-are-important?u=76281980&t=255)** That information is going to directly feed into the data preparation phase.
+> **[4:15](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/why-formal-reports-are-important?u=76281980&t=255)** That information is going to directly feed into the [[Data Preparation]] phase.
 >
-> **[4:21](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/why-formal-reports-are-important?u=76281980&t=261)** What about data quality?
+> **[4:21](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/why-formal-reports-are-important?u=76281980&t=261)** What about [[Data Quality]]?
 >
 > **[4:23](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/why-formal-reports-are-important?u=76281980&t=263)** Well the approach that you took, what you found, and finally the summary of data quality conclusions, which will also directly feed into data prep in terms of how we're going to address our missing data issues.
 >
@@ -5735,7 +5657,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[CRISP-DM]] (3), career (1), [[Data Transformation]] (1)
+> **Frameworks & Libraries:** [[CRISP-DM]] (3), [[Data Quality]] (2), [[Data Collection]] (1), [[Data Integration]] (1), [[Data Transformation]] (1)
 > **Env Vars:** crisp (3)
 > **CLI Commands:** make (1)
 > **Cross-References:** we mentioned (1)
@@ -5743,8 +5665,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a data prep to-do list
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/creating-a-data-prep-to-do-list?u=76281980)
+#### [Creating a data prep to-do list](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/creating-a-data-prep-to-do-list?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5762,7 +5683,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/creating-a-data-prep-to-do-list?u=76281980&t=30)** And a lot of formatting has already been done during data loading, so it isn't a major issue as you transition to data prep.
 >
-> **[0:39](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/creating-a-data-prep-to-do-list?u=76281980&t=39)** Data integration is a different story.
+> **[0:39](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/creating-a-data-prep-to-do-list?u=76281980&t=39)** [[Data Integration]] is a different story.
 >
 > **[0:41](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/creating-a-data-prep-to-do-list?u=76281980&t=41)** It's a major data prep task, and it has such a big impact on the data that it forces you to revisit some of the data understanding tasks.
 >
@@ -5786,7 +5707,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/creating-a-data-prep-to-do-list?u=76281980&t=111)** But while data prep might involve the act of writing code to perform the selection, most of the decisions should be made by this point.
 >
-> **[2:00](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/creating-a-data-prep-to-do-list?u=76281980&t=120)** The simplistic view of why we verify data quality is to discard variables that have too much missing data.
+> **[2:00](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/creating-a-data-prep-to-do-list?u=76281980&t=120)** The simplistic view of why we verify [[Data Quality]] is to discard variables that have too much missing data.
 >
 > **[2:09](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/creating-a-data-prep-to-do-list?u=76281980&t=129)** And automated data prep tools can't do much better than that.
 >
@@ -5794,7 +5715,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/creating-a-data-prep-to-do-list?u=76281980&t=138)** You should be transitioning into data prep with a detailed list of which variables are worth fixing, and what the possible fixes should be.
 >
-> **[2:28](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/creating-a-data-prep-to-do-list?u=76281980&t=148)** Finally, data construction and feature engineering.
+> **[2:28](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/creating-a-data-prep-to-do-list?u=76281980&t=148)** Finally, data construction and [[Feature Engineering]].
 >
 > **[2:32](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/creating-a-data-prep-to-do-list?u=76281980&t=152)** This is perhaps the most important data prep task of all.
 >
@@ -5806,17 +5727,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (34), [[Feature Engineering]] (1)
+> **Frameworks & Libraries:** [[Data Integration]] (4), [[Data Quality]] (1), [[Feature Engineering]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
 
-#### How to prepare for eventual deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-prepare-for-eventual-deployment?u=76281980)
+#### [How to prepare for eventual deployment](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-prepare-for-eventual-deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-prepare-for-eventual-deployment?u=76281980&t=0)** - [Instructor] The final phase of CRISP-DM is deployment.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-prepare-for-eventual-deployment?u=76281980&t=0)** - [Instructor] The final phase of [[CRISP-DM]] is deployment.
 >
 > **[0:06](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-prepare-for-eventual-deployment?u=76281980&t=6)** And we want to be ready, because if we don't plan for it now, it either won't happen efficiently or it won't happen at all.
 >
@@ -5842,7 +5762,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[CRISP-DM]] (1)
+> **Frameworks & Libraries:** [[CRISP-DM]] (1)
 > **Env Vars:** crisp (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -5852,8 +5772,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5877,13 +5796,13 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/next-steps?u=76281980&t=38)** When you feel ready, consider a modeling course.
 >
-> **[0:42](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/next-steps?u=76281980&t=42)** I have a number of them in the library, but a great one to take after this would be Intro to Classification, which overviews a dozen different modeling algorithms.
+> **[0:42](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/next-steps?u=76281980&t=42)** I have a number of them in the library, but a great one to take after this would be Intro to Classification, which overviews a dozen different modeling [[Algorithms]].
 >
 > **[0:52](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/next-steps?u=76281980&t=52)** It would pair with this course nicely.
 >
 > **[0:54](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/next-steps?u=76281980&t=54)** And I'd like to stay in touch.
 >
-> **[0:57](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/next-steps?u=76281980&t=57)** I can't connect with everyone, but please follow me on LinkedIn.
+> **[0:57](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/next-steps?u=76281980&t=57)** I can't connect with everyone, but please follow me on [[LinkedIn]].
 >
 > **[1:01](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/next-steps?u=76281980&t=61)** I frequently post book reviews, course announcements, and comment on industry trends.
 >
@@ -5891,7 +5810,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), data (1), feature (1), [[Algorithms]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[LinkedIn]] (1)
 > **Speakers:** - [keith (1)
 
 

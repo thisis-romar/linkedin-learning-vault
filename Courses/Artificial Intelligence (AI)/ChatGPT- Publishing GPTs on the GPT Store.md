@@ -63,12 +63,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing the GPT Store
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/publishing-your-gpts-in-the-gpt-store?u=76281980)
+#### [Introducing the GPT Store](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/publishing-your-gpts-in-the-gpt-store?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/publishing-your-gpts-in-the-gpt-store?u=76281980&t=0)** - Custom GPTs are the immediate future of OpenAI's ChatGPT.
+> **[0:00](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/publishing-your-gpts-in-the-gpt-store?u=76281980&t=0)** - [[Custom GPTs]] are the immediate future of OpenAI's [[ChatGPT]].
 >
 > **[0:05](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/publishing-your-gpts-in-the-gpt-store?u=76281980&t=5)** And with the launch of the GPT Store, you and I, and everyone else can now create GPT that perform tasks, interact with external services, and streamline interaction with AI system and share them with the world.
 >
@@ -84,7 +83,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Custom GPTs]] (1), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[Custom GPTs]] (1), [[ChatGPT]] (1)
 > **Env Vars:** gpt (7)
 > **Prerequisites:** setup (1)
 > **Speakers:** - custom (1)
@@ -94,8 +93,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is the GPT Store?
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/what-is-the-gpt-store?u=76281980)
+#### [What is the GPT Store?](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/what-is-the-gpt-store?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -103,7 +101,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/what-is-the-gpt-store?u=76281980&t=6)** Here are the key points from the initial release.
 >
-> **[0:09](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/what-is-the-gpt-store?u=76281980&t=9)** First initial rollout is for ChatGPT Plus, Team and Enterprise users.
+> **[0:09](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/what-is-the-gpt-store?u=76281980&t=9)** First initial rollout is for [[ChatGPT]] Plus, Team and Enterprise users.
 >
 > **[0:14](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/what-is-the-gpt-store?u=76281980&t=14)** Second, anyone can create a GPT on the store as long as they verify their name and a website.
 >
@@ -143,21 +141,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (3), feature (2), [[Automation]] (1), [[Search]] (1), next (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3)
 > **Env Vars:** gpt (6)
 > **URLs:** [openai.com](https://openai.com) (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - the (1)
 
-#### Preparing your account to publish GPTs
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/preparing-your-account-to-publish-gpts?u=76281980)
+#### [Preparing your account to publish GPTs](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/preparing-your-account-to-publish-gpts?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/preparing-your-account-to-publish-gpts?u=76281980&t=0)** - [Instructor] To publish GPTs in the GPT store, you first need to make some changes to your account.
 >
-> **[0:05](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/preparing-your-account-to-publish-gpts?u=76281980&t=5)** To do that, log into ChatGPT, go to the sidebar and click on your username here at the bottom.
+> **[0:05](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/preparing-your-account-to-publish-gpts?u=76281980&t=5)** To do that, log into [[ChatGPT]], go to the sidebar and click on your username here at the bottom.
 >
 > **[0:11](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/preparing-your-account-to-publish-gpts?u=76281980&t=11)** From here, you get the options, My plan, MY GPTs, Custom Instructions and Settings and Beta.
 >
@@ -281,7 +278,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), [[ChatGPT]] (3), dns (2), data (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3)
 > **UI Navigation:** click on (5), go to (3), scroll down (1), dropdown (1), navigate to (1)
 > **Env Vars:** gpt (8), dns (2)
 > **URLs:** [justmorton.com](https://justmorton.com) (3)
@@ -290,8 +287,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Publishing a GPT in the GPT Store
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/publishing-a-gpt-in-the-gpt-store?u=76281980)
+#### [Publishing a GPT in the GPT Store](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/publishing-a-gpt-in-the-gpt-store?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -371,15 +367,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1)
 > **Env Vars:** gpt (27)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** click on (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Upgrading a GPT in the GPT Store
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/upgrading-a-gpt-in-the-gpt-store?u=76281980)
+#### [Upgrading a GPT in the GPT Store](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/upgrading-a-gpt-in-the-gpt-store?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -395,7 +389,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/upgrading-a-gpt-in-the-gpt-store?u=76281980&t=40)** So let me show you practically what I'm talking about.
 >
-> **[0:44](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/upgrading-a-gpt-in-the-gpt-store?u=76281980&t=44)** In the view here, I have two windows open.
+> **[0:44](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/upgrading-a-gpt-in-the-gpt-store?u=76281980&t=44)** In the view here, I have two [[Windows]] open.
 >
 > **[0:47](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/upgrading-a-gpt-in-the-gpt-store?u=76281980&t=47)** So this is the account I use to create Poetic Science Teacher and this is another account.
 >
@@ -487,7 +481,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (1), feature (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **Env Vars:** gpt (21)
 > **CLI Commands:** make (5), find (1)
 > **Definitions:** is a  (3)
@@ -496,8 +490,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - one (1)
 
-#### Understanding policies and guidelines for GPTs
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/understanding-policies-and-guidelines-for-gpts?u=76281980)
+#### [Understanding policies and guidelines for GPTs](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/understanding-policies-and-guidelines-for-gpts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -513,9 +506,9 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/understanding-policies-and-guidelines-for-gpts?u=76281980&t=23)** First, the usage policies.
 >
-> **[0:24](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/understanding-policies-and-guidelines-for-gpts?u=76281980&t=24)** These are the general usage policies for all of OpenAI's products, and they include both ChatGPT and GPTs.
+> **[0:24](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/understanding-policies-and-guidelines-for-gpts?u=76281980&t=24)** These are the general usage policies for all of OpenAI's [[Microsoft Products|products]], and they include both [[ChatGPT]] and GPTs.
 >
-> **[0:32](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/understanding-policies-and-guidelines-for-gpts?u=76281980&t=32)** It's a good idea to read through these usage policies, because they outline how OpenAI thinks about things like privacy and responsibility.
+> **[0:32](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/understanding-policies-and-guidelines-for-gpts?u=76281980&t=32)** It's a good idea to read through these usage policies, because they outline how OpenAI thinks about things like [[Privacy]] and responsibility.
 >
 > **[0:39](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/understanding-policies-and-guidelines-for-gpts?u=76281980&t=39)** And much of what is in there protects both you and the users of your GPTs.
 >
@@ -525,7 +518,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/understanding-policies-and-guidelines-for-gpts?u=76281980&t=52)** Don't repurpose or distribute output from our services to harm others, and respect our safeguards.
 >
-> **[0:58](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/understanding-policies-and-guidelines-for-gpts?u=76281980&t=58)** Scrolling down, you find a section for building on the OpenAI API platform.
+> **[0:58](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/understanding-policies-and-guidelines-for-gpts?u=76281980&t=58)** Scrolling down, you find a section for building on the [[OpenAI API]] platform.
 >
 > **[1:02](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/understanding-policies-and-guidelines-for-gpts?u=76281980&t=62)** That's out scope for this course, but if you're working with the API, these are the rules that apply.
 >
@@ -607,7 +600,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (5), [[Privacy]] (2), api (2), next (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[Privacy]] (2), [[Microsoft Products|Products]] (1), [[OpenAI API]] (1)
 > **Env Vars:** gpt (19), api (3)
 > **CLI Commands:** find (4), make (2)
 > **Analogies:** for example (4)
@@ -619,16 +612,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Going further with GPTs
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/going-further-with-gpts?u=76281980)
+#### [Going further with GPTs](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/going-further-with-gpts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/going-further-with-gpts?u=76281980&t=0)** - And that's it, that's all you need to know to publish your own custom GPTs in the GPT Store.
+> **[0:00](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/going-further-with-gpts?u=76281980&t=0)** - And that's it, that's all you need to know to publish your own [[Custom GPTs]] in the GPT Store.
 >
 > **[0:05](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/going-further-with-gpts?u=76281980&t=5)** Now, one thing I didn't cover in this course is if you are in a team account or you're in an enterprise account, you can also publish GPTs under your team or under your enterprise, so that only people within your team or in your enterprise can see those GPTs.
 >
-> **[0:20](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/going-further-with-gpts?u=76281980&t=20)** And this is a huge advantage to people who are working in organizations that are already using ChatGPT, because now each of your colleagues and each of your teammates can build custom GPTs and share them internally to solve problems that are unique to your situation, without that information leaking out into the wider world.
+> **[0:20](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/going-further-with-gpts?u=76281980&t=20)** And this is a huge advantage to people who are working in organizations that are already using [[ChatGPT]], because now each of your colleagues and each of your teammates can build custom GPTs and share them internally to solve problems that are unique to your situation, without that information leaking out into the wider world.
 >
 > **[0:39](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/going-further-with-gpts?u=76281980&t=39)** And if you come up with a GPT internally in your team account or your enterprise account, and you realize this might have some use for people outside, you can create a GPT and publish it outside the walls as well.
 >
@@ -644,7 +636,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Custom GPTs]] (2), [[ChatGPT]] (1), [[Search]] (1), next (1)
+> **Frameworks & Libraries:** [[Custom GPTs]] (2), [[ChatGPT]] (1)
 > **Env Vars:** gpt (4)
 > **CLI Commands:** go build (2), find (1)
 > **Cross-References:** in the next (1)

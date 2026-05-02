@@ -86,4 +86,4 @@ created: 2026-05-02
 
 ## Glossary
 
-- [[000 Glossary Index]] — 660 named concepts, frameworks, libraries, and SDKs
+- [[000 Glossary Index]] — 761 named concepts, frameworks, libraries, and SDKs

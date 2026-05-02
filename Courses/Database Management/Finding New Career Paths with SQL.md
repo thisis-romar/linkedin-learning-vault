@@ -80,14 +80,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Starting your new career path with SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/starting-your-new-career-path-with-sql?u=76281980)
+#### [Starting your new career path with SQL](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/starting-your-new-career-path-with-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/starting-your-new-career-path-with-sql?u=76281980&t=1)** - [Instructor] SQL is one of the most popular programming languages, and for good reason.
+> **[0:01](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/starting-your-new-career-path-with-sql?u=76281980&t=1)** - [Instructor] [[SQL]] is one of the most popular programming languages, and for good reason.
 >
-> **[0:06](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/starting-your-new-career-path-with-sql?u=76281980&t=6)** It's a standard for programming relational databases, running queries, and doing analysis work.
+> **[0:06](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/starting-your-new-career-path-with-sql?u=76281980&t=6)** It's a standard for programming [[Relational Databases]], running queries, and doing analysis work.
 >
 > **[0:12](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/starting-your-new-career-path-with-sql?u=76281980&t=12)** But when most people think of SQL, they only think they can use it when they're going to become an analyst.
 >
@@ -99,7 +98,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/starting-your-new-career-path-with-sql?u=76281980&t=35)** We'll then use that assessment to guide us through three major areas.
 >
-> **[0:39](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/starting-your-new-career-path-with-sql?u=76281980&t=39)** Data analytics and marketing, data science, and database engineering and administration.
+> **[0:39](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/starting-your-new-career-path-with-sql?u=76281980&t=39)** Data analytics and marketing, [[Data Science]], and database engineering and administration.
 >
 > **[0:46](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/starting-your-new-career-path-with-sql?u=76281980&t=46)** Along the way, we'll look at some specific examples of each so you know what you're getting yourself into before you start down that path.
 >
@@ -107,26 +106,25 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/starting-your-new-career-path-with-sql?u=76281980&t=56)** Now I'm an expert in data-driven web applications.
 >
-> **[0:59](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/starting-your-new-career-path-with-sql?u=76281980&t=59)** But when I first started out, I was working as an analyst, and while I really liked that, I felt limited in what I could do, because in my head, what I thought was, oh, you're just an analyst, you can't do things like back in engineering or software development.
+> **[0:59](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/starting-your-new-career-path-with-sql?u=76281980&t=59)** But when I first started out, I was working as an analyst, and while I really liked that, I felt limited in what I could do, because in my head, what I thought was, oh, you're just an analyst, you can't do things like back in engineering or [[Software Development]].
 >
 > **[1:17](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/starting-your-new-career-path-with-sql?u=76281980&t=77)** So over the course of my career, I tried to figure that out, taking the skills I've already learned and applying them to other domains.
 >
-> **[1:27](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/starting-your-new-career-path-with-sql?u=76281980&t=87)** I created this LinkedIn Learning Course to help you and other people discover where you can take your career using the SQL knowledge that you already have.
+> **[1:27](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/starting-your-new-career-path-with-sql?u=76281980&t=87)** I created this [[LinkedIn]] Learning Course to help you and other people discover where you can take your career using the SQL knowledge that you already have.
 >
 > **[1:36](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/starting-your-new-career-path-with-sql?u=76281980&t=96)** So let's dive in and see where you're most excited to take your skills.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (4), data (4), career (3), [[Programming]] (2), [[Engineering]] (2)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Relational Databases]] (1), [[Data Science]] (1), [[Software Development]] (1), [[LinkedIn]] (1)
 > **Env Vars:** sql (4)
 > **Speakers:** - [instructor] (1)
 
-#### Assessing your current SQL skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/assessing-your-current-sql-skills?u=76281980)
+#### [Assessing your current SQL skills](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/assessing-your-current-sql-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/assessing-your-current-sql-skills?u=76281980&t=1)** - [Instructor] When I first started working with SQL, I created a small application in Access for clinical research.
+> **[0:01](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/assessing-your-current-sql-skills?u=76281980&t=1)** - [Instructor] When I first started working with [[SQL]], I created a small application in Access for clinical research.
 >
 > **[0:06](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/assessing-your-current-sql-skills?u=76281980&t=6)** We worked with smaller datasets with just hundreds of records, and a couple of years later, I was processing billions of records for marketing data.
 >
@@ -146,7 +144,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/assessing-your-current-sql-skills?u=76281980&t=44)** What types of tools do you use?
 >
-> **[0:46](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/assessing-your-current-sql-skills?u=76281980&t=46)** Are you working with smaller databases in Microsoft Excel or Access?
+> **[0:46](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/assessing-your-current-sql-skills?u=76281980&t=46)** Are you working with smaller [[Databases]] in [[Microsoft Excel]] or Access?
 >
 > **[0:51](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/assessing-your-current-sql-skills?u=76281980&t=51)** Before we start exploring the different careers where you can apply your skills, let's take a brief interest assessment.
 >
@@ -164,11 +162,11 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/assessing-your-current-sql-skills?u=76281980&t=89)** Make sure to note all the areas where you feel competent and examples that you found interesting.
 >
-> **[1:36](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/assessing-your-current-sql-skills?u=76281980&t=96)** The code examples are also available in the GitHub repository for this course, so feel free to go back and visit the code at any time.
+> **[1:36](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/assessing-your-current-sql-skills?u=76281980&t=96)** The code examples are also available in the [[GitHub]] repository for this course, so feel free to go back and visit the code at any time.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (4), data (4), application (1), etl (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Databases]] (1), [[Microsoft Excel]] (1), [[GitHub]] (1)
 > **Env Vars:** sql (4), etl (1)
 > **CLI Commands:** make (1)
 > **Tools:** github (1)
@@ -181,8 +179,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Finding where your interests intersect with your SQL skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/finding-where-your-interests-intersect-with-your-sql-skills?u=76281980)
+#### [Finding where your interests intersect with your SQL skills](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/finding-where-your-interests-intersect-with-your-sql-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -194,15 +191,15 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/finding-where-your-interests-intersect-with-your-sql-skills?u=76281980&t=21)** While this course is focused on fitting an existing skillset into a new career, you may want to take a few minutes to think about what really interests you.
 >
-> **[0:30](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/finding-where-your-interests-intersect-with-your-sql-skills?u=76281980&t=30)** Now, we can talk about all the really cool things we can do with SQL, but I've found I'm really motivated by the areas I'm most interested in.
+> **[0:30](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/finding-where-your-interests-intersect-with-your-sql-skills?u=76281980&t=30)** Now, we can talk about all the really cool things we can do with [[SQL]], but I've found I'm really motivated by the areas I'm most interested in.
 >
 > **[0:38](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/finding-where-your-interests-intersect-with-your-sql-skills?u=76281980&t=38)** For example, if you found you wanted to see more about how to add new customers using the web app, maybe you're more interested in the backend engineering side.
 >
 > **[0:47](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/finding-where-your-interests-intersect-with-your-sql-skills?u=76281980&t=47)** Or you found that this query led to questions like what variables help to predict the number of sales?
 >
-> **[0:54](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/finding-where-your-interests-intersect-with-your-sql-skills?u=76281980&t=54)** Then maybe you're more interested in the data science sid.
+> **[0:54](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/finding-where-your-interests-intersect-with-your-sql-skills?u=76281980&t=54)** Then maybe you're more interested in the [[Data Science]] sid.
 >
-> **[0:57](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/finding-where-your-interests-intersect-with-your-sql-skills?u=76281980&t=57)** Or maybe you're drawn to understanding insights and figuring out the best ways to visualize dashboards.
+> **[0:57](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/finding-where-your-interests-intersect-with-your-sql-skills?u=76281980&t=57)** Or maybe you're drawn to understanding insights and figuring out the best ways to visualize [[Dashboards]].
 >
 > **[1:03](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/finding-where-your-interests-intersect-with-your-sql-skills?u=76281980&t=63)** In the next section, we'll cover three areas, analytics, data science, and engineering, that are closely related to using SQL in practice.
 >
@@ -216,7 +213,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (2), [[SQL]] (2), [[Engineering]] (2), data (2), web (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Data Science]] (2), [[Dashboards]] (1)
 > **Env Vars:** sql (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
@@ -224,8 +221,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identifying gaps and opportunities to learn
-> [LinkedIn Learning](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/identifying-gaps-and-opportunities-to-learn?u=76281980)
+#### [Identifying gaps and opportunities to learn](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/identifying-gaps-and-opportunities-to-learn?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -235,7 +231,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/identifying-gaps-and-opportunities-to-learn?u=76281980&t=11)** Let's build on them.
 >
-> **[0:12](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/identifying-gaps-and-opportunities-to-learn?u=76281980&t=12)** Remember, SQL is a great data skill that can cross industries and domains.
+> **[0:12](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/identifying-gaps-and-opportunities-to-learn?u=76281980&t=12)** Remember, [[SQL]] is a great data skill that can cross industries and domains.
 >
 > **[0:18](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/identifying-gaps-and-opportunities-to-learn?u=76281980&t=18)** Learning different ways to apply the same programming language is a great way of identifying opportunities to learn.
 >
@@ -281,9 +277,9 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/identifying-gaps-and-opportunities-to-learn?u=76281980&t=122)** For example, I may want to move from an analyst to a software or engineering role.
 >
-> **[2:08](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/identifying-gaps-and-opportunities-to-learn?u=76281980&t=128)** In the analyst column, I list skills like SQL, customer training and support, documentation, business intelligence tool, and data visualization.
+> **[2:08](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/identifying-gaps-and-opportunities-to-learn?u=76281980&t=128)** In the analyst column, I list skills like SQL, customer training and support, documentation, [[Business Intelligence (BI)|business intelligence]] tool, and data visualization.
 >
-> **[2:17](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/identifying-gaps-and-opportunities-to-learn?u=76281980&t=137)** Some other more general skills could be creating good queries and understanding relational databases.
+> **[2:17](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/identifying-gaps-and-opportunities-to-learn?u=76281980&t=137)** Some other more general skills could be creating good queries and understanding [[Relational Databases]].
 >
 > **[2:25](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/identifying-gaps-and-opportunities-to-learn?u=76281980&t=145)** Next, we'll take those skills in our inventory and figure out what we can take directly into a different role.
 >
@@ -299,9 +295,9 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/identifying-gaps-and-opportunities-to-learn?u=76281980&t=182)** I have some building blocks that don't completely fit, but I can still use them.
 >
-> **[3:07](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/identifying-gaps-and-opportunities-to-learn?u=76281980&t=187)** If you're familiar with SQL, then other database systems and technologies are a little easier than someone who may not have any experience.
+> **[3:07](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/identifying-gaps-and-opportunities-to-learn?u=76281980&t=187)** If you're familiar with SQL, then other [[Database Systems]] and technologies are a little easier than someone who may not have any experience.
 >
-> **[3:16](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/identifying-gaps-and-opportunities-to-learn?u=76281980&t=196)** As a personal note, I've noticed learning Python data structures and unique keys and key value pairs was a little easier to learn because of my background in relational database design.
+> **[3:16](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/identifying-gaps-and-opportunities-to-learn?u=76281980&t=196)** As a personal note, I've noticed learning [[Python (Programming Language)|Python]] [[Data Structures]] and unique keys and key value pairs was a little easier to learn because of my background in relational [[Database Design]].
 >
 > **[3:29](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/identifying-gaps-and-opportunities-to-learn?u=76281980&t=209)** Over the next few sections, think about the skills you have along with SQL that you can translate.
 >
@@ -311,7 +307,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[SQL]] (4), data (3), [[Programming]] (2), career (2)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Business Intelligence (BI)|Business intelligence]] (1), [[Relational Databases]] (1), [[Database Systems]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** sql (4)
 > **Definitions:** is a  (3)
 > **CLI Commands:** python (1)
@@ -319,14 +315,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Possible career paths that can use your SQL skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/possible-career-paths-that-can-use-your-sql-skills?u=76281980)
+#### [Possible career paths that can use your SQL skills](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/possible-career-paths-that-can-use-your-sql-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/possible-career-paths-that-can-use-your-sql-skills?u=76281980&t=1)** - [Instructor] Next, we'll go over three different career areas.
 >
-> **[0:03](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/possible-career-paths-that-can-use-your-sql-skills?u=76281980&t=3)** The goal is to help identify opportunities to build your skill inventory in addition to SQL that will prepare you for new career roles.
+> **[0:03](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/possible-career-paths-that-can-use-your-sql-skills?u=76281980&t=3)** The goal is to help identify opportunities to build your skill inventory in addition to [[SQL]] that will prepare you for new career roles.
 >
 > **[0:11](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/possible-career-paths-that-can-use-your-sql-skills?u=76281980&t=11)** We'll take a look at some code examples, as well as some modern tools that may help you with identifying those learning goals.
 >
@@ -334,17 +329,17 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/possible-career-paths-that-can-use-your-sql-skills?u=76281980&t=25)** They could use someone like you that has experienced with the SQL language, and there are several different areas where you can fit in.
 >
-> **[0:31](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/possible-career-paths-that-can-use-your-sql-skills?u=76281980&t=31)** In Analytics, we'll discuss building on the analyst skills in fields such as marketing, creating code to calculate web analytics, and developing visualizations and dashboards.
+> **[0:31](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/possible-career-paths-that-can-use-your-sql-skills?u=76281980&t=31)** In Analytics, we'll discuss building on the analyst skills in fields such as marketing, creating code to calculate [[Web Analytics]], and developing visualizations and [[Dashboards]].
 >
 > **[0:42](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/possible-career-paths-that-can-use-your-sql-skills?u=76281980&t=42)** This is a great area where you can transfer those skills you listed in your inventory.
 >
-> **[0:49](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/possible-career-paths-that-can-use-your-sql-skills?u=76281980&t=49)** In Data Science, we'll move more into research where we'll discuss using SQL in descriptive and predictive analytics.
+> **[0:49](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/possible-career-paths-that-can-use-your-sql-skills?u=76281980&t=49)** In [[Data Science]], we'll move more into research where we'll discuss using SQL in descriptive and [[Predictive Analytics]].
 >
 > **[0:56](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/possible-career-paths-that-can-use-your-sql-skills?u=76281980&t=56)** This is an area where you can transfer as well as translate some of your SQL skills, so applies to other programming languages used in data science.
 >
-> **[1:05](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/possible-career-paths-that-can-use-your-sql-skills?u=76281980&t=65)** In engineering, we'll discuss translating skills in areas such as data engineering and web and mobile development.
+> **[1:05](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/possible-career-paths-that-can-use-your-sql-skills?u=76281980&t=65)** In engineering, we'll discuss translating skills in areas such as [[Data Engineering]] and web and [[Mobile Development]].
 >
-> **[1:12](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/possible-career-paths-that-can-use-your-sql-skills?u=76281980&t=72)** This is an excellent opportunity to translate your knowledge of SQL and use other object-oriented programming languages like Python.
+> **[1:12](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/possible-career-paths-that-can-use-your-sql-skills?u=76281980&t=72)** This is an excellent opportunity to translate your knowledge of SQL and use other [[Object-Oriented Programming (OOP)|object-oriented programming]] languages like [[Python (Programming Language)|Python]].
 >
 > **[1:21](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/possible-career-paths-that-can-use-your-sql-skills?u=76281980&t=81)** So don't forget to keep your skills inventory list handy, and feel free to add more columns as you find more career interest areas.
 >
@@ -352,11 +347,11 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/possible-career-paths-that-can-use-your-sql-skills?u=76281980&t=94)** Even though the live database is not available, feel free to explore the concepts that the code demonstrates.
 >
-> **[1:40](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/possible-career-paths-that-can-use-your-sql-skills?u=76281980&t=100)** Now, if you're ready, let's get started with applying sequel and careers in marketing analytics.
+> **[1:40](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/possible-career-paths-that-can-use-your-sql-skills?u=76281980&t=100)** Now, if you're ready, let's get started with applying sequel and careers in [[Marketing Analytics]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (5), career (3), data (3), [[Analytics]] (2), web (2)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Data Science]] (2), [[Web Analytics]] (1), [[Dashboards]] (1), [[Predictive Analytics]] (1)
 > **Env Vars:** sql (5)
 > **Definitions:** is an  (2), is a  (1)
 > **CLI Commands:** python (1), find (1)
@@ -369,14 +364,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### SQL in digital marketing
-> [LinkedIn Learning](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/sql-in-digital-marketing?u=76281980)
+#### [SQL in digital marketing](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/sql-in-digital-marketing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/sql-in-digital-marketing?u=76281980&t=1)** - [Instructor] When most people think of the SQL language, they probably think of the more traditional analyst role.
+> **[0:01](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/sql-in-digital-marketing?u=76281980&t=1)** - [Instructor] When most people think of the [[SQL]] language, they probably think of the more traditional analyst role.
 >
-> **[0:06](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/sql-in-digital-marketing?u=76281980&t=6)** You might imagine someone crunching numbers and using Excel formulas to create reports for a company to review.
+> **[0:06](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/sql-in-digital-marketing?u=76281980&t=6)** You might imagine someone crunching numbers and using [[Microsoft Excel|Excel]] formulas to create reports for a company to review.
 >
 > **[0:12](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/sql-in-digital-marketing?u=76281980&t=12)** Well, that's part of it.
 >
@@ -390,7 +384,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/sql-in-digital-marketing?u=76281980&t=36)** So it's not just the numbers, but the message we want the data to tell us.
 >
-> **[0:41](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/sql-in-digital-marketing?u=76281980&t=41)** In marketing analytics, the SQL language is commonly used for inquiries about a company's past performance so they can get insight on how well they're doing.
+> **[0:41](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/sql-in-digital-marketing?u=76281980&t=41)** In [[Marketing Analytics]], the SQL language is commonly used for inquiries about a company's past performance so they can get insight on how well they're doing.
 >
 > **[0:51](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/sql-in-digital-marketing?u=76281980&t=51)** For smaller datasets, Excel works great.
 >
@@ -406,9 +400,9 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/sql-in-digital-marketing?u=76281980&t=87)** Some common KPIs using website analytics include total and unique visitors, bounce rate and page views, all of which can be used to track conversion rates from visitors to customers.
 >
-> **[1:39](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/sql-in-digital-marketing?u=76281980&t=99)** Let's take a look at some data from Google Analytics.
+> **[1:39](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/sql-in-digital-marketing?u=76281980&t=99)** Let's take a look at some data from [[Google]] Analytics.
 >
-> **[1:44](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/sql-in-digital-marketing?u=76281980&t=104)** Here's a Google Analytics example derived from the public datasets available in BigQuery, all of which are available on the Google Cloud platform.
+> **[1:44](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/sql-in-digital-marketing?u=76281980&t=104)** Here's a Google Analytics example derived from the public datasets available in BigQuery, all of which are available on the [[Google Cloud Platform (GCP)|Google Cloud platform]].
 >
 > **[1:54](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/sql-in-digital-marketing?u=76281980&t=114)** BigQuery is Google's serverless data warehouse solution.
 >
@@ -426,23 +420,22 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/sql-in-digital-marketing?u=76281980&t=155)** We can query directly in the web browser using the analytics data and import our sales data to make a connection between the two.
 >
-> **[2:45](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/sql-in-digital-marketing?u=76281980&t=165)** As analysts, we work directly with databases via database management tools like MySQL Workbench or Microsoft SQL Server Management Studio, DB Browser, or even an IDE like Microsoft Visual Studio Code.
+> **[2:45](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/sql-in-digital-marketing?u=76281980&t=165)** As analysts, we work directly with [[Databases]] via [[Database Management]] tools like [[MySQL]] Workbench or [[Microsoft SQL Server]] Management Studio, DB Browser, or even an IDE like [[Microsoft]] Visual Studio Code.
 >
 > **[2:59](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/sql-in-digital-marketing?u=76281980&t=179)** The syntax may be a little different depending on the DBMS, but the majority of SQL is standard and will remain similar.
 >
-> **[3:08](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/sql-in-digital-marketing?u=76281980&t=188)** If you're interested in learning more about business and marketing analytics using SQL, check out more LinkedIn Learning courses on SQL foundations and business analytics.
+> **[3:08](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/sql-in-digital-marketing?u=76281980&t=188)** If you're interested in learning more about business and marketing analytics using SQL, check out more [[LinkedIn]] Learning courses on SQL foundations and [[Business Analytics]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Analytics]] (6), [[SQL]] (5), [[Google]] (4), [[Marketing Analytics]] (3)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Google]] (4), [[Marketing Analytics]] (3), [[Microsoft Excel|Excel]] (2), [[Google Cloud Platform (GCP)|Google cloud platform]] (1)
 > **Env Vars:** sql (6), ide (1), dbms (1)
 > **CLI Commands:** find (1), make (1), mysql (1)
 > **Tools:** visual studio (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Modern data visualization and dashboards
-> [LinkedIn Learning](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/modern-data-visualization-and-dashboards?u=76281980)
+#### [Modern data visualization and dashboards](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/modern-data-visualization-and-dashboards?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -450,7 +443,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/modern-data-visualization-and-dashboards?u=76281980&t=7)** Data visualization is the graphic representation of data to help tell a story.
 >
-> **[0:12](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/modern-data-visualization-and-dashboards?u=76281980&t=12)** Data can be represented as tables, maps, graphs, charts, and infographics.
+> **[0:12](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/modern-data-visualization-and-dashboards?u=76281980&t=12)** Data can be represented as tables, maps, graphs, charts, and [[Infographics]].
 >
 > **[0:18](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/modern-data-visualization-and-dashboards?u=76281980&t=18)** Visualizing data makes complex information easier to understand, and allows people to make informed decisions faster.
 >
@@ -466,23 +459,23 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/modern-data-visualization-and-dashboards?u=76281980&t=71)** You may find analysts that use data visualization as well as professionals whose career is solely focused on the visualization part outside of the data.
 >
-> **[1:21](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/modern-data-visualization-and-dashboards?u=76281980&t=81)** Systems like GIS, or Geographic Information Systems, use relational data and geospatial data to create maps, to show information like areas of disease outbreaks, the highest concentration of broadband access, or where we can find our favorite barbecue restaurants across the country?
+> **[1:21](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/modern-data-visualization-and-dashboards?u=76281980&t=81)** Systems like GIS, or [[Geographic Information Systems (GIS)|Geographic Information Systems]], use relational data and geospatial data to create maps, to show information like areas of disease outbreaks, the highest concentration of broadband access, or where we can find our favorite barbecue restaurants across the country?
 >
-> **[1:41](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/modern-data-visualization-and-dashboards?u=76281980&t=101)** Let's tie this back into marketing and business analytics, dashboards are a way to incorporate multiple visualizations into one place that is easily accessible by a team or group of decision-makers.
+> **[1:41](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/modern-data-visualization-and-dashboards?u=76281980&t=101)** Let's tie this back into marketing and [[Business Analytics]], [[Dashboards]] are a way to incorporate multiple visualizations into one place that is easily accessible by a team or group of decision-makers.
 >
-> **[1:55](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/modern-data-visualization-and-dashboards?u=76281980&t=115)** This dashboard gives us an overview of the sales each month, a map of our customers, and the company's best-selling products.
+> **[1:55](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/modern-data-visualization-and-dashboards?u=76281980&t=115)** This dashboard gives us an overview of the sales each month, a map of our customers, and the company's best-selling [[Microsoft Products|products]].
 >
 > **[2:03](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/modern-data-visualization-and-dashboards?u=76281980&t=123)** Dashboards highlight the information that's important for management and decision makers to see at a glance.
 >
 > **[2:09](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/modern-data-visualization-and-dashboards?u=76281980&t=129)** Of course, dashboards will differ depending on the needs of the department.
 >
-> **[2:13](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/modern-data-visualization-and-dashboards?u=76281980&t=133)** Each of these visualizations are driven by SQL queries and big query, using the last section as their underlying data source.
+> **[2:13](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/modern-data-visualization-and-dashboards?u=76281980&t=133)** Each of these visualizations are driven by [[SQL]] queries and big query, using the last section as their underlying data source.
 >
-> **[2:21](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/modern-data-visualization-and-dashboards?u=76281980&t=141)** We'll commonly use data visualizations or business intelligence tools to help bring data to life.
+> **[2:21](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/modern-data-visualization-and-dashboards?u=76281980&t=141)** We'll commonly use data visualizations or [[Business Intelligence (BI)|business intelligence]] tools to help bring data to life.
 >
-> **[2:27](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/modern-data-visualization-and-dashboards?u=76281980&t=147)** Some of the more well-known data visualization tools include Microsoft Power BI, Tableau, and in this case, Google's Data Studio, but don't discount tools like Microsoft Excel.
+> **[2:27](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/modern-data-visualization-and-dashboards?u=76281980&t=147)** Some of the more well-known data visualization tools include [[Microsoft Power BI]], [[Tableau]], and in this case, [[Google]]'s Data Studio, but don't discount tools like [[Microsoft Excel]].
 >
-> **[2:38](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/modern-data-visualization-and-dashboards?u=76281980&t=158)** In fact, there are lots of built-in tools, as well as plugins, we can add to Excel to create some powerful visualizations.
+> **[2:38](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/modern-data-visualization-and-dashboards?u=76281980&t=158)** In fact, there are lots of built-in tools, as well as plugins, we can add to [[Microsoft Excel|Excel]] to create some powerful visualizations.
 >
 > **[2:46](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/modern-data-visualization-and-dashboards?u=76281980&t=166)** One of the best features of modern visualization is interactivity.
 >
@@ -494,11 +487,11 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/modern-data-visualization-and-dashboards?u=76281980&t=197)** There are many different areas where you can use these skills from marketing, accounting, and education.
 >
-> **[3:23](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/modern-data-visualization-and-dashboards?u=76281980&t=203)** Check out these popular blogs, or check out the LinkedIn Learning Library for more on data visualization.
+> **[3:23](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/modern-data-visualization-and-dashboards?u=76281980&t=203)** Check out these popular blogs, or check out the [[LinkedIn]] Learning Library for more on data visualization.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[Dashboards]] (3), [[SQL]] (3), next (1), [[Infographics]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (3), [[SQL]] (3), [[Infographics]] (1), [[Geographic Information Systems (GIS)|Geographic information systems]] (1), [[Business Analytics]] (1)
 > **CLI Commands:** make (2), find (2)
 > **Env Vars:** sql (3), gis (1)
 > **Prerequisites:** you'll need (1)
@@ -509,34 +502,32 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data science overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/data-science-overview?u=76281980)
+#### [Data science overview](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/data-science-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/data-science-overview?u=76281980&t=1)** - [Instructor] We've touched on SQL and data analysis.
+> **[0:01](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/data-science-overview?u=76281980&t=1)** - [Instructor] We've touched on [[SQL]] and data analysis.
 >
-> **[0:03](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/data-science-overview?u=76281980&t=3)** Now let's go a step further into data science.
+> **[0:03](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/data-science-overview?u=76281980&t=3)** Now let's go a step further into [[Data Science]].
 >
 > **[0:06](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/data-science-overview?u=76281980&t=6)** Actually, data analysis is kind of really a part of data science, but in this area, we'll talk more about advanced analytics that not only help the organization find patterns in their data, but also make predictions.
 >
-> **[0:20](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/data-science-overview?u=76281980&t=20)** This area of data science uses math, statistics, computer science, and incorporates more of the scientific method, which is why we see a lot of data science in research.
+> **[0:20](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/data-science-overview?u=76281980&t=20)** This area of data science uses math, [[Statistics]], computer science, and incorporates more of the scientific method, which is why we see a lot of data science in research.
 >
-> **[0:31](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/data-science-overview?u=76281980&t=31)** Data scientists use SQL along with other languages and tools for data preparation, evaluation, and then use tools for predictive analytics using artificial intelligence, like machine learning.
+> **[0:31](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/data-science-overview?u=76281980&t=31)** Data scientists use SQL along with other languages and tools for [[Data Preparation]], evaluation, and then use tools for [[Predictive Analytics]] using [[Artificial Intelligence (AI)|artificial intelligence]], like machine learning.
 >
-> **[0:43](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/data-science-overview?u=76281980&t=43)** For H+ Sport, the company has a team dedicated to advanced marketing analytics to make predictions on customer behavior and sales patterns.
+> **[0:43](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/data-science-overview?u=76281980&t=43)** For H+ Sport, the company has a team dedicated to advanced [[Marketing Analytics]] to make predictions on customer behavior and sales patterns.
 >
 > **[0:53](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/data-science-overview?u=76281980&t=53)** Let's take our own look at the roles we can fit existing SQL skills into roles related to data science, specifically descriptive and predictive analytics.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[SQL]] (3), [[Predictive Analytics]] (2), [[Analytics]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (5), [[SQL]] (3), [[Predictive Analytics]] (2), [[Statistics]] (1), [[Data Preparation]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** sql (3)
 > **Speakers:** - [instructor] (1)
 
-#### Descriptive analytics and research
-> [LinkedIn Learning](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/descriptive-analytics-and-research?u=76281980)
+#### [Descriptive analytics and research](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/descriptive-analytics-and-research?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -548,15 +539,15 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/descriptive-analytics-and-research?u=76281980&t=24)** We can even create stored functions to replicate more of the advanced functions, such as mode and correlation coefficients.
 >
-> **[0:32](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/descriptive-analytics-and-research?u=76281980&t=32)** In descriptive analytics, we use these statistical functions to describe a dataset, and this is very common in data science and research.
+> **[0:32](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/descriptive-analytics-and-research?u=76281980&t=32)** In descriptive analytics, we use these statistical functions to describe a dataset, and this is very common in [[Data Science]] and research.
 >
 > **[0:41](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/descriptive-analytics-and-research?u=76281980&t=41)** A dataset contains features and labels, and the goal was to find insights, to make sense of what has happened in the past and make predictions for the future.
 >
 > **[0:51](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/descriptive-analytics-and-research?u=76281980&t=51)** We organize the data to find the patterns and the trends.
 >
-> **[0:54](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/descriptive-analytics-and-research?u=76281980&t=54)** We can perform some simple statistic measures using built-in functions with SQL.
+> **[0:54](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/descriptive-analytics-and-research?u=76281980&t=54)** We can perform some simple statistic measures using built-in functions with [[SQL]].
 >
-> **[1:00](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/descriptive-analytics-and-research?u=76281980&t=60)** However, for more insights, we usually extract the data and explore it in other languages, such as R and Python.
+> **[1:00](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/descriptive-analytics-and-research?u=76281980&t=60)** However, for more insights, we usually extract the data and explore it in other languages, such as R and [[Python (Programming Language)|Python]].
 >
 > **[1:08](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/descriptive-analytics-and-research?u=76281980&t=68)** Let's look at a descriptive summary of H+ or order table imported into BigQuery.
 >
@@ -582,13 +573,13 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/descriptive-analytics-and-research?u=76281980&t=151)** Now you can see a descriptive summary, including the measure, total due, along with each of the descriptive values in the query results at the bottom of the screen.
 >
-> **[2:42](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/descriptive-analytics-and-research?u=76281980&t=162)** If you're interested in learning more about this code, check out this example in the GitHub Repository for this course.
+> **[2:42](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/descriptive-analytics-and-research?u=76281980&t=162)** If you're interested in learning more about this code, check out this example in the [[GitHub]] Repository for this course.
 >
-> **[2:49](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/descriptive-analytics-and-research?u=76281980&t=169)** Also, check out other LinkedIn Learning content on descriptive analytics using both SQL and Python.
+> **[2:49](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/descriptive-analytics-and-research?u=76281980&t=169)** Also, check out other [[LinkedIn]] Learning content on descriptive analytics using both SQL and Python.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (4), data (4), [[SQL]] (3), [[Python (Programming Language)|Python]] (2), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Python (Programming Language)|Python]] (2), [[Data Science]] (1), [[GitHub]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (2), make (2), python (2)
 > **Env Vars:** sql (3), dbms (1)
 > **Analogies:** such as (3)
@@ -597,30 +588,29 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Warnings:** keep in mind (1)
 
-#### Predictive analytics and machine learning using SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/predictive-analytics-and-machine-learning-using-sql?u=76281980)
+#### [Predictive analytics and machine learning using SQL](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/predictive-analytics-and-machine-learning-using-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/predictive-analytics-and-machine-learning-using-sql?u=76281980&t=1)** - [Narrator] One of the next steps in data science is predictive analytics, which uses information from the past to predict what will happen in the future.
+> **[0:01](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/predictive-analytics-and-machine-learning-using-sql?u=76281980&t=1)** - [Narrator] One of the next steps in [[Data Science]] is [[Predictive Analytics]], which uses information from the past to predict what will happen in the future.
 >
 > **[0:09](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/predictive-analytics-and-machine-learning-using-sql?u=76281980&t=9)** As a data scientist with Age Plus Sport, I want to predict how much inventory to prepare for the next quarter.
 >
-> **[0:16](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/predictive-analytics-and-machine-learning-using-sql?u=76281980&t=16)** Based on the history of sales, I'll estimate how many products to make.
+> **[0:16](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/predictive-analytics-and-machine-learning-using-sql?u=76281980&t=16)** Based on the history of sales, I'll estimate how many [[Microsoft Products|products]] to make.
 >
 > **[0:20](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/predictive-analytics-and-machine-learning-using-sql?u=76281980&t=20)** There's real power here.
 >
 > **[0:22](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/predictive-analytics-and-machine-learning-using-sql?u=76281980&t=22)** In today's predictive analytics, we can analyze multiple factors into a machine learning model, and with today's modern tools, predictive analytics are much more accessible.
 >
-> **[0:33](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/predictive-analytics-and-machine-learning-using-sql?u=76281980&t=33)** So how do we incorporate SQL skills in this area?
+> **[0:33](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/predictive-analytics-and-machine-learning-using-sql?u=76281980&t=33)** So how do we incorporate [[SQL]] skills in this area?
 >
 > **[0:36](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/predictive-analytics-and-machine-learning-using-sql?u=76281980&t=36)** Traditionally, we would extract the data from the data warehouse, and the data scientists created the predictive models.
 >
 > **[0:44](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/predictive-analytics-and-machine-learning-using-sql?u=76281980&t=44)** We used the models to feed in new data and make predictions.
 >
-> **[0:48](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/predictive-analytics-and-machine-learning-using-sql?u=76281980&t=48)** Predictive modeling is usually performed by using machine learning algorithm techniques, such as regression, classification, and clustering.
+> **[0:48](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/predictive-analytics-and-machine-learning-using-sql?u=76281980&t=48)** [[Predictive Modeling]] is usually performed by using machine learning algorithm techniques, such as regression, classification, and clustering.
 >
-> **[0:57](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/predictive-analytics-and-machine-learning-using-sql?u=76281980&t=57)** New technologies, such as Google's BigQuery ML, allow data scientists to create machine learning models, right within the SQL syntax.
+> **[0:57](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/predictive-analytics-and-machine-learning-using-sql?u=76281980&t=57)** New technologies, such as [[Google]]'s BigQuery ML, allow data scientists to create machine learning models, right within the SQL syntax.
 >
 > **[1:08](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/predictive-analytics-and-machine-learning-using-sql?u=76281980&t=68)** Here's a list of models supported within BigQuery ML.
 >
@@ -652,17 +642,17 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/predictive-analytics-and-machine-learning-using-sql?u=76281980&t=198)** Again, this doesn't only apply to corporate or business related areas, predictive analytics are used in every industry, from education, healthcare, defense, and entertainment.
 >
-> **[3:30](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/predictive-analytics-and-machine-learning-using-sql?u=76281980&t=210)** By building onto your SQL skills, along with tools like Python and R, a career in data science is within your reach.
+> **[3:30](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/predictive-analytics-and-machine-learning-using-sql?u=76281980&t=210)** By building onto your SQL skills, along with tools like [[Python (Programming Language)|Python]] and R, a career in data science is within your reach.
 >
 > **[3:39](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/predictive-analytics-and-machine-learning-using-sql?u=76281980&t=219)** Data science is really in demand now, and SQL is a top skill for anyone looking to get into the information science space.
 >
-> **[3:46](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/predictive-analytics-and-machine-learning-using-sql?u=76281980&t=226)** For more information about advanced analytics and predictive modeling using SQL, check out more in the LinkedIn learning library.
+> **[3:46](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/predictive-analytics-and-machine-learning-using-sql?u=76281980&t=226)** For more information about advanced analytics and predictive modeling using SQL, check out more in the [[LinkedIn]] learning library.
 >
 > **[3:55](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/predictive-analytics-and-machine-learning-using-sql?u=76281980&t=235)** For more information on creating time series predictions using Google's BigQuery ML, check out this blog resource.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[SQL]] (7), [[Microsoft Products|Products]] (5), next (4), [[Predictive Analytics]] (4)
+> **Frameworks & Libraries:** [[SQL]] (7), [[Microsoft Products|Products]] (5), [[Data Science]] (4), [[Predictive Analytics]] (4), [[Google]] (3)
 > **Env Vars:** sql (7), aic (1)
 > **CLI Commands:** make (2), python (1)
 > **Analogies:** such as (2)
@@ -674,16 +664,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to engineering and database administration using SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/introduction-to-engineering-and-database-administration-using-sql?u=76281980)
+#### [Introduction to engineering and database administration using SQL](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/introduction-to-engineering-and-database-administration-using-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/introduction-to-engineering-and-database-administration-using-sql?u=76281980&t=0)** - [Instructor] Now, let's dive into areas where SQL can be used in addition to other programming skills or translated into new skills.
+> **[0:00](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/introduction-to-engineering-and-database-administration-using-sql?u=76281980&t=0)** - [Instructor] Now, let's dive into areas where [[SQL]] can be used in addition to other programming skills or translated into new skills.
 >
 > **[0:08](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/introduction-to-engineering-and-database-administration-using-sql?u=76281980&t=8)** A database can be part of a larger application supported by engineers and administrators.
 >
-> **[0:13](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/introduction-to-engineering-and-database-administration-using-sql?u=76281980&t=13)** H+ Sport has a team responsible for developing and maintaining their online store, and a team for their mobile app, all of which use databases to support their applications.
+> **[0:13](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/introduction-to-engineering-and-database-administration-using-sql?u=76281980&t=13)** H+ Sport has a team responsible for developing and maintaining their online store, and a team for their mobile app, all of which use [[Databases]] to support their applications.
 >
 > **[0:24](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/introduction-to-engineering-and-database-administration-using-sql?u=76281980&t=24)** They have a team responsible for gathering data from all different areas of the organization and transforming it into a format needed for the analysts and the data scientists.
 >
@@ -699,35 +688,34 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/introduction-to-engineering-and-database-administration-using-sql?u=76281980&t=68)** They are who we go to when we need to backup or to restore a database from a backup.
 >
-> **[1:14](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/introduction-to-engineering-and-database-administration-using-sql?u=76281980&t=74)** We'll go more into the area of database administration and how they protect the organization's data.
+> **[1:14](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/introduction-to-engineering-and-database-administration-using-sql?u=76281980&t=74)** We'll go more into the area of [[Database Administration]] and how they protect the organization's data.
 >
 > **[1:21](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/introduction-to-engineering-and-database-administration-using-sql?u=76281980&t=81)** Let's go through each area to explore where you can translate or transfer those SQL skills into the areas of engineering and database administration.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), data (4), [[SQL]] (3), [[Databases]] (3), [[Engineering]] (2)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Databases]] (3), [[Database Administration]] (2)
 > **Env Vars:** sql (3), dba (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Web development
-> [LinkedIn Learning](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/web-development?u=76281980)
+#### [Web development](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/web-development?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/web-development?u=76281980&t=1)** - [Instructor] SQL is an essential skill for today's web developer.
+> **[0:01](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/web-development?u=76281980&t=1)** - [Instructor] [[SQL]] is an essential skill for today's web developer.
 >
 > **[0:04](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/web-development?u=76281980&t=4)** Most of today's web applications require a database behind it that drives data to the website and gets data from users.
 >
 > **[0:10](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/web-development?u=76281980&t=10)** We sometimes refer to these applications as CRUD applications or Create, Read, Update, and Delete.
 >
-> **[0:19](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/web-development?u=76281980&t=19)** Examples of relational database management systems that we can integrate into websites are MySQL, PostgreSQL, and SQLite.
+> **[0:19](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/web-development?u=76281980&t=19)** Examples of relational [[Database Management]] systems that we can integrate into websites are [[MySQL]], [[PostgreSQL]], and SQLite.
 >
-> **[0:27](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/web-development?u=76281980&t=27)** I also work with a lot of [asp.net](https://asp.net) applications that use Microsoft SQL Server as its database backend.
+> **[0:27](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/web-development?u=76281980&t=27)** I also work with a lot of [[[ASP.NET]]](https://asp.net) applications that use [[Microsoft SQL Server]] as its database backend.
 >
 > **[0:34](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/web-development?u=76281980&t=34)** Let's take a look at an example of how we integrate and manage data for a website.
 >
-> **[0:40](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/web-development?u=76281980&t=40)** Don't worry about the details in the code, but feel free to look at the GitHub repository to follow along with these code examples.
+> **[0:40](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/web-development?u=76281980&t=40)** Don't worry about the details in the code, but feel free to look at the [[GitHub]] repository to follow along with these code examples.
 >
 > **[0:48](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/web-development?u=76281980&t=48)** I've already created my MySQL database that is hosted on GCP.
 >
@@ -735,11 +723,11 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/web-development?u=76281980&t=56)** In this example, I can work with the data from the cloud console in my browser.
 >
-> **[1:02](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/web-development?u=76281980&t=62)** I opened a Cloud Shell instance and can work with the CLI from here.
+> **[1:02](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/web-development?u=76281980&t=62)** I opened a Cloud Shell instance and can work with the [[CLI]] from here.
 >
 > **[1:08](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/web-development?u=76281980&t=68)** I can open my database, see the tables, and run SQL commands.
 >
-> **[1:14](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/web-development?u=76281980&t=74)** Here, we can show databases.
+> **[1:14](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/web-development?u=76281980&t=74)** Here, we can show [[Databases]].
 >
 > **[1:18](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/web-development?u=76281980&t=78)** We'll use hplussport.
 >
@@ -753,9 +741,9 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/web-development?u=76281980&t=99)** Desktop tools also provide a gooey interface where we can complete some SQL commands without typing the syntax, such as creating tables, identifying keys, and changing column names.
 >
-> **[1:51](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/web-development?u=76281980&t=111)** In this example, I've built a simple web application using Flask, which is a library for building web services in Python.
+> **[1:51](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/web-development?u=76281980&t=111)** In this example, I've built a simple web application using Flask, which is a library for building web services in [[Python (Programming Language)|Python]].
 >
-> **[1:59](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/web-development?u=76281980&t=119)** This particular app is implemented using the Google Cloud SDK and App Engine.
+> **[1:59](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/web-development?u=76281980&t=119)** This particular app is implemented using the [[Google Cloud Platform (GCP)|Google Cloud]] SDK and App Engine.
 >
 > **[2:05](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/web-development?u=76281980&t=125)** Let's take a look at db.py, which contains the database connection and functions.
 >
@@ -765,7 +753,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/web-development?u=76281980&t=150)** It opens the connection to the database on line nine, and gets the customer data using the SQL statement that grabs the first 10 customers.
 >
-> **[2:41](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/web-development?u=76281980&t=161)** Then it renders the results to the index.html file.
+> **[2:41](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/web-development?u=76281980&t=161)** Then it renders the results to the index.[[HTML]] file.
 >
 > **[2:46](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/web-development?u=76281980&t=166)** Our index.html file will display the customer's contact information.
 >
@@ -785,19 +773,19 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/web-development?u=76281980&t=225)** After deploying the app, I have a functional data-driven web app connected to mySQL.
 >
-> **[3:50](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/web-development?u=76281980&t=230)** It's not that pretty yet, but we can add the CSS and JavaScript later.
+> **[3:50](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/web-development?u=76281980&t=230)** It's not that pretty yet, but we can add the CSS and [[JavaScript]] later.
 >
 > **[3:56](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/web-development?u=76281980&t=236)** It's important for today's web developers to at least know basic SQL, even if you're a front end web developer.
 >
 > **[4:03](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/web-development?u=76281980&t=243)** It is just as important as HTML, JavaScript, and CSS.
 >
-> **[4:07](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/web-development?u=76281980&t=247)** And you will notice in most web development courses today that a little bit of SQL is included.
+> **[4:07](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/web-development?u=76281980&t=247)** And you will notice in most [[Web Development]] courses today that a little bit of SQL is included.
 >
 > **[4:13](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/web-development?u=76281980&t=253)** If you're familiar with Python and have experience in SQL, you may be interested in a back-end or full-stack web development role.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (10), [[SQL]] (8), data (7), web (6), [[MySQL]] (5)
+> **Frameworks & Libraries:** [[SQL]] (8), [[MySQL]] (5), [[HTML]] (4), [[Python (Programming Language)|Python]] (3), [[Google Cloud Platform (GCP)|Google cloud]] (2)
 > **Env Vars:** sql (9), sdk (2), css (2), crud (1), gcp (1)
 > **CLI Commands:** mysql (5), python (3), gcloud (1)
 > **File Paths:** index.html (2), db.py (1), main.py (1)
@@ -806,34 +794,33 @@ created: 2026-05-02
 > **Code Identifiers:** mysql (1)
 > **URLs:** [asp.net](https://asp.net) (1)
 
-#### Mobile app development and knowledge transfer
-> [LinkedIn Learning](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/mobile-app-development-and-knowledge-transfer?u=76281980)
+#### [Mobile app development and knowledge transfer](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/mobile-app-development-and-knowledge-transfer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/mobile-app-development-and-knowledge-transfer?u=76281980&t=1)** - [Instructor] Relational databases for mobile are very similar to those for the web.
+> **[0:01](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/mobile-app-development-and-knowledge-transfer?u=76281980&t=1)** - [Instructor] [[Relational Databases]] for mobile are very similar to those for the web.
 >
-> **[0:05](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/mobile-app-development-and-knowledge-transfer?u=76281980&t=5)** In web development, we usually have a client-server relationship, where the client sends a request to the server, and in return, the server sends a response back to the client with the data requested.
+> **[0:05](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/mobile-app-development-and-knowledge-transfer?u=76281980&t=5)** In [[Web Development]], we usually have a client-server relationship, where the client sends a request to the server, and in return, the server sends a response back to the client with the data requested.
 >
 > **[0:17](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/mobile-app-development-and-knowledge-transfer?u=76281980&t=17)** Some mobile apps will keep a local copy of the database for quick access, and for offline access when the network is not connected.
 >
-> **[0:26](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/mobile-app-development-and-knowledge-transfer?u=76281980&t=26)** In order to do this, databases for mobile have to be lightweight, because we have limited resources in a smaller device.
+> **[0:26](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/mobile-app-development-and-knowledge-transfer?u=76281980&t=26)** In order to do this, [[Databases]] for mobile have to be lightweight, because we have limited resources in a smaller device.
 >
-> **[0:33](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/mobile-app-development-and-knowledge-transfer?u=76281980&t=33)** SQLite is an example of a lightweight relational database management system, and a great option for mobile and IoT.
+> **[0:33](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/mobile-app-development-and-knowledge-transfer?u=76281980&t=33)** SQLite is an example of a lightweight relational [[Database Management]] system, and a great option for mobile and [[IoT]].
 >
-> **[0:39](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/mobile-app-development-and-knowledge-transfer?u=76281980&t=39)** SQLite is both efficient and simple, and it's included in both Android and iOS operating systems.
+> **[0:39](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/mobile-app-development-and-knowledge-transfer?u=76281980&t=39)** SQLite is both efficient and simple, and it's included in both [[Android]] and iOS operating systems.
 >
 > **[0:46](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/mobile-app-development-and-knowledge-transfer?u=76281980&t=46)** Keep in mind that if you're using a distributed solution, or there is more than one person writing to the database at the same time, it may not be best to use a solution like SQLite.
 >
 > **[0:56](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/mobile-app-development-and-knowledge-transfer?u=76281980&t=56)** H Plus Sport personnel have an app that keeps all of their customer contact information.
 >
-> **[1:01](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/mobile-app-development-and-knowledge-transfer?u=76281980&t=61)** Let's take a look at how SQL is connected here.
+> **[1:01](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/mobile-app-development-and-knowledge-transfer?u=76281980&t=61)** Let's take a look at how [[SQL]] is connected here.
 >
 > **[1:06](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/mobile-app-development-and-knowledge-transfer?u=76281980&t=66)** I built a simple iOS app for iPhone, that stores the H Plus Sport customer's name and email address.
 >
-> **[1:13](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/mobile-app-development-and-knowledge-transfer?u=76281980&t=73)** Right now, I'm in Xcode, the IDE for iOS development.
+> **[1:13](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/mobile-app-development-and-knowledge-transfer?u=76281980&t=73)** Right now, I'm in [[Xcode]], the IDE for [[iOS Development]].
 >
-> **[1:17](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/mobile-app-development-and-knowledge-transfer?u=76281980&t=77)** If you programmed with Swift before, this will look familiar.
+> **[1:17](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/mobile-app-development-and-knowledge-transfer?u=76281980&t=77)** If you programmed with [[Swift (Programming Language)|Swift]] before, this will look familiar.
 >
 > **[1:20](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/mobile-app-development-and-knowledge-transfer?u=76281980&t=80)** If not, no worries.
 >
@@ -871,21 +858,21 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/mobile-app-development-and-knowledge-transfer?u=76281980&t=203)** Not all databases are relational.
 >
-> **[3:26](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/mobile-app-development-and-knowledge-transfer?u=76281980&t=206)** NoSQL, which stands for Not Only SQL, platforms are more flexible and scalable than traditional relational databases.
+> **[3:26](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/mobile-app-development-and-knowledge-transfer?u=76281980&t=206)** [[NoSQL]], which stands for Not Only SQL, platforms are more flexible and scalable than traditional relational databases.
 >
 > **[3:34](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/mobile-app-development-and-knowledge-transfer?u=76281980&t=214)** The records are stored in key-value pairs, documents, objects, and graphs.
 >
-> **[3:39](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/mobile-app-development-and-knowledge-transfer?u=76281980&t=219)** Some of these data structures, you may be familiar with.
+> **[3:39](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/mobile-app-development-and-knowledge-transfer?u=76281980&t=219)** Some of these [[Data Structures]], you may be familiar with.
 >
-> **[3:42](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/mobile-app-development-and-knowledge-transfer?u=76281980&t=222)** Of course, there's so much more that goes into mobile application development.
+> **[3:42](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/mobile-app-development-and-knowledge-transfer?u=76281980&t=222)** Of course, there's so much more that goes into [[Mobile Application Development]].
 >
 > **[3:47](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/mobile-app-development-and-knowledge-transfer?u=76281980&t=227)** However, with the knowledge of relational databases and SQL, you can transfer to relational models in mobile environments, or translate that knowledge into database models like NoSQL.
 >
-> **[3:59](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/mobile-app-development-and-knowledge-transfer?u=76281980&t=239)** If these topics interest you, look out for more in LinkedIn Learning courses on SQLite, NoSQL, and mobile application development.
+> **[3:59](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/mobile-app-development-and-knowledge-transfer?u=76281980&t=239)** If these topics interest you, look out for more in [[LinkedIn]] Learning courses on SQLite, NoSQL, and mobile application development.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), [[Swift (Programming Language)|Swift]] (4), [[Relational Databases]] (3), data (3), [[SQL]] (3)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (4), [[Relational Databases]] (3), [[SQL]] (3), [[NoSQL]] (3), [[Databases]] (2)
 > **Code Identifiers:** ios (3), opendatabase (2), iphone (1), createcustomertable (1), dbpath (1)
 > **Env Vars:** sql (3), ide (1)
 > **File Paths:** dbhelper.swift (1), viewcontroller.swift (1)
@@ -894,8 +881,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data engineering and cloud computing
-> [LinkedIn Learning](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/data-engineering-and-cloud-computing?u=76281980)
+#### [Data engineering and cloud computing](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/data-engineering-and-cloud-computing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -907,7 +893,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/data-engineering-and-cloud-computing?u=76281980&t=17)** They're up first to gather the data, process it, clean it, and put it in the format that the organization needs.
 >
-> **[0:24](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/data-engineering-and-cloud-computing?u=76281980&t=24)** Then the data is handed off to other groups in the organization like the data science team.
+> **[0:24](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/data-engineering-and-cloud-computing?u=76281980&t=24)** Then the data is handed off to other groups in the organization like the [[Data Science]] team.
 >
 > **[0:29](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/data-engineering-and-cloud-computing?u=76281980&t=29)** Because of this, data engineers need to have a really good understanding of how to translate data to the needs of the analysts, software developers, and data scientists.
 >
@@ -915,21 +901,21 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/data-engineering-and-cloud-computing?u=76281980&t=43)** You may be familiar with ETL processing, which stands for extract, transform, and load.
 >
-> **[0:49](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/data-engineering-and-cloud-computing?u=76281980&t=49)** Data engineers take massive amounts of raw, unstructured data from various sources, transform it into formats that the organization needs, and loads them into data warehouses.
+> **[0:49](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/data-engineering-and-cloud-computing?u=76281980&t=49)** Data engineers take massive amounts of raw, [[Unstructured Data]] from various sources, transform it into formats that the organization needs, and loads them into data warehouses.
 >
 > **[1:01](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/data-engineering-and-cloud-computing?u=76281980&t=61)** And this could be done through automated processes and APIs.
 >
-> **[1:06](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/data-engineering-and-cloud-computing?u=76281980&t=66)** Data engineers require an in-depth knowledge of SQL.
+> **[1:06](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/data-engineering-and-cloud-computing?u=76281980&t=66)** Data engineers require an in-depth knowledge of [[SQL]].
 >
-> **[1:10](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/data-engineering-and-cloud-computing?u=76281980&t=70)** Similar to mobile application development, there are different database models including both relational and non-relational types such as NoSQL.
+> **[1:10](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/data-engineering-and-cloud-computing?u=76281980&t=70)** Similar to [[Mobile Application Development]], there are different database models including both relational and non-relational types such as [[NoSQL]].
 >
-> **[1:19](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/data-engineering-and-cloud-computing?u=76281980&t=79)** You'll find many new data processing tools in the cloud.
+> **[1:19](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/data-engineering-and-cloud-computing?u=76281980&t=79)** You'll find many new [[Data Processing]] tools in the cloud.
 >
 > **[1:23](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/data-engineering-and-cloud-computing?u=76281980&t=83)** Many of these platforms have tools where we can take in a new data file, clean it, transform the data, and load it into the database.
 >
 > **[1:32](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/data-engineering-and-cloud-computing?u=76281980&t=92)** The best part of this is that many of these processes can be automated.
 >
-> **[1:36](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/data-engineering-and-cloud-computing?u=76281980&t=96)** Data engineers work with big data tools, such as MapReduce, Hive, and Spark.
+> **[1:36](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/data-engineering-and-cloud-computing?u=76281980&t=96)** Data engineers work with [[Big Data]] tools, such as MapReduce, Hive, and Spark.
 >
 > **[1:42](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/data-engineering-and-cloud-computing?u=76281980&t=102)** For a quick, simple ETL process let's take a look at our Flask application again.
 >
@@ -937,9 +923,9 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/data-engineering-and-cloud-computing?u=76281980&t=112)** We have a process that reads data in from the census API to gather state population data, and we have an API that we created for others to use.
 >
-> **[2:02](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/data-engineering-and-cloud-computing?u=76281980&t=122)** The MySQL database instance that's previously been stored on GCP is our data warehouse.
+> **[2:02](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/data-engineering-and-cloud-computing?u=76281980&t=122)** The [[MySQL]] database instance that's previously been stored on GCP is our data warehouse.
 >
-> **[2:10](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/data-engineering-and-cloud-computing?u=76281980&t=130)** And this Python code, we gather the data from the census API and our new census data function on lines 54 to 64.
+> **[2:10](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/data-engineering-and-cloud-computing?u=76281980&t=130)** And this [[Python (Programming Language)|Python]] code, we gather the data from the census API and our new census data function on lines 54 to 64.
 >
 > **[2:20](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/data-engineering-and-cloud-computing?u=76281980&t=140)** Then in the load census data function on lines 67 through 81 we store the data into our data warehouse by calling the new census data function and loading the response into our census-stat-pop table.
 >
@@ -951,33 +937,32 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/data-engineering-and-cloud-computing?u=76281980&t=181)** Also, to distribute data we can take our customer table and serve it as an API for other parts of the organization to use.
 >
-> **[3:09](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/data-engineering-and-cloud-computing?u=76281980&t=189)** So, in the API customers route on lines 28 through 34 I can call the get customers function again that returns the customer data in JSON.
+> **[3:09](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/data-engineering-and-cloud-computing?u=76281980&t=189)** So, in the API customers route on lines 28 through 34 I can call the get customers function again that returns the customer data in [[JSON]].
 >
 > **[3:20](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/data-engineering-and-cloud-computing?u=76281980&t=200)** In the web browser I can see the JSON file by going to the website and adding api-customers to the URL.
 >
-> **[3:29](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/data-engineering-and-cloud-computing?u=76281980&t=209)** As you can see, in addition to SQL data engineers can also be familiar with Python along with Linux and Unix commands, Secure FTP, API development, and encryption protocols.
+> **[3:29](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/data-engineering-and-cloud-computing?u=76281980&t=209)** As you can see, in addition to SQL data engineers can also be familiar with Python along with [[Linux]] and Unix commands, Secure FTP, [[API Development]], and encryption protocols.
 >
-> **[3:43](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/data-engineering-and-cloud-computing?u=76281980&t=223)** If you're interested in learning more check out more in the LinkedIn Learning library on [[Data Engineering Foundations]].
+> **[3:43](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/data-engineering-and-cloud-computing?u=76281980&t=223)** If you're interested in learning more check out more in the [[LinkedIn]] Learning library on [[[[Data Engineering]] Foundations]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (32), api (8), database (4), etl (2), [[SQL]] (2)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Python (Programming Language)|Python]] (2), [[JSON]] (2), [[Data Science]] (1), [[Unstructured Data]] (1)
 > **Env Vars:** api (7), etl (2), sql (2), json (2), gcp (1)
 > **CLI Commands:** python (2), find (1), mysql (1)
 > **Analogies:** such as (2), similar to (1)
 > **Definitions:** stands for (1)
 > **Speakers:** - [instructor] (1)
 
-#### Database administration
-> [LinkedIn Learning](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/database-administration?u=76281980)
+#### [Database administration](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/database-administration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/database-administration?u=76281980&t=0)** - [Instructor] Database administration is more than just knowing the SQL language.
+> **[0:00](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/database-administration?u=76281980&t=0)** - [Instructor] [[Database Administration]] is more than just knowing the [[SQL]] language.
 >
-> **[0:04](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/database-administration?u=76281980&t=4)** Let's see how we can apply some existing SQL skills here, especially since DBAs are focused on the management of databases, and will use SQL in addition to other tools.
+> **[0:04](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/database-administration?u=76281980&t=4)** Let's see how we can apply some existing SQL skills here, especially since DBAs are focused on the management of [[Databases]], and will use SQL in addition to other tools.
 >
-> **[0:14](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/database-administration?u=76281980&t=14)** DBAs are responsible for troubleshooting the database management system, along with supporting the hardware, and software related to both the database, and the server where the database is located.
+> **[0:14](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/database-administration?u=76281980&t=14)** DBAs are responsible for troubleshooting the [[Database Management]] system, along with supporting the [[Hardware]], and software related to both the database, and the server where the database is located.
 >
 > **[0:25](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/database-administration?u=76281980&t=25)** They will also manage the security access and storage.
 >
@@ -987,7 +972,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/database-administration?u=76281980&t=49)** So where does the SQL part come in?
 >
-> **[0:51](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/database-administration?u=76281980&t=51)** Database administrators use both data manipulation language, also known as DML, and data definition language, also known as DDL.
+> **[0:51](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/database-administration?u=76281980&t=51)** Database administrators use both [[Data Manipulation]] language, also known as DML, and data definition language, also known as DDL.
 >
 > **[1:03](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/database-administration?u=76281980&t=63)** Data manipulation language consists of the parts of the language that modified database records.
 >
@@ -995,7 +980,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/database-administration?u=76281980&t=74)** If you are currently working as an analyst, you probably run lots of select statements.
 >
-> **[1:20](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/database-administration?u=76281980&t=80)** Insert, update and delete statements will change the data, hence the word manipulation.
+> **[1:20](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/database-administration?u=76281980&t=80)** Insert, update and delete statements will change the data, hence the [[Microsoft Word|word]] manipulation.
 >
 > **[1:26](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/database-administration?u=76281980&t=86)** The data definition language consists of statements that change database objects, not the records.
 >
@@ -1007,7 +992,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/database-administration?u=76281980&t=111)** You will find that database administrators will know many built-in functions that can monitor the performance of the database and make adjustments.
 >
-> **[1:59](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/database-administration?u=76281980&t=119)** Take a look at this documentation from Microsoft about the built-in functions to do live queries statistics, monitor activity, and find system store procedures that assist with monitoring security and performance.
+> **[1:59](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/database-administration?u=76281980&t=119)** Take a look at this documentation from [[Microsoft]] about the built-in functions to do live queries [[Statistics]], monitor activity, and find system store procedures that assist with monitoring security and performance.
 >
 > **[2:14](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/database-administration?u=76281980&t=134)** In order to understand some of these functions, you will need some background in SQL.
 >
@@ -1017,11 +1002,11 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/database-administration?u=76281980&t=149)** And working with software developers to write efficient queries.
 >
-> **[2:33](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/database-administration?u=76281980&t=153)** If you're interested in learning more about the role of database administrators, check out the LinkedIn Learning library for courses on database foundations, and database administration.
+> **[2:33](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/database-administration?u=76281980&t=153)** If you're interested in learning more about the role of database administrators, check out the [[LinkedIn]] Learning library for courses on database foundations, and database administration.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (15), [[SQL]] (5), data (5), [[Security]] (3), [[Database Administration]] (2)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Database Administration]] (2), [[Data Manipulation]] (2), [[Databases]] (1), [[Database Management]] (1)
 > **Env Vars:** sql (5), dml (1), ddl (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** such as (3)
@@ -1033,24 +1018,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Extending your SQL career
-> [LinkedIn Learning](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/extending-your-sql-career?u=76281980)
+#### [Extending your SQL career](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/extending-your-sql-career?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/extending-your-sql-career?u=76281980&t=1)** - [Nikiya] These three areas we've covered in this course are just some of the types of careers you can have with SQL, but definitely not the only ones.
+> **[0:01](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/extending-your-sql-career?u=76281980&t=1)** - [Nikiya] These three areas we've covered in this course are just some of the types of careers you can have with [[SQL]], but definitely not the only ones.
 >
 > **[0:09](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/extending-your-sql-career?u=76281980&t=9)** As you can see, there's lots of different ways You can take your skills.
 >
 > **[0:13](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/extending-your-sql-career?u=76281980&t=13)** And I hope that you continue to develop them as you decide in the areas that you want to specialize.
 >
-> **[0:19](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/extending-your-sql-career?u=76281980&t=19)** Remember, SQL is a standard language, and there are a whole bunch of different databases, programs, and industries that use it.
+> **[0:19](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/extending-your-sql-career?u=76281980&t=19)** Remember, SQL is a standard language, and there are a whole bunch of different [[Databases]], programs, and industries that use it.
 >
-> **[0:27](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/extending-your-sql-career?u=76281980&t=27)** One thing to keep in mind is the platform to use like My SQL, SQL Server, and SQL Lite, are all slightly different.
+> **[0:27](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/extending-your-sql-career?u=76281980&t=27)** One thing to keep in mind is the platform to use like My SQL, [[Microsoft SQL Server|SQL Server]], and SQL Lite, are all slightly different.
 >
 > **[0:35](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/extending-your-sql-career?u=76281980&t=35)** As you start to specialize and go into different roles, you might find that the standard program you use is going to shift.
 >
-> **[0:41](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/extending-your-sql-career?u=76281980&t=41)** When that happens, come back to the LinkedIn Learning Library to start learning more about that specific program and your specialties in that field.
+> **[0:41](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/extending-your-sql-career?u=76281980&t=41)** When that happens, come back to the [[LinkedIn]] Learning Library to start learning more about that specific program and your specialties in that field.
 >
 > **[0:50](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/extending-your-sql-career?u=76281980&t=50)** I hope that you've enjoyed exploring different careers in SQL with me.
 >

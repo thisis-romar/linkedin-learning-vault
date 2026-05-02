@@ -87,12 +87,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Everything about WordPress plugins
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/everything-about-wordpress-plugins?u=76281980)
+#### [Everything about WordPress plugins](https://www.linkedin.com/learning/wordpress-everything-about-plugins/everything-about-wordpress-plugins?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-everything-about-plugins/everything-about-wordpress-plugins?u=76281980&t=0)** - So you've got a new WordPress website, but it doesn't do nearly as much out of the box as you'd hoped.
+> **[0:00](https://www.linkedin.com/learning/wordpress-everything-about-plugins/everything-about-wordpress-plugins?u=76281980&t=0)** - So you've got a new [[WordPress]] website, but it doesn't do nearly as much out of the box as you'd hoped.
 >
 > **[0:06](https://www.linkedin.com/learning/wordpress-everything-about-plugins/everything-about-wordpress-plugins?u=76281980&t=6)** Thankfully, one of the things that makes WordPress such a powerful tool for website building is the library of thousands of free plug-ins.
 >
@@ -108,26 +107,25 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/wordpress-everything-about-plugins/everything-about-wordpress-plugins?u=76281980&t=53)** So it's safe to say, I know a thing or two about building WordPress websites with plug-ins.
 >
-> **[0:59](https://www.linkedin.com/learning/wordpress-everything-about-plugins/everything-about-wordpress-plugins?u=76281980&t=59)** If you're ready to learn everything there is to know about WordPress plugins, join me in my LinkedIn learning course.
+> **[0:59](https://www.linkedin.com/learning/wordpress-everything-about-plugins/everything-about-wordpress-plugins?u=76281980&t=59)** If you're ready to learn everything there is to know about WordPress plugins, join me in my [[LinkedIn]] learning course.
 >
 > **[1:06](https://www.linkedin.com/learning/wordpress-everything-about-plugins/everything-about-wordpress-plugins?u=76281980&t=66)** Let's go.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (5), [[Security]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (5), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - so (1)
 
-#### What you should know before taking this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/what-you-should-know-before-taking-this-course?u=76281980)
+#### [What you should know before taking this course](https://www.linkedin.com/learning/wordpress-everything-about-plugins/what-you-should-know-before-taking-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-everything-about-plugins/what-you-should-know-before-taking-this-course?u=76281980&t=0)** - [Instructor] To get the most out of this course on WordPress plugins, you should have a WordPress website that you can log into using an administrator account.
+> **[0:00](https://www.linkedin.com/learning/wordpress-everything-about-plugins/what-you-should-know-before-taking-this-course?u=76281980&t=0)** - [Instructor] To get the most out of this course on [[WordPress]] plugins, you should have a WordPress website that you can log into using an administrator account.
 >
 > **[0:08](https://www.linkedin.com/learning/wordpress-everything-about-plugins/what-you-should-know-before-taking-this-course?u=76281980&t=8)** I'm using a test website that I've created, but you can work on pretty much any website so long as it's built with WordPress.
 >
-> **[0:16](https://www.linkedin.com/learning/wordpress-everything-about-plugins/what-you-should-know-before-taking-this-course?u=76281980&t=16)** If you need help getting started with the basics of a WordPress website, you can take my [[WordPress Essential Training]] course right here on LinkedIn Learning.
+> **[0:16](https://www.linkedin.com/learning/wordpress-everything-about-plugins/what-you-should-know-before-taking-this-course?u=76281980&t=16)** If you need help getting started with the basics of a WordPress website, you can take my [[WordPress Essential Training]] course right here on [[LinkedIn]] Learning.
 
 > [!info]- Semantic Content
 >
@@ -140,14 +138,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a plugin?
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/what-is-a-plugin?u=76281980)
+#### [What is a plugin?](https://www.linkedin.com/learning/wordpress-everything-about-plugins/what-is-a-plugin?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/wordpress-everything-about-plugins/what-is-a-plugin?u=76281980&t=0)** - [Narrator] Before we learn how to use plugins, we need to understand what they are.
 >
-> **[0:05](https://www.linkedin.com/learning/wordpress-everything-about-plugins/what-is-a-plugin?u=76281980&t=5)** So maybe you just launched a brand new WordPress website or blog, and right away you can upload images and post content in the form of pages and posts.
+> **[0:05](https://www.linkedin.com/learning/wordpress-everything-about-plugins/what-is-a-plugin?u=76281980&t=5)** So maybe you just launched a brand new [[WordPress]] website or blog, and right away you can upload images and post content in the form of pages and posts.
 >
 > **[0:15](https://www.linkedin.com/learning/wordpress-everything-about-plugins/what-is-a-plugin?u=76281980&t=15)** You can also make changes and customizations with your theme or with the block editor but soon you realize that you want to do more.
 >
@@ -183,26 +180,25 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/wordpress-everything-about-plugins/what-is-a-plugin?u=76281980&t=99)** There are thousands of available plugins out there so chances are, if you need to do something, a plugin exists to help you do it.
 >
-> **[1:47](https://www.linkedin.com/learning/wordpress-everything-about-plugins/what-is-a-plugin?u=76281980&t=107)** Different types of plugins include SEO, content optimization, backup plugins, caching, security, forms, pop-ups, image galleries, social media sharing, calendars, membership, e-commerce and a lot more.
+> **[1:47](https://www.linkedin.com/learning/wordpress-everything-about-plugins/what-is-a-plugin?u=76281980&t=107)** Different types of plugins include SEO, content optimization, backup plugins, caching, security, [[Forms]], pop-ups, image galleries, social media sharing, calendars, membership, [[E-Commerce]] and a lot more.
 >
 > **[2:03](https://www.linkedin.com/learning/wordpress-everything-about-plugins/what-is-a-plugin?u=76281980&t=123)** So now that you know what a plugin is in concept, we'll walk through how to get started finding and using them.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (3), seo (2), [[Security]] (1), [[Forms]] (1), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (3), [[Forms]] (1), [[E-Commerce]] (1)
 > **Env Vars:** seo (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Where to find plugins
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/where-to-find-plugins?u=76281980)
+#### [Where to find plugins](https://www.linkedin.com/learning/wordpress-everything-about-plugins/where-to-find-plugins?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/wordpress-everything-about-plugins/where-to-find-plugins?u=76281980&t=0)** - [Instructor] So, we know what a plugin is.
 >
-> **[0:02](https://www.linkedin.com/learning/wordpress-everything-about-plugins/where-to-find-plugins?u=76281980&t=2)** How do we find ones to use on our WordPress websites?
+> **[0:02](https://www.linkedin.com/learning/wordpress-everything-about-plugins/where-to-find-plugins?u=76281980&t=2)** How do we find ones to use on our [[WordPress]] websites?
 >
 > **[0:06](https://www.linkedin.com/learning/wordpress-everything-about-plugins/where-to-find-plugins?u=76281980&t=6)** You can find plugins in various places around the web, but the largest collection of plugins online will be the WordPress Plugin Directory.
 >
@@ -212,7 +208,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/wordpress-everything-about-plugins/where-to-find-plugins?u=76281980&t=26)** Here, you can search for plugins using the search bar.
 >
-> **[0:29](https://www.linkedin.com/learning/wordpress-everything-about-plugins/where-to-find-plugins?u=76281980&t=29)** For example, if I want a form plugin, I can search forms and find a list of ones available.
+> **[0:29](https://www.linkedin.com/learning/wordpress-everything-about-plugins/where-to-find-plugins?u=76281980&t=29)** For example, if I want a form plugin, I can search [[Forms]] and find a list of ones available.
 >
 > **[0:38](https://www.linkedin.com/learning/wordpress-everything-about-plugins/where-to-find-plugins?u=76281980&t=38)** We'll go over in a later video, how to choose or qualify these plugins so you can decide exactly which one you want to use.
 >
@@ -240,7 +236,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/wordpress-everything-about-plugins/where-to-find-plugins?u=76281980&t=109)** Many companies create and sell plugins themselves.
 >
-> **[1:54](https://www.linkedin.com/learning/wordpress-everything-about-plugins/where-to-find-plugins?u=76281980&t=114)** GiveWP, Yost SEO, WooCommerce, and many others allow you to get a plugin straight from their site.
+> **[1:54](https://www.linkedin.com/learning/wordpress-everything-about-plugins/where-to-find-plugins?u=76281980&t=114)** GiveWP, Yost SEO, [[WooCommerce]], and many others allow you to get a plugin straight from their site.
 >
 > **[2:04](https://www.linkedin.com/learning/wordpress-everything-about-plugins/where-to-find-plugins?u=76281980&t=124)** Later on, we'll talk about the differences between the installation processes of these methods, but for now, remember that these are the two most reliable places to find plugins, on [wordpress.org/plugins](https://wordpress.org/plugins) and through your website.
 >
@@ -262,7 +258,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (7), [[Search]] (5), web (1), [[Forms]] (1), seo (1)
+> **Frameworks & Libraries:** [[WordPress]] (7), [[Forms]] (1), [[WooCommerce]] (1)
 > **CLI Commands:** find (9)
 > **URLs:** [wordpress.org](https://wordpress.org) (4), [builtwith.com](https://builtwith.com) (1)
 > **UI Navigation:** go to (3)
@@ -271,8 +267,7 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **Prerequisites:** install (1)
 
-#### Exploring the plugin repository page
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/exploring-the-plugin-repository-page?u=76281980)
+#### [Exploring the plugin repository page](https://www.linkedin.com/learning/wordpress-everything-about-plugins/exploring-the-plugin-repository-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -288,7 +283,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/wordpress-everything-about-plugins/exploring-the-plugin-repository-page?u=76281980&t=34)** I can choose the byline to visit the website of the developer who made this plugin.
 >
-> **[0:39](https://www.linkedin.com/learning/wordpress-everything-about-plugins/exploring-the-plugin-repository-page?u=76281980&t=39)** This may help me learn more about them or find other products that they've built.
+> **[0:39](https://www.linkedin.com/learning/wordpress-everything-about-plugins/exploring-the-plugin-repository-page?u=76281980&t=39)** This may help me learn more about them or find other [[Microsoft Products|products]] that they've built.
 >
 > **[0:44](https://www.linkedin.com/learning/wordpress-everything-about-plugins/exploring-the-plugin-repository-page?u=76281980&t=44)** And if I want to use this plugin on my own website I would choose the download button from right here.
 >
@@ -324,15 +319,15 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/wordpress-everything-about-plugins/exploring-the-plugin-repository-page?u=76281980&t=145)** We'll go over later in the course, the difference between active and installed.
 >
-> **[2:31](https://www.linkedin.com/learning/wordpress-everything-about-plugins/exploring-the-plugin-repository-page?u=76281980&t=151)** This section will tell you the minimum required version of WordPress that you'll need in order for this plugin to work optimally, as well as the highest version of WordPress that this plugin is known to work with.
+> **[2:31](https://www.linkedin.com/learning/wordpress-everything-about-plugins/exploring-the-plugin-repository-page?u=76281980&t=151)** This section will tell you the minimum required version of [[WordPress]] that you'll need in order for this plugin to work optimally, as well as the highest version of WordPress that this plugin is known to work with.
 >
 > **[2:43](https://www.linkedin.com/learning/wordpress-everything-about-plugins/exploring-the-plugin-repository-page?u=76281980&t=163)** If this plugin is available in multiple languages you can find them here.
 >
-> **[2:47](https://www.linkedin.com/learning/wordpress-everything-about-plugins/exploring-the-plugin-repository-page?u=76281980&t=167)** And the tags area contains metadata about what kind of plugin it is.
+> **[2:47](https://www.linkedin.com/learning/wordpress-everything-about-plugins/exploring-the-plugin-repository-page?u=76281980&t=167)** And the tags area contains [[Metadata]] about what kind of plugin it is.
 >
 > **[2:52](https://www.linkedin.com/learning/wordpress-everything-about-plugins/exploring-the-plugin-repository-page?u=76281980&t=172)** So here we can find that this one is a contact form, email, feedback, or form plugin.
 >
-> **[3:00](https://www.linkedin.com/learning/wordpress-everything-about-plugins/exploring-the-plugin-repository-page?u=76281980&t=180)** Advanced view will take us to some further statistics about the plugin in a more visual format.
+> **[3:00](https://www.linkedin.com/learning/wordpress-everything-about-plugins/exploring-the-plugin-repository-page?u=76281980&t=180)** Advanced view will take us to some further [[Statistics]] about the plugin in a more visual format.
 >
 > **[3:08](https://www.linkedin.com/learning/wordpress-everything-about-plugins/exploring-the-plugin-repository-page?u=76281980&t=188)** The star rating area shows us at a quick glance how others feel about this plugin.
 >
@@ -346,21 +341,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (3), next (1), [[Search]] (1), [[Microsoft Products|Products]] (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (3), [[Microsoft Products|Products]] (1), [[Metadata]] (1), [[Statistics]] (1)
 > **CLI Commands:** find (5)
 > **Definitions:** is a  (2)
 > **Prerequisites:** install (1), you'll need (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
 
-#### What makes a good plugin
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/what-makes-a-good-plugin?u=76281980)
+#### [What makes a good plugin](https://www.linkedin.com/learning/wordpress-everything-about-plugins/what-makes-a-good-plugin?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/wordpress-everything-about-plugins/what-makes-a-good-plugin?u=76281980&t=0)** - [Instructor] There are a few criteria that I use to determine a good plugin from a not so good one.
 >
-> **[0:07](https://www.linkedin.com/learning/wordpress-everything-about-plugins/what-makes-a-good-plugin?u=76281980&t=7)** Like I said before, you want to make sure that the plugin is available through the WordPress Directory or sold directly by its creator.
+> **[0:07](https://www.linkedin.com/learning/wordpress-everything-about-plugins/what-makes-a-good-plugin?u=76281980&t=7)** Like I said before, you want to make sure that the plugin is available through the [[WordPress]] Directory or sold directly by its creator.
 >
 > **[0:15](https://www.linkedin.com/learning/wordpress-everything-about-plugins/what-makes-a-good-plugin?u=76281980&t=15)** Resold plugins can sometimes be unreliable or sometimes even dangerous.
 >
@@ -404,7 +398,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/wordpress-everything-about-plugins/what-makes-a-good-plugin?u=76281980&t=149)** I want people to purchase it and then directly download the album with no shipping or physical goods involved.
 >
-> **[2:36](https://www.linkedin.com/learning/wordpress-everything-about-plugins/what-makes-a-good-plugin?u=76281980&t=156)** WooCommerce is pretty universally acknowledged as the quote unquote best eCommerce plugin that allows you to sell stuff.
+> **[2:36](https://www.linkedin.com/learning/wordpress-everything-about-plugins/what-makes-a-good-plugin?u=76281980&t=156)** [[WooCommerce]] is pretty universally acknowledged as the quote unquote best eCommerce plugin that allows you to sell stuff.
 >
 > **[2:44](https://www.linkedin.com/learning/wordpress-everything-about-plugins/what-makes-a-good-plugin?u=76281980&t=164)** It has tons of installations, great reviews, and even has an option for selling virtual goods.
 >
@@ -428,7 +422,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (4), [[WooCommerce]] (4), [[Security]] (1), next (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (4), [[WooCommerce]] (4)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (2), means that (1)
 > **Analogies:** picture (1), think of it like (1), for example (1)
@@ -437,14 +431,13 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Exercise Files:** download the (1)
 
-#### Plugins in the WordPress file structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/plugins-in-the-wordpress-file-structure?u=76281980)
+#### [Plugins in the WordPress file structure](https://www.linkedin.com/learning/wordpress-everything-about-plugins/plugins-in-the-wordpress-file-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/wordpress-everything-about-plugins/plugins-in-the-wordpress-file-structure?u=76281980&t=0)** - [Instructor] All a website is, is a series of files, named and sorted in a certain way that a browser can read and display to a user.
 >
-> **[0:09](https://www.linkedin.com/learning/wordpress-everything-about-plugins/plugins-in-the-wordpress-file-structure?u=76281980&t=9)** The WordPress sites are absolutely no different.
+> **[0:09](https://www.linkedin.com/learning/wordpress-everything-about-plugins/plugins-in-the-wordpress-file-structure?u=76281980&t=9)** The [[WordPress]] sites are absolutely no different.
 >
 > **[0:12](https://www.linkedin.com/learning/wordpress-everything-about-plugins/plugins-in-the-wordpress-file-structure?u=76281980&t=12)** The WordPress file structure looks something like this.
 >
@@ -458,11 +451,11 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/wordpress-everything-about-plugins/plugins-in-the-wordpress-file-structure?u=76281980&t=45)** Let's find the plug-ins.
 >
-> **[0:47](https://www.linkedin.com/learning/wordpress-everything-about-plugins/plugins-in-the-wordpress-file-structure?u=76281980&t=47)** You'll always be able to find them by starting here in the public underscore HTML folder and then going to the WP content folder and then the plug-ins folder.
+> **[0:47](https://www.linkedin.com/learning/wordpress-everything-about-plugins/plugins-in-the-wordpress-file-structure?u=76281980&t=47)** You'll always be able to find them by starting here in the public underscore [[HTML]] folder and then going to the WP content folder and then the plug-ins folder.
 >
 > **[0:59](https://www.linkedin.com/learning/wordpress-everything-about-plugins/plugins-in-the-wordpress-file-structure?u=76281980&t=59)** Inside this plug-in you'll find all the plug-ins that are currently installed on your website and within those folders, you can find the files that make up those plug-ins.
 >
-> **[1:11](https://www.linkedin.com/learning/wordpress-everything-about-plugins/plugins-in-the-wordpress-file-structure?u=76281980&t=71)** Typically, these will be PHP files, text files, CSS files, lots of other stuff.
+> **[1:11](https://www.linkedin.com/learning/wordpress-everything-about-plugins/plugins-in-the-wordpress-file-structure?u=76281980&t=71)** Typically, these will be [[PHP]] files, text files, CSS files, lots of other stuff.
 >
 > **[1:18](https://www.linkedin.com/learning/wordpress-everything-about-plugins/plugins-in-the-wordpress-file-structure?u=76281980&t=78)** Now, all of this is useful to know for a few reasons.
 >
@@ -492,7 +485,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (9), [[HTML]] (1), [[PHP]] (1), css (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (9), [[HTML]] (1), [[PHP]] (1)
 > **CLI Commands:** find (6), make (1), php (1)
 > **Env Vars:** html (1), php (1), css (1)
 > **URLs:** [wordpress.org](https://wordpress.org) (1)
@@ -506,8 +499,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to install and activate a plugin
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/how-to-install-and-activate-a-plugin?u=76281980)
+#### [How to install and activate a plugin](https://www.linkedin.com/learning/wordpress-everything-about-plugins/how-to-install-and-activate-a-plugin?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -515,7 +507,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/wordpress-everything-about-plugins/how-to-install-and-activate-a-plugin?u=76281980&t=3)** Once you've got a plugin that you want to use, you need to install it and then activate it.
 >
-> **[0:09](https://www.linkedin.com/learning/wordpress-everything-about-plugins/how-to-install-and-activate-a-plugin?u=76281980&t=9)** This is a quick non code, two-step process that integrates the plugin software with your WordPress Core software.
+> **[0:09](https://www.linkedin.com/learning/wordpress-everything-about-plugins/how-to-install-and-activate-a-plugin?u=76281980&t=9)** This is a quick non code, two-step process that integrates the plugin software with your [[WordPress]] Core software.
 >
 > **[0:17](https://www.linkedin.com/learning/wordpress-everything-about-plugins/how-to-install-and-activate-a-plugin?u=76281980&t=17)** There are three main ways that you can install a plugin.
 >
@@ -581,7 +573,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (5), [[Search]] (2), seo (2)
+> **Frameworks & Libraries:** [[WordPress]] (5)
 > **CLI Commands:** find (4), make (3)
 > **Prerequisites:** install (6), you'll need (1)
 > **Exercise Files:** zip file (3), download the (2)
@@ -590,8 +582,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2), means that (1)
 > **Cross-References:** we talked about (1)
 
-#### How to deactivate and remove plugins
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/how-to-deactivate-and-remove-plugins?u=76281980)
+#### [How to deactivate and remove plugins](https://www.linkedin.com/learning/wordpress-everything-about-plugins/how-to-deactivate-and-remove-plugins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -648,8 +639,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to safely update and maintain plugins
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/how-to-safely-update-and-maintain-plugins?u=76281980)
+#### [How to safely update and maintain plugins](https://www.linkedin.com/learning/wordpress-everything-about-plugins/how-to-safely-update-and-maintain-plugins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -693,19 +683,18 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/wordpress-everything-about-plugins/how-to-safely-update-and-maintain-plugins?u=76281980&t=111)** As a final note, you should make sure that before you update plug-ins you check for any other updates that are available.
 >
-> **[2:00](https://www.linkedin.com/learning/wordpress-everything-about-plugins/how-to-safely-update-and-maintain-plugins?u=76281980&t=120)** You'll want to make sure that WordPress is updated and that your themes are updated before you begin updating plugins.
+> **[2:00](https://www.linkedin.com/learning/wordpress-everything-about-plugins/how-to-safely-update-and-maintain-plugins?u=76281980&t=120)** You'll want to make sure that [[WordPress]] is updated and that your themes are updated before you begin updating plugins.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1), [[Troubleshooting]] (1), [[WordPress]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (1)
 > **Best Practices:** recommended (1)
 > **Prerequisites:** before you begin (1)
 > **Speakers:** - [narrator] (1)
 
-#### How to secure plugins with mu-plugins
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/how-to-secure-plugins-with-mu-plugins?u=76281980)
+#### [How to secure plugins with mu-plugins](https://www.linkedin.com/learning/wordpress-everything-about-plugins/how-to-secure-plugins-with-mu-plugins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -715,7 +704,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/wordpress-everything-about-plugins/how-to-secure-plugins-with-mu-plugins?u=76281980&t=9)** Some are vital for the main function of your site.
 >
-> **[0:12](https://www.linkedin.com/learning/wordpress-everything-about-plugins/how-to-secure-plugins-with-mu-plugins?u=76281980&t=12)** For example, an e-commerce plugin will be essential for a shop website to work.
+> **[0:12](https://www.linkedin.com/learning/wordpress-everything-about-plugins/how-to-secure-plugins-with-mu-plugins?u=76281980&t=12)** For example, an [[E-Commerce]] plugin will be essential for a shop website to work.
 >
 > **[0:17](https://www.linkedin.com/learning/wordpress-everything-about-plugins/how-to-secure-plugins-with-mu-plugins?u=76281980&t=17)** There's a way that you can essentially lock a plugin from being deleted via the backend, the way that we just learned how to do.
 >
@@ -747,7 +736,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
@@ -760,8 +749,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Basics of using a plugin
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/basics-of-using-a-plugin?u=76281980)
+#### [Basics of using a plugin](https://www.linkedin.com/learning/wordpress-everything-about-plugins/basics-of-using-a-plugin?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -771,7 +759,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/wordpress-everything-about-plugins/basics-of-using-a-plugin?u=76281980&t=13)** In this chapter, we're going to go over how to use around 20 different plugins of various types.
 >
-> **[0:19](https://www.linkedin.com/learning/wordpress-everything-about-plugins/basics-of-using-a-plugin?u=76281980&t=19)** I have a sample WordPress website for a pretend museum here that I've built and I'll use some different kinds of plugins to help make it a little bit more fun and special.
+> **[0:19](https://www.linkedin.com/learning/wordpress-everything-about-plugins/basics-of-using-a-plugin?u=76281980&t=19)** I have a sample [[WordPress]] website for a pretend museum here that I've built and I'll use some different kinds of plugins to help make it a little bit more fun and special.
 >
 > **[0:29](https://www.linkedin.com/learning/wordpress-everything-about-plugins/basics-of-using-a-plugin?u=76281980&t=29)** Keep in mind that these plugins that I'm about to use are all personal recommendations from me, based on my experience with these tools.
 >
@@ -801,15 +789,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (1), next (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** faq (1)
 > **UI Navigation:** go to (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
 
-#### Using design plugins
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-design-plugins?u=76281980)
+#### [Using design plugins](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-design-plugins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -859,7 +846,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-design-plugins?u=76281980&t=138)** A good reminder for using plugins is that sometimes there's a Gutenberg block or a block, editor block, that actually does what you want.
 >
-> **[2:28](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-design-plugins?u=76281980&t=148)** If I go back to editing this page and I open up my block library, I can see that there is actually a gallery block that just comes with WordPress.
+> **[2:28](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-design-plugins?u=76281980&t=148)** If I go back to editing this page and I open up my block library, I can see that there is actually a gallery block that just comes with [[WordPress]].
 >
 > **[2:40](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-design-plugins?u=76281980&t=160)** However, Envira Gallery allows me to do so many other more complex design options.
 >
@@ -927,7 +914,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2), [[Security]] (1), [[WordPress]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (1)
 > **Prerequisites:** install (3)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
@@ -936,14 +923,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using development plugins
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-development-plugins?u=76281980)
+#### [Using development plugins](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-development-plugins?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-development-plugins?u=76281980&t=0)** - [Narrator] Now let's talk about development plugins.
 >
-> **[0:03](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-development-plugins?u=76281980&t=3)** These are plugins that can help you if you're doing some custom development on your WordPress website.
+> **[0:03](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-development-plugins?u=76281980&t=3)** These are plugins that can help you if you're doing some custom development on your [[WordPress]] website.
 >
 > **[0:08](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-development-plugins?u=76281980&t=8)** If you want to be able to do some debugging on a live website, you can use a plugin like Query Monitor.
 >
@@ -957,9 +943,9 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-development-plugins?u=76281980&t=41)** Maybe you want to write some custom code inside WordPress and don't want to open up the raw code source files.
 >
-> **[0:48](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-development-plugins?u=76281980&t=48)** The simple custom CSS and JavaScript plugin allows you to add code without needing to modify any theme or plug-in files.
+> **[0:48](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-development-plugins?u=76281980&t=48)** The simple custom CSS and [[JavaScript]] plugin allows you to add code without needing to modify any theme or plug-in files.
 >
-> **[0:58](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-development-plugins?u=76281980&t=58)** Once it's installed, you'll find it over here on the left-hand side of the screen and you can open up the custom code in various ways so we can view all the custom code that we've added to the site, and we can add custom CSS through here, add custom JavaScript through here and add custom HTML through here.
+> **[0:58](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-development-plugins?u=76281980&t=58)** Once it's installed, you'll find it over here on the left-hand side of the screen and you can open up the custom code in various ways so we can view all the custom code that we've added to the site, and we can add custom CSS through here, add custom JavaScript through here and add custom [[HTML]] through here.
 >
 > **[1:21](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-development-plugins?u=76281980&t=81)** What's great is that you can name or add a title to each custom snippet that you add.
 >
@@ -975,7 +961,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (3), css (2), [[JavaScript]] (2), [[Debugging]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (3), [[JavaScript]] (2), [[HTML]] (1)
 > **Env Vars:** css (2), html (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** go to (1)
@@ -983,8 +969,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [narrator] (1)
 
-#### Using marketing plugins
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-marketing-plugins?u=76281980)
+#### [Using marketing plugins](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-marketing-plugins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1018,7 +1003,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-marketing-plugins?u=76281980&t=101)** But the main thing I want to look at with you right now is how to actually create an email with MailPoet.
 >
-> **[1:47](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-marketing-plugins?u=76281980&t=107)** So you can create welcome emails, newsletters, post notifications, re-engagement emails and you can even create some emails that are connected to WooCommerce, which is an e-commerce plugin that we'll talk about later.
+> **[1:47](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-marketing-plugins?u=76281980&t=107)** So you can create welcome emails, [[Newsletters]], post notifications, re-engagement emails and you can even create some emails that are connected to [[WooCommerce]], which is an [[E-Commerce]] plugin that we'll talk about later.
 >
 > **[2:01](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-marketing-plugins?u=76281980&t=121)** But say we want to go ahead and create our first newsletter.
 >
@@ -1032,7 +1017,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-marketing-plugins?u=76281980&t=148)** You can save the email for later, or you can choose Next to get started with sending it.
 >
-> **[2:33](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-marketing-plugins?u=76281980&t=153)** MailPoet also allows you to create signup forms so that people can sign up in order to get those emails.
+> **[2:33](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-marketing-plugins?u=76281980&t=153)** MailPoet also allows you to create signup [[Forms]] so that people can sign up in order to get those emails.
 >
 > **[2:41](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-marketing-plugins?u=76281980&t=161)** They can be pop-ups, sliders, fixed bars, areas that go below pages, and so on.
 >
@@ -1048,7 +1033,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** seo (5), [[Search]] (2), [[Newsletters]] (1), [[WooCommerce]] (1), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[Newsletters]] (1), [[WooCommerce]] (1), [[E-Commerce]] (1), [[Forms]] (1)
 > **Env Vars:** seo (5)
 > **CLI Commands:** find (2)
 > **UI Navigation:** go to (2)
@@ -1057,8 +1042,7 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Speakers:** - [narrator] (1)
 
-#### Using performance and security plugins
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-performance-and-security-plugins?u=76281980)
+#### [Using performance and security plugins](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-performance-and-security-plugins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1066,7 +1050,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-performance-and-security-plugins?u=76281980&t=4)** It's important to note that while performance and security plug-ins can be useful, the best security and performance activities that you can do for your site begin with protecting and optimizing your site on the server level.
 >
-> **[0:17](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-performance-and-security-plugins?u=76281980&t=17)** My course on building a secure WordPress site goes over that in tons of detail.
+> **[0:17](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-performance-and-security-plugins?u=76281980&t=17)** My course on building a secure [[WordPress]] site goes over that in tons of detail.
 >
 > **[0:23](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-performance-and-security-plugins?u=76281980&t=23)** So let's talk now about some plugins you can use to make your site even more secure and run even better.
 >
@@ -1128,7 +1112,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), next (2), [[Search]] (2), [[WordPress]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (1)
 > **Definitions:** is a  (3), is called (1)
 > **Prerequisites:** install (3), setup (1)
 > **CLI Commands:** make (3)
@@ -1137,8 +1121,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1), select the (1)
 > **Best Practices:** you should always (1)
 
-#### Using maintenance plugins
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-maintenance-plugins?u=76281980)
+#### [Using maintenance plugins](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-maintenance-plugins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1182,7 +1165,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-maintenance-plugins?u=76281980&t=124)** Once it's activated, you'll go to its settings page, and you have the ability to immediately take a backup using this big blue button.
 >
-> **[2:14](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-maintenance-plugins?u=76281980&t=134)** And when you do, you'll find that the plugin downloads all of your site files and databases, and you can then restore them from this section down here.
+> **[2:14](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-maintenance-plugins?u=76281980&t=134)** And when you do, you'll find that the plugin downloads all of your site files and [[Databases]], and you can then restore them from this section down here.
 >
 > **[2:23](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-maintenance-plugins?u=76281980&t=143)** So as you can see, I've taken a database backup on this date and a backup of all of these other things on this date.
 >
@@ -1220,7 +1203,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (1), database (1)
+> **Frameworks & Libraries:** [[Databases]] (1)
 > **CLI Commands:** find (4), make (2)
 > **UI Navigation:** go to (6)
 > **Cross-References:** go back to (3)
@@ -1229,8 +1212,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using admin plugins
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-admin-plugins?u=76281980)
+#### [Using admin plugins](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-admin-plugins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1242,7 +1224,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-admin-plugins?u=76281980&t=18)** After activating it, you'll notice that it doesn't have a settings link like a lot of the other ones do.
 >
-> **[0:24](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-admin-plugins?u=76281980&t=24)** Instead, we directly go to the user's area of WordPress.
+> **[0:24](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-admin-plugins?u=76281980&t=24)** Instead, we directly go to the user's area of [[WordPress]].
 >
 > **[0:29](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-admin-plugins?u=76281980&t=29)** Now what this plugin allows you to do is choose a user and then switch to that user.
 >
@@ -1312,7 +1294,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Troubleshooting]] (2), [[WordPress]] (1), next (1), traffic (1)
+> **Frameworks & Libraries:** [[WordPress]] (1)
 > **Env Vars:** url (8)
 > **UI Navigation:** go to (5), switch to (2)
 > **Prerequisites:** setup (2)
@@ -1321,18 +1303,17 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using plugins in the block editor
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-plugins-in-the-block-editor?u=76281980)
+#### [Using plugins in the block editor](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-plugins-in-the-block-editor?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-plugins-in-the-block-editor?u=76281980&t=0)** - [Instructor] Let's go over an example of using a plugin within the block editor.
 >
-> **[0:05](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-plugins-in-the-block-editor?u=76281980&t=5)** Many plugins add blocks to your block library, and I think one of the strongest and most detailed examples of this is WooCommerce.
+> **[0:05](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-plugins-in-the-block-editor?u=76281980&t=5)** Many plugins add blocks to your block library, and I think one of the strongest and most detailed examples of this is [[WooCommerce]].
 >
 > **[0:13](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-plugins-in-the-block-editor?u=76281980&t=13)** In the case of this site, I want to be able to sell tickets and memberships on this page.
 >
-> **[0:18](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-plugins-in-the-block-editor?u=76281980&t=18)** So I've already built out the products on the backend of WooCommerce and now I want to use the plugin blocks to add shop content to the tickets page.
+> **[0:18](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-plugins-in-the-block-editor?u=76281980&t=18)** So I've already built out the [[Microsoft Products|products]] on the backend of WooCommerce and now I want to use the plugin blocks to add shop content to the tickets page.
 >
 > **[0:27](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-plugins-in-the-block-editor?u=76281980&t=27)** So I've got two ticket sections here.
 >
@@ -1416,7 +1397,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WooCommerce]] (7), product (6), [[Search]] (5), [[Microsoft Products|Products]] (3)
+> **Frameworks & Libraries:** [[WooCommerce]] (7), [[Microsoft Products|Products]] (3)
 > **UI Navigation:** toggle (2), select the (1), scroll down (1)
 > **CLI Commands:** find (2)
 > **Documentation:** the documentation (1)
@@ -1427,8 +1408,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Finding a problem plugin
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/finding-a-problem-plugin?u=76281980)
+#### [Finding a problem plugin](https://www.linkedin.com/learning/wordpress-everything-about-plugins/finding-a-problem-plugin?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1495,8 +1475,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manually removing a plugin
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/manually-removing-a-plugin?u=76281980)
+#### [Manually removing a plugin](https://www.linkedin.com/learning/wordpress-everything-about-plugins/manually-removing-a-plugin?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1528,7 +1507,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/wordpress-everything-about-plugins/manually-removing-a-plugin?u=76281980&t=83)** If it's not resolved, I can simply change the plugin back to what it was before in order to re-enable it.
 >
-> **[1:31](https://www.linkedin.com/learning/wordpress-everything-about-plugins/manually-removing-a-plugin?u=76281980&t=91)** And this works because by changing the name of the plugin, you are instructing WordPress to forget that it's here.
+> **[1:31](https://www.linkedin.com/learning/wordpress-everything-about-plugins/manually-removing-a-plugin?u=76281980&t=91)** And this works because by changing the name of the plugin, you are instructing [[WordPress]] to forget that it's here.
 >
 > **[1:39](https://www.linkedin.com/learning/wordpress-everything-about-plugins/manually-removing-a-plugin?u=76281980&t=99)** The file path is broken.
 >
@@ -1549,8 +1528,7 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [narrator] (1)
 
-#### Troubleshooting plugins with plugins
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/troubleshooting-plugins-with-plugins?u=76281980)
+#### [Troubleshooting plugins with plugins](https://www.linkedin.com/learning/wordpress-everything-about-plugins/troubleshooting-plugins-with-plugins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1624,7 +1602,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Troubleshooting]] (11)
 > **Analogies:** for example (2), just like (2)
 > **Cross-References:** we talked about (1), previous video (1)
 > **UI Navigation:** go to (2)
@@ -1633,8 +1610,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using plugin support channels
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-plugin-support-channels?u=76281980)
+#### [Using plugin support channels](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-plugin-support-channels?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1646,7 +1622,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-plugin-support-channels?u=76281980&t=21)** And you can usually find it through their page in the directory on the support tab.
 >
-> **[0:25](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-plugin-support-channels?u=76281980&t=25)** For example, if I need help for my GiveWP donation plugin, I can find the plugin on my Plugins page, go to View details, and then go to [WordPress.org](https://WordPress.org) Plugin Page which is going to be here on the right.
+> **[0:25](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-plugin-support-channels?u=76281980&t=25)** For example, if I need help for my GiveWP donation plugin, I can find the plugin on my Plugins page, go to View details, and then go to [[[WordPress]].org](https://WordPress.org) Plugin Page which is going to be here on the right.
 >
 > **[0:40](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-plugin-support-channels?u=76281980&t=40)** Sometimes it appears up here in these tabs, but it doesn't on this plugin.
 >
@@ -1686,7 +1662,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Troubleshooting]] (1), [[WordPress]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (1)
 > **CLI Commands:** find (6)
 > **UI Navigation:** go to (3)
 > **URLs:** [wordpress.org](https://wordpress.org) (1)
@@ -1698,16 +1674,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating a simple plugin
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/creating-a-simple-plugin?u=76281980)
+#### [Creating a simple plugin](https://www.linkedin.com/learning/wordpress-everything-about-plugins/creating-a-simple-plugin?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/wordpress-everything-about-plugins/creating-a-simple-plugin?u=76281980&t=0)** - [Narrator] Now that you know all about plugins and how they work and what they're used for, you may want to actually create a plugin of your very own.
 >
-> **[0:08](https://www.linkedin.com/learning/wordpress-everything-about-plugins/creating-a-simple-plugin?u=76281980&t=8)** And one of the best things about the open source nature of WordPress is that you can.
+> **[0:08](https://www.linkedin.com/learning/wordpress-everything-about-plugins/creating-a-simple-plugin?u=76281980&t=8)** And one of the best things about the open source nature of [[WordPress]] is that you can.
 >
-> **[0:13](https://www.linkedin.com/learning/wordpress-everything-about-plugins/creating-a-simple-plugin?u=76281980&t=13)** If you know how to write PHP, you're pretty much ready and able to create your very own plugin from scratch.
+> **[0:13](https://www.linkedin.com/learning/wordpress-everything-about-plugins/creating-a-simple-plugin?u=76281980&t=13)** If you know how to write [[PHP]], you're pretty much ready and able to create your very own plugin from scratch.
 >
 > **[0:20](https://www.linkedin.com/learning/wordpress-everything-about-plugins/creating-a-simple-plugin?u=76281980&t=20)** Even if you don't know PHP, you can grab a PHP snippet from somewhere else online that does something you need and then package it up in a specific way so that you can upload it as a plugin.
 >
@@ -1790,8 +1765,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Exercise Files:** template (1)
 
-#### Creating a complex plugin
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/creating-a-complex-plugin?u=76281980)
+#### [Creating a complex plugin](https://www.linkedin.com/learning/wordpress-everything-about-plugins/creating-a-complex-plugin?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1801,23 +1775,23 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/wordpress-everything-about-plugins/creating-a-complex-plugin?u=76281980&t=14)** So for now, we'll look at what a complex plugin may look like and learn what you need to know in order to make a complex plugin for yourself.
 >
-> **[0:23](https://www.linkedin.com/learning/wordpress-everything-about-plugins/creating-a-complex-plugin?u=76281980&t=23)** Let's look at this plugin, WooCommerce.
+> **[0:23](https://www.linkedin.com/learning/wordpress-everything-about-plugins/creating-a-complex-plugin?u=76281980&t=23)** Let's look at this plugin, [[WooCommerce]].
 >
-> **[0:26](https://www.linkedin.com/learning/wordpress-everything-about-plugins/creating-a-complex-plugin?u=76281980&t=26)** It's the most popular e-commerce plugin out there and it does dozens and dozens of individual things, both on the back and the front end of the website.
+> **[0:26](https://www.linkedin.com/learning/wordpress-everything-about-plugins/creating-a-complex-plugin?u=76281980&t=26)** It's the most popular [[E-Commerce]] plugin out there and it does dozens and dozens of individual things, both on the back and the front end of the website.
 >
-> **[0:36](https://www.linkedin.com/learning/wordpress-everything-about-plugins/creating-a-complex-plugin?u=76281980&t=36)** Technically, a plugin only requires a single PHP file to exist as a plugin, but this plugin has PHP files, HTML files, CSS files, tons of folders with folders inside of them, and a lot more.
+> **[0:36](https://www.linkedin.com/learning/wordpress-everything-about-plugins/creating-a-complex-plugin?u=76281980&t=36)** Technically, a plugin only requires a single [[PHP]] file to exist as a plugin, but this plugin has PHP files, [[HTML]] files, CSS files, tons of folders with folders inside of them, and a lot more.
 >
 > **[0:53](https://www.linkedin.com/learning/wordpress-everything-about-plugins/creating-a-complex-plugin?u=76281980&t=53)** This is the kind of intricacy you'll need in order to create a very complex plugin like WooCommerce.
 >
 > **[1:00](https://www.linkedin.com/learning/wordpress-everything-about-plugins/creating-a-complex-plugin?u=76281980&t=60)** If you want to develop your own plugin, you'll need to be familiar with four main concepts.
 >
-> **[1:06](https://www.linkedin.com/learning/wordpress-everything-about-plugins/creating-a-complex-plugin?u=76281980&t=66)** You need to be familiar with WordPress Actions and Hooks, the Plugin API Actions and Filters, WordPress core functions, and how to make an options page so that people can modify how the plugin works from the backend of their website.
+> **[1:06](https://www.linkedin.com/learning/wordpress-everything-about-plugins/creating-a-complex-plugin?u=76281980&t=66)** You need to be familiar with [[WordPress]] Actions and Hooks, the Plugin API Actions and Filters, WordPress core functions, and how to make an options page so that people can modify how the plugin works from the backend of their website.
 >
 > **[1:22](https://www.linkedin.com/learning/wordpress-everything-about-plugins/creating-a-complex-plugin?u=76281980&t=82)** Visit the WordPress Plugin Developer Handbook, as well as the linked codex to learn about all of these things and keep track of how they change and evolve over time.
 >
 > **[1:33](https://www.linkedin.com/learning/wordpress-everything-about-plugins/creating-a-complex-plugin?u=76281980&t=93)** Once you've got actions, hooks, functions, and your options page sorted, you should be ready to go.
 >
-> **[1:38](https://www.linkedin.com/learning/wordpress-everything-about-plugins/creating-a-complex-plugin?u=76281980&t=98)** And for some more in-depth and visual information, I highly recommend looking through the LinkedIn Learning Library for a course on how to create WordPress plugins if you really want to develop your own.
+> **[1:38](https://www.linkedin.com/learning/wordpress-everything-about-plugins/creating-a-complex-plugin?u=76281980&t=98)** And for some more in-depth and visual information, I highly recommend looking through the [[LinkedIn]] Learning Library for a course on how to create WordPress plugins if you really want to develop your own.
 
 > [!info]- Semantic Content
 >
@@ -1828,12 +1802,11 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (2)
 > **Speakers:** - [instructor] (1)
 
-#### Submitting your plugin to the directory
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/submitting-your-plugin-to-the-directory?u=76281980)
+#### [Submitting your plugin to the directory](https://www.linkedin.com/learning/wordpress-everything-about-plugins/submitting-your-plugin-to-the-directory?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-everything-about-plugins/submitting-your-plugin-to-the-directory?u=76281980&t=0)** - [Instructor] The WordPress plugin library directory or repository is where you can submit a plugin to be found and used by others.
+> **[0:00](https://www.linkedin.com/learning/wordpress-everything-about-plugins/submitting-your-plugin-to-the-directory?u=76281980&t=0)** - [Instructor] The [[WordPress]] plugin library directory or repository is where you can submit a plugin to be found and used by others.
 >
 > **[0:08](https://www.linkedin.com/learning/wordpress-everything-about-plugins/submitting-your-plugin-to-the-directory?u=76281980&t=8)** Developers from all over the world create and add their plugins to this list.
 >
@@ -1863,7 +1836,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (3), teams (1), next (1)
+> **Frameworks & Libraries:** [[WordPress]] (3)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
 > **URLs:** [wordpress.org](https://wordpress.org) (1)
@@ -1872,12 +1845,11 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Warnings:** be aware (1)
 
-#### Selling your own plugin
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/selling-your-own-plugin?u=76281980)
+#### [Selling your own plugin](https://www.linkedin.com/learning/wordpress-everything-about-plugins/selling-your-own-plugin?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-everything-about-plugins/selling-your-own-plugin?u=76281980&t=0)** - [Instructor] Many plugins in the WordPress world are distributed and sold outside of the WordPress Directory.
+> **[0:00](https://www.linkedin.com/learning/wordpress-everything-about-plugins/selling-your-own-plugin?u=76281980&t=0)** - [Instructor] Many plugins in the [[WordPress]] world are distributed and sold outside of the WordPress Directory.
 >
 > **[0:06](https://www.linkedin.com/learning/wordpress-everything-about-plugins/selling-your-own-plugin?u=76281980&t=6)** It's totally your choice whether or not you want to distribute through the Directory, through your own methods, or through both.
 >
@@ -1897,7 +1869,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/wordpress-everything-about-plugins/selling-your-own-plugin?u=76281980&t=63)** Some people just sell downloads of their plugin file via their site using, you guessed it, a plugin.
 >
-> **[1:09](https://www.linkedin.com/learning/wordpress-everything-about-plugins/selling-your-own-plugin?u=76281980&t=69)** Easy Digital Downloads or parts of WooCommerce can make it pretty easy for you to set up a product that instead of shipping something to the customer, instead emails them the plugin file.
+> **[1:09](https://www.linkedin.com/learning/wordpress-everything-about-plugins/selling-your-own-plugin?u=76281980&t=69)** Easy Digital Downloads or parts of [[WooCommerce]] can make it pretty easy for you to set up a product that instead of shipping something to the customer, instead emails them the plugin file.
 >
 > **[1:20](https://www.linkedin.com/learning/wordpress-everything-about-plugins/selling-your-own-plugin?u=76281980&t=80)** You can create a plugin product, set the cost, and then upload the file right through there.
 >
@@ -1917,7 +1889,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/wordpress-everything-about-plugins/selling-your-own-plugin?u=76281980&t=136)** Screenshots of your plugin's settings, and demos of your plugin in action.
 >
-> **[2:22](https://www.linkedin.com/learning/wordpress-everything-about-plugins/selling-your-own-plugin?u=76281980&t=142)** You may also want to have email marketing tools at the ready, so you can communicate with customers regarding updates or sales.
+> **[2:22](https://www.linkedin.com/learning/wordpress-everything-about-plugins/selling-your-own-plugin?u=76281980&t=142)** You may also want to have [[Email Marketing]] tools at the ready, so you can communicate with customers regarding updates or sales.
 >
 > **[2:29](https://www.linkedin.com/learning/wordpress-everything-about-plugins/selling-your-own-plugin?u=76281980&t=149)** You'd want support software for collecting and answering support tickets.
 >
@@ -1933,13 +1905,13 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/wordpress-everything-about-plugins/selling-your-own-plugin?u=76281980&t=194)** Instead, focus on educating and communicating with your existing customers and telling them that the only true place to find your plugin and its support is through your designated channels.
 >
-> **[3:27](https://www.linkedin.com/learning/wordpress-everything-about-plugins/selling-your-own-plugin?u=76281980&t=207)** For example, this Ninja Forms plugin is probably a great piece of software, but the site distributing it shown here is not associated with Ninja Forms or its parent company.
+> **[3:27](https://www.linkedin.com/learning/wordpress-everything-about-plugins/selling-your-own-plugin?u=76281980&t=207)** For example, this Ninja [[Forms]] plugin is probably a great piece of software, but the site distributing it shown here is not associated with Ninja Forms or its parent company.
 >
 > **[3:37](https://www.linkedin.com/learning/wordpress-everything-about-plugins/selling-your-own-plugin?u=76281980&t=217)** Therefore, we can assume that this plugin, if you buy it from here, probably won't come with the same kind of support or updates that you would need and expect for it to work safely on your website, so always remember to download straight from the source.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (2), business (2), product (2), [[Forms]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (2), [[Forms]] (2), [[WooCommerce]] (1), [[Email Marketing]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Analogies:** similar to (1), for example (1)
 > **Best Practices:** make sure to (1), remember to (1)
@@ -1953,14 +1925,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps in your WordPress plugin journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/next-steps-in-your-wordpress-plugin-journey?u=76281980)
+#### [Next steps in your WordPress plugin journey](https://www.linkedin.com/learning/wordpress-everything-about-plugins/next-steps-in-your-wordpress-plugin-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/wordpress-everything-about-plugins/next-steps-in-your-wordpress-plugin-journey?u=76281980&t=0)** - [Instructor] Thank you so much for taking this course with me.
 >
-> **[0:03](https://www.linkedin.com/learning/wordpress-everything-about-plugins/next-steps-in-your-wordpress-plugin-journey?u=76281980&t=3)** I hope that you've learned all you need to know and more about using WordPress plugins.
+> **[0:03](https://www.linkedin.com/learning/wordpress-everything-about-plugins/next-steps-in-your-wordpress-plugin-journey?u=76281980&t=3)** I hope that you've learned all you need to know and more about using [[WordPress]] plugins.
 >
 > **[0:08](https://www.linkedin.com/learning/wordpress-everything-about-plugins/next-steps-in-your-wordpress-plugin-journey?u=76281980&t=8)** Please continue to explore plugins as you build out your websites and share your favorites with me in the Q&A section.
 >

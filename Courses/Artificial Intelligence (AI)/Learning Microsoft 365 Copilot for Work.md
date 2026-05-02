@@ -74,12 +74,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explore Microsoft 365's AI assistant
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/explore-microsoft-365-s-ai-assistant?u=76281980)
+#### [Explore Microsoft 365's AI assistant](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/explore-microsoft-365-s-ai-assistant?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/explore-microsoft-365-s-ai-assistant?u=76281980&t=0)** - Microsoft 365 Copilot is the version of Microsoft's AI assistant that can supercharge your office applications, including Word, Excel, PowerPoint, Outlook, and Teams.
+> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/explore-microsoft-365-s-ai-assistant?u=76281980&t=0)** - [[Microsoft 365]] [[Microsoft Copilot|Copilot]] is the version of [[Microsoft]]'s AI assistant that can supercharge your [[Microsoft Office|office]] applications, including [[Microsoft Word|Word]], [[Microsoft Excel|Excel]], [[Microsoft PowerPoint|PowerPoint]], [[Microsoft Outlook|Outlook]], and Teams.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/explore-microsoft-365-s-ai-assistant?u=76281980&t=11)** Copilot in Microsoft 365 also includes the Business Chat.
 >
@@ -91,7 +90,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (4), [[Microsoft 365]] (3), [[Microsoft]] (1), ai (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (4), [[Microsoft 365]] (3), [[Microsoft]] (1), [[Microsoft Office|Office]] (1), [[Microsoft Word|Word]] (1)
 > **Speakers:** - microsoft (1)
 
 
@@ -99,20 +98,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use Copilot Chat with your work data
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/use-copilot-chat-with-your-work-data-30057156?u=76281980)
+#### [Use Copilot Chat with your work data](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/use-copilot-chat-with-your-work-data-30057156?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/use-copilot-chat-with-your-work-data-30057156?u=76281980&t=0)** - [Instructor] Let's go over how to get started chatting with Copilot to get questions answered about your business data.
+> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/use-copilot-chat-with-your-work-data-30057156?u=76281980&t=0)** - [Instructor] Let's go over how to get started chatting with [[Microsoft Copilot|Copilot]] to get questions answered about your business data.
 >
-> **[0:06](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/use-copilot-chat-with-your-work-data-30057156?u=76281980&t=6)** Go to [microsoft365.com](https://microsoft365.com) and sign in with your Microsoft 365 account.
+> **[0:06](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/use-copilot-chat-with-your-work-data-30057156?u=76281980&t=6)** Go to [microsoft365.com](https://microsoft365.com) and sign in with your [[Microsoft 365]] account.
 >
 > **[0:12](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/use-copilot-chat-with-your-work-data-30057156?u=76281980&t=12)** If you do have a particular URL or a portal that your company wants you to use, you can absolutely use that method.
 >
 > **[0:19](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/use-copilot-chat-with-your-work-data-30057156?u=76281980&t=19)** You'll be brought to a screen that most likely looks like this one here.
 >
-> **[0:23](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/use-copilot-chat-with-your-work-data-30057156?u=76281980&t=23)** Though I should mention that Microsoft updates this landing page often, so I'd become familiar with this Copilot icon here on the top left hand side of the screen so that you can identify it and find it easily.
+> **[0:23](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/use-copilot-chat-with-your-work-data-30057156?u=76281980&t=23)** Though I should mention that [[Microsoft]] updates this landing page often, so I'd become familiar with this Copilot icon here on the top left hand side of the screen so that you can identify it and find it easily.
 >
 > **[0:35](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/use-copilot-chat-with-your-work-data-30057156?u=76281980&t=35)** Later, I'll show you how to chat with Copilot directly in Teams and in the desktop apps, and we'll be looking for this icon frequently.
 >
@@ -144,7 +142,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/use-copilot-chat-with-your-work-data-30057156?u=76281980&t=133)** That is because we only have the one option to use a web-grounded chat.
 >
-> **[2:18](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/use-copilot-chat-with-your-work-data-30057156?u=76281980&t=138)** Now I can click the plus sign and add some work content and ask questions about those files, but these are only files that I have on my OneDrive account.
+> **[2:18](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/use-copilot-chat-with-your-work-data-30057156?u=76281980&t=138)** Now I can click the plus sign and add some work content and ask questions about those files, but these are only files that I have on my [[Microsoft OneDrive|OneDrive]] account.
 >
 > **[2:30](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/use-copilot-chat-with-your-work-data-30057156?u=76281980&t=150)** And even though I don't have a Copilot license here, I still get something called enterprise data protection.
 >
@@ -240,7 +238,7 @@ created: 2026-05-02
 >
 > **[7:20](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/use-copilot-chat-with-your-work-data-30057156?u=76281980&t=440)** I can see all of the questions and answers from my previous chats, and I can continue that conversation from here.
 >
-> **[7:28](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/use-copilot-chat-with-your-work-data-30057156?u=76281980&t=448)** With Business Chat, everything is protected by the security and privacy safeguards in Microsoft 365.
+> **[7:28](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/use-copilot-chat-with-your-work-data-30057156?u=76281980&t=448)** With Business Chat, everything is protected by the security and [[Privacy]] safeguards in Microsoft 365.
 >
 > **[7:35](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/use-copilot-chat-with-your-work-data-30057156?u=76281980&t=455)** You will never be able to access another person's messages, calendar or other private information.
 >
@@ -248,7 +246,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (23), web (9), [[Microsoft 365]] (6), [[Search]] (5), business (3)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (23), [[Microsoft 365]] (6), [[Microsoft OneDrive|Onedrive]] (2), [[Microsoft]] (1), [[Privacy]] (1)
 > **UI Navigation:** click on (4), go to (2), toggle (2), switch to (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (2), refers to (1), is an  (1)
@@ -257,14 +255,13 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Prerequisites:** set up (1)
 
-#### Generate drafts and modify documents in Word
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/generate-drafts-and-modify-documents-in-word-30057157?u=76281980)
+#### [Generate drafts and modify documents in Word](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/generate-drafts-and-modify-documents-in-word-30057157?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/generate-drafts-and-modify-documents-in-word-30057157?u=76281980&t=0)** - [Instructor] With Microsoft 365 Copilot, you can use AI tools inside of Office applications.
+> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/generate-drafts-and-modify-documents-in-word-30057157?u=76281980&t=0)** - [Instructor] With [[Microsoft 365]] [[Microsoft Copilot|Copilot]], you can use AI tools inside of [[Microsoft Office|Office]] applications.
 >
-> **[0:06](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/generate-drafts-and-modify-documents-in-word-30057157?u=76281980&t=6)** Right now, I'm going to show you what you can do with Copilot in Word.
+> **[0:06](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/generate-drafts-and-modify-documents-in-word-30057157?u=76281980&t=6)** Right now, I'm going to show you what you can do with Copilot in [[Microsoft Word|Word]].
 >
 > **[0:10](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/generate-drafts-and-modify-documents-in-word-30057157?u=76281980&t=10)** With a document open, if you have a paid Copilot license, you'll immediately see the option to click Generate to create a summary at the top of the screen.
 >
@@ -344,7 +341,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/generate-drafts-and-modify-documents-in-word-30057157?u=76281980&t=212)** The draft will be better if you can provide as much information and context as you can to Copilot.
 >
-> **[3:38](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/generate-drafts-and-modify-documents-in-word-30057157?u=76281980&t=218)** I'm going to ask it to write product descriptions comparing the different solar panel products from the company Kinetico.
+> **[3:38](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/generate-drafts-and-modify-documents-in-word-30057157?u=76281980&t=218)** I'm going to ask it to write product descriptions comparing the different solar panel [[Microsoft Products|products]] from the company Kinetico.
 >
 > **[3:49](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/generate-drafts-and-modify-documents-in-word-30057157?u=76281980&t=229)** After typing a request, you can click Generate, and of course, Copilot will use the information that it finds to generate a draft.
 >
@@ -356,7 +353,7 @@ created: 2026-05-02
 >
 > **[4:14](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/generate-drafts-and-modify-documents-in-word-30057157?u=76281980&t=254)** And remember, we do that by clicking the plus sign, and then start typing the name of the file.
 >
-> **[4:22](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/generate-drafts-and-modify-documents-in-word-30057157?u=76281980&t=262)** For example, here, I have a relevant PowerPoint presentation from my OneDrive, and you can reference as many as three files in each request.
+> **[4:22](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/generate-drafts-and-modify-documents-in-word-30057157?u=76281980&t=262)** For example, here, I have a relevant [[Microsoft PowerPoint|PowerPoint]] presentation from my [[Microsoft OneDrive|OneDrive]], and you can reference as many as three files in each request.
 >
 > **[4:31](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/generate-drafts-and-modify-documents-in-word-30057157?u=76281980&t=271)** But let's see what happens without referencing that file.
 >
@@ -372,7 +369,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (16), [[Microsoft 365]] (3), next (2), prompt (2), ai (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (16), [[Microsoft 365]] (3), [[Microsoft Office|Office]] (1), [[Microsoft Word|Word]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Analogies:** for example (2), just like (1)
 > **UI Navigation:** scroll down (1)
@@ -380,20 +377,19 @@ created: 2026-05-02
 > **Best Practices:** you should always (1)
 > **Speakers:** - [instructor] (1)
 
-#### Analyze data with Copilot in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/analyze-data-with-copilot-in-excel?u=76281980)
+#### [Analyze data with Copilot in Excel](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/analyze-data-with-copilot-in-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/analyze-data-with-copilot-in-excel?u=76281980&t=0)** - [Instructor] Copilot can help you work in Excel.
+> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/analyze-data-with-copilot-in-excel?u=76281980&t=0)** - [Instructor] [[Microsoft Copilot|Copilot]] can help you work in [[Microsoft Excel|Excel]].
 >
 > **[0:02](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/analyze-data-with-copilot-in-excel?u=76281980&t=2)** It has some great new capabilities, making it much easier to sort, filter, analyze data and more.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/analyze-data-with-copilot-in-excel?u=76281980&t=9)** But before we get started, Copilot in Excel will only work with files stored on one of Microsoft's online storage tools.
+> **[0:09](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/analyze-data-with-copilot-in-excel?u=76281980&t=9)** But before we get started, Copilot in Excel will only work with files stored on one of [[Microsoft]]'s online storage tools.
 >
 > **[0:16](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/analyze-data-with-copilot-in-excel?u=76281980&t=16)** You can use Excel on the web, but if you use the Excel desktop application, like I am here, when you open your document, you cannot open a file from your computer where it says This PC.
 >
-> **[0:29](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/analyze-data-with-copilot-in-excel?u=76281980&t=29)** You'll need to open the file from OneDrive or SharePoint.
+> **[0:29](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/analyze-data-with-copilot-in-excel?u=76281980&t=29)** You'll need to open the file from [[Microsoft OneDrive|OneDrive]] or [[SharePoint]].
 >
 > **[0:33](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/analyze-data-with-copilot-in-excel?u=76281980&t=33)** With Excel open, there is an AutoSave option near the top left.
 >
@@ -489,7 +485,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (22), [[Microsoft Excel|Excel]] (12), data (4), web (2), application (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (22), [[Microsoft Excel|Excel]] (12), [[Microsoft]] (1), [[Microsoft OneDrive|Onedrive]] (1), [[SharePoint]] (1)
 > **CLI Commands:** make (5)
 > **Non-Speech:** (computer keys clicking) (4)
 > **Prerequisites:** you'll need (1), make sure you have (1)
@@ -498,12 +494,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create and improve presentations in PowerPoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/create-and-improve-presentations-in-powerpoint?u=76281980)
+#### [Create and improve presentations in PowerPoint](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/create-and-improve-presentations-in-powerpoint?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/create-and-improve-presentations-in-powerpoint?u=76281980&t=0)** - [Instructor] Copilot can be used in PowerPoint to help you draft new presentations or new slides, or it can be used to make improvements to a presentation that you already have.
+> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/create-and-improve-presentations-in-powerpoint?u=76281980&t=0)** - [Instructor] [[Microsoft Copilot|Copilot]] can be used in [[Microsoft PowerPoint|PowerPoint]] to help you draft new presentations or new slides, or it can be used to make improvements to a presentation that you already have.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/create-and-improve-presentations-in-powerpoint?u=76281980&t=9)** From the welcome screen in PowerPoint, I could click create with Copilot.
 >
@@ -535,7 +530,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/create-and-improve-presentations-in-powerpoint?u=76281980&t=102)** If I had an existing presentation template I was using, it would be listed here.
 >
-> **[1:47](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/create-and-improve-presentations-in-powerpoint?u=76281980&t=107)** I can also click Microsoft 365 to see some other ones I can choose, and any that my organization has given me to be able to use directly in my presentation, I can also find those here under your organization.
+> **[1:47](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/create-and-improve-presentations-in-powerpoint?u=76281980&t=107)** I can also click [[Microsoft 365]] to see some other ones I can choose, and any that my organization has given me to be able to use directly in my presentation, I can also find those here under your organization.
 >
 > **[2:02](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/create-and-improve-presentations-in-powerpoint?u=76281980&t=122)** I'll click cancel on this, and for now I'll just keep the standard design and click the generate button.
 >
@@ -579,13 +574,13 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/create-and-improve-presentations-in-powerpoint?u=76281980&t=243)** This time, I'm going to choose to create a new presentation with file.
 >
-> **[4:08](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/create-and-improve-presentations-in-powerpoint?u=76281980&t=248)** As always, with Copilot, the more information you can provide, the more effective the draft will be, and a great way to provide that information in context is to reference a Microsoft Word document that already contains the relevant information.
+> **[4:08](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/create-and-improve-presentations-in-powerpoint?u=76281980&t=248)** As always, with Copilot, the more information you can provide, the more effective the draft will be, and a great way to provide that information in context is to reference a [[Microsoft Word]] document that already contains the relevant information.
 >
 > **[4:21](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/create-and-improve-presentations-in-powerpoint?u=76281980&t=261)** So this time it says "Create presentation about" and it's opening up the file dialogue.
 >
 > **[4:26](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/create-and-improve-presentations-in-powerpoint?u=76281980&t=266)** Let's see what I'm looking for here. So I'll search for it.
 >
-> **[4:33](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/create-and-improve-presentations-in-powerpoint?u=76281980&t=273)** I'll click send, and this has made a brand new presentation from a Word document that I've given Copilot.
+> **[4:33](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/create-and-improve-presentations-in-powerpoint?u=76281980&t=273)** I'll click send, and this has made a brand new presentation from a [[Microsoft Word|Word]] document that I've given Copilot.
 >
 > **[4:45](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/create-and-improve-presentations-in-powerpoint?u=76281980&t=285)** I'll click generate slides,
 >
@@ -611,7 +606,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (17), [[Microsoft PowerPoint|Powerpoint]] (5), management (1), [[Microsoft 365]] (1), [[Microsoft Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (17), [[Microsoft PowerPoint|Powerpoint]] (5), [[Microsoft 365]] (1), [[Microsoft Word]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (3), find (3)
 > **Exercise Files:** template (2)
 > **Analogies:** picture (2)
@@ -619,14 +614,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Draft and summarize messages in Outlook
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/draft-and-summarize-messages-in-outlook-30064148?u=76281980)
+#### [Draft and summarize messages in Outlook](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/draft-and-summarize-messages-in-outlook-30064148?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/draft-and-summarize-messages-in-outlook-30064148?u=76281980&t=0)** - [Instructor] Copilot and Outlook can help you draft email messages, get summaries of messages that you've received, and even give you coaching advice to make you a more effective communicator.
+> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/draft-and-summarize-messages-in-outlook-30064148?u=76281980&t=0)** - [Instructor] [[Microsoft Copilot|Copilot]] and [[Microsoft Outlook|Outlook]] can help you draft email messages, get summaries of messages that you've received, and even give you coaching advice to make you a more effective communicator.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/draft-and-summarize-messages-in-outlook-30064148?u=76281980&t=10)** Copilot works in Outlook for Windows, Outlook for Mac, and even Outlook on the Web.
+> **[0:10](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/draft-and-summarize-messages-in-outlook-30064148?u=76281980&t=10)** Copilot works in Outlook for [[Windows]], Outlook for Mac, and even Outlook on the Web.
 >
 > **[0:15](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/draft-and-summarize-messages-in-outlook-30064148?u=76281980&t=15)** First, I'll select a message in my Inbox, and above the message, there's an option to summarize it using Copilot.
 >
@@ -640,7 +634,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/draft-and-summarize-messages-in-outlook-30064148?u=76281980&t=59)** Maybe you want to paste it into another email, or paste it to Teams.
 >
-> **[1:03](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/draft-and-summarize-messages-in-outlook-30064148?u=76281980&t=63)** Next, let's compose a new message.
+> **[1:03](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/draft-and-summarize-messages-in-outlook-30064148?u=76281980&t=63)** Next, let's [[Jetpack Compose|compose]] a new message.
 >
 > **[1:11](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/draft-and-summarize-messages-in-outlook-30064148?u=76281980&t=71)** I'll address it and add a subject.
 >
@@ -698,19 +692,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (12), [[Microsoft Outlook|Outlook]] (5), next (2), [[Windows]] (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (12), [[Microsoft Outlook|Outlook]] (5), [[Windows]] (1), [[Jetpack Compose|Compose]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Best Practices:** you should always (1)
 > **Speakers:** - [instructor] (1)
 
-#### Summarize meetings and leverage Copilot in Teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/summarize-meetings-and-leverage-copilot-in-teams?u=76281980)
+#### [Summarize meetings and leverage Copilot in Teams](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/summarize-meetings-and-leverage-copilot-in-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/summarize-meetings-and-leverage-copilot-in-teams?u=76281980&t=0)** - [Instructor] There are several Copilot tools in Microsoft Teams.
+> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/summarize-meetings-and-leverage-copilot-in-teams?u=76281980&t=0)** - [Instructor] There are several [[Microsoft Copilot|Copilot]] tools in [[Microsoft Teams]].
 >
 > **[0:03](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/summarize-meetings-and-leverage-copilot-in-teams?u=76281980&t=3)** First, Copilot can help you revise messages that you write in Teams, so you could start from a Teams channel, a chat, even a meeting.
 >
@@ -824,23 +817,22 @@ created: 2026-05-02
 >
 > **[6:24](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/summarize-meetings-and-leverage-copilot-in-teams?u=76281980&t=384)** Copilot is able to answer that question based on the meeting transcript.
 >
-> **[6:28](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/summarize-meetings-and-leverage-copilot-in-teams?u=76281980&t=388)** So with the extra paid Microsoft 365 Copilot license, you have that extra ability to ask questions or ask for summaries in the AI chat while the meeting is still in progress or from the meeting summary after it's finished.
+> **[6:28](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/summarize-meetings-and-leverage-copilot-in-teams?u=76281980&t=388)** So with the extra paid [[Microsoft 365]] Copilot license, you have that extra ability to ask questions or ask for summaries in the AI chat while the meeting is still in progress or from the meeting summary after it's finished.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (22), ai (8), teams (3), [[Microsoft Teams]] (2), business (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (22), [[Microsoft Teams]] (2), [[Microsoft 365]] (1)
 > **UI Navigation:** click on (3), open the (1), select the (1)
 > **CLI Commands:** find (4)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use guided prompts with Copilot's Researcher and Analyst agents
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/use-guided-prompts-with-copilot-s-researcher-and-analyst-agents?u=76281980)
+#### [Use guided prompts with Copilot's Researcher and Analyst agents](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/use-guided-prompts-with-copilot-s-researcher-and-analyst-agents?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/use-guided-prompts-with-copilot-s-researcher-and-analyst-agents?u=76281980&t=0)** - [Speaker] If you have repetitive processes or tasks, you are a prime candidate to create a Copilot agent.
+> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/use-guided-prompts-with-copilot-s-researcher-and-analyst-agents?u=76281980&t=0)** - [Speaker] If you have repetitive processes or tasks, you are a prime candidate to create a [[Microsoft Copilot|Copilot]] agent.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/use-guided-prompts-with-copilot-s-researcher-and-analyst-agents?u=76281980&t=7)** An agent can automate processes or act as a role in a consistent manner.
 >
@@ -868,7 +860,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/use-guided-prompts-with-copilot-s-researcher-and-analyst-agents?u=76281980&t=94)** Instead of being told a series of facts that Copilot can get from my work environment, watch how I'm prompted for clarity to get the best use of time and results from this inquiry.
 >
-> **[1:44](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/use-guided-prompts-with-copilot-s-researcher-and-analyst-agents?u=76281980&t=104)** And while a regular Copilot chat will show me the latest relevant information from Teams chats and other recent sources, researcher will investigate my work environment deeper, looking at PowerPoint presentation content, Excel workbooks, and much older emails.
+> **[1:44](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/use-guided-prompts-with-copilot-s-researcher-and-analyst-agents?u=76281980&t=104)** And while a regular Copilot chat will show me the latest relevant information from Teams chats and other recent sources, researcher will investigate my work environment deeper, looking at [[Microsoft PowerPoint|PowerPoint]] presentation content, [[Microsoft Excel|Excel]] workbooks, and much older emails.
 >
 > **[2:02](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/use-guided-prompts-with-copilot-s-researcher-and-analyst-agents?u=76281980&t=122)** You can see the reasoning as it happens, like a deep thought process.
 >
@@ -890,7 +882,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/use-guided-prompts-with-copilot-s-researcher-and-analyst-agents?u=76281980&t=194)** I'll attach a cloud file.
 >
-> **[3:16](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/use-guided-prompts-with-copilot-s-researcher-and-analyst-agents?u=76281980&t=196)** This one is stored on my OneDrive.
+> **[3:16](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/use-guided-prompts-with-copilot-s-researcher-and-analyst-agents?u=76281980&t=196)** This one is stored on my [[Microsoft OneDrive|OneDrive]].
 >
 > **[3:26](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/use-guided-prompts-with-copilot-s-researcher-and-analyst-agents?u=76281980&t=206)** I'll select it and let it go.
 >
@@ -946,7 +938,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft Copilot|Copilot]] (5), prompt (4), [[Search]] (3), teams (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), [[Microsoft PowerPoint|Powerpoint]] (1), [[Microsoft Excel|Excel]] (1), [[Microsoft OneDrive|Onedrive]] (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** find (1)
 > **URLs:** [microsoft365.com](https://microsoft365.com) (1)
@@ -954,24 +946,23 @@ created: 2026-05-02
 > **Cross-References:** coming up (1)
 > **Speakers:** - [speaker] (1)
 
-#### Make your own infographics, slides, and forms with Create
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/make-your-own-infographics-slides-and-forms-with-create?u=76281980)
+#### [Make your own infographics, slides, and forms with Create](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/make-your-own-infographics-slides-and-forms-with-create?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/make-your-own-infographics-slides-and-forms-with-create?u=76281980&t=0)** - [Instructor] Microsoft Create is an incredibly powerful and super fun AI tool to help you visualize your data by creating images, infographics, flyers, and other business documents you may need, day to day.
+> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/make-your-own-infographics-slides-and-forms-with-create?u=76281980&t=0)** - [Instructor] [[Microsoft]] Create is an incredibly powerful and super fun AI tool to help you visualize your data by creating images, [[Infographics]], flyers, and other business documents you may need, day to day.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/make-your-own-infographics-slides-and-forms-with-create?u=76281980&t=13)** Still on the main portal, instead of clicking on chat, I'm going to click Create.
 >
-> **[0:19](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/make-your-own-infographics-slides-and-forms-with-create?u=76281980&t=19)** Now the nice thing about Create is it's not limited to just the licensed version of Copilot.
+> **[0:19](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/make-your-own-infographics-slides-and-forms-with-create?u=76281980&t=19)** Now the nice thing about Create is it's not limited to just the licensed version of [[Microsoft Copilot|Copilot]].
 >
-> **[0:24](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/make-your-own-infographics-slides-and-forms-with-create?u=76281980&t=24)** Anybody who has a Microsoft 365 account can use Create.
+> **[0:24](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/make-your-own-infographics-slides-and-forms-with-create?u=76281980&t=24)** Anybody who has a [[Microsoft 365]] account can use Create.
 >
 > **[0:29](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/make-your-own-infographics-slides-and-forms-with-create?u=76281980&t=29)** You can use these buttons at the top of the screen to create something like an image, infographics, multi-image story, or you can click more to see some other things that Create can make.
 >
 > **[0:41](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/make-your-own-infographics-slides-and-forms-with-create?u=76281980&t=41)** In the more menu, I'd like to particularly call out form as this is an incredibly useful tool.
 >
-> **[0:47](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/make-your-own-infographics-slides-and-forms-with-create?u=76281980&t=47)** You can create surveys and polls, event registration forms, and more.
+> **[0:47](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/make-your-own-infographics-slides-and-forms-with-create?u=76281980&t=47)** You can create surveys and polls, event registration [[Forms]], and more.
 >
 > **[0:52](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/make-your-own-infographics-slides-and-forms-with-create?u=76281980&t=52)** It's just Microsoft Forms, except this way, you're doing it by describing what you want.
 >
@@ -995,7 +986,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/make-your-own-infographics-slides-and-forms-with-create?u=76281980&t=115)** And finally, you can choose a size.
 >
-> **[1:58](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/make-your-own-infographics-slides-and-forms-with-create?u=76281980&t=118)** Wide is great for inserting into a PowerPoint presentation as a slide, or you can use square, which is great for social media.
+> **[1:58](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/make-your-own-infographics-slides-and-forms-with-create?u=76281980&t=118)** Wide is great for inserting into a [[Microsoft PowerPoint|PowerPoint]] presentation as a slide, or you can use square, which is great for social media.
 >
 > **[2:07](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/make-your-own-infographics-slides-and-forms-with-create?u=76281980&t=127)** The nice thing about using this middle bar to click these buttons is you don't have to describe it.
 >
@@ -1009,7 +1000,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/make-your-own-infographics-slides-and-forms-with-create?u=76281980&t=147)** I'll create a prompt.
 >
-> **[2:31](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/make-your-own-infographics-slides-and-forms-with-create?u=76281980&t=151)** Create an infographic comparing the solar products.
+> **[2:31](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/make-your-own-infographics-slides-and-forms-with-create?u=76281980&t=151)** Create an infographic comparing the solar [[Microsoft Products|products]].
 >
 > **[2:34](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/make-your-own-infographics-slides-and-forms-with-create?u=76281980&t=154)** What solar products, you say?
 >
@@ -1031,7 +1022,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/make-your-own-infographics-slides-and-forms-with-create?u=76281980&t=199)** They're a little small, but it's comparing two products and some of the options the infographic gave me were comparing things like energy output, charging time, efficiency, and applications.
 >
-> **[3:30](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/make-your-own-infographics-slides-and-forms-with-create?u=76281980&t=210)** When I hover my mouse over this, I get the option to copy it so I can copy and paste it directly into Word or a PowerPoint.
+> **[3:30](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/make-your-own-infographics-slides-and-forms-with-create?u=76281980&t=210)** When I hover my mouse over this, I get the option to copy it so I can copy and paste it directly into [[Microsoft Word|Word]] or a PowerPoint.
 >
 > **[3:38](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/make-your-own-infographics-slides-and-forms-with-create?u=76281980&t=218)** I can also download it directly and if I want to change it, I can.
 >
@@ -1039,11 +1030,11 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/make-your-own-infographics-slides-and-forms-with-create?u=76281980&t=227)** So that's Create.
 >
-> **[3:49](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/make-your-own-infographics-slides-and-forms-with-create?u=76281980&t=229)** Have a good time coming up with all sorts of visuals to use in your Office files.
+> **[3:49](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/make-your-own-infographics-slides-and-forms-with-create?u=76281980&t=229)** Have a good time coming up with all sorts of visuals to use in your [[Microsoft Office|Office]] files.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), [[Microsoft PowerPoint|Powerpoint]] (3), [[Microsoft]] (2), data (2), [[Infographics]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), [[Microsoft PowerPoint|Powerpoint]] (3), [[Microsoft]] (2), [[Infographics]] (2), [[Forms]] (2)
 > **Definitions:** is an  (2), is a  (2)
 > **CLI Commands:** make (2)
 > **UI Navigation:** scroll down (1), click on (1)
@@ -1051,24 +1042,23 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Vibe working: Agent Mode and Office Agent
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/vibe-working-agent-mode-and-office-agent?u=76281980)
+#### [Vibe working: Agent Mode and Office Agent](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/vibe-working-agent-mode-and-office-agent?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/vibe-working-agent-mode-and-office-agent?u=76281980&t=0)** - [Instructor] If you've never heard of the term vibe coding before, it's a means of coding where a developer describes to AI what they want, views the output, and continues to refine the prompt to get the desired output.
+> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/vibe-working-agent-mode-and-office-agent?u=76281980&t=0)** - [Instructor] If you've never heard of the term [[Vibe Coding]] before, it's a means of coding where a developer describes to AI what they want, views the output, and continues to refine the prompt to get the desired output.
 >
 > **[0:12](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/vibe-working-agent-mode-and-office-agent?u=76281980&t=12)** The developer is not the one writing the code, the AI is.
 >
-> **[0:17](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/vibe-working-agent-mode-and-office-agent?u=76281980&t=17)** Along the same line, Microsoft has given us vibe working.
+> **[0:17](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/vibe-working-agent-mode-and-office-agent?u=76281980&t=17)** Along the same line, [[Microsoft]] has given us vibe working.
 >
 > **[0:21](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/vibe-working-agent-mode-and-office-agent?u=76281980&t=21)** In a previous video, I introduced you to the concept of an agent, who guided prompts to help with a task.
 >
-> **[0:27](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/vibe-working-agent-mode-and-office-agent?u=76281980&t=27)** Now you can use different kinds of agents directly within Excel, Word, and PowerPoint, with support for the remaining products coming soon.
+> **[0:27](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/vibe-working-agent-mode-and-office-agent?u=76281980&t=27)** Now you can use different kinds of agents directly within [[Microsoft Excel|Excel]], [[Microsoft Word|Word]], and [[Microsoft PowerPoint|PowerPoint]], with support for the remaining [[Microsoft Products|products]] coming soon.
 >
 > **[0:36](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/vibe-working-agent-mode-and-office-agent?u=76281980&t=36)** In Excel and Word, you can use something called Agent mode.
 >
-> **[0:40](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/vibe-working-agent-mode-and-office-agent?u=76281980&t=40)** You do need the separate Copilot license to use these tools and while it will be official soon, right now it's so new that the only way to get it is to use Excel on the web, like I am right here, I'm accessing it through a browse, and install an add-in called Excel Labs.
+> **[0:40](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/vibe-working-agent-mode-and-office-agent?u=76281980&t=40)** You do need the separate [[Microsoft Copilot|Copilot]] license to use these tools and while it will be official soon, right now it's so new that the only way to get it is to use Excel on the web, like I am right here, I'm accessing it through a browse, and install an add-in called Excel Labs.
 >
 > **[0:57](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/vibe-working-agent-mode-and-office-agent?u=76281980&t=57)** To do that, from the Home Ribbon tab, click Add-ins, and in the search box type "Excel labs."
 >
@@ -1088,7 +1078,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/vibe-working-agent-mode-and-office-agent?u=76281980&t=114)** And I can also refine my prompt after to continuously get new data and change the visuals to see a data story emerge.
 >
-> **[2:02](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/vibe-working-agent-mode-and-office-agent?u=76281980&t=122)** Microsoft Word also has this Agent mode, and you can acquire it in a similar manner.
+> **[2:02](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/vibe-working-agent-mode-and-office-agent?u=76281980&t=122)** [[Microsoft Word]] also has this Agent mode, and you can acquire it in a similar manner.
 >
 > **[2:08](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/vibe-working-agent-mode-and-office-agent?u=76281980&t=128)** It's like having a writing partner, right?
 >
@@ -1096,9 +1086,9 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/vibe-working-agent-mode-and-office-agent?u=76281980&t=139)** Now, speaking of Word, here's another way that you can use agents with Word, and I'm going to go back to chat for this.
 >
-> **[2:27](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/vibe-working-agent-mode-and-office-agent?u=76281980&t=147)** Microsoft has also given us something called Office Agent to use with PowerPoint and Word.
+> **[2:27](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/vibe-working-agent-mode-and-office-agent?u=76281980&t=147)** Microsoft has also given us something called [[Microsoft Office|Office]] Agent to use with PowerPoint and Word.
 >
-> **[2:33](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/vibe-working-agent-mode-and-office-agent?u=76281980&t=153)** Now, this one is so new that you may not see it for a while in your organization, and it's also very slowly being rolled out to existing family and personal Microsoft 365 subscribers.
+> **[2:33](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/vibe-working-agent-mode-and-office-agent?u=76281980&t=153)** Now, this one is so new that you may not see it for a while in your organization, and it's also very slowly being rolled out to existing family and personal [[Microsoft 365]] subscribers.
 >
 > **[2:44](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/vibe-working-agent-mode-and-office-agent?u=76281980&t=164)** Just like you saw me create a presentation in PowerPoint, this lets me also create one, but without ever actually going into PowerPoint.
 >
@@ -1128,7 +1118,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (8), [[Microsoft Word|Word]] (6), [[Microsoft PowerPoint|Powerpoint]] (6), [[Microsoft Office|Office]] (5), data (4)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (8), [[Microsoft Word|Word]] (6), [[Microsoft PowerPoint|Powerpoint]] (6), [[Microsoft Office|Office]] (5), [[Microsoft]] (2)
 > **Cross-References:** previous video (2), go back to (1)
 > **Analogies:** just like (2), it's like (1)
 > **Definitions:** is a  (2)

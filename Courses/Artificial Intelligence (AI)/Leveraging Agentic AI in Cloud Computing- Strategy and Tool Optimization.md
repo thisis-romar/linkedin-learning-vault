@@ -115,18 +115,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to AI agents in cloud computing
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/introduction-to-ai-agents-in-cloud-computing?u=76281980)
+#### [Introduction to AI agents in cloud computing](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/introduction-to-ai-agents-in-cloud-computing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/introduction-to-ai-agents-in-cloud-computing?u=76281980&t=0)** - If you don't know how AI agents work on cloud platforms, or if you work in tech, listen closely because this course is for you.
+> **[0:00](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/introduction-to-ai-agents-in-cloud-computing?u=76281980&t=0)** - If you don't know how [[AI Agents]] work on cloud platforms, or if you work in tech, listen closely because this course is for you.
 >
 > **[0:07](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/introduction-to-ai-agents-in-cloud-computing?u=76281980&t=7)** Using AI agents, also known as a agentic AI, or autonomous AI is revolutionizing businesses and organizations throughout the world.
 >
-> **[0:16](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/introduction-to-ai-agents-in-cloud-computing?u=76281980&t=16)** In this course, we'll focus on generative AI tools and platforms, building AI agent solutions in the cloud, integrating those agents into your DevOps, AI workflows, prompt engineering, and more.
+> **[0:16](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/introduction-to-ai-agents-in-cloud-computing?u=76281980&t=16)** In this course, we'll focus on [[Generative AI Tools]] and platforms, building AI agent solutions in the cloud, integrating those agents into your [[DevOps]], AI workflows, [[Prompt Engineering]], and more.
 >
-> **[0:28](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/introduction-to-ai-agents-in-cloud-computing?u=76281980&t=28)** Hi, I'm David Linthicum, a cloud computing and AI expert.
+> **[0:28](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/introduction-to-ai-agents-in-cloud-computing?u=76281980&t=28)** Hi, I'm David Linthicum, a [[Cloud Computing]] and AI expert.
 >
 > **[0:31](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/introduction-to-ai-agents-in-cloud-computing?u=76281980&t=31)** I've worked with AI systems for 30 years and have helped thousands of businesses and organizations along the way.
 >
@@ -136,7 +135,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), cloud (3), [[Generative AI Tools]] (1), [[DevOps]] (1), [[Prompt Engineering]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (2), [[Generative AI Tools]] (1), [[DevOps]] (1), [[Prompt Engineering]] (1), [[Cloud Computing]] (1)
 > **Definitions:** known as (1)
 > **Speakers:** - if (1)
 
@@ -145,8 +144,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of cloud-based agentic AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/overview-of-cloud-based-agentic-ai?u=76281980)
+#### [Overview of cloud-based agentic AI](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/overview-of-cloud-based-agentic-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -154,7 +152,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/overview-of-cloud-based-agentic-ai?u=76281980&t=13)** We'll define agentic AI in much more detail as this course progresses.
 >
-> **[0:18](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/overview-of-cloud-based-agentic-ai?u=76281980&t=18)** While all agentic AI can be considered a type of AI agent, not all AI agents possess the level of autonomy or goal-setting capabilities implied in agentic AI.
+> **[0:18](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/overview-of-cloud-based-agentic-ai?u=76281980&t=18)** While all agentic AI can be considered a type of AI agent, not all [[AI Agents]] possess the level of autonomy or goal-setting capabilities implied in agentic AI.
 >
 > **[0:30](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/overview-of-cloud-based-agentic-ai?u=76281980&t=30)** For this course, we'll consider AI agents using approaches that align with agentic AI, therefore, I'll use the terms interchangeably, assuming that we'll define agentic AI for use within an agentic AI deployment.
 >
@@ -182,15 +180,15 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/overview-of-cloud-based-agentic-ai?u=76281980&t=127)** While agentic AI offers transformative possibilities, it's essential to be aware of current challenges.
 >
-> **[2:13](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/overview-of-cloud-based-agentic-ai?u=76281980&t=133)** Deploying AI agents in the cloud requires addressing data privacy, security, and compliance, particularly when sensitive information is involved.
+> **[2:13](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/overview-of-cloud-based-agentic-ai?u=76281980&t=133)** Deploying AI agents in the cloud requires addressing [[Data Privacy]], security, and compliance, particularly when sensitive information is involved.
 >
 > **[2:25](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/overview-of-cloud-based-agentic-ai?u=76281980&t=145)** Agentic AI in the cloud is already impacting a variety of industries.
 >
 > **[2:29](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/overview-of-cloud-based-agentic-ai?u=76281980&t=149)** In finance, it drives intelligent fraud detection and automating trading.
 >
-> **[2:34](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/overview-of-cloud-based-agentic-ai?u=76281980&t=154)** In logistics, it optimizes supply chains by making real-time routing decisions.
+> **[2:34](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/overview-of-cloud-based-agentic-ai?u=76281980&t=154)** In logistics, it optimizes supply chains by making [[Real-Time]] [[Routing]] decisions.
 >
-> **[2:40](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/overview-of-cloud-based-agentic-ai?u=76281980&t=160)** Customer support platforms are using agentic AI to resolve issues proactively, greatly enhancing user experience.
+> **[2:40](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/overview-of-cloud-based-agentic-ai?u=76281980&t=160)** [[Customer Support]] platforms are using agentic AI to resolve issues proactively, greatly enhancing [[User Experience (UX)|user experience]].
 >
 > **[2:48](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/overview-of-cloud-based-agentic-ai?u=76281980&t=168)** As we proceed, you'll see how the principles and methods in this course connect with tangible solutions in domains that matter.
 >
@@ -202,7 +200,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/overview-of-cloud-based-agentic-ai?u=76281980&t=199)** By the end, you'll have both a theoretical understanding and practical skills you can apply.
 >
-> **[3:26](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/overview-of-cloud-based-agentic-ai?u=76281980&t=206)** For those of you new to agentic AI and cloud computing, we invite you to embark on a new learning journey.
+> **[3:26](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/overview-of-cloud-based-agentic-ai?u=76281980&t=206)** For those of you new to agentic AI and [[Cloud Computing]], we invite you to embark on a new learning journey.
 >
 > **[3:32](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/overview-of-cloud-based-agentic-ai?u=76281980&t=212)** Additionally, for those who understand aspects of this technology but wish to learn more, you're in the right place.
 >
@@ -210,24 +208,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (19), cloud (8), next (1), data (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (5), [[Data Privacy]] (1), [[Real-Time]] (1), [[Routing]] (1), [[Customer Support]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Definition and types of AI agents
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/definition-and-types-of-ai-agents?u=76281980)
+#### [Definition and types of AI agents](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/definition-and-types-of-ai-agents?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/definition-and-types-of-ai-agents?u=76281980&t=0)** - [Instructor] Before we start, it's worth noting that AI agents we'll cover in this course will be the most commonly used types.
+> **[0:00](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/definition-and-types-of-ai-agents?u=76281980&t=0)** - [Instructor] Before we start, it's worth noting that [[AI Agents]] we'll cover in this course will be the most commonly used types.
 >
 > **[0:08](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/definition-and-types-of-ai-agents?u=76281980&t=8)** Since most agents are purpose-built, there will be several types in use, but for now, we'll be focusing on the ones that you'll most likely run into.
 >
 > **[0:17](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/definition-and-types-of-ai-agents?u=76281980&t=17)** Let's take a look.
 >
-> **[0:19](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/definition-and-types-of-ai-agents?u=76281980&t=19)** Simple reflex agents are agents that are able to react to specific inputs and predetermined actions.
+> **[0:19](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/definition-and-types-of-ai-agents?u=76281980&t=19)** Simple reflex agents are agents that are able to [[React.js|react]] to specific inputs and predetermined actions.
 >
 > **[0:26](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/definition-and-types-of-ai-agents?u=76281980&t=26)** For example, a thermostat that turns on the heating system when the temperature drops below a certain threshold.
 >
@@ -255,13 +252,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), traffic (2), [[React.js|React]] (1), game (1), cloud (1)
+> **Frameworks & Libraries:** [[AI Agents]] (3), [[React.js|React]] (1)
 > **Analogies:** for example (5), for instance (1), just like (1)
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use cases for agentic AI in the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/use-cases-for-agentic-ai-in-the-cloud?u=76281980)
+#### [Use cases for agentic AI in the cloud](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/use-cases-for-agentic-ai-in-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -269,7 +265,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/use-cases-for-agentic-ai-in-the-cloud?u=76281980&t=6)** Here are two: automated code and quality management.
 >
-> **[0:10](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/use-cases-for-agentic-ai-in-the-cloud?u=76281980&t=10)** These are AI agents running in the cloud in support of building agentic AI systems that manage code reviews.
+> **[0:10](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/use-cases-for-agentic-ai-in-the-cloud?u=76281980&t=10)** These are [[AI Agents]] running in the cloud in support of building agentic AI systems that manage code reviews.
 >
 > **[0:18](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/use-cases-for-agentic-ai-in-the-cloud?u=76281980&t=18)** They can ensure adherence to coding standards by independently analyzing changes and identifying issues.
 >
@@ -277,9 +273,9 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/use-cases-for-agentic-ai-in-the-cloud?u=76281980&t=31)** This can include flagging potential problems and providing recommendations.
 >
-> **[0:36](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/use-cases-for-agentic-ai-in-the-cloud?u=76281980&t=36)** The business benefit is enhancing code quality and efficiency in the software development lifecycle, all learning as it goes.
+> **[0:36](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/use-cases-for-agentic-ai-in-the-cloud?u=76281980&t=36)** The business benefit is enhancing code quality and efficiency in the [[Software Development]] lifecycle, all learning as it goes.
 >
-> **[0:45](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/use-cases-for-agentic-ai-in-the-cloud?u=76281980&t=45)** Incident response automation.
+> **[0:45](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/use-cases-for-agentic-ai-in-the-cloud?u=76281980&t=45)** [[Incident Response]] automation.
 >
 > **[0:47](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/use-cases-for-agentic-ai-in-the-cloud?u=76281980&t=47)** In this use case, AI agents autonomously handle incident management in IT operations.
 >
@@ -291,13 +287,13 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/use-cases-for-agentic-ai-in-the-cloud?u=76281980&t=84)** This is able to optimize computing resources based on workload demands in real time.
 >
-> **[1:30](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/use-cases-for-agentic-ai-in-the-cloud?u=76281980&t=90)** Agentic AI in the cloud are typically integrated through cloud-native architectures that connect directly with various data sources, cloud APIs, or CI/CD, continuous integration, continuous development/deployment pipelines.
+> **[1:30](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/use-cases-for-agentic-ai-in-the-cloud?u=76281980&t=90)** Agentic AI in the cloud are typically integrated through cloud-native architectures that connect directly with various data sources, cloud APIs, or CI/CD, [[Continuous Integration (CI)|continuous integration]], continuous development/deployment pipelines.
 >
 > **[1:46](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/use-cases-for-agentic-ai-in-the-cloud?u=76281980&t=106)** We'll discuss this in a later video.
 >
 > **[1:49](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/use-cases-for-agentic-ai-in-the-cloud?u=76281980&t=109)** For instance, a code quality agent might monitor code repositories in real time, trigger analysis via cloud functions, and provide feedback directly within the developer workflow.
 >
-> **[2:01](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/use-cases-for-agentic-ai-in-the-cloud?u=76281980&t=121)** Measuring the success of agentic AI in the cloud involves tracking improvements in key business metrics.
+> **[2:01](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/use-cases-for-agentic-ai-in-the-cloud?u=76281980&t=121)** Measuring the success of agentic AI in the cloud involves tracking improvements in key [[Business Metrics]].
 >
 > **[2:09](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/use-cases-for-agentic-ai-in-the-cloud?u=76281980&t=129)** For automated code management, organizations commonly monitor the reduction of code defects, speed of code reviews, and improve adherence to standards.
 >
@@ -307,27 +303,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), cloud (9), management (3), business (2), [[Incident Response]] (2)
+> **Frameworks & Libraries:** [[AI Agents]] (2), [[Incident Response]] (2), [[Software Development]] (1), [[Continuous Integration (CI)|Continuous integration]] (1), [[Business Metrics]] (1)
 > **Analogies:** such as (1), for instance (1)
 > **CLI Commands:** cd (1)
 > **Speakers:** - [instructor] (1)
 
-#### Case study #1
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-1?u=76281980)
+#### [Case study #1](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-1?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-1?u=76281980&t=0)** - [Instructor] InnovateCorp is a mid-size technology firm specializing in enterprise software solutions.
+> **[0:00](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-1?u=76281980&t=0)** - [Instructor] InnovateCorp is a mid-size technology firm specializing in [[Enterprise Software]] solutions.
 >
-> **[0:07](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-1?u=76281980&t=7)** With a strong foothold in logistics and supply chain management software, InnovateCorp aimed to re revolutionize its offerings by integrating agentic AI into its latest product line.
+> **[0:07](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-1?u=76281980&t=7)** With a strong foothold in logistics and [[Supply Chain Management]] software, InnovateCorp aimed to re revolutionize its offerings by integrating agentic AI into its latest product line.
 >
 > **[0:19](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-1?u=76281980&t=19)** A smart logistics management platform called SmartMove.
 >
-> **[0:23](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-1?u=76281980&t=23)** The company hoped that by integrating agentic AI into SmartMove, it would be able to enhance the product's decision making and automation abilities, reducing delivery time and improving inventory management through intelligent prediction and real-time adjustments.
+> **[0:23](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-1?u=76281980&t=23)** The company hoped that by integrating agentic AI into SmartMove, it would be able to enhance the product's decision making and automation abilities, reducing delivery time and improving inventory management through intelligent prediction and [[Real-Time]] adjustments.
 >
 > **[0:40](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-1?u=76281980&t=40)** InnovateCorp had three large data sets it leveraged for its project.
 >
-> **[0:45](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-1?u=76281980&t=45)** Historical logistics data, which include delivery times, routing paths, fuel consumption, vehicle maintenance logs, and inventory turnover rates.
+> **[0:45](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-1?u=76281980&t=45)** Historical logistics data, which include delivery times, [[Routing]] paths, fuel consumption, vehicle maintenance logs, and inventory turnover rates.
 >
 > **[0:53](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-1?u=76281980&t=53)** Supply chain events, which included raw data regarding supplier delivery, manufacturing schedules, and warehouse stock levels.
 >
@@ -335,17 +330,17 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-1?u=76281980&t=71)** So which cloud platform did they decide to develop SmartMove on?
 >
-> **[1:16](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-1?u=76281980&t=76)** InnovateCorp chose Amazon Web Services, AWS, for its robust infrastructure and comprehensive AI services.
+> **[1:16](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-1?u=76281980&t=76)** InnovateCorp chose [[Amazon Web Services (AWS)|Amazon Web Services]], AWS, for its robust infrastructure and comprehensive AI services.
 >
-> **[1:24](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-1?u=76281980&t=84)** The company utilized AWS SageMaker for training and deploying AI models, enabling efficient scaling and management.
+> **[1:24](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-1?u=76281980&t=84)** The company utilized [[AWS SageMaker]] for training and deploying AI models, enabling efficient scaling and management.
 >
-> **[1:32](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-1?u=76281980&t=92)** AWS Lambda for serverless computing to execute event-driven tasks such as dynamic rerouting of logistical pass.
+> **[1:32](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-1?u=76281980&t=92)** AWS Lambda for [[Serverless Computing]] to execute event-driven tasks such as dynamic rerouting of logistical pass.
 >
 > **[1:41](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-1?u=76281980&t=101)** Amazon RDS to store and manage large data sets, essential for training data sets and runtime decision making.
 >
 > **[1:49](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-1?u=76281980&t=109)** After choosing a cloud platform with the right tools for the project, let's look at how they rolled this out.
 >
-> **[1:57](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-1?u=76281980&t=117)** Phase one, data preparation.
+> **[1:57](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-1?u=76281980&t=117)** Phase one, [[Data Preparation]].
 >
 > **[1:59](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-1?u=76281980&t=119)** Innovate was able to leverage AWS Glue to cleanse and prepare data sets for model training.
 >
@@ -357,7 +352,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-1?u=76281980&t=149)** Phase three included agent development.
 >
-> **[2:31](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-1?u=76281980&t=151)** Their development team used LangChain to create a hierarchy of autonomous agents.
+> **[2:31](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-1?u=76281980&t=151)** Their development team used [[LangChain]] to create a hierarchy of autonomous agents.
 >
 > **[2:37](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-1?u=76281980&t=157)** CrewAI facilitated these agents to communicate effectively and make collective decisions.
 >
@@ -387,9 +382,9 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-1?u=76281980&t=233)** Let's look at some of the challenges they experienced.
 >
-> **[3:56](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-1?u=76281980&t=236)** Integrating diverse data streams in real-time pose substantial initial challenges, which were addressed by implementing robust data pipelines on AWS.
+> **[3:56](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-1?u=76281980&t=236)** Integrating diverse data streams in real-time pose substantial initial challenges, which were addressed by implementing robust [[Data Pipelines]] on AWS.
 >
-> **[4:06](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-1?u=76281980&t=246)** Ensuring data privacy and security was critical, and strategies like data encryption and regular audits were put in place.
+> **[4:06](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-1?u=76281980&t=246)** Ensuring [[Data Privacy]] and security was critical, and strategies like data encryption and regular audits were put in place.
 >
 > **[4:14](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-1?u=76281980&t=254)** In closing, InnovateCorp successfully implemented agentic AI within its logistics management platform, SmartMove, by leveraging advanced cloud technologies and innovative AI toolkits.
 >
@@ -397,15 +392,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), ai (7), aws (7), management (5), [[Real-Time]] (5)
+> **Frameworks & Libraries:** [[Real-Time]] (5), [[Routing]] (3), [[Enterprise Software]] (1), [[Supply Chain Management]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1)
 > **CLI Commands:** aws (7), make (2)
 > **Env Vars:** aws (7), rds (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Case study #2
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-2?u=76281980)
+#### [Case study #2](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -413,7 +407,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-2?u=76281980&t=9)** The company decided to integrate agentic AI into its flagship product, HealthPro, an application designed to enhance diagnostic accuracy and streamline hospital workflows.
 >
-> **[0:21](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-2?u=76281980&t=21)** The business objective was to utilize agentic AI for enhancing diagnostic accuracy by providing real-time support to healthcare professionals, reducing diagnostic errors and improving patient care through faster and more informed decision-making.
+> **[0:21](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-2?u=76281980&t=21)** The business objective was to utilize agentic AI for enhancing diagnostic accuracy by providing [[Real-Time]] support to healthcare professionals, reducing diagnostic errors and improving patient care through faster and more informed [[Decision-Making]].
 >
 > **[0:38](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-2?u=76281980&t=38)** The data that was used in this case was patient health records, which are anonymized historical patient data, including symptoms, medical history, lab results, and treatment outcomes.
 >
@@ -421,17 +415,17 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-2?u=76281980&t=60)** Clinical study data, which are the latest research articles, drug interaction data and clinical trial outcomes, providing insights and treatment efficiency.
 >
-> **[1:11](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-2?u=76281980&t=71)** MedTech Solutions chose Microsoft Azure for its robust health-related services and strong security features.
+> **[1:11](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-2?u=76281980&t=71)** MedTech Solutions chose [[Microsoft Azure]] for its robust health-related services and strong security features.
 >
-> **[1:18](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-2?u=76281980&t=78)** Key services included Azure Machine Learning for training complex AI models using scalable computing resources.
+> **[1:18](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-2?u=76281980&t=78)** Key services included [[Microsoft Azure|Azure]] Machine Learning for training complex AI models using scalable computing resources.
 >
 > **[1:26](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-2?u=76281980&t=86)** Azure Synapse Analytics to analyze cross-sectional patient data and provide actionable insights.
 >
-> **[1:33](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-2?u=76281980&t=93)** Azure Cognitive Services, which were employed for NLP, or natural language processing, and image recognition capabilities to bolster diagnostic processes.
+> **[1:33](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-2?u=76281980&t=93)** Azure Cognitive Services, which were employed for NLP, or [[Natural Language Processing (NLP)|natural language processing]], and image recognition capabilities to bolster diagnostic processes.
 >
 > **[1:45](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-2?u=76281980&t=105)** MedTech's rollout was a little different than the last case study.
 >
-> **[1:50](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-2?u=76281980&t=110)** Phase 1, or data collection and preparation.
+> **[1:50](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-2?u=76281980&t=110)** Phase 1, or [[Data Collection]] and preparation.
 >
 > **[1:53](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-2?u=76281980&t=113)** Leveraging Azure Data Factory, MedTech gathered and sanitized extensive health records and imaging datasets from multiple hospitals, ensuring compliance with healthcare regulations like HIPAA.
 >
@@ -447,7 +441,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-2?u=76281980&t=155)** HealthPro was tested in a controlled environment with a subset of users.
 >
-> **[2:40](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-2?u=76281980&t=160)** Feedback and performance metrics were collected via Azure Monitor to refine the AI models and agent workflows.
+> **[2:40](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-2?u=76281980&t=160)** Feedback and [[Performance Metrics]] were collected via Azure Monitor to refine the AI models and agent workflows.
 >
 > **[2:47](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-2?u=76281980&t=167)** Phase 5, deployment.
 >
@@ -469,7 +463,7 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-2?u=76281980&t=224)** There were some challenges.
 >
-> **[3:46](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-2?u=76281980&t=226)** Ensuring compliance with healthcare data regulations requiring rigorous privacy measures and transparent data handling processes.
+> **[3:46](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-2?u=76281980&t=226)** Ensuring compliance with healthcare data regulations requiring rigorous [[Privacy]] measures and transparent data handling processes.
 >
 > **[3:54](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-2?u=76281980&t=234)** Integrating AI outputs with existing hospital IT systems posed technical challenges that were mitigated through collaborative efforts with Azure integration support.
 >
@@ -477,18 +471,17 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-2?u=76281980&t=255)** The intelligent agents not only have enhanced diagnostic accuracy, but also optimize hospital workflows, directly contributing to better patient outcomes.
 >
-> **[4:25](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-2?u=76281980&t=265)** This case demonstrates the transformative potential of AI in the healthcare industry, positioning MedTech Solutions as a leader in medical technology innovation.
+> **[4:25](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/case-study-2?u=76281980&t=265)** This case demonstrates the transformative potential of AI in the [[Healthcare Industry]], positioning MedTech Solutions as a leader in medical technology innovation.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), ai (7), [[Microsoft Azure|Azure]] (7), application (2), product (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Real-Time]] (1), [[Decision-Making]] (1), [[Microsoft Azure]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Env Vars:** nlp (1), hipaa (1)
 > **Analogies:** such as (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Identifying the use cases for agentic AI in the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/challenge-identifying-the-use-cases-for-ai-agents?u=76281980)
+#### [Challenge: Identifying the use cases for agentic AI in the cloud](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/challenge-identifying-the-use-cases-for-ai-agents?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -512,21 +505,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), data (1)
 > **Cross-References:** we discussed (1)
 > **Analogies:** imagine (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Identifying the use cases for agentic AI in the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-identifying-the-uses-cases-for-ai-agents?u=76281980)
+#### [Solution: Identifying the use cases for agentic AI in the cloud](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-identifying-the-uses-cases-for-ai-agents?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-identifying-the-uses-cases-for-ai-agents?u=76281980&t=0)** (energetic electronic music)
 >
-> **[0:06](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-identifying-the-uses-cases-for-ai-agents?u=76281980&t=6)** - [Instructor] What are the use cases for building and operating AI agents on a cloud provider?
+> **[0:06](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-identifying-the-uses-cases-for-ai-agents?u=76281980&t=6)** - [Instructor] What are the use cases for building and operating [[AI Agents]] on a cloud provider?
 >
 > **[0:11](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-identifying-the-uses-cases-for-ai-agents?u=76281980&t=11)** Here are a few things to consider, but these are by no means the only use cases that you could identify.
 >
@@ -538,9 +529,9 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-identifying-the-uses-cases-for-ai-agents?u=76281980&t=39)** The functionality we described here is to implement AI agents to continuously monitor patient data, such as vital signs and lab results, to predict health deterioration and alert medical staff in advance.
 >
-> **[0:53](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-identifying-the-uses-cases-for-ai-agents?u=76281980&t=53)** Use case three, workflow optimization for emergency departments.
+> **[0:53](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-identifying-the-uses-cases-for-ai-agents?u=76281980&t=53)** Use case three, [[Workflow Optimization]] for emergency departments.
 >
-> **[0:57](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-identifying-the-uses-cases-for-ai-agents?u=76281980&t=57)** The functionality we defined here include to deploy AI agents to optimize resource allocation and patient triage processes in emergency departments, based on real-time data.
+> **[0:57](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-identifying-the-uses-cases-for-ai-agents?u=76281980&t=57)** The functionality we defined here include to deploy AI agents to optimize resource allocation and patient triage processes in emergency departments, based on [[Real-Time]] data.
 >
 > **[1:09](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-identifying-the-uses-cases-for-ai-agents?u=76281980&t=69)** Integrating these new use cases into Health Pro with agentic AI can revolutionize patient care, offering personalized, proactive, and efficient healthcare solutions.
 >
@@ -550,7 +541,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), data (3), cloud (1), [[Workflow Optimization]] (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (4), [[Workflow Optimization]] (1), [[Real-Time]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (energetic electronic music) (1)
@@ -560,20 +551,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of generative AI tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/overview-of-generative-ai-tools?u=76281980)
+#### [Overview of generative AI tools](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/overview-of-generative-ai-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/overview-of-generative-ai-tools?u=76281980&t=0)** - [Narrator] Generative AI tools play a critical role in enhancing agentic AI systems on public clouds.
+> **[0:00](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/overview-of-generative-ai-tools?u=76281980&t=0)** - [Narrator] [[Generative AI Tools]] play a critical role in enhancing agentic AI systems on public clouds.
 >
-> **[0:06](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/overview-of-generative-ai-tools?u=76281980&t=6)** These tools enable content creation.
+> **[0:06](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/overview-of-generative-ai-tools?u=76281980&t=6)** These tools enable [[Content Creation]].
 >
 > **[0:10](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/overview-of-generative-ai-tools?u=76281980&t=10)** This may include text, images, and code.
 >
 > **[0:15](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/overview-of-generative-ai-tools?u=76281980&t=15)** These abilities are also available to agentic AI systems for autonomous use in decision making and task execution.
 >
-> **[0:23](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/overview-of-generative-ai-tools?u=76281980&t=23)** These tools run platforms like AWS, Azure, or Google Cloud.
+> **[0:23](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/overview-of-generative-ai-tools?u=76281980&t=23)** These tools run platforms like AWS, [[Microsoft Azure|Azure]], or [[Google Cloud Platform (GCP)|Google Cloud]].
 >
 > **[0:29](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/overview-of-generative-ai-tools?u=76281980&t=29)** Within agentic AI frameworks, generative models serve as foundational components for developing autonomous agents.
 >
@@ -583,11 +573,11 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/overview-of-generative-ai-tools?u=76281980&t=48)** This can aid in customer service or content creation workflows.
 >
-> **[0:53](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/overview-of-generative-ai-tools?u=76281980&t=53)** Public clouds provide the necessary infrastructure to train and deploy generative models, so they are known to be the path of least resistance when it comes to developing AI agents in generative AI systems.
+> **[0:53](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/overview-of-generative-ai-tools?u=76281980&t=53)** Public clouds provide the necessary infrastructure to train and deploy generative models, so they are known to be the path of least resistance when it comes to developing [[AI Agents]] in [[Generative AI]] systems.
 >
 > **[1:06](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/overview-of-generative-ai-tools?u=76281980&t=66)** This is due in part because they offer a complete ecosystem for development and deployment of generative AI systems and agentic applications.
 >
-> **[1:15](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/overview-of-generative-ai-tools?u=76281980&t=75)** They offer services like Azure Machine Learning, AWS SageMaker, and Google AI Platform.
+> **[1:15](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/overview-of-generative-ai-tools?u=76281980&t=75)** They offer services like Azure Machine Learning, [[AWS SageMaker]], and [[Google]] AI Platform.
 >
 > **[1:23](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/overview-of-generative-ai-tools?u=76281980&t=83)** These services support integration, allowing agentic AI systems to adjust to new data inputs, optimize workflow, and enhance decision making across diverse applications.
 >
@@ -597,18 +587,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), [[Generative AI Tools]] (2), [[Content Creation]] (2), aws (2), [[Microsoft Azure|Azure]] (2)
+> **Frameworks & Libraries:** [[Generative AI Tools]] (2), [[Content Creation]] (2), [[Microsoft Azure|Azure]] (2), [[Generative AI]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Env Vars:** aws (2), gpt (1)
 > **CLI Commands:** aws (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Autonomous task management tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/autonomous-task-management-tools?u=76281980)
+#### [Autonomous task management tools](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/autonomous-task-management-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/autonomous-task-management-tools?u=76281980&t=0)** - [Instructor] Autonomous task management tools in the context of building and deploying AI agents on public clouds are applications or frameworks designed to facilitate the self-directed operation and orchestration of AI agents.
+> **[0:00](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/autonomous-task-management-tools?u=76281980&t=0)** - [Instructor] Autonomous task management tools in the context of building and deploying [[AI Agents]] on public clouds are applications or frameworks designed to facilitate the self-directed operation and orchestration of AI agents.
 >
 > **[0:14](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/autonomous-task-management-tools?u=76281980&t=14)** So, what does that mean?
 >
@@ -616,29 +605,28 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/autonomous-task-management-tools?u=76281980&t=28)** These tools enable AI agents to autonomously create, prioritize, execute, and manage tasks without human intervention.
 >
-> **[0:36](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/autonomous-task-management-tools?u=76281980&t=36)** These tools leverage large language models or LLMs and handle complex multi-step processes across various functions.
+> **[0:36](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/autonomous-task-management-tools?u=76281980&t=36)** These tools leverage [[Large Language Models (LLM)|large language models]] or LLMs and handle complex multi-step processes across various functions.
 >
-> **[0:43](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/autonomous-task-management-tools?u=76281980&t=43)** These functions may include data retrieval, task scheduling, and interaction with external systems like databases and APIs.
+> **[0:43](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/autonomous-task-management-tools?u=76281980&t=43)** These functions may include data retrieval, task scheduling, and interaction with external systems like [[Databases]] and APIs.
 >
 > **[0:52](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/autonomous-task-management-tools?u=76281980&t=52)** In the development of agentic AI systems on public clouds, these tools support the integration and management of multiple AI agents that can efficiently perform tasks.
 >
-> **[1:02](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/autonomous-task-management-tools?u=76281980&t=62)** These agents are equipped with capabilities like planning, memory, and tool usage, enabling them to interact with the cloud services to carry out their functions.
+> **[1:02](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/autonomous-task-management-tools?u=76281980&t=62)** These agents are equipped with capabilities like planning, memory, and tool usage, enabling them to interact with the [[Cloud Services]] to carry out their functions.
 >
-> **[1:13](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/autonomous-task-management-tools?u=76281980&t=73)** Frameworks using context include cloud computing services and AI-oriented platforms that support scalable and efficient task management within cloud environments.
+> **[1:13](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/autonomous-task-management-tools?u=76281980&t=73)** Frameworks using context include [[Cloud Computing]] services and AI-oriented platforms that support scalable and efficient task management within cloud environments.
 >
-> **[1:23](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/autonomous-task-management-tools?u=76281980&t=83)** Now let's look at decision-making and reasoning tools.
+> **[1:23](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/autonomous-task-management-tools?u=76281980&t=83)** Now let's look at [[Decision-Making]] and reasoning tools.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), management (3), cloud (3), [[Orchestration]] (1), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (4), [[Large Language Models (LLM)|Large language models]] (1), [[Databases]] (1), [[Cloud Services]] (1), [[Cloud Computing]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Decision-making and reasoning tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/decision-making-and-reasoning-tools?u=76281980)
+#### [Decision-making and reasoning tools](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/decision-making-and-reasoning-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/decision-making-and-reasoning-tools?u=76281980&t=0)** - [Instructor] Decision making and reasoning tools are critical components in the development of AI agents.
+> **[0:00](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/decision-making-and-reasoning-tools?u=76281980&t=0)** - [Instructor] Decision making and reasoning tools are critical components in the development of [[AI Agents]].
 >
 > **[0:08](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/decision-making-and-reasoning-tools?u=76281980&t=8)** These components exist within the framework of agentic AI and focus on smaller tasks.
 >
@@ -658,11 +646,11 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/decision-making-and-reasoning-tools?u=76281980&t=60)** This allows more customized and adaptable technologies, providing options for moving agents to other platforms such as your phone, smartwatch, and even computers that run our cars.
 >
-> **[1:13](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/decision-making-and-reasoning-tools?u=76281980&t=73)** Generative AI, When integrated with other AI technologies such as predictive AI and vision AI, enhance decision making capabilities of AI agents.
+> **[1:13](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/decision-making-and-reasoning-tools?u=76281980&t=73)** [[Generative AI]], When integrated with other AI technologies such as [[Predictive AI]] and vision AI, enhance decision making capabilities of AI agents.
 >
 > **[1:23](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/decision-making-and-reasoning-tools?u=76281980&t=83)** AI agents are being developed with the capacity to improve their decision making through specific mechanisms.
 >
-> **[1:29](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/decision-making-and-reasoning-tools?u=76281980&t=89)** This may include self-critiqued and guided search algorithms.
+> **[1:29](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/decision-making-and-reasoning-tools?u=76281980&t=89)** This may include self-critiqued and guided search [[Algorithms]].
 >
 > **[1:34](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/decision-making-and-reasoning-tools?u=76281980&t=94)** Other frameworks supported include Monte Carlo, tree search, MCTS.
 >
@@ -676,19 +664,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), [[Search]] (2), data (1), cloud (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (9), [[Generative AI]] (1), [[Predictive AI]] (1), [[Algorithms]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (2)
 > **Env Vars:** mcts (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Monitoring and incident management tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/monitoring-and-incident-management-tools?u=76281980)
+#### [Monitoring and incident management tools](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/monitoring-and-incident-management-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/monitoring-and-incident-management-tools?u=76281980&t=0)** - [Instructor] Monitoring and incident management tools are needed to ensure the smooth operation of AI agents running on cloud platforms.
+> **[0:00](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/monitoring-and-incident-management-tools?u=76281980&t=0)** - [Instructor] Monitoring and incident management tools are needed to ensure the smooth operation of [[AI Agents]] running on cloud platforms.
 >
 > **[0:08](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/monitoring-and-incident-management-tools?u=76281980&t=8)** They're the bare minimum for any AI agent deployments.
 >
@@ -704,9 +691,9 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/monitoring-and-incident-management-tools?u=76281980&t=39)** Security monitoring is monitoring for security threats, which are crucial given that AI agents can become targets for malicious activity.
 >
-> **[0:48](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/monitoring-and-incident-management-tools?u=76281980&t=48)** Dashboards and reporting are comprehensive dashboards that provide real-time visibility into the status of AI agents.
+> **[0:48](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/monitoring-and-incident-management-tools?u=76281980&t=48)** [[Dashboards]] and reporting are comprehensive dashboards that provide [[Real-Time]] visibility into the status of AI agents.
 >
-> **[0:56](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/monitoring-and-incident-management-tools?u=76281980&t=56)** Scalability and adaptability in public cloud environments are tools that must be scalable to handle varying loads and adaptable to the dynamic nature of cloud resources.
+> **[0:56](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/monitoring-and-incident-management-tools?u=76281980&t=56)** [[Scalability]] and adaptability in public cloud environments are tools that must be scalable to handle varying loads and adaptable to the dynamic nature of cloud resources.
 >
 > **[1:07](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/monitoring-and-incident-management-tools?u=76281980&t=67)** Incident detection and alerting are tools that detect deviations from normal operations and generate alerts.
 >
@@ -728,16 +715,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), management (3), cloud (3), [[Security]] (3), [[Dashboards]] (2)
+> **Frameworks & Libraries:** [[AI Agents]] (5), [[Dashboards]] (2), [[Real-Time]] (1), [[Scalability]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Security and compliance tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/security-and-compliance-tools?u=76281980)
+#### [Security and compliance tools](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/security-and-compliance-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/security-and-compliance-tools?u=76281980&t=0)** - [Instructor] Security and compliance tools are useful when running AI agents.
+> **[0:00](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/security-and-compliance-tools?u=76281980&t=0)** - [Instructor] Security and compliance tools are useful when running [[AI Agents]].
 >
 > **[0:04](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/security-and-compliance-tools?u=76281980&t=4)** They protect sensitive data, ensure the integrity of AI processes, and meet regulatory requirements.
 >
@@ -745,13 +731,13 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/security-and-compliance-tools?u=76281980&t=17)** Note, there are dozens of aspects to consider if you're looking to take a deeper dive on this topic.
 >
-> **[0:24](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/security-and-compliance-tools?u=76281980&t=24)** Data encryption and access control tools are tools that ensure data protection by encrypting data both at rest and in flight.
+> **[0:24](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/security-and-compliance-tools?u=76281980&t=24)** Data encryption and access control tools are tools that ensure data protection by encrypting data both at [[Representational State Transfer (REST)|rest]] and in flight.
 >
 > **[0:31](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/security-and-compliance-tools?u=76281980&t=31)** This means stored and moving between systems.
 >
 > **[0:34](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/security-and-compliance-tools?u=76281980&t=34)** This technology manages access through identity and access management, or IAM, systems to prevent unauthorized access.
 >
-> **[0:43](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/security-and-compliance-tools?u=76281980&t=43)** Threat detection and compliance management tools are tools that utilize security information and event management systems.
+> **[0:43](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/security-and-compliance-tools?u=76281980&t=43)** Threat detection and [[Compliance Management]] tools are tools that utilize security information and event management systems.
 >
 > **[0:52](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/security-and-compliance-tools?u=76281980&t=52)** This is used for detecting and responding to threats while maintaining logging and auditing capabilities.
 >
@@ -759,7 +745,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/security-and-compliance-tools?u=76281980&t=63)** Vulnerability and security posture management tools are tools that provide regular vulnerability scanning and patch management to keep systems secure.
 >
-> **[1:11](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/security-and-compliance-tools?u=76281980&t=71)** This tool is used along with continuous monitoring of security configurations with the objective of maintaining best practices and compliance.
+> **[1:11](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/security-and-compliance-tools?u=76281980&t=71)** This tool is used along with [[Continuous Monitoring]] of security configurations with the objective of maintaining best practices and compliance.
 >
 > **[1:19](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/security-and-compliance-tools?u=76281980&t=79)** As you can see, these tools are vital to keeping your agents secure and operating without interruption.
 >
@@ -767,12 +753,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), data (4), management (4), ai (3), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Compliance Management]] (1), [[Continuous Monitoring]] (1)
 > **Env Vars:** iam (1)
 > **Speakers:** - [instructor] (1)
 
-#### Content and media generation tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/content-and-media-generation-tools?u=76281980)
+#### [Content and media generation tools](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/content-and-media-generation-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -786,7 +771,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/content-and-media-generation-tools?u=76281980&t=14)** Text generation tools.
 >
-> **[0:15](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/content-and-media-generation-tools?u=76281980&t=15)** These include AI driven tools such as natural language processing, or NLP models.
+> **[0:15](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/content-and-media-generation-tools?u=76281980&t=15)** These include AI driven tools such as [[Natural Language Processing (NLP)|natural language processing]], or NLP models.
 >
 > **[0:21](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/content-and-media-generation-tools?u=76281980&t=21)** These tools can generate human-like texts from various applications, including conversational style article writing, and human-like chatbots.
 >
@@ -796,9 +781,9 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/content-and-media-generation-tools?u=76281980&t=43)** For example, the ability for a business to generate bespoke images and ads for each customer on a website.
 >
-> **[0:50](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/content-and-media-generation-tools?u=76281980&t=50)** This adds to the user experience, and provides a better chance that the customer will purchase the product.
+> **[0:50](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/content-and-media-generation-tools?u=76281980&t=50)** This adds to the [[User Experience (UX)|user experience]], and provides a better chance that the customer will purchase the product.
 >
-> **[0:55](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/content-and-media-generation-tools?u=76281980&t=55)** Audio and music generation tools are AI agents that can synthesize human-like speech, as well as create music or any sound for that matter.
+> **[0:55](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/content-and-media-generation-tools?u=76281980&t=55)** Audio and music generation tools are [[AI Agents]] that can synthesize human-like speech, as well as create music or any sound for that matter.
 >
 > **[1:05](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/content-and-media-generation-tools?u=76281980&t=65)** These tools are used in developing virtual assistants, generating voiceovers, and composing music.
 >
@@ -814,23 +799,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), business (2), [[Natural Language Processing (NLP)|Natural language processing]] (1), nlp (1), application (1)
+> **Frameworks & Libraries:** [[AI Agents]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[User Experience (UX)|User experience]] (1)
 > **Analogies:** such as (1), for example (1)
 > **Env Vars:** nlp (1)
 > **Speakers:** - [presenter] (1)
 
-#### Customer interaction and support tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/customer-interaction-and-support-tools?u=76281980)
+#### [Customer interaction and support tools](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/customer-interaction-and-support-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/customer-interaction-and-support-tools?u=76281980&t=0)** - [Instructor] AI agents deployed on public cloud platforms provide a range of customer interaction and support tools.
+> **[0:00](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/customer-interaction-and-support-tools?u=76281980&t=0)** - [Instructor] [[AI Agents]] deployed on public cloud platforms provide a range of customer interaction and support tools.
 >
 > **[0:06](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/customer-interaction-and-support-tools?u=76281980&t=6)** These tools enhance the way businesses engage with their customers.
 >
 > **[0:09](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/customer-interaction-and-support-tools?u=76281980&t=9)** Here are three key aspects of these tools.
 >
-> **[0:12](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/customer-interaction-and-support-tools?u=76281980&t=12)** Virtual assistance and chatbot aspect of these tools can handle customer queries and perform tasks using natural language processing.
+> **[0:12](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/customer-interaction-and-support-tools?u=76281980&t=12)** Virtual assistance and chatbot aspect of these tools can handle customer queries and perform tasks using [[Natural Language Processing (NLP)|natural language processing]].
 >
 > **[0:21](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/customer-interaction-and-support-tools?u=76281980&t=21)** This can be employed for 24 by 7 support.
 >
@@ -840,7 +824,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/customer-interaction-and-support-tools?u=76281980&t=43)** This is a tool you might use to bring a transaction to a close when using an AI agent on a public cloud provider.
 >
-> **[0:50](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/customer-interaction-and-support-tools?u=76281980&t=50)** Automated ticketing and workflow management allow you to streamline support processes by automating ticket categorization.
+> **[0:50](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/customer-interaction-and-support-tools?u=76281980&t=50)** Automated ticketing and [[Workflow Management]] allow you to streamline support processes by automating ticket categorization.
 >
 > **[0:57](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/customer-interaction-and-support-tools?u=76281980&t=57)** This also works for providing resolution recommendations.
 >
@@ -852,21 +836,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), cloud (3), chatbot (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Workflow Management]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Workflow Management]] (1)
 > **CLI Commands:** make (1)
 > **Ports:** :00 (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Identifying the right agentic AI tools for XYZ Corp.
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/challenge-identifying-the-right-ai-agent-tools-for-xyz-corp?u=76281980)
+#### [Challenge: Identifying the right agentic AI tools for XYZ Corp.](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/challenge-identifying-the-right-ai-agent-tools-for-xyz-corp?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/challenge-identifying-the-right-ai-agent-tools-for-xyz-corp?u=76281980&t=0)** (energetic electronic music)
 >
-> **[0:06](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/challenge-identifying-the-right-ai-agent-tools-for-xyz-corp?u=76281980&t=6)** - [Instructor] XYZ Corp is a technology company specializing in consumer electronics.
+> **[0:06](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/challenge-identifying-the-right-ai-agent-tools-for-xyz-corp?u=76281980&t=6)** - [Instructor] XYZ Corp is a technology company specializing in consumer [[Electronics]].
 >
 > **[0:10](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/challenge-identifying-the-right-ai-agent-tools-for-xyz-corp?u=76281980&t=10)** It is facing a challenge of enhancing their customer service operations to keep pace with growing customer demands and maintaining a competitive advantage.
 >
@@ -878,7 +861,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/challenge-identifying-the-right-ai-agent-tools-for-xyz-corp?u=76281980&t=40)** The company needed to address several specific issues.
 >
-> **[0:43](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/challenge-identifying-the-right-ai-agent-tools-for-xyz-corp?u=76281980&t=43)** Scalability, their existing infrastructure couldn't handle increasing volumes of customer inquiries.
+> **[0:43](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/challenge-identifying-the-right-ai-agent-tools-for-xyz-corp?u=76281980&t=43)** [[Scalability]], their existing infrastructure couldn't handle increasing volumes of customer inquiries.
 >
 > **[0:50](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/challenge-identifying-the-right-ai-agent-tools-for-xyz-corp?u=76281980&t=50)** Response time, customer service agents were overwhelmed, leading to delays in response times.
 >
@@ -892,14 +875,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Electronics]] (1), ai (1), [[Scalability]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Electronics]] (1), [[Scalability]] (1)
 > **Env Vars:** xyz (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (energetic electronic music) (1)
 
-#### Solution: Identifying the right agentic AI tools for XYZ Corp.
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-identifying-the-right-ai-agent-tools-for-xyz-corp?u=76281980)
+#### [Solution: Identifying the right agentic AI tools for XYZ Corp.](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-identifying-the-right-ai-agent-tools-for-xyz-corp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -911,7 +893,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-identifying-the-right-ai-agent-tools-for-xyz-corp?u=76281980&t=15)** First, the adoption of AI-powered chatbots.
 >
-> **[0:19](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-identifying-the-right-ai-agent-tools-for-xyz-corp?u=76281980&t=19)** XYZ Corporation selected AI chatbots capable of natural language processing to handle a variety of routine queries.
+> **[0:19](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-identifying-the-right-ai-agent-tools-for-xyz-corp?u=76281980&t=19)** XYZ Corporation selected AI chatbots capable of [[Natural Language Processing (NLP)|natural language processing]] to handle a variety of routine queries.
 >
 > **[0:26](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-identifying-the-right-ai-agent-tools-for-xyz-corp?u=76281980&t=26)** This allowed human agents to focus on more complex issues.
 >
@@ -927,7 +909,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-identifying-the-right-ai-agent-tools-for-xyz-corp?u=76281980&t=53)** Finally, a scalable cloud solution.
 >
-> **[0:56](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-identifying-the-right-ai-agent-tools-for-xyz-corp?u=76281980&t=56)** By deploying these AI agents on public cloud platforms, XYZ Corp ensured their customer service systems could scale seamlessly.
+> **[0:56](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-identifying-the-right-ai-agent-tools-for-xyz-corp?u=76281980&t=56)** By deploying these [[AI Agents]] on public cloud platforms, XYZ Corp ensured their customer service systems could scale seamlessly.
 >
 > **[1:06](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-identifying-the-right-ai-agent-tools-for-xyz-corp?u=76281980&t=66)** Thus, as demand increased, the customer services running on AI agents were able to keep up with the growth.
 >
@@ -941,7 +923,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), cloud (2), [[Natural Language Processing (NLP)|Natural language processing]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Env Vars:** xyz (4)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (energetic electronic music) (1)
@@ -951,8 +933,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Autonomous resource management
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/autonomous-resource-management?u=76281980)
+#### [Autonomous resource management](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/autonomous-resource-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -962,7 +943,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/autonomous-resource-management?u=76281980&t=18)** An AI agent equipped with this ability could carry out these tasks without human intervention.
 >
-> **[0:24](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/autonomous-resource-management?u=76281980&t=24)** This ability is crucial for enhancing the effectiveness of AI agents, especially operating in dynamic environments such as the public cloud.
+> **[0:24](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/autonomous-resource-management?u=76281980&t=24)** This ability is crucial for enhancing the effectiveness of [[AI Agents]], especially operating in dynamic environments such as the public cloud.
 >
 > **[0:33](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/autonomous-resource-management?u=76281980&t=33)** Here are three key aspects to consider.
 >
@@ -970,9 +951,9 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/autonomous-resource-management?u=76281980&t=46)** These may include CPUs, memory and storage.
 >
-> **[0:50](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/autonomous-resource-management?u=76281980&t=50)** It's able to do this based on real-time demand and requirements.
+> **[0:50](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/autonomous-resource-management?u=76281980&t=50)** It's able to do this based on [[Real-Time]] demand and requirements.
 >
-> **[0:55](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/autonomous-resource-management?u=76281980&t=55)** Scalability and load balancing refers to AI agents that can autonomously scale resource usage up or down in response to fluctuations in demand on resources such as storage and compute.
+> **[0:55](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/autonomous-resource-management?u=76281980&t=55)** [[Scalability]] and load balancing refers to AI agents that can autonomously scale resource usage up or down in response to fluctuations in demand on resources such as storage and compute.
 >
 > **[1:09](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/autonomous-resource-management?u=76281980&t=69)** This ensures good performance and cost efficiency.
 >
@@ -988,22 +969,21 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/autonomous-resource-management?u=76281980&t=103)** Moreover, they're able to adapt to changing conditions and optimize resources as needed, all without the need for human intervention.
 >
-> **[1:51](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/autonomous-resource-management?u=76281980&t=111)** Now let's discuss automated DevOps pipelines as related to AI agents.
+> **[1:51](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/autonomous-resource-management?u=76281980&t=111)** Now let's discuss automated [[DevOps]] pipelines as related to AI agents.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), management (4), cloud (1), [[Real-Time]] (1), [[Scalability]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (5), [[Real-Time]] (1), [[Scalability]] (1), [[DevOps]] (1)
 > **Definitions:** refers to (2)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Automated DevOps pipelines
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/automated-devops-pipelines?u=76281980)
+#### [Automated DevOps pipelines](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/automated-devops-pipelines?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/automated-devops-pipelines?u=76281980&t=0)** - [Instructor] Leveraging AI agents to automate DevOps pipelines is a good idea.
+> **[0:00](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/automated-devops-pipelines?u=76281980&t=0)** - [Instructor] Leveraging [[AI Agents]] to automate [[DevOps]] pipelines is a good idea.
 >
 > **[0:05](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/automated-devops-pipelines?u=76281980&t=5)** It offers significant efficiencies and capabilities for DevOps engineers.
 >
@@ -1015,7 +995,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/automated-devops-pipelines?u=76281980&t=28)** There is a learning process, as well, meaning that the AI can improve these processes over time.
 >
-> **[0:36](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/automated-devops-pipelines?u=76281980&t=36)** Predictive analytics refers to AI agents that can analyze data from various stages of the pipeline and predict potential issues or bottlenecks.
+> **[0:36](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/automated-devops-pipelines?u=76281980&t=36)** [[Predictive Analytics]] refers to AI agents that can analyze data from various stages of the pipeline and predict potential issues or bottlenecks.
 >
 > **[0:45](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/automated-devops-pipelines?u=76281980&t=45)** It's able to do this before they occur.
 >
@@ -1039,18 +1019,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[DevOps]] (5), [[Automation]] (1), [[Predictive Analytics]] (1), data (1)
+> **Frameworks & Libraries:** [[AI Agents]] (5), [[DevOps]] (5), [[Predictive Analytics]] (1)
 > **Definitions:** is a  (2), refers to (2), means that (1), is an  (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Intelligent monitoring and alerting
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/intelligent-monitoring-and-alerting?u=76281980)
+#### [Intelligent monitoring and alerting](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/intelligent-monitoring-and-alerting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/intelligent-monitoring-and-alerting?u=76281980&t=0)** - [Instructor] Intelligent monitoring and learning is all about AI driven tools to oversee and manage the performance, security, and availability of AI agents running on public clouds.
+> **[0:00](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/intelligent-monitoring-and-alerting?u=76281980&t=0)** - [Instructor] Intelligent monitoring and learning is all about AI driven tools to oversee and manage the performance, security, and availability of [[AI Agents]] running on public clouds.
 >
 > **[0:11](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/intelligent-monitoring-and-alerting?u=76281980&t=11)** This capability enhances traditional monitoring by integrating analytics and automation.
 >
@@ -1060,7 +1039,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/intelligent-monitoring-and-alerting?u=76281980&t=26)** Realtime data analysis, or intelligent monitoring systems that use AI to continuously analyze realtime data.
 >
-> **[0:34](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/intelligent-monitoring-and-alerting?u=76281980&t=34)** This data comes from various sources, such as logs, performance metrics, and user interactions.
+> **[0:34](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/intelligent-monitoring-and-alerting?u=76281980&t=34)** This data comes from various sources, such as logs, [[Performance Metrics]], and user interactions.
 >
 > **[0:40](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/intelligent-monitoring-and-alerting?u=76281980&t=40)** The end goal is to enable the detection of patterns and anomalies that might indicate existing and/or upcoming issues.
 >
@@ -1072,7 +1051,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/intelligent-monitoring-and-alerting?u=76281980&t=71)** Do you see a theme here?
 >
-> **[1:14](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/intelligent-monitoring-and-alerting?u=76281980&t=74)** Predictive insights means using machine learning algorithms, intelligent monitoring tools that can predict the future.
+> **[1:14](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/intelligent-monitoring-and-alerting?u=76281980&t=74)** Predictive insights means using machine learning [[Algorithms]], intelligent monitoring tools that can predict the future.
 >
 > **[1:21](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/intelligent-monitoring-and-alerting?u=76281980&t=81)** This includes trends or risks.
 >
@@ -1088,24 +1067,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), data (3), [[Security]] (2), [[Automation]] (2), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (3), [[Performance Metrics]] (1), [[Algorithms]] (1)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Personalized customer experience
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/personalized-customer-experience?u=76281980)
+#### [Personalized customer experience](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/personalized-customer-experience?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/personalized-customer-experience?u=76281980&t=0)** - [Instructor] Do you want systems to pay more attention to you, the customer?
 >
-> **[0:04](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/personalized-customer-experience?u=76281980&t=4)** A personalized customer experience as related to AI agents involves tailoring interactions, content and recommendations to meet an individual's preferences.
+> **[0:04](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/personalized-customer-experience?u=76281980&t=4)** A personalized customer experience as related to [[AI Agents]] involves tailoring interactions, content and recommendations to meet an individual's preferences.
 >
 > **[0:16](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/personalized-customer-experience?u=76281980&t=16)** And you're able to build AI agents on public clouds to deliver such personalized experiences.
 >
 > **[0:22](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/personalized-customer-experience?u=76281980&t=22)** Let's drill down on these.
 >
-> **[0:25](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/personalized-customer-experience?u=76281980&t=25)** Data collection and integration refers to AI agents that leverage public clouds to gather and integrate data from various sources.
+> **[0:25](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/personalized-customer-experience?u=76281980&t=25)** [[Data Collection]] and integration refers to AI agents that leverage public clouds to gather and integrate data from various sources.
 >
 > **[0:33](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/personalized-customer-experience?u=76281980&t=33)** This may include websites, mobile apps, and POS systems or other sources that may provide data useful to this process.
 >
@@ -1115,7 +1093,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/personalized-customer-experience?u=76281980&t=56)** Using these insights, AI agents can predict customer needs or personalized interactions that suit each customer.
 >
-> **[1:04](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/personalized-customer-experience?u=76281980&t=64)** Scalability and flexibility refers to clouds that allow AI agents to handle large volumes of data and interactions.
+> **[1:04](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/personalized-customer-experience?u=76281980&t=64)** [[Scalability]] and flexibility refers to clouds that allow AI agents to handle large volumes of data and interactions.
 >
 > **[1:11](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/personalized-customer-experience?u=76281980&t=71)** This ensures that personalized experiences can be delivered to customers.
 >
@@ -1133,13 +1111,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), data (5), [[Analytics]] (2), cloud (1), [[Scalability]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (8), [[Data Collection]] (1), [[Scalability]] (1)
 > **Definitions:** refers to (1), means that (1)
 > **Env Vars:** pos (1)
 > **Speakers:** - [instructor] (1)
 
-#### Predictive maintenance and issue resolution
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/predictive-maintenance-and-issue-resolution?u=76281980)
+#### [Predictive maintenance and issue resolution](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/predictive-maintenance-and-issue-resolution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1153,7 +1130,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/predictive-maintenance-and-issue-resolution?u=76281980&t=19)** Predictive maintenance involves using AI systems to analyze data from equipment and machinery to predict potential failures or future maintenance needs, doing this all before they occur.
 >
-> **[0:33](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/predictive-maintenance-and-issue-resolution?u=76281980&t=33)** AI agents across real-time data from servers and IoT, or Internet of Things devices, deploy on machinery and process it using machine learning algorithms.
+> **[0:33](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/predictive-maintenance-and-issue-resolution?u=76281980&t=33)** [[AI Agents]] across [[Real-Time]] data from servers and [[IoT]], or [[IoT|Internet of Things]] devices, deploy on machinery and process it using machine learning [[Algorithms]].
 >
 > **[0:44](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/predictive-maintenance-and-issue-resolution?u=76281980&t=44)** Using these algorithms, they're able to detect anomalies that may indicate potential issues.
 >
@@ -1169,43 +1146,42 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/predictive-maintenance-and-issue-resolution?u=76281980&t=92)** This is able to contribute to more resilient and efficient operations.
 >
-> **[1:36](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/predictive-maintenance-and-issue-resolution?u=76281980&t=96)** Now, let's look at enterprise data integration and AI.
+> **[1:36](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/predictive-maintenance-and-issue-resolution?u=76281980&t=96)** Now, let's look at enterprise [[Data Integration]] and AI.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), data (3), [[Algorithms]] (2), business (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (3), [[Algorithms]] (2), [[Real-Time]] (1), [[IoT]] (1), [[IoT|Internet of things]] (1)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enterprise data integration and AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enterprise-data-integration-and-ai?u=76281980)
+#### [Enterprise data integration and AI](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enterprise-data-integration-and-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enterprise-data-integration-and-ai?u=76281980&t=1)** - [Instructor] Enterprise Data integration refers to the process of sharing data from various sources across an organization.
+> **[0:01](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enterprise-data-integration-and-ai?u=76281980&t=1)** - [Instructor] Enterprise [[Data Integration]] refers to the process of sharing data from various sources across an organization.
 >
 > **[0:08](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enterprise-data-integration-and-ai?u=76281980&t=8)** This is needed to present a unified view for analytics, reporting, and operational purposes.
 >
-> **[0:14](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enterprise-data-integration-and-ai?u=76281980&t=14)** When using AI agents running on public clouds, this process can be even more optimized.
+> **[0:14](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enterprise-data-integration-and-ai?u=76281980&t=14)** When using [[AI Agents]] running on public clouds, this process can be even more optimized.
 >
 > **[0:19](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enterprise-data-integration-and-ai?u=76281980&t=19)** Let's figure out why.
 >
 > **[0:22](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enterprise-data-integration-and-ai?u=76281980&t=22)** AI agents deployed on public clouds can access and process vast amounts of data.
 >
-> **[0:28](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enterprise-data-integration-and-ai?u=76281980&t=28)** This data can be scattered across a number of systems and databases that use different models from devices that produce data to enterprise applications.
+> **[0:28](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enterprise-data-integration-and-ai?u=76281980&t=28)** This data can be scattered across a number of systems and [[Databases]] that use different models from devices that produce data to enterprise applications.
 >
 > **[0:37](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enterprise-data-integration-and-ai?u=76281980&t=37)** The agents leverage AI tools to automate data retrieval, cleansing transformation, and all integration tasks.
 >
-> **[0:45](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enterprise-data-integration-and-ai?u=76281980&t=45)** Also, AI agents facilitate real-time data processing and integration.
+> **[0:45](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enterprise-data-integration-and-ai?u=76281980&t=45)** Also, AI agents facilitate [[Real-Time]] [[Data Processing]] and integration.
 >
 > **[0:50](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enterprise-data-integration-and-ai?u=76281980&t=50)** This allows organizations to derive insights from the data, allowing the data to be leveraged for purposes such as making business decisions.
 >
-> **[0:59](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enterprise-data-integration-and-ai?u=76281980&t=59)** The use of AI data integration enables predictive analytics.
+> **[0:59](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enterprise-data-integration-and-ai?u=76281980&t=59)** The use of AI data integration enables [[Predictive Analytics]].
 >
 > **[1:03](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enterprise-data-integration-and-ai?u=76281980&t=63)** This is where organizations can foresee trends and behaviors based on integrated data sets.
 >
-> **[1:09](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enterprise-data-integration-and-ai?u=76281980&t=69)** AI powered data integration also supports personalized user experience.
+> **[1:09](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enterprise-data-integration-and-ai?u=76281980&t=69)** AI powered data integration also supports personalized [[User Experience (UX)|user experience]].
 >
 > **[1:14](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enterprise-data-integration-and-ai?u=76281980&t=74)** It's able to do this by deriving specific insights tailored to user preferences or business requirements, or it can provide data and insights that are specific to a person or function.
 >
@@ -1213,39 +1189,38 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enterprise-data-integration-and-ai?u=76281980&t=95)** Overall, AI agents running on public clouds provide a solid solution for enterprise data integration.
 >
-> **[1:41](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enterprise-data-integration-and-ai?u=76281980&t=101)** It's able to offer enhanced speed, accuracy and scalability, which in turn drive business intelligence supporting strategic decision making.
+> **[1:41](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enterprise-data-integration-and-ai?u=76281980&t=101)** It's able to offer enhanced speed, accuracy and [[Scalability]], which in turn drive [[Business Intelligence (BI)|business intelligence]] supporting strategic decision making.
 >
 > **[1:49](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enterprise-data-integration-and-ai?u=76281980&t=109)** Now let's complete this section by looking at Agentic AI for dynamic content generation.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), ai (8), business (2), [[Analytics]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Data Integration]] (4), [[AI Agents]] (4), [[Databases]] (1), [[Real-Time]] (1), [[Predictive Analytics]] (1)
 > **Analogies:** such as (1), for example (1)
 > **Env Vars:** ceo (1)
 > **Speakers:** - [instructor] (1)
 
-#### Agentic AI for dynamic content generation
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-for-dynamic-content-generation?u=76281980)
+#### [Agentic AI for dynamic content generation](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-for-dynamic-content-generation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-for-dynamic-content-generation?u=76281980&t=0)** - [Instructor] Agentic AI for dynamic content generation involves using AI agents to autonomously create and manage content.
+> **[0:00](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-for-dynamic-content-generation?u=76281980&t=0)** - [Instructor] Agentic AI for dynamic content generation involves using [[AI Agents]] to autonomously create and manage content.
 >
 > **[0:09](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-for-dynamic-content-generation?u=76281980&t=9)** What content, you may ask?
 >
 > **[0:11](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-for-dynamic-content-generation?u=76281980&t=11)** It's content tailored to specific context or user interactions.
 >
-> **[0:16](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-for-dynamic-content-generation?u=76281980&t=16)** When these AI agents are deployed on public cloud providers, they leverage the cloud's computational power and scalability.
+> **[0:16](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-for-dynamic-content-generation?u=76281980&t=16)** When these AI agents are deployed on public cloud providers, they leverage the cloud's computational power and [[Scalability]].
 >
 > **[0:23](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-for-dynamic-content-generation?u=76281980&t=23)** This is used to efficiently process large volumes of data and generate content in real time.
 >
 > **[0:30](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-for-dynamic-content-generation?u=76281980&t=30)** For example, the ability to generate invoices from massive amounts of production data that may span several systems.
 >
-> **[0:38](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-for-dynamic-content-generation?u=76281980&t=38)** We discussed data integration in our last video.
+> **[0:38](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-for-dynamic-content-generation?u=76281980&t=38)** We discussed [[Data Integration]] in our last video.
 >
 > **[0:40](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-for-dynamic-content-generation?u=76281980&t=40)** This is where it's used to derive insights and generate things for a business purpose, such as invoices.
 >
-> **[0:47](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-for-dynamic-content-generation?u=76281980&t=47)** These AI agents use large language models, or LLMs, to interpret user queries, understand contextual information, and produce responses or content that meets specific needs, such as our invoices in our example.
+> **[0:47](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-for-dynamic-content-generation?u=76281980&t=47)** These AI agents use [[Large Language Models (LLM)|large language models]], or LLMs, to interpret user queries, understand contextual information, and produce responses or content that meets specific needs, such as our invoices in our example.
 >
 > **[1:02](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-for-dynamic-content-generation?u=76281980&t=62)** They can carry this out without human intervention.
 >
@@ -1253,19 +1228,18 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-for-dynamic-content-generation?u=76281980&t=76)** This ensures that the content is relevant, up to date and personalized.
 >
-> **[1:22](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-for-dynamic-content-generation?u=76281980&t=82)** The use of these agents running on public clouds provides businesses with the ability to deliver timely and customized interactions, like personalized marketing messages, automated customer service responses, and real-time content updates, all things that businesses can certainly use.
+> **[1:22](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-for-dynamic-content-generation?u=76281980&t=82)** The use of these agents running on public clouds provides businesses with the ability to deliver timely and customized interactions, like personalized marketing messages, automated customer service responses, and [[Real-Time]] content updates, all things that businesses can certainly use.
 >
 > **[1:38](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-for-dynamic-content-generation?u=76281980&t=98)** Now, let's close up this section by moving to another challenge and solution.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), data (4), cloud (2), power (1), [[Scalability]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (3), [[Scalability]] (1), [[Data Integration]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[Real-Time]] (1)
 > **Analogies:** such as (2), for example (1)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Building a personalized customer experience agent for XYZ Corp
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/challenge-building-a-personalized-customer-experience-agent-for-xyz-corp?u=76281980)
+#### [Challenge: Building a personalized customer experience agent for XYZ Corp](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/challenge-building-a-personalized-customer-experience-agent-for-xyz-corp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1281,7 +1255,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/challenge-building-a-personalized-customer-experience-agent-for-xyz-corp?u=76281980&t=33)** The result was a decrease in sales and a rise in employee complaints.
 >
-> **[0:38](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/challenge-building-a-personalized-customer-experience-agent-for-xyz-corp?u=76281980&t=38)** The company's existing customer service infrastructure is outdated and is struggling to support the data analytics and real-time processing capabilities needed.
+> **[0:38](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/challenge-building-a-personalized-customer-experience-agent-for-xyz-corp?u=76281980&t=38)** The company's existing customer service infrastructure is outdated and is struggling to support the data analytics and [[Real-Time]] processing capabilities needed.
 >
 > **[0:48](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/challenge-building-a-personalized-customer-experience-agent-for-xyz-corp?u=76281980&t=48)** This will be used for effective personalization.
 >
@@ -1297,13 +1271,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Analytics]] (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (1)
 > **Env Vars:** xyz (3)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Building a personalized customer experience agent for XYZ Corp
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-building-a-personalized-customer-experience-agent-for-xyz-corp?u=76281980)
+#### [Solution: Building a personalized customer experience agent for XYZ Corp](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-building-a-personalized-customer-experience-agent-for-xyz-corp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1321,7 +1294,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-building-a-personalized-customer-experience-agent-for-xyz-corp?u=76281980&t=27)** This allowed for integration and analysis of customer data from various sources.
 >
-> **[0:32](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-building-a-personalized-customer-experience-agent-for-xyz-corp?u=76281980&t=32)** By utilizing cloud-based AI agents, the company was able to process and analyze large volumes of data in real time.
+> **[0:32](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-building-a-personalized-customer-experience-agent-for-xyz-corp?u=76281980&t=32)** By utilizing cloud-based [[AI Agents]], the company was able to process and analyze large volumes of data in real time.
 >
 > **[0:40](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-building-a-personalized-customer-experience-agent-for-xyz-corp?u=76281980&t=40)** This enabled the creation of dynamic customer profiles.
 >
@@ -1339,7 +1312,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-building-a-personalized-customer-experience-agent-for-xyz-corp?u=76281980&t=85)** This was able to enhance employee engagement and acceptance.
 >
-> **[1:29](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-building-a-personalized-customer-experience-agent-for-xyz-corp?u=76281980&t=89)** Finally, the deployment of AI agents capable of learning from ongoing interactions provided the capability to enable a customized user experience.
+> **[1:29](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-building-a-personalized-customer-experience-agent-for-xyz-corp?u=76281980&t=89)** Finally, the deployment of AI agents capable of learning from ongoing interactions provided the capability to enable a customized [[User Experience (UX)|user experience]].
 >
 > **[1:39](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-building-a-personalized-customer-experience-agent-for-xyz-corp?u=76281980&t=99)** All of this made both the employees and the customers much happier, leading to improved customer satisfaction and loyalty.
 >
@@ -1349,11 +1322,11 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-building-a-personalized-customer-experience-agent-for-xyz-corp?u=76281980&t=120)** If you had any idea that was close to this, you've learned your lessons well from this section.
 >
-> **[2:07](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-building-a-personalized-customer-experience-agent-for-xyz-corp?u=76281980&t=127)** Now let's change things up and discuss AI agents running on public clouds considering the concept of DevOps.
+> **[2:07](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-building-a-personalized-customer-experience-agent-for-xyz-corp?u=76281980&t=127)** Now let's change things up and discuss AI agents running on public clouds considering the concept of [[DevOps]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), cloud (2), data (2), leadership (1), management (1)
+> **Frameworks & Libraries:** [[AI Agents]] (4), [[User Experience (UX)|User experience]] (1), [[DevOps]] (1)
 > **Env Vars:** xyz (3)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -1364,16 +1337,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Enhancing CI/CD pipelines with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enhancing-ci-cd-pipelines-with-ai-26507202?u=76281980)
+#### [Enhancing CI/CD pipelines with AI](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enhancing-ci-cd-pipelines-with-ai-26507202?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enhancing-ci-cd-pipelines-with-ai-26507202?u=76281980&t=1)** - [Narrator] Enhancing CI/CD, continuous integration and continuous deployment, or delivery pipelines with AI is important to application development and deployment.
+> **[0:01](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enhancing-ci-cd-pipelines-with-ai-26507202?u=76281980&t=1)** - [Narrator] Enhancing CI/CD, [[Continuous Integration (CI)|continuous integration]] and continuous deployment, or delivery pipelines with AI is important to [[Application Development]] and deployment.
 >
-> **[0:12](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enhancing-ci-cd-pipelines-with-ai-26507202?u=76281980&t=12)** This involves integrating artificial intelligence to optimize, automate, and improve the processes within continuous integration and continuous delivery.
+> **[0:12](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enhancing-ci-cd-pipelines-with-ai-26507202?u=76281980&t=12)** This involves integrating [[Artificial Intelligence (AI)|artificial intelligence]] to optimize, automate, and improve the processes within continuous integration and [[Continuous Delivery (CD)|continuous delivery]].
 >
-> **[0:22](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enhancing-ci-cd-pipelines-with-ai-26507202?u=76281980&t=22)** AI agents, particularly Agentic AI, play a critical role in this enhancement.
+> **[0:22](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enhancing-ci-cd-pipelines-with-ai-26507202?u=76281980&t=22)** [[AI Agents]], particularly Agentic AI, play a critical role in this enhancement.
 >
 > **[0:28](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enhancing-ci-cd-pipelines-with-ai-26507202?u=76281980&t=28)** Let's find out why.
 >
@@ -1397,9 +1369,9 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enhancing-ci-cd-pipelines-with-ai-26507202?u=76281980&t=87)** On public clouds, AI agents used for Agentic AI can analyze large quantities of data intelligently.
 >
-> **[1:35](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enhancing-ci-cd-pipelines-with-ai-26507202?u=76281980&t=95)** This is able to optimize resource allocation and ensure scalability of CI/CD processes.
+> **[1:35](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enhancing-ci-cd-pipelines-with-ai-26507202?u=76281980&t=95)** This is able to optimize resource allocation and ensure [[Scalability]] of CI/CD processes.
 >
-> **[1:42](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enhancing-ci-cd-pipelines-with-ai-26507202?u=76281980&t=102)** For instance, generative AI can vastly improve decision making in these environments.
+> **[1:42](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enhancing-ci-cd-pipelines-with-ai-26507202?u=76281980&t=102)** For instance, [[Generative AI]] can vastly improve decision making in these environments.
 >
 > **[1:48](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enhancing-ci-cd-pipelines-with-ai-26507202?u=76281980&t=108)** This improves availability and performance.
 >
@@ -1411,13 +1383,13 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enhancing-ci-cd-pipelines-with-ai-26507202?u=76281980&t=132)** For example, Agentic AI can autonomously generate and prioritize test cases based on recent code changes.
 >
-> **[2:20](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enhancing-ci-cd-pipelines-with-ai-26507202?u=76281980&t=140)** This streamlines manual testing and enhances quality coverage.
+> **[2:20](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enhancing-ci-cd-pipelines-with-ai-26507202?u=76281980&t=140)** This streamlines [[Manual Testing]] and enhances quality coverage.
 >
 > **[2:25](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enhancing-ci-cd-pipelines-with-ai-26507202?u=76281980&t=145)** Agentic AI brings value to every stage of CI/CD processes.
 >
 > **[2:29](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enhancing-ci-cd-pipelines-with-ai-26507202?u=76281980&t=149)** During source code control, Agentic AI analyze commits for anomalies and compliance issues.
 >
-> **[2:37](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enhancing-ci-cd-pipelines-with-ai-26507202?u=76281980&t=157)** In the build phase, it can optimize dependency management and resource allocation.
+> **[2:37](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enhancing-ci-cd-pipelines-with-ai-26507202?u=76281980&t=157)** In the build phase, it can optimize [[Dependency Management]] and resource allocation.
 >
 > **[2:42](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enhancing-ci-cd-pipelines-with-ai-26507202?u=76281980&t=162)** During testing, Agentic AI can select the most impactful tests using change analysis and historical data.
 >
@@ -1433,26 +1405,25 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enhancing-ci-cd-pipelines-with-ai-26507202?u=76281980&t=212)** Effective implementation depends on reliable, high quality training data and seamless integration with existing, sometimes, legacy systems.
 >
-> **[3:43](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enhancing-ci-cd-pipelines-with-ai-26507202?u=76281980&t=223)** Next, let's look at security and compliances related to AI agents in the DevOps processes in the cloud.
+> **[3:43](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enhancing-ci-cd-pipelines-with-ai-26507202?u=76281980&t=223)** Next, let's look at security and compliances related to AI agents in the [[DevOps]] processes in the cloud.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (20), ci (8), cd (8), [[Security]] (3), data (3)
+> **Frameworks & Libraries:** [[AI Agents]] (3), [[Continuous Integration (CI)|Continuous integration]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (2), [[Application Development]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** cd (8), find (1)
 > **Analogies:** such as (1), for instance (1), for example (1)
 > **Exercise Files:** source code (1)
 > **Speakers:** - [narrator] (1)
 
-#### Security and compliance
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/security-and-compliance?u=76281980)
+#### [Security and compliance](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/security-and-compliance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/security-and-compliance?u=76281980&t=0)** - [Instructor] Security and compliance within DevOps and the use of AI agents in public cloud environments are critical considerations for organizations aiming to safeguard their software development processes and infrastructure.
+> **[0:00](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/security-and-compliance?u=76281980&t=0)** - [Instructor] Security and compliance within [[DevOps]] and the use of [[AI Agents]] in public cloud environments are critical considerations for organizations aiming to safeguard their [[Software Development]] processes and infrastructure.
 >
 > **[0:13](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/security-and-compliance?u=76281980&t=13)** Let's discuss the more important points.
 >
-> **[0:16](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/security-and-compliance?u=76281980&t=16)** Integration of security into DevOps, sometimes called DevSecOps, is security that's integrated into all stages of the DevOps lifecycle.
+> **[0:16](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/security-and-compliance?u=76281980&t=16)** Integration of security into DevOps, sometimes called [[DevSecOps]], is security that's integrated into all stages of the DevOps lifecycle.
 >
 > **[0:26](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/security-and-compliance?u=76281980&t=26)** Many people still call this DevSecOps.
 >
@@ -1474,7 +1445,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/security-and-compliance?u=76281980&t=86)** These include identity and access management, encryption, and threat detection.
 >
-> **[1:32](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/security-and-compliance?u=76281980&t=92)** Moreover, AI agents can leverage these tools for real-time insights, and automated responses to security incidents.
+> **[1:32](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/security-and-compliance?u=76281980&t=92)** Moreover, AI agents can leverage these tools for [[Real-Time]] insights, and automated responses to security incidents.
 >
 > **[1:39](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/security-and-compliance?u=76281980&t=99)** This ensures that cloud environments remain secure and compliant with the evolving regulations and threats.
 >
@@ -1482,17 +1453,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (11), cloud (6), [[DevOps]] (5), ai (5), [[DevSecOps]] (2)
+> **Frameworks & Libraries:** [[DevOps]] (5), [[AI Agents]] (4), [[DevSecOps]] (2), [[Software Development]] (1), [[Real-Time]] (1)
 > **Env Vars:** cicd (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Testing and deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/testing-and-deployment?u=76281980)
+#### [Testing and deployment](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/testing-and-deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/testing-and-deployment?u=76281980&t=0)** - [Instructor] Testing and deployment in the context of DevOps enhanced by AI agents on public cloud platforms involve several key benefits.
+> **[0:00](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/testing-and-deployment?u=76281980&t=0)** - [Instructor] Testing and deployment in the context of [[DevOps]] enhanced by [[AI Agents]] on public cloud platforms involve several key benefits.
 >
 > **[0:08](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/testing-and-deployment?u=76281980&t=8)** Let's discuss what those are.
 >
@@ -1512,11 +1482,11 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/testing-and-deployment?u=76281980&t=67)** These are used to deal with any failures.
 >
-> **[1:10](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/testing-and-deployment?u=76281980&t=70)** Scalability and Resource Management refers to AI agents that leverage the scalability of public cloud platforms to optimize resource allocation dynamically.
+> **[1:10](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/testing-and-deployment?u=76281980&t=70)** [[Scalability]] and Resource Management refers to AI agents that leverage the scalability of public cloud platforms to optimize resource allocation dynamically.
 >
 > **[1:20](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/testing-and-deployment?u=76281980&t=80)** As we covered in another video, they can scale resources up or down based on demand.
 >
-> **[1:25](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/testing-and-deployment?u=76281980&t=85)** They can also provide continuous monitoring of deployed applications.
+> **[1:25](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/testing-and-deployment?u=76281980&t=85)** They can also provide [[Continuous Monitoring]] of deployed applications.
 >
 > **[1:29](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/testing-and-deployment?u=76281980&t=89)** This makes the entire deployment process more efficient and cost effective.
 >
@@ -1524,7 +1494,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[DevOps]] (2), cloud (2), [[Scalability]] (2), [[Automation]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (6), [[DevOps]] (2), [[Scalability]] (2), [[Continuous Monitoring]] (1)
 > **Definitions:** refers to (3), means that (1)
 > **Cross-References:** we discussed (1), we covered (1)
 > **CLI Commands:** cd (1)
@@ -1536,26 +1506,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI agents and data integration
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/ai-agents-and-data-integration?u=76281980)
+#### [AI agents and data integration](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/ai-agents-and-data-integration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/ai-agents-and-data-integration?u=76281980&t=0)** - [Instructor] AI agents on public cloud platforms play a critical role in data integration, allowing you to access and consolidate data from diverse sources.
+> **[0:00](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/ai-agents-and-data-integration?u=76281980&t=0)** - [Instructor] [[AI Agents]] on public cloud platforms play a critical role in [[Data Integration]], allowing you to access and consolidate data from diverse sources.
 >
-> **[0:09](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/ai-agents-and-data-integration?u=76281980&t=9)** This enables organizations to develop a unified view and improve decision-making, supporting business applications, such as supply chain management, inventory management, and other core business tasks.
+> **[0:09](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/ai-agents-and-data-integration?u=76281980&t=9)** This enables organizations to develop a unified view and improve [[Decision-Making]], supporting business applications, such as [[Supply Chain Management]], inventory management, and other core business tasks.
 >
 > **[0:22](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/ai-agents-and-data-integration?u=76281980&t=22)** These agents automate data integration tasks.
 >
 > **[0:25](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/ai-agents-and-data-integration?u=76281980&t=25)** These may include cleansing and transformation of the data as it flows from source to target systems.
 >
-> **[0:31](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/ai-agents-and-data-integration?u=76281980&t=31)** Machine learning techniques are leveraged, which enhances data quality and reduces manual efforts.
+> **[0:31](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/ai-agents-and-data-integration?u=76281980&t=31)** Machine learning techniques are leveraged, which enhances [[Data Quality]] and reduces manual efforts.
 >
-> **[0:37](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/ai-agents-and-data-integration?u=76281980&t=37)** The scalability of public clouds allows AI agents to efficiently manage volumes of data.
+> **[0:37](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/ai-agents-and-data-integration?u=76281980&t=37)** The [[Scalability]] of public clouds allows AI agents to efficiently manage volumes of data.
 >
 > **[0:44](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/ai-agents-and-data-integration?u=76281980&t=44)** Also, public clouds offer security and compliance features.
 >
-> **[0:49](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/ai-agents-and-data-integration?u=76281980&t=49)** These provide data privacy and integrity throughout the integration processes.
+> **[0:49](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/ai-agents-and-data-integration?u=76281980&t=49)** These provide [[Data Privacy]] and integrity throughout the integration processes.
 >
 > **[0:53](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/ai-agents-and-data-integration?u=76281980&t=53)** Overall, AI agents on public clouds provide powerful, scalable solutions for effective data integration and management.
 >
@@ -1563,50 +1532,49 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), ai (4), business (2), management (2), cloud (1)
+> **Frameworks & Libraries:** [[AI Agents]] (4), [[Data Integration]] (3), [[Decision-Making]] (1), [[Supply Chain Management]] (1), [[Data Quality]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud-based agentic AI and storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-storage?u=76281980)
+#### [Cloud-based agentic AI and storage](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-storage?u=76281980&t=1)** - [Instructor] AI agents on public cloud platforms are able to take advantage of cloud-based storage.
+> **[0:01](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-storage?u=76281980&t=1)** - [Instructor] [[AI Agents]] on public cloud platforms are able to take advantage of cloud-based storage.
 >
 > **[0:06](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-storage?u=76281980&t=6)** Let's look closely at how that's done.
 >
-> **[0:09](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-storage?u=76281980&t=9)** Cloud storage provides good scalability.
+> **[0:09](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-storage?u=76281980&t=9)** [[Cloud Storage]] provides good [[Scalability]].
 >
 > **[0:11](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-storage?u=76281980&t=11)** This enables systems deployed as agentic AI systems to handle huge amounts of data.
 >
 > **[0:17](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-storage?u=76281980&t=17)** This data is needed for training and inference.
 >
-> **[0:20](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-storage?u=76281980&t=20)** Flexibility comes from a variety of storage options available, such as object, block, and file storage, catering to both structured and unstructured data.
+> **[0:20](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-storage?u=76281980&t=20)** Flexibility comes from a variety of storage options available, such as object, block, and file storage, catering to both structured and [[Unstructured Data]].
 >
 > **[0:30](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-storage?u=76281980&t=30)** This variety of options allows AI agents to efficiently store and process different data types within the cloud.
 >
-> **[0:38](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-storage?u=76281980&t=38)** If you want to learn more about cloud storage in general, I urge you to watch my course on cloud computing storage here on LinkedIn.
+> **[0:38](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-storage?u=76281980&t=38)** If you want to learn more about cloud storage in general, I urge you to watch my course on [[Cloud Computing]] storage here on [[LinkedIn]].
 >
 > **[0:45](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-storage?u=76281980&t=45)** Otherwise, let's keep going.
 >
-> **[0:47](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-storage?u=76281980&t=47)** Public clouds also provide data management features.
+> **[0:47](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-storage?u=76281980&t=47)** Public clouds also provide [[Data Management]] features.
 >
 > **[0:50](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-storage?u=76281980&t=50)** This includes automated backup and data replication, allowing agentic AI systems to access and utilize data in ways that are best for the agent and the business who's employing the agent.
 >
-> **[1:03](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-storage?u=76281980&t=63)** Finally, the option of integrating with other cloud services facilitate seamless data movement within AI workflows.
+> **[1:03](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-storage?u=76281980&t=63)** Finally, the option of integrating with other [[Cloud Services]] facilitate seamless data movement within AI workflows.
 >
 > **[1:10](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-storage?u=76281980&t=70)** This aids in deployment, testing, and optimization of AI models.
 >
 > **[1:16](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-storage?u=76281980&t=76)** When leveraging cloud storage with agentic AI, ensuring robust security and compliance is crucial.
 >
-> **[1:22](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-storage?u=76281980&t=82)** Agentic AI systems must operate within strict data governance frameworks, applying controls such as encryption at rest and in transit, granular access management, and regular auditing to protect sensitive information.
+> **[1:22](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-storage?u=76281980&t=82)** Agentic AI systems must operate within strict [[Data Governance]] frameworks, applying controls such as encryption at [[Representational State Transfer (REST)|rest]] and in transit, granular access management, and regular auditing to protect sensitive information.
 >
 > **[1:36](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-storage?u=76281980&t=96)** Managing storage costs is a central concern for organizations deploying agentic AI at scale.
 >
 > **[1:43](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-storage?u=76281980&t=103)** Effective strategies include using storage tiering to automatically migrate infrequently access data to lower cost options, leveraging automated archiving, and setting up intelligent lifecycle policies that remove unneeded or obsolete files.
 >
-> **[2:00](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-storage?u=76281980&t=120)** To illustrate these principles and practice, consider a real world scenario where agentic AI manages data storage, for a healthcare analytics platform in the cloud.
+> **[2:00](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-storage?u=76281980&t=120)** To illustrate these principles and practice, consider a real world scenario where agentic AI manages [[Data Storage]], for a [[Healthcare Analytics]] platform in the cloud.
 >
 > **[2:10](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-storage?u=76281980&t=130)** Here, agentic AI intelligently classifies incoming patient data, applies appropriate encryption, and ensures that only authorized services or staff have access.
 >
@@ -1616,19 +1584,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), data (12), cloud (11), management (2), [[Scalability]] (1)
+> **Frameworks & Libraries:** [[Cloud Storage]] (4), [[AI Agents]] (3), [[Scalability]] (1), [[Unstructured Data]] (1), [[Cloud Computing]] (1)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud-based agentic AI and compute
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-compute?u=76281980)
+#### [Cloud-based agentic AI and compute](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-compute?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-compute?u=76281980&t=1)** - [Instructor] AI agents deployed on public cloud platforms are able to leverage compute services.
+> **[0:01](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-compute?u=76281980&t=1)** - [Instructor] [[AI Agents]] deployed on public cloud platforms are able to leverage compute services.
 >
-> **[0:07](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-compute?u=76281980&t=7)** These are essential for executing complex algorithms and processing large data sets.
+> **[0:07](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-compute?u=76281980&t=7)** These are essential for executing complex [[Algorithms]] and processing large data sets.
 >
 > **[0:12](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-compute?u=76281980&t=12)** In other words, they are the CPU or central processing units of AI agents running on public cloud providers.
 >
@@ -1656,42 +1623,41 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-compute?u=76281980&t=89)** These services, which often include prebuilt algorithms and frameworks enable developers to experiment and iterate more rapidly.
 >
-> **[1:38](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-compute?u=76281980&t=98)** Additionally, pay-as-you-go pricing models of cloud computing is a core advantage of AI agents.
+> **[1:38](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-compute?u=76281980&t=98)** Additionally, pay-as-you-go pricing models of [[Cloud Computing]] is a core advantage of AI agents.
 >
 > **[1:45](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-compute?u=76281980&t=105)** These resources further enhance cost effectiveness, meaning that organizations only pay for the computing power they actually use.
 >
 > **[1:53](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-compute?u=76281980&t=113)** When deploying Agentic AI on cloud platforms, security and compliance must be top priorities.
 >
-> **[1:59](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-compute?u=76281980&t=119)** Agentic AI systems may operate with access to sensitive data sets and critical infrastructure, so it's essential to implement robust identity and access management, encryption of data, both at rest and in transit, and continuous monitoring for potential vulnerabilities.
+> **[1:59](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-compute?u=76281980&t=119)** Agentic AI systems may operate with access to sensitive data sets and critical infrastructure, so it's essential to implement robust identity and access management, encryption of data, both at [[Representational State Transfer (REST)|rest]] and in transit, and [[Continuous Monitoring]] for potential vulnerabilities.
 >
 > **[2:17](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-compute?u=76281980&t=137)** Beyond elastic scaling, Agentic AI can optimize workloads by intelligently distributing tasks across various cloud resources and even hybrid environments.
 >
-> **[2:29](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-compute?u=76281980&t=149)** For example, Agentic AI can dynamically select between CPUs, GPUs, and TPUs based on needs or shift specific workloads between on premises and cloud infrastructure to minimize latency or control costs.
+> **[2:29](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-compute?u=76281980&t=149)** For example, Agentic AI can dynamically select between CPUs, GPUs, and TPUs based on needs or shift specific workloads between on premises and [[Cloud Infrastructure]] to minimize latency or control costs.
 >
 > **[2:46](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-compute?u=76281980&t=166)** Managing compute for Agentic AI is not about scaling up.
 >
 > **[2:49](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-compute?u=76281980&t=169)** It also requires robust monitoring and proactive failure handling.
 >
-> **[2:56](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-compute?u=76281980&t=176)** Agentic AI should be paired with detailed monitoring of resource consumption, performance bottlenecks, and system health to enable swift detection of issues.
+> **[2:56](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-compute?u=76281980&t=176)** Agentic AI should be paired with detailed monitoring of resource consumption, performance bottlenecks, and system health to enable [[Swift (Programming Language)|swift]] detection of issues.
 >
 > **[3:06](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-compute?u=76281980&t=186)** Next, let's talk about AI agents that are able to leverage containers.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (16), cloud (7), data (3), power (3), [[Algorithms]] (2)
+> **Frameworks & Libraries:** [[AI Agents]] (6), [[Algorithms]] (2), [[Cloud Computing]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Continuous Monitoring]] (1)
 > **Definitions:** in other words (1), means that (1), is a  (1)
 > **Env Vars:** cpu (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud-based agentic AI and containers
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-containers?u=76281980)
+#### [Cloud-based agentic AI and containers](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-containers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-containers?u=76281980&t=1)** - [Instructor] AI agents deployed in containers on public cloud platforms enjoy several benefits.
+> **[0:01](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-containers?u=76281980&t=1)** - [Instructor] [[AI Agents]] deployed in containers on public cloud platforms enjoy several benefits.
 >
-> **[0:06](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-containers?u=76281980&t=6)** These benefits include portability, scalability, and management.
+> **[0:06](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-containers?u=76281980&t=6)** These benefits include portability, [[Scalability]], and management.
 >
 > **[0:11](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-containers?u=76281980&t=11)** Let's dive into what we need to understand about this topic.
 >
@@ -1701,7 +1667,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-containers?u=76281980&t=29)** It's able to do this across different platforms, such as on cloud, non-cloud, or devices you may carry in your pocket.
 >
-> **[0:37](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-containers?u=76281980&t=37)** Public cloud platforms offer container orchestration services such as Kubernetes.
+> **[0:37](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-containers?u=76281980&t=37)** Public cloud platforms offer container orchestration services such as [[Kubernetes]].
 >
 > **[0:42](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-containers?u=76281980&t=42)** These container management platforms simplify the management of containerized AI applications.
 >
@@ -1711,7 +1677,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-containers?u=76281980&t=62)** The use of containers also enhances the portability of AI agents across different cloud environments, including from cloud to cloud within a multi-cloud deployment.
 >
-> **[1:13](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-containers?u=76281980&t=73)** Moreover, deploying agents in containers supports rapid development and continuous integration and continuous deployment, or CICD practices as we covered in a previous video.
+> **[1:13](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-containers?u=76281980&t=73)** Moreover, deploying agents in containers supports rapid development and [[Continuous Integration (CI)|continuous integration]] and continuous deployment, or CICD practices as we covered in a previous video.
 >
 > **[1:24](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-containers?u=76281980&t=84)** When running agentic AI within containers, security is not just an add-on, but a critical requirement.
 >
@@ -1719,7 +1685,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-containers?u=76281980&t=105)** A key challenge in deploying agentic AI at scale is maintaining deep observability across dynamic and distributed container environments.
 >
-> **[1:54](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-containers?u=76281980&t=114)** To ensure optimal performance and rapid troubleshooting, organizations should implement comprehensive monitoring solutions to track resource usage, performance metrics, log events, and health indicators specific to agentic AI workloads.
+> **[1:54](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-containers?u=76281980&t=114)** To ensure optimal performance and rapid troubleshooting, organizations should implement comprehensive monitoring solutions to track resource usage, [[Performance Metrics]], log events, and health indicators specific to agentic AI workloads.
 >
 > **[2:09](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-containers?u=76281980&t=129)** While containers significantly improve scalability and portability for agentic AI, they can also introduce new complexities in managing resource utilization and costs.
 >
@@ -1731,22 +1697,21 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-containers?u=76281980&t=163)** This approach allows for better component reusability, easier maintenance, and more scalable system designs, but comes at the cost of using more resources such as network resources to run the agents existing within containers.
 >
-> **[2:59](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-containers?u=76281980&t=179)** Let's look at serverless computing and AI agents next.
+> **[2:59](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/cloud-based-agentic-ai-and-containers?u=76281980&t=179)** Let's look at [[Serverless Computing]] and AI agents next.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), cloud (8), management (5), [[Kubernetes]] (3), [[Scalability]] (2)
+> **Frameworks & Libraries:** [[AI Agents]] (5), [[Kubernetes]] (3), [[Scalability]] (2), [[Continuous Integration (CI)|Continuous integration]] (1), [[Performance Metrics]] (1)
 > **Analogies:** such as (5)
 > **Cross-References:** we covered (1), previous video (1)
 > **Env Vars:** cicd (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI agents and serverless
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/ai-agents-and-serverless?u=76281980)
+#### [AI agents and serverless](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/ai-agents-and-serverless?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/ai-agents-and-serverless?u=76281980&t=0)** - [Instructor] AI agents integrated with serverless computing on public cloud platforms benefit from a highly efficient and cost-effective execution model.
+> **[0:00](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/ai-agents-and-serverless?u=76281980&t=0)** - [Instructor] [[AI Agents]] integrated with [[Serverless Computing]] on public cloud platforms benefit from a highly efficient and cost-effective execution model.
 >
 > **[0:10](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/ai-agents-and-serverless?u=76281980&t=10)** Serverless computing, also known as function as a service or FAAS, allows developers to run code for AI agents without managing or provisioning servers.
 >
@@ -1766,13 +1731,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[Serverless Computing]] (4), cloud (3), management (1)
+> **Frameworks & Libraries:** [[AI Agents]] (4), [[Serverless Computing]] (4)
 > **Definitions:** known as (1), means that (1)
 > **Env Vars:** faas (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Creating an agentic AI cloud architecture for XYZ Corp.
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/challenge-creating-an-agent-ai-cloud-architecture-for-xyz-corp?u=76281980)
+#### [Challenge: Creating an agentic AI cloud architecture for XYZ Corp.](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/challenge-creating-an-agent-ai-cloud-architecture-for-xyz-corp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1780,13 +1744,13 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/challenge-creating-an-agent-ai-cloud-architecture-for-xyz-corp?u=76281980&t=9)** XYZ Corp aims to transition into a more AI-driven organization by developing a robust cloud architecture.
 >
-> **[0:19](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/challenge-creating-an-agent-ai-cloud-architecture-for-xyz-corp?u=76281980&t=19)** This architecture should be capable of supporting sophisticated AI agents that will need compute, storage, and other cloud services.
+> **[0:19](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/challenge-creating-an-agent-ai-cloud-architecture-for-xyz-corp?u=76281980&t=19)** This architecture should be capable of supporting sophisticated [[AI Agents]] that will need compute, storage, and other [[Cloud Services]].
 >
 > **[0:27](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/challenge-creating-an-agent-ai-cloud-architecture-for-xyz-corp?u=76281980&t=27)** The challenge lies in creating an architecture that can efficiently support the deployment, management, and scaling of AI agents, while ensuring high performance, security, and cost-effectiveness.
 >
 > **[0:39](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/challenge-creating-an-agent-ai-cloud-architecture-for-xyz-corp?u=76281980&t=39)** They have asked you to take a shot at it.
 >
-> **[0:41](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/challenge-creating-an-agent-ai-cloud-architecture-for-xyz-corp?u=76281980&t=41)** Please describe a high-level cloud computing architecture that will meet the requirements of XYZ.
+> **[0:41](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/challenge-creating-an-agent-ai-cloud-architecture-for-xyz-corp?u=76281980&t=41)** Please describe a high-level [[Cloud Computing]] architecture that will meet the requirements of XYZ.
 >
 > **[0:47](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/challenge-creating-an-agent-ai-cloud-architecture-for-xyz-corp?u=76281980&t=47)** Again, no need to write anything down.
 >
@@ -1796,14 +1760,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), cloud (3), management (1), [[Security]] (1), next (1)
+> **Frameworks & Libraries:** [[AI Agents]] (2), [[Cloud Services]] (1), [[Cloud Computing]] (1)
 > **Env Vars:** xyz (3)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Creating an agentic AI cloud architecture for XYZ Corp.
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-creating-an-agent-ai-cloud-architecture-for-xyz-corp?u=76281980)
+#### [Solution: Creating an agentic AI cloud architecture for XYZ Corp.](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-creating-an-agent-ai-cloud-architecture-for-xyz-corp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1811,9 +1774,9 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-creating-an-agent-ai-cloud-architecture-for-xyz-corp?u=76281980&t=6)** - [Instructor] So how did you do?
 >
-> **[0:08](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-creating-an-agent-ai-cloud-architecture-for-xyz-corp?u=76281980&t=8)** Let's look at the basic components of a cloud computing architecture for AI agents that you might consider sharing with XYZ Corp.
+> **[0:08](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-creating-an-agent-ai-cloud-architecture-for-xyz-corp?u=76281980&t=8)** Let's look at the basic components of a [[Cloud Computing]] architecture for [[AI Agents]] that you might consider sharing with XYZ Corp.
 >
-> **[0:17](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-creating-an-agent-ai-cloud-architecture-for-xyz-corp?u=76281980&t=17)** Utilize cloud native data integration tools to consolidate and harmonize data from various sources in real time.
+> **[0:17](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-creating-an-agent-ai-cloud-architecture-for-xyz-corp?u=76281980&t=17)** Utilize cloud native [[Data Integration]] tools to consolidate and harmonize data from various sources in real time.
 >
 > **[0:25](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-creating-an-agent-ai-cloud-architecture-for-xyz-corp?u=76281980&t=25)** This ensures that AI agents have access to unified data sets.
 >
@@ -1825,13 +1788,13 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-creating-an-agent-ai-cloud-architecture-for-xyz-corp?u=76281980&t=49)** This enables seamless scaling of storage to accommodate growing dataset.
 >
-> **[0:54](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-creating-an-agent-ai-cloud-architecture-for-xyz-corp?u=76281980&t=54)** By focusing on these core elements, XYZ Corp can establish a robust AI architecture that can effectively support their AI initiatives while maintaining scalability, security, and integration efficiency.
+> **[0:54](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-creating-an-agent-ai-cloud-architecture-for-xyz-corp?u=76281980&t=54)** By focusing on these core elements, XYZ Corp can establish a robust AI architecture that can effectively support their AI initiatives while maintaining [[Scalability]], security, and integration efficiency.
 >
 > **[1:08](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-creating-an-agent-ai-cloud-architecture-for-xyz-corp?u=76281980&t=68)** So how did your thinking align with ours?
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), cloud (4), data (3), [[Scalability]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (2), [[Cloud Computing]] (1), [[Data Integration]] (1), [[Scalability]] (1)
 > **Env Vars:** xyz (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (energetic music) (1)
@@ -1841,12 +1804,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Crafting prompts to guide agentic behavior in AI models
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/crafting-prompts-to-guide-agentic-behavior-in-ai-models?u=76281980)
+#### [Crafting prompts to guide agentic behavior in AI models](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/crafting-prompts-to-guide-agentic-behavior-in-ai-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/crafting-prompts-to-guide-agentic-behavior-in-ai-models?u=76281980&t=1)** - [Narrator] Crafting prompts to guide agentic behavior in AI models is a critical process for the purpose of building AI agents.
+> **[0:01](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/crafting-prompts-to-guide-agentic-behavior-in-ai-models?u=76281980&t=1)** - [Narrator] Crafting prompts to guide agentic behavior in AI models is a critical process for the purpose of building [[AI Agents]].
 >
 > **[0:10](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/crafting-prompts-to-guide-agentic-behavior-in-ai-models?u=76281980&t=10)** This is particularly useful when deployed on public cloud platforms.
 >
@@ -1858,11 +1820,11 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/crafting-prompts-to-guide-agentic-behavior-in-ai-models?u=76281980&t=34)** They must also plan and adapt based on data or changing environments.
 >
-> **[0:40](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/crafting-prompts-to-guide-agentic-behavior-in-ai-models?u=76281980&t=40)** To achieve this, prompts must be built to align with the desired outcomes, much like you would when leveraging ChatGPT.
+> **[0:40](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/crafting-prompts-to-guide-agentic-behavior-in-ai-models?u=76281980&t=40)** To achieve this, prompts must be built to align with the desired outcomes, much like you would when leveraging [[ChatGPT]].
 >
 > **[0:50](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/crafting-prompts-to-guide-agentic-behavior-in-ai-models?u=76281980&t=50)** It does this by explicitly setting expectations and guidelines through prompts.
 >
-> **[0:55](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/crafting-prompts-to-guide-agentic-behavior-in-ai-models?u=76281980&t=55)** Thus, the term prompt engineering.
+> **[0:55](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/crafting-prompts-to-guide-agentic-behavior-in-ai-models?u=76281980&t=55)** Thus, the term [[Prompt Engineering]].
 >
 > **[0:58](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/crafting-prompts-to-guide-agentic-behavior-in-ai-models?u=76281980&t=58)** This allows developers to steer AI models to carry out autonomous problem solving and other related tasks.
 >
@@ -1872,7 +1834,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/crafting-prompts-to-guide-agentic-behavior-in-ai-models?u=76281980&t=78)** Public cloud platforms offer the computational resources and tools needed for deploying AI agents.
 >
-> **[1:24](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/crafting-prompts-to-guide-agentic-behavior-in-ai-models?u=76281980&t=84)** These platforms provide environments where large language models, or LLMs, can be integrated with additional tools and services.
+> **[1:24](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/crafting-prompts-to-guide-agentic-behavior-in-ai-models?u=76281980&t=84)** These platforms provide environments where [[Large Language Models (LLM)|large language models]], or LLMs, can be integrated with additional tools and services.
 >
 > **[1:33](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/crafting-prompts-to-guide-agentic-behavior-in-ai-models?u=76281980&t=93)** Crafting prompts for agentic AI in the cloud allows developers to utilize cloud resources effectively.
 >
@@ -1884,17 +1846,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), cloud (4), prompt (2), data (1), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (2), [[ChatGPT]] (1), [[Prompt Engineering]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Refining AI prompts based on performance
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/refining-ai-prompts-based-on-performance?u=76281980)
+#### [Refining AI prompts based on performance](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/refining-ai-prompts-based-on-performance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/refining-ai-prompts-based-on-performance?u=76281980&t=1)** - [Narrator] Refining AI prompts based on performance is an essential operation for optimizing AI agents running on public clouds.
+> **[0:01](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/refining-ai-prompts-based-on-performance?u=76281980&t=1)** - [Narrator] Refining AI prompts based on performance is an essential operation for optimizing [[AI Agents]] running on public clouds.
 >
 > **[0:09](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/refining-ai-prompts-based-on-performance?u=76281980&t=9)** This process includes several steps to ensure that the AI agents operate efficiently.
 >
@@ -1910,7 +1871,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/refining-ai-prompts-based-on-performance?u=76281980&t=43)** This involves altering the prompt structure, language, or content to better align with performance goals.
 >
-> **[0:51](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/refining-ai-prompts-based-on-performance?u=76281980&t=51)** Public cloud platforms provide the scalability and computational resources needed to conduct testing and refinement.
+> **[0:51](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/refining-ai-prompts-based-on-performance?u=76281980&t=51)** Public cloud platforms provide the [[Scalability]] and computational resources needed to conduct testing and refinement.
 >
 > **[0:57](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/refining-ai-prompts-based-on-performance?u=76281980&t=57)** Using these mechanisms, developers can leverage resources to run experiments.
 >
@@ -1922,22 +1883,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), prompt (2), cloud (2), next (1), [[Scalability]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (4), [[Scalability]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Challenge: AI workflows and prompt engineering at XYZ Corp
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/challenge-ai-workflows-and-prompt-engineering-at-xyz-corp?u=76281980)
+#### [Challenge: AI workflows and prompt engineering at XYZ Corp](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/challenge-ai-workflows-and-prompt-engineering-at-xyz-corp?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/challenge-ai-workflows-and-prompt-engineering-at-xyz-corp?u=76281980&t=0)** - [Narrator] Remember XYZ Corp?
 >
-> **[0:09](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/challenge-ai-workflows-and-prompt-engineering-at-xyz-corp?u=76281980&t=9)** Well, they've called again and now they're aiming to integrate advanced AI agents to streamline operations and improve efficiency.
+> **[0:09](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/challenge-ai-workflows-and-prompt-engineering-at-xyz-corp?u=76281980&t=9)** Well, they've called again and now they're aiming to integrate advanced [[AI Agents]] to streamline operations and improve efficiency.
 >
 > **[0:18](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/challenge-ai-workflows-and-prompt-engineering-at-xyz-corp?u=76281980&t=18)** However, the company is facing challenges in designing effective workflows and crafting the right prompts to guide these agents effectively.
 >
-> **[0:27](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/challenge-ai-workflows-and-prompt-engineering-at-xyz-corp?u=76281980&t=27)** The primary challenge is to establish a robust framework for prompt engineering that can optimize AI performance, ensuring efficiency and reliability across various departments.
+> **[0:27](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/challenge-ai-workflows-and-prompt-engineering-at-xyz-corp?u=76281980&t=27)** The primary challenge is to establish a robust framework for [[Prompt Engineering]] that can optimize AI performance, ensuring efficiency and reliability across various departments.
 >
 > **[0:38](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/challenge-ai-workflows-and-prompt-engineering-at-xyz-corp?u=76281980&t=38)** They need your help.
 >
@@ -1949,14 +1909,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Prompt Engineering]] (2), next (1)
+> **Frameworks & Libraries:** [[AI Agents]] (2), [[Prompt Engineering]] (2)
 > **Env Vars:** xyz (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: AI workflows and prompt engineering at XYZ Corp
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-ai-workflows-and-prompt-engineering-at-xyz-corp?u=76281980)
+#### [Solution: AI workflows and prompt engineering at XYZ Corp](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-ai-workflows-and-prompt-engineering-at-xyz-corp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1964,19 +1923,19 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-ai-workflows-and-prompt-engineering-at-xyz-corp?u=76281980&t=6)** - [Instructor] How did it go?
 >
-> **[0:07](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-ai-workflows-and-prompt-engineering-at-xyz-corp?u=76281980&t=7)** To address the challenge of designing effective workflows and prompt engineering for XYZ Corp, the solution begins with an initial assessment and objective setting.
+> **[0:07](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-ai-workflows-and-prompt-engineering-at-xyz-corp?u=76281980&t=7)** To address the challenge of designing effective workflows and [[Prompt Engineering]] for XYZ Corp, the solution begins with an initial assessment and objective setting.
 >
 > **[0:18](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-ai-workflows-and-prompt-engineering-at-xyz-corp?u=76281980&t=18)** The company should identify key processes where AI can provide the most value.
 >
 > **[0:23](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-ai-workflows-and-prompt-engineering-at-xyz-corp?u=76281980&t=23)** They'll need to consult with each department to prioritize needs.
 >
-> **[0:28](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-ai-workflows-and-prompt-engineering-at-xyz-corp?u=76281980&t=28)** Clear objectives and performance metrics should be defined to ensure alignment with the company goals.
+> **[0:28](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-ai-workflows-and-prompt-engineering-at-xyz-corp?u=76281980&t=28)** Clear objectives and [[Performance Metrics]] should be defined to ensure alignment with the company goals.
 >
 > **[0:34](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-ai-workflows-and-prompt-engineering-at-xyz-corp?u=76281980&t=34)** Next, the focus should be on prompt development and iteration.
 >
 > **[0:38](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-ai-workflows-and-prompt-engineering-at-xyz-corp?u=76281980&t=38)** Initial prompts must be developed with precision, incorporating industry-specific terminology to enhance accuracy.
 >
-> **[0:45](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-ai-workflows-and-prompt-engineering-at-xyz-corp?u=76281980&t=45)** An iterative process of testing and feedback should be implemented to refine these prompts based on the observed performance of the AI agents.
+> **[0:45](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-ai-workflows-and-prompt-engineering-at-xyz-corp?u=76281980&t=45)** An iterative process of testing and feedback should be implemented to refine these prompts based on the observed performance of the [[AI Agents]].
 >
 > **[0:55](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-ai-workflows-and-prompt-engineering-at-xyz-corp?u=76281980&t=55)** Workflow design and integration are also crucial.
 >
@@ -1994,13 +1953,13 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-ai-workflows-and-prompt-engineering-at-xyz-corp?u=76281980&t=102)** Cross-functional teams consisting of members from IT operations and business units should work together to refine AI strategies.
 >
-> **[1:50](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-ai-workflows-and-prompt-engineering-at-xyz-corp?u=76281980&t=110)** Encouraging open communications and innovation within these teams will help XYZ Corp effectively deploy AI agents to enhance operational efficiency and scalability.
+> **[1:50](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-ai-workflows-and-prompt-engineering-at-xyz-corp?u=76281980&t=110)** Encouraging open communications and innovation within these teams will help XYZ Corp effectively deploy AI agents to enhance operational efficiency and [[Scalability]].
 >
 > **[2:02](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/solution-ai-workflows-and-prompt-engineering-at-xyz-corp?u=76281980&t=122)** So how'd you do?
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), business (2), teams (2), [[Prompt Engineering]] (1), [[Performance Metrics]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (2), [[Prompt Engineering]] (1), [[Performance Metrics]] (1), [[Scalability]] (1)
 > **Env Vars:** xyz (3)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
@@ -2010,30 +1969,29 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Intelligent monitoring and incident management
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/intelligent-monitoring-and-incident-management?u=76281980)
+#### [Intelligent monitoring and incident management](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/intelligent-monitoring-and-incident-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/intelligent-monitoring-and-incident-management?u=76281980&t=1)** - [Instructor] Intelligent monitoring and incident management are components leveraged to effectively manage AI agents running on public clouds.
+> **[0:01](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/intelligent-monitoring-and-incident-management?u=76281980&t=1)** - [Instructor] Intelligent monitoring and incident management are components leveraged to effectively manage [[AI Agents]] running on public clouds.
 >
 > **[0:08](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/intelligent-monitoring-and-incident-management?u=76281980&t=8)** These mechanisms ensure the reliability and efficiency of AI-driven applications by using AI technologies to monitor, detect and respond to issues proactively.
 >
 > **[0:19](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/intelligent-monitoring-and-incident-management?u=76281980&t=19)** Let's explore the major concept.
 >
-> **[0:22](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/intelligent-monitoring-and-incident-management?u=76281980&t=22)** Real-time anomaly detection refers to intelligent monitoring systems that use AI to continuously look at the performance of the AI agents.
+> **[0:22](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/intelligent-monitoring-and-incident-management?u=76281980&t=22)** [[Real-Time]] anomaly detection refers to intelligent monitoring systems that use AI to continuously look at the performance of the AI agents.
 >
-> **[0:32](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/intelligent-monitoring-and-incident-management?u=76281980&t=32)** They do this by using machine learning algorithms, enabling these systems to detect anomalies.
+> **[0:32](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/intelligent-monitoring-and-incident-management?u=76281980&t=32)** They do this by using machine learning [[Algorithms]], enabling these systems to detect anomalies.
 >
 > **[0:37](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/intelligent-monitoring-and-incident-management?u=76281980&t=37)** The early detection of potential issues avoids impacting performance.
 >
-> **[0:43](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/intelligent-monitoring-and-incident-management?u=76281980&t=43)** Automated incident response refers to AI agents that are able to facilitate the automated incident management through the use of predefined response protocols.
+> **[0:43](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/intelligent-monitoring-and-incident-management?u=76281980&t=43)** Automated [[Incident Response]] refers to AI agents that are able to facilitate the automated incident management through the use of predefined response protocols.
 >
 > **[0:55](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/intelligent-monitoring-and-incident-management?u=76281980&t=55)** These are engaged when the anomaly is detected.
 >
 > **[0:57](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/intelligent-monitoring-and-incident-management?u=76281980&t=57)** Examples of this may include rerouting traffic or restarting services.
 >
-> **[1:03](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/intelligent-monitoring-and-incident-management?u=76281980&t=63)** Predictive maintenance and proactive solutions refers to leveraging predictive analytics agents that can anticipate potential failures and are able to do this before they occur.
+> **[1:03](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/intelligent-monitoring-and-incident-management?u=76281980&t=63)** Predictive maintenance and proactive solutions refers to leveraging [[Predictive Analytics]] agents that can anticipate potential failures and are able to do this before they occur.
 >
 > **[1:13](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/intelligent-monitoring-and-incident-management?u=76281980&t=73)** Think of this as predicting the future.
 >
@@ -2041,38 +1999,37 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/intelligent-monitoring-and-incident-management?u=76281980&t=84)** Thus, they're healthy for cloud operations and are getting a great deal of attention lately.
 >
-> **[1:29](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/intelligent-monitoring-and-incident-management?u=76281980&t=89)** Now let's focus on enterprise data integration.
+> **[1:29](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/intelligent-monitoring-and-incident-management?u=76281980&t=89)** Now let's focus on enterprise [[Data Integration]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), management (3), [[Real-Time]] (1), [[Algorithms]] (1), [[Incident Response]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (4), [[Real-Time]] (1), [[Algorithms]] (1), [[Incident Response]] (1), [[Predictive Analytics]] (1)
 > **Definitions:** refers to (3)
 > **Speakers:** - [instructor] (1)
 
-#### Enterprise data integration
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enterprise-data-integration?u=76281980)
+#### [Enterprise data integration](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enterprise-data-integration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enterprise-data-integration?u=76281980&t=1)** - [Instructor] We've discussed data integration and AI agents before, so what's new here, in the context of this particular topic?
+> **[0:01](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enterprise-data-integration?u=76281980&t=1)** - [Instructor] We've discussed [[Data Integration]] and [[AI Agents]] before, so what's new here, in the context of this particular topic?
 >
 > **[0:08](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enterprise-data-integration?u=76281980&t=8)** Let's see, when integrating AI agents with enterprise data, organizations experience several key advantages.
 >
-> **[0:16](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enterprise-data-integration?u=76281980&t=16)** Automated data processing, allowing AI agents to streamline data integration tasks, such as extraction, cleansing, and transformation, that we covered in a previous video.
+> **[0:16](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enterprise-data-integration?u=76281980&t=16)** Automated [[Data Processing]], allowing AI agents to streamline data integration tasks, such as extraction, cleansing, and transformation, that we covered in a previous video.
 >
 > **[0:26](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enterprise-data-integration?u=76281980&t=26)** They're able to do this by using machine learning to deal with the data workflows.
 >
 > **[0:31](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enterprise-data-integration?u=76281980&t=31)** This automation is able to reduce data processing and make data integration more efficient and accurate.
 >
-> **[0:38](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enterprise-data-integration?u=76281980&t=38)** Real-time insights and decision making, allowing agents to provide real-time insights.
+> **[0:38](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enterprise-data-integration?u=76281980&t=38)** [[Real-Time]] insights and decision making, allowing agents to provide real-time insights.
 >
-> **[0:44](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enterprise-data-integration?u=76281980&t=44)** This enables informed decision making, allowing organizations to react quickly to market changes and other operational needs.
+> **[0:44](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enterprise-data-integration?u=76281980&t=44)** This enables informed decision making, allowing organizations to [[React.js|react]] quickly to market changes and other operational needs.
 >
-> **[0:52](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enterprise-data-integration?u=76281980&t=52)** Enhanced data governance and compliance, allowing AI agents to ensure data quality and consistency.
+> **[0:52](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enterprise-data-integration?u=76281980&t=52)** Enhanced [[Data Governance]] and compliance, allowing AI agents to ensure [[Data Quality]] and consistency.
 >
 > **[0:58](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enterprise-data-integration?u=76281980&t=58)** Also, they are able to monitor adherence to data protection.
 >
-> **[1:02](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enterprise-data-integration?u=76281980&t=62)** Thus, they play a critical role in maintaining data governance and dealing with privacy and security compliance issues on the fly.
+> **[1:02](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enterprise-data-integration?u=76281980&t=62)** Thus, they play a critical role in maintaining data governance and dealing with [[Privacy]] and security compliance issues on the fly.
 >
 > **[1:10](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enterprise-data-integration?u=76281980&t=70)** Data integration is really the lifeblood of any enterprise, and the use of AI agents is fundamental to making this work well.
 >
@@ -2080,24 +2037,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), ai (6), [[Real-Time]] (2), [[Automation]] (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (5), [[Data Integration]] (4), [[Data Processing]] (2), [[Real-Time]] (2), [[Data Governance]] (2)
 > **Cross-References:** we covered (1), previous video (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Human-AI collaboration in the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/human-ai-collaboration-in-the-cloud?u=76281980)
+#### [Human-AI collaboration in the cloud](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/human-ai-collaboration-in-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/human-ai-collaboration-in-the-cloud?u=76281980&t=1)** - [Instructor] Human-AI collaboration in the cloud is facilitated by the deployment of AI agents on public cloud platforms, offering several transformative benefits.
+> **[0:01](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/human-ai-collaboration-in-the-cloud?u=76281980&t=1)** - [Instructor] Human-AI collaboration in the cloud is facilitated by the deployment of [[AI Agents]] on public cloud platforms, offering several transformative benefits.
 >
 > **[0:10](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/human-ai-collaboration-in-the-cloud?u=76281980&t=10)** Let's go through a short list.
 >
-> **[0:12](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/human-ai-collaboration-in-the-cloud?u=76281980&t=12)** Enhanced productivity, meaning that AI agents are able to automate routine tasks, such as data processing and analytics.
+> **[0:12](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/human-ai-collaboration-in-the-cloud?u=76281980&t=12)** Enhanced productivity, meaning that AI agents are able to automate routine tasks, such as [[Data Processing]] and analytics.
 >
-> **[0:19](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/human-ai-collaboration-in-the-cloud?u=76281980&t=19)** This allows for humans to focus on strategic, creative, and decision-making activities.
+> **[0:19](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/human-ai-collaboration-in-the-cloud?u=76281980&t=19)** This allows for humans to focus on strategic, creative, and [[Decision-Making]] activities.
 >
 > **[0:25](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/human-ai-collaboration-in-the-cloud?u=76281980&t=25)** That's what we humans do best.
 >
@@ -2109,7 +2065,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/human-ai-collaboration-in-the-cloud?u=76281980&t=40)** This provides consistent expertise across different locations across the globe.
 >
-> **[0:46](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/human-ai-collaboration-in-the-cloud?u=76281980&t=46)** This scalability means that all members of an organization can leverage AI capabilities on demand.
+> **[0:46](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/human-ai-collaboration-in-the-cloud?u=76281980&t=46)** This [[Scalability]] means that all members of an organization can leverage AI capabilities on demand.
 >
 > **[0:53](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/human-ai-collaboration-in-the-cloud?u=76281980&t=53)** This means gaining rapid insights regardless of their location.
 >
@@ -2123,11 +2079,11 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/human-ai-collaboration-in-the-cloud?u=76281980&t=81)** This allows us to find business value.
 >
-> **[1:24](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/human-ai-collaboration-in-the-cloud?u=76281980&t=84)** Now, let's read ethical considerations and responsible AI before moving to the next section.
+> **[1:24](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/human-ai-collaboration-in-the-cloud?u=76281980&t=84)** Now, let's read ethical considerations and [[Responsible AI]] before moving to the next section.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), cloud (2), data (2), [[Decision-Making]] (2), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (5), [[Decision-Making]] (2), [[Data Processing]] (1), [[Scalability]] (1), [[Responsible AI]] (1)
 > **Definitions:** means that (1), refers to (1)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)
@@ -2138,12 +2094,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Multi-agent systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/multi-agent-systems?u=76281980)
+#### [Multi-agent systems](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/multi-agent-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/multi-agent-systems?u=76281980&t=1)** - [Instructor] So what is the future of AI agents running on clouds?
+> **[0:01](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/multi-agent-systems?u=76281980&t=1)** - [Instructor] So what is the future of [[AI Agents]] running on clouds?
 >
 > **[0:04](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/multi-agent-systems?u=76281980&t=4)** Easy, it's multiagent bound.
 >
@@ -2153,7 +2108,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/multi-agent-systems?u=76281980&t=25)** Multiagent systems offer several key advantages in consideration.
 >
-> **[0:30](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/multi-agent-systems?u=76281980&t=30)** Scalability and resort management is a core advantage in that public cloud platforms enable the scalable deployment of multiagent systems, allowing for dynamic resource allocation.
+> **[0:30](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/multi-agent-systems?u=76281980&t=30)** [[Scalability]] and resort management is a core advantage in that public cloud platforms enable the scalable deployment of multiagent systems, allowing for dynamic resource allocation.
 >
 > **[0:41](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/multi-agent-systems?u=76281980&t=41)** This also provides efficient handling of large-scale distributed tasks.
 >
@@ -2161,7 +2116,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/multi-agent-systems?u=76281980&t=52)** They do this in a cloud environment, taking advantage of robust networking capabilities.
 >
-> **[0:58](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/multi-agent-systems?u=76281980&t=58)** This allows the collection of agents to achieve common goals through decentralized decision-making.
+> **[0:58](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/multi-agent-systems?u=76281980&t=58)** This allows the collection of agents to achieve common goals through decentralized [[Decision-Making]].
 >
 > **[1:04](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/multi-agent-systems?u=76281980&t=64)** Enhanced autonomy and adaptability refers to the cloud-supporting agentic AI by providing diverse tools and data services.
 >
@@ -2177,17 +2132,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), cloud (6), business (3), [[Scalability]] (1), management (1)
+> **Frameworks & Libraries:** [[AI Agents]] (4), [[Scalability]] (1), [[Decision-Making]] (1)
 > **Definitions:** in other words (1), is a  (1), refers to (1)
 > **Env Vars:** mas (1)
 > **Speakers:** - [instructor] (1)
 
-#### Agentic AI-driven cloud security
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-driven-cloud-security?u=76281980)
+#### [Agentic AI-driven cloud security](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-driven-cloud-security?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-driven-cloud-security?u=76281980&t=0)** - [Presenter] Let's take a look at the three most important aspects of AI-driven cloud security as they relate to the future of agentic AI on public cloud providers.
+> **[0:00](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-driven-cloud-security?u=76281980&t=0)** - [Presenter] Let's take a look at the three most important aspects of AI-driven [[Cloud Security]] as they relate to the future of agentic AI on public cloud providers.
 >
 > **[0:11](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-driven-cloud-security?u=76281980&t=11)** Enhanced threat detection and response.
 >
@@ -2197,11 +2151,11 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-driven-cloud-security?u=76281980&t=25)** So what is it good for?
 >
-> **[0:27](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-driven-cloud-security?u=76281980&t=27)** This capability allows AI agents to operate in a secure environment, responding swiftly to mitigate any identified security vulnerabilities.
+> **[0:27](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-driven-cloud-security?u=76281980&t=27)** This capability allows [[AI Agents]] to operate in a secure environment, responding swiftly to mitigate any identified security vulnerabilities.
 >
 > **[0:37](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-driven-cloud-security?u=76281980&t=37)** Adaptive security measures.
 >
-> **[0:39](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-driven-cloud-security?u=76281980&t=39)** Utilizing machine learning algorithms, AI systems can continually learn from new threats and adapt their security measures accordingly, just like humans learn as we gain experiences.
+> **[0:39](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-driven-cloud-security?u=76281980&t=39)** Utilizing machine learning [[Algorithms]], AI systems can continually learn from new threats and adapt their security measures accordingly, just like humans learn as we gain experiences.
 >
 > **[0:52](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-driven-cloud-security?u=76281980&t=52)** This adaptability ensures that agentic AI systems remain protected against evolving and sophisticated cyber attacks, providing dynamic defense mechanisms.
 >
@@ -2213,17 +2167,17 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-driven-cloud-security?u=76281980&t=79)** These AI driven security solutions ensure that agentic AI systems can focus on their primary operations without compromising security.
 >
-> **[1:29](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-driven-cloud-security?u=76281980&t=89)** To fully harness the benefits of agentic AI in cloud security, it's essential to integrate these intelligent systems directly into incident response workflows.
+> **[1:29](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-driven-cloud-security?u=76281980&t=89)** To fully harness the benefits of agentic AI in cloud security, it's essential to integrate these intelligent systems directly into [[Incident Response]] workflows.
 >
 > **[1:39](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-driven-cloud-security?u=76281980&t=99)** By embedding agentic AI agents within incident response strategies, organizations can achieve rapid detection, automated triage, and targeted containment of complex threats.
 >
-> **[1:51](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-driven-cloud-security?u=76281980&t=111)** While agentic AI brings automation and adaptability to security operations, strengthening collaboration between human analysts and AI agents unlocks even greater value.
+> **[1:51](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-driven-cloud-security?u=76281980&t=111)** While agentic AI brings automation and adaptability to [[Security Operations]], strengthening collaboration between human analysts and AI agents unlocks even greater value.
 >
 > **[2:03](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-driven-cloud-security?u=76281980&t=123)** Agentic AI excels at sifting through large datasets, flagging anomalies, and prioritizing threats for review, but human expertise remains critical for judgment calls and nuanced decision making.
 >
-> **[2:17](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-driven-cloud-security?u=76281980&t=137)** Cost management and resource optimization are key advantages of adopting agentic AI for cloud security.
+> **[2:17](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-driven-cloud-security?u=76281980&t=137)** [[Cost Management]] and resource optimization are key advantages of adopting agentic AI for cloud security.
 >
-> **[2:23](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-driven-cloud-security?u=76281980&t=143)** Intelligent agentic AI systems can dynamically scale monitoring efforts, decommission idle resources, and adjust security controls based on real-time risk assessment.
+> **[2:23](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-driven-cloud-security?u=76281980&t=143)** Intelligent agentic AI systems can dynamically scale monitoring efforts, decommission idle resources, and adjust security controls based on [[Real-Time]] risk assessment.
 >
 > **[2:35](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-driven-cloud-security?u=76281980&t=155)** Automation reduces human intervention, ensuring security procedures are consistently maintained efficiently.
 >
@@ -2233,16 +2187,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (17), [[Security]] (14), cloud (5), [[Automation]] (3), [[Incident Response]] (2)
+> **Frameworks & Libraries:** [[Cloud Security]] (3), [[AI Agents]] (3), [[Incident Response]] (2), [[Algorithms]] (1), [[Security Operations]] (1)
 > **Analogies:** just like (1), such as (1)
 > **Speakers:** - [presenter] (1)
 
-#### Scalable and resilient architectures
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/scalable-and-resilient-architectures?u=76281980)
+#### [Scalable and resilient architectures](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/scalable-and-resilient-architectures?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/scalable-and-resilient-architectures?u=76281980&t=1)** - [Instructor] The future of AI agents in the cloud relies heavily on scalable and resilient architectures.
+> **[0:01](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/scalable-and-resilient-architectures?u=76281980&t=1)** - [Instructor] The future of [[AI Agents]] in the cloud relies heavily on scalable and resilient architectures.
 >
 > **[0:07](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/scalable-and-resilient-architectures?u=76281980&t=7)** This also supports growing demands and complexity.
 >
@@ -2256,7 +2209,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/scalable-and-resilient-architectures?u=76281980&t=30)** Built-in failure and redundancy mechanisms are needed to ensure high availability and minimize downtime.
 >
-> **[0:37](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/scalable-and-resilient-architectures?u=76281980&t=37)** This allows the agents to maintain operational continuity even during hardware failures or attack.
+> **[0:37](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/scalable-and-resilient-architectures?u=76281980&t=37)** This allows the agents to maintain operational continuity even during [[Hardware]] failures or attack.
 >
 > **[0:44](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/scalable-and-resilient-architectures?u=76281980&t=44)** A modular approach allows independent development and easier integration.
 >
@@ -2272,22 +2225,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), cloud (4), data (1), [[Hardware]] (1), concurrent (1)
+> **Frameworks & Libraries:** [[AI Agents]] (5), [[Hardware]] (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Advanced data integration techniques
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/advanced-data-integration-techniques?u=76281980)
+#### [Advanced data integration techniques](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/advanced-data-integration-techniques?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/advanced-data-integration-techniques?u=76281980&t=1)** - [Instructor] So, with so much talk about data integration in this course, where is data integration going around the use of AI agents in the cloud?
+> **[0:01](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/advanced-data-integration-techniques?u=76281980&t=1)** - [Instructor] So, with so much talk about [[Data Integration]] in this course, where is data integration going around the use of [[AI Agents]] in the cloud?
 >
 > **[0:08](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/advanced-data-integration-techniques?u=76281980&t=8)** Advanced data integration techniques are essential for enhancing AI agents that run on public cloud platforms.
 >
 > **[0:15](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/advanced-data-integration-techniques?u=76281980&t=15)** Let's look at three of the major trends to consider.
 >
-> **[0:18](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/advanced-data-integration-techniques?u=76281980&t=18)** Streamlining data pipelines enable AI agents to analyze data as it's collected.
+> **[0:18](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/advanced-data-integration-techniques?u=76281980&t=18)** Streamlining [[Data Pipelines]] enable AI agents to analyze data as it's collected.
 >
 > **[0:24](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/advanced-data-integration-techniques?u=76281980&t=24)** This allows for immediate responses and decisions, which are crucial for applications requiring up-to-date information.
 >
@@ -2307,13 +2259,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), ai (8), cloud (2)
+> **Frameworks & Libraries:** [[Data Integration]] (5), [[AI Agents]] (5), [[Data Pipelines]] (1)
 > **Cross-References:** we covered (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Interoperability of agentic AI across cloud platforms
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/interoperability-of-agentic-ai-across-cloud-platforms?u=76281980)
+#### [Interoperability of agentic AI across cloud platforms](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/interoperability-of-agentic-ai-across-cloud-platforms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2323,7 +2274,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/interoperability-of-agentic-ai-across-cloud-platforms?u=76281980&t=12)** Universal APIs for seamless communication.
 >
-> **[0:16](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/interoperability-of-agentic-ai-across-cloud-platforms?u=76281980&t=16)** The development of universal APIs enables AI agents to communicate and interact across different cloud platforms.
+> **[0:16](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/interoperability-of-agentic-ai-across-cloud-platforms?u=76281980&t=16)** The development of universal APIs enables [[AI Agents]] to communicate and interact across different cloud platforms.
 >
 > **[0:22](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/interoperability-of-agentic-ai-across-cloud-platforms?u=76281980&t=22)** So what will this do?
 >
@@ -2343,17 +2294,17 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/interoperability-of-agentic-ai-across-cloud-platforms?u=76281980&t=68)** This enables AI agents to integrate and utilize services from multiple cloud environments.
 >
-> **[1:14](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/interoperability-of-agentic-ai-across-cloud-platforms?u=76281980&t=74)** This specific ability enhances the robustness and scalability of AI applications.
+> **[1:14](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/interoperability-of-agentic-ai-across-cloud-platforms?u=76281980&t=74)** This specific ability enhances the robustness and [[Scalability]] of AI applications.
 >
 > **[1:19](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/interoperability-of-agentic-ai-across-cloud-platforms?u=76281980&t=79)** This allows for more intensive and dynamic use of cloud resources.
 >
-> **[1:24](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/interoperability-of-agentic-ai-across-cloud-platforms?u=76281980&t=84)** As agentic AI systems communicate and collaborate across different cloud platforms, the potential for security risks and privacy breaches increases.
+> **[1:24](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/interoperability-of-agentic-ai-across-cloud-platforms?u=76281980&t=84)** As agentic AI systems communicate and collaborate across different cloud platforms, the potential for security risks and [[Privacy]] breaches increases.
 >
 > **[1:34](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/interoperability-of-agentic-ai-across-cloud-platforms?u=76281980&t=94)** Addressing security and privacy means designing interoperability frameworks where sensitive data is protected during transfer, strict authentication protocols are enforced for agent-to-agent communications, and compliance requirements are consistently met across all platforms.
 >
 > **[1:52](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/interoperability-of-agentic-ai-across-cloud-platforms?u=76281980&t=112)** Efficient interoperability isn't just about connecting agents, it's about maintaining high performance as agents interact and collaborate in real time.
 >
-> **[2:00](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/interoperability-of-agentic-ai-across-cloud-platforms?u=76281980&t=120)** Real-time performance monitoring solutions allow organizations to track communication latencies, resource consumption, and task completion times for agentic AI working across multiple cloud environments.
+> **[2:00](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/interoperability-of-agentic-ai-across-cloud-platforms?u=76281980&t=120)** [[Real-Time]] performance monitoring solutions allow organizations to track communication latencies, resource consumption, and task completion times for agentic AI working across multiple cloud environments.
 >
 > **[2:13](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/interoperability-of-agentic-ai-across-cloud-platforms?u=76281980&t=133)** In a multi-cloud, multi-agent landscape, the ongoing evolution of agents, APIs, and data standards must be managed systemically.
 >
@@ -2363,12 +2314,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), cloud (10), data (4), cross-platform (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[AI Agents]] (3), [[Privacy]] (2), [[Scalability]] (1), [[Real-Time]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Agentic AI in edge computing
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-in-edge-computing?u=76281980)
+#### [Agentic AI in edge computing](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-in-edge-computing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2378,9 +2328,9 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-in-edge-computing?u=76281980&t=12)** Let's look at a few of the most important concepts.
 >
-> **[0:15](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-in-edge-computing?u=76281980&t=15)** Real-time processing and decision-making.
+> **[0:15](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-in-edge-computing?u=76281980&t=15)** [[Real-Time]] processing and [[Decision-Making]].
 >
-> **[0:18](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-in-edge-computing?u=76281980&t=18)** AI agents deployed in edge computing environments can process data locally.
+> **[0:18](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-in-edge-computing?u=76281980&t=18)** [[AI Agents]] deployed in edge computing environments can process data locally.
 >
 > **[0:23](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-in-edge-computing?u=76281980&t=23)** Why is this desired?
 >
@@ -2390,17 +2340,17 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-in-edge-computing?u=76281980&t=33)** For instance, industrial automation, smart cities, and autonomous vehicles where low latency is critical.
 >
-> **[0:41](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-in-edge-computing?u=76281980&t=41)** Enhanced privacy and data security.
+> **[0:41](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-in-edge-computing?u=76281980&t=41)** Enhanced [[Privacy]] and [[Data Security]].
 >
 > **[0:43](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-in-edge-computing?u=76281980&t=43)** By processing data at or near the source, agentic AI can limit the amount of sensitive information transmitted to central servers.
 >
-> **[0:53](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-in-edge-computing?u=76281980&t=53)** This approach enhances privacy and data security considering that local data processing reduces the risk of data breaches.
+> **[0:53](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-in-edge-computing?u=76281980&t=53)** This approach enhances privacy and data security considering that local [[Data Processing]] reduces the risk of data breaches.
 >
 > **[1:01](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-in-edge-computing?u=76281980&t=61)** Also, this aids in compliance with regulations that require local data handling.
 >
 > **[1:07](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-in-edge-computing?u=76281980&t=67)** Increased resilience and autonomy.
 >
-> **[1:09](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-in-edge-computing?u=76281980&t=69)** Edge computing enables AI agents to operate independently decoupled from central cloud infrastructure.
+> **[1:09](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-in-edge-computing?u=76281980&t=69)** Edge computing enables AI agents to operate independently decoupled from central [[Cloud Infrastructure]].
 >
 > **[1:16](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/agentic-ai-in-edge-computing?u=76281980&t=76)** Why is this desirable?
 >
@@ -2432,7 +2382,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), data (7), [[Privacy]] (3), [[Decision-Making]] (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[AI Agents]] (3), [[Privacy]] (3), [[Decision-Making]] (2), [[Data Security]] (2), [[Cloud Infrastructure]] (2)
 > **Analogies:** for instance (1), such as (1)
 > **Env Vars:** ota (1)
 > **Cross-References:** in the next (1)
@@ -2443,54 +2393,52 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning more about AI agents
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/learning-more-about-ai-agents?u=76281980)
+#### [Learning more about AI agents](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/learning-more-about-ai-agents?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/learning-more-about-ai-agents?u=76281980&t=1)** - [Instructor] Basically, the next steps are to continue your learning journey and perhaps even give AI agents running on the clouds a try.
+> **[0:01](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/learning-more-about-ai-agents?u=76281980&t=1)** - [Instructor] Basically, the next steps are to continue your learning journey and perhaps even give [[AI Agents]] running on the clouds a try.
 >
-> **[0:09](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/learning-more-about-ai-agents?u=76281980&t=9)** You'll find that there are many courses on AI agents, cloud computing, and agentic AI here, by me and other authors.
+> **[0:09](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/learning-more-about-ai-agents?u=76281980&t=9)** You'll find that there are many courses on AI agents, [[Cloud Computing]], and agentic AI here, by me and other authors.
 >
 > **[0:16](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/learning-more-about-ai-agents?u=76281980&t=16)** I urge you to check those out.
 >
-> **[0:18](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/learning-more-about-ai-agents?u=76281980&t=18)** Students interested in experimenting with AI agents running in the cloud can take advantage of various resources and platforms from leading cloud service providers, including Microsoft, Amazon, and Google.
+> **[0:18](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/learning-more-about-ai-agents?u=76281980&t=18)** Students interested in experimenting with AI agents running in the cloud can take advantage of various resources and platforms from leading cloud service providers, including [[Microsoft]], Amazon, and [[Google]].
 >
 > **[0:30](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/learning-more-about-ai-agents?u=76281980&t=30)** Let's look at each.
 >
-> **[0:32](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/learning-more-about-ai-agents?u=76281980&t=32)** Microsoft offers Azure for students, which provides free access to a comprehensive suite of cloud services.
+> **[0:32](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/learning-more-about-ai-agents?u=76281980&t=32)** Microsoft offers [[Microsoft Azure|Azure]] for students, which provides free access to a comprehensive suite of [[Cloud Services]].
 >
 > **[0:39](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/learning-more-about-ai-agents?u=76281980&t=39)** Students can explore Azure OpenAI services, allowing them to develop and deploy AI models in the cloud.
 >
-> **[0:47](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/learning-more-about-ai-agents?u=76281980&t=47)** Amazon Web Services provides a range of workshops that enable participants to build generative AI applications, including AI agents using Amazon Bedrock and Generative AI CDK Constructs.
+> **[0:47](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/learning-more-about-ai-agents?u=76281980&t=47)** [[Amazon Web Services (AWS)|Amazon Web Services]] provides a range of workshops that enable participants to build [[Generative AI]] applications, including AI agents using Amazon Bedrock and Generative AI CDK Constructs.
 >
-> **[1:02](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/learning-more-about-ai-agents?u=76281980&t=62)** Google Cloud offers extensive training programs focusing on AI and machine learning.
+> **[1:02](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/learning-more-about-ai-agents?u=76281980&t=62)** [[Google Cloud Platform (GCP)|Google Cloud]] offers extensive training programs focusing on AI and machine learning.
 >
-> **[1:07](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/learning-more-about-ai-agents?u=76281980&t=67)** Students can engage in hands-on labs and learning paths related to deploying AI agents using tools like Vertex AI, TensorFlow, and cloud AI APIs, providing practical insights into cloud AI development.
+> **[1:07](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/learning-more-about-ai-agents?u=76281980&t=67)** Students can engage in hands-on labs and learning paths related to deploying AI agents using tools like [[Vertex]] AI, [[TensorFlow]], and cloud AI APIs, providing practical insights into cloud AI development.
 >
 > **[1:23](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/learning-more-about-ai-agents?u=76281980&t=83)** Next, let's look at where you can find more up-to-date information on the use of AI agents running on public cloud providers.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), cloud (8), next (2), [[Microsoft]] (2), [[Microsoft Azure|Azure]] (2)
+> **Frameworks & Libraries:** [[AI Agents]] (6), [[Microsoft]] (2), [[Microsoft Azure|Azure]] (2), [[Generative AI]] (2), [[Cloud Computing]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** cdk (1)
 > **Speakers:** - [instructor] (1)
 
-#### Where to get more information
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/where-to-get-more-information-26512181?u=76281980)
+#### [Where to get more information](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/where-to-get-more-information-26512181?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/where-to-get-more-information-26512181?u=76281980&t=1)** - [Instructor] To learn more about AI agents running in public clouds, particularly in the context of agentic AI, you can explore a variety of publications, podcasts, and other resources.
+> **[0:01](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/where-to-get-more-information-26512181?u=76281980&t=1)** - [Instructor] To learn more about [[AI Agents]] running in public clouds, particularly in the context of agentic AI, you can explore a variety of publications, podcasts, and other resources.
 >
 > **[0:12](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/where-to-get-more-information-26512181?u=76281980&t=12)** Let's look at a few of them.
 >
 > **[0:14](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/where-to-get-more-information-26512181?u=76281980&t=14)** "AI-Weekly", which is a newsletter and a web publication.
 >
-> **[0:18](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/where-to-get-more-information-26512181?u=76281980&t=18)** "AI-Weekly" is one of the most respected and widely read newsletters in the artificial intelligence field, hitting inboxes every Tuesday morning.
+> **[0:18](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/where-to-get-more-information-26512181?u=76281980&t=18)** "AI-Weekly" is one of the most respected and widely read [[Newsletters]] in the [[Artificial Intelligence (AI)|artificial intelligence]] field, hitting inboxes every Tuesday morning.
 >
-> **[0:27](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/where-to-get-more-information-26512181?u=76281980&t=27)** Topics routinely include agentic AI, large language models, multi-agent orchestration, and cloud-driven developments.
+> **[0:27](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/where-to-get-more-information-26512181?u=76281980&t=27)** Topics routinely include agentic AI, [[Large Language Models (LLM)|large language models]], multi-agent orchestration, and cloud-driven developments.
 >
 > **[0:35](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/where-to-get-more-information-26512181?u=76281980&t=35)** "AI for Humans" podcast and YouTube channel.
 >
@@ -2522,7 +2470,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (18), cloud (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), business (2), web (1)
+> **Frameworks & Libraries:** [[AI Agents]] (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Newsletters]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** we discussed (1)
 > **Definitions:** is a  (1)

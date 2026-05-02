@@ -81,8 +81,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Mitigate tampering threats
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/mitigate-tampering-threats?u=76281980)
+#### [Mitigate tampering threats](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/mitigate-tampering-threats?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -90,7 +89,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/mitigate-tampering-threats?u=76281980&t=11)** All of these attacks in the real world have equivalence in the world of cyber.
 >
-> **[0:18](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/mitigate-tampering-threats?u=76281980&t=18)** This course is part of a series on threat modeling and the STRIDE threats.
+> **[0:18](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/mitigate-tampering-threats?u=76281980&t=18)** This course is part of a series on [[Threat Modeling]] and the STRIDE threats.
 >
 > **[0:23](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/mitigate-tampering-threats?u=76281980&t=23)** I'm Adam Shostack.
 >
@@ -102,16 +101,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Threat Modeling]] (3), game (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Threat Modeling]] (3)
 > **Env Vars:** stride (1), cve (1)
 > **Speakers:** - [adam] (1)
 
-#### Four-question framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/four-question-framework?u=76281980)
+#### [Four-question framework](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/four-question-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/four-question-framework?u=76281980&t=1)** - [Instructor] At the heart of threat modeling are four incredibly simple questions.
+> **[0:01](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/four-question-framework?u=76281980&t=1)** - [Instructor] At the heart of [[Threat Modeling]] are four incredibly simple questions.
 >
 > **[0:06](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/four-question-framework?u=76281980&t=6)** What are we working on, what can go wrong, what are we going to do about it, and did we do a good job?
 >
@@ -131,16 +129,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Threat Modeling]] (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Threat Modeling]] (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tampering as part of STRIDE
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/tampering-as-part-of-stride-24473594?u=76281980)
+#### [Tampering as part of STRIDE](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/tampering-as-part-of-stride-24473594?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/tampering-as-part-of-stride-24473594?u=76281980&t=1)** - [Instructor] This course is part of a series on threat modeling and the STRIDE threats.
+> **[0:01](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/tampering-as-part-of-stride-24473594?u=76281980&t=1)** - [Instructor] This course is part of a series on [[Threat Modeling]] and the STRIDE threats.
 >
 > **[0:05](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/tampering-as-part-of-stride-24473594?u=76281980&t=5)** STRIDE is a mnemonic that stands for Spoofing, Tampering, Repudiation, Information disclosure, Denial of service, and Elevation of privilege.
 >
@@ -158,7 +155,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/tampering-as-part-of-stride-24473594?u=76281980&t=52)** Let's make that concrete and look at storage.
 >
-> **[0:55](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/tampering-as-part-of-stride-24473594?u=76281980&t=55)** When you save a file, you expect to get the same file back the next time you open it, unless it's on Google Docs or Office 365 and you've shared it with a bunch of collaborators, in which case you expect that they're going to tamper with those files.
+> **[0:55](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/tampering-as-part-of-stride-24473594?u=76281980&t=55)** When you save a file, you expect to get the same file back the next time you open it, unless it's on [[Google]] Docs or [[Microsoft Office|Office]] 365 and you've shared it with a bunch of collaborators, in which case you expect that they're going to tamper with those files.
 >
 > **[1:09](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/tampering-as-part-of-stride-24473594?u=76281980&t=69)** But they're not really tampering, are they?
 >
@@ -180,7 +177,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Threat Modeling]] (1), next (1), [[Google]] (1), [[Microsoft Office|Office]] (1), database (1)
+> **Frameworks & Libraries:** [[Threat Modeling]] (1), [[Google]] (1), [[Microsoft Office|Office]] (1)
 > **Definitions:** is a  (1), stands for (1), refers to (1)
 > **Env Vars:** stride (2)
 > **CLI Commands:** make (1)
@@ -191,8 +188,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Debuggers and input
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/debuggers-and-input?u=76281980)
+#### [Debuggers and input](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/debuggers-and-input?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -226,12 +222,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1)
 > **Env Vars:** uit (1)
 > **Speakers:** - [instructor] (1)
 
-#### Libraries
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/libraries?u=76281980)
+#### [Libraries](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/libraries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -257,11 +251,11 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/libraries?u=76281980&t=41)** If that happens to be Downloads, anyone who downloads a file there with the right extensions and permissions can have it load as a library.
 >
-> **[0:49](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/libraries?u=76281980&t=49)** This is still a fun attack on Windows.
+> **[0:49](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/libraries?u=76281980&t=49)** This is still a fun attack on [[Windows]].
 >
 > **[0:51](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/libraries?u=76281980&t=51)** Well, if you're attacking, it's fun.
 >
-> **[0:54](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/libraries?u=76281980&t=54)** There's also tampering with libraries loaded with a package manager like npm or apt.
+> **[0:54](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/libraries?u=76281980&t=54)** There's also tampering with libraries loaded with a package manager like [[npm]] or apt.
 >
 > **[0:59](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/libraries?u=76281980&t=59)** An attacker, like a systems administrator, can modify or tamper with those, breaking code accidentally or intentionally.
 >
@@ -279,14 +273,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), [[npm]] (2), [[Windows]] (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[npm]] (2), [[Windows]] (1)
 > **CLI Commands:** npm (2), apt (1), make (1)
 > **Env Vars:** http (1), htps (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Mobile
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/mobile?u=76281980)
+#### [Mobile](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/mobile?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -296,11 +289,11 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/mobile?u=76281980&t=9)** The design is that processes cannot tamper with each other.
 >
-> **[0:14](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/mobile?u=76281980&t=14)** Android apps run as different UIDs.
+> **[0:14](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/mobile?u=76281980&t=14)** [[Android]] apps run as different UIDs.
 >
 > **[0:17](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/mobile?u=76281980&t=17)** The birds can't peck at the zombies and the zombies can't eat the plants under the birds.
 >
-> **[0:23](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/mobile?u=76281980&t=23)** More importantly, they can't change your high score, give you extra coins, or change the rest end point where your credit card gets sent and neither can anything else.
+> **[0:23](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/mobile?u=76281980&t=23)** More importantly, they can't change your high score, give you extra coins, or change the [[Representational State Transfer (REST)|rest]] end point where your credit card gets sent and neither can anything else.
 >
 > **[0:36](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/mobile?u=76281980&t=36)** Apple apps are sand boxed so that libraries can only be loaded if they come from either the same creator or the operating system.
 >
@@ -322,7 +315,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (2), [[Android]] (1), [[Representational State Transfer (REST)|Rest]] (1), application (1)
+> **Frameworks & Libraries:** [[Android]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -331,8 +324,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tampering with local storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/tampering-with-local-storage?u=76281980)
+#### [Tampering with local storage](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/tampering-with-local-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -346,7 +338,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/tampering-with-local-storage?u=76281980&t=13)** Containers can be tampered with.
 >
-> **[0:15](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/tampering-with-local-storage?u=76281980&t=15)** Kubernetes can't be tampered with because Kubernetes is magic.
+> **[0:15](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/tampering-with-local-storage?u=76281980&t=15)** [[Kubernetes]] can't be tampered with because Kubernetes is magic.
 >
 > **[0:19](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/tampering-with-local-storage?u=76281980&t=19)** Actually, it's not that magical.
 >
@@ -364,11 +356,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (2), data (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (2)
 > **Speakers:** - [narrator] (1)
 
-#### Permissions
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/permissions?u=76281980)
+#### [Permissions](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/permissions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -390,7 +381,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/permissions?u=76281980&t=53)** I might give an app access to my documents to help me look for readability concerns or places where I'm not focused on the right targets for today's two minutes hate.
 >
-> **[1:04](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/permissions?u=76281980&t=64)** Attackers can tamper with files, file systems, even databases.
+> **[1:04](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/permissions?u=76281980&t=64)** Attackers can tamper with files, file systems, even [[Databases]].
 >
 > **[1:09](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/permissions?u=76281980&t=69)** Even when we call those file systems S3 Buckets or Dropbox, they're still subject to tampering.
 >
@@ -400,7 +391,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/permissions?u=76281980&t=103)** Tampering applies to S3 and Dropbox and more.
 >
-> **[1:46](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/permissions?u=76281980&t=106)** It applies to Cloud databases like SQL Azure.
+> **[1:46](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/permissions?u=76281980&t=106)** It applies to Cloud databases like [[SQL]] [[Microsoft Azure|Azure]].
 >
 > **[1:49](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/permissions?u=76281980&t=109)** It includes the machine stores, container stores and configuration databases that power them.
 >
@@ -418,15 +409,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), [[Databases]] (3), [[SQL]] (1), [[Microsoft Azure|Azure]] (1), power (1)
+> **Frameworks & Libraries:** [[Databases]] (3), [[SQL]] (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** usb (1), bbc (1), sql (1)
 > **CLI Commands:** make (1)
 > **Warnings:** warning (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Effects of tampering
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/effects-of-tampering?u=76281980)
+#### [Effects of tampering](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/effects-of-tampering?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -444,7 +434,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5)
 > **Env Vars:** usb (1)
 > **Speakers:** - [narrator] (1)
 
@@ -453,8 +442,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Whose screw? Physical tampering matters
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/whose-screw-physical-tampering-matters?u=76281980)
+#### [Whose screw? Physical tampering matters](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/whose-screw-physical-tampering-matters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -468,7 +456,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/whose-screw-physical-tampering-matters?u=76281980&t=35)** Other computers, like security cameras, have various levels of tamper resistance balanced carefully with cost to manufacture or ship and so the tamper resistance is often limited to an oddly shaped screwhead.
 >
-> **[0:51](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/whose-screw-physical-tampering-matters?u=76281980&t=51)** Other computers or things of the Internet of things are in our houses.
+> **[0:51](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/whose-screw-physical-tampering-matters?u=76281980&t=51)** Other computers or things of the [[IoT|Internet of things]] are in our houses.
 >
 > **[0:56](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/whose-screw-physical-tampering-matters?u=76281980&t=56)** There we assume that our walls somehow block the wireless signals to prevent tampering and other network attacks.
 >
@@ -476,18 +464,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), data (1), [[Internet of Things (IoT)|Internet of things]] (1)
+> **Frameworks & Libraries:** [[IoT|Internet of things]] (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** iphone (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Debug interfaces are exposed
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/debug-interfaces-are-exposed?u=76281980)
+#### [Debug interfaces are exposed](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/debug-interfaces-are-exposed?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/debug-interfaces-are-exposed?u=76281980&t=1)** - [Instructor] We have to consider what happens when someone tampers with hardware.
+> **[0:01](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/debug-interfaces-are-exposed?u=76281980&t=1)** - [Instructor] We have to consider what happens when someone tampers with [[Hardware]].
 >
 > **[0:05](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/debug-interfaces-are-exposed?u=76281980&t=5)** Is physical access game over?
 >
@@ -527,7 +514,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (2), game (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** jtag (2)
 > **Definitions:** is an  (1)
@@ -539,8 +526,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Time is increasingly important
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/time-is-increasingly-important?u=76281980)
+#### [Time is increasingly important](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/time-is-increasingly-important?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -574,7 +560,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/time-is-increasingly-important?u=76281980&t=69)** Because keeping clock in sync with each other is tricky.
 >
-> **[1:13](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/time-is-increasingly-important?u=76281980&t=73)** Especially when devices are low power or when their clocks are virtual machines that might be suspended.
+> **[1:13](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/time-is-increasingly-important?u=76281980&t=73)** Especially when devices are low power or when their clocks are [[Virtual Machines]] that might be suspended.
 >
 > **[1:20](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/time-is-increasingly-important?u=76281980&t=80)** Another tool to keep clock in sync is GPS.
 >
@@ -588,7 +574,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (1), power (1), [[Virtual Machines]] (1)
+> **Frameworks & Libraries:** [[Virtual Machines]] (1)
 > **Env Vars:** gps (2)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -598,8 +584,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Controls and authentication
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/controls-and-authentication?u=76281980)
+#### [Controls and authentication](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/controls-and-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -611,7 +596,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/controls-and-authentication?u=76281980&t=19)** That way you don't see they're telling people you're trapped in a hotel in London and the manager has your passport.
 >
-> **[0:25](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/controls-and-authentication?u=76281980&t=25)** Google will put a red warning at the top of your email when new forwarding rules are added.
+> **[0:25](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/controls-and-authentication?u=76281980&t=25)** [[Google]] will put a red warning at the top of your email when new forwarding rules are added.
 >
 > **[0:31](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/controls-and-authentication?u=76281980&t=31)** It can't be dismissed for a week.
 >
@@ -635,14 +620,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (1), [[Google]] (1), data (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [narrator] (1)
 
-#### Becoming Jane Admin
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/becoming-jane-admin?u=76281980)
+#### [Becoming Jane Admin](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/becoming-jane-admin?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -654,11 +638,11 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/becoming-jane-admin?u=76281980&t=18)** It's authorized.
 >
-> **[0:20](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/becoming-jane-admin?u=76281980&t=20)** They're using the service as designed just like someone modifying a file in Office 365 is authorized, only not quite.
+> **[0:20](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/becoming-jane-admin?u=76281980&t=20)** They're using the service as designed just like someone modifying a file in [[Microsoft Office|Office]] 365 is authorized, only not quite.
 >
 > **[0:28](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/becoming-jane-admin?u=76281980&t=28)** There's a disconnect between the technical authorization and the human level authorization.
 >
-> **[0:34](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/becoming-jane-admin?u=76281980&t=34)** An important function of threat modeling is to make sure those align.
+> **[0:34](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/becoming-jane-admin?u=76281980&t=34)** An important function of [[Threat Modeling]] is to make sure those align.
 >
 > **[0:39](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/becoming-jane-admin?u=76281980&t=39)** When an attacker tampers with the authentication controls, the attacks seem to blend into spoofing.
 >
@@ -692,7 +676,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (2), [[Microsoft Office|Office]] (1), [[Threat Modeling]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Threat Modeling]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
@@ -703,8 +687,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Channels and messages
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/channels-and-messages?u=76281980)
+#### [Channels and messages](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/channels-and-messages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -768,14 +751,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Security]] (1)
 > **Env Vars:** pgp (4), dkim (4), mime (3), tls (2), smtp (1)
 > **Analogies:** picture (1), for example (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Replay and reflection
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/replay-and-reflection?u=76281980)
+#### [Replay and reflection](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/replay-and-reflection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -817,11 +798,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Speakers:** - [instructor] (1)
 
-#### Headers: Injection and order
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/headers-injection-and-order?u=76281980)
+#### [Headers: Injection and order](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/headers-injection-and-order?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -859,7 +838,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -869,12 +847,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prevention and detection goals
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/prevention-and-detection-goals?u=76281980)
+#### [Prevention and detection goals](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/prevention-and-detection-goals?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/prevention-and-detection-goals?u=76281980&t=1)** - [Instructor] In the digital world, bits are easy to modify, permissions will prevent someone from writing a file, but despite what I've been saying, Cryptography doesn't do that.
+> **[0:01](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/prevention-and-detection-goals?u=76281980&t=1)** - [Instructor] In the digital world, bits are easy to modify, permissions will prevent someone from writing a file, but despite what I've been saying, [[Cryptography]] doesn't do that.
 >
 > **[0:11](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/prevention-and-detection-goals?u=76281980&t=11)** What it does is a little subtler.
 >
@@ -928,18 +905,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cryptography]] (2), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[Cryptography]] (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Crypto
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/crypto?u=76281980)
+#### [Crypto](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/crypto?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/crypto?u=76281980&t=1)** - [Instructor] The strongest defenses for integrity rely on well-implemented cryptography, despite the limitations we've discussed.
+> **[0:01](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/crypto?u=76281980&t=1)** - [Instructor] The strongest defenses for integrity rely on well-implemented [[Cryptography]], despite the limitations we've discussed.
 >
 > **[0:09](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/crypto?u=76281980&t=9)** A cryptographic signature is hard to forge and the integrity of the signature spans systems.
 >
@@ -955,7 +931,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/crypto?u=76281980&t=63)** Both message authentication codes and authenticated encryption give you great integrity over a network but they can't authoritatively say who created or signed a packet or a file.
 >
-> **[1:16](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/crypto?u=76281980&t=76)** LinkedIn Learning has other courses that go deep into the algorithms, how they work and how to select an implementation that will work for you.
+> **[1:16](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/crypto?u=76281980&t=76)** [[LinkedIn]] Learning has other courses that go deep into the [[Algorithms]], how they work and how to select an implementation that will work for you.
 >
 > **[1:25](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/crypto?u=76281980&t=85)** Another strategy is to use software that provides file integrity monitoring.
 >
@@ -963,13 +939,13 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/crypto?u=76281980&t=97)** Now and then, it will take another hash of the file and tell you if the file's changed.
 >
-> **[1:42](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/crypto?u=76281980&t=102)** Sometimes that change is caused by an expected update and commercial file monitoring software will include a subscription to a stream of updates like Windows now includes this file on this date with these hashes.
+> **[1:42](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/crypto?u=76281980&t=102)** Sometimes that change is caused by an expected update and commercial file monitoring software will include a subscription to a stream of updates like [[Windows]] now includes this file on this date with these hashes.
 >
 > **[1:56](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/crypto?u=76281980&t=116)** Downsides include thrashing disk as each file is read into memory and run through the hash and so-called false positives.
 >
 > **[2:05](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/crypto?u=76281980&t=125)** There are also a few attacks to be aware of with cryptographic defenses.
 >
-> **[2:10](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/crypto?u=76281980&t=130)** First, they all fail when someone steals or replaces your key and so you need to protect it and especially not commit it to GitHub.
+> **[2:10](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/crypto?u=76281980&t=130)** First, they all fail when someone steals or replaces your key and so you need to protect it and especially not commit it to [[GitHub]].
 >
 > **[2:19](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/crypto?u=76281980&t=139)** Second, an attacker who can tamper with the software that verifies the messages can cause integrity failures to look like successes or successes to look like failures.
 >
@@ -991,12 +967,11 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Something more privileged
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/something-more-privileged-24470632?u=76281980)
+#### [Something more privileged](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/something-more-privileged-24470632?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/something-more-privileged-24470632?u=76281980&t=1)** - [Narrator] If cryptography doesn't meet your needs, you'll rely on something more privileged than your code to provide integrity.
+> **[0:01](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/something-more-privileged-24470632?u=76281980&t=1)** - [Narrator] If [[Cryptography]] doesn't meet your needs, you'll rely on something more privileged than your code to provide integrity.
 >
 > **[0:09](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/something-more-privileged-24470632?u=76281980&t=9)** That might be an operating system which has a permissions framework.
 >
@@ -1006,7 +981,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/something-more-privileged-24470632?u=76281980&t=20)** It might be a cloud operating system that allows you to construct and run immutable systems.
 >
-> **[0:26](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/something-more-privileged-24470632?u=76281980&t=26)** It might even be hardware that provides support for write protection.
+> **[0:26](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/something-more-privileged-24470632?u=76281980&t=26)** It might even be [[Hardware]] that provides support for write protection.
 >
 > **[0:31](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/something-more-privileged-24470632?u=76281980&t=31)** If you need to create a new permission system, you want to involve experts because it's tricky to get right.
 >
@@ -1028,7 +1003,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (2), [[Cryptography]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Cryptography]] (1), [[Hardware]] (1)
 > **Speakers:** - [narrator] (1)
 
 
@@ -1036,8 +1011,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Secure by design: Bring integrity to your systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/secure-by-design-bring-integrity-to-your-systems?u=76281980)
+#### [Secure by design: Bring integrity to your systems](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/secure-by-design-bring-integrity-to-your-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1049,7 +1023,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/secure-by-design-bring-integrity-to-your-systems?u=76281980&t=14)** Make it real so you can speak to tampering as you analyze new systems.
 >
-> **[0:20](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/secure-by-design-bring-integrity-to-your-systems?u=76281980&t=20)** This course is a great introduction to understanding tampering threats, so you can apply them to threat modeling and other security work.
+> **[0:20](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/secure-by-design-bring-integrity-to-your-systems?u=76281980&t=20)** This course is a great introduction to understanding tampering threats, so you can apply them to [[Threat Modeling]] and other security work.
 >
 > **[0:30](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/secure-by-design-bring-integrity-to-your-systems?u=76281980&t=30)** For a more comprehensive view, check out my books, "Threat Modeling: Designing for Security" and "Threats: What Every Engineer Should Learn from Star Wars."
 >
@@ -1059,7 +1033,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Threat Modeling]] (3), [[Security]] (2), teams (1), next (1)
+> **Frameworks & Libraries:** [[Threat Modeling]] (3)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [adam] (1)

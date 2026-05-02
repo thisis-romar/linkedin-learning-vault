@@ -108,16 +108,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting started with SQL for application developers
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/getting-started-with-sql-for-application-developers-23751431?u=76281980)
+#### [Getting started with SQL for application developers](https://www.linkedin.com/learning/advanced-sql-for-application-development/getting-started-with-sql-for-application-developers-23751431?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-application-development/getting-started-with-sql-for-application-developers-23751431?u=76281980&t=0)** - [Narrator] While developers have many tools available to help with application development, ranging from integrated development environments to AI-based code generators, it's important to understand fundamental design principles and patterns.
+> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-application-development/getting-started-with-sql-for-application-developers-23751431?u=76281980&t=0)** - [Narrator] While developers have many tools available to help with [[Application Development]], ranging from integrated development environments to AI-based code generators, it's important to understand fundamental design principles and patterns.
 >
 > **[0:13](https://www.linkedin.com/learning/advanced-sql-for-application-development/getting-started-with-sql-for-application-developers-23751431?u=76281980&t=13)** Hello, my name is Dan Sullivan.
 >
-> **[0:15](https://www.linkedin.com/learning/advanced-sql-for-application-development/getting-started-with-sql-for-application-developers-23751431?u=76281980&t=15)** Welcome to Advanced SQL for Application Development, where you'll learn how to design, implement, and maintain efficient and scalable database applications.
+> **[0:15](https://www.linkedin.com/learning/advanced-sql-for-application-development/getting-started-with-sql-for-application-developers-23751431?u=76281980&t=15)** Welcome to Advanced [[SQL]] for Application Development, where you'll learn how to design, implement, and maintain efficient and scalable [[Database Applications]].
 >
 > **[0:25](https://www.linkedin.com/learning/advanced-sql-for-application-development/getting-started-with-sql-for-application-developers-23751431?u=76281980&t=25)** In this course, we'll review key design concepts, see how to implement them, and then use hands-on challenge exercises to reinforce our learning.
 >
@@ -127,12 +126,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Application Development]] (2), [[Database Applications]] (2), ai (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Application Development]] (2), [[Database Applications]] (2), [[SQL]] (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [narrator] (1)
 
-#### Tour of CoderPad
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/tour-of-coderpad?u=76281980)
+#### [Tour of CoderPad](https://www.linkedin.com/learning/advanced-sql-for-application-development/tour-of-coderpad?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -142,7 +140,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-sql-for-application-development/tour-of-coderpad?u=76281980&t=14)** These challenges are hosted by CoderPad and they appear in the same area of the course page where you watch the course videos.
 >
-> **[0:21](https://www.linkedin.com/learning/advanced-sql-for-application-development/tour-of-coderpad?u=76281980&t=21)** We recommend using a desktop browser for the best experience with code challenges, but you can use the LinkedIn Learning mobile app if you prefer.
+> **[0:21](https://www.linkedin.com/learning/advanced-sql-for-application-development/tour-of-coderpad?u=76281980&t=21)** We recommend using a desktop browser for the best experience with code challenges, but you can use the [[LinkedIn]] Learning mobile app if you prefer.
 >
 > **[0:30](https://www.linkedin.com/learning/advanced-sql-for-application-development/tour-of-coderpad?u=76281980&t=30)** The code challenge has three areas.
 >
@@ -168,7 +166,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Analogies:** for example (2), such as (1)
 > **SQL:** select (1)
 > **Env Vars:** select (1)
@@ -180,8 +178,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Designing an ecommerce application database
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/designing-an-ecommerce-application-database?u=76281980)
+#### [Designing an ecommerce application database](https://www.linkedin.com/learning/advanced-sql-for-application-development/designing-an-ecommerce-application-database?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -195,11 +192,11 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/advanced-sql-for-application-development/designing-an-ecommerce-application-database?u=76281980&t=23)** We need to understand how that data's going to be used.
 >
-> **[0:26](https://www.linkedin.com/learning/advanced-sql-for-application-development/designing-an-ecommerce-application-database?u=76281980&t=26)** For example, will we be looking up specific records or will we be looking up a number of records of costs, of range, of time, maybe across different types of products, and then doing some kind of aggregate calculation, like averaging a sales price.
+> **[0:26](https://www.linkedin.com/learning/advanced-sql-for-application-development/designing-an-ecommerce-application-database?u=76281980&t=26)** For example, will we be looking up specific records or will we be looking up a number of records of costs, of range, of time, maybe across different types of [[Microsoft Products|products]], and then doing some kind of aggregate calculation, like averaging a sales price.
 >
 > **[0:39](https://www.linkedin.com/learning/advanced-sql-for-application-development/designing-an-ecommerce-application-database?u=76281980&t=39)** We also need to know how much data will be stored and how fast it will grow.
 >
-> **[0:44](https://www.linkedin.com/learning/advanced-sql-for-application-development/designing-an-ecommerce-application-database?u=76281980&t=44)** Now, often times transactional databases, like the kind we're designing here, are used to support an interactive application, for example, with end users making purchases, but the data that is stored in that database, is useful for other things, especially business intelligence or analytics kind of operations.
+> **[0:44](https://www.linkedin.com/learning/advanced-sql-for-application-development/designing-an-ecommerce-application-database?u=76281980&t=44)** Now, often times transactional [[Databases]], like the kind we're designing here, are used to support an interactive application, for example, with end users making purchases, but the data that is stored in that database, is useful for other things, especially [[Business Intelligence (BI)|business intelligence]] or analytics kind of operations.
 >
 > **[1:04](https://www.linkedin.com/learning/advanced-sql-for-application-development/designing-an-ecommerce-application-database?u=76281980&t=64)** In that case, the data's often exported and stored in a data warehouse or a data mart.
 >
@@ -213,7 +210,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/advanced-sql-for-application-development/designing-an-ecommerce-application-database?u=76281980&t=89)** We're going to be collecting a lot of data and so we want to make sure we understand who needs access to that and who could be a particular employee in your company or it could be a customer looking up their own data or it could be another application or service acting on someone's behalf.
 >
-> **[1:46](https://www.linkedin.com/learning/advanced-sql-for-application-development/designing-an-ecommerce-application-database?u=76281980&t=106)** So access controls around data is another important topic you want to keep in mind when you design relational databases.
+> **[1:46](https://www.linkedin.com/learning/advanced-sql-for-application-development/designing-an-ecommerce-application-database?u=76281980&t=106)** So access controls around data is another important topic you want to keep in mind when you design [[Relational Databases]].
 >
 > **[1:53](https://www.linkedin.com/learning/advanced-sql-for-application-development/designing-an-ecommerce-application-database?u=76281980&t=113)** Now for our purposes, we're going to work with a very simple data model.
 >
@@ -241,9 +238,9 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/advanced-sql-for-application-development/designing-an-ecommerce-application-database?u=76281980&t=189)** Let's jump over to another tool called pgAdmin and take a look at a physical model.
 >
-> **[3:16](https://www.linkedin.com/learning/advanced-sql-for-application-development/designing-an-ecommerce-application-database?u=76281980&t=196)** Now what we have here again is pgAdmin and this is a graphical user interface for the Postgres database.
+> **[3:16](https://www.linkedin.com/learning/advanced-sql-for-application-development/designing-an-ecommerce-application-database?u=76281980&t=196)** Now what we have here again is pgAdmin and this is a graphical user interface for the [[PostgreSQL|Postgres]] database.
 >
-> **[3:23](https://www.linkedin.com/learning/advanced-sql-for-application-development/designing-an-ecommerce-application-database?u=76281980&t=203)** We'll be using Postgres in this course, but you could also use any other relational database like mySQL, Microsoft SQL server, Mariadb, Oracle, and the basic principles all apply, there may be some slight difference in SQL syntax, but for the most part, anything you see here readily translates into those other relational databases.
+> **[3:23](https://www.linkedin.com/learning/advanced-sql-for-application-development/designing-an-ecommerce-application-database?u=76281980&t=203)** We'll be using Postgres in this course, but you could also use any other relational database like [[MySQL]], [[Microsoft SQL Server]], Mariadb, Oracle, and the basic principles all apply, there may be some slight difference in [[SQL]] syntax, but for the most part, anything you see here readily translates into those other relational databases.
 >
 > **[3:45](https://www.linkedin.com/learning/advanced-sql-for-application-development/designing-an-ecommerce-application-database?u=76281980&t=225)** Now, as you'll see here, over on the left, we have a navigation hierarchy and what I have here is an eCommerce database, which I have created already and you'll notice within a database there are a number of things the database needs to keep track of.
 >
@@ -277,7 +274,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), product (15), database (11), [[Microsoft Products|Products]] (6), application (4)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), [[Relational Databases]] (2), [[PostgreSQL|Postgres]] (2), [[Databases]] (1), [[Business Intelligence (BI)|Business intelligence]] (1)
 > **Definitions:** is a  (4), is called (1), is an  (1)
 > **Code Identifiers:** pgadmin (3), mysql (1), ecommerce (1)
 > **CLI Commands:** make (3), mysql (1)
@@ -286,18 +283,17 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
 
-#### Creating tables and loading data
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/creating-tables-and-loading-data?u=76281980)
+#### [Creating tables and loading data](https://www.linkedin.com/learning/advanced-sql-for-application-development/creating-tables-and-loading-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-application-development/creating-tables-and-loading-data?u=76281980&t=0)** - [Narrator] Now since this is an advanced SQL course I'm making some assumptions about your skill level with SQL.
+> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-application-development/creating-tables-and-loading-data?u=76281980&t=0)** - [Narrator] Now since this is an advanced [[SQL]] course I'm making some assumptions about your skill level with SQL.
 >
-> **[0:06](https://www.linkedin.com/learning/advanced-sql-for-application-development/creating-tables-and-loading-data?u=76281980&t=6)** I assume that you are familiar with the difference between data definition language statements such as Create Table and data manipulation languages such as Update and Select.
+> **[0:06](https://www.linkedin.com/learning/advanced-sql-for-application-development/creating-tables-and-loading-data?u=76281980&t=6)** I assume that you are familiar with the difference between data definition language statements such as Create Table and [[Data Manipulation]] languages such as Update and Select.
 >
-> **[0:17](https://www.linkedin.com/learning/advanced-sql-for-application-development/creating-tables-and-loading-data?u=76281980&t=17)** I also assume you are familiar enough with data bases that you can install for example, Postgres, as I have done here.
+> **[0:17](https://www.linkedin.com/learning/advanced-sql-for-application-development/creating-tables-and-loading-data?u=76281980&t=17)** I also assume you are familiar enough with data bases that you can install for example, [[PostgreSQL|Postgres]], as I have done here.
 >
-> **[0:23](https://www.linkedin.com/learning/advanced-sql-for-application-development/creating-tables-and-loading-data?u=76281980&t=23)** I will include files in the exercise folder which will include information on different data bases and links to downloading for example, Postgres and MySQL.
+> **[0:23](https://www.linkedin.com/learning/advanced-sql-for-application-development/creating-tables-and-loading-data?u=76281980&t=23)** I will include files in the exercise folder which will include information on different data bases and links to downloading for example, Postgres and [[MySQL]].
 >
 > **[0:34](https://www.linkedin.com/learning/advanced-sql-for-application-development/creating-tables-and-loading-data?u=76281980&t=34)** Now what I'd like to do in this video is to start with essentially a fresh data base.
 >
@@ -353,7 +349,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/advanced-sql-for-application-development/creating-tables-and-loading-data?u=76281980&t=172)** Paste them here.
 >
-> **[2:53](https://www.linkedin.com/learning/advanced-sql-for-application-development/creating-tables-and-loading-data?u=76281980&t=173)** And the structure of the copy command is such that the term copy is followed by a name of the table and the key word "from" and then the location of a file.
+> **[2:53](https://www.linkedin.com/learning/advanced-sql-for-application-development/creating-tables-and-loading-data?u=76281980&t=173)** And the structure of the copy command is such that the term copy is followed by a name of the table and the key [[Microsoft Word|word]] "from" and then the location of a file.
 >
 > **[3:03](https://www.linkedin.com/learning/advanced-sql-for-application-development/creating-tables-and-loading-data?u=76281980&t=183)** In this case I have four different files.
 >
@@ -379,13 +375,13 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/advanced-sql-for-application-development/creating-tables-and-loading-data?u=76281980&t=227)** But those are the steps that are required to upload data into a Postgres data base.
 >
-> **[3:53](https://www.linkedin.com/learning/advanced-sql-for-application-development/creating-tables-and-loading-data?u=76281980&t=233)** Now again if you're using a different data base like MySQL or SQL Server the steps will be slightly different but the concept is basically the same.
+> **[3:53](https://www.linkedin.com/learning/advanced-sql-for-application-development/creating-tables-and-loading-data?u=76281980&t=233)** Now again if you're using a different data base like MySQL or [[Microsoft SQL Server|SQL Server]] the steps will be slightly different but the concept is basically the same.
 >
 > **[4:01](https://www.linkedin.com/learning/advanced-sql-for-application-development/creating-tables-and-loading-data?u=76281980&t=241)** You would create the tables using a set of data definition commands and then you would load the table with data using your data base's particular data loading program.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[PostgreSQL|Postgres]] (4), [[SQL]] (3), [[MySQL]] (2), [[Data Manipulation]] (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (4), [[SQL]] (3), [[MySQL]] (2), [[Data Manipulation]] (1), [[Microsoft Word|Word]] (1)
 > **Analogies:** such as (3), for example (3)
 > **Env Vars:** sql (4), csv (1)
 > **CLI Commands:** mysql (2)
@@ -394,8 +390,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll up (1)
 > **Prerequisites:** install (1)
 
-#### Using environment variables for connection parameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/using-environment-variables-for-connection-parameters?u=76281980)
+#### [Using environment variables for connection parameters](https://www.linkedin.com/learning/advanced-sql-for-application-development/using-environment-variables-for-connection-parameters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -405,13 +400,13 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/advanced-sql-for-application-development/using-environment-variables-for-connection-parameters?u=76281980&t=17)** Jupyter notebooks is an interactive programming environment and the reason I'm using it is because it is very easy to see programs developed iteratively and incrementally.
 >
-> **[0:27](https://www.linkedin.com/learning/advanced-sql-for-application-development/using-environment-variables-for-connection-parameters?u=76281980&t=27)** And so we're going to be working in Python although again, just as what I say applies to different relational databases, not just Postgres, the things that I'm pointing out and showing in Python apply to other languages as well.
+> **[0:27](https://www.linkedin.com/learning/advanced-sql-for-application-development/using-environment-variables-for-connection-parameters?u=76281980&t=27)** And so we're going to be working in [[Python (Programming Language)|Python]] although again, just as what I say applies to different [[Relational Databases]], not just [[PostgreSQL|Postgres]], the things that I'm pointing out and showing in Python apply to other languages as well.
 >
 > **[0:41](https://www.linkedin.com/learning/advanced-sql-for-application-development/using-environment-variables-for-connection-parameters?u=76281980&t=41)** So first thing I'm going to do is show how to work with environment variables, to store connection information.
 >
 > **[0:49](https://www.linkedin.com/learning/advanced-sql-for-application-development/using-environment-variables-for-connection-parameters?u=76281980&t=49)** And so I'm going to work with Python 3.
 >
-> **[0:52](https://www.linkedin.com/learning/advanced-sql-for-application-development/using-environment-variables-for-connection-parameters?u=76281980&t=52)** And again, because this is an advanced SQL course, I assume you will be able to install Jupyter without a problem on your own.
+> **[0:52](https://www.linkedin.com/learning/advanced-sql-for-application-development/using-environment-variables-for-connection-parameters?u=76281980&t=52)** And again, because this is an advanced [[SQL]] course, I assume you will be able to install Jupyter without a problem on your own.
 >
 > **[0:59](https://www.linkedin.com/learning/advanced-sql-for-application-development/using-environment-variables-for-connection-parameters?u=76281980&t=59)** And I will place links to information about installing Jupyter in the exercise folder.
 >
@@ -427,13 +422,13 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/advanced-sql-for-application-development/using-environment-variables-for-connection-parameters?u=76281980&t=113)** Now, what I want to do is rather than hard code in my username and password for the database into my application code, I want to use environment variables.
 >
-> **[2:03](https://www.linkedin.com/learning/advanced-sql-for-application-development/using-environment-variables-for-connection-parameters?u=76281980&t=123)** Now, if you're familiar with Linux and bash shell scripts and things like that, oftentimes we set our environment variables in shell scripts that are run on login.
+> **[2:03](https://www.linkedin.com/learning/advanced-sql-for-application-development/using-environment-variables-for-connection-parameters?u=76281980&t=123)** Now, if you're familiar with [[Linux]] and bash shell scripts and things like that, oftentimes we set our environment variables in shell scripts that are run on login.
 >
 > **[2:13](https://www.linkedin.com/learning/advanced-sql-for-application-development/using-environment-variables-for-connection-parameters?u=76281980&t=133)** That's certainly one way to do it.
 >
 > **[2:14](https://www.linkedin.com/learning/advanced-sql-for-application-development/using-environment-variables-for-connection-parameters?u=76281980&t=134)** And that's a great way to do it.
 >
-> **[2:16](https://www.linkedin.com/learning/advanced-sql-for-application-development/using-environment-variables-for-connection-parameters?u=76281980&t=136)** If you're working in a windows environment, it's slightly different.
+> **[2:16](https://www.linkedin.com/learning/advanced-sql-for-application-development/using-environment-variables-for-connection-parameters?u=76281980&t=136)** If you're working in a [[Windows]] environment, it's slightly different.
 >
 > **[2:19](https://www.linkedin.com/learning/advanced-sql-for-application-development/using-environment-variables-for-connection-parameters?u=76281980&t=139)** What I'm going to do here is show how to set these environment variables in Python.
 >
@@ -471,7 +466,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[PostgreSQL|Postgres]] (6), database (4), data (2), [[Programming]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[PostgreSQL|Postgres]] (6), [[Relational Databases]] (1), [[SQL]] (1), [[Linux]] (1)
 > **CLI Commands:** python (8), make (1)
 > **Tools:** jupyter (5), pycharm (1), visual studio (1), bash (1)
 > **Definitions:** is an  (2), is called (1)
@@ -480,8 +475,7 @@ created: 2026-05-02
 > **Versions:** python 3 (1)
 > **Analogies:** for example (1)
 
-#### Connecting to a database
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/connecting-to-a-database?u=76281980)
+#### [Connecting to a database](https://www.linkedin.com/learning/advanced-sql-for-application-development/connecting-to-a-database?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -499,7 +493,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/advanced-sql-for-application-development/connecting-to-a-database?u=76281980&t=25)** A connection is basically a data structure which allows us to communicate with the database backend from our application.
 >
-> **[0:32](https://www.linkedin.com/learning/advanced-sql-for-application-development/connecting-to-a-database?u=76281980&t=32)** Now, to do that in Python, we specify the variable name.
+> **[0:32](https://www.linkedin.com/learning/advanced-sql-for-application-development/connecting-to-a-database?u=76281980&t=32)** Now, to do that in [[Python (Programming Language)|Python]], we specify the variable name.
 >
 > **[0:36](https://www.linkedin.com/learning/advanced-sql-for-application-development/connecting-to-a-database?u=76281980&t=36)** Typically "C-O-N-N" is a good generic variable name.
 >
@@ -515,7 +509,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/advanced-sql-for-application-development/connecting-to-a-database?u=76281980&t=71)** And we need to specify a port.
 >
-> **[1:15](https://www.linkedin.com/learning/advanced-sql-for-application-development/connecting-to-a-database?u=76281980&t=75)** We're going to use the default postgres port 5433.
+> **[1:15](https://www.linkedin.com/learning/advanced-sql-for-application-development/connecting-to-a-database?u=76281980&t=75)** We're going to use the default [[PostgreSQL|postgres]] port 5433.
 >
 > **[1:20](https://www.linkedin.com/learning/advanced-sql-for-application-development/connecting-to-a-database?u=76281980&t=80)** That will look on port 5433 on the localhost.
 >
@@ -547,14 +541,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), next (2), data (2), [[Python (Programming Language)|Python]] (2), [[PostgreSQL|Postgres]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[PostgreSQL|Postgres]] (2)
 > **Ports:** port 5433 (3)
 > **CLI Commands:** python (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Parameterizing SELECT statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/parameterizing-select-statements?u=76281980)
+#### [Parameterizing SELECT statements](https://www.linkedin.com/learning/advanced-sql-for-application-development/parameterizing-select-statements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -572,7 +565,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/advanced-sql-for-application-development/parameterizing-select-statements?u=76281980&t=25)** So let's take a look at how we do that.
 >
-> **[0:27](https://www.linkedin.com/learning/advanced-sql-for-application-development/parameterizing-select-statements?u=76281980&t=27)** And the task we're going to do is to create a query that returns a list of all products of a particular type.
+> **[0:27](https://www.linkedin.com/learning/advanced-sql-for-application-development/parameterizing-select-statements?u=76281980&t=27)** And the task we're going to do is to create a query that returns a list of all [[Microsoft Products|products]] of a particular type.
 >
 > **[0:34](https://www.linkedin.com/learning/advanced-sql-for-application-development/parameterizing-select-statements?u=76281980&t=34)** Now as you may recall from our discussion of the data model, in our products table, we have a product ID attribute, a product name, and a product type.
 >
@@ -586,11 +579,11 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/advanced-sql-for-application-development/parameterizing-select-statements?u=76281980&t=73)** And I'm going to correct a typo here.
 >
-> **[1:15](https://www.linkedin.com/learning/advanced-sql-for-application-development/parameterizing-select-statements?u=76281980&t=75)** And I'm going to specify a SQL string that I want to execute and that string is SELECT star FROM products WHERE, product type is equal to, and now I'm going to specify a parameter.
+> **[1:15](https://www.linkedin.com/learning/advanced-sql-for-application-development/parameterizing-select-statements?u=76281980&t=75)** And I'm going to specify a [[SQL]] string that I want to execute and that string is SELECT star FROM products WHERE, product type is equal to, and now I'm going to specify a parameter.
 >
-> **[1:34](https://www.linkedin.com/learning/advanced-sql-for-application-development/parameterizing-select-statements?u=76281980&t=94)** And to do that in Python, I use the percent s because this is a string parameter.
+> **[1:34](https://www.linkedin.com/learning/advanced-sql-for-application-development/parameterizing-select-statements?u=76281980&t=94)** And to do that in [[Python (Programming Language)|Python]], I use the percent s because this is a string parameter.
 >
-> **[1:40](https://www.linkedin.com/learning/advanced-sql-for-application-development/parameterizing-select-statements?u=76281980&t=100)** Now, I could have typed in the word oven, or some other type, but I want to be able to change this around by passing in a different product types to this function.
+> **[1:40](https://www.linkedin.com/learning/advanced-sql-for-application-development/parameterizing-select-statements?u=76281980&t=100)** Now, I could have typed in the [[Microsoft Word|word]] oven, or some other type, but I want to be able to change this around by passing in a different product types to this function.
 >
 > **[1:49](https://www.linkedin.com/learning/advanced-sql-for-application-development/parameterizing-select-statements?u=76281980&t=109)** And now that I have my string and I have a cursor, I can specify for that cursor, I want to execute this particular string, or this particular SQL statement.
 >
@@ -604,7 +597,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/advanced-sql-for-application-development/parameterizing-select-statements?u=76281980&t=141)** And to do that, I'm going to reference my cursor and call the fetchall function.
 >
-> **[2:27](https://www.linkedin.com/learning/advanced-sql-for-application-development/parameterizing-select-statements?u=76281980&t=147)** Now, fetch all, you want to be careful with, it's safe for me to use this here because I'm only going to be returning about 20 rows, but if you have very large datasets, you probably want to be careful around fetch all because you could easily run out of memory or just spend a lot more time fetching data that you don't actually need.
+> **[2:27](https://www.linkedin.com/learning/advanced-sql-for-application-development/parameterizing-select-statements?u=76281980&t=147)** Now, [[Fetch]] all, you want to be careful with, it's safe for me to use this here because I'm only going to be returning about 20 rows, but if you have very large datasets, you probably want to be careful around fetch all because you could easily run out of memory or just spend a lot more time fetching data that you don't actually need.
 >
 > **[2:43](https://www.linkedin.com/learning/advanced-sql-for-application-development/parameterizing-select-statements?u=76281980&t=163)** But for now, we're not going to worry about that because we're dealing with small amounts of data.
 >
@@ -622,7 +615,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (10), [[Microsoft Products|Products]] (7), [[SQL]] (4), data (3), database (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7), [[SQL]] (4), [[Fetch]] (2), [[Python (Programming Language)|Python]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** sql (4), select (1), where (1)
 > **SQL:** select (1), where (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -631,8 +624,7 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Avoiding N+1 queries
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/avoiding-n-plus-1-queries?u=76281980)
+#### [Avoiding N+1 queries](https://www.linkedin.com/learning/advanced-sql-for-application-development/avoiding-n-plus-1-queries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -640,7 +632,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-sql-for-application-development/avoiding-n-plus-1-queries?u=76281980&t=7)** Now there are a couple of different ways of doing that.
 >
-> **[0:09](https://www.linkedin.com/learning/advanced-sql-for-application-development/avoiding-n-plus-1-queries?u=76281980&t=9)** Now a common way, that people who are maybe new to SQL will do, is to fetch information from one table, save that information in a variable, loop over it, and then go get information from the second table.
+> **[0:09](https://www.linkedin.com/learning/advanced-sql-for-application-development/avoiding-n-plus-1-queries?u=76281980&t=9)** Now a common way, that people who are maybe new to [[SQL]] will do, is to [[Fetch]] information from one table, save that information in a variable, loop over it, and then go get information from the second table.
 >
 > **[0:24](https://www.linkedin.com/learning/advanced-sql-for-application-development/avoiding-n-plus-1-queries?u=76281980&t=24)** Let's see how that would work using our all ovens.
 >
@@ -660,7 +652,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/advanced-sql-for-application-development/avoiding-n-plus-1-queries?u=76281980&t=74)** So I'm going to put that in a variable called, oven ID and I'm going to look that up, by looking at the oven variable, and getting the first item in the list.
 >
-> **[1:24](https://www.linkedin.com/learning/advanced-sql-for-application-development/avoiding-n-plus-1-queries?u=76281980&t=84)** And Python uses zero based list indexing, so I'm going to use zero as my parameter.
+> **[1:24](https://www.linkedin.com/learning/advanced-sql-for-application-development/avoiding-n-plus-1-queries?u=76281980&t=84)** And [[Python (Programming Language)|Python]] uses zero based list indexing, so I'm going to use zero as my parameter.
 >
 > **[1:30](https://www.linkedin.com/learning/advanced-sql-for-application-development/avoiding-n-plus-1-queries?u=76281980&t=90)** Now, I need to specify a SQL string here too, because what I want to do, is query product orders.
 >
@@ -728,7 +720,7 @@ created: 2026-05-02
 >
 > **[4:48](https://www.linkedin.com/learning/advanced-sql-for-application-development/avoiding-n-plus-1-queries?u=76281980&t=288)** That'll assume that PO is referring to the product table.
 >
-> **[4:51](https://www.linkedin.com/learning/advanced-sql-for-application-development/avoiding-n-plus-1-queries?u=76281980&t=291)** And I'm going to specify an inner join, on products.
+> **[4:51](https://www.linkedin.com/learning/advanced-sql-for-application-development/avoiding-n-plus-1-queries?u=76281980&t=291)** And I'm going to specify an inner join, on [[Microsoft Products|products]].
 >
 > **[4:58](https://www.linkedin.com/learning/advanced-sql-for-application-development/avoiding-n-plus-1-queries?u=76281980&t=298)** And I'm going to give that an alias and call that P.
 >
@@ -780,13 +772,13 @@ created: 2026-05-02
 >
 > **[7:05](https://www.linkedin.com/learning/advanced-sql-for-application-development/avoiding-n-plus-1-queries?u=76281980&t=425)** That's really inefficient.
 >
-> **[7:07](https://www.linkedin.com/learning/advanced-sql-for-application-development/avoiding-n-plus-1-queries?u=76281980&t=427)** Relational databases today, are really well optimized, for doing the joint operation.
+> **[7:07](https://www.linkedin.com/learning/advanced-sql-for-application-development/avoiding-n-plus-1-queries?u=76281980&t=427)** [[Relational Databases]] today, are really well optimized, for doing the joint operation.
 >
 > **[7:13](https://www.linkedin.com/learning/advanced-sql-for-application-development/avoiding-n-plus-1-queries?u=76281980&t=433)** And they can do it much more efficiently, in the database engine, than we can do in our application.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (20), [[SQL]] (7), [[Fetch]] (6), database (5), data (4)
+> **Frameworks & Libraries:** [[SQL]] (7), [[Fetch]] (6), [[Python (Programming Language)|Python]] (1), [[Microsoft Products|Products]] (1), [[Relational Databases]] (1)
 > **Env Vars:** sql (7)
 > **Analogies:** kind of like (1), for example (1)
 > **CLI Commands:** python (1)
@@ -798,12 +790,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of index types
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/overview-of-index-types?u=76281980)
+#### [Overview of index types](https://www.linkedin.com/learning/advanced-sql-for-application-development/overview-of-index-types?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-application-development/overview-of-index-types?u=76281980&t=0)** - [Instructor] When it comes to developing efficient relational database applications, one of the most important tools we have to work with are indexes.
+> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-application-development/overview-of-index-types?u=76281980&t=0)** - [Instructor] When it comes to developing efficient relational [[Database Applications]], one of the most important tools we have to work with are indexes.
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-sql-for-application-development/overview-of-index-types?u=76281980&t=9)** So let's take a look at different kinds of indexes that we have available to us.
 >
@@ -823,7 +814,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/advanced-sql-for-application-development/overview-of-index-types?u=76281980&t=60)** Now I want to mention I will use terms like data block, or persistent storage.
 >
-> **[1:05](https://www.linkedin.com/learning/advanced-sql-for-application-development/overview-of-index-types?u=76281980&t=65)** Databases often cache data, so even though there may be a read operation, so for example, after referencing an index, I need to go fetch a piece of data, and I might refer to it as fetching it from the disc, or from SSD.
+> **[1:05](https://www.linkedin.com/learning/advanced-sql-for-application-development/overview-of-index-types?u=76281980&t=65)** [[Databases]] often cache data, so even though there may be a read operation, so for example, after referencing an index, I need to go [[Fetch]] a piece of data, and I might refer to it as fetching it from the disc, or from SSD.
 >
 > **[1:20](https://www.linkedin.com/learning/advanced-sql-for-application-development/overview-of-index-types?u=76281980&t=80)** In fact, the database may actually have stored that in cache so there isn't a need to actually fetch from the disc.
 >
@@ -841,13 +832,13 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/advanced-sql-for-application-development/overview-of-index-types?u=76281980&t=126)** We won't use Bitmap indexes really much for transaction processing system, which is our focus here.
 >
-> **[2:11](https://www.linkedin.com/learning/advanced-sql-for-application-development/overview-of-index-types?u=76281980&t=131)** And then also, some databases like postgres have specialized indexes for things like geolocation indexing.
+> **[2:11](https://www.linkedin.com/learning/advanced-sql-for-application-development/overview-of-index-types?u=76281980&t=131)** And then also, some databases like [[PostgreSQL|postgres]] have specialized indexes for things like geolocation indexing.
 >
 > **[2:19](https://www.linkedin.com/learning/advanced-sql-for-application-development/overview-of-index-types?u=76281980&t=139)** Now again, those are an interesting type of index, and I just want to point them out, but we won't be delving into them any further here.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), product (2), [[Databases]] (2), [[Fetch]] (2), application (2)
+> **Frameworks & Libraries:** [[Databases]] (2), [[Fetch]] (2), [[Database Applications]] (1), [[PostgreSQL|Postgres]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
@@ -855,8 +846,7 @@ created: 2026-05-02
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using B-tree indexes and range scans
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/using-b-tree-indexes-and-range-scans?u=76281980)
+#### [Using B-tree indexes and range scans](https://www.linkedin.com/learning/advanced-sql-for-application-development/using-b-tree-indexes-and-range-scans?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -898,14 +888,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (8), data (2), [[Search]] (1)
 > **CLI Commands:** node (8), make (2), find (2)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using hash indexes and equality operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/using-hash-indexes-and-equality-operations?u=76281980)
+#### [Using hash indexes and equality operations](https://www.linkedin.com/learning/advanced-sql-for-application-development/using-hash-indexes-and-equality-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -933,19 +921,18 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/advanced-sql-for-application-development/using-hash-indexes-and-equality-operations?u=76281980&t=59)** Hash values won't help you if you want to filter on a range of values.
 >
-> **[1:03](https://www.linkedin.com/learning/advanced-sql-for-application-development/using-hash-indexes-and-equality-operations?u=76281980&t=63)** Som recent improvements in Postgres have led to hash indexes that can be smaller than B-tree indexes, but still just as fast or faster, so this can be an advantage when you want to keep an entire hash index in memory.
+> **[1:03](https://www.linkedin.com/learning/advanced-sql-for-application-development/using-hash-indexes-and-equality-operations?u=76281980&t=63)** Som recent improvements in [[PostgreSQL|Postgres]] have led to hash indexes that can be smaller than B-tree indexes, but still just as fast or faster, so this can be an advantage when you want to keep an entire hash index in memory.
 >
 > **[1:16](https://www.linkedin.com/learning/advanced-sql-for-application-development/using-hash-indexes-and-equality-operations?u=76281980&t=76)** Also, because they're fast or as fast as B-tree indexes, the choice between hash indexes and B-tree, if given the choice, come down to the advantage of being able to store an entire index in memory, which is possible with some hash indexes.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), data (1), [[PostgreSQL|Postgres]] (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
 
-#### Covering indexes
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/covering-indexes?u=76281980)
+#### [Covering indexes](https://www.linkedin.com/learning/advanced-sql-for-application-development/covering-indexes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -981,14 +968,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** idx (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Indexes and bulk data loading
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/indexes-and-bulk-data-loading?u=76281980)
+#### [Indexes and bulk data loading](https://www.linkedin.com/learning/advanced-sql-for-application-development/indexes-and-bulk-data-loading?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1020,7 +1005,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/advanced-sql-for-application-development/indexes-and-bulk-data-loading?u=76281980&t=97)** Then we insert the data.
 >
-> **[1:39](https://www.linkedin.com/learning/advanced-sql-for-application-development/indexes-and-bulk-data-loading?u=76281980&t=99)** Now, oftentimes databases, will have a bulk loading program and these are highly optimized.
+> **[1:39](https://www.linkedin.com/learning/advanced-sql-for-application-development/indexes-and-bulk-data-loading?u=76281980&t=99)** Now, oftentimes [[Databases]], will have a bulk loading program and these are highly optimized.
 >
 > **[1:46](https://www.linkedin.com/learning/advanced-sql-for-application-development/indexes-and-bulk-data-loading?u=76281980&t=106)** And after we insert the data, then we create the index.
 >
@@ -1030,13 +1015,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), database (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1)
 > **Analogies:** for example (4), imagine (1)
 > **CLI Commands:** find (2)
 > **Speakers:** - [instructor] (1)
 
-#### Avoiding index locks
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/avoiding-index-locks?u=76281980)
+#### [Avoiding index locks](https://www.linkedin.com/learning/advanced-sql-for-application-development/avoiding-index-locks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1062,7 +1046,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/advanced-sql-for-application-development/avoiding-index-locks?u=76281980&t=75)** So those are times we might need to rebuild an index.
 >
-> **[1:18](https://www.linkedin.com/learning/advanced-sql-for-application-development/avoiding-index-locks?u=76281980&t=78)** But we need to keep in mind that during a rebuild on an index, PostgreSQL for example, will lock the table for Writes.
+> **[1:18](https://www.linkedin.com/learning/advanced-sql-for-application-development/avoiding-index-locks?u=76281980&t=78)** But we need to keep in mind that during a rebuild on an index, [[PostgreSQL]] for example, will lock the table for Writes.
 >
 > **[1:25](https://www.linkedin.com/learning/advanced-sql-for-application-development/avoiding-index-locks?u=76281980&t=85)** So that means any Insert, Update or Delete is not going to finish, it's going to be blocked.
 >
@@ -1072,9 +1056,9 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/advanced-sql-for-application-development/avoiding-index-locks?u=76281980&t=97)** Those won't be blocked.
 >
-> **[1:38](https://www.linkedin.com/learning/advanced-sql-for-application-development/avoiding-index-locks?u=76281980&t=98)** So that pattern may be okay if you're working in a business intelligence application, such as a data warehousing or data Mart kind of environment, where there's bulk data loading going on, say off hours, and then users are running reports during the day.
+> **[1:38](https://www.linkedin.com/learning/advanced-sql-for-application-development/avoiding-index-locks?u=76281980&t=98)** So that pattern may be okay if you're working in a [[Business Intelligence (BI)|business intelligence]] application, such as a [[Data Warehousing]] or data Mart kind of environment, where there's bulk data loading going on, say off hours, and then users are running reports during the day.
 >
-> **[1:55](https://www.linkedin.com/learning/advanced-sql-for-application-development/avoiding-index-locks?u=76281980&t=115)** That kind of Select only read-only kind of operation wouldn't be impacted, but we're primarily talking about transaction processing applications, like the e-commerce application, where you might be reading about customer data or, and then writing new customer data at the same time, different processes doing both of those things.
+> **[1:55](https://www.linkedin.com/learning/advanced-sql-for-application-development/avoiding-index-locks?u=76281980&t=115)** That kind of Select only read-only kind of operation wouldn't be impacted, but we're primarily talking about transaction processing applications, like the [[E-Commerce]] application, where you might be reading about customer data or, and then writing new customer data at the same time, different processes doing both of those things.
 >
 > **[2:16](https://www.linkedin.com/learning/advanced-sql-for-application-development/avoiding-index-locks?u=76281980&t=136)** So we can't count on having read-only requests.
 >
@@ -1090,14 +1074,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[PostgreSQL]] (3), application (2), database (1), [[Business Intelligence (BI)|Business intelligence]] (1)
+> **Frameworks & Libraries:** [[PostgreSQL]] (3), [[Business Intelligence (BI)|Business intelligence]] (1), [[Data Warehousing]] (1), [[E-Commerce]] (1)
 > **Analogies:** for example (2), such as (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Define a B-tree and a hash index
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/challenge-define-a-b-tree-and-a-hash-index?u=76281980)
+#### [Challenge: Define a B-tree and a hash index](https://www.linkedin.com/learning/advanced-sql-for-application-development/challenge-define-a-b-tree-and-a-hash-index?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1109,22 +1092,21 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/advanced-sql-for-application-development/challenge-define-a-b-tree-and-a-hash-index?u=76281980&t=12)** First, create a b-tree index on the last and first names in the customers table.
 >
-> **[0:17](https://www.linkedin.com/learning/advanced-sql-for-application-development/challenge-define-a-b-tree-and-a-hash-index?u=76281980&t=17)** And then also create a hash index on the product name in the products table.
+> **[0:17](https://www.linkedin.com/learning/advanced-sql-for-application-development/challenge-define-a-b-tree-and-a-hash-index?u=76281980&t=17)** And then also create a hash index on the product name in the [[Microsoft Products|products]] table.
 >
-> **[0:22](https://www.linkedin.com/learning/advanced-sql-for-application-development/challenge-define-a-b-tree-and-a-hash-index?u=76281980&t=22)** Now we haven't seen an example of how to create a hash index, but you can either use the postgres documentation, or take a guess, based on the structure of how you create a b-tree index.
+> **[0:22](https://www.linkedin.com/learning/advanced-sql-for-application-development/challenge-define-a-b-tree-and-a-hash-index?u=76281980&t=22)** Now we haven't seen an example of how to create a hash index, but you can either use the [[PostgreSQL|postgres]] documentation, or take a guess, based on the structure of how you create a b-tree index.
 >
 > **[0:34](https://www.linkedin.com/learning/advanced-sql-for-application-development/challenge-define-a-b-tree-and-a-hash-index?u=76281980&t=34)** We'll have the solution in the next video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), [[Microsoft Products|Products]] (1), [[PostgreSQL|Postgres]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[PostgreSQL|Postgres]] (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (chill music) (1)
 
-#### Solution: Defining B-tree and hash indexes
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/solution-defining-b-tree-and-hash-indexes?u=76281980)
+#### [Solution: Defining B-tree and hash indexes](https://www.linkedin.com/learning/advanced-sql-for-application-development/solution-defining-b-tree-and-hash-indexes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1138,13 +1120,13 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/advanced-sql-for-application-development/solution-defining-b-tree-and-hash-indexes?u=76281980&t=30)** Now, not surprisingly, creating a hash index is similar.
 >
-> **[0:35](https://www.linkedin.com/learning/advanced-sql-for-application-development/solution-defining-b-tree-and-hash-indexes?u=76281980&t=35)** The solution there is again to use the CREATE INDEX command, specifying a name of the index, and then the ON clause, in this case it would be ON products, and then the USING clause, this cause we would be using hash, and again, followed by the list of attributes, but we only have one attribute that we're indexing in this case and that's product name.
+> **[0:35](https://www.linkedin.com/learning/advanced-sql-for-application-development/solution-defining-b-tree-and-hash-indexes?u=76281980&t=35)** The solution there is again to use the CREATE INDEX command, specifying a name of the index, and then the ON clause, in this case it would be ON [[Microsoft Products|products]], and then the USING clause, this cause we would be using hash, and again, followed by the list of attributes, but we only have one attribute that we're indexing in this case and that's product name.
 >
 > **[0:54](https://www.linkedin.com/learning/advanced-sql-for-application-development/solution-defining-b-tree-and-hash-indexes?u=76281980&t=54)** So that's the solution to the index challenge.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Env Vars:** using (3), create (2), index (2)
 > **SQL:** index (2)
 > **Speakers:** - [instructor] (1)
@@ -1155,14 +1137,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of object-relational mapping
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/overview-of-object-relational-mapping?u=76281980)
+#### [Overview of object-relational mapping](https://www.linkedin.com/learning/advanced-sql-for-application-development/overview-of-object-relational-mapping?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-sql-for-application-development/overview-of-object-relational-mapping?u=76281980&t=0)** - [Narrator] Now in this section of the course, we're going to take a look at object relational mapping, and we'll start with a brief overview.
 >
-> **[0:06](https://www.linkedin.com/learning/advanced-sql-for-application-development/overview-of-object-relational-mapping?u=76281980&t=6)** Now when we talk about relational databases and object-oriented models, we're really talking about two different ways or two different models for representing data, specifically entities.
+> **[0:06](https://www.linkedin.com/learning/advanced-sql-for-application-development/overview-of-object-relational-mapping?u=76281980&t=6)** Now when we talk about [[Relational Databases]] and object-oriented models, we're really talking about two different ways or two different models for representing data, specifically entities.
 >
 > **[0:17](https://www.linkedin.com/learning/advanced-sql-for-application-development/overview-of-object-relational-mapping?u=76281980&t=17)** Now, relational databases, they model entities using an ordered set of attributes.
 >
@@ -1182,13 +1163,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Relational Databases]] (2), data (2)
+> **Frameworks & Libraries:** [[Relational Databases]] (2)
 > **Analogies:** just like (1), for example (1)
 > **Warnings:** keep in mind (2)
 > **Speakers:** - [narrator] (1)
 
-#### Introduction to SQLAlchemy
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/introduction-to-sqlalchemy?u=76281980)
+#### [Introduction to SQLAlchemy](https://www.linkedin.com/learning/advanced-sql-for-application-development/introduction-to-sqlalchemy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1196,7 +1176,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-sql-for-application-development/introduction-to-sqlalchemy?u=76281980&t=6)** And this one is called SQLAlchemy.
 >
-> **[0:07](https://www.linkedin.com/learning/advanced-sql-for-application-development/introduction-to-sqlalchemy?u=76281980&t=7)** SQLAlchemy is a Python SQL toolkit and it's designed to map between objects and relations.
+> **[0:07](https://www.linkedin.com/learning/advanced-sql-for-application-development/introduction-to-sqlalchemy?u=76281980&t=7)** SQLAlchemy is a [[Python (Programming Language)|Python]] [[SQL]] toolkit and it's designed to map between objects and relations.
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-sql-for-application-development/introduction-to-sqlalchemy?u=76281980&t=15)** Now, basically the way we often think about it is that tables, or more specifically relations, because it could include views for example.
 >
@@ -1224,7 +1204,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/advanced-sql-for-application-development/introduction-to-sqlalchemy?u=76281980&t=93)** So, some things to keep in mind about SQLAlchemy is that it's built on the industry standard DBAPI.
 >
-> **[1:39](https://www.linkedin.com/learning/advanced-sql-for-application-development/introduction-to-sqlalchemy?u=76281980&t=99)** So, it's very easy to work with different databases.
+> **[1:39](https://www.linkedin.com/learning/advanced-sql-for-application-development/introduction-to-sqlalchemy?u=76281980&t=99)** So, it's very easy to work with different [[Databases]].
 >
 > **[1:43](https://www.linkedin.com/learning/advanced-sql-for-application-development/introduction-to-sqlalchemy?u=76281980&t=103)** And SQLAlchemy allows you to work in an object-oriented fashion and then generates SQL for you.
 >
@@ -1232,7 +1212,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/advanced-sql-for-application-development/introduction-to-sqlalchemy?u=76281980&t=124)** And one of the nice benefits of this is that it abstracts away database-specific implementation details.
 >
-> **[2:11](https://www.linkedin.com/learning/advanced-sql-for-application-development/introduction-to-sqlalchemy?u=76281980&t=131)** So, for example, if you are writing an application, and you want to be able to easily port your application to use either ISQL or a postgreSQL backend, then using SQlAlchemy can actually make that easier because you don't have to worry about implementing maybe a mySQL-specific SQL statement in your application.
+> **[2:11](https://www.linkedin.com/learning/advanced-sql-for-application-development/introduction-to-sqlalchemy?u=76281980&t=131)** So, for example, if you are writing an application, and you want to be able to easily port your application to use either ISQL or a [[PostgreSQL]] backend, then using SQlAlchemy can actually make that easier because you don't have to worry about implementing maybe a [[MySQL]]-specific SQL statement in your application.
 >
 > **[2:33](https://www.linkedin.com/learning/advanced-sql-for-application-development/introduction-to-sqlalchemy?u=76281980&t=153)** You'll let SQLAlchemy do the mapping from your object structure to whatever specific SQL statement is required for the backend you're using.
 >
@@ -1240,7 +1220,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (8), application (5), database (4), data (4), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[SQL]] (8), [[Python (Programming Language)|Python]] (1), [[Databases]] (1), [[PostgreSQL]] (1), [[MySQL]] (1)
 > **Env Vars:** sql (8), orm (2), dbapi (1), isql (1)
 > **CLI Commands:** python (1), make (1), mysql (1)
 > **Definitions:** is called (2), is a  (1)
@@ -1249,8 +1229,7 @@ created: 2026-05-02
 > **Documentation:** specification (1)
 > **Warnings:** keep in mind (1)
 
-#### Installing SQLAlchemy
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/installing-sqlalchemy-23752413?u=76281980)
+#### [Installing SQLAlchemy](https://www.linkedin.com/learning/advanced-sql-for-application-development/installing-sqlalchemy-23752413?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1258,7 +1237,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/advanced-sql-for-application-development/installing-sqlalchemy-23752413?u=76281980&t=3)** Now I've opened a terminal window on my Mac, so I have a command line available to me.
 >
-> **[0:08](https://www.linkedin.com/learning/advanced-sql-for-application-development/installing-sqlalchemy-23752413?u=76281980&t=8)** So we are going to use PIP, which is a Python package installer, and I'm going to say PIP install and then give it the name of the package I want to install, or library is simply called SQLAlchemy.
+> **[0:08](https://www.linkedin.com/learning/advanced-sql-for-application-development/installing-sqlalchemy-23752413?u=76281980&t=8)** So we are going to use PIP, which is a [[Python (Programming Language)|Python]] package installer, and I'm going to say PIP install and then give it the name of the package I want to install, or library is simply called SQLAlchemy.
 >
 > **[0:21](https://www.linkedin.com/learning/advanced-sql-for-application-development/installing-sqlalchemy-23752413?u=76281980&t=21)** So I will say, PIP install SQLAlchemy and hit Return.
 >
@@ -1292,7 +1271,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), hit (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5)
 > **CLI Commands:** python (5), pip (4)
 > **Versions:** version 2 (2), 0.27 (2), python 3 (1)
 > **Prerequisites:** install (5)
@@ -1301,8 +1280,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Query with SQLAlchemy
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/query-with-sqlalchemy?u=76281980)
+#### [Query with SQLAlchemy](https://www.linkedin.com/learning/advanced-sql-for-application-development/query-with-sqlalchemy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1310,13 +1288,13 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-sql-for-application-development/query-with-sqlalchemy?u=76281980&t=8)** And in particular actually we'll just query one.
 >
-> **[0:09](https://www.linkedin.com/learning/advanced-sql-for-application-development/query-with-sqlalchemy?u=76281980&t=9)** We're going to take a look at working with the products table.
+> **[0:09](https://www.linkedin.com/learning/advanced-sql-for-application-development/query-with-sqlalchemy?u=76281980&t=9)** We're going to take a look at working with the [[Microsoft Products|products]] table.
 >
 > **[0:12](https://www.linkedin.com/learning/advanced-sql-for-application-development/query-with-sqlalchemy?u=76281980&t=12)** So the first thing I want to do is import the libraries that we're going to need because we are working with Pythons.
 >
 > **[0:18](https://www.linkedin.com/learning/advanced-sql-for-application-development/query-with-sqlalchemy?u=76281980&t=18)** So we'll import some drivers here.
 >
-> **[0:20](https://www.linkedin.com/learning/advanced-sql-for-application-development/query-with-sqlalchemy?u=76281980&t=20)** First of all we'll import a driver for working with the PostgreSQL database and we'll use the same one we've used before and I'm also storing username and password in environment variables.
+> **[0:20](https://www.linkedin.com/learning/advanced-sql-for-application-development/query-with-sqlalchemy?u=76281980&t=20)** First of all we'll import a driver for working with the [[PostgreSQL]] database and we'll use the same one we've used before and I'm also storing username and password in environment variables.
 >
 > **[0:30](https://www.linkedin.com/learning/advanced-sql-for-application-development/query-with-sqlalchemy?u=76281980&t=30)** So I'm going to get the operating system package as well so I can look those up.
 >
@@ -1360,7 +1338,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/advanced-sql-for-application-development/query-with-sqlalchemy?u=76281980&t=154)** Okay.
 >
-> **[2:35](https://www.linkedin.com/learning/advanced-sql-for-application-development/query-with-sqlalchemy?u=76281980&t=155)** Now what I want to do, is I want to basically create a connection and a session to my Postgres database.
+> **[2:35](https://www.linkedin.com/learning/advanced-sql-for-application-development/query-with-sqlalchemy?u=76281980&t=155)** Now what I want to do, is I want to basically create a connection and a session to my [[PostgreSQL|Postgres]] database.
 >
 > **[2:43](https://www.linkedin.com/learning/advanced-sql-for-application-development/query-with-sqlalchemy?u=76281980&t=163)** So I'm going to need a connection string which specifies things like the username, password, port number, things like that.
 >
@@ -1484,29 +1462,28 @@ created: 2026-05-02
 >
 > **[9:06](https://www.linkedin.com/learning/advanced-sql-for-application-development/query-with-sqlalchemy?u=76281980&t=546)** And what we see here is we've returned just the products which are of type fryer.
 >
-> **[9:12](https://www.linkedin.com/learning/advanced-sql-for-application-development/query-with-sqlalchemy?u=76281980&t=552)** So what we can see here is that for SQL constructs like a select statement or a where clause, there is a corresponding way of doing that with classes or with functions and there are other functions that can be applied.
+> **[9:12](https://www.linkedin.com/learning/advanced-sql-for-application-development/query-with-sqlalchemy?u=76281980&t=552)** So what we can see here is that for [[SQL]] constructs like a select statement or a where clause, there is a corresponding way of doing that with classes or with functions and there are other functions that can be applied.
 >
 > **[9:29](https://www.linkedin.com/learning/advanced-sql-for-application-development/query-with-sqlalchemy?u=76281980&t=569)** So for example like aggregate functions in SQL have parallels in SQLAlchemy, which you can use as well.
 >
-> **[9:36](https://www.linkedin.com/learning/advanced-sql-for-application-development/query-with-sqlalchemy?u=76281980&t=576)** But I believe we've covered the purpose intended here, which is to kind of give you a flavor of how you can work with relational databases in a more object oriented Pythonic way if you choose to.
+> **[9:36](https://www.linkedin.com/learning/advanced-sql-for-application-development/query-with-sqlalchemy?u=76281980&t=576)** But I believe we've covered the purpose intended here, which is to kind of give you a flavor of how you can work with [[Relational Databases]] in a more object oriented Pythonic way if you choose to.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (22), database (10), [[Microsoft Products|Products]] (9), data (4), [[PostgreSQL|Postgres]] (3)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (9), [[PostgreSQL|Postgres]] (3), [[SQL]] (2), [[PostgreSQL]] (1), [[Relational Databases]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (4)
 > **Analogies:** it's like (1), analogous to (1), for example (1)
 > **Env Vars:** sql (2)
 > **Speakers:** - [instructor] (1)
 
-#### Limitations of ORM and cautionary advice
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/limitations-of-orm-and-cautionary-advice?u=76281980)
+#### [Limitations of ORM and cautionary advice](https://www.linkedin.com/learning/advanced-sql-for-application-development/limitations-of-orm-and-cautionary-advice?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-sql-for-application-development/limitations-of-orm-and-cautionary-advice?u=76281980&t=0)** - [Lecturer] Now Object Relational Mapping systems work really well when you have relatively straightforward, not too complicated data models and you really want to work in a more object oriented fashion and keep your application code consistent.
 >
-> **[0:14](https://www.linkedin.com/learning/advanced-sql-for-application-development/limitations-of-orm-and-cautionary-advice?u=76281980&t=14)** So you're not switching say between an ORM, oriented development model and a more SQL relational specific.
+> **[0:14](https://www.linkedin.com/learning/advanced-sql-for-application-development/limitations-of-orm-and-cautionary-advice?u=76281980&t=14)** So you're not switching say between an ORM, oriented development model and a more [[SQL]] relational specific.
 >
 > **[0:21](https://www.linkedin.com/learning/advanced-sql-for-application-development/limitations-of-orm-and-cautionary-advice?u=76281980&t=21)** Now that said, there are however limitations of ORMs that you should keep in mind when deciding if you want to use them.
 >
@@ -1532,15 +1509,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (7), data (3), database (3), application (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[SQL]] (7)
 > **Env Vars:** orm (8), sql (7)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** for example (2)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Challenge: Create an ORM model
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/challenge-create-an-orm-model?u=76281980)
+#### [Challenge: Create an ORM model](https://www.linkedin.com/learning/advanced-sql-for-application-development/challenge-create-an-orm-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1563,8 +1539,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (chill music) (1)
 
-#### Solution: Create an ORM model
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/solution-create-an-orm-model?u=76281980)
+#### [Solution: Create an ORM model](https://www.linkedin.com/learning/advanced-sql-for-application-development/solution-create-an-orm-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1595,12 +1570,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of partitioning
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/overview-of-partitioning?u=76281980)
+#### [Overview of partitioning](https://www.linkedin.com/learning/advanced-sql-for-application-development/overview-of-partitioning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-application-development/overview-of-partitioning?u=76281980&t=0)** - [Narrator] As developers using relational databases for their applications, one thing we need to watch out for is how the growth in the size of our data impacts our application performance.
+> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-application-development/overview-of-partitioning?u=76281980&t=0)** - [Narrator] As developers using [[Relational Databases]] for their applications, one thing we need to watch out for is how the growth in the size of our data impacts our application performance.
 >
 > **[0:12](https://www.linkedin.com/learning/advanced-sql-for-application-development/overview-of-partitioning?u=76281980&t=12)** The reason is, is that we add more and more data, the latency or the time required to execute a query can increase.
 >
@@ -1646,7 +1620,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/advanced-sql-for-application-development/overview-of-partitioning?u=76281980&t=130)** So, very time oriented.
 >
-> **[2:12](https://www.linkedin.com/learning/advanced-sql-for-application-development/overview-of-partitioning?u=76281980&t=132)** Also time series data, like Internet of Things or monitoring data that is collecting, say, performance metrics.
+> **[2:12](https://www.linkedin.com/learning/advanced-sql-for-application-development/overview-of-partitioning?u=76281980&t=132)** Also time series data, like [[IoT|Internet of Things]] or monitoring data that is collecting, say, [[Performance Metrics]].
 >
 > **[2:19](https://www.linkedin.com/learning/advanced-sql-for-application-development/overview-of-partitioning?u=76281980&t=139)** Oftentimes with time series data we're more likely to be interested in the latest data.
 >
@@ -1710,13 +1684,13 @@ created: 2026-05-02
 >
 > **[5:19](https://www.linkedin.com/learning/advanced-sql-for-application-development/overview-of-partitioning?u=76281980&t=319)** Again, a lot of this has to do with fact that we're getting more rows, or more relevant data, in a single data block or I/O operation.
 >
-> **[5:27](https://www.linkedin.com/learning/advanced-sql-for-application-development/overview-of-partitioning?u=76281980&t=327)** You may have heard of columnar data storage.
+> **[5:27](https://www.linkedin.com/learning/advanced-sql-for-application-development/overview-of-partitioning?u=76281980&t=327)** You may have heard of columnar [[Data Storage]].
 >
 > **[5:30](https://www.linkedin.com/learning/advanced-sql-for-application-development/overview-of-partitioning?u=76281980&t=330)** Here the idea is very similar.
 >
 > **[5:31](https://www.linkedin.com/learning/advanced-sql-for-application-development/overview-of-partitioning?u=76281980&t=331)** It's that the data is stored in data blocks based on columns rather than rows.
 >
-> **[5:38](https://www.linkedin.com/learning/advanced-sql-for-application-development/overview-of-partitioning?u=76281980&t=338)** Oftentimes, this is used in analytic databases like Google BigQuery, which is based on the Dremel model.
+> **[5:38](https://www.linkedin.com/learning/advanced-sql-for-application-development/overview-of-partitioning?u=76281980&t=338)** Oftentimes, this is used in analytic [[Databases]] like [[Google]] BigQuery, which is based on the Dremel model.
 >
 > **[5:44](https://www.linkedin.com/learning/advanced-sql-for-application-development/overview-of-partitioning?u=76281980&t=344)** Also some other data warehouse oriented databases can use a columnar format or columnar data storage.
 >
@@ -1728,7 +1702,7 @@ created: 2026-05-02
 >
 > **[6:09](https://www.linkedin.com/learning/advanced-sql-for-application-development/overview-of-partitioning?u=76281980&t=369)** So you may want to partition those off into different tables using vertical partitioning.
 >
-> **[6:15](https://www.linkedin.com/learning/advanced-sql-for-application-development/overview-of-partitioning?u=76281980&t=375)** Also in data analytics, there may be statistics on subsets of attributes that you want to keep together.
+> **[6:15](https://www.linkedin.com/learning/advanced-sql-for-application-development/overview-of-partitioning?u=76281980&t=375)** Also in data analytics, there may be [[Statistics]] on subsets of attributes that you want to keep together.
 >
 > **[6:21](https://www.linkedin.com/learning/advanced-sql-for-application-development/overview-of-partitioning?u=76281980&t=381)** Also, if you're familiar with data analysis and statistics, you might have heard a phrase called factor analysis.
 >
@@ -1748,15 +1722,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (33), application (2), business (2), product (2), [[Databases]] (2)
+> **Frameworks & Libraries:** [[Data Storage]] (2), [[Databases]] (2), [[Statistics]] (2), [[Relational Databases]] (1), [[IoT|Internet of things]] (1)
 > **Analogies:** for example (7)
 > **Definitions:** is called (2), is a  (1)
 > **Warnings:** watch out (1), keep in mind (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [narrator] (1)
 
-#### Range partitioning
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/range-partitioning?u=76281980)
+#### [Range partitioning](https://www.linkedin.com/learning/advanced-sql-for-application-development/range-partitioning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1770,9 +1743,9 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/advanced-sql-for-application-development/range-partitioning?u=76281980&t=27)** And that's a common thing.
 >
-> **[0:29](https://www.linkedin.com/learning/advanced-sql-for-application-development/range-partitioning?u=76281980&t=29)** Partitioning by date is often used, for example, in data warehousing.
+> **[0:29](https://www.linkedin.com/learning/advanced-sql-for-application-development/range-partitioning?u=76281980&t=29)** Partitioning by date is often used, for example, in [[Data Warehousing]].
 >
-> **[0:33](https://www.linkedin.com/learning/advanced-sql-for-application-development/range-partitioning?u=76281980&t=33)** Similarly, you can partition based on date in IoT or time series data, although you may actually have even more fine grain partitions if you have a lot of data, say, coming in at the minute or hour level.
+> **[0:33](https://www.linkedin.com/learning/advanced-sql-for-application-development/range-partitioning?u=76281980&t=33)** Similarly, you can partition based on date in [[IoT]] or time series data, although you may actually have even more fine grain partitions if you have a lot of data, say, coming in at the minute or hour level.
 >
 > **[0:44](https://www.linkedin.com/learning/advanced-sql-for-application-development/range-partitioning?u=76281980&t=44)** You can also range partitioning for numeric ranges.
 >
@@ -1794,17 +1767,17 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/advanced-sql-for-application-development/range-partitioning?u=76281980&t=116)** Each partition can have its own indexes, its own constraints, sometimes its own set of default values.
 >
-> **[2:03](https://www.linkedin.com/learning/advanced-sql-for-application-development/range-partitioning?u=76281980&t=123)** That really depends on the particular relational database management system you're using, but in general, it's helpful to keep that in mind as you're designing other table features like indexes and constraints.
+> **[2:03](https://www.linkedin.com/learning/advanced-sql-for-application-development/range-partitioning?u=76281980&t=123)** That really depends on the particular relational [[Database Management]] system you're using, but in general, it's helpful to keep that in mind as you're designing other table features like indexes and constraints.
 >
 > **[2:14](https://www.linkedin.com/learning/advanced-sql-for-application-development/range-partitioning?u=76281980&t=134)** You want to keep in mind the particular features that are provided for in the relational database that you're using.
 >
-> **[2:21](https://www.linkedin.com/learning/advanced-sql-for-application-development/range-partitioning?u=76281980&t=141)** So here's an internet of things, of IoT, example.
+> **[2:21](https://www.linkedin.com/learning/advanced-sql-for-application-development/range-partitioning?u=76281980&t=141)** So here's an [[IoT|internet of things]], of IoT, example.
 >
 > **[2:24](https://www.linkedin.com/learning/advanced-sql-for-application-development/range-partitioning?u=76281980&t=144)** So this is really simple.
 >
 > **[2:26](https://www.linkedin.com/learning/advanced-sql-for-application-development/range-partitioning?u=76281980&t=146)** We're going to assume that we have some kind of sensors out in the field and the environment that are sending in data, and the data includes a location ID, a date at which some measurement is being taken, and let's say it returns the average temperature and average relative humidity for a particular day at a particular location, and we want to be able to partition by measurement date.
 >
-> **[2:49](https://www.linkedin.com/learning/advanced-sql-for-application-development/range-partitioning?u=76281980&t=169)** So this is an example of how you would specify a create table definition in Postgres, and basically, in addition to the standard create table statement, we have a clause that states partition by range, and then we specify measure date, 'cause that's our partition key.
+> **[2:49](https://www.linkedin.com/learning/advanced-sql-for-application-development/range-partitioning?u=76281980&t=169)** So this is an example of how you would specify a create table definition in [[PostgreSQL|Postgres]], and basically, in addition to the standard create table statement, we have a clause that states partition by range, and then we specify measure date, 'cause that's our partition key.
 >
 > **[3:05](https://www.linkedin.com/learning/advanced-sql-for-application-development/range-partitioning?u=76281980&t=185)** Now, in Postgres, there's a second step we need to do, which is basically we create the tables for each of the partitions, and we do that by using the create table statement, and then we specify a name for the table, which is actually the name of the partition, and specify that that table is a partition of, and then we refer to the parent table.
 >
@@ -1828,13 +1801,13 @@ created: 2026-05-02
 >
 > **[4:55](https://www.linkedin.com/learning/advanced-sql-for-application-development/range-partitioning?u=76281980&t=295)** So in terms of when do you want to use partitioning by range, well certainly, if you're working with IoT data, or other times, series data where you're constantly wanting to query the latest data, that's a good use case for partitioning by range.
 >
-> **[5:10](https://www.linkedin.com/learning/advanced-sql-for-application-development/range-partitioning?u=76281980&t=310)** If you're doing comparative queries, like in often times in data warehousing or business analytics if you want to compare, say, this quarter's sales to the same quarter last year, that's a good use case for partitioning by range as well.
+> **[5:10](https://www.linkedin.com/learning/advanced-sql-for-application-development/range-partitioning?u=76281980&t=310)** If you're doing comparative queries, like in often times in data warehousing or [[Business Analytics]] if you want to compare, say, this quarter's sales to the same quarter last year, that's a good use case for partitioning by range as well.
 >
 > **[5:22](https://www.linkedin.com/learning/advanced-sql-for-application-development/range-partitioning?u=76281980&t=322)** Anytime you want to quickly select by some of numeric identifier, range partitioning can make sense, and then also, if again, like in a data warehouse, if you're doing data operations, like bulk loads, bulk deletes based on periods of time, so for example, if you have a data warehouse and you want to keep three years' worth of data and every week you want to roll off the oldest week, that's another use case where partitioning by range makes a lot of sense.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[IoT]] (3), database (3), [[PostgreSQL|Postgres]] (2), management (1)
+> **Frameworks & Libraries:** [[IoT]] (3), [[Data Warehousing]] (2), [[PostgreSQL|Postgres]] (2), [[IoT|Internet of things]] (1), [[Business Analytics]] (1)
 > **Definitions:** is a  (3), is called (1), is an  (1)
 > **Code Identifiers:** iot_measurement (2)
 > **Analogies:** for example (2)
@@ -1842,14 +1815,13 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### List partitioning
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/list-partitioning?u=76281980)
+#### [List partitioning](https://www.linkedin.com/learning/advanced-sql-for-application-development/list-partitioning?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-sql-for-application-development/list-partitioning?u=76281980&t=0)** - [Tutor] Now let's take a look at partitioning by lists.
 >
-> **[0:03](https://www.linkedin.com/learning/advanced-sql-for-application-development/list-partitioning?u=76281980&t=3)** List partitioning is another type of horizontal partitioning, and like other forms of horizontal partitioning, we're going to use non overlapping keys, and basically the idea here is that we're going to partition on some value, a particular attribute, or some lists of values.
+> **[0:03](https://www.linkedin.com/learning/advanced-sql-for-application-development/list-partitioning?u=76281980&t=3)** List partitioning is another type of horizontal partitioning, and like other [[Forms]] of horizontal partitioning, we're going to use non overlapping keys, and basically the idea here is that we're going to partition on some value, a particular attribute, or some lists of values.
 >
 > **[0:20](https://www.linkedin.com/learning/advanced-sql-for-application-development/list-partitioning?u=76281980&t=20)** So here for example, I'm partitioning based on geographic location.
 >
@@ -1867,9 +1839,9 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/advanced-sql-for-application-development/list-partitioning?u=76281980&t=71)** The product category, of course, is one of the columns sits in the create table statement.
 >
-> **[1:16](https://www.linkedin.com/learning/advanced-sql-for-application-development/list-partitioning?u=76281980&t=76)** Now like range partitioning, when we're using Postgres, we need to specify the definitions for each of the partition.
+> **[1:16](https://www.linkedin.com/learning/advanced-sql-for-application-development/list-partitioning?u=76281980&t=76)** Now like range partitioning, when we're using [[PostgreSQL|Postgres]], we need to specify the definitions for each of the partition.
 >
-> **[1:23](https://www.linkedin.com/learning/advanced-sql-for-application-development/list-partitioning?u=76281980&t=83)** Now, here, instead of creating tables and then specifying them with time, for example, a table for week one, week two, week three, I'm specifying tables that are partitions of the product table, and I'm calling them things like product clothing, product electronics, product kitchen.
+> **[1:23](https://www.linkedin.com/learning/advanced-sql-for-application-development/list-partitioning?u=76281980&t=83)** Now, here, instead of creating tables and then specifying them with time, for example, a table for week one, week two, week three, I'm specifying tables that are partitions of the product table, and I'm calling them things like product clothing, product [[Electronics]], product kitchen.
 >
 > **[1:40](https://www.linkedin.com/learning/advanced-sql-for-application-development/list-partitioning?u=76281980&t=100)** So I'm partitioning by category, and the way I specify what categories belong to what partition, is I use a four values in clause.
 >
@@ -1899,13 +1871,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (9), [[Forms]] (2), [[Electronics]] (2), business (2), [[PostgreSQL|Postgres]] (1)
+> **Frameworks & Libraries:** [[Forms]] (2), [[Electronics]] (2), [[PostgreSQL|Postgres]] (1)
 > **Analogies:** for example (3)
 > **Definitions:** is a  (2)
 > **Speakers:** - [tutor] (1)
 
-#### Hash partitioning
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/hash-partitioning?u=76281980)
+#### [Hash partitioning](https://www.linkedin.com/learning/advanced-sql-for-application-development/hash-partitioning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1919,11 +1890,11 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/advanced-sql-for-application-development/hash-partitioning?u=76281980&t=31)** So we divide the partition key by three and then depending on the remainder, determine whether the partition should go into the petition with remainder zero or remainder one or remainder two.
 >
-> **[0:43](https://www.linkedin.com/learning/advanced-sql-for-application-development/hash-partitioning?u=76281980&t=43)** Now again, as with other forms of horizontal petitioning, the partition key determines which partition is used to store the data.
+> **[0:43](https://www.linkedin.com/learning/advanced-sql-for-application-development/hash-partitioning?u=76281980&t=43)** Now again, as with other [[Forms]] of horizontal petitioning, the partition key determines which partition is used to store the data.
 >
 > **[0:51](https://www.linkedin.com/learning/advanced-sql-for-application-development/hash-partitioning?u=76281980&t=51)** Now the modulus is the number of partitions we're going to use and that's the number we use for our division operation, our modulo division operation.
 >
-> **[1:00](https://www.linkedin.com/learning/advanced-sql-for-application-development/hash-partitioning?u=76281980&t=60)** Now, not all relational databases support partitioning by hash, but some of the more popular ones like PostgreSQL and Oracle and mySQL do.
+> **[1:00](https://www.linkedin.com/learning/advanced-sql-for-application-development/hash-partitioning?u=76281980&t=60)** Now, not all [[Relational Databases]] support partitioning by hash, but some of the more popular ones like [[PostgreSQL]] and Oracle and [[MySQL]] do.
 >
 > **[1:10](https://www.linkedin.com/learning/advanced-sql-for-application-development/hash-partitioning?u=76281980&t=70)** Let's take a look at a web path analysis example.
 >
@@ -1975,7 +1946,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[PostgreSQL]] (2), [[Forms]] (1), [[Relational Databases]] (1), [[MySQL]] (1)
+> **Frameworks & Libraries:** [[PostgreSQL]] (2), [[Forms]] (1), [[Relational Databases]] (1), [[MySQL]] (1)
 > **CLI Commands:** mysql (1), make (1)
 > **Code Identifiers:** mysql (1), ecommerce (1)
 > **Env Vars:** url (2)
@@ -1984,8 +1955,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
 
-#### Querying partitioned tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/querying-partitioned-tables?u=76281980)
+#### [Querying partitioned tables](https://www.linkedin.com/learning/advanced-sql-for-application-development/querying-partitioned-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2005,8 +1975,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Using read-only replicas
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/using-read-only-replicas?u=76281980)
+#### [Using read-only replicas](https://www.linkedin.com/learning/advanced-sql-for-application-development/using-read-only-replicas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2048,12 +2017,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), data (4)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
-#### Challenge: Define a partitioned table
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/challenge-define-a-partitioned-table?u=76281980)
+#### [Challenge: Define a partitioned table](https://www.linkedin.com/learning/advanced-sql-for-application-development/challenge-define-a-partitioned-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2071,13 +2038,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (chill music) (1)
 
-#### Solution: Defining a partitioned table
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/solution-defining-a-partitioned-table?u=76281980)
+#### [Solution: Defining a partitioned table](https://www.linkedin.com/learning/advanced-sql-for-application-development/solution-defining-a-partitioned-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2099,7 +2064,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), data (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2109,8 +2073,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Database errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/database-errors?u=76281980)
+#### [Database errors](https://www.linkedin.com/learning/advanced-sql-for-application-development/database-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2150,7 +2113,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/advanced-sql-for-application-development/database-errors?u=76281980&t=133)** Now there are also programming errors in a small group called not supported errors.
 >
-> **[2:18](https://www.linkedin.com/learning/advanced-sql-for-application-development/database-errors?u=76281980&t=138)** Programming errors examples include having an invalid schema name or a syntax error in your select statement or other data manipulation language statement, or if you're making a query using a select statement and you're joining two tables and both tables have a column with the same name, you have to be sure to use an alias.
+> **[2:18](https://www.linkedin.com/learning/advanced-sql-for-application-development/database-errors?u=76281980&t=138)** Programming errors examples include having an invalid schema name or a syntax error in your select statement or other [[Data Manipulation]] language statement, or if you're making a query using a select statement and you're joining two tables and both tables have a column with the same name, you have to be sure to use an alias.
 >
 > **[2:38](https://www.linkedin.com/learning/advanced-sql-for-application-development/database-errors?u=76281980&t=158)** If you don't, you'll get an ambiguous column error.
 >
@@ -2158,7 +2121,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), data (5), [[Programming]] (4), application (1), [[Data Manipulation]] (1)
+> **Frameworks & Libraries:** [[Data Manipulation]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** rdbms (1)
 > **Cross-References:** in the next (1)
@@ -2167,8 +2130,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Warnings:** watch out (1)
 
-#### Error trapping
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/error-trapping?u=76281980)
+#### [Error trapping](https://www.linkedin.com/learning/advanced-sql-for-application-development/error-trapping?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2182,7 +2144,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-sql-for-application-development/error-trapping?u=76281980&t=14)** So the first thing I want to do is import my database connection library and I also am going to be using environment variables, so import the OS package.
 >
-> **[0:27](https://www.linkedin.com/learning/advanced-sql-for-application-development/error-trapping?u=76281980&t=27)** And just to show you that I'm using invalid password, I'm going to set up a couple of environment variables for username and we'll set that to Postgres.
+> **[0:27](https://www.linkedin.com/learning/advanced-sql-for-application-development/error-trapping?u=76281980&t=27)** And just to show you that I'm using invalid password, I'm going to set up a couple of environment variables for username and we'll set that to [[PostgreSQL|Postgres]].
 >
 > **[0:36](https://www.linkedin.com/learning/advanced-sql-for-application-development/error-trapping?u=76281980&t=36)** We'll also have an environment variable for password.
 >
@@ -2206,7 +2168,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/advanced-sql-for-application-development/error-trapping?u=76281980&t=96)** Now let's make a connection or try to make a connection to the database and we'll create a connection variable and we'll call our database connection library.
 >
-> **[1:47](https://www.linkedin.com/learning/advanced-sql-for-application-development/error-trapping?u=76281980&t=107)** Actually it's the database driver library and we'll call the connect function and we'll specify our database, which you may recall is called E-com for short for E-commerce.
+> **[1:47](https://www.linkedin.com/learning/advanced-sql-for-application-development/error-trapping?u=76281980&t=107)** Actually it's the database driver library and we'll call the connect function and we'll specify our database, which you may recall is called E-com for short for [[E-Commerce]].
 >
 > **[1:59](https://www.linkedin.com/learning/advanced-sql-for-application-development/error-trapping?u=76281980&t=119)** And we'll specify the user and that's the value in our user variable and password.
 >
@@ -2230,7 +2192,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/advanced-sql-for-application-development/error-trapping?u=76281980&t=168)** So how can we handle this so that if this actually happened to one of our users, they wouldn't just crash and get this kind of stack trace?
 >
-> **[2:58](https://www.linkedin.com/learning/advanced-sql-for-application-development/error-trapping?u=76281980&t=178)** Well, in Python the way to do it is to use something called the try-except block and different programming languages have different variations on this construct, but the idea is always the same, which is basically you have some block of code that you attempt to execute and then if there's an error, there's another block of code you execute.
+> **[2:58](https://www.linkedin.com/learning/advanced-sql-for-application-development/error-trapping?u=76281980&t=178)** Well, in [[Python (Programming Language)|Python]] the way to do it is to use something called the try-except block and different programming languages have different variations on this construct, but the idea is always the same, which is basically you have some block of code that you attempt to execute and then if there's an error, there's another block of code you execute.
 >
 > **[3:16](https://www.linkedin.com/learning/advanced-sql-for-application-development/error-trapping?u=76281980&t=196)** So that in Python we specify the first block using this term, "try".
 >
@@ -2272,7 +2234,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), application (2), [[Python (Programming Language)|Python]] (2), [[PostgreSQL|Postgres]] (1), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[PostgreSQL|Postgres]] (1), [[E-Commerce]] (1)
 > **CLI Commands:** make (6), python (2)
 > **Definitions:** is called (1), short for (1), is an  (1), is a  (1)
 > **Analogies:** for example (2), such as (1)
@@ -2280,22 +2242,21 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Database not responding, timeouts, and exponential backoff
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/database-not-responding-timeouts-and-exponential-backoff?u=76281980)
+#### [Database not responding, timeouts, and exponential backoff](https://www.linkedin.com/learning/advanced-sql-for-application-development/database-not-responding-timeouts-and-exponential-backoff?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-application-development/database-not-responding-timeouts-and-exponential-backoff?u=76281980&t=0)** - Connection errors are a common problem with database applications.
+> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-application-development/database-not-responding-timeouts-and-exponential-backoff?u=76281980&t=0)** - Connection errors are a common problem with [[Database Applications]].
 >
 > **[0:04](https://www.linkedin.com/learning/advanced-sql-for-application-development/database-not-responding-timeouts-and-exponential-backoff?u=76281980&t=4)** And one way to deal with them is a technique called exponential backoff.
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-sql-for-application-development/database-not-responding-timeouts-and-exponential-backoff?u=76281980&t=7)** So let's take a look at what that is.
 >
-> **[0:09](https://www.linkedin.com/learning/advanced-sql-for-application-development/database-not-responding-timeouts-and-exponential-backoff?u=76281980&t=9)** Well, first of all, we want to understand that connection timeouts are due, because databases have limited resources, and those resources can become exhausted.
+> **[0:09](https://www.linkedin.com/learning/advanced-sql-for-application-development/database-not-responding-timeouts-and-exponential-backoff?u=76281980&t=9)** Well, first of all, we want to understand that connection timeouts are due, because [[Databases]] have limited resources, and those resources can become exhausted.
 >
 > **[0:19](https://www.linkedin.com/learning/advanced-sql-for-application-development/database-not-responding-timeouts-and-exponential-backoff?u=76281980&t=19)** So, for example, databases have connection pools.
 >
-> **[0:22](https://www.linkedin.com/learning/advanced-sql-for-application-development/database-not-responding-timeouts-and-exponential-backoff?u=76281980&t=22)** If all of the connections in the pool are in use, and there are no other connection available, then trying to make a connection and allocate one of those connection data structures, is going to fail.
+> **[0:22](https://www.linkedin.com/learning/advanced-sql-for-application-development/database-not-responding-timeouts-and-exponential-backoff?u=76281980&t=22)** If all of the connections in the pool are in use, and there are no other connection available, then trying to make a connection and allocate one of those connection [[Data Structures]], is going to fail.
 >
 > **[0:35](https://www.linkedin.com/learning/advanced-sql-for-application-development/database-not-responding-timeouts-and-exponential-backoff?u=76281980&t=35)** So you basically have to wait until one of those becomes available.
 >
@@ -2311,7 +2272,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/advanced-sql-for-application-development/database-not-responding-timeouts-and-exponential-backoff?u=76281980&t=76)** It's not like you did something wrong in your code, or you passed in an invalid password, or user name, or something like that.
 >
-> **[1:22](https://www.linkedin.com/learning/advanced-sql-for-application-development/database-not-responding-timeouts-and-exponential-backoff?u=76281980&t=82)** This is strictly a problem with the database engine itself, with the relational database management system.
+> **[1:22](https://www.linkedin.com/learning/advanced-sql-for-application-development/database-not-responding-timeouts-and-exponential-backoff?u=76281980&t=82)** This is strictly a problem with the database engine itself, with the relational [[Database Management]] system.
 >
 > **[1:29](https://www.linkedin.com/learning/advanced-sql-for-application-development/database-not-responding-timeouts-and-exponential-backoff?u=76281980&t=89)** And what's going on is that there's some kind of resource allocation error.
 >
@@ -2361,20 +2322,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (11), [[Databases]] (2), application (2), [[Database Applications]] (1), data (1)
+> **Frameworks & Libraries:** [[Databases]] (2), [[Database Applications]] (1), [[Data Structures]] (1), [[Database Management]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - connection (1)
 
-#### Connection pooling and bulk heads
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/connection-pooling-and-bulk-heads?u=76281980)
+#### [Connection pooling and bulk heads](https://www.linkedin.com/learning/advanced-sql-for-application-development/connection-pooling-and-bulk-heads?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-application-development/connection-pooling-and-bulk-heads?u=76281980&t=0)** - [Narrator] Now a common pattern used with database applications is something called bulkheads and we do that when we need to kind of isolate sets of resources and this is commonly used when we're working with connections, so a common problem, as we've noted, is connection pool exhaustion, and here the idea is that we have a lot of clients or database clients attempting to connect to the database and to make connections, you have access to a data structure called a connection, and oftentimes, those connections are maintained in pools and if we have a single pool of connections, then any client that attempts to access the database has to allocate a connection from that pool.
+> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-application-development/connection-pooling-and-bulk-heads?u=76281980&t=0)** - [Narrator] Now a common pattern used with [[Database Applications]] is something called bulkheads and we do that when we need to kind of isolate sets of resources and this is commonly used when we're working with connections, so a common problem, as we've noted, is connection pool exhaustion, and here the idea is that we have a lot of clients or database clients attempting to connect to the database and to make connections, you have access to a data structure called a connection, and oftentimes, those connections are maintained in pools and if we have a single pool of connections, then any client that attempts to access the database has to allocate a connection from that pool.
 >
-> **[0:42](https://www.linkedin.com/learning/advanced-sql-for-application-development/connection-pooling-and-bulk-heads?u=76281980&t=42)** Now, if that pool is exhausted, then any client trying to connect is going to fail, so one thing we can do is to create multiple pools and then have different clients tap into different pools and that allows us to isolate workloads, so for example we might have some high priority workloads, like our customers on the e-commerce site.
+> **[0:42](https://www.linkedin.com/learning/advanced-sql-for-application-development/connection-pooling-and-bulk-heads?u=76281980&t=42)** Now, if that pool is exhausted, then any client trying to connect is going to fail, so one thing we can do is to create multiple pools and then have different clients tap into different pools and that allows us to isolate workloads, so for example we might have some high priority workloads, like our customers on the [[E-Commerce]] site.
 >
 > **[1:02](https://www.linkedin.com/learning/advanced-sql-for-application-development/connection-pooling-and-bulk-heads?u=76281980&t=62)** We want to make sure they always get a connection so that they can purchase our goods.
 >
@@ -2392,31 +2352,30 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/advanced-sql-for-application-development/connection-pooling-and-bulk-heads?u=76281980&t=144)** When those parts of the application make connections to the database we can send them to, for example, connection pool one, and we can make connection pool one very large.
 >
-> **[2:32](https://www.linkedin.com/learning/advanced-sql-for-application-development/connection-pooling-and-bulk-heads?u=76281980&t=152)** Now, for our back end batch processing data warehouse extraction, any of those connections that are satisfying that particular workload, we're going to send those to connection pool two, which may be much smaller.
+> **[2:32](https://www.linkedin.com/learning/advanced-sql-for-application-development/connection-pooling-and-bulk-heads?u=76281980&t=152)** Now, for our back end [[Batch Processing]] data warehouse extraction, any of those connections that are satisfying that particular workload, we're going to send those to connection pool two, which may be much smaller.
 >
 > **[2:45](https://www.linkedin.com/learning/advanced-sql-for-application-development/connection-pooling-and-bulk-heads?u=76281980&t=165)** We may have, for example 10 connections there, so what this allows us to do is basically isolate or create bulkheads around our different pools, and the term bulkhead comes from the way ships are built and the idea that with bulkheads you can isolate sections of the ship so that if there is a breach in one part of the ship and it takes on water, the bulkheads isolate different sections so the water doesn't spread across all of the ship, so here the idea is something similar.
 >
 > **[3:17](https://www.linkedin.com/learning/advanced-sql-for-application-development/connection-pooling-and-bulk-heads?u=76281980&t=197)** If we run out of room in one pool, that doesn't cause ripple effects and connection failures in other parts.
 >
-> **[3:24](https://www.linkedin.com/learning/advanced-sql-for-application-development/connection-pooling-and-bulk-heads?u=76281980&t=204)** Now, you may need additional connection pool software in addition to your relational database management platform, so for example, Postgres, there's a couple of options, one called PgBouncer and another called Pgpool, and this is extra, essentially middleware that sites between the relational database and your client application, so depending on the database you're using, you probably have other connection pooling software options available to you, so that's something you just want to look into.
+> **[3:24](https://www.linkedin.com/learning/advanced-sql-for-application-development/connection-pooling-and-bulk-heads?u=76281980&t=204)** Now, you may need additional connection pool software in addition to your relational [[Database Management]] platform, so for example, [[PostgreSQL|Postgres]], there's a couple of options, one called PgBouncer and another called Pgpool, and this is extra, essentially middleware that sites between the relational database and your client application, so depending on the database you're using, you probably have other connection pooling software options available to you, so that's something you just want to look into.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (10), data (5), application (3), [[E-Commerce]] (2), [[Database Applications]] (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (2), [[Database Applications]] (1), [[Database Management]] (1), [[PostgreSQL|Postgres]] (1)
 > **CLI Commands:** make (7)
 > **Analogies:** for example (5)
 > **Definitions:** is a  (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
-#### Monitoring and logging best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/monitoring-and-logging-best-practices?u=76281980)
+#### [Monitoring and logging best practices](https://www.linkedin.com/learning/advanced-sql-for-application-development/monitoring-and-logging-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-sql-for-application-development/monitoring-and-logging-best-practices?u=76281980&t=0)** - [Instructor] Now, another area that we want to consider, when we're thinking in terms of reliability, is monitoring and logging.
 >
-> **[0:06](https://www.linkedin.com/learning/advanced-sql-for-application-development/monitoring-and-logging-best-practices?u=76281980&t=6)** Now, there are several reasons why we want to monitor and log events that are happening in our database and database applications.
+> **[0:06](https://www.linkedin.com/learning/advanced-sql-for-application-development/monitoring-and-logging-best-practices?u=76281980&t=6)** Now, there are several reasons why we want to monitor and log events that are happening in our database and [[Database Applications]].
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-sql-for-application-development/monitoring-and-logging-best-practices?u=76281980&t=14)** First of all, we want to just understand resource allocation.
 >
@@ -2442,7 +2401,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/advanced-sql-for-application-development/monitoring-and-logging-best-practices?u=76281980&t=87)** This is our disc storage, we want to make sure we have plenty of that available so that we don't run out of disc space, or SSD space, when we're in the middle of trying to write a high value transaction.
 >
-> **[1:38](https://www.linkedin.com/learning/advanced-sql-for-application-development/monitoring-and-logging-best-practices?u=76281980&t=98)** Now, with regards to capacity planning, we want to think in terms of our current utilization, but then also our growth rates.
+> **[1:38](https://www.linkedin.com/learning/advanced-sql-for-application-development/monitoring-and-logging-best-practices?u=76281980&t=98)** Now, with regards to [[Capacity Planning]], we want to think in terms of our current utilization, but then also our growth rates.
 >
 > **[1:44](https://www.linkedin.com/learning/advanced-sql-for-application-development/monitoring-and-logging-best-practices?u=76281980&t=104)** How fast are we growing in terms of the number of queries for running the CPU utilization?
 >
@@ -2452,7 +2411,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/advanced-sql-for-application-development/monitoring-and-logging-best-practices?u=76281980&t=119)** And, now, if you are used to Auto Scaling, say with Web Front-ends, and things like that, it's a great feature to have when you have a load balancer and you can detect high load, and you can add additional servers to your back-end cluster to handle, say, Web application.
 >
-> **[2:15](https://www.linkedin.com/learning/advanced-sql-for-application-development/monitoring-and-logging-best-practices?u=76281980&t=135)** Auto Scaling is much more difficult with stateful applications, like databases, so it's more important that you have adequate capacity planning so that you can add resources in a timely manner, and before you need them.
+> **[2:15](https://www.linkedin.com/learning/advanced-sql-for-application-development/monitoring-and-logging-best-practices?u=76281980&t=135)** Auto Scaling is much more difficult with stateful applications, like [[Databases]], so it's more important that you have adequate capacity planning so that you can add resources in a timely manner, and before you need them.
 >
 > **[2:26](https://www.linkedin.com/learning/advanced-sql-for-application-development/monitoring-and-logging-best-practices?u=76281980&t=146)** Also, as we noted, there's always going to be problems.
 >
@@ -2462,7 +2421,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/advanced-sql-for-application-development/monitoring-and-logging-best-practices?u=76281980&t=175)** And we may need to correlate events within the database with other events, such as, maybe, running out of disc space which would show an error in the operating system, or there may be a network latency problem, so we want to be able to look at network logs, and, possibly, correlate with events in the database.
 >
-> **[3:11](https://www.linkedin.com/learning/advanced-sql-for-application-development/monitoring-and-logging-best-practices?u=76281980&t=191)** And then finally, with regards to security, audit logs are really important, especially for high valued, highly regulated applications, like if you're in finance or some forms of government, or other industries like health care, where there are definitely well defined regulations that you have to comply with.
+> **[3:11](https://www.linkedin.com/learning/advanced-sql-for-application-development/monitoring-and-logging-best-practices?u=76281980&t=191)** And then finally, with regards to security, audit logs are really important, especially for high valued, highly regulated applications, like if you're in finance or some [[Forms]] of government, or other industries like health care, where there are definitely well defined regulations that you have to comply with.
 >
 > **[3:27](https://www.linkedin.com/learning/advanced-sql-for-application-development/monitoring-and-logging-best-practices?u=76281980&t=207)** And, so, we want to do things like record user activity, so if somebody's changing, you know, an important piece of information, say a medical record or a financial transaction, there's often times basic information that needs to be tracked and recorded about who made that change.
 >
@@ -2478,20 +2437,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), hit (4), [[Security]] (3), [[Capacity Planning]] (2), [[Database Applications]] (1)
+> **Frameworks & Libraries:** [[Capacity Planning]] (2), [[Database Applications]] (1), [[Databases]] (1), [[Forms]] (1)
 > **CLI Commands:** make (9), find (1)
 > **Env Vars:** cpu (3), ssd (1)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: When your Python application fails
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/challenge-when-your-python-application-fails?u=76281980)
+#### [Challenge: When your Python application fails](https://www.linkedin.com/learning/advanced-sql-for-application-development/challenge-when-your-python-application-fails?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-sql-for-application-development/challenge-when-your-python-application-fails?u=76281980&t=0)** - [Instructor] Here is a two part challenge.
 >
-> **[0:07](https://www.linkedin.com/learning/advanced-sql-for-application-development/challenge-when-your-python-application-fails?u=76281980&t=7)** First imagine your Python web application is failing and there's an unhandled exception and users are getting a stack trace.
+> **[0:07](https://www.linkedin.com/learning/advanced-sql-for-application-development/challenge-when-your-python-application-fails?u=76281980&t=7)** First imagine your [[Python (Programming Language)|Python]] web application is failing and there's an unhandled exception and users are getting a stack trace.
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-sql-for-application-development/challenge-when-your-python-application-fails?u=76281980&t=14)** And the cause of the problem is that connection to the database is failing.
 >
@@ -2501,21 +2459,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), database (2), web application (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: When your Python application fails
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/solution-when-your-python-application-fails?u=76281980)
+#### [Solution: When your Python application fails](https://www.linkedin.com/learning/advanced-sql-for-application-development/solution-when-your-python-application-fails?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-sql-for-application-development/solution-when-your-python-application-fails?u=76281980&t=0)** - [Instructor] Okay, the solution to the first part is the try-except block.
 >
-> **[0:10](https://www.linkedin.com/learning/advanced-sql-for-application-development/solution-when-your-python-application-fails?u=76281980&t=10)** Now, if you're not using Python and you're using another programming language, there's probably something very similar to try-except that you would find in that programming language.
+> **[0:10](https://www.linkedin.com/learning/advanced-sql-for-application-development/solution-when-your-python-application-fails?u=76281980&t=10)** Now, if you're not using [[Python (Programming Language)|Python]] and you're using another programming language, there's probably something very similar to try-except that you would find in that programming language.
 >
 > **[0:17](https://www.linkedin.com/learning/advanced-sql-for-application-development/solution-when-your-python-application-fails?u=76281980&t=17)** Now, the second part of the solution is the exponential backoff approach.
 >
@@ -2523,7 +2480,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2), [[Python (Programming Language)|Python]] (1), database (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1), find (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -2534,8 +2491,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding schema changes
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/understanding-schema-changes?u=76281980)
+#### [Understanding schema changes](https://www.linkedin.com/learning/advanced-sql-for-application-development/understanding-schema-changes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2547,11 +2503,11 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/advanced-sql-for-application-development/understanding-schema-changes?u=76281980&t=22)** Typically in response to changes in application features, but there may be other reasons too.
 >
-> **[0:27](https://www.linkedin.com/learning/advanced-sql-for-application-development/understanding-schema-changes?u=76281980&t=27)** For example, you may determine better ways to optimize performance of the database, so you want to make changes to the underlying data structures.
+> **[0:27](https://www.linkedin.com/learning/advanced-sql-for-application-development/understanding-schema-changes?u=76281980&t=27)** For example, you may determine better ways to optimize performance of the database, so you want to make changes to the underlying [[Data Structures]].
 >
 > **[0:36](https://www.linkedin.com/learning/advanced-sql-for-application-development/understanding-schema-changes?u=76281980&t=36)** Often times, these changes come in the form of adding new tables or columns or indexes, or sometimes dropping some of those things, like dropping a column that you no longer need, or dropping an index that you find is not actually used that much and so it's not worth keeping around.
 >
-> **[0:51](https://www.linkedin.com/learning/advanced-sql-for-application-development/understanding-schema-changes?u=76281980&t=51)** Also, in modern development environments where we have like agile practices, we often find that there are multiple environments.
+> **[0:51](https://www.linkedin.com/learning/advanced-sql-for-application-development/understanding-schema-changes?u=76281980&t=51)** Also, in modern development environments where we have like [[Agile Development|agile]] practices, we often find that there are multiple environments.
 >
 > **[0:59](https://www.linkedin.com/learning/advanced-sql-for-application-development/understanding-schema-changes?u=76281980&t=59)** For example, each software engineer might have a local development environment, and then there might a common test environment, and then, of course, there's the production environment.
 >
@@ -2603,14 +2559,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (13), data (11), application (3), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Data Structures]] (1), [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (4), find (2)
 > **Analogies:** for example (4), such as (1)
 > **Warnings:** keep in mind (2)
 > **Speakers:** - [instructor] (1)
 
-#### Ad hoc scripts for schema changes
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/ad-hoc-scripts-for-schema-changes?u=76281980)
+#### [Ad hoc scripts for schema changes](https://www.linkedin.com/learning/advanced-sql-for-application-development/ad-hoc-scripts-for-schema-changes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2668,13 +2623,13 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/advanced-sql-for-application-development/ad-hoc-scripts-for-schema-changes?u=76281980&t=175)** So for example, log changes to a database table so that you understand which environments are running which versions of the database.
 >
-> **[3:01](https://www.linkedin.com/learning/advanced-sql-for-application-development/ad-hoc-scripts-for-schema-changes?u=76281980&t=181)** And of course implement version control.
+> **[3:01](https://www.linkedin.com/learning/advanced-sql-for-application-development/ad-hoc-scripts-for-schema-changes?u=76281980&t=181)** And of course implement [[Version Control]].
 >
-> **[3:04](https://www.linkedin.com/learning/advanced-sql-for-application-development/ad-hoc-scripts-for-schema-changes?u=76281980&t=184)** Just as your application code is stored in a version control repository like GitHub or Bitbucket, make sure your database modification scripts are as well.
+> **[3:04](https://www.linkedin.com/learning/advanced-sql-for-application-development/ad-hoc-scripts-for-schema-changes?u=76281980&t=184)** Just as your application code is stored in a version control repository like [[GitHub]] or [[Bitbucket]], make sure your database modification scripts are as well.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), data (7), application (3), [[Version Control]] (2), hit (1)
+> **Frameworks & Libraries:** [[Version Control]] (2), [[GitHub]] (1), [[Bitbucket]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Warnings:** keep in mind (2), watch out (2)
 > **Analogies:** for example (3)
@@ -2682,8 +2637,7 @@ created: 2026-05-02
 > **Tools:** github (1), bitbucket (1)
 > **Speakers:** - [narrator] (1)
 
-#### Automated schema migration with Flyway
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/automated-schema-migration-with-flyway?u=76281980)
+#### [Automated schema migration with Flyway](https://www.linkedin.com/learning/advanced-sql-for-application-development/automated-schema-migration-with-flyway?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2693,11 +2647,11 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/advanced-sql-for-application-development/automated-schema-migration-with-flyway?u=76281980&t=12)** The first one we're going to look at is called Flyway.
 >
-> **[0:15](https://www.linkedin.com/learning/advanced-sql-for-application-development/automated-schema-migration-with-flyway?u=76281980&t=15)** Flyway is a version control system for database schemas and it's available from [flywaydb.org](https://flywaydb.org).
+> **[0:15](https://www.linkedin.com/learning/advanced-sql-for-application-development/automated-schema-migration-with-flyway?u=76281980&t=15)** Flyway is a [[Version Control]] system for database schemas and it's available from [flywaydb.org](https://flywaydb.org).
 >
-> **[0:23](https://www.linkedin.com/learning/advanced-sql-for-application-development/automated-schema-migration-with-flyway?u=76281980&t=23)** Flyway is based on SQL scripts, so when you create migration scripts using Flyway, you're basically writing SQL scripts, which then Flyway manages for you and executes for you, relieving you of some of the sort of error-prone tedious manual processes.
+> **[0:23](https://www.linkedin.com/learning/advanced-sql-for-application-development/automated-schema-migration-with-flyway?u=76281980&t=23)** Flyway is based on [[SQL]] scripts, so when you create migration scripts using Flyway, you're basically writing SQL scripts, which then Flyway manages for you and executes for you, relieving you of some of the sort of error-prone tedious manual processes.
 >
-> **[0:38](https://www.linkedin.com/learning/advanced-sql-for-application-development/automated-schema-migration-with-flyway?u=76281980&t=38)** So Flyway is a good way to migrate databases with code updates in a managed way, and it has other features, like the ability to detect inconsistent and failed migrations.
+> **[0:38](https://www.linkedin.com/learning/advanced-sql-for-application-development/automated-schema-migration-with-flyway?u=76281980&t=38)** So Flyway is a good way to migrate [[Databases]] with code updates in a managed way, and it has other features, like the ability to detect inconsistent and failed migrations.
 >
 > **[0:49](https://www.linkedin.com/learning/advanced-sql-for-application-development/automated-schema-migration-with-flyway?u=76281980&t=49)** And that's really important, because as we've discussed earlier, one of the things we have to watch out for is having a partially implemented migration or set of changes.
 >
@@ -2711,7 +2665,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/advanced-sql-for-application-development/automated-schema-migration-with-flyway?u=76281980&t=85)** Now, when you actually use Flyway, there's a number of different ways you can deploy it, or actually execute it.
 >
-> **[1:30](https://www.linkedin.com/learning/advanced-sql-for-application-development/automated-schema-migration-with-flyway?u=76281980&t=90)** One is with the command line, but it also has an API, and there are also plugins for software engineering tools, like Maven and Gradle.
+> **[1:30](https://www.linkedin.com/learning/advanced-sql-for-application-development/automated-schema-migration-with-flyway?u=76281980&t=90)** One is with the command line, but it also has an API, and there are also plugins for software engineering tools, like Maven and [[Gradle]].
 >
 > **[1:38](https://www.linkedin.com/learning/advanced-sql-for-application-development/automated-schema-migration-with-flyway?u=76281980&t=98)** Now, Flyway is available in a number of different versions.
 >
@@ -2723,11 +2677,11 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/advanced-sql-for-application-development/automated-schema-migration-with-flyway?u=76281980&t=112)** Enterprise has even more features than Pro.
 >
-> **[1:54](https://www.linkedin.com/learning/advanced-sql-for-application-development/automated-schema-migration-with-flyway?u=76281980&t=114)** Now, if you want to check out Flyway, you can download the community version from GitHub and it's at this address here.
+> **[1:54](https://www.linkedin.com/learning/advanced-sql-for-application-development/automated-schema-migration-with-flyway?u=76281980&t=114)** Now, if you want to check out Flyway, you can download the community version from [[GitHub]] and it's at this address here.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), [[SQL]] (2), data (2), [[Version Control]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Version Control]] (1), [[Databases]] (1), [[Gradle]] (1), [[GitHub]] (1)
 > **Definitions:** is called (3), is a  (3)
 > **Env Vars:** sql (2), api (1)
 > **Tools:** command line (1), github (1)
@@ -2736,8 +2690,7 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Analogies:** for example (1)
 
-#### Automated schema migration with Liquibase
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/automated-schema-migration-with-liquibase?u=76281980)
+#### [Automated schema migration with Liquibase](https://www.linkedin.com/learning/advanced-sql-for-application-development/automated-schema-migration-with-liquibase?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2745,17 +2698,17 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-sql-for-application-development/automated-schema-migration-with-liquibase?u=76281980&t=6)** Now Liquibase is available at [liquibase.org](https://liquibase.org).
 >
-> **[0:09](https://www.linkedin.com/learning/advanced-sql-for-application-development/automated-schema-migration-with-liquibase?u=76281980&t=9)** And it too is a version control system for database schemas.
+> **[0:09](https://www.linkedin.com/learning/advanced-sql-for-application-development/automated-schema-migration-with-liquibase?u=76281980&t=9)** And it too is a [[Version Control]] system for database schemas.
 >
-> **[0:13](https://www.linkedin.com/learning/advanced-sql-for-application-development/automated-schema-migration-with-liquibase?u=76281980&t=13)** Now, unlike Flyway, which requires that you script your changes in SQL, Liquibase can do that.
+> **[0:13](https://www.linkedin.com/learning/advanced-sql-for-application-development/automated-schema-migration-with-liquibase?u=76281980&t=13)** Now, unlike Flyway, which requires that you script your changes in [[SQL]], Liquibase can do that.
 >
-> **[0:21](https://www.linkedin.com/learning/advanced-sql-for-application-development/automated-schema-migration-with-liquibase?u=76281980&t=21)** You can support, use SQL, but you can also use more abstract specifications that are written in XML, JSON or YAML.
+> **[0:21](https://www.linkedin.com/learning/advanced-sql-for-application-development/automated-schema-migration-with-liquibase?u=76281980&t=21)** You can support, use SQL, but you can also use more abstract specifications that are written in XML, [[JSON]] or YAML.
 >
 > **[0:29](https://www.linkedin.com/learning/advanced-sql-for-application-development/automated-schema-migration-with-liquibase?u=76281980&t=29)** Those XML, JSON, and YAML specifications will then be used to generate database specific SQL.
 >
-> **[0:36](https://www.linkedin.com/learning/advanced-sql-for-application-development/automated-schema-migration-with-liquibase?u=76281980&t=36)** And that's really nice if you're working with multiple databases.
+> **[0:36](https://www.linkedin.com/learning/advanced-sql-for-application-development/automated-schema-migration-with-liquibase?u=76281980&t=36)** And that's really nice if you're working with multiple [[Databases]].
 >
-> **[0:40](https://www.linkedin.com/learning/advanced-sql-for-application-development/automated-schema-migration-with-liquibase?u=76281980&t=40)** So for example, if you have an application that you want to be able to run on top of Postgres, and SQL Server and MySQL, then using something like Liquibase, and specifying your changes in YAML will help you avoid any database specific SQL issues with your migration scripts.
+> **[0:40](https://www.linkedin.com/learning/advanced-sql-for-application-development/automated-schema-migration-with-liquibase?u=76281980&t=40)** So for example, if you have an application that you want to be able to run on top of [[PostgreSQL|Postgres]], and [[Microsoft SQL Server|SQL Server]] and [[MySQL]], then using something like Liquibase, and specifying your changes in YAML will help you avoid any database specific SQL issues with your migration scripts.
 >
 > **[0:57](https://www.linkedin.com/learning/advanced-sql-for-application-development/automated-schema-migration-with-liquibase?u=76281980&t=57)** Now Liquibase uses a couple of mechanisms that are important to understand.
 >
@@ -2783,9 +2736,9 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/advanced-sql-for-application-development/automated-schema-migration-with-liquibase?u=76281980&t=113)** It also works with Ant and Maven.
 >
-> **[1:55](https://www.linkedin.com/learning/advanced-sql-for-application-development/automated-schema-migration-with-liquibase?u=76281980&t=115)** These are software engineering tools, and Spring if you're familiar with Java.
+> **[1:55](https://www.linkedin.com/learning/advanced-sql-for-application-development/automated-schema-migration-with-liquibase?u=76281980&t=115)** These are software engineering tools, and Spring if you're familiar with [[Java]].
 >
-> **[1:59](https://www.linkedin.com/learning/advanced-sql-for-application-development/automated-schema-migration-with-liquibase?u=76281980&t=119)** And also, if you're working in Java and using a dependency injection management tool like JEE CDI, you can use Liquibase with that as well.
+> **[1:59](https://www.linkedin.com/learning/advanced-sql-for-application-development/automated-schema-migration-with-liquibase?u=76281980&t=119)** And also, if you're working in Java and using a [[Dependency Injection]] management tool like JEE CDI, you can use Liquibase with that as well.
 >
 > **[2:09](https://www.linkedin.com/learning/advanced-sql-for-application-development/automated-schema-migration-with-liquibase?u=76281980&t=129)** Now, there are multiple versions of Liquibase.
 >
@@ -2797,7 +2750,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), [[SQL]] (5), [[JSON]] (2), [[Java]] (2), [[Version Control]] (1)
+> **Frameworks & Libraries:** [[SQL]] (5), [[JSON]] (2), [[Java]] (2), [[Version Control]] (1), [[Databases]] (1)
 > **Env Vars:** sql (6), yaml (3), xml (2), json (2), ddl (1)
 > **CLI Commands:** mysql (1), make (1), apache (1)
 > **Definitions:** is called (1), is a  (1)
@@ -2806,8 +2759,7 @@ created: 2026-05-02
 > **Documentation:** specification (1)
 > **Tools:** command line (1)
 
-#### Challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/challenge?u=76281980)
+#### [Challenge](https://www.linkedin.com/learning/advanced-sql-for-application-development/challenge?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2815,7 +2767,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-sql-for-application-development/challenge?u=76281980&t=5)** - [Instructor] Here's a challenge with regards to database schema migrations.
 >
-> **[0:09](https://www.linkedin.com/learning/advanced-sql-for-application-development/challenge?u=76281980&t=9)** Consider what you would need to do to add a new attribute, called export code, which is a string of length 15, and we're going to add that to the products table in our ecommerce database.
+> **[0:09](https://www.linkedin.com/learning/advanced-sql-for-application-development/challenge?u=76281980&t=9)** Consider what you would need to do to add a new attribute, called export code, which is a string of length 15, and we're going to add that to the [[Microsoft Products|products]] table in our ecommerce database.
 >
 > **[0:19](https://www.linkedin.com/learning/advanced-sql-for-application-development/challenge?u=76281980&t=19)** We're then going to add 10 new products to the product table, and they're going to have their export code attribute set to restricted.
 >
@@ -2825,15 +2777,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), database (2), product (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3)
 > **Env Vars:** ddl (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (chill music) (1)
 
-#### Solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/solution?u=76281980)
+#### [Solution](https://www.linkedin.com/learning/advanced-sql-for-application-development/solution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2847,7 +2798,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), data (2)
 > **Definitions:** is an  (1), is called (1)
 > **Env Vars:** ddl (1)
 > **Speakers:** - [instructor] (1)
@@ -2858,18 +2808,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Key considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/key-considerations?u=76281980)
+#### [Key considerations](https://www.linkedin.com/learning/advanced-sql-for-application-development/key-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-application-development/key-considerations?u=76281980&t=0)** - [Dan] Developing database applications is a complicated process.
+> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-application-development/key-considerations?u=76281980&t=0)** - [Dan] Developing [[Database Applications]] is a complicated process.
 >
-> **[0:04](https://www.linkedin.com/learning/advanced-sql-for-application-development/key-considerations?u=76281980&t=4)** And working with databases is much more than running select statements or inserting data.
+> **[0:04](https://www.linkedin.com/learning/advanced-sql-for-application-development/key-considerations?u=76281980&t=4)** And working with [[Databases]] is much more than running select statements or inserting data.
 >
-> **[0:09](https://www.linkedin.com/learning/advanced-sql-for-application-development/key-considerations?u=76281980&t=9)** So here's some key design considerations that you should keep in mind when you start planning for database application development.
+> **[0:09](https://www.linkedin.com/learning/advanced-sql-for-application-development/key-considerations?u=76281980&t=9)** So here's some key design considerations that you should keep in mind when you start planning for database [[Application Development]].
 >
-> **[0:16](https://www.linkedin.com/learning/advanced-sql-for-application-development/key-considerations?u=76281980&t=16)** So the things we want to keep in mind, first and foremost is always a SQL query performance.
+> **[0:16](https://www.linkedin.com/learning/advanced-sql-for-application-development/key-considerations?u=76281980&t=16)** So the things we want to keep in mind, first and foremost is always a [[SQL]] query performance.
 >
 > **[0:22](https://www.linkedin.com/learning/advanced-sql-for-application-development/key-considerations?u=76281980&t=22)** How will we write our queries and how will they perform especially as data grows and our number of users that are working with our application increases?
 >
@@ -2877,13 +2826,13 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/advanced-sql-for-application-development/key-considerations?u=76281980&t=39)** We really need to hit the Goldilocks zone with that sweet spot between not too many and not too few indexing.
 >
-> **[0:45](https://www.linkedin.com/learning/advanced-sql-for-application-development/key-considerations?u=76281980&t=45)** And sometimes you can make good guesses early on, in the application design phase as to which indexes that will be needed, but you may not know until the application is actually deployed and you have actual evidence and performance metrics from usage to help you guide your indexing strategy.
+> **[0:45](https://www.linkedin.com/learning/advanced-sql-for-application-development/key-considerations?u=76281980&t=45)** And sometimes you can make good guesses early on, in the application design phase as to which indexes that will be needed, but you may not know until the application is actually deployed and you have actual evidence and [[Performance Metrics]] from usage to help you guide your indexing strategy.
 >
 > **[1:03](https://www.linkedin.com/learning/advanced-sql-for-application-development/key-considerations?u=76281980&t=63)** Also, if you're using an object oriented programming model, then you may want to consider object-relational mapping so that you don't kind of mix metaphors within your application code.
 >
 > **[1:13](https://www.linkedin.com/learning/advanced-sql-for-application-development/key-considerations?u=76281980&t=73)** There are some drawbacks to object-relational mapping in very complex data model situations, but do consider ORM, if you are working with objects oriented programming paradigms.
 >
-> **[1:25](https://www.linkedin.com/learning/advanced-sql-for-application-development/key-considerations?u=76281980&t=85)** Also, you want to consider scalability.
+> **[1:25](https://www.linkedin.com/learning/advanced-sql-for-application-development/key-considerations?u=76281980&t=85)** Also, you want to consider [[Scalability]].
 >
 > **[1:27](https://www.linkedin.com/learning/advanced-sql-for-application-development/key-considerations?u=76281980&t=87)** Now, a couple of things that we can do to improve scalability is to think about how we will partition our data going forward, especially as it grows, and also how we might be able to use replications, like in particular Read-Only replicas to isolate IO operations so that right operations are targeted to the primary replica and then reads can be sent to one or more read replicas.
 >
@@ -2897,13 +2846,13 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/advanced-sql-for-application-development/key-considerations?u=76281980&t=130)** Your application code changes and so will the database.
 >
-> **[2:13](https://www.linkedin.com/learning/advanced-sql-for-application-development/key-considerations?u=76281980&t=133)** So be sure to use the same good practices that you use with application code, like version control, and testing and rolling out and rolling back.
+> **[2:13](https://www.linkedin.com/learning/advanced-sql-for-application-development/key-considerations?u=76281980&t=133)** So be sure to use the same good practices that you use with application code, like [[Version Control]], and testing and rolling out and rolling back.
 >
 > **[2:23](https://www.linkedin.com/learning/advanced-sql-for-application-development/key-considerations?u=76281980&t=143)** Make sure you have similar practices for keeping your database up to date.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), data (4), database (4), [[Database Applications]] (2), [[Databases]] (2)
+> **Frameworks & Libraries:** [[Database Applications]] (2), [[Databases]] (2), [[Scalability]] (2), [[Application Development]] (1), [[SQL]] (1)
 > **CLI Commands:** make (5)
 > **Warnings:** keep in mind (3)
 > **Env Vars:** sql (1), orm (1)

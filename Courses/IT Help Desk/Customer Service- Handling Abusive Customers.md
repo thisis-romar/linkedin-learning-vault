@@ -72,8 +72,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Handling abusive customers
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/handling-abusive-customers?u=76281980)
+#### [Handling abusive customers](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/handling-abusive-customers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -97,12 +96,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (1), business (1)
 > **Env Vars:** ceo (1)
 > **Speakers:** - have (1)
 
-#### Understanding why customers are abusive
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/understanding-why-customers-are-abusive?u=76281980)
+#### [Understanding why customers are abusive](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/understanding-why-customers-are-abusive?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -166,7 +163,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/understanding-why-customers-are-abusive?u=76281980&t=157)** How would that make you feel?
 >
-> **[2:40](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/understanding-why-customers-are-abusive?u=76281980&t=160)** The other thing I want to point out is that none of these reasons have anything to do with you nor even your company's products or services.
+> **[2:40](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/understanding-why-customers-are-abusive?u=76281980&t=160)** The other thing I want to point out is that none of these reasons have anything to do with you nor even your company's [[Microsoft Products|products]] or services.
 >
 > **[2:49](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/understanding-why-customers-are-abusive?u=76281980&t=169)** Customers are most often abusive because they're going through something tough in their lives and they're not dealing with it well.
 >
@@ -176,7 +173,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (1), [[Microsoft Products|Products]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** imagine (2)
 > **Speakers:** - our (1)
@@ -186,8 +183,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Assessing the customer service interaction
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/assessing-the-customer-service-interaction?u=76281980)
+#### [Assessing the customer service interaction](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/assessing-the-customer-service-interaction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -241,7 +237,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/assessing-the-customer-service-interaction?u=76281980&t=135)** In this case, you'll have a better chance of appeasing the customer and calming them down when you use positive communication.
 >
-> **[2:24](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/assessing-the-customer-service-interaction?u=76281980&t=144)** Positive communication is when you do everything you can to avoid the word "no" in order to keep the transaction moving in a positive direction.
+> **[2:24](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/assessing-the-customer-service-interaction?u=76281980&t=144)** Positive communication is when you do everything you can to avoid the [[Microsoft Word|word]] "no" in order to keep the transaction moving in a positive direction.
 >
 > **[2:33](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/assessing-the-customer-service-interaction?u=76281980&t=153)** My favorite phrase when it comes to this concept is, "I wish I could. What I can do for you is..."
 >
@@ -257,12 +253,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Speakers:** - three (1)
 
-#### Reassuring the customer
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/reassuring-the-customer?u=76281980)
+#### [Reassuring the customer](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/reassuring-the-customer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -318,7 +313,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/reassuring-the-customer?u=76281980&t=76)** So I'm getting ready to head out of my hotel to a restaurant to go to dinner, and the phone rings again.
 >
-> **[1:22](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/reassuring-the-customer?u=76281980&t=82)** This time I get yet another customer service rep, John, from the phone company, but he was different.
+> **[1:22](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/reassuring-the-customer?u=76281980&t=82)** This time I get yet another customer service rep, [[John the Ripper|John]], from the phone company, but he was different.
 >
 > **[1:29](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/reassuring-the-customer?u=76281980&t=89)** I explained my problem to him and he said, "I know how frustrating that can be.
 >
@@ -378,15 +373,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (5)
 > **Env Vars:** asap (3)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - a (1)
 
-#### Using empathy to show you care
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/using-empathy-to-show-you-care?u=76281980)
+#### [Using empathy to show you care](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/using-empathy-to-show-you-care?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -486,15 +480,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), product (1), [[Security]] (1), next (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - have (1)
 
-#### Changing the customer focus
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/changing-the-customer-focus?u=76281980)
+#### [Changing the customer focus](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/changing-the-customer-focus?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -580,7 +572,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), power (1), teams (1)
 > **CLI Commands:** snap (1)
 > **Cross-References:** earlier in (1)
 > **Definitions:** is a  (1)
@@ -588,8 +579,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - when (1)
 
-#### Resolving the customer's issue
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/resolving-the-customer-s-issue?u=76281980)
+#### [Resolving the customer's issue](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/resolving-the-customer-s-issue?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -655,13 +645,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - i (1)
 
-#### Ending the customer interaction
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/ending-the-customer-interaction?u=76281980)
+#### [Ending the customer interaction](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/ending-the-customer-interaction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -733,14 +721,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1), next (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - your (1)
 
-#### Following up with the customer
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/following-up-with-the-customer?u=76281980)
+#### [Following up with the customer](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/following-up-with-the-customer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -806,7 +792,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), next (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - when (1)
@@ -816,8 +801,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Handling an abusive customer on the phone
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/handling-an-abusive-customer-on-the-phone?u=76281980)
+#### [Handling an abusive customer on the phone](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/handling-an-abusive-customer-on-the-phone?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -865,7 +849,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/handling-an-abusive-customer-on-the-phone?u=76281980&t=66)** I know how frustrating this can be.
 >
-> **[1:07](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/handling-an-abusive-customer-on-the-phone?u=76281980&t=67)** I've expected products on a certain date and didn't get them, and it was a real bummer, but my goal is to make sure that you leave this conversation happy, so I will do whatever I can to remedy the situation for you ASAP.
+> **[1:07](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/handling-an-abusive-customer-on-the-phone?u=76281980&t=67)** I've expected [[Microsoft Products|products]] on a certain date and didn't get them, and it was a real bummer, but my goal is to make sure that you leave this conversation happy, so I will do whatever I can to remedy the situation for you ASAP.
 >
 > **[1:20](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/handling-an-abusive-customer-on-the-phone?u=76281980&t=80)** Let me have a look at your order now.
 >
@@ -981,14 +965,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[Microsoft Products|Products]] (2), business (2), next (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **Speakers:** - i (6), - okay (3), - now (1), - thank (1), - jim (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** asap (1)
 > **Non-Speech:** (phone clicking) (1)
 
-#### Handling an abusive customer in person
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/handling-an-abusive-customer-in-person?u=76281980)
+#### [Handling an abusive customer in person](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/handling-an-abusive-customer-in-person?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1100,7 +1083,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), next (1)
 > **Speakers:** - you (4), - i (3), - if (1), - where (1), - oh (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -1110,8 +1092,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Confidently deal with abusive customers
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/confidently-deal-with-abusive-customers?u=76281980)
+#### [Confidently deal with abusive customers](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/confidently-deal-with-abusive-customers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1151,7 +1132,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (2)
 > **URLs:** [davidbrownlee.com](https://davidbrownlee.com) (1)
 > **Speakers:** - i (1)

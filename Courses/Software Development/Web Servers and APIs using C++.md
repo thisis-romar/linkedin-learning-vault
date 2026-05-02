@@ -96,8 +96,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why use C++ to make a website?
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/why-use-c-plus-plus-to-make-a-website-25621006?u=76281980)
+#### [Why use C++ to make a website?](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/why-use-c-plus-plus-to-make-a-website-25621006?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -107,7 +106,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/why-use-c-plus-plus-to-make-a-website-25621006?u=76281980&t=10)** On the web, this means your users will wait less for your site to render.
 >
-> **[0:14](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/why-use-c-plus-plus-to-make-a-website-25621006?u=76281980&t=14)** Our goal in this LinkedIn Learning course is simple, show you how to build a website in C++ using MongoDB as the database and deploy it to the internet using Heroku as our cloud server.
+> **[0:14](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/why-use-c-plus-plus-to-make-a-website-25621006?u=76281980&t=14)** Our goal in this [[LinkedIn]] Learning course is simple, show you how to build a website in C++ using [[MongoDB]] as the database and deploy it to the internet using Heroku as our cloud server.
 >
 > **[0:25](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/why-use-c-plus-plus-to-make-a-website-25621006?u=76281980&t=25)** Hi, my name is Troy Miles and I'm a Senior Software Engineer.
 >
@@ -115,7 +114,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1), [[LinkedIn]] (1), [[MongoDB]] (1), database (1), cloud (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[MongoDB]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [troy] (1)
 
@@ -124,8 +123,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Installing Docker
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/installing-docker?u=76281980)
+#### [Installing Docker](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/installing-docker?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -147,7 +145,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/installing-docker?u=76281980&t=41)** Click on the button for your operating system.
 >
-> **[0:43](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/installing-docker?u=76281980&t=43)** Docker supports macOS, Windows, and most versions of Linux.
+> **[0:43](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/installing-docker?u=76281980&t=43)** Docker supports macOS, [[Windows]], and most versions of [[Linux]].
 >
 > **[0:47](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/installing-docker?u=76281980&t=47)** I'm gonna choose the Mac.
 >
@@ -159,7 +157,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/installing-docker?u=76281980&t=62)** Once the package finishes downloading, open it and finish the installation.
 >
-> **[1:06](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/installing-docker?u=76281980&t=66)** When you finish, you will have the Docker app available from your desktop, and the Docker CLI from the terminal.
+> **[1:06](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/installing-docker?u=76281980&t=66)** When you finish, you will have the Docker app available from your desktop, and the Docker [[CLI]] from the terminal.
 >
 > **[1:15](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/installing-docker?u=76281980&t=75)** So here is the Docker app.
 >
@@ -178,8 +176,7 @@ created: 2026-05-02
 > **URLs:** [docker.com](https://docker.com) (1)
 > **Exercise Files:** download the (1)
 
-#### Installing Atom
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/installing-atom?u=76281980)
+#### [Installing Atom](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/installing-atom?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -201,7 +198,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1), open-source (1)
 > **Tools:** atom (4), command line (1)
 > **CLI Commands:** find (1)
 > **URLs:** [atom.io](https://atom.io) (1)
@@ -210,12 +206,11 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Docker
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/docker?u=76281980)
+#### [Docker](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/docker?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/docker?u=76281980&t=0)** - [Instructor] Welcome to our C++ web development journey.
+> **[0:00](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/docker?u=76281980&t=0)** - [Instructor] Welcome to our C++ [[Web Development]] journey.
 >
 > **[0:03](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/docker?u=76281980&t=3)** In this tutorial, you'll build your first web server using C++ and the Crow framework.
 >
@@ -225,9 +220,9 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/docker?u=76281980&t=19)** Follow along and you will have a working web server in minutes.
 >
-> **[0:24](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/docker?u=76281980&t=24)** The quickest way for us to get started is to use Git.
+> **[0:24](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/docker?u=76281980&t=24)** The quickest way for us to get started is to use [[Git]].
 >
-> **[0:28](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/docker?u=76281980&t=28)** We can use my GitHub repo, which is hosted at [https://github.com/Rockncoder](https://github.com/Rockncoder) /web-servers-and-apis-using-cpp with each word separated by a dash and clone it to a directory named cppweb.
+> **[0:28](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/docker?u=76281980&t=28)** We can use my [[GitHub]] repo, which is hosted at [https://github.com/Rockncoder](https://github.com/Rockncoder) /web-servers-and-apis-using-cpp with each [[Microsoft Word|word]] separated by a dash and clone it to a directory named cppweb.
 >
 > **[0:51](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/docker?u=76281980&t=51)** If you don't have Git installed on your machine, you can go to the repository, find the green Code button, click the down arrow on the right side of the button, and then click the Download ZIP link.
 >
@@ -249,7 +244,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/docker?u=76281980&t=142)** It starts with a slim Debian base, grabs all of our dev tools.
 >
-> **[2:32](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/docker?u=76281980&t=152)** cmake, make, Boost libraries and MongoDB's C++ drivers.
+> **[2:32](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/docker?u=76281980&t=152)** cmake, make, Boost libraries and [[MongoDB]]'s C++ drivers.
 >
 > **[2:39](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/docker?u=76281980&t=159)** We set up MongoDB properly by installing both its C core, libmongoc and C++ wrapper.
 >
@@ -301,13 +296,13 @@ created: 2026-05-02
 >
 > **[5:15](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/docker?u=76281980&t=315)** It's basically Flask for C++, letting you whip up endpoints with dead simple syntax.
 >
-> **[5:21](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/docker?u=76281980&t=321)** Want a REST API?
+> **[5:21](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/docker?u=76281980&t=321)** Want a [[Representational State Transfer (REST)|REST]] API?
 >
 > **[5:23](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/docker?u=76281980&t=323)** Just slap a crow route on there.
 >
 > **[5:25](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/docker?u=76281980&t=325)** Toss in a Lambda and you're cooking.
 >
-> **[5:27](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/docker?u=76281980&t=327)** It handles all the HTTP heavy lifting, request parsing and JSON stuff under the hood.
+> **[5:27](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/docker?u=76281980&t=327)** It handles all the HTTP heavy lifting, request parsing and [[JSON]] stuff under the hood.
 >
 > **[5:33](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/docker?u=76281980&t=333)** Single header, zero fuss.
 >
@@ -321,7 +316,7 @@ created: 2026-05-02
 >
 > **[5:50](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/docker?u=76281980&t=350)** Just a handful of lines to get up and running.
 >
-> **[5:54](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/docker?u=76281980&t=354)** We create a Crow app, set up a root route that shoots back a quick Hello, Crow in HTML, and then the cool part, it auto grabs a port from your environment variables or defaults to 8080 if none is set.
+> **[5:54](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/docker?u=76281980&t=354)** We create a Crow app, set up a root route that shoots back a quick Hello, Crow in [[HTML]], and then the cool part, it auto grabs a port from your environment variables or defaults to 8080 if none is set.
 >
 > **[6:10](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/docker?u=76281980&t=370)** Finally, we kick it in gear with multithreading enabled because why not make it speedy?
 >
@@ -367,7 +362,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (12), [[MongoDB]] (7), [[Web Development]] (2), [[Git]] (2), [[GitHub]] (2)
+> **Frameworks & Libraries:** [[MongoDB]] (7), [[Web Development]] (2), [[Git]] (2), [[GitHub]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** docker (8), make (3), git (2), find (1), unzip (1)
 > **Env Vars:** zip (1), readme (1), rest (1), api (1), http (1)
 > **File Paths:** cmakelists.txt (2), crow_all.h (1), main.cpp (1)
@@ -376,8 +371,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (3)
 > **Ports:** port 8080 (1), :8080 (1)
 
-#### Adding a volume
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/adding-a-volume?u=76281980)
+#### [Adding a volume](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/adding-a-volume?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -407,7 +401,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/adding-a-volume?u=76281980&t=83)** latest bash.
 >
-> **[1:27](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/adding-a-volume?u=76281980&t=87)** Do note, the rest of the command is stuff we've seen before.
+> **[1:27](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/adding-a-volume?u=76281980&t=87)** Do note, the [[Representational State Transfer (REST)|rest]] of the command is stuff we've seen before.
 >
 > **[1:30](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/adding-a-volume?u=76281980&t=90)** The -ti puts Docker in terminal interactive mode, cppbox:latest is our local version of the cppbox image we built previously, and finally, bash puts us in the container's bash shell.
 >
@@ -427,7 +421,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), cd (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** docker (6), ls (3), cd (1)
 > **Tools:** bash (3), terminal (1)
 > **File Paths:** my_file.txt (2)
@@ -436,16 +430,15 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1), - v (1)
 > **UI Navigation:** navigate to (1)
 
-#### Building Crow
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/building-crow?u=76281980)
+#### [Building Crow](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/building-crow?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/building-crow?u=76281980&t=0)** - [Instructor] Crow is a C++ web micro framework.
 >
-> **[0:03](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/building-crow?u=76281980&t=3)** It is available at [github.com/ipkn/crow](https://github.com/ipkn/crow).
+> **[0:03](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/building-crow?u=76281980&t=3)** It is available at [[[GitHub]].com/ipkn/crow](https://github.com/ipkn/crow).
 >
-> **[0:08](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/building-crow?u=76281980&t=8)** It is inspired by Flask, which is written in Python.
+> **[0:08](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/building-crow?u=76281980&t=8)** It is inspired by Flask, which is written in [[Python (Programming Language)|Python]].
 >
 > **[0:12](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/building-crow?u=76281980&t=12)** While Crow is not well known, it is well-liked with over four thousand stars on GitHub.
 >
@@ -553,7 +546,7 @@ created: 2026-05-02
 >
 > **[5:32](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/building-crow?u=76281980&t=332)** Finally we're gonna tell it to run, end with a semicolon.
 >
-> **[5:37](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/building-crow?u=76281980&t=337)** Command + s or control + s on Windows to save off our file.
+> **[5:37](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/building-crow?u=76281980&t=337)** Command + s or control + s on [[Windows]] to save off our file.
 >
 > **[5:42](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/building-crow?u=76281980&t=342)** Next we're gonna do the CMakeLists.txt.
 >
@@ -613,7 +606,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (3), cd (3), web (2), next (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Python (Programming Language)|Python]] (1), [[Windows]] (1)
 > **Code Identifiers:** hello_crow (11), crow_all (5), iport (3), cmake_minimum_required (1), include_directories (1)
 > **File Paths:** crow_all.h (5), main.cpp (4), cmakelists.txt (3), cmakelist.txt (1)
 > **CLI Commands:** cd (3), make (3), find (2), python (1), cp (1)
@@ -622,8 +615,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2), means that (2)
 > **UI Navigation:** go to (1), scroll down (1), right-click (1)
 
-#### Serving the example
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/serving-the-example?u=76281980)
+#### [Serving the example](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/serving-the-example?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -699,7 +691,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), hit (2)
 > **Ports:** port 8080 (2), port 18080 (1), :18080 (1)
 > **CLI Commands:** docker (3)
 > **Code Identifiers:** hello_crow (3)
@@ -707,9 +698,9 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **Speakers:** - [instructor] (1), - e (1)
 > **URLs:** [localhost:18080](https://localhost:18080) (1)
+> **Tools:** terminal (1)
 
-#### Challenge: Modify the example page
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/challenge-modify-the-example-page?u=76281980)
+#### [Challenge: Modify the example page](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/challenge-modify-the-example-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -723,12 +714,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Modify the example page
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/solution-modify-the-example-page?u=76281980)
+#### [Solution: Modify the example page](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/solution-modify-the-example-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -778,11 +767,11 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/solution-modify-the-example-page?u=76281980&t=111)** Now you've had your first taste of Crow.
 >
-> **[1:53](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/solution-modify-the-example-page?u=76281980&t=113)** Even though it is written in C++, it has the lightweight feel of an Express.js app, only faster.
+> **[1:53](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/solution-modify-the-example-page?u=76281980&t=113)** Even though it is written in C++, it has the lightweight feel of an [[Express.js]] app, only faster.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), cd (1), web (1), [[Express.js]] (1)
+> **Frameworks & Libraries:** [[Express.js]] (1)
 > **CLI Commands:** make (3), cd (1), ls (1)
 > **File Paths:** main.cpp (2), express.js (1)
 > **Code Identifiers:** hello_crow (3)
@@ -796,8 +785,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Beanstalk
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/beanstalk?u=76281980)
+#### [Beanstalk](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/beanstalk?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -805,7 +793,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/beanstalk?u=76281980&t=4)** We'll guide you through containerizing your Crow application with Docker, pushing it to Docker Hub, and deploying it to AWS Elastic Beanstalk.
 >
-> **[0:14](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/beanstalk?u=76281980&t=14)** You'll learn essential DevOps skills for C++ web applications, including container management, cloud deployment, and proper cleanup procedures.
+> **[0:14](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/beanstalk?u=76281980&t=14)** You'll learn essential [[DevOps]] skills for C++ web applications, including container management, cloud deployment, and proper cleanup procedures.
 >
 > **[0:24](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/beanstalk?u=76281980&t=24)** By the end, you'll have a publicly accessible web service running on AWS infrastructure.
 >
@@ -837,7 +825,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/beanstalk?u=76281980&t=147)** And let's take a look at what's in this from VS Code.
 >
-> **[2:34](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/beanstalk?u=76281980&t=154)** The Dockerrun.json file tells AWS Elastic Beanstalk how to run your Docker container in the cloud.
+> **[2:34](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/beanstalk?u=76281980&t=154)** The Dockerrun.[[JSON]] file tells AWS Elastic Beanstalk how to run your Docker container in the cloud.
 >
 > **[2:41](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/beanstalk?u=76281980&t=161)** Just swap out your Docker Hub username with your actual Docker Hub username in the image section.
 >
@@ -967,7 +955,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (16), cloud (10), web (6), application (6), [[DevOps]] (2)
+> **Frameworks & Libraries:** [[DevOps]] (2), [[JSON]] (2)
 > **CLI Commands:** docker (19), aws (16), make (4), find (1), cd (1)
 > **Env Vars:** aws (16), url (2), json (1), arm (1), cname (1)
 > **Tools:** terminal (2), vs code (1), visual studio (1)
@@ -976,8 +964,7 @@ created: 2026-05-02
 > **Ports:** port 8080 (1), port 80 (1)
 > **Analogies:** it's like (2)
 
-#### Saving our container to Docker Hub
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/saving-our-container-to-docker-hub?u=76281980)
+#### [Saving our container to Docker Hub](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/saving-our-container-to-docker-hub?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1035,7 +1022,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (1), hit (1)
 > **CLI Commands:** docker (15), find (2)
 > **Code Identifiers:** hello_crow (2)
 > **Definitions:** is a  (2)
@@ -1043,18 +1029,18 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Tools:** terminal (1)
 > **Best Practices:** remember to (1)
+> **Speakers:** - [instructor] (1)
 
 
 ### 3. Building Websites
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating HTML pages
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/creating-html-pages?u=76281980)
+#### [Creating HTML pages](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/creating-html-pages?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/creating-html-pages?u=76281980&t=0)** - [Instructor] In our first code example, we built the HTML snippet from a string.
+> **[0:00](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/creating-html-pages?u=76281980&t=0)** - [Instructor] In our first code example, we built the [[HTML]] snippet from a string.
 >
 > **[0:04](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/creating-html-pages?u=76281980&t=4)** Building HTML from strings is terrible and it would be a torturous way to build a website.
 >
@@ -1070,7 +1056,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/creating-html-pages?u=76281980&t=36)** Its first release was in 2009 and there are ports available in nearly every modern language.
 >
-> **[0:42](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/creating-html-pages?u=76281980&t=42)** Mustache is excellent at mixing data into HTML and we'll cover it more once we add MongoDB into the mix.
+> **[0:42](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/creating-html-pages?u=76281980&t=42)** Mustache is excellent at mixing data into HTML and we'll cover it more once we add [[MongoDB]] into the mix.
 >
 > **[0:51](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/creating-html-pages?u=76281980&t=51)** Our recipe for creating HTML pages in Crow is simple.
 >
@@ -1130,7 +1116,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (15), web (3), data (1), [[MongoDB]] (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (15), [[MongoDB]] (1)
 > **Env Vars:** html (11)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (1), open the (1)
@@ -1139,8 +1125,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Exercise Files:** template (1)
 
-#### Serving HTML pages
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/serving-html-pages?u=76281980)
+#### [Serving HTML pages](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/serving-html-pages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1148,7 +1133,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/serving-html-pages?u=76281980&t=6)** The only handler that we currently have is for the root route, which matches either an empty string or a lone forward slash.
 >
-> **[0:13](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/serving-html-pages?u=76281980&t=13)** Let's update it to return an html file instead of a string.
+> **[0:13](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/serving-html-pages?u=76281980&t=13)** Let's update it to return an [[HTML]] file instead of a string.
 >
 > **[0:18](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/serving-html-pages?u=76281980&t=18)** So, first we want to come up here, and below our current using namespace, we'll add one more.
 >
@@ -1237,16 +1222,15 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 
-#### Serving static content
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/serving-static-content?u=76281980)
+#### [Serving static content](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/serving-static-content?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/serving-static-content?u=76281980&t=0)** - [Narrator] A website's static content are files delivered to the browser without being modified, such as index.html.
+> **[0:00](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/serving-static-content?u=76281980&t=0)** - [Narrator] A website's static content are files delivered to the browser without being modified, such as index.[[HTML]].
 >
 > **[0:07](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/serving-static-content?u=76281980&t=7)** We keep these files in the public directory and separate them by type.
 >
-> **[0:12](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/serving-static-content?u=76281980&t=12)** The HTML files go in the root, the CSS files in the styles directory, the JavaScript in the scripts directory, and the images in the images directory.
+> **[0:12](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/serving-static-content?u=76281980&t=12)** The HTML files go in the root, the CSS files in the styles directory, the [[JavaScript]] in the scripts directory, and the images in the images directory.
 >
 > **[0:21](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/serving-static-content?u=76281980&t=21)** This structure helps us keep our site organized.
 >
@@ -1418,7 +1402,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (9), [[JavaScript]] (6), css (5), next (4)
+> **Frameworks & Libraries:** [[HTML]] (9), [[JavaScript]] (6)
 > **Code Identifiers:** sendfile (5), sendimage (3), sendscript (3), sendstyle (3), sendhtml (2)
 > **File Paths:** index.html (4), send.html (1), styles.css (1), test.js (1), styles/styles.css (1)
 > **CLI Commands:** make (6), find (1), cat (1)
@@ -1427,8 +1411,7 @@ created: 2026-05-02
 > **UI Navigation:** right-click (1), go to (1)
 > **Cross-References:** go back to (1)
 
-#### Challenge: Create a new webpage
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/challenge-create-a-new-webpage?u=76281980)
+#### [Challenge: Create a new webpage](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/challenge-create-a-new-webpage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1438,7 +1421,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/challenge-create-a-new-webpage?u=76281980&t=9)** Let's show what we know and add a new page to our website.
 >
-> **[0:13](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/challenge-create-a-new-webpage?u=76281980&t=13)** Create a new page about.html.
+> **[0:13](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/challenge-create-a-new-webpage?u=76281980&t=13)** Create a new page about.[[HTML]].
 >
 > **[0:16](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/challenge-create-a-new-webpage?u=76281980&t=16)** The page should contain an H1 tag which reads, About.
 >
@@ -1450,12 +1433,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (1), css (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **File Paths:** about.html (1), about.css (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Create a new webpage
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/solution-create-a-new-webpage?u=76281980)
+#### [Solution: Create a new webpage](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/solution-create-a-new-webpage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1467,7 +1449,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/solution-create-a-new-webpage?u=76281980&t=11)** Either way, here's my solution.
 >
-> **[0:14](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/solution-create-a-new-webpage?u=76281980&t=14)** I copied the index.html, deleted the script tag, copied the style.css, added the new route, and rebuilt the app.
+> **[0:14](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/solution-create-a-new-webpage?u=76281980&t=14)** I copied the index.[[HTML]], deleted the script tag, copied the style.css, added the new route, and rebuilt the app.
 >
 > **[0:23](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/solution-create-a-new-webpage?u=76281980&t=23)** Let me show you how I did it.
 >
@@ -1527,7 +1509,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (9), [[HTML]] (6)
+> **Frameworks & Libraries:** [[HTML]] (6)
 > **File Paths:** about.css (6), about.html (4), index.html (2), styles.css (2), style.css (1)
 > **CLI Commands:** make (5)
 > **Cross-References:** go back to (4)
@@ -1541,12 +1523,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Atlas
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/atlas?u=76281980)
+#### [Atlas](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/atlas?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/atlas?u=76281980&t=0)** - [Instructor] In this session, we'll connect our C++ web server to MongoDB Atlas, creating a complete cloud-based application stack.
+> **[0:00](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/atlas?u=76281980&t=0)** - [Instructor] In this session, we'll connect our C++ web server to [[MongoDB]] Atlas, creating a complete cloud-based application stack.
 >
 > **[0:08](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/atlas?u=76281980&t=8)** We'll learn how to set up a free MongoDB Atlas database, upload data, and modify our Crow application to retrieve and display information from the database.
 >
@@ -1558,19 +1539,19 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/atlas?u=76281980&t=42)** And click that Try Free button.
 >
-> **[0:47](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/atlas?u=76281980&t=47)** Feel free to sign up with Google or your email.
+> **[0:47](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/atlas?u=76281980&t=47)** Feel free to sign up with [[Google]] or your email.
 >
 > **[0:52](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/atlas?u=76281980&t=52)** When they ask about your goals just pick "Learn MongoDB" or "Build a new application," whatever fits your plans best.
 >
 > **[1:01](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/atlas?u=76281980&t=61)** Now, I've already got an account, so let's go over to my account.
 >
-> **[1:06](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/atlas?u=76281980&t=66)** Now on databases, for clusters, what you're going to do is you're going to click Create.
+> **[1:06](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/atlas?u=76281980&t=66)** Now on [[Databases]], for clusters, what you're going to do is you're going to click Create.
 >
 > **[1:13](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/atlas?u=76281980&t=73)** Double check that it says Free, labeled as "M Zero Sandbox."
 >
 > **[1:19](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/atlas?u=76281980&t=79)** We love free stuff.
 >
-> **[1:21](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/atlas?u=76281980&t=81)** Pick any cloud provider that catches your eye, AWS, Google Cloud, or Azure.
+> **[1:21](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/atlas?u=76281980&t=81)** Pick any cloud provider that catches your eye, AWS, [[Google Cloud Platform (GCP)|Google Cloud]], or [[Microsoft Azure|Azure]].
 >
 > **[1:26](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/atlas?u=76281980&t=86)** They all work great. I picked AWS.
 >
@@ -1648,7 +1629,7 @@ created: 2026-05-02
 >
 > **[4:36](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/atlas?u=76281980&t=276)** And go to the data.
 >
-> **[4:37](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/atlas?u=76281980&t=277)** And inside the data folder there's a contacts.json.
+> **[4:37](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/atlas?u=76281980&t=277)** And inside the data folder there's a contacts.[[JSON]].
 >
 > **[4:41](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/atlas?u=76281980&t=281)** And so this is our contact database that we're going to upload into MongoDB.
 >
@@ -1760,13 +1741,13 @@ created: 2026-05-02
 >
 > **[11:47](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/atlas?u=76281980&t=707)** You've set up MongoDB Atlas, connected your C++ Crow app to a real database, and created an API that serves JSON data.
 >
-> **[11:58](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/atlas?u=76281980&t=718)** This powerful C++ MongoDB combination gives you the foundations for building fast, scalable web applications.
+> **[11:58](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/atlas?u=76281980&t=718)** This powerful C++ MongoDB combination gives you the foundations for building fast, [[Scalable Web Applications]].
 >
 > **[12:05](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/atlas?u=76281980&t=725)** Keep exploring and building great things.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (20), database (19), data (11), web (6), [[JSON]] (4)
+> **Frameworks & Libraries:** [[MongoDB]] (20), [[JSON]] (4), [[Google]] (1), [[Databases]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **CLI Commands:** make (4), aws (2), brew (2), cd (1), docker (1)
 > **Env Vars:** aws (2), json (2), api (2), cpp (1)
 > **UI Navigation:** click on (4), go to (3)
@@ -1775,12 +1756,11 @@ created: 2026-05-02
 > **File Paths:** contacts.json (1), main.cpp (1)
 > **Versions:** 3.7 (1), 6.0 (1)
 
-#### Uploading JSON data
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/uploading-json-data?u=76281980)
+#### [Uploading JSON data](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/uploading-json-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/uploading-json-data?u=76281980&t=0)** - [Instructor] We have a MongoDB instance running in the cloud.
+> **[0:00](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/uploading-json-data?u=76281980&t=0)** - [Instructor] We have a [[MongoDB]] instance running in the cloud.
 >
 > **[0:03](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/uploading-json-data?u=76281980&t=3)** We need to install MongoDB locally so we can use its tools.
 >
@@ -1798,7 +1778,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/uploading-json-data?u=76281980&t=45)** We are going to seed our database with some contact information.
 >
-> **[0:48](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/uploading-json-data?u=76281980&t=48)** Included in the exercise files is contacts.json which is structured like the data on the slide.
+> **[0:48](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/uploading-json-data?u=76281980&t=48)** Included in the exercise files is contacts.[[JSON]] which is structured like the data on the slide.
 >
 > **[0:54](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/uploading-json-data?u=76281980&t=54)** Each contact has five fields, all strings.
 >
@@ -1808,7 +1788,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/uploading-json-data?u=76281980&t=69)** You can use the link on our app's dashboard on Heroku, so we can use this link right here, mLab MongoDB.
 >
-> **[1:17](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/uploading-json-data?u=76281980&t=77)** This will take us back to the database for our app and we need to copy the information just below where it says using the mongo shell and I'm gonna copy starting with the letter D all the way over to just before that first break and I'm gonna just do a command + C on the Mac, control + C on Windows, and copy that or you can just write it down, it's not that long, and I'm just gonna keep that in the clipboard for a second.
+> **[1:17](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/uploading-json-data?u=76281980&t=77)** This will take us back to the database for our app and we need to copy the information just below where it says using the mongo shell and I'm gonna copy starting with the letter D all the way over to just before that first break and I'm gonna just do a command + C on the Mac, control + C on [[Windows]], and copy that or you can just write it down, it's not that long, and I'm just gonna keep that in the clipboard for a second.
 >
 > **[1:44](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/uploading-json-data?u=76281980&t=104)** I'm gonna go back to the terminal and I'm gonna type cd.
 >
@@ -1864,7 +1844,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (6), database (6), [[JSON]] (6), data (3), cloud (1)
+> **Frameworks & Libraries:** [[MongoDB]] (6), [[JSON]] (6), [[Windows]] (1)
 > **CLI Commands:** brew (3), mongo (1), cd (1), make (1)
 > **Code Identifiers:** mlab (3), mlabs (2), jsonarray (1)
 > **File Paths:** contacts.json (3)
@@ -1873,12 +1853,11 @@ created: 2026-05-02
 > **Tools:** terminal (2)
 > **Exercise Files:** download the (1), exercise files (1)
 
-#### Adding the MongoDB C++ drivers
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/adding-the-mongodb-c-plus-plus-drivers?u=76281980)
+#### [Adding the MongoDB C++ drivers](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/adding-the-mongodb-c-plus-plus-drivers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/adding-the-mongodb-c-plus-plus-drivers?u=76281980&t=0)** - In order to access our database on mLab, we need to add the MongoDB C++ driver library to our code. Unfortunately, we can't simply download it. We need to build it.
+> **[0:00](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/adding-the-mongodb-c-plus-plus-drivers?u=76281980&t=0)** - In order to access our database on mLab, we need to add the [[MongoDB]] C++ driver library to our code. Unfortunately, we can't simply download it. We need to build it.
 >
 > **[0:13](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/adding-the-mongodb-c-plus-plus-drivers?u=76281980&t=13)** And before we can build the C++ library, we need to first build the C library it requires.
 >
@@ -1908,7 +1887,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/adding-the-mongodb-c-plus-plus-drivers?u=76281980&t=102)** "WORKDIR" sets the current working directory on the Docker image we are building.
 >
-> **[1:47](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/adding-the-mongodb-c-plus-plus-drivers?u=76281980&t=107)** Next, the "RUN git" command builds the Mongo C Driver library. It gets the source code from GitHub, then uses CMake to create the make file, builds and installs the library.
+> **[1:47](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/adding-the-mongodb-c-plus-plus-drivers?u=76281980&t=107)** Next, the "RUN [[Git]]" command builds the Mongo C Driver library. It gets the source code from [[GitHub]], then uses CMake to create the make file, builds and installs the library.
 >
 > **[2:01](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/adding-the-mongodb-c-plus-plus-drivers?u=76281980&t=121)** And the last command, right here, "ldconfig", tells the operating system that there is a new library.
 >
@@ -1938,7 +1917,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (2), [[GitHub]] (2), database (1), [[MongoDB]] (1), next (1)
+> **Frameworks & Libraries:** [[Git]] (2), [[GitHub]] (2), [[MongoDB]] (1)
 > **CLI Commands:** docker (11), git (2), mongo (2), rm (2), make (1)
 > **Tools:** atom (3), github (2), terminal (1)
 > **Env Vars:** run (2), workdir (1), dbsoncxx_poly_use_mnmlstc (1), dcmake_build_type (1)
@@ -1947,12 +1926,11 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Code Identifiers:** mlab (1)
 
-#### Querying Mongo data
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/querying-mongo-data?u=76281980)
+#### [Querying Mongo data](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/querying-mongo-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/querying-mongo-data?u=76281980&t=0)** - [Instructor] We now have the MongoDB C++ driver in our Docker image.
+> **[0:00](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/querying-mongo-data?u=76281980&t=0)** - [Instructor] We now have the [[MongoDB]] C++ driver in our Docker image.
 >
 > **[0:04](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/querying-mongo-data?u=76281980&t=4)** In order to use it we'll need to update our root Docker file, change a few lines in CMakeLists.txt and add code to main.cpp.
 >
@@ -2030,7 +2008,7 @@ created: 2026-05-02
 >
 > **[4:18](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/querying-mongo-data?u=76281980&t=258)** The first one is gonna be &lt;bsoncxx/builder/stream/document.hpp&gt;.
 >
-> **[4:35](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/querying-mongo-data?u=76281980&t=275)** And I'm gonna do #include &lt;bsoncxx/json.hpp&gt;,
+> **[4:35](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/querying-mongo-data?u=76281980&t=275)** And I'm gonna do #include &lt;bsoncxx/[[JSON]].hpp&gt;,
 >
 > **[4:45](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/querying-mongo-data?u=76281980&t=285)** and I'm gonna do #include &lt;bsoncxx/oid.hpp&gt;.
 >
@@ -2156,7 +2134,7 @@ created: 2026-05-02
 >
 > **[13:50](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/querying-mongo-data?u=76281980&t=830)** Let's go back here, do a refresh.
 >
-> **[13:52](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/querying-mongo-data?u=76281980&t=832)** We see we get our JavaScript message.
+> **[13:52](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/querying-mongo-data?u=76281980&t=832)** We see we get our [[JavaScript]] message.
 >
 > **[13:55](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/querying-mongo-data?u=76281980&t=835)** And now let's try our new endpoint, contacts, and voila, we've got data.
 >
@@ -2194,7 +2172,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), next (4), [[MongoDB]] (2), [[JSON]] (1), cd (1)
+> **Frameworks & Libraries:** [[MongoDB]] (2), [[JSON]] (1), [[JavaScript]] (1)
 > **Code Identifiers:** hello_crow (9), find_package (3), mongoconnect (2), add_executable (1), target_include_directories (1)
 > **CLI Commands:** docker (6), find (4), make (3), mongo (3), cd (1)
 > **Env Vars:** mongodb_uri (3), workdir (2), run (2), libmongocxx_include_dirs (2), port (2)
@@ -2203,8 +2181,7 @@ created: 2026-05-02
 > **Tools:** terminal (3), atom (2)
 > **Cross-References:** go back to (4)
 
-#### Adding dynamic data to a page
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/adding-dynamic-data-to-a-page?u=76281980)
+#### [Adding dynamic data to a page](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/adding-dynamic-data-to-a-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2214,7 +2191,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/adding-dynamic-data-to-a-page?u=76281980&t=5)** Crow supports a logic list template system named mustache.
 >
-> **[0:09](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/adding-dynamic-data-to-a-page?u=76281980&t=9)** Mustache makes our C++ data available when the HTML page renders.
+> **[0:09](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/adding-dynamic-data-to-a-page?u=76281980&t=9)** Mustache makes our C++ data available when the [[HTML]] page renders.
 >
 > **[0:14](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/adding-dynamic-data-to-a-page?u=76281980&t=14)** To use mustache, we need to make a few changes to our code.
 >
@@ -2242,7 +2219,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/adding-dynamic-data-to-a-page?u=76281980&t=124)** We're gonna scroll down more until we get into our contact route.
 >
-> **[2:08](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/adding-dynamic-data-to-a-page?u=76281980&t=128)** Now, inside of our contacts route, first thing we're gonna do is we're gonna go ahead and delete the variable os, 'cause we're not using it anymore, and we're gonna have crow::json::wvalue, and we're gonna call that dto for data transfer object, and we're gonna have a vector of crow::json::rvalue
+> **[2:08](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/adding-dynamic-data-to-a-page?u=76281980&t=128)** Now, inside of our contacts route, first thing we're gonna do is we're gonna go ahead and delete the variable os, 'cause we're not using it anymore, and we're gonna have crow::[[JSON]]::wvalue, and we're gonna call that dto for data transfer object, and we're gonna have a vector of crow::json::rvalue
 >
 > **[2:36](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/adding-dynamic-data-to-a-page?u=76281980&t=156)** and call that contacts.
 >
@@ -2270,9 +2247,9 @@ created: 2026-05-02
 >
 > **[4:46](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/adding-dynamic-data-to-a-page?u=76281980&t=286)** First thing I'm gonna do is change the title to contacts.
 >
-> **[4:51](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/adding-dynamic-data-to-a-page?u=76281980&t=291)** I'm gonna delete this Javascript file here.
+> **[4:51](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/adding-dynamic-data-to-a-page?u=76281980&t=291)** I'm gonna delete this [[JavaScript]] file here.
 >
-> **[4:55](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/adding-dynamic-data-to-a-page?u=76281980&t=295)** I'm gonna change the style sheet, and the style sheet is now going to point to [https://cdnjs.cloudflare.com/ajax/libs/bulma](https://cdnjs.cloudflare.com/ajax/libs/bulma),
+> **[4:55](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/adding-dynamic-data-to-a-page?u=76281980&t=295)** I'm gonna change the style sheet, and the style sheet is now going to point to [https://cdnjs.cloudflare.com/[[AJAX]]/libs/bulma](https://cdnjs.cloudflare.com/ajax/libs/bulma),
 >
 > **[5:18](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/adding-dynamic-data-to-a-page?u=76281980&t=318)** B-U-L-M-A, and bulma is a lightweight css framework similar to like the bootstrap or something.
 >
@@ -2396,11 +2373,11 @@ created: 2026-05-02
 >
 > **[13:15](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/adding-dynamic-data-to-a-page?u=76281980&t=795)** We'll grab the second to the last one.
 >
-> **[13:17](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/adding-dynamic-data-to-a-page?u=76281980&t=797)** Again, I'll modify the URL so that it's just contact and then an email address, and now we've got our contact route is working and we have two different routes, both querying our MongoDB database.
+> **[13:17](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/adding-dynamic-data-to-a-page?u=76281980&t=797)** Again, I'll modify the URL so that it's just contact and then an email address, and now we've got our contact route is working and we have two different routes, both querying our [[MongoDB]] database.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (9), data (3), [[JSON]] (3), css (3), database (2)
+> **Frameworks & Libraries:** [[HTML]] (9), [[JSON]] (3), [[JavaScript]] (1), [[AJAX]] (1), [[MongoDB]] (1)
 > **Env Vars:** html (9), url (3)
 > **Code Identifiers:** to_json (3), set_base (2), make_document (2), push_back (1), crow_route (1)
 > **CLI Commands:** make (6), docker (1)
@@ -2409,8 +2386,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (2), go to (1)
 > **Exercise Files:** template (3)
 
-#### Challenge: Create a webpage with data
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/challenge-create-a-webpage-with-data?u=76281980)
+#### [Challenge: Create a webpage with data](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/challenge-create-a-webpage-with-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2418,7 +2394,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/challenge-create-a-webpage-with-data?u=76281980&t=8)** - [Instructor] Let's test our knowledge with a challenge.
 >
-> **[0:10](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/challenge-create-a-webpage-with-data?u=76281980&t=10)** Create an HTML page named contact.html in the public folder.
+> **[0:10](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/challenge-create-a-webpage-with-data?u=76281980&t=10)** Create an [[HTML]] page named contact.html in the public folder.
 >
 > **[0:15](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/challenge-create-a-webpage-with-data?u=76281980&t=15)** Modify the contact route to use contact.html.
 >
@@ -2432,13 +2408,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (3), data (1)
+> **Frameworks & Libraries:** [[HTML]] (3)
 > **File Paths:** contact.html (2)
 > **Env Vars:** html (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Create a webpage with data
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/solution-create-a-webpage-with-data?u=76281980)
+#### [Solution: Create a webpage with data](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/solution-create-a-webpage-with-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2452,13 +2427,13 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/solution-create-a-webpage-with-data?u=76281980&t=13)** I modified the contact route to pass the contact data.
 >
-> **[0:17](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/solution-create-a-webpage-with-data?u=76281980&t=17)** Then I created contact.html by copying contacts.html, and finally I modified the contact's html markup, and added the contact data to it.
+> **[0:17](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/solution-create-a-webpage-with-data?u=76281980&t=17)** Then I created contact.[[HTML]] by copying contacts.html, and finally I modified the contact's html markup, and added the contact data to it.
 >
 > **[0:29](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/solution-create-a-webpage-with-data?u=76281980&t=29)** Let's begin.
 >
 > **[0:30](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/solution-create-a-webpage-with-data?u=76281980&t=30)** Go back into Atom, and right here, let's go ahead and modify.
 >
-> **[0:37](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/solution-create-a-webpage-with-data?u=76281980&t=37)** The very first unit we need to do, is we're gonna say, crow colon colon json colon colon wvalue and that's gonna be our dto.
+> **[0:37](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/solution-create-a-webpage-with-data?u=76281980&t=37)** The very first unit we need to do, is we're gonna say, crow colon colon [[JSON]] colon colon wvalue and that's gonna be our dto.
 >
 > **[0:49](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/solution-create-a-webpage-with-data?u=76281980&t=49)** Then I say dto.
 >
@@ -2546,7 +2521,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[JSON]] (4), [[HTML]] (3)
+> **Frameworks & Libraries:** [[JSON]] (4), [[HTML]] (3)
 > **File Paths:** contact.html (1), contacts.html (1)
 > **Tools:** atom (1), terminal (1)
 > **Code Identifiers:** getview (1)
@@ -2560,8 +2535,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating an endpoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/creating-an-endpoint?u=76281980)
+#### [Creating an endpoint](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/creating-an-endpoint?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2705,7 +2679,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), api (1)
 > **Env Vars:** http (5), put (3), url (2), post (2), api (1)
 > **Code Identifiers:** rest_test (6), method_name (1), set_header (1)
 > **API Endpoints:** get  (3), put  (2), post  (1)
@@ -2713,9 +2686,9 @@ created: 2026-05-02
 > **Cross-References:** go back to (3)
 > **Tools:** terminal (2), atom (1)
 > **UI Navigation:** go to (3)
+> **Analogies:** similar to (1), for instance (1)
 
-#### Parsing the path
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/parsing-the-path?u=76281980)
+#### [Parsing the path](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/parsing-the-path?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2761,7 +2734,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/parsing-the-path?u=76281980&t=116)** It is now gonna take the response, reference res.
 >
-> **[2:02](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/parsing-the-path?u=76281980&t=122)** And then, inside here, we're gonna say res.set_header and it's gonna set the header to Content-Type, and the content type for an HTML file is text/html.
+> **[2:02](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/parsing-the-path?u=76281980&t=122)** And then, inside here, we're gonna say res.set_header and it's gonna set the header to Content-Type, and the content type for an [[HTML]] file is text/html.
 >
 > **[2:22](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/parsing-the-path?u=76281980&t=142)** This is the thing that's missing.
 >
@@ -3005,7 +2978,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2), [[HTML]] (2), data (1), hit (1)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **CLI Commands:** make (5), find (4), cat (2), docker (1)
 > **Code Identifiers:** getview (5), set_header (2), notfound (2), lastname (1), hello_crow (1)
 > **Versions:** 10.5 (2), 20.2 (2), 100.1 (2), 102.7 (2), 30.7 (1)
@@ -3014,8 +2987,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (5)
 > **Env Vars:** html (1), url (1), crow_route (1)
 
-#### Reading the query string
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/reading-the-query-string?u=76281980)
+#### [Reading the query string](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/reading-the-query-string?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3061,7 +3033,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/reading-the-query-string?u=76281980&t=213)** So let's save this, go to the terminal, control C to stop the server, rebuild, then we'll restart the server, Go to the browser. We'll say query.
 >
-> **[3:52](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/reading-the-query-string?u=76281980&t=232)** And then I'll do a question mark, first name equals John ampersand. Last name equals Smith.
+> **[3:52](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/reading-the-query-string?u=76281980&t=232)** And then I'll do a question mark, first name equals [[John the Ripper|John]] ampersand. Last name equals Smith.
 >
 > **[4:06](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/reading-the-query-string?u=76281980&t=246)** And we get a hello, John Smith.
 >
@@ -3077,6 +3049,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[John the Ripper|John]] (3)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** url (1), str (1)
 > **UI Navigation:** go to (2)
@@ -3084,14 +3057,13 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
 
-#### Converting to JSON data
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/converting-to-json-data?u=76281980)
+#### [Converting to JSON data](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/converting-to-json-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/converting-to-json-data?u=76281980&t=0)** - [Instructor] JSON is an extremely popular data format.
+> **[0:00](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/converting-to-json-data?u=76281980&t=0)** - [Instructor] [[JSON]] is an extremely popular data format.
 >
-> **[0:03](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/converting-to-json-data?u=76281980&t=3)** Many web servers, especially those used by JavaScript front-ends like Angular and React, use JSON as their default format.
+> **[0:03](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/converting-to-json-data?u=76281980&t=3)** Many [[Web Servers]], especially those used by [[JavaScript]] front-ends like [[Angular]] and [[React.js|React]], use JSON as their default format.
 >
 > **[0:11](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/converting-to-json-data?u=76281980&t=11)** How can we return JSON data from crow?
 >
@@ -3099,7 +3071,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/converting-to-json-data?u=76281980&t=16)** Let's take a look at the contacts handler, and this is contacts plural.
 >
-> **[0:20](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/converting-to-json-data?u=76281980&t=20)** It returns a webpage with 10 contacts rendered in an HTML table.
+> **[0:20](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/converting-to-json-data?u=76281980&t=20)** It returns a webpage with 10 contacts rendered in an [[HTML]] table.
 >
 > **[0:26](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/converting-to-json-data?u=76281980&t=26)** We will make a version of it that returns JSON data instead of a webpage.
 >
@@ -3163,7 +3135,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (11), data (6), api (2), application (2), web (1)
+> **Frameworks & Libraries:** [[JSON]] (11), [[Web Servers]] (1), [[JavaScript]] (1), [[Angular]] (1), [[React.js|React]] (1)
 > **Env Vars:** json (9), html (1)
 > **CLI Commands:** make (1), mongo (1)
 > **Code Identifiers:** getview (2)
@@ -3172,8 +3144,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Best Practices:** you should always (1)
 
-#### Challenge: Create an endpoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/challenge-create-an-endpoint?u=76281980)
+#### [Challenge: Create an endpoint](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/challenge-create-an-endpoint?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3183,7 +3154,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/challenge-create-an-endpoint?u=76281980&t=12)** Modify the api/contacts route handler to use two query parameters, skip and limit.
 >
-> **[0:20](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/challenge-create-an-endpoint?u=76281980&t=20)** If skip is valid set the MongoDB skip option to its value.
+> **[0:20](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/challenge-create-an-endpoint?u=76281980&t=20)** If skip is valid set the [[MongoDB]] skip option to its value.
 >
 > **[0:26](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/challenge-create-an-endpoint?u=76281980&t=26)** Otherwise, use zero.
 >
@@ -3197,11 +3168,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (2), api (1)
+> **Frameworks & Libraries:** [[MongoDB]] (2)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Create an endpoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/solution-create-an-endpoint?u=76281980)
+#### [Solution: Create an endpoint](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/solution-create-an-endpoint?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3245,11 +3215,11 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/solution-create-an-endpoint?u=76281980&t=222)** So there we go.
 >
-> **[3:44](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/solution-create-an-endpoint?u=76281980&t=224)** Now we are able to query our MongoDB data using dynamic skip and limit values.
+> **[3:44](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/solution-create-an-endpoint?u=76281980&t=224)** Now we are able to query our [[MongoDB]] data using dynamic skip and limit values.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2), [[MongoDB]] (1), data (1)
+> **Frameworks & Libraries:** [[MongoDB]] (1)
 > **Code Identifiers:** skipval (5), limitval (4)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** find (1)
@@ -3262,18 +3232,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Reviewing the JavaScript client code
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/reviewing-the-javascript-client-code?u=76281980)
+#### [Reviewing the JavaScript client code](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/reviewing-the-javascript-client-code?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/reviewing-the-javascript-client-code?u=76281980&t=1)** - [Instructor] The JavaScript file, websocket.js and its associated webpage, chat.html are both stored in the root directory for chapter six.
+> **[0:01](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/reviewing-the-javascript-client-code?u=76281980&t=1)** - [Instructor] The [[JavaScript]] file, [[WebSocket]].js and its associated webpage, chat.[[HTML]] are both stored in the root directory for chapter six.
 >
 > **[0:09](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/reviewing-the-javascript-client-code?u=76281980&t=9)** Copy the JavaScript file to Public Scripts, so we're gonna do a Command + C to copy it, gonna go to Hello Crow, go to public, go to scripts, and do a Command + V, and we'll go back, copy the chat.html, Command + C, go to the public folder and do a Command + V, now we have both of those files.
 >
 > **[0:38](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/reviewing-the-javascript-client-code?u=76281980&t=38)** Let's go ahead and go back to Atom, open up websocket.js.
 >
-> **[0:43](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/reviewing-the-javascript-client-code?u=76281980&t=43)** Web Socket is a communication protocol which enables real-time data transfer between a client and server over a single TCP channel.
+> **[0:43](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/reviewing-the-javascript-client-code?u=76281980&t=43)** Web Socket is a communication protocol which enables [[Real-Time]] data transfer between a client and server over a single TCP channel.
 >
 > **[0:51](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/reviewing-the-javascript-client-code?u=76281980&t=51)** Web Socket uses both the WS and WSS protocols for Web Socket and Web Socket Secured.
 >
@@ -3299,7 +3268,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (10), [[JavaScript]] (4), [[WebSocket]] (3), [[HTML]] (2), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[WebSocket]] (3), [[HTML]] (2), [[Real-Time]] (1)
 > **File Paths:** websocket.js (3), chat.html (2)
 > **UI Navigation:** go to (4)
 > **Env Vars:** tcp (1), wss (1), url (1)
@@ -3308,8 +3277,7 @@ created: 2026-05-02
 > **Tools:** atom (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating the C++ server code
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/creating-the-c-plus-plus-server-code?u=76281980)
+#### [Creating the C++ server code](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/creating-the-c-plus-plus-server-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3339,7 +3307,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/creating-the-c-plus-plus-server-code?u=76281980&t=87)** Crow underscore route app comma ws.
 >
-> **[1:35](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/creating-the-c-plus-plus-server-code?u=76281980&t=95)** As we said in the JavaScript file, ws is our route handler for web socket.
+> **[1:35](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/creating-the-c-plus-plus-server-code?u=76281980&t=95)** As we said in the [[JavaScript]] file, ws is our route handler for web socket.
 >
 > **[1:41](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/creating-the-c-plus-plus-server-code?u=76281980&t=101)** Now what comes next is different than anything we've done so far.
 >
@@ -3409,7 +3377,7 @@ created: 2026-05-02
 >
 > **[6:32](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/creating-the-c-plus-plus-server-code?u=76281980&t=392)** and a response and, I'm sorry, this should be req, R-E-Q, and then response, which is a reference to res, open and closed curly braces, ending semicolon.
 >
-> **[6:48](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/creating-the-c-plus-plus-server-code?u=76281980&t=408)** And then this is just a one line route handler and it just says send HTML with res.
+> **[6:48](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/creating-the-c-plus-plus-server-code?u=76281980&t=408)** And then this is just a one line route handler and it just says send [[HTML]] with res.
 >
 > **[6:57](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/creating-the-c-plus-plus-server-code?u=76281980&t=417)** And the name of the file is going to be chat.
 >
@@ -3449,7 +3417,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (8), data (4), [[JavaScript]] (1), next (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1), [[HTML]] (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** go to (3)
 > **Env Vars:** html (1), url (1)
@@ -3457,8 +3425,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Running WebSocket on Heroku
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/running-websocket-on-heroku?u=76281980)
+#### [Running WebSocket on Heroku](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/running-websocket-on-heroku?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3496,7 +3463,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/running-websocket-on-heroku?u=76281980&t=141)** And give it a few seconds for the server to spin up on the cloud.
 >
-> **[2:29](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/running-websocket-on-heroku?u=76281980&t=149)** We've got our Hello from JavaScript land.
+> **[2:29](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/running-websocket-on-heroku?u=76281980&t=149)** We've got our Hello from [[JavaScript]] land.
 >
 > **[2:32](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/running-websocket-on-heroku?u=76281980&t=152)** We say okay.
 >
@@ -3514,7 +3481,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/running-websocket-on-heroku?u=76281980&t=173)** Hello and we see it in both of them.
 >
-> **[2:56](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/running-websocket-on-heroku?u=76281980&t=176)** If I say Hola, over here, we see it on both of them and there is our chat app doing WebSocket in the cloud through Heroku.
+> **[2:56](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/running-websocket-on-heroku?u=76281980&t=176)** If I say Hola, over here, we see it on both of them and there is our chat app doing [[WebSocket]] in the cloud through Heroku.
 >
 > **[3:07](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/running-websocket-on-heroku?u=76281980&t=187)** All of our other routes are still live and valid.
 >
@@ -3526,7 +3493,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/running-websocket-on-heroku?u=76281980&t=199)** We can take one of these contacts and say single contact and search it by first and last name and there goes our contact, that way, and we can also say api/contacts
 >
-> **[3:47](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/running-websocket-on-heroku?u=76281980&t=227)** and here it is as JSON data and I can do things like say, ?skip=10 &limit=20 and there's my JSON data.
+> **[3:47](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/running-websocket-on-heroku?u=76281980&t=227)** and here it is as [[JSON]] data and I can do things like say, ?skip=10 &limit=20 and there's my JSON data.
 >
 > **[4:04](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/running-websocket-on-heroku?u=76281980&t=244)** So feel free to fully check out your C++ web server running in the Heroku cloud.
 >
@@ -3536,7 +3503,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), cloud (4), next (4), [[JSON]] (2), data (2)
+> **Frameworks & Libraries:** [[JSON]] (2), [[JavaScript]] (1), [[WebSocket]] (1)
 > **CLI Commands:** docker (1), cat (1), make (1)
 > **Env Vars:** json (2)
 > **UI Navigation:** go to (2)
@@ -3550,12 +3517,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/next-steps?u=76281980&t=0)** - [Instructor] Thanks for watching this course on Web Servers and APIs using C++.
+> **[0:00](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/next-steps?u=76281980&t=0)** - [Instructor] Thanks for watching this course on [[Web Servers]] and APIs using C++.
 >
 > **[0:05](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/next-steps?u=76281980&t=5)** I hope you've enjoyed the information and will find some creative ways to put it to good use.
 >
@@ -3565,7 +3531,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1)
+> **Frameworks & Libraries:** [[Web Servers]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 

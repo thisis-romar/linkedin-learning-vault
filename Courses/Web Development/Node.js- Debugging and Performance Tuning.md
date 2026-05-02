@@ -95,8 +95,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The power of debugging and performance tuning
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/the-power-of-debugging-and-performance-tuning?u=76281980)
+#### [The power of debugging and performance tuning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/the-power-of-debugging-and-performance-tuning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -130,20 +129,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Debugging]] (1), game (1), node (1)
 > **CLI Commands:** node (1), find (1)
 > **Speakers:** - [jon] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/what-you-should-know?u=76281980&t=0)** - [Instructor] Let's discuss the skills you should have, before watching this course.
 >
-> **[0:04](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/what-you-should-know?u=76281980&t=4)** This is an intermediate Node.js and software engineering course.
+> **[0:04](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/what-you-should-know?u=76281980&t=4)** This is an intermediate [[Node.js]] and software engineering course.
 >
-> **[0:09](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/what-you-should-know?u=76281980&t=9)** It's intended for developers who have written a few Node.js and JavaScript applications.
+> **[0:09](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/what-you-should-know?u=76281980&t=9)** It's intended for developers who have written a few Node.js and [[JavaScript]] applications.
 >
 > **[0:15](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/what-you-should-know?u=76281980&t=15)** If you've never written anything with Node.js, I recommend Node.js Essential Training in our library.
 >
@@ -151,11 +148,11 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/what-you-should-know?u=76281980&t=30)** The content should be forwards compatible with newer versions of Node.js.
 >
-> **[0:35](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/what-you-should-know?u=76281980&t=35)** We're going to be installing some NPM packages globally.
+> **[0:35](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/what-you-should-know?u=76281980&t=35)** We're going to be installing some [[npm]] packages globally.
 >
 > **[0:39](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/what-you-should-know?u=76281980&t=39)** If you run into any permission problems, please, read the NPM documentation chapter on fixing NPM permissions, on docs.[npmjs.com](https://npmjs.com).
 >
-> **[0:50](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/what-you-should-know?u=76281980&t=50)** The majority of the JavaScript code in this course uses the ECMAScript standard, also known as ES6.
+> **[0:50](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/what-you-should-know?u=76281980&t=50)** The majority of the JavaScript code in this course uses the [[ECMAScript]] standard, also known as ES6.
 >
 > **[0:58](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/what-you-should-know?u=76281980&t=58)** If you're not familiar with ES6, or, you'd like a refresher, check out Switching to ES6 in Node.js in our library.
 >
@@ -165,27 +162,27 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/what-you-should-know?u=76281980&t=81)** The application we'll be working on is an implementation of rock, paper, scissors, a hand game for two people.
 >
-> **[1:28](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/what-you-should-know?u=76281980&t=88)** It features session storage, database persistence, form handling, routing, and even microservices.
+> **[1:28](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/what-you-should-know?u=76281980&t=88)** It features session storage, database persistence, form handling, [[Routing]], and even [[Microservices]].
 >
 > **[1:35](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/what-you-should-know?u=76281980&t=95)** As you can imagine, if something can go wrong, it will, and we'll work together to optimize and debug the app.
 >
 > **[1:42](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/what-you-should-know?u=76281980&t=102)** No prior knowledge of microservices is necessary, as we'll be exploring that topic in chapter two.
 >
-> **[1:49](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/what-you-should-know?u=76281980&t=109)** The applications uses Express.js, a minimalist Node.js framework.
+> **[1:49](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/what-you-should-know?u=76281980&t=109)** The applications uses [[Express.js]], a minimalist Node.js framework.
 >
 > **[1:54](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/what-you-should-know?u=76281980&t=114)** If you haven't used Express before, or you need a refresher, check out [[Building a Website with Node.js and Express.js]], in our library.
 >
-> **[2:04](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/what-you-should-know?u=76281980&t=124)** Game data will be stored in a MySQL relational database.
+> **[2:04](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/what-you-should-know?u=76281980&t=124)** Game data will be stored in a [[MySQL]] relational database.
 >
 > **[2:08](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/what-you-should-know?u=76281980&t=128)** We're not gonna be optimizing or debugging MySQL itself in this course.
 >
 > **[2:12](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/what-you-should-know?u=76281980&t=132)** Instead, we'll be focusing on handling the responses of services.
 >
-> **[2:17](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/what-you-should-know?u=76281980&t=137)** Therefore, the application will use Knex.js, a SQL query builder that simplifies database interactions with a Promise interface.
+> **[2:17](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/what-you-should-know?u=76281980&t=137)** Therefore, the application will use Knex.js, a [[SQL]] query builder that simplifies database interactions with a Promise interface.
 >
 > **[2:26](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/what-you-should-know?u=76281980&t=146)** No experience with MySQL or Knex is required, and we're not gonna be debugging either of them.
 >
-> **[2:31](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/what-you-should-know?u=76281980&t=151)** But, if you'd like to learn more, check out [[Databases for Node.js Developers]] in our library.
+> **[2:31](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/what-you-should-know?u=76281980&t=151)** But, if you'd like to learn more, check out [[[[Databases]] for Node.js Developers]] in our library.
 >
 > **[2:38](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/what-you-should-know?u=76281980&t=158)** As this is a course on debugging, and not on systems administration, I've included a Docker configuration to get MySQL up and running, with minimal effort.
 >
@@ -197,7 +194,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (11), [[Debugging]] (4), [[MySQL]] (4), [[npm]] (3), application (3)
+> **Frameworks & Libraries:** [[Node.js]] (11), [[MySQL]] (4), [[npm]] (3), [[JavaScript]] (2), [[Microservices]] (2)
 > **CLI Commands:** node (12), mysql (4), npm (3), docker (3), find (1)
 > **File Paths:** node.js (11), express.js (2), knex.js (1)
 > **Env Vars:** npm (3), es6 (3), es7 (1), sql (1)
@@ -206,8 +203,7 @@ created: 2026-05-02
 > **Versions:** node 8 (1)
 > **Analogies:** imagine (1)
 
-#### Using challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/using-challenges?u=76281980)
+#### [Using challenges](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/using-challenges?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -235,14 +231,13 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring your development environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/configuring-your-development-environment?u=76281980)
+#### [Configuring your development environment](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/configuring-your-development-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/configuring-your-development-environment?u=76281980&t=0)** - [Instructor] Let's make sure that your development environment has everything that you need to follow along.
 >
-> **[0:05](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/configuring-your-development-environment?u=76281980&t=5)** First, you'll need Node.js version eight or higher, the current long-term support version.
+> **[0:05](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/configuring-your-development-environment?u=76281980&t=5)** First, you'll need [[Node.js]] version eight or higher, the current long-term support version.
 >
 > **[0:11](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/configuring-your-development-environment?u=76281980&t=11)** Next, you'll need Docker, a containerization program.
 >
@@ -254,7 +249,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/configuring-your-development-environment?u=76281980&t=26)** I'm gonna be demonstrating using Visual Studio Code editor, available from code.[visualstudio.com](https://visualstudio.com).
 >
-> **[0:34](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/configuring-your-development-environment?u=76281980&t=34)** Visual Studio Code is free, open source, and available on Windows, Mac, and Linux.
+> **[0:34](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/configuring-your-development-environment?u=76281980&t=34)** Visual Studio Code is free, open source, and available on [[Windows]], Mac, and [[Linux]].
 >
 > **[0:40](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/configuring-your-development-environment?u=76281980&t=40)** The use of Visual Studio Code is not required, but you'll be able to follow along with the feature demonstrations if you have it.
 >
@@ -262,7 +257,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/configuring-your-development-environment?u=76281980&t=54)** You're gonna need some sort of terminal application.
 >
-> **[0:57](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/configuring-your-development-environment?u=76281980&t=57)** Any terminal will work, including [Terminal.app](https://Terminal.app) for Mac, and PowerShell for Windows.
+> **[0:57](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/configuring-your-development-environment?u=76281980&t=57)** Any terminal will work, including [Terminal.app](https://Terminal.app) for Mac, and [[Powershell]] for Windows.
 >
 > **[1:03](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/configuring-your-development-environment?u=76281980&t=63)** The only requirement is that you must be able to execute Node.js from the terminal.
 >
@@ -270,7 +265,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/configuring-your-development-environment?u=76281980&t=78)** Finally, you're going to need a modern web browser.
 >
-> **[1:21](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/configuring-your-development-environment?u=76281980&t=81)** For this course, I'm gonna be demonstrating using Google Chrome, available from [google.com/chrome](https://google.com/chrome).
+> **[1:21](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/configuring-your-development-environment?u=76281980&t=81)** For this course, I'm gonna be demonstrating using [[Google]] Chrome, available from [google.com/chrome](https://google.com/chrome).
 >
 > **[1:28](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/configuring-your-development-environment?u=76281980&t=88)** Chrome is not required for this course, but there is one video that demonstrates debugging techniques using Chrome.
 >
@@ -334,7 +329,7 @@ created: 2026-05-02
 >
 > **[4:11](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/configuring-your-development-environment?u=76281980&t=251)** I'm using 8.11.2, the long-term support version that was current during recording.
 >
-> **[4:17](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/configuring-your-development-environment?u=76281980&t=257)** Let's see if npm is available as well.
+> **[4:17](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/configuring-your-development-environment?u=76281980&t=257)** Let's see if [[npm]] is available as well.
 >
 > **[4:20](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/configuring-your-development-environment?u=76281980&t=260)** Type the command: npm, space, dash v, and press Return.
 >
@@ -344,7 +339,7 @@ created: 2026-05-02
 >
 > **[4:37](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/configuring-your-development-environment?u=76281980&t=277)** We're gonna need some extensions to optimize the source code editor for Node.js development.
 >
-> **[4:42](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/configuring-your-development-environment?u=76281980&t=282)** We're gonna be using ESLint for coding standards, EditorConfig for VS Code for configuring editor defaults, Node.js Modules Intellisense for autocompletion of packages, and npm for package.json support.
+> **[4:42](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/configuring-your-development-environment?u=76281980&t=282)** We're gonna be using [[ESLint]] for coding standards, EditorConfig for VS Code for configuring editor defaults, Node.js Modules Intellisense for autocompletion of packages, and npm for package.[[JSON]] support.
 >
 > **[4:58](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/configuring-your-development-environment?u=76281980&t=298)** Let's install them now.
 >
@@ -376,7 +371,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (7), application (4), [[npm]] (4), [[Search]] (4), node (3)
+> **Frameworks & Libraries:** [[Node.js]] (7), [[npm]] (4), [[ESLint]] (3), [[Windows]] (2), [[Google]] (2)
 > **Tools:** terminal (14), visual studio (7), vs code (2), powershell (1)
 > **CLI Commands:** node (10), npm (4), make (2), docker (2)
 > **Versions:** version 0 (2), 8.11.2 (1), 5.6.0 (1), 1.4.10 (1), 12.3 (1)
@@ -385,8 +380,7 @@ created: 2026-05-02
 > **File Paths:** node.js (7), package.json (1)
 > **Exercise Files:** exercise files (3), exercise file (1), source code (1)
 
-#### Demo application tour
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/demo-application-tour?u=76281980)
+#### [Demo application tour](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/demo-application-tour?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -418,21 +412,21 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/demo-application-tour?u=76281980&t=60)** To build this application a few technologies were used.
 >
-> **[1:04](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/demo-application-tour?u=76281980&t=64)** Node.js or course is the programming language.
+> **[1:04](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/demo-application-tour?u=76281980&t=64)** [[Node.js]] or course is the programming language.
 >
 > **[1:07](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/demo-application-tour?u=76281980&t=67)** Express is used as the web application framework.
 >
 > **[1:10](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/demo-application-tour?u=76281980&t=70)** On the front end, Pug provided a simple web template and Bootstrap as a framework.
 >
-> **[1:17](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/demo-application-tour?u=76281980&t=77)** Finally, MySQL is used for persistent storage.
+> **[1:17](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/demo-application-tour?u=76281980&t=77)** Finally, [[MySQL]] is used for persistent storage.
 >
 > **[1:21](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/demo-application-tour?u=76281980&t=81)** To keep things focused I avoided some technologies that are commonly used in more robust applications.
 >
-> **[1:27](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/demo-application-tour?u=76281980&t=87)** For example there's no Ajax, this is just a simple HTML form based application.
+> **[1:27](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/demo-application-tour?u=76281980&t=87)** For example there's no [[AJAX]], this is just a simple [[HTML]] form based application.
 >
 > **[1:34](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/demo-application-tour?u=76281980&t=94)** There are no real time libraries like [Socket.IO](https://Socket.IO) because it's literally a course in itself.
 >
-> **[1:41](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/demo-application-tour?u=76281980&t=101)** Finally, there are no front-end JavaScript user interfaces like React or View.
+> **[1:41](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/demo-application-tour?u=76281980&t=101)** Finally, there are no front-end [[JavaScript]] user interfaces like [[React.js|React]] or View.
 >
 > **[1:46](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/demo-application-tour?u=76281980&t=106)** There's nothing wrong with any of these it's just not the focus of a Node.js debugging and performance course.
 >
@@ -496,11 +490,11 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/demo-application-tour?u=76281980&t=255)** We've only scratched the surface of the problems lurking beneath this innocent little game.
 >
-> **[4:20](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/demo-application-tour?u=76281980&t=260)** Let's get started with Node.js to bugging and performance tuning.
+> **[4:20](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/demo-application-tour?u=76281980&t=260)** Let's get started with Node.js to bugging and [[Performance Tuning]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (12), application (6), [[Node.js]] (3), web (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Node.js]] (3), [[MySQL]] (1), [[AJAX]] (1), [[HTML]] (1), [[JavaScript]] (1)
 > **CLI Commands:** node (3), make (2), mysql (1), find (1)
 > **File Paths:** node.js (3)
 > **Definitions:** is a  (2), is an  (1)
@@ -514,20 +508,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Finding what went wrong
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/finding-what-went-wrong?u=76281980)
+#### [Finding what went wrong](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/finding-what-went-wrong?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/finding-what-went-wrong?u=76281980&t=0)** - [Instructor] Everybody wants a fast and reliable site.
 >
-> **[0:04](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/finding-what-went-wrong?u=76281980&t=4)** Awesome, static HTML for everyone.
+> **[0:04](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/finding-what-went-wrong?u=76281980&t=4)** Awesome, static [[HTML]] for everyone.
 >
 > **[0:07](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/finding-what-went-wrong?u=76281980&t=7)** No moving pieces means almost nothing can break.
 >
 > **[0:11](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/finding-what-went-wrong?u=76281980&t=11)** However, we also want sites to actually do things.
 >
-> **[0:14](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/finding-what-went-wrong?u=76281980&t=14)** So we turn to dynamic sites with scripting languages like Node.js.
+> **[0:14](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/finding-what-went-wrong?u=76281980&t=14)** So we turn to dynamic sites with scripting languages like [[Node.js]].
 >
 > **[0:19](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/finding-what-went-wrong?u=76281980&t=19)** This way, we can build wonderful, interactive sites.
 >
@@ -547,7 +540,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/finding-what-went-wrong?u=76281980&t=68)** In the first chapter, we're going to build a constructive troubleshooting mindset to use when dealing with problems that affect sites.
 >
-> **[1:15](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/finding-what-went-wrong?u=76281980&t=75)** This way, we'll have a common theoretical background to practically apply throughout the rest of this course.
+> **[1:15](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/finding-what-went-wrong?u=76281980&t=75)** This way, we'll have a common theoretical background to practically apply throughout the [[Representational State Transfer (REST)|rest]] of this course.
 >
 > **[1:22](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/finding-what-went-wrong?u=76281980&t=82)** We'll start with the art of finding what went wrong, which includes how to frame your investigation.
 >
@@ -585,13 +578,13 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/finding-what-went-wrong?u=76281980&t=162)** Technically, all those statements could be true, but reality is more nuanced.
 >
-> **[2:48](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/finding-what-went-wrong?u=76281980&t=168)** Marketing needs business intelligence and they use industry-standard tools that they're familiar with.
+> **[2:48](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/finding-what-went-wrong?u=76281980&t=168)** Marketing needs [[Business Intelligence (BI)|business intelligence]] and they use industry-standard tools that they're familiar with.
 >
 > **[2:54](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/finding-what-went-wrong?u=76281980&t=174)** Engineering structure the site based on the incomplete requirements they received.
 >
 > **[2:59](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/finding-what-went-wrong?u=76281980&t=179)** There wasn't any mechanism for detecting user abuse, rate limiting usage, or banning offenders.
 >
-> **[3:05](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/finding-what-went-wrong?u=76281980&t=185)** The site is in multiple data centers due to geopolitical differences around user privacy.
+> **[3:05](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/finding-what-went-wrong?u=76281980&t=185)** The site is in multiple data centers due to geopolitical differences around user [[Privacy]].
 >
 > **[3:10](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/finding-what-went-wrong?u=76281980&t=190)** The data center did have backup generators, but they hadn't been maintained and half of them failed.
 >
@@ -651,15 +644,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Engineering]] (3), [[Node.js]] (2), [[Privacy]] (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Node.js]] (2), [[Privacy]] (2), [[HTML]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Business Intelligence (BI)|Business intelligence]] (1)
 > **CLI Commands:** find (4), node (2)
 > **File Paths:** node.js (2)
 > **Env Vars:** html (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Why measure performance?
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/why-measure-performance?u=76281980)
+#### [Why measure performance?](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/why-measure-performance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -721,7 +713,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/why-measure-performance?u=76281980&t=129)** Here's an example.
 >
-> **[2:12](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/why-measure-performance?u=76281980&t=132)** After a user logs into the site at 10 AM Pacific when they visit the dashboard for the very first time the page takes 10 seconds to fully load in Chrome on a Windows 10 desktop machine.
+> **[2:12](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/why-measure-performance?u=76281980&t=132)** After a user logs into the site at 10 AM Pacific when they visit the dashboard for the very first time the page takes 10 seconds to fully load in Chrome on a [[Windows 10]] desktop machine.
 >
 > **[2:25](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/why-measure-performance?u=76281980&t=145)** Let's break that down.
 >
@@ -737,7 +729,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/why-measure-performance?u=76281980&t=166)** 10 seconds is the size in units and fully load is what.
 >
-> **[2:51](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/why-measure-performance?u=76281980&t=171)** Finally Chrome on Windows desktop gives steps to replicate and context.
+> **[2:51](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/why-measure-performance?u=76281980&t=171)** Finally Chrome on [[Windows]] desktop gives steps to replicate and context.
 >
 > **[2:57](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/why-measure-performance?u=76281980&t=177)** Obviously given a report like this, I know that the site is slow.
 >
@@ -747,15 +739,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), product (1), web application (1), [[Windows 10]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Windows 10]] (1), [[Windows]] (1)
 > **CLI Commands:** find (2)
 > **Analogies:** for example (2)
 > **Env Vars:** http (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - ever (1)
 
-#### Documenting problems
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/documenting-problems?u=76281980)
+#### [Documenting problems](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/documenting-problems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -815,15 +806,15 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/documenting-problems?u=76281980&t=124)** Of course, there are already many existing systems for tracking issues.
 >
-> **[2:09](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/documenting-problems?u=76281980&t=129)** Web-based source control hosting services like GitHub and GitLab also include issue queues and projects at no additional costs.
+> **[2:09](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/documenting-problems?u=76281980&t=129)** Web-based source control hosting services like [[GitHub]] and GitLab also include issue queues and projects at no additional costs.
 >
-> **[2:17](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/documenting-problems?u=76281980&t=137)** There are also complex organizational systems like Jira, Basecamp, and Trello that include many ways to track issues and projects.
+> **[2:17](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/documenting-problems?u=76281980&t=137)** There are also complex organizational systems like [[Jira]], Basecamp, and [[Trello]] that include many ways to track issues and projects.
 >
 > **[2:25](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/documenting-problems?u=76281980&t=145)** Tracking individual issues is useful, but what about a more holistic question, how do we know when we've succeeded at debugging or improving performance?
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (2), data (1), web (1), [[GitHub]] (1), [[Jira]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[Jira]] (1), [[Trello]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Tools:** github (1), gitlab (1), jira (1)
 > **Analogies:** such as (1), for example (1)
@@ -831,8 +822,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### When is a problem resolved?
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/when-is-a-problem-resolved?u=76281980)
+#### [When is a problem resolved?](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/when-is-a-problem-resolved?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -848,7 +838,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/when-is-a-problem-resolved?u=76281980&t=29)** When is a problem resolved?
 >
-> **[0:32](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/when-is-a-problem-resolved?u=76281980&t=32)** The answer takes a combination of technical and issue management skills.
+> **[0:32](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/when-is-a-problem-resolved?u=76281980&t=32)** The answer takes a combination of technical and [[Issue Management]] skills.
 >
 > **[0:36](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/when-is-a-problem-resolved?u=76281980&t=36)** First of all, what does resolve?
 >
@@ -936,7 +926,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Issue Management]] (2), web (1), [[Troubleshooting]] (1), data (1), game (1)
+> **Frameworks & Libraries:** [[Issue Management]] (2)
 > **CLI Commands:** find (4), make (3)
 > **Cross-References:** we discussed (1), in the last (1)
 > **Definitions:** is a  (1), means that (1)
@@ -949,8 +939,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What's a microservice architecture?
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/what-s-a-microservice-architecture?u=76281980)
+#### [What's a microservice architecture?](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/what-s-a-microservice-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -960,7 +949,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/what-s-a-microservice-architecture?u=76281980&t=11)** What do engineers find challenging?
 >
-> **[0:13](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/what-s-a-microservice-architecture?u=76281980&t=13)** What's missing from existing debugging and performance tuning tutorials and documentation?
+> **[0:13](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/what-s-a-microservice-architecture?u=76281980&t=13)** What's missing from existing debugging and [[Performance Tuning]] tutorials and documentation?
 >
 > **[0:19](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/what-s-a-microservice-architecture?u=76281980&t=19)** What avoids complexities specific to front-end frameworks and focuses on the back end?
 >
@@ -968,11 +957,11 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/what-s-a-microservice-architecture?u=76281980&t=29)** The answer to all these questions is a microservice architecture.
 >
-> **[0:34](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/what-s-a-microservice-architecture?u=76281980&t=34)** Throughout this chapter, we're gonna be learning the fundamentals of microservices.
+> **[0:34](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/what-s-a-microservice-architecture?u=76281980&t=34)** Throughout this chapter, we're gonna be learning the fundamentals of [[Microservices]].
 >
 > **[0:39](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/what-s-a-microservice-architecture?u=76281980&t=39)** We'll explore how our application was built and why it matters.
 >
-> **[0:43](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/what-s-a-microservice-architecture?u=76281980&t=43)** We'll manage multiple Node.js services at the same time.
+> **[0:43](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/what-s-a-microservice-architecture?u=76281980&t=43)** We'll manage multiple [[Node.js]] services at the same time.
 >
 > **[0:47](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/what-s-a-microservice-architecture?u=76281980&t=47)** Finally, we'll start and explore our rock paper scissors application.
 >
@@ -1028,14 +1017,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), [[Microservices]] (5), node (1), [[Debugging]] (1), [[Performance Tuning]] (1)
+> **Frameworks & Libraries:** [[Microservices]] (5), [[Performance Tuning]] (1), [[Node.js]] (1)
 > **CLI Commands:** node (2), find (1), make (1)
 > **Definitions:** is a  (2), known as (1)
 > **File Paths:** node.js (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microservice rock, paper, scissors
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/microservice-rock-paper-scissors?u=76281980)
+#### [Microservice rock, paper, scissors](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/microservice-rock-paper-scissors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1049,13 +1037,13 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/microservice-rock-paper-scissors?u=76281980&t=21)** The third service is the players API which runs on port 5010.
 >
-> **[0:26](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/microservice-rock-paper-scissors?u=76281980&t=26)** The services communicate using REST API's and always return JSON.
+> **[0:26](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/microservice-rock-paper-scissors?u=76281980&t=26)** The services communicate using [[Representational State Transfer (REST)|REST]] API's and always return [[JSON]].
 >
 > **[0:31](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/microservice-rock-paper-scissors?u=76281980&t=31)** For simplicity, the database is shared across all the services.
 >
 > **[0:36](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/microservice-rock-paper-scissors?u=76281980&t=36)** This unfortunately makes this system more tightly coupled, but for the purposes of a demonstration, it's acceptable.
 >
-> **[0:43](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/microservice-rock-paper-scissors?u=76281980&t=43)** Don't share databases across services in production.
+> **[0:43](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/microservice-rock-paper-scissors?u=76281980&t=43)** Don't share [[Databases]] across services in production.
 >
 > **[0:47](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/microservice-rock-paper-scissors?u=76281980&t=47)** With that in mind, let's look at each service in turn so we know how they work.
 >
@@ -1063,9 +1051,9 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/microservice-rock-paper-scissors?u=76281980&t=57)** The web service is responsible for all interactions with the browser.
 >
-> **[1:01](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/microservice-rock-paper-scissors?u=76281980&t=61)** This includes serving static content such as Style Sheets, JavaScript, and so forth.
+> **[1:01](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/microservice-rock-paper-scissors?u=76281980&t=61)** This includes serving static content such as Style Sheets, [[JavaScript]], and so forth.
 >
-> **[1:07](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/microservice-rock-paper-scissors?u=76281980&t=67)** It also maintains sessions in mysql using the module express sessions.
+> **[1:07](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/microservice-rock-paper-scissors?u=76281980&t=67)** It also maintains sessions in [[MySQL]] using the module express sessions.
 >
 > **[1:12](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/microservice-rock-paper-scissors?u=76281980&t=72)** Web handles all form submission handling, and finally, web sends requests to the games and players' services and renders the results.
 >
@@ -1115,7 +1103,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/microservice-rock-paper-scissors?u=76281980&t=193)** The Games Service has a few routes.
 >
-> **[3:15](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/microservice-rock-paper-scissors?u=76281980&t=195)** You can GET to fetch games by criteria, and POST to create a game, then, you can GET a game by id, and PATCH to update it, then POST to judge to determine the outcome.
+> **[3:15](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/microservice-rock-paper-scissors?u=76281980&t=195)** You can GET to [[Fetch]] games by criteria, and POST to create a game, then, you can GET a game by id, and PATCH to update it, then POST to judge to determine the outcome.
 >
 > **[3:26](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/microservice-rock-paper-scissors?u=76281980&t=206)** There's a final route, rules, that sends an array of human-readable rules for the web service to render.
 >
@@ -1125,7 +1113,7 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/microservice-rock-paper-scissors?u=76281980&t=229)** The web interface communicates via REST to the games and players API's which then respond in JSON, a clean separation of responsibilities across three services and a brief example of a microservice pattern.
 >
-> **[4:03](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/microservice-rock-paper-scissors?u=76281980&t=243)** Did you know that some sites have dozens, even hundreds, of microservices?
+> **[4:03](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/microservice-rock-paper-scissors?u=76281980&t=243)** Did you know that some sites have dozens, even hundreds, of [[Microservices]]?
 >
 > **[4:08](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/microservice-rock-paper-scissors?u=76281980&t=248)** It's an interesting pattern.
 >
@@ -1135,7 +1123,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (11), web (8), api (8), application (3), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[JSON]] (2), [[Microservices]] (2), [[Databases]] (1), [[JavaScript]] (1)
 > **Env Vars:** api (8), post (8), rest (2), json (2), patch (1)
 > **API Endpoints:** post  (7), get  (4), post
  (1), get
@@ -1146,12 +1134,11 @@ created: 2026-05-02
 > **CLI Commands:** make (1), mysql (1)
 > **Analogies:** such as (1)
 
-#### Introducing PM2 for process management
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/introducing-pm2-for-process-management?u=76281980)
+#### [Introducing PM2 for process management](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/introducing-pm2-for-process-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/introducing-pm2-for-process-management?u=76281980&t=0)** - [Instructor] We've got a couple different options for running Node.js Services.
+> **[0:00](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/introducing-pm2-for-process-management?u=76281980&t=0)** - [Instructor] We've got a couple different options for running [[Node.js]] Services.
 >
 > **[0:04](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/introducing-pm2-for-process-management?u=76281980&t=4)** The easiest way would be to start each manually with node.
 >
@@ -1191,21 +1178,21 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/introducing-pm2-for-process-management?u=76281980&t=95)** It's also a production runtime, meaning unlike nodemon, PM2 can be used in customer facing environments.
 >
-> **[1:42](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/introducing-pm2-for-process-management?u=76281980&t=102)** PM2 is open source and works on Linux, Mac OS and Windows.
+> **[1:42](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/introducing-pm2-for-process-management?u=76281980&t=102)** PM2 is open source and works on [[Linux]], Mac OS and [[Windows]].
 >
 > **[1:47](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/introducing-pm2-for-process-management?u=76281980&t=107)** PM2 supports all versions of Node.js made since 2015.
 >
-> **[1:51](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/introducing-pm2-for-process-management?u=76281980&t=111)** It's also really useful for managing microservices.
+> **[1:51](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/introducing-pm2-for-process-management?u=76281980&t=111)** It's also really useful for managing [[Microservices]].
 >
 > **[1:55](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/introducing-pm2-for-process-management?u=76281980&t=115)** In this course we're going to be using PM2 to manage our microservices, monitor resource usage and to view application logs.
 >
 > **[2:04](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/introducing-pm2-for-process-management?u=76281980&t=124)** I've included a PM2 configuration in the exercise files, so no additional configuration is necessary.
 >
-> **[2:10](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/introducing-pm2-for-process-management?u=76281980&t=130)** PM2 can be installed with npm, and we'll do that in the next video.
+> **[2:10](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/introducing-pm2-for-process-management?u=76281980&t=130)** PM2 can be installed with [[npm]], and we'll do that in the next video.
 >
 > **[2:15](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/introducing-pm2-for-process-management?u=76281980&t=135)** PM2 isn't the only Node.js process manager out there.
 >
-> **[2:19](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/introducing-pm2-for-process-management?u=76281980&t=139)** Other options include, StrongLoop Process Manager from [strong-pm.io](https://strong-pm.io), and forever from [github.com/foreverjs](https://github.com/foreverjs).
+> **[2:19](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/introducing-pm2-for-process-management?u=76281980&t=139)** Other options include, StrongLoop Process Manager from [strong-pm.io](https://strong-pm.io), and forever from [[[GitHub]].com/foreverjs](https://github.com/foreverjs).
 >
 > **[2:28](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/introducing-pm2-for-process-management?u=76281980&t=148)** They're both very capable options.
 >
@@ -1221,7 +1208,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (8), [[Debugging]] (3), application (3), [[Microservices]] (2), node (1)
+> **Frameworks & Libraries:** [[Node.js]] (8), [[Microservices]] (2), [[Linux]] (1), [[Windows]] (1), [[npm]] (1)
 > **Env Vars:** pm2 (12), cpu (1)
 > **CLI Commands:** node (9), npm (1), find (1)
 > **File Paths:** node.js (8)
@@ -1230,12 +1217,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Tools:** github (1)
 
-#### Managing microservices with PM2
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/managing-microservices-with-pm2?u=76281980)
+#### [Managing microservices with PM2](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/managing-microservices-with-pm2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/managing-microservices-with-pm2?u=76281980&t=0)** - [Instructor] Now that we have all the prerequisites and we know how the system is built, let's set up our rock, paper, scissors application and manage its microservices with PM2.
+> **[0:00](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/managing-microservices-with-pm2?u=76281980&t=0)** - [Instructor] Now that we have all the prerequisites and we know how the system is built, let's set up our rock, paper, scissors application and manage its [[Microservices]] with PM2.
 >
 > **[0:10](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/managing-microservices-with-pm2?u=76281980&t=10)** Switch over to your editor.
 >
@@ -1257,7 +1243,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/managing-microservices-with-pm2?u=76281980&t=45)** I'm gonna click on the first folder, migrations.
 >
-> **[0:49](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/managing-microservices-with-pm2?u=76281980&t=49)** This contains two files which are used to set up the databases.
+> **[0:49](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/managing-microservices-with-pm2?u=76281980&t=49)** This contains two files which are used to set up the [[Databases]].
 >
 > **[0:52](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/managing-microservices-with-pm2?u=76281980&t=52)** Click again to close the folder.
 >
@@ -1299,13 +1285,13 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/managing-microservices-with-pm2?u=76281980&t=143)** Close web.
 >
-> **[2:26](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/managing-microservices-with-pm2?u=76281980&t=146)** In the root there are a couple code quality files lik the editor config and ESLint files.
+> **[2:26](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/managing-microservices-with-pm2?u=76281980&t=146)** In the root there are a couple code quality files lik the editor config and [[ESLint]] files.
 >
-> **[2:32](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/managing-microservices-with-pm2?u=76281980&t=152)** The docker-compose file contains the service configuration.
+> **[2:32](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/managing-microservices-with-pm2?u=76281980&t=152)** The docker-[[Jetpack Compose|compose]] file contains the service configuration.
 >
 > **[2:36](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/managing-microservices-with-pm2?u=76281980&t=156)** Knexfile sets up the database manager.
 >
-> **[2:39](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/managing-microservices-with-pm2?u=76281980&t=159)** The package.json is shared across all three services which is not normal but is easier to demo.
+> **[2:39](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/managing-microservices-with-pm2?u=76281980&t=159)** The package.[[JSON]] is shared across all three services which is not normal but is easier to demo.
 >
 > **[2:46](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/managing-microservices-with-pm2?u=76281980&t=166)** Pm2.config.js is minimal and hard coded to all three services.
 >
@@ -1317,9 +1303,9 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/managing-microservices-with-pm2?u=76281980&t=189)** Open up the Visual Studio terminal.
 >
-> **[3:12](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/managing-microservices-with-pm2?u=76281980&t=192)** First, let's install the node.js packages.
+> **[3:12](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/managing-microservices-with-pm2?u=76281980&t=192)** First, let's install the [[Node.js]] packages.
 >
-> **[3:15](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/managing-microservices-with-pm2?u=76281980&t=195)** Type npm install and pres enter.
+> **[3:15](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/managing-microservices-with-pm2?u=76281980&t=195)** Type [[npm]] install and pres enter.
 >
 > **[3:24](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/managing-microservices-with-pm2?u=76281980&t=204)** We're going to install PM2 globally using NPM.
 >
@@ -1327,7 +1313,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/managing-microservices-with-pm2?u=76281980&t=215)** If you receive a permission error please check the NPM documentation on what to do about file permissions.
 >
-> **[3:42](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/managing-microservices-with-pm2?u=76281980&t=222)** The next thing we're going to do is start docker which provides a mySQL database.
+> **[3:42](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/managing-microservices-with-pm2?u=76281980&t=222)** The next thing we're going to do is start docker which provides a [[MySQL]] database.
 >
 > **[3:46](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/managing-microservices-with-pm2?u=76281980&t=226)** Type docker-compose up -d then press enter.
 >
@@ -1393,7 +1379,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (9), web (8), [[Microservices]] (5), express (5), database (4)
+> **Frameworks & Libraries:** [[Microservices]] (5), [[npm]] (4), [[Jetpack Compose|Compose]] (2), [[MySQL]] (2), [[Databases]] (1)
 > **Env Vars:** pm2 (8), http (3), npm (2), readme (1), cpu (1)
 > **CLI Commands:** docker (4), npm (4), mysql (2), node (1)
 > **File Paths:** pm2.config.js (3), app.js (1), package.json (1), readme.md (1), node.js (1)
@@ -1407,8 +1393,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why and what should I log?
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/why-and-what-should-i-log?u=76281980)
+#### [Why and what should I log?](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/why-and-what-should-i-log?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1468,7 +1453,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/why-and-what-should-i-log?u=76281980&t=106)** We have no idea what's happening.
 >
-> **[1:50](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/why-and-what-should-i-log?u=76281980&t=110)** In this chapter, we're going to discuss and implement effective logging strategies in our Node.js application.
+> **[1:50](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/why-and-what-should-i-log?u=76281980&t=110)** In this chapter, we're going to discuss and implement effective logging strategies in our [[Node.js]] application.
 >
 > **[1:56](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/why-and-what-should-i-log?u=76281980&t=116)** We'll start with a why and what of logging.
 >
@@ -1498,7 +1483,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/why-and-what-should-i-log?u=76281980&t=173)** As engineers, we need debugging so we can determine what has happened and when.
 >
-> **[2:58](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/why-and-what-should-i-log?u=76281980&t=178)** Finally, log files can be used for analysis to produce statistics about traffic, how people are using the site and so forth.
+> **[2:58](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/why-and-what-should-i-log?u=76281980&t=178)** Finally, log files can be used for analysis to produce [[Statistics]] about traffic, how people are using the site and so forth.
 >
 > **[3:07](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/why-and-what-should-i-log?u=76281980&t=187)** What should be logged?
 >
@@ -1530,7 +1515,7 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/why-and-what-should-i-log?u=76281980&t=238)** On Friday, December 9th, 2018, someone from a particular IP could not find a file.
 >
-> **[4:04](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/why-and-what-should-i-log?u=76281980&t=244)** Finally, a JSON example.
+> **[4:04](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/why-and-what-should-i-log?u=76281980&t=244)** Finally, a [[JSON]] example.
 >
 > **[4:07](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/why-and-what-should-i-log?u=76281980&t=247)** On February 3rd, 2015, videoID 456 was successfully transcoded from MP4 to MKV and it took 12,000 seconds.
 >
@@ -1562,7 +1547,7 @@ created: 2026-05-02
 >
 > **[5:09](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/why-and-what-should-i-log?u=76281980&t=309)** Again, personally identifiable information or PII is any data that could be used to potentially identify a specific individual.
 >
-> **[5:19](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/why-and-what-should-i-log?u=76281980&t=319)** For example, privacy regulations such as the EU's General Data Protection Regulation or GDPR classify IP addresses as personal data.
+> **[5:19](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/why-and-what-should-i-log?u=76281980&t=319)** For example, [[Privacy]] regulations such as the EU's General Data Protection Regulation or GDPR classify IP addresses as personal data.
 >
 > **[5:29](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/why-and-what-should-i-log?u=76281980&t=329)** In short, research.
 >
@@ -1588,7 +1573,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), data (5), game (2), web (2), [[Node.js]] (2)
+> **Frameworks & Libraries:** [[Node.js]] (2), [[Privacy]] (2), [[Statistics]] (1), [[JSON]] (1)
 > **Env Vars:** pii (3), pm2 (2), json (1), mp4 (1), mkv (1)
 > **Analogies:** such as (6), for example (2)
 > **CLI Commands:** make (2), node (2), apache (1), find (1)
@@ -1597,8 +1582,7 @@ created: 2026-05-02
 > **File Paths:** node.js (2)
 > **Ports:** port 5000 (1), :34 (1)
 
-#### Problems with Node.js console
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/problems-with-node-js-console?u=76281980)
+#### [Problems with Node.js console](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/problems-with-node-js-console?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1616,7 +1600,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/problems-with-node-js-console?u=76281980&t=22)** Let's start with how Node handles input and output.
 >
-> **[0:25](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/problems-with-node-js-console?u=76281980&t=25)** By default, Node.js on its own, has no log file.
+> **[0:25](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/problems-with-node-js-console?u=76281980&t=25)** By default, [[Node.js]] on its own, has no log file.
 >
 > **[0:29](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/problems-with-node-js-console?u=76281980&t=29)** While there's output or errors, they're sent to what's known as standard streams.
 >
@@ -1692,7 +1676,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/problems-with-node-js-console?u=76281980&t=214)** A request logger does pretty much what it sounds like, it records a log entry for each request.
 >
-> **[3:40](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/problems-with-node-js-console?u=76281980&t=220)** The best place to put a request logger in a web server is after the static files, but before any routing, ready?
+> **[3:40](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/problems-with-node-js-console?u=76281980&t=220)** The best place to put a request logger in a web server is after the static files, but before any [[Routing]], ready?
 >
 > **[3:48](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/problems-with-node-js-console?u=76281980&t=228)** Open up Visual Studio Code.
 >
@@ -1750,7 +1734,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (7), [[Node.js]] (4), web (3), next (3), game (3)
+> **Frameworks & Libraries:** [[Node.js]] (4), [[Routing]] (1)
 > **CLI Commands:** node (11), make (2)
 > **Env Vars:** pm2 (3), url (2), api (1), iso (1)
 > **Tools:** terminal (6), visual studio (1)
@@ -1759,8 +1743,7 @@ created: 2026-05-02
 > **Definitions:** known as (1), is an  (1), is a  (1)
 > **Analogies:** just like (1)
 
-#### Implementing Express error pages
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/implementing-express-error-pages?u=76281980)
+#### [Implementing Express error pages](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/implementing-express-error-pages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1772,7 +1755,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/implementing-express-error-pages?u=76281980&t=11)** It's a best practice to implement custom error pages in node applications for a couple of reasons.
 >
-> **[0:16](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/implementing-express-error-pages?u=76281980&t=16)** First, there's the control over the user experience.
+> **[0:16](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/implementing-express-error-pages?u=76281980&t=16)** First, there's the control over the [[User Experience (UX)|user experience]].
 >
 > **[0:19](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/implementing-express-error-pages?u=76281980&t=19)** It can be very jarring to get a white page with a little bit of diagnostic information instead of a nicely themed error page.
 >
@@ -1862,7 +1845,7 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/implementing-express-error-pages?u=76281980&t=243)** Click Edit.
 >
-> **[4:05](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/implementing-express-error-pages?u=76281980&t=245)** And let's delete everything and replace it with the word Three.
+> **[4:05](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/implementing-express-error-pages?u=76281980&t=245)** And let's delete everything and replace it with the [[Microsoft Word|word]] Three.
 >
 > **[4:10](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/implementing-express-error-pages?u=76281980&t=250)** Click Save.
 >
@@ -1924,7 +1907,7 @@ created: 2026-05-02
 >
 > **[6:20](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/implementing-express-error-pages?u=76281980&t=380)** In the logs, we do actually see a record of the error.
 >
-> **[6:26](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/implementing-express-error-pages?u=76281980&t=386)** A failure to parse JSON from the session.
+> **[6:26](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/implementing-express-error-pages?u=76281980&t=386)** A failure to parse [[JSON]] from the session.
 >
 > **[6:31](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/implementing-express-error-pages?u=76281980&t=391)** So what's missing?
 >
@@ -1932,11 +1915,11 @@ created: 2026-05-02
 >
 > **[6:38](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/implementing-express-error-pages?u=76281980&t=398)** Also, wouldn't it be nice to know what the response code was sent?
 >
-> **[6:42](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/implementing-express-error-pages?u=76281980&t=402)** The good news is that we have more logging options beyond node.js' built-in console.
+> **[6:42](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/implementing-express-error-pages?u=76281980&t=402)** The good news is that we have more logging options beyond [[Node.js]]' built-in console.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), game (2), database (2), express (1), node (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), [[Microsoft Word|Word]] (1), [[JSON]] (1), [[Node.js]] (1)
 > **CLI Commands:** node (2), make (2), find (1)
 > **File Paths:** app.js (2), router.js (1), node.js (1)
 > **Tools:** terminal (3), visual studio (1)
@@ -1945,8 +1928,7 @@ created: 2026-05-02
 > **Warnings:** warning (3)
 > **Code Identifiers:** originalurl (1), headerssent (1)
 
-#### Choosing a logging library
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/choosing-a-logging-library?u=76281980)
+#### [Choosing a logging library](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/choosing-a-logging-library?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1960,7 +1942,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/choosing-a-logging-library?u=76281980&t=14)** Do you need to use a standard like the NCSA common log format?
 >
-> **[0:18](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/choosing-a-logging-library?u=76281980&t=18)** What about writing structured data in formats like JSON?
+> **[0:18](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/choosing-a-logging-library?u=76281980&t=18)** What about writing structured data in formats like [[JSON]]?
 >
 > **[0:22](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/choosing-a-logging-library?u=76281980&t=22)** There's the severity of a log entry.
 >
@@ -1984,7 +1966,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/choosing-a-logging-library?u=76281980&t=78)** Why does having different logging levels matter?
 >
-> **[1:21](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/choosing-a-logging-library?u=76281980&t=81)** With log levels, you can react differently depending on severity and filter out log entries that may be too trivial to pay attention to.
+> **[1:21](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/choosing-a-logging-library?u=76281980&t=81)** With log levels, you can [[React.js|react]] differently depending on severity and filter out log entries that may be too trivial to pay attention to.
 >
 > **[1:29](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/choosing-a-logging-library?u=76281980&t=89)** Also, some loggers format severities differently, such as making errors red.
 >
@@ -1992,9 +1974,9 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/choosing-a-logging-library?u=76281980&t=104)** What about performance?
 >
-> **[1:45](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/choosing-a-logging-library?u=76281980&t=105)** Node.js's console is synchronous and blocks execution until it's done, therefore, you want to find an asynchronous logging system to maximize performance.
+> **[1:45](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/choosing-a-logging-library?u=76281980&t=105)** [[Node.js]]'s console is synchronous and blocks execution until it's done, therefore, you want to find an asynchronous logging system to maximize performance.
 >
-> **[1:55](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/choosing-a-logging-library?u=76281980&t=115)** Finally, there's the question of log routing.
+> **[1:55](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/choosing-a-logging-library?u=76281980&t=115)** Finally, there's the question of log [[Routing]].
 >
 > **[1:58](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/choosing-a-logging-library?u=76281980&t=118)** Where are the logs being sent?
 >
@@ -2038,7 +2020,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/choosing-a-logging-library?u=76281980&t=225)** It's also not great for application logging because it's so minimal.
 >
-> **[3:50](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/choosing-a-logging-library?u=76281980&t=230)** Log4js is roughly based on the Java project with a similar name, Apache Log4j.
+> **[3:50](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/choosing-a-logging-library?u=76281980&t=230)** Log4js is roughly based on the [[Java]] project with a similar name, Apache Log4j.
 >
 > **[3:56](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/choosing-a-logging-library?u=76281980&t=236)** Log4js is flexible and formattable so you can take control over many aspects of logging.
 >
@@ -2062,7 +2044,7 @@ created: 2026-05-02
 >
 > **[4:54](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/choosing-a-logging-library?u=76281980&t=294)** For performance, winston includes simple profiling to see how long operations take.
 >
-> **[4:58](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/choosing-a-logging-library?u=76281980&t=298)** By default, winston's logging levels are the same as NPM's, silly, debug, verbose, info, warn, and error.
+> **[4:58](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/choosing-a-logging-library?u=76281980&t=298)** By default, winston's logging levels are the same as [[npm]]'s, silly, debug, verbose, info, warn, and error.
 >
 > **[5:07](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/choosing-a-logging-library?u=76281980&t=307)** You can easily specify your own logging levels if these don't work for you.
 >
@@ -2082,7 +2064,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (5), [[JSON]] (3), data (2), [[Debugging]] (2), application (2)
+> **Frameworks & Libraries:** [[Routing]] (5), [[JSON]] (3), [[React.js|React]] (1), [[Node.js]] (1), [[Java]] (1)
 > **Env Vars:** json (3), ncsa (1), rfc (1), npm (1)
 > **Definitions:** is a  (5), is an  (1)
 > **CLI Commands:** node (2), find (1), apache (1), npm (1)
@@ -2091,8 +2073,7 @@ created: 2026-05-02
 > **Documentation:** rfc (1)
 > **Tools:** terminal (1)
 
-#### Adding Winston for Node logging
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/adding-winston-for-node-logging?u=76281980)
+#### [Adding Winston for Node logging](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/adding-winston-for-node-logging?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2122,7 +2103,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/adding-winston-for-node-logging?u=76281980&t=58)** If the logger is still running, press control C to exit.
 >
-> **[1:02](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/adding-winston-for-node-logging?u=76281980&t=62)** We're going to use npm to add Winston and press return.
+> **[1:02](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/adding-winston-for-node-logging?u=76281980&t=62)** We're going to use [[npm]] to add Winston and press return.
 >
 > **[1:11](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/adding-winston-for-node-logging?u=76281980&t=71)** That's all we need to do from the terminal, so let's close it.
 >
@@ -2184,7 +2165,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[npm]] (1), next (1), web (1)
+> **Frameworks & Libraries:** [[npm]] (1)
 > **Tools:** terminal (5), visual studio (1)
 > **CLI Commands:** make (4), npm (1)
 > **File Paths:** logger.js (2), index.js (1)
@@ -2193,8 +2174,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Exercise Files:** template (1)
 
-#### Request logging with Morgan
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/request-logging-with-morgan?u=76281980)
+#### [Request logging with Morgan](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/request-logging-with-morgan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2228,13 +2208,13 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/request-logging-with-morgan?u=76281980&t=73)** From the terminal, we're gonna add morgan to our project.
 >
-> **[1:16](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/request-logging-with-morgan?u=76281980&t=76)** So npm add morgan.
+> **[1:16](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/request-logging-with-morgan?u=76281980&t=76)** So [[npm]] add morgan.
 >
 > **[1:21](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/request-logging-with-morgan?u=76281980&t=81)** Perfect.
 >
 > **[1:22](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/request-logging-with-morgan?u=76281980&t=82)** That's all we need from the terminal for now, so close it.
 >
-> **[1:25](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/request-logging-with-morgan?u=76281980&t=85)** And let's close our other windows.
+> **[1:25](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/request-logging-with-morgan?u=76281980&t=85)** And let's close our other [[Windows]].
 >
 > **[1:29](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/request-logging-with-morgan?u=76281980&t=89)** We're gonna create a unified request logger using morgan.
 >
@@ -2266,7 +2246,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/request-logging-with-morgan?u=76281980&t=179)** We get an error message because we still have that corrupted session.
 >
-> **[3:04](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/request-logging-with-morgan?u=76281980&t=184)** However, since we still have the corrupted session, we scroll up, notice we get the syntax error unexpected token T in JSON because we corrupted the session manually.
+> **[3:04](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/request-logging-with-morgan?u=76281980&t=184)** However, since we still have the corrupted session, we scroll up, notice we get the syntax error unexpected token T in [[JSON]] because we corrupted the session manually.
 >
 > **[3:16](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/request-logging-with-morgan?u=76281980&t=196)** The middleware we just added is not going to be invoked.
 >
@@ -2334,13 +2314,13 @@ created: 2026-05-02
 >
 > **[6:22](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/request-logging-with-morgan?u=76281980&t=382)** There are a number of different formats including combined, short, and others.
 >
-> **[6:26](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/request-logging-with-morgan?u=76281980&t=386)** You can also make your own, either using their tokens, or by creating one from scratch.
+> **[6:26](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/request-logging-with-morgan?u=76281980&t=386)** You can also make your own, either using their [[Tokens]], or by creating one from scratch.
 >
 > **[6:31](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/request-logging-with-morgan?u=76281980&t=391)** We're logging requests and web now, but how do we follow the path of a single request across multiple log entries?
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), express (1), [[Debugging]] (1), [[npm]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[npm]] (1), [[Windows]] (1), [[JSON]] (1), [[Tokens]] (1)
 > **UI Navigation:** open the (3), go to (3), scroll down (1), scroll up (1)
 > **Tools:** terminal (6), vs code (1)
 > **CLI Commands:** apache (1), npm (1), find (1), make (1)
@@ -2349,8 +2329,7 @@ created: 2026-05-02
 > **Definitions:** is a  (3), is an  (1)
 > **Cross-References:** as we saw (1), go back to (1)
 
-#### Correlating requests in logs
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/correlating-requests-in-logs?u=76281980)
+#### [Correlating requests in logs](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/correlating-requests-in-logs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2396,7 +2375,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/correlating-requests-in-logs?u=76281980&t=118)** Switch over to Visual Studio code, open up the terminal.
 >
-> **[2:04](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/correlating-requests-in-logs?u=76281980&t=124)** Press Control + C to break out of the logger and then we're going to use npm to add express-request-id.
+> **[2:04](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/correlating-requests-in-logs?u=76281980&t=124)** Press Control + C to break out of the logger and then we're going to use [[npm]] to add express-request-id.
 >
 > **[2:17](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/correlating-requests-in-logs?u=76281980&t=137)** Let's start with the web server, open up servers, web, app.js and close the terminal.
 >
@@ -2408,7 +2387,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/correlating-requests-in-logs?u=76281980&t=176)** Now let's update our request logger to use a custom format that includes the request ID.
 >
-> **[3:02](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/correlating-requests-in-logs?u=76281980&t=182)** Open up the request logger, earlier I mentioned that Morgan supports custom tokens, let's create one now for request IDs.
+> **[3:02](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/correlating-requests-in-logs?u=76281980&t=182)** Open up the request logger, earlier I mentioned that Morgan supports custom [[Tokens]], let's create one now for request IDs.
 >
 > **[3:11](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/correlating-requests-in-logs?u=76281980&t=191)** Before our configuration we're gonna call Morgan's token method.
 >
@@ -2452,11 +2431,11 @@ created: 2026-05-02
 >
 > **[6:06](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/correlating-requests-in-logs?u=76281980&t=366)** However, notice that the request IDs for web and players are different.
 >
-> **[6:12](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/correlating-requests-in-logs?u=76281980&t=372)** How do we follow the path of a request as it interacts with potentially multiple microservices?
+> **[6:12](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/correlating-requests-in-logs?u=76281980&t=372)** How do we follow the path of a request as it interacts with potentially multiple [[Microservices]]?
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (8), web (4), [[Tokens]] (2), game (1), [[npm]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (2), [[npm]] (1), [[Microservices]] (1)
 > **Code Identifiers:** requestlogger (4), expressrequestid (4), requestid (3)
 > **Tools:** terminal (5), visual studio (1)
 > **Env Vars:** captcha (2), uuid (1)
@@ -2465,14 +2444,13 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Definitions:** known as (1)
 
-#### Cross-application request correlation
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/cross-application-request-correlation?u=76281980)
+#### [Cross-application request correlation](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/cross-application-request-correlation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/cross-application-request-correlation?u=76281980&t=0)** - [Instructor] The problem of correlating logs for a request is compounded when working with multiple services.
 >
-> **[0:06](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/cross-application-request-correlation?u=76281980&t=6)** A single request can potentially call multiple microservices in order to build a single response.
+> **[0:06](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/cross-application-request-correlation?u=76281980&t=6)** A single request can potentially call multiple [[Microservices]] in order to build a single response.
 >
 > **[0:12](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/cross-application-request-correlation?u=76281980&t=12)** How can you track a single request without having each service create unique identifiers?
 >
@@ -2582,7 +2560,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), web (2), express (2), [[Microservices]] (1), next (1)
+> **Frameworks & Libraries:** [[Microservices]] (1)
 > **Code Identifiers:** requestid (6), httpclient (3), playersclient (2)
 > **Definitions:** known as (1), is a  (1), is an  (1)
 > **Tools:** visual studio (1), terminal (1)
@@ -2591,8 +2569,7 @@ created: 2026-05-02
 > **Cross-References:** we discussed (1)
 > **Documentation:** the documentation (1)
 
-#### Challenge: Cross-application request IDs
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/challenge-cross-application-request-ids?u=76281980)
+#### [Challenge: Cross-application request IDs](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/challenge-cross-application-request-ids?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2644,15 +2621,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), express (3), application (2), game (1), next (1)
 > **Code Identifiers:** gamesclient (2), playersclient (2), requestlogger (1)
 > **Env Vars:** http (5)
 > **CLI Commands:** make (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Cross-application request IDs
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/solution-cross-application-request-ids?u=76281980)
+#### [Solution: Cross-application request IDs](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/solution-cross-application-request-ids?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2796,7 +2771,7 @@ created: 2026-05-02
 >
 > **[5:10](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/solution-cross-application-request-ids?u=76281980&t=310)** All right, documentation
 >
-> **[5:20](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/solution-cross-application-request-ids?u=76281980&t=320)** for the fetch, for the update, for the judge, and for the rules.
+> **[5:20](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/solution-cross-application-request-ids?u=76281980&t=320)** for the [[Fetch]], for the update, for the judge, and for the rules.
 >
 > **[5:33](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/solution-cross-application-request-ids?u=76281980&t=333)** Okay, sanity check.
 >
@@ -2920,7 +2895,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), web (3), game (3), next (2), [[Fetch]] (2)
+> **Frameworks & Libraries:** [[Fetch]] (2)
 > **Code Identifiers:** requestid (14), gamesclient (6), playersclient (4), requestlogger (2), httpclient (2)
 > **CLI Commands:** make (4), find (1)
 > **File Paths:** app.js (3)
@@ -2934,8 +2909,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Debugging isn't just logging
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/debugging-isn-t-just-logging?u=76281980)
+#### [Debugging isn't just logging](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/debugging-isn-t-just-logging?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2945,7 +2919,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/debugging-isn-t-just-logging?u=76281980&t=7)** Knowing about problems is important, but that's only part of the challenge.
 >
-> **[0:12](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/debugging-isn-t-just-logging?u=76281980&t=12)** In this chapter, we'll focus on ways to debug Node.js software and eliminate errors we've identified.
+> **[0:12](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/debugging-isn-t-just-logging?u=76281980&t=12)** In this chapter, we'll focus on ways to debug [[Node.js]] software and eliminate errors we've identified.
 >
 > **[0:19](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/debugging-isn-t-just-logging?u=76281980&t=19)** We'll start by exploring different ways to locate problems in an application.
 >
@@ -3033,7 +3007,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Debugging]] (8), [[Search]] (4), node (3), application (2), [[Node.js]] (2)
+> **Frameworks & Libraries:** [[Node.js]] (2)
 > **Definitions:** is a  (5), known as (2)
 > **CLI Commands:** node (5), find (1)
 > **File Paths:** node.js (2)
@@ -3041,12 +3015,11 @@ created: 2026-05-02
 > **Tools:** visual studio (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introducing Node's built-in debugger
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/introducing-node-s-built-in-debugger?u=76281980)
+#### [Introducing Node's built-in debugger](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/introducing-node-s-built-in-debugger?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/introducing-node-s-built-in-debugger?u=76281980&t=0)** - [Instructor] Node.js includes a debugger that's already built in.
+> **[0:00](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/introducing-node-s-built-in-debugger?u=76281980&t=0)** - [Instructor] [[Node.js]] includes a debugger that's already built in.
 >
 > **[0:03](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/introducing-node-s-built-in-debugger?u=76281980&t=3)** What is it and what can it do?
 >
@@ -3110,7 +3083,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/introducing-node-s-built-in-debugger?u=76281980&t=159)** To use it, pass inspect as an argument to Node followed by the script to execute.
 >
-> **[2:44](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/introducing-node-s-built-in-debugger?u=76281980&t=164)** This starts the Inspector agent and the CLI client in one command.
+> **[2:44](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/introducing-node-s-built-in-debugger?u=76281980&t=164)** This starts the Inspector agent and the [[CLI]] client in one command.
 >
 > **[2:49](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/introducing-node-s-built-in-debugger?u=76281980&t=169)** While technically we can configure PM2, our process manager, to start the inspector agent, it's really awkward and adds a layer of unnecessary complexity.
 >
@@ -3122,7 +3095,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/introducing-node-s-built-in-debugger?u=76281980&t=195)** Exposing the debugger publicly is a major security hole.
 >
-> **[3:19](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/introducing-node-s-built-in-debugger?u=76281980&t=199)** Never use the debugger in production or on any machine that doesn't have SANE network security.
+> **[3:19](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/introducing-node-s-built-in-debugger?u=76281980&t=199)** Never use the debugger in production or on any machine that doesn't have SANE [[Network Security]].
 >
 > **[3:25](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/introducing-node-s-built-in-debugger?u=76281980&t=205)** With that said, if it's on a local work station with a firewall, you should be fine.
 >
@@ -3130,7 +3103,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (8), [[Node.js]] (4), [[Debugging]] (3), next (2), [[CLI]] (1)
+> **Frameworks & Libraries:** [[Node.js]] (4), [[CLI]] (1), [[Network Security]] (1)
 > **CLI Commands:** node (12)
 > **File Paths:** node.js (4)
 > **Env Vars:** pm2 (2), cli (1), sane (1)
@@ -3139,8 +3112,7 @@ created: 2026-05-02
 > **Analogies:** such as (1), for example (1)
 > **Prerequisites:** configure (2)
 
-#### Command-line debugging with Node inspect
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/command-line-debugging-with-node-inspect?u=76281980)
+#### [Command-line debugging with Node inspect](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/command-line-debugging-with-node-inspect?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3244,7 +3216,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (14), node (6), next (2), data (1)
 > **Env Vars:** pm2 (4), repl (2), url (1)
 > **CLI Commands:** node (6)
 > **Tools:** terminal (4), visual studio (1), chrome devtools (1)
@@ -3252,9 +3223,9 @@ created: 2026-05-02
 > **UI Navigation:** navigate to (2), scroll down (1)
 > **Warnings:** note that (2)
 > **Ports:** port 5000 (1)
+> **Exercise Files:** source code (1)
 
-#### Debugging Node in Chrome DevTools
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/debugging-node-in-chrome-devtools?u=76281980)
+#### [Debugging Node in Chrome DevTools](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/debugging-node-in-chrome-devtools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3408,7 +3379,7 @@ created: 2026-05-02
 >
 > **[6:37](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/debugging-node-in-chrome-devtools?u=76281980&t=397)** pm2 start web --watch.
 >
-> **[6:43](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/debugging-node-in-chrome-devtools?u=76281980&t=403)** The inspect functionality in Google Chrome Developer Tools is very useful, but a downside is, there's also a lot of windows to keep track of.
+> **[6:43](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/debugging-node-in-chrome-devtools?u=76281980&t=403)** The inspect functionality in [[Google]] Chrome Developer Tools is very useful, but a downside is, there's also a lot of [[Windows]] to keep track of.
 >
 > **[6:52](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/debugging-node-in-chrome-devtools?u=76281980&t=412)** What about Visual Studio Code?
 >
@@ -3416,7 +3387,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (12), node (4), next (2), application (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Windows]] (1)
 > **Tools:** terminal (5), chrome devtools (2), visual studio (1)
 > **CLI Commands:** node (4), make (1), find (1)
 > **Env Vars:** fish (3), http (2), pm2 (1)
@@ -3425,8 +3396,7 @@ created: 2026-05-02
 > **File Paths:** app.js (1), router.js (1), servers/web/index.js (1)
 > **Definitions:** is a  (2)
 
-#### Debugging Node with Visual Studio Code
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/debugging-node-with-visual-studio-code?u=76281980)
+#### [Debugging Node with Visual Studio Code](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/debugging-node-with-visual-studio-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3454,9 +3424,9 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/debugging-node-with-visual-studio-code?u=76281980&t=53)** We'll be prompted for an environment.
 >
-> **[0:54](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/debugging-node-with-visual-studio-code?u=76281980&t=54)** Select Node.js.
+> **[0:54](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/debugging-node-with-visual-studio-code?u=76281980&t=54)** Select [[Node.js]].
 >
-> **[0:57](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/debugging-node-with-visual-studio-code?u=76281980&t=57)** This generates a new file in the .vscode folder named launch.json.
+> **[0:57](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/debugging-node-with-visual-studio-code?u=76281980&t=57)** This generates a new file in the .vscode folder named launch.[[JSON]].
 >
 > **[1:03](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/debugging-node-with-visual-studio-code?u=76281980&t=63)** If we look at the program path, it just says workspaceFolder/index.js.
 >
@@ -3598,7 +3568,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Debugging]] (8), web (7), node (6), [[Node.js]] (2), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Node.js]] (2), [[JSON]] (1)
 > **Tools:** vs code (8), terminal (4), chrome devtools (2), visual studio (2)
 > **CLI Commands:** node (8), make (2)
 > **File Paths:** node.js (2), app.js (2), launch.json (1), workspacefolder/index.js (1), index.js (1)
@@ -3612,8 +3582,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Benchmarking performance
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/benchmarking-performance?u=76281980)
+#### [Benchmarking performance](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/benchmarking-performance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3625,7 +3594,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/benchmarking-performance?u=76281980&t=15)** With those measurements, we can find what's slow and hopefully improve it.
 >
-> **[0:19](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/benchmarking-performance?u=76281980&t=19)** In this chapter, we're going to be measuring site performance with a focus on the back end of Node.js applications.
+> **[0:19](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/benchmarking-performance?u=76281980&t=19)** In this chapter, we're going to be measuring site performance with a focus on the back end of [[Node.js]] applications.
 >
 > **[0:26](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/benchmarking-performance?u=76281980&t=26)** Performance optimization is a broad topic, but we'll be exploring some of the fundamentals that should kickstart your exploration.
 >
@@ -3651,7 +3620,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/benchmarking-performance?u=76281980&t=75)** Sometimes it's useful to determine how long it takes for one iteration through a loop, which could then generate an average.
 >
-> **[1:21](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/benchmarking-performance?u=76281980&t=81)** The duration of database queries is a frequent target.
+> **[1:21](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/benchmarking-performance?u=76281980&t=81)** The duration of [[Database Queries]] is a frequent target.
 >
 > **[1:25](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/benchmarking-performance?u=76281980&t=85)** There are two types of benchmarking tools, and it's helpful to know their differences and when to use them.
 >
@@ -3733,7 +3702,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (1), [[Node.js]] (1), database (1), next (1), node (1)
+> **Frameworks & Libraries:** [[Node.js]] (1), [[Database Queries]] (1)
 > **Env Vars:** http (9)
 > **Definitions:** is a  (6), is an  (1)
 > **CLI Commands:** apache (3), node (2), find (1)
@@ -3742,20 +3711,19 @@ created: 2026-05-02
 > **Code Identifiers:** indexof (2), timeend (1)
 > **File Paths:** node.js (1)
 
-#### Benchmarking with ApacheBench
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/benchmarking-with-apachebench?u=76281980)
+#### [Benchmarking with ApacheBench](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/benchmarking-with-apachebench?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/benchmarking-with-apachebench?u=76281980&t=1)** - [Instructor] ApacheBench is a tool from the Apache Foundation for benchmarking HTTP servers.
 >
-> **[0:06](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/benchmarking-with-apachebench?u=76281980&t=6)** Wait a second, don't we have a Node.js server?
+> **[0:06](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/benchmarking-with-apachebench?u=76281980&t=6)** Wait a second, don't we have a [[Node.js]] server?
 >
 > **[0:09](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/benchmarking-with-apachebench?u=76281980&t=9)** Yes we do, and ApacheBench can be used to test any HTTP server, not just Apache.
 >
 > **[0:16](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/benchmarking-with-apachebench?u=76281980&t=16)** The ApacheBench utility is included with the Apache HTTP server.
 >
-> **[0:20](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/benchmarking-with-apachebench?u=76281980&t=20)** AB also comes preinstalled on macOS, and is also available on Windows and Linux.
+> **[0:20](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/benchmarking-with-apachebench?u=76281980&t=20)** AB also comes preinstalled on macOS, and is also available on [[Windows]] and [[Linux]].
 >
 > **[0:27](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/benchmarking-with-apachebench?u=76281980&t=27)** More on installation in a moment.
 >
@@ -3779,7 +3747,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/benchmarking-with-apachebench?u=76281980&t=80)** Let's look at the download page together.
 >
-> **[1:23](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/benchmarking-with-apachebench?u=76281980&t=83)** Navigate to [apachefriends.org/download.html](https://apachefriends.org/download.html).
+> **[1:23](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/benchmarking-with-apachebench?u=76281980&t=83)** Navigate to [apachefriends.org/download.[[HTML]]](https://apachefriends.org/download.html).
 >
 > **[1:29](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/benchmarking-with-apachebench?u=76281980&t=89)** Click on More Downloads, then XAMPP Windows.
 >
@@ -3887,7 +3855,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (8), web (4), database (2), [[Node.js]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Windows]] (8), [[Node.js]] (1), [[Linux]] (1), [[HTML]] (1)
 > **Env Vars:** http (4), xampp (2), url (1)
 > **Tools:** terminal (6), vs code (1)
 > **CLI Commands:** apache (4), node (1)
@@ -3896,8 +3864,7 @@ created: 2026-05-02
 > **File Paths:** node.js (1), apachefriends.org/download.html (1)
 > **Ports:** :5000 (1), port 8080 (1)
 
-#### Benchmarking code with Winston
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/benchmarking-code-with-winston?u=76281980)
+#### [Benchmarking code with Winston](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/benchmarking-code-with-winston?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3923,7 +3890,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/benchmarking-code-with-winston?u=76281980&t=57)** According to the documentation at the time of this writing, there are no plans on making this message configurable.
 >
-> **[1:04](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/benchmarking-code-with-winston?u=76281980&t=64)** So, we'll make our message match the rest of our logging by including a request ID.
+> **[1:04](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/benchmarking-code-with-winston?u=76281980&t=64)** So, we'll make our message match the [[Representational State Transfer (REST)|rest]] of our logging by including a request ID.
 >
 > **[1:08](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/benchmarking-code-with-winston?u=76281980&t=68)** Ready to get started?
 >
@@ -3991,7 +3958,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (10), application (4), api (3), express (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** starttimer (2), gamesclient (1), getgamebyid (1), getgamesbyid (1)
 > **Tools:** terminal (3), vs code (2)
 > **CLI Commands:** make (3), find (1)
@@ -4000,8 +3967,7 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **UI Navigation:** navigate to (1)
 
-#### Profiling code execution
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/profiling-code-execution?u=76281980)
+#### [Profiling code execution](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/profiling-code-execution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4029,7 +3995,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/profiling-code-execution?u=76281980&t=62)** Some IDEs include built-in profiler and profiler processors, but to my surprise, at the time of this writing, Visual Studio Code does not.
 >
-> **[1:11](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/profiling-code-execution?u=76281980&t=71)** A request for one was made publicly in github, but was closed with a brief explanation that it wasn't being considered.
+> **[1:11](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/profiling-code-execution?u=76281980&t=71)** A request for one was made publicly in [[GitHub]], but was closed with a brief explanation that it wasn't being considered.
 >
 > **[1:17](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/profiling-code-execution?u=76281980&t=77)** Therefore, we're gonna use Node's built-in profiler and processor.
 >
@@ -4065,7 +4031,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/profiling-code-execution?u=76281980&t=148)** Right click on the terminal and go to New Terminal.
 >
-> **[2:31](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/profiling-code-execution?u=76281980&t=151)** Windows users, please adjust the command to reflect wherever you installed Apache Bench to.
+> **[2:31](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/profiling-code-execution?u=76281980&t=151)** [[Windows]] users, please adjust the command to reflect wherever you installed Apache Bench to.
 >
 > **[2:37](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/profiling-code-execution?u=76281980&t=157)** Let's send some ab traffic to our games room.
 >
@@ -4087,7 +4053,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/profiling-code-execution?u=76281980&t=214)** Good thing we're gonna use a tool to read it.
 >
-> **[3:36](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/profiling-code-execution?u=76281980&t=216)** However, as of this writing, there is a bug in Node.js that was introduced in version 8.10 and still exists in version 8.11, which is what we're using.
+> **[3:36](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/profiling-code-execution?u=76281980&t=216)** However, as of this writing, there is a bug in [[Node.js]] that was introduced in version 8.10 and still exists in version 8.11, which is what we're using.
 >
 > **[3:49](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/profiling-code-execution?u=76281980&t=229)** There is a workaround.
 >
@@ -4139,7 +4105,7 @@ created: 2026-05-02
 >
 > **[5:51](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/profiling-code-execution?u=76281980&t=351)** Let's turn off the Docker integration.
 >
-> **[5:53](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/profiling-code-execution?u=76281980&t=353)** Type docker-compose stop.
+> **[5:53](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/profiling-code-execution?u=76281980&t=353)** Type docker-[[Jetpack Compose|compose]] stop.
 >
 > **[6:01](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/profiling-code-execution?u=76281980&t=361)** When reading one of these profiler process reports, there's a couple things to keep in mind.
 >
@@ -4163,13 +4129,13 @@ created: 2026-05-02
 >
 > **[7:06](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/profiling-code-execution?u=76281980&t=426)** Throughout this course, we've covered architecture, logging, debugging, and measuring performance.
 >
-> **[7:12](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/profiling-code-execution?u=76281980&t=432)** Is that all there is to debugging and performance tuning?
+> **[7:12](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/profiling-code-execution?u=76281980&t=432)** Is that all there is to debugging and [[Performance Tuning]]?
 >
 > **[7:16](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/profiling-code-execution?u=76281980&t=436)** Of course not.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (13), web (5), application (2), [[GitHub]] (2), traffic (2)
+> **Frameworks & Libraries:** [[GitHub]] (2), [[Windows]] (2), [[Node.js]] (2), [[Jetpack Compose|Compose]] (1), [[Performance Tuning]] (1)
 > **CLI Commands:** node (15), apache (3), docker (2), make (1), cd (1)
 > **Tools:** terminal (6), visual studio (3), github (2), vs code (1), command line (1)
 > **Definitions:** is a  (5), means that (1), is called (1), refers to (1)
@@ -4183,8 +4149,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Knowing what to optimize
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/knowing-what-to-optimize?u=76281980)
+#### [Knowing what to optimize](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/knowing-what-to-optimize?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4194,7 +4159,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/knowing-what-to-optimize?u=76281980&t=13)** I'm also gonna give a brief introduction to caching, a performance optimization technique which is already covered in greater depth in other courses.
 >
-> **[0:20](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/knowing-what-to-optimize?u=76281980&t=20)** Finally, I'll discuss some potential next steps that you can take in your quest to master performance tuning and debugging.
+> **[0:20](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/knowing-what-to-optimize?u=76281980&t=20)** Finally, I'll discuss some potential next steps that you can take in your quest to master [[Performance Tuning]] and debugging.
 >
 > **[0:27](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/knowing-what-to-optimize?u=76281980&t=27)** In Greek mythology, a cruel king named Sisyphus was condemned to forever roll a huge stone up a hill only to have it fall down again when nearing the top.
 >
@@ -4212,7 +4177,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/knowing-what-to-optimize?u=76281980&t=73)** Is everything up-to-date?
 >
-> **[1:15](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/knowing-what-to-optimize?u=76281980&t=75)** There are many components in a node.js stack including node.js itself, the modules in package.json, the services such as the database used for storage, and the operating system itself.
+> **[1:15](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/knowing-what-to-optimize?u=76281980&t=75)** There are many components in a [[Node.js]] stack including node.js itself, the modules in package.[[JSON]], the services such as the database used for storage, and the operating system itself.
 >
 > **[1:27](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/knowing-what-to-optimize?u=76281980&t=87)** Updates usually bring performance enhancements, bug and security fixes, along with new functionality.
 >
@@ -4236,7 +4201,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/knowing-what-to-optimize?u=76281980&t=155)** This reduces memory usage and the complexity of your code.
 >
-> **[2:39](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/knowing-what-to-optimize?u=76281980&t=159)** There are a couple rules in ESLint that can help.
+> **[2:39](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/knowing-what-to-optimize?u=76281980&t=159)** There are a couple rules in [[ESLint]] that can help.
 >
 > **[2:42](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/knowing-what-to-optimize?u=76281980&t=162)** In core, the no-unused-vars highlights just that, which in itself, helps clean up code.
 >
@@ -4252,7 +4217,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/knowing-what-to-optimize?u=76281980&t=190)** Or are there some weird outliers that are abandoned and unmaintained?
 >
-> **[3:15](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/knowing-what-to-optimize?u=76281980&t=195)** Utilities such as npm-check can check for outdated, incorrect, and unused dependencies.
+> **[3:15](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/knowing-what-to-optimize?u=76281980&t=195)** Utilities such as [[npm]]-check can check for outdated, incorrect, and unused dependencies.
 >
 > **[3:21](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/knowing-what-to-optimize?u=76281980&t=201)** The unused dependencies feature is particularly useful.
 >
@@ -4294,7 +4259,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (4), [[JSON]] (3), node (3), [[ESLint]] (2), application (2)
+> **Frameworks & Libraries:** [[Node.js]] (4), [[JSON]] (3), [[ESLint]] (2), [[Performance Tuning]] (1), [[npm]] (1)
 > **CLI Commands:** node (7), make (4), find (1), npm (1)
 > **File Paths:** node.js (4), package.json (3)
 > **Analogies:** such as (2), for example (2)
@@ -4303,8 +4268,7 @@ created: 2026-05-02
 > **Env Vars:** pm2 (1)
 > **Definitions:** is a  (1)
 
-#### Caching fundamentals
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/caching-fundamentals?u=76281980)
+#### [Caching fundamentals](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/caching-fundamentals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4368,7 +4332,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/caching-fundamentals?u=76281980&t=147)** We've discussed back-end caching results within the server already.
 >
-> **[2:30](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/caching-fundamentals?u=76281980&t=150)** In addition, resources such as HTML, JavaScript, Style Sheets and Images, used in the front-end can be cached through the browser based on metadata provided by server response headers.
+> **[2:30](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/caching-fundamentals?u=76281980&t=150)** In addition, resources such as [[HTML]], [[JavaScript]], Style Sheets and Images, used in the front-end can be cached through the browser based on [[Metadata]] provided by server response headers.
 >
 > **[2:41](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/caching-fundamentals?u=76281980&t=161)** High performance applications take advantage of multiple caching techniques on both the back-end and the front-end.
 >
@@ -4378,7 +4342,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), game (5), api (3), application (2), front-end (2)
+> **Frameworks & Libraries:** [[HTML]] (1), [[JavaScript]] (1), [[Metadata]] (1)
 > **Env Vars:** ttl (3), api (3), html (1)
 > **CLI Commands:** make (2)
 > **Definitions:** known as (1), is a  (1)
@@ -4387,8 +4351,7 @@ created: 2026-05-02
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4400,7 +4363,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/next-steps?u=76281980&t=18)** Automated testing and code quality tools can be used to detect logical errors and prevent regressions.
 >
-> **[0:24](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/next-steps?u=76281980&t=24)** Check out the course, [[Node.js- Testing and Code Quality]] in your library for more details.
+> **[0:24](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/next-steps?u=76281980&t=24)** Check out the course, [[[[Node.js]]- Testing and Code Quality]] in your library for more details.
 >
 > **[0:30](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/next-steps?u=76281980&t=30)** Investigate options for aggregating your logs into one place for analysis.
 >
@@ -4408,9 +4371,9 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/next-steps?u=76281980&t=40)** There are many options, including open source solutions like Logstach and Graylog, and commercial solutions like Splunk, that can get you started.
 >
-> **[0:49](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/next-steps?u=76281980&t=49)** There's a class of products known as Application Performance Management, or APM.
+> **[0:49](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/next-steps?u=76281980&t=49)** There's a class of [[Microsoft Products|products]] known as Application Performance Management, or APM.
 >
-> **[0:54](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/next-steps?u=76281980&t=54)** They monitor the performance and availability of applications, and produce metrics and reports that are incredibly useful for finding stability and performance metrics.
+> **[0:54](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/next-steps?u=76281980&t=54)** They monitor the performance and availability of applications, and produce metrics and reports that are incredibly useful for finding stability and [[Performance Metrics]].
 >
 > **[1:03](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/next-steps?u=76281980&t=63)** Commercial solutions include AppDynamics and New Relic, among others.
 >
@@ -4418,7 +4381,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/next-steps?u=76281980&t=73)** Here's three courses that I'd like to highlight in your library that are excellent resources for continuing your discovery.
 >
-> **[1:19](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/next-steps?u=76281980&t=79)** Designing Websites for Performance, Learning Enterprise Web Application Performance, and [[Databases for Node.js Developers]], especially the Redis part.
+> **[1:19](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/next-steps?u=76281980&t=79)** Designing Websites for Performance, Learning Enterprise Web Application Performance, and [[[[Databases]] for Node.js Developers]], especially the [[Redis]] part.
 >
 > **[1:29](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/next-steps?u=76281980&t=89)** We've come a long way together, and I hope you've gained an understanding of the fundamentals of debugging and tuning in Node.js applications.
 >
@@ -4444,7 +4407,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (3), [[Debugging]] (2), application (2), [[Microsoft Products|Products]] (1), management (1)
+> **Frameworks & Libraries:** [[Node.js]] (3), [[Microsoft Products|Products]] (1), [[Performance Metrics]] (1), [[Databases]] (1), [[Redis]] (1)
 > **CLI Commands:** node (3), find (1), make (1)
 > **File Paths:** node.js (3)
 > **Env Vars:** apm (1)

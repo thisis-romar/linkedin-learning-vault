@@ -88,8 +88,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand and test the security of identity providers
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/understand-and-test-the-security-of-identity-providers?u=76281980)
+#### [Understand and test the security of identity providers](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/understand-and-test-the-security-of-identity-providers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -97,7 +96,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/understand-and-test-the-security-of-identity-providers?u=76281980&t=6)** And the security mechanism for that is typically credential based-access control.
 >
-> **[0:12](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/understand-and-test-the-security-of-identity-providers?u=76281980&t=12)** Enterprise credentials are stored using central directories, often, Microsoft's Active Directory.
+> **[0:12](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/understand-and-test-the-security-of-identity-providers?u=76281980&t=12)** Enterprise credentials are stored using central directories, often, [[Microsoft]]'s [[Active Directory]].
 >
 > **[0:18](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/understand-and-test-the-security-of-identity-providers?u=76281980&t=18)** So we have to be doubly sure that these identity stores are secure.
 >
@@ -105,39 +104,37 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/understand-and-test-the-security-of-identity-providers?u=76281980&t=29)** I'd like to invite you to take this course and learn about how attackers try to access our active directory systems, and the ways we can secure them.
 >
-> **[0:37](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/understand-and-test-the-security-of-identity-providers?u=76281980&t=37)** Now let's get started with Penetration Testing Active Directory.
+> **[0:37](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/understand-and-test-the-security-of-identity-providers?u=76281980&t=37)** Now let's get started with [[Penetration Testing]] Active Directory.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (3), [[Security]] (1), [[Microsoft]] (1), career (1), [[Penetration Testing]] (1)
+> **Frameworks & Libraries:** [[Active Directory]] (3), [[Microsoft]] (1), [[Penetration Testing]] (1)
 > **Speakers:** - [malcolm] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/what-you-should-know?u=76281980&t=0)** - [Instructor] This is a practical course and we'll be using Kali Linux-based tools to do testing.
+> **[0:00](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/what-you-should-know?u=76281980&t=0)** - [Instructor] This is a practical course and we'll be using [[Kali Linux]]-based tools to do testing.
 >
-> **[0:06](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/what-you-should-know?u=76281980&t=6)** And we'll be targeting servers on both our VirtualBox test network, which we set up in Learning Kali Linux, and on the Hack-the-Box testing lab.
+> **[0:06](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/what-you-should-know?u=76281980&t=6)** And we'll be targeting servers on both our VirtualBox test network, which we set up in Learning Kali Linux, and on the [[HackTheBox|Hack-the-Box]] testing lab.
 >
 > **[0:16](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/what-you-should-know?u=76281980&t=16)** You'll need to have a good working knowledge of Kali Linux and it would be useful to have some experience with pen testing in general.
 >
-> **[0:23](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/what-you-should-know?u=76281980&t=23)** If you've taken the Advanced Kali Linux and penetration Testing Essentials courses, that would be an advantage.
+> **[0:23](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/what-you-should-know?u=76281980&t=23)** If you've taken the Advanced Kali Linux and [[Penetration Testing]] Essentials courses, that would be an advantage.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kali Linux]] (4), [[Penetration Testing]] (1)
+> **Frameworks & Libraries:** [[Kali Linux]] (4), [[HackTheBox|Hack-the-box]] (1), [[Penetration Testing]] (1)
 > **Prerequisites:** set up (1), you'll need (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Disclaimer
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/disclaimer?u=76281980)
+#### [Disclaimer](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/disclaimer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/disclaimer?u=76281980&t=0)** - [Malcolm] This is one of a series of advanced penetration testing courses, and in addition to Kali Linux, it uses some third party testing software.
+> **[0:00](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/disclaimer?u=76281980&t=0)** - [Malcolm] This is one of a series of advanced [[Penetration Testing]] courses, and in addition to [[Kali Linux]], it uses some third party testing software.
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/disclaimer?u=76281980&t=9)** While we've done our best to ensure that the tools we use and the sites we reference are legitimate, testing sites can be targets for hackers, and we can't provide any assurance that these sites might not be compromised when you visit them.
 >
@@ -163,8 +160,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand Active Directory's role in security
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/understand-active-directory-s-role-in-security?u=76281980)
+#### [Understand Active Directory's role in security](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/understand-active-directory-s-role-in-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -192,15 +188,15 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/understand-active-directory-s-role-in-security?u=76281980&t=95)** And today, pretty much every computer maintains a local directory holding user identities and their credentials.
 >
-> **[1:42](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/understand-active-directory-s-role-in-security?u=76281980&t=102)** In Linux, it's the slash cetera slash password file, together with the shadow file for password hashes.
+> **[1:42](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/understand-active-directory-s-role-in-security?u=76281980&t=102)** In [[Linux]], it's the slash cetera slash password file, together with the shadow file for password hashes.
 >
-> **[1:48](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/understand-active-directory-s-role-in-security?u=76281980&t=108)** And in Windows, it's the Windows Security Account Manager, or SAM subsystem.
+> **[1:48](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/understand-active-directory-s-role-in-security?u=76281980&t=108)** And in [[Windows]], it's the Windows Security Account Manager, or SAM subsystem.
 >
 > **[1:54](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/understand-active-directory-s-role-in-security?u=76281980&t=114)** For enterprise solutions, identities tend to be centrally managed through commercial identity management solutions.
 >
-> **[2:01](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/understand-active-directory-s-role-in-security?u=76281980&t=121)** A simple solution we may encounter is the Open Source LDAP server, but the most common directory is the Windows-based Active Directory.
+> **[2:01](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/understand-active-directory-s-role-in-security?u=76281980&t=121)** A simple solution we may encounter is the Open Source LDAP server, but the most common directory is the Windows-based [[Active Directory]].
 >
-> **[2:09](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/understand-active-directory-s-role-in-security?u=76281980&t=129)** We'll also come across third party products such as Shibboleth, Okta, Oracle Identity, and so on, all of which provide value added services on top of basic identities.
+> **[2:09](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/understand-active-directory-s-role-in-security?u=76281980&t=129)** We'll also come across third party [[Microsoft Products|products]] such as Shibboleth, Okta, Oracle Identity, and so on, all of which provide value added services on top of basic identities.
 >
 > **[2:21](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/understand-active-directory-s-role-in-security?u=76281980&t=141)** The main use of a directory is to manage the logical ownership of users and computers within the enterprise organizational structure.
 >
@@ -208,9 +204,9 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/understand-active-directory-s-role-in-security?u=76281980&t=157)** While we can manage Active Directory using Server Manager via the console, we'll often want to use a remote client interface to manage it.
 >
-> **[2:45](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/understand-active-directory-s-role-in-security?u=76281980&t=165)** Microsoft provides the remote server administration tool, which can configured as a standard feature on a Windows workstation.
+> **[2:45](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/understand-active-directory-s-role-in-security?u=76281980&t=165)** [[Microsoft]] provides the remote server administration tool, which can configured as a standard feature on a Windows workstation.
 >
-> **[2:53](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/understand-active-directory-s-role-in-security?u=76281980&t=173)** And there's also Powershell, which enables command line, power user management.
+> **[2:53](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/understand-active-directory-s-role-in-security?u=76281980&t=173)** And there's also [[Powershell]], which enables command line, power [[User Management]].
 >
 > **[2:58](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/understand-active-directory-s-role-in-security?u=76281980&t=178)** We can access the LDAP service on Active Directory and on Linux LDAP servers using third party tools, such as LDAPAdmin and Jxplorer.
 >
@@ -220,7 +216,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/understand-active-directory-s-role-in-security?u=76281980&t=204)** Active Directory stores its password hashes in the Windows SAM file.
 >
-> **[3:28](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/understand-active-directory-s-role-in-security?u=76281980&t=208)** Unfortunately, many of the breaches we've seen and continue to see are due to passwords being easily guessed or the password hashes being cracked using a dictionary attack tool such as Hydra or John the Ripper, In an effort to make passwords secure, The security industry has moved towards the use of complex passwords, but this often makes the problem worse, not better.
+> **[3:28](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/understand-active-directory-s-role-in-security?u=76281980&t=208)** Unfortunately, many of the breaches we've seen and continue to see are due to passwords being easily guessed or the password hashes being cracked using a dictionary attack tool such as [[Hydra]] or [[John the Ripper]], In an effort to make passwords secure, The security industry has moved towards the use of complex passwords, but this often makes the problem worse, not better.
 >
 > **[3:52](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/understand-active-directory-s-role-in-security?u=76281980&t=232)** Fortunately, we are now seeing the increased use of a second layer of authentication through one-time codes.
 >
@@ -234,7 +230,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (5), management (4), [[Security]] (4), [[Active Directory]] (4), business (3)
+> **Frameworks & Libraries:** [[Windows]] (5), [[Active Directory]] (4), [[Linux]] (2), [[Microsoft Products|Products]] (1), [[Microsoft]] (1)
 > **Env Vars:** iam (3), ldap (3), sam (2)
 > **Definitions:** known as (2), is an  (1), is a  (1)
 > **Analogies:** such as (4)
@@ -243,12 +239,11 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### The LDAP protocol
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/the-ldap-protocol?u=76281980)
+#### [The LDAP protocol](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/the-ldap-protocol?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/the-ldap-protocol?u=76281980&t=0)** - [Instructor] LDAP is the Lightweight Directory Access Protocol and is used extensively in various forms of enterprise servers.
+> **[0:00](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/the-ldap-protocol?u=76281980&t=0)** - [Instructor] LDAP is the Lightweight Directory Access Protocol and is used extensively in various [[Forms]] of enterprise servers.
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/the-ldap-protocol?u=76281980&t=8)** It provides a standard way of accessing an X 500 compliant directory.
 >
@@ -284,28 +279,27 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **Env Vars:** ldap (8), tcp (1), osi (1), ldaps (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Interact with LDAP at the command line
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/interact-with-ldap-at-the-command-line?u=76281980)
+#### [Interact with LDAP at the command line](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/interact-with-ldap-at-the-command-line?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/interact-with-ldap-at-the-command-line?u=76281980&t=0)** - [Instructor] Let's see how we interact with a simple LDAP service.
 >
-> **[0:04](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/interact-with-ldap-at-the-command-line?u=76281980&t=4)** I've set up an OpenLDAP server on my Ubuntu system at IP address 10.0.2.23 and populated it with a small number of demonstration entries.
+> **[0:04](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/interact-with-ldap-at-the-command-line?u=76281980&t=4)** I've set up an OpenLDAP server on my [[Ubuntu]] system at IP address 10.0.2.23 and populated it with a small number of demonstration entries.
 >
-> **[0:13](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/interact-with-ldap-at-the-command-line?u=76281980&t=13)** We won't spend much time on OpenLDAP, but if you do want to do more, you can find all you need to know in Grant MC Williams, Linux OpenLDAP course here on LinkedIn Learning.
+> **[0:13](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/interact-with-ldap-at-the-command-line?u=76281980&t=13)** We won't spend much time on OpenLDAP, but if you do want to do more, you can find all you need to know in Grant MC Williams, [[Linux]] OpenLDAP course here on [[LinkedIn]] Learning.
 >
 > **[0:25](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/interact-with-ldap-at-the-command-line?u=76281980&t=25)** We can enumerate LDAP directory information at the Carly terminal using Nmaps, LDAP search script, and for an OpenLDAP server, we'd expect to be able to gain anonymous access.
 >
 > **[0:35](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/interact-with-ldap-at-the-command-line?u=76281980&t=35)** In other words, we don't need to authenticate with credentials.
 >
-> **[0:39](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/interact-with-ldap-at-the-command-line?u=76281980&t=39)** We do this with Nmap minus p389 10.0.2.23
+> **[0:39](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/interact-with-ldap-at-the-command-line?u=76281980&t=39)** We do this with [[Nmap]] minus p389 10.0.2.23
 >
 > **[0:48](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/interact-with-ldap-at-the-command-line?u=76281980&t=48)** minus minus script equals LDAP search.
 >
@@ -351,7 +345,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (5), database (3), [[Ubuntu]] (1), [[Linux]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Nmap]] (3), [[Ubuntu]] (1), [[Linux]] (1), [[LinkedIn]] (1)
 > **Env Vars:** ldap (10), ssh (2)
 > **CLI Commands:** ssh (2), find (1), cat (1), sudo (1)
 > **Versions:** 10.0.2 (4)
@@ -360,8 +354,7 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Analogies:** such as (1)
 
-#### The LDAPAdmin tool
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/the-ldapadmin-tool?u=76281980)
+#### [The LDAPAdmin tool](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/the-ldapadmin-tool?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -377,7 +370,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/the-ldapadmin-tool?u=76281980&t=25)** So let's go and have a look at it.
 >
-> **[0:29](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/the-ldapadmin-tool?u=76281980&t=29)** Let's start, connect, new connection and we'll call it Cybex and the host is 10.0.2.23 and we'll make sure anonymous connection is checked and we'll fetch DNS.
+> **[0:29](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/the-ldapadmin-tool?u=76281980&t=29)** Let's start, connect, new connection and we'll call it Cybex and the host is 10.0.2.23 and we'll make sure anonymous connection is checked and we'll [[Fetch]] DNS.
 >
 > **[0:49](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/the-ldapadmin-tool?u=76281980&t=49)** And very quickly we find that LDAP Admin has identified cybex.nz as our domain.
 >
@@ -397,7 +390,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fetch]] (1), dns (1)
+> **Frameworks & Libraries:** [[Fetch]] (1)
 > **Env Vars:** ldap (4), dns (1)
 > **CLI Commands:** make (1), find (1)
 > **Versions:** 1.8.3 (1), 10.0.2 (1)
@@ -405,14 +398,13 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is Active Directory?
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/what-is-active-directory?u=76281980)
+#### [What is Active Directory?](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/what-is-active-directory?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/what-is-active-directory?u=76281980&t=0)** - [Malcolm] Microsoft provides an LDAP-compliant identity provider called Active Directory as an optional feature in its server range.
+> **[0:00](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/what-is-active-directory?u=76281980&t=0)** - [Malcolm] [[Microsoft]] provides an LDAP-compliant identity provider called [[Active Directory]] as an optional feature in its server range.
 >
-> **[0:08](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/what-is-active-directory?u=76281980&t=8)** So when we purchase a Windows server, we've also got a latent Active Directory waiting to be activated.
+> **[0:08](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/what-is-active-directory?u=76281980&t=8)** So when we purchase a [[Windows Server]], we've also got a latent Active Directory waiting to be activated.
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/what-is-active-directory?u=76281980&t=15)** However, with Microsoft, we get much more than just an LDAP directory.
 >
@@ -486,7 +478,7 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/what-is-active-directory?u=76281980&t=249)** Let's get a glimpse of what this looks like.
 >
-> **[4:12](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/what-is-active-directory?u=76281980&t=252)** We can run a tool that comes with Kali Linux called DMitry, which retrieves public information on an organization.
+> **[4:12](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/what-is-active-directory?u=76281980&t=252)** We can run a tool that comes with [[Kali Linux]] called DMitry, which retrieves public information on an organization.
 >
 > **[4:19](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/what-is-active-directory?u=76281980&t=259)** I'll run this against [yahoo.com](https://yahoo.com).
 >
@@ -514,7 +506,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (27), [[Windows Server]] (4), [[Microsoft]] (3), management (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Active Directory]] (27), [[Windows Server]] (4), [[Microsoft]] (3), [[Kali Linux]] (1)
 > **URLs:** [yahoo.com](https://yahoo.com) (6)
 > **Prerequisites:** set up (4), install (1), configure (1)
 > **Env Vars:** ldap (4)
@@ -523,16 +515,15 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [malcolm] (1)
 
-#### Interact with Active Directory at the command line
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/interact-with-active-directory-at-the-command-line?u=76281980)
+#### [Interact with Active Directory at the command line](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/interact-with-active-directory-at-the-command-line?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/interact-with-active-directory-at-the-command-line?u=76281980&t=0)** - [Instructor] We can use command line tools to query active directory through its LDAP service, as we did for OpenLDAP, as they both present a standard LDAP service.
+> **[0:00](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/interact-with-active-directory-at-the-command-line?u=76281980&t=0)** - [Instructor] We can use command line tools to query [[Active Directory]] through its LDAP service, as we did for OpenLDAP, as they both present a standard LDAP service.
 >
 > **[0:10](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/interact-with-active-directory-at-the-command-line?u=76281980&t=10)** I've got an active directory server running on IP address 192.168.1.199 and managing the [cybex.com](https://cybex.com) domain.
 >
-> **[0:20](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/interact-with-active-directory-at-the-command-line?u=76281980&t=20)** So let's use Nmap to dump out the LDAP database using the LDAP search script.
+> **[0:20](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/interact-with-active-directory-at-the-command-line?u=76281980&t=20)** So let's use [[Nmap]] to dump out the LDAP database using the LDAP search script.
 >
 > **[0:26](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/interact-with-active-directory-at-the-command-line?u=76281980&t=26)** However, a standard active directory doesn't allow unauthenticated access.
 >
@@ -556,7 +547,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (4), [[Search]] (3), database (1)
+> **Frameworks & Libraries:** [[Active Directory]] (4), [[Nmap]] (2)
 > **Env Vars:** ldap (7)
 > **Versions:** 192.168.1 (2)
 > **CLI Commands:** make (1)
@@ -564,12 +555,11 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
 
-#### Access LDAP services with a GUI client
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/access-ldap-services-with-a-gui-client?u=76281980)
+#### [Access LDAP services with a GUI client](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/access-ldap-services-with-a-gui-client?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/access-ldap-services-with-a-gui-client?u=76281980&t=0)** - [Instructor] We've already looked at LDAP Admin to provide a GUI interface to LDAP, and there's another open source tool worth looking at called JXplorer, the Java-based LDAP Explorer tool.
+> **[0:00](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/access-ldap-services-with-a-gui-client?u=76281980&t=0)** - [Instructor] We've already looked at LDAP Admin to provide a GUI interface to LDAP, and there's another open source tool worth looking at called JXplorer, the [[Java]]-based LDAP Explorer tool.
 >
 > **[0:11](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/access-ldap-services-with-a-gui-client?u=76281980&t=11)** This doesn't come as standard in Kali, so we need to install it using APT.
 >
@@ -581,7 +571,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/access-ldap-services-with-a-gui-client?u=76281980&t=32)** Jxplorer.
 >
-> **[0:37](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/access-ldap-services-with-a-gui-client?u=76281980&t=37)** Let's take a first look at Active Directory's LDAP service, using JXplorer.
+> **[0:37](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/access-ldap-services-with-a-gui-client?u=76281980&t=37)** Let's take a first look at [[Active Directory]]'s LDAP service, using JXplorer.
 >
 > **[0:43](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/access-ldap-services-with-a-gui-client?u=76281980&t=43)** At the main screen, we click on the connect icon, and put in the host, 192.168.1.199.
 >
@@ -597,7 +587,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/access-ldap-services-with-a-gui-client?u=76281980&t=108)** Opening the domain DNS zones isn't quite so daunting, with just four entries.
 >
-> **[1:54](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/access-ldap-services-with-a-gui-client?u=76281980&t=114)** If we expand Microsoft DNS, we see that [cybex.com](https://cybex.com) is our DNS entry, and we can expand that, and we see the various networking entries for our domain.
+> **[1:54](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/access-ldap-services-with-a-gui-client?u=76281980&t=114)** If we expand [[Microsoft]] DNS, we see that [cybex.com](https://cybex.com) is our DNS entry, and we can expand that, and we see the various networking entries for our domain.
 >
 > **[2:08](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/access-ldap-services-with-a-gui-client?u=76281980&t=128)** Then the entry, DESKTOP-11RRJVH, which is our one token work station in the domain at the moment.
 >
@@ -631,7 +621,7 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/access-ldap-services-with-a-gui-client?u=76281980&t=241)** Note that we don't get the user password hash as part of a normal remote query.
 >
-> **[4:06](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/access-ldap-services-with-a-gui-client?u=76281980&t=246)** We can switch the display from HTML View to Table Editor View using the top tab, and that shows a much more complete view of the active directory record.
+> **[4:06](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/access-ldap-services-with-a-gui-client?u=76281980&t=246)** We can switch the display from [[HTML]] View to Table Editor View using the top tab, and that shows a much more complete view of the active directory record.
 >
 > **[4:17](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/access-ldap-services-with-a-gui-client?u=76281980&t=257)** Let's run a more involved query.
 >
@@ -665,7 +655,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (11), [[Active Directory]] (4), dns (3), [[Java]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Active Directory]] (4), [[Java]] (1), [[Microsoft]] (1), [[HTML]] (1)
 > **Env Vars:** ldap (5), dns (3), gui (1), apt (1), desktop (1)
 > **Code Identifiers:** admincount (3), organizationalunit (2), samaccountname (1), userprinciplename (1), memberof (1)
 > **UI Navigation:** click on (3), select the (1), scroll down (1)
@@ -674,12 +664,11 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Warnings:** warning (1), note that (1)
 
-#### Add users and computers to a domain
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/add-users-and-computers-to-a-domain?u=76281980)
+#### [Add users and computers to a domain](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/add-users-and-computers-to-a-domain?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/add-users-and-computers-to-a-domain?u=76281980&t=0)** - [Instructor] Let's have a brief look at how we set-up users in our Active Directory server.
+> **[0:00](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/add-users-and-computers-to-a-domain?u=76281980&t=0)** - [Instructor] Let's have a brief look at how we set-up users in our [[Active Directory]] server.
 >
 > **[0:04](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/add-users-and-computers-to-a-domain?u=76281980&t=4)** We're logged into the Active Directory.
 >
@@ -717,7 +706,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/add-users-and-computers-to-a-domain?u=76281980&t=109)** Let's have a look at how we connect the computer to the domain.
 >
-> **[1:53](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/add-users-and-computers-to-a-domain?u=76281980&t=113)** We're on a newly deployed Windows 10 desktop.
+> **[1:53](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/add-users-and-computers-to-a-domain?u=76281980&t=113)** We're on a newly deployed [[Windows 10]] desktop.
 >
 > **[1:56](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/add-users-and-computers-to-a-domain?u=76281980&t=116)** And we want to connect this Cybex domain.
 >
@@ -725,7 +714,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/add-users-and-computers-to-a-domain?u=76281980&t=142)** And in the DNS section, we'll set the preferred DNS server to our Active Directory, 192.168.1.199.
 >
-> **[2:35](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/add-users-and-computers-to-a-domain?u=76281980&t=155)** And we can close these windows.
+> **[2:35](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/add-users-and-computers-to-a-domain?u=76281980&t=155)** And we can close these [[Windows]].
 >
 > **[2:39](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/add-users-and-computers-to-a-domain?u=76281980&t=159)** Now, let's select Control Panel, System,
 >
@@ -757,7 +746,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (4), dns (2), [[Windows]] (2), [[Windows 10]] (1), business (1)
+> **Frameworks & Libraries:** [[Active Directory]] (4), [[Windows]] (2), [[Windows 10]] (1)
 > **Env Vars:** dns (2), desktop (1)
 > **UI Navigation:** right-click (1), select the (1), click on (1)
 > **URLs:** [cybex.com](https://cybex.com) (2)
@@ -765,12 +754,11 @@ created: 2026-05-02
 > **Versions:** 192.168.1 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Active Directory security audit
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/active-directory-security-audit?u=76281980)
+#### [Active Directory security audit](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/active-directory-security-audit?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/active-directory-security-audit?u=76281980&t=0)** - [Instructor] Before we get into deep testing of Active Directory, we can usually take a more defensive approach and run a security audit across our domain.
+> **[0:00](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/active-directory-security-audit?u=76281980&t=0)** - [Instructor] Before we get into deep testing of [[Active Directory]], we can usually take a more defensive approach and run a security audit across our domain.
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/active-directory-security-audit?u=76281980&t=9)** We can do this by browsing the Active Directory but this is a long and difficult road to take.
 >
@@ -798,7 +786,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (3), [[Security]] (1)
+> **Frameworks & Libraries:** [[Active Directory]] (3)
 > **URLs:** [cybex.com](https://cybex.com) (3)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -808,14 +796,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Set up for testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/set-up-for-testing?u=76281980)
+#### [Set up for testing](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/set-up-for-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/set-up-for-testing?u=76281980&t=0)** - [Instructor] We've done a little hands on work so far, so let's take a look at what we need for the full testing lab corrective directory.
 >
-> **[0:07](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/set-up-for-testing?u=76281980&t=7)** This course is about active directory and so it's a minimum, we need a Carly testing workstation and an active directory running on a Windows server.
+> **[0:07](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/set-up-for-testing?u=76281980&t=7)** This course is about [[Active Directory]] and so it's a minimum, we need a Carly testing workstation and an active directory running on a [[Windows Server]].
 >
 > **[0:16](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/set-up-for-testing?u=76281980&t=16)** It's useful to also have at least one domain workstation.
 >
@@ -827,13 +814,13 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/set-up-for-testing?u=76281980&t=34)** You can set up a very respectable lab on a secondhand server for just a hundred dollars or so.
 >
-> **[0:40](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/set-up-for-testing?u=76281980&t=40)** If you want to install active directory and follow along, then you can download and install the 180 day free version of Microsoft server 2019 from the Microsoft site shown here and configure it for the active directory domain server role.
+> **[0:40](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/set-up-for-testing?u=76281980&t=40)** If you want to install active directory and follow along, then you can download and install the 180 day free version of [[Microsoft]] server 2019 from the Microsoft site shown here and configure it for the active directory domain server role.
 >
 > **[0:56](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/set-up-for-testing?u=76281980&t=56)** We've already lugged the 10 map and L DAP admin and we've installed J Explorer.
 >
 > **[1:01](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/set-up-for-testing?u=76281980&t=61)** There are our five additional tools we'll be using during the course, and these are useful additions to our testing toolkit.
 >
-> **[1:09](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/set-up-for-testing?u=76281980&t=69)** We'll be using PowerShell on the active directory itself to carry out testing, and we'll extend active directories built-in capabilities with a package shown here, called DS internals.
+> **[1:09](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/set-up-for-testing?u=76281980&t=69)** We'll be using [[Powershell]] on the active directory itself to carry out testing, and we'll extend active directories built-in capabilities with a package shown here, called DS internals.
 >
 > **[1:20](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/set-up-for-testing?u=76281980&t=80)** We can load DS internals directly from an administrative PowerShell by entering set execution, policy Unrestricted
 >
@@ -843,7 +830,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/set-up-for-testing?u=76281980&t=121)** And we've now installed a DS internals module together with the Nuget package.
 >
-> **[2:06](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/set-up-for-testing?u=76281980&t=126)** The second tool we'll use is the Impacket library and its sample Python scripts.
+> **[2:06](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/set-up-for-testing?u=76281980&t=126)** The second tool we'll use is the Impacket library and its sample [[Python (Programming Language)|Python]] scripts.
 >
 > **[2:11](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/set-up-for-testing?u=76281980&t=131)** We can install them on our Carly workstation with the command sudo apt install Python three, impacket.
 >
@@ -873,7 +860,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/set-up-for-testing?u=76281980&t=202)** Kerbrute is a Kerberos protocol based tool which can be used for testing active directory accounts.
 >
-> **[3:28](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/set-up-for-testing?u=76281980&t=208)** We can download Kerbrute from the ropnop github site.
+> **[3:28](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/set-up-for-testing?u=76281980&t=208)** We can download Kerbrute from the ropnop [[GitHub]] site.
 >
 > **[3:34](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/set-up-for-testing?u=76281980&t=214)** Okay, I've downloaded that with the file name Kerbrute.
 >
@@ -901,12 +888,11 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1), - okay (1)
 > **Env Vars:** dap (1)
 
-#### Extract the AD hashes
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/extract-the-ad-hashes?u=76281980)
+#### [Extract the AD hashes](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/extract-the-ad-hashes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/extract-the-ad-hashes?u=76281980&t=0)** - Windows provides command line tools for administrators to make an accessible copy of the active directory database ntds.dit.
+> **[0:00](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/extract-the-ad-hashes?u=76281980&t=0)** - [[Windows]] provides command line tools for administrators to make an accessible copy of the [[Active Directory]] database ntds.dit.
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/extract-the-ad-hashes?u=76281980&t=9)** The first file we need is HKLM System from the registry.
 >
@@ -960,24 +946,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (4), [[Windows]] (3), database (1)
+> **Frameworks & Libraries:** [[Active Directory]] (4), [[Windows]] (3)
 > **Env Vars:** hklm (2), addb (2), save (1), vss (1), global (1)
 > **Speakers:** - windows (1), - and (1), - bootkey (1), - we (1)
 > **Tools:** command line (2)
 > **CLI Commands:** make (1)
 
-#### Password spraying Active Directory
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/password-spraying-active-directory?u=76281980)
+#### [Password spraying Active Directory](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/password-spraying-active-directory?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/password-spraying-active-directory?u=76281980&t=0)** - A common way to retrieve credentials from Active Directory is to spray all accessible accounts with a guest or known password or a list of passwords.
+> **[0:00](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/password-spraying-active-directory?u=76281980&t=0)** - A common way to retrieve credentials from [[Active Directory]] is to spray all accessible accounts with a guest or known password or a list of passwords.
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/password-spraying-active-directory?u=76281980&t=9)** There's a number of tools we can use to do this.
 >
-> **[0:12](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/password-spraying-active-directory?u=76281980&t=12)** Let's have a look at the domain password spray PowerShell script from Dafthack.
+> **[0:12](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/password-spraying-active-directory?u=76281980&t=12)** Let's have a look at the domain password spray [[Powershell]] script from Dafthack.
 >
-> **[0:17](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/password-spraying-active-directory?u=76281980&t=17)** I've downloaded the domain password spray script from the GitHub site onto my domain workstation and I'm logged in as the domain user Sam Spade.
+> **[0:17](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/password-spraying-active-directory?u=76281980&t=17)** I've downloaded the domain password spray script from the [[GitHub]] site onto my domain workstation and I'm logged in as the domain user Sam Spade.
 >
 > **[0:25](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/password-spraying-active-directory?u=76281980&t=25)** I can now import the script and run it in PowerShell.
 >
@@ -1015,15 +1000,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (2), [[Active Directory]] (1), [[GitHub]] (1), hit (1)
+> **Frameworks & Libraries:** [[Powershell]] (2), [[Active Directory]] (1), [[GitHub]] (1)
 > **Tools:** powershell (2), github (1)
 > **File Paths:** adpass.txt (1)
 > **CLI Commands:** find (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - a (1)
 
-#### Kerberos brute-forcing attacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/kerberos-brute-forcing-attacks?u=76281980)
+#### [Kerberos brute-forcing attacks](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/kerberos-brute-forcing-attacks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1039,7 +1023,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/kerberos-brute-forcing-attacks?u=76281980&t=21)** And Passwordspray, which will attempt to validate a specific password, for a set of user accounts.
 >
-> **[0:28](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/kerberos-brute-forcing-attacks?u=76281980&t=28)** We've downloaded this, so let's start by doing an unauthenticated enumeration of active directory.
+> **[0:28](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/kerberos-brute-forcing-attacks?u=76281980&t=28)** We've downloaded this, so let's start by doing an unauthenticated enumeration of [[Active Directory]].
 >
 > **[0:33](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/kerberos-brute-forcing-attacks?u=76281980&t=33)** We need to give Kerbrute to file a potential user account names.
 >
@@ -1087,7 +1071,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (2), business (1)
+> **Frameworks & Libraries:** [[Active Directory]] (2)
 > **CLI Commands:** find (3)
 > **URLs:** [cybex.com](https://cybex.com) (2)
 > **Versions:** 192.168.1 (2)
@@ -1096,12 +1080,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
 
-#### Use CrackMapExec to access and enumerate AD
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/use-crackmapexec-to-access-and-enumerate-ad?u=76281980)
+#### [Use CrackMapExec to access and enumerate AD](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/use-crackmapexec-to-access-and-enumerate-ad?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/use-crackmapexec-to-access-and-enumerate-ad?u=76281980&t=0)** - [Instructor] Another tool we can use to enumerate, and gain access to active directory is CrackMapExec.
+> **[0:00](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/use-crackmapexec-to-access-and-enumerate-ad?u=76281980&t=0)** - [Instructor] Another tool we can use to enumerate, and gain access to [[Active Directory]] is CrackMapExec.
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/use-crackmapexec-to-access-and-enumerate-ad?u=76281980&t=7)** CrackMapExec can scan a subnet to identify access points using SSH, SMB, LDAP, WinRM and MSSQL.
 >
@@ -1141,7 +1124,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Active Directory]] (2)
 > **Env Vars:** smb (5), ldap (2), ssh (1), mssql (1)
 > **Versions:** 192.168.1 (4)
 > **CLI Commands:** ssh (1), find (1)
@@ -1150,12 +1133,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Investigate the SYSVOL share
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/investigate-the-sysvol-share?u=76281980)
+#### [Investigate the SYSVOL share](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/investigate-the-sysvol-share?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/investigate-the-sysvol-share?u=76281980&t=0)** - [Instructor] Active directory maintains a domain wide SYSVOL share, to which all domain users have read access.
+> **[0:00](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/investigate-the-sysvol-share?u=76281980&t=0)** - [Instructor] [[Active Directory]] maintains a domain wide SYSVOL share, to which all domain users have read access.
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/investigate-the-sysvol-share?u=76281980&t=6)** This contains logon scripts, group policy data, under the domain wide information.
 >
@@ -1199,7 +1181,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/investigate-the-sysvol-share?u=76281980&t=129)** Let's take a look at active directory and see where we'd find the share folder.
 >
-> **[2:14](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/investigate-the-sysvol-share?u=76281980&t=134)** We'll open File Explorer, Local Disc, Windows, and we'll go down to, SYSVOL, SYSVOL, and here we can see the [cybex.com](https://cybex.com) and OGB folders that we saw before.
+> **[2:14](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/investigate-the-sysvol-share?u=76281980&t=134)** We'll open File Explorer, Local Disc, [[Windows]], and we'll go down to, SYSVOL, SYSVOL, and here we can see the [cybex.com](https://cybex.com) and OGB folders that we saw before.
 >
 > **[2:41](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/investigate-the-sysvol-share?u=76281980&t=161)** This folder is writable from within active directory.
 >
@@ -1207,19 +1189,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (4), data (1), prompt (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Active Directory]] (4), [[Windows]] (1)
 > **Env Vars:** sysvol (5), smb (4), dfsr (1), ogb (1)
 > **URLs:** [cybex.com](https://cybex.com) (4)
 > **CLI Commands:** find (2)
 > **Versions:** 192.168.1 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Take advantage of legacy data
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/take-advantage-of-legacy-data?u=76281980)
+#### [Take advantage of legacy data](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/take-advantage-of-legacy-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/take-advantage-of-legacy-data?u=76281980&t=0)** - [Instructor] It's worth checking the full user details returned from Active Directory as it's not unknown to find legacy passwords stored, often using either simple obfuscation or a reversible form of encryption.
+> **[0:00](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/take-advantage-of-legacy-data?u=76281980&t=0)** - [Instructor] It's worth checking the full user details returned from [[Active Directory]] as it's not unknown to find legacy passwords stored, often using either simple obfuscation or a reversible form of encryption.
 >
 > **[0:13](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/take-advantage-of-legacy-data?u=76281980&t=13)** Such information may be used to hold application or service-specific passwords.
 >
@@ -1249,7 +1230,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (1), application (1)
+> **Frameworks & Libraries:** [[Active Directory]] (1)
 > **CLI Commands:** find (2)
 > **Versions:** 192.168.1 (1)
 > **Speakers:** - [instructor] (1)
@@ -1259,14 +1240,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Specific Active Directory attacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/specific-active-directory-attacks?u=76281980)
+#### [Specific Active Directory attacks](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/specific-active-directory-attacks?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/specific-active-directory-attacks?u=76281980&t=0)** - [Instructor] In a pen test, we may be taking the role of a remote unauthenticated user or a malicious employee or contractor that's been given standard user credentials.
 >
-> **[0:11](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/specific-active-directory-attacks?u=76281980&t=11)** We've seen how we can enumerate Active Directory by taking advantage of the default access we have and by trying brute force attacks.
+> **[0:11](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/specific-active-directory-attacks?u=76281980&t=11)** We've seen how we can enumerate [[Active Directory]] by taking advantage of the default access we have and by trying brute force attacks.
 >
 > **[0:20](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/specific-active-directory-attacks?u=76281980&t=20)** This is a pretty standard way of testing any system.
 >
@@ -1283,12 +1263,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Remote extraction of AD hashes
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/remote-extraction-of-ad-hashes?u=76281980)
+#### [Remote extraction of AD hashes](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/remote-extraction-of-ad-hashes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/remote-extraction-of-ad-hashes?u=76281980&t=0)** - [Instructor] We don't need to be on the active directory target to be able to extract password hashes, we can do it remotely.
+> **[0:00](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/remote-extraction-of-ad-hashes?u=76281980&t=0)** - [Instructor] We don't need to be on the [[Active Directory]] target to be able to extract password hashes, we can do it remotely.
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/remote-extraction-of-ad-hashes?u=76281980&t=7)** We don't need to be a domain administrator.
 >
@@ -1296,9 +1275,9 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/remote-extraction-of-ad-hashes?u=76281980&t=15)** With this it's possible to remotely extract password hashes from a domain controller.
 >
-> **[0:21](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/remote-extraction-of-ad-hashes?u=76281980&t=21)** I'm logged onto our new Windows domain workstation, as a domain user called Sam Spade.
+> **[0:21](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/remote-extraction-of-ad-hashes?u=76281980&t=21)** I'm logged onto our new [[Windows]] domain workstation, as a domain user called Sam Spade.
 >
-> **[0:27](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/remote-extraction-of-ad-hashes?u=76281980&t=27)** I'll load up PowerShell.
+> **[0:27](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/remote-extraction-of-ad-hashes?u=76281980&t=27)** I'll load up [[Powershell]].
 >
 > **[0:34](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/remote-extraction-of-ad-hashes?u=76281980&t=34)** I've already installed the DSinternals toolkit.
 >
@@ -1332,12 +1311,11 @@ created: 2026-05-02
 > **Tools:** powershell (1)
 > **Speakers:** - [instructor] (1)
 
-#### Carry out a Kerberos roasting
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/carry-out-a-kerberos-roasting?u=76281980)
+#### [Carry out a Kerberos roasting](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/carry-out-a-kerberos-roasting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/carry-out-a-kerberos-roasting?u=76281980&t=0)** - [Instructor] One of the account options in active directory does not require Kerberos pre-authentication.
+> **[0:00](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/carry-out-a-kerberos-roasting?u=76281980&t=0)** - [Instructor] One of the account options in [[Active Directory]] does not require Kerberos pre-authentication.
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/carry-out-a-kerberos-roasting?u=76281980&t=6)** If this is set, we can use the impacket exploit get NP users to extract the authentication details.
 >
@@ -1347,7 +1325,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/carry-out-a-kerberos-roasting?u=76281980&t=24)** CD/user/share/doc /python3-impacket /examples and we'll run python3 GetNPUsers.py and our domain is cybex DC-IP is 192.168.1.199.
 >
-> **[1:00](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/carry-out-a-kerberos-roasting?u=76281980&t=60)** Users file I've set up in my home directory in a file called "unames" and we'll produce that file in hashcat format.
+> **[1:00](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/carry-out-a-kerberos-roasting?u=76281980&t=60)** Users file I've set up in my home directory in a file called "unames" and we'll produce that file in [[Hashcat]] format.
 >
 > **[1:16](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/carry-out-a-kerberos-roasting?u=76281980&t=76)** Minus format hashcat.
 >
@@ -1355,27 +1333,26 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/carry-out-a-kerberos-roasting?u=76281980&t=84)** I've already stored that in a file called "nhash."
 >
-> **[1:26](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/carry-out-a-kerberos-roasting?u=76281980&t=86)** So let's run that through John the Ripper.
+> **[1:26](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/carry-out-a-kerberos-roasting?u=76281980&t=86)** So let's run that through [[John the Ripper]].
 >
-> **[1:31](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/carry-out-a-kerberos-roasting?u=76281980&t=91)** Back to my home directory and John nhash minus, minus word list equals /user/share /wordlists/rockyou.txt Now we very quickly get instovo seven's password of password01.
+> **[1:31](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/carry-out-a-kerberos-roasting?u=76281980&t=91)** Back to my home directory and [[John the Ripper|John]] nhash minus, minus [[Microsoft Word|word]] list equals /user/share /wordlists/rockyou.txt Now we very quickly get instovo seven's password of password01.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (2), cd (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Active Directory]] (2), [[Hashcat]] (2), [[John the Ripper]] (1), [[John the Ripper|John]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** python3 (2), cd (1)
 > **File Paths:** getnpusers.py (1), wordlists/rockyou.txt (1)
 > **Versions:** 192.168.1 (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Run a no-preauthentication attack
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/run-a-no-preauthentication-attack?u=76281980)
+#### [Run a no-preauthentication attack](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/run-a-no-preauthentication-attack?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/run-a-no-preauthentication-attack?u=76281980&t=0)** - A service principal name is a unique identifier of a service instance, which is used by Kerberos.
 >
-> **[0:07](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/run-a-no-preauthentication-attack?u=76281980&t=7)** It's used as an alias for an active directory object which can be a service account, a user account or a computer object.
+> **[0:07](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/run-a-no-preauthentication-attack?u=76281980&t=7)** It's used as an alias for an [[Active Directory]] object which can be a service account, a user account or a computer object.
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/run-a-no-preauthentication-attack?u=76281980&t=14)** It lets other active directory resources know which services are running under which accounts and creates associations between them in active directory.
 >
@@ -1413,7 +1390,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/run-a-no-preauthentication-attack?u=76281980&t=139)** We can now run an authenticated Kerberos roasting attack from our Kali workstation using the Get User SPNs Impacket tool.
 >
-> **[2:28](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/run-a-no-preauthentication-attack?u=76281980&t=148)** We'll use the John Doe standard domain account.
+> **[2:28](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/run-a-no-preauthentication-attack?u=76281980&t=148)** We'll use the [[John the Ripper|John]] Doe standard domain account.
 >
 > **[2:31](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/run-a-no-preauthentication-attack?u=76281980&t=151)** So if we'll go to usr/share/doc/python3-ipacket/examples.
 >
@@ -1435,7 +1412,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (5)
+> **Frameworks & Libraries:** [[Active Directory]] (5), [[John the Ripper|John]] (3)
 > **Env Vars:** spn (3), http (3)
 > **File Paths:** getuserspns.py (1), usr/share/wordlists/rockyou.txt (1)
 > **CLI Commands:** python3 (2)
@@ -1444,12 +1421,11 @@ created: 2026-05-02
 > **Versions:** 192.168.1 (1)
 > **Tools:** command line (1)
 
-#### Forge a golden ticket
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/forge-a-golden-ticket?u=76281980)
+#### [Forge a golden ticket](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/forge-a-golden-ticket?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/forge-a-golden-ticket?u=76281980&t=0)** - [Lecturer] Even if we've only achieved Local Administrator we might be able to secure longer term access to Active Directory.
+> **[0:00](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/forge-a-golden-ticket?u=76281980&t=0)** - [Lecturer] Even if we've only achieved Local Administrator we might be able to secure longer term access to [[Active Directory]].
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/forge-a-golden-ticket?u=76281980&t=7)** Golden Tickets are the key to the Active Directory kingdom as they enable us to gain unlimited access to any machine in the domain for as long as the ticket is valid.
 >
@@ -1457,7 +1433,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/forge-a-golden-ticket?u=76281980&t=28)** Furthermore, the attack only works when running against a server which has antivirus turned off.
 >
-> **[0:34](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/forge-a-golden-ticket?u=76281980&t=34)** The file that's created to enable a remote execution, will be detected by Windows Defender antivirus and quarantined, and the exploit will hang at the point it tries to start the service.
+> **[0:34](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/forge-a-golden-ticket?u=76281980&t=34)** The file that's created to enable a remote execution, will be detected by [[Windows]] [[Microsoft Defender|Defender]] antivirus and quarantined, and the exploit will hang at the point it tries to start the service.
 >
 > **[0:45](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/forge-a-golden-ticket?u=76281980&t=45)** I've turned off antivirus for this demonstration.
 >
@@ -1534,12 +1510,11 @@ created: 2026-05-02
 > **URLs:** [cybex.com](https://cybex.com) (2), [cyberx.com](https://cyberx.com) (1)
 > **Definitions:** is a  (1), is an  (1)
 
-#### Running a shadow attack
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/running-a-shadow-attack?u=76281980)
+#### [Running a shadow attack](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/running-a-shadow-attack?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/running-a-shadow-attack?u=76281980&t=0)** - Microsoft uses public key cryptography as an underlying mechanism for access through the Kerberos protocol and provides an active directory component called "AD Certificate Services" to manage the public key certificates.
+> **[0:00](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/running-a-shadow-attack?u=76281980&t=0)** - [[Microsoft]] uses public key [[Cryptography]] as an underlying mechanism for access through the Kerberos protocol and provides an [[Active Directory]] component called "AD Certificate Services" to manage the public key certificates.
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/running-a-shadow-attack?u=76281980&t=14)** We want to avoid attackers escalating or gaining long-term access to active directory once they've been able to compromise a domain user account.
 >
@@ -1605,7 +1580,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (8), [[Microsoft]] (1), [[Cryptography]] (1), [[Security]] (1), management (1)
+> **Frameworks & Libraries:** [[Active Directory]] (8), [[Microsoft]] (1), [[Cryptography]] (1)
 > **CLI Commands:** find (1), make (1), sudo (1), pip3 (1)
 > **UI Navigation:** click on (3)
 > **Code Identifiers:** msds (2)
@@ -1614,8 +1589,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - microsoft (1)
 
-#### Using rubeus to take over the domain
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/using-rubeus-to-take-over-the-domain?u=76281980)
+#### [Using rubeus to take over the domain](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/using-rubeus-to-take-over-the-domain?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1627,7 +1601,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/using-rubeus-to-take-over-the-domain?u=76281980&t=18)** This is a privilege escalation, so we assume that we've gained access to a domain workstation.
 >
-> **[0:24](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/using-rubeus-to-take-over-the-domain?u=76281980&t=24)** The tools we're going to use will be detected by Microsoft's Defender.
+> **[0:24](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/using-rubeus-to-take-over-the-domain?u=76281980&t=24)** The tools we're going to use will be detected by [[Microsoft]]'s [[Microsoft Defender|Defender]].
 >
 > **[0:28](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/using-rubeus-to-take-over-the-domain?u=76281980&t=28)** So a second assumption is that we've been able to switch off or otherwise circumvent the anti-malware service.
 >
@@ -1659,7 +1633,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/using-rubeus-to-take-over-the-domain?u=76281980&t=213)** We've requested a PFX certificate into which we export our private key or in fact the private key of the administrator in this case, we're not putting a password on the file so we can just skip these prompts.
 >
-> **[3:47](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/using-rubeus-to-take-over-the-domain?u=76281980&t=227)** Okay, let's take this PFX file back to our Windows workstation.
+> **[3:47](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/using-rubeus-to-take-over-the-domain?u=76281980&t=227)** Okay, let's take this PFX file back to our [[Windows]] workstation.
 >
 > **[3:54](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/using-rubeus-to-take-over-the-domain?u=76281980&t=234)** And here we have the PFX format certificates on our Windows workstation.
 >
@@ -1707,11 +1681,11 @@ created: 2026-05-02
 >
 > **[6:53](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/using-rubeus-to-take-over-the-domain?u=76281980&t=413)** As our administrator with BaronDielm4
 >
-> **[7:05](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/using-rubeus-to-take-over-the-domain?u=76281980&t=425)** we now have full control of our active directory domain.
+> **[7:05](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/using-rubeus-to-take-over-the-domain?u=76281980&t=425)** we now have full control of our [[Active Directory]] domain.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), [[Windows]] (2), [[Microsoft]] (1), [[Microsoft Defender|Defender]] (1), [[Active Directory]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Microsoft]] (1), [[Microsoft Defender|Defender]] (1), [[Active Directory]] (1)
 > **Env Vars:** pfx (4), ca01 (2), cve (1), begin (1), rsa (1)
 > **URLs:** [cybex.com](https://cybex.com) (3)
 > **CLI Commands:** find (1), make (1)
@@ -1719,8 +1693,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Relaying attacks to get a certificate
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/relaying-attacks-to-get-a-certificate?u=76281980)
+#### [Relaying attacks to get a certificate](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/relaying-attacks-to-get-a-certificate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1772,7 +1745,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cd (1)
 > **Env Vars:** pfx (2), ntlm (1), rpc (1), asp (1), smb (1)
 > **CLI Commands:** cd (1), python3 (1), cat (1)
 > **Versions:** 192.168.1 (3)
@@ -1780,13 +1752,13 @@ created: 2026-05-02
 > **Tools:** gitlab (1)
 > **Exercise Files:** template (1)
 > **Definitions:** known as (1)
+> **Prerequisites:** set up (1)
 
-#### Using smartcards to gain privileged access
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/using-smartcards-to-gain-privileged-access?u=76281980)
+#### [Using smartcards to gain privileged access](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/using-smartcards-to-gain-privileged-access?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/using-smartcards-to-gain-privileged-access?u=76281980&t=0)** - [Instructor] While using user ID and password access via the main Windows log on screen is the normal way of accessing a workstation, there are other ways we can use.
+> **[0:00](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/using-smartcards-to-gain-privileged-access?u=76281980&t=0)** - [Instructor] While using user ID and password access via the main [[Windows]] log on screen is the normal way of accessing a workstation, there are other ways we can use.
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/using-smartcards-to-gain-privileged-access?u=76281980&t=9)** On legacy systems, we might have used a physical Smart Card reader and use Smart Card access, but with modern systems we can achieve the same thing and gain the benefit of remote access by using a Virtual Smart Card.
 >
@@ -1810,7 +1782,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/using-smartcards-to-gain-privileged-access?u=76281980&t=107)** We'll use the Power User template, which has write enabled for domain users.
 >
-> **[1:52](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/using-smartcards-to-gain-privileged-access?u=76281980&t=112)** We'll be using the PoshADCS PowerShell script and also the PowerView script, which are both in your exercise folder.
+> **[1:52](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/using-smartcards-to-gain-privileged-access?u=76281980&t=112)** We'll be using the PoshADCS [[Powershell]] script and also the PowerView script, which are both in your exercise folder.
 >
 > **[2:02](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/using-smartcards-to-gain-privileged-access?u=76281980&t=122)** The PowerView script is a set of cmdlets, which allow us just to check our access control levels.
 >
@@ -1832,7 +1804,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/using-smartcards-to-gain-privileged-access?u=76281980&t=205)** And we'll give it the name PowerUser and we'll get tabular output, including ACE Qualified Identity
 >
-> **[3:51](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/using-smartcards-to-gain-privileged-access?u=76281980&t=231)** and Active Directory Rights.
+> **[3:51](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/using-smartcards-to-gain-privileged-access?u=76281980&t=231)** and [[Active Directory]] Rights.
 >
 > **[3:59](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/using-smartcards-to-gain-privileged-access?u=76281980&t=239)** Okay, that's useful, cmdlet shows us that the domain users indeed have write access, so we're all set to go.
 >
@@ -1880,7 +1852,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (4), [[Windows]] (3), [[Powershell]] (3), data (1), [[Active Directory]] (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Powershell]] (3), [[Active Directory]] (1)
 > **Env Vars:** pin (5), vsc (3), adcs (3), tpm (2), acl (1)
 > **Non-Speech:** (keys clicking) (7)
 > **Exercise Files:** template (6)
@@ -1889,12 +1861,11 @@ created: 2026-05-02
 > **Definitions:** is a  (2), is called (1)
 > **URLs:** [cybex.com](https://cybex.com) (1)
 
-#### Set the BloodHound loose
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/set-the-bloodhound-loose?u=76281980)
+#### [Set the BloodHound loose](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/set-the-bloodhound-loose?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/set-the-bloodhound-loose?u=76281980&t=0)** - [Instructor] Once we've got a member account, which we can use to work with Active Directory, we'll need to start working towards escalating our access to domain administrator.
+> **[0:00](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/set-the-bloodhound-loose?u=76281980&t=0)** - [Instructor] Once we've got a member account, which we can use to work with [[Active Directory]], we'll need to start working towards escalating our access to domain administrator.
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/set-the-bloodhound-loose?u=76281980&t=9)** One of the useful tools for doing this is BloodHound.
 >
@@ -1906,11 +1877,11 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/set-the-bloodhound-loose?u=76281980&t=28)** So before we start working with BloodHound, we'll need to extract data from our Active Directory server.
 >
-> **[0:34](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/set-the-bloodhound-loose?u=76281980&t=34)** We've already loaded the BloodHound Python collector, so let's run that.
+> **[0:34](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/set-the-bloodhound-loose?u=76281980&t=34)** We've already loaded the BloodHound [[Python (Programming Language)|Python]] collector, so let's run that.
 >
 > **[0:38](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/set-the-bloodhound-loose?u=76281980&t=38)** To use the BloodHound Python system, we'll need to have a domain user account that we've obtained in some way.
 >
-> **[0:44](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/set-the-bloodhound-loose?u=76281980&t=44)** We'll be using the account for John Doe with the username John Doe, jdoe76 and a password of JDPass2021.
+> **[0:44](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/set-the-bloodhound-loose?u=76281980&t=44)** We'll be using the account for [[John the Ripper|John]] Doe with the username John Doe, jdoe76 and a password of JDPass2021.
 >
 > **[0:53](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/set-the-bloodhound-loose?u=76281980&t=53)** To collect the data, all we need to do is .local/bin/bloodhound-python,
 >
@@ -1922,11 +1893,11 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/set-the-bloodhound-loose?u=76281980&t=91)** The collector very quickly detects the domain and collects the data from it.
 >
-> **[1:36](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/set-the-bloodhound-loose?u=76281980&t=96)** It creates a set of four JSON files.
+> **[1:36](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/set-the-bloodhound-loose?u=76281980&t=96)** It creates a set of four [[JSON]] files.
 >
 > **[1:43](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/set-the-bloodhound-loose?u=76281980&t=103)** Let's start BloodHound now and go and look at the data.
 >
-> **[1:47](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/set-the-bloodhound-loose?u=76281980&t=107)** We have to start the Neo4j server first.
+> **[1:47](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/set-the-bloodhound-loose?u=76281980&t=107)** We have to start the [[Neo4j]] server first.
 >
 > **[1:51](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/set-the-bloodhound-loose?u=76281980&t=111)** So let's open a new terminal for that.
 >
@@ -1980,7 +1951,7 @@ created: 2026-05-02
 >
 > **[4:58](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/set-the-bloodhound-loose?u=76281980&t=298)** An immediate analysis of interest is to list all Domain Admins.
 >
-> **[5:07](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/set-the-bloodhound-loose?u=76281980&t=307)** We have an account called ADMINSTRATOR, the normal Windows admin account.
+> **[5:07](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/set-the-bloodhound-loose?u=76281980&t=307)** We have an account called ADMINSTRATOR, the normal [[Windows]] admin account.
 >
 > **[5:12](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/set-the-bloodhound-loose?u=76281980&t=312)** However, we can also see that AADAMA31 and AKATT42 are also domain administrators, so their accounts will be wanting to exploit if we can.
 >
@@ -2004,7 +1975,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (6), data (6), [[Neo4j]] (6), [[Python (Programming Language)|Python]] (3), [[JSON]] (2)
+> **Frameworks & Libraries:** [[Active Directory]] (6), [[Neo4j]] (6), [[Python (Programming Language)|Python]] (3), [[John the Ripper|John]] (2), [[JSON]] (2)
 > **Env Vars:** domain (3), admins (3), akatt42 (3), json (2), nstove07 (2)
 > **CLI Commands:** find (4), python (3), node (2), sudo (1)
 > **Definitions:** is a  (3)
@@ -2018,14 +1989,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/next-steps?u=76281980&t=0)** - [Malcolm] I'd really like to thank you for joining me for this LinkedIn Learning course.
+> **[0:00](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/next-steps?u=76281980&t=0)** - [Malcolm] I'd really like to thank you for joining me for this [[LinkedIn]] Learning course.
 >
-> **[0:04](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/next-steps?u=76281980&t=4)** I hope you enjoyed learning about Penetration Testing Active Directory.
+> **[0:04](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/next-steps?u=76281980&t=4)** I hope you enjoyed learning about [[Penetration Testing]] [[Active Directory]].
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/next-steps?u=76281980&t=9)** In this course, you've gained a good understanding of the basics of Active Directory and you know how to test for weaknesses in an Active Directory Domain Controller.
 >
@@ -2033,15 +2003,15 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/next-steps?u=76281980&t=24)** There's always something new to learn about testing systems, And this course is just one of a number of LinkedIn Learning courses that will help you develop your skills.
 >
-> **[0:34](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/next-steps?u=76281980&t=34)** Check out the library for more courses on penetration testing and cybersecurity in general.
+> **[0:34](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/next-steps?u=76281980&t=34)** Check out the library for more courses on penetration testing and [[Cybersecurity]] in general.
 >
-> **[0:41](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/next-steps?u=76281980&t=41)** I'd also like to invite you to go to my author page, where you can find my courses on cloud, cybersecurity, ethical hacking, and programming.
+> **[0:41](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/next-steps?u=76281980&t=41)** I'd also like to invite you to go to my author page, where you can find my courses on cloud, cybersecurity, [[Ethical Hacking]], and programming.
 >
 > **[0:50](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/next-steps?u=76281980&t=50)** Thanks again for joining me on this course And I hope to see you again soon.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (3), [[LinkedIn]] (2), [[Penetration Testing]] (2), [[Cybersecurity]] (2), cloud (1)
+> **Frameworks & Libraries:** [[Active Directory]] (3), [[LinkedIn]] (2), [[Penetration Testing]] (2), [[Cybersecurity]] (2), [[Ethical Hacking]] (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [malcolm] (1)

@@ -81,22 +81,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Protect your privacy
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/protect-your-privacy?u=76281980)
+#### [Protect your privacy](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/protect-your-privacy?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/protect-your-privacy?u=76281980&t=0)** - Your identity is your most precious and most personal asset, but it's definitely not private anymore.
 >
-> **[0:06](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/protect-your-privacy?u=76281980&t=6)** Our identities are exposed every time we sign up for an account, use a service like banking or social media, or even carry a phone.
+> **[0:06](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/protect-your-privacy?u=76281980&t=6)** Our identities are exposed every time we sign up for an account, use a service like [[Banking]] or social media, or even carry a phone.
 >
 > **[0:14](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/protect-your-privacy?u=76281980&t=14)** But the good news is there are easy steps that you can take to protect your personal identity and make it harder for it to be used against you.
 >
 > **[0:21](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/protect-your-privacy?u=76281980&t=21)** I'm Tate Jarrow.
 >
-> **[0:23](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/protect-your-privacy?u=76281980&t=23)** I'm an expert in personal cybersecurity and privacy.
+> **[0:23](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/protect-your-privacy?u=76281980&t=23)** I'm an expert in personal [[Cybersecurity]] and [[Privacy]].
 >
-> **[0:26](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/protect-your-privacy?u=76281980&t=26)** I served for 8 1/2 years as a special agent in the United States Secret Service investigating cyber crime, and I've been building products to protect everyday people at Google and startups for over five years, and I want to share my knowledge with you.
+> **[0:26](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/protect-your-privacy?u=76281980&t=26)** I served for 8 1/2 years as a special agent in the United States Secret Service investigating cyber crime, and I've been building [[Microsoft Products|products]] to protect everyday people at [[Google]] and startups for over five years, and I want to share my knowledge with you.
 >
 > **[0:39](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/protect-your-privacy?u=76281980&t=39)** If you're ready to learn how to protect your identity and how to help those around you, join me as we learn how to protect your privacy online and secure your identity.
 
@@ -111,14 +110,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding your cybersecurity crown jewels
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/understanding-your-cyber-security-crown-jewels?u=76281980)
+#### [Understanding your cybersecurity crown jewels](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/understanding-your-cyber-security-crown-jewels?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/understanding-your-cyber-security-crown-jewels?u=76281980&t=0)** - Most of us have considerably large online footprints.
 >
-> **[0:04](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/understanding-your-cyber-security-crown-jewels?u=76281980&t=4)** We have dozens of email accounts, numerous social media profiles, different types of cloud storage like Apple iCloud or Google Drive.
+> **[0:04](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/understanding-your-cyber-security-crown-jewels?u=76281980&t=4)** We have dozens of email accounts, numerous social media profiles, different types of [[Cloud Storage]] like Apple iCloud or [[Google Drive]].
 >
 > **[0:12](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/understanding-your-cyber-security-crown-jewels?u=76281980&t=12)** We have so many different bank accounts, and lots of computers and devices in our homes.
 >
@@ -158,7 +156,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/understanding-your-cyber-security-crown-jewels?u=76281980&t=136)** And contrast that to if a bad actor were to get access to your shopping account like Amazon, now, that wouldn't be good, but a bad actor can probably do much less harm to you with access to your Amazon account than they could with access to your bank account.
 >
-> **[2:32](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/understanding-your-cyber-security-crown-jewels?u=76281980&t=152)** And this concept of crown jewels and thinking about it from a risk management perspective can be applied when you think about all of the different assets in your personal cybersecurity and identity.
+> **[2:32](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/understanding-your-cyber-security-crown-jewels?u=76281980&t=152)** And this concept of crown jewels and thinking about it from a risk management perspective can be applied when you think about all of the different assets in your personal [[Cybersecurity]] and identity.
 >
 > **[2:43](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/understanding-your-cyber-security-crown-jewels?u=76281980&t=163)** So one way to start thinking about your crown jewels and your digital identity in a more manageable way is to break down the different types of assets that we have in these areas.
 >
@@ -172,15 +170,15 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/understanding-your-cyber-security-crown-jewels?u=76281980&t=214)** For accounts, an example might be your bank account versus a shopping account, or your primary email account where you do correspondence, that's likely a crown jewel.
 >
-> **[3:45](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/understanding-your-cyber-security-crown-jewels?u=76281980&t=225)** For the rest of the course, we're going to focus on your identity and the crown jewels about your identity.
+> **[3:45](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/understanding-your-cyber-security-crown-jewels?u=76281980&t=225)** For the [[Representational State Transfer (REST)|rest]] of the course, we're going to focus on your identity and the crown jewels about your identity.
 >
 > **[3:51](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/understanding-your-cyber-security-crown-jewels?u=76281980&t=231)** It is important to always protect your crown jewels across these three categories.
 >
-> **[3:56](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/understanding-your-cyber-security-crown-jewels?u=76281980&t=236)** For the rest of the course, we're going to focus on your identity and preserving your privacy, because at the end of the day, privacy is really about keeping the elements of your identity safe from bad actors.
+> **[3:56](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/understanding-your-cyber-security-crown-jewels?u=76281980&t=236)** For the rest of the course, we're going to focus on your identity and preserving your [[Privacy]], because at the end of the day, privacy is really about keeping the elements of your identity safe from bad actors.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Privacy]] (2), cloud (1), [[Google Drive]] (1), management (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Privacy]] (2), [[Cloud Storage]] (1), [[Google Drive]] (1), [[Cybersecurity]] (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** icloud (1)
 > **Env Vars:** sms (1)
@@ -188,8 +186,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - most (1)
 
-#### Learn the key components of identity to keep private
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/learn-the-key-components-of-identity-to-keep-private?u=76281980)
+#### [Learn the key components of identity to keep private](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/learn-the-key-components-of-identity-to-keep-private?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -219,7 +216,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/learn-the-key-components-of-identity-to-keep-private?u=76281980&t=98)** But when paired with other information, like your name and your location, your name, plus these other pieces of information can still be used to uniquely identify you.
 >
-> **[1:48](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/learn-the-key-components-of-identity-to-keep-private?u=76281980&t=108)** Your name is the first thing that anyone who's trying to find you will use, which means the more places that your name shows up on the internet or in the databases of companies, the easier it is to find.
+> **[1:48](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/learn-the-key-components-of-identity-to-keep-private?u=76281980&t=108)** Your name is the first thing that anyone who's trying to find you will use, which means the more places that your name shows up on the internet or in the [[Databases]] of companies, the easier it is to find.
 >
 > **[2:00](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/learn-the-key-components-of-identity-to-keep-private?u=76281980&t=120)** And if this is a bad actor that's looking for you, you don't want them to be able to find you.
 >
@@ -269,7 +266,7 @@ created: 2026-05-02
 >
 > **[4:31](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/learn-the-key-components-of-identity-to-keep-private?u=76281980&t=271)** Maybe it's a picture that you don't want out there.
 >
-> **[4:34](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/learn-the-key-components-of-identity-to-keep-private?u=76281980&t=274)** Or your picture can be used to create deep fakes with generative AI.
+> **[4:34](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/learn-the-key-components-of-identity-to-keep-private?u=76281980&t=274)** Or your picture can be used to create deep fakes with [[Generative AI]].
 >
 > **[4:40](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/learn-the-key-components-of-identity-to-keep-private?u=76281980&t=280)** Finally, your online activity encompasses who you're talking to, the sites you visit, the IP addresses where you are coming from, things that you say, like your social media posts, and many other things.
 >
@@ -291,7 +288,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), [[Databases]] (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[Generative AI]] (1)
 > **Definitions:** is a  (3), means that (3)
 > **CLI Commands:** find (5)
 > **Env Vars:** dna (2), swat (1)
@@ -305,8 +302,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The internet is full of your personal information
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/the-internet-is-full-of-your-personal-information?u=76281980)
+#### [The internet is full of your personal information](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/the-internet-is-full-of-your-personal-information?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -354,9 +350,9 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/the-internet-is-full-of-your-personal-information?u=76281980&t=118)** And if I hit Submit All, and I don't know if you saw that flicker, but what's happened, if I open up my browser here, is automatically all of those websites opened a new tab with a search, and we might've gotten an error, but it makes it really easy to, at scale, search for open-source information when you have an identifier, like an email address or a username.
 >
-> **[2:22](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/the-internet-is-full-of-your-personal-information?u=76281980&t=142)** Another really valuable OSINT tool is just a search engine like Google.
+> **[2:22](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/the-internet-is-full-of-your-personal-information?u=76281980&t=142)** Another really valuable OSINT tool is just a search engine like [[Google]].
 >
-> **[2:28](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/the-internet-is-full-of-your-personal-information?u=76281980&t=148)** If I enter the name of Audry Topsy, which is our fake identity for this course, and I search on Google, information that pulls up is a LinkedIn account, information that may be tied to a business, potential images, a Twitter account, a Facebook account.
+> **[2:28](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/the-internet-is-full-of-your-personal-information?u=76281980&t=148)** If I enter the name of Audry Topsy, which is our fake identity for this course, and I search on Google, information that pulls up is a [[LinkedIn]] account, information that may be tied to a business, potential images, a Twitter account, a Facebook account.
 >
 > **[2:44](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/the-internet-is-full-of-your-personal-information?u=76281980&t=164)** If you've never Googled your name, you definitely should, because it's likely there's a lot of information about you out there.
 >
@@ -410,7 +406,7 @@ created: 2026-05-02
 >
 > **[5:49](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/the-internet-is-full-of-your-personal-information?u=76281980&t=349)** You could see if there's any cameras.
 >
-> **[5:51](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/the-internet-is-full-of-your-personal-information?u=76281980&t=351)** You can take a look at windows.
+> **[5:51](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/the-internet-is-full-of-your-personal-information?u=76281980&t=351)** You can take a look at [[Windows]].
 >
 > **[5:54](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/the-internet-is-full-of-your-personal-information?u=76281980&t=354)** You might be able to see if there's a backyard or what the front yard looks like.
 >
@@ -440,7 +436,7 @@ created: 2026-05-02
 >
 > **[7:54](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/the-internet-is-full-of-your-personal-information?u=76281980&t=474)** Another OSINT tool is something called ';--have I been pwned?
 >
-> **[7:58](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/the-internet-is-full-of-your-personal-information?u=76281980&t=478)** What this website does is it collects information about username and password combinations that have been released on the internet, either in the dark web or in the open web, which are generally a result of hacks of companies' user databases.
+> **[7:58](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/the-internet-is-full-of-your-personal-information?u=76281980&t=478)** What this website does is it collects information about username and password combinations that have been released on the internet, either in the dark web or in the open web, which are generally a result of hacks of companies' user [[Databases]].
 >
 > **[8:14](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/the-internet-is-full-of-your-personal-information?u=76281980&t=494)** And so what you can do is you can enter your email address and see whether or not your email has been involved in a breach.
 >
@@ -470,7 +466,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (8), web (6), open-source (4), data (4), [[Google]] (4)
+> **Frameworks & Libraries:** [[Google]] (4), [[LinkedIn]] (1), [[Windows]] (1), [[Databases]] (1)
 > **Env Vars:** osint (12), fdny (1)
 > **Definitions:** is a  (7), is called (1)
 > **UI Navigation:** click on (4), go to (1), scroll down (1)
@@ -479,8 +475,7 @@ created: 2026-05-02
 > **URLs:** [gmail.com](https://gmail.com) (1), [whitepages.com](https://whitepages.com) (1), [cnn.com](https://cnn.com) (1)
 > **Cross-References:** later in (1), we talked about (1), in the next (1)
 
-#### All the ways your personal information is used against you
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/all-the-ways-your-personal-information-is-used-against-you?u=76281980)
+#### [All the ways your personal information is used against you](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/all-the-ways-your-personal-information-is-used-against-you?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -532,7 +527,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/all-the-ways-your-personal-information-is-used-against-you?u=76281980&t=216)** There's information about your bank accounts, your social media accounts, probably your work.
 >
-> **[3:41](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/all-the-ways-your-personal-information-is-used-against-you?u=76281980&t=221)** There's lots of sensitive information that is stored in your Google account, and if a bad actor gets access to it, it can be used to harm you.
+> **[3:41](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/all-the-ways-your-personal-information-is-used-against-you?u=76281980&t=221)** There's lots of sensitive information that is stored in your [[Google]] account, and if a bad actor gets access to it, it can be used to harm you.
 >
 > **[3:49](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/all-the-ways-your-personal-information-is-used-against-you?u=76281980&t=229)** Also, because email is often used as a recovery method for other account types, i.e. if you have a forgotten password and you click to reset your password, it sends you an email link.
 >
@@ -540,7 +535,7 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/all-the-ways-your-personal-information-is-used-against-you?u=76281980&t=249)** Also, if your email address is known, you can receive lots and lots of spam, which not only is annoying, but can be used to cover up different types of attacks that bad actors do, or cover up activity that the bad actor's doing within your email account to make it harder for you to see it.
 >
-> **[4:24](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/all-the-ways-your-personal-information-is-used-against-you?u=76281980&t=264)** And if you click on a link in spam or a targeted phishing email, you can either infect your computer with malicious programs or you might be directed to a phishing site where you inadvertently give up your personal information.
+> **[4:24](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/all-the-ways-your-personal-information-is-used-against-you?u=76281980&t=264)** And if you click on a link in spam or a targeted [[Phishing]] email, you can either infect your computer with malicious programs or you might be directed to a phishing site where you inadvertently give up your personal information.
 >
 > **[4:38](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/all-the-ways-your-personal-information-is-used-against-you?u=76281980&t=278)** And all of the harm that we talked about can also be done much easier if a bad actor knows your phone number.
 >
@@ -564,7 +559,7 @@ created: 2026-05-02
 >
 > **[6:02](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/all-the-ways-your-personal-information-is-used-against-you?u=76281980&t=362)** When people have information about your relatives and they know other information like your phone number, they're able to do things like impersonations or social engineering.
 >
-> **[6:12](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/all-the-ways-your-personal-information-is-used-against-you?u=76281980&t=372)** And with generative AI, this is becoming much, much easier.
+> **[6:12](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/all-the-ways-your-personal-information-is-used-against-you?u=76281980&t=372)** And with [[Generative AI]], this is becoming much, much easier.
 >
 > **[6:16](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/all-the-ways-your-personal-information-is-used-against-you?u=76281980&t=376)** Distress scams are very common now, where a bad actor will call an elderly relative and pretend to be a child or a grandchild that is in trouble.
 >
@@ -584,7 +579,7 @@ created: 2026-05-02
 >
 > **[7:21](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/all-the-ways-your-personal-information-is-used-against-you?u=76281980&t=441)** That's just not true.
 >
-> **[7:23](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/all-the-ways-your-personal-information-is-used-against-you?u=76281980&t=443)** Millions of people are harmed every year, and it happens to everybody, the young, the old, the educated, even cybersecurity experts are victims of cyber crime and scams.
+> **[7:23](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/all-the-ways-your-personal-information-is-used-against-you?u=76281980&t=443)** Millions of people are harmed every year, and it happens to everybody, the young, the old, the educated, even [[Cybersecurity]] experts are victims of cyber crime and scams.
 >
 > **[7:34](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/all-the-ways-your-personal-information-is-used-against-you?u=76281980&t=454)** Over 5 million people have reported harm each of the last two years.
 >
@@ -596,7 +591,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (4), [[Engineering]] (2), [[Generative AI]] (2), web (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (4), [[Generative AI]] (2), [[Google]] (1), [[Cybersecurity]] (1)
 > **CLI Commands:** find (8), make (1)
 > **Definitions:** means that (2), known as (1), is a  (1)
 > **UI Navigation:** click on (2)
@@ -610,8 +605,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Minimizing your digital footprint
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/minimizing-your-digital-footprint?u=76281980)
+#### [Minimizing your digital footprint](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/minimizing-your-digital-footprint?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -645,20 +639,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2), open-source (1), database (1)
 > **CLI Commands:** find (4), make (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - think (1)
 
-#### How to protect your email address
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/how-to-protect-your-email-address?u=76281980)
+#### [How to protect your email address](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/how-to-protect-your-email-address?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/how-to-protect-your-email-address?u=76281980&t=0)** - [Instructor] Your email address is likely your most important crown jewel.
 >
-> **[0:04](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/how-to-protect-your-email-address?u=76281980&t=4)** It is probably the way that you access your Apple account or your Google account that has all of your documents, photos and other sensitive information.
+> **[0:04](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/how-to-protect-your-email-address?u=76281980&t=4)** It is probably the way that you access your Apple account or your [[Google]] account that has all of your documents, photos and other sensitive information.
 >
 > **[0:11](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/how-to-protect-your-email-address?u=76281980&t=11)** And think about what else is in your email, communication from everyone you know.
 >
@@ -712,7 +704,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/how-to-protect-your-email-address?u=76281980&t=177)** Now, you might think that this is difficult to manage, but it's not, there's two very simple ways that you can easily manage multiple emails.
 >
-> **[3:05](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/how-to-protect-your-email-address?u=76281980&t=185)** The first is you can use an email client, like Apple Mail or Outlook.
+> **[3:05](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/how-to-protect-your-email-address?u=76281980&t=185)** The first is you can use an email client, like Apple Mail or [[Microsoft Outlook|Outlook]].
 >
 > **[3:08](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/how-to-protect-your-email-address?u=76281980&t=188)** But another way you can do it is use Autoforward.
 >
@@ -744,7 +736,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (1), [[Microsoft Outlook|Outlook]] (1), next (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Microsoft Outlook|Outlook]] (1)
 > **CLI Commands:** make (7), find (4)
 > **Definitions:** means that (1), is a  (1)
 > **Env Vars:** sms (1)
@@ -753,8 +745,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to protect your phone number
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/how-to-protect-your-phone-number?u=76281980)
+#### [How to protect your phone number](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/how-to-protect-your-phone-number?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -782,7 +773,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/how-to-protect-your-phone-number?u=76281980&t=106)** My tip here is to get a virtual number.
 >
-> **[1:49](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/how-to-protect-your-phone-number?u=76281980&t=109)** A virtual number is something like Google Voice, but there's many other services and apps that provide this.
+> **[1:49](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/how-to-protect-your-phone-number?u=76281980&t=109)** A virtual number is something like [[Google]] Voice, but there's many other services and apps that provide this.
 >
 > **[1:54](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/how-to-protect-your-phone-number?u=76281980&t=114)** It allows you to have another phone number that you receive SMS or phone calls on your phone using an app.
 >
@@ -824,7 +815,7 @@ created: 2026-05-02
 >
 > **[5:08](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/how-to-protect-your-phone-number?u=76281980&t=308)** Generally speaking, most cell phone service providers like Verizon, AT&T or for me, I use Google Fi, will offer spam protection.
 >
-> **[5:17](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/how-to-protect-your-phone-number?u=76281980&t=317)** Telephone companies are trying to reduce spam and they have algorithms that run in the background that detect and block known bad spam, and that way it'll never reach your phone.
+> **[5:17](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/how-to-protect-your-phone-number?u=76281980&t=317)** Telephone companies are trying to reduce spam and they have [[Algorithms]] that run in the background that detect and block known bad spam, and that way it'll never reach your phone.
 >
 > **[5:28](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/how-to-protect-your-phone-number?u=76281980&t=328)** I highly recommend that you turn this feature on.
 >
@@ -832,7 +823,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (5), web (2), [[Engineering]] (1), next (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Google]] (5), [[Algorithms]] (1)
 > **Env Vars:** sms (6), sim (2), swim (1)
 > **CLI Commands:** make (4), find (3)
 > **Analogies:** just like (2), for example (1)
@@ -841,8 +832,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
-#### How to protect your name
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/how-to-protect-your-name?u=76281980)
+#### [How to protect your name](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/how-to-protect-your-name?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -860,11 +850,11 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/how-to-protect-your-name?u=76281980&t=45)** And if you've used a secondary email address and a secondary phone number, you don't want to tie those things to your name if you don't have to.
 >
-> **[0:53](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/how-to-protect-your-name?u=76281980&t=53)** Using an alias is all about reducing the places that your name shows up in online databases.
+> **[0:53](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/how-to-protect-your-name?u=76281980&t=53)** Using an alias is all about reducing the places that your name shows up in online [[Databases]].
 >
 > **[0:59](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/how-to-protect-your-name?u=76281980&t=59)** And the fewer databases that your name shows up in, the harder it is for bad actors to find you.
 >
-> **[1:05](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/how-to-protect-your-name?u=76281980&t=65)** The second tip is to use Google Search removal and other search engine removal tools in order to make it hard for bad actors to find your name in the databases and the places that it is already there.
+> **[1:05](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/how-to-protect-your-name?u=76281980&t=65)** The second tip is to use [[Google]] Search removal and other search engine removal tools in order to make it hard for bad actors to find your name in the databases and the places that it is already there.
 >
 > **[1:19](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/how-to-protect-your-name?u=76281980&t=79)** Google Search removal is a tool that allows you to request the removal of personal information that shows up in Google Search results.
 >
@@ -874,7 +864,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/how-to-protect-your-name?u=76281980&t=107)** And then, if accepted, Google will remove that result from the results.
 >
-> **[1:53](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/how-to-protect-your-name?u=76281980&t=113)** This is a great tool if you find personal information in Google Search results that you think is problematic from a privacy perspective.
+> **[1:53](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/how-to-protect-your-name?u=76281980&t=113)** This is a great tool if you find personal information in Google Search results that you think is problematic from a [[Privacy]] perspective.
 >
 > **[2:03](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/how-to-protect-your-name?u=76281980&t=123)** The next tip is to opt out of people search sites.
 >
@@ -930,7 +920,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (8), [[Google]] (5), [[Databases]] (3), [[Privacy]] (2), database (1)
+> **Frameworks & Libraries:** [[Google]] (5), [[Databases]] (3), [[Privacy]] (2)
 > **CLI Commands:** find (8), make (1)
 > **UI Navigation:** click on (2), navigate to (1), scroll down (1)
 > **URLs:** [whitepages.com](https://whitepages.com) (3)
@@ -944,12 +934,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Check the privacy settings of your apps and accounts
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/check-the-privacy-settings-of-your-apps-and-accounts?u=76281980)
+#### [Check the privacy settings of your apps and accounts](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/check-the-privacy-settings-of-your-apps-and-accounts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/check-the-privacy-settings-of-your-apps-and-accounts?u=76281980&t=0)** - [Narrator] Most applications and accounts, including social media, have privacy settings that govern how your data is used and shared, many with default settings that are not favorable to your privacy.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/check-the-privacy-settings-of-your-apps-and-accounts?u=76281980&t=0)** - [Narrator] Most applications and accounts, including social media, have [[Privacy]] settings that govern how your data is used and shared, many with default settings that are not favorable to your privacy.
 >
 > **[0:12](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/check-the-privacy-settings-of-your-apps-and-accounts?u=76281980&t=12)** In this way, we often inadvertently leak information about ourselves through the services that we use.
 >
@@ -1055,7 +1044,7 @@ created: 2026-05-02
 >
 > **[5:29](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/check-the-privacy-settings-of-your-apps-and-accounts?u=76281980&t=329)** The other thing I recommend with Venmo is to click on Past Transactions and make sure you change all to private because you want not only your future transactions to be private, but you want to close up any old transactions that might be public by accident.
 >
-> **[5:46](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/check-the-privacy-settings-of-your-apps-and-accounts?u=76281980&t=346)** Since this is a LinkedIn Learning course, it's probably worth highlighting the privacy settings to consider with your LinkedIn account.
+> **[5:46](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/check-the-privacy-settings-of-your-apps-and-accounts?u=76281980&t=346)** Since this is a [[LinkedIn]] Learning course, it's probably worth highlighting the privacy settings to consider with your LinkedIn account.
 >
 > **[5:53](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/check-the-privacy-settings-of-your-apps-and-accounts?u=76281980&t=353)** One of the things I really like about LinkedIn is that you do have a lot of options.
 >
@@ -1063,7 +1052,7 @@ created: 2026-05-02
 >
 > **[5:59](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/check-the-privacy-settings-of-your-apps-and-accounts?u=76281980&t=359)** On the mobile app, it's down on the bottom left is Settings.
 >
-> **[6:02](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/check-the-privacy-settings-of-your-apps-and-accounts?u=76281980&t=362)** And when you're in the Settings menu, there are really three areas where you can look at privacy-related preferences: Visibility, Data privacy, and Advertising data.
+> **[6:02](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/check-the-privacy-settings-of-your-apps-and-accounts?u=76281980&t=362)** And when you're in the Settings menu, there are really three areas where you can look at privacy-related preferences: Visibility, [[Data Privacy]], and Advertising data.
 >
 > **[6:11](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/check-the-privacy-settings-of-your-apps-and-accounts?u=76281980&t=371)** So let's start with Visibility.
 >
@@ -1095,7 +1084,7 @@ created: 2026-05-02
 >
 > **[7:35](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/check-the-privacy-settings-of-your-apps-and-accounts?u=76281980&t=455)** I also like this profile discovery and visibility off LinkedIn.
 >
-> **[7:39](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/check-the-privacy-settings-of-your-apps-and-accounts?u=76281980&t=459)** This really determines whether or not your profile will show up in other services like Outlook or on search engines.
+> **[7:39](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/check-the-privacy-settings-of-your-apps-and-accounts?u=76281980&t=459)** This really determines whether or not your profile will show up in other services like [[Microsoft Outlook|Outlook]] or on search engines.
 >
 > **[7:45](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/check-the-privacy-settings-of-your-apps-and-accounts?u=76281980&t=465)** In general, I like to turn this off.
 >
@@ -1197,7 +1186,7 @@ created: 2026-05-02
 >
 > **[14:14](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/check-the-privacy-settings-of-your-apps-and-accounts?u=76281980&t=854)** Once you submit that, you can choose how your information is then shared.
 >
-> **[14:18](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/check-the-privacy-settings-of-your-apps-and-accounts?u=76281980&t=858)** And in this case, you are able to restrict the bank from sharing your information within Bank of America for other products.
+> **[14:18](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/check-the-privacy-settings-of-your-apps-and-accounts?u=76281980&t=858)** And in this case, you are able to restrict the bank from sharing your information within Bank of America for other [[Microsoft Products|products]].
 >
 > **[14:27](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/check-the-privacy-settings-of-your-apps-and-accounts?u=76281980&t=867)** As always, I recommend restricting information sharing as much as possible in order to preserve your privacy.
 >
@@ -1213,7 +1202,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (35), [[LinkedIn]] (14), data (8), feature (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[Privacy]] (33), [[LinkedIn]] (14), [[Data Privacy]] (2), [[Microsoft Outlook|Outlook]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (15), find (11)
 > **UI Navigation:** click on (4), go to (3), scroll down (2)
 > **Analogies:** just like (3), for example (2), picture (1), such as (1), similar to (1)
@@ -1222,8 +1211,7 @@ created: 2026-05-02
 > **Best Practices:** good practice (1), remember to (1)
 > **URLs:** [whitepages.com](https://whitepages.com) (1)
 
-#### Common pitfalls with social media to avoid
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/common-pitfalls-with-social-media-to-avoid?u=76281980)
+#### [Common pitfalls with social media to avoid](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/common-pitfalls-with-social-media-to-avoid?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1261,7 +1249,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/common-pitfalls-with-social-media-to-avoid?u=76281980&t=146)** Even if you post it and then seconds later take it down, somebody may have screenshotted it and you have no real control over it.
 >
-> **[2:34](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/common-pitfalls-with-social-media-to-avoid?u=76281980&t=154)** And also those posts exist in the databases of whatever platform you're posting on.
+> **[2:34](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/common-pitfalls-with-social-media-to-avoid?u=76281980&t=154)** And also those posts exist in the [[Databases]] of whatever platform you're posting on.
 >
 > **[2:40](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/common-pitfalls-with-social-media-to-avoid?u=76281980&t=160)** So the other thing to remember when you're posting on social media is it's something that you're comfortable with being out there forever and taking a couple extra seconds to think about that before you post can save you a lot of grief in the future and help you avoid sending private information out that you don't intend to.
 >
@@ -1283,7 +1271,7 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/common-pitfalls-with-social-media-to-avoid?u=76281980&t=246)** These types of scams happen all the time, and scammers are looking for this type of information in order to perpetuate those scams.
 >
-> **[4:16](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/common-pitfalls-with-social-media-to-avoid?u=76281980&t=256)** Remember to protect yourself from accidental privacy exposure.
+> **[4:16](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/common-pitfalls-with-social-media-to-avoid?u=76281980&t=256)** Remember to protect yourself from accidental [[Privacy]] exposure.
 >
 > **[4:20](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/common-pitfalls-with-social-media-to-avoid?u=76281980&t=260)** Be thoughtful and deliberate about what you post online.
 
@@ -1303,14 +1291,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How your phone collects personal information
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/how-your-phone-collects-personal-information?u=76281980)
+#### [How your phone collects personal information](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/how-your-phone-collects-personal-information?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/how-your-phone-collects-personal-information?u=76281980&t=0)** - [Instructor] Your device collects lots of personal information about you.
 >
-> **[0:04](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/how-your-phone-collects-personal-information?u=76281980&t=4)** Understanding what data is collected will help you make better privacy-related decisions about what to share.
+> **[0:04](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/how-your-phone-collects-personal-information?u=76281980&t=4)** Understanding what data is collected will help you make better [[Privacy]]-related decisions about what to share.
 >
 > **[0:10](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/how-your-phone-collects-personal-information?u=76281980&t=10)** We carry our phones everywhere we go, and they collect a lot of information.
 >
@@ -1382,21 +1369,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Privacy]] (1), business (1), next (1)
+> **Frameworks & Libraries:** [[Privacy]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** gps (1), nfc (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Techniques to maximize your privacy on your device
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/techniques-to-maximize-your-privacy-on-your-device?u=76281980)
+#### [Techniques to maximize your privacy on your device](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/techniques-to-maximize-your-privacy-on-your-device?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/techniques-to-maximize-your-privacy-on-your-device?u=76281980&t=0)** - [Instructor] Your devices have settings that enable you to enhance your privacy.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/techniques-to-maximize-your-privacy-on-your-device?u=76281980&t=0)** - [Instructor] Your devices have settings that enable you to enhance your [[Privacy]].
 >
-> **[0:04](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/techniques-to-maximize-your-privacy-on-your-device?u=76281980&t=4)** Let's take a look at which settings to look out for and how to maximize your privacy while using your Android and iOS devices.
+> **[0:04](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/techniques-to-maximize-your-privacy-on-your-device?u=76281980&t=4)** Let's take a look at which settings to look out for and how to maximize your privacy while using your [[Android]] and iOS devices.
 >
 > **[0:13](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/techniques-to-maximize-your-privacy-on-your-device?u=76281980&t=13)** The first tip is that you want to minimize the use of location services on your device.
 >
@@ -1418,7 +1404,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/techniques-to-maximize-your-privacy-on-your-device?u=76281980&t=68)** The ones that I would call out right now that I think are important to turn off are product improvement.
 >
-> **[1:15](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/techniques-to-maximize-your-privacy-on-your-device?u=76281980&t=75)** This is information that Apple's collecting in order to improve their products, and it doesn't affect the functionality of your phone.
+> **[1:15](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/techniques-to-maximize-your-privacy-on-your-device?u=76281980&t=75)** This is information that Apple's collecting in order to improve their [[Microsoft Products|products]], and it doesn't affect the functionality of your phone.
 >
 > **[1:23](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/techniques-to-maximize-your-privacy-on-your-device?u=76281980&t=83)** The other great thing about Apple's location services options is it shows you when an app has used location in the past.
 >
@@ -1428,7 +1414,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/techniques-to-maximize-your-privacy-on-your-device?u=76281980&t=107)** In general, I recommend to not allow apps to use your location unless it's explicitly required.
 >
-> **[1:54](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/techniques-to-maximize-your-privacy-on-your-device?u=76281980&t=114)** For example, if you're using Google Maps to Navigate, you probably need Google Maps to enable your location.
+> **[1:54](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/techniques-to-maximize-your-privacy-on-your-device?u=76281980&t=114)** For example, if you're using [[Google]] Maps to Navigate, you probably need Google Maps to enable your location.
 >
 > **[2:02](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/techniques-to-maximize-your-privacy-on-your-device?u=76281980&t=122)** The other thing I like in the location services settings on the Apple device is it allows you to review where you have shared your location, by clicking the Share My Location link.
 >
@@ -1456,7 +1442,7 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/techniques-to-maximize-your-privacy-on-your-device?u=76281980&t=234)** In general, I would recommend you turn off Location History on Google, but if you do choose to turn it on, I recommend that you auto delete after three months, so it doesn't stick around forever.
 >
-> **[4:08](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/techniques-to-maximize-your-privacy-on-your-device?u=76281980&t=248)** Similarly, your Google account has location sharing permissions that are tied to Android, and it's important that you make decisions about whether or not you're willing to share your real-time location data with anybody using Google, and that's where you can do that on that setting.
+> **[4:08](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/techniques-to-maximize-your-privacy-on-your-device?u=76281980&t=248)** Similarly, your Google account has location sharing permissions that are tied to Android, and it's important that you make decisions about whether or not you're willing to share your [[Real-Time]] location data with anybody using Google, and that's where you can do that on that setting.
 >
 > **[4:27](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/techniques-to-maximize-your-privacy-on-your-device?u=76281980&t=267)** Just like with Apple, you can look and see which apps have which location permissions, and with the user interface here you're able to see which apps have access all the time to location, and which have it not allowed or allowed only when in use.
 >
@@ -1556,7 +1542,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (10), data (10), [[Privacy]] (9), [[Google]] (9), [[Security]] (4)
+> **Frameworks & Libraries:** [[Android]] (10), [[Privacy]] (9), [[Google]] (9), [[Microsoft Products|Products]] (1), [[Real-Time]] (1)
 > **UI Navigation:** scroll down (8), go to (6), click on (2)
 > **CLI Commands:** make (10), find (2)
 > **Analogies:** for example (5), just like (3), similar to (2)
@@ -1570,8 +1556,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1581,11 +1566,11 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/next-steps?u=76281980&t=7)** I hope that you apply what you learned and share it with friends and family so that they can be safer too, or better yet, have them take this course themselves.
 >
-> **[0:16](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/next-steps?u=76281980&t=16)** I'm very active in this space and I have an online safety blog where I publish important information about security and privacy to help everyday people get safer.
+> **[0:16](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/next-steps?u=76281980&t=16)** I'm very active in this space and I have an online safety blog where I publish important information about security and [[Privacy]] to help everyday people get safer.
 >
 > **[0:24](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/next-steps?u=76281980&t=24)** You can check it out in the link on this video.
 >
-> **[0:27](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/next-steps?u=76281980&t=27)** Also, feel free to reach out to me on LinkedIn.
+> **[0:27](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/next-steps?u=76281980&t=27)** Also, feel free to reach out to me on [[LinkedIn]].
 >
 > **[0:29](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/next-steps?u=76281980&t=29)** I'd love to hear how you like the course and what other topics you'd like me to instruct.
 >
@@ -1595,7 +1580,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1), [[Privacy]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (2)
 > **Speakers:** - thank (1)
 

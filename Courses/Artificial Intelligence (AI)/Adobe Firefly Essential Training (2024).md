@@ -119,29 +119,26 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Adobe Firefly essentials
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/adobe-firefly-essentials?u=76281980)
+#### [Adobe Firefly essentials](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/adobe-firefly-essentials?u=76281980)
 
-#### The age of AI-driven design
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/the-age-of-ai-driven-design?u=76281980)
+#### [The age of AI-driven design](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/the-age-of-ai-driven-design?u=76281980)
 
 
 ### 1. Firefly for Creatives
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How does Firefly fit in Creative Cloud?
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/how-does-firefly-fit-in-creative-cloud?u=76281980)
+#### [How does Firefly fit in Creative Cloud?](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/how-does-firefly-fit-in-creative-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/how-does-firefly-fit-in-creative-cloud?u=76281980&t=0)** - [Instructor] Let's take a moment to talk about the relationship between Adobe Firefly and Adobe Creative Cloud.
+> **[0:00](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/how-does-firefly-fit-in-creative-cloud?u=76281980&t=0)** - [Instructor] Let's take a moment to talk about the relationship between [[Adobe Firefly]] and [[Adobe Creative Cloud]].
 >
 > **[0:06](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/how-does-firefly-fit-in-creative-cloud?u=76281980&t=6)** Now, first off, it's important to understand that Adobe Firefly is a web service, which means that it lives online and you can use a web browser to open up the Adobe Firefly webpage, which is something that you'll learn in just a couple of videos.
 >
 > **[0:20](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/how-does-firefly-fit-in-creative-cloud?u=76281980&t=20)** Now, you can also use the majority of the Firefly technology directly from within that same web browser.
 >
-> **[0:27](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/how-does-firefly-fit-in-creative-cloud?u=76281980&t=27)** Now, Firefly also fuels existing services and features within existing Adobe Creative Cloud products.
+> **[0:27](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/how-does-firefly-fit-in-creative-cloud?u=76281980&t=27)** Now, Firefly also fuels existing services and features within existing Adobe Creative Cloud [[Microsoft Products|products]].
 >
 > **[0:34](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/how-does-firefly-fit-in-creative-cloud?u=76281980&t=34)** So this includes Adobe Express, where you can use text effects, just to name one example, or maybe Adobe Stock, where you can use the text-to-image functionality.
 >
@@ -247,19 +244,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Adobe Firefly]] (6), web (4), prompt (4), [[Adobe Creative Cloud]] (2), product (2)
+> **Frameworks & Libraries:** [[Adobe Firefly]] (6), [[Adobe Creative Cloud]] (2), [[Microsoft Products|Products]] (1)
 > **Analogies:** for example (4), picture (1), imagine (1)
 > **CLI Commands:** find (3), make (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### How does Firefly differ from other generative art solutions?
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/how-does-firefly-differ-from-other-generative-art-solutions?u=76281980)
+#### [How does Firefly differ from other generative art solutions?](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/how-does-firefly-differ-from-other-generative-art-solutions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/how-does-firefly-differ-from-other-generative-art-solutions?u=76281980&t=0)** - [Instructor] Let's take a moment to talk about what makes Adobe Firefly unique.
+> **[0:00](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/how-does-firefly-differ-from-other-generative-art-solutions?u=76281980&t=0)** - [Instructor] Let's take a moment to talk about what makes [[Adobe Firefly]] unique.
 >
 > **[0:04](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/how-does-firefly-differ-from-other-generative-art-solutions?u=76281980&t=4)** Now, first of all, Firefly is integrated within your existing Creative Cloud applications, so you can use your familiar user interface, like Photoshop and Illustrator, to use specific Firefly functionalities without having to leave the application, which can be a massive production booster.
 >
@@ -283,7 +279,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/how-does-firefly-differ-from-other-generative-art-solutions?u=76281980&t=77)** And then thirdly, images of which the copyright has expired, and this gives you a very, very decent database to work with to create images that are free from royalties and free from copyright.
 >
-> **[1:30](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/how-does-firefly-differ-from-other-generative-art-solutions?u=76281980&t=90)** Now, there's also a whole conversation about the relationship between using generative AI technology, and then harm and bias towards ethnic groups and other genders, so let me give you an example.
+> **[1:30](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/how-does-firefly-differ-from-other-generative-art-solutions?u=76281980&t=90)** Now, there's also a whole conversation about the relationship between using [[Generative AI]] technology, and then harm and bias towards ethnic groups and other genders, so let me give you an example.
 >
 > **[1:42](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/how-does-firefly-differ-from-other-generative-art-solutions?u=76281980&t=102)** If you're looking to create an image of a nurse tending to a patient, will that nurse always be a woman?
 >
@@ -313,21 +309,20 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/how-does-firefly-differ-from-other-generative-art-solutions?u=76281980&t=230)** Instead, I had to reside to using a simple mouse performing a magic spell, so I have to change how I prompt things, and it's important that you realize how Firefly is basically trained and maintained just to match expectations about what is that you want to do and what is that you want to create.
 >
-> **[4:08](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/how-does-firefly-differ-from-other-generative-art-solutions?u=76281980&t=248)** So if you want to create celebrities in various poses or in fancy, fast cars and other types of scenes, then Firefly is probably not the solution for you, because it's really difficult to depict real people and real intellectual property products and characters.
+> **[4:08](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/how-does-firefly-differ-from-other-generative-art-solutions?u=76281980&t=248)** So if you want to create celebrities in various poses or in fancy, fast cars and other types of scenes, then Firefly is probably not the solution for you, because it's really difficult to depict real people and real intellectual property [[Microsoft Products|products]] and characters.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Adobe Firefly]] (5), database (3), prompt (3), cloud (1), application (1)
+> **Frameworks & Libraries:** [[Adobe Firefly]] (5), [[Generative AI]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** means that (1), is a  (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
 
-#### Is Firefly free?
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/is-firefly-free?u=76281980)
+#### [Is Firefly free?](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/is-firefly-free?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/is-firefly-free?u=76281980&t=0)** - [Instructor] Is Adobe Firefly free?
+> **[0:00](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/is-firefly-free?u=76281980&t=0)** - [Instructor] Is [[Adobe Firefly]] free?
 >
 > **[0:02](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/is-firefly-free?u=76281980&t=2)** Well, the short answer is yes, but there are some things you do need to know.
 >
@@ -345,7 +340,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/is-firefly-free?u=76281980&t=54)** If you use a free Firefly account, which you can register directly on the Firefly webpage, you will have a total of 25 credits available to you per month, where unused credits will not transfer into the next month.
 >
-> **[1:09](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/is-firefly-free?u=76281980&t=69)** But if you have some type of an Adobe subscription, for example, an Adobe Creative Cloud membership or even a single app membership, let's just say Photoshop, then you have many more credits available to you.
+> **[1:09](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/is-firefly-free?u=76281980&t=69)** But if you have some type of an Adobe subscription, for example, an [[Adobe Creative Cloud]] membership or even a single app membership, let's just say Photoshop, then you have many more credits available to you.
 >
 > **[1:22](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/is-firefly-free?u=76281980&t=82)** If you're not an active Creative Cloud subscriber, you can also directly subscribe to the Adobe Firefly service online or to other web services, like Adobe Express or even Adobe Stock.
 >
@@ -357,7 +352,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Adobe Firefly]] (3), express (2), next (1), [[Adobe Creative Cloud]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Adobe Firefly]] (3), [[Adobe Creative Cloud]] (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
@@ -366,12 +361,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing Text to Image on the web
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/introducing-text-to-image-on-the-web?u=76281980)
+#### [Introducing Text to Image on the web](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/introducing-text-to-image-on-the-web?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/introducing-text-to-image-on-the-web?u=76281980&t=0)** - [Instructor] Now that you've had a first introduction to what Adobe Firefly is, it's time to start your first exercise.
+> **[0:00](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/introducing-text-to-image-on-the-web?u=76281980&t=0)** - [Instructor] Now that you've had a first introduction to what [[Adobe Firefly]] is, it's time to start your first exercise.
 >
 > **[0:06](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/introducing-text-to-image-on-the-web?u=76281980&t=6)** In this chapter, we'll focus on the Text to Image functionality, which enables you to type in a description of an image, after which, Firefly will generate that image for you.
 >
@@ -403,7 +397,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (4), [[Adobe Firefly]] (3), web (1), cloud (1), hit (1)
+> **Frameworks & Libraries:** [[Adobe Firefly]] (3)
 > **Cross-References:** go back to (1), in the next (1)
 > **UI Navigation:** navigate to (1), scroll down (1)
 > **URLs:** [adobe.com](https://adobe.com) (1)
@@ -411,8 +405,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating your very first text prompt
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/creating-your-very-first-text-prompt?u=76281980)
+#### [Creating your very first text prompt](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/creating-your-very-first-text-prompt?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -450,11 +443,11 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/creating-your-very-first-text-prompt?u=76281980&t=100)** But, anyway, keep in mind that you have a unique result, which means that if you are fearful of losing that result for whatever reason, for example, you close your browser, you can always just hover over any of these results here and then choose to click the star icon to add that to your personal gallery of favorite images.
 >
-> **[2:00](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/creating-your-very-first-text-prompt?u=76281980&t=120)** Or you can down the image by clicking the download option, or you can click the export option here to copy the link to save that as a backup, or share this with other people, or copy the image into Photoshop, save it to a library to bring it into the Adobe Creative Cloud ecosystem.
+> **[2:00](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/creating-your-very-first-text-prompt?u=76281980&t=120)** Or you can down the image by clicking the download option, or you can click the export option here to copy the link to save that as a backup, or share this with other people, or copy the image into Photoshop, save it to a library to bring it into the [[Adobe Creative Cloud]] ecosystem.
 >
 > **[2:17](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/creating-your-very-first-text-prompt?u=76281980&t=137)** You have a lot of different options.
 >
-> **[2:20](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/creating-your-very-first-text-prompt?u=76281980&t=140)** The left-hand side, you can even choose to take this image deeper into Adobe Firefly by choosing any of these options, or take this image out of Firefly and into Adobe Express by adding text, shapes and converting this to a social media post.
+> **[2:20](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/creating-your-very-first-text-prompt?u=76281980&t=140)** The left-hand side, you can even choose to take this image deeper into [[Adobe Firefly]] by choosing any of these options, or take this image out of Firefly and into Adobe Express by adding text, shapes and converting this to a social media post.
 >
 > **[2:37](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/creating-your-very-first-text-prompt?u=76281980&t=157)** Now, you can also give Adobe feedback around the results that you see on screen.
 >
@@ -532,7 +525,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (15), [[Adobe Firefly]] (2), hit (1), [[Adobe Creative Cloud]] (1), express (1)
+> **Frameworks & Libraries:** [[Adobe Firefly]] (2), [[Adobe Creative Cloud]] (1)
 > **Analogies:** for example (6), it's like (1)
 > **Definitions:** is a  (4), means that (2)
 > **CLI Commands:** make (3)
@@ -540,12 +533,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (2)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding the difference between Firefly models
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/understanding-the-difference-between-firefly-models?u=76281980)
+#### [Understanding the difference between Firefly models](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/understanding-the-difference-between-firefly-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/understanding-the-difference-between-firefly-models?u=76281980&t=0)** - [Instructor] Adobe Firefly is driven by a large data model, and that algorithm is giving you the results that you currently see onscreen.
+> **[0:00](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/understanding-the-difference-between-firefly-models?u=76281980&t=0)** - [Instructor] [[Adobe Firefly]] is driven by a large data model, and that algorithm is giving you the results that you currently see onscreen.
 >
 > **[0:09](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/understanding-the-difference-between-firefly-models?u=76281980&t=9)** So this really big algorithm is driving a lot of the functionality, not just here within the Adobe Firefly web page where we're currently using the Text to Image functionality, but also when you launch Photoshop and you're using additional functionalities, like Generative Fill or Generative Expand, or in Illustrator when you're using Text to Vector, or Adobe Express or any other application that's fueled by Adobe Firefly.
 >
@@ -597,7 +589,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (6), [[Adobe Firefly]] (3), data (1), web (1), express (1)
+> **Frameworks & Libraries:** [[Adobe Firefly]] (3)
 > **Definitions:** means that (2), is a  (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (2)
@@ -606,12 +598,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Text prompt best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/text-prompt-best-practices?u=76281980)
+#### [Text prompt best practices](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/text-prompt-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/text-prompt-best-practices?u=76281980&t=0)** - [Narrator] Let's take a look at a few very practical tips on how you can get the most out of Adobe Firefly.
+> **[0:00](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/text-prompt-best-practices?u=76281980&t=0)** - [Narrator] Let's take a look at a few very practical tips on how you can get the most out of [[Adobe Firefly]].
 >
 > **[0:05](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/text-prompt-best-practices?u=76281980&t=5)** Now, keep in mind that Adobe Firefly is expecting very clear instructions from you, and knowing how to talk to Firefly is really going to help you to get the best results out of this amazing system.
 >
@@ -621,7 +612,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/text-prompt-best-practices?u=76281980&t=22)** Now, don't give out commands.
 >
-> **[0:24](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/text-prompt-best-practices?u=76281980&t=24)** Now, this is especially true once you start to use Firefly inside of Adobe Photoshop.
+> **[0:24](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/text-prompt-best-practices?u=76281980&t=24)** Now, this is especially true once you start to use Firefly inside of [[Adobe Photoshop]].
 >
 > **[0:28](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/text-prompt-best-practices?u=76281980&t=28)** For example, I've seen users make selections and then simply add things like remove person, or they would type in add water.
 >
@@ -729,14 +720,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (7), [[Adobe Firefly]] (2), [[Adobe Photoshop]] (1), generic (1)
+> **Frameworks & Libraries:** [[Adobe Firefly]] (2), [[Adobe Photoshop]] (1)
 > **CLI Commands:** make (5), find (1)
 > **Analogies:** for example (3), picture (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
 
-#### Using content types and styles
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/using-content-types-and-styles?u=76281980)
+#### [Using content types and styles](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/using-content-types-and-styles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -814,7 +804,7 @@ created: 2026-05-02
 >
 > **[4:18](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/using-content-types-and-styles?u=76281980&t=258)** For example, if I choose to have a cyberpunk theme, I can click that filter to go ahead and add that filter here as a property combined with my current prompt.
 >
-> **[4:29](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/using-content-types-and-styles?u=76281980&t=269)** I can come in here and click generate to come in and now alter the results I have inside of Adobe Firefly.
+> **[4:29](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/using-content-types-and-styles?u=76281980&t=269)** I can come in here and click generate to come in and now alter the results I have inside of [[Adobe Firefly]].
 >
 > **[4:35](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/using-content-types-and-styles?u=76281980&t=275)** So now I'm combining the art and the cyberpunk filters or effects to get to a different result.
 >
@@ -858,7 +848,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (6), hit (2), [[Adobe Firefly]] (2), next (1), power (1)
+> **Frameworks & Libraries:** [[Adobe Firefly]] (2)
 > **CLI Commands:** make (4)
 > **Cross-References:** go back to (3)
 > **Definitions:** means that (2), is a  (1)
@@ -866,8 +856,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Finding similar images and saving favorites
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/finding-similar-images-and-saving-favourites?u=76281980)
+#### [Finding similar images and saving favorites](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/finding-similar-images-and-saving-favourites?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -877,7 +866,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/finding-similar-images-and-saving-favourites?u=76281980&t=17)** This is the first one.
 >
-> **[0:18](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/finding-similar-images-and-saving-favourites?u=76281980&t=18)** So I started out here in Adobe Firefly where I type in the prompt, a pink neon sign on top of a colorful shop, spelling out the word candy.
+> **[0:18](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/finding-similar-images-and-saving-favourites?u=76281980&t=18)** So I started out here in [[Adobe Firefly]] where I type in the prompt, a pink neon sign on top of a colorful shop, spelling out the [[Microsoft Word|word]] candy.
 >
 > **[0:28](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/finding-similar-images-and-saving-favourites?u=76281980&t=28)** And this is exactly what I'm getting.
 >
@@ -971,7 +960,7 @@ created: 2026-05-02
 >
 > **[5:43](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/finding-similar-images-and-saving-favourites?u=76281980&t=343)** For example, if you like this specific version with all these different pillars, you might want to go back into the edit menu and then choose generate similar once more to now refresh these three images based on the result you had here.
 >
-> **[5:56](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/finding-similar-images-and-saving-favourites?u=76281980&t=356)** And you can keep fine tuning your results as you see fit, and you can even start to add more effects to your result to get to a different type of image.
+> **[5:56](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/finding-similar-images-and-saving-favourites?u=76281980&t=356)** And you can keep [[Fine Tuning]] your results as you see fit, and you can even start to add more effects to your result to get to a different type of image.
 >
 > **[6:04](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/finding-similar-images-and-saving-favourites?u=76281980&t=364)** Now, here I can see that I have a different result where I am, again, replicating the same perspective with these different pillars, the stairs, a humanoid, and the fish going through the city.
 >
@@ -979,7 +968,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (9), [[Microsoft Word|Word]] (3), [[Adobe Firefly]] (2), next (2), web (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Adobe Firefly]] (2), [[Fine Tuning]] (1)
 > **CLI Commands:** find (4), make (1)
 > **Analogies:** just like (1), kind of like (1), similar to (1), for example (1)
 > **Cross-References:** go back to (2)
@@ -987,17 +976,15 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sharing prompts with others
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/sharing-prompts-with-others?u=76281980)
+#### [Sharing prompts with others](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/sharing-prompts-with-others?u=76281980)
 
-#### Challenge: Pencil drawing
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/challenge-pencil-drawing?u=76281980)
+#### [Challenge: Pencil drawing](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/challenge-pencil-drawing?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/challenge-pencil-drawing?u=76281980&t=0)** - [Narrator] It is time for a challenge and for this challenge, let's imagine we were designing an ad for a brand of coloring pencils.
 >
-> **[0:13](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/challenge-pencil-drawing?u=76281980&t=13)** What you see on screen now is the first version of this ad, and we're going to do this inside of Adobe Photoshop.
+> **[0:13](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/challenge-pencil-drawing?u=76281980&t=13)** What you see on screen now is the first version of this ad, and we're going to do this inside of [[Adobe Photoshop]].
 >
 > **[0:18](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/challenge-pencil-drawing?u=76281980&t=18)** So here in Photoshop, I have pencils.psd open, and this design consists of three layers.
 >
@@ -1021,7 +1008,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/challenge-pencil-drawing?u=76281980&t=78)** Now also take into consideration that this illustration needs to look like an actual pencil drawing, so it cannot really be a real photograph.
 >
-> **[1:27](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/challenge-pencil-drawing?u=76281980&t=87)** So the image I want you to create using Adobe Firefly is a pencil sketch of a lion laying down in a field, and it needs to have dramatic colors.
+> **[1:27](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/challenge-pencil-drawing?u=76281980&t=87)** So the image I want you to create using [[Adobe Firefly]] is a pencil sketch of a lion laying down in a field, and it needs to have dramatic colors.
 >
 > **[1:38](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/challenge-pencil-drawing?u=76281980&t=98)** So my recommendation is that you take a look at the prompt that you would like to use, and also pay attention at the available styles or other options that you might be able to apply to this very specific prompt.
 >
@@ -1035,7 +1022,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (3), [[Adobe Photoshop]] (1), [[Adobe Firefly]] (1)
+> **Frameworks & Libraries:** [[Adobe Photoshop]] (1), [[Adobe Firefly]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -1043,8 +1030,7 @@ created: 2026-05-02
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Pencil drawing
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/solution-pencil-drawing?u=76281980)
+#### [Solution: Pencil drawing](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/solution-pencil-drawing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1088,7 +1074,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/solution-pencil-drawing?u=76281980&t=133)** So let's scale this up a little bit.
 >
-> **[2:15](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/solution-pencil-drawing?u=76281980&t=135)** I'll press and hold down the command T shortcut on the keyboard, which is Ctrl+T on Windows.
+> **[2:15](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/solution-pencil-drawing?u=76281980&t=135)** I'll press and hold down the command T shortcut on the keyboard, which is Ctrl+T on [[Windows]].
 >
 > **[2:21](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/solution-pencil-drawing?u=76281980&t=141)** And I'll just go ahead and just drag these corners outward without holding down the shift key.
 >
@@ -1106,7 +1092,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (2), [[Windows]] (1), hit (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** switch to (1)
 > **Analogies:** picture (1)
@@ -1118,8 +1104,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting colors, lighting, and composition
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/setting-colors-lighting-and-composition?u=76281980)
+#### [Setting colors, lighting, and composition](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/setting-colors-lighting-and-composition?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1133,7 +1118,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/setting-colors-lighting-and-composition?u=76281980&t=33)** Let me show you what I'm talking about.
 >
-> **[0:35](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/setting-colors-lighting-and-composition?u=76281980&t=35)** Here inside of Adobe Firefly, I started out with this very specific prompt, a butterfly resting on a flower.
+> **[0:35](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/setting-colors-lighting-and-composition?u=76281980&t=35)** Here inside of [[Adobe Firefly]], I started out with this very specific prompt, a butterfly resting on a flower.
 >
 > **[0:41](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/setting-colors-lighting-and-composition?u=76281980&t=41)** Now, notice that I didn't really specify what the background should look like, nor did I specify what type of flower or what type of butterfly I would like to see.
 >
@@ -1249,14 +1234,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (12), express (3), [[Adobe Firefly]] (1), next (1)
+> **Frameworks & Libraries:** [[Adobe Firefly]] (1)
 > **Analogies:** for example (5)
 > **CLI Commands:** make (3)
 > **Definitions:** means that (3)
 > **Speakers:** - [instructor] (1)
 
-#### Using a Structure reference
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/using-a-structure-reference?u=76281980)
+#### [Using a Structure reference](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/using-a-structure-reference?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1292,7 +1276,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/using-a-structure-reference?u=76281980&t=107)** Now, let's take a look here.
 >
-> **[1:48](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/using-a-structure-reference?u=76281980&t=108)** I'll choose Browse gallery to look at some of the images that ship with Adobe Firefly.
+> **[1:48](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/using-a-structure-reference?u=76281980&t=108)** I'll choose Browse gallery to look at some of the images that ship with [[Adobe Firefly]].
 >
 > **[1:54](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/using-a-structure-reference?u=76281980&t=114)** Now of course I can always upload my own, but for now, I'm going to stick to the ones that ship with Firefly just for these first couple of prompts.
 >
@@ -1400,7 +1384,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (9), feature (1), [[Adobe Firefly]] (1)
+> **Frameworks & Libraries:** [[Adobe Firefly]] (1)
 > **Definitions:** is a  (6), basically means (1)
 > **Analogies:** for example (2), imagine (1), picture (1)
 > **CLI Commands:** make (3)
@@ -1409,12 +1393,11 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating your own Structure reference
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/creating-your-own-structure-reference?u=76281980)
+#### [Creating your own Structure reference](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/creating-your-own-structure-reference?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/creating-your-own-structure-reference?u=76281980&t=0)** - [Instructor] Now that you have a good understanding of what a structure reference is, it's time to create your very own using Adobe Photoshop.
+> **[0:00](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/creating-your-own-structure-reference?u=76281980&t=0)** - [Instructor] Now that you have a good understanding of what a structure reference is, it's time to create your very own using [[Adobe Photoshop]].
 >
 > **[0:07](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/creating-your-own-structure-reference?u=76281980&t=7)** I'm here inside of Photoshop, and I'm ready to get started.
 >
@@ -1426,7 +1409,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/creating-your-own-structure-reference?u=76281980&t=22)** I'll just go ahead and choose Create to get started.
 >
-> **[0:24](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/creating-your-own-structure-reference?u=76281980&t=24)** Now I would like to create an inscription of the word "Flower" surrounded by other flowers.
+> **[0:24](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/creating-your-own-structure-reference?u=76281980&t=24)** Now I would like to create an inscription of the [[Microsoft Word|word]] "Flower" surrounded by other flowers.
 >
 > **[0:31](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/creating-your-own-structure-reference?u=76281980&t=31)** So let's go ahead and choose the Type tool here on the left-hand side.
 >
@@ -1478,7 +1461,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/creating-your-own-structure-reference?u=76281980&t=144)** I'll just go ahead and click the Save option and I'll save this as reference.jpeg.
 >
-> **[2:32](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/creating-your-own-structure-reference?u=76281980&t=152)** Now choose Save, and now I'm ready to go into Adobe Firefly.
+> **[2:32](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/creating-your-own-structure-reference?u=76281980&t=152)** Now choose Save, and now I'm ready to go into [[Adobe Firefly]].
 >
 > **[2:36](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/creating-your-own-structure-reference?u=76281980&t=156)** So here inside of Adobe Firefly, I'm ready to type in my prompt.
 >
@@ -1530,7 +1513,7 @@ created: 2026-05-02
 >
 > **[4:48](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/creating-your-own-structure-reference?u=76281980&t=288)** Let me show you one more example that I have done here beforehand.
 >
-> **[4:52](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/creating-your-own-structure-reference?u=76281980&t=292)** So here for example, I've taken this version of the LinkedIn Learning logo.
+> **[4:52](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/creating-your-own-structure-reference?u=76281980&t=292)** So here for example, I've taken this version of the [[LinkedIn]] Learning logo.
 >
 > **[4:56](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/creating-your-own-structure-reference?u=76281980&t=296)** It's a rounded interpretation of the logo, which kind of gave me some room for interpretation.
 >
@@ -1544,7 +1527,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), prompt (4), hit (2), [[Adobe Firefly]] (2), [[Adobe Photoshop]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), [[Adobe Firefly]] (2), [[Adobe Photoshop]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (4), yarn (1)
 > **UI Navigation:** select the (1), drag and drop (1), scroll down (1)
 > **Env Vars:** ppi (1), jpeg (1)
@@ -1553,8 +1536,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (2)
 > **Analogies:** for example (1)
 
-#### Using a Style reference
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/using-a-style-reference?u=76281980)
+#### [Using a Style reference](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/using-a-style-reference?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1568,7 +1550,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/using-a-style-reference?u=76281980&t=33)** Let's take a look at a very simple example.
 >
-> **[0:35](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/using-a-style-reference?u=76281980&t=35)** Here inside Adobe Firefly, I have reused one of the previous prompts that you've learned before, which is a dog wearing glasses reading a book.
+> **[0:35](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/using-a-style-reference?u=76281980&t=35)** Here inside [[Adobe Firefly]], I have reused one of the previous prompts that you've learned before, which is a dog wearing glasses reading a book.
 >
 > **[0:44](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/using-a-style-reference?u=76281980&t=44)** And I'm getting different variations of that specific prompt, and everything is absolutely fine.
 >
@@ -1632,7 +1614,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (13), [[Adobe Firefly]] (1)
+> **Frameworks & Libraries:** [[Adobe Firefly]] (1)
 > **Definitions:** means that (2), is a  (1)
 > **Warnings:** keep in mind (3)
 > **CLI Commands:** find (1), make (1)
@@ -1640,8 +1622,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Bringing it all together
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/bringing-it-all-together?u=76281980)
+#### [Bringing it all together](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/bringing-it-all-together?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1649,7 +1630,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/bringing-it-all-together?u=76281980&t=7)** Now, let's look at a slightly more complex example.
 >
-> **[0:10](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/bringing-it-all-together?u=76281980&t=10)** I've started out here inside of Adobe Firefly where I typed in a very simple prompt, "A statue of an ibis bird," and I'm getting these types of results, which is literally a statue of an ibis bird.
+> **[0:10](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/bringing-it-all-together?u=76281980&t=10)** I've started out here inside of [[Adobe Firefly]] where I typed in a very simple prompt, "A statue of an ibis bird," and I'm getting these types of results, which is literally a statue of an ibis bird.
 >
 > **[0:23](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/bringing-it-all-together?u=76281980&t=23)** But I would like to have more control over this entire prompt, so what I've done beforehand is the following.
 >
@@ -1737,15 +1718,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (14), next (4), [[Adobe Firefly]] (3), hit (1)
+> **Frameworks & Libraries:** [[Adobe Firefly]] (3)
 > **Warnings:** keep in mind (4)
 > **CLI Commands:** find (2)
 > **UI Navigation:** scroll down (1), drag and drop (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Creating a Structure reference
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/challenge-creating-a-structure-reference?u=76281980)
+#### [Challenge: Creating a Structure reference](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/challenge-creating-a-structure-reference?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1775,30 +1755,27 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (2), feature (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright upbeat music) (1)
 
-#### Solution: Creating a Structure reference
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/solution-creating-a-structure-reference?u=76281980)
+#### [Solution: Creating a Structure reference](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/solution-creating-a-structure-reference?u=76281980)
 
 
 ### 4. Image Magic with Generative Fill
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing Generative Fill
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/introducing-generative-fill?u=76281980)
+#### [Introducing Generative Fill](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/introducing-generative-fill?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/introducing-generative-fill?u=76281980&t=0)** - [Instructor] Let's look at what I think is one of the most interesting features in Adobe Firefly, Generative Fill.
+> **[0:00](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/introducing-generative-fill?u=76281980&t=0)** - [Instructor] Let's look at what I think is one of the most interesting features in [[Adobe Firefly]], Generative Fill.
 >
 > **[0:06](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/introducing-generative-fill?u=76281980&t=6)** Now, in the previous few chapters, you learned how to use a text prompt to create an entire image from scratch.
 >
-> **[0:13](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/introducing-generative-fill?u=76281980&t=13)** However, what do you do when you want to selectively edit just a part of an existing image using generative AI?
+> **[0:13](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/introducing-generative-fill?u=76281980&t=13)** However, what do you do when you want to selectively edit just a part of an existing image using [[Generative AI]]?
 >
 > **[0:22](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/introducing-generative-fill?u=76281980&t=22)** And that's exactly where Generative Fill comes in.
 >
@@ -1830,7 +1807,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/introducing-generative-fill?u=76281980&t=97)** Now, if I just go ahead and just click this image just to open this up, you will see the Generative Fill interface.
 >
-> **[1:43](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/introducing-generative-fill?u=76281980&t=103)** Now, the tools you see here on the left-hand side are super accessible, and I cannot emphasize this enough, as long as you know how to operate a mouse and the keyboard, you can now manipulate images without having received any formal education in graphic design, while others have to still install and learn Photoshop to achieve the same thing.
+> **[1:43](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/introducing-generative-fill?u=76281980&t=103)** Now, the tools you see here on the left-hand side are super accessible, and I cannot emphasize this enough, as long as you know how to operate a mouse and the keyboard, you can now manipulate images without having received any formal education in [[Graphic Design]], while others have to still install and learn Photoshop to achieve the same thing.
 >
 > **[2:05](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/introducing-generative-fill?u=76281980&t=125)** And this is something that enables anyone in your organization to basically create or ideate what is they want in a fraction of the time compared to Photoshop.
 >
@@ -1838,7 +1815,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Adobe Firefly]] (1), prompt (1), [[Generative AI]] (1), ai (1), [[Graphic Design]] (1)
+> **Frameworks & Libraries:** [[Adobe Firefly]] (1), [[Generative AI]] (1), [[Graphic Design]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** scroll down (1), select the (1)
 > **Definitions:** is a  (1)
@@ -1846,14 +1823,13 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Inserting objects and subjects
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/inserting-objects-and-subjects?u=76281980)
+#### [Inserting objects and subjects](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/inserting-objects-and-subjects?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/inserting-objects-and-subjects?u=76281980&t=0)** - [Instructor] It's time to look at our very first Generative Fill project.
 >
-> **[0:04](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/inserting-objects-and-subjects?u=76281980&t=4)** Now, to get started, we have to upload an image first into Adobe Firefly, and I have just the image to get started with.
+> **[0:04](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/inserting-objects-and-subjects?u=76281980&t=4)** Now, to get started, we have to upload an image first into [[Adobe Firefly]], and I have just the image to get started with.
 >
 > **[0:11](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/inserting-objects-and-subjects?u=76281980&t=11)** So let me just go back to the finder window here.
 >
@@ -1997,7 +1973,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Adobe Firefly]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Adobe Firefly]] (1)
 > **Definitions:** is a  (5), means that (2)
 > **CLI Commands:** make (4), find (1)
 > **Cross-References:** go back to (3)
@@ -2005,8 +1981,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Replacing image backgrounds
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/replacing-image-backgrounds?u=76281980)
+#### [Replacing image backgrounds](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/replacing-image-backgrounds?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2130,7 +2105,7 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/replacing-image-backgrounds?u=76281980&t=224)** And now it's a matter of just typing in the prompt for the replacement background, which should be a kitchen.
 >
-> **[3:51](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/replacing-image-backgrounds?u=76281980&t=231)** Just type in the word kitchen and I'll choose Generate to generate a kitchen area for this particular subject.
+> **[3:51](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/replacing-image-backgrounds?u=76281980&t=231)** Just type in the [[Microsoft Word|word]] kitchen and I'll choose Generate to generate a kitchen area for this particular subject.
 >
 > **[3:59](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/replacing-image-backgrounds?u=76281980&t=239)** Let's give this a couple of seconds and see what Firefly can give us.
 >
@@ -2170,15 +2145,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (4), hit (3), [[Microsoft Word|Word]] (1), career (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (3)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Removing subjects from an image
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/removing-subjects-from-an-image?u=76281980)
+#### [Removing subjects from an image](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/removing-subjects-from-an-image?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2298,19 +2272,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), next (1), ai (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** select the (1), go to (1)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** imagine (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### The importance of selections
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/the-importance-of-selections?u=76281980)
+#### [The importance of selections](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/the-importance-of-selections?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/the-importance-of-selections?u=76281980&t=0)** - [Instructor] Let's talk about the importance of selections when using Generative Fill in Adobe Firefly.
+> **[0:00](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/the-importance-of-selections?u=76281980&t=0)** - [Instructor] Let's talk about the importance of selections when using Generative Fill in [[Adobe Firefly]].
 >
 > **[0:06](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/the-importance-of-selections?u=76281980&t=6)** Now I'm starting out here with the exact same image I left the previous exercise with, so basically I kept my file open.
 >
@@ -2394,18 +2366,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Adobe Firefly]] (1), hit (1), prompt (1)
+> **Frameworks & Libraries:** [[Adobe Firefly]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introducing Generative Expand
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/introducing-generative-expand?u=76281980)
+#### [Introducing Generative Expand](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/introducing-generative-expand?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/introducing-generative-expand?u=76281980&t=0)** - [Instructor] Allow me to introduce the final option or final feature here within the generative fill technology stack using Adobe Firefly.
+> **[0:00](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/introducing-generative-expand?u=76281980&t=0)** - [Instructor] Allow me to introduce the final option or final feature here within the generative fill technology stack using [[Adobe Firefly]].
 >
 > **[0:08](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/introducing-generative-expand?u=76281980&t=8)** I'm starting out here with a familiar scene.
 >
@@ -2533,14 +2504,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (5), feature (2), hit (2), [[Adobe Firefly]] (1)
+> **Frameworks & Libraries:** [[Adobe Firefly]] (1)
 > **Definitions:** is a  (3), is called (1)
 > **Analogies:** imagine (1), for example (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/challenge?u=76281980)
+#### [Challenge](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/challenge?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2602,20 +2572,18 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/solution?u=76281980)
+#### [Solution](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/solution?u=76281980)
 
 
 ### 5. Using Firefly in Adobe Photoshop
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using Generative Fill
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/using-generative-fill?u=76281980)
+#### [Using Generative Fill](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/using-generative-fill?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/using-generative-fill?u=76281980&t=0)** - [Instructor] By now, I am convinced that you have a good understanding of how to use the web version of Adobe Firefly's Generative Fill technology, which means that it's now time to see how you can use that same feature here directly with an Adobe Photoshop.
+> **[0:00](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/using-generative-fill?u=76281980&t=0)** - [Instructor] By now, I am convinced that you have a good understanding of how to use the web version of [[Adobe Firefly]]'s Generative Fill technology, which means that it's now time to see how you can use that same feature here directly with an [[Adobe Photoshop]].
 >
 > **[0:15](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/using-generative-fill?u=76281980&t=15)** To help illustrate this, I have opened up this document, elephant-start.psd, which we'll be using in just a few seconds.
 >
@@ -2693,7 +2661,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (5), [[Adobe Firefly]] (2), feature (2), [[Adobe Photoshop]] (2), cloud (2)
+> **Frameworks & Libraries:** [[Adobe Firefly]] (2), [[Adobe Photoshop]] (2)
 > **Warnings:** be careful (2), keep in mind (1)
 > **Cross-References:** go back to (2)
 > **Definitions:** means that (1), is a  (1)
@@ -2702,16 +2670,15 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Analogies:** kind of like (1)
 
-#### Generating images
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/generating-images?u=76281980)
+#### [Generating images](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/generating-images?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/generating-images?u=76281980&t=0)** - [Instructor] One of the additions here using Adobe Photoshop Beta is the ability to directly use the text-to-image functionality here instead of Adobe Photoshop.
+> **[0:00](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/generating-images?u=76281980&t=0)** - [Instructor] One of the additions here using [[Adobe Photoshop]] Beta is the ability to directly use the text-to-image functionality here instead of Adobe Photoshop.
 >
 > **[0:10](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/generating-images?u=76281980&t=10)** Now, text-to-image will generate an entire image, whether generative fill, which we've just used before in the previous exercise, will only generate an image based on a selection, and we'll put that in the context of your current project.
 >
-> **[0:24](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/generating-images?u=76281980&t=24)** Here I'm just looking to create a brand new image, and in the previous version of Photoshop, you had to leave Photoshop and go to the Adobe Firefly webpage to use the functionality there and then copy that image over.
+> **[0:24](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/generating-images?u=76281980&t=24)** Here I'm just looking to create a brand new image, and in the previous version of Photoshop, you had to leave Photoshop and go to the [[Adobe Firefly]] webpage to use the functionality there and then copy that image over.
 >
 > **[0:38](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/generating-images?u=76281980&t=38)** Now we no longer have to leave Photoshop because now the text-to-image functionality has been baked in by default here directly into Adobe Photoshop.
 >
@@ -2785,7 +2752,7 @@ created: 2026-05-02
 >
 > **[4:23](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/generating-images?u=76281980&t=263)** You can always go back and you can numb destructively, change different effects or change different content types as you see fit.
 >
-> **[4:31](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/generating-images?u=76281980&t=271)** Now I'm just going to go ahead and zoom in a little bit here just to inspect some of the details here on this bird.
+> **[4:31](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/generating-images?u=76281980&t=271)** Now I'm just going to go ahead and [[Zoom]] in a little bit here just to inspect some of the details here on this bird.
 >
 > **[4:37](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/generating-images?u=76281980&t=277)** Now this image looks absolutely beautiful, but there's one more thing that you can do.
 >
@@ -2815,19 +2782,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (5), [[Adobe Photoshop]] (3), [[Adobe Firefly]] (1), web (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Adobe Photoshop]] (3), [[Adobe Firefly]] (1), [[Zoom]] (1)
 > **Definitions:** means that (2)
 > **Analogies:** for example (2)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generating backgrounds
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/generating-backgrounds?u=76281980)
+#### [Generating backgrounds](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/generating-backgrounds?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/generating-backgrounds?u=76281980&t=0)** - [Instructor] Another cool and unique feature that we can find here in the beta version of Adobe Photoshop is the ability to generate a background for a layer here directly in Photoshop.
+> **[0:00](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/generating-backgrounds?u=76281980&t=0)** - [Instructor] Another cool and unique feature that we can find here in the beta version of [[Adobe Photoshop]] is the ability to generate a background for a layer here directly in Photoshop.
 >
 > **[0:11](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/generating-backgrounds?u=76281980&t=11)** Now, let's do a quick recap.
 >
@@ -2889,17 +2855,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1), [[Adobe Photoshop]] (1), prompt (1), ai (1), hit (1)
+> **Frameworks & Libraries:** [[Adobe Photoshop]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using Generative Expand
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/using-generative-expand?u=76281980)
+#### [Using Generative Expand](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/using-generative-expand?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/using-generative-expand?u=76281980&t=0)** - [Instructor] Let me show you how you can use generative expand directly within Adobe Photoshop.
+> **[0:00](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/using-generative-expand?u=76281980&t=0)** - [Instructor] Let me show you how you can use generative expand directly within [[Adobe Photoshop]].
 >
 > **[0:05](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/using-generative-expand?u=76281980&t=5)** To get started, simply open up koala-start.psd and then switch to the crop tool to initiate this process.
 >
@@ -2907,7 +2872,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/using-generative-expand?u=76281980&t=21)** So if you go to the top of the screen, be sure to change the fill option from transparent to generative expand.
 >
-> **[0:29](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/using-generative-expand?u=76281980&t=29)** Now I'm going to take a step back by zooming out by pressing command minus or CTRL minus on Windows, and then simply choose the ratio that you want to use.
+> **[0:29](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/using-generative-expand?u=76281980&t=29)** Now I'm going to take a step back by zooming out by pressing command minus or CTRL minus on [[Windows]], and then simply choose the ratio that you want to use.
 >
 > **[0:39](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/using-generative-expand?u=76281980&t=39)** Now if you don't want to use any of these specific ratios here, simply use these sliders and drag any of these handles to simply expand the image.
 >
@@ -2933,7 +2898,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/using-generative-expand?u=76281980&t=115)** This is an image where I'm not quite sure what's happening here in the background, and I just need to generate more of that image.
 >
-> **[2:01](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/using-generative-expand?u=76281980&t=121)** I'm going to zoom out a little bit by pressing command minus or CTRL minus on Windows, and I currently still have the crop tool selected.
+> **[2:01](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/using-generative-expand?u=76281980&t=121)** I'm going to [[Zoom]] out a little bit by pressing command minus or CTRL minus on Windows, and I currently still have the crop tool selected.
 >
 > **[2:10](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/using-generative-expand?u=76281980&t=130)** Now this time I'm going to make sure that I'm going to choose a different ratio, and I'll switch the ratio here, and I'm going to choose something like 16x9.
 >
@@ -2967,7 +2932,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (4), [[Adobe Photoshop]] (2), hit (1), prompt (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Windows]] (4), [[Adobe Photoshop]] (2), [[Zoom]] (1)
 > **Definitions:** means that (2), is a  (1), is an  (1)
 > **Env Vars:** ctrl (2)
 > **UI Navigation:** switch to (1), go to (1)
@@ -2975,8 +2940,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Knowing Generative Fill's limitation
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/knowing-generative-fill-s-limitation?u=76281980)
+#### [Knowing Generative Fill's limitation](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/knowing-generative-fill-s-limitation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2986,7 +2950,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/knowing-generative-fill-s-limitation?u=76281980&t=15)** But it's important to know where the technology is today.
 >
-> **[0:18](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/knowing-generative-fill-s-limitation?u=76281980&t=18)** And so I've already mentioned that at the time of this recording, the maximum resolution you can get out of Adobe Firefly using Version 3 is 2,048 pixels by 2,048 pixels.
+> **[0:18](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/knowing-generative-fill-s-limitation?u=76281980&t=18)** And so I've already mentioned that at the time of this recording, the maximum resolution you can get out of [[Adobe Firefly]] using Version 3 is 2,048 pixels by 2,048 pixels.
 >
 > **[0:33](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/knowing-generative-fill-s-limitation?u=76281980&t=33)** Now, anything that goes above that number in a single prompt will look pixelated.
 >
@@ -3014,7 +2978,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/knowing-generative-fill-s-limitation?u=76281980&t=84)** The principle is the same.
 >
-> **[1:26](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/knowing-generative-fill-s-limitation?u=76281980&t=86)** I have a very large body of pixels that I would like to fill using generative AI technology fueled by Adobe Firefly.
+> **[1:26](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/knowing-generative-fill-s-limitation?u=76281980&t=86)** I have a very large body of pixels that I would like to fill using [[Generative AI]] technology fueled by Adobe Firefly.
 >
 > **[1:34](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/knowing-generative-fill-s-limitation?u=76281980&t=94)** So what I could do is the following.
 >
@@ -3042,7 +3006,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/knowing-generative-fill-s-limitation?u=76281980&t=156)** Let's go for the first one.
 >
-> **[2:37](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/knowing-generative-fill-s-limitation?u=76281980&t=157)** Now, I'm going to zoom in a little bit by choosing the Zoom tool like so, and I am going to just pan a little bit downward and notice this.
+> **[2:37](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/knowing-generative-fill-s-limitation?u=76281980&t=157)** Now, I'm going to [[Zoom]] in a little bit by choosing the Zoom tool like so, and I am going to just pan a little bit downward and notice this.
 >
 > **[2:48](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/knowing-generative-fill-s-limitation?u=76281980&t=168)** Do you notice a transition that goes from this area of the image that seems to have a lot more detail to the bottom, which is, looks a bit like a soup basically.
 >
@@ -3100,15 +3064,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (4), prompt (3), [[Adobe Firefly]] (3), next (2), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (4), [[Adobe Firefly]] (3), [[Generative AI]] (1)
 > **CLI Commands:** make (1)
 > **Versions:** version 3 (1)
 > **Cross-References:** go back to (1)
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using a reference image
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/using-a-reference-image?u=76281980)
+#### [Using a reference image](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/using-a-reference-image?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3126,7 +3089,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/using-a-reference-image?u=76281980&t=34)** Unfortunately, if I'm using Firefly, it just keeps generating all sorts of different winter coats, and it's not really using the one that I have envisioned.
 >
-> **[0:43](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/using-a-reference-image?u=76281980&t=43)** And this is where we can start to use reference images directly within Adobe Photoshop Beta.
+> **[0:43](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/using-a-reference-image?u=76281980&t=43)** And this is where we can start to use reference images directly within [[Adobe Photoshop]] Beta.
 >
 > **[0:48](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/using-a-reference-image?u=76281980&t=48)** Let me show you how that works.
 >
@@ -3218,7 +3181,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), prompt (2), [[Adobe Photoshop]] (1)
+> **Frameworks & Libraries:** [[Adobe Photoshop]] (1)
 > **CLI Commands:** make (8), find (2)
 > **Analogies:** for example (4)
 > **Tools:** safari (1)
@@ -3226,11 +3189,9 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Adventure
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/challenge-adventure?u=76281980)
+#### [Challenge: Adventure](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/challenge-adventure?u=76281980)
 
-#### Solution: Adventure
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/solution-adventure?u=76281980)
+#### [Solution: Adventure](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/solution-adventure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3372,7 +3333,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), next (1)
 > **CLI Commands:** make (2)
 > **Warnings:** be careful (1), keep in mind (1)
 > **Cross-References:** go back to (1)
@@ -3380,17 +3340,16 @@ created: 2026-05-02
 > **Analogies:** kind of like (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
+> **Non-Speech:** (bright upbeat music) (1)
 
 
 ### 6. Using Firefly in Adobe Express
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing Adobe Firefly in Adobe Express
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/introducing-adobe-firefly-in-adobe-express?u=76281980)
+#### [Introducing Adobe Firefly in Adobe Express](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/introducing-adobe-firefly-in-adobe-express?u=76281980)
 
-#### Using text effects in Adobe Express
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/using-text-effects-in-adobe-express?u=76281980)
+#### [Using text effects in Adobe Express](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/using-text-effects-in-adobe-express?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3434,7 +3393,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/using-text-effects-in-adobe-express?u=76281980&t=91)** I'm going to go ahead and click the Text tool here and I'll click Add your text.
 >
-> **[1:36](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/using-text-effects-in-adobe-express?u=76281980&t=96)** And now I'll just go ahead and type in the word Pirates, like so.
+> **[1:36](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/using-text-effects-in-adobe-express?u=76281980&t=96)** And now I'll just go ahead and type in the [[Microsoft Word|word]] Pirates, like so.
 >
 > **[1:41](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/using-text-effects-in-adobe-express?u=76281980&t=101)** And then we have to change the font.
 >
@@ -3502,7 +3461,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (3), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **UI Navigation:** scroll down (2), navigate to (1), select the (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -3511,8 +3470,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting additional text options
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/setting-additional-text-options?u=76281980)
+#### [Setting additional text options](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/setting-additional-text-options?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3594,13 +3552,13 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/setting-additional-text-options?u=76281980&t=238)** And then when you're done, simply click the download option, and then it says, "Transparent, PNG," and it will only say, "Transparent" the moment we have a transparent background.
 >
-> **[4:08](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/setting-additional-text-options?u=76281980&t=248)** So if you don't see that word here, "Transparent," that should be a signal for you to go back and actually change the background.
+> **[4:08](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/setting-additional-text-options?u=76281980&t=248)** So if you don't see that [[Microsoft Word|word]] here, "Transparent," that should be a signal for you to go back and actually change the background.
 >
-> **[4:17](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/setting-additional-text-options?u=76281980&t=257)** So when you download this here from Adobe Express, you can then import that into Adobe Photoshop and then apply that to your current composition.
+> **[4:17](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/setting-additional-text-options?u=76281980&t=257)** So when you download this here from Adobe Express, you can then import that into [[Adobe Photoshop]] and then apply that to your current composition.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (8), prompt (1), hit (1), [[Microsoft Word|Word]] (1), [[Adobe Photoshop]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Adobe Photoshop]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** ice (1), cold (1), png (1)
 > **Analogies:** for example (3)
@@ -3608,8 +3566,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating design templates with Text to Template
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/creating-design-templates-with-text-to-template?u=76281980)
+#### [Creating design templates with Text to Template](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/creating-design-templates-with-text-to-template?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3683,15 +3640,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (7), feature (1)
 > **Exercise Files:** template (5)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Milkshakes
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/challenge-milkshakes?u=76281980)
+#### [Challenge: Milkshakes](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/challenge-milkshakes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3699,13 +3654,13 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/challenge-milkshakes?u=76281980&t=5)** - [Narrator] It's time for another challenge.
 >
-> **[0:07](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/challenge-milkshakes?u=76281980&t=7)** And this challenge starts in Adobe Photoshop where I have milkshakes.psd open.
+> **[0:07](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/challenge-milkshakes?u=76281980&t=7)** And this challenge starts in [[Adobe Photoshop]] where I have milkshakes.psd open.
 >
 > **[0:13](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/challenge-milkshakes?u=76281980&t=13)** Now this image is a marketing graphic that I'm designing for a local coffee bar that's trying to promote their brand new series and offerings of delicious milkshakes.
 >
 > **[0:23](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/challenge-milkshakes?u=76281980&t=23)** Now the idea is actually quite simple.
 >
-> **[0:26](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/challenge-milkshakes?u=76281980&t=26)** I have one big image that features all the milkshakes, and I have one big word, yum, here at the top.
+> **[0:26](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/challenge-milkshakes?u=76281980&t=26)** I have one big image that features all the milkshakes, and I have one big [[Microsoft Word|word]], yum, here at the top.
 >
 > **[0:33](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/challenge-milkshakes?u=76281980&t=33)** The idea is to replace this basic graphic of the word yum by something that I need to create using Adobe Express.
 >
@@ -3729,22 +3684,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), express (2), [[Adobe Photoshop]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), [[Adobe Photoshop]] (1)
 > **CLI Commands:** yum (5)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Milkshakes
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/solution-milkshakes?u=76281980)
+#### [Solution: Milkshakes](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/solution-milkshakes?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/solution-milkshakes?u=76281980&t=0)** - [Instructor] Let's look at the solution to this specific challenge.
 >
-> **[0:08](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/solution-milkshakes?u=76281980&t=8)** So I'm here inside of Express, where I'm currently looking at my word YUM, and I'm adding textures, and I'm basically trying to dress up this word as best as I can.
+> **[0:08](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/solution-milkshakes?u=76281980&t=8)** So I'm here inside of Express, where I'm currently looking at my [[Microsoft Word|word]] YUM, and I'm adding textures, and I'm basically trying to dress up this word as best as I can.
 >
-> **[0:18](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/solution-milkshakes?u=76281980&t=18)** So at the moment, I'm looking at this specific effect here, which is vanilla and strawberry ice cream.
+> **[0:18](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/solution-milkshakes?u=76281980&t=18)** So at the moment, I'm looking at this specific effect here, which is [[Vanilla]] and strawberry ice cream.
 >
 > **[0:25](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/solution-milkshakes?u=76281980&t=25)** Now, what I do want to set here is this setting.
 >
@@ -3778,7 +3732,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (2), [[Microsoft Word|Word]] (2), [[Vanilla]] (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Vanilla]] (2)
 > **CLI Commands:** yum (1), find (1)
 > **Env Vars:** yum (1), png (1)
 > **Analogies:** for example (1), kind of like (1)
@@ -3790,12 +3744,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing Text to Vector Graphic
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/introducing-text-to-vector-graphic?u=76281980)
+#### [Introducing Text to Vector Graphic](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/introducing-text-to-vector-graphic?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/introducing-text-to-vector-graphic?u=76281980&t=0)** - [Instructor] Adobe Firefly is so versatile, it even has the ability to generate vector graphics from scratch directly from within Adobe Illustrator.
+> **[0:00](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/introducing-text-to-vector-graphic?u=76281980&t=0)** - [Instructor] [[Adobe Firefly]] is so versatile, it even has the ability to generate vector graphics from scratch directly from within Adobe Illustrator.
 >
 > **[0:09](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/introducing-text-to-vector-graphic?u=76281980&t=9)** This feature is called Text to Vector Graphic, and it is just as mind-boggling as it is easy to use.
 >
@@ -3845,7 +3798,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/introducing-text-to-vector-graphic?u=76281980&t=149)** Now this is the first iteration, this is the second one, and this is the third one.
 >
-> **[2:35](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/introducing-text-to-vector-graphic?u=76281980&t=155)** Now you have this bar here at the bottom of your result, just like you have inside of Adobe Photoshop, where you have the ability to simply click the left and right arrow to quickly cycle through these different results.
+> **[2:35](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/introducing-text-to-vector-graphic?u=76281980&t=155)** Now you have this bar here at the bottom of your result, just like you have inside of [[Adobe Photoshop]], where you have the ability to simply click the left and right arrow to quickly cycle through these different results.
 >
 > **[2:48](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/introducing-text-to-vector-graphic?u=76281980&t=168)** Now I'm going to go ahead and just select the third one.
 >
@@ -3883,7 +3836,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (4), [[Adobe Firefly]] (3), prompt (2), next (2), ai (1)
+> **Frameworks & Libraries:** [[Adobe Firefly]] (3), [[Adobe Photoshop]] (1)
 > **Analogies:** for example (4), just like (2)
 > **Definitions:** is a  (3), is called (1)
 > **CLI Commands:** find (2)
@@ -3892,8 +3845,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating your first vector graphic
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/creating-your-first-vector-graphic?u=76281980)
+#### [Creating your first vector graphic](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/creating-your-first-vector-graphic?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3947,7 +3899,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/creating-your-first-vector-graphic?u=76281980&t=171)** I'm going to hit Enter or Return, and I'm going to take a look here and see what I'm getting as a result.
 >
-> **[2:58](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/creating-your-first-vector-graphic?u=76281980&t=178)** I'll give this a couple of seconds, and I'm curious to see what kind of birds I'm going to get from Adobe Firefly.
+> **[2:58](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/creating-your-first-vector-graphic?u=76281980&t=178)** I'll give this a couple of seconds, and I'm curious to see what kind of birds I'm going to get from [[Adobe Firefly]].
 >
 > **[3:04](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/creating-your-first-vector-graphic?u=76281980&t=184)** So let's give this a few seconds, there we go, I'll move the bird to the left-hand side just to get started, I'll scale this up.
 >
@@ -4007,7 +3959,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (4), hit (2), [[Adobe Firefly]] (1), next (1)
+> **Frameworks & Libraries:** [[Adobe Firefly]] (1)
 > **Analogies:** imagine (2), kind of like (2), for example (1)
 > **CLI Commands:** make (2), snap (1)
 > **Warnings:** keep in mind (3)
@@ -4016,8 +3968,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Controlling styles
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/controlling-styles?u=76281980)
+#### [Controlling styles](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/controlling-styles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4135,14 +4086,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (6), hit (3), next (1)
 > **Definitions:** is a  (2), is called (1), means that (1)
 > **Analogies:** picture (2), for example (1)
 > **UI Navigation:** switch to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introducing Generative Recolor in Illustrator
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/introducing-generative-recolor-in-illustrator?u=76281980)
+#### [Introducing Generative Recolor in Illustrator](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/introducing-generative-recolor-in-illustrator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4164,7 +4113,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/introducing-generative-recolor-in-illustrator?u=76281980&t=47)** This is the artwork I currently have, and the idea is to recolor both elements to make it look like a different version of my design.
 >
-> **[0:55](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/introducing-generative-recolor-in-illustrator?u=76281980&t=55)** I'm just going to go ahead and just press command Z on the keyboard or control Z in Windows, just to put everything back where it came from.
+> **[0:55](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/introducing-generative-recolor-in-illustrator?u=76281980&t=55)** I'm just going to go ahead and just press command Z on the keyboard or control Z in [[Windows]], just to put everything back where it came from.
 >
 > **[1:02](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/introducing-generative-recolor-in-illustrator?u=76281980&t=62)** Now let's get started here.
 >
@@ -4272,7 +4221,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (2), hit (2), ai (2), feature (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** select the (1)
@@ -4281,8 +4230,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Text to vectors
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/challenge-text-to-vectors?u=76281980)
+#### [Challenge: Text to vectors](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/challenge-text-to-vectors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4317,8 +4265,7 @@ created: 2026-05-02
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Text to vectors
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/solution-text-to-vectors?u=76281980)
+#### [Solution: Text to vectors](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/solution-text-to-vectors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4368,7 +4315,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (2), next (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
@@ -4379,28 +4325,27 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI-generated images and ethics
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/ai-generated-images-and-ethics?u=76281980)
+#### [AI-generated images and ethics](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/ai-generated-images-and-ethics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/ai-generated-images-and-ethics?u=76281980&t=0)** - [Instructor] How do you combine the ease of use of Generative AI with the battle on misinformation?
+> **[0:00](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/ai-generated-images-and-ethics?u=76281980&t=0)** - [Instructor] How do you combine the ease of use of [[Generative AI]] with the battle on misinformation?
 >
 > **[0:06](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/ai-generated-images-and-ethics?u=76281980&t=6)** And this is an important subject for society, and it's also one that Adobe is very actively participating in.
 >
-> **[0:13](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/ai-generated-images-and-ethics?u=76281980&t=13)** So, now that you've learned how powerful Firefly is, you might ask yourself how this technology can affect trust on the internet, or you might better understand the need to verify information sources in the media, or what is Adobe doing to make sure that Adobe Firefly will help uphold ethical standards?
+> **[0:13](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/ai-generated-images-and-ethics?u=76281980&t=13)** So, now that you've learned how powerful Firefly is, you might ask yourself how this technology can affect trust on the internet, or you might better understand the need to verify information sources in the media, or what is Adobe doing to make sure that [[Adobe Firefly]] will help uphold ethical standards?
 >
 > **[0:34](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/ai-generated-images-and-ethics?u=76281980&t=34)** Now, these questions and concerns are being addressed by an organization called the Content Authenticity Initiative.
 >
 > **[0:42](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/ai-generated-images-and-ethics?u=76281980&t=42)** And this organization was first announced by Adobe back in 2019.
 >
-> **[0:48](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/ai-generated-images-and-ethics?u=76281980&t=48)** And since their first announcement, hundreds of members have joined the cause, including Microsoft, BBC, Intel, and many more.
+> **[0:48](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/ai-generated-images-and-ethics?u=76281980&t=48)** And since their first announcement, hundreds of members have joined the cause, including [[Microsoft]], BBC, Intel, and many more.
 >
 > **[0:57](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/ai-generated-images-and-ethics?u=76281980&t=57)** Now, this coalition is on a mission to help address misinformation and content authenticity at scale.
 >
 > **[1:05](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/ai-generated-images-and-ethics?u=76281980&t=65)** But how are they doing this?
 >
-> **[1:07](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/ai-generated-images-and-ethics?u=76281980&t=67)** Well, they're doing this by introducing the world's first tamper-evident metadata for images called Content Credentials.
+> **[1:07](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/ai-generated-images-and-ethics?u=76281980&t=67)** Well, they're doing this by introducing the world's first tamper-evident [[Metadata]] for images called Content Credentials.
 >
 > **[1:15](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/ai-generated-images-and-ethics?u=76281980&t=75)** Now, you can look at Content Credentials as a type of digital nutrition label for digital images.
 >
@@ -4429,12 +4374,11 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Downloading images and viewing content credentials
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/downloading-images-and-viewing-content-credentials?u=76281980)
+#### [Downloading images and viewing content credentials](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/downloading-images-and-viewing-content-credentials?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/downloading-images-and-viewing-content-credentials?u=76281980&t=0)** - [Instructor] Let me explain to you how you can view content credentials when downloading images from Adobe Firefly or when you're manipulating images using Adobe Photoshop.
+> **[0:00](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/downloading-images-and-viewing-content-credentials?u=76281980&t=0)** - [Instructor] Let me explain to you how you can view content credentials when downloading images from [[Adobe Firefly]] or when you're manipulating images using [[Adobe Photoshop]].
 >
 > **[0:09](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/downloading-images-and-viewing-content-credentials?u=76281980&t=9)** So I'm here in Photoshop where I have opened up chickens.jpeg, and this is an image I generated using the Adobe Firefly webpage, and it's probably one of the coolest images I've created in the last couple of months.
 >
@@ -4496,7 +4440,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/downloading-images-and-viewing-content-credentials?u=76281980&t=180)** It says produced by, and then it should show your own personal name.
 >
-> **[3:04](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/downloading-images-and-viewing-content-credentials?u=76281980&t=184)** But in this case, it's just showing the username of this specific creative cloud account here at LinkedIn Learning.
+> **[3:04](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/downloading-images-and-viewing-content-credentials?u=76281980&t=184)** But in this case, it's just showing the username of this specific creative cloud account here at [[LinkedIn]] Learning.
 >
 > **[3:10](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/downloading-images-and-viewing-content-credentials?u=76281980&t=190)** Now, something else that you might notice is the fact that it now has the content credentials icon next to name, which means that this has now been activated and a little asterisk here, which means that the file has been edited.
 >
@@ -4586,7 +4530,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), ai (4), [[Adobe Firefly]] (3), hit (3), next (2)
+> **Frameworks & Libraries:** [[Adobe Firefly]] (3), [[Adobe Photoshop]] (1), [[LinkedIn]] (1)
 > **Definitions:** means that (3), is an  (2), basically means (1), is a  (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the last (1), in the next (1)
@@ -4594,8 +4538,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Verifying content credentials from external parties
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/verifying-content-credentials-from-external-parties?u=76281980)
+#### [Verifying content credentials from external parties](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/verifying-content-credentials-from-external-parties?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4711,13 +4654,13 @@ created: 2026-05-02
 >
 > **[4:58](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/verifying-content-credentials-from-external-parties?u=76281980&t=298)** So this is how you go about looking at content credentials and verifying the identity or the origin of very, very specific images.
 >
-> **[5:07](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/verifying-content-credentials-from-external-parties?u=76281980&t=307)** Now, this information, this technology is very easy to use just like Adobe Firefly.
+> **[5:07](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/verifying-content-credentials-from-external-parties?u=76281980&t=307)** Now, this information, this technology is very easy to use just like [[Adobe Firefly]].
 >
 > **[5:12](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/verifying-content-credentials-from-external-parties?u=76281980&t=312)** And so this will allow you to make sure that you do have the origin of an image exposed to whoever you're working with, and be sure to ask others for their content credentials as well as you're working with external freelancers or maybe other agencies.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), [[Search]] (2), data (1), product (1), database (1)
+> **Frameworks & Libraries:** [[Adobe Firefly]] (1)
 > **Analogies:** for example (4), imagine (1), picture (1), just like (1)
 > **Env Vars:** jpeg (4), pdf (1), url (1)
 > **UI Navigation:** click on (2), go to (1), drag and drop (1)
@@ -4731,12 +4674,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Where to go from here
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/where-to-go-from-here?u=76281980)
+#### [Where to go from here](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/where-to-go-from-here?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/where-to-go-from-here?u=76281980&t=0)** - [Instructor] Now that you've come to the end of this course, you should have a good understanding of Adobe Firefly's capabilities.
+> **[0:00](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/where-to-go-from-here?u=76281980&t=0)** - [Instructor] Now that you've come to the end of this course, you should have a good understanding of [[Adobe Firefly]]'s capabilities.
 >
 > **[0:06](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/where-to-go-from-here?u=76281980&t=6)** You've used the Firefly website for generating images and you've used tools like Photoshop to expand a canvas or Illustrator to create vector graphics or even just to recolor artwork and Express for creating just new designs from scratch and applying text effects.
 >
@@ -4766,7 +4708,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/where-to-go-from-here?u=76281980&t=95)** For example, it offers image indemnification, which offers you an extra layer of legal protection when using AI generated content.
 >
-> **[1:43](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/where-to-go-from-here?u=76281980&t=103)** You have the ability to create surroundings for your own retail products when creating object compositions, or you can even automate some of Firefly's capabilities.
+> **[1:43](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/where-to-go-from-here?u=76281980&t=103)** You have the ability to create surroundings for your own retail [[Microsoft Products|products]] when creating object compositions, or you can even automate some of Firefly's capabilities.
 >
 > **[1:53](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/where-to-go-from-here?u=76281980&t=113)** And if you want, you can even use a custom model where you train Firefly with your own proprietary data.
 >
@@ -4778,7 +4720,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/where-to-go-from-here?u=76281980&t=135)** So object compositions is a feature baked in within the Adobe Firefly website where you simply go ahead and then you upload an image of your own product.
 >
-> **[2:25](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/where-to-go-from-here?u=76281980&t=145)** Now you might recognize the pink purse that we've used when we're using generative fill instead of Adobe Photoshop.
+> **[2:25](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/where-to-go-from-here?u=76281980&t=145)** Now you might recognize the pink purse that we've used when we're using generative fill instead of [[Adobe Photoshop]].
 >
 > **[2:32](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/where-to-go-from-here?u=76281980&t=152)** So if I were to drag and drop this purse into Firefly, either as a JPEG or as a transparent PNG, it allows me to position this somewhere on this virtual canvas.
 >
@@ -4820,25 +4762,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (9), [[Adobe Firefly]] (6), [[Automation]] (3), data (3), ai (2)
+> **Frameworks & Libraries:** [[Adobe Firefly]] (6), [[Microsoft Products|Products]] (1), [[Adobe Photoshop]] (1)
 > **Analogies:** for example (4)
 > **Env Vars:** jpeg (1), png (1)
 > **UI Navigation:** drag and drop (2)
 > **Definitions:** means that (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Goodbye
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/goodbye?u=76281980)
+#### [Goodbye](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/goodbye?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/goodbye?u=76281980&t=0)** - If you're watching this video, then that means that you've reached the last stop in your Adobe Firefly journey, and I truly hope that you found this to be a fascinating journey.
+> **[0:00](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/goodbye?u=76281980&t=0)** - If you're watching this video, then that means that you've reached the last stop in your [[Adobe Firefly]] journey, and I truly hope that you found this to be a fascinating journey.
 >
 > **[0:08](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/goodbye?u=76281980&t=8)** So where do you go from here? Like, what is next?
 >
 > **[0:11](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/goodbye?u=76281980&t=11)** Adobe has made it very clear that they will be frequently updating their Adobe Firefly technology.
 >
-> **[0:18](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/goodbye?u=76281980&t=18)** So if I were you, I would keep my eye on Adobe's newsletters, their news feeds, and I would definitely try and subscribe to their social media channels.
+> **[0:18](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/goodbye?u=76281980&t=18)** So if I were you, I would keep my eye on Adobe's [[Newsletters]], their news feeds, and I would definitely try and subscribe to their social media channels.
 >
 > **[0:26](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/goodbye?u=76281980&t=26)** Now, from my end, I will try to keep this course as up to date as possible so you can come back here frequently and then revisit brand new chapters.
 >
@@ -4850,7 +4791,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Adobe Firefly]] (2), [[Newsletters]] (1)
+> **Frameworks & Libraries:** [[Adobe Firefly]] (2), [[Newsletters]] (1)
 > **Speakers:** - if (1)
 
 

@@ -117,8 +117,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Extending your data analysis skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/extending-your-data-analysis-skills-23313587?u=76281980)
+#### [Extending your data analysis skills](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/extending-your-data-analysis-skills-23313587?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -130,7 +129,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/extending-your-data-analysis-skills-23313587?u=76281980&t=13)** In this course, we'll talk about business rules, noise in the data we all deal with, and how to really give decision makers what they want by breaking down what they're asking for.
 >
-> **[0:23](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/extending-your-data-analysis-skills-23313587?u=76281980&t=23)** I'll show you how to create datasets with queries and joins, as well as how to use Power Query for data transformations.
+> **[0:23](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/extending-your-data-analysis-skills-23313587?u=76281980&t=23)** I'll show you how to create datasets with queries and joins, as well as how to use [[Microsoft Power Query|Power Query]] for data transformations.
 >
 > **[0:31](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/extending-your-data-analysis-skills-23313587?u=76281980&t=31)** Hi, I'm Robin Hunt.
 >
@@ -140,11 +139,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), business (1), [[Microsoft Power Query|Power query]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (1)
 > **Speakers:** - it (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -162,20 +160,19 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/what-you-should-know?u=76281980&t=32)** You're never going to know everything, but you have to start somewhere.
 >
-> **[0:36](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/what-you-should-know?u=76281980&t=36)** You don't have to have years of experience to get started with this course, but an understanding of Excel and relational databases will certainly help.
+> **[0:36](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/what-you-should-know?u=76281980&t=36)** You don't have to have years of experience to get started with this course, but an understanding of [[Microsoft Excel|Excel]] and [[Relational Databases]] will certainly help.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Analytics]] (2), career (1), [[Microsoft Excel|Excel]] (1), [[Relational Databases]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Relational Databases]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Required software
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/required-software?u=76281980)
+#### [Required software](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/required-software?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/required-software?u=76281980&t=0)** - [Instructor] I'm using Microsoft Excel, Microsoft Access, Power BI Desktop, and even Microsoft PowerPoint and Word for this course.
+> **[0:00](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/required-software?u=76281980&t=0)** - [Instructor] I'm using [[Microsoft Excel]], [[Microsoft]] Access, [[Microsoft Power BI|Power BI]] Desktop, and even [[Microsoft PowerPoint]] and [[Microsoft Word|Word]] for this course.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/required-software?u=76281980&t=8)** If you want to follow along with the exercise files I've provided, you're going to need those.
 >
@@ -193,7 +190,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel]] (1), [[Microsoft]] (1), power (1), bi (1), [[Microsoft PowerPoint]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel]] (1), [[Microsoft]] (1), [[Microsoft Power BI|Power bi]] (1), [[Microsoft PowerPoint]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
@@ -203,8 +200,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding business rules
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/understanding-business-rules?u=76281980)
+#### [Understanding business rules](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/understanding-business-rules?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -238,7 +234,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/understanding-business-rules?u=76281980&t=74)** Part of the business rules may dictate the time of expected data.
 >
-> **[1:18](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/understanding-business-rules?u=76281980&t=78)** Maybe you are forecasting sales data.
+> **[1:18](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/understanding-business-rules?u=76281980&t=78)** Maybe you are [[Forecasting]] sales data.
 >
 > **[1:20](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/understanding-business-rules?u=76281980&t=80)** That means that there are orders and invoices.
 >
@@ -274,14 +270,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), business (8), [[Forecasting]] (2)
+> **Frameworks & Libraries:** [[Forecasting]] (2)
 > **Prerequisites:** required to (2)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding noise in data
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/understanding-noise-in-data?u=76281980)
+#### [Understanding noise in data](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/understanding-noise-in-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -291,15 +286,15 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/understanding-noise-in-data?u=76281980&t=7)** You know that your response to that is to listen out to the most important information to you in all that noise.
 >
-> **[0:14](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/understanding-noise-in-data?u=76281980&t=14)** Databases that support systems have a ton of data that we never need, but we have to deal with it, because it lives alongside the more meaningful data we do need.
+> **[0:14](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/understanding-noise-in-data?u=76281980&t=14)** [[Databases]] that support systems have a ton of data that we never need, but we have to deal with it, because it lives alongside the more meaningful data we do need.
 >
-> **[0:24](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/understanding-noise-in-data?u=76281980&t=24)** If you Google noise and data, you'll hear a lot more about noise as it applies to different types of data and data requirements.
+> **[0:24](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/understanding-noise-in-data?u=76281980&t=24)** If you [[Google]] noise and data, you'll hear a lot more about noise as it applies to different types of data and data requirements.
 >
 > **[0:32](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/understanding-noise-in-data?u=76281980&t=32)** For the purposes of what we're learning at this stage, noise is just overall not meaningful information.
 >
 > **[0:38](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/understanding-noise-in-data?u=76281980&t=38)** It's really not a part of our requirement, it's just information that gets in the way of the true sound of what we're trying to accomplish.
 >
-> **[0:46](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/understanding-noise-in-data?u=76281980&t=46)** If you had used Excel data at all, you have likely deleted a column or two that you didn't need.
+> **[0:46](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/understanding-noise-in-data?u=76281980&t=46)** If you had used [[Microsoft Excel|Excel]] data at all, you have likely deleted a column or two that you didn't need.
 >
 > **[0:52](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/understanding-noise-in-data?u=76281980&t=52)** That's an example of removing noise.
 >
@@ -365,19 +360,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Databases]] (1), [[Google]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[Google]] (1), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** right-click (3)
 > **Analogies:** imagine (1), just like (1), for example (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Breaking down the ask
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/breaking-down-the-ask?u=76281980)
+#### [Breaking down the ask](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/breaking-down-the-ask?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/breaking-down-the-ask?u=76281980&t=0)** - [Instructor] Soft skills are invaluable to an effective data analyst.
+> **[0:00](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/breaking-down-the-ask?u=76281980&t=0)** - [Instructor] [[Soft Skills]] are invaluable to an effective data analyst.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/breaking-down-the-ask?u=76281980&t=4)** Being an active listener and a critical thinker is not just important, but it's mandatory.
 >
@@ -387,7 +381,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/breaking-down-the-ask?u=76281980&t=23)** I'll confirm where the data is located.
 >
-> **[0:25](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/breaking-down-the-ask?u=76281980&t=25)** Is it a system or Excel spreadsheet?
+> **[0:25](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/breaking-down-the-ask?u=76281980&t=25)** Is it a system or [[Microsoft Excel|Excel]] spreadsheet?
 >
 > **[0:28](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/breaking-down-the-ask?u=76281980&t=28)** I'll ask if there's multiple places that this data exists, and I'll usually try to understand why that's the case.
 >
@@ -437,7 +431,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/breaking-down-the-ask?u=76281980&t=151)** Now let's go through another tricky one.
 >
-> **[2:33](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/breaking-down-the-ask?u=76281980&t=153)** Can we get a list of top performing products?
+> **[2:33](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/breaking-down-the-ask?u=76281980&t=153)** Can we get a list of top performing [[Microsoft Products|products]]?
 >
 > **[2:36](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/breaking-down-the-ask?u=76281980&t=156)** This request seems simple because the question is simple, but it's actually tricky.
 >
@@ -467,19 +461,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Microsoft Excel|Excel]] (2), business (2), [[Microsoft Products|Products]] (2), [[Soft Skills]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Microsoft Products|Products]] (2), [[Soft Skills]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Getting started
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/challenge-getting-started?u=76281980)
+#### [Challenge: Getting started](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/challenge-getting-started?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/challenge-getting-started?u=76281980&t=0)** - [Instructor] Are you ready for a challenge?
 >
-> **[0:07](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/challenge-getting-started?u=76281980&t=7)** Working with the customer and order data, you have an Excel file that contains all of the customers and all of their order information.
+> **[0:07](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/challenge-getting-started?u=76281980&t=7)** Working with the customer and order data, you have an [[Microsoft Excel|Excel]] file that contains all of the customers and all of their order information.
 >
 > **[0:15](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/challenge-getting-started?u=76281980&t=15)** You've been asked to provide a list of the top 50 customers based on their orders being the highest.
 >
@@ -487,12 +480,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft Excel|Excel]] (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Getting started
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/solution-getting-started?u=76281980)
+#### [Solution: Getting started](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/solution-getting-started?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -518,7 +510,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), data (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -527,12 +518,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding queries
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/understanding-queries?u=76281980)
+#### [Understanding queries](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/understanding-queries?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/understanding-queries?u=76281980&t=0)** - [Instructor] If you were to Google define the word query, you'll discover that a query is actually a question.
+> **[0:00](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/understanding-queries?u=76281980&t=0)** - [Instructor] If you were to [[Google]] define the [[Microsoft Word|word]] query, you'll discover that a query is actually a question.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/understanding-queries?u=76281980&t=7)** We have questions in data all the time, like how many X did we sell?
 >
@@ -570,9 +560,9 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/understanding-queries?u=76281980&t=119)** When you query with multiple tables involved, then you know from experience you have to address the joins and join types.
 >
-> **[2:06](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/understanding-queries?u=76281980&t=126)** And in databases, these are still called select queries.
+> **[2:06](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/understanding-queries?u=76281980&t=126)** And in [[Databases]], these are still called select queries.
 >
-> **[2:09](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/understanding-queries?u=76281980&t=129)** But in tools like Power Query, for example, you might hear them referred to as merge queries.
+> **[2:09](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/understanding-queries?u=76281980&t=129)** But in tools like [[Microsoft Power Query|Power Query]], for example, you might hear them referred to as merge queries.
 >
 > **[2:15](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/understanding-queries?u=76281980&t=135)** Then there are queries that you can leverage when you want to create data or copy data, or need to update data.
 >
@@ -588,7 +578,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/understanding-queries?u=76281980&t=170)** It's important to note that a distinct or unique statement is more of a property of a select statement versus a type of query, like an update or a PIN.
 >
-> **[2:59](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/understanding-queries?u=76281980&t=179)** Have you ever done an AutoSum in Excel?
+> **[2:59](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/understanding-queries?u=76281980&t=179)** Have you ever done an AutoSum in [[Microsoft Excel|Excel]]?
 >
 > **[3:02](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/understanding-queries?u=76281980&t=182)** Well, we do the same things with queries.
 >
@@ -598,7 +588,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Google]] (1), [[Microsoft Word|Word]] (1), leadership (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Microsoft Word|Word]] (1), [[Databases]] (1), [[Microsoft Power Query|Power query]] (1), [[Microsoft Excel|Excel]] (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** just like (1), for example (1)
 > **CLI Commands:** make (1)
@@ -607,20 +597,19 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building basic select queries
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-basic-select-queries?u=76281980)
+#### [Building basic select queries](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-basic-select-queries?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-basic-select-queries?u=76281980&t=0)** - [Instructor] Query concepts are pretty universal, but the way a particular software queries data is controlled by how that software is designed.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-basic-select-queries?u=76281980&t=8)** For example, the way we query data in SQL and the way we query in Power BI, we end up with the same fields, the same types of joins, but we build the queries in entirely different interfaces.
+> **[0:08](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-basic-select-queries?u=76281980&t=8)** For example, the way we query data in [[SQL]] and the way we query in [[Microsoft Power BI|Power BI]], we end up with the same fields, the same types of joins, but we build the queries in entirely different interfaces.
 >
 > **[0:21](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-basic-select-queries?u=76281980&t=21)** For this course, we're focused on the universal query concepts and how to apply them.
 >
 > **[0:26](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-basic-select-queries?u=76281980&t=26)** Then you can apply those concepts anywhere a tool has a querying component.
 >
-> **[0:32](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-basic-select-queries?u=76281980&t=32)** To teach concepts, I've used Microsoft Access for years because it's a database program, it has both tables and queries, it's widely available to anyone who has Microsoft Office on a PC, and its interface is less intimidating than SQL Server Management Studio.
+> **[0:32](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-basic-select-queries?u=76281980&t=32)** To teach concepts, I've used [[Microsoft]] Access for years because it's a database program, it has both tables and queries, it's widely available to anyone who has [[Microsoft Office]] on a PC, and its interface is less intimidating than [[Microsoft SQL Server|SQL Server]] Management Studio.
 >
 > **[0:49](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-basic-select-queries?u=76281980&t=49)** What you learn and discover, here, is applicable to any database tool that has a querying component.
 >
@@ -630,7 +619,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-basic-select-queries?u=76281980&t=67)** First I must identify who are all the potential customers, and, remember, the business rules will define who is considered a customer.
 >
-> **[1:15](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-basic-select-queries?u=76281980&t=75)** When we include the word top customers, we have to turn to the people who make the rules and confirm what they mean by top customers.
+> **[1:15](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-basic-select-queries?u=76281980&t=75)** When we include the [[Microsoft Word|word]] top customers, we have to turn to the people who make the rules and confirm what they mean by top customers.
 >
 > **[1:24](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-basic-select-queries?u=76281980&t=84)** Answers to this question could range from single order amounts to number of orders placed, or if they've ordered consistently over a period of time.
 >
@@ -714,7 +703,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[SQL]] (5), database (4), business (2), hit (2)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Microsoft Power BI|Power bi]] (1), [[Microsoft]] (1), [[Microsoft Office]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** sql (6)
 > **UI Navigation:** go to (2), double-click (1), right-click (1)
 > **CLI Commands:** make (2)
@@ -723,8 +712,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building distinct queries
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-distinct-queries?u=76281980)
+#### [Building distinct queries](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-distinct-queries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -742,7 +730,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-distinct-queries?u=76281980&t=23)** And I want you to take a look at the StockItemID and the Description.
 >
-> **[0:27](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-distinct-queries?u=76281980&t=27)** We don't have access to the products system.
+> **[0:27](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-distinct-queries?u=76281980&t=27)** We don't have access to the [[Microsoft Products|products]] system.
 >
 > **[0:31](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-distinct-queries?u=76281980&t=31)** However, from our invoices detail, we can see what's been invoiced by looking at the stock item and the description.
 >
@@ -772,7 +760,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-distinct-queries?u=76281980&t=96)** Now, it's important to note that in Access, we go and set a property that makes this unique.
 >
-> **[1:43](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-distinct-queries?u=76281980&t=103)** If you're writing a SQL statement, you would just include the word distinct in the select statement.
+> **[1:43](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-distinct-queries?u=76281980&t=103)** If you're writing a [[SQL]] statement, you would just include the [[Microsoft Word|word]] distinct in the select statement.
 >
 > **[1:49](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-distinct-queries?u=76281980&t=109)** Let's go to the property sheet, and then I'm going to click in this gray area of my query.
 >
@@ -804,7 +792,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Products|Products]] (3), [[SQL]] (3), product (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[SQL]] (3), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** double-click (4), go to (3)
 > **Env Vars:** sql (3), usb (1)
 > **CLI Commands:** make (2), find (1)
@@ -813,20 +801,19 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Warnings:** note that (1)
 
-#### Building queries with Joins
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-queries-with-joins?u=76281980)
+#### [Building queries with Joins](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-queries-with-joins?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-queries-with-joins?u=76281980&t=0)** - [Instructor] The way we store data from a design perspective and the way we structure it with queries is different.
 >
-> **[0:06](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-queries-with-joins?u=76281980&t=6)** For example, we normalize data for storage and optimization when we design databases.
+> **[0:06](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-queries-with-joins?u=76281980&t=6)** For example, we normalize data for storage and optimization when we design [[Databases]].
 >
 > **[0:12](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-queries-with-joins?u=76281980&t=12)** For reporting, we typically de-normalize it, meaning we bring that data back together into a single dataset.
 >
 > **[0:20](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-queries-with-joins?u=76281980&t=20)** You've already discovered how important joins are, and having some understanding about how databases are designed will help you be a better data analyst.
 >
-> **[0:28](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-queries-with-joins?u=76281980&t=28)** The library has a lot of options on database design and relational concepts.
+> **[0:28](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-queries-with-joins?u=76281980&t=28)** The library has a lot of options on [[Database Design]] and relational concepts.
 >
 > **[0:33](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-queries-with-joins?u=76281980&t=33)** We need to determine what orders have been invoiced, and because of the way the data is stored, we can't just achieve this answer with a single table.
 >
@@ -974,15 +961,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Databases]] (2), database (1)
+> **Frameworks & Libraries:** [[Databases]] (2), [[Database Design]] (1)
 > **UI Navigation:** double-click (5), go to (2), scroll down (1)
 > **Definitions:** is an  (1), means that (1), is a  (1)
 > **Analogies:** for example (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building append queries
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-append-queries?u=76281980)
+#### [Building append queries](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-append-queries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1016,7 +1002,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-append-queries?u=76281980&t=78)** Let's pick up where we left off on our missing invoices and orders.
 >
-> **[1:22](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-append-queries?u=76281980&t=82)** We found them in the source data, and we're able to export them out as Excel files and they're inside our Chapter folder.
+> **[1:22](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-append-queries?u=76281980&t=82)** We found them in the source data, and we're able to export them out as [[Microsoft Excel|Excel]] files and they're inside our Chapter folder.
 >
 > **[1:28](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-append-queries?u=76281980&t=88)** Let's go ahead and import the data from all of the files into our database, and we'll begin with the missing invoices.
 >
@@ -1188,7 +1174,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), next (6), database (4), [[Microsoft Excel|Excel]] (3), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3)
 > **CLI Commands:** make (8), find (1)
 > **UI Navigation:** go to (5), double-click (3), click on (1)
 > **Definitions:** is a  (2), means that (1)
@@ -1196,8 +1182,7 @@ created: 2026-05-02
 > **Env Vars:** join (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building total queries
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-total-queries?u=76281980)
+#### [Building total queries](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-total-queries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1305,7 +1290,7 @@ created: 2026-05-02
 >
 > **[4:23](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-total-queries?u=76281980&t=263)** So let's go to the design view and what we'll do is we'll choose the totals button.
 >
-> **[4:30](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-total-queries?u=76281980&t=270)** In other programs like SQL and Power BI, you'll hear are this referenced as the group by field.
+> **[4:30](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-total-queries?u=76281980&t=270)** In other programs like [[SQL]] and [[Microsoft Power BI|Power BI]], you'll hear are this referenced as the group by field.
 >
 > **[4:36](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-total-queries?u=76281980&t=276)** In our query grid below, note that you see a group by line.
 >
@@ -1343,7 +1328,7 @@ created: 2026-05-02
 >
 > **[6:30](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-total-queries?u=76281980&t=390)** I'll go ahead and choose external data.
 >
-> **[6:33](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-total-queries?u=76281980&t=393)** In my export, I'll choose Excel.
+> **[6:33](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-total-queries?u=76281980&t=393)** In my export, I'll choose [[Microsoft Excel|Excel]].
 >
 > **[6:36](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-total-queries?u=76281980&t=396)** I'll go ahead and put it into my exercise files.
 >
@@ -1365,7 +1350,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Microsoft Excel|Excel]] (3), [[SQL]] (1), power (1), bi (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[SQL]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **UI Navigation:** go to (4), double-click (1), click on (1)
 > **Analogies:** for example (2)
 > **Env Vars:** sql (1)
@@ -1374,8 +1359,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
 
-#### Challenge: Total number of orders by customer
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/challenge-total-number-of-orders-by-customer?u=76281980)
+#### [Challenge: Total number of orders by customer](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/challenge-total-number-of-orders-by-customer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1396,8 +1380,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Total number orders by customer
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/solution-total-number-orders-by-customer?u=76281980)
+#### [Solution: Total number orders by customer](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/solution-total-number-orders-by-customer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1455,7 +1438,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **UI Navigation:** go to (4)
 > **CLI Commands:** go run (2)
 > **Speakers:** - i (1)
@@ -1466,14 +1448,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Ad hoc reporting
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/ad-hoc-reporting?u=76281980)
+#### [Ad hoc reporting](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/ad-hoc-reporting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/ad-hoc-reporting?u=76281980&t=0)** - [Instructor] As you become known around your office for your data skills, you'll be faced with what's known as ad hoc reporting.
+> **[0:00](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/ad-hoc-reporting?u=76281980&t=0)** - [Instructor] As you become known around your [[Microsoft Office|office]] for your data skills, you'll be faced with what's known as ad hoc reporting.
 >
-> **[0:06](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/ad-hoc-reporting?u=76281980&t=6)** These are the ones time requests from your leadership or manager, or sometimes even colleagues, reports like top customers or numbers of orders not invoiced or even forecasting are examples of ongoing reports that drive business decisions but ad hoc, I mean requests that aren't a standard part of your workload and they're requested informally sometimes by colleagues.
+> **[0:06](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/ad-hoc-reporting?u=76281980&t=6)** These are the ones time requests from your leadership or manager, or sometimes even colleagues, reports like top customers or numbers of orders not invoiced or even [[Forecasting]] are examples of ongoing reports that drive business decisions but ad hoc, I mean requests that aren't a standard part of your workload and they're requested informally sometimes by colleagues.
 >
 > **[0:31](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/ad-hoc-reporting?u=76281980&t=31)** You may have also heard these referred to as one off requests.
 >
@@ -1489,7 +1470,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/ad-hoc-reporting?u=76281980&t=75)** Simple data tasks can be done a number of ways.
 >
-> **[1:18](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/ad-hoc-reporting?u=76281980&t=78)** And I've found though we're creatures of habit so we might be slow to adopting newer and better tools like Power Query.
+> **[1:18](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/ad-hoc-reporting?u=76281980&t=78)** And I've found though we're creatures of habit so we might be slow to adopting newer and better tools like [[Microsoft Power Query|Power Query]].
 >
 > **[1:24](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/ad-hoc-reporting?u=76281980&t=84)** So let's open up our ad hoc file from her chapter folder and let's see if we can accomplish the ask of how many Purchase Orders, what are the total amounts for each customer.
 >
@@ -1615,7 +1596,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), business (2), [[Microsoft Power Query|Power query]] (2), [[Microsoft Office|Office]] (1), leadership (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (2), [[Microsoft Office|Office]] (1), [[Forecasting]] (1)
 > **UI Navigation:** go to (3)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
@@ -1624,12 +1605,11 @@ created: 2026-05-02
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building basic charts visual
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-basic-charts-visual?u=76281980)
+#### [Building basic charts visual](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-basic-charts-visual?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-basic-charts-visual?u=76281980&t=0)** - [Instructor] When you're a data analyst, you become comfortable in spreadsheets and databases and looking at datasets in their raw format, but showing other people a set of thousands of records really isn't impactful, and even you won't be able to see the big picture with a thousand records.
+> **[0:00](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-basic-charts-visual?u=76281980&t=0)** - [Instructor] When you're a data analyst, you become comfortable in spreadsheets and [[Databases]] and looking at datasets in their raw format, but showing other people a set of thousands of records really isn't impactful, and even you won't be able to see the big picture with a thousand records.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-basic-charts-visual?u=76281980&t=17)** This is where visualization comes into play in the data analyst role.
 >
@@ -1657,7 +1637,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-basic-charts-visual?u=76281980&t=85)** Okay, so there's one.
 >
-> **[1:26](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-basic-charts-visual?u=76281980&t=86)** Let me go ahead and zoom out and let me try to visualize this again in a line chart to see if it's more compelling.
+> **[1:26](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-basic-charts-visual?u=76281980&t=86)** Let me go ahead and [[Zoom]] out and let me try to visualize this again in a line chart to see if it's more compelling.
 >
 > **[1:36](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-basic-charts-visual?u=76281980&t=96)** We'll just choose, again, a standard 2D line, and right out of the gate, within the second I placed it on the sheet, I immediately see this dip in the PO count.
 >
@@ -1729,21 +1709,20 @@ created: 2026-05-02
 >
 > **[4:48](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-basic-charts-visual?u=76281980&t=288)** Exploring your data visually as a means of understanding it is not only a time-saver, but it will also help you when someone else asks you about the information you're showing.
 >
-> **[4:58](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-basic-charts-visual?u=76281980&t=298)** It'll also help you to start thinking through how you might effectively visualize this later in dashboards or reports.
+> **[4:58](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-basic-charts-visual?u=76281980&t=298)** It'll also help you to start thinking through how you might effectively visualize this later in [[Dashboards]] or reports.
 >
 > **[5:05](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-basic-charts-visual?u=76281980&t=305)** Any artifact that you can discuss with people who will use this report will help them to communicate what they're really looking for, and you'll really accomplish a lot overall just by building some basic charts.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Databases]] (1), [[Zoom]] (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[Zoom]] (1), [[Dashboards]] (1)
 > **Analogies:** picture (2), for example (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Visuals using conditional formatting
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/visuals-using-conditional-formatting?u=76281980)
+#### [Visuals using conditional formatting](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/visuals-using-conditional-formatting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1769,7 +1748,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/visuals-using-conditional-formatting?u=76281980&t=64)** Now that we've sorted the column, you notice that those PO counts fall in line with the sort and this data's not appropriate for multiple sorting, we just have the customer name that we can sort by, we have the total amount we can sort by.
 >
-> **[1:18](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/visuals-using-conditional-formatting?u=76281980&t=78)** If we had fields like products included maybe we could do multiple sorts, but we'd still have the same issues with highlighting those PO counts because they're going to always fall in line with the sort.
+> **[1:18](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/visuals-using-conditional-formatting?u=76281980&t=78)** If we had fields like [[Microsoft Products|products]] included maybe we could do multiple sorts, but we'd still have the same issues with highlighting those PO counts because they're going to always fall in line with the sort.
 >
 > **[1:30](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/visuals-using-conditional-formatting?u=76281980&t=90)** If we don't find a way to highlight them, we can easily miss that dip that we only see in that line chart in the combo.
 >
@@ -1831,7 +1810,7 @@ created: 2026-05-02
 >
 > **[5:02](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/visuals-using-conditional-formatting?u=76281980&t=302)** There's not a single answer to every single data visualization, these are just commands that we can apply when they may be applicable.
 >
-> **[5:10](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/visuals-using-conditional-formatting?u=76281980&t=310)** You can learn a lot in the library of the various conditional formats that are available in Excel.
+> **[5:10](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/visuals-using-conditional-formatting?u=76281980&t=310)** You can learn a lot in the library of the various conditional formats that are available in [[Microsoft Excel|Excel]].
 >
 > **[5:15](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/visuals-using-conditional-formatting?u=76281980&t=315)** And guess what, a lot of other programs do conditional formatting as well.
 >
@@ -1839,15 +1818,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Products|Products]] (2), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Microsoft Excel|Excel]] (2)
 > **UI Navigation:** go to (5), right-click (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting templates and default charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/setting-templates-and-default-charts?u=76281980)
+#### [Setting templates and default charts](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/setting-templates-and-default-charts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1857,11 +1835,11 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/setting-templates-and-default-charts?u=76281980&t=19)** No matter what scenario you find yourself in, the idea of changing colors of the charts from the standard color scheme to match the requirements over and over and over again is a drain on productivity, when you can just set a chart template or customize the theme.
 >
-> **[0:35](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/setting-templates-and-default-charts?u=76281980&t=35)** Starting in Office 2007, I believe, there was a theme supplied to every document, spreadsheet and PowerPoint, you name it.
+> **[0:35](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/setting-templates-and-default-charts?u=76281980&t=35)** Starting in [[Microsoft Office|Office]] 2007, I believe, there was a theme supplied to every document, spreadsheet and [[Microsoft PowerPoint|PowerPoint]], you name it.
 >
 > **[0:43](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/setting-templates-and-default-charts?u=76281980&t=43)** You should learn how to leverage this theme, so it will save you critical time on less important tasks, like changing fonts on every file or colors to match.
 >
-> **[0:52](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/setting-templates-and-default-charts?u=76281980&t=52)** You'll find these themes in Excel on the Page Layout tab.
+> **[0:52](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/setting-templates-and-default-charts?u=76281980&t=52)** You'll find these themes in [[Microsoft Excel|Excel]] on the Page Layout tab.
 >
 > **[0:55](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/setting-templates-and-default-charts?u=76281980&t=55)** Let's go ahead and take a look at the Page Layout tab.
 >
@@ -1955,7 +1933,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Microsoft PowerPoint|Powerpoint]] (1), [[Microsoft Excel|Excel]] (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Microsoft PowerPoint|Powerpoint]] (1), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (4), right-click (2)
 > **CLI Commands:** find (3), make (1)
 > **Exercise Files:** template (4)
@@ -1964,16 +1942,15 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Linking verus embedding charts and data
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/linking-verus-embedding-charts-and-data?u=76281980)
+#### [Linking verus embedding charts and data](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/linking-verus-embedding-charts-and-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/linking-verus-embedding-charts-and-data?u=76281980&t=0)** - [Instructor] When you build charts inside of Excel, they live in Excel and they're connected to the data inside that Excel file.
+> **[0:00](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/linking-verus-embedding-charts-and-data?u=76281980&t=0)** - [Instructor] When you build charts inside of [[Microsoft Excel|Excel]], they live in Excel and they're connected to the data inside that Excel file.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/linking-verus-embedding-charts-and-data?u=76281980&t=7)** But more often than not, we need to put those charts inside of things like Word documents or even PowerPoint.
+> **[0:07](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/linking-verus-embedding-charts-and-data?u=76281980&t=7)** But more often than not, we need to put those charts inside of things like [[Microsoft Word|Word]] documents or even [[Microsoft PowerPoint|PowerPoint]].
 >
-> **[0:13](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/linking-verus-embedding-charts-and-data?u=76281980&t=13)** This is why it's important to know how Microsoft Office leverages linking and embedding information.
+> **[0:13](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/linking-verus-embedding-charts-and-data?u=76281980&t=13)** This is why it's important to know how [[Microsoft Office]] leverages linking and embedding information.
 >
 > **[0:19](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/linking-verus-embedding-charts-and-data?u=76281980&t=19)** This data is in this workbook and it originates from other places, but for this particular file, the data we have here isn't linked anywhere else.
 >
@@ -2061,7 +2038,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/linking-verus-embedding-charts-and-data?u=76281980&t=219)** And then you can see we can size it.
 >
-> **[3:42](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/linking-verus-embedding-charts-and-data?u=76281980&t=222)** Automatically, in this version of Office, I get my design ideas.
+> **[3:42](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/linking-verus-embedding-charts-and-data?u=76281980&t=222)** Automatically, in this version of [[Microsoft Office|Office]], I get my design ideas.
 >
 > **[3:48](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/linking-verus-embedding-charts-and-data?u=76281980&t=228)** All right, so I'm going to choose this option here.
 >
@@ -2121,7 +2098,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (18), [[Microsoft Excel|Excel]] (15), data (10), [[Microsoft Word|Word]] (2), [[Microsoft Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (18), [[Microsoft Excel|Excel]] (15), [[Microsoft Word|Word]] (2), [[Microsoft Office]] (1), [[Microsoft Office|Office]] (1)
 > **Analogies:** picture (6)
 > **UI Navigation:** right-click (3), go to (2)
 > **Definitions:** means that (3)
@@ -2129,8 +2106,7 @@ created: 2026-05-02
 > **Env Vars:** png (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Ad hoc presentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/challenge-ad-hoc-presentation?u=76281980)
+#### [Challenge: Ad hoc presentation](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/challenge-ad-hoc-presentation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2144,7 +2120,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/challenge-ad-hoc-presentation?u=76281980&t=25)** We also want to highlight the total amounts that are in the top 15% in green because they're the highest values, and, actually, they're good.
 >
-> **[0:33](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/challenge-ad-hoc-presentation?u=76281980&t=33)** We also want to display a line chart of the PO counts and embed it into a PowerPoint presentation.
+> **[0:33](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/challenge-ad-hoc-presentation?u=76281980&t=33)** We also want to display a line chart of the PO counts and embed it into a [[Microsoft PowerPoint|PowerPoint]] presentation.
 >
 > **[0:39](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/challenge-ad-hoc-presentation?u=76281980&t=39)** This is so our manager can discuss it with their leadership.
 >
@@ -2156,12 +2132,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Microsoft PowerPoint|Powerpoint]] (1), leadership (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Ad hoc presentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/solution-ad-hoc-presentation?u=76281980)
+#### [Solution: Ad hoc presentation](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/solution-ad-hoc-presentation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2223,7 +2198,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/solution-ad-hoc-presentation?u=76281980&t=131)** So I'll go ahead and choose slice.
 >
-> **[2:15](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/solution-ad-hoc-presentation?u=76281980&t=135)** And then the final part of my requirement is to put this line chart into a PowerPoint presentation as an embedded object.
+> **[2:15](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/solution-ad-hoc-presentation?u=76281980&t=135)** And then the final part of my requirement is to put this line chart into a [[Microsoft PowerPoint|PowerPoint]] presentation as an embedded object.
 >
 > **[2:22](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/solution-ad-hoc-presentation?u=76281980&t=142)** So I'll go ahead and right click and copy my chart.
 >
@@ -2245,7 +2220,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (2)
 > **UI Navigation:** go to (8)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2255,14 +2230,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are pivots?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/what-are-pivots?u=76281980)
+#### [What are pivots?](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/what-are-pivots?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/what-are-pivots?u=76281980&t=0)** - [Instructor] To be able to pivot data is a fundamental skill of all data workers, not just analysts.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/what-are-pivots?u=76281980&t=5)** And really anyone that uses Excel with a dataset should be able to pivot.
+> **[0:05](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/what-are-pivots?u=76281980&t=5)** And really anyone that uses [[Microsoft Excel|Excel]] with a dataset should be able to pivot.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/what-are-pivots?u=76281980&t=10)** For most people, it's hard to wrap your mind around how you can take a set of data and display it in a pivot format.
 >
@@ -2270,13 +2244,13 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/what-are-pivots?u=76281980&t=20)** But what people don't realize is that it's actually harder to build the display without the tools dedicated to making pivot displays like PivotTables in Excel.
 >
-> **[0:29](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/what-are-pivots?u=76281980&t=29)** Just like the word query is a question and a tool, PivotTables are both a display and a tool.
+> **[0:29](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/what-are-pivots?u=76281980&t=29)** Just like the [[Microsoft Word|word]] query is a question and a tool, PivotTables are both a display and a tool.
 >
 > **[0:35](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/what-are-pivots?u=76281980&t=35)** PivotTables display values from data at the cross section of X and Y.
 >
 > **[0:39](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/what-are-pivots?u=76281980&t=39)** And when people think about X and Y they may start to think about their bad experiences with algebra in school.
 >
-> **[0:45](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/what-are-pivots?u=76281980&t=45)** And if you Google about the X and Y axis, you might say words like Cartesian coordinates system and you might just pass out.
+> **[0:45](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/what-are-pivots?u=76281980&t=45)** And if you [[Google]] about the X and Y axis, you might say words like Cartesian coordinates system and you might just pass out.
 >
 > **[0:53](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/what-are-pivots?u=76281980&t=53)** Let's just keep it simple.
 >
@@ -2284,7 +2258,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/what-are-pivots?u=76281980&t=62)** And the Y axis is the row headings that go vertical down the side of the pivot.
 >
-> **[1:07](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/what-are-pivots?u=76281980&t=67)** Now this will get more meaningful as we go through the rest of this chapter but where the X column headings and the Y row headings meet, well, that's the value.
+> **[1:07](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/what-are-pivots?u=76281980&t=67)** Now this will get more meaningful as we go through the [[Representational State Transfer (REST)|rest]] of this chapter but where the X column headings and the Y row headings meet, well, that's the value.
 >
 > **[1:18](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/what-are-pivots?u=76281980&t=78)** Have you ever built a monthly budget?
 >
@@ -2330,14 +2304,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Microsoft Excel|Excel]] (4), [[Microsoft Word|Word]] (1), [[Google]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Microsoft Word|Word]] (1), [[Google]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (3)
 > **UI Navigation:** go to (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Build basic pivot tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/build-basic-pivot-tables?u=76281980)
+#### [Build basic pivot tables](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/build-basic-pivot-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2373,7 +2346,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/build-basic-pivot-tables?u=76281980&t=76)** Okay, great.
 >
-> **[1:18](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/build-basic-pivot-tables?u=76281980&t=78)** The pivot tool in Excel has four main areas: Filters, columns, rows and values.
+> **[1:18](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/build-basic-pivot-tables?u=76281980&t=78)** The pivot tool in [[Microsoft Excel|Excel]] has four main areas: Filters, columns, rows and values.
 >
 > **[1:26](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/build-basic-pivot-tables?u=76281980&t=86)** Remember, the columns and rows intersect to show a value and, well, filters do just that; they filter.
 >
@@ -2437,7 +2410,7 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/build-basic-pivot-tables?u=76281980&t=222)** Now I just see the year and the month.
 >
-> **[3:45](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/build-basic-pivot-tables?u=76281980&t=225)** Now let's change our pivot to look at our products ordered each month.
+> **[3:45](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/build-basic-pivot-tables?u=76281980&t=225)** Now let's change our pivot to look at our [[Microsoft Products|products]] ordered each month.
 >
 > **[3:49](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/build-basic-pivot-tables?u=76281980&t=229)** We'll want to change our row heading to the description for our field product names, and we'll want to change the value to the quantity field, because that field actually tells us how much of each product's been ordered.
 >
@@ -2461,7 +2434,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), product (5), [[Microsoft Excel|Excel]] (3), [[Analytics]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** go to (3), drag and drop (2), double-click (1)
 > **CLI Commands:** make (3)
 > **Analogies:** similar to (1), for example (1)
@@ -2470,8 +2443,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Modifying pivots for readability
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/modifying-pivots-for-readability?u=76281980)
+#### [Modifying pivots for readability](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/modifying-pivots-for-readability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2495,7 +2467,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/modifying-pivots-for-readability?u=76281980&t=58)** Okay, the very first thing I want to do is look at, what are each one of these by year, as compared to the grand total?
 >
-> **[1:07](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/modifying-pivots-for-readability?u=76281980&t=67)** Meaning, 1690 of this first product, what does that 1690 represent as a percentage of the total of all of the products in all years?
+> **[1:07](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/modifying-pivots-for-readability?u=76281980&t=67)** Meaning, 1690 of this first product, what does that 1690 represent as a percentage of the total of all of the [[Microsoft Products|products]] in all years?
 >
 > **[1:20](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/modifying-pivots-for-readability?u=76281980&t=80)** I can accomplish this by changing this value to show as a percentage of the grand total.
 >
@@ -2571,21 +2543,20 @@ created: 2026-05-02
 >
 > **[5:14](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/modifying-pivots-for-readability?u=76281980&t=314)** And if I want to look at a single product and it's year-over-year performance against itself, I'll use the percentage of the row total.
 >
-> **[5:22](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/modifying-pivots-for-readability?u=76281980&t=322)** Remember, this is data analytics, not just data cleaning.
+> **[5:22](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/modifying-pivots-for-readability?u=76281980&t=322)** Remember, this is data analytics, not just [[Data Cleaning]].
 >
-> **[5:27](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/modifying-pivots-for-readability?u=76281980&t=327)** When you're preparing pivots, remember, they're going to be explored for decision-making and further analysis, and using value percentages definitely helps make them more readable.
+> **[5:27](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/modifying-pivots-for-readability?u=76281980&t=327)** When you're preparing pivots, remember, they're going to be explored for [[Decision-Making]] and further analysis, and using value percentages definitely helps make them more readable.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (12), [[Microsoft Products|Products]] (5), data (3), [[Analytics]] (1), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), [[Data Cleaning]] (1), [[Decision-Making]] (1)
 > **UI Navigation:** go to (3), right-click (2), double-click (1), drag and drop (1)
 > **CLI Commands:** make (3)
 > **Versions:** 2.39 (1), 0.71 (1), 2.42 (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Visualizing pivot tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/visualizing-pivot-tables?u=76281980)
+#### [Visualizing pivot tables](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/visualizing-pivot-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2611,7 +2582,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/visualizing-pivot-tables?u=76281980&t=64)** I'll do filter and then I'll hide those selected items.
 >
-> **[1:08](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/visualizing-pivot-tables?u=76281980&t=68)** All right, I'll go ahead and sort by my grand total, that'll move my highest volume products to the top.
+> **[1:08](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/visualizing-pivot-tables?u=76281980&t=68)** All right, I'll go ahead and sort by my grand total, that'll move my highest volume [[Microsoft Products|products]] to the top.
 >
 > **[1:17](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/visualizing-pivot-tables?u=76281980&t=77)** And because they don't need to see the grand total for the display, I'll go ahead and right click and remove that grand total.
 >
@@ -2703,7 +2674,7 @@ created: 2026-05-02
 >
 > **[5:20](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/visualizing-pivot-tables?u=76281980&t=320)** Okay, I'm going to go ahead and just size a little bit.
 >
-> **[5:23](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/visualizing-pivot-tables?u=76281980&t=323)** I'm going to zoom out so I can see.
+> **[5:23](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/visualizing-pivot-tables?u=76281980&t=323)** I'm going to [[Zoom]] out so I can see.
 >
 > **[5:27](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/visualizing-pivot-tables?u=76281980&t=327)** I'll drag it down.
 >
@@ -2723,7 +2694,7 @@ created: 2026-05-02
 >
 > **[6:30](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/visualizing-pivot-tables?u=76281980&t=390)** If I want to look at February or March or even compare the first quarter, I can Control + Select those filters, perfect.
 >
-> **[6:42](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/visualizing-pivot-tables?u=76281980&t=402)** This can be used as a precursor to building dashboards.
+> **[6:42](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/visualizing-pivot-tables?u=76281980&t=402)** This can be used as a precursor to building [[Dashboards]].
 >
 > **[6:45](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/visualizing-pivot-tables?u=76281980&t=405)** That way, you can ultimately get on the same page with your decision makers about the ways they might want to explore the data.
 >
@@ -2735,14 +2706,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), product (4), [[Microsoft Products|Products]] (2), [[Zoom]] (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Zoom]] (1), [[Dashboards]] (1)
 > **UI Navigation:** go to (7)
 > **CLI Commands:** make (3)
 > **Analogies:** picture (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using pivots to filter data sets
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/using-pivots-to-filter-data-sets?u=76281980)
+#### [Using pivots to filter data sets](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/using-pivots-to-filter-data-sets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2770,7 +2740,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/using-pivots-to-filter-data-sets?u=76281980&t=67)** Let's go take a look at another one.
 >
-> **[1:11](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/using-pivots-to-filter-data-sets?u=76281980&t=71)** Okay so, I'll scroll down, again, I'm going to take a look at all of the 2020 data for all of the products, I'll go ahead and double-click that grand total percentage.
+> **[1:11](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/using-pivots-to-filter-data-sets?u=76281980&t=71)** Okay so, I'll scroll down, again, I'm going to take a look at all of the 2020 data for all of the [[Microsoft Products|products]], I'll go ahead and double-click that grand total percentage.
 >
 > **[1:24](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/using-pivots-to-filter-data-sets?u=76281980&t=84)** And now I see all of the 2020 values in all of those particular products.
 >
@@ -2786,14 +2756,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), product (2), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **UI Navigation:** double-click (2), scroll down (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Best customer year
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/challenge-best-customer-year?u=76281980)
+#### [Challenge: Best customer year](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/challenge-best-customer-year?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2808,8 +2777,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Best customer year
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/solution-best-customer-year?u=76281980)
+#### [Solution: Best customer year](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/solution-best-customer-year?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2895,7 +2863,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **UI Navigation:** go to (5)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
@@ -2906,8 +2873,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building dashboards
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-dashboards?u=76281980)
+#### [Building dashboards](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-dashboards?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2939,7 +2905,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-dashboards?u=76281980&t=84)** This allows me to explore the best ways to visualize the data to answer the questions.
 >
-> **[1:29](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-dashboards?u=76281980&t=89)** I'll build a sample dashboard, and I'll explore the user experience through the filters that are supplied, and then I'll refine and publish the dashboard as the final step.
+> **[1:29](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-dashboards?u=76281980&t=89)** I'll build a sample dashboard, and I'll explore the [[User Experience (UX)|user experience]] through the filters that are supplied, and then I'll refine and publish the dashboard as the final step.
 >
 > **[1:39](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-dashboards?u=76281980&t=99)** These are my steps, and they're pretty universal and pretty consistent, regardless of the tool that I use.
 >
@@ -2951,9 +2917,9 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-dashboards?u=76281980&t=122)** This means connecting to it and getting that data to the clean state.
 >
-> **[2:06](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-dashboards?u=76281980&t=126)** And for our examples here, we're using Power BI Desktop, and Power Query is the data prep tool that we'll use.
+> **[2:06](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-dashboards?u=76281980&t=126)** And for our examples here, we're using [[Microsoft Power BI|Power BI]] Desktop, and [[Microsoft Power Query|Power Query]] is the data prep tool that we'll use.
 >
-> **[2:13](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-dashboards?u=76281980&t=133)** Dashboards are visual expressions of the data, and they're meant to be interactive.
+> **[2:13](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-dashboards?u=76281980&t=133)** [[Dashboards]] are visual expressions of the data, and they're meant to be interactive.
 >
 > **[2:18](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-dashboards?u=76281980&t=138)** That means they're not great for thousands of lines of data.
 >
@@ -2967,7 +2933,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-dashboards?u=76281980&t=162)** The world is full of paginated reports, and these are reports with lots of lines.
 >
-> **[2:47](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-dashboards?u=76281980&t=167)** You will find them PDF or even printed, and they're produced with tools like Power BI Report Builder, SQL Server Reporting Services, or even Crystal Reports.
+> **[2:47](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-dashboards?u=76281980&t=167)** You will find them PDF or even printed, and they're produced with tools like Power BI Report Builder, [[Microsoft SQL Server|SQL Server]] Reporting Services, or even Crystal Reports.
 >
 > **[2:57](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-dashboards?u=76281980&t=177)** These are multi-page reports, and they're not always positive interactive experiences.
 >
@@ -3007,15 +2973,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Dashboards]] (4), power (2), bi (2), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (4), [[Microsoft Power BI|Power bi]] (2), [[User Experience (UX)|User experience]] (1), [[Microsoft Power Query|Power query]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** pdf (1), sql (1)
 > **Analogies:** for example (1), imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building a matrix and visuals
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-a-matrix-and-visuals?u=76281980)
+#### [Building a matrix and visuals](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-a-matrix-and-visuals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3031,7 +2996,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-a-matrix-and-visuals?u=76281980&t=24)** Let's start by connecting to our data so we can take a look at our product lines.
 >
-> **[0:29](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-a-matrix-and-visuals?u=76281980&t=29)** I'll go ahead and get data, go to Excel and choose my 2020 sales.
+> **[0:29](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-a-matrix-and-visuals?u=76281980&t=29)** I'll go ahead and get data, go to [[Microsoft Excel|Excel]] and choose my 2020 sales.
 >
 > **[0:37](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-a-matrix-and-visuals?u=76281980&t=37)** This workbook has tables defining the data as well as sheet tabs called returns and sales.
 >
@@ -3049,7 +3014,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-a-matrix-and-visuals?u=76281980&t=83)** We want to show a visual that shows the total line amount for each sales order for each month by product line.
 >
-> **[1:30](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-a-matrix-and-visuals?u=76281980&t=90)** And in Power BI desktop, we use the matrix tool to create this type of pivot.
+> **[1:30](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-a-matrix-and-visuals?u=76281980&t=90)** And in [[Microsoft Power BI|Power BI]] desktop, we use the matrix tool to create this type of pivot.
 >
 > **[1:35](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-a-matrix-and-visuals?u=76281980&t=95)** So I'll choose matrix and just like a pivot, I have rows, columns and values to work with.
 >
@@ -3139,7 +3104,7 @@ created: 2026-05-02
 >
 > **[5:39](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-a-matrix-and-visuals?u=76281980&t=339)** Okay, great.
 >
-> **[5:40](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-a-matrix-and-visuals?u=76281980&t=340)** Now I really love this visual, but after a feedback review, I've discovered that it only needs to show delivered products.
+> **[5:40](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-a-matrix-and-visuals?u=76281980&t=340)** Now I really love this visual, but after a feedback review, I've discovered that it only needs to show delivered [[Microsoft Products|products]].
 >
 > **[5:49](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-a-matrix-and-visuals?u=76281980&t=349)** Let me go put a hard filter on this visual.
 >
@@ -3185,15 +3150,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (14), data (5), [[Microsoft Products|Products]] (4), [[Microsoft Excel|Excel]] (1), power (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Microsoft Excel|Excel]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **UI Navigation:** go to (8), scroll down (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Analogies:** just like (2)
 > **Speakers:** - [instructor] (1)
 
-#### Use cards for numbers
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/use-cards-for-numbers?u=76281980)
+#### [Use cards for numbers](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/use-cards-for-numbers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3211,7 +3175,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/use-cards-for-numbers?u=76281980&t=43)** Okay, so I'm going to choose the table visualization.
 >
-> **[0:50](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/use-cards-for-numbers?u=76281980&t=50)** Okay, from our sales data, we want to focus on our products.
+> **[0:50](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/use-cards-for-numbers?u=76281980&t=50)** Okay, from our sales data, we want to focus on our [[Microsoft Products|products]].
 >
 > **[0:54](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/use-cards-for-numbers?u=76281980&t=54)** So I'll drag product name and again, I want to bring in the line total.
 >
@@ -3335,19 +3299,18 @@ created: 2026-05-02
 >
 > **[6:50](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/use-cards-for-numbers?u=76281980&t=410)** Again, it's important to not spend a ton of time sizing and moving around because you've already seen we do a lot of shifting and movement as we put artifacts into place.
 >
-> **[7:01](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/use-cards-for-numbers?u=76281980&t=421)** Cards and multi cards just give you another attractive way to build numbers into your dashboards to accommodate both the graphic version of the numbers as well as just the numbers.
+> **[7:01](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/use-cards-for-numbers?u=76281980&t=421)** Cards and multi cards just give you another attractive way to build numbers into your [[Dashboards]] to accommodate both the graphic version of the numbers as well as just the numbers.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), [[Microsoft Products|Products]] (2), data (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Dashboards]] (1)
 > **UI Navigation:** go to (5), click on (3), scroll down (1)
 > **CLI Commands:** make (6)
 > **Definitions:** is a  (1)
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using visuals in Power BI for filters
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/using-visuals-in-power-bi-for-filters?u=76281980)
+#### [Using visuals in Power BI for filters](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/using-visuals-in-power-bi-for-filters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3497,7 +3460,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **UI Navigation:** click on (4), go to (2)
 > **CLI Commands:** make (1)
 > **Versions:** 11.35 (1)
@@ -3505,8 +3467,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Publishing visuals and data sets
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/publishing-visuals-and-data-sets?u=76281980)
+#### [Publishing visuals and data sets](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/publishing-visuals-and-data-sets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3514,7 +3475,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/publishing-visuals-and-data-sets?u=76281980&t=7)** This is where you can do all that intricate sizing and alignment.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/publishing-visuals-and-data-sets?u=76281980&t=11)** If you haven't had any graphic design training, you may never have experienced grids and line support but these are valuable layout features.
+> **[0:11](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/publishing-visuals-and-data-sets?u=76281980&t=11)** If you haven't had any [[Graphic Design]] training, you may never have experienced grids and line support but these are valuable layout features.
 >
 > **[0:20](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/publishing-visuals-and-data-sets?u=76281980&t=20)** If you go to your view tab, you'll notice that you have grid lines, snap to grid and lock objects.
 >
@@ -3580,7 +3541,7 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/publishing-visuals-and-data-sets?u=76281980&t=231)** Remember that what you can do to share and publish and where you can publish is also dictated by your licensing structure within your organization.
 >
-> **[4:01](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/publishing-visuals-and-data-sets?u=76281980&t=241)** One of the additional features of Power BI is that not only will it allow me to publish to the web into my workspace, but it'll also give me some quick insights into my data.
+> **[4:01](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/publishing-visuals-and-data-sets?u=76281980&t=241)** One of the additional features of [[Microsoft Power BI|Power BI]] is that not only will it allow me to publish to the web into my workspace, but it'll also give me some quick insights into my data.
 >
 > **[4:10](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/publishing-visuals-and-data-sets?u=76281980&t=250)** So when I send data up, it'll give me some visuals to look at and explore.
 >
@@ -3588,7 +3549,7 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/publishing-visuals-and-data-sets?u=76281980&t=261)** And then this takes me to the web based version of Power BI and I can begin to interact with my dashboard.
 >
-> **[4:35](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/publishing-visuals-and-data-sets?u=76281980&t=275)** There's another feature I love about Power BI in the web and that's the ability to export my dashboard page to a PowerPoint.
+> **[4:35](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/publishing-visuals-and-data-sets?u=76281980&t=275)** There's another feature I love about Power BI in the web and that's the ability to export my dashboard page to a [[Microsoft PowerPoint|PowerPoint]].
 >
 > **[4:42](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/publishing-visuals-and-data-sets?u=76281980&t=282)** I'll go to export and I'll choose PowerPoint.
 >
@@ -3622,20 +3583,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (8), bi (8), [[Microsoft PowerPoint|Powerpoint]] (7), web (5), data (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (8), [[Microsoft PowerPoint|Powerpoint]] (7), [[Graphic Design]] (1)
 > **UI Navigation:** go to (6), click on (1)
 > **Env Vars:** pdf (6)
 > **CLI Commands:** snap (1), make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Product dashboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/challenge-product-dashboard?u=76281980)
+#### [Challenge: Product dashboard](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/challenge-product-dashboard?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/challenge-product-dashboard?u=76281980&t=0)** - [Instructor] Here's our challenge.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/challenge-product-dashboard?u=76281980&t=7)** We want to include information to our existing sales product dashboard on products.
+> **[0:07](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/challenge-product-dashboard?u=76281980&t=7)** We want to include information to our existing sales product dashboard on [[Microsoft Products|products]].
 >
 > **[0:12](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/challenge-product-dashboard?u=76281980&t=12)** Our goal for this page of our dashboard are to highlight those products.
 >
@@ -3655,17 +3615,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7), product (2), data (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Product dashboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/solution-product-dashboard?u=76281980)
+#### [Solution: Product dashboard](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/solution-product-dashboard?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/solution-product-dashboard?u=76281980&t=0)** - [Instructor] Okay, let me show you how I would approach this challenge of bringing focus to highlight our products.
+> **[0:00](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/solution-product-dashboard?u=76281980&t=0)** - [Instructor] Okay, let me show you how I would approach this challenge of bringing focus to highlight our [[Microsoft Products|products]].
 >
 > **[0:11](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/solution-product-dashboard?u=76281980&t=11)** Okay, the very first thing I'm going to do is actually add a new page, and I'll name this my products dashboard.
 >
@@ -3799,7 +3758,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), product (5), data (4)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6)
 > **CLI Commands:** make (5), find (1)
 > **UI Navigation:** go to (1), scroll down (1)
 > **Definitions:** is a  (2)
@@ -3813,12 +3772,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using column profile to learn the data
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/using-column-profile-to-learn-the-data?u=76281980)
+#### [Using column profile to learn the data](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/using-column-profile-to-learn-the-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/using-column-profile-to-learn-the-data?u=76281980&t=0)** - [Instructor] We are all looking for ways to save time, and learning your data is one area where you can save time if you leverage the tools that are available to you in Power Query, either through Excel or Power BI you will find a few options on the view tab that are worth exploring, and they'll help you learn your data.
+> **[0:00](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/using-column-profile-to-learn-the-data?u=76281980&t=0)** - [Instructor] We are all looking for ways to save time, and learning your data is one area where you can save time if you leverage the tools that are available to you in [[Microsoft Power Query|Power Query]], either through [[Microsoft Excel|Excel]] or [[Microsoft Power BI|Power BI]] you will find a few options on the view tab that are worth exploring, and they'll help you learn your data.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/using-column-profile-to-learn-the-data?u=76281980&t=17)** Let's go ahead and connect our wage data to Power Query I'll go to data.
 >
@@ -3896,18 +3854,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft Power Query|Power query]] (3), [[Analytics]] (2), [[Microsoft Excel|Excel]] (1), power (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (3), [[Microsoft Excel|Excel]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **UI Navigation:** go to (4)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Appending data by leveraging folders
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/appending-data-by-leveraging-folders?u=76281980)
+#### [Appending data by leveraging folders](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/appending-data-by-leveraging-folders?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/appending-data-by-leveraging-folders?u=76281980&t=0)** - [Instructor] People will often compile their data together, meaning they'll put all of their datasets into a single dataset before they start leveraging tools like Power Query.
+> **[0:00](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/appending-data-by-leveraging-folders?u=76281980&t=0)** - [Instructor] People will often compile their data together, meaning they'll put all of their datasets into a single dataset before they start leveraging tools like [[Microsoft Power Query|Power Query]].
 >
 > **[0:10](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/appending-data-by-leveraging-folders?u=76281980&t=10)** I want to introduce you to the append data function by using folders.
 >
@@ -3979,17 +3936,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[Microsoft Power Query|Power query]] (6), next (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (6)
 > **UI Navigation:** go to (2)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Duplicate or reference data sets
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/duplicate-or-reference-data-sets?u=76281980)
+#### [Duplicate or reference data sets](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/duplicate-or-reference-data-sets?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/duplicate-or-reference-data-sets?u=76281980&t=0)** - [Instructor] Two of my favorite commands in Power Query is the duplicate and reference command.
+> **[0:00](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/duplicate-or-reference-data-sets?u=76281980&t=0)** - [Instructor] Two of my favorite commands in [[Microsoft Power Query|Power Query]] is the duplicate and reference command.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/duplicate-or-reference-data-sets?u=76281980&t=5)** This allows me to use one source data set, and create smaller, focused data sets to work with.
 >
@@ -4043,7 +3999,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/duplicate-or-reference-data-sets?u=76281980&t=105)** I'm going to right-click and reference the WageSurvey.
 >
-> **[1:49](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/duplicate-or-reference-data-sets?u=76281980&t=109)** And this one, I'm going to rename and add the word reference.
+> **[1:49](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/duplicate-or-reference-data-sets?u=76281980&t=109)** And this one, I'm going to rename and add the [[Microsoft Word|word]] reference.
 >
 > **[1:58](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/duplicate-or-reference-data-sets?u=76281980&t=118)** So now, if I make changes in the main WageSurvey, they'll carry over to the WageSurvey Reference.
 >
@@ -4105,20 +4061,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Microsoft Power Query|Power query]] (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (2), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** right-click (3), go to (2), click on (1)
 > **CLI Commands:** make (5)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Unpivoting data from existing reports
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/unpivoting-data-from-existing-reports?u=76281980)
+#### [Unpivoting data from existing reports](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/unpivoting-data-from-existing-reports?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/unpivoting-data-from-existing-reports?u=76281980&t=0)** - [Instructor] One of the biggest challenges we face as data analysts is the inability to get to all of the raw data that we need.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/unpivoting-data-from-existing-reports?u=76281980&t=7)** Source systems will sometimes limit you to the pre-built reports that are exported to PDF or Excel.
+> **[0:07](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/unpivoting-data-from-existing-reports?u=76281980&t=7)** Source systems will sometimes limit you to the pre-built reports that are exported to PDF or [[Microsoft Excel|Excel]].
 >
 > **[0:13](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/unpivoting-data-from-existing-reports?u=76281980&t=13)** These reports are canned reports and they're generated by the system internally.
 >
@@ -4130,7 +4085,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/unpivoting-data-from-existing-reports?u=76281980&t=34)** Again, there are limitations in the visuals if you leave your data in the wide format.
 >
-> **[0:39](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/unpivoting-data-from-existing-reports?u=76281980&t=39)** One of the key cleaning commands of power query is unpivot.
+> **[0:39](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/unpivoting-data-from-existing-reports?u=76281980&t=39)** One of the key cleaning commands of [[Microsoft Power Query|power query]] is unpivot.
 >
 > **[0:43](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/unpivoting-data-from-existing-reports?u=76281980&t=43)** Power query gives us the ability to take wide displays and create long displays that act as records.
 >
@@ -4210,15 +4165,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Microsoft Excel|Excel]] (3), [[Microsoft Power Query|Power query]] (3)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Microsoft Power Query|Power query]] (3)
 > **UI Navigation:** go to (2), right-click (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** pdf (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Custom sorting in Power BI
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/custom-sorting-in-power-bi?u=76281980)
+#### [Custom sorting in Power BI](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/custom-sorting-in-power-bi?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4282,12 +4236,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8)
 > **UI Navigation:** go to (4)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Custom sort by education
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/challenge-custom-sort-by-education?u=76281980)
+#### [Challenge: Custom sort by education](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/challenge-custom-sort-by-education?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4311,14 +4263,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Custom sort by education
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/solution-custom-sort-by-education?u=76281980)
+#### [Solution: Custom sort by education](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/solution-custom-sort-by-education?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4428,7 +4378,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5)
 > **UI Navigation:** go to (4)
 > **Definitions:** is a  (2)
 > **Cross-References:** go back to (1)
@@ -4440,8 +4389,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Consider how to present data in meetings
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/consider-how-to-present-data-in-meetings?u=76281980)
+#### [Consider how to present data in meetings](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/consider-how-to-present-data-in-meetings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4449,7 +4397,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/consider-how-to-present-data-in-meetings?u=76281980&t=9)** They haven't had the same amount of time with the data that you've had.
 >
-> **[0:13](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/consider-how-to-present-data-in-meetings?u=76281980&t=13)** They haven't spent days validating and creating charts and pivot tables.
+> **[0:13](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/consider-how-to-present-data-in-meetings?u=76281980&t=13)** They haven't spent days validating and creating charts and [[Pivot Tables]].
 >
 > **[0:17](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/consider-how-to-present-data-in-meetings?u=76281980&t=17)** Remember, you're going to always need to prime them with a little information upfront Data that is being presented, especially in short bits of time, that's considered high volume or mission critical should always be include some primer information before any new piece of information is given.
 >
@@ -4469,7 +4417,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/consider-how-to-present-data-in-meetings?u=76281980&t=104)** Your studies will be different.
 >
-> **[1:46](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/consider-how-to-present-data-in-meetings?u=76281980&t=106)** You might be defining the products that are included or even excluded from your data.
+> **[1:46](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/consider-how-to-present-data-in-meetings?u=76281980&t=106)** You might be defining the [[Microsoft Products|products]] that are included or even excluded from your data.
 >
 > **[1:51](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/consider-how-to-present-data-in-meetings?u=76281980&t=111)** You may be talking about a different division or even a different department.
 >
@@ -4491,20 +4439,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Pivot Tables]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Pivot Tables]] (1), [[Microsoft Products|Products]] (1)
 > **Best Practices:** don't forget (1), you should always (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### What to do before going company wide
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/what-to-do-before-going-company-wide-10457637?u=76281980)
+#### [What to do before going company wide](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/what-to-do-before-going-company-wide-10457637?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/what-to-do-before-going-company-wide-10457637?u=76281980&t=0)** - [Instructor] In this course, we have talked about ad hoc reporting, those one time or one off requests that come to your desk.
 >
-> **[0:06](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/what-to-do-before-going-company-wide-10457637?u=76281980&t=6)** However, there are times when you have reports or dashboards that will be consumed by the organization or by larger groups.
+> **[0:06](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/what-to-do-before-going-company-wide-10457637?u=76281980&t=6)** However, there are times when you have reports or [[Dashboards]] that will be consumed by the organization or by larger groups.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/what-to-do-before-going-company-wide-10457637?u=76281980&t=13)** There are some key things to take into account when you're getting ready to go live within your organization.
 >
@@ -4538,9 +4485,9 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/what-to-do-before-going-company-wide-10457637?u=76281980&t=79)** And more importantly, who doesn't?
 >
-> **[1:22](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/what-to-do-before-going-company-wide-10457637?u=76281980&t=82)** Whether a group has access to the files or the dashboard, or even the PowerPoint version, you must make sure that everywhere the output lives, that only the appropriate people have permissions.
+> **[1:22](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/what-to-do-before-going-company-wide-10457637?u=76281980&t=82)** Whether a group has access to the files or the dashboard, or even the [[Microsoft PowerPoint|PowerPoint]] version, you must make sure that everywhere the output lives, that only the appropriate people have permissions.
 >
-> **[1:34](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/what-to-do-before-going-company-wide-10457637?u=76281980&t=94)** One way we support this particular effort is we have a SharePoint site that's dedicated to reporting.
+> **[1:34](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/what-to-do-before-going-company-wide-10457637?u=76281980&t=94)** One way we support this particular effort is we have a [[SharePoint]] site that's dedicated to reporting.
 >
 > **[1:41](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/what-to-do-before-going-company-wide-10457637?u=76281980&t=101)** And we have the permissions set so that people only get into the areas in which they have permissions.
 >
@@ -4598,13 +4545,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Dashboards]] (2), [[Microsoft PowerPoint|Powerpoint]] (1), [[SharePoint]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (2), [[Microsoft PowerPoint|Powerpoint]] (1), [[SharePoint]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Leveraging PowerPoint for presentations
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/leveraging-powerpoint-for-presentations?u=76281980)
+#### [Leveraging PowerPoint for presentations](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/leveraging-powerpoint-for-presentations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4616,11 +4562,11 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/leveraging-powerpoint-for-presentations?u=76281980&t=31)** Sometimes it's more compelling to show a non-moving picture of information so people can gain an understanding of what they're looking at before they start driving around in a dashboard.
 >
-> **[0:42](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/leveraging-powerpoint-for-presentations?u=76281980&t=42)** I found in meetings, when we have less than an hour to present information, it also helps us stay focused on the information if we leverage tools like PowerPoint.
+> **[0:42](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/leveraging-powerpoint-for-presentations?u=76281980&t=42)** I found in meetings, when we have less than an hour to present information, it also helps us stay focused on the information if we leverage tools like [[Microsoft PowerPoint|PowerPoint]].
 >
 > **[0:51](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/leveraging-powerpoint-for-presentations?u=76281980&t=51)** I might have an amazing dashboard that will be public for everyone to consume but when presenting it for the first time, I'm typically using a PowerPoint presentation that's easy to digest.
 >
-> **[1:03](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/leveraging-powerpoint-for-presentations?u=76281980&t=63)** You learned earlier in Power BI when you publish to your workspace, you can then export that PowerPoint to build an amazing presentation that can be used during the meeting.
+> **[1:03](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/leveraging-powerpoint-for-presentations?u=76281980&t=63)** You learned earlier in [[Microsoft Power BI|Power BI]] when you publish to your workspace, you can then export that PowerPoint to build an amazing presentation that can be used during the meeting.
 >
 > **[1:12](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/leveraging-powerpoint-for-presentations?u=76281980&t=72)** Let me show you some of the tricks that I use.
 >
@@ -4754,7 +4700,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (6), data (4), power (2), bi (2)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (6), [[Microsoft Power BI|Power bi]] (2)
 > **UI Navigation:** go to (6), right-click (5)
 > **CLI Commands:** make (5)
 > **Analogies:** picture (4)
@@ -4763,8 +4709,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Documenting data procedures
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/documenting-data-procedures?u=76281980)
+#### [Documenting data procedures](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/documenting-data-procedures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4788,7 +4733,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/documenting-data-procedures?u=76281980&t=45)** Let me introduce you to the steps recorder.
 >
-> **[0:47](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/documenting-data-procedures?u=76281980&t=47)** This is built into Windows.
+> **[0:47](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/documenting-data-procedures?u=76281980&t=47)** This is built into [[Windows]].
 >
 > **[0:50](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/documenting-data-procedures?u=76281980&t=50)** I'll go to my Windows menu.
 >
@@ -4818,7 +4763,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/documenting-data-procedures?u=76281980&t=108)** I'll save this into my exercise files as my custom sorts for my report and then I'll go ahead and choose Save.
 >
-> **[1:57](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/documenting-data-procedures?u=76281980&t=117)** Also, I've found that people are unaware that you can do some basic documentation just using a Word document and the screenshot tool.
+> **[1:57](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/documenting-data-procedures?u=76281980&t=117)** Also, I've found that people are unaware that you can do some basic documentation just using a [[Microsoft Word|Word]] document and the screenshot tool.
 >
 > **[2:04](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/documenting-data-procedures?u=76281980&t=124)** Let me show you what I mean.
 >
@@ -4830,7 +4775,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/documenting-data-procedures?u=76281980&t=164)** I'll go to Screenshot.
 >
-> **[2:46](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/documenting-data-procedures?u=76281980&t=166)** And then in Available Windows, I see my actual Excel file because I opened it and worked with it earlier.
+> **[2:46](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/documenting-data-procedures?u=76281980&t=166)** And then in Available Windows, I see my actual [[Microsoft Excel|Excel]] file because I opened it and worked with it earlier.
 >
 > **[2:53](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/documenting-data-procedures?u=76281980&t=173)** I can also do a screen clipping if I want to screen clip it.
 >
@@ -4846,19 +4791,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (3), [[Microsoft Word|Word]] (2), data (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Microsoft Word|Word]] (2), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (3), click on (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Highlight dashboard using PowerPoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/challenge-highlight-dashboard-using-powerpoint?u=76281980)
+#### [Challenge: Highlight dashboard using PowerPoint](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/challenge-highlight-dashboard-using-powerpoint?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/challenge-highlight-dashboard-using-powerpoint?u=76281980&t=0)** - [Narrator] Here's our challenge.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/challenge-highlight-dashboard-using-powerpoint?u=76281980&t=7)** We want to take the product dashboard that we created earlier, and you can use the PowerPoint in your challenge files, we want to highlight some of the information on our PowerPoint so that when we're teaching people how to use our dashboard, they'll have an idea of what to expect.
+> **[0:07](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/challenge-highlight-dashboard-using-powerpoint?u=76281980&t=7)** We want to take the product dashboard that we created earlier, and you can use the [[Microsoft PowerPoint|PowerPoint]] in your challenge files, we want to highlight some of the information on our PowerPoint so that when we're teaching people how to use our dashboard, they'll have an idea of what to expect.
 >
 > **[0:22](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/challenge-highlight-dashboard-using-powerpoint?u=76281980&t=22)** This is an easy way to lay out and let people know how to consume the information on the dashboard.
 >
@@ -4866,17 +4810,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (2), product (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Highlight dashboard using PowerPoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/solution-highlight-dashboard-using-powerpoint?u=76281980)
+#### [Solution: Highlight dashboard using PowerPoint](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/solution-highlight-dashboard-using-powerpoint?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/solution-highlight-dashboard-using-powerpoint?u=76281980&t=0)** - [Instructor] I love a good PowerPoint challenge.
+> **[0:00](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/solution-highlight-dashboard-using-powerpoint?u=76281980&t=0)** - [Instructor] I love a good [[Microsoft PowerPoint|PowerPoint]] challenge.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/solution-highlight-dashboard-using-powerpoint?u=76281980&t=8)** Okay, I will maintain this product page here, but I do want to change this.
 >
@@ -4888,7 +4831,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/solution-highlight-dashboard-using-powerpoint?u=76281980&t=39)** So go ahead and remove link.
 >
-> **[0:41](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/solution-highlight-dashboard-using-powerpoint?u=76281980&t=41)** Super important too if someone else is presenting this you don't want them to accidentally go to Power BI during the presentation.
+> **[0:41](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/solution-highlight-dashboard-using-powerpoint?u=76281980&t=41)** Super important too if someone else is presenting this you don't want them to accidentally go to [[Microsoft Power BI|Power BI]] during the presentation.
 >
 > **[0:50](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/solution-highlight-dashboard-using-powerpoint?u=76281980&t=50)** All right, I'll go ahead and copy and paste.
 >
@@ -4918,7 +4861,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/solution-highlight-dashboard-using-powerpoint?u=76281980&t=131)** So I'll make that orange.
 >
-> **[2:19](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/solution-highlight-dashboard-using-powerpoint?u=76281980&t=139)** All right, I'm going to zoom-in.
+> **[2:19](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/solution-highlight-dashboard-using-powerpoint?u=76281980&t=139)** All right, I'm going to [[Zoom]]-in.
 >
 > **[2:25](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/solution-highlight-dashboard-using-powerpoint?u=76281980&t=145)** Bring that in just a little bit.
 >
@@ -4994,7 +4937,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), [[Zoom]] (2), [[Microsoft PowerPoint|Powerpoint]] (1), power (1), bi (1)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[Microsoft PowerPoint|Powerpoint]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **CLI Commands:** make (7)
 > **UI Navigation:** go to (2), right-click (1)
 > **Speakers:** - [instructor] (1)
@@ -5005,8 +4948,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing on with data analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/continuing-on-with-data-analysis?u=76281980)
+#### [Continuing on with data analysis](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/continuing-on-with-data-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5014,11 +4956,11 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/continuing-on-with-data-analysis?u=76281980&t=6)** The first thing people tend to think about is which tools they should learn first.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/continuing-on-with-data-analysis?u=76281980&t=10)** "I should learn SQL, or Tableau, or even R."
+> **[0:10](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/continuing-on-with-data-analysis?u=76281980&t=10)** "I should learn [[SQL]], or [[Tableau]], or even R."
 >
 > **[0:14](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/continuing-on-with-data-analysis?u=76281980&t=14)** They're not wrong. Tools are important.
 >
-> **[0:17](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/continuing-on-with-data-analysis?u=76281980&t=17)** But I would argue if you're at the beginning of your career, you should focus on soft skills more than tools.
+> **[0:17](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/continuing-on-with-data-analysis?u=76281980&t=17)** But I would argue if you're at the beginning of your career, you should focus on [[Soft Skills]] more than tools.
 >
 > **[0:22](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/continuing-on-with-data-analysis?u=76281980&t=22)** Data analysis is more than just learning points and clicks.
 >
@@ -5036,15 +4978,15 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/continuing-on-with-data-analysis?u=76281980&t=62)** Once you have those soft skills down, focus on specializing in an area.
 >
-> **[1:07](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/continuing-on-with-data-analysis?u=76281980&t=67)** If you enjoy data cleaning, mining, and querying, you might explore more on relational database design theory, as well as digging deeper into SQL and using it to query.
+> **[1:07](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/continuing-on-with-data-analysis?u=76281980&t=67)** If you enjoy [[Data Cleaning]], mining, and querying, you might explore more on relational [[Database Design]] theory, as well as digging deeper into SQL and using it to query.
 >
-> **[1:18](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/continuing-on-with-data-analysis?u=76281980&t=78)** If you enjoyed the visualization portions of this course, you might explore the other tools dedicated to visualization, and dig deeper into tools like Power BI Desktop that we used in this course.
+> **[1:18](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/continuing-on-with-data-analysis?u=76281980&t=78)** If you enjoyed the visualization portions of this course, you might explore the other tools dedicated to visualization, and dig deeper into tools like [[Microsoft Power BI|Power BI]] Desktop that we used in this course.
 >
 > **[1:28](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/continuing-on-with-data-analysis?u=76281980&t=88)** No matter what your next step will be, just keep making steps to further your understanding and your skills working with data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (2), [[SQL]] (2), [[Soft Skills]] (2), application (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Soft Skills]] (2), [[Tableau]] (1), [[Data Cleaning]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **Env Vars:** sql (2)
 > **Speakers:** - [instructor] (1)
 

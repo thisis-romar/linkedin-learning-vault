@@ -117,12 +117,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to FinOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/introduction-to-finops?u=76281980)
+#### [Introduction to FinOps](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/introduction-to-finops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/introduction-to-finops?u=76281980&t=0)** - [David] The ability to create a fully optimized FinOps program to provide visibility and control to Cloud computing costs is critical to the success of all Cloud computing.
+> **[0:00](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/introduction-to-finops?u=76281980&t=0)** - [David] The ability to create a fully optimized FinOps program to provide visibility and control to [[Cloud Computing]] costs is critical to the success of all Cloud computing.
 >
 > **[0:09](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/introduction-to-finops?u=76281980&t=9)** The challenges is that many enterprises don't have a FinOps program in place, and thus do not understand how the Cloud computing spending is occurring and have no ability to monitor and control Cloud computing costs that are leading to huge cost overruns.
 >
@@ -132,22 +131,21 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/introduction-to-finops?u=76281980&t=39)** Hi, I'm Dave Linthicom, internationally known Cloud expert and consultant.
 >
-> **[0:43](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/introduction-to-finops?u=76281980&t=43)** In this LinkedIn Learning course I use pragmatic examples including case studies and explain processes to help you gain an understanding of the steps to undertake from making a successful FinOps program the first time.
+> **[0:43](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/introduction-to-finops?u=76281980&t=43)** In this [[LinkedIn]] Learning course I use pragmatic examples including case studies and explain processes to help you gain an understanding of the steps to undertake from making a successful FinOps program the first time.
 >
 > **[0:55](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/introduction-to-finops?u=76281980&t=55)** I wish you luck and good learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (4), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [david] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/what-you-should-know?u=76281980&t=0)** - [Instructor] In order to get the most out of this course, you should have an understanding of the basics of computing, including compute, storage, databases, and networking.
+> **[0:00](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/what-you-should-know?u=76281980&t=0)** - [Instructor] In order to get the most out of this course, you should have an understanding of the basics of computing, including compute, storage, [[Databases]], and networking.
 >
 > **[0:09](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/what-you-should-know?u=76281980&t=9)** It's not a requirement that you have a deep understanding of any of these concepts, just the fact that they exist and they're basic functions for cloud-based and non-cloud based solutions.
 >
@@ -155,11 +153,11 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/what-you-should-know?u=76281980&t=24)** But if those are not on your list of skills, we'll provide enough information here to help you keep up.
 >
-> **[0:30](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/what-you-should-know?u=76281980&t=30)** If you're not yet comfortable around some of the topics mentioned, you should review one, two, or all three of the following courses: Learning Cloud Computing Core Concepts, Cloud Architecture Core Concepts, Learning Cloud Computing: Public Cloud Platforms.
+> **[0:30](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/what-you-should-know?u=76281980&t=30)** If you're not yet comfortable around some of the topics mentioned, you should review one, two, or all three of the following courses: Learning [[Cloud Computing]] Core Concepts, Cloud Architecture Core Concepts, Learning Cloud Computing: Public Cloud Platforms.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), [[Databases]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (2), [[Databases]] (1)
 > **Speakers:** - [instructor] (1)
 
 
@@ -167,8 +165,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding FinOps and its importance
-> [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/understanding-finops-and-its-importance?u=76281980)
+#### [Understanding FinOps and its importance](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/understanding-finops-and-its-importance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -182,13 +179,13 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/understanding-finops-and-its-importance?u=76281980&t=16)** It's a collaboration of operating models and technologies that combine best practices with technology and culture to improve an enterprise's ability to optimize cloud costs.
 >
-> **[0:27](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/understanding-finops-and-its-importance?u=76281980&t=27)** It's a collaboration of IT, developers, finance, procurement and others in the business to find the most value from cloud computing technology.
+> **[0:27](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/understanding-finops-and-its-importance?u=76281980&t=27)** It's a collaboration of IT, developers, finance, procurement and others in the business to find the most value from [[Cloud Computing]] technology.
 >
 > **[0:36](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/understanding-finops-and-its-importance?u=76281980&t=36)** So, why is FinOps important?
 >
 > **[0:38](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/understanding-finops-and-its-importance?u=76281980&t=38)** Cost overruns are common with those that deploy cloud-based solutions.
 >
-> **[0:42](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/understanding-finops-and-its-importance?u=76281980&t=42)** This is a result of not having a good understanding of what and how the cloud providers are billing for cloud services.
+> **[0:42](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/understanding-finops-and-its-importance?u=76281980&t=42)** This is a result of not having a good understanding of what and how the cloud providers are billing for [[Cloud Services]].
 >
 > **[0:49](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/understanding-finops-and-its-importance?u=76281980&t=49)** Often the core issue is lack of visibility and controls into how cloud computing spending is occurring.
 >
@@ -210,18 +207,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), business (4), management (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (2), [[Cloud Services]] (1)
 > **Definitions:** is a  (2), defined as (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Business need for FinOps for cloud computing
-> [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/business-need-for-finops-for-cloud-computing?u=76281980)
+#### [Business need for FinOps for cloud computing](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/business-need-for-finops-for-cloud-computing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/business-need-for-finops-for-cloud-computing?u=76281980&t=0)** - [Presenter] The value of cloud computing was over simplified in the early days of the cloud.
+> **[0:00](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/business-need-for-finops-for-cloud-computing?u=76281980&t=0)** - [Presenter] The value of [[Cloud Computing]] was over simplified in the early days of the cloud.
 >
 > **[0:04](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/business-need-for-finops-for-cloud-computing?u=76281980&t=4)** It was defined as something that allows you to rent computer time and capacity as you need it and only pay for what you use.
 >
@@ -229,7 +225,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/business-need-for-finops-for-cloud-computing?u=76281980&t=16)** Of course, businesses soon learned that it was more complex than that.
 >
-> **[0:20](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/business-need-for-finops-for-cloud-computing?u=76281980&t=20)** How public cloud computing providers such as Amazon Web Services, Microsoft and Google, bill for their services varies greatly.
+> **[0:20](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/business-need-for-finops-for-cloud-computing?u=76281980&t=20)** How public cloud computing providers such as [[Amazon Web Services (AWS)|Amazon Web Services]], [[Microsoft]] and [[Google]], bill for their services varies greatly.
 >
 > **[0:28](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/business-need-for-finops-for-cloud-computing?u=76281980&t=28)** Some bill for time use, some bill for capacity use such as storage and network bandwidth and some provide unlimited use of some services to a specific point where additional charges will apply.
 >
@@ -243,7 +239,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/business-need-for-finops-for-cloud-computing?u=76281980&t=72)** Finally, accounting for costs that IT rarely forecasts.
 >
-> **[1:16](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/business-need-for-finops-for-cloud-computing?u=76281980&t=76)** An example of this could be that a company could no longer be able to earn a tax deduction for the depreciation of traditional hardware and data center space.
+> **[1:16](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/business-need-for-finops-for-cloud-computing?u=76281980&t=76)** An example of this could be that a company could no longer be able to earn a tax deduction for the depreciation of traditional [[Hardware]] and data center space.
 >
 > **[1:26](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/business-need-for-finops-for-cloud-computing?u=76281980&t=86)** In some instances, companies end up losing millions of dollars in tax benefits due to IT moving most of their applications and data sets to public cloud providers.
 >
@@ -265,17 +261,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (11), business (4), data (2), power (1), [[Amazon Web Services (AWS)|Amazon web services]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (6), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Microsoft]] (1), [[Google]] (1), [[Hardware]] (1)
 > **Analogies:** such as (3)
 > **Definitions:** defined as (1), is a  (1)
 > **Speakers:** - [presenter] (1)
 
-#### Defining cloud computing value and metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/defining-cloud-computing-value-and-metrics?u=76281980)
+#### [Defining cloud computing value and metrics](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/defining-cloud-computing-value-and-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/defining-cloud-computing-value-and-metrics?u=76281980&t=0)** - [Instructor] So, if FinOps is about finding the optimized value for the business, for the use of cloud resources, then how do we determine the value of cloud computing?
+> **[0:00](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/defining-cloud-computing-value-and-metrics?u=76281980&t=0)** - [Instructor] So, if FinOps is about finding the optimized value for the business, for the use of cloud resources, then how do we determine the value of [[Cloud Computing]]?
 >
 > **[0:10](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/defining-cloud-computing-value-and-metrics?u=76281980&t=10)** What metrics should we be leveraging?
 >
@@ -287,7 +282,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/defining-cloud-computing-value-and-metrics?u=76281980&t=25)** Some are many cloud computing services.
 >
-> **[0:28](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/defining-cloud-computing-value-and-metrics?u=76281980&t=28)** Examples of hard values would be operational cost savings using a public cloud-based storage system versus owning and maintaining your own hardware and software.
+> **[0:28](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/defining-cloud-computing-value-and-metrics?u=76281980&t=28)** Examples of hard values would be operational cost savings using a public cloud-based storage system versus owning and maintaining your own [[Hardware]] and software.
 >
 > **[0:37](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/defining-cloud-computing-value-and-metrics?u=76281980&t=37)** Saving on cloud computing instances since you're able to purchase cheaper instances at a time.
 >
@@ -315,13 +310,13 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/defining-cloud-computing-value-and-metrics?u=76281980&t=127)** Examples of soft values that may return to the business through the use of cloud-based resources may include increased business agility, which allows the company to move into new markets quicker and thus provides some additional business success.
 >
-> **[2:21](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/defining-cloud-computing-value-and-metrics?u=76281980&t=141)** For example, a car company that needs to pivot to electric vehicles ahead of the market demand can change car designs, factories, and supply chains quickly by using the agile benefits of cloud computing.
+> **[2:21](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/defining-cloud-computing-value-and-metrics?u=76281980&t=141)** For example, a car company that needs to pivot to electric vehicles ahead of the market demand can change car designs, factories, and supply chains quickly by using the [[Agile Development|agile]] benefits of cloud computing.
 >
 > **[2:34](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/defining-cloud-computing-value-and-metrics?u=76281980&t=154)** Even the ability to enhance employee retention through the use of cloud computing to support a growing remote workforce.
 >
 > **[2:40](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/defining-cloud-computing-value-and-metrics?u=76281980&t=160)** Many businesses find that maintaining good employees is vital to the business generating value.
 >
-> **[2:46](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/defining-cloud-computing-value-and-metrics?u=76281980&t=166)** Cloud computing better supports a remote workforce that in many instances is more productive and sustainable than forcing employees to commute to a common office building daily.
+> **[2:46](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/defining-cloud-computing-value-and-metrics?u=76281980&t=166)** Cloud computing better supports a remote workforce that in many instances is more productive and sustainable than forcing employees to commute to a common [[Microsoft Office|office]] building daily.
 >
 > **[2:56](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/defining-cloud-computing-value-and-metrics?u=76281980&t=176)** What we depicted here is that value that is returned to the business can be many things and while much value is easy to understand, such as direct and measurable cost savings and cost avoidance from cloud computing, some of the more valuable aspects of cloud computing are more difficult to measure, but should be well understood.
 >
@@ -331,14 +326,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (21), business (12), [[Hardware]] (1), [[Agile Development|Agile]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (12), [[Hardware]] (1), [[Agile Development|Agile]] (1), [[Microsoft Office|Office]] (1)
 > **Analogies:** for example (2), such as (1), picture (1)
 > **Warnings:** note that (1), keep in mind (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Case study: Cloud budget overage
-> [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/case-study-cloud-budget-overage?u=76281980)
+#### [Case study: Cloud budget overage](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/case-study-cloud-budget-overage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -350,7 +344,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/case-study-cloud-budget-overage?u=76281980&t=21)** As a result, the growth of HH has moved most of their IT assets to the public cloud, including inventory management, production management, accounting, HR systems, in sales order entry systems.
 >
-> **[0:34](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/case-study-cloud-budget-overage?u=76281980&t=34)** HH expected the cost of using cloud based resources to be lower than their traditional approach to owning and maintaining their own hardware and software.
+> **[0:34](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/case-study-cloud-budget-overage?u=76281980&t=34)** HH expected the cost of using cloud based resources to be lower than their traditional approach to owning and maintaining their own [[Hardware]] and software.
 >
 > **[0:43](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/case-study-cloud-budget-overage?u=76281980&t=43)** They expected their $10 million a year IT budget to be reduced to $8 million a year once their assets are moved to the cloud.
 >
@@ -360,7 +354,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/case-study-cloud-budget-overage?u=76281980&t=67)** So what happened?
 >
-> **[1:09](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/case-study-cloud-budget-overage?u=76281980&t=69)** A few things became apparent to the consulting firm HH hired to look at the cloud computing spending that led to the budget overruns.
+> **[1:09](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/case-study-cloud-budget-overage?u=76281980&t=69)** A few things became apparent to the consulting firm HH hired to look at the [[Cloud Computing]] spending that led to the budget overruns.
 >
 > **[1:17](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/case-study-cloud-budget-overage?u=76281980&t=77)** No use of cost saving best practices, such as using reserve instances to purchase cheaper capacity ahead of need.
 >
@@ -398,14 +392,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (12), data (7), management (4), business (3), hr (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (2), [[Hardware]] (1)
 > **Analogies:** such as (2)
 > **Cross-References:** in the last (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Case study: Multicloud cost mayhem
-> [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/case-study-multicloud-cost-mayhem?u=76281980)
+#### [Case study: Multicloud cost mayhem](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/case-study-multicloud-cost-mayhem?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -423,7 +416,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/case-study-multicloud-cost-mayhem?u=76281980&t=25)** Public cloud A supports 70% of the workloads that run in the public clouds for the company and this includes all sales order processing and related data, inventory processing related data, accounting processing and related data, as well as hosting packaged applications, supporting the customer relationship management system, or CRM.
 >
-> **[0:44](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/case-study-multicloud-cost-mayhem?u=76281980&t=44)** Public cloud B supports most of R&D operations, including providing development and deployment of new software products that the company sells, as well as a special cloud service in support of those products, including deep analytics and AI system processing.
+> **[0:44](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/case-study-multicloud-cost-mayhem?u=76281980&t=44)** Public cloud B supports most of R&D operations, including providing development and deployment of new software [[Microsoft Products|products]] that the company sells, as well as a special cloud service in support of those products, including deep analytics and AI system processing.
 >
 > **[0:58](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/case-study-multicloud-cost-mayhem?u=76281980&t=58)** This cloud makes up 20% of the workloads that run on public clouds.
 >
@@ -431,7 +424,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/case-study-multicloud-cost-mayhem?u=76281980&t=72)** This includes storage of aggregated data from the other clouds and other systems, which can be considered summarized versions of the data.
 >
-> **[1:19](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/case-study-multicloud-cost-mayhem?u=76281980&t=79)** This includes analytical processing, such as core business intelligence or BI capabilities.
+> **[1:19](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/case-study-multicloud-cost-mayhem?u=76281980&t=79)** This includes analytical processing, such as core [[Business Intelligence (BI)|business intelligence]] or BI capabilities.
 >
 > **[1:26](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/case-study-multicloud-cost-mayhem?u=76281980&t=86)** After deployment of the multi clouds, including cloud A, B, and C, the company noticed a few things that they did not expect.
 >
@@ -439,7 +432,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/case-study-multicloud-cost-mayhem?u=76281980&t=98)** Some focused on time on one system with unlimited data usage and others focus just on data usage, with no regard for the amount of time spent on each specific resource, such as compute, storage, and database.
 >
-> **[1:52](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/case-study-multicloud-cost-mayhem?u=76281980&t=112)** This led to confusion in terms of how cloud services were built, with many developers and users mistakenly confusing one cloud with another, that's not optimizing the way the cloud is built for use.
+> **[1:52](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/case-study-multicloud-cost-mayhem?u=76281980&t=112)** This led to confusion in terms of how [[Cloud Services]] were built, with many developers and users mistakenly confusing one cloud with another, that's not optimizing the way the cloud is built for use.
 >
 > **[2:04](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/case-study-multicloud-cost-mayhem?u=76281980&t=124)** This often led to budget overruns, where they thought they were being billed by time and it was by capacity and the other way around.
 >
@@ -489,7 +482,7 @@ created: 2026-05-02
 >
 > **[5:08](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/case-study-multicloud-cost-mayhem?u=76281980&t=308)** You'll need to figure this into the overall cost of doing any cloud, single cloud or multi-cloud deployments.
 >
-> **[5:15](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/case-study-multicloud-cost-mayhem?u=76281980&t=315)** This is not so much that the cost needs to be mayhem but the fact is there will be a point where the amount of moving parts and the complexity of the cloud computing deployment requires that Fin Ops processes be put in place to manage the complexity.
+> **[5:15](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/case-study-multicloud-cost-mayhem?u=76281980&t=315)** This is not so much that the cost needs to be mayhem but the fact is there will be a point where the amount of moving parts and the complexity of the [[Cloud Computing]] deployment requires that Fin Ops processes be put in place to manage the complexity.
 >
 > **[5:28](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/case-study-multicloud-cost-mayhem?u=76281980&t=328)** This means keeping track of costs, billing, terms, provider performance, and even the people costs that surround the business as well.
 >
@@ -497,7 +490,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (36), data (8), business (5), [[Microsoft Products|Products]] (2), [[Analytics]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Cloud Services]] (2), [[Business Intelligence (BI)|Business intelligence]] (1), [[Cloud Computing]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Prerequisites:** you'll need (4)
 > **Analogies:** such as (3)
@@ -506,16 +499,15 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [host] (1)
 
-#### Introduction to FinOps objectives
-> [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/introduction-to-finops-objectives?u=76281980)
+#### [Introduction to FinOps objectives](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/introduction-to-finops-objectives?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/introduction-to-finops-objectives?u=76281980&t=0)** - [Narrator] The core objective of FinOps simply put is to bring accountability and visibility to cloud costs for any organization.
+> **[0:00](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/introduction-to-finops-objectives?u=76281980&t=0)** - [Narrator] The core objective of FinOps simply put is to bring [[Accountability]] and visibility to cloud costs for any organization.
 >
 > **[0:07](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/introduction-to-finops-objectives?u=76281980&t=7)** While you hear many definitions and objectives, that's the heart of why we're interested in FinOps.
 >
-> **[0:13](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/introduction-to-finops-objectives?u=76281980&t=13)** Of course, we've always been concerned with cloud spending even before FinOps concepts, in the early days of cloud computing.
+> **[0:13](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/introduction-to-finops-objectives?u=76281980&t=13)** Of course, we've always been concerned with cloud spending even before FinOps concepts, in the early days of [[Cloud Computing]].
 >
 > **[0:20](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/introduction-to-finops-objectives?u=76281980&t=20)** FinOps just put some best practices, structure and technology behind how we monitor and control these costs effectively, and without leveraging too many additional resources.
 >
@@ -531,7 +523,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/introduction-to-finops-objectives?u=76281980&t=73)** This means that command and control comes from a central authority that drives most of the policies, monitoring and controls.
 >
-> **[1:22](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/introduction-to-finops-objectives?u=76281980&t=82)** There is a consistent accountability with cloud-based spending, with all of those consuming cloud services taking ownership of their spending and the optimized use of cloud resources.
+> **[1:22](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/introduction-to-finops-objectives?u=76281980&t=82)** There is a consistent accountability with cloud-based spending, with all of those consuming [[Cloud Services]] taking ownership of their spending and the optimized use of cloud resources.
 >
 > **[1:33](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/introduction-to-finops-objectives?u=76281980&t=93)** The focus is always on returning the maximum value back to the business for all cloud computing spending.
 >
@@ -547,18 +539,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (10), business (4), [[Accountability]] (2), teams (2), data (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (3), [[Accountability]] (2), [[Cloud Services]] (1)
 > **Definitions:** means that (2), is a  (1), is an  (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [narrator] (1)
 
-#### Introduction to FinOps technology
-> [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/introduction-to-finops-technology?u=76281980)
+#### [Introduction to FinOps technology](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/introduction-to-finops-technology?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/introduction-to-finops-technology?u=76281980&t=0)** - [Presenter] FinOps technology is really any technology that assists in monitoring, controlling, and optimizing cloud computing costs.
+> **[0:00](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/introduction-to-finops-technology?u=76281980&t=0)** - [Presenter] FinOps technology is really any technology that assists in monitoring, controlling, and optimizing [[Cloud Computing]] costs.
 >
 > **[0:07](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/introduction-to-finops-technology?u=76281980&t=7)** Thus, it's really any cloud tool that's able to consider costs as well as usage.
 >
@@ -572,7 +563,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/introduction-to-finops-technology?u=76281980&t=49)** Cloud cost planning are the ability to use historical cloud spending data to plan cloud spending moving forward and creating budgets around that spending.
 >
-> **[0:58](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/introduction-to-finops-technology?u=76281980&t=58)** Cloud business operations are the ability to support a central cloud business office, or CBO, in the business operations of cloud computing, including spending management, billing and optimization, as well as monitoring and visibility.
+> **[0:58](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/introduction-to-finops-technology?u=76281980&t=58)** Cloud [[Business Operations]] are the ability to support a central cloud business [[Microsoft Office|office]], or CBO, in the business operations of cloud computing, including spending management, billing and optimization, as well as monitoring and visibility.
 >
 > **[1:13](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/introduction-to-finops-technology?u=76281980&t=73)** It should be noted that these tools are just a list of general concepts and the features and functions that are being offered in support of FinOps processing.
 >
@@ -584,13 +575,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (17), business (4), data (1), [[Microsoft Office|Office]] (1), management (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (2), [[Business Operations]] (2), [[Microsoft Office|Office]] (1)
 > **Env Vars:** cbo (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [presenter] (1)
 
-#### Introduction to FinOps best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/introduction-to-finops-best-practices?u=76281980)
+#### [Introduction to FinOps best practices](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/introduction-to-finops-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -606,11 +596,11 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/introduction-to-finops-best-practices?u=76281980&t=36)** All must participate, FinOps is not just for a single organization or even a single person.
 >
-> **[0:41](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/introduction-to-finops-best-practices?u=76281980&t=41)** It's going to take sets of teams that will likely include finance, engineering, accounting, cloud operations, cloud security and a few other teams that may be specific to your business.
+> **[0:41](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/introduction-to-finops-best-practices?u=76281980&t=41)** It's going to take sets of teams that will likely include finance, engineering, accounting, cloud operations, [[Cloud Security]] and a few other teams that may be specific to your business.
 >
 > **[0:52](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/introduction-to-finops-best-practices?u=76281980&t=52)** Maintain a single source of truth.
 >
-> **[0:54](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/introduction-to-finops-best-practices?u=76281980&t=54)** This means that we have one centralized set of data that stores most of the FinOps data and we're not replicating that data so much of the data integrity and data accuracy becomes an issue.
+> **[0:54](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/introduction-to-finops-best-practices?u=76281980&t=54)** This means that we have one centralized set of data that stores most of the FinOps data and we're not replicating that data so much of the [[Data Integrity]] and data accuracy becomes an issue.
 >
 > **[1:06](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/introduction-to-finops-best-practices?u=76281980&t=66)** You'll find that if you're spreading the data across many different systems, even data that's redundant the data accuracy becomes a problem and the data won't be trusted.
 >
@@ -642,7 +632,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), cloud (6), business (6), teams (3), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Cloud Security]] (1), [[Data Integrity]] (1)
 > **CLI Commands:** find (3)
 > **Definitions:** means that (2), is an  (1)
 > **Analogies:** such as (2), for example (1)
@@ -655,8 +645,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Determining your business requirements and business case for FinOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/determining-your-business-requirements-and-business-case-for-finops?u=76281980)
+#### [Determining your business requirements and business case for FinOps](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/determining-your-business-requirements-and-business-case-for-finops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -706,7 +695,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/determining-your-business-requirements-and-business-case-for-finops?u=76281980&t=176)** Define the cost of taking no action, meaning that we're defining the state of the business that lacks FinOps.
 >
-> **[3:01](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/determining-your-business-requirements-and-business-case-for-finops?u=76281980&t=181)** This includes cloud costs overruns and surprisingly high cloud bills, failure to support an audit, no ability to optimize cloud spending, and no visibility into key costs and benefits of cloud computing.
+> **[3:01](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/determining-your-business-requirements-and-business-case-for-finops?u=76281980&t=181)** This includes cloud costs overruns and surprisingly high cloud bills, failure to support an audit, no ability to optimize cloud spending, and no visibility into key costs and benefits of [[Cloud Computing]].
 >
 > **[3:14](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/determining-your-business-requirements-and-business-case-for-finops?u=76281980&t=194)** By now you get the general idea.
 >
@@ -716,15 +705,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (23), cloud (7), leadership (2)
+> **Frameworks & Libraries:** [[Cloud Computing]] (1)
 > **Analogies:** such as (4), for instance (1), for example (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** eps (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Single-cloud cost tracking
-> [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/single-cloud-cost-tracking?u=76281980)
+#### [Single-cloud cost tracking](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/single-cloud-cost-tracking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -736,9 +724,9 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/single-cloud-cost-tracking?u=76281980&t=17)** While the cloud can be a single private cloud, public clouds are by far the most common way of leveraging a single cloud.
 >
-> **[0:25](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/single-cloud-cost-tracking?u=76281980&t=25)** Public clouds are able to provide many more services such as storage, compute, databases, AI, and so on.
+> **[0:25](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/single-cloud-cost-tracking?u=76281980&t=25)** Public clouds are able to provide many more services such as storage, compute, [[Databases]], AI, and so on.
 >
-> **[0:32](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/single-cloud-cost-tracking?u=76281980&t=32)** Private clouds typically only provide the most primitive of services, such as just storage and compute.
+> **[0:32](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/single-cloud-cost-tracking?u=76281980&t=32)** [[Private Clouds]] typically only provide the most primitive of services, such as just storage and compute.
 >
 > **[0:38](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/single-cloud-cost-tracking?u=76281980&t=38)** Single cloud deployment as far as the implementation of FinOps processes and tooling have the following general attributes that you need to consider for a single cloud deployment: The billing is largely through a single vendor and thus a single source, typically, the cloud provider.
 >
@@ -758,7 +746,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/single-cloud-cost-tracking?u=76281980&t=115)** Thus, you're not dealing with one way of billing for storage, say storage use versus another way of billing for storage say, time on the system.
 >
-> **[2:03](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/single-cloud-cost-tracking?u=76281980&t=123)** Since we typically have one single agreement with our one single cloud provider, it's consistent across the cloud services and thus easier to track spending.
+> **[2:03](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/single-cloud-cost-tracking?u=76281980&t=123)** Since we typically have one single agreement with our one single cloud provider, it's consistent across the [[Cloud Services]] and thus easier to track spending.
 >
 > **[2:13](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/single-cloud-cost-tracking?u=76281980&t=133)** Finally, there is no comparison between services across cloud, which is part of FinOps.
 >
@@ -790,23 +778,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (34), next (2), [[Databases]] (1), ai (1), [[Private Clouds]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[Private Clouds]] (1), [[Cloud Services]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1), for example (1)
 > **Warnings:** be aware (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - there (1)
 
-#### Multicloud and hybrid cloud cost tracking
-> [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/multicloud-and-hybrid-cloud-cost-tracking?u=76281980)
+#### [Multicloud and hybrid cloud cost tracking](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/multicloud-and-hybrid-cloud-cost-tracking?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/multicloud-and-hybrid-cloud-cost-tracking?u=76281980&t=0)** - [Instructor] For the majority of FinOps, you'll be dealing with complex cloud deployments, such as hybrid and multicloud.
 >
-> **[0:06](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/multicloud-and-hybrid-cloud-cost-tracking?u=76281980&t=6)** A hybrid cloud is a paired public and private cloud that provides different platforms based on the needs of the application solutions that run on them.
+> **[0:06](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/multicloud-and-hybrid-cloud-cost-tracking?u=76281980&t=6)** A [[Hybrid Cloud]] is a paired public and private cloud that provides different platforms based on the needs of the application solutions that run on them.
 >
-> **[0:15](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/multicloud-and-hybrid-cloud-cost-tracking?u=76281980&t=15)** Hybrid clouds continue to exist but are not being deployed at the same rate as multiclouds due to the declining use of private clouds.
+> **[0:15](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/multicloud-and-hybrid-cloud-cost-tracking?u=76281980&t=15)** Hybrid clouds continue to exist but are not being deployed at the same rate as multiclouds due to the declining use of [[Private Clouds]].
 >
 > **[0:22](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/multicloud-and-hybrid-cloud-cost-tracking?u=76281980&t=22)** We'll still include hybrid clouds in our FinOps considerations since you may run into them.
 >
@@ -818,7 +805,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/multicloud-and-hybrid-cloud-cost-tracking?u=76281980&t=53)** FinOps has to be adaptive to track cost and gather spending data by dealing with the differences of each cloud provider and each service, and providing a consistent way of looking at spending data that allows those leveraging FinOps to understand what's being spent, what benefits are being experienced, and what value ultimately is being returned to the business.
 >
-> **[1:15](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/multicloud-and-hybrid-cloud-cost-tracking?u=76281980&t=75)** With hybrid clouds, we're tracking spending and value being brought back to the business across a cloud where the company owns the hardware and software that makes up the private cloud versus public clouds that were delivered entirely as a service running on hardware and software that you don't own but leverage using a utility model, much the same as you do electricity or water for your home.
+> **[1:15](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/multicloud-and-hybrid-cloud-cost-tracking?u=76281980&t=75)** With hybrid clouds, we're tracking spending and value being brought back to the business across a cloud where the company owns the [[Hardware]] and software that makes up the private cloud versus public clouds that were delivered entirely as a service running on hardware and software that you don't own but leverage using a utility model, much the same as you do electricity or water for your home.
 >
 > **[1:39](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/multicloud-and-hybrid-cloud-cost-tracking?u=76281980&t=99)** Private clouds have their cost tracked very differently than public clouds, considering that we're not getting a monthly bill from a private cloud.
 >
@@ -834,7 +821,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/multicloud-and-hybrid-cloud-cost-tracking?u=76281980&t=154)** Thus, we're not going to repeat that here.
 >
-> **[2:37](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/multicloud-and-hybrid-cloud-cost-tracking?u=76281980&t=157)** FinOps typically uses tools, which track cost and usage, cost governance, forecasting, et cetera, and the tools hides the differences of each individual pricing and billing system that each cloud provider operates and aggregates the cost to clearly demonstrate the relationship of cost and return on value.
+> **[2:37](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/multicloud-and-hybrid-cloud-cost-tracking?u=76281980&t=157)** FinOps typically uses tools, which track cost and usage, cost governance, [[Forecasting]], et cetera, and the tools hides the differences of each individual pricing and billing system that each cloud provider operates and aggregates the cost to clearly demonstrate the relationship of cost and return on value.
 >
 > **[2:56](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/multicloud-and-hybrid-cloud-cost-tracking?u=76281980&t=176)** Indeed, the rise of multicloud has much to do with the rise of FinOps considering that those who had to manage and track cost including usage and value returned understood quickly that multicloud deployments are so complex and convoluted that they needed something more sophisticated than just a spreadsheet, which is what many enterprises were using prior to FinOps best practices and tooling appearing in the market.
 >
@@ -842,14 +829,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (13), [[Private Clouds]] (4), [[Hardware]] (3), data (2), business (2)
+> **Frameworks & Libraries:** [[Private Clouds]] (4), [[Hardware]] (3), [[Hybrid Cloud]] (1), [[Forecasting]] (1)
 > **Cross-References:** we covered (1), previous video (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Putting your cloud cost data to use
-> [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/putting-your-cloud-cost-data-to-use?u=76281980)
+#### [Putting your cloud cost data to use](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/putting-your-cloud-cost-data-to-use?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -857,7 +843,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/putting-your-cloud-cost-data-to-use?u=76281980&t=6)** There are several ways that cloud usage and cloud spending data can be leveraged.
 >
-> **[0:11](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/putting-your-cloud-cost-data-to-use?u=76281980&t=11)** Here are the most common that you'll leverage for cloud FinOps: budgetary compliance such as tracking costs and alerting users and systems when spending is trending above allocated cloud spending budgets, also enforcing spending limits around budgetary thresholds, business value analytics such as understanding how cloud spending is related to business values such as agility and innovation that are returning value to the business or even more tactical values such as increasing sales by providing customer service through the use of cloud services, forecasting, as previously covered, or leveraging the current and past data to build models that forecast cloud spending and value returned into the future, planning, which may leverage forecasting for looking at past
+> **[0:11](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/putting-your-cloud-cost-data-to-use?u=76281980&t=11)** Here are the most common that you'll leverage for cloud FinOps: budgetary compliance such as tracking costs and alerting users and systems when spending is trending above allocated cloud spending budgets, also enforcing spending limits around budgetary thresholds, business value analytics such as understanding how cloud spending is related to business values such as agility and innovation that are returning value to the business or even more tactical values such as increasing sales by providing customer service through the use of [[Cloud Services]], [[Forecasting]], as previously covered, or leveraging the current and past data to build models that forecast cloud spending and value returned into the future, planning, which may leverage forecasting for looking at past
 >
 > **[0:59](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/putting-your-cloud-cost-data-to-use?u=76281980&t=59)** spending patterns and thus provide better and more accurate budgetary planning moving forward, such as creating end of a year budgeting for cloud cost and cloud investments.
 >
@@ -869,13 +855,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (11), data (7), business (5), [[Forecasting]] (2), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Forecasting]] (2), [[Cloud Services]] (1)
 > **Analogies:** such as (5)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up cloud cost observability
-> [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/setting-up-cloud-cost-observability?u=76281980)
+#### [Setting up cloud cost observability](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/setting-up-cloud-cost-observability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -909,14 +894,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), cloud (6), business (2), [[Engineering]] (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is an  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up cloud cost governance
-> [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/setting-up-cloud-cost-governance?u=76281980)
+#### [Setting up cloud cost governance](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/setting-up-cloud-cost-governance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -944,14 +927,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (7), business (2), [[Automation]] (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Basic FinOps planning for the enterprise
-> [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/basic-finops-planning-for-the-enterprise?u=76281980)
+#### [Basic FinOps planning for the enterprise](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/basic-finops-planning-for-the-enterprise?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -989,27 +970,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (11), business (4), data (1)
 > **Cross-References:** coming up (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### FinOps and AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-and-ai?u=76281980)
+#### [FinOps and AI](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-and-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-and-ai?u=76281980&t=0)** - [Instructor] FinOps brings together finance, operations and engineering teams to manage and optimize cloud spending.
 >
-> **[0:08](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-and-ai?u=76281980&t=8)** Its core goal is to create visibility, enable accountability, and drive smarter financial decisions for cloud investments throughout the organization.
+> **[0:08](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-and-ai?u=76281980&t=8)** Its core goal is to create visibility, enable [[Accountability]], and drive smarter financial decisions for cloud investments throughout the organization.
 >
-> **[0:18](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-and-ai?u=76281980&t=18)** Modern FinOps relies increasingly on AI driven tools, which enhance the entire cloud cost management lifecycle from initial observability and analysis through forecasting to ongoing optimization.
+> **[0:18](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-and-ai?u=76281980&t=18)** Modern FinOps relies increasingly on AI driven tools, which enhance the entire cloud [[Cost Management]] lifecycle from initial observability and analysis through [[Forecasting]] to ongoing optimization.
 >
 > **[0:32](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-and-ai?u=76281980&t=32)** AI empowers FinOps by automating the collection and correlation of cloud usage, cost and performance data.
 >
-> **[0:40](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-and-ai?u=76281980&t=40)** Observability tools enabled by AI go beyond simple dashboards providing the ability to ask deep questions like the causes of unexpected spending spikes, or the business impact of certain technical issues.
+> **[0:40](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-and-ai?u=76281980&t=40)** Observability tools enabled by AI go beyond simple [[Dashboards]] providing the ability to ask deep questions like the causes of unexpected spending spikes, or the business impact of certain technical issues.
 >
-> **[0:56](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-and-ai?u=76281980&t=56)** This observability is crucial for understanding trends, allocating cost precisely, and supporting business decision making.
+> **[0:56](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-and-ai?u=76281980&t=56)** This observability is crucial for understanding trends, allocating cost precisely, and supporting [[Business Decision Making]].
 >
 > **[1:05](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-and-ai?u=76281980&t=65)** In the analysis phase, AI tools automatically surface patterns that are hard to see manually, such as underused resources or cost anomalies.
 >
@@ -1027,13 +1006,13 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-and-ai?u=76281980&t=137)** Metrics such as cost per customer, cloud efficiency and value multipliers allow IT and finance teams to measure the business impact of cloud strategies and investments over time.
 >
-> **[2:31](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-and-ai?u=76281980&t=151)** Continuous monitoring, governance and self-service reporting powered by AI helps FinOps teams sustain a culture of accountability and improvement.
+> **[2:31](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-and-ai?u=76281980&t=151)** [[Continuous Monitoring]], governance and self-service reporting powered by AI helps FinOps teams sustain a culture of accountability and improvement.
 >
 > **[2:44](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-and-ai?u=76281980&t=164)** In summary, the integration of AI with FinOps transforms cloud spend management from reactive reporting to proactive, value-driven strategy, enabling organizations to not only control costs, but also to measure, forecast, and optimize cloud investments for ongoing innovation and growth.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (10), ai (10), teams (4), business (4), data (3)
+> **Frameworks & Libraries:** [[Accountability]] (2), [[Forecasting]] (2), [[Cost Management]] (1), [[Dashboards]] (1), [[Business Decision Making]] (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1042,8 +1021,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cloud spending visibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-visibility?u=76281980)
+#### [Cloud spending visibility](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-visibility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1053,7 +1031,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-visibility?u=76281980&t=13)** When managing and understanding past and future cloud costs, organizations need to understand some or all of the following cloud spending visibility concepts.
 >
-> **[0:22](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-visibility?u=76281980&t=22)** We'll consider each of the following: cost allocation, communication, forecasting, accountability, forecasting costs.
+> **[0:22](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-visibility?u=76281980&t=22)** We'll consider each of the following: cost allocation, communication, [[Forecasting]], [[Accountability]], forecasting costs.
 >
 > **[0:31](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-visibility?u=76281980&t=31)** Let's start with cost allocation or the ability to label or tag cloud resources that users are consuming from a public cloud so they can be traced and tracked.
 >
@@ -1073,11 +1051,11 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-visibility?u=76281980&t=92)** Here, we need to figure a few things out.
 >
-> **[1:34](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-visibility?u=76281980&t=94)** First, the frequency of how we communicate a forecast of spending to those that are charged with overseeing these costs, or the consumer of cloud services, which can be a human or a system, that generates spending.
+> **[1:34](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-visibility?u=76281980&t=94)** First, the frequency of how we communicate a forecast of spending to those that are charged with overseeing these costs, or the consumer of [[Cloud Services]], which can be a human or a system, that generates spending.
 >
 > **[1:47](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-visibility?u=76281980&t=107)** Second, we need to determine what our forecasting model is and how it's reflective of how we're determining costs and modeling future spending.
 >
-> **[1:55](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-visibility?u=76281980&t=115)** This means creating automated models that can determine what spending will likely be, which may even leverage mechanisms such as AI, or artificial intelligence, to better model future spending.
+> **[1:55](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-visibility?u=76281980&t=115)** This means creating automated models that can determine what spending will likely be, which may even leverage mechanisms such as AI, or [[Artificial Intelligence (AI)|artificial intelligence]], to better model future spending.
 >
 > **[2:06](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-visibility?u=76281980&t=126)** Accountability, meaning that we need to provide visibility into who's using what resource or resources and holding those consumers accountable for the money spent.
 >
@@ -1091,20 +1069,19 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-visibility?u=76281980&t=183)** This can be achieved by automating cost monitoring and cost governance tooling where we're able to monitor ongoing spending, as well as put limitations or policies around spending, such as disallowing a single cloud user to allocate more than 10 gigabytes of storage at any given time.
 >
-> **[3:21](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-visibility?u=76281980&t=201)** While the root of cloud spending visibility is understanding what's being spent on cloud computing services, what will be spent, who will be spending it, also tracking all spending data in past, present, and forecasting spending moving forward.
+> **[3:21](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-visibility?u=76281980&t=201)** While the root of cloud spending visibility is understanding what's being spent on [[Cloud Computing]] services, what will be spent, who will be spending it, also tracking all spending data in past, present, and forecasting spending moving forward.
 >
 > **[3:36](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-visibility?u=76281980&t=216)** This is a complex set of approaches that depends on many tools and automated systems that leads to the core objective for FinOps, to optimize costs, to bring the most value to the business.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (15), [[Forecasting]] (7), data (3), [[Accountability]] (2), ai (1)
+> **Frameworks & Libraries:** [[Forecasting]] (7), [[Accountability]] (2), [[Cloud Services]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Cloud Computing]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud spending benchmarks
-> [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-benchmarks?u=76281980)
+#### [Cloud spending benchmarks](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-benchmarks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1112,13 +1089,13 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-benchmarks?u=76281980&t=7)** These can be widely published industry benchmarks or benchmarks around specific set of companies using cloud that may be similar to your company.
 >
-> **[0:16](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-benchmarks?u=76281980&t=16)** This includes comparing costs and benefits such as core operational costs or what you're spending on specific cloud services, such as storage or traditional services such as hardware and software running within a data center.
+> **[0:16](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-benchmarks?u=76281980&t=16)** This includes comparing costs and benefits such as core operational costs or what you're spending on specific [[Cloud Services]], such as storage or traditional services such as [[Hardware]] and software running within a data center.
 >
 > **[0:29](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-benchmarks?u=76281980&t=29)** While it may seem strange to compare non-cloud related spending, again, we're benchmarking our cloud spending with other options including using traditional computing approaches.
 >
 > **[0:39](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-benchmarks?u=76281980&t=39)** People costs are what it costs for talent to build, run and govern and secure your cloud-based system.
 >
-> **[0:46](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-benchmarks?u=76281980&t=46)** Again, comparing what you're spending and what other similar organizations using cloud computing are spending.
+> **[0:46](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-benchmarks?u=76281980&t=46)** Again, comparing what you're spending and what other similar organizations using [[Cloud Computing]] are spending.
 >
 > **[0:52](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-benchmarks?u=76281980&t=52)** Quality of service or QoS, uptime and performance of the cloud-based assets such as compared to quality of service of cloud deployments you're looking to benchmark against.
 >
@@ -1142,19 +1119,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (17), data (3), business (3), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Cloud Services]] (1), [[Hardware]] (1), [[Cloud Computing]] (1)
 > **Analogies:** such as (4), similar to (1)
 > **Definitions:** refers to (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Communicating the FinOps plan to operators and stakeholders
-> [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/communicating-the-finops-plan-to-operators-and-stakeholders?u=76281980)
+#### [Communicating the FinOps plan to operators and stakeholders](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/communicating-the-finops-plan-to-operators-and-stakeholders?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/communicating-the-finops-plan-to-operators-and-stakeholders?u=76281980&t=0)** - [Instructor] It's one thing to create a FinOps plan, it's another thing to suggest that FinOps plan to those that need to carry it out.
 >
-> **[0:07](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/communicating-the-finops-plan-to-operators-and-stakeholders?u=76281980&t=7)** This communication needs to include operators of the cloud to have the power to implement the tactical aspects of FinOps, such as cloud monitoring and observability, as well as the leaders of the organization who will leverage cloud computing or the stakeholders.
+> **[0:07](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/communicating-the-finops-plan-to-operators-and-stakeholders?u=76281980&t=7)** This communication needs to include operators of the cloud to have the power to implement the tactical aspects of FinOps, such as cloud monitoring and observability, as well as the leaders of the organization who will leverage [[Cloud Computing]] or the stakeholders.
 >
 > **[0:22](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/communicating-the-finops-plan-to-operators-and-stakeholders?u=76281980&t=22)** So how should you go about doing this?
 >
@@ -1194,15 +1170,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), data (2), power (1), business (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (1)
 > **Analogies:** such as (3), for example (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** pro tip (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identifying the steps in your FinOps plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/identifying-the-steps-in-your-finops-plan?u=76281980)
+#### [Identifying the steps in your FinOps plan](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/identifying-the-steps-in-your-finops-plan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1240,14 +1215,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), business (2), next (1)
 > **Analogies:** such as (1), picture (1), for example (1)
 > **Definitions:** means that (1), is a  (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Assigning roles in your FinOps plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/assigning-roles-in-your-finops-plan?u=76281980)
+#### [Assigning roles in your FinOps plan](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/assigning-roles-in-your-finops-plan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1263,7 +1236,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/assigning-roles-in-your-finops-plan?u=76281980&t=40)** A decision maker who may understand FinOps and how it's being deployed, but do not always interact with FinOps tools on an ongoing basis.
 >
-> **[0:50](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/assigning-roles-in-your-finops-plan?u=76281980&t=50)** These people in the organization may include the head of finance, meaning the CFO who's responsible for the whole FinOps strategy, forecasting and FinOps reporting.
+> **[0:50](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/assigning-roles-in-your-finops-plan?u=76281980&t=50)** These people in the organization may include the head of finance, meaning the CFO who's responsible for the whole FinOps strategy, [[Forecasting]] and FinOps reporting.
 >
 > **[1:01](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/assigning-roles-in-your-finops-plan?u=76281980&t=61)** They may deal with other sea-level executives on a daily basis and are the interface to the board of directors, or the investors, and or stockholders.
 >
@@ -1275,7 +1248,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/assigning-roles-in-your-finops-plan?u=76281980&t=96)** Finally, the doers.
 >
-> **[1:38](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/assigning-roles-in-your-finops-plan?u=76281980&t=98)** These are those that design, build and test Cloud-based applications, including architects, DevOps engineers, test engineers and operational engineers that are responsible for their proper resource usage in their own responsibilities daily.
+> **[1:38](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/assigning-roles-in-your-finops-plan?u=76281980&t=98)** These are those that design, build and test Cloud-based applications, including architects, [[DevOps]] engineers, test engineers and operational engineers that are responsible for their proper resource usage in their own responsibilities daily.
 >
 > **[1:52](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/assigning-roles-in-your-finops-plan?u=76281980&t=112)** They actually carry out most of the FinOps data gathering and optimization needed to pull off a solid FinOps plan.
 >
@@ -1297,7 +1270,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (3), leadership (1), [[Forecasting]] (1), next (1), teams (1)
+> **Frameworks & Libraries:** [[Forecasting]] (1), [[DevOps]] (1)
 > **Env Vars:** cfo (2), cio (1)
 > **CLI Commands:** find (2)
 > **Prerequisites:** you need to have (1), you'll need (1)
@@ -1305,8 +1278,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - assigning (1)
 
-#### FinOps and compliance and agreements
-> [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-and-compliance-and-agreements?u=76281980)
+#### [FinOps and compliance and agreements](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-and-compliance-and-agreements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1316,7 +1288,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-and-compliance-and-agreements?u=76281980&t=16)** For example, some countries don't allow for private data to be sent outside of the country.
 >
-> **[0:21](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-and-compliance-and-agreements?u=76281980&t=21)** Privacy policies and other agreements and contracts that you may have with customers or suppliers.
+> **[0:21](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-and-compliance-and-agreements?u=76281980&t=21)** [[Privacy]] policies and other agreements and contracts that you may have with customers or suppliers.
 >
 > **[0:28](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-and-compliance-and-agreements?u=76281980&t=28)** For example, if you signed a privacy agreement with a customer, then you'll need to live up to that agreement, including terms and duration.
 >
@@ -1326,7 +1298,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-and-compliance-and-agreements?u=76281980&t=56)** And thus we need to consider the cost of doing so as part of the FinOps planning and deployment.
 >
-> **[1:02](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-and-compliance-and-agreements?u=76281980&t=62)** For instance, if we have to express the data from a cloud provider as part of the regulatory compliance where the data needs to be stored on two different providers to create redundancy in case of loss data then we need to understand the cost of doing that and build it into our FinOps planning and deployment.
+> **[1:02](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-and-compliance-and-agreements?u=76281980&t=62)** For instance, if we have to express the data from a cloud provider as part of the [[Regulatory Compliance]] where the data needs to be stored on two different providers to create redundancy in case of loss data then we need to understand the cost of doing that and build it into our FinOps planning and deployment.
 >
 > **[1:20](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-and-compliance-and-agreements?u=76281980&t=80)** Other things that we need to consider is the cost of logging and supportive audits and special encryption requirements.
 >
@@ -1340,25 +1312,24 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-and-compliance-and-agreements?u=76281980&t=126)** You'll find that each cloud provider has their own way of billing and pricing for their services.
 >
-> **[2:11](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-and-compliance-and-agreements?u=76281980&t=131)** Agreements need to be considered carefully when negotiating with a cloud provider or understanding the terms and prices to be built into the cloud cost monitoring and observability tooling so we can accurately determine what the cloud services cost, will cost, and how to properly forecast spending.
+> **[2:11](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-and-compliance-and-agreements?u=76281980&t=131)** Agreements need to be considered carefully when negotiating with a cloud provider or understanding the terms and prices to be built into the cloud cost monitoring and observability tooling so we can accurately determine what the [[Cloud Services]] cost, will cost, and how to properly forecast spending.
 >
 > **[2:30](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-and-compliance-and-agreements?u=76281980&t=150)** The reviewing agreement aspect of FinOps is often overlooked, and if so, you do so at your peril.
 >
-> **[2:39](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-and-compliance-and-agreements?u=76281980&t=159)** Missing these items means cost overruns due to not understanding regulations or inaccurate cloud service forecasting due to someone not understanding the details of the agreement with the cloud provider.
+> **[2:39](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-and-compliance-and-agreements?u=76281980&t=159)** Missing these items means cost overruns due to not understanding regulations or inaccurate cloud service [[Forecasting]] due to someone not understanding the details of the agreement with the cloud provider.
 >
 > **[2:51](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-and-compliance-and-agreements?u=76281980&t=171)** Don't neglect this aspect of FinOps.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), cloud (9), [[Privacy]] (2), express (1), [[Regulatory Compliance]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (2), [[Regulatory Compliance]] (1), [[Cloud Services]] (1), [[Forecasting]] (1)
 > **Analogies:** for example (2), for instance (1), such as (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### FinOps collaboration and culture
-> [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-collaboration-and-culture?u=76281980)
+#### [FinOps collaboration and culture](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-collaboration-and-culture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1394,19 +1365,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [narrator] (1)
 
-#### Challenge: Approach cloud spending visibility for Henry's Hammocks
-> [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/challenge-approach-cloud-spending-visibility-for-henry-s-hammocks?u=76281980)
+#### [Challenge: Approach cloud spending visibility for Henry's Hammocks](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/challenge-approach-cloud-spending-visibility-for-henry-s-hammocks?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/challenge-approach-cloud-spending-visibility-for-henry-s-hammocks?u=76281980&t=0)** - [Instructor] Your challenge.
 >
-> **[0:06](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/challenge-approach-cloud-spending-visibility-for-henry-s-hammocks?u=76281980&t=6)** You've been hired as a cloud computing consultant, specializing in cloud FinOps to work with a company called Henry's Hammocks or HH for short.
+> **[0:06](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/challenge-approach-cloud-spending-visibility-for-henry-s-hammocks?u=76281980&t=6)** You've been hired as a [[Cloud Computing]] consultant, specializing in cloud FinOps to work with a company called Henry's Hammocks or HH for short.
 >
 > **[0:15](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/challenge-approach-cloud-spending-visibility-for-henry-s-hammocks?u=76281980&t=15)** You've learned on their website that HH is a direct to consumer, D2C, company that sells custom high-end hammocks to hammock enthusiasts throughout the world.
 >
@@ -1426,9 +1395,9 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/challenge-approach-cloud-spending-visibility-for-henry-s-hammocks?u=76281980&t=79)** Janet states that HH is moving to cloud-based platforms from a small data center housed within the hammock production building.
 >
-> **[1:27](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/challenge-approach-cloud-spending-visibility-for-henry-s-hammocks?u=76281980&t=87)** She further states that they will be moving 22 applications, including inventory control, production management, accounting and sales management to the Amazon Web Services cloud.
+> **[1:27](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/challenge-approach-cloud-spending-visibility-for-henry-s-hammocks?u=76281980&t=87)** She further states that they will be moving 22 applications, including inventory control, production management, accounting and sales management to the [[Amazon Web Services (AWS)|Amazon Web Services]] cloud.
 >
-> **[1:40](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/challenge-approach-cloud-spending-visibility-for-henry-s-hammocks?u=76281980&t=100)** 10 databases, including an existing Oracle database, supporting the inventory and production management applications, and MySQL databases supporting the remainder of the applications.
+> **[1:40](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/challenge-approach-cloud-spending-visibility-for-henry-s-hammocks?u=76281980&t=100)** 10 [[Databases]], including an existing Oracle database, supporting the inventory and production management applications, and [[MySQL]] databases supporting the remainder of the applications.
 >
 > **[1:53](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/challenge-approach-cloud-spending-visibility-for-henry-s-hammocks?u=76281980&t=113)** Janet explains that HH understands that before they complete their move to a public cloud that they need to establish FinOps approaches, tooling and a culture that is best able to support FinOps.
 >
@@ -1460,7 +1429,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (10), management (3), [[Databases]] (2), business (1), data (1)
+> **Frameworks & Libraries:** [[Databases]] (2), [[Cloud Computing]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[MySQL]] (1)
 > **Env Vars:** d2c (2), cio (1), ceo (1)
 > **CLI Commands:** mysql (1)
 > **UI Navigation:** go to (1)
@@ -1469,8 +1438,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Review the potential solutions you can leverage
-> [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/solution-review-the-potential-solutions-you-can-leverage-15251177?u=76281980)
+#### [Solution: Review the potential solutions you can leverage](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/solution-review-the-potential-solutions-you-can-leverage-15251177?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1482,7 +1450,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/solution-review-the-potential-solutions-you-can-leverage-15251177?u=76281980&t=22)** There is no need to list the answers verbatim only that you're able to explain the reasons you feel strongly about some concepts over others.
 >
-> **[0:30](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/solution-review-the-potential-solutions-you-can-leverage-15251177?u=76281980&t=30)** Thus, you can certainly say predicting cloud spending as another way to describe forecasting which would be acceptable because functionally it's the same concept, thus like horseshoe getting close counts.
+> **[0:30](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/solution-review-the-potential-solutions-you-can-leverage-15251177?u=76281980&t=30)** Thus, you can certainly say predicting cloud spending as another way to describe [[Forecasting]] which would be acceptable because functionally it's the same concept, thus like horseshoe getting close counts.
 >
 > **[0:44](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/solution-review-the-potential-solutions-you-can-leverage-15251177?u=76281980&t=44)** Again, we're only dealing with the rudimentary information here that we understand about HH.
 >
@@ -1520,7 +1488,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/solution-review-the-potential-solutions-you-can-leverage-15251177?u=76281980&t=178)** This is a compelling concept considering that HH will need a sound forecasting mechanism and approach to make sure that most of the spending is planned for and nothing is a surprise.
 >
-> **[3:09](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/solution-review-the-potential-solutions-you-can-leverage-15251177?u=76281980&t=189)** Accountability or holding those cloud service consumers accountable for using cloud resources, and thus spending money.
+> **[3:09](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/solution-review-the-potential-solutions-you-can-leverage-15251177?u=76281980&t=189)** [[Accountability]] or holding those cloud service consumers accountable for using cloud resources, and thus spending money.
 >
 > **[3:15](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/solution-review-the-potential-solutions-you-can-leverage-15251177?u=76281980&t=195)** This may sound brutal, but you may point out to HH that we need to have accountability for any machine or human that leverages a cloud service.
 >
@@ -1546,7 +1514,7 @@ created: 2026-05-02
 >
 > **[5:00](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/solution-review-the-potential-solutions-you-can-leverage-15251177?u=76281980&t=300)** Cloud cost governance is the ability to place limitations on spending, meaning that we are able to create preset cost government policies that ensure that budgetary limits are not exceeded.
 >
-> **[5:11](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/solution-review-the-potential-solutions-you-can-leverage-15251177?u=76281980&t=311)** For example, spending more than $10,000 a month on cloud storage for a specific application.
+> **[5:11](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/solution-review-the-potential-solutions-you-can-leverage-15251177?u=76281980&t=311)** For example, spending more than $10,000 a month on [[Cloud Storage]] for a specific application.
 >
 > **[5:17](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/solution-review-the-potential-solutions-you-can-leverage-15251177?u=76281980&t=317)** The idea here is that we're using cloud cost consumption information which is monitored by a cloud cost monitoring system or a technology that's able to gather spending data directly from the cloud provider and act upon it.
 >
@@ -1570,7 +1538,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (39), data (6), [[Forecasting]] (4), [[Accountability]] (3), business (1)
+> **Frameworks & Libraries:** [[Forecasting]] (4), [[Accountability]] (3), [[Cloud Storage]] (2)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (2), such as (1)
 > **Definitions:** is a  (2)
@@ -1584,8 +1552,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cloud spending observability
-> [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-observability?u=76281980)
+#### [Cloud spending observability](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-observability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1617,13 +1584,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (3), data (3), [[Security]] (1)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud spending analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-analysis?u=76281980)
+#### [Cloud spending analysis](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1631,21 +1596,21 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-analysis?u=76281980&t=9)** Let's explore what we can do, or better yet, what finops technology can do with that data.
 >
-> **[0:16](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-analysis?u=76281980&t=16)** The core value here is analysis of that spending, not only to determine the obvious, such as how much is being spent, on what cloud service over what period of time, but insights that may be even more useful, such as understanding how to optimize spending to minimize cloud computing costs.
+> **[0:16](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-analysis?u=76281980&t=16)** The core value here is analysis of that spending, not only to determine the obvious, such as how much is being spent, on what cloud service over what period of time, but insights that may be even more useful, such as understanding how to optimize spending to minimize [[Cloud Computing]] costs.
 >
 > **[0:35](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-analysis?u=76281980&t=35)** Basically, you can report on cloud spending in any way that you need to understand it.
 >
-> **[0:40](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-analysis?u=76281980&t=40)** This is done through the mining of cloud spending data that is built over time using some business intelligence tool, or more likely a purpose built finops tool that allows for specifically the analysis and understanding of cloud spending data.
+> **[0:40](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-analysis?u=76281980&t=40)** This is done through the mining of cloud spending data that is built over time using some [[Business Intelligence (BI)|business intelligence]] tool, or more likely a purpose built finops tool that allows for specifically the analysis and understanding of cloud spending data.
 >
 > **[0:57](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-analysis?u=76281980&t=57)** Later in this course, we'll look at a few of these tools as demos.
 >
 > **[1:01](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-analysis?u=76281980&t=61)** There are dozens of these types of systems on the market, either for specific cloud providers or working across cloud platforms.
 >
-> **[1:08](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-analysis?u=76281980&t=68)** What's important here is that we find meaningful patterns in the data and allow us to determine insights that lead to the optimization of cloud spending, and having insights into existing cloud spending, past cloud spending, or perhaps even cloud spending planning through spending forecasting, that may be also supported by the same finops tools.
+> **[1:08](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-analysis?u=76281980&t=68)** What's important here is that we find meaningful patterns in the data and allow us to determine insights that lead to the optimization of cloud spending, and having insights into existing cloud spending, past cloud spending, or perhaps even cloud spending planning through spending [[Forecasting]], that may be also supported by the same finops tools.
 >
 > **[1:30](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-analysis?u=76281980&t=90)** Examples of these types of analysis may include cloud spending via cloud instances that were not shut down after use and remained running, cloud service usage that cost more than originally inspected, which may highlight a forecasting error that needs to be resolved.
 >
-> **[1:47](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-analysis?u=76281980&t=107)** Trends on cloud spending over time, including enterprises spending per cloud brands, such as AWS, versus Microsoft, versus Google.
+> **[1:47](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-analysis?u=76281980&t=107)** Trends on cloud spending over time, including enterprises spending per cloud brands, such as AWS, versus [[Microsoft]], versus [[Google]].
 >
 > **[1:57](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-analysis?u=76281980&t=117)** Also, how these trends will likely carry on into the future including opportunities to save money by renegotiating a discount for spending more than you did the previous year, or setting different terms.
 >
@@ -1655,7 +1620,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (16), data (11), [[Forecasting]] (2), [[Business Intelligence (BI)|Business intelligence]] (1), aws (1)
+> **Frameworks & Libraries:** [[Forecasting]] (2), [[Cloud Computing]] (1), [[Business Intelligence (BI)|Business intelligence]] (1), [[Microsoft]] (1), [[Google]] (1)
 > **CLI Commands:** find (2), aws (1)
 > **Analogies:** such as (3)
 > **Env Vars:** aws (1)
@@ -1663,12 +1628,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud spending forecasting
-> [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-forecasting?u=76281980)
+#### [Cloud spending forecasting](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-forecasting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-forecasting?u=76281980&t=0)** - [Instructor] Forecasting is predicting as accurately as possible, future outcomes.
+> **[0:00](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-forecasting?u=76281980&t=0)** - [Instructor] [[Forecasting]] is predicting as accurately as possible, future outcomes.
 >
 > **[0:04](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-forecasting?u=76281980&t=4)** We're all aware of whether forecasters who can tell you the likely temperature the next day are sometimes further out.
 >
@@ -1680,7 +1644,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-forecasting?u=76281980&t=31)** Thus, this is about getting as close as possible to what the likely outcome will be.
 >
-> **[0:37](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-forecasting?u=76281980&t=37)** We do cloud spending forecasting to create a plan around how money will be spent on cloud computing services moving forward.
+> **[0:37](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-forecasting?u=76281980&t=37)** We do cloud spending forecasting to create a plan around how money will be spent on [[Cloud Computing]] services moving forward.
 >
 > **[0:43](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-forecasting?u=76281980&t=43)** This allows us to adhere to a budget and an understanding of what will be spent when, and for what, over a period of time.
 >
@@ -1692,7 +1656,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-forecasting?u=76281980&t=84)** Let's take a look at an example.
 >
-> **[1:25](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-forecasting?u=76281980&t=85)** Say that we're looking to forecast cloud spending for the next year, and we'll be limiting our forecast to cloud storage spending for one specific cloud provider, such as AWS.
+> **[1:25](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-forecasting?u=76281980&t=85)** Say that we're looking to forecast cloud spending for the next year, and we'll be limiting our forecast to [[Cloud Storage]] spending for one specific cloud provider, such as AWS.
 >
 > **[1:36](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-forecasting?u=76281980&t=96)** We create the forecasting model knowing a few things that'll help us create a spending forecast for just that specific service.
 >
@@ -1716,15 +1680,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (16), [[Forecasting]] (11), data (5), business (3), next (2)
+> **Frameworks & Libraries:** [[Forecasting]] (11), [[Cloud Storage]] (3), [[Cloud Computing]] (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud spending optimization processes and metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-optimization-processes-and-metrics?u=76281980)
+#### [Cloud spending optimization processes and metrics](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-optimization-processes-and-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1732,7 +1695,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-optimization-processes-and-metrics?u=76281980&t=15)** Metrics are key performance indicators or KPIs that allow us to measure something over time that reflects how well or not so well are cloud service's cost utilization is.
 >
-> **[0:27](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-optimization-processes-and-metrics?u=76281980&t=27)** Examples of metrics would include cloud spending per customer or what we're paying for cloud services and support of just a single customer.
+> **[0:27](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-optimization-processes-and-metrics?u=76281980&t=27)** Examples of metrics would include cloud spending per customer or what we're paying for [[Cloud Services]] and support of just a single customer.
 >
 > **[0:35](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-optimization-processes-and-metrics?u=76281980&t=35)** This is helpful because it's focused on the success of the business as well as cloud spending utilization.
 >
@@ -1744,7 +1707,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-optimization-processes-and-metrics?u=76281980&t=64)** This is due to the fact that we're looking at cloud spending as related to more traditional IT spending, looking for indications that it's more or less optimized.
 >
-> **[1:13](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-optimization-processes-and-metrics?u=76281980&t=73)** This gives you a good idea as to whether or not cloud computing is earning its key.
+> **[1:13](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-optimization-processes-and-metrics?u=76281980&t=73)** This gives you a good idea as to whether or not [[Cloud Computing]] is earning its key.
 >
 > **[1:18](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-optimization-processes-and-metrics?u=76281980&t=78)** Of course, there are dozens of other spending metrics that you can track.
 >
@@ -1754,7 +1717,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-optimization-processes-and-metrics?u=76281980&t=98)** For example, cloud efficiency as a metric not only tells you if the cloud spending is close to being optimized, which is good, but can provide you with valuable knowledge and support of go-to-market decisions.
 >
-> **[1:50](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-optimization-processes-and-metrics?u=76281980&t=110)** For instance, how to price some products to generate the best cash flow and income.
+> **[1:50](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-optimization-processes-and-metrics?u=76281980&t=110)** For instance, how to price some [[Microsoft Products|products]] to generate the best cash flow and income.
 >
 > **[1:55](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-optimization-processes-and-metrics?u=76281980&t=115)** We can express this metric as cost of goods sold per customer, divided by revenue per customer, which equals cloud efficiency.
 >
@@ -1776,19 +1739,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (24), business (4), data (2), [[Microsoft Products|Products]] (1), express (1)
+> **Frameworks & Libraries:** [[Cloud Services]] (1), [[Cloud Computing]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** for example (2), picture (1), for instance (1)
 > **Versions:** 0.50 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud spending optimization technology
-> [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-optimization-technology?u=76281980)
+#### [Cloud spending optimization technology](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-optimization-technology?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-optimization-technology?u=76281980&t=0)** - [Instructor] Cloud spending optimization technology.
 >
-> **[0:02](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-optimization-technology?u=76281980&t=2)** Some of the confusion around this category is that technologies that optimize cloud spending call themselves many things, such as cloud cost intelligence platforms, cloud cost monitoring and reporting platforms, cloud cost management tools, cloud spending monitoring and governance.
+> **[0:02](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-optimization-technology?u=76281980&t=2)** Some of the confusion around this category is that technologies that optimize cloud spending call themselves many things, such as cloud cost intelligence platforms, cloud cost monitoring and reporting platforms, cloud [[Cost Management]] tools, cloud spending monitoring and governance.
 >
 > **[0:20](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-optimization-technology?u=76281980&t=20)** You get the idea that its more helpful to consider what the tools do over what they are called.
 >
@@ -1796,7 +1758,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-optimization-technology?u=76281980&t=36)** These tools have different and similar features and functions, depending on what the tool offers in terms of monitoring, reporting, cost governance, and supportive metrics in KPIs.
 >
-> **[0:47](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-optimization-technology?u=76281980&t=47)** Generally speaking, these cloud spending observability tools provide the following features, cloud spending monitoring and data retention, cloud spending governance, including enforcing spending limits, cloud spending analysis and reporting using metrics or KPIs, cloud spending forecasting and planning, cloud spending alerting and self-healing processing.
+> **[0:47](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-optimization-technology?u=76281980&t=47)** Generally speaking, these cloud spending observability tools provide the following features, cloud spending monitoring and data retention, cloud spending governance, including enforcing spending limits, cloud spending analysis and reporting using metrics or KPIs, cloud spending [[Forecasting]] and planning, cloud spending alerting and self-healing processing.
 >
 > **[1:08](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-optimization-technology?u=76281980&t=68)** Of course, there are many features that may be unique to one tool and not others.
 >
@@ -1804,7 +1766,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-optimization-technology?u=76281980&t=83)** As part of this course, we'll look at a few tools using demos so you can see firsthand what these tools look like and what they do.
 >
-> **[1:31](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-optimization-technology?u=76281980&t=91)** The core objective with this technology is to support your ability to monitor spending, understand spending patterns, and optimize spending, ensuring that you're getting the most value from each dollar spent on cloud services.
+> **[1:31](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-optimization-technology?u=76281980&t=91)** The core objective with this technology is to support your ability to monitor spending, understand spending patterns, and optimize spending, ensuring that you're getting the most value from each dollar spent on [[Cloud Services]].
 >
 > **[1:45](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-optimization-technology?u=76281980&t=105)** I suspect that many organizations will need one or two tools to get a handle on more complex spending patterns across cloud providers.
 >
@@ -1816,12 +1778,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (17), data (2), [[Cost Management]] (1), [[Forecasting]] (1)
+> **Frameworks & Libraries:** [[Cost Management]] (1), [[Forecasting]] (1), [[Cloud Services]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud spending optimization for business value
-> [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-optimization-for-business-value?u=76281980)
+#### [Cloud spending optimization for business value](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-optimization-for-business-value?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1839,7 +1800,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-optimization-for-business-value?u=76281980&t=41)** Measuring value that's being created by cloud spending is a bit more complex but not that difficult if you break things down.
 >
-> **[0:48](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-optimization-for-business-value?u=76281980&t=48)** The core objective of understanding the business value that we're getting from spending includes looking at how cloud spending optimization is generating increasing or decreasing value of the business, looking at how spending optimization can be changed to create more value or drive more value, looking for opportunities for innovative ways to deal with cloud spending, including shifting spending to new cloud services to generate more value for renovation.
+> **[0:48](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-optimization-for-business-value?u=76281980&t=48)** The core objective of understanding the business value that we're getting from spending includes looking at how cloud spending optimization is generating increasing or decreasing value of the business, looking at how spending optimization can be changed to create more value or drive more value, looking for opportunities for innovative ways to deal with cloud spending, including shifting spending to new [[Cloud Services]] to generate more value for renovation.
 >
 > **[1:16](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-optimization-for-business-value?u=76281980&t=76)** The best way to understand this is to walk through an example.
 >
@@ -1879,19 +1840,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (27), cloud (21)
+> **Frameworks & Libraries:** [[Cloud Services]] (1)
 > **Versions:** 1.50 (1), 1.2 (1), 1.9 (1)
 > **Definitions:** is a  (2), known as (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud spending AI tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-ai-tools?u=76281980)
+#### [Cloud spending AI tools](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-ai-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-ai-tools?u=76281980&t=0)** - [Narrator] AI-powered finops tools are transforming cloud cost management by bringing advanced observability, analysis, forecasting, and optimization capabilities to organizations of all sizes.
+> **[0:00](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-ai-tools?u=76281980&t=0)** - [Narrator] AI-powered finops tools are transforming cloud [[Cost Management]] by bringing advanced observability, analysis, [[Forecasting]], and optimization capabilities to organizations of all sizes.
 >
 > **[0:12](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-ai-tools?u=76281980&t=12)** At the core, these tools automatically collect and correlate diverse cloud resources and spend data, offering clear financial and operational insights for both business and technical teams.
 >
@@ -1899,15 +1859,15 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-ai-tools?u=76281980&t=29)** AWS Cost Explorer provides machine learning based recommendations for right sizing resources, and uncovering spend anomalies.
 >
-> **[0:37](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-ai-tools?u=76281980&t=37)** Microsoft Azure Cost Management delivers automated reporting, forecasting, and optimization suggestions, powered by analytics, Google Cloud's Cost Management suite leverages AI to forecast costs and identify savings opportunities.
+> **[0:37](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-ai-tools?u=76281980&t=37)** [[Microsoft Azure]] Cost Management delivers automated reporting, forecasting, and optimization suggestions, powered by analytics, [[Google Cloud Platform (GCP)|Google Cloud]]'s Cost Management suite leverages AI to forecast costs and identify savings opportunities.
 >
-> **[0:54](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-ai-tools?u=76281980&t=54)** Third party solutions like VMware's CloudHealth, Apptio's Cloudability, and Spot by NetApp further extends these capabilities with features such as predictive analytics, custom KPIs, or key performance indicators, and multi-cloud spend visibility.
+> **[0:54](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-ai-tools?u=76281980&t=54)** Third party solutions like VMware's CloudHealth, Apptio's Cloudability, and Spot by NetApp further extends these capabilities with features such as [[Predictive Analytics]], custom KPIs, or key performance indicators, and multi-cloud spend visibility.
 >
 > **[1:11](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-ai-tools?u=76281980&t=71)** These platforms use embedded AI and machine learning to recognize usage patterns, spot over spending, and suggest concrete actions, such as adjusting discounts, cleaning up unused resources, or modifying reserve instance purchases.
 >
-> **[1:27](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-ai-tools?u=76281980&t=87)** Beyond reporting, AI tools directly support finops by tying cost to specific teams, projects, or business units, making it simple to enforce financial accountability across the organization.
+> **[1:27](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-ai-tools?u=76281980&t=87)** Beyond reporting, AI tools directly support finops by tying cost to specific teams, projects, or business units, making it simple to enforce financial [[Accountability]] across the organization.
 >
-> **[1:41](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-ai-tools?u=76281980&t=101)** Dashboards, automated alerts and self-service analytics allow users to quickly answer questions about who spent what, where, and why, Supporting better governance and operational decision making.
+> **[1:41](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-ai-tools?u=76281980&t=101)** [[Dashboards]], automated alerts and self-service analytics allow users to quickly answer questions about who spent what, where, and why, Supporting better governance and operational decision making.
 >
 > **[1:55](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-ai-tools?u=76281980&t=115)** with their robust forecasting engines, These tools project future spending based on historical patterns, current trends and planned business changes, which helps organizations set realistic budgets and avoid surprise overruns.
 >
@@ -1921,14 +1881,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), cloud (7), business (5), [[Cost Management]] (3), [[Forecasting]] (3)
+> **Frameworks & Libraries:** [[Cost Management]] (3), [[Forecasting]] (3), [[Microsoft Azure]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Predictive Analytics]] (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** aws (1), make (1)
 > **Env Vars:** aws (1)
 > **Speakers:** - [narrator] (1)
 
-#### Cloud spending governance using AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-governance-using-ai?u=76281980)
+#### [Cloud spending governance using AI](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-governance-using-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1936,9 +1895,9 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-governance-using-ai?u=76281980&t=13)** Governance in this context means establishing processes, oversight, and automated controls to ensure cloud spending aligns with business goals, is allocated responsibly, and produces measurable value.
 >
-> **[0:26](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-governance-using-ai?u=76281980&t=26)** AI-powered cloud spending governance starts with robust observability, the continuous collection, and real-time correlation of data on cloud usage, costs, and operational events.
+> **[0:26](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-governance-using-ai?u=76281980&t=26)** AI-powered cloud spending governance starts with robust observability, the continuous collection, and [[Real-Time]] correlation of data on cloud usage, costs, and operational events.
 >
-> **[0:37](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-governance-using-ai?u=76281980&t=37)** With advanced observability tools, organizations can move far beyond basic spending dashboards.
+> **[0:37](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-governance-using-ai?u=76281980&t=37)** With advanced observability tools, organizations can move far beyond basic spending [[Dashboards]].
 >
 > **[0:43](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-governance-using-ai?u=76281980&t=43)** They can ask deep questions about spending patterns, detect unusual spikes or waste, and understand the business impact of operational changes or performance issues.
 >
@@ -1948,11 +1907,11 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-governance-using-ai?u=76281980&t=71)** These tools can also automate reporting and access controls, ensuring spending data is shared securely with relevant teams.
 >
-> **[1:21](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-governance-using-ai?u=76281980&t=81)** In the realm of cloud cost analysis, AI allows for continuous examination of spend data at a granular level, such as per department, project or application, making, cost allocation, and accountability more precise.
+> **[1:21](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-governance-using-ai?u=76281980&t=81)** In the realm of cloud cost analysis, AI allows for continuous examination of spend data at a granular level, such as per department, project or application, making, cost allocation, and [[Accountability]] more precise.
 >
 > **[1:37](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-governance-using-ai?u=76281980&t=97)** As highlighted in the documents, automated analysis identifies key trends, and root causes of overspending, supporting leadership in making informed governance decisions.
 >
-> **[1:50](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-governance-using-ai?u=76281980&t=110)** AI also strengthens governance through forecasting and optimization.
+> **[1:50](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-governance-using-ai?u=76281980&t=110)** AI also strengthens governance through [[Forecasting]] and optimization.
 >
 > **[1:54](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-governance-using-ai?u=76281980&t=114)** Predictive models help set realistic budgets while optimization features recommend actions like right sizing resources or renegotiating terms, metrics and KPIs or key performance indicators such as cloud efficiency, spending per customer, and cost per revenue are continuously monitored, and reported to support governance goals.
 >
@@ -1960,18 +1919,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), ai (7), data (3), business (2), [[Real-Time]] (2)
+> **Frameworks & Libraries:** [[Real-Time]] (2), [[Accountability]] (2), [[Dashboards]] (1), [[Forecasting]] (1)
 > **Analogies:** such as (2), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Approach cloud spending forecasting for Henry's Hammocks
-> [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/challenge-approach-cloud-spending-forecasting-for-henry-s-hammocks-27162078?u=76281980)
+#### [Challenge: Approach cloud spending forecasting for Henry's Hammocks](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/challenge-approach-cloud-spending-forecasting-for-henry-s-hammocks-27162078?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/challenge-approach-cloud-spending-forecasting-for-henry-s-hammocks-27162078?u=76281980&t=0)** (bright music)
 >
-> **[0:06](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/challenge-approach-cloud-spending-forecasting-for-henry-s-hammocks-27162078?u=76281980&t=6)** - [Instructor] As Henry Hammocks or HH continues its migration to AWS, your challenge is to design a robust approach to cloud spending forecasting.
+> **[0:06](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/challenge-approach-cloud-spending-forecasting-for-henry-s-hammocks-27162078?u=76281980&t=6)** - [Instructor] As Henry Hammocks or HH continues its migration to AWS, your challenge is to design a robust approach to cloud spending [[Forecasting]].
 >
 > **[0:17](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/challenge-approach-cloud-spending-forecasting-for-henry-s-hammocks-27162078?u=76281980&t=17)** Several core FinOps principles, such as cost transparency, cost allocation, and automated monitoring have been introduced to HH, but forecasting remains complicated by the evolving cloud environment and the diversity of workloads in play.
 >
@@ -1979,11 +1937,11 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/challenge-approach-cloud-spending-forecasting-for-henry-s-hammocks-27162078?u=76281980&t=37)** Identify the specific challenges HH faces in forecasting cloud spending.
 >
-> **[0:42](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/challenge-approach-cloud-spending-forecasting-for-henry-s-hammocks-27162078?u=76281980&t=42)** Consider the impact of varying workload sizes, the introduction of new cloud services, fluctuating demands, such as seasonal hammock sales, and prior gaps in cost visibility.
+> **[0:42](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/challenge-approach-cloud-spending-forecasting-for-henry-s-hammocks-27162078?u=76281980&t=42)** Consider the impact of varying workload sizes, the introduction of new [[Cloud Services]], fluctuating demands, such as seasonal hammock sales, and prior gaps in cost visibility.
 >
 > **[0:53](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/challenge-approach-cloud-spending-forecasting-for-henry-s-hammocks-27162078?u=76281980&t=53)** How do these factors make prediction difficult?
 >
-> **[0:57](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/challenge-approach-cloud-spending-forecasting-for-henry-s-hammocks-27162078?u=76281980&t=57)** Considering the role of real-time monitoring and cost allocation, how can automated monitoring tools and strict tagging practices support more accurate, up-to-date forecasting?
+> **[0:57](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/challenge-approach-cloud-spending-forecasting-for-henry-s-hammocks-27162078?u=76281980&t=57)** Considering the role of [[Real-Time]] monitoring and cost allocation, how can automated monitoring tools and strict tagging practices support more accurate, up-to-date forecasting?
 >
 > **[1:07](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/challenge-approach-cloud-spending-forecasting-for-henry-s-hammocks-27162078?u=76281980&t=67)** How might incomplete or inconsistent tagging undermine your financial models?
 >
@@ -1995,13 +1953,13 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/challenge-approach-cloud-spending-forecasting-for-henry-s-hammocks-27162078?u=76281980&t=93)** Plan how to integrate forecasts into operational and budgeting decisions.
 >
-> **[1:39](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/challenge-approach-cloud-spending-forecasting-for-henry-s-hammocks-27162078?u=76281980&t=99)** How would you communicate forecast results to HH leadership and other stakeholders to ensure timely, data-driven decisions and promote a FinOps culture of accountability?
+> **[1:39](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/challenge-approach-cloud-spending-forecasting-for-henry-s-hammocks-27162078?u=76281980&t=99)** How would you communicate forecast results to HH leadership and other stakeholders to ensure timely, data-driven decisions and promote a FinOps culture of [[Accountability]]?
 >
 > **[1:49](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/challenge-approach-cloud-spending-forecasting-for-henry-s-hammocks-27162078?u=76281980&t=109)** Take some time to consider how cloud spending AI tools can solve these challenges for HH, and in the next video, you'll find the solutions to these challenges.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), [[Forecasting]] (5), aws (3), data (2), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Forecasting]] (5), [[Cloud Services]] (1), [[Real-Time]] (1), [[Accountability]] (1)
 > **CLI Commands:** aws (3), make (1), find (1)
 > **Env Vars:** aws (3)
 > **Analogies:** such as (2)
@@ -2009,12 +1967,11 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Review the potential solutions you can leverage
-> [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/solution-review-the-potential-solutions-you-can-leverage-27161074?u=76281980)
+#### [Solution: Review the potential solutions you can leverage](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/solution-review-the-potential-solutions-you-can-leverage-27161074?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/solution-review-the-potential-solutions-you-can-leverage-27161074?u=76281980&t=0)** - [Speaker] To solve the forecasting challenge for HH, implement automated cost monitoring and tagging.
+> **[0:00](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/solution-review-the-potential-solutions-you-can-leverage-27161074?u=76281980&t=0)** - [Speaker] To solve the [[Forecasting]] challenge for HH, implement automated cost monitoring and tagging.
 >
 > **[0:13](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/solution-review-the-potential-solutions-you-can-leverage-27161074?u=76281980&t=13)** Use AWS native tools such as cost explorer and budgets in combination with comprehensive tagging policy.
 >
@@ -2026,11 +1983,11 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/solution-review-the-potential-solutions-you-can-leverage-27161074?u=76281980&t=43)** Adjusting for newly onboarded workloads are rapid changes in usage, regularly reconcile forecasted costs against actuals to improve model accuracy, make forecasts actionable with HH operations.
 >
-> **[0:59](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/solution-review-the-potential-solutions-you-can-leverage-27161074?u=76281980&t=59)** Develop reporting dashboards for different business units and share forecast information regularly.
+> **[0:59](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/solution-review-the-potential-solutions-you-can-leverage-27161074?u=76281980&t=59)** Develop reporting [[Dashboards]] for different business units and share forecast information regularly.
 >
 > **[1:06](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/solution-review-the-potential-solutions-you-can-leverage-27161074?u=76281980&t=66)** Use the forecasts to inform procurement pricing and marketing decisions.
 >
-> **[1:12](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/solution-review-the-potential-solutions-you-can-leverage-27161074?u=76281980&t=72)** Embedding the practice into routine discussions to drive a culture of cloud-cost accountability.
+> **[1:12](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/solution-review-the-potential-solutions-you-can-leverage-27161074?u=76281980&t=72)** Embedding the practice into routine discussions to drive a culture of cloud-cost [[Accountability]].
 >
 > **[1:17](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/solution-review-the-potential-solutions-you-can-leverage-27161074?u=76281980&t=77)** Think about how you'll be able to apply these solutions to your business.
 >
@@ -2038,7 +1995,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forecasting]] (3), business (3), aws (2), cloud (2), data (1)
+> **Frameworks & Libraries:** [[Forecasting]] (3), [[Dashboards]] (1), [[Accountability]] (1)
 > **CLI Commands:** aws (2), make (1)
 > **Env Vars:** aws (2)
 > **Analogies:** such as (1)
@@ -2051,8 +2008,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Identifying what you should automate
-> [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/identifying-what-you-should-automate?u=76281980)
+#### [Identifying what you should automate](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/identifying-what-you-should-automate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2116,12 +2072,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (4), cloud (1)
 > **Definitions:** means that (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Automation best practice considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/automation-best-practice-considerations?u=76281980)
+#### [Automation best practice considerations](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/automation-best-practice-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2133,7 +2087,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/automation-best-practice-considerations?u=76281980&t=21)** This is something we've covered thus far and basically says that if we have processes, such as cost monitoring, cost governance, and cost optimization processes that can be automated with little or no human involvement, they should be.
 >
-> **[0:35](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/automation-best-practice-considerations?u=76281980&t=35)** Second, ensure that there is a centralized automated reporting and automated optimization of all cloud computing costs, including dynamically updating metrics and forecasts based on changes in spending behavior, prices and/or terms of the cloud provider.
+> **[0:35](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/automation-best-practice-considerations?u=76281980&t=35)** Second, ensure that there is a centralized automated reporting and automated optimization of all [[Cloud Computing]] costs, including dynamically updating metrics and forecasts based on changes in spending behavior, prices and/or terms of the cloud provider.
 >
 > **[0:51](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/automation-best-practice-considerations?u=76281980&t=51)** This means that we're able to monitor all of the relevant cloud spending in the enterprise.
 >
@@ -2159,14 +2113,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), cloud (6), [[Automation]] (4), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (1)
 > **CLI Commands:** find (3)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### FinOps automation technology types and usages
-> [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-automation-technology-types-and-usages?u=76281980)
+#### [FinOps automation technology types and usages](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-automation-technology-types-and-usages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2182,9 +2135,9 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-automation-technology-types-and-usages?u=76281980&t=42)** This is perhaps the best way to understand what tools are out there and how you can categorize tools around purpose to pick the best tools for your FinOps automation deployments.
 >
-> **[0:52](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-automation-technology-types-and-usages?u=76281980&t=52)** The general categories of most of the tools that drive automation of FinOps processes includes cloud cost monitoring, cloud cost observability, cloud cost governance, cloud cost forecasting, cloud cost reporting, cloud cost operations management.
+> **[0:52](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-automation-technology-types-and-usages?u=76281980&t=52)** The general categories of most of the tools that drive automation of FinOps processes includes cloud cost monitoring, cloud cost observability, cloud cost governance, cloud cost [[Forecasting]], cloud cost reporting, cloud cost operations management.
 >
-> **[1:08](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-automation-technology-types-and-usages?u=76281980&t=68)** Out of all of these tools, there is a need to understand that some of these tools only run within a specific cloud provider such as AWS, Google, and Microsoft, such as the tools we'll see in our demo.
+> **[1:08](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-automation-technology-types-and-usages?u=76281980&t=68)** Out of all of these tools, there is a need to understand that some of these tools only run within a specific cloud provider such as AWS, [[Google]], and [[Microsoft]], such as the tools we'll see in our demo.
 >
 > **[1:20](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-automation-technology-types-and-usages?u=76281980&t=80)** These are tools that are created by the cloud providers themselves or sometimes a third party provider that makes the tool that only supports one specific cloud provider.
 >
@@ -2212,7 +2165,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-automation-technology-types-and-usages?u=76281980&t=194)** Automated actions may include sending alerts to humans and systems that need to understand the results of cloud spending as presented in a report or on a dashboard.
 >
-> **[3:24](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-automation-technology-types-and-usages?u=76281980&t=204)** Business intelligence or BI may also be considered a cloud cost reporting tool.
+> **[3:24](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-automation-technology-types-and-usages?u=76281980&t=204)** [[Business Intelligence (BI)|Business intelligence]] or BI may also be considered a cloud cost reporting tool.
 >
 > **[3:30](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-automation-technology-types-and-usages?u=76281980&t=210)** Cloud cost operations management is any tool that carries out cloud FinOps processes ongoing and could leverage any of the tools recovered thus far.
 >
@@ -2226,7 +2179,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (31), [[Automation]] (8), [[Forecasting]] (3), management (3), data (3)
+> **Frameworks & Libraries:** [[Forecasting]] (3), [[Google]] (1), [[Microsoft]] (1), [[Business Intelligence (BI)|Business intelligence]] (1)
 > **Analogies:** such as (7)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
@@ -2235,18 +2188,17 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Leveraging AI for better FinOps automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/leveraging-ai-for-better-finops-automation?u=76281980)
+#### [Leveraging AI for better FinOps automation](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/leveraging-ai-for-better-finops-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/leveraging-ai-for-better-finops-automation?u=76281980&t=0)** - [Instructor] AI, or artificial intelligence, is a part of most systems these days, and FinOps is no exception.
+> **[0:00](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/leveraging-ai-for-better-finops-automation?u=76281980&t=0)** - [Instructor] AI, or [[Artificial Intelligence (AI)|artificial intelligence]], is a part of most systems these days, and FinOps is no exception.
 >
 > **[0:06](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/leveraging-ai-for-better-finops-automation?u=76281980&t=6)** Indeed, AI may be a part of many tools that you may leverage, such as cost monitoring, cost observability and cloud cost operations management.
 >
-> **[0:14](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/leveraging-ai-for-better-finops-automation?u=76281980&t=14)** Certainly, cloud cost forecasting can benefit from AI considering that much of that is making estimates based on only partial information.
+> **[0:14](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/leveraging-ai-for-better-finops-automation?u=76281980&t=14)** Certainly, cloud cost [[Forecasting]] can benefit from AI considering that much of that is making estimates based on only partial information.
 >
-> **[0:23](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/leveraging-ai-for-better-finops-automation?u=76281980&t=23)** The purpose of leveraging AI to bring knowledge processing to cloud cost management, monitoring and observability, such as learning about spending patterns in much the same way we learn as humans.
+> **[0:23](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/leveraging-ai-for-better-finops-automation?u=76281980&t=23)** The purpose of leveraging AI to bring knowledge processing to cloud [[Cost Management]], monitoring and observability, such as learning about spending patterns in much the same way we learn as humans.
 >
 > **[0:34](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/leveraging-ai-for-better-finops-automation?u=76281980&t=34)** Also, leveraging that knowledge to act upon insights that the AI engine determines the need to generate actions, such as spotting that it looks like the storage spending will exceed the budget for this month, and alert those doing FinOps that they need to take action either to avoid the overrun or manage the impact.
 >
@@ -2260,19 +2212,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), cloud (4), [[Forecasting]] (2), data (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Forecasting]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Cost Management]] (1)
 > **Analogies:** such as (7)
 > **CLI Commands:** find (1)
 > **Cross-References:** we covered (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating AI automation processes
-> [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/creating-ai-automation-processes?u=76281980)
+#### [Creating AI automation processes](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/creating-ai-automation-processes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/creating-ai-automation-processes?u=76281980&t=0)** - [Instructor] Creating effective AI automation processes begins by strategically identifying which business operations can and should be automated.
+> **[0:00](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/creating-ai-automation-processes?u=76281980&t=0)** - [Instructor] Creating effective AI automation processes begins by strategically identifying which [[Business Operations]] can and should be automated.
 >
 > **[0:10](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/creating-ai-automation-processes?u=76281980&t=10)** Not every process is an immediate candidate.
 >
@@ -2282,13 +2233,13 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/creating-ai-automation-processes?u=76281980&t=42)** AI driven automation extends beyond simply reducing manual effort.
 >
-> **[0:45](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/creating-ai-automation-processes?u=76281980&t=45)** It enables centralized dynamic cloud cost management.
+> **[0:45](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/creating-ai-automation-processes?u=76281980&t=45)** It enables centralized dynamic cloud [[Cost Management]].
 >
-> **[0:49](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/creating-ai-automation-processes?u=76281980&t=49)** Automation processes should cover areas like cost monitoring, governance, optimization, forecasting, and reporting.
+> **[0:49](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/creating-ai-automation-processes?u=76281980&t=49)** Automation processes should cover areas like cost monitoring, governance, optimization, [[Forecasting]], and reporting.
 >
 > **[0:58](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/creating-ai-automation-processes?u=76281980&t=58)** The ultimate goal is to maximize business value with every automated function supporting broader organizational objectives rather than narrowly focusing on cutting expenses.
 >
-> **[1:10](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/creating-ai-automation-processes?u=76281980&t=70)** For example, implementing automated reporting provides real-time insights and adapts to shifting metrics and usage patterns.
+> **[1:10](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/creating-ai-automation-processes?u=76281980&t=70)** For example, implementing automated reporting provides [[Real-Time]] insights and adapts to shifting metrics and usage patterns.
 >
 > **[1:19](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/creating-ai-automation-processes?u=76281980&t=79)** Such automation is not just about cost savings, this is about providing additional business value, meaning that the automation itself is traced to creating more sales, creating more customer satisfaction, or other metrics that increase value.
 >
@@ -2312,18 +2263,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (12), ai (8), cloud (4), [[Forecasting]] (4), business (3)
+> **Frameworks & Libraries:** [[Forecasting]] (4), [[Business Operations]] (1), [[Cost Management]] (1), [[Real-Time]] (1)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is an  (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dynmaic automation using AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/dynmaic-automation-using-ai?u=76281980)
+#### [Dynmaic automation using AI](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/dynmaic-automation-using-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/dynmaic-automation-using-ai?u=76281980&t=0)** - [Instructor] Dynamic automation using AI in FinOps represents a significant evolution beyond traditional rule-based processes, leveraging advanced algorithms to adapt, learn, and optimize in real time.
+> **[0:00](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/dynmaic-automation-using-ai?u=76281980&t=0)** - [Instructor] Dynamic automation using AI in FinOps represents a significant evolution beyond traditional rule-based processes, leveraging advanced [[Algorithms]] to adapt, learn, and optimize in real time.
 >
 > **[0:12](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/dynmaic-automation-using-ai?u=76281980&t=12)** The core principle behind dynamic automation is responsiveness.
 >
@@ -2341,9 +2291,9 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/dynmaic-automation-using-ai?u=76281980&t=59)** Instead of waiting for manual intervention, the automation framework can immediately enforce corrective actions, such as scaling resources, reallocating workloads, or averting stakeholders, thereby preventing cost overruns and unnecessary waste.
 >
-> **[1:16](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/dynmaic-automation-using-ai?u=76281980&t=76)** Dynamic AI automation also enhances forecasting.
+> **[1:16](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/dynmaic-automation-using-ai?u=76281980&t=76)** Dynamic AI automation also enhances [[Forecasting]].
 >
-> **[1:20](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/dynmaic-automation-using-ai?u=76281980&t=80)** Unlike simple trend lines, AI models process historical and real-time data to generate accurate, context-aware predictions for spending, usage, and capacity.
+> **[1:20](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/dynmaic-automation-using-ai?u=76281980&t=80)** Unlike simple trend lines, AI models process historical and [[Real-Time]] data to generate accurate, context-aware predictions for spending, usage, and capacity.
 >
 > **[1:32](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/dynmaic-automation-using-ai?u=76281980&t=92)** These insights fed directly into automation pipelines.
 >
@@ -2355,28 +2305,27 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/dynmaic-automation-using-ai?u=76281980&t=125)** This creates a feedback loop in which each automation cycle further optimizes financial and operational outcomes.
 >
-> **[2:13](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/dynmaic-automation-using-ai?u=76281980&t=133)** To maximize the benefits of dynamic automation, organizations must ensure strong data quality and integrate AI systems across FinOps functions: cost monitoring, governance, forecasting, and reporting.
+> **[2:13](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/dynmaic-automation-using-ai?u=76281980&t=133)** To maximize the benefits of dynamic automation, organizations must ensure strong [[Data Quality]] and integrate AI systems across FinOps functions: cost monitoring, governance, forecasting, and reporting.
 >
-> **[2:26](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/dynmaic-automation-using-ai?u=76281980&t=146)** By doing so, they empower cross-functional teams with timely insights and agile workflows, creating a proactive culture for cost management and value optimization.
+> **[2:26](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/dynmaic-automation-using-ai?u=76281980&t=146)** By doing so, they empower cross-functional teams with timely insights and [[Agile Development|agile]] workflows, creating a proactive culture for [[Cost Management]] and value optimization.
 >
 > **[2:36](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/dynmaic-automation-using-ai?u=76281980&t=156)** Ultimately, dynamic AI automation transforms FinOps from a reactive, manual discipline into a proactive, self-improving engine for business efficiency.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (10), ai (10), data (4), business (3), [[Algorithms]] (2)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Forecasting]] (2), [[Real-Time]] (1), [[Data Quality]] (1), [[Agile Development|Agile]] (1)
 > **Analogies:** for example (1), such as (1), for instance (1)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: FinOps automation with AWS Cost Explorer
-> [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/demo-finops-automation-with-aws-cost-explorer-27150092?u=76281980)
+#### [Demo: FinOps automation with AWS Cost Explorer](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/demo-finops-automation-with-aws-cost-explorer-27150092?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/demo-finops-automation-with-aws-cost-explorer-27150092?u=76281980&t=0)** - [Instructor] So in order to understand how FinOps works, it's probably best that we look at a particular FinOps tool.
 >
-> **[0:07](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/demo-finops-automation-with-aws-cost-explorer-27150092?u=76281980&t=7)** In this case, this is going to be a native tool or something that only works with a specific cloud provider, in this case, Amazon Web Services or AWS, and the tool is called Billing and Cost Management with Internet Cost Explorer.
+> **[0:07](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/demo-finops-automation-with-aws-cost-explorer-27150092?u=76281980&t=7)** In this case, this is going to be a native tool or something that only works with a specific cloud provider, in this case, [[Amazon Web Services (AWS)|Amazon Web Services]] or AWS, and the tool is called Billing and [[Cost Management]] with Internet Cost Explorer.
 >
 > **[0:28](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/demo-finops-automation-with-aws-cost-explorer-27150092?u=76281980&t=28)** So we'll click into the Internet and Billing and Cost Management system for AWS and we'll look at exactly what it provides us here, and it provides us with some helpful information.
 >
@@ -2464,7 +2413,7 @@ created: 2026-05-02
 >
 > **[5:32](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/demo-finops-automation-with-aws-cost-explorer-27150092?u=76281980&t=332)** Usage type groups, not going to select anything there at the resources that we're able to leverage.
 >
-> **[5:38](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/demo-finops-automation-with-aws-cost-explorer-27150092?u=76281980&t=338)** And those are like S3, AWS Glue, you know, all the resources that Amazon is able to produce are the services that'll allow you to leverage the technology or, basically, assemble these cloud services around application use cases, things like that, cost categories, and tags.
+> **[5:38](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/demo-finops-automation-with-aws-cost-explorer-27150092?u=76281980&t=338)** And those are like S3, AWS Glue, you know, all the resources that Amazon is able to produce are the services that'll allow you to leverage the technology or, basically, assemble these [[Cloud Services]] around application use cases, things like that, cost categories, and tags.
 >
 > **[6:00](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/demo-finops-automation-with-aws-cost-explorer-27150092?u=76281980&t=360)** You got to remember, there's also the ability to tag these resources.
 >
@@ -2500,19 +2449,19 @@ created: 2026-05-02
 >
 > **[7:28](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/demo-finops-automation-with-aws-cost-explorer-27150092?u=76281980&t=448)** So, the handy thing here is that in Cost Explorer, which is the tool we're looking at here, this is a demo of that, your ability to slice and dice all kinds of things that allow you to understand who's using what resource, how much they used, how much it cost you.
 >
-> **[7:47](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/demo-finops-automation-with-aws-cost-explorer-27150092?u=76281980&t=467)** And therefore, with this accountability, you can put limitations on those resources.
+> **[7:47](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/demo-finops-automation-with-aws-cost-explorer-27150092?u=76281980&t=467)** And therefore, with this [[Accountability]], you can put limitations on those resources.
 >
 > **[7:52](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/demo-finops-automation-with-aws-cost-explorer-27150092?u=76281980&t=472)** You can, but put budget constraints around those resources to limit its use by individuals, which is important because people can sometimes turn a service on, leave it on for a long period of time, and then suddenly, you get a very high cloud bill for basically a service you had running for a long period of time that you had no use for.
 >
 > **[8:08](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/demo-finops-automation-with-aws-cost-explorer-27150092?u=76281980&t=488)** So, this avoids that, and it's a handy tool.
 >
-> **[8:12](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/demo-finops-automation-with-aws-cost-explorer-27150092?u=76281980&t=492)** And you got to remember that all of the cloud providers out there, Microsoft, as well as Google, as well as AWS, which is the one we're looking at here, provides similar tools.
+> **[8:12](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/demo-finops-automation-with-aws-cost-explorer-27150092?u=76281980&t=492)** And you got to remember that all of the cloud providers out there, [[Microsoft]], as well as [[Google]], as well as AWS, which is the one we're looking at here, provides similar tools.
 >
 > **[8:21](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/demo-finops-automation-with-aws-cost-explorer-27150092?u=76281980&t=501)** They have to, because they have to put the power of cost control into the hands of the people who are using it.
 >
 > **[8:26](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/demo-finops-automation-with-aws-cost-explorer-27150092?u=76281980&t=506)** And it doesn't matter if they're using just a single account.
 >
-> **[8:28](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/demo-finops-automation-with-aws-cost-explorer-27150092?u=76281980&t=508)** So, in other words, a person's you know, signing up for AWS and they may be using a few hundred dollars a month and doing application development, deployment, things like that for their websites, whatever.
+> **[8:28](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/demo-finops-automation-with-aws-cost-explorer-27150092?u=76281980&t=508)** So, in other words, a person's you know, signing up for AWS and they may be using a few hundred dollars a month and doing [[Application Development]], deployment, things like that for their websites, whatever.
 >
 > **[8:37](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/demo-finops-automation-with-aws-cost-explorer-27150092?u=76281980&t=517)** Or it could be a massive enterprise that is using AWS services and they're doing so under the same cost domain.
 >
@@ -2528,11 +2477,11 @@ created: 2026-05-02
 >
 > **[9:28](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/demo-finops-automation-with-aws-cost-explorer-27150092?u=76281980&t=568)** You can find free tiers of most of this stuff, most of the different cloud providers.
 >
-> **[9:32](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/demo-finops-automation-with-aws-cost-explorer-27150092?u=76281980&t=572)** And if you're able to do it, I urge you to go off and, you know, play around with these tools and understand the power of FinOps in the world of public cloud computing.
+> **[9:32](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/demo-finops-automation-with-aws-cost-explorer-27150092?u=76281980&t=572)** And if you're able to do it, I urge you to go off and, you know, play around with these tools and understand the power of FinOps in the world of public [[Cloud Computing]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (9), aws (9), business (4), [[Amazon Web Services (AWS)|Amazon web services]] (3), [[Cost Management]] (2)
+> **Frameworks & Libraries:** [[Amazon Web Services (AWS)|Amazon web services]] (3), [[Cost Management]] (2), [[Cloud Services]] (1), [[Accountability]] (1), [[Microsoft]] (1)
 > **CLI Commands:** aws (9), make (2), find (2)
 > **Definitions:** in other words (8), is called (1), is a  (1)
 > **Env Vars:** aws (9)
@@ -2544,8 +2493,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### FinOps continuous improvement
-> [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-continuous-improvement?u=76281980)
+#### [FinOps continuous improvement](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-continuous-improvement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2561,7 +2509,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-continuous-improvement?u=76281980&t=31)** This is the focus of this video.
 >
-> **[0:34](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-continuous-improvement?u=76281980&t=34)** Continuous improvement is a concept that's a part of traditional and cloud-based operations, as well as DevOps or development in operations.
+> **[0:34](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-continuous-improvement?u=76281980&t=34)** Continuous improvement is a concept that's a part of traditional and cloud-based operations, as well as [[DevOps]] or development in operations.
 >
 > **[0:43](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-continuous-improvement?u=76281980&t=43)** That simply means we're looking to improve processes, approaches, and tooling as we drive FinOps, never really being completely satisfied with the state of things and consistently looking for new best practices, processes, and technology that will make our FinOps improve incrementally over time.
 >
@@ -2579,7 +2527,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-continuous-improvement?u=76281980&t=130)** The key concept here is that we're always looking to improve our FinOps processes and technology solution, and this is ongoing, never stopping.
 >
-> **[2:19](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-continuous-improvement?u=76281980&t=139)** This may be a weekly scrum meeting where this is discussed, or even a chat channel such as Slack, where it's an ongoing electronic discussion.
+> **[2:19](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-continuous-improvement?u=76281980&t=139)** This may be a weekly [[Scrum]] meeting where this is discussed, or even a chat channel such as [[Slack]], where it's an ongoing electronic discussion.
 >
 > **[2:27](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-continuous-improvement?u=76281980&t=147)** There should be staff who are responsible for implementing these IDs and reporting back to the larger team.
 >
@@ -2589,7 +2537,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (7), [[DevOps]] (1), data (1), [[Scrum]] (1), [[Slack]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (1), [[Scrum]] (1), [[Slack]] (1)
 > **Analogies:** such as (4), for example (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** abi (1)
@@ -2597,8 +2545,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### FinOps observability
-> [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-observability?u=76281980)
+#### [FinOps observability](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-observability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2624,25 +2571,24 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-observability?u=76281980&t=101)** Observability for FinOps usually populates a database with this information using a unique structure that's designed for specific observability systems, and a structure that better represents how you'd want to find insights into that data.
 >
-> **[1:55](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-observability?u=76281980&t=115)** So, we typically have to deal with a database or databases, core analytical processing, that may or may not include an AI engine, reports or dashboards that are used to provide observability, well observations, internal security to ensure that this data does not fall into the wrong hands, both internal to the company, as well as more traditional hackers outside the company.
+> **[1:55](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-observability?u=76281980&t=115)** So, we typically have to deal with a database or [[Databases]], core analytical processing, that may or may not include an AI engine, reports or [[Dashboards]] that are used to provide observability, well observations, internal security to ensure that this data does not fall into the wrong hands, both internal to the company, as well as more traditional hackers outside the company.
 >
 > **[2:17](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-observability?u=76281980&t=137)** Other operational concerns that are related to the specific needs of the observability tool that you're leveraging, et cetera.
 >
-> **[2:24](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-observability?u=76281980&t=144)** None of the FinOps processes and technology are immune from tasking the FinOps team with some work around how they're operated, including security, database administration, and updating the system to continuously improve upon the insights that are being provided.
+> **[2:24](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-observability?u=76281980&t=144)** None of the FinOps processes and technology are immune from tasking the FinOps team with some work around how they're operated, including security, [[Database Administration]], and updating the system to continuously improve upon the insights that are being provided.
 >
 > **[2:39](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-observability?u=76281980&t=159)** This extends to other aspects of FinOps as well, where it's one thing to get a FinOps process and tooling solution up and running, and another to keep it running over time.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), cloud (7), [[Security]] (4), database (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[Dashboards]] (1), [[Database Administration]] (1)
 > **CLI Commands:** find (3)
 > **Cross-References:** we discussed (1), in the last (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [speaker] (1)
 
-#### Supporting audits
-> [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/supporting-audits?u=76281980)
+#### [Supporting audits](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/supporting-audits?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2654,7 +2600,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/supporting-audits?u=76281980&t=26)** They need to produce any information requested in the formats and organization needed and this needs to be done on demand.
 >
-> **[0:34](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/supporting-audits?u=76281980&t=34)** For example, an auditing entity may request that the FinOps team produce an itemized list of all cloud computing spending that occurred over the last year, and they need this information by a specific service such as storage and compute by cloud providers such as AWS, Microsoft, and Google and also by the cloud user that consume these services and created the cloud costs.
+> **[0:34](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/supporting-audits?u=76281980&t=34)** For example, an auditing entity may request that the FinOps team produce an itemized list of all [[Cloud Computing]] spending that occurred over the last year, and they need this information by a specific service such as storage and compute by cloud providers such as AWS, [[Microsoft]], and [[Google]] and also by the cloud user that consume these services and created the cloud costs.
 >
 > **[0:58](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/supporting-audits?u=76281980&t=58)** This may be pretty easy to provide since it's basic data that we're collecting using cloud cost monitoring tooling and can even be reported using FinOps reporting platforms and FinOps observability platforms.
 >
@@ -2676,7 +2622,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), data (4), business (2), aws (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (2), [[Microsoft]] (1), [[Google]] (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
@@ -2684,14 +2630,13 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Supporting compliance
-> [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/supporting-compliance?u=76281980)
+#### [Supporting compliance](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/supporting-compliance?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/supporting-compliance?u=76281980&t=0)** - [Presenter] Supporting compliance is really much the same as auditing but we're proving that we're complying with state, local, and federal laws and regulations.
 >
-> **[0:09](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/supporting-compliance?u=76281980&t=9)** Well, this is typically handled through the office of the CFO and not the FinOps team.
+> **[0:09](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/supporting-compliance?u=76281980&t=9)** Well, this is typically handled through the [[Microsoft Office|office]] of the CFO and not the FinOps team.
 >
 > **[0:14](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/supporting-compliance?u=76281980&t=14)** The CFO will request some reports and perhaps validation of the cost and spending data to prove to the regulator that we're in compliance with the law or need to take steps to get into compliance.
 >
@@ -2699,7 +2644,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/supporting-compliance?u=76281980&t=34)** Thus, it's important to understand what the laws and the regulations are specifically and that FinOps processing data and tooling is in place to comply with them.
 >
-> **[0:46](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/supporting-compliance?u=76281980&t=46)** Again, this typically means that you're working with your CFO and financial operations team for the company to make sure that they are getting the data that they need to support the audits or other activities around compliance.
+> **[0:46](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/supporting-compliance?u=76281980&t=46)** Again, this typically means that you're working with your CFO and [[Financial Operations]] team for the company to make sure that they are getting the data that they need to support the audits or other activities around compliance.
 >
 > **[0:58](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/supporting-compliance?u=76281980&t=58)** Things that may be asked of you when it comes to compliance may include, but not be limited to, cost data as related to the location of the data to prove data sovereignty compliance that some countries require.
 >
@@ -2709,19 +2654,18 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/supporting-compliance?u=76281980&t=90)** Compliance is one of those things that is not thought much around cloud FinOps, mostly to the fact that other organizations are dealing with the regulators directly and not the FinOps team.
 >
-> **[1:43](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/supporting-compliance?u=76281980&t=103)** However, as cloud computing becomes more popular and regulators focus more on cloud computing around making laws we'll see more interest in ensuring that cloud FinOps is able to support compliance and even understands what laws need to be complied with.
+> **[1:43](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/supporting-compliance?u=76281980&t=103)** However, as [[Cloud Computing]] becomes more popular and regulators focus more on cloud computing around making laws we'll see more interest in ensuring that cloud FinOps is able to support compliance and even understands what laws need to be complied with.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), cloud (7), [[Microsoft Office|Office]] (1), [[Financial Operations]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (2), [[Microsoft Office|Office]] (1), [[Financial Operations]] (1)
 > **Env Vars:** cfo (3)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [presenter] (1)
 
-#### Defining FinOps operational success
-> [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/defining-finops-operational-success?u=76281980)
+#### [Defining FinOps operational success](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/defining-finops-operational-success?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2751,7 +2695,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/defining-finops-operational-success?u=76281980&t=83)** These are two concepts that work at odds, meaning that the less you spend, you could be driving much less business value, such as the value of innovation.
 >
-> **[1:34](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/defining-finops-operational-success?u=76281980&t=94)** So there is a balance with what you'll spend on cloud services with the value that returns to the business.
+> **[1:34](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/defining-finops-operational-success?u=76281980&t=94)** So there is a balance with what you'll spend on [[Cloud Services]] with the value that returns to the business.
 >
 > **[1:40](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/defining-finops-operational-success?u=76281980&t=100)** This means that you can under and overspend.
 >
@@ -2771,18 +2715,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (10), business (6), [[Automation]] (3), game (1)
+> **Frameworks & Libraries:** [[Cloud Services]] (2)
 > **Definitions:** is a  (3), refers to (2), means that (1), is an  (1)
 > **CLI Commands:** find (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Finding value with AI FinOps tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finding-value-with-ai-finops-tools?u=76281980)
+#### [Finding value with AI FinOps tools](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finding-value-with-ai-finops-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finding-value-with-ai-finops-tools?u=76281980&t=0)** - [Instructor] AI FinOps Tools help organizations realize value by fostering continuous improvement in cloud financial operations.
+> **[0:00](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finding-value-with-ai-finops-tools?u=76281980&t=0)** - [Instructor] AI FinOps Tools help organizations realize value by fostering continuous improvement in cloud [[Financial Operations]].
 >
 > **[0:08](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finding-value-with-ai-finops-tools?u=76281980&t=8)** Rather than treating optimization as a one-time activity, the tools enable ongoing, incremental adjustments.
 >
@@ -2796,7 +2739,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finding-value-with-ai-finops-tools?u=76281980&t=53)** This allows stakeholders not only to see where money is being spent, but also understand the reasons behind trends, such as the cost impact of security changes or varying levels of training across teams.
 >
-> **[1:07](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finding-value-with-ai-finops-tools?u=76281980&t=67)** Predictive analytics and automated insights further support decision making it possible to respond proactively to emerging cost issues or opportunities.
+> **[1:07](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finding-value-with-ai-finops-tools?u=76281980&t=67)** [[Predictive Analytics]] and automated insights further support decision making it possible to respond proactively to emerging cost issues or opportunities.
 >
 > **[1:17](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finding-value-with-ai-finops-tools?u=76281980&t=77)** Supporting audit and compliance requirements is another area where these tools deliver significant value.
 >
@@ -2804,22 +2747,21 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finding-value-with-ai-finops-tools?u=76281980&t=91)** The systems ensure essential data, such as spend by service provider or user, is organized, accurate, and quickly retrievable.
 >
-> **[1:40](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finding-value-with-ai-finops-tools?u=76281980&t=100)** This readiness reduces legal and business risks, supporting data integrity, and gives assurance to both financial teams and [[Executive Leadership]] that regulatory and operational standards are being met.
+> **[1:40](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finding-value-with-ai-finops-tools?u=76281980&t=100)** This readiness reduces legal and business risks, supporting [[Data Integrity]], and gives assurance to both financial teams and [[[[Executive Leadership]]]] that regulatory and operational standards are being met.
 >
 > **[1:54](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finding-value-with-ai-finops-tools?u=76281980&t=114)** In summary, AI-enabled FinOps platforms empower organizations to optimize, observe, and audit cloud spend effectively, underpinning better business decisions while maintaining agility and compliance.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), ai (3), business (3), teams (3), data (3)
+> **Frameworks & Libraries:** [[Financial Operations]] (1), [[Predictive Analytics]] (1), [[Data Integrity]] (1), [[Executive Leadership]] (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
-#### Creating dynamic processes using AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/creating-dynamic-processes-using-ai?u=76281980)
+#### [Creating dynamic processes using AI](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/creating-dynamic-processes-using-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/creating-dynamic-processes-using-ai?u=76281980&t=0)** - [Instructor] Creating dynamic processes using AI, as described in the previous videos, centers on the principle of continuous improvement in financial operations.
+> **[0:00](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/creating-dynamic-processes-using-ai?u=76281980&t=0)** - [Instructor] Creating dynamic processes using AI, as described in the previous videos, centers on the principle of continuous improvement in [[Financial Operations]].
 >
 > **[0:10](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/creating-dynamic-processes-using-ai?u=76281980&t=10)** AI enables systems to automatically monitor performance, identify inefficiencies, and recommend process adjustments without requiring constant human intervention.
 >
@@ -2827,7 +2769,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/creating-dynamic-processes-using-ai?u=76281980&t=30)** Automation is crucial, reducing manual labor while also allowing human decision makers to focus on strategic oversight and process enhancement.
 >
-> **[0:40](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/creating-dynamic-processes-using-ai?u=76281980&t=40)** AI-driven systems gather and analyze vast amounts of operational data to propose incremental improvements, such as adjusting resource allocation, tweaking cost management rules, or flagging new areas of potential waste.
+> **[0:40](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/creating-dynamic-processes-using-ai?u=76281980&t=40)** AI-driven systems gather and analyze vast amounts of operational data to propose incremental improvements, such as adjusting resource allocation, tweaking [[Cost Management]] rules, or flagging new areas of potential waste.
 >
 > **[0:55](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/creating-dynamic-processes-using-ai?u=76281980&t=55)** These recommendations are regularly reviewed by teams who adapt best practices, experiment with new solutions, and document what works to reinforce organizational knowledge.
 >
@@ -2835,7 +2777,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/creating-dynamic-processes-using-ai?u=76281980&t=72)** Staff are encouraged to communicate openly, share findings, and rapidly implement lessons learned from experiments.
 >
-> **[1:19](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/creating-dynamic-processes-using-ai?u=76281980&t=79)** Over time, this cycle of observation, adjustment, and validation helps organizations remain agile and resilient.
+> **[1:19](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/creating-dynamic-processes-using-ai?u=76281980&t=79)** Over time, this cycle of observation, adjustment, and validation helps organizations remain [[Agile Development|agile]] and resilient.
 >
 > **[1:27](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/creating-dynamic-processes-using-ai?u=76281980&t=87)** The result is a living operational framework that benefits from automated efficiency and the flexibility of human insight, driving measurable gains in performance and cost optimization.
 >
@@ -2843,13 +2785,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Financial Operations]] (2), [[Automation]] (2), cloud (1), data (1)
+> **Frameworks & Libraries:** [[Financial Operations]] (2), [[Cost Management]] (1), [[Agile Development|Agile]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge:  Approaching compliance for Henry's Hammocks
-> [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/challenge-approaching-compliance-for-henry-s-hammocks?u=76281980)
+#### [Challenge:  Approaching compliance for Henry's Hammocks](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/challenge-approaching-compliance-for-henry-s-hammocks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2873,13 +2814,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), cloud (3), business (1)
 > **Env Vars:** cio (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution:  Review the potential solutions you can leverage
-> [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/solution-review-the-potential-solutions-you-can-leverage?u=76281980)
+#### [Solution:  Review the potential solutions you can leverage](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/solution-review-the-potential-solutions-you-can-leverage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2905,11 +2844,11 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/solution-review-the-potential-solutions-you-can-leverage?u=76281980&t=94)** This could mean the tracking of processing that can be later audited, thus is done by logging the execution of each process to prove that the process was carried out.
 >
-> **[1:44](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/solution-review-the-potential-solutions-you-can-leverage?u=76281980&t=104)** Or looking at the holistic cloud bills related to a tax event issue, such as not taxing cloud computing costs as some jurisdictions do.
+> **[1:44](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/solution-review-the-potential-solutions-you-can-leverage?u=76281980&t=104)** Or looking at the holistic cloud bills related to a tax event issue, such as not taxing [[Cloud Computing]] costs as some jurisdictions do.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), cloud (6)
+> **Frameworks & Libraries:** [[Cloud Computing]] (1)
 > **Env Vars:** cio (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -2920,8 +2859,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2943,7 +2881,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/next-steps?u=76281980&t=59)** Make sure that if you join a company that's doing FinOps that they are the right cultural fit and are willing to invest in you.
 >
-> **[1:06](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/next-steps?u=76281980&t=66)** You'll need to be a continuous learner to be successful with FinOps, or another cloud computing profession, for that matter.
+> **[1:06](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/next-steps?u=76281980&t=66)** You'll need to be a continuous learner to be successful with FinOps, or another [[Cloud Computing]] profession, for that matter.
 >
 > **[1:13](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/next-steps?u=76281980&t=73)** Cloud FinOps is a new and exciting space and one that's likely to grow a great deal as organizations become more dependent on cloud resources and as businesses look to leverage cloud computing to derive the maximum business benefit.
 >
@@ -2951,7 +2889,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (7), career (2), business (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (2)
 > **Definitions:** is a  (4), is an  (1)
 > **CLI Commands:** make (3), find (1)
 > **URLs:** [finops.org](https://finops.org) (1)

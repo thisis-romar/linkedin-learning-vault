@@ -102,8 +102,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Get up and running quick with Docker
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/get-up-and-running-quick-with-docker?u=76281980)
+#### [Get up and running quick with Docker](https://www.linkedin.com/learning/learning-docker-17236240/get-up-and-running-quick-with-docker?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -131,16 +130,15 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/learning-docker-17236240/get-up-and-running-quick-with-docker?u=76281980&t=38)** I have helped hundreds of engineers get their production apps into containers across many industries.
 >
-> **[0:44](https://www.linkedin.com/learning/learning-docker-17236240/get-up-and-running-quick-with-docker?u=76281980&t=44)** If you're ready to get your containerization journey started, join me in my LinkedIn learning course.
+> **[0:44](https://www.linkedin.com/learning/learning-docker-17236240/get-up-and-running-quick-with-docker?u=76281980&t=44)** If you're ready to get your containerization journey started, join me in my [[LinkedIn]] learning course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Containerization]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** docker (4)
 > **Speakers:** - docker (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/learning-docker-17236240/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -156,9 +154,9 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/learning-docker-17236240/what-you-should-know?u=76281980&t=19)** I'll be using a Mac for most of this course.
 >
-> **[0:22](https://www.linkedin.com/learning/learning-docker-17236240/what-you-should-know?u=76281980&t=22)** If you are a Windows user, I recommend using PowerShell.
+> **[0:22](https://www.linkedin.com/learning/learning-docker-17236240/what-you-should-know?u=76281980&t=22)** If you are a [[Windows]] user, I recommend using [[Powershell]].
 >
-> **[0:25](https://www.linkedin.com/learning/learning-docker-17236240/what-you-should-know?u=76281980&t=25)** If you're on Linux you most likely already have a built-in terminal.
+> **[0:25](https://www.linkedin.com/learning/learning-docker-17236240/what-you-should-know?u=76281980&t=25)** If you're on [[Linux]] you most likely already have a built-in terminal.
 >
 > **[0:30](https://www.linkedin.com/learning/learning-docker-17236240/what-you-should-know?u=76281980&t=30)** You'll also need a code editor if you would like to create and push your own Docker image to the Docker hub with me in chapter three.
 >
@@ -170,7 +168,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1), [[Scripting]] (1), [[Windows]] (1), [[Powershell]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Powershell]] (1), [[Linux]] (1)
 > **Tools:** terminal (3), powershell (1), atom (1), sublime (1), intellij (1)
 > **CLI Commands:** docker (4)
 > **Env Vars:** ide (1)
@@ -178,8 +176,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - if (1)
 
-#### How to use the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/how-to-use-the-exercise-files?u=76281980)
+#### [How to use the exercise files](https://www.linkedin.com/learning/learning-docker-17236240/how-to-use-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -209,7 +206,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cd (3)
 > **Exercise Files:** exercise files (7), exercise file (1)
 > **CLI Commands:** cd (3), ls (1)
 > **Tools:** terminal (2)
@@ -217,14 +213,14 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** short for (1)
 > **Analogies:** for example (1)
+> **Warnings:** note that (1)
 
 
 ### 1. Docker Explained
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Docker?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/what-is-docker?u=76281980)
+#### [What is Docker?](https://www.linkedin.com/learning/learning-docker-17236240/what-is-docker?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -234,7 +230,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/learning-docker-17236240/what-is-docker?u=76281980&t=10)** After a few weeks of back and forth, your app finally works and is ready to ship.
 >
-> **[0:15](https://www.linkedin.com/learning/learning-docker-17236240/what-is-docker?u=76281980&t=15)** With a little help from a LinkedIn Learning course, you create an AWS account, put your app onto LightSale, link it up to DNS, and finally, tell the world about your app on LinkedIn.
+> **[0:15](https://www.linkedin.com/learning/learning-docker-17236240/what-is-docker?u=76281980&t=15)** With a little help from a [[LinkedIn]] Learning course, you create an AWS account, put your app onto LightSale, link it up to DNS, and finally, tell the world about your app on LinkedIn.
 >
 > **[0:26](https://www.linkedin.com/learning/learning-docker-17236240/what-is-docker?u=76281980&t=26)** After celebrating for a few hours, you check your email and are shocked by the hundreds of messages that in some way, shape, or form, all kind of say the same thing.
 >
@@ -246,7 +242,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/learning-docker-17236240/what-is-docker?u=76281980&t=43)** What do you mean it doesn't work?
 >
-> **[0:45](https://www.linkedin.com/learning/learning-docker-17236240/what-is-docker?u=76281980&t=45)** Applications working in one place but not others is a common problem in the world of software development.
+> **[0:45](https://www.linkedin.com/learning/learning-docker-17236240/what-is-docker?u=76281980&t=45)** Applications working in one place but not others is a common problem in the world of [[Software Development]].
 >
 > **[0:51](https://www.linkedin.com/learning/learning-docker-17236240/what-is-docker?u=76281980&t=51)** So common in fact, that it's often called, the it works on my machine problem.
 >
@@ -258,13 +254,13 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/learning-docker-17236240/what-is-docker?u=76281980&t=68)** Other times, configuration for your app might come from different places depending on where it is.
 >
-> **[1:14](https://www.linkedin.com/learning/learning-docker-17236240/what-is-docker?u=76281980&t=74)** Maybe a block of source code in your app depends on files or hardware on your computer that other computers don't have.
+> **[1:14](https://www.linkedin.com/learning/learning-docker-17236240/what-is-docker?u=76281980&t=74)** Maybe a block of source code in your app depends on files or [[Hardware]] on your computer that other computers don't have.
 >
 > **[1:21](https://www.linkedin.com/learning/learning-docker-17236240/what-is-docker?u=76281980&t=81)** Many tools and software have been created to solve this problem.
 >
-> **[1:24](https://www.linkedin.com/learning/learning-docker-17236240/what-is-docker?u=76281980&t=84)** Configuration management tools like Chef, Ansible, and Puppet solve it by allowing you to write code in markup languages to describe what machines need to have in order to run your app.
+> **[1:24](https://www.linkedin.com/learning/learning-docker-17236240/what-is-docker?u=76281980&t=84)** [[Configuration Management]] tools like Chef, [[Ansible]], and Puppet solve it by allowing you to write code in markup languages to describe what machines need to have in order to run your app.
 >
-> **[1:34](https://www.linkedin.com/learning/learning-docker-17236240/what-is-docker?u=76281980&t=94)** Other tools, like HashiCorp Vagrant, let you write code to create entire virtual machines to run your app in.
+> **[1:34](https://www.linkedin.com/learning/learning-docker-17236240/what-is-docker?u=76281980&t=94)** Other tools, like HashiCorp Vagrant, let you write code to create entire [[Virtual Machines]] to run your app in.
 >
 > **[1:41](https://www.linkedin.com/learning/learning-docker-17236240/what-is-docker?u=76281980&t=101)** However, these tools can be cumbersome for developers who just want to run their code in other places safely.
 >
@@ -312,18 +308,17 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Containers vs. virtual machines
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/containers-vs-virtual-machines?u=76281980)
+#### [Containers vs. virtual machines](https://www.linkedin.com/learning/learning-docker-17236240/containers-vs-virtual-machines?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-docker-17236240/containers-vs-virtual-machines?u=76281980&t=0)** - [Instructor] Containers are often thought of as virtual machines but smaller.
+> **[0:00](https://www.linkedin.com/learning/learning-docker-17236240/containers-vs-virtual-machines?u=76281980&t=0)** - [Instructor] Containers are often thought of as [[Virtual Machines]] but smaller.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-docker-17236240/containers-vs-virtual-machines?u=76281980&t=5)** This is an understandable, but incorrect, comparison.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-docker-17236240/containers-vs-virtual-machines?u=76281980&t=9)** Let's explore the differences between the two.
 >
-> **[0:12](https://www.linkedin.com/learning/learning-docker-17236240/containers-vs-virtual-machines?u=76281980&t=12)** The biggest difference is that virtual machines virtualize hardware whereas containers virtualize operating system kernels.
+> **[0:12](https://www.linkedin.com/learning/learning-docker-17236240/containers-vs-virtual-machines?u=76281980&t=12)** The biggest difference is that virtual machines virtualize [[Hardware]] whereas containers virtualize operating system kernels.
 >
 > **[0:20](https://www.linkedin.com/learning/learning-docker-17236240/containers-vs-virtual-machines?u=76281980&t=20)** What does this actually mean?
 >
@@ -373,22 +368,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Virtual Machines]] (10), [[Hardware]] (6), application (1), [[Security]] (1), next (1)
+> **Frameworks & Libraries:** [[Virtual Machines]] (10), [[Hardware]] (6)
 > **Cross-References:** in the next (1), we covered (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### The anatomy of a container
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/the-anatomy-of-a-container?u=76281980)
+#### [The anatomy of a container](https://www.linkedin.com/learning/learning-docker-17236240/the-anatomy-of-a-container?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-docker-17236240/the-anatomy-of-a-container?u=76281980&t=0)** - [Instructor] In the last video, we looked at the difference between containers and virtual machines.
+> **[0:00](https://www.linkedin.com/learning/learning-docker-17236240/the-anatomy-of-a-container?u=76281980&t=0)** - [Instructor] In the last video, we looked at the difference between containers and [[Virtual Machines]].
 >
 > **[0:05](https://www.linkedin.com/learning/learning-docker-17236240/the-anatomy-of-a-container?u=76281980&t=5)** We also introduced the container runtime, a component that works with operating system kernels to "containers," let's briefly talk about what creating containers actually means.
 >
-> **[0:18](https://www.linkedin.com/learning/learning-docker-17236240/the-anatomy-of-a-container?u=76281980&t=18)** A container is composed of two things: a Linux namespace and a Linux control group.
+> **[0:18](https://www.linkedin.com/learning/learning-docker-17236240/the-anatomy-of-a-container?u=76281980&t=18)** A container is composed of two things: a [[Linux]] namespace and a Linux control group.
 >
 > **[0:24](https://www.linkedin.com/learning/learning-docker-17236240/the-anatomy-of-a-container?u=76281980&t=24)** The diagram below describes these components in more detail.
 >
@@ -396,7 +390,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/learning-docker-17236240/the-anatomy-of-a-container?u=76281980&t=31)** Namespaces are a Linux kernel feature that provides the ability to expose different "views" of your system to applications running within it.
 >
-> **[0:39](https://www.linkedin.com/learning/learning-docker-17236240/the-anatomy-of-a-container?u=76281980&t=39)** This way, you can have an application think it's running as the say, route super user with access to an entire file system in all sorts of hardware when it's actually running as user 154678 with access to a single folder.
+> **[0:39](https://www.linkedin.com/learning/learning-docker-17236240/the-anatomy-of-a-container?u=76281980&t=39)** This way, you can have an application think it's running as the say, route super user with access to an entire file system in all sorts of [[Hardware]] when it's actually running as user 154678 with access to a single folder.
 >
 > **[0:55](https://www.linkedin.com/learning/learning-docker-17236240/the-anatomy-of-a-container?u=76281980&t=55)** Today's Linux kernels provide eight namespaces the ability to view and create users through the USERNS namespace, access to file systems through the MOUNT namespace, network communication abilities through the NET namespace, interprocess communication through the IPC namespace, the ability to change time through the TIME namespace, process ID management through the PID namespace, or PID.
 >
@@ -428,7 +422,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/learning-docker-17236240/the-anatomy-of-a-container?u=76281980&t=169)** However, these features come with two important caveats.
 >
-> **[2:53](https://www.linkedin.com/learning/learning-docker-17236240/the-anatomy-of-a-container?u=76281980&t=173)** First, because control groups and namespaces are Linux only features, this means that Docker technically only runs natively on Linux and some newer versions of Windows as well.
+> **[2:53](https://www.linkedin.com/learning/learning-docker-17236240/the-anatomy-of-a-container?u=76281980&t=173)** First, because control groups and namespaces are Linux only features, this means that Docker technically only runs natively on Linux and some newer versions of [[Windows]] as well.
 >
 > **[3:04](https://www.linkedin.com/learning/learning-docker-17236240/the-anatomy-of-a-container?u=76281980&t=184)** Second and, more importantly, containers can run on anything but their images are tied to the kernel they were created from.
 >
@@ -442,7 +436,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (9), [[Virtual Machines]] (3), [[Hardware]] (3), [[Windows]] (3), feature (2)
+> **Frameworks & Libraries:** [[Linux]] (9), [[Virtual Machines]] (3), [[Hardware]] (3), [[Windows]] (3)
 > **Env Vars:** time (2), pid (2), cpu (2), userns (1), mount (1)
 > **CLI Commands:** docker (6)
 > **Cross-References:** in the last (1), in the next (1)
@@ -450,8 +444,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### The Docker difference
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/the-docker-difference?u=76281980)
+#### [The Docker difference](https://www.linkedin.com/learning/learning-docker-17236240/the-docker-difference?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -477,13 +470,13 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/learning-docker-17236240/the-docker-difference?u=76281980&t=69)** BSD Jails and Solaris zones merged into FreeBSD in 1999, and Solaris in 2004 respectively, These both build on chroots in a big way.
 >
-> **[1:21](https://www.linkedin.com/learning/learning-docker-17236240/the-docker-difference?u=76281980&t=81)** With jails or zones, administrators could create entire virtual environments for applications instead of just quote unquote virtual file systems, without needing to emulate hardware like virtual machines can.
+> **[1:21](https://www.linkedin.com/learning/learning-docker-17236240/the-docker-difference?u=76281980&t=81)** With jails or zones, administrators could create entire virtual environments for applications instead of just quote unquote virtual file systems, without needing to emulate [[Hardware]] like [[Virtual Machines]] can.
 >
 > **[1:34](https://www.linkedin.com/learning/learning-docker-17236240/the-docker-difference?u=76281980&t=94)** Like today's containers, administrators could restrict what processes saw or used in a jail or zone, without processes knowing that they were being restricted.
 >
-> **[1:43](https://www.linkedin.com/learning/learning-docker-17236240/the-docker-difference?u=76281980&t=103)** Not to be outdone, Linux gained a similar superpower in 2007 with Linux containers or LXC for short.
+> **[1:43](https://www.linkedin.com/learning/learning-docker-17236240/the-docker-difference?u=76281980&t=103)** Not to be outdone, [[Linux]] gained a similar superpower in 2007 with Linux containers or LXC for short.
 >
-> **[1:52](https://www.linkedin.com/learning/learning-docker-17236240/the-docker-difference?u=76281980&t=112)** Thanks to significant contributions from Google.
+> **[1:52](https://www.linkedin.com/learning/learning-docker-17236240/the-docker-difference?u=76281980&t=112)** Thanks to significant contributions from [[Google]].
 >
 > **[1:54](https://www.linkedin.com/learning/learning-docker-17236240/the-docker-difference?u=76281980&t=114)** Linux containers used control groups and name spaces to provide much of the same functionality as BSD jails can.
 >
@@ -533,7 +526,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (4), application (3), [[Hardware]] (1), [[Virtual Machines]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Linux]] (4), [[Hardware]] (1), [[Virtual Machines]] (1), [[Google]] (1)
 > **CLI Commands:** docker (17)
 > **Env Vars:** bsd (3), lxc (2), uid (1)
 > **Prerequisites:** getting started (1), configure (1)
@@ -542,8 +535,7 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Definitions:** short for (1)
 
-#### Docker alternatives
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/docker-alternatives?u=76281980)
+#### [Docker alternatives](https://www.linkedin.com/learning/learning-docker-17236240/docker-alternatives?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -551,9 +543,9 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/learning-docker-17236240/docker-alternatives?u=76281980&t=3)** Many other solutions exist, each with their advantages and disadvantages.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-docker-17236240/docker-alternatives?u=76281980&t=8)** In 2016, Kubernetes, the largest and most popular tool for managing large numbers of containers, created the Container Runtime Interface, or C-R-I, or CRI, to allow developers to create their own container run times and add or remove features necessary for their projects.
+> **[0:08](https://www.linkedin.com/learning/learning-docker-17236240/docker-alternatives?u=76281980&t=8)** In 2016, [[Kubernetes]], the largest and most popular tool for managing large numbers of containers, created the Container Runtime Interface, or C-R-I, or CRI, to allow developers to create their own container run times and add or remove features necessary for their projects.
 >
-> **[0:27](https://www.linkedin.com/learning/learning-docker-17236240/docker-alternatives?u=76281980&t=27)** CRI-O, runc, and Firecracker from AWS, or Amazon Web Services, are examples of CRI-compliant container run times.
+> **[0:27](https://www.linkedin.com/learning/learning-docker-17236240/docker-alternatives?u=76281980&t=27)** CRI-O, runc, and Firecracker from AWS, or [[Amazon Web Services (AWS)|Amazon Web Services]], are examples of CRI-compliant container run times.
 >
 > **[0:38](https://www.linkedin.com/learning/learning-docker-17236240/docker-alternatives?u=76281980&t=38)** One of the biggest concerns with the Docker Engine is that most containers that it creates runs as the root super user.
 >
@@ -569,7 +561,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (1), aws (1), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1)
 > **CLI Commands:** docker (3), aws (1)
 > **Env Vars:** cri (3), aws (1)
 > **Speakers:** - [instructor] (1)
@@ -579,22 +571,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Docker Desktop
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/docker-desktop?u=76281980)
+#### [Docker Desktop](https://www.linkedin.com/learning/learning-docker-17236240/docker-desktop?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-docker-17236240/docker-desktop?u=76281980&t=0)** - [Instructor] In the anatomy of a container, we learned that containers are composed of Linux control groups and Linux namespaces.
+> **[0:00](https://www.linkedin.com/learning/learning-docker-17236240/docker-desktop?u=76281980&t=0)** - [Instructor] In the anatomy of a container, we learned that containers are composed of [[Linux]] control groups and Linux namespaces.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-docker-17236240/docker-desktop?u=76281980&t=8)** Namespaces allow administrators to restrict what processes can see on a system, while control groups limit resources that containers can use, like memory and processor time.
 >
-> **[0:19](https://www.linkedin.com/learning/learning-docker-17236240/docker-desktop?u=76281980&t=19)** Since namespaces and control groups are unique to Linux, Docker is designed to only run on Linux, but most developers use Macs or Windows to write and test their codes, so this proved to be an interesting challenge for Docker to solve.
+> **[0:19](https://www.linkedin.com/learning/learning-docker-17236240/docker-desktop?u=76281980&t=19)** Since namespaces and control groups are unique to Linux, Docker is designed to only run on Linux, but most developers use Macs or [[Windows]] to write and test their codes, so this proved to be an interesting challenge for Docker to solve.
 >
 > **[0:36](https://www.linkedin.com/learning/learning-docker-17236240/docker-desktop?u=76281980&t=36)** Docker's first workaround for this was a tool called Docker Machine.
 >
 > **[0:40](https://www.linkedin.com/learning/learning-docker-17236240/docker-desktop?u=76281980&t=40)** Docker Machine used Oracle's VirtualBox to create a small Linux-based virtual machine whose only purpose was to run the Docker engine.
 >
-> **[0:49](https://www.linkedin.com/learning/learning-docker-17236240/docker-desktop?u=76281980&t=49)** Once created, users needed to run a small shell script to connect their Docker CLI with the virtual machine.
+> **[0:49](https://www.linkedin.com/learning/learning-docker-17236240/docker-desktop?u=76281980&t=49)** Once created, users needed to run a small shell script to connect their Docker [[CLI]] with the virtual machine.
 >
 > **[0:56](https://www.linkedin.com/learning/learning-docker-17236240/docker-desktop?u=76281980&t=56)** While Docker Machine worked well, it had two key problems.
 >
@@ -618,7 +609,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/learning-docker-17236240/docker-desktop?u=76281980&t=120)** It also automatically handles mounting volumes and exposing network ports from the virtual machine.
 >
-> **[2:07](https://www.linkedin.com/learning/learning-docker-17236240/docker-desktop?u=76281980&t=127)** And it provides a really nice GUI, or Graphical User Interface, to simplify configuring the virtual machine, as well as some common next steps like creating Kubernetes clusters.
+> **[2:07](https://www.linkedin.com/learning/learning-docker-17236240/docker-desktop?u=76281980&t=127)** And it provides a really nice GUI, or Graphical User Interface, to simplify configuring the virtual machine, as well as some common next steps like creating [[Kubernetes]] clusters.
 >
 > **[2:20](https://www.linkedin.com/learning/learning-docker-17236240/docker-desktop?u=76281980&t=140)** In 2021, Mirantis, Docker's parent company, changed Docker Desktop's license to require companies with more than 250 employees and $10 million in revenue to purchase Docker subscriptions before using it.
 >
@@ -632,7 +623,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (6), [[Windows]] (4), [[CLI]] (2), next (1), [[Kubernetes]] (1)
+> **Frameworks & Libraries:** [[Linux]] (6), [[Windows]] (4), [[CLI]] (2), [[Kubernetes]] (1)
 > **CLI Commands:** docker (21)
 > **Tools:** docker desktop (5)
 > **Env Vars:** cli (2), gui (1)
@@ -640,8 +631,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Install Docker on a Mac with Docker Desktop
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/install-docker-on-a-mac-with-docker-desktop?u=76281980)
+#### [Install Docker on a Mac with Docker Desktop](https://www.linkedin.com/learning/learning-docker-17236240/install-docker-on-a-mac-with-docker-desktop?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -739,7 +729,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), hit (3), application (2), prompt (1), open-source (1)
 > **CLI Commands:** docker (23), brew (2), rm (2), find (1)
 > **Tools:** docker desktop (4), terminal (4), command line (1)
 > **Prerequisites:** install (6), you'll need (1), configure (1)
@@ -747,13 +736,13 @@ created: 2026-05-02
 > **Code Identifiers:** macos (3)
 > **URLs:** [docker.com](https://docker.com) (1), [https://brew.sh](https://brew.sh) (1)
 > **Env Vars:** dmg (2)
+> **File Paths:** brew.sh (1)
 
-#### Install Docker on Windows with Docker Desktop
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/install-docker-on-windows-with-docker-desktop?u=76281980)
+#### [Install Docker on Windows with Docker Desktop](https://www.linkedin.com/learning/learning-docker-17236240/install-docker-on-windows-with-docker-desktop?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-docker-17236240/install-docker-on-windows-with-docker-desktop?u=76281980&t=0)** - [Instructor] Let's take a look at how to install Docker on Windows.
+> **[0:00](https://www.linkedin.com/learning/learning-docker-17236240/install-docker-on-windows-with-docker-desktop?u=76281980&t=0)** - [Instructor] Let's take a look at how to install Docker on [[Windows]].
 >
 > **[0:03](https://www.linkedin.com/learning/learning-docker-17236240/install-docker-on-windows-with-docker-desktop?u=76281980&t=3)** There are a few minimum requirements that your system will need to meet.
 >
@@ -761,7 +750,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/learning-docker-17236240/install-docker-on-windows-with-docker-desktop?u=76281980&t=10)** We'll start by going to [docker.com](https://docker.com) in your favorite browser.
 >
-> **[0:13](https://www.linkedin.com/learning/learning-docker-17236240/install-docker-on-windows-with-docker-desktop?u=76281980&t=13)** I'm using Microsoft Edge for this example.
+> **[0:13](https://www.linkedin.com/learning/learning-docker-17236240/install-docker-on-windows-with-docker-desktop?u=76281980&t=13)** I'm using [[Microsoft]] Edge for this example.
 >
 > **[0:16](https://www.linkedin.com/learning/learning-docker-17236240/install-docker-on-windows-with-docker-desktop?u=76281980&t=16)** You'll immediately see a blue Download icon for your operating system.
 >
@@ -789,7 +778,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/learning-docker-17236240/install-docker-on-windows-with-docker-desktop?u=76281980&t=78)** The WSL 2 backend is more interesting.
 >
-> **[1:22](https://www.linkedin.com/learning/learning-docker-17236240/install-docker-on-windows-with-docker-desktop?u=76281980&t=82)** Windows has been capable of running a real Linux within Windows since Windows 10 Anniversary Edition without virtualization.
+> **[1:22](https://www.linkedin.com/learning/learning-docker-17236240/install-docker-on-windows-with-docker-desktop?u=76281980&t=82)** Windows has been capable of running a real [[Linux]] within Windows since [[Windows 10]] Anniversary Edition without virtualization.
 >
 > **[1:30](https://www.linkedin.com/learning/learning-docker-17236240/install-docker-on-windows-with-docker-desktop?u=76281980&t=90)** This feature is enabled by the Windows kernel and performs mostly as fast as a real Linux install on your computer.
 >
@@ -861,7 +850,7 @@ created: 2026-05-02
 >
 > **[4:40](https://www.linkedin.com/learning/learning-docker-17236240/install-docker-on-windows-with-docker-desktop?u=76281980&t=280)** You can also see on your taskbar that the boxes on top of the Docker whale have stopped moving and the tool tip now says that Docker Desktop is running.
 >
-> **[4:49](https://www.linkedin.com/learning/learning-docker-17236240/install-docker-on-windows-with-docker-desktop?u=76281980&t=289)** Finally, let's open PowerShell to use the Docker client and download that hello world image.
+> **[4:49](https://www.linkedin.com/learning/learning-docker-17236240/install-docker-on-windows-with-docker-desktop?u=76281980&t=289)** Finally, let's open [[Powershell]] to use the Docker client and download that hello world image.
 >
 > **[4:58](https://www.linkedin.com/learning/learning-docker-17236240/install-docker-on-windows-with-docker-desktop?u=76281980&t=298)** So I'm going to click on the Start button, then I'm going to type PowerShell, and then I'll hit Enter.
 >
@@ -893,7 +882,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (7), [[Linux]] (4), [[Powershell]] (3), [[Microsoft]] (1), next (1)
+> **Frameworks & Libraries:** [[Windows]] (7), [[Linux]] (4), [[Powershell]] (3), [[Microsoft]] (1), [[Windows 10]] (1)
 > **CLI Commands:** docker (38), make (1)
 > **Tools:** docker desktop (17), powershell (3)
 > **UI Navigation:** click on (8), double-click (1)
@@ -902,12 +891,11 @@ created: 2026-05-02
 > **Cross-References:** we mentioned (1), later in (1)
 > **URLs:** [docker.com](https://docker.com) (1)
 
-#### Install Docker on Linux
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/install-docker-on-linux?u=76281980)
+#### [Install Docker on Linux](https://www.linkedin.com/learning/learning-docker-17236240/install-docker-on-linux?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-docker-17236240/install-docker-on-linux?u=76281980&t=0)** - [Instructor] Let's learn how to install Docker on Linux.
+> **[0:00](https://www.linkedin.com/learning/learning-docker-17236240/install-docker-on-linux?u=76281980&t=0)** - [Instructor] Let's learn how to install Docker on [[Linux]].
 >
 > **[0:03](https://www.linkedin.com/learning/learning-docker-17236240/install-docker-on-linux?u=76281980&t=3)** Earlier, we learned that Docker is designed to work natively with Linux.
 >
@@ -915,7 +903,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/learning-docker-17236240/install-docker-on-linux?u=76281980&t=11)** Instead, we'll be installing the Docker Engine and the Docker command line client.
 >
-> **[0:16](https://www.linkedin.com/learning/learning-docker-17236240/install-docker-on-linux?u=76281980&t=16)** While I'll be using Ubuntu for this video, these instructions should be more or less the same on other distributions.
+> **[0:16](https://www.linkedin.com/learning/learning-docker-17236240/install-docker-on-linux?u=76281980&t=16)** While I'll be using [[Ubuntu]] for this video, these instructions should be more or less the same on other distributions.
 >
 > **[0:22](https://www.linkedin.com/learning/learning-docker-17236240/install-docker-on-linux?u=76281980&t=22)** Visit the docs at [https://docs.docker.io](https://docs.docker.io).
 >
@@ -969,7 +957,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/learning-docker-17236240/install-docker-on-linux?u=76281980&t=158)** Fortunately, we can work around this by adding our user to the docker group.
 >
-> **[2:43](https://www.linkedin.com/learning/learning-docker-17236240/install-docker-on-linux?u=76281980&t=163)** On this machine, my username is linkedin.
+> **[2:43](https://www.linkedin.com/learning/learning-docker-17236240/install-docker-on-linux?u=76281980&t=163)** On this machine, my username is [[LinkedIn]].
 >
 > **[2:49](https://www.linkedin.com/learning/learning-docker-17236240/install-docker-on-linux?u=76281980&t=169)** To add myself to the docker group, I'll run sudo usermod
 >
@@ -1015,7 +1003,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (3), [[LinkedIn]] (3), next (2), [[Ubuntu]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Linux]] (3), [[LinkedIn]] (3), [[Ubuntu]] (1)
 > **CLI Commands:** docker (24), sudo (6), curl (3), apt (1), make (1)
 > **Tools:** terminal (3), docker desktop (1), command line (1)
 > **Prerequisites:** install (3)
@@ -1029,12 +1017,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Exploring the Docker CLI
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/exploring-the-docker-cli?u=76281980)
+#### [Exploring the Docker CLI](https://www.linkedin.com/learning/learning-docker-17236240/exploring-the-docker-cli?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-docker-17236240/exploring-the-docker-cli?u=76281980&t=0)** - The Docker command line interface, or CLI, is the most popular way of interacting with Docker containers.
+> **[0:00](https://www.linkedin.com/learning/learning-docker-17236240/exploring-the-docker-cli?u=76281980&t=0)** - The Docker command line interface, or [[CLI]], is the most popular way of interacting with Docker containers.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-docker-17236240/exploring-the-docker-cli?u=76281980&t=7)** Now that we know more about what Docker containers are and how they work, let's explore the Docker CLI.
 >
@@ -1046,7 +1033,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/learning-docker-17236240/exploring-the-docker-cli?u=76281980&t=24)** Since I'm recording this on a Mac, I'll do this by holding the command and space keys together to open spotlight, typing in terminal, then pressing enter.
 >
-> **[0:35](https://www.linkedin.com/learning/learning-docker-17236240/exploring-the-docker-cli?u=76281980&t=35)** If you're on Windows, you can use PowerShell or the command prompt instead.
+> **[0:35](https://www.linkedin.com/learning/learning-docker-17236240/exploring-the-docker-cli?u=76281980&t=35)** If you're on [[Windows]], you can use [[Powershell]] or the command prompt instead.
 >
 > **[0:40](https://www.linkedin.com/learning/learning-docker-17236240/exploring-the-docker-cli?u=76281980&t=40)** Click on the start key, search for PowerShell, then click on the first result that appears.
 >
@@ -1092,7 +1079,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[CLI]] (5), [[Powershell]] (2), [[Windows]] (1), prompt (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[CLI]] (5), [[Powershell]] (2), [[Windows]] (1)
 > **CLI Commands:** docker (14)
 > **Tools:** command line (2), terminal (2), powershell (2), command prompt (1)
 > **Env Vars:** cli (5)
@@ -1101,8 +1088,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Prerequisites:** install (1)
 
-#### Create a Docker container
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/create-a-docker-container?u=76281980)
+#### [Create a Docker container](https://www.linkedin.com/learning/learning-docker-17236240/create-a-docker-container?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1152,7 +1138,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/learning-docker-17236240/create-a-docker-container?u=76281980&t=106)** I'm going to create it by running Docker container create hello-world.
 >
-> **[1:53](https://www.linkedin.com/learning/learning-docker-17236240/create-a-docker-container?u=76281980&t=113)** Now, for demo purposes, I want to get a Linux specific version of this hello world image.
+> **[1:53](https://www.linkedin.com/learning/learning-docker-17236240/create-a-docker-container?u=76281980&t=113)** Now, for demo purposes, I want to get a [[Linux]] specific version of this hello world image.
 >
 > **[1:58](https://www.linkedin.com/learning/learning-docker-17236240/create-a-docker-container?u=76281980&t=118)** To do that, I'll add a colon, then Linux.
 >
@@ -1268,7 +1254,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (3), application (2), web (1), hit (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Linux]] (3)
 > **CLI Commands:** docker (38), nginx (3)
 > **Definitions:** means that (5), is a  (3), is called (2)
 > **Tools:** terminal (4)
@@ -1277,8 +1263,7 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a Docker container: The short way
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/create-a-docker-container-the-short-way?u=76281980)
+#### [Create a Docker container: The short way](https://www.linkedin.com/learning/learning-docker-17236240/create-a-docker-container-the-short-way?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1296,7 +1281,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/learning-docker-17236240/create-a-docker-container-the-short-way?u=76281980&t=28)** Let's try running it against our Hello World Docker image from before.
 >
-> **[0:32](https://www.linkedin.com/learning/learning-docker-17236240/create-a-docker-container-the-short-way?u=76281980&t=32)** To do that, I'm going to just type docker run hello-world, and again, since I want the Linux version for demo purposes, I'll type :linux.
+> **[0:32](https://www.linkedin.com/learning/learning-docker-17236240/create-a-docker-container-the-short-way?u=76281980&t=32)** To do that, I'm going to just type docker run hello-world, and again, since I want the [[Linux]] version for demo purposes, I'll type :linux.
 >
 > **[0:44](https://www.linkedin.com/learning/learning-docker-17236240/create-a-docker-container-the-short-way?u=76281980&t=44)** That was so much faster.
 >
@@ -1335,8 +1320,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a Docker container from Dockerfiles, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/create-a-docker-container-from-dockerfiles-part-1?u=76281980)
+#### [Create a Docker container from Dockerfiles, part 1](https://www.linkedin.com/learning/learning-docker-17236240/create-a-docker-container-from-dockerfiles-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1404,7 +1388,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Security]] (1), teams (1), application (1)
 > **CLI Commands:** docker (23), curl (1)
 > **Tools:** bash (2), vim (1)
 > **Definitions:** is an  (1), is called (1), is a  (1)
@@ -1412,9 +1395,9 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Env Vars:** cmd (1)
 > **Cross-References:** later in (1)
+> **Documentation:** the documentation (1)
 
-#### Create a Docker container from Dockerfiles, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/create-a-docker-container-from-dockerfiles-part-2?u=76281980)
+#### [Create a Docker container from Dockerfiles, part 2](https://www.linkedin.com/learning/learning-docker-17236240/create-a-docker-container-from-dockerfiles-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1488,8 +1471,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a Docker container with BuildKit
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/create-a-docker-container-with-buildkit?u=76281980)
+#### [Create a Docker container with BuildKit](https://www.linkedin.com/learning/learning-docker-17236240/create-a-docker-container-with-buildkit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1533,11 +1515,11 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/learning-docker-17236240/create-a-docker-container-with-buildkit?u=76281980&t=124)** These are the containers that are used to produce your container images.
 >
-> **[2:07](https://www.linkedin.com/learning/learning-docker-17236240/create-a-docker-container-with-buildkit?u=76281980&t=127)** Builders make it possible to do several things, like build images that work across Intel and ARM chips, build images remotely on other computers, or even build images within Kubernetes.
+> **[2:07](https://www.linkedin.com/learning/learning-docker-17236240/create-a-docker-container-with-buildkit?u=76281980&t=127)** Builders make it possible to do several things, like build images that work across Intel and ARM chips, build images remotely on other computers, or even build images within [[Kubernetes]].
 >
 > **[2:19](https://www.linkedin.com/learning/learning-docker-17236240/create-a-docker-container-with-buildkit?u=76281980&t=139)** Check out this link to learn more about BuildKit builders.
 >
-> **[2:23](https://www.linkedin.com/learning/learning-docker-17236240/create-a-docker-container-with-buildkit?u=76281980&t=143)** As you can see, the rest of the build is just like what we saw last time.
+> **[2:23](https://www.linkedin.com/learning/learning-docker-17236240/create-a-docker-container-with-buildkit?u=76281980&t=143)** As you can see, the [[Representational State Transfer (REST)|rest]] of the build is just like what we saw last time.
 >
 > **[2:27](https://www.linkedin.com/learning/learning-docker-17236240/create-a-docker-container-with-buildkit?u=76281980&t=147)** Running images built by BuildKit is also no different.
 >
@@ -1553,7 +1535,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1), [[Kubernetes]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** docker (15), find (1), make (1), rm (1)
 > **Tools:** docker desktop (2), terminal (1)
 > **Analogies:** just like (2), for example (1)
@@ -1562,8 +1544,7 @@ created: 2026-05-02
 > **Env Vars:** arm (1)
 > **Speakers:** - [instructor] (1)
 
-#### Interact with your container
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/interact-with-your-container?u=76281980)
+#### [Interact with your container](https://www.linkedin.com/learning/learning-docker-17236240/interact-with-your-container?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1679,7 +1660,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Troubleshooting]] (2), hit (2), prompt (1)
 > **CLI Commands:** docker (23), sudo (1)
 > **Tools:** terminal (10), bash (5), vim (1)
 > **Analogies:** just like (3), for example (1), similar to (1)
@@ -1687,8 +1667,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1), means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Stopping and removing the container
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/stopping-and-removing-the-container?u=76281980)
+#### [Stopping and removing the container](https://www.linkedin.com/learning/learning-docker-17236240/stopping-and-removing-the-container?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1696,7 +1675,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/learning-docker-17236240/stopping-and-removing-the-container?u=76281980&t=4)** We have lots of containers here, but only one of them, our-server, is still running.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-docker-17236240/stopping-and-removing-the-container?u=76281980&t=9)** The rest are just sitting there.
+> **[0:09](https://www.linkedin.com/learning/learning-docker-17236240/stopping-and-removing-the-container?u=76281980&t=9)** The [[Representational State Transfer (REST)|rest]] are just sitting there.
 >
 > **[0:12](https://www.linkedin.com/learning/learning-docker-17236240/stopping-and-removing-the-container?u=76281980&t=12)** By default, Docker does not stop or remove containers for you.
 >
@@ -1764,7 +1743,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/learning-docker-17236240/stopping-and-removing-the-container?u=76281980&t=187)** We could go through each ID and run Docker RM against them, but that'll take a long time.
 >
-> **[3:12](https://www.linkedin.com/learning/learning-docker-17236240/stopping-and-removing-the-container?u=76281980&t=192)** Instead, what I like to do is use xargs, a command built into most Linux and Unix-y systems, to take the output from Docker PS and feed it into a command in one fell swoop, usually as a loop.
+> **[3:12](https://www.linkedin.com/learning/learning-docker-17236240/stopping-and-removing-the-container?u=76281980&t=192)** Instead, what I like to do is use xargs, a command built into most [[Linux]] and Unix-y systems, to take the output from Docker PS and feed it into a command in one fell swoop, usually as a loop.
 >
 > **[3:25](https://www.linkedin.com/learning/learning-docker-17236240/stopping-and-removing-the-container?u=76281980&t=205)** Let me show you all how awesome this is.
 >
@@ -1814,7 +1793,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[Representational State Transfer (REST)|Rest]] (1), web (1), database (1), data (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Linux]] (1)
 > **CLI Commands:** docker (31), rm (6)
 > **Env Vars:** rmi (4), fd69 (1)
 > **Analogies:** for example (1), similar to (1)
@@ -1823,8 +1802,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Binding ports to your container
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/binding-ports-to-your-container?u=76281980)
+#### [Binding ports to your container](https://www.linkedin.com/learning/learning-docker-17236240/binding-ports-to-your-container?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1934,7 +1912,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (9), next (3), data (2), feature (2), hit (1)
 > **CLI Commands:** docker (17), rm (2)
 > **Ports:** port 5000 (3)
 > **UI Navigation:** go to (3)
@@ -1942,9 +1919,9 @@ created: 2026-05-02
 > **Definitions:** is called (2)
 > **Cross-References:** go back to (1)
 > **Best Practices:** remember to (1)
+> **Speakers:** - [instructor] (1)
 
-#### Saving data from containers
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/saving-data-from-containers?u=76281980)
+#### [Saving data from containers](https://www.linkedin.com/learning/learning-docker-17236240/saving-data-from-containers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1956,7 +1933,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/learning-docker-17236240/saving-data-from-containers?u=76281980&t=8)** Let me show you an example.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-docker-17236240/saving-data-from-containers?u=76281980&t=10)** I'm going to use Docker run --rm to create and immediately remove a simple Ubuntu container.
+> **[0:10](https://www.linkedin.com/learning/learning-docker-17236240/saving-data-from-containers?u=76281980&t=10)** I'm going to use Docker run --rm to create and immediately remove a simple [[Ubuntu]] container.
 >
 > **[0:18](https://www.linkedin.com/learning/learning-docker-17236240/saving-data-from-containers?u=76281980&t=18)** I'm going to use --entrypoint to tell Docker that I want to run a shell command.
 >
@@ -2074,7 +2051,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ubuntu]] (3), data (2), feature (2), next (1), hit (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (3)
 > **CLI Commands:** docker (8), cat (3), make (2), rm (1), find (1)
 > **Code Identifiers:** change_this_file (5), this_file_does_not_exist (2)
 > **Cross-References:** go back to (1)
@@ -2082,8 +2059,7 @@ created: 2026-05-02
 > **Warnings:** caveat (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introducing the Docker Hub
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/introducing-the-docker-hub?u=76281980)
+#### [Introducing the Docker Hub](https://www.linkedin.com/learning/learning-docker-17236240/introducing-the-docker-hub?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2099,7 +2075,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/learning-docker-17236240/introducing-the-docker-hub?u=76281980&t=29)** Container images that do not have a version automatically get tagged with the version called latest.
 >
-> **[0:35](https://www.linkedin.com/learning/learning-docker-17236240/introducing-the-docker-hub?u=76281980&t=35)** Like downloading software on Homebrew or GitHub, this naming scheme makes it really easy to download specific versions of images.
+> **[0:35](https://www.linkedin.com/learning/learning-docker-17236240/introducing-the-docker-hub?u=76281980&t=35)** Like downloading software on Homebrew or [[GitHub]], this naming scheme makes it really easy to download specific versions of images.
 >
 > **[0:43](https://www.linkedin.com/learning/learning-docker-17236240/introducing-the-docker-hub?u=76281980&t=43)** We'll see what I mean here in a moment.
 >
@@ -2107,7 +2083,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/learning-docker-17236240/introducing-the-docker-hub?u=76281980&t=50)** This is a publicly accessible registry that anyone can push images to.
 >
-> **[0:54](https://www.linkedin.com/learning/learning-docker-17236240/introducing-the-docker-hub?u=76281980&t=54)** Whenever you pull images or whenever Docker needs to pull an image from the from line of a Docker file, it will fetch an image from Docker Hub.
+> **[0:54](https://www.linkedin.com/learning/learning-docker-17236240/introducing-the-docker-hub?u=76281980&t=54)** Whenever you pull images or whenever Docker needs to pull an image from the from line of a Docker file, it will [[Fetch]] an image from Docker Hub.
 >
 > **[1:03](https://www.linkedin.com/learning/learning-docker-17236240/introducing-the-docker-hub?u=76281980&t=63)** We're going to create an account on Docker Hub.
 >
@@ -2121,15 +2097,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), feature (1), [[GitHub]] (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[Fetch]] (1)
 > **CLI Commands:** docker (10)
 > **Definitions:** is a  (3)
 > **Cross-References:** we mentioned (1), earlier in (1)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
-#### Pushing images to the Docker registry
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/pushing-images-to-the-docker-registry?u=76281980)
+#### [Pushing images to the Docker registry](https://www.linkedin.com/learning/learning-docker-17236240/pushing-images-to-the-docker-registry?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2153,7 +2128,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/learning-docker-17236240/pushing-images-to-the-docker-registry?u=76281980&t=43)** Let's go back to terminal.
 >
-> **[0:46](https://www.linkedin.com/learning/learning-docker-17236240/pushing-images-to-the-docker-registry?u=76281980&t=46)** The next thing we're going to do is log into Docker Hub from the Docker CLI.
+> **[0:46](https://www.linkedin.com/learning/learning-docker-17236240/pushing-images-to-the-docker-registry?u=76281980&t=46)** The next thing we're going to do is log into Docker Hub from the Docker [[CLI]].
 >
 > **[0:50](https://www.linkedin.com/learning/learning-docker-17236240/pushing-images-to-the-docker-registry?u=76281980&t=50)** We can easily do this with docker login.
 >
@@ -2177,7 +2152,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/learning-docker-17236240/pushing-images-to-the-docker-registry?u=76281980&t=96)** Docker tag renames Docker images.
 >
-> **[1:38](https://www.linkedin.com/learning/learning-docker-17236240/pushing-images-to-the-docker-registry?u=76281980&t=98)** It's like the MV command in Linux terminals, but for Docker images.
+> **[1:38](https://www.linkedin.com/learning/learning-docker-17236240/pushing-images-to-the-docker-registry?u=76281980&t=98)** It's like the MV command in [[Linux]] terminals, but for Docker images.
 >
 > **[1:44](https://www.linkedin.com/learning/learning-docker-17236240/pushing-images-to-the-docker-registry?u=76281980&t=104)** Okay, so let's rename our-web-server.
 >
@@ -2211,7 +2186,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (7), next (2), [[Security]] (1), [[CLI]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[CLI]] (1), [[Linux]] (1)
 > **CLI Commands:** docker (22), mv (1), make (1)
 > **Versions:** 0.0.1 (2)
 > **Analogies:** it's like (1), similar to (1)
@@ -2220,8 +2195,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **UI Navigation:** click on (1)
 
-#### Checking your images in Docker Hub
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/checking-your-images-in-docker-hub?u=76281980)
+#### [Checking your images in Docker Hub](https://www.linkedin.com/learning/learning-docker-17236240/checking-your-images-in-docker-hub?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2297,7 +2271,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1)
 > **CLI Commands:** docker (9), find (1)
 > **Versions:** 0.0.0 (3), 0.0.1 (1), 0.0.2 (1)
 > **UI Navigation:** click on (4)
@@ -2305,9 +2278,9 @@ created: 2026-05-02
 > **Tools:** terminal (1), command line (1)
 > **Definitions:** means that (1)
 > **Best Practices:** remember to (1)
+> **Speakers:** - now (1)
 
-#### Beyond Docker Hub: Other popular container registries
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/beyond-docker-hub-other-popular-container-registries?u=76281980)
+#### [Beyond Docker Hub: Other popular container registries](https://www.linkedin.com/learning/learning-docker-17236240/beyond-docker-hub-other-popular-container-registries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2319,7 +2292,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/learning-docker-17236240/beyond-docker-hub-other-popular-container-registries?u=76281980&t=10)** An image registry that's exploded in popularity over the years is in a place you're probably already familiar with.
 >
-> **[0:18](https://www.linkedin.com/learning/learning-docker-17236240/beyond-docker-hub-other-popular-container-registries?u=76281980&t=18)** GitHub, the world's most popular code sharing and collaboration platform, enables developers to publicly host container images for their projects for free.
+> **[0:18](https://www.linkedin.com/learning/learning-docker-17236240/beyond-docker-hub-other-popular-container-registries?u=76281980&t=18)** [[GitHub]], the world's most popular code sharing and collaboration platform, enables developers to publicly host container images for their projects for free.
 >
 > **[0:28](https://www.linkedin.com/learning/learning-docker-17236240/beyond-docker-hub-other-popular-container-registries?u=76281980&t=28)** With built-in integration into other popular services, like GitHub Actions, many open source project maintainers are finding the GitHub Container Registry to be an easier and more convenient way of hosting their images.
 >
@@ -2355,15 +2328,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (6), ci (1), [[Security]] (1), cloud (1)
+> **Frameworks & Libraries:** [[GitHub]] (6)
 > **Tools:** github (6), gitlab (4)
 > **CLI Commands:** docker (5), find (1)
 > **Definitions:** is a  (2)
 > **URLs:** [quay.io](https://quay.io) (1)
 > **Speakers:** - [narrator] (1)
 
-#### Challenge: Starting NGINX
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/challenge-starting-nginx?u=76281980)
+#### [Challenge: Starting NGINX](https://www.linkedin.com/learning/learning-docker-17236240/challenge-starting-nginx?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2385,7 +2357,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/learning-docker-17236240/challenge-starting-nginx?u=76281980&t=44)** The container must not exist after you are done viewing the website.
 >
-> **[0:48](https://www.linkedin.com/learning/learning-docker-17236240/challenge-starting-nginx?u=76281980&t=48)** Finally, if you choose to use volume mounts for your solution, make sure that you're inside of the 03_14 folder and map $PWD in capital letters, /website to/usr/share /nginx/html within the container.
+> **[0:48](https://www.linkedin.com/learning/learning-docker-17236240/challenge-starting-nginx?u=76281980&t=48)** Finally, if you choose to use volume mounts for your solution, make sure that you're inside of the 03_14 folder and map $PWD in capital letters, /website to/usr/share /nginx/[[HTML]] within the container.
 >
 > **[1:13](https://www.linkedin.com/learning/learning-docker-17236240/challenge-starting-nginx?u=76281980&t=73)** Good luck and have fun.
 
@@ -2400,8 +2372,7 @@ created: 2026-05-02
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (energetic music) (1)
 
-#### Solution: Starting NGINX
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/solution-starting-nginx?u=76281980)
+#### [Solution: Starting NGINX](https://www.linkedin.com/learning/learning-docker-17236240/solution-starting-nginx?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2427,7 +2398,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/learning-docker-17236240/solution-starting-nginx?u=76281980&t=58)** The next thing we know is that we need to configure our container to use the website in our exercise files.
 >
-> **[1:04](https://www.linkedin.com/learning/learning-docker-17236240/solution-starting-nginx?u=76281980&t=64)** This means that we need to use a volume mount to map our website folder to the "slash usr slash share slash EngineX slash HTML" folder within the container like we saw in the challenge prompt.
+> **[1:04](https://www.linkedin.com/learning/learning-docker-17236240/solution-starting-nginx?u=76281980&t=64)** This means that we need to use a volume mount to map our website folder to the "slash usr slash share slash EngineX slash [[HTML]]" folder within the container like we saw in the challenge prompt.
 >
 > **[1:18](https://www.linkedin.com/learning/learning-docker-17236240/solution-starting-nginx?u=76281980&t=78)** If you get the two confused, that's okay.
 >
@@ -2499,7 +2470,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[HTML]] (4), prompt (2), web (2)
+> **Frameworks & Libraries:** [[HTML]] (4)
 > **CLI Commands:** docker (13), rm (4), make (1)
 > **Env Vars:** html (2), pwd (2), http (1)
 > **Tools:** safari (2), terminal (1)
@@ -2513,14 +2484,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Help! I can't seem to create more containers
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/help-i-can-t-seem-to-create-more-containers?u=76281980)
+#### [Help! I can't seem to create more containers](https://www.linkedin.com/learning/learning-docker-17236240/help-i-can-t-seem-to-create-more-containers?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-docker-17236240/help-i-can-t-seem-to-create-more-containers?u=76281980&t=0)** - [Instructor] So you're humming along using Docker for all the things, you've been building and running all of your apps on Docker for months.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-docker-17236240/help-i-can-t-seem-to-create-more-containers?u=76281980&t=7)** Then one day you're trying to build a Java app with the open JDK 19 image on Docker hub and see something like this.
+> **[0:07](https://www.linkedin.com/learning/learning-docker-17236240/help-i-can-t-seem-to-create-more-containers?u=76281980&t=7)** Then one day you're trying to build a [[Java]] app with the open JDK 19 image on Docker hub and see something like this.
 >
 > **[0:15](https://www.linkedin.com/learning/learning-docker-17236240/help-i-can-t-seem-to-create-more-containers?u=76281980&t=15)** After reading the tutorial on how to check disc space, you run DF dash H to see where you ran out of space, and you have plenty of space everywhere?
 >
@@ -2540,7 +2510,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/learning-docker-17236240/help-i-can-t-seem-to-create-more-containers?u=76281980&t=44)** These compressed files need to live somewhere.
 >
-> **[0:47](https://www.linkedin.com/learning/learning-docker-17236240/help-i-can-t-seem-to-create-more-containers?u=76281980&t=47)** We also learned that on the Mac, and on some Windows installations, the actual Docker engine runs inside of a tiny virtual machine.
+> **[0:47](https://www.linkedin.com/learning/learning-docker-17236240/help-i-can-t-seem-to-create-more-containers?u=76281980&t=47)** We also learned that on the Mac, and on some [[Windows]] installations, the actual Docker engine runs inside of a tiny virtual machine.
 >
 > **[0:54](https://www.linkedin.com/learning/learning-docker-17236240/help-i-can-t-seem-to-create-more-containers?u=76281980&t=54)** What actually happened here is that a folder within that virtual machine ran out of space.
 >
@@ -2556,7 +2526,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/learning-docker-17236240/help-i-can-t-seem-to-create-more-containers?u=76281980&t=86)** The nice thing about this command is that it can take multiple images at a time.
 >
-> **[1:30](https://www.linkedin.com/learning/learning-docker-17236240/help-i-can-t-seem-to-create-more-containers?u=76281980&t=90)** Let's say I don't need any of the selenium images, or this engine X image, or this weird XQ image that I created, anymore.
+> **[1:30](https://www.linkedin.com/learning/learning-docker-17236240/help-i-can-t-seem-to-create-more-containers?u=76281980&t=90)** Let's say I don't need any of the [[Selenium]] images, or this engine X image, or this weird XQ image that I created, anymore.
 >
 > **[1:42](https://www.linkedin.com/learning/learning-docker-17236240/help-i-can-t-seem-to-create-more-containers?u=76281980&t=102)** I can easily remove them in one fell swoop by typing "Docker RMI", and then the tag for each image I want to delete.
 >
@@ -2620,7 +2590,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Selenium]] (2), data (2), [[Java]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Selenium]] (2), [[Java]] (1), [[Windows]] (1)
 > **CLI Commands:** docker (18), rm (1), find (1)
 > **Env Vars:** rmi (4), jdk (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -2629,8 +2599,7 @@ created: 2026-05-02
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [instructor] (1)
 
-#### Help! My container is really slow
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/help-my-container-is-really-slow?u=76281980)
+#### [Help! My container is really slow](https://www.linkedin.com/learning/learning-docker-17236240/help-my-container-is-really-slow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2646,7 +2615,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/learning-docker-17236240/help-my-container-is-really-slow?u=76281980&t=24)** I'm going to start a new container called alpine, in the background with docker run --name and let's set it to alpine -d.
 >
-> **[0:36](https://www.linkedin.com/learning/learning-docker-17236240/help-my-container-is-really-slow?u=76281980&t=36)** Alpine Linux is a Linux distribution that's extremely small and bare bones.
+> **[0:36](https://www.linkedin.com/learning/learning-docker-17236240/help-my-container-is-really-slow?u=76281980&t=36)** Alpine [[Linux]] is a Linux distribution that's extremely small and bare bones.
 >
 > **[0:41](https://www.linkedin.com/learning/learning-docker-17236240/help-my-container-is-really-slow?u=76281980&t=41)** It is a great fit for docker because its small size makes it very easy to create small images that download quickly.
 >
@@ -2724,7 +2693,7 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/learning-docker-17236240/help-my-container-is-really-slow?u=76281980&t=234)** Let's go ahead and clear my screen, before I talk about the final command, which is docker inspect.
 >
-> **[4:01](https://www.linkedin.com/learning/learning-docker-17236240/help-my-container-is-really-slow?u=76281980&t=241)** This can show you advanced information about a container that's running in JSON format.
+> **[4:01](https://www.linkedin.com/learning/learning-docker-17236240/help-my-container-is-really-slow?u=76281980&t=241)** This can show you advanced information about a container that's running in [[JSON]] format.
 >
 > **[4:06](https://www.linkedin.com/learning/learning-docker-17236240/help-my-container-is-really-slow?u=76281980&t=246)** This is also really convenient for scripting against docker.
 >
@@ -2772,7 +2741,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), [[Linux]] (2), [[Debugging]] (2), [[JSON]] (2), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Linux]] (2), [[JSON]] (2)
 > **CLI Commands:** docker (17), sudo (1), make (1)
 > **Env Vars:** cpu (4), json (2), tty (1)
 > **Tools:** terminal (5)
@@ -2780,8 +2749,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **Speakers:** - [instructor] (1)
 
-#### I can't use the Docker client!
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/i-can-t-use-the-docker-client?u=76281980)
+#### [I can't use the Docker client!](https://www.linkedin.com/learning/learning-docker-17236240/i-can-t-use-the-docker-client?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2825,7 +2793,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/learning-docker-17236240/i-can-t-use-the-docker-client?u=76281980&t=89)** As you can see in the left-hand column over here, we have three docker contexts.
 >
-> **[1:34](https://www.linkedin.com/learning/learning-docker-17236240/i-can-t-use-the-docker-client?u=76281980&t=94)** We have default, desktop-linux, and definitely-not-broken.
+> **[1:34](https://www.linkedin.com/learning/learning-docker-17236240/i-can-t-use-the-docker-client?u=76281980&t=94)** We have default, desktop-[[Linux]], and definitely-not-broken.
 >
 > **[1:40](https://www.linkedin.com/learning/learning-docker-17236240/i-can-t-use-the-docker-client?u=76281980&t=100)** The asterisk to the right of definitely-not-broken tells us that this is the context that our client is currently using.
 >
@@ -2849,7 +2817,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/learning-docker-17236240/i-can-t-use-the-docker-client?u=76281980&t=158)** To check for this, run echo $DOCKER_CONTEXT ; echo $DOCKER_HOST.
 >
-> **[2:47](https://www.linkedin.com/learning/learning-docker-17236240/i-can-t-use-the-docker-client?u=76281980&t=167)** If you're on a Windows machine, like shown here, make sure you have an env: after the dollar if you're doing this in PowerShell.
+> **[2:47](https://www.linkedin.com/learning/learning-docker-17236240/i-can-t-use-the-docker-client?u=76281980&t=167)** If you're on a [[Windows]] machine, like shown here, make sure you have an env: after the dollar if you're doing this in [[Powershell]].
 >
 > **[2:55](https://www.linkedin.com/learning/learning-docker-17236240/i-can-t-use-the-docker-client?u=76281980&t=175)** When I run this, mine came back empty.
 >
@@ -2863,7 +2831,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (2), ci (1), cd (1), [[Windows]] (1), [[Powershell]] (1)
+> **Frameworks & Libraries:** [[Linux]] (2), [[Windows]] (1), [[Powershell]] (1)
 > **CLI Commands:** docker (17), ls (1), cd (1), make (1)
 > **Env Vars:** docker_context (4), docker_host (2)
 > **Tools:** docker desktop (3), terminal (2), powershell (1)
@@ -2872,8 +2840,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Fix a broken container
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/challenge-fix-a-broken-container?u=76281980)
+#### [Challenge: Fix a broken container](https://www.linkedin.com/learning/learning-docker-17236240/challenge-fix-a-broken-container?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2899,15 +2866,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scripting]] (1)
 > **CLI Commands:** docker (2), rm (1)
 > **Tools:** terminal (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Fix a broken container
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/solution-fix-a-broken-container?u=76281980)
+#### [Solution: Fix a broken container](https://www.linkedin.com/learning/learning-docker-17236240/solution-fix-a-broken-container?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2937,7 +2902,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/learning-docker-17236240/solution-fix-a-broken-container?u=76281980&t=54)** We have two options here.
 >
-> **[0:56](https://www.linkedin.com/learning/learning-docker-17236240/solution-fix-a-broken-container?u=76281980&t=56)** We can either change the from image that we're using, to something that we do have, or we can go into docker hub and find an Ubuntu image that actually exists.
+> **[0:56](https://www.linkedin.com/learning/learning-docker-17236240/solution-fix-a-broken-container?u=76281980&t=56)** We can either change the from image that we're using, to something that we do have, or we can go into docker hub and find an [[Ubuntu]] image that actually exists.
 >
 > **[1:06](https://www.linkedin.com/learning/learning-docker-17236240/solution-fix-a-broken-container?u=76281980&t=66)** I'm going to do the second thing.
 >
@@ -3093,7 +3058,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ubuntu]] (3), [[Search]] (2), hit (2), prompt (2), next (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (3)
 > **CLI Commands:** docker (30), find (4), rm (2), make (1)
 > **Tools:** terminal (6), vim (1)
 > **Cross-References:** go back to (3)
@@ -3107,8 +3072,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Docker best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/docker-best-practices?u=76281980)
+#### [Docker best practices](https://www.linkedin.com/learning/learning-docker-17236240/docker-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3136,7 +3100,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/learning-docker-17236240/docker-best-practices?u=76281980&t=60)** Since Alpine is a very popular Docker image, many developers were confused and downloaded the Alpine 2 image instead.
 >
-> **[1:08](https://www.linkedin.com/learning/learning-docker-17236240/docker-best-practices?u=76281980&t=68)** Unfortunately, while Alpine 2 indeed ran Alpine Linux, it also configured containers to run a crypto miner on startup.
+> **[1:08](https://www.linkedin.com/learning/learning-docker-17236240/docker-best-practices?u=76281980&t=68)** Unfortunately, while Alpine 2 indeed ran Alpine [[Linux]], it also configured containers to run a crypto miner on startup.
 >
 > **[1:17](https://www.linkedin.com/learning/learning-docker-17236240/docker-best-practices?u=76281980&t=77)** If such a container ran on a platform that charges you for outbound network traffic, like AWS, this would become a very expensive mistake.
 >
@@ -3144,7 +3108,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/learning-docker-17236240/docker-best-practices?u=76281980&t=92)** Verified image have an official Docker image designation on them to let you know that they are scanned and vetted by Docker themselves.
 >
-> **[1:40](https://www.linkedin.com/learning/learning-docker-17236240/docker-best-practices?u=76281980&t=100)** The Ubuntu image is a great example of that.
+> **[1:40](https://www.linkedin.com/learning/learning-docker-17236240/docker-best-practices?u=76281980&t=100)** The [[Ubuntu]] image is a great example of that.
 >
 > **[1:43](https://www.linkedin.com/learning/learning-docker-17236240/docker-best-practices?u=76281980&t=103)** It is very easy to see its designation on Docker Hub.
 >
@@ -3202,14 +3166,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[Linux]] (2), business (1), traffic (1), aws (1)
+> **Frameworks & Libraries:** [[Linux]] (2), [[Ubuntu]] (1)
 > **CLI Commands:** docker (24), aws (1), make (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** aws (1)
 > **Speakers:** - docker (1)
 
-#### Taking it to the next level with Docker Compose
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/taking-it-to-the-next-level-with-docker-compose?u=76281980)
+#### [Taking it to the next level with Docker Compose](https://www.linkedin.com/learning/learning-docker-17236240/taking-it-to-the-next-level-with-docker-compose?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3239,9 +3202,9 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/learning-docker-17236240/taking-it-to-the-next-level-with-docker-compose?u=76281980&t=73)** This is a great way to implement a three-tier architecture, like the one our web app is using.
 >
-> **[1:19](https://www.linkedin.com/learning/learning-docker-17236240/taking-it-to-the-next-level-with-docker-compose?u=76281980&t=79)** However, having to run tons of Docker CLI commands to make all of this work can get tedious and frustrating.
+> **[1:19](https://www.linkedin.com/learning/learning-docker-17236240/taking-it-to-the-next-level-with-docker-compose?u=76281980&t=79)** However, having to run tons of Docker [[CLI]] commands to make all of this work can get tedious and frustrating.
 >
-> **[1:26](https://www.linkedin.com/learning/learning-docker-17236240/taking-it-to-the-next-level-with-docker-compose?u=76281980&t=86)** Fortunately, Docker Compose is here to help.
+> **[1:26](https://www.linkedin.com/learning/learning-docker-17236240/taking-it-to-the-next-level-with-docker-compose?u=76281980&t=86)** Fortunately, Docker [[Jetpack Compose|Compose]] is here to help.
 >
 > **[1:29](https://www.linkedin.com/learning/learning-docker-17236240/taking-it-to-the-next-level-with-docker-compose?u=76281980&t=89)** Docker Compose is a tool provided by Docker that makes it really easy to run and connect multiple containers on a single machine.
 >
@@ -3257,7 +3220,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (8), application (4), web (2), data (2), web application (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (8), [[CLI]] (1)
 > **CLI Commands:** docker (13), make (2)
 > **Definitions:** is a  (2)
 > **URLs:** [docker.com](https://docker.com) (1)
@@ -3265,8 +3228,7 @@ created: 2026-05-02
 > **Prerequisites:** getting started (1)
 > **Speakers:** - as (1)
 
-#### Level up even more with Kubernetes
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/level-up-even-more-with-kubernetes?u=76281980)
+#### [Level up even more with Kubernetes](https://www.linkedin.com/learning/learning-docker-17236240/level-up-even-more-with-kubernetes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3276,15 +3238,15 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/learning-docker-17236240/level-up-even-more-with-kubernetes?u=76281980&t=10)** While you can link containers together with Docker networks, these networks do not span multiple hosts by default.
 >
-> **[0:17](https://www.linkedin.com/learning/learning-docker-17236240/level-up-even-more-with-kubernetes?u=76281980&t=17)** You can also use the Docker CLI to talk to Docker engines running on remote hosts but it is quite cumbersome, especially when authentication comes into play.
+> **[0:17](https://www.linkedin.com/learning/learning-docker-17236240/level-up-even-more-with-kubernetes?u=76281980&t=17)** You can also use the Docker [[CLI]] to talk to Docker engines running on remote hosts but it is quite cumbersome, especially when authentication comes into play.
 >
 > **[0:26](https://www.linkedin.com/learning/learning-docker-17236240/level-up-even-more-with-kubernetes?u=76281980&t=26)** Docker also does not have built-in solutions for moving containers between hosts or auto-scaling containers to respond to load.
 >
-> **[0:33](https://www.linkedin.com/learning/learning-docker-17236240/level-up-even-more-with-kubernetes?u=76281980&t=33)** Finally, higher-level concerns like securing traffic between containers or configuring load balancing and routing amongst them are outside of Docker's realm of responsibility.
+> **[0:33](https://www.linkedin.com/learning/learning-docker-17236240/level-up-even-more-with-kubernetes?u=76281980&t=33)** Finally, higher-level concerns like securing traffic between containers or configuring load balancing and [[Routing]] amongst them are outside of Docker's realm of responsibility.
 >
 > **[0:43](https://www.linkedin.com/learning/learning-docker-17236240/level-up-even-more-with-kubernetes?u=76281980&t=43)** At best, this can make using Docker alone for production-type workloads really, really complex.
 >
-> **[0:49](https://www.linkedin.com/learning/learning-docker-17236240/level-up-even-more-with-kubernetes?u=76281980&t=49)** At worst, it can increase security risk, decrease performance, and make your infrastructure more susceptible to downtime.
+> **[0:49](https://www.linkedin.com/learning/learning-docker-17236240/level-up-even-more-with-kubernetes?u=76281980&t=49)** At worst, it can increase [[Security Risk]], decrease performance, and make your infrastructure more susceptible to downtime.
 >
 > **[0:56](https://www.linkedin.com/learning/learning-docker-17236240/level-up-even-more-with-kubernetes?u=76281980&t=56)** Container orchestrators solve these problems.
 >
@@ -3294,9 +3256,9 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/learning-docker-17236240/level-up-even-more-with-kubernetes?u=76281980&t=77)** Many container orchestrators have popped up over the years.
 >
-> **[1:20](https://www.linkedin.com/learning/learning-docker-17236240/level-up-even-more-with-kubernetes?u=76281980&t=80)** Docker's own Swarm product, Mesosphere, HashiCorp's Nomad, and cloud offerings like AWS Elastic Container Service or Azure Container Service are examples of some popular container orchestrators in the wild.
+> **[1:20](https://www.linkedin.com/learning/learning-docker-17236240/level-up-even-more-with-kubernetes?u=76281980&t=80)** Docker's own Swarm product, Mesosphere, HashiCorp's Nomad, and cloud offerings like AWS Elastic Container Service or [[Microsoft Azure|Azure]] Container Service are examples of some popular container orchestrators in the wild.
 >
-> **[1:33](https://www.linkedin.com/learning/learning-docker-17236240/level-up-even-more-with-kubernetes?u=76281980&t=93)** However, the most popular container orchestrator in the market today is the Kubernetes project.
+> **[1:33](https://www.linkedin.com/learning/learning-docker-17236240/level-up-even-more-with-kubernetes?u=76281980&t=93)** However, the most popular container orchestrator in the market today is the [[Kubernetes]] project.
 >
 > **[1:38](https://www.linkedin.com/learning/learning-docker-17236240/level-up-even-more-with-kubernetes?u=76281980&t=98)** Let's learn a little bit more about it.
 >
@@ -3312,9 +3274,9 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/learning-docker-17236240/level-up-even-more-with-kubernetes?u=76281980&t=132)** This also makes Kubernetes possible to run on almost anything from Raspberry Pis to some of the largest cloud platforms in the world.
 >
-> **[2:20](https://www.linkedin.com/learning/learning-docker-17236240/level-up-even-more-with-kubernetes?u=76281980&t=140)** Second, Kubernetes makes it really easy to group containers together, kind of like Docker Compose.
+> **[2:20](https://www.linkedin.com/learning/learning-docker-17236240/level-up-even-more-with-kubernetes?u=76281980&t=140)** Second, Kubernetes makes it really easy to group containers together, kind of like Docker [[Jetpack Compose|Compose]].
 >
-> **[2:26](https://www.linkedin.com/learning/learning-docker-17236240/level-up-even-more-with-kubernetes?u=76281980&t=146)** You can also use Kubernetes to scale those container groups up or down to respond to your application's demands without creating more VMs or other hardware.
+> **[2:26](https://www.linkedin.com/learning/learning-docker-17236240/level-up-even-more-with-kubernetes?u=76281980&t=146)** You can also use Kubernetes to scale those container groups up or down to respond to your application's demands without creating more VMs or other [[Hardware]].
 >
 > **[2:35](https://www.linkedin.com/learning/learning-docker-17236240/level-up-even-more-with-kubernetes?u=76281980&t=155)** This is typically expensive and sometimes cumbersome but much cheaper to do with Kubernetes.
 >
@@ -3328,7 +3290,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/learning-docker-17236240/level-up-even-more-with-kubernetes?u=76281980&t=186)** The Kubernetes ecosystem is one of the things I love most.
 >
-> **[3:09](https://www.linkedin.com/learning/learning-docker-17236240/level-up-even-more-with-kubernetes?u=76281980&t=189)** New tools and products to extend Kubernetes are created almost every day.
+> **[3:09](https://www.linkedin.com/learning/learning-docker-17236240/level-up-even-more-with-kubernetes?u=76281980&t=189)** New tools and [[Microsoft Products|products]] to extend Kubernetes are created almost every day.
 >
 > **[3:14](https://www.linkedin.com/learning/learning-docker-17236240/level-up-even-more-with-kubernetes?u=76281980&t=194)** These tools make Kubernetes even more powerful and flexible for all sorts of use cases.
 >
@@ -3340,7 +3302,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (17), traffic (5), [[Routing]] (2), cloud (2), [[CLI]] (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (17), [[Routing]] (2), [[CLI]] (1), [[Security Risk]] (1), [[Microsoft Azure|Azure]] (1)
 > **CLI Commands:** docker (10), make (5), aws (1)
 > **Env Vars:** cli (1), aws (1), api (1)
 > **Analogies:** just like (2), kind of like (1)
@@ -3353,8 +3315,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Until next time
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/until-next-time-17234421?u=76281980)
+#### [Until next time](https://www.linkedin.com/learning/learning-docker-17236240/until-next-time-17234421?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3362,15 +3323,15 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/learning-docker-17236240/until-next-time-17234421?u=76281980&t=2)** Great work!
 >
-> **[0:03](https://www.linkedin.com/learning/learning-docker-17236240/until-next-time-17234421?u=76281980&t=3)** We learned about how containers are taking over the world of software development and why Docker has become immensely popular over the years.
+> **[0:03](https://www.linkedin.com/learning/learning-docker-17236240/until-next-time-17234421?u=76281980&t=3)** We learned about how containers are taking over the world of [[Software Development]] and why Docker has become immensely popular over the years.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-docker-17236240/until-next-time-17234421?u=76281980&t=11)** We installed Docker Desktop and a Docker command line client and used them to explore creating, maintaining, troubleshooting, and removing containers.
 >
 > **[0:20](https://www.linkedin.com/learning/learning-docker-17236240/until-next-time-17234421?u=76281980&t=20)** Finally, we now know the basics of turning our app into a Docker image and uploading it into the Docker Hub.
 >
-> **[0:26](https://www.linkedin.com/learning/learning-docker-17236240/until-next-time-17234421?u=76281980&t=26)** Now that we know how to use Docker, be sure to give Docker Compose a try if you're interested in running clusters of apps as containers on your machine.
+> **[0:26](https://www.linkedin.com/learning/learning-docker-17236240/until-next-time-17234421?u=76281980&t=26)** Now that we know how to use Docker, be sure to give Docker [[Jetpack Compose|Compose]] a try if you're interested in running clusters of apps as containers on your machine.
 >
-> **[0:33](https://www.linkedin.com/learning/learning-docker-17236240/until-next-time-17234421?u=76281980&t=33)** When you're ready, take your skills to the next level by learning how to run tons of containers with Kubernetes.
+> **[0:33](https://www.linkedin.com/learning/learning-docker-17236240/until-next-time-17234421?u=76281980&t=33)** When you're ready, take your skills to the next level by learning how to run tons of containers with [[Kubernetes]].
 >
 > **[0:39](https://www.linkedin.com/learning/learning-docker-17236240/until-next-time-17234421?u=76281980&t=39)** Knowing how to use the containers is an essential skill and a highly marketable skill in today's ever-changing tech world.
 >
@@ -3380,7 +3341,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Software Development]] (1), [[Troubleshooting]] (1), [[Jetpack Compose|Compose]] (1), next (1), [[Kubernetes]] (1)
+> **Frameworks & Libraries:** [[Software Development]] (1), [[Jetpack Compose|Compose]] (1), [[Kubernetes]] (1)
 > **CLI Commands:** docker (7)
 > **Tools:** docker desktop (1), command line (1)
 > **Definitions:** is an  (1)

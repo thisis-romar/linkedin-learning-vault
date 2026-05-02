@@ -73,14 +73,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The business of story
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-storytelling/the-business-of-story-21039234?u=76281980)
+#### [The business of story](https://www.linkedin.com/learning/ux-foundations-storytelling/the-business-of-story-21039234?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ux-foundations-storytelling/the-business-of-story-21039234?u=76281980&t=0)** - Our brains are wired to remember stories way more than facts.
 >
-> **[0:04](https://www.linkedin.com/learning/ux-foundations-storytelling/the-business-of-story-21039234?u=76281980&t=4)** Stories move people and make your brand and your products authentic, unforgettable, and shareable.
+> **[0:04](https://www.linkedin.com/learning/ux-foundations-storytelling/the-business-of-story-21039234?u=76281980&t=4)** Stories move people and make your brand and your [[Microsoft Products|products]] authentic, unforgettable, and shareable.
 >
 > **[0:10](https://www.linkedin.com/learning/ux-foundations-storytelling/the-business-of-story-21039234?u=76281980&t=10)** Whether you're creating content for your website, app, social media, or latest marketing campaign, stories are what stick with us.
 >
@@ -92,7 +91,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - our (1)
 
@@ -101,12 +100,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Choose the right story
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-storytelling/choose-the-right-story-24077540?u=76281980)
+#### [Choose the right story](https://www.linkedin.com/learning/ux-foundations-storytelling/choose-the-right-story-24077540?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ux-foundations-storytelling/choose-the-right-story-24077540?u=76281980&t=1)** - As we craft content for our businesses and our products, we often start by focusing on the big picture: our vision, core values, how we fit into society, who we want to serve in the world.
+> **[0:01](https://www.linkedin.com/learning/ux-foundations-storytelling/choose-the-right-story-24077540?u=76281980&t=1)** - As we craft content for our businesses and our [[Microsoft Products|products]], we often start by focusing on the big picture: our vision, core values, how we fit into society, who we want to serve in the world.
 >
 > **[0:12](https://www.linkedin.com/learning/ux-foundations-storytelling/choose-the-right-story-24077540?u=76281980&t=12)** The goal is really to tell a story that puts your company in a larger context of what people care about.
 >
@@ -114,7 +112,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/ux-foundations-storytelling/choose-the-right-story-24077540?u=76281980&t=26)** At a Columbia University commencement speech, Ira Glass, the host of this American Life, spoke about the need to tell big, important stories that people in our society should be talking about.
 >
-> **[0:38](https://www.linkedin.com/learning/ux-foundations-storytelling/choose-the-right-story-24077540?u=76281980&t=38)** Huge issues like the global refugee crisis, climate change, human rights, criminal justice.
+> **[0:38](https://www.linkedin.com/learning/ux-foundations-storytelling/choose-the-right-story-24077540?u=76281980&t=38)** Huge issues like the global refugee crisis, [[Climate Change]], human rights, criminal justice.
 >
 > **[0:45](https://www.linkedin.com/learning/ux-foundations-storytelling/choose-the-right-story-24077540?u=76281980&t=45)** But the problem is that most people are sick of hearing these broad stories, numb to the narrative, they scroll right past.
 >
@@ -156,7 +154,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/ux-foundations-storytelling/choose-the-right-story-24077540?u=76281980&t=180)** Ira Glass calls this cunning.
 >
-> **[3:02](https://www.linkedin.com/learning/ux-foundations-storytelling/choose-the-right-story-24077540?u=76281980&t=182)** I love the playfulness of that word cunning.
+> **[3:02](https://www.linkedin.com/learning/ux-foundations-storytelling/choose-the-right-story-24077540?u=76281980&t=182)** I love the playfulness of that [[Microsoft Word|word]] cunning.
 >
 > **[3:05](https://www.linkedin.com/learning/ux-foundations-storytelling/choose-the-right-story-24077540?u=76281980&t=185)** It makes me think of how I get my kids to eat their greens by hiding vegetables in their spaghetti sauce.
 >
@@ -172,15 +170,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), management (2), [[Climate Change]] (1), business (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Climate Change]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** b2b (1)
 > **Definitions:** means that (1)
 > **Analogies:** picture (1)
 > **Speakers:** - as (1)
 
-#### Defining the story arc
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-storytelling/defining-the-story-arc-24079435?u=76281980)
+#### [Defining the story arc](https://www.linkedin.com/learning/ux-foundations-storytelling/defining-the-story-arc-24079435?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -266,7 +263,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), business (1)
 > **Prerequisites:** setup (3), set up (1)
 > **Definitions:** is called (2)
 > **Env Vars:** irs (1)
@@ -274,8 +270,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - i (1)
 
-#### Set the stage
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-storytelling/set-the-stage-21039233?u=76281980)
+#### [Set the stage](https://www.linkedin.com/learning/ux-foundations-storytelling/set-the-stage-21039233?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -367,13 +362,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), business (1), traffic (1)
 > **Analogies:** kind of like (1), picture (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - i (1)
 
-#### Action sequence
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-storytelling/action-sequence-21040234?u=76281980)
+#### [Action sequence](https://www.linkedin.com/learning/ux-foundations-storytelling/action-sequence-21040234?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -383,7 +376,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/ux-foundations-storytelling/action-sequence-21040234?u=76281980&t=6)** It has to happen. If it doesn't, it's just background.
 >
-> **[0:09](https://www.linkedin.com/learning/ux-foundations-storytelling/action-sequence-21040234?u=76281980&t=9)** In one of my market research studies, I met a teenage girl, Megs.
+> **[0:09](https://www.linkedin.com/learning/ux-foundations-storytelling/action-sequence-21040234?u=76281980&t=9)** In one of my [[Market Research]] studies, I met a teenage girl, Megs.
 >
 > **[0:13](https://www.linkedin.com/learning/ux-foundations-storytelling/action-sequence-21040234?u=76281980&t=13)** One day, she was scrolling through Instagram and she came across a photo of a pet hedgehog.
 >
@@ -465,14 +458,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Market Research]] (1), next (1)
+> **Frameworks & Libraries:** [[Market Research]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - here (1)
 
-#### End the story right
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-storytelling/end-the-story-right-21040232?u=76281980)
+#### [End the story right](https://www.linkedin.com/learning/ux-foundations-storytelling/end-the-story-right-21040232?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -506,9 +498,9 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/ux-foundations-storytelling/end-the-story-right-21040232?u=76281980&t=104)** Sometimes though, story meanings are not as cut and dry, and the author is left to explain the changes and create some meaning for the audience.
 >
-> **[1:54](https://www.linkedin.com/learning/ux-foundations-storytelling/end-the-story-right-21040232?u=76281980&t=114)** This is the reason that of all the elements of storytelling, the most important part might be in the ending.
+> **[1:54](https://www.linkedin.com/learning/ux-foundations-storytelling/end-the-story-right-21040232?u=76281980&t=114)** This is the reason that of all the elements of [[Storytelling]], the most important part might be in the ending.
 >
-> **[2:01](https://www.linkedin.com/learning/ux-foundations-storytelling/end-the-story-right-21040232?u=76281980&t=121)** In storytelling, the resolution at the end is sometimes referred to the French word, (speaking foreign language) Which means to unite.
+> **[2:01](https://www.linkedin.com/learning/ux-foundations-storytelling/end-the-story-right-21040232?u=76281980&t=121)** In storytelling, the resolution at the end is sometimes referred to the French [[Microsoft Word|word]], (speaking foreign language) Which means to unite.
 >
 > **[2:09](https://www.linkedin.com/learning/ux-foundations-storytelling/end-the-story-right-21040232?u=76281980&t=129)** In this sense, the ending of your story ties up loose ends, demonstrates change, and translates this change into meaning.
 >
@@ -523,8 +515,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - years (1)
 
-#### Be the guide, not the hero
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-storytelling/be-the-guide-not-the-hero-21038265?u=76281980)
+#### [Be the guide, not the hero](https://www.linkedin.com/learning/ux-foundations-storytelling/be-the-guide-not-the-hero-21038265?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -640,19 +631,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (9), business (2)
 > **CLI Commands:** make (2)
 > **URLs:** [squarespace.com](https://squarespace.com) (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** means that (1)
 > **Speakers:** - let (1)
 
-#### Clarify your message
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-storytelling/clarify-your-message-21038264?u=76281980)
+#### [Clarify your message](https://www.linkedin.com/learning/ux-foundations-storytelling/clarify-your-message-21038264?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-foundations-storytelling/clarify-your-message-21038264?u=76281980&t=0)** - Every year, companies waste insane amounts of money on marketing by talking about their products in the wrong way.
+> **[0:00](https://www.linkedin.com/learning/ux-foundations-storytelling/clarify-your-message-21038264?u=76281980&t=0)** - Every year, companies waste insane amounts of money on marketing by talking about their [[Microsoft Products|products]] in the wrong way.
 >
 > **[0:07](https://www.linkedin.com/learning/ux-foundations-storytelling/clarify-your-message-21038264?u=76281980&t=7)** In his book, "StoryBrand," Donald Miller says that without a good story, it's like holding up "a bullhorn to a monkey."
 >
@@ -742,7 +731,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), business (3), product (3), next (3), management (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Analogies:** it's like (1)
@@ -753,8 +742,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Embrace emotion to empathize with customers
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-storytelling/embrace-emotion-to-empathize-with-customers-24080442?u=76281980)
+#### [Embrace emotion to empathize with customers](https://www.linkedin.com/learning/ux-foundations-storytelling/embrace-emotion-to-empathize-with-customers-24080442?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -778,7 +766,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/ux-foundations-storytelling/embrace-emotion-to-empathize-with-customers-24080442?u=76281980&t=31)** We need to listen to their stories and understand what they're going through, what they're feeling at different parts of their customer journey.
 >
-> **[0:39](https://www.linkedin.com/learning/ux-foundations-storytelling/embrace-emotion-to-empathize-with-customers-24080442?u=76281980&t=39)** If we don't know this basic information, how are we supposed to know what their pain points are or how to design products that they'll actually use?
+> **[0:39](https://www.linkedin.com/learning/ux-foundations-storytelling/embrace-emotion-to-empathize-with-customers-24080442?u=76281980&t=39)** If we don't know this basic information, how are we supposed to know what their pain points are or how to design [[Microsoft Products|products]] that they'll actually use?
 >
 > **[0:49](https://www.linkedin.com/learning/ux-foundations-storytelling/embrace-emotion-to-empathize-with-customers-24080442?u=76281980&t=49)** We must take the time to slow down and see them, to hear their stories, to feel what they feel so that we can focus on making products that matter, products that our customers actually need.
 >
@@ -830,12 +818,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7), product (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7)
 > **CLI Commands:** make (3)
 > **Speakers:** - here (1)
 
-#### Authentic, relatable stories
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-storytelling/authentic-relatable-stories-21040231?u=76281980)
+#### [Authentic, relatable stories](https://www.linkedin.com/learning/ux-foundations-storytelling/authentic-relatable-stories-21040231?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -855,7 +842,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/ux-foundations-storytelling/authentic-relatable-stories-21040231?u=76281980&t=42)** How annoying is it when you flip to a social media feed, only to find braggy posts about someone's successes?
 >
-> **[0:50](https://www.linkedin.com/learning/ux-foundations-storytelling/authentic-relatable-stories-21040231?u=76281980&t=50)** Look, I know we all want to put our best foot forward online, whether that's on social or your company's website or in the products you create, but people and companies who are always winning are so darn boring.
+> **[0:50](https://www.linkedin.com/learning/ux-foundations-storytelling/authentic-relatable-stories-21040231?u=76281980&t=50)** Look, I know we all want to put our best foot forward online, whether that's on social or your company's website or in the [[Microsoft Products|products]] you create, but people and companies who are always winning are so darn boring.
 >
 > **[1:04](https://www.linkedin.com/learning/ux-foundations-storytelling/authentic-relatable-stories-21040231?u=76281980&t=64)** Instead, share both the good and the bad.
 >
@@ -873,7 +860,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/ux-foundations-storytelling/authentic-relatable-stories-21040231?u=76281980&t=98)** How can you speak to your audience's fears, concerns, anxieties, if you don't know what they are?
 >
-> **[1:44](https://www.linkedin.com/learning/ux-foundations-storytelling/authentic-relatable-stories-21040231?u=76281980&t=104)** For more information about how to get to know your customers, check out my course, [[Market Research Foundations]], where we'll talk about all sorts of qualitative and quantitative techniques you can use to learn about your audience.
+> **[1:44](https://www.linkedin.com/learning/ux-foundations-storytelling/authentic-relatable-stories-21040231?u=76281980&t=104)** For more information about how to get to know your customers, check out my course, [[[[Market Research]] Foundations]], where we'll talk about all sorts of qualitative and quantitative techniques you can use to learn about your audience.
 >
 > **[1:58](https://www.linkedin.com/learning/ux-foundations-storytelling/authentic-relatable-stories-21040231?u=76281980&t=118)** Third, look for the scenes, not the story.
 >
@@ -895,7 +882,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/ux-foundations-storytelling/authentic-relatable-stories-21040231?u=76281980&t=179)** They talked about the same themes over and over and over too.
 >
-> **[3:03](https://www.linkedin.com/learning/ux-foundations-storytelling/authentic-relatable-stories-21040231?u=76281980&t=183)** So if you're going for authentic storytelling, being a consistent familiar face sure helps, and today's customers are craving authentic stories wherever you tell them.
+> **[3:03](https://www.linkedin.com/learning/ux-foundations-storytelling/authentic-relatable-stories-21040231?u=76281980&t=183)** So if you're going for authentic [[Storytelling]], being a consistent familiar face sure helps, and today's customers are craving authentic stories wherever you tell them.
 
 > [!info]- Semantic Content
 >
@@ -904,8 +891,7 @@ created: 2026-05-02
 > **Env Vars:** ceo (1)
 > **Speakers:** - motivational (1)
 
-#### Brain science: Why we buy
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-storytelling/brain-science-why-we-buy-21040233?u=76281980)
+#### [Brain science: Why we buy](https://www.linkedin.com/learning/ux-foundations-storytelling/brain-science-why-we-buy-21040233?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -923,7 +909,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/ux-foundations-storytelling/brain-science-why-we-buy-21040233?u=76281980&t=29)** And while we'd like to think that we make decisions based on careful consideration, in reality, 95% of our decisions are unconscious.
 >
-> **[0:39](https://www.linkedin.com/learning/ux-foundations-storytelling/brain-science-why-we-buy-21040233?u=76281980&t=39)** Storytelling is so powerful because it triggers a biological response.
+> **[0:39](https://www.linkedin.com/learning/ux-foundations-storytelling/brain-science-why-we-buy-21040233?u=76281980&t=39)** [[Storytelling]] is so powerful because it triggers a biological response.
 >
 > **[0:44](https://www.linkedin.com/learning/ux-foundations-storytelling/brain-science-why-we-buy-21040233?u=76281980&t=44)** A story grabs attention, elicits emotion, and engages people.
 >
@@ -945,7 +931,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/ux-foundations-storytelling/brain-science-why-we-buy-21040233?u=76281980&t=79)** Marketers have known this for years.
 >
-> **[1:21](https://www.linkedin.com/learning/ux-foundations-storytelling/brain-science-why-we-buy-21040233?u=76281980&t=81)** It's the reason that juicy hamburgers, fear tactics, and attractive people sell products every time.
+> **[1:21](https://www.linkedin.com/learning/ux-foundations-storytelling/brain-science-why-we-buy-21040233?u=76281980&t=81)** It's the reason that juicy hamburgers, fear tactics, and attractive people sell [[Microsoft Products|products]] every time.
 >
 > **[1:28](https://www.linkedin.com/learning/ux-foundations-storytelling/brain-science-why-we-buy-21040233?u=76281980&t=88)** One tactic that's often used in product sales is a scarcity approach, and that taps into the survival brain.
 >
@@ -985,7 +971,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[Storytelling]] (1), [[Microsoft Products|Products]] (1), business (1)
+> **Frameworks & Libraries:** [[Storytelling]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - consider (1)
@@ -995,8 +981,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Your signature story
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-storytelling/your-signature-story-21043251?u=76281980)
+#### [Your signature story](https://www.linkedin.com/learning/ux-foundations-storytelling/your-signature-story-21043251?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1078,18 +1063,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), next (2), business (2), career (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** ceo (1)
 > **Definitions:** stands for (1)
 > **Speakers:** - when (1)
 
-#### Where to tell your story: Evaluating possible platforms
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-storytelling/where-to-tell-your-story-evaluating-possible-platforms-24080441?u=76281980)
+#### [Where to tell your story: Evaluating possible platforms](https://www.linkedin.com/learning/ux-foundations-storytelling/where-to-tell-your-story-evaluating-possible-platforms-24080441?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-foundations-storytelling/where-to-tell-your-story-evaluating-possible-platforms-24080441?u=76281980&t=0)** - Email marketing is just one platform where storytelling works exceptionally well.
+> **[0:00](https://www.linkedin.com/learning/ux-foundations-storytelling/where-to-tell-your-story-evaluating-possible-platforms-24080441?u=76281980&t=0)** - [[Email Marketing]] is just one platform where [[Storytelling]] works exceptionally well.
 >
 > **[0:05](https://www.linkedin.com/learning/ux-foundations-storytelling/where-to-tell-your-story-evaluating-possible-platforms-24080441?u=76281980&t=5)** People who have opted into your list and routinely get high-quality content from you feel like they know you.
 >
@@ -1123,7 +1106,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/ux-foundations-storytelling/where-to-tell-your-story-evaluating-possible-platforms-24080441?u=76281980&t=86)** This is just a part of their journey.
 >
-> **[1:28](https://www.linkedin.com/learning/ux-foundations-storytelling/where-to-tell-your-story-evaluating-possible-platforms-24080441?u=76281980&t=88)** When they're first learning about you, your brand, your products, they may check out your LinkedIn or Instagram.
+> **[1:28](https://www.linkedin.com/learning/ux-foundations-storytelling/where-to-tell-your-story-evaluating-possible-platforms-24080441?u=76281980&t=88)** When they're first learning about you, your brand, your [[Microsoft Products|products]], they may check out your [[LinkedIn]] or Instagram.
 >
 > **[1:33](https://www.linkedin.com/learning/ux-foundations-storytelling/where-to-tell-your-story-evaluating-possible-platforms-24080441?u=76281980&t=93)** As they develop a greater relationship with your brand or product though, they may opt for more.
 >
@@ -1137,14 +1120,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), [[Email Marketing]] (1), [[Storytelling]] (1), power (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Email Marketing]] (1), [[Storytelling]] (1), [[Microsoft Products|Products]] (1), [[LinkedIn]] (1)
 > **Env Vars:** crm (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - email (1)
 
-#### Perspective matters: The angle you choose
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-storytelling/perspective-matters-the-angle-you-choose-24078477?u=76281980)
+#### [Perspective matters: The angle you choose](https://www.linkedin.com/learning/ux-foundations-storytelling/perspective-matters-the-angle-you-choose-24078477?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1158,7 +1140,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/ux-foundations-storytelling/perspective-matters-the-angle-you-choose-24078477?u=76281980&t=33)** The problem here wasn't any of these things.
 >
-> **[0:36](https://www.linkedin.com/learning/ux-foundations-storytelling/perspective-matters-the-angle-you-choose-24078477?u=76281980&t=36)** The real problem was in the storytelling and specifically, the perspective it was told from.
+> **[0:36](https://www.linkedin.com/learning/ux-foundations-storytelling/perspective-matters-the-angle-you-choose-24078477?u=76281980&t=36)** The real problem was in the [[Storytelling]] and specifically, the perspective it was told from.
 >
 > **[0:43](https://www.linkedin.com/learning/ux-foundations-storytelling/perspective-matters-the-angle-you-choose-24078477?u=76281980&t=43)** In marketing, we all know that stories sell, more than that, stories build trust, create value, and set your brand or product apart.
 >
@@ -1226,24 +1208,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), [[Storytelling]] (1)
+> **Frameworks & Libraries:** [[Storytelling]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
 > **Warnings:** warning (1)
 > **Speakers:** - the (1)
 
-#### From storytelling to story-selling: Monetizing your stories
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-storytelling/from-storytelling-to-story-selling-monetizing-your-stories-21042252?u=76281980)
+#### [From storytelling to story-selling: Monetizing your stories](https://www.linkedin.com/learning/ux-foundations-storytelling/from-storytelling-to-story-selling-monetizing-your-stories-21042252?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ux-foundations-storytelling/from-storytelling-to-story-selling-monetizing-your-stories-21042252?u=76281980&t=0)** - We're here.
 >
-> **[0:01](https://www.linkedin.com/learning/ux-foundations-storytelling/from-storytelling-to-story-selling-monetizing-your-stories-21042252?u=76281980&t=1)** The part you've been waiting for, how to take your brand or product from storytelling to story selling.
+> **[0:01](https://www.linkedin.com/learning/ux-foundations-storytelling/from-storytelling-to-story-selling-monetizing-your-stories-21042252?u=76281980&t=1)** The part you've been waiting for, how to take your brand or product from [[Storytelling]] to story selling.
 >
 > **[0:07](https://www.linkedin.com/learning/ux-foundations-storytelling/from-storytelling-to-story-selling-monetizing-your-stories-21042252?u=76281980&t=7)** This is the business of story.
 >
-> **[0:10](https://www.linkedin.com/learning/ux-foundations-storytelling/from-storytelling-to-story-selling-monetizing-your-stories-21042252?u=76281980&t=10)** Selling your products or services through story adds a human dimension to the concept of selling.
+> **[0:10](https://www.linkedin.com/learning/ux-foundations-storytelling/from-storytelling-to-story-selling-monetizing-your-stories-21042252?u=76281980&t=10)** Selling your [[Microsoft Products|products]] or services through story adds a human dimension to the concept of selling.
 >
 > **[0:17](https://www.linkedin.com/learning/ux-foundations-storytelling/from-storytelling-to-story-selling-monetizing-your-stories-21042252?u=76281980&t=17)** It connects people to people rather than faceless corporations to massive followers.
 >
@@ -1307,13 +1288,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), [[Microsoft Products|Products]] (2), next (2), product (1), [[Storytelling]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Storytelling]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1)
 > **Speakers:** - we (1)
 
-#### Visual storytelling: The power of pictures
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-storytelling/visual-storytelling-the-power-of-pictures-21043252?u=76281980)
+#### [Visual storytelling: The power of pictures](https://www.linkedin.com/learning/ux-foundations-storytelling/visual-storytelling-the-power-of-pictures-21043252?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1323,7 +1303,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/ux-foundations-storytelling/visual-storytelling-the-power-of-pictures-21043252?u=76281980&t=12)** In fact, 90% of the information that we take in every day is visual.
 >
-> **[0:17](https://www.linkedin.com/learning/ux-foundations-storytelling/visual-storytelling-the-power-of-pictures-21043252?u=76281980&t=17)** So when we talk about storytelling, we can't forget that a picture really is worth a thousand words.
+> **[0:17](https://www.linkedin.com/learning/ux-foundations-storytelling/visual-storytelling-the-power-of-pictures-21043252?u=76281980&t=17)** So when we talk about [[Storytelling]], we can't forget that a picture really is worth a thousand words.
 >
 > **[0:23](https://www.linkedin.com/learning/ux-foundations-storytelling/visual-storytelling-the-power-of-pictures-21043252?u=76281980&t=23)** Images can convey so much emotion in an instant.
 >
@@ -1405,11 +1385,11 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/ux-foundations-storytelling/visual-storytelling-the-power-of-pictures-21043252?u=76281980&t=221)** Compelling images have a unique ability to inspire and engage your audience and provide highly valuable information about your brand, your product, or the experience.
 >
-> **[3:53](https://www.linkedin.com/learning/ux-foundations-storytelling/visual-storytelling-the-power-of-pictures-21043252?u=76281980&t=233)** Take the time to make every image in your app or site reinforce the user experience.
+> **[3:53](https://www.linkedin.com/learning/ux-foundations-storytelling/visual-storytelling-the-power-of-pictures-21043252?u=76281980&t=233)** Take the time to make every image in your app or site reinforce the [[User Experience (UX)|user experience]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), [[Storytelling]] (1), management (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[Storytelling]] (1), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (11), find (1)
 > **Analogies:** picture (1)
 > **Warnings:** keep in mind (1)
@@ -1420,8 +1400,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-storytelling/next-steps-24078478?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/ux-foundations-storytelling/next-steps-24078478?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1431,11 +1410,11 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/ux-foundations-storytelling/next-steps-24078478?u=76281980&t=13)** You now know of repeatable structure that's sure to set you up for success.
 >
-> **[0:17](https://www.linkedin.com/learning/ux-foundations-storytelling/next-steps-24078478?u=76281980&t=17)** And at any point you can come back here and download the PDF storytelling template that will help you think through the structure of any story.
+> **[0:17](https://www.linkedin.com/learning/ux-foundations-storytelling/next-steps-24078478?u=76281980&t=17)** And at any point you can come back here and download the PDF [[Storytelling]] template that will help you think through the structure of any story.
 >
-> **[0:25](https://www.linkedin.com/learning/ux-foundations-storytelling/next-steps-24078478?u=76281980&t=25)** If you're craving more, I do have another course on LinkedIn Learning that I know you're going to love.
+> **[0:25](https://www.linkedin.com/learning/ux-foundations-storytelling/next-steps-24078478?u=76281980&t=25)** If you're craving more, I do have another course on [[LinkedIn]] Learning that I know you're going to love.
 >
-> **[0:31](https://www.linkedin.com/learning/ux-foundations-storytelling/next-steps-24078478?u=76281980&t=31)** I've worked with hundreds of companies to gather stories from their customers, and in the course [[Market Research Foundations]], I teach you how to get this data, precisely how to ask your customers about their journey and document their stories for your company.
+> **[0:31](https://www.linkedin.com/learning/ux-foundations-storytelling/next-steps-24078478?u=76281980&t=31)** I've worked with hundreds of companies to gather stories from their customers, and in the course [[[[Market Research]] Foundations]], I teach you how to get this data, precisely how to ask your customers about their journey and document their stories for your company.
 >
 > **[0:46](https://www.linkedin.com/learning/ux-foundations-storytelling/next-steps-24078478?u=76281980&t=46)** I'd love to keep in touch.
 >
@@ -1453,7 +1432,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Storytelling]] (1), [[LinkedIn]] (1), [[Market Research]] (1), data (1), hit (1)
+> **Frameworks & Libraries:** [[Storytelling]] (1), [[LinkedIn]] (1), [[Market Research]] (1)
 > **Env Vars:** dna (1), pdf (1)
 > **Exercise Files:** download the (1), template (1)
 > **URLs:** [sarahweise.com](https://sarahweise.com) (1)

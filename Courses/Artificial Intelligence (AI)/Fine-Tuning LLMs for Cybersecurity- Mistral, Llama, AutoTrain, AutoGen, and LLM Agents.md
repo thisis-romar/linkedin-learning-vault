@@ -123,8 +123,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to LLMs and LLM agents for cybersecurity
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-llms-and-llm-agents-for-cybersecurity?u=76281980)
+#### [Introduction to LLMs and LLM agents for cybersecurity](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-llms-and-llm-agents-for-cybersecurity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -132,36 +131,35 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-llms-and-llm-agents-for-cybersecurity?u=76281980&t=13)** More often than not, the wrong guys are the first ones to adapt to these technologies, and this leads to new types of threats.
 >
-> **[0:19](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-llms-and-llm-agents-for-cybersecurity?u=76281980&t=19)** This course is an exploration in using a cutting-edge technology called LLMs for a really interesting use case, which is cybersecurity.
+> **[0:19](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-llms-and-llm-agents-for-cybersecurity?u=76281980&t=19)** This course is an exploration in using a cutting-edge technology called LLMs for a really interesting use case, which is [[Cybersecurity]].
 >
 > **[0:28](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-llms-and-llm-agents-for-cybersecurity?u=76281980&t=28)** We need to equip the good guys, like the teams responsible for security of complex systems, such as you, to be able to detect and respond to these threats, and that's what the course is going to be all about.
 >
-> **[0:39](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-llms-and-llm-agents-for-cybersecurity?u=76281980&t=39)** Hello, everyone, I welcome you all to this LinkedIn course, LLMs and LLM Agents for Cybersecurity, so I'll see you there.
+> **[0:39](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-llms-and-llm-agents-for-cybersecurity?u=76281980&t=39)** Hello, everyone, I welcome you all to this [[LinkedIn]] course, LLMs and LLM Agents for Cybersecurity, so I'll see you there.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), llm (2), [[Cybersecurity]] (2), teams (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[LinkedIn]] (1)
 > **Env Vars:** llm (2)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [akhil] (1)
 
-#### Prerequisites of the course
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/pre-requisites-of-the-course?u=76281980)
+#### [Prerequisites of the course](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/pre-requisites-of-the-course?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/pre-requisites-of-the-course?u=76281980&t=0)** - [Akhil] Hey there, in this video, let's go over the prerequisites required to do well in this course.
 >
-> **[0:06](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/pre-requisites-of-the-course?u=76281980&t=6)** To be successful in this course, you need an intermediate level understanding of security and its various aspects like OSINT, Recon, code and web vulnerabilities, threat detection, malware analysis, penetration testing, and a basic understanding of technologies like Linux and Kali Linux as well.
+> **[0:06](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/pre-requisites-of-the-course?u=76281980&t=6)** To be successful in this course, you need an intermediate level understanding of security and its various aspects like OSINT, Recon, code and web vulnerabilities, threat detection, malware analysis, [[Penetration Testing]], and a basic understanding of technologies like [[Linux]] and [[Kali Linux]] as well.
 >
 > **[0:25](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/pre-requisites-of-the-course?u=76281980&t=25)** You also need an understanding of the popular tools used with Kali Linux.
 >
 > **[0:29](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/pre-requisites-of-the-course?u=76281980&t=29)** While we won't be using any Linux or Kali Linux in this course, the only reason I've mentioned that you need to know the tools that come as part of a distribution like Kali Linux is because if you've used those tools, you'll have a good understanding of their use cases in pen testing, or finding vulnerabilities in code, applications, and systems, and that's going to be essential to this course.
 >
-> **[0:52](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/pre-requisites-of-the-course?u=76281980&t=52)** Apart from this, you would also need an intermediate level understanding of AI and LLMs, and some experience building projects with LLM APIs like OpenAI or Anthropic, and building with open-source LLMs like Llama 3 or Mixtral would be highly useful here.
+> **[0:52](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/pre-requisites-of-the-course?u=76281980&t=52)** Apart from this, you would also need an intermediate level understanding of AI and LLMs, and some experience building projects with LLM APIs like OpenAI or Anthropic, and building with open-source LLMs like [[LLaMA]] 3 or Mixtral would be highly useful here.
 >
-> **[1:06](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/pre-requisites-of-the-course?u=76281980&t=66)** A good working knowledge of Python is compulsory because all the projects in this course are built with Python and Google Colab.
+> **[1:06](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/pre-requisites-of-the-course?u=76281980&t=66)** A good working knowledge of [[Python (Programming Language)|Python]] is compulsory because all the projects in this course are built with Python and [[Google]] Colab.
 >
 > **[1:13](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/pre-requisites-of-the-course?u=76281980&t=73)** Having said this, even if you're not very confident with your Linux skills or your AI knowledge, or even Python, I would still highly recommend you to watch this course and complete it.
 >
@@ -179,7 +177,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/pre-requisites-of-the-course?u=76281980&t=130)** I'm also an educator.
 >
-> **[2:12](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/pre-requisites-of-the-course?u=76281980&t=132)** I've taught more than 200,000 engineers across platforms like YouTube, Udemy, and LinkedIn Learning.
+> **[2:12](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/pre-requisites-of-the-course?u=76281980&t=132)** I've taught more than 200,000 engineers across platforms like YouTube, Udemy, and [[LinkedIn]] Learning.
 >
 > **[2:17](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/pre-requisites-of-the-course?u=76281980&t=137)** This is in fact my third LinkedIn Learning course, so you're in really safe hands.
 >
@@ -201,15 +199,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[Security]] (4), [[Kali Linux]] (4), [[Linux]] (3), [[Python (Programming Language)|Python]] (3)
+> **Frameworks & Libraries:** [[Kali Linux]] (4), [[Linux]] (3), [[Python (Programming Language)|Python]] (3), [[Google]] (2), [[LinkedIn]] (2)
 > **CLI Commands:** python (3), find (1), make (1)
 > **Env Vars:** llm (2), osint (1), nvidia (1)
 > **Cross-References:** in the next (2)
 > **Tools:** colab (1)
 > **Speakers:** - [akhil] (1)
 
-#### What can be learned in this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/what-we-ll-learn-in-this-course?u=76281980)
+#### [What can be learned in this course](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/what-we-ll-learn-in-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -223,11 +220,11 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/what-we-ll-learn-in-this-course?u=76281980&t=34)** In this course, we are going to use open source LLMs as much as possible, and the main reason for that is they're easily available and very affordable, and that's why this chapter is going to be important to understand how to work with them.
 >
-> **[0:48](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/what-we-ll-learn-in-this-course?u=76281980&t=48)** Our second chapter is about LLMs and cybersecurity.
+> **[0:48](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/what-we-ll-learn-in-this-course?u=76281980&t=48)** Our second chapter is about LLMs and [[Cybersecurity]].
 >
 > **[0:51](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/what-we-ll-learn-in-this-course?u=76281980&t=51)** We'll learn about the latest threats introduced by this technology, understand how the security world is rapidly changing, and how we can equip ourselves.
 >
-> **[1:00](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/what-we-ll-learn-in-this-course?u=76281980&t=60)** This will lay the foundation for the rest of the course.
+> **[1:00](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/what-we-ll-learn-in-this-course?u=76281980&t=60)** This will lay the foundation for the [[Representational State Transfer (REST)|rest]] of the course.
 >
 > **[1:02](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/what-we-ll-learn-in-this-course?u=76281980&t=62)** The second chapter won't be completely theory because you will have a small challenge and solution that will allow you to get your hands dirty with the technologies that we will be using.
 >
@@ -253,7 +250,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/what-we-ll-learn-in-this-course?u=76281980&t=129)** In our sixth chapter, we will take things to the next level by building an LLM-powered firewall.
 >
-> **[2:14](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/what-we-ll-learn-in-this-course?u=76281980&t=134)** This will be our capstone project as there's a lot that's happening in this project.
+> **[2:14](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/what-we-ll-learn-in-this-course?u=76281980&t=134)** This will be our [[Capstone]] project as there's a lot that's happening in this project.
 >
 > **[2:18](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/what-we-ll-learn-in-this-course?u=76281980&t=138)** This course ends with the seventh chapter where we discuss the future of cybersecurity with LLMs and how to go beyond this course and resources that you can use to take your learning further.
 >
@@ -263,15 +260,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (5), data (3), web (3), [[Cybersecurity]] (2), next (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Capstone]] (1)
 > **Env Vars:** llm (5), osint (3)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Google Colab and other important tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/google-colab-and-other-important-tools?u=76281980)
+#### [Google Colab and other important tools](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/google-colab-and-other-important-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -279,7 +275,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/google-colab-and-other-important-tools?u=76281980&t=1)** In this video, we will quickly go through all the different tech requirements that we'll be needing in this course.
 >
-> **[0:07](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/google-colab-and-other-important-tools?u=76281980&t=7)** The first thing we need is a GitHub account because then you'll be able to afford the accompanying repository that comes with this course.
+> **[0:07](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/google-colab-and-other-important-tools?u=76281980&t=7)** The first thing we need is a [[GitHub]] account because then you'll be able to afford the accompanying repository that comes with this course.
 >
 > **[0:15](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/google-colab-and-other-important-tools?u=76281980&t=15)** So please sign up and you should idly set up two-factor authentication as well as that will allow you to clone any repository on GitHub using SSH or HTTPS.
 >
@@ -291,15 +287,15 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/google-colab-and-other-important-tools?u=76281980&t=49)** You can go to the official installation website and pick up the one for your operating system.
 >
-> **[0:56](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/google-colab-and-other-important-tools?u=76281980&t=56)** If you're on Linux, especially Odin 2, you have multiple options to set this up, for example, APT and Snap.
+> **[0:56](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/google-colab-and-other-important-tools?u=76281980&t=56)** If you're on [[Linux]], especially Odin 2, you have multiple options to set this up, for example, APT and Snap.
 >
 > **[1:03](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/google-colab-and-other-important-tools?u=76281980&t=63)** And depending on your Linux distribution, for example, if you're on Arch Linux, you'll have pacman and other options as well.
 >
 > **[1:09](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/google-colab-and-other-important-tools?u=76281980&t=69)** So once you have VS Code set up and you've set up the environment paths correctly, you'll be able to directly open up our project from the terminal.
 >
-> **[1:17](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/google-colab-and-other-important-tools?u=76281980&t=77)** Now, like I mentioned in the previous video, I'm expecting you already know Python quite well because you're going to see a lot of it in this course.
+> **[1:17](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/google-colab-and-other-important-tools?u=76281980&t=77)** Now, like I mentioned in the previous video, I'm expecting you already know [[Python (Programming Language)|Python]] quite well because you're going to see a lot of it in this course.
 >
-> **[1:25](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/google-colab-and-other-important-tools?u=76281980&t=85)** The next technology you need to know about is Google Colab and all the projects shown here are Jupyter Notebooks that can be easily opened up in VS Code as we just saw.
+> **[1:25](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/google-colab-and-other-important-tools?u=76281980&t=85)** The next technology you need to know about is [[Google]] Colab and all the projects shown here are Jupyter Notebooks that can be easily opened up in VS Code as we just saw.
 >
 > **[1:34](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/google-colab-and-other-important-tools?u=76281980&t=94)** But we will prefer to run these in Google Colab at this course.
 >
@@ -307,7 +303,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/google-colab-and-other-important-tools?u=76281980&t=103)** This is because you get a notebook type of format to write code and in the background it runs the code on the server.
 >
-> **[1:48](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/google-colab-and-other-important-tools?u=76281980&t=108)** You can access the GPUs you want and just change them with just one click and super simple to use and keeps your project well organized since these are easy to share and manage in the Google Drive.
+> **[1:48](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/google-colab-and-other-important-tools?u=76281980&t=108)** You can access the GPUs you want and just change them with just one click and super simple to use and keeps your project well organized since these are easy to share and manage in the [[Google Drive]].
 >
 > **[1:59](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/google-colab-and-other-important-tools?u=76281980&t=119)** The way to use this is that you sign up for Google Colab using your existing Google account and you open up a new Colab notebook.
 >
@@ -321,11 +317,11 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/google-colab-and-other-important-tools?u=76281980&t=157)** And if this happens, there are two options.
 >
-> **[2:41](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/google-colab-and-other-important-tools?u=76281980&t=161)** You can either just check out my Colab, see how it works and how the output looks, and run the same code in your local Jupyter Notebook that runs on your PC or even on the cloud like AWS SageMaker.
+> **[2:41](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/google-colab-and-other-important-tools?u=76281980&t=161)** You can either just check out my Colab, see how it works and how the output looks, and run the same code in your local Jupyter Notebook that runs on your PC or even on the cloud like [[AWS SageMaker]].
 >
 > **[2:53](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/google-colab-and-other-important-tools?u=76281980&t=173)** The second option is just to pay $11 for a month, use the larger GPUs to run the programs, test them out, and then if you don't need Colab after that, you can maybe discontinue.
 >
-> **[3:04](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/google-colab-and-other-important-tools?u=76281980&t=184)** You can also sign up on Hugging Face and get your API key.
+> **[3:04](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/google-colab-and-other-important-tools?u=76281980&t=184)** You can also sign up on [[Hugging Face]] and get your API key.
 >
 > **[3:07](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/google-colab-and-other-important-tools?u=76281980&t=187)** Hugging Face is basically the place where we'll be downloading our LMS or AI models from.
 >
@@ -333,9 +329,9 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/google-colab-and-other-important-tools?u=76281980&t=196)** So if you don't want to run the LM by downloading from Hugging Face onto your Google Colab, because that's sometimes a bit slow, you can just use Replicate.
 >
-> **[3:24](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/google-colab-and-other-important-tools?u=76281980&t=204)** They basically have LMS deployed to be used, so you can just use any of the popular open source LMS available with just an API key, and you only have to pay for the API usage based on the amount of tokens generated.
+> **[3:24](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/google-colab-and-other-important-tools?u=76281980&t=204)** They basically have LMS deployed to be used, so you can just use any of the popular open source LMS available with just an API key, and you only have to pay for the API usage based on the amount of [[Tokens]] generated.
 >
-> **[3:39](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/google-colab-and-other-important-tools?u=76281980&t=219)** You will also need an OpenAI API key, an Anthropic API key, and a Groq API Key later in this course.
+> **[3:39](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/google-colab-and-other-important-tools?u=76281980&t=219)** You will also need an [[OpenAI API]] key, an Anthropic API key, and a Groq API Key later in this course.
 >
 > **[3:49](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/google-colab-and-other-important-tools?u=76281980&t=229)** Getting these API keys is really straightforward and there are plenty of resources on the internet to help you with this.
 >
@@ -343,7 +339,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (7), api (6), [[Linux]] (3), [[Hugging Face]] (3), [[GitHub]] (2)
+> **Frameworks & Libraries:** [[Google]] (7), [[Linux]] (3), [[Hugging Face]] (3), [[GitHub]] (2), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** api (7), gpu (3), lms (3), ssh (2), https (2)
 > **Tools:** colab (9), vs code (3), github (2), jupyter (2), terminal (1)
 > **CLI Commands:** ssh (2), apt (1), snap (1), python (1), aws (1)
@@ -352,8 +348,7 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **UI Navigation:** go to (1)
 
-#### How to make the most of this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/how-to-make-the-most-of-this-course?u=76281980)
+#### [How to make the most of this course](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/how-to-make-the-most-of-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -375,25 +370,25 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/how-to-make-the-most-of-this-course?u=76281980&t=35)** You don't have to abandon the whole course just because you didn't understand a small part or a particular technology used in a particular chapter in this course.
 >
-> **[0:44](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/how-to-make-the-most-of-this-course?u=76281980&t=44)** Now that you have my socials, if you're stuck anywhere in the course, feel free to reach out to me on LinkedIn or Twitter.
+> **[0:44](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/how-to-make-the-most-of-this-course?u=76281980&t=44)** Now that you have my socials, if you're stuck anywhere in the course, feel free to reach out to me on [[LinkedIn]] or Twitter.
 >
 > **[0:49](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/how-to-make-the-most-of-this-course?u=76281980&t=49)** I'm highly active on those platforms, and I try and respond to almost all DMs.
 >
-> **[0:54](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/how-to-make-the-most-of-this-course?u=76281980&t=54)** The code from this course will be available to you in GitHub, and it might so happen that you might not understand some of the aspects in the code when I explain it in the course.
+> **[0:54](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/how-to-make-the-most-of-this-course?u=76281980&t=54)** The code from this course will be available to you in [[GitHub]], and it might so happen that you might not understand some of the aspects in the code when I explain it in the course.
 >
 > **[1:03](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/how-to-make-the-most-of-this-course?u=76281980&t=63)** In such a scenario, there are multiple options.
 >
 > **[1:05](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/how-to-make-the-most-of-this-course?u=76281980&t=65)** The first option is to run the code on your own and understand what it actually does.
 >
-> **[1:09](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/how-to-make-the-most-of-this-course?u=76281980&t=69)** The way I've organized the code is that each logical section has its own cell in the accompanying Google collab file, and along with that is its output.
+> **[1:09](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/how-to-make-the-most-of-this-course?u=76281980&t=69)** The way I've organized the code is that each logical section has its own cell in the accompanying [[Google]] collab file, and along with that is its output.
 >
 > **[1:18](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/how-to-make-the-most-of-this-course?u=76281980&t=78)** This has been done carefully so that you're able to quickly understand what the code in the cell does.
 >
-> **[1:22](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/how-to-make-the-most-of-this-course?u=76281980&t=82)** If you don't understand the code after running it on your own or even from the output, the second option is to check out the documentation for that particular Python code.
+> **[1:22](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/how-to-make-the-most-of-this-course?u=76281980&t=82)** If you don't understand the code after running it on your own or even from the output, the second option is to check out the documentation for that particular [[Python (Programming Language)|Python]] code.
 >
-> **[1:31](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/how-to-make-the-most-of-this-course?u=76281980&t=91)** Maybe it's PyTorch code or LangChain or CrewAI code, and you can easily find explanations and documentation.
+> **[1:31](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/how-to-make-the-most-of-this-course?u=76281980&t=91)** Maybe it's [[PyTorch]] code or [[LangChain]] or CrewAI code, and you can easily find explanations and documentation.
 >
-> **[1:38](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/how-to-make-the-most-of-this-course?u=76281980&t=98)** The third option is to use ChatGPT to help you explain that code.
+> **[1:38](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/how-to-make-the-most-of-this-course?u=76281980&t=98)** The third option is to use [[ChatGPT]] to help you explain that code.
 >
 > **[1:42](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/how-to-make-the-most-of-this-course?u=76281980&t=102)** In some cases, you might have to ask multiple questions to ChatGPT, because it won't get it right in the first attempt, because most of these libraries are quite cutting-edge and it's possible that ChatGPT had a training cutoff date in the past before these libraries were updated, and in this case, ChatGPT will hallucinate and give you the wrong information, and this is why it's option number three and not one or two.
 >
@@ -401,7 +396,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (4), next (3), [[LinkedIn]] (1), [[GitHub]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (4), [[LinkedIn]] (1), [[GitHub]] (1), [[Google]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (2), make (1), python (1)
 > **Cross-References:** next video (1), in the next (1)
 > **Documentation:** the documentation (1)
@@ -413,16 +408,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### GenAI and top LLMs: GPT4, Claude, and Gemini (closed source)
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/gen-ai-and-top-llms-gpt4-claude-gemini-closed-source?u=76281980)
+#### [GenAI and top LLMs: GPT4, Claude, and Gemini (closed source)](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/gen-ai-and-top-llms-gpt4-claude-gemini-closed-source?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/gen-ai-and-top-llms-gpt4-claude-gemini-closed-source?u=76281980&t=0)** - [Instructor] Welcome to the first chapter in our course, and this chapter is called "Open-Source LLMs and Why They're So Important."
 >
-> **[0:07](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/gen-ai-and-top-llms-gpt4-claude-gemini-closed-source?u=76281980&t=7)** In this chapter, we'll understand the importance of open-source large language models.
+> **[0:07](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/gen-ai-and-top-llms-gpt4-claude-gemini-closed-source?u=76281980&t=7)** In this chapter, we'll understand the importance of open-source [[Large Language Models (LLM)|large language models]].
 >
-> **[0:13](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/gen-ai-and-top-llms-gpt4-claude-gemini-closed-source?u=76281980&t=13)** As we've established, we are building cybersecurity tools that are powered with LLMs and LLM agents.
+> **[0:13](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/gen-ai-and-top-llms-gpt4-claude-gemini-closed-source?u=76281980&t=13)** As we've established, we are building [[Cybersecurity Tools]] that are powered with LLMs and LLM agents.
 >
 > **[0:19](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/gen-ai-and-top-llms-gpt4-claude-gemini-closed-source?u=76281980&t=19)** Now, LLM agents are actually themselves powered by LLMS, and they just enable LLMs to achieve some tasks.
 >
@@ -432,7 +426,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/gen-ai-and-top-llms-gpt4-claude-gemini-closed-source?u=76281980&t=34)** Now, in most of the cases, you will be fine building projects with closed-source LLMs, such as the ones offered by OpenAI or Anthropic, but there are many use cases where you want to use open-source LLMs, and we will talk about this in this chapter.
 >
-> **[0:48](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/gen-ai-and-top-llms-gpt4-claude-gemini-closed-source?u=76281980&t=48)** But before we do that, let's first learn about generative AI, also called Gen AI and LLMS, or large language models.
+> **[0:48](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/gen-ai-and-top-llms-gpt4-claude-gemini-closed-source?u=76281980&t=48)** But before we do that, let's first learn about [[Generative AI]], also called Gen AI and LLMS, or large language models.
 >
 > **[0:56](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/gen-ai-and-top-llms-gpt4-claude-gemini-closed-source?u=76281980&t=56)** Now, AI has been around for quite some time, but gen AI is the new wave of AI that's changing the way we work with AI, and it's also disrupting a lot of old technologies.
 >
@@ -442,11 +436,11 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/gen-ai-and-top-llms-gpt4-claude-gemini-closed-source?u=76281980&t=79)** So generative AI or gen AI refers to AI systems capable of creating new content that is remarkably similar to what human beings might produce.
 >
-> **[1:28](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/gen-ai-and-top-llms-gpt4-claude-gemini-closed-source?u=76281980&t=88)** These systems are not just about understanding and responding to inputs, but generating new and unique outputs tailored to specific needs, including cybersecurity, which is the subject of this course.
+> **[1:28](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/gen-ai-and-top-llms-gpt4-claude-gemini-closed-source?u=76281980&t=88)** These systems are not just about understanding and responding to inputs, but generating new and unique outputs tailored to specific needs, including [[Cybersecurity]], which is the subject of this course.
 >
-> **[1:41](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/gen-ai-and-top-llms-gpt4-claude-gemini-closed-source?u=76281980&t=101)** For example, gen AI can help in vulnerability assessment by generating custom exploits to test your system's resilience.
+> **[1:41](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/gen-ai-and-top-llms-gpt4-claude-gemini-closed-source?u=76281980&t=101)** For example, gen AI can help in [[Vulnerability Assessment]] by generating custom exploits to test your system's resilience.
 >
-> **[1:49](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/gen-ai-and-top-llms-gpt4-claude-gemini-closed-source?u=76281980&t=109)** LLMs can generate detailed penetration testing reports and perform OSINT analysis.
+> **[1:49](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/gen-ai-and-top-llms-gpt4-claude-gemini-closed-source?u=76281980&t=109)** LLMs can generate detailed [[Penetration Testing]] reports and perform OSINT analysis.
 >
 > **[1:54](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/gen-ai-and-top-llms-gpt4-claude-gemini-closed-source?u=76281980&t=114)** Gen AI can automatically draft comprehensive reports after a security audit, saving analysts hours of work.
 >
@@ -454,7 +448,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/gen-ai-and-top-llms-gpt4-claude-gemini-closed-source?u=76281980&t=129)** It can create complex attack scenarios, allowing your team to practice their responses to advanced persistent threats.
 >
-> **[2:16](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/gen-ai-and-top-llms-gpt4-claude-gemini-closed-source?u=76281980&t=136)** It can do some really dangerous things as well, like it can generate realistic phishing emails, but cybersecurity professionals can use that for training purposes, helping to prepare your team for dealable threats.
+> **[2:16](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/gen-ai-and-top-llms-gpt4-claude-gemini-closed-source?u=76281980&t=136)** It can do some really dangerous things as well, like it can generate realistic [[Phishing]] emails, but cybersecurity professionals can use that for training purposes, helping to prepare your team for dealable threats.
 >
 > **[2:28](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/gen-ai-and-top-llms-gpt4-claude-gemini-closed-source?u=76281980&t=148)** Gen AI can even create malware and that can help security professionals for testing the defenses and to see how well the systems hold up under attack.
 >
@@ -474,13 +468,13 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/gen-ai-and-top-llms-gpt4-claude-gemini-closed-source?u=76281980&t=194)** Claude incorporates advanced safety mechanisms and ethical guidelines, making it suitable for sensitive applications where trust and reliability are paramount.
 >
-> **[3:23](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/gen-ai-and-top-llms-gpt4-claude-gemini-closed-source?u=76281980&t=203)** It's optimized for applications where ethical considerations are crucial, ensuring responsible AI deployment.
+> **[3:23](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/gen-ai-and-top-llms-gpt4-claude-gemini-closed-source?u=76281980&t=203)** It's optimized for applications where ethical considerations are crucial, ensuring [[Responsible AI]] deployment.
 >
 > **[3:29](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/gen-ai-and-top-llms-gpt4-claude-gemini-closed-source?u=76281980&t=209)** Claude has three sizes, Haiku, Sonnet, and Opus, with increasing number of parameters respectively.
 >
-> **[3:36](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/gen-ai-and-top-llms-gpt4-claude-gemini-closed-source?u=76281980&t=216)** Lastly, Gemini by Google DeepMind.
+> **[3:36](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/gen-ai-and-top-llms-gpt4-claude-gemini-closed-source?u=76281980&t=216)** Lastly, [[Gemini]] by [[Google]] DeepMind.
 >
-> **[3:39](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/gen-ai-and-top-llms-gpt4-claude-gemini-closed-source?u=76281980&t=219)** Gemini utilizes a highly optimized version of the transformer architecture and is known for its advanced reasoning and decision-making capabilities.
+> **[3:39](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/gen-ai-and-top-llms-gpt4-claude-gemini-closed-source?u=76281980&t=219)** Gemini utilizes a highly optimized version of the transformer architecture and is known for its advanced reasoning and [[Decision-Making]] capabilities.
 >
 > **[3:46](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/gen-ai-and-top-llms-gpt4-claude-gemini-closed-source?u=76281980&t=226)** One of its unique strengths is its seamless integration with various Google applications enhancing tools like Google Workspace with advanced AI capabilities.
 >
@@ -492,7 +486,7 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/gen-ai-and-top-llms-gpt4-claude-gemini-closed-source?u=76281980&t=252)** This allows these companies to control their use and keep a competitive edge.
 >
-> **[4:16](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/gen-ai-and-top-llms-gpt4-claude-gemini-closed-source?u=76281980&t=256)** On the other hand, open-source LLMs like Llama, Mistral AI, GPT Neo and Bloom, et cetera, have their code and models available for anyone to use and modify.
+> **[4:16](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/gen-ai-and-top-llms-gpt4-claude-gemini-closed-source?u=76281980&t=256)** On the other hand, open-source LLMs like [[LLaMA]], Mistral AI, GPT Neo and Bloom, et cetera, have their code and models available for anyone to use and modify.
 >
 > **[4:26](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/gen-ai-and-top-llms-gpt4-claude-gemini-closed-source?u=76281980&t=266)** This openness is great because it adds a new dimension to the extent to which we can push the limits because closed-source models have a lot of guardrails preventing them from going beyond a certain extent.
 >
@@ -518,7 +512,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), open-source (9), [[Security]] (4), [[Large Language Models (LLM)|Large language models]] (3), next (3)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (3), [[Google]] (3), [[Generative AI]] (2), [[Cybersecurity]] (2), [[Gemini]] (2)
 > **Env Vars:** llm (2), llms (2), gbd (2), osint (1), gbt (1)
 > **Cross-References:** in the next (2)
 > **Definitions:** is called (1), refers to (1)
@@ -527,28 +521,27 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Important LLM concepts: Transformer architecture, attention, quantization, parameter offloading, and fine-tuning
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/important-llm-concepts-transformer-architecture-attention-quantization-parameter-offloading-finetuning?u=76281980)
+#### [Important LLM concepts: Transformer architecture, attention, quantization, parameter offloading, and fine-tuning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/important-llm-concepts-transformer-architecture-attention-quantization-parameter-offloading-finetuning?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/important-llm-concepts-transformer-architecture-attention-quantization-parameter-offloading-finetuning?u=76281980&t=0)** - [Instructor] Welcome to the video on important LLM concepts.
 >
-> **[0:03](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/important-llm-concepts-transformer-architecture-attention-quantization-parameter-offloading-finetuning?u=76281980&t=3)** And in this video, we will learn about some concepts that will enable us to get a fundamental understanding of large language models.
+> **[0:03](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/important-llm-concepts-transformer-architecture-attention-quantization-parameter-offloading-finetuning?u=76281980&t=3)** And in this video, we will learn about some concepts that will enable us to get a fundamental understanding of [[Large Language Models (LLM)|large language models]].
 >
 > **[0:10](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/important-llm-concepts-transformer-architecture-attention-quantization-parameter-offloading-finetuning?u=76281980&t=10)** By the end of this video, you'll understand the transformer architecture, attention mechanism, quantization techniques, and parameter offloading and why these are game-changers in AI.
 >
-> **[0:21](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/important-llm-concepts-transformer-architecture-attention-quantization-parameter-offloading-finetuning?u=76281980&t=21)** As we discussed in the previous video, many advanced LLMs, like GPT-4, are built on the transformer architecture.
+> **[0:21](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/important-llm-concepts-transformer-architecture-attention-quantization-parameter-offloading-finetuning?u=76281980&t=21)** As we discussed in the previous video, many advanced LLMs, like [[GPT-4]], are built on the transformer architecture.
 >
 > **[0:27](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/important-llm-concepts-transformer-architecture-attention-quantization-parameter-offloading-finetuning?u=76281980&t=27)** It's crucial to understand this, because transformers are the backbone of these models.
 >
 > **[0:32](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/important-llm-concepts-transformer-architecture-attention-quantization-parameter-offloading-finetuning?u=76281980&t=32)** So what exactly is the transformer architecture?
 >
-> **[0:34](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/important-llm-concepts-transformer-architecture-attention-quantization-parameter-offloading-finetuning?u=76281980&t=34)** It was introduced by Google in the 2017 research paper "Attention is All You Need."
+> **[0:34](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/important-llm-concepts-transformer-architecture-attention-quantization-parameter-offloading-finetuning?u=76281980&t=34)** It was introduced by [[Google]] in the 2017 research paper "Attention is All You Need."
 >
-> **[0:39](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/important-llm-concepts-transformer-architecture-attention-quantization-parameter-offloading-finetuning?u=76281980&t=39)** The transformer is a deep learning model that revolutionized AI and is also affecting cybersecurity with its use of the multi-head attention mechanism.
+> **[0:39](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/important-llm-concepts-transformer-architecture-attention-quantization-parameter-offloading-finetuning?u=76281980&t=39)** The transformer is a [[Deep Learning]] model that revolutionized AI and is also affecting [[Cybersecurity]] with its use of the multi-head attention mechanism.
 >
-> **[0:47](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/important-llm-concepts-transformer-architecture-attention-quantization-parameter-offloading-finetuning?u=76281980&t=47)** The transformer converts text into numerical representations called tokens which are transformed into vectors through word embeddings.
+> **[0:47](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/important-llm-concepts-transformer-architecture-attention-quantization-parameter-offloading-finetuning?u=76281980&t=47)** The transformer converts text into numerical representations called [[Tokens]] which are transformed into vectors through [[Microsoft Word|word]] embeddings.
 >
 > **[0:54](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/important-llm-concepts-transformer-architecture-attention-quantization-parameter-offloading-finetuning?u=76281980&t=54)** Unlike older models, like LSTMs, transformers process entire sequences simultaneously with multi-head attention.
 >
@@ -588,7 +581,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/important-llm-concepts-transformer-architecture-attention-quantization-parameter-offloading-finetuning?u=76281980&t=183)** Parameter offloading is a technique used to manage memory efficiently by offloading parameters to secondary storage when not in use.
 >
-> **[3:09](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/important-llm-concepts-transformer-architecture-attention-quantization-parameter-offloading-finetuning?u=76281980&t=189)** This allows very large models to run on hardware with limited memory, which is especially useful in applications where resources might be constrained.
+> **[3:09](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/important-llm-concepts-transformer-architecture-attention-quantization-parameter-offloading-finetuning?u=76281980&t=189)** This allows very large models to run on [[Hardware]] with limited memory, which is especially useful in applications where resources might be constrained.
 >
 > **[3:16](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/important-llm-concepts-transformer-architecture-attention-quantization-parameter-offloading-finetuning?u=76281980&t=196)** And even when the resources are not constrained, parameter offloading just makes for more efficient use of resources.
 >
@@ -596,35 +589,34 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/important-llm-concepts-transformer-architecture-attention-quantization-parameter-offloading-finetuning?u=76281980&t=208)** These concepts form the foundation of modern LLMs.
 >
-> **[3:34](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/important-llm-concepts-transformer-architecture-attention-quantization-parameter-offloading-finetuning?u=76281980&t=214)** In the next video, we'll dive into some of the top open source LLMs, like Llama, Mistral, and Code Llama.
+> **[3:34](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/important-llm-concepts-transformer-architecture-attention-quantization-parameter-offloading-finetuning?u=76281980&t=214)** In the next video, we'll dive into some of the top open source LLMs, like [[LLaMA]], Mistral, and Code Llama.
 >
-> **[3:38](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/important-llm-concepts-transformer-architecture-attention-quantization-parameter-offloading-finetuning?u=76281980&t=218)** We'll explore their capabilities and how they rank on the Hugging Face leaderboard, so stay tuned.
+> **[3:38](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/important-llm-concepts-transformer-architecture-attention-quantization-parameter-offloading-finetuning?u=76281980&t=218)** We'll explore their capabilities and how they rank on the [[Hugging Face]] leaderboard, so stay tuned.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (2), ai (2), [[Microsoft Word|Word]] (2), data (2), next (2)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (2), [[Microsoft Word|Word]] (2), [[LLaMA]] (2), [[GPT-4]] (1), [[Google]] (1)
 > **Env Vars:** llm (1), gpt (1), ptq (1), qat (1)
 > **Cross-References:** we discussed (1), previous video (1), in the next (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (2), for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Open source LLMs: Llama, Mistral, Mixtral, and Code Llama
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/open-source-llms-llama-mistral-mixtral-codellama?u=76281980)
+#### [Open source LLMs: Llama, Mistral, Mixtral, and Code Llama](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/open-source-llms-llama-mistral-mixtral-codellama?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/open-source-llms-llama-mistral-mixtral-codellama?u=76281980&t=0)** - [Instructor] Welcome to our video on some of the top open source LLMs out there.
 >
-> **[0:04](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/open-source-llms-llama-mistral-mixtral-codellama?u=76281980&t=4)** Today, we'll learn about top LLMs like LlaMA, Mistral, and Code Llama, and explore what makes these models stand out.
+> **[0:04](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/open-source-llms-llama-mistral-mixtral-codellama?u=76281980&t=4)** Today, we'll learn about top LLMs like [[LLaMA]], Mistral, and Code Llama, and explore what makes these models stand out.
 >
 > **[0:11](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/open-source-llms-llama-mistral-mixtral-codellama?u=76281980&t=11)** By the end, you'll have a solid understanding of these powerful models.
 >
-> **[0:15](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/open-source-llms-llama-mistral-mixtral-codellama?u=76281980&t=15)** Meta has taken a unique stance in the large language models space by openly sharing their powerful models.
+> **[0:15](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/open-source-llms-llama-mistral-mixtral-codellama?u=76281980&t=15)** Meta has taken a unique stance in the [[Large Language Models (LLM)|large language models]] space by openly sharing their powerful models.
 >
 > **[0:20](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/open-source-llms-llama-mistral-mixtral-codellama?u=76281980&t=20)** The journey began with the release of the large language model, Meta AI, an open source model designed for research and commercial use.
 >
-> **[0:28](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/open-source-llms-llama-mistral-mixtral-codellama?u=76281980&t=28)** LLaMA 1 laid the groundwork for advancements in natural language processing and AI applications.
+> **[0:28](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/open-source-llms-llama-mistral-mixtral-codellama?u=76281980&t=28)** LLaMA 1 laid the groundwork for advancements in [[Natural Language Processing (NLP)|natural language processing]] and AI applications.
 >
 > **[0:33](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/open-source-llms-llama-mistral-mixtral-codellama?u=76281980&t=33)** Building on the success of LLaMA 1, Meta released LLaMA 2 in July, 2023.
 >
@@ -658,15 +650,15 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/open-source-llms-llama-mistral-mixtral-codellama?u=76281980&t=154)** It can generate code and explain code concepts from natural language prompts, making it a versatile tool for both developers and those learning to code.
 >
-> **[2:42](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/open-source-llms-llama-mistral-mixtral-codellama?u=76281980&t=162)** Code LlaMA is available in three versions: the foundational model, a Python-specialized model, and an instruct variant fine tuned for understanding natural language instructions.
+> **[2:42](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/open-source-llms-llama-mistral-mixtral-codellama?u=76281980&t=162)** Code LlaMA is available in three versions: the foundational model, a [[Python (Programming Language)|Python]]-specialized model, and an instruct variant fine tuned for understanding natural language instructions.
 >
 > **[2:51](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/open-source-llms-llama-mistral-mixtral-codellama?u=76281980&t=171)** The Code LlaMA model comes in various sizes including 7B, 13B, 34B, and the newly released 70B with each trained on extensive data sets to ensure high performance.
 >
-> **[3:01](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/open-source-llms-llama-mistral-mixtral-codellama?u=76281980&t=181)** These models support popular programming languages such as Python, C++, Java, and more.
+> **[3:01](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/open-source-llms-llama-mistral-mixtral-codellama?u=76281980&t=181)** These models support popular programming languages such as Python, C++, [[Java]], and more.
 >
-> **[3:06](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/open-source-llms-llama-mistral-mixtral-codellama?u=76281980&t=186)** By providing robust coding assistance and improving productivity, Code LlaMA stands out as a valuable resource for enhancing software development workflows and for cybersecurity purposes as well.
+> **[3:06](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/open-source-llms-llama-mistral-mixtral-codellama?u=76281980&t=186)** By providing robust coding assistance and improving productivity, Code LlaMA stands out as a valuable resource for enhancing [[Software Development]] workflows and for [[Cybersecurity]] purposes as well.
 >
-> **[3:17](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/open-source-llms-llama-mistral-mixtral-codellama?u=76281980&t=197)** Hugging Face is the industry standard when it comes to hosting open source LLMs and other AI models that you can download.
+> **[3:17](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/open-source-llms-llama-mistral-mixtral-codellama?u=76281980&t=197)** [[Hugging Face]] is the industry standard when it comes to hosting open source LLMs and other AI models that you can download.
 >
 > **[3:22](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/open-source-llms-llama-mistral-mixtral-codellama?u=76281980&t=202)** You can directly interact with LLMs on Hugging Face.
 >
@@ -682,15 +674,15 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/open-source-llms-llama-mistral-mixtral-codellama?u=76281980&t=239)** Each model has its strengths, making them valuable tools.
 >
-> **[4:02](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/open-source-llms-llama-mistral-mixtral-codellama?u=76281980&t=242)** For example, LlaMA models can help in threat detection, Mistral models can help in real-time monitoring, and Code LlaMA can be used for secure code generation and analysis.
+> **[4:02](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/open-source-llms-llama-mistral-mixtral-codellama?u=76281980&t=242)** For example, LlaMA models can help in threat detection, Mistral models can help in [[Real-Time]] monitoring, and Code LlaMA can be used for secure code generation and analysis.
 >
-> **[4:10](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/open-source-llms-llama-mistral-mixtral-codellama?u=76281980&t=250)** In our next video, we'll explore how to find and run models using popular platforms like Hugging Face Replicate, and Google Colab.
+> **[4:10](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/open-source-llms-llama-mistral-mixtral-codellama?u=76281980&t=250)** In our next video, we'll explore how to find and run models using popular platforms like Hugging Face Replicate, and [[Google]] Colab.
 >
 > **[4:16](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/open-source-llms-llama-mistral-mixtral-codellama?u=76281980&t=256)** This will help you get hands-on experience with these powerful tools. So stay tuned.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LLaMA]] (22), ai (7), [[Hugging Face]] (6), [[Programming]] (3), data (2)
+> **Frameworks & Libraries:** [[LLaMA]] (22), [[Hugging Face]] (6), [[Python (Programming Language)|Python]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Versions:** 3.1 (2), 7.3 (1), 2.0 (1), 3.5 (1)
 > **CLI Commands:** python (2), apache (1), find (1)
 > **Env Vars:** rlhf (1), gpt (1), stem (1), nlp (1)
@@ -699,14 +691,13 @@ created: 2026-05-02
 > **Cross-References:** next video (1)
 > **Tools:** colab (1)
 
-#### Assets to find and run models: Hugging Face, Replicate, Google Colab, and Ollama
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/assets-to-find-and-run-models-hugging-face-replicate-google-colab-ollama?u=76281980)
+#### [Assets to find and run models: Hugging Face, Replicate, Google Colab, and Ollama](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/assets-to-find-and-run-models-hugging-face-replicate-google-colab-ollama?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/assets-to-find-and-run-models-hugging-face-replicate-google-colab-ollama?u=76281980&t=0)** - [Instructor] Welcome to this video on running large language models with limited resources.
+> **[0:00](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/assets-to-find-and-run-models-hugging-face-replicate-google-colab-ollama?u=76281980&t=0)** - [Instructor] Welcome to this video on running [[Large Language Models (LLM)|large language models]] with limited resources.
 >
-> **[0:05](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/assets-to-find-and-run-models-hugging-face-replicate-google-colab-ollama?u=76281980&t=5)** In this video, we'll explore how to use platforms like Google Colab and Hugging Face to enable us to easily work with LLMs.
+> **[0:05](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/assets-to-find-and-run-models-hugging-face-replicate-google-colab-ollama?u=76281980&t=5)** In this video, we'll explore how to use platforms like [[Google]] Colab and [[Hugging Face]] to enable us to easily work with LLMs.
 >
 > **[0:11](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/assets-to-find-and-run-models-hugging-face-replicate-google-colab-ollama?u=76281980&t=11)** By the end of this video, you'll know how to set up and run large language models efficiently on these platforms.
 >
@@ -714,7 +705,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/assets-to-find-and-run-models-hugging-face-replicate-google-colab-ollama?u=76281980&t=24)** These constraints can make it tough to work with large language models directly on our personal computers.
 >
-> **[0:30](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/assets-to-find-and-run-models-hugging-face-replicate-google-colab-ollama?u=76281980&t=30)** Google Colab is a fantastic solution for running LLMs without needing powerful hardware locally, because it runs the hardware on the cloud for us.
+> **[0:30](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/assets-to-find-and-run-models-hugging-face-replicate-google-colab-ollama?u=76281980&t=30)** Google Colab is a fantastic solution for running LLMs without needing powerful [[Hardware]] locally, because it runs the hardware on the cloud for us.
 >
 > **[0:40](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/assets-to-find-and-run-models-hugging-face-replicate-google-colab-ollama?u=76281980&t=40)** It also provides free access to GPUs like the Nvidia T4 GPU, which is excellent for learning and experimenting.
 >
@@ -724,7 +715,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/assets-to-find-and-run-models-hugging-face-replicate-google-colab-ollama?u=76281980&t=59)** It's basically a treasure trove for anyone working with AI.
 >
-> **[1:03](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/assets-to-find-and-run-models-hugging-face-replicate-google-colab-ollama?u=76281980&t=63)** As you know, by now, on Hugging Face, you can find models like GPT-Neo, Llama, and many others, all available for free use and customization, and this is where we are going to get our models from.
+> **[1:03](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/assets-to-find-and-run-models-hugging-face-replicate-google-colab-ollama?u=76281980&t=63)** As you know, by now, on Hugging Face, you can find models like GPT-Neo, [[LLaMA]], and many others, all available for free use and customization, and this is where we are going to get our models from.
 >
 > **[1:15](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/assets-to-find-and-run-models-hugging-face-replicate-google-colab-ollama?u=76281980&t=75)** Since we're going to be working with LMS all throughout the course, the basic building block of any of the projects is going to be to import an LLM into our project.
 >
@@ -732,9 +723,9 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/assets-to-find-and-run-models-hugging-face-replicate-google-colab-ollama?u=76281980&t=87)** First, you'll need some essential libraries.
 >
-> **[1:30](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/assets-to-find-and-run-models-hugging-face-replicate-google-colab-ollama?u=76281980&t=90)** So we first get transformers, which is a library by Hugging Face that provides pre-trained models and tools for natural language processing tasks, such as text classification, translation, and summarization.
+> **[1:30](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/assets-to-find-and-run-models-hugging-face-replicate-google-colab-ollama?u=76281980&t=90)** So we first get transformers, which is a library by Hugging Face that provides pre-trained models and tools for [[Natural Language Processing (NLP)|natural language processing]] tasks, such as text classification, translation, and summarization.
 >
-> **[1:43](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/assets-to-find-and-run-models-hugging-face-replicate-google-colab-ollama?u=76281980&t=103)** Then we have Torch, which provides the foundational tools for building, training, and fine tuning models.
+> **[1:43](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/assets-to-find-and-run-models-hugging-face-replicate-google-colab-ollama?u=76281980&t=103)** Then we have Torch, which provides the foundational tools for building, training, and [[Fine Tuning]] models.
 >
 > **[1:48](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/assets-to-find-and-run-models-hugging-face-replicate-google-colab-ollama?u=76281980&t=108)** It supports efficient tensor computations, automatic differentiation, and GPU exploration, which are essential for handling the complex architectures of modern language models.
 >
@@ -746,7 +737,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/assets-to-find-and-run-models-hugging-face-replicate-google-colab-ollama?u=76281980&t=155)** Once the model is loaded, you can run an inference, and here's an example to generate text based on a prompt.
 >
-> **[2:41](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/assets-to-find-and-run-models-hugging-face-replicate-google-colab-ollama?u=76281980&t=161)** The prompt is a string containing the text for which we want the model to generate a response, which is what are the latest trends in cybersecurity.
+> **[2:41](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/assets-to-find-and-run-models-hugging-face-replicate-google-colab-ollama?u=76281980&t=161)** The prompt is a string containing the text for which we want the model to generate a response, which is what are the latest trends in [[Cybersecurity]].
 >
 > **[2:49](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/assets-to-find-and-run-models-hugging-face-replicate-google-colab-ollama?u=76281980&t=169)** We also encode this input prompt using a tokenizer, and it's available to us in the inputs variable.
 >
@@ -774,7 +765,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hugging Face]] (5), [[Large Language Models (LLM)|Large language models]] (4), [[Google]] (3), llm (3), next (3)
+> **Frameworks & Libraries:** [[Hugging Face]] (5), [[Large Language Models (LLM)|Large language models]] (4), [[Google]] (3), [[Cybersecurity]] (3), [[Hardware]] (2)
 > **Env Vars:** llm (3), gpu (2), gpt (2), ram (1), lms (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Cross-References:** in the next (2), we talked about (1), previous video (1)
@@ -783,12 +774,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1), you'll need (1)
 > **Versions:** 1.3 (1)
 
-#### Fine-tuning models: QLoRA, PEFT, and Unsloth
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/finetuning-models-qlora-peft-unsloth?u=76281980)
+#### [Fine-tuning models: QLoRA, PEFT, and Unsloth](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/finetuning-models-qlora-peft-unsloth?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/finetuning-models-qlora-peft-unsloth?u=76281980&t=0)** - [Instructor] Welcome to this video on fine-tuning models as part of our course on LLMs and cybersecurity.
+> **[0:00](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/finetuning-models-qlora-peft-unsloth?u=76281980&t=0)** - [Instructor] Welcome to this video on fine-tuning models as part of our course on LLMs and [[Cybersecurity]].
 >
 > **[0:06](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/finetuning-models-qlora-peft-unsloth?u=76281980&t=6)** In the previous video, we noticed how our LLM gave a response, but it wasn't up to the mark.
 >
@@ -810,13 +800,13 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/finetuning-models-qlora-peft-unsloth?u=76281980&t=66)** Now LoRA focuses on fine-tuning smaller matrices within the model, significantly reducing memory requirements, while QLoRA takes it a step further by quantizing these matrices for even greater efficiency.
 >
-> **[1:18](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/finetuning-models-qlora-peft-unsloth?u=76281980&t=78)** To help us with fine-tuning, we usually use tools, like Hugging Face AutoTrain and Unsloth, that can help simplify the fine-tuning process.
+> **[1:18](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/finetuning-models-qlora-peft-unsloth?u=76281980&t=78)** To help us with fine-tuning, we usually use tools, like [[Hugging Face]] AutoTrain and Unsloth, that can help simplify the fine-tuning process.
 >
 > **[1:26](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/finetuning-models-qlora-peft-unsloth?u=76281980&t=86)** Hugging Face AutoTrain automates much of the setup and training, making it easier to fine-tune models.
 >
 > **[1:32](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/finetuning-models-qlora-peft-unsloth?u=76281980&t=92)** Unsloth offers an intuitive interface for managing and fine-tuning models with minimal coding, making it accessible for users with different skill levels.
 >
-> **[1:41](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/finetuning-models-qlora-peft-unsloth?u=76281980&t=101)** Unsloth specifically optimizes the fine-tuning process for large language models, like LLaMA 3 and Mistral, reducing memory usage by 70% without sacrificing accuracy.
+> **[1:41](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/finetuning-models-qlora-peft-unsloth?u=76281980&t=101)** Unsloth specifically optimizes the fine-tuning process for [[Large Language Models (LLM)|large language models]], like [[LLaMA]] 3 and Mistral, reducing memory usage by 70% without sacrificing accuracy.
 >
 > **[1:51](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/finetuning-models-qlora-peft-unsloth?u=76281980&t=111)** To fine-tune an LLM, you will ideally follow these steps.
 >
@@ -838,7 +828,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (3), [[Hugging Face]] (2), next (2), [[Cybersecurity]] (1), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (2), [[Cybersecurity]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[LLaMA]] (1)
 > **Env Vars:** llm (3), peft (1), nlp (1)
 > **Cross-References:** in the next (2), previous video (1)
 > **Prerequisites:** setup (1), configure (1)
@@ -846,8 +836,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Import an LLM in Colab
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/challenge-import-an-llm-in-colab?u=76281980)
+#### [Challenge: Import an LLM in Colab](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/challenge-import-an-llm-in-colab?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -863,7 +852,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/challenge-import-an-llm-in-colab?u=76281980&t=23)** All right, let's see what this challenge is all about.
 >
-> **[0:25](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/challenge-import-an-llm-in-colab?u=76281980&t=25)** We need to import a very specific LLM called Zephyr-7B-beta from Hugging Face and get it running on Google Colab.
+> **[0:25](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/challenge-import-an-llm-in-colab?u=76281980&t=25)** We need to import a very specific LLM called Zephyr-7B-beta from [[Hugging Face]] and get it running on [[Google]] Colab.
 >
 > **[0:33](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/challenge-import-an-llm-in-colab?u=76281980&t=33)** This is a great model for this challenge because it's 7-billion parameters in size and that's quite large model.
 >
@@ -891,7 +880,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hugging Face]] (3), [[Google]] (3), llm (2), next (2), prompt (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (3), [[Google]] (3)
 > **Env Vars:** llm (2), gpu (1)
 > **Tools:** colab (3)
 > **Prerequisites:** install (2), set up (1)
@@ -900,14 +889,13 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Learn how to import an LLM from Hugging Face
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-learn-to-import-an-llm-from-huggingface?u=76281980)
+#### [Solution: Learn how to import an LLM from Hugging Face](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-learn-to-import-an-llm-from-huggingface?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-learn-to-import-an-llm-from-huggingface?u=76281980&t=0)** - [Instructor] Welcome back.
 >
-> **[0:06](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-learn-to-import-an-llm-from-huggingface?u=76281980&t=6)** In this video, we are going to look at the solution for the challenge of importing an LM from Hugging Face into Google Colab.
+> **[0:06](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-learn-to-import-an-llm-from-huggingface?u=76281980&t=6)** In this video, we are going to look at the solution for the challenge of importing an LM from [[Hugging Face]] into [[Google]] Colab.
 >
 > **[0:12](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-learn-to-import-an-llm-from-huggingface?u=76281980&t=12)** The challenge was quite similar to what we had just done a few years back where we had imported an LM and ran inference with it.
 >
@@ -923,19 +911,19 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-learn-to-import-an-llm-from-huggingface?u=76281980&t=35)** Next, we'll install some packages.
 >
-> **[0:38](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-learn-to-import-an-llm-from-huggingface?u=76281980&t=38)** Here, we are upgrading pip because it's going to be used to install and manage other Python packages.
+> **[0:38](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-learn-to-import-an-llm-from-huggingface?u=76281980&t=38)** Here, we are upgrading pip because it's going to be used to install and manage other [[Python (Programming Language)|Python]] packages.
 >
 > **[0:44](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-learn-to-import-an-llm-from-huggingface?u=76281980&t=44)** By upgrading it, we ensure that we have the latest features.
 >
-> **[0:49](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-learn-to-import-an-llm-from-huggingface?u=76281980&t=49)** Next, we uninstall existing versions of some PyTorch-related libraries, and the next line, we reinstall the same libraries, but with GPU support.
+> **[0:49](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-learn-to-import-an-llm-from-huggingface?u=76281980&t=49)** Next, we uninstall existing versions of some [[PyTorch]]-related libraries, and the next line, we reinstall the same libraries, but with GPU support.
 >
 > **[1:01](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-learn-to-import-an-llm-from-huggingface?u=76281980&t=61)** Then, we install the Hugging Face transformers library and we get three more dependencies.
 >
-> **[1:08](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-learn-to-import-an-llm-from-huggingface?u=76281980&t=68)** The first is accelerate, which makes it easier to train and use models on various hardware configurations like GPUs without modifying code.
+> **[1:08](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-learn-to-import-an-llm-from-huggingface?u=76281980&t=68)** The first is accelerate, which makes it easier to train and use models on various [[Hardware]] configurations like GPUs without modifying code.
 >
 > **[1:17](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-learn-to-import-an-llm-from-huggingface?u=76281980&t=77)** Then, we have the bits and bytes library that provides efficient 8-it optimizers and quantization techniques, helping in reducing memory usage during training or inference.
 >
-> **[1:27](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-learn-to-import-an-llm-from-huggingface?u=76281980&t=87)** And the xFormers library that's aimed at improving the efficiency of transformer models, particularly in terms of memory and speed.
+> **[1:27](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-learn-to-import-an-llm-from-huggingface?u=76281980&t=87)** And the xFormers library that's aimed at improving the efficiency of [[Transformer Models]], particularly in terms of memory and speed.
 >
 > **[1:36](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-learn-to-import-an-llm-from-huggingface?u=76281980&t=96)** Now that our environment is set up, it's time to load our LLM.
 >
@@ -967,7 +955,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-learn-to-import-an-llm-from-huggingface?u=76281980&t=182)** We pass the formatted prompt to the text generation pipeline, which is available to us with pipe.
 >
-> **[3:08](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-learn-to-import-an-llm-from-huggingface?u=76281980&t=188)** The max_new_tokens is equal to 256 argument specifies the maximum number of tokens to generate.
+> **[3:08](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-learn-to-import-an-llm-from-huggingface?u=76281980&t=188)** The max_new_tokens is equal to 256 argument specifies the maximum number of [[Tokens]] to generate.
 >
 > **[3:14](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-learn-to-import-an-llm-from-huggingface?u=76281980&t=194)** do_sample is equal true enable sampling.
 >
@@ -975,7 +963,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-learn-to-import-an-llm-from-huggingface?u=76281980&t=204)** Finally, we print the generated_text, which is now available in the output variable.
 >
-> **[3:31](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-learn-to-import-an-llm-from-huggingface?u=76281980&t=211)** And in the output you see a joke about large language models that's been generated by our LLM.
+> **[3:31](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-learn-to-import-an-llm-from-huggingface?u=76281980&t=211)** And in the output you see a joke about [[Large Language Models (LLM)|large language models]] that's been generated by our LLM.
 >
 > **[3:37](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-learn-to-import-an-llm-from-huggingface?u=76281980&t=217)** So mission accomplished.
 >
@@ -983,13 +971,13 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-learn-to-import-an-llm-from-huggingface?u=76281980&t=222)** Importing an LLM and performing inference is a crucial skill as we move forward in our course.
 >
-> **[3:47](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-learn-to-import-an-llm-from-huggingface?u=76281980&t=227)** In the next chapter, we'll explore how to find you these models for specific tasks related to cybersecurity.
+> **[3:47](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-learn-to-import-an-llm-from-huggingface?u=76281980&t=227)** In the next chapter, we'll explore how to find you these models for specific tasks related to [[Cybersecurity]].
 >
 > **[3:51](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-learn-to-import-an-llm-from-huggingface?u=76281980&t=231)** So see you there.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (7), next (4), llm (4), [[Hugging Face]] (2), [[Google]] (2)
+> **Frameworks & Libraries:** [[Hugging Face]] (2), [[Google]] (2), [[Python (Programming Language)|Python]] (1), [[PyTorch]] (1), [[Hardware]] (1)
 > **Code Identifiers:** xformers (1), torch_dtype (1), device_map (1), apply_chat_template (1), add_generation_prompt (1)
 > **Env Vars:** llm (4), gpu (2)
 > **Prerequisites:** install (3), set up (2)
@@ -1003,8 +991,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### New evolving threats, powered by LLMs
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/new-evolving-threats-powered-by-llms?u=76281980)
+#### [New evolving threats, powered by LLMs](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/new-evolving-threats-powered-by-llms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1012,7 +999,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/new-evolving-threats-powered-by-llms?u=76281980&t=3)** By now, we've understood quite a bit about LLMs and why they're important.
 >
-> **[0:07](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/new-evolving-threats-powered-by-llms?u=76281980&t=7)** But now, we want to understand how these are important from a cybersecurity standpoint, and this is what this chapter is dedicated to.
+> **[0:07](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/new-evolving-threats-powered-by-llms?u=76281980&t=7)** But now, we want to understand how these are important from a [[Cybersecurity]] standpoint, and this is what this chapter is dedicated to.
 >
 > **[0:13](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/new-evolving-threats-powered-by-llms?u=76281980&t=13)** In the first half of this chapter, we are going to understand how attackers have started using LLMs.
 >
@@ -1028,7 +1015,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/new-evolving-threats-powered-by-llms?u=76281980&t=47)** And to be honest, there are hundreds of such new threats, but let's just talk about four such cyber threats that have recently evolved due to use of LLMs, and that'll be enough to give us an idea.
 >
-> **[0:58](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/new-evolving-threats-powered-by-llms?u=76281980&t=58)** LLM-enhanced phishing attacks.
+> **[0:58](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/new-evolving-threats-powered-by-llms?u=76281980&t=58)** LLM-enhanced [[Phishing]] attacks.
 >
 > **[1:00](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/new-evolving-threats-powered-by-llms?u=76281980&t=60)** Cyber criminals are using LLMs to craft highly sophisticated and personalized phishing emails.
 >
@@ -1056,7 +1043,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/new-evolving-threats-powered-by-llms?u=76281980&t=137)** The speed and efficiency of LMM-driven vulnerability discovery put pressure on organizations to patch systems more quickly, as a window between discovery and exploitation becomes narrower.
 >
-> **[2:28](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/new-evolving-threats-powered-by-llms?u=76281980&t=148)** Next is LMM-based autonomous penetration testing.
+> **[2:28](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/new-evolving-threats-powered-by-llms?u=76281980&t=148)** Next is LMM-based autonomous [[Penetration Testing]].
 >
 > **[2:31](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/new-evolving-threats-powered-by-llms?u=76281980&t=151)** Penetration testing is a common practice for assessing the security of a company's IT infra.
 >
@@ -1070,14 +1057,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), next (4), [[Cybersecurity]] (3), data (3), [[Security]] (3)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Phishing]] (2), [[Penetration Testing]] (2)
 > **Env Vars:** lmm (3), llm (1)
 > **Definitions:** is called (1), is a  (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Advanced attacks by hackers using LLMs
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/advanced-attacks-by-hackers-using-llms?u=76281980)
+#### [Advanced attacks by hackers using LLMs](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/advanced-attacks-by-hackers-using-llms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1095,7 +1081,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/advanced-attacks-by-hackers-using-llms?u=76281980&t=26)** Large language bottles are now being used to enhance botnets by enabling them to operate more intelligently and autonomously.
 >
-> **[0:33](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/advanced-attacks-by-hackers-using-llms?u=76281980&t=33)** These botnets can leverage LLMS to dynamically generate and adapt their attack strategies, making them more resilient against traditional cybersecurity defenses.
+> **[0:33](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/advanced-attacks-by-hackers-using-llms?u=76281980&t=33)** These botnets can leverage LLMS to dynamically generate and adapt their attack strategies, making them more resilient against traditional [[Cybersecurity]] defenses.
 >
 > **[0:42](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/advanced-attacks-by-hackers-using-llms?u=76281980&t=42)** For example, LLMS can be used to analyze network traffic in real time and adjust the behavior of bots to avoid detection.
 >
@@ -1105,11 +1091,11 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/advanced-attacks-by-hackers-using-llms?u=76281980&t=64)** Distributed denial of service attacks, as you might know, traditionally involve overwhelming a target system, network, or service with a massive flood of traffic from multiple sources, often through a network of compromised devices known as a botnet.
 >
-> **[1:17](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/advanced-attacks-by-hackers-using-llms?u=76281980&t=77)** With the advent of large language models, these attacks have evolved to become more sophisticated, adaptive, and harder to defend against.
+> **[1:17](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/advanced-attacks-by-hackers-using-llms?u=76281980&t=77)** With the advent of [[Large Language Models (LLM)|large language models]], these attacks have evolved to become more sophisticated, adaptive, and harder to defend against.
 >
 > **[1:24](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/advanced-attacks-by-hackers-using-llms?u=76281980&t=84)** LLMS can be used to identify the most critical services or infrastructure competence within a target's network, and focus the DDoS attack on these points.
 >
-> **[1:32](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/advanced-attacks-by-hackers-using-llms?u=76281980&t=92)** By selectively overwhelming key resources such as authentication servers, APIs, or databases, the botnet can cause maximum disruption with minimal traffic, making that act more efficient and harder to mitigate.
+> **[1:32](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/advanced-attacks-by-hackers-using-llms?u=76281980&t=92)** By selectively overwhelming key resources such as authentication servers, APIs, or [[Databases]], the botnet can cause maximum disruption with minimal traffic, making that act more efficient and harder to mitigate.
 >
 > **[1:44](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/advanced-attacks-by-hackers-using-llms?u=76281980&t=104)** Intelligent Data Poisoning Attacks.
 >
@@ -1139,7 +1125,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (3), data (3), next (2), llm (2), [[Cybersecurity]] (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Databases]] (2), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** llms (8), llm (2), lims (1)
 > **Cross-References:** previous video (1), in the last (1), next video (1), in the next (1)
 > **Definitions:** is a  (1), known as (1)
@@ -1147,8 +1133,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### How cybersecurity professionals use LLMs for good
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/how-cybersecurity-professionals-use-llms-for-good?u=76281980)
+#### [How cybersecurity professionals use LLMs for good](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/how-cybersecurity-professionals-use-llms-for-good?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1164,21 +1149,21 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/how-cybersecurity-professionals-use-llms-for-good?u=76281980&t=25)** Once trained, these models can detect anomalies that may indicate malicious activity, such as unusual spikes in traffic, unexpected data flows, or deviations from typical user behavior.
 >
-> **[0:36](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/how-cybersecurity-professionals-use-llms-for-good?u=76281980&t=36)** Natural language processing for log analysis.
+> **[0:36](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/how-cybersecurity-professionals-use-llms-for-good?u=76281980&t=36)** [[Natural Language Processing (NLP)|Natural language processing]] for log analysis.
 >
 > **[0:39](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/how-cybersecurity-professionals-use-llms-for-good?u=76281980&t=39)** Security logs and alerts often contain large amounts of unstructured text data.
 >
-> **[0:44](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/how-cybersecurity-professionals-use-llms-for-good?u=76281980&t=44)** LLMs excel at natural language processing, making them ideal for parsing and analyzing these logs.
+> **[0:44](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/how-cybersecurity-professionals-use-llms-for-good?u=76281980&t=44)** LLMs [[Microsoft Excel|excel]] at natural language processing, making them ideal for parsing and analyzing these logs.
 >
 > **[0:50](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/how-cybersecurity-professionals-use-llms-for-good?u=76281980&t=50)** They can identify key phrases, correlations, and contextual clues that suggest security incidents.
 >
-> **[0:57](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/how-cybersecurity-professionals-use-llms-for-good?u=76281980&t=57)** Automated incident response and playbook generation.
+> **[0:57](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/how-cybersecurity-professionals-use-llms-for-good?u=76281980&t=57)** Automated [[Incident Response]] and playbook generation.
 >
 > **[1:01](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/how-cybersecurity-professionals-use-llms-for-good?u=76281980&t=61)** LLMs can assist in automating the response to security incidents by generating and executing response playbooks.
 >
 > **[1:07](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/how-cybersecurity-professionals-use-llms-for-good?u=76281980&t=67)** These models can recommend or even autonomously implement mitigation steps based on the nature of the detected threat.
 >
-> **[1:14](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/how-cybersecurity-professionals-use-llms-for-good?u=76281980&t=74)** Predictive analytics and forecasting.
+> **[1:14](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/how-cybersecurity-professionals-use-llms-for-good?u=76281980&t=74)** [[Predictive Analytics]] and [[Forecasting]].
 >
 > **[1:16](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/how-cybersecurity-professionals-use-llms-for-good?u=76281980&t=76)** By analyzing historical network data and correlating it with external threat intelligence, LLMs can predict potential future attacks or security incidents.
 >
@@ -1186,7 +1171,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/how-cybersecurity-professionals-use-llms-for-good?u=76281980&t=91)** Realtime intrusion response.
 >
-> **[1:33](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/how-cybersecurity-professionals-use-llms-for-good?u=76281980&t=93)** LLMs can be used to automate the decision-making process during a security incident.
+> **[1:33](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/how-cybersecurity-professionals-use-llms-for-good?u=76281980&t=93)** LLMs can be used to automate the [[Decision-Making]] process during a security incident.
 >
 > **[1:38](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/how-cybersecurity-professionals-use-llms-for-good?u=76281980&t=98)** When a threat is detected, the LLM can assess the situation, consider the potential impact, and recommend or even execute mitigation steps, such as isolating affected environments, blocking malicious IP addresses, or deploying patches.
 >
@@ -1196,14 +1181,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), data (5), traffic (2), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Microsoft Excel|Excel]] (1), [[Incident Response]] (1), [[Predictive Analytics]] (1), [[Forecasting]] (1)
 > **Analogies:** such as (3)
 > **Env Vars:** llm (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Synthetic data generation: Introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/synthetic-data-generation-introduction?u=76281980)
+#### [Synthetic data generation: Introduction](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/synthetic-data-generation-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1215,7 +1199,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/synthetic-data-generation-introduction?u=76281980&t=23)** The reason for this is that even though LLMs that we use are pre-trained on massive data sets, they usually are trained on generic information, and hence don't do well in narrow tasks.
 >
-> **[0:32](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/synthetic-data-generation-introduction?u=76281980&t=32)** Fine tuning an LLM on specific data ensures that the LLM becomes great at processing that particular information way better, and thereby leading to higher accuracy.
+> **[0:32](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/synthetic-data-generation-introduction?u=76281980&t=32)** [[Fine Tuning]] an LLM on specific data ensures that the LLM becomes great at processing that particular information way better, and thereby leading to higher accuracy.
 >
 > **[0:43](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/synthetic-data-generation-introduction?u=76281980&t=43)** The problem is that in specialized instances, it's difficult to find high quality or large enough data sets that would provide a reasonable amount of data for us to fine tune our LLM.
 >
@@ -1231,7 +1215,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/synthetic-data-generation-introduction?u=76281980&t=80)** LLMs can generate realistic text data, including articles, conversations, or social media posts based on specific prompts or themes.
 >
-> **[1:28](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/synthetic-data-generation-introduction?u=76281980&t=88)** This is useful for training natural language processing models, testing chat bots, or creating content for various applications.
+> **[1:28](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/synthetic-data-generation-introduction?u=76281980&t=88)** This is useful for training [[Natural Language Processing (NLP)|natural language processing]] models, testing chat bots, or creating content for various applications.
 >
 > **[1:35](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/synthetic-data-generation-introduction?u=76281980&t=95)** Data augmentation.
 >
@@ -1249,14 +1233,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), llm (5), next (4), generic (1), [[Fine Tuning]] (1)
+> **Frameworks & Libraries:** [[Fine Tuning]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Env Vars:** llm (5)
 > **Cross-References:** in the next (4)
 > **CLI Commands:** find (2), make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Synthetic data generation: Code example
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/synthetic-data-generation-code-example?u=76281980)
+#### [Synthetic data generation: Code example](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/synthetic-data-generation-code-example?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1268,7 +1251,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/synthetic-data-generation-code-example?u=76281980&t=14)** What I've realized from personal experience is that Anthropic's models are really good at synthetic data generation, and this is why I've chosen Anthropic.
 >
-> **[0:21](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/synthetic-data-generation-code-example?u=76281980&t=21)** We have all of our code for this example in a Google Colab notebook, and this is what we will be going through now.
+> **[0:21](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/synthetic-data-generation-code-example?u=76281980&t=21)** We have all of our code for this example in a [[Google]] Colab notebook, and this is what we will be going through now.
 >
 > **[0:28](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/synthetic-data-generation-code-example?u=76281980&t=28)** The reason I prefer Google Colab for these types of projects is because I can keep the output in the notebook for you.
 >
@@ -1294,7 +1277,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/synthetic-data-generation-code-example?u=76281980&t=105)** Finally, we have our User_Prompt, which is going to tell the LM exactly what to do.
 >
-> **[1:51](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/synthetic-data-generation-code-example?u=76281980&t=111)** So, we want it to generate 10 diverse examples of technical support interactions.
+> **[1:51](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/synthetic-data-generation-code-example?u=76281980&t=111)** So, we want it to generate 10 diverse examples of [[Technical Support]] interactions.
 >
 > **[1:57](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/synthetic-data-generation-code-example?u=76281980&t=117)** So, we have all the things we need to call our LM now.
 >
@@ -1326,7 +1309,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), next (6), api (5), [[Google]] (3), prompt (2)
+> **Frameworks & Libraries:** [[Google]] (3), [[Technical Support]] (1)
 > **Env Vars:** api (5)
 > **Cross-References:** in the next (4), previous video (1)
 > **Tools:** colab (3)
@@ -1334,8 +1317,7 @@ created: 2026-05-02
 > **Versions:** 0.9 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Identify phishing emails using LLMs
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/challenge-identify-phishing-emails-using-llms?u=76281980)
+#### [Challenge: Identify phishing emails using LLMs](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/challenge-identify-phishing-emails-using-llms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1351,7 +1333,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/challenge-identify-phishing-emails-using-llms?u=76281980&t=23)** So here's the challenge.
 >
-> **[0:24](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/challenge-identify-phishing-emails-using-llms?u=76281980&t=24)** You have to use an LLM and fine-tune it to be able to detect phishing emails.
+> **[0:24](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/challenge-identify-phishing-emails-using-llms?u=76281980&t=24)** You have to use an LLM and fine-tune it to be able to detect [[Phishing]] emails.
 >
 > **[0:28](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/challenge-identify-phishing-emails-using-llms?u=76281980&t=28)** Sounds interesting, right?
 >
@@ -1359,7 +1341,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/challenge-identify-phishing-emails-using-llms?u=76281980&t=32)** And as you're already aware, phishing emails are one of the biggest reasons for the most gruesome hacks.
 >
-> **[0:37](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/challenge-identify-phishing-emails-using-llms?u=76281980&t=37)** A lot of companies have products that help identify phishing emails, and most of these companies are currently updating the tech stacks by using LLMs.
+> **[0:37](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/challenge-identify-phishing-emails-using-llms?u=76281980&t=37)** A lot of companies have [[Microsoft Products|products]] that help identify phishing emails, and most of these companies are currently updating the tech stacks by using LLMs.
 >
 > **[0:45](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/challenge-identify-phishing-emails-using-llms?u=76281980&t=45)** And there's a reason for that.
 >
@@ -1405,7 +1387,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (4), [[Phishing]] (4), next (3), [[Microsoft Products|Products]] (1), data (1)
+> **Frameworks & Libraries:** [[Phishing]] (4), [[Microsoft Products|Products]] (1)
 > **Env Vars:** llm (4)
 > **Cross-References:** in the next (3)
 > **Definitions:** is a  (3)
@@ -1414,20 +1396,19 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Fine-tune LLMs with email phishing datasets in Colab
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-finetune-llms-with-email-phishing-datasets-in-colab?u=76281980)
+#### [Solution: Fine-tune LLMs with email phishing datasets in Colab](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-finetune-llms-with-email-phishing-datasets-in-colab?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-finetune-llms-with-email-phishing-datasets-in-colab?u=76281980&t=0)** - [Instructor] Welcome back.
 >
-> **[0:06](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-finetune-llms-with-email-phishing-datasets-in-colab?u=76281980&t=6)** In this video, we are going to go through the solution of our challenge, which is fine tuning an LM to detect phishing emails.
+> **[0:06](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-finetune-llms-with-email-phishing-datasets-in-colab?u=76281980&t=6)** In this video, we are going to go through the solution of our challenge, which is [[Fine Tuning]] an LM to detect [[Phishing]] emails.
 >
 > **[0:13](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-finetune-llms-with-email-phishing-datasets-in-colab?u=76281980&t=13)** For better understanding, I have a colab file with the output ready for you.
 >
 > **[0:18](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-finetune-llms-with-email-phishing-datasets-in-colab?u=76281980&t=18)** So let's get started.
 >
-> **[0:21](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-finetune-llms-with-email-phishing-datasets-in-colab?u=76281980&t=21)** We start by importing torch, which is a popular deep learning framework.
+> **[0:21](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-finetune-llms-with-email-phishing-datasets-in-colab?u=76281980&t=21)** We start by importing torch, which is a popular [[Deep Learning]] framework.
 >
 > **[0:26](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-finetune-llms-with-email-phishing-datasets-in-colab?u=76281980&t=26)** The major version and minor version retrieves the QA capability of the GPU.
 >
@@ -1435,7 +1416,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-finetune-llms-with-email-phishing-datasets-in-colab?u=76281980&t=33)** That'll help us fine tune our model.
 >
-> **[0:36](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-finetune-llms-with-email-phishing-datasets-in-colab?u=76281980&t=36)** Then in addition to that, we install a few more dependencies that help us to work more efficiently with transformer models, especially with older GPUs.
+> **[0:36](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-finetune-llms-with-email-phishing-datasets-in-colab?u=76281980&t=36)** Then in addition to that, we install a few more dependencies that help us to work more efficiently with [[Transformer Models]], especially with older GPUs.
 >
 > **[0:49](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-finetune-llms-with-email-phishing-datasets-in-colab?u=76281980&t=49)** Then we are setting a few variables to load our model.
 >
@@ -1449,11 +1430,11 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-finetune-llms-with-email-phishing-datasets-in-colab?u=76281980&t=81)** You can dig deeper into them using the unslotted documentation.
 >
-> **[1:25](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-finetune-llms-with-email-phishing-datasets-in-colab?u=76281980&t=85)** We then load our dataset from huggingface, and this dataset is meant for email phishing.
+> **[1:25](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-finetune-llms-with-email-phishing-datasets-in-colab?u=76281980&t=85)** We then load our dataset from [[Hugging Face|huggingface]], and this dataset is meant for email phishing.
 >
 > **[1:32](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-finetune-llms-with-email-phishing-datasets-in-colab?u=76281980&t=92)** When we print the dataset, we see the number of rows is 18650, which is a good size of data for fine tuning.
 >
-> **[1:39](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-finetune-llms-with-email-phishing-datasets-in-colab?u=76281980&t=99)** We then print the dataset using pandas data frames and see the format of the data.
+> **[1:39](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-finetune-llms-with-email-phishing-datasets-in-colab?u=76281980&t=99)** We then print the dataset using [[Pandas (Software)|pandas]] data frames and see the format of the data.
 >
 > **[1:46](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-finetune-llms-with-email-phishing-datasets-in-colab?u=76281980&t=106)** It has email text with email type such as safe email or phishing email.
 >
@@ -1517,7 +1498,7 @@ created: 2026-05-02
 >
 > **[5:38](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-finetune-llms-with-email-phishing-datasets-in-colab?u=76281980&t=338)** How much regular expressions you would have to code in to match restricted words?
 >
-> **[5:42](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-finetune-llms-with-email-phishing-datasets-in-colab?u=76281980&t=342)** And even then, you would have only been able to build a hard word system and not an intelligent adaptive one.
+> **[5:42](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-finetune-llms-with-email-phishing-datasets-in-colab?u=76281980&t=342)** And even then, you would have only been able to build a hard [[Microsoft Word|word]] system and not an intelligent adaptive one.
 >
 > **[5:49](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/solution-finetune-llms-with-email-phishing-datasets-in-colab?u=76281980&t=349)** Hope you enjoyed this challenge and solving it has ensured that we have been able to reinforce all that we have learned until now.
 >
@@ -1529,7 +1510,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (14), next (9), llm (6), [[Fine Tuning]] (5), data (4)
+> **Frameworks & Libraries:** [[Phishing]] (14), [[Fine Tuning]] (5), [[Hugging Face|Huggingface]] (2), [[Deep Learning]] (1), [[Transformer Models]] (1)
 > **Env Vars:** llm (6), gpu (1), sft (1), mrl (1)
 > **Cross-References:** in the next (4), next chapter (1)
 > **Versions:** 119.43 (1), 4.637 (1), 16.97 (1), 2.336 (1)
@@ -1543,14 +1524,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to code vulnerability scanning
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-code-vulnerability-scanning?u=76281980)
+#### [Introduction to code vulnerability scanning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-code-vulnerability-scanning?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-code-vulnerability-scanning?u=76281980&t=0)** - [Instructor] Welcome to the third chapter of this course, and this chapter is called Code Vulnerability Scanning with LLMs.
 >
-> **[0:07](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-code-vulnerability-scanning?u=76281980&t=7)** Because in this chapter we will be learning about code vulnerabilities and how one can leverage open-source large language models to detect and prevent exploitable vulnerabilities in specific code.
+> **[0:07](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-code-vulnerability-scanning?u=76281980&t=7)** Because in this chapter we will be learning about code vulnerabilities and how one can leverage open-source [[Large Language Models (LLM)|large language models]] to detect and prevent exploitable vulnerabilities in specific code.
 >
 > **[0:17](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-code-vulnerability-scanning?u=76281980&t=17)** Not only that, we'll actually build a project that detects vulnerabilities in code using LLMs, and we'll use all the things that we've learned up until now, like loading a model, synthetic data generation, and using the data to fine-tune the model.
 >
@@ -1558,7 +1538,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-code-vulnerability-scanning?u=76281980&t=38)** So, code vulnerabilities are weaknesses or flaws in a software program that can be exploited by attackers to gain unauthorized access, cause damage, or steal sensitive information.
 >
-> **[0:48](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-code-vulnerability-scanning?u=76281980&t=48)** These vulnerabilities can arise from various issues, such as programming errors, design flaws, or insecure coding practices, and these vulnerabilities can prove to be dangerous, especially when there's huge amounts of capital involved.
+> **[0:48](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-code-vulnerability-scanning?u=76281980&t=48)** These vulnerabilities can arise from various issues, such as programming errors, design flaws, or insecure [[Coding Practices]], and these vulnerabilities can prove to be dangerous, especially when there's huge amounts of capital involved.
 >
 > **[1:00](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-code-vulnerability-scanning?u=76281980&t=60)** Usually, code vulnerabilities are detected using static code scanners that are hard-coded and are essentially rule engines with built-in detectors.
 >
@@ -1578,33 +1558,32 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-code-vulnerability-scanning?u=76281980&t=118)** So, we have something quite challenging but also interesting on our hands.
 >
-> **[2:02](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-code-vulnerability-scanning?u=76281980&t=122)** In this chapter, we will not just scan any code for vulnerabilities, but we will scan Solana smart contracts for vulnerabilities.
+> **[2:02](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-code-vulnerability-scanning?u=76281980&t=122)** In this chapter, we will not just scan any code for vulnerabilities, but we will scan Solana [[Smart Contracts]] for vulnerabilities.
 >
 > **[2:09](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-code-vulnerability-scanning?u=76281980&t=129)** Now, it's quite possible that you don't know what smart contracts are or what Solana is and why we're choosing this particular type of code to detect vulnerabilities in, and this is why in the next video, we will understand what all this really means, so see you in the next one.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), llm (2), [[Smart Contracts]] (2), next (2), open-source (1)
+> **Frameworks & Libraries:** [[Smart Contracts]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Coding Practices]] (1)
 > **Env Vars:** llm (2)
 > **Cross-References:** in the next (2)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Blockchains and smart contract auditing
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/blockchains-and-smart-contract-auditing?u=76281980)
+#### [Blockchains and smart contract auditing](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/blockchains-and-smart-contract-auditing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/blockchains-and-smart-contract-auditing?u=76281980&t=0)** - [Instructor] Welcome back, in the previous video, we learned about code vulnerability detection, and at the end of the video, I mentioned about blockchains and auditing smart contracts, which is the project we will be building in this chapter.
+> **[0:00](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/blockchains-and-smart-contract-auditing?u=76281980&t=0)** - [Instructor] Welcome back, in the previous video, we learned about code vulnerability detection, and at the end of the video, I mentioned about blockchains and auditing [[Smart Contracts]], which is the project we will be building in this chapter.
 >
-> **[0:12](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/blockchains-and-smart-contract-auditing?u=76281980&t=12)** So basically, in this video we'll explore why audits are crucial in the blockchain ecosystem.
+> **[0:12](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/blockchains-and-smart-contract-auditing?u=76281980&t=12)** So basically, in this video we'll explore why audits are crucial in the [[Blockchain]] ecosystem.
 >
 > **[0:18](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/blockchains-and-smart-contract-auditing?u=76281980&t=18)** Blockchains help us store immutable transactions.
 >
-> **[0:21](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/blockchains-and-smart-contract-auditing?u=76281980&t=21)** Let's say you want to transfer online assets to your friend, and these online assets could be cryptocurrency, which is a modern independent digital currency, or NFTs, which are digital art pieces.
+> **[0:21](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/blockchains-and-smart-contract-auditing?u=76281980&t=21)** Let's say you want to transfer online assets to your friend, and these online assets could be [[Cryptocurrency]], which is a modern independent digital currency, or NFTs, which are digital art pieces.
 >
-> **[0:31](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/blockchains-and-smart-contract-auditing?u=76281980&t=31)** and once these assets are transferred, a permanent and immutable record is created on the blockchain, and this makes blockchains much safer than traditional databases.
+> **[0:31](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/blockchains-and-smart-contract-auditing?u=76281980&t=31)** and once these assets are transferred, a permanent and immutable record is created on the blockchain, and this makes blockchains much safer than traditional [[Databases]].
 >
 > **[0:40](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/blockchains-and-smart-contract-auditing?u=76281980&t=40)** Now the immutable nature of blockchain technology means that once a transaction is recorded, it cannot be altered or deleted.
 >
@@ -1618,9 +1597,9 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/blockchains-and-smart-contract-auditing?u=76281980&t=94)** Now there's not just one blockchain but many blockchains in the world, and the blockchain that we have selected is the Solana blockchain because it's doing really well currently in terms of the projects being deployed to the chain and also in popularity.
 >
-> **[1:47](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/blockchains-and-smart-contract-auditing?u=76281980&t=107)** This is in fact one of the top four blockchains in terms of popularity, along with Bitcoin, Ethereum, and Polygon.
+> **[1:47](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/blockchains-and-smart-contract-auditing?u=76281980&t=107)** This is in fact one of the top four blockchains in terms of popularity, along with Bitcoin, [[Ethereum]], and Polygon.
 >
-> **[1:55](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/blockchains-and-smart-contract-auditing?u=76281980&t=115)** The smart contracts on the Solana blockchain are written in Rust, which is a popular programming language, and this means our LLM needs to be great at analyzing Rust.
+> **[1:55](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/blockchains-and-smart-contract-auditing?u=76281980&t=115)** The smart contracts on the Solana blockchain are written in [[Rust (Programming Language)|Rust]], which is a popular programming language, and this means our LLM needs to be great at analyzing Rust.
 >
 > **[2:04](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/blockchains-and-smart-contract-auditing?u=76281980&t=124)** and in addition to this, there are some special functions that Solana uses, so our LLM needs to be great at understanding those functions as well.
 >
@@ -1650,20 +1629,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Smart Contracts]] (8), [[Blockchain]] (8), llm (5), data (5), [[Rust (Programming Language)|Rust]] (2)
+> **Frameworks & Libraries:** [[Smart Contracts]] (8), [[Blockchain]] (8), [[Rust (Programming Language)|Rust]] (2), [[Cryptocurrency]] (1), [[Databases]] (1)
 > **Env Vars:** llm (5)
 > **Cross-References:** previous video (2), we discussed (1), previous chapter (1), in the next (1)
 > **Definitions:** is a  (2), means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Out-of-the-box output (vulnerability scanning) from an LLM
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/out-of-the-box-output-vulnerability-scanning-from-an-llm?u=76281980)
+#### [Out-of-the-box output (vulnerability scanning) from an LLM](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/out-of-the-box-output-vulnerability-scanning-from-an-llm?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/out-of-the-box-output-vulnerability-scanning-from-an-llm?u=76281980&t=0)** - [Instructor] Welcome back.
 >
-> **[0:02](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/out-of-the-box-output-vulnerability-scanning-from-an-llm?u=76281980&t=2)** We now know about blockchains, smart contracts, and smart contract auditing.
+> **[0:02](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/out-of-the-box-output-vulnerability-scanning-from-an-llm?u=76281980&t=2)** We now know about blockchains, [[Smart Contracts]], and smart contract auditing.
 >
 > **[0:07](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/out-of-the-box-output-vulnerability-scanning-from-an-llm?u=76281980&t=7)** It is now time to start building our project, and we're essentially building a smart contract auditing tool that uses a fine-tuned LLM.
 >
@@ -1673,7 +1651,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/out-of-the-box-output-vulnerability-scanning-from-an-llm?u=76281980&t=30)** And that's exactly what this video is all about.
 >
-> **[0:32](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/out-of-the-box-output-vulnerability-scanning-from-an-llm?u=76281980&t=32)** I have a Google Colab file ready for you with the output, so let's go through it together.
+> **[0:32](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/out-of-the-box-output-vulnerability-scanning-from-an-llm?u=76281980&t=32)** I have a [[Google]] Colab file ready for you with the output, so let's go through it together.
 >
 > **[0:38](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/out-of-the-box-output-vulnerability-scanning-from-an-llm?u=76281980&t=38)** In the first cell, we're importing unsloth, which we'll be using later for fine-tuning, and we are also installing some other dependencies that we've already seen before, which will help us work with the T4 GPU more efficiently.
 >
@@ -1681,11 +1659,11 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/out-of-the-box-output-vulnerability-scanning-from-an-llm?u=76281980&t=62)** In the next cell, we set our max sequence length that will set our token limit.
 >
-> **[1:07](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/out-of-the-box-output-vulnerability-scanning-from-an-llm?u=76281980&t=67)** We're keeping it as 2048, because we don't want to end up generating too many tokens, as that will considerably slow down our project.
+> **[1:07](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/out-of-the-box-output-vulnerability-scanning-from-an-llm?u=76281980&t=67)** We're keeping it as 2048, because we don't want to end up generating too many [[Tokens]], as that will considerably slow down our project.
 >
 > **[1:15](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/out-of-the-box-output-vulnerability-scanning-from-an-llm?u=76281980&t=75)** And we also want to load our model in 4bit, so we make that parameter as True.
 >
-> **[1:22](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/out-of-the-box-output-vulnerability-scanning-from-an-llm?u=76281980&t=82)** In the next line, I select my model, which is a llama-3-8-billion parameter model, load it in the 4bit version, and I pass in all the variables that I've defined above.
+> **[1:22](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/out-of-the-box-output-vulnerability-scanning-from-an-llm?u=76281980&t=82)** In the next line, I select my model, which is a [[LLaMA]]-3-8-billion parameter model, load it in the 4bit version, and I pass in all the variables that I've defined above.
 >
 > **[1:35](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/out-of-the-box-output-vulnerability-scanning-from-an-llm?u=76281980&t=95)** Now here, if I show you the hidden code, it basically has my entire smart contract that I want the LLM to scan for vulnerabilities.
 >
@@ -1709,7 +1687,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (6), next (4), [[Smart Contracts]] (1), data (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Smart Contracts]] (1), [[Google]] (1), [[Tokens]] (1), [[LLaMA]] (1)
 > **Env Vars:** llm (6), gpu (1)
 > **Cross-References:** in the next (4)
 > **CLI Commands:** make (2), find (1)
@@ -1718,18 +1696,17 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Fine-tuning and mapping a dataset
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/finetuning-and-mapping-dataset?u=76281980)
+#### [Fine-tuning and mapping a dataset](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/finetuning-and-mapping-dataset?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/finetuning-and-mapping-dataset?u=76281980&t=0)** - [Instructor] Welcome back.
 >
-> **[0:01](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/finetuning-and-mapping-dataset?u=76281980&t=1)** In this video, let's make all the preparations required for fine tuning our model.
+> **[0:01](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/finetuning-and-mapping-dataset?u=76281980&t=1)** In this video, let's make all the preparations required for [[Fine Tuning]] our model.
 >
 > **[0:06](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/finetuning-and-mapping-dataset?u=76281980&t=6)** Now, I have already generated my dataset synthetically using the exact same methodology that I've shown you before.
 >
-> **[0:12](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/finetuning-and-mapping-dataset?u=76281980&t=12)** I have saved that dataset on Hugging Face, and I'll be directly referring to it while fine tuning the model.
+> **[0:12](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/finetuning-and-mapping-dataset?u=76281980&t=12)** I have saved that dataset on [[Hugging Face]], and I'll be directly referring to it while fine tuning the model.
 >
 > **[0:17](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/finetuning-and-mapping-dataset?u=76281980&t=17)** Let me take you through the code on how this will work.
 >
@@ -1761,7 +1738,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/finetuning-and-mapping-dataset?u=76281980&t=93)** This is a link to where the dataset is stored.
 >
-> **[1:36](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/finetuning-and-mapping-dataset?u=76281980&t=96)** In this case, it points to ArmurAI/SolanaSC, which is stored under my organization on Hugging Face, and anyone can use it for Solana smart contracts and associated vulnerabilities.
+> **[1:36](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/finetuning-and-mapping-dataset?u=76281980&t=96)** In this case, it points to ArmurAI/SolanaSC, which is stored under my organization on Hugging Face, and anyone can use it for Solana [[Smart Contracts]] and associated vulnerabilities.
 >
 > **[1:48](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/finetuning-and-mapping-dataset?u=76281980&t=108)** This is an end of sequence token used to signal the end of a text sequence.
 >
@@ -1779,7 +1756,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fine Tuning]] (2), [[Hugging Face]] (2), data (2), prompt (2), [[Smart Contracts]] (2)
+> **Frameworks & Libraries:** [[Fine Tuning]] (2), [[Hugging Face]] (2), [[Smart Contracts]] (2)
 > **Definitions:** is a  (6), is an  (2)
 > **Exercise Files:** template (3)
 > **Cross-References:** in the next (2)
@@ -1788,8 +1765,7 @@ created: 2026-05-02
 > **Analogies:** think of it as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Training the model
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/training-the-model?u=76281980)
+#### [Training the model](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/training-the-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1825,7 +1801,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/training-the-model?u=76281980&t=76)** This controls how fast the model learns.
 >
-> **[1:20](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/training-the-model?u=76281980&t=80)** These handle precision settings, making training faster and more memory efficient if supported by the hardware.
+> **[1:20](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/training-the-model?u=76281980&t=80)** These handle precision settings, making training faster and more memory efficient if supported by the [[Hardware]].
 >
 > **[1:27](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/training-the-model?u=76281980&t=87)** This logs the training progress after each step.
 >
@@ -1867,14 +1843,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (2), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (1)
 > **Cross-References:** in the next (2)
 > **Code Identifiers:** train_dataset (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Inference and benchmarking
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/inference-and-benchmarking?u=76281980)
+#### [Inference and benchmarking](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/inference-and-benchmarking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1912,9 +1887,9 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/inference-and-benchmarking?u=76281980&t=77)** Now, let's take a look at the output.
 >
-> **[1:19](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/inference-and-benchmarking?u=76281980&t=79)** We can see three different vulnerabilities detected, unrestricted creation of NFTs, lack of NFT ownership verification, and missing NFT metadata verification, and these were actual vulnerabilities in our data set that our model has learned from.
+> **[1:19](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/inference-and-benchmarking?u=76281980&t=79)** We can see three different vulnerabilities detected, unrestricted creation of NFTs, lack of NFT ownership verification, and missing NFT [[Metadata]] verification, and these were actual vulnerabilities in our data set that our model has learned from.
 >
-> **[1:35](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/inference-and-benchmarking?u=76281980&t=95)** Now, if you compare this output with the output from the non-fine-tuned LLM, you can see a stark difference.
+> **[1:35](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/inference-and-benchmarking?u=76281980&t=95)** Now, if you compare this output with the output from the non-fine-tuned LLM, you can see a [[Stark (Accessibility Software)|stark]] difference.
 >
 > **[1:42](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/inference-and-benchmarking?u=76281980&t=102)** The previous output was complete gibberish, and this output has clear vulnerabilities.
 >
@@ -1922,7 +1897,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/inference-and-benchmarking?u=76281980&t=119)** Now, if we had more resources like time, bigger GPUs, and even larger LLMs with better human-sourced data sets that were checked by security professionals, just imagine what we could have built.
 >
-> **[2:09](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/inference-and-benchmarking?u=76281980&t=129)** All right, so in this chapter, we fine-tuned an LLM to be able to detect smart contract vulnerabilities in Solana Smart Contracts.
+> **[2:09](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/inference-and-benchmarking?u=76281980&t=129)** All right, so in this chapter, we fine-tuned an LLM to be able to detect smart contract vulnerabilities in Solana [[Smart Contracts]].
 >
 > **[2:16](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/inference-and-benchmarking?u=76281980&t=136)** How cool is that?
 >
@@ -1936,7 +1911,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[Security]] (3), next (3), llm (3), data (2)
+> **Frameworks & Libraries:** [[Metadata]] (1), [[Stark (Accessibility Software)|Stark]] (1), [[Smart Contracts]] (1)
 > **Env Vars:** llm (3), nft (2)
 > **CLI Commands:** find (1), make (1)
 > **Code Identifiers:** alpaca_prompt (1), max_new_tokens (1)
@@ -1949,8 +1924,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to OSINT and how LLMs can help
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-osint-and-how-llms-can-help?u=76281980)
+#### [Introduction to OSINT and how LLMs can help](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-osint-and-how-llms-can-help?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1966,13 +1940,13 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-osint-and-how-llms-can-help?u=76281980&t=24)** This information is sourced from a wide range of publicly accessible channels, such as websites, social media, news articles, public records, forums, and more.
 >
-> **[0:35](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-osint-and-how-llms-can-help?u=76281980&t=35)** OSINT is widely used in fields like cybersecurity, law enforcement, business intelligence, and national security.
+> **[0:35](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-osint-and-how-llms-can-help?u=76281980&t=35)** OSINT is widely used in fields like [[Cybersecurity]], law enforcement, [[Business Intelligence (BI)|business intelligence]], and national security.
 >
 > **[0:41](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-osint-and-how-llms-can-help?u=76281980&t=41)** In our project, we want to build a system that can find a great deal of information about a company from public sources, and this information can be used either for research or can be used against the company.
 >
 > **[0:53](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-osint-and-how-llms-can-help?u=76281980&t=53)** The information will contain company information, regulatory and legal information, business information, search and intelligence, social media, and contact information, domain, network, and website information.
 >
-> **[1:04](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-osint-and-how-llms-can-help?u=76281980&t=64)** The reason we are using LLM and LLM agents for our project is because LLMs are a great fit for OSINT, since they excel at data extraction; LLMs can process vast amounts of unstructured data from the internet, extracting relevant information such as names, locations, dates, and events from text.
+> **[1:04](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-osint-and-how-llms-can-help?u=76281980&t=64)** The reason we are using LLM and LLM agents for our project is because LLMs are a great fit for OSINT, since they [[Microsoft Excel|excel]] at data extraction; LLMs can process vast amounts of [[Unstructured Data]] from the internet, extracting relevant information such as names, locations, dates, and events from text.
 >
 > **[1:22](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-osint-and-how-llms-can-help?u=76281980&t=82)** This helps in identifying key details from large data sets quickly.
 >
@@ -2012,7 +1986,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (6), data (5), [[Cybersecurity]] (2), [[Security]] (2), next (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Business Intelligence (BI)|Business intelligence]] (1), [[Microsoft Excel|Excel]] (1), [[Unstructured Data]] (1)
 > **Env Vars:** osint (7), llm (6)
 > **Analogies:** such as (3)
 > **Cross-References:** in the next (2)
@@ -2021,8 +1995,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to agents and agent workflows
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-agents-and-agent-workflows?u=76281980)
+#### [Introduction to agents and agent workflows](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-agents-and-agent-workflows?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2032,7 +2005,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-agents-and-agent-workflows?u=76281980&t=6)** What I'm going to try to do is explain this in the simplest manner possible with as little jargon as possible.
 >
-> **[0:12](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-agents-and-agent-workflows?u=76281980&t=12)** Because of the concept of agents is not clear, the rest of the chapter will not make much sense to you.
+> **[0:12](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-agents-and-agent-workflows?u=76281980&t=12)** Because of the concept of agents is not clear, the [[Representational State Transfer (REST)|rest]] of the chapter will not make much sense to you.
 >
 > **[0:17](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-agents-and-agent-workflows?u=76281980&t=17)** By now, you know what LLMs are.
 >
@@ -2076,7 +2049,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-agents-and-agent-workflows?u=76281980&t=107)** There is another special feature of agents that you need to be aware of, and that's the ability to use tools.
 >
-> **[1:52](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-agents-and-agent-workflows?u=76281980&t=112)** Now, agents can be powered by multiple tools, such as Google Search tool, or EXA tool for better search, or network analysis tool, or [booking.com](https://booking.com) tool to book tickets, or an emailing tool to send emails.
+> **[1:52](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-agents-and-agent-workflows?u=76281980&t=112)** Now, agents can be powered by multiple tools, such as [[Google]] Search tool, or EXA tool for better search, or network analysis tool, or [booking.com](https://booking.com) tool to book tickets, or an emailing tool to send emails.
 >
 > **[2:03](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-agents-and-agent-workflows?u=76281980&t=123)** Each tool gives a specific set of powers and abilities to the agent, and the agent is able to perform that particular task.
 >
@@ -2110,7 +2083,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (6), next (3), feature (2), [[Search]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Google]] (1)
 > **Env Vars:** llm (6), exa (1)
 > **CLI Commands:** find (3), make (1)
 > **Analogies:** for example (2), such as (1)
@@ -2119,8 +2092,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Warnings:** be aware (1)
 
-#### Agent frameworks and Crew AI: Tools and tasks
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/agent-frameworks-and-crew-ai-tools-and-tasks?u=76281980)
+#### [Agent frameworks and Crew AI: Tools and tasks](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/agent-frameworks-and-crew-ai-tools-and-tasks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2130,7 +2102,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/agent-frameworks-and-crew-ai-tools-and-tasks?u=76281980&t=5)** And up until now in this chapter, we have talked about OS end and how LLMs are a great fit for this.
 >
-> **[0:10](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/agent-frameworks-and-crew-ai-tools-and-tasks?u=76281980&t=10)** In addition to this, we also learned about AI agents and why they're special.
+> **[0:10](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/agent-frameworks-and-crew-ai-tools-and-tasks?u=76281980&t=10)** In addition to this, we also learned about [[AI Agents]] and why they're special.
 >
 > **[0:15](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/agent-frameworks-and-crew-ai-tools-and-tasks?u=76281980&t=15)** If you remember, towards the end of the video, I mentioned that we will be using CrewAI as our framework to work with agents.
 >
@@ -2164,21 +2136,21 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/agent-frameworks-and-crew-ai-tools-and-tasks?u=76281980&t=99)** These tools enhance the capabilities of the agents, allowing them to interact with the external world, process data, or perform specific functions that are beyond the LLMs native capabilities.
 >
-> **[1:50](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/agent-frameworks-and-crew-ai-tools-and-tasks?u=76281980&t=110)** For example, an agent tasked with analyzing financial data might use a spreadsheet tool to organize and calculate data, while another agent might use a natural language processing API to extract key phrases from text.
+> **[1:50](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/agent-frameworks-and-crew-ai-tools-and-tasks?u=76281980&t=110)** For example, an agent tasked with analyzing [[Financial Data]] might use a spreadsheet tool to organize and calculate data, while another agent might use a [[Natural Language Processing (NLP)|natural language processing]] API to extract key phrases from text.
 >
 > **[2:02](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/agent-frameworks-and-crew-ai-tools-and-tasks?u=76281980&t=122)** Now, there are different types of tools that can be used with LLM agents and I'd like to give you a few examples so that you're able to plan out projects much better in the future.
 >
-> **[2:11](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/agent-frameworks-and-crew-ai-tools-and-tasks?u=76281980&t=131)** Data processing tools, for example, Pandas, which is a [[Python Data Analysis]] library and can be used by an LLM agent to manipulate large data sets, perform statistical analysis, and generate insights.
+> **[2:11](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/agent-frameworks-and-crew-ai-tools-and-tasks?u=76281980&t=131)** [[Data Processing]] tools, for example, [[Pandas (Software)|Pandas]], which is a [[[[Python (Programming Language)|Python]] Data Analysis]] library and can be used by an LLM agent to manipulate large data sets, perform [[Statistical Analysis]], and generate insights.
 >
 > **[2:22](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/agent-frameworks-and-crew-ai-tools-and-tasks?u=76281980&t=142)** And LLM agent might use Pandas to clean and filter data before feeding it into a machine learning model for prediction.
 >
 > **[2:28](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/agent-frameworks-and-crew-ai-tools-and-tasks?u=76281980&t=148)** APIs and external services.
 >
-> **[2:30](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/agent-frameworks-and-crew-ai-tools-and-tasks?u=76281980&t=150)** For example, Google Maps API, which allows an LLM agent to access geographical data.
+> **[2:30](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/agent-frameworks-and-crew-ai-tools-and-tasks?u=76281980&t=150)** For example, [[Google]] Maps API, which allows an LLM agent to access geographical data.
 >
 > **[2:35](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/agent-frameworks-and-crew-ai-tools-and-tasks?u=76281980&t=155)** If an agent's task is to provide travel recommendations, it could use the Google Maps API to calculate distances, identify points of interest, and suggest optimal travel routes.
 >
-> **[2:44](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/agent-frameworks-and-crew-ai-tools-and-tasks?u=76281980&t=164)** Communication tools, for example, the Slack API could be utilized by an LLM agent to send notifications, updates, or summarize to a team in real time.
+> **[2:44](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/agent-frameworks-and-crew-ai-tools-and-tasks?u=76281980&t=164)** Communication tools, for example, the [[Slack]] API could be utilized by an LLM agent to send notifications, updates, or summarize to a team in real time.
 >
 > **[2:53](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/agent-frameworks-and-crew-ai-tools-and-tasks?u=76281980&t=173)** For instance, after completing a task like monitoring social media trends, the agent could automatically send a summary report to a Slack channel.
 >
@@ -2186,11 +2158,11 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/agent-frameworks-and-crew-ai-tools-and-tasks?u=76281980&t=187)** If an agent's task is to gather the latest news articles on a particular topic, it could use these tools to scrape content from news websites and then summarize the findings.
 >
-> **[3:17](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/agent-frameworks-and-crew-ai-tools-and-tasks?u=76281980&t=197)** Cloud services, for example, AWS Lambda, which allows LLM agents to run code in response to events without the need for managing service.
+> **[3:17](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/agent-frameworks-and-crew-ai-tools-and-tasks?u=76281980&t=197)** [[Cloud Services]], for example, AWS Lambda, which allows LLM agents to run code in response to events without the need for managing service.
 >
-> **[3:25](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/agent-frameworks-and-crew-ai-tools-and-tasks?u=76281980&t=205)** An agent might use AWS Lambda to process data as soon as it's uploaded to a cloud storage service, triggering real-time data analysis and reporting.
+> **[3:25](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/agent-frameworks-and-crew-ai-tools-and-tasks?u=76281980&t=205)** An agent might use AWS Lambda to process data as soon as it's uploaded to a [[Cloud Storage]] service, triggering [[Real-Time]] data analysis and reporting.
 >
-> **[3:33](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/agent-frameworks-and-crew-ai-tools-and-tasks?u=76281980&t=213)** Machine learning tools such as TensorFlow or PyTorch could be employed by an LLM agent to build and train machine learning models.
+> **[3:33](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/agent-frameworks-and-crew-ai-tools-and-tasks?u=76281980&t=213)** Machine learning tools such as [[TensorFlow]] or [[PyTorch]] could be employed by an LLM agent to build and train machine learning models.
 >
 > **[3:40](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/agent-frameworks-and-crew-ai-tools-and-tasks?u=76281980&t=220)** For instance, an agent might use TensorFlow to predict stock prices based on historical data, combining the power of LLMs with traditional machine learning techniques.
 >
@@ -2202,7 +2174,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (12), data (12), next (4), api (4), [[Pandas (Software)|Pandas]] (2)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (2), [[Google]] (2), [[Slack]] (2), [[TensorFlow]] (2), [[AI Agents]] (1)
 > **Env Vars:** llm (12), api (4), aws (2)
 > **Analogies:** for example (7), for instance (2), such as (1)
 > **Cross-References:** next video (3), previous video (1), we discussed (1), in the next (1)
@@ -2211,8 +2183,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Warnings:** be aware (1)
 
-#### Planning the agents, their tasks, and their responsibilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/planning-our-agents-their-tasks-and-responsibilities?u=76281980)
+#### [Planning the agents, their tasks, and their responsibilities](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/planning-our-agents-their-tasks-and-responsibilities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2230,13 +2201,13 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/planning-our-agents-their-tasks-and-responsibilities?u=76281980&t=44)** So I'll have a company info agent, which will be equipped with search tools to be able to find information regarding the company, such as its website, founding date, founders, headquarter, location, industry, and subsidiaries.
 >
-> **[0:55](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/planning-our-agents-their-tasks-and-responsibilities?u=76281980&t=55)** The next agent is the website analysis agent that focuses on the company's website structure like its sections, pages, and metadata.
+> **[0:55](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/planning-our-agents-their-tasks-and-responsibilities?u=76281980&t=55)** The next agent is the website analysis agent that focuses on the company's website structure like its sections, pages, and [[Metadata]].
 >
 > **[1:02](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/planning-our-agents-their-tasks-and-responsibilities?u=76281980&t=62)** The next is the network analysis agent that will find info about DNS and domain registration.
 >
 > **[1:06](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/planning-our-agents-their-tasks-and-responsibilities?u=76281980&t=66)** Then we have the social media and contact information agent that will gather information about the company's social media presence.
 >
-> **[1:12](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/planning-our-agents-their-tasks-and-responsibilities?u=76281980&t=72)** Then we have the search engine intelligence tool that will use Google dorking techniques to uncover hidden info like PDFs or other files.
+> **[1:12](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/planning-our-agents-their-tasks-and-responsibilities?u=76281980&t=72)** Then we have the search engine intelligence tool that will use [[Google]] dorking techniques to uncover hidden info like PDFs or other files.
 >
 > **[1:20](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/planning-our-agents-their-tasks-and-responsibilities?u=76281980&t=80)** We will also have a business info agent that finds key personnel, financial information, partnerships, et cetera.
 >
@@ -2282,7 +2253,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (8), next (3), business (2), [[Metadata]] (1), dns (1)
+> **Frameworks & Libraries:** [[Metadata]] (1), [[Google]] (1)
 > **CLI Commands:** find (4)
 > **Env Vars:** osint (2), dns (1), url (1)
 > **Analogies:** such as (1), similar to (1)
@@ -2290,8 +2261,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [presenter] (1)
 
-#### Setting up the project: LLMs, Agents, and defining tasks
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/setting-up-our-project-llms-agents-defining-tasks?u=76281980)
+#### [Setting up the project: LLMs, Agents, and defining tasks](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/setting-up-our-project-llms-agents-defining-tasks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2315,7 +2285,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/setting-up-our-project-llms-agents-defining-tasks?u=76281980&t=55)** We then set our open AI API key and our Exa API key.
 >
-> **[0:59](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/setting-up-our-project-llms-agents-defining-tasks?u=76281980&t=59)** We then import Exa specifically for Python and tool from langchain.agents.
+> **[0:59](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/setting-up-our-project-llms-agents-defining-tasks?u=76281980&t=59)** We then import Exa specifically for [[Python (Programming Language)|Python]] and tool from [[LangChain]].agents.
 >
 > **[1:05](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/setting-up-our-project-llms-agents-defining-tasks?u=76281980&t=65)** This will help us build tools that our agents can use!
 >
@@ -2409,7 +2379,7 @@ created: 2026-05-02
 >
 > **[5:24](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/setting-up-our-project-llms-agents-defining-tasks?u=76281980&t=324)** And this basically passes the company name dynamically.
 >
-> **[5:29](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/setting-up-our-project-llms-agents-defining-tasks?u=76281980&t=329)** The expected output is a comprehensive report on the company's website structure, content review, metadata analysis, and so on.
+> **[5:29](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/setting-up-our-project-llms-agents-defining-tasks?u=76281980&t=329)** The expected output is a comprehensive report on the company's website structure, content review, [[Metadata]] analysis, and so on.
 >
 > **[5:37](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/setting-up-our-project-llms-agents-defining-tasks?u=76281980&t=337)** Now, all the other tasks are going to be similar!
 >
@@ -2419,7 +2389,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), next (3), llm (3), [[Search]] (2), api (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[LangChain]] (1), [[Metadata]] (1)
 > **CLI Commands:** make (3), find (2), python (1)
 > **Env Vars:** llm (3), api (2), url (1)
 > **Cross-References:** previous video (3), in the next (2)
@@ -2428,8 +2398,7 @@ created: 2026-05-02
 > **Warnings:** note that (2)
 > **Code Identifiers:** async_execution (1)
 
-#### Finishing touches and analyzing the output
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/finishing-touches-and-analyzing-the-output?u=76281980)
+#### [Finishing touches and analyzing the output](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/finishing-touches-and-analyzing-the-output?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2471,7 +2440,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/finishing-touches-and-analyzing-the-output?u=76281980&t=109)** There's one thing that you will notice.
 >
-> **[1:50](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/finishing-touches-and-analyzing-the-output?u=76281980&t=110)** The number of tokens that get used up in a collaborative multi-agent workflow is just humongous.
+> **[1:50](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/finishing-touches-and-analyzing-the-output?u=76281980&t=110)** The number of [[Tokens]] that get used up in a collaborative multi-agent workflow is just humongous.
 >
 > **[1:55](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/finishing-touches-and-analyzing-the-output?u=76281980&t=115)** And that's why we need to be careful about going overboard with the number of agents, tools, and tasks that we create, or else you're going to run up a huge bill on OpenAI.
 >
@@ -2487,7 +2456,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/finishing-touches-and-analyzing-the-output?u=76281980&t=160)** So the first title is Company Information, which has come from the company information agent, and we get all the details like the website, the founding date, the founders, the headquarter location, the industry, subsidiaries, key personnel, and so on.
 >
-> **[2:57](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/finishing-touches-and-analyzing-the-output?u=76281980&t=177)** Then we have the output from the website analyst agent, and we get the details about each page and the metadata of the website, like the official website URL, website and structure and content review.
+> **[2:57](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/finishing-touches-and-analyzing-the-output?u=76281980&t=177)** Then we have the output from the website analyst agent, and we get the details about each page and the [[Metadata]] of the website, like the official website URL, website and structure and content review.
 >
 > **[3:08](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/finishing-touches-and-analyzing-the-output?u=76281980&t=188)** And for each of the pages, we get all the information along with the metadata analysis.
 >
@@ -2523,7 +2492,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), llm (3), [[Metadata]] (2), business (2), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (2), [[Tokens]] (1)
 > **Env Vars:** llm (3), osint (2), url (1)
 > **CLI Commands:** find (2), make (2)
 > **Cross-References:** in the next (3), previous video (1)
@@ -2536,8 +2505,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to web vulnerability scanning
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-web-vulnerability-scanning?u=76281980)
+#### [Introduction to web vulnerability scanning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-web-vulnerability-scanning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2573,7 +2541,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-web-vulnerability-scanning?u=76281980&t=85)** Service fingerprinting.
 >
-> **[1:26](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-web-vulnerability-scanning?u=76281980&t=86)** The scanner identifies the software and versions running on the web servers, databases, and other network components.
+> **[1:26](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-web-vulnerability-scanning?u=76281980&t=86)** The scanner identifies the software and versions running on the [[Web Servers]], [[Databases]], and other network components.
 >
 > **[1:32](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-web-vulnerability-scanning?u=76281980&t=92)** This is crucial for determining whether any of these components have known vulnerabilities.
 >
@@ -2583,7 +2551,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-web-vulnerability-scanning?u=76281980&t=106)** Injection testing.
 >
-> **[1:47](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-web-vulnerability-scanning?u=76281980&t=107)** The scanner might test for common injection vulnerabilities, such as SQL injection, by sending malicious input to the website's forms or URLs and observing the responses.
+> **[1:47](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-web-vulnerability-scanning?u=76281980&t=107)** The scanner might test for common injection vulnerabilities, such as [[SQL]] injection, by sending malicious input to the website's [[Forms]] or URLs and observing the responses.
 >
 > **[1:57](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-web-vulnerability-scanning?u=76281980&t=117)** Operating system fingerprinting.
 >
@@ -2615,7 +2583,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-web-vulnerability-scanning?u=76281980&t=207)** Orchestration.
 >
-> **[3:28](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-web-vulnerability-scanning?u=76281980&t=208)** LLM agents can coordinate with other security tools, such as firewalls, intrusion detection systems, and endpoint security solutions, to automate responses to detected vulnerabilities.
+> **[3:28](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-web-vulnerability-scanning?u=76281980&t=208)** LLM agents can coordinate with other security tools, such as firewalls, [[Intrusion Detection]] systems, and [[Endpoint Security]] solutions, to automate responses to detected vulnerabilities.
 >
 > **[3:39](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-web-vulnerability-scanning?u=76281980&t=219)** For instance, they could automatically block suspicious IP addresses identified during a scan.
 >
@@ -2625,14 +2593,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (10), web (5), data (5), [[Security]] (4), next (3)
+> **Frameworks & Libraries:** [[Web Servers]] (1), [[Databases]] (1), [[SQL]] (1), [[Forms]] (1), [[Intrusion Detection]] (1)
 > **Env Vars:** llm (10), ssl (1), tls (1), sql (1), llms (1)
 > **Analogies:** such as (6), for instance (1)
 > **Cross-References:** in the next (3)
 > **Speakers:** - [instructor] (1)
 
-#### Planning the project and discovering the right tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/planning-the-project-and-discovering-the-right-tools?u=76281980)
+#### [Planning the project and discovering the right tools](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/planning-the-project-and-discovering-the-right-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2666,7 +2633,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/planning-the-project-and-discovering-the-right-tools?u=76281980&t=59)** Describing is what LLMs are great at.
 >
-> **[1:02](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/planning-the-project-and-discovering-the-right-tools?u=76281980&t=62)** A network security agent, which will check for security breaches on the network communications of a website and describe those in great details.
+> **[1:02](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/planning-the-project-and-discovering-the-right-tools?u=76281980&t=62)** A [[Network Security]] agent, which will check for security breaches on the network communications of a website and describe those in great details.
 >
 > **[1:09](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/planning-the-project-and-discovering-the-right-tools?u=76281980&t=69)** A summary and briefing agent, which will compile all gathered information into a concise, informative briefing document.
 >
@@ -2678,11 +2645,11 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/planning-the-project-and-discovering-the-right-tools?u=76281980&t=92)** What sets this project apart from the previous project is the fact that we won't be using a close-source LLM in this project, meaning we won't be using OpenAI or Anthropic.
 >
-> **[1:41](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/planning-the-project-and-discovering-the-right-tools?u=76281980&t=101)** Instead, we'll use an open-source LLM called LLaMA 3 and we'll use the eight billion parameter model of this LLM.
+> **[1:41](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/planning-the-project-and-discovering-the-right-tools?u=76281980&t=101)** Instead, we'll use an open-source LLM called [[LLaMA]] 3 and we'll use the eight billion parameter model of this LLM.
 >
 > **[1:49](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/planning-the-project-and-discovering-the-right-tools?u=76281980&t=109)** This is a really good model built by Meta and it's quite accurate.
 >
-> **[1:52](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/planning-the-project-and-discovering-the-right-tools?u=76281980&t=112)** Now, a way to use this model would be to first download it from Hugging Face and then use it.
+> **[1:52](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/planning-the-project-and-discovering-the-right-tools?u=76281980&t=112)** Now, a way to use this model would be to first download it from [[Hugging Face]] and then use it.
 >
 > **[1:56](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/planning-the-project-and-discovering-the-right-tools?u=76281980&t=116)** But in this project, we will use Groq, which is a service that provides us fast and cheap access to open-source LLMs.
 >
@@ -2694,7 +2661,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/planning-the-project-and-discovering-the-right-tools?u=76281980&t=157)** This is going to take a bit of engineering and this is what we will plan for now.
 >
-> **[2:41](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/planning-the-project-and-discovering-the-right-tools?u=76281980&t=161)** After a lot of trials with different tools, I have come to the conclusion that for our use case, we should use Selenium and Beautiful Soup for scraping the network data and making sense of it, as both of these tools are very effective when it comes to scraping.
+> **[2:41](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/planning-the-project-and-discovering-the-right-tools?u=76281980&t=161)** After a lot of trials with different tools, I have come to the conclusion that for our use case, we should use [[Selenium]] and Beautiful Soup for scraping the network data and making sense of it, as both of these tools are very effective when it comes to scraping.
 >
 > **[2:54](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/planning-the-project-and-discovering-the-right-tools?u=76281980&t=174)** I'm going to have to organize the code that scrapes and analyzes the network data into multiple functions such as an analyze_logs function that helps me make sense of logs, and extract_meaning_from_logs function that helps me extract relevant information useful to us from the logs, and analyze_http_requests function specifically for analyzing all the HTTP requests being made, analyze_resources function to analyze the resources being used, and most importantly, the analyze_network_data function that analyzes all the network data.
 >
@@ -2708,7 +2675,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (7), data (5), [[Security]] (4), next (3), generic (2)
+> **Frameworks & Libraries:** [[Network Security]] (1), [[LLaMA]] (1), [[Hugging Face]] (1), [[Selenium]] (1)
 > **Env Vars:** llm (7), gpu (1), http (1)
 > **Code Identifiers:** analyze_logs (1), extract_meaning_from_logs (1), analyze_http_requests (1), analyze_resources (1), analyze_network_data (1)
 > **Analogies:** just like (2), similar to (1), such as (1)
@@ -2717,8 +2684,7 @@ created: 2026-05-02
 > **Cross-References:** next video (1), in the next (1)
 > **Tools:** colab (1)
 
-#### Getting network and DOM data and processing it
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/getting-network-and-dom-data-and-processing-it?u=76281980)
+#### [Getting network and DOM data and processing it](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/getting-network-and-dom-data-and-processing-it?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2726,7 +2692,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/getting-network-and-dom-data-and-processing-it?u=76281980&t=1)** In this video, let's go over the code that is going to help us extract the network data from any website and analyze it for security issues and vulnerabilities.
 >
-> **[0:11](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/getting-network-and-dom-data-and-processing-it?u=76281980&t=11)** So the plan is that we will be using Selenium and Google Colab to interact with the webpage and capture its network activity.
+> **[0:11](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/getting-network-and-dom-data-and-processing-it?u=76281980&t=11)** So the plan is that we will be using [[Selenium]] and [[Google]] Colab to interact with the webpage and capture its network activity.
 >
 > **[0:21](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/getting-network-and-dom-data-and-processing-it?u=76281980&t=21)** We start by installing all the libraries we need, like Google-Colab-Selenium, Crew AI, DuckDuckGo Search, Beautiful Soup, and so on.
 >
@@ -2762,7 +2728,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/getting-network-and-dom-data-and-processing-it?u=76281980&t=129)** We then fired up a new browser with these settings.
 >
-> **[2:12](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/getting-network-and-dom-data-and-processing-it?u=76281980&t=132)** This time, we capture the entire HTML source of the page.
+> **[2:12](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/getting-network-and-dom-data-and-processing-it?u=76281980&t=132)** This time, we capture the entire [[HTML]] source of the page.
 >
 > **[2:17](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/getting-network-and-dom-data-and-processing-it?u=76281980&t=137)** Finally, we collect the network logs, which include details about all the requests made by the page.
 >
@@ -2776,7 +2742,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/getting-network-and-dom-data-and-processing-it?u=76281980&t=158)** This function processes a log entry, extracting useful information related to HTTP requests, responses, resource types, and web view actions.
 >
-> **[2:48](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/getting-network-and-dom-data-and-processing-it?u=76281980&t=168)** The function starts by trying to convert the log string, which is in JSON format, into a Python dictionary using json.loads.
+> **[2:48](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/getting-network-and-dom-data-and-processing-it?u=76281980&t=168)** The function starts by trying to convert the log string, which is in [[JSON]] format, into a [[Python (Programming Language)|Python]] dictionary using json.loads.
 >
 > **[2:56](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/getting-network-and-dom-data-and-processing-it?u=76281980&t=176)** It extracts the message from the log entry, which contains the details of the network activity.
 >
@@ -2830,7 +2796,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Security]] (5), next (5), [[Selenium]] (4), api (4)
+> **Frameworks & Libraries:** [[Selenium]] (4), [[Google]] (3), [[JSON]] (2), [[HTML]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** url (7), http (6), api (4), html (1), json (1)
 > **Tools:** colab (4)
 > **Code Identifiers:** google_colab_selenium (1), domcontenteventfired (1), loadeventfired (1)
@@ -2839,8 +2805,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (2)
 > **URLs:** [ilovepdf.com](https://ilovepdf.com) (1)
 
-#### Analyzing logs and setting up tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/analyzing-logs-and-setting-up-tools?u=76281980)
+#### [Analyzing logs and setting up tools](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/analyzing-logs-and-setting-up-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2854,7 +2819,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/analyzing-logs-and-setting-up-tools?u=76281980&t=14)** With the analyze_logs function, we are diving deep into the security of a webpage by analyzing its network logs.
 >
-> **[0:22](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/analyzing-logs-and-setting-up-tools?u=76281980&t=22)** We import json to handle JSON data and datetime to work with dates and times.
+> **[0:22](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/analyzing-logs-and-setting-up-tools?u=76281980&t=22)** We import [[JSON]] to handle JSON data and datetime to work with dates and times.
 >
 > **[0:27](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/analyzing-logs-and-setting-up-tools?u=76281980&t=27)** The main function here, analyze_logs, takes in a list of logs and checks for potential security issues or flaws.
 >
@@ -2884,9 +2849,9 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/analyzing-logs-and-setting-up-tools?u=76281980&t=122)** Finally, the code collects all the identified issues and outputs a summary of potential security flaws.
 >
-> **[2:13](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/analyzing-logs-and-setting-up-tools?u=76281980&t=133)** This code uses the beautiful Soup library to pass an HTML document.
+> **[2:13](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/analyzing-logs-and-setting-up-tools?u=76281980&t=133)** This code uses the beautiful Soup library to pass an [[HTML]] document.
 >
-> **[2:18](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/analyzing-logs-and-setting-up-tools?u=76281980&t=138)** It then extracts the page title, all hyperlinks, input fields, forms, and script tags from the HTML.
+> **[2:18](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/analyzing-logs-and-setting-up-tools?u=76281980&t=138)** It then extracts the page title, all hyperlinks, input fields, [[Forms]], and script tags from the HTML.
 >
 > **[2:33](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/analyzing-logs-and-setting-up-tools?u=76281980&t=153)** These elements are stored in separate variables for further analysis or processing.
 >
@@ -2898,7 +2863,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/analyzing-logs-and-setting-up-tools?u=76281980&t=181)** Now let's build our tools for our agents.
 >
-> **[3:04](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/analyzing-logs-and-setting-up-tools?u=76281980&t=184)** We start by importing some tools, like Exa, which is a powerful search engine and tool from LangChain, which helps us turn functions into smart tools.
+> **[3:04](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/analyzing-logs-and-setting-up-tools?u=76281980&t=184)** We start by importing some tools, like Exa, which is a powerful search engine and tool from [[LangChain]], which helps us turn functions into smart tools.
 >
 > **[3:13](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/analyzing-logs-and-setting-up-tools?u=76281980&t=193)** We then create a class called ExaSearchTool.
 >
@@ -2922,7 +2887,7 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/analyzing-logs-and-setting-up-tools?u=76281980&t=238)** The third tool, get_contents, is all about getting detailed information.
 >
-> **[4:02](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/analyzing-logs-and-setting-up-tools?u=76281980&t=242)** If you have a list of webpage IDs, like unique addresses, the assistant can fetch up to 1000 characters of content from each page.
+> **[4:02](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/analyzing-logs-and-setting-up-tools?u=76281980&t=242)** If you have a list of webpage IDs, like unique addresses, the assistant can [[Fetch]] up to 1000 characters of content from each page.
 >
 > **[4:10](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/analyzing-logs-and-setting-up-tools?u=76281980&t=250)** This is super useful if you want a quick summary or need specific details from the multiple pages.
 >
@@ -2948,7 +2913,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (10), [[Search]] (6), [[HTML]] (3), next (3), llm (3)
+> **Frameworks & Libraries:** [[HTML]] (3), [[JSON]] (2), [[Forms]] (1), [[LangChain]] (1), [[Fetch]] (1)
 > **Env Vars:** http (3), html (3), llm (3), https (2), api (2)
 > **Code Identifiers:** analyze_logs (3), search_and_contents (1), get_contents (1)
 > **CLI Commands:** find (3), make (1)
@@ -2957,8 +2922,7 @@ created: 2026-05-02
 > **Exercise Files:** source code (2)
 > **Analogies:** imagine (1), it's like (1)
 
-#### Setting up agents and their tasks
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/setting-up-agents-and-their-tasks?u=76281980)
+#### [Setting up agents and their tasks](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/setting-up-agents-and-their-tasks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2996,7 +2960,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/setting-up-agents-and-their-tasks?u=76281980&t=57)** This agent focuses on the front end of the website, basically everything that users interact with.
 >
-> **[1:02](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/setting-up-agents-and-their-tasks?u=76281980&t=62)** Its mission is to find and describe any security issues, especially things like SQL injection, cross type scripting, which are common attacks.
+> **[1:02](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/setting-up-agents-and-their-tasks?u=76281980&t=62)** Its mission is to find and describe any security issues, especially things like [[SQL]] injection, cross type scripting, which are common attacks.
 >
 > **[1:12](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/setting-up-agents-and-their-tasks?u=76281980&t=72)** The backstory gives the agent detailed instructions on what to look for.
 >
@@ -3038,7 +3002,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/setting-up-agents-and-their-tasks?u=76281980&t=172)** This task is all about securing the communication channels of the website.
 >
-> **[2:57](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/setting-up-agents-and-their-tasks?u=76281980&t=177)** The agent checks if the website uses secure authentication methods, encrypts data, mandates sessions properly and more.
+> **[2:57](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/setting-up-agents-and-their-tasks?u=76281980&t=177)** The agent checks if the website uses [[Secure Authentication]] methods, encrypts data, mandates sessions properly and more.
 >
 > **[3:03](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/setting-up-agents-and-their-tasks?u=76281980&t=183)** It's like a deep dive into the technical side of how data is handled and protected as it moves through the website's network.
 >
@@ -3068,7 +3032,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (12), next (4), data (4), [[SQL]] (1), [[Scripting]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[Secure Authentication]] (1)
 > **Code Identifiers:** industry_analysis_agent (1), frontend_security_agent (1), network_security_agent (1), summary_and_briefing_agent (1), research_task (1)
 > **Env Vars:** sql (1), url (1), xss (1), csrf (1)
 > **Cross-References:** in the next (2), previous video (1)
@@ -3077,8 +3041,7 @@ created: 2026-05-02
 > **Analogies:** it's like (1)
 > **Prerequisites:** set up (1)
 
-#### Kicking off the crew and analyzing the output
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/kicking-off-the-crew-and-analyzing-the-output?u=76281980)
+#### [Kicking off the crew and analyzing the output](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/kicking-off-the-crew-and-analyzing-the-output?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3144,7 +3107,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/kicking-off-the-crew-and-analyzing-the-output?u=76281980&t=178)** If you didn't know, the company that I founded, Armur AI does exactly this.
 >
-> **[3:03](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/kicking-off-the-crew-and-analyzing-the-output?u=76281980&t=183)** We build LLM agents for security purposes and have products for code scanning, web vulnerability scanning, and even LLM-powered pen testing.
+> **[3:03](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/kicking-off-the-crew-and-analyzing-the-output?u=76281980&t=183)** We build LLM agents for security purposes and have [[Microsoft Products|products]] for code scanning, web vulnerability scanning, and even LLM-powered pen testing.
 >
 > **[3:11](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/kicking-off-the-crew-and-analyzing-the-output?u=76281980&t=191)** And all those products are just much more refined versions of the projects that we have built in this course.
 >
@@ -3160,7 +3123,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), next (5), llm (3), [[Microsoft Products|Products]] (2), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **Env Vars:** llm (3), tls (1), https (1), tldr (1)
 > **Cross-References:** in the next (4), previous video (1), next chapter (1)
 > **Definitions:** is a  (3), is an  (1)
@@ -3174,8 +3137,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to LLM-powered firewall projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-llm-powered-firewalls-project?u=76281980)
+#### [Introduction to LLM-powered firewall projects](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-llm-powered-firewalls-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3205,7 +3167,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-llm-powered-firewalls-project?u=76281980&t=75)** Advanced firewalls can identify anomalies by comparing traffic patterns against known safe behavior.
 >
-> **[1:21](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-llm-powered-firewalls-project?u=76281980&t=81)** Based on their analyses, firewalls make real-time decisions to either allow safe traffic through or block potential threats.
+> **[1:21](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-llm-powered-firewalls-project?u=76281980&t=81)** Based on their analyses, firewalls make [[Real-Time]] decisions to either allow safe traffic through or block potential threats.
 >
 > **[1:28](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-llm-powered-firewalls-project?u=76281980&t=88)** There are, however, a few challenges with traditional firewalls.
 >
@@ -3219,7 +3181,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-llm-powered-firewalls-project?u=76281980&t=114)** LLMs can analyze vast amounts of data, learning from it to dynamically identify and adapt to new threats without the need for constant rule updates.
 >
-> **[2:03](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-llm-powered-firewalls-project?u=76281980&t=123)** LLMs can understand the context of network traffic more deeply, improving the accuracy of detecting sophisticated attacks, like phishing or advanced persistent threats.
+> **[2:03](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-llm-powered-firewalls-project?u=76281980&t=123)** LLMs can understand the context of network traffic more deeply, improving the accuracy of detecting sophisticated attacks, like [[Phishing]] or advanced persistent threats.
 >
 > **[2:11](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-llm-powered-firewalls-project?u=76281980&t=131)** By learning what normal network behavior looks like, LLMs can spot even subtle deviations that might indicate an emerging threat.
 >
@@ -3229,15 +3191,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (5), llm (3), data (3), [[Security]] (2), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (1), [[Phishing]] (1)
 > **Env Vars:** llm (3), lms (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Planning the approach
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/planning-our-approach?u=76281980)
+#### [Planning the approach](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/planning-our-approach?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3253,11 +3214,11 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/planning-our-approach?u=76281980&t=23)** There are no agents involved, and yet this is the last project of this course.
 >
-> **[0:28](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/planning-our-approach?u=76281980&t=28)** And the reason for that is we will have to get the network data and pre-process it quite a bit before we can feed it to our LLM for fine tuning purposes.
+> **[0:28](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/planning-our-approach?u=76281980&t=28)** And the reason for that is we will have to get the network data and pre-process it quite a bit before we can feed it to our LLM for [[Fine Tuning]] purposes.
 >
 > **[0:36](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/planning-our-approach?u=76281980&t=36)** So keeping this in mind, let's go over our plan quickly.
 >
-> **[0:39](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/planning-our-approach?u=76281980&t=39)** We will begin by capturing network packets in real time using Scrapy, a powerful Python library for packet manipulation.
+> **[0:39](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/planning-our-approach?u=76281980&t=39)** We will begin by capturing network packets in real time using Scrapy, a powerful [[Python (Programming Language)|Python]] library for packet manipulation.
 >
 > **[0:46](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/planning-our-approach?u=76281980&t=46)** Packets are intercepted from a specified network interface, and various types of packets like HTTP, IP, TCP, UDP, ICMP are processed.
 >
@@ -3271,7 +3232,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/planning-our-approach?u=76281980&t=76)** This file acts as a data set that can be used for further analysis and machine learning tasks.
 >
-> **[1:21](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/planning-our-approach?u=76281980&t=81)** The CSV files containing the captured packet data are imported into a Pandas data frame for pre-processing.
+> **[1:21](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/planning-our-approach?u=76281980&t=81)** The CSV files containing the captured packet data are imported into a [[Pandas (Software)|Pandas]] data frame for pre-processing.
 >
 > **[1:26](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/planning-our-approach?u=76281980&t=86)** The data from training and testing CSV files is combined to streamline the pre-processing steps, avoiding redundant work.
 >
@@ -3279,7 +3240,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/planning-our-approach?u=76281980&t=101)** We'll remove some irrelevant columns, simplifying the dataset and focusing on useful features.
 >
-> **[1:45](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/planning-our-approach?u=76281980&t=105)** Categorical variables are converted into a numerical format using one-hot encoding, making them suitable for machine learning algorithms.
+> **[1:45](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/planning-our-approach?u=76281980&t=105)** Categorical variables are converted into a numerical format using one-hot encoding, making them suitable for machine learning [[Algorithms]].
 >
 > **[1:53](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/planning-our-approach?u=76281980&t=113)** Numerical columns are normalized to ensure all features are on a similar scale.
 >
@@ -3287,7 +3248,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/planning-our-approach?u=76281980&t=121)** The normalization process involves subtracting the minimum value of each numeric column and dividing by the standard deviation.
 >
-> **[2:07](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/planning-our-approach?u=76281980&t=127)** The process and and coded data is now ready for training and testing, various machine learning models, such as logistic regression, decision trees, and neural networks.
+> **[2:07](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/planning-our-approach?u=76281980&t=127)** The process and and coded data is now ready for training and testing, various machine learning models, such as [[Logistic Regression]], [[Decision Trees]], and [[Neural Networks]].
 >
 > **[2:16](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/planning-our-approach?u=76281980&t=136)** The final data set is optimized for building models that can analyze network traffic, detect anomalies, or classify different types of network activities.
 >
@@ -3301,15 +3262,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), llm (5), [[Fine Tuning]] (2), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Fine Tuning]] (2), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1), [[Algorithms]] (1), [[Logistic Regression]] (1)
 > **Env Vars:** llm (5), csv (3), http (1), tcp (1), udp (1)
 > **Cross-References:** previous video (1), we talked about (1), next video (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 
-#### Network data gathering and storing
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/network-data-gathering-and-storing?u=76281980)
+#### [Network data gathering and storing](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/network-data-gathering-and-storing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3319,13 +3279,13 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/network-data-gathering-and-storing?u=76281980&t=4)** Let's go through our Colab file where we have the project built along with the output, and let's go through the code together.
 >
-> **[0:09](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/network-data-gathering-and-storing?u=76281980&t=9)** We start off like we usually do by installing some packages that'll help us in our project, and we mount our Google Drive because we would need to extract our network data and store it for operations.
+> **[0:09](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/network-data-gathering-and-storing?u=76281980&t=9)** We start off like we usually do by installing some packages that'll help us in our project, and we mount our [[Google Drive]] because we would need to extract our network data and store it for operations.
 >
 > **[0:22](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/network-data-gathering-and-storing?u=76281980&t=22)** And then, in this cell is where our project starts.
 >
 > **[0:26](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/network-data-gathering-and-storing?u=76281980&t=26)** From a 10,000 feet perspective, the code in this cell essentially listens to network traffic, processes the package to extract relevant information, and then saves that information to a CSV for further analysis.
 >
-> **[0:38](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/network-data-gathering-and-storing?u=76281980&t=38)** The process is automated, so it can be used in different scenarios like network monitoring or cybersecurity tasks, but let's go over it line by line so we know exactly what's happening.
+> **[0:38](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/network-data-gathering-and-storing?u=76281980&t=38)** The process is automated, so it can be used in different scenarios like network monitoring or [[Cybersecurity]] tasks, but let's go over it line by line so we know exactly what's happening.
 >
 > **[0:48](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/network-data-gathering-and-storing?u=76281980&t=48)** We begin by setting up a dictionary called default_values.
 >
@@ -3391,7 +3351,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Google Drive]] (1), traffic (1), [[Cybersecurity]] (1), product (1)
+> **Frameworks & Libraries:** [[Google Drive]] (1), [[Cybersecurity]] (1)
 > **Code Identifiers:** extract_data (3), default_values (2), update_csv (2), get_interface (2), attack_cat (1)
 > **Env Vars:** csv (5), http (2), tcp (1), udp (1), icmp (1)
 > **Tools:** colab (1), command line (1)
@@ -3400,8 +3360,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Prerequisites:** getting started (1)
 
-#### Data preprocessing
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/data-preprocessing?u=76281980)
+#### [Data preprocessing](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/data-preprocessing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3467,15 +3426,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), llm (2), next (2)
 > **Code Identifiers:** train_data (1), test_data (1), combined_data (1), attack_cat (1), processed_data_encoded (1)
 > **Env Vars:** llm (2), csv (1)
 > **Cross-References:** in the next (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### LLM setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/llm-setup?u=76281980)
+#### [LLM setup](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/llm-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3483,7 +3440,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/llm-setup?u=76281980&t=1)** We are going strong.
 >
-> **[0:03](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/llm-setup?u=76281980&t=3)** We've already built our function to access network data and store it, and then to process the data to be in a format that can be easily used for LLM fine tuning.
+> **[0:03](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/llm-setup?u=76281980&t=3)** We've already built our function to access network data and store it, and then to process the data to be in a format that can be easily used for LLM [[Fine Tuning]].
 >
 > **[0:10](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/llm-setup?u=76281980&t=10)** Now we have to set up our LLM so that we can fine tune it, so let's get started.
 >
@@ -3493,7 +3450,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/llm-setup?u=76281980&t=30)** Depending on the cuda version, certain packages are installed using pip.
 >
-> **[0:33](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/llm-setup?u=76281980&t=33)** These packages include tools for efficient competition and handling large language models.
+> **[0:33](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/llm-setup?u=76281980&t=33)** These packages include tools for efficient competition and handling [[Large Language Models (LLM)|large language models]].
 >
 > **[0:38](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/llm-setup?u=76281980&t=38)** If the GPU is strong enough, which means the major version is greater than equal to eight, then additional packages like Packaging, Ninja, Einops, Flash Attention Xformers, TRL, Peft Accelerate, and Bits and Bytes are installed.
 >
@@ -3505,11 +3462,11 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/llm-setup?u=76281980&t=73)** The max sequence length is set to 2048, which defines the maximum length of the text the model can handle at once.
 >
-> **[1:20](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/llm-setup?u=76281980&t=80)** This number can be adjusted depending on the task with some models like Llama three, supporting up to 8,000 tokens.
+> **[1:20](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/llm-setup?u=76281980&t=80)** This number can be adjusted depending on the task with some models like [[LLaMA]] three, supporting up to 8,000 [[Tokens]].
 >
 > **[1:26](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/llm-setup?u=76281980&t=86)** The model is loaded in four bit precision, a technique that reduces memory usage while maintaining performance.
 >
-> **[1:33](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/llm-setup?u=76281980&t=93)** This is especially useful for working with large language models on limited hardware.
+> **[1:33](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/llm-setup?u=76281980&t=93)** This is especially useful for working with large language models on limited [[Hardware]].
 >
 > **[1:38](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/llm-setup?u=76281980&t=98)** A list of available models is provided, all of which are optimized for four bit precision.
 >
@@ -3551,7 +3508,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Fine Tuning]] (5), [[LLaMA]] (4), llm (3), [[Large Language Models (LLM)|Large language models]] (2)
+> **Frameworks & Libraries:** [[Fine Tuning]] (5), [[LLaMA]] (4), [[Large Language Models (LLM)|Large language models]] (2), [[Tokens]] (1), [[Hardware]] (1)
 > **Env Vars:** llm (3), gpu (3), trl (1), llms (1), bnb (1)
 > **CLI Commands:** pip (1), find (1)
 > **Cross-References:** in the next (2)
@@ -3560,8 +3517,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### LLM fine-tuning
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/llm-finetuning?u=76281980)
+#### [LLM fine-tuning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/llm-finetuning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3591,7 +3547,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/llm-finetuning?u=76281980&t=61)** Instead of using an existing dataset, we loading our custom dataset using the load dataset function.
 >
-> **[1:08](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/llm-finetuning?u=76281980&t=68)** This dataset contains instructions, inputs, and outputs that we have prepared for fine tuning the model.
+> **[1:08](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/llm-finetuning?u=76281980&t=68)** This dataset contains instructions, inputs, and outputs that we have prepared for [[Fine Tuning]] the model.
 >
 > **[1:14](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/llm-finetuning?u=76281980&t=74)** After loading the dataset, we split it into training and testing set.
 >
@@ -3623,7 +3579,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/llm-finetuning?u=76281980&t=167)** The model will go through the data learning to predict the correct responses based on the instructions and inputs provided.
 >
-> **[2:53](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/llm-finetuning?u=76281980&t=173)** The training statistics are captured in trainer stats, which you can use to monitor the performance.
+> **[2:53](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/llm-finetuning?u=76281980&t=173)** The training [[Statistics]] are captured in trainer stats, which you can use to monitor the performance.
 >
 > **[3:00](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/llm-finetuning?u=76281980&t=180)** Alright, the fine tuning is done.
 >
@@ -3631,7 +3587,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (3), [[Fine Tuning]] (3), data (3), llm (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Fine Tuning]] (3), [[Statistics]] (1)
 > **Env Vars:** eos (2), llm (1), sft (1), gps (1), fp16 (1)
 > **Definitions:** is a  (4)
 > **Exercise Files:** template (3)
@@ -3640,8 +3596,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Inference output and closing notes
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/inference-output-and-closing-notes?u=76281980)
+#### [Inference output and closing notes](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/inference-output-and-closing-notes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3667,7 +3622,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/inference-output-and-closing-notes?u=76281980&t=50)** The text_streamer object is initialized to stream the generated text as the model produces it.
 >
-> **[0:55](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/inference-output-and-closing-notes?u=76281980&t=55)** The model then generates a response based on the input with a limit of 128 new tokens to prevent overly long outputs.
+> **[0:55](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/inference-output-and-closing-notes?u=76281980&t=55)** The model then generates a response based on the input with a limit of 128 new [[Tokens]] to prevent overly long outputs.
 >
 > **[1:03](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/inference-output-and-closing-notes?u=76281980&t=63)** Now, let's look at the generated output.
 >
@@ -3691,7 +3646,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (5), prompt (3), data (2), next (2), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (1)
 > **Env Vars:** llm (5), gpu (1)
 > **Cross-References:** in the next (2), previous video (1)
 > **Code Identifiers:** alpaca_prompt (1), text_streamer (1)
@@ -3703,14 +3658,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Threats of the future
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/threats-of-the-future?u=76281980)
+#### [Threats of the future](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/threats-of-the-future?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/threats-of-the-future?u=76281980&t=0)** - [Instructor] Welcome back.
 >
-> **[0:01](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/threats-of-the-future?u=76281980&t=1)** Up until now, we've learned quite a bit about using LLLMs for cybersecurity, and also built quite a few projects, and this means our knowledge is not just theoretical and more, it's practical and hands-on.
+> **[0:01](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/threats-of-the-future?u=76281980&t=1)** Up until now, we've learned quite a bit about using LLLMs for [[Cybersecurity]], and also built quite a few projects, and this means our knowledge is not just theoretical and more, it's practical and hands-on.
 >
 > **[0:12](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/threats-of-the-future?u=76281980&t=12)** This chapter is about the future.
 >
@@ -3726,9 +3680,9 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/threats-of-the-future?u=76281980&t=42)** Decentralized botnets for decentralized denial-of-service attacks.
 >
-> **[0:45](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/threats-of-the-future?u=76281980&t=45)** Botnets that are difficult to take down as they use the blockchain technology that enables them to stay persistent since they're decentralized, meaning no bot is the leader of the botnet, so you cannot take down one leader expecting the botnet to go down.
+> **[0:45](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/threats-of-the-future?u=76281980&t=45)** Botnets that are difficult to take down as they use the [[Blockchain]] technology that enables them to stay persistent since they're decentralized, meaning no bot is the leader of the botnet, so you cannot take down one leader expecting the botnet to go down.
 >
-> **[0:58](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/threats-of-the-future?u=76281980&t=58)** Real-time swarm learning botnets.
+> **[0:58](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/threats-of-the-future?u=76281980&t=58)** [[Real-Time]] swarm learning botnets.
 >
 > **[1:00](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/threats-of-the-future?u=76281980&t=60)** These botnets attack a server or a system and learn in real time about the system's defenses, and are able to adapt in real time as well.
 >
@@ -3758,7 +3712,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/threats-of-the-future?u=76281980&t=123)** LLMs could be used to craft adversarial examples that trick AI systems into misclassifying data or making incorrect decisions.
 >
-> **[2:10](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/threats-of-the-future?u=76281980&t=130)** This could be used to bypass security systems, such as facial recognition or intrusion detection systems.
+> **[2:10](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/threats-of-the-future?u=76281980&t=130)** This could be used to bypass security systems, such as facial recognition or [[Intrusion Detection]] systems.
 >
 > **[2:15](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/threats-of-the-future?u=76281980&t=135)** LLM-driven autonomous reconnaissance.
 >
@@ -3770,14 +3724,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (5), ai (4), [[Security]] (2), next (2), data (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1), [[Blockchain]] (1), [[Real-Time]] (1), [[Intrusion Detection]] (1)
 > **Env Vars:** llm (5), osint (1)
 > **Cross-References:** in the next (2)
 > **Analogies:** just like (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### LLM powered agents for hacking
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/llm-powered-agents-for-hacking?u=76281980)
+#### [LLM powered agents for hacking](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/llm-powered-agents-for-hacking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3807,9 +3760,9 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/llm-powered-agents-for-hacking?u=76281980&t=61)** Once a vulnerability is identified, the agent can automatically generate and deploy exploit scripts to compromise the system.
 >
-> **[1:08](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/llm-powered-agents-for-hacking?u=76281980&t=68)** Autonomous decision-making.
+> **[1:08](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/llm-powered-agents-for-hacking?u=76281980&t=68)** Autonomous [[Decision-Making]].
 >
-> **[1:10](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/llm-powered-agents-for-hacking?u=76281980&t=70)** These agents can make real-time decisions during an attack, choosing the most effective strategies based on the environment and defenses encountered.
+> **[1:10](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/llm-powered-agents-for-hacking?u=76281980&t=70)** These agents can make [[Real-Time]] decisions during an attack, choosing the most effective strategies based on the environment and defenses encountered.
 >
 > **[1:18](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/llm-powered-agents-for-hacking?u=76281980&t=78)** They can adjust their behavior dynamically, switching tactics if they detect changes in the target's defense mechanisms.
 >
@@ -3837,7 +3790,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (7), data (3), [[Security]] (2), next (2), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1), [[Real-Time]] (1)
 > **Env Vars:** llm (7)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (2)
@@ -3845,8 +3798,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Decentralized botnets for decentralized DOS attacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/decentralized-botnets-for-decentralized-dos-attacks?u=76281980)
+#### [Decentralized botnets for decentralized DOS attacks](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/decentralized-botnets-for-decentralized-dos-attacks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3888,13 +3840,13 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/decentralized-botnets-for-decentralized-dos-attacks?u=76281980&t=96)** A decentralized botnet is a more advanced type of botnet that operates without a central command and control server.
 >
-> **[1:43](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/decentralized-botnets-for-decentralized-dos-attacks?u=76281980&t=103)** Instead of relying on a single point of control, these botnets use peer-to-peer networks or blockchain technology to coordinate their activities.
+> **[1:43](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/decentralized-botnets-for-decentralized-dos-attacks?u=76281980&t=103)** Instead of relying on a single point of control, these botnets use peer-to-peer networks or [[Blockchain]] technology to coordinate their activities.
 >
 > **[1:51](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/decentralized-botnets-for-decentralized-dos-attacks?u=76281980&t=111)** Each device in the botnet can act independently or in coordination with others, making the botnet more resilient to take down efforts.
 >
 > **[2:00](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/decentralized-botnets-for-decentralized-dos-attacks?u=76281980&t=120)** Because decentralized botnets lack a central control point, they're extremely difficult to disrupt.
 >
-> **[2:04](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/decentralized-botnets-for-decentralized-dos-attacks?u=76281980&t=124)** Even if some nodes are taken down, the rest of the botnet can continue to operate.
+> **[2:04](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/decentralized-botnets-for-decentralized-dos-attacks?u=76281980&t=124)** Even if some nodes are taken down, the [[Representational State Transfer (REST)|rest]] of the botnet can continue to operate.
 >
 > **[2:08](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/decentralized-botnets-for-decentralized-dos-attacks?u=76281980&t=128)** This decentralized nature makes them more robust and harder to eliminate.
 >
@@ -3922,15 +3874,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (6), next (3), [[Security]] (1), llm (1), power (1)
+> **Frameworks & Libraries:** [[Blockchain]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Cross-References:** in the next (3), previous video (1), we talked about (1)
 > **Env Vars:** llm (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Swarm learning with decentralized AI botnets
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/swarm-learning-with-decentralized-ai-botnets?u=76281980)
+#### [Swarm learning with decentralized AI botnets](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/swarm-learning-with-decentralized-ai-botnets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3944,9 +3895,9 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/swarm-learning-with-decentralized-ai-botnets?u=76281980&t=29)** This is the final evolution of this technology and the most dangerous form.
 >
-> **[0:33](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/swarm-learning-with-decentralized-ai-botnets?u=76281980&t=33)** Swarm learning is a decentralized machine learning approach where AI agents within the botnet share insights and learn collectively in real time, much like a swarm of insects adapting to their environment.
+> **[0:33](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/swarm-learning-with-decentralized-ai-botnets?u=76281980&t=33)** Swarm learning is a decentralized machine learning approach where [[AI Agents]] within the botnet share insights and learn collectively in real time, much like a swarm of insects adapting to their environment.
 >
-> **[0:44](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/swarm-learning-with-decentralized-ai-botnets?u=76281980&t=44)** So we have briefly touched upon real-time adaptation, and these specific botnets are especially good at this due to swarm learning.
+> **[0:44](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/swarm-learning-with-decentralized-ai-botnets?u=76281980&t=44)** So we have briefly touched upon [[Real-Time]] adaptation, and these specific botnets are especially good at this due to swarm learning.
 >
 > **[0:51](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/swarm-learning-with-decentralized-ai-botnets?u=76281980&t=51)** Basically, each node in the botnet continuously learns from its interactions with the target and other nodes, adapting its tactics to optimize the attack.
 >
@@ -3972,7 +3923,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/swarm-learning-with-decentralized-ai-botnets?u=76281980&t=135)** Traditional security measures that rely on known attack signatures or behaviors are often ineffective.
 >
-> **[2:20](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/swarm-learning-with-decentralized-ai-botnets?u=76281980&t=140)** To counter these threats, cybersecurity professionals must explore new defensive strategies including AI-driven countermeasures, decentralized security frameworks, and collaborative defense initiatives.
+> **[2:20](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/swarm-learning-with-decentralized-ai-botnets?u=76281980&t=140)** To counter these threats, [[Cybersecurity]] professionals must explore new defensive strategies including AI-driven countermeasures, decentralized security frameworks, and collaborative defense initiatives.
 >
 > **[2:31](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/swarm-learning-with-decentralized-ai-botnets?u=76281980&t=151)** All right, enough of cyber threats.
 >
@@ -3988,15 +3939,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), node (3), [[Security]] (3), [[Real-Time]] (2), next (2)
+> **Frameworks & Libraries:** [[Real-Time]] (2), [[AI Agents]] (1), [[Cybersecurity]] (1)
 > **CLI Commands:** node (3)
 > **Cross-References:** in the next (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** llm (1)
 > **Speakers:** - [presenter] (1)
 
-#### Predictive security with LLMs
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/predictive-security-with-llms?u=76281980)
+#### [Predictive security with LLMs](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/predictive-security-with-llms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4020,7 +3970,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/predictive-security-with-llms?u=76281980&t=51)** This includes understanding the nature of the threat, the systems it might impact, and the potential consequences.
 >
-> **[0:56](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/predictive-security-with-llms?u=76281980&t=56)** Enhanced incident response.
+> **[0:56](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/predictive-security-with-llms?u=76281980&t=56)** Enhanced [[Incident Response]].
 >
 > **[0:58](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/predictive-security-with-llms?u=76281980&t=58)** LLM powered agents can execute predefined response playbooks automatically when a threat is detected.
 >
@@ -4038,7 +3988,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/predictive-security-with-llms?u=76281980&t=99)** This involves simulating various attack scenarios using LLM powered agents to harden defenses.
 >
-> **[1:44](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/predictive-security-with-llms?u=76281980&t=104)** Just as attackers use swarm learning for adaptive attacks, defenders can use similar techniques to create a network of AI agents that work together to detect, block, and mitigate attacks across different systems and networks.
+> **[1:44](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/predictive-security-with-llms?u=76281980&t=104)** Just as attackers use swarm learning for adaptive attacks, defenders can use similar techniques to create a network of [[AI Agents]] that work together to detect, block, and mitigate attacks across different systems and networks.
 >
 > **[1:56](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/predictive-security-with-llms?u=76281980&t=116)** Continuous learning and adaptation.
 >
@@ -4062,14 +4012,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), ai (5), [[Security]] (4), [[Incident Response]] (2), llm (2)
+> **Frameworks & Libraries:** [[Incident Response]] (2), [[AI Agents]] (1)
 > **Env Vars:** llm (2)
 > **Cross-References:** in the next (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Resources to take your learning further
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/resources-to-take-your-learning-further?u=76281980)
+#### [Resources to take your learning further](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/resources-to-take-your-learning-further?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4077,9 +4026,9 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/resources-to-take-your-learning-further?u=76281980&t=1)** Let's talk about some great resources that will help you in the future to help you stay updated with LLMs.
 >
-> **[0:07](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/resources-to-take-your-learning-further?u=76281980&t=7)** To start with, I highly recommend navigating around Hugging Face, trying out the different LLMs, checking the leaderboard often for any new developments, and just by doing this, you'll know of the data developments in terms of models released, data sets, et cetera.
+> **[0:07](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/resources-to-take-your-learning-further?u=76281980&t=7)** To start with, I highly recommend navigating around [[Hugging Face]], trying out the different LLMs, checking the leaderboard often for any new developments, and just by doing this, you'll know of the data developments in terms of models released, data sets, et cetera.
 >
-> **[0:19](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/resources-to-take-your-learning-further?u=76281980&t=19)** You can also look at the accompanying GitHub projects and also search for GitHub projects that use LLMs.
+> **[0:19](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/resources-to-take-your-learning-further?u=76281980&t=19)** You can also look at the accompanying [[GitHub]] projects and also search for GitHub projects that use LLMs.
 >
 > **[0:25](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/resources-to-take-your-learning-further?u=76281980&t=25)** There are curated deposit depositories like Awesome LLM, which have a list of important projects and papers divided into categories.
 >
@@ -4087,9 +4036,9 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/resources-to-take-your-learning-further?u=76281980&t=34)** I highly recommend going through [arXiv.org](https://arXiv.org), it's spelled as [A-R-X-I-V.org](https://A-R-X-I-V.org), at least once a day, and reading a paper that you really like.
 >
-> **[0:43](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/resources-to-take-your-learning-further?u=76281980&t=43)** The category you want to open is either the artificial intelligence one or the cybersecurity one.
+> **[0:43](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/resources-to-take-your-learning-further?u=76281980&t=43)** The category you want to open is either the [[Artificial Intelligence (AI)|artificial intelligence]] one or the [[Cybersecurity]] one.
 >
-> **[0:49](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/resources-to-take-your-learning-further?u=76281980&t=49)** A hack that I usually share with senior engineers that I mentor is to subscribe to newsletters.
+> **[0:49](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/resources-to-take-your-learning-further?u=76281980&t=49)** A hack that I usually share with senior engineers that I mentor is to subscribe to [[Newsletters]].
 >
 > **[0:54](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/resources-to-take-your-learning-further?u=76281980&t=54)** Just find a list of great newsletters for cybersecurity and AI and just subscribe to them.
 >
@@ -4099,7 +4048,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/resources-to-take-your-learning-further?u=76281980&t=74)** I would recommend checking out Medium, Hashnode, and Dev.to, as you will find detailed articles published by experts.
 >
-> **[1:20](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/resources-to-take-your-learning-further?u=76281980&t=80)** I use Feedly to curate updates from the top list of blogs in the industries I care about, like LLMs, cybersecurity, cloud, and blockchain.
+> **[1:20](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/resources-to-take-your-learning-further?u=76281980&t=80)** I use Feedly to curate updates from the top list of blogs in the industries I care about, like LLMs, cybersecurity, cloud, and [[Blockchain]].
 >
 > **[1:27](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/resources-to-take-your-learning-further?u=76281980&t=87)** And I get a nice reading list pulled from the top blogs and websites directly into my Feedly app.
 >
@@ -4109,7 +4058,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Newsletters]] (4), [[GitHub]] (3), [[Cybersecurity]] (3), [[Hugging Face]] (2), data (2)
+> **Frameworks & Libraries:** [[Newsletters]] (4), [[GitHub]] (3), [[Cybersecurity]] (3), [[Hugging Face]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Tools:** github (3)
 > **CLI Commands:** find (2)
 > **URLs:** [arxiv.org](https://arxiv.org) (1), [a-r-x-i-v.org](https://a-r-x-i-v.org) (1)
@@ -4118,8 +4067,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 
-#### Keep up with the ever-changing dynamic tech landscape
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/keep-up-with-the-ever-changing-dynamic-tech-landscape?u=76281980)
+#### [Keep up with the ever-changing dynamic tech landscape](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/keep-up-with-the-ever-changing-dynamic-tech-landscape?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4135,7 +4083,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/keep-up-with-the-ever-changing-dynamic-tech-landscape?u=76281980&t=26)** Plan it on a board, break down the project into really small tasks and action items, and feel free to collaborate with other engineers on the project.
 >
-> **[0:33](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/keep-up-with-the-ever-changing-dynamic-tech-landscape?u=76281980&t=33)** If you're unable to think of ideas, then contribute to existing projects on GitHub.
+> **[0:33](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/keep-up-with-the-ever-changing-dynamic-tech-landscape?u=76281980&t=33)** If you're unable to think of ideas, then contribute to existing projects on [[GitHub]].
 >
 > **[0:37](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/keep-up-with-the-ever-changing-dynamic-tech-landscape?u=76281980&t=37)** We'll get to learn a lot on how others organize their projects and tasks.
 >
@@ -4143,7 +4091,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/keep-up-with-the-ever-changing-dynamic-tech-landscape?u=76281980&t=45)** Join the communities that you care about and then participate in those communities.
 >
-> **[0:48](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/keep-up-with-the-ever-changing-dynamic-tech-landscape?u=76281980&t=48)** There are other great platforms like Telegram and Slack for communities as well, but I've noticed that Discord communities are really the best when it comes to building large collaborative efforts where people can congregate, learn, and network.
+> **[0:48](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/keep-up-with-the-ever-changing-dynamic-tech-landscape?u=76281980&t=48)** There are other great platforms like Telegram and [[Slack]] for communities as well, but I've noticed that Discord communities are really the best when it comes to building large collaborative efforts where people can congregate, learn, and network.
 >
 > **[1:00](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/keep-up-with-the-ever-changing-dynamic-tech-landscape?u=76281980&t=60)** I'm partial towards Discord, and this is why I highly recommend joining a few communities, participating, making friends by DMing them and joining community calls and even volunteering to help manage the community.
 >
@@ -4175,7 +4123,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1), game (1), [[GitHub]] (1), [[Slack]] (1), next (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[Slack]] (1)
 > **Tools:** discord (3), github (1), slack (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **Definitions:** is a  (1)
@@ -4187,8 +4135,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Summarizing the course
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/summarizing-the-course?u=76281980)
+#### [Summarizing the course](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/summarizing-the-course?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4210,13 +4157,13 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/summarizing-the-course?u=76281980&t=41)** Then we learned about closed-source LLMs and open-source LLMs.
 >
-> **[0:44](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/summarizing-the-course?u=76281980&t=44)** We first learned about Google Colab and the benefits of working inside Colab.
+> **[0:44](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/summarizing-the-course?u=76281980&t=44)** We first learned about [[Google]] Colab and the benefits of working inside Colab.
 >
 > **[0:47](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/summarizing-the-course?u=76281980&t=47)** Then we saw some hands-on examples, like we learned how we can import LLMs into Colab, how we can generate synthetic data, and how we can fine-tune a model.
 >
 > **[0:55](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/summarizing-the-course?u=76281980&t=55)** This laid the foundation for the projects we built in the next videos.
 >
-> **[0:59](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/summarizing-the-course?u=76281980&t=59)** We first built our smart contract auditing project, where we trained an LLM to detect vulnerabilities in Solana smart contracts.
+> **[0:59](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/summarizing-the-course?u=76281980&t=59)** We first built our smart contract auditing project, where we trained an LLM to detect vulnerabilities in Solana [[Smart Contracts]].
 >
 > **[1:05](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/summarizing-the-course?u=76281980&t=65)** Then we learned about LLM agents and how they can help in taking the capabilities of LLMs to the next level by equipping them with special tools.
 >
@@ -4228,7 +4175,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/summarizing-the-course?u=76281980&t=81)** All of these are real-world projects that have great applications.
 >
-> **[1:24](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/summarizing-the-course?u=76281980&t=84)** Then we learned about all the future threats that will evolve in the future and that we will have to be ready for, such as AI-powered agents capable of hacking decentralized botnets that can coordinate large-scale, decentralized denial-of-service attacks and botnets that are adaptive in real-time as they use swarm learning to learn about the network inefficiencies.
+> **[1:24](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/summarizing-the-course?u=76281980&t=84)** Then we learned about all the future threats that will evolve in the future and that we will have to be ready for, such as AI-powered agents capable of hacking decentralized botnets that can coordinate large-scale, decentralized denial-of-service attacks and botnets that are adaptive in [[Real-Time]] as they use swarm learning to learn about the network inefficiencies.
 >
 > **[1:43](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/summarizing-the-course?u=76281980&t=103)** We finished that by learning how security professionals can use LLM technology to help defend against such attacks.
 >
@@ -4244,7 +4191,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (6), next (4), data (2), open-source (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Smart Contracts]] (1), [[Real-Time]] (1)
 > **Env Vars:** llm (6), osint (1)
 > **Cross-References:** in the next (2), next video (1)
 > **Tools:** colab (3)
@@ -4252,8 +4199,7 @@ created: 2026-05-02
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Key learnings, best practices, and parting statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/key-learnings-best-practices-and-parting-statements?u=76281980)
+#### [Key learnings, best practices, and parting statements](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/key-learnings-best-practices-and-parting-statements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4267,7 +4213,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/key-learnings-best-practices-and-parting-statements?u=76281980&t=14)** To reward this behavior, I'll also go the extra mile for you.
 >
-> **[0:18](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/key-learnings-best-practices-and-parting-statements?u=76281980&t=18)** All you have to do is send me a connection request on LinkedIn with a message that you finished my LLM Cybersecurity course till the end, and I'll personally send you more resources, materials, and ways to stay way ahead of your peers in this field.
+> **[0:18](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/key-learnings-best-practices-and-parting-statements?u=76281980&t=18)** All you have to do is send me a connection request on [[LinkedIn]] with a message that you finished my LLM [[Cybersecurity]] course till the end, and I'll personally send you more resources, materials, and ways to stay way ahead of your peers in this field.
 >
 > **[0:28](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/key-learnings-best-practices-and-parting-statements?u=76281980&t=28)** That's my promise to you.
 >
@@ -4291,7 +4237,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/key-learnings-best-practices-and-parting-statements?u=76281980&t=84)** For example, today's course was at the intersection of AI and cybersecurity.
 >
-> **[1:28](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/key-learnings-best-practices-and-parting-statements?u=76281980&t=88)** We built a project in this course that was at the intersection of blockchain cybersecurity and AI, and this was the Sorana Smart Contract auditing project.
+> **[1:28](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/key-learnings-best-practices-and-parting-statements?u=76281980&t=88)** We built a project in this course that was at the intersection of [[Blockchain]] cybersecurity and AI, and this was the Sorana Smart Contract auditing project.
 >
 > **[1:34](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/key-learnings-best-practices-and-parting-statements?u=76281980&t=94)** This means if you're interested in multiple fields in technology, that's great.
 >
@@ -4325,7 +4271,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (5), [[LinkedIn]] (3), llm (2), ai (2), [[Blockchain]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (5), [[LinkedIn]] (3), [[Blockchain]] (1)
 > **Env Vars:** llm (2), lms (2)
 > **Analogies:** just like (2), for example (1)
 > **CLI Commands:** make (1), find (1)

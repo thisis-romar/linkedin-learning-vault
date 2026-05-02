@@ -72,12 +72,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Sustainability in business
-> [LinkedIn Learning](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/sustainability-in-business?u=76281980)
+#### [Sustainability in business](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/sustainability-in-business?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/sustainability-in-business?u=76281980&t=0)** - The United Nations define sustainability as meeting the needs of the present without compromising the ability of future generations to meet their needs.
+> **[0:00](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/sustainability-in-business?u=76281980&t=0)** - The United Nations define [[Sustainability]] as meeting the needs of the present without compromising the ability of future generations to meet their needs.
 >
 > **[0:09](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/sustainability-in-business?u=76281980&t=9)** Hmm.
 >
@@ -111,7 +110,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (3), business (3)
+> **Frameworks & Libraries:** [[Sustainability]] (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
 
@@ -120,8 +119,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Healthy ecosystems = healthy businesses
-> [LinkedIn Learning](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/4222104?u=76281980)
+#### [Healthy ecosystems = healthy businesses](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/4222104?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -131,7 +129,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/4222104?u=76281980&t=4)** If you don't know, you'll find out in this lesson.
 >
-> **[0:06](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/4222104?u=76281980&t=6)** If you do know the answer, stay tuned anyway, as I'm going to introduce you to other essential sustainability terms and real world examples to provide you with the foundational knowledge you need to begin transforming your business into an environmentally and socially responsible operation.
+> **[0:06](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/4222104?u=76281980&t=6)** If you do know the answer, stay tuned anyway, as I'm going to introduce you to other essential [[Sustainability]] terms and real world examples to provide you with the foundational knowledge you need to begin transforming your business into an environmentally and socially responsible operation.
 >
 > **[0:24](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/4222104?u=76281980&t=24)** Okay, so the first term you need to have in your sustainability toolbox is ecosystem, and ecosystem is a community of living organisms that interact with and depend upon each other.
 >
@@ -157,7 +155,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/4222104?u=76281980&t=146)** To sum it up, if we don't reduce our ecological footprint, the planet will run out of resources.
 >
-> **[2:32](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/4222104?u=76281980&t=152)** I know these are depressing statistics, but don't despair, solutions are at hand.
+> **[2:32](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/4222104?u=76281980&t=152)** I know these are depressing [[Statistics]], but don't despair, solutions are at hand.
 >
 > **[2:37](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/4222104?u=76281980&t=157)** Before we get there, let's circle back to the pop quiz.
 >
@@ -187,14 +185,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), [[Sustainability]] (4), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Sustainability]] (4), [[Statistics]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - pop (1)
 
-#### Planet, people, profit
-> [LinkedIn Learning](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/planet-people-profit?u=76281980)
+#### [Planet, people, profit](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/planet-people-profit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -206,13 +203,13 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/planet-people-profit?u=76281980&t=17)** The triple bottom line or TBL expands the concept of business success to include environmental health and social wellbeing rather than solely focusing on profits.
 >
-> **[0:27](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/planet-people-profit?u=76281980&t=27)** The TBL is a sustainability based accounting method that incorporates the three dimensions of business performance, environmental, social, and financial.
+> **[0:27](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/planet-people-profit?u=76281980&t=27)** The TBL is a [[Sustainability]] based accounting method that incorporates the three dimensions of business performance, environmental, social, and financial.
 >
 > **[0:38](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/planet-people-profit?u=76281980&t=38)** It's also referred to as the three Ps or people, planet and profit.
 >
 > **[0:43](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/planet-people-profit?u=76281980&t=43)** In this lesson I'm going to illustrate the links between the three Ps and how prioritizing profit over people and planet is a losing strategy.
 >
-> **[0:53](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/planet-people-profit?u=76281980&t=53)** You can use this foundational knowledge to create a successful, sustainable business.
+> **[0:53](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/planet-people-profit?u=76281980&t=53)** You can use this foundational knowledge to create a successful, [[Sustainable Business]].
 >
 > **[0:58](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/planet-people-profit?u=76281980&t=58)** First, for businesses to be competitive and profitable in the long term, business owners and leaders must take good care of their people.
 >
@@ -242,14 +239,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (10), [[Sustainability]] (2), [[Sustainable Business]] (1), next (1)
+> **Frameworks & Libraries:** [[Sustainability]] (2), [[Sustainable Business]] (1)
 > **Env Vars:** tbl (2)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1)
 > **Speakers:** - you (1)
 
-#### Corporate social responsibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/corporate-social-responsibility?u=76281980)
+#### [Corporate social responsibility](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/corporate-social-responsibility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -263,11 +259,11 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/corporate-social-responsibility?u=76281980&t=27)** Another surge in CSR programming happened in 2020 in the wake of George Floyd's murder, which sparked widespread public outcry about the urgent need to address systemic racism and income inequality.
 >
-> **[0:42](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/corporate-social-responsibility?u=76281980&t=42)** In this lesson, I'm going to share with you the fundamental social aspects of sustainability so you're able to take the necessary steps toward building a CSR program.
+> **[0:42](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/corporate-social-responsibility?u=76281980&t=42)** In this lesson, I'm going to share with you the fundamental social aspects of [[Sustainability]] so you're able to take the necessary steps toward building a CSR program.
 >
 > **[0:53](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/corporate-social-responsibility?u=76281980&t=53)** CSR is a socially ethical business management framework focused on supporting employees and enhancing local communities and society at large.
 >
-> **[1:03](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/corporate-social-responsibility?u=76281980&t=63)** Internally, CSR includes workforce wellness programming.
+> **[1:03](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/corporate-social-responsibility?u=76281980&t=63)** Internally, CSR includes workforce [[Wellness]] programming.
 >
 > **[1:07](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/corporate-social-responsibility?u=76281980&t=67)** Externally, programming is focused on philanthropic initiatives, also known as corporate giving.
 >
@@ -281,7 +277,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/corporate-social-responsibility?u=76281980&t=113)** Corporate giving can also boost employee morale, help with employee recruitment and retention, and even enhance customer loyalty.
 >
-> **[2:01](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/corporate-social-responsibility?u=76281980&t=121)** To establish a CSR program within your business, you must develop internal stakeholder buy-in and establish a CSR committee with key staff and departments such as human resources.
+> **[2:01](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/corporate-social-responsibility?u=76281980&t=121)** To establish a CSR program within your business, you must develop internal stakeholder buy-in and establish a CSR committee with key staff and departments such as [[Human Resources (HR)|human resources]].
 >
 > **[2:14](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/corporate-social-responsibility?u=76281980&t=134)** Through the CSR committee, you can set project goals, identify initiatives and recipient organizations, and begin communicating your plans company-wide to inspire employee engagement.
 >
@@ -289,7 +285,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/corporate-social-responsibility?u=76281980&t=154)** For larger businesses, explore third party CSR platforms to help you and your team with this essential component of program management.
 >
-> **[2:44](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/corporate-social-responsibility?u=76281980&t=164)** Building a sustainable business is a comprehensive endeavor that requires careful attention to all three aspects of sustainability, social, environmental and financial.
+> **[2:44](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/corporate-social-responsibility?u=76281980&t=164)** Building a [[Sustainable Business]] is a comprehensive endeavor that requires careful attention to all three aspects of sustainability, social, environmental and financial.
 >
 > **[2:56](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/corporate-social-responsibility?u=76281980&t=176)** With this lesson under your belt, you're now able to communicate the basic concepts of CSR and underscore the importance of including the social aspects of sustainability into your business.
 >
@@ -297,18 +293,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (4), business (4), [[Sustainability]] (3), [[Wellness]] (3), management (2)
+> **Frameworks & Libraries:** [[Sustainability]] (3), [[Wellness]] (3), [[Human Resources (HR)|Human resources]] (1), [[Sustainable Business]] (1)
 > **Env Vars:** csr (10)
 > **Definitions:** is a  (2), known as (1)
 > **Analogies:** such as (1)
 > **Speakers:** - did (1)
 
-#### Regulations and reporting frameworks
-> [LinkedIn Learning](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/regulations-and-reporting-frameworks?u=76281980)
+#### [Regulations and reporting frameworks](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/regulations-and-reporting-frameworks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/regulations-and-reporting-frameworks?u=76281980&t=0)** - You may already know that sustainability regulations and reporting requirements are evolving at warp speed.
+> **[0:00](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/regulations-and-reporting-frameworks?u=76281980&t=0)** - You may already know that [[Sustainability]] regulations and reporting requirements are evolving at warp speed.
 >
 > **[0:07](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/regulations-and-reporting-frameworks?u=76281980&t=7)** Sometimes it feels like I'm drinking from a fire hose and building an EV while driving it on the Autobahn.
 >
@@ -316,7 +311,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/regulations-and-reporting-frameworks?u=76281980&t=23)** While regulatory requirements are increasing in number and complexity, investor expectations and client requirements are also growing.
 >
-> **[0:32](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/regulations-and-reporting-frameworks?u=76281980&t=32)** Various countries are beginning to enact corporate sustainability regulations, driving the need for businesses to be prepared to meet increasingly stringent requirements.
+> **[0:32](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/regulations-and-reporting-frameworks?u=76281980&t=32)** Various countries are beginning to enact [[Corporate Sustainability]] regulations, driving the need for businesses to be prepared to meet increasingly stringent requirements.
 >
 > **[0:42](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/regulations-and-reporting-frameworks?u=76281980&t=42)** In this lesson, I'm going to give you a brief history of business participation and global sustainability.
 >
@@ -350,13 +345,13 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/regulations-and-reporting-frameworks?u=76281980&t=179)** - Mandatory annual TCFD reporting is set to apply to all listed companies with more than 500 employees.
 >
-> **[3:07](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/regulations-and-reporting-frameworks?u=76281980&t=187)** The top sustainable building rating systems are LEED, Well and REEAM, while the key sustainable business certifications, including B-Corp, Green Business Programs and Fair Trade products.
+> **[3:07](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/regulations-and-reporting-frameworks?u=76281980&t=187)** The top sustainable building rating systems are LEED, Well and REEAM, while the key [[Sustainable Business]] certifications, including B-Corp, Green Business Programs and Fair Trade [[Microsoft Products|products]].
 >
 > **[3:19](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/regulations-and-reporting-frameworks?u=76281980&t=199)** Finally, investor and client ESG reporting expectations and requirements are mounting.
 >
 > **[3:26](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/regulations-and-reporting-frameworks?u=76281980&t=206)** Environmentally, this includes adopting policies, operationalizing environmental management systems, implementing third party verified greenhouse gas inventories, committing to carbon emission reduction targets, and tracking progress.
 >
-> **[3:41](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/regulations-and-reporting-frameworks?u=76281980&t=221)** Socially, these include board and employee diversity commitments, DEI initiatives and workforce wellness programming.
+> **[3:41](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/regulations-and-reporting-frameworks?u=76281980&t=221)** Socially, these include board and employee diversity commitments, DEI initiatives and workforce [[Wellness]] programming.
 >
 > **[3:50](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/regulations-and-reporting-frameworks?u=76281980&t=230)** In terms of governance, these include alignment with the UN SDGs, adoption of related policies and annual ESG reporting.
 >
@@ -374,7 +369,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (9), business (6), [[Corporate Sustainability]] (1), [[Security]] (1), [[Sustainable Business]] (1)
+> **Frameworks & Libraries:** [[Sustainability]] (9), [[Corporate Sustainability]] (1), [[Sustainable Business]] (1), [[Microsoft Products|Products]] (1), [[Wellness]] (1)
 > **Env Vars:** esg (3), ungc (1), sec (1), sasb (1), cdp (1)
 > **Speakers:** - you (1), - mandatory (1)
 > **Exercise Files:** exercise file (1)
@@ -384,8 +379,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Energy efficiencies and renewables
-> [LinkedIn Learning](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/energy-efficiencies-and-renewables?u=76281980)
+#### [Energy efficiencies and renewables](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/energy-efficiencies-and-renewables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -403,7 +397,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/energy-efficiencies-and-renewables?u=76281980&t=39)** Energy conservation is reducing energy consumption by using less of it.
 >
-> **[0:44](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/energy-efficiencies-and-renewables?u=76281980&t=44)** Examples include turning off lights and electronics when they're not in use, and putting on or taking off your sweater instead of turning up the heat or air conditioning.
+> **[0:44](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/energy-efficiencies-and-renewables?u=76281980&t=44)** Examples include turning off lights and [[Electronics]] when they're not in use, and putting on or taking off your sweater instead of turning up the heat or air conditioning.
 >
 > **[0:53](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/energy-efficiencies-and-renewables?u=76281980&t=53)** Energy efficiency is the process of reducing the amount of energy needed to provide the same amount of output.
 >
@@ -415,7 +409,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/energy-efficiencies-and-renewables?u=76281980&t=76)** You can save money and help the planet at the same time.
 >
-> **[1:20](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/energy-efficiencies-and-renewables?u=76281980&t=80)** Moving on to design-based energy efficiency techniques, these include day lighting, which is using windows and skylights to provide light so you can minimize electricity use, and passive cooling, which focuses on natural ventilation.
+> **[1:20](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/energy-efficiencies-and-renewables?u=76281980&t=80)** Moving on to design-based energy efficiency techniques, these include day lighting, which is using [[Windows]] and skylights to provide light so you can minimize electricity use, and passive cooling, which focuses on natural ventilation.
 >
 > **[1:35](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/energy-efficiencies-and-renewables?u=76281980&t=95)** LEED certified buildings often integrate day lighting and passive cooling into their design, and consume about 30% less energy than conventional buildings.
 >
@@ -453,22 +447,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Electronics]] (1), [[Windows]] (1), power (1)
+> **Frameworks & Libraries:** [[Electronics]] (1), [[Windows]] (1)
 > **Env Vars:** led (1), leed (1), hvac (1)
 > **Exercise Files:** exercise file (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Water efficiencies and conservation
-> [LinkedIn Learning](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/water-efficiencies-and-conservation?u=76281980)
+#### [Water efficiencies and conservation](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/water-efficiencies-and-conservation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/water-efficiencies-and-conservation?u=76281980&t=0)** - Did you know one of the most significant risks to businesses worldwide is water scarcity?
 >
-> **[0:06](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/water-efficiencies-and-conservation?u=76281980&t=6)** Climate change is exacerbating droughts, causing water shortages around the world and disrupting business continuity.
+> **[0:06](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/water-efficiencies-and-conservation?u=76281980&t=6)** [[Climate Change]] is exacerbating droughts, causing water shortages around the world and disrupting business continuity.
 >
-> **[0:13](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/water-efficiencies-and-conservation?u=76281980&t=13)** Although the impacts are more severe for certain businesses, such as food and beverage and electronics manufacturers, all businesses are affected by water restrictions and associated rising costs.
+> **[0:13](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/water-efficiencies-and-conservation?u=76281980&t=13)** Although the impacts are more severe for certain businesses, such as food and beverage and [[Electronics]] manufacturers, all businesses are affected by water restrictions and associated rising costs.
 >
 > **[0:25](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/water-efficiencies-and-conservation?u=76281980&t=25)** In this lesson, I'm going to identify some of the impacts of water scarcity on businesses and show you ways to conserve water, implement water efficiencies, and create a more waterwise business.
 >
@@ -504,7 +497,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/water-efficiencies-and-conservation?u=76281980&t=147)** It's worth considering, especially if your business has landscaping.
 >
-> **[2:30](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/water-efficiencies-and-conservation?u=76281980&t=150)** Now that you have some solid water conservation strategies in your sustainability toolbox, start checking your leaky faucets today.
+> **[2:30](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/water-efficiencies-and-conservation?u=76281980&t=150)** Now that you have some solid water conservation strategies in your [[Sustainability]] toolbox, start checking your leaky faucets today.
 >
 > **[2:38](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/water-efficiencies-and-conservation?u=76281980&t=158)** Then work your way through the next steps on your waterwise business list.
 >
@@ -514,13 +507,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (10), next (2), [[Climate Change]] (1), [[Electronics]] (1), [[Sustainability]] (1)
+> **Frameworks & Libraries:** [[Climate Change]] (1), [[Electronics]] (1), [[Sustainability]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1)
 > **Speakers:** - did (1)
 
-#### Waste and pollution reduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/waste-and-pollution-reduction?u=76281980)
+#### [Waste and pollution reduction](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/waste-and-pollution-reduction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -568,7 +560,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/waste-and-pollution-reduction?u=76281980&t=170)** So in the order of priorities in waste management, source reduction is number one.
 >
-> **[2:57](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/waste-and-pollution-reduction?u=76281980&t=177)** Reuse is number two, because reducing waste and reusing materials saves resources and the energy needed to recycle materials into new products.
+> **[2:57](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/waste-and-pollution-reduction?u=76281980&t=177)** Reuse is number two, because reducing waste and reusing materials saves resources and the energy needed to recycle materials into new [[Microsoft Products|products]].
 >
 > **[3:08](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/waste-and-pollution-reduction?u=76281980&t=188)** Think of your business as waste as a stream of valuable resources.
 >
@@ -592,13 +584,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (8), management (3), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Exercise Files:** exercise file (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - have (1)
 
-#### Sustainable transportation
-> [LinkedIn Learning](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/sustainable-transportation?u=76281980)
+#### [Sustainable transportation](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/sustainable-transportation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -618,7 +609,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/sustainable-transportation?u=76281980&t=28)** Fortunately, there are other modes of sustainable transportation because transportation accounts for about 25% of global greenhouse gases.
 >
-> **[0:37](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/sustainable-transportation?u=76281980&t=37)** Reducing transportation related emissions is an essential component of creating a sustainable business.
+> **[0:37](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/sustainable-transportation?u=76281980&t=37)** Reducing transportation related emissions is an essential component of creating a [[Sustainable Business]].
 >
 > **[0:44](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/sustainable-transportation?u=76281980&t=44)** In this lesson, I'm going to show you how to establish a sustainable employee commuting program and incentivize participation.
 >
@@ -642,7 +633,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/sustainable-transportation?u=76281980&t=115)** This should continue to be encouraged when feasible.
 >
-> **[1:59](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/sustainable-transportation?u=76281980&t=119)** Next, begin sketching out your plan to discourage people from driving to work by themselves in their gas guzzlers.
+> **[1:59](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/sustainable-transportation?u=76281980&t=119)** Next, begin [[Sketching]] out your plan to discourage people from driving to work by themselves in their gas guzzlers.
 >
 > **[2:07](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/sustainable-transportation?u=76281980&t=127)** You can do this by establishing and incentivizing participation in a user-friendly carpool program, subsidizing monthly public transportation passes, providing secure bicycle parking, and if applicable, providing preferential parking for carpools and EVs.
 >
@@ -670,14 +661,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), [[Sustainable Business]] (2), next (1), [[Sketching]] (1)
+> **Frameworks & Libraries:** [[Sustainable Business]] (2), [[Sketching]] (1)
 > **Definitions:** is an  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - i (1)
 
-#### Diversity, equity, and inclusion
-> [LinkedIn Learning](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/diversity-equity-and-inclusion?u=76281980)
+#### [Diversity, equity, and inclusion](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/diversity-equity-and-inclusion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -693,7 +683,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/diversity-equity-and-inclusion?u=76281980&t=25)** And did you know diversity, equity, and inclusion, employee wellbeing, and productivity are inextricably linked?
 >
-> **[0:33](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/diversity-equity-and-inclusion?u=76281980&t=33)** In this lesson, I'm going to flesh out these concepts to give you a better understanding of a topic that's an essential component to creating and sustaining a sustainable business.
+> **[0:33](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/diversity-equity-and-inclusion?u=76281980&t=33)** In this lesson, I'm going to flesh out these concepts to give you a better understanding of a topic that's an essential component to creating and sustaining a [[Sustainable Business]].
 >
 > **[0:44](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/diversity-equity-and-inclusion?u=76281980&t=44)** I'm going to start by addressing the elephant in the room.
 >
@@ -741,7 +731,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/diversity-equity-and-inclusion?u=76281980&t=225)** Inclusive mentors also help employees develop their skills and capabilities.
 >
-> **[3:50](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/diversity-equity-and-inclusion?u=76281980&t=230)** An ERG is a business-supported, voluntary, employee-led diversity and inclusion initiative.
+> **[3:50](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/diversity-equity-and-inclusion?u=76281980&t=230)** An ERG is a business-supported, voluntary, employee-led [[Diversity and Inclusion]] initiative.
 >
 > **[3:57](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/diversity-equity-and-inclusion?u=76281980&t=237)** ERGs are organized based on common identities and focus on creating equitable and inclusive pathways for historically underrepresented groups with a goal of providing networking opportunities and aligning business objectives with employee interests.
 >
@@ -749,13 +739,13 @@ created: 2026-05-02
 >
 > **[4:18](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/diversity-equity-and-inclusion?u=76281980&t=258)** I know that's a lot to take in, so let's wrap it up with your DEI implementation roadmap.
 >
-> **[4:25](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/diversity-equity-and-inclusion?u=76281980&t=265)** Start with organizing microaggression training for your business leadership and check out the exercise file for a DEI programming essentials checklist to evaluate your business.
+> **[4:25](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/diversity-equity-and-inclusion?u=76281980&t=265)** Start with organizing microaggression training for your [[Business Leadership]] and check out the exercise file for a DEI programming essentials checklist to evaluate your business.
 >
 > **[4:35](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/diversity-equity-and-inclusion?u=76281980&t=275)** You've got this, good luck.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), leadership (4), [[Programming]] (3), [[Sustainable Business]] (1), [[Diversity and Inclusion]] (1)
+> **Frameworks & Libraries:** [[Sustainable Business]] (1), [[Diversity and Inclusion]] (1), [[Business Leadership]] (1)
 > **Env Vars:** dei (9), erg (1)
 > **Definitions:** is called (1), is a  (1)
 > **Tools:** notion (1)
@@ -768,16 +758,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Benchmarking
-> [LinkedIn Learning](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/benchmarking?u=76281980)
+#### [Benchmarking](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/benchmarking?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/benchmarking?u=76281980&t=0)** - In order to stay in business, you must keep up with your competition.
 >
-> **[0:04](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/benchmarking?u=76281980&t=4)** Benchmarking your business peers is one of the best places to start implementing your business sustainability program.
+> **[0:04](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/benchmarking?u=76281980&t=4)** Benchmarking your business peers is one of the best places to start implementing your business [[Sustainability]] program.
 >
-> **[0:10](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/benchmarking?u=76281980&t=10)** In this lesson, I'll show you how to perform benchmarking to inform your strategy and approach to creating a sustainable business, so you can keep up with your competitors and stay ahead of the curve.
+> **[0:10](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/benchmarking?u=76281980&t=10)** In this lesson, I'll show you how to perform benchmarking to inform your strategy and approach to creating a [[Sustainable Business]], so you can keep up with your competitors and stay ahead of the curve.
 >
 > **[0:21](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/benchmarking?u=76281980&t=21)** First, understand how to identify a benchmark.
 >
@@ -827,15 +816,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), [[Sustainability]] (5), next (3), [[Sustainable Business]] (2), data (1)
+> **Frameworks & Libraries:** [[Sustainability]] (5), [[Sustainable Business]] (2)
 > **Env Vars:** esg (3), iss (1), msci (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1)
 > **Speakers:** - in (1)
 
-#### Track your progress
-> [LinkedIn Learning](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/track-your-progress?u=76281980)
+#### [Track your progress](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/track-your-progress?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -863,13 +851,13 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/track-your-progress?u=76281980&t=79)** Then develop your Greenhouse Gas Inventory following the GHG Protocol Guidelines to establish your baseline and set your Emissions Reduction Plan, with a focus on renewable energy, waste reduction, material reuse, and alternative transportation.
 >
-> **[1:35](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/track-your-progress?u=76281980&t=95)** Finally, let's talk timeframes for your Measurable Sustainable Business Goals.
+> **[1:35](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/track-your-progress?u=76281980&t=95)** Finally, let's talk timeframes for your Measurable [[Sustainable Business]] Goals.
 >
 > **[1:40](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/track-your-progress?u=76281980&t=100)** Near-term Timeframes are approximately one to three years.
 >
 > **[1:44](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/track-your-progress?u=76281980&t=104)** Mid-term is about four to nine years, and Long-term goals are 10 or more years into the future.
 >
-> **[1:50](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/track-your-progress?u=76281980&t=110)** For Emission Reduction Planning, the critical years are 2030 for at least 50% reductions, in 2040 to achieve Net Zero, because according to climate scientists, Net Zero Emissions by 2050 is too late to avoid catastrophic impacts of climate change.
+> **[1:50](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/track-your-progress?u=76281980&t=110)** For Emission Reduction Planning, the critical years are 2030 for at least 50% reductions, in 2040 to achieve Net Zero, because according to climate scientists, Net Zero Emissions by 2050 is too late to avoid catastrophic impacts of [[Climate Change]].
 >
 > **[2:08](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/track-your-progress?u=76281980&t=128)** When you're close to reaching your Emission Reduction Target Date, if you're having trouble meeting your target, you can invest in Carbon Sequestration and Removal Projects.
 >
@@ -879,23 +867,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), data (2), management (1), next (1), [[Sustainable Business]] (1)
+> **Frameworks & Libraries:** [[Sustainable Business]] (1), [[Climate Change]] (1)
 > **Env Vars:** ghg (2), smart (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - to (1)
 
-#### Follow the checklist
-> [LinkedIn Learning](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/follow-the-checklist?u=76281980)
+#### [Follow the checklist](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/follow-the-checklist?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/follow-the-checklist?u=76281980&t=0)** - To implement sustainability within any business, you must conduct a comprehensive audit of your operations and follow a best practices checklist to implement your sustainability measures.
+> **[0:00](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/follow-the-checklist?u=76281980&t=0)** - To implement [[Sustainability]] within any business, you must conduct a comprehensive audit of your operations and follow a best practices checklist to implement your sustainability measures.
 >
 > **[0:11](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/follow-the-checklist?u=76281980&t=11)** Because any business that promotes sustainability must walk the talk.
 >
-> **[0:16](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/follow-the-checklist?u=76281980&t=16)** In this lesson, I'm going to provide you with a basic five part sustainable business checklist, so you can begin auditing your operations and create your own customized action plan.
+> **[0:16](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/follow-the-checklist?u=76281980&t=16)** In this lesson, I'm going to provide you with a basic five part [[Sustainable Business]] checklist, so you can begin auditing your operations and create your own customized action plan.
 >
 > **[0:27](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/follow-the-checklist?u=76281980&t=27)** I'm going to start with your energy audit.
 >
@@ -933,7 +920,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/follow-the-checklist?u=76281980&t=123)** Next up is pollution prevention.
 >
-> **[2:06](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/follow-the-checklist?u=76281980&t=126)** Audit your cleaning supplies or cleaning service and transition to third party certified non-toxic cleaning products such as Green Seal or Safer Choice.
+> **[2:06](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/follow-the-checklist?u=76281980&t=126)** Audit your cleaning supplies or cleaning service and transition to third party certified non-toxic cleaning [[Microsoft Products|products]] such as Green Seal or Safer Choice.
 >
 > **[2:16](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/follow-the-checklist?u=76281980&t=136)** And eliminate artificial air fresheners.
 >
@@ -941,7 +928,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/follow-the-checklist?u=76281980&t=151)** So onto waste reduction.
 >
-> **[2:33](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/follow-the-checklist?u=76281980&t=153)** Purchase office paper with 100% recycled content and begin your transition to paperless operations.
+> **[2:33](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/follow-the-checklist?u=76281980&t=153)** Purchase [[Microsoft Office|office]] paper with 100% recycled content and begin your transition to paperless operations.
 >
 > **[2:40](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/follow-the-checklist?u=76281980&t=160)** Provide reusable dishware in your break room, and reuse packaging materials in your shipments.
 >
@@ -971,7 +958,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (3), business (2), next (2), [[Microsoft Office|Office]] (2), [[Sustainable Business]] (1)
+> **Frameworks & Libraries:** [[Sustainability]] (3), [[Microsoft Office|Office]] (2), [[Sustainable Business]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** hvac (1), seer (1)
 > **Versions:** 1.6 (1), 1.5 (1)
 > **Exercise Files:** exercise file (1)
@@ -980,12 +967,11 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - to (1)
 
-#### Identify and engage your stakeholders
-> [LinkedIn Learning](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/identify-and-engage-your-stakeholders?u=76281980)
+#### [Identify and engage your stakeholders](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/identify-and-engage-your-stakeholders?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/identify-and-engage-your-stakeholders?u=76281980&t=0)** - I'll never forget the backlash I received from a Chamber of Commerce official when I proposed a sustainable business certification program to my community's city council.
+> **[0:00](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/identify-and-engage-your-stakeholders?u=76281980&t=0)** - I'll never forget the backlash I received from a Chamber of Commerce official when I proposed a [[Sustainable Business]] certification program to my community's city council.
 >
 > **[0:10](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/identify-and-engage-your-stakeholders?u=76281980&t=10)** I realized my mistake by not engaging the chamber first, given its role as a key community stakeholder.
 >
@@ -993,7 +979,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/identify-and-engage-your-stakeholders?u=76281980&t=23)** The lesson I learned is to be successful in any endeavor, you must know your stakeholders, and understand their pain points and priorities.
 >
-> **[0:32](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/identify-and-engage-your-stakeholders?u=76281980&t=32)** In this lesson, I'm going to help you identify your key sustainability stakeholders, how to learn about their concerns, perspectives, and priorities, and how to strategically engage with them and develop lasting buy-in.
+> **[0:32](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/identify-and-engage-your-stakeholders?u=76281980&t=32)** In this lesson, I'm going to help you identify your key [[Sustainability]] stakeholders, how to learn about their concerns, perspectives, and priorities, and how to strategically engage with them and develop lasting buy-in.
 >
 > **[0:45](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/identify-and-engage-your-stakeholders?u=76281980&t=45)** First, identify your company's internal and external stakeholders.
 >
@@ -1011,7 +997,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/identify-and-engage-your-stakeholders?u=76281980&t=92)** Another effective way to get input is to do targeted interviews with a representative portion of your key stakeholders.
 >
-> **[1:39](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/identify-and-engage-your-stakeholders?u=76281980&t=99)** From my experience, I found that the top employee priorities include pay equity, wellbeing, and environmental accountability.
+> **[1:39](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/identify-and-engage-your-stakeholders?u=76281980&t=99)** From my experience, I found that the top employee priorities include pay equity, wellbeing, and environmental [[Accountability]].
 >
 > **[1:46](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/identify-and-engage-your-stakeholders?u=76281980&t=106)** Corporate leadership priorities include financial stability, competitiveness, and employee retention.
 >
@@ -1041,7 +1027,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/identify-and-engage-your-stakeholders?u=76281980&t=185)** You want them to have a sense of ownership.
 >
-> **[3:08](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/identify-and-engage-your-stakeholders?u=76281980&t=188)** Their support and help with program development, data collection, tracking, and reporting is critical to your success and your business's sustainability progress.
+> **[3:08](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/identify-and-engage-your-stakeholders?u=76281980&t=188)** Their support and help with program development, [[Data Collection]], tracking, and reporting is critical to your success and your business's sustainability progress.
 >
 > **[3:17](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/identify-and-engage-your-stakeholders?u=76281980&t=197)** Your initial efforts may require some give and take.
 >
@@ -1059,23 +1045,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (4), leadership (2), next (2), business (2), [[Sustainable Business]] (1)
+> **Frameworks & Libraries:** [[Sustainability]] (4), [[Sustainable Business]] (1), [[Accountability]] (1), [[Data Collection]] (1)
 > **Env Vars:** esg (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - i (1)
 
-#### Sustainability across sectors
-> [LinkedIn Learning](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/sustainability-across-sectors?u=76281980)
+#### [Sustainability across sectors](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/sustainability-across-sectors?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/sustainability-across-sectors?u=76281980&t=0)** - Any size business of any sector, almost anywhere on Earth can be transformed into a sustainable business.
+> **[0:00](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/sustainability-across-sectors?u=76281980&t=0)** - Any size business of any sector, almost anywhere on Earth can be transformed into a [[Sustainable Business]].
 >
 > **[0:07](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/sustainability-across-sectors?u=76281980&t=7)** Even the fossil fuel industry and the mining industry can innovate and transition to renewable energy and reuse materials in their operations to become sustainable.
 >
 > **[0:17](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/sustainability-across-sectors?u=76281980&t=17)** In this lesson, you'll become knowledgeable about what's most relevant for key business sectors of different sizes and locations so you can begin transforming your business.
 >
-> **[0:28](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/sustainability-across-sectors?u=76281980&t=28)** Sustainability measures applicable to office and retail establishments of any size are applicable to all types of businesses.
+> **[0:28](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/sustainability-across-sectors?u=76281980&t=28)** [[Sustainability]] measures applicable to [[Microsoft Office|office]] and retail establishments of any size are applicable to all types of businesses.
 >
 > **[0:35](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/sustainability-across-sectors?u=76281980&t=35)** For instance, all businesses should have a waste reduction, reuse, and recycling system in place.
 >
@@ -1093,7 +1078,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/sustainability-across-sectors?u=76281980&t=98)** Hands down the most challenging sector to transform is manufacturing.
 >
-> **[1:43](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/sustainability-across-sectors?u=76281980&t=103)** No matter what size for all manufacturing firms, you must assess and measure your production inputs and reevaluate your products and associated packaging.
+> **[1:43](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/sustainability-across-sectors?u=76281980&t=103)** No matter what size for all manufacturing firms, you must assess and measure your production inputs and reevaluate your [[Microsoft Products|products]] and associated packaging.
 >
 > **[1:53](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/sustainability-across-sectors?u=76281980&t=113)** With the goal of creating a sustainable and regenerative closed-loop system, your inputs must be comprised of renewable, reusable, recycled, and non-hazardous materials.
 >
@@ -1121,11 +1106,11 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/sustainability-across-sectors?u=76281980&t=214)** And small to medium sized businesses should pursue B-Corp or Green Business Certification.
 >
-> **[3:40](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/sustainability-across-sectors?u=76281980&t=220)** Good luck and have fun with your business transformation process.
+> **[3:40](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/sustainability-across-sectors?u=76281980&t=220)** Good luck and have fun with your [[Business Transformation]] process.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (10), [[Sustainability]] (6), [[Sustainable Business]] (1), [[Microsoft Office|Office]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Sustainability]] (6), [[Sustainable Business]] (1), [[Microsoft Office|Office]] (1), [[Microsoft Products|Products]] (1), [[Business Transformation]] (1)
 > **Analogies:** for instance (2), such as (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - any (1)
@@ -1135,16 +1120,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Actualize your goals
-> [LinkedIn Learning](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/actualize-your-goals?u=76281980)
+#### [Actualize your goals](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/actualize-your-goals?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/actualize-your-goals?u=76281980&t=0)** - Congratulations on completing this course on the fundamentals of how to build a sustainable business.
+> **[0:00](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/actualize-your-goals?u=76281980&t=0)** - Congratulations on completing this course on the fundamentals of how to build a [[Sustainable Business]].
 >
 > **[0:06](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/actualize-your-goals?u=76281980&t=6)** Now that you've completed this course, you have the knowledge base necessary to begin transforming your business into a sustainable one, the ability to effectively articulate your vision and strategy and compel your key stakeholders to action.
 >
-> **[0:19](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/actualize-your-goals?u=76281980&t=19)** At the end of the day, building buy-in and teamwork are the most challenging aspects of implementing business sustainability.
+> **[0:19](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/actualize-your-goals?u=76281980&t=19)** At the end of the day, building buy-in and teamwork are the most challenging aspects of implementing business [[Sustainability]].
 >
 > **[0:27](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/actualize-your-goals?u=76281980&t=27)** So gather your core group of strategic colleagues and begin chipping away at your progress.
 >
@@ -1154,7 +1138,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/actualize-your-goals?u=76281980&t=42)** Refer to the resource file for my book recommendations, key references, and related sources to further support you as you move along your sustainable business journey.
 >
-> **[0:52](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/actualize-your-goals?u=76281980&t=52)** I'd really love to hear from you, so please feel free to connect with me on LinkedIn and let me know how you're progressing.
+> **[0:52](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/actualize-your-goals?u=76281980&t=52)** I'd really love to hear from you, so please feel free to connect with me on [[LinkedIn]] and let me know how you're progressing.
 >
 > **[0:59](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/actualize-your-goals?u=76281980&t=59)** Finally, here are my parting words to you.
 >
@@ -1166,7 +1150,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Sustainable Business]] (2), [[Sustainability]] (2), power (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Sustainable Business]] (2), [[Sustainability]] (2), [[LinkedIn]] (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - congratulations (1)

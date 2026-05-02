@@ -90,16 +90,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### GPTs and ChatGPT: Introduction to crafting your own powerful AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-introduction-to-crafting-your-own-powerful-ai?u=76281980)
+#### [GPTs and ChatGPT: Introduction to crafting your own powerful AI](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-introduction-to-crafting-your-own-powerful-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-introduction-to-crafting-your-own-powerful-ai?u=76281980&t=0)** - Welcome to my class on custom GPTs. I am Jules White.
+> **[0:00](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-introduction-to-crafting-your-own-powerful-ai?u=76281980&t=0)** - Welcome to my class on [[Custom GPTs]]. I am Jules White.
 >
 > **[0:04](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-introduction-to-crafting-your-own-powerful-ai?u=76281980&t=4)** I'm a professor in computer science at Vanderbilt University.
 >
-> **[0:07](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-introduction-to-crafting-your-own-powerful-ai?u=76281980&t=7)** And I'm the senior advisor to the Chancellor on generative AI in enterprise and education.
+> **[0:07](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-introduction-to-crafting-your-own-powerful-ai?u=76281980&t=7)** And I'm the senior advisor to the Chancellor on [[Generative AI]] in enterprise and education.
 >
 > **[0:12](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-introduction-to-crafting-your-own-powerful-ai?u=76281980&t=12)** I'm going to talk to you about this fascinating new space of how we can build conversational assistance to help us control computing and to solve real-world problems.
 >
@@ -119,12 +118,11 @@ created: 2026-05-02
 > **Env Vars:** gpt (1)
 > **Speakers:** - welcome (1)
 
-#### GPTs and ChatGPT: Programming with prompts for effective AI instructions
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-programming-with-prompts-for-effective-ai-instructions?u=76281980)
+#### [GPTs and ChatGPT: Programming with prompts for effective AI instructions](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-programming-with-prompts-for-effective-ai-instructions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-programming-with-prompts-for-effective-ai-instructions?u=76281980&t=0)** - To really use generative AI effectively, we have to start thinking about programming it.
+> **[0:00](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-programming-with-prompts-for-effective-ai-instructions?u=76281980&t=0)** - To really use [[Generative AI]] effectively, we have to start thinking about programming it.
 >
 > **[0:05](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-programming-with-prompts-for-effective-ai-instructions?u=76281980&t=5)** Now, if you're not a software engineer or a computer scientist, this may seem alien to you, but it's really quite simple, and it's important for actually really getting the potential of generative AI.
 >
@@ -136,7 +134,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-programming-with-prompts-for-effective-ai-instructions?u=76281980&t=25)** Well, let's take a look at a really simple example.
 >
-> **[0:28](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-programming-with-prompts-for-effective-ai-instructions?u=76281980&t=28)** I've gone into ChatGPT, and I've said, "I'm going to the grocery store."
+> **[0:28](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-programming-with-prompts-for-effective-ai-instructions?u=76281980&t=28)** I've gone into [[ChatGPT]], and I've said, "I'm going to the grocery store."
 >
 > **[0:32](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-programming-with-prompts-for-effective-ai-instructions?u=76281980&t=32)** Really simple statement, not a lot of context about what this means, what it's supposed to do, and how does it respond?
 >
@@ -220,7 +218,7 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-programming-with-prompts-for-effective-ai-instructions?u=76281980&t=237)** Well, that would be something that's interest to me.
 >
-> **[4:00](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-programming-with-prompts-for-effective-ai-instructions?u=76281980&t=240)** Creative content generation data-driven wellness, not so much of an interest to me.
+> **[4:00](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-programming-with-prompts-for-effective-ai-instructions?u=76281980&t=240)** Creative content generation data-driven [[Wellness]], not so much of an interest to me.
 >
 > **[4:06](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-programming-with-prompts-for-effective-ai-instructions?u=76281980&t=246)** AI-assisted project management, innovative problem-solving sessions, enhanced environmental initiatives, interactive historical learning experiences.
 >
@@ -246,7 +244,7 @@ created: 2026-05-02
 >
 > **[4:51](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-programming-with-prompts-for-effective-ai-instructions?u=76281980&t=291)** I'm the Senior Advisor to the Chancellor in Generative AI and Enterprise and Education Solutions.
 >
-> **[4:55](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-programming-with-prompts-for-effective-ai-instructions?u=76281980&t=295)** I live in Nashville, Tennessee, and I teach a large class on Prompt Engineering on Coursera."
+> **[4:55](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-programming-with-prompts-for-effective-ai-instructions?u=76281980&t=295)** I live in Nashville, Tennessee, and I teach a large class on [[Prompt Engineering]] on Coursera."
 >
 > **[5:01](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-programming-with-prompts-for-effective-ai-instructions?u=76281980&t=301)** So now I've given it background information about me.
 >
@@ -274,7 +272,7 @@ created: 2026-05-02
 >
 > **[6:30](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-programming-with-prompts-for-effective-ai-instructions?u=76281980&t=390)** I wanted to say, "From now on, turn everything I give you into CSV."
 >
-> **[6:34](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-programming-with-prompts-for-effective-ai-instructions?u=76281980&t=394)** This is a comma-separated value or tabular data like you could import into a tool like Excel or Numbers.
+> **[6:34](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-programming-with-prompts-for-effective-ai-instructions?u=76281980&t=394)** This is a comma-separated value or tabular data like you could import into a tool like [[Microsoft Excel|Excel]] or Numbers.
 >
 > **[6:41](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-programming-with-prompts-for-effective-ai-instructions?u=76281980&t=401)** And so I want it to, no matter what I dump into it, it gives me structured information out.
 >
@@ -318,24 +316,23 @@ created: 2026-05-02
 >
 > **[8:49](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-programming-with-prompts-for-effective-ai-instructions?u=76281980&t=529)** We can program really complex things like, that no matter what you give it, it turns it into data.
 >
-> **[8:56](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-programming-with-prompts-for-effective-ai-instructions?u=76281980&t=536)** And suddenly we can build office applications, work applications, all kinds of complex things, and these all come from the simple idea that we can program how it responds in the future in the conversation.
+> **[8:56](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-programming-with-prompts-for-effective-ai-instructions?u=76281980&t=536)** And suddenly we can build [[Microsoft Office|office]] applications, work applications, all kinds of complex things, and these all come from the simple idea that we can program how it responds in the future in the conversation.
 >
-> **[9:09](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-programming-with-prompts-for-effective-ai-instructions?u=76281980&t=549)** That's the key to really, really building exciting customized versions of large language models like ChatGPT.
+> **[9:09](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-programming-with-prompts-for-effective-ai-instructions?u=76281980&t=549)** That's the key to really, really building exciting customized versions of [[Large Language Models (LLM)|large language models]] like ChatGPT.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (8), data (6), [[Generative AI]] (5), [[ChatGPT]] (5), ai (3)
+> **Frameworks & Libraries:** [[Generative AI]] (5), [[ChatGPT]] (5), [[Wellness]] (1), [[Prompt Engineering]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** gpt (2), csv (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - to (1)
 
-#### GPTs and ChatGPT: Mastering custom instructions for tailored AI performance
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-mastering-custom-instructions-for-tailored-ai-performance?u=76281980)
+#### [GPTs and ChatGPT: Mastering custom instructions for tailored AI performance](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-mastering-custom-instructions-for-tailored-ai-performance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-mastering-custom-instructions-for-tailored-ai-performance?u=76281980&t=0)** - Now if we have to go in every time we're going to interact with ChatGPT or a large language model and kind of like type all this background sort of programming in, from now on, do this, this, and this, that's kind of a pain.
+> **[0:00](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-mastering-custom-instructions-for-tailored-ai-performance?u=76281980&t=0)** - Now if we have to go in every time we're going to interact with [[ChatGPT]] or a large language model and kind of like type all this background sort of programming in, from now on, do this, this, and this, that's kind of a pain.
 >
 > **[0:15](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-mastering-custom-instructions-for-tailored-ai-performance?u=76281980&t=15)** There's also other issues with it.
 >
@@ -377,7 +374,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-mastering-custom-instructions-for-tailored-ai-performance?u=76281980&t=128)** So now we've got a new conversation.
 >
-> **[2:10](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-mastering-custom-instructions-for-tailored-ai-performance?u=76281980&t=130)** I'm going to switch it to GPT-4, and I'm going to say: Please explain some fun math concepts.
+> **[2:10](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-mastering-custom-instructions-for-tailored-ai-performance?u=76281980&t=130)** I'm going to switch it to [[GPT-4]], and I'm going to say: Please explain some fun math concepts.
 >
 > **[2:18](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-mastering-custom-instructions-for-tailored-ai-performance?u=76281980&t=138)** Now let's see if we get something different.
 >
@@ -427,7 +424,7 @@ created: 2026-05-02
 >
 > **[5:35](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-mastering-custom-instructions-for-tailored-ai-performance?u=76281980&t=335)** Now this is a key concept, and I just want to take a moment to explain this.
 >
-> **[5:41](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-mastering-custom-instructions-for-tailored-ai-performance?u=76281980&t=341)** Behind the scenes, when we're working with these tools, these large language models, we can introduce programming or instructions at the right point in time to change their behavior.
+> **[5:41](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-mastering-custom-instructions-for-tailored-ai-performance?u=76281980&t=341)** Behind the scenes, when we're working with these tools, these [[Large Language Models (LLM)|large language models]], we can introduce programming or instructions at the right point in time to change their behavior.
 >
 > **[5:53](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-mastering-custom-instructions-for-tailored-ai-performance?u=76281980&t=353)** We can give it new information, we can give it new rules, and we can do that conversationally, if we are power users, through the interface so that you type in the right things at the right time.
 >
@@ -487,15 +484,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (14), [[Programming]] (7), [[GPT-4]] (1), prompt (1), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (14), [[GPT-4]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** bmx (4), gpt (2)
 > **Definitions:** is a  (4)
 > **Analogies:** imagine (2), kind of like (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - now (1)
 
-#### GPTs and ChatGPT: Enhancing performance with retrieval-augmented generation
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-enhancing-performance-with-retrieval-augmented-generation?u=76281980)
+#### [GPTs and ChatGPT: Enhancing performance with retrieval-augmented generation](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-enhancing-performance-with-retrieval-augmented-generation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -507,7 +503,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-enhancing-performance-with-retrieval-augmented-generation?u=76281980&t=15)** We can go and give it new information.
 >
-> **[0:17](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-enhancing-performance-with-retrieval-augmented-generation?u=76281980&t=17)** But I really want to kind of take a moment to really drill into this point a little bit more and talk about an important concept called retrieval-augmented generation or RAG.
+> **[0:17](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-enhancing-performance-with-retrieval-augmented-generation?u=76281980&t=17)** But I really want to kind of take a moment to really drill into this point a little bit more and talk about an important concept called [[Retrieval-Augmented Generation (RAG)|retrieval-augmented generation]] or RAG.
 >
 > **[0:28](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-enhancing-performance-with-retrieval-augmented-generation?u=76281980&t=28)** It is a complicated-sounding term.
 >
@@ -521,13 +517,13 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-enhancing-performance-with-retrieval-augmented-generation?u=76281980&t=64)** So I'm going to give you an example of this.
 >
-> **[1:07](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-enhancing-performance-with-retrieval-augmented-generation?u=76281980&t=67)** So this is a news article from Vanderbilt from March 25th of 2024, and we have announced a new college dedicated to computing AI and data science.
+> **[1:07](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-enhancing-performance-with-retrieval-augmented-generation?u=76281980&t=67)** So this is a news article from Vanderbilt from March 25th of 2024, and we have announced a new college dedicated to computing AI and [[Data Science]].
 >
 > **[1:19](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-enhancing-performance-with-retrieval-augmented-generation?u=76281980&t=79)** Now of course, I've just instantly dated this video, but that's okay because I'm also going to show you in my other important piece.
 >
 > **[1:26](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-enhancing-performance-with-retrieval-augmented-generation?u=76281980&t=86)** So Vanderbilt just announced this.
 >
-> **[1:27](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-enhancing-performance-with-retrieval-augmented-generation?u=76281980&t=87)** Now what is the date that the training cut off for GPT-4, which is what I'm using in this conversation?
+> **[1:27](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-enhancing-performance-with-retrieval-augmented-generation?u=76281980&t=87)** Now what is the date that the training cut off for [[GPT-4]], which is what I'm using in this conversation?
 >
 > **[1:36](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-enhancing-performance-with-retrieval-augmented-generation?u=76281980&t=96)** So I say, "When is your training cutoff?"
 >
@@ -569,7 +565,7 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-enhancing-performance-with-retrieval-augmented-generation?u=76281980&t=222)** You're just not seeing it.
 >
-> **[3:44](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-enhancing-performance-with-retrieval-augmented-generation?u=76281980&t=224)** And then they're combining that information with your prompt and putting it all into ChatGPT, or GPT-4 in this case, and it's responding.
+> **[3:44](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-enhancing-performance-with-retrieval-augmented-generation?u=76281980&t=224)** And then they're combining that information with your prompt and putting it all into [[ChatGPT]], or GPT-4 in this case, and it's responding.
 >
 > **[3:53](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-enhancing-performance-with-retrieval-augmented-generation?u=76281980&t=233)** Okay, let's break this down and see what's happening.
 >
@@ -577,9 +573,9 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-enhancing-performance-with-retrieval-augmented-generation?u=76281980&t=240)** All right.
 >
-> **[4:01](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-enhancing-performance-with-retrieval-augmented-generation?u=76281980&t=241)** "Tell me about the new Generative AI Innovation program that Jules White's team is running at Vanderbilt."
+> **[4:01](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-enhancing-performance-with-retrieval-augmented-generation?u=76281980&t=241)** "Tell me about the new [[Generative AI]] Innovation program that Jules White's team is running at Vanderbilt."
 >
-> **[4:06](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-enhancing-performance-with-retrieval-augmented-generation?u=76281980&t=246)** This is a question that they cannot answer with current information because that announcement is trapped on my LinkedIn page and it does not have access to it.
+> **[4:06](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-enhancing-performance-with-retrieval-augmented-generation?u=76281980&t=246)** This is a question that they cannot answer with current information because that announcement is trapped on my [[LinkedIn]] page and it does not have access to it.
 >
 > **[4:16](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-enhancing-performance-with-retrieval-augmented-generation?u=76281980&t=256)** It probably can't find it.
 >
@@ -731,19 +727,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (27), [[Search]] (10), [[Generative AI]] (8), rag (7), web (7)
+> **Frameworks & Libraries:** [[Generative AI]] (8), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (5), [[Data Science]] (2), [[GPT-4]] (2), [[ChatGPT]] (1)
 > **Env Vars:** rag (7), gpt (3), cpu (1)
 > **Definitions:** is a  (5), is called (1)
 > **Analogies:** think of it as (3), just like (1), imagine (1), for example (1)
 > **CLI Commands:** find (4), make (1)
 > **Speakers:** - one (1)
 
-#### GPTs and ChatGPT: Building powerful AI with integrated capabilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-building-powerful-ai-with-integrated-capabilities?u=76281980)
+#### [GPTs and ChatGPT: Building powerful AI with integrated capabilities](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-building-powerful-ai-with-integrated-capabilities?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-building-powerful-ai-with-integrated-capabilities?u=76281980&t=0)** - Now that we've covered the really core concepts, I want to start taking a look at custom GPTs.
+> **[0:00](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-building-powerful-ai-with-integrated-capabilities?u=76281980&t=0)** - Now that we've covered the really core concepts, I want to start taking a look at [[Custom GPTs]].
 >
 > **[0:08](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-building-powerful-ai-with-integrated-capabilities?u=76281980&t=8)** What is this?
 >
@@ -763,7 +758,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-building-powerful-ai-with-integrated-capabilities?u=76281980&t=40)** Before I do that, I'm going to read what it says.
 >
-> **[0:43](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-building-powerful-ai-with-integrated-capabilities?u=76281980&t=43)** Create custom versions of ChatGPT that combine instructions, extra knowledge, and combination of skills.
+> **[0:43](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-building-powerful-ai-with-integrated-capabilities?u=76281980&t=43)** Create custom versions of [[ChatGPT]] that combine instructions, extra knowledge, and combination of skills.
 >
 > **[0:50](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-building-powerful-ai-with-integrated-capabilities?u=76281980&t=50)** Now, think about all the concepts that we just learned.
 >
@@ -785,7 +780,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-building-powerful-ai-with-integrated-capabilities?u=76281980&t=84)** And we could also make it automatically know about me and who I am.
 >
-> **[1:28](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-building-powerful-ai-with-integrated-capabilities?u=76281980&t=88)** Then we talked about retrieval-augmented generation or extra knowledge that we want to give it.
+> **[1:28](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-building-powerful-ai-with-integrated-capabilities?u=76281980&t=88)** Then we talked about [[Retrieval-Augmented Generation (RAG)|retrieval-augmented generation]] or extra knowledge that we want to give it.
 >
 > **[1:34](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-building-powerful-ai-with-integrated-capabilities?u=76281980&t=94)** So it stopped training at a certain point, but we saw that, through retrieval-augmented generation, we could give it extra knowledge that it could pull from, it could retrieve from, augment the prompt from, and then generate with.
 >
@@ -891,7 +886,7 @@ created: 2026-05-02
 >
 > **[6:28](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-building-powerful-ai-with-integrated-capabilities?u=76281980&t=388)** In an organization, you can go and create a custom GPT for your accounting department, and it automatically knows your rules of accounting.
 >
-> **[6:36](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-building-powerful-ai-with-integrated-capabilities?u=76281980&t=396)** It already has some prompt engineering built into it to do useful things for that group.
+> **[6:36](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-building-powerful-ai-with-integrated-capabilities?u=76281980&t=396)** It already has some [[Prompt Engineering]] built into it to do useful things for that group.
 >
 > **[6:41](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-building-powerful-ai-with-integrated-capabilities?u=76281980&t=401)** It already has knowledge built into it.
 >
@@ -943,7 +938,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (7), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (4), hit (4), [[Programming]] (3), [[Custom GPTs]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (7), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (4), [[Custom GPTs]] (1), [[Prompt Engineering]] (1)
 > **Env Vars:** gpt (15), rag (1)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** just like (1), similar to (1), it's like (1), think of it as (1)
@@ -951,20 +946,19 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - now (1)
 
-#### GPTs and ChatGPT: Understanding tool use for enhanced capabilities and actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-understanding-tool-use-for-enhanced-capabilities-and-actions?u=76281980)
+#### [GPTs and ChatGPT: Understanding tool use for enhanced capabilities and actions](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-understanding-tool-use-for-enhanced-capabilities-and-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-understanding-tool-use-for-enhanced-capabilities-and-actions?u=76281980&t=0)** - Custom GPTs can also access tools or actions.
+> **[0:00](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-understanding-tool-use-for-enhanced-capabilities-and-actions?u=76281980&t=0)** - [[Custom GPTs]] can also access tools or actions.
 >
 > **[0:04](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-understanding-tool-use-for-enhanced-capabilities-and-actions?u=76281980&t=4)** And I want to talk to you a little bit about this.
 >
-> **[0:06](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-understanding-tool-use-for-enhanced-capabilities-and-actions?u=76281980&t=6)** Now, if you go to the capabilities section underneath a GPT, which I've opened up right here, you'll see a bunch of things like web browsing, DALL-E image generation, code interpreter, and also actions.
+> **[0:06](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-understanding-tool-use-for-enhanced-capabilities-and-actions?u=76281980&t=6)** Now, if you go to the capabilities section underneath a GPT, which I've opened up right here, you'll see a bunch of things like web browsing, [[DALL-E]] image generation, code interpreter, and also actions.
 >
 > **[0:19](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-understanding-tool-use-for-enhanced-capabilities-and-actions?u=76281980&t=19)** And so I want to give you some intuition about what this is and how it works.
 >
-> **[0:23](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-understanding-tool-use-for-enhanced-capabilities-and-actions?u=76281980&t=23)** So the idea is there are certain problems that the large language model like GPT-4 just can't solve on its own.
+> **[0:23](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-understanding-tool-use-for-enhanced-capabilities-and-actions?u=76281980&t=23)** So the idea is there are certain problems that the large language model like [[GPT-4]] just can't solve on its own.
 >
 > **[0:30](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-understanding-tool-use-for-enhanced-capabilities-and-actions?u=76281980&t=30)** It needs to go and get help from the external world.
 >
@@ -972,7 +966,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-understanding-tool-use-for-enhanced-capabilities-and-actions?u=76281980&t=37)** So I might want to have it be able to go and search the web to get new information.
 >
-> **[0:42](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-understanding-tool-use-for-enhanced-capabilities-and-actions?u=76281980&t=42)** Kind of like we talked about retrieval-augmented generation.
+> **[0:42](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-understanding-tool-use-for-enhanced-capabilities-and-actions?u=76281980&t=42)** Kind of like we talked about [[Retrieval-Augmented Generation (RAG)|retrieval-augmented generation]].
 >
 > **[0:45](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-understanding-tool-use-for-enhanced-capabilities-and-actions?u=76281980&t=45)** This is giving it retrieval-augmented generation where it can go and retrieve information from the web and then it insert it into the prompt.
 >
@@ -1004,13 +998,13 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-understanding-tool-use-for-enhanced-capabilities-and-actions?u=76281980&t=112)** Now I'm not going to go into detail about how this worked because at this point, you're going to need to be a programmer, typically, to do this.
 >
-> **[2:01](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-understanding-tool-use-for-enhanced-capabilities-and-actions?u=76281980&t=121)** Now you may be able to go and work your way through this with ChatGPT and solve it yourself, but I'm not going to go into detail.
+> **[2:01](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-understanding-tool-use-for-enhanced-capabilities-and-actions?u=76281980&t=121)** Now you may be able to go and work your way through this with [[ChatGPT]] and solve it yourself, but I'm not going to go into detail.
 >
 > **[2:07](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-understanding-tool-use-for-enhanced-capabilities-and-actions?u=76281980&t=127)** But basically, this is where you would go in and plug in some action.
 >
 > **[2:11](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-understanding-tool-use-for-enhanced-capabilities-and-actions?u=76281980&t=131)** It would be accessing an API typically from your internal organization or that's open on the web.
 >
-> **[2:18](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-understanding-tool-use-for-enhanced-capabilities-and-actions?u=76281980&t=138)** And they have a number of examples here that you can look at like this weather, JSON.
+> **[2:18](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-understanding-tool-use-for-enhanced-capabilities-and-actions?u=76281980&t=138)** And they have a number of examples here that you can look at like this weather, [[JSON]].
 >
 > **[2:22](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-understanding-tool-use-for-enhanced-capabilities-and-actions?u=76281980&t=142)** Now the key thing is, is that each of these has some sort of thing that it can do for the model that's described, like the description, is it retrieves current weather data for a location?
 >
@@ -1090,7 +1084,7 @@ created: 2026-05-02
 >
 > **[6:25](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-understanding-tool-use-for-enhanced-capabilities-and-actions?u=76281980&t=385)** So you notice, I've got a person's name and I've got a specific acronym, a TPS report that it doesn't know what it is.
 >
-> **[6:33](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-understanding-tool-use-for-enhanced-capabilities-and-actions?u=76281980&t=393)** It's a little office space action there for you.
+> **[6:33](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-understanding-tool-use-for-enhanced-capabilities-and-actions?u=76281980&t=393)** It's a little [[Microsoft Office|office]] space action there for you.
 >
 > **[6:36](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-understanding-tool-use-for-enhanced-capabilities-and-actions?u=76281980&t=396)** So I tell it this and notice what it responds with.
 >
@@ -1196,7 +1190,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), prompt (5), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (2), database (2), [[ChatGPT]] (2)
+> **Frameworks & Libraries:** [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (2), [[ChatGPT]] (2), [[Custom GPTs]] (1), [[DALL-E]] (1), [[GPT-4]] (1)
 > **Env Vars:** tps (12), gpt (5), dall (1), api (1), json (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (3)
@@ -1210,8 +1204,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### GPTs and ChatGPT: Creating a persona for your custom AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-creating-a-persona-for-your-custom-ai?u=76281980)
+#### [GPTs and ChatGPT: Creating a persona for your custom AI](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-creating-a-persona-for-your-custom-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1273,7 +1266,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-creating-a-persona-for-your-custom-ai?u=76281980&t=164)** Very different persona, different role, but also different sort of perspective on what things are and why they're being done.
 >
-> **[2:50](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-creating-a-persona-for-your-custom-ai?u=76281980&t=170)** And then the rest is the same.
+> **[2:50](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-creating-a-persona-for-your-custom-ai?u=76281980&t=170)** And then the [[Representational State Transfer (REST)|rest]] is the same.
 >
 > **[2:51](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-creating-a-persona-for-your-custom-ai?u=76281980&t=171)** Same policy, same instructions, you're going to answer questions.
 >
@@ -1347,7 +1340,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (8), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** gpt (9)
 > **Cross-References:** coming up (1)
 > **Definitions:** is a  (1)
@@ -1355,14 +1348,13 @@ created: 2026-05-02
 > **Warnings:** caveat (1)
 > **Speakers:** - when (1)
 
-#### GPTs and ChatGPT: The importance of effective testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-the-importance-of-effective-testing?u=76281980)
+#### [GPTs and ChatGPT: The importance of effective testing](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-the-importance-of-effective-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-the-importance-of-effective-testing?u=76281980&t=0)** - If you're going to build a custom GPT for your organization, or it's one that you're going to take to the external world, or just one that you're going to use yourself and you're really going to dig into it, one of the most important things you can do from the very beginning is to build a benchmark or a set of metrics to measure how well that custom GPT is doing.
 >
-> **[0:21](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-the-importance-of-effective-testing?u=76281980&t=21)** Now, if you look around in generative AI, this is something that gets done all the time, basically.
+> **[0:21](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-the-importance-of-effective-testing?u=76281980&t=21)** Now, if you look around in [[Generative AI]], this is something that gets done all the time, basically.
 >
 > **[0:25](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-the-importance-of-effective-testing?u=76281980&t=25)** We benchmark the models, we see how well they reason, how well they perform different tasks, the type of tasks that they don't do well on.
 >
@@ -1374,7 +1366,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-the-importance-of-effective-testing?u=76281980&t=50)** A benchmark is something simple that we can do.
 >
-> **[0:54](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-the-importance-of-effective-testing?u=76281980&t=54)** Testing is something critically important to make sure that we build custom GPTs that actually help people solve problems as opposed to just creating more problems and headaches for us.
+> **[0:54](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-the-importance-of-effective-testing?u=76281980&t=54)** Testing is something critically important to make sure that we build [[Custom GPTs]] that actually help people solve problems as opposed to just creating more problems and headaches for us.
 >
 > **[1:05](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-the-importance-of-effective-testing?u=76281980&t=65)** The only way to know if we're doing a good job is to create the benchmark and actually measure if we are moving towards a successful generative AI solution.
 
@@ -1385,8 +1377,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - if (1)
 
-#### GPTs and ChatGPT: Building benchmarks to measure AI performance
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-building-benchmarks-to-measure-ai-performance?u=76281980)
+#### [GPTs and ChatGPT: Building benchmarks to measure AI performance](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-building-benchmarks-to-measure-ai-performance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1432,7 +1423,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-building-benchmarks-to-measure-ai-performance?u=76281980&t=134)** It's something that a human being is going to have to look at.
 >
-> **[2:17](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-building-benchmarks-to-measure-ai-performance?u=76281980&t=137)** Or we may use GPT-4 in the future to grade itself or to grade other models if we're using, you know, some future model.
+> **[2:17](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-building-benchmarks-to-measure-ai-performance?u=76281980&t=137)** Or we may use [[GPT-4]] in the future to grade itself or to grade other models if we're using, you know, some future model.
 >
 > **[2:24](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-building-benchmarks-to-measure-ai-performance?u=76281980&t=144)** And so we want to spell out exactly what we are looking for in the output, you know, what makes this answer good or bad, and how if we change that answer in different ways, would we lose points or increase points?
 >
@@ -1492,7 +1483,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (1), [[GPT-4]] (1), next (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[GPT-4]] (1)
 > **Env Vars:** gpt (9)
 > **CLI Commands:** make (6)
 > **Definitions:** is a  (1), is an  (1)
@@ -1500,8 +1491,7 @@ created: 2026-05-02
 > **Cross-References:** we covered (1)
 > **Speakers:** - anytime (1)
 
-#### GPTs and ChatGPT: Generating test cases with custom AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-generating-test-cases-with-custom-ai?u=76281980)
+#### [GPTs and ChatGPT: Generating test cases with custom AI](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-generating-test-cases-with-custom-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1529,7 +1519,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-generating-test-cases-with-custom-ai?u=76281980&t=64)** So, I've started putting together a custom GPT.
 >
-> **[1:07](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-generating-test-cases-with-custom-ai?u=76281980&t=67)** I've also included a document with all of the different sort of design considerations for test cases for custom GPTs.
+> **[1:07](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-generating-test-cases-with-custom-ai?u=76281980&t=67)** I've also included a document with all of the different sort of design considerations for test cases for [[Custom GPTs]].
 >
 > **[1:15](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-generating-test-cases-with-custom-ai?u=76281980&t=75)** Now, there's lots and lots of additional design considerations you might want to consider for your particular domain, like compliance, or regulatory, or other things, but this is a good starting point.
 >
@@ -1667,7 +1657,7 @@ created: 2026-05-02
 >
 > **[7:30](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-generating-test-cases-with-custom-ai?u=76281980&t=450)** So, we could start tailoring our test cases and really thinking about them from a lot of different dimensions.
 >
-> **[7:35](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-generating-test-cases-with-custom-ai?u=76281980&t=455)** We could also go and update our custom GPT so it outputs them as comma-separated values or in some structured format that we can import into like an Excel file that we're using to keep track of all this.
+> **[7:35](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-generating-test-cases-with-custom-ai?u=76281980&t=455)** We could also go and update our custom GPT so it outputs them as comma-separated values or in some structured format that we can import into like an [[Microsoft Excel|Excel]] file that we're using to keep track of all this.
 >
 > **[7:48](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-generating-test-cases-with-custom-ai?u=76281980&t=468)** Or to import into some test case system where we track results.
 >
@@ -1683,18 +1673,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (4), [[Microsoft Excel|Excel]] (2), [[Custom GPTs]] (1), next (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Custom GPTs]] (1)
 > **Env Vars:** gpt (15), csv (1)
 > **Definitions:** is a  (6)
 > **CLI Commands:** make (3)
 > **Speakers:** - thinking (1)
 
-#### GPTs and ChatGPT: Helping users solve problems without giving direct answers
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-helping-users-solve-problems-without-giving-direct-answers?u=76281980)
+#### [GPTs and ChatGPT: Helping users solve problems without giving direct answers](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-helping-users-solve-problems-without-giving-direct-answers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-helping-users-solve-problems-without-giving-direct-answers?u=76281980&t=0)** - When we're using generative AI, we should think about using it to support human reasoning, to help human beings solve problems, not necessarily just to give them answers.
+> **[0:00](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-helping-users-solve-problems-without-giving-direct-answers?u=76281980&t=0)** - When we're using [[Generative AI]], we should think about using it to support human reasoning, to help human beings solve problems, not necessarily just to give them answers.
 >
 > **[0:11](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-helping-users-solve-problems-without-giving-direct-answers?u=76281980&t=11)** Now, there's a bunch of reasons why we want to do that.
 >
@@ -1712,7 +1701,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-helping-users-solve-problems-without-giving-direct-answers?u=76281980&t=44)** And we do not want to go there.
 >
-> **[0:46](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-helping-users-solve-problems-without-giving-direct-answers?u=76281980&t=46)** We want to think about creating custom GPTs that help people solve problems, that help people get things done, that help people learn, that help people be more creative.
+> **[0:46](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-helping-users-solve-problems-without-giving-direct-answers?u=76281980&t=46)** We want to think about creating [[Custom GPTs]] that help people solve problems, that help people get things done, that help people learn, that help people be more creative.
 >
 > **[0:56](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-helping-users-solve-problems-without-giving-direct-answers?u=76281980&t=56)** We don't want to have people thinking less.
 >
@@ -1722,7 +1711,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-helping-users-solve-problems-without-giving-direct-answers?u=76281980&t=77)** This is different than just giving them an answer.
 >
-> **[1:19](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-helping-users-solve-problems-without-giving-direct-answers?u=76281980&t=79)** So what we're going to see in this module is a number of simple techniques that we can use to control the information that goes back to the user, how we present it, how we explain it, what we do and do not do in order to make sure that the user stays engaged and that their reasoning, their augmented intelligence is what we're working with, not just the artificial intelligence that's trying to give them the answers that they can check out.
+> **[1:19](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-helping-users-solve-problems-without-giving-direct-answers?u=76281980&t=79)** So what we're going to see in this module is a number of simple techniques that we can use to control the information that goes back to the user, how we present it, how we explain it, what we do and do not do in order to make sure that the user stays engaged and that their reasoning, their augmented intelligence is what we're working with, not just the [[Artificial Intelligence (AI)|artificial intelligence]] that's trying to give them the answers that they can check out.
 >
 > **[1:44](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-helping-users-solve-problems-without-giving-direct-answers?u=76281980&t=104)** We're going to do things better.
 >
@@ -1743,8 +1732,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### GPTs and ChatGPT: Citing knowledge to ensure accuracy and credibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-citing-knowledge-to-ensure-accuracy-and-credibility?u=76281980)
+#### [GPTs and ChatGPT: Citing knowledge to ensure accuracy and credibility](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-citing-knowledge-to-ensure-accuracy-and-credibility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1806,15 +1794,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), [[Search]] (1)
 > **CLI Commands:** find (3), make (2)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** gpt (2)
 > **Exercise Files:** download the (1)
 > **Speakers:** - if (1)
 
-#### GPTs and ChatGPT: Effective output formatting for enhanced readability
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-effective-output-formatting-for-enhanced-readability?u=76281980)
+#### [GPTs and ChatGPT: Effective output formatting for enhanced readability](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-effective-output-formatting-for-enhanced-readability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1878,7 +1864,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-effective-output-formatting-for-enhanced-readability?u=76281980&t=161)** Now I'm not going to give you a complete explanation of markdown, but you can go and look it up.
 >
-> **[2:46](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-effective-output-formatting-for-enhanced-readability?u=76281980&t=166)** It's a great thing to use a, you know, exploration of ChatGPT for and say, "How would I format this in markdown?"
+> **[2:46](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-effective-output-formatting-for-enhanced-readability?u=76281980&t=166)** It's a great thing to use a, you know, exploration of [[ChatGPT]] for and say, "How would I format this in markdown?"
 >
 > **[2:53](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-effective-output-formatting-for-enhanced-readability?u=76281980&t=173)** And sort of explain what you're trying to achieve.
 >
@@ -1976,7 +1962,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (1), business (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1)
 > **Exercise Files:** template (15)
 > **Definitions:** is a  (4), is called (1)
 > **CLI Commands:** make (2)
@@ -1984,14 +1970,13 @@ created: 2026-05-02
 > **Best Practices:** the key is (1)
 > **Speakers:** - thinking (1)
 
-#### GPTs and ChatGPT: Providing accurate information and ensuring factual responses
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-providing-accurate-information-and-ensuring-factual-responses?u=76281980)
+#### [GPTs and ChatGPT: Providing accurate information and ensuring factual responses](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-providing-accurate-information-and-ensuring-factual-responses?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-providing-accurate-information-and-ensuring-factual-responses?u=76281980&t=0)** - A lot of times, what we try to do is we try to take custom GPTs all the way to the end.
+> **[0:00](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-providing-accurate-information-and-ensuring-factual-responses?u=76281980&t=0)** - A lot of times, what we try to do is we try to take [[Custom GPTs]] all the way to the end.
 >
-> **[0:05](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-providing-accurate-information-and-ensuring-factual-responses?u=76281980&t=5)** That is, we try to eliminate the user too much from the decision-making process.
+> **[0:05](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-providing-accurate-information-and-ensuring-factual-responses?u=76281980&t=5)** That is, we try to eliminate the user too much from the [[Decision-Making]] process.
 >
 > **[0:11](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-providing-accurate-information-and-ensuring-factual-responses?u=76281980&t=11)** But, really, our goal is to help the user solve a problem, to accomplish something.
 >
@@ -2003,7 +1988,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-providing-accurate-information-and-ensuring-factual-responses?u=76281980&t=27)** Let's tap into it so that we get better answers.
 >
-> **[0:30](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-providing-accurate-information-and-ensuring-factual-responses?u=76281980&t=30)** So rather than artificial intelligence that's replacing our user, let's augment their intelligence in their decision making so that they can make better decisions or solve problems faster.
+> **[0:30](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-providing-accurate-information-and-ensuring-factual-responses?u=76281980&t=30)** So rather than [[Artificial Intelligence (AI)|artificial intelligence]] that's replacing our user, let's augment their intelligence in their decision making so that they can make better decisions or solve problems faster.
 >
 > **[0:40](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-providing-accurate-information-and-ensuring-factual-responses?u=76281980&t=40)** Now, what does this look like to do this?
 >
@@ -2117,7 +2102,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Custom GPTs]] (1), [[Decision-Making]] (1), power (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Custom GPTs]] (1), [[Decision-Making]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (6)
 > **Env Vars:** gpt (5)
 > **Definitions:** is a  (2)
@@ -2126,8 +2111,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - a (1)
 
-#### GPTs and ChatGPT: Hedging while helping—crafting balanced responses
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-hedging-while-helping-crafting-balanced-responses?u=76281980)
+#### [GPTs and ChatGPT: Hedging while helping—crafting balanced responses](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-hedging-while-helping-crafting-balanced-responses?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2217,7 +2201,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), prompt (1), game (1)
 > **Env Vars:** gpt (5)
 > **CLI Commands:** make (2)
 > **Warnings:** be aware (2)
@@ -2226,12 +2209,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - as (1)
 
-#### GPTs and ChatGPT: Designing interactive experiences with menu action patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-designing-interactive-experiences-with-menu-action-patterns?u=76281980)
+#### [GPTs and ChatGPT: Designing interactive experiences with menu action patterns](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-designing-interactive-experiences-with-menu-action-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-designing-interactive-experiences-with-menu-action-patterns?u=76281980&t=0)** - Although custom GPTs interact with text, it doesn't mean that our users have to type everything from scratch, think of everything from scratch.
+> **[0:00](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-designing-interactive-experiences-with-menu-action-patterns?u=76281980&t=0)** - Although [[Custom GPTs]] interact with text, it doesn't mean that our users have to type everything from scratch, think of everything from scratch.
 >
 > **[0:09](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-designing-interactive-experiences-with-menu-action-patterns?u=76281980&t=9)** Yes, we can do the conversation starters, but we can do things that are more powerful than that.
 >
@@ -2359,17 +2341,17 @@ created: 2026-05-02
 >
 > **[5:10](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-designing-interactive-experiences-with-menu-action-patterns?u=76281980&t=310)** So if you think particularly about internal use cases, for example, like when you want to go and help operational efficiency, well one simple thing you can do with a custom GPT is build a bunch of menu actions so people don't have to type in long prompts or worry about getting them right or wrong or knowing what to do.
 >
-> **[5:25](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-designing-interactive-experiences-with-menu-action-patterns?u=76281980&t=325)** You just say, here's some options and they can type in slash a short word and have a whole complicated thing happen.
+> **[5:25](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-designing-interactive-experiences-with-menu-action-patterns?u=76281980&t=325)** You just say, here's some options and they can type in slash a short [[Microsoft Word|word]] and have a whole complicated thing happen.
 >
 > **[5:31](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-designing-interactive-experiences-with-menu-action-patterns?u=76281980&t=331)** So the menu actions pattern is a really powerful one with custom GPT that can help you build interactive GPTs with sort of all these different pathways and commands that can be run.
 >
 > **[5:41](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-designing-interactive-experiences-with-menu-action-patterns?u=76281980&t=341)** You could actually have probably hierarchies of menus, all kinds of things.
 >
-> **[5:44](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-designing-interactive-experiences-with-menu-action-patterns?u=76281980&t=344)** But it's something absolutely worth exploring and thinking about how you can build it into your ChatGPT.
+> **[5:44](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-designing-interactive-experiences-with-menu-action-patterns?u=76281980&t=344)** But it's something absolutely worth exploring and thinking about how you can build it into your [[ChatGPT]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), prompt (2), [[Custom GPTs]] (1), [[Microsoft Word|Word]] (1), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[Custom GPTs]] (1), [[Microsoft Word|Word]] (1), [[ChatGPT]] (1)
 > **Env Vars:** gpt (5), gbt (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
@@ -2382,14 +2364,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### GPTs and ChatGPT: Finding additional resources and support
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-finding-additional-resources-and-support?u=76281980)
+#### [GPTs and ChatGPT: Finding additional resources and support](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-finding-additional-resources-and-support?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-finding-additional-resources-and-support?u=76281980&t=0)** - We can help humans solve problems by helping get them in touch with other human beings that can give them the answers or solve the problem that they need solved.
 >
-> **[0:10](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-finding-additional-resources-and-support?u=76281980&t=10)** We don't always have to just rely on generative AI to do everything.
+> **[0:10](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-finding-additional-resources-and-support?u=76281980&t=10)** We don't always have to just rely on [[Generative AI]] to do everything.
 >
 > **[0:14](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-finding-additional-resources-and-support?u=76281980&t=14)** So a simple way to tap into this in a custom GPT is just provide contact at the end of every answer.
 >
@@ -2401,7 +2382,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-finding-additional-resources-and-support?u=76281980&t=32)** Here's a set of human beings that you can email.
 >
-> **[0:35](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-finding-additional-resources-and-support?u=76281980&t=35)** Here's where you can put in a support ticket, whatever it is, and we can have intelligent routing.
+> **[0:35](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-finding-additional-resources-and-support?u=76281980&t=35)** Here's where you can put in a support ticket, whatever it is, and we can have intelligent [[Routing]].
 >
 > **[0:40](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-finding-additional-resources-and-support?u=76281980&t=40)** We can say, if it's a question about this, you should direct it to this place.
 >
@@ -2447,12 +2428,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - we (1)
 
-#### GPTs and ChatGPT: Ensuring that GPTs have the information for better decision-making
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-ensuring-that-gpts-have-the-information-for-better-decision-making?u=76281980)
+#### [GPTs and ChatGPT: Ensuring that GPTs have the information for better decision-making](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-ensuring-that-gpts-have-the-information-for-better-decision-making?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-ensuring-that-gpts-have-the-information-for-better-decision-making?u=76281980&t=0)** - Generative AI always wants to try to solve the problem and this leads to hallucination.
+> **[0:00](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-ensuring-that-gpts-have-the-information-for-better-decision-making?u=76281980&t=0)** - [[Generative AI]] always wants to try to solve the problem and this leads to hallucination.
 >
 > **[0:06](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-ensuring-that-gpts-have-the-information-for-better-decision-making?u=76281980&t=6)** And we've all heard about hallucination, this is when it tries to come up with an answer that fits.
 >
@@ -2544,16 +2524,15 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Speakers:** - generative (1)
 
-#### GPTs and ChatGPT: Flipped interaction pattern for dynamic conversations
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-flipped-interaction-pattern-for-dynamic-conversations?u=76281980)
+#### [GPTs and ChatGPT: Flipped interaction pattern for dynamic conversations](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-flipped-interaction-pattern-for-dynamic-conversations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-flipped-interaction-pattern-for-dynamic-conversations?u=76281980&t=0)** - An incredibly useful prompt pattern to know when you're building custom GPTs is the flipped interaction pattern.
+> **[0:00](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-flipped-interaction-pattern-for-dynamic-conversations?u=76281980&t=0)** - An incredibly useful prompt pattern to know when you're building [[Custom GPTs]] is the flipped interaction pattern.
 >
 > **[0:07](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-flipped-interaction-pattern-for-dynamic-conversations?u=76281980&t=7)** So what is this pattern?
 >
-> **[0:09](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-flipped-interaction-pattern-for-dynamic-conversations?u=76281980&t=9)** Well, we think about telling ChatGPT what to do.
+> **[0:09](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-flipped-interaction-pattern-for-dynamic-conversations?u=76281980&t=9)** Well, we think about telling [[ChatGPT]] what to do.
 >
 > **[0:12](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-flipped-interaction-pattern-for-dynamic-conversations?u=76281980&t=12)** We think about asking it questions.
 >
@@ -2633,7 +2612,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-flipped-interaction-pattern-for-dynamic-conversations?u=76281980&t=181)** But I'm not doing that here.
 >
-> **[3:03](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-flipped-interaction-pattern-for-dynamic-conversations?u=76281980&t=183)** Now one thing that's interesting about this and something that you know, I think is a really powerful thing to know is, if you're going through this questioning process and you do get to a point where you get a little like, hey, I don't want to ask anymore questions, just tell it to choose the rest.
+> **[3:03](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-flipped-interaction-pattern-for-dynamic-conversations?u=76281980&t=183)** Now one thing that's interesting about this and something that you know, I think is a really powerful thing to know is, if you're going through this questioning process and you do get to a point where you get a little like, hey, I don't want to ask anymore questions, just tell it to choose the [[Representational State Transfer (REST)|rest]].
 >
 > **[3:18](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-flipped-interaction-pattern-for-dynamic-conversations?u=76281980&t=198)** And kind of what you're basically saying is, I've given you a bunch of your information.
 >
@@ -2661,18 +2640,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (2), [[Custom GPTs]] (2), [[ChatGPT]] (2), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[Custom GPTs]] (2), [[ChatGPT]] (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** gpt (4), gbt (1)
 > **Definitions:** is a  (3)
 > **Analogies:** picture (1)
 > **Speakers:** - an (1)
 
-#### GPTs and ChatGPT: Addressing missing context for better user interaction
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-addressing-missing-context-for-better-user-interaction?u=76281980)
+#### [GPTs and ChatGPT: Addressing missing context for better user interaction](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-addressing-missing-context-for-better-user-interaction?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-addressing-missing-context-for-better-user-interaction?u=76281980&t=0)** - Context is critically important to writing really good custom GPTs and having them be able to effectively help human beings.
+> **[0:00](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-addressing-missing-context-for-better-user-interaction?u=76281980&t=0)** - Context is critically important to writing really good [[Custom GPTs]] and having them be able to effectively help human beings.
 >
 > **[0:08](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-addressing-missing-context-for-better-user-interaction?u=76281980&t=8)** But one of the pieces of context that's often missing is who the user is that's interacting with the GPT, and either what they're interested in or what their role is.
 >
@@ -2704,7 +2682,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-addressing-missing-context-for-better-user-interaction?u=76281980&t=90)** The way we solve it is with the flipped interaction pattern.
 >
-> **[1:33](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-addressing-missing-context-for-better-user-interaction?u=76281980&t=93)** And the idea behind this is we ask ChatGPT or GPT-4, basically, to go and ask us questions in order to elicit information.
+> **[1:33](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-addressing-missing-context-for-better-user-interaction?u=76281980&t=93)** And the idea behind this is we ask [[ChatGPT]] or [[GPT-4]], basically, to go and ask us questions in order to elicit information.
 >
 > **[1:43](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-addressing-missing-context-for-better-user-interaction?u=76281980&t=103)** In this case, what we're going to do is we're going to instruct the custom GPT to go and ask the user questions about their role and who they are first, in order to determine what they are or who they are, and basically are they a CS faculty or not?
 >
@@ -2794,18 +2772,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Custom GPTs]] (1), [[ChatGPT]] (1), [[GPT-4]] (1), hr (1)
+> **Frameworks & Libraries:** [[Custom GPTs]] (1), [[ChatGPT]] (1), [[GPT-4]] (1)
 > **Env Vars:** gpt (7)
 > **CLI Commands:** make (5), find (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - context (1)
 
-#### GPTs and ChatGPT: Creating tailored user experiences
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-creating-tailored-user-experiences?u=76281980)
+#### [GPTs and ChatGPT: Creating tailored user experiences](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-creating-tailored-user-experiences?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-creating-tailored-user-experiences?u=76281980&t=0)** - Just like software, we can create custom GPTs that have lots of different features that we can enable or disable, or that can be customized to the preferences of the user.
+> **[0:00](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-creating-tailored-user-experiences?u=76281980&t=0)** - Just like software, we can create [[Custom GPTs]] that have lots of different features that we can enable or disable, or that can be customized to the preferences of the user.
 >
 > **[0:10](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-creating-tailored-user-experiences?u=76281980&t=10)** So I'm going to give you a really simple example of how we can use this idea of customization and features to build a more useful custom GPT.
 >
@@ -2877,7 +2854,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (9), [[Custom GPTs]] (1), business (1)
+> **Frameworks & Libraries:** [[Custom GPTs]] (1)
 > **Env Vars:** faq (14), gpt (3)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
@@ -2889,8 +2866,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### GPTs and ChatGPT: Setting boundaries and defining limits in AI responses
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-setting-boundaries-and-defining-limits-in-ai-responses?u=76281980)
+#### [GPTs and ChatGPT: Setting boundaries and defining limits in AI responses](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-setting-boundaries-and-defining-limits-in-ai-responses?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2930,7 +2906,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-setting-boundaries-and-defining-limits-in-ai-responses?u=76281980&t=98)** Now, luckily, it says, "Well, I'm not going to generate it for you directly."
 >
-> **[1:42](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-setting-boundaries-and-defining-limits-in-ai-responses?u=76281980&t=102)** Even though I think DALL-E was actually enabled for it, it decides not to.
+> **[1:42](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-setting-boundaries-and-defining-limits-in-ai-responses?u=76281980&t=102)** Even though I think [[DALL-E]] was actually enabled for it, it decides not to.
 >
 > **[1:47](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-setting-boundaries-and-defining-limits-in-ai-responses?u=76281980&t=107)** But it goes ahead and creates a prompt for me that will supposedly generate an image of a kitten.
 >
@@ -3002,13 +2978,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (4), [[DALL-E]] (2), express (1)
+> **Frameworks & Libraries:** [[DALL-E]] (2)
 > **Env Vars:** gpt (15), dall (2)
 > **CLI Commands:** make (4), rails (2)
 > **Speakers:** - it (1)
 
-#### GPTs and ChatGPT: Responding to knowledge gaps with effective strategies
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-responding-to-knowledge-gaps-with-effective-strategies?u=76281980)
+#### [GPTs and ChatGPT: Responding to knowledge gaps with effective strategies](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-responding-to-knowledge-gaps-with-effective-strategies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3126,7 +3101,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (9), prompt (2)
 > **Env Vars:** gpt (11)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), is an  (1)
@@ -3134,9 +3108,9 @@ created: 2026-05-02
 > **Best Practices:** the key is (1)
 > **Warnings:** be careful (1)
 > **Prerequisites:** required to (1)
+> **Speakers:** - we (1)
 
-#### GPTs and ChatGPT: Handling ambiguity and refining user prompts
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-handling-ambiguity-and-refining-user-prompts?u=76281980)
+#### [GPTs and ChatGPT: Handling ambiguity and refining user prompts](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-handling-ambiguity-and-refining-user-prompts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3262,14 +3236,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (8), prompt (2)
 > **Env Vars:** gpt (13), gbt (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - one (1)
 
-#### GPTs and ChatGPT: Enforcing boundaries with alternative approaches
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-enforcing-boundaries-with-alternative-approaches?u=76281980)
+#### [GPTs and ChatGPT: Enforcing boundaries with alternative approaches](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-enforcing-boundaries-with-alternative-approaches?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3363,15 +3335,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), prompt (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** gpt (3)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 > **Speakers:** - we (1)
 
-#### GPTs and ChatGPT: Ensuring accuracy with cognitive verifier patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-ensuring-accuracy-with-cognitive-verifier-patterns?u=76281980)
+#### [GPTs and ChatGPT: Ensuring accuracy with cognitive verifier patterns](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-ensuring-accuracy-with-cognitive-verifier-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3455,7 +3425,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3)
 > **Env Vars:** gpt (6)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
@@ -3467,8 +3436,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### GPTs and ChatGPT: Managing ambiguity in concept mapping
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-managing-ambiguity-in-concept-mapping?u=76281980)
+#### [GPTs and ChatGPT: Managing ambiguity in concept mapping](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-managing-ambiguity-in-concept-mapping?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3544,14 +3512,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), prompt (1)
 > **Env Vars:** gpt (7)
 > **Definitions:** is a  (2)
 > **Warnings:** be careful (2)
 > **Speakers:** - a (1)
 
-#### GPTs and ChatGPT: Resolving knowledge conflicts in AI outputs
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-resolving-knowledge-conflicts-in-ai-outputs?u=76281980)
+#### [GPTs and ChatGPT: Resolving knowledge conflicts in AI outputs](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-resolving-knowledge-conflicts-in-ai-outputs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3627,17 +3593,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** gpt (1)
 > **Speakers:** - when (1)
 
-#### GPTs and ChatGPT: Understanding accountability in AI usage
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-understanding-accountability-in-ai-usage?u=76281980)
+#### [GPTs and ChatGPT: Understanding accountability in AI usage](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-understanding-accountability-in-ai-usage?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-understanding-accountability-in-ai-usage?u=76281980&t=0)** - You have to take responsibility for all of the custom GPTs.
+> **[0:00](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-understanding-accountability-in-ai-usage?u=76281980&t=0)** - You have to take responsibility for all of the [[Custom GPTs]].
 >
 > **[0:05](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-understanding-accountability-in-ai-usage?u=76281980&t=5)** Basically what you're going to do is by proxy, you're going to give them the identity of your organization or of you, and allow them to go off into the world and represent you.
 >
@@ -3699,7 +3663,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-understanding-accountability-in-ai-usage?u=76281980&t=117)** But also reputationally, things are going the other direction.
 >
-> **[2:00](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-understanding-accountability-in-ai-usage?u=76281980&t=120)** People expect you to stand behind your generative AI, your custom GPT, and other things.
+> **[2:00](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-understanding-accountability-in-ai-usage?u=76281980&t=120)** People expect you to stand behind your [[Generative AI]], your custom GPT, and other things.
 >
 > **[2:06](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-understanding-accountability-in-ai-usage?u=76281980&t=126)** So take that into account and know that ahead of time when you're building this thing and you're deciding, are you going to put it out into the world?
 >
@@ -3731,14 +3695,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** chatbot (5), [[Custom GPTs]] (1), ai (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Custom GPTs]] (1), [[Generative AI]] (1)
 > **Env Vars:** gpt (3)
 > **CLI Commands:** make (1)
 > **Definitions:** known as (1)
 > **Speakers:** - you (1)
 
-#### GPTs and ChatGPT: Conducting adversarial testing for robustness
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-conducting-adversarial-testing-for-robustness?u=76281980)
+#### [GPTs and ChatGPT: Conducting adversarial testing for robustness](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-conducting-adversarial-testing-for-robustness?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3864,7 +3827,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), game (3)
 > **Env Vars:** gpt (13), dalle (1)
 > **CLI Commands:** make (4)
 > **Analogies:** such as (2), kind of like (1)
@@ -3872,17 +3834,17 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
+> **Speakers:** - depending (1)
 
-#### GPTs and ChatGPT: Your next steps in crafting personalized AI automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-your-next-steps-in-crafting-personalized-ai-automation?u=76281980)
+#### [GPTs and ChatGPT: Your next steps in crafting personalized AI automation](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-your-next-steps-in-crafting-personalized-ai-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-your-next-steps-in-crafting-personalized-ai-automation?u=76281980&t=0)** - Thank you for all your effort and attention going through this course.
 >
-> **[0:03](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-your-next-steps-in-crafting-personalized-ai-automation?u=76281980&t=3)** I hope you've found this space as fascinating as I do of how we're going to fundamentally change the way that we do computing with things like custom GPTs and generative AI.
+> **[0:03](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-your-next-steps-in-crafting-personalized-ai-automation?u=76281980&t=3)** I hope you've found this space as fascinating as I do of how we're going to fundamentally change the way that we do computing with things like [[Custom GPTs]] and [[Generative AI]].
 >
-> **[0:13](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-your-next-steps-in-crafting-personalized-ai-automation?u=76281980&t=13)** I hope you'll take time to reach out to me on LinkedIn, or drop me a note about all the fascinating things that you're doing to really innovate with generative AI and custom GPTs.
+> **[0:13](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-your-next-steps-in-crafting-personalized-ai-automation?u=76281980&t=13)** I hope you'll take time to reach out to me on [[LinkedIn]], or drop me a note about all the fascinating things that you're doing to really innovate with generative AI and custom GPTs.
 >
 > **[0:22](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-your-next-steps-in-crafting-personalized-ai-automation?u=76281980&t=22)** I look forward to hearing from you in the future, and please stay up to date with what we are doing at Vanderbilt in generative AI.
 

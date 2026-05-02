@@ -90,16 +90,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting started with lean and agile
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/getting-started-with-lean-and-agile?u=76281980)
+#### [Getting started with lean and agile](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/getting-started-with-lean-and-agile?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/getting-started-with-lean-and-agile?u=76281980&t=0)** - You want to deliver great software to your users, but how do you empower your people to do that?
 >
-> **[0:06](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/getting-started-with-lean-and-agile?u=76281980&t=6)** - DevOps is about developers and operations professionals working together to quickly deliver high-quality software.
+> **[0:06](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/getting-started-with-lean-and-agile?u=76281980&t=6)** - [[DevOps]] is about developers and operations professionals working together to quickly deliver high-quality software.
 >
-> **[0:13](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/getting-started-with-lean-and-agile?u=76281980&t=13)** - To do DevOps successfully, you need to understand both lean and agile.
+> **[0:13](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/getting-started-with-lean-and-agile?u=76281980&t=13)** - To do DevOps successfully, you need to understand both lean and [[Agile Development|agile]].
 >
 > **[0:17](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/getting-started-with-lean-and-agile?u=76281980&t=17)** - Lean helps you efficiently deliver value-
 >
@@ -123,7 +122,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (5), [[Agile Development|Agile]] (4), application (1)
+> **Frameworks & Libraries:** [[DevOps]] (5), [[Agile Development|Agile]] (4)
 > **Speakers:** - and (2), - you (1), - devops (1), - to (1), - lean (1)
 
 
@@ -131,8 +130,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is agile?
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/what-is-agile?u=76281980)
+#### [What is agile?](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/what-is-agile?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -144,11 +142,11 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/what-is-agile?u=76281980&t=22)** How can you plan and execute them effectively?
 >
-> **[0:25](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/what-is-agile?u=76281980&t=25)** - [[Agile Software Development]] is a way to manage the work of a group of professionals in an iterative and incremental way until it reaches its goal of creating working technology solutions.
+> **[0:25](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/what-is-agile?u=76281980&t=25)** - [[[[Agile Software Development]]]] is a way to manage the work of a group of professionals in an iterative and incremental way until it reaches its goal of creating working technology solutions.
 >
-> **[0:37](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/what-is-agile?u=76281980&t=37)** - The name Agile comes from the manifesto for [[Agile Software Development]].
+> **[0:37](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/what-is-agile?u=76281980&t=37)** - The name [[Agile Development|Agile]] comes from the manifesto for [[Agile Software Development]].
 >
-> **[0:42](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/what-is-agile?u=76281980&t=42)** In 2001, a small group of experienced developers got together to discuss approaches to managing software development projects.
+> **[0:42](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/what-is-agile?u=76281980&t=42)** In 2001, a small group of experienced developers got together to discuss approaches to managing [[Software Development]] projects.
 >
 > **[0:49](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/what-is-agile?u=76281980&t=49)** Their consensus was that development projects were failing far too often, and there had to be a better way.
 >
@@ -204,23 +202,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (7), product (3), [[Agile Software Development]] (2), [[Software Development]] (1), management (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (7), [[Agile Software Development]] (2), [[Software Development]] (1)
 > **Speakers:** - the (2), - [instructor] (2), - have (1), - agile (1), - they (1)
 > **Definitions:** is a  (1), we call this (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** coming up (1)
 > **Analogies:** just like (1)
 
-#### Agile principles
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-principles?u=76281980)
+#### [Agile principles](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-principles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-principles?u=76281980&t=0)** - The agile manifesto goes on to describe 12 principles that further detail how the approach works.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-principles?u=76281980&t=0)** - The [[Agile Development|agile]] manifesto goes on to describe 12 principles that further detail how the approach works.
 >
 > **[0:06](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-principles?u=76281980&t=6)** They are...
 >
-> **[0:07](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-principles?u=76281980&t=7)** - First, our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
+> **[0:07](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-principles?u=76281980&t=7)** - First, our highest priority is to satisfy the customer through early and [[Continuous Delivery (CD)|continuous delivery]] of valuable software.
 >
 > **[0:15](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-principles?u=76281980&t=15)** The earlier the customer sees the work, the quicker you can dial in on delivering value.
 >
@@ -314,20 +311,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), business (2), next (2), [[Continuous Delivery (CD)|Continuous delivery]] (1), functional (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), [[Continuous Delivery (CD)|Continuous delivery]] (1)
 > **Speakers:** - and (2), - the (1), - first (1), - second (1), - next (1)
 > **CLI Commands:** make (1)
 
-#### Agile in practice: Scrum
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-in-practice-scrum?u=76281980)
+#### [Agile in practice: Scrum](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-in-practice-scrum?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-in-practice-scrum?u=76281980&t=0)** - Do you want to use Agile on a project at work, but you feel lost?
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-in-practice-scrum?u=76281980&t=0)** - Do you want to use [[Agile Development|Agile]] on a project at work, but you feel lost?
 >
 > **[0:04](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-in-practice-scrum?u=76281980&t=4)** Let's explore the specific methodologies used in Agile development that will help you navigate the process.
 >
-> **[0:11](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-in-practice-scrum?u=76281980&t=11)** The two popular Agile methodologies are Scrum and Kanban.
+> **[0:11](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-in-practice-scrum?u=76281980&t=11)** The two popular Agile methodologies are [[Scrum]] and Kanban.
 >
 > **[0:15](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-in-practice-scrum?u=76281980&t=15)** Scrum is a framework for managing complex projects, and Kanban is a visual system to organize work and manage workflows.
 >
@@ -377,7 +373,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-in-practice-scrum?u=76281980&t=140)** These practices are intended to provide an iterative, collaborative, and transparent way for the group of people to make continuous progress on a project.
 >
-> **[2:29](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-in-practice-scrum?u=76281980&t=149)** There are a lot of tools to help implement the mechanics of backlogs like Atlassian JIRA, Rally, VersionOne and Trello.
+> **[2:29](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-in-practice-scrum?u=76281980&t=149)** There are a lot of tools to help implement the mechanics of backlogs like [[Atlassian]] [[Jira]], Rally, VersionOne and [[Trello]].
 >
 > **[2:37](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-in-practice-scrum?u=76281980&t=157)** Scrum co-creators, Ken Schwaber and Jeff Sutherland wrote and maintained the "Scrum Guide," a free downloadable resource on [scrum.org](https://scrum.org), which completely explains Scrum clearly and succinctly.
 >
@@ -391,7 +387,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (14), product (5), [[Agile Development|Agile]] (4), next (1), business (1)
+> **Frameworks & Libraries:** [[Scrum]] (14), [[Agile Development|Agile]] (4), [[Atlassian]] (1), [[Jira]] (1), [[Trello]] (1)
 > **Definitions:** is a  (5)
 > **CLI Commands:** make (2)
 > **URLs:** [scrum.org](https://scrum.org) (1)
@@ -400,12 +396,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - do (1)
 
-#### Agile in practice: Kanban
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-in-practice-kanban?u=76281980)
+#### [Agile in practice: Kanban](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-in-practice-kanban?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-in-practice-kanban?u=76281980&t=0)** - We've talked about Scrum and its Sprint-based process, but there are other ways to do Agile.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-in-practice-kanban?u=76281980&t=0)** - We've talked about [[Scrum]] and its Sprint-based process, but there are other ways to do [[Agile Development|Agile]].
 >
 > **[0:06](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-in-practice-kanban?u=76281980&t=6)** One called Kanban is all about keeping work flowing smoothly.
 >
@@ -471,11 +466,11 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-in-practice-kanban?u=76281980&t=206)** Scrum fits better in a situation where work can be prioritized and time-boxed, where Kanban fits great when there's a high degree of change in variability.
 >
-> **[3:36](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-in-practice-kanban?u=76281980&t=216)** For example, you'll see Scrum most often on product development teams, especially those creating something new.
+> **[3:36](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-in-practice-kanban?u=76281980&t=216)** For example, you'll see Scrum most often on [[Product Development]] teams, especially those creating something new.
 >
 > **[3:43](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-in-practice-kanban?u=76281980&t=223)** Kanban is used most often in continuous flow type of work, like support and operations.
 >
-> **[3:50](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-in-practice-kanban?u=76281980&t=230)** There are many ways to combine and remix them however.
+> **[3:50](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-in-practice-kanban?u=76281980&t=230)** There are many ways to combine and [[Remix]] them however.
 >
 > **[3:53](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-in-practice-kanban?u=76281980&t=233)** I'd say that most Scrum projects still use a Kanban style workboard for visualization, though usually they don't enforce WIP on the columns.
 >
@@ -485,15 +480,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (9), [[Agile Development|Agile]] (5), teams (2), next (1), product (1)
+> **Frameworks & Libraries:** [[Scrum]] (9), [[Agile Development|Agile]] (5), [[Product Development]] (1), [[Remix]] (1)
 > **Analogies:** for example (4), just like (1)
 > **Env Vars:** wip (3)
 > **CLI Commands:** make (1)
 > **URLs:** [kanbanguides.org](https://kanbanguides.org) (1)
 > **Speakers:** - we (1)
 
-#### What is lean?
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/what-is-lean?u=76281980)
+#### [What is lean?](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/what-is-lean?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -581,15 +575,15 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/what-is-lean?u=76281980&t=219)** Work can only be improved by harnessing the knowledge of those performing it.
 >
-> **[3:45](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/what-is-lean?u=76281980&t=225)** - Lean also incorporates a host of quality tools to add rigor to this improvement process, like the plan-do-check-act cycle used to carry out changes in the organization, the Poka-yoke process analysis tool for error proofing, and the Kanban board for workflow management.
+> **[3:45](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/what-is-lean?u=76281980&t=225)** - Lean also incorporates a host of quality tools to add rigor to this improvement process, like the plan-do-check-act cycle used to carry out changes in the organization, the Poka-yoke process analysis tool for error proofing, and the Kanban board for [[Workflow Management]].
 >
 > **[4:03](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/what-is-lean?u=76281980&t=243)** - Kanban, you say?
 >
-> **[4:04](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/what-is-lean?u=76281980&t=244)** But didn't we just tell you that was one of the two major Agile methodologies?
+> **[4:04](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/what-is-lean?u=76281980&t=244)** But didn't we just tell you that was one of the two major [[Agile Development|Agile]] methodologies?
 >
 > **[4:09](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/what-is-lean?u=76281980&t=249)** That's right.
 >
-> **[4:10](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/what-is-lean?u=76281980&t=250)** Lean, Agile, and DevOps have all borrowed extensively from each other over time.
+> **[4:10](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/what-is-lean?u=76281980&t=250)** Lean, Agile, and [[DevOps]] have all borrowed extensively from each other over time.
 >
 > **[4:15](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/what-is-lean?u=76281980&t=255)** - So why do all of this?
 >
@@ -605,27 +599,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (3), [[Agile Development|Agile]] (2), next (1), teams (1), [[Workflow Management]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (3), [[Agile Development|Agile]] (2), [[Workflow Management]] (1)
 > **Speakers:** - lean (4), - so (2), - do (1), - luckily (1), - value (1)
 > **Definitions:** is a  (3), defined as (1), is called (1)
 > **CLI Commands:** find (2), make (1)
 
-#### Lean in practice
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/lean-in-practice?u=76281980)
+#### [Lean in practice](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/lean-in-practice?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/lean-in-practice?u=76281980&t=0)** - Lean got started in the auto manufacturing world and its benefits have been quickly adopted in other areas.
 >
-> **[0:07](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/lean-in-practice?u=76281980&t=7)** You'll find it used in product development with independent teams of experts from multiple disciplines innovating together using visual work management tools.
+> **[0:07](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/lean-in-practice?u=76281980&t=7)** You'll find it used in [[Product Development]] with independent teams of experts from multiple disciplines innovating together using visual work management tools.
 >
 > **[0:16](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/lean-in-practice?u=76281980&t=16)** You'll find it in startups where they ship a minimum viable product and then iterate on it using a build, measure and learn cycle to get customer feedback instead of trying to design the perfect product upfront.
 >
-> **[0:30](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/lean-in-practice?u=76281980&t=30)** You'll also find it in user interface development where Lean UX advocates for continuous improvement of the user experience of software by collaboration, iteration, and experimentation.
+> **[0:30](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/lean-in-practice?u=76281980&t=30)** You'll also find it in user interface development where Lean UX advocates for continuous improvement of the [[User Experience (UX)|user experience]] of software by collaboration, iteration, and experimentation.
 >
 > **[0:43](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/lean-in-practice?u=76281980&t=43)** There are popular books on Lean enterprise, Lean IT and more, and this brings us back around to tech and using Lean to develop software.
 >
-> **[0:54](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/lean-in-practice?u=76281980&t=54)** Mary and Tom Poppendieck's book, "Lean Software Development: An Agile Toolkit" famously adapted these lean techniques to software development.
+> **[0:54](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/lean-in-practice?u=76281980&t=54)** Mary and Tom Poppendieck's book, "Lean [[Software Development]]: An [[Agile Development|Agile]] Toolkit" famously adapted these lean techniques to software development.
 >
 > **[1:03](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/lean-in-practice?u=76281980&t=63)** They identified seven principles to follow when developing code, eliminate waste, amplify learning, decide as late as possible, deliver as fast as possible, empower the team, build integrity in and see the whole.
 >
@@ -665,19 +658,19 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/lean-in-practice?u=76281980&t=214)** Kanban boards plan, do-check-act cycles, kaizen, and so on.
 >
-> **[3:39](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/lean-in-practice?u=76281980&t=219)** A software value stream is like a manufacturing value stream, though the steps become things like requirements analysis, development and testing.
+> **[3:39](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/lean-in-practice?u=76281980&t=219)** A software value stream is like a manufacturing value stream, though the steps become things like [[Requirements Analysis]], development and testing.
 >
-> **[3:49](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/lean-in-practice?u=76281980&t=229)** You may find implementations of these tools integrated with developer friendly tools like the Kanban boards in Atlassian JIRA, or Trello that have integrations with source control repos and ticketing systems.
+> **[3:49](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/lean-in-practice?u=76281980&t=229)** You may find implementations of these tools integrated with developer friendly tools like the Kanban boards in [[Atlassian]] [[Jira]], or [[Trello]] that have integrations with source control repos and ticketing systems.
 >
 > **[4:01](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/lean-in-practice?u=76281980&t=241)** Lean tools are deliberately simple, so they behave similarly from industry to industry.
 >
-> **[4:08](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/lean-in-practice?u=76281980&t=248)** These lean software development principles are very helpful in DevOps.
+> **[4:08](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/lean-in-practice?u=76281980&t=248)** These lean software development principles are very helpful in [[DevOps]].
 >
 > **[4:12](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/lean-in-practice?u=76281980&t=252)** Coming up, we'll bring all this together and show how DevOps makes use of lean and how this combines with Agile in a single whole.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), [[Software Development]] (4), [[Agile Development|Agile]] (2), [[DevOps]] (2), [[Product Development]] (1)
+> **Frameworks & Libraries:** [[Software Development]] (4), [[Agile Development|Agile]] (2), [[DevOps]] (2), [[Product Development]] (1), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** find (4), make (1)
 > **Env Vars:** jira (1)
 > **Cross-References:** coming up (1)
@@ -685,12 +678,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - lean (1)
 
-#### What is DevOps?
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/what-is-devops?u=76281980)
+#### [What is DevOps?](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/what-is-devops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/what-is-devops?u=76281980&t=0)** - When we've talked about Lean and Agile, we've said the words software development a lot, and that's how those two methodologies were introduced into tech through developers.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/what-is-devops?u=76281980&t=0)** - When we've talked about Lean and [[Agile Development|Agile]], we've said the words [[Software Development]] a lot, and that's how those two methodologies were introduced into tech through developers.
 >
 > **[0:10](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/what-is-devops?u=76281980&t=10)** - But you need more than software to deliver value to a customer, right?
 >
@@ -700,7 +692,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/what-is-devops?u=76281980&t=22)** - And that means that the network, servers, and other infrastructure that these solutions run on are part of the value stream.
 >
-> **[0:29](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/what-is-devops?u=76281980&t=29)** That's the core inside of DevOps.
+> **[0:29](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/what-is-devops?u=76281980&t=29)** That's the core inside of [[DevOps]].
 >
 > **[0:32](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/what-is-devops?u=76281980&t=32)** - Here's how we define DevOps.
 >
@@ -710,11 +702,11 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/what-is-devops?u=76281980&t=63)** - That's right, as software depends more on infrastructure, and as infrastructure has become more automatable, these two groups can't separate responsibilities and do their work entirely differently, as was common in the olden days.
 >
-> **[1:16](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/what-is-devops?u=76281980&t=76)** - The word DevOps is a combination of developers and operations.
+> **[1:16](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/what-is-devops?u=76281980&t=76)** - The [[Microsoft Word|word]] DevOps is a combination of developers and operations.
 >
 > **[1:21](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/what-is-devops?u=76281980&t=81)** It was coined by Belgian engineer Patrick Debois after a discussion at an Agile conference about Agile infrastructure.
 >
-> **[1:28](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/what-is-devops?u=76281980&t=88)** - [Instructor 1] In fact, Tom Limoncelli, author of "The Practice of Cloud System Administration" says simply that DevOps is the application of Agile methodology to system administration.
+> **[1:28](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/what-is-devops?u=76281980&t=88)** - [Instructor 1] In fact, Tom Limoncelli, author of "The Practice of Cloud [[System Administration]]" says simply that DevOps is the application of Agile methodology to system administration.
 >
 > **[1:39](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/what-is-devops?u=76281980&t=99)** - [Instructor 2] DevOps also explicitly incorporates Lean as a part of its core values.
 >
@@ -738,7 +730,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/what-is-devops?u=76281980&t=161)** - [Instructor 2] He then shows how the Lean principles of flow inform the entire path of the software development process from product conception through development to operations.
 >
-> **[2:51](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/what-is-devops?u=76281980&t=171)** - Thus, product development and operations are phases in the pipeline that originates with an idea and ends with something that provides value to your customer.
+> **[2:51](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/what-is-devops?u=76281980&t=171)** - Thus, [[Product Development]] and operations are phases in the pipeline that originates with an idea and ends with something that provides value to your customer.
 >
 > **[3:01](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/what-is-devops?u=76281980&t=181)** Lean is more of a mindset that occurs across all of these phases.
 >
@@ -748,19 +740,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (12), [[Agile Development|Agile]] (7), [[Software Development]] (2), [[System Administration]] (2), [[Automation]] (2)
+> **Frameworks & Libraries:** [[DevOps]] (12), [[Agile Development|Agile]] (7), [[Software Development]] (2), [[System Administration]] (2), [[Microsoft Word|Word]] (1)
 > **Speakers:** - [instructor (5), - but (2), - that (2), - when (1), - and (1)
 > **Env Vars:** cams (2), clams (1), calms (1)
 > **Definitions:** means that (1), is a  (1)
 
-#### DevOps in practice
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-in-practice?u=76281980)
+#### [DevOps in practice](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-in-practice?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-in-practice?u=76281980&t=0)** - Part of using DevOps to strengthen your agile implementation is to just apply lean and agile to your systems work.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-in-practice?u=76281980&t=0)** - Part of using [[DevOps]] to strengthen your [[Agile Development|agile]] implementation is to just apply lean and agile to your systems work.
 >
-> **[0:08](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-in-practice?u=76281980&t=8)** Cloud engineering teams can work in a Scrum framework and deliver incremental improvements in each sprint, web operations teams can visualize their work on a Kanban board, and either type of team can add systems engineers alongside developers, testers, and product owners.
+> **[0:08](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-in-practice?u=76281980&t=8)** Cloud engineering teams can work in a [[Scrum]] framework and deliver incremental improvements in each sprint, web operations teams can visualize their work on a Kanban board, and either type of team can add systems engineers alongside developers, testers, and product owners.
 >
 > **[0:25](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-in-practice?u=76281980&t=25)** Now, DevOps itself doesn't have approaches as structured as Scrum or Kanban.
 >
@@ -792,7 +783,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-in-practice?u=76281980&t=111)** They are flow, or systems thinking, feedback, or amplifying feedback loops, and continual learning and experimentation, or a culture of continuous improvement, which are all concepts we've already seen in places in lean and agile, right?
 >
-> **[2:09](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-in-practice?u=76281980&t=129)** Ways DevOps uses to encourage flow include continuous integration and delivery.
+> **[2:09](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-in-practice?u=76281980&t=129)** Ways DevOps uses to encourage flow include [[Continuous Integration (CI)|continuous integration]] and delivery.
 >
 > **[2:15](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-in-practice?u=76281980&t=135)** Ways we use to encourage feedback are monitoring and observability and automated testing.
 >
@@ -800,15 +791,15 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-in-practice?u=76281980&t=151)** DevOps is a case study in how including other parts of the value stream besides just code development, like systems design and operations, let us extend lean and agile with new tools and techniques that allow us to improve our overall value stream, and that improvement's measurable.
 >
-> **[2:49](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-in-practice?u=76281980&t=169)** The DevOps Research and Assessment team, or DORA, has done extensive research and statistical analysis each year since 2013 and has developed a body of evidence on the impact of these specific practices in an organization.
+> **[2:49](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-in-practice?u=76281980&t=169)** The DevOps Research and Assessment team, or DORA, has done extensive research and [[Statistical Analysis]] each year since 2013 and has developed a body of evidence on the impact of these specific practices in an organization.
 >
 > **[3:04](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-in-practice?u=76281980&t=184)** They found that a variety of practices commonly found in agile, lean, and DevOps, especially those that promote a climate for learning, fast flow and fast feedback, correlate positively to better performance in both software delivery and reliability and they lead to better outcomes in both organizational performance and employee wellbeing.
 >
-> **[3:27](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-in-practice?u=76281980&t=207)** Now that we've given you the basics of agile, lean, and DevOps theory, we'll spend the rest of the course digging deeper into all these specific practices.
+> **[3:27](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-in-practice?u=76281980&t=207)** Now that we've given you the basics of agile, lean, and DevOps theory, we'll spend the [[Representational State Transfer (REST)|rest]] of the course digging deeper into all these specific practices.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (10), [[Agile Development|Agile]] (6), [[Automation]] (3), teams (2), [[Scrum]] (2)
+> **Frameworks & Libraries:** [[DevOps]] (10), [[Agile Development|Agile]] (6), [[Scrum]] (2), [[Continuous Integration (CI)|Continuous integration]] (1), [[Statistical Analysis]] (1)
 > **Definitions:** is a  (3)
 > **Cross-References:** in the last (1), we mentioned (1)
 > **Env Vars:** dora (1)
@@ -819,18 +810,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome to Red30 Technologies
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/welcome-to-red-30-technologies?u=76281980)
+#### [Welcome to Red30 Technologies](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/welcome-to-red-30-technologies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/welcome-to-red-30-technologies?u=76281980&t=0)** - Now that we've given you the highlights of the theory, we'll explore Lean agile and DevOps concepts hands-on in the context of a real implementation.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/welcome-to-red-30-technologies?u=76281980&t=0)** - Now that we've given you the highlights of the theory, we'll explore Lean [[Agile Development|agile]] and [[DevOps]] concepts hands-on in the context of a real implementation.
 >
 > **[0:09](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/welcome-to-red-30-technologies?u=76281980&t=9)** - The company and project we discuss are fictional, but the scenarios we cover are based on our real world experiences.
 >
-> **[0:16](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/welcome-to-red-30-technologies?u=76281980&t=16)** - Welcome to Red30 Technologies, a large company that produces hardware and software for the printing industry.
+> **[0:16](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/welcome-to-red-30-technologies?u=76281980&t=16)** - Welcome to Red30 Technologies, a large company that produces [[Hardware]] and software for the printing industry.
 >
-> **[0:23](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/welcome-to-red-30-technologies?u=76281980&t=23)** Red 30's been a leader in the printing industry and we're looking to capture an even larger market share with new products and technologies.
+> **[0:23](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/welcome-to-red-30-technologies?u=76281980&t=23)** Red 30's been a leader in the printing industry and we're looking to capture an even larger market share with new [[Microsoft Products|products]] and technologies.
 >
 > **[0:31](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/welcome-to-red-30-technologies?u=76281980&t=31)** - We've talked to a lot of our existing customers and the feedback we've consistently heard is that updating our print drivers is difficult and time-consuming.
 >
@@ -902,7 +892,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), [[DevOps]] (5), [[Agile Development|Agile]] (4), [[Microsoft Products|Products]] (4), teams (3)
+> **Frameworks & Libraries:** [[DevOps]] (5), [[Agile Development|Agile]] (4), [[Microsoft Products|Products]] (4), [[Hardware]] (1)
 > **Speakers:** - now (2), - the (1), - welcome (1), - we (1), - as (1)
 > **CLI Commands:** make (1)
 > **Warnings:** troubleshoot (1)
@@ -912,12 +902,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Agile: Updating our practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-updating-our-practices?u=76281980)
+#### [Agile: Updating our practices](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-updating-our-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-updating-our-practices?u=76281980&t=0)** - So Karthik and I got started on our DevOps transformation of Red 30 technologies.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-updating-our-practices?u=76281980&t=0)** - So Karthik and I got started on our [[DevOps]] transformation of Red 30 technologies.
 >
 > **[0:05](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-updating-our-practices?u=76281980&t=5)** - Our people were used to conflicting priorities, projects that drag on, interrupts, and not knowing what anyone else was doing.
 >
@@ -929,7 +918,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-updating-our-practices?u=76281980&t=26)** - That's right, we formed a single Greenfield project team, comprised of a product owner and both developers and operation staff to provide our concept.
 >
-> **[0:35](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-updating-our-practices?u=76281980&t=35)** - We started with the agile practices that help an actual team member perform their daily work.
+> **[0:35](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-updating-our-practices?u=76281980&t=35)** - We started with the [[Agile Development|agile]] practices that help an actual team member perform their daily work.
 >
 > **[0:42](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-updating-our-practices?u=76281980&t=42)** People want to do good work.
 >
@@ -983,7 +972,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-updating-our-practices?u=76281980&t=168)** - Waiting on responses from offsite people had become a common source of delay.
 >
-> **[2:53](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-updating-our-practices?u=76281980&t=173)** So we video conferenced in our remote colleagues and saw immediate benefits, but we had a couple of international team members whose schedules didn't overlap with the rest of a team.
+> **[2:53](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-updating-our-practices?u=76281980&t=173)** So we video conferenced in our remote colleagues and saw immediate benefits, but we had a couple of international team members whose schedules didn't overlap with the [[Representational State Transfer (REST)|rest]] of a team.
 >
 > **[3:02](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-updating-our-practices?u=76281980&t=182)** So we recorded the standup and sent it to them.
 >
@@ -1015,13 +1004,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Agile Development|Agile]] (3), [[DevOps]] (1), [[Engineering]] (1), product (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), [[DevOps]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Speakers:** - we (2), - next (2), - and (2), - so (1), - our (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 
-#### Exercise: Create a work board
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/exercise-create-a-work-board?u=76281980)
+#### [Exercise: Create a work board](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/exercise-create-a-work-board?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1045,7 +1033,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/exercise-create-a-work-board?u=76281980&t=59)** Or if you want to do it electronically, there's a bunch of options.
 >
-> **[1:02](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/exercise-create-a-work-board?u=76281980&t=62)** Trello and Notion are two popular Kanban board solutions with a free plan.
+> **[1:02](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/exercise-create-a-work-board?u=76281980&t=62)** [[Trello]] and Notion are two popular Kanban board solutions with a free plan.
 >
 > **[1:09](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/exercise-create-a-work-board?u=76281980&t=69)** Next, create a board with columns that make sense as work states.
 >
@@ -1053,13 +1041,13 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/exercise-create-a-work-board?u=76281980&t=82)** But when there are, you want to represent those stages of work, like steps in a value stream, on the board.
 >
-> **[1:29](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/exercise-create-a-work-board?u=76281980&t=89)** In software development, for example, you'll almost always see at least to do, in development, in test, and done.
+> **[1:29](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/exercise-create-a-work-board?u=76281980&t=89)** In [[Software Development]], for example, you'll almost always see at least to do, in development, in test, and done.
 >
 > **[1:37](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/exercise-create-a-work-board?u=76281980&t=97)** The online solutions will let you define a board.
 >
 > **[1:40](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/exercise-create-a-work-board?u=76281980&t=100)** For post-its or cards, you can use a whiteboard or just a convenient wall.
 >
-> **[1:44](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/exercise-create-a-work-board?u=76281980&t=104)** The first Kanban boards were often index cards and pushpins on a nearby office wall where the team could always see it.
+> **[1:44](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/exercise-create-a-work-board?u=76281980&t=104)** The first Kanban boards were often index cards and pushpins on a nearby [[Microsoft Office|office]] wall where the team could always see it.
 >
 > **[1:51](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/exercise-create-a-work-board?u=76281980&t=111)** Then, you just place the tasks in the to-do column in the order you need to do them.
 >
@@ -1073,15 +1061,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Trello]] (1), [[Software Development]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Trello]] (1), [[Software Development]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1), picture (1)
 > **Tools:** notion (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - all (1)
 
-#### Solution: Create a work board
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/solution-create-a-work-board?u=76281980)
+#### [Solution: Create a work board](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/solution-create-a-work-board?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1103,7 +1090,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/solution-create-a-work-board?u=76281980&t=51)** Now, here's a more complex example that might entertain you.
 >
-> **[0:54](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/solution-create-a-work-board?u=76281980&t=54)** It's the Trello board Karthik and I used to organize our work for this course.
+> **[0:54](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/solution-create-a-work-board?u=76281980&t=54)** It's the [[Trello]] board Karthik and I used to organize our work for this course.
 >
 > **[0:59](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/solution-create-a-work-board?u=76281980&t=59)** We have a card for every video and have a fairly long workflow.
 >
@@ -1111,7 +1098,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/solution-create-a-work-board?u=76281980&t=66)** Then the other author reviews and edits it, our producer reviews it, we add assessment questions and so on.
 >
-> **[1:14](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/solution-create-a-work-board?u=76281980&t=74)** Finally, we go out to lovely Carpinteria, California to the LinkedIn Learning sound stage to film.
+> **[1:14](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/solution-create-a-work-board?u=76281980&t=74)** Finally, we go out to lovely Carpinteria, California to the [[LinkedIn]] Learning sound stage to film.
 >
 > **[1:21](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/solution-create-a-work-board?u=76281980&t=81)** We've evolved a workflow that's the most effective for us.
 >
@@ -1155,7 +1142,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/solution-create-a-work-board?u=76281980&t=218)** That's okay.
 >
-> **[3:39](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/solution-create-a-work-board?u=76281980&t=219)** That's why it's called Agile.
+> **[3:39](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/solution-create-a-work-board?u=76281980&t=219)** That's why it's called [[Agile Development|Agile]].
 
 > [!info]- Semantic Content
 >
@@ -1166,12 +1153,11 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - welcome (1)
 
-#### DevOps: Getting started building
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-getting-started-building?u=76281980)
+#### [DevOps: Getting started building](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-getting-started-building?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-getting-started-building?u=76281980&t=0)** - Next in our transformation, we wanted to focus on our development and DevOps practices.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-getting-started-building?u=76281980&t=0)** - Next in our transformation, we wanted to focus on our development and [[DevOps]] practices.
 >
 > **[0:06](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-getting-started-building?u=76281980&t=6)** - But the team wasn't sold on the whole idea at first because the developers and operations spoke different languages.
 >
@@ -1193,7 +1179,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-getting-started-building?u=76281980&t=57)** - There are many ways to organize your product and source control that involve using different branch strategies, some of which maintain multiple branches you have to coordinate changes across.
 >
-> **[1:08](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-getting-started-building?u=76281980&t=68)** A branch is a copy of a code line managed in a version control system.
+> **[1:08](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-getting-started-building?u=76281980&t=68)** A branch is a copy of a code line managed in a [[Version Control]] system.
 >
 > **[1:14](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-getting-started-building?u=76281980&t=74)** We simplified our source control by using a single main branch.
 >
@@ -1239,7 +1225,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-getting-started-building?u=76281980&t=186)** We decided to implement the theory of constraints, which identifies the current bottleneck in the process, resolves it, and then iterate to the next constraint.
 >
-> **[3:16](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-getting-started-building?u=76281980&t=196)** First up, to improve our development process, we implemented a build server to perform continuous integration.
+> **[3:16](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-getting-started-building?u=76281980&t=196)** First up, to improve our development process, we implemented a build server to perform [[Continuous Integration (CI)|continuous integration]].
 >
 > **[3:23](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-getting-started-building?u=76281980&t=203)** This means that every time a developer saves their code change, which we call a check-in, the server automatically compiles and test that code.
 >
@@ -1255,7 +1241,7 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-getting-started-building?u=76281980&t=237)** - We focused on the fastest improvements we could make.
 >
-> **[4:00](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-getting-started-building?u=76281980&t=240)** For example, a developer made a script to deploy Java code to production faster.
+> **[4:00](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-getting-started-building?u=76281980&t=240)** For example, a developer made a script to deploy [[Java]] code to production faster.
 >
 > **[4:05](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-getting-started-building?u=76281980&t=245)** - And an ops person made a script to restart broken services automatically.
 >
@@ -1269,15 +1255,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[DevOps]] (1), product (1), [[Version Control]] (1), [[Continuous Integration (CI)|Continuous integration]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (1), [[Version Control]] (1), [[Continuous Integration (CI)|Continuous integration]] (1), [[Java]] (1)
 > **Speakers:** - next (3), - we (2), - but (1), - you (1), - no (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), means that (1)
 > **Analogies:** imagine (1), for example (1)
 > **Tools:** bash (1)
 
-#### Measuring success
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/measuring-success?u=76281980)
+#### [Measuring success](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/measuring-success?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1327,9 +1312,9 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/measuring-success?u=76281980&t=142)** But we promised the team a safe space with only supportive critique.
 >
-> **[2:27](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/measuring-success?u=76281980&t=147)** - That really helped, and soon we had the developers demoing the feature code and the DevOps side demoing various scripts.
+> **[2:27](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/measuring-success?u=76281980&t=147)** - That really helped, and soon we had the developers demoing the feature code and the [[DevOps]] side demoing various scripts.
 >
-> **[2:35](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/measuring-success?u=76281980&t=155)** - Often the demos would lead to discussion between the team that helped identify gaps, like when the dev team demoed a software to run a cyclical job and the DevOps folks were thinking it would be much simpler to use the Linux cron command instead.
+> **[2:35](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/measuring-success?u=76281980&t=155)** - Often the demos would lead to discussion between the team that helped identify gaps, like when the dev team demoed a software to run a cyclical job and the DevOps folks were thinking it would be much simpler to use the [[Linux]] cron command instead.
 >
 > **[2:49](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/measuring-success?u=76281980&t=169)** - It also gave Ernest and me a lot more visibility into where we were from a product perspective and helped us course correct when needed.
 >
@@ -1353,12 +1338,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (3), product (3), [[DevOps]] (2), [[Linux]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (2), [[Linux]] (1)
 > **Speakers:** - we (4), - however (2), - that (2), - in (1), - but (1)
 > **Analogies:** picture (1)
 
-#### Learning and adapting
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/learning-and-adapting?u=76281980)
+#### [Learning and adapting](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/learning-and-adapting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1398,7 +1382,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/learning-and-adapting?u=76281980&t=86)** - [Ernest] That's right.
 >
-> **[1:27](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/learning-and-adapting?u=76281980&t=87)** Lean and agile management is much less about directing and a lot more about empowering the team and setting them up for success and giving the team freedom to execute.
+> **[1:27](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/learning-and-adapting?u=76281980&t=87)** Lean and [[Agile Development|agile]] management is much less about directing and a lot more about empowering the team and setting them up for success and giving the team freedom to execute.
 >
 > **[1:38](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/learning-and-adapting?u=76281980&t=98)** - We realized that we had communication issues that the standups didn't really fix.
 >
@@ -1446,7 +1430,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Agile Development|Agile]] (1), management (1), functional (1), game (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1)
 > **Speakers:** - we (6), - [ernest] (2), - our (1), - the (1), - after (1)
 > **CLI Commands:** find (1)
 > **Prerequisites:** set up (1)
@@ -1456,12 +1440,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Agile: Building a resilient team
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-building-a-resilient-team?u=76281980)
+#### [Agile: Building a resilient team](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-building-a-resilient-team?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-building-a-resilient-team?u=76281980&t=0)** - In the first iteration of our Agile implementation, we used techniques that made our individuals more effective.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-building-a-resilient-team?u=76281980&t=0)** - In the first iteration of our [[Agile Development|Agile]] implementation, we used techniques that made our individuals more effective.
 >
 > **[0:07](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-building-a-resilient-team?u=76281980&t=7)** In our second iteration, it was time to build them up as a team.
 >
@@ -1469,7 +1452,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-building-a-resilient-team?u=76281980&t=17)** They asked for coaching on how to incorporate all these new practices efficiently.
 >
-> **[0:22](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-building-a-resilient-team?u=76281980&t=22)** Some of the new team meetings, which Scrum calls ceremonies, were going off track and taking a long time, which frustrated people.
+> **[0:22](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-building-a-resilient-team?u=76281980&t=22)** Some of the new team meetings, which [[Scrum]] calls ceremonies, were going off track and taking a long time, which frustrated people.
 >
 > **[0:30](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-building-a-resilient-team?u=76281980&t=30)** - Yeah, okay, so here's the insight.
 >
@@ -1543,12 +1526,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (5), [[Agile Development|Agile]] (2), next (2), product (2), hit (1)
+> **Frameworks & Libraries:** [[Scrum]] (5), [[Agile Development|Agile]] (2)
 > **Speakers:** - the (3), - and (2), - in (1), - yeah (1), - maybe (1)
 > **Cross-References:** in the next (1)
 
-#### Agile: Describing the work
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-describing-the-work?u=76281980)
+#### [Agile: Describing the work](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-describing-the-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1594,22 +1576,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), business (2)
 > **Speakers:** - [instructor (3), - as (1), - we (1), - let (1), - who (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 
-#### DevOps: Release practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-release-practices?u=76281980)
+#### [DevOps: Release practices](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-release-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-release-practices?u=76281980&t=0)** - We were continuing to improve on delivering value with our Agile processes, but we couldn't forget the problems we had releasing our product to production.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-release-practices?u=76281980&t=0)** - We were continuing to improve on delivering value with our [[Agile Development|Agile]] processes, but we couldn't forget the problems we had releasing our product to production.
 >
 > **[0:09](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-release-practices?u=76281980&t=9)** - Not that the other executives would let us forget, but it was a good reminder that you're not really delivering value if your customers can't use it.
 >
-> **[0:17](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-release-practices?u=76281980&t=17)** - We needed to add in technical discipline from DevOps as well.
+> **[0:17](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-release-practices?u=76281980&t=17)** - We needed to add in technical discipline from [[DevOps]] as well.
 >
 > **[0:21](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-release-practices?u=76281980&t=21)** We hired an experienced release manager to help.
 >
@@ -1627,7 +1607,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-release-practices?u=76281980&t=68)** - The QA team pivoted from performing testing to writing automated tests in a new framework.
 >
-> **[1:15](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-release-practices?u=76281980&t=75)** These tests were hooked into our continuous integration build system so that every build had all the tests run.
+> **[1:15](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-release-practices?u=76281980&t=75)** These tests were hooked into our [[Continuous Integration (CI)|continuous integration]] build system so that every build had all the tests run.
 >
 > **[1:22](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-release-practices?u=76281980&t=82)** Automated testing would let us verify that we were ready to release in hours, not days or weeks.
 >
@@ -1649,17 +1629,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[Agile Development|Agile]] (1), [[DevOps]] (1), [[Continuous Integration (CI)|Continuous integration]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), [[DevOps]] (1), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **Speakers:** - we (2), - she (2), - not (1), - [executive] (1), - the (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
 
-#### DevOps: Infrastructure practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-infrastructure-practices?u=76281980)
+#### [DevOps: Infrastructure practices](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-infrastructure-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-infrastructure-practices?u=76281980&t=0)** - Of course, the rest of the business didn't stand still when we were working on the next iteration of our product.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-infrastructure-practices?u=76281980&t=0)** - Of course, the [[Representational State Transfer (REST)|rest]] of the business didn't stand still when we were working on the next iteration of our product.
 >
 > **[0:06](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-infrastructure-practices?u=76281980&t=6)** We'd gotten our web printing portal up and running very quickly.
 >
@@ -1669,7 +1648,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-infrastructure-practices?u=76281980&t=21)** But this provided us with a new challenge.
 >
-> **[0:25](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-infrastructure-practices?u=76281980&t=25)** In operations, we were used to needing to get all the hardware procured, built, set up, and hardened before we let the apps team touch it, even for testing.
+> **[0:25](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-infrastructure-practices?u=76281980&t=25)** In operations, we were used to needing to get all the [[Hardware]] procured, built, set up, and hardened before we let the apps team touch it, even for testing.
 >
 > **[0:35](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-infrastructure-practices?u=76281980&t=35)** Because we'd been burned too many times by the system being blamed for whatever was going wrong with the application.
 >
@@ -1695,11 +1674,11 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-infrastructure-practices?u=76281980&t=124)** We also started something else that we knew would have long-term benefits, infrastructure automation.
 >
-> **[2:10](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-infrastructure-practices?u=76281980&t=130)** - The tools exist to write your infrastructure as code.
+> **[2:10](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-infrastructure-practices?u=76281980&t=130)** - The tools exist to write your [[Infrastructure as code (IaC)|infrastructure as code]].
 >
 > **[2:13](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-infrastructure-practices?u=76281980&t=133)** Instead of manually configuring servers, you can put the code and config that generate them into source control.
 >
-> **[2:20](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-infrastructure-practices?u=76281980&t=140)** And then you can build and test them in your continuous integration pipelines as well.
+> **[2:20](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-infrastructure-practices?u=76281980&t=140)** And then you can build and test them in your [[Continuous Integration (CI)|continuous integration]] pipelines as well.
 >
 > **[2:24](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-infrastructure-practices?u=76281980&t=144)** - This enabled us both to move more quickly by generating standard systems with best practice configs automatically, and to incrementally improve them once and get the benefit everywhere.
 >
@@ -1711,13 +1690,13 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-infrastructure-practices?u=76281980&t=177)** We started a Site Reliability Engineering Initiative to think through how our applications would be monitored and operated in production.
 >
-> **[3:05](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-infrastructure-practices?u=76281980&t=185)** Now our releases were on track, and we were handling our infrastructure in a agile way.
+> **[3:05](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-infrastructure-practices?u=76281980&t=185)** Now our releases were on track, and we were handling our infrastructure in a [[Agile Development|agile]] way.
 >
 > **[3:10](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-infrastructure-practices?u=76281980&t=190)** In the next video, we'll talk about how we evolved our metrics and measurements to fit our new state.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), next (2), application (2), business (1), product (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Hardware]] (1), [[Infrastructure as code (IaC)|Infrastructure as code]] (1), [[Continuous Integration (CI)|Continuous integration]] (1), [[Agile Development|Agile]] (1)
 > **Speakers:** - of (1), - seeing (1), - but (1), - now (1), - the (1)
 > **Env Vars:** mvp (1), api (1)
 > **CLI Commands:** make (1)
@@ -1725,8 +1704,7 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Prerequisites:** set up (1)
 
-#### Advanced measurement: Scrum
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/advanced-measurement-scrum?u=76281980)
+#### [Advanced measurement: Scrum](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/advanced-measurement-scrum?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1762,13 +1740,13 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/advanced-measurement-scrum?u=76281980&t=97)** By this point, we had a couple of dev teams doing sprints with storypoint sizing.
 >
-> **[1:42](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/advanced-measurement-scrum?u=76281980&t=102)** - [Karthik] To measure these scrum teams, we made a sprint burndown chart to visualize completion of committed work during a specific sprint so everyone could tell if the team was on track to deliver as planned.
+> **[1:42](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/advanced-measurement-scrum?u=76281980&t=102)** - [Karthik] To measure these [[Scrum]] teams, we made a sprint burndown chart to visualize completion of committed work during a specific sprint so everyone could tell if the team was on track to deliver as planned.
 >
 > **[1:54](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/advanced-measurement-scrum?u=76281980&t=114)** We also watch for anti-patterns such as the team finishing too early in a sprint, missing forecasts, sudden drops versus a gradual burndown, or sudden scope changes mid sprint.
 >
 > **[2:05](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/advanced-measurement-scrum?u=76281980&t=125)** - Velocity charts also allowed us to track the average amount of work the team completed during each sprint.
 >
-> **[2:11](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/advanced-measurement-scrum?u=76281980&t=131)** This helped us with forecasting how much would get done over time and how quickly the team could work through the backlog.
+> **[2:11](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/advanced-measurement-scrum?u=76281980&t=131)** This helped us with [[Forecasting]] how much would get done over time and how quickly the team could work through the backlog.
 >
 > **[2:17](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/advanced-measurement-scrum?u=76281980&t=137)** - Now, velocity was all over the place at first, but after a few iterations it became more consistent.
 >
@@ -1776,17 +1754,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), feature (2), [[Scrum]] (1), [[Forecasting]] (1)
+> **Frameworks & Libraries:** [[Scrum]] (1), [[Forecasting]] (1)
 > **Speakers:** - now (2), - but (1), - we (1), - stories (1), - eventually (1)
 > **Env Vars:** xxl (1)
 > **Analogies:** such as (1)
 
-#### Advanced measurement: Kanban
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/advanced-measurement-kanban?u=76281980)
+#### [Advanced measurement: Kanban](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/advanced-measurement-kanban?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/advanced-measurement-kanban?u=76281980&t=0)** - While our development teams were using scrum, our production support team was using kanban with no sprints or ticket sizing.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/advanced-measurement-kanban?u=76281980&t=0)** - While our development teams were using [[Scrum]], our production support team was using kanban with no sprints or ticket sizing.
 >
 > **[0:08](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/advanced-measurement-kanban?u=76281980&t=8)** Their tickets came in quickly and couldn't wait for a sprint, and they were mostly about the same size, so they really needed a flow-based model.
 >
@@ -1830,15 +1807,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), next (3), [[Scrum]] (2)
+> **Frameworks & Libraries:** [[Scrum]] (2)
 > **Speakers:** - while (1), - to (1), - next (1), - but (1), - okay (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** we mentioned (1), in the next (1)
 > **Env Vars:** wip (1)
 > **Analogies:** for example (1)
 
-#### Exercise: Size your work
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/exercise-size-your-work?u=76281980)
+#### [Exercise: Size your work](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/exercise-size-your-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1854,7 +1830,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/exercise-size-your-work?u=76281980&t=22)** We'll learn how to estimate work using t-shirt sizes.
 >
-> **[0:26](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/exercise-size-your-work?u=76281980&t=26)** This practice helps us quickly estimate tasks on our Kanban or Scrum board to get a general sense of effort.
+> **[0:26](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/exercise-size-your-work?u=76281980&t=26)** This practice helps us quickly estimate tasks on our Kanban or [[Scrum]] board to get a general sense of effort.
 >
 > **[0:34](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/exercise-size-your-work?u=76281980&t=34)** In our exercise, we'll use the sizes small, medium, large and extra large for sizing.
 >
@@ -1874,7 +1850,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/exercise-size-your-work?u=76281980&t=71)** Think of developing a new report or designing a landing page.
 >
-> **[1:14](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/exercise-size-your-work?u=76281980&t=74)** And finally, an Excel task is a major undertaking that could take weeks or even longer.
+> **[1:14](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/exercise-size-your-work?u=76281980&t=74)** And finally, an [[Microsoft Excel|Excel]] task is a major undertaking that could take weeks or even longer.
 >
 > **[1:21](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/exercise-size-your-work?u=76281980&t=81)** This can be like migrating a database or re-architecting a system.
 >
@@ -1894,13 +1870,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (1), application (1), [[Microsoft Excel|Excel]] (1), database (1), feature (1)
+> **Frameworks & Libraries:** [[Scrum]] (1), [[Microsoft Excel|Excel]] (1)
 > **Definitions:** is a  (3), is called (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - okay (1)
 
-#### Solution: Size your work
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/solution-size-your-work?u=76281980)
+#### [Solution: Size your work](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/solution-size-your-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1922,7 +1897,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/solution-size-your-work?u=76281980&t=36)** So, question, when you ran through your exercise, what tasks did you find hard to size?
 >
-> **[0:43](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/solution-size-your-work?u=76281980&t=43)** Were they the ones you eventually set a small and medium, or were they the larger and excel tasks?
+> **[0:43](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/solution-size-your-work?u=76281980&t=43)** Were they the ones you eventually set a small and medium, or were they the larger and [[Microsoft Excel|excel]] tasks?
 >
 > **[0:50](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/solution-size-your-work?u=76281980&t=50)** Take a moment and write down one example of a task you found difficult to size, and explain why.
 >
@@ -1992,8 +1967,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - welcome (1)
 
-#### Learning by working together
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/learning-by-working-together?u=76281980)
+#### [Learning by working together](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/learning-by-working-together?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2009,7 +1983,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/learning-by-working-together?u=76281980&t=41)** Any meaningful change identified then either meant Dev had to perform extensive rework or ops had their concerns overridden and just had to deal with the operational fallout.
 >
-> **[0:53](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/learning-by-working-together?u=76281980&t=53)** We knew Agile and DevOps theory told us would get better results from collaboration, but initially that didn't go well.
+> **[0:53](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/learning-by-working-together?u=76281980&t=53)** We knew [[Agile Development|Agile]] and [[DevOps]] theory told us would get better results from collaboration, but initially that didn't go well.
 >
 > **[1:01](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/learning-by-working-together?u=76281980&t=61)** - Yeah, that was terrible.
 >
@@ -2023,11 +1997,11 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/learning-by-working-together?u=76281980&t=94)** Ernest and I had to put a stop to that.
 >
-> **[1:37](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/learning-by-working-together?u=76281980&t=97)** This was more about team collaboration and we had to harmonize the team as opposed to doing separate things.
+> **[1:37](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/learning-by-working-together?u=76281980&t=97)** This was more about [[Team Collaboration]] and we had to harmonize the team as opposed to doing separate things.
 >
-> **[1:44](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/learning-by-working-together?u=76281980&t=104)** - Karthik and I agreed that we wanted to build a scalable and secure system, and we'd decided on core performance, velocity, and security metrics that were shared goals not owned solely by ops or dev.
+> **[1:44](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/learning-by-working-together?u=76281980&t=104)** - Karthik and I agreed that we wanted to build a scalable and secure system, and we'd decided on core performance, velocity, and [[Security Metrics]] that were shared goals not owned solely by ops or dev.
 >
-> **[1:57](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/learning-by-working-together?u=76281980&t=117)** - [Karthik] We needed both teams involved in defining the core system architecture upfront.
+> **[1:57](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/learning-by-working-together?u=76281980&t=117)** - [Karthik] We needed both teams involved in defining the core [[System Architecture]] upfront.
 >
 > **[2:02](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/learning-by-working-together?u=76281980&t=122)** Participating in design reviews together was crucial.
 >
@@ -2061,22 +2035,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (3), [[Security]] (2), [[Agile Development|Agile]] (1), [[DevOps]] (1), [[Team Collaboration]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), [[DevOps]] (1), [[Team Collaboration]] (1), [[Security Metrics]] (1), [[System Architecture]] (1)
 > **Speakers:** - [karthik] (3), - and (2), - making (1), - one (1), - yeah (1)
 > **Env Vars:** red30 (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is an  (1)
 
-#### Learning from experience
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/learning-from-experience?u=76281980)
+#### [Learning from experience](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/learning-from-experience?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/learning-from-experience?u=76281980&t=0)** - After a number of iterations through our process, we found ourselves repeating some of the same mistakes, so we started another Common Agile Practice, the retrospective.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/learning-from-experience?u=76281980&t=0)** - After a number of iterations through our process, we found ourselves repeating some of the same mistakes, so we started another Common [[Agile Development|Agile]] Practice, the retrospective.
 >
 > **[0:11](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/learning-from-experience?u=76281980&t=11)** - A retrospective is a meeting where the team gets together and discusses what has gone well, what has gone poorly, and any ideas for improvement.
 >
-> **[0:20](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/learning-from-experience?u=76281980&t=20)** Usually in Scrum, you have a retrospective at the end of each sprint.
+> **[0:20](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/learning-from-experience?u=76281980&t=20)** Usually in [[Scrum]], you have a retrospective at the end of each sprint.
 >
 > **[0:24](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/learning-from-experience?u=76281980&t=24)** In Kanban, you pick a similar cadence to schedule it.
 >
@@ -2152,7 +2125,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), [[Scrum]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), [[Scrum]] (1)
 > **Speakers:** - we (3), - what (2), - after (1), - a (1), - there (1)
 > **Definitions:** is a  (1), known as (1)
 > **CLI Commands:** find (1)
@@ -2164,18 +2137,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Agile: Organizational scaling
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-organizational-scaling?u=76281980)
+#### [Agile: Organizational scaling](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-organizational-scaling?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-organizational-scaling?u=76281980&t=1)** - We'd come through phase two of our lean and agile DevOps implementation at Red 30 technologies, and we're ready for phase three.
+> **[0:01](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-organizational-scaling?u=76281980&t=1)** - We'd come through phase two of our lean and [[Agile Development|agile]] [[DevOps]] implementation at Red 30 technologies, and we're ready for phase three.
 >
 > **[0:08](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-organizational-scaling?u=76281980&t=8)** Remember, while this specific story is fictional, it's composed of real experiences Karthik and I have had during similar implementations with a variety of companies.
 >
 > **[0:18](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-organizational-scaling?u=76281980&t=18)** - We had proven our approach on one project and then other projects organically adopted our approach and platform.
 >
-> **[0:26](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-organizational-scaling?u=76281980&t=26)** It was time for us to take this wider to the rest of our product development organization.
+> **[0:26](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-organizational-scaling?u=76281980&t=26)** It was time for us to take this wider to the [[Representational State Transfer (REST)|rest]] of our [[Product Development]] organization.
 >
 > **[0:30](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-organizational-scaling?u=76281980&t=30)** - This required wider leadership commitment.
 >
@@ -2199,7 +2171,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-organizational-scaling?u=76281980&t=96)** I would hope you don't need us to tell you that that's not helpful.
 >
-> **[1:42](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-organizational-scaling?u=76281980&t=102)** And well, we also hope that you notice that throughout our own agile journey at Red 30, rather than just implementing every scrum practice because the book tells you that's what you're supposed to do, we focused on what was practical for us, right?
+> **[1:42](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-organizational-scaling?u=76281980&t=102)** And well, we also hope that you notice that throughout our own agile journey at Red 30, rather than just implementing every [[Scrum]] practice because the book tells you that's what you're supposed to do, we focused on what was practical for us, right?
 >
 > **[1:58](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-organizational-scaling?u=76281980&t=118)** We introduced individual practices gradually, we measured their impact, and then we only kept what really worked for our team and for our product.
 >
@@ -2207,7 +2179,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-organizational-scaling?u=76281980&t=133)** Since our product lines were pretty independent and we felt it best for each of those product teams to evolve agile in the way that brought them the most benefit.
 >
-> **[2:22](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-organizational-scaling?u=76281980&t=142)** We thought SAFe might've been better if our products were more tightly coupled and we needed more coordination between teams, but in our case, consistency would've just been a form of waste.
+> **[2:22](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-organizational-scaling?u=76281980&t=142)** We thought SAFe might've been better if our [[Microsoft Products|products]] were more tightly coupled and we needed more coordination between teams, but in our case, consistency would've just been a form of waste.
 >
 > **[2:33](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-organizational-scaling?u=76281980&t=153)** - So we shared best practices and gave each team the responsibility to choose their own path that improved their delivery.
 >
@@ -2231,13 +2203,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (8), product (4), teams (3), [[DevOps]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (8), [[DevOps]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Product Development]] (1), [[Scrum]] (1)
 > **Speakers:** - we (3), - this (1), - the (1), - so (1), - and (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** earlier in (1)
 
-#### Exercise: Create a value stream
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/exercise-create-a-value-stream?u=76281980)
+#### [Exercise: Create a value stream](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/exercise-create-a-value-stream?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2257,7 +2228,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/exercise-create-a-value-stream?u=76281980&t=49)** Next, pick a tool to draw it in.
 >
-> **[0:51](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/exercise-create-a-value-stream?u=76281980&t=51)** Most diagramming tools like Visio and Miro have value stream shapes in them.
+> **[0:51](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/exercise-create-a-value-stream?u=76281980&t=51)** Most [[Diagramming]] tools like Visio and Miro have value stream shapes in them.
 >
 > **[0:56](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/exercise-create-a-value-stream?u=76281980&t=56)** Use one you're familiar with, or you can use the free online drawing service, [draw.io](https://draw.io).
 >
@@ -2301,7 +2272,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Diagramming]] (1), game (1)
+> **Frameworks & Libraries:** [[Diagramming]] (1)
 > **URLs:** [draw.io](https://draw.io) (2)
 > **Analogies:** imagine (1), for example (1)
 > **CLI Commands:** make (1)
@@ -2309,8 +2280,7 @@ created: 2026-05-02
 > **Definitions:** we call this (1)
 > **Speakers:** - let (1)
 
-#### Solution: Create a value stream
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/solution-create-a-value-stream?u=76281980)
+#### [Solution: Create a value stream](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/solution-create-a-value-stream?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2332,7 +2302,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/solution-create-a-value-stream?u=76281980&t=45)** And only a third of that time is me performing value added steps like painting.
 >
-> **[0:50](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/solution-create-a-value-stream?u=76281980&t=50)** The rest is waste, but it's a good example of Type 1 Muda waste, and that it's necessary, the paint has to dry before I can add another coat.
+> **[0:50](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/solution-create-a-value-stream?u=76281980&t=50)** The [[Representational State Transfer (REST)|rest]] is waste, but it's a good example of Type 1 Muda waste, and that it's necessary, the paint has to dry before I can add another coat.
 >
 > **[1:00](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/solution-create-a-value-stream?u=76281980&t=60)** How about your example?
 >
@@ -2376,7 +2346,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/solution-create-a-value-stream?u=76281980&t=155)** Of course, real value streams get way more complicated than this.
 >
-> **[2:39](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/solution-create-a-value-stream?u=76281980&t=159)** For a software development lifecycle, you have a whole team of people, you have handoffs between other teams, and you have features that fail testing and have to go back through some of the steps in the value stream.
+> **[2:39](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/solution-create-a-value-stream?u=76281980&t=159)** For a [[Software Development]] lifecycle, you have a whole team of people, you have handoffs between other teams, and you have features that fail testing and have to go back through some of the steps in the value stream.
 >
 > **[2:51](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/solution-create-a-value-stream?u=76281980&t=171)** You'll find obvious delays like waiting on a shared QA team or software releases and more complicated ones like rework.
 >
@@ -2398,14 +2368,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), game (1), [[Software Development]] (1), teams (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Software Development]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is an  (1), means that (1)
 > **Analogies:** for example (1)
 > **Speakers:** - welcome (1)
 
-#### DevOps: Scaling DevOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-scaling-devops?u=76281980)
+#### [DevOps: Scaling DevOps](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-scaling-devops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2413,7 +2382,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-scaling-devops?u=76281980&t=5)** We needed more processing power, storage, and networking to process all our users print jobs across the internet.
 >
-> **[0:12](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-scaling-devops?u=76281980&t=12)** - While we had already built automated deployments for our CICD pipeline and were using infrastructure as code to provision our systems, scaling them efficiently required more investment in management tools.
+> **[0:12](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-scaling-devops?u=76281980&t=12)** - While we had already built automated deployments for our CICD pipeline and were using [[Infrastructure as code (IaC)|infrastructure as code]] to provision our systems, scaling them efficiently required more investment in management tools.
 >
 > **[0:24](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-scaling-devops?u=76281980&t=24)** - We decided to use a site reliability engineering approach to continue using a software engineering model for our operations.
 >
@@ -2435,7 +2404,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-scaling-devops?u=76281980&t=101)** We made the dev team in charge of the online print queue build in instrumentation such that their service would send more relevant information on jobs speeds, queue length, errors, and so on to our monitoring system, so that we could all understand what was happening in production.
 >
-> **[1:59](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-scaling-devops?u=76281980&t=119)** - This illustrates a common DevOps pattern called Shift Left, which means building in operational concerns earlier in the development process, moving them left along the value stream.
+> **[1:59](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-scaling-devops?u=76281980&t=119)** - This illustrates a common [[DevOps]] pattern called Shift Left, which means building in operational concerns earlier in the development process, moving them left along the value stream.
 >
 > **[2:10](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-scaling-devops?u=76281980&t=130)** Trying to bolt on quality, security and reliability to code that has already been built is an expensive losing proposition.
 >
@@ -2455,13 +2424,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (3), [[Automation]] (3), product (3), data (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Infrastructure as code (IaC)|Infrastructure as code]] (1), [[DevOps]] (1)
 > **Speakers:** - this (2), - as (1), - while (1), - we (1), - when (1)
 > **Env Vars:** cicd (1), cpu (1)
 > **Definitions:** is an  (1)
 
-#### Building a culture of metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/building-a-culture-of-metrics?u=76281980)
+#### [Building a culture of metrics](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/building-a-culture-of-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2481,7 +2449,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/building-a-culture-of-metrics?u=76281980&t=43)** - Then, we set internal goals for these metrics, which we call Service Level Objectives or SLOs.
 >
-> **[0:50](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/building-a-culture-of-metrics?u=76281980&t=50)** These let the team know how well a service should perform and our product and DevOps teams would know what kind of uptime and response times to set as goals.
+> **[0:50](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/building-a-culture-of-metrics?u=76281980&t=50)** These let the team know how well a service should perform and our product and [[DevOps]] teams would know what kind of uptime and response times to set as goals.
 >
 > **[0:59](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/building-a-culture-of-metrics?u=76281980&t=59)** - But high reliability isn't free.
 >
@@ -2533,14 +2501,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), teams (3), data (2), next (2), [[DevOps]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (1)
 > **Speakers:** - we (2), - for (2), - welcome (1), - then (1), - but (1)
 > **CLI Commands:** make (1)
 > **Versions:** 99.9 (1)
 > **Analogies:** imagine (1)
 
-#### Continuous learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/continuous-learning?u=76281980)
+#### [Continuous learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/continuous-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2560,7 +2527,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/continuous-learning?u=76281980&t=65)** We created structured opportunities for everyone to grow their skills.
 >
-> **[1:09](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/continuous-learning?u=76281980&t=69)** We gave everyone access to LinkedIn Learning, and launched an in-house mentoring program, pairing experienced team members with newer ones.
+> **[1:09](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/continuous-learning?u=76281980&t=69)** We gave everyone access to [[LinkedIn]] Learning, and launched an in-house mentoring program, pairing experienced team members with newer ones.
 >
 > **[1:18](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/continuous-learning?u=76281980&t=78)** We immediately saw benefits, knowledge sharing skyrocketed, and morale improved.
 >
@@ -2608,7 +2575,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/continuous-learning?u=76281980&t=189)** In other words, their sentiment about whether they felt things were improving that we could use in the check stage.
 >
-> **[3:16](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/continuous-learning?u=76281980&t=196)** - Building a sustainable DevOps culture is the ultimate marathon, and at Red 30 we learned that investing in our people, fostering continuous learning, and embracing Kaizen, let us go the distance.
+> **[3:16](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/continuous-learning?u=76281980&t=196)** - Building a sustainable [[DevOps]] culture is the ultimate marathon, and at Red 30 we learned that investing in our people, fostering continuous learning, and embracing Kaizen, let us go the distance.
 >
 > **[3:30](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/continuous-learning?u=76281980&t=210)** - And there you have it.
 >
@@ -2618,7 +2585,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (1), product (1), [[LinkedIn]] (1), [[Automation]] (1), [[DevOps]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[DevOps]] (1)
 > **Speakers:** - and (3), - then (2), - at (1), - our (1), - we (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** pto (1), pdca (1)
@@ -2631,18 +2598,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Organizing for action
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/organizing-for-action?u=76281980)
+#### [Organizing for action](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/organizing-for-action?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/organizing-for-action?u=76281980&t=0)** - We've already discussed the shift to Agile and DevOps, and now let's jump into a critical, often overlooked factor, organizational structure.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/organizing-for-action?u=76281980&t=0)** - We've already discussed the shift to [[Agile Development|Agile]] and [[DevOps]], and now let's jump into a critical, often overlooked factor, organizational structure.
 >
 > **[0:10](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/organizing-for-action?u=76281980&t=10)** Let's start by looking at Conway's Law.
 >
 > **[0:12](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/organizing-for-action?u=76281980&t=12)** Back in 1967, this program of Melvin Conway pointed out that organizations tend to create systems that mirror their own communication structure.
 >
-> **[0:22](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/organizing-for-action?u=76281980&t=22)** Basically, how you talk to each other shapes the products you build.
+> **[0:22](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/organizing-for-action?u=76281980&t=22)** Basically, how you talk to each other shapes the [[Microsoft Products|products]] you build.
 >
 > **[0:27](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/organizing-for-action?u=76281980&t=27)** So how you set up your teams and communication lines is absolutely crucial for your product success.
 >
@@ -2650,7 +2616,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/organizing-for-action?u=76281980&t=39)** - So let me tell you about a time I used Conway's Law to put myself out of a job.
 >
-> **[0:44](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/organizing-for-action?u=76281980&t=44)** I was running the ops team at a SaaS company that was going through a DevOps transformation of this sort, and I identified that having the ops team at all was one of the key problems that was blocking the organization from improving.
+> **[0:44](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/organizing-for-action?u=76281980&t=44)** I was running the ops team at a [[SaaS]] company that was going through a DevOps transformation of this sort, and I identified that having the ops team at all was one of the key problems that was blocking the organization from improving.
 >
 > **[1:00](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/organizing-for-action?u=76281980&t=60)** We had separate development teams in charge of individual services, but they would consistently shortchange operational concerns and then just leave them to my ops team to handle.
 >
@@ -2678,7 +2644,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/organizing-for-action?u=76281980&t=154)** It shows that high performing organizations have what's called a generative culture.
 >
-> **[2:40](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/organizing-for-action?u=76281980&t=160)** This comes from the Western model, which breaks down organizational culture into three types: pathological, bureaucratic, and generative.
+> **[2:40](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/organizing-for-action?u=76281980&t=160)** This comes from the Western model, which breaks down [[Organizational Culture]] into three types: pathological, bureaucratic, and generative.
 >
 > **[2:50](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/organizing-for-action?u=76281980&t=170)** Generative cultures are all about cooperation and inquiry, so how do we foster that?
 >
@@ -2718,19 +2684,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (10), [[DevOps]] (6), [[Agile Development|Agile]] (1), [[Microsoft Products|Products]] (1), product (1)
+> **Frameworks & Libraries:** [[DevOps]] (6), [[Agile Development|Agile]] (1), [[Microsoft Products|Products]] (1), [[SaaS]] (1), [[Organizational Culture]] (1)
 > **Speakers:** - we (1), - so (1), - another (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Best Practices:** don't forget (1)
 > **Prerequisites:** set up (1)
 
-#### Addressing doubts
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/addressing-doubts?u=76281980)
+#### [Addressing doubts](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/addressing-doubts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/addressing-doubts?u=76281980&t=0)** - Every new organization where agile and lean concepts are introduced goes through an initial reaction of, "That sounds great, but it'll never work here."
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/addressing-doubts?u=76281980&t=0)** - Every new organization where [[Agile Development|agile]] and lean concepts are introduced goes through an initial reaction of, "That sounds great, but it'll never work here."
 >
 > **[0:09](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/addressing-doubts?u=76281980&t=9)** People can find it hard to believe given their current situation, that they'll be able to get to a place where everyone's trusting each other and working together constructively.
 >
@@ -2744,7 +2709,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/addressing-doubts?u=76281980&t=51)** First, be pragmatic, not dogmatic.
 >
-> **[0:55](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/addressing-doubts?u=76281980&t=55)** I've had people say to me, "I've never seen scrum work, so instead, let's work in iterations and do demos every two weeks and work off a backlog", all of which are scrum practices, and that's fine.
+> **[0:55](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/addressing-doubts?u=76281980&t=55)** I've had people say to me, "I've never seen [[Scrum]] work, so instead, let's work in iterations and do demos every two weeks and work off a backlog", all of which are scrum practices, and that's fine.
 >
 > **[1:07](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/addressing-doubts?u=76281980&t=67)** Don't get obsessed with terminology or in doing book perfect scrum or safe or whatever process you want to adopt.
 >
@@ -2764,7 +2729,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/addressing-doubts?u=76281980&t=127)** Also, you can't be impatient and just rely on some specific agile tool to save you.
 >
-> **[2:14](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/addressing-doubts?u=76281980&t=134)** Using a tool doesn't make you agile or lean or DevOps.
+> **[2:14](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/addressing-doubts?u=76281980&t=134)** Using a tool doesn't make you agile or lean or [[DevOps]].
 >
 > **[2:18](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/addressing-doubts?u=76281980&t=138)** Only implementing those mindsets at a profound level in your organization does.
 >
@@ -2776,7 +2741,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/addressing-doubts?u=76281980&t=158)** Pulling instead of pushing and delivering the minimum, and then iterating based on feedback are very different from how many organizations work on both explicit and implicit levels.
 >
-> **[2:50](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/addressing-doubts?u=76281980&t=170)** In terms of specific DevOps practices, it's continuous delivery that I usually hear can't happen here, but there's no difference between an org that writes tests with each new check-in and one that doesn't except for simply deciding that that's what you're going to do.
+> **[2:50](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/addressing-doubts?u=76281980&t=170)** In terms of specific DevOps practices, it's [[Continuous Delivery (CD)|continuous delivery]] that I usually hear can't happen here, but there's no difference between an org that writes tests with each new check-in and one that doesn't except for simply deciding that that's what you're going to do.
 >
 > **[3:09](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/addressing-doubts?u=76281980&t=189)** I've seen the same organization with the same people move from painful, slow air prone delivery to fast, reliable delivery.
 >
@@ -2804,21 +2769,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (8), [[Scrum]] (3), teams (2), [[DevOps]] (2), ai (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (8), [[Scrum]] (3), [[DevOps]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** ide (2)
 > **URLs:** [digital.ai](https://digital.ai) (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - every (1)
 
-#### Advanced topics
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/advanced-topics?u=76281980)
+#### [Advanced topics](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/advanced-topics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/advanced-topics?u=76281980&t=0)** - Okay, we've got the basics down, but the tech industry is always evolving, so let's level up and investigate some technologies that can help us in our Agile journey.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/advanced-topics?u=76281980&t=0)** - Okay, we've got the basics down, but the tech industry is always evolving, so let's level up and investigate some technologies that can help us in our [[Agile Development|Agile]] journey.
 >
-> **[0:11](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/advanced-topics?u=76281980&t=11)** Continuous delivery and continuous deployment represent pivotal advancements in software release methodologies.
+> **[0:11](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/advanced-topics?u=76281980&t=11)** [[Continuous Delivery (CD)|Continuous delivery]] and continuous deployment represent pivotal advancements in software release methodologies.
 >
 > **[0:18](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/advanced-topics?u=76281980&t=18)** Continuous delivery focuses on automating the software release pipeline, ensuring that every code change is tested and prepared for a production deployment.
 >
@@ -2868,11 +2832,11 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/advanced-topics?u=76281980&t=160)** Now, let's talk about gen AI and the workflow.
 >
-> **[2:44](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/advanced-topics?u=76281980&t=164)** You may have already seen AI being used in development to help create and understand code inside code editors using tools like GitHub Copilot, Gemini Code Assist, or Cursor.
+> **[2:44](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/advanced-topics?u=76281980&t=164)** You may have already seen AI being used in development to help create and understand code inside code editors using tools like [[GitHub Copilot]], [[Gemini]] Code Assist, or Cursor.
 >
-> **[2:55](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/advanced-topics?u=76281980&t=175)** But what about the rest of the software development lifecycle?
+> **[2:55](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/advanced-topics?u=76281980&t=175)** But what about the [[Representational State Transfer (REST)|rest]] of the [[Software Development]] lifecycle?
 >
-> **[2:59](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/advanced-topics?u=76281980&t=179)** Lean, Agile, and DevOps are all about speed and efficiency.
+> **[2:59](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/advanced-topics?u=76281980&t=179)** Lean, Agile, and [[DevOps]] are all about speed and efficiency.
 >
 > **[3:05](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/advanced-topics?u=76281980&t=185)** It's about getting rapid feedback to make things better and faster.
 >
@@ -2880,7 +2844,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/advanced-topics?u=76281980&t=192)** Instead of waiting for someone to process user feedback or metrics manually, AI-based systems can deliver insights instantly.
 >
-> **[3:21](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/advanced-topics?u=76281980&t=201)** Think real time dashboards showing you bottlenecks, inefficiencies, and where you can improve, reducing all of that guesswork and toil.
+> **[3:21](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/advanced-topics?u=76281980&t=201)** Think real time [[Dashboards]] showing you bottlenecks, inefficiencies, and where you can improve, reducing all of that guesswork and toil.
 >
 > **[3:30](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/advanced-topics?u=76281980&t=210)** Then there's the Lean principle of eliminating waste.
 >
@@ -2888,7 +2852,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/advanced-topics?u=76281980&t=219)** Consider the testing use case.
 >
-> **[3:42](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/advanced-topics?u=76281980&t=222)** Instead of writing every single unit test, Google Gemini or ChatGPT can generate them with prompting and analyzing from your source.
+> **[3:42](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/advanced-topics?u=76281980&t=222)** Instead of writing every single unit test, [[Google Gemini]] or [[ChatGPT]] can generate them with prompting and analyzing from your source.
 >
 > **[3:50](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/advanced-topics?u=76281980&t=230)** And for continuous improvement, consider using AI to analyze your processes, identify patterns, sizing work, and suggest optimizations you might not even have thought of.
 >
@@ -2896,7 +2860,7 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/advanced-topics?u=76281980&t=248)** It's about making feedback loops faster, streamlining your processes, and driving continuous improvement with data-driven precision.
 >
-> **[4:16](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/advanced-topics?u=76281980&t=256)** One word of caution: it is very important for you or another human to validate AI responses.
+> **[4:16](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/advanced-topics?u=76281980&t=256)** One [[Microsoft Word|word]] of caution: it is very important for you or another human to validate AI responses.
 >
 > **[4:23](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/advanced-topics?u=76281980&t=263)** AI works well, but you have to have some oversight to avoid embarrassing mistakes, or use it as an opportunity to tune your response.
 >
@@ -2914,7 +2878,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), feature (7), [[Agile Development|Agile]] (3), [[Continuous Delivery (CD)|Continuous delivery]] (3), teams (2)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), [[Continuous Delivery (CD)|Continuous delivery]] (3), [[DevOps]] (2), [[GitHub Copilot]] (1), [[Gemini]] (1)
 > **CLI Commands:** cd (1), make (1)
 > **Analogies:** imagine (1), it's like (1)
 > **Tools:** github (1)
@@ -2926,12 +2890,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing on with lean and agile
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/continuing-on-with-lean-and-agile?u=76281980)
+#### [Continuing on with lean and agile](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/continuing-on-with-lean-and-agile?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/continuing-on-with-lean-and-agile?u=76281980&t=0)** - That's our course on Lean and Agile in a DevOps context.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/continuing-on-with-lean-and-agile?u=76281980&t=0)** - That's our course on Lean and [[Agile Development|Agile]] in a [[DevOps]] context.
 >
 > **[0:05](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/continuing-on-with-lean-and-agile?u=76281980&t=5)** - We covered the basics of Agile and Lean, and then we walked you through a sample DevOps transformation based on our experiences.
 >
@@ -2963,23 +2926,23 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/continuing-on-with-lean-and-agile?u=76281980&t=88)** Some of the techniques, like estimation, take a while to master.
 >
-> **[1:32](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/continuing-on-with-lean-and-agile?u=76281980&t=92)** - [Instructor] For Scrum masters and managers, work on empowering your team to measure process and keep focus and help when they have challenges.
+> **[1:32](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/continuing-on-with-lean-and-agile?u=76281980&t=92)** - [Instructor] For [[Scrum]] masters and managers, work on empowering your team to measure process and keep focus and help when they have challenges.
 >
 > **[1:41](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/continuing-on-with-lean-and-agile?u=76281980&t=101)** - For higher level leaders, ensure you're building a sustainable set of practices.
 >
 > **[1:47](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/continuing-on-with-lean-and-agile?u=76281980&t=107)** Your people are your most important asset.
 >
-> **[1:50](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/continuing-on-with-lean-and-agile?u=76281980&t=110)** Lean on goals like OKRs and value measurement, but remember, it's the people and organizational culture across different teams that'll make the difference for you.
+> **[1:50](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/continuing-on-with-lean-and-agile?u=76281980&t=110)** Lean on goals like OKRs and value measurement, but remember, it's the people and [[Organizational Culture]] across different teams that'll make the difference for you.
 >
 > **[2:01](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/continuing-on-with-lean-and-agile?u=76281980&t=121)** - The real game changer that Lean and Agile bring in is empowerment and respect for your employees.
 >
 > **[2:07](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/continuing-on-with-lean-and-agile?u=76281980&t=127)** It outrageously benefits both business outcomes and the quality of life of teams involved.
 >
-> **[2:13](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/continuing-on-with-lean-and-agile?u=76281980&t=133)** - Thanks for joining us in the course, and would love for you to share your own Lean, Agile and DevOps journeys with us here on LinkedIn.
+> **[2:13](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/continuing-on-with-lean-and-agile?u=76281980&t=133)** - Thanks for joining us in the course, and would love for you to share your own Lean, Agile and DevOps journeys with us here on [[LinkedIn]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (4), [[DevOps]] (3), teams (2), [[Engineering]] (1), [[Scrum]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (4), [[DevOps]] (3), [[Scrum]] (1), [[Organizational Culture]] (1), [[LinkedIn]] (1)
 > **Speakers:** - [instructor] (2), - that (1), - we (1), - so (1), - adopting (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** we covered (1)

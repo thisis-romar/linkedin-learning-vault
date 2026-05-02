@@ -98,12 +98,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Structuring your apps for the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/structuring-your-apps-for-the-cloud-2?u=76281980)
+#### [Structuring your apps for the cloud](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/structuring-your-apps-for-the-cloud-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/structuring-your-apps-for-the-cloud-2?u=76281980&t=0)** - [Instructor] Angular is a powerful and feature-packed framework that makes building Web applications so much more enjoyable.
+> **[0:00](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/structuring-your-apps-for-the-cloud-2?u=76281980&t=0)** - [Instructor] [[Angular]] is a powerful and feature-packed framework that makes building Web applications so much more enjoyable.
 >
 > **[0:06](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/structuring-your-apps-for-the-cloud-2?u=76281980&t=6)** I personally love building apps with Angular because it allows me to be productive.
 >
@@ -111,9 +110,9 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/structuring-your-apps-for-the-cloud-2?u=76281980&t=16)** You need hosting, APIs, authentication, and deployments.
 >
-> **[0:20](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/structuring-your-apps-for-the-cloud-2?u=76281980&t=20)** For a very long time, these needs were delegated to back-end developers or devops engineers.
+> **[0:20](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/structuring-your-apps-for-the-cloud-2?u=76281980&t=20)** For a very long time, these needs were delegated to back-end developers or [[DevOps]] engineers.
 >
-> **[0:25](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/structuring-your-apps-for-the-cloud-2?u=76281980&t=25)** Firebase by Google empowers front-end developers to quickly tackle these problems and focus on what they love.
+> **[0:25](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/structuring-your-apps-for-the-cloud-2?u=76281980&t=25)** [[Firebase]] by [[Google]] empowers front-end developers to quickly tackle these problems and focus on what they love.
 >
 > **[0:31](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/structuring-your-apps-for-the-cloud-2?u=76281980&t=31)** Hi, I'm Victor Mejia.
 >
@@ -129,7 +128,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/structuring-your-apps-for-the-cloud-2?u=76281980&t=59)** Firebase by Google allows you to do exactly that.
 >
-> **[1:02](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/structuring-your-apps-for-the-cloud-2?u=76281980&t=62)** Backed by Google Cloud Platform and used by some of the largest apps today, Firebase is a suite of tools to help build and scale your Web application.
+> **[1:02](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/structuring-your-apps-for-the-cloud-2?u=76281980&t=62)** Backed by [[Google Cloud Platform (GCP)|Google Cloud Platform]] and used by some of the largest apps today, Firebase is a suite of tools to help build and scale your Web application.
 >
 > **[1:12](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/structuring-your-apps-for-the-cloud-2?u=76281980&t=72)** We will first take a look at the Firebase console, and see how we can manage different Firebase projects.
 >
@@ -137,7 +136,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/structuring-your-apps-for-the-cloud-2?u=76281980&t=82)** As we build out features, we will need to store data using Firebase Cloud Firestore along the way.
 >
-> **[1:28](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/structuring-your-apps-for-the-cloud-2?u=76281980&t=88)** To store files like images, we will be using Firebase Cloud Storage.
+> **[1:28](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/structuring-your-apps-for-the-cloud-2?u=76281980&t=88)** To store files like images, we will be using Firebase [[Cloud Storage]].
 >
 > **[1:32](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/structuring-your-apps-for-the-cloud-2?u=76281980&t=92)** We will then jump into the serverless world and learn how to create our own serverless functions using Firebase Cloud Functions.
 >
@@ -147,18 +146,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Firebase]] (12), [[Angular]] (4), cloud (4), [[Google]] (3), web (2)
+> **Frameworks & Libraries:** [[Firebase]] (12), [[Angular]] (4), [[Google]] (3), [[DevOps]] (1), [[Google Cloud Platform (GCP)|Google cloud platform]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/what-you-should-know-2?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/what-you-should-know-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/what-you-should-know-2?u=76281980&t=0)** - [Instructor] This course will assume a basic understanding of Angular.
+> **[0:00](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/what-you-should-know-2?u=76281980&t=0)** - [Instructor] This course will assume a basic understanding of [[Angular]].
 >
-> **[0:03](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/what-you-should-know-2?u=76281980&t=3)** The Angular CLI assumes that you have Node, npm, and Git installed on your system.
+> **[0:03](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/what-you-should-know-2?u=76281980&t=3)** The [[Angular CLI]] assumes that you have Node, [[npm]], and [[Git]] installed on your system.
 >
 > **[0:09](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/what-you-should-know-2?u=76281980&t=9)** If you're unfamiliar with Angular, I recommend you watch our Essential Training Course for Angular.
 >
@@ -172,7 +170,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/what-you-should-know-2?u=76281980&t=33)** You can download it from code.[visualstudio.com](https://visualstudio.com).
 >
-> **[0:37](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/what-you-should-know-2?u=76281980&t=37)** Its native TypeScript support, intelligent JavaScript code editing, and cross-platform support makes it the perfect choice for Angular development.
+> **[0:37](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/what-you-should-know-2?u=76281980&t=37)** Its native TypeScript support, intelligent [[JavaScript]] code editing, and cross-platform support makes it the perfect choice for Angular development.
 >
 > **[0:44](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/what-you-should-know-2?u=76281980&t=44)** If you're interested in the theme I am using, it is the Night Owl theme by Sarah Drasner.
 >
@@ -180,11 +178,11 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/what-you-should-know-2?u=76281980&t=53)** If you're on a Mac, I recommend downloading and installing iTerm2, version three and using a shell like ZSH and the Oh My Zsh framework, as it provides you with tooling that will make you more productive at your terminal.
 >
-> **[1:07](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/what-you-should-know-2?u=76281980&t=67)** If you're on a Windows machine, I highly recommend you check out Cmder as an alternative to the Command prompt.
+> **[1:07](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/what-you-should-know-2?u=76281980&t=67)** If you're on a [[Windows]] machine, I highly recommend you check out Cmder as an alternative to the Command prompt.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (4), node (3), [[npm]] (3), [[Git]] (3), [[Angular CLI]] (2)
+> **Frameworks & Libraries:** [[Angular]] (4), [[npm]] (3), [[Git]] (3), [[Angular CLI]] (2), [[JavaScript]] (1)
 > **CLI Commands:** node (3), npm (3), git (3), make (1)
 > **Tools:** terminal (2), zsh (2), visual studio (1), command prompt (1)
 > **Env Vars:** cli (2), zsh (1)
@@ -193,12 +191,11 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/using-the-exercise-files-2?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/using-the-exercise-files-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/using-the-exercise-files-2?u=76281980&t=0)** - [Instructor] The exercise file contains a Git repository, where we'll be building a fictitious app called The Grid, which will contain a list of secret agents.
+> **[0:00](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/using-the-exercise-files-2?u=76281980&t=0)** - [Instructor] The exercise file contains a [[Git]] repository, where we'll be building a fictitious app called The Grid, which will contain a list of secret agents.
 >
 > **[0:10](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/using-the-exercise-files-2?u=76281980&t=10)** The master branch contains the completed application, and the starting points for this course will be the branch 01-04-begin.
 >
@@ -206,7 +203,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/using-the-exercise-files-2?u=76281980&t=25)** I recommend you start here and work together with me and build the entire application.
 >
-> **[0:31](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/using-the-exercise-files-2?u=76281980&t=31)** Once you download the exercise files, you will only need to npm install once, and you can do this at the root of the project.
+> **[0:31](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/using-the-exercise-files-2?u=76281980&t=31)** Once you download the exercise files, you will only need to [[npm]] install once, and you can do this at the root of the project.
 >
 > **[0:38](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/using-the-exercise-files-2?u=76281980&t=38)** Let me checkout the master branch, and then npm install.
 >
@@ -226,7 +223,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[npm]] (2), [[Git]] (1), data (1)
+> **Frameworks & Libraries:** [[npm]] (2), [[Git]] (1)
 > **CLI Commands:** npm (2), git (1)
 > **Exercise Files:** exercise file (1), download the (1), exercise files (1)
 > **Prerequisites:** install (2)
@@ -239,12 +236,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Installing tools and CLIs
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/installing-tools-and-clis-2?u=76281980)
+#### [Installing tools and CLIs](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/installing-tools-and-clis-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/installing-tools-and-clis-2?u=76281980&t=0)** - [Instructor] We will be using both the Node.js runtime, along with NPM.
+> **[0:00](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/installing-tools-and-clis-2?u=76281980&t=0)** - [Instructor] We will be using both the [[Node.js]] runtime, along with [[npm]].
 >
 > **[0:04](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/installing-tools-and-clis-2?u=76281980&t=4)** We will be working with the current LTS, which is 10.16.3 at the time of this recording.
 >
@@ -256,7 +252,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/installing-tools-and-clis-2?u=76281980&t=25)** I'm on a Mac, so I'm going to head over and use the iTerm2 application.
 >
-> **[0:29](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/installing-tools-and-clis-2?u=76281980&t=29)** If you're on a Windows machine, use the install command prompt.
+> **[0:29](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/installing-tools-and-clis-2?u=76281980&t=29)** If you're on a [[Windows]] machine, use the install command prompt.
 >
 > **[0:33](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/installing-tools-and-clis-2?u=76281980&t=33)** I can type in node dash dash version.
 >
@@ -266,9 +262,9 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/installing-tools-and-clis-2?u=76281980&t=43)** And verify that NPM is installed on my system.
 >
-> **[0:46](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/installing-tools-and-clis-2?u=76281980&t=46)** You will now need to globally install the Angular CLI on our system.
+> **[0:46](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/installing-tools-and-clis-2?u=76281980&t=46)** You will now need to globally install the [[Angular CLI]] on our system.
 >
-> **[0:50](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/installing-tools-and-clis-2?u=76281980&t=50)** At the time of this recording, the current version of Angular is version eight.
+> **[0:50](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/installing-tools-and-clis-2?u=76281980&t=50)** At the time of this recording, the current version of [[Angular]] is version eight.
 >
 > **[0:55](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/installing-tools-and-clis-2?u=76281980&t=55)** This application should work with version nine as well, once it is released.
 >
@@ -284,7 +280,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/installing-tools-and-clis-2?u=76281980&t=81)** And we will use version 8.3.2.
 >
-> **[1:24](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/installing-tools-and-clis-2?u=76281980&t=84)** This will go ahead and fetch the necessary dependencies from NPM in order to install the tool globally on your machine.
+> **[1:24](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/installing-tools-and-clis-2?u=76281980&t=84)** This will go ahead and [[Fetch]] the necessary dependencies from NPM in order to install the tool globally on your machine.
 >
 > **[1:31](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/installing-tools-and-clis-2?u=76281980&t=91)** This will take a few moments.
 >
@@ -298,7 +294,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[npm]] (6), node (4), [[Angular CLI]] (4), [[Node.js]] (2), application (2)
+> **Frameworks & Libraries:** [[npm]] (6), [[Angular CLI]] (4), [[Node.js]] (2), [[Windows]] (1), [[Angular]] (1)
 > **CLI Commands:** node (6), npm (6), sudo (1)
 > **Env Vars:** npm (5), cli (4), lts (1), nvm (1)
 > **Versions:** version 8 (2), 3.2 (2), 10.16.3 (1), version 6 (1), 9.0 (1)
@@ -307,12 +303,11 @@ created: 2026-05-02
 > **File Paths:** node.js (2)
 > **Code Identifiers:** iterm2 (1)
 
-#### Generating an Angular application
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/generating-an-angular-application-2?u=76281980)
+#### [Generating an Angular application](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/generating-an-angular-application-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/generating-an-angular-application-2?u=76281980&t=0)** - [Instructor] The starting point for this course will be an Angular application that has been previously generated, but I want to show you here how you can easily generate an application using the Angular CLI.
+> **[0:00](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/generating-an-angular-application-2?u=76281980&t=0)** - [Instructor] The starting point for this course will be an [[Angular]] application that has been previously generated, but I want to show you here how you can easily generate an application using the [[Angular CLI]].
 >
 > **[0:10](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/generating-an-angular-application-2?u=76281980&t=10)** Once you've installed the Angular CLI, it's been added to your global path in order to make it easy for you to use it.
 >
@@ -324,11 +319,11 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/generating-an-angular-application-2?u=76281980&t=35)** For example, ng new --help.
 >
-> **[0:39](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/generating-an-angular-application-2?u=76281980&t=39)** It's important to know that when you scaffold a new application using ng new, a local version of the CLI will be installed in the node modules of your application.
+> **[0:39](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/generating-an-angular-application-2?u=76281980&t=39)** It's important to know that when you scaffold a new application using ng new, a local version of the [[CLI]] will be installed in the node modules of your application.
 >
 > **[0:48](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/generating-an-angular-application-2?u=76281980&t=48)** Running the ng commands from the command line will delegate to the locally installed version.
 >
-> **[0:53](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/generating-an-angular-application-2?u=76281980&t=53)** Let's generate a new application that uses routing and SASS for our styles.
+> **[0:53](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/generating-an-angular-application-2?u=76281980&t=53)** Let's generate a new application that uses [[Routing]] and SASS for our styles.
 >
 > **[0:57](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/generating-an-angular-application-2?u=76281980&t=57)** Let me go ahead and clear my terminal here.
 >
@@ -336,7 +331,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/generating-an-angular-application-2?u=76281980&t=65)** - -routing, in order to use Angular routing, and specify the flag style equals scss to use SASS for my styles.
 >
-> **[1:14](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/generating-an-angular-application-2?u=76281980&t=74)** This will scaffold a new project for you and start installing dependencies, generating a package.json, config files for typescript, testing, and for running and building the application along with an application module Bootstrapped and ready to go.
+> **[1:14](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/generating-an-angular-application-2?u=76281980&t=74)** This will scaffold a new project for you and start installing dependencies, generating a package.[[JSON]], config files for typescript, testing, and for running and building the application along with an application module Bootstrapped and ready to go.
 >
 > **[1:29](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/generating-an-angular-application-2?u=76281980&t=89)** Once that is done, let's open this application in our code editor.
 >
@@ -356,7 +351,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (20), [[Angular]] (3), [[Routing]] (3), [[Angular CLI]] (2), [[CLI]] (1)
+> **Frameworks & Libraries:** [[Angular]] (3), [[Routing]] (3), [[Angular CLI]] (2), [[CLI]] (1), [[JSON]] (1)
 > **Env Vars:** cli (3), sass (2)
 > **Tools:** command line (1), terminal (1), visual studio (1)
 > **File Paths:** package.json (1), main.ts (1)
@@ -365,12 +360,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Overview of the Firebase console
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/overview-of-the-firebase-console-2?u=76281980)
+#### [Overview of the Firebase console](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/overview-of-the-firebase-console-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/overview-of-the-firebase-console-2?u=76281980&t=0)** - [Instructor] In this course we will working with Firebase by Google, so we will need to first configure a Firebase project.
+> **[0:00](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/overview-of-the-firebase-console-2?u=76281980&t=0)** - [Instructor] In this course we will working with [[Firebase]] by [[Google]], so we will need to first configure a Firebase project.
 >
 > **[0:06](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/overview-of-the-firebase-console-2?u=76281980&t=6)** From the Firebase homepage, log into the Firebase console by clicking on the Go to Console link and log in with your Google account.
 >
@@ -382,7 +376,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/overview-of-the-firebase-console-2?u=76281980&t=29)** If the name is not unique, Firebase will suggest a unique name for you.
 >
-> **[0:33](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/overview-of-the-firebase-console-2?u=76281980&t=33)** We will be working with a fictitious app called, The Grid, so I will name it angular-firebase-grid-dash.
+> **[0:33](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/overview-of-the-firebase-console-2?u=76281980&t=33)** We will be working with a fictitious app called, The Grid, so I will name it [[Angular]]-firebase-grid-dash.
 >
 > **[0:43](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/overview-of-the-firebase-console-2?u=76281980&t=43)** Go ahead and click Continue.
 >
@@ -408,9 +402,9 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/overview-of-the-firebase-console-2?u=76281980&t=88)** And finally, we will be using Firebase Functions and dive into the serverless world.
 >
-> **[1:34](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/overview-of-the-firebase-console-2?u=76281980&t=94)** At this point, it would be good to install the Firebase CLI, since we will be working with Firebase.
+> **[1:34](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/overview-of-the-firebase-console-2?u=76281980&t=94)** At this point, it would be good to install the Firebase [[CLI]], since we will be working with Firebase.
 >
-> **[1:39](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/overview-of-the-firebase-console-2?u=76281980&t=99)** Head over to your terminal now and we can install it with npm, npm install -g firebase-tools.
+> **[1:39](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/overview-of-the-firebase-console-2?u=76281980&t=99)** Head over to your terminal now and we can install it with [[npm]], npm install -g firebase-tools.
 >
 > **[1:52](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/overview-of-the-firebase-console-2?u=76281980&t=112)** Once that is completed, sign into Firebase using your Google account and we can do that by typing in firebase login.
 >
@@ -426,7 +420,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Firebase]] (24), [[Google]] (6), cloud (2), [[CLI]] (2), [[npm]] (2)
+> **Frameworks & Libraries:** [[Firebase]] (24), [[Google]] (6), [[CLI]] (2), [[npm]] (2), [[Angular]] (1)
 > **Prerequisites:** install (3), configure (1)
 > **CLI Commands:** npm (2)
 > **Env Vars:** cli (2)
@@ -434,14 +428,13 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring your web application
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/configuring-your-web-application-2?u=76281980)
+#### [Configuring your web application](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/configuring-your-web-application-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/configuring-your-web-application-2?u=76281980&t=0)** - [Instructor] Now that we have created a firebase project, and install the firebase CLI tools, we need to configure our web application with firebase through the firebase console.
+> **[0:00](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/configuring-your-web-application-2?u=76281980&t=0)** - [Instructor] Now that we have created a [[Firebase]] project, and install the firebase [[CLI]] tools, we need to configure our web application with firebase through the firebase console.
 >
-> **[0:09](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/configuring-your-web-application-2?u=76281980&t=9)** And also install AngularFire which is the official library for firebase in Angular.
+> **[0:09](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/configuring-your-web-application-2?u=76281980&t=9)** And also install AngularFire which is the official library for firebase in [[Angular]].
 >
 > **[0:15](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/configuring-your-web-application-2?u=76281980&t=15)** AngularFire will make it much easier for us to integrate firebase into our Angular application allowing us to easily use authentication, manage data, use realtime bindings and upload files.
 >
@@ -449,7 +442,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/configuring-your-web-application-2?u=76281980&t=35)** This will be the starting point for the course, so in the exercise files, make sure to install dependencies with mpm install.
 >
-> **[0:44](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/configuring-your-web-application-2?u=76281980&t=44)** And then, you can check out the 01-04 begin branch, git checkout 01-04-begin.
+> **[0:44](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/configuring-your-web-application-2?u=76281980&t=44)** And then, you can check out the 01-04 begin branch, [[Git]] checkout 01-04-begin.
 >
 > **[0:54](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/configuring-your-web-application-2?u=76281980&t=54)** In your terminal, install both AngularFire in the firebase, mpm install firebase angular/fire.
 >
@@ -499,7 +492,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/configuring-your-web-application-2?u=76281980&t=230)** In this case, an environment.prod will be used.
 >
-> **[3:56](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/configuring-your-web-application-2?u=76281980&t=236)** Let's go ahead and inspect the angular.json file.
+> **[3:56](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/configuring-your-web-application-2?u=76281980&t=236)** Let's go ahead and inspect the angular.[[JSON]] file.
 >
 > **[4:00](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/configuring-your-web-application-2?u=76281980&t=240)** And let's find the production configuration.
 >
@@ -517,7 +510,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Firebase]] (12), [[Angular]] (6), application (5), [[CLI]] (1), web application (1)
+> **Frameworks & Libraries:** [[Firebase]] (12), [[Angular]] (6), [[CLI]] (1), [[Git]] (1), [[JSON]] (1)
 > **Prerequisites:** install (6), setup (3), configure (1)
 > **Code Identifiers:** apikey (1), authdomain (1), databaseurl (1), projectid (1), messagingsenderid (1)
 > **CLI Commands:** make (2), git (1), find (1)
@@ -531,12 +524,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Firebase Authentication setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/firebase-authentication-setup-2?u=76281980)
+#### [Firebase Authentication setup](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/firebase-authentication-setup-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/firebase-authentication-setup-2?u=76281980&t=0)** - [Instructor] Now that we have set up our web application with Firebase by adding configuration values, we first need to add authentication through the Firebase console.
+> **[0:00](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/firebase-authentication-setup-2?u=76281980&t=0)** - [Instructor] Now that we have set up our web application with [[Firebase]] by adding configuration values, we first need to add authentication through the Firebase console.
 >
 > **[0:09](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/firebase-authentication-setup-2?u=76281980&t=9)** Click on Authentication, then Set up Sign-in Method.
 >
@@ -546,7 +538,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/firebase-authentication-setup-2?u=76281980&t=24)** In the application module, first import the AngularFireAuth module.
 >
-> **[0:29](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/firebase-authentication-setup-2?u=76281980&t=29)** Import Angular Fire Auth module and this will be from angular/fire/auth and we will go ahead and add that also here to the imports.
+> **[0:29](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/firebase-authentication-setup-2?u=76281980&t=29)** Import [[Angular]] Fire Auth module and this will be from angular/fire/auth and we will go ahead and add that also here to the imports.
 >
 > **[0:48](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/firebase-authentication-setup-2?u=76281980&t=48)** Let's generate a login component that will provide a form for the user to sign up and log in.
 >
@@ -560,27 +552,27 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/firebase-authentication-setup-2?u=76281980&t=91)** Go ahead and replace that and also some CSS here.
 >
-> **[1:40](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/firebase-authentication-setup-2?u=76281980&t=100)** The classes used for the HTML elements are from the Symantec UI framework.
+> **[1:40](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/firebase-authentication-setup-2?u=76281980&t=100)** The classes used for the [[HTML]] elements are from the Symantec UI framework.
 >
 > **[1:45](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/firebase-authentication-setup-2?u=76281980&t=105)** You can visit the Symantec UI documentation site if you wish to have a different look.
 >
 > **[1:50](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/firebase-authentication-setup-2?u=76281980&t=110)** Next, we want to display this form at the root route of our application.
 >
-> **[1:54](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/firebase-authentication-setup-2?u=76281980&t=114)** Head over to the application routing module and add this component at the root route.
+> **[1:54](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/firebase-authentication-setup-2?u=76281980&t=114)** Head over to the application [[Routing]] module and add this component at the root route.
 >
 > **[2:01](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/firebase-authentication-setup-2?u=76281980&t=121)** We will add an object here, the path is going to the be the root and the component will be the login component.
 >
-> **[2:09](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/firebase-authentication-setup-2?u=76281980&t=129)** Also, when working with forms in Angular, be sure to import the forms module form Angular Forms.
+> **[2:09](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/firebase-authentication-setup-2?u=76281980&t=129)** Also, when working with [[Forms]] in Angular, be sure to import the forms module form Angular Forms.
 >
 > **[2:22](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/firebase-authentication-setup-2?u=76281980&t=142)** Import forms module from angular/forms.
 >
-> **[2:32](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/firebase-authentication-setup-2?u=76281980&t=152)** Let's go ahead and run the application using npm start.
+> **[2:32](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/firebase-authentication-setup-2?u=76281980&t=152)** Let's go ahead and run the application using [[npm]] start.
 >
 > **[2:40](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/firebase-authentication-setup-2?u=76281980&t=160)** Once that is done compiling, you can head to your browser, to localhost port 4200 and verify that the sign-up form displays.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), [[Angular]] (5), [[Forms]] (5), [[Firebase]] (2), css (2)
+> **Frameworks & Libraries:** [[Angular]] (5), [[Forms]] (5), [[Firebase]] (2), [[HTML]] (1), [[Routing]] (1)
 > **Env Vars:** css (2), html (1)
 > **Exercise Files:** exercise files (1), template (1)
 > **Prerequisites:** set up (2)
@@ -589,16 +581,15 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **UI Navigation:** click on (1)
 
-#### Creating users
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/creating-users-2?u=76281980)
+#### [Creating users](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/creating-users-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/creating-users-2?u=76281980&t=0)** - [Instructor] Now that we have a new form for inputting information, let's add functionality to the simple form and create a user with Firebase.
+> **[0:00](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/creating-users-2?u=76281980&t=0)** - [Instructor] Now that we have a new form for inputting information, let's add functionality to the simple form and create a user with [[Firebase]].
 >
 > **[0:08](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/creating-users-2?u=76281980&t=8)** Head over now to the template file for the login component.
 >
-> **[0:12](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/creating-users-2?u=76281980&t=12)** Because we are inputting the forms module, Angular will attach the NgForm directive to any form.
+> **[0:12](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/creating-users-2?u=76281980&t=12)** Because we are inputting the [[Forms]] module, [[Angular]] will attach the NgForm directive to any form.
 >
 > **[0:18](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/creating-users-2?u=76281980&t=18)** This makes the NgForm object available in our view.
 >
@@ -674,13 +665,13 @@ created: 2026-05-02
 >
 > **[4:24](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/creating-users-2?u=76281980&t=264)** We can easily do this by calling the form.reset method.
 >
-> **[4:31](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/creating-users-2?u=76281980&t=271)** I'm going to start the application with npm start.
+> **[4:31](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/creating-users-2?u=76281980&t=271)** I'm going to start the application with [[npm]] start.
 >
 > **[4:37](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/creating-users-2?u=76281980&t=277)** And let's turn to out browser now and try things out.
 >
 > **[4:41](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/creating-users-2?u=76281980&t=281)** I'm going to refresh a page here.
 >
-> **[4:43](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/creating-users-2?u=76281980&t=283)** I'm going to have two windows open.
+> **[4:43](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/creating-users-2?u=76281980&t=283)** I'm going to have two [[Windows]] open.
 >
 > **[4:45](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/creating-users-2?u=76281980&t=285)** One with our application, and one with the Firebase console so that you can see immediately when a user signs up.
 >
@@ -704,7 +695,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Firebase]] (7), application (5), [[Forms]] (2), [[Angular]] (2), next (2)
+> **Frameworks & Libraries:** [[Firebase]] (7), [[Forms]] (2), [[Angular]] (2), [[npm]] (1), [[Windows]] (1)
 > **Code Identifiers:** ngform (4), onsubmit (2), ngmodel (2), firstname (2), lastname (2)
 > **Exercise Files:** template (3)
 > **CLI Commands:** npm (1), make (1)
@@ -712,22 +703,21 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Displaying current user
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/displaying-current-user-2?u=76281980)
+#### [Displaying current user](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/displaying-current-user-2?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/displaying-current-user-2?u=76281980&t=0)** - [Instructor] Now that we have implemented user sign up, we need to be able to display the currently authenticated user.
 >
-> **[0:07](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/displaying-current-user-2?u=76281980&t=7)** It will also provide a better user experience if the user gets routed to a profile page where they can see their information.
+> **[0:07](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/displaying-current-user-2?u=76281980&t=7)** It will also provide a better [[User Experience (UX)|user experience]] if the user gets routed to a profile page where they can see their information.
 >
 > **[0:13](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/displaying-current-user-2?u=76281980&t=13)** Let's do that now.
 >
-> **[0:14](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/displaying-current-user-2?u=76281980&t=14)** Start by generating a new ProfileComponent by using the CLI, ng generate component, and I will call this component profile.
+> **[0:14](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/displaying-current-user-2?u=76281980&t=14)** Start by generating a new ProfileComponent by using the [[CLI]], ng generate component, and I will call this component profile.
 >
 > **[0:27](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/displaying-current-user-2?u=76281980&t=27)** The new component is generated, and let's go ahead and add a new route.
 >
-> **[0:32](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/displaying-current-user-2?u=76281980&t=32)** Head to the application routing module.
+> **[0:32](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/displaying-current-user-2?u=76281980&t=32)** Head to the application [[Routing]] module.
 >
 > **[0:36](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/displaying-current-user-2?u=76281980&t=36)** The new route will be profile/:id.
 >
@@ -745,7 +735,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/displaying-current-user-2?u=76281980&t=89)** Let's go ahead and start the application.
 >
-> **[1:33](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/displaying-current-user-2?u=76281980&t=93)** While that is compiling, head over to the firebase console.
+> **[1:33](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/displaying-current-user-2?u=76281980&t=93)** While that is compiling, head over to the [[Firebase]] console.
 >
 > **[1:37](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/displaying-current-user-2?u=76281980&t=97)** And you can go ahead and delete this test user account.
 >
@@ -783,7 +773,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[Firebase]] (2), [[User Experience (UX)|User experience]] (1), [[CLI]] (1), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Firebase]] (2), [[User Experience (UX)|User experience]] (1), [[CLI]] (1), [[Routing]] (1)
 > **Code Identifiers:** afauth (1), displayname (1)
 > **Env Vars:** cli (1), url (1)
 > **UI Navigation:** click on (1)
@@ -791,8 +781,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### User logout
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/user-logout-2?u=76281980)
+#### [User logout](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/user-logout-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -814,9 +803,9 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/user-logout-2?u=76281980&t=72)** Instead of injecting again the AngularFireAuth service, let's create our own wrapper authentication service in order to encapsulate some common logic.
 >
-> **[1:19](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/user-logout-2?u=76281980&t=79)** For example, in a logout action, we will need to logout using the firebase service, and also redirect the user back to the login page.
+> **[1:19](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/user-logout-2?u=76281980&t=79)** For example, in a logout action, we will need to logout using the [[Firebase]] service, and also redirect the user back to the login page.
 >
-> **[1:28](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/user-logout-2?u=76281980&t=88)** We can go ahead and generate a service using the CLI.
+> **[1:28](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/user-logout-2?u=76281980&t=88)** We can go ahead and generate a service using the [[CLI]].
 >
 > **[1:32](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/user-logout-2?u=76281980&t=92)** I'm going to go ahead and kill the server here.
 >
@@ -866,7 +855,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[Firebase]] (2), css (1), [[CLI]] (1)
+> **Frameworks & Libraries:** [[Firebase]] (2), [[CLI]] (1)
 > **Code Identifiers:** isloggedin (2), afauth (1), currentuser (1), ngif (1)
 > **Definitions:** short for (2), is a  (1)
 > **Env Vars:** cli (1)
@@ -874,8 +863,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### User login
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/user-login-2?u=76281980)
+#### [User login](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/user-login-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -957,7 +945,7 @@ created: 2026-05-02
 >
 > **[4:30](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/user-login-2?u=76281980&t=270)** Let me try to log in without inputting any information.
 >
-> **[4:34](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/user-login-2?u=76281980&t=274)** We see here that Firebase is already performing client side of validation for me.
+> **[4:34](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/user-login-2?u=76281980&t=274)** We see here that [[Firebase]] is already performing client side of validation for me.
 >
 > **[4:42](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/user-login-2?u=76281980&t=282)** I will input the email only.
 >
@@ -981,7 +969,7 @@ created: 2026-05-02
 >
 > **[5:34](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/user-login-2?u=76281980&t=334)** In here, we will simply display the error message.
 >
-> **[5:38](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/user-login-2?u=76281980&t=338)** We also want our application to load the semantic UI styles to display these messages, so let's add the corresponding style files in angular.json.
+> **[5:38](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/user-login-2?u=76281980&t=338)** We also want our application to load the semantic UI styles to display these messages, so let's add the corresponding style files in [[Angular]].[[JSON]].
 >
 > **[5:50](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/user-login-2?u=76281980&t=350)** We can add a new line here under Styles and the specific module will be Semantic UI Message and the file will be Message.
 >
@@ -1011,15 +999,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), css (1), [[Firebase]] (1), [[Angular]] (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Firebase]] (1), [[Angular]] (1), [[JSON]] (1)
 > **Env Vars:** ngf (2), css (1)
 > **Exercise Files:** template (3)
 > **File Paths:** angular.json (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using Angular route guards
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/using-angular-route-guards-2?u=76281980)
+#### [Using Angular route guards](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/using-angular-route-guards-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1049,11 +1036,11 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/using-angular-route-guards-2?u=76281980&t=60)** Let's tackle the first issue.
 >
-> **[1:02](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/using-angular-route-guards-2?u=76281980&t=62)** The Angular router provides a robust way to prevent users from going to specific routes, by using what's called a route guard.
+> **[1:02](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/using-angular-route-guards-2?u=76281980&t=62)** The [[Angular]] router provides a robust way to prevent users from going to specific routes, by using what's called a route guard.
 >
 > **[1:10](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/using-angular-route-guards-2?u=76281980&t=70)** Detailed information is provided at this link.
 >
-> **[1:13](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/using-angular-route-guards-2?u=76281980&t=73)** Let's go to our application now, and to our routing module, where we define the application's routes.
+> **[1:13](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/using-angular-route-guards-2?u=76281980&t=73)** Let's go to our application now, and to our [[Routing]] module, where we define the application's routes.
 >
 > **[1:22](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/using-angular-route-guards-2?u=76281980&t=82)** We will import the AngularFireAuthGuard, which provides a prebuilt, canActivate router guard using the AngularFireAuth service.
 >
@@ -1091,7 +1078,7 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/using-angular-route-guards-2?u=76281980&t=222)** Finally, we can add this pipe to our route data.
 >
-> **[3:48](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/using-angular-route-guards-2?u=76281980&t=228)** This would be an object with the property of authGuardPipe, which will be used by Firebase.
+> **[3:48](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/using-angular-route-guards-2?u=76281980&t=228)** This would be an object with the property of authGuardPipe, which will be used by [[Firebase]].
 >
 > **[3:58](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/using-angular-route-guards-2?u=76281980&t=238)** And we will use this custom pipe.
 >
@@ -1147,7 +1134,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), data (3), [[Angular]] (2), [[Routing]] (2), next (2)
+> **Frameworks & Libraries:** [[Angular]] (2), [[Routing]] (2), [[Firebase]] (1)
 > **UI Navigation:** go to (8), navigate to (2)
 > **Code Identifiers:** canactivate (3), authguardpipe (2), onlyallowself (2), redirectunauthorizedtologin (1), redirectloggedintoprofile (1)
 > **Env Vars:** url (7), rxjs (1)
@@ -1159,18 +1146,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cloud Firestore intro
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-firestore-intro-2?u=76281980)
+#### [Cloud Firestore intro](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-firestore-intro-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-firestore-intro-2?u=76281980&t=0)** - [Instructor] I sure hope you have already been impressed with the powerful features that Firebase provides.
+> **[0:00](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-firestore-intro-2?u=76281980&t=0)** - [Instructor] I sure hope you have already been impressed with the powerful features that [[Firebase]] provides.
 >
 > **[0:05](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-firestore-intro-2?u=76281980&t=5)** We have easily added authentication to our app that otherwise would have taken a really long time to implement ourselves.
 >
 > **[0:12](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-firestore-intro-2?u=76281980&t=12)** But now it's time to start working with data.
 >
-> **[0:14](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-firestore-intro-2?u=76281980&t=14)** Cloud Firestore is a flexible, scalable, NoSQL cloud database to store and sync data for client and server side development.
+> **[0:14](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-firestore-intro-2?u=76281980&t=14)** Cloud Firestore is a flexible, scalable, [[NoSQL]] cloud database to store and sync data for client and server side development.
 >
 > **[0:23](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-firestore-intro-2?u=76281980&t=23)** This data can be accessed directly via native, as the case.
 >
@@ -1180,7 +1166,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-firestore-intro-2?u=76281980&t=38)** The Cloud's Firestore model is document oriented.
 >
-> **[0:41](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-firestore-intro-2?u=76281980&t=41)** So there aren't any tables or rows like in a SQL database.
+> **[0:41](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-firestore-intro-2?u=76281980&t=41)** So there aren't any tables or rows like in a [[SQL]] database.
 >
 > **[0:45](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-firestore-intro-2?u=76281980&t=45)** Instead, we store data in documents, which are then organized into collections.
 >
@@ -1196,7 +1182,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-firestore-intro-2?u=76281980&t=77)** You can also organize more complex data as shown here.
 >
-> **[1:19](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-firestore-intro-2?u=76281980&t=79)** You can see that it resembles a plain JavaScript object.
+> **[1:19](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-firestore-intro-2?u=76281980&t=79)** You can see that it resembles a plain [[JavaScript]] object.
 >
 > **[1:24](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-firestore-intro-2?u=76281980&t=84)** Now let's talk about collections.
 >
@@ -1210,21 +1196,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), cloud (5), database (3), [[Firebase]] (1), [[NoSQL]] (1)
+> **Frameworks & Libraries:** [[Firebase]] (1), [[NoSQL]] (1), [[SQL]] (1), [[JavaScript]] (1)
 > **Env Vars:** sql (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud Firestore setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-firestore-setup-2?u=76281980)
+#### [Cloud Firestore setup](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-firestore-setup-2?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-firestore-setup-2?u=76281980&t=0)** - [Narrator] In this particular chapter, we will be setting up a users collection and also allow the user to update their profile data.
 >
-> **[0:08](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-firestore-setup-2?u=76281980&t=8)** Now, when using email and password authentication in Firebase, that data is actually securely stored separately.
+> **[0:08](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-firestore-setup-2?u=76281980&t=8)** Now, when using email and password authentication in [[Firebase]], that data is actually securely stored separately.
 >
 > **[0:15](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-firestore-setup-2?u=76281980&t=15)** A major reason is of course, to prevent any accidental user leaks and also allow complete flexibility with how we store our user data in Firebase.
 >
@@ -1244,7 +1229,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-firestore-setup-2?u=76281980&t=66)** Click, next and you will choose a location.
 >
-> **[1:09](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-firestore-setup-2?u=76281980&t=69)** This location setting is your project's default, Google Cloud platform resource location.
+> **[1:09](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-firestore-setup-2?u=76281980&t=69)** This location setting is your project's default, [[Google Cloud Platform (GCP)|Google Cloud platform]] resource location.
 >
 > **[1:15](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-firestore-setup-2?u=76281980&t=75)** The provided default should be okay.
 >
@@ -1256,16 +1241,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Firebase]] (3), cloud (2), database (2), next (1)
+> **Frameworks & Libraries:** [[Firebase]] (3), [[Google Cloud Platform (GCP)|Google cloud platform]] (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [narrator] (1)
 
-#### Deploying security rules
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/deploying-security-rules-2?u=76281980)
+#### [Deploying security rules](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/deploying-security-rules-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/deploying-security-rules-2?u=76281980&t=0)** In the Firebase console for Cloud Firestore, you can go ahead and click on the Rules tab to view the currently associated security rules.
+> **[0:00](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/deploying-security-rules-2?u=76281980&t=0)** In the [[Firebase]] console for Cloud Firestore, you can go ahead and click on the Rules tab to view the currently associated security rules.
 >
 > **[0:08](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/deploying-security-rules-2?u=76281980&t=8)** This block here tells us that the security rules will be for the Cloud Firestore service.
 >
@@ -1275,9 +1259,9 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/deploying-security-rules-2?u=76281980&t=24)** So in totality, this is saying for any document in my database, I allow read and write if false, which obviously means never.
 >
-> **[0:33](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/deploying-security-rules-2?u=76281980&t=33)** You can always change the security rules on the Firebase console, but we will actually be using the Firebase CLI to deploy these rules.
+> **[0:33](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/deploying-security-rules-2?u=76281980&t=33)** You can always change the security rules on the Firebase console, but we will actually be using the Firebase [[CLI]] to deploy these rules.
 >
-> **[0:40](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/deploying-security-rules-2?u=76281980&t=40)** It has the advantage since any changes in rules can be tracked via git.
+> **[0:40](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/deploying-security-rules-2?u=76281980&t=40)** It has the advantage since any changes in rules can be tracked via [[Git]].
 >
 > **[0:44](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/deploying-security-rules-2?u=76281980&t=44)** We have already installed the Firebase CLI.
 >
@@ -1317,7 +1301,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/deploying-security-rules-2?u=76281980&t=134)** We have the firebaserc, which is a file that stores your project.
 >
-> **[2:19](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/deploying-security-rules-2?u=76281980&t=139)** Firebase.json, a configuration file that lists your project configuration.
+> **[2:19](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/deploying-security-rules-2?u=76281980&t=139)** Firebase.[[JSON]], a configuration file that lists your project configuration.
 >
 > **[2:25](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/deploying-security-rules-2?u=76281980&t=145)** For now, it is indicating the files used for our Firestore rules and for our Firestore indexes.
 >
@@ -1363,7 +1347,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Firebase]] (20), [[Security]] (10), cloud (4), database (3), [[CLI]] (3)
+> **Frameworks & Libraries:** [[Firebase]] (20), [[CLI]] (3), [[JSON]] (2), [[Git]] (1)
 > **Prerequisites:** install (4)
 > **Env Vars:** cli (3)
 > **Definitions:** is a  (2), means that (1)
@@ -1372,8 +1356,7 @@ created: 2026-05-02
 > **Tools:** terminal (2)
 > **UI Navigation:** click on (1), select the (1)
 
-#### Creating documents
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/creating-documents-2?u=76281980)
+#### [Creating documents](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/creating-documents-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1381,7 +1364,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/creating-documents-2?u=76281980&t=7)** We'll be creating our own user's collection in Cloud or Firestore, where users will update their profile data.
 >
-> **[0:12](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/creating-documents-2?u=76281980&t=12)** The first thing we need to do is to import the Angular Firestore module, in our main angular module and add it to the imports.
+> **[0:12](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/creating-documents-2?u=76281980&t=12)** The first thing we need to do is to import the [[Angular]] Firestore module, in our main angular module and add it to the imports.
 >
 > **[0:21](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/creating-documents-2?u=76281980&t=21)** We will import AngularFirestoreModule, from angular/fire/firestore
 >
@@ -1487,14 +1470,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Angular]] (7), cloud (4), database (2), application (2)
+> **Frameworks & Libraries:** [[Angular]] (7)
 > **Code Identifiers:** createuserdocument (1), afauth (1)
 > **File Paths:** user-profile.model.ts (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Displaying user data
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/displaying-user-data-3?u=76281980)
+#### [Displaying user data](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/displaying-user-data-3?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1504,7 +1486,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/displaying-user-data-3?u=76281980&t=15)** We will first need to import a couple of things.
 >
-> **[0:19](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/displaying-user-data-3?u=76281980&t=19)** Import the AngularFirestoreDocument and also AngularFirestore from angular/fire/firestore.
+> **[0:19](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/displaying-user-data-3?u=76281980&t=19)** Import the AngularFirestoreDocument and also AngularFirestore from [[Angular]]/fire/firestore.
 >
 > **[0:38](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/displaying-user-data-3?u=76281980&t=38)** And I'm going to fix this typo here.
 >
@@ -1536,7 +1518,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/displaying-user-data-3?u=76281980&t=150)** This will allow us to watch for any changes in the user document.
 >
-> **[2:35](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/displaying-user-data-3?u=76281980&t=155)** Heading now to the template, let's just display the JSON for now.
+> **[2:35](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/displaying-user-data-3?u=76281980&t=155)** Heading now to the template, let's just display the [[JSON]] for now.
 >
 > **[2:46](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/displaying-user-data-3?u=76281980&t=166)** We will use the ngif and use the async pipe since it's an observable and we'll store this locally as userProfile.
 >
@@ -1562,7 +1544,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (2), [[JSON]] (2), [[Angular]] (1), feature (1)
+> **Frameworks & Libraries:** [[JSON]] (2), [[Angular]] (1)
 > **Env Vars:** json (2), rxjs (1)
 > **Code Identifiers:** itemdoc (1), userprofile (1)
 > **Tools:** visual studio (1)
@@ -1570,8 +1552,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Updating user documents
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/updating-user-documents-2?u=76281980)
+#### [Updating user documents](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/updating-user-documents-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1603,7 +1584,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/updating-user-documents-2?u=76281980&t=82)** The item document should now reference this user ID.
 >
-> **[1:28](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/updating-user-documents-2?u=76281980&t=88)** Let's connect our form now with our angular model.
+> **[1:28](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/updating-user-documents-2?u=76281980&t=88)** Let's connect our form now with our [[Angular]] model.
 >
 > **[1:34](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/updating-user-documents-2?u=76281980&t=94)** We have the item observable, so we only want to display the form once we have this information.
 >
@@ -1621,7 +1602,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/updating-user-documents-2?u=76281980&t=159)** We will use the ngModel directive, and assign that to the userProfile.name here.
 >
-> **[2:46](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/updating-user-documents-2?u=76281980&t=166)** We will do that for the rest of the inputs as well.
+> **[2:46](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/updating-user-documents-2?u=76281980&t=166)** We will do that for the [[Representational State Transfer (REST)|rest]] of the inputs as well.
 >
 > **[2:53](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/updating-user-documents-2?u=76281980&t=173)** We have the lastName here.
 >
@@ -1693,7 +1674,7 @@ created: 2026-05-02
 >
 > **[7:04](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/updating-user-documents-2?u=76281980&t=424)** Let's head to our application now.
 >
-> **[7:06](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/updating-user-documents-2?u=76281980&t=426)** I will go ahead and put the application and the Firebase console side by side, so you can see the data updated in real time.
+> **[7:06](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/updating-user-documents-2?u=76281980&t=426)** I will go ahead and put the application and the [[Firebase]] console side by side, so you can see the data updated in real time.
 >
 > **[7:14](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/updating-user-documents-2?u=76281980&t=434)** I would like to remind you that in the application code under profiles, there's sample data that you could use.
 >
@@ -1737,7 +1718,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), application (6), [[Firebase]] (4), next (2), css (1)
+> **Frameworks & Libraries:** [[Firebase]] (4), [[Angular]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** userprofile (5), ngmodel (3), updateuserdocument (3), ngform (2), parammap (1)
 > **Exercise Files:** template (2), exercise files (1)
 > **UI Navigation:** open the (2)
@@ -1751,12 +1732,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cloud Storage setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-storage-setup-2?u=76281980)
+#### [Cloud Storage setup](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-storage-setup-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-storage-setup-2?u=76281980&t=0)** - [Instructor] We have used Firebase Cloud Store for storing data and now we will move onto another great service on Firebase, Cloud Storage.
+> **[0:00](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-storage-setup-2?u=76281980&t=0)** - [Instructor] We have used [[Firebase]] Cloud Store for storing data and now we will move onto another great service on Firebase, [[Cloud Storage]].
 >
 > **[0:09](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-storage-setup-2?u=76281980&t=9)** Cloud Storage is a perfect solution to store and retrieve user generated files, like images, audio, and video without server side code.
 >
@@ -1768,7 +1748,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-storage-setup-2?u=76281980&t=30)** By default, only authenticated users will be able to read and write.
 >
-> **[0:33](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-storage-setup-2?u=76281980&t=33)** We will be modifying this by deploying updated security rules using the Firebase CLI.
+> **[0:33](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-storage-setup-2?u=76281980&t=33)** We will be modifying this by deploying updated security rules using the Firebase [[CLI]].
 >
 > **[0:39](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-storage-setup-2?u=76281980&t=39)** Click on Next and then click on Done to set up Cloud Storage.
 >
@@ -1796,11 +1776,11 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-storage-setup-2?u=76281980&t=105)** The default file name should be fine.
 >
-> **[1:48](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-storage-setup-2?u=76281980&t=108)** We can see now that the firebase.json file has been updated and a new file, storage.rules, was created.
+> **[1:48](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-storage-setup-2?u=76281980&t=108)** We can see now that the firebase.[[JSON]] file has been updated and a new file, storage.rules, was created.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Firebase]] (6), cloud (5), [[Security]] (3), [[CLI]] (2), next (2)
+> **Frameworks & Libraries:** [[Firebase]] (6), [[Cloud Storage]] (4), [[CLI]] (2), [[JSON]] (1)
 > **UI Navigation:** click on (5)
 > **Prerequisites:** set up (3)
 > **Env Vars:** cli (2)
@@ -1809,8 +1789,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud Storage security rules
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-storage-security-rules-2?u=76281980)
+#### [Cloud Storage security rules](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-storage-security-rules-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1850,20 +1829,19 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-storage-security-rules-2?u=76281980&t=113)** And also, if the resource type is an image.
 >
-> **[2:02](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-storage-security-rules-2?u=76281980&t=122)** Let's go ahead and deploy these updated rules now with the firebase CLI.
+> **[2:02](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-storage-security-rules-2?u=76281980&t=122)** Let's go ahead and deploy these updated rules now with the [[Firebase]] [[CLI]].
 >
 > **[2:06](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-storage-security-rules-2?u=76281980&t=126)** We can do that using firebase deploy, dash dash only, firestore rules.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Firebase]] (2), application (1), [[CLI]] (1)
+> **Frameworks & Libraries:** [[Firebase]] (2), [[CLI]] (1)
 > **Definitions:** is an  (2)
 > **Env Vars:** cli (1)
 > **Tools:** atom (1)
 > **Speakers:** - [male (1)
 
-#### Profile image upload form
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/profile-image-upload-form-2?u=76281980)
+#### [Profile image upload form](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/profile-image-upload-form-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1933,11 +1911,11 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/profile-image-upload-form-2?u=76281980&t=209)** We want to float right and add some top margin.
 >
-> **[3:36](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/profile-image-upload-form-2?u=76281980&t=216)** Let's start the app now with npm start.
+> **[3:36](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/profile-image-upload-form-2?u=76281980&t=216)** Let's start the app now with [[npm]] start.
 >
 > **[3:42](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/profile-image-upload-form-2?u=76281980&t=222)** Once that is done we can command or control click on this URL and it looks like some of our styling may be off.
 >
-> **[3:48](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/profile-image-upload-form-2?u=76281980&t=228)** Let's double check the classes we have added on our HTML elements.
+> **[3:48](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/profile-image-upload-form-2?u=76281980&t=228)** Let's double check the classes we have added on our [[HTML]] elements.
 >
 > **[3:54](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/profile-image-upload-form-2?u=76281980&t=234)** This should be twelve wide column as semantic ui expected classes to be added in a specific order.
 >
@@ -1955,7 +1933,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1), [[npm]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[npm]] (1), [[HTML]] (1)
 > **CLI Commands:** make (2), find (1), npm (1)
 > **Env Vars:** url (1), html (1)
 > **File Paths:** profile.component.scss (1)
@@ -1963,16 +1941,15 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [teacher] (1)
 
-#### Image uploads
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/image-uploads-2?u=76281980)
+#### [Image uploads](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/image-uploads-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/image-uploads-2?u=76281980&t=0)** - [Instructor] Let's write the code now to upload the user photo to Firebase.
+> **[0:00](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/image-uploads-2?u=76281980&t=0)** - [Instructor] Let's write the code now to upload the user photo to [[Firebase]].
 >
 > **[0:05](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/image-uploads-2?u=76281980&t=5)** Heading to the application module, we'll first import the AngularFireStorageModule.
 >
-> **[0:14](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/image-uploads-2?u=76281980&t=14)** Now it will be from angular/Fire/storage.
+> **[0:14](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/image-uploads-2?u=76281980&t=14)** Now it will be from [[Angular]]/Fire/storage.
 >
 > **[0:26](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/image-uploads-2?u=76281980&t=26)** And make sure to add this module to the imports here.
 >
@@ -2090,7 +2067,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[Angular]] (3), next (3), [[Firebase]] (1)
+> **Frameworks & Libraries:** [[Angular]] (3), [[Firebase]] (1)
 > **Code Identifiers:** uploadprogress (2), getdownloadurl (2), downloadurl (2), afstorage (1), filechange (1)
 > **Env Vars:** url (6), ngf (2)
 > **CLI Commands:** make (3)
@@ -2104,18 +2081,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Firebase ID tokens
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/firebase-id-tokens?u=76281980)
+#### [Firebase ID tokens](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/firebase-id-tokens?u=76281980)
 
-#### Setting Firebase custom claims
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/setting-firebase-custom-claims?u=76281980)
+#### [Setting Firebase custom claims](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/setting-firebase-custom-claims?u=76281980)
 
-#### Admin interface: Route guards, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/admin-interface-route-guards-part-1-2?u=76281980)
+#### [Admin interface: Route guards, part 1](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/admin-interface-route-guards-part-1-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/admin-interface-route-guards-part-1-2?u=76281980&t=0)** - Now that we have used the Firebase admin sdk, to set custom planes for admin user.
+> **[0:00](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/admin-interface-route-guards-part-1-2?u=76281980&t=0)** - Now that we have used the [[Firebase]] admin sdk, to set custom planes for admin user.
 >
 > **[0:05](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/admin-interface-route-guards-part-1-2?u=76281980&t=5)** It is time to start developing our admin interface.
 >
@@ -2123,7 +2097,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/admin-interface-route-guards-part-1-2?u=76281980&t=14)** Let's start by creating a new users component.
 >
-> **[0:17](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/admin-interface-route-guards-part-1-2?u=76281980&t=17)** Now we use the angular CLI.
+> **[0:17](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/admin-interface-route-guards-part-1-2?u=76281980&t=17)** Now we use the [[Angular CLI]].
 >
 > **[0:19](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/admin-interface-route-guards-part-1-2?u=76281980&t=19)** N-G. G which is short for generate.
 >
@@ -2131,7 +2105,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/admin-interface-route-guards-part-1-2?u=76281980&t=25)** Now we'll call this component users component.
 >
-> **[0:30](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/admin-interface-route-guards-part-1-2?u=76281980&t=30)** We'll then go ahead and add a new route in our routing module.
+> **[0:30](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/admin-interface-route-guards-part-1-2?u=76281980&t=30)** We'll then go ahead and add a new route in our [[Routing]] module.
 >
 > **[0:39](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/admin-interface-route-guards-part-1-2?u=76281980&t=39)** Add a new object here.
 >
@@ -2141,7 +2115,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/admin-interface-route-guards-part-1-2?u=76281980&t=51)** And this will also have an off guard here.
 >
-> **[0:54](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/admin-interface-route-guards-part-1-2?u=76281980&t=54)** We'll be leveraging the Angular Fire Auth Guard.
+> **[0:54](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/admin-interface-route-guards-part-1-2?u=76281980&t=54)** We'll be leveraging the [[Angular]] Fire Auth Guard.
 >
 > **[1:03](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/admin-interface-route-guards-part-1-2?u=76281980&t=63)** The auth guard will need some data.
 >
@@ -2187,23 +2161,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Firebase]] (1), [[Angular CLI]] (1), [[Routing]] (1), [[Angular]] (1)
+> **Frameworks & Libraries:** [[Firebase]] (1), [[Angular CLI]] (1), [[Routing]] (1), [[Angular]] (1)
 > **Definitions:** short for (2)
 > **Env Vars:** cli (1)
 > **Speakers:** - now (1)
 
-#### Admin interface: Route guards, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/admin-interface-route-guards-part-2-2?u=76281980)
+#### [Admin interface: Route guards, part 2](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/admin-interface-route-guards-part-2-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/admin-interface-route-guards-part-2-2?u=76281980&t=0)** - [Instructor] We should address some things in terms of the user experience.
+> **[0:00](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/admin-interface-route-guards-part-2-2?u=76281980&t=0)** - [Instructor] We should address some things in terms of the [[User Experience (UX)|user experience]].
 >
 > **[0:03](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/admin-interface-route-guards-part-2-2?u=76281980&t=3)** If the user is logged in when requesting the root route, they are redirected to the profile page, regardless of the role of that user.
 >
 > **[0:13](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/admin-interface-route-guards-part-2-2?u=76281980&t=13)** That is fine for normal users, but for the admin user, we would like to redirect to the users page.
 >
-> **[0:19](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/admin-interface-route-guards-part-2-2?u=76281980&t=19)** Let's head now to the application routing module.
+> **[0:19](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/admin-interface-route-guards-part-2-2?u=76281980&t=19)** Let's head now to the application [[Routing]] module.
 >
 > **[0:22](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/admin-interface-route-guards-part-2-2?u=76281980&t=22)** And we will build another pipe.
 >
@@ -2293,13 +2266,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[User Experience (UX)|User experience]] (1), [[Routing]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), [[Routing]] (1)
 > **UI Navigation:** go to (2)
 > **Code Identifiers:** getidtokenresult (1)
 > **Speakers:** - [instructor] (1)
 
-#### Admin interface: View user collection
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/admin-interface-view-user-collection-2?u=76281980)
+#### [Admin interface: View user collection](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/admin-interface-view-user-collection-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2357,7 +2329,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/admin-interface-view-user-collection-2?u=76281980&t=206)** Let's Inspect the console and check for any errors.
 >
-> **[3:29](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/admin-interface-view-user-collection-2?u=76281980&t=209)** Firebase is throwing an error here specifying that this user does not have permissions to read this data.
+> **[3:29](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/admin-interface-view-user-collection-2?u=76281980&t=209)** [[Firebase]] is throwing an error here specifying that this user does not have permissions to read this data.
 >
 > **[3:35](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/admin-interface-view-user-collection-2?u=76281980&t=215)** Let's Inspect the Firestore cloud rules.
 >
@@ -2381,11 +2353,11 @@ created: 2026-05-02
 >
 > **[4:48](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/admin-interface-view-user-collection-2?u=76281980&t=288)** I'm going to create a couple of MPM scripts to facilitate this.
 >
-> **[4:53](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/admin-interface-view-user-collection-2?u=76281980&t=293)** Head over to the package.json file.
+> **[4:53](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/admin-interface-view-user-collection-2?u=76281980&t=293)** Head over to the package.[[JSON]] file.
 >
 > **[4:58](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/admin-interface-view-user-collection-2?u=76281980&t=298)** We will add one MPM script and call it deploy Firestore, and this will call Firebase deploy dash dash only Firestore rules.
 >
-> **[5:16](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/admin-interface-view-user-collection-2?u=76281980&t=316)** We can have a similar MPM script to deploy the cloud storage rules.
+> **[5:16](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/admin-interface-view-user-collection-2?u=76281980&t=316)** We can have a similar MPM script to deploy the [[Cloud Storage]] rules.
 >
 > **[5:29](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/admin-interface-view-user-collection-2?u=76281980&t=329)** Let's deploy these rules now.
 >
@@ -2425,7 +2397,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), cloud (4), next (3), application (3), [[Firebase]] (3)
+> **Frameworks & Libraries:** [[Firebase]] (3), [[JSON]] (1), [[Cloud Storage]] (1)
 > **Env Vars:** mpm (7), afs (1)
 > **Code Identifiers:** userscollection (3), valuechanges (1), ngfor (1)
 > **File Paths:** package.json (1)
@@ -2434,8 +2406,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 
-#### Admin interface: View user profile
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/admin-interface-view-user-profile-2?u=76281980)
+#### [Admin interface: View user profile](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/admin-interface-view-user-profile-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2459,11 +2430,11 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/admin-interface-view-user-profile-2?u=76281980&t=64)** Let's modify that route guard to allow admin users.
 >
-> **[1:10](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/admin-interface-view-user-profile-2?u=76281980&t=70)** Heading to the application routing module, we'll create a new auth-guard pipe.
+> **[1:10](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/admin-interface-view-user-profile-2?u=76281980&t=70)** Heading to the application [[Routing]] module, we'll create a new auth-guard pipe.
 >
 > **[1:16](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/admin-interface-view-user-profile-2?u=76281980&t=76)** We will call this allow only self or admin.
 >
-> **[1:26](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/admin-interface-view-user-profile-2?u=76281980&t=86)** It will take in next, which will be provided by Firebase, representing the route.
+> **[1:26](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/admin-interface-view-user-profile-2?u=76281980&t=86)** It will take in next, which will be provided by [[Firebase]], representing the route.
 >
 > **[1:33](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/admin-interface-view-user-profile-2?u=76281980&t=93)** We will use the pipe operator, the custom claims helper, and then, use the map operator to map those claims into a boolean or to a route.
 >
@@ -2487,7 +2458,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), application (3), next (2), [[Routing]] (1), [[Firebase]] (1)
+> **Frameworks & Libraries:** [[Routing]] (1), [[Firebase]] (1)
 > **URLs:** [tempmail.org](https://tempmail.org) (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
@@ -2497,26 +2468,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cloud Functions setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-functions-setup-2?u=76281980)
+#### [Cloud Functions setup](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-functions-setup-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-functions-setup-2?u=76281980&t=0)** - [Narrator] Now we turn to probably one of the most exciting parts of this course, Firebase Cloud Functions.
+> **[0:00](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-functions-setup-2?u=76281980&t=0)** - [Narrator] Now we turn to probably one of the most exciting parts of this course, [[Firebase]] Cloud Functions.
 >
 > **[0:05](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-functions-setup-2?u=76281980&t=5)** Cloud Functions for Firebase allows you to run back-end code, that automatically responds to events, such as when data is created or deleted, images are uploaded, or when there's a new user.
 >
 > **[0:17](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-functions-setup-2?u=76281980&t=17)** Cloud Functions can also respond to HTTPS requests, allowing you to easily build a serverless API.
 >
-> **[0:24](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-functions-setup-2?u=76281980&t=24)** As stated, the code is stored in Google's Cloud, and runs in a managed environment.
+> **[0:24](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-functions-setup-2?u=76281980&t=24)** As stated, the code is stored in [[Google]]'s Cloud, and runs in a managed environment.
 >
 > **[0:30](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-functions-setup-2?u=76281980&t=30)** In addition, there's no need to manage and scale your own servers.
 >
-> **[0:33](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-functions-setup-2?u=76281980&t=33)** Even better, these functions can be written in JavaScript or TypeScript so you'll feel right at home.
+> **[0:33](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-functions-setup-2?u=76281980&t=33)** Even better, these functions can be written in [[JavaScript]] or TypeScript so you'll feel right at home.
 >
 > **[0:38](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-functions-setup-2?u=76281980&t=38)** Let's get started.
 >
-> **[0:40](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-functions-setup-2?u=76281980&t=40)** Switching to the command prompt, in your project directory, you want to ensure you have the Firebase CLI installed globally via MPM.
+> **[0:40](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-functions-setup-2?u=76281980&t=40)** Switching to the command prompt, in your project directory, you want to ensure you have the Firebase [[CLI]] installed globally via MPM.
 >
 > **[0:49](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-functions-setup-2?u=76281980&t=49)** And I can do that with MPM install dash G Firebase tools.
 >
@@ -2542,7 +2512,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-functions-setup-2?u=76281980&t=113)** The eslintrc file is an optional file containing rules for JavaScript linting.
 >
-> **[1:58](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-functions-setup-2?u=76281980&t=118)** The package.json file is a package file describing your Cloud Function's code.
+> **[1:58](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-functions-setup-2?u=76281980&t=118)** The package.[[JSON]] file is a package file describing your Cloud Function's code.
 >
 > **[2:03](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-functions-setup-2?u=76281980&t=123)** The index.js file is the main source file for your Cloud Functions.
 >
@@ -2550,7 +2520,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (9), [[Firebase]] (8), [[JavaScript]] (3), [[CLI]] (3), data (1)
+> **Frameworks & Libraries:** [[Firebase]] (8), [[JavaScript]] (3), [[CLI]] (3), [[Google]] (1), [[JSON]] (1)
 > **Env Vars:** cli (3), mpm (2), https (1), api (1), suk (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Prerequisites:** install (2), set up (1)
@@ -2559,12 +2529,11 @@ created: 2026-05-02
 > **Tools:** command prompt (1)
 > **Analogies:** such as (1)
 
-#### Cloud Functions: Email setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-functions-email-setup-2?u=76281980)
+#### [Cloud Functions: Email setup](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-functions-email-setup-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-functions-email-setup-2?u=76281980&t=0)** - [Instructor] For our Firebase cloud function, we will be leveraging the authentication trigger to send a welcome email.
+> **[0:00](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-functions-email-setup-2?u=76281980&t=0)** - [Instructor] For our [[Firebase]] cloud function, we will be leveraging the authentication trigger to send a welcome email.
 >
 > **[0:06](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-functions-email-setup-2?u=76281980&t=6)** Specifically, we will trigger the cloud function when a new user signs up.
 >
@@ -2578,7 +2547,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-functions-email-setup-2?u=76281980&t=28)** For a larger amount of emails, consider switching to something like SendGrid or Mailgun.
 >
-> **[0:35](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-functions-email-setup-2?u=76281980&t=35)** Another thing to keep in mind is that the Spark plan, which is a free Firebase plan we are currently using, only allows you to send request to Google services.
+> **[0:35](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-functions-email-setup-2?u=76281980&t=35)** Another thing to keep in mind is that the Spark plan, which is a free Firebase plan we are currently using, only allows you to send request to [[Google]] services.
 >
 > **[0:45](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-functions-email-setup-2?u=76281980&t=45)** For non-Google related services, you will need to enable billing in your Firebase project.
 >
@@ -2596,7 +2565,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-functions-email-setup-2?u=76281980&t=96)** Let's write our function now.
 >
-> **[1:39](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-functions-email-setup-2?u=76281980&t=99)** Since we'll be using Nodemailer, we will be installing this now and we will do that in the Functions folder, npm install nodemailer.
+> **[1:39](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-functions-email-setup-2?u=76281980&t=99)** Since we'll be using Nodemailer, we will be installing this now and we will do that in the Functions folder, [[npm]] install nodemailer.
 >
 > **[1:50](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-functions-email-setup-2?u=76281980&t=110)** Going out to the root directory, Firebase Cloud Functions also allows you to set environment variables, which is important because you don't want to write credentials in your code.
 >
@@ -2614,19 +2583,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Firebase]] (5), cloud (4), [[Google]] (2), node (1), [[npm]] (1)
+> **Frameworks & Libraries:** [[Firebase]] (5), [[Google]] (2), [[npm]] (1)
 > **CLI Commands:** node (1), npm (1)
 > **Definitions:** is a  (2)
 > **Warnings:** keep in mind (2)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud Functions: Authentication trigger
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-functions-authentication-trigger-2?u=76281980)
+#### [Cloud Functions: Authentication trigger](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-functions-authentication-trigger-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-functions-authentication-trigger-2?u=76281980&t=0)** - [Instructor] Let's write our code now for the Firebase function.
+> **[0:00](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-functions-authentication-trigger-2?u=76281980&t=0)** - [Instructor] Let's write our code now for the [[Firebase]] function.
 >
 > **[0:03](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-functions-authentication-trigger-2?u=76281980&t=3)** I have required the Firebase functions here, and I would also require the node mailer, since that will be used to send emails.
 >
@@ -2752,7 +2720,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Firebase]] (5), next (5), cloud (5), node (3)
+> **Frameworks & Libraries:** [[Firebase]] (5)
 > **CLI Commands:** node (3)
 > **URLs:** [gmail.com](https://gmail.com) (1)
 > **UI Navigation:** go to (1)
@@ -2763,18 +2731,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Firebase Hosting setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/firebase-hosting-setup-2?u=76281980)
+#### [Firebase Hosting setup](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/firebase-hosting-setup-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/firebase-hosting-setup-2?u=76281980&t=0)** - [Instructor] Now that we have used authentication to manage users, Cloud Firestore to store data, Cloud Storage to store user files, and Cloud Functions for serverless back-ends, it's time to deploy our application, and we can do so with Firebase Hosting.
+> **[0:00](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/firebase-hosting-setup-2?u=76281980&t=0)** - [Instructor] Now that we have used authentication to manage users, Cloud Firestore to store data, [[Cloud Storage]] to store user files, and Cloud Functions for serverless back-ends, it's time to deploy our application, and we can do so with [[Firebase]] Hosting.
 >
-> **[0:14](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/firebase-hosting-setup-2?u=76281980&t=14)** We first need to ensure that the Angular application can build using a production configuration.
+> **[0:14](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/firebase-hosting-setup-2?u=76281980&t=14)** We first need to ensure that the [[Angular]] application can build using a production configuration.
 >
-> **[0:20](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/firebase-hosting-setup-2?u=76281980&t=20)** Let's go ahead and add an npm script.
+> **[0:20](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/firebase-hosting-setup-2?u=76281980&t=20)** Let's go ahead and add an [[npm]] script.
 >
-> **[0:23](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/firebase-hosting-setup-2?u=76281980&t=23)** Opening your package.json file, I will add a new npm script here, build:prod, and it will build with the production configuration.
+> **[0:23](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/firebase-hosting-setup-2?u=76281980&t=23)** Opening your package.[[JSON]] file, I will add a new npm script here, build:prod, and it will build with the production configuration.
 >
 > **[0:38](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/firebase-hosting-setup-2?u=76281980&t=38)** We also need to copy the environment configuration into the production configuration.
 >
@@ -2806,24 +2773,23 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/firebase-hosting-setup-2?u=76281980&t=103)** Our public directory will actually be dist/grid-dashboard.
 >
-> **[1:51](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/firebase-hosting-setup-2?u=76281980&t=111)** You do want to configure it as a single-page app, and you don't want to override this index.html file.
+> **[1:51](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/firebase-hosting-setup-2?u=76281980&t=111)** You do want to configure it as a single-page app, and you don't want to override this index.[[HTML]] file.
 >
 > **[2:01](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/firebase-hosting-setup-2?u=76281980&t=121)** Once that is done, you will see that the Firebase.json file has been updated with the hosting configuration.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Firebase]] (4), cloud (3), application (3), [[npm]] (3), [[JSON]] (2)
+> **Frameworks & Libraries:** [[Firebase]] (4), [[npm]] (3), [[JSON]] (2), [[Cloud Storage]] (1), [[Angular]] (1)
 > **CLI Commands:** npm (3), make (1)
 > **File Paths:** package.json (1), index.html (1), firebase.json (1)
 > **Prerequisites:** set up (1), configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deploying your app
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/deploying-your-app-2?u=76281980)
+#### [Deploying your app](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/deploying-your-app-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/deploying-your-app-2?u=76281980&t=0)** - [Instructor] Once we have built our application and set up Firebase hosting, let's go ahead and deploy our application now.
+> **[0:00](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/deploying-your-app-2?u=76281980&t=0)** - [Instructor] Once we have built our application and set up [[Firebase]] hosting, let's go ahead and deploy our application now.
 >
 > **[0:07](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/deploying-your-app-2?u=76281980&t=7)** Can use the Firebase tool, deploy dash dash only hosting.
 >
@@ -2871,7 +2837,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Firebase]] (7), application (6), data (3), cloud (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Firebase]] (7)
 > **Env Vars:** url (2)
 > **URLs:** [web.app](https://web.app) (1)
 > **Tools:** terminal (1)
@@ -2885,16 +2851,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/next-steps-2?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/next-steps-2?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/next-steps-2?u=76281980&t=0)** - [Instructor] Thanks for joining me on this course.
 >
-> **[0:02](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/next-steps-2?u=76281980&t=2)** We have leveraged most of the excellent services provided by Firebase by Google to help us build a serverless app.
+> **[0:02](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/next-steps-2?u=76281980&t=2)** We have leveraged most of the excellent services provided by [[Firebase]] by [[Google]] to help us build a serverless app.
 >
-> **[0:09](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/next-steps-2?u=76281980&t=9)** I hope you enjoyed learning about the different Firebase features that will make you a much more productive developer when developing angular applications.
+> **[0:09](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/next-steps-2?u=76281980&t=9)** I hope you enjoyed learning about the different Firebase features that will make you a much more productive developer when developing [[Angular]] applications.
 >
 > **[0:16](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/next-steps-2?u=76281980&t=16)** I strongly recommend subscribing to the Firebase YouTube channel.
 >
@@ -2902,7 +2867,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/next-steps-2?u=76281980&t=25)** And of course, continue to browse our library for anything angular related.
 >
-> **[0:30](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/next-steps-2?u=76281980&t=30)** If you wish to know what I'm currently working on, follow me on GitHub at [github.com/victormejia](https://github.com/victormejia).
+> **[0:30](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/next-steps-2?u=76281980&t=30)** If you wish to know what I'm currently working on, follow me on [[GitHub]] at [github.com/victormejia](https://github.com/victormejia).
 >
 > **[0:36](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/next-steps-2?u=76281980&t=36)** You can also find me on Twitter at [twitter.com/_victormejia](https://twitter.com/_victormejia), thanks for watching.
 

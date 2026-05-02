@@ -99,16 +99,16 @@ created: 2026-05-02
 > 66. [[Search Techniques for Web Developers]] — 5 mentions
 > 67. [[Building Monorepos On Github]] — 5 mentions
 > 68. [[Getting Started with the Google Gemini API]] — 5 mentions
-> 69. [[Node.js- Design Patterns]] — 5 mentions
-> 70. [[LLMOps in Practice- A Deep Dive]] — 5 mentions
-> 71. [[Playwright- Design Patterns]] — 5 mentions
-> 72. [[Essential Statamic for PHP and Laravel Developers]] — 5 mentions
-> 73. [[Postman Essential Training]] — 5 mentions
-> 74. [[JavaScript Essential Training]] — 4 mentions
-> 75. [[Build an Image Captioning Tool for Visually Impaired Users with Gemini]] — 4 mentions
-> 76. [[Microsoft Azure Synapse for Developers]] — 4 mentions
-> 77. [[C- Framework Design]] — 4 mentions
-> 78. [[Azure DevOps for Beginners]] — 4 mentions
+> 69. [[Azure DevOps for Beginners]] — 5 mentions
+> 70. [[Node.js- Design Patterns]] — 5 mentions
+> 71. [[LLMOps in Practice- A Deep Dive]] — 5 mentions
+> 72. [[Playwright- Design Patterns]] — 5 mentions
+> 73. [[Essential Statamic for PHP and Laravel Developers]] — 5 mentions
+> 74. [[Postman Essential Training]] — 5 mentions
+> 75. [[JavaScript Essential Training]] — 4 mentions
+> 76. [[Build an Image Captioning Tool for Visually Impaired Users with Gemini]] — 4 mentions
+> 77. [[Microsoft Azure Synapse for Developers]] — 4 mentions
+> 78. [[C- Framework Design]] — 4 mentions
 > 79. [[Learning GitHub Codespaces for Enterprise]] — 4 mentions
 > 80. [[Blockchain for Developers- Hyperledger Fabric on Azure]] — 4 mentions
 > 81. [[Building Modern Uis With React Router V6]] — 4 mentions
@@ -136,23 +136,23 @@ created: 2026-05-02
 > 103. [[DevOps Foundations- Continuous Delivery-Continuous Integration]] — 2 mentions
 > 104. [[Building Angular and ASP.NET Core Applications]] — 2 mentions
 > 105. [[Using AI in the Design to Full-Stack Development Life Cycle]] — 2 mentions
-> 106. [[Threat Modeling- Tampering in Depth]] — 2 mentions
-> 107. [[Learning Graphql]] — 2 mentions
-> 108. [[Learning The Javascript Language]] — 2 mentions
-> 109. [[Introduction to Couchbase]] — 2 mentions
-> 110. [[JavaScript- Prototypes]] — 2 mentions
-> 111. [[OWASP Top 10- -5 Security Misconfiguration and -6 Vulnerable and Outdated Components]] — 2 mentions
-> 112. [[OWASP Top 10- -7 Identification and Authentication Failures and -8 Software and Data Integrity Failures]] — 2 mentions
-> 113. [[Advanced Laravel]] — 2 mentions
-> 114. [[ESLint- Checking for Syntax and Logic Errors]] — 2 mentions
-> 115. [[ESLint- Customizing Styles]] — 2 mentions
-> 116. [[Node Js Essential Training]] — 2 mentions
-> 117. [[AI Product Security- Secure Architecture, Deployment, and Infrastructure]] — 1 mentions
-> 118. [[Devops Foundations]] — 1 mentions
-> 119. [[Structured Vibe Coding with AI Coding Agents]] — 1 mentions
-> 120. [[Penetration Testing Web Apps with Kali and Burp Suite]] — 1 mentions
-> 121. [[AI Orchestration- Planning and Orchestrating for Observability]] — 1 mentions
-> 122. [[Azure Understanding The Big Picture]] — 1 mentions
+> 106. [[Azure Understanding The Big Picture]] — 2 mentions
+> 107. [[Threat Modeling- Tampering in Depth]] — 2 mentions
+> 108. [[Learning Graphql]] — 2 mentions
+> 109. [[Learning The Javascript Language]] — 2 mentions
+> 110. [[Introduction to Couchbase]] — 2 mentions
+> 111. [[JavaScript- Prototypes]] — 2 mentions
+> 112. [[OWASP Top 10- -5 Security Misconfiguration and -6 Vulnerable and Outdated Components]] — 2 mentions
+> 113. [[OWASP Top 10- -7 Identification and Authentication Failures and -8 Software and Data Integrity Failures]] — 2 mentions
+> 114. [[Advanced Laravel]] — 2 mentions
+> 115. [[ESLint- Checking for Syntax and Logic Errors]] — 2 mentions
+> 116. [[ESLint- Customizing Styles]] — 2 mentions
+> 117. [[Node Js Essential Training]] — 2 mentions
+> 118. [[AI Product Security- Secure Architecture, Deployment, and Infrastructure]] — 1 mentions
+> 119. [[Devops Foundations]] — 1 mentions
+> 120. [[Structured Vibe Coding with AI Coding Agents]] — 1 mentions
+> 121. [[Penetration Testing Web Apps with Kali and Burp Suite]] — 1 mentions
+> 122. [[AI Orchestration- Planning and Orchestrating for Observability]] — 1 mentions
 > 123. [[JSON Essential Training]] — 1 mentions
 > 124. [[JavaScript- Ajax and Fetch]] — 1 mentions
 > 125. [[Openai Api Introduction]] — 1 mentions

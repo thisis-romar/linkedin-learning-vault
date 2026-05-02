@@ -108,20 +108,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Efficient data tracking in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/efficient-data-tracking-in-excel?u=76281980)
+#### [Efficient data tracking in Excel](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/efficient-data-tracking-in-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/efficient-data-tracking-in-excel?u=76281980&t=0)** - You've got data that needs to be tracked and managed.
 >
-> **[0:03](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/efficient-data-tracking-in-excel?u=76281980&t=3)** Well, standalone Excel tips and tricks will not help.
+> **[0:03](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/efficient-data-tracking-in-excel?u=76281980&t=3)** Well, standalone [[Microsoft Excel|Excel]] tips and tricks will not help.
 >
 > **[0:09](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/efficient-data-tracking-in-excel?u=76281980&t=9)** You need to be able to weave together Excel's features.
 >
 > **[0:14](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/efficient-data-tracking-in-excel?u=76281980&t=14)** In this course, I cover the essentials for tracking data.
 >
-> **[0:18](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/efficient-data-tracking-in-excel?u=76281980&t=18)** You'll see formulas, pivot tables, dropdown lists, and new features in Excel, like Power Query, XLOOKUP, Unpivot, Append, Dynamic Arrays even!
+> **[0:18](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/efficient-data-tracking-in-excel?u=76281980&t=18)** You'll see formulas, [[Pivot Tables]], dropdown lists, and new features in Excel, like [[Microsoft Power Query|Power Query]], XLOOKUP, Unpivot, Append, Dynamic Arrays even!
 >
 > **[0:30](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/efficient-data-tracking-in-excel?u=76281980&t=30)** Whoo!
 >
@@ -131,7 +130,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), data (3), [[Pivot Tables]] (1), [[Microsoft Power Query|Power query]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Pivot Tables]] (1), [[Microsoft Power Query|Power query]] (1)
 > **Env Vars:** xlookup (1)
 > **UI Navigation:** dropdown (1)
 > **Speakers:** - you (1)
@@ -141,8 +140,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/introducing-tables?u=76281980)
+#### [Introducing tables](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/introducing-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -212,7 +210,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/introducing-tables?u=76281980&t=146)** We've got count A and then RSVP, which is the name of the table.
 >
-> **[2:32](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/introducing-tables?u=76281980&t=152)** And in those square brackets we have the word invited.
+> **[2:32](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/introducing-tables?u=76281980&t=152)** And in those square brackets we have the [[Microsoft Word|word]] invited.
 >
 > **[2:35](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/introducing-tables?u=76281980&t=155)** That's the table column.
 >
@@ -292,14 +290,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Env Vars:** rsvp (3), grp (1)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Key features of an effective data tracker
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/key-features-of-an-effective-data-tracker?u=76281980)
+#### [Key features of an effective data tracker](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/key-features-of-an-effective-data-tracker?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -329,7 +326,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/key-features-of-an-effective-data-tracker?u=76281980&t=98)** But then it gets complicated if you want to know how many people donated multiple times.
 >
-> **[1:46](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/key-features-of-an-effective-data-tracker?u=76281980&t=106)** If that data is sprinkled across multiple worksheets then you're going to need some Excel trickery.
+> **[1:46](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/key-features-of-an-effective-data-tracker?u=76281980&t=106)** If that data is sprinkled across multiple worksheets then you're going to need some [[Microsoft Excel|Excel]] trickery.
 >
 > **[1:52](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/key-features-of-an-effective-data-tracker?u=76281980&t=112)** But right now, the way that this is in one place, it would be so easy to discover the multiple donors.
 >
@@ -431,7 +428,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Microsoft Excel|Excel]] (4), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4)
 > **UI Navigation:** go to (3), scroll down (1), scroll up (1)
 > **CLI Commands:** make (2)
 > **Versions:** 321.70 (1), 24.99 (1)
@@ -445,8 +442,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Thinking about input, storage, and output
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/thinking-about-input-storage-and-output?u=76281980)
+#### [Thinking about input, storage, and output](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/thinking-about-input-storage-and-output?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -602,15 +598,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), teams (2)
 > **Definitions:** is a  (3)
 > **Cross-References:** go back to (2)
 > **UI Navigation:** go to (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Incorporating charts into your tracker
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/incorporating-charts-into-your-tracker?u=76281980)
+#### [Incorporating charts into your tracker](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/incorporating-charts-into-your-tracker?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -770,7 +764,7 @@ created: 2026-05-02
 >
 > **[7:12](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/incorporating-charts-into-your-tracker?u=76281980&t=432)** So here is an easier way to make a chart.
 >
-> **[7:16](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/incorporating-charts-into-your-tracker?u=76281980&t=436)** However, with pivot tables and pivot charts, if the data changes, you have to remember to refresh.
+> **[7:16](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/incorporating-charts-into-your-tracker?u=76281980&t=436)** However, with [[Pivot Tables]] and pivot charts, if the data changes, you have to remember to refresh.
 >
 > **[7:26](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/incorporating-charts-into-your-tracker?u=76281980&t=446)** Let me show you that and then we can get out of here.
 >
@@ -798,7 +792,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Pivot Tables]] (2), hit (1)
+> **Frameworks & Libraries:** [[Pivot Tables]] (2)
 > **UI Navigation:** go to (4), scroll down (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
@@ -806,8 +800,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding helper columns
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/adding-helper-columns?u=76281980)
+#### [Adding helper columns](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/adding-helper-columns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -867,7 +860,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1)
 > **Versions:** 0.25 (1), 2.5 (1), 2.38 (1), 4.75 (1), 4.65 (1)
 > **Ports:** :15 (1), :45 (1)
 > **UI Navigation:** go to (1)
@@ -875,8 +867,7 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using Slicers to filter for details
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/using-slicers-to-filter-for-details?u=76281980)
+#### [Using Slicers to filter for details](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/using-slicers-to-filter-for-details?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -962,13 +953,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **UI Navigation:** go to (1), dropdown (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Summary pages and dashboards
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/summary-pages-and-dashboards?u=76281980)
+#### [Summary pages and dashboards](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/summary-pages-and-dashboards?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1018,7 +1007,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/summary-pages-and-dashboards?u=76281980&t=168)** We crossed the 90% mark and those other six people, they just have to deal with it.
 >
-> **[2:58](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/summary-pages-and-dashboards?u=76281980&t=178)** Next, the overview, I have two pivot tables, I have a slicer.
+> **[2:58](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/summary-pages-and-dashboards?u=76281980&t=178)** Next, the overview, I have two [[Pivot Tables]], I have a slicer.
 >
 > **[3:06](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/summary-pages-and-dashboards?u=76281980&t=186)** Here, let's say you and I are mostly concerned about a count for groups C, G, and M.
 >
@@ -1038,7 +1027,7 @@ created: 2026-05-02
 >
 > **[4:13](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/summary-pages-and-dashboards?u=76281980&t=253)** And I encourage you, please open it up, look through it, see how it works.
 >
-> **[4:19](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/summary-pages-and-dashboards?u=76281980&t=259)** That's how you get good with Excel.
+> **[4:19](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/summary-pages-and-dashboards?u=76281980&t=259)** That's how you get good with [[Microsoft Excel|Excel]].
 >
 > **[4:23](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/summary-pages-and-dashboards?u=76281980&t=263)** But the main thing I wanted to talk about is, yes, the real world is huge and messy, you're not going to have two columns and five rows.
 >
@@ -1048,13 +1037,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), next (1), [[Pivot Tables]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Pivot Tables]] (1), [[Microsoft Excel|Excel]] (1)
 > **Versions:** 88.5 (1), 8.2 (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ad hoc vs. at-a-glance needs
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/ad-hoc-vs-at-a-glance-needs?u=76281980)
+#### [Ad hoc vs. at-a-glance needs](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/ad-hoc-vs-at-a-glance-needs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1134,7 +1122,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8)
 > **Versions:** 79.99 (1), 36.2 (1)
 > **CLI Commands:** find (1)
 > **Prerequisites:** set up (1)
@@ -1145,8 +1132,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Protecting cells and sheets
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/protecting-cells-and-sheets?u=76281980)
+#### [Protecting cells and sheets](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/protecting-cells-and-sheets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1214,7 +1200,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/protecting-cells-and-sheets?u=76281980&t=203)** Now what I have to do is right click format cells protection.
 >
-> **[3:35](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/protecting-cells-and-sheets?u=76281980&t=215)** Now by default, cells in Excel are locked.
+> **[3:35](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/protecting-cells-and-sheets?u=76281980&t=215)** Now by default, cells in [[Microsoft Excel|Excel]] are locked.
 >
 > **[3:41](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/protecting-cells-and-sheets?u=76281980&t=221)** So if I want people to be able to change data on a protected sheet I'm going to unlock these cells that I highlighted.
 >
@@ -1290,7 +1276,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (3), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **UI Navigation:** scroll down (1)
@@ -1298,8 +1284,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hidden sheets
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/hidden-sheets?u=76281980)
+#### [Hidden sheets](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/hidden-sheets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1371,14 +1356,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** make (2)
 > **UI Navigation:** dropdown (1), go to (1)
 > **Versions:** 0.28 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hidden columns and rows
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/hidden-columns-and-rows?u=76281980)
+#### [Hidden columns and rows](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/hidden-columns-and-rows?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1462,7 +1445,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Troubleshooting]] (2), data (1)
 > **CLI Commands:** make (3)
 > **Versions:** 49.55 (1), 575.12 (1), 178.50 (1)
 > **UI Navigation:** go to (1)
@@ -1474,8 +1456,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using dropdown lists for accuracy and consistency
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/using-dropdown-lists-for-accuracy-and-consistency?u=76281980)
+#### [Using dropdown lists for accuracy and consistency](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/using-dropdown-lists-for-accuracy-and-consistency?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1501,7 +1482,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/using-dropdown-lists-for-accuracy-and-consistency?u=76281980&t=57)** I am going to highlight this column because I want the dropdown list to be in the entire column.
 >
-> **[1:06](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/using-dropdown-lists-for-accuracy-and-consistency?u=76281980&t=66)** Go to Data, Data Tools, Data Validation, and I want list in sale, yes.
+> **[1:06](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/using-dropdown-lists-for-accuracy-and-consistency?u=76281980&t=66)** Go to Data, Data Tools, [[Data Validation]], and I want list in sale, yes.
 >
 > **[1:17](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/using-dropdown-lists-for-accuracy-and-consistency?u=76281980&t=77)** And the options.
 >
@@ -1561,7 +1542,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/using-dropdown-lists-for-accuracy-and-consistency?u=76281980&t=232)** I want to put it on an existing worksheet and I want to put the pivot table say right here, okay.
 >
-> **[4:03](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/using-dropdown-lists-for-accuracy-and-consistency?u=76281980&t=243)** And I'm going to get to pivot tables a little more in depth later in the course but it doesn't hurt to see it right now.
+> **[4:03](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/using-dropdown-lists-for-accuracy-and-consistency?u=76281980&t=243)** And I'm going to get to [[Pivot Tables]] a little more in depth later in the course but it doesn't hurt to see it right now.
 >
 > **[4:10](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/using-dropdown-lists-for-accuracy-and-consistency?u=76281980&t=250)** Alright, I want to put city in rows and registration in the values.
 >
@@ -1689,7 +1670,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Pivot Tables]] (1)
+> **Frameworks & Libraries:** [[Data Validation]] (2), [[Pivot Tables]] (1)
 > **UI Navigation:** dropdown (7), go to (2)
 > **Env Vars:** nyc (3)
 > **CLI Commands:** make (2)
@@ -1697,8 +1678,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Applying formula triggers to prevent inaccurate results
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/applying-formula-triggers-to-prevent-inaccurate-results?u=76281980)
+#### [Applying formula triggers to prevent inaccurate results](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/applying-formula-triggers-to-prevent-inaccurate-results?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1794,11 +1774,11 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/applying-formula-triggers-to-prevent-inaccurate-results?u=76281980&t=238)** And that's the power of a formula trigger.
 >
-> **[4:01](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/applying-formula-triggers-to-prevent-inaccurate-results?u=76281980&t=241)** It keeps your electrifying Excel formula from doing its magic until certain requirements are met.
+> **[4:01](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/applying-formula-triggers-to-prevent-inaccurate-results?u=76281980&t=241)** It keeps your electrifying [[Microsoft Excel|Excel]] formula from doing its magic until certain requirements are met.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), power (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Code Identifiers:** counta (4)
 > **UI Navigation:** scroll down (3), go to (1)
 > **Env Vars:** h113 (1), k300 (1), h120 (1)
@@ -1806,8 +1786,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using cross-footing as a check for data quality
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/using-cross-footing-as-a-check-for-data-quality?u=76281980)
+#### [Using cross-footing as a check for data quality](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/using-cross-footing-as-a-check-for-data-quality?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1819,7 +1798,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/using-cross-footing-as-a-check-for-data-quality?u=76281980&t=23)** For each location we have the contractor's name, the task they worked on, and for how much time.
 >
-> **[0:31](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/using-cross-footing-as-a-check-for-data-quality?u=76281980&t=31)** And maybe that's all we're doing with this list is adding to 'em, keeping 'em straight, and then maybe applying pivot tables later, something so that we can pay 'em, okay?
+> **[0:31](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/using-cross-footing-as-a-check-for-data-quality?u=76281980&t=31)** And maybe that's all we're doing with this list is adding to 'em, keeping 'em straight, and then maybe applying [[Pivot Tables]] later, something so that we can pay 'em, okay?
 >
 > **[0:44](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/using-cross-footing-as-a-check-for-data-quality?u=76281980&t=44)** But before we can trust this data, it helps to do crossfooting and that's what's happening over on the right side.
 >
@@ -1887,14 +1866,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Pivot Tables]] (1)
+> **Frameworks & Libraries:** [[Pivot Tables]] (1)
 > **Versions:** 310.75 (2), 314.75 (1)
 > **Env Vars:** aq204 (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data validation for reasonable values
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/data-validation-for-reasonable-values?u=76281980)
+#### [Data validation for reasonable values](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/data-validation-for-reasonable-values?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1926,7 +1904,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/data-validation-for-reasonable-values?u=76281980&t=83)** Now, I'm going to go up to Data and Data Tools.
 >
-> **[1:28](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/data-validation-for-reasonable-values?u=76281980&t=88)** Here's the data validation.
+> **[1:28](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/data-validation-for-reasonable-values?u=76281980&t=88)** Here's the [[Data Validation]].
 >
 > **[1:31](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/data-validation-for-reasonable-values?u=76281980&t=91)** Now for these cells, I want to allow a whole number between a minimum of one and a maximum of five.
 >
@@ -2010,14 +1988,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13)
+> **Frameworks & Libraries:** [[Data Validation]] (5)
 > **CLI Commands:** make (3)
 > **Versions:** 4.5 (1)
 > **UI Navigation:** dropdown (1)
 > **Speakers:** - [instructor] (1)
 
-#### Times: Checking data quality
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/times-checking-data-quality?u=76281980)
+#### [Times: Checking data quality](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/times-checking-data-quality?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2029,7 +2006,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/times-checking-data-quality?u=76281980&t=22)** Maybe we want to look at how much overall time people are spending.
 >
-> **[0:28](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/times-checking-data-quality?u=76281980&t=28)** But before we can do that, we have to check the data quality, especially if somebody handed you paper and then you typed it in, or you handed somebody paper and they typed it in.
+> **[0:28](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/times-checking-data-quality?u=76281980&t=28)** But before we can do that, we have to check the [[Data Quality]], especially if somebody handed you paper and then you typed it in, or you handed somebody paper and they typed it in.
 >
 > **[0:41](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/times-checking-data-quality?u=76281980&t=41)** And now we're going to do the analysis.
 >
@@ -2073,7 +2050,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (1)
+> **Frameworks & Libraries:** [[Data Quality]] (1)
 > **Ports:** :19 (3), :05 (1), :30 (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** d17 (1)
@@ -2085,8 +2062,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Challenge: Building a data tracker for event details
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/challenge-building-a-data-tracker-for-event-details?u=76281980)
+#### [Challenge: Building a data tracker for event details](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/challenge-building-a-data-tracker-for-event-details?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2118,7 +2094,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/challenge-building-a-data-tracker-for-event-details?u=76281980&t=107)** And does anyone have guests listed but is also listed as not attending?
 >
-> **[1:56](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/challenge-building-a-data-tracker-for-event-details?u=76281980&t=116)** So we got to check our data quality.
+> **[1:56](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/challenge-building-a-data-tracker-for-event-details?u=76281980&t=116)** So we got to check our [[Data Quality]].
 >
 > **[1:58](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/challenge-building-a-data-tracker-for-event-details?u=76281980&t=118)** All right, that's the challenge.
 >
@@ -2126,7 +2102,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
+> **Frameworks & Libraries:** [[Data Quality]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** rsvp (1)
 > **Versions:** 1.8 (1)
@@ -2134,8 +2110,7 @@ created: 2026-05-02
 > **Speakers:** - your (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Building a data tracker for event details
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/solution-building-a-data-tracker-for-event-details?u=76281980)
+#### [Solution: Building a data tracker for event details](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/solution-building-a-data-tracker-for-event-details?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2151,7 +2126,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/solution-building-a-data-tracker-for-event-details?u=76281980&t=25)** And go to Data.
 >
-> **[0:28](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/solution-building-a-data-tracker-for-event-details?u=76281980&t=28)** Data Validation.
+> **[0:28](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/solution-building-a-data-tracker-for-event-details?u=76281980&t=28)** [[Data Validation]].
 >
 > **[0:33](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/solution-building-a-data-tracker-for-event-details?u=76281980&t=33)** List.
 >
@@ -2325,7 +2300,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (2)
+> **Frameworks & Libraries:** [[Data Validation]] (2)
 > **CLI Commands:** make (4)
 > **UI Navigation:** go to (3)
 > **Non-Speech:** (upbeat music) (2)
@@ -2337,16 +2312,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Dynamic Arrays: One formula, many results
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/dynamic-arrays-one-formula-many-results?u=76281980)
+#### [Dynamic Arrays: One formula, many results](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/dynamic-arrays-one-formula-many-results?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/dynamic-arrays-one-formula-many-results?u=76281980&t=0)** - [Instructor] Here, I want to give you an overview of dynamic arrays because they can be a huge help in building a data tracker.
 >
-> **[0:08](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/dynamic-arrays-one-formula-many-results?u=76281980&t=8)** And in discussing dynamic arrays, we're really talking about a new calculation engine that's behind Excel.
+> **[0:08](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/dynamic-arrays-one-formula-many-results?u=76281980&t=8)** And in discussing dynamic arrays, we're really talking about a new calculation engine that's behind [[Microsoft Excel|Excel]].
 >
-> **[0:16](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/dynamic-arrays-one-formula-many-results?u=76281980&t=16)** And you have this if you are on Microsoft 365 Excel 2021 and newer and Excel for the web.
+> **[0:16](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/dynamic-arrays-one-formula-many-results?u=76281980&t=16)** And you have this if you are on [[Microsoft 365]] Excel 2021 and newer and Excel for the web.
 >
 > **[0:28](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/dynamic-arrays-one-formula-many-results?u=76281980&t=28)** Now there are a lot of new, very specific array functions but I want to start by showing you that existing functions can take advantage of this calculation engine.
 >
@@ -2454,7 +2428,7 @@ created: 2026-05-02
 >
 > **[5:48](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/dynamic-arrays-one-formula-many-results?u=76281980&t=348)** They grew automatically because we have a table and we are using dynamic arrays.
 >
-> **[5:57](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/dynamic-arrays-one-formula-many-results?u=76281980&t=357)** So again, you can check out my Using Dynamic Arrays course in the LinkedIn library.
+> **[5:57](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/dynamic-arrays-one-formula-many-results?u=76281980&t=357)** So again, you can check out my Using Dynamic Arrays course in the [[LinkedIn]] library.
 >
 > **[6:04](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/dynamic-arrays-one-formula-many-results?u=76281980&t=364)** We go much deeper there.
 >
@@ -2462,7 +2436,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft Excel|Excel]] (3), [[Microsoft 365]] (1), web (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Microsoft 365]] (1), [[LinkedIn]] (1)
 > **Env Vars:** ord (2), upper (1), gdn (1), lim (1), acc (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
@@ -2470,14 +2444,13 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dynamic Arrays: FILTER, UNIQUE, SORT
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/dynamic-arrays-filter-unique-sort?u=76281980)
+#### [Dynamic Arrays: FILTER, UNIQUE, SORT](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/dynamic-arrays-filter-unique-sort?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/dynamic-arrays-filter-unique-sort?u=76281980&t=0)** - [Instructor] All right, let's talk about the filter function.
 >
-> **[0:03](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/dynamic-arrays-filter-unique-sort?u=76281980&t=3)** This is an exciting and relatively new function in Excel, and I have an entire course on the dynamic array functions where I go deep, deep, deep into filter.
+> **[0:03](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/dynamic-arrays-filter-unique-sort?u=76281980&t=3)** This is an exciting and relatively new function in [[Microsoft Excel|Excel]], and I have an entire course on the dynamic array functions where I go deep, deep, deep into filter.
 >
 > **[0:20](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/dynamic-arrays-filter-unique-sort?u=76281980&t=20)** It can do so many things, but right now, I want to give you an overview.
 >
@@ -2669,20 +2642,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (3), [[Microsoft Excel|Excel]] (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (4)
 > **Cross-References:** go back to (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dynamic Arrays: TOCOL, dropdowns, and conditional formatting
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/dynamic-arrays-tocol-dropdowns-and-conditional-formatting?u=76281980)
+#### [Dynamic Arrays: TOCOL, dropdowns, and conditional formatting](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/dynamic-arrays-tocol-dropdowns-and-conditional-formatting?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/dynamic-arrays-tocol-dropdowns-and-conditional-formatting?u=76281980&t=0)** - [Instructor] Now what I'm about to show you is exciting so hopefully you're sitting down and relaxed.
 >
-> **[0:06](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/dynamic-arrays-tocol-dropdowns-and-conditional-formatting?u=76281980&t=6)** We are going to weave together several Excel features and functions to build a bit of a tracker.
+> **[0:06](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/dynamic-arrays-tocol-dropdowns-and-conditional-formatting?u=76281980&t=6)** We are going to weave together several [[Microsoft Excel|Excel]] features and functions to build a bit of a tracker.
 >
 > **[0:18](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/dynamic-arrays-tocol-dropdowns-and-conditional-formatting?u=76281980&t=18)** The center is going to be dynamic arrays, and the TOCOL function.
 >
@@ -2744,7 +2716,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/dynamic-arrays-tocol-dropdowns-and-conditional-formatting?u=76281980&t=213)** Data, Data Tools, click here.
 >
-> **[3:38](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/dynamic-arrays-tocol-dropdowns-and-conditional-formatting?u=76281980&t=218)** We want Data Validation.
+> **[3:38](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/dynamic-arrays-tocol-dropdowns-and-conditional-formatting?u=76281980&t=218)** We want [[Data Validation]].
 >
 > **[3:40](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/dynamic-arrays-tocol-dropdowns-and-conditional-formatting?u=76281980&t=220)** I want a list.
 >
@@ -2818,7 +2790,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Data Validation]] (1)
 > **UI Navigation:** dropdown (4), go to (2)
 > **Env Vars:** tocol (5)
 > **Cross-References:** go back to (2)
@@ -2831,14 +2803,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### VLOOKUP
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/vlookup?u=76281980)
+#### [VLOOKUP](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/vlookup?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/vlookup?u=76281980&t=0)** - Let's talk about VLOOKUP.
 >
-> **[0:03](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/vlookup?u=76281980&t=3)** Even though we have XLOOKUP now, which is a much more robust version of XLOOKUP and we have the joins in Power Query.
+> **[0:03](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/vlookup?u=76281980&t=3)** Even though we have XLOOKUP now, which is a much more robust version of XLOOKUP and we have the joins in [[Microsoft Power Query|Power Query]].
 >
 > **[0:13](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/vlookup?u=76281980&t=13)** Unfortunately, not everybody has XLOOKUP or Power Query yet, so there is still a place for VLOOKUP.
 >
@@ -2936,15 +2907,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Power Query|Power query]] (2)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (2)
 > **Env Vars:** vlookup (10), xlookup (3)
 > **CLI Commands:** find (2)
 > **UI Navigation:** go to (1), click on (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - let (1)
 
-#### Categorizing bonuses with VLOOKUP
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/categorizing-bonuses-with-vlookup?u=76281980)
+#### [Categorizing bonuses with VLOOKUP](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/categorizing-bonuses-with-vlookup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3020,7 +2990,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/categorizing-bonuses-with-vlookup?u=76281980&t=201)** The 669 is between 600 and 700 and yes, $700 bonus.
 >
-> **[3:29](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/categorizing-bonuses-with-vlookup?u=76281980&t=209)** And that is how you do an approximate match in Power Query.
+> **[3:29](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/categorizing-bonuses-with-vlookup?u=76281980&t=209)** And that is how you do an approximate match in [[Microsoft Power Query|Power Query]].
 >
 > **[3:34](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/categorizing-bonuses-with-vlookup?u=76281980&t=214)** Let's turn this into money.
 >
@@ -3030,12 +3000,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft Power Query|Power query]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (1)
 > **Env Vars:** vlookup (5), xlookup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Merging data with XLOOKUP
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/merging-data-with-xlookup?u=76281980)
+#### [Merging data with XLOOKUP](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/merging-data-with-xlookup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3047,11 +3016,11 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/merging-data-with-xlookup?u=76281980&t=13)** But here are a couple of things.
 >
-> **[0:15](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/merging-data-with-xlookup?u=76281980&t=15)** One, I go much deeper into XLOOKUP and even do a comparison of XLOOKUP, VLOOKUP, and INDEX MATCH in my course called Excel: Advanced Formulas and Functions.
+> **[0:15](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/merging-data-with-xlookup?u=76281980&t=15)** One, I go much deeper into XLOOKUP and even do a comparison of XLOOKUP, VLOOKUP, and INDEX MATCH in my course called [[Microsoft Excel|Excel]]: Advanced Formulas and Functions.
 >
 > **[0:29](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/merging-data-with-xlookup?u=76281980&t=29)** So please check that out.
 >
-> **[0:32](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/merging-data-with-xlookup?u=76281980&t=32)** Also, XLOOKUP is only available on Excel 2021, if you have the standalone version, or Microsoft 365.
+> **[0:32](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/merging-data-with-xlookup?u=76281980&t=32)** Also, XLOOKUP is only available on Excel 2021, if you have the standalone version, or [[Microsoft 365]].
 >
 > **[0:45](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/merging-data-with-xlookup?u=76281980&t=45)** It is on both PC and Mac, and Excel online, right?
 >
@@ -3161,15 +3130,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Microsoft 365]] (1), [[Search]] (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Microsoft 365]] (1)
 > **Env Vars:** xlookup (13), vlookup (6), index (1), match (1), chk (1)
 > **UI Navigation:** go to (2)
 > **SQL:** index (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Categorizing bonuses with XLOOKUP
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/categorizing-bonuses-with-xlookup?u=76281980)
+#### [Categorizing bonuses with XLOOKUP](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/categorizing-bonuses-with-xlookup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3259,7 +3227,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (2), [[Search]] (1), hit (1)
 > **Env Vars:** xlookup (7), vlookup (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
@@ -3270,8 +3237,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a PivotTable?
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/what-is-a-pivottable?u=76281980)
+#### [What is a PivotTable?](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/what-is-a-pivottable?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3287,7 +3253,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/what-is-a-pivottable?u=76281980&t=37)** Maybe we would like to look at the accounts, and how much they've spent on each product line.
 >
-> **[0:46](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/what-is-a-pivottable?u=76281980&t=46)** Maybe we'd like to use the pivot table to check our data quality.
+> **[0:46](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/what-is-a-pivottable?u=76281980&t=46)** Maybe we'd like to use the pivot table to check our [[Data Quality]].
 >
 > **[0:52](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/what-is-a-pivottable?u=76281980&t=52)** We might want to get account of transactions for each account ID.
 >
@@ -3341,7 +3307,7 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/what-is-a-pivottable?u=76281980&t=240)** Transactions, I'm going to sort this column Alright, got to fix that G G Y.
 >
-> **[4:12](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/what-is-a-pivottable?u=76281980&t=252)** And here's one thing with pivot tables, whenever you change your source data, you have to refresh.
+> **[4:12](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/what-is-a-pivottable?u=76281980&t=252)** And here's one thing with [[Pivot Tables]], whenever you change your source data, you have to refresh.
 >
 > **[4:21](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/what-is-a-pivottable?u=76281980&t=261)** So I'm going to go here, refresh.
 >
@@ -3441,7 +3407,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), product (5), next (1), [[Pivot Tables]] (1)
+> **Frameworks & Libraries:** [[Data Quality]] (1), [[Pivot Tables]] (1)
 > **Env Vars:** ggy (2), lxs (1), dsa (1), esv (1)
 > **UI Navigation:** scroll down (2), go to (2)
 > **Definitions:** is a  (3)
@@ -3450,12 +3416,11 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Preparing and connecting a PivotTable to your data
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/preparing-and-connecting-a-pivottable-to-your-data?u=76281980)
+#### [Preparing and connecting a PivotTable to your data](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/preparing-and-connecting-a-pivottable-to-your-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/preparing-and-connecting-a-pivottable-to-your-data?u=76281980&t=0)** - [Instructor] Pivot tables can be a powerful feature to have in any data tracker.
+> **[0:00](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/preparing-and-connecting-a-pivottable-to-your-data?u=76281980&t=0)** - [Instructor] [[Pivot Tables]] can be a powerful feature to have in any data tracker.
 >
 > **[0:06](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/preparing-and-connecting-a-pivottable-to-your-data?u=76281980&t=6)** Now, when I've taught workshops around pivot tables, students didn't have a challenge with the actual steps of creating a pivot table.
 >
@@ -3517,7 +3482,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/preparing-and-connecting-a-pivottable-to-your-data?u=76281980&t=119)** Get rid of the contents in B-Two.
 >
-> **[2:02](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/preparing-and-connecting-a-pivottable-to-your-data?u=76281980&t=122)** Drag this down, and then Home, word wrap it.
+> **[2:02](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/preparing-and-connecting-a-pivottable-to-your-data?u=76281980&t=122)** Drag this down, and then Home, [[Microsoft Word|word]] wrap it.
 >
 > **[2:07](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/preparing-and-connecting-a-pivottable-to-your-data?u=76281980&t=127)** Okay, next. Column F is empty, right click, delete it.
 >
@@ -3645,19 +3610,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), [[Pivot Tables]] (3), product (3), feature (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Pivot Tables]] (3), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** go to (4), scroll down (1)
 > **Cross-References:** go back to (2)
 > **CLI Commands:** find (1)
 > **Versions:** 866.19 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building and using a PivotTable
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/building-and-using-a-pivottable?u=76281980)
+#### [Building and using a PivotTable](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/building-and-using-a-pivottable?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/building-and-using-a-pivottable?u=76281980&t=0)** - [Instructor] Let's look at some more ways that pivot tables can be so helpful for us.
+> **[0:00](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/building-and-using-a-pivottable?u=76281980&t=0)** - [Instructor] Let's look at some more ways that [[Pivot Tables]] can be so helpful for us.
 >
 > **[0:06](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/building-and-using-a-pivottable?u=76281980&t=6)** Right here, I have the transaction data and over on the right side, we have the list of reps and who their supervisors are.
 >
@@ -3795,7 +3759,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Pivot Tables]] (4), product (4)
+> **Frameworks & Libraries:** [[Pivot Tables]] (4)
 > **Env Vars:** xlookup (2), ccl (1), dsa (1), esv (1)
 > **Versions:** 238.99 (1)
 > **Cross-References:** go back to (1)
@@ -3809,12 +3773,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Power Query overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/power-query-overview?u=76281980)
+#### [Power Query overview](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/power-query-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/power-query-overview?u=76281980&t=0)** - [Instructor] Here is a brief overview of Power Query.
+> **[0:00](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/power-query-overview?u=76281980&t=0)** - [Instructor] Here is a brief overview of [[Microsoft Power Query|Power Query]].
 >
 > **[0:05](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/power-query-overview?u=76281980&t=5)** Now, there is a lot that Power Query does; sometimes it's considered advanced.
 >
@@ -3822,7 +3785,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/power-query-overview?u=76281980&t=34)** That is what Power Query is designed for.
 >
-> **[0:38](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/power-query-overview?u=76281980&t=38)** And I do have a course on Power Query in the LinkedIn Learning Library.
+> **[0:38](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/power-query-overview?u=76281980&t=38)** And I do have a course on Power Query in the [[LinkedIn]] Learning Library.
 >
 > **[0:45](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/power-query-overview?u=76281980&t=45)** It's thorough. It's a good course.
 >
@@ -3860,7 +3823,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/power-query-overview?u=76281980&t=143)** Here we go.
 >
-> **[2:26](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/power-query-overview?u=76281980&t=146)** Before we get started, Power Query is in Windows versions of Excel and it is slowly being developed for the Mac and Excel for the web.
+> **[2:26](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/power-query-overview?u=76281980&t=146)** Before we get started, Power Query is in [[Windows]] versions of [[Microsoft Excel|Excel]] and it is slowly being developed for the Mac and Excel for the web.
 >
 > **[2:37](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/power-query-overview?u=76281980&t=157)** Today, on Mac and the web, you can open files that have Power Query queries in them and there are limited features that you can do.
 >
@@ -3994,7 +3957,7 @@ created: 2026-05-02
 >
 > **[8:38](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/power-query-overview?u=76281980&t=518)** All of the data was brought into that table and pushed through all of those steps that we saw in the query.
 >
-> **[8:50](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/power-query-overview?u=76281980&t=530)** From here, we can put this data into pivot tables; we can sort it, filter it, build graphs off of it, anything we need to do with it.
+> **[8:50](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/power-query-overview?u=76281980&t=530)** From here, we can put this data into [[Pivot Tables]]; we can sort it, filter it, build graphs off of it, anything we need to do with it.
 >
 > **[9:02](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/power-query-overview?u=76281980&t=542)** Let's go back into the query.
 >
@@ -4040,19 +4003,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), [[Microsoft Power Query|Power query]] (18), [[Microsoft Excel|Excel]] (4), web (3), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (18), [[Microsoft Excel|Excel]] (4), [[LinkedIn]] (1), [[Windows]] (1), [[Pivot Tables]] (1)
 > **UI Navigation:** go to (4), right-click (3), scroll down (2), double-click (1)
 > **Definitions:** is a  (5)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** go back to (3)
 > **Speakers:** - [instructor] (1)
 
-#### Splitting columns
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/splitting-columns?u=76281980)
+#### [Splitting columns](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/splitting-columns?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/splitting-columns?u=76281980&t=0)** - [Instructor] Now I'm going to take you into some Power Query.
+> **[0:00](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/splitting-columns?u=76281980&t=0)** - [Instructor] Now I'm going to take you into some [[Microsoft Power Query|Power Query]].
 >
 > **[0:03](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/splitting-columns?u=76281980&t=3)** But first, let me tell you, sometimes when I mention Power Query it's thought of as advanced.
 >
@@ -4084,7 +4046,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/splitting-columns?u=76281980&t=84)** So, let's get started.
 >
-> **[1:27](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/splitting-columns?u=76281980&t=87)** Now, there is text to columns in regular Excel but these entries that have multiple commas, text to columns will split at every comma.
+> **[1:27](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/splitting-columns?u=76281980&t=87)** Now, there is text to columns in regular [[Microsoft Excel|Excel]] but these entries that have multiple commas, text to columns will split at every comma.
 >
 > **[1:45](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/splitting-columns?u=76281980&t=105)** So that might be good in some instances and in other instances it creates a big mess that then you got to clean up after everything's been all split apart, so that's why we're going to do this in Power Query.
 >
@@ -4214,13 +4176,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Microsoft Power Query|Power query]] (5), [[Microsoft Excel|Excel]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (5), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (4), scroll up (1), click on (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Append in Power Query
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/append-in-power-query?u=76281980)
+#### [Append in Power Query](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/append-in-power-query?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4240,7 +4201,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/append-in-power-query?u=76281980&t=43)** Okay, we got to get this in one place, and I'm going to show you how to append, not copy and paste.
 >
-> **[0:53](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/append-in-power-query?u=76281980&t=53)** And also, let me remind you, I do have a "Power Query" course where I go into Append deeper and a lot of other neat Power Query features.
+> **[0:53](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/append-in-power-query?u=76281980&t=53)** And also, let me remind you, I do have a "[[Microsoft Power Query|Power Query]]" course where I go into Append deeper and a lot of other neat Power Query features.
 >
 > **[1:03](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/append-in-power-query?u=76281980&t=63)** So please, please check that course out for more of this kind of thing.
 >
@@ -4482,14 +4443,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[Microsoft Power Query|Power query]] (4), next (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (4)
 > **UI Navigation:** right-click (3), go to (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Unpivot and fill-down
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/unpivot-and-fill-down?u=76281980)
+#### [Unpivot and fill-down](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/unpivot-and-fill-down?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4519,7 +4479,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/unpivot-and-fill-down?u=76281980&t=66)** Okay.
 >
-> **[1:08](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/unpivot-and-fill-down?u=76281980&t=68)** Now, I'm in Power Query with that Items column highlighted.
+> **[1:08](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/unpivot-and-fill-down?u=76281980&t=68)** Now, I'm in [[Microsoft Power Query|Power Query]] with that Items column highlighted.
 >
 > **[1:16](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/unpivot-and-fill-down?u=76281980&t=76)** Want to go up here, right-click.
 >
@@ -4717,7 +4677,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), [[Microsoft Power Query|Power query]] (3)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (3)
 > **UI Navigation:** go to (5), right-click (4), scroll down (1)
 > **Cross-References:** go back to (2)
 > **Speakers:** - [instructor] (1)
@@ -4727,8 +4687,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data bars for easy visual comparison
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/data-bars-for-easy-visual-comparison?u=76281980)
+#### [Data bars for easy visual comparison](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/data-bars-for-easy-visual-comparison?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4748,7 +4707,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/data-bars-for-easy-visual-comparison?u=76281980&t=61)** And we can widen this out a bit.
 >
-> **[1:04](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/data-bars-for-easy-visual-comparison?u=76281980&t=64)** And we see the planetarium and the windshield wiper factory are out ahead of the rest.
+> **[1:04](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/data-bars-for-easy-visual-comparison?u=76281980&t=64)** And we see the planetarium and the windshield wiper factory are out ahead of the [[Representational State Transfer (REST)|rest]].
 >
 > **[1:13](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/data-bars-for-easy-visual-comparison?u=76281980&t=73)** Now let's do this one other time and then we're going to be done.
 >
@@ -4780,12 +4739,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Connecting a value to a shape
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/connecting-a-value-to-a-shape?u=76281980)
+#### [Connecting a value to a shape](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/connecting-a-value-to-a-shape?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4803,7 +4761,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/connecting-a-value-to-a-shape?u=76281980&t=38)** If this difference is greater than or equal to zero, then comma, double quote, under budget.
 >
-> **[0:55](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/connecting-a-value-to-a-shape?u=76281980&t=55)** And then I want to hit the Windows key and the period and I want the sunglasses.
+> **[0:55](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/connecting-a-value-to-a-shape?u=76281980&t=55)** And then I want to hit the [[Windows]] key and the period and I want the sunglasses.
 >
 > **[1:04](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/connecting-a-value-to-a-shape?u=76281980&t=64)** Go back here, double quote, comma.
 >
@@ -4943,14 +4901,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), hit (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **UI Navigation:** go to (3), select the (1)
 > **CLI Commands:** make (2)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hiding zeroes
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/hiding-zeroes?u=76281980)
+#### [Hiding zeroes](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/hiding-zeroes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4998,15 +4955,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Definitions:** is a  (4)
 > **UI Navigation:** go to (1), scroll down (1)
 > **Cross-References:** go back to (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Conditional formatting to warn of deadlines
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/conditional-formatting-to-warn-of-deadlines?u=76281980)
+#### [Conditional formatting to warn of deadlines](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/conditional-formatting-to-warn-of-deadlines?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5168,7 +5123,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1), hit (1)
 > **UI Navigation:** scroll down (2), go to (1)
 > **Cross-References:** coming up (2)
 > **Warnings:** be careful (1)
@@ -5179,8 +5133,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Challenge: Building a tracker 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/challenge-building-a-tracker-1?u=76281980)
+#### [Challenge: Building a tracker 1](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/challenge-building-a-tracker-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5206,13 +5159,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **UI Navigation:** dropdown (3)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Building a tracker 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/solution-building-a-tracker-1?u=76281980)
+#### [Solution: Building a tracker 1](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/solution-building-a-tracker-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5266,7 +5217,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/solution-building-a-tracker-1?u=76281980&t=137)** Go to B3.
 >
-> **[2:19](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/solution-building-a-tracker-1?u=76281980&t=139)** Data, Data Validation.
+> **[2:19](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/solution-building-a-tracker-1?u=76281980&t=139)** Data, [[Data Validation]].
 >
 > **[2:23](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/solution-building-a-tracker-1?u=76281980&t=143)** I want a in cell dropdown, equals J12, pound sign.
 >
@@ -5326,7 +5277,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (1)
+> **Frameworks & Libraries:** [[Data Validation]] (1)
 > **UI Navigation:** dropdown (3), scroll down (1), go to (1)
 > **Env Vars:** j12 (2), xlookup (1)
 > **CLI Commands:** make (2)
@@ -5334,8 +5285,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Challenge: Building a tracker 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/challenge-building-a-tracker-2?u=76281980)
+#### [Challenge: Building a tracker 2](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/challenge-building-a-tracker-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5385,15 +5335,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **Env Vars:** vip (3)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (soothing music) (1)
 
-#### Solution: Building a tracker 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/solution-building-a-tracker-2?u=76281980)
+#### [Solution: Building a tracker 2](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/solution-building-a-tracker-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5475,7 +5423,7 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/solution-building-a-tracker-2?u=76281980&t=255)** Equals, countifs, open parentheses, criteria range, these two columns, comma, criteria, double quote.
 >
-> **[4:29](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/solution-building-a-tracker-2?u=76281980&t=269)** I'm going to the windows and period.
+> **[4:29](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/solution-building-a-tracker-2?u=76281980&t=269)** I'm going to the [[Windows]] and period.
 >
 > **[4:34](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/solution-building-a-tracker-2?u=76281980&t=274)** I'm going to grab this skydiver.
 >
@@ -5573,13 +5521,13 @@ created: 2026-05-02
 >
 > **[11:27](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/solution-building-a-tracker-2?u=76281980&t=687)** Nobody can touch anything, and there it is, and I hope you did well with that.
 >
-> **[11:38](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/solution-building-a-tracker-2?u=76281980&t=698)** There was a lot, but that's the challenge with trying to build a good muscle for working with data and Excel, and I hope that I've been able to facilitate that for you.
+> **[11:38](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/solution-building-a-tracker-2?u=76281980&t=698)** There was a lot, but that's the challenge with trying to build a good muscle for working with data and [[Microsoft Excel|Excel]], and I hope that I've been able to facilitate that for you.
 >
 > **[11:52](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/solution-building-a-tracker-2?u=76281980&t=712)** Really appreciate it, thank you.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), data (2), [[Windows]] (2), hit (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** vip (4)
 > **Cross-References:** go back to (2)
 > **UI Navigation:** go to (1)
@@ -5592,8 +5540,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continue your data tracking journey in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/continue-your-data-tracking-journey-in-excel?u=76281980)
+#### [Continue your data tracking journey in Excel](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/continue-your-data-tracking-journey-in-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5603,7 +5550,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/continue-your-data-tracking-journey-in-excel?u=76281980&t=6)** It means a lot to me that you found this content of value.
 >
-> **[0:11](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/continue-your-data-tracking-journey-in-excel?u=76281980&t=11)** Throughout this course, I mentioned other courses that can help you go deeper and get more from Excel to accurately track your data, specifically Excel, Power Query, Get & Transform, Excel Power Query Tips and Techniques, and Excel Advanced Formulas and Functions.
+> **[0:11](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/continue-your-data-tracking-journey-in-excel?u=76281980&t=11)** Throughout this course, I mentioned other courses that can help you go deeper and get more from [[Microsoft Excel|Excel]] to accurately track your data, specifically Excel, [[Microsoft Power Query|Power Query]], Get & Transform, Excel Power Query Tips and Techniques, and Excel Advanced Formulas and Functions.
 >
 > **[0:33](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/continue-your-data-tracking-journey-in-excel?u=76281980&t=33)** Please download your certificate.
 >
@@ -5611,13 +5558,13 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/continue-your-data-tracking-journey-in-excel?u=76281980&t=39)** If you do have questions, use the course Q&A.
 >
-> **[0:44](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/continue-your-data-tracking-journey-in-excel?u=76281980&t=44)** I invite you to connect with me on LinkedIn and my YouTube channel, Excel on Fire.
+> **[0:44](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/continue-your-data-tracking-journey-in-excel?u=76281980&t=44)** I invite you to connect with me on [[LinkedIn]] and my YouTube channel, Excel on Fire.
 >
 > **[0:50](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/continue-your-data-tracking-journey-in-excel?u=76281980&t=50)** Now, go out into the world with your new and improved Excel skill and make life glorious through clean and accurate data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), data (2), [[Microsoft Power Query|Power query]] (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), [[Microsoft Power Query|Power query]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - congratulations (1)
 

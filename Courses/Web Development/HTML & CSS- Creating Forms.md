@@ -91,12 +91,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/welcome?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/html-css-creating-forms/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-css-creating-forms/welcome?u=76281980&t=0)** - [Instructor] Hiya, I'm Clarissa Peterson and welcome to HTML and CSS Creating Forms.
+> **[0:00](https://www.linkedin.com/learning/html-css-creating-forms/welcome?u=76281980&t=0)** - [Instructor] Hiya, I'm Clarissa Peterson and welcome to [[HTML]] and CSS Creating [[Forms]].
 >
 > **[0:05](https://www.linkedin.com/learning/html-css-creating-forms/welcome?u=76281980&t=5)** In this course we'll learn how to build and style basic forms.
 >
@@ -112,17 +111,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (9), [[HTML]] (3), css (3), data (1)
+> **Frameworks & Libraries:** [[Forms]] (9), [[HTML]] (3)
 > **Env Vars:** html (3), css (3)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/html-css-creating-forms/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-css-creating-forms/what-you-should-know?u=76281980&t=0)** - [Instructor] For this course, you should have a working knowledge of HTML and CSS, although you don't need to be an expert in either.
+> **[0:00](https://www.linkedin.com/learning/html-css-creating-forms/what-you-should-know?u=76281980&t=0)** - [Instructor] For this course, you should have a working knowledge of [[HTML]] and CSS, although you don't need to be an expert in either.
 >
 > **[0:07](https://www.linkedin.com/learning/html-css-creating-forms/what-you-should-know?u=76281980&t=7)** If you don't already have a basic understanding of HTML and CSS, we suggest you check out [[HTML Essential Training]] and CSS Essential Training.
 >
@@ -152,14 +150,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (8), [[HTML]] (5), feature (3)
+> **Frameworks & Libraries:** [[HTML]] (5)
 > **Env Vars:** css (8), html (5)
 > **CLI Commands:** find (1)
 > **URLs:** [caniuse.com](https://caniuse.com) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/using-the-exercise-files?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/html-css-creating-forms/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -179,8 +176,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Ask the right questions
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/ask-the-right-questions?u=76281980)
+#### [Ask the right questions](https://www.linkedin.com/learning/html-css-creating-forms/ask-the-right-questions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -188,7 +184,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/html-css-creating-forms/ask-the-right-questions?u=76281980&t=4)** To sign up for something, to make a purchase, to apply for a job, to login to a website, to post on social media, and the list goes on.
 >
-> **[0:12](https://www.linkedin.com/learning/html-css-creating-forms/ask-the-right-questions?u=76281980&t=12)** And there are so many bad forms out there that users are very weary of them.
+> **[0:12](https://www.linkedin.com/learning/html-css-creating-forms/ask-the-right-questions?u=76281980&t=12)** And there are so many bad [[Forms]] out there that users are very weary of them.
 >
 > **[0:16](https://www.linkedin.com/learning/html-css-creating-forms/ask-the-right-questions?u=76281980&t=16)** They are expecting that your form will be difficult to understand.
 >
@@ -316,7 +312,7 @@ created: 2026-05-02
 >
 > **[5:29](https://www.linkedin.com/learning/html-css-creating-forms/ask-the-right-questions?u=76281980&t=329)** And there are some websites where language like that would totally fit in and be not inappropriate.
 >
-> **[5:34](https://www.linkedin.com/learning/html-css-creating-forms/ask-the-right-questions?u=76281980&t=334)** But on a bank website it just seems very strange, especially since the rest of the website doesn't have this tone, it's more formal.
+> **[5:34](https://www.linkedin.com/learning/html-css-creating-forms/ask-the-right-questions?u=76281980&t=334)** But on a bank website it just seems very strange, especially since the [[Representational State Transfer (REST)|rest]] of the website doesn't have this tone, it's more formal.
 >
 > **[5:42](https://www.linkedin.com/learning/html-css-creating-forms/ask-the-right-questions?u=76281980&t=342)** So it makes you wonder, can I trust this bank when they're talking to me in such an informal tone?
 >
@@ -330,7 +326,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (7), [[Forms]] (5), express (3), business (2), data (2)
+> **Frameworks & Libraries:** [[Forms]] (5), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (5), find (5)
 > **Env Vars:** cvv (4)
 > **Analogies:** for example (4)
@@ -338,8 +334,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (2)
 > **Speakers:** - [narrator] (1)
 
-#### Explain what you want
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/explain-what-you-want?u=76281980)
+#### [Explain what you want](https://www.linkedin.com/learning/html-css-creating-forms/explain-what-you-want?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -371,7 +366,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/html-css-creating-forms/explain-what-you-want?u=76281980&t=78)** And that's handy because sometimes you'll be typing and not be sure if you hit the wrong key or not.
 >
-> **[1:24](https://www.linkedin.com/learning/html-css-creating-forms/explain-what-you-want?u=76281980&t=84)** Some people just get frustrated if they can't see the word as they're typing.
+> **[1:24](https://www.linkedin.com/learning/html-css-creating-forms/explain-what-you-want?u=76281980&t=84)** Some people just get frustrated if they can't see the [[Microsoft Word|word]] as they're typing.
 >
 > **[1:28](https://www.linkedin.com/learning/html-css-creating-forms/explain-what-you-want?u=76281980&t=88)** Giving users this option gives them a lot more confidence that they're entering the password that they want to enter.
 >
@@ -411,21 +406,20 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/html-css-creating-forms/explain-what-you-want?u=76281980&t=162)** They could have told me of their requirements before I even started filling out the form and then I wouldn't have had to waste my time.
 >
-> **[2:48](https://www.linkedin.com/learning/html-css-creating-forms/explain-what-you-want?u=76281980&t=168)** Now that you've learned to be specific in telling users what they need to enter in a form, we'll move on to how to create a better overall user experience for forms.
+> **[2:48](https://www.linkedin.com/learning/html-css-creating-forms/explain-what-you-want?u=76281980&t=168)** Now that you've learned to be specific in telling users what they need to enter in a form, we'll move on to how to create a better overall [[User Experience (UX)|user experience]] for [[Forms]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), hit (1), [[Microsoft Word|Word]] (1), [[User Experience (UX)|User experience]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[User Experience (UX)|User experience]] (1), [[Forms]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Create a good flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/create-a-good-flow?u=76281980)
+#### [Create a good flow](https://www.linkedin.com/learning/html-css-creating-forms/create-a-good-flow?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-css-creating-forms/create-a-good-flow?u=76281980&t=0)** - [Instructor] When a user looks at a form on a website, they aren't thinking of it as a collection of HTML and CSS, like you are.
+> **[0:00](https://www.linkedin.com/learning/html-css-creating-forms/create-a-good-flow?u=76281980&t=0)** - [Instructor] When a user looks at a form on a website, they aren't thinking of it as a collection of [[HTML]] and CSS, like you are.
 >
 > **[0:06](https://www.linkedin.com/learning/html-css-creating-forms/create-a-good-flow?u=76281980&t=6)** They couldn't care less what kind of code is behind it.
 >
@@ -449,7 +443,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/html-css-creating-forms/create-a-good-flow?u=76281980&t=69)** And that includes even fields that are next to each other.
 >
-> **[1:12](https://www.linkedin.com/learning/html-css-creating-forms/create-a-good-flow?u=76281980&t=72)** If you look at this example, both of these are real forms that ask for a name, but put it in the wrong order.
+> **[1:12](https://www.linkedin.com/learning/html-css-creating-forms/create-a-good-flow?u=76281980&t=72)** If you look at this example, both of these are real [[Forms]] that ask for a name, but put it in the wrong order.
 >
 > **[1:19](https://www.linkedin.com/learning/html-css-creating-forms/create-a-good-flow?u=76281980&t=79)** Who's going to fill out their name and then realize that they're typing last name, and then first name, and then their middle name?
 >
@@ -497,7 +491,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/html-css-creating-forms/create-a-good-flow?u=76281980&t=217)** When Twitter redesigned their site a few years ago to use gradual engagement, they actually increased their signups by 29%.
 >
-> **[3:45](https://www.linkedin.com/learning/html-css-creating-forms/create-a-good-flow?u=76281980&t=225)** With e-commerce, there's often a lot of information that needs to be filled out.
+> **[3:45](https://www.linkedin.com/learning/html-css-creating-forms/create-a-good-flow?u=76281980&t=225)** With [[E-Commerce]], there's often a lot of information that needs to be filled out.
 >
 > **[3:49](https://www.linkedin.com/learning/html-css-creating-forms/create-a-good-flow?u=76281980&t=229)** It's often best to split it into separate steps, but it's important to let the user know where they are in the process, so it doesn't seem never-ending.
 >
@@ -529,11 +523,11 @@ created: 2026-05-02
 >
 > **[5:17](https://www.linkedin.com/learning/html-css-creating-forms/create-a-good-flow?u=76281980&t=317)** Now that you know the importance of creating a good flow through a form experience for users, you're ready to move on to actually creating forms.
 >
-> **[5:25](https://www.linkedin.com/learning/html-css-creating-forms/create-a-good-flow?u=76281980&t=325)** But first, a quick detour to talk about data privacy.
+> **[5:25](https://www.linkedin.com/learning/html-css-creating-forms/create-a-good-flow?u=76281980&t=325)** But first, a quick detour to talk about [[Data Privacy]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (4), [[E-Commerce]] (2), [[HTML]] (1), css (1), next (1)
+> **Frameworks & Libraries:** [[Forms]] (4), [[E-Commerce]] (2), [[HTML]] (1), [[Data Privacy]] (1)
 > **Analogies:** for example (4)
 > **Definitions:** is a  (2), basically means (1)
 > **Env Vars:** html (1), css (1)
@@ -542,8 +536,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Prerequisites:** you need to have (1)
 
-#### Data privacy
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/data-privacy?u=76281980)
+#### [Data privacy](https://www.linkedin.com/learning/html-css-creating-forms/data-privacy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -555,11 +548,11 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/html-css-creating-forms/data-privacy?u=76281980&t=20)** It's up to you to make sure you are following any appropriate laws and regulations.
 >
-> **[0:25](https://www.linkedin.com/learning/html-css-creating-forms/data-privacy?u=76281980&t=25)** In the United States, data privacy is not highly regulated.
+> **[0:25](https://www.linkedin.com/learning/html-css-creating-forms/data-privacy?u=76281980&t=25)** In the United States, [[Data Privacy]] is not highly regulated.
 >
 > **[0:28](https://www.linkedin.com/learning/html-css-creating-forms/data-privacy?u=76281980&t=28)** However, there are a few things to be aware of.
 >
-> **[0:30](https://www.linkedin.com/learning/html-css-creating-forms/data-privacy?u=76281980&t=30)** One that affects many websites is the Children's Online Privacy Protection Act.
+> **[0:30](https://www.linkedin.com/learning/html-css-creating-forms/data-privacy?u=76281980&t=30)** One that affects many websites is the Children's Online [[Privacy Protection]] Act.
 >
 > **[0:34](https://www.linkedin.com/learning/html-css-creating-forms/data-privacy?u=76281980&t=34)** It gives very strict standards on the collection of personal information from children under 13, including that you have to get permission from the child's parents before collecting any information.
 >
@@ -575,7 +568,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/html-css-creating-forms/data-privacy?u=76281980&t=74)** You are likely required to notify your users if there has been a security breach affecting their personal information.
 >
-> **[1:21](https://www.linkedin.com/learning/html-css-creating-forms/data-privacy?u=76281980&t=81)** In the European Union, there are much stricter laws regarding data collection.
+> **[1:21](https://www.linkedin.com/learning/html-css-creating-forms/data-privacy?u=76281980&t=81)** In the European Union, there are much stricter laws regarding [[Data Collection]].
 >
 > **[1:25](https://www.linkedin.com/learning/html-css-creating-forms/data-privacy?u=76281980&t=85)** The Data Protection Directive specifies what data you are allowed to collect.
 >
@@ -599,13 +592,13 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/html-css-creating-forms/data-privacy?u=76281980&t=136)** One thing you should note is that email laws are usually based in the country where the email is received, so you may be responsible for following laws from countries other than your own.
 >
-> **[2:25](https://www.linkedin.com/learning/html-css-creating-forms/data-privacy?u=76281980&t=145)** That's just an overview of some of the major laws and regulations that may be relevant when you are including forms on a website.
+> **[2:25](https://www.linkedin.com/learning/html-css-creating-forms/data-privacy?u=76281980&t=145)** That's just an overview of some of the major laws and regulations that may be relevant when you are including [[Forms]] on a website.
 >
 > **[2:31](https://www.linkedin.com/learning/html-css-creating-forms/data-privacy?u=76281980&t=151)** Here are links to some sites where you can find more information about data privacy laws in various countries.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Privacy]] (2), [[Security]] (2), [[Privacy Protection]] (1), business (1)
+> **Frameworks & Libraries:** [[Data Privacy]] (2), [[Privacy Protection]] (1), [[Data Collection]] (1), [[Forms]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Warnings:** be aware (2), note that (1)
 > **Analogies:** such as (1), for example (1)
@@ -617,12 +610,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Basic form structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/basic-form-structure?u=76281980)
+#### [Basic form structure](https://www.linkedin.com/learning/html-css-creating-forms/basic-form-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-css-creating-forms/basic-form-structure?u=76281980&t=0)** - [Woman] Every HTML form is different, but there are several things that most forms have in common.
+> **[0:00](https://www.linkedin.com/learning/html-css-creating-forms/basic-form-structure?u=76281980&t=0)** - [Woman] Every [[HTML]] form is different, but there are several things that most [[Forms]] have in common.
 >
 > **[0:06](https://www.linkedin.com/learning/html-css-creating-forms/basic-form-structure?u=76281980&t=6)** In this video, we'll be creating a short form which only has a few elements in it.
 >
@@ -646,7 +638,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/html-css-creating-forms/basic-form-structure?u=76281980&t=56)** That's going to be the heading for our form.
 >
-> **[0:58](https://www.linkedin.com/learning/html-css-creating-forms/basic-form-structure?u=76281980&t=58)** After making changes to the file, you're going to save it by doing command + S in Mac or control + S in Windows.
+> **[0:58](https://www.linkedin.com/learning/html-css-creating-forms/basic-form-structure?u=76281980&t=58)** After making changes to the file, you're going to save it by doing command + S in Mac or control + S in [[Windows]].
 >
 > **[1:05](https://www.linkedin.com/learning/html-css-creating-forms/basic-form-structure?u=76281980&t=65)** And then we can go to the browser and see our changes by doing refresh, which is command + R in Mac or control + R in Windows.
 >
@@ -778,7 +770,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), data (6), [[HTML]] (4), [[Forms]] (4), web (2)
+> **Frameworks & Libraries:** [[HTML]] (4), [[Forms]] (4), [[Windows]] (2)
 > **Env Vars:** html (4), css (2), uri (1), html5 (1)
 > **CLI Commands:** make (5)
 > **Prerequisites:** required to (2), you'll need (1)
@@ -787,8 +779,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** think of it like (1)
 
-#### Text, email, and URL input types
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/text-email-and-url-input-types?u=76281980)
+#### [Text, email, and URL input types](https://www.linkedin.com/learning/html-css-creating-forms/text-email-and-url-input-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -870,7 +861,7 @@ created: 2026-05-02
 >
 > **[4:13](https://www.linkedin.com/learning/html-css-creating-forms/text-email-and-url-input-types?u=76281980&t=253)** So as you see here on iOS you get a keyboard that includes the at symbol and a period, so you don't need to shift through to a different keyboard to get those symbols.
 >
-> **[4:23](https://www.linkedin.com/learning/html-css-creating-forms/text-email-and-url-input-types?u=76281980&t=263)** And the same thing on Android.
+> **[4:23](https://www.linkedin.com/learning/html-css-creating-forms/text-email-and-url-input-types?u=76281980&t=263)** And the same thing on [[Android]].
 >
 > **[4:25](https://www.linkedin.com/learning/html-css-creating-forms/text-email-and-url-input-types?u=76281980&t=265)** This definitely helps with usability for users who are using a mobile device.
 >
@@ -878,7 +869,7 @@ created: 2026-05-02
 >
 > **[4:38](https://www.linkedin.com/learning/html-css-creating-forms/text-email-and-url-input-types?u=76281980&t=278)** And we do this by simply adding the multiple attribute inside the input.
 >
-> **[4:43](https://www.linkedin.com/learning/html-css-creating-forms/text-email-and-url-input-types?u=76281980&t=283)** So I'm on line 13, I'm going to go inside the input element and add the word multiple.
+> **[4:43](https://www.linkedin.com/learning/html-css-creating-forms/text-email-and-url-input-types?u=76281980&t=283)** So I'm on line 13, I'm going to go inside the input element and add the [[Microsoft Word|word]] multiple.
 >
 > **[4:50](https://www.linkedin.com/learning/html-css-creating-forms/text-email-and-url-input-types?u=76281980&t=290)** And this attribute is different from some other type attributes, it doesn't need to have equals anything, it's just the word multiple, which turns on the ability to accept multiple email addresses.
 >
@@ -918,7 +909,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), data (2), [[Microsoft Word|Word]] (2), css (1), [[Android]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Android]] (1)
 > **Env Vars:** url (4), css (1)
 > **CLI Commands:** make (3)
 > **Analogies:** such as (1), similar to (1)
@@ -927,8 +918,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Prerequisites:** you'll need (1)
 
-#### Number input type
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/number-input-type?u=76281980)
+#### [Number input type](https://www.linkedin.com/learning/html-css-creating-forms/number-input-type?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1038,14 +1028,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (2), database (1)
 > **UI Navigation:** go to (4)
 > **Analogies:** for example (4)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Date and time input types
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/date-and-time-input-types?u=76281980)
+#### [Date and time input types](https://www.linkedin.com/learning/html-css-creating-forms/date-and-time-input-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1079,7 +1067,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/html-css-creating-forms/date-and-time-input-types?u=76281980&t=95)** So you can go back to different months and choose a date this way.
 >
-> **[1:40](https://www.linkedin.com/learning/html-css-creating-forms/date-and-time-input-types?u=76281980&t=100)** Now you can't style a calendar with CSS, so if you want something that looks different you would have to create your own in JavaScript.
+> **[1:40](https://www.linkedin.com/learning/html-css-creating-forms/date-and-time-input-types?u=76281980&t=100)** Now you can't style a calendar with CSS, so if you want something that looks different you would have to create your own in [[JavaScript]].
 >
 > **[1:48](https://www.linkedin.com/learning/html-css-creating-forms/date-and-time-input-types?u=76281980&t=108)** Now the date field, the date input type does not have great support yet.
 >
@@ -1177,7 +1165,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (3), css (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Cross-References:** go back to (3), previous video (1)
 > **Definitions:** is a  (1), stands for (1)
 > **Analogies:** for example (1), similar to (1)
@@ -1185,8 +1173,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 
-#### Radio buttons
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/radio-buttons?u=76281980)
+#### [Radio buttons](https://www.linkedin.com/learning/html-css-creating-forms/radio-buttons?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1206,7 +1193,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/html-css-creating-forms/radio-buttons?u=76281980&t=35)** And below that is also a select menu, but it's set to allow you to choose more than one option.
 >
-> **[0:40](https://www.linkedin.com/learning/html-css-creating-forms/radio-buttons?u=76281980&t=40)** You can choose more than one by using command-click on your Mac, or control-click on your Windows computer.
+> **[0:40](https://www.linkedin.com/learning/html-css-creating-forms/radio-buttons?u=76281980&t=40)** You can choose more than one by using command-click on your Mac, or control-click on your [[Windows]] computer.
 >
 > **[0:48](https://www.linkedin.com/learning/html-css-creating-forms/radio-buttons?u=76281980&t=48)** To choose between these options, it is often best to go with a radio button or check box input because then the user can see all of the available options at one time, and they only have to click once to make a selection, whereas with a dropdown menu, you have to click it to see the options and you still can't see all of them at the same time.
 >
@@ -1258,7 +1245,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/html-css-creating-forms/radio-buttons?u=76281980&t=190)** The checked attribute can be used if we want to show an item selected by default already when the user first goes to the form.
 >
-> **[3:18](https://www.linkedin.com/learning/html-css-creating-forms/radio-buttons?u=76281980&t=198)** So I'm going to go inside the input for red right here and add the word checked as the attribute.
+> **[3:18](https://www.linkedin.com/learning/html-css-creating-forms/radio-buttons?u=76281980&t=198)** So I'm going to go inside the input for red right here and add the [[Microsoft Word|word]] checked as the attribute.
 >
 > **[3:25](https://www.linkedin.com/learning/html-css-creating-forms/radio-buttons?u=76281980&t=205)** And it doesn't get an equals sign after it, it's just the word checked.
 >
@@ -1270,15 +1257,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), data (1), [[Windows]] (1), database (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Windows]] (1)
 > **UI Navigation:** dropdown (3), click on (1), go to (1)
 > **Definitions:** is a  (2), refers to (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (2)
 > **Speakers:** - [instructor] (1)
 
-#### Select
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/select?u=76281980)
+#### [Select](https://www.linkedin.com/learning/html-css-creating-forms/select?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1350,7 +1336,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/html-css-creating-forms/select?u=76281980&t=210)** If we add the multiple attribute to the select element it allows the user to choose more than one option.
 >
-> **[3:38](https://www.linkedin.com/learning/html-css-creating-forms/select?u=76281980&t=218)** So I'm going to go back, I'm going to find the select element on line 23, add the word multiple, save it, refresh in the browser, and you see here instead of the drop-down menu now it's changed to this box where I can choose one or more option.
+> **[3:38](https://www.linkedin.com/learning/html-css-creating-forms/select?u=76281980&t=218)** So I'm going to go back, I'm going to find the select element on line 23, add the [[Microsoft Word|word]] multiple, save it, refresh in the browser, and you see here instead of the drop-down menu now it's changed to this box where I can choose one or more option.
 >
 > **[3:54](https://www.linkedin.com/learning/html-css-creating-forms/select?u=76281980&t=234)** The next attribute I can add is size and the size attribute refers to how many options are visible at once without scrolling.
 >
@@ -1386,7 +1372,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Microsoft Word|Word]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **UI Navigation:** checkbox (2), click on (2), select the (1), go to (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** go back to (2)
@@ -1394,8 +1380,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Textarea and additional input types
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/textarea-and-additional-input-types?u=76281980)
+#### [Textarea and additional input types](https://www.linkedin.com/learning/html-css-creating-forms/textarea-and-additional-input-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1435,7 +1420,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/html-css-creating-forms/textarea-and-additional-input-types?u=76281980&t=121)** And there's different ways to choose a color.
 >
-> **[2:05](https://www.linkedin.com/learning/html-css-creating-forms/textarea-and-additional-input-types?u=76281980&t=125)** The color input field is supported in Chrome, Firefox, Edge, Opera, and Android, but not in Safari and iOS.
+> **[2:05](https://www.linkedin.com/learning/html-css-creating-forms/textarea-and-additional-input-types?u=76281980&t=125)** The color input field is supported in Chrome, Firefox, Edge, Opera, and [[Android]], but not in Safari and iOS.
 >
 > **[2:15](https://www.linkedin.com/learning/html-css-creating-forms/textarea-and-additional-input-types?u=76281980&t=135)** The value of the color is passed as a hex number.
 >
@@ -1495,7 +1480,7 @@ created: 2026-05-02
 >
 > **[6:10](https://www.linkedin.com/learning/html-css-creating-forms/textarea-and-additional-input-types?u=76281980&t=370)** And the thing with range is it doesn't actually show you what the numbers are, so you can't use it for getting the exact number.
 >
-> **[6:17](https://www.linkedin.com/learning/html-css-creating-forms/textarea-and-additional-input-types?u=76281980&t=377)** The only way to put a label on it is to do that with JavaScript.
+> **[6:17](https://www.linkedin.com/learning/html-css-creating-forms/textarea-and-additional-input-types?u=76281980&t=377)** The only way to put a label on it is to do that with [[JavaScript]].
 >
 > **[6:21](https://www.linkedin.com/learning/html-css-creating-forms/textarea-and-additional-input-types?u=76281980&t=381)** This input type is supported by all recent browsers except Opera Mini and IE below 10.
 >
@@ -1515,7 +1500,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (7), next (6), data (2), [[Security]] (2), hit (1)
+> **Frameworks & Libraries:** [[Android]] (1), [[JavaScript]] (1)
 > **Env Vars:** css (1), jpeg (1), png (1)
 > **Tools:** firefox (1), safari (1)
 > **UI Navigation:** click on (2)
@@ -1524,18 +1509,17 @@ created: 2026-05-02
 > **Code Identifiers:** ios (1)
 > **Definitions:** is a  (1)
 
-#### Submit and other types of buttons
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/submit-and-other-types-of-buttons?u=76281980)
+#### [Submit and other types of buttons](https://www.linkedin.com/learning/html-css-creating-forms/submit-and-other-types-of-buttons?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/html-css-creating-forms/submit-and-other-types-of-buttons?u=76281980&t=0)** - [Instructor] Every form needs submit button.
 >
-> **[0:02](https://www.linkedin.com/learning/html-css-creating-forms/submit-and-other-types-of-buttons?u=76281980&t=2)** There are several different ways to create buttons for forms, including submit buttons, reset buttons, and generic buttons, as well as buttons made out of images.
+> **[0:02](https://www.linkedin.com/learning/html-css-creating-forms/submit-and-other-types-of-buttons?u=76281980&t=2)** There are several different ways to create buttons for [[Forms]], including submit buttons, reset buttons, and generic buttons, as well as buttons made out of images.
 >
 > **[0:11](https://www.linkedin.com/learning/html-css-creating-forms/submit-and-other-types-of-buttons?u=76281980&t=11)** The submit input type is the original way to create a submit button.
 >
-> **[0:16](https://www.linkedin.com/learning/html-css-creating-forms/submit-and-other-types-of-buttons?u=76281980&t=16)** Type tells the browser that it's a submit button, and the value tells the browser what word to put on the button.
+> **[0:16](https://www.linkedin.com/learning/html-css-creating-forms/submit-and-other-types-of-buttons?u=76281980&t=16)** Type tells the browser that it's a submit button, and the value tells the browser what [[Microsoft Word|word]] to put on the button.
 >
 > **[0:21](https://www.linkedin.com/learning/html-css-creating-forms/submit-and-other-types-of-buttons?u=76281980&t=21)** Submit is the default word if you don't specify.
 >
@@ -1575,9 +1559,9 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/html-css-creating-forms/submit-and-other-types-of-buttons?u=76281980&t=120)** This displays a button, but it has no action associated with it.
 >
-> **[2:03](https://www.linkedin.com/learning/html-css-creating-forms/submit-and-other-types-of-buttons?u=76281980&t=123)** Just putting this in your html, nothing will happen when you click it.
+> **[2:03](https://www.linkedin.com/learning/html-css-creating-forms/submit-and-other-types-of-buttons?u=76281980&t=123)** Just putting this in your [[HTML]], nothing will happen when you click it.
 >
-> **[2:08](https://www.linkedin.com/learning/html-css-creating-forms/submit-and-other-types-of-buttons?u=76281980&t=128)** However, you can add customized behavior to it with JavaScript.
+> **[2:08](https://www.linkedin.com/learning/html-css-creating-forms/submit-and-other-types-of-buttons?u=76281980&t=128)** However, you can add customized behavior to it with [[JavaScript]].
 >
 > **[2:14](https://www.linkedin.com/learning/html-css-creating-forms/submit-and-other-types-of-buttons?u=76281980&t=134)** Again, I'm going to copy and paste.
 >
@@ -1637,7 +1621,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (2), [[Microsoft Word|Word]] (2), next (2), css (2), generic (1)
+> **Frameworks & Libraries:** [[Forms]] (2), [[Microsoft Word|Word]] (2), [[HTML]] (1), [[JavaScript]] (1)
 > **CLI Commands:** make (5)
 > **Analogies:** for example (3)
 > **Env Vars:** css (2)
@@ -1646,14 +1630,13 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Attributes used in forms
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/attributes-used-in-forms?u=76281980)
+#### [Attributes used in forms](https://www.linkedin.com/learning/html-css-creating-forms/attributes-used-in-forms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-css-creating-forms/attributes-used-in-forms?u=76281980&t=0)** - [Instructor] Attributes are used to add additional information and browser instructions to an element in HTML.
+> **[0:00](https://www.linkedin.com/learning/html-css-creating-forms/attributes-used-in-forms?u=76281980&t=0)** - [Instructor] Attributes are used to add additional information and browser instructions to an element in [[HTML]].
 >
-> **[0:06](https://www.linkedin.com/learning/html-css-creating-forms/attributes-used-in-forms?u=76281980&t=6)** In this video, we will look at some of the most common attributes you will use when creating forms, but many of the other HTML attributes may be relevant for forms.
+> **[0:06](https://www.linkedin.com/learning/html-css-creating-forms/attributes-used-in-forms?u=76281980&t=6)** In this video, we will look at some of the most common attributes you will use when creating [[Forms]], but many of the other HTML attributes may be relevant for forms.
 >
 > **[0:15](https://www.linkedin.com/learning/html-css-creating-forms/attributes-used-in-forms?u=76281980&t=15)** Some of these attributes in this video are ones we've covered in previous videos.
 >
@@ -1699,7 +1682,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/html-css-creating-forms/attributes-used-in-forms?u=76281980&t=121)** If you don't include it, it just uses the default text.
 >
-> **[2:04](https://www.linkedin.com/learning/html-css-creating-forms/attributes-used-in-forms?u=76281980&t=124)** The value is optional on buttons, as the rest of the attributes covered in this video from here on.
+> **[2:04](https://www.linkedin.com/learning/html-css-creating-forms/attributes-used-in-forms?u=76281980&t=124)** The value is optional on buttons, as the [[Representational State Transfer (REST)|rest]] of the attributes covered in this video from here on.
 >
 > **[2:10](https://www.linkedin.com/learning/html-css-creating-forms/attributes-used-in-forms?u=76281980&t=130)** Next are the checked and selected attributes.
 >
@@ -1763,7 +1746,7 @@ created: 2026-05-02
 >
 > **[4:56](https://www.linkedin.com/learning/html-css-creating-forms/attributes-used-in-forms?u=76281980&t=296)** This means that the field must have a value, it must be filled in before the user submits the form.
 >
-> **[5:01](https://www.linkedin.com/learning/html-css-creating-forms/attributes-used-in-forms?u=76281980&t=301)** You only need to use the word Required by itself.
+> **[5:01](https://www.linkedin.com/learning/html-css-creating-forms/attributes-used-in-forms?u=76281980&t=301)** You only need to use the [[Microsoft Word|word]] Required by itself.
 >
 > **[5:04](https://www.linkedin.com/learning/html-css-creating-forms/attributes-used-in-forms?u=76281980&t=304)** There's no equal sign or value.
 >
@@ -1807,7 +1790,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (13), data (10), [[Forms]] (4), [[HTML]] (3), database (3)
+> **Frameworks & Libraries:** [[Forms]] (4), [[HTML]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1)
 > **Analogies:** for example (7), such as (5)
 > **Env Vars:** html (3)
 > **Definitions:** means that (3)
@@ -1821,14 +1804,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Form submission and security
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/form-submission-and-security?u=76281980)
+#### [Form submission and security](https://www.linkedin.com/learning/html-css-creating-forms/form-submission-and-security?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/html-css-creating-forms/form-submission-and-security?u=76281980&t=0)** - [Narrator] The point of a form is to send data to a server or sometimes just to another page.
 >
-> **[0:05](https://www.linkedin.com/learning/html-css-creating-forms/form-submission-and-security?u=76281980&t=5)** In this video, we will look at how forms are submitted.
+> **[0:05](https://www.linkedin.com/learning/html-css-creating-forms/form-submission-and-security?u=76281980&t=5)** In this video, we will look at how [[Forms]] are submitted.
 >
 > **[0:09](https://www.linkedin.com/learning/html-css-creating-forms/form-submission-and-security?u=76281980&t=9)** The form element has an action and method attribute which will determine how the data is sent to the server.
 >
@@ -1888,7 +1870,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/html-css-creating-forms/form-submission-and-security?u=76281980&t=187)** The server receiving the data will process the data and respond.
 >
-> **[3:11](https://www.linkedin.com/learning/html-css-creating-forms/form-submission-and-security?u=76281980&t=191)** So the server is programmed in a language like PHP, Python, Pearl, Java, Ruby, other languages or a framework based on one of them.
+> **[3:11](https://www.linkedin.com/learning/html-css-creating-forms/form-submission-and-security?u=76281980&t=191)** So the server is programmed in a language like [[PHP]], [[Python (Programming Language)|Python]], Pearl, [[Java]], Ruby, other languages or a framework based on one of them.
 >
 > **[3:20](https://www.linkedin.com/learning/html-css-creating-forms/form-submission-and-security?u=76281980&t=200)** And talking about what happens on the server is beyond the scope of this course.
 >
@@ -1916,7 +1898,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), [[Forms]] (2), next (2), [[Search]] (2), database (2)
+> **Frameworks & Libraries:** [[Forms]] (2), [[PHP]] (1), [[Python (Programming Language)|Python]] (1), [[Java]] (1)
 > **Env Vars:** url (10), http (7), https (5), php (1)
 > **CLI Commands:** make (5), php (1), python (1), ruby (1)
 > **Analogies:** such as (2), for example (1)
@@ -1925,8 +1907,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Prerequisites:** required to (1)
 
-#### Form validation
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/form-validation?u=76281980)
+#### [Form validation](https://www.linkedin.com/learning/html-css-creating-forms/form-validation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1970,7 +1951,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/html-css-creating-forms/form-validation?u=76281980&t=109)** You should take advantage of this when you can, but be aware that depending on the input type, it might not be supported in all browsers yet and screeners may not support it either.
 >
-> **[1:58](https://www.linkedin.com/learning/html-css-creating-forms/form-validation?u=76281980&t=118)** If you want client-side validation that is more widely supported or is more flexible than the browser default validation, that's commonly done with JavaScript.
+> **[1:58](https://www.linkedin.com/learning/html-css-creating-forms/form-validation?u=76281980&t=118)** If you want client-side validation that is more widely supported or is more flexible than the browser default validation, that's commonly done with [[JavaScript]].
 >
 > **[2:07](https://www.linkedin.com/learning/html-css-creating-forms/form-validation?u=76281980&t=127)** You don't necessarily have to write JavaScript from scratch.
 >
@@ -1984,7 +1965,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/html-css-creating-forms/form-validation?u=76281980&t=158)** You can do inline validation using CSS, but it's fairly limited.
 >
-> **[2:43](https://www.linkedin.com/learning/html-css-creating-forms/form-validation?u=76281980&t=163)** In an upcoming video in this course, we'll go through some of the pseudo-classes that apply to forms, some of which can be used in validation.
+> **[2:43](https://www.linkedin.com/learning/html-css-creating-forms/form-validation?u=76281980&t=163)** In an upcoming video in this course, we'll go through some of the pseudo-classes that apply to [[Forms]], some of which can be used in validation.
 >
 > **[2:49](https://www.linkedin.com/learning/html-css-creating-forms/form-validation?u=76281980&t=169)** The primary example is valid and invalid.
 >
@@ -2006,7 +1987,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/html-css-creating-forms/form-validation?u=76281980&t=227)** Now you can see that all of the fields now have a green border, that's because an empty value is a valid value for those fields, but let's say I make one of the fields required.
 >
-> **[3:58](https://www.linkedin.com/learning/html-css-creating-forms/form-validation?u=76281980&t=238)** So I go back to the code and in the HTML, I will say for example, name is required.
+> **[3:58](https://www.linkedin.com/learning/html-css-creating-forms/form-validation?u=76281980&t=238)** So I go back to the code and in the [[HTML]], I will say for example, name is required.
 >
 > **[4:05](https://www.linkedin.com/learning/html-css-creating-forms/form-validation?u=76281980&t=245)** So I'm going to add the required attribute in line 17 on the input element.
 >
@@ -2036,7 +2017,7 @@ created: 2026-05-02
 >
 > **[5:45](https://www.linkedin.com/learning/html-css-creating-forms/form-validation?u=76281980&t=345)** So one thing to note, that when you did see the inline validation for the username field, it's not actually client-side validation, since it must be checking with the server to see if the username is available.
 >
-> **[5:56](https://www.linkedin.com/learning/html-css-creating-forms/form-validation?u=76281980&t=356)** To communicate with the server without submitting the form, you would need to use a method like Ajax.
+> **[5:56](https://www.linkedin.com/learning/html-css-creating-forms/form-validation?u=76281980&t=356)** To communicate with the server without submitting the form, you would need to use a method like [[AJAX]].
 >
 > **[6:03](https://www.linkedin.com/learning/html-css-creating-forms/form-validation?u=76281980&t=363)** This form does a lot of things well.
 >
@@ -2058,7 +2039,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[JavaScript]] (4), css (4), [[Forms]] (2), next (2)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[Forms]] (2), [[HTML]] (2), [[AJAX]] (1)
 > **Env Vars:** css (4), html (2), html5 (1), captcha (1)
 > **CLI Commands:** make (6), find (1)
 > **Analogies:** for example (3)
@@ -2072,12 +2053,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Basic form styles: Text color and size
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/basic-form-styles-text-color-and-size?u=76281980)
+#### [Basic form styles: Text color and size](https://www.linkedin.com/learning/html-css-creating-forms/basic-form-styles-text-color-and-size?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-css-creating-forms/basic-form-styles-text-color-and-size?u=76281980&t=0)** - [Tutor] Forms will work perfectly okay without any styles at all, but you can use CSS to make them look more consistent, visually appealing and match the overall design of your site.
+> **[0:00](https://www.linkedin.com/learning/html-css-creating-forms/basic-form-styles-text-color-and-size?u=76281980&t=0)** - [Tutor] [[Forms]] will work perfectly okay without any styles at all, but you can use CSS to make them look more consistent, visually appealing and match the overall design of your site.
 >
 > **[0:09](https://www.linkedin.com/learning/html-css-creating-forms/basic-form-styles-text-color-and-size?u=76281980&t=9)** In the next few videos, we'll be looking at how to style individual form elements.
 >
@@ -2087,7 +2067,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/html-css-creating-forms/basic-form-styles-text-color-and-size?u=76281980&t=35)** So for example, on this form you can see that most of the text on here is a serif text, there's no styles on this page at all or you can see already on the Choose File button and No file chosen text next to it, those are a sans serif, so they're obviously not the same typeface, also if you type in the fields here, that's also a sans serif, so it's a different typeface than the text on the page.
 >
-> **[1:03](https://www.linkedin.com/learning/html-css-creating-forms/basic-form-styles-text-color-and-size?u=76281980&t=63)** Usually you want your text to be consistent with the rest of the content, so you want to make some changes to styles, so everything inside the form inherits the font-family and other font characteristics from their containing element.
+> **[1:03](https://www.linkedin.com/learning/html-css-creating-forms/basic-form-styles-text-color-and-size?u=76281980&t=63)** Usually you want your text to be consistent with the [[Representational State Transfer (REST)|rest]] of the content, so you want to make some changes to styles, so everything inside the form inherits the font-family and other font characteristics from their containing element.
 >
 > **[1:19](https://www.linkedin.com/learning/html-css-creating-forms/basic-form-styles-text-color-and-size?u=76281980&t=79)** So we're going to go into our stylesheet and add a few styles.
 >
@@ -2123,7 +2103,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (3), css (3), next (2), [[Representational State Transfer (REST)|Rest]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Forms]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (7)
 > **Cross-References:** go back to (3), in the next (1)
 > **Env Vars:** css (3)
@@ -2132,8 +2112,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [tutor] (1)
 
-#### Box sizing for forms
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/box-sizing-for-forms?u=76281980)
+#### [Box sizing for forms](https://www.linkedin.com/learning/html-css-creating-forms/box-sizing-for-forms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2165,7 +2144,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/html-css-creating-forms/box-sizing-for-forms?u=76281980&t=86)** In recent years, it's been pretty common to set your entire website to box sizing border box because it's then, it's easier to figure out how the padding and margins fit together on the page.
 >
-> **[1:37](https://www.linkedin.com/learning/html-css-creating-forms/box-sizing-for-forms?u=76281980&t=97)** So, it's possible that your website is already set so that everything use it for their box, but it's good to also specify that for your forms because they don't always inherit everything properly.
+> **[1:37](https://www.linkedin.com/learning/html-css-creating-forms/box-sizing-for-forms?u=76281980&t=97)** So, it's possible that your website is already set so that everything use it for their box, but it's good to also specify that for your [[Forms]] because they don't always inherit everything properly.
 >
 > **[1:49](https://www.linkedin.com/learning/html-css-creating-forms/box-sizing-for-forms?u=76281980&t=109)** So this is how it looked when you just had a 150 pixels set as the width and if we add the box sizing border box, you can see now, that all the field line up exactly, they are the exact same size.
 >
@@ -2177,13 +2156,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (3), [[Search]] (1), css (1)
+> **Frameworks & Libraries:** [[Forms]] (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** css (1)
 > **Speakers:** - [instructor] (1)
 
-#### Styling text inputs
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/styling-text-inputs?u=76281980)
+#### [Styling text inputs](https://www.linkedin.com/learning/html-css-creating-forms/styling-text-inputs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2283,7 +2261,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), css (3), [[Search]] (3), web (1)
 > **CLI Commands:** make (7)
 > **Env Vars:** css (3)
 > **Cross-References:** go back to (2), in the last (1)
@@ -2292,8 +2269,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Styling radio buttons and check boxes with images
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/styling-radio-buttons-and-check-boxes-with-images?u=76281980)
+#### [Styling radio buttons and check boxes with images](https://www.linkedin.com/learning/html-css-creating-forms/styling-radio-buttons-and-check-boxes-with-images?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2337,7 +2313,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/html-css-creating-forms/styling-radio-buttons-and-check-boxes-with-images?u=76281980&t=157)** So we're going to go back to the styles, I'm going to take out all of the styles that I added so far, the border and the padding and the background color and, save this and go back to just the plain check boxes.
 >
-> **[2:50](https://www.linkedin.com/learning/html-css-creating-forms/styling-radio-buttons-and-check-boxes-with-images?u=76281980&t=170)** I also want to go to the HTML and go back and put the inputs before each label, so I'm just doing ctrl Z to undo all the changes I made in the HTML file.
+> **[2:50](https://www.linkedin.com/learning/html-css-creating-forms/styling-radio-buttons-and-check-boxes-with-images?u=76281980&t=170)** I also want to go to the [[HTML]] and go back and put the inputs before each label, so I'm just doing ctrl Z to undo all the changes I made in the HTML file.
 >
 > **[3:01](https://www.linkedin.com/learning/html-css-creating-forms/styling-radio-buttons-and-check-boxes-with-images?u=76281980&t=181)** So going back to styles, I'm going to apply the styles to input and then, type=checkbox and then give it on line 10,
 >
@@ -2379,15 +2355,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2), [[HTML]] (2), next (2)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **UI Navigation:** checkbox (4), go to (2), click on (2), select the (2)
 > **Env Vars:** css (2), html (2)
 > **Cross-References:** go back to (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Styling radio buttons and check boxes as buttons
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/styling-radio-buttons-and-check-boxes-as-buttons?u=76281980)
+#### [Styling radio buttons and check boxes as buttons](https://www.linkedin.com/learning/html-css-creating-forms/styling-radio-buttons-and-check-boxes-as-buttons?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2433,7 +2408,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/html-css-creating-forms/styling-radio-buttons-and-check-boxes-as-buttons?u=76281980&t=112)** And then save that, go back to the browser and refresh.
 >
-> **[1:56](https://www.linkedin.com/learning/html-css-creating-forms/styling-radio-buttons-and-check-boxes-as-buttons?u=76281980&t=116)** So all of those styles were applied to the labels, so the label just went from a plain word to these style looking buttons.
+> **[1:56](https://www.linkedin.com/learning/html-css-creating-forms/styling-radio-buttons-and-check-boxes-as-buttons?u=76281980&t=116)** So all of those styles were applied to the labels, so the label just went from a plain [[Microsoft Word|word]] to these style looking buttons.
 >
 > **[2:03](https://www.linkedin.com/learning/html-css-creating-forms/styling-radio-buttons-and-check-boxes-as-buttons?u=76281980&t=123)** And all of what I typed in, you can do any style you want, different borders, different colors, just as long as people recognize that it's clickable.
 >
@@ -2453,7 +2428,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** click on (2), go to (1)
 > **Env Vars:** css (2)
@@ -2462,8 +2437,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Styling select
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/styling-select?u=76281980)
+#### [Styling select](https://www.linkedin.com/learning/html-css-creating-forms/styling-select?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2477,7 +2451,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/html-css-creating-forms/styling-select?u=76281980&t=16)** The second of each set has optgroup in it so you can see the categories.
 >
-> **[0:21](https://www.linkedin.com/learning/html-css-creating-forms/styling-select?u=76281980&t=21)** This is what our HTML looks like without any styles as we're starting out.
+> **[0:21](https://www.linkedin.com/learning/html-css-creating-forms/styling-select?u=76281980&t=21)** This is what our [[HTML]] looks like without any styles as we're starting out.
 >
 > **[0:27](https://www.linkedin.com/learning/html-css-creating-forms/styling-select?u=76281980&t=27)** So, going to the CSS, the first thing we're going to do is style the select menu.
 >
@@ -2493,7 +2467,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/html-css-creating-forms/styling-select?u=76281980&t=50)** Now, when you click on the menu and see this pop up with your choices, that part of it is not stylable with CSS.
 >
-> **[0:57](https://www.linkedin.com/learning/html-css-creating-forms/styling-select?u=76281980&t=57)** The only way to style it is through JavaScript.
+> **[0:57](https://www.linkedin.com/learning/html-css-creating-forms/styling-select?u=76281980&t=57)** The only way to style it is through [[JavaScript]].
 >
 > **[0:59](https://www.linkedin.com/learning/html-css-creating-forms/styling-select?u=76281980&t=59)** So the styles I'm showing are just the parts you see here on the page without clicking anything.
 >
@@ -2517,7 +2491,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/html-css-creating-forms/styling-select?u=76281980&t=127)** So I'm going to do select colon not.
 >
-> **[2:11](https://www.linkedin.com/learning/html-css-creating-forms/styling-select?u=76281980&t=131)** And then this is the tricky part, you need the regular parentheses, and inside them, square parentheses, and the word multiple.
+> **[2:11](https://www.linkedin.com/learning/html-css-creating-forms/styling-select?u=76281980&t=131)** And then this is the tricky part, you need the regular parentheses, and inside them, square parentheses, and the [[Microsoft Word|word]] multiple.
 >
 > **[2:18](https://www.linkedin.com/learning/html-css-creating-forms/styling-select?u=76281980&t=138)** So this selector will apply to any select element that does not have the multiple attribute.
 >
@@ -2585,15 +2559,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (5), next (5), [[HTML]] (1), [[JavaScript]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[JavaScript]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** css (5), html (1), url (1)
 > **UI Navigation:** click on (1), dropdown (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Styling buttons
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/styling-buttons?u=76281980)
+#### [Styling buttons](https://www.linkedin.com/learning/html-css-creating-forms/styling-buttons?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2701,11 +2674,11 @@ created: 2026-05-02
 >
 > **[5:42](https://www.linkedin.com/learning/html-css-creating-forms/styling-buttons?u=76281980&t=342)** It's only on browsers or on input devices where you can hover.
 >
-> **[5:47](https://www.linkedin.com/learning/html-css-creating-forms/styling-buttons?u=76281980&t=347)** So going back to the HTML now, I can actually add styles within the text on a button element, and that's something that I can't do on an input element.
+> **[5:47](https://www.linkedin.com/learning/html-css-creating-forms/styling-buttons?u=76281980&t=347)** So going back to the [[HTML]] now, I can actually add styles within the text on a button element, and that's something that I can't do on an input element.
 >
 > **[5:57](https://www.linkedin.com/learning/html-css-creating-forms/styling-buttons?u=76281980&t=357)** On the input element, the text is in the value attributes, it's unstyleable, but here on the button element it's actual text inside the button tags.
 >
-> **[6:06](https://www.linkedin.com/learning/html-css-creating-forms/styling-buttons?u=76281980&t=366)** So I can add a span in here with another word and style the span, so now I have the word button and then word button in a span.
+> **[6:06](https://www.linkedin.com/learning/html-css-creating-forms/styling-buttons?u=76281980&t=366)** So I can add a span in here with another [[Microsoft Word|word]] and style the span, so now I have the word button and then word button in a span.
 >
 > **[6:16](https://www.linkedin.com/learning/html-css-creating-forms/styling-buttons?u=76281980&t=376)** If I go back to the styles, I'm going to add a style for button, space, span, so that will be any span inside of a button, and add color red, and font-style of italic.
 >
@@ -2775,15 +2748,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), [[Microsoft Word|Word]] (3), next (2), [[HTML]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[HTML]] (1)
 > **Cross-References:** go back to (6)
 > **Env Vars:** css (3), html (1)
 > **CLI Commands:** make (3)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Styling pseudo-classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/styling-pseudo-classes?u=76281980)
+#### [Styling pseudo-classes](https://www.linkedin.com/learning/html-css-creating-forms/styling-pseudo-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2791,7 +2763,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/html-css-creating-forms/styling-pseudo-classes?u=76281980&t=4)** You can use it to apply styles to an element with that state.
 >
-> **[0:07](https://www.linkedin.com/learning/html-css-creating-forms/styling-pseudo-classes?u=76281980&t=7)** There are several pseudo-classes you can use when styling forms.
+> **[0:07](https://www.linkedin.com/learning/html-css-creating-forms/styling-pseudo-classes?u=76281980&t=7)** There are several pseudo-classes you can use when styling [[Forms]].
 >
 > **[0:11](https://www.linkedin.com/learning/html-css-creating-forms/styling-pseudo-classes?u=76281980&t=11)** The first are focus and active.
 >
@@ -2819,7 +2791,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/html-css-creating-forms/styling-pseudo-classes?u=76281980&t=92)** The default style is a disabled field will have a gray background.
 >
-> **[1:37](https://www.linkedin.com/learning/html-css-creating-forms/styling-pseudo-classes?u=76281980&t=97)** So I'm going to remove the styles I just added, and then I'm going to go back to the HTML and make one of these fields disabled.
+> **[1:37](https://www.linkedin.com/learning/html-css-creating-forms/styling-pseudo-classes?u=76281980&t=97)** So I'm going to remove the styles I just added, and then I'm going to go back to the [[HTML]] and make one of these fields disabled.
 >
 > **[1:46](https://www.linkedin.com/learning/html-css-creating-forms/styling-pseudo-classes?u=76281980&t=106)** So, for example, the name field, the first one.
 >
@@ -2899,7 +2871,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[HTML]] (4), [[Forms]] (2), css (2), data (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[Forms]] (2)
 > **UI Navigation:** go to (6), checkbox (3), click on (1)
 > **Cross-References:** go back to (8)
 > **Env Vars:** html (4), css (2)
@@ -2913,8 +2885,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Small-screen layout for forms
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/small-screen-layout-for-forms?u=76281980)
+#### [Small-screen layout for forms](https://www.linkedin.com/learning/html-css-creating-forms/small-screen-layout-for-forms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2924,7 +2895,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/html-css-creating-forms/small-screen-layout-for-forms?u=76281980&t=9)** We just have fields at the top and below that the address is in a field set to kind of bring everything together, and then preferred time within a field set.
 >
-> **[0:18](https://www.linkedin.com/learning/html-css-creating-forms/small-screen-layout-for-forms?u=76281980&t=18)** When you're deciding what order to put the fields in on a form remember that you can rearrange everything on the page using CSS, but people who are using screen readers will get the order that everything was coded in HTML.
+> **[0:18](https://www.linkedin.com/learning/html-css-creating-forms/small-screen-layout-for-forms?u=76281980&t=18)** When you're deciding what order to put the fields in on a form remember that you can rearrange everything on the page using CSS, but people who are using screen readers will get the order that everything was coded in [[HTML]].
 >
 > **[0:32](https://www.linkedin.com/learning/html-css-creating-forms/small-screen-layout-for-forms?u=76281980&t=32)** So, think of how the form makes sense, the best order for all the fields, do that in the HTML, and then if you want to move things visually on the page, do that using CSS.
 >
@@ -3022,14 +2993,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (6), next (6), [[HTML]] (2), web (1)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **CLI Commands:** make (8)
 > **Env Vars:** css (6), html (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
 
-#### Wide-screen layout for forms
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/wide-screen-layout-for-forms?u=76281980)
+#### [Wide-screen layout for forms](https://www.linkedin.com/learning/html-css-creating-forms/wide-screen-layout-for-forms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3091,15 +3061,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5)
 > **CLI Commands:** make (5)
 > **UI Navigation:** go to (2)
 > **URLs:** [mqtest.io](https://mqtest.io) (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Form labels
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/form-labels?u=76281980)
+#### [Form labels](https://www.linkedin.com/learning/html-css-creating-forms/form-labels?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3113,7 +3081,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/html-css-creating-forms/form-labels?u=76281980&t=25)** On a wider screen you have more options.
 >
-> **[0:27](https://www.linkedin.com/learning/html-css-creating-forms/form-labels?u=76281980&t=27)** Many forms have the labels on the left, like this, including the check-box labels at the bottom.
+> **[0:27](https://www.linkedin.com/learning/html-css-creating-forms/form-labels?u=76281980&t=27)** Many [[Forms]] have the labels on the left, like this, including the check-box labels at the bottom.
 >
 > **[0:33](https://www.linkedin.com/learning/html-css-creating-forms/form-labels?u=76281980&t=33)** For long-form, this is usually the best option, because users can easily skim the labels on the left side of the screen.
 >
@@ -3167,7 +3135,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/html-css-creating-forms/form-labels?u=76281980&t=167)** But, you should try to avoid unnecessary words.
 >
-> **[2:50](https://www.linkedin.com/learning/html-css-creating-forms/form-labels?u=76281980&t=170)** In this form, not only is every label longer than necessary, but it's hard to scan through the labels since they all begin with the same word.
+> **[2:50](https://www.linkedin.com/learning/html-css-creating-forms/form-labels?u=76281980&t=170)** In this form, not only is every label longer than necessary, but it's hard to scan through the labels since they all begin with the same [[Microsoft Word|word]].
 >
 > **[2:58](https://www.linkedin.com/learning/html-css-creating-forms/form-labels?u=76281980&t=178)** Also, try to avoid questions such as, what is your name?
 >
@@ -3198,8 +3166,7 @@ created: 2026-05-02
 > **Best Practices:** you should always (1)
 > **Speakers:** - [instructor] (1)
 
-#### Placeholder attribute
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/placeholder-attribute?u=76281980)
+#### [Placeholder attribute](https://www.linkedin.com/learning/html-css-creating-forms/placeholder-attribute?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3221,7 +3188,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/html-css-creating-forms/placeholder-attribute?u=76281980&t=40)** The placeholder doesn't need to match the rules for the input element.
 >
-> **[0:44](https://www.linkedin.com/learning/html-css-creating-forms/placeholder-attribute?u=76281980&t=44)** For example, the zip code placeholder that you see here on this form has a word, even though there's a pattern restricting the field to digits.
+> **[0:44](https://www.linkedin.com/learning/html-css-creating-forms/placeholder-attribute?u=76281980&t=44)** For example, the zip code placeholder that you see here on this form has a [[Microsoft Word|word]], even though there's a pattern restricting the field to digits.
 >
 > **[0:53](https://www.linkedin.com/learning/html-css-creating-forms/placeholder-attribute?u=76281980&t=53)** Although placeholder text is very popular on websites lately, there are several accessibility and usability reasons why you should avoid it.
 >
@@ -3243,7 +3210,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/html-css-creating-forms/placeholder-attribute?u=76281980&t=99)** That's just not something that people need help with.
 >
-> **[1:42](https://www.linkedin.com/learning/html-css-creating-forms/placeholder-attribute?u=76281980&t=102)** Some web forms have a placeholder in every field, just because they can.
+> **[1:42](https://www.linkedin.com/learning/html-css-creating-forms/placeholder-attribute?u=76281980&t=102)** Some web [[Forms]] have a placeholder in every field, just because they can.
 >
 > **[1:46](https://www.linkedin.com/learning/html-css-creating-forms/placeholder-attribute?u=76281980&t=106)** Basically then, you're just wasting user's time by making them read extra things as they're filling up the form.
 >
@@ -3277,7 +3244,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), [[Forms]] (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Forms]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (1), make (1)
 > **URLs:** [example.com](https://example.com) (1)
 > **Definitions:** is an  (1)
@@ -3289,18 +3256,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/html-css-creating-forms/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-css-creating-forms/next-steps?u=76281980&t=0)** - [Clarissa] Now that you've learned how to create a form with HTML, learned how to style and layout the form with CSS, and learned some tips on how to make sure your form provides a good user experience, you're ready to start creating forms on your own.
+> **[0:00](https://www.linkedin.com/learning/html-css-creating-forms/next-steps?u=76281980&t=0)** - [Clarissa] Now that you've learned how to create a form with [[HTML]], learned how to style and layout the form with CSS, and learned some tips on how to make sure your form provides a good [[User Experience (UX)|user experience]], you're ready to start creating [[Forms]] on your own.
 >
 > **[0:13](https://www.linkedin.com/learning/html-css-creating-forms/next-steps?u=76281980&t=13)** I appreciate you taking the time to watch this course and I hope you enjoyed learning how to create forms.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (2), [[HTML]] (1), css (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[Forms]] (2), [[HTML]] (1), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** html (1), css (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [clarissa] (1)

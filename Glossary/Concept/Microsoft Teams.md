@@ -17,7 +17,7 @@ tags:
   - topic/software-development
   - topic/data-science
   - topic/artificial-intelligence
-course_count: 76
+course_count: 78
 created: 2026-05-02
 ---
 
@@ -25,7 +25,7 @@ created: 2026-05-02
 
 # Microsoft Teams
 
-> **Type:** Concept | **Courses:** 76 | **Topics:** [[Cloud Computing]], [[Network and System Administration]], [[Software Development]], [[Data Science]], [[Artificial Intelligence (AI)]]
+> **Type:** Concept | **Courses:** 78 | **Topics:** [[Cloud Computing]], [[Network and System Administration]], [[Software Development]], [[Data Science]], [[Artificial Intelligence (AI)]]
 
 ## Courses
 
@@ -40,7 +40,7 @@ created: 2026-05-02
 9. [[Getting Started With Power Bi]] — 9 mentions
 10. [[Learning PowerPoint Online (Microsoft 365)]] — 7 mentions
 
-> [!note]- See all 76 courses
+> [!note]- See all 78 courses
 > 11. [[Learning Power BI Desktop]] — 7 mentions
 > 12. [[Excel for Business Analysts]] — 7 mentions
 > 13. [[Copilot in Teams- AI-Powered Collaboration]] — 6 mentions
@@ -64,49 +64,51 @@ created: 2026-05-02
 > 31. [[OneDrive for Business Essential Training]] — 2 mentions
 > 32. [[Learning Microsoft 365 Copilot for Work]] — 2 mentions
 > 33. [[Learning Microsoft 365]] — 2 mentions
-> 34. [[Digital Transformation Tips]] — 2 mentions
-> 35. [[Azure DevOps for Beginners]] — 2 mentions
-> 36. [[DevOps Tips]] — 2 mentions
-> 37. [[Generative AI vs. Traditional AI]] — 1 mentions
-> 38. [[Cloud Computing- Understanding Private Cloud Options]] — 1 mentions
-> 39. [[Copilot Agents- Build Your Own AI Assistant in Copilot and Teams (No Code Required) (February 2025)]] — 1 mentions
-> 40. [[Getting Started with Autonomous Agents in Copilot Studio (No Code Required)]] — 1 mentions
-> 41. [[Microsoft Office Accessibility for Beginners]] — 1 mentions
-> 42. [[Employee Engagement- Making Sustainability Part of Everybody’s Job]] — 1 mentions
-> 43. [[Programming Foundations- Conducting Code Reviews]] — 1 mentions
-> 44. [[Planning For The Remote First Work From Anywhere Organization]] — 1 mentions
-> 45. [[Harnessing AI in the Recruiting Lifecycle]] — 1 mentions
-> 46. [[Azure Developer Associate (AZ-204) Cert Prep- Implement Azure Security]] — 1 mentions
-> 47. [[Cloud Concepts Planning An Application Migration Strategy]] — 1 mentions
-> 48. [[Assessing Digital Maturity]] — 1 mentions
-> 49. [[Learning Network Troubleshooting- Practical Network Diagnostics and Solutions]] — 1 mentions
-> 50. [[Performing a Sustainability Audit with Microsoft Sustainability Manager]] — 1 mentions
-> 51. [[Supporting Accessibility in a Hybrid Workplace]] — 1 mentions
-> 52. [[Outlook Essential Training (Microsoft 365)]] — 1 mentions
-> 53. [[OneNote for Windows 10 Essential Training]] — 1 mentions
-> 54. [[Business Etiquette- Phone, Email, and Text]] — 1 mentions
-> 55. [[Delivering and Analyzing a Software Pilot- GitHub Copilot]] — 1 mentions
-> 56. [[Ethical Data Collection for AI Implementation]] — 1 mentions
-> 57. [[Azure Understanding The Big Picture]] — 1 mentions
-> 58. [[Leveraging Ai In Your Nonprofit Role By Microsoft And Nethope]] — 1 mentions
-> 59. [[Azure Administration Essential Training]] — 1 mentions
-> 60. [[Learning Jira Software]] — 1 mentions
-> 61. [[Microsoft Security Essentials Concepts Solutions And Ai Powered Protection]] — 1 mentions
-> 62. [[Windows Server 2022 Essential Training]] — 1 mentions
-> 63. [[Case Study- Visualize Complex Microservice Data Using Python]] — 1 mentions
-> 64. [[Agile Software Development- Remote Teams (2019)]] — 1 mentions
-> 65. [[Learning Jira Cloud Edition]] — 1 mentions
-> 66. [[Artificial Intelligence and Application Security]] — 1 mentions
-> 67. [[Putting ITIL® into Practice- Incident Management]] — 1 mentions
-> 68. [[Leading Remote Projects and Virtual Teams]] — 1 mentions
-> 69. [[Advanced Data Engineering with Snowflake]] — 1 mentions
-> 70. [[DevOps Foundations- Monitoring and Observability]] — 1 mentions
-> 71. [[IT Service Management Foundations- Problem Management]] — 1 mentions
-> 72. [[Cert Prep- Unity Certified Associate Game Developer Design, Production, and Industry Awareness]] — 1 mentions
-> 73. [[Jira Service Management- Administration]] — 1 mentions
-> 74. [[Zoom Essential Training]] — 1 mentions
-> 75. [[Introduction To Cloud Computing For It Pros]] — 1 mentions
-> 76. [[Leading With A Digital Mindset In The Age Of Ai]] — 1 mentions
+> 34. [[Azure Understanding The Big Picture]] — 2 mentions
+> 35. [[Azure Administration Essential Training]] — 2 mentions
+> 36. [[Digital Transformation Tips]] — 2 mentions
+> 37. [[Azure DevOps for Beginners]] — 2 mentions
+> 38. [[DevOps Tips]] — 2 mentions
+> 39. [[Generative AI vs. Traditional AI]] — 1 mentions
+> 40. [[Cloud Computing- Understanding Private Cloud Options]] — 1 mentions
+> 41. [[Copilot Agents- Build Your Own AI Assistant in Copilot and Teams (No Code Required) (February 2025)]] — 1 mentions
+> 42. [[Getting Started with Autonomous Agents in Copilot Studio (No Code Required)]] — 1 mentions
+> 43. [[Microsoft Office Accessibility for Beginners]] — 1 mentions
+> 44. [[Employee Engagement- Making Sustainability Part of Everybody’s Job]] — 1 mentions
+> 45. [[Programming Foundations- Conducting Code Reviews]] — 1 mentions
+> 46. [[Planning For The Remote First Work From Anywhere Organization]] — 1 mentions
+> 47. [[Harnessing AI in the Recruiting Lifecycle]] — 1 mentions
+> 48. [[Azure Developer Associate (AZ-204) Cert Prep- Implement Azure Security]] — 1 mentions
+> 49. [[Cloud Concepts Planning An Application Migration Strategy]] — 1 mentions
+> 50. [[Assessing Digital Maturity]] — 1 mentions
+> 51. [[Learning Network Troubleshooting- Practical Network Diagnostics and Solutions]] — 1 mentions
+> 52. [[Performing a Sustainability Audit with Microsoft Sustainability Manager]] — 1 mentions
+> 53. [[Supporting Accessibility in a Hybrid Workplace]] — 1 mentions
+> 54. [[Outlook Essential Training (Microsoft 365)]] — 1 mentions
+> 55. [[OneNote for Windows 10 Essential Training]] — 1 mentions
+> 56. [[Business Etiquette- Phone, Email, and Text]] — 1 mentions
+> 57. [[Delivering and Analyzing a Software Pilot- GitHub Copilot]] — 1 mentions
+> 58. [[Azure AI- The Big Picture]] — 1 mentions
+> 59. [[Ethical Data Collection for AI Implementation]] — 1 mentions
+> 60. [[Leveraging Ai In Your Nonprofit Role By Microsoft And Nethope]] — 1 mentions
+> 61. [[Learning Jira Software]] — 1 mentions
+> 62. [[Microsoft Security Essentials Concepts Solutions And Ai Powered Protection]] — 1 mentions
+> 63. [[Windows Server 2022 Essential Training]] — 1 mentions
+> 64. [[Case Study- Visualize Complex Microservice Data Using Python]] — 1 mentions
+> 65. [[Agile Software Development- Remote Teams (2019)]] — 1 mentions
+> 66. [[Learning Jira Cloud Edition]] — 1 mentions
+> 67. [[Learning Jira- Leveraging Sprints, Releasing Features, Fixing Bugs, and Tracking Development]] — 1 mentions
+> 68. [[Artificial Intelligence and Application Security]] — 1 mentions
+> 69. [[Putting ITIL® into Practice- Incident Management]] — 1 mentions
+> 70. [[Leading Remote Projects and Virtual Teams]] — 1 mentions
+> 71. [[Advanced Data Engineering with Snowflake]] — 1 mentions
+> 72. [[DevOps Foundations- Monitoring and Observability]] — 1 mentions
+> 73. [[IT Service Management Foundations- Problem Management]] — 1 mentions
+> 74. [[Cert Prep- Unity Certified Associate Game Developer Design, Production, and Industry Awareness]] — 1 mentions
+> 75. [[Jira Service Management- Administration]] — 1 mentions
+> 76. [[Zoom Essential Training]] — 1 mentions
+> 77. [[Introduction To Cloud Computing For It Pros]] — 1 mentions
+> 78. [[Leading With A Digital Mindset In The Age Of Ai]] — 1 mentions
 
 ## Learning Paths
 

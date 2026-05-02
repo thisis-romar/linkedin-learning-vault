@@ -65,8 +65,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Blockchain and database storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-and-database-storage?u=76281980)
+#### [Blockchain and database storage](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-and-database-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -76,13 +75,13 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-and-database-storage?u=76281980&t=7)** What's next?
 >
-> **[0:08](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-and-database-storage?u=76281980&t=8)** Well, Ethereum is a great resource for developing standalone apps, you can actually do quite a lot with it.
+> **[0:08](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-and-database-storage?u=76281980&t=8)** Well, [[Ethereum]] is a great resource for developing standalone apps, you can actually do quite a lot with it.
 >
 > **[0:16](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-and-database-storage?u=76281980&t=16)** It also lends itself well to integrating with other types of apps.
 >
 > **[0:20](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-and-database-storage?u=76281980&t=20)** Because if you think about it, even in supply chain, it may be possible or beneficial to use data that exists and is managed outside of the supply chain itself.
 >
-> **[0:33](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-and-database-storage?u=76281980&t=33)** There's lots of peripheral data that supports the data of the products and the participants on the supply chain.
+> **[0:33](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-and-database-storage?u=76281980&t=33)** There's lots of peripheral data that supports the data of the [[Microsoft Products|products]] and the participants on the supply chain.
 >
 > **[0:39](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-and-database-storage?u=76281980&t=39)** So what if we wanted our Ethereum app to actually be a part of a larger application framework.
 >
@@ -98,15 +97,15 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-and-database-storage?u=76281980&t=70)** Most traditional applications use some sort of database to store the core data.
 >
-> **[1:16](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-and-database-storage?u=76281980&t=76)** Now the database doesn't have to be a relational database system, or a NoSQL system.
+> **[1:16](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-and-database-storage?u=76281980&t=76)** Now the database doesn't have to be a relational database system, or a [[NoSQL]] system.
 >
-> **[1:21](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-and-database-storage?u=76281980&t=81)** It doesn't have to be a big data store.
+> **[1:21](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-and-database-storage?u=76281980&t=81)** It doesn't have to be a [[Big Data]] store.
 >
 > **[1:23](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-and-database-storage?u=76281980&t=83)** It may just simply be a simple collection of files, flat files.
 >
-> **[1:28](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-and-database-storage?u=76281980&t=88)** But regardless, centralized data storage is common.
+> **[1:28](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-and-database-storage?u=76281980&t=88)** But regardless, centralized [[Data Storage]] is common.
 >
-> **[1:33](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-and-database-storage?u=76281980&t=93)** When you look at moving from centralized data storage to a de-centralized environment on the blockchain, there are comparisons and contrasts between the two approaches.
+> **[1:33](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-and-database-storage?u=76281980&t=93)** When you look at moving from centralized data storage to a de-centralized environment on the [[Blockchain]], there are comparisons and contrasts between the two approaches.
 >
 > **[1:43](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-and-database-storage?u=76281980&t=103)** First and foremost, is where is your control located?
 >
@@ -134,7 +133,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-and-database-storage?u=76281980&t=176)** Data format is quite a bit different as well.
 >
-> **[2:59](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-and-database-storage?u=76281980&t=179)** Because in a database, well, most databases, you typically have a schema that imposes specific data format requirements.
+> **[2:59](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-and-database-storage?u=76281980&t=179)** Because in a database, well, most [[Databases]], you typically have a schema that imposes specific data format requirements.
 >
 > **[3:08](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-and-database-storage?u=76281980&t=188)** In other words, to add new data to the database or the data repository, it must be in certain format.
 >
@@ -142,7 +141,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-and-database-storage?u=76281980&t=199)** It's technically free form.
 >
-> **[3:21](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-and-database-storage?u=76281980&t=201)** Now the smart contracts do impose some sort of data standard, but you don't have one type of smart contract.
+> **[3:21](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-and-database-storage?u=76281980&t=201)** Now the [[Smart Contracts]] do impose some sort of data standard, but you don't have one type of smart contract.
 >
 > **[3:29](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-and-database-storage?u=76281980&t=209)** You can have lots of different smart contracts that are storing data in lots of different formats.
 >
@@ -240,7 +239,7 @@ created: 2026-05-02
 >
 > **[7:15](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-and-database-storage?u=76281980&t=435)** That's really not true.
 >
-> **[7:16](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-and-database-storage?u=76281980&t=436)** Blockchains are based on cryptography.
+> **[7:16](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-and-database-storage?u=76281980&t=436)** Blockchains are based on [[Cryptography]].
 >
 > **[7:19](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-and-database-storage?u=76281980&t=439)** That's not necessarily encryption.
 >
@@ -272,13 +271,13 @@ created: 2026-05-02
 >
 > **[8:10](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-and-database-storage?u=76281980&t=490)** You need personnel to make sure that they're always up and available.
 >
-> **[8:14](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-and-database-storage?u=76281980&t=494)** You have hardware costs, or perhaps if in there in the cloud, you have subscription costs.
+> **[8:14](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-and-database-storage?u=76281980&t=494)** You have [[Hardware]] costs, or perhaps if in there in the cloud, you have subscription costs.
 >
 > **[8:19](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-and-database-storage?u=76281980&t=499)** So there are costs, but not direct data access costs.
 >
 > **[8:24](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-and-database-storage?u=76281980&t=504)** In a blockchain, on the other side, you have to pay for every access to the blockchain.
 >
-> **[8:29](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-and-database-storage?u=76281980&t=509)** You have to pay with cryptocurrency.
+> **[8:29](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-and-database-storage?u=76281980&t=509)** You have to pay with [[Cryptocurrency]].
 >
 > **[8:32](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-and-database-storage?u=76281980&t=512)** What about integrity and transparency?
 >
@@ -336,7 +335,7 @@ created: 2026-05-02
 >
 > **[10:21](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-and-database-storage?u=76281980&t=621)** So those are just some of the differences between a traditional data repository environment and application that sits on top of that, and how you store data in blockchain.
 >
-> **[10:33](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-and-database-storage?u=76281980&t=633)** Now just the storage differences are pretty stark.
+> **[10:33](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-and-database-storage?u=76281980&t=633)** Now just the storage differences are pretty [[Stark (Accessibility Software)|stark]].
 >
 > **[10:37](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-and-database-storage?u=76281980&t=637)** But there's also differences in how you write your code and how your code runs.
 >
@@ -344,7 +343,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (39), [[Blockchain]] (37), database (13), [[Databases]] (6), [[Ethereum]] (4)
+> **Frameworks & Libraries:** [[Blockchain]] (37), [[Databases]] (6), [[Ethereum]] (4), [[Smart Contracts]] (3), [[Data Storage]] (2)
 > **CLI Commands:** make (4), node (2)
 > **Definitions:** is a  (3), in other words (2), is an  (1)
 > **Env Vars:** crud (1)
@@ -352,18 +351,17 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - so (1)
 
-#### Execution and flow in dApps and traditional applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/execution-and-flow-in-dapps-and-traditional-applications?u=76281980)
+#### [Execution and flow in dApps and traditional applications](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/execution-and-flow-in-dapps-and-traditional-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/execution-and-flow-in-dapps-and-traditional-applications?u=76281980&t=0)** - All right, so we just talked a little bit about how storing data differs between traditional data, repository applications, and blockchain.
+> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/execution-and-flow-in-dapps-and-traditional-applications?u=76281980&t=0)** - All right, so we just talked a little bit about how storing data differs between traditional data, repository applications, and [[Blockchain]].
 >
 > **[0:09](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/execution-and-flow-in-dapps-and-traditional-applications?u=76281980&t=9)** But how about the execution flow of the application itself?
 >
 > **[0:13](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/execution-and-flow-in-dapps-and-traditional-applications?u=76281980&t=13)** When you write traditional applications, they tend to be more centralized in nature, not only from the storage, but also the processing.
 >
-> **[0:22](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/execution-and-flow-in-dapps-and-traditional-applications?u=76281980&t=22)** Now, in the old version of computer architecture, we typically ran everything on one host, so that was very early in the migration toward distribution and decentralization.
+> **[0:22](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/execution-and-flow-in-dapps-and-traditional-applications?u=76281980&t=22)** Now, in the old version of computer architecture, we typically ran everything on one host, so that was very early in the migration toward distribution and [[Decentralization]].
 >
 > **[0:35](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/execution-and-flow-in-dapps-and-traditional-applications?u=76281980&t=35)** So everything ran on one machine and all the users ran locally on this big machine.
 >
@@ -401,7 +399,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/execution-and-flow-in-dapps-and-traditional-applications?u=76281980&t=208)** So there are wait times involved, which we wouldn't see in a traditional environment.
 >
-> **[3:33](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/execution-and-flow-in-dapps-and-traditional-applications?u=76281980&t=213)** For that reason, your smart contracts need to be designed in a way that minimizes these user waits.
+> **[3:33](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/execution-and-flow-in-dapps-and-traditional-applications?u=76281980&t=213)** For that reason, your [[Smart Contracts]] need to be designed in a way that minimizes these user waits.
 >
 > **[3:41](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/execution-and-flow-in-dapps-and-traditional-applications?u=76281980&t=221)** What you really want to have happen is all of your user I/O is collected after the users submit something and they're ready to move to something else, then you go out and you do something that may take a while to respond back.
 >
@@ -419,23 +417,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (8), data (5), application (5), database (4), [[Decentralization]] (1)
+> **Frameworks & Libraries:** [[Blockchain]] (8), [[Decentralization]] (1), [[Smart Contracts]] (1)
 > **Definitions:** in other words (2), means that (2)
 > **CLI Commands:** make (2)
 > **Speakers:** - all (1)
 
-#### Blockchain incorporation design goals
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-incorporation-design-goals?u=76281980)
+#### [Blockchain incorporation design goals](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-incorporation-design-goals?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-incorporation-design-goals?u=76281980&t=0)** - Okay, let me take just a minute to kind of reframe the whole blockchain technology discussion.
+> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-incorporation-design-goals?u=76281980&t=0)** - Okay, let me take just a minute to kind of reframe the whole [[Blockchain]] technology discussion.
 >
-> **[0:06](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-incorporation-design-goals?u=76281980&t=6)** blockchain technology in one important way is the same as Cloud computing.
+> **[0:06](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-incorporation-design-goals?u=76281980&t=6)** blockchain technology in one important way is the same as [[Cloud Computing]].
 >
 > **[0:11](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-incorporation-design-goals?u=76281980&t=11)** And you may think, wow, that's really kind of weird and kind of a stretch, but here's what I mean by that blockchain just like cloud is a term that has a lot of traction and people think it's really cool and hot.
 >
-> **[0:23](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-incorporation-design-goals?u=76281980&t=23)** And if we could just put that word into our marketing collateral, we're going to make money.
+> **[0:23](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-incorporation-design-goals?u=76281980&t=23)** And if we could just put that [[Microsoft Word|word]] into our marketing collateral, we're going to make money.
 >
 > **[0:28](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-incorporation-design-goals?u=76281980&t=28)** So you see, you hear people over and over saying, we're going to get into blockchain technology and I'll have people come to me and ask me, can you help us implement blockchain technology?
 >
@@ -471,7 +468,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-incorporation-design-goals?u=76281980&t=127)** So in some cases, blockchain lets us do lots and lots of new things.
 >
-> **[2:12](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-incorporation-design-goals?u=76281980&t=132)** Also any new technology should enhance the user experience.
+> **[2:12](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-incorporation-design-goals?u=76281980&t=132)** Also any new technology should enhance the [[User Experience (UX)|user experience]].
 >
 > **[2:17](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-incorporation-design-goals?u=76281980&t=137)** Blockchain is so very cool in so many ways, but if it's going to make it harder for your users, it's not something that's going to be successful in your organization long-term so you want to make sure that everything you roll out blockchain or anything else at the end of the day enhances the user experience.
 >
@@ -503,7 +500,7 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-incorporation-design-goals?u=76281980&t=245)** And it goes hand in hand with robotics, but it doesn't always have to be dependent on specific robots.
 >
-> **[4:11](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-incorporation-design-goals?u=76281980&t=251)** Smart contracts in and of themselves can make decisions that humans previously made so that both removes middlemen and increases the effectiveness of the whole supply chain.
+> **[4:11](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-incorporation-design-goals?u=76281980&t=251)** [[Smart Contracts]] in and of themselves can make decisions that humans previously made so that both removes middlemen and increases the effectiveness of the whole supply chain.
 >
 > **[4:24](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-incorporation-design-goals?u=76281980&t=264)** If that's what we're dealing with or the process by automating pieces of it.
 >
@@ -531,24 +528,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (24), data (5), application (4), [[User Experience (UX)|User experience]] (4), [[Smart Contracts]] (3)
+> **Frameworks & Libraries:** [[Blockchain]] (24), [[User Experience (UX)|User experience]] (4), [[Smart Contracts]] (3), [[Cloud Computing]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (6), find (2)
 > **Definitions:** is a  (4), is an  (1), is called (1), in other words (1)
 > **Analogies:** just like (1)
 > **Speakers:** - okay (1)
 
-#### Integration considerations for incorporating blockchain
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/integration-considerations-for-incorporating-blockchain?u=76281980)
+#### [Integration considerations for incorporating blockchain](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/integration-considerations-for-incorporating-blockchain?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/integration-considerations-for-incorporating-blockchain?u=76281980&t=0)** - So, you've already decided that blockchain technology is a good fit for your organization and specific use cases.
+> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/integration-considerations-for-incorporating-blockchain?u=76281980&t=0)** - So, you've already decided that [[Blockchain]] technology is a good fit for your organization and specific use cases.
 >
 > **[0:08](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/integration-considerations-for-incorporating-blockchain?u=76281980&t=8)** Once you make that determination, moving forward should be fun, but you want to make sure that you do it in the right way.
 >
 > **[0:14](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/integration-considerations-for-incorporating-blockchain?u=76281980&t=14)** You don't want to just try to drop a solution in the middle of a traditional application and expect it to work well.
 >
-> **[0:20](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/integration-considerations-for-incorporating-blockchain?u=76281980&t=20)** You have to plan it well, and to plan it well, you want to really consider the interface, and integration landscape so let's take a look, as we wrap up all this wonderful discussion of Ethereum, at the interface and integration considerations.
+> **[0:20](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/integration-considerations-for-incorporating-blockchain?u=76281980&t=20)** You have to plan it well, and to plan it well, you want to really consider the interface, and integration landscape so let's take a look, as we wrap up all this wonderful discussion of [[Ethereum]], at the interface and integration considerations.
 >
 > **[0:36](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/integration-considerations-for-incorporating-blockchain?u=76281980&t=36)** Here's a few best practices and high-level goals that you want to keep in top of mind.
 >
@@ -558,7 +554,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/integration-considerations-for-incorporating-blockchain?u=76281980&t=57)** What is it going to do, is it going to take away functionality, or replace functionality or hopefully add new functionality?
 >
-> **[1:05](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/integration-considerations-for-incorporating-blockchain?u=76281980&t=65)** Be aware of decentralization in your design.
+> **[1:05](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/integration-considerations-for-incorporating-blockchain?u=76281980&t=65)** Be aware of [[Decentralization]] in your design.
 >
 > **[1:10](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/integration-considerations-for-incorporating-blockchain?u=76281980&t=70)** Again, we've talked about this before, but this is one of the things you want to keep in top of mind.
 >
@@ -640,13 +636,13 @@ created: 2026-05-02
 >
 > **[5:31](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/integration-considerations-for-incorporating-blockchain?u=76281980&t=331)** Do you store an archive record, or do you just break that link and let the data go orphaned on your blockchain?
 >
-> **[5:39](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/integration-considerations-for-incorporating-blockchain?u=76281980&t=339)** Again, those are some considerations in identity mapping And lastly, integration design patterns are very, very helpful when you start introducing new application components, especially at the enterprise level.
+> **[5:39](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/integration-considerations-for-incorporating-blockchain?u=76281980&t=339)** Again, those are some considerations in identity mapping And lastly, integration [[Design Patterns]] are very, very helpful when you start introducing new application components, especially at the enterprise level.
 >
 > **[5:53](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/integration-considerations-for-incorporating-blockchain?u=76281980&t=353)** What you want to try to do is develop a strategy so that you reuse the same look and feel of your integration, of your APIs, so that every API doesn't look different, and you don't have to rewrite everything.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (12), [[Blockchain]] (11), [[Ethereum]] (6), data (5), [[Decentralization]] (3)
+> **Frameworks & Libraries:** [[Blockchain]] (11), [[Ethereum]] (6), [[Decentralization]] (3), [[Design Patterns]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** api (2)
 > **Definitions:** is a  (1), in other words (1)
@@ -655,8 +651,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - so (1)
 
-#### Interface considerations for incorporating blockchain
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/interface-considerations-for-incorporating-blockchain?u=76281980)
+#### [Interface considerations for incorporating blockchain](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/interface-considerations-for-incorporating-blockchain?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -668,9 +663,9 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/interface-considerations-for-incorporating-blockchain?u=76281980&t=24)** So you need to identify these touch points.
 >
-> **[0:26](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/interface-considerations-for-incorporating-blockchain?u=76281980&t=26)** When does the blockchain application need to communicate with your traditional application?
+> **[0:26](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/interface-considerations-for-incorporating-blockchain?u=76281980&t=26)** When does the [[Blockchain]] application need to communicate with your traditional application?
 >
-> **[0:31](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/interface-considerations-for-incorporating-blockchain?u=76281980&t=31)** And in this model, you're typically going to find that your traditional application is the client and the blockchain application, your smart contracts would be the server side.
+> **[0:31](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/interface-considerations-for-incorporating-blockchain?u=76281980&t=31)** And in this model, you're typically going to find that your traditional application is the client and the blockchain application, your [[Smart Contracts]] would be the server side.
 >
 > **[0:42](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/interface-considerations-for-incorporating-blockchain?u=76281980&t=42)** So you're probably going to initiate your interactions from the client side, from the traditional application side.
 >
@@ -724,7 +719,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/interface-considerations-for-incorporating-blockchain?u=76281980&t=212)** We've covered a lot of ground.
 >
-> **[3:34](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/interface-considerations-for-incorporating-blockchain?u=76281980&t=214)** Basically, you know how to learn all the aspects of what Ethereum is all about.
+> **[3:34](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/interface-considerations-for-incorporating-blockchain?u=76281980&t=214)** Basically, you know how to learn all the aspects of what [[Ethereum]] is all about.
 >
 > **[3:40](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/interface-considerations-for-incorporating-blockchain?u=76281980&t=220)** You know how to build your development environment.
 >
@@ -738,7 +733,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (13), [[Blockchain]] (7), data (5), api (3), [[Smart Contracts]] (2)
+> **Frameworks & Libraries:** [[Blockchain]] (7), [[Smart Contracts]] (2), [[Ethereum]] (2)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** api (3)
 > **Cross-References:** we talked about (1)

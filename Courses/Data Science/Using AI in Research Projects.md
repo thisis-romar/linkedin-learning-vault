@@ -65,12 +65,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Artificial intelligence for research
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-research-projects/artificial-intelligence-for-research?u=76281980)
+#### [Artificial intelligence for research](https://www.linkedin.com/learning/using-ai-in-research-projects/artificial-intelligence-for-research?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-ai-in-research-projects/artificial-intelligence-for-research?u=76281980&t=0)** Are you ready to leverage generative AI as your powerful research sidekick?
+> **[0:00](https://www.linkedin.com/learning/using-ai-in-research-projects/artificial-intelligence-for-research?u=76281980&t=0)** Are you ready to leverage [[Generative AI]] as your powerful research sidekick?
 >
 > **[0:04](https://www.linkedin.com/learning/using-ai-in-research-projects/artificial-intelligence-for-research?u=76281980&t=4)** AI tools are improving rapidly, and now is the time to jump in and get familiar with how AI can help you, from preparing for your qualitative research efforts, to analyzing your data and distilling key findings.
 >
@@ -82,7 +81,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[Generative AI]] (1), data (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1)
 > **Env Vars:** uxpa (1)
 
 
@@ -90,8 +89,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Doing research on AI when it's not AI research
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-research-projects/doing-research-on-ai-when-it-s-not-ai-research?u=76281980)
+#### [Doing research on AI when it's not AI research](https://www.linkedin.com/learning/using-ai-in-research-projects/doing-research-on-ai-when-it-s-not-ai-research?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -105,7 +103,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/using-ai-in-research-projects/doing-research-on-ai-when-it-s-not-ai-research?u=76281980&t=24)** Let's start with the first and most basic of these AI interactions, tangential AI research.
 >
-> **[0:31](https://www.linkedin.com/learning/using-ai-in-research-projects/doing-research-on-ai-when-it-s-not-ai-research?u=76281980&t=31)** The mass adoption of generative AI, such as ChatGPT, is new.
+> **[0:31](https://www.linkedin.com/learning/using-ai-in-research-projects/doing-research-on-ai-when-it-s-not-ai-research?u=76281980&t=31)** The mass adoption of [[Generative AI]], such as [[ChatGPT]], is new.
 >
 > **[0:36](https://www.linkedin.com/learning/using-ai-in-research-projects/doing-research-on-ai-when-it-s-not-ai-research?u=76281980&t=36)** However, you very well may have encountered AI, at least more rudimentary AI, in the research studies that you've done over the past few years, and may have found yourself writing up AI-specific findings in your research report.
 >
@@ -139,11 +137,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (24), [[Generative AI]] (1), [[ChatGPT]] (1), web (1), web application (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[ChatGPT]] (1)
 > **Analogies:** such as (1), for example (1), imagine (1)
 
-#### Doing research on AI systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-research-projects/doing-research-on-ai-systems?u=76281980)
+#### [Doing research on AI systems](https://www.linkedin.com/learning/using-ai-in-research-projects/doing-research-on-ai-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -185,7 +182,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/using-ai-in-research-projects/doing-research-on-ai-systems?u=76281980&t=137)** You may also want to consider poorly constructed responses from the AI and be prepared to probe at many points about why a participant felt the need, for example, to rephrase a query.
 >
-> **[2:28](https://www.linkedin.com/learning/using-ai-in-research-projects/doing-research-on-ai-systems?u=76281980&t=148)** And you may want to debrief about not only reactions to the system and how it can do a better job, but also ethics and privacy.
+> **[2:28](https://www.linkedin.com/learning/using-ai-in-research-projects/doing-research-on-ai-systems?u=76281980&t=148)** And you may want to debrief about not only reactions to the system and how it can do a better job, but also [[Ethics]] and [[Privacy]].
 >
 > **[2:37](https://www.linkedin.com/learning/using-ai-in-research-projects/doing-research-on-ai-systems?u=76281980&t=157)** Do participants feel that their interactions with the AI are confidential and secure?
 >
@@ -193,7 +190,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), next (1), [[Ethics]] (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Ethics]] (1), [[Privacy]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
 
@@ -202,12 +199,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting corporate buy-in for using AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-research-projects/getting-corporate-buy-in-for-using-ai?u=76281980)
+#### [Getting corporate buy-in for using AI](https://www.linkedin.com/learning/using-ai-in-research-projects/getting-corporate-buy-in-for-using-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-ai-in-research-projects/getting-corporate-buy-in-for-using-ai?u=76281980&t=0)** Many of the researchers I've asked about using generative AI say either they haven't looked into it yet or that using generative AI would explicitly violate company policy.
+> **[0:00](https://www.linkedin.com/learning/using-ai-in-research-projects/getting-corporate-buy-in-for-using-ai?u=76281980&t=0)** Many of the researchers I've asked about using [[Generative AI]] say either they haven't looked into it yet or that using generative AI would explicitly violate company policy.
 >
 > **[0:10](https://www.linkedin.com/learning/using-ai-in-research-projects/getting-corporate-buy-in-for-using-ai?u=76281980&t=10)** If you work in-house, you will likely be asking for permission to work within the boundaries of whatever policies exist, justifying how generative AI can help you in your work, and allaying concerns that you'll be providing confidential information into an insecure system.
 >
@@ -219,7 +215,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/using-ai-in-research-projects/getting-corporate-buy-in-for-using-ai?u=76281980&t=42)** And when considering the tools that you're using, what does support tech say about how your inputs are kept secure?
 >
-> **[0:50](https://www.linkedin.com/learning/using-ai-in-research-projects/getting-corporate-buy-in-for-using-ai?u=76281980&t=50)** For example, ChatGPT explicitly says it saves your conversations to help improve the learning model, but simultaneously will not yet fully secure, there is a toggle to turn this off.
+> **[0:50](https://www.linkedin.com/learning/using-ai-in-research-projects/getting-corporate-buy-in-for-using-ai?u=76281980&t=50)** For example, [[ChatGPT]] explicitly says it saves your conversations to help improve the learning model, but simultaneously will not yet fully secure, there is a toggle to turn this off.
 >
 > **[1:04](https://www.linkedin.com/learning/using-ai-in-research-projects/getting-corporate-buy-in-for-using-ai?u=76281980&t=64)** Be prepared to have these conversations as well as what types of inputs are okay that's applied to an AI.
 >
@@ -231,7 +227,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/using-ai-in-research-projects/getting-corporate-buy-in-for-using-ai?u=76281980&t=82)** No matter what, you have to follow the rules, but it's okay to ask for help in making sure you understand what those rules actually are.
 >
-> **[1:31](https://www.linkedin.com/learning/using-ai-in-research-projects/getting-corporate-buy-in-for-using-ai?u=76281980&t=91)** And don't use those generative AI tools secretly.
+> **[1:31](https://www.linkedin.com/learning/using-ai-in-research-projects/getting-corporate-buy-in-for-using-ai?u=76281980&t=91)** And don't use those [[Generative AI Tools]] secretly.
 >
 > **[1:34](https://www.linkedin.com/learning/using-ai-in-research-projects/getting-corporate-buy-in-for-using-ai?u=76281980&t=94)** Be open and ethical about how you're using them so that nobody is surprised or uncomfortable later on if or when they find out.
 >
@@ -239,34 +235,33 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Generative AI]] (3), [[ChatGPT]] (1), data (1), [[Generative AI Tools]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[ChatGPT]] (1), [[Generative AI Tools]] (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** toggle (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### General vs research-specific tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-research-projects/general-vs-research-specific-tools-25055210?u=76281980)
+#### [General vs research-specific tools](https://www.linkedin.com/learning/using-ai-in-research-projects/general-vs-research-specific-tools-25055210?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-ai-in-research-projects/general-vs-research-specific-tools-25055210?u=76281980&t=0)** There are two types of AI-oriented tools that you can use to assist you with your research, general generative AI tools and research-specific tools.
+> **[0:00](https://www.linkedin.com/learning/using-ai-in-research-projects/general-vs-research-specific-tools-25055210?u=76281980&t=0)** There are two types of AI-oriented tools that you can use to assist you with your research, general [[Generative AI Tools]] and research-specific tools.
 >
 > **[0:09](https://www.linkedin.com/learning/using-ai-in-research-projects/general-vs-research-specific-tools-25055210?u=76281980&t=9)** First, there are general generative AI tools.
 >
 > **[0:12](https://www.linkedin.com/learning/using-ai-in-research-projects/general-vs-research-specific-tools-25055210?u=76281980&t=12)** These are tools that we will be primarily talking about in this course.
 >
-> **[0:17](https://www.linkedin.com/learning/using-ai-in-research-projects/general-vs-research-specific-tools-25055210?u=76281980&t=17)** OpenAI's ChatGPT, the first and perhaps most well-known of these tools, is great at creative activities and pretty strong at analysis, too.
+> **[0:17](https://www.linkedin.com/learning/using-ai-in-research-projects/general-vs-research-specific-tools-25055210?u=76281980&t=17)** OpenAI's [[ChatGPT]], the first and perhaps most well-known of these tools, is great at creative activities and pretty strong at analysis, too.
 >
 > **[0:25](https://www.linkedin.com/learning/using-ai-in-research-projects/general-vs-research-specific-tools-25055210?u=76281980&t=25)** It's not as great when you have lengthy blocks of text, such as with a set of research transcripts.
 >
-> **[0:31](https://www.linkedin.com/learning/using-ai-in-research-projects/general-vs-research-specific-tools-25055210?u=76281980&t=31)** Microsoft Copilot is based on a partnership with OpenAI, but responses are different.
+> **[0:31](https://www.linkedin.com/learning/using-ai-in-research-projects/general-vs-research-specific-tools-25055210?u=76281980&t=31)** [[Microsoft Copilot]] is based on a partnership with OpenAI, but responses are different.
 >
-> **[0:36](https://www.linkedin.com/learning/using-ai-in-research-projects/general-vs-research-specific-tools-25055210?u=76281980&t=36)** The strength of Copilot is that there is a version baked into Office 365, so it can work within Office documents, as well as standalone via web-based interactions.
+> **[0:36](https://www.linkedin.com/learning/using-ai-in-research-projects/general-vs-research-specific-tools-25055210?u=76281980&t=36)** The strength of [[Microsoft Copilot|Copilot]] is that there is a version baked into [[Microsoft Office|Office]] 365, so it can work within Office documents, as well as standalone via web-based interactions.
 >
-> **[0:47](https://www.linkedin.com/learning/using-ai-in-research-projects/general-vs-research-specific-tools-25055210?u=76281980&t=47)** Similarly, Google Gemini can work within Google Documents, and can have perhaps the longest set of continuous interactions among the various generative tools.
+> **[0:47](https://www.linkedin.com/learning/using-ai-in-research-projects/general-vs-research-specific-tools-25055210?u=76281980&t=47)** Similarly, [[Google Gemini]] can work within [[Google]] Documents, and can have perhaps the longest set of continuous interactions among the various generative tools.
 >
-> **[0:57](https://www.linkedin.com/learning/using-ai-in-research-projects/general-vs-research-specific-tools-25055210?u=76281980&t=57)** Some of these tools, such as ChatGPT and Copilot, have custom GPTs, where individuals have essentially created subsets of these tools specifically targeted at certain types of functionalities, and in some cases, for example, at research activities.
+> **[0:57](https://www.linkedin.com/learning/using-ai-in-research-projects/general-vs-research-specific-tools-25055210?u=76281980&t=57)** Some of these tools, such as ChatGPT and Copilot, have [[Custom GPTs]], where individuals have essentially created subsets of these tools specifically targeted at certain types of functionalities, and in some cases, for example, at research activities.
 >
 > **[1:13](https://www.linkedin.com/learning/using-ai-in-research-projects/general-vs-research-specific-tools-25055210?u=76281980&t=73)** Although these tools generally have some functionality without a paid plan, they limit the amount of interactions that you can have.
 >
@@ -298,13 +293,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[Generative AI Tools]] (2), [[ChatGPT]] (2), [[Microsoft Copilot|Copilot]] (2), [[Microsoft Office|Office]] (2)
+> **Frameworks & Libraries:** [[Generative AI Tools]] (2), [[ChatGPT]] (2), [[Microsoft Copilot|Copilot]] (2), [[Microsoft Office|Office]] (2), [[Microsoft Copilot]] (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)
 
-#### AI for heuristic or expert reviews
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-research-projects/ai-for-heuristic-expert-reviews-25057128?u=76281980)
+#### [AI for heuristic or expert reviews](https://www.linkedin.com/learning/using-ai-in-research-projects/ai-for-heuristic-expert-reviews-25057128?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -316,7 +310,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/using-ai-in-research-projects/ai-for-heuristic-expert-reviews-25057128?u=76281980&t=33)** There are some good general points here, although it's still somewhat high-level.
 >
-> **[0:38](https://www.linkedin.com/learning/using-ai-in-research-projects/ai-for-heuristic-expert-reviews-25057128?u=76281980&t=38)** Now let's take a look at Explore GPTs, which are user-created targeted applications of ChatGPT.
+> **[0:38](https://www.linkedin.com/learning/using-ai-in-research-projects/ai-for-heuristic-expert-reviews-25057128?u=76281980&t=38)** Now let's take a look at Explore GPTs, which are user-created targeted applications of [[ChatGPT]].
 >
 > **[0:43](https://www.linkedin.com/learning/using-ai-in-research-projects/ai-for-heuristic-expert-reviews-25057128?u=76281980&t=43)** are a few focused on usability.
 >
@@ -346,13 +340,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (1), web (1), ai (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1)
 > **Analogies:** for example (3), such as (1)
 > **CLI Commands:** make (2)
 > **URLs:** [airbnb.com](https://airbnb.com) (2)
 
-#### AI for usability study preparation
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-research-projects/ai-for-usability-study-preparation-25059087?u=76281980)
+#### [AI for usability study preparation](https://www.linkedin.com/learning/using-ai-in-research-projects/ai-for-usability-study-preparation-25059087?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -380,9 +373,9 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/using-ai-in-research-projects/ai-for-usability-study-preparation-25059087?u=76281980&t=68)** But again, a lot of good starter ideas.
 >
-> **[1:11](https://www.linkedin.com/learning/using-ai-in-research-projects/ai-for-usability-study-preparation-25059087?u=76281980&t=71)** And if I want to just download this as a Word document, I can.
+> **[1:11](https://www.linkedin.com/learning/using-ai-in-research-projects/ai-for-usability-study-preparation-25059087?u=76281980&t=71)** And if I want to just download this as a [[Microsoft Word|Word]] document, I can.
 >
-> **[1:17](https://www.linkedin.com/learning/using-ai-in-research-projects/ai-for-usability-study-preparation-25059087?u=76281980&t=77)** Can you create this screener as a Word document so I can put it on my corporate SharePoint?
+> **[1:17](https://www.linkedin.com/learning/using-ai-in-research-projects/ai-for-usability-study-preparation-25059087?u=76281980&t=77)** Can you create this screener as a Word document so I can put it on my corporate [[SharePoint]]?
 >
 > **[1:24](https://www.linkedin.com/learning/using-ai-in-research-projects/ai-for-usability-study-preparation-25059087?u=76281980&t=84)** And here you go.
 >
@@ -392,7 +385,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/using-ai-in-research-projects/ai-for-usability-study-preparation-25059087?u=76281980&t=99)** Okay, now I'm ready to generate some tasks for this study.
 >
-> **[1:42](https://www.linkedin.com/learning/using-ai-in-research-projects/ai-for-usability-study-preparation-25059087?u=76281980&t=102)** So again, I can ask ChatGPT.
+> **[1:42](https://www.linkedin.com/learning/using-ai-in-research-projects/ai-for-usability-study-preparation-25059087?u=76281980&t=102)** So again, I can ask [[ChatGPT]].
 >
 > **[1:45](https://www.linkedin.com/learning/using-ai-in-research-projects/ai-for-usability-study-preparation-25059087?u=76281980&t=105)** Can you generate a test script for a usability study of a new grocery delivery website, including an introduction, tasks, probes, and a closing?
 >
@@ -406,26 +399,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), ai (2), database (1), [[SharePoint]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[SharePoint]] (1), [[ChatGPT]] (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### AI for in-depth interviews (IDIs) and focus group preparation
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-research-projects/ai-for-in-depth-interviews-idis-focus-group-preparation-25056131?u=76281980)
+#### [AI for in-depth interviews (IDIs) and focus group preparation](https://www.linkedin.com/learning/using-ai-in-research-projects/ai-for-in-depth-interviews-idis-focus-group-preparation-25056131?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-ai-in-research-projects/ai-for-in-depth-interviews-idis-focus-group-preparation-25056131?u=76281980&t=0)** When we talked about AI for usability studies or heuristic reviews, we're squarely in the UX research space.
+> **[0:00](https://www.linkedin.com/learning/using-ai-in-research-projects/ai-for-in-depth-interviews-idis-focus-group-preparation-25056131?u=76281980&t=0)** When we talked about AI for usability studies or heuristic reviews, we're squarely in the [[UX Research]] space.
 >
-> **[0:06](https://www.linkedin.com/learning/using-ai-in-research-projects/ai-for-in-depth-interviews-idis-focus-group-preparation-25056131?u=76281980&t=6)** But the truth is that a lot of what we're talking about also falls into the realm of qualitative market research too.
+> **[0:06](https://www.linkedin.com/learning/using-ai-in-research-projects/ai-for-in-depth-interviews-idis-focus-group-preparation-25056131?u=76281980&t=6)** But the truth is that a lot of what we're talking about also falls into the realm of qualitative [[Market Research]] too.
 >
 > **[0:13](https://www.linkedin.com/learning/using-ai-in-research-projects/ai-for-in-depth-interviews-idis-focus-group-preparation-25056131?u=76281980&t=13)** So regardless of the type of qualitative research we're talking about, the approach to using AI for in-depth interviews or IDIs and for focus group preparation is going to be similar.
 >
 > **[0:24](https://www.linkedin.com/learning/using-ai-in-research-projects/ai-for-in-depth-interviews-idis-focus-group-preparation-25056131?u=76281980&t=24)** Sometimes individual interviews may make more sense, and other times a group discussion could provide useful opportunities for brainstorming.
 >
-> **[0:32](https://www.linkedin.com/learning/using-ai-in-research-projects/ai-for-in-depth-interviews-idis-focus-group-preparation-25056131?u=76281980&t=32)** Let's ask ChatGPT to consider what kinds of research questions may be useful for one versus the other.
+> **[0:32](https://www.linkedin.com/learning/using-ai-in-research-projects/ai-for-in-depth-interviews-idis-focus-group-preparation-25056131?u=76281980&t=32)** Let's ask [[ChatGPT]] to consider what kinds of research questions may be useful for one versus the other.
 >
 > **[0:38](https://www.linkedin.com/learning/using-ai-in-research-projects/ai-for-in-depth-interviews-idis-focus-group-preparation-25056131?u=76281980&t=38)** I want to talk with shoppers who go into a physical grocery store, as well as those who shop for groceries online, to learn more about what they'd want from a new grocery delivery service.
 >
@@ -463,13 +455,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[ChatGPT]] (3), ux (1), [[Market Research]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[UX Research]] (1), [[Market Research]] (1)
 > **CLI Commands:** make (4), find (2)
 > **Cross-References:** we talked about (1)
 > **Analogies:** for example (1)
 
-#### AI for analysis of qualitative data
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-research-projects/ai-for-analysis-of-qualitative-data?u=76281980)
+#### [AI for analysis of qualitative data](https://www.linkedin.com/learning/using-ai-in-research-projects/ai-for-analysis-of-qualitative-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -487,7 +478,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/using-ai-in-research-projects/ai-for-analysis-of-qualitative-data?u=76281980&t=53)** There's a lot of reading to replace any confidential information and you still need to clearly differentiate prompts from participant responses.
 >
-> **[1:02](https://www.linkedin.com/learning/using-ai-in-research-projects/ai-for-analysis-of-qualitative-data?u=76281980&t=62)** Personally, I find the sweet spot of AI analysis, at least for the moment, to manually compile key points for each individual session on my own, whether from an interview or from behavioral data, such as with a usability study and then ask ChatGPT to look for patterns.
+> **[1:02](https://www.linkedin.com/learning/using-ai-in-research-projects/ai-for-analysis-of-qualitative-data?u=76281980&t=62)** Personally, I find the sweet spot of AI analysis, at least for the moment, to manually compile key points for each individual session on my own, whether from an interview or from behavioral data, such as with a usability study and then ask [[ChatGPT]] to look for patterns.
 >
 > **[1:20](https://www.linkedin.com/learning/using-ai-in-research-projects/ai-for-analysis-of-qualitative-data?u=76281980&t=80)** You'll still have to be mindful of confidential data but it is easier to create consistent generic fillers across participants with data that is already structured like this and you're setting ChatGPT up to start in a better place.
 >
@@ -511,22 +502,21 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/using-ai-in-research-projects/ai-for-analysis-of-qualitative-data?u=76281980&t=169)** And if you're wondering whether AI is ready to take over our jobs as researchers, this is the best reason that the answer is not at this time.
 >
-> **[2:57](https://www.linkedin.com/learning/using-ai-in-research-projects/ai-for-analysis-of-qualitative-data?u=76281980&t=177)** You should still trust that while AI can certainly give you insights and food for thought, your research experience isn't being replaced by the current set of generative AI systems.
+> **[2:57](https://www.linkedin.com/learning/using-ai-in-research-projects/ai-for-analysis-of-qualitative-data?u=76281980&t=177)** You should still trust that while AI can certainly give you insights and food for thought, your research experience isn't being replaced by the current set of [[Generative AI]] systems.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), ai (6), [[ChatGPT]] (5), generic (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[Generative AI]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** such as (2), imagine (1)
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
 
-#### The ethics of using AI in research
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-research-projects/the-ethics-of-using-ai-in-research?u=76281980)
+#### [The ethics of using AI in research](https://www.linkedin.com/learning/using-ai-in-research-projects/the-ethics-of-using-ai-in-research?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-ai-in-research-projects/the-ethics-of-using-ai-in-research?u=76281980&t=0)** Before we close our discussion of using AI for research projects, it's important to talk for a moment about the ethics of all of this.
+> **[0:00](https://www.linkedin.com/learning/using-ai-in-research-projects/the-ethics-of-using-ai-in-research?u=76281980&t=0)** Before we close our discussion of using AI for research projects, it's important to talk for a moment about the [[Ethics]] of all of this.
 >
 > **[0:08](https://www.linkedin.com/learning/using-ai-in-research-projects/the-ethics-of-using-ai-in-research?u=76281980&t=8)** Earlier on, we talked about corporate rules.
 >
@@ -540,13 +530,13 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/using-ai-in-research-projects/the-ethics-of-using-ai-in-research?u=76281980&t=43)** And whether or not it goes into the learning model, don't explicitly talk about your business, mention your business by name, or talk about anything even remotely confidential.
 >
-> **[0:54](https://www.linkedin.com/learning/using-ai-in-research-projects/the-ethics-of-using-ai-in-research?u=76281980&t=54)** Be open with your company or your clients about how you're using generative AI.
+> **[0:54](https://www.linkedin.com/learning/using-ai-in-research-projects/the-ethics-of-using-ai-in-research?u=76281980&t=54)** Be open with your company or your clients about how you're using [[Generative AI]].
 >
 > **[1:00](https://www.linkedin.com/learning/using-ai-in-research-projects/the-ethics-of-using-ai-in-research?u=76281980&t=60)** And if you have to hide that the text that you're providing was generated by an AI source, then you shouldn't be using it.
 >
 > **[1:06](https://www.linkedin.com/learning/using-ai-in-research-projects/the-ethics-of-using-ai-in-research?u=76281980&t=66)** Discuss when it might be okay to anonymize your inputs with your company or your clients and describe how you'll do this.
 >
-> **[1:14](https://www.linkedin.com/learning/using-ai-in-research-projects/the-ethics-of-using-ai-in-research?u=76281980&t=74)** And don't take AI at its word.
+> **[1:14](https://www.linkedin.com/learning/using-ai-in-research-projects/the-ethics-of-using-ai-in-research?u=76281980&t=74)** And don't take AI at its [[Microsoft Word|word]].
 >
 > **[1:16](https://www.linkedin.com/learning/using-ai-in-research-projects/the-ethics-of-using-ai-in-research?u=76281980&t=76)** Every company that offers AI as a resource to you also provides it with a big caveat, namely that it may be wrong.
 >
@@ -556,7 +546,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), business (3), [[Ethics]] (1), web (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Ethics]] (1), [[Generative AI]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we talked about (1)
 > **Analogies:** just like (1)
@@ -567,8 +557,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The future of AI and research
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-research-projects/the-future-of-ai-and-research?u=76281980)
+#### [The future of AI and research](https://www.linkedin.com/learning/using-ai-in-research-projects/the-future-of-ai-and-research?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -578,7 +567,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/using-ai-in-research-projects/the-future-of-ai-and-research?u=76281980&t=8)** Every month, if not nearly every week, there is some new feature or capability available to us.
 >
-> **[0:13](https://www.linkedin.com/learning/using-ai-in-research-projects/the-future-of-ai-and-research?u=76281980&t=13)** So start playing personally with free tools from OpenAI, Microsoft, and Google.
+> **[0:13](https://www.linkedin.com/learning/using-ai-in-research-projects/the-future-of-ai-and-research?u=76281980&t=13)** So start playing personally with free tools from OpenAI, [[Microsoft]], and [[Google]].
 >
 > **[0:18](https://www.linkedin.com/learning/using-ai-in-research-projects/the-future-of-ai-and-research?u=76281980&t=18)** Some of these tools or features may be in beta.
 >
@@ -602,7 +591,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), feature (1), [[Microsoft]] (1), [[Google]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Google]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Warnings:** note that (1)

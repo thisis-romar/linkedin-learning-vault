@@ -81,14 +81,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of rapid migration
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/overview-of-rapid-migration?u=76281980)
+#### [Overview of rapid migration](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/overview-of-rapid-migration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/overview-of-rapid-migration?u=76281980&t=0)** - [Instructor] The ability to move applications in data from traditional systems to the cloud has been a challenge since cloud computing first came onto the scene over 10 years ago, the challenges have been solely overcome as enterprises, partly motivated by the pandemic have looked for a way to remove obstacles to do migration at scale.
+> **[0:00](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/overview-of-rapid-migration?u=76281980&t=0)** - [Instructor] The ability to move applications in data from traditional systems to the cloud has been a challenge since [[Cloud Computing]] first came onto the scene over 10 years ago, the challenges have been solely overcome as enterprises, partly motivated by the pandemic have looked for a way to remove obstacles to do migration at scale.
 >
-> **[0:18](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/overview-of-rapid-migration?u=76281980&t=18)** Hi I'm Dave Linthicum internationally known cloud expert and consultant in this LinkedIn learning course.
+> **[0:18](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/overview-of-rapid-migration?u=76281980&t=18)** Hi I'm Dave Linthicum internationally known cloud expert and consultant in this [[LinkedIn]] learning course.
 >
 > **[0:24](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/overview-of-rapid-migration?u=76281980&t=24)** I'll use pragmatic examples and explain processes to help you gain an understanding of the steps to undertake for a successful rapid cloud migration the first time.
 >
@@ -96,15 +95,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), data (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (1), [[LinkedIn]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/what-you-should-know?u=76281980&t=0)** - [Instructor] In order to get the most out of this course, you should have an understanding of enterprise architecture, both traditional and cloud-based systems, and it's helpful to understand the basics of computing, including compute, storage, and networking.
+> **[0:00](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/what-you-should-know?u=76281980&t=0)** - [Instructor] In order to get the most out of this course, you should have an understanding of [[Enterprise Architecture]], both traditional and cloud-based systems, and it's helpful to understand the basics of computing, including compute, storage, and networking.
 >
 > **[0:14](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/what-you-should-know?u=76281980&t=14)** It's also helpful to have an understanding of other more advanced topics, including security and governance.
 >
@@ -112,17 +110,16 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/what-you-should-know?u=76281980&t=26)** If you're not yet comfortable around some of the topics mentioned, I suggest you review one, two, or all three of the following courses.
 >
-> **[0:34](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/what-you-should-know?u=76281980&t=34)** Cloud architecture core concepts, cloud security planning, learning cloud computing, cloud governance.
+> **[0:34](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/what-you-should-know?u=76281980&t=34)** Cloud architecture core concepts, [[Cloud Security]] planning, learning [[Cloud Computing]], cloud governance.
 >
 > **[0:41](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/what-you-should-know?u=76281980&t=41)** These are in my course catalog and join me back here.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), [[Security]] (2), [[Enterprise Architecture]] (1)
+> **Frameworks & Libraries:** [[Enterprise Architecture]] (1), [[Cloud Security]] (1), [[Cloud Computing]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### What defines a crisis?
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/what-defines-a-crisis?u=76281980)
+#### [What defines a crisis?](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/what-defines-a-crisis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -136,7 +133,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/what-defines-a-crisis?u=76281980&t=14)** In the case of the pandemic, we saw that some businesses grew rapidly such as delivery services, others such as travel contracted.
 >
-> **[0:22](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/what-defines-a-crisis?u=76281980&t=22)** This means that IT services must quickly change and cloud computing is typically the center of that change.
+> **[0:22](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/what-defines-a-crisis?u=76281980&t=22)** This means that IT services must quickly change and [[Cloud Computing]] is typically the center of that change.
 >
 > **[0:27](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/what-defines-a-crisis?u=76281980&t=27)** While we follow laws, personally, businesses also have to follow laws within the countries they are operating while the changes in laws have little effect on IT.
 >
@@ -156,7 +153,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), data (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (2)
 > **Analogies:** such as (3), for example (2)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
@@ -166,8 +163,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding when to use rapid migration
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/understanding-when-to-use-rapid-migration?u=76281980)
+#### [Understanding when to use rapid migration](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/understanding-when-to-use-rapid-migration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -193,7 +189,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/understanding-when-to-use-rapid-migration?u=76281980&t=51)** Speed or the compression of time for rapid versus normal delivery.
 >
-> **[0:56](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/understanding-when-to-use-rapid-migration?u=76281980&t=56)** Complexity or the number of applications and databases we're looking to move as well as platforms and other technical factors.
+> **[0:56](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/understanding-when-to-use-rapid-migration?u=76281980&t=56)** Complexity or the number of applications and [[Databases]] we're looking to move as well as platforms and other technical factors.
 >
 > **[1:04](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/understanding-when-to-use-rapid-migration?u=76281980&t=64)** Finally, the current or the as-is state of how all the current applications and databases are designed, and that's how easy will they be to move to Cloud-based platforms?
 >
@@ -259,15 +255,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), cloud (6), [[Databases]] (4), product (1), data (1)
+> **Frameworks & Libraries:** [[Databases]] (4)
 > **Analogies:** such as (7), for example (2)
 > **Definitions:** is a  (3), is an  (1), means that (1)
 > **CLI Commands:** make (2), find (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding the risks of moving to the cloud quickly
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/understanding-the-risks-of-moving-to-the-cloud-quickly?u=76281980)
+#### [Understanding the risks of moving to the cloud quickly](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/understanding-the-risks-of-moving-to-the-cloud-quickly?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -299,7 +294,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/understanding-the-risks-of-moving-to-the-cloud-quickly?u=76281980&t=110)** This is an important process, considering that while security will deny access, governance limits access to specific criteria policies, such as time of day or the amount of compute resources that may be leveraged.
 >
-> **[2:03](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/understanding-the-risks-of-moving-to-the-cloud-quickly?u=76281980&t=123)** The types of governance include resource governance, or the ability to place access restrictions around resources, such as storage, compute, and databases, service governance, or specific micro or regular services that may be combined as part of an application, such as services that do a credit check that may be a part of five or more applications, compliance, or the ability to limit access based on legal compliance issues, and finally, directory integration, or the ability to integrate directories between security and governance systems, allowing them to communicate one to another.
+> **[2:03](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/understanding-the-risks-of-moving-to-the-cloud-quickly?u=76281980&t=123)** The types of governance include resource governance, or the ability to place access restrictions around resources, such as storage, compute, and [[Databases]], service governance, or specific micro or regular services that may be combined as part of an application, such as services that do a credit check that may be a part of five or more applications, compliance, or the ability to limit access based on [[Legal Compliance]] issues, and finally, directory integration, or the ability to integrate directories between security and governance systems, allowing them to communicate one to another.
 >
 > **[2:36](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/understanding-the-risks-of-moving-to-the-cloud-quickly?u=76281980&t=156)** You also need to consider culture and talent.
 >
@@ -307,20 +302,19 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/understanding-the-risks-of-moving-to-the-cloud-quickly?u=76281980&t=165)** Indeed, if the teams are not ready to move rapidly, nor do they have the skills needed, then the rapid migration project won't have a chance of success.
 >
-> **[2:54](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/understanding-the-risks-of-moving-to-the-cloud-quickly?u=76281980&t=174)** Leveraging a rapid cloud migration approach means that organizations needs to be streamlined to handle the agile processes that need to take place.
+> **[2:54](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/understanding-the-risks-of-moving-to-the-cloud-quickly?u=76281980&t=174)** Leveraging a rapid cloud migration approach means that organizations needs to be streamlined to handle the [[Agile Development|agile]] processes that need to take place.
 >
 > **[3:01](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/understanding-the-risks-of-moving-to-the-cloud-quickly?u=76281980&t=181)** Thus, organizations that are more bureaucratic or overly structured typically fail at rapid cloud migration, or as less structured and more flat organizations that delegate responsibilities equally throughout the migration teams tend to succeed at rapid cloud migration.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), cloud (5), business (2), teams (2), database (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[Legal Compliance]] (1), [[Agile Development|Agile]] (1)
 > **Analogies:** such as (3), for instance (1), for example (1)
 > **Definitions:** means that (1), is an  (1)
 > **CLI Commands:** rails (1)
 > **Speakers:** - [instructor] (1)
 
-#### Rapid public cloud migration
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-public-cloud-migration?u=76281980)
+#### [Rapid public cloud migration](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-public-cloud-migration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -328,11 +322,11 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-public-cloud-migration?u=76281980&t=6)** Here's what to look for in a public cloud provider.
 >
-> **[0:09](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-public-cloud-migration?u=76281980&t=9)** The elasticity or the ability to scale up and scale back as needed, control or the ability to control systems, including provisioning de-provisioning resources, such as storage and compute, productivity, or the ability to be productive in all functions, including development, operations, and data processing agility, or the ability to change resources and services in the cloud, as we need to change them.
+> **[0:09](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-public-cloud-migration?u=76281980&t=9)** The elasticity or the ability to scale up and scale back as needed, control or the ability to control systems, including provisioning de-provisioning resources, such as storage and compute, productivity, or the ability to be productive in all functions, including development, operations, and [[Data Processing]] agility, or the ability to change resources and services in the cloud, as we need to change them.
 >
 > **[0:33](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-public-cloud-migration?u=76281980&t=33)** And then finally costs the ability to pay per use and minimize cost of migration and operations.
 >
-> **[0:39](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-public-cloud-migration?u=76281980&t=39)** The larger public cloud providers are Amazon web services, Microsoft and Google, but there are others to consider as well, such as IBM and Oracle.
+> **[0:39](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-public-cloud-migration?u=76281980&t=39)** The larger public cloud providers are [[Amazon Web Services (AWS)|Amazon web services]], [[Microsoft]] and [[Google]], but there are others to consider as well, such as IBM and Oracle.
 >
 > **[0:48](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-public-cloud-migration?u=76281980&t=48)** The goal is to find the right fit, not who's the most popular, make sure to consider all public cloud options.
 >
@@ -362,19 +356,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (11), [[Security]] (3), data (2), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Data Processing]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Microsoft]] (1), [[Google]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** such as (2)
 > **Env Vars:** ibm (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Rapid hybrid cloud migration
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-hybrid-cloud-migration?u=76281980)
+#### [Rapid hybrid cloud migration](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-hybrid-cloud-migration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-hybrid-cloud-migration?u=76281980&t=0)** - So if we're doing a rapid migration to a hybrid cloud, what is the process and why would we pick a hybrid cloud ?
+> **[0:00](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-hybrid-cloud-migration?u=76281980&t=0)** - So if we're doing a rapid migration to a [[Hybrid Cloud]], what is the process and why would we pick a hybrid cloud ?
 >
 > **[0:06](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-hybrid-cloud-migration?u=76281980&t=6)** Hybrid clouds are combinations of private and public clouds and there are variations on this including traditional systems, such as mainframes, connected to public clouds.
 >
@@ -390,15 +383,15 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-hybrid-cloud-migration?u=76281980&t=41)** We can put applications and data on private and/or public clouds.
 >
-> **[0:45](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-hybrid-cloud-migration?u=76281980&t=45)** Scalability, we can leverage public clouds as an option.
+> **[0:45](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-hybrid-cloud-migration?u=76281980&t=45)** [[Scalability]], we can leverage public clouds as an option.
 >
 > **[0:48](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-hybrid-cloud-migration?u=76281980&t=48)** As the number of resources are needed increase, then we can leverage this to an almost unlimited capacity.
 >
-> **[0:54](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-hybrid-cloud-migration?u=76281980&t=54)** Cost optimized, you can leverage either private clouds, or public clouds, based on the cost of those resources.
+> **[0:54](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-hybrid-cloud-migration?u=76281980&t=54)** Cost optimized, you can leverage either [[Private Clouds]], or public clouds, based on the cost of those resources.
 >
 > **[1:00](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-hybrid-cloud-migration?u=76281980&t=60)** But there are disadvantages.
 >
-> **[1:02](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-hybrid-cloud-migration?u=76281980&t=62)** Cap-ex, capital expenditures, we need to purchase and maintain your own hardware and software related to your public clouds.
+> **[1:02](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-hybrid-cloud-migration?u=76281980&t=62)** Cap-ex, capital expenditures, we need to purchase and maintain your own [[Hardware]] and software related to your public clouds.
 >
 > **[1:09](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-hybrid-cloud-migration?u=76281980&t=69)** Has a tendency to be complex.
 >
@@ -418,7 +411,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-hybrid-cloud-migration?u=76281980&t=109)** We triage data understanding the data as is or as it exists, and we triage applications understanding the state of the applications as they are.
 >
-> **[1:58](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-hybrid-cloud-migration?u=76281980&t=118)** If you're moving to a private cloud, you need to apply various approaches to either replace, replatform, or refactor applications on private clouds, you need to move data, transfer the data to private cloud storage, you need to establish security, creating a comprehensive security solution for the private cloud, and then establish governance, creating an overreaching governance solution for the private cloud.
+> **[1:58](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-hybrid-cloud-migration?u=76281980&t=118)** If you're moving to a private cloud, you need to apply various approaches to either replace, replatform, or refactor applications on private clouds, you need to move data, transfer the data to private [[Cloud Storage]], you need to establish security, creating a comprehensive security solution for the private cloud, and then establish governance, creating an overreaching governance solution for the private cloud.
 >
 > **[2:21](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-hybrid-cloud-migration?u=76281980&t=141)** You're moving to a public cloud, you need to move applications using various approaches to either replace, replatform, or refactor applications on the public cloud providers.
 >
@@ -426,24 +419,23 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-hybrid-cloud-migration?u=76281980&t=163)** Create an overarching governance solution for the public cloud provider you're leveraging.
 >
-> **[2:49](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-hybrid-cloud-migration?u=76281980&t=169)** When we're operating, we're able to look at things such as private cloud ops, which establish operations for private clouds, public cloud ops, which establishes operations for public clouds, BC/DR (business continuity, disaster recovery), that we need to set up to put processes in place to protect our assets on the private or public clouds, and then SecOps, or security operations, where we're running security, and then GovOps, or governance operations, where we're running the governance systems we just deployed.
+> **[2:49](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-hybrid-cloud-migration?u=76281980&t=169)** When we're operating, we're able to look at things such as private cloud ops, which establish operations for private clouds, public cloud ops, which establishes operations for public clouds, BC/DR (business continuity, disaster recovery), that we need to set up to put processes in place to protect our assets on the private or public clouds, and then SecOps, or [[Security Operations]], where we're running security, and then GovOps, or governance operations, where we're running the governance systems we just deployed.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (17), data (7), [[Hybrid Cloud]] (6), [[Security]] (6), [[Private Clouds]] (4)
+> **Frameworks & Libraries:** [[Hybrid Cloud]] (6), [[Private Clouds]] (4), [[Scalability]] (1), [[Hardware]] (1), [[Cloud Storage]] (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - so (1)
 
-#### Rapid multicloud migration
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-multicloud-migration?u=76281980)
+#### [Rapid multicloud migration](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-multicloud-migration?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-multicloud-migration?u=76281980&t=0)** - [Instructor] Multiclouds are more than one public cloud leveraged, and they could, but don't have to include, a private cloud.
 >
-> **[0:07](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-multicloud-migration?u=76281980&t=7)** Multiclouds are more popular now than hybrid clouds due to the choices they offer in terms of variety of cloud services for different purposes.
+> **[0:07](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-multicloud-migration?u=76281980&t=7)** Multiclouds are more popular now than hybrid clouds due to the choices they offer in terms of variety of [[Cloud Services]] for different purposes.
 >
 > **[0:15](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-multicloud-migration?u=76281980&t=15)** So, what are the considerations if we're doing our rapid migration to a multicloud?
 >
@@ -455,7 +447,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-multicloud-migration?u=76281980&t=33)** Normal transactional operations in between applications and data stores are going to be more complicated and costly.
 >
-> **[0:39](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-multicloud-migration?u=76281980&t=39)** For example, a sales order entry system that's able to update two databases at the same time, it also has the ability to roll back updates that it did not complete.
+> **[0:39](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-multicloud-migration?u=76281980&t=39)** For example, a sales order entry system that's able to update two [[Databases]] at the same time, it also has the ability to roll back updates that it did not complete.
 >
 > **[0:48](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-multicloud-migration?u=76281980&t=48)** So one database does not get updated, the other does not update.
 >
@@ -477,7 +469,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-multicloud-migration?u=76281980&t=99)** They're doing so because of the options that multicloud provides, as well as better processes and tools that are available now.
 >
-> **[1:47](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-multicloud-migration?u=76281980&t=107)** Tools such as AIOps, or AI operations tools, and CMP, or cloud management platforms.
+> **[1:47](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-multicloud-migration?u=76281980&t=107)** Tools such as [[AIOps]], or AI operations tools, and CMP, or cloud management platforms.
 >
 > **[1:54](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-multicloud-migration?u=76281980&t=114)** These come with canned processes that reflect current best practices.
 >
@@ -497,7 +489,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (10), data (5), [[Security]] (2), database (2), application (2)
+> **Frameworks & Libraries:** [[Cloud Services]] (2), [[Databases]] (1), [[AIOps]] (1)
 > **Analogies:** such as (4), for example (2)
 > **Env Vars:** cmp (1)
 > **Definitions:** means that (1)
@@ -509,8 +501,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Good candidates for rapid migration
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/good-candidates-for-rapid-migration?u=76281980)
+#### [Good candidates for rapid migration](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/good-candidates-for-rapid-migration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -548,15 +539,15 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/good-candidates-for-rapid-migration?u=76281980&t=109)** Well-documented code, it's easy to figure out the applications and thus easier to make any modifications to allow it to work on the target cloud.
 >
-> **[1:58](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/good-candidates-for-rapid-migration?u=76281980&t=118)** Cloud platform analog, we're able to find an exact match to the platform from the source server example, running Linux on premises as a direct match to the same Linux OS on a cloud server.
+> **[1:58](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/good-candidates-for-rapid-migration?u=76281980&t=118)** Cloud platform analog, we're able to find an exact match to the platform from the source server example, running [[Linux]] on premises as a direct match to the same Linux OS on a cloud server.
 >
-> **[2:11](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/good-candidates-for-rapid-migration?u=76281980&t=131)** Average to medium complexity there are fewer components such as storage, compute and databases.
+> **[2:11](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/good-candidates-for-rapid-migration?u=76281980&t=131)** Average to medium complexity there are fewer components such as storage, compute and [[Databases]].
 >
 > **[2:16](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/good-candidates-for-rapid-migration?u=76281980&t=136)** So migration will be less complex and thus faster.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), application (4), [[Security]] (3), data (3), [[Linux]] (2)
+> **Frameworks & Libraries:** [[Linux]] (2), [[Databases]] (1)
 > **Analogies:** such as (3), for example (2)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** in the last (1)
@@ -564,8 +555,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Bad candidates for rapid migration
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/bad-candidates-for-rapid-migration?u=76281980)
+#### [Bad candidates for rapid migration](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/bad-candidates-for-rapid-migration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -583,7 +573,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/bad-candidates-for-rapid-migration?u=76281980&t=35)** High security requirements.
 >
-> **[0:36](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/bad-candidates-for-rapid-migration?u=76281980&t=36)** If an application has high security requirements, it's a much higher security risk to move and thus it's not wise to move it and its data rapidly.
+> **[0:36](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/bad-candidates-for-rapid-migration?u=76281980&t=36)** If an application has high security requirements, it's a much higher [[Security Risk]] to move and thus it's not wise to move it and its data rapidly.
 >
 > **[0:46](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/bad-candidates-for-rapid-migration?u=76281980&t=46)** Mistakes could cost the company millions in lost revenue and PR issues.
 >
@@ -593,7 +583,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/bad-candidates-for-rapid-migration?u=76281980&t=59)** No Cloud platform analog, meaning that we can't find a matching platform in the Cloud.
 >
-> **[1:03](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/bad-candidates-for-rapid-migration?u=76281980&t=63)** For instance, most Clouds don't support mainframe operating systems, things that are typically a problem here include older databases, older development platforms, on off systems and most things that have not reached level in the market where the Cloud providers are looking to provide a matching service.
+> **[1:03](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/bad-candidates-for-rapid-migration?u=76281980&t=63)** For instance, most Clouds don't support mainframe operating systems, things that are typically a problem here include older [[Databases]], older development platforms, on off systems and most things that have not reached level in the market where the Cloud providers are looking to provide a matching service.
 >
 > **[1:20](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/bad-candidates-for-rapid-migration?u=76281980&t=80)** High complexity.
 >
@@ -609,13 +599,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), application (4), data (3), [[Security]] (3), database (1)
+> **Frameworks & Libraries:** [[Security Risk]] (1), [[Databases]] (1)
 > **Analogies:** for example (1), for instance (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - applications (1)
 
-#### Leveraging workload categories for rapid migration
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/leveraging-workload-categories-for-rapid-migration?u=76281980)
+#### [Leveraging workload categories for rapid migration](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/leveraging-workload-categories-for-rapid-migration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -633,13 +622,13 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/leveraging-workload-categories-for-rapid-migration?u=76281980&t=59)** When replacing an application, we have to replace them with something.
 >
-> **[1:04](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/leveraging-workload-categories-for-rapid-migration?u=76281980&t=64)** In most instances, it's going to be a SaaS cloud, or a software as a service cloud.
+> **[1:04](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/leveraging-workload-categories-for-rapid-migration?u=76281980&t=64)** In most instances, it's going to be a [[SaaS]] cloud, or a [[SaaS|software as a service]] cloud.
 >
 > **[1:08](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/leveraging-workload-categories-for-rapid-migration?u=76281980&t=68)** For example, replacing a custom-built CRM system, customer relationship management system, running on a legacy platform with [salesforce.com](https://salesforce.com), a software as a service system.
 >
 > **[1:19](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/leveraging-workload-categories-for-rapid-migration?u=76281980&t=79)** This can be done rapidly and with lower risk and costs.
 >
-> **[1:24](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/leveraging-workload-categories-for-rapid-migration?u=76281980&t=84)** In some instances, we may build cloud-native applications with similar or improved characteristics and features.
+> **[1:24](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/leveraging-workload-categories-for-rapid-migration?u=76281980&t=84)** In some instances, we may build [[Cloud-Native Applications]] with similar or improved characteristics and features.
 >
 > **[1:31](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/leveraging-workload-categories-for-rapid-migration?u=76281980&t=91)** However, considering that this is about rapid migration, that's typically not something attempted when speed is a requirement.
 >
@@ -673,7 +662,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (13), cloud (11), [[SaaS|Software as a service]] (2), data (2), teams (1)
+> **Frameworks & Libraries:** [[SaaS|Software as a service]] (2), [[SaaS]] (1), [[Cloud-Native Applications]] (1)
 > **Definitions:** means that (3), is a  (2), refers to (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -687,8 +676,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Leveraging public clouds in a rapid migration
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/leveraging-public-clouds-in-a-rapid-migration?u=76281980)
+#### [Leveraging public clouds in a rapid migration](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/leveraging-public-clouds-in-a-rapid-migration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -698,13 +686,13 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/leveraging-public-clouds-in-a-rapid-migration?u=76281980&t=22)** Here are some of the specifics about why public clouds are successful candidates for rapid migration.
 >
-> **[0:28](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/leveraging-public-clouds-in-a-rapid-migration?u=76281980&t=28)** Let's talk about elasticity and scalability.
+> **[0:28](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/leveraging-public-clouds-in-a-rapid-migration?u=76281980&t=28)** Let's talk about elasticity and [[Scalability]].
 >
 > **[0:30](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/leveraging-public-clouds-in-a-rapid-migration?u=76281980&t=30)** This means you can scale up to any level of processing or storage at a moment's notice.
 >
 > **[0:36](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/leveraging-public-clouds-in-a-rapid-migration?u=76281980&t=36)** And conversely, you can dial back the need for compute and storage once they're not needed.
 >
-> **[0:41](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/leveraging-public-clouds-in-a-rapid-migration?u=76281980&t=41)** With public cloud computing systems, you only pay for the resources you use.
+> **[0:41](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/leveraging-public-clouds-in-a-rapid-migration?u=76281980&t=41)** With public [[Cloud Computing]] systems, you only pay for the resources you use.
 >
 > **[0:46](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/leveraging-public-clouds-in-a-rapid-migration?u=76281980&t=46)** So you expand your costs as you expand your resources that you're leveraging.
 >
@@ -730,7 +718,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/leveraging-public-clouds-in-a-rapid-migration?u=76281980&t=122)** You have access to a dashboard that allows you the ability to add resources, remove resources, and change resources as needed at a moment's notice.
 >
-> **[2:11](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/leveraging-public-clouds-in-a-rapid-migration?u=76281980&t=131)** There are no need to purchase hardware and software and avoiding those waves of procurement cycles and installing things in your own data center, means that you're liberated from having to deal with these resources directly.
+> **[2:11](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/leveraging-public-clouds-in-a-rapid-migration?u=76281980&t=131)** There are no need to purchase [[Hardware]] and software and avoiding those waves of procurement cycles and installing things in your own data center, means that you're liberated from having to deal with these resources directly.
 >
 > **[2:22](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/leveraging-public-clouds-in-a-rapid-migration?u=76281980&t=142)** This agility is typically what makes public cloud computing so valuable, and it enables you to move quickly into the cloud using rapid migration.
 >
@@ -750,7 +738,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (12), [[Scalability]] (1), application (1), feature (1), database (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (6), [[Scalability]] (1), [[Hardware]] (1)
 > **Definitions:** means that (3), is a  (1)
 > **Analogies:** such as (2), for example (1)
 > **Prerequisites:** configure (1), set up (1)
@@ -758,12 +746,11 @@ created: 2026-05-02
 > **Tools:** notion (1)
 > **Speakers:** - [instructor] (1)
 
-#### Leveraging hybrid clouds in a rapid migration
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/leveraging-hybrid-clouds-in-a-rapid-migration?u=76281980)
+#### [Leveraging hybrid clouds in a rapid migration](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/leveraging-hybrid-clouds-in-a-rapid-migration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/leveraging-hybrid-clouds-in-a-rapid-migration?u=76281980&t=0)** - [Instructor] Hybrid clouds are traditionally defined as paired private clouds and public clouds.
+> **[0:00](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/leveraging-hybrid-clouds-in-a-rapid-migration?u=76281980&t=0)** - [Instructor] Hybrid clouds are traditionally defined as paired [[Private Clouds]] and public clouds.
 >
 > **[0:05](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/leveraging-hybrid-clouds-in-a-rapid-migration?u=76281980&t=5)** However, over the years, it's been defined in different ways to also include traditional systems that are paired with public clouds as well.
 >
@@ -771,7 +758,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/leveraging-hybrid-clouds-in-a-rapid-migration?u=76281980&t=16)** Hybrid clouds are typically leveraged to provide a choice between on-premise resources, a private cloud or a traditional system, and public cloud resources.
 >
-> **[0:26](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/leveraging-hybrid-clouds-in-a-rapid-migration?u=76281980&t=26)** In the early days of cloud computing, it was considered desirable because in many instances corporations and governments weren't willing to move most of their applications in data to a public cloud and they wanted the choice.
+> **[0:26](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/leveraging-hybrid-clouds-in-a-rapid-migration?u=76281980&t=26)** In the early days of [[Cloud Computing]], it was considered desirable because in many instances corporations and governments weren't willing to move most of their applications in data to a public cloud and they wanted the choice.
 >
 > **[0:39](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/leveraging-hybrid-clouds-in-a-rapid-migration?u=76281980&t=39)** Today, hybrid clouds are more about pragmatic hybrid clouds or mixing traditional systems that exist on premises with that and public cloud resources.
 >
@@ -785,24 +772,23 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/leveraging-hybrid-clouds-in-a-rapid-migration?u=76281980&t=92)** However, those applications in datasets still need to work and play with existing traditional applications that may remain on premise.
 >
-> **[1:40](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/leveraging-hybrid-clouds-in-a-rapid-migration?u=76281980&t=100)** The hybrid cloud model is a good option to support that requirement.
+> **[1:40](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/leveraging-hybrid-clouds-in-a-rapid-migration?u=76281980&t=100)** The [[Hybrid Cloud]] model is a good option to support that requirement.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (9), [[Private Clouds]] (1), data (1), [[Hybrid Cloud]] (1)
+> **Frameworks & Libraries:** [[Private Clouds]] (1), [[Cloud Computing]] (1), [[Hybrid Cloud]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Leveraging multicloud in a rapid migration
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/leveraging-multicloud-in-a-rapid-migration?u=76281980)
+#### [Leveraging multicloud in a rapid migration](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/leveraging-multicloud-in-a-rapid-migration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/leveraging-multicloud-in-a-rapid-migration?u=76281980&t=0)** - [Instructor] Multiclouds can be defined as two or more major cloud brands, sometimes combined with private clouds, and also traditional systems such as on-premise systems.
+> **[0:00](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/leveraging-multicloud-in-a-rapid-migration?u=76281980&t=0)** - [Instructor] Multiclouds can be defined as two or more major cloud brands, sometimes combined with [[Private Clouds]], and also traditional systems such as on-premise systems.
 >
 > **[0:10](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/leveraging-multicloud-in-a-rapid-migration?u=76281980&t=10)** The core idea is to provide platform choices for those leveraging clouds, as well as migrating to clouds.
 >
-> **[0:16](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/leveraging-multicloud-in-a-rapid-migration?u=76281980&t=16)** For example, we have a choice of different development platforms, database systems, storage systems, compute platforms, from all major cloud brands that are combined to create a multicloud.
+> **[0:16](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/leveraging-multicloud-in-a-rapid-migration?u=76281980&t=16)** For example, we have a choice of different development platforms, [[Database Systems]], storage systems, compute platforms, from all major cloud brands that are combined to create a multicloud.
 >
 > **[0:28](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/leveraging-multicloud-in-a-rapid-migration?u=76281980&t=28)** So the core advantage is choice, however, it comes at a cost.
 >
@@ -822,18 +808,17 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/leveraging-multicloud-in-a-rapid-migration?u=76281980&t=93)** Management and monitoring and other operations are also more costly, considering that we need to find tools that are able to span all clouds, all while have to leveraging native tool on each cloud, which means we're dealing with more complexity and more types of talent required.
 >
-> **[1:48](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/leveraging-multicloud-in-a-rapid-migration?u=76281980&t=108)** However, the advantages of having a choice of different cloud services to support the needs of the applications in the business can be too compelling to pass up.
+> **[1:48](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/leveraging-multicloud-in-a-rapid-migration?u=76281980&t=108)** However, the advantages of having a choice of different [[Cloud Services]] to support the needs of the applications in the business can be too compelling to pass up.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), [[Security]] (3), [[Private Clouds]] (1), database (1), management (1)
+> **Frameworks & Libraries:** [[Private Clouds]] (1), [[Database Systems]] (1), [[Cloud Services]] (1)
 > **CLI Commands:** make (2), find (2)
 > **Analogies:** such as (1), for example (1)
 > **Prerequisites:** set up (1), required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Leveraging nontraditional clouds in a rapid migration
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/leveraging-nontraditional-clouds-in-a-rapid-migration?u=76281980)
+#### [Leveraging nontraditional clouds in a rapid migration](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/leveraging-nontraditional-clouds-in-a-rapid-migration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -857,7 +842,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (3), data (1), business (1)
 > **Env Vars:** msp (1), colo (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
@@ -867,12 +851,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AWS migration tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/aws-migration-tools?u=76281980)
+#### [AWS migration tools](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/aws-migration-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/aws-migration-tools?u=76281980&t=0)** - [Instructor] Okay, let's look at the migration tools for Amazon web services or AWS.
+> **[0:00](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/aws-migration-tools?u=76281980&t=0)** - [Instructor] Okay, let's look at the migration tools for [[Amazon Web Services (AWS)|Amazon web services]] or AWS.
 >
 > **[0:05](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/aws-migration-tools?u=76281980&t=5)** Now notice here these are the recent visited services.
 >
@@ -902,7 +885,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/aws-migration-tools?u=76281980&t=84)** And really kind of assess the, as is state, as to where you need to go.
 >
-> **[1:27](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/aws-migration-tools?u=76281980&t=87)** We can then assess the needs of things found in discovery in the sizing of the system or get EC2 which are compute instances recommendations.
+> **[1:27](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/aws-migration-tools?u=76281980&t=87)** We can then assess the needs of things found in discovery in the sizing of the system or get [[Amazon EC2|EC2]] which are compute instances recommendations.
 >
 > **[1:39](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/aws-migration-tools?u=76281980&t=99)** So we can discover what's there.
 >
@@ -996,13 +979,13 @@ created: 2026-05-02
 >
 > **[5:34](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/aws-migration-tools?u=76281980&t=334)** And so, in other words you don't have to create this yourself.
 >
-> **[5:37](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/aws-migration-tools?u=76281980&t=337)** AWS has done so for you, they can assist you in moving information and moving applications, you know, in between on-premise storage systems and compute servers into compute servers and storage systems and databases that exist on the AWS cloud computing platform.
+> **[5:37](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/aws-migration-tools?u=76281980&t=337)** AWS has done so for you, they can assist you in moving information and moving applications, you know, in between on-premise storage systems and compute servers into compute servers and storage systems and [[Databases]] that exist on the AWS [[Cloud Computing]] platform.
 >
 > **[5:51](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/aws-migration-tools?u=76281980&t=351)** Anyway, this is just to look at this particular public cloud in AWS, and the tools that they have.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), aws (9), cloud (5), [[Amazon Web Services (AWS)|Amazon web services]] (4), database (3)
+> **Frameworks & Libraries:** [[Amazon Web Services (AWS)|Amazon web services]] (4), [[Amazon EC2|Ec2]] (2), [[Databases]] (1), [[Cloud Computing]] (1)
 > **Env Vars:** aws (9), ec2 (2), diy (1), url (1)
 > **CLI Commands:** aws (9), find (1), make (1)
 > **Definitions:** in other words (2), stands for (1), is a  (1)
@@ -1011,14 +994,13 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Warnings:** keep in mind (1)
 
-#### Microsoft Azure migration tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/microsoft-azure-migration-tools?u=76281980)
+#### [Microsoft Azure migration tools](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/microsoft-azure-migration-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/microsoft-azure-migration-tools?u=76281980&t=0)** - [Instructor] Okay, let's look at the migration services within Microsoft Azure.
+> **[0:00](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/microsoft-azure-migration-tools?u=76281980&t=0)** - [Instructor] Okay, let's look at the migration services within [[Microsoft Azure]].
 >
-> **[0:04](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/microsoft-azure-migration-tools?u=76281980&t=4)** And again, very much like AWS, you can see the Azure services listed here, IOT Hub, things like that.
+> **[0:04](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/microsoft-azure-migration-tools?u=76281980&t=4)** And again, very much like AWS, you can see the [[Microsoft Azure|Azure]] services listed here, [[IoT]] Hub, things like that.
 >
 > **[0:12](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/microsoft-azure-migration-tools?u=76281980&t=12)** These are services that we just recently accessed, by the way.
 >
@@ -1030,7 +1012,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/microsoft-azure-migration-tools?u=76281980&t=38)** So as you can see, if you look at the AWS demo that was done in the other video in this one, they have very similar capabilities, and you can see so probably more when we go to Azure Migrate, and migrate your on-premise data center to Azure.
 >
-> **[0:53](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/microsoft-azure-migration-tools?u=76281980&t=53)** We can discover systems, we can access on-premise systems, figure out what they are, do a triage on the applications and then move them automatically to the Microsoft public cloud.
+> **[0:53](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/microsoft-azure-migration-tools?u=76281980&t=53)** We can discover systems, we can access on-premise systems, figure out what they are, do a triage on the applications and then move them automatically to the [[Microsoft]] public cloud.
 >
 > **[1:05](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/microsoft-azure-migration-tools?u=76281980&t=65)** And so let's look at each one of these things.
 >
@@ -1104,7 +1086,7 @@ created: 2026-05-02
 >
 > **[4:37](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/microsoft-azure-migration-tools?u=76281980&t=277)** Look at the different tools.
 >
-> **[4:38](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/microsoft-azure-migration-tools?u=76281980&t=278)** For example, if we're dealing with Windows, Linux and SQL Server, you know, those (mumbles) we're migrating were SQL Server only.
+> **[4:38](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/microsoft-azure-migration-tools?u=76281980&t=278)** For example, if we're dealing with [[Windows]], [[Linux]] and [[Microsoft SQL Server|SQL Server]], you know, those (mumbles) we're migrating were SQL Server only.
 >
 > **[4:44](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/microsoft-azure-migration-tools?u=76281980&t=284)** In other words, migrating from an existing, (mumbles) Microsoft (mumbles) to ones that exists in the cloud.
 >
@@ -1128,7 +1110,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (16), [[Microsoft Azure|Azure]] (8), data (8), [[Microsoft]] (5), aws (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Microsoft]] (5), [[Microsoft Azure]] (2), [[Microsoft SQL Server|Sql server]] (2), [[IoT]] (1)
 > **CLI Commands:** make (5), aws (3), find (3)
 > **Env Vars:** aws (3), sql (2), iot (1), csv (1)
 > **UI Navigation:** go to (2), click on (1)
@@ -1142,8 +1124,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Rapid workload triage
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-workload-triage?u=76281980)
+#### [Rapid workload triage](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-workload-triage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1175,17 +1156,15 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-workload-triage?u=76281980&t=82)** Retire and replace are also useful for rapid migrations, since they take applications out of play and thus, don't need to move.
 >
-> **[1:29](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-workload-triage?u=76281980&t=89)** Or they are replaced, typically by a software as a service system version of a traditional application.
+> **[1:29](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-workload-triage?u=76281980&t=89)** Or they are replaced, typically by a [[SaaS|software as a service]] system version of a traditional application.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (3), application (3)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Rapid migration tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-migration-tools?u=76281980)
+#### [Rapid migration tools](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-migration-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1195,7 +1174,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-migration-tools?u=76281980&t=23)** The tool should have the following attributes and be able to provide repeatable and consistent value.
 >
-> **[0:29](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-migration-tools?u=76281980&t=29)** The tool should provide quality assurance, including automated testing, deployment and bug reporting and resolution, the ability to leverage automation or the ability to remove humans from doing all of the migration work.
+> **[0:29](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-migration-tools?u=76281980&t=29)** The tool should provide [[Quality Assurance]], including automated testing, deployment and bug reporting and resolution, the ability to leverage automation or the ability to remove humans from doing all of the migration work.
 >
 > **[0:41](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-migration-tools?u=76281980&t=41)** And finally, the ability to work at both data and process levels.
 >
@@ -1215,27 +1194,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), cloud (1), [[Quality Assurance]] (1), [[Automation]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Quality Assurance]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Rapid migration and DevOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-migration-and-devops?u=76281980)
+#### [Rapid migration and DevOps](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-migration-and-devops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-migration-and-devops?u=76281980&t=0)** - [Instructor] In this video, we'll explore the considerations of DevOps as part of your rapid cloud migration.
+> **[0:00](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-migration-and-devops?u=76281980&t=0)** - [Instructor] In this video, we'll explore the considerations of [[DevOps]] as part of your rapid cloud migration.
 >
 > **[0:06](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-migration-and-devops?u=76281980&t=6)** This is essential for building and development process and tool chain that allows for success of the cloud in your enterprise.
 >
-> **[0:13](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-migration-and-devops?u=76281980&t=13)** DevOps, or development and operation, and when you add security, the mix sometimes is called DevSecOps.
+> **[0:13](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-migration-and-devops?u=76281980&t=13)** DevOps, or development and operation, and when you add security, the mix sometimes is called [[DevSecOps]].
 >
 > **[0:19](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-migration-and-devops?u=76281980&t=19)** For the purposes of this course, we'll be using DevSecOps and DevOps interchangeably, and when these two terms, DevOps and security goals, are combined, it creates ultimately things such as a cultural shift that encourages communication and collaboration between developers and operations.
 >
-> **[0:37](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-migration-and-devops?u=76281980&t=37)** This allows you to build better quality software more quickly with better reliability, a crucial component of continuous delivery, bringing Agile to infrastructure, or it's the automation of Agile as a method, a change from reviews, approval, and handoffs to collaboration, automation, and feedback loops, provide better quality by automating many of the core processes such as development, testing, and deployment.
+> **[0:37](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-migration-and-devops?u=76281980&t=37)** This allows you to build better quality software more quickly with better reliability, a crucial component of [[Continuous Delivery (CD)|continuous delivery]], bringing [[Agile Development|Agile]] to infrastructure, or it's the automation of Agile as a method, a change from reviews, approval, and handoffs to collaboration, automation, and feedback loops, provide better quality by automating many of the core processes such as development, testing, and deployment.
 >
 > **[1:02](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-migration-and-devops?u=76281980&t=62)** In terms of rapid migration in DevSecOps and DevOps, a core question is do we set up DevSecOps before, during, or after the migration if it currently doesn't exist?
 >
@@ -1251,14 +1229,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (9), cloud (4), [[DevSecOps]] (4), [[Automation]] (3), [[Security]] (2)
+> **Frameworks & Libraries:** [[DevOps]] (9), [[DevSecOps]] (4), [[Agile Development|Agile]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (1)
 > **Analogies:** such as (2)
 > **Prerequisites:** set up (2)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a rapid migration process
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/creating-a-rapid-migration-process?u=76281980)
+#### [Creating a rapid migration process](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/creating-a-rapid-migration-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1276,11 +1253,11 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/creating-a-rapid-migration-process?u=76281980&t=54)** And the data is correct as well.
 >
-> **[0:57](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/creating-a-rapid-migration-process?u=76281980&t=57)** Established cloud operations or cloud ops and security operations are SecOps.
+> **[0:57](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/creating-a-rapid-migration-process?u=76281980&t=57)** Established cloud operations or cloud ops and [[Security Operations]] are SecOps.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), data (3), [[Security]] (2), cloud (2), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Security Operations]] (1)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1289,8 +1266,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting up to 100 applications and data sets migrated daily
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/getting-up-to-100-applications-and-data-sets-migrated-daily?u=76281980)
+#### [Getting up to 100 applications and data sets migrated daily](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/getting-up-to-100-applications-and-data-sets-migrated-daily?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1298,13 +1274,13 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/getting-up-to-100-applications-and-data-sets-migrated-daily?u=76281980&t=7)** This will include how to establish a process, tooling, and other factors that will drive success.
 >
-> **[0:13](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/getting-up-to-100-applications-and-data-sets-migrated-daily?u=76281980&t=13)** The key questions that need answers include: have you established a Cloud Business Office, or a CBO, to deal with rapid migration issues?
+> **[0:13](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/getting-up-to-100-applications-and-data-sets-migrated-daily?u=76281980&t=13)** The key questions that need answers include: have you established a Cloud Business [[Microsoft Office|Office]], or a CBO, to deal with rapid migration issues?
 >
 > **[0:21](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/getting-up-to-100-applications-and-data-sets-migrated-daily?u=76281980&t=21)** The CBO manages all of the business issues of moving to the cloud.
 >
 > **[0:26](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/getting-up-to-100-applications-and-data-sets-migrated-daily?u=76281980&t=26)** This increases cloud service negotiation, onboarding, and acquiring tools, hiring consultants and reporting the business around costs that are being incurred and ongoing.
 >
-> **[0:37](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/getting-up-to-100-applications-and-data-sets-migrated-daily?u=76281980&t=37)** Because we're rapidly onboarding public clouds for use in migration, as well as tooling and other services needed, we'll need the business office to set up and obtain these products and services quickly.
+> **[0:37](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/getting-up-to-100-applications-and-data-sets-migrated-daily?u=76281980&t=37)** Because we're rapidly onboarding public clouds for use in migration, as well as tooling and other services needed, we'll need the business office to set up and obtain these [[Microsoft Products|products]] and services quickly.
 >
 > **[0:48](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/getting-up-to-100-applications-and-data-sets-migrated-daily?u=76281980&t=48)** Have you established a business case for your rapid migration?
 >
@@ -1312,7 +1288,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/getting-up-to-100-applications-and-data-sets-migrated-daily?u=76281980&t=62)** Have your applications, infrastructure, security, and operations been assessed against the target cloud providers you're looking to leverage?
 >
-> **[1:08](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/getting-up-to-100-applications-and-data-sets-migrated-daily?u=76281980&t=68)** Do you have a clear plan as to how we're moving from the existing state, typically on-premises systems, to the cloud, typically a public cloud such as Amazon Web Services, Microsoft or Google?
+> **[1:08](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/getting-up-to-100-applications-and-data-sets-migrated-daily?u=76281980&t=68)** Do you have a clear plan as to how we're moving from the existing state, typically on-premises systems, to the cloud, typically a public cloud such as [[Amazon Web Services (AWS)|Amazon Web Services]], [[Microsoft]] or [[Google]]?
 >
 > **[1:20](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/getting-up-to-100-applications-and-data-sets-migrated-daily?u=76281980&t=80)** Have you been able to identify what are the gaps and how they can be dealt with?
 >
@@ -1324,11 +1300,11 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/getting-up-to-100-applications-and-data-sets-migrated-daily?u=76281980&t=102)** Once we have the answers to all of the questions presented, we can then create a finalized plan as to how we're going to approach rapid migration.
 >
-> **[1:50](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/getting-up-to-100-applications-and-data-sets-migrated-daily?u=76281980&t=110)** Keep in mind that this plan is agile and we may be changing things as we work through our rapid cloud migrations.
+> **[1:50](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/getting-up-to-100-applications-and-data-sets-migrated-daily?u=76281980&t=110)** Keep in mind that this plan is [[Agile Development|agile]] and we may be changing things as we work through our rapid cloud migrations.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (7), business (5), [[Microsoft Office|Office]] (2), [[Microsoft Products|Products]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Microsoft Products|Products]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Microsoft]] (1), [[Google]] (1)
 > **Env Vars:** cbo (2)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
@@ -1336,8 +1312,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Organization and skill considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/organization-and-skill-considerations?u=76281980)
+#### [Organization and skill considerations](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/organization-and-skill-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1347,11 +1322,11 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/organization-and-skill-considerations?u=76281980&t=13)** You'll need the following people with the following skills, including cloud architect, cloud developer.
 >
-> **[0:18](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/organization-and-skill-considerations?u=76281980&t=18)** and that cloud developer may focus on AWS, Microsoft, Google, or others such as Oracle and IBM.
+> **[0:18](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/organization-and-skill-considerations?u=76281980&t=18)** and that cloud developer may focus on AWS, [[Microsoft]], [[Google]], or others such as Oracle and IBM.
 >
 > **[0:25](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/organization-and-skill-considerations?u=76281980&t=25)** Dev ops specialists, data specialists, security specialists, tool specialists, and special requirements.
 >
-> **[0:31](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/organization-and-skill-considerations?u=76281980&t=31)** You know, such as you're moving and internet of things or an IOT based system and leveraging people with the knowledge of embedded systems, things like that.
+> **[0:31](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/organization-and-skill-considerations?u=76281980&t=31)** You know, such as you're moving and [[IoT|internet of things]] or an [[IoT]] based system and leveraging people with the knowledge of embedded systems, things like that.
 >
 > **[0:38](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/organization-and-skill-considerations?u=76281980&t=38)** The cloud architect is able to pull together all of the requirements, including the need to do rapid migration and make all or most of the calls as to platforms, clouds, tools, design, and configuration.
 >
@@ -1367,7 +1342,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/organization-and-skill-considerations?u=76281980&t=86)** Data specialists, focus on the data skills needed for rapid migration.
 >
-> **[1:30](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/organization-and-skill-considerations?u=76281980&t=90)** They need to understand the source databases as well as the targets in the cloud, and also how the data needs to be changed or not during migration.
+> **[1:30](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/organization-and-skill-considerations?u=76281980&t=90)** They need to understand the source [[Databases]] as well as the targets in the cloud, and also how the data needs to be changed or not during migration.
 >
 > **[1:38](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/organization-and-skill-considerations?u=76281980&t=98)** Security specialist is the person in charge of dealing with security around the Tubi state of rapid migration.
 >
@@ -1379,21 +1354,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (13), data (4), [[Security]] (4), aws (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Google]] (1), [[IoT|Internet of things]] (1), [[IoT]] (1), [[Databases]] (1)
 > **CLI Commands:** aws (2), make (2)
 > **Env Vars:** aws (2), ibm (1), iot (1)
 > **Analogies:** such as (3)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Security considerations for rapid migration
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/security-considerations-for-rapid-migration?u=76281980)
+#### [Security considerations for rapid migration](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/security-considerations-for-rapid-migration?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/security-considerations-for-rapid-migration?u=76281980&t=0)** - [Instructor] Security is the most important aspect of rapid cloud migration, in this video, we'll look at how to dial security in, including types of security, tooling, and best practices.
 >
-> **[0:10](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/security-considerations-for-rapid-migration?u=76281980&t=10)** Here are some of the key questions around security, privacy, efficiency, data loss, and compliance that need to be answered around security of your rapid cloud migration project.
+> **[0:10](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/security-considerations-for-rapid-migration?u=76281980&t=10)** Here are some of the key questions around security, [[Privacy]], efficiency, data loss, and compliance that need to be answered around security of your rapid cloud migration project.
 >
 > **[0:19](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/security-considerations-for-rapid-migration?u=76281980&t=19)** Will data managed and stored by the proposed cloud solution protect against outside threats like viruses, malware, interception, and theft?
 >
@@ -1419,13 +1393,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (10), data (8), [[Security]] (5), [[Privacy]] (4), next (1)
+> **Frameworks & Libraries:** [[Privacy]] (4)
 > **Definitions:** means that (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Governance considerations for rapid migration
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/governance-considerations-for-rapid-migration?u=76281980)
+#### [Governance considerations for rapid migration](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/governance-considerations-for-rapid-migration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1437,9 +1410,9 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/governance-considerations-for-rapid-migration?u=76281980&t=14)** There are several types of governance solutions to consider including service based, resource based, compliance, and cost governance.
 >
-> **[0:22](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/governance-considerations-for-rapid-migration?u=76281980&t=22)** Service based governance is able to place governing policies around cloud services as well as services imposed by traditional systems, creating the policies and the enforcement of these policies is an automated set of processes.
+> **[0:22](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/governance-considerations-for-rapid-migration?u=76281980&t=22)** Service based governance is able to place governing policies around [[Cloud Services]] as well as services imposed by traditional systems, creating the policies and the enforcement of these policies is an automated set of processes.
 >
-> **[0:34](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/governance-considerations-for-rapid-migration?u=76281980&t=34)** Resource-based governance is able to place governing policies around cloud resource, such as storage, compute databases, things like that.
+> **[0:34](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/governance-considerations-for-rapid-migration?u=76281980&t=34)** Resource-based governance is able to place governing policies around cloud resource, such as storage, compute [[Databases]], things like that.
 >
 > **[0:41](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/governance-considerations-for-rapid-migration?u=76281980&t=41)** Again, automation enforces these policies.
 >
@@ -1457,14 +1430,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (7), [[Automation]] (2), [[Databases]] (1), data (1)
+> **Frameworks & Libraries:** [[Cloud Services]] (1), [[Databases]] (1)
 > **Definitions:** refers to (2), is an  (1)
 > **Analogies:** for example (2), such as (1)
 > **Env Vars:** cpu (1)
 > **Speakers:** - [instructor] (1)
 
-#### What you learned about rapid migration
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/what-you-learned-about-rapid-migration?u=76281980)
+#### [What you learned about rapid migration](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/what-you-learned-about-rapid-migration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1500,7 +1472,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), cloud (6), next (2), application (1), [[Security]] (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** find (1)
 > **Env Vars:** mvc (1)
@@ -1511,8 +1482,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Where to go from here with rapid migration
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/where-to-go-from-here-with-rapid-migration?u=76281980)
+#### [Where to go from here with rapid migration](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/where-to-go-from-here-with-rapid-migration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1530,11 +1500,11 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/where-to-go-from-here-with-rapid-migration?u=76281980&t=37)** Get a pilot going now or begin experimenting with public Clouds, migration tools, things like that to determine what the capabilities and the opportunities are.
 >
-> **[0:46](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/where-to-go-from-here-with-rapid-migration?u=76281980&t=46)** You'll find that this is the best way to understand the power of Cloud computing, including what it can do and what it can't do.
+> **[0:46](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/where-to-go-from-here-with-rapid-migration?u=76281980&t=46)** You'll find that this is the best way to understand the power of [[Cloud Computing]], including what it can do and what it can't do.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), cloud (2), power (2)
+> **Frameworks & Libraries:** [[Cloud Computing]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** such as (1)
 > **Speakers:** - let (1)

@@ -71,8 +71,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### OWASP Top 10
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/owasp-top-10?u=76281980)
+#### [OWASP Top 10](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/owasp-top-10?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -84,13 +83,13 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/owasp-top-10?u=76281980&t=11)** A great way to secure web applications is to find and fix security vulnerabilities.
 >
-> **[0:18](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/owasp-top-10?u=76281980&t=18)** OWASP stands for, Open Web Application Security Project, and the Top 10 list is an educational resource that is intended to raise awareness of the most common vulnerability types found in web applications.
+> **[0:18](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/owasp-top-10?u=76281980&t=18)** [[OWASP]] stands for, Open [[Web Application Security]] Project, and the Top 10 list is an educational resource that is intended to raise awareness of the most common vulnerability types found in web applications.
 >
 > **[0:31](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/owasp-top-10?u=76281980&t=31)** The process of updating the list is both art and science.
 >
-> **[0:35](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/owasp-top-10?u=76281980&t=35)** Application security practitioners from around the world provide data sets to the working group that writes and publishes the Top 10.
+> **[0:35](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/owasp-top-10?u=76281980&t=35)** [[Application Security]] practitioners from around the world provide data sets to the working group that writes and publishes the Top 10.
 >
-> **[0:43](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/owasp-top-10?u=76281980&t=43)** I'm Caroline Wong, and I've worked in the cybersecurity field since 2005.
+> **[0:43](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/owasp-top-10?u=76281980&t=43)** I'm Caroline Wong, and I've worked in the [[Cybersecurity]] field since 2005.
 >
 > **[0:47](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/owasp-top-10?u=76281980&t=47)** I've held leadership roles as a practitioner, a product manager, a management consultant, and an exec at a technology startup.
 >
@@ -110,7 +109,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (6), [[Security]] (4), [[OWASP]] (2), web application (1), application (1)
+> **Frameworks & Libraries:** [[OWASP]] (2), [[Web Application Security]] (1), [[Application Security]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** owasp (2)
 > **Definitions:** stands for (1), is an  (1)
 > **CLI Commands:** find (1)
@@ -121,18 +120,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is broken access control?
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/what-is-broken-access-control?u=76281980)
+#### [What is broken access control?](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/what-is-broken-access-control?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/what-is-broken-access-control?u=76281980&t=0)** - [Presenter] Sometimes cybersecurity folks use complicated terms like XML external entity injection.
+> **[0:00](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/what-is-broken-access-control?u=76281980&t=0)** - [Presenter] Sometimes [[Cybersecurity]] folks use complicated terms like XML external entity injection.
 >
 > **[0:06](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/what-is-broken-access-control?u=76281980&t=6)** Try saying that three times fast.
 >
 > **[0:09](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/what-is-broken-access-control?u=76281980&t=9)** Occasionally, cybersecurity terms are straightforward and make intuitive sense.
 >
-> **[0:14](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/what-is-broken-access-control?u=76281980&t=14)** Luckily for us, that is the case with the first item in the 2021 OWASP Top 10, broken access control.
+> **[0:14](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/what-is-broken-access-control?u=76281980&t=14)** Luckily for us, that is the case with the first item in the 2021 [[OWASP]] Top 10, broken access control.
 >
 > **[0:23](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/what-is-broken-access-control?u=76281980&t=23)** We all experience the effects of access control in both our physical and our digital lives.
 >
@@ -154,9 +152,9 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/what-is-broken-access-control?u=76281980&t=77)** This is kind of like if a diner at a restaurant walks into the kitchen, starts cooking and changes the ingredients in a recipe.
 >
-> **[1:26](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/what-is-broken-access-control?u=76281980&t=86)** Alternatively, the impact of broken access control might be a failure to protect the confidentiality of information, such as if a patient in a medical office is somehow able to access the medical history of another patient.
+> **[1:26](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/what-is-broken-access-control?u=76281980&t=86)** Alternatively, the impact of broken access control might be a failure to protect the confidentiality of information, such as if a patient in a medical [[Microsoft Office|office]] is somehow able to access the medical history of another patient.
 >
-> **[1:40](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/what-is-broken-access-control?u=76281980&t=100)** If I have a customer account on an e-commerce site, and I can access someone else's account information, that's broken access control.
+> **[1:40](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/what-is-broken-access-control?u=76281980&t=100)** If I have a customer account on an [[E-Commerce]] site, and I can access someone else's account information, that's broken access control.
 >
 > **[1:49](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/what-is-broken-access-control?u=76281980&t=109)** Broken access control can also lead to a breach, which results in theft of a stolen asset, like if a customer steals money out of the cash register of a clothing store or goes into the back room and steals a jacket or a pair of shoes.
 >
@@ -166,7 +164,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (2), web (2), data (2), [[OWASP]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[OWASP]] (1), [[Microsoft Office|Office]] (1), [[E-Commerce]] (1)
 > **Analogies:** for example (1), kind of like (1), such as (1)
 > **Env Vars:** xml (1), owasp (1)
 > **Definitions:** is a  (2)
@@ -174,8 +172,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [presenter] (1)
 
-#### Example 1: 2021 Facebook broken access control vulnerability
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/example-1-2021-facebook-broken-access-control-vulnerability?u=76281980)
+#### [Example 1: 2021 Facebook broken access control vulnerability](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/example-1-2021-facebook-broken-access-control-vulnerability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -215,14 +212,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), [[Security]] (3), application (2), api (1)
 > **Env Vars:** usd (1), api (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Example 2: 2021 personal data travel breach
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/example-2-2021-personal-data-travel-breach?u=76281980)
+#### [Example 2: 2021 personal data travel breach](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/example-2-2021-personal-data-travel-breach?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -232,7 +227,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/example-2-2021-personal-data-travel-breach?u=76281980&t=20)** Exposed data included names, passport numbers, dates of travel and residency status of individuals who had traveled to Thailand between the years of 2011 and 2021.
 >
-> **[0:32](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/example-2-2021-personal-data-travel-breach?u=76281980&t=32)** Although there was no financial impact to these individuals, this breach did violate their privacy, and the confidentiality of their personal information.
+> **[0:32](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/example-2-2021-personal-data-travel-breach?u=76281980&t=32)** Although there was no financial impact to these individuals, this breach did violate their [[Privacy]], and the confidentiality of their personal information.
 >
 > **[0:41](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/example-2-2021-personal-data-travel-breach?u=76281980&t=41)** The only people who should have had access to this information were the travelers themselves, the airlines, and the Thai authorities, but due to a lack of proper access control, it was instead accessible by anyone on the public-facing internet.
 >
@@ -242,11 +237,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Security]] (1), database (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (1)
 > **Speakers:** - [narrator] (1)
 
-#### Prevention techniques: Least privilege
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-least-privilege?u=76281980)
+#### [Prevention techniques: Least privilege](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-least-privilege?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -270,11 +264,11 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-least-privilege?u=76281980&t=68)** These might stay the same or change from day to day, but it is not necessary for these staff roles to have access to all the guest rooms every day.
 >
-> **[1:17](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-least-privilege?u=76281980&t=77)** Practically speaking, web application security developers should implement the principle of least privilege when it comes to access control for accounts that are used by humans as well as those used by machines.
+> **[1:17](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-least-privilege?u=76281980&t=77)** Practically speaking, [[Web Application Security]] developers should implement the principle of least privilege when it comes to access control for accounts that are used by humans as well as those used by machines.
 >
 > **[1:29](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-least-privilege?u=76281980&t=89)** In other words, service accounts.
 >
-> **[1:31](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-least-privilege?u=76281980&t=91)** One example that we can look at is how Google Secret Manager limits access to secrets like Twilio public keys.
+> **[1:31](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-least-privilege?u=76281980&t=91)** One example that we can look at is how [[Google]] Secret Manager limits access to secrets like [[Twilio]] public keys.
 >
 > **[1:39](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-least-privilege?u=76281980&t=99)** Twilio is a developer API company, and their security and enterprise editions support public key client validation.
 >
@@ -282,7 +276,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-least-privilege?u=76281980&t=115)** Secret Manager offers five granular roles, which were designed with a principle of least privilege in mind.
 >
-> **[2:02](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-least-privilege?u=76281980&t=122)** These include an admin role which has full access, a viewer role which has access to view metadata but not the details, an accessor role, which has access to the secret workloads so that the secret can be used by these accounts, whether human or application, and an adder role, which can add new versions to existing secrets but does not have access to secret payloads.
+> **[2:02](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-least-privilege?u=76281980&t=122)** These include an admin role which has full access, a viewer role which has access to view [[Metadata]] but not the details, an accessor role, which has access to the secret workloads so that the secret can be used by these accounts, whether human or application, and an adder role, which can add new versions to existing secrets but does not have access to secret payloads.
 >
 > **[2:24](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-least-privilege?u=76281980&t=144)** There is a key technique that you can use in order to implement the principle of least privilege when managing access control.
 >
@@ -292,15 +286,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), [[Google]] (2), [[Twilio]] (2), data (2), web application (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Twilio]] (2), [[Web Application Security]] (1), [[Metadata]] (1)
 > **Definitions:** is a  (3), in other words (1), means that (1)
 > **Env Vars:** api (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prevention techniques: Record ownership and logging
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-record-ownership-and-logging?u=76281980)
+#### [Prevention techniques: Record ownership and logging](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-record-ownership-and-logging?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -344,20 +337,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), database (3), application (2), [[Security]] (2)
 > **Code Identifiers:** ecommerce (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prevention techniques: Functional access control testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-functional-access-control-testing?u=76281980)
+#### [Prevention techniques: Functional access control testing](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-functional-access-control-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-functional-access-control-testing?u=76281980&t=0)** - [Instructor] Access control is one example of a typical information security control.
 >
-> **[0:05](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-functional-access-control-testing?u=76281980&t=5)** There's a policy that needs to be decided on, data classification, that policy needs to be put into practice during software development, and then the software needs to be tested to determine if it's actually working according to the policy as intended.
+> **[0:05](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-functional-access-control-testing?u=76281980&t=5)** There's a policy that needs to be decided on, [[Data Classification]], that policy needs to be put into practice during [[Software Development]], and then the software needs to be tested to determine if it's actually working according to the policy as intended.
 >
 > **[0:20](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-functional-access-control-testing?u=76281980&t=20)** Each of these steps involved in making access control intentional and effective is typically performed by different roles throughout an organization.
 >
@@ -371,13 +362,13 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-functional-access-control-testing?u=76281980&t=52)** Software developers write application code in a way such that it should reflect the guidance provided in the data classification policy.
 >
-> **[1:00](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-functional-access-control-testing?u=76281980&t=60)** Quality assurance engineers test the software once it is developed to ensure that it behaves as expected in accordance with the development requirements.
+> **[1:00](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-functional-access-control-testing?u=76281980&t=60)** [[Quality Assurance]] engineers test the software once it is developed to ensure that it behaves as expected in accordance with the development requirements.
 >
-> **[1:09](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-functional-access-control-testing?u=76281980&t=69)** QA performs a particularly important role when it comes to testing for cybersecurity because it's necessary to test not only the positive expected path, but also to see what happens when unexpected actions are taken.
+> **[1:09](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-functional-access-control-testing?u=76281980&t=69)** QA performs a particularly important role when it comes to testing for [[Cybersecurity]] because it's necessary to test not only the positive expected path, but also to see what happens when unexpected actions are taken.
 >
 > **[1:23](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-functional-access-control-testing?u=76281980&t=83)** These tests can and should be crafted purposefully to identify opportunities for misuse and abuse cases.
 >
-> **[1:32](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-functional-access-control-testing?u=76281980&t=92)** In addition to the OWASP Top 10, OWASP also produces a web testing guide.
+> **[1:32](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-functional-access-control-testing?u=76281980&t=92)** In addition to the [[OWASP]] Top 10, OWASP also produces a web testing guide.
 >
 > **[1:37](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-functional-access-control-testing?u=76281980&t=97)** This guide includes a section on authorization testing, which is another way to say access control testing.
 >
@@ -397,7 +388,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Data Classification]] (3), [[OWASP]] (3), [[Security]] (2), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Data Classification]] (3), [[OWASP]] (3), [[Software Development]] (1), [[Quality Assurance]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** owasp (3)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -407,12 +398,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is cryptographic failure?
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/what-is-cryptographic-failure?u=76281980)
+#### [What is cryptographic failure?](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/what-is-cryptographic-failure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/what-is-cryptographic-failure?u=76281980&t=0)** - [Instructor] Cryptographic failure happens when cryptography doesn't work the way it's supposed to.
+> **[0:00](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/what-is-cryptographic-failure?u=76281980&t=0)** - [Instructor] Cryptographic failure happens when [[Cryptography]] doesn't work the way it's supposed to.
 >
 > **[0:06](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/what-is-cryptographic-failure?u=76281980&t=6)** What is cryptography?
 >
@@ -430,25 +420,24 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/what-is-cryptographic-failure?u=76281980&t=67)** In today's modern world, with literacy rates and computer processing power, these ancient encryption methods are easy to crack.
 >
-> **[1:16](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/what-is-cryptographic-failure?u=76281980&t=76)** Today, we have modern encryption algorithms that are strong and protect data well, if they are used correctly.
+> **[1:16](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/what-is-cryptographic-failure?u=76281980&t=76)** Today, we have modern encryption [[Algorithms]] that are strong and protect data well, if they are used correctly.
 >
 > **[1:23](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/what-is-cryptographic-failure?u=76281980&t=83)** If data that needs to be protected is not encrypted, or if encryption is implemented poorly, then confidential data can be accessed and will no longer be kept private between the parties that are supposed to access it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cryptography]] (3), data (3), power (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Cryptography]] (3), [[Algorithms]] (1)
 > **Analogies:** for example (2)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Example 1: 2021 GoDaddy plaintext passwords
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/example-1-2021-godaddy-plaintext-passwords?u=76281980)
+#### [Example 1: 2021 GoDaddy plaintext passwords](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/example-1-2021-godaddy-plaintext-passwords?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/example-1-2021-godaddy-plaintext-passwords?u=76281980&t=0)** - [Instructor] In November 2021, the web hosting provider GoDaddy filed a report with the SEC describing a data breach that included plaintext passwords.
 >
-> **[0:11](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/example-1-2021-godaddy-plaintext-passwords?u=76281980&t=11)** GoDaddy was using a protocol called SFTP, Secure File Transfer Protocol, to transfer large files over the internet for their WordPress sites.
+> **[0:11](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/example-1-2021-godaddy-plaintext-passwords?u=76281980&t=11)** GoDaddy was using a protocol called SFTP, Secure File Transfer Protocol, to transfer large files over the internet for their [[WordPress]] sites.
 >
 > **[0:22](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/example-1-2021-godaddy-plaintext-passwords?u=76281980&t=22)** WordPress is a tool that helps users to create blogs and websites.
 >
@@ -456,7 +445,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/example-1-2021-godaddy-plaintext-passwords?u=76281980&t=37)** Whenever someone uses SFTP, they can choose how to do authentication.
 >
-> **[0:42](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/example-1-2021-godaddy-plaintext-passwords?u=76281980&t=42)** Authentication is a fancy word for logging in so that you can use a service.
+> **[0:42](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/example-1-2021-godaddy-plaintext-passwords?u=76281980&t=42)** Authentication is a fancy [[Microsoft Word|word]] for logging in so that you can use a service.
 >
 > **[0:46](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/example-1-2021-godaddy-plaintext-passwords?u=76281980&t=46)** Some authentication options are more secure than others.
 >
@@ -474,13 +463,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (3), web (1), data (1), [[Troubleshooting]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (3), [[Microsoft Word|Word]] (1)
 > **Env Vars:** sftp (6), sec (2)
 > **Definitions:** is a  (2), means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Example 2: Using a broken or risky cryptographic algorithm
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/example-2-using-a-broken-or-risky-cryptographic-algorithm?u=76281980)
+#### [Example 2: Using a broken or risky cryptographic algorithm](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/example-2-using-a-broken-or-risky-cryptographic-algorithm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -492,7 +480,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/example-2-using-a-broken-or-risky-cryptographic-algorithm?u=76281980&t=23)** If you're new to using NVD, the NVD dashboard is a great place to start.
 >
-> **[0:28](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/example-2-using-a-broken-or-risky-cryptographic-algorithm?u=76281980&t=28)** It provides a variety of fascinating statistics in both table and chart format.
+> **[0:28](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/example-2-using-a-broken-or-risky-cryptographic-algorithm?u=76281980&t=28)** It provides a variety of fascinating [[Statistics]] in both table and chart format.
 >
 > **[0:34](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/example-2-using-a-broken-or-risky-cryptographic-algorithm?u=76281980&t=34)** When I run a search on NVD using the terms Broken or Risky Cryptographic Algorithm, I get nine results which were published between 2017 and 2021.
 >
@@ -500,7 +488,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/example-2-using-a-broken-or-risky-cryptographic-algorithm?u=76281980&t=58)** It's likely that each of these vulnerabilities involved the use of an out-of-date cryptographic algorithm, such as MD5 or SHA1.
 >
-> **[1:08](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/example-2-using-a-broken-or-risky-cryptographic-algorithm?u=76281980&t=68)** Here's what Miter, an American nonprofit public interest organization with a respected cybersecurity arm, has to say about various cryptographic algorithms.
+> **[1:08](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/example-2-using-a-broken-or-risky-cryptographic-algorithm?u=76281980&t=68)** Here's what Miter, an American nonprofit public interest organization with a respected [[Cybersecurity]] arm, has to say about various cryptographic [[Algorithms]].
 >
 > **[1:17](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/example-2-using-a-broken-or-risky-cryptographic-algorithm?u=76281980&t=77)** "Cryptographic algorithms are the methods by which data is scrambled.
 >
@@ -508,20 +496,19 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/example-2-using-a-broken-or-risky-cryptographic-algorithm?u=76281980&t=88)** It is quite difficult to produce a secure algorithm and even high profile algorithms by accomplished cryptographic experts have been broken.
 >
-> **[1:37](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/example-2-using-a-broken-or-risky-cryptographic-algorithm?u=76281980&t=97)** Since the state of cryptography advances so rapidly, it is common for an algorithm to be considered unsafe even if it was once thought to be strong.
+> **[1:37](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/example-2-using-a-broken-or-risky-cryptographic-algorithm?u=76281980&t=97)** Since the state of [[Cryptography]] advances so rapidly, it is common for an algorithm to be considered unsafe even if it was once thought to be strong.
 >
 > **[1:47](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/example-2-using-a-broken-or-risky-cryptographic-algorithm?u=76281980&t=107)** This can happen when new attacks against the algorithm are discovered or if computing power increases so much that the cryptographic algorithm no longer provides the amount of protection that was originally thought."
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (4), data (2), database (1), [[Statistics]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (4), [[Statistics]] (1), [[Cybersecurity]] (1), [[Cryptography]] (1)
 > **Env Vars:** nvd (5), md5 (1), sha1 (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prevention techniques: Data classification
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-data-classification?u=76281980)
+#### [Prevention techniques: Data classification](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-data-classification?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -535,7 +522,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-data-classification?u=76281980&t=42)** Someone needs to decide what information should be encrypted and what information does not need to be encrypted.
 >
-> **[0:48](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-data-classification?u=76281980&t=48)** If I zoom out a bit, a higher level version of this exercise is called data classification.
+> **[0:48](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-data-classification?u=76281980&t=48)** If I [[Zoom]] out a bit, a higher level version of this exercise is called [[Data Classification]].
 >
 > **[0:54](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-data-classification?u=76281980&t=54)** Simply put, data classification means defining different categories of data and identifying the appropriate protections for each category.
 >
@@ -543,15 +530,15 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-data-classification?u=76281980&t=68)** A typical data classification scheme might have three categories, confidential, sensitive, and public, confidential data is considered high risk if compromised, sensitive data is considered medium risk, and public data is considered low or no risk.
 >
-> **[1:24](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-data-classification?u=76281980&t=84)** Sometimes data classification is driven by regulatory compliance that applies to a particular region or to a particular industry.
+> **[1:24](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-data-classification?u=76281980&t=84)** Sometimes data classification is driven by [[Regulatory Compliance]] that applies to a particular region or to a particular industry.
 >
 > **[1:32](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-data-classification?u=76281980&t=92)** The EU's General Data Protection Regulation or GDPR specifies seven principles of data protection that must be applied to personal data of EU citizens.
 >
-> **[1:43](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-data-classification?u=76281980&t=103)** The Health Insurance Portability and Accountability Act or HIPAA is a United States federal statute that protects all individually identifiable health information.
+> **[1:43](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-data-classification?u=76281980&t=103)** The Health Insurance Portability and [[Accountability]] Act or HIPAA is a United States federal statute that protects all individually identifiable health information.
 >
-> **[1:53](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-data-classification?u=76281980&t=113)** The California Consumer Privacy Act or CCPA specify safeguards that apply to personal information of California residents, defined as name plus social security number, driver's license or state ID, financial account number, username or email address in combination with password or a security question and answer, and health insurance information.
+> **[1:53](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-data-classification?u=76281980&t=113)** The California Consumer [[Privacy]] Act or CCPA specify safeguards that apply to personal information of California residents, defined as name plus social security number, driver's license or state ID, financial account number, username or email address in combination with password or a security question and answer, and health insurance information.
 >
-> **[2:15](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-data-classification?u=76281980&t=135)** Every outcome in cybersecurity is a result of a business process.
+> **[2:15](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-data-classification?u=76281980&t=135)** Every outcome in [[Cybersecurity]] is a result of a business process.
 >
 > **[2:19](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-data-classification?u=76281980&t=139)** The first prevention technique is deciding which data should be encrypted in the first place.
 >
@@ -575,14 +562,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (29), [[Data Classification]] (5), [[Security]] (3), web application (1), api (1)
+> **Frameworks & Libraries:** [[Data Classification]] (5), [[Zoom]] (1), [[Regulatory Compliance]] (1), [[Accountability]] (1), [[Privacy]] (1)
 > **Env Vars:** api (1), gdpr (1), hipaa (1), ccpa (1)
 > **Definitions:** is a  (2), is called (1), defined as (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Prevention techniques: Proper key management
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-proper-key-management?u=76281980)
+#### [Prevention techniques: Proper key management](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-proper-key-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -598,7 +584,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-proper-key-management?u=76281980&t=30)** Just as you need to protect the key to your lockbox if you don't want anyone else to access the contents inside, you need to properly protect cryptographic keys as well.
 >
-> **[0:41](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-proper-key-management?u=76281980&t=41)** Many modern databases support encryption key management, which gives you a choice as to where to store your encryption keys.
+> **[0:41](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-proper-key-management?u=76281980&t=41)** Many modern [[Databases]] support encryption key management, which gives you a choice as to where to store your encryption keys.
 >
 > **[0:50](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-proper-key-management?u=76281980&t=50)** Your first option is to use local storage for the encryption key.
 >
@@ -634,20 +620,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), next (4), management (3), [[Security]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1)
 > **Best Practices:** the key is (1), best practice (1)
 > **UI Navigation:** open the (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prevention techniques: Secure protocols
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-secure-protocols?u=76281980)
+#### [Prevention techniques: Secure protocols](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-secure-protocols?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-secure-protocols?u=76281980&t=0)** - [Instructor] Prevention technique number three for avoiding cryptographic failure is to use secure protocols.
 >
-> **[0:06](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-secure-protocols?u=76281980&t=6)** Here I'm using the term protocol broadly to refer to encryption algorithms and hash functions.
+> **[0:06](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-secure-protocols?u=76281980&t=6)** Here I'm using the term protocol broadly to refer to encryption [[Algorithms]] and hash functions.
 >
 > **[0:12](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-secure-protocols?u=76281980&t=12)** A key concept is the difference between encryption and hashing.
 >
@@ -677,7 +662,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-secure-protocols?u=76281980&t=106)** If an attacker has an encryption key, then they can use it to convert ciphertext back into plaintext.
 >
-> **[1:53](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-secure-protocols?u=76281980&t=113)** So what's a responsible cybersecurity or technology professional to do?
+> **[1:53](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-secure-protocols?u=76281980&t=113)** So what's a responsible [[Cybersecurity]] or technology professional to do?
 >
 > **[1:57](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/prevention-techniques-secure-protocols?u=76281980&t=117)** One of the best approaches is to use both encryption and hashing.
 >
@@ -693,7 +678,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (2), database (2), [[Security]] (1), power (1), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Cybersecurity]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** md5 (1), sha1 (1)
 > **Analogies:** such as (1)
@@ -704,16 +689,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### OWASP Top 10 keep learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/owasp-top-10-keep-learning?u=76281980)
+#### [OWASP Top 10 keep learning](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/owasp-top-10-keep-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/owasp-top-10-keep-learning?u=76281980&t=0)** - [Narrator] And there you have it.
 >
-> **[0:02](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/owasp-top-10-keep-learning?u=76281980&t=2)** The first two categories in the OWASP Top 10.
+> **[0:02](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/owasp-top-10-keep-learning?u=76281980&t=2)** The first two categories in the [[OWASP]] Top 10.
 >
-> **[0:06](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/owasp-top-10-keep-learning?u=76281980&t=6)** Access control and cryptography have been key information security concepts for decades now.
+> **[0:06](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/owasp-top-10-keep-learning?u=76281980&t=6)** Access control and [[Cryptography]] have been key information security concepts for decades now.
 >
 > **[0:11](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/owasp-top-10-keep-learning?u=76281980&t=11)** The mistakes that lead to data breaches are known and we can learn from them.
 >
@@ -729,7 +713,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OWASP]] (2), [[Cryptography]] (1), [[Security]] (1), data (1), web (1)
+> **Frameworks & Libraries:** [[OWASP]] (2), [[Cryptography]] (1)
 > **Env Vars:** owasp (2)
 > **Analogies:** similar to (1)
 > **Speakers:** - [narrator] (1)

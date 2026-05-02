@@ -91,12 +91,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Python and Data: Made for each other
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-data/python-and-data-made-for-each-other?u=76281980)
+#### [Python and Data: Made for each other](https://www.linkedin.com/learning/advanced-python-working-with-data/python-and-data-made-for-each-other?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-data/python-and-data-made-for-each-other?u=76281980&t=0)** - [Joe] One of the most popular, fastest growing disciplines in the world of technology today is data science, and the Python programming language is at the center of it all.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-data/python-and-data-made-for-each-other?u=76281980&t=0)** - [Joe] One of the most popular, fastest growing disciplines in the world of technology today is [[Data Science]], and the [[Python (Programming Language)|Python]] programming language is at the center of it all.
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-python-working-with-data/python-and-data-made-for-each-other?u=76281980&t=9)** Hi, I'm Joe Marini.
 >
@@ -104,29 +103,28 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/advanced-python-working-with-data/python-and-data-made-for-each-other?u=76281980&t=16)** In this course, we're going to start learning about some of the built-in features that make Python a great language to use when working with data-intensive applications.
 >
-> **[0:24](https://www.linkedin.com/learning/advanced-python-working-with-data/python-and-data-made-for-each-other?u=76281980&t=24)** We'll see how to perform common data operations like sorting and filtering, determining basic information like minimum and maximum values, and how to read and write data to and from other formats like CSV files used by spreadsheets and JSON for interchange with other systems and programs.
+> **[0:24](https://www.linkedin.com/learning/advanced-python-working-with-data/python-and-data-made-for-each-other?u=76281980&t=24)** We'll see how to perform common data operations like sorting and filtering, determining basic information like minimum and maximum values, and how to read and write data to and from other formats like CSV files used by spreadsheets and [[JSON]] for interchange with other systems and programs.
 >
 > **[0:43](https://www.linkedin.com/learning/advanced-python-working-with-data/python-and-data-made-for-each-other?u=76281980&t=43)** Come join me in my course and take a look at what Python can already do to help you make sense of your data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Python (Programming Language)|Python]] (3), [[Programming]] (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Data Science]] (1), [[JSON]] (1)
 > **CLI Commands:** python (3), make (2)
 > **Env Vars:** csv (1), json (1)
 > **Speakers:** - [joe] (1)
 
-#### Getting Set Up
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-data/getting-set-up?u=76281980)
+#### [Getting Set Up](https://www.linkedin.com/learning/advanced-python-working-with-data/getting-set-up?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-data/getting-set-up?u=76281980&t=0)** - [Instructor] This course is intended for developers who are already familiar with the basics of Python and want to learn about some of the features related to working with data.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-data/getting-set-up?u=76281980&t=0)** - [Instructor] This course is intended for developers who are already familiar with the basics of [[Python (Programming Language)|Python]] and want to learn about some of the features related to working with data.
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-python-working-with-data/getting-set-up?u=76281980&t=9)** You don't need to be a deep expert on the language in order to take this course, but you do need to have an understanding of the basics like how to write functions, use variables, and so on.
 >
 > **[0:18](https://www.linkedin.com/learning/advanced-python-working-with-data/getting-set-up?u=76281980&t=18)** There are a couple of different ways you can work with the example code in this course.
 >
-> **[0:23](https://www.linkedin.com/learning/advanced-python-working-with-data/getting-set-up?u=76281980&t=23)** I've set up a GitHub repository with the examples and you can find it at this link.
+> **[0:23](https://www.linkedin.com/learning/advanced-python-working-with-data/getting-set-up?u=76281980&t=23)** I've set up a [[GitHub]] repository with the examples and you can find it at this link.
 >
 > **[0:29](https://www.linkedin.com/learning/advanced-python-working-with-data/getting-set-up?u=76281980&t=29)** The course is organized into two separate folders.
 >
@@ -154,7 +152,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/advanced-python-working-with-data/getting-set-up?u=76281980&t=101)** What you'll do is you'll click on this plus menu here and create your own codespace.
 >
-> **[1:46](https://www.linkedin.com/learning/advanced-python-working-with-data/getting-set-up?u=76281980&t=106)** So I'm going to be using the codespaces in this course.
+> **[1:46](https://www.linkedin.com/learning/advanced-python-working-with-data/getting-set-up?u=76281980&t=106)** So I'm going to be using the [[Codespaces]] in this course.
 >
 > **[1:49](https://www.linkedin.com/learning/advanced-python-working-with-data/getting-set-up?u=76281980&t=109)** Either way works fine, but I'm going to be using codespaces throughout the course.
 >
@@ -184,7 +182,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/advanced-python-working-with-data/getting-set-up?u=76281980&t=181)** It should be the first result that comes up.
 >
-> **[3:02](https://www.linkedin.com/learning/advanced-python-working-with-data/getting-set-up?u=76281980&t=182)** It's this one here from Microsoft.
+> **[3:02](https://www.linkedin.com/learning/advanced-python-working-with-data/getting-set-up?u=76281980&t=182)** It's this one here from [[Microsoft]].
 >
 > **[3:04](https://www.linkedin.com/learning/advanced-python-working-with-data/getting-set-up?u=76281980&t=184)** You can see it's got a ton of downloads.
 >
@@ -196,7 +194,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[GitHub]] (3), [[Codespaces]] (2), data (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[GitHub]] (3), [[Codespaces]] (2), [[Microsoft]] (1)
 > **CLI Commands:** python (8), find (2), make (2)
 > **Prerequisites:** install (5), set up (3), you'll need (1)
 > **Tools:** github (3), terminal (3), visual studio (1), jupyter (1)
@@ -205,20 +203,19 @@ created: 2026-05-02
 > **Env Vars:** zip (1)
 > **Versions:** version 3 (1)
 
-#### The sample data set
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-data/the-sample-data-set?u=76281980)
+#### [The sample data set](https://www.linkedin.com/learning/advanced-python-working-with-data/the-sample-data-set?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-data/the-sample-data-set?u=76281980&t=0)** - [Narrator] I've included a sample data set to work with in this course.
 >
-> **[0:03](https://www.linkedin.com/learning/advanced-python-working-with-data/the-sample-data-set?u=76281980&t=3)** Now, not all of the examples are going to use it, but it's a significant set of data that represents a real world use case of working with data using Python.
+> **[0:03](https://www.linkedin.com/learning/advanced-python-working-with-data/the-sample-data-set?u=76281980&t=3)** Now, not all of the examples are going to use it, but it's a significant set of data that represents a real world use case of working with data using [[Python (Programming Language)|Python]].
 >
 > **[0:13](https://www.linkedin.com/learning/advanced-python-working-with-data/the-sample-data-set?u=76281980&t=13)** So the data set that we'll be working with comes from the US Geological Survey, and contains information about all of the measured earthquakes around the world.
 >
 > **[0:23](https://www.linkedin.com/learning/advanced-python-working-with-data/the-sample-data-set?u=76281980&t=23)** And this here is the homepage for the USGS Earthquake Information Service.
 >
-> **[0:29](https://www.linkedin.com/learning/advanced-python-working-with-data/the-sample-data-set?u=76281980&t=29)** So I'm going to scroll down here and I'm going to click on this little real-time notifications link.
+> **[0:29](https://www.linkedin.com/learning/advanced-python-working-with-data/the-sample-data-set?u=76281980&t=29)** So I'm going to scroll down here and I'm going to click on this little [[Real-Time]] notifications link.
 >
 > **[0:33](https://www.linkedin.com/learning/advanced-python-working-with-data/the-sample-data-set?u=76281980&t=33)** And when I do that, that takes me to the data feed page.
 >
@@ -244,13 +241,13 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/advanced-python-working-with-data/the-sample-data-set?u=76281980&t=88)** So we've got significant earthquakes all the way down to everything, right?
 >
-> **[1:31](https://www.linkedin.com/learning/advanced-python-working-with-data/the-sample-data-set?u=76281980&t=91)** So I'm going to click on one of these data feeds and you can see it's just raw JSON data.
+> **[1:31](https://www.linkedin.com/learning/advanced-python-working-with-data/the-sample-data-set?u=76281980&t=91)** So I'm going to click on one of these data feeds and you can see it's just raw [[JSON]] data.
 >
 > **[1:37](https://www.linkedin.com/learning/advanced-python-working-with-data/the-sample-data-set?u=76281980&t=97)** Okay, so let's click back.
 >
 > **[1:39](https://www.linkedin.com/learning/advanced-python-working-with-data/the-sample-data-set?u=76281980&t=99)** All right, so now if we scroll down a little bit, this section right here describes the format of the data.
 >
-> **[1:46](https://www.linkedin.com/learning/advanced-python-working-with-data/the-sample-data-set?u=76281980&t=106)** And it starts with a description of the data in this metadata field.
+> **[1:46](https://www.linkedin.com/learning/advanced-python-working-with-data/the-sample-data-set?u=76281980&t=106)** And it starts with a description of the data in this [[Metadata]] field.
 >
 > **[1:50](https://www.linkedin.com/learning/advanced-python-working-with-data/the-sample-data-set?u=76281980&t=110)** So when it was generated, here's the URL to the data, the title of the data set, the number of earthquakes, and so on.
 >
@@ -296,7 +293,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (27), [[Python (Programming Language)|Python]] (2), [[Real-Time]] (2), [[JSON]] (2), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Real-Time]] (2), [[JSON]] (2), [[Metadata]] (1)
 > **UI Navigation:** click on (4), scroll down (3)
 > **Env Vars:** usgs (1), atom (1), json (1), url (1)
 > **CLI Commands:** python (2)
@@ -305,8 +302,7 @@ created: 2026-05-02
 > **Tools:** atom (1)
 > **Speakers:** - [narrator] (1)
 
-#### Tour of CoderPad
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-data/tour-of-coderpad-24353435?u=76281980)
+#### [Tour of CoderPad](https://www.linkedin.com/learning/advanced-python-working-with-data/tour-of-coderpad-24353435?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -316,7 +312,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/advanced-python-working-with-data/tour-of-coderpad-24353435?u=76281980&t=16)** These challenges are hosted by CoderPad, and they appear in the same area of the course page where you watch the course's videos.
 >
-> **[0:25](https://www.linkedin.com/learning/advanced-python-working-with-data/tour-of-coderpad-24353435?u=76281980&t=25)** We recommend using a desktop browser for the best experience with code challenges, but you can use the LinkedIn Learning mobile app if you prefer.
+> **[0:25](https://www.linkedin.com/learning/advanced-python-working-with-data/tour-of-coderpad-24353435?u=76281980&t=25)** We recommend using a desktop browser for the best experience with code challenges, but you can use the [[LinkedIn]] Learning mobile app if you prefer.
 >
 > **[0:34](https://www.linkedin.com/learning/advanced-python-working-with-data/tour-of-coderpad-24353435?u=76281980&t=34)** The code challenge has four areas.
 >
@@ -388,7 +384,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (2)
 > **Cross-References:** next video (1)
@@ -400,12 +396,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using built-in functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-data/using-built-in-functions?u=76281980)
+#### [Using built-in functions](https://www.linkedin.com/learning/advanced-python-working-with-data/using-built-in-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-data/using-built-in-functions?u=76281980&t=0)** - [Instructor] We are going to start off by taking a look at some of the built-in functions that Python already has for working with data.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-data/using-built-in-functions?u=76281980&t=0)** - [Instructor] We are going to start off by taking a look at some of the built-in functions that [[Python (Programming Language)|Python]] already has for working with data.
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-python-working-with-data/using-built-in-functions?u=76281980&t=7)** And these are functions that you can just use out-of-the-box, without having to install any additional libraries or modules.
 >
@@ -425,25 +420,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Python (Programming Language)|Python]] (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3)
 > **CLI Commands:** python (3)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Finding min and max values
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-data/finding-min-and-max-values?u=76281980)
+#### [Finding min and max values](https://www.linkedin.com/learning/advanced-python-working-with-data/finding-min-and-max-values?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-data/finding-min-and-max-values?u=76281980&t=0)** - [Instructor] In this example, we'll see how to use the min and max functions to find the smallest and largest data values in a given data set.
 >
-> **[0:09](https://www.linkedin.com/learning/advanced-python-working-with-data/finding-min-and-max-values?u=76281980&t=9)** And so here I am in my GitHub repository.
+> **[0:09](https://www.linkedin.com/learning/advanced-python-working-with-data/finding-min-and-max-values?u=76281980&t=9)** And so here I am in my [[GitHub]] repository.
 >
 > **[0:11](https://www.linkedin.com/learning/advanced-python-working-with-data/finding-min-and-max-values?u=76281980&t=11)** And remember, you're going to want to make a fork of this in your own GitHub.
 >
-> **[0:16](https://www.linkedin.com/learning/advanced-python-working-with-data/finding-min-and-max-values?u=76281980&t=16)** And I've already got a codespace up and running so you'll need to make one of your own codespaces.
+> **[0:16](https://www.linkedin.com/learning/advanced-python-working-with-data/finding-min-and-max-values?u=76281980&t=16)** And I've already got a codespace up and running so you'll need to make one of your own [[Codespaces]].
 >
 > **[0:21](https://www.linkedin.com/learning/advanced-python-working-with-data/finding-min-and-max-values?u=76281980&t=21)** So I'm going to bring up my codespace.
 >
@@ -477,7 +471,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/advanced-python-working-with-data/finding-min-and-max-values?u=76281980&t=90)** Now remember, we can do this a couple of ways.
 >
-> **[1:32](https://www.linkedin.com/learning/advanced-python-working-with-data/finding-min-and-max-values?u=76281980&t=92)** I can open up the built-in terminal here in Visual Studio Code, and I can go into my Start folder, and I can go into chapter one, and then I'm going to run using the python command, the python command, I'll call minmax.py.
+> **[1:32](https://www.linkedin.com/learning/advanced-python-working-with-data/finding-min-and-max-values?u=76281980&t=92)** I can open up the built-in terminal here in Visual Studio Code, and I can go into my Start folder, and I can go into chapter one, and then I'm going to run using the [[Python (Programming Language)|python]] command, the python command, I'll call minmax.py.
 >
 > **[1:50](https://www.linkedin.com/learning/advanced-python-working-with-data/finding-min-and-max-values?u=76281980&t=110)** And there you can see the output.
 >
@@ -491,7 +485,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/advanced-python-working-with-data/finding-min-and-max-values?u=76281980&t=133)** Now, what does it mean to have a small and large string value?
 >
-> **[2:18](https://www.linkedin.com/learning/advanced-python-working-with-data/finding-min-and-max-values?u=76281980&t=138)** In this case, the min and max functions are using the alphabetic order of each word to determine what is small and what is large.
+> **[2:18](https://www.linkedin.com/learning/advanced-python-working-with-data/finding-min-and-max-values?u=76281980&t=138)** In this case, the min and max functions are using the alphabetic order of each [[Microsoft Word|word]] to determine what is small and what is large.
 >
 > **[2:27](https://www.linkedin.com/learning/advanced-python-working-with-data/finding-min-and-max-values?u=76281980&t=147)** But what if we wanted to use a different property of the strings to measure what small and large mean?
 >
@@ -529,7 +523,7 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/advanced-python-working-with-data/finding-min-and-max-values?u=76281980&t=238)** So close this.
 >
-> **[4:02](https://www.linkedin.com/learning/advanced-python-working-with-data/finding-min-and-max-values?u=76281980&t=242)** All right, first I'm going to uncomment these two lines that open the JSON file, and load the JSON code.
+> **[4:02](https://www.linkedin.com/learning/advanced-python-working-with-data/finding-min-and-max-values?u=76281980&t=242)** All right, first I'm going to uncomment these two lines that open the [[JSON]] file, and load the JSON code.
 >
 > **[4:09](https://www.linkedin.com/learning/advanced-python-working-with-data/finding-min-and-max-values?u=76281980&t=249)** Now, if we go back and look at the data, right?
 >
@@ -545,7 +539,7 @@ created: 2026-05-02
 >
 > **[4:36](https://www.linkedin.com/learning/advanced-python-working-with-data/finding-min-and-max-values?u=76281980&t=276)** And so you can see here that I've loaded the JSON code into this data variable, and that gives me this dictionary, right?
 >
-> **[4:42](https://www.linkedin.com/learning/advanced-python-working-with-data/finding-min-and-max-values?u=76281980&t=282)** So inside here I'm going to operate on the metadata and the title properties.
+> **[4:42](https://www.linkedin.com/learning/advanced-python-working-with-data/finding-min-and-max-values?u=76281980&t=282)** So inside here I'm going to operate on the [[Metadata]] and the title properties.
 >
 > **[4:47](https://www.linkedin.com/learning/advanced-python-working-with-data/finding-min-and-max-values?u=76281980&t=287)** So I have to index into that dictionary using metadata, and then title.
 >
@@ -613,11 +607,11 @@ created: 2026-05-02
 >
 > **[7:46](https://www.linkedin.com/learning/advanced-python-working-with-data/finding-min-and-max-values?u=76281980&t=466)** So we've got our smallest and largest earthquakes.
 >
-> **[7:49](https://www.linkedin.com/learning/advanced-python-working-with-data/finding-min-and-max-values?u=76281980&t=469)** So you can see that the min and max functions are pretty flexible in that you can use them for basic data types, but they can also be used with more complex data structures by using the key function to provide a value to measure them with.
+> **[7:49](https://www.linkedin.com/learning/advanced-python-working-with-data/finding-min-and-max-values?u=76281980&t=469)** So you can see that the min and max functions are pretty flexible in that you can use them for basic data types, but they can also be used with more complex [[Data Structures]] by using the key function to provide a value to measure them with.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Python (Programming Language)|Python]] (5), [[JSON]] (4), [[GitHub]] (2), [[Metadata]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[JSON]] (4), [[GitHub]] (2), [[Metadata]] (2), [[Codespaces]] (1)
 > **CLI Commands:** find (5), python (5), make (4)
 > **Tools:** terminal (3), github (2), visual studio (1), vs code (1)
 > **Env Vars:** json (4)
@@ -626,12 +620,11 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **File Paths:** minmax.py (1)
 
-#### Data utility functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-data/data-utility-functions?u=76281980)
+#### [Data utility functions](https://www.linkedin.com/learning/advanced-python-working-with-data/data-utility-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-data/data-utility-functions?u=76281980&t=0)** - [Instructor] Now let's take a look at some of the useful utility functions that Python provides.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-data/data-utility-functions?u=76281980&t=0)** - [Instructor] Now let's take a look at some of the useful utility functions that [[Python (Programming Language)|Python]] provides.
 >
 > **[0:04](https://www.linkedin.com/learning/advanced-python-working-with-data/data-utility-functions?u=76281980&t=4)** Specifically the any, all and sum functions.
 >
@@ -679,7 +672,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/advanced-python-working-with-data/data-utility-functions?u=76281980&t=112)** Okay.
 >
-> **[1:53](https://www.linkedin.com/learning/advanced-python-working-with-data/data-utility-functions?u=76281980&t=113)** So we can use these functions with more complex data structures, but unfortunately, unlike the min and max functions that we used in a previous video, they don't let us specify a callback to easily provide a value from the data.
+> **[1:53](https://www.linkedin.com/learning/advanced-python-working-with-data/data-utility-functions?u=76281980&t=113)** So we can use these functions with more complex [[Data Structures]], but unfortunately, unlike the min and max functions that we used in a previous video, they don't let us specify a callback to easily provide a value from the data.
 >
 > **[2:07](https://www.linkedin.com/learning/advanced-python-working-with-data/data-utility-functions?u=76281980&t=127)** But that's okay.
 >
@@ -821,7 +814,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Python (Programming Language)|Python]] (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Data Structures]] (1)
 > **CLI Commands:** python (3), make (1)
 > **Tools:** terminal (3)
 > **File Paths:** utility.py (2)
@@ -830,8 +823,7 @@ created: 2026-05-02
 > **Exercise Files:** sample code (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sorting data
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-data/sorting-data?u=76281980)
+#### [Sorting data](https://www.linkedin.com/learning/advanced-python-working-with-data/sorting-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -843,7 +835,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-python-working-with-data/sorting-data?u=76281980&t=15)** One with integers and one with names.
 >
-> **[0:19](https://www.linkedin.com/learning/advanced-python-working-with-data/sorting-data?u=76281980&t=19)** There are two functions built in for sorting in Python.
+> **[0:19](https://www.linkedin.com/learning/advanced-python-working-with-data/sorting-data?u=76281980&t=19)** There are two functions built in for sorting in [[Python (Programming Language)|Python]].
 >
 > **[0:22](https://www.linkedin.com/learning/advanced-python-working-with-data/sorting-data?u=76281980&t=22)** There's the sorted function, and then there's the sort function.
 >
@@ -895,7 +887,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/advanced-python-working-with-data/sorting-data?u=76281980&t=144)** So let's go ahead and close that terminal, and let's comment out these two previous examples.
 >
-> **[2:32](https://www.linkedin.com/learning/advanced-python-working-with-data/sorting-data?u=76281980&t=152)** All right, so first I'm going to uncomment the code that loads our JSON data.
+> **[2:32](https://www.linkedin.com/learning/advanced-python-working-with-data/sorting-data?u=76281980&t=152)** All right, so first I'm going to uncomment the code that loads our [[JSON]] data.
 >
 > **[2:38](https://www.linkedin.com/learning/advanced-python-working-with-data/sorting-data?u=76281980&t=158)** All right.
 >
@@ -947,7 +939,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Python (Programming Language)|Python]] (3), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[JSON]] (1)
 > **File Paths:** sorting.py (3)
 > **CLI Commands:** python (3)
 > **Tools:** terminal (3)
@@ -956,8 +948,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **UI Navigation:** click on (1)
 
-#### Data filtering
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-data/data-filtering?u=76281980)
+#### [Data filtering](https://www.linkedin.com/learning/advanced-python-working-with-data/data-filtering?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1009,7 +1000,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/advanced-python-working-with-data/data-filtering?u=76281980&t=171)** All right, it's called filtering.
 >
-> **[2:52](https://www.linkedin.com/learning/advanced-python-working-with-data/data-filtering?u=76281980&t=172)** So I'm going to run python on the filtering example.
+> **[2:52](https://www.linkedin.com/learning/advanced-python-working-with-data/data-filtering?u=76281980&t=172)** So I'm going to run [[Python (Programming Language)|python]] on the filtering example.
 >
 > **[2:58](https://www.linkedin.com/learning/advanced-python-working-with-data/data-filtering?u=76281980&t=178)** And sure enough, you can can see in the result that all the odd numbers are now remaining, the evens are gone.
 >
@@ -1017,7 +1008,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/advanced-python-working-with-data/data-filtering?u=76281980&t=188)** So let's try using this on our massive earthquake dataset, all right?
 >
-> **[3:14](https://www.linkedin.com/learning/advanced-python-working-with-data/data-filtering?u=76281980&t=194)** So let's close the terminal and let's comment out the previous example, and let's load our JSON, right?
+> **[3:14](https://www.linkedin.com/learning/advanced-python-working-with-data/data-filtering?u=76281980&t=194)** So let's close the terminal and let's comment out the previous example, and let's load our [[JSON]], right?
 >
 > **[3:23](https://www.linkedin.com/learning/advanced-python-working-with-data/data-filtering?u=76281980&t=203)** So this might surprise you, okay?
 >
@@ -1089,7 +1080,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Python (Programming Language)|Python]] (2), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[JSON]] (1)
 > **Code Identifiers:** filterevens (2), filteruppers (2), notaquake (2)
 > **CLI Commands:** python (2), make (1)
 > **Tools:** terminal (3)
@@ -1098,8 +1089,7 @@ created: 2026-05-02
 > **File Paths:** filtering.py (1)
 > **Env Vars:** json (1)
 
-#### Data transformation
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-data/data-transformation?u=76281980)
+#### [Data transformation](https://www.linkedin.com/learning/advanced-python-working-with-data/data-transformation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1107,7 +1097,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/advanced-python-working-with-data/data-transformation?u=76281980&t=3)** So you might find yourself in a situation where you need to transform the data from one format into another.
 >
-> **[0:10](https://www.linkedin.com/learning/advanced-python-working-with-data/data-transformation?u=76281980&t=10)** Python provides a function that can help with this.
+> **[0:10](https://www.linkedin.com/learning/advanced-python-working-with-data/data-transformation?u=76281980&t=10)** [[Python (Programming Language)|Python]] provides a function that can help with this.
 >
 > **[0:12](https://www.linkedin.com/learning/advanced-python-working-with-data/data-transformation?u=76281980&t=12)** It's called the map function.
 >
@@ -1217,7 +1207,7 @@ created: 2026-05-02
 >
 > **[5:05](https://www.linkedin.com/learning/advanced-python-working-with-data/data-transformation?u=76281980&t=305)** So what I'm going to do is write a function called simplify and that's going to take a quake as an argument, all right.
 >
-> **[5:14](https://www.linkedin.com/learning/advanced-python-working-with-data/data-transformation?u=76281980&t=314)** And I'm going to return a new JSON data structure, and that JSON data structure is going to have a place in it.
+> **[5:14](https://www.linkedin.com/learning/advanced-python-working-with-data/data-transformation?u=76281980&t=314)** And I'm going to return a new [[JSON]] data structure, and that JSON data structure is going to have a place in it.
 >
 > **[5:20](https://www.linkedin.com/learning/advanced-python-working-with-data/data-transformation?u=76281980&t=320)** And that is going to be the quake's properties.
 >
@@ -1297,7 +1287,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[JSON]] (5), [[Python (Programming Language)|Python]] (2), power (1)
+> **Frameworks & Libraries:** [[JSON]] (5), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** make (4), python (2), find (1)
 > **Env Vars:** json (5)
 > **Cross-References:** go back to (3), previous video (1)
@@ -1306,8 +1296,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1), scroll up (1)
 > **Analogies:** imagine (2)
 
-#### Solution: Build a data summary
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-data/solution-build-a-data-summary-24354353?u=76281980)
+#### [Solution: Build a data summary](https://www.linkedin.com/learning/advanced-python-working-with-data/solution-build-a-data-summary-24354353?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1327,7 +1316,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/advanced-python-working-with-data/solution-build-a-data-summary-24354353?u=76281980&t=32)** And this was a bit of a trick question because that data is contained right within the first part of the file.
 >
-> **[0:39](https://www.linkedin.com/learning/advanced-python-working-with-data/solution-build-a-data-summary-24354353?u=76281980&t=39)** So I just used the count data field inside the metadata to get the total number of quakes.
+> **[0:39](https://www.linkedin.com/learning/advanced-python-working-with-data/solution-build-a-data-summary-24354353?u=76281980&t=39)** So I just used the count data field inside the [[Metadata]] to get the total number of quakes.
 >
 > **[0:45](https://www.linkedin.com/learning/advanced-python-working-with-data/solution-build-a-data-summary-24354353?u=76281980&t=45)** Of course, if you wanted to use the length function to get the length of the features array itself, that's also fine.
 >
@@ -1343,7 +1332,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/advanced-python-working-with-data/solution-build-a-data-summary-24354353?u=76281980&t=93)** So the third value we had to calculate was the name of the place that had the seismic event that was felt by the most number of people.
 >
-> **[1:45](https://www.linkedin.com/learning/advanced-python-working-with-data/solution-build-a-data-summary-24354353?u=76281980&t=105)** So when you hear the word most, that usually means the max function.
+> **[1:45](https://www.linkedin.com/learning/advanced-python-working-with-data/solution-build-a-data-summary-24354353?u=76281980&t=105)** So when you hear the [[Microsoft Word|word]] most, that usually means the max function.
 >
 > **[1:50](https://www.linkedin.com/learning/advanced-python-working-with-data/solution-build-a-data-summary-24354353?u=76281980&t=110)** And so I used the max function and I defined a key function named getfelt, which is down here.
 >
@@ -1371,7 +1360,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Metadata]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (3), make (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
@@ -1382,12 +1371,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of collection classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-data/overview-of-collection-classes?u=76281980)
+#### [Overview of collection classes](https://www.linkedin.com/learning/advanced-python-working-with-data/overview-of-collection-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-data/overview-of-collection-classes?u=76281980&t=0)** - [Instructor] Python ships with a basic set of data types for working with collections of data and you've probably already used some or all of these in your work at some point.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-data/overview-of-collection-classes?u=76281980&t=0)** - [Instructor] [[Python (Programming Language)|Python]] ships with a basic set of data types for working with collections of data and you've probably already used some or all of these in your work at some point.
 >
 > **[0:10](https://www.linkedin.com/learning/advanced-python-working-with-data/overview-of-collection-classes?u=76281980&t=10)** In this chapter, we're going to learn about some of the more specialized and useful collection types and how they build on the basic collection classes to help solve different kinds of programming problems.
 >
@@ -1407,13 +1395,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Python (Programming Language)|Python]] (4), [[Programming]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4)
 > **CLI Commands:** python (4)
 > **Definitions:** is a  (2), is an  (1), known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Named tuples
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-data/named-tuples?u=76281980)
+#### [Named tuples](https://www.linkedin.com/learning/advanced-python-working-with-data/named-tuples?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1427,7 +1414,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/advanced-python-working-with-data/named-tuples?u=76281980&t=23)** Now this may seem all fine and good but as my program becomes more complex, this kind of code easily loses its meaning and becomes harder to read especially if I don't keep the names of all the point variables clear and meaningful.
 >
-> **[0:37](https://www.linkedin.com/learning/advanced-python-working-with-data/named-tuples?u=76281980&t=37)** I could just define a Python class and give it member properties for X and Y and then write getter and setter functions for the properties.
+> **[0:37](https://www.linkedin.com/learning/advanced-python-working-with-data/named-tuples?u=76281980&t=37)** I could just define a [[Python (Programming Language)|Python]] class and give it member properties for X and Y and then write getter and setter functions for the properties.
 >
 > **[0:45](https://www.linkedin.com/learning/advanced-python-working-with-data/named-tuples?u=76281980&t=45)** But that seems a little much for a relatively simple data structure.
 >
@@ -1523,7 +1510,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Python (Programming Language)|Python]] (2), hit (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** make (3), python (2)
 > **File Paths:** namedtuple.py (1)
 > **Tools:** terminal (1)
@@ -1532,12 +1519,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - let (1)
 
-#### Default dictionaries
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-data/default-dictionaries?u=76281980)
+#### [Default dictionaries](https://www.linkedin.com/learning/advanced-python-working-with-data/default-dictionaries?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-data/default-dictionaries?u=76281980&t=0)** - [Instructor] Just about every non-trivial Python program uses dictionaries in some way.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-data/default-dictionaries?u=76281980&t=0)** - [Instructor] Just about every non-trivial [[Python (Programming Language)|Python]] program uses dictionaries in some way.
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-python-working-with-data/default-dictionaries?u=76281980&t=5)** They are a great way to associate data values with unique keys for fast lookup.
 >
@@ -1637,15 +1623,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (4), python (1)
 > **Tools:** terminal (2)
 > **Definitions:** is an  (2)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Counters
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-data/counters?u=76281980)
+#### [Counters](https://www.linkedin.com/learning/advanced-python-working-with-data/counters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1715,7 +1700,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/advanced-python-working-with-data/counters?u=76281980&t=189)** And this is the counter example.
 >
-> **[3:10](https://www.linkedin.com/learning/advanced-python-working-with-data/counters?u=76281980&t=190)** So I'll run Python counter, and you can see that there are two people named James in the first class.
+> **[3:10](https://www.linkedin.com/learning/advanced-python-working-with-data/counters?u=76281980&t=190)** So I'll run [[Python (Programming Language)|Python]] counter, and you can see that there are two people named James in the first class.
 >
 > **[3:17](https://www.linkedin.com/learning/advanced-python-working-with-data/counters?u=76281980&t=197)** Is that right?
 >
@@ -1783,7 +1768,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Analogies:** for example (2), just like (1)
 > **CLI Commands:** make (1), python (1)
 > **Definitions:** is a  (1), in other words (1)
@@ -1791,8 +1776,7 @@ created: 2026-05-02
 > **Prerequisites:** initialization (1)
 > **Speakers:** - [instructor] (1)
 
-#### The deque class
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-data/the-deque-class?u=76281980)
+#### [The deque class](https://www.linkedin.com/learning/advanced-python-working-with-data/the-deque-class?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1902,15 +1886,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4)
 > **Definitions:** is called (1), stands for (1)
 > **Code Identifiers:** ascii_lowercase (1)
 > **Tools:** terminal (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Classify event types
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-data/solution-classify-event-types-24354354?u=76281980)
+#### [Solution: Classify event types](https://www.linkedin.com/learning/advanced-python-working-with-data/solution-classify-event-types-24354354?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1973,8 +1955,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of serialization
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-data/overview-of-serialization?u=76281980)
+#### [Overview of serialization](https://www.linkedin.com/learning/advanced-python-working-with-data/overview-of-serialization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1992,34 +1973,33 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/advanced-python-working-with-data/overview-of-serialization?u=76281980&t=27)** It doesn't really matter.
 >
-> **[0:29](https://www.linkedin.com/learning/advanced-python-working-with-data/overview-of-serialization?u=76281980&t=29)** In this chapter, we're going to use some of the built-in Python methods, or taking a set of data and serializing it to and from a couple of common file formats.
+> **[0:29](https://www.linkedin.com/learning/advanced-python-working-with-data/overview-of-serialization?u=76281980&t=29)** In this chapter, we're going to use some of the built-in [[Python (Programming Language)|Python]] methods, or taking a set of data and serializing it to and from a couple of common file formats.
 >
-> **[0:40](https://www.linkedin.com/learning/advanced-python-working-with-data/overview-of-serialization?u=76281980&t=40)** In this case, JSON or JavaScript Object Notation, and Comma Separated Values or CSV files.
+> **[0:40](https://www.linkedin.com/learning/advanced-python-working-with-data/overview-of-serialization?u=76281980&t=40)** In this case, [[JSON]] or [[JavaScript]] Object Notation, and Comma Separated Values or CSV files.
 >
 > **[0:48](https://www.linkedin.com/learning/advanced-python-working-with-data/overview-of-serialization?u=76281980&t=48)** There's also a third common format called xml, but that's beyond the scope of this course, so we're just going to focus on JSON and CSV.
 >
-> **[0:56](https://www.linkedin.com/learning/advanced-python-working-with-data/overview-of-serialization?u=76281980&t=56)** Comma Separated Value files are a popular way of storing data because it's one of the formats used by spreadsheet programs like Microsoft Excel, and Apple Numbers, and Google Sheets, and so on.
+> **[0:56](https://www.linkedin.com/learning/advanced-python-working-with-data/overview-of-serialization?u=76281980&t=56)** Comma Separated Value files are a popular way of storing data because it's one of the formats used by spreadsheet programs like [[Microsoft Excel]], and Apple Numbers, and [[Google]] Sheets, and so on.
 >
-> **[1:09](https://www.linkedin.com/learning/advanced-python-working-with-data/overview-of-serialization?u=76281980&t=69)** JSON is also a popular data storage and interchange format, and it's the format that we've been using throughout this course.
+> **[1:09](https://www.linkedin.com/learning/advanced-python-working-with-data/overview-of-serialization?u=76281980&t=69)** JSON is also a popular [[Data Storage]] and interchange format, and it's the format that we've been using throughout this course.
 >
 > **[1:17](https://www.linkedin.com/learning/advanced-python-working-with-data/overview-of-serialization?u=76281980&t=77)** By the end of this chapter you'll be able to use Python to read and write data from both of these common file formats.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[JSON]] (3), [[Python (Programming Language)|Python]] (2), database (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[JSON]] (3), [[Python (Programming Language)|Python]] (2), [[JavaScript]] (1), [[Microsoft Excel]] (1), [[Google]] (1)
 > **Env Vars:** json (3), csv (2)
 > **CLI Commands:** python (2)
 > **Definitions:** is called (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Serializing data as CSV
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-data/serializing-data-as-csv?u=76281980)
+#### [Serializing data as CSV](https://www.linkedin.com/learning/advanced-python-working-with-data/serializing-data-as-csv?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-data/serializing-data-as-csv?u=76281980&t=0)** - [Instructor] For this example, we're going to take a subset of our JSON data and save it to the comma-separated values format.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-data/serializing-data-as-csv?u=76281980&t=0)** - [Instructor] For this example, we're going to take a subset of our [[JSON]] data and save it to the comma-separated values format.
 >
-> **[0:07](https://www.linkedin.com/learning/advanced-python-working-with-data/serializing-data-as-csv?u=76281980&t=7)** You can find the documentation for the CSV module here on the Python website if you're interested in reading it on your own time.
+> **[0:07](https://www.linkedin.com/learning/advanced-python-working-with-data/serializing-data-as-csv?u=76281980&t=7)** You can find the documentation for the CSV module here on the [[Python (Programming Language)|Python]] website if you're interested in reading it on your own time.
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-python-working-with-data/serializing-data-as-csv?u=76281980&t=15)** But the process is actually pretty simple and straightforward.
 >
@@ -2173,7 +2153,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Python (Programming Language)|Python]] (2), [[JSON]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[JSON]] (1)
 > **Env Vars:** csv (7), json (1), url (1)
 > **CLI Commands:** make (4), python (2), find (1)
 > **Code Identifiers:** serialize_csv (3)
@@ -2182,12 +2162,11 @@ created: 2026-05-02
 > **Cross-References:** earlier in (1)
 > **Documentation:** the documentation (1)
 
-#### Serializing data as JSON
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-data/serializing-data-as-json?u=76281980)
+#### [Serializing data as JSON](https://www.linkedin.com/learning/advanced-python-working-with-data/serializing-data-as-json?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-data/serializing-data-as-json?u=76281980&t=0)** - [Instructor] Throughout the course, we've been using the load function in the JSON module to load our dataset from a JSON file.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-data/serializing-data-as-json?u=76281980&t=0)** - [Instructor] Throughout the course, we've been using the load function in the [[JSON]] module to load our dataset from a JSON file.
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-python-working-with-data/serializing-data-as-json?u=76281980&t=8)** But you can also use the JSON module to easily save data in the JSON format, both into a string and into a file.
 >
@@ -2349,11 +2328,11 @@ created: 2026-05-02
 >
 > **[6:50](https://www.linkedin.com/learning/advanced-python-working-with-data/serializing-data-as-json?u=76281980&t=410)** So our JSON file has been created, and the content of the JSON file is now our simplified JSON structure, right?
 >
-> **[6:57](https://www.linkedin.com/learning/advanced-python-working-with-data/serializing-data-as-json?u=76281980&t=417)** So by combining the data manipulation functions like filter and map with the serialization functions in the JSON module, it's pretty straightforward to modify a dataset and save it as JSON.
+> **[6:57](https://www.linkedin.com/learning/advanced-python-working-with-data/serializing-data-as-json?u=76281980&t=417)** So by combining the [[Data Manipulation]] functions like filter and map with the serialization functions in the JSON module, it's pretty straightforward to modify a dataset and save it as JSON.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (21), data (12), next (1), [[Data Manipulation]] (1)
+> **Frameworks & Libraries:** [[JSON]] (21), [[Data Manipulation]] (1)
 > **Env Vars:** json (19), url (1)
 > **CLI Commands:** make (7)
 > **Tools:** terminal (3)
@@ -2362,14 +2341,13 @@ created: 2026-05-02
 > **Cross-References:** earlier in (1)
 > **UI Navigation:** click on (1)
 
-#### Deserialization of data
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-data/deserialization-of-data?u=76281980)
+#### [Deserialization of data](https://www.linkedin.com/learning/advanced-python-working-with-data/deserialization-of-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-data/deserialization-of-data?u=76281980&t=0)** - [Instructor] Now that we've seen how to save data to a csv file, in this example, we're going to do the opposite.
 >
-> **[0:06](https://www.linkedin.com/learning/advanced-python-working-with-data/deserialization-of-data?u=76281980&t=6)** We're going to load information from an existing csv file into a json structure.
+> **[0:06](https://www.linkedin.com/learning/advanced-python-working-with-data/deserialization-of-data?u=76281980&t=6)** We're going to load information from an existing csv file into a [[JSON]] structure.
 >
 > **[0:12](https://www.linkedin.com/learning/advanced-python-working-with-data/deserialization-of-data?u=76281980&t=12)** And this process is sometimes called deserialization.
 >
@@ -2465,7 +2443,7 @@ created: 2026-05-02
 >
 > **[5:49](https://www.linkedin.com/learning/advanced-python-working-with-data/deserialization-of-data?u=76281980&t=349)** So I can write if sniffer.has_header, and I'll give the sample that we just read in, okay?
 >
-> **[5:59](https://www.linkedin.com/learning/advanced-python-working-with-data/deserialization-of-data?u=76281980&t=359)** Now, if the file does have header information, then I just need to skip over the first row, which I can do by using the built-in python function called next, right, which is just reads the next value of any iterator which the reader is.
+> **[5:59](https://www.linkedin.com/learning/advanced-python-working-with-data/deserialization-of-data?u=76281980&t=359)** Now, if the file does have header information, then I just need to skip over the first row, which I can do by using the built-in [[Python (Programming Language)|python]] function called next, right, which is just reads the next value of any iterator which the reader is.
 >
 > **[6:15](https://www.linkedin.com/learning/advanced-python-working-with-data/deserialization-of-data?u=76281980&t=375)** So it's going to skip over the first row, so now let's go back and run this code again.
 >
@@ -2477,7 +2455,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[JSON]] (5), next (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[JSON]] (5), [[Python (Programming Language)|Python]] (1)
 > **Tools:** terminal (5)
 > **File Paths:** largequakes.csv (2)
 > **CLI Commands:** python (1), make (1)
@@ -2486,14 +2464,13 @@ created: 2026-05-02
 > **Code Identifiers:** has_header (1)
 > **Env Vars:** csv (1)
 
-#### Challenge: Create a CSV file
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-data/challenge-create-a-csv-file?u=76281980)
+#### [Challenge: Create a CSV file](https://www.linkedin.com/learning/advanced-python-working-with-data/challenge-create-a-csv-file?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-data/challenge-create-a-csv-file?u=76281980&t=0)** - Time for another programming challenge.
 >
-> **[0:07](https://www.linkedin.com/learning/advanced-python-working-with-data/challenge-create-a-csv-file?u=76281980&t=7)** All right, for this challenge, we are going to create a CSV file that contains the 40 most significant seismic events contained within our JSON data file, right?
+> **[0:07](https://www.linkedin.com/learning/advanced-python-working-with-data/challenge-create-a-csv-file?u=76281980&t=7)** All right, for this challenge, we are going to create a CSV file that contains the 40 most significant seismic events contained within our [[JSON]] data file, right?
 >
 > **[0:20](https://www.linkedin.com/learning/advanced-python-working-with-data/challenge-create-a-csv-file?u=76281980&t=20)** So here, let me open up the starting point.
 >
@@ -2503,7 +2480,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/advanced-python-working-with-data/challenge-create-a-csv-file?u=76281980&t=28)** It's going to have the 40 most significant seismic events ordered by the most recent.
 >
-> **[0:33](https://www.linkedin.com/learning/advanced-python-working-with-data/challenge-create-a-csv-file?u=76281980&t=33)** There's going to be a header row that contains the Magnitude, the Place, the Felt Reports, the Date and a Google Map link which you're going to create.
+> **[0:33](https://www.linkedin.com/learning/advanced-python-working-with-data/challenge-create-a-csv-file?u=76281980&t=33)** There's going to be a header row that contains the Magnitude, the Place, the Felt Reports, the Date and a [[Google]] Map link which you're going to create.
 >
 > **[0:45](https://www.linkedin.com/learning/advanced-python-working-with-data/challenge-create-a-csv-file?u=76281980&t=45)** And the date should be in the format of the four digit year followed by two digit month and two digit day. Okay?
 >
@@ -2569,7 +2546,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (7), data (4), [[Programming]] (1), [[JSON]] (1), next (1)
+> **Frameworks & Libraries:** [[Google]] (7), [[JSON]] (1)
 > **Env Vars:** csv (3), json (1), ctrl (1), url (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** go back to (1), in the next (1)
@@ -2577,8 +2554,7 @@ created: 2026-05-02
 > **Speakers:** - time (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Create a CSV file
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-data/solution-create-a-csv-file?u=76281980)
+#### [Solution: Create a CSV file](https://www.linkedin.com/learning/advanced-python-working-with-data/solution-create-a-csv-file?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2588,7 +2564,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-python-working-with-data/solution-create-a-csv-file?u=76281980&t=8)** Okay, so our task in this challenge was to create a CSV file containing the 40 most significant seismic events in our data file, ordered by most recent date, along with certain columns of data.
 >
-> **[0:23](https://www.linkedin.com/learning/advanced-python-working-with-data/solution-create-a-csv-file?u=76281980&t=23)** And we had to make a Google Map link.
+> **[0:23](https://www.linkedin.com/learning/advanced-python-working-with-data/solution-create-a-csv-file?u=76281980&t=23)** And we had to make a [[Google]] Map link.
 >
 > **[0:24](https://www.linkedin.com/learning/advanced-python-working-with-data/solution-create-a-csv-file?u=76281980&t=24)** All right, so if we look at my solution, remember we had to like find the most significant events, which is not the magnitude, right?
 >
@@ -2598,7 +2574,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/advanced-python-working-with-data/solution-create-a-csv-file?u=76281980&t=44)** Then my code uses the sorted function to sort all of the quake data by the significance field from largest down to smallest.
 >
-> **[0:55](https://www.linkedin.com/learning/advanced-python-working-with-data/solution-create-a-csv-file?u=76281980&t=55)** Now remember, I'm only interested in the top 40 events, so I'm going to use Python's slicing notation here just to get the first 40 of all the almost 12,000 events in the data.
+> **[0:55](https://www.linkedin.com/learning/advanced-python-working-with-data/solution-create-a-csv-file?u=76281980&t=55)** Now remember, I'm only interested in the top 40 events, so I'm going to use [[Python (Programming Language)|Python]]'s slicing notation here just to get the first 40 of all the almost 12,000 events in the data.
 >
 > **[1:06](https://www.linkedin.com/learning/advanced-python-working-with-data/solution-create-a-csv-file?u=76281980&t=66)** So that gives me a much smaller data set to work with.
 >
@@ -2626,7 +2602,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/advanced-python-working-with-data/solution-create-a-csv-file?u=76281980&t=123)** So first, I convert the time property into a date by using the datetime module, and calling the fromtimestamp function.
 >
-> **[2:12](https://www.linkedin.com/learning/advanced-python-working-with-data/solution-create-a-csv-file?u=76281980&t=132)** And remember, I've got to divide by a thousand because the data inside the JSON is in milliseconds, and this function expects seconds, not milliseconds.
+> **[2:12](https://www.linkedin.com/learning/advanced-python-working-with-data/solution-create-a-csv-file?u=76281980&t=132)** And remember, I've got to divide by a thousand because the data inside the [[JSON]] is in milliseconds, and this function expects seconds, not milliseconds.
 >
 > **[2:22](https://www.linkedin.com/learning/advanced-python-working-with-data/solution-create-a-csv-file?u=76281980&t=142)** Then I need to build a Google Map link using the latitude and longitude properties stored in the geometry section of the event data.
 >
@@ -2656,7 +2632,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Google]] (4), [[Python (Programming Language)|Python]] (1), next (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Google]] (4), [[Python (Programming Language)|Python]] (1), [[JSON]] (1)
 > **Env Vars:** csv (2), json (1), url (1)
 > **CLI Commands:** make (1), find (1), python (1)
 > **Cross-References:** go back to (1)
@@ -2670,12 +2646,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of logging
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-data/overview-of-logging?u=76281980)
+#### [Overview of logging](https://www.linkedin.com/learning/advanced-python-working-with-data/overview-of-logging?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-data/overview-of-logging?u=76281980&t=0)** - [Instructor] In this chapter, we're going to learn about the logging features available in Python, and why you'd want to use them.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-data/overview-of-logging?u=76281980&t=0)** - [Instructor] In this chapter, we're going to learn about the logging features available in [[Python (Programming Language)|Python]], and why you'd want to use them.
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-python-working-with-data/overview-of-logging?u=76281980&t=6)** So logging is an important tool in the development process, and particularly when you're working with data because it enables your code to record events as the program executes for later analysis.
 >
@@ -2703,18 +2678,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Python (Programming Language)|Python]] (2), [[Debugging]] (1), business (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Basic logging
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-data/basic-logging?u=76281980)
+#### [Basic logging](https://www.linkedin.com/learning/advanced-python-working-with-data/basic-logging?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-data/basic-logging?u=76281980&t=0)** - [Instructor] To use Python's logging features, you need to import the logging module into your app.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-data/basic-logging?u=76281980&t=0)** - [Instructor] To use [[Python (Programming Language)|Python]]'s logging features, you need to import the logging module into your app.
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-python-working-with-data/basic-logging?u=76281980&t=6)** To send information to the log output, there are individual functions for each kind or level of message, and there are five different methods to use for recording log messages.
 >
@@ -2870,7 +2844,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), application (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** basicconfig (7), basiclog_start (1)
 > **Warnings:** warning (7)
 > **CLI Commands:** make (4), python (1)
@@ -2879,12 +2853,11 @@ created: 2026-05-02
 > **Analogies:** such as (2)
 > **Env Vars:** debug (1)
 
-#### Custom logging
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-data/custom-logging?u=76281980)
+#### [Custom logging](https://www.linkedin.com/learning/advanced-python-working-with-data/custom-logging?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-data/custom-logging?u=76281980&t=0)** - [Instructor] The Python logging module is very flexible, and it makes it easy to customize the message output depending on your needs and this way, you're not stuck with a single message format.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-data/custom-logging?u=76281980&t=0)** - [Instructor] The [[Python (Programming Language)|Python]] logging module is very flexible, and it makes it easy to customize the message output depending on your needs and this way, you're not stuck with a single message format.
 >
 > **[0:10](https://www.linkedin.com/learning/advanced-python-working-with-data/custom-logging?u=76281980&t=10)** So the basic config function takes two arguments.
 >
@@ -2894,7 +2867,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/advanced-python-working-with-data/custom-logging?u=76281980&t=28)** So if the format argument contains a date specifier, then the date format argument is used to format the date string using the same kind of date formatting strings that you would pass to say the strftime function.
 >
-> **[0:41](https://www.linkedin.com/learning/advanced-python-working-with-data/custom-logging?u=76281980&t=41)** The table that I'm showing you here, lists some of the formatting tokens you can use in the format argument.
+> **[0:41](https://www.linkedin.com/learning/advanced-python-working-with-data/custom-logging?u=76281980&t=41)** The table that I'm showing you here, lists some of the formatting [[Tokens]] you can use in the format argument.
 >
 > **[0:49](https://www.linkedin.com/learning/advanced-python-working-with-data/custom-logging?u=76281980&t=49)** Now, this is not an exhaustive list, okay?
 >
@@ -3078,7 +3051,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Python (Programming Language)|Python]] (2), [[Tokens]] (2), [[Search]] (1), feature (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Tokens]] (2)
 > **CLI Commands:** make (3), python (2)
 > **Analogies:** for example (2), such as (1)
 > **Code Identifiers:** funcname (2)
@@ -3092,16 +3065,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-data/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/advanced-python-working-with-data/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-data/next-steps?u=76281980&t=0)** - [Joe] Well, that brings us to the end of the course.
 >
-> **[0:03](https://www.linkedin.com/learning/advanced-python-working-with-data/next-steps?u=76281980&t=3)** Congratulations on completing the course, and I hope you enjoyed learning about Python's built-in functions and features for working with data.
+> **[0:03](https://www.linkedin.com/learning/advanced-python-working-with-data/next-steps?u=76281980&t=3)** Congratulations on completing the course, and I hope you enjoyed learning about [[Python (Programming Language)|Python]]'s built-in functions and features for working with data.
 >
-> **[0:11](https://www.linkedin.com/learning/advanced-python-working-with-data/next-steps?u=76281980&t=11)** We've only just scratched the surface of what this great language can do when it comes to data processing, however, so I hope you take some time to explore some of the other great courses here in the library that cover this rapidly growing area of computing.
+> **[0:11](https://www.linkedin.com/learning/advanced-python-working-with-data/next-steps?u=76281980&t=11)** We've only just scratched the surface of what this great language can do when it comes to [[Data Processing]], however, so I hope you take some time to explore some of the other great courses here in the library that cover this rapidly growing area of computing.
 >
 > **[0:24](https://www.linkedin.com/learning/advanced-python-working-with-data/next-steps?u=76281980&t=24)** I hope to see you again in another one of my courses soon.
 >
@@ -3109,7 +3081,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Data Processing]] (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [joe] (1)
 

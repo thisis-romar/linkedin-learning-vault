@@ -71,8 +71,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The promise of AI for sustainability
-> [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/the-promise-of-ai-for-sustainability?u=76281980)
+#### [The promise of AI for sustainability](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/the-promise-of-ai-for-sustainability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -86,7 +85,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/the-promise-of-ai-for-sustainability?u=76281980&t=25)** And AI is an essential tool for driving the scale and pace that's needed.
 >
-> **[0:30](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/the-promise-of-ai-for-sustainability?u=76281980&t=30)** I'm Amy Luers, Senior Global Director for Sustainability Science and Innovation at Microsoft.
+> **[0:30](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/the-promise-of-ai-for-sustainability?u=76281980&t=30)** I'm Amy Luers, Senior Global Director for [[Sustainability]] Science and Innovation at [[Microsoft]].
 >
 > **[0:36](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/the-promise-of-ai-for-sustainability?u=76281980&t=36)** The era of AI is just beginning to unfold.
 >
@@ -94,16 +93,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Sustainability]] (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Sustainability]] (2), [[Microsoft]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - humanity (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/what-you-should-know?u=76281980&t=0)** - Before we begin, I want to highlight that this course is not a comprehensive overview of either sustainability or AI.
+> **[0:00](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/what-you-should-know?u=76281980&t=0)** - Before we begin, I want to highlight that this course is not a comprehensive overview of either [[Sustainability]] or AI.
 >
 > **[0:08](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/what-you-should-know?u=76281980&t=8)** Rather, I will explain the opportunities and the challenges that lie at the intersection of AI and sustainability.
 >
@@ -111,7 +109,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/what-you-should-know?u=76281980&t=19)** First, that AI is a critical tool for accelerating sustainability progress.
 >
-> **[0:24](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/what-you-should-know?u=76281980&t=24)** Second, that AI is not a silver bullet nor a guarantee for solving our climate and biodiversity crises.
+> **[0:24](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/what-you-should-know?u=76281980&t=24)** Second, that AI is not a silver bullet nor a guarantee for solving our climate and [[Biodiversity]] crises.
 >
 > **[0:32](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/what-you-should-know?u=76281980&t=32)** Finally, you will learn about what needs to happen to fully harness AI's capability for sustainability.
 >
@@ -121,7 +119,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[Sustainability]] (5), [[Biodiversity]] (1)
+> **Frameworks & Libraries:** [[Sustainability]] (5), [[Biodiversity]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - before (1)
 
@@ -130,8 +128,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The intersections of AI and sustainability
-> [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/the-intersections-of-ai-and-sustainability?u=76281980)
+#### [The intersections of AI and sustainability](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/the-intersections-of-ai-and-sustainability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -139,7 +136,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/the-intersections-of-ai-and-sustainability?u=76281980&t=8)** These tools are capable of carrying out complex tasks that previously, only humans could do.
 >
-> **[0:15](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/the-intersections-of-ai-and-sustainability?u=76281980&t=15)** As you will learn in this course, AI tools, if used responsibly, can be tremendous accelerators for sustainability progress.
+> **[0:15](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/the-intersections-of-ai-and-sustainability?u=76281980&t=15)** As you will learn in this course, AI tools, if used responsibly, can be tremendous accelerators for [[Sustainability]] progress.
 >
 > **[0:23](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/the-intersections-of-ai-and-sustainability?u=76281980&t=23)** Let me give you an example.
 >
@@ -155,7 +152,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/the-intersections-of-ai-and-sustainability?u=76281980&t=59)** Here are three primary ways that machines can learn.
 >
-> **[1:04](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/the-intersections-of-ai-and-sustainability?u=76281980&t=64)** First, there is what is known as supervised learning.
+> **[1:04](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/the-intersections-of-ai-and-sustainability?u=76281980&t=64)** First, there is what is known as [[Supervised Learning]].
 >
 > **[1:08](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/the-intersections-of-ai-and-sustainability?u=76281980&t=68)** This involves training an AI tool, using data that has been labeled.
 >
@@ -171,7 +168,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/the-intersections-of-ai-and-sustainability?u=76281980&t=112)** This is the process where AI tools learn to identify patterns and relationships in data sets without labels or any other explicit instructions.
 >
-> **[2:03](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/the-intersections-of-ai-and-sustainability?u=76281980&t=123)** For example, consider building an AI tool to improve weather forecasting.
+> **[2:03](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/the-intersections-of-ai-and-sustainability?u=76281980&t=123)** For example, consider building an AI tool to improve weather [[Forecasting]].
 >
 > **[2:09](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/the-intersections-of-ai-and-sustainability?u=76281980&t=129)** You could do this by giving it large amounts of weather data, such as temperature, humidity, precipitation, and wind.
 >
@@ -179,7 +176,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/the-intersections-of-ai-and-sustainability?u=76281980&t=142)** This ability to learn from data without specific labels or other guidance makes unsupervised learning particularly powerful for understanding and predicting complex systems and for applications where labeling data is simply impractical.
 >
-> **[2:41](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/the-intersections-of-ai-and-sustainability?u=76281980&t=161)** Finally, there is reinforcement learning, which is a method where AI tools learn through trial and error, receiving feedback in the form of rewards or penalties.
+> **[2:41](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/the-intersections-of-ai-and-sustainability?u=76281980&t=161)** Finally, there is [[Reinforcement Learning]], which is a method where AI tools learn through trial and error, receiving feedback in the form of rewards or penalties.
 >
 > **[2:52](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/the-intersections-of-ai-and-sustainability?u=76281980&t=172)** For example, you might want to teach a machine to manage a building's energy system, reducing energy consumption while ensuring the comfort of the building's occupants.
 >
@@ -193,7 +190,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), data (12), [[Sustainability]] (3), [[Supervised Learning]] (1), [[Forecasting]] (1)
+> **Frameworks & Libraries:** [[Sustainability]] (3), [[Supervised Learning]] (1), [[Forecasting]] (1), [[Reinforcement Learning]] (1)
 > **Analogies:** such as (2), for example (2)
 > **Definitions:** known as (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -205,12 +202,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Sustainability bottlenecks prevent global progress
-> [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/sustainability-bottlenecks-prevent-global-progress?u=76281980)
+#### [Sustainability bottlenecks prevent global progress](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/sustainability-bottlenecks-prevent-global-progress?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/sustainability-bottlenecks-prevent-global-progress?u=76281980&t=0)** - So now that we know that AI is a collection of tools, an intelligent toolbox, if you will, I want to explain why this toolbox is so valuable in helping humanity overcome key bottlenecks that currently hinder sustainability progress.
+> **[0:00](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/sustainability-bottlenecks-prevent-global-progress?u=76281980&t=0)** - So now that we know that AI is a collection of tools, an intelligent toolbox, if you will, I want to explain why this toolbox is so valuable in helping humanity overcome key bottlenecks that currently hinder [[Sustainability]] progress.
 >
 > **[0:17](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/sustainability-bottlenecks-prevent-global-progress?u=76281980&t=17)** But before we go into these bottlenecks, let me share some context for the scale of the sustainability challenges that the world faces.
 >
@@ -218,7 +214,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/sustainability-bottlenecks-prevent-global-progress?u=76281980&t=37)** In response, international agreements have set ambitious global sustainability targets.
 >
-> **[0:43](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/sustainability-bottlenecks-prevent-global-progress?u=76281980&t=43)** By mid-century, carbon dioxide emissions must reach net zero, and by 2030, the loss of biodiversity must be halted and reversed.
+> **[0:43](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/sustainability-bottlenecks-prevent-global-progress?u=76281980&t=43)** By mid-century, carbon dioxide emissions must reach net zero, and by 2030, the loss of [[Biodiversity]] must be halted and reversed.
 >
 > **[0:55](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/sustainability-bottlenecks-prevent-global-progress?u=76281980&t=55)** The good news is that significant progress is actually being made toward these goals.
 >
@@ -234,7 +230,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/sustainability-bottlenecks-prevent-global-progress?u=76281980&t=108)** The first bottleneck is that the process of developing sustainability solutions is often both slow and expensive.
 >
-> **[1:56](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/sustainability-bottlenecks-prevent-global-progress?u=76281980&t=116)** Many solutions require the development of new products or materials that are less carbon intensive and ultimately have a net zero impact on carbon emissions.
+> **[1:56](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/sustainability-bottlenecks-prevent-global-progress?u=76281980&t=116)** Many solutions require the development of new [[Microsoft Products|products]] or materials that are less carbon intensive and ultimately have a net zero impact on carbon emissions.
 >
 > **[2:07](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/sustainability-bottlenecks-prevent-global-progress?u=76281980&t=127)** Traditional research methods often rely on empirical trial and error, which can be painstakingly slow and labor intensive.
 >
@@ -256,7 +252,7 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/sustainability-bottlenecks-prevent-global-progress?u=76281980&t=224)** The third bottleneck to sustainability progress is the growing sustainability skills gap.
 >
-> **[3:50](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/sustainability-bottlenecks-prevent-global-progress?u=76281980&t=230)** LinkedIn recently highlighted this gap in its Global Green Skills Report.
+> **[3:50](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/sustainability-bottlenecks-prevent-global-progress?u=76281980&t=230)** [[LinkedIn]] recently highlighted this gap in its Global Green Skills Report.
 >
 > **[3:55](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/sustainability-bottlenecks-prevent-global-progress?u=76281980&t=235)** In 2023, the number of jobs that required at least one green skill grew almost twice as fast as the share of the workforce with any green skills.
 >
@@ -274,25 +270,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (11), ai (7), next (2), [[Biodiversity]] (1), power (1)
+> **Frameworks & Libraries:** [[Sustainability]] (11), [[Biodiversity]] (1), [[Microsoft Products|Products]] (1), [[LinkedIn]] (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - so (1)
 
-#### AI accelerates the development of sustainability solutions
-> [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-accelerates-the-development-of-sustainability-solutions?u=76281980)
+#### [AI accelerates the development of sustainability solutions](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-accelerates-the-development-of-sustainability-solutions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-accelerates-the-development-of-sustainability-solutions?u=76281980&t=0)** - Did you know that by 2030, the world will need over 90 times more battery capacity, a 25% reduction in the carbon intensity of steel, and 30 times more durable carbon removal capacity compared to where we were in 2020?
 >
-> **[0:17](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-accelerates-the-development-of-sustainability-solutions?u=76281980&t=17)** These are just some of the profound challenges that can only be overcome with new sustainable materials, processes, and products.
+> **[0:17](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-accelerates-the-development-of-sustainability-solutions?u=76281980&t=17)** These are just some of the profound challenges that can only be overcome with new sustainable materials, processes, and [[Microsoft Products|products]].
 >
 > **[0:26](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-accelerates-the-development-of-sustainability-solutions?u=76281980&t=26)** However, as I explained in the previous video, there's a problem.
 >
-> **[0:30](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-accelerates-the-development-of-sustainability-solutions?u=76281980&t=30)** Current approaches for developing and deploying sustainability solutions can be painfully slow and costly.
+> **[0:30](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-accelerates-the-development-of-sustainability-solutions?u=76281980&t=30)** Current approaches for developing and deploying [[Sustainability]] solutions can be painfully slow and costly.
 >
 > **[0:37](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-accelerates-the-development-of-sustainability-solutions?u=76281980&t=37)** Consider, for example, the development of new materials such as those that are low in carbon or ones that can absorb carbon.
 >
@@ -304,7 +299,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-accelerates-the-development-of-sustainability-solutions?u=76281980&t=85)** Let me give you two examples to show just how powerful these new approaches to scientific discovery can be for accelerating the deployment of sustainability solutions.
 >
-> **[1:36](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-accelerates-the-development-of-sustainability-solutions?u=76281980&t=96)** First, consider the world's food systems, which are facing increasing risks from climate change, increasing demand from population growth, and demographic shifts.
+> **[1:36](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-accelerates-the-development-of-sustainability-solutions?u=76281980&t=96)** First, consider the world's food systems, which are facing increasing risks from [[Climate Change]], increasing demand from population growth, and demographic shifts.
 >
 > **[1:47](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-accelerates-the-development-of-sustainability-solutions?u=76281980&t=107)** Meanwhile, the global agricultural food systems account for nearly a third of all greenhouse gas emissions.
 >
@@ -318,7 +313,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-accelerates-the-development-of-sustainability-solutions?u=76281980&t=143)** AI is being used to speed this process up.
 >
-> **[2:25](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-accelerates-the-development-of-sustainability-solutions?u=76281980&t=145)** It is helping researchers discover more climate resilient crops by analyzing large, complex data sets, finding genetic markers linked to beneficial traits, and simulating how plants will react to environmental stressors.
+> **[2:25](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-accelerates-the-development-of-sustainability-solutions?u=76281980&t=145)** It is helping researchers discover more climate resilient crops by analyzing large, complex data sets, finding genetic markers linked to beneficial traits, and simulating how plants will [[React.js|react]] to environmental stressors.
 >
 > **[2:41](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-accelerates-the-development-of-sustainability-solutions?u=76281980&t=161)** Batteries provide another example.
 >
@@ -328,7 +323,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-accelerates-the-development-of-sustainability-solutions?u=76281980&t=176)** AI is being used to accelerate the discovery of new materials for batteries by enabling researchers to search through millions of potential candidates, predict their properties and performance, and identify the most promising ones for further testing and development.
 >
-> **[3:11](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-accelerates-the-development-of-sustainability-solutions?u=76281980&t=191)** For example, researchers at the Pacific Northwest National Labs in partnership with Microsoft used AI tools to narrow down millions of potential new battery materials to a few handfuls of promising candidates in less than a week.
+> **[3:11](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-accelerates-the-development-of-sustainability-solutions?u=76281980&t=191)** For example, researchers at the Pacific Northwest National Labs in partnership with [[Microsoft]] used AI tools to narrow down millions of potential new battery materials to a few handfuls of promising candidates in less than a week.
 >
 > **[3:28](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-accelerates-the-development-of-sustainability-solutions?u=76281980&t=208)** A screening process that could have taken more than 20 years to carry out using traditional research methods.
 >
@@ -342,7 +337,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Sustainability]] (3), data (2), [[Microsoft Products|Products]] (1), [[Climate Change]] (1)
+> **Frameworks & Libraries:** [[Sustainability]] (3), [[Microsoft Products|Products]] (1), [[Climate Change]] (1), [[React.js|React]] (1), [[Microsoft]] (1)
 > **Analogies:** for example (2), such as (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** ibm (1)
@@ -350,12 +345,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - did (1)
 
-#### AI can help predict and optimize sustainability systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-can-help-predict-and-optimize-sustainability-systems?u=76281980)
+#### [AI can help predict and optimize sustainability systems](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-can-help-predict-and-optimize-sustainability-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-can-help-predict-and-optimize-sustainability-systems?u=76281980&t=0)** - Sustainability solutions often require managing complex systems, like supply chains, electricity grids, and agricultural ecosystems.
+> **[0:00](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-can-help-predict-and-optimize-sustainability-systems?u=76281980&t=0)** - [[Sustainability]] solutions often require managing complex systems, like supply chains, electricity grids, and agricultural ecosystems.
 >
 > **[0:09](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-can-help-predict-and-optimize-sustainability-systems?u=76281980&t=9)** These systems are made up of many interconnected parts, where a seemingly minor change in one part can lead to a cascading consequences in other parts of the system that are often unpredictable using traditional tools.
 >
@@ -377,7 +371,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-can-help-predict-and-optimize-sustainability-systems?u=76281980&t=93)** These capabilities not only help to optimize electricity systems, but help to facilitate the integration of more renewable energy sources onto the grid.
 >
-> **[1:44](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-can-help-predict-and-optimize-sustainability-systems?u=76281980&t=104)** Biodiversity and ecosystems are another area where AI can transform the world's approach to sustainability.
+> **[1:44](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-can-help-predict-and-optimize-sustainability-systems?u=76281980&t=104)** [[Biodiversity]] and ecosystems are another area where AI can transform the world's approach to sustainability.
 >
 > **[1:51](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-can-help-predict-and-optimize-sustainability-systems?u=76281980&t=111)** Companies are increasingly required to measure and report any material impacts they have on nature.
 >
@@ -395,9 +389,9 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-can-help-predict-and-optimize-sustainability-systems?u=76281980&t=182)** One way it is doing this is by providing better and earlier warnings of extreme weather.
 >
-> **[3:09](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-can-help-predict-and-optimize-sustainability-systems?u=76281980&t=189)** For example, AI is transforming sub-seasonal weather forecasting, which is the prediction of weather conditions weeks and months in advance.
+> **[3:09](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-can-help-predict-and-optimize-sustainability-systems?u=76281980&t=189)** For example, AI is transforming sub-seasonal weather [[Forecasting]], which is the prediction of weather conditions weeks and months in advance.
 >
-> **[3:18](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-can-help-predict-and-optimize-sustainability-systems?u=76281980&t=198)** This timescale of forecasting can have important implications for agriculture, water management, disaster preparedness, and public health.
+> **[3:18](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-can-help-predict-and-optimize-sustainability-systems?u=76281980&t=198)** This timescale of forecasting can have important implications for agriculture, water management, disaster preparedness, and [[Public Health]].
 >
 > **[3:28](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-can-help-predict-and-optimize-sustainability-systems?u=76281980&t=208)** But sub-seasonal forecasting is currently not reliable because it requires precise knowledge of many variables that are difficult to measure and model using traditional process-based models.
 >
@@ -411,18 +405,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), management (3), [[Biodiversity]] (3), data (3), [[Forecasting]] (3)
+> **Frameworks & Libraries:** [[Biodiversity]] (3), [[Forecasting]] (3), [[Sustainability]] (2), [[Public Health]] (1)
 > **Analogies:** for example (1), such as (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - sustainability (1)
 
-#### AI can help empower the world's sustainability workforce
-> [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-can-help-empower-the-world-s-sustainability-workforce?u=76281980)
+#### [AI can help empower the world's sustainability workforce](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-can-help-empower-the-world-s-sustainability-workforce?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-can-help-empower-the-world-s-sustainability-workforce?u=76281980&t=0)** - As we strive to meet global sustainability goals, we face a significant challenge, a growing gap in sustainability skills.
+> **[0:00](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-can-help-empower-the-world-s-sustainability-workforce?u=76281980&t=0)** - As we strive to meet global [[Sustainability]] goals, we face a significant challenge, a growing gap in sustainability skills.
 >
 > **[0:08](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-can-help-empower-the-world-s-sustainability-workforce?u=76281980&t=8)** The world needs a workforce that can design, drive, and track progress towards our sustainability goals.
 >
@@ -432,17 +425,17 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-can-help-empower-the-world-s-sustainability-workforce?u=76281980&t=29)** AI can serve as a virtual assistant, providing specialized support that can enhance productivity.
 >
-> **[0:36](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-can-help-empower-the-world-s-sustainability-workforce?u=76281980&t=36)** Generative AI can assist professionals by distilling vast amounts of information needed for sustainability work, empowering them to make more informed and impactful decisions.
+> **[0:36](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-can-help-empower-the-world-s-sustainability-workforce?u=76281980&t=36)** [[Generative AI]] can assist professionals by distilling vast amounts of information needed for sustainability work, empowering them to make more informed and impactful decisions.
 >
 > **[0:47](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-can-help-empower-the-world-s-sustainability-workforce?u=76281980&t=47)** For example, AI is being used to create virtual assistance for farmers and agricultural advisors to help them stay up to date with the latest science and provide better advice to enable more efficient and productive agriculture.
 >
 > **[1:02](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-can-help-empower-the-world-s-sustainability-workforce?u=76281980&t=62)** Similarly, organizations like the United Nations Environment Program are developing apps like Environment GPT to distill the vast literature on environmental science into actionable insights.
 >
-> **[1:17](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-can-help-empower-the-world-s-sustainability-workforce?u=76281980&t=77)** The power of these sorts of domain-specific AI assistance has been clearly demonstrated by GitHub Copilot, which is used to help software developers write code.
+> **[1:17](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-can-help-empower-the-world-s-sustainability-workforce?u=76281980&t=77)** The power of these sorts of domain-specific AI assistance has been clearly demonstrated by [[GitHub Copilot]], which is used to help software developers write code.
 >
 > **[1:27](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-can-help-empower-the-world-s-sustainability-workforce?u=76281980&t=87)** In one study, GitHub Copilot enabled developers to complete coding tasks in less than half the time taken by developers who didn't use this virtual assistant.
 >
-> **[1:38](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-can-help-empower-the-world-s-sustainability-workforce?u=76281980&t=98)** The sustainability workforce, which is already limited in size, is forced to spend much of their time on repetitive, time-consuming manual tasks, such as data management and reporting.
+> **[1:38](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-can-help-empower-the-world-s-sustainability-workforce?u=76281980&t=98)** The sustainability workforce, which is already limited in size, is forced to spend much of their time on repetitive, time-consuming manual tasks, such as [[Data Management]] and reporting.
 >
 > **[1:51](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-can-help-empower-the-world-s-sustainability-workforce?u=76281980&t=111)** AI can automate many of these tasks, dramatically improving the efficiency of workflows.
 >
@@ -466,7 +459,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (10), ai (9), [[GitHub Copilot]] (2), [[Generative AI]] (1), power (1)
+> **Frameworks & Libraries:** [[Sustainability]] (10), [[GitHub Copilot]] (2), [[Generative AI]] (1), [[Data Management]] (1)
 > **CLI Commands:** make (2)
 > **Tools:** github (2)
 > **Analogies:** for example (1), such as (1)
@@ -478,12 +471,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The local vs. global challenges of AI resource use
-> [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/the-local-vs-global-challenges-of-ai-resource-use?u=76281980)
+#### [The local vs. global challenges of AI resource use](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/the-local-vs-global-challenges-of-ai-resource-use?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/the-local-vs-global-challenges-of-ai-resource-use?u=76281980&t=0)** - You've gotten a sense for how powerful AI tools can be in the fight against climate change and other sustainability challenges.
+> **[0:00](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/the-local-vs-global-challenges-of-ai-resource-use?u=76281980&t=0)** - You've gotten a sense for how powerful AI tools can be in the fight against [[Climate Change]] and other [[Sustainability]] challenges.
 >
 > **[0:07](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/the-local-vs-global-challenges-of-ai-resource-use?u=76281980&t=7)** Let's talk now about what it takes to build an AI tool.
 >
@@ -565,7 +557,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (16), data (8), power (3), [[Sustainability]] (2), next (2)
+> **Frameworks & Libraries:** [[Sustainability]] (2), [[Climate Change]] (1)
 > **Definitions:** known as (1), refers to (1), is a  (1)
 > **Analogies:** for example (2), imagine (1)
 > **Cross-References:** in the next (2)
@@ -574,8 +566,7 @@ created: 2026-05-02
 > **Versions:** 0.15 (1)
 > **Speakers:** - you (1)
 
-#### AI energy use—A local challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-energy-use-a-local-challenge?u=76281980)
+#### [AI energy use—A local challenge](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-energy-use-a-local-challenge?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -599,7 +590,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-energy-use-a-local-challenge?u=76281980&t=54)** Consider this.
 >
-> **[0:55](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-energy-use-a-local-challenge?u=76281980&t=55)** Currently each day, ChatGPT responds to about 200 million requests from around the world, consuming about 600 megawatt hours of electricity.
+> **[0:55](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-energy-use-a-local-challenge?u=76281980&t=55)** Currently each day, [[ChatGPT]] responds to about 200 million requests from around the world, consuming about 600 megawatt hours of electricity.
 >
 > **[1:07](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-energy-use-a-local-challenge?u=76281980&t=67)** Although this may sound like a large number, it's equivalent to the electricity consumed in just one minute by people in the United States watching TV at home.
 >
@@ -613,7 +604,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-energy-use-a-local-challenge?u=76281980&t=116)** For example, between 2010 and 2020, global data center workloads increased by 900%, yet electricity demand grew by only 10%.
 >
-> **[2:08](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-energy-use-a-local-challenge?u=76281980&t=128)** Moving forward, AI related efficiency gains will likely continue by improving software design, building smaller models, and optimizing hardware.
+> **[2:08](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-energy-use-a-local-challenge?u=76281980&t=128)** Moving forward, AI related efficiency gains will likely continue by improving [[Software Design]], building smaller models, and optimizing [[Hardware]].
 >
 > **[2:17](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-energy-use-a-local-challenge?u=76281980&t=137)** Now, let me turn from the global perspective to the local perspective, where the energy story can be quite different.
 >
@@ -625,7 +616,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-energy-use-a-local-challenge?u=76281980&t=166)** For example, data centers consumed 17% of Ireland's electricity in 2022.
 >
-> **[2:53](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-energy-use-a-local-challenge?u=76281980&t=173)** Meeting the demand of new data centers to support AI and other cloud computing will require increasing local electricity generating capacity, and modernizing local grids, particularly given that future growth in power generation must come from renewable sources.
+> **[2:53](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-energy-use-a-local-challenge?u=76281980&t=173)** Meeting the demand of new data centers to support AI and other [[Cloud Computing]] will require increasing local electricity generating capacity, and modernizing local grids, particularly given that future growth in power generation must come from renewable sources.
 >
 > **[3:12](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/ai-energy-use-a-local-challenge?u=76281980&t=192)** In this video, I explained that AI tools are not major consumers of electricity at a global scale, but if not managed properly, the rapid growth of AI could create significant pressures on local electricity grids, where data centers are concentrated.
 >
@@ -635,14 +626,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), data (12), [[ChatGPT]] (1), [[Software Design]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1), [[Software Design]] (1), [[Hardware]] (1), [[Cloud Computing]] (1)
 > **Analogies:** for example (3)
 > **Cross-References:** in the last (1), in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
-#### Emissions implications of building and running AI models
-> [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/emissions-implications-of-building-and-running-ai-models?u=76281980)
+#### [Emissions implications of building and running AI models](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/emissions-implications-of-building-and-running-ai-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -690,7 +680,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/emissions-implications-of-building-and-running-ai-models?u=76281980&t=166)** For example, in the last five years, the Netherlands reduced average grid carbon intensity by 31%, while India reduced average intensity by just 4%.
 >
-> **[2:56](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/emissions-implications-of-building-and-running-ai-models?u=76281980&t=176)** To meet the world's sustainability target of net zero emissions by 2050, AI tools and the infrastructure that enables them must be designed and operated to minimize their direct emissions.
+> **[2:56](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/emissions-implications-of-building-and-running-ai-models?u=76281980&t=176)** To meet the world's [[Sustainability]] target of net zero emissions by 2050, AI tools and the infrastructure that enables them must be designed and operated to minimize their direct emissions.
 >
 > **[3:09](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/emissions-implications-of-building-and-running-ai-models?u=76281980&t=189)** Large companies providing AI services are already investing heavily in renewable power to supply or offset the power used by their data centers.
 >
@@ -700,14 +690,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (16), power (3), data (2), next (1), [[Sustainability]] (1)
+> **Frameworks & Libraries:** [[Sustainability]] (1)
 > **Analogies:** such as (2), for example (2)
 > **Cross-References:** in the next (1), previous video (1), in the last (1)
 > **Definitions:** refers to (1), known as (1)
 > **Speakers:** - to (1)
 
-#### Indirect emissions implications of the use of AI tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/5903683?u=76281980)
+#### [Indirect emissions implications of the use of AI tools](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/5903683?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -733,7 +722,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/5903683?u=76281980&t=89)** The potential of AI tools to reduce emissions could be huge, especially if it enables breakthroughs that accelerate the development of zero-carbon energy sources such as geothermal and nuclear fusion, or breakthroughs that lead to better ways to store energy.
 >
-> **[1:46](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/5903683?u=76281980&t=106)** Breakthroughs like these are already starting to emerge, and they could be game changers for the world's sustainability journey.
+> **[1:46](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/5903683?u=76281980&t=106)** Breakthroughs like these are already starting to emerge, and they could be game changers for the world's [[Sustainability]] journey.
 >
 > **[1:53](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/5903683?u=76281980&t=113)** On the other hand, if AI is not governed properly, it could facilitate unsustainable consumption and resource extraction.
 >
@@ -741,7 +730,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), game (1), [[Sustainability]] (1), next (1)
+> **Frameworks & Libraries:** [[Sustainability]] (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
 > **Speakers:** - ai (1)
@@ -751,8 +740,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The benefits of AI for sustainability are not guaranteed
-> [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/the-benefits-of-ai-for-sustainability-are-not-guaranteed?u=76281980)
+#### [The benefits of AI for sustainability are not guaranteed](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/the-benefits-of-ai-for-sustainability-are-not-guaranteed?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -778,16 +766,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6)
 > **Definitions:** is a  (1)
 > **Speakers:** - a (1)
 
-#### What's needed to unlock AI's potential for sustainability
-> [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/what-s-needed-to-unlock-ai-s-potential-for-sustainability?u=76281980)
+#### [What's needed to unlock AI's potential for sustainability](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/what-s-needed-to-unlock-ai-s-potential-for-sustainability?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/what-s-needed-to-unlock-ai-s-potential-for-sustainability?u=76281980&t=0)** - Let me round out this course by walking you through the five key enabling conditions that are needed to unlock AI's full potential for sustainability.
+> **[0:00](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/what-s-needed-to-unlock-ai-s-potential-for-sustainability?u=76281980&t=0)** - Let me round out this course by walking you through the five key enabling conditions that are needed to unlock AI's full potential for [[Sustainability]].
 >
 > **[0:10](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/what-s-needed-to-unlock-ai-s-potential-for-sustainability?u=76281980&t=10)** These were identified in collaboration with sustainability researchers and practitioners with many years of experience in the field.
 >
@@ -847,7 +833,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (25), [[Sustainability]] (21), data (7), game (1)
+> **Frameworks & Libraries:** [[Sustainability]] (21)
 > **Speakers:** - let (1)
 
 

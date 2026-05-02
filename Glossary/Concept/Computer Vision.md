@@ -17,7 +17,7 @@ tags:
   - topic/data-science
   - topic/cloud-computing
   - topic/security
-course_count: 88
+course_count: 90
 created: 2026-05-02
 ---
 
@@ -25,7 +25,7 @@ created: 2026-05-02
 
 # Computer Vision
 
-> **Type:** Concept | **Courses:** 88 | **Topics:** [[Artificial Intelligence (AI)]], [[Software Development]], [[Data Science]], [[Cloud Computing]], [[Cybersecurity]]
+> **Type:** Concept | **Courses:** 90 | **Topics:** [[Artificial Intelligence (AI)]], [[Software Development]], [[Data Science]], [[Cloud Computing]], [[Cybersecurity]]
 
 ## Courses
 
@@ -40,7 +40,7 @@ created: 2026-05-02
 9. [[Hands-On PyTorch Machine Learning]] — 9 mentions
 10. [[Understanding Generative AI in Cloud Computing- Services and Use Cases]] — 7 mentions
 
-> [!note]- See all 88 courses
+> [!note]- See all 90 courses
 > 11. [[Executive Guide to Human-in-the-Loop Machine Learning and Data Annotation]] — 7 mentions
 > 12. [[Responsible AI and Application Development]] — 7 mentions
 > 13. [[Artificial Intelligence and Business Strategy]] — 6 mentions
@@ -115,10 +115,12 @@ created: 2026-05-02
 > 82. [[Machine Learning and AI Foundations- Producing Explainable AI (XAI) and Interpretable Machine Learning Solutions]] — 1 mentions
 > 83. [[AI Foundations- Ideating and Prototyping]] — 1 mentions
 > 84. [[Data Science and Analytics Career Paths and Certifications- First Steps]] — 1 mentions
-> 85. [[Big Data in the Age of AI]] — 1 mentions
-> 86. [[8 Things You Must Know in Python]] — 1 mentions
-> 87. [[Introduction to IT Architecture]] — 1 mentions
-> 88. [[Process Discovery for Robotic Process Automation]] — 1 mentions
+> 85. [[Building RAG Solutions with Azure AI Foundry (Formerly Azure AI Studio)]] — 1 mentions
+> 86. [[Choosing A Cloud Platform For Developers Aws Azure And Gcp]] — 1 mentions
+> 87. [[Big Data in the Age of AI]] — 1 mentions
+> 88. [[8 Things You Must Know in Python]] — 1 mentions
+> 89. [[Introduction to IT Architecture]] — 1 mentions
+> 90. [[Process Discovery for Robotic Process Automation]] — 1 mentions
 
 ## Learning Paths
 

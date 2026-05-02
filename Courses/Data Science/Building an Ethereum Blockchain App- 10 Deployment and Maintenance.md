@@ -66,18 +66,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Test blockchains
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/test-blockchains?u=76281980)
+#### [Test blockchains](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/test-blockchains?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/test-blockchains?u=76281980&t=1)** - Well, now you pretty much know the entire life cycle almost of software development.
+> **[0:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/test-blockchains?u=76281980&t=1)** - Well, now you pretty much know the entire life cycle almost of [[Software Development]].
 >
-> **[0:06](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/test-blockchains?u=76281980&t=6)** You know how to design good smart contracts and Dapps.
+> **[0:06](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/test-blockchains?u=76281980&t=6)** You know how to design good [[Smart Contracts]] and Dapps.
 >
 > **[0:10](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/test-blockchains?u=76281980&t=10)** You know what it takes to code them, or at least, you're starting to learn what it takes to code good smart contracts.
 >
-> **[0:17](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/test-blockchains?u=76281980&t=17)** Now there's a lot more to solidity that we didn't have a chance to cover in our time together.
+> **[0:17](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/test-blockchains?u=76281980&t=17)** Now there's a lot more to [[Solidity]] that we didn't have a chance to cover in our time together.
 >
 > **[0:22](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/test-blockchains?u=76281980&t=22)** But I hope that you dig deep and learn more and more about the cool language of smart contracts.
 >
@@ -89,7 +88,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/test-blockchains?u=76281980&t=49)** Now when I say other network, I mean other networks of other blockchains.
 >
-> **[0:54](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/test-blockchains?u=76281980&t=54)** So we've talked about the development blockchain, and we use Ganache to set up our own private test blockchain, so we can use the term blockchain and network kind of interchangeably.
+> **[0:54](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/test-blockchains?u=76281980&t=54)** So we've talked about the development [[Blockchain]], and we use Ganache to set up our own private test blockchain, so we can use the term blockchain and network kind of interchangeably.
 >
 > **[1:06](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/test-blockchains?u=76281980&t=66)** Now a local private test blockchain, Ganache, is really convenient.
 >
@@ -103,9 +102,9 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/test-blockchains?u=76281980&t=84)** A block is immediately available as soon as you post transactions, it's immediately on the blockchain.
 >
-> **[1:31](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/test-blockchains?u=76281980&t=91)** Now that's not very realistic, because one of the differences between blockchain development and traditional application development is the fact that blocks take some time to actually make it to the blockchain.
+> **[1:31](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/test-blockchains?u=76281980&t=91)** Now that's not very realistic, because one of the differences between blockchain development and traditional [[Application Development]] is the fact that blocks take some time to actually make it to the blockchain.
 >
-> **[1:45](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/test-blockchains?u=76281980&t=105)** In Ethereum, it's about once every 14 seconds.
+> **[1:45](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/test-blockchains?u=76281980&t=105)** In [[Ethereum]], it's about once every 14 seconds.
 >
 > **[1:48](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/test-blockchains?u=76281980&t=108)** So that can have a material impact on how well your application performs.
 >
@@ -264,18 +263,17 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - well (1)
 
-#### The live blockchain: Mainnet
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/the-live-blockchain-mainnet?u=76281980)
+#### [The live blockchain: Mainnet](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/the-live-blockchain-mainnet?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/the-live-blockchain-mainnet?u=76281980&t=0)** - Okay, so we've talked about different types of blockchain networks.
+> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/the-live-blockchain-mainnet?u=76281980&t=0)** - Okay, so we've talked about different types of [[Blockchain]] networks.
 >
 > **[0:04](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/the-live-blockchain-mainnet?u=76281980&t=4)** We've talked about private blockchains and networks, we've talked about public testing blockchain networks, and also MainNet.
 >
 > **[0:13](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/the-live-blockchain-mainnet?u=76281980&t=13)** Now, of course, whenever we talk about main net, that is whole enchilada.
 >
-> **[0:17](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/the-live-blockchain-mainnet?u=76281980&t=17)** It's the big live Ethereum blockchain.
+> **[0:17](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/the-live-blockchain-mainnet?u=76281980&t=17)** It's the big live [[Ethereum]] blockchain.
 >
 > **[0:20](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/the-live-blockchain-mainnet?u=76281980&t=20)** That's the final destination, the one that everybody uses.
 >
@@ -283,7 +281,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/the-live-blockchain-mainnet?u=76281980&t=26)** Part of the differences are important when you're developing, but especially when you're testing and about to deploy, you really want to pay attention to these differences, because if you ignore them, it can come back to haunt you.
 >
-> **[0:39](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/the-live-blockchain-mainnet?u=76281980&t=39)** So first off, make sure that you are very well aware that MainNet, the live Ethereum network, uses real money, or at least real cryptocurrency.
+> **[0:39](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/the-live-blockchain-mainnet?u=76281980&t=39)** So first off, make sure that you are very well aware that MainNet, the live Ethereum network, uses real money, or at least real [[Cryptocurrency]].
 >
 > **[0:50](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/the-live-blockchain-mainnet?u=76281980&t=50)** So that means every time you touch that blockchain, you've got to pay some of your Ether to do that.
 >
@@ -361,7 +359,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (5), [[Ethereum]] (2), application (2), [[Cryptocurrency]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Blockchain]] (5), [[Ethereum]] (2), [[Cryptocurrency]] (1)
 > **CLI Commands:** make (5), find (1)
 > **Code Identifiers:** dapp (1)
 > **Definitions:** means that (1)
@@ -369,12 +367,11 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - okay (1)
 
-#### Connecting to multiple blockchains and Infura
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/connecting-to-multiple-blockchains-and-infura?u=76281980)
+#### [Connecting to multiple blockchains and Infura](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/connecting-to-multiple-blockchains-and-infura?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/connecting-to-multiple-blockchains-and-infura?u=76281980&t=0)** - All right, so now you know you are going to need to access multiple blockchains, multiple blockchain networks.
+> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/connecting-to-multiple-blockchains-and-infura?u=76281980&t=0)** - All right, so now you know you are going to need to access multiple blockchains, multiple [[Blockchain]] networks.
 >
 > **[0:07](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/connecting-to-multiple-blockchains-and-infura?u=76281980&t=7)** So you want to make sure that you set these up.
 >
@@ -384,7 +381,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/connecting-to-multiple-blockchains-and-infura?u=76281980&t=26)** An address is only valid for one specific blockchain, 'cause if you think about it, you have to sign up for each one of them.
 >
-> **[0:32](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/connecting-to-multiple-blockchains-and-infura?u=76281980&t=32)** We've kind of not really gotten into the whole concept of account and keys, but basically when you create an Ethereum account, all you're doing is you're asking the Ethereum virtual machine to generate, or whatever generator you use, to generate a pair of keys.
+> **[0:32](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/connecting-to-multiple-blockchains-and-infura?u=76281980&t=32)** We've kind of not really gotten into the whole concept of account and keys, but basically when you create an [[Ethereum]] account, all you're doing is you're asking the Ethereum virtual machine to generate, or whatever generator you use, to generate a pair of keys.
 >
 > **[0:49](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/connecting-to-multiple-blockchains-and-infura?u=76281980&t=49)** It generates a private key and a public key.
 >
@@ -392,7 +389,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/connecting-to-multiple-blockchains-and-infura?u=76281980&t=54)** Don't worry about the math behind it.
 >
-> **[0:57](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/connecting-to-multiple-blockchains-and-infura?u=76281980&t=57)** But your private key is what you have to keep separate and secret, because that's what you're going to use to access your crypto assets, your cryptocurrency, and any other assets that are there.
+> **[0:57](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/connecting-to-multiple-blockchains-and-infura?u=76281980&t=57)** But your private key is what you have to keep separate and secret, because that's what you're going to use to access your crypto assets, your [[Cryptocurrency]], and any other assets that are there.
 >
 > **[1:09](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/connecting-to-multiple-blockchains-and-infura?u=76281980&t=69)** Your public key is what you can use to have people put crypto assets into your account.
 >
@@ -490,7 +487,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (6), [[Ethereum]] (3), node (2), [[Cryptocurrency]] (1), api (1)
+> **Frameworks & Libraries:** [[Blockchain]] (6), [[Ethereum]] (3), [[Cryptocurrency]] (1)
 > **Env Vars:** infura (4), evm (2), url (2), api (1)
 > **Prerequisites:** set up (3), install (1), configure (1)
 > **CLI Commands:** node (2), make (1)
@@ -499,8 +496,7 @@ created: 2026-05-02
 > **URLs:** [infura.io](https://infura.io) (1)
 > **UI Navigation:** navigate to (1)
 
-#### Configuring Truffle and Infura
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/configuring-truffle-and-infura?u=76281980)
+#### [Configuring Truffle and Infura](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/configuring-truffle-and-infura?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -528,7 +524,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/configuring-truffle-and-infura?u=76281980&t=70)** All right, so let's go over to VS Code and I'm going to tell you about the Truffle config file in a minute, but, before we do that, let's install the provider.
 >
-> **[1:24](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/configuring-truffle-and-infura?u=76281980&t=84)** And, basically, we're just going to use, I'm going to open a terminal and I'm going to use npm install truffle/hdwallet-provider.
+> **[1:24](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/configuring-truffle-and-infura?u=76281980&t=84)** And, basically, we're just going to use, I'm going to open a terminal and I'm going to use [[npm]] install truffle/hdwallet-provider.
 >
 > **[1:41](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/configuring-truffle-and-infura?u=76281980&t=101)** All right, so there's a few errors there, or a few warnings, those are fine, don't worry about those.
 >
@@ -560,9 +556,9 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/configuring-truffle-and-infura?u=76281980&t=178)** This is the simplest way to do it.
 >
-> **[3:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/configuring-truffle-and-infura?u=76281980&t=181)** In a real environment you probably would store it off somewhere and use an API to fetch it as needed, but for right now, to keep things simple, and as long as you control everything in your project file, then it's okay to do it this way.
+> **[3:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/configuring-truffle-and-infura?u=76281980&t=181)** In a real environment you probably would store it off somewhere and use an API to [[Fetch]] it as needed, but for right now, to keep things simple, and as long as you control everything in your project file, then it's okay to do it this way.
 >
-> **[3:15](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/configuring-truffle-and-infura?u=76281980&t=195)** This is going to reference Ethereum accounts that are used for testing anyway.
+> **[3:15](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/configuring-truffle-and-infura?u=76281980&t=195)** This is going to reference [[Ethereum]] accounts that are used for testing anyway.
 >
 > **[3:20](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/configuring-truffle-and-infura?u=76281980&t=200)** If you ever had the same account where you have a lot of crypto assets in it, by all means never put your pneumonics in a text file that anyone else can ever see, but in this context it's okay.
 >
@@ -606,7 +602,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[npm]] (1), data (1), api (1), [[Fetch]] (1), [[Ethereum]] (1)
+> **Frameworks & Libraries:** [[npm]] (1), [[Fetch]] (1), [[Ethereum]] (1)
 > **Prerequisites:** install (4), set up (3), configure (1)
 > **Definitions:** is a  (3), means that (1)
 > **CLI Commands:** npm (1), find (1), make (1)
@@ -615,8 +611,7 @@ created: 2026-05-02
 > **Tools:** terminal (2), vs code (1)
 > **UI Navigation:** go to (2), scroll down (1)
 
-#### Funding your account lab
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/funding-your-account-lab?u=76281980)
+#### [Funding your account lab](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/funding-your-account-lab?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -626,7 +621,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/funding-your-account-lab?u=76281980&t=15)** We're going to use MetaMask to access each one of the accounts.
 >
-> **[0:18](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/funding-your-account-lab?u=76281980&t=18)** So let's see how we can fund each one individually, we'll start with the easiest blockchain network to fund.
+> **[0:18](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/funding-your-account-lab?u=76281980&t=18)** So let's see how we can fund each one individually, we'll start with the easiest [[Blockchain]] network to fund.
 >
 > **[0:25](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/funding-your-account-lab?u=76281980&t=25)** And that is Ganache.
 >
@@ -656,7 +651,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/funding-your-account-lab?u=76281980&t=72)** Let's click on the little MetaMask here, and we see that we have several accounts or really one account so far multiple networks.
 >
-> **[1:20](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/funding-your-account-lab?u=76281980&t=80)** So the main Ethereum network, we have a balance of 0.2374 ether.
+> **[1:20](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/funding-your-account-lab?u=76281980&t=80)** So the main [[Ethereum]] network, we have a balance of 0.2374 ether.
 >
 > **[1:26](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/funding-your-account-lab?u=76281980&t=86)** Now, how did that get there?
 >
@@ -745,18 +740,17 @@ created: 2026-05-02
 > **Versions:** 0.2374 (1)
 > **Speakers:** - okay (1)
 
-#### Deploying to the live blockchain
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/deploying-to-the-live-blockchain?u=76281980)
+#### [Deploying to the live blockchain](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/deploying-to-the-live-blockchain?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/deploying-to-the-live-blockchain?u=76281980&t=0)** - All right, we're almost done.
 >
-> **[0:02](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/deploying-to-the-live-blockchain?u=76281980&t=2)** All we have left to do is compile our smart contracts and then deploy them.
+> **[0:02](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/deploying-to-the-live-blockchain?u=76281980&t=2)** All we have left to do is compile our [[Smart Contracts]] and then deploy them.
 >
 > **[0:06](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/deploying-to-the-live-blockchain?u=76281980&t=6)** We've defined three separate networks, and we can compile for specific network and deploy to that network, or we can compile for everything and then deploy out to individual networks at any time.
 >
-> **[0:18](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/deploying-to-the-live-blockchain?u=76281980&t=18)** Now, keep in mind in the truffle environment, I typically use the word deploy.
+> **[0:18](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/deploying-to-the-live-blockchain?u=76281980&t=18)** Now, keep in mind in the truffle environment, I typically use the [[Microsoft Word|word]] deploy.
 >
 > **[0:24](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/deploying-to-the-live-blockchain?u=76281980&t=24)** However, the word migrate is just the same, so we can use the command migrate or deploy, it's the same command you can interchange, whichever one speaks to you.
 >
@@ -764,7 +758,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/deploying-to-the-live-blockchain?u=76281980&t=36)** I'm going to show you how to compile your code, and then deploy it to specific environments.
 >
-> **[0:43](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/deploying-to-the-live-blockchain?u=76281980&t=43)** And by the way, the migrate or the deploy command, what it does, is he just looks through the migrations folder and runs each of that JavaScript.
+> **[0:43](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/deploying-to-the-live-blockchain?u=76281980&t=43)** And by the way, the migrate or the deploy command, what it does, is he just looks through the migrations folder and runs each of that [[JavaScript]].
 >
 > **[0:52](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/deploying-to-the-live-blockchain?u=76281980&t=52)** So we'll look at that first, show you what's going to happen and then we'll do it.
 >
@@ -812,7 +806,7 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/deploying-to-the-live-blockchain?u=76281980&t=220)** Earlier, it didn't take any time at all for us to deploy our application.
 >
-> **[3:44](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/deploying-to-the-live-blockchain?u=76281980&t=224)** The reason for that remember is we changed the ganache network, the blockchain to be a non auto mining.
+> **[3:44](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/deploying-to-the-live-blockchain?u=76281980&t=224)** The reason for that remember is we changed the ganache network, the [[Blockchain]] to be a non auto mining.
 >
 > **[3:53](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/deploying-to-the-live-blockchain?u=76281980&t=233)** In other words, we turned auto mining off and we said that blocks will take 14 seconds to the mined.
 >
@@ -900,9 +894,9 @@ created: 2026-05-02
 >
 > **[7:27](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/deploying-to-the-live-blockchain?u=76281980&t=447)** So that's all that it takes.
 >
-> **[7:28](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/deploying-to-the-live-blockchain?u=76281980&t=448)** Once you hook it up, you've got your inferior account, you have your Ethereum accounts and you you've defined the truffle config JavaScript, so that they're all linked up, it's very, very easy.
+> **[7:28](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/deploying-to-the-live-blockchain?u=76281980&t=448)** Once you hook it up, you've got your inferior account, you have your [[Ethereum]] accounts and you you've defined the truffle config JavaScript, so that they're all linked up, it's very, very easy.
 >
-> **[7:42](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/deploying-to-the-live-blockchain?u=76281980&t=462)** Now, you know the entire process of software development from the very beginning, all the way through deployment, and you even saw how easy it is to redeploy, to deploy additional versions of smart contracts.
+> **[7:42](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/deploying-to-the-live-blockchain?u=76281980&t=462)** Now, you know the entire process of [[Software Development]] from the very beginning, all the way through deployment, and you even saw how easy it is to redeploy, to deploy additional versions of smart contracts.
 >
 > **[7:55](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/deploying-to-the-live-blockchain?u=76281980&t=475)** So, that pretty much wraps it up as far as the software development life cycle in Ethereum.
 

@@ -103,41 +103,39 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### SQL for healthcare: Transforming data into insights
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/sql-for-healthcare-transforming-data-into-insights?u=76281980)
+#### [SQL for healthcare: Transforming data into insights](https://www.linkedin.com/learning/sql-for-healthcare-professionals/sql-for-healthcare-transforming-data-into-insights?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sql-for-healthcare-professionals/sql-for-healthcare-transforming-data-into-insights?u=76281980&t=0)** - When thinking about data, what is the first thing that comes to mind?
 >
-> **[0:05](https://www.linkedin.com/learning/sql-for-healthcare-professionals/sql-for-healthcare-transforming-data-into-insights?u=76281980&t=5)** You might picture everyday transactions or business analytics, but what about healthcare?
+> **[0:05](https://www.linkedin.com/learning/sql-for-healthcare-professionals/sql-for-healthcare-transforming-data-into-insights?u=76281980&t=5)** You might picture everyday transactions or [[Business Analytics]], but what about healthcare?
 >
 > **[0:11](https://www.linkedin.com/learning/sql-for-healthcare-professionals/sql-for-healthcare-transforming-data-into-insights?u=76281980&t=11)** Healthcare data can be used to improve patient outcomes to research treatments, or in medical demonstration.
 >
 > **[0:19](https://www.linkedin.com/learning/sql-for-healthcare-professionals/sql-for-healthcare-transforming-data-into-insights?u=76281980&t=19)** Learning how to manage all the information has become crucial to making informed decisions.
 >
-> **[0:23](https://www.linkedin.com/learning/sql-for-healthcare-professionals/sql-for-healthcare-transforming-data-into-insights?u=76281980&t=23)** SQL is the language that we use to store, retrieve and manipulate data into meaningful information.
+> **[0:23](https://www.linkedin.com/learning/sql-for-healthcare-professionals/sql-for-healthcare-transforming-data-into-insights?u=76281980&t=23)** [[SQL]] is the language that we use to store, retrieve and manipulate data into meaningful information.
 >
 > **[0:31](https://www.linkedin.com/learning/sql-for-healthcare-professionals/sql-for-healthcare-transforming-data-into-insights?u=76281980&t=31)** Hello, my name is Thais Cooke, a healthcare professional journey data analyst.
 >
-> **[0:37](https://www.linkedin.com/learning/sql-for-healthcare-professionals/sql-for-healthcare-transforming-data-into-insights?u=76281980&t=37)** Join this course in SQL for healthcare and LinkedIn Learning, and I'll guide you on how to use the power of SQL to get insights and make impactful data-driven decisions.
+> **[0:37](https://www.linkedin.com/learning/sql-for-healthcare-professionals/sql-for-healthcare-transforming-data-into-insights?u=76281980&t=37)** Join this course in SQL for healthcare and [[LinkedIn]] Learning, and I'll guide you on how to use the power of SQL to get insights and make impactful data-driven decisions.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[SQL]] (3), business (1), [[Analytics]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Business Analytics]] (1), [[LinkedIn]] (1)
 > **Env Vars:** sql (3)
 > **CLI Commands:** make (1)
 > **Analogies:** picture (1)
 > **Speakers:** - when (1)
 
-#### What you need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/what-you-need-to-know?u=76281980)
+#### [What you need to know](https://www.linkedin.com/learning/sql-for-healthcare-professionals/what-you-need-to-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-for-healthcare-professionals/what-you-need-to-know?u=76281980&t=0)** - The primary goal of this course is to show how SQL can be used in the healthcare industry.
+> **[0:00](https://www.linkedin.com/learning/sql-for-healthcare-professionals/what-you-need-to-know?u=76281980&t=0)** - The primary goal of this course is to show how [[SQL]] can be used in the [[Healthcare Industry]].
 >
-> **[0:06](https://www.linkedin.com/learning/sql-for-healthcare-professionals/what-you-need-to-know?u=76281980&t=6)** This course is useful for healthcare professionals who want to transition to healthcare analytics and data professionals who want to learn about how SQL can be used in the healthcare industry.
+> **[0:06](https://www.linkedin.com/learning/sql-for-healthcare-professionals/what-you-need-to-know?u=76281980&t=6)** This course is useful for healthcare professionals who want to transition to [[Healthcare Analytics]] and data professionals who want to learn about how SQL can be used in the healthcare industry.
 >
 > **[0:17](https://www.linkedin.com/learning/sql-for-healthcare-professionals/what-you-need-to-know?u=76281980&t=17)** There'll be a final project at the end to practice the concepts learned throughout the course, which includes critical examples in a healthcare scenario to enhance your learning.
 >
@@ -145,18 +143,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (2), [[Healthcare Industry]] (2), [[Healthcare Analytics]] (1), data (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Healthcare Industry]] (2), [[Healthcare Analytics]] (1)
 > **Env Vars:** sql (2)
 > **Speakers:** - the (1)
 
-#### Installing the SQL exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/installing-the-sql-exercise-files?u=76281980)
+#### [Installing the SQL exercise files](https://www.linkedin.com/learning/sql-for-healthcare-professionals/installing-the-sql-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-for-healthcare-professionals/installing-the-sql-exercise-files?u=76281980&t=0)** - [Instructor] For this course, we're going to be using Microsoft SQL server.
+> **[0:00](https://www.linkedin.com/learning/sql-for-healthcare-professionals/installing-the-sql-exercise-files?u=76281980&t=0)** - [Instructor] For this course, we're going to be using [[Microsoft SQL Server]].
 >
-> **[0:04](https://www.linkedin.com/learning/sql-for-healthcare-professionals/installing-the-sql-exercise-files?u=76281980&t=4)** Feel free to use any type of SQL that you'll feel more comfortable with.
+> **[0:04](https://www.linkedin.com/learning/sql-for-healthcare-professionals/installing-the-sql-exercise-files?u=76281980&t=4)** Feel free to use any type of [[SQL]] that you'll feel more comfortable with.
 >
 > **[0:09](https://www.linkedin.com/learning/sql-for-healthcare-professionals/installing-the-sql-exercise-files?u=76281980&t=9)** So I'm going to show how to import this data into Microsoft SQL server.
 >
@@ -172,7 +169,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/sql-for-healthcare-professionals/installing-the-sql-exercise-files?u=76281980&t=59)** You're going to import your data.
 >
-> **[1:02](https://www.linkedin.com/learning/sql-for-healthcare-professionals/installing-the-sql-exercise-files?u=76281980&t=62)** So I'm going to click next, and our data source is going to be Microsoft Excel.
+> **[1:02](https://www.linkedin.com/learning/sql-for-healthcare-professionals/installing-the-sql-exercise-files?u=76281980&t=62)** So I'm going to click next, and our data source is going to be [[Microsoft Excel]].
 >
 > **[1:07](https://www.linkedin.com/learning/sql-for-healthcare-professionals/installing-the-sql-exercise-files?u=76281980&t=67)** That's where your exercise files are.
 >
@@ -184,13 +181,13 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/sql-for-healthcare-professionals/installing-the-sql-exercise-files?u=76281980&t=84)** Now I'm going to choose a destination.
 >
-> **[1:26](https://www.linkedin.com/learning/sql-for-healthcare-professionals/installing-the-sql-exercise-files?u=76281980&t=86)** In this case, we're going to choose Microsoft All Lead DB Driver for SQL Server.
+> **[1:26](https://www.linkedin.com/learning/sql-for-healthcare-professionals/installing-the-sql-exercise-files?u=76281980&t=86)** In this case, we're going to choose [[Microsoft]] All Lead DB Driver for [[Microsoft SQL Server|SQL Server]].
 >
 > **[1:33](https://www.linkedin.com/learning/sql-for-healthcare-professionals/installing-the-sql-exercise-files?u=76281980&t=93)** You're going join Properties.
 >
 > **[1:35](https://www.linkedin.com/learning/sql-for-healthcare-professionals/installing-the-sql-exercise-files?u=76281980&t=95)** In here you're going to paste the server name.
 >
-> **[1:39](https://www.linkedin.com/learning/sql-for-healthcare-professionals/installing-the-sql-exercise-files?u=76281980&t=99)** You're going to use Windows Authentication, and we're going to choose the database that we just created.
+> **[1:39](https://www.linkedin.com/learning/sql-for-healthcare-professionals/installing-the-sql-exercise-files?u=76281980&t=99)** You're going to use [[Windows]] Authentication, and we're going to choose the database that we just created.
 >
 > **[1:46](https://www.linkedin.com/learning/sql-for-healthcare-professionals/installing-the-sql-exercise-files?u=76281980&t=106)** You can test your connection.
 >
@@ -216,7 +213,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), next (6), [[Microsoft SQL Server]] (4), data (4), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server]] (4), [[SQL]] (1), [[Microsoft Excel]] (1), [[Microsoft]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** sql (6)
 > **Exercise Files:** exercise files (3)
 > **UI Navigation:** click on (1), open the (1)
@@ -227,8 +224,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why use SQL in healthcare?
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/why-sql-in-healthcare?u=76281980)
+#### [Why use SQL in healthcare?](https://www.linkedin.com/learning/sql-for-healthcare-professionals/why-sql-in-healthcare?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -242,30 +238,29 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/sql-for-healthcare-professionals/why-sql-in-healthcare?u=76281980&t=30)** Sounds confusing, right?
 >
-> **[0:32](https://www.linkedin.com/learning/sql-for-healthcare-professionals/why-sql-in-healthcare?u=76281980&t=32)** There's a limit to how much data the spreadsheets can handle, and that's when SQL comes in.
+> **[0:32](https://www.linkedin.com/learning/sql-for-healthcare-professionals/why-sql-in-healthcare?u=76281980&t=32)** There's a limit to how much data the spreadsheets can handle, and that's when [[SQL]] comes in.
 >
 > **[0:39](https://www.linkedin.com/learning/sql-for-healthcare-professionals/why-sql-in-healthcare?u=76281980&t=39)** SQL stands for structured query language.
 >
 > **[0:43](https://www.linkedin.com/learning/sql-for-healthcare-professionals/why-sql-in-healthcare?u=76281980&t=43)** It is a computer language developed in the 1970s and one of the most widely used languages.
 >
-> **[0:52](https://www.linkedin.com/learning/sql-for-healthcare-professionals/why-sql-in-healthcare?u=76281980&t=52)** It enables its users to pull data from the databases and manipulate it using queries to gather insights.
+> **[0:52](https://www.linkedin.com/learning/sql-for-healthcare-professionals/why-sql-in-healthcare?u=76281980&t=52)** It enables its users to pull data from the [[Databases]] and manipulate it using queries to gather insights.
 >
 > **[1:00](https://www.linkedin.com/learning/sql-for-healthcare-professionals/why-sql-in-healthcare?u=76281980&t=60)** With SQL, multiple data analysts can query the database at the same time, and data engineers can now update the database using automation.
 >
 > **[1:11](https://www.linkedin.com/learning/sql-for-healthcare-professionals/why-sql-in-healthcare?u=76281980&t=71)** If you want to work as a healthcare data analyst, you'll be expected that you know the basics of SQL to pull the data out of the database and do some data prep.
 >
-> **[1:21](https://www.linkedin.com/learning/sql-for-healthcare-professionals/why-sql-in-healthcare?u=76281980&t=81)** The knowledge of SQL not only helps in handling healthcare data, but it also opens up opportunities for more advanced analytics and insights, which will lead to better decision making in the healthcare industry.
+> **[1:21](https://www.linkedin.com/learning/sql-for-healthcare-professionals/why-sql-in-healthcare?u=76281980&t=81)** The knowledge of SQL not only helps in handling healthcare data, but it also opens up opportunities for more advanced analytics and insights, which will lead to better decision making in the [[Healthcare Industry]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[SQL]] (5), database (3), [[Databases]] (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Databases]] (1), [[Healthcare Industry]] (1)
 > **Env Vars:** sql (5)
 > **Definitions:** stands for (1), is a  (1)
 > **Analogies:** imagine (2)
 > **Speakers:** - imagine (1)
 
-#### How to gather data for analysis using SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-to-gather-data-for-analysis-using-sql?u=76281980)
+#### [How to gather data for analysis using SQL](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-to-gather-data-for-analysis-using-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -275,7 +270,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-to-gather-data-for-analysis-using-sql?u=76281980&t=9)** And in return, the database provides the answer.
 >
-> **[0:13](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-to-gather-data-for-analysis-using-sql?u=76281980&t=13)** Just like communicating in another language using the correct grammar vocabulary, writing effective SQL queries is crucial in gathering the insights you're looking for.
+> **[0:13](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-to-gather-data-for-analysis-using-sql?u=76281980&t=13)** Just like communicating in another language using the correct grammar vocabulary, writing effective [[SQL]] queries is crucial in gathering the insights you're looking for.
 >
 > **[0:24](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-to-gather-data-for-analysis-using-sql?u=76281980&t=24)** The most common clauses you use in SQL are SELECT, FROM, and WHERE.
 >
@@ -309,25 +304,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), database (5), [[SQL]] (2)
+> **Frameworks & Libraries:** [[SQL]] (2)
 > **Env Vars:** select (6), where (3), sql (2)
 > **SQL:** select (6), where (3)
 > **Code Identifiers:** department_name (2), patient_id (1)
 > **Analogies:** think of it as (1), just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using aggregate functions to manipulate the data
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/using-aggregate-functions-to-manipulate-the-data?u=76281980)
+#### [Using aggregate functions to manipulate the data](https://www.linkedin.com/learning/sql-for-healthcare-professionals/using-aggregate-functions-to-manipulate-the-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-for-healthcare-professionals/using-aggregate-functions-to-manipulate-the-data?u=76281980&t=0)** - [Instructor] When working in healthcare analytics, it is common to have questions that require calculations with the data.
+> **[0:00](https://www.linkedin.com/learning/sql-for-healthcare-professionals/using-aggregate-functions-to-manipulate-the-data?u=76281980&t=0)** - [Instructor] When working in [[Healthcare Analytics]], it is common to have questions that require calculations with the data.
 >
-> **[0:07](https://www.linkedin.com/learning/sql-for-healthcare-professionals/using-aggregate-functions-to-manipulate-the-data?u=76281980&t=7)** SQL has built in functions that allow different types of calculations to be performed.
+> **[0:07](https://www.linkedin.com/learning/sql-for-healthcare-professionals/using-aggregate-functions-to-manipulate-the-data?u=76281980&t=7)** [[SQL]] has built in functions that allow different types of calculations to be performed.
 >
 > **[0:13](https://www.linkedin.com/learning/sql-for-healthcare-professionals/using-aggregate-functions-to-manipulate-the-data?u=76281980&t=13)** Let's discuss some of the most common aggregate functions.
 >
-> **[0:17](https://www.linkedin.com/learning/sql-for-healthcare-professionals/using-aggregate-functions-to-manipulate-the-data?u=76281980&t=17)** Aggregate functions return the basic statistics on a group of records.
+> **[0:17](https://www.linkedin.com/learning/sql-for-healthcare-professionals/using-aggregate-functions-to-manipulate-the-data?u=76281980&t=17)** Aggregate functions return the basic [[Statistics]] on a group of records.
 >
 > **[0:23](https://www.linkedin.com/learning/sql-for-healthcare-professionals/using-aggregate-functions-to-manipulate-the-data?u=76281980&t=23)** Average, count, maximum and minimum are some examples of those types of functions.
 >
@@ -389,7 +383,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Healthcare Analytics]] (1), [[SQL]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Healthcare Analytics]] (1), [[SQL]] (1), [[Statistics]] (1)
 > **Env Vars:** select (3), avg (2), where (2), group (2), sql (1)
 > **SQL:** select (3), where (2), group by (2), order by (1)
 > **Code Identifiers:** days_in_the_hospital (2), department_name (2), average_days_cardiology (1), avg_days_per_department (1)
@@ -397,8 +391,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using a CASE statement for data classification
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/using-case-statement-for-data-classification?u=76281980)
+#### [Using a CASE statement for data classification](https://www.linkedin.com/learning/sql-for-healthcare-professionals/using-case-statement-for-data-classification?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -406,7 +399,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/sql-for-healthcare-professionals/using-case-statement-for-data-classification?u=76281980&t=9)** That's the perfect scenario to apply the CASE statement.
 >
-> **[0:13](https://www.linkedin.com/learning/sql-for-healthcare-professionals/using-case-statement-for-data-classification?u=76281980&t=13)** If you're familiar with Excel, think about how you do use the If function.
+> **[0:13](https://www.linkedin.com/learning/sql-for-healthcare-professionals/using-case-statement-for-data-classification?u=76281980&t=13)** If you're familiar with [[Microsoft Excel|Excel]], think about how you do use the If function.
 >
 > **[0:18](https://www.linkedin.com/learning/sql-for-healthcare-professionals/using-case-statement-for-data-classification?u=76281980&t=18)** They have some similarities.
 >
@@ -456,13 +449,13 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/sql-for-healthcare-professionals/using-case-statement-for-data-classification?u=76281980&t=215)** You're going to have each state category, long, medium, short, and how many records belong to each category.
 >
-> **[3:43](https://www.linkedin.com/learning/sql-for-healthcare-professionals/using-case-statement-for-data-classification?u=76281980&t=223)** In the healthcare industry, it is crucial to know how to correctly classify your data.
+> **[3:43](https://www.linkedin.com/learning/sql-for-healthcare-professionals/using-case-statement-for-data-classification?u=76281980&t=223)** In the [[Healthcare Industry]], it is crucial to know how to correctly classify your data.
 >
 > **[3:48](https://www.linkedin.com/learning/sql-for-healthcare-professionals/using-case-statement-for-data-classification?u=76281980&t=228)** The CASE statement combined with aggregate functions is a very powerful resource that will help reveal new insights.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (1), [[Healthcare Industry]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Healthcare Industry]] (1)
 > **Env Vars:** case (11)
 > **Definitions:** is a  (2)
 > **Code Identifiers:** stay_category (1)
@@ -470,16 +463,15 @@ created: 2026-05-02
 > **Warnings:** common error (1)
 > **Speakers:** - [instructor] (1)
 
-#### Date manipulation in SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/date-manipulation-in-sql?u=76281980)
+#### [Date manipulation in SQL](https://www.linkedin.com/learning/sql-for-healthcare-professionals/date-manipulation-in-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sql-for-healthcare-professionals/date-manipulation-in-sql?u=76281980&t=0)** - [Instructor] Healthcare analysts use dates quite frequently.
 >
-> **[0:04](https://www.linkedin.com/learning/sql-for-healthcare-professionals/date-manipulation-in-sql?u=76281980&t=4)** Measurements such as tracking dates of patient encounters, monitoring treatment progress and analyzing trends over time relies heavily on data manipulation.
+> **[0:04](https://www.linkedin.com/learning/sql-for-healthcare-professionals/date-manipulation-in-sql?u=76281980&t=4)** Measurements such as tracking dates of patient encounters, monitoring treatment progress and analyzing trends over time relies heavily on [[Data Manipulation]].
 >
-> **[0:16](https://www.linkedin.com/learning/sql-for-healthcare-professionals/date-manipulation-in-sql?u=76281980&t=16)** SQL has data functions that offer simple approach to working with date and time data effectively.
+> **[0:16](https://www.linkedin.com/learning/sql-for-healthcare-professionals/date-manipulation-in-sql?u=76281980&t=16)** [[SQL]] has data functions that offer simple approach to working with date and time data effectively.
 >
 > **[0:24](https://www.linkedin.com/learning/sql-for-healthcare-professionals/date-manipulation-in-sql?u=76281980&t=24)** Let's look into different SQL functions and how to use each of them.
 >
@@ -587,7 +579,7 @@ created: 2026-05-02
 >
 > **[5:59](https://www.linkedin.com/learning/sql-for-healthcare-professionals/date-manipulation-in-sql?u=76281980&t=359)** And if you run this query, you're going to see that went from October to August is subtracted two months from this date.
 >
-> **[6:10](https://www.linkedin.com/learning/sql-for-healthcare-professionals/date-manipulation-in-sql?u=76281980&t=370)** Go ahead and explore this function, SQL server.
+> **[6:10](https://www.linkedin.com/learning/sql-for-healthcare-professionals/date-manipulation-in-sql?u=76281980&t=370)** Go ahead and explore this function, [[Microsoft SQL Server|SQL server]].
 >
 > **[6:13](https://www.linkedin.com/learning/sql-for-healthcare-professionals/date-manipulation-in-sql?u=76281980&t=373)** It's a great way to practice date manipulation.
 >
@@ -643,7 +635,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (7), data (5), database (4), [[Data Manipulation]] (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (7), [[Data Manipulation]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** sql (8), dbo (1), select (1), dateadd (1)
 > **Analogies:** such as (2), for instance (1), similar to (1), for example (1)
 > **CLI Commands:** make (2)
@@ -652,8 +644,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### What are relational databases?
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/what-are-relational-databases?u=76281980)
+#### [What are relational databases?](https://www.linkedin.com/learning/sql-for-healthcare-professionals/what-are-relational-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -673,29 +664,28 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/sql-for-healthcare-professionals/what-are-relational-databases?u=76281980&t=45)** This allows you to use the database to quickly connect the patient with the respective medication.
 >
-> **[0:52](https://www.linkedin.com/learning/sql-for-healthcare-professionals/what-are-relational-databases?u=76281980&t=52)** The databases I structure through normalization, which is the technique that divides the tables into smaller tables and connects them via relationships.
+> **[0:52](https://www.linkedin.com/learning/sql-for-healthcare-professionals/what-are-relational-databases?u=76281980&t=52)** The [[Databases]] I structure through normalization, which is the technique that divides the tables into smaller tables and connects them via relationships.
 >
-> **[1:02](https://www.linkedin.com/learning/sql-for-healthcare-professionals/what-are-relational-databases?u=76281980&t=62)** These will prevent redundancy and increase data integrity.
+> **[1:02](https://www.linkedin.com/learning/sql-for-healthcare-professionals/what-are-relational-databases?u=76281980&t=62)** These will prevent redundancy and increase [[Data Integrity]].
 >
 > **[1:06](https://www.linkedin.com/learning/sql-for-healthcare-professionals/what-are-relational-databases?u=76281980&t=66)** By organizing data into normalized tables, sensitive patient formation can be segmented and restricted, reducing the risk of unauthorized access.
 >
 > **[1:18](https://www.linkedin.com/learning/sql-for-healthcare-professionals/what-are-relational-databases?u=76281980&t=78)** This approach helps enforce security measures, safeguarding patient confidentiality, and complying with regulatory standards such as HIPPA.
 >
-> **[1:29](https://www.linkedin.com/learning/sql-for-healthcare-professionals/what-are-relational-databases?u=76281980&t=89)** If you're interested in learning more about normalization, feel free to explore all the courses in the LinkedIn Learning Library.
+> **[1:29](https://www.linkedin.com/learning/sql-for-healthcare-professionals/what-are-relational-databases?u=76281980&t=89)** If you're interested in learning more about normalization, feel free to explore all the courses in the [[LinkedIn]] Learning Library.
 >
 > **[1:36](https://www.linkedin.com/learning/sql-for-healthcare-professionals/what-are-relational-databases?u=76281980&t=96)** In the next video, let's look at how to connect information from different tables using Joins.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), data (2), [[Databases]] (1), [[Security]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[Data Integrity]] (1), [[LinkedIn]] (1)
 > **Analogies:** such as (3), for example (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** hippa (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - when (1)
 
-#### How to gather data from different tables using JOINS
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-to-gather-data-from-different-tables-using-joins?u=76281980)
+#### [How to gather data from different tables using JOINS](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-to-gather-data-from-different-tables-using-joins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -703,7 +693,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-to-gather-data-from-different-tables-using-joins?u=76281980&t=8)** That's when joins comes in.
 >
-> **[0:11](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-to-gather-data-from-different-tables-using-joins?u=76281980&t=11)** SQL joins are used to query data coming from multiple tables, allowing you to link all the information together.
+> **[0:11](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-to-gather-data-from-different-tables-using-joins?u=76281980&t=11)** [[SQL]] joins are used to query data coming from multiple tables, allowing you to link all the information together.
 >
 > **[0:19](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-to-gather-data-from-different-tables-using-joins?u=76281980&t=19)** In this video, we'll discuss the most common types of joins, inner joins, left joins, right joins, and outer joins.
 >
@@ -779,11 +769,11 @@ created: 2026-05-02
 >
 > **[4:41](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-to-gather-data-from-different-tables-using-joins?u=76281980&t=281)** Feel free to come back to this chapter since we'll be using those concepts often.
 >
-> **[4:46](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-to-gather-data-from-different-tables-using-joins?u=76281980&t=286)** Now, let's dive into how to apply SQL in the healthcare industry.
+> **[4:46](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-to-gather-data-from-different-tables-using-joins?u=76281980&t=286)** Now, let's dive into how to apply SQL in the [[Healthcare Industry]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (3), data (2), hr (2), [[Healthcare Industry]] (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Healthcare Industry]] (1)
 > **Env Vars:** sql (3), join (3), inner (2), left (2), where (2)
 > **Code Identifiers:** patient_id (7)
 > **SQL:** left join (2), where (2), inner join (1), select (1)
@@ -795,8 +785,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How SQL is used in patient care management
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-sql-is-used-in-patient-care-management?u=76281980)
+#### [How SQL is used in patient care management](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-sql-is-used-in-patient-care-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -810,7 +799,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-sql-is-used-in-patient-care-management?u=76281980&t=28)** This change has created a big impact, not only how those records are stored, but also in the possibilities of managing the patient's health, creating predictions of future outcomes, and opening the doors to early interventions in preventative care.
 >
-> **[0:46](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-sql-is-used-in-patient-care-management?u=76281980&t=46)** SQL's a very popular data management system used in healthcare because of its ability to store and manage large amounts of data while maintaining patient privacy and data integrity.
+> **[0:46](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-sql-is-used-in-patient-care-management?u=76281980&t=46)** [[SQL]]'s a very popular [[Data Management]] system used in healthcare because of its ability to store and manage large amounts of data while maintaining patient [[Privacy]] and [[Data Integrity]].
 >
 > **[1:01](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-sql-is-used-in-patient-care-management?u=76281980&t=61)** It also enables healthcare professionals to retrieve patient data quickly and efficiently using SQL queries.
 >
@@ -820,7 +809,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-sql-is-used-in-patient-care-management?u=76281980&t=83)** If all the treatment took place within one facility, that was doable.
 >
-> **[1:28](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-sql-is-used-in-patient-care-management?u=76281980&t=88)** Nowadays, however, many treatments and tests take place at different locations, which means that data comes from different sources besides your doctor's office.
+> **[1:28](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-sql-is-used-in-patient-care-management?u=76281980&t=88)** Nowadays, however, many treatments and tests take place at different locations, which means that data comes from different sources besides your doctor's [[Microsoft Office|office]].
 >
 > **[1:38](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-sql-is-used-in-patient-care-management?u=76281980&t=98)** Think about how many times we refer to a lab for blood work, for instance.
 >
@@ -838,15 +827,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[SQL]] (5), database (3), [[Privacy]] (2), management (1)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Privacy]] (2), [[Data Management]] (1), [[Data Integrity]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** sql (5)
 > **CLI Commands:** find (1)
 > **Definitions:** means that (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - remember (1)
 
-#### Using SQL to recommend individualized treatment
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/using-sql-to-recommend-individualized-treatment?u=76281980)
+#### [Using SQL to recommend individualized treatment](https://www.linkedin.com/learning/sql-for-healthcare-professionals/using-sql-to-recommend-individualized-treatment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -858,7 +846,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/sql-for-healthcare-professionals/using-sql-to-recommend-individualized-treatment?u=76281980&t=15)** lifestyle and contraindications must be taken into consideration when deciding on which treatment's the best one for the specific group of patients.
 >
-> **[0:24](https://www.linkedin.com/learning/sql-for-healthcare-professionals/using-sql-to-recommend-individualized-treatment?u=76281980&t=24)** That's why SQL can help in making that decision.
+> **[0:24](https://www.linkedin.com/learning/sql-for-healthcare-professionals/using-sql-to-recommend-individualized-treatment?u=76281980&t=24)** That's why [[SQL]] can help in making that decision.
 >
 > **[0:27](https://www.linkedin.com/learning/sql-for-healthcare-professionals/using-sql-to-recommend-individualized-treatment?u=76281980&t=27)** Imagine a scenario where a healthcare organization is treating patients with hypertension.
 >
@@ -880,20 +868,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (6), data (2), database (1), power (1)
+> **Frameworks & Libraries:** [[SQL]] (6)
 > **Env Vars:** sql (6)
 > **Analogies:** such as (1), imagine (1), for instance (1), for example (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - what (1)
 
-#### Patient safety monitoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/patient-safety-monitoring?u=76281980)
+#### [Patient safety monitoring](https://www.linkedin.com/learning/sql-for-healthcare-professionals/patient-safety-monitoring?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-for-healthcare-professionals/patient-safety-monitoring?u=76281980&t=0)** - [Instructor] One of the challenges in the healthcare industry is how to prevent medical errors and ensure patient safety.
+> **[0:00](https://www.linkedin.com/learning/sql-for-healthcare-professionals/patient-safety-monitoring?u=76281980&t=0)** - [Instructor] One of the challenges in the [[Healthcare Industry]] is how to prevent medical errors and ensure patient safety.
 >
-> **[0:09](https://www.linkedin.com/learning/sql-for-healthcare-professionals/patient-safety-monitoring?u=76281980&t=9)** Leveraging SQL for patient safety monitoring can address those challenges by analyzing patient data and identifying potential issues before they escalate.
+> **[0:09](https://www.linkedin.com/learning/sql-for-healthcare-professionals/patient-safety-monitoring?u=76281980&t=9)** Leveraging [[SQL]] for patient safety monitoring can address those challenges by analyzing patient data and identifying potential issues before they escalate.
 >
 > **[0:20](https://www.linkedin.com/learning/sql-for-healthcare-professionals/patient-safety-monitoring?u=76281980&t=20)** SQL enables healthcare organizations to integrate and analyze vast amounts of data from several sources.
 >
@@ -937,7 +924,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[SQL]] (4), [[Healthcare Industry]] (1), database (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Healthcare Industry]] (1)
 > **Env Vars:** sql (4), case (4)
 > **Code Identifiers:** medication_prescribed (2), smoker_status (2), safety_concern (2), patient_id (1)
 > **Analogies:** imagine (1), such as (1)
@@ -949,8 +936,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to use SQL to manage population health
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-to-use-sql-to-manage-population-health?u=76281980)
+#### [How to use SQL to manage population health](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-to-use-sql-to-manage-population-health?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -958,21 +944,21 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-to-use-sql-to-manage-population-health?u=76281980&t=9)** Population health management has emerged to help achieve this goal, by leveraging data analytics to identify health trends, assess risk factors, and implement target interventions.
 >
-> **[0:20](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-to-use-sql-to-manage-population-health?u=76281980&t=20)** SQL is well known for its ability to store, organize, and analyze large amounts of data, making it a pivotal tool in population health management.
+> **[0:20](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-to-use-sql-to-manage-population-health?u=76281980&t=20)** [[SQL]] is well known for its ability to store, organize, and analyze large amounts of data, making it a pivotal tool in population health management.
 >
-> **[0:30](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-to-use-sql-to-manage-population-health?u=76281980&t=30)** The process begins with acquiring data from various sources, including electronic health records, claims data, public health databases, social determinants of health, and so on.
+> **[0:30](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-to-use-sql-to-manage-population-health?u=76281980&t=30)** The process begins with acquiring data from various sources, including electronic health records, claims data, [[Public Health]] [[Databases]], social determinants of health, and so on.
 >
 > **[0:41](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-to-use-sql-to-manage-population-health?u=76281980&t=41)** SQL is used to integrate those diverse data sources into a unified database, ensure that data is standardized, structured, and accessible for analysis.
 >
 > **[0:51](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-to-use-sql-to-manage-population-health?u=76281980&t=51)** Next, SQL is employed to design and optimize databases for population health management.
 >
-> **[0:57](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-to-use-sql-to-manage-population-health?u=76281980&t=57)** Data modeling techniques are utilized to define relationships between different data elements.
+> **[0:57](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-to-use-sql-to-manage-population-health?u=76281980&t=57)** [[Data Modeling]] techniques are utilized to define relationships between different data elements.
 >
 > **[1:02](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-to-use-sql-to-manage-population-health?u=76281980&t=62)** Healthcare organizations can create databases that tailor to their specific health objectives, whether it is identifying high-risk patients or tracking health outcomes.
 >
 > **[1:12](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-to-use-sql-to-manage-population-health?u=76281980&t=72)** Once the data is securely stored in the database, SQL queries are used to extract, transform, and analyze this data.
 >
-> **[1:20](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-to-use-sql-to-manage-population-health?u=76281980&t=80)** It is important to remember to protect patient privacy and ensure data security during this process.
+> **[1:20](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-to-use-sql-to-manage-population-health?u=76281980&t=80)** It is important to remember to protect patient [[Privacy]] and ensure [[Data Security]] during this process.
 >
 > **[1:27](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-to-use-sql-to-manage-population-health?u=76281980&t=87)** SQL databases are designed with security features to safeguard sensitive health information from unauthorized access or breaches.
 >
@@ -980,17 +966,16 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-to-use-sql-to-manage-population-health?u=76281980&t=103)** SQL serves as a powerful tool for managing population health, enabling healthcare organizations to improve health outcomes and enhance patient care using data.
 >
-> **[1:53](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-to-use-sql-to-manage-population-health?u=76281980&t=113)** With good practice in place for data acquisition, integration, analysis, and insights generation, healthcare organizations can use SQL to drive meaningful change in population health management, leading to healthier communities and better outcomes for all.
+> **[1:53](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-to-use-sql-to-manage-population-health?u=76281980&t=113)** With good practice in place for [[Data Acquisition]], integration, analysis, and insights generation, healthcare organizations can use SQL to drive meaningful change in population health management, leading to healthier communities and better outcomes for all.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[SQL]] (7), management (4), [[Databases]] (4), database (2)
+> **Frameworks & Libraries:** [[SQL]] (7), [[Databases]] (4), [[Public Health]] (1), [[Data Modeling]] (1), [[Privacy]] (1)
 > **Env Vars:** sql (7)
 > **Best Practices:** remember to (1), good practice (1)
 > **Speakers:** - in (1)
 
-#### Risk stratification in SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/risk-stratification-in-sql?u=76281980)
+#### [Risk stratification in SQL](https://www.linkedin.com/learning/sql-for-healthcare-professionals/risk-stratification-in-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1002,9 +987,9 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/sql-for-healthcare-professionals/risk-stratification-in-sql?u=76281980&t=31)** It helps prioritize interventions and resources for those who are at higher risk of developing certain health conditions, allowing healthcare organizations to make better strategies when managing population health.
 >
-> **[0:46](https://www.linkedin.com/learning/sql-for-healthcare-professionals/risk-stratification-in-sql?u=76281980&t=46)** In this video, we will explore how SQL can be used to conduct risk stratification.
+> **[0:46](https://www.linkedin.com/learning/sql-for-healthcare-professionals/risk-stratification-in-sql?u=76281980&t=46)** In this video, we will explore how [[SQL]] can be used to conduct risk stratification.
 >
-> **[0:53](https://www.linkedin.com/learning/sql-for-healthcare-professionals/risk-stratification-in-sql?u=76281980&t=53)** Once the data is centralized in a database, and the data modeling's completed.
+> **[0:53](https://www.linkedin.com/learning/sql-for-healthcare-professionals/risk-stratification-in-sql?u=76281980&t=53)** Once the data is centralized in a database, and the [[Data Modeling]]'s completed.
 >
 > **[0:58](https://www.linkedin.com/learning/sql-for-healthcare-professionals/risk-stratification-in-sql?u=76281980&t=58)** SQL queries are utilized to sift through this information and identify potential risks factors associated with different conditions.
 >
@@ -1056,7 +1041,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (5), data (3), management (2), database (2)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Data Modeling]] (1)
 > **Env Vars:** sql (5), bmi (4), select (1), case (1)
 > **Code Identifiers:** patient_id (1), patient_name (1), family_history_of_hypertension (1), risk_category (1)
 > **Analogies:** such as (2), imagine (1)
@@ -1065,22 +1050,21 @@ created: 2026-05-02
 > **SQL:** select (1)
 > **Speakers:** - [instructor] (1)
 
-#### Predictive analytics in population health
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/predictive-analytics-in-population-health?u=76281980)
+#### [Predictive analytics in population health](https://www.linkedin.com/learning/sql-for-healthcare-professionals/predictive-analytics-in-population-health?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-for-healthcare-professionals/predictive-analytics-in-population-health?u=76281980&t=0)** - [Instructor] Predictive analytic techniques are powerful tools in addressing questions within the healthcare industry.
+> **[0:00](https://www.linkedin.com/learning/sql-for-healthcare-professionals/predictive-analytics-in-population-health?u=76281980&t=0)** - [Instructor] Predictive analytic techniques are powerful tools in addressing questions within the [[Healthcare Industry]].
 >
 > **[0:07](https://www.linkedin.com/learning/sql-for-healthcare-professionals/predictive-analytics-in-population-health?u=76281980&t=7)** From predicting hospital admissions to assessing healthcare facility capacity, these analysis offering sites into future health outcomes, resource location, and intervention planning.
 >
-> **[0:22](https://www.linkedin.com/learning/sql-for-healthcare-professionals/predictive-analytics-in-population-health?u=76281980&t=22)** SQL plays a crucial role in predictive analytics workflows by pre-processing and preparing data and organizing data sets for analysis.
+> **[0:22](https://www.linkedin.com/learning/sql-for-healthcare-professionals/predictive-analytics-in-population-health?u=76281980&t=22)** [[SQL]] plays a crucial role in [[Predictive Analytics]] workflows by pre-processing and preparing data and organizing data sets for analysis.
 >
 > **[0:33](https://www.linkedin.com/learning/sql-for-healthcare-professionals/predictive-analytics-in-population-health?u=76281980&t=33)** To implement predictive analytics in population health, it's important to recognize that while SQL excels in managing querying data, it does not perform predictive analytics on its own.
 >
-> **[0:46](https://www.linkedin.com/learning/sql-for-healthcare-professionals/predictive-analytics-in-population-health?u=76281980&t=46)** This is where the integration of complementary tools such as Python and R becomes essential.
+> **[0:46](https://www.linkedin.com/learning/sql-for-healthcare-professionals/predictive-analytics-in-population-health?u=76281980&t=46)** This is where the integration of complementary tools such as [[Python (Programming Language)|Python]] and R becomes essential.
 >
-> **[0:54](https://www.linkedin.com/learning/sql-for-healthcare-professionals/predictive-analytics-in-population-health?u=76281980&t=54)** By combining SQL with these tools, data professionals can implement various techniques such as time series analysis and machine learning algorithms to build predictive models.
+> **[0:54](https://www.linkedin.com/learning/sql-for-healthcare-professionals/predictive-analytics-in-population-health?u=76281980&t=54)** By combining SQL with these tools, data professionals can implement various techniques such as [[Time Series Analysis]] and machine learning [[Algorithms]] to build predictive models.
 >
 > **[1:09](https://www.linkedin.com/learning/sql-for-healthcare-professionals/predictive-analytics-in-population-health?u=76281980&t=69)** Let's look at a case scenario.
 >
@@ -1190,17 +1174,17 @@ created: 2026-05-02
 >
 > **[9:46](https://www.linkedin.com/learning/sql-for-healthcare-professionals/predictive-analytics-in-population-health?u=76281980&t=586)** Now, onto model development.
 >
-> **[9:50](https://www.linkedin.com/learning/sql-for-healthcare-professionals/predictive-analytics-in-population-health?u=76281980&t=590)** We export or prepared data to statistical analysis tools, like Python or R, where we craft models such as logistic regression or time series analysis.
+> **[9:50](https://www.linkedin.com/learning/sql-for-healthcare-professionals/predictive-analytics-in-population-health?u=76281980&t=590)** We export or prepared data to [[Statistical Analysis]] tools, like Python or R, where we craft models such as [[Logistic Regression]] or time series analysis.
 >
 > **[10:01](https://www.linkedin.com/learning/sql-for-healthcare-professionals/predictive-analytics-in-population-health?u=76281980&t=601)** Once the model is ready, SQL can help you assess in the model's performance by facilitating the calculation of metrics to evaluate the efficiency of our models in predicting the development of hypertension.
 >
 > **[10:15](https://www.linkedin.com/learning/sql-for-healthcare-professionals/predictive-analytics-in-population-health?u=76281980&t=615)** Finally, we deploy our models into the healthcare's electronic health record system.
 >
-> **[10:21](https://www.linkedin.com/learning/sql-for-healthcare-professionals/predictive-analytics-in-population-health?u=76281980&t=621)** SQL queries integrated the models into clinical workflows, providing healthcare providers with real-time risk scores for individual patients, enabling healthcare organizations to anticipate outcomes and make data-driven decisions.
+> **[10:21](https://www.linkedin.com/learning/sql-for-healthcare-professionals/predictive-analytics-in-population-health?u=76281980&t=621)** SQL queries integrated the models into clinical workflows, providing healthcare providers with [[Real-Time]] risk scores for individual patients, enabling healthcare organizations to anticipate outcomes and make data-driven decisions.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (7), data (6), [[Predictive Analytics]] (4), [[Python (Programming Language)|Python]] (2), [[Time Series Analysis]] (2)
+> **Frameworks & Libraries:** [[SQL]] (7), [[Predictive Analytics]] (4), [[Python (Programming Language)|Python]] (2), [[Time Series Analysis]] (2), [[Healthcare Industry]] (1)
 > **Env Vars:** bmi (12), sql (7), datediff (5), case (4), else (1)
 > **Code Identifiers:** family_history_of_hypertension (6), patient_id (5), bmi_category (2), patient_name (1), hypertension_prediction (1)
 > **CLI Commands:** python (2), make (2)
@@ -1209,8 +1193,7 @@ created: 2026-05-02
 > **SQL:** inner join (1)
 > **Best Practices:** remember to (1)
 
-#### Social determinants of health (SDOH) and SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/social-determinants-of-health-sdoh-and-sql?u=76281980)
+#### [Social determinants of health (SDOH) and SQL](https://www.linkedin.com/learning/sql-for-healthcare-professionals/social-determinants-of-health-sdoh-and-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1236,7 +1219,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/sql-for-healthcare-professionals/social-determinants-of-health-sdoh-and-sql?u=76281980&t=98)** These variable serve as predictive factors in reaching analysis enhancing risk stratification models.
 >
-> **[1:46](https://www.linkedin.com/learning/sql-for-healthcare-professionals/social-determinants-of-health-sdoh-and-sql?u=76281980&t=106)** Using SQL cooperating those factors into analysis is like playing detective with data.
+> **[1:46](https://www.linkedin.com/learning/sql-for-healthcare-professionals/social-determinants-of-health-sdoh-and-sql?u=76281980&t=106)** Using [[SQL]] cooperating those factors into analysis is like playing detective with data.
 >
 > **[1:53](https://www.linkedin.com/learning/sql-for-healthcare-professionals/social-determinants-of-health-sdoh-and-sql?u=76281980&t=113)** It help us uncover how different things like access to healthy foods or pollution levels are linked to patient's health.
 >
@@ -1246,14 +1229,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), management (3), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Analogies:** such as (1), for instance (1), picture (1)
 > **Env Vars:** sql (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - when (1)
 
-#### Challenge: Risk stratification
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/challenge-risk-stratification?u=76281980)
+#### [Challenge: Risk stratification](https://www.linkedin.com/learning/sql-for-healthcare-professionals/challenge-risk-stratification?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1263,7 +1245,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/sql-for-healthcare-professionals/challenge-risk-stratification?u=76281980&t=21)** The tables we're going to use in this challenge are Outpatient Visits and Lab Results.
 >
-> **[0:28](https://www.linkedin.com/learning/sql-for-healthcare-professionals/challenge-risk-stratification?u=76281980&t=28)** Build A SQL query to categorize individuals into different risk groups and show how many patients are in each risk category.
+> **[0:28](https://www.linkedin.com/learning/sql-for-healthcare-professionals/challenge-risk-stratification?u=76281980&t=28)** Build A [[SQL]] query to categorize individuals into different risk groups and show how many patients are in each risk category.
 >
 > **[0:36](https://www.linkedin.com/learning/sql-for-healthcare-professionals/challenge-risk-stratification?u=76281980&t=36)** Here are the criteria: Individuals who are smokers and have a glucose level of more or equal to 126 are consider a high risk.
 >
@@ -1277,14 +1259,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** sql (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Risk stratification
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/solution-risk-stratification?u=76281980)
+#### [Solution: Risk stratification](https://www.linkedin.com/learning/sql-for-healthcare-professionals/solution-risk-stratification?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1324,7 +1305,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/sql-for-healthcare-professionals/solution-risk-stratification?u=76281980&t=149)** Note that I put this into parenthesis.
 >
-> **[2:32](https://www.linkedin.com/learning/sql-for-healthcare-professionals/solution-risk-stratification?u=76281980&t=152)** The reason why is because SQL is going to first calculate this, to then join this results with the smoker status.
+> **[2:32](https://www.linkedin.com/learning/sql-for-healthcare-professionals/solution-risk-stratification?u=76281980&t=152)** The reason why is because [[SQL]] is going to first calculate this, to then join this results with the smoker status.
 >
 > **[2:43](https://www.linkedin.com/learning/sql-for-healthcare-professionals/solution-risk-stratification?u=76281980&t=163)** Anything else that doesn't fall into this category is going to be considered Low Risk for Diabetes.
 >
@@ -1358,7 +1339,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), [[SQL]] (1), data (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Non-Speech:** (keyboard typing) (4), (bouncy music) (1)
 > **Env Vars:** sql (1)
 > **UI Navigation:** select the (1)
@@ -1370,8 +1351,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using SQL in clinical research
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/using-sql-in-clinical-research?u=76281980)
+#### [Using SQL in clinical research](https://www.linkedin.com/learning/sql-for-healthcare-professionals/using-sql-in-clinical-research?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1379,19 +1359,19 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/sql-for-healthcare-professionals/using-sql-in-clinical-research?u=76281980&t=7)** This area of medical sciences focuses on the safety and effectiveness of medications, devices, and treatments intended for human use.
 >
-> **[0:17](https://www.linkedin.com/learning/sql-for-healthcare-professionals/using-sql-in-clinical-research?u=76281980&t=17)** Here are a few ways in which SQL can help.
+> **[0:17](https://www.linkedin.com/learning/sql-for-healthcare-professionals/using-sql-in-clinical-research?u=76281980&t=17)** Here are a few ways in which [[SQL]] can help.
 >
-> **[0:20](https://www.linkedin.com/learning/sql-for-healthcare-professionals/using-sql-in-clinical-research?u=76281980&t=20)** Data management.
+> **[0:20](https://www.linkedin.com/learning/sql-for-healthcare-professionals/using-sql-in-clinical-research?u=76281980&t=20)** [[Data Management]].
 >
 > **[0:22](https://www.linkedin.com/learning/sql-for-healthcare-professionals/using-sql-in-clinical-research?u=76281980&t=22)** In clinical research, managing data effectively is key to ensuring the success of our studies.
 >
 > **[0:28](https://www.linkedin.com/learning/sql-for-healthcare-professionals/using-sql-in-clinical-research?u=76281980&t=28)** SQL provides a powerful framework for storing and managing clinical trial data.
 >
-> **[0:34](https://www.linkedin.com/learning/sql-for-healthcare-professionals/using-sql-in-clinical-research?u=76281980&t=34)** With SQL, we can create structured databases that organize patient demographics, medical histories, treatment regimens, and research outcomes in a secure and effective manner.
+> **[0:34](https://www.linkedin.com/learning/sql-for-healthcare-professionals/using-sql-in-clinical-research?u=76281980&t=34)** With SQL, we can create structured [[Databases]] that organize patient demographics, medical histories, treatment regimens, and research outcomes in a secure and effective manner.
 >
-> **[0:47](https://www.linkedin.com/learning/sql-for-healthcare-professionals/using-sql-in-clinical-research?u=76281980&t=47)** These databases can handle complex relationships between different data entities, ensuring data integrity and security throughout our research process.
+> **[0:47](https://www.linkedin.com/learning/sql-for-healthcare-professionals/using-sql-in-clinical-research?u=76281980&t=47)** These databases can handle complex relationships between different data entities, ensuring [[Data Integrity]] and security throughout our research process.
 >
-> **[0:58](https://www.linkedin.com/learning/sql-for-healthcare-professionals/using-sql-in-clinical-research?u=76281980&t=58)** Data validation and analysis.
+> **[0:58](https://www.linkedin.com/learning/sql-for-healthcare-professionals/using-sql-in-clinical-research?u=76281980&t=58)** [[Data Validation]] and analysis.
 >
 > **[1:01](https://www.linkedin.com/learning/sql-for-healthcare-professionals/using-sql-in-clinical-research?u=76281980&t=61)** It is crucial to ensure the accuracy of our data in clinical research.
 >
@@ -1427,23 +1407,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[SQL]] (13), [[Databases]] (4), management (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[SQL]] (13), [[Databases]] (4), [[Data Validation]] (2), [[Data Management]] (1), [[Data Integrity]] (1)
 > **Env Vars:** sql (13)
 > **CLI Commands:** make (4)
 > **Speakers:** - when (1)
 
-#### Cohort identification using SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/cohort-identification-using-sql?u=76281980)
+#### [Cohort identification using SQL](https://www.linkedin.com/learning/sql-for-healthcare-professionals/cohort-identification-using-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sql-for-healthcare-professionals/cohort-identification-using-sql?u=76281980&t=0)** - [Instructor] Cohort identification is the process of defining and selecting a group of individuals from a larger population based on specific criteria such as demographics, medical history, treatment exposure, or outcomes.
 >
-> **[0:17](https://www.linkedin.com/learning/sql-for-healthcare-professionals/cohort-identification-using-sql?u=76281980&t=17)** This is an essential step in clinical research as it forms the basis for conducting studies.
+> **[0:17](https://www.linkedin.com/learning/sql-for-healthcare-professionals/cohort-identification-using-sql?u=76281980&t=17)** This is an essential step in clinical research as it [[Forms]] the basis for conducting studies.
 >
-> **[0:24](https://www.linkedin.com/learning/sql-for-healthcare-professionals/cohort-identification-using-sql?u=76281980&t=24)** This is how SQL can help.
+> **[0:24](https://www.linkedin.com/learning/sql-for-healthcare-professionals/cohort-identification-using-sql?u=76281980&t=24)** This is how [[SQL]] can help.
 >
-> **[0:26](https://www.linkedin.com/learning/sql-for-healthcare-professionals/cohort-identification-using-sql?u=76281980&t=26)** SQL can be utilized for cohort identification by querying patient databases to select specific group of individuals based on predefined criteria.
+> **[0:26](https://www.linkedin.com/learning/sql-for-healthcare-professionals/cohort-identification-using-sql?u=76281980&t=26)** SQL can be utilized for cohort identification by querying patient [[Databases]] to select specific group of individuals based on predefined criteria.
 >
 > **[0:38](https://www.linkedin.com/learning/sql-for-healthcare-professionals/cohort-identification-using-sql?u=76281980&t=38)** It starts by defining the characteristics or conditions that define your target group.
 >
@@ -1501,7 +1480,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (8), [[Forms]] (1), [[Databases]] (1), data (1), database (1)
+> **Frameworks & Libraries:** [[SQL]] (8), [[Forms]] (1), [[Databases]] (1)
 > **Env Vars:** sql (8)
 > **CLI Commands:** find (3)
 > **Analogies:** such as (2), for example (1)
@@ -1510,8 +1489,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Descriptive analytics using SQL in clinical research
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/descriptive-analytics-using-sql-in-clinical-research?u=76281980)
+#### [Descriptive analytics using SQL in clinical research](https://www.linkedin.com/learning/sql-for-healthcare-professionals/descriptive-analytics-using-sql-in-clinical-research?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1519,7 +1497,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/sql-for-healthcare-professionals/descriptive-analytics-using-sql-in-clinical-research?u=76281980&t=10)** As the name suggests, our analysis describes what happened.
 >
-> **[0:15](https://www.linkedin.com/learning/sql-for-healthcare-professionals/descriptive-analytics-using-sql-in-clinical-research?u=76281980&t=15)** SQL enables its users to conduct descriptive analysis in clinical research by summarizing key statistics and metrics.
+> **[0:15](https://www.linkedin.com/learning/sql-for-healthcare-professionals/descriptive-analytics-using-sql-in-clinical-research?u=76281980&t=15)** [[SQL]] enables its users to conduct descriptive analysis in clinical research by summarizing key [[Statistics]] and metrics.
 >
 > **[0:25](https://www.linkedin.com/learning/sql-for-healthcare-professionals/descriptive-analytics-using-sql-in-clinical-research?u=76281980&t=25)** Using SQL, researchers can utilize aggregate functions such as Count, Sum, Average, Minimal, and Maximum to make calculations with numerical data.
 >
@@ -1633,21 +1611,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[SQL]] (6), [[Analytics]] (3), [[Statistics]] (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (6), [[Statistics]] (1)
 > **Env Vars:** sql (6), dbo (5), case (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Outcome analysis techniques with SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/outcome-analysis-techniques-with-sql?u=76281980)
+#### [Outcome analysis techniques with SQL](https://www.linkedin.com/learning/sql-for-healthcare-professionals/outcome-analysis-techniques-with-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sql-for-healthcare-professionals/outcome-analysis-techniques-with-sql?u=76281980&t=0)** - [Instructor] In clinical research, outcome analysis techniques are essential for evaluating the effectiveness and impact of treatments, interventions, or healthcare practices on patient outcomes, disease progression, and overall health.
 >
-> **[0:17](https://www.linkedin.com/learning/sql-for-healthcare-professionals/outcome-analysis-techniques-with-sql?u=76281980&t=17)** These techniques allow researchers to assess the success or failure of various healthcare interventions, guiding decision-making and improving patient care.
+> **[0:17](https://www.linkedin.com/learning/sql-for-healthcare-professionals/outcome-analysis-techniques-with-sql?u=76281980&t=17)** These techniques allow researchers to assess the success or failure of various healthcare interventions, guiding [[Decision-Making]] and improving patient care.
 >
-> **[0:28](https://www.linkedin.com/learning/sql-for-healthcare-professionals/outcome-analysis-techniques-with-sql?u=76281980&t=28)** With its ability to retrieve, aggregate, analyze vast amounts of patient data, SQL enables researchers to calculate and analyze various outcome measures, such as survival rates, disease progression, and treatment performance.
+> **[0:28](https://www.linkedin.com/learning/sql-for-healthcare-professionals/outcome-analysis-techniques-with-sql?u=76281980&t=28)** With its ability to retrieve, aggregate, analyze vast amounts of patient data, [[SQL]] enables researchers to calculate and analyze various outcome measures, such as survival rates, disease progression, and treatment performance.
 >
 > **[0:47](https://www.linkedin.com/learning/sql-for-healthcare-professionals/outcome-analysis-techniques-with-sql?u=76281980&t=47)** SQL also facilitates comparative analysis by allowing researchers to compare outcomes between different patient groups, variables, or time periods.
 >
@@ -1707,7 +1684,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[SQL]] (3), [[Decision-Making]] (1), management (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Decision-Making]] (1)
 > **Env Vars:** sql (3), dbo (3)
 > **UI Navigation:** select the (1)
 > **Analogies:** such as (1)
@@ -1718,8 +1695,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to use SQL to analyze workflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-to-use-sql-to-analyze-workflow?u=76281980)
+#### [How to use SQL to analyze workflow](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-to-use-sql-to-analyze-workflow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1731,7 +1707,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-to-use-sql-to-analyze-workflow?u=76281980&t=18)** You can break the workflow into different processes such as patient registration, information checking, waiting to be seen, visiting with the clinician, ordering tests, and many more.
 >
-> **[0:33](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-to-use-sql-to-analyze-workflow?u=76281980&t=33)** SQL can help with clinical workflows by monitoring KPIs that are related to healthcare administration, such as patient wait times, appointment scheduling efficiency, and resource utilization.
+> **[0:33](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-to-use-sql-to-analyze-workflow?u=76281980&t=33)** [[SQL]] can help with clinical workflows by monitoring KPIs that are related to healthcare administration, such as patient wait times, appointment scheduling efficiency, and resource utilization.
 >
 > **[0:48](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-to-use-sql-to-analyze-workflow?u=76281980&t=48)** By analyzing those KPIs, healthcare administrators can identify areas for improvement and implementing initiatives to improve workflow efficiency.
 >
@@ -1793,15 +1769,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[SQL]] (7)
+> **Frameworks & Libraries:** [[SQL]] (7)
 > **Env Vars:** sql (7), datediff (3), avg (1), min (1), max (1)
 > **Code Identifiers:** arrival_time (3), admission_time (3), department_name (2), avg_wait_time (1), min_waiting_time (1)
 > **Analogies:** such as (3)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data exchange using SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/data-exchange-using-sql?u=76281980)
+#### [Data exchange using SQL](https://www.linkedin.com/learning/sql-for-healthcare-professionals/data-exchange-using-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1811,9 +1786,9 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/sql-for-healthcare-professionals/data-exchange-using-sql?u=76281980&t=14)** Think about how hard it would be to put the data together when it is time to analyze it.
 >
-> **[0:21](https://www.linkedin.com/learning/sql-for-healthcare-professionals/data-exchange-using-sql?u=76281980&t=21)** Healthcare organizations often store data in multiple databases or systems, such as electronic health records, billing systems, and administrative data.
+> **[0:21](https://www.linkedin.com/learning/sql-for-healthcare-professionals/data-exchange-using-sql?u=76281980&t=21)** Healthcare organizations often store data in multiple [[Databases]] or systems, such as electronic health records, billing systems, and administrative data.
 >
-> **[0:34](https://www.linkedin.com/learning/sql-for-healthcare-professionals/data-exchange-using-sql?u=76281980&t=34)** SQL bridges the gaps between disparate data sources to offer a unified view of patient records, financial transactions, and operational metrics.
+> **[0:34](https://www.linkedin.com/learning/sql-for-healthcare-professionals/data-exchange-using-sql?u=76281980&t=34)** [[SQL]] bridges the gaps between disparate data sources to offer a unified view of patient records, financial transactions, and operational metrics.
 >
 > **[0:45](https://www.linkedin.com/learning/sql-for-healthcare-professionals/data-exchange-using-sql?u=76281980&t=45)** They enable SQL users to generate reports for various stakeholders in the healthcare organization.
 >
@@ -1863,7 +1838,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[SQL]] (5), [[Databases]] (2), management (1)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Databases]] (2)
 > **Code Identifiers:** visit_id (4), visit_date (3), test_date (2), doctor_name (1), test_name (1)
 > **Env Vars:** sql (5), select (1), datediff (1), inner (1), join (1)
 > **Analogies:** imagine (2), such as (1)
@@ -1872,16 +1847,15 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Quality improvement initiatives
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/quality-improvement-initiatives?u=76281980)
+#### [Quality improvement initiatives](https://www.linkedin.com/learning/sql-for-healthcare-professionals/quality-improvement-initiatives?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-for-healthcare-professionals/quality-improvement-initiatives?u=76281980&t=0)** - [Instructor] In the healthcare industry, quality improvement initiatives are essential for enhancing patient care and organizational performance.
+> **[0:00](https://www.linkedin.com/learning/sql-for-healthcare-professionals/quality-improvement-initiatives?u=76281980&t=0)** - [Instructor] In the [[Healthcare Industry]], quality improvement initiatives are essential for enhancing patient care and organizational performance.
 >
 > **[0:09](https://www.linkedin.com/learning/sql-for-healthcare-professionals/quality-improvement-initiatives?u=76281980&t=9)** Think of ways where workflow can improve.
 >
-> **[0:12](https://www.linkedin.com/learning/sql-for-healthcare-professionals/quality-improvement-initiatives?u=76281980&t=12)** SQL enables its users to get information from diverse sources within the data healthcare ecosystem.
+> **[0:12](https://www.linkedin.com/learning/sql-for-healthcare-professionals/quality-improvement-initiatives?u=76281980&t=12)** [[SQL]] enables its users to get information from diverse sources within the data healthcare ecosystem.
 >
 > **[0:19](https://www.linkedin.com/learning/sql-for-healthcare-professionals/quality-improvement-initiatives?u=76281980&t=19)** And with this data in hand, the areas for improvements can be identified.
 >
@@ -1975,7 +1949,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (5), data (4), hr (2), [[Healthcare Industry]] (1)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Healthcare Industry]] (1)
 > **Env Vars:** sql (5), count (4), case (2), avg (2), select (1)
 > **Code Identifiers:** patient_id (7), department_name (3), days_in_the_hospital (2), total_patients (1), readmitted_patients (1)
 > **SQL:** select (1), group by (1), inner join (1)
@@ -1984,8 +1958,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Best Practices:** don't forget (1)
 
-#### Challenge: Appointment analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/challenge-appointment-analysis?u=76281980)
+#### [Challenge: Appointment analysis](https://www.linkedin.com/learning/sql-for-healthcare-professionals/challenge-appointment-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1999,14 +1972,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Appointment analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/solution-appointment-analysis?u=76281980)
+#### [Solution: Appointment analysis](https://www.linkedin.com/learning/sql-for-healthcare-professionals/solution-appointment-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2034,7 +2005,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Code Identifiers:** appointment_count (2), appointment_date (1)
 > **Env Vars:** datename (2), select (1)
 > **SQL:** select (1)
@@ -2046,8 +2016,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Assignment: Healthcare analytics scenario
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/assignment-healthcare-analytics-scenario?u=76281980)
+#### [Assignment: Healthcare analytics scenario](https://www.linkedin.com/learning/sql-for-healthcare-professionals/assignment-healthcare-analytics-scenario?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2059,7 +2028,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/sql-for-healthcare-professionals/assignment-healthcare-analytics-scenario?u=76281980&t=19)** They need actionable insights into patients' demographics, diagnosis, and visit patterns to optimize service delivery and enhance patient outcomes.
 >
-> **[0:31](https://www.linkedin.com/learning/sql-for-healthcare-professionals/assignment-healthcare-analytics-scenario?u=76281980&t=31)** The stakeholders recognize the importance of data-driven decision-making, but require support in transforming raw data into actionable insights.
+> **[0:31](https://www.linkedin.com/learning/sql-for-healthcare-professionals/assignment-healthcare-analytics-scenario?u=76281980&t=31)** The stakeholders recognize the importance of data-driven [[Decision-Making]], but require support in transforming raw data into actionable insights.
 >
 > **[0:42](https://www.linkedin.com/learning/sql-for-healthcare-professionals/assignment-healthcare-analytics-scenario?u=76281980&t=42)** They approach the data analytics team to help answer some questions.
 >
@@ -2119,15 +2088,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), management (2), next (2), [[Decision-Making]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** imagine (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - imagine (1)
 
-#### Walkthrough: Demographics scenario
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/walkthrough-demographics-scenario?u=76281980)
+#### [Walkthrough: Demographics scenario](https://www.linkedin.com/learning/sql-for-healthcare-professionals/walkthrough-demographics-scenario?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2167,13 +2135,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), management (1), next (1)
 > **Env Vars:** case (4), datediff (2), end (2), count (1)
 > **Code Identifiers:** age_group (1), patient_count (1)
 > **Speakers:** - [instructor] (1)
 
-#### Walkthrough: Demographics and diagnosis scenario
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/walkthrough-demographics-and-diagnosis-scenario?u=76281980)
+#### [Walkthrough: Demographics and diagnosis scenario](https://www.linkedin.com/learning/sql-for-healthcare-professionals/walkthrough-demographics-and-diagnosis-scenario?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2199,18 +2165,17 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/sql-for-healthcare-professionals/walkthrough-demographics-and-diagnosis-scenario?u=76281980&t=79)** Adding the diagnosis to the query adds more insights into this population's needs.
 >
-> **[1:24](https://www.linkedin.com/learning/sql-for-healthcare-professionals/walkthrough-demographics-and-diagnosis-scenario?u=76281980&t=84)** This information can aid in capacity planning, staffing decisions, and resource allocation to ensure that the healthcare facility can adequately serve its patient population.
+> **[1:24](https://www.linkedin.com/learning/sql-for-healthcare-professionals/walkthrough-demographics-and-diagnosis-scenario?u=76281980&t=84)** This information can aid in [[Capacity Planning]], staffing decisions, and resource allocation to ensure that the healthcare facility can adequately serve its patient population.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Capacity Planning]] (1)
+> **Frameworks & Libraries:** [[Capacity Planning]] (1)
 > **Code Identifiers:** patient_id (3)
 > **SQL:** group by (1)
 > **Env Vars:** group (1)
 > **Speakers:** - [instructor] (1)
 
-#### Walkthrough: Appointments scenario
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/walkthrough-appointments-scenario?u=76281980)
+#### [Walkthrough: Appointments scenario](https://www.linkedin.com/learning/sql-for-healthcare-professionals/walkthrough-appointments-scenario?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2242,14 +2207,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Code Identifiers:** appointment_count (2), appointment_time (1), appointment_hour (1)
 > **Env Vars:** datepart (2)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Walkthrough: Laboratory scenario
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/walkthrough-laboratory-scenario?u=76281980)
+#### [Walkthrough: Laboratory scenario](https://www.linkedin.com/learning/sql-for-healthcare-professionals/walkthrough-laboratory-scenario?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2267,18 +2230,17 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/sql-for-healthcare-professionals/walkthrough-laboratory-scenario?u=76281980&t=56)** Asking about the most commonly ordered lab tests provides insights in healthcare administration patient care.
 >
-> **[1:03](https://www.linkedin.com/learning/sql-for-healthcare-professionals/walkthrough-laboratory-scenario?u=76281980&t=63)** It helps in resource allocation, quality improvement, cost management, and clinical decision support.
+> **[1:03](https://www.linkedin.com/learning/sql-for-healthcare-professionals/walkthrough-laboratory-scenario?u=76281980&t=63)** It helps in resource allocation, quality improvement, [[Cost Management]], and clinical decision support.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Cost Management]] (1)
+> **Frameworks & Libraries:** [[Cost Management]] (1)
 > **Code Identifiers:** test_name (2), test_count (2)
 > **SQL:** order by (1)
 > **Env Vars:** order (1)
 > **Speakers:** - [instructor] (1)
 
-#### Walkthrough: Laboratory with risk scenario
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/walkthrough-laboratory-with-risk-scenario?u=76281980)
+#### [Walkthrough: Laboratory with risk scenario](https://www.linkedin.com/learning/sql-for-healthcare-professionals/walkthrough-laboratory-with-risk-scenario?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2335,8 +2297,7 @@ created: 2026-05-02
 > **SQL:** inner join (2), where (1)
 > **Speakers:** - [instructor] (1)
 
-#### Walkthrough: Risk scenario
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/walkthrough-risk-scenario?u=76281980)
+#### [Walkthrough: Risk scenario](https://www.linkedin.com/learning/sql-for-healthcare-professionals/walkthrough-risk-scenario?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2364,7 +2325,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/sql-for-healthcare-professionals/walkthrough-risk-scenario?u=76281980&t=87)** Remember to put the diagnosis in between parentheses.
 >
-> **[1:30](https://www.linkedin.com/learning/sql-for-healthcare-professionals/walkthrough-risk-scenario?u=76281980&t=90)** This way, SQL is going to first do this condition, and then combine with this smoker_status.
+> **[1:30](https://www.linkedin.com/learning/sql-for-healthcare-professionals/walkthrough-risk-scenario?u=76281980&t=90)** This way, [[SQL]] is going to first do this condition, and then combine with this smoker_status.
 >
 > **[1:36](https://www.linkedin.com/learning/sql-for-healthcare-professionals/walkthrough-risk-scenario?u=76281980&t=96)** Next, we're going to stratify the Medium Risk patients.
 >
@@ -2388,15 +2349,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), management (1), [[SQL]] (1), next (1), database (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** case (4), select (1), sql (1), end (1), count (1)
 > **Code Identifiers:** smoker_status (3), num_patients (1)
 > **SQL:** select (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Walkthrough: Readmission scenario
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/walkthrough-readmission-scenario?u=76281980)
+#### [Walkthrough: Readmission scenario](https://www.linkedin.com/learning/sql-for-healthcare-professionals/walkthrough-readmission-scenario?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2480,11 +2440,11 @@ created: 2026-05-02
 >
 > **[5:25](https://www.linkedin.com/learning/sql-for-healthcare-professionals/walkthrough-readmission-scenario?u=76281980&t=325)** Remember that while the final projects may have specific requirements, it's okay if your queries differ from the walkthrough, as long as you get the same results.
 >
-> **[5:35](https://www.linkedin.com/learning/sql-for-healthcare-professionals/walkthrough-readmission-scenario?u=76281980&t=335)** This is also true if you use another flavor of SQL, and not Microsoft SQL Server.
+> **[5:35](https://www.linkedin.com/learning/sql-for-healthcare-professionals/walkthrough-readmission-scenario?u=76281980&t=335)** This is also true if you use another flavor of [[SQL]], and not [[Microsoft SQL Server]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), data (1), [[SQL]] (1), [[Microsoft SQL Server]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[Microsoft SQL Server]] (1)
 > **Code Identifiers:** ov_initial (8), ov_readmit (6), visit_date (5), patient_id (3), reason_for_visit (2)
 > **Env Vars:** select (2), sql (2), datediff (1)
 > **SQL:** select (2)
@@ -2496,16 +2456,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/sql-for-healthcare-professionals/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sql-for-healthcare-professionals/next-steps?u=76281980&t=0)** - Congratulations on finishing the course.
 >
-> **[0:03](https://www.linkedin.com/learning/sql-for-healthcare-professionals/next-steps?u=76281980&t=3)** We cover a lot of ground from understanding SQL fundamentals to solving problems using queries.
+> **[0:03](https://www.linkedin.com/learning/sql-for-healthcare-professionals/next-steps?u=76281980&t=3)** We cover a lot of ground from understanding [[SQL]] fundamentals to solving problems using queries.
 >
-> **[0:10](https://www.linkedin.com/learning/sql-for-healthcare-professionals/next-steps?u=76281980&t=10)** Each step of this course has helped you grow as a SQL practitioner in the healthcare industry.
+> **[0:10](https://www.linkedin.com/learning/sql-for-healthcare-professionals/next-steps?u=76281980&t=10)** Each step of this course has helped you grow as a SQL practitioner in the [[Healthcare Industry]].
 >
 > **[0:16](https://www.linkedin.com/learning/sql-for-healthcare-professionals/next-steps?u=76281980&t=16)** As we learn the use of data in the healthcare field is growing.
 >
@@ -2527,7 +2486,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[SQL]] (3), [[Healthcare Industry]] (3), [[Analytics]] (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Healthcare Industry]] (3)
 > **Env Vars:** sql (3)
 > **Analogies:** such as (1)
 > **Speakers:** - congratulations (1)

@@ -107,8 +107,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Beginning your programming journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/beginning-your-programming-journey?u=76281980)
+#### [Beginning your programming journey](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/beginning-your-programming-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -138,11 +137,11 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/beginning-your-programming-journey?u=76281980&t=82)** If you've heard of programming and had no idea where to start, this course is for you.
 >
-> **[1:30](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/beginning-your-programming-journey?u=76281980&t=90)** I hope you're ready to join me on my LinkedIn Learning course, all about getting you started with programming.
+> **[1:30](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/beginning-your-programming-journey?u=76281980&t=90)** I hope you're ready to join me on my [[LinkedIn]] Learning course, all about getting you started with programming.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (5), game (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - in (1)
@@ -152,8 +151,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What do programmers do?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-do-programmers-do?u=76281980)
+#### [What do programmers do?](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-do-programmers-do?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -179,7 +177,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-do-programmers-do?u=76281980&t=68)** Well, it's based on the needs of the software.
 >
-> **[1:12](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-do-programmers-do?u=76281980&t=72)** For example, let's say they work for a banking app and they receive a request to support a new transfer functionality.
+> **[1:12](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-do-programmers-do?u=76281980&t=72)** For example, let's say they work for a [[Banking]] app and they receive a request to support a new transfer functionality.
 >
 > **[1:22](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-do-programmers-do?u=76281980&t=82)** First, they will work with others on their team to determine what software should be developed.
 >
@@ -207,7 +205,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-do-programmers-do?u=76281980&t=169)** Programmers worldwide had to scramble to update countless software to avert a major international crisis.
 >
-> **[2:58](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-do-programmers-do?u=76281980&t=178)** Now that's certainly not a typical day at the office.
+> **[2:58](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-do-programmers-do?u=76281980&t=178)** Now that's certainly not a typical day at the [[Microsoft Office|office]].
 >
 > **[3:03](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-do-programmers-do?u=76281980&t=183)** However, it underscores the importance of maintaining the health of existing software.
 >
@@ -221,14 +219,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (1), [[Security]] (1), [[Banking]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Banking]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** y2k (2)
 > **Definitions:** known as (1)
 > **Analogies:** for example (1)
 > **Speakers:** - computer (1)
 
-#### A week in the life
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/a-week-in-the-life?u=76281980)
+#### [A week in the life](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/a-week-in-the-life?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -298,7 +295,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/a-week-in-the-life?u=76281980&t=165)** Finally, we've made it to Friday.
 >
-> **[2:48](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/a-week-in-the-life?u=76281980&t=168)** This is where you can show your work to the rest of the team.
+> **[2:48](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/a-week-in-the-life?u=76281980&t=168)** This is where you can show your work to the [[Representational State Transfer (REST)|rest]] of the team.
 >
 > **[2:52](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/a-week-in-the-life?u=76281980&t=172)** They may have questions on why you took a particular approach or provide suggestions on how you can improve the new feature.
 >
@@ -310,12 +307,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (5), [[Debugging]] (4), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - a (1)
 
-#### The biggest challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/the-biggest-challenges?u=76281980)
+#### [The biggest challenges](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/the-biggest-challenges?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -395,14 +391,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (3), [[Programming]] (2), career (2)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2)
 > **Warnings:** be aware (1)
 > **Speakers:** - programming (1)
 
-#### Keeping your skills sharp
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/keeping-your-skills-sharp?u=76281980)
+#### [Keeping your skills sharp](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/keeping-your-skills-sharp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -434,7 +428,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/keeping-your-skills-sharp?u=76281980&t=75)** If you struggle with finding time to read, I recommend subscribing to podcasts that cover the latest in the industry.
 >
-> **[1:24](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/keeping-your-skills-sharp?u=76281980&t=84)** For example, if you're into cybersecurity, they have podcasts for that, mobile development, no problem.
+> **[1:24](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/keeping-your-skills-sharp?u=76281980&t=84)** For example, if you're into [[Cybersecurity]], they have podcasts for that, [[Mobile Development]], no problem.
 >
 > **[1:33](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/keeping-your-skills-sharp?u=76281980&t=93)** Podcasts have you covered.
 >
@@ -468,7 +462,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (3), career (1), [[Cybersecurity]] (1), [[Mobile Development]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1), [[Mobile Development]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - marc (1)
@@ -478,22 +472,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is software development?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-is-software-development?u=76281980)
+#### [What is software development?](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-is-software-development?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-is-software-development?u=76281980&t=0)** - Software development involves various processes related to software design, development and delivery.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-is-software-development?u=76281980&t=0)** - [[Software Development]] involves various processes related to [[Software Design]], development and delivery.
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-is-software-development?u=76281980&t=9)** Recall, software is the set of instructions or programs that tell a computer what to do.
 >
 > **[0:16](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-is-software-development?u=76281980&t=16)** There are three basic types.
 >
-> **[0:19](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-is-software-development?u=76281980&t=19)** System software to provide core functions, such as operating systems or hardware management.
+> **[0:19](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-is-software-development?u=76281980&t=19)** System software to provide core functions, such as operating systems or [[Hardware]] management.
 >
 > **[0:26](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-is-software-development?u=76281980&t=26)** System software often runs in the background and doesn't require the user to interact with it.
 >
-> **[0:33](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-is-software-development?u=76281980&t=33)** For instance, you might be watching this course on a Windows machine, running the Windows system software.
+> **[0:33](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-is-software-development?u=76281980&t=33)** For instance, you might be watching this course on a [[Windows]] machine, running the Windows system software.
 >
 > **[0:41](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-is-software-development?u=76281980&t=41)** Next, application software or apps.
 >
@@ -501,7 +494,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-is-software-development?u=76281980&t=50)** Apps are often installed by the user and become active when the user takes a certain action.
 >
-> **[0:56](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-is-software-development?u=76281980&t=56)** Some examples are e-commerce web applications where you can make a purchase, or mobile applications that allow you to share and like pictures.
+> **[0:56](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-is-software-development?u=76281980&t=56)** Some examples are [[E-Commerce]] web applications where you can make a purchase, or mobile applications that allow you to share and like pictures.
 >
 > **[1:07](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-is-software-development?u=76281980&t=67)** Or a chat application that keeps you in touch with coworkers.
 >
@@ -531,18 +524,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Software Development]] (4), [[Programming]] (3), [[Windows]] (2), application (2), [[Software Design]] (1)
+> **Frameworks & Libraries:** [[Software Development]] (4), [[Windows]] (2), [[Software Design]] (1), [[Hardware]] (1), [[E-Commerce]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1), for instance (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - software (1)
 
-#### The software development process
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/the-software-development-process?u=76281980)
+#### [The software development process](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/the-software-development-process?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/the-software-development-process?u=76281980&t=1)** - Did you know, the Microsoft Windows operating system has roughly 50 million lines of code.
+> **[0:01](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/the-software-development-process?u=76281980&t=1)** - Did you know, the [[Microsoft]] [[Windows]] operating system has roughly 50 million lines of code.
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/the-software-development-process?u=76281980&t=9)** Now that's a lot of software.
 >
@@ -552,7 +544,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/the-software-development-process?u=76281980&t=17)** So how did they do it?
 >
-> **[0:19](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/the-software-development-process?u=76281980&t=19)** Well, software is developed in various phases known as the software development life cycle or SDLC.
+> **[0:19](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/the-software-development-process?u=76281980&t=19)** Well, software is developed in various phases known as the [[Software Development]] life cycle or SDLC.
 >
 > **[0:25](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/the-software-development-process?u=76281980&t=25)** known as the software development life cycle or SDLC.
 >
@@ -562,7 +554,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/the-software-development-process?u=76281980&t=41)** Let's walk through them together.
 >
-> **[0:44](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/the-software-development-process?u=76281980&t=44)** The first is requirements gathering.
+> **[0:44](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/the-software-development-process?u=76281980&t=44)** The first is [[Requirements Gathering]].
 >
 > **[0:47](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/the-software-development-process?u=76281980&t=47)** This is where certain members of the software team work to understand what is needed by users and the business.
 >
@@ -632,21 +624,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Software Development]] (4), next (3), [[Microsoft]] (1), [[Windows]] (1), [[Requirements Gathering]] (1)
+> **Frameworks & Libraries:** [[Software Development]] (4), [[Microsoft]] (1), [[Windows]] (1), [[Requirements Gathering]] (1)
 > **Env Vars:** sdlc (3)
 > **CLI Commands:** make (2)
 > **Definitions:** known as (2)
 > **Analogies:** think of it as (1)
 > **Speakers:** - did (1)
 
-#### Explore the various roles in software development
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/explore-the-various-roles-in-software-development?u=76281980)
+#### [Explore the various roles in software development](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/explore-the-various-roles-in-software-development?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/explore-the-various-roles-in-software-development?u=76281980&t=1)** - Programmers aren't the only ones involved in creating software.
 >
-> **[0:05](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/explore-the-various-roles-in-software-development?u=76281980&t=5)** Recall, the software development cycle has several phases.
+> **[0:05](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/explore-the-various-roles-in-software-development?u=76281980&t=5)** Recall, the [[Software Development]] cycle has several phases.
 >
 > **[0:10](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/explore-the-various-roles-in-software-development?u=76281980&t=10)** In each phase, one or two key roles drive it forward.
 >
@@ -666,7 +657,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/explore-the-various-roles-in-software-development?u=76281980&t=57)** Speaking of which, here come the designers.
 >
-> **[1:00](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/explore-the-various-roles-in-software-development?u=76281980&t=60)** They work as the User Experience and User Interface Designers, respectively.
+> **[1:00](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/explore-the-various-roles-in-software-development?u=76281980&t=60)** They work as the [[User Experience (UX)|User Experience]] and User Interface Designers, respectively.
 >
 > **[1:07](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/explore-the-various-roles-in-software-development?u=76281980&t=67)** As the User Experience Designer, he is responsible for ensuring the software we develop is user friendly.
 >
@@ -690,7 +681,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/explore-the-various-roles-in-software-development?u=76281980&t=124)** And finally, full-stack programmer, they can write code for any system layer.
 >
-> **[2:12](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/explore-the-various-roles-in-software-development?u=76281980&t=132)** Last, and certainly not least, is the Quality Assurance Engineer.
+> **[2:12](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/explore-the-various-roles-in-software-development?u=76281980&t=132)** Last, and certainly not least, is the [[Quality Assurance]] Engineer.
 >
 > **[2:18](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/explore-the-various-roles-in-software-development?u=76281980&t=138)** She is responsible for ensuring the quality of the software that is developed.
 >
@@ -702,18 +693,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Software Development]] (2), business (2), product (2), [[User Experience (UX)|User experience]] (2), next (1)
+> **Frameworks & Libraries:** [[Software Development]] (2), [[User Experience (UX)|User experience]] (2), [[Quality Assurance]] (1)
 > **Definitions:** known as (1), is a  (1)
 > **Speakers:** - programmers (1)
 
-#### Tools used for software development
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tools-used-for-software-development?u=76281980)
+#### [Tools used for software development](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tools-used-for-software-development?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tools-used-for-software-development?u=76281980&t=1)** - Various tools are used in successful software projects.
+> **[0:01](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tools-used-for-software-development?u=76281980&t=1)** - Various tools are used in successful [[Software Projects]].
 >
-> **[0:05](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tools-used-for-software-development?u=76281980&t=5)** A tool can be used for each phase of the software development life cycle.
+> **[0:05](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tools-used-for-software-development?u=76281980&t=5)** A tool can be used for each phase of the [[Software Development]] life cycle.
 >
 > **[0:10](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tools-used-for-software-development?u=76281980&t=10)** I'll walk you through the most common tools you're likely to encounter starting out.
 >
@@ -721,13 +711,13 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tools-used-for-software-development?u=76281980&t=19)** A whiteboard is great for brainstorming ideas, visualizing project components, and collaborating on a problem with others.
 >
-> **[0:28](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tools-used-for-software-development?u=76281980&t=28)** I don't think I've ever been to a tech company's office that didn't contain several whiteboards.
+> **[0:28](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tools-used-for-software-development?u=76281980&t=28)** I don't think I've ever been to a tech company's [[Microsoft Office|office]] that didn't contain several whiteboards.
 >
 > **[0:34](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tools-used-for-software-development?u=76281980&t=34)** Even if you work on a project virtually, you can still use online whiteboards to get the same benefits.
 >
 > **[0:43](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tools-used-for-software-development?u=76281980&t=43)** Next up, online collaboration software.
 >
-> **[0:47](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tools-used-for-software-development?u=76281980&t=47)** Companies like Microsoft, Google, and Atlassian provide software that allows a team to collaborate on files together.
+> **[0:47](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tools-used-for-software-development?u=76281980&t=47)** Companies like [[Microsoft]], [[Google]], and [[Atlassian]] provide software that allows a team to collaborate on files together.
 >
 > **[0:57](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tools-used-for-software-development?u=76281980&t=57)** This is vital for software projects, as requirements need to be documented, systems need to be represented visually, and presentations need to be created for stakeholders, and much, much more.
 >
@@ -757,18 +747,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (5), [[Software Projects]] (3), next (2), [[Software Development]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Software Projects]] (3), [[Software Development]] (1), [[Microsoft Office|Office]] (1), [[Microsoft]] (1), [[Google]] (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - various (1)
 
-#### Getting software to customers
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/getting-software-to-customers?u=76281980)
+#### [Getting software to customers](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/getting-software-to-customers?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/getting-software-to-customers?u=76281980&t=1)** - Once software is up and running, the next step is getting it to customers.
 >
-> **[0:06](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/getting-software-to-customers?u=76281980&t=6)** This is one of the most critical aspects of the software development process.
+> **[0:06](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/getting-software-to-customers?u=76281980&t=6)** This is one of the most critical aspects of the [[Software Development]] process.
 >
 > **[0:12](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/getting-software-to-customers?u=76281980&t=12)** Why do I say that?
 >
@@ -778,7 +767,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/getting-software-to-customers?u=76281980&t=30)** In either case, all of your hard work would've been for nothing.
 >
-> **[0:36](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/getting-software-to-customers?u=76281980&t=36)** Delivering software to the intended users is known as software deployment.
+> **[0:36](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/getting-software-to-customers?u=76281980&t=36)** Delivering software to the intended users is known as [[Software Deployment]].
 >
 > **[0:43](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/getting-software-to-customers?u=76281980&t=43)** The type of application developed dictates the steps followed during the deployment process.
 >
@@ -830,7 +819,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), next (2), [[Software Development]] (2), mobile application (2), [[Software Deployment]] (1)
+> **Frameworks & Libraries:** [[Software Development]] (2), [[Software Deployment]] (1)
 > **Definitions:** known as (1), is a  (1)
 > **Env Vars:** url (1)
 > **UI Navigation:** go to (1)
@@ -842,12 +831,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explore version control systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/explore-version-control-systems?u=76281980)
+#### [Explore version control systems](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/explore-version-control-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/explore-version-control-systems?u=76281980&t=1)** - Programmers use version control systems to make updates to their code safely.
+> **[0:01](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/explore-version-control-systems?u=76281980&t=1)** - Programmers use [[Version Control]] systems to make updates to their code safely.
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/explore-version-control-systems?u=76281980&t=7)** Version control is the practice of tracking and managing changes to software code.
 >
@@ -893,7 +881,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/explore-version-control-systems?u=76281980&t=134)** Similarly, when there is a bug in the code, you can use the log of changes from your VCS to debug the cause.
 >
-> **[2:24](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/explore-version-control-systems?u=76281980&t=144)** One of the most popular version control systems today is Git.
+> **[2:24](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/explore-version-control-systems?u=76281980&t=144)** One of the most popular version control systems today is [[Git]].
 >
 > **[2:30](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/explore-version-control-systems?u=76281980&t=150)** Git is free and open source.
 >
@@ -909,25 +897,24 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/explore-version-control-systems?u=76281980&t=189)** Version control systems help software teams work faster and smarter.
 >
-> **[3:15](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/explore-version-control-systems?u=76281980&t=195)** It's an essential practice of modern-day software development.
+> **[3:15](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/explore-version-control-systems?u=76281980&t=195)** It's an essential practice of modern-day [[Software Development]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Version Control]] (9), [[Git]] (4), teams (2), database (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Version Control]] (9), [[Git]] (4), [[Software Development]] (1)
 > **CLI Commands:** make (4), git (4), find (1)
 > **Env Vars:** vcs (3)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** think of it as (1)
 > **Speakers:** - programmers (1)
 
-#### Tour various code repository services
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tour-various-code-repository-services?u=76281980)
+#### [Tour various code repository services](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tour-various-code-repository-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tour-various-code-repository-services?u=76281980&t=0)** - Repository Hosting Services are third-party web applications that wrap and enhance a version control system.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tour-various-code-repository-services?u=76281980&t=0)** - Repository Hosting Services are third-party web applications that wrap and enhance a [[Version Control]] system.
 >
-> **[0:09](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tour-various-code-repository-services?u=76281980&t=9)** One of the most popular version control systems today is Git, and the most popular hosting service for Git is GitHub.
+> **[0:09](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tour-various-code-repository-services?u=76281980&t=9)** One of the most popular version control systems today is [[Git]], and the most popular hosting service for Git is [[GitHub]].
 >
 > **[0:19](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tour-various-code-repository-services?u=76281980&t=19)** GitHub lets you an others work together on projects from anywhere.
 >
@@ -941,7 +928,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tour-various-code-repository-services?u=76281980&t=44)** The registry helps you to find libraries that are community approved.
 >
-> **[0:49](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tour-various-code-repository-services?u=76281980&t=49)** Third, GitHub has code review builtin.
+> **[0:49](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tour-various-code-repository-services?u=76281980&t=49)** Third, GitHub has [[Code Review]] builtin.
 >
 > **[0:54](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tour-various-code-repository-services?u=76281980&t=54)** A code review lets other programmers on your team share feedback and ask questions about your work.
 >
@@ -957,13 +944,13 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tour-various-code-repository-services?u=76281980&t=94)** There are several others that offer similar functionality.
 >
-> **[1:39](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tour-various-code-repository-services?u=76281980&t=99)** For example, let's take a look at Bitbucket.
+> **[1:39](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tour-various-code-repository-services?u=76281980&t=99)** For example, let's take a look at [[Bitbucket]].
 >
 > **[1:45](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tour-various-code-repository-services?u=76281980&t=105)** Bitbucket is great for teams that prefer a seamless integration with their other planning tools.
 >
 > **[1:52](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tour-various-code-repository-services?u=76281980&t=112)** Similar to GitHub, Bitbucket offers code review.
 >
-> **[1:57](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tour-various-code-repository-services?u=76281980&t=117)** Yet, if you're using their software tracking tool, Jira, you can take additional actions like creating tasks and issues directly in your code review.
+> **[1:57](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tour-various-code-repository-services?u=76281980&t=117)** Yet, if you're using their software tracking tool, [[Jira]], you can take additional actions like creating tasks and issues directly in your code review.
 >
 > **[2:09](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tour-various-code-repository-services?u=76281980&t=129)** There is no need to have another system to handle that.
 >
@@ -971,9 +958,9 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tour-various-code-repository-services?u=76281980&t=138)** These pipelines allow you to run checks and ship software when everything looks good.
 >
-> **[2:25](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tour-various-code-repository-services?u=76281980&t=145)** And finally, you can receive real-time security alerts while you're developing code that can help to keep your project secure.
+> **[2:25](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tour-various-code-repository-services?u=76281980&t=145)** And finally, you can receive [[Real-Time]] security alerts while you're developing code that can help to keep your project secure.
 >
-> **[2:35](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tour-various-code-repository-services?u=76281980&t=155)** We've only explored two of the more popular code-hosting services, but it should be evident how they play a prominent role in the success of software projects.
+> **[2:35](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tour-various-code-repository-services?u=76281980&t=155)** We've only explored two of the more popular code-hosting services, but it should be evident how they play a prominent role in the success of [[Software Projects]].
 
 > [!info]- Semantic Content
 >
@@ -983,8 +970,7 @@ created: 2026-05-02
 > **Analogies:** for example (1), similar to (1)
 > **Speakers:** - repository (1)
 
-#### Introduction to libraries and frameworks
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/introduction-to-libraries-and-frameworks?u=76281980)
+#### [Introduction to libraries and frameworks](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/introduction-to-libraries-and-frameworks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -996,7 +982,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/introduction-to-libraries-and-frameworks?u=76281980&t=25)** This is so common in computer programming that we call code that someone else has written and verified a library.
 >
-> **[0:35](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/introduction-to-libraries-and-frameworks?u=76281980&t=35)** Libraries are essential for modern software development, because otherwise, we would solve the same fundamental problems repeatedly.
+> **[0:35](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/introduction-to-libraries-and-frameworks?u=76281980&t=35)** Libraries are essential for modern [[Software Development]], because otherwise, we would solve the same fundamental problems repeatedly.
 >
 > **[0:47](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/introduction-to-libraries-and-frameworks?u=76281980&t=47)** There's hardly any relevant software project that would not depend on software libraries one way or another.
 >
@@ -1012,15 +998,15 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/introduction-to-libraries-and-frameworks?u=76281980&t=85)** Here are some examples of programming libraries in various languages.
 >
-> **[1:30](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/introduction-to-libraries-and-frameworks?u=76281980&t=90)** First up is Ktor.
+> **[1:30](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/introduction-to-libraries-and-frameworks?u=76281980&t=90)** First up is [[Ktor]].
 >
-> **[1:33](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/introduction-to-libraries-and-frameworks?u=76281980&t=93)** Ktor is used with the Kotlin programming language.
+> **[1:33](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/introduction-to-libraries-and-frameworks?u=76281980&t=93)** Ktor is used with the [[Kotlin]] programming language.
 >
 > **[1:37](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/introduction-to-libraries-and-frameworks?u=76281980&t=97)** Ktor allows you to make network requests and handle the responses in your application, a common task in programming.
 >
 > **[1:48](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/introduction-to-libraries-and-frameworks?u=76281980&t=108)** Next let's take a look at NumPy.
 >
-> **[1:52](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/introduction-to-libraries-and-frameworks?u=76281980&t=112)** NumPy is a Python library.
+> **[1:52](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/introduction-to-libraries-and-frameworks?u=76281980&t=112)** NumPy is a [[Python (Programming Language)|Python]] library.
 >
 > **[1:55](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/introduction-to-libraries-and-frameworks?u=76281980&t=115)** It's often used in machine learning to help simplify the processing of large data sets, a handy tool in any ML engineer's toolbox.
 >
@@ -1032,7 +1018,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/introduction-to-libraries-and-frameworks?u=76281980&t=142)** This is best understood with an example.
 >
-> **[2:26](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/introduction-to-libraries-and-frameworks?u=76281980&t=146)** Next.js is a popular framework for developing web applications.
+> **[2:26](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/introduction-to-libraries-and-frameworks?u=76281980&t=146)** [[Next.js]] is a popular framework for developing web applications.
 >
 > **[2:32](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/introduction-to-libraries-and-frameworks?u=76281980&t=152)** It defines the file structure you should use for your code to get the most out of the framework.
 >
@@ -1046,15 +1032,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (5), [[Ktor]] (3), business (1), [[Software Development]] (1), [[Kotlin]] (1)
+> **Frameworks & Libraries:** [[Ktor]] (3), [[Software Development]] (1), [[Kotlin]] (1), [[Python (Programming Language)|Python]] (1), [[Next.js]] (1)
 > **CLI Commands:** make (3), python (1)
 > **Definitions:** is a  (2)
 > **File Paths:** next.js (1)
 > **Analogies:** think of it as (1)
 > **Speakers:** - as (1)
 
-#### Survey different types of IDEs
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/survey-different-types-of-ides?u=76281980)
+#### [Survey different types of IDEs](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/survey-different-types-of-ides?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1064,7 +1049,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/survey-different-types-of-ides?u=76281980&t=15)** Well, you can think of it this way, you could write a letter in Notepad, a simple text editor, if you needed to type a letter.
 >
-> **[0:24](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/survey-different-types-of-ides?u=76281980&t=24)** Or you could use Microsoft Word, a powerful word processor.
+> **[0:24](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/survey-different-types-of-ides?u=76281980&t=24)** Or you could use [[Microsoft Word]], a powerful [[Microsoft Word|word]] processor.
 >
 > **[0:30](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/survey-different-types-of-ides?u=76281980&t=30)** They both allow you to write the letter.
 >
@@ -1080,7 +1065,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/survey-different-types-of-ides?u=76281980&t=56)** Visual Studio Code, or VS Code for short, is a lightweight IDE.
 >
-> **[1:02](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/survey-different-types-of-ides?u=76281980&t=62)** It was initially designed for the JavaScript and type script programming languages.
+> **[1:02](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/survey-different-types-of-ides?u=76281980&t=62)** It was initially designed for the [[JavaScript]] and type script programming languages.
 >
 > **[1:08](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/survey-different-types-of-ides?u=76281980&t=68)** However, it now supports many more languages through powerful extensions.
 >
@@ -1088,11 +1073,11 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/survey-different-types-of-ides?u=76281980&t=78)** IntelliSense allows you to get code suggestions while typing.
 >
-> **[1:24](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/survey-different-types-of-ides?u=76281980&t=84)** This works a lot like auto complete when you're sending a text or searching in Google, and it guesses the rest of the phrase you're typing.
+> **[1:24](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/survey-different-types-of-ides?u=76281980&t=84)** This works a lot like auto complete when you're sending a text or searching in [[Google]], and it guesses the [[Representational State Transfer (REST)|rest]] of the phrase you're typing.
 >
 > **[1:33](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/survey-different-types-of-ides?u=76281980&t=93)** Next, we'll take a look at IntelliJ IDEA.
 >
-> **[1:38](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/survey-different-types-of-ides?u=76281980&t=98)** This IDE is optimized for the Java programming language.
+> **[1:38](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/survey-different-types-of-ides?u=76281980&t=98)** This IDE is optimized for the [[Java]] programming language.
 >
 > **[1:43](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/survey-different-types-of-ides?u=76281980&t=103)** What's unique about IntelliJ is the built in support for spotting errors in your code and helping you to write code that follows best practices.
 >
@@ -1104,7 +1089,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/survey-different-types-of-ides?u=76281980&t=126)** So if you're working on projects that don't require the powerful features of a traditional IDE, Sublime Text is a great option.
 >
-> **[2:16](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/survey-different-types-of-ides?u=76281980&t=136)** IDEs can ease the burden of software development by providing tools to help you write, debug, and run your source code more efficiently.
+> **[2:16](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/survey-different-types-of-ides?u=76281980&t=136)** IDEs can ease the burden of [[Software Development]] by providing tools to help you write, debug, and run your source code more efficiently.
 >
 > **[2:28](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/survey-different-types-of-ides?u=76281980&t=148)** But ultimately, it's up to you to find the one that meets your needs.
 >
@@ -1112,7 +1097,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Programming]] (2), application (1), [[Microsoft Word]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Microsoft Word]] (1), [[JavaScript]] (1), [[Google]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Tools:** sublime (3), vs code (2), intellij (2), visual studio (1)
 > **Env Vars:** ide (4), idea (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -1120,12 +1105,11 @@ created: 2026-05-02
 > **Exercise Files:** source code (1)
 > **Speakers:** - [narrator] (1)
 
-#### How programmers use AI in their work
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/how-programmers-use-ai-in-their-work?u=76281980)
+#### [How programmers use AI in their work](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/how-programmers-use-ai-in-their-work?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/how-programmers-use-ai-in-their-work?u=76281980&t=0)** - [Instructor] Artificial intelligence has become an essential tool for programmers, helping them write, debug, and optimize code faster than ever before.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/how-programmers-use-ai-in-their-work?u=76281980&t=0)** - [Instructor] [[Artificial Intelligence (AI)|Artificial intelligence]] has become an essential tool for programmers, helping them write, debug, and optimize code faster than ever before.
 >
 > **[0:11](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/how-programmers-use-ai-in-their-work?u=76281980&t=11)** From automating repetitive task to improving code quality, AI is transforming the way developers work.
 >
@@ -1133,13 +1117,13 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/how-programmers-use-ai-in-their-work?u=76281980&t=23)** First, help with coding.
 >
-> **[0:26](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/how-programmers-use-ai-in-their-work?u=76281980&t=26)** AI-powered tools, like GitHub Copilot and ChatGPT, help programmers by suggesting code snippets, generating functions, and even explaining complex concepts.
+> **[0:26](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/how-programmers-use-ai-in-their-work?u=76281980&t=26)** AI-powered tools, like [[GitHub Copilot]] and [[ChatGPT]], help programmers by suggesting code snippets, generating functions, and even explaining complex concepts.
 >
 > **[0:41](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/how-programmers-use-ai-in-their-work?u=76281980&t=41)** These assistance speed up development by reducing the time spent searching for solutions online.
 >
 > **[0:49](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/how-programmers-use-ai-in-their-work?u=76281980&t=49)** Debugging and code optimization.
 >
-> **[0:52](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/how-programmers-use-ai-in-their-work?u=76281980&t=52)** AI-driven platforms can analyze code in real-time, detecting potential bugs and performance issues before they even cause problems.
+> **[0:52](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/how-programmers-use-ai-in-their-work?u=76281980&t=52)** AI-driven platforms can analyze code in [[Real-Time]], detecting potential bugs and performance issues before they even cause problems.
 >
 > **[1:03](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/how-programmers-use-ai-in-their-work?u=76281980&t=63)** Tools like sync, scan through projects, and provide recommendations to make code more efficient and secure.
 >
@@ -1153,13 +1137,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[GitHub Copilot]] (1), [[ChatGPT]] (1), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[GitHub Copilot]] (1), [[ChatGPT]] (1), [[Real-Time]] (1)
 > **CLI Commands:** make (1)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
-#### Learn where to get help
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/learn-where-to-get-help?u=76281980)
+#### [Learn where to get help](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/learn-where-to-get-help?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1175,7 +1158,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/learn-where-to-get-help?u=76281980&t=30)** The first is the official documentation for your programming language.
 >
-> **[0:37](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/learn-where-to-get-help?u=76281980&t=37)** For example, here's the documentation for the Python programming language.
+> **[0:37](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/learn-where-to-get-help?u=76281980&t=37)** For example, here's the documentation for the [[Python (Programming Language)|Python]] programming language.
 >
 > **[0:42](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/learn-where-to-get-help?u=76281980&t=42)** You can find numerous code examples and explanations of what the various commands do and their expected behavior.
 >
@@ -1189,11 +1172,11 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/learn-where-to-get-help?u=76281980&t=82)** And finally, you can turn to the numerous online tech communities that exist to provide support.
 >
-> **[1:31](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/learn-where-to-get-help?u=76281980&t=91)** For example, here's the Kotlin community page.
+> **[1:31](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/learn-where-to-get-help?u=76281980&t=91)** For example, here's the [[Kotlin]] community page.
 >
 > **[1:35](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/learn-where-to-get-help?u=76281980&t=95)** As you can see, there are multiple ways to ask questions and get help.
 >
-> **[1:40](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/learn-where-to-get-help?u=76281980&t=100)** For instance, I've personally found engaging with online slack communities to be a great way to give and receive programming help.
+> **[1:40](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/learn-where-to-get-help?u=76281980&t=100)** For instance, I've personally found engaging with online [[Slack]] communities to be a great way to give and receive programming help.
 >
 > **[1:51](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/learn-where-to-get-help?u=76281980&t=111)** And here's my bonus tip.
 >
@@ -1207,7 +1190,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (3), [[Python (Programming Language)|Python]] (1), [[Kotlin]] (1), [[Slack]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Kotlin]] (1), [[Slack]] (1)
 > **CLI Commands:** find (2), make (1), python (1)
 > **Analogies:** for example (2), for instance (1)
 > **URLs:** [stackoverflow.com](https://stackoverflow.com) (1)
@@ -1221,8 +1204,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a programming language?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-is-a-programming-language?u=76281980)
+#### [What is a programming language?](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-is-a-programming-language?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1244,9 +1226,9 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-is-a-programming-language?u=76281980&t=46)** The code that programmers write is written in a particular programming language.
 >
-> **[0:53](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-is-a-programming-language?u=76281980&t=53)** For example, many websites are written in the JavaScript programming language.
+> **[0:53](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-is-a-programming-language?u=76281980&t=53)** For example, many websites are written in the [[JavaScript]] programming language.
 >
-> **[0:59](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-is-a-programming-language?u=76281980&t=59)** Android applications, the Kotlin programming language.
+> **[0:59](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-is-a-programming-language?u=76281980&t=59)** [[Android]] applications, the [[Kotlin]] programming language.
 >
 > **[1:04](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-is-a-programming-language?u=76281980&t=64)** And video games, the C# programming language.
 >
@@ -1256,19 +1238,18 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-is-a-programming-language?u=76281980&t=77)** Some are ideal for programming small devices with limited memory, whereas others were made to handle complex mathematical computations.
 >
-> **[1:28](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-is-a-programming-language?u=76281980&t=88)** Software projects rely on programming languages to achieve the desired goal of the business.
+> **[1:28](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-is-a-programming-language?u=76281980&t=88)** [[Software Projects]] rely on programming languages to achieve the desired goal of the business.
 >
 > **[1:36](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-is-a-programming-language?u=76281980&t=96)** Therefore, choosing the appropriate one will impact the outcome.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (9), [[JavaScript]] (1), [[Android]] (1), [[Kotlin]] (1), strengths (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1), [[Android]] (1), [[Kotlin]] (1), [[Software Projects]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - there (1)
 
-#### Basic components of a programming language
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/basic-components-of-a-programming-language?u=76281980)
+#### [Basic components of a programming language](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/basic-components-of-a-programming-language?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1286,7 +1267,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/basic-components-of-a-programming-language?u=76281980&t=40)** Let's look at an example.
 >
-> **[0:43](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/basic-components-of-a-programming-language?u=76281980&t=43)** First we'll look at a language called JavaScript.
+> **[0:43](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/basic-components-of-a-programming-language?u=76281980&t=43)** First we'll look at a language called [[JavaScript]].
 >
 > **[0:47](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/basic-components-of-a-programming-language?u=76281980&t=47)** This is how we would get the program to print out "Hello!" when run.
 >
@@ -1296,13 +1277,13 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/basic-components-of-a-programming-language?u=76281980&t=62)** It starts with something called document.write, and then a set of parentheses.
 >
-> **[1:09](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/basic-components-of-a-programming-language?u=76281980&t=69)** Next you'll see single quotes around the word Hello.
+> **[1:09](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/basic-components-of-a-programming-language?u=76281980&t=69)** Next you'll see single quotes around the [[Microsoft Word|word]] Hello.
 >
 > **[1:13](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/basic-components-of-a-programming-language?u=76281980&t=73)** And then the use of a semicolon at the end of the line.
 >
 > **[1:18](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/basic-components-of-a-programming-language?u=76281980&t=78)** These things are part of the syntax or rules of the JavaScript programming language.
 >
-> **[1:26](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/basic-components-of-a-programming-language?u=76281980&t=86)** Now let's look at some code in the Python programming language.
+> **[1:26](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/basic-components-of-a-programming-language?u=76281980&t=86)** Now let's look at some code in the [[Python (Programming Language)|Python]] programming language.
 >
 > **[1:31](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/basic-components-of-a-programming-language?u=76281980&t=91)** This does the same thing.
 >
@@ -1318,7 +1299,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/basic-components-of-a-programming-language?u=76281980&t=118)** An example will help to illustrate this aspect.
 >
-> **[2:03](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/basic-components-of-a-programming-language?u=76281980&t=123)** This is some code in the Kotlin programming language.
+> **[2:03](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/basic-components-of-a-programming-language?u=76281980&t=123)** This is some code in the [[Kotlin]] programming language.
 >
 > **[2:06](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/basic-components-of-a-programming-language?u=76281980&t=126)** Let's discuss its semantics.
 >
@@ -1336,13 +1317,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (7), [[JavaScript]] (3), [[Microsoft Word|Word]] (3), [[Python (Programming Language)|Python]] (2), next (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[Microsoft Word|Word]] (3), [[Python (Programming Language)|Python]] (2), [[Kotlin]] (1)
 > **CLI Commands:** python (2)
 > **Analogies:** for instance (1), similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is source code?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-is-source-code?u=76281980)
+#### [What is source code?](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-is-source-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1356,17 +1336,17 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-is-source-code?u=76281980&t=22)** It's mostly just the actual characters.
 >
-> **[0:26](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-is-source-code?u=76281980&t=26)** This means that word processing applications aren't suitable for writing code because by default they insert bits of information in files that prevent them from being plain text.
+> **[0:26](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-is-source-code?u=76281980&t=26)** This means that [[Microsoft Word|word]] processing applications aren't suitable for writing code because by default they insert bits of information in files that prevent them from being plain text.
 >
 > **[0:41](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-is-source-code?u=76281980&t=41)** This is one reason why programmers choose to use IDEs, or Integrated Development Environments, to write code.
 >
 > **[0:53](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-is-source-code?u=76281980&t=53)** Let's take a look at some code.
 >
-> **[0:56](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-is-source-code?u=76281980&t=56)** This is code in the Kotlin programming language.
+> **[0:56](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-is-source-code?u=76281980&t=56)** This is code in the [[Kotlin]] programming language.
 >
 > **[1:01](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-is-source-code?u=76281980&t=61)** It's used for developing many different types of software applications.
 >
-> **[1:06](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-is-source-code?u=76281980&t=66)** I primarily use it for creating Android apps.
+> **[1:06](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-is-source-code?u=76281980&t=66)** I primarily use it for creating [[Android]] apps.
 >
 > **[1:10](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-is-source-code?u=76281980&t=70)** Let's take a look at some things you may notice.
 >
@@ -1386,17 +1366,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Kotlin]] (1), [[Programming]] (1), [[Android]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Kotlin]] (1), [[Android]] (1)
 > **Exercise Files:** source code (3)
 > **Definitions:** means that (1), is a  (1)
 > **Speakers:** - programmers (1)
 
-#### Running source code
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/running-source-code?u=76281980)
+#### [Running source code](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/running-source-code?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/running-source-code?u=76281980&t=1)** - This is code in the Kotlin programming language.
+> **[0:01](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/running-source-code?u=76281980&t=1)** - This is code in the [[Kotlin]] programming language.
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/running-source-code?u=76281980&t=5)** Let's run it.
 >
@@ -1432,12 +1411,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2), [[Kotlin]] (1)
+> **Frameworks & Libraries:** [[Kotlin]] (1)
 > **Analogies:** for example (1), think of it as (1), just like (1)
 > **Speakers:** - this (1)
 
-#### Exploring variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/exploring-variables?u=76281980)
+#### [Exploring variables](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/exploring-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1459,7 +1437,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/exploring-variables?u=76281980&t=50)** A programmer will need to keep track of dozens of variables.
 >
-> **[0:55](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/exploring-variables?u=76281980&t=55)** For example, I like to play word games online.
+> **[0:55](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/exploring-variables?u=76281980&t=55)** For example, I like to play [[Microsoft Word|word]] games online.
 >
 > **[0:59](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/exploring-variables?u=76281980&t=59)** Besides the score for each player, there's the total number of tiles left to play, the value of each tile, bonus points, and more.
 >
@@ -1487,14 +1465,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (3), game (3), data (2), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **Analogies:** for example (2), imagine (2)
 > **Definitions:** is called (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - in (1)
 
-#### Basic statements and expressions
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/basic-statements-and-expressions?u=76281980)
+#### [Basic statements and expressions](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/basic-statements-and-expressions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1534,7 +1511,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/basic-statements-and-expressions?u=76281980&t=103)** The final component of a statement that I want you to be familiar with is a keyword.
 >
-> **[1:50](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/basic-statements-and-expressions?u=76281980&t=110)** A keyword is a reserved word that means something special to the given programming language.
+> **[1:50](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/basic-statements-and-expressions?u=76281980&t=110)** A keyword is a reserved [[Microsoft Word|word]] that means something special to the given programming language.
 >
 > **[1:59](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/basic-statements-and-expressions?u=76281980&t=119)** Let's take a look at a keyword in the Ruby programming language.
 >
@@ -1552,7 +1529,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (4), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (2), known as (1)
 > **CLI Commands:** ruby (1), make (1)
 > **Analogies:** for example (2)
@@ -1563,12 +1540,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/introduction-to-python?u=76281980)
+#### [Introduction to Python](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/introduction-to-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/introduction-to-python?u=76281980&t=1)** - At the time of this recording, the top five programming languages are Java, Python, JavaScript, C++, and C#.
+> **[0:01](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/introduction-to-python?u=76281980&t=1)** - At the time of this recording, the top five programming languages are [[Java]], [[Python (Programming Language)|Python]], [[JavaScript]], C++, and C#.
 >
 > **[0:11](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/introduction-to-python?u=76281980&t=11)** Python is ideal for those who are starting out with programming, because it has few syntax requirements.
 >
@@ -1592,16 +1568,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Programming]] (2), [[Java]] (1), [[JavaScript]] (1), web (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Java]] (1), [[JavaScript]] (1)
 > **CLI Commands:** python (7)
 > **Speakers:** - at (1)
 
-#### Basic Python syntax
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/basic-python-syntax?u=76281980)
+#### [Basic Python syntax](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/basic-python-syntax?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/basic-python-syntax?u=76281980&t=0)** - [Instructor] Python is ideal for learning how to program, as its syntax or rules are easy to understand.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/basic-python-syntax?u=76281980&t=0)** - [Instructor] [[Python (Programming Language)|Python]] is ideal for learning how to program, as its syntax or rules are easy to understand.
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/basic-python-syntax?u=76281980&t=7)** Let's start with the basics.
 >
@@ -1691,17 +1666,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), data (4), next (3), [[Programming]] (2), hit (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4)
 > **CLI Commands:** python (4)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Saving data with Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/saving-data-with-python?u=76281980)
+#### [Saving data with Python](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/saving-data-with-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/saving-data-with-python?u=76281980&t=0)** - [Instructor] We declare variables in Python by giving them a name and then setting their value.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/saving-data-with-python?u=76281980&t=0)** - [Instructor] We declare variables in [[Python (Programming Language)|Python]] by giving them a name and then setting their value.
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/saving-data-with-python?u=76281980&t=6)** This assignment is done with the equal sign.
 >
@@ -1709,7 +1683,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/saving-data-with-python?u=76281980&t=12)** The first variable we'll create will be a number representing a score.
 >
-> **[0:16](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/saving-data-with-python?u=76281980&t=16)** We'll write the word score, then a space, an equal sign, another space, and then the number 750.
+> **[0:16](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/saving-data-with-python?u=76281980&t=16)** We'll write the [[Microsoft Word|word]] score, then a space, an equal sign, another space, and then the number 750.
 >
 > **[0:26](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/saving-data-with-python?u=76281980&t=26)** What did we just do?
 >
@@ -1789,14 +1763,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** python (4)
 > **Code Identifiers:** favorite_snack (2)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Making decisions with Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/making-decisions-with-python?u=76281980)
+#### [Making decisions with Python](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/making-decisions-with-python?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1822,11 +1795,11 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/making-decisions-with-python?u=76281980&t=57)** The most common way for a computer to make decisions based on a condition is using an if statement.
 >
-> **[1:03](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/making-decisions-with-python?u=76281980&t=63)** An if statement has this general structure, it starts with the word if, that's where it gets its name from then it checks some condition and if that condition is true then it will do the work you've placed inside of it.
+> **[1:03](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/making-decisions-with-python?u=76281980&t=63)** An if statement has this general structure, it starts with the [[Microsoft Word|word]] if, that's where it gets its name from then it checks some condition and if that condition is true then it will do the work you've placed inside of it.
 >
 > **[1:18](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/making-decisions-with-python?u=76281980&t=78)** To visualize this, think of it as a flow chart with only one check, if it's true then the program will proceed to execute the statements, if not, then it just ignores those statements as if they don't exist.
 >
-> **[1:33](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/making-decisions-with-python?u=76281980&t=93)** Here's a simple if statement in Python, it starts with the word if then we have our condition or boolean expression, five less than six, the less than sign is the same one you should be familiar with from primary school.
+> **[1:33](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/making-decisions-with-python?u=76281980&t=93)** Here's a simple if statement in [[Python (Programming Language)|Python]], it starts with the word if then we have our condition or boolean expression, five less than six, the less than sign is the same one you should be familiar with from primary school.
 >
 > **[1:48](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/making-decisions-with-python?u=76281980&t=108)** Next, we have a colon, this is part of the syntax or rules of the Python if statement and on the next line we have an indented line of code.
 >
@@ -1848,19 +1821,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), next (3), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Microsoft Word|Word]] (2)
 > **CLI Commands:** python (5), make (2)
 > **Code Identifiers:** having_fun (3)
 > **Analogies:** for example (1), think of it as (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Functions in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/functions-in-python?u=76281980)
+#### [Functions in Python](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/functions-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/functions-in-python?u=76281980&t=0)** - [Instructor] DRY is a core principle of software development that stands for don't repeat yourself.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/functions-in-python?u=76281980&t=0)** - [Instructor] DRY is a core principle of [[Software Development]] that stands for don't repeat yourself.
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/functions-in-python?u=76281980&t=6)** Programmers attempt to write simple, easy to read, and unrepetitive code.
 >
@@ -1872,7 +1844,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/functions-in-python?u=76281980&t=22)** You've already used a function, print, to show something on the screen.
 >
-> **[0:25](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/functions-in-python?u=76281980&t=25)** There are hundreds of other functions in Python we've yet to explore.
+> **[0:25](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/functions-in-python?u=76281980&t=25)** There are hundreds of other functions in [[Python (Programming Language)|Python]] we've yet to explore.
 >
 > **[0:29](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/functions-in-python?u=76281980&t=29)** To better understand how functions work, let's create one.
 >
@@ -1974,20 +1946,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), next (4), [[Programming]] (2), [[Software Development]] (1), feature (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Software Development]] (1)
 > **Definitions:** is a  (3), stands for (1), short for (1)
 > **CLI Commands:** python (4)
 > **Env Vars:** ide (2), dry (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: What's the output?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/challenge-what-s-the-output?u=76281980)
+#### [Challenge: What's the output?](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/challenge-what-s-the-output?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/challenge-what-s-the-output?u=76281980&t=0)** (electronic music)
 >
-> **[0:06](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/challenge-what-s-the-output?u=76281980&t=6)** - Now that you have a basic understanding of Python, let's put your newfound powers to use by figuring out what the following lines of code will output.
+> **[0:06](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/challenge-what-s-the-output?u=76281980&t=6)** - Now that you have a basic understanding of [[Python (Programming Language)|Python]], let's put your newfound powers to use by figuring out what the following lines of code will output.
 >
 > **[0:16](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/challenge-what-s-the-output?u=76281980&t=16)** I want you to try and figure out the output on a sheet of paper.
 >
@@ -2006,8 +1977,7 @@ created: 2026-05-02
 > **Speakers:** - now (1)
 > **Non-Speech:** (electronic music) (1)
 
-#### Solution: What's the output?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/solution-what-s-the-output?u=76281980)
+#### [Solution: What's the output?](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/solution-what-s-the-output?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2023,7 +1993,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/solution-what-s-the-output?u=76281980&t=25)** Then line number two is a blank line.
 >
-> **[0:27](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/solution-what-s-the-output?u=76281980&t=27)** We know that Python will just ignore it, so there's no output from it.
+> **[0:27](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/solution-what-s-the-output?u=76281980&t=27)** We know that [[Python (Programming Language)|Python]] will just ignore it, so there's no output from it.
 >
 > **[0:32](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/solution-what-s-the-output?u=76281980&t=32)** Onto line number three, it starts with a hash mark.
 >
@@ -2095,7 +2065,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), next (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4)
 > **CLI Commands:** python (4)
 > **Definitions:** is a  (2)
 > **Speakers:** - are (1)
@@ -2106,8 +2076,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to object-oriented programming
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/introduction-to-object-oriented-programming?u=76281980)
+#### [Introduction to object-oriented programming](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/introduction-to-object-oriented-programming?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2117,7 +2086,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/introduction-to-object-oriented-programming?u=76281980&t=9)** Over the years, however, programmers have developed various strategies to help reduce the number of bugs in their code.
 >
-> **[0:17](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/introduction-to-object-oriented-programming?u=76281980&t=17)** One such strategy is known as object-oriented programming.
+> **[0:17](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/introduction-to-object-oriented-programming?u=76281980&t=17)** One such strategy is known as [[Object-Oriented Programming (OOP)|object-oriented programming]].
 >
 > **[0:24](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/introduction-to-object-oriented-programming?u=76281980&t=24)** Let me explain what it is and how it works.
 >
@@ -2163,22 +2132,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (5), [[Programming]] (2)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (5)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - bugs (1)
 
-#### Creating and using a class
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/creating-and-using-a-class?u=76281980)
+#### [Creating and using a class](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/creating-and-using-a-class?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/creating-and-using-a-class?u=76281980&t=0)** - [Instructor] Object-oriented programming represents real-world things and situations with classes.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/creating-and-using-a-class?u=76281980&t=0)** - [Instructor] [[Object-Oriented Programming (OOP)|Object-oriented programming]] represents real-world things and situations with classes.
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/creating-and-using-a-class?u=76281980&t=6)** A class is a blueprint for how other objects should be created.
 >
-> **[0:11](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/creating-and-using-a-class?u=76281980&t=11)** Python supports the creation of classes with the class keyword.
+> **[0:11](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/creating-and-using-a-class?u=76281980&t=11)** [[Python (Programming Language)|Python]] supports the creation of classes with the class keyword.
 >
 > **[0:16](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/creating-and-using-a-class?u=76281980&t=16)** Let's create a class together to see how it's done.
 >
@@ -2296,7 +2264,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), next (3), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2)
 > **CLI Commands:** python (5), make (2)
 > **Code Identifiers:** favorite_toy (3)
 > **Definitions:** is a  (2)
@@ -2304,8 +2272,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to organize your code
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/how-to-organize-your-code?u=76281980)
+#### [How to organize your code](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/how-to-organize-your-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2313,7 +2280,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/how-to-organize-your-code?u=76281980&t=5)** To keep things neat and organized, it's best to store your classes in modules.
 >
-> **[0:11](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/how-to-organize-your-code?u=76281980&t=11)** A module is a file consisting of Python code.
+> **[0:11](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/how-to-organize-your-code?u=76281980&t=11)** A module is a file consisting of [[Python (Programming Language)|Python]] code.
 >
 > **[0:15](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/how-to-organize-your-code?u=76281980&t=15)** It can define functions, classes, variables, and more.
 >
@@ -2339,7 +2306,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), application (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2), make (1)
 > **Env Vars:** dry (1)
 > **UI Navigation:** open the (1)
@@ -2347,12 +2314,11 @@ created: 2026-05-02
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding modules to your programs
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/adding-modules-to-your-programs?u=76281980)
+#### [Adding modules to your programs](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/adding-modules-to-your-programs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/adding-modules-to-your-programs?u=76281980&t=0)** - [Instructor] The Python standard library is a set of modules that you get with every Python installation.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/adding-modules-to-your-programs?u=76281980&t=0)** - [Instructor] The [[Python (Programming Language)|Python]] standard library is a set of modules that you get with every Python installation.
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/adding-modules-to-your-programs?u=76281980&t=7)** You can use code other programmers have written to handle more complex logic in your own programs.
 >
@@ -2366,7 +2332,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/adding-modules-to-your-programs?u=76281980&t=30)** Therefore, you might be wondering, when would you need to use random numbers while programming?
 >
-> **[0:35](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/adding-modules-to-your-programs?u=76281980&t=35)** Well, if you were to work in artificial intelligence or data science, you'd run into this use case quite often.
+> **[0:35](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/adding-modules-to-your-programs?u=76281980&t=35)** Well, if you were to work in [[Artificial Intelligence (AI)|artificial intelligence]] or [[Data Science]], you'd run into this use case quite often.
 >
 > **[0:42](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/adding-modules-to-your-programs?u=76281980&t=42)** These programmers use random numbers to shuffle their data sets, establish configuration values for machine models, or even to prepare values for experiments.
 >
@@ -2422,21 +2388,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), data (2), [[Programming]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), functional (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Data Science]] (1)
 > **CLI Commands:** python (3), make (2)
 > **Definitions:** is a  (1), means that (1)
 > **File Paths:** random.py (1)
 > **Env Vars:** ide (1)
 > **Speakers:** - [instructor] (1)
 
-#### How Python is used in the real world
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/how-python-is-used-in-the-real-world?u=76281980)
+#### [How Python is used in the real world](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/how-python-is-used-in-the-real-world?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/how-python-is-used-in-the-real-world?u=76281980&t=0)** - Python is capable of handling almost any software development requirement.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/how-python-is-used-in-the-real-world?u=76281980&t=0)** - [[Python (Programming Language)|Python]] is capable of handling almost any [[Software Development]] requirement.
 >
-> **[0:06](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/how-python-is-used-in-the-real-world?u=76281980&t=6)** It heads libraries and packages for web browsers, databases, image manipulation, email, and much more.
+> **[0:06](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/how-python-is-used-in-the-real-world?u=76281980&t=6)** It heads libraries and packages for web browsers, [[Databases]], image manipulation, email, and much more.
 >
 > **[0:16](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/how-python-is-used-in-the-real-world?u=76281980&t=16)** This makes Python ideal for various real world projects.
 >
@@ -2444,9 +2409,9 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/how-python-is-used-in-the-real-world?u=76281980&t=23)** Let's take a look at a few popular use cases.
 >
-> **[0:27](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/how-python-is-used-in-the-real-world?u=76281980&t=27)** Web development.
+> **[0:27](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/how-python-is-used-in-the-real-world?u=76281980&t=27)** [[Web Development]].
 >
-> **[0:29](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/how-python-is-used-in-the-real-world?u=76281980&t=29)** Django is one of the most used Python web frameworks.
+> **[0:29](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/how-python-is-used-in-the-real-world?u=76281980&t=29)** [[Django]] is one of the most used Python web frameworks.
 >
 > **[0:33](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/how-python-is-used-in-the-real-world?u=76281980&t=33)** It allows teams to not only create websites quickly but to keep scaling them for millions of new users.
 >
@@ -2462,9 +2427,9 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/how-python-is-used-in-the-real-world?u=76281980&t=75)** For example, the Scikit-Image library is used for analysis of medical images and to classify images for object detection in machine learning applications.
 >
-> **[1:30](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/how-python-is-used-in-the-real-world?u=76281980&t=90)** Speaking of which, Python's use in machine learning and artificial intelligence has caused it to explode in popularity over the past several years.
+> **[1:30](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/how-python-is-used-in-the-real-world?u=76281980&t=90)** Speaking of which, Python's use in machine learning and [[Artificial Intelligence (AI)|artificial intelligence]] has caused it to explode in popularity over the past several years.
 >
-> **[1:41](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/how-python-is-used-in-the-real-world?u=76281980&t=101)** Pandas is a data analysis and manipulation tool.
+> **[1:41](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/how-python-is-used-in-the-real-world?u=76281980&t=101)** [[Pandas (Software)|Pandas]] is a data analysis and manipulation tool.
 >
 > **[1:47](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/how-python-is-used-in-the-real-world?u=76281980&t=107)** It's built on top of the Python programming language.
 >
@@ -2474,7 +2439,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[Software Development]] (2), web (2), [[Django]] (2), [[Pandas (Software)|Pandas]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[Software Development]] (2), [[Django]] (2), [[Pandas (Software)|Pandas]] (2), [[Databases]] (1)
 > **CLI Commands:** python (9), make (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
@@ -2485,8 +2450,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Statements and expressions across languages
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/statements-and-expressions-across-languages?u=76281980)
+#### [Statements and expressions across languages](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/statements-and-expressions-across-languages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2494,7 +2458,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/statements-and-expressions-across-languages?u=76281980&t=3)** Let's take a look at the mos popular.
 >
-> **[0:05](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/statements-and-expressions-across-languages?u=76281980&t=5)** At the time of this recording, Python is number one, closely followed by C, Java, and C++.
+> **[0:05](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/statements-and-expressions-across-languages?u=76281980&t=5)** At the time of this recording, [[Python (Programming Language)|Python]] is number one, closely followed by C, [[Java]], and C++.
 >
 > **[0:13](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/statements-and-expressions-across-languages?u=76281980&t=13)** And you might be surprised to know that they're all related.
 >
@@ -2556,7 +2520,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/statements-and-expressions-across-languages?u=76281980&t=140)** But unlike C, everything in Java is in a class.
 >
-> **[2:24](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/statements-and-expressions-across-languages?u=76281980&t=144)** We've already learned about classes and their importance in object-oriented programming.
+> **[2:24](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/statements-and-expressions-across-languages?u=76281980&t=144)** We've already learned about classes and their importance in [[Object-Oriented Programming (OOP)|object-oriented programming]].
 >
 > **[2:30](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/statements-and-expressions-across-languages?u=76281980&t=150)** Here's some Java code.
 >
@@ -2578,26 +2542,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (8), [[Programming]] (7), [[Python (Programming Language)|Python]] (2), next (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2)
+> **Frameworks & Libraries:** [[Java]] (8), [[Python (Programming Language)|Python]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2)
 > **CLI Commands:** python (2)
 > **Definitions:** is a  (1), means that (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring variables across languages
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/exploring-variables-across-languages?u=76281980)
+#### [Exploring variables across languages](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/exploring-variables-across-languages?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/exploring-variables-across-languages?u=76281980&t=0)** - [Instructor] Depending on the programming language you're working with, variables can behave differently.
 >
-> **[0:05](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/exploring-variables-across-languages?u=76281980&t=5)** Some languages require that you define your variables and their types before using them, like Java, C#, and C++.
+> **[0:05](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/exploring-variables-across-languages?u=76281980&t=5)** Some languages require that you define your variables and their types before using them, like [[Java]], C#, and C++.
 >
 > **[0:15](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/exploring-variables-across-languages?u=76281980&t=15)** For example, if we want to store a user's age in Java, we would have to first declare that it will be of type int and then give our variable a name, age.
 >
 > **[0:26](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/exploring-variables-across-languages?u=76281980&t=26)** We get 37 as our output when we run this code.
 >
-> **[0:29](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/exploring-variables-across-languages?u=76281980&t=29)** Now let's compare this to a more relaxed language, like JavaScript.
+> **[0:29](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/exploring-variables-across-languages?u=76281980&t=29)** Now let's compare this to a more relaxed language, like [[JavaScript]].
 >
 > **[0:35](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/exploring-variables-across-languages?u=76281980&t=35)** We don't need to declare a variable's type with JavaScript before using it.
 >
@@ -2615,7 +2578,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/exploring-variables-across-languages?u=76281980&t=78)** Each programming language has rules that you must follow when choosing the name of your variables.
 >
-> **[1:25](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/exploring-variables-across-languages?u=76281980&t=85)** For example, here are the rules of the Python programming language.
+> **[1:25](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/exploring-variables-across-languages?u=76281980&t=85)** For example, here are the rules of the [[Python (Programming Language)|Python]] programming language.
 >
 > **[1:30](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/exploring-variables-across-languages?u=76281980&t=90)** You can write code that will compile with fewer errors by following these rules.
 >
@@ -2631,23 +2594,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (3), [[JavaScript]] (3), [[Java]] (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[Java]] (2), [[Python (Programming Language)|Python]] (1)
 > **Analogies:** for example (2), compare this to (1)
 > **CLI Commands:** python (1), make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Making decisions in code across languages
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/making-decisions-in-code-across-languages?u=76281980)
+#### [Making decisions in code across languages](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/making-decisions-in-code-across-languages?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/making-decisions-in-code-across-languages?u=76281980&t=0)** - [Instructor] Conditionals in Python start with an if followed by our condition, and we end the condition with a colon.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/making-decisions-in-code-across-languages?u=76281980&t=0)** - [Instructor] Conditionals in [[Python (Programming Language)|Python]] start with an if followed by our condition, and we end the condition with a colon.
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/making-decisions-in-code-across-languages?u=76281980&t=7)** Then on the next line, we indent the block of code that we want to be executed.
 >
 > **[0:12](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/making-decisions-in-code-across-languages?u=76281980&t=12)** You've seen a few examples of this already.
 >
-> **[0:15](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/making-decisions-in-code-across-languages?u=76281980&t=15)** In the Java programming language, a prevalent language used for making web and mobile applications, the if statement has a slightly different syntax.
+> **[0:15](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/making-decisions-in-code-across-languages?u=76281980&t=15)** In the [[Java]] programming language, a prevalent language used for making web and mobile applications, the if statement has a slightly different syntax.
 >
 > **[0:25](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/making-decisions-in-code-across-languages?u=76281980&t=25)** After the if keyword, there's a set of opening and closing parentheses.
 >
@@ -2673,13 +2635,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Programming]] (3), [[Java]] (2), next (1), web (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Java]] (2)
 > **CLI Commands:** ruby (4), python (3)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tech careers and their associated programming languages
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tech-careers-and-their-associated-programming-languages?u=76281980)
+#### [Tech careers and their associated programming languages](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tech-careers-and-their-associated-programming-languages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2697,25 +2658,25 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tech-careers-and-their-associated-programming-languages?u=76281980&t=35)** Their job involves the design, testing and troubleshooting of software to meet the needs of various users.
 >
-> **[0:43](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tech-careers-and-their-associated-programming-languages?u=76281980&t=43)** Several programming languages are commonly used, such as Java, Python, C++, C# and Ruby.
+> **[0:43](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tech-careers-and-their-associated-programming-languages?u=76281980&t=43)** Several programming languages are commonly used, such as [[Java]], [[Python (Programming Language)|Python]], C++, C# and Ruby.
 >
 > **[0:54](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tech-careers-and-their-associated-programming-languages?u=76281980&t=54)** Next is a web developer.
 >
 > **[0:56](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tech-careers-and-their-associated-programming-languages?u=76281980&t=56)** How a website looks and functions are the direct results of a web developer's work.
 >
-> **[1:03](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tech-careers-and-their-associated-programming-languages?u=76281980&t=63)** Web development can be a fulfilling career as you have a working website to show off your hard work at the end of a project.
+> **[1:03](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tech-careers-and-their-associated-programming-languages?u=76281980&t=63)** [[Web Development]] can be a fulfilling career as you have a working website to show off your hard work at the end of a project.
 >
 > **[1:12](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tech-careers-and-their-associated-programming-languages?u=76281980&t=72)** Web developers may specialize in front-end or backend development or work on both as a full stack developer.
 >
-> **[1:21](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tech-careers-and-their-associated-programming-languages?u=76281980&t=81)** JavaScript, Python, Java and PHP are the primary languages that dominate this space.
+> **[1:21](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tech-careers-and-their-associated-programming-languages?u=76281980&t=81)** [[JavaScript]], Python, Java and [[PHP]] are the primary languages that dominate this space.
 >
 > **[1:29](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tech-careers-and-their-associated-programming-languages?u=76281980&t=89)** Moving on to a network systems administrator.
 >
 > **[1:33](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tech-careers-and-their-associated-programming-languages?u=76281980&t=93)** These folks manage a company's servers, computer equipment, local networks and intranet.
 >
-> **[1:40](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tech-careers-and-their-associated-programming-languages?u=76281980&t=100)** In addition, they have the challenging job of providing network security and preventing viruses from infecting the company systems.
+> **[1:40](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tech-careers-and-their-associated-programming-languages?u=76281980&t=100)** In addition, they have the challenging job of providing [[Network Security]] and preventing viruses from infecting the company systems.
 >
-> **[1:50](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tech-careers-and-their-associated-programming-languages?u=76281980&t=110)** To work as a network systems administrator, you may write code in either Python, Bash or PowerShell.
+> **[1:50](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tech-careers-and-their-associated-programming-languages?u=76281980&t=110)** To work as a network systems administrator, you may write code in either Python, Bash or [[Powershell]].
 >
 > **[1:58](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tech-careers-and-their-associated-programming-languages?u=76281980&t=118)** Onto my job of choice, a mobile application developer.
 >
@@ -2725,9 +2686,9 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tech-careers-and-their-associated-programming-languages?u=76281980&t=135)** It's a delightful career choice as you often get to develop applications that users rely on in their everyday life.
 >
-> **[2:24](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tech-careers-and-their-associated-programming-languages?u=76281980&t=144)** The most common programming languages for mobile development are Kotlin, Swift and Dart.
+> **[2:24](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tech-careers-and-their-associated-programming-languages?u=76281980&t=144)** The most common programming languages for [[Mobile Development]] are [[Kotlin]], [[Swift (Programming Language)|Swift]] and Dart.
 >
-> **[2:31](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tech-careers-and-their-associated-programming-languages?u=76281980&t=151)** Our last job is a software quality assurance engineer, or QA engineer.
+> **[2:31](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tech-careers-and-their-associated-programming-languages?u=76281980&t=151)** Our last job is a [[Software Quality Assurance]] engineer, or QA engineer.
 >
 > **[2:39](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/tech-careers-and-their-associated-programming-languages?u=76281980&t=159)** QA engineers work to establish and maintain the high quality of software written by other programmers.
 >
@@ -2739,7 +2700,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (5), career (4), [[Python (Programming Language)|Python]] (4), [[Java]] (3), web (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Java]] (3), [[JavaScript]] (2), [[Web Development]] (1), [[PHP]] (1)
 > **CLI Commands:** python (4), ruby (1), php (1), find (1)
 > **Definitions:** is a  (3)
 > **Tools:** bash (1), powershell (1)
@@ -2747,8 +2708,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - you (1)
 
-#### Challenge: Pick the language
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/challenge-pick-the-language?u=76281980)
+#### [Challenge: Pick the language](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/challenge-pick-the-language?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2760,7 +2720,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/challenge-pick-the-language?u=76281980&t=20)** I've also provided multiple choices that you should choose to pick the correct language.
 >
-> **[0:27](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/challenge-pick-the-language?u=76281980&t=27)** For example, after reviewing the first code snippet, is this A, the Java programming language, B, the Ruby programming language, or C, the Python programming language?
+> **[0:27](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/challenge-pick-the-language?u=76281980&t=27)** For example, after reviewing the first code snippet, is this A, the [[Java]] programming language, B, the Ruby programming language, or C, the [[Python (Programming Language)|Python]] programming language?
 >
 > **[0:45](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/challenge-pick-the-language?u=76281980&t=45)** Go line by line checking out the syntax of the code to determine what programming language it belongs to.
 >
@@ -2770,14 +2730,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (5), [[Java]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Java]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** ruby (1), python (1), make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - now (1)
 > **Non-Speech:** (upbeat electronic music) (1)
 
-#### Solution: Pick the language
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/solution-pick-the-language?u=76281980)
+#### [Solution: Pick the language](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/solution-pick-the-language?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2791,7 +2750,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/solution-pick-the-language?u=76281980&t=15)** First, we see the use of the class keyword then curly braces, and semicolons, and a main function.
 >
-> **[0:23](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/solution-pick-the-language?u=76281980&t=23)** Did you guess the Java programming language?
+> **[0:23](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/solution-pick-the-language?u=76281980&t=23)** Did you guess the [[Java]] programming language?
 >
 > **[0:26](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/solution-pick-the-language?u=76281980&t=26)** If so, you'd be correct.
 >
@@ -2807,7 +2766,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/solution-pick-the-language?u=76281980&t=50)** So which language is it?
 >
-> **[0:52](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/solution-pick-the-language?u=76281980&t=52)** It's the JavaScript programming language.
+> **[0:52](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/solution-pick-the-language?u=76281980&t=52)** It's the [[JavaScript]] programming language.
 >
 > **[0:55](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/solution-pick-the-language?u=76281980&t=55)** I hope you guessed the same.
 >
@@ -2833,7 +2792,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (3), next (2), [[Java]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Java]] (1), [[JavaScript]] (1)
 > **Speakers:** - let (1)
 > **Non-Speech:** (electronic music) (1)
 
@@ -2842,8 +2801,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explore the hiring process
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/explore-the-hiring-process?u=76281980)
+#### [Explore the hiring process](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/explore-the-hiring-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2910,8 +2868,7 @@ created: 2026-05-02
 > **CLI Commands:** make (3)
 > **Speakers:** - before (1)
 
-#### Building up your technical portfolio
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/building-up-your-technical-portfolio?u=76281980)
+#### [Building up your technical portfolio](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/building-up-your-technical-portfolio?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2953,7 +2910,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/building-up-your-technical-portfolio?u=76281980&t=109)** How do you know which projects are looking for help?
 >
-> **[1:52](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/building-up-your-technical-portfolio?u=76281980&t=112)** I recommend searching on GitHub for any of the following labels.
+> **[1:52](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/building-up-your-technical-portfolio?u=76281980&t=112)** I recommend searching on [[GitHub]] for any of the following labels.
 >
 > **[1:57](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/building-up-your-technical-portfolio?u=76281980&t=117)** Help wanted, good for beginners or good first issue.
 >
@@ -2993,15 +2950,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1), game (1), next (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (1)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (2)
 > **Tools:** github (1)
 > **Speakers:** - when (1)
 
-#### Writing your résumé
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/writing-your-resume?u=76281980)
+#### [Writing your résumé](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/writing-your-resume?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3015,7 +2971,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/writing-your-resume?u=76281980&t=35)** Let's look at an example to see how this can be done.
 >
-> **[0:39](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/writing-your-resume?u=76281980&t=39)** We're going to work on a resume for an entry-level Android programmer.
+> **[0:39](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/writing-your-resume?u=76281980&t=39)** We're going to work on a resume for an entry-level [[Android]] programmer.
 >
 > **[0:45](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/writing-your-resume?u=76281980&t=45)** They're applying for a job as a junior Android developer.
 >
@@ -3031,7 +2987,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/writing-your-resume?u=76281980&t=66)** Only include a particular skill if you actually know about it.
 >
-> **[1:10](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/writing-your-resume?u=76281980&t=70)** In their case, we can add familiarity with the Kotlin programming language, dependency injection and unit testing.
+> **[1:10](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/writing-your-resume?u=76281980&t=70)** In their case, we can add familiarity with the [[Kotlin]] programming language, [[Dependency Injection]] and [[Unit Testing]].
 >
 > **[1:19](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/writing-your-resume?u=76281980&t=79)** Let's move on to the work experience.
 >
@@ -3057,7 +3013,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/writing-your-resume?u=76281980&t=137)** All of these words really help your resume to stand out.
 >
-> **[2:21](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/writing-your-resume?u=76281980&t=141)** And now for a pro tip: add your GitHub handle and LinkedIn URL to provide the reviewer with a more well-rounded view of you and your accomplishments.
+> **[2:21](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/writing-your-resume?u=76281980&t=141)** And now for a pro tip: add your [[GitHub]] handle and [[LinkedIn]] URL to provide the reviewer with a more well-rounded view of you and your accomplishments.
 >
 > **[2:33](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/writing-your-resume?u=76281980&t=153)** Sharing your GitHub handle will allow you to showcase the projects in your technical portfolio.
 >
@@ -3067,7 +3023,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (3), [[Programming]] (2), job description (2), [[GitHub]] (2), [[LinkedIn]] (2)
+> **Frameworks & Libraries:** [[Android]] (3), [[GitHub]] (2), [[LinkedIn]] (2), [[Kotlin]] (1), [[Dependency Injection]] (1)
 > **Env Vars:** url (2)
 > **Tools:** github (2)
 > **CLI Commands:** make (1)
@@ -3075,8 +3031,7 @@ created: 2026-05-02
 > **Best Practices:** pro tip (1)
 > **Speakers:** - the (1)
 
-#### Preparing for technical interviews
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/preparing-for-technical-interviews?u=76281980)
+#### [Preparing for technical interviews](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/preparing-for-technical-interviews?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3088,7 +3043,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/preparing-for-technical-interviews?u=76281980&t=15)** The first is the algorithm exercise.
 >
-> **[0:17](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/preparing-for-technical-interviews?u=76281980&t=17)** This is where you're asked a question that relies on your knowledge of data structures and complexity.
+> **[0:17](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/preparing-for-technical-interviews?u=76281980&t=17)** This is where you're asked a question that relies on your knowledge of [[Data Structures]] and complexity.
 >
 > **[0:23](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/preparing-for-technical-interviews?u=76281980&t=23)** This is most common during the beginning of your career.
 >
@@ -3138,7 +3093,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1), data (1), career (1), next (1), api (1)
+> **Frameworks & Libraries:** [[Data Structures]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1), for example (1)
 > **Env Vars:** api (1)
@@ -3147,8 +3102,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to be successful starting out
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/how-to-be-successful-starting-out?u=76281980)
+#### [How to be successful starting out](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/how-to-be-successful-starting-out?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3192,7 +3146,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/how-to-be-successful-starting-out?u=76281980&t=85)** Finally, and most importantly, don't do it alone.
 >
-> **[1:30](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/how-to-be-successful-starting-out?u=76281980&t=90)** Throughout this course, you've seen that software development is a team endeavor.
+> **[1:30](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/how-to-be-successful-starting-out?u=76281980&t=90)** Throughout this course, you've seen that [[Software Development]] is a team endeavor.
 >
 > **[1:35](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/how-to-be-successful-starting-out?u=76281980&t=95)** To accelerate your growth, you'll want to invest in a strong network of your peers.
 >
@@ -3208,7 +3162,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2), career (2), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Software Development]] (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - with (1)
@@ -3218,8 +3172,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3229,7 +3182,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/next-steps?u=76281980&t=7)** You've been able to explore the world of a programmer, learn what they do, and the tools they use to get their work done.
 >
-> **[0:15](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/next-steps?u=76281980&t=15)** You've also learned how programs are created using programming languages and you've gained exposure to one of today's most popular programming languages, Python.
+> **[0:15](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/next-steps?u=76281980&t=15)** You've also learned how programs are created using programming languages and you've gained exposure to one of today's most popular programming languages, [[Python (Programming Language)|Python]].
 >
 > **[0:28](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/next-steps?u=76281980&t=28)** I hope you feel inspired to keep learning more.
 >
@@ -3237,7 +3190,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/next-steps?u=76281980&t=36)** There's so much more to learn and exciting challenges lie just ahead.
 >
-> **[0:42](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/next-steps?u=76281980&t=42)** Be sure to check out the courses in the Programming Foundation series on LinkedIn Learning.
+> **[0:42](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/next-steps?u=76281980&t=42)** Be sure to check out the courses in the Programming Foundation series on [[LinkedIn]] Learning.
 >
 > **[0:48](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/next-steps?u=76281980&t=48)** This will give you a well-rounded view of what's involved in developing software.
 >
@@ -3245,7 +3198,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (4), [[Python (Programming Language)|Python]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - we (1)
 

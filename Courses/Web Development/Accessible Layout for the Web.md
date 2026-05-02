@@ -73,16 +73,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating accessible web layout for a diverse audience
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessible-layout-for-the-web/creating-accessible-web-layout-for-a-diverse-audience?u=76281980)
+#### [Creating accessible web layout for a diverse audience](https://www.linkedin.com/learning/accessible-layout-for-the-web/creating-accessible-web-layout-for-a-diverse-audience?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/accessible-layout-for-the-web/creating-accessible-web-layout-for-a-diverse-audience?u=76281980&t=0)** - [Gift Egwuenu] The current state of accessibility on the web result in millions of users missing out on valuable content leading to a poor user experience.
+> **[0:00](https://www.linkedin.com/learning/accessible-layout-for-the-web/creating-accessible-web-layout-for-a-diverse-audience?u=76281980&t=0)** - [Gift Egwuenu] The current state of accessibility on the web result in millions of users missing out on valuable content leading to a poor [[User Experience (UX)|user experience]].
 >
 > **[0:11](https://www.linkedin.com/learning/accessible-layout-for-the-web/creating-accessible-web-layout-for-a-diverse-audience?u=76281980&t=11)** We can promote inclusivity by addressing this issue and ensuring we make the web accessible to everyone.
 >
-> **[0:19](https://www.linkedin.com/learning/accessible-layout-for-the-web/creating-accessible-web-layout-for-a-diverse-audience?u=76281980&t=19)** In this course, you'll learn the key principles for implementing accessibility and gain practical experience crafting accessible web layouts, including creating accessible forms, cables, navigation, and media.
+> **[0:19](https://www.linkedin.com/learning/accessible-layout-for-the-web/creating-accessible-web-layout-for-a-diverse-audience?u=76281980&t=19)** In this course, you'll learn the key principles for implementing accessibility and gain practical experience crafting accessible web layouts, including creating accessible [[Forms]], cables, navigation, and media.
 >
 > **[0:35](https://www.linkedin.com/learning/accessible-layout-for-the-web/creating-accessible-web-layout-for-a-diverse-audience?u=76281980&t=35)** This course offers modern skill development.
 >
@@ -92,7 +91,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), [[User Experience (UX)|User experience]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), [[Forms]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [gift (1)
 
@@ -101,8 +100,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is web accessibility?
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessible-layout-for-the-web/what-is-web-accessibility?u=76281980)
+#### [What is web accessibility?](https://www.linkedin.com/learning/accessible-layout-for-the-web/what-is-web-accessibility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -122,7 +120,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/accessible-layout-for-the-web/what-is-web-accessibility?u=76281980&t=65)** This helps foster an inclusive environment for everyone.
 >
-> **[1:10](https://www.linkedin.com/learning/accessible-layout-for-the-web/what-is-web-accessibility?u=76281980&t=70)** Web accessibility is a process of designing and developing websites that are usable by everyone regardless of their abilities.
+> **[1:10](https://www.linkedin.com/learning/accessible-layout-for-the-web/what-is-web-accessibility?u=76281980&t=70)** [[Web Accessibility]] is a process of designing and developing websites that are usable by everyone regardless of their abilities.
 >
 > **[1:20](https://www.linkedin.com/learning/accessible-layout-for-the-web/what-is-web-accessibility?u=76281980&t=80)** This includes ensuring that the websites are compatible with screen readers.
 >
@@ -136,14 +134,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), application (2), [[Web Accessibility]] (1)
+> **Frameworks & Libraries:** [[Web Accessibility]] (1)
 > **Versions:** 98.1 (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [narrator] (1)
 
-#### Making a case for accessibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessible-layout-for-the-web/making-a-case-for-accessibility?u=76281980)
+#### [Making a case for accessibility](https://www.linkedin.com/learning/accessible-layout-for-the-web/making-a-case-for-accessibility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -183,18 +180,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5)
 > **Versions:** 1.3 (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [narrator] (1)
 
-#### Tools for testing accessibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessible-layout-for-the-web/tools-for-testing-accessibility?u=76281980)
+#### [Tools for testing accessibility](https://www.linkedin.com/learning/accessible-layout-for-the-web/tools-for-testing-accessibility?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/accessible-layout-for-the-web/tools-for-testing-accessibility?u=76281980&t=1)** - [Instructor] A few years ago, while working with a team of front-end developers on a platform for booking and scheduling meeting rooms, a friend introduced me to web accessibility.
+> **[0:01](https://www.linkedin.com/learning/accessible-layout-for-the-web/tools-for-testing-accessibility?u=76281980&t=1)** - [Instructor] A few years ago, while working with a team of front-end developers on a platform for booking and scheduling meeting rooms, a friend introduced me to [[Web Accessibility]].
 >
 > **[0:12](https://www.linkedin.com/learning/accessible-layout-for-the-web/tools-for-testing-accessibility?u=76281980&t=12)** Intrigued by the concept, I wondered why it wasn't already a part of our development process.
 >
@@ -206,7 +201,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/accessible-layout-for-the-web/tools-for-testing-accessibility?u=76281980&t=43)** By prioritizing accessibility, we could create a product that anyone could use.
 >
-> **[0:48](https://www.linkedin.com/learning/accessible-layout-for-the-web/tools-for-testing-accessibility?u=76281980&t=48)** This not only helped those with disabilities, but also improved the user experience for everyone, making our platform more user-friendly.
+> **[0:48](https://www.linkedin.com/learning/accessible-layout-for-the-web/tools-for-testing-accessibility?u=76281980&t=48)** This not only helped those with disabilities, but also improved the [[User Experience (UX)|user experience]] for everyone, making our platform more user-friendly.
 >
 > **[0:59](https://www.linkedin.com/learning/accessible-layout-for-the-web/tools-for-testing-accessibility?u=76281980&t=59)** You would think this is uncommon, but it's very common in a lot of development teams where you may need to be the one to advocate for implementing accessibility into the platform you are building.
 >
@@ -214,7 +209,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/accessible-layout-for-the-web/tools-for-testing-accessibility?u=76281980&t=78)** Many tools are available to help you test if your website is accessible.
 >
-> **[1:23](https://www.linkedin.com/learning/accessible-layout-for-the-web/tools-for-testing-accessibility?u=76281980&t=83)** Learning to use and integrate these tools into the web development process is important to ensure that a website meets accessibility guidelines.
+> **[1:23](https://www.linkedin.com/learning/accessible-layout-for-the-web/tools-for-testing-accessibility?u=76281980&t=83)** Learning to use and integrate these tools into the [[Web Development]] process is important to ensure that a website meets accessibility guidelines.
 >
 > **[1:34](https://www.linkedin.com/learning/accessible-layout-for-the-web/tools-for-testing-accessibility?u=76281980&t=94)** These are a list of tools you can use to test your websites.
 >
@@ -222,13 +217,13 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/accessible-layout-for-the-web/tools-for-testing-accessibility?u=76281980&t=103)** This is a browser extension that scans webpages for accessibility issues and provide suggestions for improvements.
 >
-> **[1:52](https://www.linkedin.com/learning/accessible-layout-for-the-web/tools-for-testing-accessibility?u=76281980&t=112)** It can be integrated with Google Chrome and Firefox DevTools.
+> **[1:52](https://www.linkedin.com/learning/accessible-layout-for-the-web/tools-for-testing-accessibility?u=76281980&t=112)** It can be integrated with [[Google]] Chrome and Firefox DevTools.
 >
 > **[1:59](https://www.linkedin.com/learning/accessible-layout-for-the-web/tools-for-testing-accessibility?u=76281980&t=119)** Next, we have the WAVE Evaluation Tool.
 >
 > **[2:03](https://www.linkedin.com/learning/accessible-layout-for-the-web/tools-for-testing-accessibility?u=76281980&t=123)** This is a free browser extension that provides feedback on the accessibility of web content.
 >
-> **[2:11](https://www.linkedin.com/learning/accessible-layout-for-the-web/tools-for-testing-accessibility?u=76281980&t=131)** Identifying issues with HTML and CSS code, it also offers a text-only version of a website to highlight any issues with content that may not be accessible to all users.
+> **[2:11](https://www.linkedin.com/learning/accessible-layout-for-the-web/tools-for-testing-accessibility?u=76281980&t=131)** Identifying issues with [[HTML]] and CSS code, it also offers a text-only version of a website to highlight any issues with content that may not be accessible to all users.
 >
 > **[2:27](https://www.linkedin.com/learning/accessible-layout-for-the-web/tools-for-testing-accessibility?u=76281980&t=147)** Google Lighthouse is also another tool you can use.
 >
@@ -248,7 +243,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/accessible-layout-for-the-web/tools-for-testing-accessibility?u=76281980&t=209)** In addition to the tools mentioned earlier, there are other platforms that can help ensure accessible measures are met.
 >
-> **[3:37](https://www.linkedin.com/learning/accessible-layout-for-the-web/tools-for-testing-accessibility?u=76281980&t=217)** For example, Fable is a platform that helps improve digital accessibility, powered and tested by people with disabilities.
+> **[3:37](https://www.linkedin.com/learning/accessible-layout-for-the-web/tools-for-testing-accessibility?u=76281980&t=217)** For example, Fable is a platform that helps improve [[Digital Accessibility]], powered and tested by people with disabilities.
 >
 > **[3:48](https://www.linkedin.com/learning/accessible-layout-for-the-web/tools-for-testing-accessibility?u=76281980&t=228)** They offer tools such as the accessible usability scale to evaluate the usability of your websites, as well as Fable Engage.
 >
@@ -264,7 +259,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (3), product (2), [[Web Development]] (2), next (2), web (2)
+> **Frameworks & Libraries:** [[Google]] (3), [[Web Development]] (2), [[Web Accessibility]] (1), [[User Experience (UX)|User experience]] (1), [[HTML]] (1)
 > **Env Vars:** wave (1), html (1), css (1), wcag (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (1), such as (1)
@@ -277,8 +272,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Accessible standards (WCAG)
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessible-layout-for-the-web/accessible-standards-wcag?u=76281980)
+#### [Accessible standards (WCAG)](https://www.linkedin.com/learning/accessible-layout-for-the-web/accessible-standards-wcag?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -292,7 +286,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/accessible-layout-for-the-web/accessible-standards-wcag?u=76281980&t=34)** First, we have principles.
 >
-> **[0:36](https://www.linkedin.com/learning/accessible-layout-for-the-web/accessible-standards-wcag?u=76281980&t=36)** These basic principles form the foundation of web accessibility, and they include perceivable, operable, understandable and robust.
+> **[0:36](https://www.linkedin.com/learning/accessible-layout-for-the-web/accessible-standards-wcag?u=76281980&t=36)** These basic principles form the foundation of [[Web Accessibility]], and they include perceivable, operable, understandable and robust.
 >
 > **[0:48](https://www.linkedin.com/learning/accessible-layout-for-the-web/accessible-standards-wcag?u=76281980&t=48)** There are testing guidelines that developers can follow to make their contents more accessible to users.
 >
@@ -320,7 +314,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), [[Web Accessibility]] (1)
+> **Frameworks & Libraries:** [[Web Accessibility]] (1)
 > **Env Vars:** wcag (2), aaa (2), a11y (1)
 > **CLI Commands:** make (2), find (1)
 > **Versions:** 2.2 (1)
@@ -328,12 +322,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Guiding principles of web accessibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessible-layout-for-the-web/guiding-principles-of-web-accessibility?u=76281980)
+#### [Guiding principles of web accessibility](https://www.linkedin.com/learning/accessible-layout-for-the-web/guiding-principles-of-web-accessibility?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/accessible-layout-for-the-web/guiding-principles-of-web-accessibility?u=76281980&t=1)** - [Presenter] To ensure you can build an accessible application, it is important to follow the four basic principles that form the foundation of web accessibility.
+> **[0:01](https://www.linkedin.com/learning/accessible-layout-for-the-web/guiding-principles-of-web-accessibility?u=76281980&t=1)** - [Presenter] To ensure you can build an accessible application, it is important to follow the four basic principles that form the foundation of [[Web Accessibility]].
 >
 > **[0:11](https://www.linkedin.com/learning/accessible-layout-for-the-web/guiding-principles-of-web-accessibility?u=76281980&t=11)** These principles provide a framework for designing and developing inclusive websites.
 >
@@ -363,7 +356,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/accessible-layout-for-the-web/guiding-principles-of-web-accessibility?u=76281980&t=150)** Finally, the fourth principle, robust, content must be robust enough to be interpreted reliably by a wide variety of user agents, including assistive technologies.
 >
-> **[2:43](https://www.linkedin.com/learning/accessible-layout-for-the-web/guiding-principles-of-web-accessibility?u=76281980&t=163)** This means using web standards and technology supported by different browsers and assistive technologies, ensuring compatibility and interoperability, web developers should test their websites across different platforms, browsers, and devices, to ensure that all users can assess and interprets the content correctly.
+> **[2:43](https://www.linkedin.com/learning/accessible-layout-for-the-web/guiding-principles-of-web-accessibility?u=76281980&t=163)** This means using [[Web Standards]] and technology supported by different browsers and assistive technologies, ensuring compatibility and interoperability, web developers should test their websites across different platforms, browsers, and devices, to ensure that all users can assess and interprets the content correctly.
 >
 > **[3:09](https://www.linkedin.com/learning/accessible-layout-for-the-web/guiding-principles-of-web-accessibility?u=76281980&t=189)** Now, imagine yourself as a user navigating a website.
 >
@@ -379,7 +372,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), application (2), [[Web Accessibility]] (1), next (1)
+> **Frameworks & Libraries:** [[Web Accessibility]] (1), [[Web Standards]] (1)
 > **Analogies:** such as (2), imagine (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** pour (1)
@@ -391,8 +384,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Semantic HTML
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessible-layout-for-the-web/semantic-html?u=76281980)
+#### [Semantic HTML](https://www.linkedin.com/learning/accessible-layout-for-the-web/semantic-html?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -404,7 +396,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/accessible-layout-for-the-web/semantic-html?u=76281980&t=13)** Without clear structure and meaningful elements, your users, especially those relying on assistive technologies, face a similar challenge when accessing information on the page.
 >
-> **[0:24](https://www.linkedin.com/learning/accessible-layout-for-the-web/semantic-html?u=76281980&t=24)** In this lesson, you'll learn the importance of semantic HTML and how we can transform websites into inclusive and accessible spaces for everyone.
+> **[0:24](https://www.linkedin.com/learning/accessible-layout-for-the-web/semantic-html?u=76281980&t=24)** In this lesson, you'll learn the importance of semantic [[HTML]] and how we can transform websites into inclusive and accessible spaces for everyone.
 >
 > **[0:34](https://www.linkedin.com/learning/accessible-layout-for-the-web/semantic-html?u=76281980&t=34)** But first, what is semantic HTML?
 >
@@ -416,9 +408,9 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/accessible-layout-for-the-web/semantic-html?u=76281980&t=66)** Developers can use semantic HTML to build websites with a clear structure and meaning.
 >
-> **[1:12](https://www.linkedin.com/learning/accessible-layout-for-the-web/semantic-html?u=76281980&t=72)** This approach is great for improving accessibility for assistive technologies and enhancing the overall user experience for all visitors.
+> **[1:12](https://www.linkedin.com/learning/accessible-layout-for-the-web/semantic-html?u=76281980&t=72)** This approach is great for improving accessibility for assistive technologies and enhancing the overall [[User Experience (UX)|user experience]] for all visitors.
 >
-> **[1:22](https://www.linkedin.com/learning/accessible-layout-for-the-web/semantic-html?u=76281980&t=82)** Semantic HTML also has the added benefit of improving search engine optimization so search engines can understand the content of the page.
+> **[1:22](https://www.linkedin.com/learning/accessible-layout-for-the-web/semantic-html?u=76281980&t=82)** Semantic HTML also has the added benefit of improving [[Search Engine Optimization (SEO)|search engine optimization]] so search engines can understand the content of the page.
 >
 > **[1:32](https://www.linkedin.com/learning/accessible-layout-for-the-web/semantic-html?u=76281980&t=92)** Finally, it helps promote cleaner and maintainable code, which makes it easier for developers to understand the structure of a page.
 >
@@ -462,7 +454,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (8), [[User Experience (UX)|User experience]] (2), [[Search Engine Optimization (SEO)|Search engine optimization]] (1), [[Search]] (1), management (1)
+> **Frameworks & Libraries:** [[HTML]] (8), [[User Experience (UX)|User experience]] (2), [[Search Engine Optimization (SEO)|Search engine optimization]] (1)
 > **Env Vars:** html (8), aria (4), hdml (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
@@ -471,8 +463,7 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Accessible navigation and focus
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessible-layout-for-the-web/accessible-navigation-and-focus?u=76281980)
+#### [Accessible navigation and focus](https://www.linkedin.com/learning/accessible-layout-for-the-web/accessible-navigation-and-focus?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -500,7 +491,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/accessible-layout-for-the-web/accessible-navigation-and-focus?u=76281980&t=75)** The problem with this button is that the focus indicator is very subtle.
 >
-> **[1:20](https://www.linkedin.com/learning/accessible-layout-for-the-web/accessible-navigation-and-focus?u=76281980&t=80)** When users navigate the page using the keyboard, they might need help identifying which elements have focus, leading to a poor user experience and potential frustration.
+> **[1:20](https://www.linkedin.com/learning/accessible-layout-for-the-web/accessible-navigation-and-focus?u=76281980&t=80)** When users navigate the page using the keyboard, they might need help identifying which elements have focus, leading to a poor [[User Experience (UX)|user experience]] and potential frustration.
 >
 > **[1:32](https://www.linkedin.com/learning/accessible-layout-for-the-web/accessible-navigation-and-focus?u=76281980&t=92)** Now, to fix this issue, it is crucial to ensure that the keyboard focus is always visible.
 >
@@ -548,7 +539,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (3), web (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1)
 > **Definitions:** is a  (1), means that (1), is an  (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** wcag (1)
@@ -556,12 +547,11 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [narrator] (1)
 
-#### Accessible forms
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessible-layout-for-the-web/accessible-forms?u=76281980)
+#### [Accessible forms](https://www.linkedin.com/learning/accessible-layout-for-the-web/accessible-forms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/accessible-layout-for-the-web/accessible-forms?u=76281980&t=1)** - [Instructor] Forms are essential in web applications because it allows users to submit information, sign up for services and provide feedback, but not all forms are equally accessible.
+> **[0:01](https://www.linkedin.com/learning/accessible-layout-for-the-web/accessible-forms?u=76281980&t=1)** - [Instructor] [[Forms]] are essential in web applications because it allows users to submit information, sign up for services and provide feedback, but not all forms are equally accessible.
 >
 > **[0:14](https://www.linkedin.com/learning/accessible-layout-for-the-web/accessible-forms?u=76281980&t=14)** To ensure that all users can fully participate in online interactions, it's important that we implement accessible forms.
 >
@@ -619,13 +609,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (8), web (2), next (1)
+> **Frameworks & Libraries:** [[Forms]] (8)
 > **UI Navigation:** dropdown (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Accessible tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessible-layout-for-the-web/accessible-tables?u=76281980)
+#### [Accessible tables](https://www.linkedin.com/learning/accessible-layout-for-the-web/accessible-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -649,7 +638,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/accessible-layout-for-the-web/accessible-tables?u=76281980&t=59)** The table has no defined columns or rules, and no table caption.
 >
-> **[1:06](https://www.linkedin.com/learning/accessible-layout-for-the-web/accessible-tables?u=76281980&t=66)** Accessible table needs proper HTML markup that indicates header and data cells, and also defines their relationship.
+> **[1:06](https://www.linkedin.com/learning/accessible-layout-for-the-web/accessible-tables?u=76281980&t=66)** Accessible table needs proper [[HTML]] markup that indicates header and data cells, and also defines their relationship.
 >
 > **[1:15](https://www.linkedin.com/learning/accessible-layout-for-the-web/accessible-tables?u=76281980&t=75)** Assistive technologies use this information to provide context to users.
 >
@@ -687,7 +676,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[HTML]] (2)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **Env Vars:** html (2)
 > **Exercise Files:** exercise files (1), starter code (1)
 > **Best Practices:** best practice (1), recommended (1)
@@ -695,14 +684,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Accessible images and media
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessible-layout-for-the-web/accessible-images-and-media?u=76281980)
+#### [Accessible images and media](https://www.linkedin.com/learning/accessible-layout-for-the-web/accessible-images-and-media?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/accessible-layout-for-the-web/accessible-images-and-media?u=76281980&t=1)** - [Instructor] Besides making tables accessible, images and videos should not be omitted when implementing accessibility on your website.
 >
-> **[0:09](https://www.linkedin.com/learning/accessible-layout-for-the-web/accessible-images-and-media?u=76281980&t=9)** They are crucial in improving your website's visual appeal and user experience.
+> **[0:09](https://www.linkedin.com/learning/accessible-layout-for-the-web/accessible-images-and-media?u=76281980&t=9)** They are crucial in improving your website's visual appeal and [[User Experience (UX)|user experience]].
 >
 > **[0:14](https://www.linkedin.com/learning/accessible-layout-for-the-web/accessible-images-and-media?u=76281980&t=14)** How can you ensure that the images and the videos you incorporate into your websites are accessible by default?
 >
@@ -744,15 +732,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), web (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1)
 > **Definitions:** is a  (2), known as (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Tools:** firefox (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Build an accessible web page
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessible-layout-for-the-web/challenge-build-an-accessible-web-page?u=76281980)
+#### [Challenge: Build an accessible web page](https://www.linkedin.com/learning/accessible-layout-for-the-web/challenge-build-an-accessible-web-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -774,12 +761,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (light upbeat music) (1)
 
-#### Solution: Build an accessible web page
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessible-layout-for-the-web/solution-build-an-accessible-web-page?u=76281980)
+#### [Solution: Build an accessible web page](https://www.linkedin.com/learning/accessible-layout-for-the-web/solution-build-an-accessible-web-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -841,7 +826,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/accessible-layout-for-the-web/solution-build-an-accessible-web-page?u=76281980&t=175)** And if I go all the way to my signup form, we now have a form label that is present and associated with the form control.
 >
-> **[3:04](https://www.linkedin.com/learning/accessible-layout-for-the-web/solution-build-an-accessible-web-page?u=76281980&t=184)** The next thing we need to fix is semantic HTML.
+> **[3:04](https://www.linkedin.com/learning/accessible-layout-for-the-web/solution-build-an-accessible-web-page?u=76281980&t=184)** The next thing we need to fix is semantic [[HTML]].
 >
 > **[3:08](https://www.linkedin.com/learning/accessible-layout-for-the-web/solution-build-an-accessible-web-page?u=76281980&t=188)** One thing you notice in this website is that the headings are not properly aligned, like we have H1 and then we are jumping all the way to H3, H4, and then back to H2.
 >
@@ -1005,7 +990,7 @@ created: 2026-05-02
 >
 > **[13:03](https://www.linkedin.com/learning/accessible-layout-for-the-web/solution-build-an-accessible-web-page?u=76281980&t=783)** And what I'll just do is go ahead and add that in.
 >
-> **[13:06](https://www.linkedin.com/learning/accessible-layout-for-the-web/solution-build-an-accessible-web-page?u=76281980&t=786)** So for the heading, I'll put a scope here, col and do the same for the rest of the heading.
+> **[13:06](https://www.linkedin.com/learning/accessible-layout-for-the-web/solution-build-an-accessible-web-page?u=76281980&t=786)** So for the heading, I'll put a scope here, col and do the same for the [[Representational State Transfer (REST)|rest]] of the heading.
 >
 > **[13:20](https://www.linkedin.com/learning/accessible-layout-for-the-web/solution-build-an-accessible-web-page?u=76281980&t=800)** Then we also need to use table specific element.
 >
@@ -1039,7 +1024,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (8), [[HTML]] (3), css (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (8), find (2)
 > **Cross-References:** go back to (10)
 > **Env Vars:** wcag (3), html (3), aaa (2), css (1)
@@ -1053,8 +1038,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps for improving accessibility in web applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessible-layout-for-the-web/next-steps-for-improving-accessibility-in-web-applications?u=76281980)
+#### [Next steps for improving accessibility in web applications](https://www.linkedin.com/learning/accessible-layout-for-the-web/next-steps-for-improving-accessibility-in-web-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1070,7 +1054,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [gift] (1)
 

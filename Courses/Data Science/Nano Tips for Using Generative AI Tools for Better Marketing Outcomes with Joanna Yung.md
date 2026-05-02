@@ -62,14 +62,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The future of marketing: Understanding the role of AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/the-future-of-marketing-understanding-the-role-of-ai?u=76281980)
+#### [The future of marketing: Understanding the role of AI](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/the-future-of-marketing-understanding-the-role-of-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/the-future-of-marketing-understanding-the-role-of-ai?u=76281980&t=0)** - AI will not replace you, but a person using AI will.
 >
-> **[0:03](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/the-future-of-marketing-understanding-the-role-of-ai?u=76281980&t=3)** In case you guys haven't noticed, AI is everywhere and it's changing the game, especially when it comes to content creation and social media marketing.
+> **[0:03](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/the-future-of-marketing-understanding-the-role-of-ai?u=76281980&t=3)** In case you guys haven't noticed, AI is everywhere and it's changing the game, especially when it comes to [[Content Creation]] and [[Social Media Marketing]].
 >
 > **[0:11](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/the-future-of-marketing-understanding-the-role-of-ai?u=76281980&t=11)** For example, AI is helping businesses analyze data, automate tasks, and measure ROI like never before.
 >
@@ -101,7 +100,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/the-future-of-marketing-understanding-the-role-of-ai?u=76281980&t=71)** It's not about finding a quick solution, it's about slowly making your efforts better and better, and most importantly, embracing the power of data.
 >
-> **[1:19](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/the-future-of-marketing-understanding-the-role-of-ai?u=76281980&t=79)** AI is all about data-driven decision making, and if you're not using data to inform your decisions, you're not using AI to its full potential.
+> **[1:19](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/the-future-of-marketing-understanding-the-role-of-ai?u=76281980&t=79)** AI is all about [[Data-driven Decision Making]], and if you're not using data to inform your decisions, you're not using AI to its full potential.
 >
 > **[1:28](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/the-future-of-marketing-understanding-the-role-of-ai?u=76281980&t=88)** So don't be fooled into thinking that AI isn't going to impact your job or your business, because it will.
 >
@@ -113,13 +112,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), business (4), data (3), game (2), [[Content Creation]] (1)
+> **Frameworks & Libraries:** [[Content Creation]] (1), [[Social Media Marketing]] (1), [[Data-driven Decision Making]] (1)
 > **Env Vars:** roi (1)
 > **Analogies:** for example (1)
 > **Speakers:** - ai (1)
 
-#### Preparing your business for an AI-powered marketing strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/preparing-your-business-for-an-ai-powered-marketing-strategy?u=76281980)
+#### [Preparing your business for an AI-powered marketing strategy](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/preparing-your-business-for-an-ai-powered-marketing-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -127,7 +125,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/preparing-your-business-for-an-ai-powered-marketing-strategy?u=76281980&t=5)** They all have one thing in common.
 >
-> **[0:07](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/preparing-your-business-for-an-ai-powered-marketing-strategy?u=76281980&t=7)** A solid marketing strategy.
+> **[0:07](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/preparing-your-business-for-an-ai-powered-marketing-strategy?u=76281980&t=7)** A solid [[Marketing Strategy]].
 >
 > **[0:08](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/preparing-your-business-for-an-ai-powered-marketing-strategy?u=76281980&t=8)** It's the backbone of any successful business because without it, you are just aimlessly wondering in the dark hoping to stumble upon something that works.
 >
@@ -137,7 +135,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/preparing-your-business-for-an-ai-powered-marketing-strategy?u=76281980&t=24)** Keep watching.
 >
-> **[0:24](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/preparing-your-business-for-an-ai-powered-marketing-strategy?u=76281980&t=24)** Crayon is a competitive analysis AI tool that monitors and analyze your competitor's activities in real-time by gathering data from over 100 different data types across millions of competitive intelligence sources.
+> **[0:24](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/preparing-your-business-for-an-ai-powered-marketing-strategy?u=76281980&t=24)** Crayon is a competitive analysis AI tool that monitors and analyze your competitor's activities in [[Real-Time]] by gathering data from over 100 different data types across millions of competitive intelligence sources.
 >
 > **[0:38](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/preparing-your-business-for-an-ai-powered-marketing-strategy?u=76281980&t=38)** For example, this AI can monitor your competitors branding changes, messaging updates and webpage design changes.
 >
@@ -151,7 +149,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/preparing-your-business-for-an-ai-powered-marketing-strategy?u=76281980&t=70)** It's super helpful in many different ways.
 >
-> **[1:12](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/preparing-your-business-for-an-ai-powered-marketing-strategy?u=76281980&t=72)** For example, this AI can monitor your competitor's products, trends, and marketing strategies.
+> **[1:12](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/preparing-your-business-for-an-ai-powered-marketing-strategy?u=76281980&t=72)** For example, this AI can monitor your competitor's [[Microsoft Products|products]], trends, and marketing strategies.
 >
 > **[1:17](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/preparing-your-business-for-an-ai-powered-marketing-strategy?u=76281980&t=77)** It can track and monitor market prices automatically, so you can make better pricing decisions for your business.
 >
@@ -165,7 +163,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/preparing-your-business-for-an-ai-powered-marketing-strategy?u=76281980&t=110)** This AI can also create a list of new leads to contact that fits your ideal customer profile.
 >
-> **[1:56](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/preparing-your-business-for-an-ai-powered-marketing-strategy?u=76281980&t=116)** User evaluation is an AI tool that allows business to gain a deeper understanding of your customer's experience by gathering feedback through surveys, interviews and usability testing.
+> **[1:56](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/preparing-your-business-for-an-ai-powered-marketing-strategy?u=76281980&t=116)** User evaluation is an AI tool that allows business to gain a deeper understanding of your customer's experience by gathering feedback through surveys, interviews and [[Usability Testing]].
 >
 > **[2:05](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/preparing-your-business-for-an-ai-powered-marketing-strategy?u=76281980&t=125)** You can use this AI to identify areas of improvement in your product or website, and to gain insights into what's working well.
 >
@@ -183,7 +181,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), business (5), data (5), product (3), [[Marketing Strategy]] (2)
+> **Frameworks & Libraries:** [[Marketing Strategy]] (2), [[Real-Time]] (1), [[Microsoft Products|Products]] (1), [[Usability Testing]] (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (2)
@@ -191,8 +189,7 @@ created: 2026-05-02
 > **Env Vars:** icp (1)
 > **Speakers:** - have (1)
 
-#### Take your content writing to the next level with AI writing tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/take-your-content-writing-to-the-next-level-with-ai-writing-tools?u=76281980)
+#### [Take your content writing to the next level with AI writing tools](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/take-your-content-writing-to-the-next-level-with-ai-writing-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -220,9 +217,9 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/take-your-content-writing-to-the-next-level-with-ai-writing-tools?u=76281980&t=41)** So if you're writing content in multiple languages, you're going to love this one.
 >
-> **[0:45](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/take-your-content-writing-to-the-next-level-with-ai-writing-tools?u=76281980&t=45)** Textcortex AI not only helps you write in a wide range of topics, but it also integrates with e-commerce platforms like Shopify so you can automate the creation and integrations of product descriptions, which will save you so much time and ensure consistency and accuracy, making it a powerful AI tool for growing e-commerce sales.
+> **[0:45](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/take-your-content-writing-to-the-next-level-with-ai-writing-tools?u=76281980&t=45)** Textcortex AI not only helps you write in a wide range of topics, but it also integrates with [[E-Commerce]] platforms like Shopify so you can automate the creation and integrations of product descriptions, which will save you so much time and ensure consistency and accuracy, making it a powerful AI tool for growing e-commerce sales.
 >
-> **[1:05](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/take-your-content-writing-to-the-next-level-with-ai-writing-tools?u=76281980&t=65)** ChatGPT needs no introduction.
+> **[1:05](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/take-your-content-writing-to-the-next-level-with-ai-writing-tools?u=76281980&t=65)** [[ChatGPT]] needs no introduction.
 >
 > **[1:07](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/take-your-content-writing-to-the-next-level-with-ai-writing-tools?u=76281980&t=67)** It's one of the most advanced AI models currently available.
 >
@@ -230,21 +227,20 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/take-your-content-writing-to-the-next-level-with-ai-writing-tools?u=76281980&t=80)** A little trick that I'll share with you guys, which a lot of people don't know, is that if you want more customizations with ChatGPT, it's to actually use the OpenAI Playground because it allows you to do many customizations, including choosing what GPT models to write with.
 >
-> **[1:34](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/take-your-content-writing-to-the-next-level-with-ai-writing-tools?u=76281980&t=94)** Quillbot uses machine learning algorithms to help you rephrase and improve your writing.
+> **[1:34](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/take-your-content-writing-to-the-next-level-with-ai-writing-tools?u=76281980&t=94)** Quillbot uses machine learning [[Algorithms]] to help you rephrase and improve your writing.
 >
-> **[1:39](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/take-your-content-writing-to-the-next-level-with-ai-writing-tools?u=76281980&t=99)** You can decide how much vocabulary change you want by using the synonym slider, or you can click on any word to pick the perfect word or phrase to express your meaning.
+> **[1:39](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/take-your-content-writing-to-the-next-level-with-ai-writing-tools?u=76281980&t=99)** You can decide how much vocabulary change you want by using the synonym slider, or you can click on any [[Microsoft Word|word]] to pick the perfect word or phrase to express your meaning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), [[E-Commerce]] (2), [[ChatGPT]] (2), [[Microsoft Word|Word]] (2), product (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (2), [[ChatGPT]] (2), [[Microsoft Word|Word]] (2), [[Algorithms]] (1)
 > **Speakers:** - did (1), - wait (1), - yeah (1)
 > **URLs:** [copy.ai](https://copy.ai) (1)
 > **Env Vars:** gpt (1)
 > **Exercise Files:** template (1)
 > **Non-Speech:** (keyboard clicking) (1)
 
-#### Create stunning visuals with AI image generation tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/create-stunning-visuals-with-ai-image-generation-tools?u=76281980)
+#### [Create stunning visuals with AI image generation tools](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/create-stunning-visuals-with-ai-image-generation-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -266,13 +262,13 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/create-stunning-visuals-with-ai-image-generation-tools?u=76281980&t=38)** They have AI tools for video and audio editing, which I'll talk a bit more in the next video.
 >
-> **[0:42](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/create-stunning-visuals-with-ai-image-generation-tools?u=76281980&t=42)** Stable Diffusion is another AI tool that you can use if you just want to generate images from text prompts.
+> **[0:42](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/create-stunning-visuals-with-ai-image-generation-tools?u=76281980&t=42)** [[Stable Diffusion]] is another AI tool that you can use if you just want to generate images from text prompts.
 >
 > **[0:48](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/create-stunning-visuals-with-ai-image-generation-tools?u=76281980&t=48)** But what's cool about this one is that it's completely free and it's capable of generating photo realistic images giving any text input.
 >
 > **[0:55](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/create-stunning-visuals-with-ai-image-generation-tools?u=76281980&t=55)** DreamStudio is an alternative to Stable Diffusion, but I found that their image quality are much better and you can edit each image output.
 >
-> **[1:03](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/create-stunning-visuals-with-ai-image-generation-tools?u=76281980&t=63)** Fotor is an AI versions of Canva.
+> **[1:03](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/create-stunning-visuals-with-ai-image-generation-tools?u=76281980&t=63)** Fotor is an AI versions of [[Canva]].
 >
 > **[1:05](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/create-stunning-visuals-with-ai-image-generation-tools?u=76281980&t=65)** After generating the image using the text prompts, you can take your AI image to Fotor's design library and modify it as much as you want.
 >
@@ -290,15 +286,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), next (2), [[Stable Diffusion]] (2), [[Canva]] (2), prompt (1)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (2), [[Canva]] (2)
 > **Definitions:** is an  (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Speakers:** - these (1)
 
-#### Enhancing videos with AI editing tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/enhancing-videos-with-ai-editing-tools?u=76281980)
+#### [Enhancing videos with AI editing tools](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/enhancing-videos-with-ai-editing-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -364,19 +359,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (17), feature (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **URLs:** [pixctory.ai](https://pixctory.ai) (1)
 > **Analogies:** for example (1)
 > **Speakers:** - this (1)
 
-#### Elevate your designs to new heights with AI design tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/elevate-your-designs-to-new-heights-with-ai-design-tools?u=76281980)
+#### [Elevate your designs to new heights with AI design tools](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/elevate-your-designs-to-new-heights-with-ai-design-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/elevate-your-designs-to-new-heights-with-ai-design-tools?u=76281980&t=0)** - Stop using Canva, use AI design tools instead.
+> **[0:00](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/elevate-your-designs-to-new-heights-with-ai-design-tools?u=76281980&t=0)** - Stop using [[Canva]], use AI design tools instead.
 >
 > **[0:04](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/elevate-your-designs-to-new-heights-with-ai-design-tools?u=76281980&t=4)** let me show you what those AI design tools can do, and you'll understand why.
 >
@@ -406,7 +399,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/elevate-your-designs-to-new-heights-with-ai-design-tools?u=76281980&t=85)** Luma AI turns any 2D photos into 3D objects.
 >
-> **[1:28](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/elevate-your-designs-to-new-heights-with-ai-design-tools?u=76281980&t=88)** This can be useful for business that sells products, as it allows them to easily create high-quality 3D renders of their products without the need for expensive 3D modeling softwares or photo shoots.
+> **[1:28](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/elevate-your-designs-to-new-heights-with-ai-design-tools?u=76281980&t=88)** This can be useful for business that sells [[Microsoft Products|products]], as it allows them to easily create high-quality 3D renders of their products without the need for expensive 3D modeling softwares or photo shoots.
 >
 > **[1:39](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/elevate-your-designs-to-new-heights-with-ai-design-tools?u=76281980&t=99)** Luma AI would be the secret weapons for any product-based businesses to create more engaging and informative online content, improving the customer experience and ultimately increasing sales.
 >
@@ -416,20 +409,19 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/elevate-your-designs-to-new-heights-with-ai-design-tools?u=76281980&t=117)** It also uses data from your popular color palettes to create even more options for you.
 >
-> **[2:02](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/elevate-your-designs-to-new-heights-with-ai-design-tools?u=76281980&t=122)** It can show you the palettes as typography, gradient, or even on a custom image.
+> **[2:02](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/elevate-your-designs-to-new-heights-with-ai-design-tools?u=76281980&t=122)** It can show you the palettes as [[Typography]], gradient, or even on a custom image.
 >
 > **[2:06](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/elevate-your-designs-to-new-heights-with-ai-design-tools?u=76281980&t=126)** This AI can help businesses save time and money by doing design work for them and making sure all designs follow their brand guidelines.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (16), business (3), product (3), [[Microsoft Products|Products]] (2), [[Canva]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Canva]] (1), [[Typography]] (1)
 > **URLs:** [designs.ai](https://designs.ai) (2), [uizard.io](https://uizard.io) (2)
 > **Speakers:** - stop (1), - [voiceover] (1), - [instructor] (1)
 > **Analogies:** picture (1), for example (1)
 > **CLI Commands:** make (1)
 
-#### Boost your search rankings and drive traffic with AI SEO tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/boost-your-search-rankings-and-drive-traffic-with-ai-seo-tools?u=76281980)
+#### [Boost your search rankings and drive traffic with AI SEO tools](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/boost-your-search-rankings-and-drive-traffic-with-ai-seo-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -443,13 +435,13 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/boost-your-search-rankings-and-drive-traffic-with-ai-seo-tools?u=76281980&t=17)** [Keywrds.ai](https://Keywrds.ai) helps you easily generate a list of hundreds of keywords from just one seed keywords that your target audience is searching for.
 >
-> **[0:25](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/boost-your-search-rankings-and-drive-traffic-with-ai-seo-tools?u=76281980&t=25)** From there, this AI can generate questions, topics and blog post outlines, as well as Fetch Google, People Also Ask questions, and write engaging and factual answers that search engines want to see.
+> **[0:25](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/boost-your-search-rankings-and-drive-traffic-with-ai-seo-tools?u=76281980&t=25)** From there, this AI can generate questions, topics and blog post outlines, as well as [[Fetch]] [[Google]], People Also Ask questions, and write engaging and factual answers that search engines want to see.
 >
 > **[0:35](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/boost-your-search-rankings-and-drive-traffic-with-ai-seo-tools?u=76281980&t=35)** [Keywrds.ai](https://Keywrds.ai) uses GPT-3.5 based AI engines to generate entirely unique and deeply relevant questions and topics for your articles.
 >
 > **[0:43](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/boost-your-search-rankings-and-drive-traffic-with-ai-seo-tools?u=76281980&t=43)** That way, you can build a incredible amount of authority within your niche, and create topics that your competitors don't even know they're missing out on.
 >
-> **[0:51](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/boost-your-search-rankings-and-drive-traffic-with-ai-seo-tools?u=76281980&t=51)** [Metageni.ai](https://Metageni.ai) helps you improve your SEO by generating optimized metadata, including titles, descriptions and tags, as well as ideas for articles and video thumbnails for any social media post, newsletters, videos, podcasts, or any other forms of content.
+> **[0:51](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/boost-your-search-rankings-and-drive-traffic-with-ai-seo-tools?u=76281980&t=51)** [Metageni.ai](https://Metageni.ai) helps you improve your SEO by generating optimized [[Metadata]], including titles, descriptions and tags, as well as ideas for articles and video thumbnails for any social media post, [[Newsletters]], videos, podcasts, or any other [[Forms]] of content.
 >
 > **[1:07](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/boost-your-search-rankings-and-drive-traffic-with-ai-seo-tools?u=76281980&t=67)** Just give it a prompt, and it will analyze the main concept of the content.
 >
@@ -457,7 +449,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/boost-your-search-rankings-and-drive-traffic-with-ai-seo-tools?u=76281980&t=80)** MagikSystem is another AI tool that specialize in generating high-quality SEO content.
 >
-> **[1:25](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/boost-your-search-rankings-and-drive-traffic-with-ai-seo-tools?u=76281980&t=85)** Just give it your topic keywords, choose your language, and the AI will take care of the rest.
+> **[1:25](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/boost-your-search-rankings-and-drive-traffic-with-ai-seo-tools?u=76281980&t=85)** Just give it your topic keywords, choose your language, and the AI will take care of the [[Representational State Transfer (REST)|rest]].
 >
 > **[1:30](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/boost-your-search-rankings-and-drive-traffic-with-ai-seo-tools?u=76281980&t=90)** You get up to 150 customized articles, images and SEO text to improve your online ranking.
 >
@@ -477,7 +469,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), seo (10), [[Search]] (4), [[Google]] (4), business (2)
+> **Frameworks & Libraries:** [[Google]] (4), [[Representational State Transfer (REST)|Rest]] (2), [[Fetch]] (1), [[Metadata]] (1), [[Newsletters]] (1)
 > **Env Vars:** seo (10), gpt (1)
 > **URLs:** [keywrds.ai](https://keywrds.ai) (2), [metageni.ai](https://metageni.ai) (1), [embolden.co](https://embolden.co) (1)
 > **UI Navigation:** click on (3), go to (1)
@@ -486,8 +478,7 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Speakers:** - here (1)
 
-#### Streamline your workflow and boost efficiency with AI automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/streamline-your-workflow-and-boost-efficiency-with-ai-automation?u=76281980)
+#### [Streamline your workflow and boost efficiency with AI automation](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/streamline-your-workflow-and-boost-efficiency-with-ai-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -513,7 +504,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/streamline-your-workflow-and-boost-efficiency-with-ai-automation?u=76281980&t=47)** Mem is an AI-powered self-organizing workspace that helps you automate repetitive task such as scheduling, email management, data entry, and et cetera.
 >
-> **[0:55](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/streamline-your-workflow-and-boost-efficiency-with-ai-automation?u=76281980&t=55)** For example, Mem AI uses natural language processing to understand the context of your emails and task, allowing it to automatically sort, categorize, and prioritize them.
+> **[0:55](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/streamline-your-workflow-and-boost-efficiency-with-ai-automation?u=76281980&t=55)** For example, Mem AI uses [[Natural Language Processing (NLP)|natural language processing]] to understand the context of your emails and task, allowing it to automatically sort, categorize, and prioritize them.
 >
 > **[1:04](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/streamline-your-workflow-and-boost-efficiency-with-ai-automation?u=76281980&t=64)** Mem can also help you remember things by putting them on a calendar and setting reminders.
 >
@@ -527,7 +518,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/streamline-your-workflow-and-boost-efficiency-with-ai-automation?u=76281980&t=100)** For example, the marketing automation templates allow businesses to set up automated campaigns, track leads and customer engagement, and manage social media accounts.
 >
-> **[1:49](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/streamline-your-workflow-and-boost-efficiency-with-ai-automation?u=76281980&t=109)** The sales automation templates can be used to automate task related to lead generation, follow up, and closing deals.
+> **[1:49](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/streamline-your-workflow-and-boost-efficiency-with-ai-automation?u=76281980&t=109)** The [[Sales Automation]] templates can be used to automate task related to [[Lead Generation]], follow up, and closing deals.
 >
 > **[1:55](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/streamline-your-workflow-and-boost-efficiency-with-ai-automation?u=76281980&t=115)** All of those templates are customizable.
 >
@@ -545,7 +536,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), [[Automation]] (6), business (3), data (3), management (2)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Sales Automation]] (1), [[Lead Generation]] (1)
 > **Analogies:** such as (3), for example (2)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** right-click (1)
@@ -553,8 +544,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - what (1)
 
-#### AI-powered chatbots for customer service and engagement
-> [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/ai-powered-chatbots-for-customer-service-and-engagement?u=76281980)
+#### [AI-powered chatbots for customer service and engagement](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/ai-powered-chatbots-for-customer-service-and-engagement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -594,9 +584,9 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/ai-powered-chatbots-for-customer-service-and-engagement?u=76281980&t=90)** It can learn new skills with sample and user messages and these new skills can be trained in less than 10 minutes.
 >
-> **[1:36](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/ai-powered-chatbots-for-customer-service-and-engagement?u=76281980&t=96)** Certainly as an AI chatbot for any e-commerce teams to automate and personalized customer service conversations.
+> **[1:36](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/ai-powered-chatbots-for-customer-service-and-engagement?u=76281980&t=96)** Certainly as an AI chatbot for any [[E-Commerce]] teams to automate and personalized customer service conversations.
 >
-> **[1:43](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/ai-powered-chatbots-for-customer-service-and-engagement?u=76281980&t=103)** This AI can recommend products, upsell and help users with questions about complaints, product returns, refunds, tracking and orders.
+> **[1:43](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/ai-powered-chatbots-for-customer-service-and-engagement?u=76281980&t=103)** This AI can recommend [[Microsoft Products|products]], upsell and help users with questions about complaints, product returns, refunds, tracking and orders.
 >
 > **[1:50](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/ai-powered-chatbots-for-customer-service-and-engagement?u=76281980&t=110)** It also gathers data from conversations with visitors.
 >
@@ -604,15 +594,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), product (2), data (2), business (1), api (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** faq (1), api (1)
 > **URLs:** [quickchat.ai](https://quickchat.ai) (1)
 > **Analogies:** for example (1)
 > **Speakers:** - this (1)
 
-#### Revolutionize your advertising with AI tools for ads
-> [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/revolutionize-your-advertising-with-ai-tools-for-ads?u=76281980)
+#### [Revolutionize your advertising with AI tools for ads](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/revolutionize-your-advertising-with-ai-tools-for-ads?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -666,11 +655,11 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/revolutionize-your-advertising-with-ai-tools-for-ads?u=76281980&t=143)** So to convert them an ad-specific landing page with a clear goal, link, and message is necessary.
 >
-> **[2:29](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/revolutionize-your-advertising-with-ai-tools-for-ads?u=76281980&t=149)** That's why Unbounce uses AI powered smart traffic to help you optimize campaigns automatically, test different landing pages for ads to see what works with audience, and track visits, clicks, and conversions with in-app stats and Google Analytics integration.
+> **[2:29](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/revolutionize-your-advertising-with-ai-tools-for-ads?u=76281980&t=149)** That's why Unbounce uses AI powered smart traffic to help you optimize campaigns automatically, test different landing pages for ads to see what works with audience, and track visits, clicks, and conversions with in-app stats and [[Google]] Analytics integration.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (17), data (2), management (1), business (1), generic (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **URLs:** [adcreative.ai](https://adcreative.ai) (2), [smartly.io](https://smartly.io) (1), [adext.ai](https://adext.ai) (1)
 > **Env Vars:** roi (2)
 > **Analogies:** such as (1), for example (1)

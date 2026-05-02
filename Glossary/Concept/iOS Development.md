@@ -6,18 +6,18 @@ glossary_type: concept
 linkedin_topics:
   - Software Development
   - Mobile Development
-  - Database Management
   - Data Science
-  - Web Development
+  - Database Management
+  - DevOps
 tags:
   - glossary
   - type/concept
   - topic/software-development
   - topic/mobile-development
-  - topic/database-management
   - topic/data-science
-  - topic/web-development
-course_count: 6
+  - topic/database-management
+  - topic/devops
+course_count: 7
 created: 2026-05-02
 ---
 
@@ -25,7 +25,7 @@ created: 2026-05-02
 
 # iOS Development
 
-> **Type:** Concept | **Courses:** 6 | **Topics:** [[Software Development]], [[Mobile Development]], [[Database Management]], [[Data Science]], [[Web Development]]
+> **Type:** Concept | **Courses:** 7 | **Topics:** [[Software Development]], [[Mobile Development]], [[Data Science]], [[Database Management]], [[DevOps]]
 
 ## Courses
 
@@ -33,8 +33,9 @@ created: 2026-05-02
 2. [[iOS 17 Development Essential Training]] — 3 mentions
 3. [[Finding New Career Paths with SQL]] — 1 mentions
 4. [[Programming Foundations Fundamentals]] — 1 mentions
-5. [[Building Monorepos On Github]] — 1 mentions
-6. [[React Native Ecosystem and Workflow]] — 1 mentions
+5. [[Python for Health Sciences and Healthcare]] — 1 mentions
+6. [[Building Monorepos On Github]] — 1 mentions
+7. [[React Native Ecosystem and Workflow]] — 1 mentions
 
 ## Learning Paths
 

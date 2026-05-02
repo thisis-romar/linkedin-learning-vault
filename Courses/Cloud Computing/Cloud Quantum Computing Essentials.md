@@ -88,8 +88,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating solutions with cloud quantum computing
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/creating-solutions-with-cloud-quantum-computing?u=76281980)
+#### [Creating solutions with cloud quantum computing](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/creating-solutions-with-cloud-quantum-computing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -111,22 +110,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), [[Programming]] (3)
 > **Analogies:** such as (1)
 > **Speakers:** - [lynn] (1)
 
-#### Using cloud services
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/using-cloud-services?u=76281980)
+#### [Using cloud services](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/using-cloud-services?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/using-cloud-services?u=76281980&t=0)** - [Instructor] In this course, we'll be working with cloud quantum programming services.
 >
-> **[0:05](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/using-cloud-services?u=76281980&t=5)** Now, while some of the public cloud vendors such as Amazon Azure and others have some free offers around cloud quantum services, and other learning-only sites that are cloud, really have no charge associated with them.
+> **[0:05](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/using-cloud-services?u=76281980&t=5)** Now, while some of the public cloud vendors such as Amazon [[Microsoft Azure|Azure]] and others have some free offers around cloud quantum services, and other learning-only sites that are cloud, really have no charge associated with them.
 >
 > **[0:23](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/using-cloud-services?u=76281980&t=23)** In the case of public cloud, these services do have charges.
 >
-> **[0:28](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/using-cloud-services?u=76281980&t=28)** So if you're using a live account, so Amazon, Azure, IBM or Google, then you want to turn off any associated services such as virtual machines because oftentimes you're running some classical computing in conjunction with quantum computing after testing and using.
+> **[0:28](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/using-cloud-services?u=76281980&t=28)** So if you're using a live account, so Amazon, Azure, IBM or [[Google]], then you want to turn off any associated services such as [[Virtual Machines]] because oftentimes you're running some classical computing in conjunction with [[Quantum Computing]] after testing and using.
 >
 > **[0:46](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/using-cloud-services?u=76281980&t=46)** You're going to want to set a budget alert on your trial account, and if the vendor supports it, you want to use the multifactor authentication on the root account and this is for security.
 >
@@ -138,13 +135,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), [[Microsoft Azure|Azure]] (2), [[Programming]] (1), [[Google]] (1), [[Virtual Machines]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Google]] (1), [[Virtual Machines]] (1), [[Quantum Computing]] (1)
 > **Env Vars:** ibm (1), mfa (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -152,13 +148,13 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/what-you-should-know?u=76281980&t=7)** The first is programming languages.
 >
-> **[0:09](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/what-you-should-know?u=76281980&t=9)** There will be libraries from quantum programming, many of which are Pythonic or Python-Like.
+> **[0:09](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/what-you-should-know?u=76281980&t=9)** There will be libraries from quantum programming, many of which are Pythonic or [[Python (Programming Language)|Python]]-Like.
 >
 > **[0:15](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/what-you-should-know?u=76281980&t=15)** So if you have familiarity with Python, that's helpful.
 >
 > **[0:18](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/what-you-should-know?u=76281980&t=18)** There are, however, some languages that have been creed specifically.
 >
-> **[0:22](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/what-you-should-know?u=76281980&t=22)** An example of that would be Q# from Microsoft Azure that is C# or object oriented programming or OOP-like.
+> **[0:22](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/what-you-should-know?u=76281980&t=22)** An example of that would be Q# from [[Microsoft Azure]] that is C# or object oriented programming or OOP-like.
 >
 > **[0:30](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/what-you-should-know?u=76281980&t=30)** So you really have platform and tools you use.
 >
@@ -166,13 +162,13 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/what-you-should-know?u=76281980&t=36)** Secondly, because we are going to be looking at cloud quantum-programming services.
 >
-> **[0:41](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/what-you-should-know?u=76281980&t=41)** If you have familiarity with one or more cloud vendors, such as Amazon, Azure or Google or IBM, and in the areas we'll be looking at are around storage, compute, virtual machines and security.
+> **[0:41](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/what-you-should-know?u=76281980&t=41)** If you have familiarity with one or more cloud vendors, such as Amazon, [[Microsoft Azure|Azure]] or [[Google]] or IBM, and in the areas we'll be looking at are around storage, compute, [[Virtual Machines]] and security.
 >
 > **[0:54](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/what-you-should-know?u=76281980&t=54)** If you have core knowledge about that, that will be helpful.
 >
 > **[0:57](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/what-you-should-know?u=76281980&t=57)** In addition to that, the paradigms that quantum programming use implement some math concepts.
 >
-> **[1:04](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/what-you-should-know?u=76281980&t=64)** So if you have had the opportunity to work with linear algebra or probability, you'll get more out of this course.
+> **[1:04](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/what-you-should-know?u=76281980&t=64)** So if you have had the opportunity to work with [[Linear Algebra]] or [[Probability]], you'll get more out of this course.
 >
 > **[1:11](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/what-you-should-know?u=76281980&t=71)** If you need to brush up on your math skills, I recommend using sites like Khan Academy.
 >
@@ -192,7 +188,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (7), cloud (3), [[Python (Programming Language)|Python]] (2), [[Microsoft Azure]] (1), oop (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Microsoft Azure]] (1), [[Microsoft Azure|Azure]] (1), [[Google]] (1), [[Virtual Machines]] (1)
 > **CLI Commands:** python (2)
 > **Env Vars:** oop (1), ibm (1)
 > **Analogies:** such as (1), for example (1)
@@ -204,8 +200,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why use cloud quantum computing services
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/why-use-cloud-quantum-computing-services?u=76281980)
+#### [Why use cloud quantum computing services](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/why-use-cloud-quantum-computing-services?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -217,7 +212,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/why-use-cloud-quantum-computing-services?u=76281980&t=26)** Because this comes out of the research community, there is a focus on research and newer implementations that sometimes is inaccesible to some folks like me who don't have the scientific background.
 >
-> **[0:39](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/why-use-cloud-quantum-computing-services?u=76281980&t=39)** For example, if you start looking up definitions, here's from Investipedia, quantum computing uses phenomena in quantum physics to create new ways of computing.
+> **[0:39](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/why-use-cloud-quantum-computing-services?u=76281980&t=39)** For example, if you start looking up definitions, here's from Investipedia, [[Quantum Computing]] uses phenomena in quantum physics to create new ways of computing.
 >
 > **[0:49](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/why-use-cloud-quantum-computing-services?u=76281980&t=49)** Not super meaningful to me cause I don't have a background in quantum physics.
 >
@@ -271,7 +266,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Quantum Computing]] (6), [[Programming]] (2), cloud (1), application (1), data (1)
+> **Frameworks & Libraries:** [[Quantum Computing]] (6)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** such as (2), for example (1)
 > **Env Vars:** covid (2)
@@ -279,12 +274,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - one (1)
 
-#### Understand key quantum computing concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/understand-key-quantum-computing-concepts?u=76281980)
+#### [Understand key quantum computing concepts](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/understand-key-quantum-computing-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/understand-key-quantum-computing-concepts?u=76281980&t=0)** - [Instructor] To get us started, we'll look at the fundamental terms of quantum computing.
+> **[0:00](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/understand-key-quantum-computing-concepts?u=76281980&t=0)** - [Instructor] To get us started, we'll look at the fundamental terms of [[Quantum Computing]].
 >
 > **[0:05](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/understand-key-quantum-computing-concepts?u=76281980&t=5)** The qubit and the qbyte.
 >
@@ -318,7 +312,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/understand-key-quantum-computing-concepts?u=76281980&t=116)** It has something, such as a particle or electron that adopts two possible states.
 >
-> **[2:01](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/understand-key-quantum-computing-concepts?u=76281980&t=121)** And while it is in what's called superposition, the quantum computer and quantum algorithms compute using really both these states but it's really all possible states.
+> **[2:01](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/understand-key-quantum-computing-concepts?u=76281980&t=121)** And while it is in what's called superposition, the quantum computer and quantum [[Algorithms]] compute using really both these states but it's really all possible states.
 >
 > **[2:12](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/understand-key-quantum-computing-concepts?u=76281980&t=132)** So the richness of the information that can be contained in the qubit is really key to the possibilities in using quantum computers.
 >
@@ -358,15 +352,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2), [[Quantum Computing]] (1), [[Algorithms]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Quantum Computing]] (1), [[Algorithms]] (1)
 > **Definitions:** is a  (4)
 > **Env Vars:** ascii (1), ibm (1)
 > **UI Navigation:** go to (1), scroll down (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to start using cloud quantum computing services
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/how-to-start-using-cloud-quantum-computing-services?u=76281980)
+#### [How to start using cloud quantum computing services](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/how-to-start-using-cloud-quantum-computing-services?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -402,7 +395,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/how-to-start-using-cloud-quantum-computing-services?u=76281980&t=85)** When they are in super position, certain aspects of the qubits cannot be observed.
 >
-> **[1:31](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/how-to-start-using-cloud-quantum-computing-services?u=76281980&t=91)** So it is one of our many fundamental differences between classical and quantum computing when we need to observe it is a different method, and that is shown in the register as a Z-gate.
+> **[1:31](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/how-to-start-using-cloud-quantum-computing-services?u=76281980&t=91)** So it is one of our many fundamental differences between classical and [[Quantum Computing]] when we need to observe it is a different method, and that is shown in the register as a Z-gate.
 >
 > **[1:44](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/how-to-start-using-cloud-quantum-computing-services?u=76281980&t=104)** Lines five, six, and seven of this program are not visualized on the register.
 >
@@ -410,7 +403,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/how-to-start-using-cloud-quantum-computing-services?u=76281980&t=112)** To implement quantum programming, we have to consider several components.
 >
-> **[1:57](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/how-to-start-using-cloud-quantum-computing-services?u=76281980&t=117)** These include the hardware, which is the qubits and the QPUs.
+> **[1:57](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/how-to-start-using-cloud-quantum-computing-services?u=76281980&t=117)** These include the [[Hardware]], which is the qubits and the QPUs.
 >
 > **[2:01](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/how-to-start-using-cloud-quantum-computing-services?u=76281980&t=121)** That is what makes up our quantum computer.
 >
@@ -440,27 +433,26 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/how-to-start-using-cloud-quantum-computing-services?u=76281980&t=200)** Some cloud vendors are building their own quantum computers.
 >
-> **[3:24](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/how-to-start-using-cloud-quantum-computing-services?u=76281980&t=204)** IBM, and an image is shown to the right, and Google are notable here.
+> **[3:24](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/how-to-start-using-cloud-quantum-computing-services?u=76281980&t=204)** IBM, and an image is shown to the right, and [[Google]] are notable here.
 >
 > **[3:28](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/how-to-start-using-cloud-quantum-computing-services?u=76281980&t=208)** There are also some hybrid scenarios where a cloud vendor will be building their own, but also partnering.
 >
-> **[3:34](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/how-to-start-using-cloud-quantum-computing-services?u=76281980&t=214)** So selecting the appropriate hardware vendor is actually an important aspect of practical cloud computing, because we're early in this implementation, and so there are different ways to physically build qubits and different implementations support, different types of operations, and programming languages.
+> **[3:34](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/how-to-start-using-cloud-quantum-computing-services?u=76281980&t=214)** So selecting the appropriate hardware vendor is actually an important aspect of practical [[Cloud Computing]], because we're early in this implementation, and so there are different ways to physically build qubits and different implementations support, different types of operations, and programming languages.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (9), [[Programming]] (5), [[Hardware]] (3), generic (1), [[Quantum Computing]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[Quantum Computing]] (1), [[Google]] (1), [[Cloud Computing]] (1)
 > **Env Vars:** qpu (2), ibm (2), ide (1), gcp (1)
 > **Definitions:** is a  (6)
 > **Analogies:** such as (3), think of it like (1), similar to (1), for example (1)
 > **Prerequisites:** initialization (1)
 > **Speakers:** - [instructor] (1)
 
-#### Preview applications using QPUs today
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/preview-applications-using-qpus-today?u=76281980)
+#### [Preview applications using QPUs today](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/preview-applications-using-qpus-today?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/preview-applications-using-qpus-today?u=76281980&t=0)** - [Narrator] Quantum computing for computationally combinatorial problems or complex problems is really where the practicality lies.
+> **[0:00](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/preview-applications-using-qpus-today?u=76281980&t=0)** - [Narrator] [[Quantum Computing]] for computationally combinatorial problems or complex problems is really where the practicality lies.
 >
 > **[0:10](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/preview-applications-using-qpus-today?u=76281980&t=10)** A lot of words, isn't it.
 >
@@ -474,7 +466,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/preview-applications-using-qpus-today?u=76281980&t=46)** You can think of a QPU as the processor that augments or speeds up, or reduces the complexity over time of an existing process.
 >
-> **[0:58](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/preview-applications-using-qpus-today?u=76281980&t=58)** So I do a lot of machine learning and I think of it very similarly to how I think of a GPU, or a TPU for TensorFlow neural networks.
+> **[0:58](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/preview-applications-using-qpus-today?u=76281980&t=58)** So I do a lot of machine learning and I think of it very similarly to how I think of a GPU, or a TPU for [[TensorFlow]] [[Neural Networks]].
 >
 > **[1:07](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/preview-applications-using-qpus-today?u=76281980&t=67)** I'll use those specialty processors to speed up for a certain customer situations.
 >
@@ -484,7 +476,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/preview-applications-using-qpus-today?u=76281980&t=83)** And then you'll have QPU that will implement cubits, and then you'll run it on a certain environment with a language or a library that is running manipulate those cubits with those QPUs.
 >
-> **[1:38](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/preview-applications-using-qpus-today?u=76281980&t=98)** An example would be the Q sharp language on the Azure environment for Microsoft, that will run on a quantum runtime.
+> **[1:38](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/preview-applications-using-qpus-today?u=76281980&t=98)** An example would be the Q sharp language on the [[Microsoft Azure|Azure]] environment for [[Microsoft]], that will run on a quantum runtime.
 >
 > **[1:47](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/preview-applications-using-qpus-today?u=76281980&t=107)** The software will perform quantum operations, such as we looked at in the previous video, it can initialize the qubit, or it can put a qubit into superposition, for example.
 >
@@ -492,7 +484,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/preview-applications-using-qpus-today?u=76281980&t=126)** So from the talk given recently at the go-to conference from an executive at D-Wave.
 >
-> **[2:11](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/preview-applications-using-qpus-today?u=76281980&t=131)** An example that they see often with their customers where QPUs or quantum computing will benefit is a routing example, a shortest path.
+> **[2:11](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/preview-applications-using-qpus-today?u=76281980&t=131)** An example that they see often with their customers where QPUs or quantum computing will benefit is a [[Routing]] example, a shortest path.
 >
 > **[2:21](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/preview-applications-using-qpus-today?u=76281980&t=141)** So this would be logistics.
 >
@@ -516,7 +508,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Quantum Computing]] (3), business (2), [[Routing]] (2), [[TensorFlow]] (1), [[Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Quantum Computing]] (3), [[Routing]] (2), [[TensorFlow]] (1), [[Neural Networks]] (1), [[Microsoft Azure|Azure]] (1)
 > **Analogies:** for example (5), such as (1)
 > **Env Vars:** qpu (2), gpu (1), tpu (1)
 > **Definitions:** is a  (2)
@@ -529,8 +521,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cloud quantum computing vendor choices
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-vendor-choices?u=76281980)
+#### [Cloud quantum computing vendor choices](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-vendor-choices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -540,17 +531,17 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-vendor-choices?u=76281980&t=14)** When services like AWS Braket, which is their quantum as a service on the AWS cloud cloud was introduced a couple years ago, I thought these services really are viable, cloud vendors are offering them, I need to pay attention.
 >
-> **[0:28](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-vendor-choices?u=76281980&t=28)** So we have commercial services from IBM, GCP AWS and Azure, all currently available.
+> **[0:28](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-vendor-choices?u=76281980&t=28)** So we have commercial services from IBM, GCP AWS and [[Microsoft Azure|Azure]], all currently available.
 >
-> **[0:35](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-vendor-choices?u=76281980&t=35)** Now, as mentioned in a previous video the implementations differ widely and an important aspect of practical cloud quantum computing is to understand which vendor has which implementation.
+> **[0:35](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-vendor-choices?u=76281980&t=35)** Now, as mentioned in a previous video the implementations differ widely and an important aspect of practical cloud [[Quantum Computing]] is to understand which vendor has which implementation.
 >
-> **[0:48](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-vendor-choices?u=76281980&t=48)** And as of this recording, for example, AWS partners with the cloud quantum computer vendors D-Wave, IonQ and Rigetti to offer their quantum library which is Braket that runs your choice of these vendors hardware.
+> **[0:48](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-vendor-choices?u=76281980&t=48)** And as of this recording, for example, AWS partners with the cloud quantum computer vendors D-Wave, IonQ and Rigetti to offer their quantum library which is Braket that runs your choice of these vendors [[Hardware]].
 >
 > **[1:05](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-vendor-choices?u=76281980&t=65)** And not all capabilities are available in all hardware, so that's yet another complexity of actually building this for a customer.
 >
-> **[1:13](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-vendor-choices?u=76281980&t=73)** Shown to the right here is Microsoft's implementation which is also partnership with vendors like IonQ, Toshiba, so on and so forth.
+> **[1:13](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-vendor-choices?u=76281980&t=73)** Shown to the right here is [[Microsoft]]'s implementation which is also partnership with vendors like IonQ, Toshiba, so on and so forth.
 >
-> **[1:20](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-vendor-choices?u=76281980&t=80)** As mentioned previously, other vendors, such as IBM and Google are building their own quantum hardware.
+> **[1:20](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-vendor-choices?u=76281980&t=80)** As mentioned previously, other vendors, such as IBM and [[Google]] are building their own quantum hardware.
 >
 > **[1:27](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-vendor-choices?u=76281980&t=87)** So it's really a evolving field and may differ by the time you watch this video.
 >
@@ -568,7 +559,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-vendor-choices?u=76281980&t=135)** So it reduces the learning curve, if you're a C# developer among other things.
 >
-> **[2:19](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-vendor-choices?u=76281980&t=139)** IBM has two varieties of languages and libraries, they have OpenQASM, which is a C like language, and they have Qiskit, which is a Python like library.
+> **[2:19](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-vendor-choices?u=76281980&t=139)** IBM has two varieties of languages and libraries, they have OpenQASM, which is a C like language, and they have Qiskit, which is a [[Python (Programming Language)|Python]] like library.
 >
 > **[2:29](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-vendor-choices?u=76281980&t=149)** So you'll see examples in both for IBM.
 >
@@ -580,7 +571,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-vendor-choices?u=76281980&t=179)** So what I've done is I've pulled them together in a repo and I'm just going to tour you through that, so you can kind of understand what is there in addition to what I'm presenting in this course.
 >
-> **[3:09](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-vendor-choices?u=76281980&t=189)** So here's my learning quantum repo which of course is GitHub repo, and you can see that I have a number of folders here.
+> **[3:09](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-vendor-choices?u=76281980&t=189)** So here's my learning quantum repo which of course is [[GitHub]] repo, and you can see that I have a number of folders here.
 >
 > **[3:16](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-vendor-choices?u=76281980&t=196)** The one that is relevant to the section that we're working with now is the cloud vendors.
 >
@@ -604,7 +595,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (10), aws (6), [[Hardware]] (4), [[Python (Programming Language)|Python]] (4), [[Microsoft]] (3)
+> **Frameworks & Libraries:** [[Hardware]] (4), [[Python (Programming Language)|Python]] (4), [[Microsoft]] (3), [[Google]] (2), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** aws (6), ibm (5), gcp (1), ide (1)
 > **CLI Commands:** aws (6), python (4)
 > **Definitions:** is a  (4)
@@ -613,8 +604,7 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Exercise Files:** github repo (1)
 
-#### Quantum learning libraries
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-learning-libraries?u=76281980)
+#### [Quantum learning libraries](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-learning-libraries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -628,7 +618,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-learning-libraries?u=76281980&t=40)** So it's 15 hours of content and we worked as a group together through each of the code examples.
 >
-> **[0:46](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-learning-libraries?u=76281980&t=46)** These examples are written in JavaScript.
+> **[0:46](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-learning-libraries?u=76281980&t=46)** These examples are written in [[JavaScript]].
 >
 > **[0:48](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-learning-libraries?u=76281980&t=48)** The authors created a JavaScript library, an online IDE and some visualization tools.
 >
@@ -638,9 +628,9 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-learning-libraries?u=76281980&t=64)** So let me show you where these resources are in case you want to take a look at those at this point in this course, or if you want to just bookmark this for additional learning after this course.
 >
-> **[1:15](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-learning-libraries?u=76281980&t=75)** As mentioned I have this GitHub repository with resources and I have a folder, O'Reilly book where I've got any of the code that we reworked by section in the book.
+> **[1:15](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-learning-libraries?u=76281980&t=75)** As mentioned I have this [[GitHub]] repository with resources and I have a folder, O'Reilly book where I've got any of the code that we reworked by section in the book.
 >
-> **[1:25](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-learning-libraries?u=76281980&t=85)** I have PowerPoint decks and I have tools.
+> **[1:25](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-learning-libraries?u=76281980&t=85)** I have [[Microsoft PowerPoint|PowerPoint]] decks and I have tools.
 >
 > **[1:28](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-learning-libraries?u=76281980&t=88)** And you can see here our links, particularly here's our link to our playlist, our YouTube playlist here.
 >
@@ -708,7 +698,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (4), [[JavaScript]] (3), [[GitHub]] (2), [[Microsoft PowerPoint|Powerpoint]] (1), hit (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[GitHub]] (2), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Definitions:** is a  (2), is called (1)
 > **Tools:** github (2)
 > **Analogies:** for example (1), think of it as (1)
@@ -716,8 +706,7 @@ created: 2026-05-02
 > **Env Vars:** ide (1)
 > **Speakers:** - [instructor] (1)
 
-#### Explore IBM OpenQASM and Qiskit
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-ibm-openqasm-and-qiskit?u=76281980)
+#### [Explore IBM OpenQASM and Qiskit](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-ibm-openqasm-and-qiskit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -737,7 +726,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-ibm-openqasm-and-qiskit?u=76281980&t=52)** So if you click on these links, it takes an example here and it shows it, but you cannot run it inside of here.
 >
-> **[0:59](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-ibm-openqasm-and-qiskit?u=76281980&t=59)** If you click this link, it takes you out to GitHub repository.
+> **[0:59](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-ibm-openqasm-and-qiskit?u=76281980&t=59)** If you click this link, it takes you out to [[GitHub]] repository.
 >
 > **[1:04](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-ibm-openqasm-and-qiskit?u=76281980&t=64)** So I was curious, how would you actually run this?
 >
@@ -749,7 +738,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-ibm-openqasm-and-qiskit?u=76281980&t=92)** The Quantum Composer, gives you access to a rich development environment with language tools, visualization tools, and allows you to debug through your program.
 >
-> **[1:44](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-ibm-openqasm-and-qiskit?u=76281980&t=104)** The Quantum Lab, is a Jupyter Notebook type experience that allows you to work with the Qiskit Python-like library.
+> **[1:44](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-ibm-openqasm-and-qiskit?u=76281980&t=104)** The Quantum Lab, is a Jupyter Notebook type experience that allows you to work with the Qiskit [[Python (Programming Language)|Python]]-like library.
 >
 > **[1:52](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-ibm-openqasm-and-qiskit?u=76281980&t=112)** So I'm going to start with the Quantum Composer, and I have a bunch of other work here so yours won't look like this.
 >
@@ -809,7 +798,7 @@ created: 2026-05-02
 >
 > **[6:38](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-ibm-openqasm-and-qiskit?u=76281980&t=398)** And the reason that you do that will become apparent as we get into what these different gates do, it's a very big difference from classical computing.
 >
-> **[6:47](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-ibm-openqasm-and-qiskit?u=76281980&t=407)** In quantum computing you run your algorithms multiple times, many times, often a thousand times as a default.
+> **[6:47](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-ibm-openqasm-and-qiskit?u=76281980&t=407)** In [[Quantum Computing]] you run your [[Algorithms]] multiple times, many times, often a thousand times as a default.
 >
 > **[6:55](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-ibm-openqasm-and-qiskit?u=76281980&t=415)** Also over here we have the ability to debug, and then we have lots of documentation.
 >
@@ -819,7 +808,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), [[Programming]] (2), [[Python (Programming Language)|Python]] (2), [[Quantum Computing]] (2), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Quantum Computing]] (2), [[GitHub]] (1), [[Algorithms]] (1)
 > **Env Vars:** ibm (7), ide (1)
 > **CLI Commands:** composer (5), python (2)
 > **Tools:** jupyter (4), github (1)
@@ -828,16 +817,15 @@ created: 2026-05-02
 > **Analogies:** for example (2), just like (1)
 > **UI Navigation:** click on (2)
 
-#### Explore Google Cirq
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-google-cirq?u=76281980)
+#### [Explore Google Cirq](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-google-cirq?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-google-cirq?u=76281980&t=0)** - [Instructor] Next up, we have running with the Cirq library and this is built by the Google Quantum AI team, so here's the core website.
+> **[0:00](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-google-cirq?u=76281980&t=0)** - [Instructor] Next up, we have running with the Cirq library and this is built by the [[Google]] Quantum AI team, so here's the core website.
 >
-> **[0:09](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-google-cirq?u=76281980&t=9)** Again, in addition to the software, as you might remember Google is also building hardware.
+> **[0:09](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-google-cirq?u=76281980&t=9)** Again, in addition to the software, as you might remember Google is also building [[Hardware]].
 >
-> **[0:15](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-google-cirq?u=76281980&t=15)** So, if you're running Cirq on the Google Cloud you're going to be running on Google's quantum computer.
+> **[0:15](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-google-cirq?u=76281980&t=15)** So, if you're running Cirq on the [[Google Cloud Platform (GCP)|Google Cloud]] you're going to be running on Google's quantum computer.
 >
 > **[0:21](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-google-cirq?u=76281980&t=21)** This differs from some of the other vendor implementations where you'd be running on something like D-Wave.
 >
@@ -851,7 +839,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-google-cirq?u=76281980&t=57)** So if you go to the bottom of this example, it says go to the tutorials and examples which I've done here.
 >
-> **[1:04](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-google-cirq?u=76281980&t=64)** And then it's the same example and it gives you the ability to run in Google Colab, which is a hosted Jupyter-like environment that has constraints in terms of how much overhead, again, it's for learning, you wouldn't really use this for production and you alternatively could get the source code from GitHub and download the notebook and run it basically in any environment.
+> **[1:04](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-google-cirq?u=76281980&t=64)** And then it's the same example and it gives you the ability to run in Google Colab, which is a hosted Jupyter-like environment that has constraints in terms of how much overhead, again, it's for learning, you wouldn't really use this for production and you alternatively could get the source code from [[GitHub]] and download the notebook and run it basically in any environment.
 >
 > **[1:26](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-google-cirq?u=76281980&t=86)** I clicked the run in Colab.
 >
@@ -877,7 +865,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-google-cirq?u=76281980&t=160)** And then if we scroll down here, this is a more complex circuit.
 >
-> **[2:48](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-google-cirq?u=76281980&t=168)** And then we run a simulation, so first we're running this on a simulator which is the pattern that we're seeing now when we work with any kind of quantum programming, that we run first on a simulator and then we run on the actual quantum computer.
+> **[2:48](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-google-cirq?u=76281980&t=168)** And then we run a [[Simulation]], so first we're running this on a simulator which is the pattern that we're seeing now when we work with any kind of quantum programming, that we run first on a simulator and then we run on the actual quantum computer.
 >
 > **[3:02](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-google-cirq?u=76281980&t=182)** So this is the simulator code and this is a code that helps us evaluate the overhead and then we plot the output.
 >
@@ -885,13 +873,13 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-google-cirq?u=76281980&t=213)** And again, the reason for that will become clear as we get into the gates.
 >
-> **[3:37](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-google-cirq?u=76281980&t=217)** So what's nice about the Google implementation is you can run on Colabs and particularly if you've got a background doing that as I do, having worked with a lot of machine learning, TensorFlow on Colabs, it is familiar.
+> **[3:37](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-google-cirq?u=76281980&t=217)** So what's nice about the Google implementation is you can run on Colabs and particularly if you've got a background doing that as I do, having worked with a lot of machine learning, [[TensorFlow]] on Colabs, it is familiar.
 >
 > **[3:50](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-google-cirq?u=76281980&t=230)** So again, one of the reasons I'm showing multiple cloud vendors is because they're all available and second, you're going to want to pick the one where you have the most comfort, because there's enough new stuff to learn in quantum programming that if you can just simply use the cloud vendor you're familiar with, you're going to remove one layer of learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (8), [[Programming]] (3), cloud (2), next (1), ai (1)
+> **Frameworks & Libraries:** [[Google]] (8), [[Hardware]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[GitHub]] (1), [[Simulation]] (1)
 > **UI Navigation:** go to (3), scroll down (2)
 > **Tools:** colab (2), jupyter (1), github (1)
 > **Definitions:** is a  (3)
@@ -900,28 +888,27 @@ created: 2026-05-02
 > **Cross-References:** coming up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Explore Azure Q#
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-azure-q?u=76281980)
+#### [Explore Azure Q#](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-azure-q?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-azure-q?u=76281980&t=0)** - [Instructor] To work with Azure Quantum, you're going to sign into your Azure account and then you're going to create a resource that is a quantum workspace.
+> **[0:00](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-azure-q?u=76281980&t=0)** - [Instructor] To work with [[Microsoft Azure|Azure]] Quantum, you're going to sign into your Azure account and then you're going to create a resource that is a quantum workspace.
 >
 > **[0:09](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-azure-q?u=76281980&t=9)** I've already done that because it does take a few minutes to set up.
 >
 > **[0:12](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-azure-q?u=76281980&t=12)** Basically, it's a resource group that you can associate a storage account to, and then you're going to select the type of quantum computer.
 >
-> **[0:22](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-azure-q?u=76281980&t=22)** And Azure, like Amazon, does not make Microsoft quantum computers available commercially.
+> **[0:22](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-azure-q?u=76281980&t=22)** And Azure, like Amazon, does not make [[Microsoft]] quantum computers available commercially.
 >
-> **[0:29](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-azure-q?u=76281980&t=29)** They partner with dedicated quantum hardware vendors like Rigetti.
+> **[0:29](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-azure-q?u=76281980&t=29)** They partner with dedicated quantum [[Hardware]] vendors like Rigetti.
 >
 > **[0:34](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-azure-q?u=76281980&t=34)** So they have their simulator, which is made by Microsoft, but they partner with vendors.
 >
-> **[0:40](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-azure-q?u=76281980&t=40)** So that's a little bit different than either IBM or Google.
+> **[0:40](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-azure-q?u=76281980&t=40)** So that's a little bit different than either IBM or [[Google]].
 >
 > **[0:43](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-azure-q?u=76281980&t=43)** Once you have created the quantum workspace, and I've done that here, you can see that it gives you some information about getting started, about quota, again, there's some strict quotas with this, and job activity.
 >
-> **[0:56](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-azure-q?u=76281980&t=56)** Almost all of the cloud vendors are running any sort of quantum workload as a job that runs, and then you see the results as a probability which can either can be graphed, or it will be a text file.
+> **[0:56](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-azure-q?u=76281980&t=56)** Almost all of the cloud vendors are running any sort of quantum workload as a job that runs, and then you see the results as a [[Probability]] which can either can be graphed, or it will be a text file.
 >
 > **[1:08](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-azure-q?u=76281980&t=68)** And oftentimes it's stored in a blob storage.
 >
@@ -969,7 +956,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Microsoft]] (5), [[Google]] (2), [[Hardware]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Microsoft]] (5), [[Google]] (2), [[Hardware]] (1), [[Probability]] (1)
 > **Env Vars:** ibm (2), cnot (1), sdk (1)
 > **Definitions:** is a  (4)
 > **Prerequisites:** set up (1), getting started (1)
@@ -977,8 +964,7 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Explore AWS Braket
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-aws-braket?u=76281980)
+#### [Explore AWS Braket](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-aws-braket?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -986,7 +972,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-aws-braket?u=76281980&t=7)** So, the way that this works is there are devices, notebooks, jobs, and tasks, as you can see here.
 >
-> **[0:13](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-aws-braket?u=76281980&t=13)** So, I've started in the devices section, and as I've been mentioning, Amazon is a vendor who partners with dedicated Quantum hardware vendors such as D-Wave.
+> **[0:13](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-aws-braket?u=76281980&t=13)** So, I've started in the devices section, and as I've been mentioning, Amazon is a vendor who partners with dedicated Quantum [[Hardware]] vendors such as D-Wave.
 >
 > **[0:24](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-aws-braket?u=76281980&t=24)** So you can see that you have the ability here to run QPUs on D-Wave, two different systems, IonQ, or Rigetti.
 >
@@ -1046,7 +1032,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (1), [[Hardware]] (1), [[Security]] (1), next (1)
+> **Frameworks & Libraries:** [[Hardware]] (1)
 > **CLI Commands:** make (2), aws (1), find (1)
 > **Env Vars:** aws (1), url (1), ibm (1)
 > **Analogies:** for example (2), such as (1)
@@ -1060,14 +1046,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Quantum NOT gate
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-not-gate?u=76281980)
+#### [Quantum NOT gate](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-not-gate?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-not-gate?u=76281980&t=0)** - [Instructor] In this section of the course we're going to take a look at Cloud Quantum Programming using both learning environments, such as the one I introduced associated to this O'Reilly book.
 >
-> **[0:11](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-not-gate?u=76281980&t=11)** This is an in-browser editor you may remember that uses a JavaScript library that runs in a simulated environment.
+> **[0:11](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-not-gate?u=76281980&t=11)** This is an in-browser editor you may remember that uses a [[JavaScript]] library that runs in a simulated environment.
 >
 > **[0:19](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-not-gate?u=76281980&t=19)** This is only for learning to actual production cloud environments.
 >
@@ -1105,7 +1090,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-not-gate?u=76281980&t=146)** There is another thing that you'll see in working with programming Quantum that certain languages are more terse, they're more like C and certain languages are more verbose or libraries.
 >
-> **[2:35](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-not-gate?u=76281980&t=155)** They're more like Python.
+> **[2:35](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-not-gate?u=76281980&t=155)** They're more like [[Python (Programming Language)|Python]].
 >
 > **[2:37](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-not-gate?u=76281980&t=157)** So if I open this up, what I would do is I would paste this in which I've done over here into the IBM quantum composer.
 >
@@ -1151,7 +1136,7 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-not-gate?u=76281980&t=248)** I'm not going to wait for it because this is a deterministic.
 >
-> **[4:12](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-not-gate?u=76281980&t=252)** And here's the output, probability is one.
+> **[4:12](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-not-gate?u=76281980&t=252)** And here's the output, [[Probability]] is one.
 >
 > **[4:14](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-not-gate?u=76281980&t=254)** A couple other things about this environment, of course you have the Q-sphere and you have the state of the qubits because this is deterministic, the probability will be one.
 >
@@ -1161,7 +1146,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), [[Programming]] (2), [[Debugging]] (2), [[Probability]] (2), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Probability]] (2), [[JavaScript]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** ibm (3), ide (1), qasm (1)
 > **Definitions:** is a  (3), is an  (1), in other words (1)
 > **CLI Commands:** python (1), composer (1)
@@ -1170,8 +1155,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Quantum superposition with Hadamard (H) gate
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-superposition-with-hadamard-h-gate?u=76281980)
+#### [Quantum superposition with Hadamard (H) gate](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-superposition-with-hadamard-h-gate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1203,7 +1187,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-superposition-with-hadamard-h-gate?u=76281980&t=105)** But when you are actually working with this, you will run it on average a 1000 times in the simulator and then you will look at the probabilities of one or zero in this case.
 >
-> **[1:55](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-superposition-with-hadamard-h-gate?u=76281980&t=115)** So let's show you what that looks like as with the other samples, basically simplified this the sample and I put it in GitHub.
+> **[1:55](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-superposition-with-hadamard-h-gate?u=76281980&t=115)** So let's show you what that looks like as with the other samples, basically simplified this the sample and I put it in [[GitHub]].
 >
 > **[2:02](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-superposition-with-hadamard-h-gate?u=76281980&t=122)** Let me make this a little bigger so you guys can see it and you can see that we have a similar but an open QASM code, which is the C style code.
 >
@@ -1235,7 +1219,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[GitHub]] (1), cloud (1)
+> **Frameworks & Libraries:** [[GitHub]] (1)
 > **Definitions:** is a  (4), is an  (1)
 > **CLI Commands:** make (2), composer (2)
 > **Env Vars:** ibm (2), qasm (1)
@@ -1244,8 +1228,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
-#### Quantum entanglement with CNOT gate
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-entanglement-with-cnot-gate?u=76281980)
+#### [Quantum entanglement with CNOT gate](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-entanglement-with-cnot-gate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1301,7 +1284,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-entanglement-with-cnot-gate?u=76281980&t=104)** You can see controlled not, because it's dependent on the first qubit.
 >
-> **[1:50](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-entanglement-with-cnot-gate?u=76281980&t=110)** So if we debug through here, we go to the inspector, and we start here and we've got a 50/50 probability.
+> **[1:50](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-entanglement-with-cnot-gate?u=76281980&t=110)** So if we debug through here, we go to the inspector, and we start here and we've got a 50/50 [[Probability]].
 >
 > **[1:57](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-entanglement-with-cnot-gate?u=76281980&t=117)** So this is similar to the circles that were colored in halfway.
 >
@@ -1348,8 +1331,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 
-#### Quantum amplitude amplification (AA)
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-amplitude-amplification-aa?u=76281980)
+#### [Quantum amplitude amplification (AA)](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-amplitude-amplification-aa?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1369,7 +1351,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-amplitude-amplification-aa?u=76281980&t=48)** Where you see this pattern in actual quantum programs and production, this is a aspect of working with quantum programming that you can apply to your various business problems.
 >
-> **[0:59](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-amplitude-amplification-aa?u=76281980&t=59)** And because I want to get to that point, I'm going to just go over this and if you want to dig into this, look at some of the code that's related on the GitHub repository from the book.
+> **[0:59](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-amplitude-amplification-aa?u=76281980&t=59)** And because I want to get to that point, I'm going to just go over this and if you want to dig into this, look at some of the code that's related on the [[GitHub]] repository from the book.
 >
 > **[1:08](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-amplitude-amplification-aa?u=76281980&t=68)** So what is this?
 >
@@ -1415,15 +1397,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (3), cloud (1), business (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (1)
 > **Env Vars:** ibm (1), qpu (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
-#### Quantum Fourier transform (QFT)
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-fourier-transform-qft?u=76281980)
+#### [Quantum Fourier transform (QFT)](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-fourier-transform-qft?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1561,7 +1542,7 @@ created: 2026-05-02
 >
 > **[6:07](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-fourier-transform-qft?u=76281980&t=367)** And you alter the frequency information.
 >
-> **[6:09](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-fourier-transform-qft?u=76281980&t=369)** And here I have on GitHub, this is again from the O'Reilly Book, an example, using QC engine.
+> **[6:09](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-fourier-transform-qft?u=76281980&t=369)** And here I have on [[GitHub]], this is again from the O'Reilly Book, an example, using QC engine.
 >
 > **[6:14](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-fourier-transform-qft?u=76281980&t=374)** And then this is from the book.
 >
@@ -1571,7 +1552,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), application (1), business (1), [[Programming]] (1), [[Orchestration]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (1)
 > **Env Vars:** qft (9), ibm (1), qpu (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Definitions:** is a  (2), refers to (1)
@@ -1580,8 +1561,7 @@ created: 2026-05-02
 > **Cross-References:** earlier in (1)
 > **Tools:** github (1)
 
-#### Quantum phase estimation (PE)
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-phase-estimation-pe?u=76281980)
+#### [Quantum phase estimation (PE)](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-phase-estimation-pe?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1611,7 +1591,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-phase-estimation-pe?u=76281980&t=65)** So again, if you're not familiar with the mathematics behind this or what eigenstates and eigenphases are, I will actually put some links in here because this is something I don't work with every day.
 >
-> **[1:16](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-phase-estimation-pe?u=76281980&t=76)** So I will augment this section of my GitHub with a few links so that we all can stay up to date on these mathematical terms.
+> **[1:16](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-phase-estimation-pe?u=76281980&t=76)** So I will augment this section of my [[GitHub]] with a few links so that we all can stay up to date on these mathematical terms.
 >
 > **[1:24](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-phase-estimation-pe?u=76281980&t=84)** But you can see the visualization.
 >
@@ -1631,8 +1611,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Quantum random number generator
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-random-number-generator?u=76281980)
+#### [Quantum random number generator](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-random-number-generator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1688,7 +1667,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-random-number-generator?u=76281980&t=134)** In the situation, usually, you can determine the full final quantum state of the system and sample from all the possible outcomes.
 >
-> **[2:21](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-random-number-generator?u=76281980&t=141)** Algorithms, for which this is possible, called deterministic, as we've talked about earlier.
+> **[2:21](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-random-number-generator?u=76281980&t=141)** [[Algorithms]], for which this is possible, called deterministic, as we've talked about earlier.
 >
 > **[2:25](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-random-number-generator?u=76281980&t=145)** In some special cases, the final quantum state is non-deterministic. In those cases, and we saw one in an earlier movie, you must add a measurement statement at the end of the algorithm in order to get meaningful results.
 >
@@ -1729,12 +1708,11 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Qubit gate operations detailed for cQASM
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/qubit-gate-operations-detailed-for-cqasm?u=76281980)
+#### [Qubit gate operations detailed for cQASM](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/qubit-gate-operations-detailed-for-cqasm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/qubit-gate-operations-detailed-for-cqasm?u=76281980&t=0)** - Another aspect of working with quantum programming that I wanted to share is, it's really important in whatever language and also in whatever execution environment or hardware you understand what gates are available.
+> **[0:00](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/qubit-gate-operations-detailed-for-cqasm?u=76281980&t=0)** - Another aspect of working with quantum programming that I wanted to share is, it's really important in whatever language and also in whatever execution environment or [[Hardware]] you understand what gates are available.
 >
 > **[0:12](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/qubit-gate-operations-detailed-for-cqasm?u=76281980&t=12)** We've really just scratched the surface.
 >
@@ -1746,7 +1724,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/qubit-gate-operations-detailed-for-cqasm?u=76281980&t=25)** So it's really important you consult your documentation when you are moving from learning to production.
 >
-> **[0:31](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/qubit-gate-operations-detailed-for-cqasm?u=76281980&t=31)** So just to give you a couple examples, I have this on my GitHub, you can see the URL here.
+> **[0:31](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/qubit-gate-operations-detailed-for-cqasm?u=76281980&t=31)** So just to give you a couple examples, I have this on my [[GitHub]], you can see the URL here.
 >
 > **[0:35](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/qubit-gate-operations-detailed-for-cqasm?u=76281980&t=35)** This is from the book, I created a grid, basically, from the O'Reilly book.
 >
@@ -1806,7 +1784,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (2), [[Programming]] (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[GitHub]] (1)
 > **Analogies:** for example (4)
 > **Env Vars:** url (1), ibm (1)
 > **Definitions:** is a  (2)
@@ -1815,8 +1793,7 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Tools:** github (1)
 
-#### Cloud quantum Shor's algorithm: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-shor-s-algorithm-part-1?u=76281980)
+#### [Cloud quantum Shor's algorithm: Part 1](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-shor-s-algorithm-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1828,13 +1805,13 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-shor-s-algorithm-part-1?u=76281980&t=17)** So the functionality is given some integer, find its prime factors.
 >
-> **[0:22](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-shor-s-algorithm-part-1?u=76281980&t=22)** The key, though, is to do so in what's called polynomial time, and that's a very fancy word for fast solvability.
+> **[0:22](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-shor-s-algorithm-part-1?u=76281980&t=22)** The key, though, is to do so in what's called polynomial time, and that's a very fancy [[Microsoft Word|word]] for fast solvability.
 >
 > **[0:30](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-shor-s-algorithm-part-1?u=76281980&t=30)** So I've got a reference here from wolf from mathworld.
 >
 > **[0:33](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-shor-s-algorithm-part-1?u=76281980&t=33)** It says an algorithm is said to be solvable in polynomial time if the number of steps required for a given input, blah, blah, blah.
 >
-> **[0:40](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-shor-s-algorithm-part-1?u=76281980&t=40)** Polynomial time algorithms are said to be fast.
+> **[0:40](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-shor-s-algorithm-part-1?u=76281980&t=40)** Polynomial time [[Algorithms]] are said to be fast.
 >
 > **[0:43](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-shor-s-algorithm-part-1?u=76281980&t=43)** So it has to do with computability in terms of practicality.
 >
@@ -1856,11 +1833,11 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-shor-s-algorithm-part-1?u=76281980&t=105)** Why does it matter?
 >
-> **[1:46](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-shor-s-algorithm-part-1?u=76281980&t=106)** It's often overstated that when this is implementable on quantum hardware, which is not as of this recording for various means that we'll get into in later videos, when it's actually implementable it has the potential to impact how we do encryption.
+> **[1:46](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-shor-s-algorithm-part-1?u=76281980&t=106)** It's often overstated that when this is implementable on quantum [[Hardware]], which is not as of this recording for various means that we'll get into in later videos, when it's actually implementable it has the potential to impact how we do encryption.
 >
 > **[2:02](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-shor-s-algorithm-part-1?u=76281980&t=122)** So the news bite is it can break all encryption, which is oversimplified and not exactly accurate, but has the potential to disrupt encryption because RSA public key encryption, and other methods, currently rely on the inability to quickly factorize large numbers.
 >
-> **[2:20](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-shor-s-algorithm-part-1?u=76281980&t=140)** And if you are able to quickly determine the complex periodicity of a function, there are other applications beyond cryptography.
+> **[2:20](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-shor-s-algorithm-part-1?u=76281980&t=140)** And if you are able to quickly determine the complex periodicity of a function, there are other applications beyond [[Cryptography]].
 >
 > **[2:28](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-shor-s-algorithm-part-1?u=76281980&t=148)** So, also on this page, I've pulled together what I think are the most useful examples.
 >
@@ -1880,7 +1857,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-shor-s-algorithm-part-1?u=76281980&t=221)** And I've already run it, just for time, but you can see that the first notebook section basically just does imports and loads your IBM account.
 >
-> **[3:49](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-shor-s-algorithm-part-1?u=76281980&t=229)** In the next section, imports the Qiskit libraries and some math libraries in Python.
+> **[3:49](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-shor-s-algorithm-part-1?u=76281980&t=229)** In the next section, imports the Qiskit libraries and some math libraries in [[Python (Programming Language)|Python]].
 >
 > **[3:54](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-shor-s-algorithm-part-1?u=76281980&t=234)** The third section is really where all the work is done.
 >
@@ -1892,7 +1869,7 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-shor-s-algorithm-part-1?u=76281980&t=275)** And, so, I like starting with this as a sort of backup to my other methods, and that's why I am addressing this in this course.
 >
-> **[4:44](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-shor-s-algorithm-part-1?u=76281980&t=284)** Another tool that I use in learning Shor's Algorithm is from this GitHub repository from this user.
+> **[4:44](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-shor-s-algorithm-part-1?u=76281980&t=284)** Another tool that I use in learning Shor's Algorithm is from this [[GitHub]] repository from this user.
 >
 > **[4:51](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-shor-s-algorithm-part-1?u=76281980&t=291)** And I really like his explanation, which I'll be going into in the next video, but, in particular, I like at the bottom he gives you a purely classical algorithm for comparative sake.
 >
@@ -1904,7 +1881,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (5), next (4), [[Hardware]] (2), [[Microsoft Word|Word]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Microsoft Word|Word]] (1), [[Algorithms]] (1), [[Cryptography]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** ibm (4), qft (2), url (1), rsa (1), qpu (1)
 > **Definitions:** is a  (3), means that (1)
 > **Cross-References:** in the next (3)
@@ -1912,8 +1889,7 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud quantum Shor's algorithm: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-shor-s-algorithm-part-2?u=76281980)
+#### [Cloud quantum Shor's algorithm: Part 2](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-shor-s-algorithm-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1991,7 +1967,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-shor-s-algorithm-part-2?u=76281980&t=232)** And then we can use continued fractions algorithm to attempt to find s and r.
 >
-> **[3:58](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-shor-s-algorithm-part-2?u=76281980&t=238)** And this is a library built in Python.
+> **[3:58](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-shor-s-algorithm-part-2?u=76281980&t=238)** And this is a library built in [[Python (Programming Language)|Python]].
 >
 > **[4:03](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-shor-s-algorithm-part-2?u=76281980&t=243)** And then we calculate against that.
 >
@@ -2041,7 +2017,7 @@ created: 2026-05-02
 >
 > **[6:30](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-shor-s-algorithm-part-2?u=76281980&t=390)** Also, I did a number of exercises in relation, when we were reading this chapter.
 >
-> **[6:35](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-shor-s-algorithm-part-2?u=76281980&t=395)** The one that to me was most meaningful is, it was run on Google Cloud Cirq Library and it was a refactoring of their Shor example.
+> **[6:35](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-shor-s-algorithm-part-2?u=76281980&t=395)** The one that to me was most meaningful is, it was run on [[Google Cloud Platform (GCP)|Google Cloud]] Cirq Library and it was a refactoring of their Shor example.
 >
 > **[6:44](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-shor-s-algorithm-part-2?u=76281980&t=404)** So this is their original example.
 >
@@ -2053,7 +2029,7 @@ created: 2026-05-02
 >
 > **[7:08](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-shor-s-algorithm-part-2?u=76281980&t=428)** Because the key point with this is, a lot of this work is theoretical because, of course, going back to the concern about encryption, numbers used in encryption are not, you know, three-digit numbers, they're much, much, much longer.
 >
-> **[7:23](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-shor-s-algorithm-part-2?u=76281980&t=443)** So although the goal with Shor's algorithm is to use a quantum QPU in addition to a CPU for quantum speed up, the size of the numbers and other limitations in the current world of quantum hardware makes this not yet implementable to a sort of standard degree in the real world, but it is something that many, many vendors are working very hard on because, of course, changing encryption would change the fundamentals of how we compute.
+> **[7:23](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-shor-s-algorithm-part-2?u=76281980&t=443)** So although the goal with Shor's algorithm is to use a quantum QPU in addition to a CPU for quantum speed up, the size of the numbers and other limitations in the current world of quantum [[Hardware]] makes this not yet implementable to a sort of standard degree in the real world, but it is something that many, many vendors are working very hard on because, of course, changing encryption would change the fundamentals of how we compute.
 >
 > **[7:55](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-shor-s-algorithm-part-2?u=76281980&t=475)** So it has a lot of aspects in terms of learning quantum programming: One, learning about a reference program; Two, being able to evaluate across different platforms and hardware, something beyond a hello worlds.
 >
@@ -2067,7 +2043,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Hardware]] (2), [[Programming]] (2), next (1), product (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Hardware]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **CLI Commands:** find (4), python (2), composer (1), make (1)
 > **Env Vars:** qft (3), ibm (2), qpu (1), cpu (1)
 > **Definitions:** is a  (3), known as (1)
@@ -2081,12 +2057,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cloud quantum computing machine learning basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-machine-learning-basics?u=76281980)
+#### [Cloud quantum computing machine learning basics](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-machine-learning-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-machine-learning-basics?u=76281980&t=0)** - [Instructor] To get us started with quantum machine learning, I've made yet another concepts page in my learning quantum GitHub repo.
+> **[0:00](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-machine-learning-basics?u=76281980&t=0)** - [Instructor] To get us started with quantum machine learning, I've made yet another concepts page in my learning quantum [[GitHub]] repo.
 >
 > **[0:07](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-machine-learning-basics?u=76281980&t=7)** And, again, this is a really active area of development, so it'll probably have more information by the time you're watching this.
 >
@@ -2096,7 +2071,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-machine-learning-basics?u=76281980&t=24)** So they run on the public cloud, but it's some sort of managed notebook.
 >
-> **[0:27](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-machine-learning-basics?u=76281980&t=27)** Whether it's IBM, Amazon Bracket, if it's on Azure Quantum, or all the different ways that we've seen.
+> **[0:27](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-machine-learning-basics?u=76281980&t=27)** Whether it's IBM, Amazon Bracket, if it's on [[Microsoft Azure|Azure]] Quantum, or all the different ways that we've seen.
 >
 > **[0:34](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-machine-learning-basics?u=76281980&t=34)** I really like this definition of a vendor of a quantum machine learning library.
 >
@@ -2104,7 +2079,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-machine-learning-basics?u=76281980&t=43)** I just think it's really well written.
 >
-> **[0:45](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-machine-learning-basics?u=76281980&t=45)** So this vendor is part of a quantum hardware company called Xanadu that's based in Toronto, which is actually a competitor to D-Wave.
+> **[0:45](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-machine-learning-basics?u=76281980&t=45)** So this vendor is part of a quantum [[Hardware]] company called Xanadu that's based in Toronto, which is actually a competitor to D-Wave.
 >
 > **[0:55](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-machine-learning-basics?u=76281980&t=55)** But this library is part of their offering, and it is open source.
 >
@@ -2126,15 +2101,15 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-machine-learning-basics?u=76281980&t=110)** If you're totally new to machine learning you might want to pause, and I have a couple other courses in the library.
 >
-> **[1:57](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-machine-learning-basics?u=76281980&t=117)** One is Amazon machine learning, another one is Google machine learning, and there are others as well, but you're going to want to get a little bit of background because I'm going to focus on how quantum impacts machine learning problems, not so much teaching them.
+> **[1:57](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-machine-learning-basics?u=76281980&t=117)** One is Amazon machine learning, another one is [[Google]] machine learning, and there are others as well, but you're going to want to get a little bit of background because I'm going to focus on how quantum impacts machine learning problems, not so much teaching them.
 >
 > **[2:10](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-machine-learning-basics?u=76281980&t=130)** So this is a good starting page.
 >
 > **[2:12](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-machine-learning-basics?u=76281980&t=132)** And the thing that I like the most is this, what they open with, which is: "Quantum computers as AI accelerators."
 >
-> **[2:18](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-machine-learning-basics?u=76281980&t=138)** And those of us that are working with some of the more complex implementations of machine learning, most notably neural networks or NNs as they're often called, we are already used to having some accelerators.
+> **[2:18](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-machine-learning-basics?u=76281980&t=138)** And those of us that are working with some of the more complex implementations of machine learning, most notably [[Neural Networks]] or NNs as they're often called, we are already used to having some accelerators.
 >
-> **[2:32](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-machine-learning-basics?u=76281980&t=152)** And it's not shown on this diagram down here, but we work with, for example, if we're working with an algorithm like TensorFlow to generate a neural network, we might be working with a GPU specialized processor to offload some of the calculation, and speed it up already, or maybe even a TPU, which is a Google version of a GPU.
+> **[2:32](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-machine-learning-basics?u=76281980&t=152)** And it's not shown on this diagram down here, but we work with, for example, if we're working with an algorithm like [[TensorFlow]] to generate a neural network, we might be working with a GPU specialized processor to offload some of the calculation, and speed it up already, or maybe even a TPU, which is a Google version of a GPU.
 >
 > **[2:52](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-machine-learning-basics?u=76281980&t=172)** And I really like the analogy of a QPU being a different kind of specialty processor.
 >
@@ -2154,7 +2129,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-machine-learning-basics?u=76281980&t=235)** So one of the reasons that I laid this course out, and presented Shor's algorithm in the previous section, is because it's not a machine learning algorithm but it has a classical portion and a quantum portion.
 >
-> **[4:06](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-machine-learning-basics?u=76281980&t=246)** And machine learning algorithms have the same structure, basically, where you have a portion that would benefit from a QPU potentially, and then a portion that you would use more classical processor.
+> **[4:06](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-machine-learning-basics?u=76281980&t=246)** And machine learning [[Algorithms]] have the same structure, basically, where you have a portion that would benefit from a QPU potentially, and then a portion that you would use more classical processor.
 >
 > **[4:20](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-machine-learning-basics?u=76281980&t=260)** Again, I really like the way this is written, it's talking about training via quantum computers.
 >
@@ -2162,7 +2137,7 @@ created: 2026-05-02
 >
 > **[4:31](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-machine-learning-basics?u=76281980&t=271)** And so differentiable programming, as it says: The quantum computer itself can compute the change in control parameters needed to become better at a given task.
 >
-> **[4:40](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-machine-learning-basics?u=76281980&t=280)** And it's the very basis of deep learning or neural networks implemented in libraries such as TensorFlow or PYTorch.
+> **[4:40](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-machine-learning-basics?u=76281980&t=280)** And it's the very basis of [[Deep Learning]] or neural networks implemented in libraries such as TensorFlow or [[PyTorch]].
 >
 > **[4:47](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-machine-learning-basics?u=76281980&t=287)** Differential programming is more than deep learning, It is a programming paradigm where the algorithms are not hand coded, but they are learned.
 >
@@ -2184,7 +2159,7 @@ created: 2026-05-02
 >
 > **[5:57](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-machine-learning-basics?u=76281980&t=357)** As we go along we're going to progress to actually a real world problem in the bioinformatics domain.
 >
-> **[6:03](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-machine-learning-basics?u=76281980&t=363)** So, to me it's a really exciting journey in terms of what is shown to be potentially possible in terms of the speed up that quantum computing can provide for these complex computational problems.
+> **[6:03](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-machine-learning-basics?u=76281980&t=363)** So, to me it's a really exciting journey in terms of what is shown to be potentially possible in terms of the speed up that [[Quantum Computing]] can provide for these complex computational problems.
 >
 > **[6:17](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-machine-learning-basics?u=76281980&t=377)** As you are learning, again, depending on where you are on your journey, Pennylane has a bunch of different examples, documentation, again, very, very well written.
 >
@@ -2196,7 +2171,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (7), [[Neural Networks]] (5), [[Hardware]] (4), cloud (3), [[TensorFlow]] (3)
+> **Frameworks & Libraries:** [[Neural Networks]] (5), [[Hardware]] (4), [[TensorFlow]] (3), [[Google]] (2), [[Algorithms]] (2)
 > **Env Vars:** qml (4), ibm (2), gpu (2), qpu (2), covid (1)
 > **Definitions:** is a  (6), is an  (1)
 > **Analogies:** for example (2), similar to (2), such as (1)
@@ -2205,12 +2180,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Exercise Files:** github repo (1)
 
-#### Explore quantum ML methods: Classification
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-quantum-ml-methods-classification?u=76281980)
+#### [Explore quantum ML methods: Classification](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-quantum-ml-methods-classification?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-quantum-ml-methods-classification?u=76281980&t=0)** - [Instructor] Because there are some aspects of working with QML that are unique to the ML space, I wanted to start with an example that was somewhat simpler than neural networks in terms of machine learning.
+> **[0:00](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-quantum-ml-methods-classification?u=76281980&t=0)** - [Instructor] Because there are some aspects of working with QML that are unique to the ML space, I wanted to start with an example that was somewhat simpler than [[Neural Networks]] in terms of machine learning.
 >
 > **[0:11](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-quantum-ml-methods-classification?u=76281980&t=11)** I'm starting with this example from Quantum Inspire, which is classification.
 >
@@ -2226,7 +2200,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-quantum-ml-methods-classification?u=76281980&t=63)** So we have to encode that, we classify the new data by representing all data points by features or characteristics and this is the important part, compute the distance between the features of the new data point and the features of the learned data point.
 >
-> **[1:15](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-quantum-ml-methods-classification?u=76281980&t=75)** And then we assign labels probabilistically again because that's how these algorithms work.
+> **[1:15](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-quantum-ml-methods-classification?u=76281980&t=75)** And then we assign labels probabilistically again because that's how these [[Algorithms]] work.
 >
 > **[1:21](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/explore-quantum-ml-methods-classification?u=76281980&t=81)** So, goes on to talk about if you're using QML, you're doing the same thing as Classic ML, but you only need one cubit operation and two measurements.
 >
@@ -2304,7 +2278,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Algorithms]] (2), [[Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Neural Networks]] (1)
 > **Env Vars:** qml (6), ram (1)
 > **Definitions:** is a  (4), is an  (1)
 > **UI Navigation:** click on (2)
@@ -2312,14 +2286,13 @@ created: 2026-05-02
 > **Warnings:** caveat (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud quantum neural networks: Hello worlds
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-neural-networks-hello-worlds?u=76281980)
+#### [Cloud quantum neural networks: Hello worlds](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-neural-networks-hello-worlds?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-neural-networks-hello-worlds?u=76281980&t=0)** - [Instructor] In addition to potential complexity around data preparation for machine learning using quantum programming, another consideration is noise or errors.
+> **[0:00](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-neural-networks-hello-worlds?u=76281980&t=0)** - [Instructor] In addition to potential complexity around [[Data Preparation]] for machine learning using quantum programming, another consideration is noise or errors.
 >
-> **[0:12](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-neural-networks-hello-worlds?u=76281980&t=12)** In general, the Google implementation of TensorFlow Quantum examples are excellent and very, very useful.
+> **[0:12](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-neural-networks-hello-worlds?u=76281980&t=12)** In general, the [[Google]] implementation of [[TensorFlow]] Quantum examples are excellent and very, very useful.
 >
 > **[0:20](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-neural-networks-hello-worlds?u=76281980&t=20)** So starting with hello, world or hello, many worlds, these tutorials introduce topics around the pragmatic reality of trying to use QPUs to speed up ML operations.
 >
@@ -2343,7 +2316,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-neural-networks-hello-worlds?u=76281980&t=97)** In addition to showing how to correct qubit calibration errors, another key concept is this idea of quantum circuits encoded as tensors.
 >
-> **[1:48](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-neural-networks-hello-worlds?u=76281980&t=108)** Using TensorFlow for neural networks, of course, requires the data to be encoded as a tensor and as we saw in the earlier example, using a quantum classifier, data encoding for quantum requires additional preparatory steps.
+> **[1:48](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-neural-networks-hello-worlds?u=76281980&t=108)** Using TensorFlow for [[Neural Networks]], of course, requires the data to be encoded as a tensor and as we saw in the earlier example, using a quantum classifier, data encoding for quantum requires additional preparatory steps.
 >
 > **[2:03](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-neural-networks-hello-worlds?u=76281980&t=123)** You can have a double prep here if you will.
 >
@@ -2351,7 +2324,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-neural-networks-hello-worlds?u=76281980&t=128)** This is run on a really small simulator because it's free, it's for learning.
 >
-> **[2:13](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-neural-networks-hello-worlds?u=76281980&t=133)** So as you're moving to real customer examples, you will be running this on the Google Cloud probably on a managed notebook environment with a more beefy machine.
+> **[2:13](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-neural-networks-hello-worlds?u=76281980&t=133)** So as you're moving to real customer examples, you will be running this on the [[Google Cloud Platform (GCP)|Google Cloud]] probably on a managed notebook environment with a more beefy machine.
 >
 > **[2:20](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-neural-networks-hello-worlds?u=76281980&t=140)** So you wouldn't take as long to run it.
 >
@@ -2395,7 +2368,7 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-neural-networks-hello-worlds?u=76281980&t=241)** This shows the fact that real customers are using this because you saw in the previous movie, all the gates and operations, and this is basically a helper method that does that under the hood.
 >
-> **[4:15](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-neural-networks-hello-worlds?u=76281980&t=255)** And then we have circuit simulation.
+> **[4:15](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-neural-networks-hello-worlds?u=76281980&t=255)** And then we have circuit [[Simulation]].
 >
 > **[4:19](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-neural-networks-hello-worlds?u=76281980&t=259)** And then we have hybrid quantum-classical optimization.
 >
@@ -2441,7 +2414,7 @@ created: 2026-05-02
 >
 > **[5:57](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-neural-networks-hello-worlds?u=76281980&t=357)** So that's the key point here.
 >
-> **[5:59](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-neural-networks-hello-worlds?u=76281980&t=359)** So again, I know for hello, world, this has got quite a lot of stuff in it but the state of quantum computing is, in terms of production, very early, and so aspects like error checking and error correction is part of the reality of working with it.
+> **[5:59](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-neural-networks-hello-worlds?u=76281980&t=359)** So again, I know for hello, world, this has got quite a lot of stuff in it but the state of [[Quantum Computing]] is, in terms of production, very early, and so aspects like error checking and error correction is part of the reality of working with it.
 >
 > **[6:18](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-neural-networks-hello-worlds?u=76281980&t=378)** And again, I really like the richness of the Google example.
 >
@@ -2449,7 +2422,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[TensorFlow]] (8), [[Google]] (5), data (3), [[Programming]] (1), [[Neural Networks]] (1)
+> **Frameworks & Libraries:** [[TensorFlow]] (8), [[Google]] (5), [[Data Preparation]] (1), [[Neural Networks]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Env Vars:** nisp (1), ibm (1), cnot (1)
 > **Prerequisites:** install (2), setup (1)
 > **Definitions:** is a  (2)
@@ -2457,16 +2430,15 @@ created: 2026-05-02
 > **Tools:** colab (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud quantum neural networks: MNIST
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-neural-networks-mnist?u=76281980)
+#### [Cloud quantum neural networks: MNIST](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-neural-networks-mnist?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-neural-networks-mnist?u=76281980&t=0)** - [Instructor] This next example might surprise you a little bit coming from the Google samples.
+> **[0:00](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-neural-networks-mnist?u=76281980&t=0)** - [Instructor] This next example might surprise you a little bit coming from the [[Google]] samples.
 >
-> **[0:04](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-neural-networks-mnist?u=76281980&t=4)** As some of the, what I call reference applications, such as Shor's algorithm for regular quantum computing, or hello worlds for neural networks, are reference programs, MNIST is definitely a reference program for neural networks.
+> **[0:04](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-neural-networks-mnist?u=76281980&t=4)** As some of the, what I call reference applications, such as Shor's algorithm for regular [[Quantum Computing]], or hello worlds for [[Neural Networks]], are reference programs, MNIST is definitely a reference program for neural networks.
 >
-> **[0:22](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-neural-networks-mnist?u=76281980&t=22)** It's used basically as an example to gauge how to use a neural network library such as TensorFlow or PyTorch, or many of the other ones out there, and it's used for performance testing as kind of a basic level.
+> **[0:22](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-neural-networks-mnist?u=76281980&t=22)** It's used basically as an example to gauge how to use a neural network library such as [[TensorFlow]] or [[PyTorch]], or many of the other ones out there, and it's used for performance testing as kind of a basic level.
 >
 > **[0:37](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-neural-networks-mnist?u=76281980&t=37)** So Google has an interesting sample here in TensorFlow Quantum with MNIST classification.
 >
@@ -2506,7 +2478,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-neural-networks-mnist?u=76281980&t=216)** Now, in addition to this example, there are many others that I have used working with customers.
 >
-> **[3:42](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-neural-networks-mnist?u=76281980&t=222)** So this talks about quantum data, again, we've been talking about complexity in this section about gradients and about how quantum operations can speed up calculation across gradients, which is of course a key part of neural networks, barren plateaus, quantum CNNs, noise, which we introduced in this section, research tools and quantum reinforcement learning, which is also a really interesting area in terms of research and applicability.
+> **[3:42](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-neural-networks-mnist?u=76281980&t=222)** So this talks about quantum data, again, we've been talking about complexity in this section about gradients and about how quantum operations can speed up calculation across gradients, which is of course a key part of neural networks, barren plateaus, quantum CNNs, noise, which we introduced in this section, research tools and quantum [[Reinforcement Learning]], which is also a really interesting area in terms of research and applicability.
 >
 > **[4:09](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-neural-networks-mnist?u=76281980&t=249)** So my go-to, as you can probably tell from what I'm talking about, when I look at the reality of the applicability of quantum machine learning is TensorFlow Quantum.
 >
@@ -2516,23 +2488,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Google]] (4), [[Neural Networks]] (4), [[TensorFlow]] (4), cnn (3)
+> **Frameworks & Libraries:** [[Google]] (4), [[Neural Networks]] (4), [[TensorFlow]] (4), [[Quantum Computing]] (1), [[PyTorch]] (1)
 > **Env Vars:** mnist (4), qnn (4), cnn (3), ibm (1), aws (1)
 > **Definitions:** is a  (4)
 > **Analogies:** such as (2), similar to (1)
 > **CLI Commands:** make (1), aws (1)
 > **Speakers:** - [instructor] (1)
 
-#### Review applied cloud quantum computing ML
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/review-applied-cloud-quantum-computing-ml?u=76281980)
+#### [Review applied cloud quantum computing ML](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/review-applied-cloud-quantum-computing-ml?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/review-applied-cloud-quantum-computing-ml?u=76281980&t=0)** - [Narrator] The whitepapers that I'm showing you in this movie are all linked here on my GitHub.
+> **[0:00](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/review-applied-cloud-quantum-computing-ml?u=76281980&t=0)** - [Narrator] The whitepapers that I'm showing you in this movie are all linked here on my [[GitHub]].
 >
 > **[0:05](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/review-applied-cloud-quantum-computing-ml?u=76281980&t=5)** So if you want to get more information, just pause the video, and you can download these whitepapers.
 >
-> **[0:12](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/review-applied-cloud-quantum-computing-ml?u=76281980&t=12)** I want to call your attention in this quantum machine learning section of the course, to page 14 of D-Wave's whitepaper Practical Quantum Computing, an Update.
+> **[0:12](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/review-applied-cloud-quantum-computing-ml?u=76281980&t=12)** I want to call your attention in this quantum machine learning section of the course, to page 14 of D-Wave's whitepaper Practical [[Quantum Computing]], an Update.
 >
 > **[0:23](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/review-applied-cloud-quantum-computing-ml?u=76281980&t=23)** So this is using the method of creating qubits that D-Wave uses, which is quantum annealing.
 >
@@ -2584,9 +2555,9 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/review-applied-cloud-quantum-computing-ml?u=76281980&t=195)** So in the conclusion, it's really interesting.
 >
-> **[3:18](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/review-applied-cloud-quantum-computing-ml?u=76281980&t=198)** We've demonstrated the efficacy of QCNN to detect breast cancer cells, using the proposed algorithms.
+> **[3:18](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/review-applied-cloud-quantum-computing-ml?u=76281980&t=198)** We've demonstrated the efficacy of QCNN to detect breast cancer cells, using the proposed [[Algorithms]].
 >
-> **[3:25](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/review-applied-cloud-quantum-computing-ml?u=76281980&t=205)** we've run the circuit for different parameters and optimized it for the accurate predictions of breast cancer cell, using the techniques of deep learning and supervised learning in the quantum framework.
+> **[3:25](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/review-applied-cloud-quantum-computing-ml?u=76281980&t=205)** we've run the circuit for different parameters and optimized it for the accurate predictions of breast cancer cell, using the techniques of [[Deep Learning]] and [[Supervised Learning]] in the quantum framework.
 >
 > **[3:34](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/review-applied-cloud-quantum-computing-ml?u=76281980&t=214)** We've proposed and tested the effectiveness of the QCNN on the quantum simulator available at IBM.
 >
@@ -2610,7 +2581,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cnn (4), [[Programming]] (2), data (2), [[GitHub]] (1), [[Quantum Computing]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[Quantum Computing]] (1), [[Algorithms]] (1), [[Deep Learning]] (1), [[Supervised Learning]] (1)
 > **Env Vars:** cnn (4), qcnn (4), ibm (3), nest (1), qsam (1)
 > **UI Navigation:** scroll down (2)
 > **CLI Commands:** composer (1)
@@ -2624,8 +2595,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning more about cloud quantum computing
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/learning-more-about-cloud-quantum-computing?u=76281980)
+#### [Learning more about cloud quantum computing](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/learning-more-about-cloud-quantum-computing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2639,23 +2609,23 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/learning-more-about-cloud-quantum-computing?u=76281980&t=34)** We also looked at some of the reference programs, like Shor's algorithm and others.
 >
-> **[0:41](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/learning-more-about-cloud-quantum-computing?u=76281980&t=41)** You'll see these across many of the examples, and gaining familiarity with these basic operations and algorithms is a key goal.
+> **[0:41](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/learning-more-about-cloud-quantum-computing?u=76281980&t=41)** You'll see these across many of the examples, and gaining familiarity with these basic operations and [[Algorithms]] is a key goal.
 >
-> **[0:50](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/learning-more-about-cloud-quantum-computing?u=76281980&t=50)** In addition, many people need to add to their existing math skills, around math topics that quantum computing implements.
+> **[0:50](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/learning-more-about-cloud-quantum-computing?u=76281980&t=50)** In addition, many people need to add to their existing math skills, around math topics that [[Quantum Computing]] implements.
 >
-> **[0:59](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/learning-more-about-cloud-quantum-computing?u=76281980&t=59)** Linear algebra, probability, and abstract algebra.
+> **[0:59](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/learning-more-about-cloud-quantum-computing?u=76281980&t=59)** [[Linear Algebra]], [[Probability]], and abstract algebra.
 >
 > **[1:03](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/learning-more-about-cloud-quantum-computing?u=76281980&t=63)** Also, it's important to understand through reference examples where quantum programming has made an impact with customers.
 >
 > **[1:12](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/learning-more-about-cloud-quantum-computing?u=76281980&t=72)** And I'm continuing to collect white paper examples, and I'll share that location with you in just a second.
 >
-> **[1:20](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/learning-more-about-cloud-quantum-computing?u=76281980&t=80)** As we've seen in this course, all of the major cloud vendors, IBM, Microsoft Azure, Amazon, and Google, are building services and sometimes even quantum computers themselves, in this space.
+> **[1:20](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/learning-more-about-cloud-quantum-computing?u=76281980&t=80)** As we've seen in this course, all of the major cloud vendors, IBM, [[Microsoft Azure]], Amazon, and [[Google]], are building services and sometimes even quantum computers themselves, in this space.
 >
 > **[1:34](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/learning-more-about-cloud-quantum-computing?u=76281980&t=94)** As of the time of this recording, I find that the IBM quantum offering is most complete in terms of the language, tools, and examples.
 >
 > **[1:43](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/learning-more-about-cloud-quantum-computing?u=76281980&t=103)** However, the other vendors are working really, really hard to add to their offerings.
 >
-> **[1:49](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/learning-more-about-cloud-quantum-computing?u=76281980&t=109)** So at this recording, Microsoft has Q#, along with some capability to run Q# via Python additions and Jupyter Notebooks.
+> **[1:49](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/learning-more-about-cloud-quantum-computing?u=76281980&t=109)** So at this recording, [[Microsoft]] has Q#, along with some capability to run Q# via [[Python (Programming Language)|Python]] additions and Jupyter Notebooks.
 >
 > **[1:59](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/learning-more-about-cloud-quantum-computing?u=76281980&t=119)** Amazon has Amazon Braket Service with the associated Pythonic libraries for quantum, and they have integration with the PennyLane Machine Learning Quantum Library.
 >
@@ -2665,7 +2635,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/learning-more-about-cloud-quantum-computing?u=76281980&t=143)** So their focusing also on machine learning applications.
 >
-> **[2:27](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/learning-more-about-cloud-quantum-computing?u=76281980&t=147)** As we've been talking about through this course, because this topic is very dynamic, I have many resources which are included in this course, and well beyond on my GitHub, the GitHub learning quantum.
+> **[2:27](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/learning-more-about-cloud-quantum-computing?u=76281980&t=147)** As we've been talking about through this course, because this topic is very dynamic, I have many resources which are included in this course, and well beyond on my [[GitHub]], the GitHub learning quantum.
 >
 > **[2:42](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/learning-more-about-cloud-quantum-computing?u=76281980&t=162)** And again, just to remind you, you can see that the folder organization is as this course laid out.
 >
@@ -2687,7 +2657,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), [[Programming]] (4), [[Google]] (2), [[GitHub]] (2), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[GitHub]] (2), [[Algorithms]] (1), [[Quantum Computing]] (1), [[Linear Algebra]] (1)
 > **Env Vars:** ibm (2), cnot (1), qft (1)
 > **Tools:** github (2), jupyter (1)
 > **Definitions:** is a  (3)

@@ -89,16 +89,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Healthcare and data science
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/healthcare-and-data-science-29600863?u=76281980)
+#### [Healthcare and data science](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/healthcare-and-data-science-29600863?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/healthcare-and-data-science-29600863?u=76281980&t=0)** - [Barton] There's more to data science than categorizing spam emails.
+> **[0:00](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/healthcare-and-data-science-29600863?u=76281980&t=0)** - [Barton] There's more to [[Data Science]] than categorizing spam emails.
 >
 > **[0:04](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/healthcare-and-data-science-29600863?u=76281980&t=4)** In fact, data science is an enormously powerful set of tools in the life and death matters of health and medicine.
 >
-> **[0:12](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/healthcare-and-data-science-29600863?u=76281980&t=12)** I'm Barton Poulson, and in this course, we'll take a non-technical, conceptually oriented look at how data science can be effectively used in the field of healthcare, medicine, and public health.
+> **[0:12](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/healthcare-and-data-science-29600863?u=76281980&t=12)** I'm Barton Poulson, and in this course, we'll take a non-technical, conceptually oriented look at how data science can be effectively used in the field of healthcare, medicine, and [[Public Health]].
 >
 > **[0:22](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/healthcare-and-data-science-29600863?u=76281980&t=22)** We'll explore the ways that the principles and practices of data science can be used to help healthcare professionals predict risks for illnesses and epidemics, take proactive and preventive measures, better understand the nature of illness, and develop exciting new ways to treat diseases.
 >
@@ -114,7 +113,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Public Health]] (2)
+> **Frameworks & Libraries:** [[Data Science]] (7), [[Public Health]] (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** covid (1)
 > **Definitions:** is a  (1)
@@ -125,12 +124,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data science and COVID-19
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-science-and-covid-19?u=76281980)
+#### [Data science and COVID-19](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-science-and-covid-19?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-science-and-covid-19?u=76281980&t=0)** - [Instructor] Now, one of the challenges about talking about data science and how it connects to healthcare and medicine and public health at this point in time is that you simply can't do it without prominently addressing right up front COVID-19 and the global pandemic that resulted.
+> **[0:00](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-science-and-covid-19?u=76281980&t=0)** - [Instructor] Now, one of the challenges about talking about [[Data Science]] and how it connects to healthcare and medicine and [[Public Health]] at this point in time is that you simply can't do it without prominently addressing right up front COVID-19 and the global pandemic that resulted.
 >
 > **[0:20](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-science-and-covid-19?u=76281980&t=20)** The reason for that is, as everybody who has lived through it and that's everybody, COVID has impacted pretty much everything everywhere and, as it turns out, that data science is no exception to this.
 >
@@ -160,7 +158,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-science-and-covid-19?u=76281980&t=120)** Also, people became more aware of the tracking that is done passively on them.
 >
-> **[2:05](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-science-and-covid-19?u=76281980&t=125)** It's been going on for years and they may have had some idea of it, but because tracking became so important to monitoring the disease and warning people when they've been exposed, people became more keenly, explicitly aware of tracking in cell phones, in social media and other forms of technology.
+> **[2:05](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-science-and-covid-19?u=76281980&t=125)** It's been going on for years and they may have had some idea of it, but because tracking became so important to monitoring the disease and warning people when they've been exposed, people became more keenly, explicitly aware of tracking in cell phones, in social media and other [[Forms]] of technology.
 >
 > **[2:25](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-science-and-covid-19?u=76281980&t=145)** And then finally there was the development of COVID-related apps, that things that allowed you to do some kind of self-diagnosis, find out where you could get tested, qualifying for tests, getting your test results, doing contact tracing, having your vaccine passport and so on.
 >
@@ -180,11 +178,11 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-science-and-covid-19?u=76281980&t=193)** Say, you're in restaurants or hospitality.
 >
-> **[3:16](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-science-and-covid-19?u=76281980&t=196)** You are going to have people developing their own models in your company of how COVID is affecting your business and how you can best react to it.
+> **[3:16](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-science-and-covid-19?u=76281980&t=196)** You are going to have people developing their own models in your company of how COVID is affecting your business and how you can best [[React.js|react]] to it.
 >
 > **[3:25](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-science-and-covid-19?u=76281980&t=205)** Next is disrupted analyses.
 >
-> **[3:27](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-science-and-covid-19?u=76281980&t=207)** One of the most interesting results of this is because the pandemic created such a different data environment from anything else that in recent history, it meant that predictive models that developed using a whole host of machine learning algorithms before the pandemic were no longer valid.
+> **[3:27](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-science-and-covid-19?u=76281980&t=207)** One of the most interesting results of this is because the pandemic created such a different data environment from anything else that in recent history, it meant that predictive models that developed using a whole host of machine learning [[Algorithms]] before the pandemic were no longer valid.
 >
 > **[3:45](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-science-and-covid-19?u=76281980&t=225)** They couldn't adapt necessarily to the new circumstances.
 >
@@ -250,11 +248,11 @@ created: 2026-05-02
 >
 > **[7:20](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-science-and-covid-19?u=76281980&t=440)** Now I'm going to specifically focus on the health-related elements of data science and how it relates to things like the pandemic and other diseases and other health issues.
 >
-> **[7:32](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-science-and-covid-19?u=76281980&t=452)** But I want to address that major issue, the elephant in the room, about the pandemic before we move on to any of the rest of this to give you an idea of the context in which the recent developments in data science and health have taken place.
+> **[7:32](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-science-and-covid-19?u=76281980&t=452)** But I want to address that major issue, the elephant in the room, about the pandemic before we move on to any of the [[Representational State Transfer (REST)|rest]] of this to give you an idea of the context in which the recent developments in data science and health have taken place.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Public Health]] (1), [[Forms]] (1), business (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (10), [[Public Health]] (1), [[Forms]] (1), [[React.js|React]] (1), [[Algorithms]] (1)
 > **Env Vars:** covid (11)
 > **Analogies:** for instance (5)
 > **CLI Commands:** find (2)
@@ -266,8 +264,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Shared history of health and data visualization
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/shared-history-of-health-and-data-visualization?u=76281980)
+#### [Shared history of health and data visualization](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/shared-history-of-health-and-data-visualization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -275,7 +272,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/shared-history-of-health-and-data-visualization?u=76281980&t=10)** And there's two people I want to introduce to you, although, you're probably familiar with both of 'em already.
 >
-> **[0:16](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/shared-history-of-health-and-data-visualization?u=76281980&t=16)** One is John Snow and the other is Florence Nightingale, both from England in the 1800s.
+> **[0:16](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/shared-history-of-health-and-data-visualization?u=76281980&t=16)** One is [[John the Ripper|John]] Snow and the other is Florence Nightingale, both from England in the 1800s.
 >
 > **[0:23](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/shared-history-of-health-and-data-visualization?u=76281980&t=23)** First off, John Snow.
 >
@@ -291,7 +288,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/shared-history-of-health-and-data-visualization?u=76281980&t=65)** It's a map of the area where people were dying in London, and he put a little mark for each person who died in their physical location.
 >
-> **[1:14](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/shared-history-of-health-and-data-visualization?u=76281980&t=74)** Let's zoom in on that a little bit.
+> **[1:14](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/shared-history-of-health-and-data-visualization?u=76281980&t=74)** Let's [[Zoom]] in on that a little bit.
 >
 > **[1:17](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/shared-history-of-health-and-data-visualization?u=76281980&t=77)** And what you see here is right in the middle is BROAD STREET and you see an awful lot of black lines representing a lot of deaths right there.
 >
@@ -325,28 +322,27 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/shared-history-of-health-and-data-visualization?u=76281980&t=210)** And her work was a substantial part of the massive improvement in life expectancy between 1874 and 1935.
 >
-> **[3:39](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/shared-history-of-health-and-data-visualization?u=76281980&t=219)** Also, she really is one of the founders of data visualization, which is a major part of data science as a way of exploring data.
+> **[3:39](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/shared-history-of-health-and-data-visualization?u=76281980&t=219)** Also, she really is one of the founders of data visualization, which is a major part of [[Data Science]] as a way of exploring data.
 >
 > **[3:47](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/shared-history-of-health-and-data-visualization?u=76281980&t=227)** In fact, the Data Visualization Society has a journal they published that is simply called "Nightingale," in honor of her contributions, tracing back primarily to this chart.
 >
-> **[3:56](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/shared-history-of-health-and-data-visualization?u=76281980&t=236)** Now, I give you this historical context of John Snow and Florence Nightingale of letting you know that the use of data driven methods, and in this case, data visualization methods, to answer questions about healthcare, medicine, and public health have a long and important history.
+> **[3:56](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/shared-history-of-health-and-data-visualization?u=76281980&t=236)** Now, I give you this historical context of John Snow and Florence Nightingale of letting you know that the use of data driven methods, and in this case, data visualization methods, to answer questions about healthcare, medicine, and [[Public Health]] have a long and important history.
 >
-> **[4:16](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/shared-history-of-health-and-data-visualization?u=76281980&t=256)** And it's in that context that the rest of our presentations take place.
+> **[4:16](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/shared-history-of-health-and-data-visualization?u=76281980&t=256)** And it's in that context that the [[Representational State Transfer (REST)|rest]] of our presentations take place.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Zoom]] (1), [[Analytics]] (1), next (1), [[Public Health]] (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (3), [[Zoom]] (1), [[Data Science]] (1), [[Public Health]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** broad (1), street (1)
 > **Definitions:** known as (1), is a  (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Measuring health and disease
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/measuring-health-and-disease?u=76281980)
+#### [Measuring health and disease](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/measuring-health-and-disease?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/measuring-health-and-disease?u=76281980&t=0)** - [Instructor] In order to do data science with health data, you first have to measure things, so you have something to work with.
+> **[0:00](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/measuring-health-and-disease?u=76281980&t=0)** - [Instructor] In order to do [[Data Science]] with health data, you first have to measure things, so you have something to work with.
 >
 > **[0:07](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/measuring-health-and-disease?u=76281980&t=7)** Now, when it comes to health data, the things that people are most familiar with are things, for instance, like maps, that show outbreaks of COVID or other diseases in their country, around the world, and the kind of statistic people are most accustomed to looking at, for instance, is mortality or death, usually expressed as the number of deaths per 100,000, and that's important because if you simply look at raw frequencies, countries with more people will always have more deaths, but they may not necessarily be more dangerous or risky places, and so it's important to make that adjustment.
 >
@@ -430,7 +426,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8)
+> **Frameworks & Libraries:** [[Data Science]] (1)
 > **Env Vars:** yld (4), gbd (4), daly (3), covid (1), haly (1)
 > **Analogies:** for instance (9), picture (2)
 > **Definitions:** is a  (5), stands for (4), is an  (1)
@@ -439,12 +435,11 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Warnings:** keep in mind (1)
 
-#### Researching diseases in populations
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/researching-diseases-in-populations?u=76281980)
+#### [Researching diseases in populations](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/researching-diseases-in-populations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/researching-diseases-in-populations?u=76281980&t=0)** - [Instructor] I mentioned in another video how in 1854 the English physician John Snow was able to pinpoint this source of London's cholera outbreak that year, and it was a public water pump on Broad Street, by charting the locations of the deaths.
+> **[0:00](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/researching-diseases-in-populations?u=76281980&t=0)** - [Instructor] I mentioned in another video how in 1854 the English physician [[John the Ripper|John]] Snow was able to pinpoint this source of London's cholera outbreak that year, and it was a public water pump on Broad Street, by charting the locations of the deaths.
 >
 > **[0:17](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/researching-diseases-in-populations?u=76281980&t=17)** This is what he showed right here.
 >
@@ -460,7 +455,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/researching-diseases-in-populations?u=76281980&t=52)** That is the earliest precursor to the modern EHRs.
 >
-> **[0:58](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/researching-diseases-in-populations?u=76281980&t=58)** Now in the United States, the federal government created the Office of the National Coordinator for Health Information Technology in 2004.
+> **[0:58](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/researching-diseases-in-populations?u=76281980&t=58)** Now in the United States, the federal government created the [[Microsoft Office|Office]] of the National Coordinator for Health Information Technology in 2004.
 >
 > **[1:07](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/researching-diseases-in-populations?u=76281980&t=67)** And at the same time, they created a goal for most Americans to have electronic health records within the next 10 years, by 2014.
 >
@@ -478,7 +473,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/researching-diseases-in-populations?u=76281980&t=125)** On the other hand, it's important to remember that because this is medical data, that research must comply with HIPAA regulations.
 >
-> **[2:12](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/researching-diseases-in-populations?u=76281980&t=132)** That's the Health Insurance Portability and Accountability Act of 1996, at least here in the United States, which places some important limits on applications or research with medical records.
+> **[2:12](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/researching-diseases-in-populations?u=76281980&t=132)** That's the Health Insurance Portability and [[Accountability]] Act of 1996, at least here in the United States, which places some important limits on applications or research with medical records.
 >
 > **[2:24](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/researching-diseases-in-populations?u=76281980&t=144)** Mostly it has to be anonymized in particular ways and it cannot be circulated.
 >
@@ -488,7 +483,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/researching-diseases-in-populations?u=76281980&t=157)** On the other hand, this didn't prevent people from getting very creative about how they get their data about health, illness, disease.
 >
-> **[2:45](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/researching-diseases-in-populations?u=76281980&t=165)** So one of the most interesting versions of this is people learning that you can get health-related information from the way that people use search engines like Google or Bing or Baidu and social media like Facebook and Twitter and Instagram.
+> **[2:45](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/researching-diseases-in-populations?u=76281980&t=165)** So one of the most interesting versions of this is people learning that you can get health-related information from the way that people use search engines like [[Google]] or Bing or Baidu and social media like Facebook and Twitter and Instagram.
 >
 > **[3:02](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/researching-diseases-in-populations?u=76281980&t=182)** Now, there are a couple of interesting things about this.
 >
@@ -560,7 +555,7 @@ created: 2026-05-02
 >
 > **[7:01](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/researching-diseases-in-populations?u=76281980&t=421)** This is a research journal and it's usually just called Philosophical Transactions A.
 >
-> **[7:07](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/researching-diseases-in-populations?u=76281980&t=427)** On January 10th of 2022, had a special issue on data science approaches to infectious disease surveillance.
+> **[7:07](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/researching-diseases-in-populations?u=76281980&t=427)** On January 10th of 2022, had a special issue on [[Data Science]] approaches to infectious disease surveillance.
 >
 > **[7:15](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/researching-diseases-in-populations?u=76281980&t=435)** It's exactly what we're talking about.
 >
@@ -568,11 +563,11 @@ created: 2026-05-02
 >
 > **[7:38](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/researching-diseases-in-populations?u=76281980&t=458)** So this is a possibility for data science to still make major, major contributions.
 >
-> **[7:43](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/researching-diseases-in-populations?u=76281980&t=463)** It turns out it's not quite as simple as waving the magic wand to Google, but there is still a gargantuan amount of data out there that can be used productively to help guide some of these public health decisions.
+> **[7:43](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/researching-diseases-in-populations?u=76281980&t=463)** It turns out it's not quite as simple as waving the magic wand to Google, but there is still a gargantuan amount of data out there that can be used productively to help guide some of these [[Public Health]] decisions.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), [[Google]] (8), [[Search]] (2), [[Microsoft Office|Office]] (1), next (1)
+> **Frameworks & Libraries:** [[Google]] (8), [[Data Science]] (2), [[John the Ripper|John]] (1), [[Microsoft Office|Office]] (1), [[Accountability]] (1)
 > **Env Vars:** ehr (1), hipaa (1), api (1), h1n1 (1), covid (1)
 > **Definitions:** is a  (3), stands for (1)
 > **Analogies:** it's like (1), for instance (1), picture (1), think of it as (1)
@@ -580,12 +575,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Genetic data and healthcare
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/genetic-data-and-healthcare?u=76281980)
+#### [Genetic data and healthcare](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/genetic-data-and-healthcare?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/genetic-data-and-healthcare?u=76281980&t=0)** - [Instructor] I've made an entire course here at LinkedIn Learning to explain that, while use of the term big data may have peaked in, oh, 2014, it's not that the term big data is now obsolete or passe.
+> **[0:00](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/genetic-data-and-healthcare?u=76281980&t=0)** - [Instructor] I've made an entire course here at [[LinkedIn]] Learning to explain that, while use of the term [[Big Data]] may have peaked in, oh, 2014, it's not that the term big data is now obsolete or passe.
 >
 > **[0:13](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/genetic-data-and-healthcare?u=76281980&t=13)** Rather, in many fields, it's now normal data.
 >
@@ -595,7 +589,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/genetic-data-and-healthcare?u=76281980&t=39)** Take 'em together and you get big data.
 >
-> **[0:42](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/genetic-data-and-healthcare?u=76281980&t=42)** Well, when it comes to data science and health, that describes genetic data perfectly.
+> **[0:42](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/genetic-data-and-healthcare?u=76281980&t=42)** Well, when it comes to [[Data Science]] and health, that describes genetic data perfectly.
 >
 > **[0:49](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/genetic-data-and-healthcare?u=76281980&t=49)** Now, at one level, DNA is really simple.
 >
@@ -615,11 +609,11 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/genetic-data-and-healthcare?u=76281980&t=120)** Because it has to go over the data many times and there's a lot of other information that's in there, it's usually around 200 gigabytes, maybe a little bit more.
 >
-> **[2:08](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/genetic-data-and-healthcare?u=76281980&t=128)** And then, as an interesting little piece of context, there is work now to use DNA or synthetic DNA as a form of data storage, and the people who are working on this say that one gram of this DNA could store over 200 petabytes.
+> **[2:08](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/genetic-data-and-healthcare?u=76281980&t=128)** And then, as an interesting little piece of context, there is work now to use DNA or synthetic DNA as a form of [[Data Storage]], and the people who are working on this say that one gram of this DNA could store over 200 petabytes.
 >
 > **[2:26](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/genetic-data-and-healthcare?u=76281980&t=146)** For people like me, that's 200 million gigabytes.
 >
-> **[2:29](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/genetic-data-and-healthcare?u=76281980&t=149)** And according to one of the principal researchers at Microsoft, Karen Strauss, that would make it possible to compress all the information on the accessible internet into a shoebox.
+> **[2:29](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/genetic-data-and-healthcare?u=76281980&t=149)** And according to one of the principal researchers at [[Microsoft]], Karen Strauss, that would make it possible to compress all the information on the accessible internet into a shoebox.
 >
 > **[2:40](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/genetic-data-and-healthcare?u=76281980&t=160)** So what that tells you is that DNA is very, very, very information dense, and that's where we get to the big data problem, but it gets even harder, because there's trying to understand the structure.
 >
@@ -631,7 +625,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/genetic-data-and-healthcare?u=76281980&t=189)** This is so hard to simply describe, and it's nearly impossible to predict how proteins are going to interact or fold, which makes the science of genetics, genomics, so, so incredibly challenging.
 >
-> **[3:26](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/genetic-data-and-healthcare?u=76281980&t=206)** But let's think about a few places where genomics has enormous promise, and where the big data that is part of it works into healthcare, medicine, and public health.
+> **[3:26](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/genetic-data-and-healthcare?u=76281980&t=206)** But let's think about a few places where genomics has enormous promise, and where the big data that is part of it works into healthcare, medicine, and [[Public Health]].
 >
 > **[3:37](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/genetic-data-and-healthcare?u=76281980&t=217)** So for instance, there's diagnosis.
 >
@@ -657,7 +651,7 @@ created: 2026-05-02
 >
 > **[5:27](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/genetic-data-and-healthcare?u=76281980&t=327)** So not only do you get the biology that goes into it, but you get a lot of the technical aspects.
 >
-> **[5:32](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/genetic-data-and-healthcare?u=76281980&t=332)** So for instance, you might learn how to work with genomics data in R or Python.
+> **[5:32](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/genetic-data-and-healthcare?u=76281980&t=332)** So for instance, you might learn how to work with genomics data in R or [[Python (Programming Language)|Python]].
 >
 > **[5:37](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/genetic-data-and-healthcare?u=76281980&t=337)** A very common choice is called Bioconductor, which is based on R, but specialized for working with the enormous complexity of genomics data.
 >
@@ -665,7 +659,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Big Data]] (7), [[LinkedIn]] (1), database (1), ai (1)
+> **Frameworks & Libraries:** [[Big Data]] (7), [[Data Science]] (6), [[LinkedIn]] (1), [[Data Storage]] (1), [[Microsoft]] (1)
 > **Env Vars:** dna (8), crispr (1), hiv (1)
 > **Analogies:** for instance (4), such as (2), it's like (1)
 > **Definitions:** is a  (2), refers to (1), stands for (1), is called (1)
@@ -677,18 +671,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Diagnosing diseases
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/diagnosing-diseases?u=76281980)
+#### [Diagnosing diseases](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/diagnosing-diseases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/diagnosing-diseases?u=76281980&t=0)** - [Instructor] After all the overwhelm that comes with trying to predict protein folding and other open ended problems, there's something comforting about coming back to the familiar data science task of classification.
+> **[0:00](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/diagnosing-diseases?u=76281980&t=0)** - [Instructor] After all the overwhelm that comes with trying to predict protein folding and other open ended problems, there's something comforting about coming back to the familiar [[Data Science]] task of classification.
 >
 > **[0:14](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/diagnosing-diseases?u=76281980&t=14)** Which box does this thing belong to?
 >
 > **[0:17](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/diagnosing-diseases?u=76281980&t=17)** Like sorting mail into mailboxes.
 >
-> **[0:20](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/diagnosing-diseases?u=76281980&t=20)** Well, machine learning algorithms are able to do amazing things in terms of classifying different kinds of data.
+> **[0:20](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/diagnosing-diseases?u=76281980&t=20)** Well, machine learning [[Algorithms]] are able to do amazing things in terms of classifying different kinds of data.
 >
 > **[0:25](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/diagnosing-diseases?u=76281980&t=25)** So for instance, images.
 >
@@ -758,7 +751,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/diagnosing-diseases?u=76281980&t=175)** Another one is what I'm just calling statistical models or model based approaches.
 >
-> **[2:59](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/diagnosing-diseases?u=76281980&t=179)** This is, for instance, where you have a whole lot of data of cases and you run say, for instance, a logistic regression model that gets a little sinusoidal curve that looks a little bit like this.
+> **[2:59](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/diagnosing-diseases?u=76281980&t=179)** This is, for instance, where you have a whole lot of data of cases and you run say, for instance, a [[Logistic Regression]] model that gets a little sinusoidal curve that looks a little bit like this.
 >
 > **[3:12](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/diagnosing-diseases?u=76281980&t=192)** And it simply looks for patterns in the symptoms that can be used to predict whether somebody has a particular disorder or not.
 >
@@ -766,7 +759,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/diagnosing-diseases?u=76281980&t=205)** If you have many different categories, it's more complicated, but you can still do these sort of linear model based approaches.
 >
-> **[3:35](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/diagnosing-diseases?u=76281980&t=215)** Or, over the last five, 10 years, we've had deep learning models coming to the forefront.
+> **[3:35](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/diagnosing-diseases?u=76281980&t=215)** Or, over the last five, 10 years, we've had [[Deep Learning]] models coming to the forefront.
 >
 > **[3:41](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/diagnosing-diseases?u=76281980&t=221)** And this is where it's much more complicated, but this is the same approach that has been so useful with things like image recognition or with translating language.
 >
@@ -792,7 +785,7 @@ created: 2026-05-02
 >
 > **[4:51](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/diagnosing-diseases?u=76281980&t=291)** It's hard to tell from where brain image, especially before it's become severely developed.
 >
-> **[4:56](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/diagnosing-diseases?u=76281980&t=296)** However, researchers have been using convolutional neural networks, which are well-adapted to visual based things, like image analysis, to predict the progression of mild cognitive impairment up to more serious Alzheimer's.
+> **[4:56](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/diagnosing-diseases?u=76281980&t=296)** However, researchers have been using [[Convolutional Neural Networks (CNN)|convolutional neural networks]], which are well-adapted to visual based things, like image analysis, to predict the progression of mild cognitive impairment up to more serious Alzheimer's.
 >
 > **[5:13](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/diagnosing-diseases?u=76281980&t=313)** Also, a place where data science methods can come in really handy is in terms of expanding resources or reach.
 >
@@ -806,9 +799,9 @@ created: 2026-05-02
 >
 > **[6:08](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/diagnosing-diseases?u=76281980&t=368)** And then the third place where these algorithms come in helpful is in getting new insights on diagnosis.
 >
-> **[6:15](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/diagnosing-diseases?u=76281980&t=375)** If there's one thing we know about neural networks, and for instance, the task of image classification, is that these algorithms look at pictures in profoundly different ways than people do, using what sometimes seems like invisible clues, or maybe even they feel irrelevant to differentiate between objects.
+> **[6:15](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/diagnosing-diseases?u=76281980&t=375)** If there's one thing we know about [[Neural Networks]], and for instance, the task of image classification, is that these algorithms look at pictures in profoundly different ways than people do, using what sometimes seems like invisible clues, or maybe even they feel irrelevant to differentiate between objects.
 >
-> **[6:34](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/diagnosing-diseases?u=76281980&t=394)** And while this approach can make their machinations kind of inscrutable, they can also lead to new insights, especially when thinking about something like text, where particular word frequencies or patterns can be predictive, for example, of certain difficult to diagnose mental illnesses.
+> **[6:34](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/diagnosing-diseases?u=76281980&t=394)** And while this approach can make their machinations kind of inscrutable, they can also lead to new insights, especially when thinking about something like text, where particular [[Microsoft Word|word]] frequencies or patterns can be predictive, for example, of certain difficult to diagnose mental illnesses.
 >
 > **[6:53](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/diagnosing-diseases?u=76281980&t=413)** So there's a lot of potential for application in terms of reading very complex multi-level data for making work more efficient and allowing professionals to provide services to more people, and giving new kinds of insights for the diagnosis of diseases and illnesses.
 >
@@ -816,7 +809,7 @@ created: 2026-05-02
 >
 > **[7:16](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/diagnosing-diseases?u=76281980&t=436)** It's not possible in this course, in this video, for me to even scratch the surface of the work being done here.
 >
-> **[7:22](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/diagnosing-diseases?u=76281980&t=442)** I imagine that for any illness you can think of, many teams are actively pursuing ways to apply data science to it from relatively simple decision trees to complex artificial neural networks.
+> **[7:22](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/diagnosing-diseases?u=76281980&t=442)** I imagine that for any illness you can think of, many teams are actively pursuing ways to apply data science to it from relatively simple [[Decision Trees]] to complex [[Artificial Neural Networks]].
 >
 > **[7:35](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/diagnosing-diseases?u=76281980&t=455)** There's tremendous promise.
 >
@@ -826,7 +819,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Algorithms]] (5), [[Logistic Regression]] (2), [[Deep Learning]] (1), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (5), [[Data Science]] (3), [[Logistic Regression]] (2), [[Deep Learning]] (1), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1)
 > **Analogies:** for instance (5), for example (4), picture (1), think of it as (1), imagine (1)
 > **CLI Commands:** make (4), find (1)
 > **Env Vars:** icd (1)
@@ -834,8 +827,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Drug (re)discovery
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/drug-re-discovery?u=76281980)
+#### [Drug (re)discovery](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/drug-re-discovery?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -877,7 +869,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/drug-re-discovery?u=76281980&t=138)** And all those numbers for drug discovery are based on the assumption that someone's actually trying to find a medication for a particular condition.
 >
-> **[2:25](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/drug-re-discovery?u=76281980&t=145)** When it comes to rare diseases, on the other hand, the financial calculus makes things much more challenging.
+> **[2:25](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/drug-re-discovery?u=76281980&t=145)** When it comes to rare diseases, on the other hand, the financial [[Calculus]] makes things much more challenging.
 >
 > **[2:30](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/drug-re-discovery?u=76281980&t=150)** In the US, the Genetic and Rare Diseases Information Center of the National Institutes of Health defines a rare disease as one that affects less than 200,000 people in the US, and that's about less than a 10th of a percent of the population.
 >
@@ -921,7 +913,7 @@ created: 2026-05-02
 >
 > **[4:38](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/drug-re-discovery?u=76281980&t=278)** And then there's this last one, AI-Enabled Discovery.
 >
-> **[4:42](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/drug-re-discovery?u=76281980&t=282)** This is where the data science approach comes in, where machine learning algorithms analyze the results of millions of automated trials.
+> **[4:42](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/drug-re-discovery?u=76281980&t=282)** This is where the [[Data Science]] approach comes in, where machine learning [[Algorithms]] analyze the results of millions of automated trials.
 >
 > **[4:51](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/drug-re-discovery?u=76281980&t=291)** These algorithms look at the cellular samples and evaluate things like their roundness, the thickness of their membrane, the shape of their mitochondria.
 >
@@ -935,7 +927,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), data (3), [[Algorithms]] (2), [[Calculus]] (1), database (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Algorithms]] (2), [[Calculus]] (1)
 > **Env Vars:** fda (6), covid (5), sars (1), mers (1), drup (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** stands for (1), is a  (1)
@@ -944,8 +936,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
 
-#### Predicting outcomes
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/predicting-outcomes?u=76281980)
+#### [Predicting outcomes](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/predicting-outcomes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -959,13 +950,13 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/predicting-outcomes?u=76281980&t=35)** Also, it's possible to predict outbreaks to some degree precision based on changes in things like the mosquito population, or if you run a medical testing lab, you'll be interested in predicting the demand for lab tests in the near and distant future to help with staffing questions.
 >
-> **[0:53](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/predicting-outcomes?u=76281980&t=53)** All of these are different forms of predictive analytics applied to questions in healthcare, medicine and public health.
+> **[0:53](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/predicting-outcomes?u=76281980&t=53)** All of these are different [[Forms]] of [[Predictive Analytics]] applied to questions in healthcare, medicine and [[Public Health]].
 >
-> **[1:02](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/predicting-outcomes?u=76281980&t=62)** Now, there are a couple of different ways of thinking about what I mean by predictive analytics or predictive modeling when applied to healthcare.
+> **[1:02](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/predicting-outcomes?u=76281980&t=62)** Now, there are a couple of different ways of thinking about what I mean by predictive analytics or [[Predictive Modeling]] when applied to healthcare.
 >
 > **[1:10](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/predicting-outcomes?u=76281980&t=70)** The first one, which seems obvious is future events.
 >
-> **[1:15](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/predicting-outcomes?u=76281980&t=75)** That is, this is the common use of prediction, saying what's going to happen in the future, or at least you're trying to use current observations to predict lightly outcomes at a later point in time with a certain probability, if certain conditions are met.
+> **[1:15](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/predicting-outcomes?u=76281980&t=75)** That is, this is the common use of prediction, saying what's going to happen in the future, or at least you're trying to use current observations to predict lightly outcomes at a later point in time with a certain [[Probability]], if certain conditions are met.
 >
 > **[1:28](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/predicting-outcomes?u=76281980&t=88)** So you might, for instance, be trying to predict disease outbreaks based on the mosquito populations I mentioned that falls into this category as does predicting imminent depressive orders based on a person's social media posts.
 >
@@ -981,7 +972,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/predicting-outcomes?u=76281980&t=140)** It's not that different from when your email system predicts, whether particular metrics is spam.
 >
-> **[2:24](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/predicting-outcomes?u=76281980&t=144)** Not looking into the future, just trying to guess how you would categorize the message if you were to read it yourself and the same thing is widely used when applying data science in the healthcare world.
+> **[2:24](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/predicting-outcomes?u=76281980&t=144)** Not looking into the future, just trying to guess how you would categorize the message if you were to read it yourself and the same thing is widely used when applying [[Data Science]] in the healthcare world.
 >
 > **[2:35](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/predicting-outcomes?u=76281980&t=155)** Another way to think about this is to ask whether time is included in the model.
 >
@@ -999,9 +990,9 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/predicting-outcomes?u=76281980&t=191)** In healthcare, it's the idea if a person has this symptom, what's the probably they also have this one or if they get this treatment, what's the probability they'll also get that one.
 >
-> **[3:20](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/predicting-outcomes?u=76281980&t=200)** You can also have decision trees and random forests, which are very useful and often easy to interpret methods of analyzing data or even neural networks in deep learning where time is not necessarily included but you're trying to simply say, how would an expert look at this the same way?
+> **[3:20](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/predicting-outcomes?u=76281980&t=200)** You can also have [[Decision Trees]] and random forests, which are very useful and often easy to interpret methods of analyzing data or even [[Neural Networks]] in [[Deep Learning]] where time is not necessarily included but you're trying to simply say, how would an expert look at this the same way?
 >
-> **[3:38](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/predicting-outcomes?u=76281980&t=218)** And then there are more traditional methods where time is included, where it's an inherent part of the method that includes time series analysis or growth curve modeling or survival analysis.
+> **[3:38](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/predicting-outcomes?u=76281980&t=218)** And then there are more traditional methods where time is included, where it's an inherent part of the method that includes [[Time Series Analysis]] or growth curve modeling or survival analysis.
 >
 > **[3:50](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/predicting-outcomes?u=76281980&t=230)** Also things like sequence mining, cross log analysis, and experimental designs, at least once it include some kind of before after or repeated measures assessment.
 >
@@ -1025,14 +1016,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Predictive Analytics]] (3), [[Probability]] (3), [[Predictive Modeling]] (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (3), [[Probability]] (3), [[Predictive Modeling]] (2), [[Forms]] (1), [[Public Health]] (1)
 > **Analogies:** for instance (3), for example (1)
 > **CLI Commands:** find (1), make (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
 
-#### Treatments and ROI
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/treatments-and-roi?u=76281980)
+#### [Treatments and ROI](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/treatments-and-roi?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1052,7 +1042,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/treatments-and-roi?u=76281980&t=52)** Similarly, when it comes to medical treatments, if two treatments are equally effective at treating a disease, most people would prefer the one that's more cost effective in addition to being medically effective.
 >
-> **[1:06](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/treatments-and-roi?u=76281980&t=66)** And this is where the concept of return on investment or ROI can be useful in healthcare, medicine and public health.
+> **[1:06](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/treatments-and-roi?u=76281980&t=66)** And this is where the concept of return on investment or ROI can be useful in healthcare, medicine and [[Public Health]].
 >
 > **[1:14](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/treatments-and-roi?u=76281980&t=74)** It's a basic idea from the business world.
 >
@@ -1072,7 +1062,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/treatments-and-roi?u=76281980&t=110)** Also, it's problematic to put dollar values on human lives and well-being so that's actually not what I'm saying here, because there are other metrics that can be used to compare the choices.
 >
-> **[2:02](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/treatments-and-roi?u=76281980&t=122)** Also, this kind of decision-making works best at the macro-level.
+> **[2:02](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/treatments-and-roi?u=76281980&t=122)** Also, this kind of [[Decision-Making]] works best at the macro-level.
 >
 > **[2:07](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/treatments-and-roi?u=76281980&t=127)** It works better for populations than for individuals who have idiosyncratic situations.
 >
@@ -1090,7 +1080,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/treatments-and-roi?u=76281980&t=176)** Or DALY, that's the disability adjusted life years.
 >
-> **[3:00](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/treatments-and-roi?u=76281980&t=180)** Again, these measures are attempts to quantify the wellness or impaired wellness of large groups as opposed to individuals, but that's also at the group level where much of the decision-making can take place.
+> **[3:00](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/treatments-and-roi?u=76281980&t=180)** Again, these measures are attempts to quantify the [[Wellness]] or impaired wellness of large groups as opposed to individuals, but that's also at the group level where much of the decision-making can take place.
 >
 > **[3:16](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/treatments-and-roi?u=76281980&t=196)** The principle of getting return on investment for health decisions is actually simple, at least in theory.
 >
@@ -1130,7 +1120,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Decision-Making]] (3), [[Wellness]] (3), [[Public Health]] (2), business (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (3), [[Wellness]] (3), [[Public Health]] (2)
 > **Env Vars:** yld (2), daly (2), roi (1)
 > **CLI Commands:** make (4)
 > **Analogies:** such as (1), for instance (1)
@@ -1143,8 +1133,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Selecting treatments and interventions
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/selecting-treatments-and-interventions?u=76281980)
+#### [Selecting treatments and interventions](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/selecting-treatments-and-interventions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1154,7 +1143,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/selecting-treatments-and-interventions?u=76281980&t=31)** But treatment selection, with all its complexity, can be seen as a form of classification where symptoms are matched to a treatment category.
 >
-> **[0:40](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/selecting-treatments-and-interventions?u=76281980&t=40)** And fortunately, classification is one of the things that data science does best.
+> **[0:40](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/selecting-treatments-and-interventions?u=76281980&t=40)** And fortunately, classification is one of the things that [[Data Science]] does best.
 >
 > **[0:46](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/selecting-treatments-and-interventions?u=76281980&t=46)** It can be helpful to think of some analogies in the data science world where complex interconnected data is used to make a specific recommendation.
 >
@@ -1194,7 +1183,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/selecting-treatments-and-interventions?u=76281980&t=177)** You have the diagnosis or maybe several diagnoses.
 >
-> **[3:01](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/selecting-treatments-and-interventions?u=76281980&t=181)** You have a list of possible treatments or interventions and for each one of them, you have the probability of recovery.
+> **[3:01](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/selecting-treatments-and-interventions?u=76281980&t=181)** You have a list of possible treatments or interventions and for each one of them, you have the [[Probability]] of recovery.
 >
 > **[3:09](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/selecting-treatments-and-interventions?u=76281980&t=189)** You also have the risks of side effects in general and for that particular person, and then you have the cost in time, in money, in stress.
 >
@@ -1208,7 +1197,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/selecting-treatments-and-interventions?u=76281980&t=227)** One, for instance, might be a decision tree, a very common method for assigning people to a particular outcome, getting the classification.
 >
-> **[3:55](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/selecting-treatments-and-interventions?u=76281980&t=235)** You can also do random forests, a ensemble of decision trees.
+> **[3:55](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/selecting-treatments-and-interventions?u=76281980&t=235)** You can also do random forests, a ensemble of [[Decision Trees]].
 >
 > **[3:59](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/selecting-treatments-and-interventions?u=76281980&t=239)** You can use a Naive Bayes model, which takes the probabilities at each point, combines them to get the expected probability of a particular outcome.
 >
@@ -1242,14 +1231,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Probability]] (3), [[Decision Trees]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (5), [[Probability]] (3), [[Decision Trees]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** for instance (3)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Individualized treatment
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/individualized-treatment?u=76281980)
+#### [Individualized treatment](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/individualized-treatment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1279,7 +1267,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/individualized-treatment?u=76281980&t=102)** It can be called personalized medicine or precision medicine, stratified medicine, or P4 medicine, where P4 stands for predictive, preventive, personalized and participatory.
 >
-> **[1:57](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/individualized-treatment?u=76281980&t=117)** The idea is that you're going to detect and prevent disease through the use of extensive biomarker testing, through close monitoring, through deep statistical analysis and through patient health coaching, really a very comprehensive approach that also involves a lot of data.
+> **[1:57](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/individualized-treatment?u=76281980&t=117)** The idea is that you're going to detect and prevent disease through the use of extensive biomarker testing, through close monitoring, through deep [[Statistical Analysis]] and through patient health coaching, really a very comprehensive approach that also involves a lot of data.
 >
 > **[2:12](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/individualized-treatment?u=76281980&t=132)** And one of the interesting places where this data can show up is in another closely related field called pharmacogenomics.
 >
@@ -1319,19 +1307,18 @@ created: 2026-05-02
 >
 > **[4:39](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/individualized-treatment?u=76281980&t=279)** But the work is progressing exponentially and shows enormous potential in terms of taking the genomic data of each individual and comparing that to medications, to selecting an approach that'll be ideally suited to that one individual.
 >
-> **[4:54](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/individualized-treatment?u=76281980&t=294)** That's the promise of data science in medicine.
+> **[4:54](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/individualized-treatment?u=76281980&t=294)** That's the promise of [[Data Science]] in medicine.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Statistical Analysis]] (1), web (1)
+> **Frameworks & Libraries:** [[Statistical Analysis]] (1), [[Data Science]] (1)
 > **Analogies:** for example (2), for instance (1)
 > **Env Vars:** covid (1), fda (1)
 > **CLI Commands:** make (1)
 > **Definitions:** stands for (1)
 > **Speakers:** - [instructor] (1)
 
-#### Robotic surgery
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/robotic-surgery?u=76281980)
+#### [Robotic surgery](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/robotic-surgery?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1353,7 +1340,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/robotic-surgery?u=76281980&t=81)** So if it's possible to do this remote from just outside the body using these scopes to get inside the body to see what's happening to manipulate things, it's not a very big jump from there to robotic surgery as we tend to think about it.
 >
-> **[1:40](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/robotic-surgery?u=76281980&t=100)** Now there's a few places where data science can be very handy with this kind of approach.
+> **[1:40](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/robotic-surgery?u=76281980&t=100)** Now there's a few places where [[Data Science]] can be very handy with this kind of approach.
 >
 > **[1:45](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/robotic-surgery?u=76281980&t=105)** One is in this simple matter of image stabilization and enhancement because you're not looking at it with your eyes, you're using a camera, and it may be shaking around.
 >
@@ -1415,7 +1402,7 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/robotic-surgery?u=76281980&t=268)** And then in terms of the science-fiction approach, there is autonomous surgery.
 >
-> **[4:33](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/robotic-surgery?u=76281980&t=273)** The idea is that with enough data, and with enough experience, algorithms can be developed that can carry out some of these procedures entirely on their own.
+> **[4:33](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/robotic-surgery?u=76281980&t=273)** The idea is that with enough data, and with enough experience, [[Algorithms]] can be developed that can carry out some of these procedures entirely on their own.
 >
 > **[4:41](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/robotic-surgery?u=76281980&t=281)** Again, it's what we see in the movies.
 >
@@ -1431,14 +1418,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Algorithms]] (1)
 > **Definitions:** is an  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### 3D printing and healthcare
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/3d-printing-and-healthcare?u=76281980)
+#### [3D printing and healthcare](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/3d-printing-and-healthcare?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1492,21 +1478,20 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/3d-printing-and-healthcare?u=76281980&t=206)** So for example, 3D printing was used to create a prototype inhaler, with a dramatic reduction in both production time, about an 80% reduction, and cost, about a 90% reduction.
 >
-> **[3:39](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/3d-printing-and-healthcare?u=76281980&t=219)** These are health problems that many, many people face, where 3D printing, and the data science that goes into both the measurement, and the design, and the production can be used to solve these daily, and sometimes enormous problems that people are facing.
+> **[3:39](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/3d-printing-and-healthcare?u=76281980&t=219)** These are health problems that many, many people face, where 3D printing, and the [[Data Science]] that goes into both the measurement, and the design, and the production can be used to solve these daily, and sometimes enormous problems that people are facing.
 >
 > **[3:56](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/3d-printing-and-healthcare?u=76281980&t=236)** There's potential in the future for even more revolutionary things, but even with the practical applications we have right now, so much can be done to make people's lives better, and that's one of the best uses of the technology that we have in data science, and in 3D printing.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4)
+> **Frameworks & Libraries:** [[Data Science]] (2)
 > **Analogies:** for instance (2), it's like (1), such as (1), for example (1)
 > **Definitions:** is a  (2), is an  (1), means that (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Virtual reality in healthcare
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/virtual-reality-in-healthcare?u=76281980)
+#### [Virtual reality in healthcare](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/virtual-reality-in-healthcare?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1518,7 +1503,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/virtual-reality-in-healthcare?u=76281980&t=18)** And then you go on this little skinny trail to get to this 360 overlook, and you may not be able to tell in this photo, but there are people on this trail.
 >
-> **[0:27](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/virtual-reality-in-healthcare?u=76281980&t=27)** So let's zoom in a little bit and you can see that there is a chain and there's some people walking next to it.
+> **[0:27](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/virtual-reality-in-healthcare?u=76281980&t=27)** So let's [[Zoom]] in a little bit and you can see that there is a chain and there's some people walking next to it.
 >
 > **[0:33](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/virtual-reality-in-healthcare?u=76281980&t=33)** And you can see right at the bottom, that trail is a foot or so wide.
 >
@@ -1564,7 +1549,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/virtual-reality-in-healthcare?u=76281980&t=124)** You can have them put on the VR goggles and see what it would be like to be in a high place, or even just a video game image of a person in a high place or things like fear of spiders and mice.
 >
-> **[2:14](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/virtual-reality-in-healthcare?u=76281980&t=134)** One of the more interesting applications has been the treatment of post traumatic stress disorder, PTSD for veterans, by putting them into a video game simulation of the situation that provokes the PTSD response.
+> **[2:14](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/virtual-reality-in-healthcare?u=76281980&t=134)** One of the more interesting applications has been the treatment of post traumatic stress disorder, PTSD for veterans, by putting them into a video game [[Simulation]] of the situation that provokes the PTSD response.
 >
 > **[2:29](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/virtual-reality-in-healthcare?u=76281980&t=149)** And by gradually allowing them to experience it in a situation where they know they are physically not going to get hurt, but it can help them recover from some of the trauma of those episodes.
 >
@@ -1580,7 +1565,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/virtual-reality-in-healthcare?u=76281980&t=205)** Another really interesting one is helping healthcare providers and really anybody who has to deal with somebody who has an illness, helping them develop empathy.
 >
-> **[3:36](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/virtual-reality-in-healthcare?u=76281980&t=216)** So by putting on the VR goggles, you can start to see what it's like to have symptoms of traumatic brain injuries, to have physical limitations, to experience some forms of dementia.
+> **[3:36](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/virtual-reality-in-healthcare?u=76281980&t=216)** So by putting on the VR goggles, you can start to see what it's like to have symptoms of traumatic brain injuries, to have physical limitations, to experience some [[Forms]] of dementia.
 >
 > **[3:46](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/virtual-reality-in-healthcare?u=76281980&t=226)** And by getting a better first person view of some of these limitations, the people who live with these people, the people who take care of them can get a better understanding of what they're dealing with and that can inform their care.
 >
@@ -1602,19 +1587,18 @@ created: 2026-05-02
 >
 > **[5:05](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/virtual-reality-in-healthcare?u=76281980&t=305)** And so when taken with things like the safe contained version of exposure therapy, the ability to experience stressful situations, or try to experience a social reality that you might not be able to otherwise or developing empathy for others.
 >
-> **[5:21](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/virtual-reality-in-healthcare?u=76281980&t=321)** All of these are interesting applications of virtual reality within healthcare and things that data science can help improve and expand and make more useful to healthcare providers around the world.
+> **[5:21](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/virtual-reality-in-healthcare?u=76281980&t=321)** All of these are interesting applications of virtual reality within healthcare and things that [[Data Science]] can help improve and expand and make more useful to healthcare providers around the world.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (2), data (2), [[Zoom]] (1), next (1), traffic (1)
+> **Frameworks & Libraries:** [[Zoom]] (1), [[Simulation]] (1), [[Forms]] (1), [[Data Science]] (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Analogies:** for instance (2), for example (1), it's like (1)
 > **Env Vars:** ptsd (2), mri (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Telemedicine
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/telemedicine?u=76281980)
+#### [Telemedicine](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/telemedicine?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1622,7 +1606,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/telemedicine?u=76281980&t=2)** And when the pandemic canceled in-person classes for everyone, everywhere back in 2020, the transition was an easy one for me.
 >
-> **[0:11](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/telemedicine?u=76281980&t=11)** I was already teaching several online sections of statistics and the class was already up and running smoothly.
+> **[0:11](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/telemedicine?u=76281980&t=11)** I was already teaching several online sections of [[Statistics]] and the class was already up and running smoothly.
 >
 > **[0:17](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/telemedicine?u=76281980&t=17)** So I've been teaching online exclusively for the past two years and I'M set to continue that way for the foreseeable future.
 >
@@ -1634,7 +1618,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/telemedicine?u=76281980&t=45)** And it was a major challenge that required an enormous amount of creativity.
 >
-> **[0:50](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/telemedicine?u=76281980&t=50)** Now, outside of school, as we all know, similar changes happened in the medical world where some estimate that 10 or even 20 years of progress in telehealth or the provision of healthcare remotely by means of telecommunications technology was made in a single year.
+> **[0:50](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/telemedicine?u=76281980&t=50)** Now, outside of school, as we all know, similar changes happened in the medical world where some estimate that 10 or even 20 years of progress in telehealth or the provision of healthcare remotely by means of [[Telecommunications]] technology was made in a single year.
 >
 > **[1:07](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/telemedicine?u=76281980&t=67)** In fact, according to research by McKinsey & Company, telehealth utilization has stabilized at levels 38 times higher than before the pandemic, not 38% higher, 38 times or 3800% higher.
 >
@@ -1660,7 +1644,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/telemedicine?u=76281980&t=152)** Some things are pretty easy.
 >
-> **[2:34](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/telemedicine?u=76281980&t=154)** There's also virtual office visits.
+> **[2:34](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/telemedicine?u=76281980&t=154)** There's also virtual [[Microsoft Office|office]] visits.
 >
 > **[2:36](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/telemedicine?u=76281980&t=156)** So this is regular scheduled things.
 >
@@ -1680,7 +1664,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/telemedicine?u=76281980&t=214)** And so all of these are different ways that elements of healthcare can be delivered through telehealth.
 >
-> **[3:40](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/telemedicine?u=76281980&t=220)** Now, because we're talking about data science and healthcare, let's think about where data science comes into this.
+> **[3:40](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/telemedicine?u=76281980&t=220)** Now, because we're talking about [[Data Science]] and healthcare, let's think about where data science comes into this.
 >
 > **[3:46](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/telemedicine?u=76281980&t=226)** Number one is secure online visits.
 >
@@ -1700,7 +1684,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft Office|Office]] (2), [[Statistics]] (1), [[Telecommunications]] (1), hit (1)
+> **Frameworks & Libraries:** [[Data Science]] (4), [[Microsoft Office|Office]] (2), [[Statistics]] (1), [[Telecommunications]] (1)
 > **Analogies:** for instance (3), picture (2), for example (1)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** ipad (1)
@@ -1713,8 +1697,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Wearables and health monitoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/wearables-and-health-monitoring?u=76281980)
+#### [Wearables and health monitoring](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/wearables-and-health-monitoring?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1726,9 +1709,9 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/wearables-and-health-monitoring?u=76281980&t=36)** Now this idea of uploading your activity and making the data available for you and others is one example of what people call the quantified self.
 >
-> **[0:45](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/wearables-and-health-monitoring?u=76281980&t=45)** That's one of the ways that you can record data about yourself, including your activity like exercise, but also your vital statistics, your overall health, and a host of other things.
+> **[0:45](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/wearables-and-health-monitoring?u=76281980&t=45)** That's one of the ways that you can record data about yourself, including your activity like exercise, but also your vital [[Statistics]], your overall health, and a host of other things.
 >
-> **[0:54](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/wearables-and-health-monitoring?u=76281980&t=54)** And in the intersecting worlds of data science and healthcare, the quantified self is made easier and much richer through the use of wearables and personal health monitoring devices.
+> **[0:54](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/wearables-and-health-monitoring?u=76281980&t=54)** And in the intersecting worlds of [[Data Science]] and healthcare, the quantified self is made easier and much richer through the use of wearables and personal health monitoring devices.
 >
 > **[1:07](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/wearables-and-health-monitoring?u=76281980&t=67)** So if you want to step back in time just a little bit, we can go to old school pedometers, which you click on your belt and then kind of go click, click, click to measure the number of steps you take.
 >
@@ -1760,7 +1743,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/wearables-and-health-monitoring?u=76281980&t=167)** So the device your monitor takes some of the basic information.
 >
-> **[2:51](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/wearables-and-health-monitoring?u=76281980&t=171)** And then by using some of its algorithms, it concludes that other things are happening.
+> **[2:51](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/wearables-and-health-monitoring?u=76281980&t=171)** And then by using some of its [[Algorithms]], it concludes that other things are happening.
 >
 > **[2:56](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/wearables-and-health-monitoring?u=76281980&t=176)** Like for instance, whether you're possibly experiencing some symptoms of COVID-19, having to do with oxygen levels and heart rate.
 >
@@ -1798,7 +1781,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Statistics]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Statistics]] (1), [[Algorithms]] (1)
 > **Analogies:** for instance (3), it's like (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Definitions:** is a  (2)
@@ -1806,8 +1789,7 @@ created: 2026-05-02
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [narrator] (1)
 
-#### Self-serve healthcare
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/self-serve-healthcare?u=76281980)
+#### [Self-serve healthcare](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/self-serve-healthcare?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1877,9 +1859,9 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/self-serve-healthcare?u=76281980&t=223)** Self-service systems make it easier to gather and to use data from patients.
 >
-> **[3:48](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/self-serve-healthcare?u=76281980&t=228)** In fact, patient reported outcomes, also known as PROs, are considered the gold standard in data collection and using digital services makes it much, much easier to share that data accurately in a timely manner.
+> **[3:48](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/self-serve-healthcare?u=76281980&t=228)** In fact, patient reported outcomes, also known as PROs, are considered the gold standard in [[Data Collection]] and using digital services makes it much, much easier to share that data accurately in a timely manner.
 >
-> **[4:02](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/self-serve-healthcare?u=76281980&t=242)** I have to admit, I'm horrified when I go to the doctor's office and I have to fill out a paper form because first off, I feel like I filled out the form about a million times already.
+> **[4:02](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/self-serve-healthcare?u=76281980&t=242)** I have to admit, I'm horrified when I go to the doctor's [[Microsoft Office|office]] and I have to fill out a paper form because first off, I feel like I filled out the form about a million times already.
 >
 > **[4:12](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/self-serve-healthcare?u=76281980&t=252)** And second, I don't know how that paper form is going to get translated and processed and sent to the doctor before I see them or heaven forbid create tons of work afterwards for other people.
 >
@@ -1901,7 +1883,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft Office|Office]] (1), business (1)
+> **Frameworks & Libraries:** [[Data Collection]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (8), find (1)
 > **Definitions:** is a  (3), known as (1)
 > **UI Navigation:** go to (2), select the (1)
@@ -1910,8 +1892,7 @@ created: 2026-05-02
 > **Env Vars:** nrc (1)
 > **Speakers:** - [narrator] (1)
 
-#### Patient experience
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/patient-experience?u=76281980)
+#### [Patient experience](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/patient-experience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2077,7 +2058,7 @@ created: 2026-05-02
 >
 > **[6:21](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/patient-experience?u=76281980&t=381)** So they don't have to walk really far if they're hurting or in a hurry.
 >
-> **[6:26](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/patient-experience?u=76281980&t=386)** Also, where to enter the building, how to find your office in the labs, anything you can do to reduce that sense of feeling like I've messed up or I'm late, or it really hurts for me to walk, I wish I didn't have to go back and forth, is going to make the patient's life easier.
+> **[6:26](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/patient-experience?u=76281980&t=386)** Also, where to enter the building, how to find your [[Microsoft Office|office]] in the labs, anything you can do to reduce that sense of feeling like I've messed up or I'm late, or it really hurts for me to walk, I wish I didn't have to go back and forth, is going to make the patient's life easier.
 >
 > **[6:42](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/patient-experience?u=76281980&t=402)** And then if the patient's going to be there for any amount of time, or if they're waiting for somebody who is getting an MRI or something, let them know where they can get some snacks.
 >
@@ -2089,7 +2070,7 @@ created: 2026-05-02
 >
 > **[6:58](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/patient-experience?u=76281980&t=418)** This is pretty easy stuff, but is designed to make the experience less painful, more pleasant for the patient and for anybody who's coming with them.
 >
-> **[7:08](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/patient-experience?u=76281980&t=428)** Now, specifically, in terms of how data science works into this, well, it can be involved in an awful lot of these steps, from reducing the need for repetitive forms, I mean, I really like to think that if I fill out an outcome questionnaire once, I'm not going to have to do it again for somebody else the next day.
+> **[7:08](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/patient-experience?u=76281980&t=428)** Now, specifically, in terms of how [[Data Science]] works into this, well, it can be involved in an awful lot of these steps, from reducing the need for repetitive [[Forms]], I mean, I really like to think that if I fill out an outcome questionnaire once, I'm not going to have to do it again for somebody else the next day.
 >
 > **[7:23](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/patient-experience?u=76281980&t=443)** It should be in the system, to giving medical providers more efficient summaries, so they can focus on their patients.
 >
@@ -2103,7 +2084,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), management (2), [[Microsoft Office|Office]] (1), [[Forms]] (1), next (1)
+> **Frameworks & Libraries:** [[Data Science]] (3), [[Microsoft Office|Office]] (1), [[Forms]] (1)
 > **CLI Commands:** make (10), find (2)
 > **Env Vars:** cahps (1), ahrq (1), mri (1)
 > **Definitions:** is a  (2), stands for (1)
@@ -2115,8 +2096,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Administrative burden for doctors and staff
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/administrative-burden-for-doctors-and-staff?u=76281980)
+#### [Administrative burden for doctors and staff](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/administrative-burden-for-doctors-and-staff?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2152,9 +2132,9 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/administrative-burden-for-doctors-and-staff?u=76281980&t=123)** And from the patient side, 24% of patients have reported that they have delayed or even foregone medical care as a result of their own burden, the extra paperwork, and really just the pain that surrounds the whole process.
 >
-> **[2:20](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/administrative-burden-for-doctors-and-staff?u=76281980&t=140)** Fortunately, there are a few ways that data science can help with this.
+> **[2:20](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/administrative-burden-for-doctors-and-staff?u=76281980&t=140)** Fortunately, there are a few ways that [[Data Science]] can help with this.
 >
-> **[2:24](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/administrative-burden-for-doctors-and-staff?u=76281980&t=144)** Number one is secure data sharing.
+> **[2:24](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/administrative-burden-for-doctors-and-staff?u=76281980&t=144)** Number one is secure [[Data Sharing]].
 >
 > **[2:27](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/administrative-burden-for-doctors-and-staff?u=76281980&t=147)** Now the reason offices use fax is because it's harder to share data.
 >
@@ -2162,17 +2142,17 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/administrative-burden-for-doctors-and-staff?u=76281980&t=159)** So faxes actually have an advantage of being harder to share, but on the other hand, there have been developments in the last 40 years with better ways to share data between health providers and to integrate the data from multiple systems and generally make the system less of a horrifying maze.
 >
-> **[3:00](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/administrative-burden-for-doctors-and-staff?u=76281980&t=180)** Also, data science is good at natural language processing, or NLP.
+> **[3:00](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/administrative-burden-for-doctors-and-staff?u=76281980&t=180)** Also, data science is good at [[Natural Language Processing (NLP)|natural language processing]], or NLP.
 >
 > **[3:05](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/administrative-burden-for-doctors-and-staff?u=76281980&t=185)** Medical professionals spend an inordinate amount of time transcribing notes and data.
 >
-> **[3:10](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/administrative-burden-for-doctors-and-staff?u=76281980&t=190)** That's part of the accountability and transparency, which everybody agrees is a good thing in principle.
+> **[3:10](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/administrative-burden-for-doctors-and-staff?u=76281980&t=190)** That's part of the [[Accountability]] and transparency, which everybody agrees is a good thing in principle.
 >
 > **[3:16](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/administrative-burden-for-doctors-and-staff?u=76281980&t=196)** But anything that can make that process easier, less time consuming, less stressful, is going to be good.
 >
-> **[3:22](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/administrative-burden-for-doctors-and-staff?u=76281980&t=202)** Ideally, it would be integrated into their caregiving activities so they don't have to then go find a dark corner of the office for an hour a day trying to recreate everything that happened for the record keeping process.
+> **[3:22](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/administrative-burden-for-doctors-and-staff?u=76281980&t=202)** Ideally, it would be integrated into their caregiving activities so they don't have to then go find a dark corner of the [[Microsoft Office|office]] for an hour a day trying to recreate everything that happened for the record keeping process.
 >
-> **[3:34](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/administrative-burden-for-doctors-and-staff?u=76281980&t=214)** And then unstructured data analysis, the ability to analyze unstructured data.
+> **[3:34](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/administrative-burden-for-doctors-and-staff?u=76281980&t=214)** And then [[Unstructured Data]] analysis, the ability to analyze unstructured data.
 >
 > **[3:40](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/administrative-burden-for-doctors-and-staff?u=76281980&t=220)** That means data that's not in the nice rows and columns of a spreadsheet or a database.
 >
@@ -2186,7 +2166,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Unstructured Data]] (4), [[Natural Language Processing (NLP)|Natural language processing]] (2), hit (1), nlp (1)
+> **Frameworks & Libraries:** [[Data Science]] (4), [[Unstructured Data]] (4), [[Data Sharing]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Accountability]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** nlp (1)
@@ -2194,12 +2174,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Blockchain and medical data
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/blockchain-and-medical-data?u=76281980)
+#### [Blockchain and medical data](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/blockchain-and-medical-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/blockchain-and-medical-data?u=76281980&t=0)** - [Instructor] Given that this course is about data science and how it can be used in healthcare, it seems important to talk about the potential of blockchain in healthcare, but the keyword there is potential.
+> **[0:00](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/blockchain-and-medical-data?u=76281980&t=0)** - [Instructor] Given that this course is about [[Data Science]] and how it can be used in healthcare, it seems important to talk about the potential of [[Blockchain]] in healthcare, but the keyword there is potential.
 >
 > **[0:12](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/blockchain-and-medical-data?u=76281980&t=12)** The reason for that is that most of the arguments about blockchain used in healthcare are still at the theoretical or very early research stages.
 >
@@ -2255,7 +2234,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/blockchain-and-medical-data?u=76281980&t=204)** I mean the term blockchain is an umbrella term for a host of related technologies.
 >
-> **[3:29](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/blockchain-and-medical-data?u=76281980&t=209)** In healthcare, for example, researchers are currently exploring several different forms from permission to blockchains and off-chain storage to tethered blockchains.
+> **[3:29](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/blockchain-and-medical-data?u=76281980&t=209)** In healthcare, for example, researchers are currently exploring several different [[Forms]] from permission to blockchains and off-chain storage to tethered blockchains.
 >
 > **[3:40](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/blockchain-and-medical-data?u=76281980&t=220)** There's a lot of active work being done.
 >
@@ -2273,7 +2252,7 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/blockchain-and-medical-data?u=76281980&t=256)** So once something's in the blockchain, it can't be changed.
 >
-> **[4:19](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/blockchain-and-medical-data?u=76281980&t=259)** Well, that's often a very good thing, but if there's a mistake or if there is a violation of privacy that's built into the blockchain, well, we potentially have some issues.
+> **[4:19](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/blockchain-and-medical-data?u=76281980&t=259)** Well, that's often a very good thing, but if there's a mistake or if there is a violation of [[Privacy]] that's built into the blockchain, well, we potentially have some issues.
 >
 > **[4:27](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/blockchain-and-medical-data?u=76281980&t=267)** So it's not necessarily clear how the relevant regulations would be met.
 >
@@ -2299,21 +2278,20 @@ created: 2026-05-02
 >
 > **[5:51](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/blockchain-and-medical-data?u=76281980&t=351)** However, it's reasonable to say that as more people come to use blockchain technologies in more ways and become more familiar with it and, importantly, have positive experiences with it, it will become possible to build up the trust necessary for its full implementation in healthcare.
 >
-> **[6:11](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/blockchain-and-medical-data?u=76281980&t=371)** The paradox there is that the blockchain is actually described as zero-trust solution, which means you can verify the data and you don't have to take somebody else's word for it that it's accurate, but that's a different issue from getting people to use it in the first place.
+> **[6:11](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/blockchain-and-medical-data?u=76281980&t=371)** The paradox there is that the blockchain is actually described as zero-trust solution, which means you can verify the data and you don't have to take somebody else's [[Microsoft Word|word]] for it that it's accurate, but that's a different issue from getting people to use it in the first place.
 >
-> **[6:23](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/blockchain-and-medical-data?u=76281980&t=383)** And so this larger social issue of building trust and confidence, as well as overcoming some of these major hurdles in terms of regulation and energy usage will be important parts of solving the blockchain puzzle to see what kind of value it really is able to bring to storing healthcare records.
+> **[6:23](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/blockchain-and-medical-data?u=76281980&t=383)** And so this larger social issue of [[Building Trust]] and confidence, as well as overcoming some of these major hurdles in terms of regulation and energy usage will be important parts of solving the blockchain puzzle to see what kind of value it really is able to bring to storing healthcare records.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (22), data (10), [[Forms]] (3), application (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Blockchain]] (22), [[Forms]] (3), [[Data Science]] (1), [[Privacy]] (1), [[Microsoft Word|Word]] (1)
 > **Analogies:** for example (3), for instance (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** hipaa (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data science and health insurance
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-science-and-health-insurance?u=76281980)
+#### [Data science and health insurance](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-science-and-health-insurance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2347,7 +2325,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-science-and-health-insurance?u=76281980&t=117)** So identifying things that you shouldn't be spending money on through fraud, and avoiding that can save billions of dollars, and also identifying people at risk, and treating them sooner, while it is easier and more manageable, and the problems are less severe, is also going to, not just make that person's life a lot better, but also save a lot of money in the healthcare system.
 >
-> **[2:22](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-science-and-health-insurance?u=76281980&t=142)** So, how can data science help in insurance?
+> **[2:22](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-science-and-health-insurance?u=76281980&t=142)** So, how can [[Data Science]] help in insurance?
 >
 > **[2:25](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-science-and-health-insurance?u=76281980&t=145)** Well, here's a long list.
 >
@@ -2385,7 +2363,7 @@ created: 2026-05-02
 >
 > **[5:00](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-science-and-health-insurance?u=76281980&t=300)** And so the ability of insurance companies to build models that can identify the risk, see it coming, that's one of the great advantages of predictive models in data science, see it coming, and if you can see just a little bit further, you can do interventions to help people be healthier sooner, and at the same time dramatically, reduce the cost of the associated care.
 >
-> **[5:27](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-science-and-health-insurance?u=76281980&t=327)** Now, theoretically, insurers can use data from a wide variety of sources to better understand health risks and the probability of claims.
+> **[5:27](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-science-and-health-insurance?u=76281980&t=327)** Now, theoretically, insurers can use data from a wide variety of sources to better understand health risks and the [[Probability]] of claims.
 >
 > **[5:35](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-science-and-health-insurance?u=76281980&t=335)** They could potentially look at things like purchase history, transactional data on what you bought and where, maybe categorizing the food you bought as healthy and unhealthy, or data from wearables, smart watches, fitness trackers, other devices that monitor behaviors, and alert the wearer, or the insurance company, to early signs of illness.
 >
@@ -2393,7 +2371,7 @@ created: 2026-05-02
 >
 > **[5:56](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-science-and-health-insurance?u=76281980&t=356)** So for instance, if your smartphone's connected to a machine at the gym, that information could also be used, and then social media, when a person posts about their physical or emotional health, that is information that is publicly available, it could potentially be used.
 >
-> **[6:12](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-science-and-health-insurance?u=76281980&t=372)** Now I will note of course, that all of these bring up sort of red flags about data ethics, which is why I'm going to talk about that separately very shortly.
+> **[6:12](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-science-and-health-insurance?u=76281980&t=372)** Now I will note of course, that all of these bring up sort of red flags about [[Data Ethics]], which is why I'm going to talk about that separately very shortly.
 >
 > **[6:23](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-science-and-health-insurance?u=76281980&t=383)** But there is the issue that we know data like this is used in so many other marketing approaches.
 >
@@ -2407,7 +2385,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), ai (5), [[Probability]] (1), [[Ethics]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (5), [[Probability]] (1), [[Data Ethics]] (1)
 > **Analogies:** for instance (3)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
@@ -2418,16 +2396,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Limitations and barriers
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/limitations-and-barriers?u=76281980)
+#### [Limitations and barriers](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/limitations-and-barriers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/limitations-and-barriers?u=76281980&t=0)** - So, as wonderful as the potential for data science, machine learning, artificial intelligence, and robotics in healthcare is, it turns out that in many ways, we're still stuck in the toying around phase.
+> **[0:00](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/limitations-and-barriers?u=76281980&t=0)** - So, as wonderful as the potential for [[Data Science]], machine learning, [[Artificial Intelligence (AI)|artificial intelligence]], and robotics in healthcare is, it turns out that in many ways, we're still stuck in the toying around phase.
 >
 > **[0:15](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/limitations-and-barriers?u=76281980&t=15)** To give you an idea of why I say that, here's some data shared by the Brookings Institute in their 2022 report, "Why is AI adoption in healthcare lagging?"
 >
-> **[0:26](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/limitations-and-barriers?u=76281980&t=26)** It's an important report and it forms the basis of this video.
+> **[0:26](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/limitations-and-barriers?u=76281980&t=26)** It's an important report and it [[Forms]] the basis of this video.
 >
 > **[0:29](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/limitations-and-barriers?u=76281980&t=29)** This chart right here is based on an analysis they reported of jobs posted between 2015 and 2018 on over 40,000 online job boards and company websites, where they were specifically looking for jobs that mentioned they required AI skills.
 >
@@ -2467,19 +2444,19 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/limitations-and-barriers?u=76281980&t=130)** And I'll say a few more words about each of these, first with algorithmic limitations.
 >
-> **[2:16](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/limitations-and-barriers?u=76281980&t=136)** The trick is that so much of the really fascinating progress in data science has come through the use of black box algorithms like neural networks.
+> **[2:16](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/limitations-and-barriers?u=76281980&t=136)** The trick is that so much of the really fascinating progress in data science has come through the use of black box [[Algorithms]] like [[Neural Networks]].
 >
 > **[2:25](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/limitations-and-barriers?u=76281980&t=145)** The idea there is they're very complicated, they're very good at doing what they do, but it's really hard for a human to actually follow the data through it.
 >
-> **[2:34](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/limitations-and-barriers?u=76281980&t=154)** And consequently, you have impaired transparency, trust, and accountability.
+> **[2:34](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/limitations-and-barriers?u=76281980&t=154)** And consequently, you have impaired transparency, trust, and [[Accountability]].
 >
-> **[2:39](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/limitations-and-barriers?u=76281980&t=159)** And especially when it comes to medical decision-making, those three things, transparency, trust, and accountability are critical.
+> **[2:39](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/limitations-and-barriers?u=76281980&t=159)** And especially when it comes to medical [[Decision-Making]], those three things, transparency, trust, and accountability are critical.
 >
 > **[2:46](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/limitations-and-barriers?u=76281980&t=166)** You're not going to use a method if you don't know what's going on and if you don't know who's going to be responsible if something goes wrong.
 >
 > **[2:52](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/limitations-and-barriers?u=76281980&t=172)** And so these are major issues.
 >
-> **[2:55](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/limitations-and-barriers?u=76281980&t=175)** Consequently, a lot of people are trying really hard to get the benefits of artificial neural networks and deep learning, but have interpretability and trust.
+> **[2:55](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/limitations-and-barriers?u=76281980&t=175)** Consequently, a lot of people are trying really hard to get the benefits of [[Artificial Neural Networks]] and [[Deep Learning]], but have interpretability and trust.
 >
 > **[3:06](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/limitations-and-barriers?u=76281980&t=186)** And so they work on things called, for instance, trustworthy AI or interpretable AI, and as well as because we're using this in a medical context and it turns out that there are very special requirements for things like pharmaceuticals we understand, but medical devices and even software in medical situations has very special requirements.
 >
@@ -2501,13 +2478,13 @@ created: 2026-05-02
 >
 > **[4:30](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/limitations-and-barriers?u=76281980&t=270)** But with medical data, it's much, much more difficult.
 >
-> **[4:33](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/limitations-and-barriers?u=76281980&t=273)** Also there's the frustrating situation that electronic health care records, EHRs, which I've talked about before, they're are big improvement over having just random pieces of paper, but the problem is that the systems are frequently incompatible between one health provider and another, between a government office.
+> **[4:33](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/limitations-and-barriers?u=76281980&t=273)** Also there's the frustrating situation that electronic health care records, EHRs, which I've talked about before, they're are big improvement over having just random pieces of paper, but the problem is that the systems are frequently incompatible between one health provider and another, between a government [[Microsoft Office|office]].
 >
 > **[4:53](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/limitations-and-barriers?u=76281980&t=293)** And so even though it's electronic and it is potentially shareable, there are still a lot of challenges in terms of being able to integrate it into a single algorithm.
 >
 > **[5:03](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/limitations-and-barriers?u=76281980&t=303)** Then there are the regulatory barriers, the compliance to the policies and laws.
 >
-> **[5:09](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/limitations-and-barriers?u=76281980&t=309)** Not surprisingly, when you're working in healthcare, there are very strong privacy regulations.
+> **[5:09](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/limitations-and-barriers?u=76281980&t=309)** Not surprisingly, when you're working in healthcare, there are very strong [[Privacy]] regulations.
 >
 > **[5:15](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/limitations-and-barriers?u=76281980&t=315)** I've mentioned some of these like HIPAA.
 >
@@ -2581,7 +2558,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), ai (14), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Algorithms]] (3), [[Neural Networks]] (2)
+> **Frameworks & Libraries:** [[Data Science]] (6), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Algorithms]] (3), [[Neural Networks]] (2), [[Accountability]] (2)
 > **CLI Commands:** make (4)
 > **Versions:** 1.4 (1), 0.05 (1), 0.04 (1)
 > **Env Vars:** isp (1), hipaa (1)
@@ -2590,14 +2567,13 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - so (1)
 
-#### Data ethics in healthcare
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-ethics-in-healthcare-29602881?u=76281980)
+#### [Data ethics in healthcare](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-ethics-in-healthcare-29602881?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-ethics-in-healthcare-29602881?u=76281980&t=0)** - [Instructor] I hope it's obvious.
 >
-> **[0:01](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-ethics-in-healthcare-29602881?u=76281980&t=1)** I really love data science, and I am so glad to see more and more people learning how much it can help them in their work.
+> **[0:01](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-ethics-in-healthcare-29602881?u=76281980&t=1)** I really love [[Data Science]], and I am so glad to see more and more people learning how much it can help them in their work.
 >
 > **[0:09](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-ethics-in-healthcare-29602881?u=76281980&t=9)** That said, I can't think of a few really unpleasant regrettable outcomes that can happen for data science work in healthcare if you're not careful.
 >
@@ -2619,9 +2595,9 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-ethics-in-healthcare-29602881?u=76281980&t=55)** For instance, one is HIPAA.
 >
-> **[0:57](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-ethics-in-healthcare-29602881?u=76281980&t=57)** That's the United States Health Insurance Portability and Accountability Act of 1996.
+> **[0:57](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-ethics-in-healthcare-29602881?u=76281980&t=57)** That's the United States Health Insurance Portability and [[Accountability]] Act of 1996.
 >
-> **[1:03](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-ethics-in-healthcare-29602881?u=76281980&t=63)** It's the major law governing the privacy of medical records in the US.
+> **[1:03](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-ethics-in-healthcare-29602881?u=76281980&t=63)** It's the major law governing the [[Privacy]] of medical records in the US.
 >
 > **[1:08](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-ethics-in-healthcare-29602881?u=76281980&t=68)** Or, there's GDPR, that's the European Union's General Data Protection Regulation, and the UK has their own very similar version.
 >
@@ -2633,7 +2609,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-ethics-in-healthcare-29602881?u=76281980&t=102)** And so, whichever element you're working in, and if you're working in the United States, if you're working with customers from the EU, if you're working in California, these are collections of rules and laws that you're going to have to be familiar with.
 >
-> **[1:58](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-ethics-in-healthcare-29602881?u=76281980&t=118)** Now, you can find more information on those and other courses here at LinkedIn Learning such as AI Accountability, but it's going to be incumbent upon you to make sure that your work meets these regulations and expectations so that you can do your work and have maximal impact.
+> **[1:58](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-ethics-in-healthcare-29602881?u=76281980&t=118)** Now, you can find more information on those and other courses here at [[LinkedIn]] Learning such as AI Accountability, but it's going to be incumbent upon you to make sure that your work meets these regulations and expectations so that you can do your work and have maximal impact.
 >
 > **[2:16](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-ethics-in-healthcare-29602881?u=76281980&t=136)** Now, I can summarize a lot of this stuff in two very basic principles.
 >
@@ -2691,7 +2667,7 @@ created: 2026-05-02
 >
 > **[5:17](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-ethics-in-healthcare-29602881?u=76281980&t=317)** So I strongly recommend that you get up-to-date information on these and see how you can incorporate them into your own work.
 >
-> **[5:24](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-ethics-in-healthcare-29602881?u=76281980&t=324)** Next, I mentioned data ethics and specifically a course here called AI Accountability, but there are others that talk about some of the ethical issues that surround data science as well as the ethical training that's going to be relevant in your own particular field.
+> **[5:24](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-ethics-in-healthcare-29602881?u=76281980&t=324)** Next, I mentioned [[Data Ethics]] and specifically a course here called AI Accountability, but there are others that talk about some of the ethical issues that surround data science as well as the ethical training that's going to be relevant in your own particular field.
 >
 > **[5:38](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-ethics-in-healthcare-29602881?u=76281980&t=338)** And then finally, there are courses here on LinkedIn Learning about social media and some of the ways that it affects misinformation, disinformation, and how it sets up attitudes and behaviors.
 >
@@ -2703,15 +2679,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Privacy]] (5), [[Accountability]] (3), [[LinkedIn]] (3), ai (2)
+> **Frameworks & Libraries:** [[Data Science]] (6), [[Privacy]] (5), [[Accountability]] (3), [[LinkedIn]] (3), [[Data Ethics]] (1)
 > **CLI Commands:** make (6), find (1)
 > **Env Vars:** hipaa (1), gdpr (1), ccpa (1), cpra (1), covid (1)
 > **Analogies:** for instance (2), such as (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Preparing for an unknown future
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/preparing-for-an-unknown-future?u=76281980)
+#### [Preparing for an unknown future](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/preparing-for-an-unknown-future?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2719,11 +2694,11 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/preparing-for-an-unknown-future?u=76281980&t=5)** Now, that's been attributed to about a million people, although it appears to be a Danish proverb.
 >
-> **[0:11](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/preparing-for-an-unknown-future?u=76281980&t=11)** Of course, here in the data science world, we're not using crystal balls.
+> **[0:11](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/preparing-for-an-unknown-future?u=76281980&t=11)** Of course, here in the [[Data Science]] world, we're not using crystal balls.
 >
 > **[0:14](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/preparing-for-an-unknown-future?u=76281980&t=14)** We're using the best data that we have available to us.
 >
-> **[0:17](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/preparing-for-an-unknown-future?u=76281980&t=17)** We're using the best algorithms that we know.
+> **[0:17](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/preparing-for-an-unknown-future?u=76281980&t=17)** We're using the best [[Algorithms]] that we know.
 >
 > **[0:19](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/preparing-for-an-unknown-future?u=76281980&t=19)** And we're doing our best to make justifiable, verifiable database predictions.
 >
@@ -2793,13 +2768,13 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/preparing-for-an-unknown-future?u=76281980&t=183)** But really what it requires more than anything is that we be very, very flexible and that we be very open to learning as we go along and responding quickly.
 >
-> **[3:13](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/preparing-for-an-unknown-future?u=76281980&t=193)** That way we can still make the most of data science, to have an impact on what we're doing, which is making healthcare, medicine, and public health more effective, more efficient, and more accessible to more people.
+> **[3:13](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/preparing-for-an-unknown-future?u=76281980&t=193)** That way we can still make the most of data science, to have an impact on what we're doing, which is making healthcare, medicine, and [[Public Health]] more effective, more efficient, and more accessible to more people.
 >
 > **[3:25](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/preparing-for-an-unknown-future?u=76281980&t=205)** The challenges we face may change and our exact methods for getting there may evolve but the goal always remains the same.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Algorithms]] (2), database (1), next (1), [[Public Health]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (3), [[Algorithms]] (2), [[Public Health]] (1)
 > **CLI Commands:** make (4), find (2)
 > **Speakers:** - [instructor] (1)
 
@@ -2808,26 +2783,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps and additional resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/next-steps-and-additional-resources?u=76281980)
+#### [Next steps and additional resources](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/next-steps-and-additional-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/next-steps-and-additional-resources?u=76281980&t=0)** - [Barton] I'm glad that you've joined me for this course on data science in healthcare, medicine, and public health, and hopefully you've learned some really useful things.
+> **[0:00](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/next-steps-and-additional-resources?u=76281980&t=0)** - [Barton] I'm glad that you've joined me for this course on [[Data Science]] in healthcare, medicine, and [[Public Health]], and hopefully you've learned some really useful things.
 >
 > **[0:09](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/next-steps-and-additional-resources?u=76281980&t=9)** On the other hand, this course was a map, it was just an overview of the territory covered by these topics, and maybe you want to know now where should you go next, now where?
 >
 > **[0:20](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/next-steps-and-additional-resources?u=76281980&t=20)** Well, let me make a few recommendations, one is, if you were coming from the data science world and you were trying to learn more about healthcare, then I have some suggestions for you.
 >
-> **[0:32](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/next-steps-and-additional-resources?u=76281980&t=32)** On the other hand, if you were coming from the healthcare world and you were trying to learn more about data science, again, it's going to be a slightly different journey, but for either one, I strongly recommend that you start by finding topics, see where the need is, what are people doing in the areas that are of greatest interest to you, read the news, read blogs, join data and health forums both on LinkedIn, Facebook, and other social media platforms, and then talk about it in person, discuss topics with others at meetups, and with conferences, and wherever you work.
+> **[0:32](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/next-steps-and-additional-resources?u=76281980&t=32)** On the other hand, if you were coming from the healthcare world and you were trying to learn more about data science, again, it's going to be a slightly different journey, but for either one, I strongly recommend that you start by finding topics, see where the need is, what are people doing in the areas that are of greatest interest to you, read the news, read blogs, join data and health forums both on [[LinkedIn]], Facebook, and other social media platforms, and then talk about it in person, discuss topics with others at meetups, and with conferences, and wherever you work.
 >
 > **[1:06](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/next-steps-and-additional-resources?u=76281980&t=66)** So if you're a healthcare professional who wants to learn more about how you can use data science, I suggest you take a look at courses on these topics.
 >
 > **[1:12](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/next-steps-and-additional-resources?u=76281980&t=72)** Number one, of course, is data science itself, learn more about the principles and practices of data science, both in general and how it's applied to specific domains.
 >
-> **[1:22](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/next-steps-and-additional-resources?u=76281980&t=82)** You want to get up and running on a computer language, maybe Python, maybe R, maybe something else that is more common within your chosen field, but you need to have something that gives you flexibility and creativity in working with data, because that's where so much of the work is in data science.
+> **[1:22](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/next-steps-and-additional-resources?u=76281980&t=82)** You want to get up and running on a computer language, maybe [[Python (Programming Language)|Python]], maybe R, maybe something else that is more common within your chosen field, but you need to have something that gives you flexibility and creativity in working with data, because that's where so much of the work is in data science.
 >
-> **[1:38](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/next-steps-and-additional-resources?u=76281980&t=98)** In particular, we learned that 80% of the data in healthcare is unstructured and data scientists are well suited for that, so specifically focusing on how to work with unstructured data is going to be an important part of what you do, and then predictive modeling, both predicting about the future and predicting what other people would do if they were to work on it manually, right now that's sort of thinking prediction as automation.
+> **[1:38](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/next-steps-and-additional-resources?u=76281980&t=98)** In particular, we learned that 80% of the data in healthcare is unstructured and data scientists are well suited for that, so specifically focusing on how to work with [[Unstructured Data]] is going to be an important part of what you do, and then [[Predictive Modeling]], both predicting about the future and predicting what other people would do if they were to work on it manually, right now that's sort of thinking prediction as automation.
 >
 > **[2:03](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/next-steps-and-additional-resources?u=76281980&t=123)** These are areas where you can have a lot of impact if you are using data science as a healthcare professional.
 >
@@ -2847,7 +2821,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Public Health]] (2), next (1), [[LinkedIn]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (10), [[Public Health]] (2), [[LinkedIn]] (1), [[Python (Programming Language)|Python]] (1), [[Unstructured Data]] (1)
 > **CLI Commands:** make (2), python (1), find (1)
 > **UI Navigation:** go to (2)
 > **Env Vars:** hipaa (1)

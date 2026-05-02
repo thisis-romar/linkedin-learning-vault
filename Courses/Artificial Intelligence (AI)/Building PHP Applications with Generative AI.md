@@ -89,18 +89,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How can generative AI help with PHP?
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/how-can-generative-ai-help-with-php?u=76281980)
+#### [How can generative AI help with PHP?](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/how-can-generative-ai-help-with-php?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/how-can-generative-ai-help-with-php?u=76281980&t=0)** - "PHP and MySQL for the Absolute Beginner" was a book that basically had a permanent spot on my desk when I first started programming.
+> **[0:00](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/how-can-generative-ai-help-with-php?u=76281980&t=0)** - "[[PHP]] and [[MySQL]] for the Absolute Beginner" was a book that basically had a permanent spot on my desk when I first started programming.
 >
 > **[0:09](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/how-can-generative-ai-help-with-php?u=76281980&t=9)** Then that got replaced by online manuals like [php.net](https://php.net).
 >
 > **[0:14](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/how-can-generative-ai-help-with-php?u=76281980&t=14)** Then various websites with specific code examples, and even an in-browser way to test code code.
 >
-> **[0:20](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/how-can-generative-ai-help-with-php?u=76281980&t=20)** Now it seems generative AI is the go-to for writing basic code, but you still need to understand that code.
+> **[0:20](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/how-can-generative-ai-help-with-php?u=76281980&t=20)** Now it seems [[Generative AI]] is the go-to for writing basic code, but you still need to understand that code.
 >
 > **[0:29](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/how-can-generative-ai-help-with-php?u=76281980&t=29)** While we can get the basics down, it can't write all of the code for us.
 >
@@ -110,54 +109,52 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/how-can-generative-ai-help-with-php?u=76281980&t=52)** Hi, I'm Joe Casabona, a web developer and educator who's been making websites since 2001.
 >
-> **[1:00](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/how-can-generative-ai-help-with-php?u=76281980&t=60)** So join me in my LinkedIn Learning course, which will show you how to leverage generative AI to build PHP applications.
+> **[1:00](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/how-can-generative-ai-help-with-php?u=76281980&t=60)** So join me in my [[LinkedIn]] Learning course, which will show you how to leverage generative AI to build PHP applications.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (3), [[Generative AI]] (2), ai (2), [[MySQL]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[PHP]] (3), [[Generative AI]] (2), [[MySQL]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** php (3), mysql (1)
 > **Env Vars:** php (2)
 > **URLs:** [php.net](https://php.net) (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/what-you-should-know?u=76281980&t=0)** - The main goal of this course is to teach you how to leverage AI in your PHP development efforts.
+> **[0:00](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/what-you-should-know?u=76281980&t=0)** - The main goal of this course is to teach you how to leverage AI in your [[PHP]] development efforts.
 >
 > **[0:07](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/what-you-should-know?u=76281980&t=7)** This does not teach coding concepts.
 >
 > **[0:10](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/what-you-should-know?u=76281980&t=10)** You should already know PHP, how to set up a coding environment and writing and troubleshooting code.
 >
-> **[0:18](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/what-you-should-know?u=76281980&t=18)** Similarly, while we will be leveraging AI tools, we will not dive into exactly how large language models work or how to craft your prompts.
+> **[0:18](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/what-you-should-know?u=76281980&t=18)** Similarly, while we will be leveraging AI tools, we will not dive into exactly how [[Large Language Models (LLM)|large language models]] work or how to craft your prompts.
 >
 > **[0:29](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/what-you-should-know?u=76281980&t=29)** If you need a primer on either, don't worry.
 >
-> **[0:32](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/what-you-should-know?u=76281980&t=32)** We have lots of resources in the LinkedIn Learning Library for that, including our developer learning paths, essentials training courses, and several on prompt engineering.
+> **[0:32](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/what-you-should-know?u=76281980&t=32)** We have lots of resources in the [[LinkedIn]] Learning Library for that, including our developer learning paths, essentials training courses, and several on [[Prompt Engineering]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[PHP]] (2), [[Troubleshooting]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[PHP]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[LinkedIn]] (1), [[Prompt Engineering]] (1)
 > **CLI Commands:** php (2)
 > **Env Vars:** php (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - the (1)
 
-#### How this course works
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/how-this-course-works?u=76281980)
+#### [How this course works](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/how-this-course-works?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/how-this-course-works?u=76281980&t=0)** - This course isn't just about the code.
 >
-> **[0:03](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/how-this-course-works?u=76281980&t=3)** It's about the application development lifecycle from requirements planning to testing.
+> **[0:03](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/how-this-course-works?u=76281980&t=3)** It's about the [[Application Development]] lifecycle from requirements planning to testing.
 >
-> **[0:10](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/how-this-course-works?u=76281980&t=10)** As a result, we'll look at a wide range of AI tools, including ChatGPT to help us plan requirements, write PHP code and more.
+> **[0:10](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/how-this-course-works?u=76281980&t=10)** As a result, we'll look at a wide range of AI tools, including [[ChatGPT]] to help us plan requirements, write [[PHP]] code and more.
 >
 > **[0:20](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/how-this-course-works?u=76281980&t=20)** There will also be challenges and solutions.
 >
-> **[0:23](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/how-this-course-works?u=76281980&t=23)** Due to the nature of Generative AI, we'll focus more on the prompting than the actual output.
+> **[0:23](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/how-this-course-works?u=76281980&t=23)** Due to the nature of [[Generative AI]], we'll focus more on the prompting than the actual output.
 >
 > **[0:30](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/how-this-course-works?u=76281980&t=30)** Though we'll still make sure that the output is correct by testing it.
 >
@@ -165,13 +162,13 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/how-this-course-works?u=76281980&t=45)** If you need help with that, don't worry.
 >
-> **[0:48](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/how-this-course-works?u=76281980&t=48)** We have lots of resources in the LinkedIn Learning Library.
+> **[0:48](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/how-this-course-works?u=76281980&t=48)** We have lots of resources in the [[LinkedIn]] Learning Library.
 >
-> **[0:51](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/how-this-course-works?u=76281980&t=51)** Finally, all of the code that I generate will be available in the GitHub Repository for this course.
+> **[0:51](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/how-this-course-works?u=76281980&t=51)** Finally, all of the code that I generate will be available in the [[GitHub]] Repository for this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Application Development]] (1), ai (1), [[ChatGPT]] (1), [[PHP]] (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Application Development]] (1), [[ChatGPT]] (1), [[PHP]] (1), [[Generative AI]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** php (1), make (1)
 > **Prerequisites:** you'll need (1), set up (1)
 > **Env Vars:** php (1)
@@ -183,8 +180,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/defining-requirements?u=76281980)
+#### [Defining requirements](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/defining-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -200,7 +196,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/defining-requirements?u=76281980&t=35)** Features relate to some specific functionality, so the requirement might be user must be able to securely log into a web interface and send their coach messages that are two-way encrypted.
 >
-> **[0:51](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/defining-requirements?u=76281980&t=51)** This translates to a feature set that looks like this, login page that accepts a username and password, database to store username and fully encrypted password, SSL certificate to securely send and receive data, inbox where user can see all messages sent to them, compose window where user can select coach, write a message and send it, and more.
+> **[0:51](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/defining-requirements?u=76281980&t=51)** This translates to a feature set that looks like this, login page that accepts a username and password, database to store username and fully encrypted password, SSL certificate to securely send and receive data, inbox where user can see all messages sent to them, [[Jetpack Compose|compose]] window where user can select coach, write a message and send it, and more.
 >
 > **[1:19](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/defining-requirements?u=76281980&t=79)** And while I don't advise people do anything that fully relies on AI, I am all about leveraging AI to help generate ideas and inspire.
 >
@@ -210,15 +206,15 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/defining-requirements?u=76281980&t=94)** First, we want to clearly define our project and ask AI to generate a requirements document.
 >
-> **[1:41](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/defining-requirements?u=76281980&t=101)** I'll be using ChatGPT for this, but you could use whatever AI tool you are most comfortable with.
+> **[1:41](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/defining-requirements?u=76281980&t=101)** I'll be using [[ChatGPT]] for this, but you could use whatever AI tool you are most comfortable with.
 >
-> **[1:48](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/defining-requirements?u=76281980&t=108)** So my prompt is I'm working on a PHP application and would like to generate a requirements document.
+> **[1:48](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/defining-requirements?u=76281980&t=108)** So my prompt is I'm working on a [[PHP]] application and would like to generate a requirements document.
 >
 > **[1:54](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/defining-requirements?u=76281980&t=114)** The system is a client documents management system.
 >
 > **[1:59](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/defining-requirements?u=76281980&t=119)** Each user should be able to securely log in, access document and text associated with their account and post their own documents and text.
 >
-> **[2:08](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/defining-requirements?u=76281980&t=128)** The documents can be images, PDFs, and standard Office documents.
+> **[2:08](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/defining-requirements?u=76281980&t=128)** The documents can be images, PDFs, and standard [[Microsoft Office|Office]] documents.
 >
 > **[2:14](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/defining-requirements?u=76281980&t=134)** Can you help me generate a requirements document based on that?
 >
@@ -256,7 +252,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), functional (4), [[ChatGPT]] (3), prompt (3), feature (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Jetpack Compose|Compose]] (1), [[PHP]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** ssl (1), php (1), gdpr (1), hipaa (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** php (1)
@@ -264,8 +260,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use cases
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/use-cases?u=76281980)
+#### [Use cases](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/use-cases?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -273,7 +268,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/use-cases?u=76281980&t=4)** That is, how people will actually use the software.
 >
-> **[0:08](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/use-cases?u=76281980&t=8)** This is an important step in the software development process because it helps us understand how end users will interact with our software.
+> **[0:08](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/use-cases?u=76281980&t=8)** This is an important step in the [[Software Development]] process because it helps us understand how end users will interact with our software.
 >
 > **[0:16](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/use-cases?u=76281980&t=16)** But not only that; it'll help us understand how different types of end users interact with our software.
 >
@@ -287,7 +282,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/use-cases?u=76281980&t=44)** We're going to continue our conversation that we started in the requirements documents video.
 >
-> **[0:50](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/use-cases?u=76281980&t=50)** And we've added all of the requirements that ChatGPT in this instance came up with so that it has a full context for what we need from our use cases.
+> **[0:50](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/use-cases?u=76281980&t=50)** And we've added all of the requirements that [[ChatGPT]] in this instance came up with so that it has a full context for what we need from our use cases.
 >
 > **[1:02](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/use-cases?u=76281980&t=62)** So let's create our prompt.
 >
@@ -295,7 +290,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/use-cases?u=76281980&t=71)** What are some basic use cases we should consider?
 >
-> **[1:19](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/use-cases?u=76281980&t=79)** Notice I keep saying the word consider.
+> **[1:19](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/use-cases?u=76281980&t=79)** Notice I keep saying the [[Microsoft Word|word]] consider.
 >
 > **[1:22](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/use-cases?u=76281980&t=82)** That's because we don't want the AI to fully come up with the document for us.
 >
@@ -329,35 +324,34 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/use-cases?u=76281980&t=228)** For example, with a non-responsive coach or technical issues.
 >
-> **[3:54](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/use-cases?u=76281980&t=234)** It goes through special requirements for security and privacy in notifications.
+> **[3:54](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/use-cases?u=76281980&t=234)** It goes through special requirements for security and [[Privacy]] in notifications.
 >
 > **[3:59](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/use-cases?u=76281980&t=239)** So again, a very thorough look at an initial use case for something that we came up with.
 >
 > **[4:06](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/use-cases?u=76281980&t=246)** And as a reminder, it's up to us to come up with the finalized list of use cases for our software.
 >
-> **[4:12](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/use-cases?u=76281980&t=252)** We need to talk to the rest of the team, project managers, and any stakeholders.
+> **[4:12](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/use-cases?u=76281980&t=252)** We need to talk to the [[Representational State Transfer (REST)|rest]] of the team, project managers, and any stakeholders.
 >
 > **[4:16](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/use-cases?u=76281980&t=256)** But AI can provide alternative points of view and help us think of a more complete document to hand over to those project managers and stakeholders.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[ChatGPT]] (2), [[Software Development]] (1), prompt (1), application (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Software Development]] (1), [[Microsoft Word|Word]] (1), [[Privacy]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** for example (3)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### User stories
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/user-stories?u=76281980)
+#### [User stories](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/user-stories?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/user-stories?u=76281980&t=0)** - [Narrator] One overlooked aspect of software development is generating user stories.
+> **[0:00](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/user-stories?u=76281980&t=0)** - [Narrator] One overlooked aspect of [[Software Development]] is generating user stories.
 >
 > **[0:05](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/user-stories?u=76281980&t=5)** While use cases are more detailed accounts of how features work and who is using those features, user stories are more succinct personas with a specific goal in mind.
 >
 > **[0:18](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/user-stories?u=76281980&t=18)** They often follow the format of, as a user, I want to action, so that goal.
 >
-> **[0:27](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/user-stories?u=76281980&t=27)** This is another way to think about the user experience.
+> **[0:27](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/user-stories?u=76281980&t=27)** This is another way to think about the [[User Experience (UX)|user experience]].
 >
 > **[0:30](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/user-stories?u=76281980&t=30)** You might even name your users.
 >
@@ -373,7 +367,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/user-stories?u=76281980&t=65)** Can you generate some user stories for the system we've described so far?
 >
-> **[1:17](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/user-stories?u=76281980&t=77)** You can see that ChatGPT is breaking up our user stories into major headings for features or requirements.
+> **[1:17](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/user-stories?u=76281980&t=77)** You can see that [[ChatGPT]] is breaking up our user stories into major headings for features or requirements.
 >
 > **[1:28](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/user-stories?u=76281980&t=88)** So user registration, as a new user, I want to register for an account so I can securely manage and store my documents.
 >
@@ -405,13 +399,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), feature (2), prompt (2), [[Software Development]] (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[Software Development]] (1), [[User Experience (UX)|User experience]] (1), [[ChatGPT]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Creating timelines
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/creating-timelines?u=76281980)
+#### [Creating timelines](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/creating-timelines?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -429,7 +422,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/creating-timelines?u=76281980&t=49)** Please create a four month, six month, and 12 month timeline for this project."
 >
-> **[1:07](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/creating-timelines?u=76281980&t=67)** So now the AI, ChatGPT in this case, is going to go through and create a high level overview for a timeline for each of those things.
+> **[1:07](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/creating-timelines?u=76281980&t=67)** So now the AI, [[ChatGPT]] in this case, is going to go through and create a high level overview for a timeline for each of those things.
 >
 > **[1:17](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/creating-timelines?u=76281980&t=77)** I picked four months because given the most basic scope of this project, four months is probably the least amount of time you'll spend on it, six months is probably a good timeline to shoot for, and 12 months is probably the most likely timeline for this project.
 >
@@ -467,7 +460,7 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/creating-timelines?u=76281980&t=250)** So it says here, "Each timeline includes buffer periods to manage unforeseen circumstances."
 >
-> **[4:14](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/creating-timelines?u=76281980&t=254)** It's still on the same amount of time, so if we just scroll up and look at the four month timeline, Week one is project kickoff, then rapid prototyping for two to three weeks, and week four is technology stack selection.
+> **[4:14](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/creating-timelines?u=76281980&t=254)** It's still on the same amount of time, so if we just scroll up and look at the four month timeline, Week one is project kickoff, then rapid [[Prototyping]] for two to three weeks, and week four is technology stack selection.
 >
 > **[4:30](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/creating-timelines?u=76281980&t=270)** And if we look at month one of the accelerated timeline, you could see that we're not doing technology stack here in week four, we are finalizing requirements then developing essential features, and then development buffer for unforeseen issues.
 >
@@ -499,7 +492,7 @@ created: 2026-05-02
 >
 > **[6:37](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/creating-timelines?u=76281980&t=397)** This timeline includes buffer times to address unforeseen circumstances, ensuring the project has flexibility to adapt to challenges without derailing the overall schedule.
 >
-> **[6:47](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/creating-timelines?u=76281980&t=407)** The last thing I'll do here, since I am using a version of ChatGPT that can generate images, I'm going to ask it one more thing and that is to turn this into a Gantt chart, which is a common way for software projects to be laid out.
+> **[6:47](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/creating-timelines?u=76281980&t=407)** The last thing I'll do here, since I am using a version of ChatGPT that can generate images, I'm going to ask it one more thing and that is to turn this into a Gantt chart, which is a common way for [[Software Projects]] to be laid out.
 >
 > **[7:01](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/creating-timelines?u=76281980&t=421)** "Great. Can you turn this table into a Gantt chart?"
 >
@@ -515,15 +508,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), [[ChatGPT]] (4), feature (2), next (1), [[Prototyping]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (4), [[Prototyping]] (1), [[Software Projects]] (1)
 > **Definitions:** is a  (3)
 > **UI Navigation:** scroll up (1)
 > **Best Practices:** you should always (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [presenter] (1)
 
-#### Challenge: Generate a requirements document
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/challenge-generate-a-requirements-document?u=76281980)
+#### [Challenge: Generate a requirements document](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/challenge-generate-a-requirements-document?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -547,13 +539,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1), feature (1), next (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Generate a requirements document
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-generate-a-requirements-document?u=76281980)
+#### [Solution: Generate a requirements document](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-generate-a-requirements-document?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -563,7 +553,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-generate-a-requirements-document?u=76281980&t=9)** Here are the prompts that I came up with.
 >
-> **[0:11](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-generate-a-requirements-document?u=76281980&t=11)** A couple of notes. I'm using ChatGPT-4 for this.
+> **[0:11](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-generate-a-requirements-document?u=76281980&t=11)** A couple of notes. I'm using [[ChatGPT]]-4 for this.
 >
 > **[0:15](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-generate-a-requirements-document?u=76281980&t=15)** I started a new chat so that the AI would not have the context of anything we've worked on previously.
 >
@@ -649,7 +639,7 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-generate-a-requirements-document?u=76281980&t=246)** Now can you take these features and turn them into a requirements document?
 >
-> **[4:17](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-generate-a-requirements-document?u=76281980&t=257)** The system will be built with PHP and MySQL.
+> **[4:17](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-generate-a-requirements-document?u=76281980&t=257)** The system will be built with [[PHP]] and [[MySQL]].
 >
 > **[4:26](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-generate-a-requirements-document?u=76281980&t=266)** By the way, this is not something I mentioned in the challenge video.
 >
@@ -659,7 +649,7 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-generate-a-requirements-document?u=76281980&t=275)** It's important to include this information when you're creating the requirements document, though.
 >
-> **[4:40](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-generate-a-requirements-document?u=76281980&t=280)** And use HTML and CSS with JavaScript.
+> **[4:40](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-generate-a-requirements-document?u=76281980&t=280)** And use [[HTML]] and CSS with [[JavaScript]].
 >
 > **[4:47](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-generate-a-requirements-document?u=76281980&t=287)** The installation file should build the database, which may require the user to create a database.
 >
@@ -693,7 +683,7 @@ created: 2026-05-02
 >
 > **[6:54](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-generate-a-requirements-document?u=76281980&t=414)** Development tools, a code editor or IDE.
 >
-> **[6:56](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-generate-a-requirements-document?u=76281980&t=416)** Git for version control. Great.
+> **[6:56](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-generate-a-requirements-document?u=76281980&t=416)** [[Git]] for [[Version Control]]. Great.
 >
 > **[6:58](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-generate-a-requirements-document?u=76281980&t=418)** And then we've got our core features section based on the features that we outlined earlier.
 >
@@ -703,7 +693,7 @@ created: 2026-05-02
 >
 > **[7:16](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-generate-a-requirements-document?u=76281980&t=436)** This is good. It's not recommending technology.
 >
-> **[7:18](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-generate-a-requirements-document?u=76281980&t=438)** But just the fact that it's telling us to follow MVC based on the fact that we asked for PHP would imply some framework like Laravel.
+> **[7:18](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-generate-a-requirements-document?u=76281980&t=438)** But just the fact that it's telling us to follow MVC based on the fact that we asked for PHP would imply some framework like [[Laravel]].
 >
 > **[7:27](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-generate-a-requirements-document?u=76281980&t=447)** That's not a requirement of course.
 >
@@ -723,7 +713,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (6), ai (4), database (4), feature (2), [[MySQL]] (2)
+> **Frameworks & Libraries:** [[PHP]] (6), [[MySQL]] (2), [[ChatGPT]] (1), [[HTML]] (1), [[JavaScript]] (1)
 > **Env Vars:** php (6), mvc (2), seo (1), html (1), css (1)
 > **CLI Commands:** php (6), mysql (2), git (1)
 > **Prerequisites:** install (2), setup (1)
@@ -737,14 +727,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using ChatGPT to get code snippets
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/using-chatgpt-to-get-code-snippets?u=76281980)
+#### [Using ChatGPT to get code snippets](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/using-chatgpt-to-get-code-snippets?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/using-chatgpt-to-get-code-snippets?u=76281980&t=0)** - [Instructor] Okay, let's start writing some code.
 >
-> **[0:04](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/using-chatgpt-to-get-code-snippets?u=76281980&t=4)** One quick note is that I'm going to start here in ChatGPT, but we will change to a different tool in later videos.
+> **[0:04](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/using-chatgpt-to-get-code-snippets?u=76281980&t=4)** One quick note is that I'm going to start here in [[ChatGPT]], but we will change to a different tool in later videos.
 >
 > **[0:12](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/using-chatgpt-to-get-code-snippets?u=76281980&t=12)** And I am going to continue in the conversation from the challenge and solution.
 >
@@ -758,9 +747,9 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/using-chatgpt-to-get-code-snippets?u=76281980&t=41)** Let's start with a simple form upload.
 >
-> **[0:45](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/using-chatgpt-to-get-code-snippets?u=76281980&t=45)** Since we're not going to be building databases in this course, we're going to stick with straight PHP so that those are the modules that we will have the AI write for us.
+> **[0:45](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/using-chatgpt-to-get-code-snippets?u=76281980&t=45)** Since we're not going to be building [[Databases]] in this course, we're going to stick with straight [[PHP]] so that those are the modules that we will have the AI write for us.
 >
-> **[0:56](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/using-chatgpt-to-get-code-snippets?u=76281980&t=56)** Can you generate a simple HTML form to upload a file where the PHP processing the form will be the same page the form is embedded on?
+> **[0:56](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/using-chatgpt-to-get-code-snippets?u=76281980&t=56)** Can you generate a simple [[HTML]] form to upload a file where the PHP processing the form will be the same page the form is embedded on?
 >
 > **[1:13](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/using-chatgpt-to-get-code-snippets?u=76281980&t=73)** So this is important here.
 >
@@ -784,7 +773,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/using-chatgpt-to-get-code-snippets?u=76281980&t=137)** All right, so let's go ahead and take this code and add it to our repo.
 >
-> **[2:24](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/using-chatgpt-to-get-code-snippets?u=76281980&t=144)** All of the code that is generated here and provided will be in the GitHub repository for this course.
+> **[2:24](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/using-chatgpt-to-get-code-snippets?u=76281980&t=144)** All of the code that is generated here and provided will be in the [[GitHub]] repository for this course.
 >
 > **[2:30](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/using-chatgpt-to-get-code-snippets?u=76281980&t=150)** I'm just going to call this index.php to make things easier.
 >
@@ -902,7 +891,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (14), ai (4), [[ChatGPT]] (3), [[HTML]] (3), prompt (2)
+> **Frameworks & Libraries:** [[PHP]] (14), [[ChatGPT]] (3), [[HTML]] (3), [[Databases]] (1), [[GitHub]] (1)
 > **Env Vars:** php (12), jpeg (4), html (3), png (3), tiff (3)
 > **CLI Commands:** php (14), make (8)
 > **Definitions:** is a  (3), is called (1), is an  (1)
@@ -911,12 +900,11 @@ created: 2026-05-02
 > **Code Identifiers:** validateanduploadimage (1)
 > **Cross-References:** go back to (1)
 
-#### Working with GitHub's Copilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/working-with-github-s-copilot?u=76281980)
+#### [Working with GitHub's Copilot](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/working-with-github-s-copilot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/working-with-github-s-copilot?u=76281980&t=0)** - [Instructor] Let's look at another helpful AI tool for programmers, and that is GitHub's Copilot.
+> **[0:00](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/working-with-github-s-copilot?u=76281980&t=0)** - [Instructor] Let's look at another helpful AI tool for programmers, and that is [[GitHub]]'s [[Microsoft Copilot|Copilot]].
 >
 > **[0:08](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/working-with-github-s-copilot?u=76281980&t=8)** Copilot is an AI that lives in your code editor and allows you to chat with it, but beyond that, you can highlight code and ask it to modify, test, and expand upon the code you have.
 >
@@ -928,7 +916,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/working-with-github-s-copilot?u=76281980&t=37)** One is the chat box which sits right next to your coding area and you can ask it questions about your code or code in general.
 >
-> **[0:43](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/working-with-github-s-copilot?u=76281980&t=43)** So with the code that we generated from ChatGPT up here.
+> **[0:43](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/working-with-github-s-copilot?u=76281980&t=43)** So with the code that we generated from [[ChatGPT]] up here.
 >
 > **[0:49](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/working-with-github-s-copilot?u=76281980&t=49)** So one thing that we can have Copilot do is review the code.
 >
@@ -1010,7 +998,7 @@ created: 2026-05-02
 >
 > **[5:17](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/working-with-github-s-copilot?u=76281980&t=317)** And indeed, if we look at our code, we have a validate date and validate URL function that we don't have defined anywhere.
 >
-> **[5:25](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/working-with-github-s-copilot?u=76281980&t=325)** These are not built into PHP.
+> **[5:25](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/working-with-github-s-copilot?u=76281980&t=325)** These are not built into [[PHP]].
 >
 > **[5:27](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/working-with-github-s-copilot?u=76281980&t=327)** So something that we could try here and actually you'll see Copilot do something else and that is try to predict the code that we want to write here.
 >
@@ -1026,7 +1014,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (14), [[ChatGPT]] (3), ai (2), [[GitHub]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (14), [[ChatGPT]] (3), [[GitHub]] (1), [[PHP]] (1)
 > **CLI Commands:** make (5), php (1)
 > **Env Vars:** url (2), php (1)
 > **Definitions:** is an  (2), is a  (1)
@@ -1035,12 +1023,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **UI Navigation:** click on (1)
 
-#### Other code-writing tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/other-code-writing-tools?u=76281980)
+#### [Other code-writing tools](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/other-code-writing-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/other-code-writing-tools?u=76281980&t=0)** - [Instructor] ChatGPT and Copilot are common AI tools used in coding, but let's look at a few other helpful tools.
+> **[0:00](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/other-code-writing-tools?u=76281980&t=0)** - [Instructor] [[ChatGPT]] and [[Microsoft Copilot|Copilot]] are common AI tools used in coding, but let's look at a few other helpful tools.
 >
 > **[0:07](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/other-code-writing-tools?u=76281980&t=7)** There are lots out there, but how do you find them?
 >
@@ -1052,11 +1039,11 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/other-code-writing-tools?u=76281980&t=34)** This site will allow you to search by name, description, and category, tell you what's trending, and tell you what's recent.
 >
-> **[0:40](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/other-code-writing-tools?u=76281980&t=40)** So if you're looking for tools to help you with PHP, you can search PHP and see what is available.
+> **[0:40](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/other-code-writing-tools?u=76281980&t=40)** So if you're looking for tools to help you with [[PHP]], you can search PHP and see what is available.
 >
 > **[0:48](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/other-code-writing-tools?u=76281980&t=48)** You can see that there are lots of tools available, and this nifty icon here tells you what is a ChatGPT add-on and what isn't.
 >
-> **[0:57](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/other-code-writing-tools?u=76281980&t=57)** There are general helpers, framework-specific tools for Laravel and other things, and much, much more.
+> **[0:57](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/other-code-writing-tools?u=76281980&t=57)** There are general helpers, framework-specific tools for [[Laravel]] and other things, and much, much more.
 >
 > **[1:04](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/other-code-writing-tools?u=76281980&t=64)** So if you have a plan that allows for, say, Chat GBT plugins, you can use those tools as well.
 >
@@ -1072,7 +1059,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), ai (3), [[ChatGPT]] (2), [[PHP]] (2), [[Microsoft Copilot|Copilot]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[PHP]] (2), [[Microsoft Copilot|Copilot]] (1), [[Laravel]] (1)
 > **CLI Commands:** php (2), find (1)
 > **Env Vars:** php (2), gbt (1)
 > **Tools:** vs code (3)
@@ -1081,8 +1068,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Writing a PHP class sorter
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/challenge-writing-a-php-class-sorter?u=76281980)
+#### [Challenge: Writing a PHP class sorter](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/challenge-writing-a-php-class-sorter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1090,7 +1076,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/challenge-writing-a-php-class-sorter?u=76281980&t=5)** - [Instructor] It's time for another challenge.
 >
-> **[0:07](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/challenge-writing-a-php-class-sorter?u=76281980&t=7)** Using AI, we're going to write a PHP class sorter to use in our programs.
+> **[0:07](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/challenge-writing-a-php-class-sorter?u=76281980&t=7)** Using AI, we're going to write a [[PHP]] class sorter to use in our programs.
 >
 > **[0:14](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/challenge-writing-a-php-class-sorter?u=76281980&t=14)** As needed, we'll test and confirm everything works.
 >
@@ -1104,11 +1090,11 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/challenge-writing-a-php-class-sorter?u=76281980&t=50)** Use whatever AI you'd like to help you generate the code, but make sure to test.
 >
-> **[0:55](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/challenge-writing-a-php-class-sorter?u=76281980&t=55)** You can find the starting code in the GitHub repository, and of course, come back to see my solution.
+> **[0:55](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/challenge-writing-a-php-class-sorter?u=76281980&t=55)** You can find the starting code in the [[GitHub]] repository, and of course, come back to see my solution.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[PHP]] (2), next (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[PHP]] (2), [[GitHub]] (1)
 > **CLI Commands:** php (2), make (1), find (1)
 > **File Paths:** index.php (1)
 > **Env Vars:** php (1)
@@ -1117,8 +1103,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (light music) (1)
 
-#### Solution: Writing a PHP class sorter
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-writing-a-php-class-sorter?u=76281980)
+#### [Solution: Writing a PHP class sorter](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-writing-a-php-class-sorter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1128,9 +1113,9 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-writing-a-php-class-sorter?u=76281980&t=11)** Also, remember, even if we use the same exact prompts, we might get different results.
 >
-> **[0:17](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-writing-a-php-class-sorter?u=76281980&t=17)** Now, I'm using GitHub's Copilot.
+> **[0:17](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-writing-a-php-class-sorter?u=76281980&t=17)** Now, I'm using [[GitHub]]'s [[Microsoft Copilot|Copilot]].
 >
-> **[0:19](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-writing-a-php-class-sorter?u=76281980&t=19)** If you used something like ChatGPT, you'll have to go through this process as well, as you likely found.
+> **[0:19](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-writing-a-php-class-sorter?u=76281980&t=19)** If you used something like [[ChatGPT]], you'll have to go through this process as well, as you likely found.
 >
 > **[0:26](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-writing-a-php-class-sorter?u=76281980&t=26)** GitHub's Copilot cannot read a full directory, which means that if I wanted to use some code I've already written, I need to give that code to the AI.
 >
@@ -1138,9 +1123,9 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-writing-a-php-class-sorter?u=76281980&t=39)** I'm going to highlight the Person class, and in my chat box, I'm going to say, here's the Person class, and actually, I'm going to highlight this, and then I'm going to move over to index, 'cause that's the main file I want to work in.
 >
-> **[0:52](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-writing-a-php-class-sorter?u=76281980&t=52)** Here's the Person class I am using in the open index.php file, and then I'll come over here, copy this, make sure it's copied, and paste it in.
+> **[0:52](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-writing-a-php-class-sorter?u=76281980&t=52)** Here's the Person class I am using in the open index.[[PHP]] file, and then I'll come over here, copy this, make sure it's copied, and paste it in.
 >
-> **[1:06](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-writing-a-php-class-sorter?u=76281980&t=66)** So now, GitHub Copilot knows that this class exists.
+> **[1:06](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-writing-a-php-class-sorter?u=76281980&t=66)** So now, [[GitHub Copilot]] knows that this class exists.
 >
 > **[1:11](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-writing-a-php-class-sorter?u=76281980&t=71)** It has the context, it's learning about it, and now it knows the name of the functions I'm using.
 >
@@ -1156,7 +1141,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-writing-a-php-class-sorter?u=76281980&t=132)** And let's go ahead and take this, and then we'll use our little insert icon to add it here.
 >
-> **[2:21](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-writing-a-php-class-sorter?u=76281980&t=141)** Now, this wrote the function, and actually I want to move this above the rest of the information below the Person class so that this knows what the Person class is.
+> **[2:21](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-writing-a-php-class-sorter?u=76281980&t=141)** Now, this wrote the function, and actually I want to move this above the [[Representational State Transfer (REST)|rest]] of the information below the Person class so that this knows what the Person class is.
 >
 > **[2:36](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-writing-a-php-class-sorter?u=76281980&t=156)** And then next up, I want to call that function, which Copilot is properly predicting here.
 >
@@ -1220,7 +1205,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), [[GitHub]] (2), ai (2), [[ChatGPT]] (1), [[PHP]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), [[GitHub]] (2), [[ChatGPT]] (1), [[PHP]] (1), [[GitHub Copilot]] (1)
 > **CLI Commands:** make (2), php (1)
 > **Tools:** github (3)
 > **Definitions:** means that (1), is a  (1)
@@ -1234,8 +1219,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Automated testing vs. AI testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/automated-testing-vs-ai-testing?u=76281980)
+#### [Automated testing vs. AI testing](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/automated-testing-vs-ai-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1247,13 +1231,13 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/automated-testing-vs-ai-testing?u=76281980&t=32)** There are lots of ways to perform automated testing.
 >
-> **[0:36](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/automated-testing-vs-ai-testing?u=76281980&t=36)** You can test specific functions, which is called unit testing, or you can test how well parts of a system work together, which is called integration testing.
+> **[0:36](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/automated-testing-vs-ai-testing?u=76281980&t=36)** You can test specific functions, which is called [[Unit Testing]], or you can test how well parts of a system work together, which is called [[Integration Testing]].
 >
 > **[0:45](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/automated-testing-vs-ai-testing?u=76281980&t=45)** The key here is that you're writing the tests.
 >
 > **[0:48](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/automated-testing-vs-ai-testing?u=76281980&t=48)** There are ultimately facts about your code, and the tests verify those facts.
 >
-> **[0:55](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/automated-testing-vs-ai-testing?u=76281980&t=55)** If you want to learn more about automated testing, check out our courses in the LinkedIn Learning Library.
+> **[0:55](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/automated-testing-vs-ai-testing?u=76281980&t=55)** If you want to learn more about automated testing, check out our courses in the [[LinkedIn]] Learning Library.
 >
 > **[1:02](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/automated-testing-vs-ai-testing?u=76281980&t=62)** Testing code with AI is different because it's not as rigid or predefined as automated testing.
 >
@@ -1263,7 +1247,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/automated-testing-vs-ai-testing?u=76281980&t=82)** It could write code, it could uncover issues with code, it could even write the tests, or help create data sets.
 >
-> **[1:29](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/automated-testing-vs-ai-testing?u=76281980&t=89)** In the video with GitHub's Copilot, Copilot identified ways to make the code I wrote more secure.
+> **[1:29](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/automated-testing-vs-ai-testing?u=76281980&t=89)** In the video with [[GitHub]]'s [[Microsoft Copilot|Copilot]], Copilot identified ways to make the code I wrote more secure.
 >
 > **[1:35](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/automated-testing-vs-ai-testing?u=76281980&t=95)** It provided the how, which I was able to integrate into my code, thanks to an assist from Copilot.
 >
@@ -1273,15 +1257,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[Microsoft Copilot|Copilot]] (3), data (2), [[Programming]] (1), [[Unit Testing]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), [[Unit Testing]] (1), [[Integration Testing]] (1), [[LinkedIn]] (1), [[GitHub]] (1)
 > **Definitions:** is called (2)
 > **CLI Commands:** make (1)
 > **Tools:** github (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Writing unit tests with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/writing-unit-tests-with-ai?u=76281980)
+#### [Writing unit tests with AI](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/writing-unit-tests-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1289,7 +1272,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/writing-unit-tests-with-ai?u=76281980&t=5)** A unit test tests a specific component of an application.
 >
-> **[0:10](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/writing-unit-tests-with-ai?u=76281980&t=10)** In PHP, this could be functions or methods inside of a class.
+> **[0:10](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/writing-unit-tests-with-ai?u=76281980&t=10)** In [[PHP]], this could be functions or methods inside of a class.
 >
 > **[0:14](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/writing-unit-tests-with-ai?u=76281980&t=14)** These are great for testing to make sure you're getting the expected results before building important aspects of an application on top of those functions.
 >
@@ -1297,7 +1280,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/writing-unit-tests-with-ai?u=76281980&t=28)** And I should point out that I have PHPUnit installed and configured on my machine.
 >
-> **[0:33](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/writing-unit-tests-with-ai?u=76281980&t=33)** If you want more guidance on how to install and use it, check out our videos on unit testing and PHPUnit in the LinkedIn Learning Library.
+> **[0:33](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/writing-unit-tests-with-ai?u=76281980&t=33)** If you want more guidance on how to install and use it, check out our videos on [[Unit Testing]] and PHPUnit in the [[LinkedIn]] Learning Library.
 >
 > **[0:43](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/writing-unit-tests-with-ai?u=76281980&t=43)** So let's go to our files here in VS Code.
 >
@@ -1367,7 +1350,7 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/writing-unit-tests-with-ai?u=76281980&t=234)** So I will include the require Person file here and then we'll run our test again and our test worked.
 >
-> **[4:07](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/writing-unit-tests-with-ai?u=76281980&t=247)** So we can also have Copilot expand on these tests.
+> **[4:07](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/writing-unit-tests-with-ai?u=76281980&t=247)** So we can also have [[Microsoft Copilot|Copilot]] expand on these tests.
 >
 > **[4:10](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/writing-unit-tests-with-ai?u=76281980&t=250)** So we'll place our cursor in the class and then we could ask it.
 >
@@ -1389,7 +1372,7 @@ created: 2026-05-02
 >
 > **[5:13](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/writing-unit-tests-with-ai?u=76281980&t=313)** So we have test get-age that's already here.
 >
-> **[5:16](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/writing-unit-tests-with-ai?u=76281980&t=316)** So I'll grab the rest of the functions and paste them inside our class.
+> **[5:16](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/writing-unit-tests-with-ai?u=76281980&t=316)** So I'll grab the [[Representational State Transfer (REST)|rest]] of the functions and paste them inside our class.
 >
 > **[5:23](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/writing-unit-tests-with-ai?u=76281980&t=323)** Save this, and then run the PersonTest phpunit command again.
 >
@@ -1397,7 +1380,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[PHP]] (2), ai (1), [[Unit Testing]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[PHP]] (2), [[Unit Testing]] (1), [[LinkedIn]] (1), [[Microsoft Copilot|Copilot]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (5), php (2), composer (1)
 > **Code Identifiers:** get_age (3)
 > **Env Vars:** dob (2), php (1)
@@ -1406,8 +1389,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1), means that (1)
 > **Prerequisites:** install (1), configure (1)
 
-#### Generating test data
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/generating-test-data?u=76281980)
+#### [Generating test data](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/generating-test-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1417,7 +1399,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/generating-test-data?u=76281980&t=7)** Let's test the person class by creating a set of objects designed to stretch the limits of the class.
 >
-> **[0:13](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/generating-test-data?u=76281980&t=13)** So the first thing I'll do is let Copilot know that we have a person class.
+> **[0:13](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/generating-test-data?u=76281980&t=13)** So the first thing I'll do is let [[Microsoft Copilot|Copilot]] know that we have a person class.
 >
 > **[0:19](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/generating-test-data?u=76281980&t=19)** "Here is a person class, "I'd like to create some test data for.
 >
@@ -1429,7 +1411,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/generating-test-data?u=76281980&t=57)** Actually, I'm going to just delete what I have here.
 >
-> **[0:59](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/generating-test-data?u=76281980&t=59)** And have this code take over this file, so if we run through this really quick, assuming person class is in Person.php, accurate.
+> **[0:59](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/generating-test-data?u=76281980&t=59)** And have this code take over this file, so if we run through this really quick, assuming person class is in Person.[[PHP]], accurate.
 >
 > **[1:10](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/generating-test-data?u=76281980&t=70)** Creates a blank array, then a for each loop, to create a bunch of different pieces of data to generate different birthdays and names and roles.
 >
@@ -1479,15 +1461,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), ai (2), [[Microsoft Copilot|Copilot]] (1), [[PHP]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (1), [[PHP]] (1)
 > **CLI Commands:** find (3), php (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** dob (2)
 > **File Paths:** person.php (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Generate test data for the provided class
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/challenge-generate-test-data-for-the-provided-class?u=76281980)
+#### [Challenge: Generate test data for the provided class](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/challenge-generate-test-data-for-the-provided-class?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1503,14 +1484,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (1), data (1)
 > **Env Vars:** gpa (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Generate test data for the provided class
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-generate-test-data-for-the-provided-class?u=76281980)
+#### [Solution: Generate test data for the provided class](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-generate-test-data-for-the-provided-class?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1522,7 +1501,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-generate-test-data-for-the-provided-class?u=76281980&t=16)** Be sure to test any code you get from AI to ensure it works as expected.
 >
-> **[0:21](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-generate-test-data-for-the-provided-class?u=76281980&t=21)** I'll be using GitHub's Copilot.
+> **[0:21](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-generate-test-data-for-the-provided-class?u=76281980&t=21)** I'll be using [[GitHub]]'s [[Microsoft Copilot|Copilot]].
 >
 > **[0:24](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-generate-test-data-for-the-provided-class?u=76281980&t=24)** So, the first thing I'll do is feed in both classes.
 >
@@ -1554,7 +1533,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-generate-test-data-for-the-provided-class?u=76281980&t=135)** Okay, so let's make one slight adjustment to this foreach loop and ask it to replace the new line characters with an actual line break.
 >
-> **[2:24](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-generate-test-data-for-the-provided-class?u=76281980&t=144)** "Please replace the new line character with the HTML line break."
+> **[2:24](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-generate-test-data-for-the-provided-class?u=76281980&t=144)** "Please replace the new line character with the [[HTML]] line break."
 >
 > **[2:33](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-generate-test-data-for-the-provided-class?u=76281980&t=153)** So, this should just rewrite this. Perfect.
 >
@@ -1584,7 +1563,7 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-generate-test-data-for-the-provided-class?u=76281980&t=226)** We can mostly take this information here and put it right underneath our first for loop, because we can say instead of malformed students, we could just say students here.
 >
-> **[4:03](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-generate-test-data-for-the-provided-class?u=76281980&t=243)** So, we can add them right to the end of the students array and then print it out with the rest of our data.
+> **[4:03](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-generate-test-data-for-the-provided-class?u=76281980&t=243)** So, we can add them right to the end of the students array and then print it out with the [[Representational State Transfer (REST)|rest]] of our data.
 >
 > **[4:10](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-generate-test-data-for-the-provided-class?u=76281980&t=250)** So, let's see how that looks.
 >
@@ -1596,7 +1575,7 @@ created: 2026-05-02
 >
 > **[4:34](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-generate-test-data-for-the-provided-class?u=76281980&t=274)** So, just like in a previous video, we'd want to go through and ask the AI to fix this function or fix the function ourself.
 >
-> **[4:45](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-generate-test-data-for-the-provided-class?u=76281980&t=285)** The last thing we'll do here, which unit testing can also help us with is create a unit test for our class average function.
+> **[4:45](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-generate-test-data-for-the-provided-class?u=76281980&t=285)** The last thing we'll do here, which [[Unit Testing]] can also help us with is create a unit test for our class average function.
 >
 > **[4:55](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-generate-test-data-for-the-provided-class?u=76281980&t=295)** So I'm going to highlight this, and then I will say, "Please create a unit test for the class average function.
 >
@@ -1634,7 +1613,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), ai (4), [[Microsoft Copilot|Copilot]] (2), [[GitHub]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (2), [[GitHub]] (1), [[HTML]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Unit Testing]] (1)
 > **Env Vars:** gpa (5), html (1)
 > **Analogies:** for example (2), just like (1)
 > **CLI Commands:** make (2)
@@ -1648,8 +1627,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Types of documentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/types-of-documentation?u=76281980)
+#### [Types of documentation](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/types-of-documentation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1685,26 +1663,25 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/types-of-documentation?u=76281980&t=61)** This is much more structured, and generally provided for documentation generators to create a basic version of those manuals.
 >
-> **[1:09](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/types-of-documentation?u=76281980&t=69)** While there are lots of documentation tools out there, I'll be sticking with Copilot because the tool integrates directly with VS Code and works really, really well.
+> **[1:09](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/types-of-documentation?u=76281980&t=69)** While there are lots of documentation tools out there, I'll be sticking with [[Microsoft Copilot|Copilot]] because the tool integrates directly with VS Code and works really, really well.
 >
 > **[1:20](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/types-of-documentation?u=76281980&t=80)** If you want to find a different tool, there are lots over at "There's An AI For That."
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), api (2), next (1), [[Microsoft Copilot|Copilot]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** api (2)
 > **Tools:** vs code (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating Doc Blocks
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/creating-doc-blocks?u=76281980)
+#### [Creating Doc Blocks](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/creating-doc-blocks?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/creating-doc-blocks?u=76281980&t=0)** - [Instructor] Docblocks describe functions, what they do, the arguments they take, and what they return.
 >
-> **[0:06](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/creating-doc-blocks?u=76281980&t=6)** There are lots of tools that help us generate these for our code, but AI, especially GitHub's Copilot with VSCode come in very handy here.
+> **[0:06](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/creating-doc-blocks?u=76281980&t=6)** There are lots of tools that help us generate these for our code, but AI, especially [[GitHub]]'s [[Microsoft Copilot|Copilot]] with VSCode come in very handy here.
 >
 > **[0:16](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/creating-doc-blocks?u=76281980&t=16)** Let's document the person class we've been using, and this is where Copilot is pretty great.
 >
@@ -1748,7 +1725,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[Microsoft Copilot|Copilot]] (2), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (2), [[GitHub]] (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** get_age (1), sort_people_by_age_and_name (1)
 > **Documentation:** the documentation (2)
@@ -1757,8 +1734,7 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **UI Navigation:** click on (1)
 
-#### Creating comments for code
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/creating-comments-for-code?u=76281980)
+#### [Creating comments for code](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/creating-comments-for-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1832,7 +1808,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/creating-comments-for-code?u=76281980&t=175)** "Write a comment describing what this line does."
 >
-> **[3:01](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/creating-comments-for-code?u=76281980&t=181)** So you could see, Copilot's pretty bullish on document blocks instead of inline, single-line comments.
+> **[3:01](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/creating-comments-for-code?u=76281980&t=181)** So you could see, [[Microsoft Copilot|Copilot]]'s pretty bullish on document blocks instead of inline, single-line comments.
 >
 > **[3:10](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/creating-comments-for-code?u=76281980&t=190)** We can accept that.
 >
@@ -1856,7 +1832,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (1), [[Microsoft Copilot|Copilot]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** get_age (1)
@@ -1869,18 +1845,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/next-steps?u=76281980&t=0)** - Congratulations, you are well on your way to creating great PHP applications with the help of generative AI.
+> **[0:00](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/next-steps?u=76281980&t=0)** - Congratulations, you are well on your way to creating great [[PHP]] applications with the help of [[Generative AI]].
 >
-> **[0:08](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/next-steps?u=76281980&t=8)** If you want to dive deeper into PHP, we have a great selection of courses and videos in the LinkedIn Learning Library for you to check out.
+> **[0:08](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/next-steps?u=76281980&t=8)** If you want to dive deeper into PHP, we have a great selection of courses and videos in the [[LinkedIn]] Learning Library for you to check out.
 >
 > **[0:18](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/next-steps?u=76281980&t=18)** If you're more interested in the AI parts, we have lots of courses on that too.
 >
-> **[0:25](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/next-steps?u=76281980&t=25)** I recommend the Prompt Engineering course to really dive deep on how to create great prompts and get even better results, and definitely check out GitHub Copilot.
+> **[0:25](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/next-steps?u=76281980&t=25)** I recommend the [[Prompt Engineering]] course to really dive deep on how to create great prompts and get even better results, and definitely check out [[GitHub Copilot]].
 >
 > **[0:37](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/next-steps?u=76281980&t=37)** It's a truly fantastic tool for coders.
 >
@@ -1890,7 +1865,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (2), [[Generative AI]] (1), [[LinkedIn]] (1), ai (1), [[Prompt Engineering]] (1)
+> **Frameworks & Libraries:** [[PHP]] (2), [[Generative AI]] (1), [[LinkedIn]] (1), [[Prompt Engineering]] (1), [[GitHub Copilot]] (1)
 > **CLI Commands:** php (2)
 > **Env Vars:** php (2)
 > **URLs:** [casabona.org](https://casabona.org) (1)

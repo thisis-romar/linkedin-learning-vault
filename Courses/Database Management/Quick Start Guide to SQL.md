@@ -80,12 +80,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to RDBMS and SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/quick-start-guide-to-sql/introduction-to-rdbms-and-sql?u=76281980)
+#### [Introduction to RDBMS and SQL](https://www.linkedin.com/learning/quick-start-guide-to-sql/introduction-to-rdbms-and-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/quick-start-guide-to-sql/introduction-to-rdbms-and-sql?u=76281980&t=0)** - [Instructor] Did you ever wonder how to work with databases or how to retrieve data from various tables using SQL?
+> **[0:00](https://www.linkedin.com/learning/quick-start-guide-to-sql/introduction-to-rdbms-and-sql?u=76281980&t=0)** - [Instructor] Did you ever wonder how to work with [[Databases]] or how to retrieve data from various tables using [[SQL]]?
 >
 > **[0:08](https://www.linkedin.com/learning/quick-start-guide-to-sql/introduction-to-rdbms-and-sql?u=76281980&t=8)** If so, I'm here to help you.
 >
@@ -93,7 +92,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/quick-start-guide-to-sql/introduction-to-rdbms-and-sql?u=76281980&t=18)** In this course, we will take a deep dive into the fundamentals of SQL so that you can seamlessly work on large databases from day one.
 >
-> **[0:27](https://www.linkedin.com/learning/quick-start-guide-to-sql/introduction-to-rdbms-and-sql?u=76281980&t=27)** We will learn how to easily work with multiple tables at a time and understand how easy it can be to fetch data using SQL.
+> **[0:27](https://www.linkedin.com/learning/quick-start-guide-to-sql/introduction-to-rdbms-and-sql?u=76281980&t=27)** We will learn how to easily work with multiple tables at a time and understand how easy it can be to [[Fetch]] data using SQL.
 >
 > **[0:36](https://www.linkedin.com/learning/quick-start-guide-to-sql/introduction-to-rdbms-and-sql?u=76281980&t=36)** This is your quick start guide to SQL.
 >
@@ -101,18 +100,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (4), [[Databases]] (3), data (2), database (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Databases]] (3), [[Fetch]] (1)
 > **Env Vars:** sql (4)
 > **Speakers:** - [instructor] (1)
 
-#### How to use the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/quick-start-guide-to-sql/how-to-use-the-exercise-files?u=76281980)
+#### [How to use the exercise files](https://www.linkedin.com/learning/quick-start-guide-to-sql/how-to-use-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/quick-start-guide-to-sql/how-to-use-the-exercise-files?u=76281980&t=0)** - [Instructor] In this course we'll be using livesql.[oracle.com](https://oracle.com) for coding.
 >
-> **[0:06](https://www.linkedin.com/learning/quick-start-guide-to-sql/how-to-use-the-exercise-files?u=76281980&t=6)** Here we can run scripts or also write our own SQL statements and run them to view the output.
+> **[0:06](https://www.linkedin.com/learning/quick-start-guide-to-sql/how-to-use-the-exercise-files?u=76281980&t=6)** Here we can run scripts or also write our own [[SQL]] statements and run them to view the output.
 >
 > **[0:13](https://www.linkedin.com/learning/quick-start-guide-to-sql/how-to-use-the-exercise-files?u=76281980&t=13)** The best part is that it is absolutely free.
 >
@@ -164,7 +162,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (1), data (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **UI Navigation:** click on (2), go to (1), select the (1)
 > **Exercise Files:** exercise files (3)
 > **CLI Commands:** make (2)
@@ -178,8 +176,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Basic select statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/quick-start-guide-to-sql/basic-select-statements?u=76281980)
+#### [Basic select statements](https://www.linkedin.com/learning/quick-start-guide-to-sql/basic-select-statements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -191,7 +188,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/quick-start-guide-to-sql/basic-select-statements?u=76281980&t=10)** In a database, there are multiple tables containing huge sets of data.
 >
-> **[0:15](https://www.linkedin.com/learning/quick-start-guide-to-sql/basic-select-statements?u=76281980&t=15)** So the main functionality of a select statement is to fetch the data based on our criteria.
+> **[0:15](https://www.linkedin.com/learning/quick-start-guide-to-sql/basic-select-statements?u=76281980&t=15)** So the main functionality of a select statement is to [[Fetch]] the data based on our criteria.
 >
 > **[0:21](https://www.linkedin.com/learning/quick-start-guide-to-sql/basic-select-statements?u=76281980&t=21)** These are the three scenarios in which we use a select statement.
 >
@@ -213,11 +210,11 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/quick-start-guide-to-sql/basic-select-statements?u=76281980&t=99)** Select identifies the columns that are retrieved from the table, and FROM keyword identifies the tables from where this data is being fetched.
 >
-> **[1:50](https://www.linkedin.com/learning/quick-start-guide-to-sql/basic-select-statements?u=76281980&t=110)** To understand this better, we will look at a few examples in Live SQL.
+> **[1:50](https://www.linkedin.com/learning/quick-start-guide-to-sql/basic-select-statements?u=76281980&t=110)** To understand this better, we will look at a few examples in Live [[SQL]].
 >
 > **[1:56](https://www.linkedin.com/learning/quick-start-guide-to-sql/basic-select-statements?u=76281980&t=116)** Here, I will give SELECT * FROM emp_tab to retrieve all the column and all the rows from emp_tab table.
 >
-> **[2:09](https://www.linkedin.com/learning/quick-start-guide-to-sql/basic-select-statements?u=76281980&t=129)** So now to run this statement, I can click on this run button and if I'm using a Mac system, I will give Command + Enter, if I'm using a Windows system, I'll give Control + Enter.
+> **[2:09](https://www.linkedin.com/learning/quick-start-guide-to-sql/basic-select-statements?u=76281980&t=129)** So now to run this statement, I can click on this run button and if I'm using a Mac system, I will give Command + Enter, if I'm using a [[Windows]] system, I'll give Control + Enter.
 >
 > **[2:22](https://www.linkedin.com/learning/quick-start-guide-to-sql/basic-select-statements?u=76281980&t=142)** So I run this and it fetches all the rows and columns from emp_tab table.
 >
@@ -231,7 +228,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/quick-start-guide-to-sql/basic-select-statements?u=76281980&t=180)** SQL statements are not case sensitive, we can write them either in uppercase, lowercase, or even camel case, and it doesn't throw any errors.
 >
-> **[3:10](https://www.linkedin.com/learning/quick-start-guide-to-sql/basic-select-statements?u=76281980&t=190)** However, the standard that is followed across all the organizations is to use uppercase for keywords and lowercase for the rest of the code.
+> **[3:10](https://www.linkedin.com/learning/quick-start-guide-to-sql/basic-select-statements?u=76281980&t=190)** However, the standard that is followed across all the organizations is to use uppercase for keywords and lowercase for the [[Representational State Transfer (REST)|rest]] of the code.
 >
 > **[3:19](https://www.linkedin.com/learning/quick-start-guide-to-sql/basic-select-statements?u=76281980&t=199)** Keywords cannot be abbreviated or split across lines.
 >
@@ -241,7 +238,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Fetch]] (5), [[SQL]] (4), database (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (5), [[SQL]] (4), [[Windows]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** sql (4), select (2)
 > **Code Identifiers:** emp_tab (4)
 > **SQL:** select (2)
@@ -249,8 +246,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Operators
-> [LinkedIn Learning](https://www.linkedin.com/learning/quick-start-guide-to-sql/operators?u=76281980)
+#### [Operators](https://www.linkedin.com/learning/quick-start-guide-to-sql/operators?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -360,8 +356,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data types
-> [LinkedIn Learning](https://www.linkedin.com/learning/quick-start-guide-to-sql/data-types?u=76281980)
+#### [Data types](https://www.linkedin.com/learning/quick-start-guide-to-sql/data-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -435,7 +430,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), next (1), database (1)
 > **Env Vars:** raw (3), varchar2 (2), char (1), clob (1), blob (1)
 > **Definitions:** is a  (3), stands for (2), is an  (1)
 > **Analogies:** similar to (1)
@@ -446,8 +440,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Comparison conditions
-> [LinkedIn Learning](https://www.linkedin.com/learning/quick-start-guide-to-sql/comparison-conditions?u=76281980)
+#### [Comparison conditions](https://www.linkedin.com/learning/quick-start-guide-to-sql/comparison-conditions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -545,7 +538,7 @@ created: 2026-05-02
 >
 > **[4:51](https://www.linkedin.com/learning/quick-start-guide-to-sql/comparison-conditions?u=76281980&t=291)** WHERE name LIKE, in single quotes I give an underscore, capital I, percentage symbol, and single quotes closed and this is done.
 >
-> **[5:06](https://www.linkedin.com/learning/quick-start-guide-to-sql/comparison-conditions?u=76281980&t=306)** So here we are trying to fetch only those rows where the employee name begins with some letter and then the second letter is an uppercase I, followed by other letters.
+> **[5:06](https://www.linkedin.com/learning/quick-start-guide-to-sql/comparison-conditions?u=76281980&t=306)** So here we are trying to [[Fetch]] only those rows where the employee name begins with some letter and then the second letter is an uppercase I, followed by other letters.
 >
 > **[5:20](https://www.linkedin.com/learning/quick-start-guide-to-sql/comparison-conditions?u=76281980&t=320)** If this pattern matches for any employee names, then only those rows will be displayed.
 >
@@ -589,7 +582,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), next (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (1)
 > **Env Vars:** where (10), select (4), null (4), between (2), mon (1)
 > **SQL:** where (10), select (4)
 > **Code Identifiers:** emp_tab (4)
@@ -597,8 +590,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Logical conditions
-> [LinkedIn Learning](https://www.linkedin.com/learning/quick-start-guide-to-sql/logical-conditions?u=76281980)
+#### [Logical conditions](https://www.linkedin.com/learning/quick-start-guide-to-sql/logical-conditions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -626,7 +618,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/quick-start-guide-to-sql/logical-conditions?u=76281980&t=66)** Now, let's take an example to understand this better.
 >
-> **[1:10](https://www.linkedin.com/learning/quick-start-guide-to-sql/logical-conditions?u=76281980&t=70)** Let's head to Live SQL.
+> **[1:10](https://www.linkedin.com/learning/quick-start-guide-to-sql/logical-conditions?u=76281980&t=70)** Let's head to Live [[SQL]].
 >
 > **[1:12](https://www.linkedin.com/learning/quick-start-guide-to-sql/logical-conditions?u=76281980&t=72)** Here let's take a look at a table.
 >
@@ -634,7 +626,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/quick-start-guide-to-sql/logical-conditions?u=76281980&t=80)** This is our table.
 >
-> **[1:21](https://www.linkedin.com/learning/quick-start-guide-to-sql/logical-conditions?u=76281980&t=81)** Now if I want to retrieve all those rows where name begins with S, and the department number is 30, then it has to fetch only one row for me.
+> **[1:21](https://www.linkedin.com/learning/quick-start-guide-to-sql/logical-conditions?u=76281980&t=81)** Now if I want to retrieve all those rows where name begins with S, and the department number is 30, then it has to [[Fetch]] only one row for me.
 >
 > **[1:36](https://www.linkedin.com/learning/quick-start-guide-to-sql/logical-conditions?u=76281980&t=96)** It has to fetch this row where the name begins with S and department number is equal to 30.
 >
@@ -719,8 +711,7 @@ created: 2026-05-02
 > **Definitions:** is a  (3), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Order of precedence
-> [LinkedIn Learning](https://www.linkedin.com/learning/quick-start-guide-to-sql/order-of-precedence?u=76281980)
+#### [Order of precedence](https://www.linkedin.com/learning/quick-start-guide-to-sql/order-of-precedence?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -738,7 +729,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/quick-start-guide-to-sql/order-of-precedence?u=76281980&t=52)** Let's look at a few examples.
 >
-> **[0:54](https://www.linkedin.com/learning/quick-start-guide-to-sql/order-of-precedence?u=76281980&t=54)** I'll write these select statements in Live SQL and then we will compare the two outputs.
+> **[0:54](https://www.linkedin.com/learning/quick-start-guide-to-sql/order-of-precedence?u=76281980&t=54)** I'll write these select statements in Live [[SQL]] and then we will compare the two outputs.
 >
 > **[1:01](https://www.linkedin.com/learning/quick-start-guide-to-sql/order-of-precedence?u=76281980&t=61)** I give select EMP number, name, DPT number, salary from EMP tab where DPT number equals 30, or DPT number equals 40.
 >
@@ -784,8 +775,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sorting data
-> [LinkedIn Learning](https://www.linkedin.com/learning/quick-start-guide-to-sql/sorting-data?u=76281980)
+#### [Sorting data](https://www.linkedin.com/learning/quick-start-guide-to-sql/sorting-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -799,7 +789,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/quick-start-guide-to-sql/sorting-data?u=76281980&t=23)** To display the results in descending order, I need to explicitly mention it as descending.
 >
-> **[0:28](https://www.linkedin.com/learning/quick-start-guide-to-sql/sorting-data?u=76281980&t=28)** Let's look at this example in Live SQL.
+> **[0:28](https://www.linkedin.com/learning/quick-start-guide-to-sql/sorting-data?u=76281980&t=28)** Let's look at this example in Live [[SQL]].
 >
 > **[0:32](https://www.linkedin.com/learning/quick-start-guide-to-sql/sorting-data?u=76281980&t=32)** Here, I give SELECT, empno, name, salary FROM emp..tab
 >
@@ -807,7 +797,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/quick-start-guide-to-sql/sorting-data?u=76281980&t=51)** If I include descending, then it displays from the highest to the least salaries.
 >
-> **[0:56](https://www.linkedin.com/learning/quick-start-guide-to-sql/sorting-data?u=76281980&t=56)** Now here, ORDER BY clause always comes last in the SELECT statement, so first we fetch the data using SELECT statement, filter out the data, using the WHERE conditions, and then we sort the filtered data.
+> **[0:56](https://www.linkedin.com/learning/quick-start-guide-to-sql/sorting-data?u=76281980&t=56)** Now here, ORDER BY clause always comes last in the SELECT statement, so first we [[Fetch]] the data using SELECT statement, filter out the data, using the WHERE conditions, and then we sort the filtered data.
 >
 > **[1:11](https://www.linkedin.com/learning/quick-start-guide-to-sql/sorting-data?u=76281980&t=71)** As we have learned earlier, the default order is ascending order, so when we are trying to sort columns of different data types, the sorting mechanism would change slightly for each data type.
 >
@@ -849,7 +839,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[SQL]] (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[Fetch]] (1)
 > **Env Vars:** select (4), order (3), sql (1), where (1)
 > **SQL:** select (4), order by (3), where (1)
 > **Definitions:** is a  (1)
@@ -860,8 +850,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Types of functions and number functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/quick-start-guide-to-sql/types-of-functions-and-number-functions?u=76281980)
+#### [Types of functions and number functions](https://www.linkedin.com/learning/quick-start-guide-to-sql/types-of-functions-and-number-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -893,7 +882,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/quick-start-guide-to-sql/types-of-functions-and-number-functions?u=76281980&t=92)** The next one is data type conversion functions, which are used when we need to change data types to achieve some functionality.
 >
-> **[1:42](https://www.linkedin.com/learning/quick-start-guide-to-sql/types-of-functions-and-number-functions?u=76281980&t=102)** The last but not the least is the conditional expressions, which make it easy to use if then else logic in SQL.
+> **[1:42](https://www.linkedin.com/learning/quick-start-guide-to-sql/types-of-functions-and-number-functions?u=76281980&t=102)** The last but not the least is the conditional expressions, which make it easy to use if then else logic in [[SQL]].
 >
 > **[1:52](https://www.linkedin.com/learning/quick-start-guide-to-sql/types-of-functions-and-number-functions?u=76281980&t=112)** These are then number functions that we use most often.
 >
@@ -907,7 +896,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/quick-start-guide-to-sql/types-of-functions-and-number-functions?u=76281980&t=135)** FROM DUAL.
 >
-> **[2:17](https://www.linkedin.com/learning/quick-start-guide-to-sql/types-of-functions-and-number-functions?u=76281980&t=137)** Now, DUAL is a one row and one column table that is present by default in all Oracle databases.
+> **[2:17](https://www.linkedin.com/learning/quick-start-guide-to-sql/types-of-functions-and-number-functions?u=76281980&t=137)** Now, DUAL is a one row and one column table that is present by default in all Oracle [[Databases]].
 >
 > **[2:25](https://www.linkedin.com/learning/quick-start-guide-to-sql/types-of-functions-and-number-functions?u=76281980&t=145)** It's used to get pseudo column values or to calculate some mathematical expressions and so on.
 >
@@ -949,7 +938,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[SQL]] (2), next (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Databases]] (1)
 > **Env Vars:** select (4), round (3), mod (3), dual (3), sql (2)
 > **SQL:** select (4)
 > **Versions:** 92.42 (2), 92.427 (1), 92.43 (1)
@@ -958,8 +947,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Character functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/quick-start-guide-to-sql/character-functions?u=76281980)
+#### [Character functions](https://www.linkedin.com/learning/quick-start-guide-to-sql/character-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1097,15 +1085,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6)
 > **Env Vars:** select (7), dual (7), concat (6), lpad (6), substring (5)
 > **SQL:** select (7)
 > **Definitions:** is a  (3)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Date functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/quick-start-guide-to-sql/date-functions?u=76281980)
+#### [Date functions](https://www.linkedin.com/learning/quick-start-guide-to-sql/date-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1167,14 +1153,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4)
 > **Env Vars:** tuesday (4), round (4), truncate (3), sysdate (2), select (2)
 > **CLI Commands:** find (2)
 > **SQL:** select (2)
 > **Speakers:** - [instructor] (1)
 
-#### Data type conversion functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/quick-start-guide-to-sql/data-type-conversion-functions?u=76281980)
+#### [Data type conversion functions](https://www.linkedin.com/learning/quick-start-guide-to-sql/data-type-conversion-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1184,7 +1168,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/quick-start-guide-to-sql/data-type-conversion-functions?u=76281980&t=11)** Sometimes Oracle Server uses data of one data type where it is expected to have data of a different data type, then the Oracle Server implicitly converts one data type to another as needed.
 >
-> **[0:26](https://www.linkedin.com/learning/quick-start-guide-to-sql/data-type-conversion-functions?u=76281980&t=26)** Though the implicit conversion feature is available, it is always advisable to use explicit conversions as it makes the SQL code more reliable.
+> **[0:26](https://www.linkedin.com/learning/quick-start-guide-to-sql/data-type-conversion-functions?u=76281980&t=26)** Though the implicit conversion feature is available, it is always advisable to use explicit conversions as it makes the [[SQL]] code more reliable.
 >
 > **[0:36](https://www.linkedin.com/learning/quick-start-guide-to-sql/data-type-conversion-functions?u=76281980&t=36)** In explicit data conversions, we use some conversion functions like TO_CHAR, TO_NUMBER, and TO_DATE.
 >
@@ -1244,14 +1228,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), feature (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** to_char (4), to_number (3), to_date (3), nvl (3), null (3)
 > **Code Identifiers:** emp_tab (2)
 > **SQL:** select (2)
 > **Speakers:** - [instructor] (1)
 
-#### Conditional expressions
-> [LinkedIn Learning](https://www.linkedin.com/learning/quick-start-guide-to-sql/conditional-expressions?u=76281980)
+#### [Conditional expressions](https://www.linkedin.com/learning/quick-start-guide-to-sql/conditional-expressions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1259,7 +1242,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/quick-start-guide-to-sql/conditional-expressions?u=76281980&t=3)** These are CASE and DECODE.
 >
-> **[0:06](https://www.linkedin.com/learning/quick-start-guide-to-sql/conditional-expressions?u=76281980&t=6)** They both act like IF-THEN-ELSE in SQL.
+> **[0:06](https://www.linkedin.com/learning/quick-start-guide-to-sql/conditional-expressions?u=76281980&t=6)** They both act like IF-THEN-ELSE in [[SQL]].
 >
 > **[0:09](https://www.linkedin.com/learning/quick-start-guide-to-sql/conditional-expressions?u=76281980&t=9)** Typically to use IF-THEN-ELSE, we need to write a procedure but by using these functions, we can avoid that.
 >
@@ -1341,7 +1324,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2), [[SQL]] (1), data (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** decode (7), case (4), else (2), select (2), manager (2)
 > **Code Identifiers:** emp_tab (2)
 > **SQL:** select (2)
@@ -1353,8 +1336,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Types of group functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/quick-start-guide-to-sql/types-of-group-functions?u=76281980)
+#### [Types of group functions](https://www.linkedin.com/learning/quick-start-guide-to-sql/types-of-group-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1458,7 +1440,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (2)
 > **Env Vars:** count (8), select (8), max (7), min (7), sum (3)
 > **SQL:** select (8), where (2), group by (1), order by (1)
 > **Code Identifiers:** emp_tab (9)
@@ -1466,8 +1447,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - let (1)
 
-#### Creating groups and nested groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/quick-start-guide-to-sql/creating-groups-and-nested-groups?u=76281980)
+#### [Creating groups and nested groups](https://www.linkedin.com/learning/quick-start-guide-to-sql/creating-groups-and-nested-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1511,8 +1491,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Filtering group results
-> [LinkedIn Learning](https://www.linkedin.com/learning/quick-start-guide-to-sql/filtering-group-results?u=76281980)
+#### [Filtering group results](https://www.linkedin.com/learning/quick-start-guide-to-sql/filtering-group-results?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1548,7 +1527,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Env Vars:** where (7), group_functions (2), select (2), group (2), having (2)
 > **SQL:** where (7), select (2), group by (2), having (2), order by (1)
 > **Code Identifiers:** group_condition (2), group_conditions (2), table_name (1), group_by_expressions (1), emp_tab (1)
@@ -1559,14 +1537,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Types of joins
-> [LinkedIn Learning](https://www.linkedin.com/learning/quick-start-guide-to-sql/types-of-joins?u=76281980)
+#### [Types of joins](https://www.linkedin.com/learning/quick-start-guide-to-sql/types-of-joins?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/quick-start-guide-to-sql/types-of-joins?u=76281980&t=0)** - [Instructor] Now let's learn all about joins.
 >
-> **[0:03](https://www.linkedin.com/learning/quick-start-guide-to-sql/types-of-joins?u=76281980&t=3)** We use joins to fetch data from one or more tables at a time.
+> **[0:03](https://www.linkedin.com/learning/quick-start-guide-to-sql/types-of-joins?u=76281980&t=3)** We use joins to [[Fetch]] data from one or more tables at a time.
 >
 > **[0:08](https://www.linkedin.com/learning/quick-start-guide-to-sql/types-of-joins?u=76281980&t=8)** This is the syntax for joins: select columns from table_name1 followed by the joint_name, that is the type of join we use.
 >
@@ -1588,7 +1565,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/quick-start-guide-to-sql/types-of-joins?u=76281980&t=62)** So this is how the Venn diagram looks for the inner join.
 >
-> **[1:06](https://www.linkedin.com/learning/quick-start-guide-to-sql/types-of-joins?u=76281980&t=66)** Let's look at this example in Live SQL.
+> **[1:06](https://www.linkedin.com/learning/quick-start-guide-to-sql/types-of-joins?u=76281980&t=66)** Let's look at this example in Live [[SQL]].
 >
 > **[1:10](https://www.linkedin.com/learning/quick-start-guide-to-sql/types-of-joins?u=76281980&t=70)** I've written the same example over here and I've also written the country_tab and states_tab select statements too just to understand it better.
 >
@@ -1662,14 +1639,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Fetch]] (1), [[SQL]] (1), next (1)
+> **Frameworks & Libraries:** [[Fetch]] (1), [[SQL]] (1)
 > **Code Identifiers:** country_tab (7), states_tab (6), joint_name (1)
 > **Env Vars:** usa (2), sql (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Uses of subqueries
-> [LinkedIn Learning](https://www.linkedin.com/learning/quick-start-guide-to-sql/uses-of-subqueries?u=76281980)
+#### [Uses of subqueries](https://www.linkedin.com/learning/quick-start-guide-to-sql/uses-of-subqueries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1697,13 +1673,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1)
 > **Definitions:** is a  (1), known as (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Types of subqueries
-> [LinkedIn Learning](https://www.linkedin.com/learning/quick-start-guide-to-sql/types-of-subqueries?u=76281980)
+#### [Types of subqueries](https://www.linkedin.com/learning/quick-start-guide-to-sql/types-of-subqueries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1727,7 +1701,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/quick-start-guide-to-sql/types-of-subqueries?u=76281980&t=43)** As we have seen it's enclosed in parenthesis and it's on the right side of the comparison condition.
 >
-> **[0:50](https://www.linkedin.com/learning/quick-start-guide-to-sql/types-of-subqueries?u=76281980&t=50)** So now let's look at this example in Live SQL.
+> **[0:50](https://www.linkedin.com/learning/quick-start-guide-to-sql/types-of-subqueries?u=76281980&t=50)** So now let's look at this example in Live [[SQL]].
 >
 > **[0:54](https://www.linkedin.com/learning/quick-start-guide-to-sql/types-of-subqueries?u=76281980&t=54)** Here, I've already written returned this example here.
 >
@@ -1813,7 +1787,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (2), next (1)
+> **Frameworks & Libraries:** [[SQL]] (2)
 > **Env Vars:** sql (2)
 > **Definitions:** is an  (2)
 > **Speakers:** - [instructor] (1)
@@ -1823,14 +1797,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/quick-start-guide-to-sql/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/quick-start-guide-to-sql/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/quick-start-guide-to-sql/next-steps?u=76281980&t=0)** - [Narrator] Thank you so much for joining me for this course, I hope you enjoyed learning how to write different kinds of select statements using SQL.
+> **[0:00](https://www.linkedin.com/learning/quick-start-guide-to-sql/next-steps?u=76281980&t=0)** - [Narrator] Thank you so much for joining me for this course, I hope you enjoyed learning how to write different kinds of select statements using [[SQL]].
 >
-> **[0:09](https://www.linkedin.com/learning/quick-start-guide-to-sql/next-steps?u=76281980&t=9)** Till now we have learned how to fetch data from existing tables.
+> **[0:09](https://www.linkedin.com/learning/quick-start-guide-to-sql/next-steps?u=76281980&t=9)** Till now we have learned how to [[Fetch]] data from existing tables.
 >
 > **[0:14](https://www.linkedin.com/learning/quick-start-guide-to-sql/next-steps?u=76281980&t=14)** If you wish to continue your database journey, I would highly recommend another course that I have tailor made just for you, it's called [[SQL Queries Made Easy]].
 >
@@ -1844,7 +1817,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (2), data (2), [[Fetch]] (1), database (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Fetch]] (1)
 > **Env Vars:** sql (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)

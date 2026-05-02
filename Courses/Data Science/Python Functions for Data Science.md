@@ -84,12 +84,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use Python like a data scientist
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/use-python-like-a-data-scientist?u=76281980)
+#### [Use Python like a data scientist](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/use-python-like-a-data-scientist?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/use-python-like-a-data-scientist?u=76281980&t=0)** There are numerous functions in Python that support data science, and taking time now to get familiar with some of the most powerful functions can help sharpen your Python and data science skills and advance your career.
+> **[0:00](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/use-python-like-a-data-scientist?u=76281980&t=0)** There are numerous functions in [[Python (Programming Language)|Python]] that support [[Data Science]], and taking time now to get familiar with some of the most powerful functions can help sharpen your Python and data science skills and advance your career.
 >
 > **[0:12](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/use-python-like-a-data-scientist?u=76281980&t=12)** Hi, I'm Lavanya Vijayan.
 >
@@ -97,7 +96,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/use-python-like-a-data-scientist?u=76281980&t=18)** In this course, I'll show you the functions that are most commonly used in Python by data scientists.
 >
-> **[0:24](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/use-python-like-a-data-scientist?u=76281980&t=24)** You'll get to explore essential built-in functions, then dive into libraries like NumPy for working with numerical data, SciPy for statistical methods, and Pandas for data manipulation.
+> **[0:24](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/use-python-like-a-data-scientist?u=76281980&t=24)** You'll get to explore essential built-in functions, then dive into libraries like NumPy for working with numerical data, SciPy for statistical methods, and [[Pandas (Software)|Pandas]] for [[Data Manipulation]].
 >
 > **[0:35](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/use-python-like-a-data-scientist?u=76281980&t=35)** You'll also get familiar with data visualization techniques with Matplotlib and Seaborn.
 >
@@ -107,12 +106,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Python (Programming Language)|Python]] (4), career (1), [[Pandas (Software)|Pandas]] (1), [[Data Manipulation]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Data Science]] (2), [[Pandas (Software)|Pandas]] (1), [[Data Manipulation]] (1)
 > **CLI Commands:** python (4)
 > **Env Vars:** stem (1)
 
-#### Getting started with Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/getting-started-with-python?u=76281980)
+#### [Getting started with Python](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/getting-started-with-python?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -124,7 +122,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/getting-started-with-python?u=76281980&t=20)** To get the most out of each lesson, I have a few quick tips to share.
 >
-> **[0:24](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/getting-started-with-python?u=76281980&t=24)** First, I recommend that you start by making sure Python is set up on your computer.
+> **[0:24](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/getting-started-with-python?u=76281980&t=24)** First, I recommend that you start by making sure [[Python (Programming Language)|Python]] is set up on your computer.
 >
 > **[0:29](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/getting-started-with-python?u=76281980&t=29)** You can go to [python.org/downloads](https://python.org/downloads) and download the installer for the latest version of Python for your operating system.
 >
@@ -138,7 +136,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/getting-started-with-python?u=76281980&t=65)** Throughout the course, you'll need to run each code cell in the Jupyter Notebook as you follow along.
 >
-> **[1:11](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/getting-started-with-python?u=76281980&t=71)** Note that to do this on a Mac, you'll press Shift + Return, and on a Windows or Linux, you'll press Shift + Enter.
+> **[1:11](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/getting-started-with-python?u=76281980&t=71)** Note that to do this on a Mac, you'll press Shift + Return, and on a [[Windows]] or [[Linux]], you'll press Shift + Enter.
 >
 > **[1:19](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/getting-started-with-python?u=76281980&t=79)** Finally, I highly recommend that you practice the techniques you're learning as you go and try things out with your own data.
 >
@@ -146,7 +144,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), next (2), [[Windows]] (1), [[Linux]] (1), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Windows]] (1), [[Linux]] (1)
 > **CLI Commands:** python (4), make (2)
 > **Prerequisites:** set up (4), install (1), you'll need (1)
 > **Tools:** jupyter (4)
@@ -160,12 +158,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Inspect data for validation
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/inspect-data-for-validation?u=76281980)
+#### [Inspect data for validation](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/inspect-data-for-validation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/inspect-data-for-validation?u=76281980&t=0)** Python has several fundamental built-in functions that come in handy when working with data.
+> **[0:00](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/inspect-data-for-validation?u=76281980&t=0)** [[Python (Programming Language)|Python]] has several fundamental built-in functions that come in handy when working with data.
 >
 > **[0:05](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/inspect-data-for-validation?u=76281980&t=5)** In this lesson, I'll show you how to use three essential built-in functions in Python so you can work with your data more efficiently and effectively.
 >
@@ -181,7 +178,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/inspect-data-for-validation?u=76281980&t=37)** The input() function takes in a prompt, displays the prompt on the screen, allows the user to type a response to the prompt, and returns the response as a string.
 >
-> **[0:48](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/inspect-data-for-validation?u=76281980&t=48)** When you're running experiments or simulations in data science, you'll often need to decide how many samples to generate.
+> **[0:48](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/inspect-data-for-validation?u=76281980&t=48)** When you're running experiments or simulations in [[Data Science]], you'll often need to decide how many samples to generate.
 >
 > **[0:55](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/inspect-data-for-validation?u=76281980&t=55)** You can use the input() function to capture that number directly from the user.
 >
@@ -231,7 +228,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Python (Programming Language)|Python]] (4), prompt (4), hit (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Data Science]] (1)
 > **CLI Commands:** python (4), make (1)
 > **Code Identifiers:** sample_size (2), avg_score (2)
 > **Definitions:** is a  (3), is an  (1)
@@ -240,12 +237,11 @@ created: 2026-05-02
 > **Best Practices:** good practice (1)
 > **Warnings:** note that (1)
 
-#### Handle magnitudes and precision in data
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/handle-magnitudes-and-precision-in-data?u=76281980)
+#### [Handle magnitudes and precision in data](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/handle-magnitudes-and-precision-in-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/handle-magnitudes-and-precision-in-data?u=76281980&t=0)** Properly handling magnitudes and controlling numeric precision is essential for interpreting your data and keeping your results readable when using Python.
+> **[0:00](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/handle-magnitudes-and-precision-in-data?u=76281980&t=0)** Properly handling magnitudes and controlling numeric precision is essential for interpreting your data and keeping your results readable when using [[Python (Programming Language)|Python]].
 >
 > **[0:09](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/handle-magnitudes-and-precision-in-data?u=76281980&t=9)** In this lesson, I'll introduce you to two built-in Python functions that help you do this: abs() and round().
 >
@@ -255,7 +251,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/handle-magnitudes-and-precision-in-data?u=76281980&t=25)** This is useful in situations when you only care about magnitudes-- for example, the size of an error or the distance between two values.
 >
-> **[0:34](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/handle-magnitudes-and-precision-in-data?u=76281980&t=34)** Let's say you're analyzing monthly financial data of a business, and you're working with profit values.
+> **[0:34](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/handle-magnitudes-and-precision-in-data?u=76281980&t=34)** Let's say you're analyzing monthly [[Financial Data]] of a business, and you're working with profit values.
 >
 > **[0:39](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/handle-magnitudes-and-precision-in-data?u=76281980&t=39)** Your goal is to get the magnitude of the gain or loss for each month.
 >
@@ -281,7 +277,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/handle-magnitudes-and-precision-in-data?u=76281980&t=95)** You'd pass in a second argument to specify how many decimal places to keep.
 >
-> **[1:39](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/handle-magnitudes-and-precision-in-data?u=76281980&t=99)** In data science, you often perform calculations that produce long floating point numbers.
+> **[1:39](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/handle-magnitudes-and-precision-in-data?u=76281980&t=99)** In [[Data Science]], you often perform calculations that produce long floating point numbers.
 >
 > **[1:44](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/handle-magnitudes-and-precision-in-data?u=76281980&t=104)** For example, if you measure the accuracy score of a model, Python might return something like this.
 >
@@ -303,23 +299,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Python (Programming Language)|Python]] (3), [[Financial Data]] (1), business (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Financial Data]] (1), [[Data Science]] (1)
 > **CLI Commands:** python (3), make (2)
 > **Analogies:** for example (2), for instance (1)
 > **Code Identifiers:** sept_profit (1), oct_profit (1)
 > **Versions:** 0.918372645 (1)
 > **Definitions:** in other words (1)
 
-#### Aggregate data with basic functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/aggregate-data-with-basic-functions?u=76281980)
+#### [Aggregate data with basic functions](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/aggregate-data-with-basic-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/aggregate-data-with-basic-functions?u=76281980&t=0)** Aggregating data into quick summary statistics is often the first step in exploratory data analysis.
+> **[0:00](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/aggregate-data-with-basic-functions?u=76281980&t=0)** Aggregating data into quick summary [[Statistics]] is often the first step in exploratory data analysis.
 >
 > **[0:06](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/aggregate-data-with-basic-functions?u=76281980&t=6)** It's important to start with getting a high-level sense of your data.
 >
-> **[0:10](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/aggregate-data-with-basic-functions?u=76281980&t=10)** In this lesson, I'll show you how to aggregate values in Python using four built-in functions: min(), max(), sum(), and len().
+> **[0:10](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/aggregate-data-with-basic-functions?u=76281980&t=10)** In this lesson, I'll show you how to aggregate values in [[Python (Programming Language)|Python]] using four built-in functions: min(), max(), sum(), and len().
 >
 > **[0:19](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/aggregate-data-with-basic-functions?u=76281980&t=19)** You'll leave knowing how each works and how to use them to help summarize your data efficiently.
 >
@@ -371,13 +366,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (2), [[Statistics]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1), find (1)
 > **Versions:** 71.9 (1)
 > **Prerequisites:** you'll need (1)
 
-#### Sort, filter, and transform your data
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/sort-filter-and-transform-your-data?u=76281980)
+#### [Sort, filter, and transform your data](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/sort-filter-and-transform-your-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -387,7 +381,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/sort-filter-and-transform-your-data?u=76281980&t=11)** In this lesson, you'll learn how to use four built-in functions that help you rearrange and prepare data: sorted(), map(), zip(), and filter().
 >
-> **[0:20](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/sort-filter-and-transform-your-data?u=76281980&t=20)** These functions are powerful tools for ordering, pruning, and transforming sequences in Python.
+> **[0:20](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/sort-filter-and-transform-your-data?u=76281980&t=20)** These functions are powerful tools for ordering, pruning, and transforming sequences in [[Python (Programming Language)|Python]].
 >
 > **[0:26](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/sort-filter-and-transform-your-data?u=76281980&t=26)** Let's start with sorted(), which arranges values in ascending order by default.
 >
@@ -469,7 +463,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Python (Programming Language)|Python]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Analogies:** for example (2), imagine (1)
 > **CLI Commands:** python (1)
 > **Definitions:** is a  (1)
@@ -479,12 +473,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create NumPy arrays in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/create-numpy-arrays-in-python?u=76281980)
+#### [Create NumPy arrays in Python](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/create-numpy-arrays-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/create-numpy-arrays-in-python?u=76281980&t=0)** NumPy arrays are the foundation of numerical computing in Python, and the performance-optimized backbone of nearly every data science workflow.
+> **[0:00](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/create-numpy-arrays-in-python?u=76281980&t=0)** NumPy arrays are the foundation of numerical computing in [[Python (Programming Language)|Python]], and the performance-optimized backbone of nearly every [[Data Science]] workflow.
 >
 > **[0:08](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/create-numpy-arrays-in-python?u=76281980&t=8)** They make it possible to handle large volumes of numeric data efficiently.
 >
@@ -498,7 +491,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/create-numpy-arrays-in-python?u=76281980&t=32)** The convention is to import it using the alias “np”.
 >
-> **[0:37](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/create-numpy-arrays-in-python?u=76281980&t=37)** The np.array() function converts existing Python data structures, like lists or lists of lists, into NumPy arrays.
+> **[0:37](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/create-numpy-arrays-in-python?u=76281980&t=37)** The np.array() function converts existing Python [[Data Structures]], like lists or lists of lists, into NumPy arrays.
 >
 > **[0:44](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/create-numpy-arrays-in-python?u=76281980&t=44)** Here I've defined a variable named “array1”.
 >
@@ -580,18 +573,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Python (Programming Language)|Python]] (3), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Data Science]] (2), [[Data Structures]] (2)
 > **Definitions:** is an  (3), is a  (2)
 > **CLI Commands:** python (3), make (1)
 > **Code Identifiers:** evenly_spaced (1), random_integers (1)
 > **Analogies:** similar to (1)
 
-#### Index and slice NumPy arrays
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/index-and-slice-numpy-arrays?u=76281980)
+#### [Index and slice NumPy arrays](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/index-and-slice-numpy-arrays?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/index-and-slice-numpy-arrays?u=76281980&t=0)** When you're working with arrays in data science, you'll often need to access and extract specific values or subsets of data.
+> **[0:00](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/index-and-slice-numpy-arrays?u=76281980&t=0)** When you're working with arrays in [[Data Science]], you'll often need to access and extract specific values or subsets of data.
 >
 > **[0:07](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/index-and-slice-numpy-arrays?u=76281980&t=7)** NumPy makes this easy with indexing and slicing.
 >
@@ -601,7 +593,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/index-and-slice-numpy-arrays?u=76281980&t=23)** You can access an individual element by its index.
 >
-> **[0:26](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/index-and-slice-numpy-arrays?u=76281980&t=26)** Just like lists in Python, NumPy uses 0-based indexing.
+> **[0:26](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/index-and-slice-numpy-arrays?u=76281980&t=26)** Just like lists in [[Python (Programming Language)|Python]], NumPy uses 0-based indexing.
 >
 > **[0:30](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/index-and-slice-numpy-arrays?u=76281980&t=30)** That means the first element is at position 0, the second element is at position 1, and so on.
 >
@@ -645,16 +637,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Data Science]] (1)
 > **CLI Commands:** python (2)
 > **Analogies:** just like (1), for example (1)
 
-#### Reshape NumPy arrays
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/reshape-numpy-arrays?u=76281980)
+#### [Reshape NumPy arrays](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/reshape-numpy-arrays?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/reshape-numpy-arrays?u=76281980&t=0)** Being able to inspect and reorganize an array is crucial in data science, especially when preparing data for computations or machine-learning models.
+> **[0:00](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/reshape-numpy-arrays?u=76281980&t=0)** Being able to inspect and reorganize an array is crucial in [[Data Science]], especially when preparing data for computations or machine-learning models.
 >
 > **[0:09](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/reshape-numpy-arrays?u=76281980&t=9)** In this lesson, you'll learn how to check the dimensions of an array and reshape it into a new structure using .shape and .reshape.
 >
@@ -688,19 +679,18 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/reshape-numpy-arrays?u=76281980&t=94)** Using .shape and .reshape helps you control the structure of your data.
 >
-> **[1:39](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/reshape-numpy-arrays?u=76281980&t=99)** This flexibility becomes especially important when feeding arrays into algorithms that expect specific input types.
+> **[1:39](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/reshape-numpy-arrays?u=76281980&t=99)** This flexibility becomes especially important when feeding arrays into [[Algorithms]] that expect specific input types.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (1), [[Algorithms]] (1)
 > **CLI Commands:** make (1)
 
-#### Transform and scale NumPy arrays
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/transform-and-scale-numpy-arrays?u=76281980)
+#### [Transform and scale NumPy arrays](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/transform-and-scale-numpy-arrays?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/transform-and-scale-numpy-arrays?u=76281980&t=0)** Data transformation is an important step of preparing your data for analysis or modeling.
+> **[0:00](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/transform-and-scale-numpy-arrays?u=76281980&t=0)** [[Data Transformation]] is an important step of preparing your data for analysis or modeling.
 >
 > **[0:05](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/transform-and-scale-numpy-arrays?u=76281980&t=5)** Transformations can include adjusting values, shifting them, or combining arrays to create new features.
 >
@@ -728,7 +718,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/transform-and-scale-numpy-arrays?u=76281980&t=90)** Each operation is applied element by element.
 >
-> **[1:33](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/transform-and-scale-numpy-arrays?u=76281980&t=93)** It's much faster than looping through individual elements in Python.
+> **[1:33](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/transform-and-scale-numpy-arrays?u=76281980&t=93)** It's much faster than looping through individual elements in [[Python (Programming Language)|Python]].
 >
 > **[1:37](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/transform-and-scale-numpy-arrays?u=76281980&t=97)** Each of these is an example of transforming the data, modifying the values using arithmetic operations.
 >
@@ -748,18 +738,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Data Transformation]] (1), feature (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Data Transformation]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1), make (1)
 > **Definitions:** known as (1), is an  (1)
 
-#### Extract key values with NumPy
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/extract-key-values-with-numpy?u=76281980)
+#### [Extract key values with NumPy](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/extract-key-values-with-numpy?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/extract-key-values-with-numpy?u=76281980&t=0)** Summarizing numerical data is essential for understanding patterns and making decisions.
 >
-> **[0:05](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/extract-key-values-with-numpy?u=76281980&t=5)** In this lesson, you'll learn how to compute summary statistics and identify extreme values using NumPy's built in methods.
+> **[0:05](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/extract-key-values-with-numpy?u=76281980&t=5)** In this lesson, you'll learn how to compute summary [[Statistics]] and identify extreme values using NumPy's built in methods.
 >
 > **[0:13](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/extract-key-values-with-numpy?u=76281980&t=13)** Let's start with importing NumPy and creating an array of data.
 >
@@ -793,17 +782,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Statistics]] (3)
+> **Frameworks & Libraries:** [[Statistics]] (3)
 > **CLI Commands:** find (1)
 
-#### Solve matrix-based problems with SciPy
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/solve-matrix-based-problems-with-scipy?u=76281980)
+#### [Solve matrix-based problems with SciPy](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/solve-matrix-based-problems-with-scipy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/solve-matrix-based-problems-with-scipy?u=76281980&t=0)** Matrix operations are at the core of many data science and machine learning algorithms.
+> **[0:00](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/solve-matrix-based-problems-with-scipy?u=76281980&t=0)** Matrix operations are at the core of many [[Data Science]] and machine learning [[Algorithms]].
 >
-> **[0:05](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/solve-matrix-based-problems-with-scipy?u=76281980&t=5)** In this lesson, you'll use SciPy's linear algebra module to compute determinants, inverses, and solutions for matrix equations.
+> **[0:05](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/solve-matrix-based-problems-with-scipy?u=76281980&t=5)** In this lesson, you'll use SciPy's [[Linear Algebra]] module to compute determinants, inverses, and solutions for matrix equations.
 >
 > **[0:14](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/solve-matrix-based-problems-with-scipy?u=76281980&t=14)** First, import NumPy and SciPy’s linear algebra module.
 >
@@ -841,21 +829,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linear Algebra]] (3), data (1), [[Algorithms]] (1), product (1)
+> **Frameworks & Libraries:** [[Linear Algebra]] (3), [[Data Science]] (1), [[Algorithms]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (3)
 > **Best Practices:** make sure to (1)
 
-#### Run statistical functions with SciPy
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/run-statistical-functions-with-scipy?u=76281980)
+#### [Run statistical functions with SciPy](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/run-statistical-functions-with-scipy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/run-statistical-functions-with-scipy?u=76281980&t=0)** Statistical analysis is a core part of drawing inferences and validating insights in data science.
+> **[0:00](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/run-statistical-functions-with-scipy?u=76281980&t=0)** [[Statistical Analysis]] is a core part of drawing inferences and validating insights in [[Data Science]].
 >
-> **[0:06](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/run-statistical-functions-with-scipy?u=76281980&t=6)** In this lesson, you'll use SciPy stats module to work with probability distributions and hypothesis tests.
+> **[0:06](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/run-statistical-functions-with-scipy?u=76281980&t=6)** In this lesson, you'll use SciPy stats module to work with [[Probability]] distributions and hypothesis tests.
 >
-> **[0:13](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/run-statistical-functions-with-scipy?u=76281980&t=13)** Probability distributions are at the heart of statistics in data science.
+> **[0:13](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/run-statistical-functions-with-scipy?u=76281980&t=13)** Probability distributions are at the heart of [[Statistics]] in data science.
 >
 > **[0:17](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/run-statistical-functions-with-scipy?u=76281980&t=17)** They describe how values in your dataset are expected to be distributed, or in other words, how likely certain outcomes are.
 >
@@ -977,7 +964,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Probability]] (8), next (2), [[Statistical Analysis]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Probability]] (8), [[Data Science]] (3), [[Statistical Analysis]] (1), [[Statistics]] (1)
 > **Versions:** 1.96 (6), 8.4 (2), 0.05 (2), 0.3989 (1), 0.975 (1)
 > **Definitions:** is a  (5), in other words (5), known as (3)
 > **Env Vars:** pdf (2), cdf (2)
@@ -990,16 +977,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create pandas series and dataframes
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/create-pandas-series-and-dataframes?u=76281980)
+#### [Create pandas series and dataframes](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/create-pandas-series-and-dataframes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/create-pandas-series-and-dataframes?u=76281980&t=0)** The Pandas library makes it easy to work with tabular data.
+> **[0:00](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/create-pandas-series-and-dataframes?u=76281980&t=0)** The [[Pandas (Software)|Pandas]] library makes it easy to work with tabular data.
 >
 > **[0:03](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/create-pandas-series-and-dataframes?u=76281980&t=3)** In other words, data that's in a tabular format similar to spreadsheets with rows and columns.
 >
-> **[0:09](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/create-pandas-series-and-dataframes?u=76281980&t=9)** Pandas is one of the most widely used tools in data science because it allows you to load, explore, and manipulate data efficiently.
+> **[0:09](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/create-pandas-series-and-dataframes?u=76281980&t=9)** Pandas is one of the most widely used tools in [[Data Science]] because it allows you to load, explore, and manipulate data efficiently.
 >
 > **[0:17](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/create-pandas-series-and-dataframes?u=76281980&t=17)** In this lesson, you'll learn how to create Series and DataFrames, and how to load data directly from a CSV file, which is one of the most common file formats for datasets.
 >
@@ -1029,7 +1015,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/create-pandas-series-and-dataframes?u=76281980&t=87)** Another incredibly useful object in Pandas is the Pandas DataFrame, which is a two-dimensional table made up of rows and columns.
 >
-> **[1:35](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/create-pandas-series-and-dataframes?u=76281980&t=95)** One approach is to create the DataFrame manually from a Python dictionary.
+> **[1:35](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/create-pandas-series-and-dataframes?u=76281980&t=95)** One approach is to create the DataFrame manually from a [[Python (Programming Language)|Python]] dictionary.
 >
 > **[1:39](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/create-pandas-series-and-dataframes?u=76281980&t=99)** I've defined a variable d and assigned it to a dictionary that maps the name label to a list of student names, and maps the score label to a list of student exam scores.
 >
@@ -1043,7 +1029,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/create-pandas-series-and-dataframes?u=76281980&t=128)** Also, you can check out summary details about the DataFrame using the functions .info() and .describe().
 >
-> **[2:15](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/create-pandas-series-and-dataframes?u=76281980&t=135)** .info() gives you the column names, data types, and number of non-null values, while .describe() provides quick summary statistics for numeric columns.
+> **[2:15](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/create-pandas-series-and-dataframes?u=76281980&t=135)** .info() gives you the column names, data types, and number of non-null values, while .describe() provides quick summary [[Statistics]] for numeric columns.
 >
 > **[2:26](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/create-pandas-series-and-dataframes?u=76281980&t=146)** First I've called df.info.
 >
@@ -1081,7 +1067,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Pandas (Software)|Pandas]] (10), [[Python (Programming Language)|Python]] (1), [[Statistics]] (1), next (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (10), [[Data Science]] (3), [[Python (Programming Language)|Python]] (1), [[Statistics]] (1)
 > **Definitions:** is a  (4), in other words (1), short for (1)
 > **Code Identifiers:** read_csv (3), df_csv (2)
 > **Env Vars:** csv (5)
@@ -1090,8 +1076,7 @@ created: 2026-05-02
 > **CLI Commands:** python (1)
 > **Exercise Files:** exercise file (1)
 
-#### Extract data subsets from pandas objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/extract-data-subsets-from-pandas-objects?u=76281980)
+#### [Extract data subsets from pandas objects](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/extract-data-subsets-from-pandas-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1099,7 +1084,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/extract-data-subsets-from-pandas-objects?u=76281980&t=5)** Maybe you want to compare just two features, examine a single record, or focus on values that meet specific criteria.
 >
-> **[0:12](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/extract-data-subsets-from-pandas-objects?u=76281980&t=12)** Pandas gives you the tools to target exactly the data you need.
+> **[0:12](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/extract-data-subsets-from-pandas-objects?u=76281980&t=12)** [[Pandas (Software)|Pandas]] gives you the tools to target exactly the data you need.
 >
 > **[0:16](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/extract-data-subsets-from-pandas-objects?u=76281980&t=16)** In this lesson, you'll practice how to select specific columns, specific rows, and filtered subsets from a Pandas DataFrame.
 >
@@ -1125,7 +1110,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/extract-data-subsets-from-pandas-objects?u=76281980&t=85)** This gives you a smaller data frame with just the columns you specified.
 >
-> **[1:29](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/extract-data-subsets-from-pandas-objects?u=76281980&t=89)** To select specific rows by index, use slicing just like you would with lists in Python.
+> **[1:29](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/extract-data-subsets-from-pandas-objects?u=76281980&t=89)** To select specific rows by index, use slicing just like you would with lists in [[Python (Programming Language)|Python]].
 >
 > **[1:36](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/extract-data-subsets-from-pandas-objects?u=76281980&t=96)** Here I've typed df[0:2].
 >
@@ -1211,7 +1196,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Pandas (Software)|Pandas]] (7), [[Python (Programming Language)|Python]] (2), next (2)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (7), [[Python (Programming Language)|Python]] (2)
 > **Code Identifiers:** df_by_name (4), high_scores (2), read_csv (1), set_index (1)
 > **Analogies:** just like (2), for example (2)
 > **CLI Commands:** python (2), make (1)
@@ -1220,12 +1205,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise file (1)
 > **Definitions:** in other words (1)
 
-#### Modify pandas objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/modify-pandas-objects?u=76281980)
+#### [Modify pandas objects](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/modify-pandas-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/modify-pandas-objects?u=76281980&t=0)** As you continue working with data in Pandas, you'll often need to make updates such as filling in missing values, adding or dropping columns, or renaming them for clarity.
+> **[0:00](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/modify-pandas-objects?u=76281980&t=0)** As you continue working with data in [[Pandas (Software)|Pandas]], you'll often need to make updates such as filling in missing values, adding or dropping columns, or renaming them for clarity.
 >
 > **[0:10](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/modify-pandas-objects?u=76281980&t=10)** Updating data in place helps keep your data pipeline clean and reduces errors later on.
 >
@@ -1339,7 +1323,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Pandas (Software)|Pandas]] (7), next (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (7)
 > **Code Identifiers:** mean_hours (2), df_clean (2), read_csv (1), df_with_missing (1)
 > **Analogies:** for example (4), such as (1), for instance (1)
 > **CLI Commands:** make (3)
@@ -1347,8 +1331,7 @@ created: 2026-05-02
 > **File Paths:** scores.csv (1)
 > **Exercise Files:** exercise file (1)
 
-#### Combine data from pandas objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/combine-data-from-pandas-objects?u=76281980)
+#### [Combine data from pandas objects](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/combine-data-from-pandas-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1356,7 +1339,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/combine-data-from-pandas-objects?u=76281980&t=5)** Combining these tables is an essential step towards creating a complete dataset that supports deeper insights.
 >
-> **[0:12](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/combine-data-from-pandas-objects?u=76281980&t=12)** In this lesson, you'll learn two main ways to combine Pandas DataFrames.
+> **[0:12](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/combine-data-from-pandas-objects?u=76281980&t=12)** In this lesson, you'll learn two main ways to combine [[Pandas (Software)|Pandas]] DataFrames.
 >
 > **[0:16](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/combine-data-from-pandas-objects?u=76281980&t=16)** The first is merging, which combines data based on matching keys or columns.
 >
@@ -1366,7 +1349,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/combine-data-from-pandas-objects?u=76281980&t=33)** Check out both to confirm what they look like.
 >
-> **[0:50](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/combine-data-from-pandas-objects?u=76281980&t=50)** Merging is used to combine two DataFrames based on shared column values, similar to performing a join in SQL.
+> **[0:50](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/combine-data-from-pandas-objects?u=76281980&t=50)** Merging is used to combine two DataFrames based on shared column values, similar to performing a join in [[SQL]].
 >
 > **[0:58](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/combine-data-from-pandas-objects?u=76281980&t=58)** In this case, both DataFrames have a column named Name, so that will be the key for the merge.
 >
@@ -1458,14 +1441,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (8), data (7), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (8), [[SQL]] (1)
 > **Code Identifiers:** scores_extra (2), reset_index (2), merged_outer (1), combined_reset (1)
 > **Definitions:** is an  (2)
 > **Env Vars:** sql (1)
 > **Analogies:** similar to (1)
 
-#### Group data from pandas objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/group-data-from-pandas-objects?u=76281980)
+#### [Group data from pandas objects](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/group-data-from-pandas-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1473,7 +1455,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/group-data-from-pandas-objects?u=76281980&t=4)** Grouping lets you compare categories-- for example, seeing which department has the highest average salary or the most experience.
 >
-> **[0:12](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/group-data-from-pandas-objects?u=76281980&t=12)** In this lesson, you'll learn how to use the groupby() method in Pandas to group your data by categories and compute summary statistics for each group.
+> **[0:12](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/group-data-from-pandas-objects?u=76281980&t=12)** In this lesson, you'll learn how to use the groupby() method in [[Pandas (Software)|Pandas]] to group your data by categories and compute summary [[Statistics]] for each group.
 >
 > **[0:21](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/group-data-from-pandas-objects?u=76281980&t=21)** Start by importing Pandas and creating a sample dataset.
 >
@@ -1539,17 +1521,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Pandas (Software)|Pandas]] (3), [[Statistics]] (2), hr (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (3), [[Statistics]] (2)
 > **Code Identifiers:** reset_index (2), salary_range (2), summary_reset (1)
 > **Analogies:** for example (3), such as (2)
 > **Definitions:** is a  (1)
 
-#### Transform data with pandas apply()
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/transform-data-with-pandas-apply?u=76281980)
+#### [Transform data with pandas apply()](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/transform-data-with-pandas-apply?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/transform-data-with-pandas-apply?u=76281980&t=0)** Sometimes, the built-in Pandas methods don't give you exactly what you need for the data transformations or feature engineering that you're trying to do.
+> **[0:00](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/transform-data-with-pandas-apply?u=76281980&t=0)** Sometimes, the built-in [[Pandas (Software)|Pandas]] methods don't give you exactly what you need for the data transformations or [[Feature Engineering]] that you're trying to do.
 >
 > **[0:08](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/transform-data-with-pandas-apply?u=76281980&t=8)** When that happens, you can create your own custom functions and use .apply() to apply them directly to your DataFrame.
 >
@@ -1633,11 +1614,11 @@ created: 2026-05-02
 >
 > **[4:56](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/transform-data-with-pandas-apply?u=76281980&t=296)** Using .apply() gives you full control over your transformations, letting you define exactly how each value or row should be processed.
 >
-> **[5:04](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/transform-data-with-pandas-apply?u=76281980&t=304)** It's especially powerful when you need to go beyond built-in methods and design your own data cleaning or feature engineering logic.
+> **[5:04](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/transform-data-with-pandas-apply?u=76281980&t=304)** It's especially powerful when you need to go beyond built-in methods and design your own [[Data Cleaning]] or feature engineering logic.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (6), data (2), [[Feature Engineering]] (2)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (6), [[Feature Engineering]] (2)
 > **Code Identifiers:** to_percentage (3), performance_label (3)
 > **Definitions:** is a  (1), is an  (1), in other words (1)
 > **CLI Commands:** find (1)
@@ -1648,8 +1629,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create line and scatter plots
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/create-line-and-scatter-plots?u=76281980)
+#### [Create line and scatter plots](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/create-line-and-scatter-plots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1657,7 +1637,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/create-line-and-scatter-plots?u=76281980&t=7)** Charts can reveal trends that might not be obvious from raw numbers alone.
 >
-> **[0:11](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/create-line-and-scatter-plots?u=76281980&t=11)** In this lesson, you'll learn how to use matplotlib, one of the most popular visualization libraries in Python, to create line plots and scatter plots.
+> **[0:11](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/create-line-and-scatter-plots?u=76281980&t=11)** In this lesson, you'll learn how to use matplotlib, one of the most popular visualization libraries in [[Python (Programming Language)|Python]], to create line plots and scatter plots.
 >
 > **[0:20](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/create-line-and-scatter-plots?u=76281980&t=20)** First, import matplotlib.pyplot module, which provides essential plotting functions.
 >
@@ -1739,12 +1719,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Python (Programming Language)|Python]] (2), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2), make (2)
 > **Analogies:** for example (1)
 
-#### Display categorical distributions
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/display-categorical-distributions?u=76281980)
+#### [Display categorical distributions](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/display-categorical-distributions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1848,15 +1827,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6)
 > **CLI Commands:** make (3)
 > **Analogies:** for instance (1), for example (1), such as (1)
 > **Code Identifiers:** slice_offsets (2)
 > **Versions:** 0.7 (1), 0.1 (1)
 > **Definitions:** is a  (1)
 
-#### Explore numerical distributions
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/explore-numerical-distributions?u=76281980)
+#### [Explore numerical distributions](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/explore-numerical-distributions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1866,7 +1843,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/explore-numerical-distributions?u=76281980&t=14)** In this lesson, you'll use Seaborn, a visualization library built on top of matplotlib to plot histograms, box plots, KDE curves, and violin plots.
 >
-> **[0:25](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/explore-numerical-distributions?u=76281980&t=25)** Start by importing seaborn, matplotlib, and Pandas.
+> **[0:25](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/explore-numerical-distributions?u=76281980&t=25)** Start by importing seaborn, matplotlib, and [[Pandas (Software)|Pandas]].
 >
 > **[0:29](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/explore-numerical-distributions?u=76281980&t=29)** Seaborn provides the plotting functions and matplotlib.pyplot is useful for customizing and displaying plots.
 >
@@ -1896,7 +1873,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/explore-numerical-distributions?u=76281980&t=110)** This histogram helps you quickly visualize where most scores fall and whether the distribution looks symmetric, skewed, or concentrated around certain values.
 >
-> **[2:00](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/explore-numerical-distributions?u=76281980&t=120)** You can add a KDE curve, short for kernel density estimate, to visualize the probability density, which is a smooth curve representing the distribution's shape.
+> **[2:00](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/explore-numerical-distributions?u=76281980&t=120)** You can add a KDE curve, short for kernel density estimate, to visualize the [[Probability]] density, which is a smooth curve representing the distribution's shape.
 >
 > **[2:09](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/explore-numerical-distributions?u=76281980&t=129)** Here, when calling sns.histplot(), I've passed in kde=True and color=”skyblue”.
 >
@@ -1934,7 +1911,7 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/explore-numerical-distributions?u=76281980&t=244)** A violin plot combines the benefits of a box plot and a KDE curve.
 >
-> **[4:08](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/explore-numerical-distributions?u=76281980&t=248)** It shows both the distribution shape and summary statistics in one visualization.
+> **[4:08](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/explore-numerical-distributions?u=76281980&t=248)** It shows both the distribution shape and summary [[Statistics]] in one visualization.
 >
 > **[4:14](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/explore-numerical-distributions?u=76281980&t=254)** Here I've called sns.violinplot and passed in the parameter x assigned to the Score column from df, followed by the parameter color=”orchid”.
 >
@@ -1950,18 +1927,17 @@ created: 2026-05-02
 >
 > **[4:54](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/explore-numerical-distributions?u=76281980&t=294)** Seaborn’s distribution functions histplot(), boxplot(), and violinplot() give you versatile ways to visualize and interpret numerical data.
 >
-> **[5:03](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/explore-numerical-distributions?u=76281980&t=303)** By exploring the shape, spread, and density of your variables, you can identify outliers, understand variation, and prepare for deeper statistical analysis.
+> **[5:03](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/explore-numerical-distributions?u=76281980&t=303)** By exploring the shape, spread, and density of your variables, you can identify outliers, understand variation, and prepare for deeper [[Statistical Analysis]].
 >
 > **[5:12](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/explore-numerical-distributions?u=76281980&t=312)** Go ahead and experiment with these functions on your own datasets to get an intuitive feel for how your data is distributed.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Pandas (Software)|Pandas]] (3), next (2), [[Probability]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (3), [[Probability]] (1), [[Statistics]] (1), [[Statistical Analysis]] (1)
 > **Env Vars:** kde (4)
 > **Definitions:** is a  (2), short for (1), in other words (1)
 
-#### Visualize pairwise relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/visualize-pairwise-relationships?u=76281980)
+#### [Visualize pairwise relationships](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/visualize-pairwise-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1973,7 +1949,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/visualize-pairwise-relationships?u=76281980&t=23)** First, import the libraries that you'll need.
 >
-> **[0:25](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/visualize-pairwise-relationships?u=76281980&t=25)** NumPy, Pandas, matplotlib, and Seaborn.
+> **[0:25](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/visualize-pairwise-relationships?u=76281980&t=25)** NumPy, [[Pandas (Software)|Pandas]], matplotlib, and Seaborn.
 >
 > **[0:29](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/visualize-pairwise-relationships?u=76281980&t=29)** Next, let's create a sample dataset with several numeric variables, such as hours studied, test scores, project completion rates, and attendance rates.
 >
@@ -2053,21 +2029,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (3), next (3), data (1), feature (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (3)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** ones_like (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** you'll need (1)
 
-#### Organize your visualizations
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/organize-your-visualizations?u=76281980)
+#### [Organize your visualizations](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/organize-your-visualizations?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/organize-your-visualizations?u=76281980&t=0)** When you're analyzing data, it's often helpful to display multiple visualizations side by side.
 >
-> **[0:05](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/organize-your-visualizations?u=76281980&t=5)** Arranging related plots in one figure makes it easier to compare patterns and build cohesive dashboards.
+> **[0:05](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/organize-your-visualizations?u=76281980&t=5)** Arranging related plots in one figure makes it easier to compare patterns and build cohesive [[Dashboards]].
 >
 > **[0:11](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/organize-your-visualizations?u=76281980&t=11)** In this lesson, you'll use matplotlib’s plt.subplots() function to create grid layouts, share or separate axes, and adjust spacing for clear, organized multi-plot figures.
 >
@@ -2161,7 +2136,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Dashboards]] (2)
+> **Frameworks & Libraries:** [[Dashboards]] (2)
 > **Code Identifiers:** set_title (2), tight_layout (1), subplots_adjust (1)
 > **Versions:** 0.4 (2)
 > **Analogies:** for example (2)
@@ -2172,14 +2147,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Apply functions to data science
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/apply-functions-to-data-science?u=76281980)
+#### [Apply functions to data science](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/apply-functions-to-data-science?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/apply-functions-to-data-science?u=76281980&t=0)** Congratulations on completing this course.
 >
-> **[0:02](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/apply-functions-to-data-science?u=76281980&t=2)** You've now built a solid function in using Python's built-in functions: NumPy, Pandas, Matplotlib, Seaborn, and SciPy-- all essential tools in a modern data science workflow.
+> **[0:02](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/apply-functions-to-data-science?u=76281980&t=2)** You've now built a solid function in using [[Python (Programming Language)|Python]]'s built-in functions: NumPy, [[Pandas (Software)|Pandas]], Matplotlib, Seaborn, and SciPy-- all essential tools in a modern [[Data Science]] workflow.
 >
 > **[0:15](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/apply-functions-to-data-science?u=76281980&t=15)** Across this course, you've learned how to leverage Python functions to inspect and validate your data; aggregate, sort, filter, and transform sequences; work with data frames for cleaning, combining, grouping and transforming data; and create visualizations to explore and communicate insights and more.
 >
@@ -2215,7 +2189,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/apply-functions-to-data-science?u=76281980&t=122)** You can find links to these resources in the resource file for this course.
 >
-> **[2:06](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/apply-functions-to-data-science?u=76281980&t=126)** And feel free to follow me on LinkedIn.
+> **[2:06](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/apply-functions-to-data-science?u=76281980&t=126)** And feel free to follow me on [[LinkedIn]].
 >
 > **[2:09](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/apply-functions-to-data-science?u=76281980&t=129)** I look forward to seeing how this course helps you in your journey.
 >
@@ -2229,7 +2203,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Python (Programming Language)|Python]] (5), next (2), [[Pandas (Software)|Pandas]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Data Science]] (5), [[Pandas (Software)|Pandas]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** python (5), find (3)
 > **Definitions:** is an  (2), is a  (1)
 > **URLs:** [python.org](https://python.org) (1)

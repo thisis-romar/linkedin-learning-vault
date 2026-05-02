@@ -17,7 +17,7 @@ tags:
   - topic/data-science
   - topic/web-development
   - topic/cloud-computing
-course_count: 80
+course_count: 81
 created: 2026-05-02
 ---
 
@@ -25,7 +25,7 @@ created: 2026-05-02
 
 # NoSQL
 
-> **Type:** Concept | **Courses:** 80 | **Topics:** [[Software Development]], [[Database Management]], [[Data Science]], [[Web Development]], [[Cloud Computing]]
+> **Type:** Concept | **Courses:** 81 | **Topics:** [[Software Development]], [[Database Management]], [[Data Science]], [[Web Development]], [[Cloud Computing]]
 
 ## Courses
 
@@ -40,7 +40,7 @@ created: 2026-05-02
 9. [[Aws Essential Training For Developers]] — 7 mentions
 10. [[Learning JDBC]] — 7 mentions
 
-> [!note]- See all 80 courses
+> [!note]- See all 81 courses
 > 11. [[Advanced SQL for Data Scientists]] — 7 mentions
 > 12. [[Data Engineering Foundations]] — 6 mentions
 > 13. [[Cloud Architecture- Advanced Concepts]] — 6 mentions
@@ -59,19 +59,19 @@ created: 2026-05-02
 > 26. [[AI Product Security- Secure Architecture, Deployment, and Infrastructure]] — 3 mentions
 > 27. [[Dependency Mapping for Cloud Migration]] — 3 mentions
 > 28. [[Data Planning Strategy And Compliance For Ai Initiatives]] — 3 mentions
-> 29. [[Relational Databases Essential Training]] — 3 mentions
-> 30. [[Spring Data 2]] — 3 mentions
-> 31. [[Data Quality- Core Concepts]] — 3 mentions
-> 32. [[Programming Foundations Databases]] — 2 mentions
-> 33. [[Cloud Computing Careers and Certifications]] — 2 mentions
-> 34. [[Ethical Hacking- SQL Injection]] — 2 mentions
-> 35. [[Cybersecurity with Cloud Computing]] — 2 mentions
-> 36. [[Building a Cloud Architecture Diagram]] — 2 mentions
-> 37. [[Data Management Essential Training]] — 2 mentions
-> 38. [[Data Preparation, Feature Engineering, and Augmentation for AI Models]] — 2 mentions
-> 39. [[Complete Guide to Data Lakes and Lakehouses]] — 2 mentions
-> 40. [[SQL Tips and Tricks for Data Science]] — 2 mentions
-> 41. [[Scalable Data Storage and Processing for AI Workloads]] — 2 mentions
+> 29. [[Scalable Data Storage and Processing for AI Workloads]] — 3 mentions
+> 30. [[Relational Databases Essential Training]] — 3 mentions
+> 31. [[Spring Data 2]] — 3 mentions
+> 32. [[Data Quality- Core Concepts]] — 3 mentions
+> 33. [[Programming Foundations Databases]] — 2 mentions
+> 34. [[Cloud Computing Careers and Certifications]] — 2 mentions
+> 35. [[Ethical Hacking- SQL Injection]] — 2 mentions
+> 36. [[Cybersecurity with Cloud Computing]] — 2 mentions
+> 37. [[Building a Cloud Architecture Diagram]] — 2 mentions
+> 38. [[Data Management Essential Training]] — 2 mentions
+> 39. [[Data Preparation, Feature Engineering, and Augmentation for AI Models]] — 2 mentions
+> 40. [[Complete Guide to Data Lakes and Lakehouses]] — 2 mentions
+> 41. [[SQL Tips and Tricks for Data Science]] — 2 mentions
 > 42. [[Rust for Data Engineering]] — 2 mentions
 > 43. [[Python Data Analysis for Healthcare]] — 2 mentions
 > 44. [[Manage Storage in Azure]] — 2 mentions
@@ -111,6 +111,7 @@ created: 2026-05-02
 > 78. [[Blockchain for Developers- Hyperledger Fabric on Azure]] — 1 mentions
 > 79. [[React- Cloud-Powered Apps with Firebase]] — 1 mentions
 > 80. [[Creating a Book Search Engine from Scratch Using Java and GitHub Copilot]] — 1 mentions
+> 81. [[Blockchain and Smart Contracts Security]] — 1 mentions
 
 ## Learning Paths
 

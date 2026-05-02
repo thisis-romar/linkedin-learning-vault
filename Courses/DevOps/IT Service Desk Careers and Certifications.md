@@ -74,8 +74,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### IT service desk careers and certifications
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/it-service-desk-careers-and-certifications?u=76281980)
+#### [IT service desk careers and certifications](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/it-service-desk-careers-and-certifications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -91,13 +90,13 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/it-service-desk-careers-and-certifications?u=76281980&t=31)** My name is Sarah Lean, and I had the honor of starting my IT career working as a IT service desk engineer.
 >
-> **[0:37](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/it-service-desk-careers-and-certifications?u=76281980&t=37)** I am now a cloud solution architect at Microsoft working with some of the largest customers in Europe helping to modernize their IT infrastructure.
+> **[0:37](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/it-service-desk-careers-and-certifications?u=76281980&t=37)** I am now a cloud solution architect at [[Microsoft]] working with some of the largest customers in Europe helping to modernize their IT infrastructure.
 >
 > **[0:46](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/it-service-desk-careers-and-certifications?u=76281980&t=46)** Whether you're new to your career or a seasoned professional, there is always something new to learn, so let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (4), cloud (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1)
 > **Speakers:** - [sarah] (1)
 
 
@@ -105,8 +104,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### IT service desk responsibilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/it-service-desk-responsibilities?u=76281980)
+#### [IT service desk responsibilities](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/it-service-desk-responsibilities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -126,7 +124,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/it-service-desk-responsibilities?u=76281980&t=44)** The end user needs something new.
 >
-> **[0:46](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/it-service-desk-responsibilities?u=76281980&t=46)** This could be a request for hardware or software or access to files or folders.
+> **[0:46](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/it-service-desk-responsibilities?u=76281980&t=46)** This could be a request for [[Hardware]] or software or access to files or folders.
 >
 > **[0:51](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/it-service-desk-responsibilities?u=76281980&t=51)** The IT service desk will log and categorize these requests and, where possible, action them.
 >
@@ -138,7 +136,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/it-service-desk-responsibilities?u=76281980&t=78)** They are also in charge of outgoing communications, notifying the end users of outages, planned works, and any other changes.
 >
-> **[1:27](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/it-service-desk-responsibilities?u=76281980&t=87)** A lot of businesses set up their IT service desk based on the Information Technology Infrastructure Library, or ITIL framework.
+> **[1:27](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/it-service-desk-responsibilities?u=76281980&t=87)** A lot of businesses set up their IT service desk based on the Information Technology Infrastructure Library, or [[ITIL]] framework.
 >
 > **[1:36](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/it-service-desk-responsibilities?u=76281980&t=96)** The ITIL framework offers businesses guidance and the best practices for operating an IT service desk and other IT department processes.
 >
@@ -150,15 +148,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (4), business (2), [[ITIL]] (2), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[ITIL]] (2), [[Hardware]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Env Vars:** itil (2)
 > **Prerequisites:** set up (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### IT service desk engineer
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/it-service-desk-engineer?u=76281980)
+#### [IT service desk engineer](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/it-service-desk-engineer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -216,8 +213,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### The first step on the IT career ladder
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/the-first-step-on-the-it-career-ladder?u=76281980)
+#### [The first step on the IT career ladder](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/the-first-step-on-the-it-career-ladder?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -245,7 +241,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (3), business (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -254,8 +249,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Hardware
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/hardware?u=76281980)
+#### [Hardware](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/hardware?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -263,7 +257,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/hardware?u=76281980&t=8)** This means that you will encounter a lot of variety.
 >
-> **[0:11](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/hardware?u=76281980&t=11)** Questions and faults around hardware will be part of that variety.
+> **[0:11](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/hardware?u=76281980&t=11)** Questions and faults around [[Hardware]] will be part of that variety.
 >
 > **[0:16](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/hardware?u=76281980&t=16)** On the IT service desk it can be tricky to resolve a hardware issue remotely without actually seeing the laptop, the desktop, or the printer that has that issue.
 >
@@ -295,13 +289,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (7), business (3), [[Troubleshooting]] (1), power (1)
+> **Frameworks & Libraries:** [[Hardware]] (7)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** find (2)
 > **Speakers:** - [instructor] (1)
 
-#### Software
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/software?u=76281980)
+#### [Software](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/software?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -309,7 +302,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/software?u=76281980&t=9)** Software issues to carry out specific tasks ranging from helping people to send and receive emails to more bespoke, say invoicing software.
 >
-> **[0:18](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/software?u=76281980&t=18)** Every business will issue standard software to everyone within the company, such as Microsoft Office.
+> **[0:18](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/software?u=76281980&t=18)** Every business will issue standard software to everyone within the company, such as [[Microsoft Office]].
 >
 > **[0:25](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/software?u=76281980&t=25)** Then there will be software that is allocated only to certain people.
 >
@@ -331,13 +324,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Microsoft Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [announcer] (1)
 
-#### General IT skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/general-it-skills?u=76281980)
+#### [General IT skills](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/general-it-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -373,7 +365,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (3)
 > **CLI Commands:** find (1)
 > **Env Vars:** mice (1)
 > **Definitions:** is a  (1)
@@ -384,8 +375,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Customer service
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/customer-service?u=76281980)
+#### [Customer service](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/customer-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -429,13 +419,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Communication
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/communication?u=76281980)
+#### [Communication](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/communication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -463,11 +451,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2)
 > **Speakers:** - [narrator] (1)
 
-#### Time management
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/time-management?u=76281980)
+#### [Time management](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/time-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -517,15 +503,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), business (1), [[Security]] (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** you should always (1)
 > **Speakers:** - [instructor] (1)
 
-#### Problem-solving
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/problem-solving?u=76281980)
+#### [Problem-solving](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/problem-solving?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -541,7 +525,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/problem-solving?u=76281980&t=29)** When asked if others were having the same issue or if it was isolated to her, her answer was "Yes, "we all have the same issue.
 >
-> **[0:36](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/problem-solving?u=76281980&t=36)** "There are no lights or power to anything in the office."
+> **[0:36](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/problem-solving?u=76281980&t=36)** "There are no lights or power to anything in the [[Microsoft Office|office]]."
 >
 > **[0:40](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/problem-solving?u=76281980&t=40)** You've got to be able to get to the heart of the problem.
 >
@@ -563,13 +547,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (5), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Business knowledge
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/business-knowledge?u=76281980)
+#### [Business knowledge](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/business-knowledge?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -603,13 +586,13 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/business-knowledge?u=76281980&t=98)** Having business knowledge will also benefit you.
 >
-> **[1:41](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/business-knowledge?u=76281980&t=101)** Understanding the company and its different functions may play a part in your career development.
+> **[1:41](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/business-knowledge?u=76281980&t=101)** Understanding the company and its different functions may play a part in your [[Career Development]].
 >
 > **[1:46](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/business-knowledge?u=76281980&t=106)** It could help you get promoted within the IT department or it may help you identify another role you'd love to do in the future.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (9), generic (1), [[Career Development]] (1)
+> **Frameworks & Libraries:** [[Career Development]] (1)
 > **Env Vars:** asap (2)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
@@ -619,8 +602,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Certification options
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/certification-options?u=76281980)
+#### [Certification options](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/certification-options?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -644,7 +626,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/certification-options?u=76281980&t=64)** There are also vendor certifications you can take that show you know how to use their product or suite of solutions.
 >
-> **[1:11](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/certification-options?u=76281980&t=71)** It could be a certification from Microsoft or Veeam, for example, and we'll talk, again, more about vendor certifications in-depth later.
+> **[1:11](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/certification-options?u=76281980&t=71)** It could be a certification from [[Microsoft]] or Veeam, for example, and we'll talk, again, more about vendor certifications in-depth later.
 >
 > **[1:20](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/certification-options?u=76281980&t=80)** There are a variety of paths that you can pursue with certifications.
 >
@@ -666,14 +648,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), generic (1), [[Microsoft]] (1), career (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1), for example (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Vendor certifications
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/vendor-certifications?u=76281980)
+#### [Vendor certifications](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/vendor-certifications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -685,11 +666,11 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/vendor-certifications?u=76281980&t=21)** Many vendors have certifications.
 >
-> **[0:23](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/vendor-certifications?u=76281980&t=23)** Microsoft, Amazon Web Services, Google Cloud Platform, VMware, Cisco, Oracle, Linux and Veeam are just some.
+> **[0:23](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/vendor-certifications?u=76281980&t=23)** [[Microsoft]], [[Amazon Web Services (AWS)|Amazon Web Services]], [[Google Cloud Platform (GCP)|Google Cloud Platform]], VMware, Cisco, Oracle, [[Linux]] and Veeam are just some.
 >
-> **[0:32](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/vendor-certifications?u=76281980&t=32)** If you are familiar with certain products it's advantageous to see if there is a certification that will help prove your knowledge and maybe even enhance it.
+> **[0:32](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/vendor-certifications?u=76281980&t=32)** If you are familiar with certain [[Microsoft Products|products]] it's advantageous to see if there is a certification that will help prove your knowledge and maybe even enhance it.
 >
-> **[0:42](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/vendor-certifications?u=76281980&t=42)** I remember studying for the Windows server 2008 certifications.
+> **[0:42](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/vendor-certifications?u=76281980&t=42)** I remember studying for the [[Windows Server]] 2008 certifications.
 >
 > **[0:46](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/vendor-certifications?u=76281980&t=46)** I thought I knew the product.
 >
@@ -713,13 +694,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), [[Microsoft Products|Products]] (2), [[Microsoft]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Google Cloud Platform (GCP)|Google cloud platform]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Microsoft]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Google Cloud Platform (GCP)|Google cloud platform]] (1), [[Linux]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### CompTIA certifications
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/comptia-certifications?u=76281980)
+#### [CompTIA certifications](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/comptia-certifications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -727,7 +707,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/comptia-certifications?u=76281980&t=7)** Their certifications align knowledge and skillsets needed by IT professionals and don't align with any product in particular.
 >
-> **[0:14](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/comptia-certifications?u=76281980&t=14)** There are five certification pathways core, infrastructure, cybersecurity, data and analytics, and lastly, professional.
+> **[0:14](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/comptia-certifications?u=76281980&t=14)** There are five certification pathways core, infrastructure, [[Cybersecurity]], data and analytics, and lastly, professional.
 >
 > **[0:24](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/comptia-certifications?u=76281980&t=24)** The core skills pathway helps you build a foundation of skills.
 >
@@ -773,18 +753,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), product (2), [[Cybersecurity]] (2), [[Analytics]] (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** such as (2)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Information technology infrastructure library certifications
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/information-technology-infrastructure-library-certifications?u=76281980)
+#### [Information technology infrastructure library certifications](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/information-technology-infrastructure-library-certifications?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/information-technology-infrastructure-library-certifications?u=76281980&t=0)** - [Narrator] Many IT departments align to the Information Technology Infrastructure Library, or ITIL framework.
+> **[0:00](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/information-technology-infrastructure-library-certifications?u=76281980&t=0)** - [Narrator] Many IT departments align to the Information Technology Infrastructure Library, or [[ITIL]] framework.
 >
 > **[0:06](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/information-technology-infrastructure-library-certifications?u=76281980&t=6)** As well as offering advice on best practices to follow for IT departments ITIL offers certifications.
 >
@@ -820,13 +799,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ITIL]] (8), career (1)
+> **Frameworks & Libraries:** [[ITIL]] (8)
 > **Env Vars:** itil (8)
 > **Definitions:** is a  (2)
 > **Speakers:** - [narrator] (1)
 
-#### Project management certifications
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/project-management-certifications?u=76281980)
+#### [Project management certifications](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/project-management-certifications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -876,7 +854,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/project-management-certifications?u=76281980&t=140)** The PMP Certification recognizes those that have proven skills in project management.
 >
-> **[2:26](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/project-management-certifications?u=76281980&t=146)** You really should have skills in people management, understand different project management approaches, and which project benefits from the different approaches, and have a good knowledge of business environments.
+> **[2:26](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/project-management-certifications?u=76281980&t=146)** You really should have skills in [[People Management]], understand different project management approaches, and which project benefits from the different approaches, and have a good knowledge of business environments.
 >
 > **[2:37](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/project-management-certifications?u=76281980&t=157)** While this isn't a certification I'd recommend for an IT service desk engineer, it is something a service desk manager might pursue.
 >
@@ -884,7 +862,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (18), career (2), [[People Management]] (1), business (1)
+> **Frameworks & Libraries:** [[People Management]] (1)
 > **Env Vars:** prince2 (3), capm (2), pmp (2), ged (1)
 > **Definitions:** is a  (4), defined as (1)
 > **Speakers:** - [instructor] (1)
@@ -894,8 +872,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Service desk career paths
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/service-desk-career-paths?u=76281980)
+#### [Service desk career paths](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/service-desk-career-paths?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -921,7 +898,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/service-desk-career-paths?u=76281980&t=83)** So let's look at a few of them to set some context.
 >
-> **[1:26](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/service-desk-career-paths?u=76281980&t=86)** The IT change manager controls the changes made to software, hardware, and IT systems.
+> **[1:26](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/service-desk-career-paths?u=76281980&t=86)** The IT change manager controls the changes made to software, [[Hardware]], and IT systems.
 >
 > **[1:31](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/service-desk-career-paths?u=76281980&t=91)** They'll run the change advisory board and are responsible for establishing baselines and tracking revisions, understanding who changed what and when.
 >
@@ -941,15 +918,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), management (3), career (2), leadership (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** sla (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [narrator] (1)
 
-#### IT career paths
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/it-career-paths?u=76281980)
+#### [IT career paths](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/it-career-paths?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -965,7 +941,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/it-career-paths?u=76281980&t=25)** Again, this will all depend on how your IT department is set up and how large the department is.
 >
-> **[0:30](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/it-career-paths?u=76281980&t=30)** Still, you could be a desktop support engineer, network engineer, infrastructure engineer, application support engineer, DevOps engineer, site reliability engineer, system architect, project manager, or much more.
+> **[0:30](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/it-career-paths?u=76281980&t=30)** Still, you could be a desktop support engineer, network engineer, infrastructure engineer, application support engineer, [[DevOps]] engineer, site reliability engineer, system architect, project manager, or much more.
 >
 > **[0:44](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/it-career-paths?u=76281980&t=44)** When I left the IT service desk engineer role, I moved into the desktop support team.
 >
@@ -997,7 +973,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (4), teams (2), application (1), [[DevOps]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1007,14 +983,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Office based workplace
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/office-based-workplace?u=76281980)
+#### [Office based workplace](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/office-based-workplace?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/office-based-workplace?u=76281980&t=0)** - [Narrator] The last few years have seen the world change.
 >
-> **[0:03](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/office-based-workplace?u=76281980&t=3)** When I started my career most professionals were office-based.
+> **[0:03](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/office-based-workplace?u=76281980&t=3)** When I started my career most professionals were [[Microsoft Office|office]]-based.
 >
 > **[0:06](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/office-based-workplace?u=76281980&t=6)** Very few had the ability to work at home or work in a cafe.
 >
@@ -1058,14 +1033,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (7), career (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (7)
 > **Prerequisites:** set up (2), setup (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [narrator] (1)
 
-#### Remote and hybrid workplaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/remote-and-hybrid-workplaces?u=76281980)
+#### [Remote and hybrid workplaces](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/remote-and-hybrid-workplaces?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1073,7 +1047,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/remote-and-hybrid-workplaces?u=76281980&t=2)** We now have the technology and hopefully the flexibility to work wherever we want to.
 >
-> **[0:08](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/remote-and-hybrid-workplaces?u=76281980&t=8)** Be it at an office, or home, or our favorite coffee shop.
+> **[0:08](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/remote-and-hybrid-workplaces?u=76281980&t=8)** Be it at an [[Microsoft Office|office]], or home, or our favorite coffee shop.
 >
 > **[0:11](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/remote-and-hybrid-workplaces?u=76281980&t=11)** However, this flexibility has unique challenges for the end user and the IT department.
 >
@@ -1119,7 +1093,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (4), data (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (4)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1128,8 +1102,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1145,7 +1118,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/next-steps?u=76281980&t=24)** During this course I mentioned various certification paths you could follow to enhance your skills and careers.
 >
-> **[0:30](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/next-steps?u=76281980&t=30)** LinkedIn Learning has a lot of courses you can follow that will help you study for those certifications.
+> **[0:30](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/next-steps?u=76281980&t=30)** [[LinkedIn]] Learning has a lot of courses you can follow that will help you study for those certifications.
 >
 > **[0:35](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/next-steps?u=76281980&t=35)** So do check them out.
 >
@@ -1155,7 +1128,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (2), [[LinkedIn]] (2), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - [instructor] (1)
 

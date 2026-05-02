@@ -64,8 +64,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Embracing responsible AI practices in hiring
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/embracing-responsible-ai-practices-in-hiring?u=76281980)
+#### [Embracing responsible AI practices in hiring](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/embracing-responsible-ai-practices-in-hiring?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -75,7 +74,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/embracing-responsible-ai-practices-in-hiring?u=76281980&t=12)** Done right, AI can bring efficiency and insight.
 >
-> **[0:16](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/embracing-responsible-ai-practices-in-hiring?u=76281980&t=16)** Done wrong, it can reinforce bias, compromise privacy, and erode trust.
+> **[0:16](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/embracing-responsible-ai-practices-in-hiring?u=76281980&t=16)** Done wrong, it can reinforce bias, compromise [[Privacy]], and erode trust.
 >
 > **[0:22](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/embracing-responsible-ai-practices-in-hiring?u=76281980&t=22)** So how do we navigate this moment responsibly?
 >
@@ -83,7 +82,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/embracing-responsible-ai-practices-in-hiring?u=76281980&t=27)** And joining us is Don Phin, an attorney, HR expert, and longtime advocate for ethical innovation in the workplace.
 >
-> **[0:35](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/embracing-responsible-ai-practices-in-hiring?u=76281980&t=35)** Together, we'll unpack the risks, responsibilities, and opportunities of using AI and hiring from transparency and bias to data privacy, regulation, and beyond.
+> **[0:35](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/embracing-responsible-ai-practices-in-hiring?u=76281980&t=35)** Together, we'll unpack the risks, responsibilities, and opportunities of using AI and hiring from transparency and bias to [[Data Privacy]], regulation, and beyond.
 >
 > **[0:47](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/embracing-responsible-ai-practices-in-hiring?u=76281980&t=47)** I'm senior staff instructor, Ashley Kennedy.
 >
@@ -93,11 +92,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Privacy]] (2), hr (2), data (1)
+> **Frameworks & Libraries:** [[Privacy]] (1), [[Data Privacy]] (1)
 > **Speakers:** - hiring (1)
 
-#### Meet Don Phin
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/meet-don-phin?u=76281980)
+#### [Meet Don Phin](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/meet-don-phin?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -111,9 +109,9 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/meet-don-phin?u=76281980&t=13)** You will hear my New York accent, but I came out to San Diego when I was 20 and I haven't gone back.
 >
-> **[0:18](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/meet-don-phin?u=76281980&t=18)** I'm an employment lawyer and I've had the wonderful opportunity to do about 14 LinkedIn learning trainings.
+> **[0:18](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/meet-don-phin?u=76281980&t=18)** I'm an employment lawyer and I've had the wonderful opportunity to do about 14 [[LinkedIn]] learning trainings.
 >
-> **[0:26](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/meet-don-phin?u=76281980&t=26)** Last year, I just did a training on AI in human resource practices, and I just finished AI in career development.
+> **[0:26](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/meet-don-phin?u=76281980&t=26)** Last year, I just did a training on AI in human resource practices, and I just finished AI in [[Career Development]].
 >
 > **[0:35](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/meet-don-phin?u=76281980&t=35)** I've also just finished writing an article for the Risk Management Journal that I'm editor of about the ethical practices of AI in hiring and employee retention.
 >
@@ -139,17 +137,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), [[LinkedIn]] (1), [[Career Development]] (1), management (1), career (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Career Development]] (1)
 > **Speakers:** - don (1), - hi (1), - and (1), - ai (1)
 
-#### What is ethical AI in hiring, and why does it matter?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/what-is-ethical-ai-in-hiring-and-why-does-it-matter?u=76281980)
+#### [What is ethical AI in hiring, and why does it matter?](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/what-is-ethical-ai-in-hiring-and-why-does-it-matter?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/what-is-ethical-ai-in-hiring-and-why-does-it-matter?u=76281980&t=0)** - What does ethical AI in hiring mean, and why is it such a critical issue today?
 >
-> **[0:05](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/what-is-ethical-ai-in-hiring-and-why-does-it-matter?u=76281980&t=5)** - Ethics is doing the right thing, right?
+> **[0:05](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/what-is-ethical-ai-in-hiring-and-why-does-it-matter?u=76281980&t=5)** - [[Ethics]] is doing the right thing, right?
 >
 > **[0:07](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/what-is-ethical-ai-in-hiring-and-why-does-it-matter?u=76281980&t=7)** And there's a lot of things that we want to do.
 >
@@ -185,15 +182,15 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/what-is-ethical-ai-in-hiring-and-why-does-it-matter?u=76281980&t=87)** And one reason is it discloses all the data, and we're capturing data that'll get disclosed, okay?
 >
-> **[1:33](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/what-is-ethical-ai-in-hiring-and-why-does-it-matter?u=76281980&t=93)** And then the last thing is the business about privacy, and that's that kind of big brother problem.
+> **[1:33](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/what-is-ethical-ai-in-hiring-and-why-does-it-matter?u=76281980&t=93)** And then the last thing is the business about [[Privacy]], and that's that kind of big brother problem.
 >
 > **[1:38](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/what-is-ethical-ai-in-hiring-and-why-does-it-matter?u=76281980&t=98)** How much do I want technology infiltrated into my life, until it takes over my life, the Orwellian challenge about the whole thing, right?
 >
-> **[1:48](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/what-is-ethical-ai-in-hiring-and-why-does-it-matter?u=76281980&t=108)** So that, when I talk about ethics, there's some legal components to it, and we'll talk about those a little bit, but there's also the moral components for lack of a better word.
+> **[1:48](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/what-is-ethical-ai-in-hiring-and-why-does-it-matter?u=76281980&t=108)** So that, when I talk about ethics, there's some legal components to it, and we'll talk about those a little bit, but there's also the moral components for lack of a better [[Microsoft Word|word]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Ethics]] (2), data (2), business (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Ethics]] (2), [[Privacy]] (1), [[Microsoft Word|Word]] (1)
 > **Speakers:** - what (1), - ethics (1)
 
 
@@ -201,8 +198,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### When is hiring bias problematic?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/when-is-hiring-bias-problematic?u=76281980)
+#### [When is hiring bias problematic?](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/when-is-hiring-bias-problematic?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -234,12 +230,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2)
 > **Speakers:** - you (1), - human (1)
 > **Definitions:** is called (1)
 
-#### What are some examples of how AI creates hiring bias?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/what-are-some-examples-of-how-ai-creates-hiring-bias?u=76281980)
+#### [What are some examples of how AI creates hiring bias?](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/what-are-some-examples-of-how-ai-creates-hiring-bias?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -313,7 +307,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/what-are-some-examples-of-how-ai-creates-hiring-bias?u=76281980&t=171)** Okay?
 >
-> **[2:52](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/what-are-some-examples-of-how-ai-creates-hiring-bias?u=76281980&t=172)** So that AI can be used for interviewing.
+> **[2:52](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/what-are-some-examples-of-how-ai-creates-hiring-bias?u=76281980&t=172)** So that AI can be used for [[Interviewing]].
 >
 > **[2:57](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/what-are-some-examples-of-how-ai-creates-hiring-bias?u=76281980&t=177)** Is she being honest with me?
 >
@@ -337,19 +331,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), ai (7), [[Interviewing]] (2)
+> **Frameworks & Libraries:** [[Interviewing]] (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (2)
 > **Speakers:** - how (1)
 
-#### What is AI gatekeeping in talent acquisition?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/what-is-ai-gatekeeping-in-talent-acquisition?u=76281980)
+#### [What is AI gatekeeping in talent acquisition?](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/what-is-ai-gatekeeping-in-talent-acquisition?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/what-is-ai-gatekeeping-in-talent-acquisition?u=76281980&t=0)** - Don, with regard to the way that AI models are incorporated into hiring tools, can you talk about the concept of gatekeeping with regard to talent acquisition?
 >
-> **[0:12](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/what-is-ai-gatekeeping-in-talent-acquisition?u=76281980&t=12)** - So a gatekeeper is a pass/fail binary decision-making tool.
+> **[0:12](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/what-is-ai-gatekeeping-in-talent-acquisition?u=76281980&t=12)** - So a gatekeeper is a pass/fail binary [[Decision-Making]] tool.
 >
 > **[0:18](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/what-is-ai-gatekeeping-in-talent-acquisition?u=76281980&t=18)** So for example, if somebody needs to type 100 words per minute and they don't type 100 words per minute, they're not hired.
 >
@@ -395,7 +388,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1)
 > **Speakers:** - so (2), - don (1), - yeah (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Analogies:** for example (1), it's like (1)
@@ -406,8 +399,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How do we ensure AI makes fair, accurate hiring decisions?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/how-do-we-ensure-ai-makes-fair-accurate-hiring-decisions?u=76281980)
+#### [How do we ensure AI makes fair, accurate hiring decisions?](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/how-do-we-ensure-ai-makes-fair-accurate-hiring-decisions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -447,13 +439,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3)
 > **CLI Commands:** make (3)
 > **Speakers:** - don (1), - ai (1), - yeah (1)
 > **Definitions:** is an  (1)
 
-#### How can customzing AI tools improve accuracy?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/how-can-customzing-ai-tools-improve-accuracy?u=76281980)
+#### [How can customzing AI tools improve accuracy?](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/how-can-customzing-ai-tools-improve-accuracy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -487,7 +477,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4)
 > **Speakers:** - don (1), - one (1)
 > **CLI Commands:** make (1)
 
@@ -496,8 +485,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why are transparency in AI hiring tools so important?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/why-are-transparency-in-ai-hiring-tools-so-important?u=76281980)
+#### [Why are transparency in AI hiring tools so important?](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/why-are-transparency-in-ai-hiring-tools-so-important?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -531,7 +519,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/why-are-transparency-in-ai-hiring-tools-so-important?u=76281980&t=93)** So I want to make sure I take audits to see, the company's going to take audits to see if there's some inherent biases, or other things.
 >
-> **[1:41](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/why-are-transparency-in-ai-hiring-tools-so-important?u=76281980&t=101)** So throughout all of this, the word audit is going to show up a lot, right?
+> **[1:41](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/why-are-transparency-in-ai-hiring-tools-so-important?u=76281980&t=101)** So throughout all of this, the [[Microsoft Word|word]] audit is going to show up a lot, right?
 >
 > **[1:45](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/why-are-transparency-in-ai-hiring-tools-so-important?u=76281980&t=105)** I'll give you an example here, IBM uses Watson, you know, the thing that beat Jeopardy, and they use it as a hiring tool, all right?
 >
@@ -559,13 +547,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), data (6), [[Security]] (1), [[Microsoft Word|Word]] (1), teams (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (5), find (1)
 > **Speakers:** - i (2), - how (1), - so (1)
 > **Env Vars:** ibm (1)
 
-#### What can candidates do if they want to challenge AI hiring?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/what-can-candidates-do-if-they-want-to-challenge-ai-hiring?u=76281980)
+#### [What can candidates do if they want to challenge AI hiring?](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/what-can-candidates-do-if-they-want-to-challenge-ai-hiring?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -573,7 +560,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/what-can-candidates-do-if-they-want-to-challenge-ai-hiring?u=76281980&t=6)** - People should be allowed to ask for a human review if a decision was made by AI gatekeeping.
 >
-> **[0:14](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/what-can-candidates-do-if-they-want-to-challenge-ai-hiring?u=76281980&t=14)** So the transparency has to be when it's part of the decision-making process, if it's a gatekeeper especially.
+> **[0:14](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/what-can-candidates-do-if-they-want-to-challenge-ai-hiring?u=76281980&t=14)** So the transparency has to be when it's part of the [[Decision-Making]] process, if it's a gatekeeper especially.
 >
 > **[0:21](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/what-can-candidates-do-if-they-want-to-challenge-ai-hiring?u=76281980&t=21)** Meaning you pass/fail with the AI, and there's no more human interaction, no people involved, then people should be able to challenge that decision making.
 >
@@ -601,7 +588,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1)
 > **Speakers:** - what (1), - people (1), - that (1), - these (1), - yeah (1)
 > **Definitions:** is a  (1)
 
@@ -610,8 +597,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How is candidate data handled by AI, and what are the risks?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/how-is-candidate-data-handled-by-ai-and-what-are-the-risks?u=76281980)
+#### [How is candidate data handled by AI, and what are the risks?](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/how-is-candidate-data-handled-by-ai-and-what-are-the-risks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -643,13 +629,13 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/how-is-candidate-data-handled-by-ai-and-what-are-the-risks?u=76281980&t=48)** We have to make sure that the access to the information is limited to a need to know.
 >
-> **[0:55](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/how-is-candidate-data-handled-by-ai-and-what-are-the-risks?u=76281980&t=55)** So just like somebody going into HR's office when they're not around and looking in somebody else's personnel file to find out something about them, right?
+> **[0:55](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/how-is-candidate-data-handled-by-ai-and-what-are-the-risks?u=76281980&t=55)** So just like somebody going into HR's [[Microsoft Office|office]] when they're not around and looking in somebody else's personnel file to find out something about them, right?
 >
 > **[1:04](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/how-is-candidate-data-handled-by-ai-and-what-are-the-risks?u=76281980&t=64)** It's no different than having a file drawer.
 >
 > **[1:07](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/how-is-candidate-data-handled-by-ai-and-what-are-the-risks?u=76281980&t=67)** You have to keep it so it's limited to who has access to that data, okay?
 >
-> **[1:12](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/how-is-candidate-data-handled-by-ai-and-what-are-the-risks?u=76281980&t=72)** And again, we still... It goes back to the informed consent people, no surprises that you're using this AI data that's creepy and violates my privacy and things like that.
+> **[1:12](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/how-is-candidate-data-handled-by-ai-and-what-are-the-risks?u=76281980&t=72)** And again, we still... It goes back to the informed consent people, no surprises that you're using this AI data that's creepy and violates my [[Privacy]] and things like that.
 >
 > **[1:23](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/how-is-candidate-data-handled-by-ai-and-what-are-the-risks?u=76281980&t=83)** That's the most important things I can think about.
 >
@@ -667,14 +653,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), ai (3), [[Privacy]] (2), hr (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (2), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Speakers:** - don (1), - the (1), - do (1), - it (1)
 > **Env Vars:** eeoc (1)
 > **Analogies:** just like (1)
 
-#### What are the concerns about using biometrics in hiring?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/what-are-the-concerns-about-using-biometrics-in-hiring?u=76281980)
+#### [What are the concerns about using biometrics in hiring?](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/what-are-the-concerns-about-using-biometrics-in-hiring?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -712,7 +697,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (1), data (1)
 > **Env Vars:** fbi (1), cia (1), dna (1)
 > **Speakers:** - don (1), - so (1)
 
@@ -721,8 +705,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is key when using AI in hiring ethically and wisely?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/what-is-key-when-using-ai-in-hiring-ethically-and-wisely?u=76281980)
+#### [What is key when using AI in hiring ethically and wisely?](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/what-is-key-when-using-ai-in-hiring-ethically-and-wisely?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -778,13 +761,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), data (3)
 > **Warnings:** keep in mind (2), be aware (1)
 > **Speakers:** - don (1), - yeah (1)
 > **CLI Commands:** make (1)
 
-#### How will AI evolve and what trends are coming?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/how-will-ai-evolve-and-what-trends-are-coming?u=76281980)
+#### [How will AI evolve and what trends are coming?](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/how-will-ai-evolve-and-what-trends-are-coming?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -798,7 +779,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/how-will-ai-evolve-and-what-trends-are-coming?u=76281980&t=19)** This accelerating acceleration.
 >
-> **[0:21](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/how-will-ai-evolve-and-what-trends-are-coming?u=76281980&t=21)** So what I do know is where AI has come over in the last two years, there was before ChatGPT and there's after ChatGPT, right?
+> **[0:21](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/how-will-ai-evolve-and-what-trends-are-coming?u=76281980&t=21)** So what I do know is where AI has come over in the last two years, there was before [[ChatGPT]] and there's after ChatGPT, right?
 >
 > **[0:30](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/how-will-ai-evolve-and-what-trends-are-coming?u=76281980&t=30)** And that happened just two years ago.
 >
@@ -834,7 +815,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[ChatGPT]] (2), next (1), prompt (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2)
 > **Speakers:** - don (1), - one (1)
 > **Cross-References:** in the last (1)
 > **Analogies:** just like (1)

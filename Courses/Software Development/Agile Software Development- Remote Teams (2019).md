@@ -94,8 +94,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Remote-first culture for agile teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-first-culture-for-agile-teams?u=76281980)
+#### [Remote-first culture for agile teams](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-first-culture-for-agile-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -111,37 +110,36 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-first-culture-for-agile-teams?u=76281980&t=33)** It's easy to get it wrong.
 >
-> **[0:35](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-first-culture-for-agile-teams?u=76281980&t=35)** In this course, we'll look at remote work through the lens of the Agile Manifesto and its principles, including effective communication and collaboration, technical excellence, deploying early and often, and planning.
+> **[0:35](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-first-culture-for-agile-teams?u=76281980&t=35)** In this course, we'll look at remote work through the lens of the [[Agile Development|Agile]] Manifesto and its principles, including effective communication and collaboration, technical excellence, deploying early and often, and planning.
 >
 > **[0:49](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-first-culture-for-agile-teams?u=76281980&t=49)** We'll also look at practices that are typically thought of as face-to-face activities, such as pair programming, whiteboarding, and recruiting, and explore how they can be adapted for remote teams.
 >
 > **[1:01](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-first-culture-for-agile-teams?u=76281980&t=61)** Hi, I'm Andrea Goulet.
 >
-> **[1:03](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-first-culture-for-agile-teams?u=76281980&t=63)** I'm the CEO of Corgibytes, a software development company that specializes in modernizing legacy code.
+> **[1:03](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-first-culture-for-agile-teams?u=76281980&t=63)** I'm the CEO of Corgibytes, a [[Software Development]] company that specializes in modernizing legacy code.
 >
 > **[1:11](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-first-culture-for-agile-teams?u=76281980&t=71)** The experience of implementing a remote-first culture at my company has been one of the biggest joys and challenges of my career.
 >
 > **[1:20](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-first-culture-for-agile-teams?u=76281980&t=80)** A successful remote team requires a lot more than just a headset and a laptop.
 >
-> **[1:26](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-first-culture-for-agile-teams?u=76281980&t=86)** Join me in my LinkedIn learning course about remote working for your software development team.
+> **[1:26](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-first-culture-for-agile-teams?u=76281980&t=86)** Join me in my [[LinkedIn]] learning course about remote working for your software development team.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), [[Software Development]] (2), [[Agile Development|Agile]] (1), [[Programming]] (1), career (1)
+> **Frameworks & Libraries:** [[Software Development]] (2), [[Agile Development|Agile]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ceo (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - adopting (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/what-you-should-know?u=76281980&t=1)** - This course was designed for anyone who has an interest in building software where all of the contributors may not be in the same physical location.
 >
-> **[0:10](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/what-you-should-know?u=76281980&t=10)** You may be familiar with some of the Agile software concepts discussed in this course, but if not, that's totally okay.
+> **[0:10](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/what-you-should-know?u=76281980&t=10)** You may be familiar with some of the [[Agile Development|Agile]] software concepts discussed in this course, but if not, that's totally okay.
 >
 > **[0:18](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/what-you-should-know?u=76281980&t=18)** Everything discussed is high level, so you don't have to have experience or technical fluency in any specific area.
 >
@@ -151,7 +149,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), teams (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** ceo (1)
 > **Speakers:** - this (1)
@@ -161,8 +159,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The rise of remote working
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/the-rise-of-remote-working?u=76281980)
+#### [The rise of remote working](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/the-rise-of-remote-working?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -178,7 +175,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/the-rise-of-remote-working?u=76281980&t=22)** Working remotely is no longer a fringe or experimental setup.
 >
-> **[0:26](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/the-rise-of-remote-working?u=76281980&t=26)** It's very mainstream, especially for software development teams.
+> **[0:26](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/the-rise-of-remote-working?u=76281980&t=26)** It's very mainstream, especially for [[Software Development]] teams.
 >
 > **[0:31](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/the-rise-of-remote-working?u=76281980&t=31)** Now, I don't know about you, but I love research!
 >
@@ -198,7 +195,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/the-rise-of-remote-working?u=76281980&t=80)** That section grew from 24% in 2012 to 31% in 2016.
 >
-> **[1:28](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/the-rise-of-remote-working?u=76281980&t=88)** The State of Telecommuting report shares that regular telecommuting grew 115% in the last decade, nearly 10 times faster than the rest of the workforce.
+> **[1:28](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/the-rise-of-remote-working?u=76281980&t=88)** The State of Telecommuting report shares that regular telecommuting grew 115% in the last decade, nearly 10 times faster than the [[Representational State Transfer (REST)|rest]] of the workforce.
 >
 > **[1:39](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/the-rise-of-remote-working?u=76281980&t=99)** We can see a clear trend.
 >
@@ -218,7 +215,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/the-rise-of-remote-working?u=76281980&t=142)** The State of Telecommuting report also broke out their data by occupation.
 >
-> **[2:26](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/the-rise-of-remote-working?u=76281980&t=146)** They noted that management, office administrative occupations, and sales together account for 43% of telecommuter jobs compared to just 34% of non-telecommuter jobs, and that, though participation levels vary by occupation, telecommuters are found in every industry.
+> **[2:26](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/the-rise-of-remote-working?u=76281980&t=146)** They noted that management, [[Microsoft Office|office]] administrative occupations, and sales together account for 43% of telecommuter jobs compared to just 34% of non-telecommuter jobs, and that, though participation levels vary by occupation, telecommuters are found in every industry.
 >
 > **[2:46](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/the-rise-of-remote-working?u=76281980&t=166)** That same report also revealed that a person who has a computer or mathematical occupation is 2.8 times more likely to work remotely compared to the non-telecommuting workforce.
 >
@@ -232,7 +229,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), [[Software Development]] (2), data (2), management (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Software Development]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Office|Office]] (1)
 > **Cross-References:** in the last (2)
 > **Env Vars:** shrm (1)
 > **Versions:** 2.8 (1)
@@ -240,8 +237,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - let (1)
 
-#### Remote working benefits
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-working-benefits?u=76281980)
+#### [Remote working benefits](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-working-benefits?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -257,7 +253,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-working-benefits?u=76281980&t=30)** In his experiment, he took a group of 500 qualified workers in a travel agency.
 >
-> **[0:36](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-working-benefits?u=76281980&t=36)** Half of them worked from home four days per week, and the control group continued to go into the office.
+> **[0:36](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-working-benefits?u=76281980&t=36)** Half of them worked from home four days per week, and the control group continued to go into the [[Microsoft Office|office]].
 >
 > **[0:42](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-working-benefits?u=76281980&t=42)** After nine months, they were able to glean some measurable data, including saving $2,000 per year, per employee on office space, which adds up.
 >
@@ -265,7 +261,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-working-benefits?u=76281980&t=60)** This data is corroborated in the state of telecommuting survey.
 >
-> **[1:05](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-working-benefits?u=76281980&t=65)** Their in depth analysis, which has been vetted by the U.S. General Accountability Office, shows that employers can save $11,000 per half-time telecommuter per year, which equates to a $689 billion savings if all potential telecommuters were set up for remote success.
+> **[1:05](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-working-benefits?u=76281980&t=65)** Their in depth analysis, which has been vetted by the U.S. General [[Accountability]] Office, shows that employers can save $11,000 per half-time telecommuter per year, which equates to a $689 billion savings if all potential telecommuters were set up for remote success.
 >
 > **[1:27](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-working-benefits?u=76281980&t=87)** Now that's some significant cost savings!
 >
@@ -297,14 +293,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), data (3), [[Accountability]] (1), business (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), [[Accountability]] (1)
 > **Versions:** 13.5 (1)
 > **UI Navigation:** switch to (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - remote (1)
 
-#### Remote working challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-working-challenges?u=76281980)
+#### [Remote working challenges](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-working-challenges?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -318,7 +313,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-working-challenges?u=76281980&t=26)** I just feel so isolated.
 >
-> **[0:28](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-working-challenges?u=76281980&t=28)** The rest of the team works in the office, and a lot of conversations happen that I'm just not aware of.
+> **[0:28](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-working-challenges?u=76281980&t=28)** The [[Representational State Transfer (REST)|rest]] of the team works in the [[Microsoft Office|office]], and a lot of conversations happen that I'm just not aware of.
 >
 > **[0:35](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-working-challenges?u=76281980&t=35)** I like my team, but I feel disconnected.
 >
@@ -372,7 +367,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), teams (2), [[Representational State Transfer (REST)|Rest]] (1), data (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** fcc (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - about (1)
@@ -382,14 +377,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Remote working models
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-working-models?u=76281980)
+#### [Remote working models](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-working-models?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-working-models?u=76281980&t=1)** - When I first decided to make remote working central to my company's operations, I sought out organizations who were already successful with remote working.
 >
-> **[0:10](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-working-models?u=76281980&t=10)** As I explored the blogs and books that these companies had created to help people like me, I noticed a pattern, they often used the word distributed, not remote, to describe the operational setup that I was seeking.
+> **[0:10](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-working-models?u=76281980&t=10)** As I explored the blogs and books that these companies had created to help people like me, I noticed a pattern, they often used the [[Microsoft Word|word]] distributed, not remote, to describe the operational setup that I was seeking.
 >
 > **[0:25](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-working-models?u=76281980&t=25)** Distributed teams are completely remote in that anyone can work from anywhere at any time.
 >
@@ -397,7 +391,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-working-models?u=76281980&t=41)** Their model, which they described as colocated, meant that everyone needed to be in the same physical space at least part of the time.
 >
-> **[0:51](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-working-models?u=76281980&t=51)** Other tech giants, like Google, Apple, and IBM, have rejected a distributed model in favor of a colocated model, but still incorporate remote options.
+> **[0:51](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-working-models?u=76281980&t=51)** Other tech giants, like [[Google]], Apple, and IBM, have rejected a distributed model in favor of a colocated model, but still incorporate remote options.
 >
 > **[1:02](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-working-models?u=76281980&t=62)** All of these organizations build software, so which model is right, colocation or distributed?
 >
@@ -407,18 +401,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), teams (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Google]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** ibm (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - when (1)
 
-#### Remote working models: Colocated
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-working-models-colocated?u=76281980)
+#### [Remote working models: Colocated](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-working-models-colocated?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-working-models-colocated?u=76281980&t=0)** - In a co-located model, people come together into the same physical space, usually an office.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-working-models-colocated?u=76281980&t=0)** - In a co-located model, people come together into the same physical space, usually an [[Microsoft Office|office]].
 >
 > **[0:08](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-working-models-colocated?u=76281980&t=8)** Interactions are more ephemeral, existing for just a moment.
 >
@@ -484,7 +477,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (6), teams (4), business (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (6)
 > **Analogies:** such as (3)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1)
@@ -492,14 +485,13 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - in (1)
 
-#### Remote working models: Distributed
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-working-models-distributed?u=76281980)
+#### [Remote working models: Distributed](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-working-models-distributed?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-working-models-distributed?u=76281980&t=1)** - When a company is distributed, employees can choose to work from a variety of different geographic locations.
 >
-> **[0:07](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-working-models-distributed?u=76281980&t=7)** A staff member might work from a home office, coffee shop, or a coworking location.
+> **[0:07](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-working-models-distributed?u=76281980&t=7)** A staff member might work from a home [[Microsoft Office|office]], coffee shop, or a coworking location.
 >
 > **[0:13](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-working-models-distributed?u=76281980&t=13)** They might even be a digital nomad, who changes locations on a regular basis, and a snowy landscape the next.
 >
@@ -509,7 +501,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-working-models-distributed?u=76281980&t=39)** Software tools become the office, informal conversation needs to be prompted and nurtured, and organizations may fly team members in for a deliberate co-located event.
 >
-> **[0:53](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-working-models-distributed?u=76281980&t=53)** Distributed teams tend to work especially well for groups that are working on non-tangible products such as digital or knowledge products, need a particular skillset that is in high demand, can operate with a higher degree of autonomy and independence, and have a clearly defined mission, task, or objective.
+> **[0:53](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-working-models-distributed?u=76281980&t=53)** Distributed teams tend to work especially well for groups that are working on non-tangible [[Microsoft Products|products]] such as digital or knowledge products, need a particular skillset that is in high demand, can operate with a higher degree of autonomy and independence, and have a clearly defined mission, task, or objective.
 >
 > **[1:16](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-working-models-distributed?u=76281980&t=76)** At my company, we work exclusively with software, not physical products.
 >
@@ -531,7 +523,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-working-models-distributed?u=76281980&t=157)** Things like, are you a good dancer, what's your favorite ice cream flavor, do you root for any sports teams?
 >
-> **[2:44](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-working-models-distributed?u=76281980&t=164)** In addition, we have affinity channels set up in Slack where people can share more about their personal lives.
+> **[2:44](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-working-models-distributed?u=76281980&t=164)** In addition, we have affinity channels set up in [[Slack]] where people can share more about their personal lives.
 >
 > **[2:51](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-working-models-distributed?u=76281980&t=171)** These channels help create a real sense of comradery.
 >
@@ -553,15 +545,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), teams (3), [[Microsoft Products|Products]] (3), next (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), [[Microsoft Products|Products]] (3), [[Slack]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** such as (1), just like (1)
 > **Tools:** slack (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - when (1)
 
-#### Conway's Law: Building a strong communication foundation
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/conway-s-law-building-a-strong-communication-foundation?u=76281980)
+#### [Conway's Law: Building a strong communication foundation](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/conway-s-law-building-a-strong-communication-foundation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -581,7 +572,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/conway-s-law-building-a-strong-communication-foundation?u=76281980&t=48)** So what is Conway's law?
 >
-> **[0:51](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/conway-s-law-building-a-strong-communication-foundation?u=76281980&t=51)** In the 1960s, Mel Conway published a paper titled How Do Committees Invent, where he explained how organizations which design systems are constrained to produce designs which are copies of the communication structures of these organizations.
+> **[0:51](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/conway-s-law-building-a-strong-communication-foundation?u=76281980&t=51)** In the 1960s, Mel Conway published a paper titled How Do Committees Invent, where he explained how organizations which [[Design Systems]] are constrained to produce designs which are copies of the communication structures of these organizations.
 >
 > **[1:09](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/conway-s-law-building-a-strong-communication-foundation?u=76281980&t=69)** First, you'll notice just how essential communication is to Conway's law.
 >
@@ -593,7 +584,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/conway-s-law-building-a-strong-communication-foundation?u=76281980&t=92)** Let's look at an example.
 >
-> **[1:34](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/conway-s-law-building-a-strong-communication-foundation?u=76281980&t=94)** Team A works in a traditional co-located office.
+> **[1:34](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/conway-s-law-building-a-strong-communication-foundation?u=76281980&t=94)** Team A works in a traditional co-located [[Microsoft Office|office]].
 >
 > **[1:38](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/conway-s-law-building-a-strong-communication-foundation?u=76281980&t=98)** They are organized in seemingly logical groups.
 >
@@ -601,7 +592,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/conway-s-law-building-a-strong-communication-foundation?u=76281980&t=109)** Design, development, and testing are separate teams and don't interact very often.
 >
-> **[1:54](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/conway-s-law-building-a-strong-communication-foundation?u=76281980&t=114)** Upper management and executives feel like they're in control, but often the products they produce are late, overbudget, and incredibly difficult to change.
+> **[1:54](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/conway-s-law-building-a-strong-communication-foundation?u=76281980&t=114)** Upper management and executives feel like they're in control, but often the [[Microsoft Products|products]] they produce are late, overbudget, and incredibly difficult to change.
 >
 > **[2:04](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/conway-s-law-building-a-strong-communication-foundation?u=76281980&t=124)** Contrast this to Team B, which is fully distributive.
 >
@@ -633,12 +624,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (4), management (2), [[Design Systems]] (1), product (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Design Systems]] (1), [[Microsoft Office|Office]] (1), [[Microsoft Products|Products]] (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - communication (1)
 
-#### The intentionally distributed mindset
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/the-intentionally-distributed-mindset?u=76281980)
+#### [The intentionally distributed mindset](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/the-intentionally-distributed-mindset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -650,7 +640,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/the-intentionally-distributed-mindset?u=76281980&t=24)** It took me years to figure this out, but my hope is that by sharing this five shifts with you you'll be able to successfully adopt a remote strategy quickly.
 >
-> **[0:35](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/the-intentionally-distributed-mindset?u=76281980&t=35)** This first shift is rethinking where your office is located.
+> **[0:35](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/the-intentionally-distributed-mindset?u=76281980&t=35)** This first shift is rethinking where your [[Microsoft Office|office]] is located.
 >
 > **[0:41](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/the-intentionally-distributed-mindset?u=76281980&t=41)** In a distributed mindset your workspace is no longer a physical place, but instead transforms into a digital platform that enables collaboration.
 >
@@ -670,7 +660,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/the-intentionally-distributed-mindset?u=76281980&t=99)** This can lead to isolation and miscommunication, so making an intentional effort to share becomes an important skill.
 >
-> **[1:49](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/the-intentionally-distributed-mindset?u=76281980&t=109)** This can range from simple things, like sharing when you're sick or stating opinions more clearly in a code review, to more radical transparency initiatives, such as openly sharing salaries and the company's financial standing.
+> **[1:49](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/the-intentionally-distributed-mindset?u=76281980&t=109)** This can range from simple things, like sharing when you're sick or stating opinions more clearly in a [[Code Review]], to more radical transparency initiatives, such as openly sharing salaries and the company's financial standing.
 >
 > **[2:03](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/the-intentionally-distributed-mindset?u=76281980&t=123)** In a fully distributed model it's unrealistic to expect that someone will be immediately available when you need them.
 >
@@ -682,7 +672,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/the-intentionally-distributed-mindset?u=76281980&t=158)** Instead of making your team suss through an onslaught of content that your distributed team is now producing, you'll want to encourage individuals to opt in and out of conversations as they see fit.
 >
-> **[2:52](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/the-intentionally-distributed-mindset?u=76281980&t=172)** This will likely mean you'll need to use new tools that are designed to manage group conversations, such as Slack.
+> **[2:52](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/the-intentionally-distributed-mindset?u=76281980&t=172)** This will likely mean you'll need to use new tools that are designed to manage group conversations, such as [[Slack]].
 >
 > **[2:59](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/the-intentionally-distributed-mindset?u=76281980&t=179)** If you can begin to adopt these changes to the way you work you're well on your way to being able to lead a successful and fully distributed team.
 >
@@ -690,7 +680,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), teams (1), next (1), [[Code Review]] (1), [[Slack]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Code Review]] (1), [[Slack]] (1)
 > **CLI Commands:** find (2)
 > **Analogies:** such as (2)
 > **Tools:** slack (1)
@@ -698,12 +688,11 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - when (1)
 
-#### Shifting to a digital workspace
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/shifting-to-a-digital-workspace?u=76281980)
+#### [Shifting to a digital workspace](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/shifting-to-a-digital-workspace?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/shifting-to-a-digital-workspace?u=76281980&t=1)** - When you set up a physical office, what are the things you need to consider?
+> **[0:01](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/shifting-to-a-digital-workspace?u=76281980&t=1)** - When you set up a physical [[Microsoft Office|office]], what are the things you need to consider?
 >
 > **[0:05](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/shifting-to-a-digital-workspace?u=76281980&t=5)** Well, you'd need a physical space in a building.
 >
@@ -725,11 +714,11 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/shifting-to-a-digital-workspace?u=76281980&t=66)** This way, when your staff has this application open, they're at work, but when they have it closed, they're out of the office.
 >
-> **[1:14](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/shifting-to-a-digital-workspace?u=76281980&t=74)** The heavyweight in this space is Slack.
+> **[1:14](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/shifting-to-a-digital-workspace?u=76281980&t=74)** The heavyweight in this space is [[Slack]].
 >
 > **[1:17](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/shifting-to-a-digital-workspace?u=76281980&t=77)** At the time of this recording, it dominates the market and has overtaken some of the biggest competitors, such as HipChat.
 >
-> **[1:24](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/shifting-to-a-digital-workspace?u=76281980&t=84)** Still, alternatives remain out there, such as Gitter, Microsoft Teams, and more.
+> **[1:24](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/shifting-to-a-digital-workspace?u=76281980&t=84)** Still, alternatives remain out there, such as Gitter, [[Microsoft Teams]], and more.
 >
 > **[1:30](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/shifting-to-a-digital-workspace?u=76281980&t=90)** Collaboration tools such as these work kind of like this: you have the workspace, which is sort of like your big office in a physical workspace.
 >
@@ -737,7 +726,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/shifting-to-a-digital-workspace?u=76281980&t=108)** Instead of having a quick chat in the physical break room, that same conversation happens, but it's in a break room channel.
 >
-> **[1:56](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/shifting-to-a-digital-workspace?u=76281980&t=116)** At my company, we also have channels around projects, such as finance, marketing, and for each client, affinity channels such as fitness and parenting, and channels that align with typical Agile practices, such as stand-ups and retrospectives.
+> **[1:56](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/shifting-to-a-digital-workspace?u=76281980&t=116)** At my company, we also have channels around projects, such as finance, marketing, and for each client, affinity channels such as fitness and parenting, and channels that align with typical [[Agile Development|Agile]] practices, such as stand-ups and retrospectives.
 >
 > **[2:13](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/shifting-to-a-digital-workspace?u=76281980&t=133)** Using Slack and seeing all the interactions is kind of like the background chatter that you would hear in an office setting.
 >
@@ -749,9 +738,9 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/shifting-to-a-digital-workspace?u=76281980&t=156)** It's important to choose a video conferencing tool that makes it easy to schedule time for visual collaboration.
 >
-> **[2:43](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/shifting-to-a-digital-workspace?u=76281980&t=163)** At my office, we rely on Zoom as our main video conferencing tool because it handles group meetings better than the others we tried at the time.
+> **[2:43](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/shifting-to-a-digital-workspace?u=76281980&t=163)** At my office, we rely on [[Zoom]] as our main video conferencing tool because it handles group meetings better than the others we tried at the time.
 >
-> **[2:52](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/shifting-to-a-digital-workspace?u=76281980&t=172)** Other options include Google Hangouts, appear.in, Skype, Slack, Webex, and GoToMeeting.
+> **[2:52](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/shifting-to-a-digital-workspace?u=76281980&t=172)** Other options include [[Google]] Hangouts, appear.in, Skype, Slack, Webex, and GoToMeeting.
 >
 > **[3:02](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/shifting-to-a-digital-workspace?u=76281980&t=182)** I encourage you to try these out and see what works best for your needs.
 >
@@ -767,19 +756,19 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/shifting-to-a-digital-workspace?u=76281980&t=204)** There are tons of different tools that help you manage digital projects.
 >
-> **[3:29](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/shifting-to-a-digital-workspace?u=76281980&t=209)** Some popular ones include Asana, Trello, Basecamp, ClickUp, Airtable, and Wrike.
+> **[3:29](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/shifting-to-a-digital-workspace?u=76281980&t=209)** Some popular ones include Asana, [[Trello]], Basecamp, ClickUp, Airtable, and Wrike.
 >
 > **[3:37](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/shifting-to-a-digital-workspace?u=76281980&t=217)** These tools help you set goals, manage tasks, and generally keep track of who's doing what.
 >
 > **[3:43](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/shifting-to-a-digital-workspace?u=76281980&t=223)** Additionally, there are tools that are more specifically designed for software-related tasks.
 >
-> **[3:49](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/shifting-to-a-digital-workspace?u=76281980&t=229)** These include GitHub, Jira, Pivotal Tracker, and GitLab.
+> **[3:49](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/shifting-to-a-digital-workspace?u=76281980&t=229)** These include [[GitHub]], [[Jira]], Pivotal Tracker, and GitLab.
 >
 > **[3:54](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/shifting-to-a-digital-workspace?u=76281980&t=234)** So, just like you would do research for that perfect piece of real estate for your team's needs, I encourage to take a look around the market at the wide array of tools that are built to help your team collaborate, talk over video, and organize their work.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (6), [[Slack]] (3), application (1), [[Microsoft Teams]] (1), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (6), [[Slack]] (3), [[Microsoft Teams]] (1), [[Agile Development|Agile]] (1), [[Zoom]] (1)
 > **Analogies:** such as (6), just like (2), kind of like (2)
 > **Tools:** slack (3), github (1), jira (1), gitlab (1)
 > **Prerequisites:** set up (2)
@@ -788,8 +777,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - when (1)
 
-#### The cost of context switching
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/the-cost-of-context-switching?u=76281980)
+#### [The cost of context switching](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/the-cost-of-context-switching?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -843,7 +831,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/the-cost-of-context-switching?u=76281980&t=124)** In the movie Inception, when the main character learned they were actually in a dream, the world started falling apart.
 >
-> **[2:12](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/the-cost-of-context-switching?u=76281980&t=132)** Apartment windows, food carts, and dishes shatter all around them.
+> **[2:12](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/the-cost-of-context-switching?u=76281980&t=132)** Apartment [[Windows]], food carts, and dishes shatter all around them.
 >
 > **[2:18](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/the-cost-of-context-switching?u=76281980&t=138)** Scott watched his mental model implode.
 >
@@ -875,7 +863,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/the-cost-of-context-switching?u=76281980&t=219)** Coding in groups, such as with mob programming, helps to distribute the mental load.
 >
-> **[3:44](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/the-cost-of-context-switching?u=76281980&t=224)** This way, one person can walk away or be interrupted, and the rest of the group can carry on.
+> **[3:44](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/the-cost-of-context-switching?u=76281980&t=224)** This way, one person can walk away or be interrupted, and the [[Representational State Transfer (REST)|rest]] of the group can carry on.
 >
 > **[3:51](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/the-cost-of-context-switching?u=76281980&t=231)** Ask your team how they'd like to work.
 >
@@ -885,18 +873,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), management (1), career (1), [[Windows]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** just like (2), imagine (1), such as (1)
 > **Speakers:** - do (1)
 
-#### ChatOps: Integrating your communications
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/chatops-integrating-your-communications?u=76281980)
+#### [ChatOps: Integrating your communications](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/chatops-integrating-your-communications?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/chatops-integrating-your-communications?u=76281980&t=1)** - [Instructor] Once our team fully embraced our distributed mindset, I started noticing that there were opportunities to use code to help facilitate communication across my team.
 >
-> **[0:12](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/chatops-integrating-your-communications?u=76281980&t=12)** For example, I wanted Slack to ask a random question in our break room channel that would get people chatting and building rapport.
+> **[0:12](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/chatops-integrating-your-communications?u=76281980&t=12)** For example, I wanted [[Slack]] to ask a random question in our break room channel that would get people chatting and building rapport.
 >
 > **[0:19](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/chatops-integrating-your-communications?u=76281980&t=19)** Things like, what is your favorite time of day, and why?
 >
@@ -944,13 +931,13 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/chatops-integrating-your-communications?u=76281980&t=159)** It might make sense for your team to set up a type of interactive system that mimics human conversation, a chatbot.
 >
-> **[2:47](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/chatops-integrating-your-communications?u=76281980&t=167)** One of the fist adapters of chatbots was GitHub, who, in 2011, made their code openly available through Hubot.
+> **[2:47](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/chatops-integrating-your-communications?u=76281980&t=167)** One of the fist adapters of chatbots was [[GitHub]], who, in 2011, made their code openly available through Hubot.
 >
 > **[2:56](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/chatops-integrating-your-communications?u=76281980&t=176)** Since then, many other chatbot platforms have joined the scene, such as Lita and Err.
 >
 > **[3:01](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/chatops-integrating-your-communications?u=76281980&t=181)** Slack even has its own lightweight version called Slack bot that you can configure with custom messaging.
 >
-> **[3:07](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/chatops-integrating-your-communications?u=76281980&t=187)** I use this so that every time a team member enters the phrase good morning, Slack bot replies just like a receptionist at a physical office might, nice to see you.
+> **[3:07](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/chatops-integrating-your-communications?u=76281980&t=187)** I use this so that every time a team member enters the phrase good morning, Slack bot replies just like a receptionist at a physical [[Microsoft Office|office]] might, nice to see you.
 >
 > **[3:17](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/chatops-integrating-your-communications?u=76281980&t=197)** It is a great morning.
 >
@@ -960,7 +947,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/chatops-integrating-your-communications?u=76281980&t=209)** APIs.
 >
-> **[3:30](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/chatops-integrating-your-communications?u=76281980&t=210)** Application Programming Interfaces, APIs, are another way that you can create integrations between your applications.
+> **[3:30](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/chatops-integrating-your-communications?u=76281980&t=210)** [[Application Programming Interfaces (API)|Application Programming Interfaces]], APIs, are another way that you can create integrations between your applications.
 >
 > **[3:39](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/chatops-integrating-your-communications?u=76281980&t=219)** Many tools publicly publish documentation on how you can write custom software to integrate with their systems.
 >
@@ -976,7 +963,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Slack]] (6), chatbot (3), api (2), [[Automation]] (1), power (1)
+> **Frameworks & Libraries:** [[Slack]] (6), [[GitHub]] (1), [[Microsoft Office|Office]] (1), [[Application Programming Interfaces (API)|Application programming interfaces]] (1)
 > **Tools:** slack (6), github (1)
 > **Env Vars:** api (2), ifttt (1), http (1)
 > **Analogies:** such as (2), for example (1), just like (1)
@@ -985,8 +972,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1), configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Signal vs. Noise
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/signal-vs-noise?u=76281980)
+#### [Signal vs. Noise](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/signal-vs-noise?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1020,7 +1006,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/signal-vs-noise?u=76281980&t=67)** Investing as little as 15 to 20 minutes per week now can save you a lot of time and frustration in the future.
 >
-> **[1:16](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/signal-vs-noise?u=76281980&t=76)** Some examples of these activities include leaving, muting and starring Slack channels, learning to use keyboard shortcuts, setting up do not disturb or out-of-office features, and finding and optimizing third-party tools to help manage emails such as Superhuman, Mailstrom, Unroll.me and SaneBox.
+> **[1:16](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/signal-vs-noise?u=76281980&t=76)** Some examples of these activities include leaving, muting and starring [[Slack]] channels, learning to use keyboard shortcuts, setting up do not disturb or out-of-[[Microsoft Office|office]] features, and finding and optimizing third-party tools to help manage emails such as Superhuman, Mailstrom, Unroll.me and SaneBox.
 >
 > **[1:38](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/signal-vs-noise?u=76281980&t=98)** In addition to individual optimization, you'll also want to discuss strategies as a group.
 >
@@ -1070,7 +1056,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/signal-vs-noise?u=76281980&t=235)** Send me a Slack message with an @ mention, then send me a message to the #sos channel, then text me, then call me, call me twice within three minutes to override a do not disturb feature and if you just can't get in touch with me, call Scott who's my business partner.
 >
-> **[4:12](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/signal-vs-noise?u=76281980&t=252)** By spending time streamlining your notifications, setting expectations with your team and predefining a path for escalating urgent communications you can rest easy knowing that your communication settings are in balance.
+> **[4:12](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/signal-vs-noise?u=76281980&t=252)** By spending time streamlining your notifications, setting expectations with your team and predefining a path for escalating urgent communications you can [[Representational State Transfer (REST)|rest]] easy knowing that your communication settings are in balance.
 >
 > **[4:26](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/signal-vs-noise?u=76281980&t=266)** Not too much and not too little.
 >
@@ -1080,7 +1066,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Slack]] (4), management (1), [[Microsoft Office|Office]] (1), teams (1), product (1)
+> **Frameworks & Libraries:** [[Slack]] (4), [[Microsoft Office|Office]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Tools:** slack (4)
 > **Analogies:** such as (2), for example (2)
 > **Definitions:** is a  (2)
@@ -1094,8 +1080,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Virtual private networks (VPNs) and firewalls
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/virtual-private-networks-vpns-and-firewalls?u=76281980)
+#### [Virtual private networks (VPNs) and firewalls](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/virtual-private-networks-vpns-and-firewalls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1139,7 +1124,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), vpn (2), traffic (2), data (1)
 > **Prerequisites:** setup (3), you need to have (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** such as (2), just like (1)
@@ -1148,8 +1132,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - figuring (1)
 
-#### Encryption and two-factor authentication
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/encryption-and-two-factor-authentication?u=76281980)
+#### [Encryption and two-factor authentication](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/encryption-and-two-factor-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1175,7 +1158,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/encryption-and-two-factor-authentication?u=76281980&t=75)** It's also important to note that some industries have particular encryption standards that you'll need to follow.
 >
-> **[1:22](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/encryption-and-two-factor-authentication?u=76281980&t=82)** For example if you're interacting with credit card data in any way, you'll want to make sure that you're following the PCI, which is Payment Card Industry data security standard.
+> **[1:22](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/encryption-and-two-factor-authentication?u=76281980&t=82)** For example if you're interacting with credit card data in any way, you'll want to make sure that you're following the PCI, which is Payment Card Industry [[Data Security]] standard.
 >
 > **[1:33](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/encryption-and-two-factor-authentication?u=76281980&t=93)** Another type of security measure for your team is two factor authentication.
 >
@@ -1183,7 +1166,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/encryption-and-two-factor-authentication?u=76281980&t=107)** Most often this second code is delivered by text message or SMS although there are some known vulnerabilities with this method.
 >
-> **[1:56](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/encryption-and-two-factor-authentication?u=76281980&t=116)** Other options for the second authentication method include software such as Google Authenticator, or Authy, or even hardware such as YubiKey.
+> **[1:56](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/encryption-and-two-factor-authentication?u=76281980&t=116)** Other options for the second authentication method include software such as [[Google]] Authenticator, or Authy, or even [[Hardware]] such as YubiKey.
 >
 > **[2:06](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/encryption-and-two-factor-authentication?u=76281980&t=126)** Finally it's important to keep all of the code that you're working with up to date.
 >
@@ -1195,7 +1178,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Security]] (3), web (1), [[Google]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Data Security]] (1), [[Google]] (1), [[Hardware]] (1)
 > **Env Vars:** ssh (2), https (1), http (1), ftp (1), pci (1)
 > **Analogies:** such as (3), for example (1), just like (1)
 > **CLI Commands:** make (2), ssh (2)
@@ -1204,8 +1187,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Version control: Never run a remote team without it
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/version-control-never-run-a-remote-team-without-it?u=76281980)
+#### [Version control: Never run a remote team without it](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/version-control-never-run-a-remote-team-without-it?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1213,7 +1195,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/version-control-never-run-a-remote-team-without-it?u=76281980&t=2)** Where is your code?
 >
-> **[0:04](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/version-control-never-run-a-remote-team-without-it?u=76281980&t=4)** For some organizations the code that runs their business can only be found on an individual computer or perhaps a server that is in an office closet.
+> **[0:04](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/version-control-never-run-a-remote-team-without-it?u=76281980&t=4)** For some organizations the code that runs their business can only be found on an individual computer or perhaps a server that is in an [[Microsoft Office|office]] closet.
 >
 > **[0:15](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/version-control-never-run-a-remote-team-without-it?u=76281980&t=15)** Whenever I see this scenario, I get a little nervous.
 >
@@ -1229,9 +1211,9 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/version-control-never-run-a-remote-team-without-it?u=76281980&t=45)** If you have multiple people working on different parts of the code, they might unintentionally overwrite one of their collaborator's changes, resulting in even more bugs.
 >
-> **[0:55](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/version-control-never-run-a-remote-team-without-it?u=76281980&t=55)** Luckily there are tried and true tools that can help protect against these scenarios, version control.
+> **[0:55](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/version-control-never-run-a-remote-team-without-it?u=76281980&t=55)** Luckily there are tried and true tools that can help protect against these scenarios, [[Version Control]].
 >
-> **[1:03](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/version-control-never-run-a-remote-team-without-it?u=76281980&t=63)** Today the most widely used version control system is Git, a decentralized system that can be visualized like a tree.
+> **[1:03](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/version-control-never-run-a-remote-team-without-it?u=76281980&t=63)** Today the most widely used version control system is [[Git]], a decentralized system that can be visualized like a tree.
 >
 > **[1:13](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/version-control-never-run-a-remote-team-without-it?u=76281980&t=73)** You have your main code base, which is often called master.
 >
@@ -1241,7 +1223,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/version-control-never-run-a-remote-team-without-it?u=76281980&t=94)** One of the challenges of many version control systems is that you need to know how to work on the command line to effectively work with them.
 >
-> **[1:43](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/version-control-never-run-a-remote-team-without-it?u=76281980&t=103)** But web-based tools, such as GitHub, BitBucket, and GitLab are all designed to make the user experience easier.
+> **[1:43](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/version-control-never-run-a-remote-team-without-it?u=76281980&t=103)** But web-based tools, such as [[GitHub]], [[Bitbucket]], and GitLab are all designed to make the [[User Experience (UX)|user experience]] easier.
 >
 > **[1:52](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/version-control-never-run-a-remote-team-without-it?u=76281980&t=112)** While each tool has its own unique properties, which some developers value more than others, at the end of the day, they all fundamentally have the following features.
 >
@@ -1277,22 +1259,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Version Control]] (4), web (4), [[Git]] (2), [[GitHub]] (2), cloud (2)
+> **Frameworks & Libraries:** [[Version Control]] (4), [[Git]] (2), [[GitHub]] (2), [[Microsoft Office|Office]] (1), [[Bitbucket]] (1)
 > **Tools:** command line (3), github (2), bitbucket (1), gitlab (1)
 > **CLI Commands:** make (2), git (2), find (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
-#### Methodologies that drive development
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/methodologies-that-drive-development?u=76281980)
+#### [Methodologies that drive development](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/methodologies-that-drive-development?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/methodologies-that-drive-development?u=76281980&t=1)** - [Instructor] You've shifted your thinking towards a distributed mindset, set up your tools, and now you're ready to start solving problems, awesome.
 >
-> **[0:08](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/methodologies-that-drive-development?u=76281980&t=8)** Now we'll go over some popular methodologies in software development and talk about how they can be adapted for a distributed team.
+> **[0:08](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/methodologies-that-drive-development?u=76281980&t=8)** Now we'll go over some popular methodologies in [[Software Development]] and talk about how they can be adapted for a distributed team.
 >
-> **[0:16](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/methodologies-that-drive-development?u=76281980&t=16)** Let's start at the most business focused of the methodologies: design thinking, which has its roots in the 1960s but gained global popularity at the turn of the century when the design firm IDEO and the Stanford Design School, d.school, began codifying and teaching its main concepts.
+> **[0:16](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/methodologies-that-drive-development?u=76281980&t=16)** Let's start at the most business focused of the methodologies: [[Design Thinking]], which has its roots in the 1960s but gained global popularity at the turn of the century when the design firm IDEO and the Stanford Design School, d.school, began codifying and teaching its main concepts.
 >
 > **[0:33](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/methodologies-that-drive-development?u=76281980&t=33)** Design thinking is particularly useful for solving big and complex problems, one where a solution isn't yet well defined.
 >
@@ -1308,13 +1289,13 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/methodologies-that-drive-development?u=76281980&t=89)** One of the biggest goals of DDD is to create a shared language between business teams and development teams so that the code base accurately reflects the context of the problem being solved.
 >
-> **[1:40](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/methodologies-that-drive-development?u=76281980&t=100)** This is typically done by looking at the business or a specific business process as a whole and then carving out domains and bounded contexts for the software architecture.
+> **[1:40](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/methodologies-that-drive-development?u=76281980&t=100)** This is typically done by looking at the business or a specific business process as a whole and then carving out domains and bounded contexts for the [[Software Architecture]].
 >
 > **[1:52](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/methodologies-that-drive-development?u=76281980&t=112)** Many aspects of DDD require intense collaboration, so some parts of the process might benefit from co-location while others are more easily adapted to a distributive format.
 >
 > **[2:03](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/methodologies-that-drive-development?u=76281980&t=123)** Next, let's look at behavior-driven development, developed by Dan North in 2004, and sometimes referred to as specification by example.
 >
-> **[2:13](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/methodologies-that-drive-development?u=76281980&t=133)** Traditionally, business people would write up long requirements documents in a word processor or a spreadsheet.
+> **[2:13](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/methodologies-that-drive-development?u=76281980&t=133)** Traditionally, business people would write up long requirements documents in a [[Microsoft Word|word]] processor or a spreadsheet.
 >
 > **[2:19](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/methodologies-that-drive-development?u=76281980&t=139)** However, when requirements are described in this way, there's a big risk that the intent gets lost in translation when the developer needs to turn that requirement into code.
 >
@@ -1322,7 +1303,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/methodologies-that-drive-development?u=76281980&t=157)** These scenarios then become executable code that developers can use to ensure the behavior that the business intended is indeed what's implemented.
 >
-> **[2:47](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/methodologies-that-drive-development?u=76281980&t=167)** Finally, let's look at the most code-focused of the methodologies: test-driven development.
+> **[2:47](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/methodologies-that-drive-development?u=76281980&t=167)** Finally, let's look at the most code-focused of the methodologies: [[Test-Driven Development]].
 >
 > **[2:53](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/methodologies-that-drive-development?u=76281980&t=173)** Test-driven development was developed in 2003 by Kent Beck.
 >
@@ -1346,7 +1327,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), teams (4), [[Design Thinking]] (3), [[Test-Driven Development]] (3), next (2)
+> **Frameworks & Libraries:** [[Design Thinking]] (3), [[Test-Driven Development]] (3), [[Software Development]] (1), [[Software Architecture]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** ddd (3), bdd (2), tdd (2), ideo (1)
 > **CLI Commands:** make (1)
 > **Documentation:** specification (1)
@@ -1354,12 +1335,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Continuous improvement and marginal gains
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/continuous-improvement-and-marginal-gains?u=76281980)
+#### [Continuous improvement and marginal gains](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/continuous-improvement-and-marginal-gains?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/continuous-improvement-and-marginal-gains?u=76281980&t=1)** - [Instructor] Continuous improvement, continuous integration, continuous delivery, continuous deployment.
+> **[0:01](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/continuous-improvement-and-marginal-gains?u=76281980&t=1)** - [Instructor] Continuous improvement, [[Continuous Integration (CI)|continuous integration]], [[Continuous Delivery (CD)|continuous delivery]], continuous deployment.
 >
 > **[0:07](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/continuous-improvement-and-marginal-gains?u=76281980&t=7)** There is a lot of continuous happening in software, and embracing these practices can have a profound positive impact on distributed teams.
 >
@@ -1389,7 +1369,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/continuous-improvement-and-marginal-gains?u=76281980&t=116)** However, as Sir Brailsford noted in an interview with the Harvard Business Review, in order for this approach to work, the whole team has to buy in, otherwise, you'll breed resentment.
 >
-> **[2:09](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/continuous-improvement-and-marginal-gains?u=76281980&t=129)** Another way to think of this comes from Woody Zuill, a software expert known for his work with team collaboration and helping teams adopt a whole-team approach.
+> **[2:09](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/continuous-improvement-and-marginal-gains?u=76281980&t=129)** Another way to think of this comes from Woody Zuill, a software expert known for his work with [[Team Collaboration]] and helping teams adopt a whole-team approach.
 >
 > **[2:19](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/continuous-improvement-and-marginal-gains?u=76281980&t=139)** His mantra?
 >
@@ -1407,7 +1387,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/continuous-improvement-and-marginal-gains?u=76281980&t=175)** I'm also kind of a Star Trek nerd and thought the logs that crew members kept on their missions to narrate their own experiences were pretty cool.
 >
-> **[3:04](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/continuous-improvement-and-marginal-gains?u=76281980&t=184)** I was curious if a similar idea might work for us, so we decided to run an experiment where we'd all keep a digital journal, update it daily, and then share a link in a dedicated Slack channel.
+> **[3:04](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/continuous-improvement-and-marginal-gains?u=76281980&t=184)** I was curious if a similar idea might work for us, so we decided to run an experiment where we'd all keep a digital journal, update it daily, and then share a link in a dedicated [[Slack]] channel.
 >
 > **[3:16](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/continuous-improvement-and-marginal-gains?u=76281980&t=196)** This practice ended up being transformative.
 >
@@ -1423,7 +1403,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), [[Continuous Integration (CI)|Continuous integration]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1), application (1), product (1)
+> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Team Collaboration]] (1), [[Slack]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (2)
 > **Analogies:** just like (1), for example (1)
@@ -1431,14 +1411,13 @@ created: 2026-05-02
 > **Tools:** slack (1)
 > **Speakers:** - [instructor] (1)
 
-#### Continuous integration, delivery, and deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/continuous-integration-delivery-and-deployment?u=76281980)
+#### [Continuous integration, delivery, and deployment](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/continuous-integration-delivery-and-deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/continuous-integration-delivery-and-deployment?u=76281980&t=0)** - [Narrator] Once your team is committed to identifying and implementing good ideas through continuous improvement, we can start looking at other continuous processes to help you deliver software faster.
 >
-> **[0:13](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/continuous-integration-delivery-and-deployment?u=76281980&t=13)** The next step on our continuous journey, is continuous integration, which is the practice of using smaller commits and an automated test suite to look for potential problems before code is released into production.
+> **[0:13](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/continuous-integration-delivery-and-deployment?u=76281980&t=13)** The next step on our continuous journey, is [[Continuous Integration (CI)|continuous integration]], which is the practice of using smaller commits and an automated test suite to look for potential problems before code is released into production.
 >
 > **[0:28](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/continuous-integration-delivery-and-deployment?u=76281980&t=28)** Practices such as behavior driven development and test driven development, will create what's known as a test suite that can be run every time you want to merge code into the master branch.
 >
@@ -1460,9 +1439,9 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/continuous-integration-delivery-and-deployment?u=76281980&t=80)** Both styles enable asynchronous review, which is great on a distributed team, but be aware that it's important to regularly prune both your toggles and your branches to keep your code base healthy.
 >
-> **[1:33](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/continuous-integration-delivery-and-deployment?u=76281980&t=93)** After you've gotten in the habit of regularly merging commits into master, and running them against an automated test suite, the next logical step in the process, is to automate the process for building and packaging, also known as continuous delivery.
+> **[1:33](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/continuous-integration-delivery-and-deployment?u=76281980&t=93)** After you've gotten in the habit of regularly merging commits into master, and running them against an automated test suite, the next logical step in the process, is to automate the process for building and packaging, also known as [[Continuous Delivery (CD)|continuous delivery]].
 >
-> **[1:50](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/continuous-integration-delivery-and-deployment?u=76281980&t=110)** This often requires deploying to a staging environment for manual testing.
+> **[1:50](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/continuous-integration-delivery-and-deployment?u=76281980&t=110)** This often requires deploying to a staging environment for [[Manual Testing]].
 >
 > **[1:55](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/continuous-integration-delivery-and-deployment?u=76281980&t=115)** With continuous delivery, the code is always ready to release at whatever cadence makes sense.
 >
@@ -1470,7 +1449,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/continuous-integration-delivery-and-deployment?u=76281980&t=130)** Another benefit of being able to deploy on demand, is that you can also roll back on demand.
 >
-> **[2:17](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/continuous-integration-delivery-and-deployment?u=76281980&t=137)** Should an error accidentally make it through into production, it's relatively easy to revert to the last stable release through a good version control system.
+> **[2:17](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/continuous-integration-delivery-and-deployment?u=76281980&t=137)** Should an error accidentally make it through into production, it's relatively easy to revert to the last stable release through a good [[Version Control]] system.
 >
 > **[2:27](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/continuous-integration-delivery-and-deployment?u=76281980&t=147)** For some teams it makes sense to extend continuous delivery even further.
 >
@@ -1486,7 +1465,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Continuous Delivery (CD)|Continuous delivery]] (3), next (2), [[Continuous Integration (CI)|Continuous integration]] (2), teams (2), feature (2)
+> **Frameworks & Libraries:** [[Continuous Delivery (CD)|Continuous delivery]] (3), [[Continuous Integration (CI)|Continuous integration]] (2), [[Manual Testing]] (1), [[Version Control]] (1)
 > **Definitions:** known as (3), means that (1), is an  (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
@@ -1494,8 +1473,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [narrator] (1)
 
-#### Understanding technical debt
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/understanding-technical-debt?u=76281980)
+#### [Understanding technical debt](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/understanding-technical-debt?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1509,7 +1487,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/understanding-technical-debt?u=76281980&t=28)** In our frenzied push for features, it's easy to overlook the digital mess that we leave behind.
 >
-> **[0:35](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/understanding-technical-debt?u=76281980&t=35)** Software projects that get to this state have some lovely names: spaghetti code, big balls of mud, and dirt field projects, just to name a few.
+> **[0:35](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/understanding-technical-debt?u=76281980&t=35)** [[Software Projects]] that get to this state have some lovely names: spaghetti code, big balls of mud, and dirt field projects, just to name a few.
 >
 > **[0:45](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/understanding-technical-debt?u=76281980&t=45)** What's more, this mess has an impact on how efficiently we can deliver working software, especially on distributed teams.
 >
@@ -1535,7 +1513,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/understanding-technical-debt?u=76281980&t=126)** If you're leading a development team, it's absolutely appropriate for developers to spend a good portion of their development time on activities that reduce technical debt.
 >
-> **[2:16](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/understanding-technical-debt?u=76281980&t=136)** These may include things such as reducing duplication or complexity in the codebase, extracting methods or other refactoring activities, improving documentation, following test-driven development, updating the names of methods, variables, classes, and functions, and much more.
+> **[2:16](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/understanding-technical-debt?u=76281980&t=136)** These may include things such as reducing duplication or complexity in the codebase, extracting methods or other refactoring activities, improving documentation, following [[Test-Driven Development]], updating the names of methods, variables, classes, and functions, and much more.
 >
 > **[2:33](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/understanding-technical-debt?u=76281980&t=153)** Expecting a team to only ever deliver features is one of the surest ways to find your system in a state of technical bankruptcy.
 >
@@ -1543,13 +1521,13 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/understanding-technical-debt?u=76281980&t=171)** These tools can help you monitor key quality metrics, such as complexity, churn, duplication, test coverage, and more.
 >
-> **[3:00](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/understanding-technical-debt?u=76281980&t=180)** Finally, give your team time to reflect on their experiences, learn about good design patterns, and share their ideas for improvement.
+> **[3:00](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/understanding-technical-debt?u=76281980&t=180)** Finally, give your team time to reflect on their experiences, learn about good [[Design Patterns]], and share their ideas for improvement.
 >
 > **[3:08](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/understanding-technical-debt?u=76281980&t=188)** These investments for your technical team can pay dividends in the long run and help ensure your distributed team can deliver working code quickly.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Software Projects]] (1), teams (1), [[Engineering]] (1), next (1), [[Test-Driven Development]] (1)
+> **Frameworks & Libraries:** [[Software Projects]] (1), [[Test-Driven Development]] (1), [[Design Patterns]] (1)
 > **Analogies:** such as (3), just like (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
@@ -1561,8 +1539,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Atomic commits: One change, one commit
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/atomic-commits-one-change-one-commit?u=76281980)
+#### [Atomic commits: One change, one commit](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/atomic-commits-one-change-one-commit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1580,7 +1557,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/atomic-commits-one-change-one-commit?u=76281980&t=44)** And just like an archeologist or anthropologist relies on pottery, coins, and written text to understand people from different eras or cultures, leaving a rich repository of small commits can be an immense help on a distributed software team.
 >
-> **[1:00](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/atomic-commits-one-change-one-commit?u=76281980&t=60)** Here's how Git recommends splitting up commits.
+> **[1:00](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/atomic-commits-one-change-one-commit?u=76281980&t=60)** Here's how [[Git]] recommends splitting up commits.
 >
 > **[1:05](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/atomic-commits-one-change-one-commit?u=76281980&t=65)** They should be small, logical steps, consistent, work independently, and pass the test suite.
 >
@@ -1632,8 +1609,7 @@ created: 2026-05-02
 > **CLI Commands:** git (1)
 > **Speakers:** - once (1)
 
-#### Branching and forking
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/branching-and-forking?u=76281980)
+#### [Branching and forking](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/branching-and-forking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1649,7 +1625,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/branching-and-forking?u=76281980&t=24)** This drastically reduced the number of errors that made it into publication, and helped improve the quality of our work.
 >
-> **[0:32](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/branching-and-forking?u=76281980&t=32)** This same basic process applies to software development too.
+> **[0:32](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/branching-and-forking?u=76281980&t=32)** This same basic process applies to [[Software Development]] too.
 >
 > **[0:37](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/branching-and-forking?u=76281980&t=37)** Let's look at how this process works using branches, forks, and poll requests.
 >
@@ -1679,14 +1655,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), [[Software Development]] (1), application (1)
+> **Frameworks & Libraries:** [[Software Development]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** just like (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Code reviews
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/code-reviews?u=76281980)
+#### [Code reviews](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/code-reviews?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1694,11 +1669,11 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/code-reviews?u=76281980&t=7)** The developer will package their changes up into what's called a pull request or a merge request to basically say hey, I'm ready for you to review me.
 >
-> **[0:16](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/code-reviews?u=76281980&t=16)** This will signal automated tools such as automated style guides, continuous integration services, linting services, etc. to check the code and see if it passes whatever parameters the team has set up.
+> **[0:16](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/code-reviews?u=76281980&t=16)** This will signal automated tools such as automated style guides, [[Continuous Integration (CI)|continuous integration]] services, linting services, etc. to check the code and see if it passes whatever parameters the team has set up.
 >
 > **[0:30](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/code-reviews?u=76281980&t=30)** This is also a good opportunity for a human to review the code too.
 >
-> **[0:34](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/code-reviews?u=76281980&t=34)** Source control platforms such as GitHub and Bitbucket have commenting features, so you can have a dialog about the changes.
+> **[0:34](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/code-reviews?u=76281980&t=34)** Source control platforms such as [[GitHub]] and [[Bitbucket]] have commenting features, so you can have a dialog about the changes.
 >
 > **[0:43](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/code-reviews?u=76281980&t=43)** Documenting this back and forth through commenting is especially useful when that code needs to be referenced in the future.
 >
@@ -1726,7 +1701,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/code-reviews?u=76281980&t=148)** One of the most popular books among developers on this topic is Nonviolent Communication by Marshall Rosenberg.
 >
-> **[2:36](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/code-reviews?u=76281980&t=156)** Microsoft CEO Satya Nadella credits this book from turning their culture from cut-throat to creative and considers it a must-read for development teams.
+> **[2:36](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/code-reviews?u=76281980&t=156)** [[Microsoft]] CEO Satya Nadella credits this book from turning their culture from cut-throat to creative and considers it a must-read for development teams.
 >
 > **[2:48](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/code-reviews?u=76281980&t=168)** After drafting and reviewing, the code is ready to go, hooray!
 >
@@ -1736,7 +1711,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (1), [[GitHub]] (1), [[Bitbucket]] (1), career (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (1), [[GitHub]] (1), [[Bitbucket]] (1), [[Microsoft]] (1)
 > **Tools:** github (1), bitbucket (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
@@ -1750,8 +1725,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating job descriptions for remote positions
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/creating-job-descriptions-for-remote-positions?u=76281980)
+#### [Creating job descriptions for remote positions](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/creating-job-descriptions-for-remote-positions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1769,11 +1743,11 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/creating-job-descriptions-for-remote-positions?u=76281980&t=48)** Align your operations.
 >
-> **[0:51](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/creating-job-descriptions-for-remote-positions?u=76281980&t=51)** Remember, the best candidates have options, They're interviewing you as much as you're interviewing them.
+> **[0:51](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/creating-job-descriptions-for-remote-positions?u=76281980&t=51)** Remember, the best candidates have options, They're [[Interviewing]] you as much as you're interviewing them.
 >
 > **[0:58](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/creating-job-descriptions-for-remote-positions?u=76281980&t=58)** Read industry reports, such as Buffers annual State of Remote Work.
 >
-> **[1:03](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/creating-job-descriptions-for-remote-positions?u=76281980&t=63)** And make sure your business operations are up to snuff with what top talent expects.
+> **[1:03](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/creating-job-descriptions-for-remote-positions?u=76281980&t=63)** And make sure your [[Business Operations]] are up to snuff with what top talent expects.
 >
 > **[1:10](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/creating-job-descriptions-for-remote-positions?u=76281980&t=70)** Think beyond the bullet points.
 >
@@ -1805,7 +1779,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/creating-job-descriptions-for-remote-positions?u=76281980&t=143)** Tools like Grammarly can help make sure your writing is professional.
 >
-> **[2:28](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/creating-job-descriptions-for-remote-positions?u=76281980&t=148)** And Textio can help ensure your word choices don't accidentally skew to one gender.
+> **[2:28](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/creating-job-descriptions-for-remote-positions?u=76281980&t=148)** And Textio can help ensure your [[Microsoft Word|word]] choices don't accidentally skew to one gender.
 >
 > **[2:34](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/creating-job-descriptions-for-remote-positions?u=76281980&t=154)** Provide a clear call to action.
 >
@@ -1819,15 +1793,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** job description (3), [[Interviewing]] (2), business (1), [[Microsoft Word|Word]] (1), application (1)
+> **Frameworks & Libraries:** [[Interviewing]] (2), [[Business Operations]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** such as (3), imagine (1)
 > **URLs:** [remotive.io](https://remotive.io) (1), [remote.co](https://remote.co) (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - one (1)
 
-#### Interviewing and hiring for remote teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/interviewing-and-hiring-for-remote-teams?u=76281980)
+#### [Interviewing and hiring for remote teams](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/interviewing-and-hiring-for-remote-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1841,11 +1814,11 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/interviewing-and-hiring-for-remote-teams?u=76281980&t=21)** Read this article and tell us your thoughts.
 >
-> **[0:24](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/interviewing-and-hiring-for-remote-teams?u=76281980&t=24)** These open-ended questions give us a glimpse into how this person might interact on Slack and in code reviews.
+> **[0:24](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/interviewing-and-hiring-for-remote-teams?u=76281980&t=24)** These open-ended questions give us a glimpse into how this person might interact on [[Slack]] and in code reviews.
 >
 > **[0:32](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/interviewing-and-hiring-for-remote-teams?u=76281980&t=32)** Someone who gives a terse answer without much thought behind it isn't likely to advance.
 >
-> **[0:38](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/interviewing-and-hiring-for-remote-teams?u=76281980&t=38)** Next, we conduct video interviews using Zoom.
+> **[0:38](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/interviewing-and-hiring-for-remote-teams?u=76281980&t=38)** Next, we conduct video interviews using [[Zoom]].
 >
 > **[0:42](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/interviewing-and-hiring-for-remote-teams?u=76281980&t=42)** During the interview, we ask questions related to our core values and keep track of our experiences in a spreadsheet.
 >
@@ -1867,9 +1840,9 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/interviewing-and-hiring-for-remote-teams?u=76281980&t=93)** Thoughtful preparation and strategic planning can go a long way here.
 >
-> **[1:37](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/interviewing-and-hiring-for-remote-teams?u=76281980&t=97)** We use a detailed Wiki on GitHub for our onboarding.
+> **[1:37](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/interviewing-and-hiring-for-remote-teams?u=76281980&t=97)** We use a detailed Wiki on [[GitHub]] for our onboarding.
 >
-> **[1:41](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/interviewing-and-hiring-for-remote-teams?u=76281980&t=101)** Other companies use tools like Google Slides, Notion, or something they've built internally.
+> **[1:41](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/interviewing-and-hiring-for-remote-teams?u=76281980&t=101)** Other companies use tools like [[Google]] Slides, Notion, or something they've built internally.
 >
 > **[1:46](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/interviewing-and-hiring-for-remote-teams?u=76281980&t=106)** This self-paced onboarding allows people to get up and running quickly and asynchronously.
 >
@@ -1879,21 +1852,20 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/interviewing-and-hiring-for-remote-teams?u=76281980&t=123)** Some remote companies, such as Zapier, even fly new team members to a co-located space as part of the onboarding process.
 >
-> **[2:11](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/interviewing-and-hiring-for-remote-teams?u=76281980&t=131)** But many others that don't have a central office, such as Buffer, Automatic, and my own company, opt for bringing their team together in a co-located space as part of a separate event.
+> **[2:11](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/interviewing-and-hiring-for-remote-teams?u=76281980&t=131)** But many others that don't have a central [[Microsoft Office|office]], such as Buffer, Automatic, and my own company, opt for bringing their team together in a co-located space as part of a separate event.
 >
 > **[2:23](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/interviewing-and-hiring-for-remote-teams?u=76281980&t=143)** With these ideas in mind, it's possible to hire and work with amazing people on your distributed team.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Slack]] (3), [[Zoom]] (2), next (1), [[GitHub]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Slack]] (3), [[Zoom]] (2), [[GitHub]] (1), [[Google]] (1), [[Microsoft Office|Office]] (1)
 > **Tools:** slack (3), github (1), notion (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** make (2)
 > **URLs:** [exercism.io](https://exercism.io) (1)
 > **Speakers:** - now (1)
 
-#### Where's the whiteboard?
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/where-s-the-whiteboard?u=76281980)
+#### [Where's the whiteboard?](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/where-s-the-whiteboard?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1907,7 +1879,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/where-s-the-whiteboard?u=76281980&t=13)** Visual collaboration is critical for many projects.
 >
-> **[0:17](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/where-s-the-whiteboard?u=76281980&t=17)** I know for me, there's just something about the tactile feel, even the smell, of all of the office supplies strewn out on the table that just makes me feel more focused and productive.
+> **[0:17](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/where-s-the-whiteboard?u=76281980&t=17)** I know for me, there's just something about the tactile feel, even the smell, of all of the [[Microsoft Office|office]] supplies strewn out on the table that just makes me feel more focused and productive.
 >
 > **[0:29](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/where-s-the-whiteboard?u=76281980&t=29)** How can you replicate that on distributed teams?
 >
@@ -1951,13 +1923,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), teams (1), next (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** picture (2)
 > **Speakers:** - for (1)
 
-#### Remote whiteboard tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-whiteboard-tools?u=76281980)
+#### [Remote whiteboard tools](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-whiteboard-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1967,25 +1938,25 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-whiteboard-tools?u=76281980&t=10)** That said, here are some of the more popular tools on the market, to give you a place to start.
 >
-> **[0:16](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-whiteboard-tools?u=76281980&t=16)** G Suite, Google's products, Docs, Sheets, and Slides, are among the best on the market for real-time collaboration.
+> **[0:16](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-whiteboard-tools?u=76281980&t=16)** G Suite, [[Google]]'s [[Microsoft Products|products]], Docs, Sheets, and Slides, are among the best on the market for [[Real-Time]] collaboration.
 >
 > **[0:25](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-whiteboard-tools?u=76281980&t=25)** For example, if we want to get a bunch of ideas from a group on our team, we'll open up a file and everyone can start editing at once.
 >
-> **[0:34](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-whiteboard-tools?u=76281980&t=34)** Google also has an integration with Microsoft Office, to enable the same instant collaboration across its products, such as Word, Excel, and PowerPoint.
+> **[0:34](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-whiteboard-tools?u=76281980&t=34)** Google also has an integration with [[Microsoft Office]], to enable the same instant collaboration across its products, such as [[Microsoft Word|Word]], [[Microsoft Excel|Excel]], and [[Microsoft PowerPoint|PowerPoint]].
 >
 > **[0:44](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-whiteboard-tools?u=76281980&t=44)** Miro, formerly known as RealtimeBoard.
 >
 > **[0:48](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-whiteboard-tools?u=76281980&t=48)** When I want to most-closely replicate the visual feel of a whiteboard, this is the tool I reach for.
 >
-> **[0:54](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-whiteboard-tools?u=76281980&t=54)** There are tons of pre-built templates that are particularly useful for software teams, such as Scrum, Kanban, Product Roadmaps, Retrospectives, and more.
+> **[0:54](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-whiteboard-tools?u=76281980&t=54)** There are tons of pre-built templates that are particularly useful for software teams, such as [[Scrum]], Kanban, Product Roadmaps, Retrospectives, and more.
 >
 > **[1:05](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-whiteboard-tools?u=76281980&t=65)** It's just about as easy to place sticky notes on the digital board as it is with a physical whiteboard.
 >
-> **[1:11](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-whiteboard-tools?u=76281980&t=71)** And while the flow with multiple people isn't quite as simultaneous as Google Drive, it's still pretty good.
+> **[1:11](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-whiteboard-tools?u=76281980&t=71)** And while the flow with multiple people isn't quite as simultaneous as [[Google Drive]], it's still pretty good.
 >
 > **[1:18](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-whiteboard-tools?u=76281980&t=78)** A couple of other options in this highly-visual style are Sketchboard, Mural, and [draw.io](https://draw.io).
 >
-> **[1:26](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-whiteboard-tools?u=76281980&t=86)** Trello, this is a popular choice for many teams and uses the metaphor of placing cards on a board that can then be reconfigured, as needs change.
+> **[1:26](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-whiteboard-tools?u=76281980&t=86)** [[Trello]], this is a popular choice for many teams and uses the metaphor of placing cards on a board that can then be reconfigured, as needs change.
 >
 > **[1:38](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-whiteboard-tools?u=76281980&t=98)** While it's not as immediately visual as some of the other tools, you do have the option of adding images to individual cards.
 >
@@ -2017,7 +1988,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (2), [[Microsoft Products|Products]] (2), teams (2), [[Trello]] (2), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Microsoft Products|Products]] (2), [[Trello]] (2), [[Real-Time]] (1), [[Microsoft Office]] (1)
 > **Analogies:** such as (2), for example (1), picture (1)
 > **Definitions:** known as (1), is a  (1)
 > **CLI Commands:** find (1)
@@ -2025,8 +1996,7 @@ created: 2026-05-02
 > **Tools:** notion (1)
 > **Speakers:** - there (1)
 
-#### Remote pairing and mobbing
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-pairing-and-mobbing?u=76281980)
+#### [Remote pairing and mobbing](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-pairing-and-mobbing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2066,7 +2036,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-pairing-and-mobbing?u=76281980&t=137)** Over the years, services that offer video and screen sharing have become much more stable.
 >
-> **[2:24](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-pairing-and-mobbing?u=76281980&t=144)** Zoom is particularly well-equipped to handle groups.
+> **[2:24](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-pairing-and-mobbing?u=76281980&t=144)** [[Zoom]] is particularly well-equipped to handle groups.
 >
 > **[2:28](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-pairing-and-mobbing?u=76281980&t=148)** But experiment with different tools until you find the one that works best for your team.
 >
@@ -2100,18 +2070,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (4), teams (2), [[Zoom]] (2), next (1), [[Containerization]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (2)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** is a  (2), means that (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - when (1)
 
-#### Remote standups
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-standups?u=76281980)
+#### [Remote standups](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-standups?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-standups?u=76281980&t=1)** - For agile teams, standups and retrospectives are core practices to ensure value is delivered quickly and that we're constantly learning about how to be more effective.
+> **[0:01](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-standups?u=76281980&t=1)** - For [[Agile Development|agile]] teams, standups and retrospectives are core practices to ensure value is delivered quickly and that we're constantly learning about how to be more effective.
 >
 > **[0:11](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-standups?u=76281980&t=11)** While these practices were originally developed for co-located teams, you can successfully adapt them for distributed teams as well.
 >
@@ -2123,7 +2092,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-standups?u=76281980&t=40)** This allows team members to digest information at a time of their choosing and helps ensure that everyone is aware of other members' activities, impediments, and ideas for improvement.
 >
-> **[0:53](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-standups?u=76281980&t=53)** Standups became popular with the rise of Scrum.
+> **[0:53](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-standups?u=76281980&t=53)** Standups became popular with the rise of [[Scrum]].
 >
 > **[0:57](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-standups?u=76281980&t=57)** In the Scrum Guide by Jeff Sutherland and Ken Schwaber, they describe a daily standup meeting as a 15-minute timeboxed meeting for the development team.
 >
@@ -2141,7 +2110,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-standups?u=76281980&t=104)** At my organization, after experimenting with a variety of formats, we found an asynchronous daily standup to suit our needs in most situations.
 >
-> **[1:54](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-standups?u=76281980&t=114)** Every member of our team, developer or not, posts their status update by 10:00 a.m. Eastern Time in two places: a dedicated Slack channel called Standups and any client-facing Slack channels that they are participating in.
+> **[1:54](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-standups?u=76281980&t=114)** Every member of our team, developer or not, posts their status update by 10:00 a.m. Eastern Time in two places: a dedicated [[Slack]] channel called Standups and any client-facing Slack channels that they are participating in.
 >
 > **[2:09](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-standups?u=76281980&t=129)** This helps our clients stay up to date on our plans and also helps us track overall progress across all of our teams.
 >
@@ -2159,14 +2128,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (7), [[Scrum]] (3), [[Slack]] (2), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Scrum]] (3), [[Slack]] (2), [[Agile Development|Agile]] (1)
 > **Tools:** slack (2)
 > **Ports:** :00 (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - for (1)
 
-#### Remote retrospectives
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-retrospectives?u=76281980)
+#### [Remote retrospectives](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-retrospectives?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2180,7 +2148,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-retrospectives?u=76281980&t=49)** At the end of the book he listed some questions which teams have adapted to facilitate their own discussions.
 >
-> **[1:10](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-retrospectives?u=76281980&t=70)** In 2006, Esther Derby and Diana Larsen published the book Agile Retrospectives: Making Good Teams Great which offered an expanded framework for facilitating retrospective discussions.
+> **[1:10](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-retrospectives?u=76281980&t=70)** In 2006, Esther Derby and Diana Larsen published the book [[Agile Development|Agile]] Retrospectives: Making Good Teams Great which offered an expanded framework for facilitating retrospective discussions.
 >
 > **[1:24](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-retrospectives?u=76281980&t=84)** One, set the stage.
 >
@@ -2194,7 +2162,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-retrospectives?u=76281980&t=96)** On my team, regular reflection is a core practice among everyone on our team.
 >
-> **[1:42](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-retrospectives?u=76281980&t=102)** Every Friday, we have a whole team retrospective as a synchronous video event using Zoom.
+> **[1:42](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-retrospectives?u=76281980&t=102)** Every Friday, we have a whole team retrospective as a synchronous video event using [[Zoom]].
 >
 > **[1:49](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-retrospectives?u=76281980&t=109)** We enable the gallery view and take turns answering modified versions of Norman Kerth's questions.
 >
@@ -2212,7 +2180,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-retrospectives?u=76281980&t=167)** Of course, we augment these synchronous events with asynchronous activity too.
 >
-> **[2:52](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-retrospectives?u=76281980&t=172)** Each week, prior to the synchronous meeting we post an asynchronous version in a dedicated slack channel.
+> **[2:52](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-retrospectives?u=76281980&t=172)** Each week, prior to the synchronous meeting we post an asynchronous version in a dedicated [[Slack]] channel.
 >
 > **[2:59](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-retrospectives?u=76281980&t=179)** This way, everyone on the team can see everyone's retro and no one feels out of the loop.
 >
@@ -2238,7 +2206,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (5), [[Agile Development|Agile]] (2), data (1), [[Zoom]] (1), next (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), [[Zoom]] (1), [[Slack]] (1)
 > **Definitions:** is a  (3)
 > **Tools:** slack (1)
 > **Analogies:** similar to (1)
@@ -2249,26 +2217,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/next-steps?u=76281980&t=1)** - Now that you've had an introduction to remote working for software development teams, I recommend you check out some of the companies that are luminaries when it comes to operating successfully distributed teams, Buffer, Zapier, Automatic, and Basecamp, formerly known as 37signals.
+> **[0:01](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/next-steps?u=76281980&t=1)** - Now that you've had an introduction to remote working for [[Software Development]] teams, I recommend you check out some of the companies that are luminaries when it comes to operating successfully distributed teams, Buffer, Zapier, Automatic, and Basecamp, formerly known as 37signals.
 >
 > **[0:19](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/next-steps?u=76281980&t=19)** Check out Buffer's blog at open.[buffer.com](https://buffer.com) where they share insights on building a remote and transparent company.
 >
 > **[0:29](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/next-steps?u=76281980&t=29)** Zapier has an e-book called The Ultimate Guide for Remote Work, which we actually use as part of a reference during our own onboarding.
 >
-> **[0:38](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/next-steps?u=76281980&t=38)** Scott Berkun provides a behind the scenes look at Automatic, the company behind [wordpress.com](https://wordpress.com), in his book The Year Without Pants.
+> **[0:38](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/next-steps?u=76281980&t=38)** Scott Berkun provides a behind the scenes look at Automatic, the company behind [[[WordPress]].com](https://wordpress.com), in his book The Year Without Pants.
 >
 > **[0:46](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/next-steps?u=76281980&t=46)** As you can guess from the title, it's also a pretty entertaining read.
 >
-> **[0:50](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/next-steps?u=76281980&t=50)** REMOTE: Office Not Required is another book worth reading by the founders of 37signals.
+> **[0:50](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/next-steps?u=76281980&t=50)** REMOTE: [[Microsoft Office|Office]] Not Required is another book worth reading by the founders of 37signals.
 >
-> **[0:57](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/next-steps?u=76281980&t=57)** I've also provided a PDF with links to the research cited throughout the course and some additional resources, specifically for agile teams.
+> **[0:57](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/next-steps?u=76281980&t=57)** I've also provided a PDF with links to the research cited throughout the course and some additional resources, specifically for [[Agile Development|agile]] teams.
 >
-> **[1:06](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/next-steps?u=76281980&t=66)** Also, you can check out my own company's blog at [corgibytes.com/blog](https://corgibytes.com/blog), and follow me on LinkedIn at in/andreamgoulet where I post frequently about my experiences leading a distributed team.
+> **[1:06](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/next-steps?u=76281980&t=66)** Also, you can check out my own company's blog at [corgibytes.com/blog](https://corgibytes.com/blog), and follow me on [[LinkedIn]] at in/andreamgoulet where I post frequently about my experiences leading a distributed team.
 >
 > **[1:22](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/next-steps?u=76281980&t=82)** You can also check out our community site legacycode.rocks to discuss remote working and code modernization on an agile team.
 >
@@ -2276,7 +2243,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), [[Agile Development|Agile]] (2), [[Software Development]] (1), [[WordPress]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), [[Software Development]] (1), [[WordPress]] (1), [[Microsoft Office|Office]] (1), [[LinkedIn]] (1)
 > **URLs:** [buffer.com](https://buffer.com) (1), [wordpress.com](https://wordpress.com) (1), [corgibytes.com](https://corgibytes.com) (1)
 > **Env Vars:** remote (1), pdf (1)
 > **Definitions:** known as (1)

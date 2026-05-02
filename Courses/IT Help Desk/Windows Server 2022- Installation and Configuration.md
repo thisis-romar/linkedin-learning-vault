@@ -84,22 +84,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to Windows Server 2022: Installation and configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/introduction-to-windows-server-2022-installation-and-configuration?u=76281980)
+#### [Introduction to Windows Server 2022: Installation and configuration](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/introduction-to-windows-server-2022-installation-and-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/introduction-to-windows-server-2022-installation-and-configuration?u=76281980&t=1)** - [Ed] Windows Server operating systems have been a major part of enterprise computing for a number of decades.
+> **[0:01](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/introduction-to-windows-server-2022-installation-and-configuration?u=76281980&t=1)** - [Ed] [[Windows Server]] operating systems have been a major part of enterprise computing for a number of decades.
 >
 > **[0:06](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/introduction-to-windows-server-2022-installation-and-configuration?u=76281980&t=6)** And today we now have Windows Server 2022.
 >
 > **[0:11](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/introduction-to-windows-server-2022-installation-and-configuration?u=76281980&t=11)** In this course, we will explore a bit of the planning process as well as the necessary steps to get a new Windows Server installed and productive in your environment.
 >
-> **[0:21](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/introduction-to-windows-server-2022-installation-and-configuration?u=76281980&t=21)** We'll use some legacy administration tools on the desktop, as well as Windows PowerShell to configure a fresh installation of Windows Server 2022 with an identity, network address, storage and the necessary roles to serve your network needs.
+> **[0:21](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/introduction-to-windows-server-2022-installation-and-configuration?u=76281980&t=21)** We'll use some legacy administration tools on the desktop, as well as [[Windows]] [[Powershell]] to configure a fresh installation of Windows Server 2022 with an identity, network address, storage and the necessary roles to serve your network needs.
 >
-> **[0:38](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/introduction-to-windows-server-2022-installation-and-configuration?u=76281980&t=38)** My name is Ed Liberman and I've been teaching people about Microsoft Windows Server products since the 1990s.
+> **[0:38](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/introduction-to-windows-server-2022-installation-and-configuration?u=76281980&t=38)** My name is Ed Liberman and I've been teaching people about [[Microsoft]] Windows Server [[Microsoft Products|products]] since the 1990s.
 >
-> **[0:44](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/introduction-to-windows-server-2022-installation-and-configuration?u=76281980&t=44)** So please join me in my LinkedIn Learning course on installing and configuring Windows Server 2022.
+> **[0:44](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/introduction-to-windows-server-2022-installation-and-configuration?u=76281980&t=44)** So please join me in my [[LinkedIn]] Learning course on installing and configuring Windows Server 2022.
 
 > [!info]- Semantic Content
 >
@@ -108,8 +107,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [ed] (1)
 
-#### Suggested knowledge
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/suggested-knowledge?u=76281980)
+#### [Suggested knowledge](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/suggested-knowledge?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -119,9 +117,9 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/suggested-knowledge?u=76281980&t=11)** There are no prerequisites for watching this course.
 >
-> **[0:15](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/suggested-knowledge?u=76281980&t=15)** It is designed to be an entry level course for anyone who is looking to learn the basics of Windows Server 2022.
+> **[0:15](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/suggested-knowledge?u=76281980&t=15)** It is designed to be an entry level course for anyone who is looking to learn the basics of [[Windows Server]] 2022.
 >
-> **[0:24](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/suggested-knowledge?u=76281980&t=24)** I will say that any kind of general knowledge of navigating Windows, not even Windows Server, but just Windows in general, sure could be helpful, but is not an absolute prerequisite.
+> **[0:24](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/suggested-knowledge?u=76281980&t=24)** I will say that any kind of general knowledge of navigating [[Windows]], not even Windows Server, but just Windows in general, sure could be helpful, but is not an absolute prerequisite.
 >
 > **[0:37](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/suggested-knowledge?u=76281980&t=37)** Now there is a little bit of a lab setup that I have here.
 >
@@ -131,7 +129,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/suggested-knowledge?u=76281980&t=55)** I believe it's actually Windows Server 2016 or 2019 with Hyper V.
 >
-> **[1:00](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/suggested-knowledge?u=76281980&t=60)** And then in Hyper V, I'm going to create two virtual machines that are going to act as my virtual servers.
+> **[1:00](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/suggested-knowledge?u=76281980&t=60)** And then in Hyper V, I'm going to create two [[Virtual Machines]] that are going to act as my virtual servers.
 >
 > **[1:07](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/suggested-knowledge?u=76281980&t=67)** I will show you a little bit about how you can actually do that if you want to follow along.
 >
@@ -141,7 +139,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/suggested-knowledge?u=76281980&t=84)** And this way you'll be able to see both interfaces that you may experience when it comes to Windows Server 2022.
 >
-> **[1:33](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/suggested-knowledge?u=76281980&t=93)** But I will emphasize that if you want to follow along, all you really need is a computer that has the ability to run some form of virtualization and has the minimum hardware requirements to support the two virtual servers.
+> **[1:33](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/suggested-knowledge?u=76281980&t=93)** But I will emphasize that if you want to follow along, all you really need is a computer that has the ability to run some form of virtualization and has the minimum [[Hardware]] requirements to support the two virtual servers.
 >
 > **[1:51](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/suggested-knowledge?u=76281980&t=111)** And even if you don't have that available, even just watching what I do should be good enough to get you through at least the first time through the course.
 >
@@ -149,7 +147,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows Server]] (6), [[Windows]] (2), [[Virtual Machines]] (1), [[Virtualization]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Windows Server]] (6), [[Windows]] (2), [[Virtual Machines]] (1), [[Hardware]] (1)
 > **Prerequisites:** setup (2), prerequisite (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -159,16 +157,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Planning for Windows Server installation
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/planning-for-windows-server-installation?u=76281980)
+#### [Planning for Windows Server installation](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/planning-for-windows-server-installation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/planning-for-windows-server-installation?u=76281980&t=0)** - [Instructor] When it comes to planning for Windows Server installation, it's important that you know what versions are available and what those versions provide, and what sort of hardware requirements you may have, as far as the hardware resources that are necessary to support the Windows Server version that you're looking to install.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/planning-for-windows-server-installation?u=76281980&t=0)** - [Instructor] When it comes to planning for [[Windows Server]] installation, it's important that you know what versions are available and what those versions provide, and what sort of [[Hardware]] requirements you may have, as far as the hardware resources that are necessary to support the Windows Server version that you're looking to install.
 >
 > **[0:21](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/planning-for-windows-server-installation?u=76281980&t=21)** So what I want to do here, first of all, if you've watched any of my recent courses, you know that I have tried more and more to move away from a Standard, boring slide presentations where bullets come up on the screen.
 >
-> **[0:37](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/planning-for-windows-server-installation?u=76281980&t=37)** And I like to take it to the actual URL from Microsoft, where they share this information.
+> **[0:37](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/planning-for-windows-server-installation?u=76281980&t=37)** And I like to take it to the actual URL from [[Microsoft]], where they share this information.
 >
 > **[0:43](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/planning-for-windows-server-installation?u=76281980&t=43)** And the reason is because things are changing so quickly in today's world, I want to make sure that if this video is suddenly out of date, that you're aware of it.
 >
@@ -186,7 +183,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/planning-for-windows-server-installation?u=76281980&t=85)** But one thing that you're going to find that's going to be very similar with all three of them is they have both a Standard and a Datacenter version.
 >
-> **[1:32](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/planning-for-windows-server-installation?u=76281980&t=92)** One thing that is different with Server 2022 is that we now have a Datacenter Azure edition, okay?
+> **[1:32](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/planning-for-windows-server-installation?u=76281980&t=92)** One thing that is different with Server 2022 is that we now have a Datacenter [[Microsoft Azure|Azure]] edition, okay?
 >
 > **[1:42](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/planning-for-windows-server-installation?u=76281980&t=102)** Because everything in the world of Microsoft is pushing in the direction of Azure.
 >
@@ -208,13 +205,13 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/planning-for-windows-server-installation?u=76281980&t=137)** The one, main difference that you're really going to get with Datacenter versus Standard is when I scroll down here through the locks and the limits, is right down here where it says can be used as virtualization guest.
 >
-> **[2:31](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/planning-for-windows-server-installation?u=76281980&t=151)** On the Standard edition, you can have two virtual machines plus one Hyper-V host per license.
+> **[2:31](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/planning-for-windows-server-installation?u=76281980&t=151)** On the Standard edition, you can have two [[Virtual Machines]] plus one Hyper-V host per license.
 >
 > **[2:39](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/planning-for-windows-server-installation?u=76281980&t=159)** Whereas with Datacenter, you can have unlimited virtual machines plus one Hyper-V host per license.
 >
 > **[2:47](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/planning-for-windows-server-installation?u=76281980&t=167)** That is one of the absolute main differences that you should know between Standard and Datacenter additions.
 >
-> **[2:53](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/planning-for-windows-server-installation?u=76281980&t=173)** Okay? So it really has to do with scalability.
+> **[2:53](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/planning-for-windows-server-installation?u=76281980&t=173)** Okay? So it really has to do with [[Scalability]].
 >
 > **[2:55](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/planning-for-windows-server-installation?u=76281980&t=175)** All right. And same thing.
 >
@@ -262,7 +259,7 @@ created: 2026-05-02
 >
 > **[4:30](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/planning-for-windows-server-installation?u=76281980&t=270)** Okay. So those are your requirements.
 >
-> **[4:32](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/planning-for-windows-server-installation?u=76281980&t=272)** But I do want to emphasize while those may be the actual, minimum hardware requirements, I want to emphasize the word minimum.
+> **[4:32](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/planning-for-windows-server-installation?u=76281980&t=272)** But I do want to emphasize while those may be the actual, minimum hardware requirements, I want to emphasize the [[Microsoft Word|word]] minimum.
 >
 > **[4:40](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/planning-for-windows-server-installation?u=76281980&t=280)** As in, you don't want to be operating with just the minimum.
 >
@@ -290,18 +287,17 @@ created: 2026-05-02
 > **Versions:** 1.4 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Preparing for Windows Server Installation
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/preparing-for-windows-server-installation?u=76281980)
+#### [Preparing for Windows Server Installation](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/preparing-for-windows-server-installation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/preparing-for-windows-server-installation?u=76281980&t=1)** - [Instructor] Before you perform the installation of Windows Server 2022, you have to first make sure that the computer you're installing it on is ready for it.
+> **[0:01](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/preparing-for-windows-server-installation?u=76281980&t=1)** - [Instructor] Before you perform the installation of [[Windows Server]] 2022, you have to first make sure that the computer you're installing it on is ready for it.
 >
-> **[0:13](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/preparing-for-windows-server-installation?u=76281980&t=13)** So now, if you have a physical computer, then there are certain things that you need to do, like setting up the boot order and making sure that you have the appropriate hardware, or you can set up a virtual machine, and you pretty much have to do the same thing, but it's all done virtually.
+> **[0:13](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/preparing-for-windows-server-installation?u=76281980&t=13)** So now, if you have a physical computer, then there are certain things that you need to do, like setting up the boot order and making sure that you have the appropriate [[Hardware]], or you can set up a virtual machine, and you pretty much have to do the same thing, but it's all done virtually.
 >
 > **[0:30](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/preparing-for-windows-server-installation?u=76281980&t=30)** So I want to show you here, how to do this with a virtual machine, here in Hyper-V.
 >
-> **[0:36](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/preparing-for-windows-server-installation?u=76281980&t=36)** Okay, you'll notice I already have a few virtual machines here, you can pretty much ignore these, the only one that will actually be used in this course is I do have this Windows Server 2022 Server Core, that is something I've already set up for later on, but for right now, let's go ahead and let's create another virtual machine so you can see everything from scratch in case you want to follow along.
+> **[0:36](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/preparing-for-windows-server-installation?u=76281980&t=36)** Okay, you'll notice I already have a few [[Virtual Machines]] here, you can pretty much ignore these, the only one that will actually be used in this course is I do have this Windows Server 2022 Server Core, that is something I've already set up for later on, but for right now, let's go ahead and let's create another virtual machine so you can see everything from scratch in case you want to follow along.
 >
 > **[0:57](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/preparing-for-windows-server-installation?u=76281980&t=57)** So I'm going to right click on this, where it says, "Recording PC," that's actually the name of my physical computer that Hyper-V is on.
 >
@@ -375,7 +371,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows Server]] (7), next (7), [[Hardware]] (2), [[Virtual Machines]] (1), power (1)
+> **Frameworks & Libraries:** [[Windows Server]] (7), [[Hardware]] (2), [[Virtual Machines]] (1)
 > **Env Vars:** dvd (13), scsi (2), ram (2)
 > **Prerequisites:** configure (3), set up (2), install (2), before you begin (1)
 > **CLI Commands:** make (5)
@@ -384,12 +380,11 @@ created: 2026-05-02
 > **Analogies:** it's like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Installation with Desktop Experience
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installation-with-desktop-experience?u=76281980)
+#### [Installation with Desktop Experience](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installation-with-desktop-experience?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installation-with-desktop-experience?u=76281980&t=1)** - [Instructor] So now let's go ahead and let's see how to perform the actual installation of Windows Server 2022 with the Desktop Experience.
+> **[0:01](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installation-with-desktop-experience?u=76281980&t=1)** - [Instructor] So now let's go ahead and let's see how to perform the actual installation of [[Windows Server]] 2022 with the Desktop Experience.
 >
 > **[0:11](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installation-with-desktop-experience?u=76281980&t=11)** So I have my virtual machine that I created for this, and I'm going to double click on it, just to open it up.
 >
@@ -483,7 +478,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows Server]] (6), next (4), hit (1), cd (1), power (1)
+> **Frameworks & Libraries:** [[Windows Server]] (6)
 > **UI Navigation:** click on (9), select the (1)
 > **Prerequisites:** install (3), set up (1)
 > **CLI Commands:** make (2), cd (1)
@@ -492,8 +487,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Warnings:** troubleshoot (1)
 
-#### Installation with Server Core
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installation-with-server-core?u=76281980)
+#### [Installation with Server Core](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installation-with-server-core?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -533,9 +527,9 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installation-with-server-core?u=76281980&t=112)** Okay, it has completed the process, and, as you can see, this is where there is a slight difference.
 >
-> **[1:59](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installation-with-server-core?u=76281980&t=119)** I will emphasize, again, it probably took, on my machine, and it's, of course, going to vary depending on the hardware that you have and everything else, but I want to say it finished installing like five minutes quicker.
+> **[1:59](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installation-with-server-core?u=76281980&t=119)** I will emphasize, again, it probably took, on my machine, and it's, of course, going to vary depending on the [[Hardware]] that you have and everything else, but I want to say it finished installing like five minutes quicker.
 >
-> **[2:10](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installation-with-server-core?u=76281980&t=130)** But the other difference here is you'll notice that I don't have a graphical user experience.
+> **[2:10](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installation-with-server-core?u=76281980&t=130)** But the other difference here is you'll notice that I don't have a graphical [[User Experience (UX)|user experience]].
 >
 > **[2:16](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installation-with-server-core?u=76281980&t=136)** Yes, there is a cursor here, but it really isn't doing anything, I can't do anything, I have to do everything with the keyboard and the arrows.
 >
@@ -547,11 +541,11 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installation-with-server-core?u=76281980&t=173)** And here, well, it's basically done the same thing except for that it's not going to take us to a login screen 'cause there's no Desktop Experience, it's just going to take us into a command shell window.
 >
-> **[3:06](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installation-with-server-core?u=76281980&t=186)** Okay, so this is all we're going to get with the Server Core edition of Windows Server 2022.
+> **[3:06](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installation-with-server-core?u=76281980&t=186)** Okay, so this is all we're going to get with the Server Core edition of [[Windows Server]] 2022.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), hit (2), power (1), management (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (1), [[User Experience (UX)|User experience]] (1), [[Windows Server]] (1)
 > **Prerequisites:** install (4), set up (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** dvd (1)
@@ -562,12 +556,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Configuring a computer name with Server Manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-a-computer-name-with-server-manager?u=76281980)
+#### [Configuring a computer name with Server Manager](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-a-computer-name-with-server-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-a-computer-name-with-server-manager?u=76281980&t=1)** - [Instructor] After you have completed the installation of Windows Server 2022, there are a couple of primary configuration steps that you have to go through in order to truly have the server ready to be able to function in your environment.
+> **[0:01](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-a-computer-name-with-server-manager?u=76281980&t=1)** - [Instructor] After you have completed the installation of [[Windows Server]] 2022, there are a couple of primary configuration steps that you have to go through in order to truly have the server ready to be able to function in your environment.
 >
 > **[0:18](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-a-computer-name-with-server-manager?u=76281980&t=18)** And so, we're going to take a look at how to do that here.
 >
@@ -581,7 +574,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-a-computer-name-with-server-manager?u=76281980&t=43)** Now there is a message that comes up.
 >
-> **[0:45](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-a-computer-name-with-server-manager?u=76281980&t=45)** It says, try managing servers with the Windows Admin Center.
+> **[0:45](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-a-computer-name-with-server-manager?u=76281980&t=45)** It says, try managing servers with the [[Windows]] Admin Center.
 >
 > **[0:49](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-a-computer-name-with-server-manager?u=76281980&t=49)** And there is a link if you want to get information about that admin center, but we're not going to deal with that right now.
 >
@@ -595,7 +588,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-a-computer-name-with-server-manager?u=76281980&t=82)** Sometimes, I think, when I first booted it, I think it was six services, and they were just services that were delayed start.
 >
-> **[1:29](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-a-computer-name-with-server-manager?u=76281980&t=89)** If I click on it here, what I will see is I will see that the Microsoft Edge Update Service, it's stopped.
+> **[1:29](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-a-computer-name-with-server-manager?u=76281980&t=89)** If I click on it here, what I will see is I will see that the [[Microsoft]] Edge Update Service, it's stopped.
 >
 > **[1:37](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-a-computer-name-with-server-manager?u=76281980&t=97)** And I'm not sure why it hasn't started yet, but I just want you to know that it is a delayed start.
 >
@@ -663,7 +656,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows Server]] (3), [[Windows]] (1), [[Microsoft]] (1), power (1)
+> **Frameworks & Libraries:** [[Windows Server]] (3), [[Windows]] (1), [[Microsoft]] (1)
 > **UI Navigation:** click on (4)
 > **Prerequisites:** configure (3), set up (1)
 > **Env Vars:** server1 (3)
@@ -671,8 +664,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring TCP/IP with Server Manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-tcp-ip-with-server-manager?u=76281980)
+#### [Configuring TCP/IP with Server Manager](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-tcp-ip-with-server-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -710,7 +702,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-tcp-ip-with-server-manager?u=76281980&t=76)** Okay, we want to change that to Use the following IP address, all right?
 >
-> **[1:20](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-tcp-ip-with-server-manager?u=76281980&t=80)** And so I'm going to go ahead and put in 192.168.1, and then I need to pick, that's the network that I'm on here in my office.
+> **[1:20](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-tcp-ip-with-server-manager?u=76281980&t=80)** And so I'm going to go ahead and put in 192.168.1, and then I need to pick, that's the network that I'm on here in my [[Microsoft Office|office]].
 >
 > **[1:32](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-tcp-ip-with-server-manager?u=76281980&t=92)** And then I'm just going to go ahead, and I'm going to pick an IP address that is not in use, so I'm going to put 241, just in this particular case.
 >
@@ -740,7 +732,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (3), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **UI Navigation:** click on (4), right-click (1), go to (1), checkbox (1)
 > **Env Vars:** dhcp (3), dns (3)
 > **Versions:** 192.168.1 (3), version 4 (1), 255.0 (1)
@@ -748,8 +740,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring a computer name with SConfig
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-a-computer-name-with-sconfig?u=76281980)
+#### [Configuring a computer name with SConfig](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-a-computer-name-with-sconfig?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -815,11 +806,11 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-a-computer-name-with-sconfig?u=76281980&t=132)** We now have the computer name Server2.
 >
-> **[2:15](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-a-computer-name-with-sconfig?u=76281980&t=135)** So that's how you can change the computer name, using S config on a Windows Server Core.
+> **[2:15](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-a-computer-name-with-sconfig?u=76281980&t=135)** So that's how you can change the computer name, using S config on a [[Windows Server]] Core.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (5), [[Windows Server]] (1)
+> **Frameworks & Libraries:** [[Windows Server]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** a09 (1)
 > **UI Navigation:** click on (1)
@@ -827,8 +818,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring TCP/IP with SConfig
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-tcp-ip-with-sconfig?u=76281980)
+#### [Configuring TCP/IP with SConfig](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-tcp-ip-with-sconfig?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -890,19 +880,18 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-tcp-ip-with-sconfig?u=76281980&t=196)** And at this point, I'm just going to go ahead and just, where it says enter selection, I hit blank for cancel, and that takes me back to the initial Sconfig screen.
 >
-> **[3:24](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-tcp-ip-with-sconfig?u=76281980&t=204)** And we have now configured our TCP/IP settings on Windows Server 2022 Server Core edition.
+> **[3:24](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-tcp-ip-with-sconfig?u=76281980&t=204)** And we have now configured our TCP/IP settings on [[Windows Server]] 2022 Server Core edition.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (11), dns (9), [[Windows Server]] (1)
+> **Frameworks & Libraries:** [[Windows Server]] (1)
 > **Env Vars:** dns (9), dhcp (3), tcp (1)
 > **Versions:** 192.168.1 (3), 255.255.255 (1), 1.242 (1)
 > **UI Navigation:** select the (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configruing a computer name with PowerShell
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configruing-a-computer-name-with-powershell?u=76281980)
+#### [Configruing a computer name with PowerShell](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configruing-a-computer-name-with-powershell?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -910,7 +899,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configruing-a-computer-name-with-powershell?u=76281980&t=10)** And I've shown you using SConfig, which comes up by default.
 >
-> **[0:15](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configruing-a-computer-name-with-powershell?u=76281980&t=15)** But the other way to do it would be, through Windows PowerShell.
+> **[0:15](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configruing-a-computer-name-with-powershell?u=76281980&t=15)** But the other way to do it would be, through [[Windows]] [[Powershell]].
 >
 > **[0:20](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configruing-a-computer-name-with-powershell?u=76281980&t=20)** All right, so just to show you, even though we've already done it, right, I've already assigned the computer name, and I've already assigned an IP address.
 >
@@ -962,25 +951,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (11), hit (4), [[Windows]] (2)
+> **Frameworks & Libraries:** [[Powershell]] (11), [[Windows]] (2)
 > **Tools:** powershell (11), command line (2)
 > **Env Vars:** warning (1), servercore1 (1)
 > **Prerequisites:** configure (2)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring TCP/IP with PowerShell
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-tcp-ip-with-powershell?u=76281980)
+#### [Configuring TCP/IP with PowerShell](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-tcp-ip-with-powershell?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-tcp-ip-with-powershell?u=76281980&t=1)** - [Instructor] All right, so the other thing I need to show you how to configure via PowerShell is your IP address.
+> **[0:01](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-tcp-ip-with-powershell?u=76281980&t=1)** - [Instructor] All right, so the other thing I need to show you how to configure via [[Powershell]] is your IP address.
 >
 > **[0:07](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-tcp-ip-with-powershell?u=76281980&t=7)** And before I do that, I do want to emphasize that this can be definitely tricky for many people.
 >
 > **[0:14](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-tcp-ip-with-powershell?u=76281980&t=14)** And I personally recommend that you use SCONFIG if you have it available.
 >
-> **[0:18](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-tcp-ip-with-powershell?u=76281980&t=18)** But that said, let me go ahead and show what I can via Windows PowerShell.
+> **[0:18](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-tcp-ip-with-powershell?u=76281980&t=18)** But that said, let me go ahead and show what I can via [[Windows]] PowerShell.
 >
 > **[0:23](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-tcp-ip-with-powershell?u=76281980&t=23)** So here in SCONFIG, I'm going to hit option number 15 to exit to our PowerShell command line.
 >
@@ -1114,7 +1102,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (8), [[Powershell]] (5), dns (3), [[Windows]] (2), next (1)
+> **Frameworks & Libraries:** [[Powershell]] (5), [[Windows]] (2)
 > **Versions:** 192.168.1 (8), 1.254 (2), 255.255.255 (1)
 > **Tools:** powershell (5), command line (1)
 > **Env Vars:** dns (3), sconfig (2)
@@ -1128,16 +1116,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating a simple volume
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/creating-a-simple-volume?u=76281980)
+#### [Creating a simple volume](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/creating-a-simple-volume?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/creating-a-simple-volume?u=76281980&t=0)** - [Instructor] So let's take a look at how we can configure our storage solutions for our Windows server installation.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/creating-a-simple-volume?u=76281980&t=0)** - [Instructor] So let's take a look at how we can configure our storage solutions for our [[Windows Server]] installation.
 >
 > **[0:10](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/creating-a-simple-volume?u=76281980&t=10)** Now, if you've ever worked with Windows server in the past, you may be familiar with the disk management tool.
 >
-> **[0:19](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/creating-a-simple-volume?u=76281980&t=19)** In fact, even certain versions of Windows client additions have this in it as well.
+> **[0:19](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/creating-a-simple-volume?u=76281980&t=19)** In fact, even certain versions of [[Windows]] client additions have this in it as well.
 >
 > **[0:26](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/creating-a-simple-volume?u=76281980&t=26)** Well, that still exists today in Windows Server 2022.
 >
@@ -1249,7 +1236,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows Server]] (5), management (4), next (4), [[Windows]] (1), hit (1)
+> **Frameworks & Libraries:** [[Windows Server]] (5), [[Windows]] (1)
 > **Env Vars:** ntfs (3), scsi (2), rom (1), dvd (1), fat (1)
 > **UI Navigation:** click on (6), go to (1), scroll down (1)
 > **Prerequisites:** set up (3), configure (2), install (1)
@@ -1258,8 +1245,7 @@ created: 2026-05-02
 > **Versions:** 48.83 (1)
 > **Analogies:** just like (1)
 
-#### Extending and shrinking a volume
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/extending-and-shrinking-a-volume?u=76281980)
+#### [Extending and shrinking a volume](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/extending-and-shrinking-a-volume?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1363,7 +1349,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), data (1)
 > **UI Navigation:** click on (4), right-click (1), select the (1)
 > **CLI Commands:** make (2)
 > **Definitions:** in other words (1), is a  (1)
@@ -1371,8 +1356,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Converting from basic to dynamic disks
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/converting-from-basic-to-dynamic-disks?u=76281980)
+#### [Converting from basic to dynamic disks](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/converting-from-basic-to-dynamic-disks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1452,14 +1436,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **UI Navigation:** click on (2)
 > **Definitions:** in other words (1), means that (1)
 > **Warnings:** warning (2)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a spanned volume
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/creating-a-spanned-volume?u=76281980)
+#### [Creating a spanned volume](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/creating-a-spanned-volume?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1507,7 +1489,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/creating-a-spanned-volume?u=76281980&t=147)** Okay, just as we were planning on.
 >
-> **[2:29](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/creating-a-spanned-volume?u=76281980&t=149)** And if I was to go into Windows Explorer, so let's actually just do that, let's just go ahead and open up Windows Explorer.
+> **[2:29](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/creating-a-spanned-volume?u=76281980&t=149)** And if I was to go into [[Windows]] Explorer, so let's actually just do that, let's just go ahead and open up Windows Explorer.
 >
 > **[2:37](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/creating-a-spanned-volume?u=76281980&t=157)** And if I go to my G drive here, you'll notice the G drive.
 >
@@ -1523,15 +1505,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Windows]] (2), management (1)
+> **Frameworks & Libraries:** [[Windows]] (2)
 > **UI Navigation:** go to (2), click on (2), right-click (1)
 > **Env Vars:** ntfs (1)
 > **Definitions:** is a  (1)
 > **Analogies:** kind of like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a striped volume
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/creating-a-striped-volume?u=76281980)
+#### [Creating a striped volume](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/creating-a-striped-volume?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1657,15 +1638,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), next (5), management (1)
 > **Env Vars:** raid (12)
 > **UI Navigation:** click on (4)
 > **Cross-References:** previous video (1)
 > **Analogies:** kind of like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a mirrored volume
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/creating-a-mirrored-volume?u=76281980)
+#### [Creating a mirrored volume](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/creating-a-mirrored-volume?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1741,27 +1720,26 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/creating-a-mirrored-volume?u=76281980&t=186)** So that is a benefit.
 >
-> **[3:08](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/creating-a-mirrored-volume?u=76281980&t=188)** Beyond that, I will tell you that again, fault tolerance is important on your servers because you don't want to have a loss of data being stored out on your servers because of a hardware failure.
+> **[3:08](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/creating-a-mirrored-volume?u=76281980&t=188)** Beyond that, I will tell you that again, fault tolerance is important on your servers because you don't want to have a loss of data being stored out on your servers because of a [[Hardware]] failure.
 >
 > **[3:22](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/creating-a-mirrored-volume?u=76281980&t=202)** So this is a very common thing to do.
 >
 > **[3:25](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/creating-a-mirrored-volume?u=76281980&t=205)** I will tell you, it is very often done through what's called hardware RAID where you have an actual hardware RAID controller that is doing this but that can cost much more money.
 >
-> **[3:36](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/creating-a-mirrored-volume?u=76281980&t=216)** If you are a smaller environment, it's a lot easier and simpler to go ahead and do this using software volumes within Windows Server 2022.
+> **[3:36](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/creating-a-mirrored-volume?u=76281980&t=216)** If you are a smaller environment, it's a lot easier and simpler to go ahead and do this using software volumes within [[Windows Server]] 2022.
 >
 > **[3:46](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/creating-a-mirrored-volume?u=76281980&t=226)** And that is how we create the mirrored volume in disk management.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Hardware]] (3), next (2), [[Windows Server]] (1), management (1)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[Windows Server]] (1)
 > **Env Vars:** raid (5), ntfs (1)
 > **Definitions:** is a  (2)
 > **UI Navigation:** click on (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a RAID 5 Volume
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/creating-a-raid-5-volume?u=76281980)
+#### [Creating a RAID 5 Volume](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/creating-a-raid-5-volume?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1777,7 +1755,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/creating-a-raid-5-volume?u=76281980&t=35)** You have to have at least three disks, if you don't, you cannot do RAID-5.
 >
-> **[0:40](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/creating-a-raid-5-volume?u=76281980&t=40)** Now, I'm going to go through, and we're going to create this and then I will kind of give you the rest of the explanation as to what exactly this type of volume does.
+> **[0:40](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/creating-a-raid-5-volume?u=76281980&t=40)** Now, I'm going to go through, and we're going to create this and then I will kind of give you the [[Representational State Transfer (REST)|rest]] of the explanation as to what exactly this type of volume does.
 >
 > **[0:48](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/creating-a-raid-5-volume?u=76281980&t=48)** So I'm going to click on next.
 >
@@ -1891,11 +1869,11 @@ created: 2026-05-02
 >
 > **[5:33](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/creating-a-raid-5-volume?u=76281980&t=333)** And then you also get the fault tolerance so that if anyone of these disks was to fail, using those parity blocks, it could recreate the data and it would not be lost.
 >
-> **[5:44](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/creating-a-raid-5-volume?u=76281980&t=344)** So that is pretty much how you create a RAID-5 volume in disk management and that also wraps up how we can create all the various different types of volumes in Windows Server 2022.
+> **[5:44](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/creating-a-raid-5-volume?u=76281980&t=344)** So that is pretty much how you create a RAID-5 volume in disk management and that also wraps up how we can create all the various different types of volumes in [[Windows Server]] 2022.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), next (6), [[Representational State Transfer (REST)|Rest]] (1), management (1), [[Windows Server]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Windows Server]] (1)
 > **Env Vars:** raid (11)
 > **UI Navigation:** click on (3), select the (1)
 > **Definitions:** is a  (2)
@@ -1908,12 +1886,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Installing roles and features
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installing-roles-and-features?u=76281980)
+#### [Installing roles and features](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installing-roles-and-features?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installing-roles-and-features?u=76281980&t=1)** - [Instructor] Once you have Windows Server 2022 installed, and you have it fully configured, as far as the computer name, IP address.
+> **[0:01](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installing-roles-and-features?u=76281980&t=1)** - [Instructor] Once you have [[Windows Server]] 2022 installed, and you have it fully configured, as far as the computer name, IP address.
 >
 > **[0:11](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installing-roles-and-features?u=76281980&t=11)** Basic configuration settings.
 >
@@ -1973,7 +1950,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installing-roles-and-features?u=76281980&t=133)** And now I get to decide, well, what role do I want to be?
 >
-> **[2:17](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installing-roles-and-features?u=76281980&t=137)** So an example might be here where it says active directory domain services.
+> **[2:17](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installing-roles-and-features?u=76281980&t=137)** So an example might be here where it says [[Active Directory]] domain services.
 >
 > **[2:21](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installing-roles-and-features?u=76281980&t=141)** Let's say I want to become a domain controller for my environment.
 >
@@ -2009,7 +1986,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installing-roles-and-features?u=76281980&t=211)** And then, here it tells you a little bit about what Active Directory Domain Services is.
 >
-> **[3:35](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installing-roles-and-features?u=76281980&t=215)** And you'll even see that they're going to push you towards Azure Active Directory, which is a separate online service.
+> **[3:35](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installing-roles-and-features?u=76281980&t=215)** And you'll even see that they're going to push you towards [[Microsoft Entra ID|Azure Active Directory]], which is a separate online service.
 >
 > **[3:42](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installing-roles-and-features?u=76281980&t=222)** And they give you some links to learn about that, if you want.
 >
@@ -2051,7 +2028,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (9), [[Active Directory]] (4), feature (3), [[Windows Server]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Active Directory]] (4), [[Windows Server]] (1), [[Microsoft Entra ID|Azure active directory]] (1)
 > **Prerequisites:** install (3), configure (2), before you begin (1)
 > **UI Navigation:** click on (4), select the (1)
 > **CLI Commands:** make (3)
@@ -2059,14 +2036,13 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring a role
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-a-role?u=76281980)
+#### [Configuring a role](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-a-role?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-a-role?u=76281980&t=0)** - [Instructor] Now some roles that you will install will require some additional configuration in order for the role to have full functionality.
 >
-> **[0:12](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-a-role?u=76281980&t=12)** And so, the role that we installed, which is Active Directory Domain Services, you see here, it says configuration required.
+> **[0:12](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-a-role?u=76281980&t=12)** And so, the role that we installed, which is [[Active Directory]] Domain Services, you see here, it says configuration required.
 >
 > **[0:18](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-a-role?u=76281980&t=18)** And what that additional configuration is, is it says additional steps are required to make this machine a domain controller.
 >
@@ -2106,7 +2082,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-a-role?u=76281980&t=91)** Now it's going to ask me about our forest and domain functional levels.
 >
-> **[1:34](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-a-role?u=76281980&t=94)** Now you'll notice, it says Windows Server 2016.
+> **[1:34](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-a-role?u=76281980&t=94)** Now you'll notice, it says [[Windows Server]] 2016.
 >
 > **[1:36](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-a-role?u=76281980&t=96)** And even if I click the drop down, there is nothing newer than Windows Server 2016, because this was something that they used to do.
 >
@@ -2200,7 +2176,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), [[Windows Server]] (5), [[Active Directory]] (2), functional (2), dns (2)
+> **Frameworks & Libraries:** [[Windows Server]] (5), [[Active Directory]] (2)
 > **Prerequisites:** install (3), prerequisite (3), configure (1), set up (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** click on (5)
@@ -2208,12 +2184,11 @@ created: 2026-05-02
 > **Warnings:** warning (2)
 > **Speakers:** - [instructor] (1)
 
-#### Installing roles on Server Core
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installing-roles-on-server-core?u=76281980)
+#### [Installing roles on Server Core](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installing-roles-on-server-core?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installing-roles-on-server-core?u=76281980&t=1)** - [Illustrator] So now let's talk a little bit about adding a Role or Feature unto a server core installation of windows server.
+> **[0:01](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installing-roles-on-server-core?u=76281980&t=1)** - [Illustrator] So now let's talk a little bit about adding a Role or Feature unto a server core installation of [[Windows Server]].
 >
 > **[0:10](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installing-roles-on-server-core?u=76281980&t=10)** You'll see here that it's not quite as obvious as it was through the desktop experience right here in the S config utility.
 >
@@ -2221,7 +2196,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installing-roles-on-server-core?u=76281980&t=21)** So what are the options available?
 >
-> **[0:24](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installing-roles-on-server-core?u=76281980&t=24)** Well, one option would be to go ahead and exit out to PowerShell, and then through PowerShell scripting, we can go ahead and install the role or feature that way.
+> **[0:24](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installing-roles-on-server-core?u=76281980&t=24)** Well, one option would be to go ahead and exit out to [[Powershell]], and then through PowerShell scripting, we can go ahead and install the role or feature that way.
 >
 > **[0:33](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installing-roles-on-server-core?u=76281980&t=33)** Okay, and there's absolutely nothing wrong with that many administrators do take that approach, especially if you're working with a lot of server core machines, because you may have the script already pre-written and already put into a file.
 >
@@ -2247,7 +2222,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installing-roles-on-server-core?u=76281980&t=101)** And so this is significant to be part of the domain so that you can have the appropriate permissions to do remote management.
 >
-> **[1:48](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installing-roles-on-server-core?u=76281980&t=108)** If you need more detail on how that's done, please go see active, you know, any of our active directory courses to learn about that.
+> **[1:48](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installing-roles-on-server-core?u=76281980&t=108)** If you need more detail on how that's done, please go see active, you know, any of our [[Active Directory]] courses to learn about that.
 >
 > **[1:57](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installing-roles-on-server-core?u=76281980&t=117)** All right.
 >
@@ -2281,7 +2256,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installing-roles-on-server-core?u=76281980&t=184)** But if, but you notice, now I have the ability to say no, no, I want to install something on the server core one and then click on next.
 >
-> **[3:13](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installing-roles-on-server-core?u=76281980&t=193)** And now I can go through the rest of the process to choose any roles or features that I want to install on that particular server.
+> **[3:13](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installing-roles-on-server-core?u=76281980&t=193)** And now I can go through the [[Representational State Transfer (REST)|rest]] of the process to choose any roles or features that I want to install on that particular server.
 >
 > **[3:22](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installing-roles-on-server-core?u=76281980&t=202)** I'm going to actually stop here.
 >
@@ -2293,13 +2268,13 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installing-roles-on-server-core?u=76281980&t=218)** And I just want you to keep in mind that if you're ever, you know going to use the server core installation, which is recommended to save on resources, well, then you're going to have to think of a way, you know, how you want to go about installing roles and features on that particular machine.
 >
-> **[3:54](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installing-roles-on-server-core?u=76281980&t=234)** And it's either going to be through windows PowerShell, or remotely here through the server manager.
+> **[3:54](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installing-roles-on-server-core?u=76281980&t=234)** And it's either going to be through [[Windows]] PowerShell, or remotely here through the server manager.
 >
 > **[4:01](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installing-roles-on-server-core?u=76281980&t=241)** Those are your options.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (4), [[Powershell]] (4), next (3), [[Active Directory]] (2), [[Windows Server]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (4), [[Active Directory]] (2), [[Windows Server]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Windows]] (1)
 > **Prerequisites:** install (4), before you begin (1)
 > **Tools:** powershell (4)
 > **UI Navigation:** click on (3)
@@ -2308,8 +2283,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Warnings:** keep in mind (1)
 
-#### Managing features on demand
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/managing-features-on-demand?u=76281980)
+#### [Managing features on demand](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/managing-features-on-demand?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2317,9 +2291,9 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/managing-features-on-demand?u=76281980&t=31)** In the old days, it used to prompt you for installation media or to have to point out to some network share or it would say hey, you have to install this, you have to install.
 >
-> **[0:41](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/managing-features-on-demand?u=76281980&t=41)** Well, what Microsoft has done is they have made it that everything is all built in and available, all right?
+> **[0:41](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/managing-features-on-demand?u=76281980&t=41)** Well, what [[Microsoft]] has done is they have made it that everything is all built in and available, all right?
 >
-> **[0:48](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/managing-features-on-demand?u=76281980&t=48)** And where there is when we install Windows Server, I just want to show you, I'm going to go to Windows Explorer here on my server, and I'm going to go to the C drive and I'm going to go to the Windows directory, and I'm going to scroll all the way down to the last folder, which says Windows SxS, which stands for Windows Side by Side.
+> **[0:48](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/managing-features-on-demand?u=76281980&t=48)** And where there is when we install [[Windows Server]], I just want to show you, I'm going to go to [[Windows]] Explorer here on my server, and I'm going to go to the C drive and I'm going to go to the Windows directory, and I'm going to scroll all the way down to the last folder, which says Windows SxS, which stands for Windows Side by Side.
 >
 > **[1:10](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/managing-features-on-demand?u=76281980&t=70)** And I'm going to go to the properties of that folder, and you're going to see that it's going to be counting up and counting up and counting up.
 >
@@ -2341,7 +2315,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/managing-features-on-demand?u=76281980&t=124)** But I'm just going to do it for this demonstration and I'll show you why.
 >
-> **[2:09](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/managing-features-on-demand?u=76281980&t=129)** The reason I want to go in the server core machine is because what we're going to do, we're going to do in PowerShell, all right?
+> **[2:09](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/managing-features-on-demand?u=76281980&t=129)** The reason I want to go in the server core machine is because what we're going to do, we're going to do in [[Powershell]], all right?
 >
 > **[2:15](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/managing-features-on-demand?u=76281980&t=135)** And so this one's just nice and easy.
 >
@@ -2419,7 +2393,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (6), data (5), hit (4), [[Powershell]] (3), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Windows]] (6), [[Powershell]] (3), [[Microsoft]] (2), [[Windows Server]] (1)
 > **Prerequisites:** install (5)
 > **UI Navigation:** go to (4)
 > **CLI Commands:** find (2), make (1)
@@ -2432,12 +2406,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/next-steps?u=76281980&t=1)** - [Ed] I hope you've enjoyed learning about how to install and configure Windows Server 2022 as much as I've enjoyed showing you.
+> **[0:01](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/next-steps?u=76281980&t=1)** - [Ed] I hope you've enjoyed learning about how to install and configure [[Windows Server]] 2022 as much as I've enjoyed showing you.
 >
 > **[0:09](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/next-steps?u=76281980&t=9)** If you want to learn more about Windows Server 2022, please explore our library as we have a number of courses out there to help you.
 >
@@ -2445,7 +2418,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows Server]] (2), next (1)
+> **Frameworks & Libraries:** [[Windows Server]] (2)
 > **Prerequisites:** install (1), configure (1)
 > **Speakers:** - [ed] (1)
 

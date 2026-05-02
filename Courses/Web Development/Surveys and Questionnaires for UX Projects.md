@@ -71,8 +71,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting good feedback
-> [LinkedIn Learning](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/getting-good-feedback?u=76281980)
+#### [Getting good feedback](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/getting-good-feedback?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -104,7 +103,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), ux (1)
 > **Speakers:** - questionnaires (1)
 
 
@@ -112,8 +110,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What surveys are good at telling you
-> [LinkedIn Learning](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/what-surveys-are-good-at-telling-you?u=76281980)
+#### [What surveys are good at telling you](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/what-surveys-are-good-at-telling-you?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -159,14 +156,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), product (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** such as (1), just like (1)
 > **Prerequisites:** you need to have (1), set up (1)
 > **Speakers:** - if (1)
 
-#### Hybrid survey methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/hybrid-survey-methods?u=76281980)
+#### [Hybrid survey methods](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/hybrid-survey-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -202,14 +197,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), product (1)
 > **Definitions:** refers to (1)
 > **Analogies:** for instance (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - the (1)
 
-#### Fitting surveys into your research plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/fitting-surveys-into-your-research-plan?u=76281980)
+#### [Fitting surveys into your research plan](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/fitting-surveys-into-your-research-plan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -225,7 +218,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/fitting-surveys-into-your-research-plan?u=76281980&t=32)** It helps to tell you why things are happening, but doesn't always tell you the magnitude of the issues you uncover.
 >
-> **[0:40](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/fitting-surveys-into-your-research-plan?u=76281980&t=40)** Alternatively, you might want to gather usage statistics, see what proportion of people do a certain thing or work out which of two options people prefer.
+> **[0:40](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/fitting-surveys-into-your-research-plan?u=76281980&t=40)** Alternatively, you might want to gather usage [[Statistics]], see what proportion of people do a certain thing or work out which of two options people prefer.
 >
 > **[0:49](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/fitting-surveys-into-your-research-plan?u=76281980&t=49)** That's quantitative data, it's quantifiable.
 >
@@ -271,7 +264,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Statistics]] (1), ux (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - there (1)
@@ -281,8 +274,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Know what you want to learn
-> [LinkedIn Learning](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/know-what-you-want-to-learn?u=76281980)
+#### [Know what you want to learn](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/know-what-you-want-to-learn?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -298,7 +290,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/know-what-you-want-to-learn?u=76281980&t=29)** Now you can create the questions for your questionnaire in a way that will give you the input you need to make these statements, and those statements will tell a story about your survey respondents that gives you the information you need to make decisions.
 >
-> **[0:44](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/know-what-you-want-to-learn?u=76281980&t=44)** To be clear, I'm not saying you should word the questions to make sure the answer comes out the way you want, but I am saying you need to give yourself the opportunity to find answers to the questions you care about.
+> **[0:44](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/know-what-you-want-to-learn?u=76281980&t=44)** To be clear, I'm not saying you should [[Microsoft Word|word]] the questions to make sure the answer comes out the way you want, but I am saying you need to give yourself the opportunity to find answers to the questions you care about.
 >
 > **[0:57](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/know-what-you-want-to-learn?u=76281980&t=57)** In other words, your desired outcome statements are like a scientific hypothesis.
 >
@@ -354,15 +346,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft Word|Word]] (1), application (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (11), find (1)
 > **Analogies:** for instance (3)
 > **Definitions:** in other words (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - it (1)
 
-#### Different question types
-> [LinkedIn Learning](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/different-question-types?u=76281980)
+#### [Different question types](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/different-question-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -444,7 +435,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **CLI Commands:** make (2), find (2)
 > **Analogies:** for instance (2), such as (1)
 > **Best Practices:** remember to (1), it's best to (1)
@@ -452,8 +442,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - multiple (1)
 
-#### Common question mistakes
-> [LinkedIn Learning](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/common-question-mistakes?u=76281980)
+#### [Common question mistakes](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/common-question-mistakes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -525,7 +514,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (4), data (2), next (1)
 > **CLI Commands:** make (4), find (2)
 > **Analogies:** for instance (3)
 > **Definitions:** is a  (1), refers to (1)
@@ -533,8 +521,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - asking (1)
 
-#### Question order
-> [LinkedIn Learning](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/question-order?u=76281980)
+#### [Question order](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/question-order?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -566,7 +553,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/question-order?u=76281980&t=102)** Make sure that you place these later in the order.
 >
-> **[1:46](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/question-order?u=76281980&t=106)** For instance asking people a lot of detailed questions about their experiences contacting customer support might buy us their overall satisfaction ratings so you probably want to ask the overall satisfaction question first.
+> **[1:46](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/question-order?u=76281980&t=106)** For instance asking people a lot of detailed questions about their experiences contacting [[Customer Support]] might buy us their overall satisfaction ratings so you probably want to ask the overall satisfaction question first.
 >
 > **[2:00](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/question-order?u=76281980&t=120)** The longer your survey is the higher the abandonment rate will be.
 >
@@ -590,7 +577,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Customer Support]] (1), data (1)
+> **Frameworks & Libraries:** [[Customer Support]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** for instance (3)
 > **Cross-References:** earlier in (1), later in (1)
@@ -602,8 +589,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Who to send your survey to
-> [LinkedIn Learning](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/who-to-send-your-survey-to?u=76281980)
+#### [Who to send your survey to](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/who-to-send-your-survey-to?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -671,14 +657,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), business (1)
 > **CLI Commands:** find (2), make (2)
 > **Analogies:** for instance (2)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - the (1)
 
-#### Rewards and incentives
-> [LinkedIn Learning](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/rewards-and-incentives?u=76281980)
+#### [Rewards and incentives](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/rewards-and-incentives?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -750,15 +734,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), game (1)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** ebook (1)
 > **Definitions:** means that (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - normal (1)
 
-#### How to send out a questionnaire
-> [LinkedIn Learning](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/how-to-send-out-a-questionnaire?u=76281980)
+#### [How to send out a questionnaire](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/how-to-send-out-a-questionnaire?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -800,7 +782,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/how-to-send-out-a-questionnaire?u=76281980&t=137)** It's also important to spell out what will and what won't be done with the information they provide, and whether you'll use it for any subsequent contact.
 >
-> **[2:28](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/how-to-send-out-a-questionnaire?u=76281980&t=148)** This is a great place to link out to your privacy policy and data protection standards.
+> **[2:28](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/how-to-send-out-a-questionnaire?u=76281980&t=148)** This is a great place to link out to your [[Privacy]] policy and data protection standards.
 >
 > **[2:33](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/how-to-send-out-a-questionnaire?u=76281980&t=153)** It's essential that you respect respondents' privacy.
 >
@@ -822,7 +804,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (2), product (1), data (1)
+> **Frameworks & Libraries:** [[Privacy]] (2)
 > **Analogies:** for instance (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -834,8 +816,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Online survey tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/online-survey-tools?u=76281980)
+#### [Online survey tools](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/online-survey-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -845,17 +826,17 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/online-survey-tools?u=76281980&t=10)** So, a survey could be conducted over the phone, where someone reads questions from the questionnaire out to the respondent, it could be conducted through mail, where the respondent fills in the questionnaire and then sends it back for processing, or these days, more frequently, the questionnaire is presented online and the results are gathered and even analyzed automatically.
 >
-> **[0:32](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/online-survey-tools?u=76281980&t=32)** You can always create the survey using a word processor, print it off, and either hand it to, or send it to everyone you need to fill it in.
+> **[0:32](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/online-survey-tools?u=76281980&t=32)** You can always create the survey using a [[Microsoft Word|word]] processor, print it off, and either hand it to, or send it to everyone you need to fill it in.
 >
-> **[0:40](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/online-survey-tools?u=76281980&t=40)** In fact, that's still a viable option if you're conducting surveys around your office, or if you're handing out surveys in a public space.
+> **[0:40](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/online-survey-tools?u=76281980&t=40)** In fact, that's still a viable option if you're conducting surveys around your [[Microsoft Office|office]], or if you're handing out surveys in a public space.
 >
 > **[0:46](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/online-survey-tools?u=76281980&t=46)** But most of the time, it's actually faster and easier to use one of the online survey tools to make your survey.
 >
-> **[0:54](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/online-survey-tools?u=76281980&t=54)** You get cleaner formatting, easier distribution, automatic data collection, and with lots of the tools you also get at least some form of analysis performed for you.
+> **[0:54](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/online-survey-tools?u=76281980&t=54)** You get cleaner formatting, easier distribution, automatic [[Data Collection]], and with lots of the tools you also get at least some form of analysis performed for you.
 >
 > **[1:05](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/online-survey-tools?u=76281980&t=65)** Let's take a look at some of the different online survey tools you can use.
 >
-> **[1:10](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/online-survey-tools?u=76281980&t=70)** Let's start with Google Forms.
+> **[1:10](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/online-survey-tools?u=76281980&t=70)** Let's start with [[Google]] [[Forms]].
 >
 > **[1:12](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/online-survey-tools?u=76281980&t=72)** This is a completely free tool that lets you create relatively professional looking surveys with some branding elements and some page skip logic.
 >
@@ -879,7 +860,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/online-survey-tools?u=76281980&t=177)** They too, offer to recruit participants, and have a level of personalization.
 >
-> **[3:01](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/online-survey-tools?u=76281980&t=181)** By this point, we're straying away from pure surveys, and more into the realm of full-on usability testing.
+> **[3:01](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/online-survey-tools?u=76281980&t=181)** By this point, we're straying away from pure surveys, and more into the realm of full-on [[Usability Testing]].
 >
 > **[3:07](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/online-survey-tools?u=76281980&t=187)** UserTesting, TryMyUI, and UserZoom, all offer recruiting, and combine online user testing sessions and path tracking on websites, with pre or post-session questionnaires.
 >
@@ -895,13 +876,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (2), [[Microsoft Word|Word]] (1), [[Microsoft Office|Office]] (1), data (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Forms]] (2), [[Microsoft Word|Word]] (1), [[Microsoft Office|Office]] (1), [[Data Collection]] (1), [[Google]] (1)
 > **Definitions:** is a  (2), refers to (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - the (1)
 
-#### Demo of a survey creation tool
-> [LinkedIn Learning](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/demo-of-a-survey-creation-tool?u=76281980)
+#### [Demo of a survey creation tool](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/demo-of-a-survey-creation-tool?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -913,7 +893,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/demo-of-a-survey-creation-tool?u=76281980&t=25)** I'm going to walk you through the process of creating a questionnaire, so you can see how easy it is, using a survey tool.
 >
-> **[0:31](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/demo-of-a-survey-creation-tool?u=76281980&t=31)** I'll use Google Forms, because it's free and has enough functionality to meet my needs.
+> **[0:31](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/demo-of-a-survey-creation-tool?u=76281980&t=31)** I'll use [[Google]] [[Forms]], because it's free and has enough functionality to meet my needs.
 >
 > **[0:36](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/demo-of-a-survey-creation-tool?u=76281980&t=36)** You can start a new form from forms.[google.com](https://google.com).
 >
@@ -925,7 +905,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/demo-of-a-survey-creation-tool?u=76281980&t=57)** It's easy to add a new question by hitting the plus button in the hovering menu on the right.
 >
-> **[1:02](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/demo-of-a-survey-creation-tool?u=76281980&t=62)** First I'll ask my most important and qualifying questions, which will set the tone for the rest of the survey.
+> **[1:02](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/demo-of-a-survey-creation-tool?u=76281980&t=62)** First I'll ask my most important and qualifying questions, which will set the tone for the [[Representational State Transfer (REST)|rest]] of the survey.
 >
 > **[1:08](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/demo-of-a-survey-creation-tool?u=76281980&t=68)** Like I said, it's good to use a structure that tells a recognizable story, so we'll start with how they found the app, how long they've been using it, and how much time they use it per week.
 >
@@ -1029,7 +1009,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (4), [[Forms]] (3), [[Representational State Transfer (REST)|Rest]] (2), [[Analytics]] (1), next (1)
+> **Frameworks & Libraries:** [[Google]] (4), [[Forms]] (3), [[Representational State Transfer (REST)|Rest]] (2)
 > **CLI Commands:** make (7), find (2)
 > **UI Navigation:** click on (1), scroll down (1)
 > **URLs:** [google.com](https://google.com) (1)
@@ -1041,8 +1021,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Reporting data
-> [LinkedIn Learning](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/reporting-data?u=76281980)
+#### [Reporting data](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/reporting-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1106,7 +1085,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/reporting-data?u=76281980&t=203)** And then use this to make a table showing each segment's responses to another question.
 >
-> **[3:29](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/reporting-data?u=76281980&t=209)** Now, there are specific statistics like t-tests to measure whether this type of difference is statistically significant.
+> **[3:29](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/reporting-data?u=76281980&t=209)** Now, there are specific [[Statistics]] like t-tests to measure whether this type of difference is statistically significant.
 >
 > **[3:35](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/reporting-data?u=76281980&t=215)** And you can learn more about that in Eddy Davila's Statistics Foundation course.
 >
@@ -1140,14 +1119,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), product (5), [[Statistics]] (3)
+> **Frameworks & Libraries:** [[Statistics]] (3)
 > **Analogies:** for instance (3)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Speakers:** - many (1)
 
-#### Visualizing results
-> [LinkedIn Learning](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/visualizing-results?u=76281980)
+#### [Visualizing results](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/visualizing-results?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1181,11 +1159,11 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/visualizing-results?u=76281980&t=107)** Now, even a demonstrated correlation doesn't necessarily show causation, but a scatter plot graph can visualize the link between two variables.
 >
-> **[1:59](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/visualizing-results?u=76281980&t=119)** I'm not going to get into the statistics here, but the chapter on regression in Eddie Davila's "Statistics Foundations: 3" course provides a great explanation of how to calculate a coefficient of correlation.
+> **[1:59](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/visualizing-results?u=76281980&t=119)** I'm not going to get into the [[Statistics]] here, but the chapter on regression in Eddie Davila's "Statistics Foundations: 3" course provides a great explanation of how to calculate a coefficient of correlation.
 >
 > **[2:11](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/visualizing-results?u=76281980&t=131)** What about your qualitative, textual information?
 >
-> **[2:15](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/visualizing-results?u=76281980&t=135)** It's not like you can put that on a bar graph, but you can pull out specific quotes, and you can also create word clouds.
+> **[2:15](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/visualizing-results?u=76281980&t=135)** It's not like you can put that on a bar graph, but you can pull out specific quotes, and you can also create [[Microsoft Word|word]] clouds.
 >
 > **[2:23](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/visualizing-results?u=76281980&t=143)** These visualize the most frequently-used words as a cloud, with the most-used shown more centrally and larger.
 >
@@ -1221,13 +1199,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), data (2), [[Statistics]] (2), [[Microsoft Word|Word]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Microsoft Word|Word]] (1)
 > **Analogies:** for instance (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - however (1)
 
-#### Show what you learned
-> [LinkedIn Learning](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/show-what-you-learned?u=76281980)
+#### [Show what you learned](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/show-what-you-learned?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1263,7 +1240,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/show-what-you-learned?u=76281980&t=105)** Throughout your presentation or report, tie in with research findings from other surveys to show how things have changed or remained consistent over time.
 >
-> **[1:55](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/show-what-you-learned?u=76281980&t=115)** Pulling results from other data gathering techniques, like usage statistics, user testing results, or interview and focus group findings.
+> **[1:55](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/show-what-you-learned?u=76281980&t=115)** Pulling results from other data gathering techniques, like usage [[Statistics]], user testing results, or interview and focus group findings.
 >
 > **[2:03](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/show-what-you-learned?u=76281980&t=123)** Any time when you can show that different research methods reached similar results, it boosts the credibility of your survey.
 >
@@ -1283,7 +1260,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), business (1), [[Statistics]] (1), application (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
 > **Prerequisites:** you'll need (1)
@@ -1294,8 +1271,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1305,7 +1281,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/next-steps?u=76281980&t=22)** I glossed over some statistical terms in a way that might make real statisticians cringe.
 >
-> **[0:28](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/next-steps?u=76281980&t=28)** It's worth learning more about some basic statistics if you'll be analyzing surveys.
+> **[0:28](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/next-steps?u=76281980&t=28)** It's worth learning more about some basic [[Statistics]] if you'll be analyzing surveys.
 >
 > **[0:33](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/next-steps?u=76281980&t=33)** Even if you hated statistics in school, I think you'll find that once you have an actual reason to use them, the concepts will become much clearer, and you'll wonder what all the fuss was about.
 >
@@ -1315,9 +1291,9 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/next-steps?u=76281980&t=52)** Part two covers sampling, hypothesis testing, and data distributions, and part three talks about measuring differences with t-tests, among other things.
 >
-> **[1:03](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/next-steps?u=76281980&t=63)** I try to keep this course as general as possible, so it would be useful to you whether you were running a satisfaction survey after a training course, a formative survey for new product development, or a first impressions test for user research.
+> **[1:03](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/next-steps?u=76281980&t=63)** I try to keep this course as general as possible, so it would be useful to you whether you were running a satisfaction survey after a training course, a formative survey for new [[Product Development]], or a first impressions test for user research.
 >
-> **[1:18](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/next-steps?u=76281980&t=78)** If you want to learn more about user research in general, I suggest checking out Amanda Stockwell's courses on UX research, and on interviewing, and my course on usability testing.
+> **[1:18](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/next-steps?u=76281980&t=78)** If you want to learn more about user research in general, I suggest checking out Amanda Stockwell's courses on [[UX Research]], and on [[Interviewing]], and my course on [[Usability Testing]].
 >
 > **[1:30](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/next-steps?u=76281980&t=90)** And now, it's over to you.
 >
@@ -1325,7 +1301,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (3), data (1), [[Product Development]] (1), ux (1), [[Interviewing]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (3), [[Product Development]] (1), [[UX Research]] (1), [[Interviewing]] (1), [[Usability Testing]] (1)
 > **CLI Commands:** make (1), find (1), go run (1)
 > **Speakers:** - surveys (1)
 

@@ -100,18 +100,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning Amazon EC2
-> [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/learning-amazon-ec2?u=76281980)
+#### [Learning Amazon EC2](https://www.linkedin.com/learning/amazon-ec2-essential-training/learning-amazon-ec2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/learning-amazon-ec2?u=76281980&t=0)** - [Shyam] In this course, I'll help you take the first steps to learning Amazon EC2.
+> **[0:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/learning-amazon-ec2?u=76281980&t=0)** - [Shyam] In this course, I'll help you take the first steps to learning [[Amazon EC2]].
 >
 > **[0:04](https://www.linkedin.com/learning/amazon-ec2-essential-training/learning-amazon-ec2?u=76281980&t=4)** I'll teach you not only how to launch, manage and scale your own virtual servers in the AWS Cloud but also equip you with a highly valuable skillset that will open up new career opportunities.
 >
 > **[0:16](https://www.linkedin.com/learning/amazon-ec2-essential-training/learning-amazon-ec2?u=76281980&t=16)** Hi, I'm Shyam Raj.
 >
-> **[0:18](https://www.linkedin.com/learning/amazon-ec2-essential-training/learning-amazon-ec2?u=76281980&t=18)** I'm a technical instructor and industry specialist in cloud computing.
+> **[0:18](https://www.linkedin.com/learning/amazon-ec2-essential-training/learning-amazon-ec2?u=76281980&t=18)** I'm a technical instructor and industry specialist in [[Cloud Computing]].
 >
 > **[0:22](https://www.linkedin.com/learning/amazon-ec2-essential-training/learning-amazon-ec2?u=76281980&t=22)** Join me in this course to discover how Amazon EC2 can benefit you and your business.
 >
@@ -119,25 +118,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2]] (2), cloud (2), aws (1), career (1), business (1)
+> **Frameworks & Libraries:** [[Amazon EC2]] (2), [[Cloud Computing]] (1)
 > **Env Vars:** ec2 (2), aws (1)
 > **CLI Commands:** aws (1)
 > **Speakers:** - [shyam] (1)
 
-#### What is Amazon EC2?
-> [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/what-is-amazon-ec2?u=76281980)
+#### [What is Amazon EC2?](https://www.linkedin.com/learning/amazon-ec2-essential-training/what-is-amazon-ec2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/what-is-amazon-ec2?u=76281980&t=0)** - [Instructor] Let's begin by understanding what is Amazon EC2?
+> **[0:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/what-is-amazon-ec2?u=76281980&t=0)** - [Instructor] Let's begin by understanding what is [[Amazon EC2]]?
 >
 > **[0:04](https://www.linkedin.com/learning/amazon-ec2-essential-training/what-is-amazon-ec2?u=76281980&t=4)** Amazon Elastic Compute Cloud or Amazon EC2 is the compute offering from AWS.
 >
-> **[0:11](https://www.linkedin.com/learning/amazon-ec2-essential-training/what-is-amazon-ec2?u=76281980&t=11)** It provides on-demand, scalable compute capacity in the form of virtual machines.
+> **[0:11](https://www.linkedin.com/learning/amazon-ec2-essential-training/what-is-amazon-ec2?u=76281980&t=11)** It provides on-demand, scalable compute capacity in the form of [[Virtual Machines]].
 >
 > **[0:17](https://www.linkedin.com/learning/amazon-ec2-essential-training/what-is-amazon-ec2?u=76281980&t=17)** Think of virtual machines that you may have installed on your computer.
 >
-> **[0:21](https://www.linkedin.com/learning/amazon-ec2-essential-training/what-is-amazon-ec2?u=76281980&t=21)** Now, move these virtual machines to the AWS cloud and they are known as EC2 instances.
+> **[0:21](https://www.linkedin.com/learning/amazon-ec2-essential-training/what-is-amazon-ec2?u=76281980&t=21)** Now, move these virtual machines to the AWS cloud and they are known as [[Amazon EC2|EC2]] instances.
 >
 > **[0:27](https://www.linkedin.com/learning/amazon-ec2-essential-training/what-is-amazon-ec2?u=76281980&t=27)** So essentially, EC2 instances are virtual machines that you launch in the AWS cloud.
 >
@@ -145,7 +143,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/amazon-ec2-essential-training/what-is-amazon-ec2?u=76281980&t=41)** So when you launch an EC2 instance, you can choose from predefined configurations available for a variety of workloads.
 >
-> **[0:48](https://www.linkedin.com/learning/amazon-ec2-essential-training/what-is-amazon-ec2?u=76281980&t=48)** For example, certain EC2 instance types are preconfigured for specific workloads such as web servers or database servers, while there are others for applications that require low latency, high CPU, high memory, and other requirements.
+> **[0:48](https://www.linkedin.com/learning/amazon-ec2-essential-training/what-is-amazon-ec2?u=76281980&t=48)** For example, certain EC2 instance types are preconfigured for specific workloads such as [[Web Servers]] or database servers, while there are others for applications that require low latency, high CPU, high memory, and other requirements.
 >
 > **[1:04](https://www.linkedin.com/learning/amazon-ec2-essential-training/what-is-amazon-ec2?u=76281980&t=64)** So when you launch an EC2 instance, you can pick from a predefined configuration or you can also customize the configuration.
 >
@@ -153,11 +151,11 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/amazon-ec2-essential-training/what-is-amazon-ec2?u=76281980&t=76)** You can choose a region that is closest to you or you could choose the most cost-effective region or the one that helps you with your compliance requirements.
 >
-> **[1:25](https://www.linkedin.com/learning/amazon-ec2-essential-training/what-is-amazon-ec2?u=76281980&t=85)** The Amazon EC2 service is also referred to as IaaS or infrastructure as a service.
+> **[1:25](https://www.linkedin.com/learning/amazon-ec2-essential-training/what-is-amazon-ec2?u=76281980&t=85)** The Amazon EC2 service is also referred to as [[IaaS]] or [[IaaS|infrastructure as a service]].
 >
 > **[1:32](https://www.linkedin.com/learning/amazon-ec2-essential-training/what-is-amazon-ec2?u=76281980&t=92)** When you create a virtual machine using Amazon EC2, you have complete control over the operating system and the applications running on it.
 >
-> **[1:40](https://www.linkedin.com/learning/amazon-ec2-essential-training/what-is-amazon-ec2?u=76281980&t=100)** You can use the EC2 instance for creating a web server, a database server, or a batch processing server.
+> **[1:40](https://www.linkedin.com/learning/amazon-ec2-essential-training/what-is-amazon-ec2?u=76281980&t=100)** You can use the EC2 instance for creating a web server, a database server, or a [[Batch Processing]] server.
 >
 > **[1:47](https://www.linkedin.com/learning/amazon-ec2-essential-training/what-is-amazon-ec2?u=76281980&t=107)** Since the infrastructure is in your control, you can decide how you want to use it and it is known as infrastructure as a service.
 >
@@ -173,7 +171,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/amazon-ec2-essential-training/what-is-amazon-ec2?u=76281980&t=161)** The first one is low cost.
 >
-> **[2:43](https://www.linkedin.com/learning/amazon-ec2-essential-training/what-is-amazon-ec2?u=76281980&t=163)** Amazon EC2 instances are launched using shared hardware.
+> **[2:43](https://www.linkedin.com/learning/amazon-ec2-essential-training/what-is-amazon-ec2?u=76281980&t=163)** Amazon EC2 instances are launched using shared [[Hardware]].
 >
 > **[2:47](https://www.linkedin.com/learning/amazon-ec2-essential-training/what-is-amazon-ec2?u=76281980&t=167)** In the background, AWS uses physical servers to launch EC2 instances, and the capacity of these physical servers is shared across multiple customers.
 >
@@ -235,7 +233,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (18), [[Amazon EC2]] (11), aws (10), [[Virtual Machines]] (6), database (5)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (18), [[Amazon EC2]] (11), [[Virtual Machines]] (6), [[IaaS|Infrastructure as a service]] (3), [[IaaS]] (2)
 > **Env Vars:** ec2 (29), aws (10), cpu (3), rds (1), ram (1)
 > **CLI Commands:** aws (10), make (1)
 > **Analogies:** such as (4), imagine (2), for example (1)
@@ -244,14 +242,13 @@ created: 2026-05-02
 > **Code Identifiers:** vcpus (1)
 > **Speakers:** - [instructor] (1)
 
-#### AWS Free Tier
-> [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/aws-free-tier?u=76281980)
+#### [AWS Free Tier](https://www.linkedin.com/learning/amazon-ec2-essential-training/aws-free-tier?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/aws-free-tier?u=76281980&t=0)** - [Instructor] Let's now talk about the AWS Free Tier.
 >
-> **[0:03](https://www.linkedin.com/learning/amazon-ec2-essential-training/aws-free-tier?u=76281980&t=3)** The AWS free tier provides free hands-on experience to certain AWS services, such as Amazon EC2, Amazon S3, and others.
+> **[0:03](https://www.linkedin.com/learning/amazon-ec2-essential-training/aws-free-tier?u=76281980&t=3)** The AWS free tier provides free hands-on experience to certain AWS services, such as [[Amazon EC2]], Amazon S3, and others.
 >
 > **[0:13](https://www.linkedin.com/learning/amazon-ec2-essential-training/aws-free-tier?u=76281980&t=13)** For new users, this can be useful, as you can try certain services without being charged.
 >
@@ -265,9 +262,9 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/amazon-ec2-essential-training/aws-free-tier?u=76281980&t=40)** Some services are available for free for the first 12 months, and some services are always free and you can see these by scrolling down.
 >
-> **[0:50](https://www.linkedin.com/learning/amazon-ec2-essential-training/aws-free-tier?u=76281980&t=50)** For example, if you are a new AWS user, you get 750 hours of EC2 per month for free for the first 12 months.
+> **[0:50](https://www.linkedin.com/learning/amazon-ec2-essential-training/aws-free-tier?u=76281980&t=50)** For example, if you are a new AWS user, you get 750 hours of [[Amazon EC2|EC2]] per month for free for the first 12 months.
 >
-> **[1:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/aws-free-tier?u=76281980&t=60)** You also get 5G of storage on Amazon S3 for free for the first 12 months.
+> **[1:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/aws-free-tier?u=76281980&t=60)** You also get [[5G]] of storage on Amazon S3 for free for the first 12 months.
 >
 > **[1:05](https://www.linkedin.com/learning/amazon-ec2-essential-training/aws-free-tier?u=76281980&t=65)** Scrolling down, you can see some more services.
 >
@@ -303,7 +300,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (11), management (3), [[Amazon EC2]] (1), [[Amazon EC2|Ec2]] (1), [[5G]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2]] (1), [[Amazon EC2|Ec2]] (1), [[5G]] (1)
 > **Env Vars:** aws (10), ec2 (2)
 > **CLI Commands:** aws (11)
 > **UI Navigation:** go to (3), navigate to (2), select the (1), scroll down (1)
@@ -312,8 +309,7 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
 
-#### AWS regions and availability zones
-> [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/aws-regions-and-availability-zones?u=76281980)
+#### [AWS regions and availability zones](https://www.linkedin.com/learning/amazon-ec2-essential-training/aws-regions-and-availability-zones?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -329,7 +325,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/amazon-ec2-essential-training/aws-regions-and-availability-zones?u=76281980&t=31)** Each region is designed to be completely isolated from other regions.
 >
-> **[0:35](https://www.linkedin.com/learning/amazon-ec2-essential-training/aws-regions-and-availability-zones?u=76281980&t=35)** For example, let's say you have two EC2 instances in two different AWS regions.
+> **[0:35](https://www.linkedin.com/learning/amazon-ec2-essential-training/aws-regions-and-availability-zones?u=76281980&t=35)** For example, let's say you have two [[Amazon EC2|EC2]] instances in two different AWS regions.
 >
 > **[0:41](https://www.linkedin.com/learning/amazon-ec2-essential-training/aws-regions-and-availability-zones?u=76281980&t=41)** You have an EC2 instance in Ireland, the eu-west-1 region, and you have another EC2 instance in London, the eu-west-2 region.
 >
@@ -367,7 +363,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/amazon-ec2-essential-training/aws-regions-and-availability-zones?u=76281980&t=136)** If there is a failure in one availability zone, you can quickly fail over to another availability zone.
 >
-> **[2:22](https://www.linkedin.com/learning/amazon-ec2-essential-training/aws-regions-and-availability-zones?u=76281980&t=142)** For example, let's say we have a region with two availability zones and inside these availability zones, you have your web servers.
+> **[2:22](https://www.linkedin.com/learning/amazon-ec2-essential-training/aws-regions-and-availability-zones?u=76281980&t=142)** For example, let's say we have a region with two availability zones and inside these availability zones, you have your [[Web Servers]].
 >
 > **[2:31](https://www.linkedin.com/learning/amazon-ec2-essential-training/aws-regions-and-availability-zones?u=76281980&t=151)** Servers 1 is the primary web server and it is running in Availability Zone 1 and Server 2 is secondary and it's running in the second availability zone.
 >
@@ -467,7 +463,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (26), [[Amazon EC2|Ec2]] (13), data (4), web (2), traffic (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (13), [[Web Servers]] (1)
 > **Env Vars:** aws (26), ec2 (13)
 > **CLI Commands:** aws (26), make (1)
 > **UI Navigation:** navigate to (3), dropdown (3), scroll down (2), select the (1), switch to (1)
@@ -476,8 +472,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### AWS Local Zones
-> [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/aws-local-zones?u=76281980)
+#### [AWS Local Zones](https://www.linkedin.com/learning/amazon-ec2-essential-training/aws-local-zones?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -501,7 +496,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/amazon-ec2-essential-training/aws-local-zones?u=76281980&t=54)** It brings core AWS services such as compute, storage, and database close to large population and business centers.
 >
-> **[1:03](https://www.linkedin.com/learning/amazon-ec2-essential-training/aws-local-zones?u=76281980&t=63)** It allows low latency access for use cases such as live streaming, real-time gaming, virtual workstations, and more.
+> **[1:03](https://www.linkedin.com/learning/amazon-ec2-essential-training/aws-local-zones?u=76281980&t=63)** It allows low latency access for use cases such as [[Live Streaming]], [[Real-Time]] gaming, virtual workstations, and more.
 >
 > **[1:11](https://www.linkedin.com/learning/amazon-ec2-essential-training/aws-local-zones?u=76281980&t=71)** It also allows you to comply with state and local data residency requirements in specific sectors such as healthcare, financial services, and government.
 >
@@ -517,7 +512,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/amazon-ec2-essential-training/aws-local-zones?u=76281980&t=118)** Unlike availability zones, local zones are not enabled by default.
 >
-> **[2:03](https://www.linkedin.com/learning/amazon-ec2-essential-training/aws-local-zones?u=76281980&t=123)** So if you'd like to launch an EC2 instance inside a local zone, the local zone first needs to be enabled in your AWS account before you can launch an EC2 instance in it.
+> **[2:03](https://www.linkedin.com/learning/amazon-ec2-essential-training/aws-local-zones?u=76281980&t=123)** So if you'd like to launch an [[Amazon EC2|EC2]] instance inside a local zone, the local zone first needs to be enabled in your AWS account before you can launch an EC2 instance in it.
 >
 > **[2:14](https://www.linkedin.com/learning/amazon-ec2-essential-training/aws-local-zones?u=76281980&t=134)** To enable a local zone, sign in to your AWS management console, and navigate to the EC2 service.
 >
@@ -573,7 +568,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (15), [[Amazon EC2|Ec2]] (7), database (1), business (1), [[Live Streaming]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (7), [[Live Streaming]] (1), [[Real-Time]] (1)
 > **Env Vars:** aws (15), ec2 (7), vpc (1)
 > **CLI Commands:** aws (15), find (2)
 > **Analogies:** for example (4), similar to (3), such as (3)
@@ -582,12 +577,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Prerequisites:** you'll need (1)
 
-#### Picking the right region: Best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/picking-the-right-region-best-practices?u=76281980)
+#### [Picking the right region: Best practices](https://www.linkedin.com/learning/amazon-ec2-essential-training/picking-the-right-region-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/picking-the-right-region-best-practices?u=76281980&t=0)** - [Instructor] With so many regions available to launch an EC2 instance, a common question is how to pick a region.
+> **[0:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/picking-the-right-region-best-practices?u=76281980&t=0)** - [Instructor] With so many regions available to launch an [[Amazon EC2|EC2]] instance, a common question is how to pick a region.
 >
 > **[0:07](https://www.linkedin.com/learning/amazon-ec2-essential-training/picking-the-right-region-best-practices?u=76281980&t=7)** What are the factors to keep in mind when picking a region for your EC2 instance?
 >
@@ -601,7 +595,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/amazon-ec2-essential-training/picking-the-right-region-best-practices?u=76281980&t=41)** Here is the document titled "AWS Regional Services" and it contains a list of all AWS services available in different regions.
 >
-> **[0:49](https://www.linkedin.com/learning/amazon-ec2-essential-training/picking-the-right-region-best-practices?u=76281980&t=49)** Amazon EC2 is probably the most popular AWS service and so it is available in all regions, but the same cannot be said for other AWS services, especially the newer ones.
+> **[0:49](https://www.linkedin.com/learning/amazon-ec2-essential-training/picking-the-right-region-best-practices?u=76281980&t=49)** [[Amazon EC2]] is probably the most popular AWS service and so it is available in all regions, but the same cannot be said for other AWS services, especially the newer ones.
 >
 > **[1:01](https://www.linkedin.com/learning/amazon-ec2-essential-training/picking-the-right-region-best-practices?u=76281980&t=61)** So before you pick a region, it is important to verify that the service is available in the region of your choice.
 >
@@ -613,7 +607,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/amazon-ec2-essential-training/picking-the-right-region-best-practices?u=76281980&t=88)** This document allows you to look up the price of an EC2 instance in different regions.
 >
-> **[1:33](https://www.linkedin.com/learning/amazon-ec2-essential-training/picking-the-right-region-best-practices?u=76281980&t=93)** For example, here, the region is set to US East (Ohio), the operating system is set to Linux, and down here we have the different EC2 instance types.
+> **[1:33](https://www.linkedin.com/learning/amazon-ec2-essential-training/picking-the-right-region-best-practices?u=76281980&t=93)** For example, here, the region is set to US East (Ohio), the operating system is set to [[Linux]], and down here we have the different EC2 instance types.
 >
 > **[1:44](https://www.linkedin.com/learning/amazon-ec2-essential-training/picking-the-right-region-best-practices?u=76281980&t=104)** The instance type determines the configuration of the instance.
 >
@@ -651,7 +645,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/amazon-ec2-essential-training/picking-the-right-region-best-practices?u=76281980&t=206)** For example, if you are a bank in the United Kingdom, you would want your data to be hosted in the country rather than keeping it outside the country, so this is another factor that could influence your region selection.
 >
-> **[3:39](https://www.linkedin.com/learning/amazon-ec2-essential-training/picking-the-right-region-best-practices?u=76281980&t=219)** If you're hosting certain types of data, such as financial data or healthcare data, you may be bound by data residency regulations.
+> **[3:39](https://www.linkedin.com/learning/amazon-ec2-essential-training/picking-the-right-region-best-practices?u=76281980&t=219)** If you're hosting certain types of data, such as [[Financial Data]] or healthcare data, you may be bound by data residency regulations.
 >
 > **[3:47](https://www.linkedin.com/learning/amazon-ec2-essential-training/picking-the-right-region-best-practices?u=76281980&t=227)** Finally, there is another factor to keep in mind which is not region specific but it is about AWS in general, and it is known as service-level agreement.
 >
@@ -673,7 +667,7 @@ created: 2026-05-02
 >
 > **[4:57](https://www.linkedin.com/learning/amazon-ec2-essential-training/picking-the-right-region-best-practices?u=76281980&t=297)** Let's take Route 53 as an example.
 >
-> **[5:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/picking-the-right-region-best-practices?u=76281980&t=300)** Route 53 is a DNS management service from AWS, and its performance is also measured in monthly uptime percentage.
+> **[5:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/picking-the-right-region-best-practices?u=76281980&t=300)** Route 53 is a [[DNS Management]] service from AWS, and its performance is also measured in monthly uptime percentage.
 >
 > **[5:08](https://www.linkedin.com/learning/amazon-ec2-essential-training/picking-the-right-region-best-practices?u=76281980&t=308)** AWS expects to provide 100% uptime for Route 53.
 >
@@ -685,7 +679,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (22), [[Amazon EC2|Ec2]] (7), data (6), [[Amazon EC2]] (4), next (3)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (7), [[Amazon EC2]] (4), [[Linux]] (3), [[Financial Data]] (1), [[DNS Management]] (1)
 > **Env Vars:** aws (22), ec2 (11), ram (1), sla (1), dns (1)
 > **CLI Commands:** aws (22), make (1)
 > **Definitions:** is a  (4), known as (1), is an  (1)
@@ -699,12 +693,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What makes up an EC2 instance?
-> [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/what-makes-up-an-ec2-instance?u=76281980)
+#### [What makes up an EC2 instance?](https://www.linkedin.com/learning/amazon-ec2-essential-training/what-makes-up-an-ec2-instance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/what-makes-up-an-ec2-instance?u=76281980&t=0)** - [Instructor] Let's Understand What Makes Up an EC2 Instance.
+> **[0:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/what-makes-up-an-ec2-instance?u=76281980&t=0)** - [Instructor] Let's Understand What Makes Up an [[Amazon EC2|EC2]] Instance.
 >
 > **[0:04](https://www.linkedin.com/learning/amazon-ec2-essential-training/what-makes-up-an-ec2-instance?u=76281980&t=4)** In this video, we'll identify the components that make up an EC2 instance, and then in the following videos, we'll understand each of those components in detail.
 >
@@ -820,7 +813,7 @@ created: 2026-05-02
 >
 > **[5:51](https://www.linkedin.com/learning/amazon-ec2-essential-training/what-makes-up-an-ec2-instance?u=76281980&t=351)** Next, we have the option to domain join the EC2 instance.
 >
-> **[5:54](https://www.linkedin.com/learning/amazon-ec2-essential-training/what-makes-up-an-ec2-instance?u=76281980&t=354)** This can be useful if you want to join your EC2 instance to a domain like a Microsoft Active Directory domain.
+> **[5:54](https://www.linkedin.com/learning/amazon-ec2-essential-training/what-makes-up-an-ec2-instance?u=76281980&t=354)** This can be useful if you want to join your EC2 instance to a domain like a [[Microsoft]] [[Active Directory]] domain.
 >
 > **[6:01](https://www.linkedin.com/learning/amazon-ec2-essential-training/what-makes-up-an-ec2-instance?u=76281980&t=361)** The next important setting here is IAM instance profile.
 >
@@ -842,7 +835,7 @@ created: 2026-05-02
 >
 > **[7:16](https://www.linkedin.com/learning/amazon-ec2-essential-training/what-makes-up-an-ec2-instance?u=76281980&t=436)** Moving on, there are some other important settings to be aware of, like placement group.
 >
-> **[7:21](https://www.linkedin.com/learning/amazon-ec2-essential-training/what-makes-up-an-ec2-instance?u=76281980&t=441)** By default, when you launch an EC2 instance, you do not have control over how the EC2 instance is placed on the underlying hardware or the underlying physical server.
+> **[7:21](https://www.linkedin.com/learning/amazon-ec2-essential-training/what-makes-up-an-ec2-instance?u=76281980&t=441)** By default, when you launch an EC2 instance, you do not have control over how the EC2 instance is placed on the underlying [[Hardware]] or the underlying physical server.
 >
 > **[7:31](https://www.linkedin.com/learning/amazon-ec2-essential-training/what-makes-up-an-ec2-instance?u=76281980&t=451)** By using placement groups, you can influence this.
 >
@@ -864,7 +857,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (30), next (8), aws (6), [[Security]] (4), traffic (3)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (30), [[Hardware]] (3), [[Microsoft]] (1), [[Active Directory]] (1)
 > **Env Vars:** ec2 (30), vpc (9), aws (6), ami (5), iam (3)
 > **Definitions:** known as (5), is a  (4), is an  (1), in other words (1)
 > **Prerequisites:** configure (11)
@@ -873,12 +866,11 @@ created: 2026-05-02
 > **Code Identifiers:** vcpu (2), vcpus (1)
 > **UI Navigation:** select the (2), dropdown (1)
 
-#### Amazon Machine Image (AMI)
-> [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/amazon-machine-image-ami?u=76281980)
+#### [Amazon Machine Image (AMI)](https://www.linkedin.com/learning/amazon-ec2-essential-training/amazon-machine-image-ami?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/amazon-machine-image-ami?u=76281980&t=0)** - [Instructor] Let's understand the first component that makes up an EC2 instance, known as Amazon Machine Image or AMI.
+> **[0:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/amazon-machine-image-ami?u=76281980&t=0)** - [Instructor] Let's understand the first component that makes up an [[Amazon EC2|EC2]] instance, known as Amazon Machine Image or AMI.
 >
 > **[0:07](https://www.linkedin.com/learning/amazon-ec2-essential-training/amazon-machine-image-ami?u=76281980&t=7)** An AMI is a template that contains information about the operating system and applications that need to be installed on an EC2 instance.
 >
@@ -980,7 +972,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (14), aws (6), cd (3), next (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (14)
 > **Env Vars:** ami (27), ec2 (14), ebs (13), aws (6), dvd (3)
 > **CLI Commands:** aws (6), cd (3), make (1)
 > **Definitions:** known as (2), is a  (2)
@@ -989,8 +981,7 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Exercise Files:** template (1)
 
-#### How to find a pre-defined AMI
-> [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/how-to-find-a-pre-defined-ami?u=76281980)
+#### [How to find a pre-defined AMI](https://www.linkedin.com/learning/amazon-ec2-essential-training/how-to-find-a-pre-defined-ami?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -998,7 +989,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/amazon-ec2-essential-training/how-to-find-a-pre-defined-ami?u=76281980&t=4)** First, let's understand how to select a predefined AMI from the marketplace or from the community.
 >
-> **[0:11](https://www.linkedin.com/learning/amazon-ec2-essential-training/how-to-find-a-pre-defined-ami?u=76281980&t=11)** Once you're logged into the EC2 console, click instances on the left navigation pane, and then click the launch instances button.
+> **[0:11](https://www.linkedin.com/learning/amazon-ec2-essential-training/how-to-find-a-pre-defined-ami?u=76281980&t=11)** Once you're logged into the [[Amazon EC2|EC2]] console, click instances on the left navigation pane, and then click the launch instances button.
 >
 > **[0:20](https://www.linkedin.com/learning/amazon-ec2-essential-training/how-to-find-a-pre-defined-ami?u=76281980&t=20)** Doing so will invoke the EC2 instance launch wizard, and from here you'll be able to select an AMI.
 >
@@ -1030,7 +1021,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3), aws (3), product (1), [[Virtualization]] (1), next (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3)
 > **Env Vars:** ami (13), ec2 (3), aws (3), ebs (1), ena (1)
 > **CLI Commands:** aws (3), find (2)
 > **UI Navigation:** navigate to (1), scroll down (1)
@@ -1038,14 +1029,13 @@ created: 2026-05-02
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to create and restore an AMI
-> [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/how-to-create-and-restore-an-ami?u=76281980)
+#### [How to create and restore an AMI](https://www.linkedin.com/learning/amazon-ec2-essential-training/how-to-create-and-restore-an-ami?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/how-to-create-and-restore-an-ami?u=76281980&t=0)** - [Instructor] Now let's learn how to create a custom AMI.
 >
-> **[0:03](https://www.linkedin.com/learning/amazon-ec2-essential-training/how-to-create-and-restore-an-ami?u=76281980&t=3)** We'll start with a Windows EC2 instance and install IIS, or internet information service, on it.
+> **[0:03](https://www.linkedin.com/learning/amazon-ec2-essential-training/how-to-create-and-restore-an-ami?u=76281980&t=3)** We'll start with a [[Windows]] [[Amazon EC2|EC2]] instance and install IIS, or internet information service, on it.
 >
 > **[0:09](https://www.linkedin.com/learning/amazon-ec2-essential-training/how-to-create-and-restore-an-ami?u=76281980&t=9)** IIS will create a web server on your EC2 instance.
 >
@@ -1061,7 +1051,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/amazon-ec2-essential-training/how-to-create-and-restore-an-ami?u=76281980&t=42)** The exact Windows operating system type does not matter, so feel free to select any Windows AMI.
 >
-> **[0:49](https://www.linkedin.com/learning/amazon-ec2-essential-training/how-to-create-and-restore-an-ami?u=76281980&t=49)** I selected Windows Server 2019 Base AMI.
+> **[0:49](https://www.linkedin.com/learning/amazon-ec2-essential-training/how-to-create-and-restore-an-ami?u=76281980&t=49)** I selected [[Windows Server]] 2019 Base AMI.
 >
 > **[0:53](https://www.linkedin.com/learning/amazon-ec2-essential-training/how-to-create-and-restore-an-ami?u=76281980&t=53)** Then select an instance type.
 >
@@ -1287,7 +1277,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (27), [[Security]] (6), next (6), web (5), aws (5)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (27), [[Windows]] (4), [[Windows Server]] (1)
 > **Env Vars:** ami (60), ec2 (27), iis (11), aws (5), http (3)
 > **UI Navigation:** select the (8), go to (5), dropdown (2)
 > **CLI Commands:** aws (5), make (3)
@@ -1296,12 +1286,11 @@ created: 2026-05-02
 > **Analogies:** such as (1), imagine (1)
 > **Definitions:** is an  (1)
 
-#### EC2 instance types
-> [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/ec2-instance-types?u=76281980)
+#### [EC2 instance types](https://www.linkedin.com/learning/amazon-ec2-essential-training/ec2-instance-types?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/ec2-instance-types?u=76281980&t=0)** - [Instructor] Now let's talk about EC2 instance types.
+> **[0:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/ec2-instance-types?u=76281980&t=0)** - [Instructor] Now let's talk about [[Amazon EC2|EC2]] instance types.
 >
 > **[0:03](https://www.linkedin.com/learning/amazon-ec2-essential-training/ec2-instance-types?u=76281980&t=3)** As we've seen in the previous videos, when you launch an EC2 instance, you must provide an instance type.
 >
@@ -1333,7 +1322,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/amazon-ec2-essential-training/ec2-instance-types?u=76281980&t=81)** The m6i.large instance type has an intel processor, and that is represented with the i attribute.
 >
-> **[1:29](https://www.linkedin.com/learning/amazon-ec2-essential-training/ec2-instance-types?u=76281980&t=89)** The word large represents the instance size.
+> **[1:29](https://www.linkedin.com/learning/amazon-ec2-essential-training/ec2-instance-types?u=76281980&t=89)** The [[Microsoft Word|word]] large represents the instance size.
 >
 > **[1:32](https://www.linkedin.com/learning/amazon-ec2-essential-training/ec2-instance-types?u=76281980&t=92)** In this case, it provides two vCPUs and eight gigs of RAM.
 >
@@ -1359,7 +1348,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/amazon-ec2-essential-training/ec2-instance-types?u=76281980&t=151)** Select any instance family to see more information about it.
 >
-> **[2:35](https://www.linkedin.com/learning/amazon-ec2-essential-training/ec2-instance-types?u=76281980&t=155)** For example, the general purpose instance family is well-suited for web servers and code repositories.
+> **[2:35](https://www.linkedin.com/learning/amazon-ec2-essential-training/ec2-instance-types?u=76281980&t=155)** For example, the general purpose instance family is well-suited for [[Web Servers]] and code repositories.
 >
 > **[2:41](https://www.linkedin.com/learning/amazon-ec2-essential-training/ec2-instance-types?u=76281980&t=161)** Under the general purpose instance family you have several instance types, the most popular ones being T2, T3, M4, and M5.
 >
@@ -1401,7 +1390,7 @@ created: 2026-05-02
 >
 > **[4:49](https://www.linkedin.com/learning/amazon-ec2-essential-training/ec2-instance-types?u=76281980&t=289)** AWS has a tool called Compute Optimizer that analyzes your EC2 usage and provides recommendations about instance types that can best handle the existing workload.
 >
-> **[5:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/ec2-instance-types?u=76281980&t=300)** To discover how you can optimize your EC2 usage using Compute Optimizer, please visit the course titled AWS Cost and Performance Optimization, available in the LinkedIn Learning Library.
+> **[5:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/ec2-instance-types?u=76281980&t=300)** To discover how you can optimize your EC2 usage using Compute Optimizer, please visit the course titled AWS Cost and Performance Optimization, available in the [[LinkedIn]] Learning Library.
 >
 > **[5:12](https://www.linkedin.com/learning/amazon-ec2-essential-training/ec2-instance-types?u=76281980&t=312)** In this course, I also show tools and techniques that you can use to optimize your EC2 costs and improve performance.
 >
@@ -1433,7 +1422,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (13), aws (7), application (4), [[Search]] (3), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (13), [[Microsoft Word|Word]] (1), [[Web Servers]] (1), [[LinkedIn]] (1)
 > **Env Vars:** ec2 (13), aws (7), ram (2), cpu (1), hpc (1)
 > **CLI Commands:** aws (7), find (2)
 > **Analogies:** for example (4), such as (1), for instance (1)
@@ -1442,14 +1431,13 @@ created: 2026-05-02
 > **Definitions:** is an  (1), is a  (1)
 > **Warnings:** be aware (2)
 
-#### Key pairs
-> [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/key-pairs?u=76281980)
+#### [Key pairs](https://www.linkedin.com/learning/amazon-ec2-essential-training/key-pairs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/key-pairs?u=76281980&t=0)** - [Instructor] Now it's time to talk about EC2 key pairs.
+> **[0:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/key-pairs?u=76281980&t=0)** - [Instructor] Now it's time to talk about [[Amazon EC2|EC2]] key pairs.
 >
-> **[0:03](https://www.linkedin.com/learning/amazon-ec2-essential-training/key-pairs?u=76281980&t=3)** Before we understand how key pairs work, it is important to talk about cryptography.
+> **[0:03](https://www.linkedin.com/learning/amazon-ec2-essential-training/key-pairs?u=76281980&t=3)** Before we understand how key pairs work, it is important to talk about [[Cryptography]].
 >
 > **[0:09](https://www.linkedin.com/learning/amazon-ec2-essential-training/key-pairs?u=76281980&t=9)** Cryptography is the technique of transforming data so only intended recipients can process it.
 >
@@ -1505,7 +1493,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/amazon-ec2-essential-training/key-pairs?u=76281980&t=171)** So it is important to keep your key pairs in a secure location.
 >
-> **[2:56](https://www.linkedin.com/learning/amazon-ec2-essential-training/key-pairs?u=76281980&t=176)** For Windows instances, the key pair can be used to decrypt the password, and for Linux instances, the key pair can be used to directly log in using the SSH command.
+> **[2:56](https://www.linkedin.com/learning/amazon-ec2-essential-training/key-pairs?u=76281980&t=176)** For [[Windows]] instances, the key pair can be used to decrypt the password, and for [[Linux]] instances, the key pair can be used to directly log in using the SSH command.
 >
 > **[3:07](https://www.linkedin.com/learning/amazon-ec2-essential-training/key-pairs?u=76281980&t=187)** Now let's go to the AWS console and look at key pairs.
 >
@@ -1575,7 +1563,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (12), data (7), [[Windows]] (6), [[Cryptography]] (5), [[Linux]] (5)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (12), [[Windows]] (6), [[Cryptography]] (5), [[Linux]] (5)
 > **Env Vars:** ec2 (12), aws (4), ssh (2), ami (1), pem (1)
 > **CLI Commands:** aws (4), ssh (2), make (1)
 > **Definitions:** is an  (2), in other words (2), is called (2), is a  (1)
@@ -1584,8 +1572,7 @@ created: 2026-05-02
 > **Tools:** aws console (1)
 > **Exercise Files:** download the (1)
 
-#### VPC and subnets
-> [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/vpc-and-subnets?u=76281980)
+#### [VPC and subnets](https://www.linkedin.com/learning/amazon-ec2-essential-training/vpc-and-subnets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1645,7 +1632,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/amazon-ec2-essential-training/vpc-and-subnets?u=76281980&t=189)** Now let's see this from the AWS console.
 >
-> **[3:13](https://www.linkedin.com/learning/amazon-ec2-essential-training/vpc-and-subnets?u=76281980&t=193)** Once you're in the EC2 console, you can select a VPC when you're launching an EC2 instance.
+> **[3:13](https://www.linkedin.com/learning/amazon-ec2-essential-training/vpc-and-subnets?u=76281980&t=193)** Once you're in the [[Amazon EC2|EC2]] console, you can select a VPC when you're launching an EC2 instance.
 >
 > **[3:20](https://www.linkedin.com/learning/amazon-ec2-essential-training/vpc-and-subnets?u=76281980&t=200)** Once you're in the EC2 instance launch wizard scroll down to the Network Settings section.
 >
@@ -1719,7 +1706,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (8), traffic (8), cloud (3), [[Amazon EC2|Ec2]] (3)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3)
 > **Env Vars:** vpc (53), aws (8), ec2 (3)
 > **Analogies:** for example (8), such as (1)
 > **CLI Commands:** aws (8)
@@ -1728,12 +1715,11 @@ created: 2026-05-02
 > **Versions:** 172.31.0 (3), 10.0.0 (1), 10.1.0 (1)
 > **Tools:** aws console (1)
 
-#### Security groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/security-groups?u=76281980)
+#### [Security groups](https://www.linkedin.com/learning/amazon-ec2-essential-training/security-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/security-groups?u=76281980&t=0)** - [Shyam] Now let's talk about an important feature of EC2 instances known as security groups.
+> **[0:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/security-groups?u=76281980&t=0)** - [Shyam] Now let's talk about an important feature of [[Amazon EC2|EC2]] instances known as security groups.
 >
 > **[0:05](https://www.linkedin.com/learning/amazon-ec2-essential-training/security-groups?u=76281980&t=5)** A security group is like a virtual firewall that controls inbound and outbound traffic for your EC2 instance.
 >
@@ -1791,7 +1777,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (20), traffic (15), [[Amazon EC2|Ec2]] (6), feature (1), next (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (6)
 > **Env Vars:** ec2 (6)
 > **Prerequisites:** configure (4)
 > **Definitions:** is an  (2), known as (1)
@@ -1800,14 +1786,13 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [shyam] (1)
 
-#### Demo: Security groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/demo-security-groups?u=76281980)
+#### [Demo: Security groups](https://www.linkedin.com/learning/amazon-ec2-essential-training/demo-security-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/demo-security-groups?u=76281980&t=0)** - Now let's understand how to configure security groups.
 >
-> **[0:03](https://www.linkedin.com/learning/amazon-ec2-essential-training/demo-security-groups?u=76281980&t=3)** You can configure a security group when you're launching an EC2 instance.
+> **[0:03](https://www.linkedin.com/learning/amazon-ec2-essential-training/demo-security-groups?u=76281980&t=3)** You can configure a security group when you're launching an [[Amazon EC2|EC2]] instance.
 >
 > **[0:08](https://www.linkedin.com/learning/amazon-ec2-essential-training/demo-security-groups?u=76281980&t=8)** Once you're logged into the EC2 console, click the launch instances button.
 >
@@ -1909,7 +1894,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (32), [[Amazon EC2|Ec2]] (10), traffic (10), dns (1), aws (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (10)
 > **Env Vars:** ec2 (10), http (3), vpc (3), icmp (2), ssh (1)
 > **Prerequisites:** configure (8)
 > **UI Navigation:** go to (3), select the (2), scroll down (1), navigate to (1)
@@ -1918,12 +1903,11 @@ created: 2026-05-02
 > **Ports:** port 80 (1)
 > **Analogies:** such as (1)
 
-#### EBS volumes
-> [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/ebs-volumes?u=76281980)
+#### [EBS volumes](https://www.linkedin.com/learning/amazon-ec2-essential-training/ebs-volumes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/ebs-volumes?u=76281980&t=0)** - [Instructor] Another important component of EC2 instances is EBS volumes.
+> **[0:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/ebs-volumes?u=76281980&t=0)** - [Instructor] Another important component of [[Amazon EC2|EC2]] instances is EBS volumes.
 >
 > **[0:05](https://www.linkedin.com/learning/amazon-ec2-essential-training/ebs-volumes?u=76281980&t=5)** EBS volumes, or Elastic Block Store volumes, are a block-level storage for use with EC2 instances.
 >
@@ -1947,7 +1931,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/amazon-ec2-essential-training/ebs-volumes?u=76281980&t=57)** There is an exception to this and that is the Provisioned IOPS volume type but for all other volume types, an EBS volume can only be attached to a single EC2 instance.
 >
-> **[1:09](https://www.linkedin.com/learning/amazon-ec2-essential-training/ebs-volumes?u=76281980&t=69)** EBS volumes are well-suited for use as primary storage for file systems, databases, or applications that require granular updates.
+> **[1:09](https://www.linkedin.com/learning/amazon-ec2-essential-training/ebs-volumes?u=76281980&t=69)** EBS volumes are well-suited for use as primary storage for file systems, [[Databases]], or applications that require granular updates.
 >
 > **[1:19](https://www.linkedin.com/learning/amazon-ec2-essential-training/ebs-volumes?u=76281980&t=79)** To attach an EBS volume to an EC2 instance, they must be in the same availability zone.
 >
@@ -1991,7 +1975,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/amazon-ec2-essential-training/ebs-volumes?u=76281980&t=187)** Provisioned IOPS volumes are the highest performing EBS volumes.
 >
-> **[3:12](https://www.linkedin.com/learning/amazon-ec2-essential-training/ebs-volumes?u=76281980&t=192)** They are suitable for workloads that require low latency such as IO-intensive NoSQL and relational databases.
+> **[3:12](https://www.linkedin.com/learning/amazon-ec2-essential-training/ebs-volumes?u=76281980&t=192)** They are suitable for workloads that require low latency such as IO-intensive [[NoSQL]] and [[Relational Databases]].
 >
 > **[3:19](https://www.linkedin.com/learning/amazon-ec2-essential-training/ebs-volumes?u=76281980&t=199)** Provisioned IOPS volumes support multi-attach.
 >
@@ -2017,7 +2001,7 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/amazon-ec2-essential-training/ebs-volumes?u=76281980&t=261)** Cold HDD volumes are low-cost volumes suitable for large sequential workloads.
 >
-> **[4:27](https://www.linkedin.com/learning/amazon-ec2-essential-training/ebs-volumes?u=76281980&t=267)** They are designed to support infrequently accessed data such as big data workloads, log processing, and Windows File Servers.
+> **[4:27](https://www.linkedin.com/learning/amazon-ec2-essential-training/ebs-volumes?u=76281980&t=267)** They are designed to support infrequently accessed data such as [[Big Data]] workloads, log processing, and [[Windows]] File Servers.
 >
 > **[4:36](https://www.linkedin.com/learning/amazon-ec2-essential-training/ebs-volumes?u=76281980&t=276)** The last EBS volume type is magnetic volumes.
 >
@@ -2035,7 +2019,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (11), data (6), [[Databases]] (3), [[NoSQL]] (1), [[Relational Databases]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (11), [[Databases]] (3), [[NoSQL]] (1), [[Relational Databases]] (1), [[Big Data]] (1)
 > **Env Vars:** ebs (22), ec2 (11), hdd (8), ssd (7), iops (6)
 > **Definitions:** known as (4), is a  (2), refers to (2), is an  (1)
 > **Analogies:** such as (4), just like (1), for example (1)
@@ -2044,14 +2028,13 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** configure (1)
 
-#### Demo: EBS volumes
-> [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/demo-ebs-volumes?u=76281980)
+#### [Demo: EBS volumes](https://www.linkedin.com/learning/amazon-ec2-essential-training/demo-ebs-volumes?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/demo-ebs-volumes?u=76281980&t=0)** - [Instructor] Now let's understand how to configure EBS volumes.
 >
-> **[0:03](https://www.linkedin.com/learning/amazon-ec2-essential-training/demo-ebs-volumes?u=76281980&t=3)** You can configure an EBS volume when you're launching an EC2 instance.
+> **[0:03](https://www.linkedin.com/learning/amazon-ec2-essential-training/demo-ebs-volumes?u=76281980&t=3)** You can configure an EBS volume when you're launching an [[Amazon EC2|EC2]] instance.
 >
 > **[0:08](https://www.linkedin.com/learning/amazon-ec2-essential-training/demo-ebs-volumes?u=76281980&t=8)** Let's do that.
 >
@@ -2063,9 +2046,9 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/amazon-ec2-essential-training/demo-ebs-volumes?u=76281980&t=24)** The size depends on the selected AMI.
 >
-> **[0:27](https://www.linkedin.com/learning/amazon-ec2-essential-training/demo-ebs-volumes?u=76281980&t=27)** By default, AWS selects the Amazon Linux AMI which requires a minimum of eight gigs, but the size will change if you change the AMI.
+> **[0:27](https://www.linkedin.com/learning/amazon-ec2-essential-training/demo-ebs-volumes?u=76281980&t=27)** By default, AWS selects the Amazon [[Linux]] AMI which requires a minimum of eight gigs, but the size will change if you change the AMI.
 >
-> **[0:36](https://www.linkedin.com/learning/amazon-ec2-essential-training/demo-ebs-volumes?u=76281980&t=36)** For example, if you select a Windows AMI, it requires a minimum of 30 gigs.
+> **[0:36](https://www.linkedin.com/learning/amazon-ec2-essential-training/demo-ebs-volumes?u=76281980&t=36)** For example, if you select a [[Windows]] AMI, it requires a minimum of 30 gigs.
 >
 > **[0:43](https://www.linkedin.com/learning/amazon-ec2-essential-training/demo-ebs-volumes?u=76281980&t=43)** To see additional configuration options, click Advanced.
 >
@@ -2221,7 +2204,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (19), next (5), aws (3), [[Windows]] (3), [[Linux]] (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (19), [[Windows]] (3), [[Linux]] (2)
 > **Env Vars:** ec2 (19), ebs (17), hdd (6), ami (4), aws (3)
 > **UI Navigation:** select the (7), scroll down (1), go to (1), click on (1)
 > **Prerequisites:** configure (4), you'll need (1)
@@ -2230,12 +2213,11 @@ created: 2026-05-02
 > **Cross-References:** in the last (1), go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Advanced launch options: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/advanced-launch-options-part-1?u=76281980)
+#### [Advanced launch options: Part 1](https://www.linkedin.com/learning/amazon-ec2-essential-training/advanced-launch-options-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/advanced-launch-options-part-1?u=76281980&t=0)** - [Instructor] Now let's talk about the advanced options you can configure when launching an EC2 instance.
+> **[0:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/advanced-launch-options-part-1?u=76281980&t=0)** - [Instructor] Now let's talk about the advanced options you can configure when launching an [[Amazon EC2|EC2]] instance.
 >
 > **[0:05](https://www.linkedin.com/learning/amazon-ec2-essential-training/advanced-launch-options-part-1?u=76281980&t=5)** These options are available in the EC2 instance Launch Wizard.
 >
@@ -2271,7 +2253,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/amazon-ec2-essential-training/advanced-launch-options-part-1?u=76281980&t=88)** This option allows you to join your EC2 instance to a directory defined in the AWS directory service.
 >
-> **[1:35](https://www.linkedin.com/learning/amazon-ec2-essential-training/advanced-launch-options-part-1?u=76281980&t=95)** The AWS directory service allows you to create a Microsoft active directory in the AWS cloud.
+> **[1:35](https://www.linkedin.com/learning/amazon-ec2-essential-training/advanced-launch-options-part-1?u=76281980&t=95)** The AWS directory service allows you to create a [[Microsoft]] [[Active Directory]] in the AWS cloud.
 >
 > **[1:41](https://www.linkedin.com/learning/amazon-ec2-essential-training/advanced-launch-options-part-1?u=76281980&t=101)** The next option is IAM instance profile.
 >
@@ -2377,7 +2359,7 @@ created: 2026-05-02
 >
 > **[7:08](https://www.linkedin.com/learning/amazon-ec2-essential-training/advanced-launch-options-part-1?u=76281980&t=428)** With this option, your EC2 instance will be automatically recovered if it fails any of the system status checks.
 >
-> **[7:15](https://www.linkedin.com/learning/amazon-ec2-essential-training/advanced-launch-options-part-1?u=76281980&t=435)** An instance becomes unreachable when the underlying physical hardware fails, or if there is a problem that requires AWS involvement to repair.
+> **[7:15](https://www.linkedin.com/learning/amazon-ec2-essential-training/advanced-launch-options-part-1?u=76281980&t=435)** An instance becomes unreachable when the underlying physical [[Hardware]] fails, or if there is a problem that requires AWS involvement to repair.
 >
 > **[7:24](https://www.linkedin.com/learning/amazon-ec2-essential-training/advanced-launch-options-part-1?u=76281980&t=444)** In such situations, the instance is automatically recovered.
 >
@@ -2387,7 +2369,7 @@ created: 2026-05-02
 >
 > **[7:40](https://www.linkedin.com/learning/amazon-ec2-essential-training/advanced-launch-options-part-1?u=76281980&t=460)** Will the EC2 instance stop or terminate when you shut down the instance from within the operating system?
 >
-> **[7:47](https://www.linkedin.com/learning/amazon-ec2-essential-training/advanced-launch-options-part-1?u=76281980&t=467)** For example, when you click the start menu in a Windows computer and issue the shutdown command.
+> **[7:47](https://www.linkedin.com/learning/amazon-ec2-essential-training/advanced-launch-options-part-1?u=76281980&t=467)** For example, when you click the start menu in a [[Windows]] computer and issue the shutdown command.
 >
 > **[7:53](https://www.linkedin.com/learning/amazon-ec2-essential-training/advanced-launch-options-part-1?u=76281980&t=473)** The next option is about hibernate behavior.
 >
@@ -2435,7 +2417,7 @@ created: 2026-05-02
 >
 > **[9:53](https://www.linkedin.com/learning/amazon-ec2-essential-training/advanced-launch-options-part-1?u=76281980&t=593)** The next option is Elastic Inference.
 >
-> **[9:55](https://www.linkedin.com/learning/amazon-ec2-essential-training/advanced-launch-options-part-1?u=76281980&t=595)** This option allows you to add accelerators for deep learning inference workloads and these are available in different sizes.
+> **[9:55](https://www.linkedin.com/learning/amazon-ec2-essential-training/advanced-launch-options-part-1?u=76281980&t=595)** This option allows you to add accelerators for [[Deep Learning]] inference workloads and these are available in different sizes.
 >
 > **[10:04](https://www.linkedin.com/learning/amazon-ec2-essential-training/advanced-launch-options-part-1?u=76281980&t=604)** You can select the type of accelerator and here, you can see the associated memory.
 >
@@ -2443,7 +2425,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (32), next (12), aws (8), dns (5), [[Windows]] (4)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (32), [[Windows]] (4), [[Microsoft]] (1), [[Active Directory]] (1), [[Hardware]] (1)
 > **Env Vars:** ec2 (27), aws (8), dns (5), iam (3), gpu (2)
 > **CLI Commands:** aws (8), find (1)
 > **Definitions:** is a  (3), is an  (2), known as (1)
@@ -2452,8 +2434,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (4)
 > **Cross-References:** in the next (1)
 
-#### Advanced launch options: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/advanced-launch-options-part-2?u=76281980)
+#### [Advanced launch options: Part 2](https://www.linkedin.com/learning/amazon-ec2-essential-training/advanced-launch-options-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2467,7 +2448,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/amazon-ec2-essential-training/advanced-launch-options-part-2?u=76281980&t=29)** These instances belong to the general purpose instance family, and they're designed for workloads that do not consistently need high CPU performance.
 >
-> **[0:38](https://www.linkedin.com/learning/amazon-ec2-essential-training/advanced-launch-options-part-2?u=76281980&t=38)** Examples include web servers and small databases that have a fairly average utilization and do not consistently need high CPU.
+> **[0:38](https://www.linkedin.com/learning/amazon-ec2-essential-training/advanced-launch-options-part-2?u=76281980&t=38)** Examples include [[Web Servers]] and small [[Databases]] that have a fairly average utilization and do not consistently need high CPU.
 >
 > **[0:47](https://www.linkedin.com/learning/amazon-ec2-essential-training/advanced-launch-options-part-2?u=76281980&t=47)** They're called burstable instances because they provide a baseline level of CPU performance with the ability to burst above the baseline if required.
 >
@@ -2497,7 +2478,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/amazon-ec2-essential-training/advanced-launch-options-part-2?u=76281980&t=155)** When its performance falls below the baseline it uses the credits it earns to pay down the surplus it borrowed.
 >
-> **[2:42](https://www.linkedin.com/learning/amazon-ec2-essential-training/advanced-launch-options-part-2?u=76281980&t=162)** This mechanism allows the EC2 service to average the CPU utilization over a 24 hour period.
+> **[2:42](https://www.linkedin.com/learning/amazon-ec2-essential-training/advanced-launch-options-part-2?u=76281980&t=162)** This mechanism allows the [[Amazon EC2|EC2]] service to average the CPU utilization over a 24 hour period.
 >
 > **[2:50](https://www.linkedin.com/learning/amazon-ec2-essential-training/advanced-launch-options-part-2?u=76281980&t=170)** If the 24 hour average is above the baseline, additional charges are applied.
 >
@@ -2507,7 +2488,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/amazon-ec2-essential-training/advanced-launch-options-part-2?u=76281980&t=195)** The next setting is placement group.
 >
-> **[3:18](https://www.linkedin.com/learning/amazon-ec2-essential-training/advanced-launch-options-part-2?u=76281980&t=198)** This setting allows you to influence the placement of instances on the underlying hardware.
+> **[3:18](https://www.linkedin.com/learning/amazon-ec2-essential-training/advanced-launch-options-part-2?u=76281980&t=198)** This setting allows you to influence the placement of instances on the underlying [[Hardware]].
 >
 > **[3:23](https://www.linkedin.com/learning/amazon-ec2-essential-training/advanced-launch-options-part-2?u=76281980&t=203)** Normally, when you launch multiple EC2 instances, you are not telling AWS how they should be placed on the underlying hardware, but with placement groups you can tell AWS to place your instances close to each other in a single availability zone to achieve low latency or to spread your instances across the underlying hardware to reduce correlated failures.
 >
@@ -2567,13 +2548,13 @@ created: 2026-05-02
 >
 > **[6:30](https://www.linkedin.com/learning/amazon-ec2-essential-training/advanced-launch-options-part-2?u=76281980&t=390)** The next option is license configuration.
 >
-> **[6:33](https://www.linkedin.com/learning/amazon-ec2-essential-training/advanced-launch-options-part-2?u=76281980&t=393)** AWS has a tool called License Manager that allows you to manage software licenses for products such as Microsoft and Oracle.
+> **[6:33](https://www.linkedin.com/learning/amazon-ec2-essential-training/advanced-launch-options-part-2?u=76281980&t=393)** AWS has a tool called License Manager that allows you to manage software licenses for [[Microsoft Products|products]] such as [[Microsoft]] and Oracle.
 >
 > **[6:41](https://www.linkedin.com/learning/amazon-ec2-essential-training/advanced-launch-options-part-2?u=76281980&t=401)** Customers use it to track and control license usage.
 >
 > **[6:45](https://www.linkedin.com/learning/amazon-ec2-essential-training/advanced-launch-options-part-2?u=76281980&t=405)** The license manager configuration can be associated here to manage licenses for software running on your EC2 instance.
 >
-> **[6:53](https://www.linkedin.com/learning/amazon-ec2-essential-training/advanced-launch-options-part-2?u=76281980&t=413)** The next few options relate to EC2 metadata.
+> **[6:53](https://www.linkedin.com/learning/amazon-ec2-essential-training/advanced-launch-options-part-2?u=76281980&t=413)** The next few options relate to EC2 [[Metadata]].
 >
 > **[6:56](https://www.linkedin.com/learning/amazon-ec2-essential-training/advanced-launch-options-part-2?u=76281980&t=416)** EC2 metadata is data about your EC2 instance.
 >
@@ -2587,7 +2568,7 @@ created: 2026-05-02
 >
 > **[7:28](https://www.linkedin.com/learning/amazon-ec2-essential-training/advanced-launch-options-part-2?u=76281980&t=448)** The next option is metadata response hop limit, hop limit only applies if you use metadata version two.
 >
-> **[7:36](https://www.linkedin.com/learning/amazon-ec2-essential-training/advanced-launch-options-part-2?u=76281980&t=456)** Version two uses a token based authentication and it uses session tokens that determine how long a session can last.
+> **[7:36](https://www.linkedin.com/learning/amazon-ec2-essential-training/advanced-launch-options-part-2?u=76281980&t=456)** Version two uses a token based authentication and it uses session [[Tokens]] that determine how long a session can last.
 >
 > **[7:45](https://www.linkedin.com/learning/amazon-ec2-essential-training/advanced-launch-options-part-2?u=76281980&t=465)** When creating a session token, the hop limit, also known as TTL, or time to live is set to one by default.
 >
@@ -2615,7 +2596,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (20), next (11), [[Metadata]] (10), aws (7), [[Hardware]] (6)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (20), [[Metadata]] (10), [[Hardware]] (6), [[Web Servers]] (1), [[Databases]] (1)
 > **Env Vars:** ec2 (20), cpu (13), aws (7), ebs (6), ram (6)
 > **CLI Commands:** aws (7), make (1)
 > **Analogies:** such as (4), for example (2), imagine (1), just like (1)
@@ -2624,12 +2605,11 @@ created: 2026-05-02
 > **Code Identifiers:** vcpu (2)
 > **Warnings:** be aware (2)
 
-#### EC2 user data
-> [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/ec2-user-data?u=76281980)
+#### [EC2 user data](https://www.linkedin.com/learning/amazon-ec2-essential-training/ec2-user-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/amazon-ec2-essential-training/ec2-user-data?u=76281980&t=1)** - [Instructor] Now let's talk about EC2 user data.
+> **[0:01](https://www.linkedin.com/learning/amazon-ec2-essential-training/ec2-user-data?u=76281980&t=1)** - [Instructor] Now let's talk about [[Amazon EC2|EC2]] user data.
 >
 > **[0:04](https://www.linkedin.com/learning/amazon-ec2-essential-training/ec2-user-data?u=76281980&t=4)** User data can be used to run scripts at instance startup.
 >
@@ -2639,13 +2619,13 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/amazon-ec2-essential-training/ec2-user-data?u=76281980&t=19)** User data can be used to configure common tasks such as updating packages on the instance, installing a web server at launch time, installing an agent, backing up logs, and updating device configuration.
 >
-> **[0:33](https://www.linkedin.com/learning/amazon-ec2-essential-training/ec2-user-data?u=76281980&t=33)** When configuring user data on Linux AMIs, it can be in the form of shell scripts or cloud init directives.
+> **[0:33](https://www.linkedin.com/learning/amazon-ec2-essential-training/ec2-user-data?u=76281980&t=33)** When configuring user data on [[Linux]] AMIs, it can be in the form of shell scripts or cloud init directives.
 >
 > **[0:40](https://www.linkedin.com/learning/amazon-ec2-essential-training/ec2-user-data?u=76281980&t=40)** Shell scripts are run by the shell, which is the command line interpreter.
 >
 > **[0:45](https://www.linkedin.com/learning/amazon-ec2-essential-training/ec2-user-data?u=76281980&t=45)** Cloud Init is a package that allows you to initialize and configure cloud instances, such as EC2 instances.
 >
-> **[0:52](https://www.linkedin.com/learning/amazon-ec2-essential-training/ec2-user-data?u=76281980&t=52)** It is an open source package and it is also used to configure virtual machines of other cloud computing providers.
+> **[0:52](https://www.linkedin.com/learning/amazon-ec2-essential-training/ec2-user-data?u=76281980&t=52)** It is an open source package and it is also used to configure [[Virtual Machines]] of other [[Cloud Computing]] providers.
 >
 > **[0:59](https://www.linkedin.com/learning/amazon-ec2-essential-training/ec2-user-data?u=76281980&t=59)** Cloud Init is commonly preferred for complex configuration involving multiple tasks.
 >
@@ -2655,7 +2635,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/amazon-ec2-essential-training/ec2-user-data?u=76281980&t=82)** User data on Linux AMIs is executed as the root user so you do not need to include sudo in your commands.
 >
-> **[1:30](https://www.linkedin.com/learning/amazon-ec2-essential-training/ec2-user-data?u=76281980&t=90)** When configuring user data on Windows AMIs, it can be provided as batch commands or as PowerShell commands.
+> **[1:30](https://www.linkedin.com/learning/amazon-ec2-essential-training/ec2-user-data?u=76281980&t=90)** When configuring user data on [[Windows]] AMIs, it can be provided as batch commands or as [[Powershell]] commands.
 >
 > **[1:37](https://www.linkedin.com/learning/amazon-ec2-essential-training/ec2-user-data?u=76281980&t=97)** And the user data must be enclosed within a tag.
 >
@@ -2697,7 +2677,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/amazon-ec2-essential-training/ec2-user-data?u=76281980&t=201)** The next command that is Start-Service, starts the Windows process activation service which is responsible for handling HTTP requests.
 >
-> **[3:30](https://www.linkedin.com/learning/amazon-ec2-essential-training/ec2-user-data?u=76281980&t=210)** The next command creates a file called index.html in the required path.
+> **[3:30](https://www.linkedin.com/learning/amazon-ec2-essential-training/ec2-user-data?u=76281980&t=210)** The next command creates a file called index.[[HTML]] in the required path.
 >
 > **[3:35](https://www.linkedin.com/learning/amazon-ec2-essential-training/ec2-user-data?u=76281980&t=215)** This is the default directory of the web server and the next command sets the content of the index.html file.
 >
@@ -2779,7 +2759,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), next (13), [[Amazon EC2|Ec2]] (12), web (12), [[Linux]] (12)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (12), [[Linux]] (12), [[Windows]] (9), [[HTML]] (7), [[Powershell]] (6)
 > **Env Vars:** ec2 (12), ami (4), html (4), dns (3), http (2)
 > **Prerequisites:** install (6), configure (4)
 > **Tools:** powershell (6), command line (1)
@@ -2788,14 +2768,13 @@ created: 2026-05-02
 > **Analogies:** such as (3), imagine (1)
 > **File Paths:** index.html (3)
 
-#### Connect to your EC2 instance
-> [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/connect-to-your-ec2-instance?u=76281980)
+#### [Connect to your EC2 instance](https://www.linkedin.com/learning/amazon-ec2-essential-training/connect-to-your-ec2-instance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/connect-to-your-ec2-instance?u=76281980&t=0)** - [Instructor] Now let's understand how to connect to an EC2 instance.
+> **[0:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/connect-to-your-ec2-instance?u=76281980&t=0)** - [Instructor] Now let's understand how to connect to an [[Amazon EC2|EC2]] instance.
 >
-> **[0:03](https://www.linkedin.com/learning/amazon-ec2-essential-training/connect-to-your-ec2-instance?u=76281980&t=3)** We're going to connect to two types of EC2 instances: a Windows and a Linux EC2 instance.
+> **[0:03](https://www.linkedin.com/learning/amazon-ec2-essential-training/connect-to-your-ec2-instance?u=76281980&t=3)** We're going to connect to two types of EC2 instances: a [[Windows]] and a [[Linux]] EC2 instance.
 >
 > **[0:09](https://www.linkedin.com/learning/amazon-ec2-essential-training/connect-to-your-ec2-instance?u=76281980&t=9)** To follow along this video, you will need to launch two instances: a Windows and a Linux instance.
 >
@@ -2921,7 +2900,7 @@ created: 2026-05-02
 >
 > **[5:10](https://www.linkedin.com/learning/amazon-ec2-essential-training/connect-to-your-ec2-instance?u=76281980&t=310)** For Amazon Linux AMI, the username is ec2-user.
 >
-> **[5:15](https://www.linkedin.com/learning/amazon-ec2-essential-training/connect-to-your-ec2-instance?u=76281980&t=315)** If you're connecting to any other Linux AMI, such as Ubuntu or CentOS, the username is different, and you'll find this in the AWS documentation.
+> **[5:15](https://www.linkedin.com/learning/amazon-ec2-essential-training/connect-to-your-ec2-instance?u=76281980&t=315)** If you're connecting to any other Linux AMI, such as [[Ubuntu]] or CentOS, the username is different, and you'll find this in the AWS documentation.
 >
 > **[5:24](https://www.linkedin.com/learning/amazon-ec2-essential-training/connect-to-your-ec2-instance?u=76281980&t=324)** So provide your username and press enter and you'll be logged into your EC2 instance.
 >
@@ -3037,7 +3016,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (43), [[Linux]] (31), [[Windows]] (21), [[Security]] (4), aws (3)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (43), [[Linux]] (31), [[Windows]] (21), [[Ubuntu]] (2)
 > **Env Vars:** ec2 (39), ppk (8), pem (7), ssh (5), ami (4)
 > **CLI Commands:** ssh (8), aws (3), find (1), cd (1), chmod (1)
 > **UI Navigation:** navigate to (4), select the (4), switch to (1), open the (1), go to (1)
@@ -3046,12 +3025,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **Warnings:** warning (2)
 
-#### Navigating the EC2 console
-> [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/navigating-the-ec2-console?u=76281980)
+#### [Navigating the EC2 console](https://www.linkedin.com/learning/amazon-ec2-essential-training/navigating-the-ec2-console?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/navigating-the-ec2-console?u=76281980&t=0)** - [Instructor] Now let's look at some important information available on the EC2 console, and some of the actions you can perform from here.
+> **[0:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/navigating-the-ec2-console?u=76281980&t=0)** - [Instructor] Now let's look at some important information available on the [[Amazon EC2|EC2]] console, and some of the actions you can perform from here.
 >
 > **[0:07](https://www.linkedin.com/learning/amazon-ec2-essential-training/navigating-the-ec2-console?u=76281980&t=7)** Once you're in the EC2 console, select a running EC2 instance and navigate to the Details tab.
 >
@@ -3079,7 +3057,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/amazon-ec2-essential-training/navigating-the-ec2-console?u=76281980&t=123)** System status checks are used by AWS to monitor the underlying system on which the EC2 instance runs.
 >
-> **[2:10](https://www.linkedin.com/learning/amazon-ec2-essential-training/navigating-the-ec2-console?u=76281980&t=130)** It detects problems with the underlying hardware that require AWS involvement to repair.
+> **[2:10](https://www.linkedin.com/learning/amazon-ec2-essential-training/navigating-the-ec2-console?u=76281980&t=130)** It detects problems with the underlying [[Hardware]] that require AWS involvement to repair.
 >
 > **[2:16](https://www.linkedin.com/learning/amazon-ec2-essential-training/navigating-the-ec2-console?u=76281980&t=136)** Examples of these problems include loss of power, network connectivity, and software or hardware issues on the physical host on which the EC2 instance is running.
 >
@@ -3107,7 +3085,7 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/amazon-ec2-essential-training/navigating-the-ec2-console?u=76281980&t=239)** So with the EC2 instance selected, click the Connect button, and under SSH client, you will see the command that you need to use to log in to the EC2 instance.
 >
-> **[4:09](https://www.linkedin.com/learning/amazon-ec2-essential-training/navigating-the-ec2-console?u=76281980&t=249)** In case of Linux instances, you can also log in directly from the browser using EC2 Instance Connect.
+> **[4:09](https://www.linkedin.com/learning/amazon-ec2-essential-training/navigating-the-ec2-console?u=76281980&t=249)** In case of [[Linux]] instances, you can also log in directly from the browser using EC2 Instance Connect.
 >
 > **[4:16](https://www.linkedin.com/learning/amazon-ec2-essential-training/navigating-the-ec2-console?u=76281980&t=256)** We talked about this in a previous video.
 >
@@ -3135,9 +3113,9 @@ created: 2026-05-02
 >
 > **[5:17](https://www.linkedin.com/learning/amazon-ec2-essential-training/navigating-the-ec2-console?u=76281980&t=317)** Auto Scaling is a feature of AWS that allows you to build scalable applications in the AWS cloud.
 >
-> **[5:23](https://www.linkedin.com/learning/amazon-ec2-essential-training/navigating-the-ec2-console?u=76281980&t=323)** If you'd like to know more about this, check the course titled EC2 Load Balancers in the LinkedIn Learning Library.
+> **[5:23](https://www.linkedin.com/learning/amazon-ec2-essential-training/navigating-the-ec2-console?u=76281980&t=323)** If you'd like to know more about this, check the course titled EC2 Load Balancers in the [[LinkedIn]] Learning Library.
 >
-> **[5:30](https://www.linkedin.com/learning/amazon-ec2-essential-training/navigating-the-ec2-console?u=76281980&t=330)** Some other options you can configure here include termination protection, stop protection, shutdown behavior, auto recovery behavior, in case of burstable instances, you can change the credit specification, and you also have options to edit user data, allow tags and metadata, and manage the tags of the EC2 instance.
+> **[5:30](https://www.linkedin.com/learning/amazon-ec2-essential-training/navigating-the-ec2-console?u=76281980&t=330)** Some other options you can configure here include termination protection, stop protection, shutdown behavior, auto recovery behavior, in case of burstable instances, you can change the credit specification, and you also have options to edit user data, allow tags and [[Metadata]], and manage the tags of the EC2 instance.
 >
 > **[5:51](https://www.linkedin.com/learning/amazon-ec2-essential-training/navigating-the-ec2-console?u=76281980&t=351)** Some of these options are unavailable because they can only be used when the EC2 instance is stopped, and this option here, Change Nitro Enclaves, is only available with certain EC2 instance types.
 >
@@ -3201,7 +3179,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (55), aws (7), [[Security]] (5), next (5), [[Troubleshooting]] (3)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (55), [[Hardware]] (2), [[Linux]] (1), [[LinkedIn]] (1), [[Metadata]] (1)
 > **Env Vars:** ec2 (55), aws (7), cpu (3), iam (3), ami (2)
 > **CLI Commands:** aws (7), find (3), ssh (1)
 > **Analogies:** such as (4), for example (3), imagine (1)
@@ -3210,12 +3188,11 @@ created: 2026-05-02
 > **Definitions:** is a  (3)
 > **Warnings:** troubleshoot (3)
 
-#### Navigating the EC2 dashboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/navigating-the-ec2-dashboard?u=76281980)
+#### [Navigating the EC2 dashboard](https://www.linkedin.com/learning/amazon-ec2-essential-training/navigating-the-ec2-dashboard?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/navigating-the-ec2-dashboard?u=76281980&t=0)** - [Instructor] Now let's look at important information available on the EC2 dashboard.
+> **[0:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/navigating-the-ec2-dashboard?u=76281980&t=0)** - [Instructor] Now let's look at important information available on the [[Amazon EC2|EC2]] dashboard.
 >
 > **[0:04](https://www.linkedin.com/learning/amazon-ec2-essential-training/navigating-the-ec2-dashboard?u=76281980&t=4)** Once you're in the EC2 console, you can access the EC2 dashboard by clicking the link on the left navigation pane.
 >
@@ -3299,7 +3276,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (18), [[Security]] (3), aws (3), [[Troubleshooting]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (18)
 > **Env Vars:** ec2 (18), ebs (3), vpc (3), aws (3), csv (1)
 > **Analogies:** such as (5), for example (3), imagine (1)
 > **Definitions:** is a  (3), is an  (1)
@@ -3312,8 +3289,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### EBS snapshots
-> [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/ebs-snapshots?u=76281980)
+#### [EBS snapshots](https://www.linkedin.com/learning/amazon-ec2-essential-training/ebs-snapshots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3397,11 +3373,11 @@ created: 2026-05-02
 >
 > **[4:25](https://www.linkedin.com/learning/amazon-ec2-essential-training/ebs-snapshots?u=76281980&t=265)** Users that have access to your snapshot can use it to create their own EBS volumes and the original snapshots will be unaffected.
 >
-> **[4:34](https://www.linkedin.com/learning/amazon-ec2-essential-training/ebs-snapshots?u=76281980&t=274)** In the next video, we'll put these concepts into practice on the EC2 console console.
+> **[4:34](https://www.linkedin.com/learning/amazon-ec2-essential-training/ebs-snapshots?u=76281980&t=274)** In the next video, we'll put these concepts into practice on the [[Amazon EC2|EC2]] console console.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), aws (6), next (1), [[Amazon EC2|Ec2]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** ebs (24), aws (6), ec2 (1)
 > **CLI Commands:** aws (6)
 > **Definitions:** is a  (4), known as (2)
@@ -3409,14 +3385,13 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: EBS snapshots
-> [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/demo-ebs-snapshots?u=76281980)
+#### [Demo: EBS snapshots](https://www.linkedin.com/learning/amazon-ec2-essential-training/demo-ebs-snapshots?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/demo-ebs-snapshots?u=76281980&t=0)** - [Instructor] Now, let's understand how to configure snapshots.
 >
-> **[0:03](https://www.linkedin.com/learning/amazon-ec2-essential-training/demo-ebs-snapshots?u=76281980&t=3)** Once you've logged into the EC2 console, go to snapshots on the left navigation pane.
+> **[0:03](https://www.linkedin.com/learning/amazon-ec2-essential-training/demo-ebs-snapshots?u=76281980&t=3)** Once you've logged into the [[Amazon EC2|EC2]] console, go to snapshots on the left navigation pane.
 >
 > **[0:10](https://www.linkedin.com/learning/amazon-ec2-essential-training/demo-ebs-snapshots?u=76281980&t=10)** By default, you will see snapshots owned by you, but you can also use the dropdown to view private and public snapshots.
 >
@@ -3634,7 +3609,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), feature (4), [[Amazon EC2|Ec2]] (2), aws (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2)
 > **Env Vars:** ebs (12), ec2 (2), aws (2), fsr (2), ami (1)
 > **UI Navigation:** select the (10), scroll down (3), go to (2), dropdown (2), navigate to (1)
 > **Analogies:** for example (2), such as (1), imagine (1)
@@ -3643,12 +3618,11 @@ created: 2026-05-02
 > **Cross-References:** in the last (1), go back to (1)
 > **Definitions:** is an  (1)
 
-#### Instance store
-> [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/instance-store?u=76281980)
+#### [Instance store](https://www.linkedin.com/learning/amazon-ec2-essential-training/instance-store?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/instance-store?u=76281980&t=0)** - [Instructor] In the previous videos we talked about EBS volumes and that they provide persistent storage for EC2 instances.
+> **[0:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/instance-store?u=76281980&t=0)** - [Instructor] In the previous videos we talked about EBS volumes and that they provide persistent storage for [[Amazon EC2|EC2]] instances.
 >
 > **[0:07](https://www.linkedin.com/learning/amazon-ec2-essential-training/instance-store?u=76281980&t=7)** Another type of volume that you can attach to your instances are instance store volumes.
 >
@@ -3656,7 +3630,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/amazon-ec2-essential-training/instance-store?u=76281980&t=20)** Unlike EBS volumes, instance store volumes are physically attached to the host computer.
 >
-> **[0:26](https://www.linkedin.com/learning/amazon-ec2-essential-training/instance-store?u=76281980&t=26)** So when you launch an EC2 instance and attach an EBS volume, the instance and the volume are on distinct underlying hardware.
+> **[0:26](https://www.linkedin.com/learning/amazon-ec2-essential-training/instance-store?u=76281980&t=26)** So when you launch an EC2 instance and attach an EBS volume, the instance and the volume are on distinct underlying [[Hardware]].
 >
 > **[0:34](https://www.linkedin.com/learning/amazon-ec2-essential-training/instance-store?u=76281980&t=34)** But with instance store volumes, the volumes are hosted on the same underlying physical host as that of the EC2 instance.
 >
@@ -3726,7 +3700,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (11), data (10), [[Hardware]] (1), aws (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (11), [[Hardware]] (1)
 > **Env Vars:** ebs (11), ec2 (11), aws (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** aws (1)
@@ -3734,14 +3708,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Elastic IP
-> [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/elastic-ip?u=76281980)
+#### [Elastic IP](https://www.linkedin.com/learning/amazon-ec2-essential-training/elastic-ip?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/elastic-ip?u=76281980&t=0)** - [Instructor] Now let's talk about elastic IP addresses.
 >
-> **[0:03](https://www.linkedin.com/learning/amazon-ec2-essential-training/elastic-ip?u=76281980&t=3)** We've seen in the previous videos that when you launch an EC2 instance, it automatically gets assigned a public IP address.
+> **[0:03](https://www.linkedin.com/learning/amazon-ec2-essential-training/elastic-ip?u=76281980&t=3)** We've seen in the previous videos that when you launch an [[Amazon EC2|EC2]] instance, it automatically gets assigned a public IP address.
 >
 > **[0:11](https://www.linkedin.com/learning/amazon-ec2-essential-training/elastic-ip?u=76281980&t=11)** The public IP address of an instance changes when it is stopped or hibernated and started again.
 >
@@ -3845,7 +3818,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (11), dns (4), aws (3)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (11)
 > **Env Vars:** ec2 (11), dns (4), aws (3)
 > **UI Navigation:** select the (3), go to (1), navigate to (1)
 > **Definitions:** is a  (4), is an  (1)
@@ -3854,8 +3827,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Warnings:** note that (1)
 
-#### Elastic network interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/elastic-network-interface?u=76281980)
+#### [Elastic network interface](https://www.linkedin.com/learning/amazon-ec2-essential-training/elastic-network-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3865,7 +3837,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/amazon-ec2-essential-training/elastic-network-interface?u=76281980&t=10)** When we use a physical computer, it has a physical network card that provides network connectivity.
 >
-> **[0:15](https://www.linkedin.com/learning/amazon-ec2-essential-training/elastic-network-interface?u=76281980&t=15)** Similarly, EC2 instances have a virtual network card, known as Elastic network interface, and it provides network connectivity.
+> **[0:15](https://www.linkedin.com/learning/amazon-ec2-essential-training/elastic-network-interface?u=76281980&t=15)** Similarly, [[Amazon EC2|EC2]] instances have a virtual network card, known as Elastic network interface, and it provides network connectivity.
 >
 > **[0:24](https://www.linkedin.com/learning/amazon-ec2-essential-training/elastic-network-interface?u=76281980&t=24)** Every instance in a VPC has a default network interface called as the primary interface, and it is represented as eth0.
 >
@@ -3913,7 +3885,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/amazon-ec2-essential-training/elastic-network-interface?u=76281980&t=157)** It can also have a source or destination check flag, and it is usually enabled to ensure that the instance is the source or destination of any traffic it receives.
 >
-> **[2:47](https://www.linkedin.com/learning/amazon-ec2-essential-training/elastic-network-interface?u=76281980&t=167)** However, if you're running special services, such as NAT, or network address translation, routing, or firewalls, source or destination check flag should be disabled on that interface.
+> **[2:47](https://www.linkedin.com/learning/amazon-ec2-essential-training/elastic-network-interface?u=76281980&t=167)** However, if you're running special services, such as NAT, or network address translation, [[Routing]], or firewalls, source or destination check flag should be disabled on that interface.
 >
 > **[3:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/elastic-network-interface?u=76281980&t=180)** And finally, every interface also has a description associated with it.
 >
@@ -3945,7 +3917,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (11), [[Amazon EC2|Ec2]] (4), management (4), application (2), data (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (4), [[Routing]] (1)
 > **Env Vars:** ec2 (4), vpc (2), mac (1), nat (1), aws (1)
 > **Definitions:** is a  (2), known as (1), is an  (1)
 > **Analogies:** for example (2), imagine (1), such as (1)
@@ -3954,14 +3926,13 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: Elastic network interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/demo-elastic-network-interface?u=76281980)
+#### [Demo: Elastic network interface](https://www.linkedin.com/learning/amazon-ec2-essential-training/demo-elastic-network-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/demo-elastic-network-interface?u=76281980&t=0)** - [Instructor] Now let's configure elastic network interfaces.
 >
-> **[0:03](https://www.linkedin.com/learning/amazon-ec2-essential-training/demo-elastic-network-interface?u=76281980&t=3)** Here in the EC2 console I've got two EC2 instances running, server one and server two, and they're running in different availability zones.
+> **[0:03](https://www.linkedin.com/learning/amazon-ec2-essential-training/demo-elastic-network-interface?u=76281980&t=3)** Here in the [[Amazon EC2|EC2]] console I've got two EC2 instances running, server one and server two, and they're running in different availability zones.
 >
 > **[0:12](https://www.linkedin.com/learning/amazon-ec2-essential-training/demo-elastic-network-interface?u=76281980&t=12)** Let's begin by reviewing the interface associated with server one.
 >
@@ -4087,7 +4058,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (10), aws (2), next (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (10)
 > **Env Vars:** ec2 (10), aws (2), hpc (1)
 > **UI Navigation:** select the (4), go to (3), scroll down (3), dropdown (2)
 > **CLI Commands:** aws (2), make (1)
@@ -4096,16 +4067,15 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Placement groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/placement-groups?u=76281980)
+#### [Placement groups](https://www.linkedin.com/learning/amazon-ec2-essential-training/placement-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/placement-groups?u=76281980&t=0)** - [Instructor] Now, let's talk about an interesting topic: placement groups.
 >
-> **[0:04](https://www.linkedin.com/learning/amazon-ec2-essential-training/placement-groups?u=76281980&t=4)** Imagine that you're launching multiple EC2 instances.
+> **[0:04](https://www.linkedin.com/learning/amazon-ec2-essential-training/placement-groups?u=76281980&t=4)** Imagine that you're launching multiple [[Amazon EC2|EC2]] instances.
 >
-> **[0:08](https://www.linkedin.com/learning/amazon-ec2-essential-training/placement-groups?u=76281980&t=8)** How will AWS deploy these instances on the underlying hardware?
+> **[0:08](https://www.linkedin.com/learning/amazon-ec2-essential-training/placement-groups?u=76281980&t=8)** How will AWS deploy these instances on the underlying [[Hardware]]?
 >
 > **[0:12](https://www.linkedin.com/learning/amazon-ec2-essential-training/placement-groups?u=76281980&t=12)** Will all the instances share the same underlying hardware, or will the instances be spread across distinct underlying hardware?
 >
@@ -4141,7 +4111,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/amazon-ec2-essential-training/placement-groups?u=76281980&t=155)** It is important to bear in mind that partitions can be spread across multiple availability zones in the same region, and you can have a maximum of seven partitions per availability zone.
 >
-> **[2:46](https://www.linkedin.com/learning/amazon-ec2-essential-training/placement-groups?u=76281980&t=166)** Partition placement groups are ideal for deploying large distributed workloads, such as Hadoop, Cassandra, and Kafka, across distinct racks.
+> **[2:46](https://www.linkedin.com/learning/amazon-ec2-essential-training/placement-groups?u=76281980&t=166)** Partition placement groups are ideal for deploying large distributed workloads, such as [[Hadoop]], Cassandra, and Kafka, across distinct racks.
 >
 > **[2:56](https://www.linkedin.com/learning/amazon-ec2-essential-training/placement-groups?u=76281980&t=176)** Next is spread placement groups.
 >
@@ -4233,7 +4203,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (11), [[Amazon EC2|Ec2]] (9), aws (6), data (2), next (2)
+> **Frameworks & Libraries:** [[Hardware]] (11), [[Amazon EC2|Ec2]] (9), [[Hadoop]] (1)
 > **Env Vars:** ec2 (9), aws (6), hpc (1), ami (1)
 > **UI Navigation:** select the (4), go to (2), navigate to (1), scroll down (1)
 > **CLI Commands:** aws (6), find (1)
@@ -4242,14 +4212,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1), known as (1)
 > **Cross-References:** we talked about (1)
 
-#### Instance metadata
-> [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/instance-metadata?u=76281980)
+#### [Instance metadata](https://www.linkedin.com/learning/amazon-ec2-essential-training/instance-metadata?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/instance-metadata?u=76281980&t=0)** - [Instructor] Let's talk about instance metadata.
+> **[0:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/instance-metadata?u=76281980&t=0)** - [Instructor] Let's talk about instance [[Metadata]].
 >
-> **[0:03](https://www.linkedin.com/learning/amazon-ec2-essential-training/instance-metadata?u=76281980&t=3)** Instance metadata is data about your EC2 instance.
+> **[0:03](https://www.linkedin.com/learning/amazon-ec2-essential-training/instance-metadata?u=76281980&t=3)** Instance metadata is data about your [[Amazon EC2|EC2]] instance.
 >
 > **[0:06](https://www.linkedin.com/learning/amazon-ec2-essential-training/instance-metadata?u=76281980&t=6)** It contains important attributes of your EC2 instance, such as the ami-id, hostname, instance-id, public-ipv4 address, security groups, and more.
 >
@@ -4291,9 +4260,9 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/amazon-ec2-essential-training/instance-metadata?u=76281980&t=134)** Now let's go to the EC2 console, and see how to access metadata.
 >
-> **[2:19](https://www.linkedin.com/learning/amazon-ec2-essential-training/instance-metadata?u=76281980&t=139)** I'm here at the command line interface of your Linux EC2 instance.
+> **[2:19](https://www.linkedin.com/learning/amazon-ec2-essential-training/instance-metadata?u=76281980&t=139)** I'm here at the command line interface of your [[Linux]] EC2 instance.
 >
-> **[2:23](https://www.linkedin.com/learning/amazon-ec2-essential-training/instance-metadata?u=76281980&t=143)** You can also access the metadata from a Windows EC2 instance.
+> **[2:23](https://www.linkedin.com/learning/amazon-ec2-essential-training/instance-metadata?u=76281980&t=143)** You can also access the metadata from a [[Windows]] EC2 instance.
 >
 > **[2:27](https://www.linkedin.com/learning/amazon-ec2-essential-training/instance-metadata?u=76281980&t=147)** First, let's try the version one command.
 >
@@ -4383,7 +4352,7 @@ created: 2026-05-02
 >
 > **[6:07](https://www.linkedin.com/learning/amazon-ec2-essential-training/instance-metadata?u=76281980&t=367)** Now let's go to a Windows EC2 instance and try to access the metadata.
 >
-> **[6:11](https://www.linkedin.com/learning/amazon-ec2-essential-training/instance-metadata?u=76281980&t=371)** From a Windows EC2 instance, you can use the PowerShell utility to access the instance metadata.
+> **[6:11](https://www.linkedin.com/learning/amazon-ec2-essential-training/instance-metadata?u=76281980&t=371)** From a Windows EC2 instance, you can use the [[Powershell]] utility to access the instance metadata.
 >
 > **[6:18](https://www.linkedin.com/learning/amazon-ec2-essential-training/instance-metadata?u=76281980&t=378)** I've already opened up PowerShell, and I've already tried the command, so I'll use the up arrow.
 >
@@ -4423,7 +4392,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Metadata]] (16), [[Amazon EC2|Ec2]] (14), data (9), [[Windows]] (3), [[Security]] (2)
+> **Frameworks & Libraries:** [[Metadata]] (16), [[Amazon EC2|Ec2]] (14), [[Windows]] (3), [[Powershell]] (2), [[Linux]] (1)
 > **Env Vars:** ec2 (14), url (9), mac (5), http (3), ttl (2)
 > **CLI Commands:** curl (10), aws (1)
 > **Definitions:** is a  (5), known as (1)
@@ -4432,12 +4401,11 @@ created: 2026-05-02
 > **Code Identifiers:** accountid (1), availabilityzone (1), instanceid (1)
 > **URLs:** [http://169.254.169.254/latest/meta-data](http://169.254.169.254/latest/meta-data) (2)
 
-#### Attaching an IAM role
-> [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/attaching-an-iam-role?u=76281980)
+#### [Attaching an IAM role](https://www.linkedin.com/learning/amazon-ec2-essential-training/attaching-an-iam-role?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/attaching-an-iam-role?u=76281980&t=0)** - [Instructor] Now let's talk about attaching an IAM role to an EC2 instance.
+> **[0:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/attaching-an-iam-role?u=76281980&t=0)** - [Instructor] Now let's talk about attaching an IAM role to an [[Amazon EC2|EC2]] instance.
 >
 > **[0:04](https://www.linkedin.com/learning/amazon-ec2-essential-training/attaching-an-iam-role?u=76281980&t=4)** By default, your EC2 instances do not have access to other AWS services.
 >
@@ -4453,13 +4421,13 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/amazon-ec2-essential-training/attaching-an-iam-role?u=76281980&t=38)** I'm here at the EC2 console.
 >
-> **[0:39](https://www.linkedin.com/learning/amazon-ec2-essential-training/attaching-an-iam-role?u=76281980&t=39)** For this demonstration I'm going to use an Amazon Linux EC2 instance.
+> **[0:39](https://www.linkedin.com/learning/amazon-ec2-essential-training/attaching-an-iam-role?u=76281980&t=39)** For this demonstration I'm going to use an Amazon [[Linux]] EC2 instance.
 >
 > **[0:44](https://www.linkedin.com/learning/amazon-ec2-essential-training/attaching-an-iam-role?u=76281980&t=44)** This EC2 instance has the Amazon Linux AMI.
 >
 > **[0:47](https://www.linkedin.com/learning/amazon-ec2-essential-training/attaching-an-iam-role?u=76281980&t=47)** And the reason I'm using this is because it has the AWS command-line tools pre-installed on it.
 >
-> **[0:53](https://www.linkedin.com/learning/amazon-ec2-essential-training/attaching-an-iam-role?u=76281980&t=53)** You can use any AMI of your choice, including Windows AMIs, but you may need to install the AWS CLI on it.
+> **[0:53](https://www.linkedin.com/learning/amazon-ec2-essential-training/attaching-an-iam-role?u=76281980&t=53)** You can use any AMI of your choice, including [[Windows]] AMIs, but you may need to install the AWS [[CLI]] on it.
 >
 > **[1:01](https://www.linkedin.com/learning/amazon-ec2-essential-training/attaching-an-iam-role?u=76281980&t=61)** With Amazon Linux AMI the AWS CLI is pre-installed so I'm going to use this for the demo.
 >
@@ -4509,7 +4477,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/amazon-ec2-essential-training/attaching-an-iam-role?u=76281980&t=176)** So you can hardcode these access keys into the EC2 instance to provide permissions to the instance to access another service.
 >
-> **[3:04](https://www.linkedin.com/learning/amazon-ec2-essential-training/attaching-an-iam-role?u=76281980&t=184)** But as you can imagine, hard coding access keys into the EC2 instance is a security risk because anyone with access to the EC2 instance can use the keys to access another service.
+> **[3:04](https://www.linkedin.com/learning/amazon-ec2-essential-training/attaching-an-iam-role?u=76281980&t=184)** But as you can imagine, hard coding access keys into the EC2 instance is a [[Security Risk]] because anyone with access to the EC2 instance can use the keys to access another service.
 >
 > **[3:15](https://www.linkedin.com/learning/amazon-ec2-essential-training/attaching-an-iam-role?u=76281980&t=195)** So it is not a recommended security best practice.
 >
@@ -4643,7 +4611,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (37), aws (32), [[Security]] (10), [[Linux]] (3), next (3)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (37), [[Linux]] (3), [[CLI]] (2), [[Windows]] (1), [[Security Risk]] (1)
 > **Env Vars:** ec2 (37), iam (27), aws (23), ami (3), rds (2)
 > **CLI Commands:** aws (32), ls (5)
 > **UI Navigation:** go to (8), scroll down (6), dropdown (3), select the (2), navigate to (1)
@@ -4652,12 +4620,11 @@ created: 2026-05-02
 > **Tools:** terminal (3), aws console (2)
 > **Best Practices:** recommended (2), best practice (2), you should always (1)
 
-#### Launch templates
-> [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/launch-templates?u=76281980)
+#### [Launch templates](https://www.linkedin.com/learning/amazon-ec2-essential-training/launch-templates?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/launch-templates?u=76281980&t=0)** - [Instructor] When you're launching an EC2 instance, you are required to provide parameters or configuration information, such as the AMI ID, instance type, key pair, VPC and subnet information, security groups, storage information, and more.
+> **[0:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/launch-templates?u=76281980&t=0)** - [Instructor] When you're launching an [[Amazon EC2|EC2]] instance, you are required to provide parameters or configuration information, such as the AMI ID, instance type, key pair, VPC and subnet information, security groups, storage information, and more.
 >
 > **[0:16](https://www.linkedin.com/learning/amazon-ec2-essential-training/launch-templates?u=76281980&t=16)** And you're required to provide this information each time you launch an EC2 instance.
 >
@@ -4669,7 +4636,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/amazon-ec2-essential-training/launch-templates?u=76281980&t=39)** It contains all the information you would configure from the EC2 instance launch wizard, such as the AMI ID, instance type, subnets, security groups, and more.
 >
-> **[0:49](https://www.linkedin.com/learning/amazon-ec2-essential-training/launch-templates?u=76281980&t=49)** Launch templates can be used to launch instances from the Amazon EC2 console or the user interface, the AWS SDKs, or software development kits, and the AWS CLI, or the Command Line Interface.
+> **[0:49](https://www.linkedin.com/learning/amazon-ec2-essential-training/launch-templates?u=76281980&t=49)** Launch templates can be used to launch instances from the [[Amazon EC2]] console or the user interface, the AWS SDKs, or [[Software Development]] kits, and the AWS [[CLI]], or the Command Line Interface.
 >
 > **[1:03](https://www.linkedin.com/learning/amazon-ec2-essential-training/launch-templates?u=76281980&t=63)** Each template can have one or more numbered versions.
 >
@@ -4717,7 +4684,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/amazon-ec2-essential-training/launch-templates?u=76281980&t=177)** Auto Scaling is an AWS service that allows you to create highly available and fault tolerant applications in the AWS Cloud.
 >
-> **[3:04](https://www.linkedin.com/learning/amazon-ec2-essential-training/launch-templates?u=76281980&t=184)** If you'd like to learn more about Auto Scaling, check out the course titled EC2 Load Balancers in the LinkedIn Learning Library.
+> **[3:04](https://www.linkedin.com/learning/amazon-ec2-essential-training/launch-templates?u=76281980&t=184)** If you'd like to learn more about Auto Scaling, check out the course titled EC2 Load Balancers in the [[LinkedIn]] Learning Library.
 >
 > **[3:12](https://www.linkedin.com/learning/amazon-ec2-essential-training/launch-templates?u=76281980&t=192)** Now let's go to the EC2 console and configure a launch template.
 >
@@ -4727,7 +4694,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/amazon-ec2-essential-training/launch-templates?u=76281980&t=207)** You'll need to start by providing a name.
 >
-> **[3:29](https://www.linkedin.com/learning/amazon-ec2-essential-training/launch-templates?u=76281980&t=209)** I'm going to use this launch template to create Linux EC2 instances, so I'll call this template as LinuxServerTemplate.
+> **[3:29](https://www.linkedin.com/learning/amazon-ec2-essential-training/launch-templates?u=76281980&t=209)** I'm going to use this launch template to create [[Linux]] EC2 instances, so I'll call this template as LinuxServerTemplate.
 >
 > **[3:37](https://www.linkedin.com/learning/amazon-ec2-essential-training/launch-templates?u=76281980&t=217)** Next, you can provide a description.
 >
@@ -4853,7 +4820,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (30), [[Security]] (6), aws (5), next (4), [[Amazon EC2]] (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (30), [[Amazon EC2]] (2), [[Linux]] (2), [[Software Development]] (1), [[CLI]] (1)
 > **Exercise Files:** template (54)
 > **Env Vars:** ec2 (32), ami (8), aws (5), vpc (1), cli (1)
 > **Versions:** version 1 (6), version 2 (6), version 3 (5)
@@ -4862,12 +4829,11 @@ created: 2026-05-02
 > **Analogies:** such as (4), for example (2)
 > **UI Navigation:** go to (1), navigate to (1), select the (1)
 
-#### Security groups as source or destination
-> [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/security-groups-as-source-or-destination?u=76281980)
+#### [Security groups as source or destination](https://www.linkedin.com/learning/amazon-ec2-essential-training/security-groups-as-source-or-destination?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/security-groups-as-source-or-destination?u=76281980&t=0)** - [Tutor] In an earlier video, we talked about security groups in that they are like a virtual firewall that control inbound and outbound traffic for EC2 instances.
+> **[0:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/security-groups-as-source-or-destination?u=76281980&t=0)** - [Tutor] In an earlier video, we talked about security groups in that they are like a virtual firewall that control inbound and outbound traffic for [[Amazon EC2|EC2]] instances.
 >
 > **[0:09](https://www.linkedin.com/learning/amazon-ec2-essential-training/security-groups-as-source-or-destination?u=76281980&t=9)** We also learned that we can configure IP addresses as the source or destination of security groups.
 >
@@ -4923,7 +4889,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/amazon-ec2-essential-training/security-groups-as-source-or-destination?u=76281980&t=175)** Here's another example, which is a typical scenario in a production environment.
 >
-> **[2:59](https://www.linkedin.com/learning/amazon-ec2-essential-training/security-groups-as-source-or-destination?u=76281980&t=179)** A group of web servers need to access a group of database servers on TCP 1433.
+> **[2:59](https://www.linkedin.com/learning/amazon-ec2-essential-training/security-groups-as-source-or-destination?u=76281980&t=179)** A group of [[Web Servers]] need to access a group of database servers on TCP 1433.
 >
 > **[3:06](https://www.linkedin.com/learning/amazon-ec2-essential-training/security-groups-as-source-or-destination?u=76281980&t=186)** To allow this access, the source of the database server security group inbound rules can be set as the security group associated with the web servers.
 >
@@ -5023,7 +4989,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (30), web (28), traffic (21), [[Amazon EC2|Ec2]] (5), database (3)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (5), [[Web Servers]] (3)
 > **Env Vars:** icmp (16), ec2 (5), tcp (4), http (2), ssh (1)
 > **UI Navigation:** go to (4), select the (2), switch to (2), navigate to (2)
 > **Prerequisites:** configure (8)
@@ -5037,12 +5003,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to EC2 purchasing options
-> [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/introduction-to-ec2-purchasing-options?u=76281980)
+#### [Introduction to EC2 purchasing options](https://www.linkedin.com/learning/amazon-ec2-essential-training/introduction-to-ec2-purchasing-options?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/introduction-to-ec2-purchasing-options?u=76281980&t=0)** - [Narrator] Now let's shift gears and talk about EC2 purchasing options.
+> **[0:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/introduction-to-ec2-purchasing-options?u=76281980&t=0)** - [Narrator] Now let's shift gears and talk about [[Amazon EC2|EC2]] purchasing options.
 >
 > **[0:04](https://www.linkedin.com/learning/amazon-ec2-essential-training/introduction-to-ec2-purchasing-options?u=76281980&t=4)** When launching EC2 instances in your AWS account, you have the option to use different purchasing options.
 >
@@ -5058,7 +5023,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/amazon-ec2-essential-training/introduction-to-ec2-purchasing-options?u=76281980&t=48)** Spot instances allow you to use spare EC2 capacity available at lower costs.
 >
-> **[0:54](https://www.linkedin.com/learning/amazon-ec2-essential-training/introduction-to-ec2-purchasing-options?u=76281980&t=54)** And with dedicated instances and dedicated hosts, you can run your EC2 instances on dedicated hardware.
+> **[0:54](https://www.linkedin.com/learning/amazon-ec2-essential-training/introduction-to-ec2-purchasing-options?u=76281980&t=54)** And with dedicated instances and dedicated hosts, you can run your EC2 instances on dedicated [[Hardware]].
 >
 > **[1:01](https://www.linkedin.com/learning/amazon-ec2-essential-training/introduction-to-ec2-purchasing-options?u=76281980&t=61)** So as you can see, there are different use cases and scenarios, and EC2 purchasing options make these possible.
 >
@@ -5066,13 +5031,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (7), aws (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (7), [[Hardware]] (1)
 > **Env Vars:** ec2 (7), aws (1)
 > **CLI Commands:** aws (1), make (1)
 > **Speakers:** - [narrator] (1)
 
-#### On-demand instances and capacity reservations
-> [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/on-demand-instances-and-capacity-reservations?u=76281980)
+#### [On-demand instances and capacity reservations](https://www.linkedin.com/learning/amazon-ec2-essential-training/on-demand-instances-and-capacity-reservations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5080,7 +5044,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/amazon-ec2-essential-training/on-demand-instances-and-capacity-reservations?u=76281980&t=6)** On-demand instances are those that we've been launching all throughout this course.
 >
-> **[0:11](https://www.linkedin.com/learning/amazon-ec2-essential-training/on-demand-instances-and-capacity-reservations?u=76281980&t=11)** These are the instances you launch from the EC2 Console without any reservations or special pricing.
+> **[0:11](https://www.linkedin.com/learning/amazon-ec2-essential-training/on-demand-instances-and-capacity-reservations?u=76281980&t=11)** These are the instances you launch from the [[Amazon EC2|EC2]] Console without any reservations or special pricing.
 >
 > **[0:18](https://www.linkedin.com/learning/amazon-ec2-essential-training/on-demand-instances-and-capacity-reservations?u=76281980&t=18)** With on-demand instances you pay by the hour or second without any long-term commitments.
 >
@@ -5092,13 +5056,13 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/amazon-ec2-essential-training/on-demand-instances-and-capacity-reservations?u=76281980&t=40)** With on-demand instances pricing is based on per instance hour.
 >
-> **[0:45](https://www.linkedin.com/learning/amazon-ec2-essential-training/on-demand-instances-and-capacity-reservations?u=76281980&t=45)** Partial instance-hour is built per second for Linux EC2 instances, Windows instances, Windows with SQL Enterprise, Windows with SQL Standard, and Windows with SQL Web instances.
+> **[0:45](https://www.linkedin.com/learning/amazon-ec2-essential-training/on-demand-instances-and-capacity-reservations?u=76281980&t=45)** Partial instance-hour is built per second for [[Linux]] EC2 instances, [[Windows]] instances, Windows with [[SQL]] Enterprise, Windows with SQL Standard, and Windows with SQL Web instances.
 >
 > **[0:57](https://www.linkedin.com/learning/amazon-ec2-essential-training/on-demand-instances-and-capacity-reservations?u=76281980&t=57)** For all other instance types the partial instance-hour is billed as a full hour.
 >
 > **[1:03](https://www.linkedin.com/learning/amazon-ec2-essential-training/on-demand-instances-and-capacity-reservations?u=76281980&t=63)** Now let's go to an AWS document that explains pricing for on-demand instances.
 >
-> **[1:09](https://www.linkedin.com/learning/amazon-ec2-essential-training/on-demand-instances-and-capacity-reservations?u=76281980&t=69)** Here is a document titled "Amazon EC2 On-Demand Pricing," and this document allows you to look up the prices for on-demand instances.
+> **[1:09](https://www.linkedin.com/learning/amazon-ec2-essential-training/on-demand-instances-and-capacity-reservations?u=76281980&t=69)** Here is a document titled "[[Amazon EC2]] On-Demand Pricing," and this document allows you to look up the prices for on-demand instances.
 >
 > **[1:17](https://www.linkedin.com/learning/amazon-ec2-essential-training/on-demand-instances-and-capacity-reservations?u=76281980&t=77)** You can do this by specifying the region, operating system, and instance type, and AWS will tell you the hourly price for that on-demand EC2 instance.
 >
@@ -5140,7 +5104,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/amazon-ec2-essential-training/on-demand-instances-and-capacity-reservations?u=76281980&t=202)** First, you'll need to provide the instance type, the platform, which is the operating system, and then the availability zone.
 >
-> **[3:29](https://www.linkedin.com/learning/amazon-ec2-essential-training/on-demand-instances-and-capacity-reservations?u=76281980&t=209)** Next, you can provide the tenancy, which is shared or dedicated hardware.
+> **[3:29](https://www.linkedin.com/learning/amazon-ec2-essential-training/on-demand-instances-and-capacity-reservations?u=76281980&t=209)** Next, you can provide the tenancy, which is shared or dedicated [[Hardware]].
 >
 > **[3:34](https://www.linkedin.com/learning/amazon-ec2-essential-training/on-demand-instances-and-capacity-reservations?u=76281980&t=214)** If you'd like to put your instances in a placement group, you can define that here.
 >
@@ -5170,7 +5134,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (10), [[Windows]] (4), [[SQL]] (3), aws (2), next (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (10), [[Windows]] (4), [[SQL]] (3), [[Linux]] (1), [[Amazon EC2]] (1)
 > **Env Vars:** ec2 (11), sql (3), aws (2)
 > **Analogies:** imagine (1), for example (1), such as (1)
 > **CLI Commands:** aws (2)
@@ -5179,14 +5143,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 
-#### Spot instances
-> [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/spot-instances?u=76281980)
+#### [Spot instances](https://www.linkedin.com/learning/amazon-ec2-essential-training/spot-instances?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/spot-instances?u=76281980&t=0)** - [Narrator] The next purchasing option is probably the most interesting one, Spot Instances.
 >
-> **[0:05](https://www.linkedin.com/learning/amazon-ec2-essential-training/spot-instances?u=76281980&t=5)** Spot Instances are unused EC2 instances available at less than the On-Demand price.
+> **[0:05](https://www.linkedin.com/learning/amazon-ec2-essential-training/spot-instances?u=76281980&t=5)** Spot Instances are unused [[Amazon EC2|EC2]] instances available at less than the On-Demand price.
 >
 > **[0:12](https://www.linkedin.com/learning/amazon-ec2-essential-training/spot-instances?u=76281980&t=12)** Spot Instances are available at steep discounts, allowing you to lower your EC2 usage costs.
 >
@@ -5222,7 +5185,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/amazon-ec2-essential-training/spot-instances?u=76281980&t=101)** Now your maximum price no longer exceeds the Spot price, so the Spot Instance will be interrupted, meaning the Spot Instance will either be terminated, stopped, or hibernated, depending on your configuration.
 >
-> **[1:55](https://www.linkedin.com/learning/amazon-ec2-essential-training/spot-instances?u=76281980&t=115)** An important thing to bear in mind is that with Spot Instances, you always pay the Spot price, which is set by Amazon EC2.
+> **[1:55](https://www.linkedin.com/learning/amazon-ec2-essential-training/spot-instances?u=76281980&t=115)** An important thing to bear in mind is that with Spot Instances, you always pay the Spot price, which is set by [[Amazon EC2]].
 >
 > **[2:03](https://www.linkedin.com/learning/amazon-ec2-essential-training/spot-instances?u=76281980&t=123)** Even though the request is only fulfilled when your maximum price exceeds the Spot price, you are charged the Spot price, and it is kept at the On-Demand rate.
 >
@@ -5262,7 +5225,7 @@ created: 2026-05-02
 >
 > **[4:13](https://www.linkedin.com/learning/amazon-ec2-essential-training/spot-instances?u=76281980&t=253)** When set to stop or hibernate, Spot Instances will automatically resume when capacity is available.
 >
-> **[4:20](https://www.linkedin.com/learning/amazon-ec2-essential-training/spot-instances?u=76281980&t=260)** Rebalance recommendations and interruption notifications can be captured using two services, Amazon EventBridge and instance metadata.
+> **[4:20](https://www.linkedin.com/learning/amazon-ec2-essential-training/spot-instances?u=76281980&t=260)** Rebalance recommendations and interruption notifications can be captured using two services, Amazon EventBridge and instance [[Metadata]].
 >
 > **[4:29](https://www.linkedin.com/learning/amazon-ec2-essential-training/spot-instances?u=76281980&t=269)** Amazon EventBridge allows you to capture events occurring in your AWS account and take actions on them.
 >
@@ -5316,7 +5279,7 @@ created: 2026-05-02
 >
 > **[7:28](https://www.linkedin.com/learning/amazon-ec2-essential-training/spot-instances?u=76281980&t=448)** With Spot Instances, the hourly price varies based on demand.
 >
-> **[7:33](https://www.linkedin.com/learning/amazon-ec2-essential-training/spot-instances?u=76281980&t=453)** On-Demand Instances are interrupted by the user, while Spot Instances can be interrupted by the service when capacity is no longer available or when the Spot price exceeds your maximum price On-Demand Instances are suitable for workloads that cannot be interrupted, such as servers and databases, while Spot Instances are suitable for workloads that can be interrupted, like batch processing and data analytics.
+> **[7:33](https://www.linkedin.com/learning/amazon-ec2-essential-training/spot-instances?u=76281980&t=453)** On-Demand Instances are interrupted by the user, while Spot Instances can be interrupted by the service when capacity is no longer available or when the Spot price exceeds your maximum price On-Demand Instances are suitable for workloads that cannot be interrupted, such as servers and [[Databases]], while Spot Instances are suitable for workloads that can be interrupted, like [[Batch Processing]] and data analytics.
 >
 > **[7:59](https://www.linkedin.com/learning/amazon-ec2-essential-training/spot-instances?u=76281980&t=479)** So as you've just seen, Spot Instances can provide cost savings if your application can handle interruptions.
 >
@@ -5324,7 +5287,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (9), aws (5), [[Metadata]] (4), next (3), [[Amazon EC2]] (3)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (9), [[Metadata]] (4), [[Amazon EC2]] (3), [[Databases]] (1), [[Batch Processing]] (1)
 > **Env Vars:** ec2 (12), aws (5), url (1)
 > **Definitions:** is an  (5), is a  (3), known as (2)
 > **CLI Commands:** aws (5), curl (2)
@@ -5333,8 +5296,7 @@ created: 2026-05-02
 > **Warnings:** warning (2), be aware (1)
 > **Prerequisites:** required to (1), you'll need (1)
 
-#### Requesting spot instances
-> [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/requesting-spot-instances?u=76281980)
+#### [Requesting spot instances](https://www.linkedin.com/learning/amazon-ec2-essential-training/requesting-spot-instances?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5388,7 +5350,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/amazon-ec2-essential-training/requesting-spot-instances?u=76281980&t=125)** On this screen you have more configuration options beginning with launch parameters.
 >
-> **[2:10](https://www.linkedin.com/learning/amazon-ec2-essential-training/requesting-spot-instances?u=76281980&t=130)** Launch parameters allow you to define the settings of your EC2 instance.
+> **[2:10](https://www.linkedin.com/learning/amazon-ec2-essential-training/requesting-spot-instances?u=76281980&t=130)** Launch parameters allow you to define the settings of your [[Amazon EC2|EC2]] instance.
 >
 > **[2:15](https://www.linkedin.com/learning/amazon-ec2-essential-training/requesting-spot-instances?u=76281980&t=135)** You can configure this manually or use a launch template.
 >
@@ -5560,7 +5522,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (13), aws (7), [[Amazon EC2|Ec2]] (3), [[Security]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3)
 > **Env Vars:** aws (7), ec2 (3), iam (2), emi (1), ami (1)
 > **UI Navigation:** select the (6), scroll down (2), checkbox (1), dropdown (1)
 > **CLI Commands:** aws (7)
@@ -5569,14 +5531,13 @@ created: 2026-05-02
 > **Definitions:** is a  (3), is an  (2)
 > **Code Identifiers:** vcpus (2), vcpu (1)
 
-#### Reserved instances
-> [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/reserved-instances?u=76281980)
+#### [Reserved instances](https://www.linkedin.com/learning/amazon-ec2-essential-training/reserved-instances?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/reserved-instances?u=76281980&t=0)** - [Instructor] The next purchasing option is Reserved Instances.
 >
-> **[0:03](https://www.linkedin.com/learning/amazon-ec2-essential-training/reserved-instances?u=76281980&t=3)** Reserved Instances provide significant discounts on EC2 usage when you commit to a one year or three year term.
+> **[0:03](https://www.linkedin.com/learning/amazon-ec2-essential-training/reserved-instances?u=76281980&t=3)** Reserved Instances provide significant discounts on [[Amazon EC2|EC2]] usage when you commit to a one year or three year term.
 >
 > **[0:11](https://www.linkedin.com/learning/amazon-ec2-essential-training/reserved-instances?u=76281980&t=11)** Reserved Instances are not a specific instance type, but rather a billing discount applied to the use of On-Demand instances.
 >
@@ -5614,7 +5575,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/reserved-instances?u=76281980&t=120)** Modifying a Reserved Instance allows you to change certain configuration and continue to benefit from the billing discount.
 >
-> **[2:08](https://www.linkedin.com/learning/amazon-ec2-essential-training/reserved-instances?u=76281980&t=128)** Both standard and convertible Reserved Instances can be modified and the following attributes are available for modification, availability zones within the same region, instance size within the same instance family and generation for Linux and Unix instances only, for example, you can change from t2.micro to t2.small instances but you can't change the family, so you can't change from T2 to T3 instance family, and you can also modify the scope.
+> **[2:08](https://www.linkedin.com/learning/amazon-ec2-essential-training/reserved-instances?u=76281980&t=128)** Both standard and convertible Reserved Instances can be modified and the following attributes are available for modification, availability zones within the same region, instance size within the same instance family and generation for [[Linux]] and Unix instances only, for example, you can change from t2.micro to t2.small instances but you can't change the family, so you can't change from T2 to T3 instance family, and you can also modify the scope.
 >
 > **[2:37](https://www.linkedin.com/learning/amazon-ec2-essential-training/reserved-instances?u=76281980&t=157)** That is you can change from a zonal to a regional Reserved Instance and vice versa.
 >
@@ -5672,7 +5633,7 @@ created: 2026-05-02
 >
 > **[5:18](https://www.linkedin.com/learning/amazon-ec2-essential-training/reserved-instances?u=76281980&t=318)** From here, you can define the attributes you're interested in and then search for an available Reserved Instance.
 >
-> **[5:24](https://www.linkedin.com/learning/amazon-ec2-essential-training/reserved-instances?u=76281980&t=324)** For example, you can define the platform, the tenancy, which is default for shared and dedicated for dedicated hardware, the offering class, which can be convertible or standard, the instance type, the term, which can be one year or three years, and the payment option, which can be no upfront, partial upfront, or all upfront.
+> **[5:24](https://www.linkedin.com/learning/amazon-ec2-essential-training/reserved-instances?u=76281980&t=324)** For example, you can define the platform, the tenancy, which is default for shared and dedicated for dedicated [[Hardware]], the offering class, which can be convertible or standard, the instance type, the term, which can be one year or three years, and the payment option, which can be no upfront, partial upfront, or all upfront.
 >
 > **[5:46](https://www.linkedin.com/learning/amazon-ec2-essential-training/reserved-instances?u=76281980&t=346)** After defining new attributes, click the Search button.
 >
@@ -5718,7 +5679,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[Amazon EC2|Ec2]] (3), aws (3), [[Search]] (2), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3), [[Linux]] (1), [[Hardware]] (1)
 > **Env Vars:** ec2 (3), aws (3)
 > **CLI Commands:** aws (3), make (1)
 > **Definitions:** known as (2), is an  (1), in other words (1)
@@ -5727,14 +5688,13 @@ created: 2026-05-02
 > **Cross-References:** go back to (1), next video (1)
 > **Prerequisites:** required to (2)
 
-#### Savings plans
-> [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/savings-plans?u=76281980)
+#### [Savings plans](https://www.linkedin.com/learning/amazon-ec2-essential-training/savings-plans?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/savings-plans?u=76281980&t=0)** - [Instructor] Now let's talk about savings plans.
 >
-> **[0:02](https://www.linkedin.com/learning/amazon-ec2-essential-training/savings-plans?u=76281980&t=2)** Savings plans is a flexible pricing model that offers low prices on EC2 usage in exchange for a commitment of one or three years.
+> **[0:02](https://www.linkedin.com/learning/amazon-ec2-essential-training/savings-plans?u=76281980&t=2)** Savings plans is a flexible pricing model that offers low prices on [[Amazon EC2|EC2]] usage in exchange for a commitment of one or three years.
 >
 > **[0:12](https://www.linkedin.com/learning/amazon-ec2-essential-training/savings-plans?u=76281980&t=12)** This sounds like reserved instances but here is the difference.
 >
@@ -5762,11 +5722,11 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/amazon-ec2-essential-training/savings-plans?u=76281980&t=89)** Here is an example.
 >
-> **[1:30](https://www.linkedin.com/learning/amazon-ec2-essential-training/savings-plans?u=76281980&t=90)** Let's say you are using a t3.large Windows instance in the us-east-1 region.
+> **[1:30](https://www.linkedin.com/learning/amazon-ec2-essential-training/savings-plans?u=76281980&t=90)** Let's say you are using a t3.large [[Windows]] instance in the us-east-1 region.
 >
 > **[1:35](https://www.linkedin.com/learning/amazon-ec2-essential-training/savings-plans?u=76281980&t=95)** With the EC2 instance savings plan, you can change the instance size and operating system but not the family and the region.
 >
-> **[1:43](https://www.linkedin.com/learning/amazon-ec2-essential-training/savings-plans?u=76281980&t=103)** So as an example, you could switch to a t3-medium Linux instance in the same region, that is us-east-1.
+> **[1:43](https://www.linkedin.com/learning/amazon-ec2-essential-training/savings-plans?u=76281980&t=103)** So as an example, you could switch to a t3-medium [[Linux]] instance in the same region, that is us-east-1.
 >
 > **[1:51](https://www.linkedin.com/learning/amazon-ec2-essential-training/savings-plans?u=76281980&t=111)** To purchase a savings plan, you will need to enable Cost Explorer.
 >
@@ -5786,7 +5746,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/amazon-ec2-essential-training/savings-plans?u=76281980&t=171)** From the EC2 console, click savings plans on the left navigation pane then click purchase savings plans.
 >
-> **[2:59](https://www.linkedin.com/learning/amazon-ec2-essential-training/savings-plans?u=76281980&t=179)** Doing so will navigate you over to the cost management service and from here, you can purchase a savings plan.
+> **[2:59](https://www.linkedin.com/learning/amazon-ec2-essential-training/savings-plans?u=76281980&t=179)** Doing so will navigate you over to the [[Cost Management]] service and from here, you can purchase a savings plan.
 >
 > **[3:06](https://www.linkedin.com/learning/amazon-ec2-essential-training/savings-plans?u=76281980&t=186)** Here are the three plan types we discussed: compute savings plans, EC2 instant savings plans and SageMaker savings plans.
 >
@@ -5798,7 +5758,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (11), aws (3), [[Windows]] (1), [[Linux]] (1), [[Cost Management]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (11), [[Windows]] (1), [[Linux]] (1), [[Cost Management]] (1)
 > **Env Vars:** ec2 (11), aws (3), usd (1)
 > **Definitions:** is a  (3), is an  (2)
 > **CLI Commands:** aws (3)
@@ -5807,11 +5767,9 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dedicated instances vs. dedicated hosts
-> [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/dedicated-instances-vs-dedicated-hosts?u=76281980)
+#### [Dedicated instances vs. dedicated hosts](https://www.linkedin.com/learning/amazon-ec2-essential-training/dedicated-instances-vs-dedicated-hosts?u=76281980)
 
-#### Launching dedicated instances and dedicated hosts
-> [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/launching-dedicated-instances-and-dedicated-hosts?u=76281980)
+#### [Launching dedicated instances and dedicated hosts](https://www.linkedin.com/learning/amazon-ec2-essential-training/launching-dedicated-instances-and-dedicated-hosts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5825,7 +5783,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/amazon-ec2-essential-training/launching-dedicated-instances-and-dedicated-hosts?u=76281980&t=30)** Then click launch instance.
 >
-> **[0:32](https://www.linkedin.com/learning/amazon-ec2-essential-training/launching-dedicated-instances-and-dedicated-hosts?u=76281980&t=32)** The EC2 instance will be launched as a dedicated instance.
+> **[0:32](https://www.linkedin.com/learning/amazon-ec2-essential-training/launching-dedicated-instances-and-dedicated-hosts?u=76281980&t=32)** The [[Amazon EC2|EC2]] instance will be launched as a dedicated instance.
 >
 > **[0:36](https://www.linkedin.com/learning/amazon-ec2-essential-training/launching-dedicated-instances-and-dedicated-hosts?u=76281980&t=36)** Now, let's talk about launching instances on a dedicated host.
 >
@@ -5881,7 +5839,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/amazon-ec2-essential-training/launching-dedicated-instances-and-dedicated-hosts?u=76281980&t=187)** If there is a problem with a dedicated host, AWS will automatically restart your EC2 instances on a new replacement dedicated host.
 >
-> **[3:15](https://www.linkedin.com/learning/amazon-ec2-essential-training/launching-dedicated-instances-and-dedicated-hosts?u=76281980&t=195)** This could be due to loss of network connectivity, system power, or hardware or software issues on the physical server.
+> **[3:15](https://www.linkedin.com/learning/amazon-ec2-essential-training/launching-dedicated-instances-and-dedicated-hosts?u=76281980&t=195)** This could be due to loss of network connectivity, system power, or [[Hardware]] or software issues on the physical server.
 >
 > **[3:22](https://www.linkedin.com/learning/amazon-ec2-essential-training/launching-dedicated-instances-and-dedicated-hosts?u=76281980&t=202)** The next option is about host maintenance.
 >
@@ -5947,7 +5905,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (12), next (8), aws (6), [[Hardware]] (3), [[Security]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (12), [[Hardware]] (3)
 > **Env Vars:** ec2 (12), aws (6), ami (1), arn (1)
 > **UI Navigation:** navigate to (3), scroll down (2), select the (2)
 > **CLI Commands:** aws (6)
@@ -5961,14 +5919,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Additional resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/additional-resources?u=76281980)
+#### [Additional resources](https://www.linkedin.com/learning/amazon-ec2-essential-training/additional-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/additional-resources?u=76281980&t=0)** - [Shyam] Congratulations on completing this course on Amazon EC2.
+> **[0:00](https://www.linkedin.com/learning/amazon-ec2-essential-training/additional-resources?u=76281980&t=0)** - [Shyam] Congratulations on completing this course on [[Amazon EC2]].
 >
-> **[0:04](https://www.linkedin.com/learning/amazon-ec2-essential-training/additional-resources?u=76281980&t=4)** By now, you should have gained a solid understanding of how to launch, manage, and scale EC2 instances in the AWS cloud.
+> **[0:04](https://www.linkedin.com/learning/amazon-ec2-essential-training/additional-resources?u=76281980&t=4)** By now, you should have gained a solid understanding of how to launch, manage, and scale [[Amazon EC2|EC2]] instances in the AWS cloud.
 >
 > **[0:12](https://www.linkedin.com/learning/amazon-ec2-essential-training/additional-resources?u=76281980&t=12)** I hope you found this course insightful and that the skills you acquired will help you in your career.
 >
@@ -5976,13 +5933,13 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/amazon-ec2-essential-training/additional-resources?u=76281980&t=23)** If you're interested in taking your EC2 knowledge to the next level, I encourage you to check out my course on EC2 load balancers.
 >
-> **[0:31](https://www.linkedin.com/learning/amazon-ec2-essential-training/additional-resources?u=76281980&t=31)** This is where you'll learn how to optimize your EC2 infrastructure for scalability and high availability and gain a deeper understanding of how load balancers work in the AWS cloud.
+> **[0:31](https://www.linkedin.com/learning/amazon-ec2-essential-training/additional-resources?u=76281980&t=31)** This is where you'll learn how to optimize your EC2 infrastructure for [[Scalability]] and high availability and gain a deeper understanding of how load balancers work in the AWS cloud.
 >
 > **[0:42](https://www.linkedin.com/learning/amazon-ec2-essential-training/additional-resources?u=76281980&t=42)** Thank you again for choosing to learn with me, and I wish you all the best in your future endeavors.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (4), aws (2), cloud (2), [[Amazon EC2]] (1), career (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (4), [[Amazon EC2]] (1), [[Scalability]] (1)
 > **Env Vars:** ec2 (5), aws (2)
 > **CLI Commands:** aws (2)
 > **Speakers:** - [shyam] (1)

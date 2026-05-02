@@ -82,12 +82,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Hands-on with advanced Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/hands-on-with-advanced-python?u=76281980)
+#### [Hands-on with advanced Python](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/hands-on-with-advanced-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/hands-on-with-advanced-python?u=76281980&t=0)** - Are you a Python developer who's looking to get more hands-on experience?
+> **[0:00](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/hands-on-with-advanced-python?u=76281980&t=0)** - Are you a [[Python (Programming Language)|Python]] developer who's looking to get more hands-on experience?
 >
 > **[0:04](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/hands-on-with-advanced-python?u=76281980&t=4)** Great.
 >
@@ -103,25 +102,24 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/hands-on-with-advanced-python?u=76281980&t=31)** And we'll even see how to use some of the mathematical features of Python, such as working with random numbers and some statistical functions like median, mean and standard deviation.
 >
-> **[0:42](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/hands-on-with-advanced-python?u=76281980&t=42)** Learning Python programming concepts is fun, but it's even more fun when you put the theory aside and just start building real things.
+> **[0:42](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/hands-on-with-advanced-python?u=76281980&t=42)** Learning Python [[Programming Concepts]] is fun, but it's even more fun when you put the theory aside and just start building real things.
 >
 > **[0:49](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/hands-on-with-advanced-python?u=76281980&t=49)** Let's jump in and get started on our hands-on Python journey.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), data (1), [[Programming Concepts]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Programming Concepts]] (1)
 > **CLI Commands:** python (7)
 > **Analogies:** such as (1)
 > **Speakers:** - are (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/what-you-should-know?u=76281980&t=0)** - [Instructor] Before getting started with this course, there are some things that you should already know and be familiar with.
 >
-> **[0:06](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/what-you-should-know?u=76281980&t=6)** So first, this course is intended for people who are already familiar with the basics of programming in Python.
+> **[0:06](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/what-you-should-know?u=76281980&t=6)** So first, this course is intended for people who are already familiar with the basics of programming in [[Python (Programming Language)|Python]].
 >
 > **[0:12](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/what-you-should-know?u=76281980&t=12)** You don't need to be an expert, but this isn't the place to start if you're brand new to Python programming.
 >
@@ -153,20 +151,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[Programming]] (4), data (2), feature (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10)
 > **CLI Commands:** python (10)
 > **Tools:** visual studio (3), vs code (1)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [instructor] (1)
 
-#### Getting set up: Codespaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/getting-set-up-codespaces?u=76281980)
+#### [Getting set up: Codespaces](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/getting-set-up-codespaces?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/getting-set-up-codespaces?u=76281980&t=0)** - [Instructor] There are a couple of different ways you can work with the example code in this course.
 >
-> **[0:05](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/getting-set-up-codespaces?u=76281980&t=5)** I've set up a GitHub repository with the examples, and you can find it at this link.
+> **[0:05](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/getting-set-up-codespaces?u=76281980&t=5)** I've set up a [[GitHub]] repository with the examples, and you can find it at this link.
 >
 > **[0:10](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/getting-set-up-codespaces?u=76281980&t=10)** The course content is organized into two separate folders.
 >
@@ -178,13 +175,13 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/getting-set-up-codespaces?u=76281980&t=40)** You can clone the repository or download a zip file and then use your favorite code editor to work on them.
 >
-> **[0:48](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/getting-set-up-codespaces?u=76281980&t=48)** You'll just need to make sure that you have Python installed on your computer, at least version 3.10, in order to use the examples.
+> **[0:48](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/getting-set-up-codespaces?u=76281980&t=48)** You'll just need to make sure that you have [[Python (Programming Language)|Python]] installed on your computer, at least version 3.10, in order to use the examples.
 >
 > **[0:55](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/getting-set-up-codespaces?u=76281980&t=55)** But this repository has also been set up with a GitHub Codespace so you can just work directly online with nothing to install.
 >
 > **[1:03](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/getting-set-up-codespaces?u=76281980&t=63)** All you need to do is fork a copy of the repository in your own GitHub account and then fire up a Codespace here in the code menu.
 >
-> **[1:13](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/getting-set-up-codespaces?u=76281980&t=73)** Just click on Codespaces, click on this little plus sign right here, and that will create a Codespace for you and you won't need to install anything.
+> **[1:13](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/getting-set-up-codespaces?u=76281980&t=73)** Just click on [[Codespaces]], click on this little plus sign right here, and that will create a Codespace for you and you won't need to install anything.
 >
 > **[1:21](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/getting-set-up-codespaces?u=76281980&t=81)** Now you can see that I've already done that and this is the Codespace that I'm going to be using in the course.
 >
@@ -212,7 +209,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/getting-set-up-codespaces?u=76281980&t=170)** You can find them in the marketplace, so if I click on the Python extension here, this is actually the only one you need to install because when you install this, this will install Pylance for you.
 >
-> **[3:00](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/getting-set-up-codespaces?u=76281980&t=180)** So if it's not already installed and VS Code doesn't prompt you for it, go ahead over to the extensions marketplace, search for this Python extension, it's the one from Microsoft, it's the one with all the downloads, so that's the one that you want to install.
+> **[3:00](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/getting-set-up-codespaces?u=76281980&t=180)** So if it's not already installed and VS Code doesn't prompt you for it, go ahead over to the extensions marketplace, search for this Python extension, it's the one from [[Microsoft]], it's the one with all the downloads, so that's the one that you want to install.
 >
 > **[3:13](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/getting-set-up-codespaces?u=76281980&t=193)** Install this and then you'll be able to work with Python really easily within VS Code.
 >
@@ -220,7 +217,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/getting-set-up-codespaces?u=76281980&t=203)** So what I'm going to do is up here in this menu, I'll go to File, and in Preferences, I'll check Settings, or you can type control comma to bring this up.
 >
-> **[3:33](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/getting-set-up-codespaces?u=76281980&t=213)** So once you bring up the settings, do a search on the word execute, and you'll see that as you do this, there's a preference right here called Execute in File Dir.
+> **[3:33](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/getting-set-up-codespaces?u=76281980&t=213)** So once you bring up the settings, do a search on the [[Microsoft Word|word]] execute, and you'll see that as you do this, there's a preference right here called Execute in File Dir.
 >
 > **[3:43](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/getting-set-up-codespaces?u=76281980&t=223)** This should be checked.
 >
@@ -230,7 +227,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[GitHub]] (3), [[Codespaces]] (2), prompt (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[GitHub]] (3), [[Codespaces]] (2), [[Microsoft]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** python (10), make (5), find (2)
 > **Prerequisites:** install (7), set up (3), you'll need (1)
 > **Tools:** github (3), terminal (3), vs code (3), visual studio (1)
@@ -239,8 +236,7 @@ created: 2026-05-02
 > **Exercise Files:** download the (2), zip file (1)
 > **Speakers:** - [instructor] (1)
 
-#### CoderPad challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/coderpad-challenges?u=76281980)
+#### [CoderPad challenges](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/coderpad-challenges?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -250,7 +246,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/coderpad-challenges?u=76281980&t=16)** These challenges are hosted by CoderPad, and they appear in the same area of the course page where you watch the course's videos.
 >
-> **[0:24](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/coderpad-challenges?u=76281980&t=24)** We recommend using a desktop browser for the best experience with the code challenges, but you can use the LinkedIn Learning mobile app if you prefer.
+> **[0:24](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/coderpad-challenges?u=76281980&t=24)** We recommend using a desktop browser for the best experience with the code challenges, but you can use the [[LinkedIn]] Learning mobile app if you prefer.
 >
 > **[0:31](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/coderpad-challenges?u=76281980&t=31)** The code challenge has four areas.
 >
@@ -304,21 +300,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** scroll down (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### The sample weather data set
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/the-sample-weather-data-set?u=76281980)
+#### [The sample weather data set](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/the-sample-weather-data-set?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/the-sample-weather-data-set?u=76281980&t=0)** - [Instructor] Let's take a look at the dataset that we'll be using for this course.
 >
-> **[0:04](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/the-sample-weather-data-set?u=76281980&t=4)** The data is contained in a file named sample-weather-history.json and it's located in the top level folder of the example files.
+> **[0:04](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/the-sample-weather-data-set?u=76281980&t=4)** The data is contained in a file named sample-weather-history.[[JSON]] and it's located in the top level folder of the example files.
 >
 > **[0:12](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/the-sample-weather-data-set?u=76281980&t=12)** So when I open this file, you can see that it's a big array of json data objects, each of which contains some data about the weather of a particular day for a particular location.
 >
@@ -334,7 +329,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[JSON]] (2)
+> **Frameworks & Libraries:** [[JSON]] (2)
 > **File Paths:** sample-weather-history.json (1)
 > **Speakers:** - [instructor] (1)
 
@@ -343,14 +338,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Loading and parsing JSON data
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/loading-and-parsing-json-data?u=76281980)
+#### [Loading and parsing JSON data](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/loading-and-parsing-json-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/loading-and-parsing-json-data?u=76281980&t=0)** - [Instructor] Let's start off by making sure that we can successfully load the dataset in order to work on it.
 >
-> **[0:05](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/loading-and-parsing-json-data?u=76281980&t=5)** So to do this, we're going to have to load the JSON file and parse it into a Python object.
+> **[0:05](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/loading-and-parsing-json-data?u=76281980&t=5)** So to do this, we're going to have to load the [[JSON]] file and parse it into a [[Python (Programming Language)|Python]] object.
 >
 > **[0:11](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/loading-and-parsing-json-data?u=76281980&t=11)** And luckily, Python gives us some high-level functions for doing exactly that.
 >
@@ -482,11 +476,11 @@ created: 2026-05-02
 >
 > **[6:54](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/loading-and-parsing-json-data?u=76281980&t=414)** All right, so at this point, it looks like we're loading and parsing the data just fine.
 >
-> **[6:58](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/loading-and-parsing-json-data?u=76281980&t=418)** So we can continue with the rest of the chapter.
+> **[6:58](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/loading-and-parsing-json-data?u=76281980&t=418)** So we can continue with the [[Representational State Transfer (REST)|rest]] of the chapter.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Python (Programming Language)|Python]] (12), [[JSON]] (8), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), [[JSON]] (8), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** python (12), make (2)
 > **Tools:** terminal (12)
 > **Env Vars:** json (5)
@@ -495,8 +489,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1)
 
-#### Basic data operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/basic-data-operations?u=76281980)
+#### [Basic data operations](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/basic-data-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -504,7 +497,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/basic-data-operations?u=76281980&t=6)** So for example, let's find out which day had the warmest temperature in the entire dataset.
 >
-> **[0:11](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/basic-data-operations?u=76281980&t=11)** So here in my editor, I'll open up basicdata.py, and you can see that I've already imported the JSON and pretty print modules, and I've already got the code to open the file, and I'll be doing that through the rest of the course.
+> **[0:11](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/basic-data-operations?u=76281980&t=11)** So here in my editor, I'll open up basicdata.py, and you can see that I've already imported the [[JSON]] and pretty print modules, and I've already got the code to open the file, and I'll be doing that through the [[Representational State Transfer (REST)|rest]] of the course.
 >
 > **[0:23](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/basic-data-operations?u=76281980&t=23)** There's no sense in making you type that each and every time.
 >
@@ -532,7 +525,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/basic-data-operations?u=76281980&t=97)** So each time through that loop, the X variable is going to be an entire one of these records.
 >
-> **[1:43](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/basic-data-operations?u=76281980&t=103)** So I need to index into that record to get the tmax property, and then I'm going to print, and I'm going to use a format string for this, the warmest day was, and we'll output warmday, and remember, warmday is a full data record, so I'll get the date of that data record, at, and then once again, I'll put in, whoops, got to close that curly brace right there, warmday, and then we'll print out the temperature tmax, and we'll put in the word degrees.
+> **[1:43](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/basic-data-operations?u=76281980&t=103)** So I need to index into that record to get the tmax property, and then I'm going to print, and I'm going to use a format string for this, the warmest day was, and we'll output warmday, and remember, warmday is a full data record, so I'll get the date of that data record, at, and then once again, I'll put in, whoops, got to close that curly brace right there, warmday, and then we'll print out the temperature tmax, and we'll put in the [[Microsoft Word|word]] degrees.
 >
 > **[2:24](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/basic-data-operations?u=76281980&t=144)** All right, and then let's do the same thing to find the coldest day in the dataset.
 >
@@ -562,7 +555,7 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/basic-data-operations?u=76281980&t=229)** And there's a variety of ways you could do this.
 >
-> **[3:51](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/basic-data-operations?u=76281980&t=231)** You could loop through all the days and count the ones where the snow field was larger than zero, but in this case I'm going to use what's called a Python list comprehension, and I cover these in detail in one of the courses I talked about earlier, back in my introduction video, which is Advanced Python Language Features.
+> **[3:51](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/basic-data-operations?u=76281980&t=231)** You could loop through all the days and count the ones where the snow field was larger than zero, but in this case I'm going to use what's called a [[Python (Programming Language)|Python]] list comprehension, and I cover these in detail in one of the courses I talked about earlier, back in my introduction video, which is Advanced Python Language Features.
 >
 > **[4:09](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/basic-data-operations?u=76281980&t=249)** A list comprehension basically creates a new list in a very concise syntax.
 >
@@ -592,7 +585,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Python (Programming Language)|Python]] (3), [[JSON]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[JSON]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (4), python (3)
 > **Tools:** terminal (2)
 > **UI Navigation:** open the (1), right-click (1)
@@ -601,8 +594,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Filtering data
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/filtering-data?u=76281980)
+#### [Filtering data](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/filtering-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -726,7 +718,7 @@ created: 2026-05-02
 >
 > **[6:29](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/filtering-data?u=76281980&t=389)** And then let's just run what we have.
 >
-> **[6:31](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/filtering-data?u=76281980&t=391)** So I'll run Python in the terminal.
+> **[6:31](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/filtering-data?u=76281980&t=391)** So I'll run [[Python (Programming Language)|Python]] in the terminal.
 >
 > **[6:34](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/filtering-data?u=76281980&t=394)** And if we scroll back up, we can see.
 >
@@ -744,7 +736,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (2), python (1)
 > **Definitions:** is a  (2), in other words (1)
 > **Cross-References:** previous video (1), in the last (1)
@@ -753,8 +745,7 @@ created: 2026-05-02
 > **Versions:** 1.0 (1)
 > **Analogies:** just like (1)
 
-#### Solution: Filtering
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/solution-filtering?u=76281980)
+#### [Solution: Filtering](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/solution-filtering?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -770,7 +761,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/solution-filtering?u=76281980&t=33)** So you had to take that into account for your solution.
 >
-> **[0:36](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/solution-filtering?u=76281980&t=36)** So in my solution, I first import the JSON module and then I open the data file, which as I said in the instructions, was located in the depths folder, and it's the same name as we've been given.
+> **[0:36](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/solution-filtering?u=76281980&t=36)** So in my solution, I first import the [[JSON]] module and then I open the data file, which as I said in the instructions, was located in the depths folder, and it's the same name as we've been given.
 >
 > **[0:51](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/solution-filtering?u=76281980&t=51)** So this code should look familiar, because we've been doing this throughout the course so far.
 >
@@ -792,7 +783,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[JSON]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **Versions:** 0.7 (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** json (1)
@@ -800,8 +791,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sorting data
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/sorting-data?u=76281980)
+#### [Sorting data](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/sorting-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -813,7 +803,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/sorting-data?u=76281980&t=28)** So this is going to give us a much more manageable set of data to work with in this example.
 >
-> **[0:34](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/sorting-data?u=76281980&t=34)** There's a couple of different ways to sort data in Python using functions that are built into the language that don't require a third-party library like Pandas or NumPy.
+> **[0:34](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/sorting-data?u=76281980&t=34)** There's a couple of different ways to sort data in [[Python (Programming Language)|Python]] using functions that are built into the language that don't require a third-party library like [[Pandas (Software)|Pandas]] or NumPy.
 >
 > **[0:44](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/sorting-data?u=76281980&t=44)** The first is to use the top-level sorted function which takes an iterable object and creates a new sequence of sorted data.
 >
@@ -915,7 +905,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1)
 > **Versions:** 0.2 (4), 0.3 (4), 2.5 (1), 5.9 (1), 1.9 (1)
 > **CLI Commands:** make (2), python (1)
 > **UI Navigation:** scroll down (2), go to (1)
@@ -924,8 +914,7 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Definitions:** in other words (1)
 
-#### Transforming data
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/transforming-data?u=76281980)
+#### [Transforming data](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/transforming-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1101,7 +1090,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (31)
 > **CLI Commands:** make (3), find (1)
 > **Code Identifiers:** metric_weather (2), tuple_data (1)
 > **UI Navigation:** scroll up (1), scroll down (1), go to (1)
@@ -1109,9 +1097,9 @@ created: 2026-05-02
 > **Env Vars:** snwd (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
+> **Speakers:** - [narrator] (1)
 
-#### Solution: Transforms
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/solution-transforms?u=76281980)
+#### [Solution: Transforms](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/solution-transforms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1119,7 +1107,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/solution-transforms?u=76281980&t=19)** So here is how I solved this challenge.
 >
-> **[0:22](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/solution-transforms?u=76281980&t=22)** First, my code needs to import the JSON module and then open the weather data file.
+> **[0:22](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/solution-transforms?u=76281980&t=22)** First, my code needs to import the [[JSON]] module and then open the weather data file.
 >
 > **[0:30](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/solution-transforms?u=76281980&t=30)** And we've already seen how to do this.
 >
@@ -1139,7 +1127,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[JSON]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **UI Navigation:** open the (1), click on (1)
 > **Env Vars:** json (1)
 > **Speakers:** - [instructor] (1)
@@ -1149,8 +1137,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Count values with defaultdict
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/count-values-with-defaultdict?u=76281980)
+#### [Count values with defaultdict](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/count-values-with-defaultdict?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1158,7 +1145,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/count-values-with-defaultdict?u=76281980&t=7)** It's actually pretty fairly common to use dictionaries to keep track of counts and other data values and then map them back to keys.
 >
-> **[0:16](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/count-values-with-defaultdict?u=76281980&t=16)** There's a data structure in Python's collections module that makes this process a little bit easier called the defaultdict, and I'm going to be using it in this example.
+> **[0:16](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/count-values-with-defaultdict?u=76281980&t=16)** There's a data structure in [[Python (Programming Language)|Python]]'s collections module that makes this process a little bit easier called the defaultdict, and I'm going to be using it in this example.
 >
 > **[0:25](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/count-values-with-defaultdict?u=76281980&t=25)** So let's go ahead and open up the defaultdict source code file.
 >
@@ -1290,7 +1277,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Python (Programming Language)|Python]] (3), feature (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3)
 > **Code Identifiers:** years_months (3), year_month (2), warmest_day (1), coldest_day (1)
 > **Cross-References:** earlier in (3), as we saw (2), go back to (1)
 > **Definitions:** is a  (6)
@@ -1299,8 +1286,7 @@ created: 2026-05-02
 > **Best Practices:** the key is (2)
 > **Tools:** terminal (1)
 
-#### Using the reduce function
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/using-the-reduce-function?u=76281980)
+#### [Using the reduce function](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/using-the-reduce-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1312,7 +1298,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/using-the-reduce-function?u=76281980&t=20)** So for example, we used min and max to find the coldest and warmest days out of the entire dataset.
 >
-> **[0:27](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/using-the-reduce-function?u=76281980&t=27)** Python provides a more generic function called "Reduce" that does the same thing using a callback function that your code provides in order to control the reduction algorithm.
+> **[0:27](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/using-the-reduce-function?u=76281980&t=27)** [[Python (Programming Language)|Python]] provides a more generic function called "Reduce" that does the same thing using a callback function that your code provides in order to control the reduction algorithm.
 >
 > **[0:39](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/using-the-reduce-function?u=76281980&t=39)** So let's start with a simple example to see how this works.
 >
@@ -1480,7 +1466,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Python (Programming Language)|Python]] (1), generic (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (2), python (1), make (1)
 > **Code Identifiers:** total_snowfall (1), total_precip (1), warm_snow_day (1)
 > **Definitions:** is called (2), is a  (1)
@@ -1489,14 +1475,13 @@ created: 2026-05-02
 > **Env Vars:** prcp (1)
 > **Tools:** notion (1)
 
-#### Grouping data
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/grouping-data?u=76281980)
+#### [Grouping data](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/grouping-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/grouping-data?u=76281980&t=0)** - [Lecturer] In this example, we're going to take a look at how to organize data into groups.
 >
-> **[0:05](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/grouping-data?u=76281980&t=5)** And we're going to do this by making use of the group by function that is included in the inner tools module from the Python Standard Library.
+> **[0:05](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/grouping-data?u=76281980&t=5)** And we're going to do this by making use of the group by function that is included in the inner tools module from the [[Python (Programming Language)|Python]] Standard Library.
 >
 > **[0:14](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/grouping-data?u=76281980&t=14)** So let's open up our grouping code and let's go ahead and give ourselves some more space to read.
 >
@@ -1658,7 +1643,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Python (Programming Language)|Python]] (2), feature (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** make (4), python (2)
 > **Versions:** 0.02 (2), 0.01 (1), 0.1 (1)
 > **Cross-References:** go back to (2), earlier in (1)
@@ -1667,8 +1652,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Analogies:** just like (1)
 
-#### Working with dates
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/working-with-dates?u=76281980)
+#### [Working with dates](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/working-with-dates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1678,7 +1662,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/working-with-dates?u=76281980&t=6)** Dealing with time zones and leap years and performing calculations on date and time values, these are not exactly high on the list of most developers' ideas of fun.
 >
-> **[0:17](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/working-with-dates?u=76281980&t=17)** Now thankfully Python makes this process a little easier because it includes a module for working with these data types as a part of the standard library.
+> **[0:17](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/working-with-dates?u=76281980&t=17)** Now thankfully [[Python (Programming Language)|Python]] makes this process a little easier because it includes a module for working with these data types as a part of the standard library.
 >
 > **[0:26](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/working-with-dates?u=76281980&t=26)** And in this example we're going to use that module to perform some basic date-related operations.
 >
@@ -1870,7 +1854,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (14), data (10), [[Python (Programming Language)|Python]] (3), hit (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3)
 > **CLI Commands:** find (5), python (3)
 > **Env Vars:** iso (6)
 > **Cross-References:** go back to (1), earlier in (1)
@@ -1879,8 +1863,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Definitions:** is a  (1)
 
-#### Solution: Collections
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/solution-collections?u=76281980)
+#### [Solution: Collections](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/solution-collections?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1928,7 +1911,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4)
 > **CLI Commands:** find (1)
 > **Versions:** 3.3 (1)
 > **Speakers:** - [instructor] (1)
@@ -1938,8 +1920,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Random values
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/random-values?u=76281980)
+#### [Random values](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/random-values?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1947,9 +1928,9 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/random-values?u=76281980&t=8)** So let's open up our random numbers example here.
 >
-> **[0:11](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/random-values?u=76281980&t=11)** So random numbers are used for a variety of scenarios from simulations to machine learning to games and even software testing.
+> **[0:11](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/random-values?u=76281980&t=11)** So random numbers are used for a variety of scenarios from simulations to machine learning to games and even [[Software Testing]].
 >
-> **[0:21](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/random-values?u=76281980&t=21)** In Python one of the ways to generate random values is to use the random module from the standard library.
+> **[0:21](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/random-values?u=76281980&t=21)** In [[Python (Programming Language)|Python]] one of the ways to generate random values is to use the random module from the standard library.
 >
 > **[0:27](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/random-values?u=76281980&t=27)** And you can see that I've imported that here.
 >
@@ -2055,7 +2036,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Software Testing]] (1), [[Python (Programming Language)|Python]] (1), next (1)
+> **Frameworks & Libraries:** [[Software Testing]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1), find (1), make (1)
 > **Cross-References:** go back to (2), next video (1)
 > **Versions:** 0.211 (1)
@@ -2064,8 +2045,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Random operations on sequences
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/random-operations-on-sequences?u=76281980)
+#### [Random operations on sequences](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/random-operations-on-sequences?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2075,7 +2055,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/random-operations-on-sequences?u=76281980&t=15)** So let's open up our random operations, and give ourselves a little room to work here.
 >
-> **[0:23](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/random-operations-on-sequences?u=76281980&t=23)** So I have some initial code that selects the first 30 days from the weather dataset after it is loaded and parsed by the JSON module.
+> **[0:23](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/random-operations-on-sequences?u=76281980&t=23)** So I have some initial code that selects the first 30 days from the weather dataset after it is loaded and parsed by the [[JSON]] module.
 >
 > **[0:32](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/random-operations-on-sequences?u=76281980&t=32)** So first, let's see how the shuffle function works.
 >
@@ -2153,7 +2133,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[JSON]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** month_data (2), rnd_day (1), rnd_days (1)
 > **Cross-References:** previous video (1), go back to (1)
@@ -2162,8 +2142,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Random days
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/solution-random-days?u=76281980)
+#### [Solution: Random days](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/solution-random-days?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2173,7 +2152,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/solution-random-days?u=76281980&t=15)** So here in my solution, what I do first is I concatenate the year and the month into a single string separated by a dash, because that's the date format that's used by the sample data.
 >
-> **[0:28](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/solution-random-days?u=76281980&t=28)** And that gives me an easy way of filtering out the rest of the data and only keeping the days that are in the year and month, which is what the next part of the code does.
+> **[0:28](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/solution-random-days?u=76281980&t=28)** And that gives me an easy way of filtering out the [[Representational State Transfer (REST)|rest]] of the data and only keeping the days that are in the year and month, which is what the next part of the code does.
 >
 > **[0:39](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/solution-random-days?u=76281980&t=39)** This is the year, month filter, callback function and this call to filter.
 >
@@ -2199,18 +2178,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** earlier in (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Statistical functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/statistical-functions?u=76281980)
+#### [Statistical functions](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/statistical-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/statistical-functions?u=76281980&t=0)** - [Instructor] The Python Standard Library includes a statistics module in which you can find a variety of functions for calculating common statistical data.
+> **[0:00](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/statistical-functions?u=76281980&t=0)** - [Instructor] The [[Python (Programming Language)|Python]] Standard Library includes a [[Statistics]] module in which you can find a variety of functions for calculating common statistical data.
 >
 > **[0:09](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/statistical-functions?u=76281980&t=9)** And we're going to use that module in this example to determine values such as the mean, the median, and standard deviation of certain values in the dataset.
 >
@@ -2348,7 +2326,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (11), data (8), [[Python (Programming Language)|Python]] (3)
+> **Frameworks & Libraries:** [[Statistics]] (11), [[Python (Programming Language)|Python]] (3)
 > **CLI Commands:** find (4), python (3), make (2)
 > **Versions:** 100.02 (1), 58.99 (1)
 > **Tools:** terminal (2)
@@ -2356,8 +2334,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Detect outliers
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/solution-detect-outliers?u=76281980)
+#### [Solution: Detect outliers](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/solution-detect-outliers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2389,7 +2366,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/solution-detect-outliers?u=76281980&t=92)** And you can see that that's this little helper function right here that's calculating the average temp.
 >
-> **[1:36](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/solution-detect-outliers?u=76281980&t=96)** And so once I have that list of average temps, I can then use the statistics package to calculate the mean value for those average temps.
+> **[1:36](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/solution-detect-outliers?u=76281980&t=96)** And so once I have that list of average temps, I can then use the [[Statistics]] package to calculate the mean value for those average temps.
 >
 > **[1:44](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/solution-detect-outliers?u=76281980&t=104)** And that gives me this average mean right here.
 >
@@ -2413,7 +2390,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2422,8 +2399,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2431,11 +2407,11 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/next-steps?u=76281980&t=3)** Congratulations on completing it.
 >
-> **[0:05](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/next-steps?u=76281980&t=5)** I hope that the practical hands-on nature of this course helped you understand how some of the more theoretical concepts, such as data structures and algorithms can be applied to real problems.
+> **[0:05](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/next-steps?u=76281980&t=5)** I hope that the practical hands-on nature of this course helped you understand how some of the more theoretical concepts, such as [[Data Structures]] and [[Algorithms]] can be applied to real problems.
 >
 > **[0:18](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/next-steps?u=76281980&t=18)** And I hope it inspired you to try out some of the techniques, programming projects that you are currently working on.
 >
-> **[0:24](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/next-steps?u=76281980&t=24)** Be sure to follow me on LinkedIn to find out when I've got new courses coming out and to be notified when I publish my weekly tips on how to use common Python features.
+> **[0:24](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/next-steps?u=76281980&t=24)** Be sure to follow me on [[LinkedIn]] to find out when I've got new courses coming out and to be notified when I publish my weekly tips on how to use common [[Python (Programming Language)|Python]] features.
 >
 > **[0:33](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/next-steps?u=76281980&t=33)** I hope to see you again soon in another one of my courses.
 >
@@ -2443,7 +2419,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Algorithms]] (1), [[Programming]] (1), [[LinkedIn]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Data Structures]] (1), [[Algorithms]] (1), [[LinkedIn]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (1), python (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)

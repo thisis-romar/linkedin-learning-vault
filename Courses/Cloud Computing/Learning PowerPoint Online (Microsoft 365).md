@@ -93,18 +93,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting to know PowerPoint for the web
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/getting-to-know-powerpoint-for-the-web?u=76281980)
+#### [Getting to know PowerPoint for the web](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/getting-to-know-powerpoint-for-the-web?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/getting-to-know-powerpoint-for-the-web?u=76281980&t=0)** - [Heather] Welcome to PowerPoint for the web.
+> **[0:00](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/getting-to-know-powerpoint-for-the-web?u=76281980&t=0)** - [Heather] Welcome to [[Microsoft PowerPoint|PowerPoint]] for the web.
 >
 > **[0:02](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/getting-to-know-powerpoint-for-the-web?u=76281980&t=2)** PowerPoint is a powerful tool for designing and delivering presentations.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/getting-to-know-powerpoint-for-the-web?u=76281980&t=7)** There are some specific differences as to how you work with these tools in the web version.
 >
-> **[0:12](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/getting-to-know-powerpoint-for-the-web?u=76281980&t=12)** I'm Heather Severino, a Microsoft certified trainer and Microsoft most valuable professional for Office apps and services.
+> **[0:12](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/getting-to-know-powerpoint-for-the-web?u=76281980&t=12)** I'm Heather Severino, a [[Microsoft]] certified trainer and Microsoft most valuable professional for [[Microsoft Office|Office]] apps and services.
 >
 > **[0:20](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/getting-to-know-powerpoint-for-the-web?u=76281980&t=20)** I'll be helping you understand how to work with this application.
 >
@@ -116,12 +115,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (3), web (2), [[Microsoft]] (2), [[Microsoft Office|Office]] (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (3), [[Microsoft]] (2), [[Microsoft Office|Office]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [heather] (1)
 
-#### How to use the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/how-to-use-the-exercise-files?u=76281980)
+#### [How to use the exercise files](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/how-to-use-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -135,7 +133,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/how-to-use-the-exercise-files?u=76281980&t=23)** In addition to the presentations, resource files, such as pictures and a video link, are included for use.
 >
-> **[0:30](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/how-to-use-the-exercise-files?u=76281980&t=30)** Once you upload the presentation to your OneDrive library, you can work with this throughout the course.
+> **[0:30](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/how-to-use-the-exercise-files?u=76281980&t=30)** Once you upload the presentation to your [[Microsoft OneDrive|OneDrive]] library, you can work with this throughout the course.
 >
 > **[0:35](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/how-to-use-the-exercise-files?u=76281980&t=35)** If you get stuck on something or something doesn't quite work out as intended, you can always upload the presentation file again for that chapter movie.
 >
@@ -155,14 +153,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a new presentation in OneDrive
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/create-a-new-presentation-in-onedrive?u=76281980)
+#### [Create a new presentation in OneDrive](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/create-a-new-presentation-in-onedrive?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/create-a-new-presentation-in-onedrive?u=76281980&t=0)** - [Instructor] Office 365 also known as Microsoft 365, includes many apps.
+> **[0:00](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/create-a-new-presentation-in-onedrive?u=76281980&t=0)** - [Instructor] [[Microsoft Office|Office]] 365 also known as [[Microsoft 365]], includes many apps.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/create-a-new-presentation-in-onedrive?u=76281980&t=5)** Some are familiar apps like Outlook, Word, Excel, OneNote, and of course, PowerPoint.
+> **[0:05](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/create-a-new-presentation-in-onedrive?u=76281980&t=5)** Some are familiar apps like [[Microsoft Outlook|Outlook]], [[Microsoft Word|Word]], [[Microsoft Excel|Excel]], [[OneNote]], and of course, [[Microsoft PowerPoint|PowerPoint]].
 >
 > **[0:11](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/create-a-new-presentation-in-onedrive?u=76281980&t=11)** What you see on the screen here is the homepage for Office 365.
 >
@@ -182,7 +179,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/create-a-new-presentation-in-onedrive?u=76281980&t=69)** Now, if you wanted to log into PowerPoint directly you can go to powerpoint.[office.com](https://office.com) and log in with your Office 365 account.
 >
-> **[1:17](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/create-a-new-presentation-in-onedrive?u=76281980&t=77)** If you've worked with PowerPoint presentations that are saved in your OneDrive document library, you'll see them listed here at the bottom.
+> **[1:17](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/create-a-new-presentation-in-onedrive?u=76281980&t=77)** If you've worked with PowerPoint presentations that are saved in your [[Microsoft OneDrive|OneDrive]] document library, you'll see them listed here at the bottom.
 >
 > **[1:24](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/create-a-new-presentation-in-onedrive?u=76281980&t=84)** This is displaying all of the presentations that I've recently worked on or that I have available to me from that library.
 >
@@ -241,12 +238,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Design slides with the Agenda feature
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/design-slides-with-the-agenda-feature?u=76281980)
+#### [Design slides with the Agenda feature](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/design-slides-with-the-agenda-feature?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/design-slides-with-the-agenda-feature?u=76281980&t=0)** - [Instructor] One of the things that I always liked about working in the PowerPoint and the Word desktop apps is that if I already had an outline for my presentation that I created in a Word document with styles applied, such as Heading styles, I can use that outline to automatically create the slides, to create a presentation from that outline.
+> **[0:00](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/design-slides-with-the-agenda-feature?u=76281980&t=0)** - [Instructor] One of the things that I always liked about working in the [[Microsoft PowerPoint|PowerPoint]] and the [[Microsoft Word|Word]] desktop apps is that if I already had an outline for my presentation that I created in a Word document with styles applied, such as Heading styles, I can use that outline to automatically create the slides, to create a presentation from that outline.
 >
 > **[0:21](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/design-slides-with-the-agenda-feature?u=76281980&t=21)** It would create slides for each of the Headings from that document.
 >
@@ -274,7 +270,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/design-slides-with-the-agenda-feature?u=76281980&t=78)** You can also use this though to build those Agenda slides.
 >
-> **[1:21](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/design-slides-with-the-agenda-feature?u=76281980&t=81)** So this is powered by artificial intelligence, AI, where it's trying to understand based on what's on the slide, it's going to suggest ideas, design ideas that you can use for that.
+> **[1:21](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/design-slides-with-the-agenda-feature?u=76281980&t=81)** So this is powered by [[Artificial Intelligence (AI)|artificial intelligence]], AI, where it's trying to understand based on what's on the slide, it's going to suggest ideas, design ideas that you can use for that.
 >
 > **[1:32](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/design-slides-with-the-agenda-feature?u=76281980&t=92)** So let's try it out for building an agenda.
 >
@@ -340,15 +336,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (4), [[Microsoft Word|Word]] (2), web (1), feature (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (4), [[Microsoft Word|Word]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** cat (2), find (1)
 > **UI Navigation:** scroll down (1)
 > **Exercise Files:** template (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Work with slide layouts
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/work-with-slide-layouts?u=76281980)
+#### [Work with slide layouts](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/work-with-slide-layouts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -400,17 +395,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Insert and update images
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/insert-and-update-images?u=76281980)
+#### [Insert and update images](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/insert-and-update-images?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/insert-and-update-images?u=76281980&t=0)** - [Instructor] Pictures can help make your topics and your storytelling more memorable.
+> **[0:00](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/insert-and-update-images?u=76281980&t=0)** - [Instructor] Pictures can help make your topics and your [[Storytelling]] more memorable.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/insert-and-update-images?u=76281980&t=5)** I'd like to show you how you can update images and also add various types of images, such as pictures, shapes, icons, and more to your presentation.
 >
@@ -474,7 +467,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/insert-and-update-images?u=76281980&t=147)** And what I want to insert here is not an image that's saved on my computer.
 >
-> **[2:31](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/insert-and-update-images?u=76281980&t=151)** It is saved in my OneDrive Document Library and I don't have that library synced to my computer to get to those files locally.
+> **[2:31](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/insert-and-update-images?u=76281980&t=151)** It is saved in my [[Microsoft OneDrive|OneDrive]] Document Library and I don't have that library synced to my computer to get to those files locally.
 >
 > **[2:37](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/insert-and-update-images?u=76281980&t=157)** So instead of using this shortcut, we're going to go to the Insert ribbon and we're going to select Pictures right from here.
 >
@@ -522,7 +515,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (3), feature (2), [[Storytelling]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (3), [[Storytelling]] (1)
 > **CLI Commands:** find (4), make (2)
 > **UI Navigation:** go to (2), dropdown (1)
 > **Analogies:** such as (2)
@@ -531,14 +524,13 @@ created: 2026-05-02
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create SmartArt graphics
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/create-smartart-graphics?u=76281980)
+#### [Create SmartArt graphics](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/create-smartart-graphics?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/create-smartart-graphics?u=76281980&t=0)** - [Instructor] You can quickly give a list of items in a presentation slide a more visual representation by creating a SmartArt diagram.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/create-smartart-graphics?u=76281980&t=8)** If you're familiar with working with SmartArt in the desktop Office applications such as PowerPoint, Outlook, Excel, and Word, the process in PowerPoint Online is slightly different.
+> **[0:08](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/create-smartart-graphics?u=76281980&t=8)** If you're familiar with working with SmartArt in the desktop [[Microsoft Office|Office]] applications such as [[Microsoft PowerPoint|PowerPoint]], [[Microsoft Outlook|Outlook]], [[Microsoft Excel|Excel]], and [[Microsoft Word|Word]], the process in PowerPoint Online is slightly different.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/create-smartart-graphics?u=76281980&t=17)** And the reason that I say that, is notice here I've added a slide that has the list of conference spaces, just a simple bullet list.
 >
@@ -604,15 +596,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (3), next (2), [[Microsoft Office|Office]] (1), [[Microsoft Outlook|Outlook]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (3), [[Microsoft Office|Office]] (1), [[Microsoft Outlook|Outlook]] (1), [[Microsoft Excel|Excel]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (2), select the (1)
 > **Analogies:** such as (1), for instance (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Apply transitions and animations
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/apply-transitions-and-animations?u=76281980)
+#### [Apply transitions and animations](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/apply-transitions-and-animations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -650,7 +641,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/apply-transitions-and-animations?u=76281980&t=100)** And then we also have dynamic content.
 >
-> **[1:43](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/apply-transitions-and-animations?u=76281980&t=103)** Now, the choices that you see here will differ depending on which version of PowerPoint you're working with and whether you're working, of course, with the web version, like we are here, or one of those other versions that's a desktop application.
+> **[1:43](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/apply-transitions-and-animations?u=76281980&t=103)** Now, the choices that you see here will differ depending on which version of [[Microsoft PowerPoint|PowerPoint]] you're working with and whether you're working, of course, with the web version, like we are here, or one of those other versions that's a desktop application.
 >
 > **[1:54](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/apply-transitions-and-animations?u=76281980&t=114)** Now let's scroll back to the top.
 >
@@ -746,7 +737,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (8), [[Microsoft PowerPoint|Powerpoint]] (1), web (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Prerequisites:** set up (3), configure (2)
 > **Cross-References:** go back to (3), earlier in (1)
 > **CLI Commands:** make (2)
@@ -754,8 +745,7 @@ created: 2026-05-02
 > **Versions:** 1.25 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Apply a theme to slides
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/apply-a-theme-to-slides?u=76281980)
+#### [Apply a theme to slides](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/apply-a-theme-to-slides?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -779,7 +769,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/apply-a-theme-to-slides?u=76281980&t=53)** And let's select this arrow to expand the Themes gallery.
 >
-> **[0:57](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/apply-a-theme-to-slides?u=76281980&t=57)** The very first one that you see here, this is the Office theme, and that's more of the default theme that you would be using if you just started with a blank presentation.
+> **[0:57](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/apply-a-theme-to-slides?u=76281980&t=57)** The very first one that you see here, this is the [[Microsoft Office|Office]] theme, and that's more of the default theme that you would be using if you just started with a blank presentation.
 >
 > **[1:04](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/apply-a-theme-to-slides?u=76281980&t=64)** But notice some of these other ones, and each of them does have a name.
 >
@@ -860,12 +850,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Draw with digital ink on a slide
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/draw-with-digital-ink-on-a-slide?u=76281980)
+#### [Draw with digital ink on a slide](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/draw-with-digital-ink-on-a-slide?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/draw-with-digital-ink-on-a-slide?u=76281980&t=0)** - [Instructor] In many of the Office applications, that's the desktop applications, including Word, PowerPoint, Excel, and OneNote, you have a way to digitally ink within your files.
+> **[0:00](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/draw-with-digital-ink-on-a-slide?u=76281980&t=0)** - [Instructor] In many of the [[Microsoft Office|Office]] applications, that's the desktop applications, including [[Microsoft Word|Word]], [[Microsoft PowerPoint|PowerPoint]], [[Microsoft Excel|Excel]], and [[OneNote]], you have a way to digitally ink within your files.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/draw-with-digital-ink-on-a-slide?u=76281980&t=11)** And you can do this also in the Office web apps.
 >
@@ -947,8 +936,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Duplicate, delete, and hide slides
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/duplicate-delete-and-hide-slides?u=76281980)
+#### [Duplicate, delete, and hide slides](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/duplicate-delete-and-hide-slides?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1010,17 +998,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **UI Navigation:** right-click (2), select the (1)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Switch to the desktop app
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/switch-to-the-desktop-app?u=76281980)
+#### [Switch to the desktop app](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/switch-to-the-desktop-app?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/switch-to-the-desktop-app?u=76281980&t=0)** - [Instructor] If the PowerPoint tools and features needed are not available in the web app and the desktop app is installed on your device you can switch from the web app to the desktop app.
+> **[0:00](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/switch-to-the-desktop-app?u=76281980&t=0)** - [Instructor] If the [[Microsoft PowerPoint|PowerPoint]] tools and features needed are not available in the web app and the desktop app is installed on your device you can switch from the web app to the desktop app.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/switch-to-the-desktop-app?u=76281980&t=10)** With a presentation file open in the web app, we're going to go ahead and select this pencil icon.
 >
@@ -1038,7 +1024,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/switch-to-the-desktop-app?u=76281980&t=38)** I don't have to check that, I'm going to go ahead and simply select Open for now.
 >
-> **[0:44](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/switch-to-the-desktop-app?u=76281980&t=44)** You notice that it's opening Microsoft 365.
+> **[0:44](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/switch-to-the-desktop-app?u=76281980&t=44)** You notice that it's opening [[Microsoft 365]].
 >
 > **[0:48](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/switch-to-the-desktop-app?u=76281980&t=48)** I am logged in with the same account, that's Jayden Williams.
 >
@@ -1060,13 +1046,13 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/switch-to-the-desktop-app?u=76281980&t=86)** It's worth noting that in the upper left corner you'll notice that AutoSave is turned on, which means all of the changes that you make here are automatically saved back to the document cloud library.
 >
-> **[1:36](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/switch-to-the-desktop-app?u=76281980&t=96)** And this presentation is saved in OneDrive, so any changes I make are automatically going to be saved there.
+> **[1:36](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/switch-to-the-desktop-app?u=76281980&t=96)** And this presentation is saved in [[Microsoft OneDrive|OneDrive]], so any changes I make are automatically going to be saved there.
 >
 > **[1:41](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/switch-to-the-desktop-app?u=76281980&t=101)** And that's how you can switch from the online app to the desktop app.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), [[Microsoft PowerPoint|Powerpoint]] (1), [[Microsoft 365]] (1), prompt (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (1), [[Microsoft 365]] (1), [[Microsoft OneDrive|Onedrive]] (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - [instructor] (1)
 
@@ -1075,12 +1061,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Dictate slide content
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/dictate-slide-content?u=76281980)
+#### [Dictate slide content](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/dictate-slide-content?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/dictate-slide-content?u=76281980&t=0)** - [Instructor] Dictate is one of the office intelligent services.
+> **[0:00](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/dictate-slide-content?u=76281980&t=0)** - [Instructor] Dictate is one of the [[Microsoft Office|office]] intelligent services.
 >
 > **[0:03](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/dictate-slide-content?u=76281980&t=3)** While using Dictate words spoken into a microphone are converted into typed text on a slide.
 >
@@ -1160,7 +1145,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/dictate-slide-content?u=76281980&t=196)** Now, this Dictate command is also available in other office applications.
 >
-> **[3:21](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/dictate-slide-content?u=76281980&t=201)** So, this might be something that might work really well for you when you're composing a message in Outlook or when you are crafting a letter, or some sort of a document, in Word.
+> **[3:21](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/dictate-slide-content?u=76281980&t=201)** So, this might be something that might work really well for you when you're composing a message in [[Microsoft Outlook|Outlook]] or when you are crafting a letter, or some sort of a document, in [[Microsoft Word|Word]].
 >
 > **[3:31](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/dictate-slide-content?u=76281980&t=211)** So, I encourage you to check it out.
 >
@@ -1168,14 +1153,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), [[Microsoft Office|Office]] (2), prompt (1), [[Microsoft Outlook|Outlook]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Microsoft Outlook|Outlook]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (4)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (audible sound) (1)
 
-#### Insert a video
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/insert-a-video?u=76281980)
+#### [Insert a video](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/insert-a-video?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1201,7 +1185,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/insert-a-video?u=76281980&t=38)** So we'll go ahead and close this share menu.
 >
-> **[0:40](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/insert-a-video?u=76281980&t=40)** And now let's go over to the presentation that's open right here in PowerPoint for the Web.
+> **[0:40](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/insert-a-video?u=76281980&t=40)** And now let's go over to the presentation that's open right here in [[Microsoft PowerPoint|PowerPoint]] for the Web.
 >
 > **[0:45](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/insert-a-video?u=76281980&t=45)** And where I would like to place this video happens to be within this container on the Workshops slide.
 >
@@ -1251,7 +1235,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (1)
 > **UI Navigation:** go to (2), select the (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1261,14 +1245,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Share a presentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/share-a-presentation?u=76281980)
+#### [Share a presentation](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/share-a-presentation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/share-a-presentation?u=76281980&t=0)** - [Instructor] You can share a link to your presentation so that others can either edit or view the presentation, and there's a few different ways that you can do this, it depends on where you're working.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/share-a-presentation?u=76281980&t=10)** So right here from this PowerPoint presentation, you'll notice in the upper-right corner, we have this share button.
+> **[0:10](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/share-a-presentation?u=76281980&t=10)** So right here from this [[Microsoft PowerPoint|PowerPoint]] presentation, you'll notice in the upper-right corner, we have this share button.
 >
 > **[0:16](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/share-a-presentation?u=76281980&t=16)** Now the dropdown arrow indicates that there's a menu of choices.
 >
@@ -1304,7 +1287,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/share-a-presentation?u=76281980&t=91)** Okay.
 >
-> **[1:32](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/share-a-presentation?u=76281980&t=92)** Now, if this is someone within your organization or it is a group, a Microsoft 365 group within your organization, you can type that in here.
+> **[1:32](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/share-a-presentation?u=76281980&t=92)** Now, if this is someone within your organization or it is a group, a [[Microsoft 365]] group within your organization, you can type that in here.
 >
 > **[1:39](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/share-a-presentation?u=76281980&t=99)** So I'm going to start typing the name of my colleague, S. Jones.
 >
@@ -1322,7 +1305,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/share-a-presentation?u=76281980&t=125)** All right.
 >
-> **[2:06](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/share-a-presentation?u=76281980&t=126)** And now we're ready to send it on its way, and we're sending out an Outlook email message that includes a link, a clickable link to get directly to this presentation.
+> **[2:06](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/share-a-presentation?u=76281980&t=126)** And now we're ready to send it on its way, and we're sending out an [[Microsoft Outlook|Outlook]] email message that includes a link, a clickable link to get directly to this presentation.
 >
 > **[2:15](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/share-a-presentation?u=76281980&t=135)** I'm going to go ahead and select sent.
 >
@@ -1342,7 +1325,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/share-a-presentation?u=76281980&t=170)** So let's go ahead and close that by selecting the X.
 >
-> **[2:53](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/share-a-presentation?u=76281980&t=173)** Now this presentation happens to be saved in my OneDrive document library.
+> **[2:53](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/share-a-presentation?u=76281980&t=173)** Now this presentation happens to be saved in my [[Microsoft OneDrive|OneDrive]] document library.
 >
 > **[2:58](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/share-a-presentation?u=76281980&t=178)** And I do ave OneDrive open here in this other tab so let's go here, and here is the project update that we just shared out, and I'd like to point out a couple ways that you can share from here as well.
 >
@@ -1374,14 +1357,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (3), [[Microsoft PowerPoint|Powerpoint]] (2), [[Microsoft 365]] (1), [[Microsoft Outlook|Outlook]] (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (3), [[Microsoft PowerPoint|Powerpoint]] (2), [[Microsoft 365]] (1), [[Microsoft Outlook|Outlook]] (1)
 > **UI Navigation:** dropdown (1), toggle (1), select the (1), right-click (1)
 > **CLI Commands:** find (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Share a link to a slide
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/share-a-link-to-a-slide?u=76281980)
+#### [Share a link to a slide](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/share-a-link-to-a-slide?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1397,7 +1379,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/share-a-link-to-a-slide?u=76281980&t=38)** Let's go ahead and select copy, that copy is the URL that takes you to this specific slide of the presentation to the device you're working from.
 >
-> **[0:48](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/share-a-link-to-a-slide?u=76281980&t=48)** Now, you can go ahead and paste that link where it's appropriate, maybe in an Outlook email, a Team's chat, or somewhere else.
+> **[0:48](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/share-a-link-to-a-slide?u=76281980&t=48)** Now, you can go ahead and paste that link where it's appropriate, maybe in an [[Microsoft Outlook|Outlook]] email, a Team's chat, or somewhere else.
 >
 > **[0:56](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/share-a-link-to-a-slide?u=76281980&t=56)** And that's how you can get a link to share a specific presentation slide.
 
@@ -1408,8 +1390,7 @@ created: 2026-05-02
 > **Env Vars:** url (1)
 > **Speakers:** - [instructor] (1)
 
-#### Coauthor a presentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/coauthor-a-presentation?u=76281980)
+#### [Coauthor a presentation](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/coauthor-a-presentation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1447,26 +1428,25 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/coauthor-a-presentation?u=76281980&t=97)** So as edits are happening, you're able to see those in real time for everyone that is working in this presentation.
 >
-> **[1:44](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/coauthor-a-presentation?u=76281980&t=104)** It's worth noting that co-authoring is also available in the desktop version of PowerPoint and other office, web, and desktop apps, and co-authoring works very similarly in those apps, too.
+> **[1:44](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/coauthor-a-presentation?u=76281980&t=104)** It's worth noting that co-authoring is also available in the desktop version of [[Microsoft PowerPoint|PowerPoint]] and other [[Microsoft Office|office]], web, and desktop apps, and co-authoring works very similarly in those apps, too.
 >
 > **[1:55](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/coauthor-a-presentation?u=76281980&t=115)** If changes are made by a colleague while you were away from the presentation, when you open it up again in PowerPoint for the web, a notification will appear in the upper right corner, letting you know that there are changes that have been made and when.
 >
 > **[2:07](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/coauthor-a-presentation?u=76281980&t=127)** You'll see this called catch up.
 >
-> **[2:09](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/coauthor-a-presentation?u=76281980&t=129)** You can also access and manage the version history for the presentation where the file is stored in a cloud library, such as OneDrive or SharePoint.
+> **[2:09](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/coauthor-a-presentation?u=76281980&t=129)** You can also access and manage the version history for the presentation where the file is stored in a cloud library, such as [[Microsoft OneDrive|OneDrive]] or [[SharePoint]].
 >
 > **[2:17](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/coauthor-a-presentation?u=76281980&t=137)** And that's how you can co-author a presentation.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (2), web (2), [[Microsoft Office|Office]] (1), cloud (1), [[Microsoft OneDrive|Onedrive]] (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (2), [[Microsoft Office|Office]] (1), [[Microsoft OneDrive|Onedrive]] (1), [[SharePoint]] (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (1), known as (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
-#### Manage version history
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/manage-version-history?u=76281980)
+#### [Manage version history](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/manage-version-history?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1478,7 +1458,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/manage-version-history?u=76281980&t=16)** Just below this is the location where this presentation is saved.
 >
-> **[0:19](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/manage-version-history?u=76281980&t=19)** It happens to be in Jayden Williams' OneDrive document library.
+> **[0:19](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/manage-version-history?u=76281980&t=19)** It happens to be in Jayden Williams' [[Microsoft OneDrive|OneDrive]] document library.
 >
 > **[0:23](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/manage-version-history?u=76281980&t=23)** Now you'll notice that this Jayden Williams is a shortcut.
 >
@@ -1538,17 +1518,17 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/manage-version-history?u=76281980&t=200)** Version history can also be accessed from the file tab and then by going to the info area, you'll notice it right here.
 >
-> **[3:28](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/manage-version-history?u=76281980&t=208)** It's worth noting, if you are working with the PowerPoint desktop app and a presentation is saved in a cloud library such as OneDrive or SharePoint, you can view the version history from that app as well.
+> **[3:28](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/manage-version-history?u=76281980&t=208)** It's worth noting, if you are working with the [[Microsoft PowerPoint|PowerPoint]] desktop app and a presentation is saved in a cloud library such as OneDrive or [[SharePoint]], you can view the version history from that app as well.
 >
 > **[3:39](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/manage-version-history?u=76281980&t=219)** And the location and process is very similar.
 >
-> **[3:42](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/manage-version-history?u=76281980&t=222)** Version history is also available in the other Office web and desktop apps, such as Word and Excel.
+> **[3:42](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/manage-version-history?u=76281980&t=222)** Version history is also available in the other [[Microsoft Office|Office]] web and desktop apps, such as [[Microsoft Word|Word]] and [[Microsoft Excel|Excel]].
 >
 > **[3:48](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/manage-version-history?u=76281980&t=228)** And that's how our presentations version history can be accessed and managed.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (5), next (2), [[Microsoft PowerPoint|Powerpoint]] (1), cloud (1), [[SharePoint]] (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (5), [[Microsoft PowerPoint|Powerpoint]] (1), [[SharePoint]] (1), [[Microsoft Office|Office]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (2), for example (1)
@@ -1561,16 +1541,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Add and view slide notes
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/add-and-view-slide-notes?u=76281980)
+#### [Add and view slide notes](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/add-and-view-slide-notes?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/add-and-view-slide-notes?u=76281980&t=0)** - [Instructor] Notes can be included with each slide of a presentation.
 >
-> **[0:03](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/add-and-view-slide-notes?u=76281980&t=3)** This may be useful for design specifications as you create content or for additional details while delivering a presentation, such as facts, statistics, dollar amounts, resources, and works cited.
+> **[0:03](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/add-and-view-slide-notes?u=76281980&t=3)** This may be useful for design specifications as you create content or for additional details while delivering a presentation, such as facts, [[Statistics]], dollar amounts, resources, and works cited.
 >
-> **[0:15](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/add-and-view-slide-notes?u=76281980&t=15)** In the desktop PowerPoint app, the default setting is to display the notes panel.
+> **[0:15](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/add-and-view-slide-notes?u=76281980&t=15)** In the desktop [[Microsoft PowerPoint|PowerPoint]] app, the default setting is to display the notes panel.
 >
 > **[0:21](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/add-and-view-slide-notes?u=76281980&t=21)** In the PowerPoint Web App, the default setting is to hide the notes panel.
 >
@@ -1622,14 +1601,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (2), web (2), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (2), [[Statistics]] (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Print a presentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/print-a-presentation?u=76281980)
+#### [Print a presentation](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/print-a-presentation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1693,19 +1671,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1)
 > **UI Navigation:** select the (2), go to (2), scroll down (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Download a presentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/download-a-presentation?u=76281980)
+#### [Download a presentation](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/download-a-presentation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/download-a-presentation?u=76281980&t=0)** - [Instructor] If you need to download a local copy of this presentation, you can.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/download-a-presentation?u=76281980&t=5)** Now I do want to warn you that if you do that, you are making a separate copy of the file from the file that exists in the OneDrive document library or another cloud library such as a SharePoint document library.
+> **[0:05](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/download-a-presentation?u=76281980&t=5)** Now I do want to warn you that if you do that, you are making a separate copy of the file from the file that exists in the [[Microsoft OneDrive|OneDrive]] document library or another cloud library such as a [[SharePoint]] document library.
 >
 > **[0:18](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/download-a-presentation?u=76281980&t=18)** But a great example of this is if you're using the exercise files that go along with this course, this is how I was able to create each file as you move on to the next movie, to use that file that progresses with all the changes that are saved.
 >
@@ -1723,7 +1699,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/download-a-presentation?u=76281980&t=58)** But what we want to do is download a copy of that.
 >
-> **[1:01](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/download-a-presentation?u=76281980&t=61)** If you want it to be in the PowerPoint format, you can select Download a Copy.
+> **[1:01](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/download-a-presentation?u=76281980&t=61)** If you want it to be in the [[Microsoft PowerPoint|PowerPoint]] format, you can select Download a Copy.
 >
 > **[1:05](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/download-a-presentation?u=76281980&t=65)** If you want it to be in a different format than that, then you can choose to download it as a PDF, as an ODP file, or even as a supported image type of a file.
 >
@@ -1741,7 +1717,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (1), cloud (1), [[SharePoint]] (1), next (1), [[Microsoft PowerPoint|Powerpoint]] (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (1), [[SharePoint]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **UI Navigation:** go to (3)
 > **Env Vars:** pdf (1), odp (1)
 > **Exercise Files:** exercise files (1), exercise file (1)
@@ -1749,12 +1725,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Work with slide views
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/work-with-slide-views?u=76281980)
+#### [Work with slide views](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/work-with-slide-views?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/work-with-slide-views?u=76281980&t=0)** - [Instructor] When you start working with a presentation in either the PowerPoint desktop app or the PowerPoint for the web app as you see it here, the default view is what's called the normal view.
+> **[0:00](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/work-with-slide-views?u=76281980&t=0)** - [Instructor] When you start working with a presentation in either the [[Microsoft PowerPoint|PowerPoint]] desktop app or the PowerPoint for the web app as you see it here, the default view is what's called the normal view.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/work-with-slide-views?u=76281980&t=10)** Now you might also see this referenced in the web app as the editing view.
 >
@@ -1796,7 +1771,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/work-with-slide-views?u=76281980&t=119)** And I'd like to show you one other view that could be helpful.
 >
-> **[2:02](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/work-with-slide-views?u=76281980&t=122)** And this is something that you're going to find in many of the Office desktop and web apps, and it's called immersive reader.
+> **[2:02](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/work-with-slide-views?u=76281980&t=122)** And this is something that you're going to find in many of the [[Microsoft Office|Office]] desktop and web apps, and it's called immersive reader.
 >
 > **[2:10](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/work-with-slide-views?u=76281980&t=130)** Immersive reader is going to give you the capabilities to read whatever text is in that area.
 >
@@ -1822,7 +1797,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/work-with-slide-views?u=76281980&t=192)** You can include a picture dictionary.
 >
-> **[3:13](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/work-with-slide-views?u=76281980&t=193)** You can also have it translated if you want, by word or by document.
+> **[3:13](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/work-with-slide-views?u=76281980&t=193)** You can also have it translated if you want, by [[Microsoft Word|word]] or by document.
 >
 > **[3:18](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/work-with-slide-views?u=76281980&t=198)** We're going to close out of this menu for now.
 >
@@ -1838,7 +1813,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), [[Microsoft PowerPoint|Powerpoint]] (2), next (1), [[Microsoft Office|Office]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (2), [[Microsoft Office|Office]] (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** navigate to (1), go to (1), switch to (1), select the (1)
 > **Speakers:** - [instructor] (2), - [reader] (1)
 > **CLI Commands:** find (1), make (1)
@@ -1846,8 +1821,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Definitions:** is called (1)
 
-#### Enable subtitles in a slide show
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/enable-subtitles-in-a-slide-show?u=76281980)
+#### [Enable subtitles in a slide show](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/enable-subtitles-in-a-slide-show?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1909,26 +1883,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Prerequisites:** you'll need (1), configure (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Present with Present Live
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/present-with-present-live?u=76281980)
+#### [Present with Present Live](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/present-with-present-live?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/present-with-present-live?u=76281980&t=0)** - [Instructor] As a presenter, you can engage your audience with a new PowerPoint for the web feature called Present Live, also known as PowerPoint live.
+> **[0:00](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/present-with-present-live?u=76281980&t=0)** - [Instructor] As a presenter, you can engage your audience with a new [[Microsoft PowerPoint|PowerPoint]] for the web feature called Present Live, also known as PowerPoint live.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/present-with-present-live?u=76281980&t=8)** By enabling this feature, audience members can view the presentation on their devices, giving realtime feedback by sending live reactions.
 >
-> **[0:16](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/present-with-present-live?u=76281980&t=16)** They can read captions, also known as subtitles in their preferred language and with a mobile device they can pinch zoom the slide content.
+> **[0:16](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/present-with-present-live?u=76281980&t=16)** They can read captions, also known as subtitles in their preferred language and with a mobile device they can pinch [[Zoom]] the slide content.
 >
-> **[0:25](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/present-with-present-live?u=76281980&t=25)** Now, it's worth noting that this may sound similar to what we were doing in a Microsoft teams meeting earlier in this course when we were sharing a presentation and delivering it, and it does have some of the same tools or capabilities but they're used in very different scenarios.
+> **[0:25](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/present-with-present-live?u=76281980&t=25)** Now, it's worth noting that this may sound similar to what we were doing in a [[Microsoft Teams]] meeting earlier in this course when we were sharing a presentation and delivering it, and it does have some of the same tools or capabilities but they're used in very different scenarios.
 >
-> **[0:43](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/present-with-present-live?u=76281980&t=43)** So if you think about a Microsoft team's meeting, typically everyone attending that meeting is attending from different places virtually.
+> **[0:43](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/present-with-present-live?u=76281980&t=43)** So if you think about a [[Microsoft]] team's meeting, typically everyone attending that meeting is attending from different places virtually.
 >
 > **[0:50](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/present-with-present-live?u=76281980&t=50)** And what we're going to try out here is something that you would use when everyone is in the same physical space.
 >
@@ -2026,7 +1998,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (3), [[Microsoft PowerPoint|Powerpoint]] (2), web (2), [[Zoom]] (1), [[Microsoft Teams]] (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (2), [[Zoom]] (1), [[Microsoft Teams]] (1), [[Microsoft]] (1)
 > **Cross-References:** go back to (2), earlier in (1), coming up (1)
 > **CLI Commands:** make (3)
 > **Definitions:** known as (2), is a  (1)
@@ -2035,12 +2007,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Present in a Microsoft Teams meeting
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/present-in-a-microsoft-teams-meeting?u=76281980)
+#### [Present in a Microsoft Teams meeting](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/present-in-a-microsoft-teams-meeting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/present-in-a-microsoft-teams-meeting?u=76281980&t=0)** - [Instructor] PowerPoint presentations can be presented within a Microsoft Teams meeting, and I'd like to show you how to do that in a couple of different ways.
+> **[0:00](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/present-in-a-microsoft-teams-meeting?u=76281980&t=0)** - [Instructor] [[Microsoft PowerPoint|PowerPoint]] presentations can be presented within a [[Microsoft Teams]] meeting, and I'd like to show you how to do that in a couple of different ways.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/present-in-a-microsoft-teams-meeting?u=76281980&t=8)** Let's say that you're right here in PowerPoint for the web, working on your presentation, you are ready to deliver it in that meeting.
 >
@@ -2156,7 +2127,7 @@ created: 2026-05-02
 >
 > **[5:20](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/present-in-a-microsoft-teams-meeting?u=76281980&t=320)** And then from within this Share content area, you'll notice that it's showing my screen.
 >
-> **[5:24](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/present-in-a-microsoft-teams-meeting?u=76281980&t=324)** It's showing some other windows that I have open.
+> **[5:24](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/present-in-a-microsoft-teams-meeting?u=76281980&t=324)** It's showing some other [[Windows]] that I have open.
 >
 > **[5:26](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/present-in-a-microsoft-teams-meeting?u=76281980&t=326)** It's showing other windows here that we can get to, the Whiteboard, content from a camera.
 >
@@ -2166,7 +2137,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (9), teams (6), [[Microsoft Teams]] (5), web (5), [[Windows]] (2)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (9), [[Microsoft Teams]] (5), [[Windows]] (2)
 > **CLI Commands:** make (2)
 > **UI Navigation:** switch to (1), go to (1)
 > **Cross-References:** coming up (1)
@@ -2178,12 +2149,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Upload a presentation to OneDrive
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/upload-a-presentation-to-onedrive?u=76281980)
+#### [Upload a presentation to OneDrive](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/upload-a-presentation-to-onedrive?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/upload-a-presentation-to-onedrive?u=76281980&t=0)** - [Instructor] A presentation stored locally on a device can be uploaded to a OneDrive document library.
+> **[0:00](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/upload-a-presentation-to-onedrive?u=76281980&t=0)** - [Instructor] A presentation stored locally on a device can be uploaded to a [[Microsoft OneDrive|OneDrive]] document library.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/upload-a-presentation-to-onedrive?u=76281980&t=5)** With OneDrive open, you, of course, could start the process by going to the ribbon here at the top, selecting Upload, and if it's just a presentation, you would select Files, then navigate to where that presentation happens to be saved, select it, and then select Open.
 >
@@ -2195,7 +2165,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/upload-a-presentation-to-onedrive?u=76281980&t=30)** And the file that I want to upload happens to be right here on the desktop.
 >
-> **[0:34](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/upload-a-presentation-to-onedrive?u=76281980&t=34)** If the file that you want to upload is saved somewhere else, you can open File Explorer if you're working from a Windows device.
+> **[0:34](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/upload-a-presentation-to-onedrive?u=76281980&t=34)** If the file that you want to upload is saved somewhere else, you can open File Explorer if you're working from a [[Windows]] device.
 >
 > **[0:41](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/upload-a-presentation-to-onedrive?u=76281980&t=41)** The keyboard shortcut for that is Windows + E, and then navigate to where that file is stored and select it, and then drag it from there, and drop it into this window.
 >
@@ -2231,12 +2201,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create or upload a presentation in Microsoft Teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/create-or-upload-a-presentation-in-microsoft-teams?u=76281980)
+#### [Create or upload a presentation in Microsoft Teams](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/create-or-upload-a-presentation-in-microsoft-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/create-or-upload-a-presentation-in-microsoft-teams?u=76281980&t=0)** - [Instructor] You can work with PowerPoint presentations in team channels.
+> **[0:00](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/create-or-upload-a-presentation-in-microsoft-teams?u=76281980&t=0)** - [Instructor] You can work with [[Microsoft PowerPoint|PowerPoint]] presentations in team channels.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/create-or-upload-a-presentation-in-microsoft-teams?u=76281980&t=4)** And I'd like to show you a couple of ways that you can do that here in this Planning channel of the Red30 Tech Makers Conference team.
 >
@@ -2250,7 +2219,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/create-or-upload-a-presentation-in-microsoft-teams?u=76281980&t=37)** Notice in the upper left corner that it says Planning ideas?
 >
-> **[0:40](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/create-or-upload-a-presentation-in-microsoft-teams?u=76281980&t=40)** But if you look a little bit further up, you'll notice that we're still in Microsoft Teams.
+> **[0:40](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/create-or-upload-a-presentation-in-microsoft-teams?u=76281980&t=40)** But if you look a little bit further up, you'll notice that we're still in [[Microsoft Teams]].
 >
 > **[0:45](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/create-or-upload-a-presentation-in-microsoft-teams?u=76281980&t=45)** It's just that we're working with the PowerPoint for the web app directly within the Teams app.
 >
@@ -2266,7 +2235,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/create-or-upload-a-presentation-in-microsoft-teams?u=76281980&t=85)** But I'd like to show you a different way to go about that.
 >
-> **[1:27](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/create-or-upload-a-presentation-in-microsoft-teams?u=76281980&t=87)** And that's if you have that file stored in your OneDrive library.
+> **[1:27](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/create-or-upload-a-presentation-in-microsoft-teams?u=76281980&t=87)** And that's if you have that file stored in your [[Microsoft OneDrive|OneDrive]] library.
 >
 > **[1:31](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/create-or-upload-a-presentation-in-microsoft-teams?u=76281980&t=91)** This even works if you have it stored locally.
 >
@@ -2322,19 +2291,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (5), [[Microsoft PowerPoint|Powerpoint]] (4), teams (3), [[Microsoft Teams]] (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (5), [[Microsoft PowerPoint|Powerpoint]] (4), [[Microsoft Teams]] (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reuse slides from another presentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/reuse-slides-from-another-presentation?u=76281980)
+#### [Reuse slides from another presentation](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/reuse-slides-from-another-presentation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/reuse-slides-from-another-presentation?u=76281980&t=0)** - [Instructor] Instead of recreating slides, if the slides that you need exist in another presentation, why not carry those slides over?
 >
-> **[0:09](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/reuse-slides-from-another-presentation?u=76281980&t=9)** You can do this in PowerPoint for the Web with what's called Reuse Slides, and we're going to try it out.
+> **[0:09](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/reuse-slides-from-another-presentation?u=76281980&t=9)** You can do this in [[Microsoft PowerPoint|PowerPoint]] for the Web with what's called Reuse Slides, and we're going to try it out.
 >
 > **[0:14](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/reuse-slides-from-another-presentation?u=76281980&t=14)** It's located here on the home ribbon and it's in the slides group here.
 >
@@ -2346,7 +2314,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/reuse-slides-from-another-presentation?u=76281980&t=27)** And right now, we're in the Files tab.
 >
-> **[0:29](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/reuse-slides-from-another-presentation?u=76281980&t=29)** Now the file that I need, I could select browse files from your OneDrive to go look through all of those.
+> **[0:29](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/reuse-slides-from-another-presentation?u=76281980&t=29)** Now the file that I need, I could select browse files from your [[Microsoft OneDrive|OneDrive]] to go look through all of those.
 >
 > **[0:35](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/reuse-slides-from-another-presentation?u=76281980&t=35)** But if I also scroll down, these are some of the recent files that I've been working with.
 >
@@ -2378,7 +2346,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (2), web (1), [[Search]] (1), [[Microsoft OneDrive|Onedrive]] (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (2), [[Microsoft OneDrive|Onedrive]] (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
@@ -2388,8 +2356,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Get assistance with Search
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/get-assistance-with-search?u=76281980)
+#### [Get assistance with Search](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/get-assistance-with-search?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2397,11 +2364,11 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/get-assistance-with-search?u=76281980&t=8)** I know I have.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/get-assistance-with-search?u=76281980&t=9)** And if you're like me, you might set up shortcuts in the quick access toolbar for an office application.
+> **[0:09](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/get-assistance-with-search?u=76281980&t=9)** And if you're like me, you might set up shortcuts in the quick access toolbar for an [[Microsoft Office|office]] application.
 >
 > **[0:15](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/get-assistance-with-search?u=76281980&t=15)** The quick access toolbar is located in the upper left corner above the ribbon of your office desktop applications.
 >
-> **[0:21](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/get-assistance-with-search?u=76281980&t=21)** Those are the applications installed on your device, but it's not available for the office web app such as PowerPoint for the web that we're working with here.
+> **[0:21](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/get-assistance-with-search?u=76281980&t=21)** Those are the applications installed on your device, but it's not available for the office web app such as [[Microsoft PowerPoint|PowerPoint]] for the web that we're working with here.
 >
 > **[0:31](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/get-assistance-with-search?u=76281980&t=31)** Instead, you can search for those commands and you can do this in those desktop applications too.
 >
@@ -2419,7 +2386,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/get-assistance-with-search?u=76281980&t=73)** So, let's go ahead and type in what it is that we're looking for.
 >
-> **[1:16](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/get-assistance-with-search?u=76281980&t=76)** We're going to search for pictures and just as I start to type it, I don't even have to complete the word, it's already recommending and showing me where some of these actions are, actions are your commands.
+> **[1:16](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/get-assistance-with-search?u=76281980&t=76)** We're going to search for pictures and just as I start to type it, I don't even have to complete the [[Microsoft Word|word]], it's already recommending and showing me where some of these actions are, actions are your commands.
 >
 > **[1:28](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/get-assistance-with-search?u=76281980&t=88)** You'll notice if I hover over insert pictures, there's an arrow over here to the right.
 >
@@ -2461,7 +2428,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (9), [[Microsoft Word|Word]] (5), [[Microsoft Office|Office]] (4), application (3), web (3)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), [[Microsoft Office|Office]] (4), [[Microsoft PowerPoint|Powerpoint]] (2)
 > **CLI Commands:** find (7), make (2)
 > **Analogies:** picture (5), such as (1)
 > **UI Navigation:** select the (2), open the (1), scroll down (1)
@@ -2469,16 +2436,15 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Practice your presentation skills with Presenter Coach
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/practice-your-presentation-skills-with-presenter-coach?u=76281980)
+#### [Practice your presentation skills with Presenter Coach](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/practice-your-presentation-skills-with-presenter-coach?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/practice-your-presentation-skills-with-presenter-coach?u=76281980&t=0)** - [Instructor] If you struggle with public speaking and presenting, a new tool has been introduced to the PowerPoint for the web app to help you with this.
+> **[0:00](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/practice-your-presentation-skills-with-presenter-coach?u=76281980&t=0)** - [Instructor] If you struggle with public speaking and presenting, a new tool has been introduced to the [[Microsoft PowerPoint|PowerPoint]] for the web app to help you with this.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/practice-your-presentation-skills-with-presenter-coach?u=76281980&t=7)** It's called Rehearse with Coach.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/practice-your-presentation-skills-with-presenter-coach?u=76281980&t=9)** It's one of the Cloud enhanced features that's part of Microsoft 365 and it's powered by Microsoft Speech Services.
+> **[0:09](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/practice-your-presentation-skills-with-presenter-coach?u=76281980&t=9)** It's one of the Cloud enhanced features that's part of [[Microsoft 365]] and it's powered by [[Microsoft]] Speech Services.
 >
 > **[0:16](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/practice-your-presentation-skills-with-presenter-coach?u=76281980&t=16)** It evaluates your speaking pace, pitch, pronunciation, use of filler words and repetitive words, culturally sensitive terms, if you're reading the text from the slide, and it can also evaluate your body language.
 >
@@ -2504,7 +2470,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/practice-your-presentation-skills-with-presenter-coach?u=76281980&t=84)** And over here to the right this is the welcome message about Presenter Coach.
 >
-> **[1:29](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/practice-your-presentation-skills-with-presenter-coach?u=76281980&t=89)** Now, before I click Start Rehearsing you'll notice down here by default, show real-time feedback is checked.
+> **[1:29](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/practice-your-presentation-skills-with-presenter-coach?u=76281980&t=89)** Now, before I click Start Rehearsing you'll notice down here by default, show [[Real-Time]] feedback is checked.
 >
 > **[1:35](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/practice-your-presentation-skills-with-presenter-coach?u=76281980&t=95)** That means as I am talking to each of the slides in this presentation, there are going to be popups that pop up in the lower right corner giving me feedback about my pace, about my pitch, about all of those other things that it is evaluating.
 >
@@ -2530,7 +2496,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/practice-your-presentation-skills-with-presenter-coach?u=76281980&t=164)** I'm going to go ahead and move on to the next slide.
 >
-> **[2:47](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/practice-your-presentation-skills-with-presenter-coach?u=76281980&t=167)** It's also looking for things like, um, um, um, can see that it's popping up and letting me know that I have too many fillers, that I'm using the word, um.
+> **[2:47](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/practice-your-presentation-skills-with-presenter-coach?u=76281980&t=167)** It's also looking for things like, um, um, um, can see that it's popping up and letting me know that I have too many fillers, that I'm using the [[Microsoft Word|word]], um.
 >
 > **[2:58](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/practice-your-presentation-skills-with-presenter-coach?u=76281980&t=178)** So it's tracking all of these things for me.
 >
@@ -2560,7 +2526,7 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/practice-your-presentation-skills-with-presenter-coach?u=76281980&t=240)** So if you did need to learn a bit more, you can select that link and it takes you out to Microsoft Resources that provide guidance and recommendations around that area.
 >
-> **[4:09](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/practice-your-presentation-skills-with-presenter-coach?u=76281980&t=249)** I'm going to go ahead and scroll on down so you can see the rest of this report.
+> **[4:09](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/practice-your-presentation-skills-with-presenter-coach?u=76281980&t=249)** I'm going to go ahead and scroll on down so you can see the [[Representational State Transfer (REST)|rest]] of this report.
 >
 > **[4:14](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/practice-your-presentation-skills-with-presenter-coach?u=76281980&t=254)** So it looks like I started out a bit monotone and then I really picked it up towards the middle and the end.
 >
@@ -2570,13 +2536,13 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/practice-your-presentation-skills-with-presenter-coach?u=76281980&t=268)** It's worth noting that Presenter Coach is compatible with most modern web browsers such as Microsoft Edge version 15 or later, Chrome version 52 or later, and Firefox version 52 or later.
 >
-> **[4:40](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/practice-your-presentation-skills-with-presenter-coach?u=76281980&t=280)** The Presenter Coach feature is also available for Windows and Mac PowerPoint desktop apps.
+> **[4:40](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/practice-your-presentation-skills-with-presenter-coach?u=76281980&t=280)** The Presenter Coach feature is also available for [[Windows]] and Mac PowerPoint desktop apps.
 >
 > **[4:46](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/practice-your-presentation-skills-with-presenter-coach?u=76281980&t=286)** And that is how you can improve your public speaking and presenting skills with the help of Presenter Coach.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (3), [[Microsoft PowerPoint|Powerpoint]] (2), web (2), feature (2), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Microsoft PowerPoint|Powerpoint]] (2), [[Microsoft Word|Word]] (2), [[Microsoft 365]] (1), [[Real-Time]] (1)
 > **Ports:** :00 (1), :20 (1), :30 (1)
 > **Versions:** version 52 (2), version 15 (1)
 > **CLI Commands:** find (2)
@@ -2590,12 +2556,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Work with the iOS PowerPoint app
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/work-with-the-ios-powerpoint-app?u=76281980)
+#### [Work with the iOS PowerPoint app](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/work-with-the-ios-powerpoint-app?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/work-with-the-ios-powerpoint-app?u=76281980&t=0)** - [Instructor] The PowerPoint mobile app is available for both Android and Apple devices and I'd like to show you around this app a bit from an Apple iPad.
+> **[0:00](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/work-with-the-ios-powerpoint-app?u=76281980&t=0)** - [Instructor] The [[Microsoft PowerPoint|PowerPoint]] mobile app is available for both [[Android]] and Apple devices and I'd like to show you around this app a bit from an Apple iPad.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/work-with-the-ios-powerpoint-app?u=76281980&t=9)** So here we are, we're working in the project update presentation, I'm on slide five and you'll notice at the very top of this app, we have the ribbon.
 >
@@ -2671,7 +2636,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (6), [[Microsoft PowerPoint|Powerpoint]] (3), web (2), [[Android]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (3), [[Android]] (1)
 > **CLI Commands:** make (5), find (2)
 > **Analogies:** picture (6), for instance (1)
 > **UI Navigation:** go to (1), toggle (1), switch to (1)
@@ -2685,20 +2650,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create more with PowerPoint for the web
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/create-more-with-powerpoint-for-the-web?u=76281980)
+#### [Create more with PowerPoint for the web](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/create-more-with-powerpoint-for-the-web?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/create-more-with-powerpoint-for-the-web?u=76281980&t=0)** - Congratulations on completing this course.
 >
-> **[0:03](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/create-more-with-powerpoint-for-the-web?u=76281980&t=3)** I hope you have an opportunity to put your presentation design skills to work.
+> **[0:03](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/create-more-with-powerpoint-for-the-web?u=76281980&t=3)** I hope you have an opportunity to put your [[Presentation Design]] skills to work.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/create-more-with-powerpoint-for-the-web?u=76281980&t=7)** To continue your presentation learning journey, I recommend these courses: PowerPoint Tips and Trick with Heather Ackmann, PowerPoint Essential Training for Office 365 with Jess Stratton.
+> **[0:07](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/create-more-with-powerpoint-for-the-web?u=76281980&t=7)** To continue your presentation learning journey, I recommend these courses: [[Microsoft PowerPoint|PowerPoint]] Tips and Trick with Heather Ackmann, PowerPoint Essential Training for [[Microsoft Office|Office]] 365 with Jess Stratton.
 >
 > **[0:19](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/create-more-with-powerpoint-for-the-web?u=76281980&t=19)** If you're an educator, check out PowerPoint 365 for Educators with a Alan Ackmann and PowerPoint: Eight Ways to Make Your Presentation Stand Out with Jole Simmons.
 >
-> **[0:31](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/create-more-with-powerpoint-for-the-web?u=76281980&t=31)** You can find me on LinkedIn and on Twitter.
+> **[0:31](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/create-more-with-powerpoint-for-the-web?u=76281980&t=31)** You can find me on [[LinkedIn]] and on Twitter.
 >
 > **[0:35](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/create-more-with-powerpoint-for-the-web?u=76281980&t=35)** Let's keep the presentation conversation going.
 
